@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 07:01:31**
+As of **2024-07-13 07:25:54**
 
 ## Newspaper Stats
 
-*Scraped **35,037** Articles*
+*Scraped **35,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,48 @@ economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,158
 adaderanalk | 4,022
-tamilmirrorlk | 4,197
+tamilmirrorlk | 4,198
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,829
+adaderanasinhalalk | 5,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,028 (100.0%) of 35,037 articles have been extended.
+35,037 (100.0%) of 35,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### பிங்கிரிய ஏற்றுமதி செயலாக்கத்தில் அபிவிருத்தில் பணிகள்
+### Tasks in Development in Pinkiriya Shipment processing
 
 *2024-07-13 06:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிங்கிரிய-ஏற்றுமதி-செயலாக்கத்தில்-அபிவிருத்தில்-பணிகள்/175-340319) · `ta`
+
+President Ranil Wickremesinghe launched the second and third phases of the Bingiriya Export Zone, aiming to boost Sri Lanka's economy through exports, manufacturing, tourism, tech, and modern farming. Expected to generate $2.6 billion and create 75,000 jobs, the project includes improvements in Bingiriya, Dummullasuriya, and Madambai, and plans to convert Pingiriya into an economic zone covering agriculture, manufacturing, IT, tourism, and fishing.
+
+🟩
+
+President Ranil Wickremesinghe said the government could build a strong economy within the country through export economy, manufacturing, tourism, technology and modern agriculture.
+
+The President said this at a function held yesterday inaugurating the second and third phase of development work of the Bingiriya Export Zone on 1000 acres as the largest export zone in Sri Lanka.
+
+After the completion of the Bingiriya Loom Zone, it is expected to earn $ 2600 million and 75,000 new employment opportunities will be created.
+
+Dongxia Industrial & Commerce Co.ltd. The President opened the company's office and supervised the company premises and discussed with the staff.
+
+...
+
+[Data](articles/bf96567a.json)
+
+[Extended Data](ext_articles/bf96567a.ext.json)
+
+---
+
+### பிங்கிரிய ஏற்றுமதி செயலாக்கத்தில் அபிவிருத்தி பணிகள்
+
+*2024-07-13 06:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிங்கிரிய-ஏற்றுமதி-செயலாக்கத்தில்-அபிவிருத்தி-பணிகள்/175-340319) · `ta`
 
 ஏற்றுமதி பொருளாதாரம், உற்பத்தி, சுற்றுலா, தொழில்நுட்பத் துறை, நவீன விவசாய முறை ஆகியவற்றின் ஊடாக நாட்டுக்குள் வலுவான பொருளாதாரத்தைக் கட்டமைக்க முடியும் எனவும் அதற்கு அவசியமான அடித்தளத்தை அரசாங்கம் இட்டுள்ளதாகவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
 
@@ -46,7 +70,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/bf96567a.json)
+[Data](articles/ff4d380f.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට ගිගුරුම් සහිත වැසි
+
+*2024-07-13 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198754) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන අතර ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඌව පළාත, අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+උතුරු සහ උතුරු-මැද පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි බව සඳහන් වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/c0e7b6ca.json)
 
 ---
 
@@ -64,6 +106,8 @@ Expressing his thoughts, Mahesh Wijewardene, Chief Executive Officer, Singer Gro
 
 [Data](articles/1efc5ca6.json)
 
+[Extended Data](ext_articles/1efc5ca6.ext.json)
+
 ---
 
 ### Foreign bargain-hunting energizes share market
@@ -77,6 +121,8 @@ The All- Share Price Index went up by 41.7 points while S and P SL20 rose by 27.
 ...
 
 [Data](articles/3dc06b46.json)
+
+[Extended Data](ext_articles/3dc06b46.ext.json)
 
 ---
 
@@ -98,6 +144,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/d0e8cf35.json)
 
+[Extended Data](ext_articles/d0e8cf35.ext.json)
+
 ---
 
 ### People’s Bank organizes blood donation camp to mark 63rd anniversary
@@ -118,6 +166,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/fdbcbb26.json)
 
+[Extended Data](ext_articles/fdbcbb26.ext.json)
+
 ---
 
 ### Signal partners with SLDA for a successful 91st year Annual Scientific Session
@@ -133,6 +183,8 @@ Professor Hemantha Amarasinghe, President of the Sri Lanka Dental Association, s
 ...
 
 [Data](articles/1f32b5e4.json)
+
+[Extended Data](ext_articles/1f32b5e4.ext.json)
 
 ---
 
@@ -2217,51 +2269,5 @@ A group of Indian citizens aged 25, 26, 33, 38, 39 and 42 have been arrested.
 [Data](articles/136aedeb.json)
 
 [Extended Data](ext_articles/136aedeb.ext.json)
-
----
-
-### Kolonna shooting: STF arrests two murder suspects with firearms and drugs
-
-*2024-07-12 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100458/kolonna-shooting-stf-arrests-two-murder-suspects-with-firearms-and-drugs) · `en`
-
-Two suspects involved in the shooting and killing of a person in Kolonna earlier this week have been apprehended by Police Special Task Force (STF) personnel, along with the firearms allegedly used in the crime.
-
-The suspects have been arrested near a garment factory in the Middeniya police area by a team of officers of the STF Organised Crime Unit I.
-
-The suspects, identified as Ramanayakage Indika Kumara alias ‘Kale Mahinda’ and Jayawardena Abeysinghe Pathiranage Sandakelum Jayawardena, were arrested while in possession of 02 locally manufactured ‘Galkatas’ firearms, 02 rounds of live ammunition (12-bore), 100 grams of heroin, a motorcycle suspected to have been used in the shooting and 3 mobile phones.
-
-They have been handed over to the Kolonna Police Station for further investigation.
-
-Meanwhile it has been uncovered that these suspects are close associates of “Rotumba Amila”, a member of an organized crime syndicate who is currently operating a drug network in Sri Lanka from France.
-
-...
-
-[Data](articles/0ce27f0d.json)
-
-[Extended Data](ext_articles/0ce27f0d.ext.json)
-
----
-
-### The horrific accident on the A-9
-
-*2024-07-12 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198730) · `si`
-
-In a tragic accident on the A-9 highway, a woman died, while two other passengers were seriously injured. The incident involved a van traveling from Vavuniya to Kandy via Jaffna and Kokavil. The driver has been detained, and further inquiries are ongoing.
-
-🟩
-
-A woman was killed in a criminal accident in the Mankulam Police Division yesterday (11).
-
-The accident had occurred when a van that was operated from Vavuniya to Kilinochchi towards Kokavil in Jaffna to Kandy, police said.
-
-Two women and a man were admitted to the Kilinochchi hospital, who was seriously injured in the accident.
-
-The driver of the van has been arrested by the driver of the van and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/bde0e07e.json)
-
-[Extended Data](ext_articles/bde0e07e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 17:20:03**
+As of **2024-07-13 17:35:49**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,848
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,081 (100.0%) of 35,083 articles have been extended.
+35,083 (100.0%) of 35,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### ඩිලාන් පෙරේරා ගමන්ගත් රථයත් අනතුරකට
+### Dilan Perera's vehicle or accident
 
 *2024-07-13 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198773) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ඩිලාන් පෙරේරා ගමන්ගත් මෝටර් රථය අනතුරකට ලක්වී තිබේ.
+MP Dilan Perera was injured in a car accident near Milometer Village on the Southern Expressway during heavy rain. The car skidded off the road and hit a safety fence.
 
-මන්ත්‍රීවරයා අද (13) මතුගම පැවැත්වෙන රැස්වීමක් සඳහා යමින් සිටියදී දක්ෂිණ අධිවේගී මාර්ගයේ 82/1 කිලෝමීටර් කණුව ආසන්නයේදී මෙම සිද්ධියට මුහුණ දී ඇත.
+🟩
 
-අධික වර්ෂාවත් සමග මෝටර් රථය ලිස්සා ගොස් අධිවේගී මාර්ගයේ ආරක්ෂිත වැටේ ගැටීමෙන් අනතුර සිදුවී තිබුණි.
+The car traveling to MP Dilan Perera has been injured.
+
+The MP has faced the incident near the 82/1 Milometer Village on the Southern Expressway while he was heading for a meeting held today.
+
+The accident had occurred when the car slips with heavy rains and collided with the safe fence on the expressway.
 
 ◼️
 
 [Data](articles/17319fb7.json)
+
+[Extended Data](ext_articles/17319fb7.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ Kalutara – South Police together with the Expressway Police are conducting fur
 ◼️
 
 [Data](articles/559b14a3.json)
+
+[Extended Data](ext_articles/559b14a3.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 21:04:59**
+As of **2024-07-13 21:19:43**
 
 ## Newspaper Stats
 
-*Scraped **35,093** Articles*
+*Scraped **35,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,037
 tamilmirrorlk | 4,208
 dailymirrorlk | 4,733
 virakesarilk | 5,480
-adaderanasinhalalk | 5,851
+adaderanasinhalalk | 5,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,093 (100.0%) of 35,093 articles have been extended.
+35,093 (100.0%) of 35,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### අනුරාධපුරය ලෝක ප්‍රසිද්ධ කරන්න ජනපති ගෙනආ සැලසුම
+
+*2024-07-13 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198778) · `si`
+
+ඓතිහාසික අනුරාධපුර නගරය නැවතත් ලෝක ප්‍රසිද්ධ නගරයක් බවට පත්කිරීමේ වැඩපිළිවෙළ ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ අදහස් පළකළේ ඓතිහාසික ජය ශ්‍රී මහ බෝධිය පරිශ්‍රයේ ස්ථාපිත කරන ලද සුර්යබල විදුලි පද්ධතිය සසුනට පූජා කිරීමේ උත්සවයට එක්වෙමිනි.
+
+අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැඩසිටින පරිශ්‍රයට විදුලිය සැපයීම සඳහා පෞද්ගලික සමාගමක් විසින් ස්ථාපිත සුර්යබල විදුලි පද්ධතියෙන් උත්පාදනය කෙරෙන විදුලිය ධාරිතාව කිලෝවොට් 150කි.
+
+"අපි අනුරාධපුර නගරය තුළ මෙම කටයුතු ක්‍රියාත්මක කිරීමට අවශ්‍ය පියවර ගත්තේ නැහැ. ඒ නිසා පුරාවිද්‍යා දෙපාර්තමේන්තුව සහ සංස්කෘතික ත්‍රිකෝණය යන දෙකම කැඳවා මෙම වැඩකටයුතු කරගෙන යන ලෙස මම උපදෙස් දුන්නා. ඒ වගේම මහාවිහාරයේ කැණීම් කටයුතු සිදු කිරීමට ඩර්හැම් විශ්වවිද්‍යාල සමඟ එකඟතාවක් ඇති කරගෙන තිබෙනවා. නායක ස්වාමින් වහන්සේලා සමඟ සාකච්ඡා කර එම කටයුතු කඩිනමින් කරගෙන යාමට උපදෙස් දී තිබෙනවා. එම කටයුතු සඳහා ආචාර්ය ප්‍රශන්ත ගුණවර්ධන මැතිතුමා සම්බන්ධ කර තිබෙනවා."
+
+...
+
+[Data](articles/a2295d3c.json)
+
+---
 
 ### UNESCO DG to discuss archaeological endeavours in Anuradhapura, Sri Lanka: President
 
@@ -2215,31 +2233,5 @@ When the case was heard in court, it was ordered to be sealed to the restaurant 
 [Data](articles/161cecb5.json)
 
 [Extended Data](ext_articles/161cecb5.ext.json)
-
----
-
-### Reveal the Digana riot investigation report soon - request to Mujibur Speaker
-
-*2024-07-12 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188291) · `ta`
-
-Opposition leader Mujibur Rahman calls for swift release of the Human Rights Commission's long-delayed report on the 2018 Digana riots, urging the Constitutional Council Chairman to ensure transparency and justice.
-
-🟩
-
-The Human Rights Commission, which investigated the 2018 riots in the country, has not issued the report so far. Opposition member Mujibur Rahman said that this should be taken and taken action.
-
-All the independent commissions in the country function below the Constitutional Council. Members of the Commission are appointed by the Constitutional Council.
-
-As the Chairman of the Council, you have the responsibility of searching for the activities of the Commission.
-
-Six years have passed since the riots in 2018 in our country. The Human Rights Commission (UNHRC) has made an inquiry into the incident to investigate the incident. But six years after the riot took place, the investigation report on the matter has not yet been revealed.
-
-As the Chairman of the Constitutional Council, I urge you to take action to look into the report of the Human Rights Commission.
-
-◼️
-
-[Data](articles/82197924.json)
-
-[Extended Data](ext_articles/82197924.ext.json)
 
 ---

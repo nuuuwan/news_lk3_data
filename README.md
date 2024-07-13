@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 12:07:47**
+As of **2024-07-13 12:19:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,059 (100.0%) of 35,060 articles have been extended.
+35,060 (100.0%) of 35,060 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -451,6 +451,8 @@ A UNICEF study conducted in 2016 showed that 23.5 percent of Sri Lankan students
 ...
 
 [Data](articles/937d6ebf.json)
+
+[Extended Data](ext_articles/937d6ebf.ext.json)
 
 ---
 

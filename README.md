@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 08:14:26**
+As of **2024-07-13 08:22:28**
 
 ## Newspaper Stats
 
-*Scraped **35,043** Articles*
+*Scraped **35,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,158
 adaderanalk | 4,022
-tamilmirrorlk | 4,199
+tamilmirrorlk | 4,200
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,832
+adaderanasinhalalk | 5,833
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,040 (100.0%) of 35,043 articles have been extended.
+35,040 (100.0%) of 35,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### ලබන වසරේ චන්ද්‍රිකාවක් යැවීමට සැලසුම්
+
+*2024-07-13 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198757) · `si`
+
+ලබන වසරේ දී චන්ද්‍රිකාවක් යැවීමට සඳහා සැලසුම් කර ඇති බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
+
+එහි මහාචාර්ය චන්දන ජයරත්න මහතා සඳහන් කලේ පාසල් ළමුන් සඳහා චන්ද්‍රිකා තාක්ෂණය පිළිබඳ දැනුම ලබාදීම සඳහා තවදුටරත් යටිතල පහසුකම් සංවර්ධනය කළයුතු බවය.
+
+චන්ද්‍රිකා තාක්ෂණය සම්බන්ධයෙන් පාසල් සිසුන් දැනුවත් කිරීමේ වැඩසටහනකට එක් වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/fea1a5d1.json)
+
+---
+
+### இன்று முதல் சில தினங்களுக்கு மழை
+
+*2024-07-13 08:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-சில-தினங்களுக்கு-மழை/175-340321) · `ta`
+
+இலங்கையின் தென்மேற்குப் பிராந்தியத்தில் இன்று முதல் அடுத்து வரும் சில தினங்களுக்கு மழையுடனான வானிலை அதிகரித்துக் காணப்படுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+சபரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் 50 மில்லிமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யக்கூடும்.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள புதுப்பிக்கப்பட்ட அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/bf432dc1.json)
+
+---
 
 ### සංගීත සංදර්ශනයක් අතරතුර තවත් ඝාතනයක්
 
@@ -2201,57 +2233,5 @@ Police have arrested Jilani who attacked Mehbubi. According to law, police are i
 [Data](articles/c48935ff.json)
 
 [Extended Data](ext_articles/c48935ff.ext.json)
-
----
-
-### Yall. Three arrested in Kayts
-
-*2024-07-12 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188275) · `ta`
-
-Three youths were arrested in Kayts for allegedly kidnapping a woman near a church. The victim escaped and was found elsewhere in Kayts. Police are investigating the case.
-
-🟩
-
-Three youths have been arrested on charges of kidnapping a woman in the Kayts area in Jaffna.
-
-A young woman was abducted near a church in Kayts area.
-
-The police took action after the police were informed by the Kayts police in connection with the incident.
-
-In the meantime, the kidnapped girl has fled the street in another area of ​​Kayts.
-
-Nevertheless, the police have carried out investigations by the three men arrested and detained at the police station on charges of abducting the woman.
-
-◼️
-
-[Data](articles/cd377f7c.json)
-
-[Extended Data](ext_articles/cd377f7c.ext.json)
-
----
-
-### Strict protection to the body of the telephone club Vasantha
-
-*2024-07-12 11:08:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-வின்-சடலத்துக்கு-கடும்-பாதுகாப்பு/175-340279) · `ta`
-
-Vasantha Surendra Perera, aka Club Vasantha, has enhanced security after threats. Following a phone warning, his body is now under strict protection at a private location in Colombo. Intelligence reports suggest suspects from the Athurugiriya shooting might try to escape to India via Mannar's fishing boats, leading to increased checkpoints and roadblocks. Law enforcement is closely monitoring individuals without valid fishing identity cards, particularly those boarding boats from Mannar.
-
-🟩
-
-Surendra Vasantha Perera, also known as 'Club Vasantha', has been placed at a private flower in Colombo. The security has been strengthened there.
-
-The move is said to have been taken following a telephone call, which has been threatened by the club Vasantha's body.
-
-Meanwhile, special checkpoints have been established throughout Mannar on information received by the intelligence agencies that the suspects involved in the Athurugiriya shooting incident may seek to flee to India by fishing boats.
-
-The suspects have warned airports and other key points to prevent the country from leaving the country. However, a number of special checkpoints and roadblocks have been set up due to the increase in the risk of fleeing through Mannar.
-
-Law enforcement officials are monitoring people who have no valid fishing identity card, especially those who board the fishing boats from Mannar.
-
-◼️
-
-[Data](articles/89bfe0a6.json)
-
-[Extended Data](ext_articles/89bfe0a6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 19:05:47**
+As of **2024-07-13 19:19:47**
 
 ## Newspaper Stats
 
-*Scraped **35,087** Articles*
+*Scraped **35,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 4,036
 tamilmirrorlk | 4,208
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,849
+adaderanasinhalalk | 5,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,087 (100.0%) of 35,087 articles have been extended.
+35,087 (100.0%) of 35,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### මදූෂ්ගේ සුසානය ළඟ සලකුණක් තබා යයි
+
+*2024-07-13 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198776) · `si`
+
+ඝාතනයට ලක්වූ සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්තගේ දේහය පිළිබඳ අවසන් කටයුතු අද (13) බොරැල්ල පොදු සුසාන භූමියේදී සිදුකෙරුණි.
+
+මෙවන් පසුබිමක මාකඳුරේ මදූෂ්ගේ දේහය භූමදන කර ඇති ගොඩිගමුව පොදු සුසාන භූමියේ ඉදිරිපස ඔහුගේ ඡායාරූපයක් සහිත බැනරයක් ප්‍රදාර්ශනය කර තිබූ බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+එහි සඳහන් කර තිබුණේ "අපේ අයියේ එක එක්කෙනා එවනවා. අපි එනකන් බලාගන්න." යනුවෙනි.
+
+මේ අතර වසන්තගේ මුල්ගම වූ නුවරඑළිය නගරයද සුදුකොඩිවලින් සරසා තිබෙන අයුරු දක්නට ලැබූ බවද අප වාර්තාකරුවන් පැවසීය.
+
+අතුරුගිරිය ප්‍රදේශයේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් පසුගිය 8වනදා වෙඩිතබා ඝාතනය කෙරුණි.
+
+ක්ලබ් වසන්තගේ දේහය තර්ජන මධ්‍යයේ ජයරත්න මල්ශාලාවේ තැන්පත් කිරීමෙන් අනතුරුව අද පස්වරුවේ බොරැල්ල පොදු සුසාන භූමියේදී ඥාතීන් විසින් අවසන් කටයුතු සිදු කළේය.
+
+එහිදී ආරක්ෂාව සඳහා පොලීසිය හා විශේෂ කාර්ය බළකාය පැමිණ තිබුණි.
+
+ඔහුට අවසන් ගෞරව සඳහා සමීපතමයන් පිරිසක් එක්ව සිටි බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/613181da.json)
+
+---
 
 ### The Prime Minister praised civil servants
 
@@ -2227,19 +2253,5 @@ The Sri Lankan Police will save more than Rs. 25 million from the emergence of n
 [Data](articles/a09d5ee6.json)
 
 [Extended Data](ext_articles/a09d5ee6.ext.json)
-
----
-
-### Beyond Debt Restructuring
-
-*2024-07-12 16:16:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/beyond-debt-restructuring/) · `en`
-
-When Sri Lanka declared bankruptcy, everyone feared a massive shortage of essential goods such as food, petrol, gas, and medicine. They also expected the rupee to plummet, the banking system to collapse, and a situation where people would riot. However, compared to other bankrupt countries, Sri Lanka did not reach such a dire state. Though people faced significant hardships, the situation was not as bad as anticipated.
-
-...
-
-[Data](articles/f4d2d5a1.json)
-
-[Extended Data](ext_articles/f4d2d5a1.ext.json)
 
 ---

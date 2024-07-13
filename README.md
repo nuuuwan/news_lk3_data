@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 08:22:28**
+As of **2024-07-13 08:54:08**
 
 ## Newspaper Stats
 
-*Scraped **35,045** Articles*
+*Scraped **35,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,83 +20,133 @@ adaderanalk | 4,022
 tamilmirrorlk | 4,200
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,833
+adaderanasinhalalk | 5,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,040 (100.0%) of 35,045 articles have been extended.
+35,046 (100.0%) of 35,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### ලබන වසරේ චන්ද්‍රිකාවක් යැවීමට සැලසුම්
+### Mother for sale with son
+
+*2024-07-13 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198758) · `si`
+
+In Chavakachcheri, a woman was arrested with over 80kg of cannabis. The police raided her home, finding 87kg of marijuana. She allegedly sold drugs with her son, hiding them in their house.
+
+🟩
+
+A woman was arrested in the Chavakachcheri Kachcheriya South area with more than 80 kilograms of cannabis.
+
+The police said that the raid was carried out on a suspect, who was arrested with 500 grams of marijuana when he inspects a motornaban before the previous day.
+
+Police have seized 87 kilograms of marijuana in the possession of the woman.
+
+The 55-year-old Kachchary South is a resident of Kodikaman.
+
+The preliminary investigations have revealed that the suspect was selling cannabis with his son and had been hidden in the house.
+
+◼️
+
+[Data](articles/6d630fab.json)
+
+[Extended Data](ext_articles/6d630fab.ext.json)
+
+---
+
+### Plans to send a satellite next year
 
 *2024-07-13 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198757) · `si`
 
-ලබන වසරේ දී චන්ද්‍රිකාවක් යැවීමට සඳහා සැලසුම් කර ඇති බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
+The Arthur C. Clarke Center plans to launch a satellite next year, aiming to enhance educational programs on satellite technology for schoolchildren. Professor Chandana Jayaratne emphasized the importance of developing infrastructure to share this knowledge effectively.
 
-එහි මහාචාර්ය චන්දන ජයරත්න මහතා සඳහන් කලේ පාසල් ළමුන් සඳහා චන්ද්‍රිකා තාක්ෂණය පිළිබඳ දැනුම ලබාදීම සඳහා තවදුටරත් යටිතල පහසුකම් සංවර්ධනය කළයුතු බවය.
+🟩
 
-චන්ද්‍රිකා තාක්ෂණය සම්බන්ධයෙන් පාසල් සිසුන් දැනුවත් කිරීමේ වැඩසටහනකට එක් වෙමින් ඔහු මේ බව සඳහන් කළේය.
+Arthur C. Clark Center says that it is planned to send a satellite next year.
+
+Professor Chandana Jayaratne said that the information on the infrastructure should be developed to provide the knowledge of satellite technology for school children.
+
+He was speaking at a program to educate the school children on satellite technology.
 
 ◼️
 
 [Data](articles/fea1a5d1.json)
 
+[Extended Data](ext_articles/fea1a5d1.ext.json)
+
 ---
 
-### இன்று முதல் சில தினங்களுக்கு மழை
+### Rain for the first few days of today
 
 *2024-07-13 08:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-சில-தினங்களுக்கு-மழை/175-340321) · `ta`
 
-இலங்கையின் தென்மேற்குப் பிராந்தியத்தில் இன்று முதல் அடுத்து வரும் சில தினங்களுக்கு மழையுடனான வானிலை அதிகரித்துக் காணப்படுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology forecasts increased rainfall in Sri Lanka's southwest region, including heavy showers in parts of Sabaragamuwa, Western Provinces, and districts of Galle and Matara, with expected precipitation of 50 millimeters. Additionally, rain or thunderstorms are anticipated in the evenings or nights across Eastern and Uva provinces.
 
-சபரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் 50 மில்லிமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யக்கூடும்.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள புதுப்பிக்கப்பட்ட அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
+The Department of Meteorology has predicted that rainy weather will increase for the next few days in the southwest region of Sri Lanka.
+
+Heavy rainfall is likely to occur in some parts of the Sabaragamuwa and Western Provinces, in some parts of the Galle and Matara districts and 50 millimeters.
+
+The Renewed Report of the Department of Meteorology stated that rain or thunderstorms may occur in the evening or night in some parts of the Eastern and Uva provinces.. (A)
 
 ◼️
 
 [Data](articles/bf432dc1.json)
 
+[Extended Data](ext_articles/bf432dc1.ext.json)
+
 ---
 
-### සංගීත සංදර්ශනයක් අතරතුර තවත් ඝාතනයක්
+### Another murder during a musical show
 
 *2024-07-13 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198756) · `si`
 
-පොලීසිය පැවසුවේ මොරයාය ප්‍රදේශයේ පැවති සංගීත සංදර්ශනයක් අතරතුර දෙපාර්ශවයක් අතර ඇතිවූ ගැටුමක දී මෙම මරණය සිදුව ඇති බවය.
+A fatal clash occurred during a musical event in Morayaya, resulting in the death of a 30-year-old local man. The incident involved two groups, leading to the victim being hospitalized in Tangalle and Embilipitiya hospitals, where his condition is reported to be stable.
 
-මියගොස් ඇත්තේ 30 හැවිරිදි වීරකැටිය මොරයාය ප්‍රදේශයේ පදිංචිකරුවකු බව පොලීසිය පවසයි.
+🟩
 
-ඔවුන් ප්‍රතිකාර සඳහා තංගල්ල සහ ඇඹිලිපිටිය රෝහලට වලට ඇතුළත් කර ඇති අතර ඔවුන්ගේ තත්ත්වය බරපතළ නොවන බව රෝහල් ප්‍රකාශකයෙකු සඳහන් කළේය.
+Police said that the death was caused by a clash between two parties during a musical show in Morayaya.
+
+The deceased has been identified as a 30 year old resident of Morayaya, Weeraketiya, police said.
+
+They were admitted to Tangalle and Embilipitiya hospital for treatment and their condition is not serious.
 
 ◼️
 
 [Data](articles/a3c5175f.json)
 
+[Extended Data](ext_articles/a3c5175f.ext.json)
+
 ---
 
-### අධික ලෙස දුම් පිට කරන රථවාහන අසාදු ලේඛනය ට
+### To the document that excessively smoked vehicles
 
 *2024-07-13 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198755) · `si`
 
-අධික ලෙස දුම පිට කරමින් ධාවනය කරන රථවාහන අසාදු ලේඛන ගත කිරීමට පියවර ගන්නා බව මෝටර් රථ දෙපාර්තමේන්තුවේ වාහන වායු විමෝචන භාරකාර අරමුදල පවසයි.
+The Department of Motor Traffic plans to document vehicles emitting excessive smoke, aiming to reduce pollution. Director Dasu Gamage mentions the capability to inspect over 4,000 additional vehicles. He emphasizes the importance of genuine smoke certificates for licensing, cautioning against fraudulent practices. Enforcement teams across the country are actively checking vehicles, and owners without proper maintenance orders may face action.
 
-එහි අධ්‍යක්ෂ දසුන් ගමගේ මහතා සඳහන් කළේ මාර්ගයේ ධාවන කරන එවැනි වාහන සම්බන්ධයෙන් 070 3500 525 යන වට්ස් ඇප් අංකයට පැමිණිලි යොමු කිරීමේ හැකියාව පවතින බවය.
+🟩
 
-වාහන බලපත්‍රය ලබා ගැනීමේ අරමුණින් පමණක් දුම් සහතිකය ලබා ගැනීම සිදුනොකරන ලෙස දසුන් ගමගේ මහතා රියදුරන්ගෙන් ඉල්ලා සිටියි.
+The Vehicle Emissions Fund of the Department of Motor Traffic will take steps to document the vehicles driven by excessive smoke.
 
-ව්‍යාජ උපක්‍රම ඔස්සේ දුම් සහතිකය ලබා ගැනීම ට  බොහෝ පිරිස් පෙළඹී සිටිය ද, එම රථ වාහන මාර්ගයේ ධාවනය වන විට පොලිස් නිලධාරීන් සහ මෝටර් රථ දෙපාර්තමේන්තුවේ නිලධාරීන් දිවයිනේ සියලුම ප්‍රදේශවලදී අදාළ පරික්ෂාවන් සිදු කරන බව ඒ මහතා පවසයි.
+Its director Dasu Gamage said that there is a capacity to refer to the 7th 3,500 525 more vehicles on the road.
 
-එම අවස්ථාවක දී අධික දුමක් පිට වන බවට නිරීක්ෂණය වුවහොත් අදාළ රථයේ හිමිකරුට විරුද්ධව නඩත්තු නියෝගයක් එසේත් නොමැති නම් තහනම් නියෝගයක් රථයට ලැබෙන බව ද ඒ මහතා වැඩිදුරටත්  පැහැදිලි කළේය.
+Dasu Gamage is requested to obtain the smoking certificate only for the purpose of obtaining the vehicle license.
+
+He said that although many people were persuaded to obtain smoke certificate through fake tricks, the police officers and the officers of the vehicle department are conducting applications in all areas of the country.
+
+If he observes excessive smoke, he added that if a maintenance order is not available against the owner of the vehicle, he added.
 
 ◼️
 
 [Data](articles/73ac6a7e.json)
+
+[Extended Data](ext_articles/73ac6a7e.ext.json)
 
 ---
 
@@ -915,6 +965,8 @@ The program will help create a conducive environment for private investments, bo
 ...
 
 [Data](articles/922902f8.json)
+
+[Extended Data](ext_articles/922902f8.ext.json)
 
 ---
 
@@ -2207,31 +2259,5 @@ There are 63 passengers on both buses. The search for passengers on the bus is u
 [Data](articles/b1341208.json)
 
 [Extended Data](ext_articles/b1341208.ext.json)
-
----
-
-### Brother -in -law
-
-*2024-07-12 11:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொந்த-தங்கையை-கோடாரியால்-வெட்டிய-அண்ணன்/175-340280) · `ta`
-
-A shocking video of a man attacking his sister with an axe in Benagaserla village, Andhra Pradesh, has gone viral. The incident occurred due to a dispute over evacuating their home after a landslide. The attacker, identified as Jilani, was arrested by the police. His sister, Mehbubi, was hospitalized following the assault.
-
-🟩
-
-The video of his brother -in -law's brother cut off her own sister has caused great shock.
-
-The horrific incident took place in Benagaserla village in Anantapur, Andhra Pradesh. One person attacked his sister with an ax due to landslide. Someone has posted the incident on social networks. This video is currently going viral.
-
-Upon learning of the incident, Posar rushed to the scene and caught the woman with an ax attack. It was revealed that the cut was Mehbubi and the man who cut him with an ax. The woman who was injured in the attack has been admitted to hospital.
-
-In an investigation conducted by the police, Jilani's sister Mehbubi lived in a house in Benagaserla village. Jilani has been intimidated by telling her to evacuate the house. Investigations revealed that Gilani was attacked by an ax in a rage that he did not vacate the house.
-
-Police have arrested Jilani who attacked Mehbubi. According to law, police are investigating whose house is.
-
-◼️
-
-[Data](articles/c48935ff.json)
-
-[Extended Data](ext_articles/c48935ff.ext.json)
 
 ---

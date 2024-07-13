@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 22:35:10**
+As of **2024-07-13 22:52:58**
 
 ## Newspaper Stats
 
-*Scraped **35,100** Articles*
+*Scraped **35,102** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 313
-colombotelegraphcom | 329
+colombotelegraphcom | 330
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,977
 economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,038
+adaderanalk | 4,039
 tamilmirrorlk | 4,210
 dailymirrorlk | 4,733
 virakesarilk | 5,480
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,098 (100.0%) of 35,100 articles have been extended.
+35,100 (100.0%) of 35,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### At least 71 Palestinians killed, Gaza officials say, as Israel targets Hamas military chief
+
+*2024-07-13 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100489/at-least-71-palestinians-killed-gaza-officials-say-as-israel-targets-hamas-military-chief) · `en`
+
+An Israeli airstrike killed at least 71 Palestinians in a designated humanitarian zone in Gaza on Saturday, the enclave’s health ministry said, in an attack that Israel said targeted Hamas military chief Mohammed Deif.
+
+It was unclear whether Deif was killed. “We are still checking and verifying the results of the strike,” an Israeli military official told reporters.
+
+The militant Islamist group Hamas said in a statement that Israeli claims it had targeted leaders of the group were false and aimed at justifying the attack, which was the deadliest Israeli attack in Gaza in weeks.
+
+Displaced people sheltering in the area said their tents were torn down by the force of the strike, describing bodies and body parts strewn on the ground.
+
+“I couldn’t even tell where I was or what was happening,” said Sheikh Youssef, a resident of Gaza City who is currently displaced in the Al-Mawasi area.
+
+...
+
+[Data](articles/65283107.json)
+
+---
 
 ### Excellent of retirement from Test
 
@@ -358,6 +378,16 @@ The results of the General IT Examination are obtained by visiting www.doenets.l
 
 ---
 
+### Another Poem On Universal Human Rights
+
+*2024-07-13 17:06:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/another-poem-on-universal-human-rights/) · `en`
+
+◼️
+
+[Data](articles/0ed8f329.json)
+
+---
+
 ### Dilan Perera's vehicle or accident
 
 *2024-07-13 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198773) · `si`
@@ -532,6 +562,8 @@ Art should be at the heart of a free, creative community and culture. Much of wh
 
 [Data](articles/a69ad829.json)
 
+[Extended Data](ext_articles/a69ad829.ext.json)
+
 ---
 
 ### A warning about suddenly dragged on the rain
@@ -615,6 +647,8 @@ The hypothesis that ‘what is unowned is un-marketed, what is un-marketed is un
 ...
 
 [Data](articles/f87dd646.json)
+
+[Extended Data](ext_articles/f87dd646.ext.json)
 
 ---
 
@@ -2197,47 +2231,5 @@ The program will help create a conducive environment for private investments, bo
 [Data](articles/922902f8.json)
 
 [Extended Data](ext_articles/922902f8.ext.json)
-
----
-
-### Sri Lanka appoints new Attorney General
-
-*2024-07-12 17:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-new-attorney-general-171935/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has appointed K A Parinda Ranasinghe PC as Attorney General.
-
-He was appointed in terms of Article 61E (b) of the Constitution of Sri Lanka, the president’s media division said.
-
-The new AG received the appointment from President Wickremesinghe at the Presidential Secretariat on Friday.
-
-He fills the post after the retirement of former Attorney General Sanjay Rajaratnam. (Colombo/Jul12/2024)
-
-◼️
-
-[Data](articles/ea76180c.json)
-
-[Extended Data](ext_articles/ea76180c.ext.json)
-
----
-
-### Request a report on cutting for cutting IP's
-
-*2024-07-12 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198748) · `si`
-
-The Colombo Magistrate's Court has directed the Colombo Crimes Division to investigate a case involving IP cutting, based on a motion from the suspect's lawyers. The court has also tasked the Borella Police with conducting an investigation and submitting a report.
-
-🟩
-
-The Colombo Magistrate's Court ordered the Superintendent of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division of the Colombo Crimes Division.
-
-The suspect was considering the motion presented by his lawyers for the Inspector General of Police, the Chief Magistrate Thilina Gamage issued the order.
-
-In addition, the Magistrate also ordered the Borella Police to investigate and submit a report.
-
-◼️
-
-[Data](articles/5d76a17f.json)
-
-[Extended Data](ext_articles/5d76a17f.ext.json)
 
 ---

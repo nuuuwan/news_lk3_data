@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 22:07:03**
+As of **2024-07-13 22:19:58**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 5,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,097 (100.0%) of 35,098 articles have been extended.
+35,098 (100.0%) of 35,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### ටෙස්ට් පිටියෙන් සමුගත් විශිෂ්ටයා
+### Excellent of retirement from Test
 
 *2024-07-13 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198779) · `si`
 
-එංගලන්තයෙන් බිහිවූ විශිෂ්ටතම වේගපන්දු යවන්නා වූ ජේම්ස් ඇන්ඩර්සන් ජාත්‍යන්තර ටෙස්ට් ක්‍රිකට් පිටියට ඊයේ (12) සමු දුන්නේය.
+James Anderson, an English cricketer, recently retired from international Test cricket after a career spanning 21 years. Known for his exceptional bowling skills, he holds the record for taking the most wickets in Tests, second only to Muttiah Muralitharan and Shane Warne. His final match saw him take 4 wickets as England won against India by 121 runs. Celebrating his retirement, Anderson was joined by his family and friends at Lord's Cricket Ground, marking the end of a remarkable career in Test cricket.
 
-ඔහු ටෙස්ට් පිටියට සමුදුන්නේ වැඩිම ටෙස්ට් කඩුලු සංඛ්‍යාවක් දවා ගත් වේගපන්දු යවන්නාට හිමි වාර්තාවද සිය නම ඉදිරියේ සටහන් කර ගනිමිනි.
+🟩
 
-සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ එංගලන්ත අතර පළමු ටෙස්ට් ක්‍රිකට් තරගය ඉනිමකින් සහ ලකුණු 121කින් ජය ගැනීමට එංගලන්තය ඊයේ සමත් විය.
+James Anderson, who was born in England, retired to the International Test cricket.
 
-එම තරගය ජේම්ස් ඇන්ඩර්සන් සිය ටෙස්ට් ක්‍රිකට් දිවියේ සහභාගි වූ අවසන් ටෙස්ට් තරගය වූ අතර ඔහු එම තරගයේදී කඩුලු 4ක් දවා ගත්තේය.
+He was consumed to the tests that a fast bowler recorded in front of his name.
 
-සිය ටෙස්ට් දිවියේ අවසන් තරගයට එක් වූ ජේම්ස් ඇන්ඩර්සන් ලෝර්ඩ්ස් ක්‍රීඩාංගණයට රැස්ව සිටි ක්‍රීඩාලෝලීන්ගේ ආචාර මැද සිය ටෙස්ට් ක්‍රිකට් දිවිය නිමා කළ අතර එම තරගය නැරඹීමට ඔහුගේ බිරිඳ ඇතුළු පවුලේ සාමාජිකයින්ද එක්විය.
+England yesterday, England won the first Test match between England and 121 runs.
 
-වසර 21ක් ජාත්‍යන්තර ටෙස්ට් ක්‍රිකට් පිටිය හැඩ කළ මෙම අසහාය පන්දුයවන්නා තව දින කිහිපයකින් සිය 42 වැනි වියට පා තබන අතර ඔහු ටෙස්ට් පිටියෙන් සමුගන්නා විට දවාගෙන තිබූ කඩුලු  සංඛ්‍යාව 704කි.
+James Anderson, James Anderson, was the last Test to play in Test cricket and took 4 wickets in the match.
 
-...
+James Anderson, joined the Lunson's gathering in the Larson's Lurniture, and his wife and members of the family were brought to watch the match.
+
+The eight-year bowler shaped the international test cricket ground for 21 years, and the number of wickets taken from the Test.
+
+Anderson, who claimed the highest number of Test Breakdanding List after Muttiah Muralitharan and Shane Von, only 5 wickets wanted to win the highest number of wickets.
+
+Anderson saved to the Test cricket prick to save the highest wickets in the international test cricket.
+
+◼️
 
 [Data](articles/a6ba047e.json)
+
+[Extended Data](ext_articles/a6ba047e.ext.json)
 
 ---
 

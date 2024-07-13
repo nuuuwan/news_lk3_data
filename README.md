@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 00:06:27**
+As of **2024-07-14 00:20:05**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 5,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,102 (100.0%) of 35,103 articles have been extended.
+35,103 (100.0%) of 35,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### දෙරණ ලිට්ල් ස්ටාර් සීසන් 12 ජයග්‍රාහකයෝ මෙන්න
+### The Derana Little Star Season 12 winners
 
 *2024-07-13 23:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198780) · `si`
 
-ශ්‍රී ලාංකේය රූපවාහිනි ප්‍රාසංගික වැඩසටහන් අතර විශිෂ්ට නමක් දිනූ "දෙරණ ලිට්ල් ස්ටාර්" 12 වන අදියරේ අවසන් මහා තරගය උත්කර්ෂවත්ව අද (13) පැවැත්වුණි.
+In Derana Little Star Season 12, young talents aged 8 to 12 showcased their skills in singing and dancing. The 8-year-old singer emerged as the most popular, while Teshushi shone in the Under-15 dance category. Keni Yasara took home the title for the Under-12 category.
 
-තරගකරුවන් සිය ගණනකගේ සහභාගීත්වයෙන් පැවැති මූලික තරග වට රාශියකින් අනතුරුව අවසන් මහ තරගය මෙලෙස පැවැත්විය.
+🟩
 
-වයස අවුරුදු 08න් පහළ සහ 12න් පහළ ගායන හා නර්තන අංශ වෙනුවෙන් පැවැති එම තරගවලින් විනිශ්චය මණ්ඩලය විසින් දක්ෂතම පුංචි තරු තෝරාගත් අතර ප්‍රේක්ෂක මනාපයෙන් ජනප්‍රියම පුංචි තරු තෝරා පත් කර ගැනුණි.
+The 'Derana Little Star "won a great reputation between Sri Lankan television performances.
 
-ඒ අනුව වයස අවුරුදු 08න් පහළ ගායන අංශයේ ජනප්‍රියම පුංචි තරුව ලෙස කිරුළ දිනා ගත්තේ විහග සත්සර ය.
+After a number of basic competitions participated in hundreds of the competitors, the final was held.
 
-වයස අවුරුදු 08න් පහළ නර්තන අංශයේ ජනප්‍රියම පුංචි තරුව ලෙස තනුෂි ඉදුමිනි දියණිය අභිෂේක ලැබුවාය.
+The panel of Tribunal stars were selected by the Tribunal Little Stars in the age of 8 and 12 years of singing and under-12.
 
-අවුරුදු 12න් පහළ ගායන අංශයේ ජනප්‍රියම පුංචි තරුව ලෙස කිරුළ දිනා ගත්තේ ගමිත් නිසංස ය.
+Accordingly, the popular small star in the 8-year-old squad won the popular star.
 
-වයස අවුරුදු 12න් පහළ නර්තන අංශයේ ජනප්‍රියම පුංචි තරුව ලෙස කෙනුලි හසාරා  කිරුළ හිමිකර ගත්තාය.
+Teshushi was anointed as the most popular little star in the Under-15 dancing section.
+
+The crowd of the top 12 years of chariot was the most popular star.
+
+Keni Yasara won the most popular little star in the Under-12-year-old small star.
 
 ◼️
 
 [Data](articles/ebf420c5.json)
+
+[Extended Data](ext_articles/ebf420c5.ext.json)
 
 ---
 

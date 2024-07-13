@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 20:35:15**
+As of **2024-07-13 20:53:54**
 
 ## Newspaper Stats
 
-*Scraped **35,091** Articles*
+*Scraped **35,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 327
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,977
-economynextcom | 2,082
+economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,037
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,091 (100.0%) of 35,091 articles have been extended.
+35,091 (100.0%) of 35,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### UNESCO DG to discuss archaeological endeavours in Anuradhapura, Sri Lanka: President
+
+*2024-07-13 20:00:00* · [`economynextcom`](https://economynext.com/unesco-dg-to-discuss-archaeological-endeavours-in-anuradhapura-sri-lanka-president-171988/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president has said that he will discuss initiatives for long-term archaeological endeavours in the Anuradhapura city with visiting UNESCO Director General Audrey Azoulay.
+
+Azoulay will visit Sri Lanka from July 16-19 and take part at the celebration of the 75th Anniversary of Sri Lanka’s membership of UNESCO at the Nelum Pokuna Theatre in Colombo.
+
+She will also travel to UNESCO World Heritage Sites around the island, the Ministry of Foreign Affairs said.
+
+“I have invited the Director General of UNESCO to visit Sri Lanka and discuss initiatives for long-term archaeological endeavours in the Anuradhapura city. Several universities overseas have shown interest in supporting us for these activities, and we are moving forward with their collaboration,” Ranil Wickremesinghe said.
+
+...
+
+[Data](articles/11e62ad6.json)
+
+---
 
 ### Peliyagoda Traffic OIC's UK journey is blurred in two
 
@@ -155,6 +173,24 @@ Meanwhile, the All Ceylon People's Congress leader and Member of Parliament Rish
 [Data](articles/9363b2b2.json)
 
 [Extended Data](ext_articles/9363b2b2.ext.json)
+
+---
+
+### Government committed to improving living conditions in Jaffna: Sri Lanka PM
+
+*2024-07-13 17:46:00* · [`economynextcom`](https://economynext.com/government-committed-to-improving-living-conditions-in-jaffna-sri-lanka-pm-171971/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s prime minister, who is in Jaffna “to monitor the progress” and “get a little feedback” has said the government is committed to improving living conditions of the people in the northern peninsula.
+
+“This government is dedicated to improving the living conditions of the Jaffna Peninsula,” Dinesh Gunawardena told a Jaffna District Coordinating Committee meeting on Friday, according to a statement by his media division.
+
+“In order to increase the living conditions, we have embarked on an increase in most of the expenditure needed by the departments, and also special allocations for rural and urban development in the local government area.”
+
+Nationalist Gunawardena met with Tamil politicians at the Jaffna Divisional Secretariat Office and participated in the distribution of rice and egg incubators for low income families.
+
+...
+
+[Data](articles/c207c3b0.json)
 
 ---
 
@@ -2201,61 +2237,5 @@ As the Chairman of the Constitutional Council, I urge you to take action to look
 [Data](articles/82197924.json)
 
 [Extended Data](ext_articles/82197924.ext.json)
-
----
-
-### VFS Company Visa Provision Price Currency Auditorial Audit - State Finance Committee Recommendation
-
-*2024-07-12 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188290) · `ta`
-
-The VFS Company, which provides visa services in 145 countries, faces criticism from the State Finance Committee over its handling of visas for foreigners. The committee expresses dissatisfaction with VFS's performance and questions the transparency of visa fee charges, highlighting discrepancies between different locations and documents. The Department of Immigration and Emigration is urged to reassess its partnership with VFS, considering the potential for better decisions and more effective data protection measures.
-
-🟩
-
-There are many problems with the foreign company's issue to the foreign company.
-
-He was speaking at a meeting of the State Finance Committee on the Visa issue during a session in Parliament on Friday (12).
-
-The Department of Immigration and Emigration has caused massive controversy in the social structure of the Foreign Joint Agency to take charge of the visa to foreigners.
-
-It is dissatisfied with the fact that the officials of the committee are negligent.
-
-VFS has been provided with a visa distribution service to foreigners and the company is said to be offering service in 145 countries.. The company is not given to the joint venture, rather than the company.
-
-The company has signed an agreement with the contract for the sake of the contract. The Department of Immigration and Emigration may have taken a better decision.
-
-...
-
-[Data](articles/5d75a6e1.json)
-
-[Extended Data](ext_articles/5d75a6e1.ext.json)
-
----
-
-### Sri Lanka stocks close up, muted activity
-
-*2024-07-12 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-muted-activity-171916/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.35 percent, or 41.71 points, at 11,843; while the more liquid S&P SL20 Index closed up 0.56 percent, or 19.20 points, at 3,454.
-
-“The market picked up a bit from yesterday but it’s still below the psychological 12,000 mark,” Softlogic Stockbrokers said.
-
-John Keells Holdings Plc brought in Rs109mn to the turnover, and the share closed flat at 194.50.
-
-Melstacorp Plc contributed in Rs104mn to the turnover, and the share closed flat at 85.00.
-
-Sentiment around the banking counters was mostly negative. Sampath Bank Plc closed down at 77.00, closed flat at 101.25, and Hatton National Bank Plc closed flat at 195.25.
-
-The top contributors to the ASPI were Commercial Bank of Ceylon Plc (up at 103.50), Bukit Darah Plc (up at 397.00), and Hayleys Plc (up at 101.00).
-
-Foreign participation remained low as well. There was a higher net foreign outflow of 101 million.
-
-...
-
-[Data](articles/0f7db3a0.json)
-
-[Extended Data](ext_articles/0f7db3a0.ext.json)
 
 ---

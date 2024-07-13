@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 08:02:08**
+As of **2024-07-13 08:14:26**
 
 ## Newspaper Stats
 
-*Scraped **35,040** Articles*
+*Scraped **35,043** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 312
+dbsjeyarajcom | 313
 colombotelegraphcom | 327
 bbccomsinhala | 341
 newsfirstlk | 363
@@ -20,29 +20,71 @@ adaderanalk | 4,022
 tamilmirrorlk | 4,199
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,830
+adaderanasinhalalk | 5,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,039 (100.0%) of 35,040 articles have been extended.
+35,040 (100.0%) of 35,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### இராணுவத்தினரின் காணிகளுக்கு உறுதிப் பத்திரம்
+### සංගීත සංදර්ශනයක් අතරතුර තවත් ඝාතනයක්
+
+*2024-07-13 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198756) · `si`
+
+පොලීසිය පැවසුවේ මොරයාය ප්‍රදේශයේ පැවති සංගීත සංදර්ශනයක් අතරතුර දෙපාර්ශවයක් අතර ඇතිවූ ගැටුමක දී මෙම මරණය සිදුව ඇති බවය.
+
+මියගොස් ඇත්තේ 30 හැවිරිදි වීරකැටිය මොරයාය ප්‍රදේශයේ පදිංචිකරුවකු බව පොලීසිය පවසයි.
+
+ඔවුන් ප්‍රතිකාර සඳහා තංගල්ල සහ ඇඹිලිපිටිය රෝහලට වලට ඇතුළත් කර ඇති අතර ඔවුන්ගේ තත්ත්වය බරපතළ නොවන බව රෝහල් ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a3c5175f.json)
+
+---
+
+### අධික ලෙස දුම් පිට කරන රථවාහන අසාදු ලේඛනය ට
+
+*2024-07-13 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198755) · `si`
+
+අධික ලෙස දුම පිට කරමින් ධාවනය කරන රථවාහන අසාදු ලේඛන ගත කිරීමට පියවර ගන්නා බව මෝටර් රථ දෙපාර්තමේන්තුවේ වාහන වායු විමෝචන භාරකාර අරමුදල පවසයි.
+
+එහි අධ්‍යක්ෂ දසුන් ගමගේ මහතා සඳහන් කළේ මාර්ගයේ ධාවන කරන එවැනි වාහන සම්බන්ධයෙන් 070 3500 525 යන වට්ස් ඇප් අංකයට පැමිණිලි යොමු කිරීමේ හැකියාව පවතින බවය.
+
+වාහන බලපත්‍රය ලබා ගැනීමේ අරමුණින් පමණක් දුම් සහතිකය ලබා ගැනීම සිදුනොකරන ලෙස දසුන් ගමගේ මහතා රියදුරන්ගෙන් ඉල්ලා සිටියි.
+
+ව්‍යාජ උපක්‍රම ඔස්සේ දුම් සහතිකය ලබා ගැනීම ට  බොහෝ පිරිස් පෙළඹී සිටිය ද, එම රථ වාහන මාර්ගයේ ධාවනය වන විට පොලිස් නිලධාරීන් සහ මෝටර් රථ දෙපාර්තමේන්තුවේ නිලධාරීන් දිවයිනේ සියලුම ප්‍රදේශවලදී අදාළ පරික්ෂාවන් සිදු කරන බව ඒ මහතා පවසයි.
+
+එම අවස්ථාවක දී අධික දුමක් පිට වන බවට නිරීක්ෂණය වුවහොත් අදාළ රථයේ හිමිකරුට විරුද්ධව නඩත්තු නියෝගයක් එසේත් නොමැති නම් තහනම් නියෝගයක් රථයට ලැබෙන බව ද ඒ මහතා වැඩිදුරටත්  පැහැදිලි කළේය.
+
+◼️
+
+[Data](articles/73ac6a7e.json)
+
+---
+
+### Confirmation for the land of the military
 
 *2024-07-13 06:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்தினரின்-காணிகளுக்கு-உறுதிப்-பத்திரம்/175-340320) · `ta`
 
-முப்படையினர், இலங்கைப் பொலிஸ் மற்றும் சிவில் பாதுகாப்புப் படையில் ஊனமுற்ற வீரர்களுக்கும், உயிர்த் தியாகம் செய்தவர்களின் குடும்பத்தாருக்கும் வசிப்பதற்காக வழங்கப்பட்டுள்ள அரச காணிகளை நிபந்தனையின்றியும் கட்டணங்கள் இல்லாமலும் முழுமையான உரிமையை வழங்குவதற்கான வேலைத்திட்டம், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கு அமைய நடைமுறைப்படுத்தப்பட்டுள்ளது.
+President Wickremesinghe's initiative grants full rights to state lands to the armed forces, police, and families of fallen security personnel, ensuring rightful ownership for those who've bravely served their country. This program, led by the Presidential Secretariat, aims to recognize and reward the sacrifices made by these individuals.
 
-நாட்டில் அச்சமின்றி மக்கள் நடமாடுவதற்காக உயிர் தியாகம் செய்த பாதுகாப்புத் தரப்பினருக்கு தாய்நாட்டில் காணித் துண்டு ஒன்றின் உரிமையை உறுதிப்படுத்துவதே இந்த வேலைத் திட்டத்தின் நோக்கமாகும். ஜனாதிபதி செயலகத்தின் தலைமையில் இந்த வேலைத்திட்டம் நடைமுறைப்படுத்தப்பட்டுள்ளது என ஜனாதிபதி ஊடகப்பிரிவு விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
+🟩
+
+President Ranil Wickremesinghe's work has been implemented to provide a full right to the state lands given to the army, the Sri Lankan police and the civil security forces disabled and the families of the sacrifices.
+
+The purpose of this program is to ensure the ownership of a landlord in the homeland for the security forces who have sacrificed their lives in the country without fear. The program has been implemented under the leadership of the Presidential Secretariat, according to a statement issued by the Presidential Media Unit.. (A)
 
 ◼️
 
 [Data](articles/71ac3408.json)
+
+[Extended Data](ext_articles/71ac3408.ext.json)
 
 ---
 
@@ -829,6 +871,18 @@ The program will help create a conducive environment for private investments, bo
 [Data](articles/7d9acc44.json)
 
 [Extended Data](ext_articles/7d9acc44.ext.json)
+
+---
+
+### Murder Most Foul: Assassination of Appapillai  Amirthalingam 35 Years ago
+
+*2024-07-12 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84364) · `en`
+
+(Renowned Tamil Political leader Appapillai Amirthalingam was shot dead in Colombo along with Former Jaffna MP V.Yogeswaran on 13 July 1989. This article  about the foul murder  was published in the “Daily Mirror”  in 2019. It is re-posted here without any changes to denote the 35th anniversary of the Amirthalingam Assassination)
+
+...
+
+[Data](articles/922902f8.json)
 
 ---
 
@@ -2199,77 +2253,5 @@ Law enforcement officials are monitoring people who have no valid fishing identi
 [Data](articles/89bfe0a6.json)
 
 [Extended Data](ext_articles/89bfe0a6.ext.json)
-
----
-
-### FR petition filed seeking to prevent Presidential Election
-
-*2024-07-12 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100459/fr-petition-filed-seeking-to-prevent-presidential-election) · `en`
-
-Attorney-at-Law Aruna Laksiri has filed a Fundamental Rights (FR) petition before the Supreme Court, seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
-
-The petition argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage, Ada Derana reporter said.
-
-The Election Commission and its members, the General Secretary of Parliament and the Attorney General have been named as respondents.
-
-The petitioner claims that through the 19th Amendment to the Constitution, Article 70 of the Constitution has been amended to deprive the President of the power to dissolve an elected Parliament after one year has passed.
-
-The petitioner asserts that the amendment has not been approved by a referendum, even though a Supreme Court bench ruled that the amendment should be referred to a referendum.
-
-...
-
-[Data](articles/c89b172e.json)
-
-[Extended Data](ext_articles/c89b172e.ext.json)
-
----
-
-### Petition demanding a verdict on presidential election
-
-*2024-07-12 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198732) · `si`
-
-A legal challenge has been filed against the 19th Amendment, arguing it undermines presidential powers without proper referendum approval. Lawyer Aruna Laksiri Unawatuna accuses the Elections Commission, Secretary General, and Attorney General of misconduct. The petition seeks clarity on whether the amendment, which limits the president's ability to dissolve parliament, is legally binding despite lacking a referendum.
-
-🟩
-
-The 19th Amendment to the Constitution is not a referendum and conducting a future presidential election, a fundamental rights petition has been filed in the face of a referendum.
-
-The petition has been presented by lawyer Aruna Laksiri Unawatuna.
-
-The Elections Commission and its members, the Secretary General and the Attorney General have been named as respondents.
-
-The petitioner claims that the 19th Amendment to the Constitution of the Constitution was aimed at depriving the President's power to dissolve a year after passing a year.
-
-The petitioner says that although the Supreme Court has decided to submit that amendment, it has not been approved by a referendum.
-
-The petitioner has pointed out that the President has approved a referendum and has not been signed as a law.
-
-Despite this, he pointed out that it is wrong to accept the 19th Amendment as a law.
-
-◼️
-
-[Data](articles/928dbc95.json)
-
-[Extended Data](ext_articles/928dbc95.ext.json)
-
----
-
-### President visited Bingiriya
-
-*2024-07-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198731) · `si`
-
-President Ranil Wickremesinghe launched a project in Bingiriya aimed at developing it into Sri Lanka's largest export processing zone.
-
-🟩
-
-President Ranil Wickremesinghe has commenced at a ceremony at a participant at a meeting.
-
-The Export Processing Zone is to be developed as the largest export processing zone of Sri Lanka.
-
-◼️
-
-[Data](articles/18d14609.json)
-
-[Extended Data](ext_articles/18d14609.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 13:20:08**
+As of **2024-07-13 13:35:22**
 
 ## Newspaper Stats
 
@@ -26,33 +26,47 @@ adaderanasinhalalk | 5,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,062 (100.0%) of 35,063 articles have been extended.
+35,063 (100.0%) of 35,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### අම්බානි පුතුගේ විවාහයේ වාර්තා පිට වාර්තා
+### Reports on records of the Marriage of Ambani son
 
 *2024-07-13 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198761) · `si`
 
-යුගයේ වැඩිම පිරිවැයක් දැරූ විවාහය ලෙස වාර්තා වන ඉන්දීය ධන කුවේර මුකේෂ් අම්බානිගේ පුතු වන ආනන්ත් අම්බානි සහ රාධිකා මර්චන්ට් අතර තෙදින විවාහ මංගල උත්සවය මුම්බායි හිදී පැවැත් වෙයි.
+The extravagant wedding of Ananth Ambani and Radhika Merchant, costing over $100 million, included three days of festivities in Mumbai, featuring global celebrities like Justin Bieber and Bill Gates. The event also saw generous gestures towards society, such as feeding 50 low-income couples and providing food for 40 days to the needy.
 
-ඒ හොලිවුඩ්, බොලිවුඩ් තරු මෙන්ම ලොව ප්‍රමුඛ පෙළේ දේශපාලනඥයින්ගේ ද සහභාගිත්වයෙනි.
+🟩
 
-ආනන්ත් - රාධිකා විවාහයට ඉන්දීය රුපියල් කෝටි 5,000 ඉක්මවූ මුදලක් වැය වී ඇති අතර එය මුකේෂ් අම්බානිගේ පූර්ණ වත්කමෙන් සියයට 0.5ක් පමණක් වන බව වාර්තා වෙයි.
+Indian ridicule Mukesh Merchant, who is recorded as a marriage for the late time, is held at Mumbai.
 
-අමෙරිකානු ඩොලර් බිලියන 115ක වත්කමක් ඇතැයි සැලකෙන ඉන්දීය ධන කුවේර මුකේෂ් අම්බානිගේ පුතු වන ආනන්ත් අම්බානිගේ විවාහ මංගල්‍ය ලොව පුරා අවධානය දිනා ඇති විවාහ මංගල්‍යයකි.
+It was also from Hollywood, Bollywood stars and in the world's leading politicians.
 
-ඊට සමගාමීව ප්‍රිය සම්භාෂණ ආරම්භ වුණේ පසුගිය මාර්තු මාසයේ ගුජරාට් හි පැවති දින තුනක පූර්ව විවාහ සැමරුමකිනි.
+Anneth - Radhika has cost Rs.
 
-ඒ සඳහා දහස ඉක්මවූ ආරාධිතයින් පිරිසක් එක්ව සිටි අතර ඊට ලොව ප්‍රමුඛ පෙළේ කලාකරුවන් දේශපාලනඥයින් මෙන්ම මාර්ක් සකර්බර්ග්, බිල් ගේට්ස් ඇතුළු ලොව ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් එක්විය.
+Anneth Ambani's wedding is a wedding of the weddings of Indian richer Mukesh, who is an asset of US $ 115 billion.
 
-එම අවස්ථාවට ලෝක ප්‍රකට ගායිකා රියාන ද එක්වී තිබුණේ, ඩොලර් මිලියන 7ක මුදලකටය.
+Simultaneously, it was concreated in a three-day pre-marriage at Gujarat last March.
+
+The invitees were partnered by the world's leading artists, including politicians, and Mark Zakarburg, Bill Gates.
+
+World-renowned singers have also joined the occasion, for $ 7 million.
+
+In June, the Ambani family organized another pre-marriage to France from Italy to France.
+
+The couple's concert was held last week with the participation of the Canadian singer Justin Bieber.
+
+Frequent laws begin in March is the end of the three-day feast.
+
+On the Hindu Ambani and Radhika Merchant, the first day of the wedding, the Greed Marriage was carried out yesterday on the first day of the wedding.
 
 ...
 
 [Data](articles/031e7d34.json)
+
+[Extended Data](ext_articles/031e7d34.ext.json)
 
 ---
 

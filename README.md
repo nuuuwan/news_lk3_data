@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 09:19:56**
+As of **2024-07-13 09:35:20**
 
 ## Newspaper Stats
 
-*Scraped **35,047** Articles*
+*Scraped **35,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,977
 economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,158
-adaderanalk | 4,023
-tamilmirrorlk | 4,200
+adaderanalk | 4,024
+tamilmirrorlk | 4,201
 dailymirrorlk | 4,733
 virakesarilk | 5,479
 adaderanasinhalalk | 5,834
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,047 (100.0%) of 35,047 articles have been extended.
+35,047 (100.0%) of 35,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### One dead, 5 injured in clash during musical show
+
+*2024-07-13 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100472/one-dead-5-injured-in-clash-during-musical-show) · `en`
+
+One person has reportedly died while 05 others have been wounded and hospitalised following a clash between two groups during a musical show held in the Morayaya area in Weeraketiya.
+
+The murder was reportedly committed using a sharp weapon, police said.
+
+The deceased is identified as a 30-year-old resident of Morayaya, Weeraketiya.
+
+Five others were injured in the incident and have been admitted to Tangalle and Embilipitiya hospitals for treatment.
+
+However, their condition is not serious, according to a hospital spokesperson.
+
+◼️
+
+[Data](articles/110e86bc.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the country
 
@@ -75,6 +95,22 @@ The preliminary investigations have revealed that the suspect was selling cannab
 [Data](articles/6d630fab.json)
 
 [Extended Data](ext_articles/6d630fab.ext.json)
+
+---
+
+### ’கல்வித்துறையில் பெரும் வளர்ச்சியை ஏற்படுத்துவோம்’
+
+*2024-07-13 08:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்துறையில்-பெரும்-வளர்ச்சியை-ஏற்படுத்துவோம்/175-340322) · `ta`
+
+தற்போதைய கல்வி மறுசீரமைப்பின் ஊடாக, இந்த நாட்டில் கல்வித் துறையில் பெரும் வளர்ச்சியை ஏற்படுத்த முடியும் எனவும் இந்த நாட்டின் வருங்கால சந்ததியை உருவாக்கும் கௌரவமான சேவையாக ஆசிரியர்களுக்கு பாரிய பொறுப்பு வழங்கப்பட்டுள்ளதால், ஆசிரியர்கள் அனைவரும் அதனை சரியாக புரிந்துகொண்டு மனசாட்சிப்படி செயற்பட வேண்டும் என்றும்  கல்வி இராஜாங்க அமைச்சர் அரவிந்த் குமார் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கல்வி இராஜாங்க அமைச்சர் அரவிந்த் குமார் இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+தற்போதைய கல்வி மறுசீரமைப்புச் செயற்பாட்டின் ஊடாக இந்நாட்டின் கல்வித் துறையில் பெரும் முன்னேற்றம் ஏற்படும் என நாம் நம்புகின்றோம். குறிப்பாக தொழிற் சந்தையை இலக்காகக் கொண்டு, ஐநூறுக்கும் மேற்பட்ட கொரிய, ஜெர்மன், பிரெஞ்சு, ஹிந்தி, சீன மற்றும் ஜப்பானிய மொழி ஆசிரியர்கள் பணியமர்த்தப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/bf6242bf.json)
 
 ---
 
@@ -2213,49 +2249,5 @@ State Minister for Transport Lasantha Alagiyawanna, made this statement during a
 [Data](articles/1b8d1dba.json)
 
 [Extended Data](ext_articles/1b8d1dba.ext.json)
-
----
-
-### Emergency Notice issued by Jaffna Bodhana Blood Bank!
-
-*2024-07-12 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188277) · `ta`
-
-Jaffna Bodhana Blood Bank issues an emergency notice due to a severe shortage of all types of blood, particularly O Positive. Eligible donors are urged to donate at the Jaffna Bodhana Hospital to support life-saving efforts.
-
-🟩
-
-The Jaffna Teaching Hospital has a shortage of all kinds of blood, especially for O Positive Blood.
-
-Therefore, eligible candidates come to the blood bank at the Jaffna Bodhana Hospital and help the blood donation and help the life -saving task.. Teaching Hospital Blood Bank Division has demanded.
-
-◼️
-
-[Data](articles/796f952e.json)
-
-[Extended Data](ext_articles/796f952e.ext.json)
-
----
-
-### A roadway will be held with two buses
-
-*2024-07-12 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198733) · `si`
-
-A landslide on the Central Nepal Expressway resulted in over 60 missing persons and stranded two buses carrying more than 100 passengers. Six Indian nationals among the media reported the incident. Rescue operations are underway.
-
-🟩
-
-More than 60 people have disappeared in a landslide of the Central Nepal Expressway.
-
-In the meantime, six Indian nationals have reported that there are also six Indian national media.
-
-Two passenger buses on the Expressway have been landed.
-
-It is reported that landslides have begun operations in search of passengers.
-
-◼️
-
-[Data](articles/7bb92645.json)
-
-[Extended Data](ext_articles/7bb92645.ext.json)
 
 ---

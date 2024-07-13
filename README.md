@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 18:54:08**
+As of **2024-07-13 19:05:47**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,849
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,086 (100.0%) of 35,087 articles have been extended.
+35,087 (100.0%) of 35,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### வட பகுதி அரச ஊழியர்களை பாராட்டினார் பிரதமர்
+### The Prime Minister praised civil servants
 
 *2024-07-13 18:28:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வட-பகுதி-அரச-ஊழியர்களை-பாராட்டினார்-பிரதமர்/71-340329) · `ta`
 
-வடமாகாண உள்ளூராட்சி நிறுவனங்களின் ஊழியர்களுக்கு நிரந்தர நியமனம் வழங்கும் நிகழ்வு நேற்று யாழ்ப்பாண பொது நூலக கேட்போர் கூடத்தில் இடம்பெற்றது. இந்த நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே பிரதமர் இதனைக் குறிப்பிட்டார்.
+The Prime Minister commended civil servants during a permanent appointment ceremony in Jaffna, highlighting their crucial role in navigating the nation through its worst economic crisis. He acknowledged the resilience of the people of Jaffna, who continued their duties despite external challenges, and emphasized the importance of unity and peaceful dialogue in achieving progress.
 
-"எங்கள் வாழ்நாளில் வரலாறு காணாத பொருளாதார மற்றும் நிதி நெருக்கடியை நாங்கள் எதிர்கொண்டோம். நிதி நெருக்கடியை சமாளிக்கும் பணிக்கும் சவாலுக்கும் ஜனாதிபதியும் பிரதமராகிய நானும் எதிர்கொண்டோம். நாட்டை முன்கொண்டு செல்வதற்குத் தேவையான அரசியல் ஸ்திரத்தன்மையை ஏற்படுத்துவதற்கு பல மக்கள் பிரதிநிதிகள் முக்கிய பங்கு வகித்தனர். நெருக்கடியை தீர்ப்பதற்கு பெரும் பலமாக இருந்தனர்.
+🟩
 
-அன்று நாங்கள் பட்ட கஷ்டங்கள் யாழ். ஊழியர்களுக்கு தெரியும். அவர்கள் நெருக்கடியை படிப்படியாக தீர்க்க உதவினார்கள்.
+Permanent appointment for employees of Northern Province Local Government Companies was held yesterday at the Jaffna Public Library Auditorium. The Prime Minister said this while addressing the event.
 
-கடந்த 24 மாதங்களில் பொருளாதார சவாலை வெற்றிகொள்ள நாட்டு மக்களிடம் இருந்து கிடைத்த ஆதரவின் காரணமாக சர்வதேச அளவில் இந்த நம்பிக்கை ஏற்படுத்தப்பட்டு சாதகமான வளர்ச்சியை அடைந்துள்ளோம். மேலும் அடைவுகளை நோக்கிப் பயணிக்க, நாம் ஒரு குறிப்பிட்ட கட்டமைப்பைப் பின்பற்ற வேண்டும்.
+“We faced an unprecedented economic and financial crisis in our life. The president and the prime minister have faced the task and challenge to overcome the financial crisis. Many people's representatives played a key role to bring about the political stability needed to move the country. They were a great strength to solve the crisis.
+
+The hardships we have contributed to the Jaffna. Employees know. They helped to gradually resolve the crisis.
+
+Due to the support from the people of the country to win the economic challenge in the last 24 months, we have achieved this confidence internationally.. To travel towards more directory, we need to follow a certain structure.
 
 ...
 
 [Data](articles/af9c58f6.json)
+
+[Extended Data](ext_articles/af9c58f6.ext.json)
 
 ---
 

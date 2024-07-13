@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 10:53:41**
+As of **2024-07-13 11:05:27**
 
 ## Newspaper Stats
 
-*Scraped **35,053** Articles*
+*Scraped **35,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,977
 economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,159
-adaderanalk | 4,026
+adaderanalk | 4,027
 tamilmirrorlk | 4,201
 dailymirrorlk | 4,733
 virakesarilk | 5,479
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,835
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,051 (100.0%) of 35,053 articles have been extended.
+35,051 (100.0%) of 35,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### Special notice from Motor Traffic Dept. to vehicle owners
+
+*2024-07-13 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100475/special-notice-from-motor-traffic-dept-to-vehicle-owners) · `en`
+
+The Department of Motor Traffic has decided to blacklist the vehicles emitting excessive smoke, says the Vehicular Emission Test Trust Fund (VET) of the Department of Motor Traffic (DMT).
+
+Director of VET Dasun Gamage stated that the public can make complaints regarding such vehicles through WhatsApp number 070 3500 525 of the DMT.
+
+Furthermore, Gamage urged the vehicle owners not to obtain the Vehicle Emission Test Certificate only for the renewal of the revenue license.
+
+He highlighted that even though many people are tempted to obtain the Vehicle Emission Test Certificate through fake tactics, the police officers and officers of DMT are conducting relevant inspections on the roads across the island.
+
+He further explained that if excessive emission of smoke is observed, a maintenance order will be issued against the owner of the vehicle in question, otherwise, a prohibition order will be issued to the vehicle.
+
+◼️
+
+[Data](articles/206f7a52.json)
+
+---
 
 ### Satellite launch planned for next year - ACCIMT
 
@@ -2235,25 +2255,5 @@ It was reported that the Minister of Health, Ramesh Pathirana, will be officiall
 [Data](articles/8d554f9d.json)
 
 [Extended Data](ext_articles/8d554f9d.ext.json)
-
----
-
-### Sri Lanka state transport minister bats for railway privatization after strike
-
-*2024-07-12 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-transport-minister-bats-for-railway-privatization-after-strike-171874/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Transport Minister Lasantha Alagiyawanna sees privatization of railways as the permanent solution to prevent inconvenience faced by the public due to strikes by railway employees.
-
-Alagiyawanna’s comments come after millions of people faced inconvenience after the railway Station Masters’ Union launched a strike earlier this week demanding some vacancies be filled and other administrative issues be resolved.
-
-Hundreds of scheduled train journeys were cancelled on Wednesday due to the strike, leaving very few trains that ran jam-packed with passengers.
-
-A passenger from Alagiyawanna’s constituency of Gampaha District was killed after falling from a packed train on Wednesday when he risked his life as hundreds of people tried to go in a few trains by barely hanging on to the sides of the train, balancing on footboards made slippery by the rain.
-
-...
-
-[Data](articles/1de3fbf1.json)
-
-[Extended Data](ext_articles/1de3fbf1.ext.json)
 
 ---

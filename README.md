@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 21:19:43**
+As of **2024-07-13 21:35:17**
 
 ## Newspaper Stats
 
-*Scraped **35,094** Articles*
+*Scraped **35,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,977
 economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,037
-tamilmirrorlk | 4,208
+adaderanalk | 4,038
+tamilmirrorlk | 4,210
 dailymirrorlk | 4,733
 virakesarilk | 5,480
 adaderanasinhalalk | 5,852
@@ -26,11 +26,61 @@ adaderanasinhalalk | 5,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,093 (100.0%) of 35,094 articles have been extended.
+35,093 (100.0%) of 35,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### EU backs promoting Ceylon cinnamon exports to higher-value markets
+
+*2024-07-13 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100488/eu-backs-promoting-ceylon-cinnamon-exports-to-higher-value-markets-) · `en`
+
+The European Union (EU) is backing Sri Lanka’s initiative of the newly established Department of Cinnamon Development through the Export Agriculture in Sri Lanka project, the EU Delegation to Sri Lanka and Maldives said in a statement.
+
+The statement highlighted that the EU will bring in the expertise of the International Finance Corporation (IFC) to promote Ceylon cinnamon exports to higher-value markets by focusing on quality improvement efforts.
+
+The project supports the implementation and enforcement of quality, builds the capacity of field officers and farmer organisations and provides technology, it added.
+
+President Ranil Wickremesinghe recently inaugurated the newly established Department of Cinnamon Development, dedicated to the cultivation and enhancement of cinnamon production. This department aims to boost cinnamon output, leveraging advanced techniques and support systems to elevate the industry.
+
+...
+
+[Data](articles/5b56898e.json)
+
+---
+
+### பேருந்தில் இருந்து தடுக்கி விழுந்த மாணவன் படுகாயம்
+
+*2024-07-13 21:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்தில்-இருந்து-தடுக்கி-விழுந்த-மாணவன்-படுகாயம்/76-340332) · `ta`
+
+மஸ்கெலியா நகரில் இருந்து அவிஸ்சாவலை நோக்கி செல்லும் அவிஸ்சாவலை அரச பேருந்தில் இன்று மேலதிக வகுப்புக்குச் சென்ற மாணவன் பேருந்தில் இருந்து தடுக்கி விழுந்து படுகாயமடைந்ததாக மஸ்கெலியா பொலிஸார் தெரிவித்தனர்.
+
+மவுஸ்சாக்கலை தோட்டத்தில் வசிக்கும் கே.டி.தினித் என்ற 10 வயதுச் சிறுவனே மேலதிக வகுப்புக்குச் சென்று வீடு திரும்பும் போது மவுஸ்சாகலை சந்தியில் இறங்குகையில் தடுக்கி விழுந்து உள்ளார்.
+
+இந்த மாணவன் கையில் காயமடைந்த நிலையில் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளார் என மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அதிகாரி ஒருவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/eb6eb277.json)
+
+---
+
+### குழந்தையையும், மனைவியின் கர்ப்பப் பையையும் இழந்து நிற்கின்றேன்
+
+*2024-07-13 21:06:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/குழந்தையையும்-மனைவியின்-கர்ப்பப்-பையையும்-இழந்து-நிற்கின்றேன்/72-340330) · `ta`
+
+ஒரு வருடத்திற்கு முன் கிளிநொச்சி வைத்தியசாலையில் பிரசவத்திற்காக அனுமதிக்கப்பட்ட எனது மனைவிக்கு  பிறந்த குழந்தை இறந்ததோடு, மனைவியின் கர்ப்பப் பையும் அகற்றப்பட்ட சம்பவம் மருத்துவ தவறுகளினால் இடம்பெற்றது.
+
+ஆனால் இன்று எனக்கு அதற்காக எந்த நீதியும் கிடைக்கவில்லை என கிளிநொச்சி நாதன்குடியிருப்பு திட்டத்தைச் சேர்ந்த இ.சுரேஸ் கவலை தெரிவித்துள்ளார்.
+
+வருடம் ஒன்றாகிறது ஆனாலும் இதுவரை எந்த நீதியும் கிடைக்கவில்லை. மருத்துவ தவறு காரணமாக எனக்கு பிறந்த ஒரேயொரு குழந்தையையும், மனைவியின் கர்ப்பபையும் இழந்து ஆண்டு   ஒன்றாகிறது. எனக்கு இழைக்கப்பட்ட இந்த மோசமான அநீதி தொடர்பில் நான் இதுவரை பொலிஸ் நிலையம், மனித உரிமைகள் ஆணைக்குழு, சுகாதார அமைச்சு, ஜனாதிபதி செயலகம் என பல தரப்பினர்களிடமும் முறையிட்டேன். முறைப்பாடு கிடைத்ததாக பதில் கிடைத்ததே தவிர எனக்கு இன்று வரை நீதி கிடைக்கவில்லை.
+
+...
+
+[Data](articles/4081050e.json)
+
+---
 
 ### අනුරාධපුරය ලෝක ප්‍රසිද්ධ කරන්න ජනපති ගෙනආ සැලසුම
 
@@ -2165,73 +2215,5 @@ The suspects have been submitted to the Maliganda Magistrate's Court.
 [Data](articles/034cbd3c.json)
 
 [Extended Data](ext_articles/034cbd3c.ext.json)
-
----
-
-### Explain to three transgender people in Jaffna
-
-*2024-07-12 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188320) · `ta`
-
-In Jaffna, three individuals were kidnapped by a transgender man near a temple and later arrested by the Kayts police after a complaint. A transgender person from Colombo visited the Shiva Temple and was lured by a gang. The victim had previously received a suspicious phone call. Following an investigation, the magistrate ordered the arrest of the culprits, who will be identified through an identity parade.
-
-🟩
-
-Three persons abducted by a transgender man who left the temple have been arrested and kept in interrogation by the Kayts police.
-
-A 24 -year -old transgender person from Colombo went to the Shiva Temple in Kayts, who was returning to the Kayts area yesterday.
-
-He took the gang on the telephone number of the young man, who was taken to meet a young man from Kayts, who was asked to say, "Why did you come here?"
-
-Meanwhile, the young man had already had a telephone call to the young man on the telephone number of the gang.. In this case, a complaint was lodged at the Kaykaval police station.
-
-The Kayts Magistrate ordered the police to arrest the three men today and make them in the Kayts court.. In addition, the identity parade was issued to identify the suspects.
-
-◼️
-
-[Data](articles/db0e243e.json)
-
-[Extended Data](ext_articles/db0e243e.ext.json)
-
----
-
-### Bingiriya Investment Zone to generate USD 2.6 billion export income and create 75,000 jobs - President
-
-*2024-07-12 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100466/bingiriya-investment-zone-to-generate-usd-26-billion-export-income-and-create-75000-jobs-president) · `en`
-
-President Ranil Wickremesinghe stated that a robust economy can be established by enhancing the export economy, manufacturing, tourism, technology sectors, and modern agriculture.
-
-He highlighted that the government has already laid the foundation for this vision.
-
-The President made these remarks today (12), during the inauguration ceremony of the second and third phases of the Export Processing Zone in Bingiriya, which is the largest of its kind in Sri Lanka. Addressing the ceremony, the President emphasized that efforts are underway to create new investment zones to further bolster the export economy of the country.
-
-Upon completion of the Bingiriya Investment Zone, it is estimated that an export income of USD 2,600 million will be generated, and 75,000 job opportunities will be created.
-
-...
-
-[Data](articles/a538782c.json)
-
-[Extended Data](ext_articles/a538782c.ext.json)
-
----
-
-### Yall. Seal to the restaurant
-
-*2024-07-12 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188318) · `ta`
-
-Two Jaffna Nagar restaurants were sealed after public health inspectors sued them over food safety issues. The court ordered their closure until they improve their hygiene standards.
-
-🟩
-
-Two restaurants in Jaffna Nagar have been sealed on a court order.
-
-Public health inspectors sued the court against two foods that were operating in the city in the city.
-
-When the case was heard in court, it was ordered to be sealed to the restaurant until the restaurant's health reduction.
-
-◼️
-
-[Data](articles/161cecb5.json)
-
-[Extended Data](ext_articles/161cecb5.ext.json)
 
 ---

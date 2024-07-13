@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 18:24:20**
+As of **2024-07-13 18:35:42**
 
 ## Newspaper Stats
 
-*Scraped **35,085** Articles*
+*Scraped **35,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,036
-tamilmirrorlk | 4,206
+tamilmirrorlk | 4,207
 dailymirrorlk | 4,733
 virakesarilk | 5,479
 adaderanasinhalalk | 5,849
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,849
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,085 (100.0%) of 35,085 articles have been extended.
+35,085 (100.0%) of 35,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### மற்றுமொரு எம்.பியும் விபத்தில் சிக்கினார்
+
+*2024-07-13 18:15:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-எம்-பியும்-விபத்தில்-சிக்கினார்/175-340328) · `ta`
+
+பாராளுமன்ற உறுப்பினர் இன்று (13) மத்துகமவில் கூட்டம் ஒன்றுக்கு சென்று கொண்டிருந்த போது தெற்கு அதிவேக வீதியின் 82/1 கிலோமீற்றர் தூணுக்கு அருகில் இந்த விபத்துக்கு முகங்கொடுத்துள்ளார்.
+
+கனமழை காரணமாக கார் சறுக்கி நெடுஞ்சாலையின் பாதுகாப்பு வேலியில் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+
+இதேவேளை, இன்றைய தினம் அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும், பாராளுமன்ற உறுப்பினருமான ரிஷாத் பதியுதீன் பயணித்த சொகுசு வாகனமும் புத்தளம் - கருவலகஸ்வெவ பகுதியில் வைத்து விபத்துக்குள்ளாகியிருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/9363b2b2.json)
+
+---
 
 ### Advisory issued for heavy rains over 100 mm
 
@@ -2219,27 +2235,5 @@ Mr. Ranasinghe is a son of the former Chief Justice of the country.
 [Data](articles/f961c188.json)
 
 [Extended Data](ext_articles/f961c188.ext.json)
-
----
-
-### A film videos on mobile phone to court
-
-*2024-07-12 16:00:57* · [`adalk`](https://www.ada.lk/breaking_news/චිත්‍රපටයක්-ජංගම-දුරකථනයෙන්-වීඩියෝ-කර-යූ-ටියුබ්-දැමූ-අයෙක්-අධිකරණයට/11-410758) · `si`
-
-A filmmaker secretly recorded his movie in a theater and later found it on a mobile phone, leading to a costly legal battle over its unauthorized release on social media. He emphasized the need for stricter laws against such actions, highlighting the importance of protecting intellectual property rights.
-
-🟩
-
-According to information that his film had been confidentially recorded in a cinema and released a mobile phone, he said that the investigation was carried out by the police CID.
-
-He was cheated in this manner with a large cost of a large cost and releasing the social media to the social media.
-
-He also stressed that the law should be severely recorded in this manner in this manner in this manner and release the film that will be released to the social media after a very tired process.. Dr. Somaratne Dissanayake addressing the media at the time of attending the case when the case was taken up and out of the court.
-
-◼️
-
-[Data](articles/7c76e8f9.json)
-
-[Extended Data](ext_articles/7c76e8f9.ext.json)
 
 ---

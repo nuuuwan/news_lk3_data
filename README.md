@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 06:01:59**
+As of **2024-07-13 07:01:31**
 
 ## Newspaper Stats
 
-*Scraped **35,028** Articles*
+*Scraped **35,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ dbsjeyarajcom | 312
 colombotelegraphcom | 327
 bbccomsinhala | 341
 newsfirstlk | 363
-islandlk | 1,969
+islandlk | 1,977
 economynextcom | 2,080
 dailyftlk | 2,219
 adalk | 3,158
 adaderanalk | 4,022
-tamilmirrorlk | 4,196
+tamilmirrorlk | 4,197
 dailymirrorlk | 4,733
 virakesarilk | 5,479
 adaderanasinhalalk | 5,829
@@ -26,11 +26,115 @@ adaderanasinhalalk | 5,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,028 (100.0%) of 35,028 articles have been extended.
+35,028 (100.0%) of 35,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### பிங்கிரிய ஏற்றுமதி செயலாக்கத்தில் அபிவிருத்தில் பணிகள்
+
+*2024-07-13 06:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிங்கிரிய-ஏற்றுமதி-செயலாக்கத்தில்-அபிவிருத்தில்-பணிகள்/175-340319) · `ta`
+
+ஏற்றுமதி பொருளாதாரம், உற்பத்தி, சுற்றுலா, தொழில்நுட்பத் துறை, நவீன விவசாய முறை ஆகியவற்றின் ஊடாக நாட்டுக்குள் வலுவான பொருளாதாரத்தைக் கட்டமைக்க முடியும் எனவும் அதற்கு அவசியமான அடித்தளத்தை அரசாங்கம் இட்டுள்ளதாகவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+இலங்கையின் மிகப் பெரிய ஏற்றுமதி வலயமாக 1000 ஏக்கர் பரப்பளவில் பிங்கிரிய ஏற்றுமதி வலயத்தின் இரண்டாம், மூன்றாம் கட்ட அபிவிருத்தி பணிகளை ஆரம்பித்து வைக்கும் வகையில் நேற்று நடைபெற்ற நிகழ்விலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+
+பிங்கிரிய ஏற்றமதி வலயம் முழுமைபடுத்தப்பட்டதன் பின்னர் 2600 மில்லியன் டொலர் வருமானத்தை ஈட்டிக்கொள்ள எதிர்பார்ப்பதோடு, 75,000 புதிய வேலைவாய்ப்புக்களும் உருவாக்கப்படவுள்ளது.
+
+இதன்போது பிங்கிரிய ஏற்றுமதி வலயத்தின் நிர்மாண பணிகளை முன்னெடுக்கும் Dongxia Industrial & Commerce Co.Ltd. நிறுவனத்தின் அலுவலகத்தை திறந்து வைத்த ஜனாதிபதி, நிறுவன வளாகத்தை மேற்பார்வை செய்ததோடு, ஊழியர்களுடனும் சிநேகபூர்வமாக கலந்துரையாடினார்.
+
+...
+
+[Data](articles/bf96567a.json)
+
+---
+
+### Singer unveils nubia brand cutting-edge devices
+
+*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/singer-unveils-nubia-brand-cutting-edge-devices/) · `en`
+
+Singer Sri Lanka proudly celebrated the exclusive unveiling of four new smartphones at a glamorous nubia brand launch, the newest addition to its illustrious portfolio of international brands. The event marked the introduction of a new wave of innovation and power to the Sri Lankan market, catering to a discerning audience seeking a premium mobile experience and the opportunity for authentic self-expression.
+
+The launch showcased the newest offerings from nubia, a leading global smartphone brand renowned for its superlative technology, and included the nubia Neo 2 5G, nubia Focus Pro 5G, nubia V60 and nubia V60 Design models.
+
+Expressing his thoughts, Mahesh Wijewardene, Chief Executive Officer, Singer Group of Companies said, “We are excited to introduce nubia’s innovative smartphones to the Sri Lankan market. Our collaboration with nubia reinforces our commitment to providing our customers with the latest in technology and exceptional service.”
+
+...
+
+[Data](articles/1efc5ca6.json)
+
+---
+
+### Foreign bargain-hunting energizes share market
+
+*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/foreign-bargain-hunting-energizes-share-market/) · `en`
+
+The stock market kicked off at a slow pace but later picked up due to new buying interest for valued stocks among foreign bargain hunters, thus giving some hope and impetus to the market yesterday, stock market analysts said.
+
+The All- Share Price Index went up by 41.7 points while S and P SL20 rose by 27.9 points. Turnover stood at Rs 653 million with one crossing. The crossing was reported in JKH, which crossed 189,000 shares to the tune of Rs 36.7 million; its shares traded at Rs 194.
+
+...
+
+[Data](articles/3dc06b46.json)
+
+---
+
+### MMBL money transfer market share grows to 5% of Sri Lanka’s worker remittances
+
+*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/mmbl-money-transfer-market-share-grows-to-5-of-sri-lankas-worker-remittances/) · `en`
+
+Worker remittances brought into Sri Lanka through the MMBL-Money Transfer network grew at 44% to US$159. 3 million in the first half of 2024. MMBL-Money Transfer represented a 5% share of Sri Lanka’s total worker remittances and a 78% share of Western Union remittances to Sri Lanka during this period. MMBL-Money Transfer is a 50/50 joint-venture between Aitken Spence PLC and the MMBL-Pathfinder Group.
+
+The MMBL-Money Transfer network, which consists of over 3,000 agents spread throughout Sri Lanka, is the largest international money transfer network in the country. Through Western Union, MMBL-Money Transfer connects Sri Lanka to the largest global money transfer network spanning over 200 countries and 550,000 agents worldwide.
+
+Renewal of prawn farming in Batticaloa district triggers public protests
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/d0e8cf35.json)
+
+---
+
+### People’s Bank organizes blood donation camp to mark 63rd anniversary
+
+*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/peoples-bank-organizes-blood-donation-camp-to-mark-63rd-anniversary/) · `en`
+
+To commemorate the Bank’s 63rd anniversary, People’s Bank Welfare Department recently organized a blood donation camp at the Head Office in Colombo 2.
+
+The event was attended by Sujeewa Rajapakse – Chairman of People’s Bank, Clive Fonseka – Chief Executive Officer/General Manager, Nipunika Wijayarathne – Deputy General Manager (Banking Support Services), Anura Perera – Deputy General Manager (Risk Management), Manjula Dissanayake – Deputy General Manager (Human Resources) and Ajith Rathnayake – Senior Manager (Welfare and Staff Loans).
+
+Collection of blood was done under the strict supervision of the doctors of the Blood Bank. Through this annual programme People’s Bank donates a significant amount of blood every year to the Blood Bank.
+
+Signal partners with SLDA for a successful 91st year Annual Scientific Session
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/fdbcbb26.json)
+
+---
+
+### Signal partners with SLDA for a successful 91st year Annual Scientific Session
+
+*2024-07-13 01:33:00* · [`islandlk`](http://island.lk/signal-partners-with-slda-for-a-successful-91st-year-annual-scientific-session/) · `en`
+
+Signal, the leading oral care brand, served as the prime sponsor for the Sri Lanka Dental Association’s (SLDA) successful 91st Year Annual Scientific Session, which concluded on June 28th, 2024. Held under the theme “Novelty, Innovation & Technology,” the event brought together leading dental professionals from across Sri Lanka for three days of knowledge sharing, networking, and exploring advancements in the field.
+
+The inauguration ceremony was graced by the presence of distinguished guests, including Dr. Ramesh Pathirana, Minister of Health, and Dr. Asela Gunawardana, Director-General of Health Services.
+
+Professor Hemantha Amarasinghe, President of the Sri Lanka Dental Association, stated, “We are grateful for Signal’s continued support of the SLDA and its commitment to promoting oral health education and innovation in Sri Lanka. This year’s theme reflects the importance of embracing new technologies and advancements to improve oral care.”
+
+...
+
+[Data](articles/1f32b5e4.json)
+
+---
 
 ### NPC orders probe into Club Wasantha murder suspect interrogation footage
 
@@ -2159,137 +2263,5 @@ The driver of the van has been arrested by the driver of the van and the police 
 [Data](articles/bde0e07e.json)
 
 [Extended Data](ext_articles/bde0e07e.ext.json)
-
----
-
-### Gazette relating to vehicle speed limits
-
-*2024-07-12 10:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-வேக-வரம்புகள்-தொடர்பான-வர்த்தமானி/175-340277) · `ta`
-
-Transport Minister Lasantha Alagavanna announced a gazette with road speed regulations will be out soon, within two weeks. Additionally, the government allocated 50 million rupees for the police to buy speed control equipment.
-
-🟩
-
-Transport Minister Lasantha Alagavanna said that the gazette containing the necessary regulations on road speeds will be released within the next two weeks.
-
-The Minister of State has decided to provide 50 million rupees to the Sri Lankan police for the purchase of machinery to control the speed on the streets.
-
-◼️
-
-[Data](articles/fd6db58c.json)
-
-[Extended Data](ext_articles/fd6db58c.ext.json)
-
----
-
-### Gazette on vehicle speed boundaries
-
-*2024-07-12 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198729) · `si`
-
-Transport Minister Lasantha Alagiyawanna announced that regulations for road speed limits will be published soon. The UNP's National Council allocated Rs. 50 million for road safety equipment. In 2023, there were 2214 road accidents resulting in 2321 deaths; by mid-year, 1103 accidents caused 1154 fatalities. To address this, several initiatives have been launched.
-
-🟩
-
-Minister of Transport Lasantha Alagiyawanna stated that the gazette sheet of the required regulations regarding road-related speed boundaries will be issued within the next two weeks.
-
-The National Council (UNP) has decided to provide Rs. 50 million by the National Council for Road Safety to purchase machines for road control.
-
-There were 2214 road accidents in 2023. 2321 deaths have been reported. At the 30th of this year, 1103 road accidents have been reported on the 30th of this year. 1154 deaths have been reported due to these road accidents. Therefore, we have implemented a number of various programs to minimize this situation. "
-
-◼️
-
-[Data](articles/34a88da6.json)
-
-[Extended Data](ext_articles/34a88da6.ext.json)
-
----
-
-### Sri Lankans arrested in Dubai
-
-*2024-07-12 10:30:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலைகளுக்கு-காரணமாக-இருந்த-இலங்கையர்கள்-டுபாயில்-கைது/175-340276) · `ta`
-
-Two Sri Lankans were arrested in Dubai for alleged murders and organized crimes in Sri Lanka. They were transported back by senior police officers and will be handed over to specific divisions in Colombo for further investigation.
-
-🟩
-
-Two Sri Lankans have been arrested by the country's police for allegedly committing a series of killings and organized crimes in Sri Lanka.
-
-The two were brought to the Katunayake airport by a group of four senior police officers of the Criminal Investigation Department this morning.
-
-The 48 -year -old Kaludura Dinesh Damal, a 48 -year -old from Nugegoda, Colombo, was arrested by Bobby and 26 -year -old Ganganamlake Timuthu Chaturanga Perera from Mattakkuli and Samitpura.
-
-It is reported that Kanganamlake Timuthu Chezhunga Perera will be handed over to the Colombo Crime Prevention Division and Kaludura Dinesh Samantha de Silva to Colombo Organized Criminal Investigation Division. Remble
-
-◼️
-
-[Data](articles/d5d54db9.json)
-
-[Extended Data](ext_articles/d5d54db9.ext.json)
-
----
-
-### Sri Lanka UDA leases Kollupitiya land to Expo Property Developers
-
-*2024-07-12 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-uda-leases-kollupitiya-land-to-expo-property-developers-171837/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Urban Development Authority will lease a 52-perch land belonging to it at Kollupitiya to Expo Property Developers (Pvt) Ltd for a housing project, a government statement said.
-
-Cabinet approved the proposal “to transfer the relevant portion of land to the Expo Property Developers (Pvt) Ltd under 99 years lease basis on the current assessment of the chief assessor.”
-
-Approval was initially given in 2007 to lease 40 perches in the Marine Drive area on a 50-year long-term basis, as per the provisions of the Urban Development Authority Act.
-
-An amount equal to 25 percent of the value of the land had been charged, “However, functions relevant to transferring of the land cannot be completed due to residing of unauthorized person.”
-
-Expo Property Developers had requested for 52 perches of land including 12 perches adjacent to the said land to implement a housing project on a 99-year lease basis.
-
-...
-
-[Data](articles/014314ab.json)
-
-[Extended Data](ext_articles/014314ab.ext.json)
-
----
-
-### Attack on IP arrested on bribery charges
-
-*2024-07-12 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188264) · `ta`
-
-A prisoner was attacked and hospitalized after being accused of bribery in Colombo. The motive behind the attack remains unclear, but it resulted in significant injuries requiring stitches.
-
-🟩
-
-Another prisoner has been hacked to another prisoner, who was arrested on charges of bribing and detained in Colombo.
-
-Prison sources said that the reason for this has not been reported and about eight stitches have been put on the injuries of the police officer.
-
-◼️
-
-[Data](articles/09fea748.json)
-
-[Extended Data](ext_articles/09fea748.ext.json)
-
----
-
-### Two people from the underworld gang were brought from Dubai to the country!
-
-*2024-07-12 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188267) · `ta`
-
-Two underworld gang members from Sri Lanka, arrested for murder and organized crimes, were extradited from Dubai to Katunayake airport early today. They will be handed over to different crime prevention units in Colombo.
-
-🟩
-
-Two Sri Lankans belonging to the underworld gang who were hiding in committing murder and organized crimes have been arrested and brought to Dubai by the Criminal Investigation Department.
-
-They were brought to Katunayake airport by UL - 226 from Dubai at 05.10 am this morning (12).
-
-Two suspects have been arrested by the 48 -year -old Dinesh Samantha de Silva, a 48 -year -old from Nugegoda, Colombo and 26 -year -old Dimuthu Chaturanga Perera from Mattakkuli Samitpura.
-
-In addition, Dimuthu Chaturanga will be handed over to the Colombo Crime Prevention Unit and Dinesh Samantha to be handed over to the Criminal Investigation Unit of the Criminal Investigation Division in Narahenpita, Colombo.
-
-◼️
-
-[Data](articles/fc33b7a5.json)
-
-[Extended Data](ext_articles/fc33b7a5.ext.json)
 
 ---

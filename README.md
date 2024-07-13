@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 23:54:41**
+As of **2024-07-14 00:06:27**
 
 ## Newspaper Stats
 
-*Scraped **35,102** Articles*
+*Scraped **35,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,039
 tamilmirrorlk | 4,210
 dailymirrorlk | 4,733
 virakesarilk | 5,480
-adaderanasinhalalk | 5,853
+adaderanasinhalalk | 5,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,102 (100.0%) of 35,102 articles have been extended.
+35,102 (100.0%) of 35,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### දෙරණ ලිට්ල් ස්ටාර් සීසන් 12 ජයග්‍රාහකයෝ මෙන්න
+
+*2024-07-13 23:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198780) · `si`
+
+ශ්‍රී ලාංකේය රූපවාහිනි ප්‍රාසංගික වැඩසටහන් අතර විශිෂ්ට නමක් දිනූ "දෙරණ ලිට්ල් ස්ටාර්" 12 වන අදියරේ අවසන් මහා තරගය උත්කර්ෂවත්ව අද (13) පැවැත්වුණි.
+
+තරගකරුවන් සිය ගණනකගේ සහභාගීත්වයෙන් පැවැති මූලික තරග වට රාශියකින් අනතුරුව අවසන් මහ තරගය මෙලෙස පැවැත්විය.
+
+වයස අවුරුදු 08න් පහළ සහ 12න් පහළ ගායන හා නර්තන අංශ වෙනුවෙන් පැවැති එම තරගවලින් විනිශ්චය මණ්ඩලය විසින් දක්ෂතම පුංචි තරු තෝරාගත් අතර ප්‍රේක්ෂක මනාපයෙන් ජනප්‍රියම පුංචි තරු තෝරා පත් කර ගැනුණි.
+
+ඒ අනුව වයස අවුරුදු 08න් පහළ ගායන අංශයේ ජනප්‍රියම පුංචි තරුව ලෙස කිරුළ දිනා ගත්තේ විහග සත්සර ය.
+
+වයස අවුරුදු 08න් පහළ නර්තන අංශයේ ජනප්‍රියම පුංචි තරුව ලෙස තනුෂි ඉදුමිනි දියණිය අභිෂේක ලැබුවාය.
+
+අවුරුදු 12න් පහළ ගායන අංශයේ ජනප්‍රියම පුංචි තරුව ලෙස කිරුළ දිනා ගත්තේ ගමිත් නිසංස ය.
+
+වයස අවුරුදු 12න් පහළ නර්තන අංශයේ ජනප්‍රියම පුංචි තරුව ලෙස කෙනුලි හසාරා  කිරුළ හිමිකර ගත්තාය.
+
+◼️
+
+[Data](articles/ebf420c5.json)
+
+---
 
 ### At least 71 Palestinians killed, Gaza officials say, as Israel targets Hamas military chief
 
@@ -2221,19 +2245,5 @@ The program will help create a conducive environment for private investments, bo
 [Data](articles/7d9acc44.json)
 
 [Extended Data](ext_articles/7d9acc44.ext.json)
-
----
-
-### Murder Most Foul: Assassination of Appapillai  Amirthalingam 35 Years ago
-
-*2024-07-12 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84364) · `en`
-
-(Renowned Tamil Political leader Appapillai Amirthalingam was shot dead in Colombo along with Former Jaffna MP V.Yogeswaran on 13 July 1989. This article  about the foul murder  was published in the “Daily Mirror”  in 2019. It is re-posted here without any changes to denote the 35th anniversary of the Amirthalingam Assassination)
-
-...
-
-[Data](articles/922902f8.json)
-
-[Extended Data](ext_articles/922902f8.ext.json)
 
 ---

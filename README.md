@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 01:54:38**
+As of **2024-07-14 02:04:55**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,103 (100.0%) of 35,104 articles have been extended.
+35,104 (100.0%) of 35,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### இஸ்ரேலின்  தாக்குதலில் 71 பேர் பலி
+### 71 killed in Israel's attack
 
 *2024-07-14 01:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-71-பேர்-பலி/50-340344) · `ta`
 
-காசாவின் தெற்கு பகுதியில் இஸ்ரேல் நடத்திய தாக்குதலில் 71 பேர் கொல்லப்பட்டுள்ளனர் என ஹமாஸின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+In a recent Israeli attack in Gaza, 71 people were killed, including 289 injuries reported in Khan Younis. The victims are receiving treatment at the Nasser Hospital.
 
-கான் யூனிஸ் பகுதியில் நடத்தப்பட்டுள்ள இந்த  தாக்குதலில் 289 பேர் காயமடைந்துள்ளனர் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-தாக்குதலில் காயமடைந்தவர்கள் நாசர் வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.  (a)
+The Israeli attack in the southern part of Gaza has killed 71 people, Hamas's Health Ministry said.
+
+289 people were injured in the attack in Khan Younis.
+
+International media reports that the injured in the attack are being treated at the Nasser Hospital.(a)
 
 ◼️
 
 [Data](articles/0bd77e4f.json)
+
+[Extended Data](ext_articles/0bd77e4f.ext.json)
 
 ---
 

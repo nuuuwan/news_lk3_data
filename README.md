@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 19:35:22**
+As of **2024-07-13 19:52:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,850
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,088 (100.0%) of 35,090 articles have been extended.
+35,090 (100.0%) of 35,090 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Reflecting on past economic and political crises, President Wickremesinghe highl
 ...
 
 [Data](articles/ce8562cd.json)
+
+[Extended Data](ext_articles/ce8562cd.ext.json)
 
 ---
 
@@ -184,21 +186,27 @@ The accident had occurred when the car slips with heavy rains and collided with 
 
 ---
 
-### பாதுகாப்பு வலயம் என அறிவிக்கப்பட்ட பகுதியில் இஸ்ரேல் தாக்குதல் - 71 பாலஸ்தீனியர்கள் பலி
+### Israeli attack in the area declared as a security zone - 71 Palestinians killed
 
 *2024-07-13 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188374) · `ta`
 
-காசாவின் ஹான் யூனிசில் உள்ள அல்மவாசி பகுதியில் இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 71 கொல்லப்பட்டுள்ளனர்.
+In an Israeli attack in Almavasi, Han Unicer, Gaza, 71 Palestinians were killed, including a senior Hamas leader. The area, designated a security zone by Israel, experienced significant destruction, likened to an earthquake by witnesses.
 
-இஸ்ரேலிய இராணுவம் பாதுகாப்பு வலயம் என அறிவித்த பகுதியிலேயே இந்த தாக்குதலை மேற்கொண்டுள்ளது.
+🟩
 
-இந்த தாக்குதல் குறித்து விசாரணைகைளை மேற்கொண்டுள்ளதாக தெரிவித்துள்ள இஸ்ரேலிய இராணுவம் ஹமாசின் சிரேஸ்ட தலைவர் ஒருவரை இலக்குவைத்தே இந்த தாக்குதல் மேற்கொள்ளப்பட்டதாக தெரிவித்துள்ளது.
+71 was killed in an Israeli attack in Almavasi area in Han Unicer, Gaza.
 
-தாக்குதல் இடம்பெற்ற பகுதி பூகம்பம்தாக்கிய பகுதி போல காணப்படுவதாக சம்பவத்தை நேரில் பார்த்த ஒருவர் பிபிசியிடம் தெரிவித்துள்ளார்.
+The attacks were carried out in the area where the Israeli military declared the Security Zone.
+
+The Israeli army has said that the attack was targeted by a senior Hamas Senior leader.
+
+One person who witnessed the incident told the BBC that the area where the attack took place was seen as an earthquake.
 
 ◼️
 
 [Data](articles/6a5f29dc.json)
+
+[Extended Data](ext_articles/6a5f29dc.ext.json)
 
 ---
 

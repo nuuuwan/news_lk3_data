@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 16:05:43**
+As of **2024-07-13 16:19:53**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,074 (100.0%) of 35,075 articles have been extended.
+35,075 (100.0%) of 35,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### චීනයට එරෙහිව පිලිපීනය නැඟිටියි ද ?
+### Will the Philippines rise against China?
 
 *2024-07-13 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198768) · `si`
 
-දකුණු චීන මුහුදේ දී චීනය සමග ඇති ආරවුල සම්බන්ධයෙන් පිලිපීනය ස්ථාවරව නැගීසිටින බව පවසයි.
+The Philippines asserts its stance in the South China Sea dispute, accusing China but remains committed to peace.
 
-දකුණු චීන මුහුදේ ඇතිවෙන ආරවුල් සම්බන්ධයෙන් දෙපාර්ශ්වයම  එකිනෙකාට චෝදනා කර ගනිමින් සිටී.
+🟩
 
-කෙසේ නමුත් සාමයේ අරමුණට කැපවී සිටින බවත් පිලිපීනය පෙන්වා දී තිබේ.
+The Philippines says that the Philippines stand steady in the dispute with China in the South China Sea.
+
+Both sides are accusing each other with respect to the South China Sea.
+
+However, the Philippines has shown that he is committed to the purpose of peace.
 
 ◼️
 
 [Data](articles/4f25c8f8.json)
+
+[Extended Data](ext_articles/4f25c8f8.ext.json)
 
 ---
 
@@ -76,7 +82,7 @@ It further states that the 19th Amendment to the Constitution is not formally pa
 
 *2024-07-13 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100482/cj-led-bench-to-consider-fr-petition-filed-over-presidentialelection) · `en`
 
-A three-member panel judges has been named to take up for consideration the Fundamental Rights (FR) petition filed seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
+A three-member panel of judges has been named to take up for consideration the Fundamental Rights (FR) petition filed seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
 
 Accordingly, the petition filed by Attorney-at-Law Aruna Laksiri, is slated to be taken up for consideration before a bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekara and Priyantha Fernando.
 

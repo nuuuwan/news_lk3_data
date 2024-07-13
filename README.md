@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 12:19:51**
+As of **2024-07-13 12:35:26**
 
 ## Newspaper Stats
 
-*Scraped **35,060** Articles*
+*Scraped **35,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 327
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,977
-economynextcom | 2,081
+economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,029
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,836
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,060 (100.0%) of 35,060 articles have been extended.
+35,060 (100.0%) of 35,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### Sri Lanka leader’s presidential campaign faces dilemma over coalition: sources
+
+*2024-07-13 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-leaders-presidential-campaign-faces-dilemma-over-coalition-sources-171957/) · `en`
+
+ECONOMYNEXT – Sri Lanka leader Ranil Wickremesinghe’s presidential election campaign is facing a dilemma over coalition due to rivalry parties with different political ideologies, sources said.
+
+President Wickremesinghe is yet to announce his candidacy for the presidential poll which is expected to be declared by the island nation’s Election Commission after July 17.
+
+However, his close allies and some ministers in the current coalition government have already started a campaign to promote him assuming that President Wickremesinghe will declare his candidacy.
+
+Three sources who spoke to EconomyNext said legislators from the main opposition center-right Samagi Jana Balawegaya (SJB) are ready to join, but they do not want to be in coalition with the ruling Sri Lanka Podujna Peramuna (SLPP).
+
+...
+
+[Data](articles/8601a85b.json)
+
+---
 
 ### India, Sri Lanka looking at trading in national currencies: State Minister Balasuriya
 
@@ -2245,29 +2263,5 @@ Criticists say that this is an intensifying incident that the President's presid
 [Data](articles/93b305ce.json)
 
 [Extended Data](ext_articles/93b305ce.ext.json)
-
----
-
-### The government combines the two fertilizer companies
-
-*2024-07-12 13:40:35* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-පොහොර-සමාගම්-දෙක-ඒකාබද්ධ-කරයි/11-410755) · `si`
-
-The government merged its commercial fertilizer company with two others, saving significant funds previously spent on salaries. The consolidation, announced at the Waters Edge Hotel, aims to streamline operations under the new entity, "State Fertilizer." This move follows President Ranil Wickremesinghe's directive to optimize public spending, especially after the 2021 fertilizer crisis led to domestic sufficiency in chemical fertilizers. The merger also addresses the high cost of maintaining separate institutions under the same ministry.
-
-🟩
-
-Steps have been taken to merge the government's commercial fertilizer and two Ceylon fertilizer companies today (12).
-
-The government has been able to save a large amount of money so far spent by two chairmen and two staff members and two staff.
-
-Consolidation of the government owned fertilizer companies and introduce the new name at Waters Edge Hotel. State Ministers, Minister of Agriculture and Plantation Industries. B. Herath, Kader Masathan, Mohan Priyadarshana Silva and the Chairman of the Ministry Janaka Dharmakirthi and State Fertilizer and State Fertilizer were also present.
-
-There are currently a large number of institutions that deal with the same subject under the same ministry. As a result, the government has to spend a lot of money in addition to these institutions. Hon. President Ranil Wickremesinghe had instructed the Cabinet of the Hon.
-
-...
-
-[Data](articles/5cdecc0c.json)
-
-[Extended Data](ext_articles/5cdecc0c.ext.json)
 
 ---

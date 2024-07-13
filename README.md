@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 14:53:45**
+As of **2024-07-13 15:05:06**
 
 ## Newspaper Stats
 
-*Scraped **35,069** Articles*
+*Scraped **35,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,032
-tamilmirrorlk | 4,203
+tamilmirrorlk | 4,204
 dailymirrorlk | 4,733
 virakesarilk | 5,479
 adaderanasinhalalk | 5,840
@@ -26,25 +26,51 @@ adaderanasinhalalk | 5,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,067 (100.0%) of 35,069 articles have been extended.
+35,069 (100.0%) of 35,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### க்ளப் வசந்த் கொலை விவகாரம் - கைதானவர்கள் விடுவிப்பு
+### கிண்ணியாவில் பெண் ஒருவர் கைது
+
+*2024-07-13 14:54:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/கிண்ணியாவில்-பெண்-ஒருவர்-கைது/75-340325) · `ta`
+
+கிண்ணியா பொலிஸ் பிரிவுக்குட்பட்ட பைசல் நகர் பகுதியில் ஐஸ் போதைப் பொருளுடன் பெண் ஒருவர் நேற்று கைது (12)  செய்யப்பட்டதாக போதைப் பொருள் தடுப்புப் பிரிவினர் தெரிவித்தனர்.
+
+இவ்வாறு கைது செய்யப்பட்டவர் கூபா நகர் கிண்ணியா 03 ஐ சேர்ந்த பெண்ணாவார். இவரிடமிருந்து 11 கிராம் ஐஸ் போதைப் பொருள் மீட்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+போதைப் பொருள் தடுப்பு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவலைப்பில் குறித்த பெண்ணை சோதனையிட்ட போது அவரிடம் இருந்து ஐஸ் போதை பொருளை மீட்டுள்ளதாகவும் தெரிவித்தனர்.
+
+இதற்கு முன்னரும் குறித்த பெண் போதைப் பொருளுடன் கைது செய்யப்பட்டு பிணையில் விடுவிக்கப்பட்டதாகவும் தெரியவருகிறது.
+
+கைது செய்யப்பட்ட பெண்ணை நீதிமன்ற நீதவான் முன்னிலையில் ஆஜர்படுத்தவுள்ளதாக பொலிஸார் தெரிவித்தனர்.  R
+
+◼️
+
+[Data](articles/e707a2ed.json)
+
+---
+
+### Glub Vasant murder case - Release of detainees
 
 *2024-07-13 14:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க்ளப்-வசந்த்-கொலை-விவகாரம்-கைதானவர்கள்-விடுவிப்பு/175-340324) · `ta`
 
-க்ளப் வசந்தவைக் கொலை செய்ததாகச் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டவர்களில் 3 சந்தேகநபர்கள் விடுவிக்கப்பட்டுள்ளனர்.
+Three suspects detained in the Glub Vasant murder case were released after police found no direct link to the crime.
 
-வெலிபென்ன பகுதியில் உள்ள வீடொன்றில் வைத்து அவர்கள் நேற்று, மேல் மாகாண தெற்கு பிரிவு விசேட விசாரணைப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டதாக பொலிஸ் பேச்சாளர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+🟩
 
-அத்துடன் கைதான 3 சந்தேகநபர்களும் குறித்த கொலைச் சம்பவத்துடன் தொடர்பில்லாதவர்கள் எனக் கருதி விசாரணைகளிலிருந்து விடுவிக்கப்பட்டதாக அவர் குறிப்பிட்டார். R
+Three suspects have been released on suspicion of murdering Club Vasantha.
+
+Police spokesman Nihal Talduwa said that they were arrested yesterday by officials of the Western Province Southern Division Special Investigation Division.
+
+He also said that the three suspects were acquitted from the investigation, assuming that they were unrelated to the murder.. Remble
 
 ◼️
 
 [Data](articles/feeef070.json)
+
+[Extended Data](ext_articles/feeef070.ext.json)
 
 ---
 
@@ -61,6 +87,8 @@ The vehicle has reportedly sustained minor damages in the incident.
 ◼️
 
 [Data](articles/17a74c64.json)
+
+[Extended Data](ext_articles/17a74c64.ext.json)
 
 ---
 
@@ -2217,33 +2245,5 @@ The court does not oppose the government's policy of the president's tenure for 
 [Data](articles/15a79ad0.json)
 
 [Extended Data](ext_articles/15a79ad0.ext.json)
-
----
-
-### Super football stars found 17 years ago
-
-*2024-07-12 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198738) · `si`
-
-In 2007, young footballer Boonal posed for a calendar in Barcelona, where he unknowingly photographed future Spanish football star, Beamer Yarl. Today, Yarl shines as a key player, making history as the youngest scorer in the European Cup finals at just 17 years old.
-
-🟩
-
-In 2007, Super Football Booonal, aged 20, joined the photo shooting for a calendar in Barcelona in Barcelona, ​​20.
-
-He covered a baby and faced one photo.
-
-The child may have thought that the child in the photograph is a Super Football Star.
-
-That child is the beam and yarl. He is a star of the Spanish football team today.
-
-In the semi-finals of the European Cup Football with France, the Spanish team made a large rank to achieve.
-
-At the first division of his team. At that time, Jamal, 362 days, 362 days, is the youngest player to receive a goal in the history of European cup.
-
-◼️
-
-[Data](articles/6ac17b5e.json)
-
-[Extended Data](ext_articles/6ac17b5e.ext.json)
 
 ---

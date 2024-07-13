@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 15:35:07**
+As of **2024-07-13 15:53:44**
 
 ## Newspaper Stats
 
-*Scraped **35,072** Articles*
+*Scraped **35,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,65 +16,117 @@ islandlk | 1,977
 economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,032
+adaderanalk | 4,033
 tamilmirrorlk | 4,205
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,841
+adaderanasinhalalk | 5,842
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,070 (100.0%) of 35,072 articles have been extended.
+35,072 (100.0%) of 35,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### ඖෂධයක් නිසා පෙනීම අහිමිවූ නිරෝෂන් රටෙන් කළ ඉල්ලීම
+### ජනපතිවරණය ගැන පෙත්සම සලකාබැලීමට දින දෙයි
 
-*2024-07-13 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198766) · `si`
+*2024-07-13 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198767) · `si`
 
-මීරිගම මූලික රෝහලෙන් අපස්මාරය සඳහා ලබාදුන් ඖෂධ හේතුවෙන් 16 හැවිරිදි දරුවකුගේ පෙනීම අහිමි වූ බව කියන සිද්ධිය ඉකුත් කොවිඩ් සමයේ වාර්තාවීමත් සමග එය ආන්දෝලනාත්මක සිදුවීමක් බවට පත්වුණි.
+ඉදිරි ජනාධිපතිවරණයක් පැවැත්වීම තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය වන බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනුකර තිබූ පෙත්සම සලකාබැලීම සඳහා ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් නම් කර තිබේ.
 
-එම සිදුවීමට මුහුණ දුන් ගම්පහ, කල්එළිය, වැවහේන්වත්ත ප්‍රදේශයේ පදිංචි ලෙනින් නිරෝෂන් ට දැන් අවුරුදු 19කි.
+ඒ අනුව අදාළ පෙත්සම අගවිනිසුරු ජයන්ත ජයසූරිය, අර්ජුන ඔබේසේකර සහ ප්‍රියන්ත ප්‍රනාන්දු යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ ලබන සඳුදා (15) සලකාබැලීමට නියමිතය.
 
-එම සිදුවීමත් සමග ඔහු ජාතික අක්ෂි රෝහලෙන් ලබාගත් ප්‍රතිකාර සහ ශල්‍යකර්ම හේතුවෙන් නැවත 2022 වසරේදී බොහෝ දුරට ඇස් පෙනීම ලැබී තිබුණද යළිත් පෙනීම නැතිව යන්නේ ඔහුගේ බලාපොරොත්තු සුන් කරමිනි.
+නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා විසින් පෙත්සම ඉදිරිපත් කර තිබුණි.
 
-ලෙනින් ගේ ශල්‍යකර්මයකට භාවිත කරපු බෙහෙතක තිබුණු විෂබීජයක් නිසා නැවත් පෙනීම නැතිව යාමත් සමගය.
+එහි වැඩිදුරටත් දැක්වෙන්නේ, ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත් ආකාරයෙන් සම්මතවී නොමැති නිසා එය ජනමත විචාරණයකට යොමුකර ඉන් අනුමැතිය ලබාගන්නා තුරු ඉදිරි ජනාධිපතිවරණයක් පැවැත්වීම තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය වන බවට තීන්දුවක් ලබාදෙන ලෙසය.
 
-එනැත් සිට ශල්‍යකර්ම කිහිපයක් සිදුකර ඇති නමුත් එයින් එකක් හෝ සාර්ථක වී නොමැත.
+◼️
 
-නමුත්, වෛද්‍යවරුන්ගේ නිර්දේශය වී ඇත්තේ සම්පූර්ණයෙන් පෙනීම ලබාගැනීම සඳහා ලෙනින් ඉන්දියාවේ රෝහලයක් වෙත යොමුකළ යුතු බවය.
-
-ඒ සඳහා රුපියල් ලක්ෂ 23ක් වැනි මුදලක් දැරීමට සිදුවන අතර එය සොයාගැනීමට ඔහුගේ මව්පියන්ට හැකියාවක් නොමැත.
-
-ලෙනින් නිරෝෂන්ගේ පෙනීම ලබා ගැනීමට අවශ්‍ය මුදල එකතුකර ගැනීමට ඔබටත් හැකි නම් දායක වන්න.
-
-...
-
-[Data](articles/c4bbd9a9.json)
+[Data](articles/2fb19fac.json)
 
 ---
 
-### புதையல் திருட வந்த மூவர் கைது
+### CJ-led bench to consider FR petition filed over Presidential Election
+
+*2024-07-13 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100482/cj-led-bench-to-consider-fr-petition-filed-over-presidentialelection) · `en`
+
+A three-member panel judges has been named to take up for consideration the Fundamental Rights (FR) petition filed seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
+
+Accordingly, the petition filed by Attorney-at-Law Aruna Laksiri, is slated to be taken up for consideration before a bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekara and Priyantha Fernando.
+
+The relevant petition has been fixed for consideration before the aforementioned judge panel on Monday (15), Ada Derana reporter said.
+
+The petition argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage.
+
+The Election Commission and its members, the General Secretary of Parliament and the Attorney General have been named as respondents.
+
+...
+
+[Data](articles/305a0f85.json)
+
+---
+
+### Request of Niroshan Country lost the sight due to drug
+
+*2024-07-13 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198766) · `si`
+
+Niroshan, a 19-year-old from Sri Lanka, lost his sight due to a drug overdose. Despite several surgeries, his vision hasn't improved. Doctors recommend further treatment in India costing over Rs. 23 lakhs, which his family can't afford. A fundraising effort aims to help Niroshan regain his sight.
+
+🟩
+
+When the 16-year-old child had lost the sight of a 16-year-old hospital, it was a controversial incident.
+
+Lenin Niroshan, a resident of the Gampaha, Kaliyawawatta, which faced the incident was 19 years.
+
+With the same incident, he had almost disappointed in 2022, but he had more than the disappointment of his eyes.
+
+Lenin's surgical surgery, a germ was with no orright germs.
+
+Several surgeries have been performed since then, but not one or one of them.
+
+However, the recommendation of the doctors is that Lenin should be forwarded to a hospital in India to obtain completely.
+
+It takes up to Rs. 23 lakhs and his parents cannot find it.
+
+If you can collect the amount you want to get the sight of Lenin Niroshan.
+
+"Life's like staying up. I feel like living. "
+
+◼️
+
+[Data](articles/c4bbd9a9.json)
+
+[Extended Data](ext_articles/c4bbd9a9.ext.json)
+
+---
+
+### Three arrests who came to steal the treasure
 
 *2024-07-13 15:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதையல்-திருட-வந்த-மூவர்-கைது/76-340326) · `ta`
 
-கினிகத்தேனை விகாரைக்கு அருகில் வியாழக்கிழமை இரவு புதையல் திருட வந்ததாக சந்தேகத்தின் பேரில் மூவர் கினிகத்தேனை பொலிஸாரால் கைது செய்யப்பட்டனர்.
+Three individuals were arrested by the Ginigathena police on suspicion of stealing treasure near a temple. The police, acting on a tip-off about a suspicious group, found them claiming to perform pooja. Their search revealed generator wires, gunpowder, tools, and religious items. Another group arrived but fled before further investigation.
 
-கெனில்வொர்த் பிரதேசத்திலுள்ள பழைய ஆலயமொன்றுக்கு அருகில் சந்தேகத்திற்கிடமான குழுவொன்று தங்கியிருப்பதாக 119 அவசர சிகிச்சைப் பிரிவுக்கு கிடைத்த தகவலின் அடிப்படையில் கினிகத்தேன பொலிஸ் அதிகாரிகள் குழுவொன்று குறித்த இடத்திற்கு சென்றதாக தெரிவித்தார்.
+🟩
 
-அந்த இடத்திற்குச் சென்ற பொலிஸார், அப்பகுதியில் ஒருவரைப் பிடித்து வைத்து, நடத்திய விசாரணையில், பூஜை நிமித்தம் இந்த இடத்திற்கு வந்ததாக தெரிவித்தனர்.
+Three persons were arrested by the Ginigathena police on suspicion of stealing the treasure on Thursday night near the Ginigathena Vihara.
 
-தொடர்ந்து விசாரணை செய்ததில் 04 ஜெனரேட்டர் வயர்கள், 250 கிராம் துப்பாக்கி குண்டுகள், கல் உடைக்கும் கருவிகள், கம்பி வடங்கள் மற்றும் பூஜை பொருட்கள் கண்டு பிடிக்கப்பட்டதாகவும்,  அதிகாரி தெரிவித்தார்.
+He said that a group of Ginigathena police officers went to the spot on the basis of information received by the 119 Emergency Department that a suspicious group was staying near an old temple in Kenilworth.
 
-இந்தக் குழுவுடன் மற்றுமொரு குழுவினர் வந்துள்ளதாகவும், அந்தக் குழு தப்பிச் சென்றுள்ளதாகவும் தெரிய வந்ததையடுத்து மேலதிக விசாரணைகளை ஆரம்பித்துள்ளதாக
+Police went to the spot and held an investigation into the area and said that they had come to the place for the sake of pooja.
+
+Following the investigation, the official said that 04 generator wires, 250 grams of gun bombs, stone breaking equipment, wire cords and pooja items were discovered.
+
+Further investigations have been launched after another group has come to the group and the group has escaped.
 
 ◼️
 
 [Data](articles/54d54c74.json)
+
+[Extended Data](ext_articles/54d54c74.ext.json)
 
 ---
 
@@ -2197,55 +2249,5 @@ The article that they were for the Elections Commission Chairman.
 [Data](articles/dbcc933a.json)
 
 [Extended Data](ext_articles/dbcc933a.ext.json)
-
----
-
-### Customs strike lasted 5,000 containers
-
-*2024-07-12 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198739) · `si`
-
-Due to a customs strike, over 5,000 containers were discharged and prepared for shipment over the weekend, aiming to alleviate congestion by Monday. The Minister of State, Dr. Ranjith Siyambalapitiya, linked the strike to a broader political movement ahead of an election, suggesting it was a last resort after considering the national situation.
-
-🟩
-
-Minister of State Dr. Ranjith Siyambalapitiya says that more than 5,000 containers have been discharged due to the customs strike have been prepared in the weekend.
-
-Accordingly, the Monday Monday will reduce the congestion.
-
-The Minister said that the majority of the trade unions are in connection with a political movement that is expected to be anticipated by an election.
-
-The Minister of Finance, Dr. Ranjith Siyambalapitiya, addressing the rebooting ceremony of the household stadium of Rajasinghe Vidyalaya in Ruwanwella.
-
-The public minister added that the trade unions first first decide that the situation in the country should be considering the situation in the country.
-
-The strikes are not the first procedure to be implemented by a trade union, but the final measures added.
-
-◼️
-
-[Data](articles/c83336d0.json)
-
-[Extended Data](ext_articles/c83336d0.ext.json)
-
----
-
-### Audrey Azoulay is coming
-
-*2024-07-12 14:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Audrey-Azoulay-வருகிறார்/175-340296) · `ta`
-
-UNESCO Director-General Audrey Azoulay is set to visit Sri Lanka, invited by its government. She'll meet key officials including President Ranil Wickremesinghe, Education Minister Susil Premajayantha, and Foreign Minister Taraka Balasuriya. Her trip includes attending the 75th anniversary of Sri Lanka's UNESCO membership and visiting World Heritage Sites.
-
-🟩
-
-The Director General of the United Nations Education, Science and Cultural Organization (UNESCO) Audrey Azoulay will visit Sri Lanka on the invitation of the Sri Lankan government.
-
-During the visit, he will meet President Ranil Wickremesinghe and meet Education Minister Susil Premajayantha and Foreign Minister Taraka Balasuriya.
-
-He will participate in the 75th anniversary celebration of Sri Lanka's membership in UNESCO. The event will be held at the Nelum Pokuna Theater. UNESCO will go to World Heritage Sites.
-
-◼️
-
-[Data](articles/678fa0f1.json)
-
-[Extended Data](ext_articles/678fa0f1.ext.json)
 
 ---

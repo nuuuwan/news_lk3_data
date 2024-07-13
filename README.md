@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 15:53:44**
+As of **2024-07-13 16:05:43**
 
 ## Newspaper Stats
 
-*Scraped **35,074** Articles*
+*Scraped **35,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ adaderanalk | 4,033
 tamilmirrorlk | 4,205
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,842
+adaderanasinhalalk | 5,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,072 (100.0%) of 35,074 articles have been extended.
+35,074 (100.0%) of 35,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
 
-### ජනපතිවරණය ගැන පෙත්සම සලකාබැලීමට දින දෙයි
+### චීනයට එරෙහිව පිලිපීනය නැඟිටියි ද ?
+
+*2024-07-13 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198768) · `si`
+
+දකුණු චීන මුහුදේ දී චීනය සමග ඇති ආරවුල සම්බන්ධයෙන් පිලිපීනය ස්ථාවරව නැගීසිටින බව පවසයි.
+
+දකුණු චීන මුහුදේ ඇතිවෙන ආරවුල් සම්බන්ධයෙන් දෙපාර්ශ්වයම  එකිනෙකාට චෝදනා කර ගනිමින් සිටී.
+
+කෙසේ නමුත් සාමයේ අරමුණට කැපවී සිටින බවත් පිලිපීනය පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/4f25c8f8.json)
+
+---
+
+### Petition on the presidential election will be considered
 
 *2024-07-13 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198767) · `si`
 
-ඉදිරි ජනාධිපතිවරණයක් පැවැත්වීම තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය වන බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනුකර තිබූ පෙත්සම සලකාබැලීම සඳහා ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් නම් කර තිබේ.
+A three-judge Supreme Court panel, including Arjuna Obeysekera and Priyantha Fernando, will review a petition regarding the conduct of future presidential elections. The petitioner, Attorney Aruna Laksiri Unawatuna, argues against the formal passage of the 19th Amendment through referendum before holding such elections.
 
-ඒ අනුව අදාළ පෙත්සම අගවිනිසුරු ජයන්ත ජයසූරිය, අර්ජුන ඔබේසේකර සහ ප්‍රියන්ත ප්‍රනාන්දු යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ ලබන සඳුදා (15) සලකාබැලීමට නියමිතය.
+🟩
 
-නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා විසින් පෙත්සම ඉදිරිපත් කර තිබුණි.
+A three-member Supreme Court has been named to consider the petition filed by conducting a future presidential election.
 
-එහි වැඩිදුරටත් දැක්වෙන්නේ, ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත් ආකාරයෙන් සම්මතවී නොමැති නිසා එය ජනමත විචාරණයකට යොමුකර ඉන් අනුමැතිය ලබාගන්නා තුරු ඉදිරි ජනාධිපතිවරණයක් පැවැත්වීම තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය වන බවට තීන්දුවක් ලබාදෙන ලෙසය.
+Accordingly, the petition is to be considered before the three-member Supreme Court Bench, Arjuna Obeysekera and Priyantha Fernando.
+
+Attorney Aruna Laksiri Unawatuna, the petition was presented by Mr. Aruna Laksiri Unawatuna.
+
+It further states that the 19th Amendment to the Constitution is not formally passed in a referendum and holding a future presidential election.
 
 ◼️
 
 [Data](articles/2fb19fac.json)
+
+[Extended Data](ext_articles/2fb19fac.ext.json)
 
 ---
 
@@ -67,6 +89,8 @@ The Election Commission and its members, the General Secretary of Parliament and
 ...
 
 [Data](articles/305a0f85.json)
+
+[Extended Data](ext_articles/305a0f85.ext.json)
 
 ---
 
@@ -2227,27 +2251,5 @@ After breakfast every day, it is said that he will find garbage piles on the str
 [Data](articles/7242c703.json)
 
 [Extended Data](ext_articles/7242c703.ext.json)
-
----
-
-### Opposition to Election Commission
-
-*2024-07-12 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198740) · `si`
-
-Opposition MPs criticize the Election Commission for scheduling the presidential election on its first day, demanding it use all legal means to ensure a fair vote.
-
-🟩
-
-A group of opposition members have written to the election by a group of MPs to hold the presidential election on the first day.
-
-They also demand the maximum legal power to conduct the elections in a free and fair environment.
-
-The article that they were for the Elections Commission Chairman.
-
-◼️
-
-[Data](articles/dbcc933a.json)
-
-[Extended Data](ext_articles/dbcc933a.ext.json)
 
 ---

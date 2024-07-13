@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 14:35:13**
+As of **2024-07-13 14:53:45**
 
 ## Newspaper Stats
 
-*Scraped **35,067** Articles*
+*Scraped **35,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,977
 economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,031
-tamilmirrorlk | 4,202
+adaderanalk | 4,032
+tamilmirrorlk | 4,203
 dailymirrorlk | 4,733
 virakesarilk | 5,479
 adaderanasinhalalk | 5,840
@@ -26,11 +26,43 @@ adaderanasinhalalk | 5,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,067 (100.0%) of 35,067 articles have been extended.
+35,067 (100.0%) of 35,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### க்ளப் வசந்த் கொலை விவகாரம் - கைதானவர்கள் விடுவிப்பு
+
+*2024-07-13 14:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க்ளப்-வசந்த்-கொலை-விவகாரம்-கைதானவர்கள்-விடுவிப்பு/175-340324) · `ta`
+
+க்ளப் வசந்தவைக் கொலை செய்ததாகச் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டவர்களில் 3 சந்தேகநபர்கள் விடுவிக்கப்பட்டுள்ளனர்.
+
+வெலிபென்ன பகுதியில் உள்ள வீடொன்றில் வைத்து அவர்கள் நேற்று, மேல் மாகாண தெற்கு பிரிவு விசேட விசாரணைப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டதாக பொலிஸ் பேச்சாளர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+அத்துடன் கைதான 3 சந்தேகநபர்களும் குறித்த கொலைச் சம்பவத்துடன் தொடர்பில்லாதவர்கள் எனக் கருதி விசாரணைகளிலிருந்து விடுவிக்கப்பட்டதாக அவர் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/feeef070.json)
+
+---
+
+### MP Rishad Bathiudeen’s vehicle involved in road accident
+
+*2024-07-13 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100481/mp-rishad-bathiudeens-vehicle-involved-in-road-accident) · `en`
+
+The vehicle in which former Minister Rishad Bathiudeen was traveling has reportedly been involved in a road accident in the Karuwalagaswewa area today (13).
+
+The incident has occurred when a cyclist had abruptly entered the road, causing the SUV in which the former Minister was travelling to veer off the road in an attempt to avoid a collision, the police said.
+
+The vehicle has reportedly sustained minor damages in the incident.
+
+◼️
+
+[Data](articles/17a74c64.json)
+
+---
 
 ### Laddiya travels in danger
 
@@ -2213,55 +2245,5 @@ At the first division of his team. At that time, Jamal, 362 days, 362 days, is t
 [Data](articles/6ac17b5e.json)
 
 [Extended Data](ext_articles/6ac17b5e.ext.json)
-
----
-
-### VFS controversy has many problems
-
-*2024-07-12 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198737) · `si`
-
-The VFS controversy involves allegations of a lack of competitive bidding for visa and passport services, concerns over fee structures, data breaches, conflicts of interest, and unexpected funding. The Parliamentary Committee recommended a thorough audit by the Auditor General and suggested immediate safety measures for the visa application process, emphasizing the need for transparency and accountability.
-
-🟩
-
-The report of the passport of the passport of the Department of Finance and Passport Application forward to the parliament to obtain online visas and foreign passports from the Sri Lanka Institute of Immigration and Emigration and the Institutions.
-
-Chairman of the Committee Dr. Harsha de Silva said that the report will be presented at many challenges.
-
-He also revealed that the Secretary General of Parliament was summoned to the committee and he had been severely ridiculed.
-
-The Group is known as the Authorized Agency of Visa Application Form from Online. Technologian services and IVS. Global - F.CiD.CO. VF as companies and technical partner. Worldwide Holdings Limited.
-
-He said that there was no competitive bidding process in obtaining services to these group, he said that the Immigration and Emigration has a hindrance to the Department of Immigration and Emigration.
-
-There are several main issues that have been unresolved in the procurement process.
-
-...
-
-[Data](articles/5a8ee7eb.json)
-
-[Extended Data](ext_articles/5a8ee7eb.ext.json)
-
----
-
-### Sri Lanka to recruit 500 foreign language teachers
-
-*2024-07-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-recruit-500-foreign-language-teachers-171894/) · `en`
-
-ECONOMYNEXT – Sri Lanka will recruit 500 foreign language teachers for schools, State Minister of Education Aravindh Kumar, said.
-
-“We will be giving priority to Korean, German, French, Hindi, Chinese and Japanese,” Kumar told reporters on Friday.
-
-In March, Kumar said that teaching foreign languages such as Japanese and Korean is essential if graduates are to pursue jobs in foreign countries.
-
-As of June 2024, Sri Lanka had sent 10,000 workers to South Korea, and is planning to send around 6,000 workers to Japan.
-
-In order to seek employment in these countries, the candidates must pass a language proficiency test. (Colombo/Jul12/2024)
-
-◼️
-
-[Data](articles/d1b81a2c.json)
-
-[Extended Data](ext_articles/d1b81a2c.ext.json)
 
 ---

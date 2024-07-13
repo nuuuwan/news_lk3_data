@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 09:35:20**
+As of **2024-07-13 09:54:30**
 
 ## Newspaper Stats
 
-*Scraped **35,049** Articles*
+*Scraped **35,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,977
 economynextcom | 2,080
 dailyftlk | 2,219
-adalk | 3,158
-adaderanalk | 4,024
+adalk | 3,159
+adaderanalk | 4,025
 tamilmirrorlk | 4,201
 dailymirrorlk | 4,733
 virakesarilk | 5,479
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,047 (100.0%) of 35,049 articles have been extended.
+35,049 (100.0%) of 35,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### Woman arrested with over 80kg of Ganja in Chavakachcheri
+
+*2024-07-13 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100473/woman-arrested-with-over-80kg-of-ganja-in-chavakachcheri-) · `en`
+
+A woman has been arrested with more than 80kg of cannabis at a residence in the Kachchai South area in Chavakachcheri.
+
+Police reported that the raid was conducted based on information from a suspect arrested with 500 grams of cannabis during a car inspection at a police checkpoint, the previous day.
+
+A total of 87 kg and 616 grams of cannabis found in the possession of the woman in question have been taken into police custody.
+
+The arrested individual is a 55-year-old resident of Kachchai South, Kodikamam.
+
+Preliminary investigations have revealed that the suspect was engaged in cannabis selling racket along with her son and had hidden the stock of drugs at home for this purpose.
+
+◼️
+
+[Data](articles/9b1c6c21.json)
+
+---
 
 ### One dead, 5 injured in clash during musical show
 
@@ -49,6 +69,8 @@ However, their condition is not serious, according to a hospital spokesperson.
 ◼️
 
 [Data](articles/110e86bc.json)
+
+[Extended Data](ext_articles/110e86bc.ext.json)
 
 ---
 
@@ -98,19 +120,25 @@ The preliminary investigations have revealed that the suspect was selling cannab
 
 ---
 
-### ’கல்வித்துறையில் பெரும் வளர்ச்சியை ஏற்படுத்துவோம்’
+### We will grow a great growth in the education sector
 
 *2024-07-13 08:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்துறையில்-பெரும்-வளர்ச்சியை-ஏற்படுத்துவோம்/175-340322) · `ta`
 
-தற்போதைய கல்வி மறுசீரமைப்பின் ஊடாக, இந்த நாட்டில் கல்வித் துறையில் பெரும் வளர்ச்சியை ஏற்படுத்த முடியும் எனவும் இந்த நாட்டின் வருங்கால சந்ததியை உருவாக்கும் கௌரவமான சேவையாக ஆசிரியர்களுக்கு பாரிய பொறுப்பு வழங்கப்பட்டுள்ளதால், ஆசிரியர்கள் அனைவரும் அதனை சரியாக புரிந்துகொண்டு மனசாட்சிப்படி செயற்பட வேண்டும் என்றும்  கல்வி இராஜாங்க அமைச்சர் அரவிந்த் குமார் தெரிவித்தார்.
+Arvind Kumar, Minister of State for Education, announced significant educational reforms aimed at boosting the education sector. These include hiring over 500 foreign language teachers, upgrading 19 academic colleges to universities, increasing student enrollment, enhancing facilities for special needs children, and expanding Zonal Education Offices. The government has allocated funds for these initiatives, emphasizing the importance of ethical teaching practices and discouraging financial exploitation in schools.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கல்வி இராஜாங்க அமைச்சர் அரவிந்த் குமார் இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-தற்போதைய கல்வி மறுசீரமைப்புச் செயற்பாட்டின் ஊடாக இந்நாட்டின் கல்வித் துறையில் பெரும் முன்னேற்றம் ஏற்படும் என நாம் நம்புகின்றோம். குறிப்பாக தொழிற் சந்தையை இலக்காகக் கொண்டு, ஐநூறுக்கும் மேற்பட்ட கொரிய, ஜெர்மன், பிரெஞ்சு, ஹிந்தி, சீன மற்றும் ஜப்பானிய மொழி ஆசிரியர்கள் பணியமர்த்தப்பட்டுள்ளனர்.
+Minister of State for Education, Arvind Kumar, said that through the current educational restructuring, there would be great growth in the field of education in this country and that all the teachers should understand and work conscientiously as the honorable service of creating the future generation of this country.
+
+Minister of State for Education Arvind Kumar said this at a media briefing held at the Presidential Media Center yesterday.As he further stated,
+
+We hope that through the current educational restructuring process, there will be great improvement in the field of education in the country. In particular, more than five hundred Korean, German, French, Hindi, Hindi, Chinese and Japanese language teachers have been hired, targeting the industrial market.
 
 ...
 
 [Data](articles/bf6242bf.json)
+
+[Extended Data](ext_articles/bf6242bf.ext.json)
 
 ---
 
@@ -897,6 +925,22 @@ The Assistant Superintendent of Assistant Prison Superintendent of the Assistant
 [Data](articles/7c74befc.json)
 
 [Extended Data](ext_articles/7c74befc.ext.json)
+
+---
+
+### සංවිධානාත්මක අපරාධකරුවන් දෙදෙනෙක් ඩුබායි සිට ගෙන එයි
+
+*2024-07-12 20:17:24* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-අපරාධකරුවන්-දෙදෙනෙක්-ඩුබායි-සිට-ගෙන-එයි/11-410759) · `si`
+
+විදේශ ගමන් තහනම් කරමින් ජාත්‍යන්තර පොලීසිය හරහා රතු නිවේදන නිකුත් කර තිබූ සංවිධානාත්මක අපරාධකරුවන් දෙදෙනෙක් ඩුබායි රාජ්‍යයේ සිට ශ්‍රි ලංකාවට රැගෙන ආ බව පොලිස් මාධ්‍ය ප්‍රකාශක කොට්ඨාසය පවසයි.
+
+අද පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් දිවයිනට රැගෙන එන ලද මෙම අපරාධකරුවන් දෙදෙනා අවුරුදු 26 හා 48 යන වයස්වල පසුවන්නෝ වෙති. ඔවුන් මට්ටක්කුලිය හා නුගේගොඩ පදිංචිකරුවෝ වෙති.
+
+පළමු සැකකරු කොළඹ අපරාධ කොට්ඨාසය වෙතටත් ‌දෙවැනි සැකකරු මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන ඒ්කකය වෙතටත් භාරදිමට නියමිත බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+
+◼️
+
+[Data](articles/64afc7a4.json)
 
 ---
 
@@ -2203,51 +2247,5 @@ Teachers will also be provided manuals for establishing Road Safety Clubs at the
 [Data](articles/979131fe.json)
 
 [Extended Data](ext_articles/979131fe.ext.json)
-
----
-
-### The funeral of the club spring;Threatening to flower;Security has been strengthened
-
-*2024-07-12 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188279) · `ta`
-
-"Following the murder of Club Vasantha in Athurugiriya, threats have led to heightened security measures, including special checkpoints in Mannar to prevent suspects from escaping to India. Security around airports and other potential exit points has also been increased."
-
-🟩
-
-Surendra Vasantha Perera, known as 'Club Vasantha', which was shot dead in Athurugiriya, has been threatened with a funeral in Colombo.
-
-Security has been strengthened as a telephone call has been made by threatening the constipation not to allow the club spring to be kept.
-
-Meanwhile, special checkpoints have been set up in Mannar on information received by the intelligence agencies that the suspects who carried out the Athurugiriya shooting may seek to escape to India by sea.
-
-In addition, the suspects have been informed to strengthen security to airports and elsewhere to prevent the country from fleeing the country.
-
-However, a number of special checkpoints and roadblocks have been set up due to the increase in the risk of fleeing through Mannar.
-
-◼️
-
-[Data](articles/7a3e1925.json)
-
-[Extended Data](ext_articles/7a3e1925.ext.json)
-
----
-
-### Gazette to be issued on new speed limit regulations
-
-*2024-07-12 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100460/gazette-to-be-issued-on-new-speed-limit-regulations) · `en`
-
-State Minister of Transport, Lasantha Alagiyawanna, stated that the on-going strikes are motivated by political interests rather than genuine professional rights.
-
-He also announced that a gazette with the necessary regulations on speed limits, aimed at reducing road accidents, will be issued within the next two weeks, said President’s Media Devision.
-
-State Minister for Transport Lasantha Alagiyawanna, made this statement during a news conference held yesterday (11) at the Presidential Media Centre (PMC), under the theme ‘Collective Path to a Stable Country’.
-
-“We have initiated several programs to enhance efficiency in the transport sector. Notably, the Kadawatha bus terminal is scheduled to be opened in August under the patronage of President Ranil Wickremesinghe. These bus terminals incorporate modern transport management methods and advanced technology.
-
-...
-
-[Data](articles/1b8d1dba.json)
-
-[Extended Data](ext_articles/1b8d1dba.ext.json)
 
 ---

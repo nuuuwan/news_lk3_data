@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 08:35:18**
+As of **2024-07-13 08:22:28**
 
 ## Newspaper Stats
 
-*Scraped **35,046** Articles*
+*Scraped **35,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,17 @@ adaderanalk | 4,022
 tamilmirrorlk | 4,200
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,834
+adaderanasinhalalk | 5,833
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,043 (100.0%) of 35,046 articles have been extended.
+35,040 (100.0%) of 35,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
-
-### පුතා සමග ගංජා විකිණූ මව
-
-*2024-07-13 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198758) · `si`
-
-ගංජා කිලෝ ග්‍රෑම් 80කට අධික ප්‍රමාණයක් සමඟ කාන්තාවක් චාවකච්චේරිය කච්චායි දකුණ ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
-
-පොලීසිය පැවසුවේ ඊට පෙරදින ක්ෂණික මාර්ග බාධක යොදා මෝටරථයක් පරීක්ෂා කිරීමේදී ගංජා ග්‍රෑම් 500 ක් සමඟ අත්අඩංගුවට ගත් සැකකරුවෙකුගෙන් ලද තොරතුරකට අනුව මෙම වැටලීම සිදුකළ බවය.
-
-අදාළ කාන්තාව සතුව තිබී ගංජා කිලෝ ග්‍රෑම් 87 යි ග්‍රෑම් 616 ක් පොලිස් භාරයට ගෙන තිබේ.
-
-අත්අඩංගුවට ගෙන ඇත්තේ 55 හැවිරිදි කච්චායි දකුණ, කොඩිකාමන් ප්‍රදේශයේ පදිංචිකාරියකි.
-
-සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ සැකකාරිය සිය පුත්‍රයා සමඟ ගංජා අලෙවිය සිදුකරන අතර ඒ සඳහා මෙම ගංජා තොගය නිවසේ සඟවාගෙන සිට ඇති බවය.
-
-◼️
-
-[Data](articles/6d630fab.json)
-
----
 
 ### ලබන වසරේ චන්ද්‍රිකාවක් යැවීමට සැලසුම්
 
@@ -84,51 +64,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Another murder during a musical show
+### සංගීත සංදර්ශනයක් අතරතුර තවත් ඝාතනයක්
 
 *2024-07-13 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198756) · `si`
 
-A fatal clash occurred during a musical event in Morayaya, resulting in the death of a 30-year-old local man. The incident involved two groups, leading to the victim being hospitalized in Tangalle and Embilipitiya hospitals, where his condition is reported to be stable.
+පොලීසිය පැවසුවේ මොරයාය ප්‍රදේශයේ පැවති සංගීත සංදර්ශනයක් අතරතුර දෙපාර්ශවයක් අතර ඇතිවූ ගැටුමක දී මෙම මරණය සිදුව ඇති බවය.
 
-🟩
+මියගොස් ඇත්තේ 30 හැවිරිදි වීරකැටිය මොරයාය ප්‍රදේශයේ පදිංචිකරුවකු බව පොලීසිය පවසයි.
 
-Police said that the death was caused by a clash between two parties during a musical show in Morayaya.
-
-The deceased has been identified as a 30 year old resident of Morayaya, Weeraketiya, police said.
-
-They were admitted to Tangalle and Embilipitiya hospital for treatment and their condition is not serious.
+ඔවුන් ප්‍රතිකාර සඳහා තංගල්ල සහ ඇඹිලිපිටිය රෝහලට වලට ඇතුළත් කර ඇති අතර ඔවුන්ගේ තත්ත්වය බරපතළ නොවන බව රෝහල් ප්‍රකාශකයෙකු සඳහන් කළේය.
 
 ◼️
 
 [Data](articles/a3c5175f.json)
 
-[Extended Data](ext_articles/a3c5175f.ext.json)
-
 ---
 
-### To the document that excessively smoked vehicles
+### අධික ලෙස දුම් පිට කරන රථවාහන අසාදු ලේඛනය ට
 
 *2024-07-13 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198755) · `si`
 
-The Department of Motor Traffic plans to document vehicles emitting excessive smoke, aiming to reduce pollution. Director Dasu Gamage mentions the capability to inspect over 4,000 additional vehicles. He emphasizes the importance of genuine smoke certificates for licensing and warns of strict actions against owners without proper maintenance orders.
+අධික ලෙස දුම පිට කරමින් ධාවනය කරන රථවාහන අසාදු ලේඛන ගත කිරීමට පියවර ගන්නා බව මෝටර් රථ දෙපාර්තමේන්තුවේ වාහන වායු විමෝචන භාරකාර අරමුදල පවසයි.
 
-🟩
+එහි අධ්‍යක්ෂ දසුන් ගමගේ මහතා සඳහන් කළේ මාර්ගයේ ධාවන කරන එවැනි වාහන සම්බන්ධයෙන් 070 3500 525 යන වට්ස් ඇප් අංකයට පැමිණිලි යොමු කිරීමේ හැකියාව පවතින බවය.
 
-The Vehicle Emissions Fund of the Department of Motor Traffic will take steps to document the vehicles driven by excessive smoke.
+වාහන බලපත්‍රය ලබා ගැනීමේ අරමුණින් පමණක් දුම් සහතිකය ලබා ගැනීම සිදුනොකරන ලෙස දසුන් ගමගේ මහතා රියදුරන්ගෙන් ඉල්ලා සිටියි.
 
-Its director Dasu Gamage said that there is a capacity to refer to the 7th 3,500 525 more vehicles on the road.
+ව්‍යාජ උපක්‍රම ඔස්සේ දුම් සහතිකය ලබා ගැනීම ට  බොහෝ පිරිස් පෙළඹී සිටිය ද, එම රථ වාහන මාර්ගයේ ධාවනය වන විට පොලිස් නිලධාරීන් සහ මෝටර් රථ දෙපාර්තමේන්තුවේ නිලධාරීන් දිවයිනේ සියලුම ප්‍රදේශවලදී අදාළ පරික්ෂාවන් සිදු කරන බව ඒ මහතා පවසයි.
 
-Dasu Gamage is requested to obtain the smoking certificate only for the purpose of obtaining the vehicle license.
-
-He said that although many people were persuaded to obtain smoke certificate through fake tricks, the police officers and the officers of the vehicle department are conducting applications in all areas of the country.
-
-If he observes excessive smoke, he added that if a maintenance order is not available against the owner of the vehicle, he added.
+එම අවස්ථාවක දී අධික දුමක් පිට වන බවට නිරීක්ෂණය වුවහොත් අදාළ රථයේ හිමිකරුට විරුද්ධව නඩත්තු නියෝගයක් එසේත් නොමැති නම් තහනම් නියෝගයක් රථයට ලැබෙන බව ද ඒ මහතා වැඩිදුරටත්  පැහැදිලි කළේය.
 
 ◼️
 
 [Data](articles/73ac6a7e.json)
-
-[Extended Data](ext_articles/73ac6a7e.ext.json)
 
 ---
 
@@ -947,8 +915,6 @@ The program will help create a conducive environment for private investments, bo
 ...
 
 [Data](articles/922902f8.json)
-
-[Extended Data](ext_articles/922902f8.ext.json)
 
 ---
 
@@ -2241,5 +2207,31 @@ There are 63 passengers on both buses. The search for passengers on the bus is u
 [Data](articles/b1341208.json)
 
 [Extended Data](ext_articles/b1341208.ext.json)
+
+---
+
+### Brother -in -law
+
+*2024-07-12 11:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொந்த-தங்கையை-கோடாரியால்-வெட்டிய-அண்ணன்/175-340280) · `ta`
+
+A shocking video of a man attacking his sister with an axe in Benagaserla village, Andhra Pradesh, has gone viral. The incident occurred due to a dispute over evacuating their home after a landslide. The attacker, identified as Jilani, was arrested by the police. His sister, Mehbubi, was hospitalized following the assault.
+
+🟩
+
+The video of his brother -in -law's brother cut off her own sister has caused great shock.
+
+The horrific incident took place in Benagaserla village in Anantapur, Andhra Pradesh. One person attacked his sister with an ax due to landslide. Someone has posted the incident on social networks. This video is currently going viral.
+
+Upon learning of the incident, Posar rushed to the scene and caught the woman with an ax attack. It was revealed that the cut was Mehbubi and the man who cut him with an ax. The woman who was injured in the attack has been admitted to hospital.
+
+In an investigation conducted by the police, Jilani's sister Mehbubi lived in a house in Benagaserla village. Jilani has been intimidated by telling her to evacuate the house. Investigations revealed that Gilani was attacked by an ax in a rage that he did not vacate the house.
+
+Police have arrested Jilani who attacked Mehbubi. According to law, police are investigating whose house is.
+
+◼️
+
+[Data](articles/c48935ff.json)
+
+[Extended Data](ext_articles/c48935ff.ext.json)
 
 ---

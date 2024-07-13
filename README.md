@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-13 15:20:10**
+As of **2024-07-13 15:35:07**
 
 ## Newspaper Stats
 
-*Scraped **35,070** Articles*
+*Scraped **35,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,082
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,032
-tamilmirrorlk | 4,204
+tamilmirrorlk | 4,205
 dailymirrorlk | 4,733
 virakesarilk | 5,479
-adaderanasinhalalk | 5,840
+adaderanasinhalalk | 5,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,070 (100.0%) of 35,070 articles have been extended.
+35,070 (100.0%) of 35,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-13 (Saturday)
+
+### ඖෂධයක් නිසා පෙනීම අහිමිවූ නිරෝෂන් රටෙන් කළ ඉල්ලීම
+
+*2024-07-13 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198766) · `si`
+
+මීරිගම මූලික රෝහලෙන් අපස්මාරය සඳහා ලබාදුන් ඖෂධ හේතුවෙන් 16 හැවිරිදි දරුවකුගේ පෙනීම අහිමි වූ බව කියන සිද්ධිය ඉකුත් කොවිඩ් සමයේ වාර්තාවීමත් සමග එය ආන්දෝලනාත්මක සිදුවීමක් බවට පත්වුණි.
+
+එම සිදුවීමට මුහුණ දුන් ගම්පහ, කල්එළිය, වැවහේන්වත්ත ප්‍රදේශයේ පදිංචි ලෙනින් නිරෝෂන් ට දැන් අවුරුදු 19කි.
+
+එම සිදුවීමත් සමග ඔහු ජාතික අක්ෂි රෝහලෙන් ලබාගත් ප්‍රතිකාර සහ ශල්‍යකර්ම හේතුවෙන් නැවත 2022 වසරේදී බොහෝ දුරට ඇස් පෙනීම ලැබී තිබුණද යළිත් පෙනීම නැතිව යන්නේ ඔහුගේ බලාපොරොත්තු සුන් කරමිනි.
+
+ලෙනින් ගේ ශල්‍යකර්මයකට භාවිත කරපු බෙහෙතක තිබුණු විෂබීජයක් නිසා නැවත් පෙනීම නැතිව යාමත් සමගය.
+
+එනැත් සිට ශල්‍යකර්ම කිහිපයක් සිදුකර ඇති නමුත් එයින් එකක් හෝ සාර්ථක වී නොමැත.
+
+නමුත්, වෛද්‍යවරුන්ගේ නිර්දේශය වී ඇත්තේ සම්පූර්ණයෙන් පෙනීම ලබාගැනීම සඳහා ලෙනින් ඉන්දියාවේ රෝහලයක් වෙත යොමුකළ යුතු බවය.
+
+ඒ සඳහා රුපියල් ලක්ෂ 23ක් වැනි මුදලක් දැරීමට සිදුවන අතර එය සොයාගැනීමට ඔහුගේ මව්පියන්ට හැකියාවක් නොමැත.
+
+ලෙනින් නිරෝෂන්ගේ පෙනීම ලබා ගැනීමට අවශ්‍ය මුදල එකතුකර ගැනීමට ඔබටත් හැකි නම් දායක වන්න.
+
+...
+
+[Data](articles/c4bbd9a9.json)
+
+---
+
+### புதையல் திருட வந்த மூவர் கைது
+
+*2024-07-13 15:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதையல்-திருட-வந்த-மூவர்-கைது/76-340326) · `ta`
+
+கினிகத்தேனை விகாரைக்கு அருகில் வியாழக்கிழமை இரவு புதையல் திருட வந்ததாக சந்தேகத்தின் பேரில் மூவர் கினிகத்தேனை பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+கெனில்வொர்த் பிரதேசத்திலுள்ள பழைய ஆலயமொன்றுக்கு அருகில் சந்தேகத்திற்கிடமான குழுவொன்று தங்கியிருப்பதாக 119 அவசர சிகிச்சைப் பிரிவுக்கு கிடைத்த தகவலின் அடிப்படையில் கினிகத்தேன பொலிஸ் அதிகாரிகள் குழுவொன்று குறித்த இடத்திற்கு சென்றதாக தெரிவித்தார்.
+
+அந்த இடத்திற்குச் சென்ற பொலிஸார், அப்பகுதியில் ஒருவரைப் பிடித்து வைத்து, நடத்திய விசாரணையில், பூஜை நிமித்தம் இந்த இடத்திற்கு வந்ததாக தெரிவித்தனர்.
+
+தொடர்ந்து விசாரணை செய்ததில் 04 ஜெனரேட்டர் வயர்கள், 250 கிராம் துப்பாக்கி குண்டுகள், கல் உடைக்கும் கருவிகள், கம்பி வடங்கள் மற்றும் பூஜை பொருட்கள் கண்டு பிடிக்கப்பட்டதாகவும்,  அதிகாரி தெரிவித்தார்.
+
+இந்தக் குழுவுடன் மற்றுமொரு குழுவினர் வந்துள்ளதாகவும், அந்தக் குழு தப்பிச் சென்றுள்ளதாகவும் தெரிய வந்ததையடுத்து மேலதிக விசாரணைகளை ஆரம்பித்துள்ளதாக
+
+◼️
+
+[Data](articles/54d54c74.json)
+
+---
 
 ### A woman arrested in Kinniya
 
@@ -2201,55 +2247,5 @@ He will participate in the 75th anniversary celebration of Sri Lanka's membershi
 [Data](articles/678fa0f1.json)
 
 [Extended Data](ext_articles/678fa0f1.ext.json)
-
----
-
-### Biden stands defiant on critical night - but gaffes mar fightback
-
-*2024-07-12 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100462/biden-stands-defiant-on-critical-night-but-gaffes-mar-fightback) · `en`
-
-Joe Biden took to the stage at his Thursday night news conference with everything on the line – his presidency, his re-election hopes, his political life.
-
-If those were the stakes, he barely acknowledged them at the hour-long session to mark the end of a Nato summit, having earlier introduced Ukraine’s President Zelensky as “President Putin” at a separate event.
-
-The news conference was his first unscripted appearance after a disastrous debate with his rival Donald Trump, leading to calls from several Democratic politicians and donors for him to drop out of the race for president.
-
-Mr Biden, 81, has faced continuous questions over his age and ability to serve another term, which intensified after the debate.
-
-But at the highly anticipated news conference, he dismissed the concerns about his campaign that were posed again and again by a room full of reporters, and promised that he was fighting not for his legacy, but to finish the job he started when he took office in 2021.
-
-...
-
-[Data](articles/7a498954.json)
-
-[Extended Data](ext_articles/7a498954.ext.json)
-
----
-
-### “Can't be in office for an hour”
-
-*2024-07-12 14:21:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-மணிநேரம்கூட-பதவியில்-இருக்க-முடியாது/175-340295) · `ta`
-
-Vijayadasa Rajapaksa, Minister of Justice, highlighted the importance of adhering strictly to the five-year presidential term limit post-retirement, emphasizing the need to respect the constitution and avoid trivializing legal proceedings. This stance led to challenges against the 19th Amendment in the High Court, which was eventually upheld, except for requiring referendums for certain issues. Despite this, concerns over the misuse of judicial processes persist, with cases filed both in the Supreme Court and High Court in Kurunegala challenging the amendment's implementation and the appointment of judges.
-
-🟩
-
-The president's tenure is only five years.   பதவிக் காலம் நிறைவடைந்தவுடன் ஒரு மணித்தியாலம் கூட பதவியில் இருக்க முடியாது. Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa emphasized
-
-Therefore, he repeatedly filed a case in the High Court regarding the president's tenure and asked not to make a mockery of the court.
-
-The 19th Amendment of the Constitution was not properly passed in Parliament on Friday (12).
-
-The 19th Amendment to the Constitution of 2015 was passed with the People's Order.. Most parties challenged the bill in the High Court.
-
-The petitions were taken up for hearing in a panel of judges headed by former Chief Justice Sripavan. The court said that only four matters must go to a referendum.
-
-The court does not oppose the government's policy of the president's tenure for five years.. Cannot be in office for even a hour after the end of office. Therefore, all sides should avoid going to the subordinate as a crisis.
-
-...
-
-[Data](articles/15a79ad0.json)
-
-[Extended Data](ext_articles/15a79ad0.ext.json)
 
 ---

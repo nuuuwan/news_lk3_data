@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 04:35:24**
+As of **2024-07-15 04:53:46**
 
 ## Newspaper Stats
 
-*Scraped **35,255** Articles*
+*Scraped **35,256** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 314
-colombotelegraphcom | 332
+colombotelegraphcom | 333
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,253 (100.0%) of 35,255 articles have been extended.
+35,255 (100.0%) of 35,256 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -98,23 +98,29 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 
 ---
 
-### ஜூலைக்குள் தேர்தல் திகதி
+### Election date by July
 
 *2024-07-15 01:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜூலைக்குள்-தேர்தல்-திகதி/175-340404) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான திகதி இம்மாத இறுதிக்குள் தீர்மானிக்கப்படும் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+The upcoming presidential election's date will be set by the end of this month, with a range from September 16 to October 17. For the first time, candidates must disclose their election spending under the 2023 Election Expenditure Act. This election aims to fully implement regulations, address issues from previous elections, and curb unauthorized fundraising. The Election Commission, government officials, and law enforcement confirm readiness for the election.
 
-முதன்முறையாக, 2023 ஆம் ஆண்டின் தேர்தல் செலவுச் சட்டத்தின்படி, வேட்பாளர்கள் தங்கள் தேர்தல் செலவை அறிவிக்க வேண்டும்.
+🟩
 
-கடந்த ஒத்திவைக்கப்பட்ட தேர்தலில் பயன்படுத்தப்படாத விதிமுறைகள், பொறுப்புக்கூறலை மேம்படுத்துவதற்கும் நெறிமுறையற்ற நிதி சேகரிப்பு நடைமுறைகளைக் குறைப்பதற்கும் இம்முறை முழுமையாக அமுல்படுத்தப்படும்.
+Elections Commission Chairman RMAL Ratnayake said that the date of the upcoming presidential election will be decided by the end of this month.
 
-இந்த ஆண்டு செப்டம்பர் 16 முதல் ஒக்டோபர் 17 வரை தேர்தல் நடைபெறும் என எதிர்பார்க்கப்படுகிறது.
+For the first time, the candidates must declare their election expenditure under the Election Expenditure Act of 2023.
 
-தேர்தல் ஆணையத்தின் தலைவர் ரத்நாயக்க, அரசாங்க அச்சகர், பொலிஸ் மா அதிபர், போஸ்ட் மாஸ்டர் ஜெனரல் மற்றும் பிற தொடர்புடைய தரப்பினர் தேர்தலுக்குத் தயாராக இருப்பதை உறுதிப்படுத்தியுள்ளனர்.
+This time it will be fully implemented to improve the regulations, unused regulations in the last postponement election and to reduce the non -regime raising process.
+
+The election is expected to be held from September 16 to October 17 this year.
+
+The Chairman of the Election Commission, Ratnayake, the Government Principal, the Inspector General of Police, the Post Master General and other relevant parties have confirmed that the election is ready for the election.
 
 ◼️
 
 [Data](articles/e8a2c036.json)
+
+[Extended Data](ext_articles/e8a2c036.ext.json)
 
 ---
 
@@ -412,6 +418,20 @@ Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a for
 
 ### 2024-07-14 (Sunday)
 
+### Symptoms Of Anarchy?
+
+*2024-07-14 22:54:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/symptoms-of-anarchy/) · `en`
+
+The recent assassination of Club Wasantha, a prominent figure in the nightclub business, has sent shockwaves throughout Sri Lanka, highlighting a chilling mafia-style attack. Club Wasantha was gunned down by two marksmen in a professional manner, and in a well-publicized mission, it appeared in a footage that one gunman was picking up a banana or some sweet while escaping the scene.
+
+Numerous CCTV footages depicted the disturbing nature of the crime, suggesting the level of confidence and brazenness among the perpetrators. There is even speculation that one such video was being watched in real-time by the mastermind behind the attack, which, if true, should create fear even among those who are provided security nowadays.
+
+...
+
+[Data](articles/86bd1aeb.json)
+
+---
+
 ### Child’s Guide To Debt & Debt Restructuring – Part II
 
 *2024-07-14 22:34:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-debt-debt-restructuring-part-ii/) · `en`
@@ -421,6 +441,8 @@ Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a for
 ...
 
 [Data](articles/8fe7922f.json)
+
+[Extended Data](ext_articles/8fe7922f.ext.json)
 
 ---
 
@@ -2235,33 +2257,5 @@ The headquarters of the Headquarters Anuruddha Bandaranayake is conducting furth
 [Data](articles/7ce0d2a9.json)
 
 [Extended Data](ext_articles/7ce0d2a9.ext.json)
-
----
-
-### Rs. Staff Sergeant arrested for fraud
-
-*2024-07-14 11:04:46* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ-180ක-වංචාවකට-මාණ්ඩලික-සැරයන්-අල්ලයි/11-410769) · `si`
-
-A staff sergeant was arrested by the CID for alleged fraud and misuse of public property, as per sections 5(1)(a)(b) and 3(1) of the Penal Code and Act No. 28 of 1999. The 39-year-old suspect from Kiriwattuduwa faces charges of cheating and fraudulent activities.
-
-🟩
-
-The Criminal Investigation Department (CID) has arrested a staff sergeant about Rs.
-
-According to a complaint, the suspect is arrested after a investigation by the Criminal Investigation Department.
-
-The false use is accused of defrauding and cheating and cheating and cheatfully.
-
-The Penal Code of Sections 5 (1) (1) (2) is wrong for the error in the public property under 3 (1) of the Act No. 28 of 1999, a revised by the Act No. 28 of 1999.
-
-The suspects are a 39 year old resident of Kiriwattuduwa.
-
-Investigations are conducted by the Commercial Testing Department of the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/6d2e7ca9.json)
-
-[Extended Data](ext_articles/6d2e7ca9.ext.json)
 
 ---

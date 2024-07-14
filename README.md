@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 04:19:52**
+As of **2024-07-15 04:35:24**
 
 ## Newspaper Stats
 
-*Scraped **35,253** Articles*
+*Scraped **35,255** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 314
-colombotelegraphcom | 331
+colombotelegraphcom | 332
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
@@ -17,7 +17,7 @@ economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,179
 adaderanalk | 4,055
-tamilmirrorlk | 4,242
+tamilmirrorlk | 4,243
 dailymirrorlk | 4,733
 virakesarilk | 5,501
 adaderanasinhalalk | 5,882
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,253 (100.0%) of 35,253 articles have been extended.
+35,253 (100.0%) of 35,255 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,26 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 [Data](articles/a0e0eebc.json)
 
 [Extended Data](ext_articles/a0e0eebc.ext.json)
+
+---
+
+### ஜூலைக்குள் தேர்தல் திகதி
+
+*2024-07-15 01:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜூலைக்குள்-தேர்தல்-திகதி/175-340404) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான திகதி இம்மாத இறுதிக்குள் தீர்மானிக்கப்படும் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+
+முதன்முறையாக, 2023 ஆம் ஆண்டின் தேர்தல் செலவுச் சட்டத்தின்படி, வேட்பாளர்கள் தங்கள் தேர்தல் செலவை அறிவிக்க வேண்டும்.
+
+கடந்த ஒத்திவைக்கப்பட்ட தேர்தலில் பயன்படுத்தப்படாத விதிமுறைகள், பொறுப்புக்கூறலை மேம்படுத்துவதற்கும் நெறிமுறையற்ற நிதி சேகரிப்பு நடைமுறைகளைக் குறைப்பதற்கும் இம்முறை முழுமையாக அமுல்படுத்தப்படும்.
+
+இந்த ஆண்டு செப்டம்பர் 16 முதல் ஒக்டோபர் 17 வரை தேர்தல் நடைபெறும் என எதிர்பார்க்கப்படுகிறது.
+
+தேர்தல் ஆணையத்தின் தலைவர் ரத்நாயக்க, அரசாங்க அச்சகர், பொலிஸ் மா அதிபர், போஸ்ட் மாஸ்டர் ஜெனரல் மற்றும் பிற தொடர்புடைய தரப்பினர் தேர்தலுக்குத் தயாராக இருப்பதை உறுதிப்படுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/e8a2c036.json)
 
 ---
 
@@ -391,6 +411,18 @@ Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a for
 ---
 
 ### 2024-07-14 (Sunday)
+
+### Child’s Guide To Debt & Debt Restructuring – Part II
+
+*2024-07-14 22:34:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-debt-debt-restructuring-part-ii/) · `en`
+
+Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a former official of the Ministry of Finance, have been in very intense interactive discussion of the debt and debt restructuring problem of Sri Lanka. In the previous episode, they discussed why only bilateral and commercial borrowings of Sri Lanka have been earmarked for restructuring when the country’s total foreign debt had been a massive amount.
+
+...
+
+[Data](articles/8fe7922f.json)
+
+---
 
 ### Dengue raises up again
 
@@ -2231,57 +2263,5 @@ Investigations are conducted by the Commercial Testing Department of the Crimina
 [Data](articles/6d2e7ca9.json)
 
 [Extended Data](ext_articles/6d2e7ca9.ext.json)
-
----
-
-### Girls Abuse: Arrested Teacher Arrested
-
-*2024-07-14 10:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிகள்-துஷ்பிரயோகம்-ஆடிய-ஆசிரியர்-கைது/175-340364) · `ta`
-
-A dance teacher in Sri Lanka's Hangwella-Patewela area was arrested for allegedly sexually abusing female students and sharing explicit photos via WhatsApp. The 38-year-old suspect faces charges after multiple complaints were filed, including one with the Navagamuwa police. He was produced before the Homagama Magistrate's Court.
-
-🟩
-
-Hangwella police said that a dancer teacher who allegedly abused girls who had come to the dance class was arrested on Saturday (13).
-
-A 38 -year -old dance teacher from Hangwella - Patewela area has been arrested.
-
-The arrested man has taken the girls who came to his dance class and sexually abused and sent them photos of pornography by WhatsApp.
-
-A Hangwella Police Station official said that the suspect and the Navagamuwa police have received such complaints.
-
-In addition, the suspect has taken steps to produce the Homagama Magistrate's Court, police said.
-
-◼️
-
-[Data](articles/1cc15383.json)
-
-[Extended Data](ext_articles/1cc15383.ext.json)
-
----
-
-### Thief stolen stolen of Rs. 5 Mn of Rs.
-
-*2024-07-14 10:49:56* · [`adalk`](https://www.ada.lk/breaking_news/සචිත්‍ර-ගේ-නිවසින්-රු-මි-5ක-භාණ්ඩ-සොරාගත්-සොරා-භාණ්ඩත්-එක්කම-අල්ලයි/11-410768) · `si`
-
-A thief stole Rs. 5 million worth of goods, including rice and jewelry, from the house of Test cricketer Sachithra Senanayake. The 34-year-old suspect from Uthankanda, Thalangama, was arrested after being found with a mask and a weapon. He had previously been involved in several incidents investigated by the Kottawa Police Division.
-
-🟩
-
-The Kottawa Police say that the goods were stolen with stolen goods from a house of Test cricketer Sachithra Senanayake.
-
-The arrested person was a 34 year old resident of Uthankanda, Thalangama Uthangama.
-
-The man had stolen ten thousand rice, four handflamped rings on June 22nd and five handfladed rings.
-
-The Talangama Police OIC of the Criminal Investigation Division of the Kottawa Police while investigating a complaint was on the occasion was a mask, no, a mask, a mask, and bust that a person who had been on a side road in the Wekadkara area, while investigating the investigation.It has been revealed that he had been on his way to a robbery when he had found a set of weapons.
-
-Accordingly, information has been revealed that former Test cricketer Sachithra Senanayake, who was arrested and was deprived of further interrogation.. According to the inspection of the suspect's home, the stolen stock has been discovered that Rs.
-
-...
-
-[Data](articles/855372cc.json)
-
-[Extended Data](ext_articles/855372cc.ext.json)
 
 ---

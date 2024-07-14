@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 18:14:19**
+As of **2024-07-14 18:30:13**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,198 (100.0%) of 35,200 articles have been extended.
+35,200 (100.0%) of 35,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### ජනපති ට ජී එල් ගෙන් අභියෝගයක්
+### President's challenge to GL
 
 *2024-07-14 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198800) · `si`
 
-ජනාධිපතිවරණය කල්දැමීමට කිසිවෙකුටත් නොහැකි බව හිටපු අමාත්‍ය ජී. එල්. පීරිස් මහතා පවසයි.
+Former Minister G.L. Peiris stated that the Atamasthanadhipathi Nayakana Thero supported the Presidential election. He visited the Lankarama Temple and blessed the Chief Incumbent, emphasizing the importance of not delaying elections. Ranil Wickremesinghe highlighted the country's economic stability and progress in addressing national issues.
 
-ඔහු ඒ බව පැවසුවේ අද (14) උදෑසන අටමස්ථානාධිපති පල්ලේගම හේමරතන නාහිමියන් බැහැදක ආශිර්වාද ලබාගත් අතර මෙහිදී ජනාධිපතිවරණය පැවැත්වීම පිළිබඳව ද අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතනා හිමියන් සමඟ සුහද පිළිසඳරක නිරත වී තිබුණි.
+🟩
 
-ඉන් අනතුරුව හිටපු අමාත්‍යවරයා ලංකාරාම විහාරස්ථානයට ගොස් විහාරාධිපති රළපනාවේ ධම්මජෝති නාහිමි බැහැදක ආශිර්වාද ලබාගත් අතර මෙහිදී ද රටේ වත්මන් දේශපාලන තත්ත්වය පිළිබඳවද  පිළිසඳරක නිරත විය.
+Former Minister G of former Minister G. L. Mr. Peiris says.
 
-පසුව මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නවලට පිළිතුරු දෙමින් පීරිස් මහතා පැවසුවේ ජනාධිපතිවරණය කල්දැමීම සඳහා කිසිදු පුද්ගලයකුට ඉඩක් නොමැති බවයි.
+He said this today (14), the Atamasthanadhipathi Nayakana Thero had backed the Presidential election.
 
-රනිල් වික්‍රමසිංහ ජනාධිපතිවරයා රටේ ආර්ථිකය ශක්තිමත්ව ගොඩනගා ඇති බවත් රටේ සියලුම ප්‍රශ්න විසඳා ඇති බවත් ප්‍රකාශ කරන්නේ නම් මැතිවරණය පැවැත්වීම සඳහා බිය විය නොමැති බවත් කියා සිටියේය.
+Thereafter, the former Minister went to the Lankarama Temple and blessed Dhammajothy Nahi Nahujeratne Nahi, Chief Incumbent.
+
+Responding to the questions that journalists then asked the questions that there was no room for postal election.
+
+Ranil Wickremesinghe said that the economy of the country has been established and that all the country has solved all the problems of the country.
 
 ◼️
 
 [Data](articles/9793e9b0.json)
+
+[Extended Data](ext_articles/9793e9b0.ext.json)
 
 ---
 
@@ -420,21 +426,27 @@ When "the country's economic conditions are special, good or good," 28% of peopl
 
 ---
 
-### පාතාල නායක ගෝනවල සුනිල්ටත් සාම විනිසුරු පත්වීම් ලබාදී තිබුණ
+### Gardens Gunawala Sunil and Peace Judges were appointed
 
 *2024-07-14 14:06:35* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-නායක-ගෝනවල-සුනිල්ටත්-සාම-විනිසුරු-පත්වීම්-ලබාදී-තිබුණ/11-410776) · `si`
 
-මුල් ළමාවිය සංවර්ධනය  වැඩි දියුණු කිරීම  සදහා වෙනම අධ්‍යාපන ඒකකයක් ස්ථාපිත කර , පෙර පාසැල් ගුරුවරුන්ගේ සේවය ස්ථිර කළ යුතු බව අධිකරන අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවැසිය.
+Minister Wijayadasa Rajapaksa called for a separate education unit for pre-schools to boost early childhood development, criticizing current educational methods. He mentioned the appointment of underworld leader Sunil Gunawala as a peace judge due to past peace requests, stating that such appointments are now based on merit. Rajapaksa emphasized the need for a change in the education system, highlighting the potential for children to learn more in less time compared to other developing countries. He also addressed the issue of youths leaving the country for lack of suitable jobs and proposed increasing allowances for pre-school teachers to Rs. 25,000 per month.
 
-එසේම දේශපාලන අවශ්‍යතා අනුව අතීතයේ සාම විනිසුරු පත්වීම් ලබා දී තිබුණ බවත් පාතාල නායකයෙකු වු ගෝනවල සුනිල් නැමැත්තාටත් සාම විනිසුරු පත්වීම් ලබාදී තිබුණ බවත් ඔහු පැවැසිය.
+🟩
 
-විජයදාස රාජපක්ෂ මහතා මෙම අදහස් පළ කළේ  ̎මුල් ළමාවියට ගෞරවයක්  ̎ පෙර පාසැල් ගුරුවරියන් සදහා මුළු දිවයිනටම බලපාන පරිදි සාම විනිසුරු පත්වීම් ලබාදීම වෙනුවෙන් පන්නිපිටිය දෙව්රම් වෙහෙර රජමහා  ශාලාවේ පැවති උත්සවයකට එක්වෙමිනි.
+Minister Wijayadasa Rajapaksa said that the pre-school teachers should establish a separate education unit to improve early childhood development.
 
-" දැනට පවතින අධ්‍යාපන ක්‍රමවේදය වෙනස් විය යුතුයි. මේ රටේ පවතින අධ්‍යාපන ක්‍රමය අනුව බිහි වන්නේ උගතුන් පමණයි. උගතුන් වෙනුවට බුද්ධිමතුන් බිහිවිය යුතුයි. උගත්කම පවතින පුද්ගලයා සතුව බුද්ධිමත් බව නිරායාසයෙන්ම ඇති වෙනවා. පෙර පාසැල් වෙනුවෙන් වෙනම දෙපාර්තමේන්තුවක් හෝ අංශයක් පිහිටුවිය යුතුයි.
+He also said that the Peace Requests of the past had been given the appointments of the past and the Gonawala Sunil, an underworld leader, had been given the peace judges.
+
+Mr. Wijeyadasa Rajapaksa made these comments participating at a function held at the Devram Vehera Hall in the Pannipitiya Wehera Hall.
+
+"The existing education system should change. The educational methods of this country are only educated. The intellectuals must be born instead of educators. The person who is educated has intelligently. A separate department or section should be established for pre-schools.
 
 ...
 
 [Data](articles/7b26d3f1.json)
+
+[Extended Data](ext_articles/7b26d3f1.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 08:55:01**
+As of **2024-07-14 09:07:06**
 
 ## Newspaper Stats
 
-*Scraped **35,127** Articles*
+*Scraped **35,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,040
-tamilmirrorlk | 4,215
+tamilmirrorlk | 4,216
 dailymirrorlk | 4,733
-virakesarilk | 5,480
+virakesarilk | 5,481
 adaderanasinhalalk | 5,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,127 (100.0%) of 35,127 articles have been extended.
+35,127 (100.0%) of 35,129 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,28 @@ Nimal Bandara said that the voice of the Israeli Lebanese missiles have increase
 [Data](articles/1f703a6c.json)
 
 [Extended Data](ext_articles/1f703a6c.ext.json)
+
+---
+
+### தேர்தல் பிரச்சாரத்தின் போது டிரம்ப்மீது துப்பாக்கி பிரயோகம்- காதில் காயம் - சந்தேக நபர் உட்பட இருவர் சுட்டுக்கொலை – படுகொலை முயற்சி  என்ற கோணத்தில் விசாரணை
+
+*2024-07-14 07:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188397) · `ta`
+
+அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் மீது பட்லர் பென்சில்வேனியாவில் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+அமெரிக்காவின் இரகசியசேவை பிரிவினர் மேற்கொண்ட பதில் தாக்குதலில் துப்பாக்கி பிரயோகத்தை மேற்கொண்டவரும் பேரணியில் கலந்துகொண்ட ஒருவரும் கொல்லப்பட்டுள்ளனர் என அதிகாரிகள் தெரிவிக்கின்றனர்.
+
+டிரம்பின் வலதுகாதை ஏதோ தாக்கியதை அங்குள்ளவர்கள் அவதானித்துள்ளனர்.அவர் தனது காதைப்பிடித்தபடி நிலத்தில் அமர்வதை வீடியோக்கள் காண்பித்துள்ளன.
+
+முகத்தில் இரத்தத்துடன் எழுந்து நின்ற டிரம்ப் கைகளை உயர்த்தி போராடுங்கள் போராடுங்கள் என தெரிவித்துள்ளார்.
+
+சம்பவம் இடம்பெற்ற பகுதி குற்றச்செயல் இடம்பெற்ற பகுதியாக அறிவிக்கப்பட்டுள்ளது- டிரம்ப் நலமாக உள்ளார் என அவரது அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+தாக்குதலை மேற்கொண்டவர் என கருதப்படும் சந்தேகநபரும் பேரணியில் கலந்துகொண்ட ஒருவரும் சுட்டுக்கொல்லப்பட்டுள்ளதை அதிகாரிகள் உறுதி செய்துள்ளனர்.
+
+...
+
+[Data](articles/78163d61.json)
 
 ---
 
@@ -293,6 +315,24 @@ Meanwhile, Vajira Wijewardena of Anglo Asian, fame was manufacturing blades at h
 [Data](articles/ccb344de.json)
 
 [Extended Data](ext_articles/ccb344de.ext.json)
+
+---
+
+### சூரிய சக்தியை ஜனாதிபதி திறந்து வைத்தார்
+
+*2024-07-14 01:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூரிய-சக்தியை-ஜனாதிபதி-திறந்து-வைத்தார்/175-340349) · `ta`
+
+வரலாற்றில் பிரசித்தி பெற்ற வணிக மற்றும் பொருளாதார மையமாக அநுராதபுர நகரத்தை மீண்டும் உலகப் பிரசித்தமான நகரமாக மாறுவதற்குத் வேலைத்திட்டம் ஆரம்பிக்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+தஞ்சாவூர், மதுரை மற்றும் காஞ்சிபுரம் நகரங்களைப் பற்றி இன்று உலகம் முழுவதும் பேசப்படுகிறது. ஆனால் அதன் நான்காவது நகரமாக கருதப்பட வேண்டிய அநுராதபுரத்தின் முன்னேறத்துக்கான ஏற்பாடுகள் இதுவரையில் செய்யப்படவில்லை என்றும் ஜனாதிபதி தெரிவித்தார்.
+
+அநுராதபுரம் ஸ்ரீ மகா போதிய வளாகத்தில் எல்.ரி.எல். வர்த்க குழுமத்தினால் அமைக்கப்பட்ட 150 கிலோவோட் மின்சாரத்தை உற்பத்தி செய்யக்கூடிய சூரிய சக்தி கட்டமைப்பை கையளிக்கும் நிகழ்வில் நேற்று கலந்துகொண்டு உரையாற்றிய போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+
+நேற்று அநுராதபுரம் புனித நகருக்கு சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, சியம் மகா நிகாயவின் மல்வத்து பீட பிரதம சங்கநாயக்கரும அட்டமஸ்தான விகாராதிபதியுமான வண. பல்லேகம ஹேமரதன தேரரை சந்தித்து ஆசி பெற்றுக்கொண்டார்.
+
+...
+
+[Data](articles/9cf6b732.json)
 
 ---
 
@@ -2169,41 +2209,5 @@ Top Thai Brands Colombo 2024, presented by the Chennai Thai Trade Centre, kicked
 [Data](articles/7948b458.json)
 
 [Extended Data](ext_articles/7948b458.ext.json)
-
----
-
-### Seylan Bank partners with The Wedding Show 2024 as official banking partner
-
-*2024-07-13 00:18:47* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Bank-partners-with-The-Wedding-Show-2024-as-official-banking-partner/34-764219) · `en`
-
-Seylan Bank has partnered with The Wedding Show 2024, the country’s largest wedding related show, as the event’s official banking partner.
-
-The event is a unique opportunity for hotels, event management and photography groups, designers, and beauticians to come together and share ideas. Set to open its doors on 12 July at the Sirimavo Bandaranaike Memorial Convention Centre from 10 a.m. to 9 p.m., The Wedding Show will host approximately 150 trade stalls across three days.
-
-It is expected that nearly 15,000 couples and families will patronise the show, allowing them to sample the services they might most desire to celebrate important life events. Visitors can experience the best of what Sri Lanka’s wedding industry has to offer. Visitors planning weddings and events may confer with leading photo and videographers alongside leading bridal/grooming tailors. They may explore hoteliers, beauty salons, and event managers.
-
-...
-
-[Data](articles/cd4c501f.json)
-
-[Extended Data](ext_articles/cd4c501f.ext.json)
-
----
-
-### SL, Singapore discuss digital partnership
-
-*2024-07-13 00:18:15* · [`dailyftlk`](https://www.ft.lk/business/SL-Singapore-discuss-digital-partnership/34-764218) · `en`
-
-The Sri Lankan High Commissioner to Singapore Senarath Dissanayake met Singapore Communications and Information Minister Josephine Teo on 1 July and exchanged views on shared common interests on the digital front, including AI.
-
-The High Commissioner briefed the Minister on the recent Fintech delegation visit to Sri Lanka to explore possible collaborative opportunities in digital public infrastructure and the proposed visit by the Press Club of Singapore. He thanked the Minister for the support extended by AI Singapore and stressed the importance of fostering cooperation in the field of communication and technology between Sri Lanka and Singapore.
-
-Referring to Singapore’s regional cyber security efforts through the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE), Dissanayake sought the possibility of Sri Lanka obtaining technical assistance from the ASCCE.
-
-...
-
-[Data](articles/71f5779b.json)
-
-[Extended Data](ext_articles/71f5779b.ext.json)
 
 ---

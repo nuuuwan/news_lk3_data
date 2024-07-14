@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 10:20:11**
+As of **2024-07-14 10:35:40**
 
 ## Newspaper Stats
 
-*Scraped **35,138** Articles*
+*Scraped **35,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
-adalk | 3,161
+adalk | 3,162
 adaderanalk | 4,041
-tamilmirrorlk | 4,219
+tamilmirrorlk | 4,221
 dailymirrorlk | 4,733
 virakesarilk | 5,482
-adaderanasinhalalk | 5,859
+adaderanasinhalalk | 5,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,137 (100.0%) of 35,138 articles have been extended.
+35,138 (100.0%) of 35,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### වි‍දෙස් ජාතික‍ කාන්තාවක් දියේ ගිලී මරුට
+
+*2024-07-14 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198786) · `si`
+
+වැලිගම පොලිස් වසමේ මිරිස්ස මුහුදේ දිය නෑමට ගොස් සිටි කොරියානු ජාතික කාන්තාවක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙම කාන්තාව දිය වැලකට හසුව ගසාගෙන යමින් සිටි අවස්ථාවේදී වෙරළ ආරක්ෂක බළකා, ජීවිතාරක්ෂක නිලධාරීන් විසින් ඇය ගොඩට ගෙන මාතර රෝහලට ඇතුළත් කර ඇති අතර ඒ වන විටත් ඇය මියගොස් සිට ඇත.
+
+◼️
+
+[Data](articles/0853168f.json)
+
+---
+
+### யுவதியின் முடியை வெட்டிய மௌலவி கைது
+
+*2024-07-14 10:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/யுவதியின்-முடியை-வெட்டிய-மௌலவி-கைது/76-340359) · `ta`
+
+பேருந்தில் பயணித்த 27 வயதுடைய யுவதியின் முடியை வெட்டியதாக கூறப்படும் முருத்தலாவ பிரதேசத்தை சேர்ந்த மௌலவி ஒருவரை கண்டி தலைமையக பொலிஸார் கைது செய்துள்ளனர்.
+
+கட்டுகஸ்தோட்டையில் இருந்து கண்டி நோக்கி பயணித்த பஸ்ஸில் யுவதியொருவர் அமர்ந்திருந்த போது, ​​ அந்த ஆசனத்தின் பின் இருக்கையில் அமர்ந்திருந்த மௌலவி யுவதியின்  தலைமுடியை வெட்டியுள்ளதாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
+
+சம்பவத்தை எதிர்கொண்ட யுவதி, சந்தேகநபரையும், அவர் வெட்டிய தலைமுடியின் பகுதியையும் தனது அலைபேசியில் வீடியோவாக எடுத்துள்ளார்.
+
+மேலும், மடவளை பிரதேசத்தில் வசிக்கும் யுவதி சில தேவைகளுக்காக கண்டி நோக்கி பயணித்த வேளையில் இச்சம்பவத்தை எதிர்கொண்டுள்ளார், அவர் அறிவித்ததன் பிரகாரம் பஸ் பயணிகள் சந்தேக நபரை பிடித்து பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் முருத்தலாவ தெஹியங்க வடக்கு பகுதியைச் சேர்ந்தவர் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9ce1576c.json)
+
+---
+
+### ට්‍රම්ප්ට වෙඩි තැබිමක්
+
+*2024-07-14 10:02:33* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්ට-වෙඩි-තැබිමක්/11-410765) · `si`
+
+ඇමෙරිකානු හිටපු ජනපති ඩොනල්ඩ් ට්‍රම්ප් වෙඩි වැදිමක් හේතුවෙන් තුවාල ලබා තිබේ. පෙන්සල්වේනියාවේ පැවැති දේශපාලන රැළියකදී මෙම වෙඩි තැබීම සිදුකර තිබේ.
+
+වෙඩි තැබූ පුද්ගලයා ආරක්ෂක අංශයන්හි ප්‍රතිප්‍රහාර හමුවේ ජිවිතක්ෂයට පත්ව තිබේ. මෙම සිදුවීමෙන් පුද්ගලයන් දෙදෙනෙක් තුවාල ලබා එක් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+වෙඩි තැබිමෙන් අනතුරුව ඇමෙරිකානු ජනපති ජෝ බයිඩන් මහතා ට්‍රම්ප්ට කථා කර තිබේ.
+
+◼️
+
+[Data](articles/94b07f34.json)
+
+---
+
+### தூபிக்குள் பூஜை ; ஐவர் கைது
+
+*2024-07-14 10:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூபிக்குள்-பூஜை-ஐவர்-கைது/175-340358) · `ta`
+
+கருவலகஸ்வெவ, எகொடபிட்டிய பிரதேசத்தில் ஆயிரம் வருடங்கள் பழமையான தூபியொன்றுக்குள் விளக்கு ஏற்றி பூஜை செய்து புதையல் தோண்டுவதற்கு முயற்சி செய்த ஐவர் சனிக்கிழமை (13) மாலை  கைது செய்யப்பட்டுள்ளனர்.
+
+கருவலகஸ்வெவ வனஜீவராசிகள் அலுவலக அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் கருவலகஸ்வெவ பொலிஸ் உத்தியோகத்தர்களும், வனவிலங்கு அதிகாரிகளும் இணைந்து மேற்கொண்ட சுற்றிவளைப்பின் போதே அவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் 40, 50, 52, 56 வயதுடைய நவகத்தேகம, கொபேய்கனே, நிகவெரட்டிய மற்றும் வாரியபொல ஆகிய பிரதேசங்களைச் சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர் .
+
+இந்த சுற்றிவளைப்பின் போது 65 வயதுக்கு மேற்பட்ட சந்தேக நபர் ஒருவர் தப்பிச் சென்றுள்ளார் எனவும் கூறப்படுகிறது.
+
+அந்த இடத்தில் இரண்டு மோட்டார் சைக்கிள்கள், விளக்கு உட்பட பூஜை பொருட்களுடன், நூல், சந்தனக்குச்சி, தூபம் , அலவாங்கு, மண்வெட்டி போன்ற பொருட்களுடன் கடல் மணலும் கைப்பற்றப்பட்டுள்ளன.
+
+மேலும் , சம்பவம் தொடர்பில் கருவலகஸ்வெவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/8f42122c.json)
+
+---
 
 ### Kokkuttuvai Human Rights Excavation - Two Human Skeleton Boxes
 
@@ -1724,19 +1796,31 @@ How the suspect comes to the house is recorded in the CCTV camera, which was mou
 
 ---
 
-### අභියෝග මැද හර්ෂ ඉදිරිපත් කළ වාර්තාව
+### Report presented by the challenges of challenges
 
 *2024-07-13 10:51:27* · [`adalk`](https://www.ada.lk/breaking_news/අභියෝග-මැද-හර්ෂ-ඉදිරිපත්-කළ-වාර්තාව/11-410764) · `si`
 
-ශ්‍රී ලංකා ආගමන සහ විගමන දෙපාර්තමේන්තුව සහ ආයතන සමූහය අතර මාර්ගගත ආකාරයෙන් වීසා සහ විදෙස් ගමන් බලපත්‍ර අයදුම් කිරීමේ සේවා බැහැරින් ලබාගැනීම පිළිබඳ මුදල් කාරක සභාවේ වාර්තාව පාර්ලිමේන්තුවට ඉදිරිපත් කරමින් එම කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසුවේ අභියෝග රැසක් මැද මෙම වාර්තාව ඉදිරිපත් කරන බවයි.
+The report highlights issues with the visa application process managed by a group involving Tekinology Services, IVSGlobal, and others. Problems include unclear fee structures, data breaches, conflicting interests among companies, and unexpected funds totaling $200 million. The committee recommends a thorough audit by the Auditor General and immediate safety measures to protect the visa application process.
 
-තමාගේ විරෝධය මැද පාර්ලිමේන්තු මහ ලේකම්වරිය මෙම කාරක සභාවට කැඳවූ බවත් තමාව සමහරුන් දැඩි ලෙස සමච්චලයට ලක්කළ බවත් හෙතෙම මෙහිදී අනාවරණය කළේය.
+🟩
 
-මෙහි ආයතන සමූහය ලෙස හඳුන්වන්නේ වීසා අයදුම්පත් මාර්ගගත ආකාරයෙන් ඉදිරිපත් කිරීමේ බලයලත් නියෝජිතායතනය ලෙස ජී.බී.එස්. ටෙක්නොලොජි සර්විසස් හා අයි.වී.එස්.  ග්ලෝබල් - එෆ්.ඉසෙඩ්.සී.ඕ. සමාගම් සහ තාක්ෂණික සහකරු ලෙස වී.එෆ්. වර්ල්ඩ්වයිඩ් හෝල්ඩින්ග්ස් සීමාසහිත සමාගමයි.
+The Chairman of the Committee and the Institute Department of Immigration and Emigration and the Institute of Emigration and the Institute of Institutions
+
+He also revealed that the Secretary General of Parliament was summoned to the committee and he had been severely ridiculed.
+
+The Group is known as the Authorized Agency of Visa Application Form from Online. Tekinology Services and IVSGlobal - F.CiD.CO. VF as companies and technical partner. Worldwide Holdings is the Limited Company Limited.
+
+There is no competitive bidding process in obtaining the services for these Group.. There are several main issues that have been unresolved in the procurement process.
+
+01. Vagile Fee Structure: The cost of disparity and facilities in the service charges, including fees, free of charge.
+
+02. Data Disclosure and Termination: The existence of a data breach of the termination clause requires further investigation.
 
 ...
 
 [Data](articles/8c31d41d.json)
+
+[Extended Data](ext_articles/8c31d41d.ext.json)
 
 ---
 
@@ -2197,77 +2281,5 @@ The Department of Meteorology has informed the people to take necessary steps to
 [Data](articles/a39a0e18.json)
 
 [Extended Data](ext_articles/a39a0e18.ext.json)
-
----
-
-### Singer unveils nubia brand cutting-edge devices
-
-*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/singer-unveils-nubia-brand-cutting-edge-devices/) · `en`
-
-Singer Sri Lanka proudly celebrated the exclusive unveiling of four new smartphones at a glamorous nubia brand launch, the newest addition to its illustrious portfolio of international brands. The event marked the introduction of a new wave of innovation and power to the Sri Lankan market, catering to a discerning audience seeking a premium mobile experience and the opportunity for authentic self-expression.
-
-The launch showcased the newest offerings from nubia, a leading global smartphone brand renowned for its superlative technology, and included the nubia Neo 2 5G, nubia Focus Pro 5G, nubia V60 and nubia V60 Design models.
-
-Expressing his thoughts, Mahesh Wijewardene, Chief Executive Officer, Singer Group of Companies said, “We are excited to introduce nubia’s innovative smartphones to the Sri Lankan market. Our collaboration with nubia reinforces our commitment to providing our customers with the latest in technology and exceptional service.”
-
-...
-
-[Data](articles/1efc5ca6.json)
-
-[Extended Data](ext_articles/1efc5ca6.ext.json)
-
----
-
-### Foreign bargain-hunting energizes share market
-
-*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/foreign-bargain-hunting-energizes-share-market/) · `en`
-
-The stock market kicked off at a slow pace but later picked up due to new buying interest for valued stocks among foreign bargain hunters, thus giving some hope and impetus to the market yesterday, stock market analysts said.
-
-The All- Share Price Index went up by 41.7 points while S and P SL20 rose by 27.9 points. Turnover stood at Rs 653 million with one crossing. The crossing was reported in JKH, which crossed 189,000 shares to the tune of Rs 36.7 million; its shares traded at Rs 194.
-
-...
-
-[Data](articles/3dc06b46.json)
-
-[Extended Data](ext_articles/3dc06b46.ext.json)
-
----
-
-### MMBL money transfer market share grows to 5% of Sri Lanka’s worker remittances
-
-*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/mmbl-money-transfer-market-share-grows-to-5-of-sri-lankas-worker-remittances/) · `en`
-
-Worker remittances brought into Sri Lanka through the MMBL-Money Transfer network grew at 44% to US$159. 3 million in the first half of 2024. MMBL-Money Transfer represented a 5% share of Sri Lanka’s total worker remittances and a 78% share of Western Union remittances to Sri Lanka during this period. MMBL-Money Transfer is a 50/50 joint-venture between Aitken Spence PLC and the MMBL-Pathfinder Group.
-
-The MMBL-Money Transfer network, which consists of over 3,000 agents spread throughout Sri Lanka, is the largest international money transfer network in the country. Through Western Union, MMBL-Money Transfer connects Sri Lanka to the largest global money transfer network spanning over 200 countries and 550,000 agents worldwide.
-
-Renewal of prawn farming in Batticaloa district triggers public protests
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/d0e8cf35.json)
-
-[Extended Data](ext_articles/d0e8cf35.ext.json)
-
----
-
-### Elevating customer experiences, Sampath Bank partners with Royal Colombo Golf Club
-
-*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/elevating-customer-experiences-sampath-bank-partners-with-royal-colombo-golf-club/) · `en`
-
-Sampath Bank is pleased to announce its sponsorship of the prestigious July Monthly Medal Event at the Royal Colombo Golf Club (RCGC), scheduled for the 12th and 13th of July 2024. The sponsorship was formalised during a cheque-handing ceremony on the 10th of July, marking a significant collaboration between Sampath Bank and the RCGC.
-
-The July Monthly Medal Event is a highlight on the golfing calendar, attracting over 300 golfers from across the country. The event will be held over two days, culminating in an award ceremony on the second day. Sampath Bank’s involvement acknowledges its commitment to fostering customer satisfaction and providing exceptional experiences for its valued customers.
-
-...
-
-[Data](articles/f509c629.json)
-
-[Extended Data](ext_articles/f509c629.ext.json)
 
 ---

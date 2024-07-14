@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 13:05:31**
+As of **2024-07-14 13:19:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,167 (100.0%) of 35,168 articles have been extended.
+35,168 (100.0%) of 35,168 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The deceased woman has been identified as a 37-year-old from South Korea.
 ◼️
 
 [Data](articles/caea532e.json)
+
+[Extended Data](ext_articles/caea532e.ext.json)
 
 ---
 

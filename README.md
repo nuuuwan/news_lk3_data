@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 03:54:27**
+As of **2024-07-15 04:06:01**
 
 ## Newspaper Stats
 
-*Scraped **35,252** Articles*
+*Scraped **35,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,179
 adaderanalk | 4,055
-tamilmirrorlk | 4,241
+tamilmirrorlk | 4,242
 dailymirrorlk | 4,733
 virakesarilk | 5,501
 adaderanasinhalalk | 5,882
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,252 (100.0%) of 35,252 articles have been extended.
+35,252 (100.0%) of 35,253 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,24 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 [Data](articles/a0e0eebc.json)
 
 [Extended Data](ext_articles/a0e0eebc.ext.json)
+
+---
+
+### தமிழரசுக் கட்சி உயிர்போடு இருக்கிறது
+
+*2024-07-15 01:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சி-உயிர்போடு-இருக்கிறது/175-340403) · `ta`
+
+இலங்கை தமிழரசுக் கட்சி உயிர்போடு இருப்பதுடன் ஓர் ஆக்கபூர்வமான பிரதிநிதிகளுடன் தொடர்ந்தும் பயணிக்கிறது. எதிர்வரும் எந்த தேர்தலிலும் கட்சி போட்டியிடும். மக்களுக்கான தனது செயற்பாட்டை தொடர்ந்தும் முன்னெடுக்கும் என்று தெரிவித்துள்ள   பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன்  தேர்தலை பிற்போட அரசாங்கம் சதி செய்கிறது என்றார்.
+
+வவுனியாவில், ஞாயிற்றுக்கிழமை (14)   இடம்பெற்ற தமிழரசுக் கட்சியின் அரசியல் குழு கூட்டத்தின் பின் இடம்பெற்ற ஊடகவியாளர்  சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழரசுக் கட்சியின் அரசியல் குழுவும், கட்சி சம்மந்தமான வழக்கில் சம்மந்தப்பட்ட தரப்பினரும் ஒன்றாக கூடி அடுத்த தவணை 19 ஆம் திகதி வழக்கு வரவிருக்கின்ற காரணத்தினால் அது குறித்து உரையாடப்பட்டது.
+
+நாங்கள் ஒவ்வொருவரும் தங்களது நிலைப்பாட்டுக்கு அமைய  மறுமொழிகளை தாக்கல் செய்த பிறகு வழக்கை முடிவுறுத்துவதற்கான ஒரு யோசனை அனைவராலும் ஏற்றுக் கொள்ளப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/84e43286.json)
 
 ---
 
@@ -2259,27 +2277,5 @@ Accordingly, information has been revealed that former Test cricketer Sachithra 
 [Data](articles/855372cc.json)
 
 [Extended Data](ext_articles/855372cc.ext.json)
-
----
-
-### Winners of Derana Little Star – Season 12
-
-*2024-07-14 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100493/winners-of-derana-little-star-season-12) · `en`
-
-The Grand Finale of “Derana Little Star – Season 12” wrapped up following some spectacular performances by young artists who showcased their talents.
-
-After a series of preliminary rounds held with the participation of hundreds of contestants, season 12 of the competition concluded last night (July 13) with grandeur.
-
-The contestants competed under two age categories (Under 08 and Under 12) to be adjudged the most talented stars in dancing and singing.
-
-Meanwhile, the most popular stars were selected by the audience through voting.
-
-The winners of “Derana Little Star – Season 12” are as follows:
-
-◼️
-
-[Data](articles/fe03d97b.json)
-
-[Extended Data](ext_articles/fe03d97b.ext.json)
 
 ---

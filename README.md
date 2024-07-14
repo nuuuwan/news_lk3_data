@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 17:20:05**
+As of **2024-07-14 17:35:56**
 
 ## Newspaper Stats
 
-*Scraped **35,197** Articles*
+*Scraped **35,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,051
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,490
-adaderanasinhalalk | 5,872
+adaderanasinhalalk | 5,873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,195 (100.0%) of 35,197 articles have been extended.
+35,197 (100.0%) of 35,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### පොන්ටිං හැරයයි
+
+*2024-07-14 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198799) · `si`
+
+වසර 7ක පමණ කාලයක් දිල්ලි කැපිටල්ස් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස කටයුතු කළ ඔස්ට්‍රේලියානු හිටපු ටෙස්ට් නායක රිකී පොන්ටිං එම තනතුරෙන් ඉවත්වී තිබේ.
+
+බලාපොරොත්තු වූ ප්‍රතිඵල ලබාගැනීමට නොහැකි වීම හේතුවෙන් දිල්ලි කැපිටල්ස් කණ්ඩායමේ හිමිකරුවන් විසින් ඔහුගේ කොන්ත්‍රාත්තුව අවසන් කිරීමට තීරණය කර ඇති බව සඳහන් ය.
+
+ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලියේ ප්‍රබල කණ්ඩායමක් වන දිල්ලි කැපිටල්ස් කණ්ඩායම මෙතෙක් එහි ශූරතාවය දිනා ගැනීමට සමත්වී නැත.
+
+◼️
+
+[Data](articles/ad98ae1d.json)
+
+---
 
 ### Italian sports journalist is falsely identified as Trump shooter on social media
 
@@ -48,17 +64,25 @@ The FBI said early on Sunday it had identified 20-year-old Thomas Matthew Crooks
 
 [Data](articles/c1231368.json)
 
+[Extended Data](ext_articles/c1231368.ext.json)
+
 ---
 
-### சம்பந்தனின் அரசியல் தலைமைத்துவமும் தவறவிடப்பட்ட வாய்ப்புகளும்
+### Sampanthan's political leadership and opportunities missed
 
 *2024-07-14 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188448) · `ta`
 
-சம்பந்தனின் இறப்புக்கு தமிழ் மக்கள் மத்தியில் சார்பளவில் ஒரு சாரமற்ற எதிர்வினை ஏன் காணப்படுகின்றது அத்துடன் இலங்கையின் அதிகார பரப்பெல்லைக்கு அப்பால் மற்றும் சர்வதேச சமூகத்தின் மத்தியில் எழும் ஆழ்ந்த இரங்கல்களில் இருந்து எதனை எம்மால் கற்றுக்கொள்ள முடியும்?அரசாங்கத்திடம் சம்பந்தன் பொய்யுரைத்தார் என்ற செய்தி தொடர்பில் கருத்துத் தெரிவித்த ஒரு நண்பர் “அரசாங்கத்துக்காக வாழ்நாள் முழுவதும் பொய்யுரைத்ததன் பின்னர் அவர் அரசாங்கத்திடம் பொய்யுரைத்துள்ளார்” எனக் கூறினார். ஒரு வெளிநாட்டவரின் பார்வையில் தமிழ் மக்களின் இந்த நடத்தை அவரின் புகழுக்கு வழங்கப்பட்ட அவமரியாதை எனத் தோன்றினாலும், சம்பந்தனின் கடந்த கால நடவடிக்கைகள் இந்த நிலையை நியாயப்படுத்துவதாகவே அமைகின்றது.
+Sampanthan's political leadership faced criticism for missed opportunities. Despite initial praise, his actions led to a tarnished reputation, especially among foreigners. His past justified current sentiments, highlighting lessons from both Sri Lanka's internal and international responses to his leadership.
+
+🟩
+
+Why can we learn from the deepest condolences of Sri Lanka's power and the deepest condolences of the international community?Said. Although this behavior of the Tamil people in the eyes of a foreigner seems to be a disgrace to his reputation, Sambandan's past actions justify this situation.
 
 ◼️
 
 [Data](articles/6544227f.json)
+
+[Extended Data](ext_articles/6544227f.ext.json)
 
 ---
 
@@ -2307,37 +2331,5 @@ Reflecting on past economic and political crises, President Wickremesinghe highl
 [Data](articles/ce8562cd.json)
 
 [Extended Data](ext_articles/ce8562cd.ext.json)
-
----
-
-### Keadusch's Susan set a mark
-
-*2024-07-13 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198776) · `si`
-
-The funeral of Surendra Wasantha Perera, known as Club Wasantha, took place at the Borella Public Cemetery. A banner featuring his photo was displayed, urging caution. His foundation was adorned with white flowers. Perera, who planned to open a talent center in Athurugiriya, was tragically shot on the 8th. The event was attended by family and friends, with security provided by the police and STF.
-
-🟩
-
-The funeral of Surendra Wasantha Perera, or Club Wasantha, was held at the Borella Public Cemetery this morning.
-
-The pedigamuwa front of Godigamuwa a banner with a photograph of his photo had been extended in the background of Makandira Madusch.
-
-It said: "One one is sending us. Take care of it. ".
-
-Meanwhile, we said that Vedantha's foundation was found to be decorated with whiteagas.
-
-Surendra Wasantha Perera, who was to open a tative center in Athurugiriya, was shot dead on the 8th.
-
-The relatives of the Borella General Cemetery were finalized after the burial of Club Wasantha Malzala.
-
-The police and the STF had come to protect the security.
-
-It is reported that a group of closest holisons have joined him.
-
-◼️
-
-[Data](articles/613181da.json)
-
-[Extended Data](ext_articles/613181da.ext.json)
 
 ---

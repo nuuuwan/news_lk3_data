@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 09:20:08**
+As of **2024-07-14 09:35:38**
 
 ## Newspaper Stats
 
-*Scraped **35,130** Articles*
+*Scraped **35,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,65 @@ adaderanalk | 4,040
 tamilmirrorlk | 4,217
 dailymirrorlk | 4,733
 virakesarilk | 5,481
-adaderanasinhalalk | 5,857
+adaderanasinhalalk | 5,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,129 (100.0%) of 35,130 articles have been extended.
+35,130 (100.0%) of 35,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### டிரம்ப் மீது துப்பாக்கி சூடு:  மோடி கண்டனம்
+### Firing on Trump: Modi condemns
 
 *2024-07-14 08:59:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்ப்-மீது-துப்பாக்கி-சூடு-மோடி-கண்டனம்/175-340351) · `ta`
 
-அமெரிக்க ஜனாதிபதித் தேர்தல் நவம்பர் 5-ம் திகதி நடைபெற உள்ளது. இதில், முக்கிய கட்சிகளாக ஜனநாயக கட்சி மற்றும் குடியரசு கட்சி நேருக்கு நேர் மோத உள்ளன. ஜனநாயக கட்சி வேட்பாளராக தற்போதைய ஜனாதிபதி ஜோ பைடன் களமிறங்கியுள்ளார். அதேபோல், குடியரசு கட்சி வேட்பாளராக முன்னாள் ஜனாதிபதி  டொனால்டு டிரம்ப் களமிறங்கியுள்ளார்.
+During the U.S. presidential election, Donald Trump was shot at a rally in Pennsylvania, injuring his ear. The attacker was killed by security forces, and Trump received medical treatment but is now in good health. Indian Prime Minister Modi strongly condemned the violence, emphasizing the importance of non-violence in politics and democracy, and wished Trump a speedy recovery.
 
-தேர்தல் நெருங்கி வரும் நிலையில் இரு வேட்பாளர்களும் தீவிர பிரசாரம் மற்றும் வாக்கு சேகரிப்பில் ஈடுபட்டு வருகின்றனர். அந்த வகையில், பென்சில்வேனியா மாகாணம் பட்லர் நகரில் நடைபெற்ற பிரசார பொதுக்கூட்டத்தில் குடியரசு கட்சி அதிபர் வேட்பாளர் டொனால்டு டிரம்ப் பங்கேற்று பிரசாரத்தில் ஈடுபட்டார்.
+🟩
+
+The US presidential election is scheduled for November 5. Of these, the main parties are the Democratic and the Republican Party face -to -face. Current President Joe Bidon fielded as Democratic candidate. Similarly, former President Donald Trump has fielded the Republican candidate.
+
+As the election approaches. Accordingly, Republican presidential candidate Donald Trump participated in a public meeting in Butler, Pennsylvania.
+
+While Donald Trump was speaking at the public meeting, the man in the crowd suddenly fired at Trump. Donald Trump's ear injury in this firing attack. The people gathered by the incident were hugely shocked. Immediately after security officers became a security fortress around Trump. One person died in the firing.
 
 ...
 
 [Data](articles/29351094.json)
+
+[Extended Data](ext_articles/29351094.ext.json)
+
+---
+
+### මාරක අනතුරු කිහිපයක් - 5ක් මරුට
+
+*2024-07-14 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198784) · `si`
+
+ප්‍රදේශ කිහිපය සිදුවූ රිය අනතුරු 04කින් පුද්ගලයින් 05දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පවසන්නේ, අත්තනගල්ල, ලුණුගම්වෙහෙර, ගිරිඋල්ල, අම්බලන්ගොඩ යන පොලිස් වසම්වලින් එම අනතුර වාර්තා වූ බවය.
+
+ගිරිඋල්ල - හමන්ගල්ල මාර්ගයේ කොහිලවල ප්‍රදේශයේදී යතුරුපැදි දෙකක් මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් තරුණයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, කුලියාපිටිය හා ගිරිඋල්ල ප්‍රදේශවල පදිංචිව සිටි 19 හා 21 යන වයස්වල පසුවන තරුණයින් දෙදෙනෙකි.
+
+මේ අතර ගාල්ල - කොළඹ මාර්ගයේ අම්බලන්ගොඩ නගරයේදී සිදුවූ යතුරපැදි අනතුරකින් 20 හැවිරිදි තරුණයෙක් ජීවිත්කෂයට පත්ව තිබේ.
+
+ගාල්ල දෙස සිට කොළඹ දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවට ලිස්සා ගොස් ගසක ගැටී එම අනතුර සිදුව තිබුණි.
+
+මේ අතර ලුණුගම්වෙහෙර පොලිස් වසමේ අඩි 100 මාර්ගයේ, අඩි 100 ප්‍රදේශයේදී යතුරුපැදියක් මාර්ගයේ හරහා ගමන්කළ පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව තිබේ.
+
+එම අනතුරින් තුවාල ලැබූ පදික පුද්ගලයා මියගොස් ඇති බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ ධීවර ගම්මානය, ලුණුගම්වෙහෙර ප්‍රදේහයේ පදිංචිව සිටි 33 හැවිරිදි පුද්ගලයෙකි.
+
+...
+
+[Data](articles/8676005d.json)
 
 ---
 
@@ -2213,21 +2249,5 @@ He also said arrangements have been made to provide teachers with manuals for es
 [Data](articles/074935d8.json)
 
 [Extended Data](ext_articles/074935d8.ext.json)
-
----
-
-### Sri Lankan Roadshow 2024 in Oman
-
-*2024-07-13 00:21:42* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-Roadshow-2024-in-Oman/34-764221) · `en`
-
-The Embassy of Sri Lanka in Muscat in collaboration with the Sri Lanka Business Council Initiative (SLBCI) in the Sultanate of Oman successfully organised the Sri Lankan Roadshow – 2024 for the first time on a magnificent scale, under the theme of ’Serendib the Golden Island’, promoting Sri Lankan culture, tourism and trade on 5 July 2024 at the Oasis Mall, Muscat. The event was arranged with the aim of showcasing Sri Lanka as a premier travel destination to attract tourists during the summer vacation in Oman as well as to portray Sri Lanka’s vibrant culture and trade opportunities.
-
-With the active participation of the Sri Lankan expatriate community in Oman, the event created a lasting impression of Sri Lanka among Omanis and expatriates alike in the Sultanate, fostering cultural exchange and strengthening bilateral economic ties.
-
-...
-
-[Data](articles/075099f1.json)
-
-[Extended Data](ext_articles/075099f1.ext.json)
 
 ---

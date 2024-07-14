@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 21:21:14**
+As of **2024-07-14 21:36:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,880
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,224 (100.0%) of 35,225 articles have been extended.
+35,225 (100.0%) of 35,225 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -266,21 +266,29 @@ The problems for the Tamil people are high. But there is an environment where th
 
 ---
 
-### මහනුවරින් පොලිස් භාරයට ගත් කෝටි 6ක් වටිනා වාහන
+### 6 crores worth of vehicles
 
 *2024-07-14 18:15:34* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවරින්-පොලිස්-භාරයට-ගත්-කෝටි-6ක්-වටිනා-වාහන/11-410780) · `si`
 
-අයිතිකරුවන්ටතම අයිතිය නීතියානුකූලව පෙන්විය නොහැකි සැකකටයුතු රුපියල් කෝටි හයක් පමණ වටිනාඩිෆෙන්ඩර් රථයක් ප්‍රාඩෝ රථයක් සහඅශ්ව බල 1000යතුරුපැදියක්මහනුවර කොට්ඨාශ අපරාධ විමර්ශන කාර්යාංශය විසින්අත්අඩංගුවට ගෙන තිබේ .
+Businessman Lalith Pathinayake, known for his private bureaucracy in Sri Lanka's Central Province, was arrested for stealing 6 crore worth of vehicles, including motorcycles and jeeps. Despite the arrest, the owners of these stolen assets remain unaccounted for, leading to ongoing police investigations. Key officials involved in the case include SSP Assistant Investigation Bureau, Chief Inspector Anuruddha Bandaranaike, and Inspector Nayake of the Criminal Investigation Bureau.
 
-මධ්‍යම පළාත භාර ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති ලලිත් පතිනායක මහතාට ලැබුණ පෞද්ගලිකතොරතුරකට අනුවඅස්ගිරිය ප්‍රදේශයේ තිබූඩිෆෙන්ඩර් රථයක්දඅකුරණ ප්‍රදේශයේ ව්‍යාපාරිකයකු සන්තකයේ තිබූප්‍රාඩෝ රථයක් සහඅධිබල යතුරුපැදියඑසේ අත්අඩංගුවට ගෙන තිබේ .
+🟩
 
-ව්‍යාජ අංක තහඩු සවිකොට තිබූ බව කියන මෙමනවීන ජීප් රථ සහ යතුරු පැදියනීති විරෝධිව මෙරටට ආනයනය කරනමෝටර් රථද, එකලස් කරන ලදමෝටර් රථදඑසේත් නොමැති නම් සොරකම් කරන ලදමෝටර් රථද යන්න සම්බන්ධයෙන්පොලිසිය විමර්ශන ආරම්භ කොට තිබේ .
+The Bureau of Rs.
 
-මෙම මෝටර් රථවල අයිතිකරුවන් බව කියන පුද්ගලයන් මෙතෙක් අත්අඩංගුවට ගෙන නොමැති බව පවසන පොලිසියමූලික විමර්ශනවලින් අනතුරුවසැකකරුවන් අත්අඩංගුවට ගැනීමට නියමිත බවද කියයි .
+The motorcycle of a businessman with a private bureaucracy in the area of ​​the Central Province Lalith Pathinayake has been arrested in a caringifiose carriage.
 
-...
+If the ride and the motorcycles, which have been stolen to the country, have commenced the stolen jeeps and motorcycle vessels.
+
+The contestants are to be arrested by the police investigations that the owners of these cars have not been arrested yet.
+
+Senior Superintendent of Police (SSP) Assistant Investigation Bureau, Chief Inspector of Police Anuruddha Bandaranaike, Inspector of the Criminal Investigation Bureaunayake.
+
+◼️
 
 [Data](articles/2393ead7.json)
+
+[Extended Data](ext_articles/2393ead7.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 23:11:17**
+As of **2024-07-14 23:23:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,231 (100.0%) of 35,232 articles have been extended.
+35,232 (100.0%) of 35,232 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -254,19 +254,25 @@ In response, DIG Gayantha Marapana has expressed his regret to Minister Alles ov
 
 ---
 
-### ප්‍රවාහන සේවා වලට අදාළව යළි ගැසට් පත්‍රයක්
+### A gazette regard to transport services
 
 *2024-07-14 19:02:45* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රවාහන-සේවා-වලට-අදාළව-යළි-ගැසට්-පත්‍රයක්/11-410783) · `si`
 
-ප්‍රවාහන සේවා අත්‍යවශ්‍ය සේවාවන් බවට පත් කරමින් නැවත වරක් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අණපරිදි ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් මෙම ගැසට් පත්‍රය නිකුත් කර ඇත.
+President Wickremesinghe, through Secretary Saman Ekanayake, declared transport services essential, emphasizing their importance for traffic management and railway operations. This decision was announced via a special gazette notification on December 12th, highlighting the critical role of these services in maintaining public safety and convenience.
 
-මං මාවත්, පාලම්, බෝක්කු සහ දුම්රිය මාර්ග ඇතුළුවමංමාවත්, දුම්රිය මාර්ග මගින් ගමනාගමන සේවා සඳහා පහසුකම් සැලසීම සහ පවත්වාගෙන යාම අතිවිශේෂ සේවාවන් බව එම ගැසට් නිවේදනයේ සඳහන්වේ.
+🟩
 
-මීට ඉහතද ප්‍රවාහන සේවාව අත්‍යවශ්‍ය සේවාවක් බවට පත් කරමින් ජනාධිපතිවරයා විසින් අතිවිශේෂ ගැසට් නිවේදනයකුත් කර තිබූ අතර, නව ගැසට් නිවේදනය 12වනදා දිනැතිව නිකුත් කර ඇත.
+Transport services have been re-released as essential services. The commendant President Ranil Wickremesinghe's example has been issued by the Secretary to the President Saman Ekanayake.
+
+The Gazette stated that facilitating and maintaining and maintaining and maintaining and maintaining and maintaining and maintaining training and maintenance of traffic services, along the railways, along the railways.
+
+The President had previously been a special gazette and the new gazette notification has been issued on the 12th.
 
 ◼️
 
 [Data](articles/95c022ba.json)
+
+[Extended Data](ext_articles/95c022ba.ext.json)
 
 ---
 

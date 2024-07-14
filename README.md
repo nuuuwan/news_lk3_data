@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 09:52:32**
+As of **2024-07-14 10:06:45**
 
 ## Newspaper Stats
 
-*Scraped **35,136** Articles*
+*Scraped **35,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,60 @@ adalk | 3,160
 adaderanalk | 4,041
 tamilmirrorlk | 4,219
 dailymirrorlk | 4,733
-virakesarilk | 5,481
+virakesarilk | 5,482
 adaderanasinhalalk | 5,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,131 (100.0%) of 35,136 articles have been extended.
+35,136 (100.0%) of 35,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### அனுரவின் பாதுகாப்பு பலப்படுத்தப்பட்டது
+### கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வுப்பணி -  இரண்டு மனித எலும்புக்கூட்டுத் தொகுதிகள், சையனைட் குப்பி கண்டெடுப்பு!
+
+*2024-07-14 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188400) · `ta`
+
+முல்லைத்தீவு - கொக்குத்தொடுவாய் மனித புதைகுழியின் மூன்றாம் கட்ட அகழ்வாய்வின் ஒன்பதாம் நாள் அகழ்வுப் பணிகள் நேற்று சனிக்கிழமை (13) இடம்பெற்றது.
+
+இந்த அகழ்வுப் பணிகளின் நிறைவில் இரண்டு மனித எலும்புக் கூட்டுத்தொகுதிகளும், சையனைட் குப்பி ஒன்றும் அகழ்ந்து எடுக்கப்பட்டுள்ளதாக முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா தெரிவித்தார்.
+
+குறிப்பாக, முல்லைத்தீவு நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில், சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா தலைமையில் தொல்லியல் பேராசிரியர் ராஜ் சோமதேவ தலைமையிலான குழுவினர், தடயவியல் பொலிஸார் போன்றோரின் பங்குபற்றுதல்களுடன் இந்த ஒன்பதாம் நாள் அகழ்வாய்வுகள் இடம்பெற்றன.
+
+அகழ்வாய்வுப் பணிகளில் ஏற்கனவே அடையாளம் காணப்பட்ட மனித எலும்புக்கூட்டுத் தொகுதிகளிலிருந்து இவ்வாறு இரண்டு மனித எலும்புக்கூட்டுத் தொகுதிகளும், ஒரு சைனைட் குப்பியும் அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+
+இந்நிலையில், கொக்குத்தொடுவாய் மனிதப்புதைகுழியில் இதற்கு முன்னர் இடம்பெற்ற இரண்டுகட்ட அகழ்வாய்வுகளின்போது 40 மனித எலும்புக்கூட்டுத் தொகுதிகள் அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/17ce990b.json)
+
+---
+
+### Anura's safety strengthened
 
 *2024-07-14 09:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவின்-பாதுகாப்பு-பலப்படுத்தப்பட்டது/175-340355) · `ta`
 
-தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸநாயக்க எம். பி பங்கேற்கின்ற கூட்டங்களில் நவீன ரக சிசிடிவி கமெராக்கள் பொருத்தப்பட்டுள்ளது.
+Anura's safety measures were enhanced with the installation of modern CCTV cameras at meetings, including solar-powered ones. These installations are part of efforts to improve security, especially in the Ampara district's Karadivu and Samanthurai areas. Additionally, attendees undergo special tests before being allowed entry to ensure safety.
 
-அண்மைக்காலமாக அவர் கலந்து கொள்கின்ற கூட்டங்களில் சோலர் பொருத்தப்பட்ட சிசிடிவி கமரா மற்றும் இதர நவீன தன்னியக்க சிசிடிவி கமெராக்கள் பல அங்காங்கே பொருத்தப்பட்டு கூட்டங்களுக்கு வருபவர்கள் கண்கானிக்கப்பட்டு வருகின்றனர்.
+🟩
 
-அம்பாறை மாவட்டத்தில் வெள்ளிக்கிழமை (12) காரைதீவு மற்றும் சம்மாந்துறை பகுதிகளில் தேசிய மக்கள் சக்தி கூட்ட மேடைகள் மற்றும் அதனை அண்டிய பகுதிகளில் இவ்வாறான கமெராக்கள் பல பொருத்தப்பட்டு கண்காணிப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+President of the National People's Power Anurakumara Dissanayake. B. Modern CCTV cameras are fitted at the participating meetings.
 
-இதேவேளை, என்றும் இல்லாதவாறு கூட்டங்களுக்கு பைகளுடன் சமூகமளிப்பவர்கள் அழைக்கப்பட்டு விசேட பரிசோதனைக்கு உட்படுத்தப்பட்ட பின்னர் கூட்டங்களுக்கு அனுமதிக்கப்படுகின்றனர்.
+At the recent meetings he attended, solar -fitted CCTV camera and other modern Automated CCTV cameras have been monitored to meet meetings.
+
+In the Ampara district on Friday (12), many such cameras are being installed in the Karadivu and Samanthurai areas.
+
+Meanwhile, the socialists are invited with bags to meet the meetings and are allowed to meet after a special test.
 
 ◼️
 
 [Data](articles/785a61f6.json)
+
+[Extended Data](ext_articles/785a61f6.ext.json)
 
 ---
 
@@ -62,35 +88,51 @@ The President stated that Sri Lankans have been at the receiving end of such vio
 
 [Data](articles/68520a9f.json)
 
+[Extended Data](ext_articles/68520a9f.ext.json)
+
 ---
 
-### ට්‍රම්ප් ඝාතන තැත ගැන ජනපති රනිල්ගෙන් නිවේදනයක්
+### Ranil announces Tream murder attempt
 
 *2024-07-14 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198785) · `si`
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඝාතන තැත සම්බන්ධයෙන් තමා කම්පනයට පත් වූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe expresses shock over an alleged murder attempt on former US President Donald Trump, stating Trump is under protection. He highlights concerns among Sri Lankans due to political tensions and urges lawful conduct to safeguard democracy.
 
-ට්‍රම්ප් නිරුපද්‍රිතව සිටින බව දැනගැනීමෙන් තමාට සහනයට ලැබුණු බවද ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-දේශපාලන ගැටුම් හේතුවෙන් කලකදී ශ්‍රී ලාංකිකයින්ද කරදරවලට මුහුණ දුන් බව ජනාධිපතිවරයා පැවසීය.
+President Ranil Wickremesinghe says that he was shocked by former American President Donald Trump murder.
 
-ඔහු ඉල්ලා සිටින්නේ, සියලුදෙනා ප්‍රජාතන්ත්‍රවාදය ආරක්ෂා කිරීම සඳහා නීතිගරුකව කටයුතු කළයුතු බවය.
+The President added that the Trump is in a protection, the President said.
+
+The President said Sri Lankans were also worried due to political conflicts.
+
+He demands that everyone should act lawfully to protect democracy.
 
 ◼️
 
 [Data](articles/e1d675c7.json)
 
+[Extended Data](ext_articles/e1d675c7.ext.json)
+
 ---
 
-### டிரம்ப் மீது தாக்குதல்;  எலான் மஸ்க் அதிரடி அறிவிப்பு
+### Attack on Trump;Elon Musk Action Notification
 
 *2024-07-14 09:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்-மீது-தாக்குதல்-எலான்-மஸ்க்-அதிரடி-அறிவிப்பு/50-340354) · `ta`
 
-அமெரிக்க ஜனாதிபதித் தேர்தல் நவம்பர் 5-ம் திகதி நடைபெற உள்ளது. இந்த தேர்தலில் ஜனநாயக கட்சி வேட்பாளராக தற்போதைய அதிபர் ஜோ பைடன் களமிறங்கியுள்ளார். அதேபோல், குடியரசு கட்சி வேட்பாளராக முன்னாள் அதிபர் டொனால்டு டிரம்ப் களமிறங்கியுள்ளார். தேர்தல் நெருங்கி வரும் நிலையில் இரு வேட்பாளர்களும் தீவிர பிரசாரம் மற்றும் வாக்கு சேகரிப்பில் ஈடுபட்டு வருகின்றனர்.அந்த வகையில், பென்சில்வேனியா மாகாணம் பட்லர் நகரில் நடைபெற்ற பிரசார பொதுக்கூட்டத்தில் குடியரசு கட்சி ஜனாதிபதி வேட்பாளர் டொனால்டு டிரம்ப் பங்கேற்று பிரசாரத்தில் ஈடுபட்டார்.
+During the US presidential election campaign, Donald Trump was attacked while speaking in Pennsylvania, suffering a minor injury. The assailant was killed by security forces. International reactions, including condemnation from figures like Elon Musk, have highlighted concerns over security measures.
+
+🟩
+
+The US presidential election is scheduled for November 5. Current Chancellor Joe Biden is the Democratic candidate in this election. Similarly, former President Donald Trump is the Republican candidate. As the election approaches, the two candidates are engaged in vigorous campaign and voting. Thus, the Republican presidential candidate Donald Trump participated in a public meeting in Butler, Pennsylvania.
+
+While Donald Trump was speaking at the public meeting, the man in the crowd suddenly fired at Trump. Donald Trump suffered a blood injury in the firing attack.. Immediately after security officers turned Trump into a security fortress. One person died in this firing. It has been reported that the man who fired was shot dead by security forces.
 
 ...
 
 [Data](articles/b5015452.json)
+
+[Extended Data](ext_articles/b5015452.ext.json)
 
 ---
 
@@ -367,6 +409,8 @@ However, in November 2019, Harin Fernando resigned from his ministerial post fol
 ...
 
 [Data](articles/7bff67e3.json)
+
+[Extended Data](ext_articles/7bff67e3.ext.json)
 
 ---
 
@@ -2219,23 +2263,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/fdbcbb26.json)
 
 [Extended Data](ext_articles/fdbcbb26.ext.json)
-
----
-
-### Signal partners with SLDA for a successful 91st year Annual Scientific Session
-
-*2024-07-13 01:33:00* · [`islandlk`](http://island.lk/signal-partners-with-slda-for-a-successful-91st-year-annual-scientific-session/) · `en`
-
-Signal, the leading oral care brand, served as the prime sponsor for the Sri Lanka Dental Association’s (SLDA) successful 91st Year Annual Scientific Session, which concluded on June 28th, 2024. Held under the theme “Novelty, Innovation & Technology,” the event brought together leading dental professionals from across Sri Lanka for three days of knowledge sharing, networking, and exploring advancements in the field.
-
-The inauguration ceremony was graced by the presence of distinguished guests, including Dr. Ramesh Pathirana, Minister of Health, and Dr. Asela Gunawardana, Director-General of Health Services.
-
-Professor Hemantha Amarasinghe, President of the Sri Lanka Dental Association, stated, “We are grateful for Signal’s continued support of the SLDA and its commitment to promoting oral health education and innovation in Sri Lanka. This year’s theme reflects the importance of embracing new technologies and advancements to improve oral care.”
-
-...
-
-[Data](articles/1f32b5e4.json)
-
-[Extended Data](ext_articles/1f32b5e4.ext.json)
 
 ---

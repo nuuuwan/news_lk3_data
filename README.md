@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 06:40:56**
+As of **2024-07-14 07:19:59**
 
 ## Newspaper Stats
 
-*Scraped **35,113** Articles*
+*Scraped **35,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 313
 colombotelegraphcom | 330
 bbccomsinhala | 341
 newsfirstlk | 363
-islandlk | 1,985
+islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
@@ -26,11 +26,69 @@ adaderanasinhalalk | 5,855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,109 (100.0%) of 35,113 articles have been extended.
+35,109 (100.0%) of 35,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### Singer Sri Lanka launches nubia smartphones
+
+*2024-07-14 06:43:00* · [`islandlk`](http://island.lk/singer-sri-lanka-launches-nubia-smartphones/) · `en`
+
+Singer Sri Lanka recently celebrated the exclusive launch of four new smartphones from the nubia brand recently. The event highlighted nubia’s latest models, including the nubia Neo 2 5G, nubia Focus Pro 5G, nubia V60, and nubia V60 Design.
+
+Mahesh Wijewardene, Chief Executive Officer of Singer Group of Companies, expressed enthusiasm about introducing nubia’s innovative smartphones to the Sri Lankan market, emphasizing their commitment to offering customers cutting-edge technology and exceptional service.
+
+Zhang Yan Meng, Director (Global) of ZTE Terminal, commented on the partnership with Singer, stating, “We are thrilled to collaborate with Singer in launching nubia smartphones in Sri Lanka. Singer’s extensive island-wide distribution network and excellent after-sales service make them the ideal partner for us. We are confident that this partnership will deliver innovative, top-notch technology to Sri Lankan users, ensuring an outstanding user experience.”
+
+...
+
+[Data](articles/50793020.json)
+
+---
+
+### Omega Line wins 2 Bronze awards at Green Industry Symposium
+
+*2024-07-14 06:43:00* · [`islandlk`](http://island.lk/omega-line-wins-2-bronze-awards-at-green-industry-symposium/) · `en`
+
+Italy-based Calzedonia Group (now known as Oniverse)’s Lankan affiliate, Omega Line Ltd, was awarded two bronze awards at the International Symposium on Green Industry Initiative for Sustainable Industrial Development, held at BMICH in Colombo.
+
+The first bronze recognized Omega Line’s energy-efficient initiatives, such as transitioning from clutch to servo motors in sewing machines, employing LED lighting, optimizing compressed air usage, and implementing motion-activated lighting in low-occupancy areas, all contributing significantly to reduced energy consumption and environmental impact.
+
+The second bronze acknowledged Omega Line’s substantial efforts in solar energy, with nearly a third of its energy now being generated from solar sources. These initiatives have resulted in significant carbon emission reductions, amounting to over 1.46 million kilograms saved annually, equivalent to planting approximately 43,600 trees. Omega Line aims to achieve full solar energy dependency by 2030.
+
+...
+
+[Data](articles/561d389f.json)
+
+---
+
+### Star Garments Group to establish apparel factory in Togo with $15 Mn IFC loan
+
+*2024-07-14 06:43:00* · [`islandlk`](http://island.lk/star-garments-group-to-establish-apparel-factory-in-togo-with-15-mn-ifc-loan/) · `en`
+
+Star Garments Group (Star) announced its plan to build a large-scale apparel export manufacturing factory in Togo to boost the West African country’s textile and apparel capabilities, through a financing package that includes a USD 15 million loan by the International Finance Corporation (IFC), a member of the World Bank Group.
+
+...
+
+[Data](articles/b83ca95c.json)
+
+---
+
+### Mûve expands Lanka team amid UK sector growth and recognition
+
+*2024-07-14 06:43:00* · [`islandlk`](http://island.lk/muve-expands-lanka-team-amid-uk-sector-growth-and-recognition/) · `en`
+
+Mûve, a UK law firm specializing in property conveyancing since 2016, is bolstering its team of legal professionals based in Sri Lanka to meet increasing demands within the GBP2.5 billion UK property sector, according to a press release.
+
+It said that the firm was recognized as one of the UK’s fastest-growing companies for the second consecutive year by the British newspaper, The Sunday Times, being the sole law firm included in their annual list of the top 100 fastest-growing companies.
+
+...
+
+[Data](articles/da81e4f3.json)
+
+---
 
 ### අදත් ප්‍රදේශ කිහිපයකට වැසි
 
@@ -1668,6 +1726,18 @@ The Department of Meteorology has informed the people to take necessary steps to
 
 ---
 
+### NCE highlights costs of Customs officers’ trade union action
+
+*2024-07-13 03:16:00* · [`islandlk`](http://island.lk/nce-highlights-costs-of-customs-officers-trade-union-action/) · `en`
+
+‘The recent actions taken by the Sri Lanka Customs Officers Union, including a two-day sick leave campaign and work-to-rule initiatives, have had profound implications across Sri Lanka’s business community, particularly affecting exporters and importers. These actions were initiated due to perceived grievances and unmet demands from the Customs Officers Union on various issues, the National Chamber of Exporters of Sri Lanka (NCE) is quoted as saying in a press release.
+
+...
+
+[Data](articles/a39a0e18.json)
+
+---
+
 ### Singer unveils nubia brand cutting-edge devices
 
 *2024-07-13 03:15:00* · [`islandlk`](http://island.lk/singer-unveils-nubia-brand-cutting-edge-devices/) · `en`
@@ -1724,6 +1794,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ---
 
+### Elevating customer experiences, Sampath Bank partners with Royal Colombo Golf Club
+
+*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/elevating-customer-experiences-sampath-bank-partners-with-royal-colombo-golf-club/) · `en`
+
+Sampath Bank is pleased to announce its sponsorship of the prestigious July Monthly Medal Event at the Royal Colombo Golf Club (RCGC), scheduled for the 12th and 13th of July 2024. The sponsorship was formalised during a cheque-handing ceremony on the 10th of July, marking a significant collaboration between Sampath Bank and the RCGC.
+
+The July Monthly Medal Event is a highlight on the golfing calendar, attracting over 300 golfers from across the country. The event will be held over two days, culminating in an award ceremony on the second day. Sampath Bank’s involvement acknowledges its commitment to fostering customer satisfaction and providing exceptional experiences for its valued customers.
+
+...
+
+[Data](articles/f509c629.json)
+
+---
+
 ### People’s Bank organizes blood donation camp to mark 63rd anniversary
 
 *2024-07-13 03:15:00* · [`islandlk`](http://island.lk/peoples-bank-organizes-blood-donation-camp-to-mark-63rd-anniversary/) · `en`
@@ -1761,6 +1845,22 @@ Professor Hemantha Amarasinghe, President of the Sri Lanka Dental Association, s
 [Data](articles/1f32b5e4.json)
 
 [Extended Data](ext_articles/1f32b5e4.ext.json)
+
+---
+
+### Asiri Hospitals and NITF sign landmark agreement to provide tangible healthcare benefits for all Agrahara members
+
+*2024-07-13 01:32:00* · [`islandlk`](http://island.lk/asiri-hospitals-and-nitf-sign-landmark-agreement-to-provide-tangible-healthcare-benefits-for-all-agrahara-members/) · `en`
+
+Asiri Group of Hospitals, trusted for high standards in patient-centered care has signed a landmark agreement with the National Insurance Trust Fund (NITF), to provide comprehensive concessions to all government employees through the Agrahara Medical Insurance scheme.
+
+The Memorandum of Understanding (MoU) was signed by Dr. Manjula Karunaratne, Director/Group CEO of Asiri Hospitals, and Gamani N. Liyanarachchi, CEO of NITF, during a ceremony held recently.
+
+The event was attended by several distinguished participants from both organizations. Representing NITF were Sagala Abhayawickrama, Chairperson, Samil Thushara, AGM Operations, Nimali Pathirana, AGM Insurance, Prathibha Welikanna, Asst. Manager Legal, Nuwan Dissanayake, Asst. Manager Marketing, Dammika Weerakoon, Acting AGM Finance.
+
+...
+
+[Data](articles/b8c10cf6.json)
 
 ---
 
@@ -2031,163 +2131,5 @@ The conference will be held from 14 to 18 July. The scientific lead of the afore
 [Data](articles/066077d8.json)
 
 [Extended Data](ext_articles/066077d8.ext.json)
-
----
-
-### 2024-07-12 (Friday)
-
-### Emergency waiting area at Mirihana Women and Children’s Bureau
-
-*2024-07-12 23:58:40* · [`dailyftlk`](https://www.ft.lk/news/Emergency-waiting-area-at-Mirihana-Women-and-Children-s-Bureau/56-764203) · `en`
-
-Japan’s Ambassador Mizukoshi Hideaki, Public Security Minister Tiran Alles and UNFPA Sri Lanka Representative Kunle Adeniyi at the opening
-
-Japan’s Ambassador Mizukoshi Hideaki and UNFPA Sri Lanka Representative Kunle Adeniyi recently handed over the newly constructed Emergency Waiting Area (EWA) at the Mirihana Women and Children’s Bureau, to Sri Lanka Police, marking a significant milestone in the ongoing efforts to provide safe and secure spaces for women and children during times of distress owing to gender-based violence (GBV).
-
-The opening ceremony was attended by high-level dignitaries, including Ambassador Mizukoshi Hideaki, Public Security Minister Tiran Alles, Secretary Viyani Gunathilaka, IGP Deshabandu Thennakoon, UNFPA Rep. Adeniyi, Senior DIGs and representatives from the Women and Children’s Bureau of Sri Lanka Police.
-
-...
-
-[Data](articles/60cbce32.json)
-
-[Extended Data](ext_articles/60cbce32.ext.json)
-
----
-
-### Sri Lanka to replace India in Champions Trophy 2025?
-
-*2024-07-12 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100470/sri-lanka-to-replace-india-in-champions-trophy-2025) · `en`
-
-India is highly unlikely to travel to Pakistan for the Champions Trophy 2025 which is scheduled to take place in Feb-Mar next year.
-
-The Sri Lanka cricket team will replace India cricket team if the latter decide to pull out of the Champions Trophy 2025. Rohit Sharma and co. are highly unlikely to travel to Pakistan which is scheduled to host the marquee tournament next year. As per reports, Sri Lanka who did not qualify for CT 2025 owing to their 9th placed finish in the 2023 ODI World Cup will replace India.
-
-Sri Lanka, who were the winners of the event in 2002, failed to qualify for the Champions Trophy for the first-time ever. While India is unlikely to travel to Pakistan, the BCCI is likely to request that the International Cricket Council (ICC) relocate the event to either Sri Lanka or the United Arab Emirates (UAE).
-
-...
-
-[Data](articles/2437de16.json)
-
-[Extended Data](ext_articles/2437de16.ext.json)
-
----
-
-### 'Arrana gives' respects'
-
-*2024-07-12 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198753) · `si`
-
-Aruna, a 25-year-old Paris Olympic champion in the 400-meter male event, was honored by the Derana Media Network for his achievements. Born in Sri Lanka, he attended several schools including Sri Lanka Vidyalaya and Amakaboda Maha Vidyalaya. His success story inspires the future generation, as highlighted by the 'Maga Ada Derana'.
-
-🟩
-
-Paris Olympic Champions, who opened the Derana Media Network to the Derana Media Network, has been awarded this year under the "Maha Derana Media Network for the purpose of being able to become a source of exciting Sri Lanka.
-
-The 25-year-old Aruna footage of the Paris Olympic event qualified for the 400-meter-male event.
-
-The Olympic Champion won the event for that event, 20 years later.
-
-Awakens from Sri Lanka Vidyalaya, Sri Lanka and Amakaboda Maha Vidyalaya, Sri Lanka and Amakawa Weeraketppola in the Seruwithawatta Maha Vidyalaya and the Arkhawata Maha Vidyalaya in the Serunuwara.
-
-The 'Maga Ada Derana had taken' the 'Ada Derana to help the bright future.
-
-◼️
-
-[Data](articles/347bed20.json)
-
-[Extended Data](ext_articles/347bed20.ext.json)
-
----
-
-### Another Action Notification released by the Teachers Association
-
-*2024-07-12 21:46:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-சங்கம்-வெளியிட்ட-மற்றுமொரு-அதிரடி-அறிவிப்பு/175-340318) · `ta`
-
-Joseph Stalin, head of the Sri Lanka Teachers Union, announced plans to sue government workers who went on strike July 8-9. He's discussing with law firms to block pay raises for select individuals, advocating instead for shared sacrifice among all public servants.
-
-🟩
-
-Joseph Stalin, secretary of the Sri Lanka Teachers Union, said that legal action would be taken against the government employees who were working on the strike on July 8 and 9.
-
-He said that he is negotiating with law firms to prevent a resolution to provide a hike to a few people who have been working on the job, rather than accepting the pain of the entire public service.. Remble
-
-◼️
-
-[Data](articles/aacc35e4.json)
-
-[Extended Data](ext_articles/aacc35e4.ext.json)
-
----
-
-### State Minister Balasuriya praises Indian PM Modi, emphasizes regional connectivity
-
-*2024-07-12 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100469/state-minister-balasuriya-praises-indian-pm-modi-emphasizes-regional-connectivity) · `en`
-
-State Minister of Foreign Affairs of Sri Lanka, Tharaka Balasuriya, lauded Indian Prime Minister Narendra Modi, describing him as ‘charming’ and a ‘visionary.’ Balasuriya agreed with Modi’s assessment that increased connectivity between Sri Lanka, India, Myanmar, and Thailand would unlock more opportunities for the region.
-
-He was in New Delhi to attend the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Foreign Minister’s Retreat.
-
-Balasuriya highlighted the informal and candid nature of the BIMSTEC Foreign Minister’s Retreat. ‘It was very well organized, allowing us to share our ideas openly,’ he said to ANI.
-
-Reflecting on his meeting with PM Modi, Balasuriya noted it was his first encounter with the Indian leader. ‘The Prime Minister is both charming and visionary. He pointed out that the European Union’s success was largely due to connectivity, something that South Asia and Southeast Asia lag behind in.
-
-...
-
-[Data](articles/24ca9fd8.json)
-
-[Extended Data](ext_articles/24ca9fd8.ext.json)
-
----
-
-### What's the underworld was spring?
-
-*2024-07-12 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198751) · `si`
-
-Club Wasantha, set to open a tative center in Athurugiriya, was shot dead. His body was placed at a flower hall before being buried. Jayaratne Malzala threatened the family over phone calls, allegedly linked to the funeral arrangements. The Criminal Investigation Division started investigating Malzala after receiving threats from him. Meanwhile, Kubipani Imran stated that the first person to be arrested was involved in the assassination of the Madjiphura, leading to further investigations by the Colombo Crimes Division and the Western North Criminal Division under IGP Deshabandu Tennakoon's orders.
-
-🟩
-
-The body of Club Wasantha, who was shot dead in Athurugiriya, has been placed at a flower hall at Borella.
-
-Police say that Jayaratne Malzala has been re-threatening telephone calls not to deposit the body.
-
-Sadhra Wasantha Perera, who was to open a tative center in Athurugiriya, was shot dead, and another.
-
-After the statement made by Kubipani Imran, a person had telephoned the Malze, saying that Jayaratne was credited to the funeral of Club Wasantha today (12).
-
-Accordingly, the Criminal Investigation Division of the Borella police commenced investigations and security near Malzala.
-
-In such a background, Jayaratne had telephoned Jayaratne Malzala and threatened the Club Wasantha's family on the nomissions given by Kjipani Imran.
-
-The body of Club Wasantha was buried in such a situation.
-
-Meanwhile, KJCani Imran has said that the first person was the first person to be arrested for the arrest of the security forces to arrest the Madjiphura.
-
-...
-
-[Data](articles/b5a541ac.json)
-
-[Extended Data](ext_articles/b5a541ac.ext.json)
-
----
-
-### Unconditional commercial deeds to state lands a resident of war heroes
-
-*2024-07-12 20:28:18* · [`adalk`](https://www.ada.lk/breaking_news/රණවිරුවන්-පදිංචි-රජයේ-ඉඩම්වලට-කොන්දේසි-විරහිත-සින්නක්කර-ඔප්පු/11-410762) · `si`
-
-President Ranil Wickremesinghe launched a program to grant land titles unconditionally to war heroes and disabled veterans, ensuring safe residency across Sri Lanka. This initiative, operated by the Presidential Secretariat, aims to foster a sense of belonging and security among these individuals and their families. The process involves a formal selection procedure, provision of free grants for developed lands, and assistance with survey requirements. Mobile programs have been organized in various locations, including Polonnaruwa and Kalutara, to distribute these titles freely.
-
-🟩
-
-Unconductly and unconditional and charges of residences for residency and disabled war heroes and their dependents for protecting the country's lives to protect the country.The ownership program has been implemented in a concept of President Ranil Wickremesinghe.
-
-The program aims to ensure the ownership of the motherland to allow all inches of every inch of every inch of all parts of the country to go without fear and suspicion. The program is implemented by operating at the Presidential Secretariat.
-
-The President made a number of addresses to the Cabinet Memoranda, the President, who has been submitted to the Cabinet Memorandum given by the President, a resident of the State Lands given to the State Lands of the State Lands given to the State Lands of the State Lands (24/2024 and 2024-05-13).And according to the decision of the Cabinet of Ministers, 2024/20/23, the war heroes have the following concessions.
-
-...
-
-[Data](articles/67dcb868.json)
-
-[Extended Data](ext_articles/67dcb868.ext.json)
 
 ---

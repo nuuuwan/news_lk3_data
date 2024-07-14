@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 20:09:31**
+As of **2024-07-14 20:20:19**
 
 ## Newspaper Stats
 
-*Scraped **35,221** Articles*
+*Scraped **35,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,175
-adaderanalk | 4,053
+adaderanalk | 4,054
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,501
@@ -26,23 +26,45 @@ adaderanasinhalalk | 5,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,220 (100.0%) of 35,221 articles have been extended.
+35,221 (100.0%) of 35,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### උඩරට මාර්ගයේ දුම්රිය ගමනාගමනය ට බාධා
+### Derailment disrupts train services on up-country line
+
+*2024-07-14 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100506/derailment-disrupts-train-services-on-up-country-line) · `en`
+
+Railway operations have been disrupted on the up-country line due to the derailment of a train, Sri Lanka Railways (SLR) announced.
+
+Accordingly, the Badulla-bound train from Colombo Fort has derailed  between Bandarawela and Heel-Oya railway stations.
+
+Meanwhile, it is also reported that the Badulla-Colombo night mail train has also been cancelled today due to this.
+
+◼️
+
+[Data](articles/da88af61.json)
+
+---
+
+### Upcountry train traffic interrupted
 
 *2024-07-14 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198806) · `si`
 
-කොළඹ කොටුවේ සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ දුම්රිය බණ්ඩාරවෙල සහ හීල් ඔය අතර දී පීලි පැන තිබේ.
+Train derailment between Bandarawela and Heel Oya disrupted Upcountry rail service from Colombo Fort to Badulla.
 
-ඒ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ගමනාගමනය සඳහා බාධා මතු වී ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+🟩
+
+The train was traveling from Colombo Fort to Badulla and derailed between Bandarawela and Heel Oya.
+
+As a result, the Railway Department says that the railway traffic has been interrupted due to this.
 
 ◼️
 
 [Data](articles/5ba3a8c7.json)
+
+[Extended Data](ext_articles/5ba3a8c7.ext.json)
 
 ---
 
@@ -2303,21 +2325,5 @@ However, in November 2019, Harin Fernando resigned from his ministerial post fol
 [Data](articles/7bff67e3.json)
 
 [Extended Data](ext_articles/7bff67e3.ext.json)
-
----
-
-### On the move again… Engleberg-Vienna-London-Mount Lavinia
-
-*2024-07-14 03:43:00* · [`islandlk`](http://island.lk/on-the-move-again-engleberg-vienna-london-mount-lavinia/) · `en`
-
-As the Acting Director of the School of Hotel Management at Schiller International University (SIU), my work primarily centred on the London campus. When I received an opportunity to visit the SIU campus in Switzerland, I eagerly accepted. Visiting the quaint Swiss town of Engelberg, with its population of fewer than 3,000, was a delight. Engelberg, located 25 km south of Lake Lucerne in a wide mountain valley at an altitude of around 1,000 meters, is one of Switzerland’s top 10 ski regions. The town’s rustic charm was complemented by its famous Benedictine monastery, founded in 1120 and still active today.
-
-A highlight of my brief visit to Engelberg was meeting Mr. Jorge Müller, a lecturer at SIU. Mr. Müller had been an ILO Expert Maître d’hôtel at the Ceylon Hotel School in 1971 when I was a student. Over three years, he taught me food and beverage service and was always a supportive and kind mentor. Now, in 1990, he was happy to see us as colleagues at SIU.
-
-...
-
-[Data](articles/8bfead5d.json)
-
-[Extended Data](ext_articles/8bfead5d.ext.json)
 
 ---

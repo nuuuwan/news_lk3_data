@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 02:20:06**
+As of **2024-07-15 02:35:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,240 (100.0%) of 35,246 articles have been extended.
+35,246 (100.0%) of 35,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ According to examination candidate M.Z.H. Fawzana, the group sat for the examina
 ...
 
 [Data](articles/ed63302e.json)
+
+[Extended Data](ext_articles/ed63302e.ext.json)
 
 ---
 
@@ -64,6 +66,8 @@ He particularly noted the strong support from China, along with member countries
 
 [Data](articles/bcb74604.json)
 
+[Extended Data](ext_articles/bcb74604.ext.json)
+
 ---
 
 ### Trump injured but ‘fine’ after attempted assassination at rally, shooter and one attendee dead
@@ -79,6 +83,8 @@ Trump’s campaign said the presumptive GOP nominee was doing “fine” after t
 ...
 
 [Data](articles/f7e1fea8.json)
+
+[Extended Data](ext_articles/f7e1fea8.ext.json)
 
 ---
 
@@ -98,6 +104,8 @@ With the assistance of UAE authorities, the arrests were carried out in Dubai by
 
 [Data](articles/67dc6af2.json)
 
+[Extended Data](ext_articles/67dc6af2.ext.json)
+
 ---
 
 ### Start of Sri Lanka’s Trade National Single Window System project
@@ -115,6 +123,8 @@ Ninety four participants who would play key roles in the process of establishmen
 ...
 
 [Data](articles/8b67837a.json)
+
+[Extended Data](ext_articles/8b67837a.ext.json)
 
 ---
 
@@ -153,6 +163,8 @@ In 2013, Sri Lanka’s total apparel exports were valued at $ 4.3 billion, with 
 ...
 
 [Data](articles/f772e070.json)
+
+[Extended Data](ext_articles/f772e070.ext.json)
 
 ---
 

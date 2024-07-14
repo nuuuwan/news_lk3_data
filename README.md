@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 10:35:40**
+As of **2024-07-14 10:54:19**
 
 ## Newspaper Stats
 
-*Scraped **35,142** Articles*
+*Scraped **35,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
-adalk | 3,162
-adaderanalk | 4,041
+adalk | 3,163
+adaderanalk | 4,042
 tamilmirrorlk | 4,221
 dailymirrorlk | 4,733
 virakesarilk | 5,482
@@ -26,81 +26,145 @@ adaderanasinhalalk | 5,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,138 (100.0%) of 35,142 articles have been extended.
+35,142 (100.0%) of 35,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### වි‍දෙස් ජාතික‍ කාන්තාවක් දියේ ගිලී මරුට
+### Fairly heavy rainfall expected in parts of the island
+
+*2024-07-14 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100492/fairly-heavy-rainfall-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 50 mm are likely at some places in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Western, Southern, Northern, North-central and North-western provinces and in Trincomalee district.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/5afffe41.json)
+
+---
+
+### Foreign woman drowns
 
 *2024-07-14 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198786) · `si`
 
-වැලිගම පොලිස් වසමේ මිරිස්ස මුහුදේ දිය නෑමට ගොස් සිටි කොරියානු ජාතික කාන්තාවක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+A Korean woman drowned in Sri Lanka's Mirissa Sea near Weligama. Rescued by coast guards and lifeguards, she was taken to Matara hospital but later passed away.
 
-මෙම කාන්තාව දිය වැලකට හසුව ගසාගෙන යමින් සිටි අවස්ථාවේදී වෙරළ ආරක්ෂක බළකා, ජීවිතාරක්ෂක නිලධාරීන් විසින් ඇය ගොඩට ගෙන මාතර රෝහලට ඇතුළත් කර ඇති අතර ඒ වන විටත් ඇය මියගොස් සිට ඇත.
+🟩
+
+A Korean woman drowned in Mirissa Sea in the Weligama Police Division.
+
+She had been laid by the Coast Guard, lifeguards and admitted to the Matara hospital when the woman was kicked out of a break.
 
 ◼️
 
 [Data](articles/0853168f.json)
 
+[Extended Data](ext_articles/0853168f.ext.json)
+
 ---
 
-### யுவதியின் முடியை வெட்டிய மௌலவி கைது
+### මන්ත්‍රී ඩිලාන් ගමන් ගත් මෝටර් රථය අනතුරක
+
+*2024-07-14 10:15:47* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-ඩිලාන්-ගමන්-ගත්-මෝටර්-රථය-අනතුරක/11-410766) · `si`
+
+බදුල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ඩිලාන් පෙරේරා මහතා ගමන් ගත් සුඛෝභෝගී මෝටර් රථය ඊයේ (13) දක්ෂිණ අධිවේගී මාර්ගයේ කිලෝ ෙමිටර් 28 දශම 1 කළුතර දකුණ පොලිස් වසම ප්‍රදේශයේදී අනතුරට ලක් වීමෙන් ලේකම්වරයකු බරපතල තුවාල ලබා නාගොඩ රෝහලට ඇතුළත් කර ඇතැයි දක්ෂිණ අධිවේගී රථවාහන පොලිසිය කියයි.
+
+අනතුරින් ඩිලාන් පෙරේරා මන්ත්‍රීවරයාට කිසිදු තුවාලයක් සිදුවී නැත. අනතුර වන අවස්ථාවේදී මන්ත්‍රීවරයා, ආරක්ෂකයන් දෙදෙනා ඇතුළු පස්දෙනකු මෝටර් රථයේ සිට ඇතැයි පොලිසිය කියයි.
+
+අධික වර්ෂාව මධ්‍යයේ මෝටර් රථය කොළඹ දෙස සිට මාතර දෙසට ධාවනය වීමේදී මෝටර් රථයේ ලිස්සා ගොස් මැද ආරක්ෂිත වැටේ ගැටී මාර්ගය හරහා මීටර් 100 ක් පමණ නැවත වම් අත දිශාවට ඇදී ගොස් එම දිසාවේ තිබෙන ආරක්ෂිත වැටේ ගැටී නතර වී ඇතැයි පොලිසිය කියයි.
+
+මතුගම නගරයේ පැවැත්වූ  සමගි ජන බලවේගයේ රැස්වීමට සහභාගි වීම සඳහා යමින් සිටියදී මෙම අනතුර වී ඇත.මන්ත්‍රීවරයා වෙනත් වාහනයක් ගෙන්වාගෙන එම රැස්වීමට සහභාගි වී ඇතැයි ආරංචි මාර්ග සඳහන් කරයි.
+
+මෝටර් රථය ඉදිරිපසට සහ අධිවේගී මාර්ගයේ ආරක්ෂිත වැටට බරපතල අලාභ සිදුවී ඇත.දක්ෂිණ අධිවේගී රථවාහන පොලිසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/b6cf743f.json)
+
+---
+
+### Moulavi arrested for cutting her hair
 
 *2024-07-14 10:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/யுவதியின்-முடியை-வெட்டிய-மௌலவி-கைது/76-340359) · `ta`
 
-பேருந்தில் பயணித்த 27 வயதுடைய யுவதியின் முடியை வெட்டியதாக கூறப்படும் முருத்தலாவ பிரதேசத்தை சேர்ந்த மௌலவி ஒருவரை கண்டி தலைமையக பொலிஸார் கைது செய்துள்ளனர்.
+A Maulavi from Muruthalawa was arrested for allegedly cutting a woman's hair on a bus from Katugastota to Kandy. The victim recorded the incident on her phone and turned the suspect over to the police after passengers intervened.
 
-கட்டுகஸ்தோட்டையில் இருந்து கண்டி நோக்கி பயணித்த பஸ்ஸில் யுவதியொருவர் அமர்ந்திருந்த போது, ​​ அந்த ஆசனத்தின் பின் இருக்கையில் அமர்ந்திருந்த மௌலவி யுவதியின்  தலைமுடியை வெட்டியுள்ளதாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-சம்பவத்தை எதிர்கொண்ட யுவதி, சந்தேகநபரையும், அவர் வெட்டிய தலைமுடியின் பகுதியையும் தனது அலைபேசியில் வீடியோவாக எடுத்துள்ளார்.
+Kandy headquarters police have arrested a Maulavi from Muruthalawa, who was allegedly cutting the hair of a 27 -year -old girl who was traveling on the bus.
 
-மேலும், மடவளை பிரதேசத்தில் வசிக்கும் யுவதி சில தேவைகளுக்காக கண்டி நோக்கி பயணித்த வேளையில் இச்சம்பவத்தை எதிர்கொண்டுள்ளார், அவர் அறிவித்ததன் பிரகாரம் பஸ் பயணிகள் சந்தேக நபரை பிடித்து பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+Police investigations revealed that when a woman was sitting on a bus traveling from Katugastota to Kandy, Moulavi had cut off the hair of the woman in the back of the seat.
 
-கைது செய்யப்பட்ட சந்தேக நபர் முருத்தலாவ தெஹியங்க வடக்கு பகுதியைச் சேர்ந்தவர் என தெரிவிக்கப்பட்டுள்ளது.
+Faced with the incident, the woman has taken a video on her mobile phone with the suspect and the part of the hair she cut.
+
+In addition, the woman who lives in Madawala area has been facing the incident while traveling to Kandy for some purposes, and according to her announcement, the bus passengers have caught the suspect and handed it over to the police.
+
+The arrested suspect is said to be from Muruthalawa Tehiyanka North.
 
 ◼️
 
 [Data](articles/9ce1576c.json)
 
+[Extended Data](ext_articles/9ce1576c.ext.json)
+
 ---
 
-### ට්‍රම්ප්ට වෙඩි තැබිමක්
+### A shooting of tramper
 
 *2024-07-14 10:02:33* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්ට-වෙඩි-තැබිමක්/11-410765) · `si`
 
-ඇමෙරිකානු හිටපු ජනපති ඩොනල්ඩ් ට්‍රම්ප් වෙඩි වැදිමක් හේතුවෙන් තුවාල ලබා තිබේ. පෙන්සල්වේනියාවේ පැවැති දේශපාලන රැළියකදී මෙම වෙඩි තැබීම සිදුකර තිබේ.
+At a Pennsylvania rally, US President Donald Trump was shot, leading to his injury. The shooter was killed by security forces. Additionally, two others died, and two were injured. Following the incident, President Joe Biden spoke with Trump.
 
-වෙඩි තැබූ පුද්ගලයා ආරක්ෂක අංශයන්හි ප්‍රතිප්‍රහාර හමුවේ ජිවිතක්ෂයට පත්ව තිබේ. මෙම සිදුවීමෙන් පුද්ගලයන් දෙදෙනෙක් තුවාල ලබා එක් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+🟩
 
-වෙඩි තැබිමෙන් අනතුරුව ඇමෙරිකානු ජනපති ජෝ බයිඩන් මහතා ට්‍රම්ප්ට කථා කර තිබේ.
+US President Donald Trump has been injured due to a shot. The shooting was carried out at a political rally in Pennsalvania.
+
+The shooting person has been killed in retaliation of the security forces. Two persons were killed and two persons were injured in this incident.
+
+US President Joe Biden has spoken to Trump after the shooting.
 
 ◼️
 
 [Data](articles/94b07f34.json)
 
+[Extended Data](ext_articles/94b07f34.ext.json)
+
 ---
 
-### தூபிக்குள் பூஜை ; ஐவர் கைது
+### Pooja within the incense;Arrest
 
 *2024-07-14 10:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூபிக்குள்-பூஜை-ஐவர்-கைது/175-340358) · `ta`
 
-கருவலகஸ்வெவ, எகொடபிட்டிய பிரதேசத்தில் ஆயிரம் வருடங்கள் பழமையான தூபியொன்றுக்குள் விளக்கு ஏற்றி பூஜை செய்து புதையல் தோண்டுவதற்கு முயற்சி செய்த ஐவர் சனிக்கிழமை (13) மாலை  கைது செய்யப்பட்டுள்ளனர்.
+Five individuals were arrested on Saturday for allegedly trying to unearth a millennium-old incense treasure. The suspects, aged between 40 and 56, hail from various towns. A senior suspect managed to escape. Seized items include two motorcycles, lamps, yarn, sandalwood, incense, and tools. Further inquiries are ongoing.
 
-கருவலகஸ்வெவ வனஜீவராசிகள் அலுவலக அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் கருவலகஸ்வெவ பொலிஸ் உத்தியோகத்தர்களும், வனவிலங்கு அதிகாரிகளும் இணைந்து மேற்கொண்ட சுற்றிவளைப்பின் போதே அவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் 40, 50, 52, 56 வயதுடைய நவகத்தேகம, கொபேய்கனே, நிகவெரட்டிய மற்றும் வாரியபொல ஆகிய பிரதேசங்களைச் சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர் .
+Five persons have been arrested on Saturday evening (13) evening for attempting to dig the treasure of a thousand years old incense.
 
-இந்த சுற்றிவளைப்பின் போது 65 வயதுக்கு மேற்பட்ட சந்தேக நபர் ஒருவர் தப்பிச் சென்றுள்ளார் எனவும் கூறப்படுகிறது.
+Based on information received by the officers of the Karuwalakaswewa Wildlife Office, they have been arrested during a raid conducted by the Karuwalakaswewa police officers and wildlife officials.
 
-அந்த இடத்தில் இரண்டு மோட்டார் சைக்கிள்கள், விளக்கு உட்பட பூஜை பொருட்களுடன், நூல், சந்தனக்குச்சி, தூபம் , அலவாங்கு, மண்வெட்டி போன்ற பொருட்களுடன் கடல் மணலும் கைப்பற்றப்பட்டுள்ளன.
+The arrested persons are from Navagadegama, Kobayegane, Nikaweratiya and Wariyapola, aged 40, 50, 52, 56, police said.
 
-மேலும் , சம்பவம் தொடர்பில் கருவலகஸ்வெவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+It is also reported that a suspect over the age of 65 has escaped during the raid.
+
+Two motorcycles, including lamps, including lamps, and yarn, sandalwood, incense, alavangu, shovel, etc., have been seized.
+
+In addition, the Karuwalakaswewa police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/8f42122c.json)
+
+[Extended Data](ext_articles/8f42122c.ext.json)
 
 ---
 
@@ -2243,43 +2307,5 @@ Dongxia Industrial & Commerce Co.ltd. The President opened the company's office 
 [Data](articles/ff4d380f.json)
 
 [Extended Data](ext_articles/ff4d380f.ext.json)
-
----
-
-### Thunder showers in several areas
-
-*2024-07-13 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198754) · `si`
-
-Expect thunderstorms in Western, Sabaragamuwa, North Western, Ampara, Batticaloa, Northern, North Central, Trincomalee, and Hambantota regions. Heavy rainfall possible exceeding 50mm. Strong winds may accompany storms. The Meteorology Department advises caution against lightning and wind-related accidents.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces, in some places in some places. Heavy showers more than 50 can occur.
-
-Showers or thundershowers will occur at several places in the Ampara, Ampara and Batticaloa districts, or even nights.
-
-From time to time in northern and North-Media provinces, Trincomalee and Hambantota districts.. It is said that there is about strong winds.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents in thundershowers.
-
-◼️
-
-[Data](articles/c0e7b6ca.json)
-
-[Extended Data](ext_articles/c0e7b6ca.ext.json)
-
----
-
-### NCE highlights costs of Customs officers’ trade union action
-
-*2024-07-13 03:16:00* · [`islandlk`](http://island.lk/nce-highlights-costs-of-customs-officers-trade-union-action/) · `en`
-
-‘The recent actions taken by the Sri Lanka Customs Officers Union, including a two-day sick leave campaign and work-to-rule initiatives, have had profound implications across Sri Lanka’s business community, particularly affecting exporters and importers. These actions were initiated due to perceived grievances and unmet demands from the Customs Officers Union on various issues, the National Chamber of Exporters of Sri Lanka (NCE) is quoted as saying in a press release.
-
-...
-
-[Data](articles/a39a0e18.json)
-
-[Extended Data](ext_articles/a39a0e18.ext.json)
 
 ---

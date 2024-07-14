@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 15:05:05**
+As of **2024-07-14 15:20:13**
 
 ## Newspaper Stats
 
-*Scraped **35,179** Articles*
+*Scraped **35,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,68 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,168
+adalk | 3,169
 adaderanalk | 4,048
 tamilmirrorlk | 4,231
 dailymirrorlk | 4,733
 virakesarilk | 5,487
-adaderanasinhalalk | 5,866
+adaderanasinhalalk | 5,867
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,178 (100.0%) of 35,179 articles have been extended.
+35,179 (100.0%) of 35,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### அரசாங்கம் மீதான மக்களின் அங்கீகாரம் உயர்ந்துள்ளது
+### විප්ලව යනු කුමක්දැයි ජනපති පහදයි
+
+*2024-07-14 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198793) · `si`
+
+සැබෑ විප්ලව යනු මිනිසුන් මරා දැමීම හෝ ගෙවල් ගිනි තැබීම නොව ජනතාව‍ට ආඩම්බරයෙන් ඉදිරියට යා හැකි පසුබිමක් රට තුළ ගොඩනඟා දීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+“උරුමය” වැඩසටහන මඟින් මෙරට ජනතාවට එම පසුබිම උදා කරදීමට හැකි වී ඇති බව පෙන්වා දුන් ජනාධිපතිවරයා සැබෑ සමාජවාදී වැඩපිළිවෙළ ජනගත කෙරෙන උරුමය වැඩසටහන සමඟ දේශපාලනයෙන් තොරව සියලුදෙනා එක්විය යුතු බවද පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ තඹුත්තේගම මහවැලි ක්‍රීඩාංගණයේදී ඊයේ (13) පැවති උරුමය සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානෝත්සවයට එක්වෙමිනි.
+
+අනුරාධපුර දිස්ත්‍රික්කයේ මහවැලි එච් සහ හුරුළුවැව යන කලාප දෙකෙහි මහවැලි කොට්ඨාශ 09ක 4012 දෙනෙකුට සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම මෙහිදී සිදු විය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සංකේතාත්මකව ඉඩම් ඔප්පු 47ක් ප්‍රදානය කෙරිණ.
+
+...
+
+[Data](articles/a9520849.json)
+
+---
+
+### People's recognition on the government has risen
 
 *2024-07-14 14:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-மீதான-மக்களின்-அங்கீகாரம்-உயர்ந்துள்ளது/175-340370) · `ta`
 
-நாட்டின் போக்கை பற்றி நம்பிக்கையுடன் சிந்திக்கும் மக்களின் எண்ணிக்கை 2023 ஜூன் இல் இருந்ததை விட அதிகமாக உள்ளது  என வெரிட்டேரிசர்ச்சின் 2024 ஜூலைக்குரிய 'தேசத்தின்மனநிலை' கருத்துக்கணிப்பின் முடிவுகள் கூறுகின்றன
+Public trust in the government has significantly increased since February 2024, with 28% now viewing the economy positively, compared to just 9% in June 2023. A majority, 30%, believe the economy is improving, nearly matching the 29% in June 2023. These findings come from a survey conducted among 1,038 adult Sri Lankans between June 28 and July 6, 2024, indicating a positive shift in public sentiment towards the government and the economy.
 
-வெரிட்டே ரிசர்ச்சின் கேலப் பாணியிலான (Gallup style) சமீபத்திய 'தேசத்தின்மனநிலை' கருத்துக்கணிப்பின்படி,நான்கு மாதங்களுக்கு முன்பு இருந்ததை விடஅரசாங்கம் மீதான மக்களின் அங்கீகாரம் மூன்று மடங்கு அதிகரித்துள்ளதோடு, பொருளாதாரம் மற்றும் நாட்டின் பொருளாதாரப்போக்குபற்றி மக்கள்நம்பிக்கையாக உணர்கிறார்கள்.
+🟩
+
+The results of the July 2024 July 2024 of the Veritarischi states that the number of people who think about the country's course is greater than in June 2023, according to the results.
+
+According to the latest 'nation -minded state' poll of the Verite Resur, the people's recognition of the government has increased three times more than four months ago, and the economy and the economy of the country are felt.
+
+In February 2024. In response to the current economic conditions, 28%of the people said that it is good or better, which has three times the increase in 9%from 9%in 2024.. 30 % of the respondents had this point and it was 9 % in February 2024.
+
+"Do you see or do you think the current government is the process?"For the purpose, 24% of those respondents have said they accept (± 2.73%).
+
+2. Adventure of economic conditions |Good or better: 28% |
+
+When "the country's economic conditions are special, good or good," 28% of people said it was good or better (survival ± 2.87%).
 
 ...
 
 [Data](articles/7868c19a.json)
+
+[Extended Data](ext_articles/7868c19a.ext.json)
 
 ---
 
@@ -109,6 +143,22 @@ It has been mentioned that in the near future, the Napitimunai sub -post will be
 [Data](articles/e42355d9.json)
 
 [Extended Data](ext_articles/e42355d9.ext.json)
+
+---
+
+### එක ආසනයකින් පාසල් 5ක් 6ක් වැසි යනවා
+
+*2024-07-14 13:41:35* · [`adalk`](https://www.ada.lk/breaking_news/එක-ආසනයකින්-පාසල්-5ක්-6ක්-වැසි-යනවා/11-410773) · `si`
+
+රජයේ ප්‍රමුඛ අරමුණක් වන්නේ නවීන තාක්ෂණය යොදා ගෙන මෙරට ප්‍රාථමික සෞඛ්‍ය සේවා වැඩිදියුණු කිරීම බව “58 වන රාජ්‍ය ඔසුසල” ගාල්ල, හික්කඩුව  නගරයේ දී විවෘත කරමින් සුව ඇමති අවධාරණය කරයි.
+
+රාජ්‍ය ඖෂධ නීතිගත සංස්ථාවේ (SPC) ගාල්ල, හික්කඩුව නව රාජ්‍ය ඔසුසල ඊයේ (13) පස්වරුවේ  සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කරන ලදි.
+
+රාජ්‍ය ඖෂධ නීතිගත සංස්ථාවේ රාජ්‍ය ඔසුසල ජාලයේ “58 වන රාජ්‍ය  ඔසුසල ලෙස නොම්බර 18, බද්දේගම පාර, හික්කඩුව යන ලිපිනයේ (හික්කඩුව දුම්රිය ගේට්ටුව අසල) ස්ථාපිත කළ මෙම රාජ්‍ය ඔසුසල මගින් පළපුරුදු ඖෂධවේදීන්ගේ සේවාව යටතේ, රාජ්‍ය මුද්‍රාව සහිත නියම ප්‍රමිතියෙන් යුතු ගුණාත්මක ඖෂධ අඩු මිලකට මිලදී ගැනීමට ජනතාවට හැකියාව ලැබෙන අතර, ඡ්‍යෙෂ්ඨ පුරවැසියන්, ගර්භනී මවුවරුන් සහ වයස අවුරුදු 05 ට අඩු දරුවන් සදහා 5% ක සුවිශේෂි වට්ටමක් සහිතව ඖෂධ නිකුත් කිරීම ද විශේෂත්වයකි.
+
+...
+
+[Data](articles/960d984b.json)
 
 ---
 
@@ -2247,43 +2297,5 @@ TV. You can view it from 7.30 pm on Derana.
 [Data](articles/67e28516.json)
 
 [Extended Data](ext_articles/67e28516.ext.json)
-
----
-
-### Will the Philippines rise against China?
-
-*2024-07-13 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198768) · `si`
-
-The Philippines asserts its stance in the South China Sea dispute, accusing China but remains committed to peace.
-
-🟩
-
-The Philippines says that the Philippines stand steady in the dispute with China in the South China Sea.
-
-Both sides are accusing each other with respect to the South China Sea.
-
-However, the Philippines has shown that he is committed to the purpose of peace.
-
-◼️
-
-[Data](articles/4f25c8f8.json)
-
-[Extended Data](ext_articles/4f25c8f8.ext.json)
-
----
-
-### Capitalizing The Global Commons For Environmental Renewal
-
-*2024-07-13 15:35:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/capitalizing-the-global-commons-for-environmental-renewal/) · `en`
-
-The Identification and Mobilization of the Standing Stock in the Global Commons for Planetary Environmental Renewal
-
-The hypothesis that ‘what is unowned is un-marketed, what is un-marketed is under- priced, what is underpriced is mismanaged, overused and wasted’, has provided the underpinning of the market economy. However, a partial recognition of reality has enabled a flawed operation of this dictum causing the environment to become increasingly hostile to living things. A case in point is the ownership of forest lands. Where ownership was exercised, forests were owned by the communities who lived in and around them, unless there was a centralized command system such as organized kingdoms in which case forests were owned by the king. Today the right of such communities has been assumed by governments. Given the present Geopolitik, it is highly unlikely that any nation will surrender a perceived opportunity to exercise ‘ownership’ – Especially if it was a resource.
-
-...
-
-[Data](articles/f87dd646.json)
-
-[Extended Data](ext_articles/f87dd646.ext.json)
 
 ---

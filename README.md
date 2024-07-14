@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 03:20:00**
+As of **2024-07-15 03:35:20**
 
 ## Newspaper Stats
 
-*Scraped **35,251** Articles*
+*Scraped **35,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,179
 adaderanalk | 4,055
-tamilmirrorlk | 4,240
+tamilmirrorlk | 4,241
 dailymirrorlk | 4,733
 virakesarilk | 5,501
 adaderanasinhalalk | 5,882
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,249 (100.0%) of 35,251 articles have been extended.
+35,251 (100.0%) of 35,252 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Memorandum of Understanding between the Board of Trade of Thailand and the C
 ◼️
 
 [Data](articles/8bc8cbb6.json)
+
+[Extended Data](ext_articles/8bc8cbb6.ext.json)
 
 ---
 
@@ -172,21 +174,49 @@ With the assistance of UAE authorities, the arrests were carried out in Dubai by
 
 ---
 
-### வடக்கு அரச ஊழியர்களுக்கு பிரதமர் தினேஷ் பாராட்டு
+### Prime Minister Dinesh congratulates northern civil servants
 
 *2024-07-15 01:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-அரச-ஊழியர்களுக்கு-பிரதமர்-தினேஷ்-பாராட்டு/175-340402) · `ta`
 
-வேலை நிறுத்தப் போராட்டங்களில் ஈடுபடாது, மக்களுக்காக பணியாற்றி வட பகுதியைச் சேர்ந்த அரச ஊழியர்களுக்கு தனது பாராட்டை தெரிவித்துக்கொண்ட பிரதமர் தினேஷ் குணவர்தன, சமுதாயத்தை முன்னேற்றப் பாடுபட்டனர் என்றும் தெரிவித்துள்ளார்.
+Prime Minister Dinesh Gunawardena praised northern civil servants for not joining strikes, highlighting their dedication despite challenges. He addressed employees at the Jaffna Public Library, thanking them for their continued service amidst economic crises. The PM emphasized the importance of unity and peaceful dialogue in overcoming national challenges, expressing gratitude for the public's support in navigating the financial crisis.
 
-கடந்த சில நாட்களாக கொழும்பில் சில சூழ்நிலைகள் ஏற்பட்டுள்ளன. ஆனால் யாழ்ப்பாண மக்கள் அவற்றில் இணையவில்லை. அதற்காக ஆளுநர், ஆசிரியர்கள் மற்றும் அனைவருக்கும் நன்றி தெரிவித்துக் கொள்கிறேன். அவர்கள் வழக்கம் போல் வேலைக்குச் சென்று, அன்றாடக் கடமைகளை நிறைவேற்றியுள்ளனர் என்றார்.
+🟩
 
-வட மாகாண உள்ளூராட்சி நிறுவனங்களின் ஊழியர்களுக்கு நிரந்தர நியமனம் வழங்கும் நிகழ்வு யாழ்ப்பாண பொது நூலக கேட்போர் கூடத்தில் வௌ்ளிக்கிழமை (12) இடம்பெற்றது. இந்த நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே பிரதமர் இதனைக் குறிப்பிட்டார்.
+Prime Minister Dinesh Gunawardena, who has been working for the people of the Northern region, has not been involved in strike action and has been working for the people of the North.
 
-யாழ்ப்பாண நூலகத்திற்கும் இதன் போது நூல்கள் வழங்கிவைக்கப்பட்டன. இங்கு மேலும் கருத்துத் தெரிவித்த பிரதமர்-
+There have been some circumstances in Colombo for the past few days. But the people of Jaffna do not join them. I thank the Governor, Teachers and All. They said they went to work as usual and fulfilled their daily duties.
+
+Permanent Appointment to Employees of Northern Provincial Council Corporations was held on Wednesday (12) at the Jaffna Public Library Auditorium.. The Prime Minister said this while addressing the event.
+
+The Jaffna Library was also provided with the books. The Prime Minister said more
 
 ...
 
 [Data](articles/8630c2ff.json)
+
+[Extended Data](ext_articles/8630c2ff.ext.json)
+
+---
+
+### யுவதியின் தலை முடியை கத்தரித்த மௌலவி கைது
+
+*2024-07-15 01:19:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுவதியின்-தலை-முடியை-கத்தரித்த-மௌலவி-கைது/175-340401) · `ta`
+
+பேருந்தில் பயணித்த 27 வயதுடைய யுவதியின் தலை முடியை அரைவாசிக்கு மேல் கத்தரித்ததாக கூறப்படும் முருதலாவ பிரதேசத்தை சேர்ந்த மௌலவி என்று அறியப்பட்ட நபர் ஒருவரை கண்டி தலைமையக பொலிஸார் கைது செய்துள்ளனர்.
+
+கட்டுகஸ்தோட்டையில் இருந்து கண்டி நோக்கி பயணித்த பஸ்ஸில் யுவதியொருவர் அமர்ந்திருந்து பயணம் செய்துள்ளார். அவரது  அந்த ஆசனத்தின் பின் இருக்கையில் அமர்ந்திருந்த மௌலவி யுவதியின்  தலைமுடியை வெட்டியுள்ளதாக பொலிஸாரின் விசாரணையில் தெரியவந்துள்ளது.
+
+சம்பவத்தை எதிர்கொண்ட யுவதி, சந்தேகநபரையும், அவர் வெட்டிய தலைமுடியின் பகுதியையும் தனது அலைபேசியில் வீடியோவாக எடுத்துள்ளார்.
+
+மேலும், மடவளை பிரதேசத்தில் வசிக்கும் யுவதி சில தேவைகளுக்காக கண்டி நோக்கி பயணித்த வேளையில் இச்சம்பவத்துக்கு முகங்கொடுத்துள்ளார்.
+
+தனக்கு நேர்ந்ததை சக பயணிகளிம் தெரிவித்ததை அடுத்தே, சந்தேக நபரை பிடித்து பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் முருத்தலாவ தெஹியங்க வடக்கு பகுதியைச் சேர்ந்தவர் என விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7eb3f2f8.json)
 
 ---
 
@@ -2245,27 +2275,5 @@ The winners of “Derana Little Star – Season 12” are as follows:
 [Data](articles/fe03d97b.json)
 
 [Extended Data](ext_articles/fe03d97b.ext.json)
-
----
-
-### Decision to announce Sajith's electoral alliance on August 1
-
-*2024-07-14 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188398) · `ta`
-
-Sajith Premadasa's electoral alliance under the United People's Power Leadership will be announced on August 1st in Colombo. This coalition includes various opposition parties, aiming for success in the upcoming presidential election. Key figures like Dulus Alaparuma, Peiris, and Wimal Weerawansa have agreed to join, along with leaders from minority parties. However, others like Patali Champika Ranawaka, Sarath Fonseka, and Rajitha Senaratne are not part of this coalition.
-
-🟩
-
-The United People's Power Leadership, which focuses on the proposed presidential election, will be announced on August 1st.. Opposition Leader Sajith Premadasa said the announcement would be made in Colombo and that the arrangements were being made at all levels.
-
-Negotiations for a wider political coalition ended with the main opposition United People's Power Leadership. The official announcement of this coalition, which is aimed at the success of the proposed presidential election, will be made in August.. The opposition parties have a coalition, including several parties, including Tamil and Muslim.
-
-Opposition leader Sajith Premadasa, who said that it is impossible to say that the party and key political figures are joined, told Weerakesari that the full information about the political coalition will be revealed as the date approaches.
-
-...
-
-[Data](articles/92875401.json)
-
-[Extended Data](ext_articles/92875401.ext.json)
 
 ---

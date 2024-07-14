@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 14:35:36**
+As of **2024-07-14 14:54:29**
 
 ## Newspaper Stats
 
-*Scraped **35,178** Articles*
+*Scraped **35,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,168
 adaderanalk | 4,048
-tamilmirrorlk | 4,230
+tamilmirrorlk | 4,231
 dailymirrorlk | 4,733
 virakesarilk | 5,487
 adaderanasinhalalk | 5,866
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,177 (100.0%) of 35,178 articles have been extended.
+35,178 (100.0%) of 35,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### அரசாங்கம் மீதான மக்களின் அங்கீகாரம் உயர்ந்துள்ளது
+
+*2024-07-14 14:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-மீதான-மக்களின்-அங்கீகாரம்-உயர்ந்துள்ளது/175-340370) · `ta`
+
+நாட்டின் போக்கை பற்றி நம்பிக்கையுடன் சிந்திக்கும் மக்களின் எண்ணிக்கை 2023 ஜூன் இல் இருந்ததை விட அதிகமாக உள்ளது  என வெரிட்டேரிசர்ச்சின் 2024 ஜூலைக்குரிய 'தேசத்தின்மனநிலை' கருத்துக்கணிப்பின் முடிவுகள் கூறுகின்றன
+
+வெரிட்டே ரிசர்ச்சின் கேலப் பாணியிலான (Gallup style) சமீபத்திய 'தேசத்தின்மனநிலை' கருத்துக்கணிப்பின்படி,நான்கு மாதங்களுக்கு முன்பு இருந்ததை விடஅரசாங்கம் மீதான மக்களின் அங்கீகாரம் மூன்று மடங்கு அதிகரித்துள்ளதோடு, பொருளாதாரம் மற்றும் நாட்டின் பொருளாதாரப்போக்குபற்றி மக்கள்நம்பிக்கையாக உணர்கிறார்கள்.
+
+...
+
+[Data](articles/7868c19a.json)
+
+---
 
 ### The photo of the trampol is released
 
@@ -220,19 +234,25 @@ Subsequently, the woman handed over the cell phone from Steven Smith to the poli
 
 ---
 
-### රනිල් ජනපති නාමල් අගමැති කියල තිරණයක් නෑ
+### Ranil has no reserver to claim Namal Prime Minister
 
 *2024-07-14 12:18:01* · [`adalk`](https://www.ada.lk/opinion/රනිල්-ජනපති-නාමල්-අගමැති-කියල-තිරණයක්-නෑ/2-410772) · `si`
 
-ජනාධිපතිවරණය කල් දැමීමේ සූදානමක් ඇති බවට විපක්ෂය කටකතා පැතිරවූවත් ජනාධිපතිවරයා නියම වේලාවට මැතිවරණය පවත්වන බවත් ඉන් රනිල් වික්‍රමසිංහ මහතා ජයග්‍රහණය කොට රටේ ආර්ථික ප්‍රශ්ණය විසදා රට නිසි තැනකට ගෙන එනු ඇති බවත් ජනාධිපති ජේෂ්ඨ උපදේශක රුවන් විජයවර්ධන මහතා ගම්පහ , ගනේමුල්ලේදී පැවසීය.
+Ranil Wickremesinghe is set to run for President despite opposition attempts to delay the election. Presidential advisor Ruwan Wijewardene assures the election will proceed as scheduled, addressing concerns about the country's economy. Wickremesinghe, known for his readiness to face elections, has previously lived abroad but now aims to lead domestically. The election's timing remains uncertain due to legal challenges and the impact on the business community, but Wijewardene emphasizes Wickremesinghe's commitment to the nation's constitution and his potential to manage the economy effectively.
 
-ගණේමුල්ල , හොරගොල්ල දකුණ ග්‍රාම නිලධාරී වසමේ ඉදිකරන ලද සේවා පියස ගොඩනැගිල්ල විවෘත කිරීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් රුවන් විජයවර්ධන මහතා එසේ සදහන් කළේය.
+🟩
 
-" ජනාධිපතිවරණයට මුහුණ දීමට රනිල් වික්‍රමසිංහ මහතා සූදානම්. රනිල් මහතා , වචනයෙන් පමණක් නොව ක්‍රියාවෙන් පෙන්වාදී තිබෙනව එතුමාට මේ රට හරි තැනකට ගෙන ඒමට පුලුවන් බව. වසර දෙකක් යාමට පෙර බංකොලොත්ව තිබූ රටක් , බංකොලොත් භාවයෙන් නිදහස් කරල රටේ ස්ථාවරභාවයකට ගෙනැවිත් අද යම්කිසි විදියකට රටේ ජනතාවට ජීවත්වීමට ඉඩ ප්‍රස්ථාව සලසා දී තිබෙනව , ක්‍රියාවෙන්.
+The Presidential advisor Ruwan Wijewardene said that although the opposition spreads to postpone the presidential election, the President will be held at the right time and the country's economic problem will be a proper place, he said.
+
+Ruwan Wijewardene has stated that the service piyasa building was built in the Horagolla Divisional Grama Division of Horagolla Grama Division.
+
+Ranil Wickremesinghe is ready to face the presidential election. Mr. Ranil has shown not only by word but also in action. The people of this country have provided the opportunity to live in a foreign country to live in a foreign country before two years.
 
 ...
 
 [Data](articles/1644e87a.json)
+
+[Extended Data](ext_articles/1644e87a.ext.json)
 
 ---
 
@@ -2265,29 +2285,5 @@ The hypothesis that ‘what is unowned is un-marketed, what is un-marketed is un
 [Data](articles/f87dd646.json)
 
 [Extended Data](ext_articles/f87dd646.ext.json)
-
----
-
-### Petition on the presidential election will be considered
-
-*2024-07-13 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198767) · `si`
-
-A three-judge Supreme Court panel, including Arjuna Obeysekera and Priyantha Fernando, will review a petition regarding the conduct of future presidential elections. The petitioner, Attorney Aruna Laksiri Unawatuna, argues against the formal passage of the 19th Amendment through referendum before holding such elections.
-
-🟩
-
-A three-member Supreme Court has been named to consider the petition filed by conducting a future presidential election.
-
-Accordingly, the petition is to be considered before the three-member Supreme Court Bench, Arjuna Obeysekera and Priyantha Fernando.
-
-Attorney Aruna Laksiri Unawatuna, the petition was presented by Mr. Aruna Laksiri Unawatuna.
-
-It further states that the 19th Amendment to the Constitution is not formally passed in a referendum and holding a future presidential election.
-
-◼️
-
-[Data](articles/2fb19fac.json)
-
-[Extended Data](ext_articles/2fb19fac.ext.json)
 
 ---

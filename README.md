@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 14:19:55**
+As of **2024-07-14 14:35:36**
 
 ## Newspaper Stats
 
-*Scraped **35,177** Articles*
+*Scraped **35,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,167
+adalk | 3,168
 adaderanalk | 4,048
 tamilmirrorlk | 4,230
 dailymirrorlk | 4,733
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,175 (100.0%) of 35,177 articles have been extended.
+35,177 (100.0%) of 35,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### ට්‍රම්ප් ට වෙඩිතැබූ පුද්ගලයාගේ ඡායාරූපය නිකුත් කෙරේ
+### The photo of the trampol is released
 
 *2024-07-14 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198792) · `si`
 
-අමෙරිකාවේ හිටපු ජනපති ඩොනල්ඩ් ට්‍රම්ප් ට වෙඩි ප්‍රහාරය එල්ල කළ බවට සැක කෙරෙන අයෙකු බුද්ධි අංශ ස්නයිපර් වෙඩික්කරුවෙකු විසින් එල්ල කරන ලද ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව තිබුණි.
+A sniper named Vedicgenule killed an intelligence sniper, and his photo has been released by international media.
 
-ඔහුගේ ඡායාරූපය මේ වනවිට ජාත්‍යන්තර මාධ්‍ය විසින් නිකුත් කර තිබේ.
+🟩
+
+An intelligence sniperser was killed by an intelligence Sniper Vedicgenule.
+
+His photo has been issued by the International Media.
 
 ◼️
 
 [Data](articles/7d54044c.json)
+
+[Extended Data](ext_articles/7d54044c.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Furthermore, the President of the association expressed that the passengers have
 ◼️
 
 [Data](articles/ef7320c2.json)
+
+[Extended Data](ext_articles/ef7320c2.ext.json)
 
 ---
 
@@ -209,6 +217,22 @@ Subsequently, the woman handed over the cell phone from Steven Smith to the poli
 [Data](articles/51720729.json)
 
 [Extended Data](ext_articles/51720729.ext.json)
+
+---
+
+### රනිල් ජනපති නාමල් අගමැති කියල තිරණයක් නෑ
+
+*2024-07-14 12:18:01* · [`adalk`](https://www.ada.lk/opinion/රනිල්-ජනපති-නාමල්-අගමැති-කියල-තිරණයක්-නෑ/2-410772) · `si`
+
+ජනාධිපතිවරණය කල් දැමීමේ සූදානමක් ඇති බවට විපක්ෂය කටකතා පැතිරවූවත් ජනාධිපතිවරයා නියම වේලාවට මැතිවරණය පවත්වන බවත් ඉන් රනිල් වික්‍රමසිංහ මහතා ජයග්‍රහණය කොට රටේ ආර්ථික ප්‍රශ්ණය විසදා රට නිසි තැනකට ගෙන එනු ඇති බවත් ජනාධිපති ජේෂ්ඨ උපදේශක රුවන් විජයවර්ධන මහතා ගම්පහ , ගනේමුල්ලේදී පැවසීය.
+
+ගණේමුල්ල , හොරගොල්ල දකුණ ග්‍රාම නිලධාරී වසමේ ඉදිකරන ලද සේවා පියස ගොඩනැගිල්ල විවෘත කිරීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් රුවන් විජයවර්ධන මහතා එසේ සදහන් කළේය.
+
+" ජනාධිපතිවරණයට මුහුණ දීමට රනිල් වික්‍රමසිංහ මහතා සූදානම්. රනිල් මහතා , වචනයෙන් පමණක් නොව ක්‍රියාවෙන් පෙන්වාදී තිබෙනව එතුමාට මේ රට හරි තැනකට ගෙන ඒමට පුලුවන් බව. වසර දෙකක් යාමට පෙර බංකොලොත්ව තිබූ රටක් , බංකොලොත් භාවයෙන් නිදහස් කරල රටේ ස්ථාවරභාවයකට ගෙනැවිත් අද යම්කිසි විදියකට රටේ ජනතාවට ජීවත්වීමට ඉඩ ප්‍රස්ථාව සලසා දී තිබෙනව , ක්‍රියාවෙන්.
+
+...
+
+[Data](articles/1644e87a.json)
 
 ---
 
@@ -2265,27 +2289,5 @@ It further states that the 19th Amendment to the Constitution is not formally pa
 [Data](articles/2fb19fac.json)
 
 [Extended Data](ext_articles/2fb19fac.ext.json)
-
----
-
-### CJ-led bench to consider FR petition filed over Presidential Election
-
-*2024-07-13 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100482/cj-led-bench-to-consider-fr-petition-filed-over-presidentialelection) · `en`
-
-A three-member panel of judges has been named to take up for consideration the Fundamental Rights (FR) petition filed seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament.
-
-Accordingly, the petition filed by Attorney-at-Law Aruna Laksiri, is slated to be taken up for consideration before a bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekara and Priyantha Fernando.
-
-The relevant petition has been fixed for consideration before the aforementioned judge panel on Monday (15), Ada Derana reporter said.
-
-The petition argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage.
-
-The Election Commission and its members, the General Secretary of Parliament and the Attorney General have been named as respondents.
-
-...
-
-[Data](articles/305a0f85.json)
-
-[Extended Data](ext_articles/305a0f85.ext.json)
 
 ---

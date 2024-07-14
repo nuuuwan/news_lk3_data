@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 01:53:52**
+As of **2024-07-15 02:05:04**
 
 ## Newspaper Stats
 
-*Scraped **35,239** Articles*
+*Scraped **35,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,089
 dailyftlk | 2,221
 adalk | 3,179
 adaderanalk | 4,055
-tamilmirrorlk | 4,238
+tamilmirrorlk | 4,239
 dailymirrorlk | 4,733
 virakesarilk | 5,501
 adaderanasinhalalk | 5,882
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,239 (100.0%) of 35,239 articles have been extended.
+35,239 (100.0%) of 35,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### அனுரவின் பாதுகாப்பு பலப்படுத்தப்பட்டது
+
+*2024-07-15 01:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவின்-பாதுகாப்பு-பலப்படுத்தப்பட்டது/175-340400) · `ta`
+
+தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸநாயக்க எம். பி பங்கேற்கின்ற கூட்டங்களில் நவீன ரக சிசிடிவி கமெராக்கள் பொருத்தப்பட்டுள்ளது.
+
+அண்மைக்காலமாக அவர் கலந்து கொள்கின்ற கூட்டங்களில் சோலர் பொருத்தப்பட்ட சிசிடிவி கமரா மற்றும் இதர நவீன தன்னியக்க சிசிடிவி கமெராக்கள் பல அங்காங்கே பொருத்தப்பட்டு கூட்டங்களுக்கு வருபவர்கள் கண்கானிக்கப்பட்டு வருகின்றனர்.
+
+அம்பாறை மாவட்டத்தில் வெள்ளிக்கிழமை (12) காரைதீவு மற்றும் சம்மாந்துறை பகுதிகளில் தேசிய மக்கள் சக்தி கூட்ட மேடைகள் மற்றும் அதனை அண்டிய பகுதிகளில் இவ்வாறான கமெராக்கள் பல பொருத்தப்பட்டு கண்காணிப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+இதேவேளை, என்றும் இல்லாதவாறு கூட்டங்களுக்கு பைகளுடன் சமூகமளிப்பவர்கள் அழைக்கப்பட்டு விசேட பரிசோதனைக்கு உட்படுத்தப்பட்ட பின்னர் கூட்டங்களுக்கு அனுமதிக்கப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/da3dc3c7.json)
+
+---
 
 ### Fishing is required for fishing based on the lease
 
@@ -2321,29 +2339,5 @@ It is noteworthy that a total of 47 human skeletal blocks have been excavated wi
 [Data](articles/17ce990b.json)
 
 [Extended Data](ext_articles/17ce990b.ext.json)
-
----
-
-### Anura's safety strengthened
-
-*2024-07-14 09:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவின்-பாதுகாப்பு-பலப்படுத்தப்பட்டது/175-340355) · `ta`
-
-Anura's safety measures were enhanced with the installation of modern CCTV cameras at meetings, including solar-powered ones. These installations are part of efforts to improve security, especially in the Ampara district's Karadivu and Samanthurai areas. Additionally, attendees undergo special tests before being allowed entry to ensure safety.
-
-🟩
-
-President of the National People's Power Anurakumara Dissanayake. B. Modern CCTV cameras are fitted at the participating meetings.
-
-At the recent meetings he attended, solar -fitted CCTV camera and other modern Automated CCTV cameras have been monitored to meet meetings.
-
-In the Ampara district on Friday (12), many such cameras are being installed in the Karadivu and Samanthurai areas.
-
-Meanwhile, the socialists are invited with bags to meet the meetings and are allowed to meet after a special test.
-
-◼️
-
-[Data](articles/785a61f6.json)
-
-[Extended Data](ext_articles/785a61f6.ext.json)
 
 ---

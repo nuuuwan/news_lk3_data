@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 15:54:26**
+As of **2024-07-14 16:08:28**
 
 ## Newspaper Stats
 
-*Scraped **35,187** Articles*
+*Scraped **35,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,85 @@ islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,169
-adaderanalk | 4,049
+adaderanalk | 4,050
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
-virakesarilk | 5,487
+virakesarilk | 5,489
 adaderanasinhalalk | 5,869
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,181 (100.0%) of 35,187 articles have been extended.
+35,187 (100.0%) of 35,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### හමාස් හමුදා ප්‍රධානියා ඉලක්ක කර ප්‍රහාරයක්
+### SLC to fund cancer awareness with every six, boundary & wicket during LPL
+
+*2024-07-14 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100501/-slc-to-fund-cancer-awareness-with-every-six-boundary-wicket-during-lpl) · `en`
+
+Sri Lanka Cricket (SLC) has commenced donating funds to raise awareness on ‘Breast Cancer’ in the country with the Lanka Premier League’s ‘Pink Day’ campaign.
+
+Accordingly, every time a batsman hits a six, a boundary, or takes a wicket, Sri Lanka Cricket will donate funds to the worthy cause, SLC said in a statement.
+
+Accordingly, a ‘Six’ will contribute Rs. 10,000 for the fund; a boundary will boost the fund by Rs. 4,000; and a wicket will strengthen it by Rs. 6,000.
+
+Sri Lanka Cricket will continue this campaign until the last ball of Lanka Premier League 2024 is bowled on July 21, 2024, in the finals of the competition, the statement added.
+
+This initiative is launched in line with the Lanka Premier League 2024 ‘Pink Day’ Campaign on Sunday (July 14) to help raise awareness on ‘Breast Cancer’, it added.
+
+The campaign titled “Strike with Hope: LPL Goes Pink for Breast Cancer Awareness’, will see all the players and supporters wearing ‘Pink’ colored clothing to support the cause.
+
+...
+
+[Data](articles/852c9358.json)
+
+---
+
+### Hamas' Head of Army attacks
 
 *2024-07-14 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198795) · `si`
 
-මානුෂික කලාපයක් වශයෙන් වෙන්කර තිබූ ගාසා තීරයේ ප්‍රදේශයක් ඉලක්කයක් වෙත එල්ලකළ ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් පලස්තීන වැසියන් 90ක් පමණ ජීවිතක්ෂයට පත්වී ඇති බව රොයිටර්ස් පුවත් සේවය වාර්තා කරයි.
+In a targeted airstrike, Israeli forces killed 90 Palestinians, including Hamas' Head of Army Mohammad Deife, near a gas station. Israel claims Deife was planning an attack on Hamad Dayif. Netanyahu suggests this action could lead to hostage releases, but it's unclear if Deife was the primary target or if another Hamas officer was also involved.
 
-ඊශ්‍රායලය පවසන්නේ හමාස් හමුදා ප්‍රධානියා වන මොහොමඩ් ඩෙයිෆ් ඉලක්ක කර එම ප්‍රහාරය එල්ලකළ බවයි.
+🟩
 
-මේ අතර ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු පවසන්නේ එම ප්‍රහාරයෙන් ඩෙයිෆ් හෝ ඔහු සමග සිටි අනෙක් හමාස් හමුදා නිලධාරියා මියගියාද යන්න පැහැදිලි නැති බවයි.
+The Israeli aircraft had killed 90 Palestini in a target of a target in a gaze column that had been reserved in a gas.
 
-ඔහු පවසන්නේ හමාස් සංවිධානය ට බලපෑම් එල්ල කිරීම මගින් ප්‍රාණ ඇපකරුවන් නිදහස් කර ගැනීමට අවස්ථාව උදාවිය හැකි බවයි.
+Israel says Mohammad Deife is targeting the Hamad Dayif.
+
+Meanwhile, Israeli Prime Minister Benjamin Netanyahu says that it is not clear whether Deift Dayif or the other Hamas Army officer who was with him.
+
+He says that affecting Hamas is the opportunity to release hostages.
 
 ◼️
 
 [Data](articles/af910d27.json)
 
+[Extended Data](ext_articles/af910d27.ext.json)
+
 ---
 
-### கொழும்பில் எலும்புக்கூடுகள் மீட்பு
+### Skeleton recovery in Colombo
 
 *2024-07-14 15:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-எலும்புக்கூடுகள்-மீட்பு/175-340373) · `ta`
 
-கொழும்பு துறைமுக பழைய செயலக அலுவலகத்திற்கு அருகில் எஸ்.ஏ.ஜி.கே. நுழைவாயிலுக்கு அருகில் கட்டுமானத்திற்காக சீன நிறுவனமொன்று மேற்கொண்ட அகழ்வின் போது பல மனித எலும்புக்கூடுகள் கண்டெடுக்கப்பட்டதாக கொழும்பு துறைமுக பொலிஸார் தெரிவித்தனர்.
+During excavation for construction near Colombo's Old Secretariat Office, a Chinese company discovered several human skeletons about 6 feet deep. The bones are believed to be old.
 
-சுமார் 6 அடி ஆழத்தில் இந்த எலும்புகள் கண்டெடுக்கப்பட்டுள்ளதாகவும் இவை பல வருடங்கள் பழையன என்றும் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+SAGK near the Old Secretariat Office of Colombo. Colombo port police said that several human skeletons were discovered during the excavation of a Chinese company for construction near the entrance.
+
+The bones have been found at a depth of about 6 feet and have been old for years, police said.
 
 ◼️
 
 [Data](articles/b9005397.json)
+
+[Extended Data](ext_articles/b9005397.ext.json)
 
 ---
 
@@ -80,25 +114,45 @@ This will be the fourth international port asset for the Adani group after Haifa
 
 [Data](articles/4f2af1c1.json)
 
+[Extended Data](ext_articles/4f2af1c1.ext.json)
+
 ---
 
-### බස් රථයක් තුළදී තරුණියකගේ කොණ්ඩය කැපූ මවුලවී අත්අඩංගුවට
+### Moulas arrested for hair cut in a girl during a bus
 
 *2024-07-14 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198794) · `si`
 
-මගී බස් රථයක් තුළදී තරුණියකගේ කොණ්ඩයෙන් අඩියක පමණ කොටසක් කපා වෙන් කොට දැමූ මවුලවීවරයෙකු බව සඳහන් පුද්ගලයෙකු මහනුවර පොලීසිය මගින් ඊයේ (13) අත්අඩංගුවට ගෙන තිබේ.
+A man was arrested by Kandy Police after cutting a young girl's hair on a bus. The incident occurred near Katugastota-Wattarathna Junction, where the suspect, identified as a molevian, was apprehended by the conductor and other passengers. He was found hiding in a paddy field along the Kandy-Wattegama road.
 
-මහනුවර-වත්තේගම මාර්ගයේ ගමන් ගත් බස් රථයක ගමන් ගනිමින් සිටියදී තම අසුනට පසූපස අසුනේ වාඩිවී සිටි සැකකරු සිය වරලසේ අඩියක් පමණ කොටසක් කතුරකින් කපා දැමූ බව මඩවල පදිංචි 26 හැවිරිදි තරුණියක් මහනුවර පොලීසියට පවසා තිබුණි.
+🟩
 
-කටුගස්තොට-වට්ටාරන්තැන්න මංසන්ධිය ආසන්නයේ දී තම කොණ්ඩය සැකකරු විසින් කපන අයුරු දැක ඇති තරුණිය කෑ ගසා බස් රථයේ සෙසු මගීන් ගේ සහාය ඉල්ලා තිබුණාය.
+The Kandy Police has arrested a person who had been identified as a molevian that was a molevian who had been cut off about a foot of a young girl during a passenger bus.
 
-එම අවස්ථාවේ කොන්දොස්තරවරයා සහ මගීන් කිහිපදෙනෙකු පැමිණ සැකකරු අල්ලාගෙන තිබේ.
+The suspect, who was sitting in the paddy field in the Kandy-Wattegama road, had told the Kandy Police that the suspect had been cut off in a half of his band's faces.
 
-පසුව සැකකරුව එම බස් රථයෙන්ම ගෙනැවිත් මහනුවර පොලීසියට භාරදී තිබුණි.
+The youngest passengers were asked to shoot his hair from Katugastota-Wattarathna Junction.
+
+The conductor and several passengers came and seized the suspect.
+
+The suspect was later brought by the bus and handed over to the Kandy Police.
 
 ◼️
 
 [Data](articles/454866bb.json)
+
+[Extended Data](ext_articles/454866bb.ext.json)
+
+---
+
+### நேட்டோவை நம்பி நிற்கும் உக்ரேன்
+
+*2024-07-14 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188440) · `ta`
+
+நேட்டோவின் இராணுவ உதவிகளால் உக்ரேனில் போர் நடவடிக்கைகள் தீவிரமாகுவதால் நிலைமைகள் ஆபத்தாகும் சூழல் உருவெடுக்கும் என்று மொஸ்கோ எச்சரித்துள்ளது. நேட்டோவிலுள்ள முக்கிய நாடுகளின் ஆளும் தலைமைகளின் உக்ரேனுக்கான இராணுவ உதவிகளானது ரஷ்யாவுடனான நேரடி யுத்தத்துக்கான முடிவு என்றே ரஷ்யா கூறியுள்ளது.
+
+◼️
+
+[Data](articles/4636d607.json)
 
 ---
 
@@ -128,43 +182,57 @@ President Ranil Wickremesinghe has been awarded 47 land deeds.
 
 ---
 
-### ரூ. 2 கோடி மதிப்புள்ள கைக்கடிகாரம் பரிசு
+### Rs.. 2 crores worth of watch
 
 *2024-07-14 14:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2-கோடி-மதிப்புள்ள-கைக்கடிகாரம்-பரிசு/175-340372) · `ta`
 
-தொழில் அதிபர் முகேஷ் அம்பானியின் செல்ல மகன் ஆனந்தின் திருமணம் ஜூலை 12ம் திகதி பிரமாண்டமாக நடந்தது. அந்த திருமணத்தில் திரையுலக பிரபலங்கள் பலர் கலந்து கொண்டார்கள்.திருமணத்தன்று ரூ. 54 கோடி மதிப்புள்ள கைக்கடிகாரத்தை ஆனந்த் அம்பானி அணிந்திருந்தார்.
+At Mukesh Ambani's wedding, Anand Ambani wore a Rs. 2 crore Audemars Piguet watch, gifting it later. Celebrities like Shah Rukh Khan, Ranveer Singh, and Arjun Kapoor were present.
 
-இந்நிலையில் சிறப்பு விருந்தினர்கள் சிலருக்கு Audemars Piguet லிமிடட் எடிஷன் கைக்கடிகாரத்தை பரிசாக கொடுத்திருக்கிறார் ஆனந்த் அம்பானி.
+🟩
 
-அந்த கைக்கடிகாரத்தின் விலை ரூ. 2 கோடி மட்டுமே. விலை உயர்ந்த கைக்கடிகாரத்தை அணிந்து சிலர் சேர்ந்து எடுத்த புகைப்படம் வெளியாகியுள்ளது.
+Anand's marriage to businessman Mukesh Ambani's marriage took place on July 12. Many celebrities attended the wedding.. Anand Ambani wore a watch worth Rs 54 crore.
 
-அந்த புகைப்படத்தில் ரூ. 2 கோடி மதிப்புள்ள கைக்கடிகாரத்தை அணிந்த 9 கைகள் மட்டும் தான் தெரிகின்றன.
+In this case, Anand Ambani has gifted the Audemars Piguet Limited Edition watch.
 
-ஆனந்த் அம்பானிக்கு ரொம்ப பிடித்த பாலிவுட் சூபப்ர் ஸ்டார் ஷாருக்கான், நடிகர் ரன்வீர் சிங், போனி கபூரின் மகனும், நடிகருமான அர்ஜுன் கபூர், நடிகர் ஜாவித் ஜாஃப்ரியின் மகன் மீசான், ஜான்வி கபூரின் காதலர் ஷிகர் பஹாரியா, அவரின் சகோதரர் வீர் பஹாரியா உள்ளிட்டோருக்கு அந்த விலை உயர்ந்த வாட்ச் கிடைத்திருக்கிறது.
+The price of that watch is Rs.. 2 crores only. The photo taken by some people wearing an expensive watch has been revealed.
+
+In that photo of Rs.. Only 9 hands wearing a watch worth Rs 2 crore.
+
+Anand Ambani's favorite Bollywood Super Star Shah Rukh Khan, actor Ranveer Singh, Bonnie Kapoor's son, Arjun Kapoor, actor Javid Jafri's son Meesan, Jhanvi Kapoor's lover Shikhar Baharia and his brother Veer Baharia.
 
 ◼️
 
 [Data](articles/812b3b3d.json)
 
+[Extended Data](ext_articles/812b3b3d.ext.json)
+
 ---
 
-### பிரதிவாதியை விடுவித்தவர் கைது
+### Arrested who released the defendant
 
 *2024-07-14 14:46:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதிவாதியை-விடுவித்தவர்-கைது/175-340371) · `ta`
 
-நீதிமன்றத்தில் விசாரணை நடைபெற்றுக்கொண்டிருக்கும் வழக்கு ஒன்றின் பிரதிவாதியை சகல குற்றச்சாட்டுகளில் இருந்தும் விடுத்தவர் கைது செய்யப்பட்டுள்ளார்.
+A court defendant was arrested for allegedly forging signatures and defrauding Rs 35 lakhs. The suspect, a former court office assistant, claimed to be an employer of the Attorney General's Department and the Pudukkadai High Court. Involved in fraudulent activities, including fake documents related to a traffic ban and airline issues, the individual was apprehended after attempting to evade capture by moving between residences. His arrest, along with his wife's, was facilitated based on received information.
 
-நீதவானின் கையொப்பத்தையும் போலியாக இட்டு, வழக்கு அறிக்கையையும் பெற்றுக்கொடுத்து, 35 இலட்சம் ரூபாயை மோசடி செய்தார் என்றக் குற்றச்சாட்டின் கீ​ழே இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-நீர்கொழும்பு விசேட குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவினால் ஞாயிற்றுக்கிழமை (14) காலை கைது செய்யப்பட்ட இந்த நபர், நீதிமன்றத்தின் முன்னாள் சேவையாளர் ஆவார்.
+The defendant of a lawsuit that is being heard in court has been arrested on all allegations.
 
-அவர்,  வெலிசர  நீதிமன்றத்தில் அலுவலக உதவியாளராகப் பணியாற்றியவர், இவ்வாறான தவறான மோசடிகளைச் செய்து வேலையிழந்து சிறையில் அடைக்கப்பட்டு பிணையில் விடுவிக்கப்பட்டவர் ஆவார் என்பது குறிப்பிடத்தக்கது.
+He has been arrested for allegedly defrauding the signature of the magistrate and defrauding Rs 35 lakhs.
 
-தான் சட்டமா அதிபர் திணைக்களம் மற்றும் புதுக்கடை மேல் நீதிமன்றத்தில் தோலுக்கு முதலாளி என தெரிவித்தே இவ்வாறான மோசடியில் ஈடுபட்டுள்ளார்.
+The man, who was arrested on Sunday morning by a group of officials of the Negombo Special Criminal Investigation Division, is a former servant of the court.
+
+It is noteworthy that he was the office assistant in the Welisara Court and was released on bail by committing such false scams.
+
+He is involved in such fraud, claiming that he is the employer of the Attorney General's Department and the Pudukkadai High Court.
+
+In a case filed by the authorities of the Katunayake Airport Criminal Investigation Department (CID) against a resident of the Wennappuwa area, he is involved in the fraudulently involved in fake documents and prosecution documents to remove the airline.
 
 ...
 
 [Data](articles/bbab0416.json)
+
+[Extended Data](ext_articles/bbab0416.ext.json)
 
 ---
 
@@ -317,6 +385,22 @@ Gamini B was detained at the Colombo Prison in the Colombo Prison. Dissanayake a
 [Data](articles/b0ae860d.json)
 
 [Extended Data](ext_articles/b0ae860d.ext.json)
+
+---
+
+### டிரம்ப் உயிர் தப்பியமை குறித்து நிம்மதி வெளியிட்டார் அவுஸ்திரேலிய பிரதமர் - ஜனநாயகத்தில் வன்முறைக்கு இடமில்லை என கருத்து
+
+*2024-07-14 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188423) · `ta`
+
+முன்னாள் அமெரிக்க ஜனாதிபதி துப்பாக்கி பிரயோகத்திலிருந்து உயிர்தப்பியமை குறித்து நிம்மதியடைந்துள்ளதாக அவுஸ்திரேலிய பிரதமர் அன்டனி அல்பெனிஸ் தெரிவித்துள்ளார்.
+
+காசா யுத்தம் தொடர்பில் அவுஸ்திரேலிய நாடாளுமன்ற உறுப்பினர்களின் அலுவலகங்களிற்கு வெளியே ஆர்ப்பாட்டங்கள் அதிகரிப்பதையும் டிரம்ப்மீதான தாக்குதலையும் தொடர்புபடுத்தி கருத்து வெளியிட்டுள்ள அவுஸ்திரேலிய பிரதமர் இவ்வாறான சம்பவங்கள் அதிகரிக்கலாம் இதன் காரணமாகவே இவ்வாறான சம்பவங்களை எந்த தயக்கமும் இன்றி எதிர்க்க வேண்டும் என குறிப்பிட்டுள்ளார்.
+
+அரசியல் வன்முறைகள் அதிகரிப்பதற்கான சாத்தியக்கூறுகள் குறித்து கரிசனை வெளியிட்டுள்ள அவுஸ்திரேலிய பிரதமர் நாங்கள் விவாதத்தின் உணர்ச்சியின் அளவை குறைக்கவேண்டும்,சொல்லாட்சியை அதிகரிப்பதன் மூலம் எந்த பயனும்கிட்டப்போவதில்லை என குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/92946023.json)
 
 ---
 
@@ -2219,69 +2303,5 @@ The accident had occurred when the car slips with heavy rains and collided with 
 [Data](articles/17319fb7.json)
 
 [Extended Data](ext_articles/17319fb7.ext.json)
-
----
-
-### Israeli attack in the area declared as a security zone - 71 Palestinians killed
-
-*2024-07-13 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188374) · `ta`
-
-In an Israeli attack in Almavasi, Han Unicer, Gaza, 71 Palestinians were killed, including a senior Hamas leader. The area, designated a security zone by Israel, experienced significant destruction, likened to an earthquake by witnesses.
-
-🟩
-
-71 was killed in an Israeli attack in Almavasi area in Han Unicer, Gaza.
-
-The attacks were carried out in the area where the Israeli military declared the Security Zone.
-
-The Israeli army has said that the attack was targeted by a senior Hamas Senior leader.
-
-One person who witnessed the incident told the BBC that the area where the attack took place was seen as an earthquake.
-
-◼️
-
-[Data](articles/6a5f29dc.json)
-
-[Extended Data](ext_articles/6a5f29dc.ext.json)
-
----
-
-### MP Dilan Perera’s vehicle involved in accident on expressway
-
-*2024-07-13 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100485/mp-dilan-pereras-vehicle-involved-in-accident-on-expressway) · `en`
-
-The vehicle in which MP Dilan Perera was travelling has met with an accident near the Galanigama interchange of the Southern Expressway, Ada Derana reporter said.
-
-It is reported that the former minister was unharmed, however, another person who was travelling in the vehicle had sustained injuries in the accident.
-
-Kalutara – South Police together with the Expressway Police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/559b14a3.json)
-
-[Extended Data](ext_articles/559b14a3.ext.json)
-
----
-
-### Pakistan’s Imran Khan, wife acquitted in unlawful marriage case
-
-*2024-07-13 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100484/pakistans-imran-khan-wife-acquitted-in-unlawful-marriage-case) · `en`
-
-A Pakistan court acquitted former Prime Minister Imran Khan and his wife on Saturday on charges of unlawful marriage, a day after his party won more seats in parliament, ramping up pressure on the country’s fragile government.
-
-“Imran Khan and Bibi sahiba are acquitted,” Khan lawyer Naeem Panjutha posted on X, using an honorific for Khan’s wife, Bushra Khan, also known as Bushra Bibi.
-
-Khan’s Pakistan Tehreek-e-Insaf (PTI) party said there were no more cases pending against Khan, 71, to keep him in jail after the acquittal by the court in the capital Islamabad.
-
-The couple were sentenced to seven years in February when a court found them guilty of breaking Islamic law by failing to observe the required interval between Bibi’s divorce from a previous marriage and her marriage to Khan.
-
-It was not immediately clear whether Khan and Bibi, both in jail, would be released following Saturday’s decision.
-
-...
-
-[Data](articles/6cc860ac.json)
-
-[Extended Data](ext_articles/6cc860ac.ext.json)
 
 ---

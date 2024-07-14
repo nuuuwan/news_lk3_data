@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 12:53:13**
+As of **2024-07-14 13:05:31**
 
 ## Newspaper Stats
 
-*Scraped **35,167** Articles*
+*Scraped **35,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,166
-adaderanalk | 4,045
+adaderanalk | 4,046
 tamilmirrorlk | 4,228
 dailymirrorlk | 4,733
 virakesarilk | 5,487
@@ -26,21 +26,47 @@ adaderanasinhalalk | 5,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,161 (100.0%) of 35,167 articles have been extended.
+35,167 (100.0%) of 35,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### கொடையாளர் மாநாடு யாருக்காக?
+### Korean woman drowns in seas off Mirissa
+
+*2024-07-14 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100496/korean-woman-drowns-in-seas-off-mirissa) · `en`
+
+A South Korean national woman has drowned in the seas off Mirissa in Weligama police division, the Police Media Division said.
+
+Police mentioned that the incident had occurred last evening (13).
+
+A group of coast guards along with lifeguards, had managed to bring her ashore and rushed her to the Matara District General Hospital.
+
+However, the foreigner was pronounced dead upon admission to the hospital, according to police.
+
+The deceased woman has been identified as a 37-year-old from South Korea.
+
+◼️
+
+[Data](articles/caea532e.json)
+
+---
+
+### For whom?
 
 *2024-07-14 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/188416) · `ta`
 
-“சஜித் பிரேமதாச சர்வதேச கொடையாளர் மாநாட்டை நடத்தப்போவதாக கூறியிருந்தாலும், இனப்பிரச்சினைக்கு தீர்வு காணப்படாது மாநாட்டை முன்னெடுப்பதற்கு சர்வதேச சமூகம் இணங்க வேண்டும்”
+Sajith Premadasa plans an International Donor Conference but emphasizes the need for the international community to attend despite no resolution to the ethnic issue being present.
+
+🟩
+
+“Although Sajith Premadasa has said that he will hold the International Donor Conference, the international community must comply with the meeting without a solution to the ethnic problem.”
 
 ◼️
 
 [Data](articles/7b24bdb9.json)
+
+[Extended Data](ext_articles/7b24bdb9.ext.json)
 
 ---
 
@@ -48,19 +74,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-07-14 12:12:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்துக்கு-இலவச-விசா/175-340367) · `ta`
 
-இலங்கை உட்பட 93 நாடுகள் மற்றும் பிரதேசங்களில் இருந்து வரும் பயணிகளுக்கு தாய்லாந்தில் நாளை ஜூலை 15ஆம் திகதி முதல் விசா இன்றி நுழைய அனுமதி வழங்கப்பட்டுள்ளது.
+Starting July 15, travelers from 93 nations, including Sri Lanka, can visit Thailand visa-free, marking the first time Sri Lankans don't need visas. This reciprocity follows Sri Lanka's policy of granting Thai citizens visa-free entry. All visitors must prove financial stability, accommodation, and return tickets. The initiative aims to boost tourism and facilitate short-term business and study stays, especially for Thai graduates who can stay for a year post-graduation for research or related activities.
 
-இலங்கையர்கள் விசா பெறாமல் தாய்லாந்துக்கு செல்வது இதுவே முதல் முறை. தாய்லாந்து குடிமக்கள், விசா இல்லாமல் இலங்கைக்கு வருவதற்கு ஏற்கெனவே இலங்கை அனுமதி வழங்கியுள்ளது.
+🟩
 
-தாய்லாந்தின் உள்துறை அமைச்சகத்தின் கூற்றுப்படி, விசா அனுமதி பெற்ற நாடுகளிலிருந்து வரும் பயணிகள் 30 முதல் 60 நாட்கள் வரை நாட்டில் தங்கலாம். எவ்வாறாயினும், அனைத்து பயணிகளிடமும் பணம், தங்குமிடம் மற்றும் திரும்புவதற்கு/ டிக்கெட்டுகளுக்கான சான்றுகள் இருக்க வேண்டும்.
+Travelers from 93 countries and areas, including Sri Lanka, have been granted permission to enter Thailand without a visa from July 15.
 
-இந்த நாடுகளைச் சேர்ந்தவர்கள் சுற்றுலாப் பயணிகளாகவோ அல்லது குறுகிய கால வணிக நோக்கங்களுக்காகவோ வரவேற்கப்படுவார்கள் .
+This is the first time that Sri Lankans go to Thailand without receiving visa. Sri Lanka has already granted permission to come to Sri Lanka without a visa.
 
-மேலும் தாய்லாந்தில் இளங்கலைப் பட்டம் அல்லது அதற்கு மேல் பட்டம் பெறும் மாணவர்கள், பட்டப்படிப்புக்குப் பிறகு ஒரு வருடம் தங்கி வேலை தேட, தாய்லாந்திற்குள் பயணம் செய்ய அல்லது ஆராய்ச்சி போன்ற பிற தொடர்புடைய நடவடிக்கைகளை மேற்கொள்ள தாய்லாந்து அனுமதிக்கிறது.
+According to Thailand's Home Ministry. However, all passengers should have proof of money, shelter and return/ tickets.
+
+People from these countries will be welcomed as tourists or short -term business purposes.
+
+Also, Thailand allows students who graduate or higher in Thailand, allowing them to stay for a year after graduation, travel to Thailand or research other related activities.
 
 ◼️
 
 [Data](articles/93241994.json)
+
+[Extended Data](ext_articles/93241994.ext.json)
 
 ---
 
@@ -84,31 +116,47 @@ Furthermore, the Foreign Affairs State Minister stressed that the people in the 
 
 ---
 
-### தேசிய தற்கொலையை  நோக்கி நகரும் இஸ்ரேல்
+### Israel is moving towards national suicide
 
 *2024-07-14 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188403) · `ta`
 
-இஸ்ரேலிய ஆயுதப்படைகளின் தளபதி இராணுவத்துக்கு ஆளனி பற்றாக்குறை ஏற்பட்டுள்ளதாக அறிவித்துள்ளார். காஸாவில் ஹமாஸுடனான மோதலில் அது கணிசமான வீரர்களை தொடர்ந்து இழந்து வருகின்றது. அரசாங்கத்துக்கு பொது மக்களின் எதிர்ப்பு அதிகரித்து வருவதாலும் இஸ்ரேல் பிரதமருக்கும் அவரின் பாதுகாப்பு அமைச்சருக்கும் இடையில் வெளிப்படையாக முறுகல் நிலை அதிகரித்துள்ளதாலும் இராணுவத்துக்கு ஆட்சேர்ப்பு செய்துகொள்வதிலும் சிக்கல் ஏற்பட்டுள்ளது.
+Israel faces a crisis: its military suffers losses in conflicts with Hamas, exacerbated by public opposition and leadership issues affecting recruitment.
+
+🟩
+
+The Commander of the Israeli Armed Forces has announced that the army has a shortage. It continues to lose considerable players in the conflict with Hamas in Gaza. The rise of public opposition to the government and the rise of the Israeli prime minister and his defense minister has been a problem with the recruitment of the military.
 
 ◼️
 
 [Data](articles/fcfaca93.json)
 
+[Extended Data](ext_articles/fcfaca93.ext.json)
+
 ---
 
-### தேசிய மக்கள் சக்திக்கு சிறுபான்மையினரின் ஆதரவு இல்லை என்பது போட்டி கட்சிகள் பரப்பும் கதை - முஸ்லீம் மக்கள் பெரும் ஆதரவை வெளிப்படுத்துகின்றனர் - அனுரகுமார
+### The story of the rival parties is spreading the support of the minority for national people's power - the Muslim people express great support - Anuragumara
 
 *2024-07-14 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188415) · `ta`
 
-தேசிய மக்கள் சக்திக்கு தமிழ் மற்றும் முஸ்லீம் சமூகங்களின் ஆதரவு இல்லை என்பது போட்டி அரசியல் கட்சிகளால் பரப்பப்படும் மற்றுமொரு கதை என தெரிவித்துள்ள ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க ஆனால் நாங்கள் அரசியல் மாற்றமொன்றை அவதானித்துள்ளோம் , குறிப்பாக முஸ்லீம் சமூகத்தினர் மத்தியில் இந்த மாற்றம் அதிகளவில் தென்படுகின்றது என குறிப்பிட்டுள்ளார்.
+Rival parties highlight minority support for national power, especially Muslims. JVP leader Anura Kumaratisanayake claims lack of support for Tamil and Muslim communities, but notes a shift towards national power in the South and East among Muslims. He emphasizes the importance of reaching out to all communities and criticizes political corruption and nepotism. Another group opposes national power and corrupt family rule, indicating a divided political landscape.
 
-தெற்கிலும் கிழக்கிலும் தேசியமக்கள் சக்தி குறித்து முஸ்லீம்கள் பெரும் ஆர்வத்தை வெளிப்படுத்திவருகின்றனர் என மேலும் தெரிவித்துள்ள அனுரகுமாரதிசநாயக்க  அவர்களை நோக்கி செல்வதில் நாங்கள் குறிப்பிடத்தக்க வெற்றிபெற்றுள்ளோம் எனவும் தெரிவித்துள்ளார்.
+🟩
 
-வடக்குகிழக்கிற்கு எங்கள் செய்தியை மேலும் உரத்தவிதத்தில் தெரிவிக்கவேண்டியதன் அவசியத்தை நாங்கள் ஏற்றுக்கொள்கின்றோம் என சண்டேடைம்ஸிற்கு தெரிவித்துள்ள அவர் அரசாங்கத்தின் அரசியல்சாந்தப்படுத்தல் முறையை போல இல்லாமல் நாங்கள் எங்கள் அரசியல் நோக்கை தீவிரமாகவும் ஆர்வத்துடனும் தெரிவிப்பதற்கு முன்னுரிமையளிக்கின்றோம் எனவும் குறிப்பிட்டுள்ளார்.
+JVP leader Anura Kumaratisanayake, who has said that there is no support for the Tamil and Muslim communities of the national people, is another story that is spread by rival political parties, but we have observed a political change, especially among the Muslim community.
+
+He added that Muslims are expressing their interest in the power of the nationalities in the South and East, ”he said.
+
+He told the Sandegims that we accept the need to further report our message to the North East, and we are prioritizing our political motive, unlike the government's politics system.
+
+He noted that these efforts to continue to get the support of all communities are essential.
+
+He said that many individuals and candidates of political parties are contesting in the upcoming presidential election, representing corruption, family politics and family members and colleagues to be appointed beyond the colors of a camp parties.
 
 ...
 
 [Data](articles/a36d7548.json)
+
+[Extended Data](ext_articles/a36d7548.ext.json)
 
 ---
 
@@ -212,23 +260,29 @@ A Trump supporter who participated in the rally after Trump was killed in minor 
 
 ---
 
-### கூரையின் மீதிருந்தே டிரம்ப் மீது தாக்குதல்
+### Attack on Trump from the rest of the roof
 
 *2024-07-14 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரையின்-மீதிருந்தே-டிரம்ப்-மீது-தாக்குதல்/175-340366) · `ta`
 
-முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் மீது துப்பாக்கி சூடு தாக்குதல் மேற்கொண்ட துப்பாக்கிதாரி , பேரணி நடைபெற்ற இடத்திலிருந்து 400 அடி தூரத்தில் உள்ள கட்டிடத்தின் மேற்கூரையில் இருந்தே தாக்குதலை மேற்கொண்டுள்ளார்.
+A gunman, identified as 20-year-old Thomas Matthew Crooks, attacked former President Donald Trump from a rooftop, 400 feet away during a rally. Security forces responded, killing the shooter and injuring three others, including a Trump supporter. Current US President Joe Biden phoned Trump, who was hospitalized afterward.
 
-டிரம்ப் மீது தாக்குதல் மேற்கொண்டவர் தாமஸ் மேத்யூ க்ரூக்ஸ் என்ற 20 வயதுடைய இளைஞர் என  நியூயார்க் போஸ்ட் செய்தி சேவை தகவல் வெளியிட்டுள்ளது.
+🟩
 
-உடனடியாகச் செயல்பட்ட பாதுகாப்புப் படையினர் துப்பாக்கிச் சூடு நடத்திய நபரை சுட்டுக் கொன்றுள்ளதுடன் அவர் தீவிரவாத கும்பலைச் சேர்ந்தவரா அல்லது வெளிநாட்டுக் கூலிப்படையைச் சேர்ந்தவரா என்பது தொடர்பிலான மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+The gunman, who fired former President Donald Trump, has been attacked from the roof of the building, 400 feet away from the rally.
 
-துப்பாக்கிச் சூட்டுக்கு இலக்காகி வைத்தியசாலையில் அனுமதிக்கப்பட்ட டிரம்ப்புடன் தற்போதைய அமெரிக்க ஜனாதிபதி ஜோ பைடன் தொலைபேசி மூலம் உரையாடியதாகவும் தகவல் வெளியாகியுள்ளது.
+New York Post News Service has reported that Thomas Matthew Crooks, a 20 -year -old youth, who attacked Trump.
 
-துப்பாக்கிச்சூட்டில் டிரம்ப் சிறு காயங்களுக்குள்ளான நிலையில் பேரணியில் பங்கேற்ற டிரம்ப் ஆதரவாளர் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் இருவர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் .
+Immediately after the security forces, the security forces shot and killed a man who fired and are conducting further investigations into whether he belongs to the extremist gang or whether he belongs to the foreign mercenary.
+
+It is also reported that the current US President Joe Bidan has telephoned Trump, who was admitted to the hospital.
+
+A Trump supporter who participated in the rally after Trump was killed in minor injuries in the shooting and two others were injured and admitted to the hospital.
 
 ◼️
 
 [Data](articles/d48e42b6.json)
+
+[Extended Data](ext_articles/d48e42b6.ext.json)
 
 ---
 
@@ -278,21 +332,29 @@ Investigations have revealed that the accidents had been on the occasion as a si
 
 ---
 
-### බසයේ ගමන් කළ තරුණියකගේ කෙස් වැටියෙන් අඩියක් පමණ කපා දැමූ මවුලවි අල්ලයි
+### Moulavi arrested about a foot fence
 
 *2024-07-14 11:11:33* · [`adalk`](https://www.ada.lk/breaking_news/බසයේ-ගමන්-කළ-තරුණියකගේ-කෙස්-වැටියෙන්-අඩියක්-පමණ-කපා-දැමූ-මවුලවි-අල්ලයි/11-410770) · `si`
 
-බස් රථයක ගමන් කරමින් සිටි 27 හැවිරිදි තරුණියකගේ කෙස්කලඹේ අඩියක පමණ ප්‍රමාණයක් කතුරක් භාවිතා කරමින් කපා ඉවත් කළ බව කියන මුරුතලාව ප්‍රදේශයේ පල්ලියක මවුලවිවරයෙකු බව කියන පුද්ගලයෙකු මහනුවර මූලස්ථාන පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+A 27-year-old woman was arrested after her hair was cut off on a bus from Katugastota to Kandy. The incident was filmed. She was returning from the Madawala area when it happened. The suspect, from Dehilangama, was also arrested and due to appear in court. Further investigations are being conducted by the police.
 
-එම තරුණිය කටුගස්තොට සිට මහනුවර බලා ධාවනය වෙමින් තිබූ බස් රථයක අසුන් ගැන සිටියදී එම අසුනේ පිටුපස අසුනේ සැකකරු වාඩිවී සිටිමින් එසේ ඇයගේ කොණ්ඩය කපා දමා ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇති අතර සිද්ධියට මුහුණ දුන් තරුණිය එම අවස්ථාවේදීම ඇයගේ ජංගම දුරකථනයෙන් සැකකරු සහ ඔහු විසින් කපා දැමූ කොණ්ඩයේ කොටසද වීඩියෝ ගත කොට තිබුණි.
+🟩
 
-මඩවල ප්‍රදේශයේ පදිංචි එම තරුණිය කිසියම් අවශ්‍යතාවයක් සඳහා මහනුවර බලා ගමන් කරමින් සිටියදී සිද්ධියට මුහුණ දී ඇති අතර ඇයගේ දැනුම්දීමට අනුව බස් රථයේ මගීන් විසින් සැකකරු අල්ලා පොලිසියට භාරදී තිබේ.
+Kandy headquarters has arrested a mother of a molewoman in a church in a church, a 27-year-old girl who was traveling on a bus.
 
-එසේ අත්අඩංගුවට ගත් සැකකරු මුර්තලාව දෙහිඅංග උතුර ප්‍රදේශයේ පදිංචිකරුවකු වන අතර ඔහු ඊයේ (14) අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබූ අතර ඔහු මානසික රෝග වෛද්‍යවරයකු හමුවට ඉදිරිපත් කිරීමට උසාවියේ අවසරය පතන බව පොලිස් ප්‍රකාශකයකු පැවසීය.
+Police investigations have revealed that the girl was situated from Katugastota to Kandy and cut off his hair.The part had also been videoed.
 
-...
+The girl from the Madawala area has faced the incident while traveling to Kandy for any need and was handed over to the police to the police.
+
+The suspect was a resident of Dehilangama, who was arrested and was to be produced before court yesterday and was to be produced before courts yesterday (14), police spokesman said.
+
+The headquarters of the Headquarters Anuruddha Bandaranayake is conducting further investigations.
+
+◼️
 
 [Data](articles/7ce0d2a9.json)
+
+[Extended Data](ext_articles/7ce0d2a9.ext.json)
 
 ---
 
@@ -2253,27 +2315,5 @@ On the Hindu Ambani and Radhika Merchant, the first day of the wedding, the Gree
 [Data](articles/031e7d34.json)
 
 [Extended Data](ext_articles/031e7d34.ext.json)
-
----
-
-### Suspect arrested over burglary of ex-cricketer Sachithra Senanayake’s house
-
-*2024-07-13 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100479/suspect-arrested-over-burglary-of-ex-cricketer-sachithra-senanayakes-house-) · `en`
-
-Police have apprehended the suspect involved in the burglary of former Sri Lankan cricketer Sachithra Senanayake’s house in the Kalalgoda area of Thalangama.
-
-The arrest follows a thorough investigation into the burglary incident, which occurred on the night of June 22, 2024, the police said.
-
-The suspect, a 34-year-old resident of Thalangama, was taken into custody after being identified through CCTV footage. The stolen items, including a laptop, two tablet PCs, five expensive watches, four valuable bracelets, two rings, and Rs 10,000 in cash, were recovered from the suspect’s house, according to police.
-
-The motorcycle used in the theft has also been taken into police custody.
-
-Police said that the suspect has a history of criminal activity and had been released on bail after serving time for multiple burglaries in the Kottawa, Thalangama, and Maharagama areas.
-
-...
-
-[Data](articles/e97e3f7f.json)
-
-[Extended Data](ext_articles/e97e3f7f.ext.json)
 
 ---

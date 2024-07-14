@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 16:20:06**
+As of **2024-07-14 16:35:49**
 
 ## Newspaper Stats
 
-*Scraped **35,191** Articles*
+*Scraped **35,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,050
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,489
-adaderanasinhalalk | 5,869
+adaderanasinhalalk | 5,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,187 (100.0%) of 35,191 articles have been extended.
+35,191 (100.0%) of 35,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### නඩු පිට නඩු වැටුණත් පුරුද්ද අත්නොහරින ජාවාරම්කරු
+
+*2024-07-14 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198796) · `si`
+
+බලපිටිය, වළගෙදර ප්‍රදේශයේදී හෙරොයින් මිලි ග්‍රෑම් 6,340ක් සමග ඊයේ (13) අත්අඩංගුවට ගත් සැකකරුව ජූලි 19 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට බලපිටිය මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+මෙසේ රක්ෂිත බන්ධනාගාර ගත කරන ලද්දේ බලපිටිය, වළගෙදර පදිංචි නලින් මෙන්ඩිස් (40) නැමැති අයෙකි.
+
+සැකකරු හෙරෙයින් ජාවාරම්කරන අයෙකු බවත් සැකකරු සම්බන්ධයෙන් පොලීසිය අවධානයෙන් සිටි බවත් අම්බලන්ගොඩ පොලීසිය කියයි.
+
+මීට පෙරද හෙරොයින් සන්තකයේ තබා ගැනීම් සම්බන්ධයෙන් ඔහුට එරෙහිව නඩු 05ක් බලපිටිය මහෙස්ත්‍රාත් අධිකරණයේ හා මහාධිකරණයේ විභාග වෙමින් තිබෙන බවත් අම්බලන්ගොඩ පොලීසිය පැවසීය.
+
+සැකකරු සමග අහුන්ගල්ල, කොස්ගොඩ හෙරෙයින් ජාලයේ සම්බන්ධයක් තිබේද යන්න ගැනද පොලීසියේ අවධානය යොමුව තිබෙන බවද වාර්තා විය.
+
+◼️
+
+[Data](articles/7e951488.json)
+
+---
 
 ### SLC to fund cancer awareness with every six, boundary & wicket during LPL
 
@@ -51,6 +71,8 @@ The campaign titled “Strike with Hope: LPL Goes Pink for Breast Cancer Awarene
 ...
 
 [Data](articles/852c9358.json)
+
+[Extended Data](ext_articles/852c9358.ext.json)
 
 ---
 
@@ -144,15 +166,21 @@ The suspect was later brought by the bus and handed over to the Kandy Police.
 
 ---
 
-### நேட்டோவை நம்பி நிற்கும் உக்ரேன்
+### Ukraine to rely on NATO
 
 *2024-07-14 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188440) · `ta`
 
-நேட்டோவின் இராணுவ உதவிகளால் உக்ரேனில் போர் நடவடிக்கைகள் தீவிரமாகுவதால் நிலைமைகள் ஆபத்தாகும் சூழல் உருவெடுக்கும் என்று மொஸ்கோ எச்சரித்துள்ளது. நேட்டோவிலுள்ள முக்கிய நாடுகளின் ஆளும் தலைமைகளின் உக்ரேனுக்கான இராணுவ உதவிகளானது ரஷ்யாவுடனான நேரடி யுத்தத்துக்கான முடிவு என்றே ரஷ்யா கூறியுள்ளது.
+NATO's military aid to Ukraine worries Moscow, viewing it as a step towards direct conflict with Russia.
+
+🟩
+
+Moscow has warned that NATO's military aid will be a serious situation as war operations in Ukraine will be dangerous.. Russia has said that military aid to Ukraine of the ruling leaders of major countries in NATO is the result of the direct war with Russia.
 
 ◼️
 
 [Data](articles/4636d607.json)
+
+[Extended Data](ext_articles/4636d607.ext.json)
 
 ---
 
@@ -330,19 +358,31 @@ It has been mentioned that in the near future, the Napitimunai sub -post will be
 
 ---
 
-### මහේස්ත්‍රාත්ගේ අත්සන හොරට යොදා විත්තිකරුවෙක් නිදොස් කොට නිදහස් කරලා
+### A defendant has been acquitted of the signature of the magistrate
 
 *2024-07-14 13:47:00* · [`adalk`](https://www.ada.lk/breaking_news/මහේස්ත්‍රාත්ගේ-අත්සන-හොරට-යොදා-විත්තිකරුවෙක්-නිදොස්-කොට-නිදහස්-කරලා/11-410774) · `si`
 
-මීගමුව මහේස්ත්‍රාත් අධිකරණයේ විභාග වෙමින් පවතින නඩුවකට අදාළව එහි විත්තිකරු සියලුම චෝදනා වලින් නිදොස් කොට නිදහස් කර ඇති බව සදහන් කරමින් ,  මහේස්ත්‍රාත්වරයාගේ අත්සන ද ව්‍යාජ ලෙස සදහන් කර  නඩු වාර්තාවක් ලබා දී , රුපියල් ලක්ෂ 35 ක මුදලක් වංචනිකව ලබා ගත් හිටපු අධිකරණ සේවකයෙකු 07/14 දින උදෑසන මීගමුව විශේෂ අපරාධ විමර්ශන ඒකකයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+A defendant was acquitted in the Negombo Magistrate's Court after being accused of forgery involving a false magistrate's signature. This incident led to the arrest of several officers from the Negombo Special Criminal Investigation Unit, including a former judicial worker turned office assistant who had previously lost their job and faced imprisonment. The case involved allegations of fraudulent activities aimed at lifting a flight ban imposed by the Kathappuwa District of the Attorney General's Department and the Hulftsdal High Court of Colombo. The individual, now arrested, had sought to overturn this ban but was eventually apprehended and found hiding with their spouse in Wattala. Both individuals were scheduled to appear before the Negombo Magistrate's Court on July 14th, under the supervision of senior police officials including the Police Inspector General and the Negombo Superintendent of Police.
 
-මෙසේ අත් අඩංගුවට ගෙන ඇති පුද්ගලයා කළක් වැළිසර අධිකරණයේ කාර්යාල කාර්යය සහායකවරයෙකු  ලෙස සේවය කරමින් සිටියදී මෙවැනි වැරදි වංචා සිදු කර රැකියාව අහිමි වී සිර ගත ව සිටි පුද්ගලයෙකි .
+🟩
 
-තමන් නීතිපති දෙපාර්තමේන්තුවේ සහ කොළඹ අලුත්කඩේ මහාධිකරණයේ තෝල්ක මුදියන්සේ ලෙස හදුන්වා දෙමින් , වෙන්නප්පුව ප්‍රදේශයේ පදිංචි පුද්ගලයෙකුට එරෙහිව කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් පවරා තිබූ නඩුවකට අදාළව පනවා තිබූ ගුවන් ගමන් තහනම ඉවත් කර ගැනීම සදහා , මෙම කූඨ ලෙස සකස් කළ නඩු වාර්තාව ලබා දී  මෙම මුදල වංචනිකව ලබා ගෙන තිබුණි .
+The Magistrate's signature has been acquitted of all charges in the Negombo Magistrate's Court, falsely, a former judicial worker who was acquitted of Rs.A group of officers of the Negombo Special Criminal Investigation Unit have been arrested.
+
+The arrested person was a person who had lost their jobs and was imprisoned while serving as an offices' office assistant in the judiciary.
+
+To remove the flight ban on a case filed by the Kathappuwa District of the Attorney General's Department and the Hulftsda High Court of Colombo, the Katunayake Air Force Criminal Investigations (CID)The amount was fraudulently obtained.
+
+The residents of the Negombo Magistrate's Court have been diagnosed with the Registrar of the Negombo Magistrate's Court regarding the ban without leaving his flight ban.
+
+The Negombo Magistrate's Court has issued warrants to arrest the man.
+
+He has finally hidden with his wife at Wattala area in Wattala.Arrest had been done.
 
 ...
 
 [Data](articles/f9c71deb.json)
+
+[Extended Data](ext_articles/f9c71deb.ext.json)
 
 ---
 
@@ -404,19 +444,25 @@ Gamini B was detained at the Colombo Prison in the Colombo Prison. Dissanayake a
 
 ---
 
-### டிரம்ப் உயிர் தப்பியமை குறித்து நிம்மதி வெளியிட்டார் அவுஸ்திரேலிய பிரதமர் - ஜனநாயகத்தில் வன்முறைக்கு இடமில்லை என கருத்து
+### Australian Prime Minister - Australian Prime Minister
 
 *2024-07-14 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188423) · `ta`
 
-முன்னாள் அமெரிக்க ஜனாதிபதி துப்பாக்கி பிரயோகத்திலிருந்து உயிர்தப்பியமை குறித்து நிம்மதியடைந்துள்ளதாக அவுஸ்திரேலிய பிரதமர் அன்டனி அல்பெனிஸ் தெரிவித்துள்ளார்.
+Antony Albenez, Australia's PM, expressed relief over the shooting incident involving a former US president. He also commented on the rise of protests against the Gaza war, warning that such incidents could escalate without restraint. Concerned about potential political violence, he urged for less emotional debates and more rational discourse.
 
-காசா யுத்தம் தொடர்பில் அவுஸ்திரேலிய நாடாளுமன்ற உறுப்பினர்களின் அலுவலகங்களிற்கு வெளியே ஆர்ப்பாட்டங்கள் அதிகரிப்பதையும் டிரம்ப்மீதான தாக்குதலையும் தொடர்புபடுத்தி கருத்து வெளியிட்டுள்ள அவுஸ்திரேலிய பிரதமர் இவ்வாறான சம்பவங்கள் அதிகரிக்கலாம் இதன் காரணமாகவே இவ்வாறான சம்பவங்களை எந்த தயக்கமும் இன்றி எதிர்க்க வேண்டும் என குறிப்பிட்டுள்ளார்.
+🟩
 
-அரசியல் வன்முறைகள் அதிகரிப்பதற்கான சாத்தியக்கூறுகள் குறித்து கரிசனை வெளியிட்டுள்ள அவுஸ்திரேலிய பிரதமர் நாங்கள் விவாதத்தின் உணர்ச்சியின் அளவை குறைக்கவேண்டும்,சொல்லாட்சியை அதிகரிப்பதன் மூலம் எந்த பயனும்கிட்டப்போவதில்லை என குறிப்பிட்டுள்ளார்.
+Australian Prime Minister Antony Albenez has said that the former US president is relieved of the survival of the shooting.
+
+Commenting on the increase in demonstrations outside the offices of Australian lawmakers on the Gaza war, the Australian Prime Minister said that such incidents could increase without any hesitation.
+
+The Australian Prime Minister, who has expressed concern over the likelihood of increasing political violence, said that we should reduce the amount of emotion of the debate and increase the rhetoric.
 
 ◼️
 
 [Data](articles/92946023.json)
+
+[Extended Data](ext_articles/92946023.ext.json)
 
 ---
 
@@ -2285,17 +2331,5 @@ The results of the General IT Examination are obtained by visiting www.doenets.l
 [Data](articles/b72cc71d.json)
 
 [Extended Data](ext_articles/b72cc71d.ext.json)
-
----
-
-### Another Poem On Universal Human Rights
-
-*2024-07-13 17:06:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/another-poem-on-universal-human-rights/) · `en`
-
-◼️
-
-[Data](articles/0ed8f329.json)
-
-[Extended Data](ext_articles/0ed8f329.ext.json)
 
 ---

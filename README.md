@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 13:55:15**
+As of **2024-07-14 14:19:55**
 
 ## Newspaper Stats
 
-*Scraped **35,173** Articles*
+*Scraped **35,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,133 @@ islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,167
-adaderanalk | 4,047
-tamilmirrorlk | 4,228
+adaderanalk | 4,048
+tamilmirrorlk | 4,230
 dailymirrorlk | 4,733
 virakesarilk | 5,487
-adaderanasinhalalk | 5,865
+adaderanasinhalalk | 5,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,170 (100.0%) of 35,173 articles have been extended.
+35,175 (100.0%) of 35,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### ටැටූ මල්ලිගේ පාපොච්චාරණය - පොලිස් නිලධාරීන්ට මහජන ආරක්ෂක ඇමතිගෙන් අවවාද
+### ට්‍රම්ප් ට වෙඩිතැබූ පුද්ගලයාගේ ඡායාරූපය නිකුත් කෙරේ
 
-*2024-07-14 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198791) · `si`
+*2024-07-14 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198792) · `si`
 
-ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්තගේ ඝාතනය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් අදාළ ටැටූ ආයතනයේ හිමිකරුගෙන් මාධ්‍ය ඉදිරියේ තබාගෙන ප්‍රශ්න කිරීම සම්බන්ධව පොලිස් නිලධාරීන්ට මහජන ආරක්ෂක අමාත්‍යවරයා දැඩි ලෙස අවවාද කර තිබේ.
+අමෙරිකාවේ හිටපු ජනපති ඩොනල්ඩ් ට්‍රම්ප් ට වෙඩි ප්‍රහාරය එල්ල කළ බවට සැක කෙරෙන අයෙකු බුද්ධි අංශ ස්නයිපර් වෙඩික්කරුවෙකු විසින් එල්ල කරන ලද ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව තිබුණි.
 
-අදාළ ප්‍රශ්න කිරීම සම්බන්ධයෙන් චෝදනා එල්ල වී සිටින පොලිස් ප්‍රධානීන්ට සහ බස්නාහිර දකුණ පළාත භාර නියෝජ්‍ය පොලිස්පති ගයන්ත මාරපන මහතාට ටිරාන් අලස් අමාත්‍යවරයා විසින් එලෙස අවවාද කර ඇති බව වාර්තා වෙයි.
+ඔහුගේ ඡායාරූපය මේ වනවිට ජාත්‍යන්තර මාධ්‍ය විසින් නිකුත් කර තිබේ.
 
-එහිදී නියෝජ්‍ය පොලිස්පති ගයන්ත මාරපන මහතා අදාළ සිද්ධිය සම්බන්ධයෙන් අමාත්‍ය ටිරාන් අලස් මහතාට සිය කනගාටුව ප්‍රකාශ කර තිබේ.
+◼️
 
-මින් ඉදිරියට එවැනි ක්‍රියාවක් සිදුනොවීමට වගබලා ගන්නා බවට ද නියෝජ්‍ය පොලිස්පතිවරයා පොරොන්දු වී ඇති බව වාර්තා වෙයි.
-
-මේ අතර සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තගේ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයේ සිටින ටැටු ආයතනයේ හිමිකරුට විශේෂ ආරක්ෂාවක් ලබාදීමට පියවර ගෙන තිබේ.
-
-සැකකරු විසින් සිදුකළ ඉල්ලීමකට අනුව එම ආරක්ෂාව ලබාදී ඇති බව බන්ධනාගාර දෙපාර්තමේන්තුවේ මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා සඳහන් කළේය.
-
-...
-
-[Data](articles/b0ae860d.json)
+[Data](articles/7d54044c.json)
 
 ---
 
-### බස්නාහිර පළාතේ ත්‍රිරෝද ගාස්තු අඩුවෙන්නේ මෙහෙමයි
+### Three-wheeler fares reduced
+
+*2024-07-14 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100498/-three-wheeler-fares-reduced) · `en`
+
+The All-Island Three-Wheeler Drivers’ Association has decided to reduce the three-wheeler fares within the Western Province.
+
+Accordingly, the President of the association Lalith Dharmasekara stated that the three-wheeler fare per kilometre will be reduced by Rs. 10 from tomorrow (15).
+
+Speaking during a press conference held today (14), he mentioned that accordingly, the fare of Rs. 80 will be charged for the second kilometer onwards from tomorrow, while the fare for the first kilometer will remain at Rs. 100.
+
+However, he also added that a 15% increment will be added to these charges between 10.00 p.m. and 05.00 a.m. as usual.
+
+Furthermore, the President of the association expressed that the passengers have the opportunity to make complaints with the police, Consumer Affairs Authority or the Road Passenger Transport Authority regarding any inconvenience occur related to the matter with proper information.
+
+◼️
+
+[Data](articles/ef7320c2.json)
+
+---
+
+### Together
+
+*2024-07-14 13:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/மாறியது-நாய்பட்டிமுனை/74-340369) · `ta`
+
+The Nayapattimunai Sub Post Office, under the Kalmunai Main Post Office, was renamed to Nalpittimunai on April 4, 2024. This change was officially published in the Gazette on May 31, 2024, after being notified on May 5, 2024. The old post office bill has been removed according to the SRWMP Sathkumara's directory. It's expected that the post office will soon be referred to as Napitimunai.
+
+🟩
+
+In the past, the Nayapattimunai Sub Post Office under the control of the Kalmunai Main Post Office in the Akkaraipattu Divisional Postal Superintendent's Division has been renamed as the Nalpittimunai Sub Post Office from 2024.04.04.
+
+It is noteworthy that the name of the Gazette on 2024.05.31 was given to the notice of the Gazette notification on 2024.05.05.
+
+Accordingly, the old bill of the sub -post has been removed in accordance with the directory of the Old Bill Package Post Office, SRWMP Sathkumara.
+
+It has been mentioned that in the near future, the Napitimunai sub -post will be called.
+
+◼️
+
+[Data](articles/e42355d9.json)
+
+[Extended Data](ext_articles/e42355d9.ext.json)
+
+---
+
+### Tatu Malli's confession - Police officers warned of the police officers
+
+*2024-07-14 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198791) · `si`
+
+Minister Tiran Alles criticized police for aiding TATO, leading to the arrest of suspects linked to Club Wasantha. The Chief Prelate and DIG Gayantha Marapana apologized to him. Suspects including Surestra and Gamini B have been arrested and transferred to different prisons for security reasons.
+
+🟩
+
+The Minister of Defense has admonishes police officers with the assisting TATO to the media in front of the media from the suspects of the suspect in the suspect in suspicion of Club Wasantha Perera.
+
+It is reported that Minister Tiran Alles has been admonished by the Chief Prelate of the Police Chief of Police and the Western Province of Western Province.
+
+DIG Gayantha Marapana has expressed his regret to Minister Tiran Alles regarding the incident.
+
+It is reported that the Deputy Inspector General of Police has promised to ensure that there is no such act.
+
+Meanwhile, Surestra has been arrested and handed over to the owner of the Tot Institute owner in the remand of Club Wasantha alias.
+
+Prisons Department of Prisons, Commissioner of Prisons Body said that the security has been made by the suspect.. Dissanayake added.
+
+The suspect has been detained under a special security of another prison outside Colombo.
+
+Gamini B was detained at the Colombo Prison in the Colombo Prison. Dissanayake added.
+
+◼️
+
+[Data](articles/b0ae860d.json)
+
+[Extended Data](ext_articles/b0ae860d.ext.json)
+
+---
+
+### This will reduce three-wheeler fees in the Western Province
 
 *2024-07-14 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198790) · `si`
 
-බස්නාහිර පළාත තුළ හෙට (15) සිට ත්‍රිරෝද රථ ගාස්තු අඩුවීමක් සිදුකරන බව සමස්ත ලංකා ත්‍රිරෝද රථ රියදුරන්ගේ වෘත්තීය සමිතිය පවසයි.
+The All-Sri Lanka Treaters Drivers Association (GMOA) announced a reduction in three-wheeler fares for the Western Province, effective from tomorrow (15). Chairman Lalith Dharmasekera revealed that the fare for the second kilometer has been set at 90 rupees, while the first kilometer costs 100 rupees. Post-midnight rates see a 15% increase. Passengers are advised to report any discrepancies to relevant authorities.
 
-එහි සභාපති ලලිත් ධර්මසේකර මහතා සඳහන් කළේ ඒ අනුව දෙවන කිලෝමීටරය සඳහා මෙතෙක් අය කළ රුපියල් 100ක මුදල රුපියල් 90 දක්වා අඩු කර ඇති බවය.
+🟩
 
-කොළඹදී අද (14) පැවති මාධ්‍ය හමුවකට එක්වෙමින් ලලිත් ධර්මසේකර මහතා ඒ බව සඳහන් කළේය.
+The All-Sri Lanka Treaters Drivers Association (GMOA) says that a loss of three wheeler will be reduced to the Western Province tomorrow (15).
 
-...
+Chairman Lalith Dharmasekera said that the second kilometer has been reduced to 90 rupees.
+
+He was speaking at a media briefing held in Colombo today (14).
+
+"The first kilo of a three-wheeler in the Western Province can be charged Rs. 100 rupees. The second kilometer is Rs. 90. After 10 pm, the next morning was 15%. At that time, when it is. The nearest number should be given to the meters of concern for the meters. However, the thoughts of thought cannot be used. If the passenger is now an injustice, the police can inform the police, the Consumer Affairs Authority and the Road Passenger Transport Authority to achieve a series of injustice. We say no longer false murmurs, it is important to do so, it is important to become dangerous as Dinoseus. "
+
+◼️
 
 [Data](articles/c2e1db3a.json)
+
+[Extended Data](ext_articles/c2e1db3a.ext.json)
 
 ---
 
@@ -109,6 +185,30 @@ The deceased woman has been identified as a 37-year-old from South Korea.
 [Data](articles/caea532e.json)
 
 [Extended Data](ext_articles/caea532e.ext.json)
+
+---
+
+### Murder of woman who refuses to take a bath: Half mustache
+
+*2024-07-14 12:24:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குளிக்க-மறுத்த-பெண்-கொலை-அரை-மீசை-காரனுக்கு-226-ஆண்டுகள்-சிறை/50-340368) · `ta`
+
+Brian Steven Smith, 52, from Alaska, USA, was sentenced to 226 years in prison for murdering two women who refused his demands. The first victim, Kathleen Henry, was kidnapped, raped, and killed after her cell phone was stolen, containing videos of Smith torturing and sexually harassing another woman before her murder. The second victim, Veronica Abu Dukk, was lured to Smith's house under false pretenses, where he demanded she take a bath but killed her when she refused. This case sparked outrage and protests across the U.S., leading to Smith's conviction and lengthy prison term.
+
+🟩
+
+The incident in the United States has been sentenced to 226 years in prison, which is accused of murdering a woman who refused to take a bath.
+
+Brian Steven Smith (age 52) hails from Alaska, USA. In September 2019, a woman stole her cell phone. But Steven Smith has not lodged any complaint with the police.
+
+In the meantime, the woman who stole the cell phone was shocked by the video and photos of it. In a video there were scenes that Steven Smith was tortured and brutally murdered. Video and photos of the woman she had sexually harassed the woman before the murder were on the cell phone.
+
+Subsequently, the woman handed over the cell phone from Steven Smith to the police and told about the video and photos in it.. Police investigated videos related to murder revealed that Steven Smith had committed the murder just days before the cell phone was stolen.
+
+...
+
+[Data](articles/51720729.json)
+
+[Extended Data](ext_articles/51720729.ext.json)
 
 ---
 
@@ -1244,6 +1344,8 @@ One reason for the film’s  success was it’s title which evoked much interest
 
 [Data](articles/e71bb13b.json)
 
+[Extended Data](ext_articles/e71bb13b.ext.json)
+
 ---
 
 ### Weere, the Blind Scholar, at Peradeniya
@@ -2185,113 +2287,5 @@ The Election Commission and its members, the General Secretary of Parliament and
 [Data](articles/305a0f85.json)
 
 [Extended Data](ext_articles/305a0f85.ext.json)
-
----
-
-### Request of Niroshan Country lost the sight due to drug
-
-*2024-07-13 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198766) · `si`
-
-Niroshan, a 19-year-old from Sri Lanka, lost his sight due to a drug overdose. Despite several surgeries, his vision hasn't improved. Doctors recommend further treatment in India costing over Rs. 23 lakhs, which his family can't afford. A fundraising effort aims to help Niroshan regain his sight.
-
-🟩
-
-When the 16-year-old child had lost the sight of a 16-year-old hospital, it was a controversial incident.
-
-Lenin Niroshan, a resident of the Gampaha, Kaliyawawatta, which faced the incident was 19 years.
-
-With the same incident, he had almost disappointed in 2022, but he had more than the disappointment of his eyes.
-
-Lenin's surgical surgery, a germ was with no orright germs.
-
-Several surgeries have been performed since then, but not one or one of them.
-
-However, the recommendation of the doctors is that Lenin should be forwarded to a hospital in India to obtain completely.
-
-It takes up to Rs. 23 lakhs and his parents cannot find it.
-
-If you can collect the amount you want to get the sight of Lenin Niroshan.
-
-"Life's like staying up. I feel like living. "
-
-◼️
-
-[Data](articles/c4bbd9a9.json)
-
-[Extended Data](ext_articles/c4bbd9a9.ext.json)
-
----
-
-### Three arrests who came to steal the treasure
-
-*2024-07-13 15:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதையல்-திருட-வந்த-மூவர்-கைது/76-340326) · `ta`
-
-Three individuals were arrested by the Ginigathena police on suspicion of stealing treasure near a temple. The police, acting on a tip-off about a suspicious group, found them claiming to perform pooja. Their search revealed generator wires, gunpowder, tools, and religious items. Another group arrived but fled before further investigation.
-
-🟩
-
-Three persons were arrested by the Ginigathena police on suspicion of stealing the treasure on Thursday night near the Ginigathena Vihara.
-
-He said that a group of Ginigathena police officers went to the spot on the basis of information received by the 119 Emergency Department that a suspicious group was staying near an old temple in Kenilworth.
-
-Police went to the spot and held an investigation into the area and said that they had come to the place for the sake of pooja.
-
-Following the investigation, the official said that 04 generator wires, 250 grams of gun bombs, stone breaking equipment, wire cords and pooja items were discovered.
-
-Further investigations have been launched after another group has come to the group and the group has escaped.
-
-◼️
-
-[Data](articles/54d54c74.json)
-
-[Extended Data](ext_articles/54d54c74.ext.json)
-
----
-
-### A woman arrested in Kinniya
-
-*2024-07-13 14:54:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/கிண்ணியாவில்-பெண்-ஒருவர்-கைது/75-340325) · `ta`
-
-A woman was arrested in Kinniya for possessing 11 grams of ice drugs, following a search based on confidential intelligence. This isn't her first arrest; she was previously caught with drugs and released on bail. She will now face charges in court.
-
-🟩
-
-A woman has been arrested yesterday (12) with an ice drug area of ​​the Kinniya Police Division, according to the drug detention unit.
-
-The arrested was the woman from Kupa Nagar Kinniya 03. Police said 11 grams of Ice had been recovered from them.
-
-When the woman searched the woman on the basis of confidential information received by the Drug Prevention Unit, they said they had recovered ice drugs from her.
-
-Earlier, the woman was arrested with drugs and released on bail.
-
-The arrested woman will be produced before the court magistrate, police said.R
-
-◼️
-
-[Data](articles/e707a2ed.json)
-
-[Extended Data](ext_articles/e707a2ed.ext.json)
-
----
-
-### Glub Vasant murder case - Release of detainees
-
-*2024-07-13 14:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க்ளப்-வசந்த்-கொலை-விவகாரம்-கைதானவர்கள்-விடுவிப்பு/175-340324) · `ta`
-
-Three suspects detained in the Glub Vasant murder case were released after police found no direct link to the crime.
-
-🟩
-
-Three suspects have been released on suspicion of murdering Club Vasantha.
-
-Police spokesman Nihal Talduwa said that they were arrested yesterday by officials of the Western Province Southern Division Special Investigation Division.
-
-He also said that the three suspects were acquitted from the investigation, assuming that they were unrelated to the murder.. Remble
-
-◼️
-
-[Data](articles/feeef070.json)
-
-[Extended Data](ext_articles/feeef070.ext.json)
 
 ---

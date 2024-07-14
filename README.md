@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 11:19:59**
+As of **2024-07-14 11:35:59**
 
 ## Newspaper Stats
 
-*Scraped **35,150** Articles*
+*Scraped **35,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
-adalk | 3,163
+adalk | 3,164
 adaderanalk | 4,043
 tamilmirrorlk | 4,224
 dailymirrorlk | 4,733
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,144 (100.0%) of 35,150 articles have been extended.
+35,150 (100.0%) of 35,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### சிறுமிகள் துஷ்பிரயோகம்: ஆடிய ஆசிரியர் கைது
+### Girls Abuse: Arrested Teacher Arrested
 
 *2024-07-14 10:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிகள்-துஷ்பிரயோகம்-ஆடிய-ஆசிரியர்-கைது/175-340364) · `ta`
 
-நடன வகுப்பிற்கு வந்த சிறுமிகளை துஷ்பிரயோகம் செய்ததாக கூறப்படும் நடன வகுப்பு ஆசிரியர் ஒருவர் சனிக்கிழமை (13) கைது செய்யப்பட்டதாக ஹங்வெல்ல பொலிஸார் தெரிவித்தனர்.
+A dance teacher in Sri Lanka's Hangwella-Patewela area was arrested for allegedly sexually abusing female students and sharing explicit photos via WhatsApp. The 38-year-old suspect faces charges after multiple complaints were filed, including one with the Navagamuwa police. He was produced before the Homagama Magistrate's Court.
 
-ஹங்வெல்ல - படேவெல பிரதேசத்தை சேர்ந்த 38 வயதுடைய நடன ஆசிரியர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்டவர், தனது நடன வகுப்பிற்கு வந்த சிறுமிகளை அறைக்குள் அழைத்துச் சென்று பாலியல் துஷ்பிரயோகம் செய்துள்ளதுடன் வட்ஸ்அப் மூலம் ஆபாச புகைப்படங்களை அனுப்பியுள்ளார் எனவும் பொலிஸார் தெரிவித்தனர்.
+Hangwella police said that a dancer teacher who allegedly abused girls who had come to the dance class was arrested on Saturday (13).
 
-சந்தேகநபர் தொடர்பில் தலங்கம மற்றும் நவகமுவ பொலிஸாருக்கும் இவ்வாறான பாலியல் துஷ்பிரயோக முறைப்பாடுகள் கிடைத்துள்ளதாக ஹங்வெல்ல  பொலிஸ் நிலைய அதிகாரி ஒருவர் தெரிவித்தார்.
+A 38 -year -old dance teacher from Hangwella - Patewela area has been arrested.
 
-மேலும், கைது செய்யப்பட்ட சந்தேக நபர் ஹோமாகம நீதவான் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்தனர் .
+The arrested man has taken the girls who came to his dance class and sexually abused and sent them photos of pornography by WhatsApp.
+
+A Hangwella Police Station official said that the suspect and the Navagamuwa police have received such complaints.
+
+In addition, the suspect has taken steps to produce the Homagama Magistrate's Court, police said.
 
 ◼️
 
 [Data](articles/1cc15383.json)
+
+[Extended Data](ext_articles/1cc15383.ext.json)
 
 ---
 
@@ -70,55 +76,97 @@ The winners of “Derana Little Star – Season 12” are as follows:
 
 [Data](articles/fe03d97b.json)
 
+[Extended Data](ext_articles/fe03d97b.ext.json)
+
 ---
 
-### சஜித்தின் தேர்தல் கூட்டணியை ஆகஸ்ட் 1இல் அறிவிக்க தீர்மானம்
+### Decision to announce Sajith's electoral alliance on August 1
 
 *2024-07-14 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188398) · `ta`
 
-உத்தேச ஜனாதிபதி தேர்தலை மையப்படுத்திய ஐக்கிய மக்கள் சக்தியை தலைமைத்துவமாக கொண்ட அரசியல் கூட்டணி எதிர்வரும் ஆகஸ்ட் முதலாம் திகதி அறிவிக்கப்படவுள்ளது. கொழும்பில் பெரும் மாநாட்டை நடத்தி இந்த அறிவிப்பு விடுக்கப்படவுள்ளதுடன், அதற்கான ஏற்பாடுகள் அனைத்து மட்டங்களிலும் முன்னெடுக்கப்பட்டு வருவதாக எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa's electoral alliance under the United People's Power Leadership will be announced on August 1st in Colombo. This coalition includes various opposition parties, aiming for success in the upcoming presidential election. Key figures like Dulus Alaparuma, Peiris, and Wimal Weerawansa have agreed to join, along with leaders from minority parties. However, others like Patali Champika Ranawaka, Sarath Fonseka, and Rajitha Senaratne are not part of this coalition.
 
-பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி தலைமைத்துவமாக கொண்டு பரந்துபட்ட அரசியல் கூட்டணிக்கான பேச்சுவார்த்தைகள் முடிவுற்றுள்ளது. உத்தேச ஜனாதிபதி தேர்தலின் வெற்றியை இலக்காக கொண்டு உருவாக்கப்பட்டுள்ள இந்த கூட்டணி குறித்து உத்தியோகபூர்வ அறிவிப்பு ஆகஸ்ட் மாதத்தில் வெளிப்படுத்தப்படவுள்ளது. தமிழ் மற்றும் முஸ்லிம் உள்ளிட்ட பல கட்சிகள் உள்ளடங்கலாக இந்த எதிர்க்கட்சியின் கூட்டணி அமையப்பெற்றுள்ளது.
+🟩
 
-எந்தந்த கட்சி மற்றும் முக்கிய அரசியல் பிரமுகர்கள் இணைந்துள்ளார்கள் என்பதை தற்போது கூற இயலாது என தெரிவித்த எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச, உரிய திகதி நெருங்குகையில் அரசியல் கூட்டணி குறித்த முழுமையான தகவல்கள் வெளிப்படுத்தப்படும் என்று வீரகேசரிக்கு கூறினார்.
+The United People's Power Leadership, which focuses on the proposed presidential election, will be announced on August 1st.. Opposition Leader Sajith Premadasa said the announcement would be made in Colombo and that the arrangements were being made at all levels.
+
+Negotiations for a wider political coalition ended with the main opposition United People's Power Leadership. The official announcement of this coalition, which is aimed at the success of the proposed presidential election, will be made in August.. The opposition parties have a coalition, including several parties, including Tamil and Muslim.
+
+Opposition leader Sajith Premadasa, who said that it is impossible to say that the party and key political figures are joined, told Weerakesari that the full information about the political coalition will be revealed as the date approaches.
 
 ...
 
 [Data](articles/92875401.json)
 
+[Extended Data](ext_articles/92875401.ext.json)
+
 ---
 
-### ட்ரம்ப் மீதான படுகொலை முயற்சிக்கு ரணில் கண்டனம்
+### මාකඳුරේ මදූෂ් වෙනුවෙන් තැබූ සටහන
+
+*2024-07-14 10:29:18* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මදූෂ්-වෙනුවෙන්-තැබූ-සටහන/11-410767) · `si`
+
+පොලිසිය සමග ඇති වු වෙඩි හුවමාරුව කදි මියගිය මාකඳුරේ මධූෂ් නැමැති පාතාල නායකයාගේ ඡායාරූපයක් සහිත බැනරයක්  මහරගම ගොඩිගමුව " නිදහසේ නවාතැන"  සූසාන භූමිය ඉදිරිපිට ආරක්ෂක තාප්පයේ ප්‍රදර්ශනය කිරීම සම්බන්ධයෙන් විමර්ශනයක් පවත්වන බව පොලිස් මාධ්‍ය ප්‍රකාශක  නීතිඥ නිහාල් තල්දුව මහතා පැවැසීය.
+
+මේ වන විට එම බැනරය පොලිස් භාරයට ගෙන ඇති බවත් එය සූසාන භූමියේ ආරක්ෂක තාප්පයේ  ප්‍රදර්ශනය කල පුද්ගලයන් සම්බන්ධයෙන් සොයා බැලීමේ විමර්ශන කටයුතු මහරගම පොලීසිය මගින්  සිදු කරනු ඇති බවත් මාධ්‍ය ප්‍රකාශකවරයා වැඩිදුරටත් පැවසීය.
+
+" අපේ අයියේ...... එක එක්කෙනා එවනවා - අපි එනකම් බලාගන්න.... යනුවෙන් මධුෂ් ගේ ඡායාරූපයට දකුණු පසින් සටහන් කර
+
+පහතින් කේ පි අයි යනුවෙන් ඉංග්‍රීසි අකුරු තුනක් සටහන් කර එම බැනරය ප්‍රදර්ශනය කර තිබිණි
+
+ඉකුත් 8 වෙනිදින  අතුරුගිරිය ටැටු කලාගාරය තුළදී ව්‍යාපාරික වසන්ත සුරේන්ද්‍ර පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය සඳහා යොදාගත් ටි 56 ජීව උන්ඩ වල ද සටහන්ව තිබූනේ  කේ පි  අයි යනුවෙනි
+
+...
+
+[Data](articles/3d3ec37a.json)
+
+---
+
+### Ranil denounces Trump's assassination attempt
 
 *2024-07-14 10:24:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ட்ரம்ப்-மீதான-படுகொலை-முயற்சிக்கு-ரணில்-கண்டனம்/175-340363) · `ta`
 
-அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் மீதான படுகொலை முயற்சி தொடர்பில் அதிர்ச்சியையும் நிம்மதியையும் வெளிப்படுத்திய ஜனாதிபதி ரணில் விக்ரமசிங்க, ட்ரம்ப் பாதுகாப்பாக உள்ளதற்கு நன்றி தெரிவிப்பதாக தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe expresses shock and relief over the false report of former US President Donald Trump's assassination, thanking him for his safety. He urges adherence to democratic laws, highlighting Sri Lanka's experience with political violence. The incident occurred at a rally in Butler, Pennsylvania, where a gunshot killed a spectator and injured two others.
 
-இலங்கையர்களும் அரசியல் வன்முறைகளை அனுபவித்துள்ளதாக தெரிவித்த ஜனாதிபதி, ஜனநாயகத்தை பாதுகாக்கும் சட்டங்களை பின்பற்றுமாறு அனைவரையும் வலியுறுத்தினார்.
+🟩
 
-பென்சில்வேனியாவின் பட்லரில் சனிக்கிழமையன்று நடந்த பேரணியில் மேடையை நோக்கி துப்பாக்கிதாரி துப்பாக்கியால் சுட்டதில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் காதில் சுடப்பட்டார் - ஒரு பார்வையாளர் இறந்தார், மேலும் இருவர் படுகாயமடைந்தனர் மற்றும் நிகழ்வில் குழப்பத்தை ஏற்படுத்திய ஒரு பயங்கரமான சம்பவம் என்பது குறிப்பிடத்தக்கது.
+President Ranil Wickremesinghe has expressed shock and relief over the assassination of former US President Donald Trump and thanked Trump for being safe.
+
+The President said that Sri Lankans also experienced political violence and urged everyone to follow the laws of democracy.
+
+It is noteworthy that former President Donald Trump was shot dead in the ear of a gunman at a rally in Butler, Pennsylvania, but it was a horrific incident that caused a spectator died, and two were injured and confused at the event.
 
 ◼️
 
 [Data](articles/e98cfef6.json)
 
+[Extended Data](ext_articles/e98cfef6.ext.json)
+
 ---
 
-### அகழ்வாய்வு பணிகளின் நிறைவில் 47 மனித எச்சங்கள் மீட்பு
+### 47 human remains recovery at the completion of excavation work
 
 *2024-07-14 10:23:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகழ்வாய்வு-பணிகளின்-நிறைவில்-47-மனித-எச்சங்கள்-மீட்பு/175-340362) · `ta`
 
-முல்லைத்தீவு - கொக்குத்தொடுவாய் மனித புதைகுழியின் மூன்றாம் கட்ட அகழ்வாய்வின், ஒன்பதாம் நாள் அகழ்வாய்வுப் பணிகளின் நிறைவில் இரண்டு மனித எலும்புக்கூட்டுத்தொகுதிகள்,  அகழ்ந்து எடுக்கப்பட்டுள்ளதாக முல்லைத்தீவு மாவட்ட சட்டவைத்திய அதிகாரி கனகசபாபதி வாசுதேவா தெரிவித்தார்.
+During the third phase of excavation at Mullaitivu-Kokkuttuwai, two human skeletons and a cyanide vial were discovered, bringing the total number of recovered human remains to 47. This discovery occurred on the ninth day of excavation, overseen by a team including Archaeological Professor Raj Somadeva and Mullaitivu District Legal Officer Kanagasabapathi Vasudeva, in the presence of Judge Dharmalingam Pradeepan.
 
-முல்லைத்தீவு கொக்குத்தொடுவாய் மனிதப்புதைகுழியின் மூன்றாங்கட்ட அகழ்வாய்வின், ஒன்பதாம் நாள் அகழ்வாய்வுச் செயற்பாடுகள்  சனிக்கிழமை(13) முன்னெடுக்கப்பட்டது.
+🟩
 
-முல்லைத்தீவு நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில், சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவ தலைமையில் தொல்லியல் பேராசிரியர் ராஜ் சோமதேவ தலைமையிலான  குழுவினர்  தடயவியல் பொலிசார், உள்ளிட்ட தரப்பினரின் பங்குபற்றுதல்களுடன் இந்த ஒன்பதாம் நாள் அகழ்வாய்வுகள் இடம்பெற்றன.
+Mullaitivu - Kokkuttuwai is the third phase of the excavation of the human burial ground and two human skeletal skeletons have been excavated on the ninth day of excavation, said Kanagasabapathi Vasudeva, a Mullaitivu District Legal Officer.
 
-தொடர்ச்சியாக இடம்பெறும் அகழ்வாய்வுப் பணிகளில் அடையாளம் காணப்பட்ட மனித எலும்புக்கூட்டுத் தொகுதிகளிலிருந்து இவ்வாறு இரண்டு மனித எலும்புக்கூட்டுத்தொகுதிகளும் ஒரு சைனைட் குப்பியும் அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+The ninth day of excavation of the Mullaitivu Kokkuttuvai human body was carried out on Saturday (13).
 
-...
+In the presence of Mullaitivu Court Judge Dharmalingam Pradeepan, a group led by Archaeological Professor Raj Somadeva, led by legal officer Kanagasabapathi Vasudeva, was held on the ninth day with the participation of forensic police, including forensic police.
+
+Two human skeletons and a cyanide vial have been excavated from the human skeleton constituencies identified in a series of excavations.
+
+In this case, 40 human skeletons have been excavated during the two excavations in the Kokkuttuwai Human Portrait, and a total of 47 human skeletons have been excavated in the third phase of excavation.
+
+◼️
 
 [Data](articles/e834d6d2.json)
+
+[Extended Data](ext_articles/e834d6d2.ext.json)
 
 ---
 
@@ -190,19 +238,27 @@ The car and the highway is severely damaged.
 
 ---
 
-### ஜனாதிபதி தேர்தல் 2024 : செவ்வாய்க்கிழமை தேர்தல் ஆணைக்குழுவின் விசேட அறிவிப்பு
+### Presidential Election 2024: Special announcement of the Election Commission on Tuesday
 
 *2024-07-14 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/188399) · `ta`
 
-ஜனாதிபதி தேர்தல் 2024 தொடர்பான விசேட அறிவிப்பினை எதிர்வரும் 16ஆம் திகதி செவ்வாய்க்கிழமை தேர்தல்கள் ஆணைக்குழு வெளியிடவுள்ளது. இந்த அறிவிப்பு அன்றைய தினம் முற்பகல் 10.30க்கு வெளியிடப்படவுள்ளதாக ஆணைக்குழு தெரிவித்தது.
+The Election Commission will announce the date for the 2024 Presidential Election on Tuesday, 16th, at 10:30 am. It can set the election day after midnight on Tuesday and requires the new president's inauguration to finish before midnight on October 17. Postponement is possible due to disasters but must occur before October 12. The government prefers holding the election in September, but President Ranil Wickremesinghe hasn't declared his candidacy yet.
 
-அரசியமைப்புக்கு அமைய செவ்வாய்கிழமை (16) நள்ளிரவு 12 மணிக்கு பின்னர் ஜனாதிபதி தேர்தலுக்கான தினத்தை அறிவிப்பதற்கான அதிகாரம் தேர்தல் ஆணைக்குழுவுக்கு கிடைக்கபெறுகிறது. அதே போன்று அரசியலமைப்புக்கு அமைய ஒக்டோபர் மாதம் 17ஆம் திகதி நள்ளிரவு 12 மணிக்கு முன்னர் புதிய ஜனாதிபதியின் பதவியேற்பு நிகழ்வுகளும் நிறைவடைந்திருக்க வேண்டும்.
+🟩
 
-அத்தோடு ஒக்டோபர் மாதத்தில் நாட்டில் இயற்கை அனர்த்தம் அல்லது ஏதேனும் திடீர் அனர்த்தங்கள் ஏற்பட்டால் மாத்திரம் ஒரு வாரத்துக்கு தேர்தலை ஒத்திவைப்பதற்கான அதிகாரம் ஆணைக்குழுவுக்கு உண்டு. அவ்வாறில்லை எனில் ஒக்டோபர் 12ஆம் திகதிக்கு முன்னர் ஜனாதிபதித் தேர்தல் நடைபெற்று முடிந்திருக்க வேண்டும் என்று குறிப்பிட்டுள்ளது.
+The Elections Commission will issue a special announcement on the presidential election 2024 on Tuesday 16th. The announcement will be made at 10.30 am that day, the Commission said.
+
+The Election Commission has the power to announce the presidential election day after 12 midnight on Tuesday (16). Similarly, the new president's swearing -in ceremony must have been completed before 12 midnight on October 17, according to the Constitution.
+
+The Commission has the power to postpone the election for a week only in the event of a natural disaster or sudden disaster in the country in October.. If so, the presidential election should have been held before October 12.
+
+In this case, the government is in the position that it is best if the election is held in September. But President Ranil will not make any announcement on the presidential election. United National Party (UNP) MP Vajira Abeywardena said that it was a complete authority to the Election Commission.
 
 ...
 
 [Data](articles/1b475c02.json)
+
+[Extended Data](ext_articles/1b475c02.ext.json)
 
 ---
 
@@ -2259,27 +2315,5 @@ He was speaking at a program to educate the school children on satellite technol
 [Data](articles/fea1a5d1.json)
 
 [Extended Data](ext_articles/fea1a5d1.ext.json)
-
----
-
-### Rain for the first few days of today
-
-*2024-07-13 08:03:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-சில-தினங்களுக்கு-மழை/175-340321) · `ta`
-
-The Department of Meteorology forecasts increased rainfall in Sri Lanka's southwest region, including heavy showers in parts of Sabaragamuwa, Western Provinces, and districts of Galle and Matara, with expected precipitation of 50 millimeters. Additionally, rain or thunderstorms are anticipated in the evenings or nights across Eastern and Uva provinces.
-
-🟩
-
-The Department of Meteorology has predicted that rainy weather will increase for the next few days in the southwest region of Sri Lanka.
-
-Heavy rainfall is likely to occur in some parts of the Sabaragamuwa and Western Provinces, in some parts of the Galle and Matara districts and 50 millimeters.
-
-The Renewed Report of the Department of Meteorology stated that rain or thunderstorms may occur in the evening or night in some parts of the Eastern and Uva provinces.. (A)
-
-◼️
-
-[Data](articles/bf432dc1.json)
-
-[Extended Data](ext_articles/bf432dc1.ext.json)
 
 ---

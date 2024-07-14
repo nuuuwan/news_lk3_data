@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 16:50:50**
+As of **2024-07-14 17:05:22**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 5,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,192 (100.0%) of 35,195 articles have been extended.
+35,195 (100.0%) of 35,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### යළි දකිමු දීඝවාපී
+### Refow
 
 *2024-07-14 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198798) · `si`
 
-පුජනීය සොළොස්මස්ථාන අතරින් ප්‍රමුඛස්ථානයක් ගනු ලබන ඓතිහාසික දීඝවාපිය චෛත්‍ය රාජයාණන් වහන්සේගේ ගර්භයේ සර්වඥ ධාතූන් සහ නිධන් වස්තු තැන්පත් කිරීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සහභාගිත්වයෙන් අද (14) පෙරවරුවේ සිදුවිය.
+President Ranil Wickremesinghe participated in the deposit of historical salaries and sacred relics. The event marked the final renovation phase of the fourth-largest dagoba in Sri Lanka and the Defense Ministry, highlighting significant cultural and national security projects.
 
-ශ්‍රී ලංකාවේ පවතින විශාලතම මහා දාගැබ් අතරින් සිව්වන ස්ථානයේ පවතින දීඝවාපිය චෛත්‍ය රාජයාණන් වහන්සේගේ ප්‍රතිසංස්කරණ කටයුතු 2020 වසරේ ආරක්ෂක අමාත්‍යාංශයේ මෙහෙයවීම මත ආරම්භ කරන ලදී.
+🟩
 
-සොළොස්මස්ථාන අතුරින් ප්‍රතිසංස්කරණය කළ යුතුව තිබූ අවසන් චෛත්‍යය මෙය වීම විශේෂත්වයකි.
+The executive deposit of the historical salaries of the historical salaries of the Surgery Soligations, the deposit of the sacred relics and treasures of President Ranil Wickremesinghe was held at the participation of President Ranil Wickremesinghe.
+
+The reconstruction work of the fourth-largest dagobas in Sri Lanka, the reconstruction work of the fourth place in Sri Lanka, the reconstruction work of the Defense Ministry in 2020.
+
+This is the last stage that had to be renovated among the malfunctions.
 
 ◼️
 
 [Data](articles/d90a2855.json)
 
+[Extended Data](ext_articles/d90a2855.ext.json)
+
 ---
 
-### පාතාලයට එරෙහිව ප්‍රදේශ කිහිපයක පෝස්ටර්
+### Posters in several areas against underworld
 
 *2024-07-14 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198797) · `si`
 
-පාතාලය විනාශකළ යුතු බව දැක්වෙන පෝස්ටර් දිවයිනේ ප්‍රදේශ කිහිපයක අලවා ඇති බව අප වාර්තාකරුවන් පවසයි.
+Posters calling for the destruction of the underworld have appeared across the island, spotted in Dematagoda, Maharagama, Nugegoda, and Matara.
 
-එවැනි පෝස්ටර් දෙමටගොඩ, මහරගම, නුගේගොඩ සහ මාතර ප්‍රදේශවල අලවා තිබූ බව වාර්තා විය.
+🟩
+
+According to our correspondents, posters indicated that the underworld should be destroyed are pasted in several parts of the island.
+
+Such posters were pasted in Dematagoda, Maharagama, Nugegoda and Matara.
 
 ◼️
 
 [Data](articles/843cab4c.json)
+
+[Extended Data](ext_articles/843cab4c.ext.json)
 
 ---
 
@@ -370,29 +382,37 @@ Furthermore, the President of the association expressed that the passengers have
 
 ---
 
-### අනුරගෙයි මගෙයි දේශපාලනය වෙනස්
+### Anuraja is different
 
 *2024-07-14 13:55:11* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගෙයි-මගෙයි-දේශපාලනය-වෙනස්/11-410775) · `si`
 
-සැබෑ විප්ලවය යනු ජනතාවට ආඩම්බරයෙන් ඉදිරියට යා හැකි පසුබිමක් රට තුළ ගොඩනඟා දීමයි
+In a speech at the Thambuththegama Mahaweli Stadium, President Ranil Wickremesinghe highlighted the importance of unity and progress beyond politics, citing the successful implementation of projects and policies that benefited the nation, including the granting of freehold deeds to 4012 individuals. He emphasized the need for a proud national heritage and the role of politics in fostering this, referencing historical events and personal experiences to underscore the potential for collaboration across party lines. The address also touched on the country's economic recovery, the importance of education, and the vision for a prosperous future where the focus is on development rather than conflict.
 
-පසුගිය වසර දෙක තුළ දේශපාලනයෙන් තොරව වැඩ කළ නිසා රටට ජයග්‍රහණ රැසක් ලබා දීමට හැකි වුණා.
+🟩
 
-4012 දෙනෙකුට සින්නක්කර ඔප්පු ප්‍රදානය කිරීමේ උත්සවයේ දී ජනපති පවසයි
+The real revolution is to build a proud background in the country
 
-සැබෑ විප්ලව යනු මිනිසුන් මරා දැමීම හෝ ගෙවල් ගිනි තැබීම නොව ජනතාව‍ට ආඩම්බරයෙන් ඉදිරියට යා හැකි පසුබිමක් රට තුළගොඩනඟා දීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+The country was able to provide many victories to the country as we worked without politics over the past two years.
 
-“උරුමය” වැඩසටහන මඟින් මෙරට ජනතාවට එම පසුබිම උදා කරදීමට හැකි වී ඇති බව පෙන්වා දුන් ජනාධිපතිවරයා සැබෑ සමාජවාදී වැඩපිළිවෙළ ජනගත කෙරෙන උරුමය වැඩසටහන සමඟ දේශපාලනයෙන් තොරව සියලුදෙනා එක්විය යුතු බවද පැවසීය.
+President Mahinda Rajapaksa says that 4012 persons will be granted freehold deeds
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ තඹුත්තේගම මහවැලි ක්‍රීඩාංගණයේදී ඊයේ (13) පැවති උරුමය සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානෝත්සවයට එක්වෙමිනි.
+President Ranil Wickremesinghe said that the people would proudly proignated the country, not to the killing of humans or burning people, but to the people.
 
-අනුරාධපුර දිස්ත්‍රික්කයේ මහවැලි එච් සහ හුරුළුවැව යන කලාප දෙකෙහි මහවැලි කොට්ඨාශ 09ක 4012 දෙනෙකුට සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම මෙහිදී සිදු විය.
+The President pointed out that the "heritage" the people of Sri Lanka has enabled the people of this background should be joined by politics.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සංකේතාත්මකව ඉඩම් ඔප්පු 47ක් ප්‍රදානය කෙරිණ.
+President Ranil Wickremesinghe made this statement at the Thambuththegama Mahaweli Stadium yesterday (13) at the Thambuththegama Mahaweli Stadium yesterday.
+
+The 9012 Mahaweli Divisions were presented to 4012 Mahaweli divisions in the Anuradhapura District.
+
+President Ranil Wickremesinghe has been awarded 47 land deeds.
+
+President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/db2ead9e.json)
+
+[Extended Data](ext_articles/db2ead9e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 12:09:31**
+As of **2024-07-14 12:21:13**
 
 ## Newspaper Stats
 
-*Scraped **35,159** Articles*
+*Scraped **35,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,165
-adaderanalk | 4,044
-tamilmirrorlk | 4,225
+adaderanalk | 4,045
+tamilmirrorlk | 4,226
 dailymirrorlk | 4,733
 virakesarilk | 5,484
 adaderanasinhalalk | 5,863
@@ -26,29 +26,53 @@ adaderanasinhalalk | 5,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,154 (100.0%) of 35,159 articles have been extended.
+35,159 (100.0%) of 35,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### ට්‍රම්ප් ට වෙඩි තැබූ තුවක්කුකරු හඳුනාගනී
+### ‘Sri Lankans in North suffer the most’; State Minister stresses on India-Sri Lanka fishermen issue
+
+*2024-07-14 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100495/sri-lankans-in-north-suffer-the-most-state-minister-stresses-on-india-sri-lanka-fishermen-issue) · `en`
+
+Stressing the need to hold a discussion on the fishermen issue between Sri Lanka and India, Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya emphasized that both countries must look into this ‘long-lasting issue’ from a sustainable perspective.
+
+During an interview with India’s NDTV, State Minister Balasuriya expressed that this issue has persisted for a very long period of time.
+
+“In the Foreign Ministry, I was reading some old notes of when the Indian Prime Minister Neru visited Prime Minister Bandaranaike in 1950s, and top in the agenda was the fishermen’s issue. So, this has persisted for a long period of time..,” Balasuriya said.
+
+Furthermore, the Foreign Affairs State Minister stressed that the people in the North of Sri Lanka are the most affected community as a result of this problem, adding that the Tamil Nadu government needs to realize that.
+
+...
+
+[Data](articles/35ded8ee.json)
+
+---
+
+### Identifies the gunman who shot Trump
 
 *2024-07-14 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198789) · `si`
 
-රිපබ්ලිකන් පක්ෂයේ දේශපාලන රැළියක් අමතමින් සිටියදී හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඉලක්ක කර වෙඩි තැබූ පුද්ගලයාව මධ්‍යම බුද්ධි ඒජන්සිය විසින් නම්කර තිබේ.
+During a Republican rally in Pennsylvania, a gunman targeted former President Donald Trump, injuring his ear and killing one person, with two others seriously hurt. The CIA identified the shooter, who was later taken out by an intelligence sniper named Veduach.
 
-පෙන්සිල්වේනියාවේ පැවති මැතිවරණ ප්‍රචාරක රැලියක් අතරතුර දී එම වෙඩි තැබීම වාර්තා වූ අතර ඉන් හිටපු ජනාධිපතිවරයාගේ කනක් තුවාල වී තිබුණි.
+🟩
 
-රෝහල්ගත කළ හිටපු ජනාධිපතිවරයා මේ වනවිට නිව් ජර්සි හි පිහිටි තම නිවසට ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The Central Intelligence Agency has been nominated by the Donald Trump targeting former President Donald Trump while addressing a political rally of the Republican party.
 
-එහිදී එම වෙඩි ප්‍රහාරය එල්ල කළ බවට සැක කෙරෙන අයෙකු බුද්ධි අංශ ස්නයිපර් වෙඩික්කරුවෙකු විසින් එල්ල කරන ලද ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව තිබුණි.
+The shooting was reported during an election rally held in Pennsylvania, and the former President's ear was injured.
 
-මෙම සිද්ධියේදී රැලිය නැරඹීමට පැමිණ සිටි පුද්ගලයෙක් ජීවිතක්ෂයට පත්වූ අතර තවත් දෙදෙනෙක් බරපතළ තුවාල ලැබීය.
+The former hospitalized that the former president had gone to her home in New Jersey.
+
+One who was suspected of the shooting was killed by the Intelligence Sniper Veduach.
+
+In the incident, a man was killed and two others were seriously injured.
 
 ◼️
 
 [Data](articles/ecb7907f.json)
+
+[Extended Data](ext_articles/ecb7907f.ext.json)
 
 ---
 
@@ -78,9 +102,9 @@ The suspect is to be produced before the Homagama Magistrate's Court.
 
 ---
 
-### கூரையில் இருந்தே டிரம்ப் மீது தாக்குதல்
+### டிரம்ப் மீது தாக்குதல் ; ஒருவர் மரணம் , இருவர் படுகாயம்
 
-*2024-07-14 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரையில்-இருந்தே-டிரம்ப்-மீது-தாக்குதல்/175-340366) · `ta`
+*2024-07-14 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்ப்-மீது-தாக்குதல்-ஒருவர்-மரணம்-இருவர்-படுகாயம்/175-340366) · `ta`
 
 முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் மீது துப்பாக்கி சூடு தாக்குதல் மேற்கொண்ட துப்பாக்கிதாரி , பேரணி நடைபெற்ற இடத்திலிருந்து 400 அடி தூரத்தில் உள்ள கட்டிடத்தின் மேற்கூரையில் இருந்தே தாக்குதலை மேற்கொண்டுள்ளார்.
 
@@ -92,7 +116,31 @@ The suspect is to be produced before the Homagama Magistrate's Court.
 
 ◼️
 
+[Data](articles/60665f94.json)
+
+---
+
+### Attack on Trump from the roof
+
+*2024-07-14 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரையில்-இருந்தே-டிரம்ப்-மீது-தாக்குதல்/175-340366) · `ta`
+
+A gunman attacked former President Donald Trump from a rooftop during a rally, 400 feet away. Security forces responded quickly, killing the shooter and investigating his affiliations. President Joe Biden called Trump, who was hospitalized afterward. A Trump supporter and two others suffered minor injuries.
+
+🟩
+
+The gunman, who fired former President Donald Trump, has been attacked from the roof of the building, 400 feet away from the rally.
+
+Immediately after the security forces, the security forces shot and killed a man who fired and are conducting further investigations into whether he belongs to the extremist gang or whether he belongs to the foreign mercenary.
+
+It is also reported that the current US President Joe Bidan has telephoned Trump, who was admitted to the hospital.
+
+A Trump supporter who participated in the rally after Trump was killed in minor injuries in the shooting and two others were injured and admitted to the hospital.
+
+◼️
+
 [Data](articles/a7346da3.json)
+
+[Extended Data](ext_articles/a7346da3.ext.json)
 
 ---
 
@@ -168,19 +216,29 @@ In addition, the suspect has taken steps to produce the Homagama Magistrate's Co
 
 ---
 
-### සචිත්‍ර ගේ නිවසින් රු.මි 5ක භාණ්ඩ සොරාගත් සොරා භාණ්ඩත් එක්කම අල්ලයි
+### Thief stolen stolen of Rs. 5 Mn of Rs.
 
 *2024-07-14 10:49:56* · [`adalk`](https://www.ada.lk/breaking_news/සචිත්‍ර-ගේ-නිවසින්-රු-මි-5ක-භාණ්ඩ-සොරාගත්-සොරා-භාණ්ඩත්-එක්කම-අල්ලයි/11-410768) · `si`
 
-හිටපු ටෙස්ට් ක්‍රිකට් ක්‍රීඩක  සචිත්‍ර සේනානායක මහතාට අයත් තලංගම කලල්ගොඩ ප්‍රදේශයේ පිහිටි නිවසකින් රුපියල් ලක්ෂ පනහකට අධික වටිනාකමින් යුත් මුදල් හා භාණ්ඩ සොරාගත් පුද්ගලයකු සොරාගත් භාණ්ඩ ද සමඟ අත්අඩංගුවට ගත් බව  කොට්ටාව පොලිසිය පවසයි.
+A thief stole Rs. 5 million worth of goods, including rice and jewelry, from the house of Test cricketer Sachithra Senanayake. The 34-year-old suspect from Uthankanda, Thalangama, was arrested after being found with a mask and a weapon. He had previously been involved in several incidents investigated by the Kottawa Police Division.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ තලංගම උතුවන්කන්ද ප්‍රදේශයේ පදිංචි 34 හැවිරිදි පුද්ගලයකු බව පොලීසිය කියයි.
+🟩
 
-මෙම පුද්ගලයා ඉකුත් ජුනි 22 දා රාත්‍රි සචිත්‍ර සේනානායක මහතාගේ නිවසට ඇතුළු වී එහි තිබූ ලැප් ටොප් යන්ත්‍රයක්, ටැබ් යන්ත්‍ර 02, වටිනා අත් ඔරලෝසු පහක් ,අත් පලදනා හතරක් , කනේ පළඳින මුදු දෙකක් රුපියල් දස දහසක මුදලක්  සොරාගෙන තිබූණි.
+The Kottawa Police say that the goods were stolen with stolen goods from a house of Test cricketer Sachithra Senanayake.
+
+The arrested person was a 34 year old resident of Uthankanda, Thalangama Uthangama.
+
+The man had stolen ten thousand rice, four handflamped rings on June 22nd and five handfladed rings.
+
+The Talangama Police OIC of the Criminal Investigation Division of the Kottawa Police while investigating a complaint was on the occasion was a mask, no, a mask, a mask, and bust that a person who had been on a side road in the Wekadkara area, while investigating the investigation.It has been revealed that he had been on his way to a robbery when he had found a set of weapons.
+
+Accordingly, information has been revealed that former Test cricketer Sachithra Senanayake, who was arrested and was deprived of further interrogation.. According to the inspection of the suspect's home, the stolen stock has been discovered that Rs.
 
 ...
 
 [Data](articles/855372cc.json)
+
+[Extended Data](ext_articles/855372cc.ext.json)
 
 ---
 
@@ -604,6 +662,8 @@ Though the central bank has not cut rates with inflationary operations up to May
 
 [Data](articles/14ecd932.json)
 
+[Extended Data](ext_articles/14ecd932.ext.json)
+
 ---
 
 ### Firing on Trump: Modi condemns
@@ -741,6 +801,8 @@ As he was hustled out of the venue by Secret Service officials Trump was seen sh
 ◼️
 
 [Data](articles/76b0972d.json)
+
+[Extended Data](ext_articles/76b0972d.ext.json)
 
 ---
 
@@ -2249,45 +2311,5 @@ He further explained that a maintenance order would be issued against the owner 
 [Data](articles/e62f2c80.json)
 
 [Extended Data](ext_articles/e62f2c80.ext.json)
-
----
-
-### Special notice from Motor Traffic Dept. to vehicle owners
-
-*2024-07-13 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100475/special-notice-from-motor-traffic-dept-to-vehicle-owners) · `en`
-
-The Department of Motor Traffic has decided to blacklist the vehicles emitting excessive smoke, says the Vehicular Emission Test Trust Fund (VET) of the Department of Motor Traffic (DMT).
-
-Director of VET Dasun Gamage stated that the public can make complaints regarding such vehicles through WhatsApp number 070 3500 525 of the DMT.
-
-Furthermore, Gamage urged the vehicle owners not to obtain the Vehicle Emission Test Certificate only for the renewal of the revenue license.
-
-He highlighted that even though many people are tempted to obtain the Vehicle Emission Test Certificate through fake tactics, the police officers and officers of DMT are conducting relevant inspections on the roads across the island.
-
-He further explained that if excessive emission of smoke is observed, a maintenance order will be issued against the owner of the vehicle in question, otherwise, a prohibition order will be issued to the vehicle.
-
-◼️
-
-[Data](articles/206f7a52.json)
-
-[Extended Data](ext_articles/206f7a52.ext.json)
-
----
-
-### Satellite launch planned for next year - ACCIMT
-
-*2024-07-13 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100474/satellite-launch-planned-for-next-year-accimt) · `en`
-
-The Arthur C. Clarke Institute for Modern Technologies (ACCIMT) has plqnned to launch a satellite next year.
-
-Chairman of the institute Prof. Chandana Jayaratne emphasized the need for further infrastructure development to educate school children regarding satellite technology.
-
-He made these remarks while participating in a programme aimed at educating students on the subject.
-
-◼️
-
-[Data](articles/a7030acf.json)
-
-[Extended Data](ext_articles/a7030acf.ext.json)
 
 ---

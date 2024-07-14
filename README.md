@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 06:04:56**
+As of **2024-07-14 06:40:56**
 
 ## Newspaper Stats
 
-*Scraped **35,112** Articles*
+*Scraped **35,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,039
 tamilmirrorlk | 4,211
 dailymirrorlk | 4,733
 virakesarilk | 5,480
-adaderanasinhalalk | 5,854
+adaderanasinhalalk | 5,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,106 (100.0%) of 35,112 articles have been extended.
+35,109 (100.0%) of 35,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-07-14 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198781) · `si`
+
+ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍ය දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+එම දෙපාර්තමේන්තුව විසින් අද (14) පෙරවරු 3.00ට නිකුත්කළ එම නිවේදනය දැක්වෙන්නේ, අරාබි මුහුදු ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියාකරන බහුදින ධීවර හා නාවික ප්‍රජාව සැලකිලිමත් වන ලෙසය.
+
+සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරාබි මුහුදු ප්‍රදේශයේ උතුරු අක්ෂාංශ 10ත් 18ත් සහ නැගෙනහිර දේශාංශ 55 සහ 65ත් අතර මුහුදු ප්‍රදේශවල සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ උතුරු අක්ෂාංශ 15ත් 18ත් සහ නැගෙනහිර දේශාංශ 84 සහ 92ත් අතර මුහුදු ප්‍රදේශවල ඉතා තද සුළං (පැ.කි.මී. 70 -80) පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව කාලගුණවිද්‍ය දෙපාර්තමේන්තුව නිවේදය කරයි.
+
+මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඇතැම් ස්ථානවලමි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+...
+
+[Data](articles/eb116a0f.json)
+
+---
 
 ### On the move again… Engleberg-Vienna-London-Mount Lavinia
 
@@ -74,6 +94,8 @@ Compromised memory was once considered to be an invariable effect of ageing, due
 
 [Data](articles/1d6773c5.json)
 
+[Extended Data](ext_articles/1d6773c5.ext.json)
+
 ---
 
 ### THE PROPOSED 22nd AMENDMENT
@@ -85,6 +107,8 @@ It has been reported that the Government proposes to introduce a Bill to amend t
 ...
 
 [Data](articles/5b2b299f.json)
+
+[Extended Data](ext_articles/5b2b299f.ext.json)
 
 ---
 
@@ -99,6 +123,8 @@ However, in November 2019, Harin Fernando resigned from his ministerial post fol
 ...
 
 [Data](articles/5e2bd93d.json)
+
+[Extended Data](ext_articles/5e2bd93d.ext.json)
 
 ---
 
@@ -2163,29 +2189,5 @@ The President made a number of addresses to the Cabinet Memoranda, the President
 [Data](articles/67dcb868.json)
 
 [Extended Data](ext_articles/67dcb868.ext.json)
-
----
-
-### Teach graduates per year
-
-*2024-07-12 20:23:48* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-ගුරු-උපාධිධාරීන්-7500/11-410761) · `si`
-
-The Minister of Education announced plans to enhance the country's education sector, including hiring over 500 foreign teachers and increasing local university enrollment from 5,000 to 7,500 students annually. This move aims to produce 7,500 teach graduates yearly, improve facilities for children with special needs, and expand Zonal Education Offices to 120. The government also addressed teacher strikes, emphasizing the crucial role educators play in shaping the nation's future. Additionally, there were updates on wage disputes and the overall economic situation, highlighting improvements under the current leadership.
-
-🟩
-
-The Minister of Education Erwindad Kumar said that the current education reform process could be established in the education sector of the country.
-
-The State Minister urged the entire teachers to properly understand the country's future generation, as the teachers were responsible for their conscience.
-
-State Minister of Education Erwindad Kumar made this statement participating at a press conference held at the Presidential Media Center today (12).
-
-We believe that the current education sector in the country will increase yet. Especially has recruited to schools by recruiting more than 500 teachers of Korean, German, French, aimed at the job market.
-
-...
-
-[Data](articles/d0508ff2.json)
-
-[Extended Data](ext_articles/d0508ff2.ext.json)
 
 ---

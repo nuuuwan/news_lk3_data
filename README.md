@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 02:05:04**
+As of **2024-07-15 02:20:06**
 
 ## Newspaper Stats
 
-*Scraped **35,240** Articles*
+*Scraped **35,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,089
-dailyftlk | 2,221
+dailyftlk | 2,227
 adalk | 3,179
 adaderanalk | 4,055
 tamilmirrorlk | 4,239
@@ -26,27 +26,133 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,239 (100.0%) of 35,240 articles have been extended.
+35,240 (100.0%) of 35,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### அனுரவின் பாதுகாப்பு பலப்படுத்தப்பட்டது
+### Muslim principals file HRCSL complaint on cancellation of exam results over head coverings
+
+*2024-07-15 01:40:48* · [`dailyftlk`](https://www.ft.lk/news/Muslim-principals-file-HRCSL-complaint-on-cancellation-of-exam-results-over-head-coverings/56-764263) · `en`
+
+13 female Muslim principals have filed a complaint with the Human Rights Commission of Sri Lanka (HRCSL) regarding the cancellation of their Efficiency Bar Examination Grade II results by the Department of Examinations due to their head coverings worn during the examination.
+
+According to examination candidate M.Z.H. Fawzana, the group sat for the examination in August 2023, seeking promotion from Grade II to Grade I in the Principal service. The exam was held at Kotahena Maha Vidyalaya, and the group did not face any issues on the first day of the examination, which lasted for six hours.
+
+...
+
+[Data](articles/ed63302e.json)
+
+---
+
+### Treasury Secretary meets CIDCA Vice President to discuss Sri Lanka’s economic progress
+
+*2024-07-15 01:40:04* · [`dailyftlk`](https://www.ft.lk/news/Treasury-Secretary-meets-CIDCA-Vice-President-to-discuss-Sri-Lanka-s-economic-progress/56-764262) · `en`
+
+Treasury Secretary Mahinda Siriwardana yesterday held a meeting with China International Development Cooperation Agency (CIDCA) Vice President Yang Weiqun on the sidelines of the Second High-Level Conference of the Forum on Global Action for Shared Development organised by CIDCA, which took place from 12-13 July in Beijing.
+
+In a post on ‘X’, Siriwardana described the meeting as ‘very productive.’
+
+He discussed the progress Sri Lanka has made in managing its deep and complex economic crisis, highlighting the measures being implemented to ensure macroeconomic stability and achieve high, sustainable, and green economic growth.
+
+Siriwardana expressed his gratitude to Chinese authorities, including the EXIM Bank of China, for their assistance to Sri Lanka.
+
+He particularly noted the strong support from China, along with member countries in the Official Creditors Committee (OCC), co-chaired by France, India, and Japan, in successfully completing Sri Lanka’s debt restructuring process.
+
+...
+
+[Data](articles/bcb74604.json)
+
+---
+
+### Trump injured but ‘fine’ after attempted assassination at rally, shooter and one attendee dead
+
+*2024-07-15 01:37:18* · [`dailyftlk`](https://www.ft.lk/news/Trump-injured-but-fine-after-attempted-assassination-at-rally-shooter-and-one-attendee-dead/56-764261) · `en`
+
+BUTLER, Pa. (AP) – Former President Donald Trump was the target of an apparent assassination attempt Saturday at a Pennsylvania rally, days before he was to accept the Republican nomination for a third time.
+
+A barrage of gunfire set off panic, and a bloodied Trump, who said he was shot in the ear, was surrounded by Secret Service and hurried to his SUV as he pumped his fist in a show of defiance.
+
+Trump’s campaign said the presumptive GOP nominee was doing “fine” after the shooting, which he said pierced the upper part of his right ear. “I knew immediately that something was wrong in that I heard a whizzing sound, shots, and immediately felt the bullet ripping through the skin. Much bleeding took place,” he wrote on his social media site.
+
+...
+
+[Data](articles/f7e1fea8.json)
+
+---
+
+### UAE assists Sri Lanka in nabbing two underworld criminals in Dubai
+
+*2024-07-15 01:35:26* · [`dailyftlk`](https://www.ft.lk/news/UAE-assists-Sri-Lanka-in-nabbing-two-underworld-criminals-in-Dubai/56-764260) · `en`
+
+With the assistance of the authorities in the United Arab Emirates (UAE), two Sri Lankan underworld criminals were successfully apprehended in Dubai and escorted back to Sri Lanka on 12 July.
+
+The arrested criminals are 26-year-old Dimuthu Chathuranga and 48-year-old Dinesh Sharman, wanted in connection with several murders committed in Sri Lanka.
+
+Chathuranga was listed by the Colombo Crimes Division for committing two murders in 2022 and 2016, while Sharman was charged with aiding and abetting a shooting and killing in July 2019.
+
+With the assistance of UAE authorities, the arrests were carried out in Dubai by the Sri Lanka Criminal Investigation Division, after which they were brought into the country. A four-member team from the CID escorted the wanted criminals back to Sri Lanka.
+
+...
+
+[Data](articles/67dc6af2.json)
+
+---
+
+### Start of Sri Lanka’s Trade National Single Window System project
+
+*2024-07-15 01:12:11* · [`dailyftlk`](https://www.ft.lk/business/Start-of-Sri-Lanka-s-Trade-National-Single-Window-System-project/34-764255) · `en`
+
+Finance, Economic Stabilisation and National Policies Ministry Secretary K.M. Mahinda Siriwardana
+
+Finance, Economic Stabilisation and National Policies Ministry Department of Trade and Investment Policy Director General K.A. Vimalenthirarajah
+
+USAID Mission Director for Sri Lanka and Maldives Gabriel Grau
+
+Ninety four participants who would play key roles in the process of establishment and operationalisation of the proposed Sri Lanka’s Trade National Single Window System (TNSWS) recently attended an awareness-building event conducted by the Department of Trade and Investment Policy of the Ministry of Finance, Economic Stabilisation and National Policies with support from the United States Agency for International Development (USAID).
+
+...
+
+[Data](articles/8b67837a.json)
+
+---
+
+### Anura's safety strengthened
 
 *2024-07-15 01:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவின்-பாதுகாப்பு-பலப்படுத்தப்பட்டது/175-340400) · `ta`
 
-தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸநாயக்க எம். பி பங்கேற்கின்ற கூட்டங்களில் நவீன ரக சிசிடிவி கமெராக்கள் பொருத்தப்பட்டுள்ளது.
+Anura's safety measures were enhanced with the installation of modern CCTV cameras at meetings, including solar-powered ones. These cameras are part of a broader security initiative in the Ampara district, particularly in Karadivu and Samanthurai. Additionally, attendees undergo special tests before being allowed entry, ensuring a secure environment.
 
-அண்மைக்காலமாக அவர் கலந்து கொள்கின்ற கூட்டங்களில் சோலர் பொருத்தப்பட்ட சிசிடிவி கமரா மற்றும் இதர நவீன தன்னியக்க சிசிடிவி கமெராக்கள் பல அங்காங்கே பொருத்தப்பட்டு கூட்டங்களுக்கு வருபவர்கள் கண்கானிக்கப்பட்டு வருகின்றனர்.
+🟩
 
-அம்பாறை மாவட்டத்தில் வெள்ளிக்கிழமை (12) காரைதீவு மற்றும் சம்மாந்துறை பகுதிகளில் தேசிய மக்கள் சக்தி கூட்ட மேடைகள் மற்றும் அதனை அண்டிய பகுதிகளில் இவ்வாறான கமெராக்கள் பல பொருத்தப்பட்டு கண்காணிப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+President of the National People's Power Anurakumara Dissanayake. B. Modern CCTV cameras are fitted at the participating meetings.
 
-இதேவேளை, என்றும் இல்லாதவாறு கூட்டங்களுக்கு பைகளுடன் சமூகமளிப்பவர்கள் அழைக்கப்பட்டு விசேட பரிசோதனைக்கு உட்படுத்தப்பட்ட பின்னர் கூட்டங்களுக்கு அனுமதிக்கப்படுகின்றனர்.
+At the recent meetings he attended, solar -fitted CCTV camera and other modern Automated CCTV cameras have been monitored to meet meetings.
+
+In the Ampara district on Friday (12), many such cameras are being installed in the Karadivu and Samanthurai areas.
+
+Meanwhile, the socialists are invited with bags to meet the meetings and are allowed to meet after a special test.
 
 ◼️
 
 [Data](articles/da3dc3c7.json)
+
+[Extended Data](ext_articles/da3dc3c7.ext.json)
+
+---
+
+### Lessons from Italy’s growing love affair with Sri Lankan apparel
+
+*2024-07-15 01:07:57* · [`dailyftlk`](https://www.ft.lk/columns/Lessons-from-Italy-s-growing-love-affair-with-Sri-Lankan-apparel/4-764254) · `en`
+
+In the face of global economic challenges, the apparel industry has struggled to maintain its footing. Yet, within this turbulent landscape, Italy has proven to be a significant export destination in the EU for Sri Lankan apparel.
+
+In 2013, Sri Lanka’s total apparel exports were valued at $ 4.3 billion, with exports to Italy accounting for 9% or $ 408 million. Ten years later, Sri Lanka’s total apparel exports saw a modest 5% increase to $ 4.53 billion, while exports to Italy surged 38% to $ 563.5 million, accounting for nearly 12% of Sri Lanka’s total apparel exports.
+
+...
+
+[Data](articles/f772e070.json)
 
 ---
 
@@ -2185,159 +2291,5 @@ She had been laid by the Coast Guard, lifeguards and admitted to the Matara hosp
 [Data](articles/0853168f.json)
 
 [Extended Data](ext_articles/0853168f.ext.json)
-
----
-
-### Motor vehicle to MP Dilan in danger
-
-*2024-07-14 10:15:47* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-ඩිලාන්-ගමන්-ගත්-මෝටර්-රථය-අනතුරක/11-410766) · `si`
-
-Badulla District MP Dilan Perera was involved in an accident on the Southern Expressway near Nagoda Hospital in Kalutara. Despite the severe damage to the car and the highway, Perera and his five security guards escaped without injuries. The incident occurred as he was traveling to a meeting in Matugama.
-
-🟩
-
-Badulla District MP Dilan Perera has been admitted to the Southern Expressway to be admitted to the Nagoda hospital 28 kilometers in Kalutara.
-
-Dilan Perera has no injuries in the accident. The MP, five of the security guards have been in the car.
-
-The car slips from Colombo to Colombo to Matara and stops around the road to the road and stopped the safety fence in the middle of the road.
-
-The accident had been accidental while he was on his way to attend the meeting in the Meeting Force in Matugama. The said sources said.
-
-The car and the highway is severely damaged.
-
-◼️
-
-[Data](articles/b6cf743f.json)
-
-[Extended Data](ext_articles/b6cf743f.ext.json)
-
----
-
-### Presidential Election 2024: Special announcement of the Election Commission on Tuesday
-
-*2024-07-14 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/188399) · `ta`
-
-The Election Commission will announce the date for the 2024 Presidential Election on Tuesday, 16th, at 10:30 am. It can set the election day after midnight on Tuesday and requires the new president's inauguration to finish before midnight on October 17. Postponement is possible due to disasters but must occur before October 12. The government prefers holding the election in September, but President Ranil Wickremesinghe hasn't declared his candidacy yet.
-
-🟩
-
-The Elections Commission will issue a special announcement on the presidential election 2024 on Tuesday 16th. The announcement will be made at 10.30 am that day, the Commission said.
-
-The Election Commission has the power to announce the presidential election day after 12 midnight on Tuesday (16). Similarly, the new president's swearing -in ceremony must have been completed before 12 midnight on October 17, according to the Constitution.
-
-The Commission has the power to postpone the election for a week only in the event of a natural disaster or sudden disaster in the country in October.. If so, the presidential election should have been held before October 12.
-
-In this case, the government is in the position that it is best if the election is held in September. But President Ranil will not make any announcement on the presidential election. United National Party (UNP) MP Vajira Abeywardena said that it was a complete authority to the Election Commission.
-
-...
-
-[Data](articles/1b475c02.json)
-
-[Extended Data](ext_articles/1b475c02.ext.json)
-
----
-
-### Moulavi arrested for cutting her hair
-
-*2024-07-14 10:04:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/யுவதியின்-முடியை-வெட்டிய-மௌலவி-கைது/76-340359) · `ta`
-
-A Maulavi from Muruthalawa was arrested for allegedly cutting a woman's hair on a bus from Katugastota to Kandy. The victim recorded the incident on her phone and turned the suspect over to the police after passengers intervened.
-
-🟩
-
-Kandy headquarters police have arrested a Maulavi from Muruthalawa, who was allegedly cutting the hair of a 27 -year -old girl who was traveling on the bus.
-
-Police investigations revealed that when a woman was sitting on a bus traveling from Katugastota to Kandy, Moulavi had cut off the hair of the woman in the back of the seat.
-
-Faced with the incident, the woman has taken a video on her mobile phone with the suspect and the part of the hair she cut.
-
-In addition, the woman who lives in Madawala area has been facing the incident while traveling to Kandy for some purposes, and according to her announcement, the bus passengers have caught the suspect and handed it over to the police.
-
-The arrested suspect is said to be from Muruthalawa Tehiyanka North.
-
-◼️
-
-[Data](articles/9ce1576c.json)
-
-[Extended Data](ext_articles/9ce1576c.ext.json)
-
----
-
-### A shooting of tramper
-
-*2024-07-14 10:02:33* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්ට-වෙඩි-තැබිමක්/11-410765) · `si`
-
-At a Pennsylvania rally, US President Donald Trump was shot, leading to his injury. The shooter was killed by security forces. Additionally, two others died, and two were injured. Following the incident, President Joe Biden spoke with Trump.
-
-🟩
-
-US President Donald Trump has been injured due to a shot. The shooting was carried out at a political rally in Pennsalvania.
-
-The shooting person has been killed in retaliation of the security forces. Two persons were killed and two persons were injured in this incident.
-
-US President Joe Biden has spoken to Trump after the shooting.
-
-◼️
-
-[Data](articles/94b07f34.json)
-
-[Extended Data](ext_articles/94b07f34.ext.json)
-
----
-
-### Pooja within the incense;Arrest
-
-*2024-07-14 10:01:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூபிக்குள்-பூஜை-ஐவர்-கைது/175-340358) · `ta`
-
-Five individuals were arrested on Saturday for allegedly trying to unearth a millennium-old incense treasure. The suspects, aged between 40 and 56, hail from various towns. A senior suspect managed to escape. Seized items include two motorcycles, lamps, yarn, sandalwood, incense, and tools. Further inquiries are ongoing.
-
-🟩
-
-Five persons have been arrested on Saturday evening (13) evening for attempting to dig the treasure of a thousand years old incense.
-
-Based on information received by the officers of the Karuwalakaswewa Wildlife Office, they have been arrested during a raid conducted by the Karuwalakaswewa police officers and wildlife officials.
-
-The arrested persons are from Navagadegama, Kobayegane, Nikaweratiya and Wariyapola, aged 40, 50, 52, 56, police said.
-
-It is also reported that a suspect over the age of 65 has escaped during the raid.
-
-Two motorcycles, including lamps, including lamps, and yarn, sandalwood, incense, alavangu, shovel, etc., have been seized.
-
-In addition, the Karuwalakaswewa police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/8f42122c.json)
-
-[Extended Data](ext_articles/8f42122c.ext.json)
-
----
-
-### Kokkuttuvai Human Rights Excavation - Two Human Skeleton Boxes
-
-*2024-07-14 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188400) · `ta`
-
-During the third phase of the Kokkuttuwai Human Rights Excavation in Mullaitivu, two human skeletons and a cyanide bottle were discovered. This excavation, overseen by Archaeological Professor Raj Somadeva and Forensic Police, included the participation of Mullaitivu Court Judge Dharmalingam Pradeepan. In total, 47 human skeletal remains have been unearthed, with 7 found in this latest phase.
-
-🟩
-
-Mullaitivu - Kokkuttuwai's third phase of the excavation of the human burial ground took place on Saturday (13).
-
-Mullaitivu District Legal Medical Officer Kanagasabapathi Vasudeva said that two human skeletons and cyanide bottle were excavated at the completion of the excavation.
-
-In particular, in the presence of Mullaitivu Court Judge Dharmalingam Pradeepan, the nineth day excavations were held with the participation of a group led by Archaeological Professor Raj Somadeva and the Forensic Police, led by legal officer Kanagasabapathi Vasudeva.
-
-Two human skeletons and a cyanide vial have been excavated from the human skeleton which has already been identified in excavations.
-
-In this case, 40 human skeletons have been excavated during the previous two excavations in the Kokkuttuwai Human Portrait.
-
-It is noteworthy that a total of 47 human skeletal blocks have been excavated with 7 human skeletons in the third phase excavation.
-
-◼️
-
-[Data](articles/17ce990b.json)
-
-[Extended Data](ext_articles/17ce990b.ext.json)
 
 ---

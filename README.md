@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 03:05:06**
+As of **2024-07-15 03:20:00**
 
 ## Newspaper Stats
 
-*Scraped **35,249** Articles*
+*Scraped **35,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,089
-dailyftlk | 2,230
+dailyftlk | 2,231
 adalk | 3,179
 adaderanalk | 4,055
-tamilmirrorlk | 4,239
+tamilmirrorlk | 4,240
 dailymirrorlk | 4,733
 virakesarilk | 5,501
 adaderanasinhalalk | 5,882
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,249 (100.0%) of 35,249 articles have been extended.
+35,249 (100.0%) of 35,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Thailand attends Industry Expo 2024 and DigiEcon Global Investment Summit in Sri Lanka
+
+*2024-07-15 02:35:09* · [`dailyftlk`](https://www.ft.lk/business/Thailand-attends-Industry-Expo-2024-and-DigiEcon-Global-Investment-Summit-in-Sri-Lanka/34-764278) · `en`
+
+Thai Chamber of Commerce and Thailand Board of Trade Chairman leads delegation
+
+The Embassy and Permanent Mission of Sri Lanka in Bangkok made arrangements for a seven member delegation headed by the Thai Chamber of Commerce and Thailand Board of Trade Chairman Sanan Angubolkul to join the International Industry Expo 2024 and DigiEcon Global Investment Summit held in Sri Lanka recently.
+
+During the visit, Angubolkul and his delegation paid a courtesy call on the Industries Minister Dr. Ramesh Pathirana and had a meeting with the Trade, Commerce and Food Security Secretary A.M.P.M.B. Atapattu, and discussed ways to enhance bilateral trade and investment.
+
+The Memorandum of Understanding between the Board of Trade of Thailand and the Ceylon Chamber of Commerce of Sri Lanka, which was already signed in 1988, was also renewed at the Ceylon Chamber of Commerce during the visit.
+
+◼️
+
+[Data](articles/8bc8cbb6.json)
+
+---
 
 ### Hayleys Fabric wins Gold at Presidential Environmental Awards 2024
 
@@ -151,6 +169,24 @@ With the assistance of UAE authorities, the arrests were carried out in Dubai by
 [Data](articles/67dc6af2.json)
 
 [Extended Data](ext_articles/67dc6af2.ext.json)
+
+---
+
+### வடக்கு அரச ஊழியர்களுக்கு பிரதமர் தினேஷ் பாராட்டு
+
+*2024-07-15 01:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-அரச-ஊழியர்களுக்கு-பிரதமர்-தினேஷ்-பாராட்டு/175-340402) · `ta`
+
+வேலை நிறுத்தப் போராட்டங்களில் ஈடுபடாது, மக்களுக்காக பணியாற்றி வட பகுதியைச் சேர்ந்த அரச ஊழியர்களுக்கு தனது பாராட்டை தெரிவித்துக்கொண்ட பிரதமர் தினேஷ் குணவர்தன, சமுதாயத்தை முன்னேற்றப் பாடுபட்டனர் என்றும் தெரிவித்துள்ளார்.
+
+கடந்த சில நாட்களாக கொழும்பில் சில சூழ்நிலைகள் ஏற்பட்டுள்ளன. ஆனால் யாழ்ப்பாண மக்கள் அவற்றில் இணையவில்லை. அதற்காக ஆளுநர், ஆசிரியர்கள் மற்றும் அனைவருக்கும் நன்றி தெரிவித்துக் கொள்கிறேன். அவர்கள் வழக்கம் போல் வேலைக்குச் சென்று, அன்றாடக் கடமைகளை நிறைவேற்றியுள்ளனர் என்றார்.
+
+வட மாகாண உள்ளூராட்சி நிறுவனங்களின் ஊழியர்களுக்கு நிரந்தர நியமனம் வழங்கும் நிகழ்வு யாழ்ப்பாண பொது நூலக கேட்போர் கூடத்தில் வௌ்ளிக்கிழமை (12) இடம்பெற்றது. இந்த நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே பிரதமர் இதனைக் குறிப்பிட்டார்.
+
+யாழ்ப்பாண நூலகத்திற்கும் இதன் போது நூல்கள் வழங்கிவைக்கப்பட்டன. இங்கு மேலும் கருத்துத் தெரிவித்த பிரதமர்-
+
+...
+
+[Data](articles/8630c2ff.json)
 
 ---
 
@@ -2231,55 +2267,5 @@ Opposition leader Sajith Premadasa, who said that it is impossible to say that t
 [Data](articles/92875401.json)
 
 [Extended Data](ext_articles/92875401.ext.json)
-
----
-
-### Note for the Madush of Makandi
-
-*2024-07-14 10:29:18* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මදූෂ්-වෙනුවෙන්-තැබූ-සටහන/11-410767) · `si`
-
-A banner at a gathering in Maharagama features a photo of gunfire between police and attendees, including Madush of Makandi. The police have taken the banner for investigation regarding the incident where shots were fired, potentially linked to the murder of Wasantha Surendra Perera during the Tall Arts event. This incident may involve individuals displaced from the Susan area, with one person already identified for arrest by security forces.
-
-🟩
-
-Attorney at Law, a banner with a photograph of the gunfire with the police, a banner with the gunfire is a banner at the gathering of the Gavigamuwa, Maharagama.
-
-The banner has already taken the banner and it will be carried out by the Maharagama Police that he will investigate the investigation into the persons displaced in the wall of the Susan.
-
-"Our brother ...... One is sending - look after us .... Download Madush's photo on the right
-
-The banner was recorded by the following three English letters, as follows:
-
-During the Tall Arts, Wasantha Surendra Perera, was also mentioned in the bullets for the murder of Club Wasantha, or Club Wasantha murder.
-
-According to the police sources, the first person was identified as the first person who was given to the security forces to arrest Makanurai.
-
-◼️
-
-[Data](articles/3d3ec37a.json)
-
-[Extended Data](ext_articles/3d3ec37a.ext.json)
-
----
-
-### Ranil denounces Trump's assassination attempt
-
-*2024-07-14 10:24:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ட்ரம்ப்-மீதான-படுகொலை-முயற்சிக்கு-ரணில்-கண்டனம்/175-340363) · `ta`
-
-President Ranil Wickremesinghe expresses shock and relief over the false report of former US President Donald Trump's assassination, thanking him for his safety. He urges adherence to democratic laws, highlighting Sri Lanka's experience with political violence. The incident occurred at a rally in Butler, Pennsylvania, where a gunshot killed a spectator and injured two others.
-
-🟩
-
-President Ranil Wickremesinghe has expressed shock and relief over the assassination of former US President Donald Trump and thanked Trump for being safe.
-
-The President said that Sri Lankans also experienced political violence and urged everyone to follow the laws of democracy.
-
-It is noteworthy that former President Donald Trump was shot dead in the ear of a gunman at a rally in Butler, Pennsylvania, but it was a horrific incident that caused a spectator died, and two were injured and confused at the event.
-
-◼️
-
-[Data](articles/e98cfef6.json)
-
-[Extended Data](ext_articles/e98cfef6.ext.json)
 
 ---

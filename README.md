@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 00:12:13**
+As of **2024-07-15 00:24:25**
 
 ## Newspaper Stats
 
-*Scraped **35,232** Articles*
+*Scraped **35,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 331
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
-economynextcom | 2,086
+economynextcom | 2,089
 dailyftlk | 2,219
 adalk | 3,179
 adaderanalk | 4,055
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,232 (100.0%) of 35,232 articles have been extended.
+35,232 (100.0%) of 35,235 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -175,6 +175,26 @@ The move has been taken to promote tourism in Thailand.
 [Data](articles/238cc734.json)
 
 [Extended Data](ext_articles/238cc734.ext.json)
+
+---
+
+### Sri Lanka to create villages, provide land for 176,000 families living in plantations
+
+*2024-07-14 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-create-villages-provide-land-for-176000-families-living-in-plantations-172042/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved the drafting of a law to create village communities in areas where people mainly descendants of former workers are resident in plantations.
+
+“..[I]’t is expected to introduce a new law amalgamating estate houses and line rooms available in estate areas and creating villages for them,” according a proposal by President Ranil Wickremesinghe, a post cabinet statement.
+
+Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, told Colombo’s Foreign Correspondents that about 176,000 families are expected to get 10 perch blocks of land under the plan.
+
+About 4,777 hectares of land would be required for to give houses for the residents. Plantations collectively had about 205,000 hectares.
+
+The land that is currently occupied by the people, including temples, schools and common areas gazetted as communities or villages.
+
+...
+
+[Data](articles/3e29294c.json)
 
 ---
 
@@ -1360,6 +1380,26 @@ He was speaking at a media briefing held in Colombo today (14).
 
 ---
 
+### Sri Lanka Customs has only 2,000 containers to clear
+
+*2024-07-14 13:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-has-only-2000-containers-to-clear-172039/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs has cleared 4,835 containers from July 08 to 12, compared to a total of 5,557 boxes for which clearance documents were submitted, a statement said.
+
+There are only about 2,000 boxes left by Friday, out of a backlog built up during a work to rule campaign, the statement said.
+
+Officers would also work on Saturday as a normal working day to clear the backlog, a statement from Sri Lanka Customs said.
+
+It is expected that after Monday, the remaining backlog would be cleared.
+
+On aveage 970 containers had been cleared daily, the statement said. (Colombo/July14/2024)
+
+◼️
+
+[Data](articles/b96ea02c.json)
+
+---
+
 ### SJB urges govt to beef up Sajith’s security after Trump assassination attempt
 
 *2024-07-14 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100497/sjb-urges-govt-to-beef-up-sajiths-security-after-trump-assassination-attempt) · `en`
@@ -1399,6 +1439,28 @@ The deceased woman has been identified as a 37-year-old from South Korea.
 [Data](articles/caea532e.json)
 
 [Extended Data](ext_articles/caea532e.ext.json)
+
+---
+
+### Sri Lanka coconut prices rise 3.7-pct
+
+*2024-07-14 12:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-rise-3-7-pct-172036/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices rose 3.7 percent to 82,616 rupees from 79,599 per 1,000 nuts at an auction on July 11, data from the Coconut Development Authority shows.
+
+The highest price was 95,600 up from 94,000 for 1000 nuts while the lowest was 74,100 up from 70,000.
+
+A total of 522,673 coconuts were offered at the auction and 493,874 were sold.
+
+Wholesale prices were 95 to 105 rupees for large nuts and 85 to 90 rupees for small nuts on July 11.
+
+Farmgate prices in Kurunegala were 75,000 – 80,000 per 1,000 nuts.
+
+Coconut shells were 31,000 – 32,000 rupees per metric ton. (Colombo/July14/2024)
+
+◼️
+
+[Data](articles/0a004530.json)
 
 ---
 
@@ -2279,93 +2341,5 @@ Though the central bank has not cut rates with inflationary operations up to May
 [Data](articles/14ecd932.json)
 
 [Extended Data](ext_articles/14ecd932.ext.json)
-
----
-
-### Firing on Trump: Modi condemns
-
-*2024-07-14 08:59:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்ப்-மீது-துப்பாக்கி-சூடு-மோடி-கண்டனம்/175-340351) · `ta`
-
-During the U.S. presidential election, Donald Trump was shot at a rally in Pennsylvania, injuring his ear. The attacker was killed by security forces, and Trump received medical treatment but is now in good health. Indian Prime Minister Modi strongly condemned the violence, emphasizing the importance of non-violence in politics and democracy, and wished Trump a speedy recovery.
-
-🟩
-
-The US presidential election is scheduled for November 5. Of these, the main parties are the Democratic and the Republican Party face -to -face. Current President Joe Bidon fielded as Democratic candidate. Similarly, former President Donald Trump has fielded the Republican candidate.
-
-As the election approaches. Accordingly, Republican presidential candidate Donald Trump participated in a public meeting in Butler, Pennsylvania.
-
-While Donald Trump was speaking at the public meeting, the man in the crowd suddenly fired at Trump. Donald Trump's ear injury in this firing attack. The people gathered by the incident were hugely shocked. Immediately after security officers became a security fortress around Trump. One person died in the firing.
-
-...
-
-[Data](articles/29351094.json)
-
-[Extended Data](ext_articles/29351094.ext.json)
-
----
-
-### Five dead accidents
-
-*2024-07-14 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198784) · `si`
-
-In four separate incidents across Attanagalla, Lunugamvehera, Giriulla, and Ambalangoda, five fatalities occurred. Two youths from Kuliyapitiya and Giriulla died in a crash near Kohilawala. A 20-year-old motorcyclist perished after losing control on the Galle-Colombo road. In Lunugamvehera, a 33-year-old man was killed when his bike collided with another vehicle. Lastly, a 68-year-old woman succumbed to injuries sustained in a three-wheeler accident on the Nittambuwa-Hanwella road.
-
-🟩
-
-Five people were killed in four area accidents.
-
-Police say, the police were reported from the Attanagalla, Lunugamvehera, Giriulla and Ambalangoda.
-
-Two youths were killed in an accident in Kohilawala area on the Giriulla - Humanlla.
-
-The deceased has been identified as two youths in Kuliyapitiya and Giriulla areas.
-
-Meanwhile, a 20-year-old youth has been living in a motorcycle accident in Ambalangoda road on the Galle-Colombo road.
-
-Motorcyclist, from Galle to Colombo, slipped to the boasis and slipped to the bank and clashed with a tree.
-
-Meanwhile, a motorbike has been confronted with a motorcycle on the 100 foot area in the Lunuamvehera police division.
-
-The victim was dead in the accident, police said.
-
-The deceased has been identified as a 33 year old resident of the Lunugamvehera area.
-
-Meanwhile, a three-wheeler was in the Urapola Junction area on the Nittambuwa-Hanwella road.
-
-The woman who was seriously injured in the accident has died in admission to the Vathupitiwala Hospital.
-
-...
-
-[Data](articles/8676005d.json)
-
-[Extended Data](ext_articles/8676005d.ext.json)
-
----
-
-### Sri Lankan injured in Israel
-
-*2024-07-14 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198783) · `si`
-
-A Sri Lankan man was injured near the Lebanese border in northern Israel during a missile attack. The incident occurred while he was rushing to a shelter. The Sri Lankan Ambassador in Israel, Nimal Bandara, confirmed the injury but stated it was not serious.
-
-🟩
-
-A Sri Lankan in Israel has been injured in a man of iron in a missile destroyed by the Indom system.
-
-The Sri Lankan Embassy in Sri Lanka, the Sri Lankan embassy in Sri Lanka said that a Sri Lankan was engaged in agriculture near the Lebanese border in northern Israel.
-
-He was hospitalized by the Israeli security forces and the Israeli security forces have been hospitalized.
-
-Sri Lankan Ambassador in Sri Lanka Nimal Bandara said in a query by Ada Derana that his condition is not serious.
-
-The accident had occurred while the crash was rushed to their safety room, but the accident had been raided at the time of the attacks.
-
-Nimal Bandara said that the voice of the Israeli Lebanese missiles have increased and informed the voice of a border while serving in the attack.
-
-◼️
-
-[Data](articles/1f703a6c.json)
-
-[Extended Data](ext_articles/1f703a6c.ext.json)
 
 ---

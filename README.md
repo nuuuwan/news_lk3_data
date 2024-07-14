@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 11:07:14**
+As of **2024-07-14 11:19:59**
 
 ## Newspaper Stats
 
-*Scraped **35,144** Articles*
+*Scraped **35,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,163
-adaderanalk | 4,042
-tamilmirrorlk | 4,221
+adaderanalk | 4,043
+tamilmirrorlk | 4,224
 dailymirrorlk | 4,733
-virakesarilk | 5,482
+virakesarilk | 5,484
 adaderanasinhalalk | 5,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,144 (100.0%) of 35,144 articles have been extended.
+35,144 (100.0%) of 35,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### சிறுமிகள் துஷ்பிரயோகம்: ஆடிய ஆசிரியர் கைது
+
+*2024-07-14 10:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிகள்-துஷ்பிரயோகம்-ஆடிய-ஆசிரியர்-கைது/175-340364) · `ta`
+
+நடன வகுப்பிற்கு வந்த சிறுமிகளை துஷ்பிரயோகம் செய்ததாக கூறப்படும் நடன வகுப்பு ஆசிரியர் ஒருவர் சனிக்கிழமை (13) கைது செய்யப்பட்டதாக ஹங்வெல்ல பொலிஸார் தெரிவித்தனர்.
+
+ஹங்வெல்ல - படேவெல பிரதேசத்தை சேர்ந்த 38 வயதுடைய நடன ஆசிரியர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்டவர், தனது நடன வகுப்பிற்கு வந்த சிறுமிகளை அறைக்குள் அழைத்துச் சென்று பாலியல் துஷ்பிரயோகம் செய்துள்ளதுடன் வட்ஸ்அப் மூலம் ஆபாச புகைப்படங்களை அனுப்பியுள்ளார் எனவும் பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகநபர் தொடர்பில் தலங்கம மற்றும் நவகமுவ பொலிஸாருக்கும் இவ்வாறான பாலியல் துஷ்பிரயோக முறைப்பாடுகள் கிடைத்துள்ளதாக ஹங்வெல்ல  பொலிஸ் நிலைய அதிகாரி ஒருவர் தெரிவித்தார்.
+
+மேலும், கைது செய்யப்பட்ட சந்தேக நபர் ஹோமாகம நீதவான் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்தனர் .
+
+◼️
+
+[Data](articles/1cc15383.json)
+
+---
+
+### Winners of Derana Little Star – Season 12
+
+*2024-07-14 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100493/winners-of-derana-little-star-season-12) · `en`
+
+The Grand Finale of “Derana Little Star – Season 12” wrapped up following some spectacular performances by young artists who showcased their talents.
+
+After a series of preliminary rounds held with the participation of hundreds of contestants, season 12 of the competition concluded last night (July 13) with grandeur.
+
+The contestants competed under two age categories (Under 08 and Under 12) to be adjudged the most talented stars in dancing and singing.
+
+Meanwhile, the most popular stars were selected by the audience through voting.
+
+The winners of “Derana Little Star – Season 12” are as follows:
+
+◼️
+
+[Data](articles/fe03d97b.json)
+
+---
+
+### சஜித்தின் தேர்தல் கூட்டணியை ஆகஸ்ட் 1இல் அறிவிக்க தீர்மானம்
+
+*2024-07-14 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188398) · `ta`
+
+உத்தேச ஜனாதிபதி தேர்தலை மையப்படுத்திய ஐக்கிய மக்கள் சக்தியை தலைமைத்துவமாக கொண்ட அரசியல் கூட்டணி எதிர்வரும் ஆகஸ்ட் முதலாம் திகதி அறிவிக்கப்படவுள்ளது. கொழும்பில் பெரும் மாநாட்டை நடத்தி இந்த அறிவிப்பு விடுக்கப்படவுள்ளதுடன், அதற்கான ஏற்பாடுகள் அனைத்து மட்டங்களிலும் முன்னெடுக்கப்பட்டு வருவதாக எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி தலைமைத்துவமாக கொண்டு பரந்துபட்ட அரசியல் கூட்டணிக்கான பேச்சுவார்த்தைகள் முடிவுற்றுள்ளது. உத்தேச ஜனாதிபதி தேர்தலின் வெற்றியை இலக்காக கொண்டு உருவாக்கப்பட்டுள்ள இந்த கூட்டணி குறித்து உத்தியோகபூர்வ அறிவிப்பு ஆகஸ்ட் மாதத்தில் வெளிப்படுத்தப்படவுள்ளது. தமிழ் மற்றும் முஸ்லிம் உள்ளிட்ட பல கட்சிகள் உள்ளடங்கலாக இந்த எதிர்க்கட்சியின் கூட்டணி அமையப்பெற்றுள்ளது.
+
+எந்தந்த கட்சி மற்றும் முக்கிய அரசியல் பிரமுகர்கள் இணைந்துள்ளார்கள் என்பதை தற்போது கூற இயலாது என தெரிவித்த எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச, உரிய திகதி நெருங்குகையில் அரசியல் கூட்டணி குறித்த முழுமையான தகவல்கள் வெளிப்படுத்தப்படும் என்று வீரகேசரிக்கு கூறினார்.
+
+...
+
+[Data](articles/92875401.json)
+
+---
+
+### ட்ரம்ப் மீதான படுகொலை முயற்சிக்கு ரணில் கண்டனம்
+
+*2024-07-14 10:24:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ட்ரம்ப்-மீதான-படுகொலை-முயற்சிக்கு-ரணில்-கண்டனம்/175-340363) · `ta`
+
+அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் மீதான படுகொலை முயற்சி தொடர்பில் அதிர்ச்சியையும் நிம்மதியையும் வெளிப்படுத்திய ஜனாதிபதி ரணில் விக்ரமசிங்க, ட்ரம்ப் பாதுகாப்பாக உள்ளதற்கு நன்றி தெரிவிப்பதாக தெரிவித்துள்ளார்.
+
+இலங்கையர்களும் அரசியல் வன்முறைகளை அனுபவித்துள்ளதாக தெரிவித்த ஜனாதிபதி, ஜனநாயகத்தை பாதுகாக்கும் சட்டங்களை பின்பற்றுமாறு அனைவரையும் வலியுறுத்தினார்.
+
+பென்சில்வேனியாவின் பட்லரில் சனிக்கிழமையன்று நடந்த பேரணியில் மேடையை நோக்கி துப்பாக்கிதாரி துப்பாக்கியால் சுட்டதில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் காதில் சுடப்பட்டார் - ஒரு பார்வையாளர் இறந்தார், மேலும் இருவர் படுகாயமடைந்தனர் மற்றும் நிகழ்வில் குழப்பத்தை ஏற்படுத்திய ஒரு பயங்கரமான சம்பவம் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e98cfef6.json)
+
+---
+
+### அகழ்வாய்வு பணிகளின் நிறைவில் 47 மனித எச்சங்கள் மீட்பு
+
+*2024-07-14 10:23:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகழ்வாய்வு-பணிகளின்-நிறைவில்-47-மனித-எச்சங்கள்-மீட்பு/175-340362) · `ta`
+
+முல்லைத்தீவு - கொக்குத்தொடுவாய் மனித புதைகுழியின் மூன்றாம் கட்ட அகழ்வாய்வின், ஒன்பதாம் நாள் அகழ்வாய்வுப் பணிகளின் நிறைவில் இரண்டு மனித எலும்புக்கூட்டுத்தொகுதிகள்,  அகழ்ந்து எடுக்கப்பட்டுள்ளதாக முல்லைத்தீவு மாவட்ட சட்டவைத்திய அதிகாரி கனகசபாபதி வாசுதேவா தெரிவித்தார்.
+
+முல்லைத்தீவு கொக்குத்தொடுவாய் மனிதப்புதைகுழியின் மூன்றாங்கட்ட அகழ்வாய்வின், ஒன்பதாம் நாள் அகழ்வாய்வுச் செயற்பாடுகள்  சனிக்கிழமை(13) முன்னெடுக்கப்பட்டது.
+
+முல்லைத்தீவு நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில், சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவ தலைமையில் தொல்லியல் பேராசிரியர் ராஜ் சோமதேவ தலைமையிலான  குழுவினர்  தடயவியல் பொலிசார், உள்ளிட்ட தரப்பினரின் பங்குபற்றுதல்களுடன் இந்த ஒன்பதாம் நாள் அகழ்வாய்வுகள் இடம்பெற்றன.
+
+தொடர்ச்சியாக இடம்பெறும் அகழ்வாய்வுப் பணிகளில் அடையாளம் காணப்பட்ட மனித எலும்புக்கூட்டுத் தொகுதிகளிலிருந்து இவ்வாறு இரண்டு மனித எலும்புக்கூட்டுத்தொகுதிகளும் ஒரு சைனைட் குப்பியும் அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/e834d6d2.json)
+
+---
 
 ### Fairly heavy rainfall expected in parts of the island
 
@@ -97,6 +187,22 @@ The car and the highway is severely damaged.
 [Data](articles/b6cf743f.json)
 
 [Extended Data](ext_articles/b6cf743f.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் 2024 : செவ்வாய்க்கிழமை தேர்தல் ஆணைக்குழுவின் விசேட அறிவிப்பு
+
+*2024-07-14 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/188399) · `ta`
+
+ஜனாதிபதி தேர்தல் 2024 தொடர்பான விசேட அறிவிப்பினை எதிர்வரும் 16ஆம் திகதி செவ்வாய்க்கிழமை தேர்தல்கள் ஆணைக்குழு வெளியிடவுள்ளது. இந்த அறிவிப்பு அன்றைய தினம் முற்பகல் 10.30க்கு வெளியிடப்படவுள்ளதாக ஆணைக்குழு தெரிவித்தது.
+
+அரசியமைப்புக்கு அமைய செவ்வாய்கிழமை (16) நள்ளிரவு 12 மணிக்கு பின்னர் ஜனாதிபதி தேர்தலுக்கான தினத்தை அறிவிப்பதற்கான அதிகாரம் தேர்தல் ஆணைக்குழுவுக்கு கிடைக்கபெறுகிறது. அதே போன்று அரசியலமைப்புக்கு அமைய ஒக்டோபர் மாதம் 17ஆம் திகதி நள்ளிரவு 12 மணிக்கு முன்னர் புதிய ஜனாதிபதியின் பதவியேற்பு நிகழ்வுகளும் நிறைவடைந்திருக்க வேண்டும்.
+
+அத்தோடு ஒக்டோபர் மாதத்தில் நாட்டில் இயற்கை அனர்த்தம் அல்லது ஏதேனும் திடீர் அனர்த்தங்கள் ஏற்பட்டால் மாத்திரம் ஒரு வாரத்துக்கு தேர்தலை ஒத்திவைப்பதற்கான அதிகாரம் ஆணைக்குழுவுக்கு உண்டு. அவ்வாறில்லை எனில் ஒக்டோபர் 12ஆம் திகதிக்கு முன்னர் ஜனாதிபதித் தேர்தல் நடைபெற்று முடிந்திருக்க வேண்டும் என்று குறிப்பிட்டுள்ளது.
+
+...
+
+[Data](articles/1b475c02.json)
 
 ---
 
@@ -2175,145 +2281,5 @@ The Renewed Report of the Department of Meteorology stated that rain or thunders
 [Data](articles/bf432dc1.json)
 
 [Extended Data](ext_articles/bf432dc1.ext.json)
-
----
-
-### Another murder during a musical show
-
-*2024-07-13 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198756) · `si`
-
-A fatal clash occurred during a musical event in Morayaya, resulting in the death of a 30-year-old local man. The incident involved two groups, leading to the victim being hospitalized in Tangalle and Embilipitiya hospitals, where his condition is reported to be stable.
-
-🟩
-
-Police said that the death was caused by a clash between two parties during a musical show in Morayaya.
-
-The deceased has been identified as a 30 year old resident of Morayaya, Weeraketiya, police said.
-
-They were admitted to Tangalle and Embilipitiya hospital for treatment and their condition is not serious.
-
-◼️
-
-[Data](articles/a3c5175f.json)
-
-[Extended Data](ext_articles/a3c5175f.ext.json)
-
----
-
-### To the document that excessively smoked vehicles
-
-*2024-07-13 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198755) · `si`
-
-The Department of Motor Traffic plans to document vehicles emitting excessive smoke, aiming to reduce pollution. Director Dasu Gamage mentions the capability to inspect over 4,000 additional vehicles. He emphasizes the importance of genuine smoke certificates for licensing, cautioning against fraudulent practices. Enforcement teams across the country are actively checking vehicles, and owners without proper maintenance orders may face action.
-
-🟩
-
-The Vehicle Emissions Fund of the Department of Motor Traffic will take steps to document the vehicles driven by excessive smoke.
-
-Its director Dasu Gamage said that there is a capacity to refer to the 7th 3,500 525 more vehicles on the road.
-
-Dasu Gamage is requested to obtain the smoking certificate only for the purpose of obtaining the vehicle license.
-
-He said that although many people were persuaded to obtain smoke certificate through fake tricks, the police officers and the officers of the vehicle department are conducting applications in all areas of the country.
-
-If he observes excessive smoke, he added that if a maintenance order is not available against the owner of the vehicle, he added.
-
-◼️
-
-[Data](articles/73ac6a7e.json)
-
-[Extended Data](ext_articles/73ac6a7e.ext.json)
-
----
-
-### Sri Lanka to recruit and train teachers to educate special needs students
-
-*2024-07-13 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-recruit-and-train-teachers-to-educate-special-needs-students-171947/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to recruit and train teachers to educate children with special needs, State Minister of Education Aravindh Kumar has said.
-
-“We need to have enough teachers for this area,” Kumar said on Friday. “As of now we’re lacking in this area, and we are on the verge of increasing our teachers in the area of special education.”
-
-“Once we get enough and more, it will be a common subject in every school.”
-
-Special needs may include learning disabilities or special educational needs such as dyslexia, ADHD or Asperger’s Syndrome, which require extra attention, or students may need to be taught skills to keep up with the syllabi.
-
-The lack of facilities and training for staff has undermined the education of students with special needs.
-
-A UNICEF study conducted in 2016 showed that 23.5 percent of Sri Lankan students living with disabilities are excluded from mainstream education.
-
-...
-
-[Data](articles/937d6ebf.json)
-
-[Extended Data](ext_articles/937d6ebf.ext.json)
-
----
-
-### Confirmation for the land of the military
-
-*2024-07-13 06:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்தினரின்-காணிகளுக்கு-உறுதிப்-பத்திரம்/175-340320) · `ta`
-
-President Wickremesinghe's initiative grants full rights to state lands to the armed forces, police, and families of fallen security personnel, ensuring rightful ownership for those who've bravely served their country. This program, led by the Presidential Secretariat, aims to recognize and reward the sacrifices made by these individuals.
-
-🟩
-
-President Ranil Wickremesinghe's work has been implemented to provide a full right to the state lands given to the army, the Sri Lankan police and the civil security forces disabled and the families of the sacrifices.
-
-The purpose of this program is to ensure the ownership of a landlord in the homeland for the security forces who have sacrificed their lives in the country without fear. The program has been implemented under the leadership of the Presidential Secretariat, according to a statement issued by the Presidential Media Unit.. (A)
-
-◼️
-
-[Data](articles/71ac3408.json)
-
-[Extended Data](ext_articles/71ac3408.ext.json)
-
----
-
-### Tasks in Development in Pinkiriya Shipment processing
-
-*2024-07-13 06:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிங்கிரிய-ஏற்றுமதி-செயலாக்கத்தில்-அபிவிருத்தில்-பணிகள்/175-340319) · `ta`
-
-President Ranil Wickremesinghe launched the second and third phases of the Bingiriya Export Zone, aiming to boost Sri Lanka's economy through exports, manufacturing, tourism, tech, and modern farming. Expected to generate $2.6 billion and create 75,000 jobs, the project includes improvements in Bingiriya, Dummullasuriya, and Madambai, and plans to convert Pingiriya into an economic zone covering agriculture, manufacturing, IT, tourism, and fishing.
-
-🟩
-
-President Ranil Wickremesinghe said the government could build a strong economy within the country through export economy, manufacturing, tourism, technology and modern agriculture.
-
-The President said this at a function held yesterday inaugurating the second and third phase of development work of the Bingiriya Export Zone on 1000 acres as the largest export zone in Sri Lanka.
-
-After the completion of the Bingiriya Loom Zone, it is expected to earn $ 2600 million and 75,000 new employment opportunities will be created.
-
-Dongxia Industrial & Commerce Co.ltd. The President opened the company's office and supervised the company premises and discussed with the staff.
-
-...
-
-[Data](articles/bf96567a.json)
-
-[Extended Data](ext_articles/bf96567a.ext.json)
-
----
-
-### Development Work on Pinkiriya Shipment processing
-
-*2024-07-13 06:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிங்கிரிய-ஏற்றுமதி-செயலாக்கத்தில்-அபிவிருத்தி-பணிகள்/175-340319) · `ta`
-
-President Ranil Wickremesinghe launched the second and third phases of the Bingiriya Export Zone, aiming to boost Sri Lanka's economy through exports, manufacturing, tourism, tech, and modern farming. Expected to generate $2.6 billion and create 75,000 jobs, the project includes improvements in Bingiriya, Dummullasuriya, and Madambai, and plans to convert Pingiriya into an economic zone covering agriculture, manufacturing, IT, tourism, and fishing.
-
-🟩
-
-President Ranil Wickremesinghe said the government could build a strong economy within the country through export economy, manufacturing, tourism, technology and modern agriculture.
-
-The President said this at a function held yesterday inaugurating the second and third phase of development work of the Bingiriya Export Zone on 1000 acres as the largest export zone in Sri Lanka.
-
-After the completion of the Bingiriya Loom Zone, it is expected to earn $ 2600 million and 75,000 new employment opportunities will be created.
-
-Dongxia Industrial & Commerce Co.ltd. The President opened the company's office and supervised the company premises and discussed with the staff.
-
-...
-
-[Data](articles/ff4d380f.json)
-
-[Extended Data](ext_articles/ff4d380f.ext.json)
 
 ---

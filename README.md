@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 21:55:27**
+As of **2024-07-14 22:11:29**
 
 ## Newspaper Stats
 
-*Scraped **35,225** Articles*
+*Scraped **35,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,177
+adalk | 3,178
 adaderanalk | 4,054
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,880
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,225 (100.0%) of 35,225 articles have been extended.
+35,226 (100.0%) of 35,226 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -131,6 +131,32 @@ In response, DIG Gayantha Marapana has expressed his regret to Minister Alles ov
 [Data](articles/fffeca25.json)
 
 [Extended Data](ext_articles/fffeca25.ext.json)
+
+---
+
+### US $ 100 million to restructure electricity
+
+*2024-07-14 18:48:57* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබලය-ප්‍රතිව්‍යුහගත-කරන්න-ඇමෙරිකානු-ඩොලර්-මිලියන-100ක්/11-410781) · `si`
+
+The Asian Development Bank (ADB) has approved a $100 million policy loan to revamp the electricity sector, focusing on sustainability and green energy. This initiative aims to enhance operational efficiency, foster renewable energy adoption, and stimulate investment in the sector, setting the stage for achieving renewable energy targets from 2023 to 2030.
+
+🟩
+
+ADC has approved a policy loan alarm of $ 100 million for the restructuring program in the electricity sector.
+
+According to the Chief Above Power Experioner of the Asian Development Bank, the program is a support to the electricity industry and the power sector for sustainable operations in the electricity industry as well as regulatory operations.
+
+The program will also assist in the accelerated energy development and migrating to generate sustainable green energy generation.
+
+Similarly, this aid program will create a new policy and electricity purchase of the electricity and electricity purchase and to accelerate investment in the expenditure.He also helps to achieve the renewable energy generational of 2023-2030.
+
+The Ministry of Energy stated that the project is an initiative to update the renewable energy and implementing a procurement of renewable energy for small power generation projects and the solar panels.
+
+◼️
+
+[Data](articles/a7f96d84.json)
+
+[Extended Data](ext_articles/a7f96d84.ext.json)
 
 ---
 
@@ -2321,21 +2347,5 @@ Star Garments Group (Star) announced its plan to build a large-scale apparel exp
 [Data](articles/b83ca95c.json)
 
 [Extended Data](ext_articles/b83ca95c.ext.json)
-
----
-
-### Mûve expands Lanka team amid UK sector growth and recognition
-
-*2024-07-14 06:43:00* · [`islandlk`](http://island.lk/muve-expands-lanka-team-amid-uk-sector-growth-and-recognition/) · `en`
-
-Mûve, a UK law firm specializing in property conveyancing since 2016, is bolstering its team of legal professionals based in Sri Lanka to meet increasing demands within the GBP2.5 billion UK property sector, according to a press release.
-
-It said that the firm was recognized as one of the UK’s fastest-growing companies for the second consecutive year by the British newspaper, The Sunday Times, being the sole law firm included in their annual list of the top 100 fastest-growing companies.
-
-...
-
-[Data](articles/da81e4f3.json)
-
-[Extended Data](ext_articles/da81e4f3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 21:10:25**
+As of **2024-07-14 20:52:50**
 
 ## Newspaper Stats
 
@@ -26,35 +26,29 @@ adaderanasinhalalk | 5,880
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,224 (100.0%) of 35,224 articles have been extended.
+35,223 (100.0%) of 35,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### Sri Lankans permission to enter Thailand without visas
+### ශ්‍රී ලාංකිකයින්ට වීසා රහිතව තායිලන්තයට ඇතුළුවීමට අවසර
 
 *2024-07-14 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198807) · `si`
 
-Starting tomorrow, tourists from 93 countries, including Sri Lanka, can enter Thailand without visas, allowing them to stay for up to 60 days. This policy aims to boost tourism, requiring only proof of accommodation and immigration approval.
+ශ්‍රී ලංකාව ඇතුළු රටවල් 93ක සංචාරකයින් සඳහා හෙට (15) සිට වීසා රහිතව තායිලන්තයට ඇතුළුවීම සඳහා අවසර ලබාදී තිබේ.
 
-🟩
+වීසා බලපත්‍රයක් නොමැතිව ශ්‍රී ලාංකිකයින්ට තායිලන්තයට යාම සඳහා අවස්ථාව හිමි වන්‍නේ පළමු වතාවටය.
 
-Thailand has been granted to Thailand without visa from tomorrow (15) to tourists from 93 countries including Sri Lanka.
+තායිලන්තයේ අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් ප්‍රකාශයට පත් කරන ලද නව ප්‍රතිපත්තිය යටතේ සංචාරකයෙකුට දින 60ක කාලයක් වීසා රහිතව එරට රැඳී සිටීමට හැකි බව සඳහන් වේ.
 
-For the first time, Sri Lankans have the opportunity to go to Thailand without a visa.
+මෙලෙස තායිලන්තයට වීසා නොමැතිව ඇතුළුවන සංචාරකයින් සතුව නවාතැන් අරමුදල් සහ ආපසු පැමිණීමට අදාළ සාක්ෂි තිබිය යුතු අතර එරට ආගමන විගමන නිලධාරින්ගේ අනුමැතිය ලබාගැනීම ද අනිවාර්යය වේ.
 
-Under the new policy published by the Ministry of Internal Affairs, a tourist is able to stay for 60 days without visa.
-
-Thailand's visit to Thailand must have the evidence that is relevant to accommodation fund and the approval of the Immigration Officers in the country.
-
-The move has been taken to promote tourism in Thailand.
+තායිලන්තයේ සංචාරක කටයුතු ප්‍රවර්ධනය කිරිම සඳහා මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
 
 ◼️
 
 [Data](articles/238cc734.json)
-
-[Extended Data](ext_articles/238cc734.ext.json)
 
 ---
 

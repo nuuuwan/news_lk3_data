@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 22:11:29**
+As of **2024-07-14 22:25:08**
 
 ## Newspaper Stats
 
-*Scraped **35,226** Articles*
+*Scraped **35,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,178
 adaderanalk | 4,054
-tamilmirrorlk | 4,234
+tamilmirrorlk | 4,235
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,880
+adaderanasinhalalk | 5,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,226 (100.0%) of 35,226 articles have been extended.
+35,226 (100.0%) of 35,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### ප්‍රවාහන සේවා අත්‍යවශ්‍ය සේවා බවට පත්කෙරේ
+
+*2024-07-14 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198808) · `si`
+
+පොදු ගමනාගමන සේවා ඇතුළු ප්‍රවාහන සේවා අත්‍යවශ්‍ය සේවා බවට පත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් යළිත් වරක් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඊයේ (13) දිනයේ සිට ක්‍රියාත්මක වන පරිදි ජනාධිපතිවරයාගේ උපදෙස් මත ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් මෙම ගැසට් නිවේදනය නිකුත් කර ඇති බව වාර්තා වේ.
+
+ඒ අනුව මගීන් හෝ බඩු ප්‍රවාහනය සඳහා වූ පොදු ගමනාගමන සේවා අත්‍යවශ්‍ය සේවා බවට ප්‍රකාශයට පත් කර ඇත.
+
+ඊට අමතරව මංමාවත්, පාලම්, බෝක්කු සහ දුම්රිය මාර්ග ඇතුළුව මංමාවත් දුම්රිය මාර්ග මගින් ගමනාගමන සේවා සඳහා පහසුකම් සැලසීම සහ පවත්වාගෙන යාමට අත්‍යවශ්‍ය සේවා බව අදාළ ගැසට් පත්‍රයේ සඳහන් වේ.
+
+මීට පෙර පෙබරවාරි මස 13 වන දින ද මෙම සේවාවන් අත්‍යවශ්‍ය සේවාවන් ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ගැසට් පත්‍රයක් මගින් ප්‍රකාශයට පත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/be456841.json)
+
+---
+
+### முச்சக்கர வண்டிகளின் பயணக் கட்டணத்தில் மாற்றம்
+
+*2024-07-14 21:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டிகளின்-பயணக்-கட்டணத்தில்-மாற்றம்/175-340396) · `ta`
+
+மேல் மாகாணத்தில் நாளை முதல் முச்சக்கர வண்டிகளின் பயணக் கட்டணம் குறைக்கப்படவுள்ளதாக அகில இலங்கை முச்சக்கரவண்டி சாரதிகள் சங்கத்தின் தலைவர் லலித் தர்மசேகர இன்று தெரிவித்துள்ளார்.
+
+அதற்கமைய இரண்டாவது கிலோமீற்றருக்காக இதுவரை அறவிடப்பட்ட 100 ரூபாய் என்ற பயணக் கட்டணம் நாளை முதல் 90 ரூபாவாகக் குறைக்கப்படவுள்ளது. R
+
+◼️
+
+[Data](articles/2a94a78f.json)
+
+---
 
 ### Sri Lankans permission to enter Thailand without visas
 
@@ -2315,37 +2349,5 @@ Zhang Yan Meng, Director (Global) of ZTE Terminal, commented on the partnership 
 [Data](articles/50793020.json)
 
 [Extended Data](ext_articles/50793020.ext.json)
-
----
-
-### Omega Line wins 2 Bronze awards at Green Industry Symposium
-
-*2024-07-14 06:43:00* · [`islandlk`](http://island.lk/omega-line-wins-2-bronze-awards-at-green-industry-symposium/) · `en`
-
-Italy-based Calzedonia Group (now known as Oniverse)’s Lankan affiliate, Omega Line Ltd, was awarded two bronze awards at the International Symposium on Green Industry Initiative for Sustainable Industrial Development, held at BMICH in Colombo.
-
-The first bronze recognized Omega Line’s energy-efficient initiatives, such as transitioning from clutch to servo motors in sewing machines, employing LED lighting, optimizing compressed air usage, and implementing motion-activated lighting in low-occupancy areas, all contributing significantly to reduced energy consumption and environmental impact.
-
-The second bronze acknowledged Omega Line’s substantial efforts in solar energy, with nearly a third of its energy now being generated from solar sources. These initiatives have resulted in significant carbon emission reductions, amounting to over 1.46 million kilograms saved annually, equivalent to planting approximately 43,600 trees. Omega Line aims to achieve full solar energy dependency by 2030.
-
-...
-
-[Data](articles/561d389f.json)
-
-[Extended Data](ext_articles/561d389f.ext.json)
-
----
-
-### Star Garments Group to establish apparel factory in Togo with $15 Mn IFC loan
-
-*2024-07-14 06:43:00* · [`islandlk`](http://island.lk/star-garments-group-to-establish-apparel-factory-in-togo-with-15-mn-ifc-loan/) · `en`
-
-Star Garments Group (Star) announced its plan to build a large-scale apparel export manufacturing factory in Togo to boost the West African country’s textile and apparel capabilities, through a financing package that includes a USD 15 million loan by the International Finance Corporation (IFC), a member of the World Bank Group.
-
-...
-
-[Data](articles/b83ca95c.json)
-
-[Extended Data](ext_articles/b83ca95c.ext.json)
 
 ---

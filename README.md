@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 10:06:45**
+As of **2024-07-14 10:20:11**
 
 ## Newspaper Stats
 
-*Scraped **35,137** Articles*
+*Scraped **35,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
-adalk | 3,160
+adalk | 3,161
 adaderanalk | 4,041
 tamilmirrorlk | 4,219
 dailymirrorlk | 4,733
@@ -26,29 +26,37 @@ adaderanasinhalalk | 5,859
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,136 (100.0%) of 35,137 articles have been extended.
+35,137 (100.0%) of 35,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வுப்பணி -  இரண்டு மனித எலும்புக்கூட்டுத் தொகுதிகள், சையனைட் குப்பி கண்டெடுப்பு!
+### Kokkuttuvai Human Rights Excavation - Two Human Skeleton Boxes
 
 *2024-07-14 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188400) · `ta`
 
-முல்லைத்தீவு - கொக்குத்தொடுவாய் மனித புதைகுழியின் மூன்றாம் கட்ட அகழ்வாய்வின் ஒன்பதாம் நாள் அகழ்வுப் பணிகள் நேற்று சனிக்கிழமை (13) இடம்பெற்றது.
+During the third phase of the Kokkuttuwai Human Rights Excavation in Mullaitivu, two human skeletons and a cyanide bottle were discovered. This excavation, overseen by Archaeological Professor Raj Somadeva and Forensic Police, included the participation of Mullaitivu Court Judge Dharmalingam Pradeepan. In total, 47 human skeletal remains have been unearthed, with 7 found in this latest phase.
 
-இந்த அகழ்வுப் பணிகளின் நிறைவில் இரண்டு மனித எலும்புக் கூட்டுத்தொகுதிகளும், சையனைட் குப்பி ஒன்றும் அகழ்ந்து எடுக்கப்பட்டுள்ளதாக முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா தெரிவித்தார்.
+🟩
 
-குறிப்பாக, முல்லைத்தீவு நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில், சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா தலைமையில் தொல்லியல் பேராசிரியர் ராஜ் சோமதேவ தலைமையிலான குழுவினர், தடயவியல் பொலிஸார் போன்றோரின் பங்குபற்றுதல்களுடன் இந்த ஒன்பதாம் நாள் அகழ்வாய்வுகள் இடம்பெற்றன.
+Mullaitivu - Kokkuttuwai's third phase of the excavation of the human burial ground took place on Saturday (13).
 
-அகழ்வாய்வுப் பணிகளில் ஏற்கனவே அடையாளம் காணப்பட்ட மனித எலும்புக்கூட்டுத் தொகுதிகளிலிருந்து இவ்வாறு இரண்டு மனித எலும்புக்கூட்டுத் தொகுதிகளும், ஒரு சைனைட் குப்பியும் அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+Mullaitivu District Legal Medical Officer Kanagasabapathi Vasudeva said that two human skeletons and cyanide bottle were excavated at the completion of the excavation.
 
-இந்நிலையில், கொக்குத்தொடுவாய் மனிதப்புதைகுழியில் இதற்கு முன்னர் இடம்பெற்ற இரண்டுகட்ட அகழ்வாய்வுகளின்போது 40 மனித எலும்புக்கூட்டுத் தொகுதிகள் அகழ்ந்தெடுக்கப்பட்டுள்ளன.
+In particular, in the presence of Mullaitivu Court Judge Dharmalingam Pradeepan, the nineth day excavations were held with the participation of a group led by Archaeological Professor Raj Somadeva and the Forensic Police, led by legal officer Kanagasabapathi Vasudeva.
 
-...
+Two human skeletons and a cyanide vial have been excavated from the human skeleton which has already been identified in excavations.
+
+In this case, 40 human skeletons have been excavated during the previous two excavations in the Kokkuttuwai Human Portrait.
+
+It is noteworthy that a total of 47 human skeletal blocks have been excavated with 7 human skeletons in the third phase excavation.
+
+◼️
 
 [Data](articles/17ce990b.json)
+
+[Extended Data](ext_articles/17ce990b.ext.json)
 
 ---
 
@@ -84,7 +92,11 @@ President Ranil Wickremesinghe has expressed his shock about the assassination a
 
 The President stated that Sri Lankans have been at the receiving end of such violence in politics, and urged all to adhere to the laws protecting Democracy, the President’s Media Division reported.
 
-◼️
+Political leaders across the United States and the world expressed horror Saturday night over reports that gunshots were fired during Republican presidential candidate Donald Trump’s rally in Butler, Pennsylvania.
+
+Republican and Democratic leaders, including Trump’s political rival and President Joe Biden condemned the incident. Biden conveyed relief over the former President’s safety, saying there’s “no place for this kind of violence in America” and he’s “grateful to hear that Trump is safe”.
+
+...
 
 [Data](articles/68520a9f.json)
 
@@ -1712,6 +1724,22 @@ How the suspect comes to the house is recorded in the CCTV camera, which was mou
 
 ---
 
+### අභියෝග මැද හර්ෂ ඉදිරිපත් කළ වාර්තාව
+
+*2024-07-13 10:51:27* · [`adalk`](https://www.ada.lk/breaking_news/අභියෝග-මැද-හර්ෂ-ඉදිරිපත්-කළ-වාර්තාව/11-410764) · `si`
+
+ශ්‍රී ලංකා ආගමන සහ විගමන දෙපාර්තමේන්තුව සහ ආයතන සමූහය අතර මාර්ගගත ආකාරයෙන් වීසා සහ විදෙස් ගමන් බලපත්‍ර අයදුම් කිරීමේ සේවා බැහැරින් ලබාගැනීම පිළිබඳ මුදල් කාරක සභාවේ වාර්තාව පාර්ලිමේන්තුවට ඉදිරිපත් කරමින් එම කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසුවේ අභියෝග රැසක් මැද මෙම වාර්තාව ඉදිරිපත් කරන බවයි.
+
+තමාගේ විරෝධය මැද පාර්ලිමේන්තු මහ ලේකම්වරිය මෙම කාරක සභාවට කැඳවූ බවත් තමාව සමහරුන් දැඩි ලෙස සමච්චලයට ලක්කළ බවත් හෙතෙම මෙහිදී අනාවරණය කළේය.
+
+මෙහි ආයතන සමූහය ලෙස හඳුන්වන්නේ වීසා අයදුම්පත් මාර්ගගත ආකාරයෙන් ඉදිරිපත් කිරීමේ බලයලත් නියෝජිතායතනය ලෙස ජී.බී.එස්. ටෙක්නොලොජි සර්විසස් හා අයි.වී.එස්.  ග්ලෝබල් - එෆ්.ඉසෙඩ්.සී.ඕ. සමාගම් සහ තාක්ෂණික සහකරු ලෙස වී.එෆ්. වර්ල්ඩ්වයිඩ් හෝල්ඩින්ග්ස් සීමාසහිත සමාගමයි.
+
+...
+
+[Data](articles/8c31d41d.json)
+
+---
+
 ### Strict warning to those who hold vehicles
 
 *2024-07-13 10:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-வைத்திருப்போருக்கு-கடுமையான-எச்சரிக்கை/175-340323) · `ta`
@@ -2241,27 +2269,5 @@ The July Monthly Medal Event is a highlight on the golfing calendar, attracting 
 [Data](articles/f509c629.json)
 
 [Extended Data](ext_articles/f509c629.ext.json)
-
----
-
-### People’s Bank organizes blood donation camp to mark 63rd anniversary
-
-*2024-07-13 03:15:00* · [`islandlk`](http://island.lk/peoples-bank-organizes-blood-donation-camp-to-mark-63rd-anniversary/) · `en`
-
-To commemorate the Bank’s 63rd anniversary, People’s Bank Welfare Department recently organized a blood donation camp at the Head Office in Colombo 2.
-
-The event was attended by Sujeewa Rajapakse – Chairman of People’s Bank, Clive Fonseka – Chief Executive Officer/General Manager, Nipunika Wijayarathne – Deputy General Manager (Banking Support Services), Anura Perera – Deputy General Manager (Risk Management), Manjula Dissanayake – Deputy General Manager (Human Resources) and Ajith Rathnayake – Senior Manager (Welfare and Staff Loans).
-
-Collection of blood was done under the strict supervision of the doctors of the Blood Bank. Through this annual programme People’s Bank donates a significant amount of blood every year to the Blood Bank.
-
-Signal partners with SLDA for a successful 91st year Annual Scientific Session
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/fdbcbb26.json)
-
-[Extended Data](ext_articles/fdbcbb26.ext.json)
 
 ---

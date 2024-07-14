@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 19:54:57**
+As of **2024-07-14 20:09:31**
 
 ## Newspaper Stats
 
-*Scraped **35,220** Articles*
+*Scraped **35,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,49 @@ adaderanalk | 4,053
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,878
+adaderanasinhalalk | 5,879
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,219 (100.0%) of 35,220 articles have been extended.
+35,220 (100.0%) of 35,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### ඊශ්‍රායලයෙන් වාර්තා වූ අමුතුම ප්‍රහාරය
+### උඩරට මාර්ගයේ දුම්රිය ගමනාගමනය ට බාධා
+
+*2024-07-14 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198806) · `si`
+
+කොළඹ කොටුවේ සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ දුම්රිය බණ්ඩාරවෙල සහ හීල් ඔය අතර දී පීලි පැන තිබේ.
+
+ඒ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ගමනාගමනය සඳහා බාධා මතු වී ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/5ba3a8c7.json)
+
+---
+
+### The oveest attack from Israel
 
 *2024-07-14 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198805) · `si`
 
-ඊශ්‍රායල බස් නැවතුම්පොළකට වුවමනාවෙන් ම මෝටර් රථයක් ධාවනය කර එහි සිටි පිරිසක් හැප්පු පුද්ගලයෙක් ට ආරක්ෂක අංශ විසින් වෙඩි තබා තිබේ.
+In central Israel, a vehicle rammed into a bus station, leading to gunfire from security forces. The incident resulted in four injuries, with one being critical.
 
-මධ්‍යම ඊශ්‍රායලයේ දී එම සිද්ධිය වාර්තා විය. එහිදී බස් නැවතුම්පොළේ සිටි සිව් දෙනෙක් තුවාල ලබා ඇති අතර ඉන් එක අයෙක්ගේ තත්ත්වය බරපතළ ය.
+🟩
+
+The Israeli bus station was driven by a vehicle and was shot dead by security forces.
+
+In central Israel reported that incident. Four injured in the bus stand was injured and one of them is serious.
 
 ◼️
 
 [Data](articles/89a04285.json)
+
+[Extended Data](ext_articles/89a04285.ext.json)
 
 ---
 
@@ -2299,21 +2319,5 @@ A highlight of my brief visit to Engelberg was meeting Mr. Jorge Müller, a lect
 [Data](articles/8bfead5d.json)
 
 [Extended Data](ext_articles/8bfead5d.ext.json)
-
----
-
-### “Captain  Miller” the  LTTE’s First Black Tiger (Karumpuli) Suicide Bomber.
-
-*2024-07-14 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84368) · `en`
-
-“Captain Miller” is the name of an Indian film released on 12 January 2024. The block buster  Tamil Movie had popular actor Dhanush  acting  in the lead titular role of Captain Miller. The film was a fictional tale  about a heroic rebel who fought against British colonial rule. Reports state that the film is the highest ever  grossing film  starring Dhanush.
-
-One reason for the film’s  success was it’s title which evoked much interest and curiosity. “Captain Miller”was the nom de guerre of the Liberation Tigers  of Tamil Eelam(LTTE) suicide bomber who drove an explosive laden truck into an army camp in the north on  5 July 1987. This was the first time the LTTE had deployed a suicide bomber called “Black Tiger”or “Karumpuli”  in a military attack. The name of  Capt Miller  the first “Black tiger” strikes a responsive chord  among many Tamils. July 5th was annually observed as Black tigers day by the LTTE till May 2009.
-
-...
-
-[Data](articles/e71bb13b.json)
-
-[Extended Data](ext_articles/e71bb13b.ext.json)
 
 ---

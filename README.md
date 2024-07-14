@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 13:19:48**
+As of **2024-07-14 13:35:59**
 
 ## Newspaper Stats
 
-*Scraped **35,168** Articles*
+*Scraped **35,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,166
-adaderanalk | 4,046
+adalk | 3,167
+adaderanalk | 4,047
 tamilmirrorlk | 4,228
 dailymirrorlk | 4,733
 virakesarilk | 5,487
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,168 (100.0%) of 35,168 articles have been extended.
+35,168 (100.0%) of 35,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### SJB urges govt to beef up Sajith’s security after Trump assassination attempt
+
+*2024-07-14 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100497/sjb-urges-govt-to-beef-up-sajiths-security-after-trump-assassination-attempt) · `en`
+
+Samagi Jana Balawegaya (SJB) Parliamentarian Eran Wickramaratne stresses that the government should be accountable for the security of Opposition Leader Sajith Premadasa while urging to provide necessary security for the SJB’s presidential candidate.
+
+Speaking regarding the assassination attempt on former US President Donald Trump this morning, the SJB MP stated that similarly, they have doubts about Opposition Leader Premadasa’s security as well, since certain parties are trying to delay the elections.
+
+Commenting regarding the matter at a press briefing today, Wickramaratne condemned the assassination attempt on the ex-US President as an attack on democracy, and siaid that politicians should step away from engaging in such politics.
+
+“Similarly in Sri Lanka, some political parties tend to use these types of tactics when they can’t complete their political agendas. They have attacked the candidates in the past as well”, he added.
+
+...
+
+[Data](articles/0a00921b.json)
+
+---
 
 ### Korean woman drowns in seas off Mirissa
 
@@ -285,6 +303,22 @@ A Trump supporter who participated in the rally after Trump was killed in minor 
 [Data](articles/d48e42b6.json)
 
 [Extended Data](ext_articles/d48e42b6.ext.json)
+
+---
+
+### බූස්ස සහකාර බන්ධනාගාර අධිකාරීට කළ තර්ජනය ගැන පරීක්ෂණ අරඹයි
+
+*2024-07-14 11:30:05* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-සහකාර-බන්ධනාගාර-අධිකාරීට-කළ-තර්ජනය-ගැන-පරීක්ෂණ-අරඹයි/11-410771) · `si`
+
+ගාල්ල, බූස්ස අධිආරක්ෂක බන්ධනාගාරයේ සහකාර බන්ධනාගාර අධිකාරිවරයාට මරණ තර්ජන කිරීම සම්බන්ධයෙන් විධිමත් පරීක්ෂණ, පොලිස් මූලස්ථානය විසින් සහ බන්ධනාගාර දෙපාර්තමේන්තුව විසින් ආරම්භ කර තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක ජේෂ්ඨ පොලිස් අධිකාරි නීතීඥ නිහාල් තල්දූව හා බන්ධනාගාර කොමසාරිස් මාධ්‍ය ප්‍රකාශක ගාමිණී බී දිසානායක යන මහත්වරුන් විසින් ඊයේ (13) මේ බව ප්‍රකාශ කළේය. මේ හේතුවෙන් බූස්ස බන්ධනාගාර අධිකාරිවරයාට සහ ඔහුගේ නිවසට මෙන්ම නිවැසියන්ට විශේෂ ආරක්ෂාවක් ලබා දීමට කටයුතු කල බවද පොලිස් හා බන්ධනාගාර මාධ්‍ය ප්‍රකාශකවරුන් වැඩි දුරටත් සදහන් කළේය.
+
+බූස්ස බන්ධනාගාරයේ බන්ධනාගාර අධිකාරිවරයාගේ කටුනායක පිහිටි නිවසට පසුගිය 11 දින සවස 5.00 ට පමණ යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් ලබාදෙන ලද දුරකතනයක් මගින් බන්ධනාගාර කොමසාරිස්වරයාගේ පියාට මෙම මරණ තර්ජනය කර තිබේ. මේ සම්බන්ධයෙන් බූස්ස බන්ධනාගාර අධිකාරිවරයාගේ පියා විසින් කටුනායක පොලීසියට පැමිණිල්ලක්ද කර තිබේ.
+
+...
+
+[Data](articles/76270781.json)
 
 ---
 
@@ -2263,59 +2297,5 @@ The funeral of Club Wasantha's remains will be held today (13) at the Borella Ge
 [Data](articles/b316be0c.json)
 
 [Extended Data](ext_articles/b316be0c.ext.json)
-
----
-
-### A/L GIT examination results released
-
-*2024-07-13 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100480/al-git-examination-results-released) · `en`
-
-The results of the General Information Technology (GIT) examination of the years 2019, 2020, 2021, 2022 held in the year 2023 have been released online, the Department of Examination announced.
-
-Accordingly, the results can be viewed on the following website: www.doenets.lk.
-
-◼️
-
-[Data](articles/648da54d.json)
-
-[Extended Data](ext_articles/648da54d.ext.json)
-
----
-
-### Reports on records of the Marriage of Ambani son
-
-*2024-07-13 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198761) · `si`
-
-The extravagant wedding of Ananth Ambani and Radhika Merchant, costing over $100 million, included three days of festivities in Mumbai, featuring global celebrities like Justin Bieber and Bill Gates. The event also saw generous gestures towards society, such as feeding 50 low-income couples and providing food for 40 days to the needy.
-
-🟩
-
-Indian ridicule Mukesh Merchant, who is recorded as a marriage for the late time, is held at Mumbai.
-
-It was also from Hollywood, Bollywood stars and in the world's leading politicians.
-
-Anneth - Radhika has cost Rs.
-
-Anneth Ambani's wedding is a wedding of the weddings of Indian richer Mukesh, who is an asset of US $ 115 billion.
-
-Simultaneously, it was concreated in a three-day pre-marriage at Gujarat last March.
-
-The invitees were partnered by the world's leading artists, including politicians, and Mark Zakarburg, Bill Gates.
-
-World-renowned singers have also joined the occasion, for $ 7 million.
-
-In June, the Ambani family organized another pre-marriage to France from Italy to France.
-
-The couple's concert was held last week with the participation of the Canadian singer Justin Bieber.
-
-Frequent laws begin in March is the end of the three-day feast.
-
-On the Hindu Ambani and Radhika Merchant, the first day of the wedding, the Greed Marriage was carried out yesterday on the first day of the wedding.
-
-...
-
-[Data](articles/031e7d34.json)
-
-[Extended Data](ext_articles/031e7d34.ext.json)
 
 ---

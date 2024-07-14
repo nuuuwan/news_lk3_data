@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 17:35:56**
+As of **2024-07-14 17:56:45**
 
 ## Newspaper Stats
 
-*Scraped **35,198** Articles*
+*Scraped **35,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,62 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,171
+adalk | 3,172
 adaderanalk | 4,051
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,490
-adaderanasinhalalk | 5,873
+adaderanasinhalalk | 5,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,197 (100.0%) of 35,198 articles have been extended.
+35,198 (100.0%) of 35,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### පොන්ටිං හැරයයි
+### ජනපති ට ජී එල් ගෙන් අභියෝගයක්
+
+*2024-07-14 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198800) · `si`
+
+ජනාධිපතිවරණය කල්දැමීමට කිසිවෙකුටත් නොහැකි බව හිටපු අමාත්‍ය ජී. එල්. පීරිස් මහතා පවසයි.
+
+ඔහු ඒ බව පැවසුවේ අද (14) උදෑසන අටමස්ථානාධිපති පල්ලේගම හේමරතන නාහිමියන් බැහැදක ආශිර්වාද ලබාගත් අතර මෙහිදී ජනාධිපතිවරණය පැවැත්වීම පිළිබඳව ද අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම හේමරතනා හිමියන් සමඟ සුහද පිළිසඳරක නිරත වී තිබුණි.
+
+ඉන් අනතුරුව හිටපු අමාත්‍යවරයා ලංකාරාම විහාරස්ථානයට ගොස් විහාරාධිපති රළපනාවේ ධම්මජෝති නාහිමි බැහැදක ආශිර්වාද ලබාගත් අතර මෙහිදී ද රටේ වත්මන් දේශපාලන තත්ත්වය පිළිබඳවද  පිළිසඳරක නිරත විය.
+
+පසුව මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නවලට පිළිතුරු දෙමින් පීරිස් මහතා පැවසුවේ ජනාධිපතිවරණය කල්දැමීම සඳහා කිසිදු පුද්ගලයකුට ඉඩක් නොමැති බවයි.
+
+රනිල් වික්‍රමසිංහ ජනාධිපතිවරයා රටේ ආර්ථිකය ශක්තිමත්ව ගොඩනගා ඇති බවත් රටේ සියලුම ප්‍රශ්න විසඳා ඇති බවත් ප්‍රකාශ කරන්නේ නම් මැතිවරණය පැවැත්වීම සඳහා බිය විය නොමැති බවත් කියා සිටියේය.
+
+◼️
+
+[Data](articles/9793e9b0.json)
+
+---
+
+### Ponting is
 
 *2024-07-14 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198799) · `si`
 
-වසර 7ක පමණ කාලයක් දිල්ලි කැපිටල්ස් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස කටයුතු කළ ඔස්ට්‍රේලියානු හිටපු ටෙස්ට් නායක රිකී පොන්ටිං එම තනතුරෙන් ඉවත්වී තිබේ.
+Ricky Ponting, former Australian cricket captain, stepped down as head coach of the Delhi Capitals after seven years due to underwhelming performance, failing to secure the IPL championship title.
 
-බලාපොරොත්තු වූ ප්‍රතිඵල ලබාගැනීමට නොහැකි වීම හේතුවෙන් දිල්ලි කැපිටල්ස් කණ්ඩායමේ හිමිකරුවන් විසින් ඔහුගේ කොන්ත්‍රාත්තුව අවසන් කිරීමට තීරණය කර ඇති බව සඳහන් ය.
+🟩
 
-ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලියේ ප්‍රබල කණ්ඩායමක් වන දිල්ලි කැපිටල්ස් කණ්ඩායම මෙතෙක් එහි ශූරතාවය දිනා ගැනීමට සමත්වී නැත.
+Australian Test leader Ricky Ponting has left the main coach of the Delhi Capituts team for about seven years.
+
+The owners of the Delhi Capitals team have decided to end his contract by the unable to get the expected results.
+
+The Delhi Cesitals team, a powerful team of the Indian Premier League, has not been able to win its championship.
 
 ◼️
 
 [Data](articles/ad98ae1d.json)
+
+[Extended Data](ext_articles/ad98ae1d.ext.json)
 
 ---
 
@@ -391,6 +417,24 @@ When "the country's economic conditions are special, good or good," 28% of peopl
 [Data](articles/7868c19a.json)
 
 [Extended Data](ext_articles/7868c19a.ext.json)
+
+---
+
+### පාතාල නායක ගෝනවල සුනිල්ටත් සාම විනිසුරු පත්වීම් ලබාදී තිබුණ
+
+*2024-07-14 14:06:35* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-නායක-ගෝනවල-සුනිල්ටත්-සාම-විනිසුරු-පත්වීම්-ලබාදී-තිබුණ/11-410776) · `si`
+
+මුල් ළමාවිය සංවර්ධනය  වැඩි දියුණු කිරීම  සදහා වෙනම අධ්‍යාපන ඒකකයක් ස්ථාපිත කර , පෙර පාසැල් ගුරුවරුන්ගේ සේවය ස්ථිර කළ යුතු බව අධිකරන අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවැසිය.
+
+එසේම දේශපාලන අවශ්‍යතා අනුව අතීතයේ සාම විනිසුරු පත්වීම් ලබා දී තිබුණ බවත් පාතාල නායකයෙකු වු ගෝනවල සුනිල් නැමැත්තාටත් සාම විනිසුරු පත්වීම් ලබාදී තිබුණ බවත් ඔහු පැවැසිය.
+
+විජයදාස රාජපක්ෂ මහතා මෙම අදහස් පළ කළේ  ̎මුල් ළමාවියට ගෞරවයක්  ̎ පෙර පාසැල් ගුරුවරියන් සදහා මුළු දිවයිනටම බලපාන පරිදි සාම විනිසුරු පත්වීම් ලබාදීම වෙනුවෙන් පන්නිපිටිය දෙව්රම් වෙහෙර රජමහා  ශාලාවේ පැවති උත්සවයකට එක්වෙමිනි.
+
+" දැනට පවතින අධ්‍යාපන ක්‍රමවේදය වෙනස් විය යුතුයි. මේ රටේ පවතින අධ්‍යාපන ක්‍රමය අනුව බිහි වන්නේ උගතුන් පමණයි. උගතුන් වෙනුවට බුද්ධිමතුන් බිහිවිය යුතුයි. උගත්කම පවතින පුද්ගලයා සතුව බුද්ධිමත් බව නිරායාසයෙන්ම ඇති වෙනවා. පෙර පාසැල් වෙනුවෙන් වෙනම දෙපාර්තමේන්තුවක් හෝ අංශයක් පිහිටුවිය යුතුයි.
+
+...
+
+[Data](articles/7b26d3f1.json)
 
 ---
 
@@ -2283,53 +2327,5 @@ She will also travel to UNESCO World Heritage Sites around the island, the Minis
 [Data](articles/11e62ad6.json)
 
 [Extended Data](ext_articles/11e62ad6.ext.json)
-
----
-
-### Peliyagoda Traffic OIC's UK journey is blurred in two
-
-*2024-07-13 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198777) · `si`
-
-Peliyagoda Traffic OIC Attanayake's application for a UK tourist visa was initially rejected due to financial issues but was later facilitated by a visa consultancy institute. His passport was seized during a dispute over visa fees, leading to his arrest and subsequent court appearance. The case involves allegations of obstructing police duties and unauthorized possession of a passport, with the court eventually ordering the release of Attanayake's passport upon a cash deposit.
-
-🟩
-
-Peliyagoda Police Division OIC of Traffic Division. Attanayake applied to the tourist visa in England, attending his son's graduation ceremony.
-
-However, it was rejected in the early days due to a problem with his financial expression.
-
-He later go to a visa consultancy institute in Dehiwala to obtain visa again.
-
-Accordingly, the relevant agency intervened to provide the police officer to England.
-
-Attanayake goes to the relevant institution on July 2 am to obtain its foreign passport.
-
-The owner of the institute had told the company to carry the passport of Rs.
-
-Peliyagoda Police Traffic Division OIC of the Peliyagoda Police DBD of not obtaining his passport. Atthanayake is lodged with the Dehiwala Police.
-
-Police said that several police officers including the OIC and several police officers who had to inform the head of the institution to hear the complaint had come to the company.
-
-...
-
-[Data](articles/62eb0f44.json)
-
-[Extended Data](ext_articles/62eb0f44.ext.json)
-
----
-
-### Some politicians focus solely on gaining power or ousting rivals from office - President
-
-*2024-07-13 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100487/some-politicians-focus-solely-on-gaining-power-or-ousting-rivals-from-office-president) · `en`
-
-President Ranil Wickremesinghe emphasized his commitment to building a robust economic framework that ensures long-term stability for future generations, steering away from short-term solutions that could risk economic collapse. He made these remarks today (13) during the inauguration of the state-of-the-art swimming pool at the Anuradhapura Central College.
-
-Reflecting on past economic and political crises, President Wickremesinghe highlighted the necessity of a national-level political apparatus capable of strategic governance beyond the five year electoral cycles. He underscored the need for governance focused not merely on short-term power dynamics but on sustainable national development.
-
-...
-
-[Data](articles/ce8562cd.json)
-
-[Extended Data](ext_articles/ce8562cd.ext.json)
 
 ---

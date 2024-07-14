@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 01:35:18**
+As of **2024-07-15 01:53:52**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,237 (100.0%) of 35,239 articles have been extended.
+35,239 (100.0%) of 35,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### ’குத்தகை அடிப்படையில் மீன்பிடிக்க அனுமதி தேவை’
+### Fishing is required for fishing based on the lease
 
 *2024-07-15 00:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குத்தகை-அடிப்படையில்-மீன்பிடிக்க-அனுமதி-தேவை/175-340399) · `ta`
 
-“இந்திய, இலங்கை அரசாங்கங்கள் பேச்சுவார்த்தை நடத்தி கச்சதீவு பகுதியில் குத்தகை அடிப்படையில் தமிழக மீனவர்கள் மீன்பிடிக்க அனுமதிக்க வேண்டும்” என மத்திய மீன்வளத்துறை அமைச்சரிடம் விசைப்படகு மீனவர்கள் கோரிக்கை விடுத்தனர்.
+Tamil Nadu fishermen seek lease-based fishing rights in traditional areas like Kachchativu, with support from the Union Fisheries Minister. The minister visits Rameshwaram, meets with local fisheries welfare executives, and advocates for the release of jailed fishermen. The livelihoods of Tamil Nadu fishermen could be safeguarded through weekly negotiations with the Sri Lankan government. Additionally, 15 vessels were acquitted by a Sri Lankan court between 2021 and 2023, highlighting the need for urgent government intervention to aid the rescue team.
 
-மதுரையில் நடைபெற்ற தேசிய மீன் விவசாயிகள் கருத்தரங்கில் மத்திய மீன்வளம், கால்நடை பராமரிப்பு மற்றும் பால்வளத்துறை அமைச்சர் ராஜீவ் ரஞ்சன் சிங் பங்கேற்றார். அதன்பின் ராமேசுவரம் வந்த மத்திய மீன்வளத்துறை அமைச்சர், ராமேசுவரம் ராமநாத சுவாமி கோயிலில் சுவாமி தரிசனம் செய்தார். தொடர்ந்து தனுஷ்கோடி சென்று புயலால் அழிந்த நினைவுச் சின்னங்களையும், அரிச்சல் முனை கடற்கரைக்கு சென்று பார்வையிட்டார்.
+🟩
 
-அதன்பின் ராமேசுவரம் தனியார் தங்கும் விடுதியில் மத்திய அமைச்சரை, பாரம்பரிய இந்திய மீனவர் நலச்சங்க நிர்வாகிகள் சேசுராஜா, எமரிட், சகாயம் உள்ளிட்ட மீனவ சங்க நிர்வாகிகள் சந்தித்து, இலங்கை சிறையில் உள்ள தமிழக மீனவர்களையும், சிறைபிடிக்கப்பட்ட படகுகளையும் விடுவிக்க நடவடிக்கை எடுக்க வேண்டும். கச்சதீவு பகுதியில் மீன்பிடிக்க அனுமதிக்க வேண்டும் என மனு அளித்தனர்.
+The fishermen have asked the Union Fisheries Minister to "negotiate with Indian and Sri Lankan governments to negotiate and allow Tamil Nadu fishermen to fish on the basis of lease."
+
+Minister of Fisheries, Livestock and Dairy Minister Rajiv Ranjan Singh participated in the National Fish Farmers Seminar in Madurai. The Union Minister of Fisheries, Rameshwaram, then visited the Rameshwaram Ramanatha Swamy Temple. He continued to visit Dhanushkodi and visited the beach with the storm.
+
+Thereafter, Rameshwaram's private lodging hostel should meet the Union Minister, Traditional Indian Fisheries Welfare Executives including Sesuraja, Emerit and Sakayam, and the fishermen in Sri Lankan jails and the fishermen in Sri Lankan jails should be released.. They petitioned to allow fishing in the Kachchativu area.
 
 ...
 
 [Data](articles/5b97b4a0.json)
 
+[Extended Data](ext_articles/5b97b4a0.ext.json)
+
 ---
 
-### சஜித்தின் பாதுகாப்பை பலப்படுத்த கோரிக்கை
+### Request to strengthen Sajith's safety
 
 *2024-07-15 00:39:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-பாதுகாப்பை-பலப்படுத்த-கோரிக்கை/175-340398) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலில் பிரதான எதிர்க்கட்சி வேட்பாளரான குடியரசு கட்சி வேட்பாளரும் அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்டு டிரம்ப் மீது மேற்கொள்ளப்பட்ட துப்பாக்கி சூட்டை அனுமதிக்க முடியாது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஏரான் விக்ரமரத்ன தெரிவித்தார்.
+Eran Wickramaratne, a United People's Power MP, condemned the attack on former US President Donald Trump, emphasizing the importance of democratic practices. He urged the government to enhance the security of their opposition leader amidst Sri Lanka's upcoming elections. Wickramaratne also criticized the delay in local government elections and the illegal appointment of representatives by governors. He called for an end to these actions and warned against involving former local government members in political activities. The MP expressed confidence in the United People's Power's ability to boost the economy, provided the country's laws are enforced correctly.
 
-டிரம்ப் மீதான தாக்குதலை நாம் வன்மையாக கண்டிக்கிறோம். ஜனநாயக ரீதியான தேர்தல் நடவடிக்கைகள் மற்றும் அரசியலையே நாம் முன்னெடுக்க வேண்டும். அதை விடுத்து ஜனநாயக விரோத செயல்களுக்கு இடமளிக்கக் கூடாது என்றும் தெரிவித்துள்ளார்.
+🟩
 
-இலங்கையிலும் தேர்தல் நெருங்கி வருவதால் எமது எதிர்க்கட்சித் தலைவரின் பாதுகாப்பை பலப்படுத்துமாறு  நாம் அரசாங்கத்திடம் கோரிக்கை விடுக்கிறோம் என்றார்.
+United People's Power MP Eran Wickramaratne said the main opposition candidate, the main opposition candidate in the US presidential election, could not allow the shooting on former US President Donald Trump.
 
-கொழும்பில் உள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் ஞாயிற்றுக்கிழமை (14) நடத்திய ஊடகவியலாளர் சந்திப்பின் போதே மேற்கண்டவாறு தெரிவித்தார்.
+We vehemently condemn the attack on Trump. We need to carry out democratic electoral activities and politics. He said that it should not be allowed for anti -democratic activities.
 
-உள்ளூராட்சிமன்ற தேர்தல் பிற்போடப்பட்டுள்ளது. இந்நிலையில்,  ஆளுநர்கள் சில சட்டவிரோதமாக பிரதிநிதிகளை நியமித்துள்ளனர். இந்த சட்ட விரோத நடவடிக்கைகள், நியமனங்களை  கைவிடுமாறு கேட்டுக்கொள்கின்றேன்.
+We are asking the government to strengthen the security of our opposition leader as the election is nearing its election in Sri Lanka.
+
+He said this during a media briefing held at the Opposition Leader's office in Colombo on Sunday (14).
+
+Local government election has been delayed. In this case, the governors have illegally appointed representatives. I urge you to abandon these illegal activities and appointments.
 
 ...
 
 [Data](articles/956d11e4.json)
+
+[Extended Data](ext_articles/956d11e4.ext.json)
 
 ---
 

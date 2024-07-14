@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 22:25:08**
+As of **2024-07-14 22:35:17**
 
 ## Newspaper Stats
 
-*Scraped **35,228** Articles*
+*Scraped **35,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,178
-adaderanalk | 4,054
-tamilmirrorlk | 4,235
+adaderanalk | 4,055
+tamilmirrorlk | 4,236
 dailymirrorlk | 4,733
 virakesarilk | 5,501
 adaderanasinhalalk | 5,881
@@ -26,43 +26,93 @@ adaderanasinhalalk | 5,881
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,226 (100.0%) of 35,228 articles have been extended.
+35,228 (100.0%) of 35,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### ප්‍රවාහන සේවා අත්‍යවශ්‍ය සේවා බවට පත්කෙරේ
+### டிரம்ப் மீது துப்பாக்கிச்சூடு ; சஜித்துக்கும் ஆபத்து?
+
+*2024-07-14 22:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்ப்-மீது-துப்பாக்கிச்சூடு-சஜித்துக்கும்-ஆபத்து/175-340397) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்கட்சி தலைவருமான சஜித் பிரேமதாசவின் பாதுகாப்பை அதிகரிப்பதற்கு அரசாங்கம் நடவடிக்கை எடுக்கவேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எரான் விக்கிரமரட்ண வேண்டுகோள் விடுத்துள்ளார்.
+
+சில சக்திகள் தேர்தலை தாமதப்படுத்த முயல்வதால் எதிர்க்கட்சி தலைவரின் பாதுகாப்பு குறித்து சந்தேகம் எழுந்துள்ளது என தெரிவித்துள்ளார்.
+
+அமெரிக்க முன்னாள் ஜனாதிபதியை கொலை செய்வதற்கான முயற்சி ஜனநாயகத்தின் மீது நடத்தப்பட்ட தாக்குதல் என அவர் கண்டித்துள்ளார்.
+
+அரசியல்வாதிகள் இவ்வாறான நடவடிக்கைகளில் ஈடுபடுவதை தவிர்க்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள எரான் விக்கிரமரட்ண இலங்கையிலும் தங்களின் நிகழ்ச்சி நிரலை பூர்த்தி செய்ய முடியாதபோது சில கட்சிகள் இவ்வாறான செயல்களில் ஈடுபடுகின்றன என தெரிவித்துள்ளார்.
+
+அவர்கள் கடந்த காலங்களில் வேட்பாளர்கள் மீது தாக்குதல்களை மேற்கொண்டுள்ளனர் என்றும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ceb8aaa6.json)
+
+---
+
+### Transport services are essential services
 
 *2024-07-14 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198808) · `si`
 
-පොදු ගමනාගමන සේවා ඇතුළු ප්‍රවාහන සේවා අත්‍යවශ්‍ය සේවා බවට පත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් යළිත් වරක් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+President Ranil Wickremesinghe has declared public transport and related services like road, bridge, culvert, and railway maintenance as essential services through a gazette notification. This move aims to ensure continuous operation during critical times, facilitating smooth traffic flow.
 
-ඊයේ (13) දිනයේ සිට ක්‍රියාත්මක වන පරිදි ජනාධිපතිවරයාගේ උපදෙස් මත ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් මෙම ගැසට් නිවේදනය නිකුත් කර ඇති බව වාර්තා වේ.
+🟩
 
-ඒ අනුව මගීන් හෝ බඩු ප්‍රවාහනය සඳහා වූ පොදු ගමනාගමන සේවා අත්‍යවශ්‍ය සේවා බවට ප්‍රකාශයට පත් කර ඇත.
+President Ranil Wickremesinghe has once again issued a gazette notification by President Ranil Wickremesinghe.
 
-ඊට අමතරව මංමාවත්, පාලම්, බෝක්කු සහ දුම්රිය මාර්ග ඇතුළුව මංමාවත් දුම්රිය මාර්ග මගින් ගමනාගමන සේවා සඳහා පහසුකම් සැලසීම සහ පවත්වාගෙන යාමට අත්‍යවශ්‍ය සේවා බව අදාළ ගැසට් පත්‍රයේ සඳහන් වේ.
+It is reported that the gazette notification has been issued by the President Saman Ekanayake on the advice of the President yesterday (13).
 
-මීට පෙර පෙබරවාරි මස 13 වන දින ද මෙම සේවාවන් අත්‍යවශ්‍ය සේවාවන් ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ගැසට් පත්‍රයක් මගින් ප්‍රකාශයට පත් කරනු ලැබීය.
+Accordingly, public transport services for passengers or cargoes have been declared essential services.
+
+In addition, the relevant services are essential to facilitating and maintaining and maintaining and maintaining and maintaining traffic services, including roads, bridges, culverts and railways.
+
+On February 13, these services were also published by President Ranil Wickremesinghe as essential services.
 
 ◼️
 
 [Data](articles/be456841.json)
 
+[Extended Data](ext_articles/be456841.ext.json)
+
 ---
 
-### முச்சக்கர வண்டிகளின் பயணக் கட்டணத்தில் மாற்றம்
+### Who is Thomas Matthew Crooks, the suspected Trump rally shooter
+
+*2024-07-14 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100507/-who-is-thomas-matthew-crooks-the-suspected-trump-rally-shooter) · `en`
+
+The FBI identified 20-year-old Thomas Matthew Crooks of Bethel Park, Pennsylvania as the suspect in the attempted assassination of former U.S. President Donald Trump at a campaign rally.
+
+The suspect was shot and killed by the Secret Service seconds after he allegedly fired shots toward a stage where Trump was speaking on Saturday in Butler, Pennsylvania.
+
+The FBI said it was working to determine a motive for the attack. One rally attendee died and two other spectators were critically injured. Trump was shot in the ear.
+
+State voter records show that Crooks was a registered Republican. The upcoming Nov. 5 election in which Trump is challenging President Joe Biden would have been the first time Crooks had been old enough to vote in a presidential race.
+
+...
+
+[Data](articles/3f953b9f.json)
+
+---
+
+### Change in three -wheelers travel fee
 
 *2024-07-14 21:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டிகளின்-பயணக்-கட்டணத்தில்-மாற்றம்/175-340396) · `ta`
 
-மேல் மாகாணத்தில் நாளை முதல் முச்சக்கர வண்டிகளின் பயணக் கட்டணம் குறைக்கப்படவுள்ளதாக அகில இலங்கை முச்சக்கரவண்டி சாரதிகள் சங்கத்தின் தலைவர் லலித் தர்மசேகர இன்று தெரிவித்துள்ளார்.
+The President of the All Ceylon Three Wheeler Drivers Association announced a reduction in three-wheeler fares effective from tomorrow in the Western Province.
 
-அதற்கமைய இரண்டாவது கிலோமீற்றருக்காக இதுவரை அறவிடப்பட்ட 100 ரூபாய் என்ற பயணக் கட்டணம் நாளை முதல் 90 ரூபாவாகக் குறைக்கப்படவுள்ளது. R
+🟩
+
+President of the All Ceylon Three Wheeler Drivers Association Lalith Dharmasekara today said that the travel fare of the three -wheeler will be reduced from tomorrow in the Western Province.
+
+Accordingly, the cost of Rs.. Remble
 
 ◼️
 
 [Data](articles/2a94a78f.json)
+
+[Extended Data](ext_articles/2a94a78f.ext.json)
 
 ---
 
@@ -2311,43 +2361,5 @@ As he was hustled out of the venue by Secret Service officials Trump was seen sh
 [Data](articles/76b0972d.json)
 
 [Extended Data](ext_articles/76b0972d.ext.json)
-
----
-
-### Trump shot in right ear at rally, source says shooter dead
-
-*2024-07-14 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100490/trump-shot-in-right-ear-at-rally-source-says-shooter-dead) · `en`
-
-Donald Trump was shot in the right ear during a campaign rally on Saturday, sparking panic in the crowd and spattering the Republican presidential candidate’s blood across his face, before he emerged and pumped his fist in the air appearing to mouth the words “Fight! Fight! Fight!”
-
-The shooter was dead, one rally attendee was killed and two other spectators were injured, the Secret Service said in a statement.
-
-“I was shot with a bullet that pierced the upper part of my right ear,” Trump said on his Truth Social platform. “Much bleeding took place.”
-
-As the shots rang out, Trump grabbed his right ear with his right hand, then brought his hand down to look at it before dropping to his knees behind the podium before Secret Service agents swarmed and covered him. He emerged about a minute later, his red “Make America Great Again” hat knocked off and could be heard saying “wait, wait,” before agents ushered him into a waiting vehicle.
-
-...
-
-[Data](articles/36dfe181.json)
-
-[Extended Data](ext_articles/36dfe181.ext.json)
-
----
-
-### Singer Sri Lanka launches nubia smartphones
-
-*2024-07-14 06:43:00* · [`islandlk`](http://island.lk/singer-sri-lanka-launches-nubia-smartphones/) · `en`
-
-Singer Sri Lanka recently celebrated the exclusive launch of four new smartphones from the nubia brand recently. The event highlighted nubia’s latest models, including the nubia Neo 2 5G, nubia Focus Pro 5G, nubia V60, and nubia V60 Design.
-
-Mahesh Wijewardene, Chief Executive Officer of Singer Group of Companies, expressed enthusiasm about introducing nubia’s innovative smartphones to the Sri Lankan market, emphasizing their commitment to offering customers cutting-edge technology and exceptional service.
-
-Zhang Yan Meng, Director (Global) of ZTE Terminal, commented on the partnership with Singer, stating, “We are thrilled to collaborate with Singer in launching nubia smartphones in Sri Lanka. Singer’s extensive island-wide distribution network and excellent after-sales service make them the ideal partner for us. We are confident that this partnership will deliver innovative, top-notch technology to Sri Lankan users, ensuring an outstanding user experience.”
-
-...
-
-[Data](articles/50793020.json)
-
-[Extended Data](ext_articles/50793020.ext.json)
 
 ---

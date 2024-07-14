@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 13:35:59**
+As of **2024-07-14 13:55:15**
 
 ## Newspaper Stats
 
-*Scraped **35,170** Articles*
+*Scraped **35,173** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 313
+dbsjeyarajcom | 314
 colombotelegraphcom | 331
 bbccomsinhala | 341
 newsfirstlk | 363
@@ -20,17 +20,55 @@ adaderanalk | 4,047
 tamilmirrorlk | 4,228
 dailymirrorlk | 4,733
 virakesarilk | 5,487
-adaderanasinhalalk | 5,863
+adaderanasinhalalk | 5,865
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,168 (100.0%) of 35,170 articles have been extended.
+35,170 (100.0%) of 35,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### ටැටූ මල්ලිගේ පාපොච්චාරණය - පොලිස් නිලධාරීන්ට මහජන ආරක්ෂක ඇමතිගෙන් අවවාද
+
+*2024-07-14 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198791) · `si`
+
+ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්තගේ ඝාතනය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් අදාළ ටැටූ ආයතනයේ හිමිකරුගෙන් මාධ්‍ය ඉදිරියේ තබාගෙන ප්‍රශ්න කිරීම සම්බන්ධව පොලිස් නිලධාරීන්ට මහජන ආරක්ෂක අමාත්‍යවරයා දැඩි ලෙස අවවාද කර තිබේ.
+
+අදාළ ප්‍රශ්න කිරීම සම්බන්ධයෙන් චෝදනා එල්ල වී සිටින පොලිස් ප්‍රධානීන්ට සහ බස්නාහිර දකුණ පළාත භාර නියෝජ්‍ය පොලිස්පති ගයන්ත මාරපන මහතාට ටිරාන් අලස් අමාත්‍යවරයා විසින් එලෙස අවවාද කර ඇති බව වාර්තා වෙයි.
+
+එහිදී නියෝජ්‍ය පොලිස්පති ගයන්ත මාරපන මහතා අදාළ සිද්ධිය සම්බන්ධයෙන් අමාත්‍ය ටිරාන් අලස් මහතාට සිය කනගාටුව ප්‍රකාශ කර තිබේ.
+
+මින් ඉදිරියට එවැනි ක්‍රියාවක් සිදුනොවීමට වගබලා ගන්නා බවට ද නියෝජ්‍ය පොලිස්පතිවරයා පොරොන්දු වී ඇති බව වාර්තා වෙයි.
+
+මේ අතර සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්තගේ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයේ සිටින ටැටු ආයතනයේ හිමිකරුට විශේෂ ආරක්ෂාවක් ලබාදීමට පියවර ගෙන තිබේ.
+
+සැකකරු විසින් සිදුකළ ඉල්ලීමකට අනුව එම ආරක්ෂාව ලබාදී ඇති බව බන්ධනාගාර දෙපාර්තමේන්තුවේ මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී. දිසානායක මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/b0ae860d.json)
+
+---
+
+### බස්නාහිර පළාතේ ත්‍රිරෝද ගාස්තු අඩුවෙන්නේ මෙහෙමයි
+
+*2024-07-14 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198790) · `si`
+
+බස්නාහිර පළාත තුළ හෙට (15) සිට ත්‍රිරෝද රථ ගාස්තු අඩුවීමක් සිදුකරන බව සමස්ත ලංකා ත්‍රිරෝද රථ රියදුරන්ගේ වෘත්තීය සමිතිය පවසයි.
+
+එහි සභාපති ලලිත් ධර්මසේකර මහතා සඳහන් කළේ ඒ අනුව දෙවන කිලෝමීටරය සඳහා මෙතෙක් අය කළ රුපියල් 100ක මුදල රුපියල් 90 දක්වා අඩු කර ඇති බවය.
+
+කොළඹදී අද (14) පැවති මාධ්‍ය හමුවකට එක්වෙමින් ලලිත් ධර්මසේකර මහතා ඒ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/c2e1db3a.json)
+
+---
 
 ### SJB urges govt to beef up Sajith’s security after Trump assassination attempt
 
@@ -47,6 +85,8 @@ Commenting regarding the matter at a press briefing today, Wickramaratne condemn
 ...
 
 [Data](articles/0a00921b.json)
+
+[Extended Data](ext_articles/0a00921b.ext.json)
 
 ---
 
@@ -306,19 +346,27 @@ A Trump supporter who participated in the rally after Trump was killed in minor 
 
 ---
 
-### බූස්ස සහකාර බන්ධනාගාර අධිකාරීට කළ තර්ජනය ගැන පරීක්ෂණ අරඹයි
+### Investigations into the threat to Boossan Assistant Prison Superintendent
 
 *2024-07-14 11:30:05* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-සහකාර-බන්ධනාගාර-අධිකාරීට-කළ-තර්ජනය-ගැන-පරීක්ෂණ-අරඹයි/11-410771) · `si`
 
-ගාල්ල, බූස්ස අධිආරක්ෂක බන්ධනාගාරයේ සහකාර බන්ධනාගාර අධිකාරිවරයාට මරණ තර්ජන කිරීම සම්බන්ධයෙන් විධිමත් පරීක්ෂණ, පොලිස් මූලස්ථානය විසින් සහ බන්ධනාගාර දෙපාර්තමේන්තුව විසින් ආරම්භ කර තිබේ.
+The Assistant Prison Superintendent of Boossa Hath Security Prison faces threats, leading to investigations by the Police Headquarters and Prisons Department. A special security team has been deployed. The Superintendent's father filed a complaint against Hynutton Sanath for threatening him, allegedly linked to stopping operations at the prison. Recent searches revealed heroin trafficking and underworld activities within the prison, involving several individuals including Lasigala Calwewa, Pitigala Kavanda, Dematagoda Suddha, and others.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක ජේෂ්ඨ පොලිස් අධිකාරි නීතීඥ නිහාල් තල්දූව හා බන්ධනාගාර කොමසාරිස් මාධ්‍ය ප්‍රකාශක ගාමිණී බී දිසානායක යන මහත්වරුන් විසින් ඊයේ (13) මේ බව ප්‍රකාශ කළේය. මේ හේතුවෙන් බූස්ස බන්ධනාගාර අධිකාරිවරයාට සහ ඔහුගේ නිවසට මෙන්ම නිවැසියන්ට විශේෂ ආරක්ෂාවක් ලබා දීමට කටයුතු කල බවද පොලිස් හා බන්ධනාගාර මාධ්‍ය ප්‍රකාශකවරුන් වැඩි දුරටත් සදහන් කළේය.
+🟩
 
-බූස්ස බන්ධනාගාරයේ බන්ධනාගාර අධිකාරිවරයාගේ කටුනායක පිහිටි නිවසට පසුගිය 11 දින සවස 5.00 ට පමණ යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් ලබාදෙන ලද දුරකතනයක් මගින් බන්ධනාගාර කොමසාරිස්වරයාගේ පියාට මෙම මරණ තර්ජනය කර තිබේ. මේ සම්බන්ධයෙන් බූස්ස බන්ධනාගාර අධිකාරිවරයාගේ පියා විසින් කටුනායක පොලීසියට පැමිණිල්ලක්ද කර තිබේ.
+The Assistant Prison Superintendent of the Boossa Hath Security Prison has been started by the Police Headquarters and the Prisons Department of the Police Headquarters.
+
+Police Media Spokesperson SSP Attorneysha (13), the Commissioner of Prison Spokesman Gamini B Dissanayake said yesterday (13). Police and Prison Spokesperson further stated that a special security personnel were provided with the Boossa Prison Superintendent and the households and residents.
+
+The father of the Commissioner of Prisons has threatened to house at Katunayake at the Boossa Prison at the Boossa Prison around 5.00 pm.. The father of the Boossa Prison Superintendent has lodged a complaint with the Katunayake Police.
+
+The complaint states that he was threatened by Hynutton Sanath, who was going to be more dancing, don't dance, don't dance, do not dance, don't dance, don't dance.Katunayake Police say.
 
 ...
 
 [Data](articles/76270781.json)
+
+[Extended Data](ext_articles/76270781.ext.json)
 
 ---
 
@@ -1181,6 +1229,20 @@ A highlight of my brief visit to Engelberg was meeting Mr. Jorge Müller, a lect
 [Data](articles/8bfead5d.json)
 
 [Extended Data](ext_articles/8bfead5d.ext.json)
+
+---
+
+### “Captain  Miller” the  LTTE’s First Black Tiger (Karumpuli) Suicide Bomber.
+
+*2024-07-14 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84368) · `en`
+
+“Captain Miller” is the name of an Indian film released on 12 January 2024. The block buster  Tamil Movie had popular actor Dhanush  acting  in the lead titular role of Captain Miller. The film was a fictional tale  about a heroic rebel who fought against British colonial rule. Reports state that the film is the highest ever  grossing film  starring Dhanush.
+
+One reason for the film’s  success was it’s title which evoked much interest and curiosity. “Captain Miller”was the nom de guerre of the Liberation Tigers  of Tamil Eelam(LTTE) suicide bomber who drove an explosive laden truck into an army camp in the north on  5 July 1987. This was the first time the LTTE had deployed a suicide bomber called “Black Tiger”or “Karumpuli”  in a military attack. The name of  Capt Miller  the first “Black tiger” strikes a responsive chord  among many Tamils. July 5th was annually observed as Black tigers day by the LTTE till May 2009.
+
+...
+
+[Data](articles/e71bb13b.json)
 
 ---
 
@@ -2231,71 +2293,5 @@ He also said that the three suspects were acquitted from the investigation, assu
 [Data](articles/feeef070.json)
 
 [Extended Data](ext_articles/feeef070.ext.json)
-
----
-
-### MP Rishad Bathiudeen’s vehicle involved in road accident
-
-*2024-07-13 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100481/mp-rishad-bathiudeens-vehicle-involved-in-road-accident) · `en`
-
-The vehicle in which former Minister Rishad Bathiudeen was traveling has reportedly been involved in a road accident in the Karuwalagaswewa area today (13).
-
-The incident has occurred when a cyclist had abruptly entered the road, causing the SUV in which the former Minister was travelling to veer off the road in an attempt to avoid a collision, the police said.
-
-The vehicle has reportedly sustained minor damages in the incident.
-
-◼️
-
-[Data](articles/17a74c64.json)
-
-[Extended Data](ext_articles/17a74c64.ext.json)
-
----
-
-### Laddiya travels in danger
-
-*2024-07-13 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198765) · `si`
-
-Rishard Bathiudeen, former minister, involved in a crash near Karuwalagaswewa where his car collided with a cyclist, causing serious damage to both the vehicle and the cyclist.
-
-🟩
-
-Former Minister Rishard Bathiudeen car has been in a crash in Karuwalagaswewa.
-
-The accident occurred with the vehicle when a cyclist approved by a cyclist was taken away from the vehicle.
-
-◼️
-
-[Data](articles/06f50aa4.json)
-
-[Extended Data](ext_articles/06f50aa4.ext.json)
-
----
-
-### Club Wasantha's funeral is arrested today - Patti's brother-in-law seized
-
-*2024-07-13 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198763) · `si`
-
-Surendra Wasantha Perera, set to open a tative center, was killed. His brother-in-law, suspected in his death, was arrested. The funeral, under police protection, is today.
-
-🟩
-
-The Western Province Crimes Division has been arrested by the Western Province Crimes Division for suspicion of Surendra Wasantha Perera.
-
-Police said the police were inspected on suspicion of the suspects of the suspects.
-
-Surendra Wasantha Perera, who was to open a tative center in Athurugiriya, was shot dead on the 8th.
-
-The body of Club Wasantha has been placed in the Malzala amidst threats for the end.
-
-The police and the STF have joined the police and the STF.
-
-The funeral of Club Wasantha's remains will be held today (13) at the Borella General Cemetery.
-
-◼️
-
-[Data](articles/b316be0c.json)
-
-[Extended Data](ext_articles/b316be0c.ext.json)
 
 ---

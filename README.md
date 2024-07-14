@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 05:38:27**
+As of **2024-07-14 06:04:56**
 
 ## Newspaper Stats
 
-*Scraped **35,104** Articles*
+*Scraped **35,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 313
 colombotelegraphcom | 330
 bbccomsinhala | 341
 newsfirstlk | 363
-islandlk | 1,977
+islandlk | 1,985
 economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
@@ -26,11 +26,111 @@ adaderanasinhalalk | 5,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,104 (100.0%) of 35,104 articles have been extended.
+35,106 (100.0%) of 35,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### On the move again… Engleberg-Vienna-London-Mount Lavinia
+
+*2024-07-14 03:43:00* · [`islandlk`](http://island.lk/on-the-move-again-engleberg-vienna-london-mount-lavinia/) · `en`
+
+As the Acting Director of the School of Hotel Management at Schiller International University (SIU), my work primarily centred on the London campus. When I received an opportunity to visit the SIU campus in Switzerland, I eagerly accepted. Visiting the quaint Swiss town of Engelberg, with its population of fewer than 3,000, was a delight. Engelberg, located 25 km south of Lake Lucerne in a wide mountain valley at an altitude of around 1,000 meters, is one of Switzerland’s top 10 ski regions. The town’s rustic charm was complemented by its famous Benedictine monastery, founded in 1120 and still active today.
+
+A highlight of my brief visit to Engelberg was meeting Mr. Jorge Müller, a lecturer at SIU. Mr. Müller had been an ILO Expert Maître d’hôtel at the Ceylon Hotel School in 1971 when I was a student. Over three years, he taught me food and beverage service and was always a supportive and kind mentor. Now, in 1990, he was happy to see us as colleagues at SIU.
+
+...
+
+[Data](articles/8bfead5d.json)
+
+[Extended Data](ext_articles/8bfead5d.ext.json)
+
+---
+
+### Weere, the Blind Scholar, at Peradeniya
+
+*2024-07-14 03:30:00* · [`islandlk`](http://island.lk/weere-the-blind-scholar-at-peradeniya/) · `en`
+
+I met Weere (Weerakkody) at Peradeniya University in 1972, when we were final-year students – he was in Western Classics, and I was in Sociology. We were at Arunachalam Hall as resident students. Weere was blind. He knew how many steps he had to walk from his room to the dining room, hall telephone, toilet, and office. Carefully counting his steps, he strolled towards his destination with his white cane. Any interruption to his calculation of steps would make him mad. He then demanded someone to take him back to his room, where he could restart his walk and count the steps. When he went to his classes, church, or Arts Theatre, he depended on a small circle of friends for assistance, and I was one of them.
+
+...
+
+[Data](articles/b437aacb.json)
+
+[Extended Data](ext_articles/b437aacb.ext.json)
+
+---
+
+### Is Biden dishonest about his health problems?
+
+*2024-07-14 03:15:00* · [`islandlk`](http://island.lk/is-biden-dishonest-about-his-health-problems/) · `en`
+
+It certainly would be exceptional, if anyone who is lucky enough to live past seven decades, has no medical problems at all. It may happen with holy men practising meditation in the Himalayas or those living in isolated communities shielded from the stresses of the modern world but among only around two percent who survive to be 80, the vast majority would have physical or mental disabilities or both.
+
+Compromised memory was once considered to be an invariable effect of ageing, due to brain cells lost over time being not replaced. But fortunately for us, the old fogeys, scientists have had a rethink. The relatively new concept of neuroplasticity gives us hope and human brain seems to be smarter than scientists thought. It compensates for loss of cells by making new connections. However, minor degrees of cognitive impairment are bound to occur with age, even if there are no physical problems but these could be compensated with minor adjustments and live a normal life.
+
+...
+
+[Data](articles/1d6773c5.json)
+
+---
+
+### THE PROPOSED 22nd AMENDMENT
+
+*2024-07-14 03:08:00* · [`islandlk`](http://island.lk/the-proposed-22nd-amendment/) · `en`
+
+It has been reported that the Government proposes to introduce a Bill to amend the Constitution for the purpose of bringing Article 83 into conformity with the amendments made by the 19th Amendment to Articles 30(2) and 62(2). Since this proposal is wholly unnecessary, and makes no sense whatsoever in constitutional terms, it may be necessary to look beyond the obvious for some less discernible, perhaps more sinister or Machiavellian objective.
+
+...
+
+[Data](articles/5b2b299f.json)
+
+---
+
+### Sri Lanka Cricket: “No one can make you feel inferior without your consent.” (Elanor Roosevelt)
+
+*2024-07-14 03:08:00* · [`islandlk`](http://island.lk/sri-lanka-cricket-no-one-can-make-you-feel-inferior-without-your-consent-elanor-roosevelt/) · `en`
+
+In January 2019, former Minister of Sports Harin Fernando appointed Major General Daya Ratnayake as the Chairman of the National Sports Council (NSC), along with 14 executive members, with the goal of uplifting sports in Sri Lanka. At the time, Harin Fernando stated, “As the Minister of Sports, my main focus is to ensure that sports are played clean in the country. Win or lose, playing clean should be the main focus. I want to put a stop to talented youngsters from rural areas being unable to compete and perform due to a lack of basic facilities like a pair of spikes.”
+
+However, in November 2019, Harin Fernando resigned from his ministerial post following the defeat of the UNP candidate in the Presidential election. During the tenure of Harin Fernando and Daya Ratnayake, there was  hardly any noteworthy progress in the development of sports generally.
+
+...
+
+[Data](articles/5e2bd93d.json)
+
+---
+
+### The beginnings of East West – the Nahil Wijesuriya empire
+
+*2024-07-14 02:31:00* · [`islandlk`](http://island.lk/the-beginnings-of-east-west-the-nahil-wijesuriya-empire/) · `en`
+
+(Excerpted from Simply Nahil: The maverick with the Midas touch)
+
+Regarding his business empire East West, Nahil Wijesuriya explained how he decided on the name of the company. While he was working for P&O Lines based in London, he had been discussing with a friend how difficult it was to send goods from the West to the East.
+
+Then in an eureka moment it dawned on him that the name ‘East West’ would be ideal for an import/export business. This was a time there were restrictions on importing certain items to Sri Lanka with some folks even going to the extent of sending things like Wilkinson blades in aerogrammes to the island.
+
+Meanwhile, Vajira Wijewardena of Anglo Asian, fame was manufacturing blades at his Anglo Asian factory under the brand name ‘Sharp’ and helping fill the dearth in the market. Nahil says of these blades “When you shave one side of your face you need a second blade to shave the other side!”
+
+...
+
+[Data](articles/ccb344de.json)
+
+---
+
+### Nihal Fernando’s Odyssey in and with Sri Lanka: An Appreciation
+
+*2024-07-14 01:24:00* · [`islandlk`](http://island.lk/nihal-fernandos-odyssey-in-and-with-sri-lanka-an-appreciation/) · `en`
+
+There is, on the title page of Nihal Fernando’s ‘Sri Lanka — A Personal Odyssey’ a photograph of a shadow of a man holding what must be a camera. It falls on a wide beach with a set of footprints leading to where the subject, Nihal Fernando himself stands. Beyond them and in the distance is a glimpse of the sea. This is an image that gently nudges me into recognizing Nihal himself, one of the finest men of our time, a great artist, a selfless devotee, his skills indisputable. I do not know who took the picture but it is surely an inspired gesture and helps to illustrate a confession Nihal made on another occasion, in the Prologue to his ‘The Wild, the Free, the Beautiful’: “I do not choose my subjects, they chose me …”
+
+...
+
+[Data](articles/10fc98e3.json)
+
+---
 
 ### 71 killed in Israel's attack
 
@@ -2087,175 +2187,5 @@ We believe that the current education sector in the country will increase yet. E
 [Data](articles/d0508ff2.json)
 
 [Extended Data](ext_articles/d0508ff2.ext.json)
-
----
-
-### New Attorney General President's Counsel. it. Mawatha, Ranasinghe
-
-*2024-07-12 20:19:28* · [`adalk`](https://www.ada.lk/breaking_news/නව-නීතිපති-ජනාධිපති-නීතිඥ-කේ--ඒ--පාරින්ද-රණසිංහ/11-410760) · `si`
-
-Ranasinghe and Mawatha were sworn in as Sri Lanka's 49th Attorney General by President Ranil Wickremesinghe, following his appointment under Article 61(e)(b) of the Constitution. The ceremony took place at the Presidential Secretariat, where Presidential Secretary Saman Ekanayake was also sworn in.
-
-🟩
-
-President's Counsel K. As the new Attorney General. it. Admission of the President and Ranasinghe sworn in before President Ranil Wickremesinghe at the Presidential Secretariat this afternoon.
-
-The appointment was made by President Ranil Wickremesinghe depending on the powers vested in terms of Article 61 e (b) of the Constitution.
-
-President's Counsel K. it. Mr. Mawatha and Ranasinghe are the 49th Attorney General.
-
-Presidential Secretary Saman Ekanayake was also sworn in.
-
-◼️
-
-[Data](articles/e2519cb9.json)
-
-[Extended Data](ext_articles/e2519cb9.ext.json)
-
----
-
-### Boossan Assistant go to the house of the Superintendent of Prison
-
-*2024-07-12 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198750) · `si`
-
-An Assistant Superintendent of Prisons received death threats over the phone from Dubai, leading two individuals to deliver a mobile phone to him. The Prisons Department reports this incident to the police, highlighting the Superintendent's concern about excessive dancing, which could lead to his death.
-
-🟩
-
-The Assistant Superintendent of the prison have been threatened with death in the Boossa Pride in the last season.
-
-A person who was involved in a call from Dubai had threatened the father's father.
-
-Two persons have arrived at the house of the Assistant Superintendent of Assistant Superintendent of Assistant Court yesterday (11).
-
-One of them has given the Assistant Prison Superintendent of Prison has been given his mobile phone from Dubai to Hinatiyana.
-
-Where the father of the Assistant Superintendent 'is too much, say not to dance too much. Or will be killed, "said.
-
-The Prisons Department says that Assistant Superintendent and the Department complained to the police regarding the incident.
-
-The Assistant Superintendent of Assistant Prison Superintendent of the Assistant Prison Superintendent of Prisons is a policeman who had many mobile phones in the Boossa Pride.
-
-◼️
-
-[Data](articles/7c74befc.json)
-
-[Extended Data](ext_articles/7c74befc.ext.json)
-
----
-
-### Two organized criminals bring up from Dubai
-
-*2024-07-12 20:17:24* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මක-අපරාධකරුවන්-දෙදෙනෙක්-ඩුබායි-සිට-ගෙන-එයි/11-410759) · `si`
-
-Two criminals aged 26 and 48, extradited from Dubai, are now in custody in Sri Lanka, specifically in Mattakuliya and Nugegoda. The older suspect will be transferred to the Colombo Crimes Division for further investigation.
-
-🟩
-
-The Police Media Spokesman Division says that two organized criminals have been brought to Sri Lanka from the State of Red announcement to Sri Lanka.
-
-The two criminals who were brought to the island this morning are the ages of 26 and 48 years old. They are in Mattakuliya and Nugegoda.
-
-The first suspect is to be handed over to the Colombo Crimes Division to the Colombo Crimes Division to the Colombo Crimes Division to the Investigation Commission.
-
-◼️
-
-[Data](articles/64afc7a4.json)
-
-[Extended Data](ext_articles/64afc7a4.ext.json)
-
----
-
-### Appointment of new Attorney General
-
-*2024-07-12 20:06:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சட்டமா-அதிபர்-நியமனம்/175-340305) · `ta`
-
-President Ranil Wickremesinghe appointed A.B. Barinda Ranasinghe as Sri Lanka's 49th Attorney General, sworn in by President Ranasinghe at the Presidential Office. The appointment aligns with Article 61 E of the Constitution.
-
-🟩
-
-President Attorney K.. A.. President Ranil Wickremesinghe took the swearing -in in the presence of President Ranasinghe at the Presidential Office this afternoon.
-
-The appointment has been appointed by President Ranil Wickremesinghe in accordance with the powers granted by Article 61 E of the Constitution.
-
-President's lawyer. A.. Barinda Ranasinghe is the 49th Attorney General of Sri Lanka.
-
-◼️
-
-[Data](articles/b62b71ea.json)
-
-[Extended Data](ext_articles/b62b71ea.ext.json)
-
----
-
-### Sudden death investigators to Muslim areas
-
-*2024-07-12 19:56:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-பிரதேசங்களுக்கு-திடீர்-மரண-விசாரணை-அதிகாரிகள்/175-340304) · `ta`
-
-Defense Minister Bandara Tennakoon has urged the President to deploy more sudden death investigators to Muslim-majority regions, emphasizing the need for swift funeral arrangements aligned with Islamic practices. He highlighted the unique challenges faced in adhering to the 24-hour deadline for funerals, contrasting it with other religions' practices. The minister suggested appointing additional Muslim investigators to aid in these efforts, advocating for better support and adherence to cultural norms.
-
-🟩
-
-Defense Minister Bandara Tennakoon has appealed to the President of Defense to appoint more sudden death investigators to the areas where Muslims are concentrated.
-
-He pointed out that the Muslims should make these appointments to facilitate the funeral measures within 24 hours of the religious system of the Muslims during the death.
-
-In this regard, Defense Minister Bandara Tennakoon said in a letter to President Ranil Wickremesinghe in writing.
-
-The funeral rituals must be performed within 24 hours unlike other religious rituals. However, due to various reasons, they have to address many problems in the timely period.. This is contrary to the responsibilities of goodwill.
-
-He also pointed out that the Muslim community is recommended to appoint additional death investigators from the Muslim community to the Divisional Secretariat Divisions where the Muslim people are concentrated.
-
-◼️
-
-[Data](articles/2c5eeb7b.json)
-
-[Extended Data](ext_articles/2c5eeb7b.ext.json)
-
----
-
-### Circular from IGP
-
-*2024-07-12 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198749) · `si`
-
-IGP Deshabandu Tennakoon will educate police officers about media communication protocols.
-
-🟩
-
-IGP Deshabandu Tennakoon has been appointed to educate all police officers.
-
-The police advise on how to follow information to the media.
-
-◼️
-
-[Data](articles/e6b89726.json)
-
-[Extended Data](ext_articles/e6b89726.ext.json)
-
----
-
-### There is no justice in the affair of the club spring
-
-*2024-07-12 19:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்தவின்-விவகாரத்தில்-நீதி-கிடைக்காது/175-340303) · `ta`
-
-Justice Minister Vijayadaja Rajapakse demands arrest of a police officer for confessing a suspect to the media, violating court procedures. Independent MP Dayasiri Jayasekara criticizes the handling of the case, including the public display of autopsy photos and videos. The incident raises concerns over justice being served properly.
-
-🟩
-
-There is no justice in the affair of the murdered club Vasantha. Justice Minister Vijayadaja Rajapakse said that the police officer who had confessed to the suspect with the media should be arrested.
-
-Dayasiri Jayasekara, an independent opposition MP, who made a special statement in Parliament on Friday
-
-How did the police confess to the tattooing man arrested on suspicion of the murder of the club spring?The Senior Inspector General of Police has confessed to this suspect with the media.
-
-There is no longer to announce to the court. Also, photos and videos of the murdered club Vasantha's autopsy have been posted on social media.
-
-The cutting of his body parts and the outdoors out of the head has been recorded as a video and posted on social media. This is completely false.
-
-...
-
-[Data](articles/39fb036f.json)
-
-[Extended Data](ext_articles/39fb036f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 17:05:22**
+As of **2024-07-14 17:20:05**
 
 ## Newspaper Stats
 
-*Scraped **35,195** Articles*
+*Scraped **35,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,171
-adaderanalk | 4,050
+adaderanalk | 4,051
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
-virakesarilk | 5,489
+virakesarilk | 5,490
 adaderanasinhalalk | 5,872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,195 (100.0%) of 35,195 articles have been extended.
+35,195 (100.0%) of 35,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### Italian sports journalist is falsely identified as Trump shooter on social media
+
+*2024-07-14 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100503/-italian-sports-journalist-is-falsely-identified-as-trump-shooter-on-social-media) · `en`
+
+An Italian sports journalist said on Sunday he would take legal action after being falsely identified on social media as the suspected shooter in an assassination attempt against U.S. presidential candidate Donald Trump.
+
+A message shared widely on the X platform reads: “Per the Butler Police Department the Trump shooter has been arrested at the scene and has been identified as Mark Violets, an Antifa member.”
+
+It was accompanied by a picture of Italian journalist Marco Violi. He is the editor of romagiallorossa.it, a fan website for the Italian soccer club AS Roma.
+
+The FBI said early on Sunday it had identified 20-year-old Thomas Matthew Crooks of Bethel Park, Pennsylvania, as the “subject involved” in Saturday’s shooting. The Secret Service said the suspect was shot dead by agents.
+
+...
+
+[Data](articles/c1231368.json)
+
+---
+
+### சம்பந்தனின் அரசியல் தலைமைத்துவமும் தவறவிடப்பட்ட வாய்ப்புகளும்
+
+*2024-07-14 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188448) · `ta`
+
+சம்பந்தனின் இறப்புக்கு தமிழ் மக்கள் மத்தியில் சார்பளவில் ஒரு சாரமற்ற எதிர்வினை ஏன் காணப்படுகின்றது அத்துடன் இலங்கையின் அதிகார பரப்பெல்லைக்கு அப்பால் மற்றும் சர்வதேச சமூகத்தின் மத்தியில் எழும் ஆழ்ந்த இரங்கல்களில் இருந்து எதனை எம்மால் கற்றுக்கொள்ள முடியும்?அரசாங்கத்திடம் சம்பந்தன் பொய்யுரைத்தார் என்ற செய்தி தொடர்பில் கருத்துத் தெரிவித்த ஒரு நண்பர் “அரசாங்கத்துக்காக வாழ்நாள் முழுவதும் பொய்யுரைத்ததன் பின்னர் அவர் அரசாங்கத்திடம் பொய்யுரைத்துள்ளார்” எனக் கூறினார். ஒரு வெளிநாட்டவரின் பார்வையில் தமிழ் மக்களின் இந்த நடத்தை அவரின் புகழுக்கு வழங்கப்பட்ட அவமரியாதை எனத் தோன்றினாலும், சம்பந்தனின் கடந்த கால நடவடிக்கைகள் இந்த நிலையை நியாயப்படுத்துவதாகவே அமைகின்றது.
+
+◼️
+
+[Data](articles/6544227f.json)
+
+---
 
 ### Refow
 
@@ -2309,51 +2339,5 @@ It is reported that a group of closest holisons have joined him.
 [Data](articles/613181da.json)
 
 [Extended Data](ext_articles/613181da.ext.json)
-
----
-
-### The Prime Minister praised civil servants
-
-*2024-07-13 18:28:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வட-பகுதி-அரச-ஊழியர்களை-பாராட்டினார்-பிரதமர்/71-340329) · `ta`
-
-The Prime Minister commended civil servants during a permanent appointment ceremony in Jaffna, highlighting their crucial role in navigating the nation through its worst economic crisis. He acknowledged the resilience of the people of Jaffna, who continued their duties despite external challenges, and emphasized the importance of unity and peaceful dialogue in achieving progress.
-
-🟩
-
-Permanent appointment for employees of Northern Province Local Government Companies was held yesterday at the Jaffna Public Library Auditorium. The Prime Minister said this while addressing the event.
-
-“We faced an unprecedented economic and financial crisis in our life. The president and the prime minister have faced the task and challenge to overcome the financial crisis. Many people's representatives played a key role to bring about the political stability needed to move the country. They were a great strength to solve the crisis.
-
-The hardships we have contributed to the Jaffna. Employees know. They helped to gradually resolve the crisis.
-
-Due to the support from the people of the country to win the economic challenge in the last 24 months, we have achieved this confidence internationally.. To travel towards more directory, we need to follow a certain structure.
-
-...
-
-[Data](articles/af9c58f6.json)
-
-[Extended Data](ext_articles/af9c58f6.ext.json)
-
----
-
-### Another MP was also involved in an accident
-
-*2024-07-13 18:15:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-எம்-பியும்-விபத்தில்-சிக்கினார்/175-340328) · `ta`
-
-A parliamentarian and another MP were involved in separate accidents: one near the 82/1 km pillar of the Southern Expressway due to heavy rain, and the other in the Puttalam-Karuwalakaswewa area.
-
-🟩
-
-The parliamentarian faced the accident near the 82/1 kilometer pillar of the Southern Expressway while he was attending a meeting in Matugama today (13).
-
-The accident occurred when a car slit was crashed into a highway security fence due to heavy rains.
-
-Meanwhile, the All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen, who was traveling in the Puttalam -Karuwalakaswewa area, crashed in the Puttalam -Karuwalakaswewa area.. Remble
-
-◼️
-
-[Data](articles/9363b2b2.json)
-
-[Extended Data](ext_articles/9363b2b2.ext.json)
 
 ---

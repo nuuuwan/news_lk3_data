@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 19:36:09**
+As of **2024-07-14 19:54:57**
 
 ## Newspaper Stats
 
-*Scraped **35,219** Articles*
+*Scraped **35,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,053
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,877
+adaderanasinhalalk | 5,878
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,218 (100.0%) of 35,219 articles have been extended.
+35,219 (100.0%) of 35,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### ඊශ්‍රායලයෙන් වාර්තා වූ අමුතුම ප්‍රහාරය
+
+*2024-07-14 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198805) · `si`
+
+ඊශ්‍රායල බස් නැවතුම්පොළකට වුවමනාවෙන් ම මෝටර් රථයක් ධාවනය කර එහි සිටි පිරිසක් හැප්පු පුද්ගලයෙක් ට ආරක්ෂක අංශ විසින් වෙඩි තබා තිබේ.
+
+මධ්‍යම ඊශ්‍රායලයේ දී එම සිද්ධිය වාර්තා විය. එහිදී බස් නැවතුම්පොළේ සිටි සිව් දෙනෙක් තුවාල ලබා ඇති අතර ඉන් එක අයෙක්ගේ තත්ත්වය බරපතළ ය.
+
+◼️
+
+[Data](articles/89a04285.json)
+
+---
 
 ### ‘Club Wasantha’ murder: Top cops warned over grilling suspect in front of media
 
@@ -308,23 +322,29 @@ There are approximately 100 % of Tamils ​​(39,000 people from 9798 families 
 
 ---
 
-### මාකඳුරේ මදූෂ් වෙනුවෙන් මාතරත් බැනරයක්
+### Construction of Matara for Madush in Makandura
 
 *2024-07-14 17:56:20* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මදූෂ්-වෙනුවෙන්-මාතරත්-බැනරයක්/11-410778) · `si`
 
-නාදුනන තුවක්කුකරුවන් දෙදෙනෙකුගේ වෙඩි ප්‍රහාරයකට ලක්ව ඝාතනයට ලක්වු ප්‍රකට ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්තගේ අවසන් කටයුතු සිදුකිරිමෙන් පසු මාකදුරේ මදුෂ්ගේ රුව සහිත බැනරයක් මාතර ප්‍රධාන බස් නැවතුම්පොල ඉහල මහලේද ඊයේ (14දා) උදෑසන වනවිට ප්‍රදර්ශනය කර තිබු බව මාතර පොලීසිය පවසයි.
+Two unidentified businessmen were killed and their funeral procession took place at Matara's chief bus stand, featuring banners urging unity. The event was organized by former underworld leader Markade, but the person behind it remains unknown. This occurred in Makandura, a village within the Matara district.
 
-එම බැනරයේද සදහන්කර ඇත්තේ “අපේ අයියේ, එක එක්කෙනා එවනවා. අපි එනකම් බලාගන්න .කේ.පී.අයි”යනුවෙනි.
+🟩
 
-හිටපු පාතාල කල්ලි නායක මාකදුරේ මදුෂ් මිහිදන් කල සුසාන භූමිය ඉදිරි පිට ඊයේ (13) ප්‍රදර්ශනය කර තිබු බැනරයටම සමාන බැනරයක් එසේ මාතර ප්‍රදර්ශනය කර තිබුණි.
+The Matara Police said that the funeral of two unidentified businessmen who were assassinated by two unidentified businesses were displayed in the Matara Chief bus stand yesterday.
 
-එය කවුරුන් විසින් සවිකලේද යන්න මෙතෙක් අනාවරණය වී නොමැත.කෙසේ වෙතත් සිවිල් ඇදුමින් සැරසුණු ආරක්ෂක අංශ සාමාජිකයින් පිරීසක් අදාල බැනරය ගලවා ඉවත් කර තිබේ.
+In that banner, "we send one another. Look after us.
 
-මාකදුරේ මදුෂ්ගේ ගම මාතර දිස්ත්‍රික්කයේ පිහිටා ඇති නිසා එම බැනරය ප්‍රදර්ශනය කරන්නට ඇති බවට සැක කෙරේ.
+The former underworld leader Markade had a banner for the banner held yesterday (13).
+
+The one who is installed is yet to be revealed.
+
+Makadura Madash was the village in Matara district.
 
 ◼️
 
 [Data](articles/e5fb5db8.json)
+
+[Extended Data](ext_articles/e5fb5db8.ext.json)
 
 ---
 
@@ -2295,19 +2315,5 @@ One reason for the film’s  success was it’s title which evoked much interest
 [Data](articles/e71bb13b.json)
 
 [Extended Data](ext_articles/e71bb13b.ext.json)
-
----
-
-### Weere, the Blind Scholar, at Peradeniya
-
-*2024-07-14 03:30:00* · [`islandlk`](http://island.lk/weere-the-blind-scholar-at-peradeniya/) · `en`
-
-I met Weere (Weerakkody) at Peradeniya University in 1972, when we were final-year students – he was in Western Classics, and I was in Sociology. We were at Arunachalam Hall as resident students. Weere was blind. He knew how many steps he had to walk from his room to the dining room, hall telephone, toilet, and office. Carefully counting his steps, he strolled towards his destination with his white cane. Any interruption to his calculation of steps would make him mad. He then demanded someone to take him back to his room, where he could restart his walk and count the steps. When he went to his classes, church, or Arts Theatre, he depended on a small circle of friends for assistance, and I was one of them.
-
-...
-
-[Data](articles/b437aacb.json)
-
-[Extended Data](ext_articles/b437aacb.ext.json)
 
 ---

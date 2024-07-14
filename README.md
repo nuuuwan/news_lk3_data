@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 00:24:25**
+As of **2024-07-15 00:35:32**
 
 ## Newspaper Stats
 
-*Scraped **35,235** Articles*
+*Scraped **35,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,089
-dailyftlk | 2,219
+dailyftlk | 2,220
 adalk | 3,179
 adaderanalk | 4,055
 tamilmirrorlk | 4,236
@@ -26,9 +26,23 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,232 (100.0%) of 35,235 articles have been extended.
+35,235 (100.0%) of 35,236 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-15 (Monday)
+
+### Child’s guide to debt and debt restructuring – Part II
+
+*2024-07-15 00:19:46* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-debt-and-debt-restructuring-Part-II/4-764243) · `en`
+
+Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a former official of the Ministry of Finance, have been in very intense interactive discussion of the debt and debt restructuring problem of Sri Lanka. In the previous episode, available at: https://www.ft.lk/columns/A-child-s-guide-to-debt-and-restructuring-Country-driven-to-economic-collapse-has-not-many-options-Part-I/4-763940, they discussed why only bilateral and commercial borrowings of Sri Lanka have been earmarked for restructuring when the country’s total foreign debt had been a massive amount.
+
+...
+
+[Data](articles/70001dc2.json)
+
+---
 
 ### 2024-07-14 (Sunday)
 
@@ -195,6 +209,8 @@ The land that is currently occupied by the people, including temples, schools an
 ...
 
 [Data](articles/3e29294c.json)
+
+[Extended Data](ext_articles/3e29294c.ext.json)
 
 ---
 
@@ -1398,6 +1414,8 @@ On aveage 970 containers had been cleared daily, the statement said. (Colombo/Ju
 
 [Data](articles/b96ea02c.json)
 
+[Extended Data](ext_articles/b96ea02c.ext.json)
+
 ---
 
 ### SJB urges govt to beef up Sajith’s security after Trump assassination attempt
@@ -1461,6 +1479,8 @@ Coconut shells were 31,000 – 32,000 rupees per metric ton. (Colombo/July14/202
 ◼️
 
 [Data](articles/0a004530.json)
+
+[Extended Data](ext_articles/0a004530.ext.json)
 
 ---
 
@@ -2321,25 +2341,5 @@ While Donald Trump was speaking at the public meeting, the man in the crowd sudd
 [Data](articles/b5015452.json)
 
 [Extended Data](ext_articles/b5015452.ext.json)
-
----
-
-### Sri Lanka private credit, excess liquidity up in May , state credit down
-
-*2024-07-14 09:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-excess-liquidity-up-in-may-state-credit-down-172010/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private credit expanded 60.7 billion rupees in May 2024, reversing a contraction in April, while credit to state enterprises were flat, official data showed.
-
-Sri Lanka’s private credit has expanded only 71 billion rupees over the first five months of May 2024, amid low inflation and easing import prices, as well as stable exchange rate, which may lead to importers using supplier’s credit.
-
-Domestic demand is just starting to pick up amid low or falling inflation, with some private sector salaries increased – which is seen in PAYE tax receipts – which will eventually lead to a recovery in consumption and later to investments in capacity expansion.
-
-Though the central bank has not cut rates with inflationary operations up to May, excess liquidity built up to around 200 billion rupees by the end of the month from dollar purchases.
-
-...
-
-[Data](articles/14ecd932.json)
-
-[Extended Data](ext_articles/14ecd932.ext.json)
 
 ---

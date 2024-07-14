@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 12:35:44**
+As of **2024-07-14 12:53:13**
 
 ## Newspaper Stats
 
-*Scraped **35,161** Articles*
+*Scraped **35,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,165
+adalk | 3,166
 adaderanalk | 4,045
-tamilmirrorlk | 4,226
+tamilmirrorlk | 4,228
 dailymirrorlk | 4,733
-virakesarilk | 5,484
+virakesarilk | 5,487
 adaderanasinhalalk | 5,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,161 (100.0%) of 35,161 articles have been extended.
+35,161 (100.0%) of 35,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### கொடையாளர் மாநாடு யாருக்காக?
+
+*2024-07-14 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/188416) · `ta`
+
+“சஜித் பிரேமதாச சர்வதேச கொடையாளர் மாநாட்டை நடத்தப்போவதாக கூறியிருந்தாலும், இனப்பிரச்சினைக்கு தீர்வு காணப்படாது மாநாட்டை முன்னெடுப்பதற்கு சர்வதேச சமூகம் இணங்க வேண்டும்”
+
+◼️
+
+[Data](articles/7b24bdb9.json)
+
+---
+
+### தாய்லாந்துக்கு இலவச விசா
+
+*2024-07-14 12:12:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்துக்கு-இலவச-விசா/175-340367) · `ta`
+
+இலங்கை உட்பட 93 நாடுகள் மற்றும் பிரதேசங்களில் இருந்து வரும் பயணிகளுக்கு தாய்லாந்தில் நாளை ஜூலை 15ஆம் திகதி முதல் விசா இன்றி நுழைய அனுமதி வழங்கப்பட்டுள்ளது.
+
+இலங்கையர்கள் விசா பெறாமல் தாய்லாந்துக்கு செல்வது இதுவே முதல் முறை. தாய்லாந்து குடிமக்கள், விசா இல்லாமல் இலங்கைக்கு வருவதற்கு ஏற்கெனவே இலங்கை அனுமதி வழங்கியுள்ளது.
+
+தாய்லாந்தின் உள்துறை அமைச்சகத்தின் கூற்றுப்படி, விசா அனுமதி பெற்ற நாடுகளிலிருந்து வரும் பயணிகள் 30 முதல் 60 நாட்கள் வரை நாட்டில் தங்கலாம். எவ்வாறாயினும், அனைத்து பயணிகளிடமும் பணம், தங்குமிடம் மற்றும் திரும்புவதற்கு/ டிக்கெட்டுகளுக்கான சான்றுகள் இருக்க வேண்டும்.
+
+இந்த நாடுகளைச் சேர்ந்தவர்கள் சுற்றுலாப் பயணிகளாகவோ அல்லது குறுகிய கால வணிக நோக்கங்களுக்காகவோ வரவேற்கப்படுவார்கள் .
+
+மேலும் தாய்லாந்தில் இளங்கலைப் பட்டம் அல்லது அதற்கு மேல் பட்டம் பெறும் மாணவர்கள், பட்டப்படிப்புக்குப் பிறகு ஒரு வருடம் தங்கி வேலை தேட, தாய்லாந்திற்குள் பயணம் செய்ய அல்லது ஆராய்ச்சி போன்ற பிற தொடர்புடைய நடவடிக்கைகளை மேற்கொள்ள தாய்லாந்து அனுமதிக்கிறது.
+
+◼️
+
+[Data](articles/93241994.json)
+
+---
 
 ### ‘Sri Lankans in North suffer the most’; State Minister stresses on India-Sri Lanka fishermen issue
 
@@ -49,6 +81,34 @@ Furthermore, the Foreign Affairs State Minister stressed that the people in the 
 [Data](articles/35ded8ee.json)
 
 [Extended Data](ext_articles/35ded8ee.ext.json)
+
+---
+
+### தேசிய தற்கொலையை  நோக்கி நகரும் இஸ்ரேல்
+
+*2024-07-14 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188403) · `ta`
+
+இஸ்ரேலிய ஆயுதப்படைகளின் தளபதி இராணுவத்துக்கு ஆளனி பற்றாக்குறை ஏற்பட்டுள்ளதாக அறிவித்துள்ளார். காஸாவில் ஹமாஸுடனான மோதலில் அது கணிசமான வீரர்களை தொடர்ந்து இழந்து வருகின்றது. அரசாங்கத்துக்கு பொது மக்களின் எதிர்ப்பு அதிகரித்து வருவதாலும் இஸ்ரேல் பிரதமருக்கும் அவரின் பாதுகாப்பு அமைச்சருக்கும் இடையில் வெளிப்படையாக முறுகல் நிலை அதிகரித்துள்ளதாலும் இராணுவத்துக்கு ஆட்சேர்ப்பு செய்துகொள்வதிலும் சிக்கல் ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fcfaca93.json)
+
+---
+
+### தேசிய மக்கள் சக்திக்கு சிறுபான்மையினரின் ஆதரவு இல்லை என்பது போட்டி கட்சிகள் பரப்பும் கதை - முஸ்லீம் மக்கள் பெரும் ஆதரவை வெளிப்படுத்துகின்றனர் - அனுரகுமார
+
+*2024-07-14 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188415) · `ta`
+
+தேசிய மக்கள் சக்திக்கு தமிழ் மற்றும் முஸ்லீம் சமூகங்களின் ஆதரவு இல்லை என்பது போட்டி அரசியல் கட்சிகளால் பரப்பப்படும் மற்றுமொரு கதை என தெரிவித்துள்ள ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க ஆனால் நாங்கள் அரசியல் மாற்றமொன்றை அவதானித்துள்ளோம் , குறிப்பாக முஸ்லீம் சமூகத்தினர் மத்தியில் இந்த மாற்றம் அதிகளவில் தென்படுகின்றது என குறிப்பிட்டுள்ளார்.
+
+தெற்கிலும் கிழக்கிலும் தேசியமக்கள் சக்தி குறித்து முஸ்லீம்கள் பெரும் ஆர்வத்தை வெளிப்படுத்திவருகின்றனர் என மேலும் தெரிவித்துள்ள அனுரகுமாரதிசநாயக்க  அவர்களை நோக்கி செல்வதில் நாங்கள் குறிப்பிடத்தக்க வெற்றிபெற்றுள்ளோம் எனவும் தெரிவித்துள்ளார்.
+
+வடக்குகிழக்கிற்கு எங்கள் செய்தியை மேலும் உரத்தவிதத்தில் தெரிவிக்கவேண்டியதன் அவசியத்தை நாங்கள் ஏற்றுக்கொள்கின்றோம் என சண்டேடைம்ஸிற்கு தெரிவித்துள்ள அவர் அரசாங்கத்தின் அரசியல்சாந்தப்படுத்தல் முறையை போல இல்லாமல் நாங்கள் எங்கள் அரசியல் நோக்கை தீவிரமாகவும் ஆர்வத்துடனும் தெரிவிப்பதற்கு முன்னுரிமையளிக்கின்றோம் எனவும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/a36d7548.json)
 
 ---
 
@@ -152,6 +212,26 @@ A Trump supporter who participated in the rally after Trump was killed in minor 
 
 ---
 
+### கூரையின் மீதிருந்தே டிரம்ப் மீது தாக்குதல்
+
+*2024-07-14 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரையின்-மீதிருந்தே-டிரம்ப்-மீது-தாக்குதல்/175-340366) · `ta`
+
+முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் மீது துப்பாக்கி சூடு தாக்குதல் மேற்கொண்ட துப்பாக்கிதாரி , பேரணி நடைபெற்ற இடத்திலிருந்து 400 அடி தூரத்தில் உள்ள கட்டிடத்தின் மேற்கூரையில் இருந்தே தாக்குதலை மேற்கொண்டுள்ளார்.
+
+டிரம்ப் மீது தாக்குதல் மேற்கொண்டவர் தாமஸ் மேத்யூ க்ரூக்ஸ் என்ற 20 வயதுடைய இளைஞர் என  நியூயார்க் போஸ்ட் செய்தி சேவை தகவல் வெளியிட்டுள்ளது.
+
+உடனடியாகச் செயல்பட்ட பாதுகாப்புப் படையினர் துப்பாக்கிச் சூடு நடத்திய நபரை சுட்டுக் கொன்றுள்ளதுடன் அவர் தீவிரவாத கும்பலைச் சேர்ந்தவரா அல்லது வெளிநாட்டுக் கூலிப்படையைச் சேர்ந்தவரா என்பது தொடர்பிலான மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்காகி வைத்தியசாலையில் அனுமதிக்கப்பட்ட டிரம்ப்புடன் தற்போதைய அமெரிக்க ஜனாதிபதி ஜோ பைடன் தொலைபேசி மூலம் உரையாடியதாகவும் தகவல் வெளியாகியுள்ளது.
+
+துப்பாக்கிச்சூட்டில் டிரம்ப் சிறு காயங்களுக்குள்ளான நிலையில் பேரணியில் பங்கேற்ற டிரம்ப் ஆதரவாளர் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் இருவர் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் .
+
+◼️
+
+[Data](articles/d48e42b6.json)
+
+---
+
 ### Sri Lankan injured by Iron Dome debris in Northern Israel
 
 *2024-07-14 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100494/sri-lankan-injured-by-iron-dome-debris-in-northern-israel) · `en`
@@ -195,6 +275,24 @@ Investigations have revealed that the accidents had been on the occasion as a si
 [Data](articles/1c8fb6d3.json)
 
 [Extended Data](ext_articles/1c8fb6d3.ext.json)
+
+---
+
+### බසයේ ගමන් කළ තරුණියකගේ කෙස් වැටියෙන් අඩියක් පමණ කපා දැමූ මවුලවි අල්ලයි
+
+*2024-07-14 11:11:33* · [`adalk`](https://www.ada.lk/breaking_news/බසයේ-ගමන්-කළ-තරුණියකගේ-කෙස්-වැටියෙන්-අඩියක්-පමණ-කපා-දැමූ-මවුලවි-අල්ලයි/11-410770) · `si`
+
+බස් රථයක ගමන් කරමින් සිටි 27 හැවිරිදි තරුණියකගේ කෙස්කලඹේ අඩියක පමණ ප්‍රමාණයක් කතුරක් භාවිතා කරමින් කපා ඉවත් කළ බව කියන මුරුතලාව ප්‍රදේශයේ පල්ලියක මවුලවිවරයෙකු බව කියන පුද්ගලයෙකු මහනුවර මූලස්ථාන පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම තරුණිය කටුගස්තොට සිට මහනුවර බලා ධාවනය වෙමින් තිබූ බස් රථයක අසුන් ගැන සිටියදී එම අසුනේ පිටුපස අසුනේ සැකකරු වාඩිවී සිටිමින් එසේ ඇයගේ කොණ්ඩය කපා දමා ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇති අතර සිද්ධියට මුහුණ දුන් තරුණිය එම අවස්ථාවේදීම ඇයගේ ජංගම දුරකථනයෙන් සැකකරු සහ ඔහු විසින් කපා දැමූ කොණ්ඩයේ කොටසද වීඩියෝ ගත කොට තිබුණි.
+
+මඩවල ප්‍රදේශයේ පදිංචි එම තරුණිය කිසියම් අවශ්‍යතාවයක් සඳහා මහනුවර බලා ගමන් කරමින් සිටියදී සිද්ධියට මුහුණ දී ඇති අතර ඇයගේ දැනුම්දීමට අනුව බස් රථයේ මගීන් විසින් සැකකරු අල්ලා පොලිසියට භාරදී තිබේ.
+
+එසේ අත්අඩංගුවට ගත් සැකකරු මුර්තලාව දෙහිඅංග උතුර ප්‍රදේශයේ පදිංචිකරුවකු වන අතර ඔහු ඊයේ (14) අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබූ අතර ඔහු මානසික රෝග වෛද්‍යවරයකු හමුවට ඉදිරිපත් කිරීමට උසාවියේ අවසරය පතන බව පොලිස් ප්‍රකාශකයකු පැවසීය.
+
+...
+
+[Data](articles/7ce0d2a9.json)
 
 ---
 
@@ -2177,147 +2275,5 @@ Police said that the suspect has a history of criminal activity and had been rel
 [Data](articles/e97e3f7f.json)
 
 [Extended Data](ext_articles/e97e3f7f.ext.json)
-
----
-
-### Sri Lanka leader’s presidential campaign faces dilemma over coalition: sources
-
-*2024-07-13 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-leaders-presidential-campaign-faces-dilemma-over-coalition-sources-171957/) · `en`
-
-ECONOMYNEXT – Sri Lanka leader Ranil Wickremesinghe’s presidential election campaign is facing a dilemma over coalition due to rivalry parties with different political ideologies, sources said.
-
-President Wickremesinghe is yet to announce his candidacy for the presidential poll which is expected to be declared by the island nation’s Election Commission after July 17.
-
-However, his close allies and some ministers in the current coalition government have already started a campaign to promote him assuming that President Wickremesinghe will declare his candidacy.
-
-Three sources who spoke to EconomyNext said legislators from the main opposition center-right Samagi Jana Balawegaya (SJB) are ready to join, but they do not want to be in coalition with the ruling Sri Lanka Podujna Peramuna (SLPP).
-
-...
-
-[Data](articles/8601a85b.json)
-
-[Extended Data](ext_articles/8601a85b.ext.json)
-
----
-
-### India, Sri Lanka looking at trading in national currencies: State Minister Balasuriya
-
-*2024-07-13 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100478/india-sri-lanka-looking-at-trading-in-national-currencies-state-minister-balasuriya) · `en`
-
-Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya has said that India, and Sri Lanka are working to trade in national currencies, a development that comes even as both sides have been focusing on financial connectivity.
-
-Speaking to our diplomatic correspondent Sidhant Sibal, he said, “ it makes more sense to pay for those goods in the local currency. So I think it’s a very good proposal, and it will also be very easy for the Indian tourists to come and they come to Sri Lanka and pay in Indian Rupees”.
-
-The minister was in Delhi for the BIMSTEC grouping’s foreign minister retreat. He termed the India Sri Lanka ties being at “all time high”, and pointed to India’s economic support during the financial crisis his country faced.
-
-...
-
-[Data](articles/24f229b7.json)
-
-[Extended Data](ext_articles/24f229b7.ext.json)
-
----
-
-### Russian passenger jet crashes near Moscow, killing its crew of 3
-
-*2024-07-13 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100477/russian-passenger-jet-crashes-near-moscow-killing-its-crew-of-3) · `en`
-
-A Russian passenger jet crashed Friday near Moscow while flying without passengers, killing its crew of three, officials said.
-
-The Sukhoi Superjet 100 plummeted into a forest near the village of Apraksino about 90 kilometers (55 miles) southeast of the Russian capital, according to emergency officials.
-
-The plane belonged to Gazprom avia, a carrier owned by the Russian state-controlled natural gas giant Gazprom.
-
-Gazprom avia said the plane took off from an aircraft-making plant at Lukhovitsy 110 kilometers (68 miles) southeast of the Russian capital where it had undergone repairs. It was heading to Moscow’s Vnukovo airport when it crashed eight minutes after takeoff.
-
-The cause of the crash wasn’t immediately known, but some Russian media reports indicated that both of the plane’s engines may have failed, probably because of birds getting into them on takeoff.
-
-The Investigative Committee, the country’s top state criminal investigation agency, has launched a probe into the crash.
-
-...
-
-[Data](articles/74e971f8.json)
-
-[Extended Data](ext_articles/74e971f8.ext.json)
-
----
-
-### Suspect arrested for robbery of former Test cricketer
-
-*2024-07-13 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198760) · `si`
-
-A suspect was arrested by Kottawa Police for stealing items including cash, jewelry, and a motorbike from a former Test cricketer. The thief, who had been released on bail before, was identified through CCTV footage showing his entry into the victim's home.
-
-🟩
-
-Kottawa Police have arrested a person who stole more than Rs.
-
-The suspect has stolen 5 tabs, two tabs, valuable wrists, 4 bracelettes, two rings, and Rs. 10,000.
-
-The suspect was diagnosed with the investigations carried out by the Kottawa Police.
-
-Accordingly, a motorbike used for the stolen goods and theft have been taken into police custody.
-
-The suspect said that the suspects had previously been released on bail to a number of bail to a number of bail.
-
-How the suspect comes to the house is recorded in the CCTV camera, which was mounted at home.
-
-◼️
-
-[Data](articles/3e087924.json)
-
-[Extended Data](ext_articles/3e087924.ext.json)
-
----
-
-### Report presented by the challenges of challenges
-
-*2024-07-13 10:51:27* · [`adalk`](https://www.ada.lk/breaking_news/අභියෝග-මැද-හර්ෂ-ඉදිරිපත්-කළ-වාර්තාව/11-410764) · `si`
-
-The report highlights issues with the visa application process managed by a group involving Tekinology Services, IVSGlobal, and others. Problems include unclear fee structures, data breaches, conflicting interests among companies, and unexpected funds totaling $200 million. The committee recommends a thorough audit by the Auditor General and immediate safety measures to protect the visa application process.
-
-🟩
-
-The Chairman of the Committee and the Institute Department of Immigration and Emigration and the Institute of Emigration and the Institute of Institutions
-
-He also revealed that the Secretary General of Parliament was summoned to the committee and he had been severely ridiculed.
-
-The Group is known as the Authorized Agency of Visa Application Form from Online. Tekinology Services and IVSGlobal - F.CiD.CO. VF as companies and technical partner. Worldwide Holdings is the Limited Company Limited.
-
-There is no competitive bidding process in obtaining the services for these Group.. There are several main issues that have been unresolved in the procurement process.
-
-01. Vagile Fee Structure: The cost of disparity and facilities in the service charges, including fees, free of charge.
-
-02. Data Disclosure and Termination: The existence of a data breach of the termination clause requires further investigation.
-
-...
-
-[Data](articles/8c31d41d.json)
-
-[Extended Data](ext_articles/8c31d41d.ext.json)
-
----
-
-### Strict warning to those who hold vehicles
-
-*2024-07-13 10:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-வைத்திருப்போருக்கு-கடுமையான-எச்சரிக்கை/175-340323) · `ta`
-
-The Motor Vehicle Smoking Foundation Fund warns vehicle owners about excessive smoke issues. Drivers are urged not to seek smoke certificates for permits. Complaints can be made via 070 3500 525. Non-compliance may result in maintenance orders against vehicle owners.
-
-🟩
-
-The Motor Vehicle Smoking Foundation Fund said that steps will be taken to include more smoke -free vehicles.
-
-Its Director Dasun Kamage said that the vehicles traveling on the road have been given the opportunity to send complaints to the Whatsfers of 070 3500 525.
-
-Dasun Kamage is asking the drivers not to obtain a smoke certificate to obtain a vehicle permit.
-
-He further explained that a maintenance order would be issued against the owner of the vehicle concerned if the excess smoke was out.. Remble
-
-◼️
-
-[Data](articles/e62f2c80.json)
-
-[Extended Data](ext_articles/e62f2c80.ext.json)
 
 ---

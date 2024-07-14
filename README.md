@@ -1,36 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 09:35:38**
+As of **2024-07-14 09:52:32**
 
 ## Newspaper Stats
 
-*Scraped **35,131** Articles*
+*Scraped **35,136** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 313
-colombotelegraphcom | 330
+colombotelegraphcom | 331
 bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,040
-tamilmirrorlk | 4,217
+adaderanalk | 4,041
+tamilmirrorlk | 4,219
 dailymirrorlk | 4,733
 virakesarilk | 5,481
-adaderanasinhalalk | 5,858
+adaderanasinhalalk | 5,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,130 (100.0%) of 35,131 articles have been extended.
+35,131 (100.0%) of 35,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### அனுரவின் பாதுகாப்பு பலப்படுத்தப்பட்டது
+
+*2024-07-14 09:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவின்-பாதுகாப்பு-பலப்படுத்தப்பட்டது/175-340355) · `ta`
+
+தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸநாயக்க எம். பி பங்கேற்கின்ற கூட்டங்களில் நவீன ரக சிசிடிவி கமெராக்கள் பொருத்தப்பட்டுள்ளது.
+
+அண்மைக்காலமாக அவர் கலந்து கொள்கின்ற கூட்டங்களில் சோலர் பொருத்தப்பட்ட சிசிடிவி கமரா மற்றும் இதர நவீன தன்னியக்க சிசிடிவி கமெராக்கள் பல அங்காங்கே பொருத்தப்பட்டு கூட்டங்களுக்கு வருபவர்கள் கண்கானிக்கப்பட்டு வருகின்றனர்.
+
+அம்பாறை மாவட்டத்தில் வெள்ளிக்கிழமை (12) காரைதீவு மற்றும் சம்மாந்துறை பகுதிகளில் தேசிய மக்கள் சக்தி கூட்ட மேடைகள் மற்றும் அதனை அண்டிய பகுதிகளில் இவ்வாறான கமெராக்கள் பல பொருத்தப்பட்டு கண்காணிப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+இதேவேளை, என்றும் இல்லாதவாறு கூட்டங்களுக்கு பைகளுடன் சமூகமளிப்பவர்கள் அழைக்கப்பட்டு விசேட பரிசோதனைக்கு உட்படுத்தப்பட்ட பின்னர் கூட்டங்களுக்கு அனுமதிக்கப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/785a61f6.json)
+
+---
+
+### President Ranil expresses shock over Trump assassination attempt
+
+*2024-07-14 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100491/president-ranil-expresses-shock-over-trump-assassination-attempt) · `en`
+
+President Ranil Wickremesinghe has expressed his shock about the assassination attempt on Donald Trump and said he was relieved to learn that the former U.S. President is safe.
+
+The President stated that Sri Lankans have been at the receiving end of such violence in politics, and urged all to adhere to the laws protecting Democracy, the President’s Media Division reported.
+
+◼️
+
+[Data](articles/68520a9f.json)
+
+---
+
+### ට්‍රම්ප් ඝාතන තැත ගැන ජනපති රනිල්ගෙන් නිවේදනයක්
+
+*2024-07-14 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198785) · `si`
+
+හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඝාතන තැත සම්බන්ධයෙන් තමා කම්පනයට පත් වූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ට්‍රම්ප් නිරුපද්‍රිතව සිටින බව දැනගැනීමෙන් තමාට සහනයට ලැබුණු බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+දේශපාලන ගැටුම් හේතුවෙන් කලකදී ශ්‍රී ලාංකිකයින්ද කරදරවලට මුහුණ දුන් බව ජනාධිපතිවරයා පැවසීය.
+
+ඔහු ඉල්ලා සිටින්නේ, සියලුදෙනා ප්‍රජාතන්ත්‍රවාදය ආරක්ෂා කිරීම සඳහා නීතිගරුකව කටයුතු කළයුතු බවය.
+
+◼️
+
+[Data](articles/e1d675c7.json)
+
+---
+
+### டிரம்ப் மீது தாக்குதல்;  எலான் மஸ்க் அதிரடி அறிவிப்பு
+
+*2024-07-14 09:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்-மீது-தாக்குதல்-எலான்-மஸ்க்-அதிரடி-அறிவிப்பு/50-340354) · `ta`
+
+அமெரிக்க ஜனாதிபதித் தேர்தல் நவம்பர் 5-ம் திகதி நடைபெற உள்ளது. இந்த தேர்தலில் ஜனநாயக கட்சி வேட்பாளராக தற்போதைய அதிபர் ஜோ பைடன் களமிறங்கியுள்ளார். அதேபோல், குடியரசு கட்சி வேட்பாளராக முன்னாள் அதிபர் டொனால்டு டிரம்ப் களமிறங்கியுள்ளார். தேர்தல் நெருங்கி வரும் நிலையில் இரு வேட்பாளர்களும் தீவிர பிரசாரம் மற்றும் வாக்கு சேகரிப்பில் ஈடுபட்டு வருகின்றனர்.அந்த வகையில், பென்சில்வேனியா மாகாணம் பட்லர் நகரில் நடைபெற்ற பிரசார பொதுக்கூட்டத்தில் குடியரசு கட்சி ஜனாதிபதி வேட்பாளர் டொனால்டு டிரம்ப் பங்கேற்று பிரசாரத்தில் ஈடுபட்டார்.
+
+...
+
+[Data](articles/b5015452.json)
+
+---
 
 ### Firing on Trump: Modi condemns
 
@@ -54,31 +116,41 @@ While Donald Trump was speaking at the public meeting, the man in the crowd sudd
 
 ---
 
-### මාරක අනතුරු කිහිපයක් - 5ක් මරුට
+### Five dead accidents
 
 *2024-07-14 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198784) · `si`
 
-ප්‍රදේශ කිහිපය සිදුවූ රිය අනතුරු 04කින් පුද්ගලයින් 05දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In four separate incidents across Attanagalla, Lunugamvehera, Giriulla, and Ambalangoda, five fatalities occurred. Two youths from Kuliyapitiya and Giriulla died in a crash near Kohilawala. A 20-year-old motorcyclist perished after losing control on the Galle-Colombo road. In Lunugamvehera, a 33-year-old man was killed when his bike collided with another vehicle. Lastly, a 68-year-old woman succumbed to injuries sustained in a three-wheeler accident on the Nittambuwa-Hanwella road.
 
-පොලීසිය පවසන්නේ, අත්තනගල්ල, ලුණුගම්වෙහෙර, ගිරිඋල්ල, අම්බලන්ගොඩ යන පොලිස් වසම්වලින් එම අනතුර වාර්තා වූ බවය.
+🟩
 
-ගිරිඋල්ල - හමන්ගල්ල මාර්ගයේ කොහිලවල ප්‍රදේශයේදී යතුරුපැදි දෙකක් මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් තරුණයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Five people were killed in four area accidents.
 
-එලෙස මියගොස් ඇත්තේ, කුලියාපිටිය හා ගිරිඋල්ල ප්‍රදේශවල පදිංචිව සිටි 19 හා 21 යන වයස්වල පසුවන තරුණයින් දෙදෙනෙකි.
+Police say, the police were reported from the Attanagalla, Lunugamvehera, Giriulla and Ambalangoda.
 
-මේ අතර ගාල්ල - කොළඹ මාර්ගයේ අම්බලන්ගොඩ නගරයේදී සිදුවූ යතුරපැදි අනතුරකින් 20 හැවිරිදි තරුණයෙක් ජීවිත්කෂයට පත්ව තිබේ.
+Two youths were killed in an accident in Kohilawala area on the Giriulla - Humanlla.
 
-ගාල්ල දෙස සිට කොළඹ දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවට ලිස්සා ගොස් ගසක ගැටී එම අනතුර සිදුව තිබුණි.
+The deceased has been identified as two youths in Kuliyapitiya and Giriulla areas.
 
-මේ අතර ලුණුගම්වෙහෙර පොලිස් වසමේ අඩි 100 මාර්ගයේ, අඩි 100 ප්‍රදේශයේදී යතුරුපැදියක් මාර්ගයේ හරහා ගමන්කළ පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව තිබේ.
+Meanwhile, a 20-year-old youth has been living in a motorcycle accident in Ambalangoda road on the Galle-Colombo road.
 
-එම අනතුරින් තුවාල ලැබූ පදික පුද්ගලයා මියගොස් ඇති බව පොලීසිය පවසයි.
+Motorcyclist, from Galle to Colombo, slipped to the boasis and slipped to the bank and clashed with a tree.
 
-එලෙස මියගොස් ඇත්තේ ධීවර ගම්මානය, ලුණුගම්වෙහෙර ප්‍රදේහයේ පදිංචිව සිටි 33 හැවිරිදි පුද්ගලයෙකි.
+Meanwhile, a motorbike has been confronted with a motorcycle on the 100 foot area in the Lunuamvehera police division.
+
+The victim was dead in the accident, police said.
+
+The deceased has been identified as a 33 year old resident of the Lunugamvehera area.
+
+Meanwhile, a three-wheeler was in the Urapola Junction area on the Nittambuwa-Hanwella road.
+
+The woman who was seriously injured in the accident has died in admission to the Vathupitiwala Hospital.
 
 ...
 
 [Data](articles/8676005d.json)
+
+[Extended Data](ext_articles/8676005d.ext.json)
 
 ---
 
@@ -279,6 +351,22 @@ Showers or thundershowers will occur at several places in the Uva Province and e
 [Data](articles/eb116a0f.json)
 
 [Extended Data](ext_articles/eb116a0f.ext.json)
+
+---
+
+### Sri Lanka Cricket: ‘No One Can Make You Feel Inferior Without Your Consent’
+
+*2024-07-14 03:53:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-cricket-no-one-can-make-you-feel-inferior-without-your-consent/) · `en`
+
+“No one can make you feel inferior without your consent.” ~ Elanor Roosevelt
+
+In January 2019, former Minister of Sports Harin Fernando appointed Major General Daya Ratnayake as the Chairman of the National Sports Council (NSC), along with 14 executive members, with the goal of uplifting sports in Sri Lanka. At the time, Harin Fernando stated, “As the Minister of Sports, my main focus is to ensure that sports are played clean in the country. Win or lose, playing clean should be the main focus. I want to put a stop to talented youngsters from rural areas being unable to compete and perform due to a lack of basic facilities like a pair of spikes.”
+
+However, in November 2019, Harin Fernando resigned from his ministerial post following the defeat of the UNP candidate in the Presidential election. During the tenure of Harin Fernando and Daya Ratnayake, there was hardly any noteworthy progress in the development of sports generally.
+
+...
+
+[Data](articles/7bff67e3.json)
 
 ---
 
@@ -2149,105 +2237,5 @@ Professor Hemantha Amarasinghe, President of the Sri Lanka Dental Association, s
 [Data](articles/1f32b5e4.json)
 
 [Extended Data](ext_articles/1f32b5e4.ext.json)
-
----
-
-### Asiri Hospitals and NITF sign landmark agreement to provide tangible healthcare benefits for all Agrahara members
-
-*2024-07-13 01:32:00* · [`islandlk`](http://island.lk/asiri-hospitals-and-nitf-sign-landmark-agreement-to-provide-tangible-healthcare-benefits-for-all-agrahara-members/) · `en`
-
-Asiri Group of Hospitals, trusted for high standards in patient-centered care has signed a landmark agreement with the National Insurance Trust Fund (NITF), to provide comprehensive concessions to all government employees through the Agrahara Medical Insurance scheme.
-
-The Memorandum of Understanding (MoU) was signed by Dr. Manjula Karunaratne, Director/Group CEO of Asiri Hospitals, and Gamani N. Liyanarachchi, CEO of NITF, during a ceremony held recently.
-
-The event was attended by several distinguished participants from both organizations. Representing NITF were Sagala Abhayawickrama, Chairperson, Samil Thushara, AGM Operations, Nimali Pathirana, AGM Insurance, Prathibha Welikanna, Asst. Manager Legal, Nuwan Dissanayake, Asst. Manager Marketing, Dammika Weerakoon, Acting AGM Finance.
-
-...
-
-[Data](articles/b8c10cf6.json)
-
-[Extended Data](ext_articles/b8c10cf6.ext.json)
-
----
-
-### NPC orders probe into Club Wasantha murder suspect interrogation footage
-
-*2024-07-13 00:27:01* · [`dailyftlk`](https://www.ft.lk/news/NPC-orders-probe-into-Club-Wasantha-murder-suspect-interrogation-footage/56-764225) · `en`
-
-The National Police Commission (NPC) has instructed Inspector General of Police (IGP) Deshabandu Tennakoon to initiate an inquiry into the dissemination of footage showing Dulan Sanjula, a suspect arrested in connection with the murder of Sunhill Group of Companies Chairperson Surendra Wasantha Perera also known as “Club Wasantha,” being interrogated by a group of police officers.
-
-In the video that went viral on social media and other platforms this week, a group of police officers, including Deputy Inspector General Western Province (South) Division G. Marapana, Nugegoda Division Senior Superintendent of Police J.P.S. Jayamaha and several Chief Inspectors of Police were seen interrogating Sanjula, who provided key information on the conspiracy to murder Club Wasantha including its masterminds and funding received.
-
-In a communique to the IGP, the NPC has also requested a report on the matter to be submitted within two weeks.
-
-...
-
-[Data](articles/a9cb8dff.json)
-
-[Extended Data](ext_articles/a9cb8dff.ext.json)
-
----
-
-### Prime Minister goes to Jaffna; applauds farmers
-
-*2024-07-13 00:25:10* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-goes-to-Jaffna-applauds-farmers/56-764224) · `en`
-
-Prime Minister Dinesh Gunawardena yesterday attended the Jaffna District Coordinating Committee meeting held at the Jaffna Divisional Secretariat Office.
-
-He also participated in the distribution of rice and egg incubators for the low income families.
-
-In his address, the Prime Minister said farmers are not Government workers, and their service and contribution are immeasurable.
-
-“The Government is dedicated to improving the living conditions of the Jaffna Peninsula. In order to increase the living conditions, we have embarked on an increase in most of the expenditure needed by the departments, and also special allocations for rural and urban development in the Local Government area. The President and the Government are committed to improve the services and living conditions, therefore, to provide the necessary infrastructure for developments, which means much to your area,” said the Prime Minister.
-
-...
-
-[Data](articles/f726893c.json)
-
-[Extended Data](ext_articles/f726893c.ext.json)
-
----
-
-### Cabinet approves upgrade of radiation therapy equipment across hospitals
-
-*2024-07-13 00:24:25* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-upgrade-of-radiation-therapy-equipment-across-hospitals/56-764223) · `en`
-
-The Cabinet of Ministers on Tuesday approved upgrading linear accelerators at Kandy National Hospital, Karapitiya National Hospital and Batticaloa Teaching Hospital and to supply advanced radiation therapy equipment to hospitals in Rathnapura, Badulla, Hambanthota, Anuradhapura and Kurunegala.
-
-This initiative is part of the medium-term budget framework for 2024-2026.
-
-The upgrade will significantly enhance the cancer treatment capabilities at these hospitals, ensuring that patients receive the most advanced care available.
-
-An agreement was made in 2013 between the Electa Company in the UK and the Health Ministry to supply 14 linear accelerators for cancer care services in two phases.
-
-The first phase was implemented, and the second phase is now set to proceed.
-
-Due to the exclusion of several standardised components for modern cancer treatments in the original agreement, Sri Lankan oncologists recommended procuring advanced machines.
-
-...
-
-[Data](articles/9ae07ea4.json)
-
-[Extended Data](ext_articles/9ae07ea4.ext.json)
-
----
-
-### Govt. to gazette regulations on speed limits: Alagiyawanna
-
-*2024-07-13 00:23:35* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-gazette-regulations-on-speed-limits-Alagiyawanna/56-764222) · `en`
-
-State Minister of Transport Lasantha Alagiyawanna on Thursday stated a gazette with the necessary regulations on speed limits, aimed at reducing road accidents, will be issued within the next two weeks.
-
-He made this statement during a media briefing held at the Presidential Media Centre (PMC), said that the on-going strikes are motivated by political interests rather than genuine professional rights.
-
-According to him, the National Council for Road Safety has allocated Rs. 50 million to the Sri Lanka Police for the purchase of necessary speed control equipment.
-
-He also said arrangements have been made to provide teachers with manuals for establishing Road Safety Clubs at the school level. These clubs will be included in the school system as an extracurricular activity, and a medal awarding program has also been introduced.
-
-...
-
-[Data](articles/074935d8.json)
-
-[Extended Data](ext_articles/074935d8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 00:35:32**
+As of **2024-07-15 00:52:18**
 
 ## Newspaper Stats
 
-*Scraped **35,236** Articles*
+*Scraped **35,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,089
-dailyftlk | 2,220
+dailyftlk | 2,221
 adalk | 3,179
 adaderanalk | 4,055
 tamilmirrorlk | 4,236
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,235 (100.0%) of 35,236 articles have been extended.
+35,236 (100.0%) of 35,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Economics of free healthcare: Key trendsetters and sustainability of public health expenditure in Sri Lanka
+
+*2024-07-15 00:29:09* · [`dailyftlk`](https://www.ft.lk/columns/Economics-of-free-healthcare-Key-trendsetters-and-sustainability-of-public-health-expenditure-in-Sri-Lanka/4-764245) · `en`
+
+Self-responsibility and preventive healthcare can reduce the demand pressure on both public and private health sectors substantially and alter the PHE trajectory considerably
+
+In Sri Lanka even those who get ample physical exercise from their hard labour do not seem to care much about prevention. For example, burning plastic is a common sight in both urban and rural areas. Many are not aware of the carcinogenic effects of plastic fumes. Workers who cut concrete and metals do not wear masks. Traffic police breathe polluted air without masks. Examples are many
+
+...
+
+[Data](articles/f38697a6.json)
+
+---
 
 ### Child’s guide to debt and debt restructuring – Part II
 
@@ -41,6 +55,8 @@ Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a for
 ...
 
 [Data](articles/70001dc2.json)
+
+[Extended Data](ext_articles/70001dc2.ext.json)
 
 ---
 
@@ -2321,25 +2337,5 @@ He demands that everyone should act lawfully to protect democracy.
 [Data](articles/e1d675c7.json)
 
 [Extended Data](ext_articles/e1d675c7.ext.json)
-
----
-
-### Attack on Trump;Elon Musk Action Notification
-
-*2024-07-14 09:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்-மீது-தாக்குதல்-எலான்-மஸ்க்-அதிரடி-அறிவிப்பு/50-340354) · `ta`
-
-During the US presidential election campaign, Donald Trump was attacked while speaking in Pennsylvania, suffering a minor injury. The assailant was killed by security forces. International reactions, including condemnation from figures like Elon Musk, have highlighted concerns over security measures.
-
-🟩
-
-The US presidential election is scheduled for November 5. Current Chancellor Joe Biden is the Democratic candidate in this election. Similarly, former President Donald Trump is the Republican candidate. As the election approaches, the two candidates are engaged in vigorous campaign and voting. Thus, the Republican presidential candidate Donald Trump participated in a public meeting in Butler, Pennsylvania.
-
-While Donald Trump was speaking at the public meeting, the man in the crowd suddenly fired at Trump. Donald Trump suffered a blood injury in the firing attack.. Immediately after security officers turned Trump into a security fortress. One person died in this firing. It has been reported that the man who fired was shot dead by security forces.
-
-...
-
-[Data](articles/b5015452.json)
-
-[Extended Data](ext_articles/b5015452.ext.json)
 
 ---

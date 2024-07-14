@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 11:35:59**
+As of **2024-07-14 11:55:50**
 
 ## Newspaper Stats
 
-*Scraped **35,151** Articles*
+*Scraped **35,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,164
-adaderanalk | 4,043
+adaderanalk | 4,044
 tamilmirrorlk | 4,224
 dailymirrorlk | 4,733
 virakesarilk | 5,484
-adaderanasinhalalk | 5,860
+adaderanasinhalalk | 5,862
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,150 (100.0%) of 35,151 articles have been extended.
+35,151 (100.0%) of 35,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### දැරියන්ට අමුතු රංගනයක් පෑ නැටුම් ගුරුවරයා
+
+*2024-07-14 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198788) · `si`
+
+තම නර්තන පන්තියට පැමිණි බාලවයස්කාර දැරියන්ට ලිංගික අතවර කළ බව කියන නැටුම් පන්ති ගුරුවරයෙකු ඊයේ (13) අත්අඩංගුවට ගත් බව හංවැල්ල පොලීසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ රණාල බටේවෙල ප්‍රදේශයේ පදිංචිකරුවකු වන 38 හැවිරිදි විවාහක නර්ථන පන්ති ගුරුවරයෙකි.
+
+සැකකරු විසින් තම නර්ථන පන්තියට පැමිණි දැරියන්ව අපයෝජනයට ලක්කර ඇති බව අනාවරණය වී ඇතැයිද පොලීසිය පවසයි.
+
+සැකකරු සම්බන්ධයෙන් තලංගම සහ නවගමුව පොලිසිවලටද පැමිණිලි ලැබී ඇතැයි හංවැල්ල පොලීසියේ උසස් නිලධාරියෙකු පැවසීය.
+
+අත්අඩංගුවට ගත් සැකකරු හෝමාගම මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/2558343a.json)
+
+---
+
+### Sri Lankan injured by Iron Dome debris in Northern Israel
+
+*2024-07-14 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100494/sri-lankan-injured-by-iron-dome-debris-in-northern-israel) · `en`
+
+A Sri Lankan national working in Israel has reportedly sustained injuries from debris originating from a missile intercepted by the Iron Dome defense system.
+
+The incident has occurred near the Lebanese border in Northern Israel, where the individual in question was engaged in agricultural activities.
+
+The Embassy of Sri Lanka in Israel confirmed that the individual suffered head injuries when a piece of metal from the destroyed missile had struck him. Israeli defense personnel have rushed him to a hospital for treatment.
+
+When inquired by Ada Derana, Sri Lankan Ambassador to Israel Nimal Bandara confirmed that the individual’s condition is not critical.
+
+The incident has taken place as the workers rushed to their designated safe rooms in response to sirens warning of incoming attacks.
+
+...
+
+[Data](articles/162de107.json)
+
+---
+
+### පාලමේ ගැටුණු සුඛෝපභෝගී මෝටර් රථය පෙරළෙයි
+
+*2024-07-14 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198787) · `si`
+
+අනුරාධපුරය, ත්‍රිකුණාමල මාර්ගයේ අනුරාධපුර දෙස සිට ත්‍රිකුණාමලය දෙසට ධාවනයවෙමින් තිබූ සුඛෝපභෝගී මෝටර් රථයක් හොරොව්පතාන යාංඔය පාලමේ ආරක්‍ෂිත වැටේ ගැටී පෙරළීයාමෙන් සිදුවූ අනතුරකින් සිව් දෙනෙක් රෝහල්ගත කර තිබේ.
+
+පොලීසිය පැවසුවේ රියදුරාට නින්ද යාම හේතුවෙන් එම අනතුර ඊයේ (13) සිදුවූ බවත් තුවාලකරුවන් හොරොව්පතාන ප්‍රාදේශීය රෝහලට ඇතුළු කළ බවත් ය.
+
+එම පිරිස අතර සිටි කාන්තාවක් වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුරය රෝහලට මාරුකර යවා ඇති බව සඳහන් ය.
+
+යාපනය ප්‍රදේශයේ එකම පවුලේ පිරිසක් ත්‍රිකුණාමලය ප්‍රදේශයේ පුද්ගලික කටයුත්තක් සඳහා යමින් සිටියදී එම අනතුරු සිදුවී ඇති බව මුලික විමර්ශනවලින් හෙළිවී තිබුණි.
+
+◼️
+
+[Data](articles/1c8fb6d3.json)
+
+---
 
 ### Girls Abuse: Arrested Teacher Arrested
 
@@ -102,23 +160,31 @@ Opposition leader Sajith Premadasa, who said that it is impossible to say that t
 
 ---
 
-### මාකඳුරේ මදූෂ් වෙනුවෙන් තැබූ සටහන
+### Note for the Madush of Makandi
 
 *2024-07-14 10:29:18* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මදූෂ්-වෙනුවෙන්-තැබූ-සටහන/11-410767) · `si`
 
-පොලිසිය සමග ඇති වු වෙඩි හුවමාරුව කදි මියගිය මාකඳුරේ මධූෂ් නැමැති පාතාල නායකයාගේ ඡායාරූපයක් සහිත බැනරයක්  මහරගම ගොඩිගමුව " නිදහසේ නවාතැන"  සූසාන භූමිය ඉදිරිපිට ආරක්ෂක තාප්පයේ ප්‍රදර්ශනය කිරීම සම්බන්ධයෙන් විමර්ශනයක් පවත්වන බව පොලිස් මාධ්‍ය ප්‍රකාශක  නීතිඥ නිහාල් තල්දුව මහතා පැවැසීය.
+A banner at a gathering in Maharagama features a photo of gunfire between police and attendees, including Madush of Makandi. The police have taken the banner for investigation regarding the incident where shots were fired, potentially linked to the murder of Wasantha Surendra Perera during the Tall Arts event. This incident may involve individuals displaced from the Susan area, with one person already identified for arrest by security forces.
 
-මේ වන විට එම බැනරය පොලිස් භාරයට ගෙන ඇති බවත් එය සූසාන භූමියේ ආරක්ෂක තාප්පයේ  ප්‍රදර්ශනය කල පුද්ගලයන් සම්බන්ධයෙන් සොයා බැලීමේ විමර්ශන කටයුතු මහරගම පොලීසිය මගින්  සිදු කරනු ඇති බවත් මාධ්‍ය ප්‍රකාශකවරයා වැඩිදුරටත් පැවසීය.
+🟩
 
-" අපේ අයියේ...... එක එක්කෙනා එවනවා - අපි එනකම් බලාගන්න.... යනුවෙන් මධුෂ් ගේ ඡායාරූපයට දකුණු පසින් සටහන් කර
+Attorney at Law, a banner with a photograph of the gunfire with the police, a banner with the gunfire is a banner at the gathering of the Gavigamuwa, Maharagama.
 
-පහතින් කේ පි අයි යනුවෙන් ඉංග්‍රීසි අකුරු තුනක් සටහන් කර එම බැනරය ප්‍රදර්ශනය කර තිබිණි
+The banner has already taken the banner and it will be carried out by the Maharagama Police that he will investigate the investigation into the persons displaced in the wall of the Susan.
 
-ඉකුත් 8 වෙනිදින  අතුරුගිරිය ටැටු කලාගාරය තුළදී ව්‍යාපාරික වසන්ත සුරේන්ද්‍ර පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය සඳහා යොදාගත් ටි 56 ජීව උන්ඩ වල ද සටහන්ව තිබූනේ  කේ පි  අයි යනුවෙනි
+"Our brother ...... One is sending - look after us .... Download Madush's photo on the right
 
-...
+The banner was recorded by the following three English letters, as follows:
+
+During the Tall Arts, Wasantha Surendra Perera, was also mentioned in the bullets for the murder of Club Wasantha, or Club Wasantha murder.
+
+According to the police sources, the first person was identified as the first person who was given to the security forces to arrest Makanurai.
+
+◼️
 
 [Data](articles/3d3ec37a.json)
+
+[Extended Data](ext_articles/3d3ec37a.ext.json)
 
 ---
 
@@ -2245,75 +2311,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/4713705a.json)
 
 [Extended Data](ext_articles/4713705a.ext.json)
-
----
-
-### Mother for sale with son
-
-*2024-07-13 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198758) · `si`
-
-In Chavakachcheri, a woman was arrested with over 80kg of cannabis. The police raided her home, finding 87kg of marijuana. She allegedly sold drugs with her son, hiding them in their house.
-
-🟩
-
-A woman was arrested in the Chavakachcheri Kachcheriya South area with more than 80 kilograms of cannabis.
-
-The police said that the raid was carried out on a suspect, who was arrested with 500 grams of marijuana when he inspects a motornaban before the previous day.
-
-Police have seized 87 kilograms of marijuana in the possession of the woman.
-
-The 55-year-old Kachchary South is a resident of Kodikaman.
-
-The preliminary investigations have revealed that the suspect was selling cannabis with his son and had been hidden in the house.
-
-◼️
-
-[Data](articles/6d630fab.json)
-
-[Extended Data](ext_articles/6d630fab.ext.json)
-
----
-
-### We will grow a great growth in the education sector
-
-*2024-07-13 08:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வித்துறையில்-பெரும்-வளர்ச்சியை-ஏற்படுத்துவோம்/175-340322) · `ta`
-
-Arvind Kumar, Minister of State for Education, announced significant educational reforms aimed at boosting the education sector. These include hiring over 500 foreign language teachers, upgrading 19 academic colleges to universities, increasing student enrollment, enhancing facilities for special needs children, and expanding Zonal Education Offices. The government has allocated funds for these initiatives, emphasizing the importance of ethical teaching practices and discouraging financial exploitation in schools.
-
-🟩
-
-Minister of State for Education, Arvind Kumar, said that through the current educational restructuring, there would be great growth in the field of education in this country and that all the teachers should understand and work conscientiously as the honorable service of creating the future generation of this country.
-
-Minister of State for Education Arvind Kumar said this at a media briefing held at the Presidential Media Center yesterday.As he further stated,
-
-We hope that through the current educational restructuring process, there will be great improvement in the field of education in the country. In particular, more than five hundred Korean, German, French, Hindi, Hindi, Chinese and Japanese language teachers have been hired, targeting the industrial market.
-
-...
-
-[Data](articles/bf6242bf.json)
-
-[Extended Data](ext_articles/bf6242bf.ext.json)
-
----
-
-### Plans to send a satellite next year
-
-*2024-07-13 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198757) · `si`
-
-The Arthur C. Clarke Center plans to launch a satellite next year, aiming to enhance educational programs on satellite technology for schoolchildren. Professor Chandana Jayaratne emphasized the importance of developing infrastructure to share this knowledge effectively.
-
-🟩
-
-Arthur C. Clark Center says that it is planned to send a satellite next year.
-
-Professor Chandana Jayaratne said that the information on the infrastructure should be developed to provide the knowledge of satellite technology for school children.
-
-He was speaking at a program to educate the school children on satellite technology.
-
-◼️
-
-[Data](articles/fea1a5d1.json)
-
-[Extended Data](ext_articles/fea1a5d1.ext.json)
 
 ---

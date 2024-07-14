@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 20:35:48**
+As of **2024-07-14 20:52:50**
 
 ## Newspaper Stats
 
-*Scraped **35,223** Articles*
+*Scraped **35,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,054
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,879
+adaderanasinhalalk | 5,880
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,222 (100.0%) of 35,223 articles have been extended.
+35,223 (100.0%) of 35,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### ශ්‍රී ලාංකිකයින්ට වීසා රහිතව තායිලන්තයට ඇතුළුවීමට අවසර
+
+*2024-07-14 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198807) · `si`
+
+ශ්‍රී ලංකාව ඇතුළු රටවල් 93ක සංචාරකයින් සඳහා හෙට (15) සිට වීසා රහිතව තායිලන්තයට ඇතුළුවීම සඳහා අවසර ලබාදී තිබේ.
+
+වීසා බලපත්‍රයක් නොමැතිව ශ්‍රී ලාංකිකයින්ට තායිලන්තයට යාම සඳහා අවස්ථාව හිමි වන්‍නේ පළමු වතාවටය.
+
+තායිලන්තයේ අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් ප්‍රකාශයට පත් කරන ලද නව ප්‍රතිපත්තිය යටතේ සංචාරකයෙකුට දින 60ක කාලයක් වීසා රහිතව එරට රැඳී සිටීමට හැකි බව සඳහන් වේ.
+
+මෙලෙස තායිලන්තයට වීසා නොමැතිව ඇතුළුවන සංචාරකයින් සතුව නවාතැන් අරමුදල් සහ ආපසු පැමිණීමට අදාළ සාක්ෂි තිබිය යුතු අතර එරට ආගමන විගමන නිලධාරින්ගේ අනුමැතිය ලබාගැනීම ද අනිවාර්යය වේ.
+
+තායිලන්තයේ සංචාරක කටයුතු ප්‍රවර්ධනය කිරිම සඳහා මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/238cc734.json)
+
+---
 
 ### Derailment disrupts train services on up-country line
 
@@ -294,23 +314,33 @@ In October 2020, when Madhush was shot dead in the Maligawatta area, when he wen
 
 ---
 
-### හිටපු ඇමති රිෂාඩ් කරුවලගස්වැවදී අනතුරක
+### Former minister Rishad Karuwalagaswewa accident
 
 *2024-07-14 18:06:12* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-රිෂාඩ්-කරුවලගස්වැවදී-අනතුරක/11-410779) · `si`
 
-හිටපු අමාත්‍ය හා වන්නි දිස්ත්‍රික් පාර්ලිමේන්තු සමස්ථ ලංකා මහජන කොන්ග්‍රස් පක්ෂයෙ නායක මන්ත්‍රී රිෂාඩ් බදුර්දින් මහතා ගමන් ගනිමන් තිබු සුඛෝපභෝගි ජීප් රිය කරුවලගස්වැවදී අනතුරකට ලක්ව ඇති බවත් අනතුරීන් කිසිවකුටත් හානි සිදුව නැතත් වාහනයට දරුණූ හානි සිදුව ඇති බව කරුවලගස්වැව පොලිසිය කියයි.
+Rishard Batuaden, a Ceylon General Assembly leader, was injured in a non-serious accident involving a motorcycle while traveling from Mannar to Puttalam. The incident occurred despite the presence of personnel, and initial reports suggest the driver lost control. Investigations led by Inspector Sujeewa Alwatta are underway.
 
-රිෂාඩ් බදුර්දින් මන්ත්‍රිවරයා ඔහුගේ ආරක්ෂකයින් සමග මන්නාරම සිට පුත්තලම බලා එමින් සිටියදී කරුවලගස්වැව ඉන්ධන හල ඉදිරීපිටදී යතුරු පැදි කරුවෙකු මාර්ගය හරහා දැමිමට යාමේදි මෙම අනතුර සිදුව ඇති බව පොලිසිය කියයි.
+🟩
 
-අනතුරීන් යතුරු පැදි කරුට සුළු තුවාල සිදුව ඇති බවත් බරපතල නොවන බවත් කියයි.
+Karuwalagaswewa Police say that although the leader of the Ceylon General Assembly and other Ceylon General Congress leader of the Ceylon General Congress, MP Rishard Batuaden has been injured in the accident.
 
-කෙසේ නමුත් රිෂාඩ් බදුර්දින් මන්ත්‍රිවරයා ගමන් ගත් සුඛෝපභෝගි වාහනය එහි රියදුරුට පාලනය කර ගැනිමට නොහැකිවි මාර්ගයෙන් ඉවතට පැන අසල කානුවක ගැටි නැවති ඇති බව පොලිසිය කියයි.
+The accident had occurred when Rishard Legal MP was in Mannar from Mannar from Mannar to Puttalam and a motorcycle on the road.
 
-අනතුර සිදුවන අවස්ථාවේ මන්ත්‍රිවරයා සමග ආරක්ෂකයින් හා තවත් කිප දෙනෙකු සිට ඇති බවත් එම ස්ථානයෙ සිටි පිරිස් පවසති.
+The motorcycle karue says that the motorcycle karue is minor injuries and not serious.
+
+However, the driver of Rishard Penalias has arisen in a carcass that its driver is impossible to control its driver.
+
+At the time of the accident, the personnel have been present and said that the victims have been present.
+
+Karuwalagaswewa Police say that the vehicle had no accidents that the vehicle had no accident or had the accident.
+
+Karuwalagaswewa Police have been sent to the Puttalam-year hospitalized who was suspended in the accident.
 
 ...
 
 [Data](articles/85b434ba.json)
+
+[Extended Data](ext_articles/85b434ba.ext.json)
 
 ---
 
@@ -2301,33 +2331,5 @@ Trump has said he felt that a bullet was hit by the right.
 [Data](articles/892da04f.json)
 
 [Extended Data](ext_articles/892da04f.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-07-14 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198781) · `si`
-
-A red warning for strong winds and rough seas in the Arabian Sea's eastern latitudes from 10 to 18 degrees north and 55 to 65 degrees east is issued by the Meteorology Department, valid for the next 24 hours starting at 3:00 am today. Showers are expected in the Western, Sabaragamuwa, Northwestern, and Uva provinces, with heavy rainfall possible in some areas exceeding 75 mm. Strong winds of 40-50 km/h are forecasted for the North, North Central, and North Western provinces near the central hills' western slopes. The department advises caution against temporary winds and lightning during thunderstorms.
-
-🟩
-
-The Meteorology Department has issued a red announcement of the warning of the strong winds and sea for the next 24 hours.
-
-The announcement was issued at 3.00 am today (14) at 3.00 am.
-
-Very strong winds in the sea areas between 10 and 18 northern part of the Eastern latitude of the Arabian seas and the Eastern Latadages of 55 and 65 East Library in the Sea area of ​​the Arabian seas.. 70 -80) The meteorological department is precious that the sea areas can be very rough.
-
-Meanwhile, the Department of Meteorology announces that showers will occur at times in the Western, Sabaragamuwa and Northwestern provinces.
-
-The department states that in certain places.. Heavy rains can occur at more than 75.
-
-Showers or thundershowers will occur at several places in the Uva Province and evening in the district or even nights.
-
-...
-
-[Data](articles/eb116a0f.json)
-
-[Extended Data](ext_articles/eb116a0f.ext.json)
 
 ---

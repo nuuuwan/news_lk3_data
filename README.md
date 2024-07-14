@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 20:20:19**
+As of **2024-07-14 20:35:48**
 
 ## Newspaper Stats
 
-*Scraped **35,222** Articles*
+*Scraped **35,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,175
+adalk | 3,176
 adaderanalk | 4,054
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,221 (100.0%) of 35,222 articles have been extended.
+35,222 (100.0%) of 35,223 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Meanwhile, it is also reported that the Badulla-Colombo night mail train has als
 ◼️
 
 [Data](articles/da88af61.json)
+
+[Extended Data](ext_articles/da88af61.ext.json)
 
 ---
 
@@ -289,6 +291,26 @@ In October 2020, when Madhush was shot dead in the Maligawatta area, when he wen
 [Data](articles/622f308d.json)
 
 [Extended Data](ext_articles/622f308d.ext.json)
+
+---
+
+### හිටපු ඇමති රිෂාඩ් කරුවලගස්වැවදී අනතුරක
+
+*2024-07-14 18:06:12* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-රිෂාඩ්-කරුවලගස්වැවදී-අනතුරක/11-410779) · `si`
+
+හිටපු අමාත්‍ය හා වන්නි දිස්ත්‍රික් පාර්ලිමේන්තු සමස්ථ ලංකා මහජන කොන්ග්‍රස් පක්ෂයෙ නායක මන්ත්‍රී රිෂාඩ් බදුර්දින් මහතා ගමන් ගනිමන් තිබු සුඛෝපභෝගි ජීප් රිය කරුවලගස්වැවදී අනතුරකට ලක්ව ඇති බවත් අනතුරීන් කිසිවකුටත් හානි සිදුව නැතත් වාහනයට දරුණූ හානි සිදුව ඇති බව කරුවලගස්වැව පොලිසිය කියයි.
+
+රිෂාඩ් බදුර්දින් මන්ත්‍රිවරයා ඔහුගේ ආරක්ෂකයින් සමග මන්නාරම සිට පුත්තලම බලා එමින් සිටියදී කරුවලගස්වැව ඉන්ධන හල ඉදිරීපිටදී යතුරු පැදි කරුවෙකු මාර්ගය හරහා දැමිමට යාමේදි මෙම අනතුර සිදුව ඇති බව පොලිසිය කියයි.
+
+අනතුරීන් යතුරු පැදි කරුට සුළු තුවාල සිදුව ඇති බවත් බරපතල නොවන බවත් කියයි.
+
+කෙසේ නමුත් රිෂාඩ් බදුර්දින් මන්ත්‍රිවරයා ගමන් ගත් සුඛෝපභෝගි වාහනය එහි රියදුරුට පාලනය කර ගැනිමට නොහැකිවි මාර්ගයෙන් ඉවතට පැන අසල කානුවක ගැටි නැවති ඇති බව පොලිසිය කියයි.
+
+අනතුර සිදුවන අවස්ථාවේ මන්ත්‍රිවරයා සමග ආරක්ෂකයින් හා තවත් කිප දෙනෙකු සිට ඇති බවත් එම ස්ථානයෙ සිටි පිරිස් පවසති.
+
+...
+
+[Data](articles/85b434ba.json)
 
 ---
 
@@ -2307,23 +2329,5 @@ Showers or thundershowers will occur at several places in the Uva Province and e
 [Data](articles/eb116a0f.json)
 
 [Extended Data](ext_articles/eb116a0f.ext.json)
-
----
-
-### Sri Lanka Cricket: ‘No One Can Make You Feel Inferior Without Your Consent’
-
-*2024-07-14 03:53:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-cricket-no-one-can-make-you-feel-inferior-without-your-consent/) · `en`
-
-“No one can make you feel inferior without your consent.” ~ Elanor Roosevelt
-
-In January 2019, former Minister of Sports Harin Fernando appointed Major General Daya Ratnayake as the Chairman of the National Sports Council (NSC), along with 14 executive members, with the goal of uplifting sports in Sri Lanka. At the time, Harin Fernando stated, “As the Minister of Sports, my main focus is to ensure that sports are played clean in the country. Win or lose, playing clean should be the main focus. I want to put a stop to talented youngsters from rural areas being unable to compete and perform due to a lack of basic facilities like a pair of spikes.”
-
-However, in November 2019, Harin Fernando resigned from his ministerial post following the defeat of the UNP candidate in the Presidential election. During the tenure of Harin Fernando and Daya Ratnayake, there was hardly any noteworthy progress in the development of sports generally.
-
-...
-
-[Data](articles/7bff67e3.json)
-
-[Extended Data](ext_articles/7bff67e3.ext.json)
 
 ---

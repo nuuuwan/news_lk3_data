@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 02:35:14**
+As of **2024-07-15 02:52:57**
 
 ## Newspaper Stats
 
-*Scraped **35,246** Articles*
+*Scraped **35,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 341
 newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,089
-dailyftlk | 2,227
+dailyftlk | 2,230
 adalk | 3,179
 adaderanalk | 4,055
 tamilmirrorlk | 4,239
@@ -26,11 +26,51 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,246 (100.0%) of 35,246 articles have been extended.
+35,246 (100.0%) of 35,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Hayleys Fabric wins Gold at Presidential Environmental Awards 2024
+
+*2024-07-15 02:32:17* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-wins-Gold-at-Presidential-Environmental-Awards-2024/34-764277) · `en`
+
+Hayleys Fabric Managing Director/CEO Rohan Goonetilleke (left) receiving the Gold award – Textile and Textile Processing Industry from President Ranil Wickremesinghe at the Presidential Environmental Awards 2024
+
+Hayleys Fabric PLC, a leading textile manufacturer in Sri Lanka, has received the Gold award in the Textile and Textile Processing Industry at the Presidential Environmental Awards 2024. This prestigious accolade highlights Hayleys Fabric’s unwavering commitment to environmental sustainability, distinguishing the business among nearly 1000 applicants nationwide. The award’s selection process emphasised companies’ environmental dedication, with Hayleys Fabric standing out for its robust ESG (Environment, Social, and Governance) framework.
+
+...
+
+[Data](articles/764da880.json)
+
+---
+
+### Vietnam delegation participates in Ratnapura International Gem and Jewellery Show
+
+*2024-07-15 02:30:11* · [`dailyftlk`](https://www.ft.lk/business/Vietnam-delegation-participates-in-Ratnapura-International-Gem-and-Jewellery-Show/34-764276) · `en`
+
+An eight-member delegation from Vietnam headed by Secretary General and Vice President of the Vietnam Association of Gemstones (VAG) participated in the Ratnapura International Gem and Jewellery show from 29 June to 1 July 2024.
+
+AGO Gems, a renowned gem company in Vietnam also had a booth at the fair. AGO Gems Owner Nguyen Van Trung and Indian Business Chamber in Vietnam Chairman Sengupta Indronil were also in the delegation.
+
+...
+
+[Data](articles/76693eec.json)
+
+---
+
+### China owned UAE’s One Road Group calls on BOI
+
+*2024-07-15 02:24:06* · [`dailyftlk`](https://www.ft.lk/business/China-owned-UAE-s-One-Road-Group-calls-on-BOI/34-764275) · `en`
+
+One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai, United Arab Emirates in the oil and gas industry, public transportation, car dealership, car rental and service, media, and project investment in the UAE and Gulf countries met the Board of Investment (BOI) Chairman Dinesh Weerakkody and officials of the Port City to identify potential investment opportunities. Sri Lankan Ambassador to the UAE Udaya Indrarathne also participated. One Road Group delegation was led by Group CEO Chenling Zhang and included Vice President Qiyi Xie, One Road Group (China) General Manager Juan Zhao,  Vice President (Cambodia) Jinfeng Jiao, Group General Manager – Finance YuanXia Liao, Oman President Wu Vice, Rankoll Energy DMCC Deputy General Manager YouYuan Jiang, Business Strategy Director Peng Wang,  One Road Group Project Manager WangQi Ma, Deputy General Manager Zefang Xie, Branding Supervisor PeiRan Zhao and General Manager (China) Zhong Lihong.
+
+◼️
+
+[Data](articles/a0e0eebc.json)
+
+---
 
 ### Muslim principals file HRCSL complaint on cancellation of exam results over head coverings
 
@@ -2235,73 +2275,5 @@ It is noteworthy that former President Donald Trump was shot dead in the ear of 
 [Data](articles/e98cfef6.json)
 
 [Extended Data](ext_articles/e98cfef6.ext.json)
-
----
-
-### 47 human remains recovery at the completion of excavation work
-
-*2024-07-14 10:23:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகழ்வாய்வு-பணிகளின்-நிறைவில்-47-மனித-எச்சங்கள்-மீட்பு/175-340362) · `ta`
-
-During the third phase of excavation at Mullaitivu-Kokkuttuwai, two human skeletons and a cyanide vial were discovered, bringing the total number of recovered human remains to 47. This discovery occurred on the ninth day of excavation, overseen by a team including Archaeological Professor Raj Somadeva and Mullaitivu District Legal Officer Kanagasabapathi Vasudeva, in the presence of Judge Dharmalingam Pradeepan.
-
-🟩
-
-Mullaitivu - Kokkuttuwai is the third phase of the excavation of the human burial ground and two human skeletal skeletons have been excavated on the ninth day of excavation, said Kanagasabapathi Vasudeva, a Mullaitivu District Legal Officer.
-
-The ninth day of excavation of the Mullaitivu Kokkuttuvai human body was carried out on Saturday (13).
-
-In the presence of Mullaitivu Court Judge Dharmalingam Pradeepan, a group led by Archaeological Professor Raj Somadeva, led by legal officer Kanagasabapathi Vasudeva, was held on the ninth day with the participation of forensic police, including forensic police.
-
-Two human skeletons and a cyanide vial have been excavated from the human skeleton constituencies identified in a series of excavations.
-
-In this case, 40 human skeletons have been excavated during the two excavations in the Kokkuttuwai Human Portrait, and a total of 47 human skeletons have been excavated in the third phase of excavation.
-
-◼️
-
-[Data](articles/e834d6d2.json)
-
-[Extended Data](ext_articles/e834d6d2.ext.json)
-
----
-
-### Fairly heavy rainfall expected in parts of the island
-
-*2024-07-14 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100492/fairly-heavy-rainfall-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 50 mm are likely at some places in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over the Western slopes of the central hills, Western, Southern, Northern, North-central and North-western provinces and in Trincomalee district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/5afffe41.json)
-
-[Extended Data](ext_articles/5afffe41.ext.json)
-
----
-
-### Foreign woman drowns
-
-*2024-07-14 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198786) · `si`
-
-A Korean woman drowned in Sri Lanka's Mirissa Sea near Weligama. Rescued by coast guards and lifeguards, she was taken to Matara hospital but later passed away.
-
-🟩
-
-A Korean woman drowned in Mirissa Sea in the Weligama Police Division.
-
-She had been laid by the Coast Guard, lifeguards and admitted to the Matara hospital when the woman was kicked out of a break.
-
-◼️
-
-[Data](articles/0853168f.json)
-
-[Extended Data](ext_articles/0853168f.ext.json)
 
 ---

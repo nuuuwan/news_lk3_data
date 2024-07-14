@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 22:53:40**
+As of **2024-07-14 23:11:17**
 
 ## Newspaper Stats
 
-*Scraped **35,231** Articles*
+*Scraped **35,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,178
+adalk | 3,179
 adaderanalk | 4,055
 tamilmirrorlk | 4,236
 dailymirrorlk | 4,733
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,230 (100.0%) of 35,231 articles have been extended.
+35,231 (100.0%) of 35,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### ඩෙංගු යළි හිස ඔසවයි
+### Dengue raises up again
 
 *2024-07-14 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198809) · `si`
 
-මේ වසරේ ගත වූ කාලසීමාව තුළ ඩෙංගු රෝගීන් 30,000කට වැඩි පිරිසක් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.
+Dengue cases surged, with over 30,000 reports nationwide, led by Colombo with 6,965 cases. Other high counts were in Gampaha (3,126) and Kandy (2,441). 21 areas are now dengue hotspots.
 
-වසරේ ගත වූ කාලය තුළ ඩෙංගු රෝගීන් 30,227 දෙනෙකු දිවයින පුරා වාර්තා වී තිබේ.
+🟩
 
-ඉන් වැඩිම රෝගීන් සංඛ්‍යාවක් කොළඹ දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති අතර එම සංඛ්‍යාව 6,965කි.
+More than 30,000 dengue patients have been reported this year, says the National Dengue Control Unit.
 
-ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 3,126 දෙනෙකු වාර්තා වී ඇති අතර යාපනය දිස්ත්‍රික්කයෙන් 3,998 දෙනෙකු සහ මහනුවර දිස්ත්‍රික්කයෙන් රෝගීන් 2,441 දෙනෙකු වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේය.
+Tround 30,227 dengue patients were reported island wide during the past year.
 
-දිවයින පුරා සෞඛ්‍ය වෛද්‍ය නිලධාරී බල ප්‍රදේශ 21ක් ඩෙංගු අධි අවදානම් කලාප ලෙස හඳුනාගෙන තිබේ.
+The highest number of patients have been reported from the Colombo District, which is 6,965.
+
+3,126 patients have been reported from the Gampaha district and 2,441 patients have been reported from the Kandy district and 2,441 patients have been reported from the Kandy district.
+
+21 health medical officers of the Health Medical Officer of Health is identified as dengue high risk zones.
 
 ◼️
 
 [Data](articles/19b88289.json)
+
+[Extended Data](ext_articles/19b88289.ext.json)
 
 ---
 
@@ -245,6 +251,22 @@ In response, DIG Gayantha Marapana has expressed his regret to Minister Alles ov
 [Data](articles/fffeca25.json)
 
 [Extended Data](ext_articles/fffeca25.ext.json)
+
+---
+
+### ප්‍රවාහන සේවා වලට අදාළව යළි ගැසට් පත්‍රයක්
+
+*2024-07-14 19:02:45* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රවාහන-සේවා-වලට-අදාළව-යළි-ගැසට්-පත්‍රයක්/11-410783) · `si`
+
+ප්‍රවාහන සේවා අත්‍යවශ්‍ය සේවාවන් බවට පත් කරමින් නැවත වරක් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අණපරිදි ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් මෙම ගැසට් පත්‍රය නිකුත් කර ඇත.
+
+මං මාවත්, පාලම්, බෝක්කු සහ දුම්රිය මාර්ග ඇතුළුවමංමාවත්, දුම්රිය මාර්ග මගින් ගමනාගමන සේවා සඳහා පහසුකම් සැලසීම සහ පවත්වාගෙන යාම අතිවිශේෂ සේවාවන් බව එම ගැසට් නිවේදනයේ සඳහන්වේ.
+
+මීට ඉහතද ප්‍රවාහන සේවාව අත්‍යවශ්‍ය සේවාවක් බවට පත් කරමින් ජනාධිපතිවරයා විසින් අතිවිශේෂ ගැසට් නිවේදනයකුත් කර තිබූ අතර, නව ගැසට් නිවේදනය 12වනදා දිනැතිව නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/95c022ba.json)
 
 ---
 
@@ -2339,37 +2361,5 @@ Nimal Bandara said that the voice of the Israeli Lebanese missiles have increase
 [Data](articles/1f703a6c.json)
 
 [Extended Data](ext_articles/1f703a6c.ext.json)
-
----
-
-### Firing on Trump during election campaign
-
-*2024-07-14 07:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188397) · `ta`
-
-During a Trump campaign rally in Butler, Pennsylvania, a shooting occurred, killing one person and injuring another. The US Secret Service responded, and the shooter, identified as someone attending the rally, was fatally shot. Videos show Trump, with blood on his face, responding to the incident. The area around the event has been secured, and Trump continues his campaign despite the incident.
-
-🟩
-
-Former US President Donald Trump has fired at Butler Pennsylvania.
-
-Officials say that a firing man and a rally have been killed in a response by the US secret service.
-
-Videos have shown that he is sitting on the ground as he holds his ear.
-
-Trump, who stood up with blood on his face, raise his hands and fight.
-
-The area where the incident took place has been declared in the area- Trump is well-known, his officials said.
-
-Officials have confirmed that the suspect and a rally attended by a rally, which is supposed to be the attacker, has been shot dead.
-
-The US secret service department said that the firing was carried out from a high -ranking area near the area where Trump's election campaign was taking place.
-
-They said that the shooting was carried out from a high building near the area where the event was taking place.
-
-◼️
-
-[Data](articles/78163d61.json)
-
-[Extended Data](ext_articles/78163d61.ext.json)
 
 ---

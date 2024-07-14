@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 07:52:44**
+As of **2024-07-14 08:16:42**
 
 ## Newspaper Stats
 
-*Scraped **35,121** Articles*
+*Scraped **35,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,040
-tamilmirrorlk | 4,211
+tamilmirrorlk | 4,214
 dailymirrorlk | 4,733
 virakesarilk | 5,480
-adaderanasinhalalk | 5,855
+adaderanasinhalalk | 5,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,119 (100.0%) of 35,121 articles have been extended.
+35,121 (100.0%) of 35,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### ඊශ්‍රායලයේ දී ශ්‍රී ලාංකිකයෙකුට තුවාල
+
+*2024-07-14 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198783) · `si`
+
+අයන්ඩෝම් පද්ධතිය මගින් විනාශ කළ මිසයිලයක යකඩ කැබැල්ලක් වැදීමෙන් ඊශ්‍රායලයේ සේවය නිරත ශ්‍රී ලාංකිකයෙකු තුවාල ලබා තිබේ.
+
+එලෙස තුවාල ලබා ඇත්තේ උතුරු ඊශ්‍රායලයේ ලෙබනන් දේශ සීමාව ආසන්නයේ කෘෂිකාර්මික කටයුතුවල නිරතව සිටි ශ්‍රී ලාංකිකයෙකු බව එරට පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලය සඳහන් කළේය.
+
+එම පුද්ගලයාගේ හිසට යකඩ කැබැල්ල වැදී තුවාල සිදුව ඇති අතර ඊශ්‍රායල ආරක්ෂක අංශ විසින් ඔහු රෝහල් ගතකර ඇති බව සඳහන්ය.
+
+ඔහුගේ තත්ත්වය බරපතළ නොවන බව "අද දෙරණ" කළ විමසීමකදී ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා සඳහන් කළේය.
+
+අදාළ ප්‍රහාරයන් සිදුවන අවස්ථාවේ සයිරන් නලා නාද වුවද ඔවුන්ගේ ආරක්ෂිත කාමරය වෙත දිව යන අතරතුර එම අනතුර සිදුව තිබේ.
+
+ඊශ්‍රායල් ලෙබනන් දේශ සිමාවේ ෂෙල් හා කුඩා ප්‍රමාණයේ මිසයිල ප්‍රහාර වැඩිවී ඇති බැවින් එහි සේවය කරන අතරතුර යම් ප්‍රහාරයක තොරතුරු මත සයිරන් හඬ නාද වේනම් කඩිනමින් ආරක්‍ෂිත ස්ථාන වෙත ගමන් කරන ලෙස දැනුම් දී ඇති බව නිමල් බණ්ඩාර මහතා පැවසීය.
+
+◼️
+
+[Data](articles/1f703a6c.json)
+
+---
 
 ### Trump shot in right ear at rally, source says shooter dead
 
@@ -47,6 +69,8 @@ As the shots rang out, Trump grabbed his right ear with his right hand, then bro
 ...
 
 [Data](articles/36dfe181.json)
+
+[Extended Data](ext_articles/36dfe181.ext.json)
 
 ---
 
@@ -113,6 +137,26 @@ It said that the firm was recognized as one of the UK’s fastest-growing compan
 [Data](articles/da81e4f3.json)
 
 [Extended Data](ext_articles/da81e4f3.ext.json)
+
+---
+
+### ඩොනල්ඩ් ට්‍රම්ප් වෙත වෙඩි ප්‍රහාරයක්
+
+*2024-07-14 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198782) · `si`
+
+අමෙරිකානු හිටපු ජනාධිපතිවරයෙකු මෙන්ම ජනාධිපතිවරණ අපේක්ෂකු වන ඩොනල්ඩ් ට්‍රම්ප් සහභාගී වූ මැතිවරණ රැළියකට වෙඩි ප්‍රහාරයක් එල්ල වී තිබේ.
+
+එම වෙඩි තැබීමෙන් ඩොනල්ඩ් ට්‍රම්ප්ට තුවාල සිදුව ඇති බව වාර්තා වෙයි
+
+වෙඩි තැබීම සිදුකළ සැකකරු ආරක්ෂක අංශ වෙඩි ප්‍රහාරවලින් මියගොස් ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කරයි.
+
+වෙඩි ප්‍රහාර එල්ල වනවාත් සමගම ට්‍රම්ප් බිම දිගාවී ඇති අතර ඔහුගේ කනක් අසල ලේ තිබෙන අයුරු දක්නට ලැබුණි.
+
+ට්‍රම්ප් පවසා ඇත්තේ වෙඩි උණ්ඩයක් දකුණු කනේ වැදුණු බව තමාට දැනුණු බවයි.
+
+◼️
+
+[Data](articles/892da04f.json)
 
 ---
 
@@ -240,6 +284,22 @@ Meanwhile, Vajira Wijewardena of Anglo Asian, fame was manufacturing blades at h
 
 ---
 
+### தேர்தல் அச்சுப்பணிக்கு 800 மில்லியன் ரூபா செலவாகலாம்
+
+*2024-07-14 01:28:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அச்சுப்பணிக்கு-800-மில்லியன்-ரூபா-செலவாகலாம்/175-340347) · `ta`
+
+ஜனாதிபதித் தேர்தல் அச்சுப்பணிகளுக்காக அதிகபட்சம் 600 முதல் 800 மில்லியன் ரூபா செலவாகுமென அரச அச்சகம் தெரிவிக்கின்றது.
+
+இது தொடர்பில் தேர்தல்கள் ஆணைக்குழுவிற்கு அறிவிக்கப்பட்டுள்ளதாக அரச அச்சகர் கங்கா கல்பனி லியனகே தெரிவித்துள்ளார்.
+
+எவ்வாறாயினும், வாக்குச்சீட்டின் அளவைப் பொறுத்து இந்த தொகையில் மாற்றம் ஏற்படலாமெனவும் அவர் சுட்டிக்காட்டியுள்ளார். (a)
+
+◼️
+
+[Data](articles/70b9ca4a.json)
+
+---
+
 ### Nihal Fernando’s Odyssey in and with Sri Lanka: An Appreciation
 
 *2024-07-14 01:24:00* · [`islandlk`](http://island.lk/nihal-fernandos-odyssey-in-and-with-sri-lanka-an-appreciation/) · `en`
@@ -251,6 +311,40 @@ There is, on the title page of Nihal Fernando’s ‘Sri Lanka — A Personal Od
 [Data](articles/10fc98e3.json)
 
 [Extended Data](ext_articles/10fc98e3.ext.json)
+
+---
+
+### வட மாகாண வேலையற்ற பட்டதாரிகள் போராட்டம்
+
+*2024-07-14 01:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-வேலையற்ற-பட்டதாரிகள்-போராட்டம்/175-340346) · `ta`
+
+வடக்கு மாகாண வேலையற்ற பட்டதாரிகள் நாளை மறுதினம் செவ்வாய்க்கிழமை யாழ்ப்பாணம் மாவட்ட செயலகத்துக்கு முன்பாக கவனவீர்ப்புப் போராட்டத்தை மேற்கொள்ளவுள்ளனர்.
+
+இந்தத் தகவலை வடக்கு மாகாண வேலையற்ற பட்டதாரிகள் சங்கத்தின் தலைவர் கபில்டன் போல் ஊடகங்களிடம் தெரிவித்தார்.
+
+இந்தப் போராட்டத்தின் நோக்கம் எமக்கான வேலைவாய்ப்பை பெற்றுக்கொள்வது மாத்திரமன்றி எதிர்கால இளைய தலைமுறைகளும் எம்மைப் போல் அவலநிலையை எதிர்கொள்ளாமல் இருக்கும் வகையிலான கல்விச் சீர்திருத்தத்தை வலியுறுத்துவதையும் மையமாகக் கொண்டுள்ளது எனவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/3e5f15ea.json)
+
+---
+
+### காற்றின் வேகம் அதிகரிக்கும்
+
+*2024-07-14 01:10:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றின்-வேகம்-அதிகரிக்கும்/175-340345) · `ta`
+
+நாட்டில் பெரும்பாலான பகுதிகளில் பலத்த மழை பெய்யலாம் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா மாவட்டங்களிலும் 100 மில்லி மீற்றருக்கும் அதிக மழை பெய்யக்கூடும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+
+இதேவேளை, காங்கேசன்துறையிலிருந்து மன்னார் ஊடாக புத்தளம் வரையிலும் அம்பாந்தோட்டையிலிருந்து பொத்துவில் வரையான கடற்பரப்புகளில் காற்றின் வேகம் மணித்தியாலத்துக்கு 60 முதல் 65  கிலோ மீற்றர் வரை அதிகரிக்ககூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு குறித்து எச்சரிக்கை விடுத்துள்ள வளிமண்டலவியல் திணைக்களம் மேற்படி கடற்பரப்பிராந்தியங்கள் கொந்தளிப்பாக காணப்படும் எனவும் கூறியுள்ளது.
+
+◼️
+
+[Data](articles/23719680.json)
 
 ---
 
@@ -2069,95 +2163,5 @@ The agreement marks a pivotal achievement not only for Sadaharitha but also for 
 [Data](articles/3ff5b788.json)
 
 [Extended Data](ext_articles/3ff5b788.ext.json)
-
----
-
-### Adani wind project: Is it a controversy created?
-
-*2024-07-13 00:16:13* · [`dailyftlk`](https://www.ft.lk/columns/Adani-wind-project-Is-it-a-controversy-created/4-764216) · `en`
-
-Do these migratory birds pick which project to hit or not hit, in this case they only hit the Adani wind project, is it?
-
-The economic benefits of the Mannar project are substantial. It is expected to create 1,000 plus jobs, boosting the local economy. As are many infrastructural and developing projects of this nature developers are committed to working with local communities, addressing their concerns, and minimising disruption to their lives. Can Sri Lanka afford to lose this investment?
-
-I read with interest Rohan Pethiyogada’s article “Adani controversy: Why the cheerleaders are wrong” (https://www.ft.lk/columns/Adani-controversy-Why-the-cheerleaders-are-wrong/4-764104#:~:text=The%20issue%20is%20that%20the,will%20fix%20that%20fundamental%20defect.).
-
-...
-
-[Data](articles/30807e0c.json)
-
-[Extended Data](ext_articles/30807e0c.ext.json)
-
----
-
-### Climate risk and the fashion and textile industry
-
-*2024-07-13 00:13:22* · [`dailyftlk`](https://www.ft.lk/columns/Climate-risk-and-the-fashion-and-textile-industry/4-764215) · `en`
-
-Due to its wealth of natural and cultural resources, Sri Lanka has great potential for scaling up ethical, sustainable, and eco-friendly fashion – Pic credit: SLYCAN Trust
-
-Sri Lanka has a vibrant fashion and textile industry that has long been an important source of employment, export earnings, and economic growth. In addition to producing for global brands, it is also a significant part of the country’s cultural heritage with traditional practices such as handloom, batik, dumbara, beeralu, or jewellery-making. Furthermore, due to its wealth of natural and cultural resources, Sri Lanka has great potential for scaling up ethical, sustainable, and eco-friendly fashion—for example, through the use of natural dyes and fabrics or by repurposing factory waste and cutoffs.
-
-...
-
-[Data](articles/64b00a9a.json)
-
-[Extended Data](ext_articles/64b00a9a.ext.json)
-
----
-
-### Debt relief, reforms and democracy
-
-*2024-07-13 00:07:53* · [`dailyftlk`](https://www.ft.lk/columns/Debt-relief-reforms-and-democracy/4-764210) · `en`
-
-It is the citizenry at the middle and lower end of the income scale who would be asked to bear the cost of this exercise rather dis-proportionately
-
-“Don’t buy things you can’t afford with money you don’t have to impress people you don’t like”. This quote from Dave Ramsay which applies to individuals and families may as well apply to governments also. Why did Sri Lanka borrow so much, was there proper accounting of how it was spent, how many of the projects funded by borrowed money actually met the real needs of the country, and who really benefited, are all questions that still remain unanswered.
-
-...
-
-[Data](articles/ea9a8680.json)
-
-[Extended Data](ext_articles/ea9a8680.ext.json)
-
----
-
-### Withholding AL results of Muslim students over head coverings – HRCSL intervenes
-
-*2024-07-13 00:02:15* · [`dailyftlk`](https://www.ft.lk/news/Withholding-AL-results-of-Muslim-students-over-head-coverings-HRCSL-intervenes/56-764206) · `en`
-
-During a meeting with education authorities HRCSL stresses SL’s Constitution guarantees freedom of religion and non-discrimination based on religion
-
-Confirms religious attire, including Muslim head coverings, is protected under Article 14(1)(e), and any restrictions must be legally justified
-
-Says HRCSL, withholding exam results can violate the right to universal and equal access to education
-
-Notes head coverings rule was selectively applied to Zahira College Trincomalee and suggested a review of whether the attire actually violated examination rules
-
-The Human Rights Commission of Sri Lanka (HRCSL) has launched a suo motu inquiry into allegations of the infringement of religious freedom and the right to education in Trincomalee, concerning the withholding of Advanced Level examination results for approximately 70 students from Zahira College.
-
-...
-
-[Data](articles/0bcb74fb.json)
-
-[Extended Data](ext_articles/0bcb74fb.ext.json)
-
----
-
-### China, Bangladesh elevate ties, broaden cooperation
-
-*2024-07-13 00:01:37* · [`dailyftlk`](https://www.ft.lk/news/China-Bangladesh-elevate-ties-broaden-cooperation/56-764205) · `en`
-
-Bangladeshi Prime Minister Sheikh Hasina and Chinese President Xi Jinping
-
-China and Bangladesh this week elevated their relations to a comprehensive strategic cooperative partnership. Chinese President Xi Jinping and Bangladeshi Prime Minister Sheikh Hasina announced this while meeting in Beijing.
-
-Experts described Hasina’s visit to China as a journey of cooperation and friendship. Although some Indian media outlets are seemingly concerned about the visit, experts said the development of China-Bangladesh ties does not target any third party, and will be conducive to overall peace and stability in South Asia.
-
-...
-
-[Data](articles/b74941d9.json)
-
-[Extended Data](ext_articles/b74941d9.ext.json)
 
 ---

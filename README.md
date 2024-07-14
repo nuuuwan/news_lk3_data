@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 19:03:24**
+As of **2024-07-14 19:36:09**
 
 ## Newspaper Stats
 
-*Scraped **35,217** Articles*
+*Scraped **35,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,174
-adaderanalk | 4,052
+adalk | 3,175
+adaderanalk | 4,053
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,501
@@ -26,55 +26,87 @@ adaderanasinhalalk | 5,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,211 (100.0%) of 35,217 articles have been extended.
+35,218 (100.0%) of 35,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### පොල් ගෙඩි 10කට සිදුකළ ඝාතනය
+### ‘Club Wasantha’ murder: Top cops warned over grilling suspect in front of media
+
+*2024-07-14 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100505/club-wasantha-murder-top-cops-warned-over-grilling-suspect-in-front-of-media) · `en`
+
+Minister of Public Security Tiran Alles has issued a stern warning to high-ranking police officers regarding the recent questioning of the tattoo studio owner arrested in connection with the murder of popular businessman Surendra Wasantha Perera alias “Club Wasantha” in front of the media.
+
+Accordingly, the Public Security Minister has warned the high-ranking officers including the Deputy Inspector General of Police (DIG) in charge of the Western Province (South) Gayantha Marapana, who were involved in the said questioning of the suspect in front of media personnel.
+
+In response, DIG Gayantha Marapana has expressed his regret to Minister Alles over the incident. He has acknowledged the mishandling of the situation and assured the Minister that such an incident would not recur in the future.
+
+...
+
+[Data](articles/fffeca25.json)
+
+[Extended Data](ext_articles/fffeca25.ext.json)
+
+---
+
+### The assassination of 10 coconuts
 
 *2024-07-14 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198803) · `si`
 
-රත්ගම, රණපනාදෙණිය ප්‍රදේශයේ පුද්ගලයෙකුට පොල් උලකින් ඇන ඝාතනය කිරීම සම්බන්ධයෙන් වූ සැකකරු රත්ගම පොලීසිය විසින් අද (14) සවස අත් අඩංගුවට ගෙන තිබේ.
+Kumaravadu Sumith, 49, from Ratgama, was arrested by the Ratgama Police for the murder of Dadalla Wimalasena, 67, also from Ratgama. The incident occurred at 5:00 pm on December 12th. Investigations reveal the victim's family members were present but not harmed.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වලකඩ, ගණේගොඩ, රත්ගම ලිපිනයේ පදිංචි කුමාරවඩු සුමිත් (49) නැමැති අයයි.
+🟩
 
-රත්ගම, රණපනාදෙණිය පදිංචි දඩල්ලගේ විමලසේන (67) නැමැති අයගේ ඝාතනය සම්බන්ධයෙන් මෙම සැකකරුව රත්ගම පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+The suspect in the killing of the coconut tunnel has been arrested by the Ratgama Police today (14).
 
-පෙරේදා (12) සවස 5.47 ට මෙම ඝාතනය සිදුව තිබෙන බවත් එය එදින රාත්‍රී 7.00ට පොලීසියට වාර්තා වූ බවත් රත්ගම පොලීසිය පැවසීය.
+The arrests Kumaravadu Sumith (49), a resident of Walakada, Rumigoda, Ratgama.
 
-මරණකරු සමග ඔහුගේ මව සහ මවගේ නැගණිය ජීවත්ව සිට ඇති බවත් මරණකරුගේ බිරිඳ හා දරුවා ඩුබායිහි ජීවත්වන බවත් පොලිස් පරීක්ෂණවලදී තහවුරු වී තිබේ.
+The suspect was arrested by the Ratgama Police regarding the murder of Dadalla Wimalasena (67), a resident of Rathgama.
 
-මරණකරුට අයත් පොල් ඉඩමේ පොල් ගෙඩි 10ක් සැකකරු විසින් අහුලා විකුණා තිබෙන බවත් ඒ සම්බන්ධයෙන් ඇතිවූ කතාබහක් බහින්බස්වීමක් දක්වා දුරදිග ගොස් පහරදීමකින් මෙම මරණය සිදුව තිබෙන බවත් රත්ගම පොලීසිය කියයි.
+The Rathgama Police said that the murder had occurred at 5.00 pm on the evening (12).
+
+Police investigations have confirmed that his mother and mother's sister was alive with the deceased and that the victim's wife and child will live in Dubai.
+
+The demonstration had taken place by the suspect, which had been sold by the suspect, who had been sold by the suspect belonging to the suspect.
 
 ◼️
 
 [Data](articles/209352ce.json)
 
+[Extended Data](ext_articles/209352ce.ext.json)
+
 ---
 
-### තරුණ ජීවිත තුනක් බිලිගත් අනතුරු
+### Three young livestock accidents
 
 *2024-07-14 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198802) · `si`
 
-ප්‍රදේශ තුනක දී සිදු වූ රිය අනතුරුවලින් තිදෙනෙකු මිය ගොස් තිබේ. පොලීසිය පැවසුවේ තරුණයන් තිදෙනෙකු මෙලෙස මියගොස් ඇති බවය.
+In separate incidents, three young individuals tragically lost their lives in traffic accidents across Sri Lanka. The first involved a motorcyclist colliding with a bus stop in Bandaragama, leading to his death upon arrival at Gonaduwa hospital. Another incident saw a motorcyclist seriously injured after crashing with another vehicle near Padeniya junction; he remains hospitalized. Lastly, a passenger in a lorry traveling between Dambulla and Habarana suffered injuries and was taken to Dambulla hospital. All drivers involved have been apprehended, with ongoing police investigations.
 
-අද (14) අළුයම මොරොන්තුඩුව, බණ්ඩාරගම - කළුතර මාර්ගයේ දැල්කඩ හන්දියේ බණ්ඩාරගම දෙස සිට කළුතර දෙසට ධාවනය වූ යතුරු පැදියක්, පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට පැන බස් නැවතුමක ගැටී අනතුරක් සිදුව ඇත.
+🟩
 
-පොලීසිය පැවසුවේ තුවාල ලැබූ යතුරුපැදිකරු ගෝනදූව රෝහලට ඇතුළත් කිරීමෙදී මියගොස් ඇති බවය.
+Three killed in accidents occurred in three areas. Police said that three youths were killed.
 
-මේ අතර ඊයේ (13)  පස්වරුවේ ගල්ගමුව, පාදෙණිය - අනුරාධපුර මාර්ගයේ ජයබිම හන්දියේ දී අනුරාධපුරය දෙස සිට පාදෙණිය දෙසට ධාවනය වූ කැබ් රථයක් ඉදිරියෙන් පැමිණි යතුරු පැදියක මුහුණට මුහුණ ගැටී අනතුරක් සිදු ව තිබේ.
+A motorcycle, a motorbike on the Bandaragama, Bandaragama and Kalutara Kalutara road today (14), had accidentally collided with a bus stop.
 
-එහිදී බරපතළ තුවාල ලැබූ යතුරුපැදිකරු අනුරාධපුර රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රථිකාර ලබමින් සිටියදී මියගොස් ඇත.
+Police said the injured motorcyclist died on admission to the Gonaduwa hospital.
 
-කැබ් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර ගල්ගමුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Meanwhile, a motorbike collided with a motorcycle who had been traveling to Padeniya junction on the Anuradhapura road from Galgamuwa, Padeniya - Anuradhapura on the Anuradhapura route.
 
-එමෙන්ම, අද උදෑසන සීගිරිය, දඹුල්ල - හබරණ ප්‍රධාන මාර්ගයේ දිගම්පතහ ප්‍රදේශයේ දී දඹුල්ල දෙස සිට හබරණ දෙසට ධාවනය වූ වෑන් රථයක් ඉදිරි‍යෙන් පැමිණි ලොරි රථයක ගැටී‍මෙන් අනතුරක් සිදුව ඇත.
+The motorcyclist who was seriously injured was admitted to Anuradhapura Hospital while receiving further treatment.
+
+The driver of the cab has been arrested and the Galgamuwa Police are conducting further investigations.
+
+Also, the accident had occurred in a lorry that was traveling from Dambulla and Habarana in the Dambulla area on the Sigiriya, Dambulla and Habarana main road.
+
+A youth from the van was injured and admitted to the Dambulla hospital.
 
 ...
 
 [Data](articles/9b6eae86.json)
+
+[Extended Data](ext_articles/9b6eae86.ext.json)
 
 ---
 
@@ -252,6 +284,8 @@ Accordingly, Rs. 824 million have been allocated for the scholarship program, wh
 
 [Data](articles/dc5f3498.json)
 
+[Extended Data](ext_articles/dc5f3498.ext.json)
+
 ---
 
 ### Kalmunai North Divisional Secretariat Affairs: People's Struggle: Government intervened and resolved!
@@ -274,41 +308,73 @@ There are approximately 100 % of Tamils ​​(39,000 people from 9798 families 
 
 ---
 
-### සැමියාගේ මවට පහරදුන් කාන්තාව අත්අඩංගුවට
+### මාකඳුරේ මදූෂ් වෙනුවෙන් මාතරත් බැනරයක්
+
+*2024-07-14 17:56:20* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මදූෂ්-වෙනුවෙන්-මාතරත්-බැනරයක්/11-410778) · `si`
+
+නාදුනන තුවක්කුකරුවන් දෙදෙනෙකුගේ වෙඩි ප්‍රහාරයකට ලක්ව ඝාතනයට ලක්වු ප්‍රකට ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්තගේ අවසන් කටයුතු සිදුකිරිමෙන් පසු මාකදුරේ මදුෂ්ගේ රුව සහිත බැනරයක් මාතර ප්‍රධාන බස් නැවතුම්පොල ඉහල මහලේද ඊයේ (14දා) උදෑසන වනවිට ප්‍රදර්ශනය කර තිබු බව මාතර පොලීසිය පවසයි.
+
+එම බැනරයේද සදහන්කර ඇත්තේ “අපේ අයියේ, එක එක්කෙනා එවනවා. අපි එනකම් බලාගන්න .කේ.පී.අයි”යනුවෙනි.
+
+හිටපු පාතාල කල්ලි නායක මාකදුරේ මදුෂ් මිහිදන් කල සුසාන භූමිය ඉදිරි පිට ඊයේ (13) ප්‍රදර්ශනය කර තිබු බැනරයටම සමාන බැනරයක් එසේ මාතර ප්‍රදර්ශනය කර තිබුණි.
+
+එය කවුරුන් විසින් සවිකලේද යන්න මෙතෙක් අනාවරණය වී නොමැත.කෙසේ වෙතත් සිවිල් ඇදුමින් සැරසුණු ආරක්ෂක අංශ සාමාජිකයින් පිරීසක් අදාල බැනරය ගලවා ඉවත් කර තිබේ.
+
+මාකදුරේ මදුෂ්ගේ ගම මාතර දිස්ත්‍රික්කයේ පිහිටා ඇති නිසා එම බැනරය ප්‍රදර්ශනය කරන්නට ඇති බවට සැක කෙරේ.
+
+◼️
+
+[Data](articles/e5fb5db8.json)
+
+---
+
+### Woman arrested for assaulting husband's mother
 
 *2024-07-14 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198801) · `si`
 
-යාපනය - කොඩිකාමම් ප්‍රදේශයේදී වයෝවෘද්ධ මවකට පහරදුන් කාන්තාව සම්බන්ධයෙන් පොලිසිය පරීක්ෂණ ආරම්භ කර තිබේ.
+A woman was arrested for assaulting her husband's mother in the Jaffna-Kodikamam area. The incident, captured on video, involved violence against an elderly woman in Manduvil, Kodikamam. Following the circulation of the video, the Sri Lanka Human Rights Commission alerted the Jaffna Regional Office, which then notified the police. After investigation, the Kodikamam Police arrested the woman, who was subsequently presented before the Chavakachcheri Magistrate.
 
-කොඩිකාමම්, මන්ඩුවිල් නැගෙනහිර ප්‍රදේශයේ නිවසකදී වයෝවෘද්ධ කාන්තාවකට ලේලිය විසින් පහරදෙන අයුරු දැක්වෙන වීඩියෝවක් සමාජ මාධ්‍ය ජාල තුළ සංසරණය විය.
+🟩
 
-මේ සම්බන්ධයෙන් ශ්‍රී ලංකා මානව හිමිකම් කොමිසමේ යාපනය ප්‍රාදේශීය කාර්යාලයට දැනුම් දී ඇති අතර ඒ පිළිබඳව ඔවුන් පොලීසිය දැනුවත් කර ඇත.
+Police have commenced investigations into the woman attacked an elderly mother in the Jaffna-Kodikamam area.
 
-ඉන් අනතුරුව කොඩිකාමම් පොලීසිය විමර්ශනයක් ආරම්භ කර පහරදුන් කාන්තාව අත්අඩංගුවට ගෙන තිබේ.
+A video of the lack of labeating a wise woman in a house in the East of Manduvil, Kodikamam, circulated a video of the labe.
 
-පරීක්ෂණවලින් අනතුරුව එම කාන්තාව චාවකච්චේරි මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට පියවර ගෙන තිබුණි.
+The Sri Lanka Human Rights Commission has informed the Jaffna Regional Office in this regard and they have informed the police.
+
+The woman was later arrested by the Kodikamam Police and the attack was arrested.
+
+The woman was produced before the Chavakachcheri Magistrate after investigations.
 
 ◼️
 
 [Data](articles/1110d0f8.json)
 
+[Extended Data](ext_articles/1110d0f8.ext.json)
+
 ---
 
-### ලොකු පැටිගේ මස්සිනා ඇතුළු තිදෙනා මුදා හරි
+### The three large patches of brother-in-law released
 
 *2024-07-14 17:43:12* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටිගේ-මස්සිනා-ඇතුළු-තිදෙනා-මුදා-හරි/11-410777) · `si`
 
-අතුරුගිරිය ටැටු කලාගාරය  තුළදී  ව්‍යාපාරික ක්ලබ් වසන්ත නමැත්තා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් පාතාල නායක ලොකු පැටිගේ මස්සිනා ඇතුළු තිදෙනාප්‍රශ්න කිරීමෙන් අනතුරුව මුදා හැරිය බව බස්නාහිර පළාත දකුණු දිසාව අපරාධ කොට්ඨාසය කියයි.
+Three men linked to the Underworld Patheen were released from prison in the Western Province. They were initially arrested in Athurugiriya for planning Wasantha's murder, allegedly orchestrated by a club member based in Dubai. Despite extensive questioning, no significant details about the murder were disclosed.
 
-ඉකුත් 12  වෙනිදින  මෙම පුද්ගලයන් අත්අඩංගුවට ගෙන තිබුණේ වැලි පැන්න ප්‍රදේශයේ නිවසක සිටියදීය.
+🟩
 
-ක්ලබ් වසන්ත ඝාතන සිද්ධියේ සැලසුම්කරු ලෙස හඳුනාගෙන සිටි ඩුබායි රාජ්‍යයේ සැඟවී සිටින පාතාල නායක ලන්තුවා හන්දි පුෂ්පකුමාර හෙවත් ලොකු පැටි නැමැත්තා ගේ මස්සිනා පුද්ගලයන් කීපදෙනෙකු සමඟ වැලි පැන්න ප්‍රදේශයේ නිවසක රැඳී සිටින බවට ලද තොරතුරකට අනුව පොලිස් නිලධාරීන් එම නිවස වටලා සැකකරුවන් අත්අඩංගුවට ගෙන තිබිණි.
+The Western Province, the Western Province says that after the three-member Underworld Patheen's brother-in-law has been released after three persons who were arrested in the Athurugiriya Tribe Arts.
 
-අත්අඩංගුවට ගත් එම සැකකරුවක් ගෙන් සිදුකළ දීර්ඝ ප්‍රශ්න කිරීමේදී  ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් වැදගත් තොරතුරු කිසිවක් අනාවරණය නොවූ බැවින් ප්‍රකාශ සටහන් කරගෙන මුදා හැරිය බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+These persons were arrested while in a sandy area in the sandy area.
+
+According to information that the Club was identified as the planner of the Club Wasantha's murder, police officers were remaining in a house in Dubai, a large number of brother-in-law of the country.
+
+A senior police officer said that the clamp did not reveal any important information about the Club Spring murder in the suspected suspicion.
 
 ◼️
 
 [Data](articles/7ac771e3.json)
+
+[Extended Data](ext_articles/7ac771e3.ext.json)
 
 ---
 
@@ -1398,25 +1464,31 @@ The headquarters of the Headquarters Anuruddha Bandaranayake is conducting furth
 
 ---
 
-### රු. ලක්ෂ 180ක වංචාවකට මාණ්ඩලික සැරයන් අල්ලයි
+### Rs. Staff Sergeant arrested for fraud
 
 *2024-07-14 11:04:46* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ-180ක-වංචාවකට-මාණ්ඩලික-සැරයන්-අල්ලයි/11-410769) · `si`
 
-ශ්‍රී ලංකා යුද්ධ හමුදාවේ  වැටුප් ලේඛන අංශයේ සිදුවී ඇතැයි කියන රුපියල් ලක්ෂ 180 ක මුදල් වංචාවක් සම්බන්ධයෙන් මාණ්ඩලික සැරයන්වරයෙකු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+A staff sergeant was arrested by the CID for alleged fraud and misuse of public property, as per sections 5(1)(a)(b) and 3(1) of the Penal Code and Act No. 28 of 1999. The 39-year-old suspect from Kiriwattuduwa faces charges of cheating and fraudulent activities.
 
-ලද පැමිණිල්ලක් අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වාණිජ අපරාධ විමර්ශන අංශ 1මගින් සිදු කළ විමර්ශනයකින් අනතුරුව සැකකාර මාන්ඩලික සැරයන්වරයා අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-විශ්වාසය කඩ කර වංචා කර සාවද්‍ය පරිහරණය කිරීම  සැකකරුට එරෙහිව ඇති චෝදනා වේ.
+The Criminal Investigation Department (CID) has arrested a staff sergeant about Rs.
 
-දණ්ඩ නීති සංග්‍රහ පනත වගන්ති 386,389,400, 457 යටතේ සහ 1999 අංක 28 දරණ පනතින් සංශෝධිත 1982 අංක 12 දරණ පොදු දේපළ විෂයෙහිලා සිදුකරනු ලබන වැරදි පිළිබඳ පනතේ 5 (1)(2) වරදවල් බව පොලිසිය සඳහන් කරයි.
+According to a complaint, the suspect is arrested after a investigation by the Criminal Investigation Department.
 
-අඩංගුවට ගත් සැකකාර මාන්ඩලික සැරයන්වරයා 39 හැවිරිදි  කිරිවත්තුඩුව පිටිපන දකුණු පදිංචිකරුවෙකි.
+The false use is accused of defrauding and cheating and cheating and cheatfully.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වාණිජ අපරාධ විමර්ශනා අංශ එක මගින් විමර්ශන සිදු කෙරේ.
+The Penal Code of Sections 5 (1) (1) (2) is wrong for the error in the public property under 3 (1) of the Act No. 28 of 1999, a revised by the Act No. 28 of 1999.
+
+The suspects are a 39 year old resident of Kiriwattuduwa.
+
+Investigations are conducted by the Commercial Testing Department of the Criminal Investigation Department.
 
 ◼️
 
 [Data](articles/6d2e7ca9.json)
+
+[Extended Data](ext_articles/6d2e7ca9.ext.json)
 
 ---
 
@@ -2237,35 +2309,5 @@ I met Weere (Weerakkody) at Peradeniya University in 1972, when we were final-ye
 [Data](articles/b437aacb.json)
 
 [Extended Data](ext_articles/b437aacb.ext.json)
-
----
-
-### Is Biden dishonest about his health problems?
-
-*2024-07-14 03:15:00* · [`islandlk`](http://island.lk/is-biden-dishonest-about-his-health-problems/) · `en`
-
-It certainly would be exceptional, if anyone who is lucky enough to live past seven decades, has no medical problems at all. It may happen with holy men practising meditation in the Himalayas or those living in isolated communities shielded from the stresses of the modern world but among only around two percent who survive to be 80, the vast majority would have physical or mental disabilities or both.
-
-Compromised memory was once considered to be an invariable effect of ageing, due to brain cells lost over time being not replaced. But fortunately for us, the old fogeys, scientists have had a rethink. The relatively new concept of neuroplasticity gives us hope and human brain seems to be smarter than scientists thought. It compensates for loss of cells by making new connections. However, minor degrees of cognitive impairment are bound to occur with age, even if there are no physical problems but these could be compensated with minor adjustments and live a normal life.
-
-...
-
-[Data](articles/1d6773c5.json)
-
-[Extended Data](ext_articles/1d6773c5.ext.json)
-
----
-
-### THE PROPOSED 22nd AMENDMENT
-
-*2024-07-14 03:08:00* · [`islandlk`](http://island.lk/the-proposed-22nd-amendment/) · `en`
-
-It has been reported that the Government proposes to introduce a Bill to amend the Constitution for the purpose of bringing Article 83 into conformity with the amendments made by the 19th Amendment to Articles 30(2) and 62(2). Since this proposal is wholly unnecessary, and makes no sense whatsoever in constitutional terms, it may be necessary to look beyond the obvious for some less discernible, perhaps more sinister or Machiavellian objective.
-
-...
-
-[Data](articles/5b2b299f.json)
-
-[Extended Data](ext_articles/5b2b299f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 07:19:59**
+As of **2024-07-14 07:52:44**
 
 ## Newspaper Stats
 
-*Scraped **35,120** Articles*
+*Scraped **35,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,992
 economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
-adaderanalk | 4,039
+adaderanalk | 4,040
 tamilmirrorlk | 4,211
 dailymirrorlk | 4,733
 virakesarilk | 5,480
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,109 (100.0%) of 35,120 articles have been extended.
+35,119 (100.0%) of 35,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### Trump shot in right ear at rally, source says shooter dead
+
+*2024-07-14 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100490/trump-shot-in-right-ear-at-rally-source-says-shooter-dead) · `en`
+
+Donald Trump was shot in the right ear during a campaign rally on Saturday, sparking panic in the crowd and spattering the Republican presidential candidate’s blood across his face, before he emerged and pumped his fist in the air appearing to mouth the words “Fight! Fight! Fight!”
+
+The shooter was dead, one rally attendee was killed and two other spectators were injured, the Secret Service said in a statement.
+
+“I was shot with a bullet that pierced the upper part of my right ear,” Trump said on his Truth Social platform. “Much bleeding took place.”
+
+As the shots rang out, Trump grabbed his right ear with his right hand, then brought his hand down to look at it before dropping to his knees behind the podium before Secret Service agents swarmed and covered him. He emerged about a minute later, his red “Make America Great Again” hat knocked off and could be heard saying “wait, wait,” before agents ushered him into a waiting vehicle.
+
+...
+
+[Data](articles/36dfe181.json)
+
+---
 
 ### Singer Sri Lanka launches nubia smartphones
 
@@ -45,6 +63,8 @@ Zhang Yan Meng, Director (Global) of ZTE Terminal, commented on the partnership 
 ...
 
 [Data](articles/50793020.json)
+
+[Extended Data](ext_articles/50793020.ext.json)
 
 ---
 
@@ -62,6 +82,8 @@ The second bronze acknowledged Omega Line’s substantial efforts in solar energ
 
 [Data](articles/561d389f.json)
 
+[Extended Data](ext_articles/561d389f.ext.json)
+
 ---
 
 ### Star Garments Group to establish apparel factory in Togo with $15 Mn IFC loan
@@ -73,6 +95,8 @@ Star Garments Group (Star) announced its plan to build a large-scale apparel exp
 ...
 
 [Data](articles/b83ca95c.json)
+
+[Extended Data](ext_articles/b83ca95c.ext.json)
 
 ---
 
@@ -88,25 +112,35 @@ It said that the firm was recognized as one of the UK’s fastest-growing compan
 
 [Data](articles/da81e4f3.json)
 
+[Extended Data](ext_articles/da81e4f3.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-07-14 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198781) · `si`
 
-ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍ය දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+A red warning for strong winds and rough seas in the Arabian Sea's eastern latitudes from 10 to 18 degrees north and 55 to 65 degrees east is issued by the Meteorology Department, valid for the next 24 hours starting at 3:00 am today. Showers are expected in the Western, Sabaragamuwa, Northwestern, and Uva provinces, with heavy rainfall possible in some areas exceeding 75 mm. Strong winds of 40-50 km/h are forecasted for the North, North Central, and North Western provinces near the central hills' western slopes. The department advises caution against temporary winds and lightning during thunderstorms.
 
-එම දෙපාර්තමේන්තුව විසින් අද (14) පෙරවරු 3.00ට නිකුත්කළ එම නිවේදනය දැක්වෙන්නේ, අරාබි මුහුදු ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියාකරන බහුදින ධීවර හා නාවික ප්‍රජාව සැලකිලිමත් වන ලෙසය.
+🟩
 
-සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරාබි මුහුදු ප්‍රදේශයේ උතුරු අක්ෂාංශ 10ත් 18ත් සහ නැගෙනහිර දේශාංශ 55 සහ 65ත් අතර මුහුදු ප්‍රදේශවල සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ උතුරු අක්ෂාංශ 15ත් 18ත් සහ නැගෙනහිර දේශාංශ 84 සහ 92ත් අතර මුහුදු ප්‍රදේශවල ඉතා තද සුළං (පැ.කි.මී. 70 -80) පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව කාලගුණවිද්‍ය දෙපාර්තමේන්තුව නිවේදය කරයි.
+The Meteorology Department has issued a red announcement of the warning of the strong winds and sea for the next 24 hours.
 
-මේ අතර බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The announcement was issued at 3.00 am today (14) at 3.00 am.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඇතැම් ස්ථානවලමි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+Very strong winds in the sea areas between 10 and 18 northern part of the Eastern latitude of the Arabian seas and the Eastern Latadages of 55 and 65 East Library in the Sea area of ​​the Arabian seas.. 70 -80) The meteorological department is precious that the sea areas can be very rough.
+
+Meanwhile, the Department of Meteorology announces that showers will occur at times in the Western, Sabaragamuwa and Northwestern provinces.
+
+The department states that in certain places.. Heavy rains can occur at more than 75.
+
+Showers or thundershowers will occur at several places in the Uva Province and evening in the district or even nights.
 
 ...
 
 [Data](articles/eb116a0f.json)
+
+[Extended Data](ext_articles/eb116a0f.ext.json)
 
 ---
 
@@ -202,6 +236,8 @@ Meanwhile, Vajira Wijewardena of Anglo Asian, fame was manufacturing blades at h
 
 [Data](articles/ccb344de.json)
 
+[Extended Data](ext_articles/ccb344de.ext.json)
+
 ---
 
 ### Nihal Fernando’s Odyssey in and with Sri Lanka: An Appreciation
@@ -213,6 +249,8 @@ There is, on the title page of Nihal Fernando’s ‘Sri Lanka — A Personal Od
 ...
 
 [Data](articles/10fc98e3.json)
+
+[Extended Data](ext_articles/10fc98e3.ext.json)
 
 ---
 
@@ -1736,6 +1774,8 @@ The Department of Meteorology has informed the people to take necessary steps to
 
 [Data](articles/a39a0e18.json)
 
+[Extended Data](ext_articles/a39a0e18.ext.json)
+
 ---
 
 ### Singer unveils nubia brand cutting-edge devices
@@ -1806,6 +1846,8 @@ The July Monthly Medal Event is a highlight on the golfing calendar, attracting 
 
 [Data](articles/f509c629.json)
 
+[Extended Data](ext_articles/f509c629.ext.json)
+
 ---
 
 ### People’s Bank organizes blood donation camp to mark 63rd anniversary
@@ -1861,6 +1903,8 @@ The event was attended by several distinguished participants from both organizat
 ...
 
 [Data](articles/b8c10cf6.json)
+
+[Extended Data](ext_articles/b8c10cf6.ext.json)
 
 ---
 
@@ -2115,21 +2159,5 @@ Experts described Hasina’s visit to China as a journey of cooperation and frie
 [Data](articles/b74941d9.json)
 
 [Extended Data](ext_articles/b74941d9.ext.json)
-
----
-
-### WNPS, LOLC multi-regional leopard research on show at annual Association for Tropical Biology and Conservation meet
-
-*2024-07-13 00:00:50* · [`dailyftlk`](https://www.ft.lk/news/WNPS-LOLC-multi-regional-leopard-research-on-show-at-annual-Association-for-Tropical-Biology-and-Conservation-meet/56-764204) · `en`
-
-The multi-regional monitoring system for the conservation of the Sri Lankan leopard led by the Wildcats subcommittee of the Wildlife and Nature Protection Society (WNPS) in partnership with LOLC Holdings PLC has successfully submitted its findings and has been accepted for presentation at the 60th Annual Meeting of the Association for Tropical Biology and Conservation (ATBC) in Kigali, Rwanda.
-
-The conference will be held from 14 to 18 July. The scientific lead of the aforementioned project, Sabaragamuwa University Sri Lanka Conservation Biology Professor Prof. Enoka Kudavidanage, and the project coordinator Gihani Hettiarachchi will be attending on behalf of WNPS and presenting their findings at this forum.
-
-...
-
-[Data](articles/066077d8.json)
-
-[Extended Data](ext_articles/066077d8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 15:20:13**
+As of **2024-07-14 15:35:21**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 5,867
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,179 (100.0%) of 35,181 articles have been extended.
+35,181 (100.0%) of 35,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### විප්ලව යනු කුමක්දැයි ජනපති පහදයි
+### President pays off what revolution is
 
 *2024-07-14 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198793) · `si`
 
-සැබෑ විප්ලව යනු මිනිසුන් මරා දැමීම හෝ ගෙවල් ගිනි තැබීම නොව ජනතාව‍ට ආඩම්බරයෙන් ඉදිරියට යා හැකි පසුබිමක් රට තුළ ගොඩනඟා දීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the importance of heritage and politics in building a proud future for Sri Lanka's people. He highlighted a program aimed at creating an export economy and distributing land rights to 4,012 Mahaweli divisions, contrasting true revolution with violence. He urged the people to embrace these changes and move forward without political interference.
 
-“උරුමය” වැඩසටහන මඟින් මෙරට ජනතාවට එම පසුබිම උදා කරදීමට හැකි වී ඇති බව පෙන්වා දුන් ජනාධිපතිවරයා සැබෑ සමාජවාදී වැඩපිළිවෙළ ජනගත කෙරෙන උරුමය වැඩසටහන සමඟ දේශපාලනයෙන් තොරව සියලුදෙනා එක්විය යුතු බවද පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ තඹුත්තේගම මහවැලි ක්‍රීඩාංගණයේදී ඊයේ (13) පැවති උරුමය සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානෝත්සවයට එක්වෙමිනි.
+President Ranil Wickremesinghe said that the people would build a proud environment that the people would proudly ahead of the people, but to build the people.
 
-අනුරාධපුර දිස්ත්‍රික්කයේ මහවැලි එච් සහ හුරුළුවැව යන කලාප දෙකෙහි මහවැලි කොට්ඨාශ 09ක 4012 දෙනෙකුට සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම මෙහිදී සිදු විය.
+The President pointed out that the "heritage" the people of Sri Lanka has enabled the people of this background should be joined by politics.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සංකේතාත්මකව ඉඩම් ඔප්පු 47ක් ප්‍රදානය කෙරිණ.
+President Ranil Wickremesinghe made this statement at the Thambuththegama Mahaweli Stadium yesterday (13) at the Thambuththegama Mahaweli Stadium yesterday.
+
+The 9012 Mahaweli Divisions were presented to 4012 Mahaweli divisions in the Anuradhapura District.
+
+President Ranil Wickremesinghe has been awarded 47 land deeds.
 
 ...
 
 [Data](articles/a9520849.json)
+
+[Extended Data](ext_articles/a9520849.ext.json)
 
 ---
 
@@ -146,19 +152,29 @@ It has been mentioned that in the near future, the Napitimunai sub -post will be
 
 ---
 
-### එක ආසනයකින් පාසල් 5ක් 6ක් වැසි යනවා
+### 5 schools will shower from one seat
 
 *2024-07-14 13:41:35* · [`adalk`](https://www.ada.lk/breaking_news/එක-ආසනයකින්-පාසල්-5ක්-6ක්-වැසි-යනවා/11-410773) · `si`
 
-රජයේ ප්‍රමුඛ අරමුණක් වන්නේ නවීන තාක්ෂණය යොදා ගෙන මෙරට ප්‍රාථමික සෞඛ්‍ය සේවා වැඩිදියුණු කිරීම බව “58 වන රාජ්‍ය ඔසුසල” ගාල්ල, හික්කඩුව  නගරයේ දී විවෘත කරමින් සුව ඇමති අවධාරණය කරයි.
+The government launched a new state pharmacy in Hikkaduwa, aiming to enhance healthcare accessibility. This initiative, part of the broader effort to improve health facilities across the country, allows senior citizens, pregnant women, and children under 5 years old to receive medications at discounted rates. The opening ceremony featured the Minister of Health and Industry, who highlighted the importance of expanding healthcare services, especially in rural areas. The event also commemorated Professor Senaka Bibile, a notable figure in Sri Lanka's healthcare sector.
 
-රාජ්‍ය ඖෂධ නීතිගත සංස්ථාවේ (SPC) ගාල්ල, හික්කඩුව නව රාජ්‍ය ඔසුසල ඊයේ (13) පස්වරුවේ  සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කරන ලදි.
+🟩
 
-රාජ්‍ය ඖෂධ නීතිගත සංස්ථාවේ රාජ්‍ය ඔසුසල ජාලයේ “58 වන රාජ්‍ය  ඔසුසල ලෙස නොම්බර 18, බද්දේගම පාර, හික්කඩුව යන ලිපිනයේ (හික්කඩුව දුම්රිය ගේට්ටුව අසල) ස්ථාපිත කළ මෙම රාජ්‍ය ඔසුසල මගින් පළපුරුදු ඖෂධවේදීන්ගේ සේවාව යටතේ, රාජ්‍ය මුද්‍රාව සහිත නියම ප්‍රමිතියෙන් යුතු ගුණාත්මක ඖෂධ අඩු මිලකට මිලදී ගැනීමට ජනතාවට හැකියාව ලැබෙන අතර, ඡ්‍යෙෂ්ඨ පුරවැසියන්, ගර්භනී මවුවරුන් සහ වයස අවුරුදු 05 ට අඩු දරුවන් සදහා 5% ක සුවිශේෂි වට්ටමක් සහිතව ඖෂධ නිකුත් කිරීම ද විශේෂත්වයකි.
+The Government's leading technology is opening of the primary health services in the country in Hikkaduwa, Galle.
+
+New State Pharmaceutical Corporation (SPC), Hikkaduwa, was opened by the Minister of Health and Industry Dr. Ramesh Pathirana yesterday.
+
+This state pharmacy, which was established in the State Pharmaceutical Corporation's State Pharmaceutical Corporation, "58th Pharmaceuticals (near the Hikkaduwa Railway Address), the State seal, with the service of the Ven.The people will be able to take possession of drugs with senior citizens, pregnant mothers, and 5% of the age of 5 children under the age of 5.
+
+The Minister also had the first drug deal to tribute to a photo of Professor Senaka Bibile at the opening of the pharmacy.. In 1971, Hon.
+
+Minister of Health and Industry Dr. Ramesh Pathirana said that he addressed the complaint.
 
 ...
 
 [Data](articles/960d984b.json)
+
+[Extended Data](ext_articles/960d984b.ext.json)
 
 ---
 

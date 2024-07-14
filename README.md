@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 08:35:59**
+As of **2024-07-14 08:55:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,126 (100.0%) of 35,127 articles have been extended.
+35,127 (100.0%) of 35,127 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -296,23 +296,31 @@ Meanwhile, Vajira Wijewardena of Anglo Asian, fame was manufacturing blades at h
 
 ---
 
-### ’வலுவான பொருளாதார முறைமை கட்டியெழுப்பப்படும்’
+### The strong economic system will be built
 
 *2024-07-14 01:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுவான-பொருளாதார-முறைமை-கட்டியெழுப்பப்படும்/175-340348) · `ta`
 
-பிள்ளைகளின் எதிர்காலத்திற்காக வலுவான பொருளாதார முறைமையொன்று கட்டியெழுப்படும் எனவும் அந்த முறைமை குறுகிய காலத்திற்கானதாக அன்றி நீண்ட காலத்திற்கு நாட்டின் பொருளாதாரம் சரிவடையாமல் பாதுகாக்கும் வகையில் வலுவாக கட்டமைக்கப்படும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced plans for a robust economic system aimed at ensuring the nation's stability for generations to come. This initiative, part of his address at a school event where he inaugurated a new swimming pool, also included recognizing students' achievements and promoting education.
 
-அநுராதபுரம் மத்திய மகா வித்தியாலயத்தில் நேற்று நடைபெற்ற நவீன வசதிகளுடன் புதிதாக நிர்மாணிக்கப்பட்ட நீச்சல் தடாகத்தை மாணவர்களுக்கு கையளிக்கும் நிகழ்விலேயே ஜனாதிபதி இவ்வாறு  தெரிவித்தார்.
+🟩
 
-பெயர் பலகையை திரைநீக்கம் செய்து புதிதாக நிர்மாணிக்கப்பட்ட நீச்சல் தடாகத்தை மாணவர் பாவனைக்காக ஜனதிபதி திறந்து வைத்தார்.
+President Ranil Wickremesinghe said that a strong economic system would be built for the future of the children and that the system would be a short -term, but that the country's economy would not collapse for a long time.
 
-அதனையடுத்து நீச்சல் தடாகம் அமைந்திருக்கும் பகுதியை அநுராதபுரம் மத்திய மகா வித்தியாலயத்திற்கு கையளிக்கும் நிகழ்வும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நடைபெற்றது.
+The President said this at a function to hand over the newly constructed swimming pool with modern facilities at the Central Maha Vidyalaya in Anuradhapura yesterday.
 
-2023 ஆம் ஆண்டில் க.பொ.த உயர்தர பரீட்சையில் தோற்றி சிறப்புச் தேர்ச்சி பெற்ற மாணவ, மாணவியருக்கான சான்றிதழ்களையும் பரிசுகளையும் ஜனாதிபதி ரணில் விக்கிரமசிங்க இதன்போது வழங்கி வைத்தார்.
+The President opened the newly constructed swimming lake for the student use.
 
-...
+Subsequently, President Ranil Wickremesinghe was chaired by the handing over to the Anuradhapura Central Maha Vidyalaya.
+
+President Ranil Wickremesinghe presented certificates and prizes to the students and students who passed the GCE Advanced Level Examination in 2023.
+
+President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe by the President of the President of the Anuradhapura Central Maha Vidyalaya.. (A)
+
+◼️
 
 [Data](articles/264b58d8.json)
+
+[Extended Data](ext_articles/264b58d8.ext.json)
 
 ---
 

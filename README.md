@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 22:35:17**
+As of **2024-07-14 22:53:40**
 
 ## Newspaper Stats
 
-*Scraped **35,230** Articles*
+*Scraped **35,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,63 @@ adaderanalk | 4,055
 tamilmirrorlk | 4,236
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,881
+adaderanasinhalalk | 5,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,228 (100.0%) of 35,230 articles have been extended.
+35,230 (100.0%) of 35,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### டிரம்ப் மீது துப்பாக்கிச்சூடு ; சஜித்துக்கும் ஆபத்து?
+### ඩෙංගු යළි හිස ඔසවයි
+
+*2024-07-14 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198809) · `si`
+
+මේ වසරේ ගත වූ කාලසීමාව තුළ ඩෙංගු රෝගීන් 30,000කට වැඩි පිරිසක් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.
+
+වසරේ ගත වූ කාලය තුළ ඩෙංගු රෝගීන් 30,227 දෙනෙකු දිවයින පුරා වාර්තා වී තිබේ.
+
+ඉන් වැඩිම රෝගීන් සංඛ්‍යාවක් කොළඹ දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති අතර එම සංඛ්‍යාව 6,965කි.
+
+ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 3,126 දෙනෙකු වාර්තා වී ඇති අතර යාපනය දිස්ත්‍රික්කයෙන් 3,998 දෙනෙකු සහ මහනුවර දිස්ත්‍රික්කයෙන් රෝගීන් 2,441 දෙනෙකු වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේය.
+
+දිවයින පුරා සෞඛ්‍ය වෛද්‍ය නිලධාරී බල ප්‍රදේශ 21ක් ඩෙංගු අධි අවදානම් කලාප ලෙස හඳුනාගෙන තිබේ.
+
+◼️
+
+[Data](articles/19b88289.json)
+
+---
+
+### Firing on Trump;The danger to Sajith?
 
 *2024-07-14 22:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்ப்-மீது-துப்பாக்கிச்சூடு-சஜித்துக்கும்-ஆபத்து/175-340397) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்கட்சி தலைவருமான சஜித் பிரேமதாசவின் பாதுகாப்பை அதிகரிப்பதற்கு அரசாங்கம் நடவடிக்கை எடுக்கவேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எரான் விக்கிரமரட்ண வேண்டுகோள் விடுத்துள்ளார்.
+Eran Wickramaratne urges the government to enhance Sajith Premadasa's security due to skepticism from certain groups aiming to postpone elections. He condemns the attempted assassination of former US President Trump as an assault on democracy, highlighting previous attacks on candidates. Wickramaratne emphasizes the importance of maintaining political stability through public mandates and elections in Sri Lanka's democratic system.
 
-சில சக்திகள் தேர்தலை தாமதப்படுத்த முயல்வதால் எதிர்க்கட்சி தலைவரின் பாதுகாப்பு குறித்து சந்தேகம் எழுந்துள்ளது என தெரிவித்துள்ளார்.
+🟩
 
-அமெரிக்க முன்னாள் ஜனாதிபதியை கொலை செய்வதற்கான முயற்சி ஜனநாயகத்தின் மீது நடத்தப்பட்ட தாக்குதல் என அவர் கண்டித்துள்ளார்.
+United People's Power MP Eran Wickramaratne has appealed to the government to take steps to increase the security of Sajith Premadasa, the leader of the United People's Power and Opposition Leader.
 
-அரசியல்வாதிகள் இவ்வாறான நடவடிக்கைகளில் ஈடுபடுவதை தவிர்க்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள எரான் விக்கிரமரட்ண இலங்கையிலும் தங்களின் நிகழ்ச்சி நிரலை பூர்த்தி செய்ய முடியாதபோது சில கட்சிகள் இவ்வாறான செயல்களில் ஈடுபடுகின்றன என தெரிவித்துள்ளார்.
+He said that some forces are skeptical about the security of the opposition leader as it is trying to delay the election.
 
-அவர்கள் கடந்த காலங்களில் வேட்பாளர்கள் மீது தாக்குதல்களை மேற்கொண்டுள்ளனர் என்றும் அவர் தெரிவித்துள்ளார்.
+He condemns the attempt to kill the former US president as an attack on democracy.
+
+Eran Wickremaratne, who has appealed for politicians to avoid engaging in such activities, said that when they cannot fulfill their agenda in Sri Lanka, some parties are engaged in such activities.
+
+He said they have been attacking candidates in the past.
+
+Eran Wickremaratne said that when I heard the news of Trump's shooting, I should focus on Sajith Premadasa's security.
 
 ...
 
 [Data](articles/ceb8aaa6.json)
+
+[Extended Data](ext_articles/ceb8aaa6.ext.json)
 
 ---
 
@@ -93,6 +121,8 @@ State voter records show that Crooks was a registered Republican. The upcoming N
 ...
 
 [Data](articles/3f953b9f.json)
+
+[Extended Data](ext_articles/3f953b9f.ext.json)
 
 ---
 
@@ -2341,25 +2371,5 @@ They said that the shooting was carried out from a high building near the area w
 [Data](articles/78163d61.json)
 
 [Extended Data](ext_articles/78163d61.ext.json)
-
----
-
-### Ex-US President Trump shot at in campaign rally
-
-*2024-07-14 07:15:00* · [`economynextcom`](https://economynext.com/ex-us-president-trump-shot-at-in-campaign-rally-172004/) · `en`
-
-ECONOMYNEXT- Republican nominee to the upcoming polls and former US President Donald Trump has been shot during a campaign rally, media reports said.
-
-The bullet grazed the ear of Trump, who is reported to be doing well.
-
-The gunman was shot and killed by secret service snipers within second of firing the shots at Trump.
-
-As he was hustled out of the venue by Secret Service officials Trump was seen shaking his fist in the air. (Colombo/July14/2024)
-
-◼️
-
-[Data](articles/76b0972d.json)
-
-[Extended Data](ext_articles/76b0972d.ext.json)
 
 ---

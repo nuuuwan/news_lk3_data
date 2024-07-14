@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 16:35:49**
+As of **2024-07-14 16:50:50**
 
 ## Newspaper Stats
 
-*Scraped **35,192** Articles*
+*Scraped **35,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,76 @@ newsfirstlk | 363
 islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
-adalk | 3,170
+adalk | 3,171
 adaderanalk | 4,050
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,489
-adaderanasinhalalk | 5,870
+adaderanasinhalalk | 5,872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,191 (100.0%) of 35,192 articles have been extended.
+35,192 (100.0%) of 35,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
 
-### නඩු පිට නඩු වැටුණත් පුරුද්ද අත්නොහරින ජාවාරම්කරු
+### යළි දකිමු දීඝවාපී
+
+*2024-07-14 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198798) · `si`
+
+පුජනීය සොළොස්මස්ථාන අතරින් ප්‍රමුඛස්ථානයක් ගනු ලබන ඓතිහාසික දීඝවාපිය චෛත්‍ය රාජයාණන් වහන්සේගේ ගර්භයේ සර්වඥ ධාතූන් සහ නිධන් වස්තු තැන්පත් කිරීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සහභාගිත්වයෙන් අද (14) පෙරවරුවේ සිදුවිය.
+
+ශ්‍රී ලංකාවේ පවතින විශාලතම මහා දාගැබ් අතරින් සිව්වන ස්ථානයේ පවතින දීඝවාපිය චෛත්‍ය රාජයාණන් වහන්සේගේ ප්‍රතිසංස්කරණ කටයුතු 2020 වසරේ ආරක්ෂක අමාත්‍යාංශයේ මෙහෙයවීම මත ආරම්භ කරන ලදී.
+
+සොළොස්මස්ථාන අතුරින් ප්‍රතිසංස්කරණය කළ යුතුව තිබූ අවසන් චෛත්‍යය මෙය වීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/d90a2855.json)
+
+---
+
+### පාතාලයට එරෙහිව ප්‍රදේශ කිහිපයක පෝස්ටර්
+
+*2024-07-14 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198797) · `si`
+
+පාතාලය විනාශකළ යුතු බව දැක්වෙන පෝස්ටර් දිවයිනේ ප්‍රදේශ කිහිපයක අලවා ඇති බව අප වාර්තාකරුවන් පවසයි.
+
+එවැනි පෝස්ටර් දෙමටගොඩ, මහරගම, නුගේගොඩ සහ මාතර ප්‍රදේශවල අලවා තිබූ බව වාර්තා විය.
+
+◼️
+
+[Data](articles/843cab4c.json)
+
+---
+
+### The racketeer who do not have the habit even if it is lit about the cases
 
 *2024-07-14 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198796) · `si`
 
-බලපිටිය, වළගෙදර ප්‍රදේශයේදී හෙරොයින් මිලි ග්‍රෑම් 6,340ක් සමග ඊයේ (13) අත්අඩංගුවට ගත් සැකකරුව ජූලි 19 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට බලපිටිය මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+Nalin Mendis, a resident of Balapitiya, Kalagedara, was arrested for racketeering. The magistrate ordered him remanded until July 19. Earlier, five cases were heard against him in the Balapitiya Magistrate's and High Courts. Police investigate connections between the suspect and networks in Ahungalla and Kosgoda.
 
-මෙසේ රක්ෂිත බන්ධනාගාර ගත කරන ලද්දේ බලපිටිය, වළගෙදර පදිංචි නලින් මෙන්ඩිස් (40) නැමැති අයෙකි.
+🟩
 
-සැකකරු හෙරෙයින් ජාවාරම්කරන අයෙකු බවත් සැකකරු සම්බන්ධයෙන් පොලීසිය අවධානයෙන් සිටි බවත් අම්බලන්ගොඩ පොලීසිය කියයි.
+Balapitiya Magistrate ordered the suspect to be remanded until the 19th of July 19
 
-මීට පෙරද හෙරොයින් සන්තකයේ තබා ගැනීම් සම්බන්ධයෙන් ඔහුට එරෙහිව නඩු 05ක් බලපිටිය මහෙස්ත්‍රාත් අධිකරණයේ හා මහාධිකරණයේ විභාග වෙමින් තිබෙන බවත් අම්බලන්ගොඩ පොලීසිය පැවසීය.
+The reserves were made by Nalin Mendis (40), a resident of Balapitiya, Kalagedara.
 
-සැකකරු සමග අහුන්ගල්ල, කොස්ගොඩ හෙරෙයින් ජාලයේ සම්බන්ධයක් තිබේද යන්න ගැනද පොලීසියේ අවධානය යොමුව තිබෙන බවද වාර්තා විය.
+The police said that the suspect was racketeering and the police were speaking about the suspect.
+
+Earlier, five cases have been heard in the Balapitiya Magistrate's Court and High Court, police said.
+
+It was reported that the police also focuses on whether there is a connection in Ahungalla, Kosgoda Here Network with the suspect.
 
 ◼️
 
 [Data](articles/7e951488.json)
+
+[Extended Data](ext_articles/7e951488.ext.json)
 
 ---
 
@@ -331,6 +367,32 @@ Furthermore, the President of the association expressed that the passengers have
 [Data](articles/ef7320c2.json)
 
 [Extended Data](ext_articles/ef7320c2.ext.json)
+
+---
+
+### අනුරගෙයි මගෙයි දේශපාලනය වෙනස්
+
+*2024-07-14 13:55:11* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගෙයි-මගෙයි-දේශපාලනය-වෙනස්/11-410775) · `si`
+
+සැබෑ විප්ලවය යනු ජනතාවට ආඩම්බරයෙන් ඉදිරියට යා හැකි පසුබිමක් රට තුළ ගොඩනඟා දීමයි
+
+පසුගිය වසර දෙක තුළ දේශපාලනයෙන් තොරව වැඩ කළ නිසා රටට ජයග්‍රහණ රැසක් ලබා දීමට හැකි වුණා.
+
+4012 දෙනෙකුට සින්නක්කර ඔප්පු ප්‍රදානය කිරීමේ උත්සවයේ දී ජනපති පවසයි
+
+සැබෑ විප්ලව යනු මිනිසුන් මරා දැමීම හෝ ගෙවල් ගිනි තැබීම නොව ජනතාව‍ට ආඩම්බරයෙන් ඉදිරියට යා හැකි පසුබිමක් රට තුළගොඩනඟා දීම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+“උරුමය” වැඩසටහන මඟින් මෙරට ජනතාවට එම පසුබිම උදා කරදීමට හැකි වී ඇති බව පෙන්වා දුන් ජනාධිපතිවරයා සැබෑ සමාජවාදී වැඩපිළිවෙළ ජනගත කෙරෙන උරුමය වැඩසටහන සමඟ දේශපාලනයෙන් තොරව සියලුදෙනා එක්විය යුතු බවද පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ තඹුත්තේගම මහවැලි ක්‍රීඩාංගණයේදී ඊයේ (13) පැවති උරුමය සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානෝත්සවයට එක්වෙමිනි.
+
+අනුරාධපුර දිස්ත්‍රික්කයේ මහවැලි එච් සහ හුරුළුවැව යන කලාප දෙකෙහි මහවැලි කොට්ඨාශ 09ක 4012 දෙනෙකුට සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම මෙහිදී සිදු විය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සංකේතාත්මකව ඉඩම් ඔප්පු 47ක් ප්‍රදානය කෙරිණ.
+
+...
+
+[Data](articles/db2ead9e.json)
 
 ---
 
@@ -2273,63 +2335,5 @@ Meanwhile, the All Ceylon People's Congress leader and Member of Parliament Rish
 [Data](articles/9363b2b2.json)
 
 [Extended Data](ext_articles/9363b2b2.ext.json)
-
----
-
-### Government committed to improving living conditions in Jaffna: Sri Lanka PM
-
-*2024-07-13 17:46:00* · [`economynextcom`](https://economynext.com/government-committed-to-improving-living-conditions-in-jaffna-sri-lanka-pm-171971/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s prime minister, who is in Jaffna “to monitor the progress” and “get a little feedback” has said the government is committed to improving living conditions of the people in the northern peninsula.
-
-“This government is dedicated to improving the living conditions of the Jaffna Peninsula,” Dinesh Gunawardena told a Jaffna District Coordinating Committee meeting on Friday, according to a statement by his media division.
-
-“In order to increase the living conditions, we have embarked on an increase in most of the expenditure needed by the departments, and also special allocations for rural and urban development in the local government area.”
-
-Nationalist Gunawardena met with Tamil politicians at the Jaffna Divisional Secretariat Office and participated in the distribution of rice and egg incubators for low income families.
-
-...
-
-[Data](articles/c207c3b0.json)
-
-[Extended Data](ext_articles/c207c3b0.ext.json)
-
----
-
-### Advisory issued for heavy rains over 100 mm
-
-*2024-07-13 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100486/advisory-issued-for-heavy-rains-over-100-mm) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ advisory for heavy rains in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
-
-The advisory mentioned that heavy showers more than 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts during next 24 hours until 01.00 p.m. tomorrow (14).
-
-Thus, general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/912dbac3.json)
-
-[Extended Data](ext_articles/912dbac3.ext.json)
-
----
-
-### General IT results released
-
-*2024-07-13 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198775) · `si`
-
-Results for General IT Exams (2019, 2020, 2021, 2012, 2022) are out. Check them on www.doenets.lk, www.duens.lk, or www.results.gov.lk.
-
-🟩
-
-The results of 2019, 2020, 2020,2012 and 2022 have been released.
-
-The results of the General IT Examination are obtained by visiting www.doenets.lk and www.duens.lk and www.results.gov.lk.
-
-◼️
-
-[Data](articles/b72cc71d.json)
-
-[Extended Data](ext_articles/b72cc71d.ext.json)
 
 ---

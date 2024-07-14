@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 09:07:06**
+As of **2024-07-14 09:20:08**
 
 ## Newspaper Stats
 
-*Scraped **35,129** Articles*
+*Scraped **35,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,084
 dailyftlk | 2,219
 adalk | 3,160
 adaderanalk | 4,040
-tamilmirrorlk | 4,216
+tamilmirrorlk | 4,217
 dailymirrorlk | 4,733
 virakesarilk | 5,481
 adaderanasinhalalk | 5,857
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,127 (100.0%) of 35,129 articles have been extended.
+35,129 (100.0%) of 35,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### டிரம்ப் மீது துப்பாக்கி சூடு:  மோடி கண்டனம்
+
+*2024-07-14 08:59:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்ப்-மீது-துப்பாக்கி-சூடு-மோடி-கண்டனம்/175-340351) · `ta`
+
+அமெரிக்க ஜனாதிபதித் தேர்தல் நவம்பர் 5-ம் திகதி நடைபெற உள்ளது. இதில், முக்கிய கட்சிகளாக ஜனநாயக கட்சி மற்றும் குடியரசு கட்சி நேருக்கு நேர் மோத உள்ளன. ஜனநாயக கட்சி வேட்பாளராக தற்போதைய ஜனாதிபதி ஜோ பைடன் களமிறங்கியுள்ளார். அதேபோல், குடியரசு கட்சி வேட்பாளராக முன்னாள் ஜனாதிபதி  டொனால்டு டிரம்ப் களமிறங்கியுள்ளார்.
+
+தேர்தல் நெருங்கி வரும் நிலையில் இரு வேட்பாளர்களும் தீவிர பிரசாரம் மற்றும் வாக்கு சேகரிப்பில் ஈடுபட்டு வருகின்றனர். அந்த வகையில், பென்சில்வேனியா மாகாணம் பட்லர் நகரில் நடைபெற்ற பிரசார பொதுக்கூட்டத்தில் குடியரசு கட்சி அதிபர் வேட்பாளர் டொனால்டு டிரம்ப் பங்கேற்று பிரசாரத்தில் ஈடுபட்டார்.
+
+...
+
+[Data](articles/29351094.json)
+
+---
 
 ### Sri Lankan injured in Israel
 
@@ -60,25 +74,35 @@ Nimal Bandara said that the voice of the Israeli Lebanese missiles have increase
 
 ---
 
-### தேர்தல் பிரச்சாரத்தின் போது டிரம்ப்மீது துப்பாக்கி பிரயோகம்- காதில் காயம் - சந்தேக நபர் உட்பட இருவர் சுட்டுக்கொலை – படுகொலை முயற்சி  என்ற கோணத்தில் விசாரணை
+### Firing on Trump during election campaign
 
 *2024-07-14 07:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188397) · `ta`
 
-அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் மீது பட்லர் பென்சில்வேனியாவில் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+During a Trump campaign rally in Butler, Pennsylvania, a shooting occurred, killing one person and injuring another. The US Secret Service responded, and the shooter, identified as someone attending the rally, was fatally shot. Videos show Trump, with blood on his face, responding to the incident. The area around the event has been secured, and Trump continues his campaign despite the incident.
 
-அமெரிக்காவின் இரகசியசேவை பிரிவினர் மேற்கொண்ட பதில் தாக்குதலில் துப்பாக்கி பிரயோகத்தை மேற்கொண்டவரும் பேரணியில் கலந்துகொண்ட ஒருவரும் கொல்லப்பட்டுள்ளனர் என அதிகாரிகள் தெரிவிக்கின்றனர்.
+🟩
 
-டிரம்பின் வலதுகாதை ஏதோ தாக்கியதை அங்குள்ளவர்கள் அவதானித்துள்ளனர்.அவர் தனது காதைப்பிடித்தபடி நிலத்தில் அமர்வதை வீடியோக்கள் காண்பித்துள்ளன.
+Former US President Donald Trump has fired at Butler Pennsylvania.
 
-முகத்தில் இரத்தத்துடன் எழுந்து நின்ற டிரம்ப் கைகளை உயர்த்தி போராடுங்கள் போராடுங்கள் என தெரிவித்துள்ளார்.
+Officials say that a firing man and a rally have been killed in a response by the US secret service.
 
-சம்பவம் இடம்பெற்ற பகுதி குற்றச்செயல் இடம்பெற்ற பகுதியாக அறிவிக்கப்பட்டுள்ளது- டிரம்ப் நலமாக உள்ளார் என அவரது அதிகாரிகள் தெரிவித்துள்ளனர்.
+Videos have shown that he is sitting on the ground as he holds his ear.
 
-தாக்குதலை மேற்கொண்டவர் என கருதப்படும் சந்தேகநபரும் பேரணியில் கலந்துகொண்ட ஒருவரும் சுட்டுக்கொல்லப்பட்டுள்ளதை அதிகாரிகள் உறுதி செய்துள்ளனர்.
+Trump, who stood up with blood on his face, raise his hands and fight.
 
-...
+The area where the incident took place has been declared in the area- Trump is well-known, his officials said.
+
+Officials have confirmed that the suspect and a rally attended by a rally, which is supposed to be the attacker, has been shot dead.
+
+The US secret service department said that the firing was carried out from a high -ranking area near the area where Trump's election campaign was taking place.
+
+They said that the shooting was carried out from a high building near the area where the event was taking place.
+
+◼️
 
 [Data](articles/78163d61.json)
+
+[Extended Data](ext_articles/78163d61.ext.json)
 
 ---
 
@@ -318,21 +342,31 @@ Meanwhile, Vajira Wijewardena of Anglo Asian, fame was manufacturing blades at h
 
 ---
 
-### சூரிய சக்தியை ஜனாதிபதி திறந்து வைத்தார்
+### The President opened the solar power
 
 *2024-07-14 01:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூரிய-சக்தியை-ஜனாதிபதி-திறந்து-வைத்தார்/175-340349) · `ta`
 
-வரலாற்றில் பிரசித்தி பெற்ற வணிக மற்றும் பொருளாதார மையமாக அநுராதபுர நகரத்தை மீண்டும் உலகப் பிரசித்தமான நகரமாக மாறுவதற்குத் வேலைத்திட்டம் ஆரம்பிக்கப்படுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced plans to revitalize Anuradhapura, aiming to make it a global commercial and economic hub like Thanjavur, Madurai, and Kanchipuram. He highlighted the importance of developing Anuradhapura, referring to it as the fourth city. During his visit, he inaugurated a solar power system capable of generating 150 kW, emphasizing the city's potential for renewable energy development.
 
-தஞ்சாவூர், மதுரை மற்றும் காஞ்சிபுரம் நகரங்களைப் பற்றி இன்று உலகம் முழுவதும் பேசப்படுகிறது. ஆனால் அதன் நான்காவது நகரமாக கருதப்பட வேண்டிய அநுராதபுரத்தின் முன்னேறத்துக்கான ஏற்பாடுகள் இதுவரையில் செய்யப்படவில்லை என்றும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-அநுராதபுரம் ஸ்ரீ மகா போதிய வளாகத்தில் எல்.ரி.எல். வர்த்க குழுமத்தினால் அமைக்கப்பட்ட 150 கிலோவோட் மின்சாரத்தை உற்பத்தி செய்யக்கூடிய சூரிய சக்தி கட்டமைப்பை கையளிக்கும் நிகழ்வில் நேற்று கலந்துகொண்டு உரையாற்றிய போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+President Ranil Wickremesinghe said that the city of Anuradhapura will be re -become a world -renowned city as a commercial and economic center in history.
 
-நேற்று அநுராதபுரம் புனித நகருக்கு சென்ற ஜனாதிபதி ரணில் விக்கிரமசிங்க, சியம் மகா நிகாயவின் மல்வத்து பீட பிரதம சங்கநாயக்கரும அட்டமஸ்தான விகாராதிபதியுமான வண. பல்லேகம ஹேமரதன தேரரை சந்தித்து ஆசி பெற்றுக்கொண்டார்.
+The cities of Thanjavur, Madurai and Kanchipuram are being talked about all over the world today. But the President said that the preparations for the progress of Anuradhapura, which should be considered its fourth city, have not yet been made.
 
-...
+LRL in Sri Maha, Anuradhapura. The President said this while addressing the gathering of the solar power system that could generate 150 kg of electricity built by the Wardka Group yesterday.
+
+President Ranil Wickremesinghe, who visited the holy city of Anuradhapura yesterday. Pallegama met Hemaratha Thera and blessed.
+
+Subsequently, the President, who was blessed with Jaya Sri Maha Bodhi, also attended the opening of the Solar Shakti structure.
+
+Subsequently, the President, who had come to the Holy City of Anuradhapura, heard the problems of the President.. (A)
+
+◼️
 
 [Data](articles/9cf6b732.json)
+
+[Extended Data](ext_articles/9cf6b732.ext.json)
 
 ---
 
@@ -2195,19 +2229,5 @@ With the active participation of the Sri Lankan expatriate community in Oman, th
 [Data](articles/075099f1.json)
 
 [Extended Data](ext_articles/075099f1.ext.json)
-
----
-
-### Show of Top Thai Brands at Havelock City Mall
-
-*2024-07-13 00:20:13* · [`dailyftlk`](https://www.ft.lk/business/Show-of-Top-Thai-Brands-at-Havelock-City-Mall/34-764220) · `en`
-
-Top Thai Brands Colombo 2024, presented by the Chennai Thai Trade Centre, kicked off yesterday at the Havelock City Mall. The exhibition showcases Thai products at special discounts and cultural elements, including live cooking and Muay Thai fighting performances. It will continue until the night of Sunday, 14 July.
-
-◼️
-
-[Data](articles/7948b458.json)
-
-[Extended Data](ext_articles/7948b458.ext.json)
 
 ---

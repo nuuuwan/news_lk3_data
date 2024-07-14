@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 18:30:13**
+As of **2024-07-14 18:48:11**
 
 ## Newspaper Stats
 
-*Scraped **35,200** Articles*
+*Scraped **35,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,138 @@ adalk | 3,172
 adaderanalk | 4,051
 tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
-virakesarilk | 5,490
+virakesarilk | 5,501
 adaderanasinhalalk | 5,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,200 (100.0%) of 35,200 articles have been extended.
+35,200 (100.0%) of 35,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### தேவை ‘அர்ச்சுனாக்கள்’
+
+*2024-07-14 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188406) · `ta`
+
+இலங்கைச் சூழலில் ஊழல்கள், மோசடிகள், சமூகத் துரோகங்கள், அரசியல் சூழ்ச்சிகள் வாடிக்கையானவை. இதுபற்றி நாம் நீண்ட நெடுங்காலமாக பேசி வருகின்றோம்.  ஆட்சியாளர்கள் நாட்டை கொள்ளையடித்தார்கள் என்றும், முறைகேடாக ஆட்சி செய்தார்கள் என்றும் கூறி வருகின்றோம். அவன்காட் ஊழல், ஹெல்பிங் அம்பாந்தோட்டை, மத்திய வங்கி பிணை மோசடி தொடக்கம் சுகாதார அமைச்சில் இடம்பெற்ற மோசடி ஏகப்பட்ட விவகாரங்களை இந்தப் பட்டியல் உள்ளடக்கியுள்ளது.
+
+◼️
+
+[Data](articles/8805d765.json)
+
+---
+
+### சம்பந்தன் தனிநாடு   கோரவில்லையா?
+
+*2024-07-14 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188409) · `ta`
+
+ஊர்காவற்றுறையில் க.பொ.இரத்தினம், வட்டுக்கோட்டையில் திருநாவுக்கரசு, காங்கேசன்துறையில் அமிர்தலிங்கம், மானிப்பாயில் தர்மலிங்கம் , கோப்பாயில் கதிரவேற்பிள்ளை, உடுப்பிட்டியில் இராசலிங்கம், பருத்தித்துறையில் துரைரத்தினம், சாவகச்சேரியில் வி. என். நவரத்தினம், நல்லூரில் மு. சிவசிதம்பரம், யாழ்ப்பாணத்தில் யோகேஸ்வரன், கிளிநொச்சியில் ஆனந்தசங்கரி, மன்னாரில் சூசைதாசன், முல்லைத்தீவில் செல்லத்தம்பு, வவுனியாவில்  ரி.சிவசிதம்பரம்,  மட்டக்களப்பில் இராசதுரை, பட்டிருப்பில் கணேசலிங்கம், பொத்துவிலில் கனகரத்தினம் ஆகியோருடன் திருகோணமலையில் இருந்து இரா.சம்பந்தன் உதயசூரியன் சின்னத்தில் போட்டியிட்டு வெற்றி பெற்றிருந்தார்.
+
+◼️
+
+[Data](articles/a686e540.json)
+
+---
+
+### ஐரோப்பிய அரசியலின் பொதுவெழுச்சி
+
+*2024-07-14 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/188410) · `ta`
+
+தடையற்ற சந்தை முதலாளித்துவத்தின் பரவல் வலதுசாரிகளின் சிந்தனைகளை மழுங்கடிக்கும் போக்கை கொண்டிருந்தது. உலகமயமாக்கலின் சார்பில் நோக்கினால் நாடுகளுக்கிடையிலான கலாசார விழுமியங்களை பரிமாறுதல் வளங்களையும் யோசனைகளையும் பரிமாற்றம் செய்துகொள்வதன் ஊடாக உலகளாவிய அளவில் சந்தைப் பொருளாதாரம் வளரும் என்பது உலகமயமாதலின் முக்கிய அம்சமாகும்.
+
+◼️
+
+[Data](articles/64a72570.json)
+
+---
+
+### தலைமையை தேடும் மக்கள்
+
+*2024-07-14 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188413) · `ta`
+
+தமிழ் மக்களுக்கான பிரச்சினைகள் அதிகம் இருக்கின்றன. ஆனால் அந்த பிரச்சினைகளை வெளிப்படுத்த, அவற்றுக்கு தீர்வு காண,  போராட்டங்களை முன்னெடுக்க, தலைமை தாங்க யாரும் இல்லாத சூழல் இருக்கிறது.
+
+◼️
+
+[Data](articles/654b9923.json)
+
+---
+
+### மற(றை)க்கப்படும்  இனப்படுகொலை
+
+*2024-07-14 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188419) · `ta`
+
+பிரித்தானியாவில் அண்மையில் தொழிற்கட்சி ஆட்சிக்கு வந்த பின்னர் புகலிடக் கோரிக்கையாளர்களை ருவாண்டாவுக்கு அனுப்பும் திட்டத்தை தொடரப் போவதில்லை என்று பிரதமர் கீர் ஸ்டாமர் அறிவித்திருக்கிறார். ருவாண்டாவின் ஒரு பக்கம் இப்படி என்றால், இன்னொரு பக்கம் மிக மோசமானது....
+
+◼️
+
+[Data](articles/1d17aa6b.json)
+
+---
+
+### எதிர்ப்பு அரசியலும் வேண்டாம்; எடுபிடி அரசியலும் வேண்டாம்!
+
+*2024-07-14 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188421) · `ta`
+
+பிரித்தானியர் இலங்கையைக் கைப்பற்றியதற்கான பிரதான காரணமே இந்தியப் பாதுகாப்பு தான். பிரித்தானியாவின் பொருளாதார வளர்ச்சிக்கு இந்தியா பிரதான தேவையாக இருந்தது. மூலப் பொருள்கள் வளமும் சந்தை வளமும் இந்தியாவில் கொட்டிக் கிடந்தன. பிரித்தானியாவில் கைத்தொழில் புரட்சி ஏற்படுவதற்கு இந்தியாவே முக்கிய காரணம் எனலாம். எனவே இந்தியாவை பாதுகாப்பதாயின் இலங்கையைக் கட்டுப்பாட்டிற்கு கொண்டுவர வேண்டும். பிரித்தானியா இலங்கையைக் கைப்பற்றியதற்கான பிரதான காரணம் இதுதான்.
+
+◼️
+
+[Data](articles/2fc106bf.json)
+
+---
+
+### ‘யுக்திய’வை கேள்விக்குள்ளாக்கியுள்ள அத்துருகிரிய சூட்டுச் சம்பவம்
+
+*2024-07-14 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188427) · `ta`
+
+2020ஆம் ஆண்டு ஒக்டோபர் மாதம் மாளிகாவத்தை பகுதியில் தான் பதுக்கி வைத்திருந்த பெருந்தொகை ஹெரோயினை பொலிஸாருக்கு அடையாளம் காட்ட சென்ற போது, அப்பகுதியில் மறைந்திருந்த பாதாள உலக கோஷ்டியினருக்கும் பொலிஸாருக்கும் இடையிலான துப்பாக்கிச்சூட்டு சம்பவத்தில், மதூஷ் சுட்டுக்கொல்லப்பட்டார். அதேவேளை கஞ்சிபான இம்ரான் மீது வழக்கு தொடரப்பட்டது. வழக்கு விசாரணைகள் இடம்பெற்றுக்கொண்டிருக்கும் போதே 2022 ஆம் ஆண்டு டிசம்பர் மாதம் 20 ஆம் திகதி அவருக்கு பிணை வழங்கப்பட்டது.
+
+◼️
+
+[Data](articles/622f308d.json)
+
+---
+
+### தேர்தலுக்காக போராடும் நிலை
+
+*2024-07-14 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188429) · `ta`
+
+உயர்நீதிமன்றத்தால் ஜனாதிபதி தேர்தலை தடுப்பதற்கு தற்காலிகமாக ஒரு தடையை ஏற்படுத்துவதற்கு மேற்கொள்ளப்பட்ட முயற்சி முறியடிக்கப்பட்டிருக்கிறது. ஜனாதிபதி தேர்தலை தடுப்பதற்கான ஒரே ஒரு முயற்சி என்று எதிர்பார்க்க முடியாது. சாத்தியமான அனைத்து வழிகளிலும் முயற்சிகள் முன்னெடுக்கப்பட்டிருக்கின்றன.
+
+◼️
+
+[Data](articles/85567e8e.json)
+
+---
+
+### மீண்டும் கூட்டமைப்பு?
+
+*2024-07-14 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188433) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பில் சிதைவு என்பது தமிழ்த் தேசிய அரசியலின் மிகப்பெரிய தோல்விகளில் ஒன்று என்பது எதிர்காலத்தில் எல்லா கட்சிகளாலும் உணர்ந்துகொள்ளக் கூடியதாகவே இருக்கும். சம்பந்தன் உயிருடன் இருக்கும்போதே தலைமைப் பதவியை குறிவைத்த சுமந்திரனும், பின்னரான சூழலில் ஆர்வம் கொண்ட சிறிதரனும் இருக்கையில் செல்வம் அடைக்கலநாதன் தலைமையைப் பெற முயற்சிக்கின்றமை தான் இழுபறிக்கு காரணம். தமிழ்த் தேசியக் கூட்டமைப்பு காணாமல் போய்விட்டாலும், அதற்கென ஒரு பாராளுமன்றத் தலைவரை தெரிவு செய்ய வேண்டிய நிலை உருவாகியிருக்கிறது.
+
+◼️
+
+[Data](articles/30a30257.json)
+
+---
+
+### கல்முனை வடக்கு பிரதேச செயலக விவகாரம் : முடிவின்றித் தொடரும் மக்கள் போராட்டம்! : அரசாங்கம் தலையிட்டு தீர்வு காண வேண்டுகோள்!
+
+*2024-07-14 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188442) · `ta`
+
+கல்முனை வடக்கு பிரதேச செயலகத்தின் நிர்வாகச் செயற்பாடுகளின் மீதான அடக்குமுறைகளுக்கும் அத்து மீறல்களுக்கும் எதிராக ஆரம்பிக்கப்பட்ட அப்பிரதேசமக்களின் போராட்டம் 92 ஆவது நாளையும் தாண்டி தொடர்கிறது. மேற்படி செயலகத்தை நாட்டிலுள்ள இதர செயலகங்களுக்கு நிகராக முழு அதிகாரங்களுடனும் இயங்க அனுமதிக்குமாறு கோரியே இப்போராட்டம் இன்றுவரை தொடர்ந்து நடத்தப்பட்டுவருகிறது!
+
+...
+
+[Data](articles/4fcbd50b.json)
+
+---
 
 ### President's challenge to GL
 
@@ -55,6 +175,18 @@ Ranil Wickremesinghe said that the economy of the country has been established a
 [Data](articles/9793e9b0.json)
 
 [Extended Data](ext_articles/9793e9b0.ext.json)
+
+---
+
+### இளைஞர்களுக்கான உத்தரவாதங்கள் இல்லாத கடன்கள்
+
+*2024-07-14 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188450) · `ta`
+
+சொத்து அல்லது வாகனங்கள் போன்ற பிணையம் தேவைப்படும் பாதுகாப்பான கடன்களைப் போலன்றி, உத்தரவாதங்கள் இல்லாத கடன்கள் தகுதி மற்றும் வட்டி விகிதங்களைத் தீர்மானிக்க கடனாளியின் கடன் தகுதியை நம்பியுள்ளன. முக்கியமாகஒருவருடைய கடந்த கால  கடன்  செலுத்திய  அல்லது கையாண்ட முறைமை (கடன் வரலாறு), வருமானம் மற்றும் வேலைவாய்ப்பு நிலைத்தன்மை போன்ற காரணிகள் முக்கிய பங்கு வகிக்கின்றன.
+
+◼️
+
+[Data](articles/89e9c70f.json)
 
 ---
 
@@ -2075,269 +2207,5 @@ There is, on the title page of Nihal Fernando’s ‘Sri Lanka — A Personal Od
 [Data](articles/10fc98e3.json)
 
 [Extended Data](ext_articles/10fc98e3.ext.json)
-
----
-
-### வட மாகாண வேலையற்ற பட்டதாரிகள் போராட்டம்
-
-*2024-07-14 01:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-வேலையற்ற-பட்டதாரிகள்-போராட்டம்/175-340346) · `ta`
-
-Unemployed graduates in Sri Lanka's Northern Province plan a protest tomorrow in front of the Jaffna Municipal Office. Led by the Northern Province Unemployed Graduates Association President, Kapilton Paul, the aim is to secure jobs and highlight the need for educational reforms to prevent future generations from facing similar unemployment issues.
-
-🟩
-
-வடக்கு மாகாண வேலையற்ற பட்டதாரிகள் நாளை மறுதினம் செவ்வாய்க்கிழமை யாழ்ப்பாணம் மாவட்ட செயலகத்துக்கு முன்பாக கவனவீர்ப்புப் போராட்டத்தை மேற்கொள்ளவுள்ளனர்.
-
-The President of the Northern Province Unemployed Graduates Association, Kapilton Paul, told the media.
-
-The purpose of this struggle is to find us employment and emphasize the educational reform that the future younger generations do not face us like us.. (A)
-
-◼️
-
-[Data](articles/3e5f15ea.json)
-
-[Extended Data](ext_articles/3e5f15ea.ext.json)
-
----
-
-### Will increase the speed of the wind
-
-*2024-07-14 01:10:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றின்-வேகம்-அதிகரிக்கும்/175-340345) · `ta`
-
-Heavy rains forecast across the country, especially over 100mm in Western, Sabaragamuwa provinces and Kandy/Nuwara Eliya districts. Wind speeds off the coast from Kankesanthurai to Mannar and Puttalam will rise from 60 to 65 km/h, causing sea turbulence.
-
-🟩
-
-The Department of Meteorology has predicted heavy rains in most parts of the country.
-
-More than 100 mm of rainfall is expected in the Western and Sabaragamuwa Provinces and Kandy and Nuwara Eliya districts, the department said.
-
-Meanwhile, wind speeds in the seas from Kankesanthurai to Mannar via Mannar to Puttalam will increase from 60 to 65 km per hour.
-
-The Department of Meteorology, which has warned strong winds and sea turbulence, has said that the seabed will be turbulent.
-
-◼️
-
-[Data](articles/23719680.json)
-
-[Extended Data](ext_articles/23719680.ext.json)
-
----
-
-### 71 killed in Israel's attack
-
-*2024-07-14 01:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-71-பேர்-பலி/50-340344) · `ta`
-
-In a recent Israeli attack in Gaza, 71 people were killed, including 289 injuries reported in Khan Younis. The victims are receiving treatment at the Nasser Hospital.
-
-🟩
-
-The Israeli attack in the southern part of Gaza has killed 71 people, Hamas's Health Ministry said.
-
-289 people were injured in the attack in Khan Younis.
-
-International media reports that the injured in the attack are being treated at the Nasser Hospital.(a)
-
-◼️
-
-[Data](articles/0bd77e4f.json)
-
-[Extended Data](ext_articles/0bd77e4f.ext.json)
-
----
-
-### 2024-07-13 (Saturday)
-
-### The Derana Little Star Season 12 winners
-
-*2024-07-13 23:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198780) · `si`
-
-In Derana Little Star Season 12, young talents aged 8 to 12 showcased their skills in singing and dancing. The 8-year-old singer emerged as the most popular, while Teshushi shone in the Under-15 dance category. Keni Yasara took home the title for the Under-12 category.
-
-🟩
-
-The 'Derana Little Star "won a great reputation between Sri Lankan television performances.
-
-After a number of basic competitions participated in hundreds of the competitors, the final was held.
-
-The panel of Tribunal stars were selected by the Tribunal Little Stars in the age of 8 and 12 years of singing and under-12.
-
-Accordingly, the popular small star in the 8-year-old squad won the popular star.
-
-Teshushi was anointed as the most popular little star in the Under-15 dancing section.
-
-The crowd of the top 12 years of chariot was the most popular star.
-
-Keni Yasara won the most popular little star in the Under-12-year-old small star.
-
-◼️
-
-[Data](articles/ebf420c5.json)
-
-[Extended Data](ext_articles/ebf420c5.ext.json)
-
----
-
-### At least 71 Palestinians killed, Gaza officials say, as Israel targets Hamas military chief
-
-*2024-07-13 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100489/at-least-71-palestinians-killed-gaza-officials-say-as-israel-targets-hamas-military-chief) · `en`
-
-An Israeli airstrike killed at least 71 Palestinians in a designated humanitarian zone in Gaza on Saturday, the enclave’s health ministry said, in an attack that Israel said targeted Hamas military chief Mohammed Deif.
-
-It was unclear whether Deif was killed. “We are still checking and verifying the results of the strike,” an Israeli military official told reporters.
-
-The militant Islamist group Hamas said in a statement that Israeli claims it had targeted leaders of the group were false and aimed at justifying the attack, which was the deadliest Israeli attack in Gaza in weeks.
-
-Displaced people sheltering in the area said their tents were torn down by the force of the strike, describing bodies and body parts strewn on the ground.
-
-“I couldn’t even tell where I was or what was happening,” said Sheikh Youssef, a resident of Gaza City who is currently displaced in the Al-Mawasi area.
-
-...
-
-[Data](articles/65283107.json)
-
-[Extended Data](ext_articles/65283107.ext.json)
-
----
-
-### Excellent of retirement from Test
-
-*2024-07-13 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198779) · `si`
-
-James Anderson, an English cricketer, recently retired from international Test cricket after a career spanning 21 years. Known for his exceptional bowling skills, he holds the record for taking the most wickets in Tests, second only to Muttiah Muralitharan and Shane Warne. His final match saw him take 4 wickets as England won against India by 121 runs. Celebrating his retirement, Anderson was joined by his family and friends at Lord's Cricket Ground, marking the end of a remarkable career in Test cricket.
-
-🟩
-
-James Anderson, who was born in England, retired to the International Test cricket.
-
-He was consumed to the tests that a fast bowler recorded in front of his name.
-
-England yesterday, England won the first Test match between England and 121 runs.
-
-James Anderson, James Anderson, was the last Test to play in Test cricket and took 4 wickets in the match.
-
-James Anderson, joined the Lunson's gathering in the Larson's Lurniture, and his wife and members of the family were brought to watch the match.
-
-The eight-year bowler shaped the international test cricket ground for 21 years, and the number of wickets taken from the Test.
-
-Anderson, who claimed the highest number of Test Breakdanding List after Muttiah Muralitharan and Shane Von, only 5 wickets wanted to win the highest number of wickets.
-
-Anderson saved to the Test cricket prick to save the highest wickets in the international test cricket.
-
-◼️
-
-[Data](articles/a6ba047e.json)
-
-[Extended Data](ext_articles/a6ba047e.ext.json)
-
----
-
-### EU backs promoting Ceylon cinnamon exports to higher-value markets
-
-*2024-07-13 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100488/eu-backs-promoting-ceylon-cinnamon-exports-to-higher-value-markets-) · `en`
-
-The European Union (EU) is backing Sri Lanka’s initiative of the newly established Department of Cinnamon Development through the Export Agriculture in Sri Lanka project, the EU Delegation to Sri Lanka and Maldives said in a statement.
-
-The statement highlighted that the EU will bring in the expertise of the International Finance Corporation (IFC) to promote Ceylon cinnamon exports to higher-value markets by focusing on quality improvement efforts.
-
-The project supports the implementation and enforcement of quality, builds the capacity of field officers and farmer organisations and provides technology, it added.
-
-President Ranil Wickremesinghe recently inaugurated the newly established Department of Cinnamon Development, dedicated to the cultivation and enhancement of cinnamon production. This department aims to boost cinnamon output, leveraging advanced techniques and support systems to elevate the industry.
-
-...
-
-[Data](articles/5b56898e.json)
-
-[Extended Data](ext_articles/5b56898e.ext.json)
-
----
-
-### Student injured from a bus
-
-*2024-07-13 21:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பேருந்தில்-இருந்து-தடுக்கி-விழுந்த-மாணவன்-படுகாயம்/76-340332) · `ta`
-
-A student, KT Dinit (10), fell off a bus near Moussakkalai while traveling from Maskeliya to Avissawella. Injured, he was first treated at the Maskeliya District Hospital before being transferred to the Tikoya Klangan Resource Hospital for further care.
-
-🟩
-
-Maskeliya police said that a student who was traveling to Avissaavalai from Maskeliya to Avissawell was blocked off the bus today.
-
-KT Dinit, a 10 -year -old boy, who lives in the Moussakkalai estate, has fallen to the highest class and falls at the junction of Moussakal.
-
-The student was admitted to the Maskeliya District Hospital after being injured and taken to the Tikoya Klangan Resource Hospital for further treatment, an official at the Maskeliya District Hospital said.. Remble
-
-◼️
-
-[Data](articles/eb6eb277.json)
-
-[Extended Data](ext_articles/eb6eb277.ext.json)
-
----
-
-### I lose the baby and the wife's pregnancy
-
-*2024-07-13 21:06:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/குழந்தையையும்-மனைவியின்-கர்ப்பப்-பையையும்-இழந்து-நிற்கின்றேன்/72-340330) · `ta`
-
-E. Suresh from Kilinochchi Nathankudiyiruppu recounts his tragic loss: his wife died during childbirth at Kilinochchi Hospital due to medical errors, and their newborn was stillborn. Despite appeals to police, human rights commissions, health ministry, and presidential secretariat, he seeks justice for what he calls a grave injustice. He laments the loss of his wife, their unborn child, and the absence of justice, highlighting the devastating impact of medical negligence on his life and dreams.
-
-🟩
-
-A year ago, my wife, who was admitted to the Kilinochchi Hospital for delivery, died and the wife's pregnancy was removed.
-
-But today I have not received any justice for it, said E. Suresh from the Kilinochchi Nathankudiyiruppu project.
-
-The year is together but no justice has been found yet. The only child born to me because of a medical mistake and the wife of the wife loses the year after losing. I have appealed to many sides, such as the Police Station, the Human Rights Commission, the Ministry of Health and the Presidential Secretariat regarding this bad injustice inflicted on me.. I received the complaint and I had no justice to date.
-
-Medical mistakes are innocent here, as if the priests are not guilty. My young wife can no longer be a mother in my life. It is a great concern that there is no justice for the injustices caused by the negligence of some doctors, negligence, and the lack of listening to the words of poor patients.
-
-...
-
-[Data](articles/4081050e.json)
-
-[Extended Data](ext_articles/4081050e.ext.json)
-
----
-
-### President to make the world famous to the world
-
-*2024-07-13 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198778) · `si`
-
-President Ranil Wickremesinghe plans to revitalize Anuradhapura, making it a global tourist attraction. He discussed this initiative at the Sasatuna ceremony, mentioning a private firm's offer to power the Jaya Sri Maha Bodhi tree site with 150kW electricity. Acknowledging past oversight, he tasked the Department of Archaeology and the Cultural Triangle with implementing projects, including university-led excavations at Mahavihara. He also met with UNESCO's Director-General to discuss long-term archaeological efforts in Anuradhapura, aiming to attract international support. The president emphasized the importance of highlighting Anuradhapura's historical significance, comparing its potential to Sigiriya, and announced plans for new hotels to boost tourism.
-
-🟩
-
-President Ranil Wickremesinghe says he will commence the program to turn the historic city a world famous city again.
-
-The President expressed his views at a ceremony of the Sasatuna sacrificing ceremony established at the Historical Way Sri Maha Bodhi Premises.
-
-A private company to provide electricity to the premises of the Jaya Sri Maha Bodhi tree is 150 kilotic capacity to supply electricity to the premises.
-
-"We did not take the necessary steps to implement this work in Anuradhapura town. As a result, I advised the Department of Archeology and the Cultural Triangle and implement this work. Also, the excavation of Mahavihara has agreed to agree with universities. Trouble in consultation with the chief. Dr. Advisory Gunawardena has been involved in these activities. "
-
-...
-
-[Data](articles/a2295d3c.json)
-
-[Extended Data](ext_articles/a2295d3c.ext.json)
-
----
-
-### UNESCO DG to discuss archaeological endeavours in Anuradhapura, Sri Lanka: President
-
-*2024-07-13 20:00:00* · [`economynextcom`](https://economynext.com/unesco-dg-to-discuss-archaeological-endeavours-in-anuradhapura-sri-lanka-president-171988/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president has said that he will discuss initiatives for long-term archaeological endeavours in the Anuradhapura city with visiting UNESCO Director General Audrey Azoulay.
-
-Azoulay will visit Sri Lanka from July 16-19 and take part at the celebration of the 75th Anniversary of Sri Lanka’s membership of UNESCO at the Nelum Pokuna Theatre in Colombo.
-
-She will also travel to UNESCO World Heritage Sites around the island, the Ministry of Foreign Affairs said.
-
-“I have invited the Director General of UNESCO to visit Sri Lanka and discuss initiatives for long-term archaeological endeavours in the Anuradhapura city. Several universities overseas have shown interest in supporting us for these activities, and we are moving forward with their collaboration,” Ranil Wickremesinghe said.
-
-...
-
-[Data](articles/11e62ad6.json)
-
-[Extended Data](ext_articles/11e62ad6.ext.json)
 
 ---

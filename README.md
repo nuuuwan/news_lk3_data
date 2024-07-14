@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 02:52:57**
+As of **2024-07-15 03:05:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,246 (100.0%) of 35,249 articles have been extended.
+35,249 (100.0%) of 35,249 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Hayleys Fabric PLC, a leading textile manufacturer in Sri Lanka, has received th
 
 [Data](articles/764da880.json)
 
+[Extended Data](ext_articles/764da880.ext.json)
+
 ---
 
 ### Vietnam delegation participates in Ratnapura International Gem and Jewellery Show
@@ -58,6 +60,8 @@ AGO Gems, a renowned gem company in Vietnam also had a booth at the fair. AGO Ge
 
 [Data](articles/76693eec.json)
 
+[Extended Data](ext_articles/76693eec.ext.json)
+
 ---
 
 ### China owned UAE’s One Road Group calls on BOI
@@ -69,6 +73,8 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 ◼️
 
 [Data](articles/a0e0eebc.json)
+
+[Extended Data](ext_articles/a0e0eebc.ext.json)
 
 ---
 

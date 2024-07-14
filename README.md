@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-14 15:35:21**
+As of **2024-07-14 15:54:26**
 
 ## Newspaper Stats
 
-*Scraped **35,181** Articles*
+*Scraped **35,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 1,992
 economynextcom | 2,086
 dailyftlk | 2,219
 adalk | 3,169
-adaderanalk | 4,048
-tamilmirrorlk | 4,231
+adaderanalk | 4,049
+tamilmirrorlk | 4,234
 dailymirrorlk | 4,733
 virakesarilk | 5,487
-adaderanasinhalalk | 5,867
+adaderanasinhalalk | 5,869
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,181 (100.0%) of 35,181 articles have been extended.
+35,181 (100.0%) of 35,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-14 (Sunday)
+
+### හමාස් හමුදා ප්‍රධානියා ඉලක්ක කර ප්‍රහාරයක්
+
+*2024-07-14 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198795) · `si`
+
+මානුෂික කලාපයක් වශයෙන් වෙන්කර තිබූ ගාසා තීරයේ ප්‍රදේශයක් ඉලක්කයක් වෙත එල්ලකළ ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් පලස්තීන වැසියන් 90ක් පමණ ජීවිතක්ෂයට පත්වී ඇති බව රොයිටර්ස් පුවත් සේවය වාර්තා කරයි.
+
+ඊශ්‍රායලය පවසන්නේ හමාස් හමුදා ප්‍රධානියා වන මොහොමඩ් ඩෙයිෆ් ඉලක්ක කර එම ප්‍රහාරය එල්ලකළ බවයි.
+
+මේ අතර ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු පවසන්නේ එම ප්‍රහාරයෙන් ඩෙයිෆ් හෝ ඔහු සමග සිටි අනෙක් හමාස් හමුදා නිලධාරියා මියගියාද යන්න පැහැදිලි නැති බවයි.
+
+ඔහු පවසන්නේ හමාස් සංවිධානය ට බලපෑම් එල්ල කිරීම මගින් ප්‍රාණ ඇපකරුවන් නිදහස් කර ගැනීමට අවස්ථාව උදාවිය හැකි බවයි.
+
+◼️
+
+[Data](articles/af910d27.json)
+
+---
+
+### கொழும்பில் எலும்புக்கூடுகள் மீட்பு
+
+*2024-07-14 15:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-எலும்புக்கூடுகள்-மீட்பு/175-340373) · `ta`
+
+கொழும்பு துறைமுக பழைய செயலக அலுவலகத்திற்கு அருகில் எஸ்.ஏ.ஜி.கே. நுழைவாயிலுக்கு அருகில் கட்டுமானத்திற்காக சீன நிறுவனமொன்று மேற்கொண்ட அகழ்வின் போது பல மனித எலும்புக்கூடுகள் கண்டெடுக்கப்பட்டதாக கொழும்பு துறைமுக பொலிஸார் தெரிவித்தனர்.
+
+சுமார் 6 அடி ஆழத்தில் இந்த எலும்புகள் கண்டெடுக்கப்பட்டுள்ளதாகவும் இவை பல வருடங்கள் பழையன என்றும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b9005397.json)
+
+---
+
+### After Sri Lanka, Adani plans to build port in Vietnam to tap trade opportunities
+
+*2024-07-14 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100500/after-sri-lanka-adani-plans-to-build-port-in-vietnam-to-tap-trade-opportunities) · `en`
+
+Billionaire Gautam Adani plans to build a port in Vietnam as the conglomerate seeks to develop infrastructure overseas to tap opportunities from increasing trade.
+
+Adani Ports and Special Economic Zone Ltd. has secured an “in-principle approval from the Vietnamese government” for a greenfield development in Da Nang, Karan Adani, Managing Director of the company, said in an interview.
+
+The project, which will have container terminals and multipurpose berths to handle various types of cargo, is at an early stage of planning and the total investment required hasn’t been finalized yet, he said.
+
+This will be the fourth international port asset for the Adani group after Haifa in Israel, Colombo in Sri Lanka and the Port of Dar es Salaam in Tanzania.
+
+...
+
+[Data](articles/4f2af1c1.json)
+
+---
+
+### බස් රථයක් තුළදී තරුණියකගේ කොණ්ඩය කැපූ මවුලවී අත්අඩංගුවට
+
+*2024-07-14 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198794) · `si`
+
+මගී බස් රථයක් තුළදී තරුණියකගේ කොණ්ඩයෙන් අඩියක පමණ කොටසක් කපා වෙන් කොට දැමූ මවුලවීවරයෙකු බව සඳහන් පුද්ගලයෙකු මහනුවර පොලීසිය මගින් ඊයේ (13) අත්අඩංගුවට ගෙන තිබේ.
+
+මහනුවර-වත්තේගම මාර්ගයේ ගමන් ගත් බස් රථයක ගමන් ගනිමින් සිටියදී තම අසුනට පසූපස අසුනේ වාඩිවී සිටි සැකකරු සිය වරලසේ අඩියක් පමණ කොටසක් කතුරකින් කපා දැමූ බව මඩවල පදිංචි 26 හැවිරිදි තරුණියක් මහනුවර පොලීසියට පවසා තිබුණි.
+
+කටුගස්තොට-වට්ටාරන්තැන්න මංසන්ධිය ආසන්නයේ දී තම කොණ්ඩය සැකකරු විසින් කපන අයුරු දැක ඇති තරුණිය කෑ ගසා බස් රථයේ සෙසු මගීන් ගේ සහාය ඉල්ලා තිබුණාය.
+
+එම අවස්ථාවේ කොන්දොස්තරවරයා සහ මගීන් කිහිපදෙනෙකු පැමිණ සැකකරු අල්ලාගෙන තිබේ.
+
+පසුව සැකකරුව එම බස් රථයෙන්ම ගෙනැවිත් මහනුවර පොලීසියට භාරදී තිබුණි.
+
+◼️
+
+[Data](articles/454866bb.json)
+
+---
 
 ### President pays off what revolution is
 
@@ -55,6 +125,46 @@ President Ranil Wickremesinghe has been awarded 47 land deeds.
 [Data](articles/a9520849.json)
 
 [Extended Data](ext_articles/a9520849.ext.json)
+
+---
+
+### ரூ. 2 கோடி மதிப்புள்ள கைக்கடிகாரம் பரிசு
+
+*2024-07-14 14:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2-கோடி-மதிப்புள்ள-கைக்கடிகாரம்-பரிசு/175-340372) · `ta`
+
+தொழில் அதிபர் முகேஷ் அம்பானியின் செல்ல மகன் ஆனந்தின் திருமணம் ஜூலை 12ம் திகதி பிரமாண்டமாக நடந்தது. அந்த திருமணத்தில் திரையுலக பிரபலங்கள் பலர் கலந்து கொண்டார்கள்.திருமணத்தன்று ரூ. 54 கோடி மதிப்புள்ள கைக்கடிகாரத்தை ஆனந்த் அம்பானி அணிந்திருந்தார்.
+
+இந்நிலையில் சிறப்பு விருந்தினர்கள் சிலருக்கு Audemars Piguet லிமிடட் எடிஷன் கைக்கடிகாரத்தை பரிசாக கொடுத்திருக்கிறார் ஆனந்த் அம்பானி.
+
+அந்த கைக்கடிகாரத்தின் விலை ரூ. 2 கோடி மட்டுமே. விலை உயர்ந்த கைக்கடிகாரத்தை அணிந்து சிலர் சேர்ந்து எடுத்த புகைப்படம் வெளியாகியுள்ளது.
+
+அந்த புகைப்படத்தில் ரூ. 2 கோடி மதிப்புள்ள கைக்கடிகாரத்தை அணிந்த 9 கைகள் மட்டும் தான் தெரிகின்றன.
+
+ஆனந்த் அம்பானிக்கு ரொம்ப பிடித்த பாலிவுட் சூபப்ர் ஸ்டார் ஷாருக்கான், நடிகர் ரன்வீர் சிங், போனி கபூரின் மகனும், நடிகருமான அர்ஜுன் கபூர், நடிகர் ஜாவித் ஜாஃப்ரியின் மகன் மீசான், ஜான்வி கபூரின் காதலர் ஷிகர் பஹாரியா, அவரின் சகோதரர் வீர் பஹாரியா உள்ளிட்டோருக்கு அந்த விலை உயர்ந்த வாட்ச் கிடைத்திருக்கிறது.
+
+◼️
+
+[Data](articles/812b3b3d.json)
+
+---
+
+### பிரதிவாதியை விடுவித்தவர் கைது
+
+*2024-07-14 14:46:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதிவாதியை-விடுவித்தவர்-கைது/175-340371) · `ta`
+
+நீதிமன்றத்தில் விசாரணை நடைபெற்றுக்கொண்டிருக்கும் வழக்கு ஒன்றின் பிரதிவாதியை சகல குற்றச்சாட்டுகளில் இருந்தும் விடுத்தவர் கைது செய்யப்பட்டுள்ளார்.
+
+நீதவானின் கையொப்பத்தையும் போலியாக இட்டு, வழக்கு அறிக்கையையும் பெற்றுக்கொடுத்து, 35 இலட்சம் ரூபாயை மோசடி செய்தார் என்றக் குற்றச்சாட்டின் கீ​ழே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+நீர்கொழும்பு விசேட குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவினால் ஞாயிற்றுக்கிழமை (14) காலை கைது செய்யப்பட்ட இந்த நபர், நீதிமன்றத்தின் முன்னாள் சேவையாளர் ஆவார்.
+
+அவர்,  வெலிசர  நீதிமன்றத்தில் அலுவலக உதவியாளராகப் பணியாற்றியவர், இவ்வாறான தவறான மோசடிகளைச் செய்து வேலையிழந்து சிறையில் அடைக்கப்பட்டு பிணையில் விடுவிக்கப்பட்டவர் ஆவார் என்பது குறிப்பிடத்தக்கது.
+
+தான் சட்டமா அதிபர் திணைக்களம் மற்றும் புதுக்கடை மேல் நீதிமன்றத்தில் தோலுக்கு முதலாளி என தெரிவித்தே இவ்வாறான மோசடியில் ஈடுபட்டுள்ளார்.
+
+...
+
+[Data](articles/bbab0416.json)
 
 ---
 
@@ -2173,145 +2283,5 @@ It was not immediately clear whether Khan and Bibi, both in jail, would be relea
 [Data](articles/6cc860ac.json)
 
 [Extended Data](ext_articles/6cc860ac.ext.json)
-
----
-
-### Club Wasantha's funeral is carried out
-
-*2024-07-13 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198772) · `si`
-
-Surendra Wasantha Perera, known as Club Wasantha, was killed on the 8th and his funeral took place today. He planned to open a tative center in Athurugiriya. The ceremony was attended by family and security personnel from the police and STF.
-
-🟩
-
-The funeral of Surendra Wasantha Perera, or Club Wasantha was held this afternoon.
-
-Surendra Wasantha Perera, who was to open a tative center in Athurugiriya, was shot dead on the 8th.
-
-The relatives of the Borella General Cemetery were finalized after the burial of Club Wasantha Malzala.
-
-The police and the STF had come to protect the security.
-
-◼️
-
-[Data](articles/e8fae855.json)
-
-[Extended Data](ext_articles/e8fae855.ext.json)
-
----
-
-### The first draft of the execution of the ovenoms strategic program to the Asgiri Mah
-
-*2024-07-13 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198771) · `si`
-
-The first draft of the Norgeon TNA strategic program was presented to Sri Gnanaratathana Thera. Leaders from the Motherland People's Party, including Dilith Jayaweera, Professor Channa Jayumaran, and Geavithu Kumaratunga, visited Kandy and paid respects at the Sri Dalada Maligawa. They also met with several Buddhist monks, including the Most Venerable Warakarana Thera and Ven. Medagama Dhammananda Thero, discussing their strategic plans.
-
-🟩
-
-The first draft of the Norgeon TNA was presented to Sri Gnanaratathana Thera today (13) morning.
-
-The present was presented recently, "Happy What is the strategic program that was presented recently," the first draft.
-
-The party leaders representing the authentic control had come to Kandy and had bowed the Sri Dalada Maligawa.
-
-The leader of the Motherland People's People's Party, Dilith Jayaweera, MPs Professor Channa Jayumaran and Geavithu Kumaratunga were also present.
-
-The party leaders then visited the Asgiriya Maha Viharaya and visited the Most Venerable Warakarana Thera.
-
-The party leaders then welcomed their strategic program to see Ven. Medagama Dhammananda Thero also visited the Yatagama Dhammananda Thero.
-
-◼️
-
-[Data](articles/d837dc1c.json)
-
-[Extended Data](ext_articles/d837dc1c.ext.json)
-
----
-
-### MP Rishad Bathiudeen's vehicle crashed
-
-*2024-07-13 16:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-ரிஷாத்-பதியுதீன்-பயணித்த-வாகனம்-விபத்துக்குள்ளானது/175-340327) · `ta`
-
-Rishad Bathiudeen, leader of All Ceylon People's Congress and MP, had a minor crash near Puttalam while driving from Anuradhapura. A motorcycle collided with his luxury vehicle; both vehicles sustained minor damage, and no one was injured. Police are investigating the incident.
-
-🟩
-
-All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen has crashed today (13) in the Puttalam -Karuwalakaswewa area.
-
-While Rishad Bathiudeen was traveling from Anuradhapura to Puttalam, a motorcycle that suddenly entered the main road was crashed into a driver's luxury vehicle, police said.
-
-It is reported that no injuries were suffered from a Member of Parliament or a motorcycle.
-
-However, the Kuruwalakaswewa police said that there were only minor damage to the luxury vehicle and the motorcycle that MP was traveling.
-
-The Karuwalakaswewa police are conducting further investigations into the accident. Remble
-
-◼️
-
-[Data](articles/5a66981d.json)
-
-[Extended Data](ext_articles/5a66981d.ext.json)
-
----
-
-### Aesthetic Education In Sri Lanka: The Direction Ahead
-
-*2024-07-13 16:25:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/aesthetic-education-in-sri-lanka-the-direction-ahead/) · `en`
-
-Art should be at the heart of a free, creative community and culture. Much of what is best in society evolves through various art forms, contributing significantly to cultural values, well-being, and the broader spectrum of creative and cultural life. In a new curriculum for the 21st century, students should have the opportunity to engage with diverse arts and comprehend contemporary expressions within social and cultural contexts. Aesthetic education equips students with the confidence and tools necessary to understand and critique art in everyday life, fostering emerging critical and creative thinkers.
-
-...
-
-[Data](articles/a69ad829.json)
-
-[Extended Data](ext_articles/a69ad829.ext.json)
-
----
-
-### A warning about suddenly dragged on the rain
-
-*2024-07-13 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198770) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa provinces, and parts of Kandy and Nuwara Eliya districts for 24 hours, with potential for over 100mm rainfall. The Department of Meteorology advises caution against strong winds and lightning from thunderstorms. Roads near Kandy Railway Station and Bogambara bus station are flooded. Four gates of the Mahaweli Dam in Polgolla, Kandy, have been opened, and the Wimalasurendra reservoir is being released due to heavy rains in the central hills.
-
-🟩
-
-The Department of Meteorology has issued an announcement of heavy rains for the next 24 hours.
-
-The release is shown in some places in the Western, Sabaragamuwa provinces and in some places in Kandy and Nuwara Eliya districts. Heavy rains can occur at over 100.
-
-The Department of Meteorology also requests the public to take necessary steps to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
-
-Meanwhile, the road in front of the Kandy Railway Station and the Bogambara bus has been submerged with heavy rains.
-
-The Ceylon Mahaweli Authority (CBSF) stated that four gates of Mahaweli Dam were opened in Polgolla, Kandy.
-
-Wimalasurendra reservoir has been launched due to heavy rains in the central hills.
-
-◼️
-
-[Data](articles/716cb174.json)
-
-[Extended Data](ext_articles/716cb174.ext.json)
-
----
-
-### Derana Little Star 12 Final Competition Today
-
-*2024-07-13 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198769) · `si`
-
-Derana Little Star 12 concludes today at 7:30 pm on TV Derana.
-
-🟩
-
-Derana Little Star 12 is held today (13).
-
-TV. You can view it from 7.30 pm on Derana.
-
-◼️
-
-[Data](articles/67e28516.json)
-
-[Extended Data](ext_articles/67e28516.ext.json)
 
 ---

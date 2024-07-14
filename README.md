@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 04:06:01**
+As of **2024-07-15 04:19:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,252 (100.0%) of 35,253 articles have been extended.
+35,253 (100.0%) of 35,253 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,7 +102,11 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 
 *2024-07-15 01:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சி-உயிர்போடு-இருக்கிறது/175-340403) · `ta`
 
-இலங்கை தமிழரசுக் கட்சி உயிர்போடு இருப்பதுடன் ஓர் ஆக்கபூர்வமான பிரதிநிதிகளுடன் தொடர்ந்தும் பயணிக்கிறது. எதிர்வரும் எந்த தேர்தலிலும் கட்சி போட்டியிடும். மக்களுக்கான தனது செயற்பாட்டை தொடர்ந்தும் முன்னெடுக்கும் என்று தெரிவித்துள்ள   பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன்  தேர்தலை பிற்போட அரசாங்கம் சதி செய்கிறது என்றார்.
+The Sri Lanka Tamil National Party remains active, preparing for future elections. Recent discussions focused on legal matters, including a case scheduled for April 19th, and the handling of opposition parties. The party's leadership is committed to continuing its efforts for the community.
+
+🟩
+
+The Sri Lanka Tamil National Party is alive and continues to travel with a constructive representative. எதிர்வரும் எந்த தேர்தலிலும் கட்சி போட்டியிடும். Parliamentarian MA Sumanthiran said the government was conspiring to postpone the election.
 
 வவுனியாவில், ஞாயிற்றுக்கிழமை (14)   இடம்பெற்ற தமிழரசுக் கட்சியின் அரசியல் குழு கூட்டத்தின் பின் இடம்பெற்ற ஊடகவியாளர்  சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார்.
 
@@ -113,6 +117,8 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 ...
 
 [Data](articles/84e43286.json)
+
+[Extended Data](ext_articles/84e43286.ext.json)
 
 ---
 

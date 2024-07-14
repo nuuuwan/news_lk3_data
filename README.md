@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 01:05:11**
+As of **2024-07-15 01:19:58**
 
 ## Newspaper Stats
 
@@ -51,6 +51,8 @@ In Sri Lanka even those who get ample physical exercise from their hard labour d
 ### Child’s guide to debt and debt restructuring – Part II
 
 *2024-07-15 00:19:46* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-debt-and-debt-restructuring-Part-II/4-764243) · `en`
+
+The longer the Bank keeps mum on the sources of funds for awarding the high interest rate in 2023, the higher the speculation that there was some accounting window dressing
 
 Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a former official of the Ministry of Finance, have been in very intense interactive discussion of the debt and debt restructuring problem of Sri Lanka. In the previous episode, available at: https://www.ft.lk/columns/A-child-s-guide-to-debt-and-restructuring-Country-driven-to-economic-collapse-has-not-many-options-Part-I/4-763940, they discussed why only bilateral and commercial borrowings of Sri Lanka have been earmarked for restructuring when the country’s total foreign debt had been a massive amount.
 

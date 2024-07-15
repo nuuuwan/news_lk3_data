@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 07:29:32**
+As of **2024-07-15 07:51:25**
 
 ## Newspaper Stats
 
-*Scraped **35,262** Articles*
+*Scraped **35,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,56 @@ newsfirstlk | 363
 islandlk | 1,995
 economynextcom | 2,089
 dailyftlk | 2,231
-adalk | 3,179
+adalk | 3,180
 adaderanalk | 4,055
-tamilmirrorlk | 4,244
+tamilmirrorlk | 4,245
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,884
+adaderanasinhalalk | 5,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,259 (100.0%) of 35,262 articles have been extended.
+35,262 (100.0%) of 35,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### යුරෝපා පාපන්දු කුසලානය ස්පාඤ්ඤය ට
+### ජනාධිපතිවරණයට එරෙහිව ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සම සලකා බැලීම අද
+
+*2024-07-15 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198813) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය ජනමත විචාරණයකට යොමු නොකර ජනාධිපතිවරණයක් පැවැත්වීමට එරෙහිව ගොනු කර ඇති මූලික අයිතිවාසිකම් පෙත්සම අද (15) සලකා බැලීමට නියමිතව තිබේ.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය, අර්ජුන ඔබේසේකර සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ පෙත්සම සලකා බැලීමට නියමිතය.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත් ආකාරයෙන් සම්මත වී නොමැති වීම නිසා එය ජනමත විචාරණයකට යොමු කර ඉන් අනුමැතිය ලබාගන්නා තෙක්  ජනාධිපතිවරණයක් පැවැත්වීම ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය වන බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා විසින් පසුගිය සිකුරාදා මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+අදාළ පෙත්සම මගින් පෙත්සම්කරු පෙන්වාදී ඇත්තේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය තුළින්, 70 වන ව්‍යවස්ථාව සංශෝධනය කොට තේරී පත්වෙන පාර්ලිමේන්තුවක් වසරක් ගෙවී යාමෙන් පසුව විසුරුවා හැරීමට ජනාධිපතිවරයා සතු බලය අහිමි කිරීමට කටයුතු කර ඇති බවය.
+
+...
+
+[Data](articles/66644984.json)
+
+---
+
+### The Spain is the European Football Trop
 
 *2024-07-15 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198811) · `si`
 
-2024 යුරෝපා කුසලාන අවසන් මහා තරගයේදී එංගලන්තය පරාජය කර ශූරතාවය දිනා ගැනීමට ස්පාඤ්ඤය සමත්විය.
+In the 2024 European Cup, Spain triumphed over England, securing the trophy as Europe's top football nation.
+
+🟩
+
+Spain was able to defeat England in the end of the 2024 European cup.
 
 ◼️
 
 [Data](articles/be2e69da.json)
+
+[Extended Data](ext_articles/be2e69da.ext.json)
 
 ---
 
@@ -131,6 +155,22 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 [Data](articles/a0e0eebc.json)
 
 [Extended Data](ext_articles/a0e0eebc.ext.json)
+
+---
+
+### டெங்கு நோயாளர்கள் 30 ஆயிரத்தை கடந்தனர்
+
+*2024-07-15 02:07:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-30-ஆயிரத்தை-கடந்தனர்/175-340406) · `ta`
+
+இந்த ஆண்டின் இதுவரையான காலப்பகுதியில் பதிவான டெங்கு நோயாளர்களின் எண்ணிக்கை 30 ஆயிரத்தை கடந்துள்ளதாகத் தேசிய தொற்று நோயியல் பிரிவு தெரிவித்துள்ளது.
+
+அதற்கமைய இதுவரையான காலப்பகுதியில் பதிவான டெங்கு நோயாளர்களின் எண்ணிக்கை 30 ஆயித்து 57 ஆகும். கொழும்பு மாவட்டத்திலேயே அதிகளவான நோயாளர்கள் பதிவாகியுள்ளனர். அது 6,910 ஆகும்.
+
+அதேநேரம் 2024 ஆண்டின் இதுவரையான காலப்பகுதியில், மேல் மாகாணத்தில் 11 ஆயிரத்து 661 பேர் பாதிக்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/57a4b2cc.json)
 
 ---
 
@@ -691,6 +731,20 @@ Meanwhile, it is also reported that the Badulla-Colombo night mail train has als
 [Data](articles/da88af61.json)
 
 [Extended Data](ext_articles/da88af61.ext.json)
+
+---
+
+### අනුරගෙන් සජිත්ට අභියෝගයක්
+
+*2024-07-14 19:59:38* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගෙන්-සජිත්ට-අභියෝගයක්/11-410785) · `si`
+
+රනිල් වික්‍රමසිංහ මහතාගෙන් මත්  පැන් අලවි කිරීම සඳහා බලපත්‍ර පක්‍ෂයේ කිසිම මන්ත්‍රී වරයකු ලබාගෙන  නොමැති බව හැකි නම් ප්‍රකාශ කරන්නැයි තමන් සජිත් ප්‍රේමදාස මහතාට අභියෝග කරන බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අද (13දා) පස්වරුවේ  දඹුල්ලේ දී අභියෝග කළේය. මාතලේ දිස්ත්‍රික් ප්‍රධාන සංවිධායක  ගෙදර දිසානායක මහතා විසින් මෙම ජනරැළිය සංවිධානය කොට තිබිණ.
+
+එහිදී  ජනතාව ඇමතු වූ අනුර කුමාර දිසානායක මහතා කියා සිටියේ සජිත් ප්‍රේමදාස මහතා බලයට පත් වූ විගස රනිල් වික්‍රමසිංහ මහතා ලබා දී ඇති   මත්පැන් බලපත්‍ර අහෝසි කරන බවට පුරසාරම් දෙඩු බවය. ඔහුගේ පක්ෂයේ බොහෝ දෙනෙකු රහසිගතව රනිල් වික්‍රමසිංහ මහතාගෙන් මත් පැන් අලවිසැල් බලපත්‍ර ලබාගෙන තිබෙන බව පෙන්වා දෙන ඒ මහතා එසේ එකම අයෙකු හෝ රනිල් වික්‍රමසිංහ මහතා අතින් බලපත්‍ර ලබාගෙන නැති බව ප්‍රකාශ කරන්නැයි සජිත් ප්‍රේමදාස මහතාට අභියෝග කරන බව සඳහන් කළේය,
+
+...
+
+[Data](articles/8360d88d.json)
 
 ---
 
@@ -2173,79 +2227,5 @@ A Trump supporter who participated in the rally after Trump was killed in minor 
 [Data](articles/60665f94.json)
 
 [Extended Data](ext_articles/60665f94.ext.json)
-
----
-
-### Attack on Trump from the roof
-
-*2024-07-14 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரையில்-இருந்தே-டிரம்ப்-மீது-தாக்குதல்/175-340366) · `ta`
-
-A gunman attacked former President Donald Trump from a rooftop during a rally, 400 feet away. Security forces responded quickly, killing the shooter and investigating his affiliations. President Joe Biden called Trump, who was hospitalized afterward. A Trump supporter and two others suffered minor injuries.
-
-🟩
-
-The gunman, who fired former President Donald Trump, has been attacked from the roof of the building, 400 feet away from the rally.
-
-Immediately after the security forces, the security forces shot and killed a man who fired and are conducting further investigations into whether he belongs to the extremist gang or whether he belongs to the foreign mercenary.
-
-It is also reported that the current US President Joe Bidan has telephoned Trump, who was admitted to the hospital.
-
-A Trump supporter who participated in the rally after Trump was killed in minor injuries in the shooting and two others were injured and admitted to the hospital.
-
-◼️
-
-[Data](articles/a7346da3.json)
-
-[Extended Data](ext_articles/a7346da3.ext.json)
-
----
-
-### Attack on Trump from the rest of the roof
-
-*2024-07-14 11:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரையின்-மீதிருந்தே-டிரம்ப்-மீது-தாக்குதல்/175-340366) · `ta`
-
-A gunman, identified as 20-year-old Thomas Matthew Crooks, attacked former President Donald Trump from a rooftop, 400 feet away during a rally. Security forces responded, killing the shooter and injuring three others, including a Trump supporter. Current US President Joe Biden phoned Trump, who was hospitalized afterward.
-
-🟩
-
-The gunman, who fired former President Donald Trump, has been attacked from the roof of the building, 400 feet away from the rally.
-
-New York Post News Service has reported that Thomas Matthew Crooks, a 20 -year -old youth, who attacked Trump.
-
-Immediately after the security forces, the security forces shot and killed a man who fired and are conducting further investigations into whether he belongs to the extremist gang or whether he belongs to the foreign mercenary.
-
-It is also reported that the current US President Joe Bidan has telephoned Trump, who was admitted to the hospital.
-
-A Trump supporter who participated in the rally after Trump was killed in minor injuries in the shooting and two others were injured and admitted to the hospital.
-
-◼️
-
-[Data](articles/d48e42b6.json)
-
-[Extended Data](ext_articles/d48e42b6.ext.json)
-
----
-
-### Investigations into the threat to Boossan Assistant Prison Superintendent
-
-*2024-07-14 11:30:05* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-සහකාර-බන්ධනාගාර-අධිකාරීට-කළ-තර්ජනය-ගැන-පරීක්ෂණ-අරඹයි/11-410771) · `si`
-
-The Assistant Prison Superintendent of Boossa Hath Security Prison faces threats, leading to investigations by the Police Headquarters and Prisons Department. A special security team has been deployed. The Superintendent's father filed a complaint against Hynutton Sanath for threatening him, allegedly linked to stopping operations at the prison. Recent searches revealed heroin trafficking and underworld activities within the prison, involving several individuals including Lasigala Calwewa, Pitigala Kavanda, Dematagoda Suddha, and others.
-
-🟩
-
-The Assistant Prison Superintendent of the Boossa Hath Security Prison has been started by the Police Headquarters and the Prisons Department of the Police Headquarters.
-
-Police Media Spokesperson SSP Attorneysha (13), the Commissioner of Prison Spokesman Gamini B Dissanayake said yesterday (13). Police and Prison Spokesperson further stated that a special security personnel were provided with the Boossa Prison Superintendent and the households and residents.
-
-The father of the Commissioner of Prisons has threatened to house at Katunayake at the Boossa Prison at the Boossa Prison around 5.00 pm.. The father of the Boossa Prison Superintendent has lodged a complaint with the Katunayake Police.
-
-The complaint states that he was threatened by Hynutton Sanath, who was going to be more dancing, don't dance, don't dance, do not dance, don't dance, don't dance.Katunayake Police say.
-
-...
-
-[Data](articles/76270781.json)
-
-[Extended Data](ext_articles/76270781.ext.json)
 
 ---

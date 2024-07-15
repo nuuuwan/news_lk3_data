@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 16:20:08**
+As of **2024-07-15 16:35:17**
 
 ## Newspaper Stats
 
-*Scraped **35,362** Articles*
+*Scraped **35,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,187
-adaderanalk | 4,075
-tamilmirrorlk | 4,267
+adaderanalk | 4,076
+tamilmirrorlk | 4,269
 dailymirrorlk | 4,733
 virakesarilk | 5,508
-adaderanasinhalalk | 5,909
+adaderanasinhalalk | 5,911
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,360 (100.0%) of 35,362 articles have been extended.
+35,362 (100.0%) of 35,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Foreign Minister Sabry to visit Romania and Poland
+
+*2024-07-15 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100527/foreign-minister-sabry-to-visit-romania-and-poland-) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry is scheduled to pay official visits to Romania and Poland from 16 to 19 July 2024.
+
+The Ministry of Foreign Affairs stated that during the visit, the foreign minister will meet his counterparts and other Senior Government Ministers and officials.
+
+The Foreign Minister will also formally open the new Sri Lanka Embassy in Bucharest, Romania, which commenced operation in 2023.
+
+◼️
+
+[Data](articles/671eb5e2.json)
+
+---
 
 ### Two arrested for defrauding money promising employment in Canada
 
@@ -47,6 +63,50 @@ The Special Investigation Unit of the SLBFE has arrested the owner of the compan
 ◼️
 
 [Data](articles/054a8d15.json)
+
+[Extended Data](ext_articles/054a8d15.ext.json)
+
+---
+
+### ලන්ඩනය සලිත කළ ද්විත්ව ඝාතනය - සිරුරු කොටස් සූට්කේස්වල
+
+*2024-07-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198839) · `si`
+
+එංගලන්තයේ ප්‍රකට පාලමක් අසල තිබී හමුවූ සූට්කේස්වල තිබී මිනිස් සිරුරු කොටස් හමුවූ බව ලන්ඩන් මෙට්‍රෝපොලිටන් පොලීසිය පැවසීය.
+
+පසුව සිදුකළ විමර්ශන වලින් අනතුරුව මිනීමැරීමේ චෝදනාව මත පුද්ගලයෙක්ව අත්අඩංගුවට ගත් බව පොලිස් බලධාරීන් පැවසීය.
+
+එසේ අත්අඩංගුවට ගෙන ඇත්තේ Yostin Andres Mosquera නම් 34 හැවිරිදි කොලොම්බියා ජාතිකයෙකි.
+
+බ්‍රිස්ටල් හි පිහිටි ක්ලිෆ්ටන් පාලම තිබී සිරුරු කොටස් සහිත සූට්කේස් හමුවී තිබු අතර සැකකරු ගේ නිවසේ තිබී තවත් සිරුරු කොටස් හමුවූ බව වාර්තා වෙයි.
+
+මෙහිදී ඝාතනය කර ඇත්තේ ඇල්බර්ට් අල්ෆොන්සෝ (62) සහ පෝල් ලෝංවර්ත් (71) නම් වැඩිහිටි පුද්ගලයින් දෙදෙනෙකි.
+
+සැකකරු කලකට පෙර ඔවුන් දෙදෙනා ජීවත් වූ නිවසේ වාසය කර තිබූ බව විමර්ශකයින් පැවසීය.
+
+◼️
+
+[Data](articles/6e41eafe.json)
+
+---
+
+### ඖෂධ ආසාත්මිකතාවයට ලක්වූ දරුවන්ගේ අලුත්ම තත්ත්වය
+
+*2024-07-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198838) · `si`
+
+මිහින්තලේ රෝහලේ ප්‍රතිකාර සඳහා පැමිණි ළමුන් පිරිසක් ඖෂධ ආසාත්මිකතාවකට ලක්වීම සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇති බව සෞඛ්‍ය අමාත්‍යංශය පවසයි.
+
+මිහින්තලේ රෝහලේ දී ඖෂධ ආසාත්මිකතාවකට ලක්වූ  ළමුන් 12 දෙනෙකු ඊයේ (14) අනුරාධපුර ශික්ෂණ රෝහලට මාරු කර යවා තිබුණි.
+
+වමනය සහ බඩේ කැක්කුම වැනි රෝගී තත්ත්වයන්ට ප්‍රතිකාර ලබාගැනීමට ගිය අවස්ථාවේදී ලබාදුන් ඖෂධ වර්ග 2ක් හේතුවෙන් මෙම ආසාත්මිකතාව හටගෙන තිබූ බව සඳහන්ය.
+
+අනුරාධපුර දිස්ත්‍රික් රෝහල් අධ්‍යක්ෂක වෛද්‍ය දිලිප්. එච්. ලියනගේ මහතා මාධ්‍ය හමුවක් පවත්වා කියාසිටියේ, අවුරුදු 5 - 11ත් අතර දරුවන් කිහිපදෙනෙකු මෙම රෝගී තත්ත්වය හේතුවෙන් රෝහල්ගත කළ බවය.
+
+එම දරුවන් සියලුදෙනා මේ වනවිට ප්‍රතිකාර ලබා රෝහලෙන් පිටව ගොස් ඇතැයි ද පැවසු වෛද්‍ය ලියනගේ මහතා ඔවුන්ව පැය 24ක කාලයක් රෝහලේ රඳවා ගනිමින් රෝගී තත්ත්වය නිරීක්ෂණය කළ බවත් කිසිදු දරුවෙකුට බලපතළ තත්ත්වයක් නොමැති බවත් කියා සිටියේය.
+
+...
+
+[Data](articles/91433f48.json)
 
 ---
 
@@ -69,6 +129,18 @@ During that period, only a few simple documents were provided to the "temporary 
 [Data](articles/99680e29.json)
 
 [Extended Data](ext_articles/99680e29.ext.json)
+
+---
+
+### 22.5 சதவீதம் மின்கட்டணம் குறைப்பு
+
+*2024-07-15 15:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-5-சதவீதம்-மின்கட்டணம்-குறைப்பு/175-340445) · `ta`
+
+மின்கட்டணத்தை 22.5 சதவீதம் குறைப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது. இது, செவ்வாய்க்கிழமை (16) முதல் அமுலாகுமென பொது பயன்பாடுகள் ஆணைக்குழு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e858d505.json)
 
 ---
 
@@ -95,6 +167,22 @@ Accordingly, the committee was instructed to attend the committee by August as a
 [Data](articles/d38e312f.json)
 
 [Extended Data](ext_articles/d38e312f.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தலுக்கு எதிரான  மனுவுக்கு ஆட்சேபனை
+
+*2024-07-15 15:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கு-எதிரான-மனுவுக்கு-ஆட்சேபனை/175-340444) · `ta`
+
+அரசியலமைப்பின் 19 ஆவது திருத்தம் தொடர்பில் சர்வஜன வாக்கெடுப்பு நடத்தப்படாமல் ஜனாதிபதித் தேர்தலை நடத்தக் கூடாது என பிரகடனப்படுத்துமாறு கோரி சட்டத்தரணியினால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனுவின் நிலைப்பாட்டை சவால் செய்து சட்டமா அதிபர், திங்கட்கிழமை (15) ஆரம்ப ஆட்சேபனைகளை முன்வைத்துள்ளார்.
+
+அரசியலமைப்பின் 19ஆவது திருத்தத்தை 2015 மே 15ஆம் திகதி சபாநாயகர் சான்றளித்துள்ளதாகவும், எனவே இந்த மனுவைத் தொடர்வதற்கு எவ்வித சட்ட அடிப்படையும் இல்லை எனவும் பிரதி சொலிசிட்டர் ஜெனரல் கனிஷ்க டி சில்வா உயர் நீதிமன்றத்திற்கு அறிவித்தார்.
+
+சட்டத்தரணி அருண லக்சிறி தாக்கல் செய்த அடிப்படை உரிமை மீறல் மனு பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, நீதியரசர் அர்ஜுன ஒபேசேகர மற்றும் நீதியரசர் பிரியந்த பெர்னாண்டோ ஆகிய மூவரடங்கிய நீதியரசர்கள் குழாம் முன்னிலையில், திங்கட்கிழமை (15)  விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/8eac3686.json)
 
 ---
 
@@ -157,6 +245,8 @@ Furthermore, the PUCSL Chairman said that one of the main concerns that came fro
 ...
 
 [Data](articles/767ee45d.json)
+
+[Extended Data](ext_articles/767ee45d.ext.json)
 
 ---
 
@@ -2187,103 +2277,5 @@ AGO Gems, a renowned gem company in Vietnam also had a booth at the fair. AGO Ge
 [Data](articles/76693eec.json)
 
 [Extended Data](ext_articles/76693eec.ext.json)
-
----
-
-### China owned UAE’s One Road Group calls on BOI
-
-*2024-07-15 02:24:06* · [`dailyftlk`](https://www.ft.lk/business/China-owned-UAE-s-One-Road-Group-calls-on-BOI/34-764275) · `en`
-
-One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai, United Arab Emirates in the oil and gas industry, public transportation, car dealership, car rental and service, media, and project investment in the UAE and Gulf countries met the Board of Investment (BOI) Chairman Dinesh Weerakkody and officials of the Port City to identify potential investment opportunities. Sri Lankan Ambassador to the UAE Udaya Indrarathne also participated. One Road Group delegation was led by Group CEO Chenling Zhang and included Vice President Qiyi Xie, One Road Group (China) General Manager Juan Zhao,  Vice President (Cambodia) Jinfeng Jiao, Group General Manager – Finance YuanXia Liao, Oman President Wu Vice, Rankoll Energy DMCC Deputy General Manager YouYuan Jiang, Business Strategy Director Peng Wang,  One Road Group Project Manager WangQi Ma, Deputy General Manager Zefang Xie, Branding Supervisor PeiRan Zhao and General Manager (China) Zhong Lihong.
-
-◼️
-
-[Data](articles/a0e0eebc.json)
-
-[Extended Data](ext_articles/a0e0eebc.ext.json)
-
----
-
-### “Captain  Miller” the  LTTE’s First Black Tiger (Karumpuli) Suicide Bomber.
-
-*2024-07-15 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84368) · `en`
-
-“Captain Miller” is the name of an Indian film released on 12 January 2024. The block buster  Tamil Movie had popular actor Dhanush  acting  in the lead titular role of Captain Miller. The film was a fictional tale  about a heroic rebel who fought against British colonial rule. Reports state that the film is the highest ever  grossing film  starring Dhanush.
-
-One reason for the film’s  success was it’s title which evoked much interest and curiosity. “Captain Miller”was the nom de guerre of the Liberation Tigers  of Tamil Eelam(LTTE) suicide bomber who drove an explosive laden truck into an army camp in the north on  5 July 1987. This was the first time the LTTE had deployed a suicide bomber called “Black Tiger”or “Karumpuli”  in a military attack. The name of  Capt Miller  the first “Black tiger” strikes a responsive chord  among many Tamils. July 5th was annually observed as Black tigers day by the LTTE till May 2009.
-
-...
-
-[Data](articles/e71bb13b.json)
-
-[Extended Data](ext_articles/e71bb13b.ext.json)
-
----
-
-### The real revolution is to go ahead
-
-*2024-07-15 02:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னோக்கிச்-செல்வதே-உண்மையான-புரட்சி/175-340408) · `ta`
-
-President Ranil Wickremesinghe emphasizes true revolution as creating an environment for progress, not violence. At a land distribution event, he symbolically handed over land rights to 4,012 people, highlighting development over destruction.
-
-🟩
-
-There is no real revolution to kill people or burning homes. On the contrary, President Ranil Wickremesinghe said that the real revolution is to create an environment where the people can proudly move forward in the country.
-
-The President, who attended the Urumaya Permanent Land Revolution held yesterday at the Mahaweli Stadium in Tambuttegama.
-
-Mahaweli H in Anuradhapura district. And 4,012 people in 9 Mahaweli sections of the two zones of Huruluwewa were given free land guarantees. 47 Land Rectangles were symbolized by President Ranil Wickremesinghe. (A)
-
-◼️
-
-[Data](articles/4b49ab6a.json)
-
-[Extended Data](ext_articles/4b49ab6a.ext.json)
-
----
-
-### The event is to keep monuments in the fire
-
-*2024-07-15 02:12:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீகவாபி-தூபியில்-நினைவுச்-சின்னங்கள்-வைக்கும்-நிகழ்வு/175-340407) · `ta`
-
-Yesterday, under President Ranil Wickremesinghe's leadership, the restoration of Tikawabi, Sri Lanka's fourth-largest incense burner, began in 2020 by the Ministry of Defense. The event featured the Maha Sangam recitation, where the president was blessed with holy water at Deegawabi, and the Air Force offered floral tributes. The inauguration included the opening of a new shrine hall and feeding pavilion.
-
-🟩
-
-The event was held yesterday with the contribution of President Ranil Wickremesinghe in the historic Tigawabi Dubi.
-
-The reconstruction of Tikawabi, one of the fourth largest incense of Sri Lanka, was started by the Ministry of Defense in 2020.
-
-Amidst the recitation of the Maha Sangam, President Ranil Wickremesinghe was placed in holy ore at Deegawabi, and the Air Force paid floral tributes at the time.
-
-President Ranil Wickremesinghe inaugurated the newly constructed ore hall and Annadhana Mandapam. (A)
-
-◼️
-
-[Data](articles/e1a13608.json)
-
-[Extended Data](ext_articles/e1a13608.ext.json)
-
----
-
-### Dengue patients crossed 30 thousand
-
-*2024-07-15 02:07:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-30-ஆயிரத்தை-கடந்தனர்/175-340406) · `ta`
-
-In 2024, over 30,000 dengue cases were reported, with the highest numbers in Colombo (6,910) and the Western Province (11,661).
-
-🟩
-
-The National Infection Division has reported that the number of dengue patients has exceeded 30 thousand during this year.
-
-Accordingly, the number of dengue patients recorded in the period is 30 and 57. Most of the patients are reported in the Colombo district. It is 6,910.
-
-At the same time, 11 thousand 661 people have been affected in the Western Province so far in 2024. (A)
-
-◼️
-
-[Data](articles/57a4b2cc.json)
-
-[Extended Data](ext_articles/57a4b2cc.ext.json)
 
 ---

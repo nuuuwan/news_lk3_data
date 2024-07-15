@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 18:37:59**
+As of **2024-07-15 18:54:36**
 
 ## Newspaper Stats
 
-*Scraped **35,392** Articles*
+*Scraped **35,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,004
 economynextcom | 2,100
 dailyftlk | 2,231
 adalk | 3,189
-adaderanalk | 4,082
+adaderanalk | 4,083
 tamilmirrorlk | 4,271
 dailymirrorlk | 4,733
 virakesarilk | 5,511
@@ -26,15 +26,37 @@ adaderanasinhalalk | 5,916
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,387 (100.0%) of 35,392 articles have been extended.
+35,392 (100.0%) of 35,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
+### Sri Lanka to host ICC’s annual general meeting this week
+
+*2024-07-15 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100536/-sri-lanka-to-host-iccs-annual-general-meeting-this-week) · `en`
+
+Sri Lanka Cricket (SLC) will host the Annual Conference of the International Cricket Council (ICC) in Sri Lanka from July 19 to 22, 2024.
+
+In a statement, SLC mentioned that the mega cricket conference will bring together over 220 delegates from 108 ICC member countries from across the world, covering regions such as Africa, the Americas, Asia, East Asia Pacific, and Europe.
+
+The pinnacle gathering of cricket administrators and stakeholders from around the globe, the ICC Annual Conference provides the platform for discussions on the strategic direction of the sport, governance, and the development of cricket worldwide, it added.
+
+This year’s conference, themed “Capitalizing on the Olympic Opportunity,’ will discuss topics such as ‘Diversity and Inclusion,’ ‘environmental sustainability and the sport,’ and ‘Cricket’s triumphant return at LA28.
+
+...
+
+[Data](articles/9ebc3593.json)
+
+---
+
 ### GIT විභාගයේ අයදුම්පත් කැඳවීම ගැන දැනුම්දීමක්
 
 *2024-07-15 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198844) · `si`
+
+The General Information Technology (GIT) examination is calling applications from schools for the academic year 2023,2024. The Department of Examinations has announced that applications for this examination will be accepted online from July 12, 2024, to July 29, 2024. All applicants must submit their applications through their school principals or heads of private schools. It is mandatory for school principals/private school heads to visit the official websites www.doenets.lk or www.onlineexams.gov.lk/eic under the DOE mobile application and carefully follow the instructions to correctly submit their applications. Applications can only be submitted by students who passed the 2023 A/L GCE examination for the first time and scored 12 grades in 2023, or those expected to score 12 grades in 2024. Fees should be paid after private school children's details are entered into the system.
+
+🟩
 
 සාමාන්‍ය තොරතුරු තාක්ෂණ විභාගය 2023,2024 පාසල් අයඳුම්කරුවන්ට විශේෂ දැනුම්දීමක් සිදුකර තිබේ.
 
@@ -52,21 +74,29 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/ab1d8c3a.json)
 
+[Extended Data](ext_articles/ab1d8c3a.ext.json)
+
 ---
 
 ### තවත් තරුණයෙකුට දිවි අහිමිවෙයි
 
 *2024-07-15 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198843) · `si`
 
+A young man from Hatton, aged 20, was found dead upon admission to Chilaw hospital after drowning during a scuffle with another individual.
+
+🟩
+
 පොලීසිය ප්‍රකාශ කළේ තවත් පුද්ගලයෙකු සමග දැඳුරු ඔයේ දිය නෑමට ගිය අවස්ථාවේ ඔහු දියේ ගිලී ඇති බවය.
 
-පසුව ඔහු ගොඩට ගෙන හලාවත රෝහලට ඇතුළත් කිරීමේ දී මෙලෙස මියගොස් තිබේ.
+He was later killed and died on admission to the Chilaw hospital.
 
-මියගොස් ඇත්තේ 20 හැවිරිදි හැටන්, වටවන ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකු බව පොලීසිය පැවසුවේය.
+The victim was a 20 year old resident of Hatton, a resident of the area.
 
 ◼️
 
 [Data](articles/58d75d7a.json)
+
+[Extended Data](ext_articles/58d75d7a.ext.json)
 
 ---
 
@@ -180,21 +210,27 @@ A bond maturing on 01.12.2031 closed at 12.35/60 percent. (Colombo/Jul15/2024)
 
 ---
 
-### கணவனைக் கொன்ற மனைவிக்கு வலை
+### Web to the wife who killed her husband
 
 *2024-07-15 17:12:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனைக்-கொன்ற-மனைவிக்கு-வலை/175-340448) · `ta`
 
-குடும்ப தகராறு முற்றிய நிலையில் மனைவி உள்ளிட்ட சிலர், கணவனை வெட்டி படுகொலை செய்துள்ளதாக மொரட்டுவ பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic incident, a 42-year-old father was murdered in Moratuwa, Sri Lanka, allegedly by his wife and her brother. The woman lured her husband home under false pretenses before carrying out the killing with her sibling's assistance.
+
+🟩
+
+Moratuwa police say that some people, including a wife, have been hacked to kill her husband in the wake of a family dispute.
 
 உயிரிழந்தவர் 42 வயதுடைய நபர் ஒரு பிள்ளையின் தந்தை என பொலிஸார் தெரிவிக்கின்றனர்.
 
-மொரட்டுவ, ரதுகுருசாவத்த, லக்ஷபதிய பிரதேசத்தை சேர்ந்த ஒருவரே இவ்வாறு கொல்லப்பட்டுள்ளதாக தெரிவித்த மொரட்டுவ பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+The Moratuwa police have said that a man from Moratuwa, Rathukurusawatta and Lakshapatiya area has been killed.
 
 உயிரிழந்தவரின் மனைவி, தனது சகோதரனை வீட்டுக்கு வரவழைத்ததாகவும், அவரின் உதவியுடன் இந்த கொலையை செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
 
 ◼️
 
 [Data](articles/3573fcb2.json)
+
+[Extended Data](ext_articles/3573fcb2.ext.json)
 
 ---
 
@@ -294,19 +330,25 @@ During that period, “temporary passports” had been issued for them to leave 
 
 ---
 
-### இம்ரான் கானின் கட்சிக்கு தடை
+### Imran Khan's party prohibited
 
 *2024-07-15 16:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்ரான்-கானின்-கட்சிக்கு-தடை/50-340447) · `ta`
 
+Pakistan's government, led by Shehbaz Sharif, has banned Imran Khan's Pakistan Tehreek-e-Insaf (PTI) party, citing involvement in anti-state activities and illegally receiving foreign funds. This decision has caused political upheavals as PTI is the largest opposition party. The reasons for the ban include allegations of PTI engaging in anti-state actions and illegally obtaining foreign funding, which have been confirmed by Minister Ataullah Tarar. The government has also decided to register treason cases against Imran Khan and former President Arif Alvi.
+
+🟩
+
 சிறையில் அடைக்கப்பட்டுள்ள பாகிஸ்தானின் முன்னாள் பிரதமர் இம்ரான் கானின் பாகிஸ்தான் தெஹ்ரீக்-இ-இன்சாப் (பிடிஐ) கட்சியை தடை செய்ய ஷெபாஸ் ஷெரீப் தலைமையிலான அந்நாட்டு அரசு முடிவு செய்துள்ளது.
 
-இந்த தகவலை அந்நாட்டு அமைச்சர் அட்டாவுல்லா தரார் உறுதிப்படுத்தியுள்ளார். இது அந்நாட்டு அரசியலில் அதிர்வலைகளை ஏற்படுத்தியுள்ளது. ஏனென்றால், இம்ரான் கானின் பாகிஸ்தான் தெஹ்ரீக்-இ-இன்சாப் கட்சி பாகிஸ்தானின் மிகப்பெரிய எதிர்க்கட்சியாகும்.
+இந்த தகவலை அந்நாட்டு அமைச்சர் அட்டாவுல்லா தரார் உறுதிப்படுத்தியுள்ளார். இது அந்நாட்டு அரசியலில் அதிர்வலைகளை ஏற்படுத்தியுள்ளது. This is because Imran Khan's Pakistan Tehreek-e-Insaf is the largest opposition party in Pakistan.
 
 பிடிஐ கட்சிக்கு தடை விதிக்க இருப்பதற்கான காரணங்கள் குறித்து செய்தியாளர்கள் கேள்விக்கு பதிலளித்த அட்டாவுல்லா தரார், “பிடிஐ கட்சி தேச விரோத செயல்களில் ஈடுபட்டுள்ளது. சட்டவிரோதமாக வெளிநாட்டு நிதிகளை அக்கட்சி பெற்றுள்ளது. அதற்கு நம்பத் தகுந்த ஆதாரங்கள் உள்ளன. வெளிநாட்டு நிதியுதவி வழக்கு, மே 9 கலவரம் போன்ற பல்வேறு காரணங்களின் அடிப்படையில் இம்ரான் கானின் கட்சியை தடை செய்ய முடிவெடுக்கப்பட்டுள்ளது.
 
 ...
 
 [Data](articles/f6abe04a.json)
+
+[Extended Data](ext_articles/f6abe04a.ext.json)
 
 ---
 
@@ -414,11 +456,17 @@ The deceased has been identified as 52 year old Sinhapura Welikanda.
 
 *2024-07-15 16:20:33* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-වෙයි/11-410793) · `si`
 
+ශ්‍රී ලංකාවේ විදුලි ගාස්තුව පහල කරන ප්‍රතිපත්තියක් ඇමතියේ. හෙට සිට ක්‍රියාත්මක වන පරිදි විදුලි ගෘහස්ථ ගාස්තුව 27% කින් පහල කරන අතර, රාජ්‍ය හා පුන්‍ය ආයතන එක්ව සමස්ථ විදුලි බිල 22.5% කින් පහළ කරන ප්‍රතිපත්තියක් තීරණය කර තිබෙනවා.
+
+🟩
+
 හෙට (16) සිට ක්‍රියාත්මක වන පරිදි විදුලි ගෘහස්ථ විදුලි ගාස්තු 27% කින් පහල දැමෙන අතර අනෙකුත්  කර්මාන්ත රාජ්‍ය හා පුන්‍ය ආයතන ඒක්ව ගත්විට සමස්ථ විදුලි බිල 22.5% කින් පහළ දැමීමට ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව තීරණය කර තිබෙනවා.
 
 ◼️
 
 [Data](articles/1697e9b4.json)
+
+[Extended Data](ext_articles/1697e9b4.ext.json)
 
 ---
 
@@ -2321,25 +2369,5 @@ The Election Commission and its members, the General Secretary of Parliament and
 [Data](articles/e75f5025.json)
 
 [Extended Data](ext_articles/e75f5025.ext.json)
-
----
-
-### Sri Lanka’s economic recovery underscores power of working together for the greater good – President
-
-*2024-07-15 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100511/sri-lankas-economic-recovery-underscores-power-of-working-together-for-the-greater-good-president) · `en`
-
-President Ranil Wickremesinghe emphasized that true revolutions are not about violence or destruction, but about creating a foundation where people can advance with dignity.
-
-Pointing out that the “Urumaya” program has been able to create that background for the people of Sri Lanka, the President said that everyone should unite with the “Urumaya” program, which will popularize the genuine socialist ideals beyond partisan politics.
-
-The President made these remarks at the “Urumaya” freehold land deeds award ceremony held at Tambuttegama Mahaweli Stadium, where he symbolically awarded 47 freehold land deeds. Accordingly, 4,012 individuals across nine Mahaweli divisions in the Anuradhapura district received their freehold land rights.
-
-“I visited Tambuttegama area 50 years ago, in 1974. At that time, there was a contention within the Bandaranaike family regarding who would step forward after the passing of Mr. Ratnamalana, a member of the Left Front who was active here.
-
-...
-
-[Data](articles/750dc1d4.json)
-
-[Extended Data](ext_articles/750dc1d4.ext.json)
 
 ---

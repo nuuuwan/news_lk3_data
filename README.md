@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 12:35:15**
+As of **2024-07-15 12:53:17**
 
 ## Newspaper Stats
 
-*Scraped **35,322** Articles*
+*Scraped **35,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
-adalk | 3,184
+adalk | 3,185
 adaderanalk | 4,067
 tamilmirrorlk | 4,258
 dailymirrorlk | 4,733
 virakesarilk | 5,504
-adaderanasinhalalk | 5,896
+adaderanasinhalalk | 5,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,313 (100.0%) of 35,322 articles have been extended.
+35,322 (100.0%) of 35,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### තියුණු ආයුධයකින් කපා කොටා පුද්ගලයෙකු ඝාතනය කෙරේ
+
+*2024-07-15 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198826) · `si`
+
+මොරටුව ලක්ෂපතිය රතුකුරුස වත්ත ප්‍රදේශයේ නිවසක අද (15) අලුයම තියුණු ආයුධයකින් කපා කොටා පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 41 හැවිරිදි හරේන්ද්‍ර කුමාර නොහොත් "පොඩි අයියා" නැමැති පුද්ගලයෙකි.
+
+ඝාතන සිද්ධිය සම්බන්ධයෙන් සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගැනීමට මොරටුව පොලිස් ස්ථානය කටයුතු කර තිබුණි.
+
+කුමන කරුණක් සම්බන්ධව ඝාතනය සිදුවූවාද යන්න තමවත් අනාවරණ වී නොමැති අතර මොරටුව පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+ප්‍රදේශවාසීන් ප්‍රකාශ කළේ, ඊයේ රාත්‍රී 11ට පමණ අදාළ නිවස ආසන්නයෙන් කෑගසන සද්දයක් ඇසුණු බවත් ඉන් සුළු වේලාවකට පසු නිවසේ පිරිත් නාදවීම හේතුවෙන් නිවසට ළඟා නොවූ බවය.
+
+කෑ ගැසීමට නොහැකි ආකාරයෙන් බිරිඳව කඹයකින් ගැට ගසා තිබී ඇති අතර, පසුව ඇය කෙසේ හෝ උත්සාහ කර ජංගම දුරකථනයෙන් අසල්වාසී කාන්තාවකට ඇමතුමක් ගෙන තිබේ.
+
+පසුව දුරකථනයෙන් කෙඳිරි හඬක් ඇසීම හේතුවෙන් ඇමතුම දුන් කාන්තාව නිවසට පැමිණ බැලීමේ දී මෙම විපත දැක ඇත.
+
+◼️
+
+[Data](articles/fcad0d14.json)
+
+---
+
+### පාස්කු වන්දි ගෙවීමට මෛත්‍රීට ඇතුළු පිරිසට අධිකරණයෙන් දින දෙයි
+
+*2024-07-15 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198825) · `si`
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීම සම්බන්ධයෙන් වන්දි ගෙවීමට නියම වී සිටින පිරිසට ගෙවීමට නියමිත වන්දි මුදල් අගෝස්තු මස 30 වනදාට පෙර ගෙවා අවසන් කළ යුතු බව ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
+
+හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන, හිටපු පොලිස්පති පූජිත ජයසුන්දර සහ හිටපු රාජ්‍ය බුද්ධි සේවයේ ප්‍රධානී නිලන්ත ජයවර්ධන යන මහත්වරුන්ට එරෙහිව මෙම නියෝගය ලබා දී ඇත.
+
+එදිනට පෙර අදාළ මුදල් ගෙවා අවසන් නොකරන්නේ නම් එම පුද්ගලයින්ට එරෙහිව අධිකරණයට අපහාස කිරීමේ චෝදනා යටතේ ලබන සැප්තැම්බර් මස 20 වනදා ට පෙර චෝදනා ඉදිරිපත් කිරීමට පියවර ගන්නා ලෙසත් සත් පුද්ගල ශ්‍රේෂ්ඨාධිකරණ මඩුල්ල විසින් නීතිපතිවරයාට නියෝග කළේය.
+
+◼️
+
+[Data](articles/372bb7ff.json)
+
+---
 
 ### Maithripala given deadline to complete compensation payments to Easter attack victims
 
@@ -45,6 +85,8 @@ Furthermore, the seven-member Supreme Court judge panel has ordered that if the 
 ◼️
 
 [Data](articles/5a859b9a.json)
+
+[Extended Data](ext_articles/5a859b9a.ext.json)
 
 ---
 
@@ -61,6 +103,8 @@ The deceased had been bathing in Deduru Oya with his wife and three others, acco
 ◼️
 
 [Data](articles/73117c78.json)
+
+[Extended Data](ext_articles/73117c78.ext.json)
 
 ---
 
@@ -98,17 +142,23 @@ Opposition Leader Sajith Premadasa visited the Mannar office of Selvam Adakkalan
 
 ---
 
-### තවත් රැඳවියෙක් මොළේ උණ වැළඳී මරුට
+### Another inmate dies after brain fever
 
 *2024-07-15 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198824) · `si`
 
-අදාළ රැඳවියා කරාපිටිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී පසුගිය සෙනසුරාදා දිනයේ මියගොස් ඇති බව බන්ධනාගාර සෞඛ්‍ය සේවා අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා පැවසුවේය.
+Inmate dies from brain fever; three others treated at Karapitiya Hospital.
 
-මේ වන විට තවත් රැඳවියන් තිදෙනෙකුට මොළේ උණ වැළඳී ඇති අතර ඔවුන් කරාපිටිය රෝහලේ ප්‍රතිකාර ලබන බව වෛද්‍ය හේමන්ත රණසිංහ මහතා වැඩිදුරටත් පැවසුවේය.
+🟩
+
+Prison Health Services Dr. Hemantha Ranasinghe said that the inmate had died on Saturday while receiving treatment at the Karapitiya Hospital.
+
+Three other detainees have been receiving brain fever and is receiving treatment at the Karapitiya Hospital.
 
 ◼️
 
 [Data](articles/11e7a77a.json)
+
+[Extended Data](ext_articles/11e7a77a.ext.json)
 
 ---
 
@@ -382,6 +432,8 @@ In equities, Colombo’s All Share Price Index opened 20.70 points higher at 11,
 
 [Data](articles/0ee3325a.json)
 
+[Extended Data](ext_articles/0ee3325a.ext.json)
+
 ---
 
 ### 58 out of 100 paid and give the rest to six years - Maithri
@@ -404,6 +456,28 @@ The former President has also asked the court to give the remaining six years to
 
 ---
 
+### රන් බිස්කට් හොරෙන් ගෙනා මන්ත්‍රී අලි සබ්රි අධික වටිනාකමින් යුත් රජයේ ඉඩමක් බලෙන් අල්ලාගෙන
+
+*2024-07-15 10:57:14* · [`adalk`](https://www.ada.lk/breaking_news/රන්-බිස්කට්-හොරෙන්-ගෙනා-මන්ත්‍රී-අලි-සබ්රි-අධික-වටිනාකමින්-යුත්-රජයේ-ඉඩමක්-බලෙන්-අල්ලාගෙන/11-410789) · `si`
+
+පුත්තලම නගරයේ ඉහළ වානිජ  වටිනාකමකින් යුත් යුත් රජයට අයත් ඉඩමක් පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි අලි සබ්රී රහිම් මහතා නීති විරෝධිව අත්පත් කර ගෙන ඇති බව වාර්තාවෙයි.
+
+අදලා ඉඩම පුත්තලම නගරයෙ ටෙලිකොම් ආයතනයට යාබදව හා පැරණි අශෝකා සිනමා හලට මැදිව පිහිටි පර්චස් 25 කට ආසන්න ඉඩමක් බව කියයි.
+
+මෙම ඉඩම පසුගිය දිනක මන්ත්‍රිවරයා විසින් මෙලෙස ඔහුගේ බලතල අනිසි ලෙස භාවිතා කරමින් අත්පත් කර ගෙන ඇති බව කියයි.
+
+අදාල ඉඩම දැනට පුත්තලම නගරයෙ වානිජ වටිනාකමකින් ඉහලම මිලක් ඇති ස්ථානයක් බවත් එය මන්ත්‍රිවරයා විසින් තහඩු ගසා ආවරණය කර ඇති බවට රිඝුව චෝදනා එල්ල වෙති .
+
+මේ සම්බන්ධව එල්ල වන චෝදනා සම්බන්ධයෙන් පුත්තලම දිස්ත්‍රික් පාර්ලමේන්තු මන්ත්‍රි අලි සබ්රි රහිම් මහතාගෙන් කල විමසිමේදි පවසා සිටියෙ මෙවැන්නකී.
+
+“ඇත්තටම මේ ඉඩම මම අල්ලගෙන නැහැ එයට යාබදව තිබෙන ඉඩම බදු පදනමින් ලබා ගැනිම කලා.එය කලේ මගේ පවුලේ අයට අයත් ඉන්ටර්නැෂනල් සමාගමක වාහන වාහන ගාල් කිරීමේ ස්ථානයක් ආරම්භ කරන්න.
+
+...
+
+[Data](articles/503b878d.json)
+
+---
+
 ### More than half of Rs. 100 million compensation already paid - Maithripala’s lawyers tell SC
 
 *2024-07-15 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100515/more-than-half-of-rs-100-million-compensation-already-paid-maithripalas-lawyers-tell-sc) · `en`
@@ -417,6 +491,8 @@ On July 11, 2023, the former President completed paying Rs. 15 million as part o
 ...
 
 [Data](articles/8124030e.json)
+
+[Extended Data](ext_articles/8124030e.ext.json)
 
 ---
 
@@ -459,6 +535,8 @@ Solar Universe’s agrivoltaic project “integrates solar energy production wit
 ...
 
 [Data](articles/d061384b.json)
+
+[Extended Data](ext_articles/d061384b.ext.json)
 
 ---
 
@@ -510,23 +588,29 @@ Trump, 78, was holding a campaign rally in Butler, Pennsylvania - a key state in
 
 ---
 
-### විහාරස්ථානයේ ආරාවුලකින් හිමිවරු දෙනමක් සහ පොලිස් නිලධාරියෙක් රෝහලේ
+### A police officer at the temple was hospitalized
 
 *2024-07-15 10:38:12* · [`adalk`](https://www.ada.lk/breaking_news/විහාරස්ථානයේ-ආරාවුලකින්-හිමිවරු-දෙනමක්-සහ-පොලිස්-නිලධාරියෙක්-රෝහලේ/11-410787) · `si`
 
-බෙන්තොට පොලිස් වසමේ පිහිටි අතුරුවැල්ල ධර්ම ශ්‍රී වර්ධනාරාම විහාරස්ථානයේ දී ඊයේ රාත්‍රි ඇතිවූ ගැටුම්කාරී තත්වයකදී  භික්ෂූන් වහන්සේලා දෙනමක් සහ පොලිස් කොස්තාපල්වරයෙකු  තුවාල ලබා ඇතැයි බෙන්තොට පොලීසිය කියයි.
+In Bentota, a police officer was hospitalized after a clash involving police and Buddhist monks. Monks were arrested for questioning, while others fled the scene. The incident led to increased police presence at the temple.
 
-එමෙන්ම මේ ගැටුම ගැන  සැකපිට ප්‍රශ්න කිරීම සඳහා එම විහාරවාසීව සිටි භික්ෂූන්වහන්සේලා දෙනමක් සහ ප්‍රදේශවාසියෙකු අත් අඩංගුවට ගත් බවද පොලීසිය පැවසීය.
+🟩
 
-තුවාල ලැබූ භික්ෂූන් වහන්සේලා දෙනම කලුතර මහ රෝහලටද පොලිස් කොස්තාපල්වරයා බෙන්තොට රෝහලට ද ඇතුළත් කර තිබේ.
+Bentota Police say that a police constable and a police constable was injured in a clash at the Bentota Police Division in the Bentota Police Division.
 
-හොරණ ප්‍රදේශයේ සිට ඊයේ සවස මෙම විහාරථානයට පැමිණ ඇතැයි කියන භික්ෂූන් වහන්සේලා පිරිසක් හා විහාරථානයේ සිටි භික්ෂුන් වහන්සේලා අතර විහාරස්ථානයේ භාරකාරත්වය පිළිබඳව ආරාවුලක් හටගෙන ඇති බවත් පසුව දායක පිරිසක්ද විහාරස්ථානයට පැමිණ  මේ සඳහා මැදිහත්වී ඇතැයිද   පොලීසිය කියයි.
+He was arrested by the monks and a resident of the area to interrogate the clash.
 
-බෙන්තොට පොලීසිය මගින් පොලිස් ආරක්ෂාව යොදා කලබලකාරී තත්වය  පාලනය කිරීමට යාමේදී කොස්තාපල් වරයා තුවාල ලද  බව පොලීසිය පවසයි. මේ වන විට සියලුම භික්ෂූන් වහන්සේලා පන්සලෙන්  ඉවත්ව ගොස් ඇති අතර විහාරස්ථානයට පොලිස් ආරක්ෂාව යොදා තිබේ.
+The Buddhist monks who received injuries were admitted to the Bentota Hospital.
+
+Among the monks and a group of Buddhist monks and monks who had come to the temple from Horana have come to the temple and the monks have come to the temple.
+
+The constable was injured when the Bentota Police have gone up the preaching of police protection.All Buddhist monks have left the temple and police protection has been deployed to the temple.
 
 ◼️
 
 [Data](articles/cd8344f8.json)
+
+[Extended Data](ext_articles/cd8344f8.ext.json)
 
 ---
 
@@ -762,6 +846,8 @@ Importers try to cover early and exporters try to delay, when the exchange rate 
 
 [Data](articles/fbd61871.json)
 
+[Extended Data](ext_articles/fbd61871.ext.json)
+
 ---
 
 ### Leader of Nepal’s largest communist party named country’s new prime minister
@@ -963,6 +1049,8 @@ The share of people who believe that the country’s economic conditions are “
 ...
 
 [Data](articles/744cb64e.json)
+
+[Extended Data](ext_articles/744cb64e.ext.json)
 
 ---
 
@@ -2135,59 +2223,5 @@ A youth from the van was injured and admitted to the Dambulla hospital.
 [Data](articles/9b6eae86.json)
 
 [Extended Data](ext_articles/9b6eae86.ext.json)
-
----
-
-### Need Archana
-
-*2024-07-14 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188406) · `ta`
-
-Sri Lanka faces rampant corruption, fraud, and political scandals like the Avanankad scandal, Helping Hambantota project, and Central Bank Bailout Frauds, with allegations of self-serving leaders.
-
-🟩
-
-Corruption, fraud, social treachery, political intrigues are routine in the Sri Lankan environment. We have been talking about this for a long time. We claim that the rulers have plundered the country and ruled themselves. The list includes the fraudulent affairs of the Avanankad scandal, Helping Hambantota, Central Bank Bailout Frauds.
-
-◼️
-
-[Data](articles/8805d765.json)
-
-[Extended Data](ext_articles/8805d765.ext.json)
-
----
-
-### Sampanthan is not an individual?
-
-*2024-07-14 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188409) · `ta`
-
-The text lists various individuals from different locations, including Sampanthan, Thirunavukkarasam, Amirthalingam, Navaratnam, Sivasidhambaram, Yogeswaran, Anandasankari, Susidasan, RC Sivasithambaram, Rasadurai, Ganesalingam, Pottiril Ganesalingam, and Pottuvil Kanagarathinam, without specifying roles or relationships between them.
-
-🟩
-
-Thirunavukkarasam in Kayts, Thirunavukkarasam at Vaddukkottai, Amirthalingam in Manipayil. My. Navaratnam, Nallur. Sivasidhambaram, Yogeswaran in Jaffna, Anandasankari in Kilinochchi, Susidasan in Mannar, RC Sivasithambaram in Vavuniya, Rasadurai in Batticaloa, Ganesalingam in Batticaloa, Pottiril Ganesalingam and Pottuvil Kanagarathinam from Trincomalee.
-
-◼️
-
-[Data](articles/a686e540.json)
-
-[Extended Data](ext_articles/a686e540.ext.json)
-
----
-
-### The general rage of European politics
-
-*2024-07-14 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/188410) · `ta`
-
-European politics show a trend towards blurring traditional right-wing ideologies due to globalization, which fosters a global market economy through resource and idea exchange, affecting cultural values and perceptions.
-
-🟩
-
-The spread of the uninterrupted market was a tendency to blur the ideas of the right -wing. Globalization is a key aspect of globalization that the global market economy will develop by exchanging resources and ideas by exchange of cultural values ​​and ideas on behalf of globalization.
-
-◼️
-
-[Data](articles/64a72570.json)
-
-[Extended Data](ext_articles/64a72570.ext.json)
 
 ---

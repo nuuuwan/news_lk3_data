@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 17:05:14**
+As of **2024-07-15 17:20:03**
 
 ## Newspaper Stats
 
-*Scraped **35,372** Articles*
+*Scraped **35,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,81 @@ islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,188
-adaderanalk | 4,078
+adaderanalk | 4,079
 tamilmirrorlk | 4,269
 dailymirrorlk | 4,733
 virakesarilk | 5,508
-adaderanasinhalalk | 5,913
+adaderanasinhalalk | 5,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,368 (100.0%) of 35,372 articles have been extended.
+35,372 (100.0%) of 35,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### පියුමි හංසමාලී අත්අඩංගුවට ගැනීම ගැන නීතිපතිගෙන් දැනුම්දීමක්
+### ජනපති සහ නීතිඥවරු අතර හමුවක්
+
+*2024-07-15 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198842) · `si`
+
+සාම්ප්‍රදායික දේශපාලනයෙන් ඉවත්ව රට ගැන සිතා කටයුතු කරන දේශපාලන සංස්කෘතිකයක් රටේ ඉදිරි ගමන වෙනුවෙන් අත්‍යවශ්‍ය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කරයි.
+
+එහිදී පක්ෂ, විපක්ෂ සියලු දේශපාලන නායකයන්ට පැවරී ඇති වගකීම සුළුකොට තැකිය නොහැකි බව පැවසූ ජනාධිපතිවරයා දේශපාලන අරමුණුවලින් බැහැරව රටේ ආර්ථිකය නඟා සිටුවීමේ වැඩපිළිවෙලට සියලුදෙනාගේ සහාය හිමිවිය යුතු බවද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නීතිඥවරු පිරිසක් සමඟ පසුගියදා ජනාධිපති කාර්යාලයේ පැවති හමුවේදීය.
+
+දේශපාලනය කිරීමට ඕනෑම අයෙකුට අයිතිය තිබෙන නමුත් රට ඉදිරියට ගෙන යන ආර්ථික රාමුව බිඳ දැමීමට කිසිවෙකු කටයුතු නොකළ යුතු බව පැවසූ ජනාධිපතිවරයා, ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ ගිවිසුමට අත්සන් තැබීමත් සමඟ පසුගිය සති කිහිපය තුළ මෙන්ම ඊට පෙර සිදු වූ වැඩවර්ජන ඉදිරි ජනාධිපතිවරණය ඉලක්ක කර ගනිමින් ක්‍රියාත්මක වූ ඒවා බවද පෙන්වා දුන්නේය.
+
+◼️
+
+[Data](articles/0ff3edaf.json)
+
+---
+
+### Over 10,000 Sri Lankans return from Kuwait during general amnesty
+
+*2024-07-15 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100530/over-10000-sri-lankans-return-from-kuwait-during-general-amnesty) · `en`
+
+The Embassy of Sri Lanka in Kuwait said that a total of 10,615 Sri Lankan nationals, who were illegally staying in Kuwait and overstayed their visas, have left the country during the “general amnesty period” declared by the Kuwait government for 2024.
+
+This general amnesty period was declared from March 17 to June 30, 2024 as a result of the discussions held by the Ministry of Foreign Affairs of the State of Kuwait and the Embassy of Sri Lanka in Kuwait.
+
+During that period, “temporary passports” had been issued for them to leave the country based on only a few basic documents.
+
+◼️
+
+[Data](articles/ff178ea4.json)
+
+---
+
+### Attorney General's notice of the arrest of Piyumi Hansamali
 
 *2024-07-15 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198841) · `si`
 
-මුදල් විශුද්ධිකරණය සම්බන්ධයෙන් විමර්ශනයකට භාජනය වී සිටින නිරූපණ ශිල්පිණියක වන පියුමි හංසමාලි ලබන සැප්තැම්බර් මස 20 වනදා දක්වා අත්අඩංගුවට ගැනීමක් නොකරන බවට අභියාචනාධිකරණය හමුවේ නීතිපතිවරයා විසින් දැනුම් දී තිබේ.
+Piyumi Hansamali, a modeling manufacturer under investigation for money laundering, will not be arrested until September 20, as per the Attorney General's notice to the Court of Appeal. The court allowed the investigation to proceed uninterrupted despite her petition filed today.
 
-එහෙත් පියුමි හංසමාලිට එරෙහි විමර්ශන බාධාවකින් තොරව ඉදිරියට පවත්වාගෙන යා හැකි බවත් අධිකරණය සඳහන් කළේය.
+🟩
 
-තමන්ව අත්අඩංගුවට ගැනීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා පියුමී හංසමාලි විසින් ඉදිරිපත් කළ රිට් පෙත්සමක් අද (15) අභියාචනාදීකරණය හමුවේ සලකා බැලූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකර තිබේ.
+The Attorney General has informed the Court of Appeal that a modeling manufacturer, who is investigating the money laundering, not to be arrested until September 20.
 
-මෙම පෙත්සම අද අභියාචනාධිකරණ විනිසුරු සෝභිත රාජකරුණා මහතා ඉදිරියේ කැඳවනු ලැබීය.
+However, the court stated that Piyumi's investigation can be carried out without interruption.
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිස්ටර් ජෙනරාල්වරයා අධිකරණයට දන්වා සිටියේ, විමර්ශන කටයුතු අවසන් වනතුරු පෙත්සම්කාරිය අත්අඩංගුවට ගැනීමක් නොකරන බවය.
+This notification was made when he considered a Rit petition filed by Piyumi Hansamali today (15).
 
-ඒ අනුව පෙත්සම වැඩිදුර සලකා බැලීම සඳහා සැප්තැම්බර් මස 20 වන දා කැඳවීමටද දින නියම වුණි.
+The petition was called before the Court of Appeal today before the Court of Appeal Judge Sobhithana Rajakaruna.
+
+The Deputy Solicitor General who appeared in behalf of the Attorney General informed the court that the petitioner would not be arrested until investigations were over.
+
+Accordingly, the petition was also taken to call on September 20th.
 
 ◼️
 
 [Data](articles/42521650.json)
+
+[Extended Data](ext_articles/42521650.ext.json)
 
 ---
 
@@ -70,23 +110,31 @@ The government will also file a legal reference against Khan and former Presiden
 
 [Data](articles/45dc3a2e.json)
 
+[Extended Data](ext_articles/45dc3a2e.ext.json)
+
 ---
 
-### කැබ් රථ අනතුරින් රියදුරු මරුට - 5ක් රෝහලට
+### Driver killed in cab accident - 5 hospitalized
 
 *2024-07-15 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198840) · `si`
 
-වැලිකන්ද පොලිස් වසමේ කැබ් රථ අනතුරකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In a tragic cab accident in Welikanda, one driver died and five passengers were injured, all taken to Polonnaruwa Hospital.
 
-අද (15) උදෑසන කාලයේ වැලිකන්ද සිංහපුර මාර්ගයේ සිංහපුර දෙස සිට වැලිකන්ද දෙසට ධාවනය කරන ලද කැබ් රථයක් එහි රියදුරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට පැන ගසක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය පැවසුවේය.
+🟩
 
-අනතුරින් කැබ් රථයේ රියදුරු මිය ගොස් ඇති අතර එහි ගමන් ගත් පුද්ගලයින් 05 දෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා පො‍ළොන්නරුව රෝහලට ඇතුළත් කර තිබේ.
+A man was killed in a cab accident in Welikanda police division.
 
-අනතුරෙන් මිය ගොස් ඇත්තේ 52 හැවිරිදි සිංහපුර වැලිකන්ද ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The accident had occurred when a cab running out of the Welikanda Sinhapura road today (15), police said.
+
+The driver of the cab has been killed and five persons who were traveling were injured and rushed to the Polonnaruwa Hospital.
+
+The deceased has been identified as 52 year old Sinhapura Welikanda.
 
 ◼️
 
 [Data](articles/aca2b4ba.json)
+
+[Extended Data](ext_articles/aca2b4ba.ext.json)
 
 ---
 
@@ -107,6 +155,8 @@ However, it was later revealed that the deceased’s wife, who had been tied up 
 ...
 
 [Data](articles/8158d893.json)
+
+[Extended Data](ext_articles/8158d893.ext.json)
 
 ---
 
@@ -2273,37 +2323,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/84157fc9.json)
 
 [Extended Data](ext_articles/84157fc9.ext.json)
-
----
-
-### PayMedia triumphs at SLASSCOM Ingenuity Awards 2024
-
-*2024-07-15 06:42:00* · [`islandlk`](http://island.lk/paymedia-triumphs-at-slasscom-ingenuity-awards-2024/) · `en`
-
-PayMedia has once again demonstrated its prowess in digital innovation by winning two prestigious awards at the SLASSCOM Ingenuity Awards 2024. The company secured accolades in the highly competitive category of Best Innovation Product/Project in FinTech and Banking, cementing its reputation as a frontrunner in the industry.
-
-...
-
-[Data](articles/8d02a0c2.json)
-
-[Extended Data](ext_articles/8d02a0c2.ext.json)
-
----
-
-### The Spain is the European Football Trop
-
-*2024-07-15 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198811) · `si`
-
-In the 2024 European Cup, Spain triumphed over England, securing the trophy as Europe's top football nation.
-
-🟩
-
-Spain was able to defeat England in the end of the 2024 European cup.
-
-◼️
-
-[Data](articles/be2e69da.json)
-
-[Extended Data](ext_articles/be2e69da.ext.json)
 
 ---

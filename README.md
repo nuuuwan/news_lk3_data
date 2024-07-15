@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 13:20:08**
+As of **2024-07-15 13:35:55**
 
 ## Newspaper Stats
 
-*Scraped **35,331** Articles*
+*Scraped **35,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,185
-adaderanalk | 4,070
+adaderanalk | 4,071
 tamilmirrorlk | 4,258
 dailymirrorlk | 4,733
 virakesarilk | 5,504
-adaderanasinhalalk | 5,899
+adaderanasinhalalk | 5,901
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,327 (100.0%) of 35,331 articles have been extended.
+35,331 (100.0%) of 35,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Body of 41-year-old murder victim found inside torched vehicle
+
+*2024-07-15 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100523/body-of-41-year-old-murder-victim-found-inside-torched-vehicle-) · `en`
+
+A 41-year-old man has been murdered and his body placed inside a vehicle which had then been set on fire in the Uppuveli area, according to police.
+
+Preliminary police investigations have uncovered that the murder has taken place in the early hours of yesterday (14) over a personal dispute.
+
+The deceased, a resident of the Alaswatta area in Trincomalee, owns and operates a shop in the same locality, the police said.
+
+On the day of the incident, he was inside his store with two others when the assailants had arrived on a motorcycle. They had assaulted the victim, abducted him using his own double cab, and later murdered him, according police.
+
+His body had been taken to a wooded area in Morawewa and placed inside the same vehicle which was then set ablaze by the suspects.
+
+Police have identified three suspects involved in the incident, while one of them, a 24-year-old resident of Kuchchaveli, has been arrested.
+
+...
+
+[Data](articles/6f65996f.json)
+
+---
+
+### තරුණයෙකු දුම්රියේ ගැටී මියයාම ගැන මව්පියන්ගෙන් පොලීසියට චෝදනා
+
+*2024-07-15 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198829) · `si`
+
+අඟුලාන ප්‍රදේශයේ තරුණයෙකු මියයාමක් සම්බන්ධයෙන් එම තරුණයාගේ මව්පියන් පොලීසිය වෙත චෝදනා එල්ල කරයි.
+
+අඟුලාන ප්‍රදේශයේ නිවසක ඊයේ (14) රාත්‍රි පැවති සාදයක් අතරතුරදී කලහාකාරී ලෙස හැසිරුණු තරුණයෙකු සම්බන්ධයෙන් පොලීසියට පැමිණිල්ලක් ලැබී තිබිණි.
+
+පසුව අඟුලාන පොලිස් නිලධාරීන් කණ්ඩායමක් ඊයේ රාත්‍රියේ පැමිණ තරුණයා රැගෙන යාමට කටයුතු කළ අවස්ථාවේ තරුණයා පොලිසියෙන් මිදී පළාගොස් තිබේ.
+
+පොලිසියෙන් පළාගිය තරුණයාව සිය මව්පියන් යළි නිවස වෙත රැගෙන ඒමට කටයුතු කර ඇති අතර ඔහු රාත්‍රී ආහාරයද ගෙන නින්දට ගොස් තිබිණි.
+
+අනතුරුව අද (15) අලුයම පොලිස් නිලධාරීන් පිරිසක් යළි තම නිවස වෙත පැමිණි බවත් එහිදී සිය පුත්‍රයා ඔවුන්ගෙන් මිදීමට පළා ගිය බවත් තරුණයාගේ මව්පියන් පවසයි.
+
+පසුව අද පෙරවරු 7ට පමණ සිය පුත්‍රයා දුම්රියට පැන ජීවිතක්ෂයට පත්වූ බවට පොලිස් නිලධාරීන් තමන්ව දැනුම්වත් කළ බව මියගිය තරුණයාගේ මව්පියන් පැවසුවේය.
+
+...
+
+[Data](articles/2392d591.json)
+
+---
 
 ### Electricity tariffs to be revised from tomorrow?
 
@@ -50,21 +94,51 @@ Prof. Fernando further highlighted that the new tariffs will be announced this a
 
 [Data](articles/6fbf38bb.json)
 
+[Extended Data](ext_articles/6fbf38bb.ext.json)
+
 ---
 
-### විශ්වවිද්‍යාල අනධ්‍යයන සේවක වර්ජනය නවතී
+### කැනඩා රැකියා සිහින පෙන්වූ ජාවාරම්කරුවෝ
+
+*2024-07-15 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198828) · `si`
+
+කැනඩාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ පුද්ගලයන් දෙදෙනෙකු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+බොරැල්ල ප්‍රදේශයේ පවත්වාගෙන යන ආයතනයක් විසින් කැනඩාවේ මූල්‍ය ක්ෂේත්‍රයේ රැකියා ලබාදෙන බව පවසා රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබා නොදුන් බවට පුද්ගලයෙකු විසින් කාර්යාංශය වෙත සිදුකළ පැමිණිල්ලක් මත විමර්ශන සිදුකර ඇත.
+
+ඒ අනුව විමර්ශන නිලධාරීන් විසින් අදාළ ස්ථානය වැටලීම් කර තිබේ.
+
+එහිදී අනාවරණය වී ඇත්තේ එම ආයතනය ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව පවත්වාගෙන ගිය නීති විරෝධී විදේශ රැකියා නියෝජිත ආයතනයක් බවය.
+
+ඒ අනුව අදාළ ආයතනයේ හිමිකරු ඇතුළු තවත් පුද්ගලයෙකු විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂ 10ක ශරීර ඇප මත මුදාහැරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/ae0aa539.json)
+
+---
+
+### University academic strike stops
 
 *2024-07-15 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198827) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩල වෘත්තීය සමිති දියත් කර තිබූ වැඩවර්ජනය අද (15) සිට අත්හිටුවීමට තීරණය කර තිබේ.
+The university non-academic staff strike, lasting 75 days, ends after discussions with the Chairman and Minister of the University Grants Commission. The suspension begins today (15).
 
-ඒ විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති සහ අමාත්‍යවරයා සමඟ පැවති සාකච්ඡාවකින් අනතුරුවය.
+🟩
 
-විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩල සේවකයින් දින 75ක් පුරා වැඩවර්ජනයේ නිරතව සිටියේය.
+The strike which launched the university non-academic staff trade unions to be suspended from today (15).
+
+After a discussion with the Chairman and Minister of the University Grants Commission.
+
+University non-academic staff were stationed for 75 days.
 
 ◼️
 
 [Data](articles/6df24d7f.json)
+
+[Extended Data](ext_articles/6df24d7f.ext.json)
 
 ---
 
@@ -79,6 +153,8 @@ The decision comes following the discussions held with the chairman of Universit
 ◼️
 
 [Data](articles/166d8ecb.json)
+
+[Extended Data](ext_articles/166d8ecb.ext.json)
 
 ---
 
@@ -2109,67 +2185,5 @@ The move has been taken to promote tourism in Thailand.
 [Data](articles/238cc734.json)
 
 [Extended Data](ext_articles/238cc734.ext.json)
-
----
-
-### Sri Lanka to create villages, provide land for 176,000 families living in plantations
-
-*2024-07-14 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-create-villages-provide-land-for-176000-families-living-in-plantations-172042/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved the drafting of a law to create village communities in areas where people mainly descendants of former workers are resident in plantations.
-
-“..[I]’t is expected to introduce a new law amalgamating estate houses and line rooms available in estate areas and creating villages for them,” according a proposal by President Ranil Wickremesinghe, a post cabinet statement.
-
-Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, told Colombo’s Foreign Correspondents that about 176,000 families are expected to get 10 perch blocks of land under the plan.
-
-About 4,777 hectares of land would be required for to give houses for the residents. Plantations collectively had about 205,000 hectares.
-
-The land that is currently occupied by the people, including temples, schools and common areas gazetted as communities or villages.
-
-...
-
-[Data](articles/3e29294c.json)
-
-[Extended Data](ext_articles/3e29294c.ext.json)
-
----
-
-### Derailment disrupts train services on up-country line
-
-*2024-07-14 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100506/derailment-disrupts-train-services-on-up-country-line) · `en`
-
-Railway operations have been disrupted on the up-country line due to the derailment of a train, Sri Lanka Railways (SLR) announced.
-
-Accordingly, the Badulla-bound train from Colombo Fort has derailed  between Bandarawela and Heel-Oya railway stations.
-
-Meanwhile, it is also reported that the Badulla-Colombo night mail train has also been cancelled today due to this.
-
-◼️
-
-[Data](articles/da88af61.json)
-
-[Extended Data](ext_articles/da88af61.ext.json)
-
----
-
-### Sajith challenges Anura from Anura
-
-*2024-07-14 19:59:38* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගෙන්-සජිත්ට-අභියෝගයක්/11-410785) · `si`
-
-Anura Kumara Dissanayake, leader of the National Jones, challenged Sajith Premadasa to confirm he didn't receive any MP support from Ranil Wickremesinghe, alleging many in his party secretly received electoral authorization from Wickremesinghe. He demanded Premadasa publicly state whether he alone or no one else received authorizations from Wickremesinghe. This challenge was made during a meeting organized by the Matale District Organizer Dissanayake.
-
-🟩
-
-Leader of the National Jones, Anura Kumara Dissanayake challenged the Sajith Premadasa to declare that he had not obtained any MP from Ranil Wickremesinghe.The broch was organized by the Chief Organizer of Matale District Organizer Dissanayake.
-
-Mr. Anura Kumara Dissanayake said the people have been able to contact Mr. Sajith Premadasa as soon as Sajith Premadasa came to power.. ඔහුගේ පක්ෂයේ බොහෝ දෙනෙකු රහසිගතව රනිල් වික්‍රමසිංහ මහතාගෙන් මත් පැන් අලවිසැල් බලපත්‍ර ලබාගෙන තිබෙන බව පෙන්වා දෙන ඒ මහතා එසේ එකම අයෙකු හෝ රනිල් වික්‍රමසිංහ මහතා අතින් බලපත්‍ර ලබාගෙන නැති බව ප්‍රකාශ කරන්නැයි සජිත් ප්‍රේමදාස මහතාට අභියෝග කරන බව සඳහන් කළේය,
-
-මහින්ද රාජපක්ෂ   ඇතුළු කණ්ඩායමක්  රනිල් වික්‍රමසිංහ මහතා සමඟ  එක්සත් ජාතික පක්ෂ කඳවුරේ කරට අත දමාගෙන සිටින බවත්,  එම පක්ෂයේම සභාපති ජි .එල් .පිරිස් මහතා ඇතුළු අනෙක් කණ්ඩායම සජිත් ප්‍රේමදාස මහතා සමඟ කරට අත දාගෙන සිටින බවත්, එම සියලු දෙනා එකට වැඩ කරන පිරිසක් බවත් හෙතෙම පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/8360d88d.json)
-
-[Extended Data](ext_articles/8360d88d.ext.json)
 
 ---

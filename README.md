@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 12:20:25**
+As of **2024-07-15 12:35:15**
 
 ## Newspaper Stats
 
-*Scraped **35,307** Articles*
+*Scraped **35,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,105 @@ dbsjeyarajcom | 314
 colombotelegraphcom | 333
 bbccomsinhala | 342
 newsfirstlk | 363
-islandlk | 2,002
-economynextcom | 2,089
+islandlk | 2,004
+economynextcom | 2,093
 dailyftlk | 2,231
-adalk | 3,183
-adaderanalk | 4,063
-tamilmirrorlk | 4,257
+adalk | 3,184
+adaderanalk | 4,067
+tamilmirrorlk | 4,258
 dailymirrorlk | 4,733
-virakesarilk | 5,502
-adaderanasinhalalk | 5,895
+virakesarilk | 5,504
+adaderanasinhalalk | 5,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,307 (100.0%) of 35,307 articles have been extended.
+35,313 (100.0%) of 35,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Maithripala given deadline to complete compensation payments to Easter attack victims
+
+*2024-07-15 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100518/maithripala-given-deadline-to-complete-compensation-payments-to-easter-attack-victims) · `en`
+
+The Supreme Court has ordered former President Maithripala Sirisena and two others who were ordered to pay compensation to the victims for failure to prevent the Easter Sunday bomb attacks, to complete their outstanding payments before August 30, 2024.
+
+Accordingly, the former President, former Inspector General of Police (IGP) Pujith Jayasundara and former Chief of State Intelligence Service (SIS) Nilantha Jayawardena have been ordered to pay the outstanding compensation to the victims of the Easter attacks before August 30.
+
+Furthermore, the seven-member Supreme Court judge panel has ordered that if the relevant individuals fail to complete the payments before the said date, contempt of court charges will be filed against them before September 20, 2024.
+
+◼️
+
+[Data](articles/5a859b9a.json)
+
+---
+
+### One person drowns, another rescued in Deduru Oya
+
+*2024-07-15 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100517/one-person-drowns-another-rescued-in-deduru-oya) · `en`
+
+Two individuals have been swept away by strong water currents while bathing in the Deduru Oya in the Chilaw area last evening (14).
+
+One of the individuals, a 20-year-old resident of the Watawana area in Hatton, was pronounced dead upon admission to the Chilaw hospital, while the other person was rescued, the police said.
+
+The deceased had been bathing in Deduru Oya with his wife and three others, according to police.
+
+◼️
+
+[Data](articles/73117c78.json)
+
+---
+
+### Galle Prison inmate dies from meningitis, 3 others hospitalised
+
+*2024-07-15 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100516/galle-prison-inmate-dies-from-meningitis-3-others-hospitalised) · `en`
+
+An inmate of the Galle Prison has reportedly died of Meningitis, the Prisons Director of Health said.
+
+Meanwhile, three other inmates who are suspected to be infected have been admitted to hospital, he added.
+
+◼️
+
+[Data](articles/28ce42bf.json)
+
+[Extended Data](ext_articles/28ce42bf.ext.json)
+
+---
+
+### Sajith met
+
+*2024-07-15 12:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடைக்கலநாதனை-சந்தித்த-சஜித்/175-340435) · `ta`
+
+Opposition Leader Sajith Premadasa met with LTTE leader Selvam Adakkalanathan in Mannar, highlighting efforts towards reconciliation and dialogue between conflicting parties.
+
+🟩
+
+Opposition Leader Sajith Premadasa visited the Mannar office of Selvam Adakkalanathan, the leader of the Liberation Tigers of Tamil Eelam (LTTE) and a Member of Parliament of the Tamil National Alliance (TNA).
+
+◼️
+
+[Data](articles/33595a25.json)
+
+[Extended Data](ext_articles/33595a25.ext.json)
+
+---
+
+### තවත් රැඳවියෙක් මොළේ උණ වැළඳී මරුට
+
+*2024-07-15 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198824) · `si`
+
+අදාළ රැඳවියා කරාපිටිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී පසුගිය සෙනසුරාදා දිනයේ මියගොස් ඇති බව බන්ධනාගාර සෞඛ්‍ය සේවා අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා පැවසුවේය.
+
+මේ වන විට තවත් රැඳවියන් තිදෙනෙකුට මොළේ උණ වැළඳී ඇති අතර ඔවුන් කරාපිටිය රෝහලේ ප්‍රතිකාර ලබන බව වෛද්‍ය හේමන්ත රණසිංහ මහතා වැඩිදුරටත් පැවසුවේය.
+
+◼️
+
+[Data](articles/11e7a77a.json)
+
+---
 
 ### There is no chance for underworld
 
@@ -226,6 +306,32 @@ The body is being kept at the Kandy Hospital and further investigations into the
 
 ---
 
+### Aruchuna again at Chavakachcheri Hospital;Anxiety in front of the hospital
+
+*2024-07-15 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188477) · `ta`
+
+Aruchuna Ramanathan, ex-Superintendent of Chavakachcheri Hospital, returned amidst protests over her transfer. The Health Ministry's decision was contested by the Northern Province Health Director, leading to public demonstrations. Despite initial resistance, Ramanathan eventually resumed her duties, while Dr. K. Rajeev took over as the new Medical Superintendent. Police ensured safety amid the tense atmosphere.
+
+🟩
+
+Former Superintendent of Chavakachcheri Resource Hospital in Jaffna, Aruchuna Ramanathan has once again visited the Chavakachcheri Hospital.
+
+In response to the Chavakachcheri Hospital, Ramanathan Archana, who was serving as the Medical Superintendent of the Hospital, said that the Health Ministry of Health, who ordered the transfer of Archana from the Chavakachcheri Hospital last night, said that the Northern Province Health Director Saman Pathirana did not accept it.
+
+The protest, which began on the night of the night in front of the hospital in front of the hospital in protest of the effort to relocate the doctor, was launched till the day of the day with the participation of more people.
+
+On the 08th, the doctor, who left the hospital with noon after a long tug -up, went back to the hospital, saying that he would go back to the holidays.
+
+The next day, by the Northern Provincial Health Department, Dr. K.. Rajeev has been appointed as the new answer and is in charge.
+
+...
+
+[Data](articles/964b1c66.json)
+
+[Extended Data](ext_articles/964b1c66.ext.json)
+
+---
+
 ### Killing and killing the trader
 
 *2024-07-15 11:01:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வர்த்தகரை-வாகனத்தில்-கடத்தி-கொன்று-கொளுத்தி-கொலை/75-340424) · `ta`
@@ -254,6 +360,30 @@ Accordingly, the Morawewa and Uppuweli police recovered the burned body in the f
 
 ---
 
+### Sri Lanka rupee opens stronger at 300.60/90 to US dollar
+
+*2024-07-15 10:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-300-60-90-to-us-dollar-172065/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened  stronger at 300.60/90 to the US dollar on Monday, dealers said. Bond yields were down and stocks were up, in the first hour of trading they said.
+
+The rupee closed at 301.70/302.00 to the greenback on Friday.
+
+A bond maturing on 15.12.2026 was quoted at 10.80/88 percent, down 10.90/11.00 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.73/78 percent, down from 11.75/80 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.85/90 percent, down from 11.90/12.00 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.10/15 percent, down from 12.10/30 percent.
+
+In equities, Colombo’s All Share Price Index opened 20.70 points higher at 11,864, while the S&P SL20 of more liquid stocks opened up at 0.47 percent or 16.15 points to 3,470.
+
+◼️
+
+[Data](articles/0ee3325a.json)
+
+---
+
 ### 58 out of 100 paid and give the rest to six years - Maithri
 
 *2024-07-15 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198820) · `si`
@@ -274,6 +404,22 @@ The former President has also asked the court to give the remaining six years to
 
 ---
 
+### More than half of Rs. 100 million compensation already paid - Maithripala’s lawyers tell SC
+
+*2024-07-15 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100515/more-than-half-of-rs-100-million-compensation-already-paid-maithripalas-lawyers-tell-sc) · `en`
+
+Former President Maithripala Sirisena’s lawyers have informed the Supreme Court that Rs. 58 million of the compensation of Rs. 100 million imposed on the former President, for failure to prevent the Easter Sunday bomb attacks, has already been paid.
+
+Meanwhile, the former President has also requested the court through his lawyers to extend the payment period for the remaining sum by six years.
+
+On July 11, 2023, the former President completed paying Rs. 15 million as part of the compensation he was ordered to pay to the victims and filed a motion requesting that he be allowed to pay the remaining sum in 10 installments of Rs. 8.5 million from  30 June 2024 to 20 June 2033.
+
+...
+
+[Data](articles/8124030e.json)
+
+---
+
 ### More than half of Rs. 100 million fine already paid - Maithripala’s lawyers tell SC
 
 *2024-07-15 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100515/more-than-half-of-rs-100-million-fine-already-paid-maithripalas-lawyers-tell-sc) · `en`
@@ -289,6 +435,30 @@ On July 11, 2023, the former President completed paying Rs. 15 million as part o
 [Data](articles/de3b5bae.json)
 
 [Extended Data](ext_articles/de3b5bae.ext.json)
+
+---
+
+### Sri Lanka’s WindForce, Vidullanka to acquire shares of Solar Universe
+
+*2024-07-15 10:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-vidullanka-to-acquire-shares-of-solar-universe-172071/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s WindForce Plc and Vidullanka Plc will acquire 36,500,000 ordinary voting shares of Solar Universe (Private) Limited held by HiEnergy Services (Private) Limited for 370 million rupees.
+
+WindForce will pay 185 million rupees to acquire 18,250,000 shares, increasing its shareholding in Solar Universe from 33.3% to 50%.
+
+Vidullanka will, similarly, pay 185 million rupees to acquire 18,250,000 shares, increasing its shareholding from 33.3% to 50%.
+
+Solar Universe (Private) Limited owns and operates the 10MW Vavunathivu solar power plant in Batticaloa District.
+
+Suryashakthi (Pvt) Ltd., a wholly owned subsidiary of Solar Universe, is licensed to develop and operate the
+
+Vavunathivu II solar power plant with an installed capacity of 10MW in Batticaloa.
+
+Solar Universe’s agrivoltaic project “integrates solar energy production with agricultural activities to optimize land use and promote sustainable farming,” WindForce said in a stock exchange filing.
+
+...
+
+[Data](articles/d061384b.json)
 
 ---
 
@@ -337,6 +507,50 @@ Trump, 78, was holding a campaign rally in Butler, Pennsylvania - a key state in
 [Data](articles/6a3fdddf.json)
 
 [Extended Data](ext_articles/6a3fdddf.ext.json)
+
+---
+
+### විහාරස්ථානයේ ආරාවුලකින් හිමිවරු දෙනමක් සහ පොලිස් නිලධාරියෙක් රෝහලේ
+
+*2024-07-15 10:38:12* · [`adalk`](https://www.ada.lk/breaking_news/විහාරස්ථානයේ-ආරාවුලකින්-හිමිවරු-දෙනමක්-සහ-පොලිස්-නිලධාරියෙක්-රෝහලේ/11-410787) · `si`
+
+බෙන්තොට පොලිස් වසමේ පිහිටි අතුරුවැල්ල ධර්ම ශ්‍රී වර්ධනාරාම විහාරස්ථානයේ දී ඊයේ රාත්‍රි ඇතිවූ ගැටුම්කාරී තත්වයකදී  භික්ෂූන් වහන්සේලා දෙනමක් සහ පොලිස් කොස්තාපල්වරයෙකු  තුවාල ලබා ඇතැයි බෙන්තොට පොලීසිය කියයි.
+
+එමෙන්ම මේ ගැටුම ගැන  සැකපිට ප්‍රශ්න කිරීම සඳහා එම විහාරවාසීව සිටි භික්ෂූන්වහන්සේලා දෙනමක් සහ ප්‍රදේශවාසියෙකු අත් අඩංගුවට ගත් බවද පොලීසිය පැවසීය.
+
+තුවාල ලැබූ භික්ෂූන් වහන්සේලා දෙනම කලුතර මහ රෝහලටද පොලිස් කොස්තාපල්වරයා බෙන්තොට රෝහලට ද ඇතුළත් කර තිබේ.
+
+හොරණ ප්‍රදේශයේ සිට ඊයේ සවස මෙම විහාරථානයට පැමිණ ඇතැයි කියන භික්ෂූන් වහන්සේලා පිරිසක් හා විහාරථානයේ සිටි භික්ෂුන් වහන්සේලා අතර විහාරස්ථානයේ භාරකාරත්වය පිළිබඳව ආරාවුලක් හටගෙන ඇති බවත් පසුව දායක පිරිසක්ද විහාරස්ථානයට පැමිණ  මේ සඳහා මැදිහත්වී ඇතැයිද   පොලීසිය කියයි.
+
+බෙන්තොට පොලීසිය මගින් පොලිස් ආරක්ෂාව යොදා කලබලකාරී තත්වය  පාලනය කිරීමට යාමේදී කොස්තාපල් වරයා තුවාල ලද  බව පොලීසිය පවසයි. මේ වන විට සියලුම භික්ෂූන් වහන්සේලා පන්සලෙන්  ඉවත්ව ගොස් ඇති අතර විහාරස්ථානයට පොලිස් ආරක්ෂාව යොදා තිබේ.
+
+◼️
+
+[Data](articles/cd8344f8.json)
+
+---
+
+### Badulla - Colombo Rail Service returned to us
+
+*2024-07-15 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/188472) · `ta`
+
+The Badulla-Colombo train service resumed after being halted due to a blockage between Bandarawela and Heelo stations. The issue was resolved thanks to the hard work of train staff, allowing the service to return to its regular schedule.
+
+🟩
+
+The Badulla -Colombo train service, which was affected by the train, has returned to normal.
+
+The train from Colombo to Badulla to Badulla was completely blocked by the Badulla -Colombo train service between Bandarawela and heelo railway stations.
+
+An official of the Badulla Railway Station said that the postal train from Badulla to Colombo yesterday evening has stopped his journey and returned to Badulla.
+
+The official said that due to the heavy efforts of the train workers, the bus has been repaired and the Badulla -Colombo train service has returned to normal.
+
+◼️
+
+[Data](articles/0c13a337.json)
+
+[Extended Data](ext_articles/0c13a337.ext.json)
 
 ---
 
@@ -528,6 +742,28 @@ Children were 6 to 12 years old.
 
 ---
 
+### Sri Lanka central bank net seller in fx markets in June
+
+*2024-07-15 09:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-seller-in-fx-markets-in-june-172058/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank was a net seller in forex markets in June 2024, official data shows, data shows after a build-up of excess liquidity from dollar purchases up to May.
+
+The central bank sold 57 million US dollars to banks in June and did not buy any dollars, data shows, after buying 224.5 million US dollars and selling 32 million dollars in May.
+
+There was a build-up of excess liquidity up to 200 billion rupees after dollar purchases in April and May.
+
+Sri Lanka operates a so-called flexible exchange rate, which analysts says is not backed by consistent policy.
+
+When there is higher import demand, usually due a pick up in private or state enterprise credit or both, the flexible exchange rate slides triggering a confidence shock in both importers and exporters.
+
+Importers try to cover early and exporters try to delay, when the exchange rate weakens.
+
+...
+
+[Data](articles/fbd61871.json)
+
+---
+
 ### Leader of Nepal’s largest communist party named country’s new prime minister
 
 *2024-07-15 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100510/leader-of-nepals-largest-communist-party-named-countrys-new-prime-minister) · `en`
@@ -707,6 +943,26 @@ The President of the Association Sumedha Somaratne said that his union would mee
 [Data](articles/c4342e44.json)
 
 [Extended Data](ext_articles/c4342e44.ext.json)
+
+---
+
+### More people feel Sri Lanka economy is getting better, approval up: Survey
+
+*2024-07-15 07:36:00* · [`economynextcom`](https://economynext.com/more-people-feel-sri-lanka-economy-is-getting-better-approval-up-survey-172049/) · `en`
+
+ECONOMYNEXT – More people feel the economy is getting better and approval of the government is also up, a Survey by Verité Research, a Colombo based think tank has said.
+
+The approval rating of the government more than tripled to 24 percent in July, up from 7 percent in February 2024, the survey found.
+
+Current economic conditions were rated as either “good” or “excellent” by 28 percent of respondents, marking a threefold increase from 9 percent in February 2024, Verité Research said.
+
+The share of people who believe that the country’s economic conditions are “getting better” has also tripled, with 30 percent of respondents holding this view, up from 9 percent in February 2024.
+
+“The positivity in July 2024 is around the same level or a little higher than it was in June 2023, which was the highest level recorded since January 2022. The comparison is detailed below,”  the Verete said.
+
+...
+
+[Data](articles/744cb64e.json)
 
 ---
 
@@ -1933,281 +2189,5 @@ The spread of the uninterrupted market was a tendency to blur the ideas of the r
 [Data](articles/64a72570.json)
 
 [Extended Data](ext_articles/64a72570.ext.json)
-
----
-
-### People looking for leadership
-
-*2024-07-14 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188413) · `ta`
-
-Tamil community faces significant challenges without effective leadership to tackle issues and organize protests.
-
-🟩
-
-The problems for the Tamil people are high. But there is an environment where there is no leadership to address those issues, to address them, to carry out protests.
-
-◼️
-
-[Data](articles/654b9923.json)
-
-[Extended Data](ext_articles/654b9923.ext.json)
-
----
-
-### 6 crores worth of vehicles
-
-*2024-07-14 18:15:34* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවරින්-පොලිස්-භාරයට-ගත්-කෝටි-6ක්-වටිනා-වාහන/11-410780) · `si`
-
-Businessman Lalith Pathinayake, known for his private bureaucracy in Sri Lanka's Central Province, was arrested for stealing 6 crore worth of vehicles, including motorcycles and jeeps. Despite the arrest, the owners of these stolen assets remain unaccounted for, leading to ongoing police investigations. Key officials involved in the case include SSP Assistant Investigation Bureau, Chief Inspector Anuruddha Bandaranaike, and Inspector Nayake of the Criminal Investigation Bureau.
-
-🟩
-
-The Bureau of Rs.
-
-The motorcycle of a businessman with a private bureaucracy in the area of ​​the Central Province Lalith Pathinayake has been arrested in a caringifiose carriage.
-
-If the ride and the motorcycles, which have been stolen to the country, have commenced the stolen jeeps and motorcycle vessels.
-
-The contestants are to be arrested by the police investigations that the owners of these cars have not been arrested yet.
-
-Senior Superintendent of Police (SSP) Assistant Investigation Bureau, Chief Inspector of Police Anuruddha Bandaranaike, Inspector of the Criminal Investigation Bureaunayake.
-
-◼️
-
-[Data](articles/2393ead7.json)
-
-[Extended Data](ext_articles/2393ead7.ext.json)
-
----
-
-### Gossip
-
-*2024-07-14 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188419) · `ta`
-
-Prime Minister Keer Stamar has scrapped plans to send asylum seekers to Rwanda, reversing policies initiated under the previous government. This decision marks a significant shift in UK immigration policy, reflecting changes in leadership and public sentiment.
-
-🟩
-
-Prime Minister Keer Stamar has announced that he will not continue its plans to send asylum seekers to Rwanda after Labor came to power in Britain.. If one side of Rwanda is like this, the other side is the worst ....
-
-◼️
-
-[Data](articles/1d17aa6b.json)
-
-[Extended Data](ext_articles/1d17aa6b.ext.json)
-
----
-
-### Do not be anti -politics;Don't be politics!
-
-*2024-07-14 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188421) · `ta`
-
-British conquest of Sri Lanka was primarily driven by the need to secure Indian territories, crucial for Britain's economic expansion and the Industrial Revolution due to India's abundant raw materials and market. Thus, controlling Sri Lanka was seen as essential for protecting their interests in India.
-
-🟩
-
-Indian security is the main reason why the British conquered Sri Lanka. India was the main need for the economic growth of Britain. The raw materials and the market resources are in India. India is the main reason for the occasion of industrial revolution in Britain. Therefore, Sri Lanka should be controlled if India is to protect. This is the main reason why Britain conquered Sri Lanka.
-
-◼️
-
-[Data](articles/2fc106bf.json)
-
-[Extended Data](ext_articles/2fc106bf.ext.json)
-
----
-
-### Athurugiriya Suttu incident that has questioned the technique
-
-*2024-07-14 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188427) · `ta`
-
-In October 2020, Madhush was killed identifying hidden heroin in a shootout between underworld figures and police in Maligawatta. Suspect Kanjibana Imran was charged but released on bail on December 20, 2022, as the case remains under investigation.
-
-🟩
-
-In October 2020, when Madhush was shot dead in the Maligawatta area, when he went to identify a large number of heroin, which was hiding in the area, in the shooting incident between the underworld and the police in the area.. Meanwhile, Kanjibana Imran was sued. He was granted bail on December 20, 2022 while the case was under investigation.
-
-◼️
-
-[Data](articles/622f308d.json)
-
-[Extended Data](ext_articles/622f308d.ext.json)
-
----
-
-### Former minister Rishad Karuwalagaswewa accident
-
-*2024-07-14 18:06:12* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-රිෂාඩ්-කරුවලගස්වැවදී-අනතුරක/11-410779) · `si`
-
-Rishard Batuaden, a Ceylon General Assembly leader, was injured in a non-serious accident involving a motorcycle while traveling from Mannar to Puttalam. The incident occurred despite the presence of personnel, and initial reports suggest the driver lost control. Investigations led by Inspector Sujeewa Alwatta are underway.
-
-🟩
-
-Karuwalagaswewa Police say that although the leader of the Ceylon General Assembly and other Ceylon General Congress leader of the Ceylon General Congress, MP Rishard Batuaden has been injured in the accident.
-
-The accident had occurred when Rishard Legal MP was in Mannar from Mannar from Mannar to Puttalam and a motorcycle on the road.
-
-The motorcycle karue says that the motorcycle karue is minor injuries and not serious.
-
-However, the driver of Rishard Penalias has arisen in a carcass that its driver is impossible to control its driver.
-
-At the time of the accident, the personnel have been present and said that the victims have been present.
-
-Karuwalagaswewa Police say that the vehicle had no accidents that the vehicle had no accident or had the accident.
-
-Karuwalagaswewa Police have been sent to the Puttalam-year hospitalized who was suspended in the accident.
-
-...
-
-[Data](articles/85b434ba.json)
-
-[Extended Data](ext_articles/85b434ba.ext.json)
-
----
-
-### Election
-
-*2024-07-14 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188429) · `ta`
-
-High Court attempts to halt the presidential election were unsuccessful, marking the sole effort to obstruct it. Various strategies were employed.
-
-🟩
-
-Attempts to temporarily embarge a barrier to prevent the presidential election by the High Court have been thwarted. Could not expect the only attempt to prevent the presidential election. Efforts have been carried out in all possible ways.
-
-◼️
-
-[Data](articles/85567e8e.json)
-
-[Extended Data](ext_articles/85567e8e.ext.json)
-
----
-
-### Back to the Federation?
-
-*2024-07-14 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188433) · `ta`
-
-The Tamil National Alliance's decline marks a significant failure in Tamil nationalism. Tensions arise from leadership disputes between Sumanthiran and Sridharan over control of the alliance's wealth. Despite its dissolution, there's a pressing need to appoint a parliamentary leader.
-
-🟩
-
-The decay of the Tamil National Alliance is one of the biggest failures of Tamil national politics that all parties in the future will be realized. The reason for the tension is that Sumanthiran, who was aimed at the leadership of Sampanthan while he was still alive, and Sridharan, who was interested in the aftermath of the post, was trying to gain the leadership of the wealthy.. Even if the Tamil National Alliance is missing, there is a need to elect a parliamentary leader.
-
-◼️
-
-[Data](articles/30a30257.json)
-
-[Extended Data](ext_articles/30a30257.ext.json)
-
----
-
-### 116,000 scholarships under Presidential Scholarship Program 2024
-
-*2024-07-14 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100504/116000-scholarships-under-presidential-scholarship-program2024) · `en`
-
-One Hundred and sixteen thousand (116,000) scholarships are to be awarded for the year 2024 under the “Presidential Scholarship Program”, which is implemented according to the concept of President Ranil Wickremesinghe, for the upliftment of the education of the children of the underprivileged.
-
-Accordingly, Rs. 824 million have been allocated for the scholarship program, which will provide Rs. 6000 per month for 24 months to 6000 students studying for their G.C.E. (A/L)s. Additionally, Rs. 3600 million have been allocated for a scholarship program that grants Rs. 3000 per month for 12 months to 100,000 students from grade 1 to grade 11.
-
-...
-
-[Data](articles/dc5f3498.json)
-
-[Extended Data](ext_articles/dc5f3498.ext.json)
-
----
-
-### Kalmunai North Divisional Secretariat Affairs: People's Struggle: Government intervened and resolved!
-
-*2024-07-14 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188442) · `ta`
-
-In Kalmunai North, a community struggle exceeded 92 days, demanding equal secretariat powers like others in Sri Lanka. The area is predominantly Tamil, with a history of administrative disparities. Despite protests against alleged cultural encroachments and calls for autonomy, the secretariat remains under the Muslim-controlled Kalmunai South division. Recent interventions suggest progress towards resolving these longstanding issues.
-
-🟩
-
-The struggle of the people of the area continues to exceed the 92nd day of the struggle against the repression and violations of the Kalmunai North Divisional Secretariat.. The struggle continues to date, demanding that the secretariat be allowed to operate with the full powers of other secretariats in the country!
-
-There are approximately 100 % of Tamils ​​(39,000 people from 9798 families live in the area.. Of these, only 3215 Muslims. Like the Kalmunai Western Divisional Division here, 29 km. Six of these divisions include six traditional Tamil villages.) Its secretariat has been a sub -office for the Muslim Secretariat, the Kalmunai South, for more than three decades, without any strong reasons for the Cabinet resolution taken on 28.07.1993.The struggle is being carried out by the people of the region, condemning the managing the Southern Secretariat!
-
-...
-
-[Data](articles/4fcbd50b.json)
-
-[Extended Data](ext_articles/4fcbd50b.ext.json)
-
----
-
-### Construction of Matara for Madush in Makandura
-
-*2024-07-14 17:56:20* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මදූෂ්-වෙනුවෙන්-මාතරත්-බැනරයක්/11-410778) · `si`
-
-Two unidentified businessmen were killed and their funeral procession took place at Matara's chief bus stand, featuring banners urging unity. The event was organized by former underworld leader Markade, but the person behind it remains unknown. This occurred in Makandura, a village within the Matara district.
-
-🟩
-
-The Matara Police said that the funeral of two unidentified businessmen who were assassinated by two unidentified businesses were displayed in the Matara Chief bus stand yesterday.
-
-In that banner, "we send one another. Look after us.
-
-The former underworld leader Markade had a banner for the banner held yesterday (13).
-
-The one who is installed is yet to be revealed.
-
-Makadura Madash was the village in Matara district.
-
-◼️
-
-[Data](articles/e5fb5db8.json)
-
-[Extended Data](ext_articles/e5fb5db8.ext.json)
-
----
-
-### Woman arrested for assaulting husband's mother
-
-*2024-07-14 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198801) · `si`
-
-A woman was arrested for assaulting her husband's mother in the Jaffna-Kodikamam area. The incident, captured on video, involved violence against an elderly woman in Manduvil, Kodikamam. Following the circulation of the video, the Sri Lanka Human Rights Commission alerted the Jaffna Regional Office, which then notified the police. After investigation, the Kodikamam Police arrested the woman, who was subsequently presented before the Chavakachcheri Magistrate.
-
-🟩
-
-Police have commenced investigations into the woman attacked an elderly mother in the Jaffna-Kodikamam area.
-
-A video of the lack of labeating a wise woman in a house in the East of Manduvil, Kodikamam, circulated a video of the labe.
-
-The Sri Lanka Human Rights Commission has informed the Jaffna Regional Office in this regard and they have informed the police.
-
-The woman was later arrested by the Kodikamam Police and the attack was arrested.
-
-The woman was produced before the Chavakachcheri Magistrate after investigations.
-
-◼️
-
-[Data](articles/1110d0f8.json)
-
-[Extended Data](ext_articles/1110d0f8.ext.json)
-
----
-
-### The three large patches of brother-in-law released
-
-*2024-07-14 17:43:12* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටිගේ-මස්සිනා-ඇතුළු-තිදෙනා-මුදා-හරි/11-410777) · `si`
-
-Three men linked to the Underworld Patheen were released from prison in the Western Province. They were initially arrested in Athurugiriya for planning Wasantha's murder, allegedly orchestrated by a club member based in Dubai. Despite extensive questioning, no significant details about the murder were disclosed.
-
-🟩
-
-The Western Province, the Western Province says that after the three-member Underworld Patheen's brother-in-law has been released after three persons who were arrested in the Athurugiriya Tribe Arts.
-
-These persons were arrested while in a sandy area in the sandy area.
-
-According to information that the Club was identified as the planner of the Club Wasantha's murder, police officers were remaining in a house in Dubai, a large number of brother-in-law of the country.
-
-A senior police officer said that the clamp did not reveal any important information about the Club Spring murder in the suspected suspicion.
-
-◼️
-
-[Data](articles/7ac771e3.json)
-
-[Extended Data](ext_articles/7ac771e3.ext.json)
 
 ---

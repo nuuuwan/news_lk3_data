@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 07:01:49**
+As of **2024-07-15 07:29:32**
 
 ## Newspaper Stats
 
-*Scraped **35,261** Articles*
+*Scraped **35,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,51 @@ adaderanalk | 4,055
 tamilmirrorlk | 4,244
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,883
+adaderanasinhalalk | 5,884
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,256 (100.0%) of 35,261 articles have been extended.
+35,259 (100.0%) of 35,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### යුරෝපා පාපන්දු කුසලානය ස්පාඤ්ඤය ට
+
+*2024-07-15 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198811) · `si`
+
+2024 යුරෝපා කුසලාන අවසන් මහා තරගයේදී එංගලන්තය පරාජය කර ශූරතාවය දිනා ගැනීමට ස්පාඤ්ඤය සමත්විය.
+
+◼️
+
+[Data](articles/be2e69da.json)
+
+---
+
+### Showers in several areas
 
 *2024-07-15 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198810) · `si`
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy showers expected in Western, Sabaragamuwa, Northwestern provinces, and specific districts including Kandy, Nuwara Eliya, Galle, and Matara. Intense rainfall possible in some areas with heavy downpours exceeding 50mm. Strong winds also forecasted across various regions, particularly in the north and central hills, with gusts between 50-60km/h.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Kandy, Nuwara Eliya, Galle and Matara districts.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+In some places in the Western and Sabaragamuwa provinces, Kandy and Nuwara Eliya districts. Heavy rains can occur in more than 50.
+
+At times at the Trincomalee farencies of the central hills and in the North, North, North, North Central and North Western provinces.. (50-60) has been informed that there is about strong winds.
+
+From time to time in the rest of the island.. (30-40) can cause strong winds.
 
 ◼️
 
 [Data](articles/8caf9033.json)
+
+[Extended Data](ext_articles/8caf9033.ext.json)
 
 ---
 
@@ -116,19 +134,27 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 
 ---
 
-### 116,000 மாணவருக்கு புலமைப் பரிசில்கள்
+### Scholarships for 116,000 students
 
 *2024-07-15 02:04:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/116-000-மாணவருக்கு-புலமைப்-பரிசில்கள்/175-340405) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக் கருவின்படி பாடசாலை மாணவர்களின் கல்வியை மேம்படுத்த நடைமுறைப்படுத்தப்படும் 'ஜனாதிபதி புலமைப் பரிசில்' திட்டத்தின் கீழ் 2024 ஆம் ஆண்டில் 116,000 மாணவர்களுக்கு புலமைப் பரிசில்கள் வழங்கப்பட உள்ளன.
+In 2024, President Ranil Wickremesinghe's 'President's Scholarship Program' will award scholarships to 116,000 students, totaling 824 million rupees over 24 months. Scholarships range from 3,000 rupees monthly for grades 1-11 for 12 months, to specific allocations for students in Pivale/Piku institutions and GCE Advanced IT division, funded by the Telecommunication Commission and the Presidential Fund.
 
-க.பொ.த. உயர்தரம் கற்கும் 6 ஆயிரம் மாணவர்களுக்கு மாதாந்தம் 6 ஆயிரம் ரூபா வீதம் 24 மாதங்களுக்கு வழங்கப்படும் புலமைப் பரிசில் திட்டத்திற்காக 824 மில்லியன் ரூபா நிதி ஒதுக்கப்பட்டுள்ளது. தரம் ஒன்று முதல் 11 வரையான ஒரு லட்சம் மாணவர்களுக்கு மாதாந்தம்  3,000 ரூபா வீதம் 12 மாதங்களுக்கு புலமைப் பரிசில் வழங்கவிருப்பதோடு இதற்காக 3 ஆயிரத்து 600 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது.
+🟩
 
-பிரிவென மற்றும் பிக்கு கல்வி நிறுவனங்களில் சாதாரண தரம் கற்கும் மாணவருக்கான புலமைப் பரிசில் திட்டத்திற்காக 288 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. க.பொ.த உயர்தரம் தகவல் தொடர்பாடல் தொழில்நுட்பம் பிரிவில் கற்கும் பிக்கு மாணவருக்கான புலமைப்பரிசில் திட்டத்திற்காக 720 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது.
+According to President Ranil Wickremesinghe, scholarships will be awarded to 116,000 students in 2024 under the 'President's Scholarship Program' which will be implemented to improve the education of school children.
 
-...
+GCE.. 824 million rupees has been allocated for the scholarship program for 24 months at a rate of Rs.. One lakh students from grade 1 to 11 will be given a scholarship for 12 months at a rate of 3,000 rupees per month and 3 thousand 600 million rupees have been allocated.
+
+288 million rupees has been allocated for a scholarship program for a normal quality student in Pivale and Piku Educational Institutions. 720 million rupees has been allocated for the Scholarship Program for a student who is learning in the GCE Advanced Level Information Technology Division.
+
+The Telecommunication Commission and the Presidential Fund offer these scholarships. (A)
+
+◼️
 
 [Data](articles/e8c4b66d.json)
+
+[Extended Data](ext_articles/e8c4b66d.ext.json)
 
 ---
 
@@ -2221,27 +2247,5 @@ The complaint states that he was threatened by Hynutton Sanath, who was going to
 [Data](articles/76270781.json)
 
 [Extended Data](ext_articles/76270781.ext.json)
-
----
-
-### Sri Lankan injured by Iron Dome debris in Northern Israel
-
-*2024-07-14 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100494/sri-lankan-injured-by-iron-dome-debris-in-northern-israel) · `en`
-
-A Sri Lankan national working in Israel has reportedly sustained injuries from debris originating from a missile intercepted by the Iron Dome defense system.
-
-The incident has occurred near the Lebanese border in Northern Israel, where the individual in question was engaged in agricultural activities.
-
-The Embassy of Sri Lanka in Israel confirmed that the individual suffered head injuries when a piece of metal from the destroyed missile had struck him. Israeli defense personnel have rushed him to a hospital for treatment.
-
-When inquired by Ada Derana, Sri Lankan Ambassador to Israel Nimal Bandara confirmed that the individual’s condition is not critical.
-
-The incident has taken place as the workers rushed to their designated safe rooms in response to sirens warning of incoming attacks.
-
-...
-
-[Data](articles/162de107.json)
-
-[Extended Data](ext_articles/162de107.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 14:20:05**
+As of **2024-07-15 14:35:38**
 
 ## Newspaper Stats
 
-*Scraped **35,340** Articles*
+*Scraped **35,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,185
 adaderanalk | 4,071
-tamilmirrorlk | 4,262
+tamilmirrorlk | 4,264
 dailymirrorlk | 4,733
 virakesarilk | 5,504
-adaderanasinhalalk | 5,903
+adaderanasinhalalk | 5,904
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,340 (100.0%) of 35,340 articles have been extended.
+35,340 (100.0%) of 35,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### නායකයෝ...
+
+*2024-07-15 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198832) · `si`
+
+උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහන ඊයේ (14) ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මහියංගනය මහජන ක්‍රීඩාංගණයේදී පැවැත් වුණි.
+
+එහිදී ආදිවාසී නායක ඌරුවරිගේ වන්නිල ඇත්තෝ ඇතුළු විශාල පිරිසක් එම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/a8830c99.json)
+
+---
+
+### கொழும்புக்கு அண்மையில் பஸ் விபத்து: 10 பேர் படுகாயம்
+
+*2024-07-15 14:02:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்புக்கு-அண்மையில்-பஸ்-விபத்து-10-பேர்-படுகாயம்/175-340441) · `ta`
+
+தலங்கம - கொஸ்வத்த பிரதேசத்தில் இரண்டு தனியார் பேருந்துகள் ஒன்றுடன் ஒன்று மோதியதில் 10 க்கும் மேற்பட்டோர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தலங்கம பொலிஸார் தெரிவித்தனர் .
+
+காயமடைந்தவர்களில் விபத்தை ஏற்படுத்திய 177 இலக்க பேருந்தின் சாரதியும் அடங்குவதாக பொலிஸார் தெரிவித்தனர் .
+
+இலக்கம் 190 மீகொட - புறக்கோட்டை மற்றும்  இலக்கம் 177 கடுவெல - கொள்ளுப்பிட்டி பயணிக்கும் பேருந்துகளே இவ்வாறு விபத்துக்குளாகியது .
+
+மீகொடயிலிருந்து புறக்கோட்டை நோக்கிச் சென்ற பேருந்து பத்தரமுல்லை தலாஹேனையை கடந்து பயணிக்கும் போது, ​​கடுவெலயிலிருந்து கொள்ளுப்பிட்டி நோக்கிச் சென்ற பேருந்து  பின்னால் வந்து மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர் .
+
+◼️
+
+[Data](articles/9a420c0e.json)
+
+---
+
+### ஜெயலலிதா சிகிச்சை வழக்கு: அரசுக்கு உயர்நீதிமன்றம் உத்தரவு
+
+*2024-07-15 14:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெயலலிதா-சிகிச்சை-வழக்கு-அரசுக்கு-உயர்நீதிமன்றம்-உத்தரவு/175-340440) · `ta`
+
+உடல்நலக்குறைவு காரணமாக, சென்னை அப்போலோ மருத்துவமனையில் ஜெயலலிதா அனுமதிக்கப்பட்டிருந்த காலத்தில் நடைபெற்ற சம்பவங்கள் குறித்து நீதிமன்ற கண்காணிப்பில் சிபிஐ விசாரணை கோரிய மனுவுக்கு பதிலளிக்கும்படி, தமிழக அரசுக்கு சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+உடல்நலக் குறைவு காரணமாக, கடந்த 2016-ம் ஆண்டு செப்டம்பர் 22-ம் திகதி இரவு 10.25 மணிக்கு சென்னை அப்போலோ மருத்துவமனையில் அனுமதிக்கப்பட்ட ஜெயலலிதா, டிகெம்பர் 5-ம் திகதி இரவு 11.30 மணிக்கு மரணமடைந்தாக அறிவிக்கப்பட்டார்.
+
+இந்த காலகட்டத்தில் நடந்த சம்பவங்களில் நிறைய முரண்பாடுகள் இருப்பதால் உயர் நீதிமன்றத்தின் நேரடி கண்காணிப்பில் சிபிஐ விசாரணை நடத்த உத்தரவிட வேண்டும் எனக்கோரி திருச்செந்தூரைச் சேர்ந்த அண்ணா திராவிட முன்னேற்ற கழக ( அதிமுக) உறுப்பினரும், வழக்கறிஞருமான ராம்குமார் ஆதித்தன் சென்னை உயர் நீதிமன்றத்தில் மனு தாக்கல் செய்திருந்தார்.
+
+...
+
+[Data](articles/1a0a3fb1.json)
+
+---
 
 ### ළමා සුරැකුම් මධ්‍යස්ථානයක සිටි ගැහැනු දරුවන් පිරිසක් පැන ගිහින්
 
@@ -2161,51 +2209,5 @@ Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a for
 [Data](articles/70001dc2.json)
 
 [Extended Data](ext_articles/70001dc2.ext.json)
-
----
-
-### Murder Most Foul: Assassination of Appapillai  Amirthalingam 35 Years ago
-
-*2024-07-15 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84364) · `en`
-
-(Renowned Tamil Political leader Appapillai Amirthalingam was shot dead in Colombo along with Former Jaffna MP V.Yogeswaran on 13 July 1989. This article  about the foul murder  was published in the “Daily Mirror”  in 2019. It is re-posted here without any changes to denote the 35th anniversary of the Amirthalingam Assassination)
-
-...
-
-[Data](articles/922902f8.json)
-
-[Extended Data](ext_articles/922902f8.ext.json)
-
----
-
-### 2024-07-14 (Sunday)
-
-### Symptoms Of Anarchy?
-
-*2024-07-14 22:54:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/symptoms-of-anarchy/) · `en`
-
-The recent assassination of Club Wasantha, a prominent figure in the nightclub business, has sent shockwaves throughout Sri Lanka, highlighting a chilling mafia-style attack. Club Wasantha was gunned down by two marksmen in a professional manner, and in a well-publicized mission, it appeared in a footage that one gunman was picking up a banana or some sweet while escaping the scene.
-
-Numerous CCTV footages depicted the disturbing nature of the crime, suggesting the level of confidence and brazenness among the perpetrators. There is even speculation that one such video was being watched in real-time by the mastermind behind the attack, which, if true, should create fear even among those who are provided security nowadays.
-
-...
-
-[Data](articles/86bd1aeb.json)
-
-[Extended Data](ext_articles/86bd1aeb.ext.json)
-
----
-
-### Child’s Guide To Debt & Debt Restructuring – Part II
-
-*2024-07-14 22:34:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-debt-debt-restructuring-part-ii/) · `en`
-
-Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a former official of the Ministry of Finance, have been in very intense interactive discussion of the debt and debt restructuring problem of Sri Lanka. In the previous episode, they discussed why only bilateral and commercial borrowings of Sri Lanka have been earmarked for restructuring when the country’s total foreign debt had been a massive amount.
-
-...
-
-[Data](articles/8fe7922f.json)
-
-[Extended Data](ext_articles/8fe7922f.ext.json)
 
 ---

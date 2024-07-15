@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 19:20:16**
+As of **2024-07-15 19:35:27**
 
 ## Newspaper Stats
 
-*Scraped **35,394** Articles*
+*Scraped **35,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,100
 dailyftlk | 2,231
-adalk | 3,189
+adalk | 3,191
 adaderanalk | 4,083
 tamilmirrorlk | 4,271
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,394 (100.0%) of 35,394 articles have been extended.
+35,394 (100.0%) of 35,396 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,20 @@ More than 220 representatives of 108 ICC members worldwide will be joined the Cr
 [Data](articles/eec35ff4.json)
 
 [Extended Data](ext_articles/eec35ff4.ext.json)
+
+---
+
+### මෛත්‍රි ඇතුළු පිරිසට වන්දි ගෙවා අවසන් කරන්න අගෝස්තු 30 තෙක් කාලය දෙයි
+
+*2024-07-15 18:35:51* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රි-ඇතුළු-පිරිසට-වන්දි-ගෙවා-අවසන්-කරන්න-අගෝස්තු-30-තෙක්-කාලය-දෙයි/11-410795) · `si`
+
+පාස්කු ඉරුදින කතෝලික දේවස්ථාන හා තරු හෝටල් ඉලක්ක කර මරාගෙන මැරෙන ප්‍රහාරයන් එල්ල කරන බවට නිශ්චිත බුද්ධි තොරතුරු ලැබී තිබියදී එම ප්‍රහාර වළක්වා ගැනීමට ක්‍රියා නොකිරීම තුළින් එම ප්‍රහාරයෙන් තුවාල ලැබූ සහ මියගිය පුද්ගලයින්ගේ ඥාතීන්ගේ මුලික මිනිස් අයිතිවාසිකම් උල්ලංඝණය කිරීම සම්බන්ධයෙන් අධිකරණයෙන් නියම කළ වන්දි මුදල් අගෝස්තු 30 වැනිදාට පෙර සම්පූර්ණයෙන්ම ගෙවා අවසන් කරන ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, හිටපු පොලිස්පති පූජිත් ජයසුන්දර සහ රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන නමැත්තන්ට සත්පුද්ගල ශ්‍රේෂ්ඨාධිකරණය විනිසුරු මඩුල්ල අද (15) නියම කළේය.
+
+අධිකරණයේ නියමය අනුව නියමිත දිනයට පෙර වන්දි මුදල් සම්පුර්ණයෙන් ගෙවා අවසන් නොකළහොත් සැප්තැම්බර් 20 වැනිදාට පෙර ඔවුන්ට එරෙහිව අධිකරණයට අපහාස කිරීමේ චෝදනා යටතේ නඩු පැවරීමට ශ්‍රේෂ්ඨාධිකරණය නීතිපතිවරයාට නියම කළේය.
+
+...
+
+[Data](articles/aba1c503.json)
 
 ---
 
@@ -102,6 +116,22 @@ The General Information Technology (GIT) examination is calling applications fro
 
 ---
 
+### ජනපතිවරණයට එරෙහිව ඉදිරිපත් වූ පෙත්සම ලක්ෂ 5ක ගාස්තුවකට යටත්ව නිශ්ප්‍රභ කරයි
+
+*2024-07-15 18:21:55* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-එරෙහිව-ඉදිරිපත්-වූ-පෙත්සම-ලක්ෂ-5ක-ගාස්තුවකට-යටත්ව-නිශ්ප්‍රභ-කරයි/11-410794) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වැනි සංශෝධනය ජනමත විචාරණයකින් අනුමත කර නොතිබියදී ජනාධිපතිවරණයක් පැවැත්වීම නීතියට පටහැනි බව සඳහන් කරමින් නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා ගෙනු කළ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙනම නිශ්ප්‍රභ කළ ශ්‍රේෂ්ඨාධිකරණය රුපියල් ලක්‍ෂ 05ක නඩු ගාස්තුවක් ගෙවීමටද ඔහුට අද (15) නියම කළේය.
+
+නීතිඥවරයෙකුට නුසුදුසු ආකාරයෙන් සහ අධිකරණය නොමග යවන ආකාරයෙන් නීතිඥ අරුණ ලක්සිරි මහතා කටයුතු කර ඇතැයි පෙන්වා දුනන් අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ඔහුගේ ක්‍රියා කලාපය මෙන්ම හැසීරීමද දැඩි දෝෂ දර්ශණයට ලක් කළේය.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වැනි සංශෝධනය නිසියාකාරව සම්මත වී නොමැති අවස්ථාවක එය ජනමත විචාරණයකට යොමු කර අනුමැතිය ගන්නා තුරු ජනාධිපතිවරණයක් පැවැත්වීමෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මෙන්ම මුලික අයිතිවාසිකම්ද උල්ලංඝනය වන බවට තීන්දුවක් දෙන්නැයි ඉල්ලමින් නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා ගොනු කර ඇති මුලික අයිතිවාසිකම් පෙත්සම අගවිනිසුරු ජයන්ත ජයසුරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ මෙලෙස සළකා බැලේ.
+
+...
+
+[Data](articles/ae468b4c.json)
+
+---
+
 ### තවත් තරුණයෙකුට දිවි අහිමිවෙයි
 
 *2024-07-15 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198843) · `si`
@@ -121,6 +151,34 @@ The victim was a 20 year old resident of Hatton, a resident of the area.
 [Data](articles/58d75d7a.json)
 
 [Extended Data](ext_articles/58d75d7a.ext.json)
+
+---
+
+### Sri Lanka cuts electricity prices 22.5-pct
+
+*2024-07-15 17:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-domestic-electricity-prices-22-5-pct-172136/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Public Utilities Commission has cut electricity tariffs by an average of 22.5 percent, Chairman M A R M Fernando said.
+
+Domestic user bills were down by an average 27 percent along with a cut in fixed charges, ahead of elections.
+
+The unit tariff cost for some domestic categories are down as much as 55 percent.
+
+The price of a unit was reduced from 8 rupees to 6 rupees for domestic users who use below 30 units a month. A bill of 390 rupees would now be reduced to 280.
+
+The unit price for those who consume 31-60 units would now cost 9 rupees instead of 20 rupees.
+
+In the industrial and hotels categories daytime tariff was reduced by 25 percent. Micro and SME saw a similar reduction.
+
+“One of the main concerns at the public hearing was to give some benefit to hotels,” Fernando said speaking to reporters in Colombo.
+
+Religious places and charities saw a reduction of 30 percent.
+
+◼️
+
+[Data](articles/66f51376.json)
+
+[Extended Data](ext_articles/66f51376.ext.json)
 
 ---
 
@@ -677,34 +735,6 @@ During that period, only a few simple documents were provided to the "temporary 
 [Data](articles/99680e29.json)
 
 [Extended Data](ext_articles/99680e29.ext.json)
-
----
-
-### Sri Lanka cuts domestic electricity prices 22.5-pct
-
-*2024-07-15 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-domestic-electricity-prices-22-5-pct-172136/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Public Utilities Commission has cut electricity tariffs by an average of 22.5 percent, Chairman M A R M Fernando said.
-
-Domestic user bills were down by an average 27 percent along with a cut in fixed charges, ahead of elections.
-
-The unit tariff cost for some domestic categories are down as much as 55 percent.
-
-The price of a unit was reduced from 8 rupees to 6 rupees for domestic users who use below 30 units a month. A bill of 390 rupees would now be reduced to 280.
-
-The unit price for those who consume 31-60 units would now cost 9 rupees instead of 20 rupees.
-
-In the industrial and hotels categories daytime tariff was reduced by 25 percent. Micro and SME saw a similar reduction.
-
-“One of the main concerns at the public hearing was to give some benefit to hotels,” Fernando said speaking to reporters in Colombo.
-
-Religious places and charities saw a reduction of 30 percent.
-
-◼️
-
-[Data](articles/66f51376.json)
-
-[Extended Data](ext_articles/66f51376.ext.json)
 
 ---
 
@@ -2317,59 +2347,5 @@ The 85-year-old Fujimorur, 85 years were released in jail due to the previous mu
 [Data](articles/61f13012.json)
 
 [Extended Data](ext_articles/61f13012.ext.json)
-
----
-
-### 11 students who have been mounted on vaccine
-
-*2024-07-15 10:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பூசி-ஏற்றப்பட்ட-11மாணவர்கள்-பாதிப்பு/175-340417) · `ta`
-
-Eleven schoolchildren aged 6-13 from Mihintale area were hospitalized after receiving a vaccine.
-
-🟩
-
-Eleven school children have been admitted to the Anuradhapura Teaching Hospital due to the vaccine given to a group of school students.
-
-11 schoolchildren between the ages of 6 and 13, who live in the surrounding areas of Mihintale, are in danger of getting vaccinated.
-
-Eleven school students have been sick and admitted to the Anuradhapura Teaching Hospital due to the vaccine given to a group of students.
-
-11 schoolchildren between the ages of 6 and 13, who live in the surrounding areas of Mihintale, are in danger of getting vaccinated.
-
-◼️
-
-[Data](articles/d50ee5d6.json)
-
-[Extended Data](ext_articles/d50ee5d6.ext.json)
-
----
-
-### පුද්ගලයෙක් ව ඝාතනය කර කැබ් රථයක දමා ගිනි තියලා
-
-*2024-07-15 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198817) · `si`
-
-In the Uppuweli area, a man was killed and his body burned in a cab. The incident, part of a private dispute, involved three suspects who attacked the victim with a motorbike before killing him and burning his body. The victim ran a shop in Alaswatta and was identified as the attacker.
-
-🟩
-
-Police say a cab had been killed and burned into a cab in the Uppuweli area.
-
-The investigation was revealed at a private dispute yesterday (13) on information received by the Uppuwala Police yesterday.
-
-Three suspects involved in crime have been identified and a suspect, a suspect, has been arrested by the police.
-
-The victim has operated a shop in Alaswatta area, Alaswatta area.
-
-When the man was in the store with two others, the suspects came with a motorbike and hit him with his own cab.
-
-He was then killed and he was taken to a thug in Morawewa and burned to the cab.
-
-A stage suspected to be used to the murder was later investigated.
-
-◼️
-
-[Data](articles/b72f7bd4.json)
-
-[Extended Data](ext_articles/b72f7bd4.ext.json)
 
 ---

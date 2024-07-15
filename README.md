@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 16:52:06**
+As of **2024-07-15 17:05:14**
 
 ## Newspaper Stats
 
-*Scraped **35,368** Articles*
+*Scraped **35,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,188
-adaderanalk | 4,076
+adaderanalk | 4,078
 tamilmirrorlk | 4,269
 dailymirrorlk | 4,733
 virakesarilk | 5,508
-adaderanasinhalalk | 5,911
+adaderanasinhalalk | 5,913
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,367 (100.0%) of 35,368 articles have been extended.
+35,368 (100.0%) of 35,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### පියුමි හංසමාලී අත්අඩංගුවට ගැනීම ගැන නීතිපතිගෙන් දැනුම්දීමක්
+
+*2024-07-15 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198841) · `si`
+
+මුදල් විශුද්ධිකරණය සම්බන්ධයෙන් විමර්ශනයකට භාජනය වී සිටින නිරූපණ ශිල්පිණියක වන පියුමි හංසමාලි ලබන සැප්තැම්බර් මස 20 වනදා දක්වා අත්අඩංගුවට ගැනීමක් නොකරන බවට අභියාචනාධිකරණය හමුවේ නීතිපතිවරයා විසින් දැනුම් දී තිබේ.
+
+එහෙත් පියුමි හංසමාලිට එරෙහි විමර්ශන බාධාවකින් තොරව ඉදිරියට පවත්වාගෙන යා හැකි බවත් අධිකරණය සඳහන් කළේය.
+
+තමන්ව අත්අඩංගුවට ගැනීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා පියුමී හංසමාලි විසින් ඉදිරිපත් කළ රිට් පෙත්සමක් අද (15) අභියාචනාදීකරණය හමුවේ සලකා බැලූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකර තිබේ.
+
+මෙම පෙත්සම අද අභියාචනාධිකරණ විනිසුරු සෝභිත රාජකරුණා මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිස්ටර් ජෙනරාල්වරයා අධිකරණයට දන්වා සිටියේ, විමර්ශන කටයුතු අවසන් වනතුරු පෙත්සම්කාරිය අත්අඩංගුවට ගැනීමක් නොකරන බවය.
+
+ඒ අනුව පෙත්සම වැඩිදුර සලකා බැලීම සඳහා සැප්තැම්බර් මස 20 වන දා කැඳවීමටද දින නියම වුණි.
+
+◼️
+
+[Data](articles/42521650.json)
+
+---
+
+### Pakistan to ban Imran Khan’s party, file treason case against ex-PM
+
+*2024-07-15 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100529/pakistan-to-ban-imran-khans-party-file-treason-case-against-ex-pm) · `en`
+
+Pakistan is planning to ban former Prime Minister Imran Khan’s political party and move the country’s top court to press treason charges against him, the information minister said on Monday.
+
+The move to ban Pakistan Tehreek-e-Insaf (PTI) was based on the proven charge of the party receiving foreign funds from sources that are illegal in Pakistan, as well as rioting by the supporters last year that targeted military installations, Minister Attaullah Tarar said.
+
+“The federal government will move a case to ban the Pakistan Tehreek-e-Insaaf,” he said, adding that the plan will be taken up before the cabinet, which was empowered to take a decision.
+
+The government will also file a legal reference against Khan and former President Arif Alvi for treason charges under the country’s constitution before the Supreme Court, Tarar said.
+
+...
+
+[Data](articles/45dc3a2e.json)
+
+---
+
+### කැබ් රථ අනතුරින් රියදුරු මරුට - 5ක් රෝහලට
+
+*2024-07-15 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198840) · `si`
+
+වැලිකන්ද පොලිස් වසමේ කැබ් රථ අනතුරකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අද (15) උදෑසන කාලයේ වැලිකන්ද සිංහපුර මාර්ගයේ සිංහපුර දෙස සිට වැලිකන්ද දෙසට ධාවනය කරන ලද කැබ් රථයක් එහි රියදුරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට පැන ගසක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය පැවසුවේය.
+
+අනතුරින් කැබ් රථයේ රියදුරු මිය ගොස් ඇති අතර එහි ගමන් ගත් පුද්ගලයින් 05 දෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා පො‍ළොන්නරුව රෝහලට ඇතුළත් කර තිබේ.
+
+අනතුරෙන් මිය ගොස් ඇත්තේ 52 හැවිරිදි සිංහපුර වැලිකන්ද ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/aca2b4ba.json)
+
+---
+
+### 41-year-old man found hacked to death inside home
+
+*2024-07-15 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100528/41-year-old-man-found-hacked-to-death-inside-home) · `en`
+
+An individual has been hacked to death using a sharp weapon early this morning (15) in a house in Rathukurusawatta area of Moratuwa.
+
+The deceased has been identified as 41-year-old Harendra Kumara, also known as ‘Podi Aiya’ while Moratuwa Police has arrested a suspect in connection with the incident.
+
+The motive behind the murder has not been ascertained yet and Moratuwa Police are conducting further investigations into the incident.
+
+The residents of the area claim that at around 11.00 p.m. last night, they had heard a loud noise from near the house in question of someone shouting and that they had refrained from looking into it due to hearing the sound of ‘Pirith’ chanting from the house shortly after.
+
+However, it was later revealed that the deceased’s wife, who had been tied up using ropes, managed to alert a female neighbour via her mobile phone after breaking free.
+
+...
+
+[Data](articles/8158d893.json)
+
+---
 
 ### Foreign Minister Sabry to visit Romania and Poland
 
@@ -130,15 +208,21 @@ The doctor added that although this has been involved in this, the drug has been
 
 *2024-07-15 15:48:30* · [`adalk`](https://www.ada.lk/breaking_news/සුලඟට-ගසා-ගිය-ශිෂ්‍යත්ව-වැඩසටහන/11-410792) · `si`
 
+Due to severe weather conditions, the scholarship award ceremony scheduled for nearly 3700 students in Galle district had to be cancelled. The event, set to take place under the patronage of Hon. Governor Lakshman Yapa Abeywardena and Members of Parliament, faced significant damage to its stage and other facilities.
+
+🟩
+
 ගාල්ල සමනළ ක්‍රිඩාංගනයේ දි අද (15) පෙරවරුවේ දි පැවැත්විමට නියමිතව තිබු  ගාල්ල දිස්ත්‍රික්  ජනාධිපති ශිෂ්‍යත්ව ප්‍රදාන වැඩසටහන සදහා ඉදිකර තිබු වේදිකා, කුඩාරම්, විදුලි උපකරණ සියල්ල අද අළුයම් කාලයේ දි ඇතිවු  දැඩි සුළං තත්ත්වයක් හේතුවෙන්  දැඩි හානියට  පත්ව ඇත.
 
-ගාල්ල දිස්ත්‍රික්කයේ  පාසල් ළමුන් 3700 කට ආසන්න පිරිසකට  ශිෂ්‍යත්ව ප්‍රදානය කිරිමට  නියමිතව තිබුණි. දකුණු පළාත් ආණ්ඩුකාර ලක්ෂමන් යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් සහ ගාල්ල දිස්ත්‍රික්කයේ මැති ඇමතිවරුන්ගේ ප්‍රධානත්වයෙන් මෙම උත්සවය පැවැත්විමට නියමිතව තිබුණි.
+Nearly 3700 schoolchildren in Galle district were to be awarded scholarships. The ceremony was due to be held under the patronage of Hon. Governor Lakshman Yapa Abeywardena and Members of Parliament in Galle.
 
-ඉදිකොට තිබු වේදිකා කුඩාරම් වලට හානි සිදුවිම නිසා අද දින පැවැත්විමට නියමිතව තිබු ශිෂ්‍යත්ව ප්‍රදානය කිරිමේ වැඩසටහන අවලංගු කොට ඇත. ශිෂ්‍යත්ව ලබා ගැනිම සදහා දෙමව්පියන් සමග පැමිණි පාසල් සිසුන්  ආපසු හැරිගියහ. ( I J )
+Schegrams of scholarships to be held today have been canceled today due to the damage to the stage kines.. School children who came with parents to obtain scholarships. (I J)
 
 ◼️
 
 [Data](articles/b08b1f84.json)
+
+[Extended Data](ext_articles/b08b1f84.ext.json)
 
 ---
 
@@ -2221,89 +2305,5 @@ Spain was able to defeat England in the end of the 2024 European cup.
 [Data](articles/be2e69da.json)
 
 [Extended Data](ext_articles/be2e69da.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-07-15 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198810) · `si`
-
-Heavy showers expected in Western, Sabaragamuwa, Northwestern provinces, and specific districts including Kandy, Nuwara Eliya, Galle, and Matara. Intense rainfall possible in some areas with heavy downpours exceeding 50mm. Strong winds also forecasted across various regions, particularly in the north and central hills, with gusts between 50-60km/h.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-In some places in the Western and Sabaragamuwa provinces, Kandy and Nuwara Eliya districts. Heavy rains can occur in more than 50.
-
-At times at the Trincomalee farencies of the central hills and in the North, North, North, North Central and North Western provinces.. (50-60) has been informed that there is about strong winds.
-
-From time to time in the rest of the island.. (30-40) can cause strong winds.
-
-◼️
-
-[Data](articles/8caf9033.json)
-
-[Extended Data](ext_articles/8caf9033.ext.json)
-
----
-
-### The eyes of the eyes of their children are invisible
-
-*2024-07-15 03:49:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c729vw5lzp8o) · `si`
-
-A teacher from the Government Roman Catholic College in Mannar, Sri Lanka, shares her journey of advocating for children's vision health since childhood. She emphasizes the importance of addressing visual impairments early and encourages parents and religious leaders to support children despite any disabilities.
-
-🟩
-
-It contains nothing here.Video height, "We have no need to hide that there was disorders."
-
-The first visual impairment is a teacher of the Government Roman Catholic College, Mannar in Pannaruwa, Mannar in Mannar.
-
-When she was eight years old, he was working hard to acquire the children's eyes.
-
-'' There is a history that has no legs in the game even the Olympics. Therefore, it is not necessary to take the disability and shortcomings. Despite their shortcomings, parents must study the child and give a new eye. I hope to deal with religious leaders to join the religious leaders. "
-
-◼️
-
-[Data](articles/954b914d.json)
-
-[Extended Data](ext_articles/954b914d.ext.json)
-
----
-
-### Thailand attends Industry Expo 2024 and DigiEcon Global Investment Summit in Sri Lanka
-
-*2024-07-15 02:35:09* · [`dailyftlk`](https://www.ft.lk/business/Thailand-attends-Industry-Expo-2024-and-DigiEcon-Global-Investment-Summit-in-Sri-Lanka/34-764278) · `en`
-
-Thai Chamber of Commerce and Thailand Board of Trade Chairman leads delegation
-
-The Embassy and Permanent Mission of Sri Lanka in Bangkok made arrangements for a seven member delegation headed by the Thai Chamber of Commerce and Thailand Board of Trade Chairman Sanan Angubolkul to join the International Industry Expo 2024 and DigiEcon Global Investment Summit held in Sri Lanka recently.
-
-During the visit, Angubolkul and his delegation paid a courtesy call on the Industries Minister Dr. Ramesh Pathirana and had a meeting with the Trade, Commerce and Food Security Secretary A.M.P.M.B. Atapattu, and discussed ways to enhance bilateral trade and investment.
-
-The Memorandum of Understanding between the Board of Trade of Thailand and the Ceylon Chamber of Commerce of Sri Lanka, which was already signed in 1988, was also renewed at the Ceylon Chamber of Commerce during the visit.
-
-◼️
-
-[Data](articles/8bc8cbb6.json)
-
-[Extended Data](ext_articles/8bc8cbb6.ext.json)
-
----
-
-### Hayleys Fabric wins Gold at Presidential Environmental Awards 2024
-
-*2024-07-15 02:32:17* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-wins-Gold-at-Presidential-Environmental-Awards-2024/34-764277) · `en`
-
-Hayleys Fabric Managing Director/CEO Rohan Goonetilleke (left) receiving the Gold award – Textile and Textile Processing Industry from President Ranil Wickremesinghe at the Presidential Environmental Awards 2024
-
-Hayleys Fabric PLC, a leading textile manufacturer in Sri Lanka, has received the Gold award in the Textile and Textile Processing Industry at the Presidential Environmental Awards 2024. This prestigious accolade highlights Hayleys Fabric’s unwavering commitment to environmental sustainability, distinguishing the business among nearly 1000 applicants nationwide. The award’s selection process emphasised companies’ environmental dedication, with Hayleys Fabric standing out for its robust ESG (Environment, Social, and Governance) framework.
-
-...
-
-[Data](articles/764da880.json)
-
-[Extended Data](ext_articles/764da880.ext.json)
 
 ---

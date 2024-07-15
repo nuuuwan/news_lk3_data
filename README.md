@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 05:05:07**
+As of **2024-07-16 05:20:08**
 
 ## Newspaper Stats
 
-*Scraped **35,437** Articles*
+*Scraped **35,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 315
 colombotelegraphcom | 333
 bbccomsinhala | 344
 newsfirstlk | 363
-islandlk | 2,004
+islandlk | 2,005
 economynextcom | 2,102
 dailyftlk | 2,246
 adalk | 3,192
@@ -26,91 +26,135 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,432 (100.0%) of 35,437 articles have been extended.
+35,437 (100.0%) of 35,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### நாட்டில் சட்டத்தின் ஆட்சியை பாதுகாக்கும் வகையில் விரைவில் புதிய சட்டங்கள் - நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ்
+### New Laws soon to protect the rule of law in the country - Justice Minister Wijeyadasa Rajapaksa
 
 *2024-07-16 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188559) · `ta`
 
-எமது நாட்டில் அரசாங்கத்தினால் செய்ய வேண்டிய விடயங்களைச் செய்யாமலும் செய்யக்கூடாத விடயங்களை செய்ததாலும் நாடு சீரழிந்துள்ளது. அதனால் நாட்டின் சட்டத்தின் ஆட்சியைப் பாதுகாக்கும் வகையில் மேலும் பல புதிய சட்ட திருத்தங்களை மேற்கொள்ள இருக்கிறோம் என நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+Justice Minister Wijeyadasa Rajapaksa announced upcoming legal reforms aimed at strengthening the rule of law in Sri Lanka, highlighting the need for governance changes and the reduction of court cases through arbitration. He emphasized the importance of electing leaders capable of implementing necessary amendments, including updates to the Divorce Act and stricter penalties for certain crimes. The minister noted the success of the Arbitration Council system in resolving conflicts and reducing crime rates, attributing a significant decrease in court cases to this initiative.
 
-தேசிய மத்தியஸ்த தினத்தை முன்னிட்டு இலங்கை மன்ற கல்லூரியில் திங்கட்கிழமை (16) இடம்பெற்ற நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டில் மாற்றத்தை ஏற்படுத்த வேண்டும் என மக்கள் போராட்டம் நடத்தினார்கள். ஆனால் மாற்றத்தை ஏற்படுத்த விருப்பம் உள்ளவர்கள் ஆட்சியில் இருக்கவேண்டும். நாட்டில் இருக்கும் பிரதான சட்டங்களில் திருத்தம் மேற்கொண்டு புதிய சட்டங்களை கொண்டுவர தேவையான வரைபை நாங்கள் தயாரித்துள்ளோம். அதனால் மாற்றத்தை ஏற்படுத்த முடியுமானவர்களை ஆட்சியாளர்களாக தெரிவு செய்யும் பொறுப்பு மக்களிடமே இருக்கிறது. எதிர்வரும் காலங்களில் விவாகரத்து சட்டம் உள்ளிட்ட பல புதிய சட்ட திருத்தங்களை மேற்கொள்ள இருக்கிறோம்.
+The country has deteriorated by doing things that the government should not do in our country. Justice Minister Wijeyadasa Rajapaksa said that we will make more new amendments to the country's law.
+
+He was speaking at a function held at the Sri Lanka Forum on Monday (16) to mark the National Arbitration Day.
+
+People fought for a change in the country. But those who are willing to make a change must be in power. We have prepared the required draft to amend the major laws in the country and bring in new laws. So the people are responsible for choosing the rulers who can make a change. We will make many new amendments, including the Divorce Act.
 
 ...
 
 [Data](articles/34529b2e.json)
 
+[Extended Data](ext_articles/34529b2e.ext.json)
+
 ---
 
-### கொழும்பில் 50,000 அடுக்குமாடி குடியிருப்புகளுக்கான உரித்துரிமை உறுதிப் பத்திரங்கள் - தலைவர், தேசிய வீடமைப்பு அபிவிருத்தி அதிகாரசபை
+### 50,000 apartments in Colombo -Chairman, National Housing Development Authority
 
 *2024-07-16 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/188558) · `ta`
 
-நாடளாவிய ரீதியில் உள்ள அனைத்து உதா கம்மானங்களிலும்  உரித்துரிமை பத்திரம் பெறாத 34,000 பேருக்கு உறுதிப் பத்திரங்கள் வழங்கப்படவுள்ளதாக தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் தலைவர் ரஜீவ் சூரியஆராச்சி தெரிவித்தார்.
+The National Housing Development Authority plans to issue land rights to 34,000 families by mid-next year, part of a broader initiative to transfer land ownership from various institutions to the authority. This move is aligned with the 2024 budget proposal aiming to grant land rights to two million families in Colombo, starting with 50,000 apartments. The project, named Urumaya, is not politically motivated but rather a response to legal and policy challenges delaying similar initiatives. The initiative includes resolving land issues, facilitating land transfers, and addressing historical eligibility gaps affecting low-income homeowners.
 
-முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் காலத்தில் இருந்து வீடமைப்பு அமைச்சர்களினால் ஆரம்பிக்கப்பட்ட 1255 உதாகம்மானங்களில் 34,000 குடும்பங்களுக்கு உரிமைப் பத்திரம் வழங்கும் பணி அடுத்த வருடத்தின் நடுப்பகுதியில் நிறைவடையும் என அவர் வலியுறுத்தினார்.
+🟩
 
-தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையினால் ஆரம்பிக்கப்பட்டுள்ள வீடமைப்புத் திட்டங்களில் காணியின் உரிமையானது பல்வேறு நிறுவனங்களிடமே உள்ளதாகவும், அந்தக் காணிகளை தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபைக்கு மாற்றும் நடவடிக்கைகள் தற்போது இடம்பெற்று வருவதாகவும் தலைவர் குறிப்பிட்டார்.
+The National Housing Development Authority Chairman Rajeev Surya Arachchi said that 34,000 people who did not receive the rights of the country would be issued in all the country.
+
+He stressed that the work of issuing a right to 34,000 families in the 1255 of the 1255 commemorations launched by the Housing Ministers from the time of former President Ranasinghe Premadasa will be completed in the mid -next year.
+
+The Chairman said that the ownership of the land is in various institutions in the housing projects initiated by the National Housing Development Authority and that the land is now being transferred to the National Housing Development Authority.
+
+Speaking at a press conference held today (15), the National Housing Development Authority Chairman Rajivasuriya Arachchi said this. The discussion was held at the Government Information Department.
 
 ...
 
 [Data](articles/5f0f22c4.json)
 
+[Extended Data](ext_articles/5f0f22c4.ext.json)
+
 ---
 
-### தேசிய இனப்பிரச்சினைக்கு நடைமுறைச்சாத்தியமான தீர்வை முன்வைப்பதற்கு முன்னுரிமை வழங்குங்கள் - தேசிய மக்கள் சக்தியிடம் புத்திஜீவிகள் 21 பேர் கூட்டாக வலியுறுத்தல்
+### Provide priority to present a practical solution to the national ethnic problem - 21 intellectuals jointly emphasiz
 
 *2024-07-16 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188557) · `ta`
 
-இனவாதத்துக்கு எதிராக இடதுசாதிகள் உள்ளடங்கலாக சகல மக்களையும் ஒன்றிணைப்பதற்கும், தேசிய இனப்பிரச்சினைக்கு அனைத்து இனக்குழுக்களாலும்  ஏற்றுக்கொள்ளப்படக்கூடிய நடைமுறைச்சாத்தியமான தீர்வை முன்வைப்பதற்கும் தேசிய மக்கள் சக்தி முன்னுரிமை அளிக்கவேண்டும் என புத்திஜீவிகள் மற்றும் செயற்பாட்டாளர்கள் 21 பேர் கூட்டாக வலியுறுத்தியுள்ளனர்.
+21 intellectuals call for unity among all ethnic groups, including the Left, to find a practical solution to the national ethnic problem. They emphasize the importance of addressing the issue to prevent further conflict and ensure a peaceful future.
 
-இதுகுறித்து பேராசிரியர் ஜயதேவ உயன்கொட, பேராசிரியர் சரத் அபயகோன், கலாநிதி ரமேஷ் ராமசாமி, கலாநிதி செல்வி திருச்சச்திரன், சட்டத்தரணி ஹேரஸ் எம்.ஆரியரத்ன ஆகியோர் உள்ளடங்கலாக 21 பேர் கையெழுத்திட்டு தேசிய மக்கள் சக்தியின் செயலாளருக்கு அனுப்பிவைத்துள்ள கடிதத்தில் மேலும் கூறப்பட்டிருப்பதாவது:
+🟩
+
+The 21 intellectuals and activists have jointly urged the national people's power to unite all the people, including the Left against communal, and to come up with a practical solution that can be accepted by all ethnic groups to the national ethnic problem.
+
+In a letter sent to the Secretary of the National People's Power, 21 signed 21 persons, including Professor Jayadeva Ungoda, Professor Sarath Abhayakon, Dr. Ramesh Ramaswamy, Dr. Selvi Sathsaratharan and Attorney -at -Law Heraz M. Ariyaratne:
+
+In order to win the upcoming elections and to address the ethnic problem, including the ethnic problem, which causes strong conflicts between communities and the creation of the ethnic problem, all the ethnic problem can be accepted by all the ethnic problem and the unity of the people and the unity of the people through the merger of the Left and Progressive Thinkers.
 
 ...
 
 [Data](articles/20c491c9.json)
 
+[Extended Data](ext_articles/20c491c9.ext.json)
+
 ---
 
-### 'ஒலிம்பிக் வாய்ப்பை சாதமாக்கிக்கொள்ளல்' என்ற கருப்பொருளிலான சர்வதேச கிரிக்கெட் பேரவையின் (ICC) வருடாந்த மாநாடு
+### Annual Conference of International Cricket Council (ICC) on the theme of 'Olympic offer
 
 *2024-07-16 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188556) · `ta`
 
-'ஒலிம்பிக் வாய்ப்பை சாதமாக்கிக்கொள்ளல்' என்ற கருப்பொருளிலான சர்வதேச கிரிக்கெட் பேரவையின் (ICC) வருடாந்த மாநாட்டை ஸ்ரீலங்கா கிரிக்கெட் முன்னின்று நடத்தவுள்ளது.
+The ICC Annual Conference, themed 'Olympic Opportunity Consolidating,' led by Sri Lanka Cricket, marks its inaugural South Asian appearance in Colombo from the 19th to 22nd of this month. Gathering over 220 delegates from 108 countries, it aims to strategize cricket's global growth, discussing diversity, environmental sustainability, and the 2028 Los Angeles Olympics. Highlighting Sri Lanka's significance, President Shammi Silva welcomes international representatives to foster cricket's future and showcase the nation's beauty and heritage through key meetings, workshops, and networking sessions.
 
-இந்த மாநாடு கொழும்பில் இம் மாதம் 19ஆம் திகதியிலிருந்து 22ஆம் திகதி வரை நடைபெறவுள்ளது. ஐசிசி வருடாந்த மாநாடு தெற்காசிய பிராந்தியத்தில் நடைபெறுவது இதுவே முதல் தடவையாகும்.
+🟩
 
-இந்த மாபெரும் கிரிக்கெட் மாநாட்டில் ஆபிரிக்கா, அமெரிக்காக்கள், ஆசியா, கிழக்கு ஆசியா பசிபிக் மற்றும் ஐரோப்பா ஆகிய பிராந்தியங்கள் அடங்கலாக உலகம் முழுவதும் உள்ள 108 ஐசிசி உறுப்பு நாடுகளைச் சேர்ந்த 220க்கும் மேற்பட்ட கிரிக்கெட் நிர்வாகிகள் மற்றும் பங்குதாரர்கள் இந்த மாநாட்டில் ஒன்றுகூடவுள்ளனர்.
+Sri Lanka Cricket will lead the annual conference of the International Cricket Council (ICC) on the theme of 'Olympic Opportunity Consolving'.
 
-விளையாட்டில் சரியான இலக்கை நோக்கிய தந்திரோபாயம், நிர்வாகம், உலகம் முழுவதும் கிரிக்கெட்டை அபிவிருத்தி அடையச் செய்தல் ஆகிய விடயங்கள் தொடர்பாக விவாதிப்பதற்கான தளத்தை ஐசிசி வருடாந்த மாநாடு அமைத்துக்கொடுக்கவுள்ளது.
+The conference will be held in Colombo from the 19th to the 22nd of this month.. This is the first time that the ICC annual conference is held in the South Asian region.
+
+More than 220 cricket executives and partners from 108 ICC member states around the world will gather at the conference, including Africa, US, Asia, East Asia, Pacific and Europe.
+
+The ICC Annual Conference will be set up to discuss the tactics of the right goal in the game, the administration and the development of cricket around the world.
+
+'Diversity and Content', 'Environmental Sustainability and Sports', 'Los Angeles' 2028 Olympics will be discussed at this annual conference.
 
 ...
 
 [Data](articles/bae245d6.json)
 
+[Extended Data](ext_articles/bae245d6.ext.json)
+
 ---
 
-### எல்.பி.எல். இறுதிச் சுற்றுக்கு 3ஆவது அணியாக  தகுதிபெற்றது  கலம்போ ஸ்ட்ரைக்கர்ஸ்
+### LPL. Kalambo Strikers qualified as the 3rd team for the final round
 
 *2024-07-16 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188555) · `ta`
 
-கொழும்பு ஆர். பிரேமதாச சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் திங்கட்கிழமை (15) இரவு நடைபெற்ற ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 19ஆவது போட்டியில் கோல் மார்வல்ஸ் அணியை 7 விக்கெட்களால் இலகுவாக வெற்றிகொண்ட கலம்போ ஸ்ட்ரைக்கர்ஸ், 3ஆவது அணியாக இறுதிச் சுற்றில் விளையாட தகுதிபெற்றது.
+Kalambo Strikers secured the third spot in the final round after defeating Colombo Giants by 7 wickets in the Lanka Premier League. Their victory was attributed to Madheesha Pathirana's 4 wickets and Muhammad Waseem's half-century. In another match, Kalambo Strikers clinched a 3-wicket win against Goal Marvels, scoring 142 runs in response to Marvels' 139. Key performers included Muhammad Wasim with 50 runs, Glen Phillips with 31, and Rahmanullah Gurbaz with 23. The next crucial match involves Kandy Belgons facing Dambulla Sixers, where the outcome could determine the final team for the final round.
 
-மதீஷ பத்திரணவின் 4 விக்கெட் குவியலுடனான துல்லிய பந்துவீச்சு, முஹம்மத் வசீம் குவித்த விவேகமான அரைச் சதம் என்பன கலம்போ ஸ்ட்ரைக்கர்ஸின் வெற்றியை இலகுபடுத்தின.
+🟩
 
-கோல் மார்வல்ஸ் அணியினால் நிர்ணயிக்கப்பட்ட 139 ஓட்டங்கள் என்ற சுமாரான வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கலம்போ ஸ்ட்ரைக்கர்ஸ்  18.2 ஓவர்களில் 3 விக்கெட்களை இழந்து 142 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+Colombo r. Galambo Strikers, who won the final round of the Fifth Lanka Premier League chapter in the Premadasa International Cricket Stadium on Monday night (15), qualified for the final round of the Galambo Strikers by 7 wickets.
 
-துடுப்பாட்டத்தில் ஐக்கிய அரபு இராச்சிய வீரர் முஹம்மத் வசீம் 50 ஓட்டங்ளையும் க்ளென் பிலிப்ஸ் ஆட்டம் இழக்காமல் 31 ஓட்டங்களையும் ரஹ்மானுல்லா குர்பாஸ் 23 ஓட்டங்களையும் சதீர சமரவிக்ரம ஆட்டம் இழக்காமல் 15 ஓட்டங்களையும் பெற்றனர்.
+The accurate bowling with the 4 wickets of Madheesha Pathirana and the sensible half -century of Muhammad Waseem easily made Kalambo Strikers' victory.
+
+In response to a "139 -runs by Goal Marvels, Kalambo Strikers won by 3 wickets in 18.2 overs and scored 142 runs.
+
+In the match, the United Arab Emirates player Muhammad Wasim scored 50 runs, Glen Phillips scored 31 runs, Rahmanullah Gurbas 23 and Satheera Samarawickrama scored 15 runs.
+
+In the first match, the first batsman scored 138 runs for the loss of all wickets in 19.5 overs.
+
+Goal Marvels lost 7 wickets for 45 runs in the 13th over.
+
+Tim Seefward scored 44 runs and Panuka Rajapaksa scored 35 runs.
+
+Satisha Rajapaksa scored 15 runs, Janith Liyanage 13 and Sahan Arachike 12.
 
 ...
 
 [Data](articles/71705552.json)
+
+[Extended Data](ext_articles/71705552.ext.json)
 
 ---
 

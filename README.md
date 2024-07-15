@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 21:35:29**
+As of **2024-07-15 21:54:54**
 
 ## Newspaper Stats
 
@@ -26,15 +26,19 @@ adaderanasinhalalk | 5,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,405 (100.0%) of 35,406 articles have been extended.
+35,406 (100.0%) of 35,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### අනුර පෙන්නපු ෆයිල් ගොඩක් ඒවා හිස් - ජනපති
+### A lot of files shown by Anura, they are empty - President
 
 *2024-07-15 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198848) · `si`
+
+In a meeting with legal experts, the President criticized a national movement leader, Anura Kumara Dissanayaka, for causing a commotion and presenting numerous empty files. The President also discussed the failure of the opposition to join discussions, the incorrect portrayal of events, and the lack of any initiatives from the People's Liberation Front. He emphasized the importance of implementing the Anti-Corruption Act effectively and urged for stronger measures against corruption, highlighting the presentation of 400 files, 40 of which were legally challenged, while the remaining 360 were found to be empty.
+
+🟩
 
 හොරු අල්ලන බව පවසමින් ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ලිපිගොනු පෙන්වා සිදුකර ඇත්තේ රැවටීමක් බවත් , ඒ බොහෝ ලිපිගොනු හිස් ඒවා බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
 
@@ -43,6 +47,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5cdfaac2.json)
+
+[Extended Data](ext_articles/5cdfaac2.ext.json)
 
 ---
 

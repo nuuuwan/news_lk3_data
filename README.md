@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 16:35:17**
+As of **2024-07-15 16:52:06**
 
 ## Newspaper Stats
 
-*Scraped **35,367** Articles*
+*Scraped **35,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
-adalk | 3,187
+adalk | 3,188
 adaderanalk | 4,076
 tamilmirrorlk | 4,269
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,362 (100.0%) of 35,367 articles have been extended.
+35,367 (100.0%) of 35,368 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Foreign Minister will also formally open the new Sri Lanka Embassy in Buchar
 ◼️
 
 [Data](articles/671eb5e2.json)
+
+[Extended Data](ext_articles/671eb5e2.ext.json)
 
 ---
 
@@ -68,13 +70,17 @@ The Special Investigation Unit of the SLBFE has arrested the owner of the compan
 
 ---
 
-### ලන්ඩනය සලිත කළ ද්විත්ව ඝාතනය - සිරුරු කොටස් සූට්කේස්වල
+### London-made double murder - bodies shares in suitcase
 
 *2024-07-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198839) · `si`
 
-එංගලන්තයේ ප්‍රකට පාලමක් අසල තිබී හමුවූ සූට්කේස්වල තිබී මිනිස් සිරුරු කොටස් හමුවූ බව ලන්ඩන් මෙට්‍රෝපොලිටන් පොලීසිය පැවසීය.
+London Metropolitan Police discovered human remains in a suitcase near the Clifton Bridge in Bristol, leading to the arrest of Colombian national Yostin Andres Mosquera, 34, on suspicion of murder. The victims identified as Albert Alfonsi, 62, and Paul Longworth, 71, were found in body parts scattered around the suspect's home.
 
-පසුව සිදුකළ විමර්ශන වලින් අනතුරුව මිනීමැරීමේ චෝදනාව මත පුද්ගලයෙක්ව අත්අඩංගුවට ගත් බව පොලිස් බලධාරීන් පැවසීය.
+🟩
+
+London Metropulritan Police said that the human bodies were found near the famous bridge in England.
+
+A person was arrested on charges of murder following the investigation.
 
 එසේ අත්අඩංගුවට ගෙන ඇත්තේ Yostin Andres Mosquera නම් 34 හැවිරිදි කොලොම්බියා ජාතිකයෙකි.
 
@@ -88,25 +94,51 @@ The Special Investigation Unit of the SLBFE has arrested the owner of the compan
 
 [Data](articles/6e41eafe.json)
 
+[Extended Data](ext_articles/6e41eafe.ext.json)
+
 ---
 
-### ඖෂධ ආසාත්මිකතාවයට ලක්වූ දරුවන්ගේ අලුත්ම තත්ත්වය
+### The latest condition of children who were allergic to drugs
 
 *2024-07-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198838) · `si`
+
+Children admitted to Minnetale Hospital for drug allergies underwent investigations related to their condition. Twelve children affected by drug allergies were transferred to Anuradhapura Teaching Hospital. The allergy was caused by two types of medications administered for vomiting and abdominal pain. Children aged 5-11 years were hospitalized due to this condition. All children have now received treatment and been discharged from the hospital after being monitored for 24 hours without any adverse effects. The director suspects environmental changes could also cause similar allergies. Some patients refused vasoconstrictor administration due to fear, but no one should be unnecessarily scared; efforts are made to administer vasoconstrictors as needed.
+
+🟩
 
 මිහින්තලේ රෝහලේ ප්‍රතිකාර සඳහා පැමිණි ළමුන් පිරිසක් ඖෂධ ආසාත්මිකතාවකට ලක්වීම සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇති බව සෞඛ්‍ය අමාත්‍යංශය පවසයි.
 
 මිහින්තලේ රෝහලේ දී ඖෂධ ආසාත්මිකතාවකට ලක්වූ  ළමුන් 12 දෙනෙකු ඊයේ (14) අනුරාධපුර ශික්ෂණ රෝහලට මාරු කර යවා තිබුණි.
 
-වමනය සහ බඩේ කැක්කුම වැනි රෝගී තත්ත්වයන්ට ප්‍රතිකාර ලබාගැනීමට ගිය අවස්ථාවේදී ලබාදුන් ඖෂධ වර්ග 2ක් හේතුවෙන් මෙම ආසාත්මිකතාව හටගෙන තිබූ බව සඳහන්ය.
+The allergy had occurred due to two types of medications that were treated at the time of vomiting and belly pain.
 
-අනුරාධපුර දිස්ත්‍රික් රෝහල් අධ්‍යක්ෂක වෛද්‍ය දිලිප්. එච්. ලියනගේ මහතා මාධ්‍ය හමුවක් පවත්වා කියාසිටියේ, අවුරුදු 5 - 11ත් අතර දරුවන් කිහිපදෙනෙකු මෙම රෝගී තත්ත්වය හේතුවෙන් රෝහල්ගත කළ බවය.
+අනුරාධපුර දිස්ත්‍රික් රෝහල් අධ්‍යක්ෂක වෛද්‍ය දිලිප්. H. ලියනගේ මහතා මාධ්‍ය හමුවක් පවත්වා කියාසිටියේ, අවුරුදු 5 - 11ත් අතර දරුවන් කිහිපදෙනෙකු මෙම රෝගී තත්ත්වය හේතුවෙන් රෝහල්ගත කළ බවය.
 
 එම දරුවන් සියලුදෙනා මේ වනවිට ප්‍රතිකාර ලබා රෝහලෙන් පිටව ගොස් ඇතැයි ද පැවසු වෛද්‍ය ලියනගේ මහතා ඔවුන්ව පැය 24ක කාලයක් රෝහලේ රඳවා ගනිමින් රෝගී තත්ත්වය නිරීක්ෂණය කළ බවත් කිසිදු දරුවෙකුට බලපතළ තත්ත්වයක් නොමැති බවත් කියා සිටියේය.
+
+The doctor added that although this has been involved in this, the drug has been released and the allergic has been released from any other hospital.
 
 ...
 
 [Data](articles/91433f48.json)
+
+[Extended Data](ext_articles/91433f48.ext.json)
+
+---
+
+### සුලඟට ගසා ගිය ශිෂ්‍යත්ව වැඩසටහන
+
+*2024-07-15 15:48:30* · [`adalk`](https://www.ada.lk/breaking_news/සුලඟට-ගසා-ගිය-ශිෂ්‍යත්ව-වැඩසටහන/11-410792) · `si`
+
+ගාල්ල සමනළ ක්‍රිඩාංගනයේ දි අද (15) පෙරවරුවේ දි පැවැත්විමට නියමිතව තිබු  ගාල්ල දිස්ත්‍රික්  ජනාධිපති ශිෂ්‍යත්ව ප්‍රදාන වැඩසටහන සදහා ඉදිකර තිබු වේදිකා, කුඩාරම්, විදුලි උපකරණ සියල්ල අද අළුයම් කාලයේ දි ඇතිවු  දැඩි සුළං තත්ත්වයක් හේතුවෙන්  දැඩි හානියට  පත්ව ඇත.
+
+ගාල්ල දිස්ත්‍රික්කයේ  පාසල් ළමුන් 3700 කට ආසන්න පිරිසකට  ශිෂ්‍යත්ව ප්‍රදානය කිරිමට  නියමිතව තිබුණි. දකුණු පළාත් ආණ්ඩුකාර ලක්ෂමන් යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් සහ ගාල්ල දිස්ත්‍රික්කයේ මැති ඇමතිවරුන්ගේ ප්‍රධානත්වයෙන් මෙම උත්සවය පැවැත්විමට නියමිතව තිබුණි.
+
+ඉදිකොට තිබු වේදිකා කුඩාරම් වලට හානි සිදුවිම නිසා අද දින පැවැත්විමට නියමිතව තිබු ශිෂ්‍යත්ව ප්‍රදානය කිරිමේ වැඩසටහන අවලංගු කොට ඇත. ශිෂ්‍යත්ව ලබා ගැනිම සදහා දෙමව්පියන් සමග පැමිණි පාසල් සිසුන්  ආපසු හැරිගියහ. ( I J )
+
+◼️
+
+[Data](articles/b08b1f84.json)
 
 ---
 
@@ -136,11 +168,17 @@ During that period, only a few simple documents were provided to the "temporary 
 
 *2024-07-15 15:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-5-சதவீதம்-மின்கட்டணம்-குறைப்பு/175-340445) · `ta`
 
-மின்கட்டணத்தை 22.5 சதவீதம் குறைப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது. இது, செவ்வாய்க்கிழமை (16) முதல் அமுலாகுமென பொது பயன்பாடுகள் ஆணைக்குழு அறிவித்துள்ளது.
+A decision has been made to decrease electricity rates by 22.5%, effective from Tuesday (16th). This reduction will be implemented as per the directives of the Public Utilities Commission.
+
+🟩
+
+It has been decided to reduce the electricity 22.5 percent. இது, செவ்வாய்க்கிழமை (16) முதல் அமுலாகுமென பொது பயன்பாடுகள் ஆணைக்குழு அறிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/e858d505.json)
+
+[Extended Data](ext_articles/e858d505.ext.json)
 
 ---
 
@@ -174,7 +212,11 @@ Accordingly, the committee was instructed to attend the committee by August as a
 
 *2024-07-15 15:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கு-எதிரான-மனுவுக்கு-ஆட்சேபனை/175-340444) · `ta`
 
-அரசியலமைப்பின் 19 ஆவது திருத்தம் தொடர்பில் சர்வஜன வாக்கெடுப்பு நடத்தப்படாமல் ஜனாதிபதித் தேர்தலை நடத்தக் கூடாது என பிரகடனப்படுத்துமாறு கோரி சட்டத்தரணியினால் தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மீறல் மனுவின் நிலைப்பாட்டை சவால் செய்து சட்டமா அதிபர், திங்கட்கிழமை (15) ஆரம்ப ஆட்சேபனைகளை முன்வைத்துள்ளார்.
+The Attorney General challenged a petition seeking to halt the presidential election until a referendum on the 19th Amendment of the Constitution is held, arguing there's no legal basis for continuing it since the amendment was ratified by the Speaker on May 15, 2015. The petition, filed by a lawyer, was presented before a three-judge panel led by Prime Justice Jayantha Jayasuriya, Justice Arjun Obesekar, and Justice Priyantha Fernando Bandara, who took it up for consideration on Monday.
+
+🟩
+
+The Attorney General on Monday (Monday), challenging the position of a fundamental rights violation petition filed by the lawyer demanding that the presidential election should not be held without a referendum on the 19th Amendment of the Constitution, the Attorney General has presented the initial objections.
 
 அரசியலமைப்பின் 19ஆவது திருத்தத்தை 2015 மே 15ஆம் திகதி சபாநாயகர் சான்றளித்துள்ளதாகவும், எனவே இந்த மனுவைத் தொடர்வதற்கு எவ்வித சட்ட அடிப்படையும் இல்லை எனவும் பிரதி சொலிசிட்டர் ஜெனரல் கனிஷ்க டி சில்வா உயர் நீதிமன்றத்திற்கு அறிவித்தார்.
 
@@ -183,6 +225,8 @@ Accordingly, the committee was instructed to attend the committee by August as a
 ◼️
 
 [Data](articles/8eac3686.json)
+
+[Extended Data](ext_articles/8eac3686.ext.json)
 
 ---
 
@@ -2261,21 +2305,5 @@ Hayleys Fabric PLC, a leading textile manufacturer in Sri Lanka, has received th
 [Data](articles/764da880.json)
 
 [Extended Data](ext_articles/764da880.ext.json)
-
----
-
-### Vietnam delegation participates in Ratnapura International Gem and Jewellery Show
-
-*2024-07-15 02:30:11* · [`dailyftlk`](https://www.ft.lk/business/Vietnam-delegation-participates-in-Ratnapura-International-Gem-and-Jewellery-Show/34-764276) · `en`
-
-An eight-member delegation from Vietnam headed by Secretary General and Vice President of the Vietnam Association of Gemstones (VAG) participated in the Ratnapura International Gem and Jewellery show from 29 June to 1 July 2024.
-
-AGO Gems, a renowned gem company in Vietnam also had a booth at the fair. AGO Gems Owner Nguyen Van Trung and Indian Business Chamber in Vietnam Chairman Sengupta Indronil were also in the delegation.
-
-...
-
-[Data](articles/76693eec.json)
-
-[Extended Data](ext_articles/76693eec.ext.json)
 
 ---

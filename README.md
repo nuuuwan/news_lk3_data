@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 08:57:05**
+As of **2024-07-15 09:07:10**
 
 ## Newspaper Stats
 
-*Scraped **35,270** Articles*
+*Scraped **35,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,45 @@ dbsjeyarajcom | 314
 colombotelegraphcom | 333
 bbccomsinhala | 341
 newsfirstlk | 363
-islandlk | 1,995
+islandlk | 2,002
 economynextcom | 2,089
 dailyftlk | 2,231
-adalk | 3,180
+adalk | 3,181
 adaderanalk | 4,056
-tamilmirrorlk | 4,247
+tamilmirrorlk | 4,249
 dailymirrorlk | 4,733
-virakesarilk | 5,501
+virakesarilk | 5,502
 adaderanasinhalalk | 5,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,269 (100.0%) of 35,270 articles have been extended.
+35,270 (100.0%) of 35,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### டிரம்ப் மீது துப்பாக்கி பிரயோகத்தினை மேற்கொண்டவர் உளரீதியான பாதிப்புகள் இல்லாதவர்-கொள்கை ரீதியான காரணங்களும் இல்லை – எவ்பிஐ
+
+*2024-07-15 08:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188465) · `ta`
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்மீது துப்பாக்கிபிரயோகத்தினை மேற்கொண்ட தோமஸ் மத்தியுஸ் குரூக்ஸ்  உளரீதியாக பாதிக்கப்படாதவர் என எவ்பிஐ தெரிவித்துள்ளது.
+
+துப்பாக்கி பிரயோகத்தினை மேற்கொண்டவர் உளரீதியான பாதிப்பிற்குள்ளானவர் என்பதற்கான அறிகுறிகள் எதுவுமில்லை என தெரிவித்துள்ள எவ்பிஐ அதிகாரியொருவர் அவரது நோக்கம் குறித்தே கவனம் செலுத்துகின்றோம் குறிப்பாக சமூக ஊடகங்களில் அவரது பதிவுகளை ஆராய்கின்றோம் என தெரிவித்துள்ளார்.
+
+இதுவரை ஆபத்தான அச்சுறுத்தலான விடயங்கள் எதனையும் காணமுடியவில்லை விசாரணைகள் ஆரம்பகட்டத்திலேயே உள்ளன என குறிப்பிட்டுள்ள அவர் அவரது கையடக்க தொலைபேசியை ஆராய்கின்றோம் அதனை எவ்பிஐயின் ஆய்வு கூடத்திற்கு அனுப்பியுள்ளோம் எனவும் தெரிவித்துள்ளார்.
+
+டொனால்ட் டிரம்ப் மீதான துப்பாக்கி பிரயோகத்திற்கு கொள்கைரீதியான காரணங்கள் எதுவும் இருப்பதாக தெரியவில்லை,அவர் தனித்து செயற்பட்டுள்ளார் போல தோன்றுவதாகவும் எவ்பிஐ தெரிவித்துள்ளது.
+
+அவர் கடந்த காலங்களில் எங்களின் கண்காணிப்புகளின் கீழ் இருக்கவில்லை எங்கள் தரவுகளில் இடம்பெற்றிருக்கவில்லை எனவும் எவ்பிஐ தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/e8d81a6f.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the country
 
@@ -47,6 +67,8 @@ Fairly strong winds about 30-40kmph can be expected at times elsewhere of the is
 ◼️
 
 [Data](articles/4de7b237.json)
+
+[Extended Data](ext_articles/4de7b237.ext.json)
 
 ---
 
@@ -170,6 +192,110 @@ The petitioner has also shown that the President has not been able to signify th
 
 ---
 
+### Pan Asia Bank modernises banking in Jaffna with new digital zone
+
+*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/pan-asia-bank-modernises-banking-in-jaffna-with-new-digital-zone/) · `en`
+
+Pan Asia Bank, has announced the opening of its cutting-edge Digital Zone at the Jaffna branch, No. 570 Hospital Road. This significant development underscores the bank’s dedication to providing innovative and convenient banking solutions to its esteemed customers in the northern region. Equipped with the latest technology, the Digital Zone features various self-service facilities 24/7.
+
+Naleen Edirisinghe, Director/CEO of Pan Asia Bank, expressed his enthusiasm for the launch: “We are excited to bring this advanced Digital enablement to our customers in Jaffna. This initiative is part of our broader strategy to enhance customer convenience through digital innovation.
+
+IIHS opens doors for GCE O/L and A/L students to discover career pathways
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/0ec528c3.json)
+
+---
+
+### ADB approves support for power sector reforms in Sri Lanka
+
+*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/adb-approves-support-for-power-sector-reforms-in-sri-lanka/) · `en`
+
+The Asian Development Bank (ADB) approved a $100 million policy-based loan on July 11 to support and facilitate reforms aimed at enhancing the financial sustainability of the power sector in Sri Lanka.
+
+The Power Sector Reforms and Financial Sustainability Program will complement the International Monetary Fund’s Extended Fund Facility arrangement and bolster the operational efficiency and competitiveness of country’s power sector. The program will help create a conducive environment for private investments, boosting renewable energy development, and modernizing power grids.
+
+...
+
+[Data](articles/2c86a0b8.json)
+
+---
+
+### Seylan LKR 10 bn debenture issue oversubscribed on opening day
+
+*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/seylan-lkr-10-bn-debenture-issue-oversubscribed-on-opening-day/) · `en`
+
+Seylan Bank, announced that its recent LKR 10Bn Debenture issue was oversubscribed on its opening day, with applications for over 100 million debentures, signalling strong investor confidence.
+
+The Bank issued an initial LKR 5 billion in Basel III-compliant, Tier 2, listed, rated, unsecured, subordinated, redeemable debentures. These debentures, priced at Rs. 100 each, have maturity periods of five and seven years and include a non-viability conversion feature. In case of oversubscription, the Bank retained the option to issue an additional LKR 3 billion in debentures, with a further option to issue another LKR 2 billion under the same terms. The Debentures were rated BBB (lka) by Fitch Ratings Lanka Limited and are to be listed on the Colombo Stock Exchange.
+
+...
+
+[Data](articles/cd4e498f.json)
+
+---
+
+### IIHS opens doors for GCE O/L and A/L students to discover career pathways
+
+*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/iihs-opens-doors-for-gce-o-l-and-a-l-students-to-discover-career-pathways/) · `en`
+
+International Institute of Health Sciences (IIHS), has granted GCE Ordinary Level (O/L) and Advanced Level (A/L) students interested in healthcare careers the opportunity to visit its premises. The IIHS offers a wide range of courses in various healthcare disciplines, including Nursing, Physiotherapy, Biomedical Sciences, Paramedic Sciences, Psychology, Nutrition and Dietetics, Health Services Management, Digital Health, and Radiography. With state-of-the-art facilities and experienced faculty members, they provide students with a comprehensive learning experience, preparing them for successful careers in the healthcare industry.
+
+...
+
+[Data](articles/cdcd2ebb.json)
+
+---
+
+### Singer unveils four new smartphones at nubia brand launch
+
+*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/singer-unveils-four-new-smartphones-at-nubia-brand-launch/) · `en`
+
+Singer Sri Lanka recently unveiled four new smartphones at a nubia brand launch, the newest addition to its illustrious portfolio of international brands. The event marked the introduction of a new wave of innovation and power to the Sri Lankan market, catering to a discerning audience seeking a premium mobile experience and the opportunity for authentic self-expression.
+
+The launch showcased the newest offerings from nubia, a leading global smartphone brand renowned for its superlative technology, and included the nubia Neo 2 5G, nubia Focus Pro 5G, nubia V60 and nubia V60 Design models.
+
+Mahesh Wijewardene, Chief Executive Officer, Singer Group of Companies said,” Our collaboration with nubia reinforces our commitment to providing our customers with the latest in technology and exceptional service.”
+
+...
+
+[Data](articles/f3952beb.json)
+
+---
+
+### UAE women’s national cricket team aboard SriLankan Airlines
+
+*2024-07-15 06:42:00* · [`islandlk`](http://island.lk/uae-womens-national-cricket-team-aboard-srilankan-airlines/) · `en`
+
+SriLankan Airlines recently had the privilege of flying the United Arab Emirates (UAE) Women’s National Cricket Team from Dubai to Sri Lanka for Women’s Asia Cup 2024, scheduled to take place in Dambulla from 19 July to 28 July 2024. The 19-member team received a warm welcome from SriLankan Airlines, ensuring that their entire journey was on form from start to end. For many of the members, this was their first visit to Sri Lanka. SriLankan Airlines guaranteed that their first experience of the country began right onboard the flight, offering them the best of Sri Lankan hospitality and the island’s culinary traditions.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/84157fc9.json)
+
+---
+
+### PayMedia triumphs at SLASSCOM Ingenuity Awards 2024
+
+*2024-07-15 06:42:00* · [`islandlk`](http://island.lk/paymedia-triumphs-at-slasscom-ingenuity-awards-2024/) · `en`
+
+PayMedia has once again demonstrated its prowess in digital innovation by winning two prestigious awards at the SLASSCOM Ingenuity Awards 2024. The company secured accolades in the highly competitive category of Best Innovation Product/Project in FinTech and Banking, cementing its reputation as a frontrunner in the industry.
+
+...
+
+[Data](articles/8d02a0c2.json)
+
+---
+
 ### The Spain is the European Football Trop
 
 *2024-07-15 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198811) · `si`
@@ -275,6 +401,40 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 [Data](articles/a0e0eebc.json)
 
 [Extended Data](ext_articles/a0e0eebc.ext.json)
+
+---
+
+### ’முன்னோக்கிச் செல்வதே உண்மையான புரட்சி’
+
+*2024-07-15 02:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னோக்கிச்-செல்வதே-உண்மையான-புரட்சி/175-340408) · `ta`
+
+மக்களைக் கொல்வதோ வீடுகளை எரிப்பதோ உண்மையான புரட்சி கிடையாது. மாறாக நாட்டில் மக்கள் பெருமையுடன் முன்னோக்கிச் செல்லக்கூடிய சூழலை உருவாக்குவதே உண்மையான புரட்சி என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+தம்புத்தேகம மகாவலி விளையாட்டரங்கில் நேற்று முன்தினம் நடைபெற்ற உறுமய நிரந்தர காணி உறுதி வழங்கும் நிகழ்வில் கலந்து கொண்ட ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+அநுராதபுரம் மாவட்டத்தில் உள்ள மகாவலி எச். மற்றும் ஹுருலுவெவ ஆகிய இரண்டு வலயங்களில் உள்ள 9 மகாவலி பிரிவுகளில் 4,012 பேருக்கு இலவச காணி உறுதிகள் வழங்கப்பட்டன. 47 காணி உறுதிகள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் அடையாளமாக வழங்கி வைக்கப்பட்டன. (a)
+
+◼️
+
+[Data](articles/4b49ab6a.json)
+
+---
+
+### தீகவாபி தூபியில் நினைவுச் சின்னங்கள் வைக்கும் நிகழ்வு
+
+*2024-07-15 02:12:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீகவாபி-தூபியில்-நினைவுச்-சின்னங்கள்-வைக்கும்-நிகழ்வு/175-340407) · `ta`
+
+வரலாற்றுச் சிறப்புமிக்க தீகவாபி தூபிக்குள் புனித தாது, பொக்கிஷங்கள் என்பவற்றை வைக்கும் நிகழ்வு நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பங்களிப்புடன் நடைபெற்றது.
+
+இலங்கையின் நான்காவது பெரிய தூபிகளில் ஒன்றான தீகவாபியை புனரமைக்கும் பணிகள் 2020 ஆம் ஆண்டு பாதுகாப்பு அமைச்சின் தலைமையில் ஆரம்பிக்கப்பட்டது.
+
+மகா சங்கத்தினரின் பிரித் பாராயணத்திற்கு மத்தியில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் தீகவாபி தூபியில் புனித தாது வைக்கப்பட்டதோடு அந்த சமயத்தில் விமானப் படையினர் மலர் தூவி மலர் அஞ்சலி செலுத்தினர்.
+
+புனித தாது மற்றும் ஏனைய தாதுக்கள் வைக்கப்பட்டு புதிதாக நிர்மாணிக்கப்பட்ட தாது மண்டபம் மற்றும் அன்னதான மண்டபம் என்பவற்றை ஜனாதிபதி ரணில் விக்கிரமசிங்க திறந்து வைத்தார். (a)
+
+◼️
+
+[Data](articles/e1a13608.json)
 
 ---
 
@@ -959,6 +1119,26 @@ The President had previously been a special gazette and the new gazette notifica
 [Data](articles/95c022ba.json)
 
 [Extended Data](ext_articles/95c022ba.ext.json)
+
+---
+
+### දෙවැනි විදුලි ගාස්තු සංශෝධනය අද ප්‍රකාශ කරයි
+
+*2024-07-14 18:55:16* · [`adalk`](https://www.ada.lk/breaking_news/දෙවැනි-විදුලි-ගාස්තු-සංශෝධනය-අද-ප්‍රකාශ-කරයි/11-410782) · `si`
+
+මේ වර්ෂයට අදාළ දෙවන විදුලි ගාස්තු සංශෝධනය අද (15දා) ප්‍රකාශයට පත් කිරීමට සැලසුම් කර තිබෙන බව මහජන උපයෝගිතා කොමිසම සඳහන් කරයි.
+
+ගාස්තු සංශෝධනයටඅදාළ ගණනය කිරීම සිදුකරගෙන යන බවත් මේ අනුව අද (15දා) කොමිෂන් සභාව රැස් වී අදාළ තීන්දු තීරණ ප්‍රකාශයට පත් කිරීමට සැලසුම් කර තිබෙන බවද එම කොමිසමේ සභාපතිමහාචාර්ය මංජුල ප්‍රනාන්දු මහතා %අද^ කළ විමසීමකදී සඳහන් කළේය.
+
+මේ වර්ෂය සඳහා විදුලිබල මණ්ඩලය විසින් යෝජනා කර ඇති විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන උපදේශනයේ වාචික අදහස් ලබාගැනීම09වන දින පෙරවරු 8.30 සිට පස්වරු 4.30 දක්වා බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත‍්‍රණ ශාලාවේදී පැවැත්විය.
+
+අදාළ උපදේශනයේදී යෝජිත විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් අදහස් දැක්වීම සඳහා විවිධ විදුලි පාරිභෝගික කණ්ඩායම්, කර්මාන්ත හා සංවිධාන නියෝජනය කරමින් 50දෙනෙකු පමණ ලියාපදිංචි වී අදහස් දැක්වීම සිදුවිය.
+
+මෙවර ගාස්තු සංශෝධනයේ විදුලි ගාස්තු අඩුවන බවට විෂය භාර අමාත්‍යවරයා විසින් මීට පෙර ප්‍රකාශ කළ අතර, මීට අමතරව විදුලිබල මණ්ඩලයේ ඉංජිනේරු සංගමය පවා විදුලි ගාස්තුව අඩුකළ හැකි බවට ප්‍රකාශ කරනු ලැබිණි.
+
+...
+
+[Data](articles/a6c20479.json)
 
 ---
 
@@ -1997,249 +2177,5 @@ Gamini B was detained at the Colombo Prison in the Colombo Prison. Dissanayake a
 [Data](articles/b0ae860d.json)
 
 [Extended Data](ext_articles/b0ae860d.ext.json)
-
----
-
-### Australian Prime Minister - Australian Prime Minister
-
-*2024-07-14 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188423) · `ta`
-
-Antony Albenez, Australia's PM, expressed relief over the shooting incident involving a former US president. He also commented on the rise of protests against the Gaza war, warning that such incidents could escalate without restraint. Concerned about potential political violence, he urged for less emotional debates and more rational discourse.
-
-🟩
-
-Australian Prime Minister Antony Albenez has said that the former US president is relieved of the survival of the shooting.
-
-Commenting on the increase in demonstrations outside the offices of Australian lawmakers on the Gaza war, the Australian Prime Minister said that such incidents could increase without any hesitation.
-
-The Australian Prime Minister, who has expressed concern over the likelihood of increasing political violence, said that we should reduce the amount of emotion of the debate and increase the rhetoric.
-
-◼️
-
-[Data](articles/92946023.json)
-
-[Extended Data](ext_articles/92946023.ext.json)
-
----
-
-### This will reduce three-wheeler fees in the Western Province
-
-*2024-07-14 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198790) · `si`
-
-The All-Sri Lanka Treaters Drivers Association (GMOA) announced a reduction in three-wheeler fares for the Western Province, effective from tomorrow (15). Chairman Lalith Dharmasekera revealed that the fare for the second kilometer has been set at 90 rupees, while the first kilometer costs 100 rupees. Post-midnight rates see a 15% increase. Passengers are advised to report any discrepancies to relevant authorities.
-
-🟩
-
-The All-Sri Lanka Treaters Drivers Association (GMOA) says that a loss of three wheeler will be reduced to the Western Province tomorrow (15).
-
-Chairman Lalith Dharmasekera said that the second kilometer has been reduced to 90 rupees.
-
-He was speaking at a media briefing held in Colombo today (14).
-
-"The first kilo of a three-wheeler in the Western Province can be charged Rs. 100 rupees. The second kilometer is Rs. 90. After 10 pm, the next morning was 15%. At that time, when it is. The nearest number should be given to the meters of concern for the meters. However, the thoughts of thought cannot be used. If the passenger is now an injustice, the police can inform the police, the Consumer Affairs Authority and the Road Passenger Transport Authority to achieve a series of injustice. We say no longer false murmurs, it is important to do so, it is important to become dangerous as Dinoseus. "
-
-◼️
-
-[Data](articles/c2e1db3a.json)
-
-[Extended Data](ext_articles/c2e1db3a.ext.json)
-
----
-
-### Sri Lanka Customs has only 2,000 containers to clear
-
-*2024-07-14 13:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-has-only-2000-containers-to-clear-172039/) · `en`
-
-ECONOMYNEXT – Sri Lanka Customs has cleared 4,835 containers from July 08 to 12, compared to a total of 5,557 boxes for which clearance documents were submitted, a statement said.
-
-There are only about 2,000 boxes left by Friday, out of a backlog built up during a work to rule campaign, the statement said.
-
-Officers would also work on Saturday as a normal working day to clear the backlog, a statement from Sri Lanka Customs said.
-
-It is expected that after Monday, the remaining backlog would be cleared.
-
-On aveage 970 containers had been cleared daily, the statement said. (Colombo/July14/2024)
-
-◼️
-
-[Data](articles/b96ea02c.json)
-
-[Extended Data](ext_articles/b96ea02c.ext.json)
-
----
-
-### SJB urges govt to beef up Sajith’s security after Trump assassination attempt
-
-*2024-07-14 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100497/sjb-urges-govt-to-beef-up-sajiths-security-after-trump-assassination-attempt) · `en`
-
-Samagi Jana Balawegaya (SJB) Parliamentarian Eran Wickramaratne stresses that the government should be accountable for the security of Opposition Leader Sajith Premadasa while urging to provide necessary security for the SJB’s presidential candidate.
-
-Speaking regarding the assassination attempt on former US President Donald Trump this morning, the SJB MP stated that similarly, they have doubts about Opposition Leader Premadasa’s security as well, since certain parties are trying to delay the elections.
-
-Commenting regarding the matter at a press briefing today, Wickramaratne condemned the assassination attempt on the ex-US President as an attack on democracy, and siaid that politicians should step away from engaging in such politics.
-
-“Similarly in Sri Lanka, some political parties tend to use these types of tactics when they can’t complete their political agendas. They have attacked the candidates in the past as well”, he added.
-
-...
-
-[Data](articles/0a00921b.json)
-
-[Extended Data](ext_articles/0a00921b.ext.json)
-
----
-
-### Korean woman drowns in seas off Mirissa
-
-*2024-07-14 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100496/korean-woman-drowns-in-seas-off-mirissa) · `en`
-
-A South Korean national woman has drowned in the seas off Mirissa in Weligama police division, the Police Media Division said.
-
-Police mentioned that the incident had occurred last evening (13).
-
-A group of coast guards along with lifeguards, had managed to bring her ashore and rushed her to the Matara District General Hospital.
-
-However, the foreigner was pronounced dead upon admission to the hospital, according to police.
-
-The deceased woman has been identified as a 37-year-old from South Korea.
-
-◼️
-
-[Data](articles/caea532e.json)
-
-[Extended Data](ext_articles/caea532e.ext.json)
-
----
-
-### Sri Lanka coconut prices rise 3.7-pct
-
-*2024-07-14 12:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-rise-3-7-pct-172036/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices rose 3.7 percent to 82,616 rupees from 79,599 per 1,000 nuts at an auction on July 11, data from the Coconut Development Authority shows.
-
-The highest price was 95,600 up from 94,000 for 1000 nuts while the lowest was 74,100 up from 70,000.
-
-A total of 522,673 coconuts were offered at the auction and 493,874 were sold.
-
-Wholesale prices were 95 to 105 rupees for large nuts and 85 to 90 rupees for small nuts on July 11.
-
-Farmgate prices in Kurunegala were 75,000 – 80,000 per 1,000 nuts.
-
-Coconut shells were 31,000 – 32,000 rupees per metric ton. (Colombo/July14/2024)
-
-◼️
-
-[Data](articles/0a004530.json)
-
-[Extended Data](ext_articles/0a004530.ext.json)
-
----
-
-### Murder of woman who refuses to take a bath: Half mustache
-
-*2024-07-14 12:24:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குளிக்க-மறுத்த-பெண்-கொலை-அரை-மீசை-காரனுக்கு-226-ஆண்டுகள்-சிறை/50-340368) · `ta`
-
-Brian Steven Smith, 52, from Alaska, USA, was sentenced to 226 years in prison for murdering two women who refused his demands. The first victim, Kathleen Henry, was kidnapped, raped, and killed after her cell phone was stolen, containing videos of Smith torturing and sexually harassing another woman before her murder. The second victim, Veronica Abu Dukk, was lured to Smith's house under false pretenses, where he demanded she take a bath but killed her when she refused. This case sparked outrage and protests across the U.S., leading to Smith's conviction and lengthy prison term.
-
-🟩
-
-The incident in the United States has been sentenced to 226 years in prison, which is accused of murdering a woman who refused to take a bath.
-
-Brian Steven Smith (age 52) hails from Alaska, USA. In September 2019, a woman stole her cell phone. But Steven Smith has not lodged any complaint with the police.
-
-In the meantime, the woman who stole the cell phone was shocked by the video and photos of it. In a video there were scenes that Steven Smith was tortured and brutally murdered. Video and photos of the woman she had sexually harassed the woman before the murder were on the cell phone.
-
-Subsequently, the woman handed over the cell phone from Steven Smith to the police and told about the video and photos in it.. Police investigated videos related to murder revealed that Steven Smith had committed the murder just days before the cell phone was stolen.
-
-...
-
-[Data](articles/51720729.json)
-
-[Extended Data](ext_articles/51720729.ext.json)
-
----
-
-### Ranil has no reserver to claim Namal Prime Minister
-
-*2024-07-14 12:18:01* · [`adalk`](https://www.ada.lk/opinion/රනිල්-ජනපති-නාමල්-අගමැති-කියල-තිරණයක්-නෑ/2-410772) · `si`
-
-Ranil Wickremesinghe is set to run for President despite opposition attempts to delay the election. Presidential advisor Ruwan Wijewardene assures the election will proceed as scheduled, addressing concerns about the country's economy. Wickremesinghe, known for his readiness to face elections, has previously lived abroad but now aims to lead domestically. The election's timing remains uncertain due to legal challenges and the impact on the business community, but Wijewardene emphasizes Wickremesinghe's commitment to the nation's constitution and his potential to manage the economy effectively.
-
-🟩
-
-The Presidential advisor Ruwan Wijewardene said that although the opposition spreads to postpone the presidential election, the President will be held at the right time and the country's economic problem will be a proper place, he said.
-
-Ruwan Wijewardene has stated that the service piyasa building was built in the Horagolla Divisional Grama Division of Horagolla Grama Division.
-
-Ranil Wickremesinghe is ready to face the presidential election. Mr. Ranil has shown not only by word but also in action. The people of this country have provided the opportunity to live in a foreign country to live in a foreign country before two years.
-
-...
-
-[Data](articles/1644e87a.json)
-
-[Extended Data](ext_articles/1644e87a.ext.json)
-
----
-
-### For whom?
-
-*2024-07-14 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/188416) · `ta`
-
-Sajith Premadasa plans an International Donor Conference but emphasizes the need for the international community to attend despite no resolution to the ethnic issue being present.
-
-🟩
-
-“Although Sajith Premadasa has said that he will hold the International Donor Conference, the international community must comply with the meeting without a solution to the ethnic problem.”
-
-◼️
-
-[Data](articles/7b24bdb9.json)
-
-[Extended Data](ext_articles/7b24bdb9.ext.json)
-
----
-
-### தாய்லாந்துக்கு இலவச விசா
-
-*2024-07-14 12:12:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்துக்கு-இலவச-விசா/175-340367) · `ta`
-
-Starting July 15, travelers from 93 nations, including Sri Lanka, can visit Thailand visa-free, marking the first time Sri Lankans don't need visas. This reciprocity follows Sri Lanka's policy of granting Thai citizens visa-free entry. All visitors must prove financial stability, accommodation, and return tickets. The initiative aims to boost tourism and facilitate short-term business and study stays, especially for Thai graduates who can stay for a year post-graduation for research or related activities.
-
-🟩
-
-Travelers from 93 countries and areas, including Sri Lanka, have been granted permission to enter Thailand without a visa from July 15.
-
-This is the first time that Sri Lankans go to Thailand without receiving visa. Sri Lanka has already granted permission to come to Sri Lanka without a visa.
-
-According to Thailand's Home Ministry. However, all passengers should have proof of money, shelter and return/ tickets.
-
-People from these countries will be welcomed as tourists or short -term business purposes.
-
-Also, Thailand allows students who graduate or higher in Thailand, allowing them to stay for a year after graduation, travel to Thailand or research other related activities.
-
-◼️
-
-[Data](articles/93241994.json)
-
-[Extended Data](ext_articles/93241994.ext.json)
-
----
-
-### ‘Sri Lankans in North suffer the most’; State Minister stresses on India-Sri Lanka fishermen issue
-
-*2024-07-14 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100495/sri-lankans-in-north-suffer-the-most-state-minister-stresses-on-india-sri-lanka-fishermen-issue) · `en`
-
-Stressing the need to hold a discussion on the fishermen issue between Sri Lanka and India, Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya emphasized that both countries must look into this ‘long-lasting issue’ from a sustainable perspective.
-
-During an interview with India’s NDTV, State Minister Balasuriya expressed that this issue has persisted for a very long period of time.
-
-“In the Foreign Ministry, I was reading some old notes of when the Indian Prime Minister Neru visited Prime Minister Bandaranaike in 1950s, and top in the agenda was the fishermen’s issue. So, this has persisted for a long period of time..,” Balasuriya said.
-
-Furthermore, the Foreign Affairs State Minister stressed that the people in the North of Sri Lanka are the most affected community as a result of this problem, adding that the Tamil Nadu government needs to realize that.
-
-...
-
-[Data](articles/35ded8ee.json)
-
-[Extended Data](ext_articles/35ded8ee.ext.json)
 
 ---

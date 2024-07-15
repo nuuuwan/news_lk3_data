@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 19:35:27**
+As of **2024-07-15 19:53:24**
 
 ## Newspaper Stats
 
-*Scraped **35,396** Articles*
+*Scraped **35,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,004
 economynextcom | 2,100
 dailyftlk | 2,231
 adalk | 3,191
-adaderanalk | 4,083
+adaderanalk | 4,084
 tamilmirrorlk | 4,271
 dailymirrorlk | 4,733
 virakesarilk | 5,511
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,394 (100.0%) of 35,396 articles have been extended.
+35,396 (100.0%) of 35,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Gambia’s parliament upholds ban on female genital mutilation
+
+*2024-07-15 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100537/gambias-parliament-upholds-ban-on-female-genital-mutilation) · `en`
+
+Lawmakers in the West African nation of Gambia on Monday rejected a bill that would have overturned a ban on female genital cutting. The attempt to become the first country in the world to reverse such a ban had been closely followed by activists abroad.
+
+The vote followed months of heated debate in the largely Muslim nation of less than 3 million people. Lawmakers effectively killed the bill by rejecting all its clauses and preventing a final vote.
+
+The procedure, also called female genital mutilation, includes the partial or full removal of girls’ external genitalia, often by traditional community practitioners with tools such as razor blades or at times by health workers. It can cause serious bleeding, death and childbirth complications but remains a widespread practice in parts of Africa.
+
+...
+
+[Data](articles/c09b7425.json)
+
+---
 
 ### ICC Annual Conference in Sri Lanka
 
@@ -54,17 +70,25 @@ More than 220 representatives of 108 ICC members worldwide will be joined the Cr
 
 ---
 
-### මෛත්‍රි ඇතුළු පිරිසට වන්දි ගෙවා අවසන් කරන්න අගෝස්තු 30 තෙක් කාලය දෙයි
+### Maithri gets compensated and overcome August 30
 
 *2024-07-15 18:35:51* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රි-ඇතුළු-පිරිසට-වන්දි-ගෙවා-අවසන්-කරන්න-අගෝස්තු-30-තෙක්-කාලය-දෙයි/11-410795) · `si`
 
-පාස්කු ඉරුදින කතෝලික දේවස්ථාන හා තරු හෝටල් ඉලක්ක කර මරාගෙන මැරෙන ප්‍රහාරයන් එල්ල කරන බවට නිශ්චිත බුද්ධි තොරතුරු ලැබී තිබියදී එම ප්‍රහාර වළක්වා ගැනීමට ක්‍රියා නොකිරීම තුළින් එම ප්‍රහාරයෙන් තුවාල ලැබූ සහ මියගිය පුද්ගලයින්ගේ ඥාතීන්ගේ මුලික මිනිස් අයිතිවාසිකම් උල්ලංඝණය කිරීම සම්බන්ධයෙන් අධිකරණයෙන් නියම කළ වන්දි මුදල් අගෝස්තු 30 වැනිදාට පෙර සම්පූර්ණයෙන්ම ගෙවා අවසන් කරන ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, හිටපු පොලිස්පති පූජිත් ජයසුන්දර සහ රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන නමැත්තන්ට සත්පුද්ගල ශ්‍රේෂ්ඨාධිකරණය විනිසුරු මඩුල්ල අද (15) නියම කළේය.
+On August 30, Maithri received compensation for injuries sustained during an attack attributed to the LTTE. The Supreme Court directed the Attorney General to prosecute several officials, including former President Maithripala Sirisena and the former Chief Inspector General of State Intelligence Service. The court also advised the National Police Commission to take disciplinary action against former Chief of State Intelligence IGP Nilantha Jayawardena. Compensation was ordered to be paid to victims of the Easter attacks and their families, with specific amounts mentioned for various officials involved in the tragedy.
 
-අධිකරණයේ නියමය අනුව නියමිත දිනයට පෙර වන්දි මුදල් සම්පුර්ණයෙන් ගෙවා අවසන් නොකළහොත් සැප්තැම්බර් 20 වැනිදාට පෙර ඔවුන්ට එරෙහිව අධිකරණයට අපහාස කිරීමේ චෝදනා යටතේ නඩු පැවරීමට ශ්‍රේෂ්ඨාධිකරණය නීතිපතිවරයාට නියම කළේය.
+🟩
+
+The compensation made by the court before the incident was injured in the attack and the remains were wounded in the attack and the remains were wounded by the LTTE and the remains were wounded by the attacks on the attacks on the attacks on the attacks and the remains of the people who were injured in the attack and the remains of the remains of the victims.Former President Maithripala Sirisena, Former Chief of President Maithripala Sirisena, former Chief Inspector General of State and State Intelligence Service (SEC) sentenced the judiciary of the judge today (15).
+
+The Supreme Court ordered the Attorney General to prosecute them before the accusation of the judiciary before the due date of the judiciary before the due date was completed before the due date.
+
+The Supreme Court has also presented to the National Police Commission to take disciplinary action against the former Chief of State Intelligence IGP Nilantha Jayawardena.
 
 ...
 
 [Data](articles/aba1c503.json)
+
+[Extended Data](ext_articles/aba1c503.ext.json)
 
 ---
 
@@ -116,19 +140,31 @@ The General Information Technology (GIT) examination is calling applications fro
 
 ---
 
-### ජනපතිවරණයට එරෙහිව ඉදිරිපත් වූ පෙත්සම ලක්ෂ 5ක ගාස්තුවකට යටත්ව නිශ්ප්‍රභ කරයි
+### Petition against the presidential election depends under the Rs.
 
 *2024-07-15 18:21:55* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-එරෙහිව-ඉදිරිපත්-වූ-පෙත්සම-ලක්ෂ-5ක-ගාස්තුවකට-යටත්ව-නිශ්ප්‍රභ-කරයි/11-410794) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වැනි සංශෝධනය ජනමත විචාරණයකින් අනුමත කර නොතිබියදී ජනාධිපතිවරණයක් පැවැත්වීම නීතියට පටහැනි බව සඳහන් කරමින් නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා ගෙනු කළ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙනම නිශ්ප්‍රභ කළ ශ්‍රේෂ්ඨාධිකරණය රුපියල් ලක්‍ෂ 05ක නඩු ගාස්තුවක් ගෙවීමටද ඔහුට අද (15) නියම කළේය.
+A petition challenges the validity of the 19th Amendment to the Constitution, arguing it wasn't properly ratified through a referendum. The Supreme Court, led by Chief Justice Jayantha Jayasuriya, is examining the case. Critics claim the amendment undermines presidential powers and violates constitutional principles. Despite these concerns, the Deputy Solicitor General asserts the amendment is legally binding.
 
-නීතිඥවරයෙකුට නුසුදුසු ආකාරයෙන් සහ අධිකරණය නොමග යවන ආකාරයෙන් නීතිඥ අරුණ ලක්සිරි මහතා කටයුතු කර ඇතැයි පෙන්වා දුනන් අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ඔහුගේ ක්‍රියා කලාපය මෙන්ම හැසීරීමද දැඩි දෝෂ දර්ශණයට ලක් කළේය.
+🟩
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වැනි සංශෝධනය නිසියාකාරව සම්මත වී නොමැති අවස්ථාවක එය ජනමත විචාරණයකට යොමු කර අනුමැතිය ගන්නා තුරු ජනාධිපතිවරණයක් පැවැත්වීමෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මෙන්ම මුලික අයිතිවාසිකම්ද උල්ලංඝනය වන බවට තීන්දුවක් දෙන්නැයි ඉල්ලමින් නීතිඥ අරුණ ලක්සිරි උණවටුන මහතා ගොනු කර ඇති මුලික අයිතිවාසිකම් පෙත්සම අගවිනිසුරු ජයන්ත ජයසුරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ මෙලෙස සළකා බැලේ.
+The 19th Amendment to the Constitution was not approved by a referendum, the Supreme Court of Attorney Aruna Laksiri Unawatuna had decided to pay a case of Rs.
+
+Analynan Chief Justice Jayantha Jayasuriya, the lawyer Aruna Lakshmaniya has shown that the lawyer Aruna Lakshiri has taken action inappropriate and misleading the judiciary.
+
+The 19th Amendment to the Constitution is not properly passed due to a referendum, the Tribute Supreme Court Judge of the Tribust of the TruthsIt is considered in the face of a panel.
+
+Arjuna Obeysekara and Priyantha Fernando are the member judges of Chief Justice Jayantha Jayasuriya.
+
+The electoral commission as respondents, the Electorate Aruna Laksiri Unawatuna has been named as respondents, the Elections Commission, the Secretary General and the Attorney General.
+
+MP Vijitha Madduma Bandara, MPs, MPs of Parliamentary Paradama, had been submitted in the intermediate petition demanding the removal of the petition.
 
 ...
 
 [Data](articles/ae468b4c.json)
+
+[Extended Data](ext_articles/ae468b4c.ext.json)
 
 ---
 
@@ -2325,27 +2361,5 @@ Although the economy of Sri Lanka bounced back after the Eelam war, the island n
 [Data](articles/2bdb80aa.json)
 
 [Extended Data](ext_articles/2bdb80aa.ext.json)
-
----
-
-### 85 year old Fujimuri presidential election
-
-*2024-07-15 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198818) · `si`
-
-Alleged human rights abuses and a murder conviction led to Alberto Fujimori's release from prison after 14 years. His daughter, Keiko Fujimori, announced his candidacy for Peru's presidency in 2026.
-
-🟩
-
-පේරු රාජ්‍යයේ හිටපු ජනාධිපති ඇල්බර්ටෝ ෆුජිමෝරි 2026 දී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සඳහා ඉදිරිපත්වන බව වාර්තා වෙයි.
-
-ඒ බව ඔහුගේ දියණිය වන කීකෝ ෆුජිමෝරි සිය X ගිණුමේ සටහනක් තබමින් පැවසුවාය.
-
-The 85-year-old Fujimorur, 85 years were released in jail due to the previous murder and human rights violations.
-
-◼️
-
-[Data](articles/61f13012.json)
-
-[Extended Data](ext_articles/61f13012.ext.json)
 
 ---

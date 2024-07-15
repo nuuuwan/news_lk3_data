@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 15:54:20**
+As of **2024-07-15 16:07:45**
 
 ## Newspaper Stats
 
-*Scraped **35,359** Articles*
+*Scraped **35,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
-adalk | 3,186
+adalk | 3,187
 adaderanalk | 4,073
 tamilmirrorlk | 4,267
 dailymirrorlk | 4,733
@@ -26,45 +26,57 @@ adaderanasinhalalk | 5,909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,352 (100.0%) of 35,359 articles have been extended.
+35,359 (100.0%) of 35,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### කුවේට් හි සිටි ලාංකිකයින් විශාල පිරිසක් පොදු සමා කාලය තුළ නැවත දිවයින ට
+### Sri Lankan large number of Sri Lankans in Kuwait back to the island during public equation
 
 *2024-07-15 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198837) · `si`
 
-කුවේට් රාජ්‍යයේ රැකියා සදහා ගොස් එරට වලංගු වීසා කාලය ඉක්මවා නීතිවිරෝධී ලෙස රැදී සිටි ශ්‍රී ලාංකිකයන් ට එරටින් පිටවීම සදහා කුවේට් රජය විසින් 2024 වසර සදහා ලබා දී තිබූ "පොදු සමා කාලය" භාවිත කරමින් ශ්‍රී ලාංකිකයන් 10,615 දෙනෙකු එරටින් පිටවී ඇති බව කුවේට් රාජ්‍යයේ ශ්‍රී ලංකා තානාපති කාර්යාලය පවසයි.
+Due to Kuwait's decision, many Sri Lankans living there will return home between March 17 and June 30, 2024. The process involves minimal documentation for temporary passports.
 
-කුවේට් රාජ්‍යයේ විදේශ කටයුතු අමාත්‍යාංශය සහ එරට﻿ ශ්‍රී ලංකා තානාපති කාර්යාලය එක්ව සිදුකළ සාකච්ඡාවල ප්‍රතිඵලයක් ලෙස මෙම පොදු සමා කාලය 2024 මාර්තු මස 17 වන දින සිට 2024 ජුනි මස 30 වන දින දක්වා ලබාදී තිබුණි.
+🟩
 
-එම කාලය තුළ ඉතා සරල ලියකියවිලි කීපයක් පමණක් පදනම් කර ගෙන එරටින් පිටවීම සදහා "තාවකාලික ගමන් බලපත්‍ර" ලබාදීම සිදු කළේය.
+Kuwait's Embassy of Kuwait, Kuwait, has left the Kuwait to leave the "Commonly Time" by Kuwait to leave Kuwait's jobs for 2024.says.
+
+As a result of the discussions of the External Affairs of Kuwait, the External Affairs of the State and the Sri Lankan Embassy was given to the 17th March 2024 to 30th June 2024.
+
+During that period, only a few simple documents were provided to the "temporary passport" to leave the country.
 
 ◼️
 
 [Data](articles/99680e29.json)
 
+[Extended Data](ext_articles/99680e29.ext.json)
+
 ---
 
-### වෙන්දේසි ඉඩමක් ගන්නවා නම් මේ ගැනත් දැනුම්වත් වන්න
+### If auction land is taking a space, you also make known
 
 *2024-07-15 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198836) · `si`
 
-බොහෝ වෙන්දේසිකරුවන් විසින් විකුණනු ලබන ඉඩම් හා නිවාස ඔවුන් විසින් බැංකුවලට උකස් කර තිබීම හා ඔවුන් ඒ පිළිබඳව ජනතාව දැනුවත් නොකිරීම හේතුවෙන් එවන් ඉඩම් හා නිවාස මිළදී ගන්නා පාරිභෝගික ජනතාව ගැටලු  රැසකට මුහුණපාන බැවින් බස්නාහිර පළාතේ පළාත් පාලන ආයතන ඒ වෙනුවෙන් ගෙන තිබෙන ක්‍රියාමාර්ග සම්බන්ධයෙන් රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ අවධානය යොමු විය.
+In the Western Province, issues with lands and housing sold through auctions, often mortgaged to banks, are causing concern among consumers. The situation is exacerbated by officials advertising auctions before securing necessary permissions. A committee is tasked with addressing these concerns, including discussing with auctioneers and ensuring compliance with legal requirements and land ownership verification. The Public Accounts Committee has also been involved, highlighting the need for progress updates on land surveys and actions against unauthorized auctions. Immediate steps are urged from both the Kopy Panel and the local government coordinating database in the region.
 
-මෙහිදී පැමිණ සිටි නිලධාරින් පවසා සිටියේ නිසි අනුමැතීන් ලබා ගැනීමටත් ප්‍රථමයෙන් වෙන්දේසි දැන්වීම් පළ කරනු ලබන බවයි.
+🟩
 
-මෙහිදී නිවැරදි ලෙස ක්‍රියා කරන වෙන්දේසිකරුවන් සමඟද සාකච්ඡා කොට පාරිභෝගික ජනතාවට අගතියක් නොවන අකාරයෙන් යම් ක්‍රමවේදයක් සකස් කරන ලෙස කෝපා කමිටුව විසින් නිර්දේශ ලබා දෙන ලදී.
+Lands and housing sold by many auctors have mortgaged the banks and they are not educated by the consumers in the Western Province as they are experiencing problems in the Western Province.Attentional.
 
-ඒ අනුව අදාළ පළාත් පාලන ආයතන පුර්ව ලිඛිත අනුමැතියක් සහ ඉඩමේ අයිතිය වෙන්දේසිකරු විසින් තහවුරු කිරීමකින් තොරව ඉඩම් විකිණීම හෝ ඊට අදාළ දැන්වීම් පළ කිරීම සම්බන්ධව නෛතික ප්‍රතිපාදන අනුව ක්‍රියාමාර්ග ගන්නා ලෙසත් මෙහිදී අවධාරණය කරන ලදී.
+The officials were said to have advertised auction immediately before obtaining proper approaches.
 
-ඒ අනුව, මේ පිළිබඳ පුර්ණ වාර්තාවක් අගෝස්තු මස වන විට කමිටුවට ලබා දෙන ලෙසද පැමිණ සිටි නිලධාරීන්ට කමිටුව විසින් උපදෙස් දෙනු ලැබිණි.
+The Kopyichood committee was recommended to discuss with the auctionaries that actually actually act.
+
+It was also emphasized to take action by legal provisions regarding the preliminary provisions of the relevant local authorities and the ownership ownership of the land without confirmation.
+
+Accordingly, the committee was instructed to attend the committee by August as a full report on the matter.
 
 ...
 
 [Data](articles/d38e312f.json)
+
+[Extended Data](ext_articles/d38e312f.ext.json)
 
 ---
 
@@ -158,19 +170,25 @@ Madhumita's body has been recovered from the sack after the stench of the house 
 
 ---
 
-### ருமேனியா,போலந்துக்கு செல்லவுள்ளார் வெளிவிவகார அமைச்சர்
+### Romania, Foreign Minister
 
 *2024-07-15 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188506) · `ta`
 
-வெளிவிவகார அமைச்சர் அலி சப்ரி 16 ஆம் திகதி முதல் 19 ஆம் திகதி வரை ருமேனியா மற்றும் போலந்து ஆகிய நாடுகளுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொள்ளவுள்ளார்.
+Ali Sabri, External Affairs Minister, will visit Romania and Poland from the 16th to the 19th, meeting key officials and inaugurating Sri Lanka's new embassy in Bucharest, marking its third year of operation.
 
-இந்த விஜயங்களின் போது, வெளிவிவகார அமைச்சர் அலி சப்ரி பல முக்கிய அதிகாரிகளை சந்திக்கவுள்ளார்.
+🟩
 
-இதேவேளை,  ருமேனியா தலைநகர் புக்கரெஸ்டில் புதிய இலங்கைத் தூதரகத்தை வெளிவிவகார அமைச்சர் உத்தியோகபூர்வமாக திறந்து வைக்கவுள்ளார். அங்கு 2023 ஆம் ஆண்டிலிருந்து இலங்கை தனது தூதரக செயற்பாடுகளை முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+External Affairs Minister Ali Sabri will make an official visit to Romania and Poland from the 16th to the 19th.
+
+During these visits, Foreign Minister Ali Sabri will meet several key officials.
+
+Meanwhile, the Foreign Minister will officially inaugurate the new Sri Lankan embassy in the capital of Romania, Bukarest.. It is noteworthy that Sri Lanka has been carrying out its embassy since 2023.
 
 ◼️
 
 [Data](articles/2a41df6e.json)
+
+[Extended Data](ext_articles/2a41df6e.ext.json)
 
 ---
 
@@ -314,6 +332,22 @@ Due to ill health, Jayalalithaa, who was admitted to Apollo Hospital in Chennai 
 
 ---
 
+### අධිකරණ තීන්දුව නැත්නම් මේක අවුරුදු 20කට කලින් කරල
+
+*2024-07-15 13:58:10* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-තීන්දුව-නැත්නම්-මේක-අවුරුදු-20කට-කලින්-කරල/11-410791) · `si`
+
+සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ  “උරුමය“ වැඩසටහන යටතේ බදුල්ල  දිස්ත්‍රික්කයේ පළමු අදියරේ සුදුසුකම් ලාභීන් 65,393ක් අතුරින් පුද්ගලයන් 662කට සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම මහියංගනය මහජන ක්‍රීඩාංගණයේදී ඊයේ (14)  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සංකේතාත්මකව සිදුකෙරිණි.
+
+එහිදී අදහස් දැක්වූ ජනපති වැවැඩිදුරටත් මෙසේ පැවසීය. උරුමය වැඩසටහන 2002, 2003 වසරවල මේ රටේ ක්‍රියාත්මක කිරීමට තිබු වැඩපිළිවෙළවක් වන අතර අධිකරණ තීන්දුවක් හේතුවෙන් එය නවතා දැමීමට සිදු වූ බවත්, එදා එම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට අවස්ථාව ලැබුණා නම් මීට වසර 20කට පෙර මේ රටේ ජනතාවට සින්නක්කර ඉඩම් අයිතිය  ලබාදීමට හැකිව තිබුනා.
+
+ආදිවාසී නායක ඌරුවරිගේ වන්නිල ඇත්තෝ සහ පාර්ලිමේන්තු මැති ඇමති වරුන් , මන්ත්‍රී වරැන් ඇතුළුව ප්‍රාදේශීය දේශපාලන අධිකාරිය, රාජ්‍ය  නිලධාරින්, ඉඩම් ඔප්පුලාභීන් ඇතුළු විශාල පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/7893779b.json)
+
+---
+
 ### ළමා සුරැකුම් මධ්‍යස්ථානයක සිටි ගැහැනු දරුවන් පිරිසක් පැන ගිහින්
 
 *2024-07-15 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198831) · `si`
@@ -418,43 +452,59 @@ When the arrested suspects were presented in court, it was ordered to be release
 
 ---
 
-### தாய்லாந்து விசா : தூதரக அதிகாரிகளுக்கு உத்தியோகபூர்வ அறிவிப்பு வந்தவுடன் அமுலுக்கு வரும்
+### Thailand Visa: Embassy officials come into effect after official announcement
 
 *2024-07-15 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188467) · `ta`
 
-இலங்கை உட்பட 93 நாடுகளைச் சேர்ந்தவர்கள் இன்று 15 ஆம் திகதி முதல் தாய்லாந்துக்கு விசா இன்றி செல்ல முடியும் என  அறிவிக்கப்பட்டுள்ளது.
+Thailand has announced visa-free entry for citizens of 93 countries, including Sri Lanka, but implementation awaits official Sri Lankan government approval. This marks the first time Sri Lankans can visit Thailand without a visa, allowing stays of 30 to 60 days for tourists and short-term business travelers, provided they show proof of funds, accommodation, and return flights. Additionally, Thailand introduced the Digital Nomad Visa (DNV), valid for up to 180 days and valid for five years, aimed at digital nomads, freelancers, and those interested in culinary and martial arts. This initiative aims to boost tourism, which saw a 35% increase in arrivals, earning $24 billion in 2023, with projections indicating significant growth from Chinese, Malaysian, and Indian tourists by 2024.
 
-ஆனால் தாய்லாந்து தூதரகம் இது தொடர்பாக இலங்கை அதிகாரிகளுக்கு உத்தியோகபூர்வ அறிவிப்பு வந்த  பின்னரே இந்த திட்டம் நடைமுறைக்கு வரும் என தெரிவித்துள்ளது.
+🟩
 
-இந்நிலையில், இலங்கையர்களுக்கு தாய்லாந்துக்கு விசா இலவசம் தொடர்பில் நேற்று பாங்கொக்கிலிருந்து எந்த உறுதிப்படுத்தலையும் பெறவில்லை. எனவே, உத்தியோகபூர்வ அறிவிப்பு கிடைத்தவுடன் இலங்கை குடிவரவு மற்றும் விமானப் போக்குவரத்து அதிகாரிகளுக்குத் தெரிவிக்கப்படும். அப்போது, அந்த திட்டம் அமலுக்கு வரும்,'' என தெரிவிக்கப்பட்டுள்ளது.
+It has been announced that people from 93 countries, including Sri Lanka, can go to Thailand without a visa today.
 
-இதேவேளை, இலங்கையிலுள்ள தாய்லாந்து தூதரகத்தின் இணையத்திலும் புதிய திட்டம் தொடர்பில் எவ்வித அறிவித்தலும் அறிவிக்கப்பட்டவில்லை.
+But the Thai Embassy said the project would be implemented only after the official announcement of the Sri Lankan authorities.
 
-இதேவேளை, இலங்கையர்கள் தாய்லாந்திற்கு விசா இன்றி பயணம் செய்ய அனுமதி வழங்கப்பட்டால் இதுவே முதல் முறையாகும்.
+In this case, Sri Lankans received no confirmation from Bangkok yesterday regarding the visa free of Thailand. Therefore, the Sri Lankan Immigration and Air Transport Officers will be informed once the official announcement is received. At the time, the project will come into effect. ”
 
-தாய்லாந்து குடிமக்கள், விசா இல்லாமல் இலங்கைக்கு வருவதற்கு ஏற்கெனவே இலங்கை அனுமதி வழங்கியுள்ளது.
+Meanwhile, no announcement has been made on the new project on the Internet of the Thailand Embassy in Sri Lanka.
+
+Meanwhile, this is the first time that Sri Lankans are allowed to travel to Thailand without a visa.
+
+Sri Lanka has already granted permission to come to Sri Lanka without a visa.
+
+Sri Lankans who go without a visa can stay in Thailand for 30 to 60 days. However, the Sri Lankans traveling there must have evidence of money, shelter and flight tickets.
 
 ...
 
 [Data](articles/1a1ce160.json)
 
+[Extended Data](ext_articles/1a1ce160.ext.json)
+
 ---
 
-### நான் இறந்திருக்கவேண்டும் - துப்பாக்கி பிரயோகத்தின் பின்னர் வழங்கிய முதல்பேட்டியில் டிரம்ப்
+### I must have died - Trump in the first box presented after gunfire
 
 *2024-07-15 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/188497) · `ta`
 
-படுகொலை முயற்சியிலிருந்து உயிர்தப்பியமை குறித்து தனது மன உணர்வை பகிர்ந்துகொண்டுள்ள  அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் நான் இறந்திருக்கவேண்டும் என தெரிவித்துள்ளார்.
+Donald Trump, in an interview, revealed he believes he should have died during an assassination attempt, citing a significant elbow injury and protection efforts from security. He showed a photo of himself with a bandaged right hand, stating it's the best depiction of his resilience post-shooting. Despite wanting to continue speaking after the incident, he was advised by the Secret Service to go to the hospital.
 
-நியுயோர்க் போஸ்டிற்கு வழங்கியுள்ள பேட்டியில் இதனை தெரிவித்துள்ள அவர் தனது முழங்கையில் ஏற்பட்டுள்ள பெரிய காயத்தை செய்தியாளருக்கு காண்பித்துள்ளதுடன் பாதுகாப்பு உத்தியோகத்தர்கள் தன்னை பாதுகாக்க முயன்றவேளை இந்த காயம் ஏற்பட்டதாக தெரிவித்துள்ளார்.
+🟩
 
-வலதுகாதை சுற்றி தளர்வான பெரும் பான்டேஜ் உடன் டிரம்ப் காணப்பட்டார் அவரை படம்பிடிக்க முடியாது என அவரது பணியாளர்கள் தெரிவித்தனர் என நியுயோர்க் போஸ்ட் தெரிவித்துள்ளது.
+Former US President Donald Trump, who has shared his feelings about the survival of the assassination, has said that I should have died.
 
-துப்பாக்கி பிரயோகத்தின் பின்னர் மீண்டும் எழுந்து தனது கைமுஷ்டியை உயர்த்தி முகத்தில் இரத்தக்காயத்துடன்  போராடுவோம் என தான் கோசமிடுவதை காண்பிக்கும் புகைப்படம்குறித்து கருத்து தெரிவித்துள்ள டிரம்ப் இது தாங்கள் பார்த்ததிலேயே மிகச்சிறந்த புகைப்படம் என தெரிவிக்கின்றார்கள் என டிரம்ப் தெரிவித்துள்ளார்.
+In an interview with the New York Post, he said that he had shown a major injury to his elbow and that the security officers were trying to protect him.
 
-...
+The New York Post said that Trump was seen with a relaxed large bandage around the right hand and said that his employees said he could not film.
+
+Trump has said that this is the best photo of Trump, who has commented on the photo of himself showing that he will rise again after the shooting and raise his hand and fight with the glory on his face.
+
+Trump also stated that I wanted to continue to address even after the shooting, but the secret service unit said that I should go to the hospital.
+
+◼️
 
 [Data](articles/b01d0cd7.json)
+
+[Extended Data](ext_articles/b01d0cd7.ext.json)
 
 ---
 
@@ -658,23 +708,39 @@ The decision comes following the discussions held with the chairman of Universit
 
 ---
 
-### தேர்தல் பிரச்சார கூட்டத்தில் டிரம்ப் மீது துப்பாக்கி பிரயோகம் - சிஎன்என் செய்தியாளர் பார்த்தது என்ன?
+### Trump firing at the election campaign meeting - What did CNN reporter see?
 
 *2024-07-15 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188492) · `ta`
 
-பென்சில்வேனியாவின் பட்லரில்  அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்ட்டிரம்பின் தேர்தல் பிரச்சார நிகழ்வு இடம்பெற்றுக்கொண்டிருந்த வேளை  - துப்பாக்கி சத்தங்கள் கேட்டவேளை  சிஎன்என் செய்தியாளர் அலைனா ட்ரீனி அங்கு ஊடக பணியில் ஈடுபட்டிருந்தார்.
+During a Trump election campaign rally in Butler, Pennsylvania, CNN reporter Alina Treene experienced a sudden shooting incident. Initially mistaking the gunfire for fireworks, she and others were quickly evacuated by security. Despite the chaos, many attendees, including those near Trump, remained unaware of the situation until informed by authorities.
 
-என்னால் சரியாக எண்ணமுடியவில்லை, மூன்றாவது தடவை தேர்தலில் போட்டியிடுவதற்கு தீர்மானித்த பின்னர் டிரம்ப் 20க்கும் மேற்பட்ட தேர்தல் பிரச்சார கூட்டங்;களை நடத்தியுள்ளார்.அந்த கூட்டங்களில் காணப்பட்டது போன்ற காட்சிகளே இந்த கூட்டத்திலும் காணப்பட்டது.
+🟩
 
-தேர்தல் பேரணியே எப்போதும் பாதுகாப்பான இடம் என நான் கருதுவதுண்டு.ஏனென்றால் அதிகளவில் இரகசிய சேவை பிரிவினர் காணப்படுவார்கள்.சட்ட அமுலாக்கல் அதிகாரிகள் காணப்படுவார்கள்.
+CNN reporter Alina Treene was working there while hearing the sounds of former US President Donaldram's election campaign in Butler, Pennsylvania.
 
-உங்களை கடுமையாக சோதனையிடுவார்கள் நீங்கள் என்ன வகையான பொருட்களை கொண்டு செல்ல முடியும் என்பது குறித்து கடும் கட்டுப்பாடுகள் காணப்படும்.
+I could not think properly, and Trump has held more than 20 election campaign meetings after deciding to contest the election for the third time.
 
-துப்பாக்கி பிரயோகம் இடம்பெற்றவேளை நாங்கள் மக்கள் கூட்டத்தின் நடுவில் இருந்தோம், ஏறுபடிகளில் அமர்ந்திருந்தோம் அவை உயர்த்தப்பட்டிருந்தன,நாங்கள் மக்களிற்கு மேலாக உயரத்திலிருந்தோம், மேடைக்கு சமாந்திரமாக 100 யார் தொலைவிலிருந்தோம்.
+I think the election rally is always a safe place.
+
+You will be severely tested.
+
+When the shooting took place, we were in the middle of the crowd, sitting in the climb.
+
+A few minutes later we heard the noise, and the sounds heard on the left side of the stage.
+
+I first thought it was fireworks, and I didn't know what was going on, everyone was watching what was going on.
+
+We were able to see Donald Trump, who was addressing the statistics of his administration.
+
+Like us, he paid attention to the direction of the noise.
+
+We were able to hear the sounds of gun from one side of the election campaign from Trump to the right.
 
 ...
 
 [Data](articles/ce90b7ca.json)
+
+[Extended Data](ext_articles/ce90b7ca.ext.json)
 
 ---
 
@@ -2225,31 +2291,5 @@ The Chairman of the Election Commission, Ratnayake, the Government Principal, th
 [Data](articles/e8a2c036.json)
 
 [Extended Data](ext_articles/e8a2c036.ext.json)
-
----
-
-### The TNA is alive
-
-*2024-07-15 01:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தமிழரசுக்-கட்சி-உயிர்போடு-இருக்கிறது/150-340403) · `ta`
-
-The Sri Lanka Tamil National Party remains active, preparing for elections and addressing legal challenges. Despite government attempts to delay polls, the party is committed to participation. Key decisions regarding legal cases and party operations will be made by the Central Executive Committee post-discussions with lawyers. The party's ability to function without interference was affirmed, ensuring its continued advocacy for the community.
-
-🟩
-
-The Sri Lanka Tamil National Party is alive and continues to travel with a constructive representative. The party will contest any election in any election. Parliamentarian MA Sumanthiran said the government was conspiring to postpone the election.
-
-He was speaking at a media briefing held in Vavuniya on Sunday (14).
-
-The political committee of the Tamil National Alliance (TNA) and the party involved in the party's involvement were addressed as the next installment was coming up on the 19th.
-
-An idea of ​​the conclusion of the case has been accepted by everyone after each of us films the responses in their position.
-
-The details of that idea we will meet with the Central Executive Committee. But usually the case is complied with on which basis to conclude. Progressive Operations featured in discussion. 8 opponents will call on the 19th case. Jeevarajah, who lasts the intermittent petition, is also on the 19th of this month.
-
-...
-
-[Data](articles/34f6237e.json)
-
-[Extended Data](ext_articles/34f6237e.ext.json)
 
 ---

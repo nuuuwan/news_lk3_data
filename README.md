@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 17:56:35**
+As of **2024-07-15 18:15:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,374 (100.0%) of 35,387 articles have been extended.
+35,386 (100.0%) of 35,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Deputy Assistant Commissioner Andy Valentine said “the evidence gathered so fa
 
 [Data](articles/618849d3.json)
 
+[Extended Data](ext_articles/618849d3.ext.json)
+
 ---
 
 ### Sri Lanka testing IUDs to control monkey births as farmers push for guns
@@ -72,6 +74,8 @@ Professor of the Faculty of Veterinary Medicine and Animal Science, Ashoka Dango
 
 [Data](articles/92b4fefa.json)
 
+[Extended Data](ext_articles/92b4fefa.ext.json)
+
 ---
 
 ### Piyumi Hansamali will not be arrested until Sep. 20 - AG tells court
@@ -90,6 +94,8 @@ Accordingly, the court has ordered the petition to be recalled for consideration
 
 [Data](articles/15ee6e76.json)
 
+[Extended Data](ext_articles/15ee6e76.ext.json)
+
 ---
 
 ### One dead, 5 injured as vehicle crashes into tree in Welikanda
@@ -107,6 +113,8 @@ Police said that the deceased is a 52-year-old resident of the Sinhapura area in
 ◼️
 
 [Data](articles/d324d7d7.json)
+
+[Extended Data](ext_articles/d324d7d7.ext.json)
 
 ---
 
@@ -129,6 +137,8 @@ A bond maturing on 01.12.2031 closed at 12.35/60 percent. (Colombo/Jul15/2024)
 ◼️
 
 [Data](articles/5ab4aacd.json)
+
+[Extended Data](ext_articles/5ab4aacd.ext.json)
 
 ---
 
@@ -156,6 +166,8 @@ Overall top positive sectors were healthcare, diversified financials, and bankin
 
 [Data](articles/745c8885.json)
 
+[Extended Data](ext_articles/745c8885.ext.json)
+
 ---
 
 ### President and lawyers meet
@@ -182,23 +194,29 @@ The President who has the right to do politics but no one should have signed the
 
 ---
 
-### தொழிலாளர்களுக்கு நாள் சம்பளமாக 1700 ரூபா வழங்குமாறு வலியுறுத்தி பொகவந்தலாவையில் போராட்டம்
+### Struggle in Bogawantalawa demanding workers to pay 1700 rupees as a daily salary
 
 *2024-07-15 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188528) · `ta`
 
-மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு நாள் சம்பளமாக 1700 ரூபா வழங்குமாறு வலியுறுத்தி பொகவந்தலாவை நகரில் இன்று திங்கட்கிழமை (15) காலை போராட்டம் முன்னெடுக்கப்பட்டது.
+In Bogawantalawa, plantation workers protested for a daily wage increase to 1700 rupees. The rally, starting from the main bus station, reached the Selvakandi junction, disrupting traffic briefly. The media spokesperson's portrait was burned, and local traders supported the three-hour demonstration by closing shops.
 
-பொகவந்தலாவை பிரதான பஸ் தரிப்பிபடத்தில் ஆரம்பமான ஆர்ப்பாட்ட பேரணி, பொகவந்தலாவ செல்வகந்தை சந்திவரை சென்றது.
+🟩
 
-இதன்போது பெருந்தோட்ட துரைமார் சம்மேளனத்தின் ஊடக பேச்சாளர் ரொஷான் ராஜதுரையின் உருவப்படம் எரிக்கப்பட்டது.
+The protest was launched in Bogawantalawa on Monday morning, demanding the payment of 1700 rupees to the hill plantation workers.
 
-குறித்த ஆர்ப்பாட்டத்தால் பொகவந்தலாவ ஹட்டன் வீதி ஊடான போக்குவரத்து சிறிது நேரம் பாதிக்கப்பட்டது.
+The demonstration rally, which started at the Bogawantalawa main bus station, went to the Bogawantalawa Selvakandi junction.
 
-சுமார் மூன்று மணிநேரம் போராட்டம் முன்னெடுக்கப்பட்டதோடு,பொகவந்தலாவ நகர வர்த்தகர்களும் வர்த்தக நிலையங்களை மூடி ஆர்ப்பாட்டத்திற்கு ஆதரவு வழங்கினர்.
+The portrait of Media Spokesperson of the Plantation Duramar Federation, Roshan Rajadurai, was burnt.
+
+Traffic along the Bogawantalawa Hatton Road was affected for some time due to the demonstration.
+
+The struggle was carried out for about three hours and the Bogawantalawa city traders closed the shopping centers and supported the demonstration.
 
 ◼️
 
 [Data](articles/7271d72f.json)
+
+[Extended Data](ext_articles/7271d72f.ext.json)
 
 ---
 
@@ -248,23 +266,31 @@ Accordingly, the petition was also taken to call on September 20th.
 
 ---
 
-### இனப்பிரச்சினைக்கு  அனைத்து இனக்குழுவினரும்  ஏற்றுக்கொள்ளக்கூடிய தீர்வொன்றை தேசிய மக்கள் சக்தி முன்வைக்கவேண்டும் - புத்திஜீவிகள் குழு வேண்டுகோள்
+### The National People's Power must present an acceptable solution to the ethnic problem - the Intellectual Group request
 
 *2024-07-15 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188525) · `ta`
 
-இலங்கையின் இனப்பிரச்சினைக்கு  அனைத்து இனத்தவர்களும் ஏற்றுக்கொள்ளக்கூடிய தீர்வொன்றை தேசிய மக்கள் சக்தி முன்வைக்கவேண்டும் என இலங்கையின்  புத்திஜீவிகள் கல்விமான்கள் அடங்கிய குழுவொன்று வேண்டுகோள் விடுத்துள்ளது.
+Intellectuals in Sri Lanka call on the National People's Power to resolve the country's ethnic issue with a solution that gains northern majority trust, echoing the missed opportunity in 1947. They stress the importance of uniting leftist forces against racism and neo-liberalism, referencing the 1947 election where the LSSP could've won but didn't due to internal divisions. The plea is for the National People's Power to learn from past mistakes and lead effectively in 2024 elections, prioritizing a practical and widely accepted solution to the ethnic conflict.
 
-வடக்கின் பெரும்பான்மை மக்களின் நம்பிக்கையை பெறக்கூடிய நடைமுறைசாத்தியமான தீர்வாக அது காணப்படவேண்டும் எனவும் அந்த குழு வேண்டுகோள் விடுத்துள்ளது.
+🟩
 
-தேசிய மக்கள் சக்தி என்பது 2022 ம் ஆண்டு மக்கள் போராட்டம் மூலம் வெளிப்பட்ட மக்கள் அபிலாசைகளுடன் தொடர்புபட்ட பிரதான இயக்கமாக தேசிய மக்கள் சக்தி மாற்றமடைந்துவருகின்றது.
+A group of intellectuals and educators in Sri Lanka have appealed to the national people's power to come up with a solution that all ethnicities can accept to the ethnic problem of Sri Lanka.
 
-இந்த நிலைமை 1947ம் ஆண்டு சிலோனின் முதலாவது தேசிய தேர்தலின் போது காணப்பட்ட நிலைமைக்கு ஒப்பானது - நாங்கள் பொன்னான வாய்ப்பை தவறவிட்டோம்.
+The committee has also appealed to it to be a practical solution that can gain the confidence of the majority of the North.
 
-ஆகவே எதிர்வரும் தேர்தலில் வெற்றிபெறுவதற்கும் அதன் பின்னர் இலங்கை சமூகத்தில் கடும் கருத்துவேறுபாட்டை தொடர்ந்தும் உருவாக்கிவரும் இனப்பிரச்சினை உட்பட தேசிய பிரச்சினைகளிற்கு தீர்வை காண்பதற்கும் பின்வரும் விடயங்களிற்கு முன்னுரிமைவழங்குமாறும்  நாங்கள் கேட்டுக்கொள்கின்றோம்.
+The National People's Power is the main movement of the people's aspirations that emerged through the people's struggle in 2022.
+
+This situation was similar to the situation that was seen during the 1947 Ceylon's first national election - we missed a precious opportunity.
+
+Therefore, we urge you to win the forthcoming election and to address the national issues, including the ethnic problem that continues to create severe disagreements in the Sri Lankan community.
+
+The unity of the people by uniting all the left -wing forces against racism and neo -liberation.
 
 ...
 
 [Data](articles/ce735abb.json)
+
+[Extended Data](ext_articles/ce735abb.ext.json)
 
 ---
 
@@ -372,23 +398,29 @@ The Special Investigation Unit of the SLBFE has arrested the owner of the compan
 
 ---
 
-### மின்கட்டணத்தை குறைக்க அனுமதி - இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு
+### Permission to reduce electricity - Sri Lanka's Public Use Commission
 
 *2024-07-15 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188515) · `ta`
 
-மின்சார கட்டணத்தை 22.5 சதவீதத்தால் குறைப்பதற்கு இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு அனுமதி வழங்கியுள்ளதாக ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+Sri Lanka's Public Use Commission has approved a 22.5% reduction in electricity tariffs, effective from April 16th. Consumers using less than 30 units will see a 25% decrease, reducing the unit price from 8 to 6 rupees. For those using between 61 to 90 units, the rate drops from 20 to 9 rupees, a 55% cut. Additionally, religious institutions will benefit from a 30% tariff reduction.
 
-புதிய மின்கட்டண திருத்தத்தை நாளை 16 ஆம் திகதியிலிருந்து அமுல்படுத்துமாறு மின்சார சபைக்கு பொதுப்பயன்பாடுகள் ஆணைக்குழு அறிவுறுத்தல் வழங்கியுள்ளது.
+🟩
 
-அதன்டி, 30 அலகுகளுக்கு குறைவாக மின்சாரத்தை பயன்படுத்தும் நுகர்வோருக்கு 25 சதவீதம் கட்டணம் குறைக்கப்பட்டுள்ளது. ஒரு அலகுக்கு செலுத்தப்படும் விலை 8 ரூபாவிலிருந்து 6 ரூபாவாக குறைக்கப்பட்டுள்ளது.
+Prof. Manjula Fernando, Chairman of the Commission, said that the Sri Lanka Public Use Commission has granted permission to reduce electricity tariff by 22.5 per cent.
 
-இதேவேளை, 61 தொடக்கம் 90 அலகுகளுக்கு இடைப்பட்டு மின்சாரத்தை பயன்படுத்துவோருக்கு  கட்டணங்கள் 55 வீதத்தால் குறைக்கப்படவுள்ளதுடன், ஒரு அலகுக்கு செலுத்தப்படும் விலை 20 ரூபாவிலிருந்து 9 ரூபாவாக குறைக்கப்பட்டுள்ளது.
+The Public Use the Commission has instructed the Electricity Board to implement the new electricity amendment from the 16th.
 
-மதஸ்தலங்களுக்கான மின்சார கட்டணங்களை 30 சதவீதம் குறைக்க பொதுப்பயன்பாடுகள் ஆணைக்குழு தீர்மானித்துள்ளதாக பேராசிரியர் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Atti, 25 per cent fee has been reduced for consumers who use electricity less than 30 units. The price of a unit has been reduced from 8 rupees to 6 rupees.
+
+Meanwhile, the cost of using electricity between 61 to 90 units will be reduced by 55 percent and the price at a unit has been reduced from 20 rupees to 9 rupees.
+
+Professor Fernando said the Public Use the Commission has decided to reduce electricity tariffs for religious plants by 30 per cent.
 
 ◼️
 
 [Data](articles/79b9a922.json)
+
+[Extended Data](ext_articles/79b9a922.ext.json)
 
 ---
 
@@ -515,6 +547,8 @@ Religious places and charities saw a reduction of 30 percent.
 ◼️
 
 [Data](articles/66f51376.json)
+
+[Extended Data](ext_articles/66f51376.ext.json)
 
 ---
 
@@ -1000,6 +1034,8 @@ Further details of the proposed sale will be disclosed to the Colombo Stock Exch
 
 [Data](articles/1d3869a4.json)
 
+[Extended Data](ext_articles/1d3869a4.ext.json)
+
 ---
 
 ### Thailand Visa: Embassy officials come into effect after official announcement
@@ -1277,6 +1313,8 @@ The full statement from Deloitte, Sri Lanka and the Maldives is reproduced below
 ...
 
 [Data](articles/08b68a86.json)
+
+[Extended Data](ext_articles/08b68a86.ext.json)
 
 ---
 

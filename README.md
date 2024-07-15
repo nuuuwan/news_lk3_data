@@ -1,36 +1,86 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 13:05:09**
+As of **2024-07-15 13:20:08**
 
 ## Newspaper Stats
 
-*Scraped **35,327** Articles*
+*Scraped **35,331** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 315
 colombotelegraphcom | 333
-bbccomsinhala | 342
+bbccomsinhala | 343
 newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,185
-adaderanalk | 4,068
+adaderanalk | 4,070
 tamilmirrorlk | 4,258
 dailymirrorlk | 4,733
 virakesarilk | 5,504
-adaderanasinhalalk | 5,898
+adaderanasinhalalk | 5,899
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,325 (100.0%) of 35,327 articles have been extended.
+35,327 (100.0%) of 35,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Electricity tariffs to be revised from tomorrow?
+
+*2024-07-15 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100522/electricity-tariffs-to-be-revised-from-tomorrow) · `en`
+
+The second electricity tariff revision of 2024 is likely to take effect from tomorrow (16), the Public Utilities Commission of Sri Lanka (PUCSL) said.
+
+PUCSL chairman Prof. Manjula Fernando stated that the commission will meet today in order to finalize the percentage of the tariff revision.
+
+As per the government’s policy to revise electricity tariffs quarterly, the first revision of 2024 took place on March 04, 2024, with a 21.9% reduction of the tariffs.
+
+The second revision is set to be announced later today after the PUCSL reviews the proposal submitted by the Ceylon Electricity Board (CEB), analyzes the data, and considers the recently obtained public opinions.
+
+Prof. Fernando further highlighted that the new tariffs will be announced this afternoon and is likely to be implemented from tomorrow (16).
+
+◼️
+
+[Data](articles/6fbf38bb.json)
+
+---
+
+### විශ්වවිද්‍යාල අනධ්‍යයන සේවක වර්ජනය නවතී
+
+*2024-07-15 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198827) · `si`
+
+විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩල වෘත්තීය සමිති දියත් කර තිබූ වැඩවර්ජනය අද (15) සිට අත්හිටුවීමට තීරණය කර තිබේ.
+
+ඒ විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති සහ අමාත්‍යවරයා සමඟ පැවති සාකච්ඡාවකින් අනතුරුවය.
+
+විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩල සේවකයින් දින 75ක් පුරා වැඩවර්ජනයේ නිරතව සිටියේය.
+
+◼️
+
+[Data](articles/6df24d7f.json)
+
+---
+
+### University non-academic staff strike ends after 75 days
+
+*2024-07-15 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100521/university-non-academic-staff-strike-ends-after-75-days) · `en`
+
+The university non-academic staff trade unions have decide to call off their strike, which had continued for 75 days, with effect from today (15).
+
+The decision comes following the discussions held with the chairman of University Grants Commission (UGC) and the Minister of Education, according to the trade unions.
+
+◼️
+
+[Data](articles/166d8ecb.json)
+
+---
 
 ### A man was hacked to death with a sharp instrument
 
@@ -75,6 +125,8 @@ Meanwhile, the Sri Lankan High Commissioner in London Rohitha Bogollagama has hi
 ◼️
 
 [Data](articles/66e4f2e4.json)
+
+[Extended Data](ext_articles/66e4f2e4.ext.json)
 
 ---
 
@@ -1768,6 +1820,8 @@ Meanwhile, the socialists are invited with bags to meet the meetings and are all
 
 [Data](articles/370f9b9f.json)
 
+[Extended Data](ext_articles/370f9b9f.ext.json)
+
 ---
 
 ### Lessons from Italy’s growing love affair with Sri Lankan apparel
@@ -2117,67 +2171,5 @@ Mr. Anura Kumara Dissanayake said the people have been able to contact Mr. Sajit
 [Data](articles/8360d88d.json)
 
 [Extended Data](ext_articles/8360d88d.ext.json)
-
----
-
-### Upcountry train traffic interrupted
-
-*2024-07-14 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198806) · `si`
-
-Train derailment between Bandarawela and Heel Oya disrupted Upcountry rail service from Colombo Fort to Badulla.
-
-🟩
-
-The train was traveling from Colombo Fort to Badulla and derailed between Bandarawela and Heel Oya.
-
-As a result, the Railway Department says that the railway traffic has been interrupted due to this.
-
-◼️
-
-[Data](articles/5ba3a8c7.json)
-
-[Extended Data](ext_articles/5ba3a8c7.ext.json)
-
----
-
-### The oveest attack from Israel
-
-*2024-07-14 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198805) · `si`
-
-In central Israel, a vehicle rammed into a bus station, leading to gunfire from security forces. The incident resulted in four injuries, with one being critical.
-
-🟩
-
-The Israeli bus station was driven by a vehicle and was shot dead by security forces.
-
-In central Israel reported that incident. Four injured in the bus stand was injured and one of them is serious.
-
-◼️
-
-[Data](articles/89a04285.json)
-
-[Extended Data](ext_articles/89a04285.ext.json)
-
----
-
-### 30 crores of the Postal Department
-
-*2024-07-14 19:14:34* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-දෙපාර්තමේන්තුවේ-කෝටි-30ක-වියදම්-ගැන-ගැටලුවක්/11-410784) · `si`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-Over 400,000 rupees (304,719) has been charged for the cost of employment of the Mechanical Engineer in Narahenpita, the Postal Department.The information contained in tire tubes and batteries of shares had not been submitted to the audit.
-
-මේ නිසා වියදමේ සාධාරණත්වය පිළිබඳ කිසිදු විගණන පරීක්ෂාවක් සිදු කිරීමට නොහැකි වී ඇති බව එම විගණන වාර්තවේ සඳහන් වේ. Do not record additional parts for vehicles in work order sheets are available for additional parts.Has been.
-
-Also, their internal controlls were not carried out and the economic crisis in 2022 and 2023 had even stopped. The audited was questioned about the safety parts of the main parts of the larger vehicle values ​​that were prohibited. Until 183 vehicles had been spent on the Postal Department, 183 vehicles and Rs.. This information was revealed by the Audit Report which was admitted to the Task Report on July 08, on the 8th of July for the year 2023.
-
-◼️
-
-[Data](articles/92b2a333.json)
-
-[Extended Data](ext_articles/92b2a333.ext.json)
 
 ---

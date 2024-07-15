@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 15:05:18**
+As of **2024-07-15 15:20:01**
 
 ## Newspaper Stats
 
-*Scraped **35,344** Articles*
+*Scraped **35,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,149 @@ islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,185
-adaderanalk | 4,071
-tamilmirrorlk | 4,264
+adaderanalk | 4,073
+tamilmirrorlk | 4,267
 dailymirrorlk | 4,733
 virakesarilk | 5,504
-adaderanasinhalalk | 5,905
+adaderanasinhalalk | 5,907
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,343 (100.0%) of 35,344 articles have been extended.
+35,344 (100.0%) of 35,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### ජනාධිපතිවරණයට එරෙහි පෙත්සම නිෂ්ප්‍රභ කෙරේ
+### විදුලි බිලට දැනෙන වෙනසක්
+
+*2024-07-15 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198835) · `si`
+
+මෙම වර්ෂයට අදාළ දෙවන විදුලි ගාස්තු සංශෝධනය 22.5%ක් බව මහජන උපයෝගීතා කොමිසම මීට සුළු වේලාවකට පෙර නිවේදනය කළේය.
+
+විශේෂ මාධ්‍ය හමුවක් පවත්වමින් එහි සභාපතිවරයා සඳහන් කර සිටියේ, ගෘහස්ත විදුලි ඒකකයක මිල රුපියල් 8 සිට 6 දක්වා අඩුකර ඇති බවය.
+
+◼️
+
+[Data](articles/5c66921d.json)
+
+---
+
+### PUCSL approves electricity tariff revision
+
+*2024-07-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100525/pucsl-approves-electricity-tariff-revision) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) has approved the revision of electricity tariffs by 22.5 percent, PUCSL chairman Prof. Manjula Fernando said.
+
+According to this revision, the tariffs have been reduced by 25 percent for consumers who consume less than 30 units of electricity in the domestic sector. The unit price they pay has been reduced from Rs 8 to Rs 6.
+
+Meanwhile, the bills of electricity consumers with monthly consumption between 61 and 90 units will be reduced by 55 percent, and the unit price for that category has been reduced from 20 to 9 rupees.
+
+Meanwhile, the PUCSL has decided to reduce the tariffs by over 30 percent for religious places, Prof.  Fernando added.
+
+◼️
+
+[Data](articles/03768c65.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනය ගැන පැවැත්වෙන මාධ්‍ය හමුව
+
+*2024-07-15 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198834) · `si`
+
+මෙම වර්ෂයට අදාළ දෙවන විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන උපයෝගීතා කොමිසම විසින් පවත්වනු ලබන විශේෂ මාධ්‍ය හමුව මේ වනවිට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/5a3682a8.json)
+
+---
+
+### ரீல்ஸ் வௌியிட்ட மனைவி பலி
+
+*2024-07-15 14:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரீல்ஸ்-வௌியிட்ட-மனைவி-பலி/175-340443) · `ta`
+
+சமூக வலைத்தளங்களில் ரீல்ஸ் வெளியிட்ட தனது மனைவியை கொன்று கழிவறையில் பதுக்கி வைத்திருந்த சம்வம் தெலுங்கானா பகுதியில் இடம்பெற்றுள்ளது.
+
+தெலுங்கானாவின் உப்பல் பகுதியில் வசித்து வருபவர் பிரதீப் போலா. இவரது மனைவி மதுமிதா (வயது 24). இவர்களுக்கு 10 மாத பெண் குழந்தை உள்ளது.
+
+ஒடிசாவைச் சேர்ந்த பிரதீப் போலா, தெலுங்கானாவில் உள்ள ஹோட்டலில் சமையல்காரராக வேலை பார்த்து வருகிறார். சமூக வலைதளங்களில் ஆர்வம் உள்ள மனைவி இன்ஸ்டாகிராமில் 'ரீல்ஸ்' வீடியோ வெளியிடுவது வழக்கமாக வைத்துள்ளார். ஆனால் இது கணவருக்கு பிடிக்கவில்லை.
+
+இதனால் செல்போனை அதிக நேரம் பயன்படுத்தக்கூடாது, 'ரீல்ஸ்' வீடியோ வெளியிடக்கூடாது என்று அவர் கண்டித்துள்ளார்.
+
+ஆனால் மனைவி அவர் பேச்சை கேட்காமல் தொடர்ந்து 'ரீல்ஸ்' வெளியிட்டு வந்தார். இதனால் ஆத்திரம் அடைந்த கணவன், மனைவியின் தலையை கத்தியால் வெட்டி அவரது உடலையும்  துண்டுதுண்டாக வெட்டி ஒரு சாக்குமூட்டையில் கட்டி குளியல் அறையில் வைத்துவிட்டு தனது குழந்தையுடன் தலைமறைவாகி விட்டார்.
+
+மேலும், குறித்த நபர்  ஹோட்டலுக்கு வேலைக்கு வராததால், அங்கிருந்த சக ஊழியர்கள் அவரை தேடி அவரது வீட்டுக்கு வந்துள்ளனர்.
+
+...
+
+[Data](articles/4221ca93.json)
+
+---
+
+### மீண்டும் குழப்பம்: வெளியேறிய வைத்தியர் அர்ச்சுனா
+
+*2024-07-15 14:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மீண்டும்-குழப்பம்-வெளியேறிய-வைத்தியர்-அர்ச்சுனா/71-340442) · `ta`
+
+சாகவகச்சேரி வைத்தியசாலைக்கு திங்கட்கிழமை (15) காலை சென்ற வைத்தியர் அர்ச்சுனா, வைத்தியசாலை வளாகத்தில் இருந்து வெளியேறியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+சாவகச்சேரி ஆதார வைத்தியசாலைக்கு, பதில் வைத்திய அத்தியட்சகராக முன்னர் இருந்த இராமநாதன் அர்ச்சுனா வருகைதந்தமையால் குழப்பமான நிலை அங்கு ஏற்பட்டது.
+
+வைத்தியசாலை அத்தியட்சகர் அலுவலகத்தில் யார் வைத்திய அத்தியட்சகர் என இராமநாதன் அர்ச்சுனாவும் கோபால மூர்த்தி ரஜீவ்வும் நீண்ட விவாதத்தில் ஈடுபட்டநிலையில் பொலிஸார் தலையிட்டு சுமூகமான நிலையை ஏற்படுத்த முயன்றனர்.
+
+இதனையடுத்து சில மணிநேரங்கள் வைத்தியசாலை அலுவலக அறையில் சில கடமைகளில் ஈடுபட்டு விட்டு இராமநாதன் அர்ச்சுனா வெளியேறிச் சென்றார்.
+
+இதேவேளை சாவகச்சேரி ஆதார வைத்தியசாலையின் வைத்திய அத்தியட்சகராக வைத்தியர் ரஜீவ் தொடர்ந்தும் கடமையில் உள்ளார்.
+
+...
+
+[Data](articles/3c8e2f45.json)
+
+---
+
+### FR petition filed over Presidential Election dismissed with costs
+
+*2024-07-15 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100524/fr-petition-filed-over-presidential-election-dismissed-with-costs) · `en`
+
+The Supreme Court has dismissed the Fundamental Rights (FR) petition filed seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament, subject to costs.
+
+This verdict was issued when the relevant petition filed by Attorney-at-Law Aruna Laksiri was taken up for cosideration today (15) before a Supreme Court judge bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekara and Priyantha Fernando.
+
+Accordingly, the court ordered the petition dismissed with costs of Rs 500,000 to be paid by the petitioner before July 31, 2024.
+
+The petition argued that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore called for a referendum to ensure its proper passage.
+
+The Election Commission and its members, the General Secretary of Parliament and the Attorney General had been named as respondents of this petition.
+
+...
+
+[Data](articles/c40e2d27.json)
+
+---
+
+### Petition against presidential election is dismissed
 
 *2024-07-15 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198833) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත්ව සම්මත කර නොමැති නිසා එය ජනමත විචාරණයකින් අනුමත වන තුරු ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙනම නිෂ්ප්‍රභ කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+A petition challenging the presidential election was dismissed by the Supreme Court, stating it lacked merit due to the absence of a referendum on the 19th Amendment to the Constitution. The court also set a deadline for payment of legal fees and appointed a three-member panel led by Chief Justice Jayantha Jayasuriya to handle the case.
 
-එම පෙත්සම රුපියල් ලක්ෂ 05 ක නඩු ගාස්තුවට යටත්ව නිෂ්ප්‍රභ කළ බව අප අධිකරණ වාර්තාකරු පැවසීය.
+🟩
 
-එම නඩු ගාස්තු ජුලි මස 31 වනදාට පෙර ගෙවිය යුතු බවත් නියෝග කෙරුණි.
+The Supreme Court ordered the fundamental rights petition filed until the 19th Amendment to the Constitution was not passed in a referendum.
 
-අග විනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් මෙම නියෝගය නිකුත් කළේය.
+The petition was dismissed subject to the cases of Rs.
+
+The case was ordered that the charge should be paid on July 31st.
+
+The court issued a three-member judiciary head of the three-member Supreme Court of Chief Justice Jayantha Jayasuriya.
 
 ◼️
 
 [Data](articles/39b033cc.json)
+
+[Extended Data](ext_articles/39b033cc.ext.json)
 
 ---
 
@@ -269,6 +381,26 @@ Her husband brought her to the attention of the police. With them, police arrest
 [Data](articles/53fd50a9.json)
 
 [Extended Data](ext_articles/53fd50a9.ext.json)
+
+---
+
+### கர்ப்பிணியும் காதலனும் கணவனிடம் கப்பம் கேட்டு தொல்லை
+
+*2024-07-15 13:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணியும்-காதலனும்-கணவனிடம்-கப்பம்-கேட்டு-தொல்லை/175-340437) · `ta`
+
+கர்ப்பிணியான மனைவியும் அவளுடைய காதலனும் கணவனிடம் சுமார் 5 மில்லியன் ரூபாவை கப்பமாகக் கேட்டு தொல்லை கொடுத்த சம்பவமொன்று கலவானை பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+
+கர்ப்பிணி பெண்ணொருவர் சில நாட்களுக்கு முன்னர் காணாமல் போயிருந்தார். அவரை கலவான பொலிஸ் பிரிவிலுள்ள கோவிந்தபுரத்தில் கடந்த சனிக்கிழமை (13) மாலை பொலிஸார் கண்டுப்பிடித்தனர்.
+
+கர்ப்பிணியான அந்தப் பெண், மாதாந்த கிளினிக்குக்குச் செல்வதாகக் கூறிவிட்டு, 9ஆம் திகதி செவ்வாய்க்கிழமை வீட்டைவிட்டுச் சென்றிருந்தார். எனினும், அன்றையதினம்  தனது மனைவி, வீட்டுக்குத் திரும்பவில்லை என அவளுடைய கணவன், பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+
+இந்நிலையில், அவளை விடுவிக்கவேண்டுமாயின் 5 மில்லியன் ரூபாய் பணத்தை கொடுக்கவேண்டுமென, இனந்தெரியாத தொலைபேசி அழைப்பொன்று, கணவனின் அலைபேசிக்கு வந்துள்ளது. அத்துடன், வட்ஸ்அப்க்கும் குறுந்தகவல் போடப்பட்டுள்ளது.
+
+இதுதொடர்பில் பொலிஸாரின் கவனத்துக்கு அவளுடைய கணவன் கொண்டுவந்தார். அவற்றை கொண்டு விசாரணைகளை முன்னெடுத்த பொலிஸார் 31 வயதான பெண்ணையும் அவளுடைய காதலன் என அறியப்பட்ட 21 வயதான இளைஞனையும் கைது செய்தனர்.
+
+...
+
+[Data](articles/e553c3bc.json)
 
 ---
 
@@ -2091,143 +2223,5 @@ Investigations have revealed that the suspect was from the North of Muruthalawa 
 [Data](articles/7eb3f2f8.json)
 
 [Extended Data](ext_articles/7eb3f2f8.ext.json)
-
----
-
-### Start of Sri Lanka’s Trade National Single Window System project
-
-*2024-07-15 01:12:11* · [`dailyftlk`](https://www.ft.lk/business/Start-of-Sri-Lanka-s-Trade-National-Single-Window-System-project/34-764255) · `en`
-
-Finance, Economic Stabilisation and National Policies Ministry Secretary K.M. Mahinda Siriwardana
-
-Finance, Economic Stabilisation and National Policies Ministry Department of Trade and Investment Policy Director General K.A. Vimalenthirarajah
-
-USAID Mission Director for Sri Lanka and Maldives Gabriel Grau
-
-Ninety four participants who would play key roles in the process of establishment and operationalisation of the proposed Sri Lanka’s Trade National Single Window System (TNSWS) recently attended an awareness-building event conducted by the Department of Trade and Investment Policy of the Ministry of Finance, Economic Stabilisation and National Policies with support from the United States Agency for International Development (USAID).
-
-...
-
-[Data](articles/8b67837a.json)
-
-[Extended Data](ext_articles/8b67837a.ext.json)
-
----
-
-### Anura's safety strengthened
-
-*2024-07-15 01:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவின்-பாதுகாப்பு-பலப்படுத்தப்பட்டது/175-340400) · `ta`
-
-Anura's safety measures were enhanced with the installation of modern CCTV cameras at meetings, including solar-powered ones. These cameras are part of a broader security initiative in the Ampara district, particularly in Karadivu and Samanthurai. Additionally, attendees undergo special tests before being allowed entry, ensuring a secure environment.
-
-🟩
-
-President of the National People's Power Anurakumara Dissanayake. B. Modern CCTV cameras are fitted at the participating meetings.
-
-At the recent meetings he attended, solar -fitted CCTV camera and other modern Automated CCTV cameras have been monitored to meet meetings.
-
-In the Ampara district on Friday (12), many such cameras are being installed in the Karadivu and Samanthurai areas.
-
-Meanwhile, the socialists are invited with bags to meet the meetings and are allowed to meet after a special test.
-
-◼️
-
-[Data](articles/da3dc3c7.json)
-
-[Extended Data](ext_articles/da3dc3c7.ext.json)
-
----
-
-### இலங்கை தமிழர் அரசியலின் சமகால வரலாற்றில் தீர்க்கமான நிகழ்வுகள் நிறைந்த காலகட்டத்தை உள்ளடக்கிய  இராஜவரோதயம் சம்பந்தனின் அரசியல் பயணம்
-
-*2024-07-15 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84376) · `en`
-
-முதுபெரும் தமிழ் அரசியல் தலைவர் இராஜவரோதயம் சம்பந்தனின் இறுதிச் சடங்குகள் திருகோணமலையில் 2024 ஜூலை 7 ஞாயிற்றுக்கிழமை நடைபெற்றன. 32 வருடங்களாக திருகோணமலையின் பாராளுமன்ற உறுப்பினராக இருந்த தலைவருக்கு பெருந்திரளான  மக்கள் பிரியாவிடை கொடுத்தனர். ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் திருகோணமலைக்கு சென்று இறுதிசடங்குகளில் கலந்துகொண்டார். முன்னதாக கொழும்பு பொரளை றேமண்ட் மலர்ச்சாலையில்  சம்பந்தனின் பூதவுடல்  அஞ்சலிக்காக வைக்கப்பட்டிருந்தபோது ஜனாதிபதி தனது மனைவி மைத்ரி விக்கிரமசிங்க சகிதம் சென்று தனது இறுதி மரியாதையைச் செலுத்தினார்.
-
-...
-
-[Data](articles/370f9b9f.json)
-
-[Extended Data](ext_articles/370f9b9f.ext.json)
-
----
-
-### Lessons from Italy’s growing love affair with Sri Lankan apparel
-
-*2024-07-15 01:07:57* · [`dailyftlk`](https://www.ft.lk/columns/Lessons-from-Italy-s-growing-love-affair-with-Sri-Lankan-apparel/4-764254) · `en`
-
-In the face of global economic challenges, the apparel industry has struggled to maintain its footing. Yet, within this turbulent landscape, Italy has proven to be a significant export destination in the EU for Sri Lankan apparel.
-
-In 2013, Sri Lanka’s total apparel exports were valued at $ 4.3 billion, with exports to Italy accounting for 9% or $ 408 million. Ten years later, Sri Lanka’s total apparel exports saw a modest 5% increase to $ 4.53 billion, while exports to Italy surged 38% to $ 563.5 million, accounting for nearly 12% of Sri Lanka’s total apparel exports.
-
-...
-
-[Data](articles/f772e070.json)
-
-[Extended Data](ext_articles/f772e070.ext.json)
-
----
-
-### Fishing is required for fishing based on the lease
-
-*2024-07-15 00:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குத்தகை-அடிப்படையில்-மீன்பிடிக்க-அனுமதி-தேவை/175-340399) · `ta`
-
-Tamil Nadu fishermen seek lease-based fishing rights in traditional areas like Kachchativu, with support from the Union Fisheries Minister. The minister visits Rameshwaram, meets with local fisheries welfare executives, and advocates for the release of jailed fishermen. The livelihoods of Tamil Nadu fishermen could be safeguarded through weekly negotiations with the Sri Lankan government. Additionally, 15 vessels were acquitted by a Sri Lankan court between 2021 and 2023, highlighting the need for urgent government intervention to aid the rescue team.
-
-🟩
-
-The fishermen have asked the Union Fisheries Minister to "negotiate with Indian and Sri Lankan governments to negotiate and allow Tamil Nadu fishermen to fish on the basis of lease."
-
-Minister of Fisheries, Livestock and Dairy Minister Rajiv Ranjan Singh participated in the National Fish Farmers Seminar in Madurai. The Union Minister of Fisheries, Rameshwaram, then visited the Rameshwaram Ramanatha Swamy Temple. He continued to visit Dhanushkodi and visited the beach with the storm.
-
-Thereafter, Rameshwaram's private lodging hostel should meet the Union Minister, Traditional Indian Fisheries Welfare Executives including Sesuraja, Emerit and Sakayam, and the fishermen in Sri Lankan jails and the fishermen in Sri Lankan jails should be released.. They petitioned to allow fishing in the Kachchativu area.
-
-...
-
-[Data](articles/5b97b4a0.json)
-
-[Extended Data](ext_articles/5b97b4a0.ext.json)
-
----
-
-### Request to strengthen Sajith's safety
-
-*2024-07-15 00:39:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-பாதுகாப்பை-பலப்படுத்த-கோரிக்கை/175-340398) · `ta`
-
-Eran Wickramaratne, a United People's Power MP, condemned the attack on former US President Donald Trump, emphasizing the importance of democratic practices. He urged the government to enhance the security of their opposition leader amidst Sri Lanka's upcoming elections. Wickramaratne also criticized the delay in local government elections and the illegal appointment of representatives by governors. He called for an end to these actions and warned against involving former local government members in political activities. The MP expressed confidence in the United People's Power's ability to boost the economy, provided the country's laws are enforced correctly.
-
-🟩
-
-United People's Power MP Eran Wickramaratne said the main opposition candidate, the main opposition candidate in the US presidential election, could not allow the shooting on former US President Donald Trump.
-
-We vehemently condemn the attack on Trump. We need to carry out democratic electoral activities and politics. He said that it should not be allowed for anti -democratic activities.
-
-We are asking the government to strengthen the security of our opposition leader as the election is nearing its election in Sri Lanka.
-
-He said this during a media briefing held at the Opposition Leader's office in Colombo on Sunday (14).
-
-Local government election has been delayed. In this case, the governors have illegally appointed representatives. I urge you to abandon these illegal activities and appointments.
-
-...
-
-[Data](articles/956d11e4.json)
-
-[Extended Data](ext_articles/956d11e4.ext.json)
-
----
-
-### Economics of free healthcare: Key trendsetters and sustainability of public health expenditure in Sri Lanka
-
-*2024-07-15 00:29:09* · [`dailyftlk`](https://www.ft.lk/columns/Economics-of-free-healthcare-Key-trendsetters-and-sustainability-of-public-health-expenditure-in-Sri-Lanka/4-764245) · `en`
-
-Self-responsibility and preventive healthcare can reduce the demand pressure on both public and private health sectors substantially and alter the PHE trajectory considerably
-
-In Sri Lanka even those who get ample physical exercise from their hard labour do not seem to care much about prevention. For example, burning plastic is a common sight in both urban and rural areas. Many are not aware of the carcinogenic effects of plastic fumes. Workers who cut concrete and metals do not wear masks. Traffic police breathe polluted air without masks. Examples are many
-
-...
-
-[Data](articles/f38697a6.json)
-
-[Extended Data](ext_articles/f38697a6.ext.json)
 
 ---

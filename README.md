@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 18:27:39**
+As of **2024-07-15 18:37:59**
 
 ## Newspaper Stats
 
-*Scraped **35,387** Articles*
+*Scraped **35,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,100
 dailyftlk | 2,231
-adalk | 3,188
+adalk | 3,189
 adaderanalk | 4,082
-tamilmirrorlk | 4,269
+tamilmirrorlk | 4,271
 dailymirrorlk | 4,733
 virakesarilk | 5,511
-adaderanasinhalalk | 5,914
+adaderanasinhalalk | 5,916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,387 (100.0%) of 35,387 articles have been extended.
+35,387 (100.0%) of 35,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### GIT විභාගයේ අයදුම්පත් කැඳවීම ගැන දැනුම්දීමක්
+
+*2024-07-15 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198844) · `si`
+
+සාමාන්‍ය තොරතුරු තාක්ෂණ විභාගය 2023,2024 පාසල් අයඳුම්කරුවන්ට විශේෂ දැනුම්දීමක් සිදුකර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින්, විභාග දෙපාර්තමේන්තුව නිවේදනය කළේ, ඉහත විභාගය සඳහා අයඳුම්පත් කැඳවීම 2024/07/12 වන දින සිට 2024/07/29 වන දින දක්වා මාර්ගගත ක්‍රමය ඔස්සේ සිදුකරන බවය.
+
+සියලුම අයදුම්කරුවන් තමන්ගේ විදුහල්පති/ පාසල් ප්‍රධානීන් මඟින් අයදුම්පත් යොමු කිරීම කළ යුතු ය.
+
+ඒ අනුව විදුහල්පතිවරුන් / පෞද්ගලික පාසල් ප්‍රධානීන් විසින් ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවි වන www.doenets.lk හෝ www.onlineexams.gov.lk/eic දෙපාර්තමේන්තු නිල ජංගම දුරකථන යෙදවුම 'DOE'වෙත පිවිස අදාළ උපදෙස් හොඳින් කියවා නිවැරදිව මාර්ගගත ක්‍රමවේදය ඔස්සේ පමණක් අයදුම්පත්‍ර යොමු කළ යුතු වේ.
+
+උක්ත විභාගය සඳහා රජයේ හා පෞද්ගලික පාසල් විදුහල්පතිවරුන් වෙත දැනටමත් ලබාදී ඇති පරිශීලක නාම හා මුරපද භාවිතයෙන් අයදුම් කළ යුතු වේ.
+
+ඉන් අනතුරුව එහි මුද්‍රිත පිටපතක් ලබාගෙන අවශ්‍ය අවස්ථාවක දී ඉදිරිපත් කිරීමට තමන් භාරයේ සුරක්ෂිතව තබාගත යුතුය.
+
+...
+
+[Data](articles/ab1d8c3a.json)
+
+---
+
+### තවත් තරුණයෙකුට දිවි අහිමිවෙයි
+
+*2024-07-15 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198843) · `si`
+
+පොලීසිය ප්‍රකාශ කළේ තවත් පුද්ගලයෙකු සමග දැඳුරු ඔයේ දිය නෑමට ගිය අවස්ථාවේ ඔහු දියේ ගිලී ඇති බවය.
+
+පසුව ඔහු ගොඩට ගෙන හලාවත රෝහලට ඇතුළත් කිරීමේ දී මෙලෙස මියගොස් තිබේ.
+
+මියගොස් ඇත්තේ 20 හැවිරිදි හැටන්, වටවන ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකු බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/58d75d7a.json)
+
+---
 
 ### Man charged with two counts of murder after body parts found in suitcases on UK bridge
 
@@ -142,6 +180,24 @@ A bond maturing on 01.12.2031 closed at 12.35/60 percent. (Colombo/Jul15/2024)
 
 ---
 
+### கணவனைக் கொன்ற மனைவிக்கு வலை
+
+*2024-07-15 17:12:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனைக்-கொன்ற-மனைவிக்கு-வலை/175-340448) · `ta`
+
+குடும்ப தகராறு முற்றிய நிலையில் மனைவி உள்ளிட்ட சிலர், கணவனை வெட்டி படுகொலை செய்துள்ளதாக மொரட்டுவ பொலிஸார் தெரிவிக்கின்றனர்.
+
+உயிரிழந்தவர் 42 வயதுடைய நபர் ஒரு பிள்ளையின் தந்தை என பொலிஸார் தெரிவிக்கின்றனர்.
+
+மொரட்டுவ, ரதுகுருசாவத்த, லக்ஷபதிய பிரதேசத்தை சேர்ந்த ஒருவரே இவ்வாறு கொல்லப்பட்டுள்ளதாக தெரிவித்த மொரட்டுவ பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+உயிரிழந்தவரின் மனைவி, தனது சகோதரனை வீட்டுக்கு வரவழைத்ததாகவும், அவரின் உதவியுடன் இந்த கொலையை செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3573fcb2.json)
+
+---
+
 ### Sri Lanka stocks close up, foreign interest in John Keells and Hemas
 
 *2024-07-15 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-foreign-interest-in-john-keells-and-hemas-172182/) · `en`
@@ -235,6 +291,22 @@ During that period, “temporary passports” had been issued for them to leave 
 [Data](articles/ff178ea4.json)
 
 [Extended Data](ext_articles/ff178ea4.ext.json)
+
+---
+
+### இம்ரான் கானின் கட்சிக்கு தடை
+
+*2024-07-15 16:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்ரான்-கானின்-கட்சிக்கு-தடை/50-340447) · `ta`
+
+சிறையில் அடைக்கப்பட்டுள்ள பாகிஸ்தானின் முன்னாள் பிரதமர் இம்ரான் கானின் பாகிஸ்தான் தெஹ்ரீக்-இ-இன்சாப் (பிடிஐ) கட்சியை தடை செய்ய ஷெபாஸ் ஷெரீப் தலைமையிலான அந்நாட்டு அரசு முடிவு செய்துள்ளது.
+
+இந்த தகவலை அந்நாட்டு அமைச்சர் அட்டாவுல்லா தரார் உறுதிப்படுத்தியுள்ளார். இது அந்நாட்டு அரசியலில் அதிர்வலைகளை ஏற்படுத்தியுள்ளது. ஏனென்றால், இம்ரான் கானின் பாகிஸ்தான் தெஹ்ரீக்-இ-இன்சாப் கட்சி பாகிஸ்தானின் மிகப்பெரிய எதிர்க்கட்சியாகும்.
+
+பிடிஐ கட்சிக்கு தடை விதிக்க இருப்பதற்கான காரணங்கள் குறித்து செய்தியாளர்கள் கேள்விக்கு பதிலளித்த அட்டாவுல்லா தரார், “பிடிஐ கட்சி தேச விரோத செயல்களில் ஈடுபட்டுள்ளது. சட்டவிரோதமாக வெளிநாட்டு நிதிகளை அக்கட்சி பெற்றுள்ளது. அதற்கு நம்பத் தகுந்த ஆதாரங்கள் உள்ளன. வெளிநாட்டு நிதியுதவி வழக்கு, மே 9 கலவரம் போன்ற பல்வேறு காரணங்களின் அடிப்படையில் இம்ரான் கானின் கட்சியை தடை செய்ய முடிவெடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f6abe04a.json)
 
 ---
 
@@ -335,6 +407,18 @@ The deceased has been identified as 52 year old Sinhapura Welikanda.
 [Data](articles/aca2b4ba.json)
 
 [Extended Data](ext_articles/aca2b4ba.ext.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනය වෙයි
+
+*2024-07-15 16:20:33* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-වෙයි/11-410793) · `si`
+
+හෙට (16) සිට ක්‍රියාත්මක වන පරිදි විදුලි ගෘහස්ථ විදුලි ගාස්තු 27% කින් පහල දැමෙන අතර අනෙකුත්  කර්මාන්ත රාජ්‍ය හා පුන්‍ය ආයතන ඒක්ව ගත්විට සමස්ථ විදුලි බිල 22.5% කින් පහළ දැමීමට ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව තීරණය කර තිබෙනවා.
+
+◼️
+
+[Data](articles/1697e9b4.json)
 
 ---
 
@@ -2257,125 +2341,5 @@ The President made these remarks at the “Urumaya” freehold land deeds award 
 [Data](articles/750dc1d4.json)
 
 [Extended Data](ext_articles/750dc1d4.ext.json)
-
----
-
-### Allergic to children who have taken from the hospital
-
-*2024-07-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198816) · `si`
-
-Several children recently discharged from Mihintale hospital were readmitted due to allergies, possibly triggered by medication side effects. A group of children experienced adverse reactions after taking certain drugs, leading to nine admissions aged 6 to 12. These cases were then transferred to Anuradhapura Teaching Hospital for specialized care.
-
-🟩
-
-Mihintale Several children who have been released from the hospital have been hospitalized due to allergy.
-
-Our correspondent states that a group of children who acquired drugs and their expenses have been raised.
-
-The children came out and got out of the tongue after the children of the Mihintale had taken their children with their children.
-
-Nine sick children were admitted to the Mihintale Hospital and later sent to Anuradhapura Teaching Hospital for further treatment.
-
-Children were 6 to 12 years old.
-
-◼️
-
-[Data](articles/65b30afe.json)
-
-[Extended Data](ext_articles/65b30afe.ext.json)
-
----
-
-### Sri Lanka central bank net seller in fx markets in June
-
-*2024-07-15 09:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-seller-in-fx-markets-in-june-172058/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank was a net seller in forex markets in June 2024, official data shows, data shows after a build-up of excess liquidity from dollar purchases up to May.
-
-The central bank sold 57 million US dollars to banks in June and did not buy any dollars, data shows, after buying 224.5 million US dollars and selling 32 million dollars in May.
-
-There was a build-up of excess liquidity up to 200 billion rupees after dollar purchases in April and May.
-
-Sri Lanka operates a so-called flexible exchange rate, which analysts says is not backed by consistent policy.
-
-When there is higher import demand, usually due a pick up in private or state enterprise credit or both, the flexible exchange rate slides triggering a confidence shock in both importers and exporters.
-
-Importers try to cover early and exporters try to delay, when the exchange rate weakens.
-
-...
-
-[Data](articles/fbd61871.json)
-
-[Extended Data](ext_articles/fbd61871.ext.json)
-
----
-
-### Leader of Nepal’s largest communist party named country’s new prime minister
-
-*2024-07-15 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100510/leader-of-nepals-largest-communist-party-named-countrys-new-prime-minister) · `en`
-
-The leader of the Nepal’s largest communist party, Khadga Prasad Oli, was named the Himalayan nation’s new prime minister on Sunday following the collapse of a previous coalition government.
-
-A statement issued by the president’s office said Oli will take his oath of office on Monday.
-
-A veteran politician and three-time prime minister, Oli will be leading a coalition government made up of his Communist Party of Nepal (Unified Marxist Leninist) and the Nepali Congress party, the two largest parties in Nepal.
-
-The last government headed by Pushpa Kamal Dahal collapsed on Friday after Oli’s party, which had been a part of the coalition, withdrew its support to join the new partnership.
-
-Oli would have to seek vote of confidence in parliament to continue in office within a month. The two parties in the new alliance have more than half the members in parliament required to prove their majority.
-
-...
-
-[Data](articles/67ff292a.json)
-
-[Extended Data](ext_articles/67ff292a.ext.json)
-
----
-
-### Railway Station Masters warn of indefinite strike
-
-*2024-07-15 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100509/railway-station-masters-warn-of-indefinite-strike) · `en`
-
-Executive grade officers of the university’s non-academic staff have decided to report to work from today (15), after ending the strike action.
-
-This decision follows a discussion with Prof. Sampath Amaratunge, Chairman of the University Grants Commission, regarding their demands.
-
-Meanwhile, the Railway Station Masters’ Union warns of a indefinite strike if the Minister of Transport fails to submit their demands for Cabinet approval and provide solutions today (15).
-
-President of the union Sumedha Somaratne stated that they will meet tomorrow (16) to make a final decision.
-
-◼️
-
-[Data](articles/06877b68.json)
-
-[Extended Data](ext_articles/06877b68.ext.json)
-
----
-
-### The man who fired on Trump has no psychological impacts-there are no policy reasons-AvPI
-
-*2024-07-15 08:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188465) · `ta`
-
-Thomas Madhus Crooks, who shot at Donald Trump, shows no signs of psychological distress, according to EPI. The incident lacks policy motives, and initial investigations suggest he acted alone, without prior surveillance or involvement in dangerous activities. His use of his father's rifle indicates no previous criminal intent.
-
-🟩
-
-EPI has said that Thomas Madhus Crooks, who fired on US President Donald Trump, is not psychologically affected.
-
-An EPI official has said that there is no indication that the firingman is psychologically affected.
-
-He said that there are no more dangerous threats so far, he said, adding that the inquiries are at the beginning.
-
-There are no policy reasons for the shooting on Donald Trump, and the AvPI said he would look like he was acting alone.
-
-He said that he was not under our surveillance in the past, and that our data had not been featured.
-
-While investigating how he got a gun, it was revealed that he had used his father's purchased rifle, according to API officials.
-
-◼️
-
-[Data](articles/e8d81a6f.json)
-
-[Extended Data](ext_articles/e8d81a6f.ext.json)
 
 ---

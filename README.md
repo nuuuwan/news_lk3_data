@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 00:53:05**
+As of **2024-07-16 01:05:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,422 (100.0%) of 35,425 articles have been extended.
+35,425 (100.0%) of 35,425 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -160,6 +160,8 @@ The program was attended by journalists, representatives of media organisations,
 
 [Data](articles/c5649c07.json)
 
+[Extended Data](ext_articles/c5649c07.ext.json)
+
 ---
 
 ### Coffee that minimizes life risk
@@ -252,6 +254,8 @@ Whilst the macro economic performance is on a positive, the reality at the house
 
 [Data](articles/e35f4cfb.json)
 
+[Extended Data](ext_articles/e35f4cfb.ext.json)
+
 ---
 
 ### The government employees who have committed not boycott Rs. 10,000
@@ -285,6 +289,8 @@ The 2024 Budget Speech revealed that Sri Lanka intends to accelerate Public Priv
 ...
 
 [Data](articles/4198a076.json)
+
+[Extended Data](ext_articles/4198a076.ext.json)
 
 ---
 

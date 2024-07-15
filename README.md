@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 08:24:52**
+As of **2024-07-15 08:35:29**
 
 ## Newspaper Stats
 
-*Scraped **35,268** Articles*
+*Scraped **35,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,65 +20,101 @@ adaderanalk | 4,055
 tamilmirrorlk | 4,247
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,886
+adaderanasinhalalk | 5,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,265 (100.0%) of 35,268 articles have been extended.
+35,268 (100.0%) of 35,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளதாக அறிவிப்பு
+### නේපාලයේ අග්‍රාමාත්‍ය ධුරය කේ.පී ශර්මා ඔලී ට
+
+*2024-07-15 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198815) · `si`
+
+නේපාලයේ අග්‍රාමාත්‍ය ධුරය දැරු පුෂ්ප කමල් දහාල් විශ්වාසභංගයකින් පසුගිය දා පරාජයට පත් ව තිබුණි.
+
+ඒ අනුව නේපාලයේ අග්‍රාමාත්‍ය ධුරයට කේ.පී ශර්මා තේරී පත්ව ඇති බව වාර්තා වේ.
+
+කේ.පී ශර්මා 72 හැවිරිදි වියේ පසුවන අතර ඔහු මීට පෙර අවස්ථා දෙකකදී නේපාලයේ අග්‍රාමාත්‍ය ධුරය දරා ඇති බව සඳහන් වේ.
+
+නේපාලයේ නව අග්‍රාමාත්‍යවරයා සහ නව කැබිනට් මණ්ඩලය අද (15) දිනයේ දී දිවුරුම් දීමට නියමිතය.
+
+◼️
+
+[Data](articles/e286601e.json)
+
+---
+
+### Notice that train services have been affected
 
 *2024-07-15 07:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-பாதிக்கப்பட்டுள்ளதாக-அறிவிப்பு/175-340415) · `ta`
 
-கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணித்த  ரயில் பண்டாரவளை மற்றும் ஹீல் ஓயாவிற்கு இடையில் தடம் புரண்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Train services from Colombo Fort to Badulla have been disrupted due to a derailment near Bandarawela. The Railway Department confirms impact on hill country routes.
 
-இதன் காரணமாக மலையகத்திற்கான ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+🟩
+
+It is reported that the train from Colombo Fort to Badulla has derailed between Bandarawela and Heel Oya.
+
+The Railway Department said that the train services to the hill country have been affected. Remble
 
 ◼️
 
 [Data](articles/ea0cca34.json)
 
+[Extended Data](ext_articles/ea0cca34.ext.json)
+
 ---
 
-### வளிமண்டலவியல் திணைக்களத்தின் முக்கிய அறிவிப்பு
+### A key notice of the Department of Meteorology
 
 *2024-07-15 07:54:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-முக்கிய-அறிவிப்பு/175-340414) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology warns of possible rainfall, thunderstorms, and strong winds in several provinces including Western, Sabaragamuwa, North Western, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Expect over 50mm of rain in some areas and wind speeds of 50-60km/h in certain regions, with milder winds elsewhere.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில இடங்களில்  50 மில்லி மீற்றருக்கும் அதிகளவான மழை வீழ்ச்சி பதிவாக்கூடும் என அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மற்றும் அம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது 50-60 கிலோ மீற்றர் வேகத்தில் ஓரளவு பலத்த காற்று வீசக்கூடும்.
+The Department of Meteorology has said that there is a possibility of rainfall or thunderstorms in the Western, Sabaragamuwa and North Western Provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
 
-நாட்டின் ஏனைய பகுதிகளில் அவ்வப்போது கிலோ மீற்றர் வேகத்தில் 30-40   காற்று வீசக்கூடும் வளிமண்டலவியல் திணைக்களம் மேலும் குறிப்பிட்டுள்ளது. R
+The department said that more than 50 millimeters of rainfall will be reported in some areas in the Western and Sabaragamuwa Provinces and Kandy and Nuwara Eliya districts.
+
+Strong winds may be blowing at speeds of 50-60 km / h from time to time in the western slopes of the Central Highlands and the Northern, North Central and North Western Provinces and Trincomalee and Hambantota districts.
+
+The Department of Meteorology has further stated that 30-40 winds are blowing at the other parts of the country from time to time.. Remble
 
 ◼️
 
 [Data](articles/5cdda20e.json)
 
+[Extended Data](ext_articles/5cdda20e.ext.json)
+
 ---
 
-### පිරිසක් අද සේවය ට එනකොට තවත් පිරිසක් නැවතත් වර්ජන සූදානමක
+### When a group arrives in the ministry today, another group again preparing strikes
 
 *2024-07-15 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198814) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලයේ විධායක ශ්‍රේණියේ නිලධාරීන් අද (15) සිට සේවයට වාර්තා කිරීමට තීරණය කර තිබේ.
+A group arriving at the ministry faces potential strikes as non-academic staff at the university decide to report from today, influenced by discussions with UGC Chairman Professor Sampath Amaratunga. The Railways Association threatens further action if the Minister doesn't fulfill promises by approving the Cabinet today; its president, Sumedha Somaratne, plans a meeting tomorrow.
 
-සිය ඉල්ලීම් පිළිබඳව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති මහාචාර්ය සම්පත් අමරතුංග මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව ඔවුන් මෙම තීරණය ගෙන ඇත.
+🟩
 
-මේ අතර සිය ඉල්ලීම් කැබිනට් අනුමැතිය සඳහා ඉදිරිපත් කර විසඳුම් ලබා දෙන බවට ප්‍රවාහන අමාත්‍යවරයා ලබා දුන් පොරොන්දුව අද දිනයේ දී ඉටු නොකළහොත් යළිත් අඛණ්ඩ වැඩ වර්ජනයකට යොමු වන බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+The officers of the university non-academic staff have decided to report from today (15).
 
-එම සංගමයේ සභාපති සුමේධ සෝමරත්න මහතා පැවසුවේ ඒ සම්බන්ධයෙන් සිය සංගමය හෙට (16) දිනයේදී රැස්වී අවසන් තීරණය ගන්නා බවය.
+The decision was taken after a discussion with Professor Sampath Amaratunga, Chairman of the University Grants Commission regarding his demands.
+
+Meanwhile, the Railways Association says that if the Minister's promise is not fulfilled today for the approval of the Cabinet for the approval of the Cabinet.
+
+The President of the Association Sumedha Somaratne said that his union would meet tomorrow (16).
 
 ◼️
 
 [Data](articles/c4342e44.json)
+
+[Extended Data](ext_articles/c4342e44.ext.json)
 
 ---
 
@@ -2199,31 +2235,5 @@ The Commander of the Israeli Armed Forces has announced that the army has a shor
 [Data](articles/fcfaca93.json)
 
 [Extended Data](ext_articles/fcfaca93.ext.json)
-
----
-
-### The story of the rival parties is spreading the support of the minority for national people's power - the Muslim people express great support - Anuragumara
-
-*2024-07-14 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188415) · `ta`
-
-Rival parties highlight minority support for national power, especially Muslims. JVP leader Anura Kumaratisanayake claims lack of support for Tamil and Muslim communities, but notes a shift towards national power in the South and East among Muslims. He emphasizes the importance of reaching out to all communities and criticizes political corruption and nepotism. Another group opposes national power and corrupt family rule, indicating a divided political landscape.
-
-🟩
-
-JVP leader Anura Kumaratisanayake, who has said that there is no support for the Tamil and Muslim communities of the national people, is another story that is spread by rival political parties, but we have observed a political change, especially among the Muslim community.
-
-He added that Muslims are expressing their interest in the power of the nationalities in the South and East, ”he said.
-
-He told the Sandegims that we accept the need to further report our message to the North East, and we are prioritizing our political motive, unlike the government's politics system.
-
-He noted that these efforts to continue to get the support of all communities are essential.
-
-He said that many individuals and candidates of political parties are contesting in the upcoming presidential election, representing corruption, family politics and family members and colleagues to be appointed beyond the colors of a camp parties.
-
-...
-
-[Data](articles/a36d7548.json)
-
-[Extended Data](ext_articles/a36d7548.ext.json)
 
 ---

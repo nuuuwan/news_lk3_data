@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 10:35:15**
+As of **2024-07-15 10:53:54**
 
 ## Newspaper Stats
 
-*Scraped **35,290** Articles*
+*Scraped **35,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,95 @@ islandlk | 2,002
 economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,181
-adaderanalk | 4,060
+adaderanalk | 4,061
 tamilmirrorlk | 4,251
 dailymirrorlk | 4,733
 virakesarilk | 5,502
-adaderanasinhalalk | 5,889
+adaderanasinhalalk | 5,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,289 (100.0%) of 35,290 articles have been extended.
+35,290 (100.0%) of 35,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### தடுப்பூசி ஏற்றப்பட்ட 11மாணவர்கள் பாதிப்பு
+### දියේ ගිලී පුද්ගලයින් දෙදෙනෙක් මරුට
+
+*2024-07-15 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198819) · `si`
+
+හලාවත පොලිස් වසමේ දැදුරු ඔයේ දියනෑමට ගිය පිරිසක් අතුරින් පුද්ගලයින් දෙදෙනෙකු දියේ ගිලී ඇති අතර ඉන් එක් අයෙකු මියගොස් තිබේ.
+
+දියේ ගිලිනු එක් අයෙකුගේ ජීවිතය බේරාගෙන ඇති අතර අනෙක් පුද්ගලයා හලාවත රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය සඳහන් කළේය.
+
+මෙලෙස මියගොස් ඇත්තේ වටවන, හැටන් ප්‍රදේශයේ පදිංචි 20 හැවිරිදි තරුණයෙකි.
+
+මියගිය තරුණයා සිය බිරිඳ සහ තවත් පුද්ගලයින් තිදෙනෙකු සමඟ දැදුරු ඔයේ දියනාමින් සිටින අතරවාරයේ මෙලෙස දියේ ගිලී ඇති බව පොලීසිය පවසයි.
+
+එමෙන්ම කටුගස්තොට මඩවල මාර්ගයේ මහවැලි ගඟේ නාන තොටුපොළ ආසන්නයේ තිබී පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් ඊයේ (14) රාත්‍රියේ පොලීසිය විසින් සොයා ගෙන තිබුණි.
+
+මෘත ශරීරය මහනුවර රෝහලේ තැන්පත් කර ඇති අතර කටුගස්තොට පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/c99ce650.json)
+
+---
+
+### Ever grateful to India for its timely support, says MP Rauff Hakeem
+
+*2024-07-15 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100513/ever-grateful-to-india-for-its-timely-support-says-mp-rauff-hakeem) · `en`
+
+Sri Lanka Muslim Congress leader and MP Rauff Hakeem on Sunday said that his country is “ever grateful” to India for extending huge financial assistance to Sri Lanka when it faced economic turmoil a couple of years ago.
+
+Although the economy of Sri Lanka bounced back after the Eelam war, the island nation faced a massive economic crisis a couple of years ago because of mounting debts and was unable to settle loans received from foreign nations.  It was at this juncture that India extended huge financial assistance to Sri Lanka when it faced the worst economic crisis with severe fuel shortage affecting its citizens. It was due to this timely assistance and support by India that Sri Lanka could manage the crisis, Mr. Rauff Hakeem said and added that his country would be “ever grateful” to India.
+
+...
+
+[Data](articles/2bdb80aa.json)
+
+---
+
+### 85 හැවිරිදි ෆුජිමෝරි ජනාධිපතිවරණයට
+
+*2024-07-15 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198818) · `si`
+
+පේරු රාජ්‍යයේ හිටපු ජනාධිපති ඇල්බර්ටෝ ෆුජිමෝරි 2026 දී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සඳහා ඉදිරිපත්වන බව වාර්තා වෙයි.
+
+ඒ බව ඔහුගේ දියණිය වන කීකෝ ෆුජිමෝරි සිය X ගිණුමේ සටහනක් තබමින් පැවසුවාය.
+
+ඔහු ගේ පෙර පාලන සමයේ සිදුවූ ඝාතන සහ මානව හිමිකම් උල්ලංඝනය කිරීම් හේතුවෙන් 85 හැවිරිදි ෆුජිමෝරි වසර 25ක් සිරගතව සිට පසුගිය වසරේ නිදහස ලැබීය.
+
+◼️
+
+[Data](articles/61f13012.json)
+
+---
+
+### 11 students who have been mounted on vaccine
 
 *2024-07-15 10:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பூசி-ஏற்றப்பட்ட-11மாணவர்கள்-பாதிப்பு/175-340417) · `ta`
 
-பாடசாலை மாணவர்கள் குழுவொன்றுக்கு வழங்கப்பட்ட தடுப்பூசியின் காரணமாக 11 பாடசாலை மாணவர்கள் சுகவீனமடைந்து அனுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Eleven schoolchildren aged 6-13 from Mihintale area were hospitalized after receiving a vaccine.
 
-மிஹிந்தலை சுற்றுவட்டாரப் பகுதிகளில் வசிக்கும் 06 வயதுக்கும் 13 வயதுக்கும் இடைப்பட்ட 11 பாடசாலை மாணவர்கள் தடுப்பூசியைப் பெற்றுக் கொண்டதன் காரணமாக ஆபத்தான நிலைக்குத் தள்ளப்பட்டுள்ளனர்.
+🟩
 
-மாணவர்கள் குழுவொன்றுக்கு வழங்கப்பட்ட தடுப்பூசியின் காரணமாக 11 பாடசாலை மாணவர்கள் சுகவீனமடைந்து அனுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Eleven school children have been admitted to the Anuradhapura Teaching Hospital due to the vaccine given to a group of school students.
 
-மிஹிந்தலை சுற்றுவட்டாரப் பகுதிகளில் வசிக்கும் 06 வயதுக்கும் 13 வயதுக்கும் இடைப்பட்ட 11 பாடசாலை மாணவர்கள் தடுப்பூசியைப் பெற்றுக் கொண்டதன் காரணமாக ஆபத்தான நிலைக்குத் தள்ளப்பட்டுள்ளனர்.
+11 schoolchildren between the ages of 6 and 13, who live in the surrounding areas of Mihintale, are in danger of getting vaccinated.
+
+Eleven school students have been sick and admitted to the Anuradhapura Teaching Hospital due to the vaccine given to a group of students.
+
+11 schoolchildren between the ages of 6 and 13, who live in the surrounding areas of Mihintale, are in danger of getting vaccinated.
 
 ◼️
 
 [Data](articles/d50ee5d6.json)
+
+[Extended Data](ext_articles/d50ee5d6.ext.json)
 
 ---
 
@@ -2111,85 +2169,5 @@ Moscow has warned that NATO's military aid will be a serious situation as war op
 [Data](articles/4636d607.json)
 
 [Extended Data](ext_articles/4636d607.ext.json)
-
----
-
-### President pays off what revolution is
-
-*2024-07-14 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198793) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of heritage and politics in building a proud future for Sri Lanka's people. He highlighted a program aimed at creating an export economy and distributing land rights to 4,012 Mahaweli divisions, contrasting true revolution with violence. He urged the people to embrace these changes and move forward without political interference.
-
-🟩
-
-President Ranil Wickremesinghe said that the people would build a proud environment that the people would proudly ahead of the people, but to build the people.
-
-The President pointed out that the "heritage" the people of Sri Lanka has enabled the people of this background should be joined by politics.
-
-President Ranil Wickremesinghe made this statement at the Thambuththegama Mahaweli Stadium yesterday (13) at the Thambuththegama Mahaweli Stadium yesterday.
-
-The 9012 Mahaweli Divisions were presented to 4012 Mahaweli divisions in the Anuradhapura District.
-
-President Ranil Wickremesinghe has been awarded 47 land deeds.
-
-...
-
-[Data](articles/a9520849.json)
-
-[Extended Data](ext_articles/a9520849.ext.json)
-
----
-
-### Rs.. 2 crores worth of watch
-
-*2024-07-14 14:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2-கோடி-மதிப்புள்ள-கைக்கடிகாரம்-பரிசு/175-340372) · `ta`
-
-At Mukesh Ambani's wedding, Anand Ambani wore a Rs. 2 crore Audemars Piguet watch, gifting it later. Celebrities like Shah Rukh Khan, Ranveer Singh, and Arjun Kapoor were present.
-
-🟩
-
-Anand's marriage to businessman Mukesh Ambani's marriage took place on July 12. Many celebrities attended the wedding.. Anand Ambani wore a watch worth Rs 54 crore.
-
-In this case, Anand Ambani has gifted the Audemars Piguet Limited Edition watch.
-
-The price of that watch is Rs.. 2 crores only. The photo taken by some people wearing an expensive watch has been revealed.
-
-In that photo of Rs.. Only 9 hands wearing a watch worth Rs 2 crore.
-
-Anand Ambani's favorite Bollywood Super Star Shah Rukh Khan, actor Ranveer Singh, Bonnie Kapoor's son, Arjun Kapoor, actor Javid Jafri's son Meesan, Jhanvi Kapoor's lover Shikhar Baharia and his brother Veer Baharia.
-
-◼️
-
-[Data](articles/812b3b3d.json)
-
-[Extended Data](ext_articles/812b3b3d.ext.json)
-
----
-
-### Arrested who released the defendant
-
-*2024-07-14 14:46:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதிவாதியை-விடுவித்தவர்-கைது/175-340371) · `ta`
-
-A court defendant was arrested for allegedly forging signatures and defrauding Rs 35 lakhs. The suspect, a former court office assistant, claimed to be an employer of the Attorney General's Department and the Pudukkadai High Court. Involved in fraudulent activities, including fake documents related to a traffic ban and airline issues, the individual was apprehended after attempting to evade capture by moving between residences. His arrest, along with his wife's, was facilitated based on received information.
-
-🟩
-
-The defendant of a lawsuit that is being heard in court has been arrested on all allegations.
-
-He has been arrested for allegedly defrauding the signature of the magistrate and defrauding Rs 35 lakhs.
-
-The man, who was arrested on Sunday morning by a group of officials of the Negombo Special Criminal Investigation Division, is a former servant of the court.
-
-It is noteworthy that he was the office assistant in the Welisara Court and was released on bail by committing such false scams.
-
-He is involved in such fraud, claiming that he is the employer of the Attorney General's Department and the Pudukkadai High Court.
-
-In a case filed by the authorities of the Katunayake Airport Criminal Investigation Department (CID) against a resident of the Wennappuwa area, he is involved in the fraudulently involved in fake documents and prosecution documents to remove the airline.
-
-...
-
-[Data](articles/bbab0416.json)
-
-[Extended Data](ext_articles/bbab0416.ext.json)
 
 ---

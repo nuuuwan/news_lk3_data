@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 08:35:29**
+As of **2024-07-15 08:57:05**
 
 ## Newspaper Stats
 
-*Scraped **35,269** Articles*
+*Scraped **35,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,995
 economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,180
-adaderanalk | 4,055
+adaderanalk | 4,056
 tamilmirrorlk | 4,247
 dailymirrorlk | 4,733
 virakesarilk | 5,501
@@ -26,19 +26,41 @@ adaderanasinhalalk | 5,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,268 (100.0%) of 35,269 articles have been extended.
+35,269 (100.0%) of 35,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
+### Fairly heavy showers expected in parts of the country
+
+*2024-07-15 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100508/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
+
+Strong winds of about 50-60kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+Fairly strong winds about 30-40kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/4de7b237.json)
+
+---
+
 ### නේපාලයේ අග්‍රාමාත්‍ය ධුරය කේ.පී ශර්මා ඔලී ට
 
 *2024-07-15 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198815) · `si`
 
+KP Sharma, previously defeated in elections, has been appointed as Nepal's Prime Minister. A 72-year-old with prior PM experiences, he will be sworn in today alongside a new cabinet.
+
+🟩
+
 නේපාලයේ අග්‍රාමාත්‍ය ධුරය දැරු පුෂ්ප කමල් දහාල් විශ්වාසභංගයකින් පසුගිය දා පරාජයට පත් ව තිබුණි.
 
-ඒ අනුව නේපාලයේ අග්‍රාමාත්‍ය ධුරයට කේ.පී ශර්මා තේරී පත්ව ඇති බව වාර්තා වේ.
+According to reports, KP Sharma has been selected for the post of Prime Minister of Nepal.
 
 කේ.පී ශර්මා 72 හැවිරිදි වියේ පසුවන අතර ඔහු මීට පෙර අවස්ථා දෙකකදී නේපාලයේ අග්‍රාමාත්‍ය ධුරය දරා ඇති බව සඳහන් වේ.
 
@@ -47,6 +69,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e286601e.json)
+
+[Extended Data](ext_articles/e286601e.ext.json)
 
 ---
 
@@ -2217,23 +2241,5 @@ Furthermore, the Foreign Affairs State Minister stressed that the people in the 
 [Data](articles/35ded8ee.json)
 
 [Extended Data](ext_articles/35ded8ee.ext.json)
-
----
-
-### Israel is moving towards national suicide
-
-*2024-07-14 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188403) · `ta`
-
-Israel faces a crisis: its military suffers losses in conflicts with Hamas, exacerbated by public opposition and leadership issues affecting recruitment.
-
-🟩
-
-The Commander of the Israeli Armed Forces has announced that the army has a shortage. It continues to lose considerable players in the conflict with Hamas in Gaza. The rise of public opposition to the government and the rise of the Israeli prime minister and his defense minister has been a problem with the recruitment of the military.
-
-◼️
-
-[Data](articles/fcfaca93.json)
-
-[Extended Data](ext_articles/fcfaca93.ext.json)
 
 ---

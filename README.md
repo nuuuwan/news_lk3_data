@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 22:20:19**
+As of **2024-07-15 22:35:27**
 
 ## Newspaper Stats
 
-*Scraped **35,413** Articles*
+*Scraped **35,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,086
 tamilmirrorlk | 4,275
 dailymirrorlk | 4,733
 virakesarilk | 5,516
-adaderanasinhalalk | 5,921
+adaderanasinhalalk | 5,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,410 (100.0%) of 35,413 articles have been extended.
+35,410 (100.0%) of 35,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### ජීවිත අවදානම අවම කරන කෝපි
+
+*2024-07-15 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198850) · `si`
+
+දිනකට පැය හයකට වැඩි කාලයක් අසුන් ගෙන සිටින රැකියාවක් කරන පුද්ගලයෙක්ට දෛනිකව එක් කෝපි කෝප්පයක් හෝ පානය කිරීමෙන් ජීවිත අවදානම අඩුකරගත හැකි බව චීන වෛද්‍ය විද්‍යාලයක් කළ පර්යේෂණයකින් අනාවරණය වී තිබේ.
+
+පුද්ගලයකු දිනකට පැය හයකට වැඩි කාලයක් අසුන්ගෙන සිටීමෙන් දිගුකාලීනව බෝ නොවන රෝගවලට ගොදුරුවීමේ වැඩි ප්‍රවණතාවක් පවතින අතර කෝපි පානය මගින් සිරුරේ ජෛව රසායනික ප්‍රතික්‍රියා ආශ්‍රිත ගැටලුවල අවදානම අඩු කරන බව පර්යේෂකයින් පෙන්වා දෙයි.
+
+මෙය හෙළි වී ඇත්තේ අමෙරිකානුවන් 10,000කට වැඩි පිරිසක් යොදාගෙන වසර 13ක් තිස්සේ සිදුකළ පර්යේෂණයක් ඇසුරිනි.
+
+◼️
+
+[Data](articles/54fcd20b.json)
+
+---
 
 ### Sri Lanka settles USD 60 million Iranian oil debt with tea
 
@@ -2297,31 +2313,5 @@ The 125th Anniversary of the birth of Ramanathan will fall on Friday April 16, 1
 [Data](articles/b96bfdd3.json)
 
 [Extended Data](ext_articles/b96bfdd3.ext.json)
-
----
-
-### හිටපු සි.අයි.ඩී. Black owns IGP and police
-
-*2024-07-15 11:07:15* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-සි-අයි-ඩී--ලොක්කාගෙන්-පොලිස්පතිට-හා-පොලිස්-ඇමතිට-දොස්-මුරයක්/11-410790) · `si`
-
-In Sri Lanka, there have been over 220 murders in the past two years, with 22 occurring in just one year. A former Deputy Inspector General of Police highlighted the issue, stating that preventing such crimes requires a dedicated minister overseeing crime investigations. He also mentioned the prevalence of illegal liquor in Dambulla, where six deaths occurred due to law-breaking alcohol consumption. The city's open bars operate for four hours daily, contributing to numerous murders that go unreported due to police incapability to handle them legally.
-
-🟩
-
-ශ්‍රී ලංකාව තුළින් විස්සයි විසි දෙක වසරේ මිනීමැරුම් පන්සිය පනස් නමයක් විස්සයි විසිතුන වසරේ මිනිමැරුම් පන්සිය හැත්තෑ අටක් සිදු වී  තිබෙන බවත් මෙය වළක්වා ගැනීමට නොහැකි පොලිස්පති වරයෙක් විෂය භාර ඇමතිවරයෙක් රටකට කුමකටද ඇයි අපරාධ පරීක්ෂණය දෙපාර්තමේන්තුව භාරව  සේවය  කළ හිටපු නියෝජ්‍ය පොලිස්පති  රවී සෙනවිරත්න මහතා පැවසීය.
-
-Former Diarani Police, a meeting held at the Dambulla bus stand in the Dambulla bus stand was held at the Dambulla bus stand.
-
-He was told by the security and especially serious crimes in Dambulla
-
-Former Deputy Inspector General of Police (IGP) said that if the crimes of the country would take place in Athurugiriya and the unbelievators of the country was now in order to avoid such a murder.Minister of In charge of the subject resigns.
-
-Twenty two murders have been reported that the ten70,000 murder of the Twenty three murders have been unknown.
-
-...
-
-[Data](articles/01cc7d10.json)
-
-[Extended Data](ext_articles/01cc7d10.ext.json)
 
 ---

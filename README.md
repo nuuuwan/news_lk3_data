@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 01:05:08**
+As of **2024-07-16 01:19:53**
 
 ## Newspaper Stats
 
-*Scraped **35,425** Articles*
+*Scraped **35,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 344
 newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,102
-dailyftlk | 2,239
+dailyftlk | 2,241
 adalk | 3,192
 adaderanalk | 4,086
 tamilmirrorlk | 4,276
@@ -26,11 +26,53 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,425 (100.0%) of 35,425 articles have been extended.
+35,425 (100.0%) of 35,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### COPE exposes irregularities in UDA land leases, major financial losses
+
+*2024-07-16 01:06:02* · [`dailyftlk`](https://www.ft.lk/news/COPE-exposes-irregularities-in-UDA-land-leases-major-financial-losses/56-764312) · `en`
+
+Reveals land on James Peiris Mawatha leased for Rs. 12 b for 99-years in 2019 without Board of Directors approval; unapproved conditions were included in lease agreement
+
+Rs. 330 m due to leasing land in Fort D.R. Wijewardena Mawatha without formal Board approval; demands detailed reports on these incidents within two weeks
+
+Auditor General’s Department points to various issues with UDA’s accounting system, particularly in valuing project land
+
+Instructs to transfer ownership of Parliament complex held by UDA to Parliament
+
+Orders a comprehensive report on all investment lands owned by UDA to be submitted within two weeks
+
+Discloses 22 housing projects built under Urban Revitalisation Program using
+
+Rs. 48 b Govt. funds with only one completed project obtains condominium management certificate
+
+The Committee on Public Enterprises (CoPE) has unveiled significant irregularities in the leasing and management of lands by the Urban Development Authority (UDA) causing major financial losses.
+
+...
+
+[Data](articles/d0a46a73.json)
+
+---
+
+### Pathfinder Foundation and Ananta Aspen Centre to examine prospects for India-Sri Lanka physical connectivity
+
+*2024-07-16 01:04:55* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-and-Ananta-Aspen-Centre-to-examine-prospects-for-India-Sri-Lanka-physical-connectivity/56-764311) · `en`
+
+In collaboration with Ananta Aspen Centre of India, the Pathfinder Foundation will hold a virtual roundtable titled “Bridging Borders: Enhancing connectivity between India and Sri Lanka” on 19 July.
+
+The Pathfinder Foundation has established a dedicated Study Group to craft a comprehensive blueprint to enhance physical connectivity between India and Sri Lanka.  This initiative envisions transforming Sri Lanka into a logistic and energy hub for the region, aiming to boost the country’s annual growth rate beyond 6% in the foreseeable future.
+
+The roundtable will focus on digital connectivity and physical and maritime connectivity. Trilegal Rahul Matthan and Carnegie India Director Dr. Rudra Chaudhuri have been invited to present papers on digital connectivity. LIRNEasia Chairperson Prof. Rohan Samarajiva and Information and Communication Technology of ICTA CEO Mahesh Perera will participate as discussants.
+
+...
+
+[Data](articles/14822e64.json)
+
+---
 
 ### Do not formal politics
 
@@ -2283,43 +2325,5 @@ The deceased had been bathing in Deduru Oya with his wife and three others, acco
 [Data](articles/73117c78.json)
 
 [Extended Data](ext_articles/73117c78.ext.json)
-
----
-
-### Free hold land grants blocked 20-years ago by Sri Lanka court decision: President
-
-*2024-07-15 12:10:00* · [`economynextcom`](https://economynext.com/free-hold-land-grants-blocked-20-years-ago-by-sri-lanka-court-decision-president-172092/) · `en`
-
-ECONOMYNEXT – A court decision blocked an attempt to give freehold rights to people 20 years ago, Sri Lanka’s President Ranil Wickremesinghe said, at a ceremony where 662 people in the Badulla District were given deeds.
-
-“The “Urumaya” Program was implemented in this country in 2002 and 2003 but was halted by a court decision.”
-
-“The government took the land from the people to build the Kotmale Reservoir and the Theldeniya Reservoir, relocating those affected to these areas,” Wickremesinghe was quoted as saying by his media division.
-
-When he tried to do this in 2002-03, the court said a referendum was needed to do so.
-
-“This necessitated a new law to provide these lands under the Land Development Ordinance. I presented the draft law, but the Supreme Court ruled that a referendum was necessary to pass such legislation.”
-
-...
-
-[Data](articles/0efe56ae.json)
-
-[Extended Data](ext_articles/0efe56ae.ext.json)
-
----
-
-### Galle Prison inmate dies from meningitis, 3 others hospitalised
-
-*2024-07-15 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100516/galle-prison-inmate-dies-from-meningitis-3-others-hospitalised) · `en`
-
-An inmate of the Galle Prison has reportedly died of Meningitis, the Prisons Director of Health said.
-
-Meanwhile, three other inmates who are suspected to be infected have been admitted to hospital, he added.
-
-◼️
-
-[Data](articles/28ce42bf.json)
-
-[Extended Data](ext_articles/28ce42bf.ext.json)
 
 ---

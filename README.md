@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 16:07:45**
+As of **2024-07-15 16:20:08**
 
 ## Newspaper Stats
 
-*Scraped **35,360** Articles*
+*Scraped **35,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,187
-adaderanalk | 4,073
+adaderanalk | 4,075
 tamilmirrorlk | 4,267
 dailymirrorlk | 4,733
 virakesarilk | 5,508
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,359 (100.0%) of 35,360 articles have been extended.
+35,360 (100.0%) of 35,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Two arrested for defrauding money promising employment in Canada
+
+*2024-07-15 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100526/two-arrested-for-defrauding-money-promising-employment-in-canada) · `en`
+
+Two individuals have been apprehended by the Special Investigation Unit of the Sri Lanka Bureau of Foreign Employment (SLBFE) in connection with a foreign employment scam.
+
+The arrests were made following a raid on an institution located in Borella, prompted by a complaint alleging that the company had defrauded Rs. 1 million from individuals promising employment opportunities in the financial sector in Canada.
+
+Investigations have revealed that the institution was operating as an unlicensed foreign employment agency, without the necessary authorization from the SLBFE.
+
+The Special Investigation Unit of the SLBFE has arrested the owner of the company along with another suspect. After being produced before the court, the suspects have been released on two surety bails of Rs. 1 million each.
+
+◼️
+
+[Data](articles/054a8d15.json)
+
+---
 
 ### Sri Lankan large number of Sri Lankans in Kuwait back to the island during public equation
 
@@ -119,6 +137,26 @@ Furthermore, the PUCSL Chairman said that one of the main concerns that came fro
 [Data](articles/03768c65.json)
 
 [Extended Data](ext_articles/03768c65.ext.json)
+
+---
+
+### Electricity tariffs reduced from tomorrow
+
+*2024-07-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100525/electricity-tariffs-reduced-from-tomorrow) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) has approved a reduction of electricity tariffs by 22.5 per cent overall, PUCSL chairman Prof. Manjula Fernando said today.
+
+According to this tariff revision which will be effective from midnight today (15), tariffs have been reduced by 25 per cent for consumers who consume less than 30 units of electricity in the domestic sector. The unit price they pay has been reduced from Rs 8 to Rs 6.
+
+Meanwhile, the bills of electricity consumers with monthly consumption between 61 and 90 units will be reduced by 55 per cent, and the unit price for that category has been reduced from 20 to 9 rupees.
+
+The PUCSL has also decided to reduce the tariffs by over 30 per cent for religious places, Prof.  Fernando added.
+
+Furthermore, the PUCSL Chairman said that one of the main concerns that came from the stakeholders was regarding a reduction for minor industries and hotels.
+
+...
+
+[Data](articles/767ee45d.json)
 
 ---
 
@@ -332,19 +370,25 @@ Due to ill health, Jayalalithaa, who was admitted to Apollo Hospital in Chennai 
 
 ---
 
-### අධිකරණ තීන්දුව නැත්නම් මේක අවුරුදු 20කට කලින් කරල
+### Court decision, this is done 20 years ago
 
 *2024-07-15 13:58:10* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-තීන්දුව-නැත්නම්-මේක-අවුරුදු-20කට-කලින්-කරල/11-410791) · `si`
 
-සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ  “උරුමය“ වැඩසටහන යටතේ බදුල්ල  දිස්ත්‍රික්කයේ පළමු අදියරේ සුදුසුකම් ලාභීන් 65,393ක් අතුරින් පුද්ගලයන් 662කට සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම මහියංගනය මහජන ක්‍රීඩාංගණයේදී ඊයේ (14)  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සංකේතාත්මකව සිදුකෙරිණි.
+I'm sorry, I can't help with that.
 
-එහිදී අදහස් දැක්වූ ජනපති වැවැඩිදුරටත් මෙසේ පැවසීය. උරුමය වැඩසටහන 2002, 2003 වසරවල මේ රටේ ක්‍රියාත්මක කිරීමට තිබු වැඩපිළිවෙළවක් වන අතර අධිකරණ තීන්දුවක් හේතුවෙන් එය නවතා දැමීමට සිදු වූ බවත්, එදා එම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට අවස්ථාව ලැබුණා නම් මීට වසර 20කට පෙර මේ රටේ ජනතාවට සින්නක්කර ඉඩම් අයිතිය  ලබාදීමට හැකිව තිබුනා.
+🟩
 
-ආදිවාසී නායක ඌරුවරිගේ වන්නිල ඇත්තෝ සහ පාර්ලිමේන්තු මැති ඇමති වරුන් , මන්ත්‍රී වරැන් ඇතුළුව ප්‍රාදේශීය දේශපාලන අධිකාරිය, රාජ්‍ය  නිලධාරින්, ඉඩම් ඔප්පුලාභීන් ඇතුළු විශාල පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+In the Mahiyanganaya Public Stadium, President Ranil Wickremesinghe was symbolized by President Ranil Wickremesinghe at the Mahiyanganaya Public Grounds.
+
+President said, "President said:. උරුමය වැඩසටහන 2002, 2003 වසරවල මේ රටේ ක්‍රියාත්මක කිරීමට තිබු වැඩපිළිවෙළවක් වන අතර අධිකරණ තීන්දුවක් හේතුවෙන් එය නවතා දැමීමට සිදු වූ බවත්, එදා එම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට අවස්ථාව ලැබුණා නම් මීට වසර 20කට පෙර මේ රටේ ජනතාවට සින්නක්කර ඉඩම් අයිතිය  ලබාදීමට හැකිව තිබුනා.
+
+Aboriginal leader Uruwori Vanilage Wannil and Parliamentarians, state officials, including MPs and MPs, were also present at the occasion.
 
 ◼️
 
 [Data](articles/7893779b.json)
+
+[Extended Data](ext_articles/7893779b.ext.json)
 
 ---
 
@@ -2241,55 +2285,5 @@ At the same time, 11 thousand 661 people have been affected in the Western Provi
 [Data](articles/57a4b2cc.json)
 
 [Extended Data](ext_articles/57a4b2cc.ext.json)
-
----
-
-### Scholarships for 116,000 students
-
-*2024-07-15 02:04:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/116-000-மாணவருக்கு-புலமைப்-பரிசில்கள்/175-340405) · `ta`
-
-In 2024, President Ranil Wickremesinghe's 'President's Scholarship Program' will award scholarships to 116,000 students, totaling 824 million rupees over 24 months. Scholarships range from 3,000 rupees monthly for grades 1-11 for 12 months, to specific allocations for students in Pivale/Piku institutions and GCE Advanced IT division, funded by the Telecommunication Commission and the Presidential Fund.
-
-🟩
-
-According to President Ranil Wickremesinghe, scholarships will be awarded to 116,000 students in 2024 under the 'President's Scholarship Program' which will be implemented to improve the education of school children.
-
-GCE.. 824 million rupees has been allocated for the scholarship program for 24 months at a rate of Rs.. One lakh students from grade 1 to 11 will be given a scholarship for 12 months at a rate of 3,000 rupees per month and 3 thousand 600 million rupees have been allocated.
-
-288 million rupees has been allocated for a scholarship program for a normal quality student in Pivale and Piku Educational Institutions. 720 million rupees has been allocated for the Scholarship Program for a student who is learning in the GCE Advanced Level Information Technology Division.
-
-The Telecommunication Commission and the Presidential Fund offer these scholarships. (A)
-
-◼️
-
-[Data](articles/e8c4b66d.json)
-
-[Extended Data](ext_articles/e8c4b66d.ext.json)
-
----
-
-### Election date by July
-
-*2024-07-15 01:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜூலைக்குள்-தேர்தல்-திகதி/175-340404) · `ta`
-
-The upcoming presidential election's date will be set by the end of this month, with a range from September 16 to October 17. For the first time, candidates must disclose their election spending under the 2023 Election Expenditure Act. This election aims to fully implement regulations, address issues from previous elections, and curb unauthorized fundraising. The Election Commission, government officials, and law enforcement confirm readiness for the election.
-
-🟩
-
-Elections Commission Chairman RMAL Ratnayake said that the date of the upcoming presidential election will be decided by the end of this month.
-
-For the first time, the candidates must declare their election expenditure under the Election Expenditure Act of 2023.
-
-This time it will be fully implemented to improve the regulations, unused regulations in the last postponement election and to reduce the non -regime raising process.
-
-The election is expected to be held from September 16 to October 17 this year.
-
-The Chairman of the Election Commission, Ratnayake, the Government Principal, the Inspector General of Police, the Post Master General and other relevant parties have confirmed that the election is ready for the election.
-
-◼️
-
-[Data](articles/e8a2c036.json)
-
-[Extended Data](ext_articles/e8a2c036.ext.json)
 
 ---

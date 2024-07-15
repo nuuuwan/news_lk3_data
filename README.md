@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 21:20:12**
+As of **2024-07-15 21:35:29**
 
 ## Newspaper Stats
 
-*Scraped **35,405** Articles*
+*Scraped **35,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,084
 tamilmirrorlk | 4,273
 dailymirrorlk | 4,733
 virakesarilk | 5,514
-adaderanasinhalalk | 5,919
+adaderanasinhalalk | 5,920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,405 (100.0%) of 35,405 articles have been extended.
+35,405 (100.0%) of 35,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### අනුර පෙන්නපු ෆයිල් ගොඩක් ඒවා හිස් - ජනපති
+
+*2024-07-15 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198848) · `si`
+
+හොරු අල්ලන බව පවසමින් ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ලිපිගොනු පෙන්වා සිදුකර ඇත්තේ රැවටීමක් බවත් , ඒ බොහෝ ලිපිගොනු හිස් ඒවා බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+නීතිඥවරු පිරිසක් සමග ජනාධිපති කාර්යාලයේ පැවති හමුවකදී ජනාධිපතිවරයා ඒ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/5cdfaac2.json)
+
+---
 
 ### 2024 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் விவசாய ஏற்றுமதித் துறையில் தெளிவான வளர்ச்சி ஏற்பட்டுள்ளது - பி.எல்.ஏ.ஜே. தர்மகீர்த்தி
 
@@ -2363,23 +2377,5 @@ We have written the Department of Vidyalaya from me because we had letters.
 [Data](articles/503b878d.json)
 
 [Extended Data](ext_articles/503b878d.ext.json)
-
----
-
-### More than half of Rs. 100 million compensation already paid - Maithripala’s lawyers tell SC
-
-*2024-07-15 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100515/more-than-half-of-rs-100-million-compensation-already-paid-maithripalas-lawyers-tell-sc) · `en`
-
-Former President Maithripala Sirisena’s lawyers have informed the Supreme Court that Rs. 58 million of the compensation of Rs. 100 million imposed on the former President, for failure to prevent the Easter Sunday bomb attacks, has already been paid.
-
-Meanwhile, the former President has also requested the court through his lawyers to extend the payment period for the remaining sum by six years.
-
-On July 11, 2023, the former President completed paying Rs. 15 million as part of the compensation he was ordered to pay to the victims and filed a motion requesting that he be allowed to pay the remaining sum in 10 installments of Rs. 8.5 million from  30 June 2024 to 20 June 2033.
-
-...
-
-[Data](articles/8124030e.json)
-
-[Extended Data](ext_articles/8124030e.ext.json)
 
 ---

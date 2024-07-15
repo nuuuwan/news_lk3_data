@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 20:05:43**
+As of **2024-07-15 20:20:06**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,396 (100.0%) of 35,399 articles have been extended.
+35,399 (100.0%) of 35,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### ICC-யின் வருடாந்த பொதுக்கூட்டம் இலங்கையில்
+### ICC's annual public meeting in Sri Lanka
 
 *2024-07-15 19:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICC-யின்-வருடாந்த-பொதுக்கூட்டம்-இலங்கையில்/175-340449) · `ta`
 
-சர்வதேச கிரிக்கெட் பேரவையின் வருடாந்த பொதுக் கூட்டம் இந்த ஆண்டு இலங்கையில் நடைபெறவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+The International Cricket Council's (ICC) annual general meeting is set for July 19-22 in Sri Lanka, attracting over 220 delegates from 108 countries across continents like Africa, the Americas, Asia, East Asia Pacific, and Europe.
 
-இந்த பொதுக் கூட்டம் ஜூலை 19 முதல் 22 வரை நடைபெற உள்ளதாக இலங்கை கிரிக்கெட் சபை அறிவித்துள்ளது.
+🟩
 
-ஆப்பிரிக்கா, அமெரிக்கா, ஆசியா, கிழக்கு ஆசியா பசிபிக் மற்றும் ஐரோப்பா போன்ற பிராந்தியங்களை உள்ளடக்கிய உலகெங்கிலும் உள்ள 108 ஐசிசி உறுப்பு நாடுகளில் இருந்து 220 க்கும் மேற்பட்ட பிரதிநிதிகள் இந்த கிரிக்கெட் பொதுக்கூட்டத்தில் கலந்து கொள்ளவுள்ளர். R
+The Annual General Meeting of the International Cricket Council is expected to be held in Sri Lanka this year.
+
+The Sri Lanka Cricket Board has announced that the public meeting will be held from July 19 to 22.
+
+More than 220 representatives from 108 ICC member states around the world, including regions such as Africa, the United States, Asia, East Asia Pacific and Europe, will attend the cricket meeting.. Remble
 
 ◼️
 
 [Data](articles/47e1159a.json)
+
+[Extended Data](ext_articles/47e1159a.ext.json)
 
 ---
 
@@ -62,25 +68,33 @@ The procedure, also called female genital mutilation, includes the partial or fu
 
 [Data](articles/c09b7425.json)
 
+[Extended Data](ext_articles/c09b7425.ext.json)
+
 ---
 
-### කෘෂි අපනයනයේ වර්ධනයක්
+### Increase in agro exports
 
 *2024-07-15 19:01:13* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂි-අපනයනයේ-වර්ධනයක්/11-410797) · `si`
 
-ගතවූ වසර දෙකට සාපේක්ෂව 2024 වසරේ පළමු මාස හය තුළ කෘෂි අපනයන ක්ෂේත්‍රයේ පැහැදිලි වර්ධනයක් සිදු වූ බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් බී. එල්. ඒ. ජේ ධර්මකීර්ති මහතා පැවසීය.
+Agricultural exports saw significant growth in 2024, attributed to strategic measures to boost earnings despite challenging climatic conditions. Key crops like rice, cloves, and coriander experienced increased export revenues, while efforts were made to address issues like reduced tea production due to fertilizer shortages. Initiatives included a special fertilizer program and subsidies for tea cultivation, alongside projects aimed at boosting coconut and rubber exports. These efforts led to notable increases in export earnings, highlighting the sector's resilience and potential for growth.
 
-2022 වසරට සාපේක්ෂව 2023 වසරේ වාර්තා වූ කෘෂි අපනයන ආදායමේ අවාසි සහගත තත්ත්වය පාලනය කිරීමට ගත් කඩිනම් ක්‍රියාමාර්ග හේතුවෙන් මෙම ප්‍රගතිය ලබා ගත හැකි වූ බවද ඒ මහතා සඳහන් කළේය.
+🟩
 
-කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් බී. එල්. ඒ. ජේ ධර්මකීර්ති මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් අද (15 ) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Secretary to the Ministry of Agriculture and Plantation Industries B. B.. L. it. Jay Dharmakirthi said.
 
-පසුගිය කාල‍පරිච්ඡේදය තුළ පැවති කෘෂි කර්මාන්තයට අහිතකර දේශගුණික තත්ත්වයන් හමුවේ මෙවන් ප්‍රගතියක් ලබා ගැනීම ජයග්‍රහණයක් බවත් බවද ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+He said that this progress could be obtained due to the accelerated measures taken to control the disadvantaged by the agricultural export earnings of 2023 compared to 2022.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් බී. එල්. ඒ. ජේ ධර්මකීර්ති මහතා මෙසේද පැවසීය.
+කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් බී. L. it. He was speaking at a press conference held at the press conference held at the Presidential Media Center today (15) at the Presidential Media Center today (15) at the Presidential Media Center.
+
+He added that such progress is a victory in the promotion of agricultural conditions in the past period.
+
+Secretary, Ministry of Agriculture and Plantation Industries B. L. it. J Dharmakirti said,
 
 ...
 
 [Data](articles/a9209f1d.json)
+
+[Extended Data](ext_articles/a9209f1d.ext.json)
 
 ---
 

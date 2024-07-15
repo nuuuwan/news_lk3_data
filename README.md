@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 13:55:36**
+As of **2024-07-15 14:07:35**
 
 ## Newspaper Stats
 
-*Scraped **35,337** Articles*
+*Scraped **35,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,64 @@ economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,185
 adaderanalk | 4,071
-tamilmirrorlk | 4,261
+tamilmirrorlk | 4,262
 dailymirrorlk | 4,733
 virakesarilk | 5,504
-adaderanasinhalalk | 5,901
+adaderanasinhalalk | 5,903
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,334 (100.0%) of 35,337 articles have been extended.
+35,337 (100.0%) of 35,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### கனடாவில் வேலை தருவதாகக் கூறி பண மோசடி
+### ළමා සුරැකුම් මධ්‍යස්ථානයක සිටි ගැහැනු දරුවන් පිරිසක් පැන ගිහින්
 
-*2024-07-15 13:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-வேலை-தருவதாகக்-கூறி-பண-மோசடி/175-340439) · `ta`
+*2024-07-15 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198831) · `si`
+
+‍මත්තෙගොඩ පෞද්ගලික ළමා සුරැකුම් මධ්‍යස්ථානයක සිටි ගැහැනු ළමුන් 6 දෙනෙකු එම සුරැකුම් මධ්‍යස්ථානයෙන් පැනගොස් තිබේ.
+
+ඊයේ (14) රාත්‍රී එම ගැහැනු ළමුන් සුරැකුම් මධ්‍යස්ථානයෙන් පැනගොස් ඇති බව මත්තෙගොඩ පොලීසිය සඳහන් කළේය.
+
+වයස අවුරුදු 16 ත් 18ත් අතර වයසේ පසුවන ගැහැණු ළමුන් පිරිසක් මෙලෙස පැනගොස් ඇත.
+
+කෙසේවෙතත් ඔවුන් කුමන හේතුවක් මත පැනගොස් ඇත් ද යන්න අනාවරණය වී නොමැති අතර මත්තෙගොඩ පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/7f252904.json)
+
+---
+
+### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2024-07-15 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198830) · `si`
+
+තද සුළං සහ රළු මුහුද පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව මඟින් නිකුත් කර තිබේ.
+
+එහි වැඩිදුරටත් සඳහන්ව ඇත්තේ, කන්කසන්තුරය සිට මන්නාරම හරහා පුත්තලම දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ. කි. මී. 60-65 දක්වා වැඩි විය හැකි බවය.
+
+එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු විය හැකි බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ත්‍රිකුණාමලය සිට මුලතිව් හරහා කන්කසන්තුරය දක්වා සහ පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ. කි. මී. 50-55 දක්වා වැඩි විය හැකි අතර එම මුහුදු ප්‍රදේශ විටින් විට රළු විය හැකි බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී තිබේ.
+
+කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.0-2.5ක් පමණ ඉහළ යාමේ හැකියාවක් පවතී.
+
+මේ පිළිබඳ සිය අවධානය යොමු කරන ලෙස ධීවර හා නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/2665769d.json)
+
+---
+
+### கனடா ஆசைகூறி மோசடி
+
+*2024-07-15 13:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடா-ஆசைகூறி-மோசடி/175-340439) · `ta`
 
 கனடாவில் வேலை வாங்கித் தருவதாகக் கூறி பணத்தை மோசடி செய்த இருவரை இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் விசேட புலனாய்வுப் பிரிவின் அதிகாரிகள் கைது செய்துள்ளனர்.
 
@@ -48,7 +88,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+[Data](articles/02ad1547.json)
+
+---
+
+### Cash fraud claiming to work in Canada
+
+*2024-07-15 13:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-வேலை-தருவதாகக்-கூறி-பண-மோசடி/175-340439) · `ta`
+
+Sri Lanka's Foreign Employment Bureau arrested two individuals for alleged cash fraud in Canada. A complainant reported a Borella-based company received Rs 10 lakh but paid him less. The firm, lacking a valid permit, operated as an unauthorized foreign employment agency. Following the arrest of the owner and another suspect, they were released on bail of Rs 10 lakh.
+
+🟩
+
+Officials of the Sri Lanka Foreign Employment Bureau have arrested two persons for allegedly defrauding money in Canada.
+
+A person has lodged a complaint with the Bureau that a company operating in Borella area has received Rs 10 lakh, although he has received Rs.
+
+The company has revealed that the company was an illegal foreign employment agency conducted without a valid permit of the Sri Lanka Bureau.
+
+Subsequently, investigators have arrested another person, including the owner of the company.
+
+When the arrested suspects were presented in court, it was ordered to be released on bail of Rs 10 lakh.
+
+◼️
+
 [Data](articles/2fa0de91.json)
+
+[Extended Data](ext_articles/2fa0de91.ext.json)
 
 ---
 
@@ -76,23 +142,31 @@ Police have identified three suspects involved in the incident, while one of the
 
 ---
 
-### கர்ப்பிணியும் காதலனும் கணவனிடம் கப்பம் கேட்டு கரைச்சல்
+### Pregnant and boyfriend asking her husband
 
 *2024-07-15 13:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணியும்-காதலனும்-கணவனிடம்-கப்பம்-கேட்டு-கரைச்சல்/175-340437) · `ta`
 
-கர்ப்பிணியான மனைவியும் அவளுடைய காதலனும் கணவனிடம் சுமார் 5 மில்லியன் ரூபாவை கப்பமாகக் கேட்டு கரைச்சல் கொடுத்த சம்பவமொன்று கலவானை பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+A pregnant woman went missing, later found in Govindapuram. Her husband must pay 5 million rupees for her release. The couple, along with her boyfriend, were involved in a scandal involving a 31-year-old woman and a 21-year-old man. They were caught after the boyfriend moved her to Siyambalanduwa.
 
-கர்ப்பிணி பெண்ணொருவர் சில நாட்களுக்கு முன்னர் காணாமல் போயிருந்தார். அவரை கலவான பொலிஸ் பிரிவிலுள்ள கோவிந்தபுரத்தில் கடந்த சனிக்கிழமை (13) மாலை பொலிஸார் கண்டுப்பிடித்தனர்.
+🟩
 
-கர்ப்பிணியான அந்தப் பெண், மாதாந்த கிளினிக்குக்குச் செல்வதாகக் கூறிவிட்டு, 9ஆம் திகதி செவ்வாய்க்கிழமை வீட்டைவிட்டுச் சென்றிருந்தார். எனினும், அன்றையதினம்  தனது மனைவி, வீட்டுக்குத் திரும்பவில்லை என அவளுடைய கணவன், பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+A pregnant wife and her boyfriend have been asked to save about 5 million rupees to her husband.
 
-இந்நிலையில், அவளை விடுவிக்கவேண்டுமாயின் 5 மில்லியன் ரூபாய் பணத்தை கொடுக்கவேண்டுமென, இனந்தெரியாத தொலைபேசி அழைப்பொன்று, கணவனின் அலைபேசிக்கு வந்துள்ளது. அத்துடன், வட்ஸ்அப்க்கும் குறுந்தகவல் போடப்பட்டுள்ளது.
+A pregnant woman disappeared a few days ago. He was found by the police at Govindapuram in the mixed police division last Saturday evening.
 
-இதுதொடர்பில் பொலிஸாரின் கவனத்துக்கு அவளுடைய கணவன் கொண்டுவந்தார். அவற்றை கொண்டு விசாரணைகளை முன்னெடுத்த பொலிஸார் 31 வயதான பெண்ணையும் அவளுடைய காதலன் என அறியப்பட்ட 21 வயதான இளைஞனையும் கைது செய்தனர்.
+The pregnant woman left home on Tuesday 9th, claiming to go to the monthly clinic. However, her husband had lodged a complaint at the police station that his wife had not returned home that day.
+
+In this case, if she wants to release her, he has to pay 5 million rupees.. In addition, WhatsApp has been labeled.
+
+Her husband brought her to the attention of the police. With them, police arrested a 31 -year -old woman and a 21 -year -old youth known as her boyfriend.
+
+இணையத்தளத்தின் ஊடாக இன்றைக்கு 5 மாதங்களுக்கு முன்னர் தொடர்பில் இருந்த இவ்விருவரும்  பின்னர் காதலர்களாக மாறிவிட்டனர். The lover who came to the city of Siyambalanduwa fell into the trap of love. She took her to her home in the Vathegoda area.
 
 ...
 
 [Data](articles/53fd50a9.json)
+
+[Extended Data](ext_articles/53fd50a9.ext.json)
 
 ---
 
@@ -356,15 +430,21 @@ Opposition Leader Sajith Premadasa visited the Mannar office of Selvam Adakkalan
 
 ---
 
-### அடைக்கலநாதனை சந்தித்தார் சஜித்
+### Sajith met
 
 *2024-07-15 12:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடைக்கலநாதனை-சந்தித்தார்-சஜித்/175-340435) · `ta`
 
-தமிழீழ விடுதலை இயக்கத்தின் (டெலோ) தலைவரும், தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினருமான செல்வம் அடைக்கலநாதனின் மன்னார் அலுவலகத்திற்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச திங்கட்கிழமை (15) விஜயம் செய்து கலந்துரையாடினார்.
+Opposition Leader Sajith Premadasa met with LTTE leader Selvam Adakkalanathan in Mannar, highlighting efforts towards reconciliation and dialogue between conflicting parties.
+
+🟩
+
+Opposition Leader Sajith Premadasa visited the Mannar office of Selvam Adakkalanathan, the leader of the Liberation Tigers of Tamil Eelam (LTTE) and a Member of Parliament of the Tamil National Alliance (TNA).
 
 ◼️
 
 [Data](articles/5051b682.json)
+
+[Extended Data](ext_articles/5051b682.ext.json)
 
 ---
 
@@ -2109,85 +2189,5 @@ Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a for
 [Data](articles/8fe7922f.json)
 
 [Extended Data](ext_articles/8fe7922f.ext.json)
-
----
-
-### Dengue raises up again
-
-*2024-07-14 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198809) · `si`
-
-Dengue cases surged, with over 30,000 reports nationwide, led by Colombo with 6,965 cases. Other high counts were in Gampaha (3,126) and Kandy (2,441). 21 areas are now dengue hotspots.
-
-🟩
-
-More than 30,000 dengue patients have been reported this year, says the National Dengue Control Unit.
-
-Tround 30,227 dengue patients were reported island wide during the past year.
-
-The highest number of patients have been reported from the Colombo District, which is 6,965.
-
-3,126 patients have been reported from the Gampaha district and 2,441 patients have been reported from the Kandy district and 2,441 patients have been reported from the Kandy district.
-
-21 health medical officers of the Health Medical Officer of Health is identified as dengue high risk zones.
-
-◼️
-
-[Data](articles/19b88289.json)
-
-[Extended Data](ext_articles/19b88289.ext.json)
-
----
-
-### Firing on Trump;The danger to Sajith?
-
-*2024-07-14 22:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்ப்-மீது-துப்பாக்கிச்சூடு-சஜித்துக்கும்-ஆபத்து/175-340397) · `ta`
-
-Eran Wickramaratne urges the government to enhance Sajith Premadasa's security due to skepticism from certain groups aiming to postpone elections. He condemns the attempted assassination of former US President Trump as an assault on democracy, highlighting previous attacks on candidates. Wickramaratne emphasizes the importance of maintaining political stability through public mandates and elections in Sri Lanka's democratic system.
-
-🟩
-
-United People's Power MP Eran Wickramaratne has appealed to the government to take steps to increase the security of Sajith Premadasa, the leader of the United People's Power and Opposition Leader.
-
-He said that some forces are skeptical about the security of the opposition leader as it is trying to delay the election.
-
-He condemns the attempt to kill the former US president as an attack on democracy.
-
-Eran Wickremaratne, who has appealed for politicians to avoid engaging in such activities, said that when they cannot fulfill their agenda in Sri Lanka, some parties are engaged in such activities.
-
-He said they have been attacking candidates in the past.
-
-Eran Wickremaratne said that when I heard the news of Trump's shooting, I should focus on Sajith Premadasa's security.
-
-...
-
-[Data](articles/ceb8aaa6.json)
-
-[Extended Data](ext_articles/ceb8aaa6.ext.json)
-
----
-
-### Transport services are essential services
-
-*2024-07-14 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198808) · `si`
-
-President Ranil Wickremesinghe has declared public transport and related services like road, bridge, culvert, and railway maintenance as essential services through a gazette notification. This move aims to ensure continuous operation during critical times, facilitating smooth traffic flow.
-
-🟩
-
-President Ranil Wickremesinghe has once again issued a gazette notification by President Ranil Wickremesinghe.
-
-It is reported that the gazette notification has been issued by the President Saman Ekanayake on the advice of the President yesterday (13).
-
-Accordingly, public transport services for passengers or cargoes have been declared essential services.
-
-In addition, the relevant services are essential to facilitating and maintaining and maintaining and maintaining and maintaining traffic services, including roads, bridges, culverts and railways.
-
-On February 13, these services were also published by President Ranil Wickremesinghe as essential services.
-
-◼️
-
-[Data](articles/be456841.json)
-
-[Extended Data](ext_articles/be456841.ext.json)
 
 ---

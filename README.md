@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 22:08:53**
+As of **2024-07-15 22:20:19**
 
 ## Newspaper Stats
 
-*Scraped **35,410** Articles*
+*Scraped **35,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,004
 economynextcom | 2,100
 dailyftlk | 2,231
 adalk | 3,192
-adaderanalk | 4,085
-tamilmirrorlk | 4,273
+adaderanalk | 4,086
+tamilmirrorlk | 4,275
 dailymirrorlk | 4,733
 virakesarilk | 5,516
 adaderanasinhalalk | 5,921
@@ -26,23 +26,69 @@ adaderanasinhalalk | 5,921
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,406 (100.0%) of 35,410 articles have been extended.
+35,410 (100.0%) of 35,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### වර්ජනය නොකර වැඩට ආ රජයේ සේවකයින් ට රු. 10,000ක්
+### Sri Lanka settles USD 60 million Iranian oil debt with tea
+
+*2024-07-15 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100539/sri-lanka-settles-usd-60-million-iranian-oil-debt-with-tea) · `en`
+
+Sri Lanka Tea Board has announced that USD 60 million of the USD 251 million owed by Sri Lanka to Iran for fuel imports since 2011 has been paid through tea exports. This initiative follows a strategic agreement signed between the Sri Lankan and Iranian governments to use tea exports as a method of settling the debt, the Ministry of Agriculture and Plantation Industries said in a statement.
+
+The payments arrears for fuel imports were accumulated over several years due to various economic challenges including the COVID-19 pandemic’s severe impact on the economy, European sanctions imposed since 2011, the collapse of the tourism industry following the Easter attacks, and the overall economic downturn, which led to a shortage of dollars hindering the payment process, the statement added.
+
+...
+
+[Data](articles/b7d64ad2.json)
+
+---
+
+### போராட்டத்தில் கலந்துகொள்ளாத அரச ஊழியர்களுக்கு மகிழ்ச்சியான செய்தி
+
+*2024-07-15 22:02:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டத்தில்-கலந்துகொள்ளாத-அரச-ஊழியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-340452) · `ta`
+
+சமீபத்திய வேலைநிறுத்தத்தின் போது பணிக்கு சமூகமளித்த நிர்வாக தர மட்டத்திற்கு கீழ் உள்ள அனைத்து அரசு ஊழியர்களுக்கும் 10,000 ரூபாய் ஒருமுறை கொடுப்பனவை வழங்குவதற்கு ஜனாதிபதியினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது
+
+◼️
+
+[Data](articles/f1a250bd.json)
+
+---
+
+### உடன் அமுலாகும் வகையில் விலை குறைப்பு
+
+*2024-07-15 21:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்-அமுலாகும்-வகையில்-விலை-குறைப்பு/175-340451) · `ta`
+
+மின்சார கட்டணம் குறைக்கப்படும் நிலையில், உடன் அமுலாகும் வகையில் உணவுப் பொருட்கள் சிலவற்றின் விலைகளும் குறைக்கப்பட்டுள்ளதாக சிற்றுண்டிச்சாலைகள் மற்றும் விருந்தக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+பராட்டா, முட்டை ரொட்டி மற்றும் சிற்றுண்டிகள் என்பன 10 ரூபாவினால் குறைக்கப்பட்டுள்ளன. R
+
+◼️
+
+[Data](articles/370b5685.json)
+
+---
+
+### The government employees who have committed not boycott Rs. 10,000
 
 *2024-07-15 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198849) · `si`
 
-පසුගිය දිනවල දියත්කළ වැඩවර්ජනයට එක් නොවී සේවයට වාර්තා කළ විධායක ශ්‍රේණියට පහළ රාජ්‍ය සේවකයන්ට දීමනාවක් ලබාදීමට රජය තීරණය කර තිබේ.
+The government will grant a one-time allowance of Rs. 10,000 to certain public servants, including those in the executive grade, as part of a proposal approved by the President.
 
-ඒ අනුව එම සේවකයින් සඳහා එක්වර රු. 10,000ක දීමනාවක් සහ සහතිකයක් ලබාදීමට ජනපති ගෙන ආ යෝජනාවට කැබිනට් අනුමැතිය හිමිවිය.
+🟩
+
+The Government has decided to provide a allowance to the lower public servants to the executive grade that was not united recently.
+
+Accordingly, at once for those employees. The proposal to be brought to the President's proposal was approved by the President to provide a 10,000 allowance and certificate.
 
 ◼️
 
 [Data](articles/f78db835.json)
+
+[Extended Data](ext_articles/f78db835.ext.json)
 
 ---
 
@@ -57,6 +103,8 @@ According to the proposal which was presented by President Ranil Wickremesinghe,
 ◼️
 
 [Data](articles/a62e0cc3.json)
+
+[Extended Data](ext_articles/a62e0cc3.ext.json)
 
 ---
 
@@ -80,39 +128,53 @@ In a meeting with legal experts, the President criticized a national movement le
 
 ---
 
-### முச்சக்கர வண்டி கட்டணம் குறைப்பு - இலங்கை முச்சக்கர வண்டி சாரதிகள் சங்கம்
+### Three -wheeler fare reduction - Sri Lanka
 
 *2024-07-15 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188554) · `ta`
 
-மேல் மாகாணத்தில் திங்கட்கிழமை (15) நள்ளிரவு முதல் முச்சக்கர வண்டிகளுக்கான கட்டணங்களில் திருத்தம் மேற்கொள்ளப்படவுள்ளதாக அகில இலங்கை முச்சக்கர வண்டி சாரதிகள் சங்கம் தெரிவித்துள்ளது.
+In Sri Lanka, the All Ceylon Three-Wheeler Drivers Association plans to reduce fares starting midnight Monday (15) in the Western Province. The first kilometer will cost 100 rupees, and the second kilometer, 90 rupees.
 
-முதலாவது கிலோமீட்டருக்கான கட்டணம் 100 ரூபாவும் இரண்டாவது கிலோமீட்டருக்காக அறவிடப்படும் கட்டணத்தில் 10 ரூபாவினால் குறைக்கப்படும் என அதன் தலைவர் லலித் தர்மசேகர தெரிவித்துள்ளார்.
+🟩
 
-அதற்கமைய, மேல் மாகாணத்திற்குள் முதலாவது கிலோமீட்டருக்கான கட்டணம் 100 ரூபா எனவும் இரண்டாவது கிலோமீட்டர் முதல் 90 ரூபா அறவிடப்படும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+The All Ceylon Three -wheeler Drivers Association has announced that the amendment will be made in the Western Province from midnight on Monday (15).
+
+The first kilometer fee will be reduced by Rs.
+
+Accordingly, the first kilometer fee within the Western Province will be charged 100 rupees and the second kilometer to 90 rupees will be charged.
 
 ◼️
 
 [Data](articles/850409f6.json)
 
+[Extended Data](ext_articles/850409f6.ext.json)
+
 ---
 
-### நிறைவிற்குக் கொண்டுவரப்பட்ட கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வு பணி ; இதுவரை 52 மனித எச்சங்கள் அகழ்வு!
+### Human burial excavation work brought to the concluded hook;Excavation of 52 human remains so far!
 
 *2024-07-15 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188553) · `ta`
 
-முல்லைத்தீவு கொக்குத்தொடுவாய் மனிதப்புதைகுழியின் மூன்றாம் கட்ட அகழ்வின், பத்தாம் நாள் அகழ்வாய்வு செயற்பாடுகள் திங்கட்கிழமை (15.07.2024) தொடர்ச்சியாக முன்னெடுக்கப்பட்டிருந்தது.
+On the 10th day of the third phase of the Mullaitivu Kokkuttuwai human burial ground excavation, 52 human remains were discovered, bringing the total to 92. This includes five fully excavated bodies and the recovery of a firearm and an opening core. The operation, overseen by a team including legal and archaeological experts, continues with future court proceedings planned.
 
-முல்லைத்தீவு கொக்குத்தொடுவாய் மனித புதைகுழியின் மூன்றாம் கட்ட அகழ்வாராய்ச்சியின் 10ஆவது நாளான இன்று ஐந்து மனித எச்சங்கள் முழுமையாக வெளியே அகழ்ந்து எடுக்கப்பட்டுள்ளதுடன் துப்பாக்கி சன்னம், திறப்பு கோர்வை ஒன்றும் மீட்கப்பட்டுள்ளது.
+🟩
 
-இரண்டு கட்டங்களிலும் அகழ்ந்தெடுக்கப்பட்ட 40 மனித எச்சங்களுக்கு மேலதிகமாக மூன்றாம் கட்ட அகழ்வு பணியின் போது இன்றுடன் 52 மனித எச்சங்கள் அடையாளம் காணப்பட்டு அகழ்ந்தெடுக்கப்பட்டுள்ளது.
+The 10th day excavation operations of the Mullaitivu Kokkuttuwai Human Purchase were continuously carried out on Monday (15.07.2024).
 
-முல்லைத்தீவு நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில், தொல்லியல் பேராசிரியர் ராஜ் சோமதேவ உள்ளிட்ட குழுவினர் , முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி க.வாசுதேவ, தடயவியல் பொலிசார், சட்டத்தரணி வி.கே.நிரஞ்சன், கிராம சேவையாளர் உள்ளிட்ட தரப்பினரின் பங்குபற்றுதல்களுடன் பத்தாம் நாள் அகழ்வாய்வுகள் இடம்பெற்றிருந்தன.
+On the 10th day of the third phase of the Mullaitivu Kokkuttuwai human burial ground, five human remains have been completely excavated and a gunman and an opening core has been recovered.
 
-இது தொடர்பாக விஷேட சட்ட வைத்திய நிபுணர் கனகசபாபதி வாசுதேவ கருத்து தெரிவிக்கும் பாேது,
+In addition to the 40 human remains excavated in both stages, 52 human remains have been identified and excavated today during the third phase excavation work.
+
+In the presence of Mullaitivu Court Judge Dharmalingam Pradeepan, the team including Archaeological Professor Raj Somadeva, Mullaitivu District Legal Medical Officer K Vasudeva, Forensic Police, Attorney VK Niranjan and Grama Niladhari were present.
+
+Special Legal Specialist Kanagasabapathi Vasudeva
+
+The third phase of the Kokkuttuwai Human Rights excavation was held today (15) as the tenth day.. Today, the bone blocks in the human burial ground have been completely recovered.
 
 ...
 
 [Data](articles/a01ed75a.json)
+
+[Extended Data](ext_articles/a01ed75a.ext.json)
 
 ---
 
@@ -2261,83 +2323,5 @@ Twenty two murders have been reported that the ten70,000 murder of the Twenty th
 [Data](articles/01cc7d10.json)
 
 [Extended Data](ext_articles/01cc7d10.ext.json)
-
----
-
-### Drowning
-
-*2024-07-15 11:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-இருவர்-உயிரிழப்பு/175-340426) · `ta`
-
-In Chilaw, two men drowned; one survived hospitalization. In Katugastota, a man's body was found. Investigations ongoing.
-
-🟩
-
-A man who was drowned in the Theduru Oya, which belongs to the Chilaw Police Division, has died after drowning.
-
-Police said that two men were drowned yesterday evening (14) and the other person died after being admitted to the Chilaw Hospital.
-
-The deceased young man was drowned when he was drowned in the Theduru Oya with his wife and three others, police said.
-
-Meanwhile, the body of a man has been recovered last night (14) at the Madawala road in Katugastota.
-
-The body is being kept at the Kandy Hospital and further investigations into the incident are being carried out by the Katugastota police.
-
-◼️
-
-[Data](articles/673c6865.json)
-
-[Extended Data](ext_articles/673c6865.ext.json)
-
----
-
-### Drowning
-
-*2024-07-15 11:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-ஒருவர்-உயிரிழப்பு/175-340426) · `ta`
-
-In Chilaw, a man drowned in the Thethuru Oya; two were rescued but one died in hospital. Another man's body was found in the Mahaweli Ganga near Katugastota, under investigation.
-
-🟩
-
-A man who was drowned in the Thethuru Oya, which belongs to the Chilaw Police Division, has been drowned.
-
-Police said that two men were rescued after drowned yesterday evening (14) and the other person died after being admitted to the Chilaw Hospital.
-
-The deceased young man was drowned when he was drowned in the Theduru Oya with his wife and three others, police said.
-
-Meanwhile, the body of a man from the Mahaweli Ganga has been recovered last night (14) at Madawala Road, Katugastota.
-
-The body is being kept at the Kandy Hospital and further investigations into the incident are being carried out by the Katugastota police.
-
-◼️
-
-[Data](articles/d43cd9fa.json)
-
-[Extended Data](ext_articles/d43cd9fa.ext.json)
-
----
-
-### Aruchuna again at Chavakachcheri Hospital;Anxiety in front of the hospital
-
-*2024-07-15 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188477) · `ta`
-
-Aruchuna Ramanathan, ex-Superintendent of Chavakachcheri Hospital, returned amidst protests over her transfer. The Health Ministry's decision was contested by the Northern Province Health Director, leading to public demonstrations. Despite initial resistance, Ramanathan eventually resumed her duties, while Dr. K. Rajeev took over as the new Medical Superintendent. Police ensured safety amid the tense atmosphere.
-
-🟩
-
-Former Superintendent of Chavakachcheri Resource Hospital in Jaffna, Aruchuna Ramanathan has once again visited the Chavakachcheri Hospital.
-
-In response to the Chavakachcheri Hospital, Ramanathan Archana, who was serving as the Medical Superintendent of the Hospital, said that the Health Ministry of Health, who ordered the transfer of Archana from the Chavakachcheri Hospital last night, said that the Northern Province Health Director Saman Pathirana did not accept it.
-
-The protest, which began on the night of the night in front of the hospital in front of the hospital in protest of the effort to relocate the doctor, was launched till the day of the day with the participation of more people.
-
-On the 08th, the doctor, who left the hospital with noon after a long tug -up, went back to the hospital, saying that he would go back to the holidays.
-
-The next day, by the Northern Provincial Health Department, Dr. K.. Rajeev has been appointed as the new answer and is in charge.
-
-...
-
-[Data](articles/964b1c66.json)
-
-[Extended Data](ext_articles/964b1c66.ext.json)
 
 ---

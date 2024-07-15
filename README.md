@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 14:54:29**
+As of **2024-07-15 15:05:18**
 
 ## Newspaper Stats
 
-*Scraped **35,343** Articles*
+*Scraped **35,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,071
 tamilmirrorlk | 4,264
 dailymirrorlk | 4,733
 virakesarilk | 5,504
-adaderanasinhalalk | 5,904
+adaderanasinhalalk | 5,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,343 (100.0%) of 35,343 articles have been extended.
+35,343 (100.0%) of 35,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### ජනාධිපතිවරණයට එරෙහි පෙත්සම නිෂ්ප්‍රභ කෙරේ
+
+*2024-07-15 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198833) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත්ව සම්මත කර නොමැති නිසා එය ජනමත විචාරණයකින් අනුමත වන තුරු ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙනම නිෂ්ප්‍රභ කරන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+
+එම පෙත්සම රුපියල් ලක්ෂ 05 ක නඩු ගාස්තුවට යටත්ව නිෂ්ප්‍රභ කළ බව අප අධිකරණ වාර්තාකරු පැවසීය.
+
+එම නඩු ගාස්තු ජුලි මස 31 වනදාට පෙර ගෙවිය යුතු බවත් නියෝග කෙරුණි.
+
+අග විනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/39b033cc.json)
+
+---
 
 ### නායකයෝ...
 
@@ -2211,21 +2229,5 @@ In Sri Lanka even those who get ample physical exercise from their hard labour d
 [Data](articles/f38697a6.json)
 
 [Extended Data](ext_articles/f38697a6.ext.json)
-
----
-
-### Child’s guide to debt and debt restructuring – Part II
-
-*2024-07-15 00:19:46* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-debt-and-debt-restructuring-Part-II/4-764243) · `en`
-
-The longer the Bank keeps mum on the sources of funds for awarding the high interest rate in 2023, the higher the speculation that there was some accounting window dressing
-
-Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a former official of the Ministry of Finance, have been in very intense interactive discussion of the debt and debt restructuring problem of Sri Lanka. In the previous episode, available at: https://www.ft.lk/columns/A-child-s-guide-to-debt-and-restructuring-Country-driven-to-economic-collapse-has-not-many-options-Part-I/4-763940, they discussed why only bilateral and commercial borrowings of Sri Lanka have been earmarked for restructuring when the country’s total foreign debt had been a massive amount.
-
-...
-
-[Data](articles/70001dc2.json)
-
-[Extended Data](ext_articles/70001dc2.ext.json)
 
 ---

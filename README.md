@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 10:07:40**
+As of **2024-07-15 10:20:15**
 
 ## Newspaper Stats
 
-*Scraped **35,288** Articles*
+*Scraped **35,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,060
 tamilmirrorlk | 4,250
 dailymirrorlk | 4,733
 virakesarilk | 5,502
-adaderanasinhalalk | 5,888
+adaderanasinhalalk | 5,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,284 (100.0%) of 35,288 articles have been extended.
+35,288 (100.0%) of 35,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### පුද්ගලයෙක් ව ඝාතනය කර කැබ් රථයක දමා ගිනි තියලා
+
+*2024-07-15 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198817) · `si`
+
+උප්පුවේලි ප්‍රදේශයේදී පුද්ගලයෙකුව ඝාතනය කර කැබ් රථයක් තුළට දමා පුළුස්සා ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (13) උප්පුවේලි පොලීසියට ලද තොරතුරක් මත සිදුකළ විමර්ශනයක දී හෙළිවී ඇත්තේ පුද්ගලික ආරවුලක් මත ඊයේ අළුයම් කාලයේ දී මෙම ඝාතනය සිදුකර ඇති බවය.
+
+අපරාධයට සම්බන්ධ සැකකරුවන් තිදෙනෙකු හඳුනාගෙන ඇති අතර ඉන් අවුරුදු 24ක් වයසැති කුච්චවේලි ප්‍රදේශයේ පදිංචිව සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඝාතනයට ලක් වූ පුද්ගලයා නිලාවේලී පාර ඇලස්වත්ත පාර, ඇලස්වත්ත ප්‍රදේශයේ වෙළෙඳසැලක් පවත්වාගෙන ගොස් ඇත.
+
+මෙම පුද්ගලයා තවත් දෙදෙනෙකු සමඟ වෙළෙඳසැල තුළ සිටිය දී සැකකරුවන් යතුරුපැදියකින් පැමිණ මෙම පුද්ගලයාට පහරදී ඔහුව ඔහුගේම කැබ් රථය ද සමඟ පැහැරගෙන ගොස් තිබේ.
+
+පසුව ඔහුව ඝාතනය කර දේහය මොරවැව ප්‍රදේශයේ කැලෑබද ස්ථානයකට ගෙන ගොස් කැබ් රථයට තුළ ට දමා පුළුස්සා තිබේ.
+
+ඝාතනයට යොදා ගත් බවට සැකකරන පොල්ලක් සොයාගෙන ඇති අතර උප්පුවේලි පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/b72f7bd4.json)
+
+---
 
 ### CJ-led bench to consider FR petition filed over Presidential Election today
 
@@ -49,6 +73,8 @@ The Election Commission and its members, the General Secretary of Parliament and
 ...
 
 [Data](articles/e75f5025.json)
+
+[Extended Data](ext_articles/e75f5025.ext.json)
 
 ---
 
@@ -72,23 +98,29 @@ The President made these remarks at the “Urumaya” freehold land deeds award 
 
 ---
 
-### රෝහලෙන් දුන් ඖෂධ ගත් ළමුන් පිරිසකට ආසාත්මිකතාව
+### Allergic to children who have taken from the hospital
 
 *2024-07-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198816) · `si`
 
-මිහින්තලය රෝහලෙන් නිකුත්කළ ඖෂධ ලබාගත් ළමුන් කිහිපදෙනෙක් ආසාත්මිකතාවය ඇතිවීම හේතුවෙන් රෝහල්ගත කර ඇති බව වාර්තා වෙයි.
+Several children recently discharged from Mihintale hospital were readmitted due to allergies, possibly triggered by medication side effects. A group of children experienced adverse reactions after taking certain drugs, leading to nine admissions aged 6 to 12. These cases were then transferred to Anuradhapura Teaching Hospital for specialized care.
 
-අප වාර්තාකරු පවසන්නේ සෙම්ප්‍රතික්ශාව සහ සෙම සඳහා ඖෂධ ලබාගත් ළමුන් පිරිසකට එසේ ආසාත්මිකතාවය ඇති වී ඇති බවයි.
+🟩
 
-මිහින්තලේ රෝහලින් අවශ්‍ය බෙහෙත් ලබාගෙන එම ඖෂධ දරුවන්ට දුන් පසු එම දරුවන්ගේ කටවල් ඇදවී, දිව එළියට ඇවිත් බෙල්ල කඩා වැටී තිබූ බව සඳහන් ය.
+Mihintale Several children who have been released from the hospital have been hospitalized due to allergy.
 
-එලෙස රෝගීවූ දරුවන් 9 දෙනෙක් මිහින්තලේ රෝහලට ඇතුළත් කර පසුව වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර ශික්ෂණ රෝහලට යවා ඇත.
+Our correspondent states that a group of children who acquired drugs and their expenses have been raised.
 
-වයස අවුරුදු 6 සිට 12 දක්වා දරුවන්ට මෙම ආසාත්මික තත්ත්වය ඇතිවී තිබුණි.
+The children came out and got out of the tongue after the children of the Mihintale had taken their children with their children.
+
+Nine sick children were admitted to the Mihintale Hospital and later sent to Anuradhapura Teaching Hospital for further treatment.
+
+Children were 6 to 12 years old.
 
 ◼️
 
 [Data](articles/65b30afe.json)
+
+[Extended Data](ext_articles/65b30afe.ext.json)
 
 ---
 
@@ -462,21 +494,27 @@ From time to time in the rest of the island.. (30-40) can cause strong winds.
 
 ---
 
-### දරුවන්ගේ දෑස් පාදන දෑස් නොපෙනෙන ගුරුතුමිය
+### The eyes of the eyes of their children are invisible
 
 *2024-07-15 03:49:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c729vw5lzp8o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ආබාධ තිබුණා කියලා අපි සැඟවිලා ඉන්න අවශ්‍ය නෑ.''
+A teacher from the Government Roman Catholic College in Mannar, Sri Lanka, shares her journey of advocating for children's vision health since childhood. She emphasizes the importance of addressing visual impairments early and encourages parents and religious leaders to support children despite any disabilities.
 
-පූර්ණ දෘෂ්‍යාබාධිත තත්ත්වයේ පසු වන සෙබමාලෙයි බෙනඩික්ටා  මන්නාරම ආන්ඩාන්කුලම රජයේ රෝමානු කතෝලික විද්‍යාලයේ ගුරුවරියක් වන්නීය.
+🟩
 
-වයස අවුරුදු අටේ දී දෑස් පෙනීම අහිමු වූ ඇය දරුවන්ගේ දෑස් පෑදීමට වෙහෙස වන්නීය.
+It contains nothing here.Video height, "We have no need to hide that there was disorders."
 
-''ක්‍රීඩාවේ දී කකුල් දෙකම නැති අය ඔලිම්පික් පවා යන ඉතිහාසයක් තියෙනවා. ඒ හින්දා ආබාධ තත්ත්වයන්, අඩුපාඩු ලෙස ගැනීම අවශ්‍ය වෙන්නේ නෑ. දරුවන්ගේ මොන අඩුපාඩු තිබුණත් දෙමාපියන් දරුවාට අධ්‍යාපනය දීලා නව ඇසක් ලබාදීම කියන දේ කරන්න ඕනේ. ඒ වෙනුවෙන් දෙමාපියන්, ඥාතීන් ආගමික නායකයින් එකතුවෙලා කටයුතු කරන්න කියලා මම ආදරයෙන් ඉල්ලා සිටිනවා.'' යනුවෙන් ඇය BBC සිංහල වෙත පැවසුවාය.
+The first visual impairment is a teacher of the Government Roman Catholic College, Mannar in Pannaruwa, Mannar in Mannar.
+
+When she was eight years old, he was working hard to acquire the children's eyes.
+
+'' There is a history that has no legs in the game even the Olympics. Therefore, it is not necessary to take the disability and shortcomings. Despite their shortcomings, parents must study the child and give a new eye. I hope to deal with religious leaders to join the religious leaders. "
 
 ◼️
 
 [Data](articles/954b914d.json)
+
+[Extended Data](ext_articles/954b914d.ext.json)
 
 ---
 
@@ -664,21 +702,29 @@ The Chairman of the Election Commission, Ratnayake, the Government Principal, th
 
 ---
 
-### தமிழரசுக் கட்சி உயிர்போடு இருக்கிறது
+### The TNA is alive
 
 *2024-07-15 01:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தமிழரசுக்-கட்சி-உயிர்போடு-இருக்கிறது/150-340403) · `ta`
 
-இலங்கை தமிழரசுக் கட்சி உயிர்போடு இருப்பதுடன் ஓர் ஆக்கபூர்வமான பிரதிநிதிகளுடன் தொடர்ந்தும் பயணிக்கிறது. எதிர்வரும் எந்த தேர்தலிலும் கட்சி போட்டியிடும். மக்களுக்கான தனது செயற்பாட்டை தொடர்ந்தும் முன்னெடுக்கும் என்று தெரிவித்துள்ள   பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன்  தேர்தலை பிற்போட அரசாங்கம் சதி செய்கிறது என்றார்.
+The Sri Lanka Tamil National Party remains active, preparing for elections and addressing legal challenges. Despite government attempts to delay polls, the party is committed to participation. Key decisions regarding legal cases and party operations will be made by the Central Executive Committee post-discussions with lawyers. The party's ability to function without interference was affirmed, ensuring its continued advocacy for the community.
 
-வவுனியாவில், ஞாயிற்றுக்கிழமை (14)   இடம்பெற்ற தமிழரசுக் கட்சியின் அரசியல் குழு கூட்டத்தின் பின் இடம்பெற்ற ஊடகவியாளர்  சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழரசுக் கட்சியின் அரசியல் குழுவும், கட்சி சம்மந்தமான வழக்கில் சம்மந்தப்பட்ட தரப்பினரும் ஒன்றாக கூடி அடுத்த தவணை 19 ஆம் திகதி வழக்கு வரவிருக்கின்ற காரணத்தினால் அது குறித்து உரையாடப்பட்டது.
+The Sri Lanka Tamil National Party is alive and continues to travel with a constructive representative. The party will contest any election in any election. Parliamentarian MA Sumanthiran said the government was conspiring to postpone the election.
 
-நாங்கள் ஒவ்வொருவரும் தங்களது நிலைப்பாட்டுக்கு அமைய  மறுமொழிகளை தாக்கல் செய்த பிறகு வழக்கை முடிவுறுத்துவதற்கான ஒரு யோசனை அனைவராலும் ஏற்றுக் கொள்ளப்பட்டிருக்கிறது.
+He was speaking at a media briefing held in Vavuniya on Sunday (14).
+
+The political committee of the Tamil National Alliance (TNA) and the party involved in the party's involvement were addressed as the next installment was coming up on the 19th.
+
+An idea of ​​the conclusion of the case has been accepted by everyone after each of us films the responses in their position.
+
+The details of that idea we will meet with the Central Executive Committee. But usually the case is complied with on which basis to conclude. Progressive Operations featured in discussion. 8 opponents will call on the 19th case. Jeevarajah, who lasts the intermittent petition, is also on the 19th of this month.
 
 ...
 
 [Data](articles/34f6237e.json)
+
+[Extended Data](ext_articles/34f6237e.ext.json)
 
 ---
 
@@ -2149,29 +2195,5 @@ When "the country's economic conditions are special, good or good," 28% of peopl
 [Data](articles/7868c19a.json)
 
 [Extended Data](ext_articles/7868c19a.ext.json)
-
----
-
-### Gardens Gunawala Sunil and Peace Judges were appointed
-
-*2024-07-14 14:06:35* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-නායක-ගෝනවල-සුනිල්ටත්-සාම-විනිසුරු-පත්වීම්-ලබාදී-තිබුණ/11-410776) · `si`
-
-Minister Wijayadasa Rajapaksa called for a separate education unit for pre-schools to boost early childhood development, criticizing current educational methods. He mentioned the appointment of underworld leader Sunil Gunawala as a peace judge due to past peace requests, stating that such appointments are now based on merit. Rajapaksa emphasized the need for a change in the education system, highlighting the potential for children to learn more in less time compared to other developing countries. He also addressed the issue of youths leaving the country for lack of suitable jobs and proposed increasing allowances for pre-school teachers to Rs. 25,000 per month.
-
-🟩
-
-Minister Wijayadasa Rajapaksa said that the pre-school teachers should establish a separate education unit to improve early childhood development.
-
-He also said that the Peace Requests of the past had been given the appointments of the past and the Gonawala Sunil, an underworld leader, had been given the peace judges.
-
-Mr. Wijeyadasa Rajapaksa made these comments participating at a function held at the Devram Vehera Hall in the Pannipitiya Wehera Hall.
-
-"The existing education system should change. The educational methods of this country are only educated. The intellectuals must be born instead of educators. The person who is educated has intelligently. A separate department or section should be established for pre-schools.
-
-...
-
-[Data](articles/7b26d3f1.json)
-
-[Extended Data](ext_articles/7b26d3f1.ext.json)
 
 ---

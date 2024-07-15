@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 09:55:14**
+As of **2024-07-15 10:07:40**
 
 ## Newspaper Stats
 
-*Scraped **35,284** Articles*
+*Scraped **35,288** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 314
 colombotelegraphcom | 333
-bbccomsinhala | 341
+bbccomsinhala | 342
 newsfirstlk | 363
 islandlk | 2,002
 economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,181
-adaderanalk | 4,059
-tamilmirrorlk | 4,249
+adaderanalk | 4,060
+tamilmirrorlk | 4,250
 dailymirrorlk | 4,733
 virakesarilk | 5,502
-adaderanasinhalalk | 5,887
+adaderanasinhalalk | 5,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,283 (100.0%) of 35,284 articles have been extended.
+35,284 (100.0%) of 35,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### CJ-led bench to consider FR petition filed over Presidential Election today
+
+*2024-07-15 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100512/cj-led-bench-to-consider-fr-petition-filed-over-presidential-election-today) · `en`
+
+The Fundamental Rights (FR) petition filed seeking an order to prevent holding of the Presidential Election, as the 19th Amendment to the Constitution has not been properly passed in Parliament, is scheduled to be taken up for consideration today (15).
+
+Accordingly, the petition filed by Attorney-at-Law Aruna Laksiri, is slated to be taken up for consideration before a bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekara and Priyantha Fernando.
+
+The relevant petition has been fixed for consideration before the aforementioned judge panel today (15).
+
+The petitioner argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage.
+
+The Election Commission and its members, the General Secretary of Parliament and the Attorney General have been named as respondents.
+
+...
+
+[Data](articles/e75f5025.json)
+
+---
 
 ### Sri Lanka’s economic recovery underscores power of working together for the greater good – President
 
@@ -47,6 +67,28 @@ The President made these remarks at the “Urumaya” freehold land deeds award 
 ...
 
 [Data](articles/750dc1d4.json)
+
+[Extended Data](ext_articles/750dc1d4.ext.json)
+
+---
+
+### රෝහලෙන් දුන් ඖෂධ ගත් ළමුන් පිරිසකට ආසාත්මිකතාව
+
+*2024-07-15 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198816) · `si`
+
+මිහින්තලය රෝහලෙන් නිකුත්කළ ඖෂධ ලබාගත් ළමුන් කිහිපදෙනෙක් ආසාත්මිකතාවය ඇතිවීම හේතුවෙන් රෝහල්ගත කර ඇති බව වාර්තා වෙයි.
+
+අප වාර්තාකරු පවසන්නේ සෙම්ප්‍රතික්ශාව සහ සෙම සඳහා ඖෂධ ලබාගත් ළමුන් පිරිසකට එසේ ආසාත්මිකතාවය ඇති වී ඇති බවයි.
+
+මිහින්තලේ රෝහලින් අවශ්‍ය බෙහෙත් ලබාගෙන එම ඖෂධ දරුවන්ට දුන් පසු එම දරුවන්ගේ කටවල් ඇදවී, දිව එළියට ඇවිත් බෙල්ල කඩා වැටී තිබූ බව සඳහන් ය.
+
+එලෙස රෝගීවූ දරුවන් 9 දෙනෙක් මිහින්තලේ රෝහලට ඇතුළත් කර පසුව වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර ශික්ෂණ රෝහලට යවා ඇත.
+
+වයස අවුරුදු 6 සිට 12 දක්වා දරුවන්ට මෙම ආසාත්මික තත්ත්වය ඇතිවී තිබුණි.
+
+◼️
+
+[Data](articles/65b30afe.json)
 
 ---
 
@@ -420,6 +462,24 @@ From time to time in the rest of the island.. (30-40) can cause strong winds.
 
 ---
 
+### දරුවන්ගේ දෑස් පාදන දෑස් නොපෙනෙන ගුරුතුමිය
+
+*2024-07-15 03:49:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c729vw5lzp8o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ආබාධ තිබුණා කියලා අපි සැඟවිලා ඉන්න අවශ්‍ය නෑ.''
+
+පූර්ණ දෘෂ්‍යාබාධිත තත්ත්වයේ පසු වන සෙබමාලෙයි බෙනඩික්ටා  මන්නාරම ආන්ඩාන්කුලම රජයේ රෝමානු කතෝලික විද්‍යාලයේ ගුරුවරියක් වන්නීය.
+
+වයස අවුරුදු අටේ දී දෑස් පෙනීම අහිමු වූ ඇය දරුවන්ගේ දෑස් පෑදීමට වෙහෙස වන්නීය.
+
+''ක්‍රීඩාවේ දී කකුල් දෙකම නැති අය ඔලිම්පික් පවා යන ඉතිහාසයක් තියෙනවා. ඒ හින්දා ආබාධ තත්ත්වයන්, අඩුපාඩු ලෙස ගැනීම අවශ්‍ය වෙන්නේ නෑ. දරුවන්ගේ මොන අඩුපාඩු තිබුණත් දෙමාපියන් දරුවාට අධ්‍යාපනය දීලා නව ඇසක් ලබාදීම කියන දේ කරන්න ඕනේ. ඒ වෙනුවෙන් දෙමාපියන්, ඥාතීන් ආගමික නායකයින් එකතුවෙලා කටයුතු කරන්න කියලා මම ආදරයෙන් ඉල්ලා සිටිනවා.'' යනුවෙන් ඇය BBC සිංහල වෙත පැවසුවාය.
+
+◼️
+
+[Data](articles/954b914d.json)
+
+---
+
 ### Thailand attends Industry Expo 2024 and DigiEcon Global Investment Summit in Sri Lanka
 
 *2024-07-15 02:35:09* · [`dailyftlk`](https://www.ft.lk/business/Thailand-attends-Industry-Expo-2024-and-DigiEcon-Global-Investment-Summit-in-Sri-Lanka/34-764278) · `en`
@@ -601,6 +661,24 @@ The Chairman of the Election Commission, Ratnayake, the Government Principal, th
 [Data](articles/e8a2c036.json)
 
 [Extended Data](ext_articles/e8a2c036.ext.json)
+
+---
+
+### தமிழரசுக் கட்சி உயிர்போடு இருக்கிறது
+
+*2024-07-15 01:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தமிழரசுக்-கட்சி-உயிர்போடு-இருக்கிறது/150-340403) · `ta`
+
+இலங்கை தமிழரசுக் கட்சி உயிர்போடு இருப்பதுடன் ஓர் ஆக்கபூர்வமான பிரதிநிதிகளுடன் தொடர்ந்தும் பயணிக்கிறது. எதிர்வரும் எந்த தேர்தலிலும் கட்சி போட்டியிடும். மக்களுக்கான தனது செயற்பாட்டை தொடர்ந்தும் முன்னெடுக்கும் என்று தெரிவித்துள்ள   பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன்  தேர்தலை பிற்போட அரசாங்கம் சதி செய்கிறது என்றார்.
+
+வவுனியாவில், ஞாயிற்றுக்கிழமை (14)   இடம்பெற்ற தமிழரசுக் கட்சியின் அரசியல் குழு கூட்டத்தின் பின் இடம்பெற்ற ஊடகவியாளர்  சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழரசுக் கட்சியின் அரசியல் குழுவும், கட்சி சம்மந்தமான வழக்கில் சம்மந்தப்பட்ட தரப்பினரும் ஒன்றாக கூடி அடுத்த தவணை 19 ஆம் திகதி வழக்கு வரவிருக்கின்ற காரணத்தினால் அது குறித்து உரையாடப்பட்டது.
+
+நாங்கள் ஒவ்வொருவரும் தங்களது நிலைப்பாட்டுக்கு அமைய  மறுமொழிகளை தாக்கல் செய்த பிறகு வழக்கை முடிவுறுத்துவதற்கான ஒரு யோசனை அனைவராலும் ஏற்றுக் கொள்ளப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/34f6237e.json)
 
 ---
 
@@ -2095,105 +2173,5 @@ Mr. Wijeyadasa Rajapaksa made these comments participating at a function held at
 [Data](articles/7b26d3f1.json)
 
 [Extended Data](ext_articles/7b26d3f1.ext.json)
-
----
-
-### The photo of the trampol is released
-
-*2024-07-14 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198792) · `si`
-
-A sniper named Vedicgenule killed an intelligence sniper, and his photo has been released by international media.
-
-🟩
-
-An intelligence sniperser was killed by an intelligence Sniper Vedicgenule.
-
-His photo has been issued by the International Media.
-
-◼️
-
-[Data](articles/7d54044c.json)
-
-[Extended Data](ext_articles/7d54044c.ext.json)
-
----
-
-### Three-wheeler fares reduced
-
-*2024-07-14 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100498/-three-wheeler-fares-reduced) · `en`
-
-The All-Island Three-Wheeler Drivers’ Association has decided to reduce the three-wheeler fares within the Western Province.
-
-Accordingly, the President of the association Lalith Dharmasekara stated that the three-wheeler fare per kilometre will be reduced by Rs. 10 from tomorrow (15).
-
-Speaking during a press conference held today (14), he mentioned that accordingly, the fare of Rs. 80 will be charged for the second kilometer onwards from tomorrow, while the fare for the first kilometer will remain at Rs. 100.
-
-However, he also added that a 15% increment will be added to these charges between 10.00 p.m. and 05.00 a.m. as usual.
-
-Furthermore, the President of the association expressed that the passengers have the opportunity to make complaints with the police, Consumer Affairs Authority or the Road Passenger Transport Authority regarding any inconvenience occur related to the matter with proper information.
-
-◼️
-
-[Data](articles/ef7320c2.json)
-
-[Extended Data](ext_articles/ef7320c2.ext.json)
-
----
-
-### Anuraja is different
-
-*2024-07-14 13:55:11* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගෙයි-මගෙයි-දේශපාලනය-වෙනස්/11-410775) · `si`
-
-In a speech at the Thambuththegama Mahaweli Stadium, President Ranil Wickremesinghe highlighted the importance of unity and progress beyond politics, citing the successful implementation of projects and policies that benefited the nation, including the granting of freehold deeds to 4012 individuals. He emphasized the need for a proud national heritage and the role of politics in fostering this, referencing historical events and personal experiences to underscore the potential for collaboration across party lines. The address also touched on the country's economic recovery, the importance of education, and the vision for a prosperous future where the focus is on development rather than conflict.
-
-🟩
-
-The real revolution is to build a proud background in the country
-
-The country was able to provide many victories to the country as we worked without politics over the past two years.
-
-President Mahinda Rajapaksa says that 4012 persons will be granted freehold deeds
-
-President Ranil Wickremesinghe said that the people would proudly proignated the country, not to the killing of humans or burning people, but to the people.
-
-The President pointed out that the "heritage" the people of Sri Lanka has enabled the people of this background should be joined by politics.
-
-President Ranil Wickremesinghe made this statement at the Thambuththegama Mahaweli Stadium yesterday (13) at the Thambuththegama Mahaweli Stadium yesterday.
-
-The 9012 Mahaweli Divisions were presented to 4012 Mahaweli divisions in the Anuradhapura District.
-
-President Ranil Wickremesinghe has been awarded 47 land deeds.
-
-President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/db2ead9e.json)
-
-[Extended Data](ext_articles/db2ead9e.ext.json)
-
----
-
-### Together
-
-*2024-07-14 13:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/மாறியது-நாய்பட்டிமுனை/74-340369) · `ta`
-
-The Nayapattimunai Sub Post Office, under the Kalmunai Main Post Office, was renamed to Nalpittimunai on April 4, 2024. This change was officially published in the Gazette on May 31, 2024, after being notified on May 5, 2024. The old post office bill has been removed according to the SRWMP Sathkumara's directory. It's expected that the post office will soon be referred to as Napitimunai.
-
-🟩
-
-In the past, the Nayapattimunai Sub Post Office under the control of the Kalmunai Main Post Office in the Akkaraipattu Divisional Postal Superintendent's Division has been renamed as the Nalpittimunai Sub Post Office from 2024.04.04.
-
-It is noteworthy that the name of the Gazette on 2024.05.31 was given to the notice of the Gazette notification on 2024.05.05.
-
-Accordingly, the old bill of the sub -post has been removed in accordance with the directory of the Old Bill Package Post Office, SRWMP Sathkumara.
-
-It has been mentioned that in the near future, the Napitimunai sub -post will be called.
-
-◼️
-
-[Data](articles/e42355d9.json)
-
-[Extended Data](ext_articles/e42355d9.ext.json)
 
 ---

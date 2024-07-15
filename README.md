@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 17:36:04**
+As of **2024-07-15 17:56:35**
 
 ## Newspaper Stats
 
-*Scraped **35,374** Articles*
+*Scraped **35,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,150 @@ colombotelegraphcom | 333
 bbccomsinhala | 344
 newsfirstlk | 363
 islandlk | 2,004
-economynextcom | 2,093
+economynextcom | 2,100
 dailyftlk | 2,231
 adalk | 3,188
-adaderanalk | 4,079
+adaderanalk | 4,082
 tamilmirrorlk | 4,269
 dailymirrorlk | 4,733
-virakesarilk | 5,508
+virakesarilk | 5,511
 adaderanasinhalalk | 5,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,374 (100.0%) of 35,374 articles have been extended.
+35,374 (100.0%) of 35,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Man charged with two counts of murder after body parts found in suitcases on UK bridge
+
+*2024-07-15 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100533/man-charged-with-two-counts-of-murder-after-body-parts-found-in-suitcases-on-uk-bridge) · `en`
+
+A 34-year-old man was charged Monday with murdering two men whose remains were found in two suitcases in southwest England.
+
+London’s Metropolitan Police said Yostin Andres Mosquera has been charged with murdering Albert Alfonso, 61, and Paul Longworth, 71. He is due to appear in a London court later Monday.
+
+Police said the victims had previously been in a relationship and still lived together, and that the suspect had been staying with them at their west London apartment.
+
+Deputy Assistant Commissioner Andy Valentine said “the evidence gathered so far does not suggest there was a homophobic motive” to the killings.
+
+“I hope it will be of some reassurance that whilst enquiries are still ongoing and the investigation is at a relatively early stage, we are not currently looking for anyone else in connection with the two murders,” Valentine said.
+
+...
+
+[Data](articles/618849d3.json)
+
+---
+
+### Sri Lanka testing IUDs to control monkey births as farmers push for guns
+
+*2024-07-15 17:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-testing-iuds-to-control-monkey-births-as-farmers-push-for-guns-172209/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning the second stage of testing intra-uterine devices on red-faced monkeys as a means of controlling their population, as cries from farmers who want to cull them as crop destroying pests grow louder.
+
+Sri Lanka’s Agriculture Ministry has identified toque macaques, wild boars, peacocks, giant squirrels among key pests damaging crops. Farmers are calling for air guns to protect crops.
+
+State Finance Minister Ranjith Siyambalapitiya announced the allocation of funds for farmers to acquire air rifles and in January, Minister of Agriculture Mahinda Amaraweera, provided air guns to farmers cultivating pineapple, pomegranate, guava and papaya.
+
+Sri Lanka farmers given air rifles to protect crops from animals
+
+Researchers and Sri Lanka’s Peradeniya University, are testing birth control on the mammals.
+
+Professor of the Faculty of Veterinary Medicine and Animal Science, Ashoka Dangolla said he has been working with eight monkeys.
+
+...
+
+[Data](articles/92b4fefa.json)
+
+---
+
+### Piyumi Hansamali will not be arrested until Sep. 20 - AG tells court
+
+*2024-07-15 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100532/piyumi-hansamali-will-not-be-arrested-until-sep-20-ag-tells-court-) · `en`
+
+The Attorney General has informed the Court of Appeal that actress Piyumi Hansamali, who is under investigation over alleged money laundering charges, will not be arrested until September 20, 2024.
+
+However, the court was informed that the relevant investigations carried out by the Illegal Assets Investigations Division of the Criminal Investigation Department (CID) into her wealth, can be carried out without any hindrances.
+
+Appearing on behalf of the Attorney General, the Deputy Solicitor General has communicated this to the court when a petition filed by Hansamali, seeking a writ order to suspend the said investigations, was taken up before Appeals Court Judge Sobhitha Rajakaruna today (15).
+
+Accordingly, the court has ordered the petition to be recalled for consideration on September 20, 2024.
+
+◼️
+
+[Data](articles/15ee6e76.json)
+
+---
+
+### One dead, 5 injured as vehicle crashes into tree in Welikanda
+
+*2024-07-15 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100531/one-dead-5-injured-as-vehicle-crashes-into-tree-in-welikanda) · `en`
+
+A person has been killed and five others were injured in an accident involving a double cab in the Welikanda area.
+
+Police stated that the accident had occurred this morning (15) on the Welikanda-Sinhapura road when the double cab was travelling from Sinhapura towards Welikanda, and had veered off the road due to the driver losing control of the vehicle causing it to crash into a tree.
+
+Accordingly, the vehicle’s driver was killed on the spot and five passengers who sustained injuries in the collision had been admitted to the District General Hospital Polonnaruwa.
+
+Police said that the deceased is a 52-year-old resident of the Sinhapura area in Welikanda.
+
+◼️
+
+[Data](articles/d324d7d7.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 301.90/302.40 to US dollar
+
+*2024-07-15 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-301-90-302-40-to-us-dollar-172221/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed marginally weaker at 301.90/302.40 to the US dollar on Monday, from 301.70/302.00 to the US dollar on Friday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.80/90 percent, down from 10.90/11.00 percent.
+
+A bond maturing on 15.12.2027 closed at 11.70/80 percent, down from 11.75/80 percent.
+
+A bond maturing on 01.05.2028 closed at 11.85/90 percent, down from 11.90/12.00 percent.
+
+A bond maturing on 15.09.2029 closed at 12.10/15 percent, down from 12.10/30 percent.
+
+A bond maturing on 01.12.2031 closed at 12.35/60 percent. (Colombo/Jul15/2024)
+
+◼️
+
+[Data](articles/5ab4aacd.json)
+
+---
+
+### Sri Lanka stocks close up, foreign interest in John Keells and Hemas
+
+*2024-07-15 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-foreign-interest-in-john-keells-and-hemas-172182/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.41 percent, or 48.18 points, at 11,892; while the more liquid S&P SL20 Index closed up 0.55 percent, or 19.06 points, at 3,473.
+
+“There was foreign appetite for John Keells Holdings and Hemas Holdings today,” Softlogic Stockbrokers said.
+
+John Keells Holdings Plc brought in Rs779mn to the turnover, and the share closed down at 194.25.
+
+Hemas Holdings Plc contributed Rs137mn to the turnover, and the share closed up at 81.40.
+
+Crossings on the two diversified conglomerates made up 48 percent of the day’s turnover.
+
+Sentiment around the banking counters also picked up, market participants said. Commercial Bank of Ceylon Plc was up at 104.50, Sampath Bank Plc was up at 77.20, Hatton National Bank Plc was up at 195.75, while DFCC Bank Plc was down at 73.70.
+
+Overall top positive sectors were healthcare, diversified financials, and banking.
+
+...
+
+[Data](articles/745c8885.json)
+
+---
 
 ### President and lawyers meet
 
@@ -53,6 +179,26 @@ The President who has the right to do politics but no one should have signed the
 [Data](articles/0ff3edaf.json)
 
 [Extended Data](ext_articles/0ff3edaf.ext.json)
+
+---
+
+### தொழிலாளர்களுக்கு நாள் சம்பளமாக 1700 ரூபா வழங்குமாறு வலியுறுத்தி பொகவந்தலாவையில் போராட்டம்
+
+*2024-07-15 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188528) · `ta`
+
+மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு நாள் சம்பளமாக 1700 ரூபா வழங்குமாறு வலியுறுத்தி பொகவந்தலாவை நகரில் இன்று திங்கட்கிழமை (15) காலை போராட்டம் முன்னெடுக்கப்பட்டது.
+
+பொகவந்தலாவை பிரதான பஸ் தரிப்பிபடத்தில் ஆரம்பமான ஆர்ப்பாட்ட பேரணி, பொகவந்தலாவ செல்வகந்தை சந்திவரை சென்றது.
+
+இதன்போது பெருந்தோட்ட துரைமார் சம்மேளனத்தின் ஊடக பேச்சாளர் ரொஷான் ராஜதுரையின் உருவப்படம் எரிக்கப்பட்டது.
+
+குறித்த ஆர்ப்பாட்டத்தால் பொகவந்தலாவ ஹட்டன் வீதி ஊடான போக்குவரத்து சிறிது நேரம் பாதிக்கப்பட்டது.
+
+சுமார் மூன்று மணிநேரம் போராட்டம் முன்னெடுக்கப்பட்டதோடு,பொகவந்தலாவ நகர வர்த்தகர்களும் வர்த்தக நிலையங்களை மூடி ஆர்ப்பாட்டத்திற்கு ஆதரவு வழங்கினர்.
+
+◼️
+
+[Data](articles/7271d72f.json)
 
 ---
 
@@ -99,6 +245,26 @@ Accordingly, the petition was also taken to call on September 20th.
 [Data](articles/42521650.json)
 
 [Extended Data](ext_articles/42521650.ext.json)
+
+---
+
+### இனப்பிரச்சினைக்கு  அனைத்து இனக்குழுவினரும்  ஏற்றுக்கொள்ளக்கூடிய தீர்வொன்றை தேசிய மக்கள் சக்தி முன்வைக்கவேண்டும் - புத்திஜீவிகள் குழு வேண்டுகோள்
+
+*2024-07-15 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188525) · `ta`
+
+இலங்கையின் இனப்பிரச்சினைக்கு  அனைத்து இனத்தவர்களும் ஏற்றுக்கொள்ளக்கூடிய தீர்வொன்றை தேசிய மக்கள் சக்தி முன்வைக்கவேண்டும் என இலங்கையின்  புத்திஜீவிகள் கல்விமான்கள் அடங்கிய குழுவொன்று வேண்டுகோள் விடுத்துள்ளது.
+
+வடக்கின் பெரும்பான்மை மக்களின் நம்பிக்கையை பெறக்கூடிய நடைமுறைசாத்தியமான தீர்வாக அது காணப்படவேண்டும் எனவும் அந்த குழு வேண்டுகோள் விடுத்துள்ளது.
+
+தேசிய மக்கள் சக்தி என்பது 2022 ம் ஆண்டு மக்கள் போராட்டம் மூலம் வெளிப்பட்ட மக்கள் அபிலாசைகளுடன் தொடர்புபட்ட பிரதான இயக்கமாக தேசிய மக்கள் சக்தி மாற்றமடைந்துவருகின்றது.
+
+இந்த நிலைமை 1947ம் ஆண்டு சிலோனின் முதலாவது தேசிய தேர்தலின் போது காணப்பட்ட நிலைமைக்கு ஒப்பானது - நாங்கள் பொன்னான வாய்ப்பை தவறவிட்டோம்.
+
+ஆகவே எதிர்வரும் தேர்தலில் வெற்றிபெறுவதற்கும் அதன் பின்னர் இலங்கை சமூகத்தில் கடும் கருத்துவேறுபாட்டை தொடர்ந்தும் உருவாக்கிவரும் இனப்பிரச்சினை உட்பட தேசிய பிரச்சினைகளிற்கு தீர்வை காண்பதற்கும் பின்வரும் விடயங்களிற்கு முன்னுரிமைவழங்குமாறும்  நாங்கள் கேட்டுக்கொள்கின்றோம்.
+
+...
+
+[Data](articles/ce735abb.json)
 
 ---
 
@@ -206,6 +372,26 @@ The Special Investigation Unit of the SLBFE has arrested the owner of the compan
 
 ---
 
+### மின்கட்டணத்தை குறைக்க அனுமதி - இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு
+
+*2024-07-15 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188515) · `ta`
+
+மின்சார கட்டணத்தை 22.5 சதவீதத்தால் குறைப்பதற்கு இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு அனுமதி வழங்கியுள்ளதாக ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+புதிய மின்கட்டண திருத்தத்தை நாளை 16 ஆம் திகதியிலிருந்து அமுல்படுத்துமாறு மின்சார சபைக்கு பொதுப்பயன்பாடுகள் ஆணைக்குழு அறிவுறுத்தல் வழங்கியுள்ளது.
+
+அதன்டி, 30 அலகுகளுக்கு குறைவாக மின்சாரத்தை பயன்படுத்தும் நுகர்வோருக்கு 25 சதவீதம் கட்டணம் குறைக்கப்பட்டுள்ளது. ஒரு அலகுக்கு செலுத்தப்படும் விலை 8 ரூபாவிலிருந்து 6 ரூபாவாக குறைக்கப்பட்டுள்ளது.
+
+இதேவேளை, 61 தொடக்கம் 90 அலகுகளுக்கு இடைப்பட்டு மின்சாரத்தை பயன்படுத்துவோருக்கு  கட்டணங்கள் 55 வீதத்தால் குறைக்கப்படவுள்ளதுடன், ஒரு அலகுக்கு செலுத்தப்படும் விலை 20 ரூபாவிலிருந்து 9 ரூபாவாக குறைக்கப்பட்டுள்ளது.
+
+மதஸ்தலங்களுக்கான மின்சார கட்டணங்களை 30 சதவீதம் குறைக்க பொதுப்பயன்பாடுகள் ஆணைக்குழு தீர்மானித்துள்ளதாக பேராசிரியர் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/79b9a922.json)
+
+---
+
 ### London-made double murder - bodies shares in suitcase
 
 *2024-07-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198839) · `si`
@@ -303,6 +489,32 @@ During that period, only a few simple documents were provided to the "temporary 
 [Data](articles/99680e29.json)
 
 [Extended Data](ext_articles/99680e29.ext.json)
+
+---
+
+### Sri Lanka cuts domestic electricity prices 22.5-pct
+
+*2024-07-15 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-domestic-electricity-prices-22-5-pct-172136/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Public Utilities Commission has cut electricity tariffs by an average of 22.5 percent, Chairman M A R M Fernando said.
+
+Domestic user bills were down by an average 27 percent along with a cut in fixed charges, ahead of elections.
+
+The unit tariff cost for some domestic categories are down as much as 55 percent.
+
+The price of a unit was reduced from 8 rupees to 6 rupees for domestic users who use below 30 units a month. A bill of 390 rupees would now be reduced to 280.
+
+The unit price for those who consume 31-60 units would now cost 9 rupees instead of 20 rupees.
+
+In the industrial and hotels categories daytime tariff was reduced by 25 percent. Micro and SME saw a similar reduction.
+
+“One of the main concerns at the public hearing was to give some benefit to hotels,” Fernando said speaking to reporters in Colombo.
+
+Religious places and charities saw a reduction of 30 percent.
+
+◼️
+
+[Data](articles/66f51376.json)
 
 ---
 
@@ -772,6 +984,24 @@ When the arrested suspects were presented in court, it was ordered to be release
 
 ---
 
+### MBSL to sell its 53.81 percent stake in MBSL Insurance
+
+*2024-07-15 13:36:00* · [`economynextcom`](https://economynext.com/mbsl-to-sell-its-53-81-percent-stake-in-mbsl-insurance-172131/) · `en`
+
+ECONOMYNEXT – Merchant Bank Of Sri Lanka and Finance Plc (MBSL) plans to sell its 53.81 percent stake in MBSL Insurance Company Ltd (MBSLI).
+
+The Board of Directors of MBSL at a meeting held on July 11 “resolved to grant approval in principle for the proposed sale of MBSL’s entire shareholding (53.81%) in MBSL Insurance Company Limited (MBSLI),” the company said in a stock exchange filing.
+
+The proposed sale will be subject to obtaining the necessary regulatory approvals from the Insurance Regulatory Commission of Sri Lanka and Central Bank of Sri Lanka and compliance with procedural steps in the Shareholders Agreement between the shareholders of MBSLI, the company said.
+
+Further details of the proposed sale will be disclosed to the Colombo Stock Exchange, when the requisite approvals are obtained, and a final agreement is reached with a prospective purchaser of the shares, MBSL said.
+
+◼️
+
+[Data](articles/1d3869a4.json)
+
+---
+
 ### Thailand Visa: Embassy officials come into effect after official announcement
 
 *2024-07-15 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188467) · `ta`
@@ -1028,6 +1258,28 @@ The decision comes following the discussions held with the chairman of Universit
 
 ---
 
+### Deloitte leader Nishan Mendis appointed chairman of SLASSCOM
+
+*2024-07-15 12:48:00* · [`economynextcom`](https://economynext.com/deloitte-leader-nishan-mendis-appointed-chairman-of-slasscom-172108/) · `en`
+
+ECONOMYNEXT – Nishan Mendis, Head of Deloitte Sri Lanka and Maldives said he plans to make Sri Lanka a global hub for technological innovation, after being appointed Chairman of Sri Lanka Association of Software and Services Companies (SLASSCOM).
+
+“My vision is to position Sri Lanka as a global hub for technological innovation and excellence,” he was quoted as saying in a statement.
+
+“By harnessing our heritage of collaboration, resilience, and innovation, I am confident that we can achieve this vision. I recognize the legacy of visionary leaders and dedicated boards who have guided us, and I am committed to building on this.”
+
+A key focus will be to bridge the skills gap in the IT/BPM sector and address the loss of mid-tier talent.
+
+At SLASSCOM, he has served as Vice Chairman, Head of the Global Trade and Investment Forum, and Head of the Capacity Forum.
+
+The full statement from Deloitte, Sri Lanka and the Maldives is reproduced below:
+
+...
+
+[Data](articles/08b68a86.json)
+
+---
+
 ### Trump firing at the election campaign meeting - What did CNN reporter see?
 
 *2024-07-15 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188492) · `ta`
@@ -1167,6 +1419,26 @@ The deceased had been bathing in Deduru Oya with his wife and three others, acco
 [Data](articles/73117c78.json)
 
 [Extended Data](ext_articles/73117c78.ext.json)
+
+---
+
+### Free hold land grants blocked 20-years ago by Sri Lanka court decision: President
+
+*2024-07-15 12:10:00* · [`economynextcom`](https://economynext.com/free-hold-land-grants-blocked-20-years-ago-by-sri-lanka-court-decision-president-172092/) · `en`
+
+ECONOMYNEXT – A court decision blocked an attempt to give freehold rights to people 20 years ago, Sri Lanka’s President Ranil Wickremesinghe said, at a ceremony where 662 people in the Badulla District were given deeds.
+
+“The “Urumaya” Program was implemented in this country in 2002 and 2003 but was halted by a court decision.”
+
+“The government took the land from the people to build the Kotmale Reservoir and the Theldeniya Reservoir, relocating those affected to these areas,” Wickremesinghe was quoted as saying by his media division.
+
+When he tried to do this in 2002-03, the court said a referendum was needed to do so.
+
+“This necessitated a new law to provide these lands under the Land Development Ordinance. I presented the draft law, but the Supreme Court ruled that a referendum was necessary to pass such legislation.”
+
+...
+
+[Data](articles/0efe56ae.json)
 
 ---
 
@@ -2065,271 +2337,5 @@ While investigating how he got a gun, it was revealed that he had used his fathe
 [Data](articles/e8d81a6f.json)
 
 [Extended Data](ext_articles/e8d81a6f.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-07-15 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100508/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts.
-
-Strong winds of about 50-60kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
-
-Fairly strong winds about 30-40kmph can be expected at times elsewhere of the island, it said.
-
-◼️
-
-[Data](articles/4de7b237.json)
-
-[Extended Data](ext_articles/4de7b237.ext.json)
-
----
-
-### නේපාලයේ අග්‍රාමාත්‍ය ධුරය කේ.පී ශර්මා ඔලී ට
-
-*2024-07-15 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198815) · `si`
-
-KP Sharma, previously defeated in elections, has been appointed as Nepal's Prime Minister. A 72-year-old with prior PM experiences, he will be sworn in today alongside a new cabinet.
-
-🟩
-
-නේපාලයේ අග්‍රාමාත්‍ය ධුරය දැරු පුෂ්ප කමල් දහාල් විශ්වාසභංගයකින් පසුගිය දා පරාජයට පත් ව තිබුණි.
-
-According to reports, KP Sharma has been selected for the post of Prime Minister of Nepal.
-
-කේ.පී ශර්මා 72 හැවිරිදි වියේ පසුවන අතර ඔහු මීට පෙර අවස්ථා දෙකකදී නේපාලයේ අග්‍රාමාත්‍ය ධුරය දරා ඇති බව සඳහන් වේ.
-
-නේපාලයේ නව අග්‍රාමාත්‍යවරයා සහ නව කැබිනට් මණ්ඩලය අද (15) දිනයේ දී දිවුරුම් දීමට නියමිතය.
-
-◼️
-
-[Data](articles/e286601e.json)
-
-[Extended Data](ext_articles/e286601e.ext.json)
-
----
-
-### Notice that train services have been affected
-
-*2024-07-15 07:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-பாதிக்கப்பட்டுள்ளதாக-அறிவிப்பு/175-340415) · `ta`
-
-Train services from Colombo Fort to Badulla have been disrupted due to a derailment near Bandarawela. The Railway Department confirms impact on hill country routes.
-
-🟩
-
-It is reported that the train from Colombo Fort to Badulla has derailed between Bandarawela and Heel Oya.
-
-The Railway Department said that the train services to the hill country have been affected. Remble
-
-◼️
-
-[Data](articles/ea0cca34.json)
-
-[Extended Data](ext_articles/ea0cca34.ext.json)
-
----
-
-### A key notice of the Department of Meteorology
-
-*2024-07-15 07:54:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-முக்கிய-அறிவிப்பு/175-340414) · `ta`
-
-The Department of Meteorology warns of possible rainfall, thunderstorms, and strong winds in several provinces including Western, Sabaragamuwa, North Western, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Expect over 50mm of rain in some areas and wind speeds of 50-60km/h in certain regions, with milder winds elsewhere.
-
-🟩
-
-The Department of Meteorology has said that there is a possibility of rainfall or thunderstorms in the Western, Sabaragamuwa and North Western Provinces in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The department said that more than 50 millimeters of rainfall will be reported in some areas in the Western and Sabaragamuwa Provinces and Kandy and Nuwara Eliya districts.
-
-Strong winds may be blowing at speeds of 50-60 km / h from time to time in the western slopes of the Central Highlands and the Northern, North Central and North Western Provinces and Trincomalee and Hambantota districts.
-
-The Department of Meteorology has further stated that 30-40 winds are blowing at the other parts of the country from time to time.. Remble
-
-◼️
-
-[Data](articles/5cdda20e.json)
-
-[Extended Data](ext_articles/5cdda20e.ext.json)
-
----
-
-### When a group arrives in the ministry today, another group again preparing strikes
-
-*2024-07-15 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198814) · `si`
-
-A group arriving at the ministry faces potential strikes as non-academic staff at the university decide to report from today, influenced by discussions with UGC Chairman Professor Sampath Amaratunga. The Railways Association threatens further action if the Minister doesn't fulfill promises by approving the Cabinet today; its president, Sumedha Somaratne, plans a meeting tomorrow.
-
-🟩
-
-The officers of the university non-academic staff have decided to report from today (15).
-
-The decision was taken after a discussion with Professor Sampath Amaratunga, Chairman of the University Grants Commission regarding his demands.
-
-Meanwhile, the Railways Association says that if the Minister's promise is not fulfilled today for the approval of the Cabinet for the approval of the Cabinet.
-
-The President of the Association Sumedha Somaratne said that his union would meet tomorrow (16).
-
-◼️
-
-[Data](articles/c4342e44.json)
-
-[Extended Data](ext_articles/c4342e44.ext.json)
-
----
-
-### More people feel Sri Lanka economy is getting better, approval up: Survey
-
-*2024-07-15 07:36:00* · [`economynextcom`](https://economynext.com/more-people-feel-sri-lanka-economy-is-getting-better-approval-up-survey-172049/) · `en`
-
-ECONOMYNEXT – More people feel the economy is getting better and approval of the government is also up, a Survey by Verité Research, a Colombo based think tank has said.
-
-The approval rating of the government more than tripled to 24 percent in July, up from 7 percent in February 2024, the survey found.
-
-Current economic conditions were rated as either “good” or “excellent” by 28 percent of respondents, marking a threefold increase from 9 percent in February 2024, Verité Research said.
-
-The share of people who believe that the country’s economic conditions are “getting better” has also tripled, with 30 percent of respondents holding this view, up from 9 percent in February 2024.
-
-“The positivity in July 2024 is around the same level or a little higher than it was in June 2023, which was the highest level recorded since January 2022. The comparison is detailed below,”  the Verete said.
-
-...
-
-[Data](articles/744cb64e.json)
-
-[Extended Data](ext_articles/744cb64e.ext.json)
-
----
-
-### The Fundamental Rights Petition filed against the presidential election today
-
-*2024-07-15 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198813) · `si`
-
-A petition filed against the presidential election challenges the 19th Amendment's constitutionality, citing its impact on the President's dissolution powers and lack of referendum approval. It involves Chief Justice Jayantha Jayasuriya, Arjuna Obeysekara, and Priyantha Fernando, with Attorney Aruna Laksiri Unawatuna arguing for a referendum before the amendment's passage. The petitioner argues the amendment undermines the President's authority and should not be accepted as law without a referendum.
-
-🟩
-
-The Fundamental Rights Petition filed against a presidential election today (15) is due to be considered against the 19th Amendment to the Constitution to a referendum.
-
-The petition is due to consider Chief Justice Jayantha Jayasuriya, Arjuna Obeysekara and Priyantha Fernando.
-
-Attorney Aruna Laksiri Unawatuna, legal election was presented by law aruna, Aruna Laksiri Unawatuna to hold a presidential election to a referendum until the 19th Amendment was passed into a referendum.
-
-The petitioner has shown that the Petition has shown that the Petitioner has shown that the Constitution amended the 70th Amendment to the Constitution to deprive the President's power to dissolve a year.
-
-Attorney Attorney Aruna Laksiri Unawatuna said that although the Supreme Court judge had decided to submit that amendment, it was not approved by a referendum.
-
-The petitioner has also shown that the President has not been able to signify the President because the amendment has been approved by a referendum.
-
-...
-
-[Data](articles/66644984.json)
-
-[Extended Data](ext_articles/66644984.ext.json)
-
----
-
-### Pan Asia Bank modernises banking in Jaffna with new digital zone
-
-*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/pan-asia-bank-modernises-banking-in-jaffna-with-new-digital-zone/) · `en`
-
-Pan Asia Bank, has announced the opening of its cutting-edge Digital Zone at the Jaffna branch, No. 570 Hospital Road. This significant development underscores the bank’s dedication to providing innovative and convenient banking solutions to its esteemed customers in the northern region. Equipped with the latest technology, the Digital Zone features various self-service facilities 24/7.
-
-Naleen Edirisinghe, Director/CEO of Pan Asia Bank, expressed his enthusiasm for the launch: “We are excited to bring this advanced Digital enablement to our customers in Jaffna. This initiative is part of our broader strategy to enhance customer convenience through digital innovation.
-
-IIHS opens doors for GCE O/L and A/L students to discover career pathways
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/0ec528c3.json)
-
-[Extended Data](ext_articles/0ec528c3.ext.json)
-
----
-
-### ADB approves support for power sector reforms in Sri Lanka
-
-*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/adb-approves-support-for-power-sector-reforms-in-sri-lanka/) · `en`
-
-The Asian Development Bank (ADB) approved a $100 million policy-based loan on July 11 to support and facilitate reforms aimed at enhancing the financial sustainability of the power sector in Sri Lanka.
-
-The Power Sector Reforms and Financial Sustainability Program will complement the International Monetary Fund’s Extended Fund Facility arrangement and bolster the operational efficiency and competitiveness of country’s power sector. The program will help create a conducive environment for private investments, boosting renewable energy development, and modernizing power grids.
-
-...
-
-[Data](articles/2c86a0b8.json)
-
-[Extended Data](ext_articles/2c86a0b8.ext.json)
-
----
-
-### Seylan LKR 10 bn debenture issue oversubscribed on opening day
-
-*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/seylan-lkr-10-bn-debenture-issue-oversubscribed-on-opening-day/) · `en`
-
-Seylan Bank, announced that its recent LKR 10Bn Debenture issue was oversubscribed on its opening day, with applications for over 100 million debentures, signalling strong investor confidence.
-
-The Bank issued an initial LKR 5 billion in Basel III-compliant, Tier 2, listed, rated, unsecured, subordinated, redeemable debentures. These debentures, priced at Rs. 100 each, have maturity periods of five and seven years and include a non-viability conversion feature. In case of oversubscription, the Bank retained the option to issue an additional LKR 3 billion in debentures, with a further option to issue another LKR 2 billion under the same terms. The Debentures were rated BBB (lka) by Fitch Ratings Lanka Limited and are to be listed on the Colombo Stock Exchange.
-
-...
-
-[Data](articles/cd4e498f.json)
-
-[Extended Data](ext_articles/cd4e498f.ext.json)
-
----
-
-### IIHS opens doors for GCE O/L and A/L students to discover career pathways
-
-*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/iihs-opens-doors-for-gce-o-l-and-a-l-students-to-discover-career-pathways/) · `en`
-
-International Institute of Health Sciences (IIHS), has granted GCE Ordinary Level (O/L) and Advanced Level (A/L) students interested in healthcare careers the opportunity to visit its premises. The IIHS offers a wide range of courses in various healthcare disciplines, including Nursing, Physiotherapy, Biomedical Sciences, Paramedic Sciences, Psychology, Nutrition and Dietetics, Health Services Management, Digital Health, and Radiography. With state-of-the-art facilities and experienced faculty members, they provide students with a comprehensive learning experience, preparing them for successful careers in the healthcare industry.
-
-...
-
-[Data](articles/cdcd2ebb.json)
-
-[Extended Data](ext_articles/cdcd2ebb.ext.json)
-
----
-
-### Singer unveils four new smartphones at nubia brand launch
-
-*2024-07-15 06:51:00* · [`islandlk`](http://island.lk/singer-unveils-four-new-smartphones-at-nubia-brand-launch/) · `en`
-
-Singer Sri Lanka recently unveiled four new smartphones at a nubia brand launch, the newest addition to its illustrious portfolio of international brands. The event marked the introduction of a new wave of innovation and power to the Sri Lankan market, catering to a discerning audience seeking a premium mobile experience and the opportunity for authentic self-expression.
-
-The launch showcased the newest offerings from nubia, a leading global smartphone brand renowned for its superlative technology, and included the nubia Neo 2 5G, nubia Focus Pro 5G, nubia V60 and nubia V60 Design models.
-
-Mahesh Wijewardene, Chief Executive Officer, Singer Group of Companies said,” Our collaboration with nubia reinforces our commitment to providing our customers with the latest in technology and exceptional service.”
-
-...
-
-[Data](articles/f3952beb.json)
-
-[Extended Data](ext_articles/f3952beb.ext.json)
-
----
-
-### UAE women’s national cricket team aboard SriLankan Airlines
-
-*2024-07-15 06:42:00* · [`islandlk`](http://island.lk/uae-womens-national-cricket-team-aboard-srilankan-airlines/) · `en`
-
-SriLankan Airlines recently had the privilege of flying the United Arab Emirates (UAE) Women’s National Cricket Team from Dubai to Sri Lanka for Women’s Asia Cup 2024, scheduled to take place in Dambulla from 19 July to 28 July 2024. The 19-member team received a warm welcome from SriLankan Airlines, ensuring that their entire journey was on form from start to end. For many of the members, this was their first visit to Sri Lanka. SriLankan Airlines guaranteed that their first experience of the country began right onboard the flight, offering them the best of Sri Lankan hospitality and the island’s culinary traditions.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/84157fc9.json)
-
-[Extended Data](ext_articles/84157fc9.ext.json)
 
 ---

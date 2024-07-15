@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 10:53:54**
+As of **2024-07-15 11:05:37**
 
 ## Newspaper Stats
 
-*Scraped **35,293** Articles*
+*Scraped **35,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,002
 economynextcom | 2,089
 dailyftlk | 2,231
-adalk | 3,181
-adaderanalk | 4,061
+adalk | 3,183
+adaderanalk | 4,063
 tamilmirrorlk | 4,251
 dailymirrorlk | 4,733
 virakesarilk | 5,502
@@ -26,31 +26,85 @@ adaderanasinhalalk | 5,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,290 (100.0%) of 35,293 articles have been extended.
+35,293 (100.0%) of 35,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### දියේ ගිලී පුද්ගලයින් දෙදෙනෙක් මරුට
+### More than half of Rs. 100 million fine already paid - Maithripala’s lawyers tell SC
+
+*2024-07-15 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100515/more-than-half-of-rs-100-million-fine-already-paid-maithripalas-lawyers-tell-sc) · `en`
+
+Former President Maithripala Sirisena’s lawyers have informed the Supreme Court that Rs. 58 million of the fine of Rs. 100 million imposed on the former President, for failure to prevent the Easter Sunday bomb attacks, has already been paid.
+
+◼️
+
+[Data](articles/de3b5bae.json)
+
+---
+
+### පාර්ලිමේන්තුවේ විධායක බලයට අධිකරණය අත නොගැසිය යුතුයි
+
+*2024-07-15 10:46:26* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-විධායක-බලයට-අධිකරණය-අත-නොගැසිය-යුතුයි/11-410788) · `si`
+
+උරුමය වැඩසටහන 2002, 2003 වසරවල මේ රටේ ක්‍රියාත්මක කිරීමට තිබු වැඩපිළිවෙළවක් වන අතර අධිකරණ තීන්දුවක් හේතුවෙන් එය නවතා දැමීමට සිදු වූ බවත්, එදා එම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට අවස්ථාව ලැබුණා නම් මීට වසර 20කට පෙර මේ රටේ ජනතාවට සින්නක්කර ඉඩම් අයිතිය  ලබාදීමට හැකිව තිබූ බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+අධිකරණ බලය තිබෙන්නේ පාර්ලිමේන්තුව තුළ බව සිහිපත් කළ ජනාධිපතිවරයා, පාර්ලින්තුවේ විධායක බලයට අධිකරණය අත නොගැසිය යුතුය යන ස්ථාවරයේ තමා සෑමවිටම සිටින බව ද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මහියංගනය මහජන ක්‍රීඩාංගණයේදී ඊයේ (14) පැවති උරුමය සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ වැඩසටහනට එක් වෙමිනි.
+
+සින්නක්කර ඉඩම් ඔප්පු ලක්ෂ 20ක් ලබාදීමේ  “උරුමය“ වැඩසටහන යටතේ බදුල්ල  දිස්ත්‍රික්කයේ පළමු අදියරේ සුදුසුකම් ලාභීන් 65,393ක් අතුරින් පුද්ගලයන් 662කට සින්නක්කර ඉඩම් ඔප්පු ප්‍රදානය කිරීම මෙහිදී සිදු වූ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය කිරීමට එක් විය.
+
+...
+
+[Data](articles/af6547c1.json)
+
+---
+
+### After assassination attempt, Trump and Biden seek calm, unity
+
+*2024-07-15 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100514/after-assassination-attempt-trump-and-biden-seek-calm-unity) · `en`
+
+Donald Trump arrived on Sunday in Milwaukee, where he will be formally nominated as the Republican presidential candidate later this week after surviving an assassination attempt that has aggravated an already bitter U.S. political divide.
+
+President Joe Biden, a Democrat, ordered a review of how a 20-year-old man with an AR-15-style rifle got close enough to shoot at Trump from a rooftop on Saturday. Trump, as a former president, has lifetime protection by the U.S. Secret Service.
+
+Trump, 78, was holding a campaign rally in Butler, Pennsylvania - a key state in the Nov. 5 election - when shots rang out, hitting his right ear and leaving his face streaked with blood. His campaign said he was doing well.
+
+“That reality is just setting in,” Trump told the Washington Examiner on Sunday. “I rarely look away from the crowd. Had I not done that in that moment, well, we would not be talking today, would we?”
+
+...
+
+[Data](articles/6a3fdddf.json)
+
+---
+
+### Two killed in drowning
 
 *2024-07-15 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198819) · `si`
 
-හලාවත පොලිස් වසමේ දැදුරු ඔයේ දියනෑමට ගිය පිරිසක් අතුරින් පුද්ගලයින් දෙදෙනෙකු දියේ ගිලී ඇති අතර ඉන් එක් අයෙකු මියගොස් තිබේ.
+In two separate incidents, two individuals drowned: one in the Darasuras area, where one survivor was rescued but another was hospitalized; and another near the Mahaweli River, whose body was found and taken to Kandy Hospital for investigation.
 
-දියේ ගිලිනු එක් අයෙකුගේ ජීවිතය බේරාගෙන ඇති අතර අනෙක් පුද්ගලයා හලාවත රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ වටවන, හැටන් ප්‍රදේශයේ පදිංචි 20 හැවිරිදි තරුණයෙකි.
+Two persons were drowning with a group of people who had been deprived of the Darasuras of Chilaw Police Division.
 
-මියගිය තරුණයා සිය බිරිඳ සහ තවත් පුද්ගලයින් තිදෙනෙකු සමඟ දැදුරු ඔයේ දියනාමින් සිටින අතරවාරයේ මෙලෙස දියේ ගිලී ඇති බව පොලීසිය පවසයි.
+The drowning of one has rescued the life of one and the other person has been identified to be admitted to the Chilaw Hospital.
 
-එමෙන්ම කටුගස්තොට මඩවල මාර්ගයේ මහවැලි ගඟේ නාන තොටුපොළ ආසන්නයේ තිබී පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් ඊයේ (14) රාත්‍රියේ පොලීසිය විසින් සොයා ගෙන තිබුණි.
+The victim was a 20 year old resident of Hatton.
 
-මෘත ශරීරය මහනුවර රෝහලේ තැන්පත් කර ඇති අතර කටුගස්තොට පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased has been drowned while Diyakadosha Oya Diyawana with his wife and three other people.
+
+The body of a man was found near the Mahaweli River in Katugastota on the Mahaweli River yesterday (14).
+
+The body is being placed at the Kandy Hospital while Katugastota Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/c99ce650.json)
+
+[Extended Data](ext_articles/c99ce650.ext.json)
 
 ---
 
@@ -66,21 +120,29 @@ Although the economy of Sri Lanka bounced back after the Eelam war, the island n
 
 [Data](articles/2bdb80aa.json)
 
+[Extended Data](ext_articles/2bdb80aa.ext.json)
+
 ---
 
-### 85 හැවිරිදි ෆුජිමෝරි ජනාධිපතිවරණයට
+### 85 year old Fujimuri presidential election
 
 *2024-07-15 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198818) · `si`
+
+Alleged human rights abuses and a murder conviction led to Alberto Fujimori's release from prison after 14 years. His daughter, Keiko Fujimori, announced his candidacy for Peru's presidency in 2026.
+
+🟩
 
 පේරු රාජ්‍යයේ හිටපු ජනාධිපති ඇල්බර්ටෝ ෆුජිමෝරි 2026 දී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සඳහා ඉදිරිපත්වන බව වාර්තා වෙයි.
 
 ඒ බව ඔහුගේ දියණිය වන කීකෝ ෆුජිමෝරි සිය X ගිණුමේ සටහනක් තබමින් පැවසුවාය.
 
-ඔහු ගේ පෙර පාලන සමයේ සිදුවූ ඝාතන සහ මානව හිමිකම් උල්ලංඝනය කිරීම් හේතුවෙන් 85 හැවිරිදි ෆුජිමෝරි වසර 25ක් සිරගතව සිට පසුගිය වසරේ නිදහස ලැබීය.
+The 85-year-old Fujimorur, 85 years were released in jail due to the previous murder and human rights violations.
 
 ◼️
 
 [Data](articles/61f13012.json)
+
+[Extended Data](ext_articles/61f13012.ext.json)
 
 ---
 
@@ -1382,6 +1444,20 @@ In central Israel reported that incident. Four injured in the bus stand was inju
 
 ---
 
+### තැපැල් දෙපාර්තමේන්තුවේ කෝටි 30ක වියදම් ගැන ගැටලුවක්
+
+*2024-07-14 19:14:34* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-දෙපාර්තමේන්තුවේ-කෝටි-30ක-වියදම්-ගැන-ගැටලුවක්/11-410784) · `si`
+
+තැපැල් දෙපාර්තමේන්තුවට අයත් නාරාහේන්පිට පිහිටි යාන්ත්‍රික ඉංජිනේරු අංගණයේ ඉකුත් වසර 05ක කාලයේදී වාහන අමතර කොටස් මිලදී ගැනීමට සේවකයන් සඳහා වැය වී ඇති අතිකාල දීමනා සඳහා රුපියල් තිස්කෝටි හතළිස් හත් ලක්ෂයකට අධික මුදලක් (304,702,219) අය කර ඇති අතර, අලුත්වැඩියා කළ වාහන සංඛ්‍යාව එක් එක් වාහනයකට බෙදනු ලැබූ අමතර කොටස් පිළිබඳ ටයර් ටියුබ් සහ බැටරිවල තොරතුරු විගණනයට ඉදිරිපත් කර නොතිබුණි.
+
+මේ නිසා වියදමේ සාධාරණත්වය පිළිබඳ කිසිදු විගණන පරීක්ෂාවක් සිදු කිරීමට නොහැකි වී ඇති බව එම විගණන වාර්තවේ සඳහන් වේ. වැඩ ඇණවුම් පත්‍රිකාවල වාහනවලට යොදා අමතර කොටස් සඳහා හැකි වන අයුරින් සටහන් කර නොතිබීම ලොග් වාර්තාවල කිසිදු අමතර කොටස් අපහැදිලිව සටහන් කිරීම පරිගණකගත කරනු ලැබූ ඉන්වෙස්ට්‍රියන් නඩත්තු කර නොතිබීම සහ අතින් ලියනු ලැබූ ඉන්වෙස්ට්‍රියන් පැහැදිලිව හඳුනාගත හැකි අයුරින් නඩත්තු නොකිරීම හේතුවෙන් යෙදූ අමතර කොටස් පිළිබඳව විගණන පරීක්ෂාවක් සිදු කිරීමට නොහැකි වී ඇත.
+
+...
+
+[Data](articles/92b2a333.json)
+
+---
+
 ### ‘Club Wasantha’ murder: Top cops warned over grilling suspect in front of media
 
 *2024-07-14 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100505/club-wasantha-murder-top-cops-warned-over-grilling-suspect-in-front-of-media) · `en`
@@ -2085,89 +2161,5 @@ He says that affecting Hamas is the opportunity to release hostages.
 [Data](articles/af910d27.json)
 
 [Extended Data](ext_articles/af910d27.ext.json)
-
----
-
-### Skeleton recovery in Colombo
-
-*2024-07-14 15:26:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-எலும்புக்கூடுகள்-மீட்பு/175-340373) · `ta`
-
-During excavation for construction near Colombo's Old Secretariat Office, a Chinese company discovered several human skeletons about 6 feet deep. The bones are believed to be old.
-
-🟩
-
-SAGK near the Old Secretariat Office of Colombo. Colombo port police said that several human skeletons were discovered during the excavation of a Chinese company for construction near the entrance.
-
-The bones have been found at a depth of about 6 feet and have been old for years, police said.
-
-◼️
-
-[Data](articles/b9005397.json)
-
-[Extended Data](ext_articles/b9005397.ext.json)
-
----
-
-### After Sri Lanka, Adani plans to build port in Vietnam to tap trade opportunities
-
-*2024-07-14 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100500/after-sri-lanka-adani-plans-to-build-port-in-vietnam-to-tap-trade-opportunities) · `en`
-
-Billionaire Gautam Adani plans to build a port in Vietnam as the conglomerate seeks to develop infrastructure overseas to tap opportunities from increasing trade.
-
-Adani Ports and Special Economic Zone Ltd. has secured an “in-principle approval from the Vietnamese government” for a greenfield development in Da Nang, Karan Adani, Managing Director of the company, said in an interview.
-
-The project, which will have container terminals and multipurpose berths to handle various types of cargo, is at an early stage of planning and the total investment required hasn’t been finalized yet, he said.
-
-This will be the fourth international port asset for the Adani group after Haifa in Israel, Colombo in Sri Lanka and the Port of Dar es Salaam in Tanzania.
-
-...
-
-[Data](articles/4f2af1c1.json)
-
-[Extended Data](ext_articles/4f2af1c1.ext.json)
-
----
-
-### Moulas arrested for hair cut in a girl during a bus
-
-*2024-07-14 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198794) · `si`
-
-A man was arrested by Kandy Police after cutting a young girl's hair on a bus. The incident occurred near Katugastota-Wattarathna Junction, where the suspect, identified as a molevian, was apprehended by the conductor and other passengers. He was found hiding in a paddy field along the Kandy-Wattegama road.
-
-🟩
-
-The Kandy Police has arrested a person who had been identified as a molevian that was a molevian who had been cut off about a foot of a young girl during a passenger bus.
-
-The suspect, who was sitting in the paddy field in the Kandy-Wattegama road, had told the Kandy Police that the suspect had been cut off in a half of his band's faces.
-
-The youngest passengers were asked to shoot his hair from Katugastota-Wattarathna Junction.
-
-The conductor and several passengers came and seized the suspect.
-
-The suspect was later brought by the bus and handed over to the Kandy Police.
-
-◼️
-
-[Data](articles/454866bb.json)
-
-[Extended Data](ext_articles/454866bb.ext.json)
-
----
-
-### Ukraine to rely on NATO
-
-*2024-07-14 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188440) · `ta`
-
-NATO's military aid to Ukraine worries Moscow, viewing it as a step towards direct conflict with Russia.
-
-🟩
-
-Moscow has warned that NATO's military aid will be a serious situation as war operations in Ukraine will be dangerous.. Russia has said that military aid to Ukraine of the ruling leaders of major countries in NATO is the result of the direct war with Russia.
-
-◼️
-
-[Data](articles/4636d607.json)
-
-[Extended Data](ext_articles/4636d607.ext.json)
 
 ---

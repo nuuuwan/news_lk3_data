@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 22:35:27**
+As of **2024-07-15 22:53:46**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,410 (100.0%) of 35,414 articles have been extended.
+35,414 (100.0%) of 35,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### ජීවිත අවදානම අවම කරන කෝපි
+### Coffee that minimizes life risk
 
 *2024-07-15 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198850) · `si`
 
-දිනකට පැය හයකට වැඩි කාලයක් අසුන් ගෙන සිටින රැකියාවක් කරන පුද්ගලයෙක්ට දෛනිකව එක් කෝපි කෝප්පයක් හෝ පානය කිරීමෙන් ජීවිත අවදානම අඩුකරගත හැකි බව චීන වෛද්‍ය විද්‍යාලයක් කළ පර්යේෂණයකින් අනාවරණය වී තිබේ.
+Chinese medical college research shows that prolonged sitting (over six hours daily) increases life risk. Drinking coffee can counteract this by reducing negative biochemical effects. This study involved over 13,000 Americans.
 
-පුද්ගලයකු දිනකට පැය හයකට වැඩි කාලයක් අසුන්ගෙන සිටීමෙන් දිගුකාලීනව බෝ නොවන රෝගවලට ගොදුරුවීමේ වැඩි ප්‍රවණතාවක් පවතින අතර කෝපි පානය මගින් සිරුරේ ජෛව රසායනික ප්‍රතික්‍රියා ආශ්‍රිත ගැටලුවල අවදානම අඩු කරන බව පර්යේෂකයින් පෙන්වා දෙයි.
+🟩
 
-මෙය හෙළි වී ඇත්තේ අමෙරිකානුවන් 10,000කට වැඩි පිරිසක් යොදාගෙන වසර 13ක් තිස්සේ සිදුකළ පර්යේෂණයක් ඇසුරිනි.
+Research by a Chinese medical college has revealed that a person who is seated for more than six hours a day can reduce the risk of life.
+
+Researchers point out that a person is sitting for more than six hours a day, and the coffee will reduce the risk of the body of biochemical reactions.
+
+This has revealed that over 13,000 Americans have been conducting research.
 
 ◼️
 
 [Data](articles/54fcd20b.json)
+
+[Extended Data](ext_articles/54fcd20b.ext.json)
 
 ---
 
@@ -60,31 +66,45 @@ The payments arrears for fuel imports were accumulated over several years due to
 
 [Data](articles/b7d64ad2.json)
 
+[Extended Data](ext_articles/b7d64ad2.ext.json)
+
 ---
 
-### போராட்டத்தில் கலந்துகொள்ளாத அரச ஊழியர்களுக்கு மகிழ்ச்சியான செய்தி
+### Happy news to public servants who did not participate in the struggle
 
 *2024-07-15 22:02:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டத்தில்-கலந்துகொள்ளாத-அரச-ஊழியர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-340452) · `ta`
 
-சமீபத்திய வேலைநிறுத்தத்தின் போது பணிக்கு சமூகமளித்த நிர்வாக தர மட்டத்திற்கு கீழ் உள்ள அனைத்து அரசு ஊழியர்களுக்கும் 10,000 ரூபாய் ஒருமுறை கொடுப்பனவை வழங்குவதற்கு ஜனாதிபதியினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது
+The government has approved a proposal to grant a 10,000 rupee allowance to non-participating civil servants at the executive level and below, following a recent strike.
+
+🟩
+
+The Cabinet has approved the proposal put forward by the president to pay a permit of 10,000 rupees to all civil servants under the standard level of the executive level during the recent strike.
 
 ◼️
 
 [Data](articles/f1a250bd.json)
 
+[Extended Data](ext_articles/f1a250bd.ext.json)
+
 ---
 
-### உடன் அமுலாகும் வகையில் விலை குறைப்பு
+### Reduction
 
 *2024-07-15 21:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்-அமுலாகும்-வகையில்-விலை-குறைப்பு/175-340451) · `ta`
 
-மின்சார கட்டணம் குறைக்கப்படும் நிலையில், உடன் அமுலாகும் வகையில் உணவுப் பொருட்கள் சிலவற்றின் விலைகளும் குறைக்கப்பட்டுள்ளதாக சிற்றுண்டிச்சாலைகள் மற்றும் விருந்தக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+Electricity tariff cuts led to price reductions in certain foods, including Barada, egg bread, and snacks, by 10 rupees, according to the snacks and hospital owners' association.
 
-பராட்டா, முட்டை ரொட்டி மற்றும் சிற்றுண்டிகள் என்பன 10 ரூபாவினால் குறைக்கப்பட்டுள்ளன. R
+🟩
+
+With the reduction of electricity tariffs, some of the food prices have been reduced, the snacks and hospital owners' association said.
+
+Barada, egg bread and snacks have been reduced by 10 rupees. Remble
 
 ◼️
 
 [Data](articles/370b5685.json)
+
+[Extended Data](ext_articles/370b5685.ext.json)
 
 ---
 

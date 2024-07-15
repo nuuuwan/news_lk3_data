@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 00:35:29**
+As of **2024-07-16 00:53:05**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,416 (100.0%) of 35,425 articles have been extended.
+35,422 (100.0%) of 35,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### ’சம்பிரதாய அரசியல் வேண்டாம்’
+### Do not formal politics
 
 *2024-07-16 00:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பிரதாய-அரசியல்-வேண்டாம்/175-340465) · `ta`
 
-சம்பிரதாய அரசியலில் இருந்து விலகி நாட்டைப் பற்றி சிந்திக்கும் அரசியல் கலாச்சாரம் நாட்டின் முன்னேற்றத்திற்கு அவசியமானது என ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe emphasized the importance of national progress, urging unity among political leaders from both the ruling and opposition parties to bolster the economy. He made these remarks during a meeting with lawyers at the Presidential Office, highlighting the collective responsibility to advance the nation.
 
-ஆளும் கட்சி மற்றும் எதிர்க்கட்சி என அனைத்து அரசியல் தலைவர்களுக்கும் வழங்கப்பட்டுள்ள பொறுப்பை குறைத்து மதிப்பிட முடியாது எனவும் நாட்டின் பொருளாதாரத்தை மேம்படுத்துவதற்கான வேலைத்திட்டத்திற்கு அனைவரும் ஆதரவளிக்க வேண்டும் என்றும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-ஜனாதிபதி அலுவலகத்தில் அண்மையில் நடைபெற்ற சட்டத்தரணிகளுடனான சந்திப்பிலேயே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். (a)
+President Ranil Wickremesinghe stressed that the country's progress is essential for the progress of the country.
+
+He said that the responsibility of all political leaders, such as the ruling party and the opposition party, cannot be underestimated and everyone should support the program to improve the country's economy.
+
+The President said this at a recent meeting with lawyers at the Presidential Office. (A)
 
 ◼️
 
 [Data](articles/3933459a.json)
+
+[Extended Data](ext_articles/3933459a.ext.json)
 
 ---
 
@@ -62,6 +68,8 @@ Herath’s distinguished career includes roles such as Marketing Development Man
 
 [Data](articles/d3f0caeb.json)
 
+[Extended Data](ext_articles/d3f0caeb.ext.json)
+
 ---
 
 ### WISTA Sri Lanka to present influential event with global transformation leader Karen Leong in celebration of 10th anniversary
@@ -77,6 +85,8 @@ Influence Solutions Managing Director Karen Leong, is an award-winning organisat
 ...
 
 [Data](articles/7d438fd7.json)
+
+[Extended Data](ext_articles/7d438fd7.ext.json)
 
 ---
 
@@ -96,6 +106,8 @@ The Association of Chartered Certified Accountants (ACCA), the largest professio
 
 [Data](articles/0e5f9e81.json)
 
+[Extended Data](ext_articles/0e5f9e81.ext.json)
+
 ---
 
 ### LKI Foreign Policy Forum discusses ‘Debt restructuring outcome and economic diplomacy and foreign policy’
@@ -112,6 +124,8 @@ Sri Lanka’s imperative need to enact growth-oriented reforms particularly in g
 
 [Data](articles/c19353df.json)
 
+[Extended Data](ext_articles/c19353df.ext.json)
+
 ---
 
 ### Role of Company Secretary/Corporate Secretary in Sri Lanka: Evolving responsibilities
@@ -127,6 +141,8 @@ Historically, the Company Secretary’s duties were primarily administrative and
 ...
 
 [Data](articles/1e0ff795.json)
+
+[Extended Data](ext_articles/1e0ff795.ext.json)
 
 ---
 

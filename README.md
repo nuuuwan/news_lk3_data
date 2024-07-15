@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 21:54:54**
+As of **2024-07-15 22:08:53**
 
 ## Newspaper Stats
 
-*Scraped **35,406** Articles*
+*Scraped **35,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 2,004
 economynextcom | 2,100
 dailyftlk | 2,231
 adalk | 3,192
-adaderanalk | 4,084
+adaderanalk | 4,085
 tamilmirrorlk | 4,273
 dailymirrorlk | 4,733
-virakesarilk | 5,514
-adaderanasinhalalk | 5,920
+virakesarilk | 5,516
+adaderanasinhalalk | 5,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,406 (100.0%) of 35,406 articles have been extended.
+35,406 (100.0%) of 35,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### වර්ජනය නොකර වැඩට ආ රජයේ සේවකයින් ට රු. 10,000ක්
+
+*2024-07-15 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198849) · `si`
+
+පසුගිය දිනවල දියත්කළ වැඩවර්ජනයට එක් නොවී සේවයට වාර්තා කළ විධායක ශ්‍රේණියට පහළ රාජ්‍ය සේවකයන්ට දීමනාවක් ලබාදීමට රජය තීරණය කර තිබේ.
+
+ඒ අනුව එම සේවකයින් සඳහා එක්වර රු. 10,000ක දීමනාවක් සහ සහතිකයක් ලබාදීමට ජනපති ගෙන ආ යෝජනාවට කැබිනට් අනුමැතිය හිමිවිය.
+
+◼️
+
+[Data](articles/f78db835.json)
+
+---
+
+### Cabinet nod for one-time allowance to govt workers who reported to duty despite strike
+
+*2024-07-15 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100538/cabinet-nod-for-one-time-allowance-to-govt-workers-who-reported-to-duty-despite-strike) · `en`
+
+The Cabinet of Ministers has approved a proposal to pay a Rs. 10,000 one-time allowance to all government employees below Executive Grade level who reported for duty during the recent strike.
+
+According to the proposal which was presented by President Ranil Wickremesinghe, approval has also been granted to award the relevant government sector employees with a certificate of appreciation.
+
+◼️
+
+[Data](articles/a62e0cc3.json)
+
+---
 
 ### A lot of files shown by Anura, they are empty - President
 
@@ -49,6 +77,42 @@ In a meeting with legal experts, the President criticized a national movement le
 [Data](articles/5cdfaac2.json)
 
 [Extended Data](ext_articles/5cdfaac2.ext.json)
+
+---
+
+### முச்சக்கர வண்டி கட்டணம் குறைப்பு - இலங்கை முச்சக்கர வண்டி சாரதிகள் சங்கம்
+
+*2024-07-15 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188554) · `ta`
+
+மேல் மாகாணத்தில் திங்கட்கிழமை (15) நள்ளிரவு முதல் முச்சக்கர வண்டிகளுக்கான கட்டணங்களில் திருத்தம் மேற்கொள்ளப்படவுள்ளதாக அகில இலங்கை முச்சக்கர வண்டி சாரதிகள் சங்கம் தெரிவித்துள்ளது.
+
+முதலாவது கிலோமீட்டருக்கான கட்டணம் 100 ரூபாவும் இரண்டாவது கிலோமீட்டருக்காக அறவிடப்படும் கட்டணத்தில் 10 ரூபாவினால் குறைக்கப்படும் என அதன் தலைவர் லலித் தர்மசேகர தெரிவித்துள்ளார்.
+
+அதற்கமைய, மேல் மாகாணத்திற்குள் முதலாவது கிலோமீட்டருக்கான கட்டணம் 100 ரூபா எனவும் இரண்டாவது கிலோமீட்டர் முதல் 90 ரூபா அறவிடப்படும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/850409f6.json)
+
+---
+
+### நிறைவிற்குக் கொண்டுவரப்பட்ட கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வு பணி ; இதுவரை 52 மனித எச்சங்கள் அகழ்வு!
+
+*2024-07-15 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188553) · `ta`
+
+முல்லைத்தீவு கொக்குத்தொடுவாய் மனிதப்புதைகுழியின் மூன்றாம் கட்ட அகழ்வின், பத்தாம் நாள் அகழ்வாய்வு செயற்பாடுகள் திங்கட்கிழமை (15.07.2024) தொடர்ச்சியாக முன்னெடுக்கப்பட்டிருந்தது.
+
+முல்லைத்தீவு கொக்குத்தொடுவாய் மனித புதைகுழியின் மூன்றாம் கட்ட அகழ்வாராய்ச்சியின் 10ஆவது நாளான இன்று ஐந்து மனித எச்சங்கள் முழுமையாக வெளியே அகழ்ந்து எடுக்கப்பட்டுள்ளதுடன் துப்பாக்கி சன்னம், திறப்பு கோர்வை ஒன்றும் மீட்கப்பட்டுள்ளது.
+
+இரண்டு கட்டங்களிலும் அகழ்ந்தெடுக்கப்பட்ட 40 மனித எச்சங்களுக்கு மேலதிகமாக மூன்றாம் கட்ட அகழ்வு பணியின் போது இன்றுடன் 52 மனித எச்சங்கள் அடையாளம் காணப்பட்டு அகழ்ந்தெடுக்கப்பட்டுள்ளது.
+
+முல்லைத்தீவு நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில், தொல்லியல் பேராசிரியர் ராஜ் சோமதேவ உள்ளிட்ட குழுவினர் , முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி க.வாசுதேவ, தடயவியல் பொலிசார், சட்டத்தரணி வி.கே.நிரஞ்சன், கிராம சேவையாளர் உள்ளிட்ட தரப்பினரின் பங்குபற்றுதல்களுடன் பத்தாம் நாள் அகழ்வாய்வுகள் இடம்பெற்றிருந்தன.
+
+இது தொடர்பாக விஷேட சட்ட வைத்திய நிபுணர் கனகசபாபதி வாசுதேவ கருத்து தெரிவிக்கும் பாேது,
+
+...
+
+[Data](articles/a01ed75a.json)
 
 ---
 
@@ -71,6 +135,24 @@ It should be noted at this time that the climate that prevailed at this time is 
 [Data](articles/7bddd0b5.json)
 
 [Extended Data](ext_articles/7bddd0b5.ext.json)
+
+---
+
+### Climate Reduction - Here are the full details!
+
+*2024-07-15 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188547) · `ta`
+
+Sri Lanka's Public Use Commission approved a 22.5% reduction in power supply, effective from Tuesday, urging conservation. This marks the second such measure this year, with a proposed 5% fee increase. The commission also introduced relief for small and medium businesses and adjusted tariffs for various sectors, including religious institutions. Seven conditions were set for the Ceylon Electricity Board, including audits and fuel contracts.
+
+🟩
+
+Sri Lanka's Public Use Commission has granted permission to reduce the power supply by 22.5 per cent.. The Commission has instructed the Ceylon Electricity Board to implement the new tariff amendment from Tuesday (16).The Commission has urged the Minorpanati to avoid wasting electricity in order to reduce the power supply.For the second time this year, the Ceylon Electricity Board (CEB) has made the proposals and the public opinion on the revision of the Ceylon Electricity Board (CEB). The Commission has decided to revise the fee by 5 per cent.The Commission said that the Relief for Small and Medium Entrepreneurs will be available to small and medium entrepreneurs. The Commission of Public Use of Commission said at a media briefing held at the Sri Lanka Public Use of Commission yesterday.The Commission has decided to reduce the data by 22.5 per cent, even though the Ceylon Electricity Board's proposal has recommended to reduce the full power supply by 10 per cent.
+
+...
+
+[Data](articles/86fbbd99.json)
+
+[Extended Data](ext_articles/86fbbd99.ext.json)
 
 ---
 
@@ -317,24 +399,6 @@ This year’s conference, themed “Capitalizing on the Olympic Opportunity,’ 
 [Data](articles/9ebc3593.json)
 
 [Extended Data](ext_articles/9ebc3593.ext.json)
-
----
-
-### Climate Reduction - Here are the full details!
-
-*2024-07-15 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188547) · `ta`
-
-Sri Lanka's Public Use Commission approved a 22.5% reduction in power supply, effective from Tuesday, urging conservation. This marks the second such measure this year, with a proposed 5% fee increase. The commission also introduced relief for small and medium businesses and adjusted tariffs for various sectors, including religious institutions. Seven conditions were set for the Ceylon Electricity Board, including audits and fuel contracts.
-
-🟩
-
-Sri Lanka's Public Use Commission has granted permission to reduce the power supply by 22.5 per cent.. The Commission has instructed the Ceylon Electricity Board to implement the new tariff amendment from Tuesday (16).The Commission has urged the Minorpanati to avoid wasting electricity in order to reduce the power supply.For the second time this year, the Ceylon Electricity Board (CEB) has made the proposals and the public opinion on the revision of the Ceylon Electricity Board (CEB). The Commission has decided to revise the fee by 5 per cent.The Commission said that the Relief for Small and Medium Entrepreneurs will be available to small and medium entrepreneurs. The Commission of Public Use of Commission said at a media briefing held at the Sri Lanka Public Use of Commission yesterday.The Commission has decided to reduce the data by 22.5 per cent, even though the Ceylon Electricity Board's proposal has recommended to reduce the full power supply by 10 per cent.
-
-...
-
-[Data](articles/86fbbd99.json)
-
-[Extended Data](ext_articles/86fbbd99.ext.json)
 
 ---
 
@@ -2275,113 +2339,5 @@ The next day, by the Northern Provincial Health Department, Dr. K.. Rajeev has b
 [Data](articles/964b1c66.json)
 
 [Extended Data](ext_articles/964b1c66.ext.json)
-
----
-
-### Killing and killing the trader
-
-*2024-07-15 11:01:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வர்த்தகரை-வாகனத்தில்-கடத்தி-கொன்று-கொளுத்தி-கொலை/75-340424) · `ta`
-
-A trader named Jayarupan, 42, was killed in a dispute, his body found burnt in a forest near Trincomalee. Three suspects, ages 48, 51, and 24, were arrested. Two more suspects, ages 26 and 29, fled the scene. The case is under investigation by the Morawewa and Uppuweli police, with the body being sent for examination.
-
-🟩
-
-Uppuweli police said that a body was recovered from the Trincomalee forest as a vehicle was completely burnt.
-
-The body has been recovered from the Pan Madhavasi forest area of ​​the Morawewa police division, the body has been recovered from the Trincomalee-Anuradhapura main road for about an hour.
-
-Uppuveli police said that the body was recovered at the Uppuweli police station in Trincomalee, who was identified as Jayarupan (age 42) from Selvanayagam Puram area.
-
-Jayaruban was taken from the house at around 2 am on Friday (12) at 2 am, and then he was attacked by a clash between the two sides and then disappeared by Jayarupan's family at the Uppuveli police station.
-
-The three -year -olds, aged 48, 51 and 24, were arrested on suspicion of the incident.. The trio were obtained from the trio.
-
-Accordingly, the Morawewa and Uppuweli police recovered the burned body in the forest area where the furious area was found.
-
-...
-
-[Data](articles/687ea128.json)
-
-[Extended Data](ext_articles/687ea128.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 300.60/90 to US dollar
-
-*2024-07-15 10:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-300-60-90-to-us-dollar-172065/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened  stronger at 300.60/90 to the US dollar on Monday, dealers said. Bond yields were down and stocks were up, in the first hour of trading they said.
-
-The rupee closed at 301.70/302.00 to the greenback on Friday.
-
-A bond maturing on 15.12.2026 was quoted at 10.80/88 percent, down 10.90/11.00 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.73/78 percent, down from 11.75/80 percent.
-
-A bond maturing on 01.05.2028 was quoted at 11.85/90 percent, down from 11.90/12.00 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.10/15 percent, down from 12.10/30 percent.
-
-In equities, Colombo’s All Share Price Index opened 20.70 points higher at 11,864, while the S&P SL20 of more liquid stocks opened up at 0.47 percent or 16.15 points to 3,470.
-
-◼️
-
-[Data](articles/0ee3325a.json)
-
-[Extended Data](ext_articles/0ee3325a.ext.json)
-
----
-
-### 58 out of 100 paid and give the rest to six years - Maithri
-
-*2024-07-15 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198820) · `si`
-
-Maithripala Sirisena, former President, told the Supreme Court he had paid 58% of a debt and requested the court to allow him six more years to settle the remainder.
-
-🟩
-
-Former President Maithripala Sirisena has informed the Supreme Court that Rs.
-
-The former President has also asked the court to give the remaining six years to pay the rest of the money.
-
-◼️
-
-[Data](articles/f057f410.json)
-
-[Extended Data](ext_articles/f057f410.ext.json)
-
----
-
-### රන් බිස්කට් හොරෙන් ගෙනා මන්ත්‍රී අලි සබ්රි අධික වටිනාකමින් යුත් රජයේ ඉඩමක් බලෙන් අල්ලාගෙන
-
-*2024-07-15 10:57:14* · [`adalk`](https://www.ada.lk/breaking_news/රන්-බිස්කට්-හොරෙන්-ගෙනා-මන්ත්‍රී-අලි-සබ්රි-අධික-වටිනාකමින්-යුත්-රජයේ-ඉඩමක්-බලෙන්-අල්ලාගෙන/11-410789) · `si`
-
-Puttalam District MP Ali Sabire Rhime allegedly illegally acquired valuable government land near the Telecom office and old Ashoka cinema hall, using his power to misuse it for commercial purposes. The land, adjacent to his family's international company, was used without permission, leading to legal issues. Despite inquiries and warnings, the situation remains unresolved, highlighting concerns about misuse of power and legal violations.
-
-🟩
-
-It is reported that Puttalam District MP Ali Sabire Rhime has been illegal
-
-The land is almost adjacent to the Telecom of Puttalam and the old Ashoka cinema Hall.
-
-The land has recently acquired the delegation of his powers by misuse his powers.
-
-The land is currently charged with a commercial value of an commercial value in Puttalam and is charged with plates.
-
-Inquiry, Puttalam District Parliamentarian Ali Sabri Rhim, inquiry, inquiry, inquiry, inquiry into the allegations.
-
-“ඇත්තටම මේ ඉඩම මම අල්ලගෙන නැහැ එයට යාබදව තිබෙන ඉඩම බදු පදනමින් ලබා ගැනිම කලා.එය කලේ මගේ පවුලේ අයට අයත් ඉන්ටර්නැෂනල් සමාගමක වාහන වාහන ගාල් කිරීමේ ස්ථානයක් ආරම්භ කරන්න.
-
-The land that was not next to the land was then adjacent to our family's international company to our family. The smarts are often walking from there.
-
-Therefore, the adjoining land and the plates are not waiting until our construction is over.
-
-We have written the Department of Vidyalaya from me because we had letters.
-
-...
-
-[Data](articles/503b878d.json)
-
-[Extended Data](ext_articles/503b878d.ext.json)
 
 ---

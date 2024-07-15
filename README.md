@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 20:54:30**
+As of **2024-07-15 21:06:45**
 
 ## Newspaper Stats
 
-*Scraped **35,403** Articles*
+*Scraped **35,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,82 +17,146 @@ economynextcom | 2,100
 dailyftlk | 2,231
 adalk | 3,192
 adaderanalk | 4,084
-tamilmirrorlk | 4,272
+tamilmirrorlk | 4,273
 dailymirrorlk | 4,733
-virakesarilk | 5,513
+virakesarilk | 5,514
 adaderanasinhalalk | 5,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,399 (100.0%) of 35,403 articles have been extended.
+35,403 (100.0%) of 35,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### මොරටුව කැලඹූ ඝාතනයේ සුලමුල හෙළිවෙයි
+### 2024 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் விவசாய ஏற்றுமதித் துறையில் தெளிவான வளர்ச்சி ஏற்பட்டுள்ளது - பி.எல்.ஏ.ஜே. தர்மகீர்த்தி
+
+*2024-07-15 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188552) · `ta`
+
+கடந்த இரண்டு வருடங்களுடன் ஒப்பிடும்போது, 2024 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் விவசாய ஏற்றுமதித் துறையில் தெளிவான வளர்ச்சி ஏற்பட்டுள்ளதாக விவசாய மற்றும்  பெருந்தோட்டக் கைத்தொழில் அமைச்சின் செயலாளர் பி.எல்.ஏ.ஜே. தர்மகீர்த்தி தெரிவித்தார்.
+
+2022 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2023 ஆம் ஆண்டு பதிவாகியிருந்த விவசாய ஏற்றுமதி வருமானத்தின் பாதகமான நிலைமையைக் கட்டுப்படுத்த எடுக்கப்பட்ட துரித நடவடிக்கைகளின் காரணமாக இந்த முன்னேற்றம் சாத்தியமாகியுள்ளதாகவும் அவர் குறிப்பிட்டார்.
+
+'இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்' என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (15) நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டபோதே  விவசாய மற்றும் பெருந்தோட்ட அமைச்சின் செயலாளர் பி.எல்.ஏ.ஜே. தர்மகீர்த்தி இதனைக் குறிப்பிட்டார்.
+
+"2022 உடன் ஒப்பிடும்போது, 2023 இல் விவசாய ஏற்றுமதி வருமானம் குறைந்துள்ளது.  அதன்படி எடுக்கப்பட்ட துரித நடவடிக்கைகள் காரணமாக 2024 இன் முதல் ஆறு மாதங்களில் விவசாய ஏற்றுமதித் துறையில் தெளிவான வளர்ச்சியை உருவாக்க முடிந்தது.
+
+...
+
+[Data](articles/7bddd0b5.json)
+
+---
+
+### Moratuwa Todipeda murder revealed
 
 *2024-07-15 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198847) · `si`
 
-මොරටුව, ලක්ෂපතිය රතුකුරුසවත්ත ප්‍රදේශයේ නිවසක තියුණු ආයුධයකින් කපා කොටා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් මරණකරුගේ බිරිඳ සහ ඇගේ සොහොයුරා අත්අඩංගුවට ගෙන තිබේ.
+In Moratuwa, two individuals, including the deceased's wife and brother, have been arrested for the murder of a 41-year-old man named Harndra Kumara, also known as 'little brother'. The victim was hacked to death with a sharp weapon in Red Catticicitawatta.
 
-මොරටුව පොලීසිය විසින් එම සැකකරුවන් අත්අඩංගුවට ගත් බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+🟩
 
-මොරටුව ලක්ෂපතිය රතුකුරුසවත්ත ප්‍රදේශයේ නිවසක අද (15) අලුයම තියුණු ආයුධයකින් කපා කොටා පුද්ගලයෙකු ඝාතනය කර තිබුණි.
+The deceased's wife and her brother have arrested her brother and her brother in connection with the murder of a person who was hacked to death in a sharp weapon in the Red Catticicicicitawatta.
 
-මරණකරු හරේන්ද්‍ර කුමාර නොහොත් 'පොඩි අයියා' නැමැති 41 හැවිරිදි පුද්ගලයෙකි.
+The suspects were arrested by the Moratuwa police said, "Ada Derana reporter said.
 
-විමර්ශනවලදී හෙළිවී ඇත්තේ මරණකරු බිරිඳ සමග ඇතිවූ ආරවුලක් දුරදිග ගොස් බිරිඳ තම සහෝදරයා නිවසට කැඳවා ඔහුගේද සහාය ඇතිව තියුණු ආයුධයකින් පහරදී ඝාතනය සිදුකර ඇති බවය.
+Laxathawathiya, Moratuwa had been hacked to death in a sharp weapon in the Red Catticicitawatta today (15).
+
+The deceased Harndra Kumara alias 'little brother' is a 41 year old man.
+
+Investigations have revealed that his brother summoned his brother home and summoned his brother to her brother with a sharp object with a sharp object.
 
 ◼️
 
 [Data](articles/8ee01ae2.json)
 
+[Extended Data](ext_articles/8ee01ae2.ext.json)
+
 ---
 
-### அவசியமான வெற்றியை ஈட்டிய கண்டி பெல்கன்ஸின் இறுதிச் சுற்று வாய்ப்பு தம்புள்ள போட்டி முடிவில் தங்கியிருக்கிறது
+### The final round of Kandy Belgons, who has achieved the necessary success, depends on the end of the match
 
 *2024-07-15 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188551) · `ta`
 
-கெத்தாராம ஆர். பிரேமதாச விளையாட்டரங்கில்  திங்கட்கிழமை (15)  நடைபெற்ற ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 18ஆவது போட்டியில் தம்புள்ள சிக்சர்ஸ் அணியை 54 ஓட்டங்களால் நடப்பு சம்பியன் கண்டி பெல்கன்ஸ் அணி வெற்றிகொண்டது.
+In the 18th match of the Lanka Premier League, Kandy Belgons secured a 54-run victory against Dambulla Sixers, advancing to 4th place with 6 points. Their success hinges on the outcome of their next match against the Sixer Sixers. Kandy Belgons' batting lineup, including contributions from Under Plecher (60), Mohammed Haris (24), Hazaranga (25), Kamundu Mendis (51*), and Angelo Mathews (44), totalled 224 runs. Dambulla Sixers, despite Gusal Perera's 74 runs, lost by 56 runs due to their inability to chase down the target.
 
-இந்த வெற்றியுடன் அணிகள் நிலையில் கண்டி பெல்கன்ஸ் 6 புள்ளிகளுடன் 4ஆம் இடத்திற்கு முன்னேறியுள்ளது.
+🟩
 
-எனினும் இந்த வருடம் லங்கா பிறீமியர் லீக் இறுதிச் சுற்றுக்கான தகுதி கிடைக்குமா இல்லையா என்ற இரண்டும் கெட்டான் நிலையில் இருக்கும் கண்டி பெல்கன்ஸின் தலைவிதி தம்புள்ள  சிக்சர்சின் எஞ்சியுள்ள போட்டி முடிவிலேயே தங்கியிருக்கிறது.
+Ketharama r. In the 18th match of the Fifth Lanka Premier League chapter held on Monday (15) at the Premadasa Stadium, the current Champions Kandy Felgons team won by 54 runs.
 
-இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கண்டி பெல்கன்ஸ் மிகத் திறமையாகத் துடுப்பெடுத்தாடி 20 ஓவர்களில் 4 விக்கெட்களை இழந்து 224 ஓட்டங்களைக் குவித்தது.
+With this victory, Kandy Belgons advanced to 4th place with 6 points.
 
-அண்ட்றே ப்ளெச்சர் 34 பந்துகளில் 60 ஓட்டங்களையும் மொஹம்த் ஹரிஸ் 24 ஓட்டங்களையும் வனிந்து ஹசரங்க 25 ஓட்டங்களையும் பெற்றனர்.
+However, the fate of Kandy Belgons, who is in a state of disgust whether or not the final round of the Lanka Premier League this year, is at the end of the Sixer Sixers.
 
-கமிந்து மெண்டிஸ் 25 பந்துகளில் 51 ஓட்டங்களுடனும் ஏஞ்சலோ மெத்யூஸ் 23 பந்துகளில் 5 சிக்ஸ்கள் அடங்கலாக 44 ஓட்டங்களுடனும் ஆட்டம் இழக்காதிருந்தனர்.
+Kandy Belgons, who was first invited to bat in today's match, scored 224 runs for the loss of 4 wickets in 20 overs.
+
+The Undre Plecher scored 60 runs off 34 balls, Mohammed Haris 24 and Hazaranga 25 runs.
+
+Kamundu Mendis did not play 51 off 25 balls and Angelo Mathews scored 44 off 23 balls.
+
+They shared 95 runs off 45 balls in the 5th wicket that were not divided.
+
+Dambulla Sixers lost 9 wickets in 20 overs and lost 168 runs.
+
+Gusal Perera showed a lonely talent and scored 74 off 40 balls with 5 pounds and 5 sixes. When he lost the game, the expectation of Dambulla's Sixers was shattered.
 
 ...
 
 [Data](articles/f0a83277.json)
 
+[Extended Data](ext_articles/f0a83277.ext.json)
+
 ---
 
-### ක්ලබ් වසන්තගේ ‍දේහය තිබූ මල්ශාලාවට ආ තර්ජනය ගැන හෙළිදරව්වක්
+### பியூமி கைது? சட்டமா அதிபர் கூறுவது என்ன?
+
+*2024-07-15 20:28:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-கைது-சட்டமா-அதிபர்-கூறுவது-என்ன/175-340450) · `ta`
+
+பணமோசடி தொடர்பில் விசாரணைக்கு உட்படுத்தப்பட்டுள்ள நடிகை பியுமி ஹன்சமாலி எதிர்வரும் செப்டெம்பர் 20ஆம் திகதி வரை கைது செய்யப்படமாட்டார் என சட்டமா அதிபர் மேன்முறையீட்டு நீதிமன்றில் அறிவித்துள்ளார்.
+
+ஆனால், பியுமி ஹன்சமாலிக்கு எதிரான விசாரணைகள் தடையின்றி தொடரலாம் என்றும் நீதிமன்றத்திற்கு தெரிவிக்கப்பட்டுள்ளது.
+
+பியுமி ஹன்சமாலி தம்மை கைது செய்ய தடை உத்தரவு பிறப்பிக்குமாறு கோரி தாக்கல் செய்யப்பட்ட ரிட் மனு இன்று (15) பரிசீலிக்கப்பட்ட போதே இந்த அறிவிப்பு விடுக்கப்பட்டுள்ளது.
+
+விசாரணைகள் முடியும் வரை மனுதாரரை கைது செய்ய மாட்டோம் என சட்டமா அதிபர் சார்பில் ஆஜரான பிரதி சொலிசிட்டர் ஜெனரல் நீதிமன்றத்திற்கு அறிவித்தார்.
+
+அதன்படி, மனு மேலதிக பரிசீலனைக்காக எதிர்வரும் செப்டம்பர் 20-ம் திகதிக்கு ஒத்திவைக்கப்பட்டது. R
+
+◼️
+
+[Data](articles/eceab574.json)
+
+---
+
+### A revelation of the threat to the Malzala, the body of Club Wasantha
 
 *2024-07-15 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198846) · `si`
 
-ක්ලබ් වසන්තගේ දේහය තැන්පත් නොකරන ලෙස පෞද්ගලික මල්ශාලාවට තර්ජනාත්මක ඇමතුම් ලබාදී ඇත්තේ ‍මාතලේ ප්‍රදේශයේ පදිංචි කොළඹ පෞද්ගලික විශ්වවිද්‍යාලයක සිසුවියකගේ නමට ලියාපදිංචි සිම්පතකින් බව පොලීසිය අනාවරණය කරගෙන තිබේ.
+Police investigating the death of Club Wasantha reveal that private calls made to the deceased were not to deposit the body but were instead used to mislead the investigation. Suspect attempts to obstruct justice. Surestra Wasantha Perera moved from Colombo Remand Prison to Mahara Prison. Singer seriously injured; his wife and the owner of the tattoo center critically ill in ICU.
 
-කෙසේ වෙතත් අදාළ සිසුවිය එම සිම්පත භාවිත නොකරන අතර එය භාවිතා කරමින් ඇමතුම ලබාදුන් පුද්ගලයා සොයා විමර්ශන ක්‍රියාත්මකයි.
+🟩
 
-නමුත් එම ඇමතුම් ලබාදුන් ක්‍රියාවලිය තුළින් විමර්ශන නොමඟ යැවීමේ උත්සාහයක් ක්‍රියාත්මකවී ඇත්දැයි පොලිසීය සැකපළකරයි.
+The police have revealed that the private malzelant calls were given to the private malze, not to deposit the body of Club.
 
-මෙ අතර සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් පසුගිය 8 වෙනිදා වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියට අදාළව අත්අඩංගුවේ පසුවන අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයේ හිමිකරු දුලාන් සන්ජුල කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ සිට මහර බන්ධනාගාරයට මාරු කර යවා තිබේ.
+However, the student does not use that SIM and investigations are on the basis of the call using it.
 
-බන්ධනාගාර කොමසාරිස් ජනරාල් තුෂාර උපුල්දෙණිය මහතා ප්‍රකාශ කළේ, ඔහුගේ ආරක්ෂාව සලකා මහර බන්ධනාගාරයට ඊයේ (14) දිනයේදී මාරුකර යැවුණු බවය.
+However, the police suspect the attempt to mislead the investigations through the process of the call.
 
-ඔහු ජුලි 22 වනදා යළි කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිත අතර එදිනට ඔහු රහස් ප්‍රකාශයක් සිදුකිරීමට අවසර ලබාදෙන ලෙස අධිකරණයෙන් ඉල්ලීමක්ද කර තිබුණි.
+Surestra Wasantha Perera has been transferred from the Colombo Remand Prison to the Mahara Prison.
+
+Commissioner General of Prisons Thushara Upuladeniya said he was transferred to Mahara Prison yesterday (14).
+
+He is due to be produced before the Kaduwela Magistrate's Court on July 22 and had requested the court to allow him to permit a secret statement.
+
+Meanwhile, the famous singer of the shooting was seriously injured. The wife of the Welub Wasantha's wife and Tatto Center, the wife of the Tatto Center, is still receiving treatment.
 
 ...
 
 [Data](articles/da8130b8.json)
+
+[Extended Data](ext_articles/da8130b8.ext.json)
 
 ---
 
@@ -226,13 +290,21 @@ This year’s conference, themed “Capitalizing on the Olympic Opportunity,’ 
 
 ---
 
-### மின்கட்டண குறைப்பு - முழுமையான விபரங்கள் இதோ !
+### Climate Reduction - Here are the full details!
 
 *2024-07-15 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188547) · `ta`
+
+Sri Lanka's Public Use Commission approved a 22.5% reduction in power supply, effective from Tuesday, urging conservation. This marks the second such measure this year, with a proposed 5% fee increase. The commission also introduced relief for small and medium businesses and adjusted tariffs for various sectors, including religious institutions. Seven conditions were set for the Ceylon Electricity Board, including audits and fuel contracts.
+
+🟩
+
+Sri Lanka's Public Use Commission has granted permission to reduce the power supply by 22.5 per cent.. The Commission has instructed the Ceylon Electricity Board to implement the new tariff amendment from Tuesday (16).The Commission has urged the Minorpanati to avoid wasting electricity in order to reduce the power supply.For the second time this year, the Ceylon Electricity Board (CEB) has made the proposals and the public opinion on the revision of the Ceylon Electricity Board (CEB). The Commission has decided to revise the fee by 5 per cent.The Commission said that the Relief for Small and Medium Entrepreneurs will be available to small and medium entrepreneurs. The Commission of Public Use of Commission said at a media briefing held at the Sri Lanka Public Use of Commission yesterday.The Commission has decided to reduce the data by 22.5 per cent, even though the Ceylon Electricity Board's proposal has recommended to reduce the full power supply by 10 per cent.
 
 ...
 
 [Data](articles/86fbbd99.json)
+
+[Extended Data](ext_articles/86fbbd99.ext.json)
 
 ---
 
@@ -2299,49 +2371,5 @@ On July 11, 2023, the former President completed paying Rs. 15 million as part o
 [Data](articles/8124030e.json)
 
 [Extended Data](ext_articles/8124030e.ext.json)
-
----
-
-### More than half of Rs. 100 million fine already paid - Maithripala’s lawyers tell SC
-
-*2024-07-15 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100515/more-than-half-of-rs-100-million-fine-already-paid-maithripalas-lawyers-tell-sc) · `en`
-
-Former President Maithripala Sirisena’s lawyers have informed the Supreme Court that Rs. 58 million of the fine of Rs. 100 million imposed on the former President, for failure to prevent the Easter Sunday bomb attacks, has already been paid.
-
-Meanwhile, the former President has also requested the court through his lawyers to extend the payment period for the remaining sum by six years.
-
-On July 11, 2023, the former President completed paying Rs. 15 million as part of the compensation he was ordered to pay to the victims and filed a motion requesting that he be allowed to pay the remaining sum in 10 installments of Rs. 8.5 million from  30 June 2024 to 20 June 2033.
-
-...
-
-[Data](articles/de3b5bae.json)
-
-[Extended Data](ext_articles/de3b5bae.ext.json)
-
----
-
-### Sri Lanka’s WindForce, Vidullanka to acquire shares of Solar Universe
-
-*2024-07-15 10:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-vidullanka-to-acquire-shares-of-solar-universe-172071/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s WindForce Plc and Vidullanka Plc will acquire 36,500,000 ordinary voting shares of Solar Universe (Private) Limited held by HiEnergy Services (Private) Limited for 370 million rupees.
-
-WindForce will pay 185 million rupees to acquire 18,250,000 shares, increasing its shareholding in Solar Universe from 33.3% to 50%.
-
-Vidullanka will, similarly, pay 185 million rupees to acquire 18,250,000 shares, increasing its shareholding from 33.3% to 50%.
-
-Solar Universe (Private) Limited owns and operates the 10MW Vavunathivu solar power plant in Batticaloa District.
-
-Suryashakthi (Pvt) Ltd., a wholly owned subsidiary of Solar Universe, is licensed to develop and operate the
-
-Vavunathivu II solar power plant with an installed capacity of 10MW in Batticaloa.
-
-Solar Universe’s agrivoltaic project “integrates solar energy production with agricultural activities to optimize land use and promote sustainable farming,” WindForce said in a stock exchange filing.
-
-...
-
-[Data](articles/d061384b.json)
-
-[Extended Data](ext_articles/d061384b.ext.json)
 
 ---

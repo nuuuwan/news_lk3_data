@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 10:20:15**
+As of **2024-07-15 10:35:15**
 
 ## Newspaper Stats
 
-*Scraped **35,289** Articles*
+*Scraped **35,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,181
 adaderanalk | 4,060
-tamilmirrorlk | 4,250
+tamilmirrorlk | 4,251
 dailymirrorlk | 4,733
 virakesarilk | 5,502
 adaderanasinhalalk | 5,889
@@ -26,33 +26,57 @@ adaderanasinhalalk | 5,889
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,288 (100.0%) of 35,289 articles have been extended.
+35,289 (100.0%) of 35,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
+### தடுப்பூசி ஏற்றப்பட்ட 11மாணவர்கள் பாதிப்பு
+
+*2024-07-15 10:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பூசி-ஏற்றப்பட்ட-11மாணவர்கள்-பாதிப்பு/175-340417) · `ta`
+
+பாடசாலை மாணவர்கள் குழுவொன்றுக்கு வழங்கப்பட்ட தடுப்பூசியின் காரணமாக 11 பாடசாலை மாணவர்கள் சுகவீனமடைந்து அனுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மிஹிந்தலை சுற்றுவட்டாரப் பகுதிகளில் வசிக்கும் 06 வயதுக்கும் 13 வயதுக்கும் இடைப்பட்ட 11 பாடசாலை மாணவர்கள் தடுப்பூசியைப் பெற்றுக் கொண்டதன் காரணமாக ஆபத்தான நிலைக்குத் தள்ளப்பட்டுள்ளனர்.
+
+மாணவர்கள் குழுவொன்றுக்கு வழங்கப்பட்ட தடுப்பூசியின் காரணமாக 11 பாடசாலை மாணவர்கள் சுகவீனமடைந்து அனுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மிஹிந்தலை சுற்றுவட்டாரப் பகுதிகளில் வசிக்கும் 06 வயதுக்கும் 13 வயதுக்கும் இடைப்பட்ட 11 பாடசாலை மாணவர்கள் தடுப்பூசியைப் பெற்றுக் கொண்டதன் காரணமாக ஆபத்தான நிலைக்குத் தள்ளப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/d50ee5d6.json)
+
+---
+
 ### පුද්ගලයෙක් ව ඝාතනය කර කැබ් රථයක දමා ගිනි තියලා
 
 *2024-07-15 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198817) · `si`
 
-උප්පුවේලි ප්‍රදේශයේදී පුද්ගලයෙකුව ඝාතනය කර කැබ් රථයක් තුළට දමා පුළුස්සා ඇති බව පොලීසිය පවසයි.
+In the Uppuweli area, a man was killed and his body burned in a cab. The incident, part of a private dispute, involved three suspects who attacked the victim with a motorbike before killing him and burning his body. The victim ran a shop in Alaswatta and was identified as the attacker.
 
-ඊයේ (13) උප්පුවේලි පොලීසියට ලද තොරතුරක් මත සිදුකළ විමර්ශනයක දී හෙළිවී ඇත්තේ පුද්ගලික ආරවුලක් මත ඊයේ අළුයම් කාලයේ දී මෙම ඝාතනය සිදුකර ඇති බවය.
+🟩
 
-අපරාධයට සම්බන්ධ සැකකරුවන් තිදෙනෙකු හඳුනාගෙන ඇති අතර ඉන් අවුරුදු 24ක් වයසැති කුච්චවේලි ප්‍රදේශයේ පදිංචිව සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police say a cab had been killed and burned into a cab in the Uppuweli area.
 
-ඝාතනයට ලක් වූ පුද්ගලයා නිලාවේලී පාර ඇලස්වත්ත පාර, ඇලස්වත්ත ප්‍රදේශයේ වෙළෙඳසැලක් පවත්වාගෙන ගොස් ඇත.
+The investigation was revealed at a private dispute yesterday (13) on information received by the Uppuwala Police yesterday.
 
-මෙම පුද්ගලයා තවත් දෙදෙනෙකු සමඟ වෙළෙඳසැල තුළ සිටිය දී සැකකරුවන් යතුරුපැදියකින් පැමිණ මෙම පුද්ගලයාට පහරදී ඔහුව ඔහුගේම කැබ් රථය ද සමඟ පැහැරගෙන ගොස් තිබේ.
+Three suspects involved in crime have been identified and a suspect, a suspect, has been arrested by the police.
 
-පසුව ඔහුව ඝාතනය කර දේහය මොරවැව ප්‍රදේශයේ කැලෑබද ස්ථානයකට ගෙන ගොස් කැබ් රථයට තුළ ට දමා පුළුස්සා තිබේ.
+The victim has operated a shop in Alaswatta area, Alaswatta area.
 
-ඝාතනයට යොදා ගත් බවට සැකකරන පොල්ලක් සොයාගෙන ඇති අතර උප්පුවේලි පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+When the man was in the store with two others, the suspects came with a motorbike and hit him with his own cab.
+
+He was then killed and he was taken to a thug in Morawewa and burned to the cab.
+
+A stage suspected to be used to the murder was later investigated.
 
 ◼️
 
 [Data](articles/b72f7bd4.json)
+
+[Extended Data](ext_articles/b72f7bd4.ext.json)
 
 ---
 
@@ -2167,33 +2191,5 @@ In a case filed by the authorities of the Katunayake Airport Criminal Investigat
 [Data](articles/bbab0416.json)
 
 [Extended Data](ext_articles/bbab0416.ext.json)
-
----
-
-### People's recognition on the government has risen
-
-*2024-07-14 14:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-மீதான-மக்களின்-அங்கீகாரம்-உயர்ந்துள்ளது/175-340370) · `ta`
-
-Public trust in the government has significantly increased since February 2024, with 28% now viewing the economy positively, compared to just 9% in June 2023. A majority, 30%, believe the economy is improving, nearly matching the 29% in June 2023. These findings come from a survey conducted among 1,038 adult Sri Lankans between June 28 and July 6, 2024, indicating a positive shift in public sentiment towards the government and the economy.
-
-🟩
-
-The results of the July 2024 July 2024 of the Veritarischi states that the number of people who think about the country's course is greater than in June 2023, according to the results.
-
-According to the latest 'nation -minded state' poll of the Verite Resur, the people's recognition of the government has increased three times more than four months ago, and the economy and the economy of the country are felt.
-
-In February 2024. In response to the current economic conditions, 28%of the people said that it is good or better, which has three times the increase in 9%from 9%in 2024.. 30 % of the respondents had this point and it was 9 % in February 2024.
-
-"Do you see or do you think the current government is the process?"For the purpose, 24% of those respondents have said they accept (± 2.73%).
-
-2. Adventure of economic conditions |Good or better: 28% |
-
-When "the country's economic conditions are special, good or good," 28% of people said it was good or better (survival ± 2.87%).
-
-...
-
-[Data](articles/7868c19a.json)
-
-[Extended Data](ext_articles/7868c19a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 18:54:36**
+As of **2024-07-15 19:05:13**
 
 ## Newspaper Stats
 
-*Scraped **35,393** Articles*
+*Scraped **35,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,083
 tamilmirrorlk | 4,271
 dailymirrorlk | 4,733
 virakesarilk | 5,511
-adaderanasinhalalk | 5,916
+adaderanasinhalalk | 5,917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,392 (100.0%) of 35,393 articles have been extended.
+35,393 (100.0%) of 35,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### ICC වාර්ෂික සමුළුව ශ්‍රී ලංකාවේ දී
+
+*2024-07-15 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198845) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ වාර්ෂික මහ සභා රැස්වීම මෙවර ශ්‍රී ලංකාවේදී පැවැත් වේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේ, එම මහ සභා රැස්වීම ජූලි 19 සිට 22 වනදා දක්වා පැවැත්වීමට නියමිත බවය.
+
+මෙම ක්‍රිකට් සමුළුව සඳහා අප්‍රිකාව, අමෙරිකාව, ආසියාව, නැගෙනහිර ආසියා පැසිෆික් සහ යුරෝපය වැනි කලාප ආවරණය වන පරිදි ලොව පුරා ICC සාමාජික රටවල් 10‍8කින් නියෝජිතයින් 220කට අධික සංඛ්‍යාවක් ඒ සඳහා එක්වනු ඇත.
+
+◼️
+
+[Data](articles/eec35ff4.json)
+
+---
 
 ### Sri Lanka to host ICC’s annual general meeting this week
 
@@ -47,6 +63,8 @@ This year’s conference, themed “Capitalizing on the Olympic Opportunity,’ 
 ...
 
 [Data](articles/9ebc3593.json)
+
+[Extended Data](ext_articles/9ebc3593.ext.json)
 
 ---
 
@@ -2347,27 +2365,5 @@ A stage suspected to be used to the murder was later investigated.
 [Data](articles/b72f7bd4.json)
 
 [Extended Data](ext_articles/b72f7bd4.ext.json)
-
----
-
-### CJ-led bench to consider FR petition filed over Presidential Election today
-
-*2024-07-15 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100512/cj-led-bench-to-consider-fr-petition-filed-over-presidential-election-today) · `en`
-
-The Fundamental Rights (FR) petition filed seeking an order to prevent holding of the Presidential Election, as the 19th Amendment to the Constitution has not been properly passed in Parliament, is scheduled to be taken up for consideration today (15).
-
-Accordingly, the petition filed by Attorney-at-Law Aruna Laksiri, is slated to be taken up for consideration before a bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekara and Priyantha Fernando.
-
-The relevant petition has been fixed for consideration before the aforementioned judge panel today (15).
-
-The petitioner argues that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore calls for a referendum to ensure its proper passage.
-
-The Election Commission and its members, the General Secretary of Parliament and the Attorney General have been named as respondents.
-
-...
-
-[Data](articles/e75f5025.json)
-
-[Extended Data](ext_articles/e75f5025.ext.json)
 
 ---

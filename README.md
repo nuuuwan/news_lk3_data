@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 01:19:53**
+As of **2024-07-16 01:35:35**
 
 ## Newspaper Stats
 
-*Scraped **35,427** Articles*
+*Scraped **35,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 344
 newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,102
-dailyftlk | 2,241
+dailyftlk | 2,246
 adalk | 3,192
 adaderanalk | 4,086
 tamilmirrorlk | 4,276
@@ -26,11 +26,99 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,425 (100.0%) of 35,427 articles have been extended.
+35,427 (100.0%) of 35,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### IGP swears to eradicate SL’s seedy underworld
+
+*2024-07-16 01:14:40* · [`dailyftlk`](https://www.ft.lk/news/IGP-swears-to-eradicate-SL-s-seedy-underworld/56-764317) · `en`
+
+IGP Deshabandu Thennekoon says SL Police will no longer tolerate the acting out of organised crime gangs
+
+Claims over 800 persons linked to organised crime have been arrested under Operation Yukthiya in the last four months
+
+Vows to end ongoing poster wars of underworld criminals and bring them before justice
+
+Says investigations will focus on persons attempting to revive underworld activities and figures
+
+Inspector General of Police (IGP) Deshabandu Thennekoon has sworn to eradicate the country’s underworld. “This is their last act. We will not tolerate this any longer. We are continuing to curb underworld activities according to a proper plan,” he declared.
+
+The IGP made these remarks in response to media questions during the inauguration of a two-day workshop for police inspectors, funded by the Australian Federal Police, at the Taj Samudra Hotel yesterday.
+
+...
+
+[Data](articles/f9f91b45.json)
+
+---
+
+### SC gives until 30 Aug. but Maithri wants six more years to pay up Easter Sunday compensation
+
+*2024-07-16 01:11:51* · [`dailyftlk`](https://www.ft.lk/news/SC-gives-until-30-Aug-but-Maithri-wants-six-more-years-to-pay-up-Easter-Sunday-compensation/56-764316) · `en`
+
+The Supreme Court has ordered former President Maithripala Sirisena and several others to complete the payment of compensation to the Easter Sunday attack victims by 30 August 2024.
+
+The order was handed down to Sirisena, former Police Inspector General Pujith Jayasundara and former State Intelligence Service Head Senior DIG Nilantha Jayawardena.
+
+...
+
+[Data](articles/ebfa49cd.json)
+
+---
+
+### Karu reminds ECSL of duty to call for timely elections
+
+*2024-07-16 01:09:53* · [`dailyftlk`](https://www.ft.lk/news/Karu-reminds-ECSL-of-duty-to-call-for-timely-elections/56-764315) · `en`
+
+The National Movement for Social Justice (NMSJ), led by former Speaker Karu Jayasuriya in a statement has reminded the Election Comission of Sri Lanka (ECSL) of its duty to call for timely elections.
+
+“As per the powers granted by the Constitution of Sri Lanka, the Election Commission is required to hold the Presidential election in 2024. An official announcement for the election must be issued as soon as the ECSL is empowered to call for elections to ensure a fair process,” Jayasuriya said yesterday.
+
+Jayasuriya said the request is being made as Sri Lanka approaches the time to elect a President, noting that contradictory statements and unethical proposals are being disseminated in society.
+
+“Due to such conflicting opinions and unnecessary debates, the country’s economy may face challenges. Different attitudes arising between international commercial and financial institutions could create conditions harmful to the country’s well-being,” he said.
+
+...
+
+[Data](articles/d1cb0057.json)
+
+---
+
+### SC dismisses second petition against Presidential election
+
+*2024-07-16 01:07:52* · [`dailyftlk`](https://www.ft.lk/news/SC-dismisses-second-petition-against-Presidential-election/56-764314) · `en`
+
+The Supreme Court has dismissed the second fundamental rights petition filed recently that sought to prevent the holding of the Presidential election this year.
+
+The petition, filed by Attorney-at-Law Aruna Laksiri, argued that the 19th Amendment was not enacted properly and that conducting a Presidential election without a referendum violated the Constitution. The Court ordered the petitioner to pay a court fee of Rs. 500,000.
+
+The ruling was made by a bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekera, and Priyantha Fernando yesterday affirming the formal adoption of the 19th Constitutional Amendment without the need for a referendum, in line with prior rulings from 2015.
+
+...
+
+[Data](articles/49f273ec.json)
+
+---
+
+### Entries open for JCI Speaker of the Year 2024 competition
+
+*2024-07-16 01:07:24* · [`dailyftlk`](https://www.ft.lk/news/Entries-open-for-JCI-Speaker-of-the-Year-2024-competition/56-764313) · `en`
+
+JCI Colombo Midtown has announced the National Speaker Competition, aimed at selecting the JCI Speaker of the Year 2024.
+
+This competition is open to young individuals aged between 18 and 30 and will be conducted in accordance with the guidelines provided by the Junior Chamber International.
+
+The event, under the guidance of Dr. Dayanath Jayasuriya PC, Prasanthalal de Alwis PC, Mohammed Adamali PC, JCI Senate Chairman Malik Cader and Toastmasters Club of Colombo former President Rauff Rifai aims to provide a platform for young speakers to enhance their public speaking skills.
+
+Participants will have the opportunity to showcase their speaking abilities and compete for a chance to win a prize of one hundred thousand rupees. Additionally, consolation prizes will be awarded to other participants. The Winner of this national competition will also have the opportunity to be nominated to represent Sri Lanka at the international JCI World competition to be held in Mongolia next June.
+
+...
+
+[Data](articles/b7e12bcd.json)
+
+---
 
 ### COPE exposes irregularities in UDA land leases, major financial losses
 
@@ -56,6 +144,8 @@ The Committee on Public Enterprises (CoPE) has unveiled significant irregulariti
 
 [Data](articles/d0a46a73.json)
 
+[Extended Data](ext_articles/d0a46a73.ext.json)
+
 ---
 
 ### Pathfinder Foundation and Ananta Aspen Centre to examine prospects for India-Sri Lanka physical connectivity
@@ -71,6 +161,8 @@ The roundtable will focus on digital connectivity and physical and maritime conn
 ...
 
 [Data](articles/14822e64.json)
+
+[Extended Data](ext_articles/14822e64.ext.json)
 
 ---
 
@@ -2219,111 +2311,5 @@ We were able to hear the sounds of gun from one side of the election campaign fr
 [Data](articles/ce90b7ca.json)
 
 [Extended Data](ext_articles/ce90b7ca.ext.json)
-
----
-
-### A man was hacked to death with a sharp instrument
-
-*2024-07-15 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198826) · `si`
-
-In Moratuwa, a 41-year-old named Harandra Kumara, known as "little brother," was brutally murdered with a sharp weapon in the Red Crossing Garden. The incident occurred early this morning, and the police have taken one person into custody for questioning. Residents reported hearing screams around 11 pm but couldn't reach the victim's home. The victim's wife was found tied up, unable to scream, until a neighbor called her.
-
-🟩
-
-The Laxapatha of Moratuwa has been hacked to death in a sharp weapon in the Red Crossing Garden this morning (15).
-
-The victim was a 41 year old Harandra Kumara alias "little brother".
-
-Moratuwa Police had been arrested on suspicion of murder case.
-
-The Moratuwa Police are conducting further investigations.
-
-Residents stated that the house was shouted near the house near the house around 11 pm and was not reached by the house due to the home of the house.
-
-The wife had been tied up in a rope, which was unable to scream, and then she had a call to a neighboring woman.
-
-Later, the woman who was calling came to the house, the woman who was calling was to come home after hearing a loud voice.
-
-◼️
-
-[Data](articles/fcad0d14.json)
-
-[Extended Data](ext_articles/fcad0d14.ext.json)
-
----
-
-### Colombo Port City replica unveiled in UK
-
-*2024-07-15 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100519/colombo-port-city-replica-unveiled-in-uk) · `en`
-
-The Sri Lankan High Commission in the United Kingdom has unveiled a replica of the Colombo Port City in London.
-
-The event has been presided over by Rt. Hon. Lord Swraj Paul, PC, who is an Indian-born British business magnate and philanthropist.
-
-Meanwhile, the Sri Lankan High Commissioner in London Rohitha Bogollagama has highlighted the global significance and investment opportunities of the Colombo Port City during the event.
-
-◼️
-
-[Data](articles/66e4f2e4.json)
-
-[Extended Data](ext_articles/66e4f2e4.ext.json)
-
----
-
-### Courts and crowd to go to Easter compensation
-
-*2024-07-15 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198825) · `si`
-
-The Supreme Court has ordered individuals involved in the Easter Sunday terror attack case to pay compensation before August 30th. Failure to do so will lead to legal action against them, including potential charges under contempt of court laws.
-
-🟩
-
-පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීම සම්බන්ධයෙන් වන්දි ගෙවීමට නියම වී සිටින පිරිසට ගෙවීමට නියමිත වන්දි මුදල් අගෝස්තු මස 30 වනදාට පෙර ගෙවා අවසන් කළ යුතු බව ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
-
-Former President Maithripala Sirisena, former IGP Sirisena, former IGP Sirisena and former State Intelligence Service of former State Intelligence Service (Nilantha Jayasundara and former State Intelligence Service) have been given the order.
-
-එදිනට පෙර අදාළ මුදල් ගෙවා අවසන් නොකරන්නේ නම් එම පුද්ගලයින්ට එරෙහිව අධිකරණයට අපහාස කිරීමේ චෝදනා යටතේ ලබන සැප්තැම්බර් මස 20 වනදා ට පෙර චෝදනා ඉදිරිපත් කිරීමට පියවර ගන්නා ලෙසත් සත් පුද්ගල ශ්‍රේෂ්ඨාධිකරණ මඩුල්ල විසින් නීතිපතිවරයාට නියෝග කළේය.
-
-◼️
-
-[Data](articles/372bb7ff.json)
-
-[Extended Data](ext_articles/372bb7ff.ext.json)
-
----
-
-### Maithripala given deadline to complete compensation payments to Easter attack victims
-
-*2024-07-15 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100518/maithripala-given-deadline-to-complete-compensation-payments-to-easter-attack-victims) · `en`
-
-The Supreme Court has ordered former President Maithripala Sirisena and two others who were ordered to pay compensation to the victims for failure to prevent the Easter Sunday bomb attacks, to complete their outstanding payments before August 30, 2024.
-
-Accordingly, the former President, former Inspector General of Police (IGP) Pujith Jayasundara and former Chief of State Intelligence Service (SIS) Nilantha Jayawardena have been ordered to pay the outstanding compensation to the victims of the Easter attacks before August 30.
-
-Furthermore, the seven-member Supreme Court judge panel has ordered that if the relevant individuals fail to complete the payments before the said date, contempt of court charges will be filed against them before September 20, 2024.
-
-...
-
-[Data](articles/5a859b9a.json)
-
-[Extended Data](ext_articles/5a859b9a.ext.json)
-
----
-
-### One person drowns, another rescued in Deduru Oya
-
-*2024-07-15 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100517/one-person-drowns-another-rescued-in-deduru-oya) · `en`
-
-Two individuals have been swept away by strong water currents while bathing in the Deduru Oya in the Chilaw area last evening (14).
-
-One of the individuals, a 20-year-old resident of the Watawana area in Hatton, was pronounced dead upon admission to the Chilaw hospital, while the other person was rescued, the police said.
-
-The deceased had been bathing in Deduru Oya with his wife and three others, according to police.
-
-◼️
-
-[Data](articles/73117c78.json)
-
-[Extended Data](ext_articles/73117c78.ext.json)
 
 ---

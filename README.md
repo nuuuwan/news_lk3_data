@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 13:35:55**
+As of **2024-07-15 13:55:36**
 
 ## Newspaper Stats
 
-*Scraped **35,334** Articles*
+*Scraped **35,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,185
 adaderanalk | 4,071
-tamilmirrorlk | 4,258
+tamilmirrorlk | 4,261
 dailymirrorlk | 4,733
 virakesarilk | 5,504
 adaderanasinhalalk | 5,901
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,331 (100.0%) of 35,334 articles have been extended.
+35,334 (100.0%) of 35,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### கனடாவில் வேலை தருவதாகக் கூறி பண மோசடி
+
+*2024-07-15 13:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-வேலை-தருவதாகக்-கூறி-பண-மோசடி/175-340439) · `ta`
+
+கனடாவில் வேலை வாங்கித் தருவதாகக் கூறி பணத்தை மோசடி செய்த இருவரை இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் விசேட புலனாய்வுப் பிரிவின் அதிகாரிகள் கைது செய்துள்ளனர்.
+
+பொரளை பிரதேசத்தில் இயங்கும் நிறுவனமொன்று கனடாவில் நிதித்துறையில் தொழில் வழங்குவதாக கூறி 10 இலட்சம் ரூபாயை பெற்றுக்கொண்ட போதிலும் வாக்குறுதியளித்தபடி வேலை வழங்கவில்லை என நபர் ஒருவர் பணியகத்தில் செய்த முறைப்பாடு செய்துள்ளார்.
+
+இதன்போது, குறித்த நிறுவனம் இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் செல்லுபடியாகும் அனுமதிப்பத்திரம் இன்றி நடத்தப்பட்ட சட்டவிரோத வெளிநாட்டு வேலைவாய்ப்பு நிறுவனம் என தெரியவந்துள்ளது.
+
+இதனையடுத்து, குறித்த நிறுவன உரிமையாளர் உட்பட மேலும் ஒருவரை புலனாய்வு அதிகாரிகள் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களை நீதிமன்றில் முன்னிலைப்படுத்திய போது, 10 இலட்சம் ரூபாய் பிணையில் விடுவிக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2fa0de91.json)
+
+---
 
 ### Body of 41-year-old murder victim found inside torched vehicle
 
@@ -52,27 +72,59 @@ Police have identified three suspects involved in the incident, while one of the
 
 [Data](articles/6f65996f.json)
 
+[Extended Data](ext_articles/6f65996f.ext.json)
+
 ---
 
-### තරුණයෙකු දුම්රියේ ගැටී මියයාම ගැන මව්පියන්ගෙන් පොලීසියට චෝදනා
+### கர்ப்பிணியும் காதலனும் கணவனிடம் கப்பம் கேட்டு கரைச்சல்
+
+*2024-07-15 13:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணியும்-காதலனும்-கணவனிடம்-கப்பம்-கேட்டு-கரைச்சல்/175-340437) · `ta`
+
+கர்ப்பிணியான மனைவியும் அவளுடைய காதலனும் கணவனிடம் சுமார் 5 மில்லியன் ரூபாவை கப்பமாகக் கேட்டு கரைச்சல் கொடுத்த சம்பவமொன்று கலவானை பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+
+கர்ப்பிணி பெண்ணொருவர் சில நாட்களுக்கு முன்னர் காணாமல் போயிருந்தார். அவரை கலவான பொலிஸ் பிரிவிலுள்ள கோவிந்தபுரத்தில் கடந்த சனிக்கிழமை (13) மாலை பொலிஸார் கண்டுப்பிடித்தனர்.
+
+கர்ப்பிணியான அந்தப் பெண், மாதாந்த கிளினிக்குக்குச் செல்வதாகக் கூறிவிட்டு, 9ஆம் திகதி செவ்வாய்க்கிழமை வீட்டைவிட்டுச் சென்றிருந்தார். எனினும், அன்றையதினம்  தனது மனைவி, வீட்டுக்குத் திரும்பவில்லை என அவளுடைய கணவன், பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+
+இந்நிலையில், அவளை விடுவிக்கவேண்டுமாயின் 5 மில்லியன் ரூபாய் பணத்தை கொடுக்கவேண்டுமென, இனந்தெரியாத தொலைபேசி அழைப்பொன்று, கணவனின் அலைபேசிக்கு வந்துள்ளது. அத்துடன், வட்ஸ்அப்க்கும் குறுந்தகவல் போடப்பட்டுள்ளது.
+
+இதுதொடர்பில் பொலிஸாரின் கவனத்துக்கு அவளுடைய கணவன் கொண்டுவந்தார். அவற்றை கொண்டு விசாரணைகளை முன்னெடுத்த பொலிஸார் 31 வயதான பெண்ணையும் அவளுடைய காதலன் என அறியப்பட்ட 21 வயதான இளைஞனையும் கைது செய்தனர்.
+
+...
+
+[Data](articles/53fd50a9.json)
+
+---
+
+### Parents accused the police about a young man hit by train
 
 *2024-07-15 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198829) · `si`
 
-අඟුලාන ප්‍රදේශයේ තරුණයෙකු මියයාමක් සම්බන්ධයෙන් එම තරුණයාගේ මව්පියන් පොලීසිය වෙත චෝදනා එල්ල කරයි.
+In Angulana, a young man died after being hit by a train. His family accuses the police of negligence, claiming they fled the scene after an incident involving the youth. The police deny these allegations, stating no officers visited the house that morning.
 
-අඟුලාන ප්‍රදේශයේ නිවසක ඊයේ (14) රාත්‍රි පැවති සාදයක් අතරතුරදී කලහාකාරී ලෙස හැසිරුණු තරුණයෙකු සම්බන්ධයෙන් පොලීසියට පැමිණිල්ලක් ලැබී තිබිණි.
+🟩
 
-පසුව අඟුලාන පොලිස් නිලධාරීන් කණ්ඩායමක් ඊයේ රාත්‍රියේ පැමිණ තරුණයා රැගෙන යාමට කටයුතු කළ අවස්ථාවේ තරුණයා පොලිසියෙන් මිදී පළාගොස් තිබේ.
+The youth's mother's parents are accused of death in Angulana area.
 
-පොලිසියෙන් පළාගිය තරුණයාව සිය මව්පියන් යළි නිවස වෙත රැගෙන ඒමට කටයුතු කර ඇති අතර ඔහු රාත්‍රී ආහාරයද ගෙන නින්දට ගොස් තිබිණි.
+The police had lodged a complaint with a young man who had behaved a manuscript during a party held at a house in Angulana last night.
 
-අනතුරුව අද (15) අලුයම පොලිස් නිලධාරීන් පිරිසක් යළි තම නිවස වෙත පැමිණි බවත් එහිදී සිය පුත්‍රයා ඔවුන්ගෙන් මිදීමට පළා ගිය බවත් තරුණයාගේ මව්පියන් පවසයි.
+The youth fled the police when a group of Angulana police officers were taken last night.
 
-පසුව අද පෙරවරු 7ට පමණ සිය පුත්‍රයා දුම්රියට පැන ජීවිතක්ෂයට පත්වූ බවට පොලිස් නිලධාරීන් තමන්ව දැනුම්වත් කළ බව මියගිය තරුණයාගේ මව්පියන් පැවසුවේය.
+The young man has taken steps to bring his parents back to the house and he had to sleep with dinner.
+
+The youth said that a group of police officers returned to their home this morning (15) and had fled to their son.
+
+The parents of the deceased youth said that the police were killed at about 7 am.
+
+"Was sleeping. Police came and hit the door. Aravaton said the door. Then Saphana, you made a bare case, and told you to run away. The whole household saw three. The other three went along the sand. At about 7.30 pm heard that the train was escalating. "
+
+The deceased youth was found this morning on the railway line near the Angulana Singangas.
 
 ...
 
 [Data](articles/2392d591.json)
+
+[Extended Data](ext_articles/2392d591.ext.json)
 
 ---
 
@@ -98,25 +150,31 @@ Prof. Fernando further highlighted that the new tariffs will be announced this a
 
 ---
 
-### කැනඩා රැකියා සිහින පෙන්වූ ජාවාරම්කරුවෝ
+### Smarters who have dreamed of Canada work
 
 *2024-07-15 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198828) · `si`
 
-කැනඩාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ පුද්ගලයන් දෙදෙනෙකු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Two individuals were arrested by Sri Lanka's SLBFE Special Investigation Department for allegedly operating an unlicensed foreign employment agency in Borella, promising jobs in Canada. The arrests followed raids based on investigations into fraudulent job offers. Despite being presented in court, the suspects were released on bail.
 
-බොරැල්ල ප්‍රදේශයේ පවත්වාගෙන යන ආයතනයක් විසින් කැනඩාවේ මූල්‍ය ක්ෂේත්‍රයේ රැකියා ලබාදෙන බව පවසා රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබා නොදුන් බවට පුද්ගලයෙකු විසින් කාර්යාංශය වෙත සිදුකළ පැමිණිල්ලක් මත විමර්ශන සිදුකර ඇත.
+🟩
 
-ඒ අනුව විමර්ශන නිලධාරීන් විසින් අදාළ ස්ථානය වැටලීම් කර තිබේ.
+Two persons arrested by the Special Investigation Department of the Sri Lanka Bureau of Foreign Employment (SLBFE) have been arrested by the Sri Lanka Bureau of Foreign Employment.
 
-එහිදී අනාවරණය වී ඇත්තේ එම ආයතනය ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව පවත්වාගෙන ගිය නීති විරෝධී විදේශ රැකියා නියෝජිත ආයතනයක් බවය.
+Investigations have been conducted by the Bureau that a person who has been given jobs in Canada by a company that operates in the Borella area.
 
-ඒ අනුව අදාළ ආයතනයේ හිමිකරු ඇතුළු තවත් පුද්ගලයෙකු විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Accordingly, the relevant location has been raided by investigations.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂ 10ක ශරීර ඇප මත මුදාහැරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර ඇත.
+The company was revealed that the company was an illegal foreign employment agency conducted without a valid license with the Sri Lanka Bureau of Foreign Employment.
+
+Accordingly, the owner of the company and another person has been arrested by the investigating officials.
+
+The Magistrate ordered the release of the suspects after being produced in court and released on bail of Rs.
 
 ◼️
 
 [Data](articles/ae0aa539.json)
+
+[Extended Data](ext_articles/ae0aa539.ext.json)
 
 ---
 
@@ -295,6 +353,18 @@ Opposition Leader Sajith Premadasa visited the Mannar office of Selvam Adakkalan
 [Data](articles/33595a25.json)
 
 [Extended Data](ext_articles/33595a25.ext.json)
+
+---
+
+### அடைக்கலநாதனை சந்தித்தார் சஜித்
+
+*2024-07-15 12:02:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடைக்கலநாதனை-சந்தித்தார்-சஜித்/175-340435) · `ta`
+
+தமிழீழ விடுதலை இயக்கத்தின் (டெலோ) தலைவரும், தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினருமான செல்வம் அடைக்கலநாதனின் மன்னார் அலுவலகத்திற்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச திங்கட்கிழமை (15) விஜயம் செய்து கலந்துரையாடினார்.
+
+◼️
+
+[Data](articles/5051b682.json)
 
 ---
 
@@ -2119,71 +2189,5 @@ On February 13, these services were also published by President Ranil Wickremesi
 [Data](articles/be456841.json)
 
 [Extended Data](ext_articles/be456841.ext.json)
-
----
-
-### Who is Thomas Matthew Crooks, the suspected Trump rally shooter
-
-*2024-07-14 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100507/-who-is-thomas-matthew-crooks-the-suspected-trump-rally-shooter) · `en`
-
-The FBI identified 20-year-old Thomas Matthew Crooks of Bethel Park, Pennsylvania as the suspect in the attempted assassination of former U.S. President Donald Trump at a campaign rally.
-
-The suspect was shot and killed by the Secret Service seconds after he allegedly fired shots toward a stage where Trump was speaking on Saturday in Butler, Pennsylvania.
-
-The FBI said it was working to determine a motive for the attack. One rally attendee died and two other spectators were critically injured. Trump was shot in the ear.
-
-State voter records show that Crooks was a registered Republican. The upcoming Nov. 5 election in which Trump is challenging President Joe Biden would have been the first time Crooks had been old enough to vote in a presidential race.
-
-...
-
-[Data](articles/3f953b9f.json)
-
-[Extended Data](ext_articles/3f953b9f.ext.json)
-
----
-
-### Change in three -wheelers travel fee
-
-*2024-07-14 21:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டிகளின்-பயணக்-கட்டணத்தில்-மாற்றம்/175-340396) · `ta`
-
-The President of the All Ceylon Three Wheeler Drivers Association announced a reduction in three-wheeler fares effective from tomorrow in the Western Province.
-
-🟩
-
-President of the All Ceylon Three Wheeler Drivers Association Lalith Dharmasekara today said that the travel fare of the three -wheeler will be reduced from tomorrow in the Western Province.
-
-Accordingly, the cost of Rs.. Remble
-
-◼️
-
-[Data](articles/2a94a78f.json)
-
-[Extended Data](ext_articles/2a94a78f.ext.json)
-
----
-
-### Sri Lankans permission to enter Thailand without visas
-
-*2024-07-14 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198807) · `si`
-
-Starting tomorrow, tourists from 93 countries, including Sri Lanka, can enter Thailand without visas, allowing them to stay for up to 60 days. This policy aims to boost tourism, requiring only proof of accommodation and immigration approval.
-
-🟩
-
-Thailand has been granted to Thailand without visa from tomorrow (15) to tourists from 93 countries including Sri Lanka.
-
-For the first time, Sri Lankans have the opportunity to go to Thailand without a visa.
-
-Under the new policy published by the Ministry of Internal Affairs, a tourist is able to stay for 60 days without visa.
-
-Thailand's visit to Thailand must have the evidence that is relevant to accommodation fund and the approval of the Immigration Officers in the country.
-
-The move has been taken to promote tourism in Thailand.
-
-◼️
-
-[Data](articles/238cc734.json)
-
-[Extended Data](ext_articles/238cc734.ext.json)
 
 ---

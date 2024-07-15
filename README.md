@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 19:53:24**
+As of **2024-07-15 20:05:43**
 
 ## Newspaper Stats
 
-*Scraped **35,397** Articles*
+*Scraped **35,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,100
 dailyftlk | 2,231
-adalk | 3,191
+adalk | 3,192
 adaderanalk | 4,084
-tamilmirrorlk | 4,271
+tamilmirrorlk | 4,272
 dailymirrorlk | 4,733
 virakesarilk | 5,511
 adaderanasinhalalk | 5,917
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,396 (100.0%) of 35,397 articles have been extended.
+35,396 (100.0%) of 35,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### ICC-யின் வருடாந்த பொதுக்கூட்டம் இலங்கையில்
+
+*2024-07-15 19:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICC-யின்-வருடாந்த-பொதுக்கூட்டம்-இலங்கையில்/175-340449) · `ta`
+
+சர்வதேச கிரிக்கெட் பேரவையின் வருடாந்த பொதுக் கூட்டம் இந்த ஆண்டு இலங்கையில் நடைபெறவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+இந்த பொதுக் கூட்டம் ஜூலை 19 முதல் 22 வரை நடைபெற உள்ளதாக இலங்கை கிரிக்கெட் சபை அறிவித்துள்ளது.
+
+ஆப்பிரிக்கா, அமெரிக்கா, ஆசியா, கிழக்கு ஆசியா பசிபிக் மற்றும் ஐரோப்பா போன்ற பிராந்தியங்களை உள்ளடக்கிய உலகெங்கிலும் உள்ள 108 ஐசிசி உறுப்பு நாடுகளில் இருந்து 220 க்கும் மேற்பட்ட பிரதிநிதிகள் இந்த கிரிக்கெட் பொதுக்கூட்டத்தில் கலந்து கொள்ளவுள்ளர். R
+
+◼️
+
+[Data](articles/47e1159a.json)
+
+---
 
 ### Gambia’s parliament upholds ban on female genital mutilation
 
@@ -45,6 +61,26 @@ The procedure, also called female genital mutilation, includes the partial or fu
 ...
 
 [Data](articles/c09b7425.json)
+
+---
+
+### කෘෂි අපනයනයේ වර්ධනයක්
+
+*2024-07-15 19:01:13* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂි-අපනයනයේ-වර්ධනයක්/11-410797) · `si`
+
+ගතවූ වසර දෙකට සාපේක්ෂව 2024 වසරේ පළමු මාස හය තුළ කෘෂි අපනයන ක්ෂේත්‍රයේ පැහැදිලි වර්ධනයක් සිදු වූ බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් බී. එල්. ඒ. ජේ ධර්මකීර්ති මහතා පැවසීය.
+
+2022 වසරට සාපේක්ෂව 2023 වසරේ වාර්තා වූ කෘෂි අපනයන ආදායමේ අවාසි සහගත තත්ත්වය පාලනය කිරීමට ගත් කඩිනම් ක්‍රියාමාර්ග හේතුවෙන් මෙම ප්‍රගතිය ලබා ගත හැකි වූ බවද ඒ මහතා සඳහන් කළේය.
+
+කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් බී. එල්. ඒ. ජේ ධර්මකීර්ති මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් අද (15 ) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+පසුගිය කාල‍පරිච්ඡේදය තුළ පැවති කෘෂි කර්මාන්තයට අහිතකර දේශගුණික තත්ත්වයන් හමුවේ මෙවන් ප්‍රගතියක් ලබා ගැනීම ජයග්‍රහණයක් බවත් බවද ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් බී. එල්. ඒ. ජේ ධර්මකීර්ති මහතා මෙසේද පැවසීය.
+
+...
+
+[Data](articles/a9209f1d.json)
 
 ---
 
@@ -2317,49 +2353,5 @@ The official said that due to the heavy efforts of the train workers, the bus ha
 [Data](articles/0c13a337.json)
 
 [Extended Data](ext_articles/0c13a337.ext.json)
-
----
-
-### Two killed in drowning
-
-*2024-07-15 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198819) · `si`
-
-In two separate incidents, two individuals drowned: one in the Darasuras area, where one survivor was rescued but another was hospitalized; and another near the Mahaweli River, whose body was found and taken to Kandy Hospital for investigation.
-
-🟩
-
-Two persons were drowning with a group of people who had been deprived of the Darasuras of Chilaw Police Division.
-
-The drowning of one has rescued the life of one and the other person has been identified to be admitted to the Chilaw Hospital.
-
-The victim was a 20 year old resident of Hatton.
-
-The deceased has been drowned while Diyakadosha Oya Diyawana with his wife and three other people.
-
-The body of a man was found near the Mahaweli River in Katugastota on the Mahaweli River yesterday (14).
-
-The body is being placed at the Kandy Hospital while Katugastota Police are conducting further investigations.
-
-◼️
-
-[Data](articles/c99ce650.json)
-
-[Extended Data](ext_articles/c99ce650.ext.json)
-
----
-
-### Ever grateful to India for its timely support, says MP Rauff Hakeem
-
-*2024-07-15 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100513/ever-grateful-to-india-for-its-timely-support-says-mp-rauff-hakeem) · `en`
-
-Sri Lanka Muslim Congress leader and MP Rauff Hakeem on Sunday said that his country is “ever grateful” to India for extending huge financial assistance to Sri Lanka when it faced economic turmoil a couple of years ago.
-
-Although the economy of Sri Lanka bounced back after the Eelam war, the island nation faced a massive economic crisis a couple of years ago because of mounting debts and was unable to settle loans received from foreign nations.  It was at this juncture that India extended huge financial assistance to Sri Lanka when it faced the worst economic crisis with severe fuel shortage affecting its citizens. It was due to this timely assistance and support by India that Sri Lanka could manage the crisis, Mr. Rauff Hakeem said and added that his country would be “ever grateful” to India.
-
-...
-
-[Data](articles/2bdb80aa.json)
-
-[Extended Data](ext_articles/2bdb80aa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 09:35:34**
+As of **2024-07-15 09:55:14**
 
 ## Newspaper Stats
 
-*Scraped **35,283** Articles*
+*Scraped **35,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,002
 economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,181
-adaderanalk | 4,058
+adaderanalk | 4,059
 tamilmirrorlk | 4,249
 dailymirrorlk | 4,733
 virakesarilk | 5,502
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,282 (100.0%) of 35,283 articles have been extended.
+35,283 (100.0%) of 35,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Sri Lanka’s economic recovery underscores power of working together for the greater good – President
+
+*2024-07-15 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100511/sri-lankas-economic-recovery-underscores-power-of-working-together-for-the-greater-good-president) · `en`
+
+President Ranil Wickremesinghe emphasized that true revolutions are not about violence or destruction, but about creating a foundation where people can advance with dignity.
+
+Pointing out that the “Urumaya” program has been able to create that background for the people of Sri Lanka, the President said that everyone should unite with the “Urumaya” program, which will popularize the genuine socialist ideals beyond partisan politics.
+
+The President made these remarks at the “Urumaya” freehold land deeds award ceremony held at Tambuttegama Mahaweli Stadium, where he symbolically awarded 47 freehold land deeds. Accordingly, 4,012 individuals across nine Mahaweli divisions in the Anuradhapura district received their freehold land rights.
+
+“I visited Tambuttegama area 50 years ago, in 1974. At that time, there was a contention within the Bandaranaike family regarding who would step forward after the passing of Mr. Ratnamalana, a member of the Left Front who was active here.
+
+...
+
+[Data](articles/750dc1d4.json)
+
+---
 
 ### Leader of Nepal’s largest communist party named country’s new prime minister
 
@@ -49,6 +67,8 @@ Oli would have to seek vote of confidence in parliament to continue in office wi
 ...
 
 [Data](articles/67ff292a.json)
+
+[Extended Data](ext_articles/67ff292a.ext.json)
 
 ---
 
@@ -2175,33 +2195,5 @@ It has been mentioned that in the near future, the Napitimunai sub -post will be
 [Data](articles/e42355d9.json)
 
 [Extended Data](ext_articles/e42355d9.ext.json)
-
----
-
-### A defendant has been acquitted of the signature of the magistrate
-
-*2024-07-14 13:47:00* · [`adalk`](https://www.ada.lk/breaking_news/මහේස්ත්‍රාත්ගේ-අත්සන-හොරට-යොදා-විත්තිකරුවෙක්-නිදොස්-කොට-නිදහස්-කරලා/11-410774) · `si`
-
-A defendant was acquitted in the Negombo Magistrate's Court after being accused of forgery involving a false magistrate's signature. This incident led to the arrest of several officers from the Negombo Special Criminal Investigation Unit, including a former judicial worker turned office assistant who had previously lost their job and faced imprisonment. The case involved allegations of fraudulent activities aimed at lifting a flight ban imposed by the Kathappuwa District of the Attorney General's Department and the Hulftsdal High Court of Colombo. The individual, now arrested, had sought to overturn this ban but was eventually apprehended and found hiding with their spouse in Wattala. Both individuals were scheduled to appear before the Negombo Magistrate's Court on July 14th, under the supervision of senior police officials including the Police Inspector General and the Negombo Superintendent of Police.
-
-🟩
-
-The Magistrate's signature has been acquitted of all charges in the Negombo Magistrate's Court, falsely, a former judicial worker who was acquitted of Rs.A group of officers of the Negombo Special Criminal Investigation Unit have been arrested.
-
-The arrested person was a person who had lost their jobs and was imprisoned while serving as an offices' office assistant in the judiciary.
-
-To remove the flight ban on a case filed by the Kathappuwa District of the Attorney General's Department and the Hulftsda High Court of Colombo, the Katunayake Air Force Criminal Investigations (CID)The amount was fraudulently obtained.
-
-The residents of the Negombo Magistrate's Court have been diagnosed with the Registrar of the Negombo Magistrate's Court regarding the ban without leaving his flight ban.
-
-The Negombo Magistrate's Court has issued warrants to arrest the man.
-
-He has finally hidden with his wife at Wattala area in Wattala.Arrest had been done.
-
-...
-
-[Data](articles/f9c71deb.json)
-
-[Extended Data](ext_articles/f9c71deb.ext.json)
 
 ---

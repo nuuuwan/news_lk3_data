@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 01:35:35**
+As of **2024-07-16 01:54:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,427 (100.0%) of 35,432 articles have been extended.
+35,432 (100.0%) of 35,432 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ The IGP made these remarks in response to media questions during the inauguratio
 
 [Data](articles/f9f91b45.json)
 
+[Extended Data](ext_articles/f9f91b45.ext.json)
+
 ---
 
 ### SC gives until 30 Aug. but Maithri wants six more years to pay up Easter Sunday compensation
@@ -65,6 +67,8 @@ The order was handed down to Sirisena, former Police Inspector General Pujith Ja
 ...
 
 [Data](articles/ebfa49cd.json)
+
+[Extended Data](ext_articles/ebfa49cd.ext.json)
 
 ---
 
@@ -84,6 +88,8 @@ Jayasuriya said the request is being made as Sri Lanka approaches the time to el
 
 [Data](articles/d1cb0057.json)
 
+[Extended Data](ext_articles/d1cb0057.ext.json)
+
 ---
 
 ### SC dismisses second petition against Presidential election
@@ -99,6 +105,8 @@ The ruling was made by a bench comprising Chief Justice Jayantha Jayasuriya, Jus
 ...
 
 [Data](articles/49f273ec.json)
+
+[Extended Data](ext_articles/49f273ec.ext.json)
 
 ---
 
@@ -117,6 +125,8 @@ Participants will have the opportunity to showcase their speaking abilities and 
 ...
 
 [Data](articles/b7e12bcd.json)
+
+[Extended Data](ext_articles/b7e12bcd.ext.json)
 
 ---
 

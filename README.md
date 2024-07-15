@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 19:05:13**
+As of **2024-07-15 19:20:16**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,393 (100.0%) of 35,394 articles have been extended.
+35,394 (100.0%) of 35,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### ICC වාර්ෂික සමුළුව ශ්‍රී ලංකාවේ දී
+### ICC Annual Conference in Sri Lanka
 
 *2024-07-15 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198845) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ වාර්ෂික මහ සභා රැස්වීම මෙවර ශ්‍රී ලංකාවේදී පැවැත් වේ.
+The ICC Annual General Meeting is set for July 19-22 in Sri Lanka, attracting over 220 delegates from 108 ICC member countries across continents like Africa, Asia, East Asia Pacific, and Europe.
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේ, එම මහ සභා රැස්වීම ජූලි 19 සිට 22 වනදා දක්වා පැවැත්වීමට නියමිත බවය.
+🟩
 
-මෙම ක්‍රිකට් සමුළුව සඳහා අප්‍රිකාව, අමෙරිකාව, ආසියාව, නැගෙනහිර ආසියා පැසිෆික් සහ යුරෝපය වැනි කලාප ආවරණය වන පරිදි ලොව පුරා ICC සාමාජික රටවල් 10‍8කින් නියෝජිතයින් 220කට අධික සංඛ්‍යාවක් ඒ සඳහා එක්වනු ඇත.
+The International Cricket Council Annual General Meeting is held in Sri Lanka this year.
+
+The SLC announced that the general meeting was to be held on July 19 to 22nd.
+
+More than 220 representatives of 108 ICC members worldwide will be joined the Cricket Celebration, Africa, Asia, East Asia Pacific and Europe.
 
 ◼️
 
 [Data](articles/eec35ff4.json)
+
+[Extended Data](ext_articles/eec35ff4.ext.json)
 
 ---
 

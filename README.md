@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 06:03:17**
+As of **2024-07-15 06:25:00**
 
 ## Newspaper Stats
 
-*Scraped **35,256** Articles*
+*Scraped **35,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,43 @@ dbsjeyarajcom | 314
 colombotelegraphcom | 333
 bbccomsinhala | 341
 newsfirstlk | 363
-islandlk | 1,992
+islandlk | 1,995
 economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,179
 adaderanalk | 4,055
-tamilmirrorlk | 4,243
+tamilmirrorlk | 4,244
 dailymirrorlk | 4,733
 virakesarilk | 5,501
-adaderanasinhalalk | 5,882
+adaderanasinhalalk | 5,883
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,256 (100.0%) of 35,256 articles have been extended.
+35,256 (100.0%) of 35,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-07-15 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198810) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/8caf9033.json)
+
+---
 
 ### Thailand attends Industry Expo 2024 and DigiEcon Global Investment Summit in Sri Lanka
 
@@ -95,6 +113,22 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 [Data](articles/a0e0eebc.json)
 
 [Extended Data](ext_articles/a0e0eebc.ext.json)
+
+---
+
+### 116,000 மாணவருக்கு புலமைப் பரிசில்கள்
+
+*2024-07-15 02:04:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/116-000-மாணவருக்கு-புலமைப்-பரிசில்கள்/175-340405) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக் கருவின்படி பாடசாலை மாணவர்களின் கல்வியை மேம்படுத்த நடைமுறைப்படுத்தப்படும் 'ஜனாதிபதி புலமைப் பரிசில்' திட்டத்தின் கீழ் 2024 ஆம் ஆண்டில் 116,000 மாணவர்களுக்கு புலமைப் பரிசில்கள் வழங்கப்பட உள்ளன.
+
+க.பொ.த. உயர்தரம் கற்கும் 6 ஆயிரம் மாணவர்களுக்கு மாதாந்தம் 6 ஆயிரம் ரூபா வீதம் 24 மாதங்களுக்கு வழங்கப்படும் புலமைப் பரிசில் திட்டத்திற்காக 824 மில்லியன் ரூபா நிதி ஒதுக்கப்பட்டுள்ளது. தரம் ஒன்று முதல் 11 வரையான ஒரு லட்சம் மாணவர்களுக்கு மாதாந்தம்  3,000 ரூபா வீதம் 12 மாதங்களுக்கு புலமைப் பரிசில் வழங்கவிருப்பதோடு இதற்காக 3 ஆயிரத்து 600 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது.
+
+பிரிவென மற்றும் பிக்கு கல்வி நிறுவனங்களில் சாதாரண தரம் கற்கும் மாணவருக்கான புலமைப் பரிசில் திட்டத்திற்காக 288 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. க.பொ.த உயர்தரம் தகவல் தொடர்பாடல் தொழில்நுட்பம் பிரிவில் கற்கும் பிக்கு மாணவருக்கான புலமைப்பரிசில் திட்டத்திற்காக 720 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/e8c4b66d.json)
 
 ---
 
@@ -2209,55 +2243,5 @@ The incident has taken place as the workers rushed to their designated safe room
 [Data](articles/162de107.json)
 
 [Extended Data](ext_articles/162de107.ext.json)
-
----
-
-### Luxury car rolls in the bridge
-
-*2024-07-14 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198787) · `si`
-
-A luxury car en route to Trincomalee from Anuradhapura crashed at Jaga Oya Bridge due to driver fatigue, injuring passengers who were later hospitalized. A woman was transferred to Anuradhapura hospital for further care. The incident, which occurred on 13th, involved a family member from Jaffna.
-
-🟩
-
-The luxury car traveling to Trincomalee from Anuradhapura, Trincomalee road, has been hospitalized after a marginalized car from the Jaga Oya Bridge.
-
-Police said the accident occurred yesterday (13) due to sleeping and the injured were admitted to Horowpathana Regional Hospital.
-
-A woman had been transferred to the Anuradhapura hospital for further treatment.
-
-Investigations have revealed that the accidents had been on the occasion as a single family member of Jaffna had been on the occasion.
-
-◼️
-
-[Data](articles/1c8fb6d3.json)
-
-[Extended Data](ext_articles/1c8fb6d3.ext.json)
-
----
-
-### Moulavi arrested about a foot fence
-
-*2024-07-14 11:11:33* · [`adalk`](https://www.ada.lk/breaking_news/බසයේ-ගමන්-කළ-තරුණියකගේ-කෙස්-වැටියෙන්-අඩියක්-පමණ-කපා-දැමූ-මවුලවි-අල්ලයි/11-410770) · `si`
-
-A 27-year-old woman was arrested after her hair was cut off on a bus from Katugastota to Kandy. The incident was filmed. She was returning from the Madawala area when it happened. The suspect, from Dehilangama, was also arrested and due to appear in court. Further investigations are being conducted by the police.
-
-🟩
-
-Kandy headquarters has arrested a mother of a molewoman in a church in a church, a 27-year-old girl who was traveling on a bus.
-
-Police investigations have revealed that the girl was situated from Katugastota to Kandy and cut off his hair.The part had also been videoed.
-
-The girl from the Madawala area has faced the incident while traveling to Kandy for any need and was handed over to the police to the police.
-
-The suspect was a resident of Dehilangama, who was arrested and was to be produced before court yesterday and was to be produced before courts yesterday (14), police spokesman said.
-
-The headquarters of the Headquarters Anuruddha Bandaranayake is conducting further investigations.
-
-◼️
-
-[Data](articles/7ce0d2a9.json)
-
-[Extended Data](ext_articles/7ce0d2a9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 12:09:51**
+As of **2024-07-15 12:20:25**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 5,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,305 (100.0%) of 35,307 articles have been extended.
+35,307 (100.0%) of 35,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### පාතාලයින්ට පණදෙන්න දඟලන අයට කිසිම අවස්ථාවක් නෑ -පොලිස්පති
+### There is no chance for underworld
 
 *2024-07-15 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198823) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි, සමාජයෙන් තුරන් කිරීම ඉතා හොඳ සැලැස්මක් මත සිදුකරමින් පවතින බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා කියා සිටියේය.
+IGP Deshabandu Tennakoon announced significant progress against organized crime, with over 800 arrests in recent months. He reassured the public, stating that the police are actively protecting them and that the situation is under control. The IGP emphasized the importance of adhering to the law and avoiding actions like displaying victory banners after gang member deaths, urging everyone to contribute positively to maintaining peace.
 
-මාධ්‍ය වෙත අදහස් දැක්වමින් ඒ මහතා සඳහන් කළේ, පසුගිය මාස තුන හතර තුළ පාතාල සාමාජිකයින් 800කට වැඩි පිරිසක් අත්අඩංගුවට ගෙන ඇති බවය.
+🟩
 
-ජනතාවගේ ආරක්ෂාව වෙනුවෙන් පොලීසිය ගත යුතු සෑම ක්‍රියාමාර්ගයක්ම ගෙන ඇති බවත් පසුගිය මාස දෙකහමාරක කාලය තුළ කිසිදු සිදුවීමක් වාර්තා වී නොමැති බවත් පැවසු පොලිස්පතිවරයා මෑතක සිදුවූ සිදුවීම් සම්බන්ධයෙන් පොලීසිය කටයුතු කරමින් සිටින බව ද පැවසීය.
+IGP Deshabandu Tennakoon said that organized criminal gangs are being carried out on a very good plan.
 
-පාතාලයෙන් මේ වනවිට හතරෙන් තුනක් පාලනය කර ඇති බවත් ඉතිරි වී සිටින ටික දෙනෙක් මේ වනවිට සංදර්ශන පවත්වන බවත් පැවසු පොලිස්පතිවරයා, මෙහෙයුම් තවත් තීව්‍ර කරමින් ඔවුන් පාලනය කරන බව ද කියා සිටියේය.
+Speaking to the media He said that more than 800 underworld members were arrested in the past three four four months.
 
-විදෙස් රටවල සිටින අපරාධකරුවන් සම්බන්ධයෙන් ද මේ වනවිට අවධානය යොමුව ඇතැයි පැවසු පොලිස්පතිවරයා, මහජනතාවට මේ සම්බන්ධයෙන් කිසිවිටෙකත් බියක් ඇති කරගත යුතු නැතැයි ද පැවසීය.
+The police said that the police have recently arranged for the recent incidents that the police have taken over the police for the protection of the people.
+
+He said that the Inspector General of Police (IGP), the Inspector General of Police (IGP), the Inspector General of Police (IGP) is currently being controlled by the remaining two.
+
+The IGP, which is also concerned about criminals in foreign countries, said that the general public should never be afraid of this.
+
+The IGP added that the existing condition is systematically altered and some incidents will be necessary.
 
 ...
 
 [Data](articles/314e8828.json)
 
+[Extended Data](ext_articles/314e8828.ext.json)
+
 ---
 
-### ஐ.ம.ச இடையீட்டு மனு தாக்கல்
+### Submission
 
 *2024-07-15 11:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-இடையீட்டு-மனு-தாக்கல்/175-340431) · `ta`
 
-ஜனாதிபதி தேர்தலை ஒத்திவைக்கும் மனுவை தள்ளுபடி செய்யக் கோரி ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணா உயர் நீதிமன்றத்தில் இடையீட்டு மனுவொன்றை தாக்கல் செய்துள்ளார்.
+Harshana Rajakaruna, a United People's Power MP, has filed a petition in the Supreme Court seeking the annulment of the presidential election. Lawyers Nishan Sydney Pramitrana, Kamidu Karunasena, Shenali Dias, and Nimashi Fernando represent the petitioner.
 
-நிஷான் சிட்னி பிரமித்திரத்ன, கமிது கருணாசேன, ஷெனாலி டயஸ், நிமாஷி பெர்னாண்டோ உள்ளிட்ட சட்டத்தரணிகள் குழுவொன்று இந்த மனு சார்பாக ஆஜராகியுள்ளமை குறிப்படத்தக்கது.
+🟩
+
+United People's Power MP Harshana Rajakaruna has filed an intermittent petition in the Supreme Court demanding the dismissal of the presidential election.
+
+It is noteworthy that a group of lawyers including Nishan Sydney Pramitrana, Kamidu Karunasena, Shenali Dias and Nimashi Fernando appeared on behalf of the petition.
 
 ◼️
 
 [Data](articles/b50f32de.json)
+
+[Extended Data](ext_articles/b50f32de.ext.json)
 
 ---
 

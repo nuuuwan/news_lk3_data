@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 20:35:31**
+As of **2024-07-15 20:54:30**
 
 ## Newspaper Stats
 
-*Scraped **35,399** Articles*
+*Scraped **35,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,82 @@ adalk | 3,192
 adaderanalk | 4,084
 tamilmirrorlk | 4,272
 dailymirrorlk | 4,733
-virakesarilk | 5,511
-adaderanasinhalalk | 5,917
+virakesarilk | 5,513
+adaderanasinhalalk | 5,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,399 (100.0%) of 35,399 articles have been extended.
+35,399 (100.0%) of 35,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### මොරටුව කැලඹූ ඝාතනයේ සුලමුල හෙළිවෙයි
+
+*2024-07-15 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198847) · `si`
+
+මොරටුව, ලක්ෂපතිය රතුකුරුසවත්ත ප්‍රදේශයේ නිවසක තියුණු ආයුධයකින් කපා කොටා පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් මරණකරුගේ බිරිඳ සහ ඇගේ සොහොයුරා අත්අඩංගුවට ගෙන තිබේ.
+
+මොරටුව පොලීසිය විසින් එම සැකකරුවන් අත්අඩංගුවට ගත් බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+මොරටුව ලක්ෂපතිය රතුකුරුසවත්ත ප්‍රදේශයේ නිවසක අද (15) අලුයම තියුණු ආයුධයකින් කපා කොටා පුද්ගලයෙකු ඝාතනය කර තිබුණි.
+
+මරණකරු හරේන්ද්‍ර කුමාර නොහොත් 'පොඩි අයියා' නැමැති 41 හැවිරිදි පුද්ගලයෙකි.
+
+විමර්ශනවලදී හෙළිවී ඇත්තේ මරණකරු බිරිඳ සමග ඇතිවූ ආරවුලක් දුරදිග ගොස් බිරිඳ තම සහෝදරයා නිවසට කැඳවා ඔහුගේද සහාය ඇතිව තියුණු ආයුධයකින් පහරදී ඝාතනය සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/8ee01ae2.json)
+
+---
+
+### அவசியமான வெற்றியை ஈட்டிய கண்டி பெல்கன்ஸின் இறுதிச் சுற்று வாய்ப்பு தம்புள்ள போட்டி முடிவில் தங்கியிருக்கிறது
+
+*2024-07-15 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188551) · `ta`
+
+கெத்தாராம ஆர். பிரேமதாச விளையாட்டரங்கில்  திங்கட்கிழமை (15)  நடைபெற்ற ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் 18ஆவது போட்டியில் தம்புள்ள சிக்சர்ஸ் அணியை 54 ஓட்டங்களால் நடப்பு சம்பியன் கண்டி பெல்கன்ஸ் அணி வெற்றிகொண்டது.
+
+இந்த வெற்றியுடன் அணிகள் நிலையில் கண்டி பெல்கன்ஸ் 6 புள்ளிகளுடன் 4ஆம் இடத்திற்கு முன்னேறியுள்ளது.
+
+எனினும் இந்த வருடம் லங்கா பிறீமியர் லீக் இறுதிச் சுற்றுக்கான தகுதி கிடைக்குமா இல்லையா என்ற இரண்டும் கெட்டான் நிலையில் இருக்கும் கண்டி பெல்கன்ஸின் தலைவிதி தம்புள்ள  சிக்சர்சின் எஞ்சியுள்ள போட்டி முடிவிலேயே தங்கியிருக்கிறது.
+
+இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கண்டி பெல்கன்ஸ் மிகத் திறமையாகத் துடுப்பெடுத்தாடி 20 ஓவர்களில் 4 விக்கெட்களை இழந்து 224 ஓட்டங்களைக் குவித்தது.
+
+அண்ட்றே ப்ளெச்சர் 34 பந்துகளில் 60 ஓட்டங்களையும் மொஹம்த் ஹரிஸ் 24 ஓட்டங்களையும் வனிந்து ஹசரங்க 25 ஓட்டங்களையும் பெற்றனர்.
+
+கமிந்து மெண்டிஸ் 25 பந்துகளில் 51 ஓட்டங்களுடனும் ஏஞ்சலோ மெத்யூஸ் 23 பந்துகளில் 5 சிக்ஸ்கள் அடங்கலாக 44 ஓட்டங்களுடனும் ஆட்டம் இழக்காதிருந்தனர்.
+
+...
+
+[Data](articles/f0a83277.json)
+
+---
+
+### ක්ලබ් වසන්තගේ ‍දේහය තිබූ මල්ශාලාවට ආ තර්ජනය ගැන හෙළිදරව්වක්
+
+*2024-07-15 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198846) · `si`
+
+ක්ලබ් වසන්තගේ දේහය තැන්පත් නොකරන ලෙස පෞද්ගලික මල්ශාලාවට තර්ජනාත්මක ඇමතුම් ලබාදී ඇත්තේ ‍මාතලේ ප්‍රදේශයේ පදිංචි කොළඹ පෞද්ගලික විශ්වවිද්‍යාලයක සිසුවියකගේ නමට ලියාපදිංචි සිම්පතකින් බව පොලීසිය අනාවරණය කරගෙන තිබේ.
+
+කෙසේ වෙතත් අදාළ සිසුවිය එම සිම්පත භාවිත නොකරන අතර එය භාවිතා කරමින් ඇමතුම ලබාදුන් පුද්ගලයා සොයා විමර්ශන ක්‍රියාත්මකයි.
+
+නමුත් එම ඇමතුම් ලබාදුන් ක්‍රියාවලිය තුළින් විමර්ශන නොමඟ යැවීමේ උත්සාහයක් ක්‍රියාත්මකවී ඇත්දැයි පොලිසීය සැකපළකරයි.
+
+මෙ අතර සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් පසුගිය 8 වෙනිදා වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියට අදාළව අත්අඩංගුවේ පසුවන අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයේ හිමිකරු දුලාන් සන්ජුල කොළඹ රිමාන්ඩ් බන්ධනාගාරයේ සිට මහර බන්ධනාගාරයට මාරු කර යවා තිබේ.
+
+බන්ධනාගාර කොමසාරිස් ජනරාල් තුෂාර උපුල්දෙණිය මහතා ප්‍රකාශ කළේ, ඔහුගේ ආරක්ෂාව සලකා මහර බන්ධනාගාරයට ඊයේ (14) දිනයේදී මාරුකර යැවුණු බවය.
+
+ඔහු ජුලි 22 වනදා යළි කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිත අතර එදිනට ඔහු රහස් ප්‍රකාශයක් සිදුකිරීමට අවසර ලබාදෙන ලෙස අධිකරණයෙන් ඉල්ලීමක්ද කර තිබුණි.
+
+...
+
+[Data](articles/da8130b8.json)
+
+---
 
 ### ICC's annual public meeting in Sri Lanka
 
@@ -159,6 +223,16 @@ This year’s conference, themed “Capitalizing on the Olympic Opportunity,’ 
 [Data](articles/9ebc3593.json)
 
 [Extended Data](ext_articles/9ebc3593.ext.json)
+
+---
+
+### மின்கட்டண குறைப்பு - முழுமையான விபரங்கள் இதோ !
+
+*2024-07-15 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188547) · `ta`
+
+...
+
+[Data](articles/86fbbd99.json)
 
 ---
 
@@ -2269,103 +2343,5 @@ Solar Universe’s agrivoltaic project “integrates solar energy production wit
 [Data](articles/d061384b.json)
 
 [Extended Data](ext_articles/d061384b.ext.json)
-
----
-
-### The judiciary should not take the executive power of Parliament
-
-*2024-07-15 10:46:26* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-විධායක-බලයට-අධිකරණය-අත-නොගැසිය-යුතුයි/11-410788) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of keeping judicial powers separate from executive authority, recalling his efforts to halt a land ownership program due to its potential misuse. He highlighted his commitment to ensuring land rights for the people, contrasting the current situation with past challenges and successes in land development projects.
-
-🟩
-
-President Ranil Wickremesinghe had been able to stop the ownership of the country 20 years ago, the heritage program was implemented in the country.said.
-
-The President who recalled that the jurisdiction was in Parliament, he said that he was always in the position that the judiciary should not be handed to the executive power of the Pall.
-
-President Ranil Wickremesinghe was speaking at the inheritance in the Mahiyanganaya Public Stadium yesterday.
-
-Under 65,393 qualifying land deeds, President Ranil Wickremesinghe was associated with 662 people in the Badulla District.
-
-Parallel to this, President Ranil Wickremesinghe was also providing sports equipments for four schools in Badulla District and the main auditorium at the Mahiyanganaya People's Stadium.
-
-The President was speaking at the occasion of the inheritance of the inheritance.
-
-...
-
-[Data](articles/af6547c1.json)
-
-[Extended Data](ext_articles/af6547c1.ext.json)
-
----
-
-### After assassination attempt, Trump and Biden seek calm, unity
-
-*2024-07-15 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100514/after-assassination-attempt-trump-and-biden-seek-calm-unity) · `en`
-
-Donald Trump arrived on Sunday in Milwaukee, where he will be formally nominated as the Republican presidential candidate later this week after surviving an assassination attempt that has aggravated an already bitter U.S. political divide.
-
-President Joe Biden, a Democrat, ordered a review of how a 20-year-old man with an AR-15-style rifle got close enough to shoot at Trump from a rooftop on Saturday. Trump, as a former president, has lifetime protection by the U.S. Secret Service.
-
-Trump, 78, was holding a campaign rally in Butler, Pennsylvania - a key state in the Nov. 5 election - when shots rang out, hitting his right ear and leaving his face streaked with blood. His campaign said he was doing well.
-
-“That reality is just setting in,” Trump told the Washington Examiner on Sunday. “I rarely look away from the crowd. Had I not done that in that moment, well, we would not be talking today, would we?”
-
-...
-
-[Data](articles/6a3fdddf.json)
-
-[Extended Data](ext_articles/6a3fdddf.ext.json)
-
----
-
-### A police officer at the temple was hospitalized
-
-*2024-07-15 10:38:12* · [`adalk`](https://www.ada.lk/breaking_news/විහාරස්ථානයේ-ආරාවුලකින්-හිමිවරු-දෙනමක්-සහ-පොලිස්-නිලධාරියෙක්-රෝහලේ/11-410787) · `si`
-
-In Bentota, a police officer was hospitalized after a clash involving police and Buddhist monks. Monks were arrested for questioning, while others fled the scene. The incident led to increased police presence at the temple.
-
-🟩
-
-Bentota Police say that a police constable and a police constable was injured in a clash at the Bentota Police Division in the Bentota Police Division.
-
-He was arrested by the monks and a resident of the area to interrogate the clash.
-
-The Buddhist monks who received injuries were admitted to the Bentota Hospital.
-
-Among the monks and a group of Buddhist monks and monks who had come to the temple from Horana have come to the temple and the monks have come to the temple.
-
-The constable was injured when the Bentota Police have gone up the preaching of police protection.All Buddhist monks have left the temple and police protection has been deployed to the temple.
-
-◼️
-
-[Data](articles/cd8344f8.json)
-
-[Extended Data](ext_articles/cd8344f8.ext.json)
-
----
-
-### Badulla - Colombo Rail Service returned to us
-
-*2024-07-15 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/188472) · `ta`
-
-The Badulla-Colombo train service resumed after being halted due to a blockage between Bandarawela and Heelo stations. The issue was resolved thanks to the hard work of train staff, allowing the service to return to its regular schedule.
-
-🟩
-
-The Badulla -Colombo train service, which was affected by the train, has returned to normal.
-
-The train from Colombo to Badulla to Badulla was completely blocked by the Badulla -Colombo train service between Bandarawela and heelo railway stations.
-
-An official of the Badulla Railway Station said that the postal train from Badulla to Colombo yesterday evening has stopped his journey and returned to Badulla.
-
-The official said that due to the heavy efforts of the train workers, the bus has been repaired and the Badulla -Colombo train service has returned to normal.
-
-◼️
-
-[Data](articles/0c13a337.json)
-
-[Extended Data](ext_articles/0c13a337.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 12:53:17**
+As of **2024-07-15 13:05:09**
 
 ## Newspaper Stats
 
-*Scraped **35,325** Articles*
+*Scraped **35,327** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 314
+dbsjeyarajcom | 315
 colombotelegraphcom | 333
 bbccomsinhala | 342
 newsfirstlk | 363
@@ -16,7 +16,7 @@ islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
 adalk | 3,185
-adaderanalk | 4,067
+adaderanalk | 4,068
 tamilmirrorlk | 4,258
 dailymirrorlk | 4,733
 virakesarilk | 5,504
@@ -26,49 +26,77 @@ adaderanasinhalalk | 5,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,322 (100.0%) of 35,325 articles have been extended.
+35,325 (100.0%) of 35,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### තියුණු ආයුධයකින් කපා කොටා පුද්ගලයෙකු ඝාතනය කෙරේ
+### A man was hacked to death with a sharp instrument
 
 *2024-07-15 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198826) · `si`
 
-මොරටුව ලක්ෂපතිය රතුකුරුස වත්ත ප්‍රදේශයේ නිවසක අද (15) අලුයම තියුණු ආයුධයකින් කපා කොටා පුද්ගලයෙකු ඝාතනය කර තිබේ.
+In Moratuwa, a 41-year-old named Harandra Kumara, known as "little brother," was brutally murdered with a sharp weapon in the Red Crossing Garden. The incident occurred early this morning, and the police have taken one person into custody for questioning. Residents reported hearing screams around 11 pm but couldn't reach the victim's home. The victim's wife was found tied up, unable to scream, until a neighbor called her.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 41 හැවිරිදි හරේන්ද්‍ර කුමාර නොහොත් "පොඩි අයියා" නැමැති පුද්ගලයෙකි.
+🟩
 
-ඝාතන සිද්ධිය සම්බන්ධයෙන් සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගැනීමට මොරටුව පොලිස් ස්ථානය කටයුතු කර තිබුණි.
+The Laxapatha of Moratuwa has been hacked to death in a sharp weapon in the Red Crossing Garden this morning (15).
 
-කුමන කරුණක් සම්බන්ධව ඝාතනය සිදුවූවාද යන්න තමවත් අනාවරණ වී නොමැති අතර මොරටුව පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The victim was a 41 year old Harandra Kumara alias "little brother".
 
-ප්‍රදේශවාසීන් ප්‍රකාශ කළේ, ඊයේ රාත්‍රී 11ට පමණ අදාළ නිවස ආසන්නයෙන් කෑගසන සද්දයක් ඇසුණු බවත් ඉන් සුළු වේලාවකට පසු නිවසේ පිරිත් නාදවීම හේතුවෙන් නිවසට ළඟා නොවූ බවය.
+Moratuwa Police had been arrested on suspicion of murder case.
 
-කෑ ගැසීමට නොහැකි ආකාරයෙන් බිරිඳව කඹයකින් ගැට ගසා තිබී ඇති අතර, පසුව ඇය කෙසේ හෝ උත්සාහ කර ජංගම දුරකථනයෙන් අසල්වාසී කාන්තාවකට ඇමතුමක් ගෙන තිබේ.
+The Moratuwa Police are conducting further investigations.
 
-පසුව දුරකථනයෙන් කෙඳිරි හඬක් ඇසීම හේතුවෙන් ඇමතුම දුන් කාන්තාව නිවසට පැමිණ බැලීමේ දී මෙම විපත දැක ඇත.
+Residents stated that the house was shouted near the house near the house around 11 pm and was not reached by the house due to the home of the house.
+
+The wife had been tied up in a rope, which was unable to scream, and then she had a call to a neighboring woman.
+
+Later, the woman who was calling came to the house, the woman who was calling was to come home after hearing a loud voice.
 
 ◼️
 
 [Data](articles/fcad0d14.json)
 
+[Extended Data](ext_articles/fcad0d14.ext.json)
+
 ---
 
-### පාස්කු වන්දි ගෙවීමට මෛත්‍රීට ඇතුළු පිරිසට අධිකරණයෙන් දින දෙයි
+### Colombo Port City replica unveiled in UK
+
+*2024-07-15 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100519/colombo-port-city-replica-unveiled-in-uk) · `en`
+
+The Sri Lankan High Commission in the United Kingdom has unveiled a replica of the Colombo Port City in London.
+
+The event has been presided over by Rt. Hon. Lord Swraj Paul, PC, who is an Indian-born British business magnate and philanthropist.
+
+Meanwhile, the Sri Lankan High Commissioner in London Rohitha Bogollagama has highlighted the global significance and investment opportunities of the Colombo Port City during the event.
+
+◼️
+
+[Data](articles/66e4f2e4.json)
+
+---
+
+### Courts and crowd to go to Easter compensation
 
 *2024-07-15 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198825) · `si`
 
+The Supreme Court has ordered individuals involved in the Easter Sunday terror attack case to pay compensation before August 30th. Failure to do so will lead to legal action against them, including potential charges under contempt of court laws.
+
+🟩
+
 පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් මූලික අයිතිවාසිකම් උල්ලංඝනය කිරීම සම්බන්ධයෙන් වන්දි ගෙවීමට නියම වී සිටින පිරිසට ගෙවීමට නියමිත වන්දි මුදල් අගෝස්තු මස 30 වනදාට පෙර ගෙවා අවසන් කළ යුතු බව ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
 
-හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන, හිටපු පොලිස්පති පූජිත ජයසුන්දර සහ හිටපු රාජ්‍ය බුද්ධි සේවයේ ප්‍රධානී නිලන්ත ජයවර්ධන යන මහත්වරුන්ට එරෙහිව මෙම නියෝගය ලබා දී ඇත.
+Former President Maithripala Sirisena, former IGP Sirisena, former IGP Sirisena and former State Intelligence Service of former State Intelligence Service (Nilantha Jayasundara and former State Intelligence Service) have been given the order.
 
 එදිනට පෙර අදාළ මුදල් ගෙවා අවසන් නොකරන්නේ නම් එම පුද්ගලයින්ට එරෙහිව අධිකරණයට අපහාස කිරීමේ චෝදනා යටතේ ලබන සැප්තැම්බර් මස 20 වනදා ට පෙර චෝදනා ඉදිරිපත් කිරීමට පියවර ගන්නා ලෙසත් සත් පුද්ගල ශ්‍රේෂ්ඨාධිකරණ මඩුල්ල විසින් නීතිපතිවරයාට නියෝග කළේය.
 
 ◼️
 
 [Data](articles/372bb7ff.json)
+
+[Extended Data](ext_articles/372bb7ff.ext.json)
 
 ---
 
@@ -82,7 +110,7 @@ Accordingly, the former President, former Inspector General of Police (IGP) Puji
 
 Furthermore, the seven-member Supreme Court judge panel has ordered that if the relevant individuals fail to complete the payments before the said date, contempt of court charges will be filed against them before September 20, 2024.
 
-◼️
+...
 
 [Data](articles/5a859b9a.json)
 
@@ -284,6 +312,20 @@ Investigations carried out by the investigation, the Badulla Division Criminal I
 
 ---
 
+### THE PROPOSED 22nd AMENDMENT
+
+*2024-07-15 11:10:00* · [`islandlk`](http://island.lk/the-proposed-22nd-amendment/) · `en`
+
+It has been reported that the Government proposes to introduce a Bill to amend the Constitution for the purpose of bringing Article 83 into conformity with the amendments made by the 19th Amendment to Articles 30(2) and 62(2). Since this proposal is wholly unnecessary, and makes no sense whatsoever in constitutional terms, it may be necessary to look beyond the obvious for some less discernible, perhaps more sinister or Machiavellian objective.
+
+...
+
+[Data](articles/5b2b299f.json)
+
+[Extended Data](ext_articles/5b2b299f.ext.json)
+
+---
+
 ### 6 years to pay the remaining amount: Maithri
 
 *2024-07-15 11:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஞ்சிய-தொகையை-செலுத்த-6-வருடங்கள்-தாருங்கள்-மைத்திரி/175-340428) · `ta`
@@ -301,6 +343,22 @@ Former President's lawyers have appealed to the court to pay six years of time t
 [Data](articles/a1f9199f.json)
 
 [Extended Data](ext_articles/a1f9199f.ext.json)
+
+---
+
+### Sir Ponnambalan Ramanathan  (1851- 1930): The First Member for Ceylon
+
+*2024-07-15 11:08:00* · [`islandlk`](http://island.lk/sir-ponnambalan-ramanathan-1851-1930-the-first-member-for-ceylon/) · `en`
+
+In 1911 Sir Ponnambalan Ramanathan was elected to the educated Ceylonese seat in the Legislative Council at the age of sixty. The seat was so named because, even as late as 1910, the Governor did not think that Ceylonese in general were fit to exercise the vote. Ramanathan was elected to the seat largely by the votes of the Sinhalese. Admittedly, he was a brilliant speaker and had held the high office of Solicitor-General. He defeated Sir Marcus Fernando, a distinguished physician and a man of rare ability in many fields.
+
+The 125th Anniversary of the birth of Ramanathan will fall on Friday April 16, 1976. As a young man he was a hard-working lawyer who was nominated a member of the Legislative Council at the age of 28 to succeed his uncle Sir Muttu Coomaraswamy as the ‘Tamil member’. He had to give up his seat when he was appointed Solicitor-General.
+
+...
+
+[Data](articles/b96bfdd3.json)
+
+[Extended Data](ext_articles/b96bfdd3.ext.json)
 
 ---
 
@@ -460,21 +518,33 @@ The former President has also asked the court to give the remaining six years to
 
 *2024-07-15 10:57:14* · [`adalk`](https://www.ada.lk/breaking_news/රන්-බිස්කට්-හොරෙන්-ගෙනා-මන්ත්‍රී-අලි-සබ්රි-අධික-වටිනාකමින්-යුත්-රජයේ-ඉඩමක්-බලෙන්-අල්ලාගෙන/11-410789) · `si`
 
-පුත්තලම නගරයේ ඉහළ වානිජ  වටිනාකමකින් යුත් යුත් රජයට අයත් ඉඩමක් පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි අලි සබ්රී රහිම් මහතා නීති විරෝධිව අත්පත් කර ගෙන ඇති බව වාර්තාවෙයි.
+Puttalam District MP Ali Sabire Rhime allegedly illegally acquired valuable government land near the Telecom office and old Ashoka cinema hall, using his power to misuse it for commercial purposes. The land, adjacent to his family's international company, was used without permission, leading to legal issues. Despite inquiries and warnings, the situation remains unresolved, highlighting concerns about misuse of power and legal violations.
 
-අදලා ඉඩම පුත්තලම නගරයෙ ටෙලිකොම් ආයතනයට යාබදව හා පැරණි අශෝකා සිනමා හලට මැදිව පිහිටි පර්චස් 25 කට ආසන්න ඉඩමක් බව කියයි.
+🟩
 
-මෙම ඉඩම පසුගිය දිනක මන්ත්‍රිවරයා විසින් මෙලෙස ඔහුගේ බලතල අනිසි ලෙස භාවිතා කරමින් අත්පත් කර ගෙන ඇති බව කියයි.
+It is reported that Puttalam District MP Ali Sabire Rhime has been illegal
 
-අදාල ඉඩම දැනට පුත්තලම නගරයෙ වානිජ වටිනාකමකින් ඉහලම මිලක් ඇති ස්ථානයක් බවත් එය මන්ත්‍රිවරයා විසින් තහඩු ගසා ආවරණය කර ඇති බවට රිඝුව චෝදනා එල්ල වෙති .
+The land is almost adjacent to the Telecom of Puttalam and the old Ashoka cinema Hall.
 
-මේ සම්බන්ධව එල්ල වන චෝදනා සම්බන්ධයෙන් පුත්තලම දිස්ත්‍රික් පාර්ලමේන්තු මන්ත්‍රි අලි සබ්රි රහිම් මහතාගෙන් කල විමසිමේදි පවසා සිටියෙ මෙවැන්නකී.
+The land has recently acquired the delegation of his powers by misuse his powers.
+
+The land is currently charged with a commercial value of an commercial value in Puttalam and is charged with plates.
+
+Inquiry, Puttalam District Parliamentarian Ali Sabri Rhim, inquiry, inquiry, inquiry, inquiry into the allegations.
 
 “ඇත්තටම මේ ඉඩම මම අල්ලගෙන නැහැ එයට යාබදව තිබෙන ඉඩම බදු පදනමින් ලබා ගැනිම කලා.එය කලේ මගේ පවුලේ අයට අයත් ඉන්ටර්නැෂනල් සමාගමක වාහන වාහන ගාල් කිරීමේ ස්ථානයක් ආරම්භ කරන්න.
+
+The land that was not next to the land was then adjacent to our family's international company to our family. The smarts are often walking from there.
+
+Therefore, the adjoining land and the plates are not waiting until our construction is over.
+
+We have written the Department of Vidyalaya from me because we had letters.
 
 ...
 
 [Data](articles/503b878d.json)
+
+[Extended Data](ext_articles/503b878d.ext.json)
 
 ---
 
@@ -1332,6 +1402,22 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 
 ---
 
+### “Captain  Miller” the  LTTE’s First Black Tiger (Karumpuli) Suicide Bomber.
+
+*2024-07-15 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84368) · `en`
+
+“Captain Miller” is the name of an Indian film released on 12 January 2024. The block buster  Tamil Movie had popular actor Dhanush  acting  in the lead titular role of Captain Miller. The film was a fictional tale  about a heroic rebel who fought against British colonial rule. Reports state that the film is the highest ever  grossing film  starring Dhanush.
+
+One reason for the film’s  success was it’s title which evoked much interest and curiosity. “Captain Miller”was the nom de guerre of the Liberation Tigers  of Tamil Eelam(LTTE) suicide bomber who drove an explosive laden truck into an army camp in the north on  5 July 1987. This was the first time the LTTE had deployed a suicide bomber called “Black Tiger”or “Karumpuli”  in a military attack. The name of  Capt Miller  the first “Black tiger” strikes a responsive chord  among many Tamils. July 5th was annually observed as Black tigers day by the LTTE till May 2009.
+
+...
+
+[Data](articles/e71bb13b.json)
+
+[Extended Data](ext_articles/e71bb13b.ext.json)
+
+---
+
 ### The real revolution is to go ahead
 
 *2024-07-15 02:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னோக்கிச்-செல்வதே-உண்மையான-புரட்சி/175-340408) · `ta`
@@ -1672,6 +1758,18 @@ Meanwhile, the socialists are invited with bags to meet the meetings and are all
 
 ---
 
+### இலங்கை தமிழர் அரசியலின் சமகால வரலாற்றில் தீர்க்கமான நிகழ்வுகள் நிறைந்த காலகட்டத்தை உள்ளடக்கிய  இராஜவரோதயம் சம்பந்தனின் அரசியல் பயணம்
+
+*2024-07-15 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84376) · `en`
+
+முதுபெரும் தமிழ் அரசியல் தலைவர் இராஜவரோதயம் சம்பந்தனின் இறுதிச் சடங்குகள் திருகோணமலையில் 2024 ஜூலை 7 ஞாயிற்றுக்கிழமை நடைபெற்றன. 32 வருடங்களாக திருகோணமலையின் பாராளுமன்ற உறுப்பினராக இருந்த தலைவருக்கு பெருந்திரளான  மக்கள் பிரியாவிடை கொடுத்தனர். ஜனாதிபதி ரணில் விக்கிரமசிங்கவும் திருகோணமலைக்கு சென்று இறுதிசடங்குகளில் கலந்துகொண்டார். முன்னதாக கொழும்பு பொரளை றேமண்ட் மலர்ச்சாலையில்  சம்பந்தனின் பூதவுடல்  அஞ்சலிக்காக வைக்கப்பட்டிருந்தபோது ஜனாதிபதி தனது மனைவி மைத்ரி விக்கிரமசிங்க சகிதம் சென்று தனது இறுதி மரியாதையைச் செலுத்தினார்.
+
+...
+
+[Data](articles/370f9b9f.json)
+
+---
+
 ### Lessons from Italy’s growing love affair with Sri Lankan apparel
 
 *2024-07-15 01:07:57* · [`dailyftlk`](https://www.ft.lk/columns/Lessons-from-Italy-s-growing-love-affair-with-Sri-Lankan-apparel/4-764254) · `en`
@@ -1765,6 +1863,20 @@ Aseni, the whiz kid in economics, and her grandfather, Sarath Mahaththaya, a for
 [Data](articles/70001dc2.json)
 
 [Extended Data](ext_articles/70001dc2.ext.json)
+
+---
+
+### Murder Most Foul: Assassination of Appapillai  Amirthalingam 35 Years ago
+
+*2024-07-15 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84364) · `en`
+
+(Renowned Tamil Political leader Appapillai Amirthalingam was shot dead in Colombo along with Former Jaffna MP V.Yogeswaran on 13 July 1989. This article  about the foul murder  was published in the “Daily Mirror”  in 2019. It is re-posted here without any changes to denote the 35th anniversary of the Amirthalingam Assassination)
+
+...
+
+[Data](articles/922902f8.json)
+
+[Extended Data](ext_articles/922902f8.ext.json)
 
 ---
 
@@ -2067,161 +2179,5 @@ Also, their internal controlls were not carried out and the economic crisis in 2
 [Data](articles/92b2a333.json)
 
 [Extended Data](ext_articles/92b2a333.ext.json)
-
----
-
-### ‘Club Wasantha’ murder: Top cops warned over grilling suspect in front of media
-
-*2024-07-14 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100505/club-wasantha-murder-top-cops-warned-over-grilling-suspect-in-front-of-media) · `en`
-
-Minister of Public Security Tiran Alles has issued a stern warning to high-ranking police officers regarding the recent questioning of the tattoo studio owner arrested in connection with the murder of popular businessman Surendra Wasantha Perera alias “Club Wasantha” in front of the media.
-
-Accordingly, the Public Security Minister has warned the high-ranking officers including the Deputy Inspector General of Police (DIG) in charge of the Western Province (South) Gayantha Marapana, who were involved in the said questioning of the suspect in front of media personnel.
-
-In response, DIG Gayantha Marapana has expressed his regret to Minister Alles over the incident. He has acknowledged the mishandling of the situation and assured the Minister that such an incident would not recur in the future.
-
-...
-
-[Data](articles/fffeca25.json)
-
-[Extended Data](ext_articles/fffeca25.ext.json)
-
----
-
-### A gazette regard to transport services
-
-*2024-07-14 19:02:45* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රවාහන-සේවා-වලට-අදාළව-යළි-ගැසට්-පත්‍රයක්/11-410783) · `si`
-
-President Wickremesinghe, through Secretary Saman Ekanayake, declared transport services essential, emphasizing their importance for traffic management and railway operations. This decision was announced via a special gazette notification on December 12th, highlighting the critical role of these services in maintaining public safety and convenience.
-
-🟩
-
-Transport services have been re-released as essential services. The commendant President Ranil Wickremesinghe's example has been issued by the Secretary to the President Saman Ekanayake.
-
-The Gazette stated that facilitating and maintaining and maintaining and maintaining and maintaining and maintaining and maintaining training and maintenance of traffic services, along the railways, along the railways.
-
-The President had previously been a special gazette and the new gazette notification has been issued on the 12th.
-
-◼️
-
-[Data](articles/95c022ba.json)
-
-[Extended Data](ext_articles/95c022ba.ext.json)
-
----
-
-### Amendment of second electricity tariffs
-
-*2024-07-14 18:55:16* · [`adalk`](https://www.ada.lk/breaking_news/දෙවැනි-විදුලි-ගාස්තු-සංශෝධනය-අද-ප්‍රකාශ-කරයි/11-410782) · `si`
-
-The Public Utilities Commission plans to announce an amended electricity tariff schedule today, following discussions and feedback from various stakeholders, including electricity groups, industries, and organizations. The initial tariff reduction proposal aimed to decrease rates by about 9% on average, with a significant reduction of up to 33% for consumers using less than 30 units of electricity per month.
-
-🟩
-
-The Public Utilities Commission states that the amendment for this year is scheduled to be announced today (15).
-
-The Chairman of the Commission said that the commission was scheduled to meet the tariff revision and declare the decision of the Commission today (15).
-
-The Secretary to the CEB has been conducting the verbal ideas of the CEB to the CEB for the year at 4.30 am to 4.30 pm to 4.30 am from 8.30 am to 4.30 pm.
-
-About 50 people have been registered with various electricity groups, industry and organizations to comment on the proposed telecommunication revision.
-
-The Minister in charge of the subject was reportedly stated that the electricity charges of the Electricity Board (CEB) could be reduced.
-
-Accordingly, the electricity revision of the electrification revision will be reduced and the fees will be published by the Public Utilities Commission today.
-
-The first electricity tariff this year took place on March 4 and generally electricity tariffs 21. Was diminished by 9.
-
-...
-
-[Data](articles/a6c20479.json)
-
-[Extended Data](ext_articles/a6c20479.ext.json)
-
----
-
-### US $ 100 million to restructure electricity
-
-*2024-07-14 18:48:57* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබලය-ප්‍රතිව්‍යුහගත-කරන්න-ඇමෙරිකානු-ඩොලර්-මිලියන-100ක්/11-410781) · `si`
-
-The Asian Development Bank (ADB) has approved a $100 million policy loan to revamp the electricity sector, focusing on sustainability and green energy. This initiative aims to enhance operational efficiency, foster renewable energy adoption, and stimulate investment in the sector, setting the stage for achieving renewable energy targets from 2023 to 2030.
-
-🟩
-
-ADC has approved a policy loan alarm of $ 100 million for the restructuring program in the electricity sector.
-
-According to the Chief Above Power Experioner of the Asian Development Bank, the program is a support to the electricity industry and the power sector for sustainable operations in the electricity industry as well as regulatory operations.
-
-The program will also assist in the accelerated energy development and migrating to generate sustainable green energy generation.
-
-Similarly, this aid program will create a new policy and electricity purchase of the electricity and electricity purchase and to accelerate investment in the expenditure.He also helps to achieve the renewable energy generational of 2023-2030.
-
-The Ministry of Energy stated that the project is an initiative to update the renewable energy and implementing a procurement of renewable energy for small power generation projects and the solar panels.
-
-◼️
-
-[Data](articles/a7f96d84.json)
-
-[Extended Data](ext_articles/a7f96d84.ext.json)
-
----
-
-### The assassination of 10 coconuts
-
-*2024-07-14 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198803) · `si`
-
-Kumaravadu Sumith, 49, from Ratgama, was arrested by the Ratgama Police for the murder of Dadalla Wimalasena, 67, also from Ratgama. The incident occurred at 5:00 pm on December 12th. Investigations reveal the victim's family members were present but not harmed.
-
-🟩
-
-The suspect in the killing of the coconut tunnel has been arrested by the Ratgama Police today (14).
-
-The arrests Kumaravadu Sumith (49), a resident of Walakada, Rumigoda, Ratgama.
-
-The suspect was arrested by the Ratgama Police regarding the murder of Dadalla Wimalasena (67), a resident of Rathgama.
-
-The Rathgama Police said that the murder had occurred at 5.00 pm on the evening (12).
-
-Police investigations have confirmed that his mother and mother's sister was alive with the deceased and that the victim's wife and child will live in Dubai.
-
-The demonstration had taken place by the suspect, which had been sold by the suspect, who had been sold by the suspect belonging to the suspect.
-
-◼️
-
-[Data](articles/209352ce.json)
-
-[Extended Data](ext_articles/209352ce.ext.json)
-
----
-
-### Three young livestock accidents
-
-*2024-07-14 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198802) · `si`
-
-In separate incidents, three young individuals tragically lost their lives in traffic accidents across Sri Lanka. The first involved a motorcyclist colliding with a bus stop in Bandaragama, leading to his death upon arrival at Gonaduwa hospital. Another incident saw a motorcyclist seriously injured after crashing with another vehicle near Padeniya junction; he remains hospitalized. Lastly, a passenger in a lorry traveling between Dambulla and Habarana suffered injuries and was taken to Dambulla hospital. All drivers involved have been apprehended, with ongoing police investigations.
-
-🟩
-
-Three killed in accidents occurred in three areas. Police said that three youths were killed.
-
-A motorcycle, a motorbike on the Bandaragama, Bandaragama and Kalutara Kalutara road today (14), had accidentally collided with a bus stop.
-
-Police said the injured motorcyclist died on admission to the Gonaduwa hospital.
-
-Meanwhile, a motorbike collided with a motorcycle who had been traveling to Padeniya junction on the Anuradhapura road from Galgamuwa, Padeniya - Anuradhapura on the Anuradhapura route.
-
-The motorcyclist who was seriously injured was admitted to Anuradhapura Hospital while receiving further treatment.
-
-The driver of the cab has been arrested and the Galgamuwa Police are conducting further investigations.
-
-Also, the accident had occurred in a lorry that was traveling from Dambulla and Habarana in the Dambulla area on the Sigiriya, Dambulla and Habarana main road.
-
-A youth from the van was injured and admitted to the Dambulla hospital.
-
-...
-
-[Data](articles/9b6eae86.json)
-
-[Extended Data](ext_articles/9b6eae86.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 15:20:01**
+As of **2024-07-15 15:37:11**
 
 ## Newspaper Stats
 
-*Scraped **35,351** Articles*
+*Scraped **35,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,004
 economynextcom | 2,093
 dailyftlk | 2,231
-adalk | 3,185
+adalk | 3,186
 adaderanalk | 4,073
 tamilmirrorlk | 4,267
 dailymirrorlk | 4,733
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,344 (100.0%) of 35,351 articles have been extended.
+35,351 (100.0%) of 35,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### විදුලි බිලට දැනෙන වෙනසක්
+### Change of electricity bills
 
 *2024-07-15 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198835) · `si`
 
-මෙම වර්ෂයට අදාළ දෙවන විදුලි ගාස්තු සංශෝධනය 22.5%ක් බව මහජන උපයෝගීතා කොමිසම මීට සුළු වේලාවකට පෙර නිවේදනය කළේය.
+The Public Utilities Commission revealed that 22.5% of the second electrification tariff for this year totals 22.5%. The Chairman also mentioned a reduction in the price of a domestic power unit to 6 rupees during a special media briefing.
 
-විශේෂ මාධ්‍ය හමුවක් පවත්වමින් එහි සභාපතිවරයා සඳහන් කර සිටියේ, ගෘහස්ත විදුලි ඒකකයක මිල රුපියල් 8 සිට 6 දක්වා අඩුකර ඇති බවය.
+🟩
+
+The Public Utilities Commission announced that 22.5% of the second electrification tariff this year amounted to 22.5%.
+
+The Chairman said that a special media briefing had been reduced by the price of a domestic power unit to 6 rupees.
 
 ◼️
 
 [Data](articles/5c66921d.json)
+
+[Extended Data](ext_articles/5c66921d.ext.json)
 
 ---
 
@@ -62,59 +68,83 @@ Meanwhile, the PUCSL has decided to reduce the tariffs by over 30 percent for re
 
 [Data](articles/03768c65.json)
 
+[Extended Data](ext_articles/03768c65.ext.json)
+
 ---
 
-### විදුලි ගාස්තු සංශෝධනය ගැන පැවැත්වෙන මාධ්‍ය හමුව
+### Media Meeting on Electricity tariff revision
 
 *2024-07-15 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198834) · `si`
 
-මෙම වර්ෂයට අදාළ දෙවන විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන උපයෝගීතා කොමිසම විසින් පවත්වනු ලබන විශේෂ මාධ්‍ය හමුව මේ වනවිට ආරම්භ කර තිබේ.
+Public Utilities Commission announced amendments to the electricity tariff scheme during a press conference, marking the start of their media briefing.
+
+🟩
+
+The press conference held by the Public Utilities Commission regarding the amendment of the second electrification scheme regarding this year has commenced its media briefing.
 
 ◼️
 
 [Data](articles/5a3682a8.json)
 
+[Extended Data](ext_articles/5a3682a8.ext.json)
+
 ---
 
-### ரீல்ஸ் வௌியிட்ட மனைவி பலி
+### Wife killed in reels
 
 *2024-07-15 14:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரீல்ஸ்-வௌியிட்ட-மனைவி-பலி/175-340443) · `ta`
 
-சமூக வலைத்தளங்களில் ரீல்ஸ் வெளியிட்ட தனது மனைவியை கொன்று கழிவறையில் பதுக்கி வைத்திருந்த சம்வம் தெலுங்கானா பகுதியில் இடம்பெற்றுள்ளது.
+In a tragic incident in Samvam, Telangana, Pradeep Bola, originally from Odisha and working as a cook, allegedly murdered his wife Madhumita, a mother of a 10-month-old, over her addiction to social media reels. After cutting her head off and dismembering her body, he hid the remains in a bathroom. Colleagues discovered the gruesome act when they couldn't find Pradeep at work due to the foul smell emanating from his home.
 
-தெலுங்கானாவின் உப்பல் பகுதியில் வசித்து வருபவர் பிரதீப் போலா. இவரது மனைவி மதுமிதா (வயது 24). இவர்களுக்கு 10 மாத பெண் குழந்தை உள்ளது.
+🟩
 
-ஒடிசாவைச் சேர்ந்த பிரதீப் போலா, தெலுங்கானாவில் உள்ள ஹோட்டலில் சமையல்காரராக வேலை பார்த்து வருகிறார். சமூக வலைதளங்களில் ஆர்வம் உள்ள மனைவி இன்ஸ்டாகிராமில் 'ரீல்ஸ்' வீடியோ வெளியிடுவது வழக்கமாக வைத்துள்ளார். ஆனால் இது கணவருக்கு பிடிக்கவில்லை.
+The Samvam Telangana area, which killed his wife, who was released by reels on social media, was hiding in the toilet.
 
-இதனால் செல்போனை அதிக நேரம் பயன்படுத்தக்கூடாது, 'ரீல்ஸ்' வீடியோ வெளியிடக்கூடாது என்று அவர் கண்டித்துள்ளார்.
+Pradeep Bola, who lives in Uppal area of ​​Telangana. His wife Madhumita (age 24). They have a 10 -month -old baby girl.
 
-ஆனால் மனைவி அவர் பேச்சை கேட்காமல் தொடர்ந்து 'ரீல்ஸ்' வெளியிட்டு வந்தார். இதனால் ஆத்திரம் அடைந்த கணவன், மனைவியின் தலையை கத்தியால் வெட்டி அவரது உடலையும்  துண்டுதுண்டாக வெட்டி ஒரு சாக்குமூட்டையில் கட்டி குளியல் அறையில் வைத்துவிட்டு தனது குழந்தையுடன் தலைமறைவாகி விட்டார்.
+Pradeep Bola from Odisha is working as a cook at a hotel in Telangana. Interested in social networks. But this does not like the husband.
 
-மேலும், குறித்த நபர்  ஹோட்டலுக்கு வேலைக்கு வராததால், அங்கிருந்த சக ஊழியர்கள் அவரை தேடி அவரது வீட்டுக்கு வந்துள்ளனர்.
+He has condemned the cell phone not to use too much time and not to release the 'reels' video.
 
-...
+But the wife continued to release 'reels' without listening to his speech. The angry husband cut off his wife's head with a knife and cut her body into a cucumber and put it in the bathroom.
+
+Also, as the person did not work for the hotel, colleagues had come to his house in search of him.
+
+Madhumita's body has been recovered from the sack after the stench of the house was reported.
+
+◼️
 
 [Data](articles/4221ca93.json)
 
+[Extended Data](ext_articles/4221ca93.ext.json)
+
 ---
 
-### மீண்டும் குழப்பம்: வெளியேறிய வைத்தியர் அர்ச்சுனா
+### Again mess: Exit doctor Archana
 
 *2024-07-15 14:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மீண்டும்-குழப்பம்-வெளியேறிய-வைத்தியர்-அர்ச்சுனா/71-340442) · `ta`
 
-சாகவகச்சேரி வைத்தியசாலைக்கு திங்கட்கிழமை (15) காலை சென்ற வைத்தியர் அர்ச்சுனா, வைத்தியசாலை வளாகத்தில் இருந்து வெளியேறியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Dr. Archana, former Medical Superintendent of Chavakachcheri Resource Hospital, unexpectedly left the hospital premises after a disagreement with another staff member, Rajiv. This incident followed her receiving an official letter of removal from the Union Health Ministry, which she responded to by stating her continued commitment to the hospital.
 
-சாவகச்சேரி ஆதார வைத்தியசாலைக்கு, பதில் வைத்திய அத்தியட்சகராக முன்னர் இருந்த இராமநாதன் அர்ச்சுனா வருகைதந்தமையால் குழப்பமான நிலை அங்கு ஏற்பட்டது.
+🟩
 
-வைத்தியசாலை அத்தியட்சகர் அலுவலகத்தில் யார் வைத்திய அத்தியட்சகர் என இராமநாதன் அர்ச்சுனாவும் கோபால மூர்த்தி ரஜீவ்வும் நீண்ட விவாதத்தில் ஈடுபட்டநிலையில் பொலிஸார் தலையிட்டு சுமூகமான நிலையை ஏற்படுத்த முயன்றனர்.
+It is reported that Dr. Archana, who visited the Sagavagachcheri Hospital on Monday (15), left the hospital premises.
 
-இதனையடுத்து சில மணிநேரங்கள் வைத்தியசாலை அலுவலக அறையில் சில கடமைகளில் ஈடுபட்டு விட்டு இராமநாதன் அர்ச்சுனா வெளியேறிச் சென்றார்.
+Ramanathan Archana, who was formerly the Medical Superintendent of Reply to the Chavakachcheri Resource Hospital, was confused.
 
-இதேவேளை சாவகச்சேரி ஆதார வைத்தியசாலையின் வைத்திய அத்தியட்சகராக வைத்தியர் ரஜீவ் தொடர்ந்தும் கடமையில் உள்ளார்.
+Ramanathan Archana and Gopala Murthy Rajiv were involved in a long debate as the superintendent of the hospital superintendent's office.
 
-...
+After a few hours, Ramanathan Archana left for some duties in the hospital office.
+
+Meanwhile, Dr. Rajeev is still on duty as the medical superintendent of the Chavakachcheri Resource Hospital.
+
+Ramanathan Archana said that I was the answer to the Chavakachcheri Hospital in response to a letter of official removal of me from the Union Health Ministry.
+
+◼️
 
 [Data](articles/3c8e2f45.json)
+
+[Extended Data](ext_articles/3c8e2f45.ext.json)
 
 ---
 
@@ -135,6 +165,8 @@ The Election Commission and its members, the General Secretary of Parliament and
 ...
 
 [Data](articles/c40e2d27.json)
+
+[Extended Data](ext_articles/c40e2d27.ext.json)
 
 ---
 
@@ -384,23 +416,31 @@ Her husband brought her to the attention of the police. With them, police arrest
 
 ---
 
-### கர்ப்பிணியும் காதலனும் கணவனிடம் கப்பம் கேட்டு தொல்லை
+### Pregnant and boyfriend harassed her husband
 
 *2024-07-15 13:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணியும்-காதலனும்-கணவனிடம்-கப்பம்-கேட்டு-தொல்லை/175-340437) · `ta`
 
-கர்ப்பிணியான மனைவியும் அவளுடைய காதலனும் கணவனிடம் சுமார் 5 மில்லியன் ரூபாவை கப்பமாகக் கேட்டு தொல்லை கொடுத்த சம்பவமொன்று கலவானை பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+A pregnant woman vanished after telling her husband she was going to a clinic; he reported her missing. Her boyfriend and another woman, both unknown to him, were arrested. The husband must pay 5 million rupees for her release, and the incident was reported via WhatsApp.
 
-கர்ப்பிணி பெண்ணொருவர் சில நாட்களுக்கு முன்னர் காணாமல் போயிருந்தார். அவரை கலவான பொலிஸ் பிரிவிலுள்ள கோவிந்தபுரத்தில் கடந்த சனிக்கிழமை (13) மாலை பொலிஸார் கண்டுப்பிடித்தனர்.
+🟩
 
-கர்ப்பிணியான அந்தப் பெண், மாதாந்த கிளினிக்குக்குச் செல்வதாகக் கூறிவிட்டு, 9ஆம் திகதி செவ்வாய்க்கிழமை வீட்டைவிட்டுச் சென்றிருந்தார். எனினும், அன்றையதினம்  தனது மனைவி, வீட்டுக்குத் திரும்பவில்லை என அவளுடைய கணவன், பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+A pregnant wife and her boyfriend have been harassing her husband about 5 million rupees.
 
-இந்நிலையில், அவளை விடுவிக்கவேண்டுமாயின் 5 மில்லியன் ரூபாய் பணத்தை கொடுக்கவேண்டுமென, இனந்தெரியாத தொலைபேசி அழைப்பொன்று, கணவனின் அலைபேசிக்கு வந்துள்ளது. அத்துடன், வட்ஸ்அப்க்கும் குறுந்தகவல் போடப்பட்டுள்ளது.
+A pregnant woman disappeared a few days ago. He was found by the police at Govindapuram in the mixed police division last Saturday evening.
 
-இதுதொடர்பில் பொலிஸாரின் கவனத்துக்கு அவளுடைய கணவன் கொண்டுவந்தார். அவற்றை கொண்டு விசாரணைகளை முன்னெடுத்த பொலிஸார் 31 வயதான பெண்ணையும் அவளுடைய காதலன் என அறியப்பட்ட 21 வயதான இளைஞனையும் கைது செய்தனர்.
+The pregnant woman left home on Tuesday 9th, claiming to go to the monthly clinic. However, her husband had lodged a complaint at the police station that his wife had not returned home that day.
+
+In this case, if she wants to release her, he has to pay 5 million rupees.. In addition, WhatsApp has been labeled.
+
+Her husband brought her to the attention of the police. With them, police arrested a 31 -year -old woman and a 21 -year -old youth known as her boyfriend.
+
+The two, who were in touch 5 months ago through the Internet, later became lovers. The lover who came to the city of Siyambalanduwa fell into the trap of love. She took her to her home in the mixed vetegoda area.
 
 ...
 
 [Data](articles/e553c3bc.json)
+
+[Extended Data](ext_articles/e553c3bc.ext.json)
 
 ---
 
@@ -871,6 +911,24 @@ The 125th Anniversary of the birth of Ramanathan will fall on Friday April 16, 1
 [Data](articles/b96bfdd3.json)
 
 [Extended Data](ext_articles/b96bfdd3.ext.json)
+
+---
+
+### හිටපු සි.අයි.ඩී. ලොක්කාගෙන් පොලිස්පතිට හා පොලිස් ඇමතිට දොස් මුරයක්
+
+*2024-07-15 11:07:15* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-සි-අයි-ඩී--ලොක්කාගෙන්-පොලිස්පතිට-හා-පොලිස්-ඇමතිට-දොස්-මුරයක්/11-410790) · `si`
+
+ශ්‍රී ලංකාව තුළින් විස්සයි විසි දෙක වසරේ මිනීමැරුම් පන්සිය පනස් නමයක් විස්සයි විසිතුන වසරේ මිනිමැරුම් පන්සිය හැත්තෑ අටක් සිදු වී  තිබෙන බවත් මෙය වළක්වා ගැනීමට නොහැකි පොලිස්පති වරයෙක් විෂය භාර ඇමතිවරයෙක් රටකට කුමකටද ඇයි අපරාධ පරීක්ෂණය දෙපාර්තමේන්තුව භාරව  සේවය  කළ හිටපු නියෝජ්‍ය පොලිස්පති  රවී සෙනවිරත්න මහතා පැවසීය.
+
+ජාතික ජන බලවේගයේ දඹුල්ල බස් නැවතුම්පොළ භූමියේ පැවති ජන හමුවකදී හිටපු නියෝජ්‍ය  පොලිස්පති‍ෙරවී සෙනවිරත්න මහතා මේ බව සඳහන් කළේය.
+
+රටේ ආරක්ෂාව සහ විශේෂයෙන් දඹුල්ලේ පවතින බරපතල අපරාධයන් පිළිබඳව ඒ මහතා සඳහන් කරන්නට විය
+
+පසුගියදා අතුරුගිරිය ප්‍රදේශයේ මහා දවල්  ටි  56 ගිනි අවි තුනක් රැගෙන පුද්ගලයන් මහ දවල්  ඝාතනය කළ බවත් එවැනි ඝාතනයක් වළක්වා ගැනීමට නොහැකි වීම කණගාටු බව ඳහන් කළ හිටපු නියෝජ්‍ය පොලිස්පති රවී සෙනවිරත්න මහතා වැඩිදුරටත් කියා සිටියේ   රටක මේ හා සමාන ඝාතන අපරාධ   සිදුවන්නේ නම් වෙනත් රටකනම් මේ වන විටත් පොලිස්පතිවරයා සහ විෂය භාර අමාත්‍යවරයා  ඉල්ලා අස්වන බවය.
+
+...
+
+[Data](articles/01cc7d10.json)
 
 ---
 
@@ -2195,33 +2253,5 @@ The Jaffna Library was also provided with the books. The Prime Minister said mor
 [Data](articles/8630c2ff.json)
 
 [Extended Data](ext_articles/8630c2ff.ext.json)
-
----
-
-### Moulavi arrested for pruning her hair
-
-*2024-07-15 01:19:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுவதியின்-தலை-முடியை-கத்தரித்த-மௌலவி-கைது/175-340401) · `ta`
-
-Moulavi, from Murudhawa, was arrested for cutting off a woman's hair on a bus from Katugastot to Kandy. The victim recorded the incident on her phone. Passengers reported the suspect, leading to his arrest. Investigations show he's from the North of Muruthalawa Tehiyanka.
-
-🟩
-
-The Kandy headquarters police have arrested a man known as Moulavi from Murudhawa area, who was allegedly pruning over half a half -haircut.
-
-A woman is sitting on a bus traveling from Katugastot to Kandy. Police investigations revealed that Moulavi had cut off the hair of the woman who was sitting in the back seat of her seat.
-
-Faced with the incident, the woman has taken a video on her mobile phone with the suspect and the part of the hair she cut.
-
-Also, the young woman who lives in Madawala area has been facing the incident while traveling to Kandy for some needs.
-
-The suspect has been caught and handed over to the police after the fellow passengers reported what they had happened.
-
-Investigations have revealed that the suspect was from the North of Muruthalawa Tehiyanka.
-
-◼️
-
-[Data](articles/7eb3f2f8.json)
-
-[Extended Data](ext_articles/7eb3f2f8.ext.json)
 
 ---

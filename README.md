@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 23:55:11**
+As of **2024-07-16 00:08:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,414 (100.0%) of 35,416 articles have been extended.
+35,416 (100.0%) of 35,416 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -231,6 +231,8 @@ He was instrumental in transforming LankaPay from to a globally recognized payme
 ...
 
 [Data](articles/8fb6b3d5.json)
+
+[Extended Data](ext_articles/8fb6b3d5.ext.json)
 
 ---
 
@@ -649,6 +651,8 @@ Religious places and charities saw a reduction of 30 percent.
 ◼️
 
 [Data](articles/7ed53901.json)
+
+[Extended Data](ext_articles/7ed53901.ext.json)
 
 ---
 

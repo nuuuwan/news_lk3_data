@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 17:20:03**
+As of **2024-07-15 17:36:04**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,914
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,372 (100.0%) of 35,374 articles have been extended.
+35,374 (100.0%) of 35,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### ජනපති සහ නීතිඥවරු අතර හමුවක්
+### President and lawyers meet
 
 *2024-07-15 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198842) · `si`
 
-සාම්ප්‍රදායික දේශපාලනයෙන් ඉවත්ව රට ගැන සිතා කටයුතු කරන දේශපාලන සංස්කෘතිකයක් රටේ ඉදිරි ගමන වෙනුවෙන් අත්‍යවශ්‍ය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කරයි.
+In a meeting with lawyers, President Ranil Wickremesinghe stressed the importance of the country's political culture for its progress. He cautioned against allowing opposition leaders to influence the economy solely based on political goals. Highlighting his stance during a recent presidential election gathering, he underscored that while politics is permissible, no party should compromise the nation's economic stability with IMF agreements.
 
-එහිදී පක්ෂ, විපක්ෂ සියලු දේශපාලන නායකයන්ට පැවරී ඇති වගකීම සුළුකොට තැකිය නොහැකි බව පැවසූ ජනාධිපතිවරයා දේශපාලන අරමුණුවලින් බැහැරව රටේ ආර්ථිකය නඟා සිටුවීමේ වැඩපිළිවෙලට සියලුදෙනාගේ සහාය හිමිවිය යුතු බවද සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නීතිඥවරු පිරිසක් සමඟ පසුගියදා ජනාධිපති කාර්යාලයේ පැවති හමුවේදීය.
+President Ranil Wickremesinghe emphasizes that political cultural of the country is essential for the move in the country.
 
-දේශපාලනය කිරීමට ඕනෑම අයෙකුට අයිතිය තිබෙන නමුත් රට ඉදිරියට ගෙන යන ආර්ථික රාමුව බිඳ දැමීමට කිසිවෙකු කටයුතු නොකළ යුතු බව පැවසූ ජනාධිපතිවරයා, ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ ගිවිසුමට අත්සන් තැබීමත් සමඟ පසුගිය සති කිහිපය තුළ මෙන්ම ඊට පෙර සිදු වූ වැඩවර්ජන ඉදිරි ජනාධිපතිවරණය ඉලක්ක කර ගනිමින් ක්‍රියාත්මක වූ ඒවා බවද පෙන්වා දුන්නේය.
+The President said that the President said that all opposition political leaders could not take the responsibility of all opposition should not have the support of all of the country's economy with political goals.
+
+President Ranil Wickremesinghe made this statement at the presidential election with a group of lawyers recently.
+
+The President who has the right to do politics but no one should have signed the country's economic economic economic economy with the International Monetary Fund.Pointed out.
 
 ◼️
 
 [Data](articles/0ff3edaf.json)
+
+[Extended Data](ext_articles/0ff3edaf.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ During that period, “temporary passports” had been issued for them to leave 
 ◼️
 
 [Data](articles/ff178ea4.json)
+
+[Extended Data](ext_articles/ff178ea4.ext.json)
 
 ---
 

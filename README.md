@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 09:07:10**
+As of **2024-07-15 09:20:00**
 
 ## Newspaper Stats
 
-*Scraped **35,281** Articles*
+*Scraped **35,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,002
 economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,181
-adaderanalk | 4,056
+adaderanalk | 4,057
 tamilmirrorlk | 4,249
 dailymirrorlk | 4,733
 virakesarilk | 5,502
@@ -26,29 +26,55 @@ adaderanasinhalalk | 5,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,270 (100.0%) of 35,281 articles have been extended.
+35,281 (100.0%) of 35,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
 
-### டிரம்ப் மீது துப்பாக்கி பிரயோகத்தினை மேற்கொண்டவர் உளரீதியான பாதிப்புகள் இல்லாதவர்-கொள்கை ரீதியான காரணங்களும் இல்லை – எவ்பிஐ
+### Railway Station Masters warn of indefinite strike
+
+*2024-07-15 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100509/railway-station-masters-warn-of-indefinite-strike) · `en`
+
+Executive grade officers of the university’s non-academic staff have decided to report to work from today (15), after ending the strike action.
+
+This decision follows a discussion with Prof. Sampath Amaratunge, Chairman of the University Grants Commission, regarding their demands.
+
+Meanwhile, the Railway Station Masters’ Union warns of a indefinite strike if the Minister of Transport fails to submit their demands for Cabinet approval and provide solutions today (15).
+
+President of the union Sumedha Somaratne stated that they will meet tomorrow (16) to make a final decision.
+
+◼️
+
+[Data](articles/06877b68.json)
+
+---
+
+### The man who fired on Trump has no psychological impacts-there are no policy reasons-AvPI
 
 *2024-07-15 08:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188465) · `ta`
 
-அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்மீது துப்பாக்கிபிரயோகத்தினை மேற்கொண்ட தோமஸ் மத்தியுஸ் குரூக்ஸ்  உளரீதியாக பாதிக்கப்படாதவர் என எவ்பிஐ தெரிவித்துள்ளது.
+Thomas Madhus Crooks, who shot at Donald Trump, shows no signs of psychological distress, according to EPI. The incident lacks policy motives, and initial investigations suggest he acted alone, without prior surveillance or involvement in dangerous activities. His use of his father's rifle indicates no previous criminal intent.
 
-துப்பாக்கி பிரயோகத்தினை மேற்கொண்டவர் உளரீதியான பாதிப்பிற்குள்ளானவர் என்பதற்கான அறிகுறிகள் எதுவுமில்லை என தெரிவித்துள்ள எவ்பிஐ அதிகாரியொருவர் அவரது நோக்கம் குறித்தே கவனம் செலுத்துகின்றோம் குறிப்பாக சமூக ஊடகங்களில் அவரது பதிவுகளை ஆராய்கின்றோம் என தெரிவித்துள்ளார்.
+🟩
 
-இதுவரை ஆபத்தான அச்சுறுத்தலான விடயங்கள் எதனையும் காணமுடியவில்லை விசாரணைகள் ஆரம்பகட்டத்திலேயே உள்ளன என குறிப்பிட்டுள்ள அவர் அவரது கையடக்க தொலைபேசியை ஆராய்கின்றோம் அதனை எவ்பிஐயின் ஆய்வு கூடத்திற்கு அனுப்பியுள்ளோம் எனவும் தெரிவித்துள்ளார்.
+EPI has said that Thomas Madhus Crooks, who fired on US President Donald Trump, is not psychologically affected.
 
-டொனால்ட் டிரம்ப் மீதான துப்பாக்கி பிரயோகத்திற்கு கொள்கைரீதியான காரணங்கள் எதுவும் இருப்பதாக தெரியவில்லை,அவர் தனித்து செயற்பட்டுள்ளார் போல தோன்றுவதாகவும் எவ்பிஐ தெரிவித்துள்ளது.
+An EPI official has said that there is no indication that the firingman is psychologically affected.
 
-அவர் கடந்த காலங்களில் எங்களின் கண்காணிப்புகளின் கீழ் இருக்கவில்லை எங்கள் தரவுகளில் இடம்பெற்றிருக்கவில்லை எனவும் எவ்பிஐ தெரிவித்துள்ளது.
+He said that there are no more dangerous threats so far, he said, adding that the inquiries are at the beginning.
 
-...
+There are no policy reasons for the shooting on Donald Trump, and the AvPI said he would look like he was acting alone.
+
+He said that he was not under our surveillance in the past, and that our data had not been featured.
+
+While investigating how he got a gun, it was revealed that he had used his father's purchased rifle, according to API officials.
+
+◼️
 
 [Data](articles/e8d81a6f.json)
+
+[Extended Data](ext_articles/e8d81a6f.ext.json)
 
 ---
 
@@ -210,6 +236,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/0ec528c3.json)
 
+[Extended Data](ext_articles/0ec528c3.ext.json)
+
 ---
 
 ### ADB approves support for power sector reforms in Sri Lanka
@@ -223,6 +251,8 @@ The Power Sector Reforms and Financial Sustainability Program will complement 
 ...
 
 [Data](articles/2c86a0b8.json)
+
+[Extended Data](ext_articles/2c86a0b8.ext.json)
 
 ---
 
@@ -238,6 +268,8 @@ The Bank issued an initial LKR 5 billion in Basel III-compliant, Tier 2, listed,
 
 [Data](articles/cd4e498f.json)
 
+[Extended Data](ext_articles/cd4e498f.ext.json)
+
 ---
 
 ### IIHS opens doors for GCE O/L and A/L students to discover career pathways
@@ -249,6 +281,8 @@ International Institute of Health Sciences (IIHS), has granted GCE Ordinary Leve
 ...
 
 [Data](articles/cdcd2ebb.json)
+
+[Extended Data](ext_articles/cdcd2ebb.ext.json)
 
 ---
 
@@ -266,6 +300,8 @@ Mahesh Wijewardene, Chief Executive Officer, Singer Group of Companies said,” 
 
 [Data](articles/f3952beb.json)
 
+[Extended Data](ext_articles/f3952beb.ext.json)
+
 ---
 
 ### UAE women’s national cricket team aboard SriLankan Airlines
@@ -282,6 +318,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/84157fc9.json)
 
+[Extended Data](ext_articles/84157fc9.ext.json)
+
 ---
 
 ### PayMedia triumphs at SLASSCOM Ingenuity Awards 2024
@@ -293,6 +331,8 @@ PayMedia has once again demonstrated its prowess in digital innovation by winnin
 ...
 
 [Data](articles/8d02a0c2.json)
+
+[Extended Data](ext_articles/8d02a0c2.ext.json)
 
 ---
 
@@ -404,37 +444,49 @@ One Road Group a large-scale comprehensive enterprise, founded in 2012 in Dubai,
 
 ---
 
-### ’முன்னோக்கிச் செல்வதே உண்மையான புரட்சி’
+### The real revolution is to go ahead
 
 *2024-07-15 02:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னோக்கிச்-செல்வதே-உண்மையான-புரட்சி/175-340408) · `ta`
 
-மக்களைக் கொல்வதோ வீடுகளை எரிப்பதோ உண்மையான புரட்சி கிடையாது. மாறாக நாட்டில் மக்கள் பெருமையுடன் முன்னோக்கிச் செல்லக்கூடிய சூழலை உருவாக்குவதே உண்மையான புரட்சி என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasizes true revolution as creating an environment for progress, not violence. At a land distribution event, he symbolically handed over land rights to 4,012 people, highlighting development over destruction.
 
-தம்புத்தேகம மகாவலி விளையாட்டரங்கில் நேற்று முன்தினம் நடைபெற்ற உறுமய நிரந்தர காணி உறுதி வழங்கும் நிகழ்வில் கலந்து கொண்ட ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-அநுராதபுரம் மாவட்டத்தில் உள்ள மகாவலி எச். மற்றும் ஹுருலுவெவ ஆகிய இரண்டு வலயங்களில் உள்ள 9 மகாவலி பிரிவுகளில் 4,012 பேருக்கு இலவச காணி உறுதிகள் வழங்கப்பட்டன. 47 காணி உறுதிகள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் அடையாளமாக வழங்கி வைக்கப்பட்டன. (a)
+There is no real revolution to kill people or burning homes. On the contrary, President Ranil Wickremesinghe said that the real revolution is to create an environment where the people can proudly move forward in the country.
+
+The President, who attended the Urumaya Permanent Land Revolution held yesterday at the Mahaweli Stadium in Tambuttegama.
+
+Mahaweli H in Anuradhapura district. And 4,012 people in 9 Mahaweli sections of the two zones of Huruluwewa were given free land guarantees. 47 Land Rectangles were symbolized by President Ranil Wickremesinghe. (A)
 
 ◼️
 
 [Data](articles/4b49ab6a.json)
 
+[Extended Data](ext_articles/4b49ab6a.ext.json)
+
 ---
 
-### தீகவாபி தூபியில் நினைவுச் சின்னங்கள் வைக்கும் நிகழ்வு
+### The event is to keep monuments in the fire
 
 *2024-07-15 02:12:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீகவாபி-தூபியில்-நினைவுச்-சின்னங்கள்-வைக்கும்-நிகழ்வு/175-340407) · `ta`
 
-வரலாற்றுச் சிறப்புமிக்க தீகவாபி தூபிக்குள் புனித தாது, பொக்கிஷங்கள் என்பவற்றை வைக்கும் நிகழ்வு நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பங்களிப்புடன் நடைபெற்றது.
+Yesterday, under President Ranil Wickremesinghe's leadership, the restoration of Tikawabi, Sri Lanka's fourth-largest incense burner, began in 2020 by the Ministry of Defense. The event featured the Maha Sangam recitation, where the president was blessed with holy water at Deegawabi, and the Air Force offered floral tributes. The inauguration included the opening of a new shrine hall and feeding pavilion.
 
-இலங்கையின் நான்காவது பெரிய தூபிகளில் ஒன்றான தீகவாபியை புனரமைக்கும் பணிகள் 2020 ஆம் ஆண்டு பாதுகாப்பு அமைச்சின் தலைமையில் ஆரம்பிக்கப்பட்டது.
+🟩
 
-மகா சங்கத்தினரின் பிரித் பாராயணத்திற்கு மத்தியில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் தீகவாபி தூபியில் புனித தாது வைக்கப்பட்டதோடு அந்த சமயத்தில் விமானப் படையினர் மலர் தூவி மலர் அஞ்சலி செலுத்தினர்.
+The event was held yesterday with the contribution of President Ranil Wickremesinghe in the historic Tigawabi Dubi.
 
-புனித தாது மற்றும் ஏனைய தாதுக்கள் வைக்கப்பட்டு புதிதாக நிர்மாணிக்கப்பட்ட தாது மண்டபம் மற்றும் அன்னதான மண்டபம் என்பவற்றை ஜனாதிபதி ரணில் விக்கிரமசிங்க திறந்து வைத்தார். (a)
+The reconstruction of Tikawabi, one of the fourth largest incense of Sri Lanka, was started by the Ministry of Defense in 2020.
+
+Amidst the recitation of the Maha Sangam, President Ranil Wickremesinghe was placed in holy ore at Deegawabi, and the Air Force paid floral tributes at the time.
+
+President Ranil Wickremesinghe inaugurated the newly constructed ore hall and Annadhana Mandapam. (A)
 
 ◼️
 
 [Data](articles/e1a13608.json)
+
+[Extended Data](ext_articles/e1a13608.ext.json)
 
 ---
 
@@ -1122,23 +1174,33 @@ The President had previously been a special gazette and the new gazette notifica
 
 ---
 
-### දෙවැනි විදුලි ගාස්තු සංශෝධනය අද ප්‍රකාශ කරයි
+### Amendment of second electricity tariffs
 
 *2024-07-14 18:55:16* · [`adalk`](https://www.ada.lk/breaking_news/දෙවැනි-විදුලි-ගාස්තු-සංශෝධනය-අද-ප්‍රකාශ-කරයි/11-410782) · `si`
 
-මේ වර්ෂයට අදාළ දෙවන විදුලි ගාස්තු සංශෝධනය අද (15දා) ප්‍රකාශයට පත් කිරීමට සැලසුම් කර තිබෙන බව මහජන උපයෝගිතා කොමිසම සඳහන් කරයි.
+The Public Utilities Commission plans to announce an amended electricity tariff schedule today, following discussions and feedback from various stakeholders, including electricity groups, industries, and organizations. The initial tariff reduction proposal aimed to decrease rates by about 9% on average, with a significant reduction of up to 33% for consumers using less than 30 units of electricity per month.
 
-ගාස්තු සංශෝධනයටඅදාළ ගණනය කිරීම සිදුකරගෙන යන බවත් මේ අනුව අද (15දා) කොමිෂන් සභාව රැස් වී අදාළ තීන්දු තීරණ ප්‍රකාශයට පත් කිරීමට සැලසුම් කර තිබෙන බවද එම කොමිසමේ සභාපතිමහාචාර්ය මංජුල ප්‍රනාන්දු මහතා %අද^ කළ විමසීමකදී සඳහන් කළේය.
+🟩
 
-මේ වර්ෂය සඳහා විදුලිබල මණ්ඩලය විසින් යෝජනා කර ඇති විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන උපදේශනයේ වාචික අදහස් ලබාගැනීම09වන දින පෙරවරු 8.30 සිට පස්වරු 4.30 දක්වා බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත‍්‍රණ ශාලාවේදී පැවැත්විය.
+The Public Utilities Commission states that the amendment for this year is scheduled to be announced today (15).
 
-අදාළ උපදේශනයේදී යෝජිත විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් අදහස් දැක්වීම සඳහා විවිධ විදුලි පාරිභෝගික කණ්ඩායම්, කර්මාන්ත හා සංවිධාන නියෝජනය කරමින් 50දෙනෙකු පමණ ලියාපදිංචි වී අදහස් දැක්වීම සිදුවිය.
+The Chairman of the Commission said that the commission was scheduled to meet the tariff revision and declare the decision of the Commission today (15).
 
-මෙවර ගාස්තු සංශෝධනයේ විදුලි ගාස්තු අඩුවන බවට විෂය භාර අමාත්‍යවරයා විසින් මීට පෙර ප්‍රකාශ කළ අතර, මීට අමතරව විදුලිබල මණ්ඩලයේ ඉංජිනේරු සංගමය පවා විදුලි ගාස්තුව අඩුකළ හැකි බවට ප්‍රකාශ කරනු ලැබිණි.
+The Secretary to the CEB has been conducting the verbal ideas of the CEB to the CEB for the year at 4.30 am to 4.30 pm to 4.30 am from 8.30 am to 4.30 pm.
+
+About 50 people have been registered with various electricity groups, industry and organizations to comment on the proposed telecommunication revision.
+
+The Minister in charge of the subject was reportedly stated that the electricity charges of the Electricity Board (CEB) could be reduced.
+
+Accordingly, the electricity revision of the electrification revision will be reduced and the fees will be published by the Public Utilities Commission today.
+
+The first electricity tariff this year took place on March 4 and generally electricity tariffs 21. Was diminished by 9.
 
 ...
 
 [Data](articles/a6c20479.json)
+
+[Extended Data](ext_articles/a6c20479.ext.json)
 
 ---
 
@@ -2145,37 +2207,5 @@ Minister of Health and Industry Dr. Ramesh Pathirana said that he addressed the 
 [Data](articles/960d984b.json)
 
 [Extended Data](ext_articles/960d984b.ext.json)
-
----
-
-### Tatu Malli's confession - Police officers warned of the police officers
-
-*2024-07-14 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198791) · `si`
-
-Minister Tiran Alles criticized police for aiding TATO, leading to the arrest of suspects linked to Club Wasantha. The Chief Prelate and DIG Gayantha Marapana apologized to him. Suspects including Surestra and Gamini B have been arrested and transferred to different prisons for security reasons.
-
-🟩
-
-The Minister of Defense has admonishes police officers with the assisting TATO to the media in front of the media from the suspects of the suspect in the suspect in suspicion of Club Wasantha Perera.
-
-It is reported that Minister Tiran Alles has been admonished by the Chief Prelate of the Police Chief of Police and the Western Province of Western Province.
-
-DIG Gayantha Marapana has expressed his regret to Minister Tiran Alles regarding the incident.
-
-It is reported that the Deputy Inspector General of Police has promised to ensure that there is no such act.
-
-Meanwhile, Surestra has been arrested and handed over to the owner of the Tot Institute owner in the remand of Club Wasantha alias.
-
-Prisons Department of Prisons, Commissioner of Prisons Body said that the security has been made by the suspect.. Dissanayake added.
-
-The suspect has been detained under a special security of another prison outside Colombo.
-
-Gamini B was detained at the Colombo Prison in the Colombo Prison. Dissanayake added.
-
-◼️
-
-[Data](articles/b0ae860d.json)
-
-[Extended Data](ext_articles/b0ae860d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 23:35:28**
+As of **2024-07-15 23:55:11**
 
 ## Newspaper Stats
 
-*Scraped **35,414** Articles*
+*Scraped **35,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 333
 bbccomsinhala | 344
 newsfirstlk | 363
 islandlk | 2,004
-economynextcom | 2,100
+economynextcom | 2,102
 dailyftlk | 2,231
 adalk | 3,192
 adaderanalk | 4,086
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,414 (100.0%) of 35,414 articles have been extended.
+35,414 (100.0%) of 35,416 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -211,6 +211,26 @@ The third phase of the Kokkuttuwai Human Rights excavation was held today (15) a
 [Data](articles/a01ed75a.json)
 
 [Extended Data](ext_articles/a01ed75a.ext.json)
+
+---
+
+### Senior banking expert Kenneth De Zilwa joins Lanka Rating Agency board
+
+*2024-07-15 20:56:00* · [`economynextcom`](https://economynext.com/senior-banking-expert-kenneth-de-zilwa-joins-lanka-rating-agency-board-172245/) · `en`
+
+ECONOMYNEXT – Kenneth De Zilwa, a senior banker and an economist, joined the Board of Lanka Rating Agency from this month after his three year tenure as the chairman of LankaPay, a leading payments and settlements company.
+
+He will join Anil Amarasuriya (Chairman), Nigel Bartholomeusz, Professor Anil Jayantha Fernando, Anura Fernando, Usman Haider, Niranjan Mendis, and Avishka Perera in the Lanka Rating Agency board of directors.
+
+Lanka Rating Agency is a credit rating agency operating in Sri Lanka and licenced by the Securities & Exchange Commission (SEC) of Sri Lanka. It has a technical affiliation agreement with Pakistan Credit Rating Agency.
+
+De Zilwa counts for over 20 years of experience in banking that includes covering risk management, trade finance, and investment banking businesses at HSBC and Citi Bank NA.
+
+He was instrumental in transforming LankaPay from to a globally recognized payments and settlements company.
+
+...
+
+[Data](articles/8fb6b3d5.json)
 
 ---
 
@@ -603,6 +623,32 @@ Religious places and charities saw a reduction of 30 percent.
 [Data](articles/66f51376.json)
 
 [Extended Data](ext_articles/66f51376.ext.json)
+
+---
+
+### Sri Lanka cuts electricity prices 22.5-pct
+
+*2024-07-15 17:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-electricity-prices-22-5-pct-172136/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Public Utilities Commission has cut electricity tariffs by an average of 22.5 percent, Chairman M A R M Fernando said.
+
+Domestic user bills were down by an average 27 percent along with a cut in fixed charges, ahead of elections.
+
+The unit tariff cost for some domestic categories are down as much as 55 percent.
+
+The price of a unit was reduced from 8 rupees to 6 rupees for domestic users who use below 30 units a month. A bill of 390 rupees would now be reduced to 280.
+
+The unit price for those who consume 31-60 units would now cost 9 rupees instead of 20 rupees.
+
+In the industrial and hotels categories daytime tariff was reduced by 25 percent. Micro and SME saw a similar reduction.
+
+“One of the main concerns at the public hearing was to give some benefit to hotels,” Fernando said speaking to reporters in Colombo.
+
+Religious places and charities saw a reduction of 30 percent.
+
+◼️
+
+[Data](articles/7ed53901.json)
 
 ---
 
@@ -2297,41 +2343,5 @@ It has been reported that the Government proposes to introduce a Bill to amend t
 [Data](articles/5b2b299f.json)
 
 [Extended Data](ext_articles/5b2b299f.ext.json)
-
----
-
-### 6 years to pay the remaining amount: Maithri
-
-*2024-07-15 11:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஞ்சிய-தொகையை-செலுத்த-6-வருடங்கள்-தாருங்கள்-மைத்திரி/175-340428) · `ta`
-
-Maithripala Sirisena, former President, owes 42 million rupees in compensation. His lawyers requested the court for six years to settle the balance.
-
-🟩
-
-Former President Maithripala Sirisena has told the High Court that he has paid 58 million rupees in a compensation of Rs.
-
-Former President's lawyers have appealed to the court to pay six years of time to pay the remaining amount.
-
-◼️
-
-[Data](articles/a1f9199f.json)
-
-[Extended Data](ext_articles/a1f9199f.ext.json)
-
----
-
-### Sir Ponnambalan Ramanathan  (1851- 1930): The First Member for Ceylon
-
-*2024-07-15 11:08:00* · [`islandlk`](http://island.lk/sir-ponnambalan-ramanathan-1851-1930-the-first-member-for-ceylon/) · `en`
-
-In 1911 Sir Ponnambalan Ramanathan was elected to the educated Ceylonese seat in the Legislative Council at the age of sixty. The seat was so named because, even as late as 1910, the Governor did not think that Ceylonese in general were fit to exercise the vote. Ramanathan was elected to the seat largely by the votes of the Sinhalese. Admittedly, he was a brilliant speaker and had held the high office of Solicitor-General. He defeated Sir Marcus Fernando, a distinguished physician and a man of rare ability in many fields.
-
-The 125th Anniversary of the birth of Ramanathan will fall on Friday April 16, 1976. As a young man he was a hard-working lawyer who was nominated a member of the Legislative Council at the age of 28 to succeed his uncle Sir Muttu Coomaraswamy as the ‘Tamil member’. He had to give up his seat when he was appointed Solicitor-General.
-
-...
-
-[Data](articles/b96bfdd3.json)
-
-[Extended Data](ext_articles/b96bfdd3.ext.json)
 
 ---

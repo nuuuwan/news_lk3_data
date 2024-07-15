@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-15 09:20:00**
+As of **2024-07-15 09:35:34**
 
 ## Newspaper Stats
 
-*Scraped **35,282** Articles*
+*Scraped **35,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,002
 economynextcom | 2,089
 dailyftlk | 2,231
 adalk | 3,181
-adaderanalk | 4,057
+adaderanalk | 4,058
 tamilmirrorlk | 4,249
 dailymirrorlk | 4,733
 virakesarilk | 5,502
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,281 (100.0%) of 35,282 articles have been extended.
+35,282 (100.0%) of 35,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-15 (Monday)
+
+### Leader of Nepal’s largest communist party named country’s new prime minister
+
+*2024-07-15 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100510/leader-of-nepals-largest-communist-party-named-countrys-new-prime-minister) · `en`
+
+The leader of the Nepal’s largest communist party, Khadga Prasad Oli, was named the Himalayan nation’s new prime minister on Sunday following the collapse of a previous coalition government.
+
+A statement issued by the president’s office said Oli will take his oath of office on Monday.
+
+A veteran politician and three-time prime minister, Oli will be leading a coalition government made up of his Communist Party of Nepal (Unified Marxist Leninist) and the Nepali Congress party, the two largest parties in Nepal.
+
+The last government headed by Pushpa Kamal Dahal collapsed on Friday after Oli’s party, which had been a part of the coalition, withdrew its support to join the new partnership.
+
+Oli would have to seek vote of confidence in parliament to continue in office within a month. The two parties in the new alliance have more than half the members in parliament required to prove their majority.
+
+...
+
+[Data](articles/67ff292a.json)
+
+---
 
 ### Railway Station Masters warn of indefinite strike
 
@@ -47,6 +67,8 @@ President of the union Sumedha Somaratne stated that they will meet tomorrow (16
 ◼️
 
 [Data](articles/06877b68.json)
+
+[Extended Data](ext_articles/06877b68.ext.json)
 
 ---
 
@@ -2181,31 +2203,5 @@ He has finally hidden with his wife at Wattala area in Wattala.Arrest had been d
 [Data](articles/f9c71deb.json)
 
 [Extended Data](ext_articles/f9c71deb.ext.json)
-
----
-
-### 5 schools will shower from one seat
-
-*2024-07-14 13:41:35* · [`adalk`](https://www.ada.lk/breaking_news/එක-ආසනයකින්-පාසල්-5ක්-6ක්-වැසි-යනවා/11-410773) · `si`
-
-The government launched a new state pharmacy in Hikkaduwa, aiming to enhance healthcare accessibility. This initiative, part of the broader effort to improve health facilities across the country, allows senior citizens, pregnant women, and children under 5 years old to receive medications at discounted rates. The opening ceremony featured the Minister of Health and Industry, who highlighted the importance of expanding healthcare services, especially in rural areas. The event also commemorated Professor Senaka Bibile, a notable figure in Sri Lanka's healthcare sector.
-
-🟩
-
-The Government's leading technology is opening of the primary health services in the country in Hikkaduwa, Galle.
-
-New State Pharmaceutical Corporation (SPC), Hikkaduwa, was opened by the Minister of Health and Industry Dr. Ramesh Pathirana yesterday.
-
-This state pharmacy, which was established in the State Pharmaceutical Corporation's State Pharmaceutical Corporation, "58th Pharmaceuticals (near the Hikkaduwa Railway Address), the State seal, with the service of the Ven.The people will be able to take possession of drugs with senior citizens, pregnant mothers, and 5% of the age of 5 children under the age of 5.
-
-The Minister also had the first drug deal to tribute to a photo of Professor Senaka Bibile at the opening of the pharmacy.. In 1971, Hon.
-
-Minister of Health and Industry Dr. Ramesh Pathirana said that he addressed the complaint.
-
-...
-
-[Data](articles/960d984b.json)
-
-[Extended Data](ext_articles/960d984b.ext.json)
 
 ---

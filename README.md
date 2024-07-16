@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 00:08:09**
+As of **2024-07-17 00:20:15**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 5,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,615 (100.0%) of 35,620 articles have been extended.
+35,620 (100.0%) of 35,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### வெற்றிபெற்றும் இறுதிச் சுற்று வாய்ப்பை இழந்தது தம்புள்ள; கடைசி அணியாக இறுதிச் சுற்றில் நுழைந்தது கண்டி பெல்கன்ஸ்
+### Dambulla lost the final round of success;Kandy Belgons entered the final round as the last team
 
 *2024-07-16 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188641) · `ta`
 
-கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் இன்று செவ்வாய்க்கிழமை (16) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் கடைசி லீக் போட்டியில் கலம்போ ஸ்ட்ரைக்ர்ஸ் அணியை எதிர்த்தாடிய தம்புள்ள சிக்ஸர்ஸ் அணி 28 ஓட்டங்களால் வெற்றிபெற்றது.
+Dambulla Sixers missed the Lanka Premier League finals due to poor net run rate, despite winning against Kalambo Strikers in the last league match. Kandy Belgons secured their spot in the finals.
 
-ஆனால், போதிய நிகர ஓட்ட வேகத்தைப் பேணத் தவறியதால் இறுதிச் சுற்றில் விளையாடும் வாய்ப்பை தம்புள்ள சிக்ஸர்ஸ் இழந்தது.
+🟩
 
-இப் போட்டி முடிவை அடுத்து கண்டி பெல்கன்ஸ் கடைசி அணியாக லங்கா பிறீமியர் லீக் இறுதிச் சுற்றில் பங்குபற்ற தகுதிபெற்றது.
+Colombo r. Dambulla Sixers won by 28 runs against Kalambo Strikers in the last league match of the 5th Lanka Premier League chapter held on Tuesday (16) at the Premadasa Stadium.
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட தம்புள்ள சிக்ஸர்ஸ் 20 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 123 ஓட்டங்களை மாத்திரம் பெற்றது.
+However, Dambulla Sixers lost the opportunity to play in the final round as she failed to maintain a net speed.
 
-அணித் தலைவர் மொஹமத் நபி 40 ஓட்டங்களையும் சமிந்து விக்ரமசிங்க 26 ஓட்டங்களையும் பெற்றனர். அவர்கள் இருவரும் 6ஆவது விக்கெட்டில் 62 ஓட்டங்களைப் பகிர்ந்ததால் தம்புள்ள சிக்ஸர்ஸ் அணி ஓரளவு கௌரவமான நிலையை அடைந்தது.
+Following the end of the match, Kandy Belgons qualified to participate in the final round of the Lanka Premier League.
 
-அவர்கள் இருவரைவிட நுவனிது பெர்னாண்டோ (15), துஷான் ஹேமன்த (10) ஆகிய இருவரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+Dambulla Sixers, who were first invited to bat first, lost all wickets in 20 overs and scored only 123 runs.
+
+Team captain Mohammad Nabi scored 40 runs. Dambulla Sixers reached some dignity as they shared 62 runs in the 6th wicket.
+
+Nuwanidu Fernando (15) and Tushan Hemantha (10) received a double -digit number than they were.
+
+In bowling, Binura Fernando took 3 wickets for 15 runs, Dunit Vellalake took 2 wickets for 18 runs and 2 wickets for 25 runs.
+
+Kalambo Strikers lost all the wickets in 18.1 overs and lost 95 runs.
 
 ...
 
 [Data](articles/6d68d86a.json)
 
+[Extended Data](ext_articles/6d68d86a.ext.json)
+
 ---
 
-### ஓமன் அருகே எண்ணெய் கப்பல் ஒன்று இலங்கை பணியாளர்களுடன் கடலில் மூழ்கியது!
+### An oil ship near Oman drowned with Sri Lankan workers!
 
 *2024-07-16 23:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188640) · `ta`
 
-ஓமன் அருகே எண்ணெய் கப்பல் ஒன்று கடலில் மூழ்கியுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+An oil ship off Oman sank, drowning 16 crew members including 13 Indians and 3 Sri Lankans. The tragedy happened as the vessel neared the port of Aden in Yemen.
 
-அவர்களில் 13 பேர் இந்தியர்கள். மற்ற மூவர் அவர்கள் இலங்கையர்கள் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-ஏமன் நாட்டில் உள்ள ஏடன் துறைமுகத்தை நோக்கி கப்பல் சென்று கொண்டிருந்தபோதே குறித்த விபத்து ஏற்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+International media reports that an oil vessel near Oman is sinking into the sea.
+
+13 of them are Indians. The other three are said to be Sri Lankans.
+
+The accident occurred while the ship was heading towards the port of Aden Port in Yemen.
 
 ◼️
 
 [Data](articles/eac9ef34.json)
+
+[Extended Data](ext_articles/eac9ef34.ext.json)
 
 ---
 
@@ -198,19 +214,27 @@ It is said that the ship was sailing to the Harbor port of Yemen.
 
 ---
 
-### ரணில் விக்ரமசிங்கவின் வெற்றியை யாராலும் தடுக்க முடியாது  -  ஐக்கிய தேசிய கட்சி உறுதி
+### No one can prevent Ranil Wickremesinghe's victory - United National Party
 
 *2024-07-16 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188606) · `ta`
 
-ஜனாதிபதி தேர்தலை பிற்போடுவதற்கு ரணில் விக்ரமசிங்கவோ அரசாங்கமோ எந்தவித மறைமுக நடவடிக்கையையும் மேற்கொண்டதில்லை. ஆனால் எதிர்க்கட்சியே தேர்தலை பிற்போடுவதற்கான சதித்திட்டங்களை மேற்கொண்டு ரணில் விக்ரமசிங்கவின் மீது குற்றம்சாட்டி வருகிறது. ஆனால் உரிய காலத்தில் தேர்தலை நடத்துவதற்கு ரணில் விக்ரமசிங்க உறுதியாக இருக்கிறார் என ஜனாதிபதியின் தொழில் உறவுகள் ஆணையாளர் சமன் ரத்னப்பிரய தெரிவித்தார்.
+Ranil Wickremesinghe's victory in the upcoming presidential election seems inevitable despite accusations of election dismissal conspiracies. The President's Labor Relations Commissioner assures his commitment to holding the election promptly. Opposition attempts to delay the election through legal challenges have been unsuccessful, including a case questioning the president's term length and another seeking re-election. These efforts are seen as part of a broader strategy to obstruct Wickremesinghe's candidacy. Despite the chaos, Wickremesinghe remains determined to proceed with the election as an independent candidate, confident in securing the majority vote.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தலை பிற்போடுவதற்கு ஒரு சிலர் மறைமுகமாக செயற்பட்டு வருகின்றனர். கடந்த வாரம் வியாபாரி ஒருவரால் ஜனாதிபதியின் பதவிக்காலத்தை கேள்விக்குட்படுத்தி, உயர் நீதிமன்றில் வழக்கு தொடுக்கப்பட்டிருந்தது.
+Neither Ranil Wickremesinghe nor the government has taken any indirect action to postpone the presidential election. But the opposition is accusing Ranil Wickremesinghe of conspiracy to dismiss the election. But Ranil Wickremesinghe is determined to hold the election in a timely manner, said the President's Labor Relations Commissioner Saman Ratnapraya.
+
+He was speaking at a press conference held at the United National Party headquarters in Sirikotha on Tuesday (16).
+
+A few are acting indirectly to overcome the presidential election. Last week, a dealer had questioned the president's tenure and sued the High Court.
+
+President Ranil Wickremesinghe immediately acted and confirmed that the president's tenure was five years and had given the Attorney General's Department to the Attorney General's Department to take action in the High Court.. Accordingly, the case was dismissed.
 
 ...
 
 [Data](articles/4229e413.json)
+
+[Extended Data](ext_articles/4229e413.ext.json)
 
 ---
 
@@ -2297,6 +2321,8 @@ Bank of Ceylon, People’s Bank, Samapth Bank and Commercial Bank and Thomas Coo
 ◼️
 
 [Data](articles/5e58ed3c.json)
+
+[Extended Data](ext_articles/5e58ed3c.ext.json)
 
 ---
 

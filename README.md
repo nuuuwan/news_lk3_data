@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 13:05:09**
+As of **2024-07-16 13:20:38**
 
 ## Newspaper Stats
 
-*Scraped **35,523** Articles*
+*Scraped **35,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,198
 adaderanalk | 4,099
-tamilmirrorlk | 4,291
+tamilmirrorlk | 4,292
 dailymirrorlk | 4,733
 virakesarilk | 5,535
-adaderanasinhalalk | 5,940
+adaderanasinhalalk | 5,941
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,515 (100.0%) of 35,523 articles have been extended.
+35,523 (100.0%) of 35,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### கஞ்சிபானின் பிறந்த நாள்: கடலில் கொண்டாட்டம்
+
+*2024-07-16 12:50:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானின்-பிறந்த-நாள்-கடலில்-கொண்டாட்டம்/175-340488) · `ta`
+
+‘கிளப் வசந்த’ என்றழைக்கப்படும் சுரேஷ் வசந்த பெரேரா, அத்துருகிரியவில் ஜூலை 8ஆம் திகதியன்று சுட்டுக்கொல்லப்பட்டார். அவருடைய சடலம் அடக்கம் செய்யப்பட்ட தினத்தன்று, கஞ்சிபானி இம்ரானின் பிறந்த தினம் கடலில் கொண்டாடப்பட்டுள்ளது.
+
+பிரான்ஸூக்கு தப்பிச்சென்று தலைமறைவாகி இருந்துக்கொண்டு, இந்நாட்டில் தன்னுடைய சகாக்களை பயன்படுத்தி மனித படுகொலைகளை முன்னெடுக்கும் கஞ்சிபானி இம்பரானின் 38ஆவது பிறந்தநாளே கடலில் கொண்டாடப்பட்டது.
+
+அலங்கரிக்கப்பட்ட படகை நடுகடலுக்கு கொண்டுச்சென்று, கேக் ஒன்று வெட்டப்பட்டுள்ளது என, இத்தாலியில் உள்ள எமில் ரொஹான், தொலைப்பேசியின் ஊடாக, எமது சகோதர பத்திரிக்கையான  லங்காதீபவுக்கு திங்கட்கிழமை (15) தெரிவித்துள்ளார் என செய்தி வெளியிட்டுள்ளது.
+
+பாதாள உலகக்கோஷ்டியினரின் துப்பாக்கி பிரயோகத்தில் மரணமடைந்த  ‘கிளப் வசந்த’ என அழைக்கப்படும் சுரேஷ் வசந்த பெரேராவுக்கு இறுதி கிரியைகள் நடைபெற்ற தினமே, கஞ்சிபானி இம்ரானின் 38 ஆவது பிறந்த நாளாகும்.
+
+...
+
+[Data](articles/aab0fd65.json)
+
+---
+
+### 6,5 ගැටලුව විසඳන්න කැබිනට් අනුමැතිය
+
+*2024-07-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198871) · `si`
+
+ශ්‍රී ලංකා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 83 වන ව්‍යවස්ථාව (ආ) ඡේදයෙහි සඳහන් "සාවුරුද්දක් ඉක්මවා" යන වචන වෙනුවට "වසර පහක් ඉක්මවා" යන වචන ආදේශ කරමින් 83 වන ව්‍යවස්ථාව (ආ) ඡේදය සංශෝධනය පිණිස අමාත්‍ය මණ්ඩලය සිය ප්‍රතිපත්තිමය අනුමැතිය ලබාදී තිබුණි.
+
+2024 ජූලි 09 වනදා පැවති කැබිනට් රැස්වීමේදී එම අනුමැතිය දී තිබේ.
+
+ඒ සඳහා නීති කෙටුම්පත් සම්පාදක විසින් සකස්කළ කෙටුම්පත සඳහා නීතිපතිගේ නිෂ්කාශන ලැබී ඇති බව වාර්තා වෙයි.
+
+එම කෙටුම්පත ගැසට් පත්‍රයේ පළ කිරීමටත් ඉන් අනතුරුව පාර්ලිමේන්තුවටත් ඉදිරිපත් කෙරේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ අධිකරණ, බන්ධනාගාර කටයුතු සහ ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ ඒකාබද්ධ ව ඉදිරිපත්කළ එම යෝජනාවට කැබිනට් අනුමැතිය හිමිවිය.
+
+◼️
+
+[Data](articles/28ecff79.json)
+
+---
 
 ### Cabinet grants policy approval to amend Constitutional clause on President’s term
 
@@ -44,51 +82,73 @@ The bill, prepared accordingly by the legal draftsman, has received clearance fr
 
 [Data](articles/148c4f56.json)
 
+[Extended Data](ext_articles/148c4f56.ext.json)
+
 ---
 
-### நான் அரசியலில் இருக்கும் வரை அனுரகுமார ஜனாதிபதியாவதற்கு அனுமதிக்க மாட்டேன் - லொகான் ரத்வத்தையின் கருத்திற்கு ஐக்கிய மக்கள் சக்தி கண்டனம்
+### I will not allow the President to become President as long as I am in politics - the United People's Power condemns the view of Lokan Ratwatte
 
 *2024-07-16 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188591) · `ta`
 
-நான் அரசியலில் இருக்கும்வரை ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க ஜனாதிபதியாவதற்கு அனுமதிக்கமாட்டேன் என இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தை தெரிவித்துள்ளமைக்கு ஐக்கிய மக்கள் சக்தி கடும் கண்டனம் வெளியிட்டுள்ளது.
+The United People's Power condemns State Minister Lohan Ratwatte's statement that JVP leader Anura Kumaratisanayake won't become president while he's politically active. Parliamentarian Eran Wickramarata argues this stance is dangerous, emphasizing no politician should bar a candidate from running. Despite differing policies, Wickramarata asserts politicians have no right to influence election outcomes.
 
-தேர்தல்களில் தலையீடுகள் வன்முறைகள் குறித்த இலங்கையின் வரலாற்றை கருத்தில்கொள்ளும்போது இந்த அறிக்கையில் ஆபத்தான தொனி தென்படுகின்றது என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் எரான் விக்கிரமரட்;ண தெரிவித்துள்ளார்.
+🟩
 
-வேட்பாளர் ஒருவர் தெரிவு செய்யப்படுவதை தடுப்பதற்கான உரிமை எந்த அரசியல்வாதிக்கும் இல்லை என எரான் விக்கிரமரட்ண தெரிவித்துள்ளார்.
+The United People's Power has strongly condemned the expression of State Minister Lohan Ratwat that JVP leader Anura Kumaratisanayake will not be allowed to become president as long as I am in politics.
 
-தேசிய மக்கள் சக்தியின் கொள்கைகளை நான் ஏற்றுக்கொள்ளாத அதேவேளை தேர்தலில் ஒரு வேட்பாளர் தெரிவு செய்யப்படுவதை தடுக்கும் அல்லது அனுமதிக்கும் உரிமை எந்த அரசியல்வாதிக்கும் இல்லை , என அவர் தெரிவித்துள்ளார்.
+United People's Power Parliamentarian Eran Wickramarata said that the report is a dangerous tone in the report when the history of Sri Lanka's intervention in the elections.
 
-நான் அரசியலில் இருக்கும்வரை ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க ஜனாதிபதியாவதற்கு அனுமதிக்கமாட்டேன் என இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தை தெரிவித்துள்ளார்.
+Eran Wickremaratne says no politician has the right to prevent a candidate from being elected.
 
-...
+While I do not accept the policies of the national people's power, no politician has the right to prevent or allow a candidate in the election, he said.
+
+The JVP leader Anura Kumaratisanayake will not allow the President to become President until I am in politics.
+
+Asked if Anuragumara Dissanayake had built a small canal for his people, he said, "I will not allow him to be president until I am in politics."
+
+◼️
 
 [Data](articles/f9465838.json)
 
+[Extended Data](ext_articles/f9465838.ext.json)
+
 ---
 
-### ඕමානයේ වෙඩි තැබීමක්
+### A shot of Oman
 
 *2024-07-16 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198870) · `si`
 
-ඕමානයේ අගනුවර පිහිටි දේවස්ථානයක් ආසන්නයේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයින් සිව් දෙනෙක් මියගොස් තවත් කිහිපදෙනෙක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
+In Oman's capital, a shooting incident resulted in four deaths and multiple injuries at a chapel. Authorities are actively investigating to resolve the conflict.
 
-එම කලාපයේ ගැටුම් නිරාකරණය සඳහා ඕමානය නිරතුරුවම මැදිහත් වන අතර වෙඩිතැබීම සම්බන්ධයෙන් පුළුල් පරීක්ෂණයක් පැවැත්වෙන බව එරට බලධාරීන් පැවසීය.
+🟩
+
+Four persons were killed and several others were injured in a chapel at the capital city of Oman.
+
+Oman is constantly intervened to resolution conflict and an extensive investigation into the shooting is an extensive investigation.
 
 ◼️
 
 [Data](articles/fc309b45.json)
 
+[Extended Data](ext_articles/fc309b45.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-07-16 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188588) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (ஜூலை 16) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 297.7381 ரூபாவாகவும், விற்பனை விலை 307.0529 ரூபாவாகவும் பதிவாகியுள்ளது.
+On July 16, the US dollar rose from buying at 297.7381 rupees to selling at 307.0529 rupees.
+
+🟩
+
+The US dollar purchasing price was 297.7381 rupees and the sales price were Rs 307.0529 on Tuesday (July 16).
 
 ◼️
 
 [Data](articles/8c975f03.json)
+
+[Extended Data](ext_articles/8c975f03.ext.json)
 
 ---
 
@@ -154,15 +214,21 @@ The Chairman requested the restaugashashika to be given to all consumers across 
 
 ---
 
-### தகவல் தொழில்நுட்ப  கல்வி  வளங்களை  பயன்படுத்துகிறோமா?
+### Are we using information technology educational resources?
 
 *2024-07-16 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188584) · `ta`
 
-Notes: மத்திய மாகாணத்தின் 15 கல்வி வலயங்களிலும் அமைந்துள்ள 16 தகவல் தொழில் நுட்ப தொலைக் கல்வி கற்றல் மையங்களில் அட்டனில் அமைந்துள்ள நிலையம் மாத்திரமே தமிழில் கற்கைகளை முன்னெடுத்துச் செல்லும் ஒரே கணணி வள நிலையமாக உள்ளது. மேலும் கல்வி அமைச்சினால் தெரிவு செய்யப்பட்ட நாடெங்கினும் உள்ள 17 சிறப்பு வளநிலையங்களில் இது அடங்குகின்றது.  இதன் சேவைகளை மலையக மாணவர்கள் உரிய வழிகளில் பெற்றுக்கொள்கின்றார்களா, அங்கு உரிய பயிற்றுவிப்பாளர்கள் நியமிக்கப்பட்டுள்ளார்களா என்பதை கல்வி அதிகாரிகள் உறுதி செய்ய வேண்டியவர்களாக உள்ளனர்.
+In Tamil Nadu, IT education relies heavily on 16 centers across 15 zones, plus 17 special resources nationwide, all chosen by the Ministry of Education. Ensuring service accessibility and qualified instructors is crucial.
+
+🟩
+
+Notes: The only computer resource in Tamil is the only computer in Tamil Nadu, located in 16 Information Technology Technology Centers located in 15 educational zones of the Central Province.. It also includes 17 special resources in the country selected by the Ministry of Education. Education authorities have to ensure that the services of the hill country are appointed and the appropriate instructors are appointed.
 
 ◼️
 
 [Data](articles/45a6fbdf.json)
+
+[Extended Data](ext_articles/45a6fbdf.ext.json)
 
 ---
 
@@ -826,19 +892,25 @@ Kilinochchi District Response Agent S. Muralitharan, Ministry officials, Kandawa
 
 ---
 
-### යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල්වරිය එයි
+### UNESCO Director General is coming
 
 *2024-07-16 09:53:30* · [`adalk`](https://www.ada.lk/breaking_news/යුනෙස්කෝ-අධ්‍යක්ෂ-ජනරාල්වරිය-එයි/11-410802) · `si`
 
-යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල් අවුඩ්‍රේ ඔසුලේ ( Audrey Azoulay ) මහත්මිය ශ්‍රී ලංකාවේ සංචාරයක් සඳහා 07/16 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය.
+UNESCO Director General Audrey Azoulay landed in Sri Lanka on July 16th, accompanied by three delegates. She was greeted by officials from the Ministry of External Affairs at Katunayake Airport.
 
-ඇය සමග ඇයගේ දූත පිරිස ලෙස තවත් තිදෙනකු ද පැමිණ සිටියහ. ඔවුන් 07/16 දින අලුයම 02.10 ට දෝහා සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 662 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය වෙත පැමිණ සිටියහ .
+🟩
 
-ඔවුන් පිළිගැනීම සදහා ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+Mrs. UNESCO Director General Azoulay arrived at the Katunayake Airport on 7/16 for a visit to Sri Lanka.
+
+3 others were also present as her delegation with her. They were asked to ask Dhoha from Dhoha from Dhoha on 2/16 on 7/16.
+
+A group of officers of the Ministry of External Affairs was also present at the Katunayake airport to accept them.
 
 ◼️
 
 [Data](articles/8f8c31fd.json)
+
+[Extended Data](ext_articles/8f8c31fd.ext.json)
 
 ---
 
@@ -1484,27 +1556,33 @@ Domestic tariffs for the lowest users are now 6 rupees a unit down from 8 rupees
 
 ---
 
-### ජනාධිපතිවරණය 2024: මැතිවරණ දිනය ප්‍රකාශයට පත් කිරීම මේ මස අවසානයට පෙර
+### Presidential Election 2024: Declaration of Election Day before the end of this month
 
 *2024-07-16 06:36:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjl6nrz494do) · `si`
 
-ජනාධිපතිවරණය 2024: මැතිවරණ දිනය ප්‍රකාශයට පත් කිරීම මේ මස අවසානයට පෙර
+The Chairman of the Elections Commissioner announced that the Presidential Election 2024's official declaration and nominations will be revealed before the end of this month, sparking interest among political parties and civil organizations. He clarified the constitutional requirements for holding the election, specifying it must occur between September 16th and October 16th, with a notice period of 16 to 21 days after issuance. The latest possible date for the election, based on constitutional guidelines, is September 17, allowing for 63 days from the announcement.
 
-2024 ජනාධිපතිවරණය පැවැත්වෙන දිනය සහ නාම යෝජනා කැඳවීමේ නිල ප්‍රකාශය මෙම මස අවසානයට පෙර ප්‍රකාශයට පත් කරන බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්.රත්නායක අද (ජුලි 16 වැනිදා) ප්‍රකාශ කළේය.
+🟩
 
-ඉදිරියේදී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සම්බන්ධයෙන් දේශපාලන පක්ෂ මෙන්ම, මහජනතාව සහ සිවිල් සංවිධාන අතර විශේෂ උනන්දුවක් පවතින බව මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා මාධ්‍ය හමුවකට එක්වෙමින් පැවසුවේය.
+Presidential Election 2024: Declaration of Election Day before the end of this month
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ජනාධිපතිවරණය පැවැත්වීම සිදුකළ හැකි දින වකවානු සම්බන්ධයෙන් කොමිෂන් සභාවේ සභාපතිවරයා මෙහිදී  කරුණු පැහැදිලි කිරීමක් කළේය.
+The Chairman of the Elections Commissioner Chairman (July 16) stated that the official election of the Presidential Election and nominations will be announced before the end of this month.
 
-"මේ ඡන්ද විමසීම කොයි ආකාරයෙන්ද පවත්වාගෙන යන්නේ කියන එක සහ විශේෂයෙන් ඡන්ද විමසීමේ දිනය, නාමයෝජනා ලබා ගන්නා දිනය සහ ඡන්ද විමසීමේ ප්‍රකාශනය නිකුත් කරනු ලබන දිනය ගැන නොයෙකුත් කතා පැතිරෙනවා."
+Addressing a media briefing, the Chairman of the Elections Commissioner also said that there is a special interest in political parties and civil organizations regarding the upcoming presidential election.
 
-"ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ පැහැදිලිවම සඳහන් වෙනවා ජනාධිපතිවරණය පැවැත්විය යුතු දිනය සම්බන්ධයෙන්."
+The Chairman of the Commission made a statement regarding the time when the presidential election could be held in terms of the Constitution.
 
-"ඒ අනුව ඡන්ද විමසීම පැවැත්වීමට නියමිතව තිබෙන්නේ සැප්තැම්බර් මාසේ 14 වෙනිදාත් ඔක්තෝම්බර් මාසයේ 16 වෙනිදා අතර දිනයක."
+"There are many talks on how to keep the election, especially the date and publication date of the nomination."
+
+"The Constitution clearly states about the date the presidential election."
+
+"The poll will be held between September 16th on October 16th."
 
 ...
 
 [Data](articles/7295f63a.json)
+
+[Extended Data](ext_articles/7295f63a.ext.json)
 
 ---
 
@@ -2281,37 +2359,5 @@ The 2024 Budget Speech revealed that Sri Lanka intends to accelerate Public Priv
 [Data](articles/4198a076.json)
 
 [Extended Data](ext_articles/4198a076.ext.json)
-
----
-
-### Cabinet nod for one-time allowance to govt workers who reported to duty despite strike
-
-*2024-07-15 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100538/cabinet-nod-for-one-time-allowance-to-govt-workers-who-reported-to-duty-despite-strike) · `en`
-
-The Cabinet of Ministers has approved a proposal to pay a Rs. 10,000 one-time allowance to all government employees below Executive Grade level who reported for duty during the recent strike.
-
-According to the proposal which was presented by President Ranil Wickremesinghe, approval has also been granted to award the relevant government sector employees with a certificate of appreciation.
-
-◼️
-
-[Data](articles/a62e0cc3.json)
-
-[Extended Data](ext_articles/a62e0cc3.ext.json)
-
----
-
-### Occidental Eden Beruwala’s Sippi: Serving up gastronomy with a slice of paradise
-
-*2024-07-15 21:35:00* · [`islandlk`](http://island.lk/occidental-eden-beruwalas-sippi-serving-up-gastronomy-with-a-slice-of-paradise/) · `en`
-
-Set against the backdrop of the sun-kissed southern shores of Sri Lanka and vast expanse of turquoise ocean, Occidental Eden Beruwala recently launched its latest culinary innovation ‘Sippi,’ a refined A la carte restaurant. Deriving inspiration from the Sinhala words ‘sippi katu,’ meaning seashells, ‘Sippi’ combines the synergy of the sea with local gastronomic delights paired with the epitome of refined luxury.
-
-The evening unfolded with tantalising offerings, where fragrant island spices mingled with hand-crafted premium cocktails and wines, accompanied by the lilting melody of jazz tunes under open skies. The unveiling of ‘Sippi’ was attended by an exclusive group of in-house guests, special invitees, well-wishers and staff from Occidental Eden. Every visitor had the choice of choosing a dish from the extensive menu, inviting each one to partake in a truly bespoke culinary journey.
-
-...
-
-[Data](articles/609cb590.json)
-
-[Extended Data](ext_articles/609cb590.ext.json)
 
 ---

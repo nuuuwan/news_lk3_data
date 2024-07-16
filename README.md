@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 08:23:35**
+As of **2024-07-16 08:35:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,455 (100.0%) of 35,461 articles have been extended.
+35,460 (100.0%) of 35,461 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -98,71 +98,87 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 
 ---
 
-### ට්‍රම්ප් නිල වශයෙන් ජනපති සටනට
+### Trump officially fights
 
 *2024-07-16 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198855) · `si`
 
-නොවැම්බරයේ පැවැත්වෙන අමෙරිකානු ජනාධිපතිවරණය සඳහා රිපබ්ලිකන් පක්ෂයේ ජනාධිපති අපේක්ෂයා ලෙස ඩොනල්ඩ් ට්‍රම්ප් ව නිල වශයෙන් නම් කර තිබේ.
+Donald Trump has been nominated as the Republican candidate for the US presidential election in November, with JD Vance as his VP. This decision follows a recent rally where Trump was shot in the ear, leading to the death of a suspect and injuring two others.
 
-ඒ අනුව ඔහුගේ උපජනාධිපති ධුර අපේක්ෂකයා ලෙස සෙනෙට් සභික ජේඩී වාන්ස් නම් කර තිබේ.
+🟩
 
-රිපබ්ලිකන් පක්ෂය මෙම තීරණයක් ගෙන ඇත්තේ, පසුගිය දා ඩොනල්ඩ් ට්‍රම්ප් සහභාගී වූ මැතිවරණ රැළියකට වෙඩි ප්‍රහාරයක් පවා එල්ල වී ඇති පසුබිමකය.
+Donald Trump has been officially named as the Republican Party presidential election for the US presidential election in November.
 
-පෙන්සිල්වේනියාවේ පැවති මැතිවරණ ප්‍රචාරක රැලියක් අතරතුර දී එම වෙඩි තැබීම වාර්තා වූ අතර ඉන් හිටපු ජනාධිපතිවරයාගේ කනක් තුවාල වී තිබුණි.
+Accordingly, the Senate Jdah was named as his Viceander.
 
-එහිදී වෙඩි ප්‍රහාරය එල්ල කළ බවට සැක කෙරෙන අයෙකු බුද්ධි අංශ ස්නයිපර් වෙඩික්කරුවෙකු විසින් එල්ල කරන ලද ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව තිබුණි.
+The Republican Party has taken this decision on the background of a recent election rally in Donald Trump.
 
-මෙම සිද්ධියේදී රැලිය නැරඹීමට පැමිණ සිටි පුද්ගලයෙක් ජීවිතක්ෂයට පත්වූ අතර තවත් දෙදෙනෙක් බරපතළ තුවාල ලැබීය.
+The shooting was reported during an election rally held in Pennsylvania, and the former President's ear was injured.
+
+One who was suspected of the shooting was killed by the Intelligence Sniper Vedder of Intelligence.
+
+In the incident, a man was killed and two others were seriously injured.
 
 ◼️
 
 [Data](articles/534677ee.json)
 
+[Extended Data](ext_articles/534677ee.ext.json)
+
 ---
 
-### කොටුව දුම්රියපොළ ඉදිරිපිට නාඳුනන මළ සිරුරක්
+### Unidentified body found in front of Fort Railway Station
 
 *2024-07-16 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198854) · `si`
 
-කොටුව දුම්රිය ස්ථානය ඉදිරිපිට මාර්ගය අසල රැඳී සිටි පුද්ගලයෙකු මියගොස් තිබේ.
+A person who remained near the road was killed in front of the Fort Railway Station.
 
-ඒ සම්බන්ධයෙන් ඊයේ (15) රාත්‍රී කාලයේ කොටුව පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.
+Investigations have commenced on information received by the Fort Police yesterday (15).
 
-මරණකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර මියගොස් ඇත්තේ, වයස අවුරුදු 60ත් 65ක් පමණ වන උස අඩි 05යි අඟල් 04ක් වන තළෙළු, කෙට්ටු සිරුරකින් යුත් පිරිමි පුද්ගලයෙක් බව පොලීසිය පවසයි.
+The identity of the deceased has been proved, and the number of five and 65 feet of height, five feet and four feet, 4 inches, a lean man.
 
-ඔහු අවසන් වරට අත්කොට කමිසයක් සහ රතු පැහැති සරමක් හැඳ සිටින බව පොලීසිය සඳහන් කළේය.
+He is deadly a shirt and a red church, police said.
 
-මේ අතර අයගම, ඇරැපෝරුව ප්‍රදේශයේ හිසේ තුවාල සහිතව අයගම රෝහලට ඇතුළත් කරන ලද පුද්ගලයෙකු මියගොස් තිබේ.
+Meanwhile, a person who was admitted to the Ayagama hospital with the wounded wounds of the Ayagama area.
 
-මෙලෙස මියගොස් ඇත්තේ, ඇරැපෝරුව, උස්වත්ත, අයගම ලිපිනයේ පදිංචි 50 හැවිරිදි පුද්ගලයෙකි.
+The deceased is a 50 year old resident of the Osawatta, Uswatta, Uswatta, Udawatta.
 
-මරණකරු නිවසේ තනිවම සිට ඇති අතර බිරිඳ ඇයගේ මවගේ නිවසට ගොස් සිටි ඇත.
+The deceased has been alone at home and his wife had gone to her mother's house.
 
-පුතා පන්සලට ගිය අවස්ථාවේදී මෙම සිදුවීම සිදුව ඇති බවට පොලීසිය කළ විමර්ශනයේදී අනාවරණය වී තිබේ.
+Police investigations have revealed that the incident had taken place when his son visits the temple.
 
 ◼️
 
 [Data](articles/8a4f14c0.json)
 
+[Extended Data](ext_articles/8a4f14c0.ext.json)
+
 ---
 
-### දුම්රිය වැඩවර්ජනය ගැන අවසන් තීරණය අද
+### Completion of Railway strike today
 
 *2024-07-16 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198853) · `si`
 
-සිය ඉල්ලීම් සම්බන්ධයෙන් ඉදිරියේ දී ගනු ලබන වෘත්තීය සමිති ක්‍රියාමාර්ග පිළිබඳ අද (16) දිනයේ දී අවසන් තීරණයකට පැමිණෙන බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+The Railway Masters Association expects a decision today on their demands, which led to a temporary halt in the strike. Despite initial promises from authorities, no concrete solutions were offered, leaving the future actions of the association uncertain. Meanwhile, the Ceylon Teachers Union also complains of unaddressed demands, with threats of further protests if their issues aren't resolved.
 
-එම සංගමයේ සභාපති සුමේධ සෝමරත්න මහතා සඳහන් කළේ, සිය ඉල්ලීම්වලට විසඳුම් ලබාදීමට බලධාරීන් එකඟතාව පළකළ ද මෙතෙක් ඒ සම්බන්ධයෙන් නිසි විසඳුමක් ලැබී නොමැති බවය.
+🟩
 
-උසස් වීම් ලබාදීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් පසුගියදා දුම්රිය ස්ථානාධිපතිවරුන් වැඩවර්ජනයක නිරත වූ අතර අදාළ ගැටලුව කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඊට විසදුම් ලබාදෙන බවට විෂය භාර අමාත්‍යවරයා ලබාදුන් පොරොන්දුව මත එම වැඩවර්ජනය තාවකාලිකව නතර කරනු ලැබීය.
+The Railway Masters Association (OICs) says that the final decision will be finalized today (16) regarding the trade union measures in front of their demands.
 
-කෙසේවෙතත් ඊයේ (15) දිනයේ  දී සිය ඉල්ලීම් සම්බන්ධයෙන් කැබිනට් මණ්ඩලයේ අවධානය යොමුවී නොමැති බැවින් සිය ඉදිරි ක්‍රියාමාර්ග පිළිබඳ අද පෙරවරුවේ රැස් වී තීරණය කරන බව දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමයේ සභාපති සුමේධ සෝමරත්න මහතා සඳහන් කළේය.
+The President of the Association Sumedha Somaratne said that although the authorities agreed to address their demands, there is no proper solution.
 
-මේ අතර ගුරු- විදුහල්පතිවරුන්ගේ ඉල්ලීම්වලට විසඳුම් ලබාදීමට බලධාරීන් මෙතෙක් පියවර නොගැනීම හේතුවෙන් ඉදිරියේ දී යළි වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත වන බව ලංකා ගුරු සංගමය පවසයි.
+The strike was temporarily halted on several demands, including promotions, and the strike was temporarily stopped on the promise of the Minister in charge of the Cabinet.
+
+However, the Chairman of the Railways Sumaratne said that the cabinet was not paid to his demands yesterday (15) and his future action would be decided this morning.
+
+Meanwhile, the Ceylon Teachers Union states that the authorities have not taken steps to address the demands of teachers' demands.
+
+The Chairman of the Title Priyantha Fernando said the government should take responsibility for the Teacher-Principals if they had to go to a strike.
 
 ...
 
 [Data](articles/27312954.json)
+
+[Extended Data](ext_articles/27312954.ext.json)
 
 ---
 
@@ -482,21 +498,27 @@ The roundtable will focus on digital connectivity and physical and maritime conn
 
 ---
 
-### ’சட்டத்தின் பிரகாரமே உறுமய திட்டம்’
+### According to the law of the model, the Urumaya Project
 
 *2024-07-16 01:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தின்-பிரகாரமே-உறுமய-திட்டம்/175-340470) · `ta`
 
-உறுமய வேலைத் திட்டம் 2002 ஆம், 2003 ஆம் ஆண்டுகளில் இந்த நாட்டில் அமுல்படுத்தப்பட்ட வேலைத்திட்டம். நீதிமன்ற தீர்ப்பின் பிரகாரம் அதனை நிறுத்த வேண்டி ஏற்பட்டது எனவும் அன்று அந்தத் திட்டத்தை செயல்படுத்தியிருந்தால், 20 வருடங்களுக்கு முன்னர் மக்களுக்கு நிரந்தர காணி உறுதி கிடைத்திருக்கும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்
+In 2002-03, the Urumaya Project aimed to provide permanent land rights but faced delays. President Ranil Wickremesinghe noted that timely implementation could've secured these rights for citizens 20 years earlier. Out of 65,393 eligible in Badulla district, only 662 received such rights. Additionally, the President donated sports equipment to four local schools and inaugurated a stadium's main auditorium.
 
-மஹியங்கனை பொது விளையாட்டரங்கில் நேற்று முன்தினம் இடம்பெற்ற உறுமய நிரந்தர காணி உறுதி வழங்கும் நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-20 லட்சம் நிரந்தர காணி உறுதி வழங்கும் ‘உறுமய’ தேசிய திட்டத்தின் கீழ் பதுளை மாவட்டத்தில் தகுதி பெற்ற 65 ஆயிரத்து 393 பேரில் 662 பேருக்கு நிரந்தர காணி உறுதிகள் வழங்கப்பட்டன. ஜனாதிபதி ரணில் விக்கிரமசிங்க அடையாளமாக சிலருக்கு காணி உறுதிகளை வழங்கிவைத்தார்.
+In 2002 and 2003, the program was implemented in this country.. President Ranil Wickremesinghe said that if the scheme had been implemented according to the court's decision, the people would have received a permanent land assurance 20 years ago.
 
-இத்துடன் இணைந்ததாக பதுளை மாவட்டத்திலுள்ள நான்கு பாடசாலைகளுக்கான விளையாட்டு உபகரணங்களையும் ஜனாதிபதி ரணில் விக்கிரமசிங்க வழங்கி வைத்தார். அத்துடன், புதிதாக நிர்மாணிக்கப்பட்ட மஹியங்கனை பொது விளையாட்டரங்கின் பிரதான கேட்போர் கூடத்தையும் திறந்து வைத்தார். (a)
+The President was speaking at the Urumaya Permanent Land Confirmation held yesterday at the Mahiyanganaya Public Stadium.
+
+Out of the 65 thousand 393 eligible in the Badulla district under the National Scheme of the Urumaya National Scheme, 662 were given permanent land guarantees.. President Ranil Wickremesinghe gave land guarantees to some.
+
+President Ranil Wickremesinghe also provided sports equipment for four schools in the Badulla district.. He also opened the newly constructed Mahiyanganaya Public Stadium's main auditorium. (A)
 
 ◼️
 
 [Data](articles/6152dbf7.json)
+
+[Extended Data](ext_articles/6152dbf7.ext.json)
 
 ---
 
@@ -1212,23 +1234,33 @@ More than 220 representatives from 108 ICC member states around the world, inclu
 
 ---
 
-### විපක්ෂ නායකයා කියන්නේ විකල්ප අගමැතිවරයායි ඔහු බස් රියදුරෙකු නොවෙයි
+### The opposition leader is alternative Prime Minister he is not a bus driver
 
 *2024-07-15 19:15:26* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂ-නායකයා-කියන්නේ-විකල්ප-අගමැතිවරයායි-ඔහු-බස්-රියදුරෙකු-නොවෙයි/11-410798) · `si`
 
-සාම්ප්‍රදායික දේශපාලනයෙන් බැහැරව රට ගැන සිතා කටයුතු කරන දේශපාලන සංස්කෘතියක් රටට අවශ්‍යයි
+The opposition leader is considered an alternative Prime Minister, emphasizing a shift away from traditional politics. President Ranil Wickremesinghe stresses the importance of a new political culture to transform the country's economy and political landscape. He criticizes attempts to undermine the country's economic framework and highlights the need for all political leaders to contribute positively to the nation's progress. Despite challenges, including the refusal of some opposition leaders to assume their roles, Wickremesinghe remains committed to steering the country towards a more stable and prosperous future through economic reforms and international partnerships.
 
-රට ඉදිරියට ගෙන යන  ආර්ථික රාමුව බිඳ දැමීමට ඇතැම් පිරිසක් උත්සාහ කරනවා – ජනපති නීතිඥවරුන් සමඟ පැවති  හමුවේ දී පවසයි.
+🟩
 
-සාම්ප්‍රදායික දේශපාලනයෙන් ඉවත්ව රට ගැන සිතා කටයුතු කරන දේශපාලන සංස්කෘතිකයක් රටේ ඉදිරි ගමන වෙනුවෙන් අත්‍යාවශ්‍ය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+The country wants a political culture that treat the country away from traditional politics
 
-එහිදී පක්ෂ, විපක්ෂ සියලු දේශපාලන නායකයන්ට පැවරී ඇති වගකීම සුළුකොට තැකිය නොහැකි බව පැවසූ ජනාධිපතිවරයා දේශපාලන අමුණුවලින් බැහැරව රටේ ආර්ථිකය නඟා සිටුවීමේ වැඩපිළිවෙළට එම සියලුදෙනාගේ සහාය හිමිවිය යුතු බවද සඳහන් කළේය.
+Some people try to break the country's economic framework - President Mahinda Rajapaksa says.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නීතිඥවරු සමඟ පසුගියදා ජනාධිපති කාර්යාලයේ පැවති හමුවේදීය.
+President Ranil Wickremesinghe stressed that a political cultural cultural cultural cultural cultural cultural cultural culturally diminating the country from traditional politics is essential for the country.
+
+The President said that the President said that all the opposition political leaders were responsible for all opposition political leaders could not take the support of the political anti-government, but also the program to uplift the country's economy.
+
+President Ranil Wickremesinghe made this statement at the presidential meeting with lawyers recently.
+
+The President who has the right to do politics but no one should have signed the country's economic economic economic economy with the International Monetary Fund.Pointed out.
+
+Speaking further, President Ranil Wickremesinghe said,
 
 ...
 
 [Data](articles/6f19fdbe.json)
+
+[Extended Data](ext_articles/6f19fdbe.ext.json)
 
 ---
 

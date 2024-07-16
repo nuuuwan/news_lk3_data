@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 17:56:28**
+As of **2024-07-16 18:13:52**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 5,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,565 (100.0%) of 35,567 articles have been extended.
+35,567 (100.0%) of 35,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### බදු ගෙවීම පැහැර හරින අය සොයයි
+### Those who seek paying taxes are looking for
 
 *2024-07-16 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198882) · `si`
 
-නව බදු පැනවීමට පෙර, ගෙවීම් පැහැර හැර ඇති හා කල්ගිය බදු මුදල් අය කරගැනීම පිලිබඳව අවධානය යොමුකරන බව රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya announced updates to tax laws, including a new default tax system and the right to appeal lengthy court cases. He emphasized the importance of addressing tax payment issues and highlighted efforts to modernize tax collection through IT enhancements.
 
-ඒ සඳහා දැනට පවත්නා නීතී යාවත්කාලීන කර, එසේ පැහැර හරින බදු අය කරගැනීම සඳහා සුවිශේෂී වැඩපිළිවෙලක් දියත් කරන බවත්  මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+🟩
 
-"යම් ආකාරයකින් තමන්ට බදු ගෙවීමේ අසීරුතාවයක් ඇති නම් ඒ පිළිබඳව අභියාචනා කිරීමට මෙන්ම ඒ පිළිබඳව උසාවි යෑමට ඔවුන්ට අයිතියක් තිබෙනවා. එවැනි ඇතැම් උසාවි ක්‍රියාමාර්ග වසර 30කට පමණ වැඩි කාලයක් දිගින් දිගට දිග්ගැසෙමින් පැවතීම හේතුවෙන්, අධිකරණ ක්‍රියාමාර්ගය අවසන් වනවිට ඇතැමුන් මියගොසින්."
+State Minister Ranjith Siyambalapitiya says that before the imposing of new taxes, the delegation of payment and levied taxes will be addressed.
 
-එමෙන්ම බදු ගෙවීමට යටත් වන්නේ මසකට රුපියල් ලක්ෂයකට වැඩි ශුද්ධ ආදායමක් ඇති අයෙක් පමණක්‌ බවත්, ඔහු වෙනත් තැනකින් බදු ගෙවීමක් කර ඇත්නම් නැවත ඔහු බදු ගෙවිය යුතු නැති බවත් පැවසීය.
+State Minister Ranjith Siyambalapitiya said that the existing legal is updated and the default tax will be launched.
 
-ඒ පිළිබඳව ලිඛිතව ප්‍රාදේශීය කාර්යාලයට දැනුවත් කරන ලෙසත් රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+"If you have a difficult time for paying taxes, they have the right to appeal to it as well as. Some of these court proceedings have been protrigated for more than 30 years by the court of law. "
 
-...
+He also said that only a net income of more than Rs.
+
+The State Minister also said to inform the Regional Office.
+
+He said the strongest net could be made to capture tax evictions and steps have been taken to update the laws with IT.
+
+◼️
 
 [Data](articles/fb03637f.json)
+
+[Extended Data](ext_articles/fb03637f.ext.json)
 
 ---
 
@@ -142,23 +150,29 @@ However, Hardik Pandya will not compete in three ODIs after that, a BCCI officia
 
 ---
 
-### මඩකලපුව පූනොච්චිමුනේහි නිවසක පිපිරීමක්
+### Blasing at a house in Poultrymyhimaya in Batticaloa
 
 *2024-07-16 16:27:05* · [`adalk`](https://www.ada.lk/picture_story/මඩකලපුව-පූනොච්චිමුනේහි-නිවසක-පිපිරීමක්/10-410810) · `si`
 
-මඩකලපුව, කාත්තාන්කුඩි පොලිස් වසමට අයත් පූනොචිමුණ ගම්මානයේ නිවසක පිපිරීමක් සිදුව තිබෙනවා.
+Explosions reported in Poultrymyhimaya, Poinchamun Village, and Tattour Housing Scheme in Batticaloa, causing damage but no casualties. Investigations ongoing by local authorities and military.
 
-පූනොචිමුණ පච්ච නිවාස යෝජනා ක්‍රමයේ ජනාවාස ගම්මානයේ මෙම පිපිරීම සිදුව තිබේ.
+🟩
 
-වසේ කාමරයක් තුළ පිපිරීම සිදුව ඇති බව නිරීක්ෂණය කළ හැක.  විශාල හානියක් සිදුවී නැතත් විශාල ශබ්දයක් ඈතින් ඇසුණු බව අසල්වාසීහු පැවසූහ
+An explosion at Poinchamun Village owned by the Kattankadi police division.
 
-බිම වැටුණු නිල් පැහැති වස්තුව ඉහළට ගොස් සිදුර කැඩී ගිය බව නිවසේ රැඳී සිටි අය පැවැසූහ
+The explosion of the Tattour Housing Scheme was in the restoration village.
 
-මේ සම්බන්ධයෙන් මඩකලපුව දිස්ත්‍රික් අපරාධ ස්ථාන පරීක්ෂණ පොලිස් කණ්ඪායම විසින් පරීක්‍ෂණයක් පවත්වා ඇති අතර හමුදාව සහ පොලිසිය තවදුරටත් විමර්ශන සිදුකරයි.
+It can be observed that the explosion occurred in a room in the flow.Negights said, even though he had no casualties, noise was heard
+
+Those who stayed at home had to go up the ground and broke the hole
+
+The police minister has conducted an inquiry by the police officers in Batticaloa and the army and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/3833229b.json)
+
+[Extended Data](ext_articles/3833229b.ext.json)
 
 ---
 

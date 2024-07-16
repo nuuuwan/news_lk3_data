@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 10:06:33**
+As of **2024-07-16 10:20:10**
 
 ## Newspaper Stats
 
-*Scraped **35,480** Articles*
+*Scraped **35,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,018
 economynextcom | 2,102
 dailyftlk | 2,246
 adalk | 3,195
-adaderanalk | 4,091
+adaderanalk | 4,092
 tamilmirrorlk | 4,285
 dailymirrorlk | 4,733
 virakesarilk | 5,524
@@ -26,23 +26,47 @@ adaderanasinhalalk | 5,930
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,473 (100.0%) of 35,480 articles have been extended.
+35,480 (100.0%) of 35,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### ராஜிதவின் இறுதி தீர்மானம்
+### UK to return colonial-era antiquities including Tara statue to Sri Lanka
+
+*2024-07-16 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100545/uk-to-return-colonial-era-antiquities-including-tara-statue-to-sri-lanka) · `en`
+
+Buddhasasana, Religious, and Cultural Affairs Minister Vidura Wickramanayake said that many antiquities taken from the country by the United Kingdom during the colonial period, including the statue of Tara, will be returned to Sri Lanka.
+
+The minister pointed out that an education system that suits the country and culture should be created in a manner that instills a sense of pride in the minds of the people about their country.
+
+Minister of Buddhasasana, Religious, and Cultural Affairs Vidura Wickramanayake expressed these views during a press conference themed “Collective Path to a Stable Country” held at the Presidential Media Centre yesterday (15th).
+
+“The majority of the community believes there is an economic problem in the country today. However, our ministry holds the responsibility of shaping the people of Sri Lanka into good citizens. Our ministry has the official mandate to work towards creating a better society.
+
+...
+
+[Data](articles/fdaf4b18.json)
+
+---
+
+### Rajitha's final decision
 
 *2024-07-16 09:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவின்-இறுதி-தீர்மானம்/175-340474) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் தற்போதைய ஜனாதிபதிக்கு ஆதரவளிப்பது தொடர்பில் இதுவரையில் இறுதித் தீர்மானம் எடுக்கப்படவில்லை என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன தெரிவித்துள்ளார்.
+Rajitha Senaratne, a United People's Power Parliamentarian, hasn't decided whether to back the current president in the upcoming election. He hopes the president's economic policies will continue.
 
-தற்போதைய ஜனாதிபதி மற்றும் அரசாங்கத்தினால் முன்னெடுக்கப்படும் பொருளாதார வேலைத்திட்டங்கள் தொடர்ந்தும் முன்னெடுக்கப்பட வேண்டும் என தாம் நம்புவதாக நாடாளுமன்ற உறுப்பினர் சுட்டிக்காட்டியுள்ளார்.
+🟩
+
+United People's Power Parliamentarian Rajitha Senaratne says that the final decision has not been made regarding the support of the current president in the upcoming presidential election.
+
+The parliamentarian pointed out that he hoped that the current president and the government's economic programs should continue.
 
 ◼️
 
 [Data](articles/58752354.json)
+
+[Extended Data](ext_articles/58752354.ext.json)
 
 ---
 
@@ -64,65 +88,89 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 [Data](articles/d6158dbc.json)
 
+[Extended Data](ext_articles/d6158dbc.ext.json)
+
 ---
 
-### சிறைக்கைதிகளை பார்வையிட விசேட அனுமதி
+### Special permission to visit prisoners
 
 *2024-07-16 09:43:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைக்கைதிகளை-பார்வையிட-விசேட-அனுமதி/175-340473) · `ta`
 
-இன்று 119ஆவது சிறைச்சாலை தினத்தை முன்னிட்டு, சிறைக்கைதிகளை பார்வையிட விசேட சந்தர்ப்பமொன்றை வழங்குவதற்கு சிறைச்சாலைகள் திணைக்களம் தீர்மானித்துள்ளது.
+On the 119th Prison Day, the Department of Prisons allowed visits and improved conditions for prisoners, including better food and sanitation, from 9 am to 4 pm. However, due to a prisoner's death from brain fever, the Galle Prison's activities were restricted for a week, with three other inmates hospitalized for similar symptoms.
 
-அதற்கமைவாக இன்று (16) கைதிகளின் உறவினர்களால் கொண்டுவரப்பட்ட ஒரு கைதிக்கு போதுமான உணவு மற்றும் சுகாதார பொருட்களை வழங்குவதற்கு சந்தர்ப்பம் வழங்கப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+🟩
 
-இன்று காலை 9 மணி முதல் மாலை 4 மணி வரை இந்த விசேட வேலைத்திட்டம் நடைமுறைப்படுத்தப்படவுள்ளதாக அவர்  குறிப்பிட்டுள்ளார்.
+The Department of Prisons has decided to provide a special opportunity to visit the prisoners on the 119th Prison Day today.
 
-இன்று காலை 9 மணி முதல் மாலை 4 மணி வரை இந்த விசேட வேலைத்திட்டம் அமுல்படுத்தப்படவுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+Accordingly, a prison media spokesman said that a prisoner brought by relatives of the prisoners today (16) has been given the opportunity to provide adequate food and sanitation.
 
-இதேவேளை, காலி சிறைச்சாலையின் செயற்பாடுகளை இன்று முதல் மட்டுப்படுத்த சிறைச்சாலை திணைக்களம் தீர்மானித்துள்ளது.
+He said that the special program will be implemented from 9 am to 4 pm today.
 
-மூளைக் காய்ச்சலால் கைதி ஒருவர் உயிரிழந்ததை அடுத்து இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+He added that the special program will be implemented from 9 am to 4 pm today.
 
-காலி சிறைச்சாலையில் கைதி ஒருவர் கடந்த 13ஆம் திகதி உயிரிழந்துள்ளதுடன் பிரேத பரிசோதனையில் அவர் மூளை காய்ச்சலால் உயிரிழந்துள்ளதாக தெரியவந்துள்ளது.
+Meanwhile, the Department of Prison has decided to restrict the activities of the Galle Prison from today.
+
+The move is said to have been taken after a prisoner died of brain fever.
+
+A prisoner in Galle Prison died on the 13th and an autopsy revealed that he had died of brain fever.
+
+In addition, three inmates suspected of having brain fever have been taken to the hospital for treatment.
 
 ...
 
 [Data](articles/a3608ed9.json)
 
+[Extended Data](ext_articles/a3608ed9.ext.json)
+
 ---
 
-### கொழும்பு - கோட்டை பகுதியில் மனித எச்சங்கள் மீட்பு : விசாரணை ஆரம்பம் !
+### Human remains recovery in Colombo - Fort
 
 *2024-07-16 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188563) · `ta`
 
-கொழும்பு - கோட்டை பFகுதியில் உள்ள பழைய செயலகத்திற்கு அருகில் மனித எச்சங்கள் கண்டெடுக்கப்பட்டதாக கொழும்பு துறைமுக பொலிஸார் தெரிவித்தனர்.
+During excavation for the Colombo Port City Expressway, human remains were found six feet deep near the old secretariat in Colombo-Fort. The discovery, made last Saturday, led to suspension of work and police involvement, with protective measures in place for ongoing investigations by the Colombo Fort Court.
 
-கொழும்பு துறைமுக நகர அதிவேக வீதியுடன்  இணைக்கப்பட்ட நிர்மாணப் பணிகளில் ஈடுபட்டுள்ள தனியார் நிறுவனத்தினால் மேற்கொள்ளப்பட்ட அகழ்வு நடவடிக்கைகளின் போதே 6 அடி ஆழத்தில் இந்த மனித எச்சங்கள் கண்டுபிடிக்கப்பட்டுள்ளன.
+🟩
 
-கடந்த சனிக்கிழமை இந்த மனித எச்சங்கள் கண்டெடுக்கப்பட்டுள்ளதாகவும் இவை பல வருடங்கள் பழைமையானவை என்றும் பொலிஸார் தெரிவித்தனர்.
+Colombo port police said that human remains were found near the old secretariat in the Colombo -Fort Fort.
 
-மனித எச்சங்கள்  கண்டுபிடிக்கப்பட்டதை அடுத்து, அகழ்வு நடவடிக்கைகள் இடைநிறுத்தப்பட்டதுடன், இது தொடர்பில் பொலிஸாருக்கு அறிவிக்கப்பட்டுள்ளது.
+These human remains have been discovered at a depth of 6 feet during excavation operations carried out by a private company involved in the construction of the Colombo Port City Expressway.
 
-கொழும்பு கோட்டை  நீதிமன்றத்தினால் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ள நிலையில்,   அந்த இடத்திற்கு பொலிஸ் பாதுகாப்பு வழங்கப்பட்டுள்ளது.
+Police said the human remains were found last Saturday and these were many years old.
+
+Following the discovery of human remains, excavation measures have been suspended and the police have been informed about this.
+
+Police have been provided with police protection as investigations have been launched by the Colombo Fort Court.
 
 ◼️
 
 [Data](articles/813711f1.json)
 
+[Extended Data](ext_articles/813711f1.ext.json)
+
 ---
 
-### வடக்கில் தேர்தல், நல்லிணக்கப் பிரச்சினைகள்
+### Elections in the North, Reconciliation issues
 
 *2024-07-16 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188564) · `ta`
 
-இந்த வருடம் அக்டோபரில் நடத்தப்பட வேண்டியிருக்கும் ஜனாதிபதி தேர்தலுக்கு மேலாக தொங்கும் கேள்விக்குறி இன்னமும் அகன்றுபோகவில்லை. அதற்கான பதில் தொடர்ந்து பின்போடப்பட்டுக் கொண்டே போகிறது.  ஜனாதிபதியின் பதவிக்காலம் ஆறு வருடங்களா அல்லது ஐந்து வருடங்களா என்று நிலவும் குழப்பத்தை நீக்குவதற்கு அரசியலமைப்புத் திருத்தம் ஒன்றைக் கொண்டுவருவதற்கான அரசாங்கத்தின் யோசனை  இறுதியாக வந்திருக்கிறது.
+The text discusses the complexities surrounding the upcoming presidential election in Sri Lanka, particularly focusing on the potential impact of a Tamil candidate. It highlights the government's stalled efforts to amend the constitution to reduce the presidential term, the High Court's validation of the 19th Amendment, and the ongoing discussions aimed at achieving national reconciliation. The document also touches upon the divided Tamil political community's search for unity and the challenges they face in deciding on a single candidate. Despite the divisions, there's a shared desire for a federal solution and the implementation of the 13th Amendment, reflecting the Tamil community's enduring aspirations for self-governance in the Northern and Eastern provinces.
 
-ஜனாதிபதியின் பதவிக்காலத்தைக் குறைத்த அரசியலமைப்புக்கான 19  வது திருத்தத்தின் சட்டபூர்வத்தன்மையை உயர்நீதிமன்றம் மூன்று தடவைகள் உறுதிப் படுத்தியிருக்கிறது.
+🟩
 
-உயர்நீதிமன்றத்தினாலோ, வேறு எந்த நீதிமன்றத்தினாலோ,  பாராளுமன்றத்தினாலோ அல்லது வேறு எந்த நிறுவனத்தினாலுமோ பிரச்சினை கிளப்பப்படாத நிலையில், அதுவும் ஒன்பது வருடங்கள் கழித்து "ஆறு வருடங்கள்" என்ற சொற்களை "ஐந்து வருடங்கள்"  என்று மாற்றும் ஒரே நோக்கத்துக்காக மாத்திரம் ஏன் அரசாங்கம் அரசியலமைப்புக்கு திருத்தம் ஒன்றைக் கொண்டுவரும் யோசனையை முன்வைத்திருக்கிறது என்று பேராசிரியர் நிஹால் ஜெயவிக்கிரம போன்ற சட்ட அறிஞர்கள் கேள்வி எழுப்பியிருக்கிறார்கள்.
+The questionnaire hanging over the presidential election, which is to be held in October this year. The answer to that continues to be followed.The government's idea of ​​bringing a constitutional amendment has finally come to a standstill to eliminate the chaos that is six years or five years.
+
+The High Court has confirmed the legalization of the 19th Amendment to the Constitution that reduced the president's term.
+
+While the issue is not raised by the High Court, any other court, parliament, or any other institution, it is nine years later, and nine years later, the word "six years" has been "five years" for the sole purpose of "five years".Have raised.
+
+The tricks in Colombo are not shocked by the thinking of voters in the north. Since this is beyond their control, it seems like they are not concerned.
 
 ...
 
 [Data](articles/812b41c5.json)
+
+[Extended Data](ext_articles/812b41c5.ext.json)
 
 ---
 
@@ -274,33 +322,49 @@ The suspect has been identified as 20 -year -old Thomas Mathew Crooks. Remble
 
 ---
 
-### කුවේට් පොදු සමා කාලයේදි ලංකාවට 10615ක් ආපසු ඇවිත්
+### Sri Lanka returns 10615 in Kuwait
 
 *2024-07-16 08:52:00* · [`adalk`](https://www.ada.lk/breaking_news/කුවේට්-පොදු-සමා-කාලයේදි-ලංකාවට-10615ක්-ආපසු-ඇවිත්/11-410799) · `si`
 
-කුවේට් රාජ්‍යයේ රැකියා සදහා ගොස්,එරට වලංගු  වීසා කාළය ඉක්මවා නීතිවිරෝධී ලෙස රැදී සිටින ශ්‍රී ලාංකිකයන්ට එරටින් පිටවීම සදහා කුවේට් රජය විසින් 2024 වසර සදහා  ලබා දී තිබූ " පොදු සමා කාළය " භාවිතා කරමින් ශ්‍රී ලාංකිකයන් 10,615 දෙනෙකු එරටින් පිට වී ඇති බව කුවේට් රාජ්‍යයේ ශ්‍රී ලංකා තානාපති කාර්යාලය ප්‍රවෘත්ති නිවේදනයක් නිකුත් කරමින් ප්‍රකාශ කර සිටිති .
+Sri Lanka's Ambassador to Kuwait announced that Kuwait will allow Sri Lankans to stay until June 30, 2024, extending their visas. This decision follows discussions between the two countries' foreign affairs departments. The announcement also mentioned special discounts for flights out of Kuwait for those leaving within this period.
 
-කුවේට් රාජ්‍යයේ විදේශ කටයුතු අමාත්‍යාංශය සහ එරට ශ්‍රී ලංකා තානාපති කාර්යාලය එක්ව සිදු කළ සාකච්ඡා වල ප්‍රතිඵලයක් ලෙස මෙම පොදු සමා කාළය 2024 මාර්තු මස 17 දින සිට 2024 ජුනි මස 30 දින දක්වා කාළයක් ලබා දී තිබුණි .
+🟩
 
-එම කාළය තුළ ඉතා සරළ ලියකියවිලි කීපයක් පමණක් පදනම් කර ගෙන , එරටින් පිටවීම සදහා " තාවකාලික ගමන් බලපත්‍ර " ලබා දීම සිදු කළ අතර , මෙම කටයුතු සියල්ල කුවේට් රාජ්‍යයේ ශ්‍රී ලංකා තානාපති කාන්දීපන් බාලසුබ්‍රමනියම් මහතාගේ පූර්ණ අධීක්ෂණය සහ උපදේශකත්වය යටතේ එම තානාපති කාර්යාලීය නිලධාරීන් විසින් සිදු කර තිබුණි.
+Kuwait's Sri Lankan Ambassador to Kuwait, using public pumors, "Kuwait 'has left the Government of Kuwait to leave Kuwait to 2024 in the country's valid Visa Kalliya.The office issues a press release.
 
-...
+The public school was a result of 1724 to June 30, 2024 to June 30, 2024 to June 30, 2024 to the discussion of the External Affairs of the State of the Government of Kuwait.
+
+The "temporary passport" was provided to exit only a few different documents in the same period and to excluding the full monitoring and advisory of Sri Lankan Ambassador to Kuate Kuwait..
+
+Sri Lankans who leave Kuwait to get tickets with special discounts on "special discountsThe news statement further states that several were established.
+
+◼️
 
 [Data](articles/9ebae244.json)
 
+[Extended Data](ext_articles/9ebae244.ext.json)
+
 ---
 
-### இலங்கையின் பொருளாதார மீட்சி மற்றும் முன்னேற்றம் குறித்து  சீன முகவரகத்தின் பிரதித்தலைவரிடம் விளக்கமளித்த திறைசேரி செயலாளர்
+### Treasury Secretary explained to the Deputy Chairman of the Chinese Agency on Sri Lanka's economic recovery and progress
 
 *2024-07-16 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188562) · `ta`
 
-சீன சர்வதேச அபிவிருத்தி ஒத்துழைப்பு முகவரகத்தின் பிரதித்தலைவருடனான சந்திப்பின்போது இலங்கையின் பொருளாதார மீட்சி மற்றும் முன்னேற்றம் குறித்து விளக்கமளித்த திறைசேரியின் செயலாளர் மஹிந்த சிறிவர்தன, கடன்மறுசீரமைப்பு செயன்முறையை வெற்றிகரமாகப் பூர்த்திசெய்வதில் சீனா வழங்கிய ஒத்துழைப்புக்களுக்கு நன்றி தெரிவித்தார்.
+In a meeting with China's Deputy Chairman, Sri Lanka's Treasury Secretary discussed the country's economic recovery and progress, thanking China for its support, especially through the Chinese Exim Bank and the joint effort with France, India, and Japan in Sri Lanka's debt scheme, backed by the IMF.
 
-பெய்ஜிங்கில் கடந்த 12 - 13 ஆம் திகதிகளில் சீன சர்வதேச அபிவிருத்தி ஒத்துழைப்பு முகவரகத்தினால் ஏற்பாடு செய்யப்பட்டிருந்த அபிவிருத்திக்கான உலகளாவிய நடவடிக்கை பேரவையின் இரண்டாவது உயர்மட்ட மாநாட்டின் பக்க நிகழ்வுகளில் ஒன்றாக திறைசேரி செயலாளர் மஹிந்த சிறிவர்தன மற்றும் சீன சர்வதேச அபிவிருத்தி ஒத்துழைப்பு முகவரகத்தின் பிரதித்தலைவர் யாங் வென்குன் ஆகியோருக்கு இடையிலான சந்திப்பு நடைபெற்றது.
+🟩
+
+During the meeting with the Deputy Chairman of the Chinese International Development Cooperation Agency, Mahinda Siriwardena, the Secretary of the Treasury, explained Sri Lanka's economic recovery and progress, thanked China's cooperation in the success of the debt issuer.
+
+One of the side events of the Global Action Global Action Council, organized by the Chinese International Development Cooperation Agency in Beijing on the 12th to 13th, was held between the Treasury Secretary Mahinda Siriwardena and the Deputy Chairman of the Chinese International Development Cooperation Agency, Yang Venkun.
+
+During the meeting, the Secretary of the Treasury, explaining the progress of Sri Lanka in dealing with the worst economic crisis, made it clear on the implementation of the majority of economic stability and the implementation of the economic growth.
 
 ...
 
 [Data](articles/d3fc0315.json)
+
+[Extended Data](ext_articles/d3fc0315.ext.json)
 
 ---
 
@@ -2257,29 +2321,5 @@ The government will also file a legal reference against Khan and former Presiden
 [Data](articles/45dc3a2e.json)
 
 [Extended Data](ext_articles/45dc3a2e.ext.json)
-
----
-
-### Driver killed in cab accident - 5 hospitalized
-
-*2024-07-15 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198840) · `si`
-
-In a tragic cab accident in Welikanda, one driver died and five passengers were injured, all taken to Polonnaruwa Hospital.
-
-🟩
-
-A man was killed in a cab accident in Welikanda police division.
-
-The accident had occurred when a cab running out of the Welikanda Sinhapura road today (15), police said.
-
-The driver of the cab has been killed and five persons who were traveling were injured and rushed to the Polonnaruwa Hospital.
-
-The deceased has been identified as 52 year old Sinhapura Welikanda.
-
-◼️
-
-[Data](articles/aca2b4ba.json)
-
-[Extended Data](ext_articles/aca2b4ba.ext.json)
 
 ---

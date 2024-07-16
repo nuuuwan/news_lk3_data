@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 16:35:10**
+As of **2024-07-16 16:51:44**
 
 ## Newspaper Stats
 
-*Scraped **35,551** Articles*
+*Scraped **35,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,204
-adaderanalk | 4,105
+adaderanalk | 4,106
 tamilmirrorlk | 4,296
 dailymirrorlk | 4,733
 virakesarilk | 5,537
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,549 (100.0%) of 35,551 articles have been extended.
+35,549 (100.0%) of 35,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### Sri Lanka to increase fines under Criminal Procedure Code
+
+*2024-07-16 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100559/sri-lanka-to-increase-fines-under-criminal-procedure-code) · `en`
+
+The Cabinet of Ministers has approved the proposal to publish the draft bill prepared to increase the fines mentioned in the Criminal Procedure Code, in the government gazette notification and subsequently present it to the Parliament for approval.
+
+The Cabinet of Ministers had given its policy approval on November 27, 2023 to amend the Criminal Procedure Code so that the fines mentioned in the Criminal Procedure Code can be escalated based on the current monitory value.
+
+The Bill prepared accordingly by the Legal Draftsman has received the clearance of the Attorney General, the Cabinet Spokesman said today.
+
+Accordingly, the approval of the Cabinet of Ministers was granted to the proposal furnished by the Minister of Justice, Prison Affairs and Constitutional Reforms to publish the said draft bill in the government gazette notification and subsequently present to the Parliament for its concurrence, he said.
+
+◼️
+
+[Data](articles/dc7f28c9.json)
+
+---
 
 ### කැස්පර්ස්කි අමෙරිකාවට සමුදෙයි
 
@@ -2465,21 +2483,5 @@ The IGP made these remarks in response to media questions during the inauguratio
 [Data](articles/f9f91b45.json)
 
 [Extended Data](ext_articles/f9f91b45.ext.json)
-
----
-
-### SC gives until 30 Aug. but Maithri wants six more years to pay up Easter Sunday compensation
-
-*2024-07-16 01:11:51* · [`dailyftlk`](https://www.ft.lk/news/SC-gives-until-30-Aug-but-Maithri-wants-six-more-years-to-pay-up-Easter-Sunday-compensation/56-764316) · `en`
-
-The Supreme Court has ordered former President Maithripala Sirisena and several others to complete the payment of compensation to the Easter Sunday attack victims by 30 August 2024.
-
-The order was handed down to Sirisena, former Police Inspector General Pujith Jayasundara and former State Intelligence Service Head Senior DIG Nilantha Jayawardena.
-
-...
-
-[Data](articles/ebfa49cd.json)
-
-[Extended Data](ext_articles/ebfa49cd.ext.json)
 
 ---

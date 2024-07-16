@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 04:54:32**
+As of **2024-07-17 05:06:07**
 
 ## Newspaper Stats
 
-*Scraped **35,620** Articles*
+*Scraped **35,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 347
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,118
-dailyftlk | 2,246
+dailyftlk | 2,256
 adalk | 3,214
 adaderanalk | 4,113
 tamilmirrorlk | 4,300
@@ -26,9 +26,205 @@ adaderanasinhalalk | 5,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,620 (100.0%) of 35,620 articles have been extended.
+35,620 (100.0%) of 35,630 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-17 (Wednesday)
+
+### Dipped Products accelerates global expansion with launch of marketing office in India
+
+*2024-07-17 04:47:13* · [`dailyftlk`](https://www.ft.lk/business/Dipped-Products-accelerates-global-expansion-with-launch-of-marketing-office-in-India/34-764352) · `en`
+
+Electrical Research and Development Association (ERDA) Asst. Director and Head Anil Khopkar with DPL Managing Director Pushpika Janadheera inaugurating DPL India marketing office, joined by senior management from Udyogi Plastics and DPL team
+
+ERDA Asst. Director and Head Anil Khopkar, DPL Managing Director Pushpika Janadheera alongside Udyogi Plastics Managing Director Sudhir Kr. Mundhra with senior management team and members of DPL team at launch of DPL India marketing office
+
+Dipped Products PLC (DPL), a global leader in the manufacturing of high-quality gloves and a subsidiary of Hayley’s PLC yesterday announced the opening of its dedicated sales and marketing office in Mumbai, India.
+
+This strategic move is part of DPL’s ongoing global expansion strategy to enhance its presence in key markets.
+
+...
+
+[Data](articles/16d70750.json)
+
+---
+
+### Govt. to launch second phase of agriculture modernisation program
+
+*2024-07-17 04:42:54* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-launch-second-phase-of-agriculture-modernisation-program/56-764351) · `en`
+
+Cabinet nod to utilise Rs. 750 m from 2024 Budget and provide Rs. 10 m for each of 75 selected Divisional Secretariat Divisions
+
+In a significant step towards transforming the agricultural sector, the Government has decided the implementation of the second phase of the Agriculture Modernisation Program.
+
+The second phase will involve the selection of three Divisional Secretariats in each district to implement modern agricultural projects.
+
+The Cabinet of Ministers on Monday approved the proposal presented by President Ranil Wickremesinghe to utilise Rs. 750 million from the 2024 Budget for this phase.
+
+“This Budget allocation will provide Rs. 10 million for each of the 75 selected Divisional Secretariat Divisions,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+The move follows the Cabinet decision taken on 4 March 2024, following the successful launch of the program’s first phase.
+
+...
+
+[Data](articles/5ccacaa4.json)
+
+---
+
+### Colombo Port City (Charges) Orders for Parliament
+
+*2024-07-17 04:41:16* · [`dailyftlk`](https://www.ft.lk/news/Colombo-Port-City-Charges-Orders-for-Parliament/56-764350) · `en`
+
+The Cabinet of Ministers on Monday approved the proposal presented by President Ranil Wickremesinghe in his capacity as the Investment Promotion Minister, to submit the Colombo Port City (Charges) Orders to Parliament.
+
+The move is in accordance with Section 71 of the Act and the Colombo Port City (Charges) Orders No. 2 of 2024, was imposed by gazette notification on 6 June.
+
+These orders, enacted under the provisions of the Colombo Port City Economic Commission Act No. 11 of 2021, require Parliamentary approval within three months of their publication in the Government gazette.
+
+The orders, declared in Extraordinary Gazette No. 2387/38, are designed to regulate charges within the Colombo Port City, a key economic zone.
+
+The move is a step towards ensuring that the regulations governing the economic activities within the Port City are aligned with the broader legislative framework and receive the necessary legislative oversight.
+
+◼️
+
+[Data](articles/a14a9cfe.json)
+
+---
+
+### Cabinet nod to publish gazette to increase fines under Criminal Procedure Code
+
+*2024-07-17 04:40:58* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-publish-gazette-to-increase-fines-under-Criminal-Procedure-Code/56-764349) · `en`
+
+The Cabinet of Ministers on Monday approved publishing the draft Bill prepared to increase the fines mentioned in the Criminal Procedure Code, in the Government gazette and subsequently present it to the Parliament for approval.
+
+The Bill prepared accordingly by the Legal Draftsman has received the clearance of the Attorney General.
+
+On 27 November 2023, the Cabinet approved amending the Criminal Procedure Code so that the fines mentioned in the Criminal Procedure Code can be increased based on the current monetary value.
+
+The proposal to this effect submitted by the Justice, Prison Affairs and Constitutional Reforms Minister was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/84953586.json)
+
+---
+
+### Cabinet approves second national action plan to eliminate sexual and gender-based harassment
+
+*2024-07-17 04:40:41* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-second-national-action-plan-to-eliminate-sexual-and-gender-based-harassment/56-764348) · `en`
+
+The Cabinet of Ministers on 9 July approved the proposal for a new multi-sectoral national action plan aimed at eliminating sexual and gender-based harassment in Sri Lanka.
+
+This initiative, titled the National Action Plan II (2024-2028) was presented by President Ranil Wickremesinghe, who also serves as the Minister of Women, Children Affairs, and Social Empowerment.
+
+The approval follows a comprehensive follow-up and assessment process that evaluated the impact of the first national action plan, which was implemented from 2012-2020.
+
+The assessment highlighted the necessity for continued policy involvement to ensure the rights of women, men, children and all gender-diverse groups to live in a fair and socially inclusive environment, free from violence and harassment.
+
+The new action plan has been developed in consultation with various stakeholders, reflecting a broad and inclusive approach to policy-making.
+
+...
+
+[Data](articles/87866b1b.json)
+
+---
+
+### Sri Lanka Customs to release 50 tons of confiscated ginger for ayurvedic medicine production
+
+*2024-07-17 04:40:22* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Customs-to-release-50-tons-of-confiscated-ginger-for-ayurvedic-medicine-production/56-764347) · `en`
+
+The Cabinet of Ministers on Monday approved Sri Lanka Customs to release 50 tons of ginger it confiscated for use in Ayurvedic medicine production.
+
+“Considering the severe scarcity of medicinal ginger in the market at present, seven drugs that require it are in short supply. Hence, it was decided to release the confiscated ginger via illegal methods for medicine production,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+He added that medicinal ginger is a crucial raw material for 87 medicine products manufactured by the Sri Lanka Ayurvedic Drugs Corporation.
+
+Gunawardena assured that the release of confiscated ginger for medicine production will not harm local ginger farmers.  The Cabinet of Ministers has approved the proposal presented by the Minister of Health to obtain the said stock of medicinal ginger for the Sri Lanka Ayurvedic Drugs Corporation at a concessionary price.
+
+◼️
+
+[Data](articles/0a08dc93.json)
+
+---
+
+### Cabinet green lights to utilise Saudi Fund to complete Godagama-Homagama road project
+
+*2024-07-17 04:40:06* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-to-utilise-Saudi-Fund-to-complete-Godagama-Homagama-road-project/56-764346) · `en`
+
+The Cabinet of Ministers on Monday decided to allocate remaining funds from the Saudi Fund for Development to complete the first part of the Godagama-Homagama road project.
+
+The decision follows the successful utilisation of the Saudi funds for the Kurinchakeni Bridge Project in the Trincomalee district.
+
+After the completion of the procurement procedure for the Kurinchakeni Bridge Project, a loan balance of $ 10.5 million remained. The Cabinet of Ministers has approved a proposal presented by the Transport and Highways Minister Bandula Gunawardena to use this remaining balance to finish the partially completed Godagama-Homagama road.
+
+...
+
+[Data](articles/a7d96694.json)
+
+---
+
+### Sri Lanka, US express desire to further strengthen cooperation
+
+*2024-07-17 04:38:26* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-US-express-desire-to-further-strengthen-cooperation/56-764345) · `en`
+
+5th Sri Lanka – USA Partnership Dialogue in Washington chaired by Foreign Secretary Aruni Wijewardane and Acting Under Secretary for Political Affairs John Bass concludes successfully
+
+The 5th Sri Lanka – USA Partnership Dialogue concluded on 12 July 2024 in Washington, D.C. The Sri Lanka delegation was led by Secretary of the Ministry of Foreign Affairs Aruni Wijewardane and the USA side was led by Acting Under Secretary for Political Affairs of the US Department of State John Bass.
+
+The Sri Lanka delegation included Ambassador Mahinda Samarasinghe as well as senior officials of the Sri Lanka Embassy, Washington D.C. and the Ministry of Foreign Affairs.
+
+The USA delegation included senior representatives of the US Department of State, the US Treasury, the US Department of Defence, the US Agency for International Development, and the National Security Council, the White House.
+
+...
+
+[Data](articles/6d4766b7.json)
+
+---
+
+### Ex-BASL Chief condemns President’s remarks on Judiciary
+
+*2024-07-17 04:36:18* · [`dailyftlk`](https://www.ft.lk/news/Ex-BASL-Chief-condemns-President-s-remarks-on-Judiciary/56-764344) · `en`
+
+Former BASL Chief Saliya Peiris PC accuses President Ranil Wickremesinghe of trying to coerce Judiciary to fall in line
+
+Stresses fundamental rights jurisdiction of courts exists to have check on exercise of Executive powers
+
+Says President Ranil Wickremesinghe’s claim that courts do not have judicial power is ridiculous
+
+Notes President is making such rhetoric to cow down Judiciary at crucial time
+
+Former Bar Association of Sri Lanka (BASL) President Saliya Peiris PC has condemned President Ranil Wickremesinghe’s recent comments regarding the Judiciary.
+
+Taking to social media, Peiris said Wickremesinghe is once again trying to coerce the Judiciary to fall in line telling the Judiciary not to interfere with the “executive powers of Parliament”.
+
+Peiris was referring to the comments made by President Wickremesinghe on Sunday in Mahiyanganaya while attending another Urumaya Freehold Land Deeds program.
+
+...
+
+[Data](articles/de5b8800.json)
+
+---
+
+### SJB’s Eran defends AKD against Lohan’s verbal onslaught
+
+*2024-07-17 04:35:34* · [`dailyftlk`](https://www.ft.lk/news/SJB-s-Eran-defends-AKD-against-Lohan-s-verbal-onslaught/56-764343) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne has condemned State Minister of Plantation Industries Lohan Ratwatte for his recent comments against rival National People’s Party (NPP) leader Anura Kumar Dissanayake.
+
+Addressing a rally in Kandy over the weekend, Ratwatte had said he will not allow Dissanayake to take over as Sri Lanka’s next leader.
+
+“Has Anura Dissanayake constructed even a small gutter for the people? We won’t allow him to become President of this country as long as I am around in politics,” he had said.
+
+In response Wickramaratne taking to social media platform X yesterday said such statements have dangerous undertones considering Sri Lanka’s history of election interference and violence.
+
+“While I disagree with the policies of NPP and believe that Sajith is the election frontrunner, no politician has the right to allow or not allow a candidate to be elected,” Wickramaratne said.
+
+...
+
+[Data](articles/5b9d56f6.json)
+
+---
 
 ### 2024-07-16 (Tuesday)
 
@@ -2165,225 +2361,5 @@ I will make efforts to improve the tourism industry by focusing on the natural r
 [Data](articles/00446aa2.json)
 
 [Extended Data](ext_articles/00446aa2.ext.json)
-
----
-
-### Kanjiban's Birthday: Celebration at sea
-
-*2024-07-16 12:50:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானின்-பிறந்த-நாள்-கடலில்-கொண்டாட்டம்/175-340488) · `ta`
-
-On July 8, underworld figure Suresh Vasantha Perera, aka Club Vasantha, was killed in Athurugiriya. The same day, his murderer, Kanjipani Imran, celebrated his 38th birthday at sea. Imran, who fled to France and is linked to several human massacres, marked the occasion with a cake thrown into the sea from Italy. Police suspect Imran hired a hitman in Dubai to carry out the assassination.
-
-🟩
-
-Suresh Vasantha Perera, also known as the Club Vasantha, was shot dead on July 8 in Athurugiriya. On the day his body was buried, Kanjipani Imran's birthday was celebrated in the sea.
-
-The 38th birthday of Kanjibani Imbaran, who has fled to France and carried out human massacres using its peers in the country, was celebrated in the sea.
-
-Emil Rohan in Italy has reported to our brother -in -law Ladyepa on Monday (15) that a cake has been cut to the sea and the cake has been cut to the sea.
-
-The 38th birthday of Kanjipani Imran was the day when Suresh Vasantha Perera was finalized for the funeral of the underworld.
-
-In this case, the police said that Kanjiban Imranne had leased to Lok Boy, who was hiding in Dubai to assassinate the club Vasantha.
-
-◼️
-
-[Data](articles/aab0fd65.json)
-
-[Extended Data](ext_articles/aab0fd65.ext.json)
-
----
-
-### 6,5 Cabinet approval to solve the problem
-
-*2024-07-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198871) · `si`
-
-On July 9, 2024, Sri Lanka's Cabinet approved amendments to Article 83 of the Constitution, specifically changing sentences exceeding five years. This decision followed clearance from the Attorney General and the Legal Draftsman, after which the draft was published in the gazette and presented to Parliament. President Ranil Wickremesinghe and other honorees were involved in this process.
-
-🟩
-
-Article 83 of the Constitution of Sri Lanka (B) Replacing the words "exceeding five years" (b) replace the words "exceeding five years" (b) the Cabinet of Ministers had been given his policy approval for amending the sentences.
-
-The approval was given at the Cabinet meeting held on July 9, 2024.
-
-It is reported that the Attorney General has received the clearance of the Legal Draftsman.
-
-The draft is published in the gazette and then presented to Parliament.
-
-President Ranil Wickremesinghe and the Hon.
-
-◼️
-
-[Data](articles/28ecff79.json)
-
-[Extended Data](ext_articles/28ecff79.ext.json)
-
----
-
-### Cabinet grants policy approval to amend Constitutional clause on President’s term
-
-*2024-07-16 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100552/cabinet-grants-policy-approval-to-amend-constitutional-clause-on-presidents-term) · `en`
-
-The Cabinet of Ministers has given policy approval to amend paragraph (b) of Article 83 of the Constitution by substituting the clause “exceeding six years” with “exceeding five years” with regard to the tenure of the President.
-
-The bill, prepared accordingly by the legal draftsman, has received clearance from the Attorney General.
-
-The approval has been given in the cabinet meeting held on July 9, 2024.
-
-The draft will be published in the Gazette and then submitted to Parliament.
-
-The proposal was jointly submitted by President Ranil Wickramasinghe and the Minister of Justice, Prison Affairs and Constitutional Reform Wijeyadasa Rajapakshe.
-
-◼️
-
-[Data](articles/148c4f56.json)
-
-[Extended Data](ext_articles/148c4f56.ext.json)
-
----
-
-### Bill to amend Constitutional clause on President’s term to be gazetted
-
-*2024-07-16 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100552/bill-to-amend-constitutional-clause-on-presidents-term-to-be-gazetted) · `en`
-
-The Cabinet of Ministers has given the green light to publish in the Government Gazette and then table in parliament for approval the bill prepared to amend a paragraph of the Constitution with regard to the tenure of the President.
-
-The Cabinet of Ministers had given its policy approval on July 09 to amend paragraph (b) of Article 83 of the Constitution by replacing the words “exceeding six years” with the words “exceeding five years” stated in paragraph (b) of Article 83 of the Constitution.
-
-The Bill prepared accordingly by the Legal Draftsman has received the clearance of the Attorney General, the Cabinet Spokesman said today.
-
-Accordingly, the Cabinet of Ministers approved the combined proposal presented by the President and the Minister of Justice, Prison Affairs and Constitutional Reforms to publish the bill in the Government Gazette and then table it in parliament for approval, he said
-
-◼️
-
-[Data](articles/713376e7.json)
-
-[Extended Data](ext_articles/713376e7.ext.json)
-
----
-
-### I will not allow the President to become President as long as I am in politics - the United People's Power condemns the view of Lokan Ratwatte
-
-*2024-07-16 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188591) · `ta`
-
-The United People's Power condemns State Minister Lohan Ratwatte's statement that JVP leader Anura Kumaratisanayake won't become president while he's politically active. Parliamentarian Eran Wickramarata argues this stance is dangerous, emphasizing no politician should bar a candidate from running. Despite differing policies, Wickramarata asserts politicians have no right to influence election outcomes.
-
-🟩
-
-The United People's Power has strongly condemned the expression of State Minister Lohan Ratwat that JVP leader Anura Kumaratisanayake will not be allowed to become president as long as I am in politics.
-
-United People's Power Parliamentarian Eran Wickramarata said that the report is a dangerous tone in the report when the history of Sri Lanka's intervention in the elections.
-
-Eran Wickremaratne says no politician has the right to prevent a candidate from being elected.
-
-While I do not accept the policies of the national people's power, no politician has the right to prevent or allow a candidate in the election, he said.
-
-The JVP leader Anura Kumaratisanayake will not allow the President to become President until I am in politics.
-
-Asked if Anuragumara Dissanayake had built a small canal for his people, he said, "I will not allow him to be president until I am in politics."
-
-◼️
-
-[Data](articles/f9465838.json)
-
-[Extended Data](ext_articles/f9465838.ext.json)
-
----
-
-### A shot of Oman
-
-*2024-07-16 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198870) · `si`
-
-In Oman's capital, a shooting incident resulted in four deaths and multiple injuries at a chapel. Authorities are actively investigating to resolve the conflict.
-
-🟩
-
-Four persons were killed and several others were injured in a chapel at the capital city of Oman.
-
-Oman is constantly intervened to resolution conflict and an extensive investigation into the shooting is an extensive investigation.
-
-◼️
-
-[Data](articles/fc309b45.json)
-
-[Extended Data](ext_articles/fc309b45.ext.json)
-
----
-
-### Sri Lanka approves five firms to run airport foreign exchange counters
-
-*2024-07-16 12:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-approves-five-firms-to-run-airport-foreign-exchange-counters-172293/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved five parties to run foreign exchange counters at the Bandaranaike International Airport, Minister Bandula Gunawardana said.
-
-Bank of Ceylon, People’s Bank, Samapth Bank and Commercial Bank and Thomas Cook, were selected after a competitive tender, he said.
-
-◼️
-
-[Data](articles/5e58ed3c.json)
-
-[Extended Data](ext_articles/5e58ed3c.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-16 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188588) · `ta`
-
-On July 16, the US dollar rose from buying at 297.7381 rupees to selling at 307.0529 rupees.
-
-🟩
-
-The US dollar purchasing price was 297.7381 rupees and the sales price were Rs 307.0529 on Tuesday (July 16).
-
-◼️
-
-[Data](articles/8c975f03.json)
-
-[Extended Data](ext_articles/8c975f03.ext.json)
-
----
-
-### Cabinet approves amended water tariff policy and formula
-
-*2024-07-16 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100551/cabinet-approves-amended-water-tariff-policy-and-formula) · `en`
-
-The Cabinet of Ministers has granted approval to implement the amended water tariff policy and the water tariff formula starting from 2025.
-
-The government said the new tariff policy and formula of the National Water Supply and Drainage Board were discussed at the Cabinet Meeting conducted on April 08, 2024.
-
-It was ordered to forward the new tariff policy and formula, including the required amendments, after discussions with all relevant parties.
-
-Accordingly, Cabinet of Ministers has approved the proposal presented by the Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman to implement the formulated amended water tariff policy and amended water tariff formula from the year 2025.
-
-◼️
-
-[Data](articles/56326847.json)
-
-[Extended Data](ext_articles/56326847.ext.json)
-
----
-
-### Recognition for the water formula
-
-*2024-07-16 12:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீர்-சூத்திரத்துக்கு-அங்கிகாரம்/175-340483) · `ta`
-
-The Cabinet has approved a new water payment policy and formula for review by the National Water Supply and Drainage Board. It plans to consult with authorities and amend the policy as needed. The revised Water Tax Policy and water payment formula will be implemented from 2025, proposed by Minister Jeevan Thondaman.
-
-🟩
-
-The Cabinet has approved the implementation of the payment policy and formula for review by the National Water Supply and Drainage Board.
-
-At the Cabinet meeting held on 08-04-2024 on the National Water Supply and Drainage Board's new payment policy and formula.
-
-It has been decided to consult with all the authorities and make the necessary amendments to the new payment policy and formula.
-
-The Cabinet has approved the proposal put forward by Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman to implement the revised Water Tax Policy and the revised water payment formula since 2025.
-
-◼️
-
-[Data](articles/3a39ce0e.json)
-
-[Extended Data](ext_articles/3a39ce0e.ext.json)
 
 ---

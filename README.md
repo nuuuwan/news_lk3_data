@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 20:06:20**
+As of **2024-07-16 20:20:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,573 (100.0%) of 35,574 articles have been extended.
+35,574 (100.0%) of 35,574 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -140,19 +140,25 @@ He said the strongest net could be made to capture tax evictions and steps have 
 
 ---
 
-### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+### Special announcement from the Ministry of Education
 
 *2024-07-16 16:57:49* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-410813) · `si`
 
-යෝජිත අධ්‍යාපන ප්‍රතිසංස්කරණ අනුව සෞන්දර්ය විෂයයන් සාමාන්‍ය අධ්‍යාපනයේ අත්‍යවශ්‍ය අංගයක් බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+The Ministry of Education emphasizes the importance of conscious subjects in regular education, proposing their inclusion across all levels including junior, secondary, and senior secondary education, as well as GCE Ordinary Level. It clarifies that aesthetic subjects can also refer to conscious subjects and assures that higher education sources for these subjects will continue. The ministry aims to address and refute any false claims regarding these educational reforms.
 
-කණිෂ්ඨ, ද්විතීයික අධ්‍යාපනයේ හා ජ්‍යෙෂ්ඨ ද්විතීයික අධ්‍යාපනයේ දී සෞන්දර්ය විෂයයන් වැඩිදුරටත් අධ්‍යයනය කළ හැකි අතර අ.පො.ස සාමාන්‍ය පෙළ හා අ.පො.ස. උසස් පෙළ සඳහා ද සෞන්දර්යය විෂයයන් සඳහා ළමුන්ට පෙනී සිටිය හැකිය. තව ද, උසස් අධ්‍යාපනයේ සෞන්දර්ය විෂයයන් එලෙස ම පවතී.
+🟩
 
-මේ සම්බන්ධයෙන් සැකයක් ඇති වන ප්‍රකාශ හා විවිධ මාධ්‍ය උපයෝගී කර ගෙන කරනු ලබන සාවද්‍ය ප්‍රකාශ බැහැර කිරීමට අධ්‍යාපන අමාත්‍යාංශය කටයුතු කරනු ලැබේ.
+The Ministry of Education has issued a statement that the conscious subjects are essential as an essential part of normal education according to the proposed educational reforms.
+
+Aesthetic subjects can be further studied in junior, secondary education and senior secondary education and the GCE Ordinary Level and GCE O / L. For Aesthetic subjects can also stand for Aesthetic subjects. Moreover, the source of aesthetic subjects of higher education remain.
+
+The Ministry of Education is acting to exclude the false statements that are suspicious of this.
 
 ◼️
 
 [Data](articles/f48b8f54.json)
+
+[Extended Data](ext_articles/f48b8f54.ext.json)
 
 ---
 

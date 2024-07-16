@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 16:05:15**
+As of **2024-07-16 16:20:08**
 
 ## Newspaper Stats
 
-*Scraped **35,546** Articles*
+*Scraped **35,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,204
-adaderanalk | 4,103
+adaderanalk | 4,105
 tamilmirrorlk | 4,296
 dailymirrorlk | 4,733
 virakesarilk | 5,537
-adaderanasinhalalk | 5,946
+adaderanasinhalalk | 5,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,543 (100.0%) of 35,546 articles have been extended.
+35,546 (100.0%) of 35,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### මනාල යුවළ රැගත් රථය හැප්පෙයි
+
+*2024-07-16 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198877) · `si`
+
+මනාල යුවළක් ගමන්ගත් මෝටර් රථය තවත් මෝටර් රථයක සහ යතුරුපැදියක ගැටීමෙන් කොල්ලුපිටියේ අනතුරක් සිදුවී තිබේ.
+
+ඊයේ (15) අලුයම් කාලයේදී සිදුවූ මෙම අනතුරෙන් මනාල යුවළ ඇතුළු පස්දෙනෙකු තුවාල ලබා ඇත.
+
+මනාල යුවළ පෙරටු කොට ගත් රථ 15ක් පමණ බම්බලපිටියේ සිට කොල්ලුපිටිය දෙසට ධාවනය වී ඇති අතර මංගල රථයේ තිරිංගවල දෝෂයක් හේතුවෙන් අනතුර සිදුවී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/df869be3.json)
+
+---
+
+### Kenyan suspect confesses to murdering 42 women
+
+*2024-07-16 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100557/kenyan-suspect-confesses-to-murdering-42-women) · `en`
+
+Since Friday, nine butchered bodies trussed up in plastic bags have been hauled from the site of an abandoned quarry in the Mukuru slum, a gruesome discovery that has horrified the nation.
+
+Acting Inspector General of Police Douglas Kanja said the 33-year-old suspect, named as Collins Jumaisi Khalusha, was arrested at around 3:00am (0000 GMT) near a Nairobi bar where he had been watching the Euro 2024 football final.
+
+“We are dealing with a serial killer, a psychopathic serial killer who has no respect for human life,” the head of the Directorate of Criminal Investigations (DCI) Mohamed Amin told reporters. “We are dealing with a vampire, a psychopath.”
+
+Amin said Khalusha claimed the murders took place between 2022 and July 11 this year.
+
+...
+
+[Data](articles/b7559655.json)
+
+---
+
+### Prices of multiple food items reduced
+
+*2024-07-16 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100556/prices-of-multiple-food-items-reduced) · `en`
+
+The All-Ceylon Restaurant Owners’ Association says that a decision has been taken to reduce the prices of multiple food items effective from midnight today (16) as a result of the reduction in electricity tariffs.
+
+President of the association Harshana Rukshan stated that accordingly the price of a normal rice parcel will go down by Rs. 25.
+
+Meanwhile, prices of ‘Fried Rice’ and ‘Kottu’ will also be reduced by Rs. 25, while the prices of ‘Parathas’, ‘Egg Rotis’ and short eats will be reduced by Rs. 10.
+
+Accordingly, he requested the restaurant owners to make necessary arrangements to provide this relief to all the customers across the island.
+
+◼️
+
+[Data](articles/5db53393.json)
+
+---
 
 ### Tramped a bag of money from meat
 
@@ -84,37 +136,51 @@ The police dog has traced the scent from the suspected murder weapon to a nearby
 
 ---
 
-### කාන්තා ආසියානු කුසලාන තරගාවලිය නොමිලයේ නැරඹීමට අවස්ථාව
+### Women's Asian Cup Competition
 
 *2024-07-16 15:27:13* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ආසියානු-කුසලාන-තරගාවලිය-නොමිලයේ-නැරඹීමට-අවස්ථාව/9-410808) · `si`
 
-2024 ආසියානු කුසලාන විස්සයි-20 කාන්තා ක්‍රිකට් තරඟාවලිය නොමිලේ නැරඹීම සඳහා ක්‍රීඩා ලෝලීන්හට අවස්ථාව ලබා දීමට අවස්ථාව සලසා දෙන බව ශ්‍රී ලංකා ක්‍රිකට් අයතනය සඳහන් කරයි.
+In 2024, the Twenty20 Women's World Cup will start on July 19th. Players will have the chance to tour Sri Lanka, including visiting the Dambulla International Cricket Stadium.
 
-තරඟාවලිය පැවැත්වෙන දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ ඇතුළු වීම් දොරටු ජනතාව සඳහා විවෘතව තැබෙන බව ක්‍රිකට් ආයතනය පවසයි.
+🟩
 
-2024 ආසියානු කුසලාන විස්සයි-20 කාන්තා ක්‍රිකට් තරඟාවලිය ජූලි මස 19 වනදා ආරම්භ වීමට නියමිතය.
+2024 The Sri Lanka Cricket Officer (SLC) states that the Lolloons of the Twenty20 Women's World Twenty20 Women's Cricket Tournament will be given the opportunity to visit the sports.
+
+Cricket states that the gates of the Dambulla International Cricket Stadium will be held at the Dambulla International Cricket Stadium in the tournament.
+
+2024 Asia Twenty20 Women's Cricket Tournament will commence on July 19.
 
 ◼️
 
 [Data](articles/292f4cef.json)
 
+[Extended Data](ext_articles/292f4cef.ext.json)
+
 ---
 
-### සෞන්දර්යාත්මක හා කලා විෂය ධාරා ඉවත් කිරීමට තීරණයක් නෑ
+### No decision to remove aesthetic and arts
 
 *2024-07-16 15:18:07* · [`adalk`](https://www.ada.lk/breaking_news/සෞන්දර්යාත්මක-හා-කලා-විෂය-ධාරා-ඉවත්-කිරීමට-තීරණයක්-නෑ/11-410807) · `si`
 
-පාසල් අධ්‍යාපනයෙන් සෞන්දර්යාත්මක විෂයන් සහ කලා විෂය ධාරා ඉවත් කිරීමට රජය කිසිදු ප්‍රතිපත්තිමය තීරණයක් ගෙන නොමැති අතර එවැනි තීරණයක් ඉදිරියේදී ගැනීමට බලාපොරොත්තුවක්ද නැතැයි කැබිනට් ප්‍රකාශක ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+The government has no plans to eliminate aesthetic subjects like dance, music, and art from education, affirming their importance despite no decision being made to specifically retain them. The Minister highlighted the value of these subjects, noting their contribution to local and international livelihoods and the need for quality education to prevent social issues seen after WWII.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ අද (16) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී අදහස් දක්වමිනි.
+🟩
 
-කලා විෂය ධාරාවන් අධ්‍යාපනය තුළ පැවතිය යුතු බවට ලෝකයම පිළිගන්නා බව අවධාරණය කළ කැබිනට් ප්‍රකාශකවරයා ඊට වඩා පුළුල් ලෙස අධ්‍යාපනයේ ප්‍රතිසංස්කරණ සාකච්ඡා කරන බව පැවසුවේය.
+The government has not taken any policy decision to remove the aesthetic subjects and arts of art education.
 
-බටහිර රටවල ආගමික විෂයන් ඉගැනුවූයේ නැති වුවද මෙරට කිසිවිටෙක ආගමික විෂය ධාරාවන් පාසල් අධ්‍යාපනයෙන් ඉවත් නොකරන බවද, නැටුම්, සංගීතය, සෞන්දර්ය, චිත්‍ර ආදී සෞන්දර්යාත්මක විෂයන් පාසල් වලින් ඉවත් නොකරන බවද ඒවා දරුවන්ට ප්‍රාථමික හා ද්විතීයික අධ්‍යාපනයේදී අත්‍යවශ්‍ය දේවල් බවද වැඩිදුරටත් පැවසුවේය.
+The Minister was speaking at a media briefing at the Cabinet Decision in the Department of Government Information today (16).
+
+The Cabinet spokesman emphasized that the world should accept the art of streams that the world should remain in education.
+
+Although religious subjects are not eliminated in the West, they will not be removed from schools, aesthetic subjects, such as dance, music, aesthetic and art.
+
+More than 50% of the country will create a large number of lives in the Art and foreign strengths of the artistry of the art spacious educators, which they have not been able to provide the livelihoods locally and internationally.The Minister said that he said.
 
 ...
 
 [Data](articles/451926a0.json)
+
+[Extended Data](ext_articles/451926a0.ext.json)
 
 ---
 
@@ -220,23 +286,29 @@ In addition, the court has ordered the police to take action against the police 
 
 ---
 
-### අතට අසුවූ සැකකරු පලායයි
+### The suspect that caught in hand is the flee
 
 *2024-07-16 15:05:47* · [`adalk`](https://www.ada.lk/breaking_news/අතට-අසුවූ-සැකකරු-පලායයි/11-410806) · `si`
 
-අනුරාධපුර පොලිස් වසමේදී  සිදු කල වැටලීමකදී කේරළ ගංජා ජාවාරමේ  යෙදී සිටි සැකකරුවෙකු පරීක්ෂා කිරීමේදී  පලා ගිය බවත්, ඔහු සන්තකයේ තිබි රුපියල් ලක්ෂ 50ට ආසන්න කේරළ  ගංජා තොගයක් සොයා ගත් බව පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය පවසයි.
+In Anuradhapura, a suspect fleeing from police was apprehended during a raid by the Army Intelligence Division. The operation, part of the Police Narcotics Bureau's efforts, uncovered a stash of Kerala cannabis. The suspect claimed abuse before attempting to purchase three kilograms of the drug. Authorities discovered 460 grams more in Sravasthipura, with investigations ongoing into the suspect's arrest.
 
-යුද හමුදා බුද්ධි අංශය මගින් ලබා දුන් තොරතුරකට අනුව පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ  මන්නාරම උප ඒකකය මගින් අනුරාධපුර ශ්‍රාවස්තිපුර  ප්‍රදේශයේදී ඉකුත් දාහතර දා රාත්‍රී මෙම වැටලීම සිදු කර තිබේ.
+🟩
 
-එම නිලධාරීන් උපාය ධූතයෙකු යොදවා කේරළ  ගංජා කිලෝ තුනක් මිලට ගැනීමට යාමේදී සැකකරු, ගංජා තොගය දමා එම නිලධාරියාගෙන් මිදී පලා ගිය බව මත්ද්‍රව්‍ය නාශක කාර්යංශය  සඳහන් කළේය.
+The Bureau of the Narchismen has found a stock of Kerala cannabis at a suspect in the Anuradhapura Police Division.
 
-ඉන් අනතුරුව පලා ගිය සැකකරුගේ අනුරාධපුර  ශ්‍රාවස්තිපුර  , ශ්‍රාවස්ති වත්ත ප්‍රදේශයේ පිහිටි නිවස පරීක්ෂා කිරීමේදී සූක්ෂම ලෙස සඟවා තිබියදී තවත් කේරළ  ගංජා කිලෝ 5 යි ග්‍රෑම් 460ක ප්‍රමාණයක් සොයා ගත් බවද පොලිසිය තව දුරටත් සඳහන් කළේය.
+The raid was carried out by the Army Intelligence Division by the Mannar District of the Police Narcotics Bureau in the Mannar area in Anuradhapura.
 
-පලා ගිය සැකකරු අත්අඩංගුවට ගැනීම සඳහා නිලධාරීහු කණ්ඩායමක් වැඩි දුර විමර්ශන සිදු කරති.
+The suspect buniscounts stated that the suspect was abused by the suspect and fled the officer, while attempting to buy three kilograms of Kerala cannabis.
+
+The police further stated that the suspects were meticted and 460 grams of Kerala cannabis were found in the area of ​​Sravasthipura, Anuradhapura.
+
+A team of officials are investigating the arrest of the suspect.
 
 ◼️
 
 [Data](articles/3152ecf2.json)
+
+[Extended Data](ext_articles/3152ecf2.ext.json)
 
 ---
 
@@ -2393,71 +2465,5 @@ The ruling was made by a bench comprising Chief Justice Jayantha Jayasuriya, Jus
 [Data](articles/49f273ec.json)
 
 [Extended Data](ext_articles/49f273ec.ext.json)
-
----
-
-### Entries open for JCI Speaker of the Year 2024 competition
-
-*2024-07-16 01:07:24* · [`dailyftlk`](https://www.ft.lk/news/Entries-open-for-JCI-Speaker-of-the-Year-2024-competition/56-764313) · `en`
-
-JCI Colombo Midtown has announced the National Speaker Competition, aimed at selecting the JCI Speaker of the Year 2024.
-
-This competition is open to young individuals aged between 18 and 30 and will be conducted in accordance with the guidelines provided by the Junior Chamber International.
-
-The event, under the guidance of Dr. Dayanath Jayasuriya PC, Prasanthalal de Alwis PC, Mohammed Adamali PC, JCI Senate Chairman Malik Cader and Toastmasters Club of Colombo former President Rauff Rifai aims to provide a platform for young speakers to enhance their public speaking skills.
-
-Participants will have the opportunity to showcase their speaking abilities and compete for a chance to win a prize of one hundred thousand rupees. Additionally, consolation prizes will be awarded to other participants. The Winner of this national competition will also have the opportunity to be nominated to represent Sri Lanka at the international JCI World competition to be held in Mongolia next June.
-
-...
-
-[Data](articles/b7e12bcd.json)
-
-[Extended Data](ext_articles/b7e12bcd.ext.json)
-
----
-
-### COPE exposes irregularities in UDA land leases, major financial losses
-
-*2024-07-16 01:06:02* · [`dailyftlk`](https://www.ft.lk/news/COPE-exposes-irregularities-in-UDA-land-leases-major-financial-losses/56-764312) · `en`
-
-Reveals land on James Peiris Mawatha leased for Rs. 12 b for 99-years in 2019 without Board of Directors approval; unapproved conditions were included in lease agreement
-
-Rs. 330 m due to leasing land in Fort D.R. Wijewardena Mawatha without formal Board approval; demands detailed reports on these incidents within two weeks
-
-Auditor General’s Department points to various issues with UDA’s accounting system, particularly in valuing project land
-
-Instructs to transfer ownership of Parliament complex held by UDA to Parliament
-
-Orders a comprehensive report on all investment lands owned by UDA to be submitted within two weeks
-
-Discloses 22 housing projects built under Urban Revitalisation Program using
-
-Rs. 48 b Govt. funds with only one completed project obtains condominium management certificate
-
-The Committee on Public Enterprises (CoPE) has unveiled significant irregularities in the leasing and management of lands by the Urban Development Authority (UDA) causing major financial losses.
-
-...
-
-[Data](articles/d0a46a73.json)
-
-[Extended Data](ext_articles/d0a46a73.ext.json)
-
----
-
-### Pathfinder Foundation and Ananta Aspen Centre to examine prospects for India-Sri Lanka physical connectivity
-
-*2024-07-16 01:04:55* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-and-Ananta-Aspen-Centre-to-examine-prospects-for-India-Sri-Lanka-physical-connectivity/56-764311) · `en`
-
-In collaboration with Ananta Aspen Centre of India, the Pathfinder Foundation will hold a virtual roundtable titled “Bridging Borders: Enhancing connectivity between India and Sri Lanka” on 19 July.
-
-The Pathfinder Foundation has established a dedicated Study Group to craft a comprehensive blueprint to enhance physical connectivity between India and Sri Lanka.  This initiative envisions transforming Sri Lanka into a logistic and energy hub for the region, aiming to boost the country’s annual growth rate beyond 6% in the foreseeable future.
-
-The roundtable will focus on digital connectivity and physical and maritime connectivity. Trilegal Rahul Matthan and Carnegie India Director Dr. Rudra Chaudhuri have been invited to present papers on digital connectivity. LIRNEasia Chairperson Prof. Rohan Samarajiva and Information and Communication Technology of ICTA CEO Mahesh Perera will participate as discussants.
-
-...
-
-[Data](articles/14822e64.json)
-
-[Extended Data](ext_articles/14822e64.ext.json)
 
 ---

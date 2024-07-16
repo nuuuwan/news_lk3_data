@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 15:35:27**
+As of **2024-07-16 15:53:42**
 
 ## Newspaper Stats
 
-*Scraped **35,541** Articles*
+*Scraped **35,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,91 +16,163 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,201
-adaderanalk | 4,102
+adaderanalk | 4,103
 tamilmirrorlk | 4,296
 dailymirrorlk | 4,733
 virakesarilk | 5,537
-adaderanasinhalalk | 5,945
+adaderanasinhalalk | 5,946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,537 (100.0%) of 35,541 articles have been extended.
+35,541 (100.0%) of 35,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### අවශ්‍ය නම් කංජිපානි ව ගෙනත් දෙන්නම් - දුමින්ද ජයතිලක
+### ට්‍රම්ප්ට මස්ක්ගෙන් සල්ලි මල්ලක්
+
+*2024-07-16 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198876) · `si`
+
+එළඹෙන නොවැම්බරයේ පැවැත්වෙන අමෙරිකානු ජනාධිපතිවරණයට ඉදිරිපත් වීමට නියමිත හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගේ මැතිවරණ ප්‍රචාරක ව්‍යාපාරය සඳහා අරමුදල් රැස්කිරීම සාර්ථක අන්දමින් සිදුවන බව වාර්තා වෙයි.
+
+ඩොනල්ඩ් ට්‍රම්ප්ගේ මැතිවරණ ප්‍රචාරණ ව්‍යාපාරය සඳහා උදව් වන මාගා ඉන්කෝපරේෂන් (MAGA Inc.) හි ප්‍රධානියා වන ටේලර් බුඩෝවිව්  සිය X ගිණුමේ සටහනක් තබමින් සඳහන් කළේ ඊයේ දිනයේදී පමණක් ඩොලර් මිලියන 50ක් උපයාගත හැකි වූ බවයි.
+
+පසුගිය සෙනසුරාදා ට්‍රම්ප්ට එල්ල වූ වෙඩි ප්‍රහාරයෙන් පසු ඔහුට සහාය පළකිරීමට ලොව ධනවත්ම පුද්ගලයා වන ටෙස්ලා සහ ස්පේස් එක්ස් නිර්මාතෘ ඊලෝන් මස්ක් ද එක්වුණි.
+
+එමෙන්ම ට්‍රම්ප්ගේ මැතිවරණ ප්‍රචාරණ ව්‍යාපාරය සඳහා මාසිකව ඩොලර් මිලියන 45 බැගින් ප්‍රදානය කිරීමට ද ඊලෝන් මස්ක් බලාපොරොත්තු වන්නේ යැයි අමෙරිකානු වෝල් ස්ට්‍රීට් ජර්නල් පුවත්පත වාර්තාකර ඇති බව සඳහන් ය.
+
+පෙන්සිල්වේනියාවේ පැවති මැතිවරණ ප්‍රචාරක රැලියක් අතර වෙඩි ප්‍රහාරයකට මුහුණදුන් ඩොනල්ඩ් ට්‍රම්ප් සිය ඉදිරි මැතිවරණ ප්‍රචාරක කටයුතුවලද වෙනසක් ඇතිකර තිබේ.
+
+...
+
+[Data](articles/04ca0f22.json)
+
+---
+
+### Married couple among 3 arrested over murder in Pothupitiya
+
+*2024-07-16 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100555/married-couple-among-3-arrested-over-murder-in-pothupitiya) · `en`
+
+A 43-year-old man who had allegedly made an inappropriate comment to a woman has reportedly been beaten to death by the woman in question, her husband and another individual.
+
+Police stated that the three suspects, including the married couple, were arrested in connection with the incident.
+
+The person was brutally beaten to death on July 11 in the Pinnagodella area of Pothupitiya.
+
+The deceased is a resident of the same area while it was reported that his head had been severely damaged in the assault to the point it was nearly split open.
+
+A wooden club found near the body had raised suspicions, leading to a further investigation conducted using a police sniffer dog.
+
+The police dog has traced the scent from the suspected murder weapon to a nearby line house and had approached a man who had been sleeping in one of the beds inside the house.
+
+...
+
+[Data](articles/d086b39f.json)
+
+---
+
+### Duminda Jayatilleka will be brought to Kavikani
 
 *2024-07-16 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198875) · `si`
 
-තමන්ට බලය පවරන්නේ නම් කංජිපානි ඉම්රාන් ලංකාවට රැගෙන ඒමේ හැකියාව තමන්ට තිබෙන බව මේ වනවිට ප්‍රංශයේ රැඳීසිටින හිටපු පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා පවසයි.
+Duminda Jayatilleka, a former Inspector from Sri Lanka living in France, claims his ability to extradite Kavikani Imran back to Sri Lanka despite allegations linking him to underworld activities. He denies any connection to criminals, highlighting personal hardships due to his absence. Despite these challenges, he asserts his willingness to assist in law enforcement efforts, emphasizing his ongoing membership in the International Police.
 
-කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ අංශයේ ස්ථානාධිපති, පොලිස් පරීක්ෂක ලෙස කටයුතු කළ දුමින්ද ජයතිලක මහතා මරණ තර්ජන ඇති බව පවසමින් පසුගියදා විදේශගතවී තිබුණි.
+🟩
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් සහ සංවිධානාත්මක අපරාධකරුවෙකු වන කංජිපානි ඉම්රාන්ගේ උපන් දින සාදයට දුමින්ද ජයතිලක ද එක්වී තිබූ බවට සමාජ මාධ්‍ය ඔස්සේ පැතිරගිය ප්‍රචාරයන්ට පිළිතුරු දෙමින් ඔහු මේ බව සඳහන් කළේය.
+Former Inspector Dumindak Jayathilaka, who has stayed in France, says he has the ability to bring to Sri Lanka to Sri Lanka.
 
-"පාතාලයේ මිනිස්සු සමග මගේ සම්බන්ධයක් නැහැ. ඒක මට අවශ්‍ය දෙයකුත් නෙමෙයි. රැකියාව කරන්න ගිහින් හැමදේම නැති කරගෙන විදේශ රටකට ඇවිත් ජීවත් වෙන මනුස්සයෙක් මම. මගේ ළමයා මාස 05ක් ඉස්කෝලේ යන්නේ නැහැ. බිරිඳට ඉන්න තැනක් නැහැ. ගෙවල් 12කට ගියා. ඒ අයගේ ආරක්ෂාව සම්බන්ධයෙන් ලොකු ප්‍රශ්නයක් තියෙනවා. ඒවා කවුරුත් කතා කරන්නේ නැහැ."
+Duminda Jayatilleke, who was the OIC of the Organization Division of the Colombo Crimes Division, was abroad.
+
+He was responding to the wide range of propaganda that Duminda Jayatilleka was joined in the birthday party of a drug dealer and organized criminal.
+
+"There is none of my relationship with people in the underworld. It's not something I need. I am a man who lives abroad and come to a foreign country and come to a foreign country. My child is not going to school for 5 months. There is no place to be the wife. Went to 12 houses. There is a big problem with their safety. They're nobody talking. "
+
+"An employer who worked for underworld repression and drug dealer in Sri Lanka. I am still a member of the International Police. I can bring to Sri Lanka if Kjepani Imran is in France. That's the authorization I need. "
 
 ...
 
 [Data](articles/5695b01d.json)
 
+[Extended Data](ext_articles/5695b01d.ext.json)
+
 ---
 
-### ஜனாதிபதியை சந்தித்தார் யுனெஸ்கோ  பணிப்பாளர்
+### The Director of UNESCO met the president
 
 *2024-07-16 15:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-யுனெஸ்கோ-பணிப்பாளர்/175-340497) · `ta`
 
-யுனெஸ்கோவில் இலங்கை உறுப்புரிமை பெற்று 75வது ஆண்டு நிறைவடைவதை  முன்னிட்டு இலங்கைக்கு விஜயம் செய்துள்ள யுனெஸ்கோ நிறுவன பணிப்பாளர் நாயகம் ஒட்ரே அசோலே (Ms.Audrey Azoulay) சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை கொழும்பு கோட்டையிலுள்ள ஜனாதிபதி மாளிகையில் சந்தித்தார்.
+UNESCO Director General Audrey Azoulay recently met with Sri Lanka's President Ranil Wickremesinghe at his residence in Colombo Fort.
+
+🟩
+
+UNESCO Director General of UNESCO, MSAudrey Azoulay, met with President Ranil Wickremesinghe at the President's House in Colombo Fort a little while ago.
 
 ◼️
 
 [Data](articles/c1ed260a.json)
 
+[Extended Data](ext_articles/c1ed260a.ext.json)
+
 ---
 
-### මාදම්පේ සිලිකා වැලි කැණීම ට එරෙහිව අධිකරණයට පෙත්සමක්
+### Petition to court against Madampe Sileika sand mining
 
 *2024-07-16 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198874) · `si`
 
-මාදම්පේ ප්‍රදේශයේ නීතිවිරෝධී ලෙස සිදුකරන සිලිකා වැලි කැණීම් කටයුතු හේතුවෙන් සිදුවන පාරිසරික විනාශය වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකළ පෙත්සමක් සලකා බැලීම සඳහා නොවැම්බර් මස 11 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+A petition filed by environmental groups, including the Environmentality Center, seeks to halt illegal sand mining in Madampe, citing significant environmental harm. The Supreme Court, led by judges Turairaja, Kumuduni Wickremasinghe, and Janaka de Silva, will convene on November 11 to review the case. The petition accuses the Geological and Mines Bureau of allowing the excavation of over 200 acres across nine divisions, resulting in numerous pits filled with waste. Petitioners urge the court to prevent further environmental damage.
 
-පරිසර යුක්ති කේන්ද්‍රය ඇතුළු පිරිසක් විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+🟩
 
-එම පෙත්සම අද (16)  එස්. තුරෙයිරාජා, කුමුදුනී වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලීම සඳහා කැඳවනු ලැබීය.
+The Supreme Court was appointed to call on November 11 to consider a petition filed by the environmental destruction due to the illegal destruction of the environment due to illegal destruction in Madampe.
 
-එහිදී අදාළ පෙත්සම කරුණු තහවුරු කිරීම සඳහා නොවැම්බර් මස 11 වනදා කැඳවන ලෙසත් අධිකරණය නියෝග කළේය.
+The petition was presented by a group of people including the environmentality center.
 
-එදින තෙක් අදාළ ප්‍රදේශයේ දැනට පවතින තත්ත්වයේ වෙනස් කිරීම් සිදු නොකරන ලෙසත් අධිකරණය විසින් එහි වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින භූ විද්‍යා හා පතල් කැණීම් කාර්යාංශය ඇතුළු පාර්ශ්ව කීපයකට නියෝග කළේය.
+The petition today (16). The three-member judge was summoned to consider the three-member Judge Bench comprised of Turairaja and Kumuduni Wickremasinghe and Janaka de Silva.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ මාදම්පේ ප්‍රදේශයේ ග්‍රාම සේවා වසම් නවයක අක්කර 200ක පමණ සිලිකා වැලි කැණීම් කටයුතු සිදුවන බවයි.
+The court ordered to be summoned to the 11 November to ensure the relevant petition.
+
+The Court ordered several parties including the Geological and Mines Bureau of Geological and Mines Bureau.
+
+Petitioners say that the excavation of about 200 acres of nine Grama Niladhari Divisions in Madampe area has taken place.
+
+As a result, the petitioners said that there were about forty pits and waste to fill them with the use of them.
 
 ...
 
 [Data](articles/9f01614c.json)
 
+[Extended Data](ext_articles/9f01614c.ext.json)
+
 ---
 
-### வைத்தியர் அருச்சுனாவுக்கு பிணை: முகநூல் நேரலைக்கும் தடை
+### Bail for doctor Aruchuna: Facebook
 
 *2024-07-16 15:06:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அருச்சுனாவுக்கு-பிணை-முகநூல்-நேரலைக்கும்-தடை/71-340496) · `ta`
 
-சாவகச்சேரி வைத்தியசாலையின் முன்னாள் வைத்திய அத்தியட்சகர் இராமநாதன் அருச்சுனாவை,  சாவகச்சேரி நீதவான் நீதிமன்று 75 ஆயிரம் ரூபாய் சரீரப் பிணை மற்றும் நிபந்தனைகளுடனான பிணையில் விடுத்துள்ளது.
+Doctor Aruchuna, former Medical Superintendent of Chavakachcheri Hospital, granted bail of 75,000 rupees after five cases filed against him. Conditions include no hospital visits or public comments on the case. He must also provide evidence against other accused doctors to the Chavakachcheri Police Station.
 
-சாவகச்சேரி  வைத்தியசாலையின் முன்னாள் வைத்திய அத்தியட்சகர் வைத்தியர் இராமநாதன் அருச்சுனாவிற்கு எதிராக சாவகச்சேரி நீதவான் நீதிமன்றில் 05 வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளன.
+🟩
 
-அவற்றின் மீதான விசாரணைகள் செவ்வாய்க்கிழமை (16) மன்றில் நடைபெற்றது. பிரதிவாதியான வைத்தியர் மன்றில் முன்னிலையாகி இருந்தார்
+The Chavakachcheri Magistrate's Justice has issued a bail and conditional bail of 75 thousand rupees in the Chavakachcheri Hospital.
 
-வழக்கு விசாரணைகளை அடுத்து, வைத்தியரை 75ஆயிரம் ரூபாய் சரீரப் பிணையில் விடுவித்த நீதிமன்றம் , வைத்தியசாலைக்கு செல்லவோ , நீதிமன்ற வழக்கு விசாரணைகள் தொடர்பில் முகநூல் நேரலையிலையோ ,பதிவுகள் ஊடாக கருத்து தெரிவிக்கவோ கூடாது உள்ளிட்ட நிபந்தனைகளையும் நீதிமன்றம் விதித்துள்ளது.
+Five cases have been filed in the Chavakachcheri Magistrate's Court against the former Medical Superintendent of the Chavakachcheri Hospital Ramanathan Aruchuna.
 
-அதேவேளை, குற்றம் சாட்டிய மற்றைய வைத்தியர்கள் தொடர்பில் ஆதாரங்களுடன் சாவகச்சேரி பொலிஸ் நிலையத்திற்கு சென்று வாக்குமூலங்களை வழங்குமாறும் வைத்தியர் அருச்சுனாவுக்கு நீதிமன்றம் கட்டளையிட்டது.
+Investigations on them were held on Tuesday (16). The defendant was present at the House
 
-...
+Following the hearing of the case, the court has issued conditions, including the release of the doctor on a physical bail of Rs 75,000, and the court should not go to the hospital or not to comment on the court case.
+
+At the same time, the court ordered the doctor Aruchuna to go to the Chavakachcheri Police Station with evidence of other accused doctors.
+
+In addition, the court has ordered the police to take action against the police station and fail to submit the evidence.
+
+◼️
 
 [Data](articles/84283d16.json)
+
+[Extended Data](ext_articles/84283d16.ext.json)
 
 ---
 
@@ -2397,53 +2469,5 @@ Moreover, some people in our country continue to split into the ruling and oppos
 [Data](articles/e7e7b847.json)
 
 [Extended Data](ext_articles/e7e7b847.ext.json)
-
----
-
-### Exports of Agricultural Exports in 6 months
-
-*2024-07-16 00:29:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாதங்களில்-விவசாய-ஏற்றுமதித்-துறை-வளர்ச்சி/175-340467) · `ta`
-
-In the first half of 2024, Sri Lanka's agricultural exports saw significant growth, reversing the decline experienced in 2023 despite unfavorable weather conditions. Key commodities like tea and coconuts showed notable increases: tea exports rose from $407.6 million in April 2023 to $450.5 million in April 2024, while coconut exports jumped from $212 million to $263 million over the same period.
-
-🟩
-
-The Ministry of Agriculture and Plantation Industries, PLAJ, said that in the first six months of 2024, there was a clear growth in the agricultural export sector compared to the last two years.. Dharmakirti said.
-
-Secretary of the Ministry of Agriculture and Plantation PLAJ was present at a press conference held at the Presidential Media Center yesterday under the theme of two years of progress and future.. Dharmakirti said this. He further stated that
-
-Compared to 2022, agricultural export income declined in 2023. Due to the rapid measures taken, it was able to create clear growth in the agricultural export sector in the first six months of 2024.
-
-It should be noted at this time that the climate that prevailed at this time is not favorable to agriculture. It must be said that the progress that has faced such challenges is really success.
-
-For example, in April 2023, the US $ 407.6 million exported by tea increased by 450.5 million in April 2024.
-
-...
-
-[Data](articles/a068614d.json)
-
-[Extended Data](ext_articles/a068614d.ext.json)
-
----
-
-### Increase the weather with the wind
-
-*2024-07-16 00:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றுடன்-கூடிய-வானிலை-அதிகரிக்கும்/175-340466) · `ta`
-
-The Department of Meteorology forecasts rain or thunderstorms in parts of the country, especially in the Sabaragamuwa Provinces, Nuwara Eliya, and Kandy districts. Additionally, the south-westerly wind is expected to intensify, affecting the weather nationwide.
-
-🟩
-
-The Department of Meteorology has forecast rain or thunderstorms at night in some parts of the country.
-
-According to the Department of Meteorology, the Department of Meteorology has forecast rainfall in the Sabaragamuwa Provinces, Nuwara Eliya and Kandy districts.
-
-At the same time, the Department of Meteorology has stated that the prevailing wind weather in the country is likely to increase due to the south -wing mission.(a)
-
-◼️
-
-[Data](articles/d4b2cd87.json)
-
-[Extended Data](ext_articles/d4b2cd87.ext.json)
 
 ---

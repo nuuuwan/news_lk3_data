@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 21:05:14**
+As of **2024-07-16 21:20:06**
 
 ## Newspaper Stats
 
-*Scraped **35,582** Articles*
+*Scraped **35,585** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 316
-colombotelegraphcom | 334
+colombotelegraphcom | 336
 bbccomsinhala | 346
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,211
+adalk | 3,212
 adaderanalk | 4,109
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,582 (100.0%) of 35,582 articles have been extended.
+35,582 (100.0%) of 35,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -255,6 +255,22 @@ He said the strongest net could be made to capture tax evictions and steps have 
 [Data](articles/fb03637f.json)
 
 [Extended Data](ext_articles/fb03637f.ext.json)
+
+---
+
+### ’’වෙස්සගිරිය’’ ඉසුරුමුණියේම කොටසක්
+
+*2024-07-16 17:23:50* · [`adalk`](https://www.ada.lk/breaking_news/’’වෙස්සගිරිය’’-ඉසුරුමුණියේම-කොටසක්/11-410815) · `si`
+
+අනුරාධපුර පූජා නගරයේ පිහිටි  "වෙස්සගිරිය" වර්තමාන ඉසුරුමුණියේම කොටසක් බවට සාක්ෂි ලැබී ඇතැයි පුරාවිද්‍යා  අධ්‍යක්ෂ ජනරාල් මහාචාර්ය ඩී. තුසිත මෙන්ඩිස් මහතා පැවසීය.
+
+පුරාවිද්‍යා අධ්‍යක්ෂ ජනරාල්වරයා මේ බව පැවසූයේ සංස්කෘතික කටයුතු රාජ්‍ය අමාත්‍ය විදුර වික්‍රමනායක මහතාගේ ප්‍රධානත්වයෙන් ඉකුත් දාහතර දා  වෙස්සගිරිය  "උරුම උද්‍යානයක්" ලෙස එහි සංරක්ෂණ කටයුතු ආරම්භ කිරීම සහ නිරීක්ෂණ චාරිකාවකට සහභාගී වූ අවස්ථාවේදීය.
+
+වෙස්සගිරිය පුදබිමේ  ඉදිරි, සංරක්ෂණ සිදු කරන අතර තොරතුරු මධ්‍යස්ථානයක් මෙන්ම සංචාරක කර්මාන්තයට ඉවහල් වන පරිදි අලංකාර ලෙස මෙම ස්ථානය සකස් කිරීමටද නියමිතය.
+
+...
+
+[Data](articles/4ab30330.json)
 
 ---
 
@@ -840,6 +856,20 @@ Cricket states that the gates of the Dambulla International Cricket Stadium will
 
 ---
 
+### Pedagogy Of The Oppressors
+
+*2024-07-16 15:23:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/pedagogy-of-the-oppressors/) · `en`
+
+The pedagogy of the oppressor is a concept that has been brought to our attention by educational philosopher Paolo Freire. This philosophy highlights the idea that there is a layer of control in society that oppresses the poor and dictates the main concerns of society. It’s important to recognize this concept and its impact on the oppressed, as well as to explore potential remedies.
+
+In many countries, the ruling class is made up of well-educated individuals who use their knowledge to maintain power and control. This often results in policies that benefit the minority at the expense of the majority, creating a capitalist system that perpetuates inequality.
+
+...
+
+[Data](articles/91a9c829.json)
+
+---
+
 ### No decision to remove aesthetic and arts
 
 *2024-07-16 15:18:07* · [`adalk`](https://www.ada.lk/breaking_news/සෞන්දර්යාත්මක-හා-කලා-විෂය-ධාරා-ඉවත්-කිරීමට-තීරණයක්-නෑ/11-410807) · `si`
@@ -937,6 +967,18 @@ As a result, the petitioners said that there were about forty pits and waste to 
 [Data](articles/9f01614c.json)
 
 [Extended Data](ext_articles/9f01614c.ext.json)
+
+---
+
+### Trump 2.0 And/Or Trump -2.0
+
+*2024-07-16 15:07:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/trump-2-0-and-or-trump-2-0/) · `en`
+
+Former President Donald Trump is once again at the center of American political discourse, with discussions of his potential second term, labeled as “Trump 2.0,” sparking both intrigue and concern. An outline of an imperial presidency has emerged, poised to reshape America’s domestic and international roles. Simultaneously, the implications of a Trump loss in the upcoming election, referred to as “Trump -2.0,” raise questions about his acceptance of the results and the potential for political violence.
+
+...
+
+[Data](articles/a771c73f.json)
 
 ---
 
@@ -2363,87 +2405,5 @@ Naval and fishing communities are also requested to be attentive to future forec
 [Data](articles/d6158dbc.json)
 
 [Extended Data](ext_articles/d6158dbc.ext.json)
-
----
-
-### Discussions to restore England over
-
-*2024-07-16 09:47:27* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තය-අරන්-ගිය-පුරා-වස්තු-යළි-බා-ගැනීමට-සාකච්ඡා/11-410801) · `si`
-
-Viddha Wickremanayake, Minister of Buddha Sasana, highlighted efforts to reclaim cultural artifacts from the UK and emphasized the importance of aligning the education system with Sri Lanka's culture and values. He addressed concerns about economic issues and the need for moral education, stating that his ministry aims to foster patriotism and prevent societal decline. Additionally, he announced the appointment of over 1,000 individuals to local government positions, dismissing claims that this move is politically motivated. The minister also discussed the recovery of numerous cultural objects, including religious icons, from both the UK and the Netherlands, aiming to preserve and promote Sri Lanka's heritage.
-
-🟩
-
-Minister of Buddha Sasana, Religious and Cultural Affairs Viddha Wickremanayake said that the UK had taken steps to recover a number of objects throughout the country.
-
-The Minister pointed out that the education system that suits the country and culture should be created in our country and the proud people who love the country should be created.
-
-Minister of Buddha Sasana, Religious and Cultural Affairs Viddhama Wickramanayaka made this statement participating at a press conference held at the Presidential Media Center by one way.
-
-The majority community has expressed the idea that there is an economic problem today. However, our ministry is the responsibility of creating the people of Sri Lanka as good people. It must be said that our ministry is officially persisting to act in a good community.
-
-...
-
-[Data](articles/ea02c02a.json)
-
-[Extended Data](ext_articles/ea02c02a.ext.json)
-
----
-
-### Special permission to visit prisoners
-
-*2024-07-16 09:43:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைக்கைதிகளை-பார்வையிட-விசேட-அனுமதி/175-340473) · `ta`
-
-On the 119th Prison Day, the Department of Prisons allowed visits and improved conditions for prisoners, including better food and sanitation, from 9 am to 4 pm. However, due to a prisoner's death from brain fever, the Galle Prison's activities were restricted for a week, with three other inmates hospitalized for similar symptoms.
-
-🟩
-
-The Department of Prisons has decided to provide a special opportunity to visit the prisoners on the 119th Prison Day today.
-
-Accordingly, a prison media spokesman said that a prisoner brought by relatives of the prisoners today (16) has been given the opportunity to provide adequate food and sanitation.
-
-He said that the special program will be implemented from 9 am to 4 pm today.
-
-He added that the special program will be implemented from 9 am to 4 pm today.
-
-Meanwhile, the Department of Prison has decided to restrict the activities of the Galle Prison from today.
-
-The move is said to have been taken after a prisoner died of brain fever.
-
-A prisoner in Galle Prison died on the 13th and an autopsy revealed that he had died of brain fever.
-
-In addition, three inmates suspected of having brain fever have been taken to the hospital for treatment.
-
-...
-
-[Data](articles/a3608ed9.json)
-
-[Extended Data](ext_articles/a3608ed9.ext.json)
-
----
-
-### Iran's oil debt is given tea
-
-*2024-07-16 09:41:59* · [`adalk`](https://www.ada.lk/breaking_news/ඉරානයේ-තෙල්-ණය-පියවන්නේ-තේ-දෙයි/11-410800) · `si`
-
-Sri Lanka has started repaying its $250.9 million oil loan to Iran with $55 million already paid. In the first four months of 2024, it exported 4.1 million kilograms of tea to Iran as part of the repayment plan.
-
-🟩
-
-The Chairman of the Sri Lanka Tea Board Nr. Nr. Nr. Nr. Nr. Nr. Nr. Nr. Nr. Nr. Nr. Nr. Nr. Nr. (SLC) has already exported to Iran.
-
-He was speaking at a press conference held at the President's Media Center.
-
-"According to the Understanding agreement between Iran and Sri Lanka, Sri Lanka began to settle the export of petroleum loan to Iran on August 5.
-
-Sri Lanka is expected to cover up the oil to Sri Lanka to iran through Sri Lanka's US $ 250.9 million. The loan has already been paid by US $ 55 million.
-
-In the first four months of 2024, the tea kilogram of 4.1 million kilograms of tea was exported to Iran.
-
-◼️
-
-[Data](articles/57a25d8c.json)
-
-[Extended Data](ext_articles/57a25d8c.ext.json)
 
 ---

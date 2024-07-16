@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 15:53:42**
+As of **2024-07-16 16:05:15**
 
 ## Newspaper Stats
 
-*Scraped **35,543** Articles*
+*Scraped **35,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,201
+adalk | 3,204
 adaderanalk | 4,103
 tamilmirrorlk | 4,296
 dailymirrorlk | 4,733
@@ -26,29 +26,37 @@ adaderanasinhalalk | 5,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,541 (100.0%) of 35,543 articles have been extended.
+35,543 (100.0%) of 35,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### ට්‍රම්ප්ට මස්ක්ගෙන් සල්ලි මල්ලක්
+### Tramped a bag of money from meat
 
 *2024-07-16 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198876) · `si`
 
-එළඹෙන නොවැම්බරයේ පැවැත්වෙන අමෙරිකානු ජනාධිපතිවරණයට ඉදිරිපත් වීමට නියමිත හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගේ මැතිවරණ ප්‍රචාරක ව්‍යාපාරය සඳහා අරමුදල් රැස්කිරීම සාර්ථක අන්දමින් සිදුවන බව වාර්තා වෙයි.
+Taylor Bondawww, head of Magaz Inc., announced earning $50 million for Donald Trump's election campaign, joining forces with Elon Musk post transfer. Critics anticipate Trump will use his upcoming party convention speech to critique President Biden, amid reports of significant funding support for his campaign.
 
-ඩොනල්ඩ් ට්‍රම්ප්ගේ මැතිවරණ ප්‍රචාරණ ව්‍යාපාරය සඳහා උදව් වන මාගා ඉන්කෝපරේෂන් (MAGA Inc.) හි ප්‍රධානියා වන ටේලර් බුඩෝවිව්  සිය X ගිණුමේ සටහනක් තබමින් සඳහන් කළේ ඊයේ දිනයේදී පමණක් ඩොලර් මිලියන 50ක් උපයාගත හැකි වූ බවයි.
+🟩
 
-පසුගිය සෙනසුරාදා ට්‍රම්ප්ට එල්ල වූ වෙඩි ප්‍රහාරයෙන් පසු ඔහුට සහාය පළකිරීමට ලොව ධනවත්ම පුද්ගලයා වන ටෙස්ලා සහ ස්පේස් එක්ස් නිර්මාතෘ ඊලෝන් මස්ක් ද එක්වුණි.
+The fundraising of former president's presidential election in the coming Northern Presidential election, the fundraising of the election propaganda campaign is being successfully done.
 
-එමෙන්ම ට්‍රම්ප්ගේ මැතිවරණ ප්‍රචාරණ ව්‍යාපාරය සඳහා මාසිකව ඩොලර් මිලියන 45 බැගින් ප්‍රදානය කිරීමට ද ඊලෝන් මස්ක් බලාපොරොත්තු වන්නේ යැයි අමෙරිකානු වෝල් ස්ට්‍රීට් ජර්නල් පුවත්පත වාර්තාකර ඇති බව සඳහන් ය.
+Taylor Bondawww, the head of Magaz Inc. The head of Magaz Inc., which helps Donald Trump's election campaign (MAGA INC.), said he could earn $ 50 million yesterday.
 
-පෙන්සිල්වේනියාවේ පැවති මැතිවරණ ප්‍රචාරක රැලියක් අතර වෙඩි ප්‍රහාරයකට මුහුණදුන් ඩොනල්ඩ් ට්‍රම්ප් සිය ඉදිරි මැතිවරණ ප්‍රචාරක කටයුතුවලද වෙනසක් ඇතිකර තිබේ.
+After transferring shot on Saturday, Tesla and Space Concern, the world's richest person, joined the Elon Muscle.
 
-...
+The US Wall Street Journal has also reported to award $ 45 million for Trump's election campaign.
+
+Donald Trump faced a change in its next election propaganda.
+
+Therefore, critics say that Donald Trump will be in the case of the United States to criticize their rival President Biden when addressing the party convention on Thursday.
+
+◼️
 
 [Data](articles/04ca0f22.json)
+
+[Extended Data](ext_articles/04ca0f22.ext.json)
 
 ---
 
@@ -71,6 +79,42 @@ The police dog has traced the scent from the suspected murder weapon to a nearby
 ...
 
 [Data](articles/d086b39f.json)
+
+[Extended Data](ext_articles/d086b39f.ext.json)
+
+---
+
+### කාන්තා ආසියානු කුසලාන තරගාවලිය නොමිලයේ නැරඹීමට අවස්ථාව
+
+*2024-07-16 15:27:13* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ආසියානු-කුසලාන-තරගාවලිය-නොමිලයේ-නැරඹීමට-අවස්ථාව/9-410808) · `si`
+
+2024 ආසියානු කුසලාන විස්සයි-20 කාන්තා ක්‍රිකට් තරඟාවලිය නොමිලේ නැරඹීම සඳහා ක්‍රීඩා ලෝලීන්හට අවස්ථාව ලබා දීමට අවස්ථාව සලසා දෙන බව ශ්‍රී ලංකා ක්‍රිකට් අයතනය සඳහන් කරයි.
+
+තරඟාවලිය පැවැත්වෙන දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ ඇතුළු වීම් දොරටු ජනතාව සඳහා විවෘතව තැබෙන බව ක්‍රිකට් ආයතනය පවසයි.
+
+2024 ආසියානු කුසලාන විස්සයි-20 කාන්තා ක්‍රිකට් තරඟාවලිය ජූලි මස 19 වනදා ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/292f4cef.json)
+
+---
+
+### සෞන්දර්යාත්මක හා කලා විෂය ධාරා ඉවත් කිරීමට තීරණයක් නෑ
+
+*2024-07-16 15:18:07* · [`adalk`](https://www.ada.lk/breaking_news/සෞන්දර්යාත්මක-හා-කලා-විෂය-ධාරා-ඉවත්-කිරීමට-තීරණයක්-නෑ/11-410807) · `si`
+
+පාසල් අධ්‍යාපනයෙන් සෞන්දර්යාත්මක විෂයන් සහ කලා විෂය ධාරා ඉවත් කිරීමට රජය කිසිදු ප්‍රතිපත්තිමය තීරණයක් ගෙන නොමැති අතර එවැනි තීරණයක් ඉදිරියේදී ගැනීමට බලාපොරොත්තුවක්ද නැතැයි කැබිනට් ප්‍රකාශක ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ අද (16) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී අදහස් දක්වමිනි.
+
+කලා විෂය ධාරාවන් අධ්‍යාපනය තුළ පැවතිය යුතු බවට ලෝකයම පිළිගන්නා බව අවධාරණය කළ කැබිනට් ප්‍රකාශකවරයා ඊට වඩා පුළුල් ලෙස අධ්‍යාපනයේ ප්‍රතිසංස්කරණ සාකච්ඡා කරන බව පැවසුවේය.
+
+බටහිර රටවල ආගමික විෂයන් ඉගැනුවූයේ නැති වුවද මෙරට කිසිවිටෙක ආගමික විෂය ධාරාවන් පාසල් අධ්‍යාපනයෙන් ඉවත් නොකරන බවද, නැටුම්, සංගීතය, සෞන්දර්ය, චිත්‍ර ආදී සෞන්දර්යාත්මක විෂයන් පාසල් වලින් ඉවත් නොකරන බවද ඒවා දරුවන්ට ප්‍රාථමික හා ද්විතීයික අධ්‍යාපනයේදී අත්‍යවශ්‍ය දේවල් බවද වැඩිදුරටත් පැවසුවේය.
+
+...
+
+[Data](articles/451926a0.json)
 
 ---
 
@@ -173,6 +217,26 @@ In addition, the court has ordered the police to take action against the police 
 [Data](articles/84283d16.json)
 
 [Extended Data](ext_articles/84283d16.ext.json)
+
+---
+
+### අතට අසුවූ සැකකරු පලායයි
+
+*2024-07-16 15:05:47* · [`adalk`](https://www.ada.lk/breaking_news/අතට-අසුවූ-සැකකරු-පලායයි/11-410806) · `si`
+
+අනුරාධපුර පොලිස් වසමේදී  සිදු කල වැටලීමකදී කේරළ ගංජා ජාවාරමේ  යෙදී සිටි සැකකරුවෙකු පරීක්ෂා කිරීමේදී  පලා ගිය බවත්, ඔහු සන්තකයේ තිබි රුපියල් ලක්ෂ 50ට ආසන්න කේරළ  ගංජා තොගයක් සොයා ගත් බව පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය පවසයි.
+
+යුද හමුදා බුද්ධි අංශය මගින් ලබා දුන් තොරතුරකට අනුව පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ  මන්නාරම උප ඒකකය මගින් අනුරාධපුර ශ්‍රාවස්තිපුර  ප්‍රදේශයේදී ඉකුත් දාහතර දා රාත්‍රී මෙම වැටලීම සිදු කර තිබේ.
+
+එම නිලධාරීන් උපාය ධූතයෙකු යොදවා කේරළ  ගංජා කිලෝ තුනක් මිලට ගැනීමට යාමේදී සැකකරු, ගංජා තොගය දමා එම නිලධාරියාගෙන් මිදී පලා ගිය බව මත්ද්‍රව්‍ය නාශක කාර්යංශය  සඳහන් කළේය.
+
+ඉන් අනතුරුව පලා ගිය සැකකරුගේ අනුරාධපුර  ශ්‍රාවස්තිපුර  , ශ්‍රාවස්ති වත්ත ප්‍රදේශයේ පිහිටි නිවස පරීක්ෂා කිරීමේදී සූක්ෂම ලෙස සඟවා තිබියදී තවත් කේරළ  ගංජා කිලෝ 5 යි ග්‍රෑම් 460ක ප්‍රමාණයක් සොයා ගත් බවද පොලිසිය තව දුරටත් සඳහන් කළේය.
+
+පලා ගිය සැකකරු අත්අඩංගුවට ගැනීම සඳහා නිලධාරීහු කණ්ඩායමක් වැඩි දුර විමර්ශන සිදු කරති.
+
+◼️
+
+[Data](articles/3152ecf2.json)
 
 ---
 
@@ -2395,79 +2459,5 @@ The roundtable will focus on digital connectivity and physical and maritime conn
 [Data](articles/14822e64.json)
 
 [Extended Data](ext_articles/14822e64.ext.json)
-
----
-
-### According to the law of the model, the Urumaya Project
-
-*2024-07-16 01:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தின்-பிரகாரமே-உறுமய-திட்டம்/175-340470) · `ta`
-
-In 2002-03, the Urumaya Project aimed to provide permanent land rights but faced delays. President Ranil Wickremesinghe noted that timely implementation could've secured these rights for citizens 20 years earlier. Out of 65,393 eligible in Badulla district, only 662 received such rights. Additionally, the President donated sports equipment to four local schools and inaugurated a stadium's main auditorium.
-
-🟩
-
-In 2002 and 2003, the program was implemented in this country.. President Ranil Wickremesinghe said that if the scheme had been implemented according to the court's decision, the people would have received a permanent land assurance 20 years ago.
-
-The President was speaking at the Urumaya Permanent Land Confirmation held yesterday at the Mahiyanganaya Public Stadium.
-
-Out of the 65 thousand 393 eligible in the Badulla district under the National Scheme of the Urumaya National Scheme, 662 were given permanent land guarantees.. President Ranil Wickremesinghe gave land guarantees to some.
-
-President Ranil Wickremesinghe also provided sports equipment for four schools in the Badulla district.. He also opened the newly constructed Mahiyanganaya Public Stadium's main auditorium. (A)
-
-◼️
-
-[Data](articles/6152dbf7.json)
-
-[Extended Data](ext_articles/6152dbf7.ext.json)
-
----
-
-### Students fulfilled the request
-
-*2024-07-16 00:55:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-கோரிக்கையை-நிறைவேற்றினார்ஜனாதிபதி/175-340469) · `ta`
-
-Students from Anamaduwa Jayasuriya Maha Vidyalaya met President Ranil Wickremesinghe, discussing academic issues and requesting faster construction of a RO Plant and facilities like a smart classroom and computer lab. The President praised their resilience against challenges like elephant threats and assured support for their educational needs.
-
-🟩
-
-Students of the Anamaduwa Jayasuriya Maha Vidyalaya recently met President Ranil Wickremesinghe at the Presidential Office.
-
-Despite the high job, the President discussed with the students and heard about their academic work and the students informed the President about some of the shortcomings of their college.
-
-President Ranil Wickremesinghe, who focused on the demand of the students to expedite the RO Plant, which is currently being constructed by the Navy, has been asked to expedite the necessary tasks.
-
-The President also promised that the demands made by the students will be met by the students to get a smart classroom for the school and the need for the building for computers and aesthetics.
-
-The President praised the students of the Anamaduwa Jayasuriya Maha Vidyalaya, who continues to education amid the threats and difficulties of wild elephants, and blessed their future education.
-
-...
-
-[Data](articles/90fc50b7.json)
-
-[Extended Data](ext_articles/90fc50b7.ext.json)
-
----
-
-### Steps to recover the archaeological archaeologies
-
-*2024-07-16 00:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருட்களை-மீளப்-பெற-நடவடிக்கை/175-340468) · `ta`
-
-Efforts are underway to retrieve archaeological artifacts, including the Tara Devi statue, taken from Sri Lanka to Britain and the Netherlands during colonial times. Minister Vidura Wickramanayake emphasized the importance of unity among citizens for national progress, beyond party divisions.
-
-🟩
-
-Minister of Buddha Sasana, Religious and Cultural Affairs Vidura Wickramanayake said that efforts are being made to recover many of the archaeologies taken from the country to Britain during the colonial period, including the statue of Tara Devi.
-
-Minister Vidura Wickramanayake said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-Many archaeologies were taken from our country to England. They also have a statue of Tara Devi. Accordingly, we are doing the necessary tasks to bring many ancient treasures, including the statue.. We have many similar archeology from the Netherlands.
-
-Moreover, some people in our country continue to split into the ruling and opposition parties. But we need those who see what is right and wrong. It is now felt that we need the people who work for the progress of the country and the people. (A)
-
-◼️
-
-[Data](articles/e7e7b847.json)
-
-[Extended Data](ext_articles/e7e7b847.ext.json)
 
 ---

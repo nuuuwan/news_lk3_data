@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 07:28:03**
+As of **2024-07-16 07:49:28**
 
 ## Newspaper Stats
 
-*Scraped **35,452** Articles*
+*Scraped **35,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,017
 economynextcom | 2,102
 dailyftlk | 2,246
 adalk | 3,192
-adaderanalk | 4,086
-tamilmirrorlk | 4,277
+adaderanalk | 4,088
+tamilmirrorlk | 4,278
 dailymirrorlk | 4,733
 virakesarilk | 5,521
 adaderanasinhalalk | 5,923
@@ -26,29 +26,75 @@ adaderanasinhalalk | 5,923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,451 (100.0%) of 35,452 articles have been extended.
+35,452 (100.0%) of 35,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### Trump gets official Republican nomination for president, picks J.D. Vance for running mate
+
+*2024-07-16 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100541/trump-gets-official-republican-nomination-for-president-picks-jd-vance-for-running-mate) · `en`
+
+Donald Trump chose Ohio U.S. Senator J.D. Vance to be his vice presidential running mate, as the Republican Party officially nominated the former president to run again for the White House today at the start of the party’s national convention in Milwaukee.
+
+“As Vice President, J.D. will continue to fight for our Constitution, stand with our Troops, and will do everything he can to help me MAKE AMERICA GREAT AGAIN,” Trump wrote on his Truth Social platform.
+
+The four-day convention opened in downtown Milwaukee’s Fiserv Forum two days after Trump narrowly survived an assassination attempt in Pennsylvania, and hours after he secured a major legal victory when a federal judge dismissed one of Trump’s criminal prosecutions.
+
+Trump is due to formally accept the party’s nomination in a prime-time speech on Thursday and will challenge Democratic President Joe Biden in the Nov. 5 election.
+
+...
+
+[Data](articles/af8dc53c.json)
+
+---
+
+### Fairly heavy showers and strong winds expected in parts of the country
+
+*2024-07-16 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100540/fairly-heavy-showers-and-strong-winds-expected-in-parts-of-the-country) · `en`
+
+The Department of Meteorology says the prevailing windy conditions over the island are expected to continue further, due to the active Southwest Monsoon conditions.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/37ed13e9.json)
+
+---
+
+### A red announcement from the weather
 
 *2024-07-16 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198852) · `si`
 
-ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology has issued a red alert due to strong winds and rough seas across various regions for the next 24 hours, including the Thayadadi Pahany Sea and Bay Bay of Bengal area. Southwest monsoon conditions are expected to intensify, leading to potential heavy showers and strong winds, especially in the western, Sabaragamuwa, and northwestern provinces, as well as in the central hills and northern regions.
 
-ආරබි මුහුදු ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියාකරන බහුදින ධීවර සහ නාවික ප්‍රජාව සඳහා අද (16) උදෑසන 3.00ට එම නිවේදය නිකුත් කර ඇත.
+🟩
 
-සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරබි මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 10ත් 20ත් අතර නැගෙනහිර දේශාංශ 55 සහ 75 අතර මුහුදු ප්‍රදේශවල ) සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 12ත් 17ත් සහ නැගෙනහිර දේශාංශ 83 සහ 93ත් අතර මුහුදු ප්‍රදේශවල) ඉතා තද සුළං පැ.කි.මී. පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology has issued a red announcement of the strong winds and the sea for the next 24 hours.
 
-මේ අතර සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයින හරහා දැනට පවතින සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Thayadadi Pahany Sea and Bay Bay of Bengal area have been issued today (16) at 3.00 am today.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+Southwest monsoon (between 10 and 20 northern latrainsters) and the Bay of East Bay Sea, 55 and 75th latrants (in areas of the eastern bay) is very strong.Mee. The Department of Meteorology announces that the sea areas can be very rough.
+
+Meanwhile, the Department of Meteorology says that the existing winds will be further equipped with the active southwest monsoon.
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Western, Nuwara Eliya, Galle and Matara districts.
+
+In some places in the Western and Sabaragamuwa Provincial, Kandy, Nuwara Eliya, Galle and Matara districts. Heavy showers are about 75 times.
 
 ...
 
 [Data](articles/314b3d93.json)
+
+[Extended Data](ext_articles/314b3d93.ext.json)
 
 ---
 
@@ -337,6 +383,24 @@ The roundtable will focus on digital connectivity and physical and maritime conn
 [Data](articles/14822e64.json)
 
 [Extended Data](ext_articles/14822e64.ext.json)
+
+---
+
+### ’6 மாதங்களில் விவசாய ஏற்றுமதித் துறை வளர்ச்சி’
+
+*2024-07-16 00:29:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாதங்களில்-விவசாய-ஏற்றுமதித்-துறை-வளர்ச்சி/175-340467) · `ta`
+
+கடந்த இரண்டு வருடங்களுடன் ஒப்பிடும்போது, 2024 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் விவசாய ஏற்றுமதித் துறையில் தெளிவான வளர்ச்சி ஏற்பட்டுள்ளது என விவசாய மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சின் செயலாளர் பி.எல்.ஏ.ஜே. தர்மகீர்த்தி தெரிவித்தார்.
+
+‘இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்’ என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டபோதே விவசாய மற்றும் பெருந்தோட்ட அமைச்சின் செயலாளர் பி.எல்.ஏ.ஜே. தர்மகீர்த்தி இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+2022 உடன் ஒப்பிடும்போது, 2023 இல் விவசாய ஏற்றுமதி வருமானம் குறைந்துள்ளது. அதன்படி எடுக்கப்பட்ட துரித நடவடிக்கைகள் காரணமாக 2024 இன் முதல் ஆறு மாதங்களில் விவசாய ஏற்றுமதித் துறையில் தெளிவான வளர்ச்சியை உருவாக்க முடிந்தது.
+
+இக்காலத்தில் நிலவிய காலநிலை விவசாயத்துக்கு சாதகமாக இல்லை என்பதை இந்த நேரத்தில் குறிப்பிட வேண்டும். இத்தகைய சவால்களை எதிர்கொண்டு அடைந்த முன்னேற்றம் உண்மையில் வெற்றியாகும் என்பதையும் கூற வேண்டும்.
+
+...
+
+[Data](articles/a068614d.json)
 
 ---
 
@@ -2183,83 +2247,5 @@ Aboriginal leader Uruwori Vanilage Wannil and Parliamentarians, state officials,
 [Data](articles/7893779b.json)
 
 [Extended Data](ext_articles/7893779b.ext.json)
-
----
-
-### ළමා සුරැකුම් මධ්‍යස්ථානයක සිටි ගැහැනු දරුවන් පිරිසක් පැන ගිහින්
-
-*2024-07-15 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198831) · `si`
-
-Six girls aged 16-18 escaped from a private childcare center in Mathegoda last night. The Mathugoda Police are investigating.
-
-🟩
-
-Six girls from a private childcare center in Mathegoda have escaped from the security center.
-
-The Mathlerigoda Police said that the girls had escaped from the securities center yesterday night.
-
-A group of girls aged between the ages of 16 and 18 have escaped.
-
-However, the Mathugoda police are conducting further investigations.
-
-◼️
-
-[Data](articles/7f252904.json)
-
-[Extended Data](ext_articles/7f252904.ext.json)
-
----
-
-### An announcement of the weather
-
-*2024-07-15 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198830) · `si`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-තද සුළං සහ රළු මුහුද පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව මඟින් නිකුත් කර තිබේ.
-
-එහි වැඩිදුරටත් සඳහන්ව ඇත්තේ, කන්කසන්තුරය සිට මන්නාරම හරහා පුත්තලම දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ. Is. Mee. It is up to 60-65.
-
-The Department of Meteorology announces that the sea areas can be very rough at times.
-
-ත්‍රිකුණාමලය සිට මුලතිව් හරහා කන්කසන්තුරය දක්වා සහ පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ. Is. Mee. 50-55 දක්වා වැඩි විය හැකි අතර එම මුහුදු ප්‍රදේශ විටින් විට රළු විය හැකි බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී තිබේ.
-
-කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.0-2.5ක් පමණ ඉහළ යාමේ හැකියාවක් පවතී.
-
-The fisheries and the naval community has informed the fisheries and the community to pay attention to this.
-
-◼️
-
-[Data](articles/2665769d.json)
-
-[Extended Data](ext_articles/2665769d.ext.json)
-
----
-
-### கனடா ஆசைகூறி மோசடி
-
-*2024-07-15 13:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடா-ஆசைகூறி-மோசடி/175-340439) · `ta`
-
-In Canada, officials from Sri Lanka's Foreign Employment Bureau arrested two individuals accused of fraud. A complaint led to the discovery of a Borella-based company, which allegedly received Rs 10 lakh but failed to deliver services legally. The company operated without a permit, leading to the arrest of its owner and another suspect. They were later released on bail of Rs 10 lakh.
-
-🟩
-
-Officials of the Sri Lanka Foreign Employment Bureau have arrested two persons for allegedly defrauding money in Canada.
-
-A person has lodged a complaint with the Bureau that a company operating in Borella area has received Rs 10 lakh, although he has received Rs.
-
-The company has revealed that the company was an illegal foreign employment agency conducted without a valid permit of the Sri Lanka Bureau.
-
-Subsequently, investigators have arrested another person, including the owner of the company.
-
-When the arrested suspects were presented in court, it was ordered to be released on bail of Rs 10 lakh.
-
-◼️
-
-[Data](articles/02ad1547.json)
-
-[Extended Data](ext_articles/02ad1547.ext.json)
 
 ---

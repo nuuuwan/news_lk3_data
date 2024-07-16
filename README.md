@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 09:07:34**
+As of **2024-07-16 09:20:02**
 
 ## Newspaper Stats
 
-*Scraped **35,462** Articles*
+*Scraped **35,465** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 315
 colombotelegraphcom | 333
-bbccomsinhala | 344
+bbccomsinhala | 345
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,102
 dailyftlk | 2,246
 adalk | 3,193
-adaderanalk | 4,088
+adaderanalk | 4,090
 tamilmirrorlk | 4,279
 dailymirrorlk | 4,733
 virakesarilk | 5,521
@@ -26,11 +26,51 @@ adaderanasinhalalk | 5,927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,462 (100.0%) of 35,462 articles have been extended.
+35,463 (100.0%) of 35,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### Railway station masters and teacher-principal unions to decide on strike actions
+
+*2024-07-16 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100543/railway-station-masters-and-teacher-principal-unions-to-decide-on-strike-actions) · `en`
+
+The Railway Station Masters’ Union says they will decide today (16) on the future course of trade union actions to be taken concerning their demands.
+
+President of the union Sumedha Somaratne stated that despite authorities’ promises, no proper solutions have been found.
+
+The union had previously temporarily halted their strike based on assurances that their issues would be presented to the Cabinet.
+
+However, with no attention given to their demands by the Cabinet yesterday (15), the union will meet this morning to determine their next steps, he said.
+
+Meanwhile, the Ceylon Teachers’ Union (CTU) has announced potential future trade union actions due to unresolved demands of teachers and principals.
+
+CTU chairman Priyantha Fernando warned that if strikes occur, the government will be held responsible.
+
+...
+
+[Data](articles/f43fcaaa.json)
+
+---
+
+### ‘During times of need, they chanted slogans without taking responsibility’ - President
+
+*2024-07-16 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100542/during-times-of-need-they-chanted-slogans-without-taking-responsibility-president) · `en`
+
+President Ranil Wickremesinghe emphasized the importance of a political culture that prioritizes the nation over traditional politics for the country’s advancement.
+
+He underscored that all political leaders, both in government and opposition, bear significant responsibility and must support initiatives aimed at improving the national economy.
+
+The President also emphasized that the responsibilities of all political leaders, from both the government and the opposition, are crucial and should not be underestimated. He underscored the importance of their unified support for the country’s economic upliftment program, free from political entanglements.
+
+President Ranil Wickremesinghe made this statement during a recent meeting at the Presidential Secretariat with a group of lawyers.
+
+...
+
+[Data](articles/edd3d4ad.json)
+
+---
 
 ### Special occasion for inmates
 
@@ -363,6 +403,32 @@ Satisha Rajapaksa scored 15 runs, Janith Liyanage 13 and Sahan Arachike 12.
 [Data](articles/71705552.json)
 
 [Extended Data](ext_articles/71705552.ext.json)
+
+---
+
+### Art: 'This is twice the video video at once
+
+*2024-07-16 02:10:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cprq534e8xlo) · `si`
+
+A viral video showcases a young artist creating portraits of 11 famous cricketers using his body and 11 pens. He employs unique techniques, such as painting with his tongue and foot, making it a meditative process.
+
+🟩
+
+None contains no of any of these.
+
+Art: 'This is twice the video video at once
+
+A video showing the skills of a young man who wears 11 paintings is circulated on social media.
+
+He creates paintings using body features such as tongue and foot.
+
+I am currently using pens, 4 and 11 pens and 11. 11 most popular cricketers in 11 pens. This is like a meditation. Shammika Nahash Ilangaratne told BBC Sinhala.
+
+◼️
+
+[Data](articles/a8658666.json)
+
+[Extended Data](ext_articles/a8658666.ext.json)
 
 ---
 
@@ -2215,75 +2281,5 @@ Furthermore, the PUCSL Chairman said that one of the main concerns that came fro
 [Data](articles/767ee45d.json)
 
 [Extended Data](ext_articles/767ee45d.ext.json)
-
----
-
-### Media Meeting on Electricity tariff revision
-
-*2024-07-15 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198834) · `si`
-
-Public Utilities Commission announced amendments to the electricity tariff scheme during a press conference, marking the start of their media briefing.
-
-🟩
-
-The press conference held by the Public Utilities Commission regarding the amendment of the second electrification scheme regarding this year has commenced its media briefing.
-
-◼️
-
-[Data](articles/5a3682a8.json)
-
-[Extended Data](ext_articles/5a3682a8.ext.json)
-
----
-
-### Wife killed in reels
-
-*2024-07-15 14:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரீல்ஸ்-வௌியிட்ட-மனைவி-பலி/175-340443) · `ta`
-
-In a tragic incident in Samvam, Telangana, Pradeep Bola, originally from Odisha and working as a cook, allegedly murdered his wife Madhumita, a mother of a 10-month-old, over her addiction to social media reels. After cutting her head off and dismembering her body, he hid the remains in a bathroom. Colleagues discovered the gruesome act when they couldn't find Pradeep at work due to the foul smell emanating from his home.
-
-🟩
-
-The Samvam Telangana area, which killed his wife, who was released by reels on social media, was hiding in the toilet.
-
-Pradeep Bola, who lives in Uppal area of ​​Telangana. His wife Madhumita (age 24). They have a 10 -month -old baby girl.
-
-Pradeep Bola from Odisha is working as a cook at a hotel in Telangana. Interested in social networks. But this does not like the husband.
-
-He has condemned the cell phone not to use too much time and not to release the 'reels' video.
-
-But the wife continued to release 'reels' without listening to his speech. The angry husband cut off his wife's head with a knife and cut her body into a cucumber and put it in the bathroom.
-
-Also, as the person did not work for the hotel, colleagues had come to his house in search of him.
-
-Madhumita's body has been recovered from the sack after the stench of the house was reported.
-
-◼️
-
-[Data](articles/4221ca93.json)
-
-[Extended Data](ext_articles/4221ca93.ext.json)
-
----
-
-### Romania, Foreign Minister
-
-*2024-07-15 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188506) · `ta`
-
-Ali Sabri, External Affairs Minister, will visit Romania and Poland from the 16th to the 19th, meeting key officials and inaugurating Sri Lanka's new embassy in Bucharest, marking its third year of operation.
-
-🟩
-
-External Affairs Minister Ali Sabri will make an official visit to Romania and Poland from the 16th to the 19th.
-
-During these visits, Foreign Minister Ali Sabri will meet several key officials.
-
-Meanwhile, the Foreign Minister will officially inaugurate the new Sri Lankan embassy in the capital of Romania, Bukarest.. It is noteworthy that Sri Lanka has been carrying out its embassy since 2023.
-
-◼️
-
-[Data](articles/2a41df6e.json)
-
-[Extended Data](ext_articles/2a41df6e.ext.json)
 
 ---

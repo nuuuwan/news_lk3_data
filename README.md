@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 18:13:52**
+As of **2024-07-16 18:24:15**
 
 ## Newspaper Stats
 
-*Scraped **35,567** Articles*
+*Scraped **35,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,206
-adaderanalk | 4,107
+adalk | 3,207
+adaderanalk | 4,108
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,546
@@ -26,11 +26,31 @@ adaderanasinhalalk | 5,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,567 (100.0%) of 35,567 articles have been extended.
+35,567 (100.0%) of 35,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### CTU to take legal action over govt’s one-time allowance
+
+*2024-07-16 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100562/ctu-to-take-legal-action-over-govts-one-time-allowance) · `en`
+
+The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin says that they intend to take legal action against the government’s decision to grant a one-time allowance to teachers who reported for duty during the recent strike.
+
+He stressed this today (16) while speaking at a press conference held by the Teacher-Principal trade unions.
+
+“In 1986, salary adjustments were made in this manner which led to a Supreme Court case. There it was stated that such unequal treatment could not be accepted. We will go to the Supreme Court on the basis of that decision”, said the General Secretary of the CTU.
+
+Accordingly, he further emphasized that the government should not discriminate against others in this manner and declared that this matter would be taken to the Supreme Court.
+
+The Cabinet of Ministers yesterday approved a proposal to pay a Rs. 10,000 one-time allowance to all government employees below Executive Grade level who reported for duty during the recent strike.
+
+...
+
+[Data](articles/9cf5b195.json)
+
+---
 
 ### Those who seek paying taxes are looking for
 
@@ -81,6 +101,24 @@ In 2023, the winner of the “Grand Prize of the Traditional French Baguette,”
 [Data](articles/956f8f5b.json)
 
 [Extended Data](ext_articles/956f8f5b.ext.json)
+
+---
+
+### මේ දිනවල ළමයින් අතර පවතින උණ ගැන පරිස්සමෙන්
+
+*2024-07-16 16:43:13* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දිනවල-ළමයින්-අතර-පවතින-උණ-ගැන-පරිස්සමෙන්/11-410811) · `si`
+
+මෙම දිනවල ළමයින් අතර උණ සමග කැස්ස හෙම්බිරිසා තත්ත්වයන් වැඩිවී ඇතැයිද, ඉන්ෆ්ලුවෙන්සා රෝගීන්ද වැඩි වීමක් දක්නට ඇතැයිද කොළඹ රිජ්වේ ආර්යා ළමා රෝහලේ ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා සඳහන් කරයි.
+
+ළමා රෝග විශේෂඥ වෛද්‍යවරයා මේ බව පවසා ඇත්තේ රජයේ නිල පුවත් වෙබ් අඩවියට අදහස් දක්වමිනි.
+
+ශීත රටවල ඉන්ෆ්ලුවෙන්සා රෝගය සඳහා ප්‍රතිශක්තිකරණයක් ලබාදෙන බවද, මෙය අවුරුදු 02ට අඩු දරුවන්, අවුරුදු 65ට වැඩි වැඩිහිටියන්, ගර්භණී මාතාවන්, ශ්වසන රෝග නිදන්ගතව පවතින පුද්ගලයන් සහ ප්‍රතිශක්තීකරණය අඩු අයට තරමක් භයානක විය හැකි බවද ඒ මහතා අවධාරණය කළේය.
+
+ඉන්ෆ්ලුවෙන්සා පැතිරීම වළක්වා ගැනීමට රෝග ලක්ෂණ ඇති අය මුඛ ආවරණයක් පැළදීමද රෝග ලක්ෂණ පහළවී ඇති දරුවන් පෙර පාසලට, පාසලට, දිවා සුරැකුම් මධ්‍යස්ථානයට නොයවන ලෙසද මෙය ලේසියෙන් තවත් කෙනෙකුට බෝවිය හැකි බවද පැවසුවේය.
+
+...
+
+[Data](articles/2bedf809.json)
 
 ---
 
@@ -2439,57 +2477,5 @@ Tourist arrivals have arrived in Russia and 97,055 tourists have arrived in Sri 
 [Data](articles/ed41a42c.json)
 
 [Extended Data](ext_articles/ed41a42c.ext.json)
-
----
-
-### Special occasion for inmates
-
-*2024-07-16 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198856) · `si`
-
-Inmates at a prison are allowed to receive visitors and goods like food and hygiene items today, from 9 am to 4 pm, as part of a special program initiated due to the death of an inmate from encephalitis. The program is limited to today and follows hospitalization of three other inmates.
-
-🟩
-
-The Department of Prisons has decided to give open an opportunity for the inmates to watch open guests today.
-
-Prison Media Spokesperson, Prison Commissioner Gamini B. Dissanayake said that the food and sanitation substances brought by relatives of the detainees today (16) were given the opportunity to provide sufficient to one inmate.
-
-He added that this special program will be implemented from 9 am to 4 pm.
-
-Meanwhile, the Department of Prisons has decided to limit the Galle Prison to today.
-
-The move has been taken with the death of a prison inmate after the brain fever.
-
-The inmate at Galle Prison died on 13
-
-Three other inmates suspected to be hospitalized for treatment.
-
-Prison Hospital Director Hemantha Ranasinghe said that steps have been taken to limit the Galle Prison in conserving the present situation.
-
-◼️
-
-[Data](articles/638c1059.json)
-
-[Extended Data](ext_articles/638c1059.ext.json)
-
----
-
-### Trump gets official Republican nomination for president, picks J.D. Vance for running mate
-
-*2024-07-16 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100541/trump-gets-official-republican-nomination-for-president-picks-jd-vance-for-running-mate) · `en`
-
-Donald Trump chose Ohio U.S. Senator J.D. Vance to be his vice presidential running mate, as the Republican Party officially nominated the former president to run again for the White House today at the start of the party’s national convention in Milwaukee.
-
-“As Vice President, J.D. will continue to fight for our Constitution, stand with our Troops, and will do everything he can to help me MAKE AMERICA GREAT AGAIN,” Trump wrote on his Truth Social platform.
-
-The four-day convention opened in downtown Milwaukee’s Fiserv Forum two days after Trump narrowly survived an assassination attempt in Pennsylvania, and hours after he secured a major legal victory when a federal judge dismissed one of Trump’s criminal prosecutions.
-
-Trump is due to formally accept the party’s nomination in a prime-time speech on Thursday and will challenge Democratic President Joe Biden in the Nov. 5 election.
-
-...
-
-[Data](articles/af8dc53c.json)
-
-[Extended Data](ext_articles/af8dc53c.ext.json)
 
 ---

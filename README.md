@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 10:54:03**
+As of **2024-07-16 11:05:19**
 
 ## Newspaper Stats
 
-*Scraped **35,485** Articles*
+*Scraped **35,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,83 @@ islandlk | 2,018
 economynextcom | 2,102
 dailyftlk | 2,246
 adalk | 3,195
-adaderanalk | 4,092
+adaderanalk | 4,093
 tamilmirrorlk | 4,286
 dailymirrorlk | 4,733
 virakesarilk | 5,524
-adaderanasinhalalk | 5,933
+adaderanasinhalalk | 5,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,483 (100.0%) of 35,485 articles have been extended.
+35,485 (100.0%) of 35,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### සීමාවාසික පුහුණුව පටන් ගන්නත් කලින්  දොස්තර වැඩේට බැස්ස වෛද්‍ය සිසුවිය රිමාන්ඩ්
+### ඡන්ද විමසීමේ දිනය ප්‍රකාශයට පත්කිරීම ජූලි අවසන් වීමට පෙර
+
+*2024-07-16 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198864) · `si`
+
+ජූලි අවසන් වීමට පෙර ඡන්ද විමසීමේ දිනය ප්‍රකාශයට පත්කිරීමට නියමිත බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+මේ වනවිට පැවැත්වෙන විශේෂ මාධ්‍ය හමුවකට එක්වෙමින් මැතිවරණ කොමිසම් සභාවේ සභාපති, ආර්.එම්.ඒ.එල්. රත්නායක මහතා පවසා සිටියේ, මේ දිනය ක්‍රියාත්මක කිරීමේ දී වෙනත් කිසිදු හේතුවක් බලනොපාන බව ද ඒ මහතා කියා සිටියේය.
+
+ඕනෑම අයෙකුට ආණ්ඩුක්‍රම ව්‍යවස්ථාව සහ ජනාධිපති පනත අනුව මෙම දින පිළිබ﻿ඳ සලකා බැලිය හැකි බව ද රත්නායක  මහතා පැවසීය.
+
+◼️
+
+[Data](articles/483add2d.json)
+
+---
+
+### Unidentified body found near Fort railway station
+
+*2024-07-16 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100546/unidentified-body-found-near-fort-railway-station) · `en`
+
+An unidentified body of a male has reportedly been found near the road in front of the Colombo Fort Railway Station.
+
+Colombo Fort Police has launched an investigation upon receiving information regarding the incident last night (15).
+
+The identity of the deceased is yet to be confirmed while he is believed to be around 60 to 65 years old, and 5 feet and 4 inches tall, with a slender figure.
+
+Police stated that the deceased was last seen wearing a short sleeve shirt and a red colored sarong.
+
+Colombo Fort Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/1d1e354f.json)
+
+---
+
+### Medical student remanded for governance before the internship started
 
 *2024-07-16 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198862) · `si`
 
-සීමාවාසික වෛද්‍ය පුහුණුව ආරම්භ කිරීමටත් පෙර පුහුණු වෛද්‍යවරියක ලෙස පෙනී සිට නීතිඥ යුවළකගේ අවුරුදු 6 සහ 8 වියේ පසුවූ කුඩා දරුවන් දෙදෙනෙකුට පෞද්ගලික වෛද්‍ය සායනයක් තුළ දී වෛද්‍ය ප්‍රතිකාර ලබාදීමේ චෝදනාවට අත්අඩංගුවට ගත් වෛද්‍ය ශිෂ්‍යාවක් ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවෙල මහතා ඊයේ (15) පස්වරුවේ නියෝග කළේය.
+A medical student was arrested before starting his internship for allegedly misrepresenting qualifications at a private clinic launch. The incident occurred when he claimed to be qualified to treat patients despite lacking proper certification. This led to his arrest and subsequent remand for further investigation.
 
-පසුගිය 3﻿ වෙනිදා කොළොන්නාව ප්‍රදේශයේ පිහිටි වෛද්‍ය මධ්‍යස්ථානයකට පැමිණ තිබූ නීතිඥ  හුසේන් අසාර් සයිතුන් මහතා සහ නීතිඥවරියක වන පාතිමා ජුතයින් මහත්මිය සිය දරුවන් දෙදෙනොට වෛද්‍ය ප්‍රතිකාර ලබාදී තිබූ අතර, එකී වෛද්‍ය ප්‍රතිකාර ලැබීමෙන් පසුව ඔවුන්ගේ රෝගී තත්ත්වය උත්සන්න වීම නිසා ඒ පිළිබඳ සැකකාර වෛද්‍යවරියට දන්වා වෛද්‍ය සහතිකයක් ලබාගැනීමට පියවර ගෙන තිබිණි.
+🟩
 
-එකී වෛද්‍ය සහතිකයේ සඳහන් නිල මුද්‍රාවේ වෙනත් වෛද්‍යවරයෙකුගේ නමක් සඳහන්වී තිබී ඇත.
+Colombo Additional Magistrate Harrasada Kekunawela yesterday to be arrested for a private medical clinic to the launch of a private medical clinic at the 19th and two-year-old couple in a private medical clinic.15 The afterdeon of the afternoon.
 
-පසුව ඒ පිළිබඳව විමසීමේ දී ඕනෑම අයෙකුට වෛද්‍ය ප්‍රතිකාර ලබාදීමට තරම් තමා සුදුසුකම් ලබා ඇති බව සැකකාරිය පවසා ඇති අතර ඒ අනුව වැල්ලම්පිටිය පොලීසියට පැමිණිල්ලක් ගොනුකර තිබේ.
+Attorney-at-Law Hushar Asar Situ, a lawyer and a lawyer in Kolonnawa was given medical care after the treatment of the medical treatment.Steps were taken.
+
+The name of another doctor mentioned in the official seal specified in the medical certificate.
+
+The suspect had stated that he was qualified to provide medical attention to the Wellampitiya Police.
+
+According to the complaint, the Colombo Magistrate's Court had prepared a report to the court and registered in the Colombo Magistrate's Court.
+
+Additional Magistrate Harrasada Kekunai, who was called to police officers, had ordered the police to be arrested and produced before the court.
 
 ...
 
 [Data](articles/c9e76598.json)
+
+[Extended Data](ext_articles/c9e76598.ext.json)
 
 ---
 
@@ -76,25 +122,31 @@ Ordy Aunube is scheduled to attend the 75th anniversary of the UNESCO's membersh
 
 ---
 
-### ට්‍රම්ප් ගේ තෝරාගැනීම වෑන්ස්
+### Trump's Selection Vans
 
 *2024-07-16 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198861) · `si`
 
-ට්‍රම්ප් විරෝධියෙක් ලෙස ප්‍රකටව සිටි ඔහායෝ හි සෙනෙට් සභිකයා වන ජේ ඩී වෑන්ස් ව සිය උප ජනාධිපති අපේක්ෂකයා ලෙස නම් කිරීමට හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පියවර ගෙන තිබේ.
+Donald Trump has selected J.J. Van as the Senate Sena Van, known as "Trump Van," following a thorough review of their social media presence. This decision was ratified by the Republican National Committee. Amidst preparations for the upcoming November presidential election, where Trump is the Republican candidate, a 20-year-old, Matthew Crutch, attempted to assassinate him during a rally in Pennsylvania, injuring his right ear.
 
-ඊයේ (15) පැවති රිපබ්ලිකන් පක්ෂ නියෝජිත සමුළුවේදී 39 හැවිරිදි වෑන්ස් එම තනතුර සඳහා සුදුසු බවට පක්ෂ නියෝජිතයින්ගේ අනුමැතිය හිමිවිය.
+🟩
 
-සිය සමාජ මාධ්‍ය ගිණුමේ සටහනක් තබමින් ට්‍රම්ප් පවසා තිබුණේ වෑන්ස් ව තෝරාගනු ලැබුවේ ඉතා දීර්ඝ වශයෙන් කල්පනා කිරීමෙන් පසුව බවයි.
+The former American President Donald Trump has taken steps to name JJ van, the Senate Sena Van, known as a Trump, as a Trump.
 
-අමෙරිකානු ජනාධිපතිවරණය එළැඹෙන නොවැම්බර් මාසයේ පැවැත්වීමට නියමිත අතර ඒ සඳහා රිපබ්ලිකන් පක්ෂයේ අපේක්ෂකයා ලෙස පක්ෂ නියෝජිතයින් විසින් ට්‍රම්ප් ව නම්කළේය.
+The representatives of the Representative of the Republican Representative Conference yesterday (49) was approved by party representatives.
 
-පසුගිය සෙනසුරාදා ට්‍රම්ප් ව ඝාතනය කිරීමට මැතිව් කෲක්ස් නම් 20 හැවිරිදි තරුණයෙක් උත්සාහ දැරීය.
+Trump had said that Vas was chosen after the most lengthy consciousness of their social media account.
 
-පෙන්සිල්වේනියාවේ මැතිවරණ ප්‍රචාරක රැලියක් අමතමින් සිටින අතරතුර ට්‍රම්ප් ට වෙඩි තැබූ අතර ඉන් ඔහුගේ දකුණු කනට තුවාල සිදුවිය.
+The American presidential election is scheduled to be held in November and Trump has been named the Republican Party candidate for this purpose.
+
+A 20-year-old young man named Matthew Cruch tried to kill Trump.
+
+Trump shot at Trump while addressing an election rally in Pennsylvania, and his right ear was injured.
 
 ◼️
 
 [Data](articles/ee1cb51d.json)
+
+[Extended Data](ext_articles/ee1cb51d.ext.json)
 
 ---
 
@@ -2269,49 +2321,5 @@ The President who has the right to do politics but no one should have signed the
 [Data](articles/0ff3edaf.json)
 
 [Extended Data](ext_articles/0ff3edaf.ext.json)
-
----
-
-### Struggle in Bogawantalawa demanding workers to pay 1700 rupees as a daily salary
-
-*2024-07-15 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188528) · `ta`
-
-In Bogawantalawa, plantation workers protested for a daily wage increase to 1700 rupees. The rally, starting from the main bus station, reached the Selvakandi junction, disrupting traffic briefly. The media spokesperson's portrait was burned, and local traders supported the three-hour demonstration by closing shops.
-
-🟩
-
-The protest was launched in Bogawantalawa on Monday morning, demanding the payment of 1700 rupees to the hill plantation workers.
-
-The demonstration rally, which started at the Bogawantalawa main bus station, went to the Bogawantalawa Selvakandi junction.
-
-The portrait of Media Spokesperson of the Plantation Duramar Federation, Roshan Rajadurai, was burnt.
-
-Traffic along the Bogawantalawa Hatton Road was affected for some time due to the demonstration.
-
-The struggle was carried out for about three hours and the Bogawantalawa city traders closed the shopping centers and supported the demonstration.
-
-◼️
-
-[Data](articles/7271d72f.json)
-
-[Extended Data](ext_articles/7271d72f.ext.json)
-
----
-
-### Over 10,000 Sri Lankans return from Kuwait during general amnesty
-
-*2024-07-15 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100530/over-10000-sri-lankans-return-from-kuwait-during-general-amnesty) · `en`
-
-The Embassy of Sri Lanka in Kuwait said that a total of 10,615 Sri Lankan nationals, who were illegally staying in Kuwait and overstayed their visas, have left the country during the “general amnesty period” declared by the Kuwait government for 2024.
-
-This general amnesty period was declared from March 17 to June 30, 2024 as a result of the discussions held by the Ministry of Foreign Affairs of the State of Kuwait and the Embassy of Sri Lanka in Kuwait.
-
-During that period, “temporary passports” had been issued for them to leave the country based on only a few basic documents.
-
-◼️
-
-[Data](articles/ff178ea4.json)
-
-[Extended Data](ext_articles/ff178ea4.ext.json)
 
 ---

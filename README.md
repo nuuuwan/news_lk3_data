@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 06:23:31**
+As of **2024-07-16 05:37:55**
 
 ## Newspaper Stats
 
-*Scraped **35,450** Articles*
+*Scraped **35,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 315
 colombotelegraphcom | 333
 bbccomsinhala | 344
 newsfirstlk | 363
-islandlk | 2,017
+islandlk | 2,005
 economynextcom | 2,102
 dailyftlk | 2,246
 adalk | 3,192
@@ -26,29 +26,11 @@ adaderanasinhalalk | 5,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,446 (100.0%) of 35,450 articles have been extended.
+35,438 (100.0%) of 35,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
-
-### Remarkable surge in Agricultural Exports in first half of 2024 – Secretary to the Ministry of Agriculture and Plantation Industries
-
-*2024-07-16 04:11:00* · [`islandlk`](http://island.lk/remarkable-surge-in-agricultural-exports-in-first-half-of-2024-secretary-to-the-ministry-of-agriculture-and-plantation-industries/) · `en`
-
-Secretary to the Ministry of Agriculture and Plantation Industries, B.L.A.J. Dharmakeerthi, said that there was a significant resurgence in the agricultural export sector during the first half of 2024, surpassing performance in the preceding two years. He attributed this growth to decisive actions taken to counter the decline in agricultural export earnings observed in 2023 compared to 2022.
-
-Addressing the press briefing titled “Two Years of Progress and Advancement” at the Presidential Media Centre on Monday (15), Secretary Dharmakeerthi underscored the remarkable achievement of this progress despite challenging climatic conditions in the agricultural sector in recent times. He elaborated that proactive measures implemented during 2023 facilitated substantial sector growth in the initial six months of 2024.
-
-Secretary Dharmakeerthi emphasized that these advancements were particularly noteworthy given adverse weather conditions, describing these developments as a significant triumph.
-
-...
-
-[Data](articles/de58817a.json)
-
-[Extended Data](ext_articles/de58817a.ext.json)
-
----
 
 ### New Laws soon to protect the rule of law in the country - Justice Minister Wijeyadasa Rajapaksa
 
@@ -508,28 +490,6 @@ The Cabinet has approved the proposal put forward by the president to pay a perm
 
 ---
 
-### JAYASRI…in the scene at Austria’s Biggest Reggae Festival
-
-*2024-07-15 21:58:00* · [`islandlk`](http://island.lk/jayasriin-the-scene-at-austrias-biggest-reggae-festival/) · `en`
-
-After a long stint in Sri Lanka, from October, last year, to May 2024, the JAYASRI Twins, Rohitha and Rohan, are back in Austria to join their full band for the summer season in Europe.
-
-In Sri Lanka they had a wonderful time, they say, playing to packed venues, around the island, with great bands and musicians.
-
-They also ventured out, with tours to New Zealand with Sarith Surith and the News; Australia with 2 Forty 2, and their very first tour to Japan with Infinity, in May.
-
-The most waited highlight of this summer, says Rohitha, will be the Biggest Reggae Festival in Austria ‘One Love Reggae Festival’ to be held on 2nd and 3rd August, in the Wiesen Festival Area, in Austria.
-
-“For us (JAYASRI) it´s awesome to be a part of this International Festival, performing with the great living legends of the reggae world, such as Burning Spear, Yellowman, Black Uhuru, Skip Marley (a grandson of Bob Marley), Groundation, Etana, Marcus Gad, Dr, Ring Ding, Fitta Warri, House of Riddim…and many more”.
-
-...
-
-[Data](articles/06def8b0.json)
-
-[Extended Data](ext_articles/06def8b0.ext.json)
-
----
-
 ### Reduction
 
 *2024-07-15 21:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்-அமுலாகும்-வகையில்-விலை-குறைப்பு/175-340451) · `ta`
@@ -547,34 +507,6 @@ Barada, egg bread and snacks have been reduced by 10 rupees. Remble
 [Data](articles/370b5685.json)
 
 [Extended Data](ext_articles/370b5685.ext.json)
-
----
-
-### In Sri Lanka…on vacation
-
-*2024-07-15 21:54:00* · [`islandlk`](http://island.lk/in-sri-lankaon-vacation/) · `en`
-
-Over the past few weeks, former big names in the local showbiz scene, now based abroad, have been visiting Sri Lanka…after quite a while.
-
-Legendary drummer of the Super Golden Chimes, and Gypsies fame, Nimal Perera, is in town for a short holiday.
-
-Kirthie Abeywickreme, who lives in Germany, and is known for his classic impersonation of Michael Jackson, Elvis Presley and Tina Turner, for the purpose of entertainment, is here, as well.
-
-Also in town, for a short vacation, was Sondra Wise Kumaraperu…better known in the scene here as Sondra Wise.
-
-She was a popular vocalist and performed with several of our top bands before settling down in America.
-
-Sondra is now heavily involved in various projects in the States, but, unfortunately, not connected with music.
-
-During her trip to Sri Lanka, she also visited the Maldives, for a couple of days.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/85cee77d.json)
-
-[Extended Data](ext_articles/85cee77d.ext.json)
 
 ---
 
@@ -645,72 +577,6 @@ According to the proposal which was presented by President Ranil Wickremesinghe,
 [Data](articles/a62e0cc3.json)
 
 [Extended Data](ext_articles/a62e0cc3.ext.json)
-
----
-
-### Occidental Eden Beruwala’s Sippi: Serving up gastronomy with a slice of paradise
-
-*2024-07-15 21:35:00* · [`islandlk`](http://island.lk/occidental-eden-beruwalas-sippi-serving-up-gastronomy-with-a-slice-of-paradise/) · `en`
-
-Set against the backdrop of the sun-kissed southern shores of Sri Lanka and vast expanse of turquoise ocean, Occidental Eden Beruwala recently launched its latest culinary innovation ‘Sippi,’ a refined A la carte restaurant. Deriving inspiration from the Sinhala words ‘sippi katu,’ meaning seashells, ‘Sippi’ combines the synergy of the sea with local gastronomic delights paired with the epitome of refined luxury.
-
-The evening unfolded with tantalising offerings, where fragrant island spices mingled with hand-crafted premium cocktails and wines, accompanied by the lilting melody of jazz tunes under open skies. The unveiling of ‘Sippi’ was attended by an exclusive group of in-house guests, special invitees, well-wishers and staff from Occidental Eden. Every visitor had the choice of choosing a dish from the extensive menu, inviting each one to partake in a truly bespoke culinary journey.
-
-...
-
-[Data](articles/609cb590.json)
-
-[Extended Data](ext_articles/609cb590.ext.json)
-
----
-
-### The British Council announces new arts grant supporting cultural projects between UK and Sri Lanka
-
-*2024-07-15 21:32:00* · [`islandlk`](http://island.lk/the-british-council-announces-new-arts-grant-supporting-cultural-projects-between-uk-and-sri-lanka/) · `en`
-
-The British Council is thrilled to announce the opening of applications for its Connections Through Culture arts grants, a £700,000 grant programme designed to foster artistic and cultural collaborations between the UK and Asia-Pacific countries.
-
-Applicants in Sri Lanka can apply for grants of up to £10,000, for projects that enable genuine international collaboration between the UK and Asia-Pacific countries. We accept applications from all artforms, however proposals responding to Climate Change, and Diversity and Inclusion may be prioritised during final decision making. Projects supported by the Connections Through Culture Grants are required to include at least one UK-based applicant and one applicant based in Sri Lanka.
-
-The Connections Through Culture grants support new international collaborations between the UK and Sri Lanka, offering grant support to organisations and artists in the development of their creative projects.
-
-...
-
-[Data](articles/547f497f.json)
-
-[Extended Data](ext_articles/547f497f.ext.json)
-
----
-
-### HNB to back Soul Sounds’ global ambitions at World Choir Games 2024
-
-*2024-07-15 21:29:00* · [`islandlk`](http://island.lk/hnb-to-back-soul-sounds-global-ambitions-at-world-choir-games-2024/) · `en`
-
-Sri Lanka’s leading private sector bank, HNB PLC recently announced signing on as a sponsor of Soul Sounds, Sri Lanka’s premier female choir ensemble, for the World Choir Games 2024. This renowned event, set to take place in Auckland, New Zealand from July 10 to 20, will see Soul Sounds representing Sri Lanka on the global stage.
-
-“We are proud to support Soul Sounds in their journey to the World Choir Games 2024. As Sri Lanka’s premier female choir, their dedication to musical excellence and their role as cultural ambassadors align perfectly with our values at HNB. Through our partnership, we aim to showcase the rich cultural heritage of Sri Lanka and inspire future generations of young artists,” said HNB Head of Club, Michelle de Silva.
-
-...
-
-[Data](articles/ea575046.json)
-
-[Extended Data](ext_articles/ea575046.ext.json)
-
----
-
-### Improvements in Govt.’s approval ratings exert positive impact on CSE
-
-*2024-07-15 21:28:00* · [`islandlk`](http://island.lk/improvements-in-govt-s-approval-ratings-exert-positive-impact-on-cse/) · `en`
-
-Yesterday’s CSE performance reflected a significant improvement on the share market front due to steady improvements in the approval ratings of the government in the area of economic decision making. This new survey was released by Verite Research last week, which indicated that the government’s approval rating on all economic activities increased to 24 percent from 10 percent.
-
-Over three times as many people feel better about the economy and the country’s economic trajectory compared to four months ago, according to this latest round of the Gallup-style ‘Mood of the Nation’ poll by Verité Research.
-
-...
-
-[Data](articles/f9e951b2.json)
-
-[Extended Data](ext_articles/f9e951b2.ext.json)
 
 ---
 
@@ -2265,5 +2131,195 @@ Further details of the proposed sale will be disclosed to the Colombo Stock Exch
 [Data](articles/1d3869a4.json)
 
 [Extended Data](ext_articles/1d3869a4.ext.json)
+
+---
+
+### Thailand Visa: Embassy officials come into effect after official announcement
+
+*2024-07-15 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188467) · `ta`
+
+Thailand has announced visa-free entry for citizens of 93 countries, including Sri Lanka, but implementation awaits official Sri Lankan government approval. This marks the first time Sri Lankans can visit Thailand without a visa, allowing stays of 30 to 60 days for tourists and short-term business travelers, provided they show proof of funds, accommodation, and return flights. Additionally, Thailand introduced the Digital Nomad Visa (DNV), valid for up to 180 days and valid for five years, aimed at digital nomads, freelancers, and those interested in culinary and martial arts. This initiative aims to boost tourism, which saw a 35% increase in arrivals, earning $24 billion in 2023, with projections indicating significant growth from Chinese, Malaysian, and Indian tourists by 2024.
+
+🟩
+
+It has been announced that people from 93 countries, including Sri Lanka, can go to Thailand without a visa today.
+
+But the Thai Embassy said the project would be implemented only after the official announcement of the Sri Lankan authorities.
+
+In this case, Sri Lankans received no confirmation from Bangkok yesterday regarding the visa free of Thailand. Therefore, the Sri Lankan Immigration and Air Transport Officers will be informed once the official announcement is received. At the time, the project will come into effect. ”
+
+Meanwhile, no announcement has been made on the new project on the Internet of the Thailand Embassy in Sri Lanka.
+
+Meanwhile, this is the first time that Sri Lankans are allowed to travel to Thailand without a visa.
+
+Sri Lanka has already granted permission to come to Sri Lanka without a visa.
+
+Sri Lankans who go without a visa can stay in Thailand for 30 to 60 days. However, the Sri Lankans traveling there must have evidence of money, shelter and flight tickets.
+
+...
+
+[Data](articles/1a1ce160.json)
+
+[Extended Data](ext_articles/1a1ce160.ext.json)
+
+---
+
+### I must have died - Trump in the first box presented after gunfire
+
+*2024-07-15 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/188497) · `ta`
+
+Donald Trump, in an interview, revealed he believes he should have died during an assassination attempt, citing a significant elbow injury and protection efforts from security. He showed a photo of himself with a bandaged right hand, stating it's the best depiction of his resilience post-shooting. Despite wanting to continue speaking after the incident, he was advised by the Secret Service to go to the hospital.
+
+🟩
+
+Former US President Donald Trump, who has shared his feelings about the survival of the assassination, has said that I should have died.
+
+In an interview with the New York Post, he said that he had shown a major injury to his elbow and that the security officers were trying to protect him.
+
+The New York Post said that Trump was seen with a relaxed large bandage around the right hand and said that his employees said he could not film.
+
+Trump has said that this is the best photo of Trump, who has commented on the photo of himself showing that he will rise again after the shooting and raise his hand and fight with the glory on his face.
+
+Trump also stated that I wanted to continue to address even after the shooting, but the secret service unit said that I should go to the hospital.
+
+◼️
+
+[Data](articles/b01d0cd7.json)
+
+[Extended Data](ext_articles/b01d0cd7.ext.json)
+
+---
+
+### Body of 41-year-old murder victim found inside torched vehicle
+
+*2024-07-15 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100523/body-of-41-year-old-murder-victim-found-inside-torched-vehicle-) · `en`
+
+A 41-year-old man has been murdered and his body placed inside a vehicle which had then been set on fire in the Uppuveli area, according to police.
+
+Preliminary police investigations have uncovered that the murder has taken place in the early hours of yesterday (14) over a personal dispute.
+
+The deceased, a resident of the Alaswatta area in Trincomalee, owns and operates a shop in the same locality, the police said.
+
+On the day of the incident, he was inside his store with two others when the assailants had arrived on a motorcycle. They had assaulted the victim, abducted him using his own double cab, and later murdered him, according police.
+
+His body had been taken to a wooded area in Morawewa and placed inside the same vehicle which was then set ablaze by the suspects.
+
+Police have identified three suspects involved in the incident, while one of them, a 24-year-old resident of Kuchchaveli, has been arrested.
+
+...
+
+[Data](articles/6f65996f.json)
+
+[Extended Data](ext_articles/6f65996f.ext.json)
+
+---
+
+### Pregnant and boyfriend asking her husband
+
+*2024-07-15 13:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணியும்-காதலனும்-கணவனிடம்-கப்பம்-கேட்டு-கரைச்சல்/175-340437) · `ta`
+
+A pregnant woman went missing, later found in Govindapuram. Her husband must pay 5 million rupees for her release. The couple, along with her boyfriend, were involved in a scandal involving a 31-year-old woman and a 21-year-old man. They were caught after the boyfriend moved her to Siyambalanduwa.
+
+🟩
+
+A pregnant wife and her boyfriend have been asked to save about 5 million rupees to her husband.
+
+A pregnant woman disappeared a few days ago. He was found by the police at Govindapuram in the mixed police division last Saturday evening.
+
+The pregnant woman left home on Tuesday 9th, claiming to go to the monthly clinic. However, her husband had lodged a complaint at the police station that his wife had not returned home that day.
+
+In this case, if she wants to release her, he has to pay 5 million rupees.. In addition, WhatsApp has been labeled.
+
+Her husband brought her to the attention of the police. With them, police arrested a 31 -year -old woman and a 21 -year -old youth known as her boyfriend.
+
+இணையத்தளத்தின் ஊடாக இன்றைக்கு 5 மாதங்களுக்கு முன்னர் தொடர்பில் இருந்த இவ்விருவரும்  பின்னர் காதலர்களாக மாறிவிட்டனர். The lover who came to the city of Siyambalanduwa fell into the trap of love. She took her to her home in the Vathegoda area.
+
+...
+
+[Data](articles/53fd50a9.json)
+
+[Extended Data](ext_articles/53fd50a9.ext.json)
+
+---
+
+### Pregnant and boyfriend harassed her husband
+
+*2024-07-15 13:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணியும்-காதலனும்-கணவனிடம்-கப்பம்-கேட்டு-தொல்லை/175-340437) · `ta`
+
+A pregnant woman vanished after telling her husband she was going to a clinic; he reported her missing. Her boyfriend and another woman, both unknown to him, were arrested. The husband must pay 5 million rupees for her release, and the incident was reported via WhatsApp.
+
+🟩
+
+A pregnant wife and her boyfriend have been harassing her husband about 5 million rupees.
+
+A pregnant woman disappeared a few days ago. He was found by the police at Govindapuram in the mixed police division last Saturday evening.
+
+The pregnant woman left home on Tuesday 9th, claiming to go to the monthly clinic. However, her husband had lodged a complaint at the police station that his wife had not returned home that day.
+
+In this case, if she wants to release her, he has to pay 5 million rupees.. In addition, WhatsApp has been labeled.
+
+Her husband brought her to the attention of the police. With them, police arrested a 31 -year -old woman and a 21 -year -old youth known as her boyfriend.
+
+The two, who were in touch 5 months ago through the Internet, later became lovers. The lover who came to the city of Siyambalanduwa fell into the trap of love. She took her to her home in the mixed vetegoda area.
+
+...
+
+[Data](articles/e553c3bc.json)
+
+[Extended Data](ext_articles/e553c3bc.ext.json)
+
+---
+
+### Parents accused the police about a young man hit by train
+
+*2024-07-15 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198829) · `si`
+
+In Angulana, a young man died after being hit by a train. His family accuses the police of negligence, claiming they fled the scene after an incident involving the youth. The police deny these allegations, stating no officers visited the house that morning.
+
+🟩
+
+The youth's mother's parents are accused of death in Angulana area.
+
+The police had lodged a complaint with a young man who had behaved a manuscript during a party held at a house in Angulana last night.
+
+The youth fled the police when a group of Angulana police officers were taken last night.
+
+The young man has taken steps to bring his parents back to the house and he had to sleep with dinner.
+
+The youth said that a group of police officers returned to their home this morning (15) and had fled to their son.
+
+The parents of the deceased youth said that the police were killed at about 7 am.
+
+"Was sleeping. Police came and hit the door. Aravaton said the door. Then Saphana, you made a bare case, and told you to run away. The whole household saw three. The other three went along the sand. At about 7.30 pm heard that the train was escalating. "
+
+The deceased youth was found this morning on the railway line near the Angulana Singangas.
+
+...
+
+[Data](articles/2392d591.json)
+
+[Extended Data](ext_articles/2392d591.ext.json)
+
+---
+
+### Electricity tariffs to be revised from tomorrow?
+
+*2024-07-15 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100522/electricity-tariffs-to-be-revised-from-tomorrow) · `en`
+
+The second electricity tariff revision of 2024 is likely to take effect from tomorrow (16), the Public Utilities Commission of Sri Lanka (PUCSL) said.
+
+PUCSL chairman Prof. Manjula Fernando stated that the commission will meet today in order to finalize the percentage of the tariff revision.
+
+As per the government’s policy to revise electricity tariffs quarterly, the first revision of 2024 took place on March 04, 2024, with a 21.9% reduction of the tariffs.
+
+The second revision is set to be announced later today after the PUCSL reviews the proposal submitted by the Ceylon Electricity Board (CEB), analyzes the data, and considers the recently obtained public opinions.
+
+Prof. Fernando further highlighted that the new tariffs will be announced this afternoon and is likely to be implemented from tomorrow (16).
+
+◼️
+
+[Data](articles/6fbf38bb.json)
+
+[Extended Data](ext_articles/6fbf38bb.ext.json)
 
 ---

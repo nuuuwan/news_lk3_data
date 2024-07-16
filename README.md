@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 23:35:44**
+As of **2024-07-16 23:55:09**
 
 ## Newspaper Stats
 
-*Scraped **35,602** Articles*
+*Scraped **35,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 337
 bbccomsinhala | 347
 newsfirstlk | 363
 islandlk | 2,018
-economynextcom | 2,105
+economynextcom | 2,118
 dailyftlk | 2,246
 adalk | 3,214
 adaderanalk | 4,113
-tamilmirrorlk | 4,298
+tamilmirrorlk | 4,300
 dailymirrorlk | 4,733
 virakesarilk | 5,555
 adaderanasinhalalk | 5,957
@@ -26,11 +26,41 @@ adaderanasinhalalk | 5,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,600 (100.0%) of 35,602 articles have been extended.
+35,602 (100.0%) of 35,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### இலங்கை அணியின் முன்னாள் கிரிக்கெட் வீரர் சுட்டுக்கொலை
+
+*2024-07-16 23:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அணியின்-முன்னாள்-கிரிக்கெட்-வீரர்-சுட்டுக்கொலை/175-340518) · `ta`
+
+இலங்கை அணியின் முன்னாள் கிரிக்கெட் வீரரான தம்மிக்க நிரோஷன் சுட்டுக் கொல்லப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+அம்பலாங்கொடை- கந்தேவத்தை பகுதியில் உள்ள அவரது இல்லத்திற்கு முன்பாக அவர் கொல்லப்பட்டதாகத் தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/f7e52b89.json)
+
+---
+
+### ஓமானில் பணிபுரியும் இலங்கையர்களுக்கு எச்சரிக்கை
+
+*2024-07-16 23:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓமானில்-பணிபுரியும்-இலங்கையர்களுக்கு-எச்சரிக்கை/175-340517) · `ta`
+
+ஓமான் தலைநகர் மஸ்கட்டில் பணிபுரியும் இலங்கையர்களை பாதுகாப்பாக இருக்குமாறு அந்த நாட்டுக்கான இலங்கை தூதரகம் அறிவுறுத்தியுள்ளது.
+
+ஓமானின் அல் -வாடி அல் -கபீர் பகுதியில் உள்ள பள்ளிவாசலுக்கு அருகில் நடத்தப்பட்ட துப்பாக்கிச் சூட்டில் 4 பாகிஸ்தான் பிரஜைகள் பலியாகினர். பலர் காயமடைந்தனர். இந்தப் பகுதியில் அதிகளவான இலங்கையர்கள் பணிபுரிந்து வருகின்றனர்.
+
+இந்த நிலையில். அங்கு மோதல் நிலைமை மேலும் அதிகரிக்கக்கூடும் என்ற அச்சம் நிலவுவதால் அங்குள்ள இலங்கையர்களை குறித்த பகுதிக்குச் செல்ல வேண்டாம் என ஓமானுக்கான இலங்கைத் தூதரகம் அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/73627dcd.json)
+
+---
 
 ### 41-year-old man shot dead in Ambalangoda
 
@@ -50,19 +80,27 @@ During that period, he was also the captain of the Under-19 cricket team of a le
 
 [Data](articles/575847d0.json)
 
+[Extended Data](ext_articles/575847d0.ext.json)
+
 ---
 
-### ஆசிரியர் - அதிபர்களின் திடீர் அறிவிப்பு
+### Author - Sudden announcement of the Chancellor
 
 *2024-07-16 22:52:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-அதிபர்களின்-திடீர்-அறிவிப்பு/175-340516) · `ta`
 
-எதிர்வரும் 22ஆம் திகதி முதல் இரண்டு வாரங்களுக்கு சட்டப்படி வேலை செய்யும் தொழிற்சங்க நடவடிக்கையில் ஈடுபட ஆசிரியர் - அதிபர் தொழிற்சங்க கூட்டமைப்பு தீர்மானித்துள்ளது.
+The Chancellor Trade Union Federation will initiate legal union actions starting from the 22nd of this month for two weeks. This decision was announced by Joseph Stalin, the general secretary of the Sri Lanka Teachers Union, during a media briefing in Colombo on the 16th.
 
-கொழும்பில் இன்று (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட இலங்கை ஆசிரியர் சங்கத்தின் பொதுச் செயலாளர் ஜோசப் ஸ்டாலின் இதனைத் தெரிவித்தார்.
+🟩
+
+The Teacher -Chancellor Trade Union Federation has decided to engage in union action that works legally for two weeks from the 22nd of this month.
+
+Joseph Stalin, general secretary of the Sri Lanka Teachers Union, who was present at a media briefing in Colombo today (16).
 
 ◼️
 
 [Data](articles/7231cc1e.json)
+
+[Extended Data](ext_articles/7231cc1e.ext.json)
 
 ---
 
@@ -334,6 +372,26 @@ He was speaking at a media briefing held in Colombo today (16), Mr. Joseph Stali
 
 ---
 
+### Sri Lanka to reduce CEB cadres gradually from 26,000 with restructure
+
+*2024-07-16 20:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-reduce-ceb-cadres-gradually-from-26000-with-restructure-172378/) · `en`
+
+ECONOMYNEXT – Sri Lanka will gradually reduce the 26,000 approved cadre in the state-run Ceylon Electricity Board (CEB) through Voluntary Retirement Scheme (VRS) and by not filling retired cadre position unless it is necessary while restructuring CEB, Energy Minister Kanchana Wjesekera said.
+
+Wijesekera in the past has said the CEB could be managed with only 5,000 cadres instead of the current approved 26,000.
+
+“I still believe we can do with reducing the cadres by a large number,” Wjesekera told reporters at a media briefing in Colombo on Tuesday (16).
+
+“This is why we have introduced the institutional restructuring. We have 12-month, 18-month, and 24-month time frame for institutional restructuring. We have to go with that time frame,” he said.
+
+“We cannot oust 21,000 out of the 26,000 cadres because we only need 5,000. Out of the 21,000, some should leave with VRS and some others should leave through retirement. Annually 1,200 employees retire.”
+
+...
+
+[Data](articles/8840b9cc.json)
+
+---
+
 ### Police firing on tipper vehicle in Kilinochchi: one injury
 
 *2024-07-16 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188635) · `ta`
@@ -403,6 +461,24 @@ The public said that the earthquakes were felt at 2.7 magnitude at a distance of
 [Data](articles/3d857ee4.json)
 
 [Extended Data](ext_articles/3d857ee4.ext.json)
+
+---
+
+### One million new voters in Sri Lanka’s 2024 presidential poll
+
+*2024-07-16 19:08:00* · [`economynextcom`](https://economynext.com/one-million-new-voters-in-sri-lankas-2024-presidential-poll-172376/) · `en`
+
+ECONOMYNEXT – Sri Lanka will see around one million new voters out of total 17. 1 million in the next presidential poll which will be held after September 17, a senior Election Commission official said.
+
+The Election Commission on Tuesday (16) said it will declare the date of election before end of this month. The Commission will have powers to announce the poll from July 17, according to the constitution.
+
+“There are around 200,000 voters get registered as new voters every year. We last had elections in 2019 and from then, there are around one million new voters registered,” Saman Sri Ratnayake, Commissioner General of Elections told EconomyNext.
+
+More the 17.1 million voters will be eligible to case their votes in the upcoming presidential to elect the ninth executive president of Sri Lanka. (Colombo/July 16/2024)
+
+◼️
+
+[Data](articles/044e1451.json)
 
 ---
 
@@ -648,6 +724,50 @@ The resources required by SLC contributes to this program.
 
 ---
 
+### Sri Lanka power price cuts from strong rupee, cheaper coal, correct decisions: Minister
+
+*2024-07-16 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-power-price-cuts-from-strong-rupee-cheaper-coal-correct-decisions-minister-172366/) · `en`
+
+ECONOMYNEXT – Sri Lanka has been able to lower electricity prices in 2024 due to a stronger rupee, lower coal prices and correct decisions made including to raise prices when costs went up, Energy Minister Kanchana Wijesekera said.
+
+From July 2024, electricity prices were cut by as much as 32 percent for households, and 38 percent for small domestic users and about 33 percent for industries and hotels.
+
+Sri Lanka rupee was close to 400 rupees during the economic crises and interest rates were 36 percent, Minister Wijesekera said.
+
+Due to selling below cost, the Ceylon Electricity Board, owed money to the Ceylon Petroleum Corporation, banks, thermal and renewable power producers he said.
+
+The central bank through deflationary policy allowed the rupee to appreciate to around 320 to the US dollar by end 2023 and it is now round 305 to the US dollar.
+
+Meanwhile Minister Wijesekera said many borrowings had been settled from profits made in recent months and interest rates were now down to 15 percent.
+
+...
+
+[Data](articles/a1e59e4f.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 303.70/304.00 to US dollar
+
+*2024-07-16 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-70-304-00-to-us-dollar-172370/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 303.70/304.00 to the US dollar on Tuesday, from 301.90/302.40 to the US dollar on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.82/92 percent, up from 10.80/90 percent.
+
+A bond maturing on 15.12.2027 closed at 11.65/75 percent, down from 11.70/80 percent.
+
+A bond maturing on 01.05.2028 closed at 11.80/90 percent, down from 11.85/90 percent.
+
+A bond maturing on 15.09.2029 closed at 12.05/20 percent, down from 12.10/15 percent.
+
+A bond maturing on 01.10.2032 closed at 12.30/55 percent. (Colombo/Jul16/2024)
+
+◼️
+
+[Data](articles/08c2d3f8.json)
+
+---
+
 ### Amendment to amend the Article of the Constitution on the President's term
 
 *2024-07-16 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188611) · `ta`
@@ -665,6 +785,32 @@ The Cabinet has approved the proposal submitted by the President, Justice, Priso
 [Data](articles/0be0d19b.json)
 
 [Extended Data](ext_articles/0be0d19b.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Sampath and Pan Asia banks push turnover
+
+*2024-07-16 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-sampath-and-pan-asia-banks-push-turnover-172362/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 0.11 percent, or 13.23 points, at 11,878; while the more liquid S&P SL20 Index closed up 0.03 percent, or 1.11 points, at 3,474.
+
+Turnover was 1 million. Banks and capital goods sectors contributed the most.
+
+“All in all there was mixed signals in the  market today, with the ASPI closing in red, and the S&P in green,” Softlogic Stockbrokers said.
+
+“Market is holding on, though we are yet to see big numbers on the board.”
+
+Two crossings brought in nearly half of the day’s turnover with interest picking up on banking sector counters.
+
+Local activity was seen on Pan Asia Banking Corporation Plc. This was local institutions buying and selling, which contributed Rs256mn to the turnover, and the share closed up at 21.00.
+
+“Investor interest was seen on the banking counters especially from the foreign front.”
+
+...
+
+[Data](articles/5d9979a6.json)
 
 ---
 
@@ -1046,6 +1192,26 @@ In addition, the police have been asked to take action against the police statio
 
 ---
 
+### Sri Lanka Kelaniya land for BoI housing project
+
+*2024-07-16 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-kelaniya-land-for-boi-housing-project-172357/) · `en`
+
+ECONOMYNEXT – An 8-acre land at Vedamulla, Kelaniya under the Sri Lanka Land Development Corporation will be provided for a Board of Investment approved housing project to H M K Property Developers (Pvt) Ltd, a government statement said.
+
+Cabinet approved the proposal to provide a portion of land 8 acres 2 rood 16.26 perches in extent “identified for implementation of the proposed project to the said company on the current assessment by the Chief Assessor of the Government.”
+
+Approval was previously given at a Cabinet Sub Committee meeting on Investment Promotion to provide a 12-acre plot of land for the project.
+
+However, since H M K Property Developers (Pvt) Ltd had failed to comply with relevant agreements, the land was not released to the company.
+
+“A request has been again made by the HMK Property Developers (PM) Ltd through the Board of Investment of Sri Lanka to obtain the said portion of land for implementation of a housing project under 3 stages.” (Colombo/Jul16/2024)
+
+◼️
+
+[Data](articles/e1551518.json)
+
+---
+
 ### The bride girl caught the vehicle
 
 *2024-07-16 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198877) · `si`
@@ -1291,6 +1457,24 @@ More than 50% of the country will create a large number of lives in the Art and 
 [Data](articles/451926a0.json)
 
 [Extended Data](ext_articles/451926a0.ext.json)
+
+---
+
+### Sri Lanka Nanu Oya Railway facelift to be completed with Tourist Board funds
+
+*2024-07-16 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-nanu-oya-railway-facelift-to-be-completed-with-tourist-board-funds-172348/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to develop the picturesque hill country Nanu Oya Railway Station with Tourism Development Authority funds, Cabinet Spokesperson minister Bandula Gunawardena said.
+
+“The initial value of the modernization project was 74.63 million rupees, but this has increased to 101.81 million rupees due to the cost of building materials rising,” Gunawardena told reporters on Tuesday.
+
+“The funds will be taken from the Central Engineering Consultancy Bureau while another portion of funds will be taken from the Sri Lanka Tourism Development Authority and the Sri Lanka Tourism Promotion Bureau,” Gunawardena said.
+
+The Nanu Oya Railway station attracts both local and international travelers vacationing in Nuwara Eliya and other hill country towns. (Colombo/Jul16/2024)
+
+◼️
+
+[Data](articles/72ae46b9.json)
 
 ---
 
@@ -1554,6 +1738,48 @@ Azoulay will take part at the celebration of the 75th Anniversary of Sri Lanka�
 
 ---
 
+### Consumer confidence in Sri Lanka increased to all-time high in June 2024: survey
+
+*2024-07-16 14:07:00* · [`economynextcom`](https://economynext.com/consumer-confidence-in-sri-lanka-increased-to-all-time-high-in-june-2024-survey-172324/) · `en`
+
+ECONOMYNEXT — Three consumer confidence indices run by an independent polling institute increased to their highest levels since 2021 in June besides remaining at pessimistic levels.
+
+The three indices, generated by the Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS), showered significant increase for June, the institute said.
+
+Their Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and the national economy increased 7 points to 36 points. The Index of Consumer Expectations (ICE), which tracks future perceptions also increased 7 points to 40 points, and the Index of Current Conditions (ICC), a measure of perceptions of current conditions, increased 6 points to 30 points.
+
+“This is the highest indices value recorded since late 2021,” the IHP said.
+
+The Current Buying Conditions measure reached a new peak of 29 points in June, indicating an increased demand for purchases, the institute said.
+
+...
+
+[Data](articles/92f642df.json)
+
+---
+
+### Sri Lanka launches essay competition on Economic Transformation bill
+
+*2024-07-16 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-essay-competition-on-economic-transformation-bill-172327/) · `en`
+
+ECONOMYNEXT – Sri Lanka will launch an island-wide newspaper article competition on public financial management, to raise awareness and engagement among youth.
+
+The government wants to educate school students about the Financial Management Bills and the Economic Transformation Bills, the president’s media division said.
+
+Articles in Sinhala, Tamil, and English, need to be submitted on the theme “My Country Developed by 2048 through Formal Public Financial Management and Sustainable Economic Transformation”.
+
+Winners and winning schools will receive prizes and certificates, the PMD said.
+
+Students from all government schools, piriven, private schools approved by the Ministry of Education, and bhikkus and bhikkunees are eligible to participate.
+
+The deadline for applications for this competition, organized by the Presidential Secretariat, the Ministry of Education and the Government Information Department, is on July 31.
+
+...
+
+[Data](articles/cf5b37d6.json)
+
+---
+
 ### I will act after marriage - Mrs. Varalakshmi Sarathkumar
 
 *2024-07-16 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188597) · `ta`
@@ -1629,6 +1855,46 @@ Chasing a 139-run target, Colombo team passed the target to bat first and scored
 [Data](articles/b990dbc0.json)
 
 [Extended Data](ext_articles/b990dbc0.ext.json)
+
+---
+
+### Sri Lanka Water Board to sell under formula from 2025
+
+*2024-07-16 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-water-board-to-sell-under-formula-from-2025-172320/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a cost-based price formula for state-run National Water Supply and Drainage Board, Minister Bandula Gunawardana said.
+
+The price formula will be implemented from next year, Minister Gunawardana told reporters Tuesday.
+
+The price formula is part of reforms linked to a 100 million US dollar budget support loan from the Asian Development Bank.
+
+The Water Board hiked rates after years of running losses, following an economic collapse which also pushed up costs.
+
+Though the Water Board is now making operational profits, it is not making cashflow to settle loans. (Colombo/July16/2024)
+
+◼️
+
+[Data](articles/d3beb85b.json)
+
+---
+
+### Sri Lanka prepares policy to admit foreign university students
+
+*2024-07-16 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-prepares-policy-to-admit-foreign-university-students-172313/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved a policy to admit foreign students to 26 local state and private universities, based on internationally accepted minimum qualifications, Cabinet Spokesman Bandula Gunawardena, said.
+
+“The Cabinet approved the proposal to consider the minimum qualification recognized for university admission by the 193 United Nations Member countries, as the minimum qualification to enroll for degree programmes,” Gunawardena told reporters on Tuesday.
+
+Exceptional cases which are not covered by the aforesaid, will be considered according to the UK NARIC institution specified qualifications, he said.
+
+Sri Lanka can become a ‘knowledge hub’ through widening the opportunities for admission of foreign students to the 26 degree awarding institutions which are recognized by Section 25(A) of the University Act in Sri Lanka, the minister said.
+
+The 17 state universities under the University Grants Commission allocate 5 percent of enrollments for foreign students annually.
+
+...
+
+[Data](articles/f2a342d3.json)
 
 ---
 
@@ -1932,6 +2198,20 @@ Oman is constantly intervened to resolution conflict and an extensive investigat
 
 ---
 
+### Sri Lanka approves five firms to run airport foreign exchange counters
+
+*2024-07-16 12:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-approves-five-firms-to-run-airport-foreign-exchange-counters-172293/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved five parties to run foreign exchange counters at the Bandaranaike International Airport, Minister Bandula Gunawardana said.
+
+Bank of Ceylon, People’s Bank, Samapth Bank and Commercial Bank and Thomas Cook, were selected after a competitive tender, he said.
+
+◼️
+
+[Data](articles/5e58ed3c.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-07-16 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188588) · `ta`
@@ -1994,6 +2274,28 @@ The Cabinet has approved the proposal put forward by Water Supply and Estate Inf
 
 ---
 
+### Sri Lanka to release confiscated ginger haul for Ayurveda medicine production
+
+*2024-07-16 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-release-confiscated-ginger-haul-for-ayurveda-medicine-production-172296/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs will release 50 metric tonnes of ginger it confiscated, for use in the Ayurveda medicine production, Cabinet spokesman minister Bandula Gunawardena said.
+
+“Due to the revere scarcity of medicinal ginger in the market at present, 7 drugs which require it to be produced are in short supply,” Gunawardena told reporters on Tuesday, announcing the week’s cabinet decisions.
+
+Medicinal ginger is used as raw material for 87 percent of medicine products manufactured by the Sn Lanka Ayurvedic Drugs Corporation, he said.
+
+The ginger, which was brought into the country through illegal methods [nila novana marga] will be released for medicine production, in a way that wont harm local ginger farmers, the minister said.
+
+“The Cabinet of Ministers has approved the proposal presented by the Minister of Health to obtain the said stock
+
+of medicinal ginger to the Sri Lanka Ayurvedic Drugs Corporation under a concessionary price.” (Colombo/Jul16/2024)
+
+◼️
+
+[Data](articles/5c803bd3.json)
+
+---
+
 ### Rice - Kottu-Plane Triced down
 
 *2024-07-16 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198869) · `si`
@@ -2033,371 +2335,5 @@ Notes: The only computer resource in Tamil is the only computer in Tamil Nadu, l
 [Data](articles/45a6fbdf.json)
 
 [Extended Data](ext_articles/45a6fbdf.ext.json)
-
----
-
-### Eventually Date: 1 crore eligible to vote
-
-*2024-07-16 11:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதியில்-திகதி-1-கோடி-பேர்-வாக்களிக்க-தகுதி/175-340482) · `ta`
-
-On February 14, 2024, all individuals aged 18 and above will be eligible to vote, adding 1 crore new voters. The Election Commission plans to announce the presidential election date by the end of July. Nominations will open 16 to 21 days post-announcement, with elections expected within four to six weeks thereafter.
-
-🟩
-
-The media briefing to clarify to journalists on the next presidential election is currently underway at the Elections Secretariat.
-
-Accordingly, on February 14, 2024, all the people who have completed the age of 18 have been added to the voter list as new voters.
-
-It has been announced that 40 thousand people are eligible to vote in the presidential election.
-
-Commenting on the press conference, the Chairman of the Commission. Ratnayake said the Election Commission would announce the presidential date for the presidential election by the end of July.  அத்துடன் இந்த திகதியை அறிவிப்பதில் தாமதம் ஏற்படாது என்றார்.
-
-He also said that the presidential election, the constitution and the president's law. He said nominations for the presidential election would be accepted within 16 to 21 days following the announcement of a referendum.
-
-He added that the presidential election should be held within four to six weeks from the day the nominations were accepted.
-
-...
-
-[Data](articles/c52f3690.json)
-
-[Extended Data](ext_articles/c52f3690.ext.json)
-
----
-
-### Four killed, several wounded by gunfire near mosque in Oman
-
-*2024-07-16 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100550/four-killed-several-wounded-by-gunfire-near-mosque-in-oman) · `en`
-
-Four people were killed and several wounded by gunfire in the vicinity of a mosque in Oman, the Omani police said on Tuesday, a rare breach of security in one of the most stable countries in the Middle East.
-
-“All security measures and procedures have been taken to deal with the situation, and procedures for gathering evidence and investigation are being completed,” the police said in a statement.
-
-The U.S. embassy in the capital Muscat said it is following reports of the shooting incident in Wadi al-Kabir, in the governorate of the capital city Muscat.
-
-“U.S. citizens should remain vigilant, monitor local news and heed directions of local authorities,” it said in a statement.
-
-Oman has maintained its neutrality in the turbulent region and mediated in disputes including between the United States and Iran.
-
-◼️
-
-[Data](articles/295a547b.json)
-
-[Extended Data](ext_articles/295a547b.ext.json)
-
----
-
-### Rajitha still undecided on supporting Ranil at upcoming election
-
-*2024-07-16 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100549/rajitha-still-undecided-on-supporting-ranil-at-upcoming-election) · `en`
-
-Samagi Jana Balawegaya (SJB) MP Dr. Rajitha Senaratne says that he is yet to take a final decision as to whether he will support he incumbent President at the upcoming Presidential Election.
-
-The former Minister emphasized that he believes the economic programmes being carried out by the President and the government should be continued.
-
-Senaratne expressed these views during the ‘Derana 360’ programme, aired on TV Derana last night (15).
-
-Asked about when he plans on officially declaring his support to President Ranil Wickremesinghe and join him on stage, he responded, “I have not taken any such decision. There is no such date to take the stage. I could have gone back then if I wanted to.”
-
-He clarified that he has not yet had any discussions with the President about extending his support, stating, “He hasn’t even talked to me about it yet. Now what would have happened to Prabhakaran if he had revised these things without supporting Mahinda Rajapaksa in the same way back then?”
-
-...
-
-[Data](articles/887b0f72.json)
-
-[Extended Data](ext_articles/887b0f72.ext.json)
-
----
-
-### Don't go to sea until re -announcement!
-
-*2024-07-16 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188581) · `ta`
-
-Due to severe turbulence in the Arabian Sea and Bay of Bengal caused by strong winds, the Department of Meteorology has issued a red alert, advising the Navy and fishermen against venturing into these waters. The forecast predicts wind speeds of 70 to 80 km/h during the South Upper Seasonal Transition. Those already at sea are urged to return to shore or seek safety, while all maritime communities are encouraged to monitor future weather updates from the Department of Meteorology.
-
-🟩
-
-The Department of Meteorology has issued a red telephone warning to the Navy and fishermen as the sea is turbulent with strong winds in the Arabian Sea and Bay of Bengal.
-
-The Department of Meteorology has said that the South Upper Seasonal Transition is likely to blow at speeds of 70 to 80 km / h.
-
-Therefore, the Marines and the fishermen community have been advised not to go to the marine areas mentioned in the red color below.
-
-Those in the waters are advised to return to the shores immediately or go to safe areas.
-
-The Navy and Fisheries Communities are also requested to look into the future weather forecasts published by the Department of Meteorology.
-
-◼️
-
-[Data](articles/960333fd.json)
-
-[Extended Data](ext_articles/960333fd.ext.json)
-
----
-
-### Bright Rice, Masonry Prices Reduce
-
-*2024-07-16 11:39:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரைட்-ரைஸ்-கொத்து-விலைகள்-குறைப்பு/175-340481) · `ta`
-
-Harishana Rukshan, head of the All Ceylon Restaurants and Snacks Owners Association, announced price cuts in response to lower electricity tariffs. Bright Rice and Masonry prices will drop by 25 rupees, while snacks like paratha and egg bread will be cheaper by 10 rupees.
-
-🟩
-
-The President of the All Ceylon Restaurants and Snacks Owners Association, Harishana Rukshan, said that it has decided to reduce food prices in restaurants as a parallel to the reduction of electricity tariffs.
-
-Accordingly, he has also announced that Bright Rice, Masonry and Rice have been reduced by 25 rupees and snacks including paratha and egg bread for 10 rupees.
-
-◼️
-
-[Data](articles/940702b7.json)
-
-[Extended Data](ext_articles/940702b7.ext.json)
-
----
-
-### Special announcement of Elections Commission on presidential election
-
-*2024-07-16 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188577) · `ta`
-
-The Elections Commission Chairman announced the presidential vote date will be revealed by the end of July, ensuring adherence to constitutional and electoral laws. The election is set post-September 17, with 771,040 new voters now eligible, totaling 1,714,000 voters. Governors were urged to halt illicit appointments ahead of the election.
-
-🟩
-
-Elections Commission Chairman RMAL Ratnayake said the date of the presidential vote will be officially announced at the end of July.
-
-He said this at a special media briefing organized by the Chairman of the Election Commission to clarify the news on the presidential election.
-
-The Chairman of the Elections Commission added that we will act in accordance with the provisions of the Constitution and the Presidential Election Act and that there is no barrier to conducting the election.
-
-Meanwhile, the Chairman of the Elections Commission said that the presidential election would be held after September 17.
-
-In this case, the Chairman of the Elections Commission said that 76 thousand new voters have qualified for voting in the presidential election and this time a million 71 lakhs 40 thousand voters have been eligible to vote in the presidential election.
-
-...
-
-[Data](articles/53e63e42.json)
-
-[Extended Data](ext_articles/53e63e42.ext.json)
-
----
-
-### A price formula for water charges
-
-*2024-07-16 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198868) · `si`
-
-Cabinet approves new water charge pricing formula set to launch next year, as announced by Minister Bandula Gunawardena.
-
-🟩
-
-Cabinet spokesman Minister Bandula Gunawardena says Cabinet has approved the introduction of a price formula for water charges.
-
-The price formula is scheduled to be implemented next year.
-
-◼️
-
-[Data](articles/e9125adf.json)
-
-[Extended Data](ext_articles/e9125adf.ext.json)
-
----
-
-### UNESCO Director-General arrives in Sri Lanka
-
-*2024-07-16 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100548/unesco-director-general-arrives-in-sri-lanka) · `en`
-
-The Director-General of the United Nations Educational, Scientific and Cultural Organization (UNESCO), Audrey Azoulay, has arrived in Sri Lanka on Tuesday.
-
-The Director-General of UNESCO, accompanied by a delegation, reached the Bandaranaike International Airport (BIA) in Katunayake this morning (15).
-
-She is visiting the island on an invitation from the Government of Sri Lanka.
-
-During her three-day visit, the Director-General of UNESCO is scheduled to meet and hold discussions with President Ranil Wickremesinghe, Education Minister Susil Premajayantha, Acting Foreign Affairs Minister Tharaka Balasuriya and other high-level government officials.
-
-She will take part at the celebration of the 75th Anniversary of Sri Lanka’s Membership of UNESCO at the Nelum Pokuna Theatre and travel to UNESCO World Heritage Sites across the island.
-
-◼️
-
-[Data](articles/25b9b663.json)
-
-[Extended Data](ext_articles/25b9b663.ext.json)
-
----
-
-### Trump escaped as he turned his head in the last second
-
-*2024-07-16 11:26:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடைசி-நொடியில்-தலை-திரும்பியதால்-தப்பினார்-ட்ரம்ப்/50-340480) · `ta`
-
-Donald Trump narrowly escaped a shooting incident during a public event in the U.S., where a supporter fired upon him but missed due to Trump turning his head at the critical moment. The shooter, identified as Thomas Mathew Crooks, was killed by security forces. Trump was unharmed and later left for treatment in New Jersey.
-
-🟩
-
-Former US President Donald Trump's head turning his head in the last moment has been released before he was shot.
-
-Former President Donald Trump's shooting at a public meeting of 50 thousand people in the United States. He survived the bomb in the ear. His supporter died in the attack.
-
-Security forces shot dead a 20 -year -old youth named Thomas Mathew Crooks, who fired.
-
-In the meantime, the security forces were immediately rescued by the security forces and taken to Butler Memorial Hospital. Where he was treated. A few hours later, he left for New Jersey by plane.
-
-In this context, Trump's head turning his head in the last moment before the firearm was released.. Talking at the crowd Trump turns his head in front of a micronolin to flow bombs. Bombs flow toward his ear at this interval. If that had not been turned, they would have jumped on the back of Trump's head.
-
-...
-
-[Data](articles/91ca7c46.json)
-
-[Extended Data](ext_articles/91ca7c46.ext.json)
-
----
-
-### The killer who killed 42 women
-
-*2024-07-16 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198867) · `si`
-
-A man was arrested after 42 women's bodies were found in a garden near Nairobi Citygate, Kenya. He confessed to killing them all. The 33-year-old suspect lived nearby and had suspicious items and mobile phones linked to the murders in his home.
-
-🟩
-
-The suspect was arrested following a large number of women's bodies in a garden near the Nairobi Citugate in Kenya.
-
-After the arrest, he confessed that he had killed 42 women and 42 women, killing 42 women.
-
-The 33-year-old suspect was a person who lived near the garden.
-
-Mobile phones were discovered that various suspicious goods and murdered women were in his house.
-
-◼️
-
-[Data](articles/58dad270.json)
-
-[Extended Data](ext_articles/58dad270.ext.json)
-
----
-
-### Advancement of non-academic masterpieces trapped with heroin
-
-*2024-07-16 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198866) · `si`
-
-A non-academic school employee was arrested with 210 grams of heroin by the Matara Crimes Division near Weligama. The suspect, linked to a drug network in Midigama, allegedly received drugs from organizers for distribution. Despite her role, the school was not implicated in the drug trade, which focused on supplying addicts rather than selling within the institution. Further inquiries are ongoing by the Matara Crimes Division and Weligama Police.
-
-🟩
-
-A non-academic servant of a government school has been arrested with 210 grams of heroin.
-
-The suspect was arrested by the Matara Crimes Division near the Bodhiwa Viharaya in Weligama Police in the evening yesterday (15).
-
-She has been a non-academic employee of a school in Weligama and the drug dealer of an organized crime and drug dealer in the Midigama area has been made.
-
-Police investigations have revealed that the suspects have been involved in drug trafficking recently and have been provided with drugs from the persons who are conducting the drug network.
-
-The suspects have been identified as drugs from the suspect and drug trafficking on a small scale.
-
-The suspect had done to possess the most drugs that she receives to her, police said.
-
-Although a woman serving at a school, the school has not been involved in this racket, it is reported that the drug has not been sold for addicts.
-
-Matara Crimes Division and Weligama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f935c557.json)
-
-[Extended Data](ext_articles/f935c557.ext.json)
-
----
-
-### Ministry of Education announced on the subject of aesthetic subjects
-
-*2024-07-16 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198865) · `si`
-
-The Ministry of Education emphasizes aesthetic subjects as crucial in all levels of education, from junior to senior secondary, including GCE Ordinary Level. It aims to counter misinformation about these subjects.
-
-🟩
-
-It states that aesthetic subjects are an essential part of normal education according to the proposed educational reforms.
-
-Aesthetic subjects can be further studied in junior, secondary education and senior secondary education and the GCE Ordinary Level and GCE O / L. For the Aesthetic subjects, the aesthetic subjects can also stand for Aesthetic subjects.
-
-The Ministry of Education is acting to exclude the false statements that are suspicious of this.
-
-◼️
-
-[Data](articles/73c22e2d.json)
-
-[Extended Data](ext_articles/73c22e2d.ext.json)
-
----
-
-### 3 girls, boy magic
-
-*2024-07-16 11:08:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/3-சிறுமிகள்-சிறுவன்-மாயம்/76-340477) · `ta`
-
-Four teenagers—Muralikrishnan Lakshika, Rajaguru Mithusha, Sundarraj Darshini, and Rajakuru Gopisagar—aged between 15 and 16, went missing from their homes on Sunday evening. Their parents filed a complaint at the Talawakelle Police Station on Monday, stating the children left without informing them. The parents have asked anyone with information to contact 0764612289 or 0771546724.
-
-🟩
-
-Muralikrishnan Lakshika (age 16), Rajaguru Mithusha (16), Sundarraj Darshini (age 16) and boy Rajakuru Gopisagar (15) were missing.
-
-Those who left their homes on Sunday evening (14) have lodged a complaint at the Talawakelle Police Station by their parents on Monday (15).
-
-Parents complained that the girls, including the child, went out of the house without telling their parents.
-
-At the same time, the parents have requested that they contact the number 0764612289 and 0771546724 if they are informed.
-
-◼️
-
-[Data](articles/fe9a80c3.json)
-
-[Extended Data](ext_articles/fe9a80c3.ext.json)
-
----
-
-### Presidential Election date to be announced this month
-
-*2024-07-16 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100547/presidential-election-date-to-be-announced-this-month) · `en`
-
-The date for the upcoming Presidential Election will be announced before the end of this month, according to the Chairman of the Elections Commission of Sri Lanka, R.M.A.L. Rathnayake.
-
-Speaking during a special press conference on Tuesday (16), he also said that nothing will affect the holding of the election on that date.
-
-Mr. Ratnayake also said that anyone can consider these dates which are determined in accordance with the Constitution and the President’s Act.
-
-He added that the accepting of nominations for the presidential poll should be carried out between the 16th and 21st day after the publishing of the notice of the poll.
-
-The chairman also explained that the presidential election should be held within 4-6 weeks from the date of acceptance of nominations.
-
-◼️
-
-[Data](articles/282f038c.json)
-
-[Extended Data](ext_articles/282f038c.ext.json)
-
----
-
-### War crimes are exaggerated- where 40000 civilians were killed if their human remains?Sarath Fonseka question?
-
-*2024-07-16 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188578) · `ta`
-
-Sarath Fonseka disputes war crime claims, questioning the whereabouts of human remains if 40,000 civilians died. He acknowledges some post-war incidents but denies war-time atrocities, highlighting his rescue efforts and the strategic use of heavy weaponry.
-
-🟩
-
-Former military commander and United People's Power Member Sarath Fonseka has rejected the war crimes.
-
-Sarath Fonseka has rejected the allegations that the war crimes have been committed during the war with the Liberation Tigers of Tamil Eelam (LTTE).
-
-Sarath Fonseka has questioned where their human remains are skeletons if 40,000 civilians were killed.
-
-However, he did not reject some incidents after the war, but I started an investigation into the incident, but I was sacked.
-
-Sarath Fonseka said, "I have rescued 150,000 people from the Flood, on May 19, 2009, on May 19, 2009.
-
-"We have used heavy weapons such as artillery, etc., especially in the five months of 2009," Sarath Fonseka said.
-
-He said that I lost 2000 soldiers in 2009, and I lost 2000 soldiers throughout 2008 but I lost 2000 soldiers because of the four and a half months of 2009.
-
-...
-
-[Data](articles/d05d15f5.json)
-
-[Extended Data](ext_articles/d05d15f5.ext.json)
 
 ---

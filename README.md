@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 12:53:50**
+As of **2024-07-16 13:05:09**
 
 ## Newspaper Stats
 
-*Scraped **35,522** Articles*
+*Scraped **35,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,198
-adaderanalk | 4,098
+adaderanalk | 4,099
 tamilmirrorlk | 4,291
 dailymirrorlk | 4,733
 virakesarilk | 5,535
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,940
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,515 (100.0%) of 35,522 articles have been extended.
+35,515 (100.0%) of 35,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### Cabinet grants policy approval to amend Constitutional clause on President’s term
+
+*2024-07-16 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100552/cabinet-grants-policy-approval-to-amend-constitutional-clause-on-presidents-term) · `en`
+
+The Cabinet of Ministers has given policy approval to amend paragraph (b) of Article 83 of the Constitution by substituting the clause “exceeding six years” with “exceeding five years” with regard to the tenure of the President.
+
+The bill, prepared accordingly by the legal draftsman, has received clearance from the Attorney General.
+
+◼️
+
+[Data](articles/148c4f56.json)
+
+---
 
 ### நான் அரசியலில் இருக்கும் வரை அனுரகுமார ஜனாதிபதியாவதற்கு அனுமதிக்க மாட்டேன் - லொகான் ரத்வத்தையின் கருத்திற்கு ஐக்கிய மக்கள் சக்தி கண்டனம்
 
@@ -1537,20 +1551,6 @@ Secretary Dharmakeerthi emphasized that these advancements were particularly not
 [Data](articles/de58817a.json)
 
 [Extended Data](ext_articles/de58817a.ext.json)
-
----
-
-### 
-
-*2024-07-16 03:04:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84382) · `en`
-
-Rajavarothayam Sampanthan: The Political Journey of a “Perunthalaiver” (Great Leader) –  Part 2.
-
-The funeral of veteran Tamil political leader Rajavarothayam Sampanthan took place   in Trincomalee on  7th July 2024.Large crowds  bade farewell to the Nonagenarian Trincomalee Parliamentarian who had served as MP for 32 years. Among those who paid homage to Sampanthan  in Trinco was   Sri Lankan President Ranil Wickremesinghe. Earlier  the President along with first lady Dr.Maithree Wickremesinghe had paid their respects in Colombo when the senior Tamil leader’s mortal remains were  kept for viewing at the AF Raymonds funeral parlour.
-
-...
-
-[Data](articles/d7753e5a.json)
 
 ---
 

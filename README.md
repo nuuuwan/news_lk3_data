@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 18:24:15**
+As of **2024-07-16 18:36:15**
 
 ## Newspaper Stats
 
-*Scraped **35,569** Articles*
+*Scraped **35,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,207
+adalk | 3,208
 adaderanalk | 4,108
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,567 (100.0%) of 35,569 articles have been extended.
+35,569 (100.0%) of 35,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### රජයේ සීටී ස්කෑන් යන්ත්‍ර 44න් 7ක් අක්‍රීයයි
+
+*2024-07-16 18:24:59* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-සීටී-ස්කෑන්-යන්ත්‍ර-44න්-7ක්-අක්‍රීයයි/11-410819) · `si`
+
+රජයේ රෝහල්වල තිබෙන  සීටී ස්කෑන් යන්ත්‍ර 44න් යන්ත්‍ර  07 ක් මේ වන විට  දෝෂවලට ලක් වී තිබෙන බවත්, මේ නිසා රෝගී ජනතාව දැඩිදුෂ්කරතාවන්ට පත්වන බවත් රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය සඳහන් කරයි.
+
+බිඳවැටී තිබෙන්නේ  රත්නපුර මහ රෝහල, කරවනැල්ල මූලික රෝහල, ඇඹිලිපිටිය දිස්ත්‍රික් මහ රෝහල, හම්බන්තොට මහ රෝහ‍ලේ පිළිකා ප්‍රතිකාර ඒකකය, කල්මුනේ මූලික රෝහල, කළුතර මහ රෝහල සහ කොළඹ ජාතික රෝහලේ බාහිර රෝගී අංශය සතු යන්ත්‍ර බවද එම සංගමය පෙන්වා දෙයි. කරවනැල්ල රෝහලේ යන්ත්‍රය පෙබරවාරි මස 15 වැනිදා සිට බිඳවැටී ඇත. එම රෝහලේ  රෝගීන් කෑගල්ල මහ රෝහල දක්වා ප්‍රවාහනය කර පරික්ෂණ සිදුකෙරේ. රත්නපුර මහ රෝහලේ යන්ත්‍රය දැනට සති 2ක සිටද, ඇඹිලිපිටිය දිස්ත්‍රික් මහ රෝහලේ යන්ත්‍ර පසුගිය  30වැනිදා සිට  බිඳ වැටී ඇත.
+
+...
+
+[Data](articles/0d2e03de.json)
+
+---
 
 ### CTU to take legal action over govt’s one-time allowance
 
@@ -49,6 +63,8 @@ The Cabinet of Ministers yesterday approved a proposal to pay a Rs. 10,000 one-t
 ...
 
 [Data](articles/9cf5b195.json)
+
+[Extended Data](ext_articles/9cf5b195.ext.json)
 
 ---
 
@@ -104,21 +120,31 @@ In 2023, the winner of the “Grand Prize of the Traditional French Baguette,”
 
 ---
 
-### මේ දිනවල ළමයින් අතර පවතින උණ ගැන පරිස්සමෙන්
+### Watch out of the fever between the kids these days
 
 *2024-07-16 16:43:13* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දිනවල-ළමයින්-අතර-පවතින-උණ-ගැන-පරිස්සමෙන්/11-410811) · `si`
 
-මෙම දිනවල ළමයින් අතර උණ සමග කැස්ස හෙම්බිරිසා තත්ත්වයන් වැඩිවී ඇතැයිද, ඉන්ෆ්ලුවෙන්සා රෝගීන්ද වැඩි වීමක් දක්නට ඇතැයිද කොළඹ රිජ්වේ ආර්යා ළමා රෝහලේ ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා සඳහන් කරයි.
+Dr. Deepal Perera warns of a rise in coughs among children in Colombo, attributing it to the flu season. He advises immediate vaccination and rest for symptomatic children to prevent further complications, including potential hospitalization. Quick treatment with paracetamol can alleviate symptoms and reduce the risk of severe outcomes.
 
-ළමා රෝග විශේෂඥ වෛද්‍යවරයා මේ බව පවසා ඇත්තේ රජයේ නිල පුවත් වෙබ් අඩවියට අදහස් දක්වමිනි.
+🟩
 
-ශීත රටවල ඉන්ෆ්ලුවෙන්සා රෝගය සඳහා ප්‍රතිශක්තිකරණයක් ලබාදෙන බවද, මෙය අවුරුදු 02ට අඩු දරුවන්, අවුරුදු 65ට වැඩි වැඩිහිටියන්, ගර්භණී මාතාවන්, ශ්වසන රෝග නිදන්ගතව පවතින පුද්ගලයන් සහ ප්‍රතිශක්තීකරණය අඩු අයට තරමක් භයානක විය හැකි බවද ඒ මහතා අවධාරණය කළේය.
+Dr. Deepal Perera, Colombo Ridgeway Children's Hospital, has increased the increase in coughs in Colombo.
 
-ඉන්ෆ්ලුවෙන්සා පැතිරීම වළක්වා ගැනීමට රෝග ලක්ෂණ ඇති අය මුඛ ආවරණයක් පැළදීමද රෝග ලක්ෂණ පහළවී ඇති දරුවන් පෙර පාසලට, පාසලට, දිවා සුරැකුම් මධ්‍යස්ථානයට නොයවන ලෙසද මෙය ලේසියෙන් තවත් කෙනෙකුට බෝවිය හැකි බවද පැවසුවේය.
+The pedistout doctor has said this to the Government Official News website.
 
-...
+He said that it would be a immunization for influenza disease in the winter countries.
+
+The children with a symptoms are also sacrificed to prevent the symptoms, whether the symptoms are not allowed to go to the school, school and day care.
+
+If the people mentioned above, it is possible that this can be dangerous, there is a dangerous, causes intensive care units, which can be dangerous.. Dr. Deepal Perera said to be able to relieve the suffering of Paracetamol if the disease was heard quickly.
+
+Later, the children can last a while to reduce their childhood and reduce their childhood.
+
+◼️
 
 [Data](articles/2bedf809.json)
+
+[Extended Data](ext_articles/2bedf809.ext.json)
 
 ---
 
@@ -2441,41 +2467,5 @@ During the meeting, the Secretary of the Treasury, explaining the progress of Sr
 [Data](articles/d3fc0315.json)
 
 [Extended Data](ext_articles/d3fc0315.ext.json)
-
----
-
-### The latest report to the government
-
-*2024-07-16 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198857) · `si`
-
-Public approval of the government tripled from 7% to 24% within two months, coinciding with a positive economic outlook (28% view it as good/excellent) and a significant boost in tourism, with over 85,000 visitors arriving in July alone, including notable increases from India, Russia, Germany, China, France, Australia, and the United States.
-
-🟩
-
-A report has shown that people's favor with the present government has increased by three times.
-
-According to the July 3-wide Referendum of the country, "how to think of the country" in July island wide.
-
-The public admiration of 7 percent in February has increased to 24 percent by the month of February.
-
-According to the survey, 28 percent of the current economic situation have been expressed at a good or excellent level.
-
-The economy has published 30 percent of the country's economy.
-
-Meanwhile, more than 85,000 tourists arrived in the island during the last month.
-
-The Tourism Development Authority stated that 85,426 tourists had arrived in the island during July 14.
-
-Accordingly, 1,095 tourists arrived in the island during the past year.
-
-Most of the tourists have come from India and the number is 207,966.
-
-Tourist arrivals have arrived in Russia and 97,055 tourists have arrived in Sri Lanka.
-
-...
-
-[Data](articles/ed41a42c.json)
-
-[Extended Data](ext_articles/ed41a42c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 11:05:19**
+As of **2024-07-16 11:20:10**
 
 ## Newspaper Stats
 
-*Scraped **35,487** Articles*
+*Scraped **35,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,102
 dailyftlk | 2,246
-adalk | 3,195
-adaderanalk | 4,093
+adalk | 3,196
+adaderanalk | 4,094
 tamilmirrorlk | 4,286
 dailymirrorlk | 4,733
 virakesarilk | 5,524
@@ -26,25 +26,43 @@ adaderanasinhalalk | 5,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,485 (100.0%) of 35,487 articles have been extended.
+35,487 (100.0%) of 35,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### ඡන්ද විමසීමේ දිනය ප්‍රකාශයට පත්කිරීම ජූලි අවසන් වීමට පෙර
+### Presidential Election date to be announced this month
+
+*2024-07-16 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100547/presidential-election-date-to-be-announced-this-month) · `en`
+
+The date for the upcoming Presidential Election will be announced before the end of this month, according to the Chairman of the Elections Commission of Sri Lanka, R.M.A.L. Rathnayake.
+
+◼️
+
+[Data](articles/282f038c.json)
+
+---
+
+### Declaration of Election Day Before July
 
 *2024-07-16 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198864) · `si`
 
-ජූලි අවසන් වීමට පෙර ඡන්ද විමසීමේ දිනය ප්‍රකාශයට පත්කිරීමට නියමිත බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The Elections Commission plans to announce the election date before July ends, without any specific reasons. This decision aligns with the Constitution and the Presidential Act.
 
-මේ වනවිට පැවැත්වෙන විශේෂ මාධ්‍ය හමුවකට එක්වෙමින් මැතිවරණ කොමිසම් සභාවේ සභාපති, ආර්.එම්.ඒ.එල්. රත්නායක මහතා පවසා සිටියේ, මේ දිනය ක්‍රියාත්මක කිරීමේ දී වෙනත් කිසිදු හේතුවක් බලනොපාන බව ද ඒ මහතා කියා සිටියේය.
+🟩
 
-ඕනෑම අයෙකුට ආණ්ඩුක්‍රම ව්‍යවස්ථාව සහ ජනාධිපති පනත අනුව මෙම දින පිළිබ﻿ඳ සලකා බැලිය හැකි බව ද රත්නායක  මහතා පැවසීය.
+The Elections Commission says that the election date is due to be announced before July end.
+
+Addressing a special media briefing at the Elections Commission.. Mr. Ratnayake said there was no other reason in implementing this day, he said.
+
+Mr. Ratnayake also said that this day could be considered as per the Constitution and the Presidential Act.
 
 ◼️
 
 [Data](articles/483add2d.json)
+
+[Extended Data](ext_articles/483add2d.ext.json)
 
 ---
 
@@ -65,6 +83,8 @@ Colombo Fort Police is conducting further investigations into the incident.
 ◼️
 
 [Data](articles/1d1e354f.json)
+
+[Extended Data](ext_articles/1d1e354f.ext.json)
 
 ---
 
@@ -243,6 +263,26 @@ In addition, three inmates suspected of having brain fever have been taken to th
 [Data](articles/a3608ed9.json)
 
 [Extended Data](ext_articles/a3608ed9.ext.json)
+
+---
+
+### ඉරානයේ තෙල් ණය පියවන්නේ තේ දෙයි
+
+*2024-07-16 09:41:59* · [`adalk`](https://www.ada.lk/breaking_news/ඉරානයේ-තෙල්-ණය-පියවන්නේ-තේ-දෙයි/11-410800) · `si`
+
+ඉරානයෙන් ණයට ලබා ගත් ඛණිජ තෙල් වෙනුවෙන් ගෙවිය යුතු ඩොලර් මිලියන 250.9ක මුදල පියවීම වෙනුවෙන් මේ වන විට ඇමේරිකානු ඩොලර් මිලියන 55ක් වටිනා තේ ඉරානය වෙත අපනයනය කර ඇතැයි ශ්‍රී ලංකා තේ මණ්ඩලයේ සභාපති නිරාජ් ද මෙල් මහතා පැවැසීය.
+
+ජනපති මාධ්‍ය කේන්ද්‍රයේ පැවැති මාධ්‍ය හමුවකදි ඔහු මේ බව පැවැසිය.
+
+"ඉරානය සහ ශ්‍රී ලංකාව අතර ඇති කර ගත් අවබෝධතා ගිවිසුම අනුව ශ්‍රී ලංකාව ඉරානයට ගෙවිය යුතු ඛනිජ තෙල් ණය තේ අපනයනය හරහා පියවීම පසුගිය අගෝස්තු 05 වෙනිදා ආරම්භ කළා.
+
+එම ගිවිසුම යටතේ ශ්‍රී ලංකාව විසින් ඉරානය වෙත ඛනිජ තෙල් වෙනුවෙන් ගෙවිය යුතු ඇමෙරිකානු ඩොලර් මිලියන 250.9ක මුදල තේ අපනයනය තුළින් පියවීමට අපේක්ෂිතයි. මේ වන විට එම ණය ප්‍රමාණයෙන් ඇමෙරිකානු ඩොලර් මිලියන 55ක් ගෙවා නිම කර තිබෙනවා.
+
+2024 වසරේ පළමු මාස 04 තුළ නිමි තේ කිලෝ ග්‍රෑම් මිලියන 4.1ක ප්‍රමාණයක් ඉරානය වෙත අපනයනය කරන ලද අතර එය පසුගිය 2023 වසරේ පළමු මාස 04 තුළ ඉරානය වෙත අපනයනය කරන ලද නිමි තේ ප්‍රමාණයට වඩා තුන්ගුණයක වැඩිවීමක් බව කිව යුතුයි."
+
+◼️
+
+[Data](articles/57a25d8c.json)
 
 ---
 
@@ -2269,57 +2309,5 @@ The Moratuwa police have said that a man from Moratuwa, Rathukurusawatta and Lak
 [Data](articles/3573fcb2.json)
 
 [Extended Data](ext_articles/3573fcb2.ext.json)
-
----
-
-### Sri Lanka stocks close up, foreign interest in John Keells and Hemas
-
-*2024-07-15 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-foreign-interest-in-john-keells-and-hemas-172182/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.41 percent, or 48.18 points, at 11,892; while the more liquid S&P SL20 Index closed up 0.55 percent, or 19.06 points, at 3,473.
-
-“There was foreign appetite for John Keells Holdings and Hemas Holdings today,” Softlogic Stockbrokers said.
-
-John Keells Holdings Plc brought in Rs779mn to the turnover, and the share closed down at 194.25.
-
-Hemas Holdings Plc contributed Rs137mn to the turnover, and the share closed up at 81.40.
-
-Crossings on the two diversified conglomerates made up 48 percent of the day’s turnover.
-
-Sentiment around the banking counters also picked up, market participants said. Commercial Bank of Ceylon Plc was up at 104.50, Sampath Bank Plc was up at 77.20, Hatton National Bank Plc was up at 195.75, while DFCC Bank Plc was down at 73.70.
-
-Overall top positive sectors were healthcare, diversified financials, and banking.
-
-...
-
-[Data](articles/745c8885.json)
-
-[Extended Data](ext_articles/745c8885.ext.json)
-
----
-
-### President and lawyers meet
-
-*2024-07-15 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198842) · `si`
-
-In a meeting with lawyers, President Ranil Wickremesinghe stressed the importance of the country's political culture for its progress. He cautioned against allowing opposition leaders to influence the economy solely based on political goals. Highlighting his stance during a recent presidential election gathering, he underscored that while politics is permissible, no party should compromise the nation's economic stability with IMF agreements.
-
-🟩
-
-President Ranil Wickremesinghe emphasizes that political cultural of the country is essential for the move in the country.
-
-The President said that the President said that all opposition political leaders could not take the responsibility of all opposition should not have the support of all of the country's economy with political goals.
-
-President Ranil Wickremesinghe made this statement at the presidential election with a group of lawyers recently.
-
-The President who has the right to do politics but no one should have signed the country's economic economic economic economy with the International Monetary Fund.Pointed out.
-
-◼️
-
-[Data](articles/0ff3edaf.json)
-
-[Extended Data](ext_articles/0ff3edaf.ext.json)
 
 ---

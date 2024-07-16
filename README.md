@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 19:05:30**
+As of **2024-07-16 19:20:09**
 
 ## Newspaper Stats
 
-*Scraped **35,570** Articles*
+*Scraped **35,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,208
+adalk | 3,209
 adaderanalk | 4,108
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,546
-adaderanasinhalalk | 5,951
+adaderanasinhalalk | 5,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,570 (100.0%) of 35,570 articles have been extended.
+35,570 (100.0%) of 35,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### අනුරාධපුර සහ කන්තලේ අතර භූ කම්පනයක්
+
+*2024-07-16 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198884) · `si`
+
+අද (16) සවස අනුරාධපුර සහ කන්තලේ අතර භූ කම්පනයක් වාර්තා වී තිබේ.
+
+භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යාංශය පෙන්වා දෙන්නේ එය රික්ටර් මාපකයේ ඒකක 2.7ක ප්‍රබලත්වයක් සටහන් කර ඇති බවය.
+
+◼️
+
+[Data](articles/cc999c12.json)
+
+---
 
 ### 7 out of 44 government CT scans is disabled
 
@@ -125,6 +139,26 @@ In 2023, the winner of the “Grand Prize of the Traditional French Baguette,”
 [Data](articles/956f8f5b.json)
 
 [Extended Data](ext_articles/956f8f5b.ext.json)
+
+---
+
+### ජපානයෙන් ලංකාවේ වෛද්‍ය පරිපාලකයන්ට ශිෂ්‍යත්වයක්
+
+*2024-07-16 16:49:12* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවේ-වෛද්‍ය-පරිපාලකයන්ට-ශිෂ්‍යත්වයක්/11-410812) · `si`
+
+ජපානයේ නගෝයා (Nagoya) විශ්ව විද්‍යාලයේ වෛද්‍ය උපාධි පාසල  මගින් මෙරට තෝරා ගත් වෛද්‍ය පරිපාලකයින් හට මෙම වසරේ සිට වසරක පුහුණුවකින් පසු ශිෂ්‍යත්වයක් (YLP Master of Science in  Health Care Administration) ලබාදීමට කැමැත්ත පළ කර ඇත.
+
+ඒ අනුව එම විශ්ව විද්‍යාලයේ මහාචාර්ය   Eiko Yamamoto මහත්මිය ඇතුලු දූත පිරිසක් ඊයේ (15) පස්වරුවේ සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ්  පතිරණ මහතා හමු වී ඒ පිළිබද දැනුවත් කිරීමට කටයතු කරන ලදි.
+
+සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම්, පශ්චාත් උපාධි වෛද්‍ය ආයතනයේ වෛද්‍ය පරිපාලන විද්‍යායතනයේ  සභාපති විශේෂඥ වෛද්‍ය සුනිල් ද අල්විස් මහතා ජපාන තානාපති කාර්යාලයෙන් කරනු ලැබූ ඉල්ලීමකට අනුව ප්‍රතිචාර දක්වමින් ඔවුන් මෙරට වෛද්‍ය පරිපාලකයින්ට මෙම  වසරක පුහුණුව ඇතුලු ශිෂ්‍යත්වය ලබාදිමට කැමැත්ත පළ කර ඇත. ‍
+
+මේ වන විට ජපානයේ නගෝයා විශ්ව විද්‍යාලය මගින් වියට්නාමය, තායිලන්තය, මැලේෂියාව, බංග්ලාදේශය, මොංගොලියාව, කාම්බෝජියාව, කසකස්ථානය, ලාඨ්සය, කිර්ගිස් ජනරජය වැනි රටවල්වල වෛද්‍ය පරිපාලකයින්ට පුහුණුව ලබාදිම සිදු කරනු ලබයි.
+
+ඉදිරි දෙසතිය තුල මීට අදාල නිලධාරින් තෝරා ගැනීම් කටයුතු කරනු ඇත.
+
+◼️
+
+[Data](articles/022b4163.json)
 
 ---
 
@@ -2429,51 +2463,5 @@ The suspect has been identified as 20 -year -old Thomas Mathew Crooks. Remble
 [Data](articles/2bd8211f.json)
 
 [Extended Data](ext_articles/2bd8211f.ext.json)
-
----
-
-### Sri Lanka returns 10615 in Kuwait
-
-*2024-07-16 08:52:00* · [`adalk`](https://www.ada.lk/breaking_news/කුවේට්-පොදු-සමා-කාලයේදි-ලංකාවට-10615ක්-ආපසු-ඇවිත්/11-410799) · `si`
-
-Sri Lanka's Ambassador to Kuwait announced that Kuwait will allow Sri Lankans to stay until June 30, 2024, extending their visas. This decision follows discussions between the two countries' foreign affairs departments. The announcement also mentioned special discounts for flights out of Kuwait for those leaving within this period.
-
-🟩
-
-Kuwait's Sri Lankan Ambassador to Kuwait, using public pumors, "Kuwait 'has left the Government of Kuwait to leave Kuwait to 2024 in the country's valid Visa Kalliya.The office issues a press release.
-
-The public school was a result of 1724 to June 30, 2024 to June 30, 2024 to June 30, 2024 to the discussion of the External Affairs of the State of the Government of Kuwait.
-
-The "temporary passport" was provided to exit only a few different documents in the same period and to excluding the full monitoring and advisory of Sri Lankan Ambassador to Kuate Kuwait..
-
-Sri Lankans who leave Kuwait to get tickets with special discounts on "special discountsThe news statement further states that several were established.
-
-◼️
-
-[Data](articles/9ebae244.json)
-
-[Extended Data](ext_articles/9ebae244.ext.json)
-
----
-
-### Treasury Secretary explained to the Deputy Chairman of the Chinese Agency on Sri Lanka's economic recovery and progress
-
-*2024-07-16 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188562) · `ta`
-
-In a meeting with China's Deputy Chairman, Sri Lanka's Treasury Secretary discussed the country's economic recovery and progress, thanking China for its support, especially through the Chinese Exim Bank and the joint effort with France, India, and Japan in Sri Lanka's debt scheme, backed by the IMF.
-
-🟩
-
-During the meeting with the Deputy Chairman of the Chinese International Development Cooperation Agency, Mahinda Siriwardena, the Secretary of the Treasury, explained Sri Lanka's economic recovery and progress, thanked China's cooperation in the success of the debt issuer.
-
-One of the side events of the Global Action Global Action Council, organized by the Chinese International Development Cooperation Agency in Beijing on the 12th to 13th, was held between the Treasury Secretary Mahinda Siriwardena and the Deputy Chairman of the Chinese International Development Cooperation Agency, Yang Venkun.
-
-During the meeting, the Secretary of the Treasury, explaining the progress of Sri Lanka in dealing with the worst economic crisis, made it clear on the implementation of the majority of economic stability and the implementation of the economic growth.
-
-...
-
-[Data](articles/d3fc0315.json)
-
-[Extended Data](ext_articles/d3fc0315.ext.json)
 
 ---

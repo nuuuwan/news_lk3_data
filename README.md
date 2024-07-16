@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 08:13:58**
+As of **2024-07-16 08:23:35**
 
 ## Newspaper Stats
 
-*Scraped **35,460** Articles*
+*Scraped **35,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,088
 tamilmirrorlk | 4,279
 dailymirrorlk | 4,733
 virakesarilk | 5,521
-adaderanasinhalalk | 5,926
+adaderanasinhalalk | 5,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,455 (100.0%) of 35,460 articles have been extended.
+35,455 (100.0%) of 35,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### රැඳවියන්ට විශේෂ අවස්ථාවක්
+
+*2024-07-16 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198856) · `si`
+
+අදට යෙදී ඇති 119 වන බන්ධනාගාර දිනයට සමගාමීව රැඳවියන්ට විවෘත අමුත්තන් බැලීම සඳහා විශේෂ අවස්ථාවක් ලබාදීමට බන්ධනාගාර දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+
+බන්ධනාගාර මාධ්‍ය ප්‍රකාශක, බන්ධනාගාර කොමසාරිස් ගාමිණී බී. දිසානායක මහතා සඳහන් කළේ, ඒ අනුව අද (16) දිනය තුළ රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එන ආහාර හා සනීපාරක්ෂක ද්‍රව්‍ය එක් රැඳවියෙකුට ප්‍රමාණවත් වන පරිදි ලබාදීමට අවස්ථාව ලබාදී ඇති බවය.
+
+අද උදෑසන 9 සිට සවස 4 දක්වා මෙම විශේෂ වැඩසටහන ක්‍රියාත්මක කරන බව ද ඒ මහතා වැඩිදුරටත් පැවසීය.
+
+මේ අතර, ගාල්ල බන්ධනාගාරයේ කටයුතු අද සිට සීමා කිරීමට බන්ධනාගාර දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+
+මොළේ උණ වැළදීමෙන් බන්ධනාගාරයේ රැඳවියෙකු මිය යෑමත් සමග මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+
+ගාල්ල බන්ධනාගාරයේ රැඳවියෙකු පසුගිය 13 වන දින මියගිය අතර එම මරණ පරීක්ෂණයේ දී මොළේ උණ රෝගයෙන් ඔහු මියගොස් ඇති බවට අනාවරණය වී තිබේ.
+
+ඊට අමතරව මොළේ උණ බවට සැකකෙරෙන තවත් රැඳවියන් තිදෙනෙකු ප්‍රතිකාර සඳහා රෝහල් ගතකර ඇති බව වාර්තා වේ.
+
+...
+
+[Data](articles/638c1059.json)
+
+---
 
 ### Trump gets official Republican nomination for president, picks J.D. Vance for running mate
 
@@ -2231,27 +2255,5 @@ Ramanathan Archana said that I was the answer to the Chavakachcheri Hospital in 
 [Data](articles/3c8e2f45.json)
 
 [Extended Data](ext_articles/3c8e2f45.ext.json)
-
----
-
-### FR petition filed over Presidential Election dismissed with costs
-
-*2024-07-15 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100524/fr-petition-filed-over-presidential-election-dismissed-with-costs) · `en`
-
-The Supreme Court has dismissed the Fundamental Rights (FR) petition filed seeking an order to prevent holding of the Presidential Election as the 19th Amendment to the Constitution has not been properly passed in Parliament, subject to costs.
-
-This verdict was issued when the relevant petition filed by Attorney-at-Law Aruna Laksiri was taken up for cosideration today (15) before a Supreme Court judge bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekara and Priyantha Fernando.
-
-Accordingly, the court ordered the petition dismissed with costs of Rs 500,000 to be paid by the petitioner before July 31, 2024.
-
-The petition argued that the 19th Amendment to the Constitution was not properly passed in Parliament and therefore called for a referendum to ensure its proper passage.
-
-The Election Commission and its members, the General Secretary of Parliament and the Attorney General had been named as respondents of this petition.
-
-...
-
-[Data](articles/c40e2d27.json)
-
-[Extended Data](ext_articles/c40e2d27.ext.json)
 
 ---

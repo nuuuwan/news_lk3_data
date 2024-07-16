@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 14:35:30**
+As of **2024-07-16 14:54:29**
 
 ## Newspaper Stats
 
-*Scraped **35,534** Articles*
+*Scraped **35,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,200
-adaderanalk | 4,100
+adaderanalk | 4,101
 tamilmirrorlk | 4,294
 dailymirrorlk | 4,733
 virakesarilk | 5,537
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,533 (100.0%) of 35,534 articles have been extended.
+35,534 (100.0%) of 35,535 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -293,6 +293,24 @@ The proposal was jointly submitted by President Ranil Wickramasinghe and the Min
 [Data](articles/148c4f56.json)
 
 [Extended Data](ext_articles/148c4f56.ext.json)
+
+---
+
+### Bill to amend Constitutional clause on President’s term to be gazetted
+
+*2024-07-16 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100552/bill-to-amend-constitutional-clause-on-presidents-term-to-be-gazetted) · `en`
+
+The Cabinet of Ministers has given the green light to publish in the Government Gazette and then table in parliament for approval the bill prepared to amend a paragraph of the Constitution with regard to the tenure of the President.
+
+The Cabinet of Ministers had given its policy approval on July 09 to amend paragraph (b) of Article 83 of the Constitution by replacing the words “exceeding six years” with the words “exceeding five years” stated in paragraph (b) of Article 83 of the Constitution.
+
+The Bill prepared accordingly by the Legal Draftsman has received the clearance of the Attorney General, the Cabinet Spokesman said today.
+
+Accordingly, the Cabinet of Ministers approved the combined proposal presented by the President and the Minister of Justice, Prison Affairs and Constitutional Reforms to publish the bill in the Government Gazette and then table it in parliament for approval, he said
+
+◼️
+
+[Data](articles/713376e7.json)
 
 ---
 
@@ -836,21 +854,27 @@ Mr. Ratnayake also said that this day could be considered as per the Constitutio
 
 ---
 
-### කාසල්රී හා මාඋස්සාකැලේ ජල මට්ටම් ඉහළට
+### Water levels up Castlere and Massakale
 
 *2024-07-16 10:42:24* · [`adalk`](https://www.ada.lk/breaking_news/කාසල්රී-හා-මාඋස්සාකැලේ-ජල-මට්ටම්-ඉහළට/11-410804) · `si`
 
-මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශයන්ට ඇද හැලෙන අධික වර්ෂාවත් සමග කාසල්රි හා මාඋස්සාකැලේ ජලාශවල ජල මට්ටම් සිග්‍රයෙන් ඉහල යමින් පවති.
+Heavy rains cause rising water levels in Castlere and Massakale reservoirs. As of 6:00 am on the 16th, the Maussequale reservoir is 7 feet 7 inches from overflowing. Measures will be taken to maximize water release for hydropower generation.
 
-මෙම තත්වයන් පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු එම ජලාශ බාර නිලධාරියකු පවසන ලද්දේ මෙම ජලාශ වලට ජලය සැපයෙන ජල මුලාශ්‍ර ප්‍රදේශයන්ට ඇද හැලෙන අධික වැසි හේතුවෙන් කාසල්රි හා මාඋස්සාකැලේ ජලාශවල ජල මට්ටම් සිග්‍රයෙන් ඉහල යමින් පවතින බවත්ය.
+🟩
 
-ඒ අනුව 16වන දින උදැසන 6.00 වන විට මාඋස්සාකැලේ ජලාශයේ ජල මට්ටම පිටාර මට්ටමට අඩි 7 අගල් 02ක් පහලින්ද කාසල්රි ජලාශයේ ජල මට්ටම පිටාර මට්ටමට අඩි 09යි අගල් 03ක් පහලින් පවතින බවත්ය.
+Water levels in the Castlerero and Massakalela reservoirs are rising with heavy rains, which falls to the western standard.
 
-මෙම ජලාශවල ජලය ජල විදුලිය නිපදවිම සදහා අදාල ජල විදුලිබලාගාර වෙත උපරිම ලෙස මුදා හැරිමට පියවර ගන්නා බවද එම නිලධාරියා වැඩි දුරටත් පැවසිය.
+A reservoir officer who commented on these conditions was said that the water levels in Castlereari and Massesakale have increased due to heavy rains.
+
+Accordingly, at 6.00 am at 6.00 am on the 16th, the water level of the Maussequale reservoir is 7 feet 7 inches to the overflow.
+
+The official added that steps will be taken to the maximum release to the respective hydropower to generate water electricity in these reservoirs.
 
 ◼️
 
 [Data](articles/68b302ce.json)
+
+[Extended Data](ext_articles/68b302ce.ext.json)
 
 ---
 
@@ -2419,23 +2443,5 @@ Historically, the Company Secretary’s duties were primarily administrative and
 [Data](articles/1e0ff795.json)
 
 [Extended Data](ext_articles/1e0ff795.ext.json)
-
----
-
-### SLPI, Election Commission hold program on ‘Regulation of Election Expenditure Act’ for journalists
-
-*2024-07-15 22:38:13* · [`dailyftlk`](https://www.ft.lk/news/SLPI-Election-Commission-hold-program-on-Regulation-of-Election-Expenditure-Act-for-journalists/56-764293) · `en`
-
-From left: Electoral Dispute Resolution Deputy Election Commissioner Piyumi Atigala, Commissioner General of Elections Saman Sri Rathnayaka, Additional Election Commissioner – Legal and Investigations Lawyer Chinthaka Kularatne, and Director – Research and Planning Channa de Silva
-
-The Sri Lanka Press Institute along with the Election Commission of Sri Lanka held a program on Monday 8 July, in Colombo, to enlighten journalists on the Regulation of Election Expenditure Act.
-
-The program was attended by journalists, representatives of media organisations, and civil society organisations. The program was opened by SLPI CEO Kumar Lopez, who highlighted the importance of understanding campaign financing and the laws which govern it.
-
-...
-
-[Data](articles/c5649c07.json)
-
-[Extended Data](ext_articles/c5649c07.ext.json)
 
 ---

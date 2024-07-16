@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 16:20:08**
+As of **2024-07-16 16:35:10**
 
 ## Newspaper Stats
 
-*Scraped **35,549** Articles*
+*Scraped **35,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,81 @@ adaderanalk | 4,105
 tamilmirrorlk | 4,296
 dailymirrorlk | 4,733
 virakesarilk | 5,537
-adaderanasinhalalk | 5,947
+adaderanasinhalalk | 5,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,546 (100.0%) of 35,549 articles have been extended.
+35,549 (100.0%) of 35,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### මනාල යුවළ රැගත් රථය හැප්පෙයි
+### කැස්පර්ස්කි අමෙරිකාවට සමුදෙයි
+
+*2024-07-16 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198879) · `si`
+
+ලෝක ප්‍රකට රුසියානු ඇන්ටිවෛරස් මෘදුකාංග සමාගමක් වන කැස්පර්ස්කි, අමෙරිකා එක්සත් ජනපදය තුළ සිය මෙහෙයුම් අවසන්කිරීමට තීරණය කර තිබේ.
+
+ලබන 20 වනදා සිට එය ක්‍රමානුකූලව සිදුකරන බව කැස්පර්ස්කි ලැබ් සමාගම නිවේදනය කළේය.
+
+අන්තර්ජාල අවකාශයේ ආරක්ෂාව පිළිබඳ කරුණු මුල්කරගෙන මෙම රුසියානු සමාගමේ නිෂ්පාදන අමෙරිකාව තූළ අලෙවි කිරීම තහනම් කරන බව බයිඩන්  පරිපාලනය මීට පෙර ප්‍රකාශ කර තිබුණි.
+
+සැප්තැම්බර් 29 වනදා සිට එම තීරණය ක්‍රියාත්මකවීමට නියමිතව තිබුණ ද ඊට පෙරම සිය අමෙරිකානු මෙහෙයුම් නතර කිරීමට රුසියානු සයිබර් ආරක්ෂක සමාගම තීරණය කර තිබේ.
+
+අමෙරිකානු රජය පනවන නව සිමාවන් යටතේ කැස්පර්ස්කි ඇන්ටිවෛරස් මෘදුකාංග බාගත කිරීම සහ භාවිතය තහනම් කිරීමට නියමිතව ඇතැයි සඳහන් ය.
+
+කැස්පර්ස්කි සමාගම සිය නිල වෙබ් අඩවියේ සඳහන් කර ඇත්තේ සිය නිෂ්පාදන දැනටමත් අමෙරිකානුවන් සඳහා ලබාගත නොහැකි බවයි.
+
+රුසියානු බහුජාතික සමාගමක් වන කැස්පර්ස්කි ලැබ් ඇන්ටිවෛරස් නිෂ්පාදන, අන්තර්ජාල ආරක්ෂාව සහ මුරපද කළමනාකරණය ඇතුළු පරිගණක ක්ෂේත්‍රයේ ආරක්ෂාවට අදාළ මෘදුකාංග නිෂ්පාදන රැසක් ඉදිරිපත් කරයි.
+
+◼️
+
+[Data](articles/1baa28fb.json)
+
+---
+
+### දයාසිරි ගේ පැමිණිලි දෙකක් කැඳවීමට නියෝග
+
+*2024-07-16 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198878) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා එම පක්ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන ඇතුළු පිරිසකට එරෙහිව ගොනුකළ පැමිණිලි දෙකක් ලබන 23 වනදා කැඳවන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහ ලේකම්වරයා වශයෙන් කටයුතු කළ තමන්ගේ පක්ෂ සාමාජිකත්වය අහිමි කිරීමට ගනු ලැබූ තීන්දුවට එරෙහිව ඔහු එම පැමිණිලි ගොනුකර තිබුණි.
+
+මෙම පැමිණිලිවලට අදාළ අතුරු ඉල්ලීම් පිළිබඳ නියෝගය අද (16) දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබුණේය.
+
+එහෙත් විනිසුරුවරයා දැනුම් දුන්නේ වගඋත්තරකාර පාර්ශ්වය විසින් ඉදිරිපත් කරන ලද ලේඛන නඩු ගොනුවට ඇතුළත් වී නොමැති බවයි.
+
+ඒ අනුව අදාළ ලේඛන ගොනු කිරීමට පාර්ශ්වකරුවන්ට අවසර දුන් අධිකරණය නඩුව නැවත ලබන 23 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/4871d9b6.json)
+
+---
+
+### The bride girl caught the vehicle
 
 *2024-07-16 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198877) · `si`
 
-මනාල යුවළක් ගමන්ගත් මෝටර් රථය තවත් මෝටර් රථයක සහ යතුරුපැදියක ගැටීමෙන් කොල්ලුපිටියේ අනතුරක් සිදුවී තිබේ.
+In a tragic accident near Kollupitiya, a bridal couple was involved in a collision between their vehicle and a car and motorcycle. Five people, including the bride, were injured. The mishap happened as the wedding party was traveling from Bambalapitiya to Kollupitiya.
 
-ඊයේ (15) අලුයම් කාලයේදී සිදුවූ මෙම අනතුරෙන් මනාල යුවළ ඇතුළු පස්දෙනෙකු තුවාල ලබා ඇත.
+🟩
 
-මනාල යුවළ පෙරටු කොට ගත් රථ 15ක් පමණ බම්බලපිටියේ සිට කොල්ලුපිටිය දෙසට ධාවනය වී ඇති අතර මංගල රථයේ තිරිංගවල දෝෂයක් හේතුවෙන් අනතුර සිදුවී ඇති බව වාර්තා වෙයි.
+Kollupitiya has been accidental in another car and motorcycle accident.
+
+Five persons including the bridic were injured in the accident yesterday.
+
+The briditary couple has been traveling from Bambalapitiya to Kollpitiya and the accident occurred due to an error in the wedding vehicle.
 
 ◼️
 
 [Data](articles/df869be3.json)
+
+[Extended Data](ext_articles/df869be3.ext.json)
 
 ---
 
@@ -64,6 +114,8 @@ Amin said Khalusha claimed the murders took place between 2022 and July 11 this 
 
 [Data](articles/b7559655.json)
 
+[Extended Data](ext_articles/b7559655.ext.json)
+
 ---
 
 ### Prices of multiple food items reduced
@@ -81,6 +133,8 @@ Accordingly, he requested the restaurant owners to make necessary arrangements t
 ◼️
 
 [Data](articles/5db53393.json)
+
+[Extended Data](ext_articles/5db53393.ext.json)
 
 ---
 
@@ -2427,43 +2481,5 @@ The order was handed down to Sirisena, former Police Inspector General Pujith Ja
 [Data](articles/ebfa49cd.json)
 
 [Extended Data](ext_articles/ebfa49cd.ext.json)
-
----
-
-### Karu reminds ECSL of duty to call for timely elections
-
-*2024-07-16 01:09:53* · [`dailyftlk`](https://www.ft.lk/news/Karu-reminds-ECSL-of-duty-to-call-for-timely-elections/56-764315) · `en`
-
-The National Movement for Social Justice (NMSJ), led by former Speaker Karu Jayasuriya in a statement has reminded the Election Comission of Sri Lanka (ECSL) of its duty to call for timely elections.
-
-“As per the powers granted by the Constitution of Sri Lanka, the Election Commission is required to hold the Presidential election in 2024. An official announcement for the election must be issued as soon as the ECSL is empowered to call for elections to ensure a fair process,” Jayasuriya said yesterday.
-
-Jayasuriya said the request is being made as Sri Lanka approaches the time to elect a President, noting that contradictory statements and unethical proposals are being disseminated in society.
-
-“Due to such conflicting opinions and unnecessary debates, the country’s economy may face challenges. Different attitudes arising between international commercial and financial institutions could create conditions harmful to the country’s well-being,” he said.
-
-...
-
-[Data](articles/d1cb0057.json)
-
-[Extended Data](ext_articles/d1cb0057.ext.json)
-
----
-
-### SC dismisses second petition against Presidential election
-
-*2024-07-16 01:07:52* · [`dailyftlk`](https://www.ft.lk/news/SC-dismisses-second-petition-against-Presidential-election/56-764314) · `en`
-
-The Supreme Court has dismissed the second fundamental rights petition filed recently that sought to prevent the holding of the Presidential election this year.
-
-The petition, filed by Attorney-at-Law Aruna Laksiri, argued that the 19th Amendment was not enacted properly and that conducting a Presidential election without a referendum violated the Constitution. The Court ordered the petitioner to pay a court fee of Rs. 500,000.
-
-The ruling was made by a bench comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeysekera, and Priyantha Fernando yesterday affirming the formal adoption of the 19th Constitutional Amendment without the need for a referendum, in line with prior rulings from 2015.
-
-...
-
-[Data](articles/49f273ec.json)
-
-[Extended Data](ext_articles/49f273ec.ext.json)
 
 ---

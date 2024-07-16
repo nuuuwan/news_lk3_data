@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 22:20:29**
+As of **2024-07-16 22:35:17**
 
 ## Newspaper Stats
 
-*Scraped **35,591** Articles*
+*Scraped **35,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,111
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,551
-adaderanasinhalalk | 5,955
+adaderanasinhalalk | 5,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,589 (100.0%) of 35,591 articles have been extended.
+35,591 (100.0%) of 35,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### අම්බලන්ගොඩ වෙඩිතැබීමක්
+
+*2024-07-16 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198888) · `si`
+
+පොලීසිය සඳහන් කළේ නිවස ඉදිරිපිටදී 41ක් හැවිරිදි පුද්ගලයෙකුව එලෙස වෙඩිතබා ඝාතනය කර ඇති බවය.
+
+අදාළ පුද්ගලයාගේ හිසට වෙඩි ප්‍රහාරය එල්ල කර ඇති බවද පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/d2aebb4b.json)
+
+---
 
 ### Power Minister reveals key factors that contributed to reduction in electricity tariffs
 
@@ -45,6 +59,8 @@ Addressing the press briefing titled “Collective Path to a Stable Country” h
 ...
 
 [Data](articles/60700c00.json)
+
+[Extended Data](ext_articles/60700c00.ext.json)
 
 ---
 
@@ -835,6 +851,8 @@ In the annals of Sri Lankan politics, few figures have remained as enigmatic and
 ...
 
 [Data](articles/35627c61.json)
+
+[Extended Data](ext_articles/35627c61.ext.json)
 
 ---
 
@@ -2379,31 +2397,5 @@ Trump shot at Trump while addressing an election rally in Pennsylvania, and his 
 [Data](articles/ee1cb51d.json)
 
 [Extended Data](ext_articles/ee1cb51d.ext.json)
-
----
-
-### Explosive incident in Batticaloa: Army and police intensive investigation
-
-*2024-07-16 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188570) · `ta`
-
-In Batticaloa, an explosion occurred in a house within the Poonchimunai Green Housing Project, investigated by local police and military. A blue object fell from the sky, causing the blast. Despite minimal damage, the loud noise was heard far away. Authorities are conducting thorough investigations.
-
-🟩
-
-An explosion has taken place in a house in Poonchimunai village, which is divided by the Kattankudy police in Batticaloa.
-
-The explosion was reported in the settlement village of Poonchimunai Green Housing Project.
-
-The explosion occurred in a house room. The people of the area say that the massive noise was heard for a long distance despite not massive damage.
-
-Residents in the house reported that a blue -colored object that had fallen from the earth was breaking the hole.
-
-The Batticaloa District Forensic Police Division is conducting intensive investigations and the military and the police are continuing to investigate.
-
-◼️
-
-[Data](articles/586d395e.json)
-
-[Extended Data](ext_articles/586d395e.ext.json)
 
 ---

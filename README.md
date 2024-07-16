@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 23:55:09**
+As of **2024-07-17 00:08:09**
 
 ## Newspaper Stats
 
-*Scraped **35,617** Articles*
+*Scraped **35,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,96 @@ adalk | 3,214
 adaderanalk | 4,113
 tamilmirrorlk | 4,300
 dailymirrorlk | 4,733
-virakesarilk | 5,555
+virakesarilk | 5,558
 adaderanasinhalalk | 5,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,602 (100.0%) of 35,617 articles have been extended.
+35,615 (100.0%) of 35,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### இலங்கை அணியின் முன்னாள் கிரிக்கெட் வீரர் சுட்டுக்கொலை
+### வெற்றிபெற்றும் இறுதிச் சுற்று வாய்ப்பை இழந்தது தம்புள்ள; கடைசி அணியாக இறுதிச் சுற்றில் நுழைந்தது கண்டி பெல்கன்ஸ்
+
+*2024-07-16 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188641) · `ta`
+
+கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் இன்று செவ்வாய்க்கிழமை (16) நடைபெற்ற 5ஆவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் கடைசி லீக் போட்டியில் கலம்போ ஸ்ட்ரைக்ர்ஸ் அணியை எதிர்த்தாடிய தம்புள்ள சிக்ஸர்ஸ் அணி 28 ஓட்டங்களால் வெற்றிபெற்றது.
+
+ஆனால், போதிய நிகர ஓட்ட வேகத்தைப் பேணத் தவறியதால் இறுதிச் சுற்றில் விளையாடும் வாய்ப்பை தம்புள்ள சிக்ஸர்ஸ் இழந்தது.
+
+இப் போட்டி முடிவை அடுத்து கண்டி பெல்கன்ஸ் கடைசி அணியாக லங்கா பிறீமியர் லீக் இறுதிச் சுற்றில் பங்குபற்ற தகுதிபெற்றது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட தம்புள்ள சிக்ஸர்ஸ் 20 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 123 ஓட்டங்களை மாத்திரம் பெற்றது.
+
+அணித் தலைவர் மொஹமத் நபி 40 ஓட்டங்களையும் சமிந்து விக்ரமசிங்க 26 ஓட்டங்களையும் பெற்றனர். அவர்கள் இருவரும் 6ஆவது விக்கெட்டில் 62 ஓட்டங்களைப் பகிர்ந்ததால் தம்புள்ள சிக்ஸர்ஸ் அணி ஓரளவு கௌரவமான நிலையை அடைந்தது.
+
+அவர்கள் இருவரைவிட நுவனிது பெர்னாண்டோ (15), துஷான் ஹேமன்த (10) ஆகிய இருவரே இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்றனர்.
+
+...
+
+[Data](articles/6d68d86a.json)
+
+---
+
+### ஓமன் அருகே எண்ணெய் கப்பல் ஒன்று இலங்கை பணியாளர்களுடன் கடலில் மூழ்கியது!
+
+*2024-07-16 23:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188640) · `ta`
+
+ஓமன் அருகே எண்ணெய் கப்பல் ஒன்று கடலில் மூழ்கியுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+அவர்களில் 13 பேர் இந்தியர்கள். மற்ற மூவர் அவர்கள் இலங்கையர்கள் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+ஏமன் நாட்டில் உள்ள ஏடன் துறைமுகத்தை நோக்கி கப்பல் சென்று கொண்டிருந்தபோதே குறித்த விபத்து ஏற்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/eac9ef34.json)
+
+---
+
+### Sri Lankan cricketer shot dead
 
 *2024-07-16 23:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அணியின்-முன்னாள்-கிரிக்கெட்-வீரர்-சுட்டுக்கொலை/175-340518) · `ta`
 
-இலங்கை அணியின் முன்னாள் கிரிக்கெட் வீரரான தம்மிக்க நிரோஷன் சுட்டுக் கொல்லப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+Former Sri Lankan cricketer Dhammika Niroshan was fatally shot outside his home in Ambalangoda-Kandewatte.
 
-அம்பலாங்கொடை- கந்தேவத்தை பகுதியில் உள்ள அவரது இல்லத்திற்கு முன்பாக அவர் கொல்லப்பட்டதாகத் தெரிவிக்கப்படுகின்றது.
+🟩
+
+The police media spokesman said that former Sri Lankan cricketer Dhammika Niroshan was shot dead.
+
+He is reportedly killed in front of his residence in the Ambalangoda-Kandewatte area.
 
 ◼️
 
 [Data](articles/f7e52b89.json)
 
+[Extended Data](ext_articles/f7e52b89.ext.json)
+
 ---
 
-### ஓமானில் பணிபுரியும் இலங்கையர்களுக்கு எச்சரிக்கை
+### Warning Sri Lankans working in Oman
 
 *2024-07-16 23:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓமானில்-பணிபுரியும்-இலங்கையர்களுக்கு-எச்சரிக்கை/175-340517) · `ta`
 
-ஓமான் தலைநகர் மஸ்கட்டில் பணிபுரியும் இலங்கையர்களை பாதுகாப்பாக இருக்குமாறு அந்த நாட்டுக்கான இலங்கை தூதரகம் அறிவுறுத்தியுள்ளது.
+Following a shooting incident at a school in Muscat, Oman, which resulted in four deaths and numerous injuries, the Sri Lankan Embassy has warned its citizens against visiting the affected area due to potential escalation of violence.
 
-ஓமானின் அல் -வாடி அல் -கபீர் பகுதியில் உள்ள பள்ளிவாசலுக்கு அருகில் நடத்தப்பட்ட துப்பாக்கிச் சூட்டில் 4 பாகிஸ்தான் பிரஜைகள் பலியாகினர். பலர் காயமடைந்தனர். இந்தப் பகுதியில் அதிகளவான இலங்கையர்கள் பணிபுரிந்து வருகின்றனர்.
+🟩
 
-இந்த நிலையில். அங்கு மோதல் நிலைமை மேலும் அதிகரிக்கக்கூடும் என்ற அச்சம் நிலவுவதால் அங்குள்ள இலங்கையர்களை குறித்த பகுதிக்குச் செல்ல வேண்டாம் என ஓமானுக்கான இலங்கைத் தூதரகம் அறிவுறுத்தியுள்ளது. (a)
+The Sri Lankan Embassy to the country has advised Sri Lankans working in Muscat in Oman's capital.
+
+Four Pakistani citizens were killed in a shooting that carried out a school in Oman al -Wadi al -Qabir. Many people were injured. Most Sri Lankans are working in the area.
+
+At this stage. The Sri Lankan embassy of Oman has advised the Sri Lankans not to go to the area as there are fears that the conflict may increase further.. (A)
 
 ◼️
 
 [Data](articles/73627dcd.json)
+
+[Extended Data](ext_articles/73627dcd.ext.json)
 
 ---
 
@@ -145,6 +195,22 @@ It is said that the ship was sailing to the Harbor port of Yemen.
 [Data](articles/c8d28aa8.json)
 
 [Extended Data](ext_articles/c8d28aa8.ext.json)
+
+---
+
+### ரணில் விக்ரமசிங்கவின் வெற்றியை யாராலும் தடுக்க முடியாது  -  ஐக்கிய தேசிய கட்சி உறுதி
+
+*2024-07-16 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188606) · `ta`
+
+ஜனாதிபதி தேர்தலை பிற்போடுவதற்கு ரணில் விக்ரமசிங்கவோ அரசாங்கமோ எந்தவித மறைமுக நடவடிக்கையையும் மேற்கொண்டதில்லை. ஆனால் எதிர்க்கட்சியே தேர்தலை பிற்போடுவதற்கான சதித்திட்டங்களை மேற்கொண்டு ரணில் விக்ரமசிங்கவின் மீது குற்றம்சாட்டி வருகிறது. ஆனால் உரிய காலத்தில் தேர்தலை நடத்துவதற்கு ரணில் விக்ரமசிங்க உறுதியாக இருக்கிறார் என ஜனாதிபதியின் தொழில் உறவுகள் ஆணையாளர் சமன் ரத்னப்பிரய தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி தேர்தலை பிற்போடுவதற்கு ஒரு சிலர் மறைமுகமாக செயற்பட்டு வருகின்றனர். கடந்த வாரம் வியாபாரி ஒருவரால் ஜனாதிபதியின் பதவிக்காலத்தை கேள்விக்குட்படுத்தி, உயர் நீதிமன்றில் வழக்கு தொடுக்கப்பட்டிருந்தது.
+
+...
+
+[Data](articles/4229e413.json)
 
 ---
 
@@ -390,6 +456,8 @@ Wijesekera in the past has said the CEB could be managed with only 5,000 cadres 
 
 [Data](articles/8840b9cc.json)
 
+[Extended Data](ext_articles/8840b9cc.ext.json)
+
 ---
 
 ### Police firing on tipper vehicle in Kilinochchi: one injury
@@ -479,6 +547,8 @@ More the 17.1 million voters will be eligible to case their votes in the upcomin
 ◼️
 
 [Data](articles/044e1451.json)
+
+[Extended Data](ext_articles/044e1451.ext.json)
 
 ---
 
@@ -744,6 +814,8 @@ Meanwhile Minister Wijesekera said many borrowings had been settled from profits
 
 [Data](articles/a1e59e4f.json)
 
+[Extended Data](ext_articles/a1e59e4f.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 303.70/304.00 to US dollar
@@ -765,6 +837,8 @@ A bond maturing on 01.10.2032 closed at 12.30/55 percent. (Colombo/Jul16/2024)
 ◼️
 
 [Data](articles/08c2d3f8.json)
+
+[Extended Data](ext_articles/08c2d3f8.ext.json)
 
 ---
 
@@ -811,6 +885,8 @@ Local activity was seen on Pan Asia Banking Corporation Plc. This was local inst
 ...
 
 [Data](articles/5d9979a6.json)
+
+[Extended Data](ext_articles/5d9979a6.ext.json)
 
 ---
 
@@ -1210,6 +1286,8 @@ However, since H M K Property Developers (Pvt) Ltd had failed to comply with rel
 
 [Data](articles/e1551518.json)
 
+[Extended Data](ext_articles/e1551518.ext.json)
+
 ---
 
 ### The bride girl caught the vehicle
@@ -1475,6 +1553,8 @@ The Nanu Oya Railway station attracts both local and international travelers vac
 ◼️
 
 [Data](articles/72ae46b9.json)
+
+[Extended Data](ext_articles/72ae46b9.ext.json)
 
 ---
 
@@ -1756,6 +1836,8 @@ The Current Buying Conditions measure reached a new peak of 29 points in June, i
 
 [Data](articles/92f642df.json)
 
+[Extended Data](ext_articles/92f642df.ext.json)
+
 ---
 
 ### Sri Lanka launches essay competition on Economic Transformation bill
@@ -1777,6 +1859,8 @@ The deadline for applications for this competition, organized by the Presidentia
 ...
 
 [Data](articles/cf5b37d6.json)
+
+[Extended Data](ext_articles/cf5b37d6.ext.json)
 
 ---
 
@@ -1876,6 +1960,8 @@ Though the Water Board is now making operational profits, it is not making cashf
 
 [Data](articles/d3beb85b.json)
 
+[Extended Data](ext_articles/d3beb85b.ext.json)
+
 ---
 
 ### Sri Lanka prepares policy to admit foreign university students
@@ -1895,6 +1981,8 @@ The 17 state universities under the University Grants Commission allocate 5 perc
 ...
 
 [Data](articles/f2a342d3.json)
+
+[Extended Data](ext_articles/f2a342d3.ext.json)
 
 ---
 
@@ -2271,69 +2359,5 @@ The Cabinet has approved the proposal put forward by Water Supply and Estate Inf
 [Data](articles/3a39ce0e.json)
 
 [Extended Data](ext_articles/3a39ce0e.ext.json)
-
----
-
-### Sri Lanka to release confiscated ginger haul for Ayurveda medicine production
-
-*2024-07-16 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-release-confiscated-ginger-haul-for-ayurveda-medicine-production-172296/) · `en`
-
-ECONOMYNEXT – Sri Lanka Customs will release 50 metric tonnes of ginger it confiscated, for use in the Ayurveda medicine production, Cabinet spokesman minister Bandula Gunawardena said.
-
-“Due to the revere scarcity of medicinal ginger in the market at present, 7 drugs which require it to be produced are in short supply,” Gunawardena told reporters on Tuesday, announcing the week’s cabinet decisions.
-
-Medicinal ginger is used as raw material for 87 percent of medicine products manufactured by the Sn Lanka Ayurvedic Drugs Corporation, he said.
-
-The ginger, which was brought into the country through illegal methods [nila novana marga] will be released for medicine production, in a way that wont harm local ginger farmers, the minister said.
-
-“The Cabinet of Ministers has approved the proposal presented by the Minister of Health to obtain the said stock
-
-of medicinal ginger to the Sri Lanka Ayurvedic Drugs Corporation under a concessionary price.” (Colombo/Jul16/2024)
-
-◼️
-
-[Data](articles/5c803bd3.json)
-
----
-
-### Rice - Kottu-Plane Triced down
-
-*2024-07-16 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198869) · `si`
-
-The All Ceylon Restaurant and Restaurant Association announced a reduction in electricity bills effective today. The chairman, Mr. Harshan, stated that the average rice price will decrease, along with a Rs 25 reduction for Rice and Kottu. He urged restaurants nationwide to pass these benefits onto all customers.
-
-🟩
-
-The All Ceylon Restaurant and Restaurant Association (LGH) says that the electricity bill will be reduced today (16).
-
-Mr. Harshan, Chairman of the Association Rukshan, said that the price of an average rice would be reduced by Rs.
-
-Meanwhile, Rise and Kottu will be reduced by Rs 25 by Rs.
-
-The Chairman requested the restaugashashika to be given to all consumers across the country to be given to all customers across the country.
-
-◼️
-
-[Data](articles/331b6838.json)
-
-[Extended Data](ext_articles/331b6838.ext.json)
-
----
-
-### Are we using information technology educational resources?
-
-*2024-07-16 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188584) · `ta`
-
-In Tamil Nadu, IT education relies heavily on 16 centers across 15 zones, plus 17 special resources nationwide, all chosen by the Ministry of Education. Ensuring service accessibility and qualified instructors is crucial.
-
-🟩
-
-Notes: The only computer resource in Tamil is the only computer in Tamil Nadu, located in 16 Information Technology Technology Centers located in 15 educational zones of the Central Province.. It also includes 17 special resources in the country selected by the Ministry of Education. Education authorities have to ensure that the services of the hill country are appointed and the appropriate instructors are appointed.
-
-◼️
-
-[Data](articles/45a6fbdf.json)
-
-[Extended Data](ext_articles/45a6fbdf.ext.json)
 
 ---

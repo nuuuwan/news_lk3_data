@@ -1,48 +1,68 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 22:35:17**
+As of **2024-07-16 22:53:06**
 
 ## Newspaper Stats
 
-*Scraped **35,592** Articles*
+*Scraped **35,595** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 316
 colombotelegraphcom | 337
-bbccomsinhala | 346
+bbccomsinhala | 347
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,213
+adalk | 3,214
 adaderanalk | 4,111
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,551
-adaderanasinhalalk | 5,956
+adaderanasinhalalk | 5,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,591 (100.0%) of 35,592 articles have been extended.
+35,592 (100.0%) of 35,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### අම්බලන්ගොඩ වෙඩිතැබීමක්
+### ශ්‍රී ලාංකිකයන් සේවය කළ තෙල් ප්‍රවාහන නෞකාවක් මුහුදේ ගිලෙයි
+
+*2024-07-16 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198889) · `si`
+
+ඕමානය ආසන්න මුහුදේ තෙල් ප්‍රවාහන නෞකාවක් ගිලීගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+
+එම නෞකාව යේමනයේ ඒඩන් වරාය වෙත යාත්‍රා කරමින් තිබූ බව පැවසෙයි.
+
+◼️
+
+[Data](articles/c8d28aa8.json)
+
+---
+
+### Ambalangoda shouting
 
 *2024-07-16 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198888) · `si`
 
-පොලීසිය සඳහන් කළේ නිවස ඉදිරිපිටදී 41ක් හැවිරිදි පුද්ගලයෙකුව එලෙස වෙඩිතබා ඝාතනය කර ඇති බවය.
+A 41-year-old man was fatally shot in Ambalangoda, with the incident occurring in front of his home. The victim suffered a gunshot wound to the head.
 
-අදාළ පුද්ගලයාගේ හිසට වෙඩි ප්‍රහාරය එල්ල කර ඇති බවද පොලීසිය පවසයි.
+🟩
+
+The police said that 41-year-old man had been shot dead in front of the house.
+
+The victim has been shot dead in the head.
 
 ◼️
 
 [Data](articles/d2aebb4b.json)
+
+[Extended Data](ext_articles/d2aebb4b.ext.json)
 
 ---
 
@@ -325,6 +345,28 @@ The Cabinet of Ministers yesterday approved a proposal to pay a Rs. 10,000 one-t
 [Data](articles/9cf5b195.json)
 
 [Extended Data](ext_articles/9cf5b195.ext.json)
+
+---
+
+### සැමියා ඝාතනයට බිරිඳ අත්අඩංගුවට
+
+*2024-07-16 17:49:41* · [`adalk`](https://www.ada.lk/breaking_news/සැමියා-ඝාතනයට-බිරිඳ-අත්අඩංගුවට/11-410817) · `si`
+
+මොරටුව ලක්ෂපතිය ප්‍රදේශයේ පුද්ගලයකු කපා කොටා ඝාතනය කිරීමේ සිද්ධියට සැකපිට මරණකරුගේ බිරිඳ සහ ඇයගේ සොහොයුරා (16) අත්අඩංගුවට ගත් බව පොලිසිය පැවසීය.
+
+එසේ  ඝාතනයකොට ඇත්තේ අංක 77/63 රතුකුරුසවත්ත මොරටුව ප්‍රදේශයේ පදිංචිව සිටි(42)  වීරසුන්දර ගුණවර්ධනලාගේ හරේන්ද්‍ර කුමාර නමැති අයෙකි.
+
+වන්වන් නයින් වෙත ලැබුණු ඇමතුමකට අනුව සිදුකළ විමර්ශනයේ දී කැපුම් තුවාල සහිතව නිවසක් තුල පුද්ගලයෙකු වැටී සිටින බව තොරතුරක් ලැබුන බව පොලීසිය පැවසීය.
+
+පොලිසිය එම ස්ථානයට ලඟා වන විටත් තුවාල සහිතව සිය නිවසේ සාලයේ වැටී සිටි පුද්ගලයා එතැනම  මියගොස් සිටි බව පොලිසිය පැවසීය.
+
+අත්අඩංගුවට පත් සැකකාරිය මොරටුව මහේස්ත්‍රාත් උද්දාහල සුවන්දුරුගොඩ මහතා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව පැය හතළිස් අටක රැඳවුම් නියෝග ලබා ගෙන ඇත. ඇයගෙන් මනුෂ්‍ය ඝාතනය සම්බන්ධයෙන් වැඩිදුරටත් ප්‍රශ්න කිරීමට නියමිතය.
+
+සිදු වුයේ කුමක්දැයි පොලිසිය බිරිඳගෙන් විමසා ඇති අතර ඇය පවසා ඇත්තේ පිරිසක් නිවෙසට කඩා වැදී සිය සැමියාට පහර දුන් බවය
+
+...
+
+[Data](articles/7535aed3.json)
 
 ---
 
@@ -743,6 +785,28 @@ Caspersky Labsk Labsk Antivalus products, Internet security and password managem
 [Data](articles/1baa28fb.json)
 
 [Extended Data](ext_articles/1baa28fb.ext.json)
+
+---
+
+### ඕමානයේ දී මුහුදු බත්වූ නෞකාවේ සිටි ලාංකිකයින් තිදෙනෙක් ඇතුළු කාර්ය මණ්ඩලය අතුරුදන්
+
+*2024-07-16 16:11:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c87r03y8x5vo) · `si`
+
+ඕමානයේ දී මුහුදු බත්වූ නෞකාවේ සිටි ලාංකිකයින් තිදෙනෙක් ඇතුළු කාර්ය මණ්ඩලය අතුරුදන්
+
+කොමොරෝස් දුපත් ධජය යටතේ යාත්‍රා කළ ඉන්ධන ප්‍රවාහන නෞකාවක් (ජුලි 16 වැනිදා) ඕමාන මුහුදේදී අනතුරට ලක්වීමෙන්  එහි සේවය කළ ශ්‍රී ලාංකිකයින් තිදෙනෙකු ඇතුළු 16 දෙනෙකු ගෙන් යුත් කාර්ය මණ්ඩලය අතුරුදන්ව ඇති බව ඕමානයේ සමුද්‍රීය ආරක්ෂක ඒජන්සිය නිවේදනය කර සිටියි.
+
+එලෙස අනතුරට පත්වූ නෞකාවේ කාර්ය මණ්ඩලයේ සිටි සෙසු 13 දෙනා ඉන්දීය ජාතිකයින් වේ.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ ‘ප්‍රෙස්ටීජ් ෆැල්කන්’ නම් වූ මීටර් 117ක දිගින් යුත් ඉන්ධන ප්‍රවාහන නෞකාවක් බව ඕමාන බලධාරීන් පවසයි.
+
+මෙම නෞකාව ඕමානයේ, රාස් මද්‍රකාහි සිට නාවුක සැතපුම් 25ක් දුරින් වූ මුහුදු කලාපයේ දී පෙරළී ගොස් ඇති බවත් අතුරුදන්ව ඇති නෞකාවේ කාර්ය මණ්ඩලය සොයා මෙහෙයුම් ක්‍රියාත්මක කර ඇති බවත් ඕමාන සමුද්‍රීය ආරක්ෂක ඒජන්සිය නිවේදනය කර ඇත.
+
+ඕමාන බලධාරීන් සඳහන් කරන පරිදි මෙම නෞකාව එරට ඩියුකම් වරායේ සිට යේමනයේ ඒඩ්න් වරයා බලා යාත්‍රා කරමින් තිබී ඇත.
+
+...
+
+[Data](articles/e34a3c39.json)
 
 ---
 
@@ -2315,87 +2379,5 @@ Also, police said that he was wearing a red extract. Fort police are conducting 
 [Data](articles/b5ab8937.json)
 
 [Extended Data](ext_articles/b5ab8937.ext.json)
-
----
-
-### Medical student remanded for governance before the internship started
-
-*2024-07-16 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198862) · `si`
-
-A medical student was arrested before starting his internship for allegedly misrepresenting qualifications at a private clinic launch. The incident occurred when he claimed to be qualified to treat patients despite lacking proper certification. This led to his arrest and subsequent remand for further investigation.
-
-🟩
-
-Colombo Additional Magistrate Harrasada Kekunawela yesterday to be arrested for a private medical clinic to the launch of a private medical clinic at the 19th and two-year-old couple in a private medical clinic.15 The afterdeon of the afternoon.
-
-Attorney-at-Law Hushar Asar Situ, a lawyer and a lawyer in Kolonnawa was given medical care after the treatment of the medical treatment.Steps were taken.
-
-The name of another doctor mentioned in the official seal specified in the medical certificate.
-
-The suspect had stated that he was qualified to provide medical attention to the Wellampitiya Police.
-
-According to the complaint, the Colombo Magistrate's Court had prepared a report to the court and registered in the Colombo Magistrate's Court.
-
-Additional Magistrate Harrasada Kekunai, who was called to police officers, had ordered the police to be arrested and produced before the court.
-
-...
-
-[Data](articles/c9e76598.json)
-
-[Extended Data](ext_articles/c9e76598.ext.json)
-
----
-
-### UNESCO Director General to visit the island
-
-*2024-07-16 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198860) · `si`
-
-UNESCO Director General Audrey Azoulay arrives in Sri Lanka for a visit from the 16th to the 19th. She will meet with President Ranil Wedasinghe, Minister of Education Susil Premajayantha, Acting Foreign Minister Tharaka Balasuriya, and attend a government meeting. The visit marks the 75th anniversary of UNESCO's membership.
-
-🟩
-
-The Director General of the UNESCO has arrived in the island, our correspondent said.
-
-She and other delegation had arrived at the Katunayake International Airport today (16).
-
-Ms. Audrey Azoulay is currently being held in Sri Lanka until the 19th.
-
-During his visit, President Ranil Wedasinghe is scheduled to hold talks with the Minister of Education Susil Premajayantha, Acting Foreign Minister Tharaka Balasuriya and Government Meeting.
-
-Ordy Aunube is scheduled to attend the 75th anniversary of the UNESCO's membership.
-
-◼️
-
-[Data](articles/8c12a6fe.json)
-
-[Extended Data](ext_articles/8c12a6fe.ext.json)
-
----
-
-### Trump's Selection Vans
-
-*2024-07-16 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198861) · `si`
-
-Donald Trump has selected J.J. Van as the Senate Sena Van, known as "Trump Van," following a thorough review of their social media presence. This decision was ratified by the Republican National Committee. Amidst preparations for the upcoming November presidential election, where Trump is the Republican candidate, a 20-year-old, Matthew Crutch, attempted to assassinate him during a rally in Pennsylvania, injuring his right ear.
-
-🟩
-
-The former American President Donald Trump has taken steps to name JJ van, the Senate Sena Van, known as a Trump, as a Trump.
-
-The representatives of the Representative of the Republican Representative Conference yesterday (49) was approved by party representatives.
-
-Trump had said that Vas was chosen after the most lengthy consciousness of their social media account.
-
-The American presidential election is scheduled to be held in November and Trump has been named the Republican Party candidate for this purpose.
-
-A 20-year-old young man named Matthew Cruch tried to kill Trump.
-
-Trump shot at Trump while addressing an election rally in Pennsylvania, and his right ear was injured.
-
-◼️
-
-[Data](articles/ee1cb51d.json)
-
-[Extended Data](ext_articles/ee1cb51d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 21:20:06**
+As of **2024-07-16 21:35:34**
 
 ## Newspaper Stats
 
-*Scraped **35,585** Articles*
+*Scraped **35,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,212
-adaderanalk | 4,109
+adaderanalk | 4,110
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,551
-adaderanasinhalalk | 5,953
+adaderanasinhalalk | 5,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,582 (100.0%) of 35,585 articles have been extended.
+35,585 (100.0%) of 35,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### Teacher-principal trade unions to launch work-to-rule campaign
+
+*2024-07-16 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100564/teacher-principal-trade-unions-to-launch-work-to-rule-campaign) · `en`
+
+The Teacher-Principal Trade Union Alliance has decided to launch a work-to-rule campaign for two weeks starting from July 22.
+
+Accordingly, the trade unions have decided to withdraw from all activities outside the scope of their school-related duties.
+
+The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin revealed this today (16) while speaking at a press conference held by the Teacher-Principal trade unions in Colombo.
+
+◼️
+
+[Data](articles/5985a977.json)
+
+---
+
+### ‍පැරිස් ඔලිම්පික් උළෙලේ ගිනිසිළුව රැගෙන ගිය ලංකාවේ උපන් තර්ශන්
+
+*2024-07-16 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198886) · `si`
+
+‍පැරිස් ඔලිම්පික් උළෙලේ ගිනිසිළුව පැරිස් නුවර වීථිවල මේ දිනවල රැගෙන යන අතර ශ්‍රී ලංකාවේ උපත ලැබූ ප්‍රංශයේ සම්මානනීය බේකරි නිෂ්පාදකයෙකු වන තර්ශන් සෙල්වරාජ් මහතාටද ඊයේ එම අවස්ථාව උදා වුණි.
+
+තර්ශන් සෙල්වරාජ් ඉතිහාසගත වන්නේ ඔලිම්පික් ගිනිසිළුව රැගෙන යන ශ්‍රී ලාංකික සම්භවයක් සහිත පළමු පුද්ගලයා ලෙසය.
+
+2023 වසරේදී ඔහු ජනප්‍රියත්වයට පත් වූයේ ප්‍රංශයේ වාර්ෂිකව පවත්වන සාම්ප්‍රදායික බැගෙට් පාන් වර්ගය නිෂ්පාදනය කරන ප්‍රංශයේ හොඳම බේකරි නිෂ්පාදකයාට හිමි සම්මානය දිනා ගැනීමත් සමගය.
+
+◼️
+
+[Data](articles/47629bb3.json)
+
+---
 
 ### Teachers and principals to fight again
 
@@ -258,19 +290,31 @@ He said the strongest net could be made to capture tax evictions and steps have 
 
 ---
 
-### ’’වෙස්සගිරිය’’ ඉසුරුමුණියේම කොටසක්
+### Part of 'Wessagiriya' wasurum
 
 *2024-07-16 17:23:50* · [`adalk`](https://www.ada.lk/breaking_news/’’වෙස්සගිරිය’’-ඉසුරුමුණියේම-කොටසක්/11-410815) · `si`
 
-අනුරාධපුර පූජා නගරයේ පිහිටි  "වෙස්සගිරිය" වර්තමාන ඉසුරුමුණියේම කොටසක් බවට සාක්ෂි ලැබී ඇතැයි පුරාවිද්‍යා  අධ්‍යක්ෂ ජනරාල් මහාචාර්ය ඩී. තුසිත මෙන්ඩිස් මහතා පැවසීය.
+The Director General of Archaeology, under the Ministry of Cultural Affairs, plans to conserve and promote the Vessagiriya sacred site for tourism. This initiative follows archaeological discoveries linking it to the Esurakumnawa era. The project aims to preserve the historical significance while enhancing its appeal for visitors.
 
-පුරාවිද්‍යා අධ්‍යක්ෂ ජනරාල්වරයා මේ බව පැවසූයේ සංස්කෘතික කටයුතු රාජ්‍ය අමාත්‍ය විදුර වික්‍රමනායක මහතාගේ ප්‍රධානත්වයෙන් ඉකුත් දාහතර දා  වෙස්සගිරිය  "උරුම උද්‍යානයක්" ලෙස එහි සංරක්ෂණ කටයුතු ආරම්භ කිරීම සහ නිරීක්ෂණ චාරිකාවකට සහභාගී වූ අවස්ථාවේදීය.
+🟩
 
-වෙස්සගිරිය පුදබිමේ  ඉදිරි, සංරක්ෂණ සිදු කරන අතර තොරතුරු මධ්‍යස්ථානයක් මෙන්ම සංචාරක කර්මාන්තයට ඉවහල් වන පරිදි අලංකාර ලෙස මෙම ස්ථානය සකස් කිරීමටද නියමිතය.
+The Director General of Archeology General Prof. Prof. DEP. Thusitha Mendis said.
 
-...
+The Director General of Archeology was headed by the President of the Ministry of Cultural Affairs and the Fourteen Headship, "heritarization and a tour of conservation.
+
+The next, conservation of the Vessagiriya sacred area, the conservation is to be prepared and decorately decorated with the tourism center as well as tourism.
+
+The sources have revealed that in the Jethawana Project of the Jethawana Project of the Vocational Caste.It is revealed that it is located in that place.
+
+In an excavations made in the Vesagiriya is a part of the Esurakumnawa, the proof, witnessing to accept it is among them.
+
+The city should be conserved in the city of Sacred Town.
+
+◼️
 
 [Data](articles/4ab30330.json)
+
+[Extended Data](ext_articles/4ab30330.ext.json)
 
 ---
 
@@ -868,6 +912,8 @@ In many countries, the ruling class is made up of well-educated individuals who 
 
 [Data](articles/91a9c829.json)
 
+[Extended Data](ext_articles/91a9c829.ext.json)
+
 ---
 
 ### No decision to remove aesthetic and arts
@@ -979,6 +1025,8 @@ Former President Donald Trump is once again at the center of American political 
 ...
 
 [Data](articles/a771c73f.json)
+
+[Extended Data](ext_articles/a771c73f.ext.json)
 
 ---
 
@@ -2363,47 +2411,5 @@ A group of officers of the Ministry of External Affairs was also present at the 
 [Data](articles/8f8c31fd.json)
 
 [Extended Data](ext_articles/8f8c31fd.ext.json)
-
----
-
-### Rajitha's final decision
-
-*2024-07-16 09:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவின்-இறுதி-தீர்மானம்/175-340474) · `ta`
-
-Rajitha Senaratne, a United People's Power Parliamentarian, hasn't decided whether to back the current president in the upcoming election. He hopes the president's economic policies will continue.
-
-🟩
-
-United People's Power Parliamentarian Rajitha Senaratne says that the final decision has not been made regarding the support of the current president in the upcoming presidential election.
-
-The parliamentarian pointed out that he hoped that the current president and the government's economic programs should continue.
-
-◼️
-
-[Data](articles/58752354.json)
-
-[Extended Data](ext_articles/58752354.ext.json)
-
----
-
-### ‘Red’ alert issued over strong winds and rough seas
-
-*2024-07-16 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100544/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ warning for strong winds and rough seas for naval and multi-day fisherman communities in the Arabian Sea and Bay of Bengal.
-
-As per the warning, very strong winds of 70-80 kmph, and very rough seas are likely over Arabian Sea area (in sea areas bounded by (10N - 20N) and (55E – 75E)) and Bay of Bengal (in sea areas bounded by (12N - 17N) and (83E – 93E)) due to the active south-west monsoonal condition.
-
-Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
-
-Those who are out at aforementioned sea regions are advised to return to coasts or moved safer areas immediately.
-
-Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/d6158dbc.json)
-
-[Extended Data](ext_articles/d6158dbc.ext.json)
 
 ---

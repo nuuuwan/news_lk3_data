@@ -1,36 +1,82 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 12:35:35**
+As of **2024-07-16 12:53:50**
 
 ## Newspaper Stats
 
-*Scraped **35,515** Articles*
+*Scraped **35,522** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 315
+dbsjeyarajcom | 316
 colombotelegraphcom | 333
-bbccomsinhala | 345
+bbccomsinhala | 346
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,197
+adalk | 3,198
 adaderanalk | 4,098
 tamilmirrorlk | 4,291
 dailymirrorlk | 4,733
-virakesarilk | 5,532
-adaderanasinhalalk | 5,939
+virakesarilk | 5,535
+adaderanasinhalalk | 5,940
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,515 (100.0%) of 35,515 articles have been extended.
+35,515 (100.0%) of 35,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### நான் அரசியலில் இருக்கும் வரை அனுரகுமார ஜனாதிபதியாவதற்கு அனுமதிக்க மாட்டேன் - லொகான் ரத்வத்தையின் கருத்திற்கு ஐக்கிய மக்கள் சக்தி கண்டனம்
+
+*2024-07-16 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188591) · `ta`
+
+நான் அரசியலில் இருக்கும்வரை ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க ஜனாதிபதியாவதற்கு அனுமதிக்கமாட்டேன் என இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தை தெரிவித்துள்ளமைக்கு ஐக்கிய மக்கள் சக்தி கடும் கண்டனம் வெளியிட்டுள்ளது.
+
+தேர்தல்களில் தலையீடுகள் வன்முறைகள் குறித்த இலங்கையின் வரலாற்றை கருத்தில்கொள்ளும்போது இந்த அறிக்கையில் ஆபத்தான தொனி தென்படுகின்றது என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் எரான் விக்கிரமரட்;ண தெரிவித்துள்ளார்.
+
+வேட்பாளர் ஒருவர் தெரிவு செய்யப்படுவதை தடுப்பதற்கான உரிமை எந்த அரசியல்வாதிக்கும் இல்லை என எரான் விக்கிரமரட்ண தெரிவித்துள்ளார்.
+
+தேசிய மக்கள் சக்தியின் கொள்கைகளை நான் ஏற்றுக்கொள்ளாத அதேவேளை தேர்தலில் ஒரு வேட்பாளர் தெரிவு செய்யப்படுவதை தடுக்கும் அல்லது அனுமதிக்கும் உரிமை எந்த அரசியல்வாதிக்கும் இல்லை , என அவர் தெரிவித்துள்ளார்.
+
+நான் அரசியலில் இருக்கும்வரை ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க ஜனாதிபதியாவதற்கு அனுமதிக்கமாட்டேன் என இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தை தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f9465838.json)
+
+---
+
+### ඕමානයේ වෙඩි තැබීමක්
+
+*2024-07-16 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198870) · `si`
+
+ඕමානයේ අගනුවර පිහිටි දේවස්ථානයක් ආසන්නයේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයින් සිව් දෙනෙක් මියගොස් තවත් කිහිපදෙනෙක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
+
+එම කලාපයේ ගැටුම් නිරාකරණය සඳහා ඕමානය නිරතුරුවම මැදිහත් වන අතර වෙඩිතැබීම සම්බන්ධයෙන් පුළුල් පරීක්ෂණයක් පැවැත්වෙන බව එරට බලධාරීන් පැවසීය.
+
+◼️
+
+[Data](articles/fc309b45.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-16 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188588) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஜூலை 16) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 297.7381 ரூபாவாகவும், விற்பனை விலை 307.0529 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/8c975f03.json)
+
+---
 
 ### Cabinet approves amended water tariff policy and formula
 
@@ -91,6 +137,18 @@ The Chairman requested the restaugashashika to be given to all consumers across 
 [Data](articles/331b6838.json)
 
 [Extended Data](ext_articles/331b6838.ext.json)
+
+---
+
+### தகவல் தொழில்நுட்ப  கல்வி  வளங்களை  பயன்படுத்துகிறோமா?
+
+*2024-07-16 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/188584) · `ta`
+
+Notes: மத்திய மாகாணத்தின் 15 கல்வி வலயங்களிலும் அமைந்துள்ள 16 தகவல் தொழில் நுட்ப தொலைக் கல்வி கற்றல் மையங்களில் அட்டனில் அமைந்துள்ள நிலையம் மாத்திரமே தமிழில் கற்கைகளை முன்னெடுத்துச் செல்லும் ஒரே கணணி வள நிலையமாக உள்ளது. மேலும் கல்வி அமைச்சினால் தெரிவு செய்யப்பட்ட நாடெங்கினும் உள்ள 17 சிறப்பு வளநிலையங்களில் இது அடங்குகின்றது.  இதன் சேவைகளை மலையக மாணவர்கள் உரிய வழிகளில் பெற்றுக்கொள்கின்றார்களா, அங்கு உரிய பயிற்றுவிப்பாளர்கள் நியமிக்கப்பட்டுள்ளார்களா என்பதை கல்வி அதிகாரிகள் உறுதி செய்ய வேண்டியவர்களாக உள்ளனர்.
+
+◼️
+
+[Data](articles/45a6fbdf.json)
 
 ---
 
@@ -209,6 +267,32 @@ Accordingly, he has also announced that Bright Rice, Masonry and Rice have been 
 [Data](articles/940702b7.json)
 
 [Extended Data](ext_articles/940702b7.ext.json)
+
+---
+
+### Special announcement of Elections Commission on presidential election
+
+*2024-07-16 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188577) · `ta`
+
+The Elections Commission Chairman announced the presidential vote date will be revealed by the end of July, ensuring adherence to constitutional and electoral laws. The election is set post-September 17, with 771,040 new voters now eligible, totaling 1,714,000 voters. Governors were urged to halt illicit appointments ahead of the election.
+
+🟩
+
+Elections Commission Chairman RMAL Ratnayake said the date of the presidential vote will be officially announced at the end of July.
+
+He said this at a special media briefing organized by the Chairman of the Election Commission to clarify the news on the presidential election.
+
+The Chairman of the Elections Commission added that we will act in accordance with the provisions of the Constitution and the Presidential Election Act and that there is no barrier to conducting the election.
+
+Meanwhile, the Chairman of the Elections Commission said that the presidential election would be held after September 17.
+
+In this case, the Chairman of the Elections Commission said that 76 thousand new voters have qualified for voting in the presidential election and this time a million 71 lakhs 40 thousand voters have been eligible to vote in the presidential election.
+
+...
+
+[Data](articles/53e63e42.json)
+
+[Extended Data](ext_articles/53e63e42.ext.json)
 
 ---
 
@@ -379,32 +463,6 @@ At the same time, the parents have requested that they contact the number 076461
 [Data](articles/fe9a80c3.json)
 
 [Extended Data](ext_articles/fe9a80c3.ext.json)
-
----
-
-### Special announcement of Elections Commission on presidential election
-
-*2024-07-16 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188577) · `ta`
-
-The Elections Commission Chairman announced the presidential vote date will be revealed by the end of July, ensuring adherence to constitutional and electoral laws. The election is set post-September 17, with 771,040 new voters now eligible, totaling 1,714,000 voters. Governors were urged to halt illicit appointments ahead of the election.
-
-🟩
-
-Elections Commission Chairman RMAL Ratnayake said the date of the presidential vote will be officially announced at the end of July.
-
-He said this at a special media briefing organized by the Chairman of the Election Commission to clarify the news on the presidential election.
-
-The Chairman of the Elections Commission added that we will act in accordance with the provisions of the Constitution and the Presidential Election Act and that there is no barrier to conducting the election.
-
-Meanwhile, the Chairman of the Elections Commission said that the presidential election would be held after September 17.
-
-In this case, the Chairman of the Elections Commission said that 76 thousand new voters have qualified for voting in the presidential election and this time a million 71 lakhs 40 thousand voters have been eligible to vote in the presidential election.
-
-...
-
-[Data](articles/53e63e42.json)
-
-[Extended Data](ext_articles/53e63e42.ext.json)
 
 ---
 
@@ -751,6 +809,22 @@ Kilinochchi District Response Agent S. Muralitharan, Ministry officials, Kandawa
 [Data](articles/4aa742b9.json)
 
 [Extended Data](ext_articles/4aa742b9.ext.json)
+
+---
+
+### යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල්වරිය එයි
+
+*2024-07-16 09:53:30* · [`adalk`](https://www.ada.lk/breaking_news/යුනෙස්කෝ-අධ්‍යක්ෂ-ජනරාල්වරිය-එයි/11-410802) · `si`
+
+යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල් අවුඩ්‍රේ ඔසුලේ ( Audrey Azoulay ) මහත්මිය ශ්‍රී ලංකාවේ සංචාරයක් සඳහා 07/16 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය.
+
+ඇය සමග ඇයගේ දූත පිරිස ලෙස තවත් තිදෙනකු ද පැමිණ සිටියහ. ඔවුන් 07/16 දින අලුයම 02.10 ට දෝහා සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 662 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය වෙත පැමිණ සිටියහ .
+
+ඔවුන් පිළිගැනීම සදහා ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+
+◼️
+
+[Data](articles/8f8c31fd.json)
 
 ---
 
@@ -1396,6 +1470,30 @@ Domestic tariffs for the lowest users are now 6 rupees a unit down from 8 rupees
 
 ---
 
+### ජනාධිපතිවරණය 2024: මැතිවරණ දිනය ප්‍රකාශයට පත් කිරීම මේ මස අවසානයට පෙර
+
+*2024-07-16 06:36:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjl6nrz494do) · `si`
+
+ජනාධිපතිවරණය 2024: මැතිවරණ දිනය ප්‍රකාශයට පත් කිරීම මේ මස අවසානයට පෙර
+
+2024 ජනාධිපතිවරණය පැවැත්වෙන දිනය සහ නාම යෝජනා කැඳවීමේ නිල ප්‍රකාශය මෙම මස අවසානයට පෙර ප්‍රකාශයට පත් කරන බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්.රත්නායක අද (ජුලි 16 වැනිදා) ප්‍රකාශ කළේය.
+
+ඉදිරියේදී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සම්බන්ධයෙන් දේශපාලන පක්ෂ මෙන්ම, මහජනතාව සහ සිවිල් සංවිධාන අතර විශේෂ උනන්දුවක් පවතින බව මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා මාධ්‍ය හමුවකට එක්වෙමින් පැවසුවේය.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ජනාධිපතිවරණය පැවැත්වීම සිදුකළ හැකි දින වකවානු සම්බන්ධයෙන් කොමිෂන් සභාවේ සභාපතිවරයා මෙහිදී  කරුණු පැහැදිලි කිරීමක් කළේය.
+
+"මේ ඡන්ද විමසීම කොයි ආකාරයෙන්ද පවත්වාගෙන යන්නේ කියන එක සහ විශේෂයෙන් ඡන්ද විමසීමේ දිනය, නාමයෝජනා ලබා ගන්නා දිනය සහ ඡන්ද විමසීමේ ප්‍රකාශනය නිකුත් කරනු ලබන දිනය ගැන නොයෙකුත් කතා පැතිරෙනවා."
+
+"ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ පැහැදිලිවම සඳහන් වෙනවා ජනාධිපතිවරණය පැවැත්විය යුතු දිනය සම්බන්ධයෙන්."
+
+"ඒ අනුව ඡන්ද විමසීම පැවැත්වීමට නියමිතව තිබෙන්නේ සැප්තැම්බර් මාසේ 14 වෙනිදාත් ඔක්තෝම්බර් මාසයේ 16 වෙනිදා අතර දිනයක."
+
+...
+
+[Data](articles/7295f63a.json)
+
+---
+
 ### A red announcement from the weather
 
 *2024-07-16 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198852) · `si`
@@ -1439,6 +1537,20 @@ Secretary Dharmakeerthi emphasized that these advancements were particularly not
 [Data](articles/de58817a.json)
 
 [Extended Data](ext_articles/de58817a.ext.json)
+
+---
+
+### 
+
+*2024-07-16 03:04:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84382) · `en`
+
+Rajavarothayam Sampanthan: The Political Journey of a “Perunthalaiver” (Great Leader) –  Part 2.
+
+The funeral of veteran Tamil political leader Rajavarothayam Sampanthan took place   in Trincomalee on  7th July 2024.Large crowds  bade farewell to the Nonagenarian Trincomalee Parliamentarian who had served as MP for 32 years. Among those who paid homage to Sampanthan  in Trinco was   Sri Lankan President Ranil Wickremesinghe. Earlier  the President along with first lady Dr.Maithree Wickremesinghe had paid their respects in Colombo when the senior Tamil leader’s mortal remains were  kept for viewing at the AF Raymonds funeral parlour.
+
+...
+
+[Data](articles/d7753e5a.json)
 
 ---
 
@@ -2201,139 +2313,5 @@ The evening unfolded with tantalising offerings, where fragrant island spices mi
 [Data](articles/609cb590.json)
 
 [Extended Data](ext_articles/609cb590.ext.json)
-
----
-
-### The British Council announces new arts grant supporting cultural projects between UK and Sri Lanka
-
-*2024-07-15 21:32:00* · [`islandlk`](http://island.lk/the-british-council-announces-new-arts-grant-supporting-cultural-projects-between-uk-and-sri-lanka/) · `en`
-
-The British Council is thrilled to announce the opening of applications for its Connections Through Culture arts grants, a £700,000 grant programme designed to foster artistic and cultural collaborations between the UK and Asia-Pacific countries.
-
-Applicants in Sri Lanka can apply for grants of up to £10,000, for projects that enable genuine international collaboration between the UK and Asia-Pacific countries. We accept applications from all artforms, however proposals responding to Climate Change, and Diversity and Inclusion may be prioritised during final decision making. Projects supported by the Connections Through Culture Grants are required to include at least one UK-based applicant and one applicant based in Sri Lanka.
-
-The Connections Through Culture grants support new international collaborations between the UK and Sri Lanka, offering grant support to organisations and artists in the development of their creative projects.
-
-...
-
-[Data](articles/547f497f.json)
-
-[Extended Data](ext_articles/547f497f.ext.json)
-
----
-
-### Cable Solutions IPO opens next week
-
-*2024-07-15 21:31:00* · [`islandlk`](http://island.lk/cable-solutions-ipo-opens-next-week/) · `en`
-
-The initial public offering (IPO) of shares of a leading specialized integrated cable manufacturer in Sri Lanka, Cable Solutions Limited (CSLK), will open on the 23rd of July 2024 at 09.00am. Asia Securities Advisors (Private) Limited is the financial advisors and managers to the IPO.
-
-...
-
-[Data](articles/a1522f18.json)
-
-[Extended Data](ext_articles/a1522f18.ext.json)
-
----
-
-### HNB to back Soul Sounds’ global ambitions at World Choir Games 2024
-
-*2024-07-15 21:29:00* · [`islandlk`](http://island.lk/hnb-to-back-soul-sounds-global-ambitions-at-world-choir-games-2024/) · `en`
-
-Sri Lanka’s leading private sector bank, HNB PLC recently announced signing on as a sponsor of Soul Sounds, Sri Lanka’s premier female choir ensemble, for the World Choir Games 2024. This renowned event, set to take place in Auckland, New Zealand from July 10 to 20, will see Soul Sounds representing Sri Lanka on the global stage.
-
-“We are proud to support Soul Sounds in their journey to the World Choir Games 2024. As Sri Lanka’s premier female choir, their dedication to musical excellence and their role as cultural ambassadors align perfectly with our values at HNB. Through our partnership, we aim to showcase the rich cultural heritage of Sri Lanka and inspire future generations of young artists,” said HNB Head of Club, Michelle de Silva.
-
-...
-
-[Data](articles/ea575046.json)
-
-[Extended Data](ext_articles/ea575046.ext.json)
-
----
-
-### Improvements in Govt.’s approval ratings exert positive impact on CSE
-
-*2024-07-15 21:28:00* · [`islandlk`](http://island.lk/improvements-in-govt-s-approval-ratings-exert-positive-impact-on-cse/) · `en`
-
-Yesterday’s CSE performance reflected a significant improvement on the share market front due to steady improvements in the approval ratings of the government in the area of economic decision making. This new survey was released by Verite Research last week, which indicated that the government’s approval rating on all economic activities increased to 24 percent from 10 percent.
-
-Over three times as many people feel better about the economy and the country’s economic trajectory compared to four months ago, according to this latest round of the Gallup-style ‘Mood of the Nation’ poll by Verité Research.
-
-...
-
-[Data](articles/f9e951b2.json)
-
-[Extended Data](ext_articles/f9e951b2.ext.json)
-
----
-
-### A lot of files shown by Anura, they are empty - President
-
-*2024-07-15 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198848) · `si`
-
-In a meeting with legal experts, the President criticized a national movement leader, Anura Kumara Dissanayaka, for causing a commotion and presenting numerous empty files. The President also discussed the failure of the opposition to join discussions, the incorrect portrayal of events, and the lack of any initiatives from the People's Liberation Front. He emphasized the importance of implementing the Anti-Corruption Act effectively and urged for stronger measures against corruption, highlighting the presentation of 400 files, 40 of which were legally challenged, while the remaining 360 were found to be empty.
-
-🟩
-
-හොරු අල්ලන බව පවසමින් ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ලිපිගොනු පෙන්වා සිදුකර ඇත්තේ රැවටීමක් බවත් , ඒ බොහෝ ලිපිගොනු හිස් ඒවා බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-නීතිඥවරු පිරිසක් සමග ජනාධිපති කාර්යාලයේ පැවති හමුවකදී ජනාධිපතිවරයා ඒ බව සඳහන් කළේය.
-
-...
-
-[Data](articles/5cdfaac2.json)
-
-[Extended Data](ext_articles/5cdfaac2.ext.json)
-
----
-
-### Three -wheeler fare reduction - Sri Lanka
-
-*2024-07-15 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188554) · `ta`
-
-In Sri Lanka, the All Ceylon Three-Wheeler Drivers Association plans to reduce fares starting midnight Monday (15) in the Western Province. The first kilometer will cost 100 rupees, and the second kilometer, 90 rupees.
-
-🟩
-
-The All Ceylon Three -wheeler Drivers Association has announced that the amendment will be made in the Western Province from midnight on Monday (15).
-
-The first kilometer fee will be reduced by Rs.
-
-Accordingly, the first kilometer fee within the Western Province will be charged 100 rupees and the second kilometer to 90 rupees will be charged.
-
-◼️
-
-[Data](articles/850409f6.json)
-
-[Extended Data](ext_articles/850409f6.ext.json)
-
----
-
-### Human burial excavation work brought to the concluded hook;Excavation of 52 human remains so far!
-
-*2024-07-15 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188553) · `ta`
-
-On the 10th day of the third phase of the Mullaitivu Kokkuttuwai human burial ground excavation, 52 human remains were discovered, bringing the total to 92. This includes five fully excavated bodies and the recovery of a firearm and an opening core. The operation, overseen by a team including legal and archaeological experts, continues with future court proceedings planned.
-
-🟩
-
-The 10th day excavation operations of the Mullaitivu Kokkuttuwai Human Purchase were continuously carried out on Monday (15.07.2024).
-
-On the 10th day of the third phase of the Mullaitivu Kokkuttuwai human burial ground, five human remains have been completely excavated and a gunman and an opening core has been recovered.
-
-In addition to the 40 human remains excavated in both stages, 52 human remains have been identified and excavated today during the third phase excavation work.
-
-In the presence of Mullaitivu Court Judge Dharmalingam Pradeepan, the team including Archaeological Professor Raj Somadeva, Mullaitivu District Legal Medical Officer K Vasudeva, Forensic Police, Attorney VK Niranjan and Grama Niladhari were present.
-
-Special Legal Specialist Kanagasabapathi Vasudeva
-
-The third phase of the Kokkuttuwai Human Rights excavation was held today (15) as the tenth day.. Today, the bone blocks in the human burial ground have been completely recovered.
-
-...
-
-[Data](articles/a01ed75a.json)
-
-[Extended Data](ext_articles/a01ed75a.ext.json)
 
 ---

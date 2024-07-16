@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 21:55:02**
+As of **2024-07-16 22:08:46**
 
 ## Newspaper Stats
 
-*Scraped **35,588** Articles*
+*Scraped **35,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,110
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,551
-adaderanasinhalalk | 5,954
+adaderanasinhalalk | 5,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,587 (100.0%) of 35,588 articles have been extended.
+35,588 (100.0%) of 35,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල්වරිය සහ ජනපති අතර හමුවක්
+
+*2024-07-16 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198887) · `si`
+
+ශ්‍රී ලංකාව යුනෙස්කෝ සංවිධානයේ සාමාජිකත්වය ලබා වසර 75ක් සපිරීම නිමිත්තෙන් මෙරට සංචාරයක නිරත යුනෙස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජනරාල් Audrey Azoulay මහත්මිය කොළඹ කොටුව ජනාධිපති මන්දිරයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවිය.
+
+ශ්‍රී ලංකා යුනෙස්කෝ හවුල්කාරීත්වයේ 75 වෙනි සංවත්සර සැමරුම් උළෙල අද (16) දින අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත සහ සංස්කෘතික අමාත්‍ය විදුර වික්‍රමනායක යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් නෙළුම් පොකුණ රඟහලේ දී පැවැත්වුණි.
+
+ඊට ප්‍රධාන ආරාධිතයකු ලෙස අද අලුයම දිවයිනට පැමිණි යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල්  Audrey Azoulay මහත්මිය ද සහභාගී වූවාය.
+
+මෙහිදී පාසල් ළමුන් විසින් මෙරට සංස්කෘතිකාංග ඇතුළත් ප්‍රසංගයක් ඉදිරිපත් කරන ලදි. මේ අවස්ථාවට ශ්‍රී ලංකා යුනෙස්කෝ කොමිසමේ ලේකම් ජනරාල් මහාචාර්ය සිරිමලී ප්‍රනාන්දු මහත්මිය ඇතුළු පිරිසක් සහභාගී විය.
+
+මෙරට සංචාරය අතරතුර Audrey Azoulay මහත්මිය මහනුවර, දඹුල්ල වැනි ඓතිහාසික වටිනාකම් සහිත යුනෙස්කෝ ලෝක උරුම ස්ථානයන් නැරඹීමට යාමට ද නියමිත ව ඇත.
+
+◼️
+
+[Data](articles/0792a320.json)
+
+---
 
 ### Teacher-principal trade unions to launch work-to-rule campaign
 
@@ -270,21 +290,29 @@ The Cabinet of Ministers yesterday approved a proposal to pay a Rs. 10,000 one-t
 
 ---
 
-### වසන්තගේ දේහය තැබූ මල්ශාලාට තර්ජනය කිරීම ගැන දුරකතන විශ්ලේෂණ වාර්තා කැඳවයි
+### Phone analysis reports call on the threatening of the flower of Spring
 
 *2024-07-16 17:39:12* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-දේහය-තැබූ-මල්ශාලාට-තර්ජනය-කිරීම-ගැන-දුරකතන-විශ්ලේෂණ-වාර්තා-කැඳවයි/11-410816) · `si`
 
-අතුරුගිරිය ප්‍රදේශයේ ටැටු ආයතනයකදී වෙඩි තබා ඝාතකයය කළ සුරේන්ද්‍ර වසන්ත හෙවත් ක්ලබ් වසන්ත නමැත්තාගේ මෘත දේහය තැන්පත් කර තිබු බොරැල්ල මල්ශාලාවට අවස්ථා දෙකකදී තර්ජනාත්මක දුරකතන ඇමතුම් දීම සම්බන්ධයෙන් දුරකථන විශ්ලේෂණ වාර්තා කැඳවීමට කොළඹ අතිරේක මහේස්ත්‍රාත් හර්ෂණ කැකුණුවෙල  මහතා බොරැල්ල පොලිසියට නියම කළේය.
+Colombo Magistrate Harrasantha Kekharawela ordered the Borella Police to analyze phone calls related to threats against the "flower of Spring" in Athurugiriya. The magistrate agreed to this request due to the need for phone analysis reports to uncover threatening calls. Following a complaint about a private murder in Borella, the police were directed to involve specific telecom companies in the investigation. They also committed to updating the court on the progress of their inquiry.
 
-තර්ජනාත්මක ඇමතුම් දුන් පුද්ගලයින් හෙළි කර ගැනීම සඳහා දුරකථන විශ්ලේෂණ වාර්තා අවශ්‍ය වී ඇතැයි කියමින් බොරැල්ල පොලිසිය  කළ ඉල්ලීමක් පිළිගනිමින් මහෙස්ත්‍රත්වරයා එලෙස නියම කළේය.
+🟩
 
-බොරැල්ල ප්‍රදේශයේ පෞද්ගලික මල්ශාලාවක් කළ පැමිණිල්ලක් සම්බන්ධයෙන් විමර්ශන ආරම්භ කළ බව දැනුම් දුන් බොරැල්ල පොලිසිය සිද්ධියට අදාළව කළ විමර්ශන වල ප්‍රගතිය දැක්වෙන වාර්තාවක් අධිකරණයට ඉදිරිපත් කළේය.
+Colombo Additional Magistrate Harrasantha Kekharawela has been sent to the Borella Police to summon the bodic of telephone calls or club spring in Athurugiriya area.
 
-පෞද්ගලික මල්ශාලාවට තර්ජනාත්මක ඇමතුම් දුන් පුද්ගලයින් හෙළි කර ගැනීම සඳහා කරන විමර්ශන සඳහා දුරකථන විශ්ලේෂණ වාර්තා අවශ්‍ය වී ඇතැයි දැනුම් දුන් බොරැල්ල පොලිසිය දුරකථන විශ්ලේෂණ වාර්තා දීමට  දුරකථන සමාගම් වලට නියම කරන්නැයි ඉල්ලා සිටියේය.
+The Magistrate accepted such a request, claiming that telephone analysis reports have been needed to reveal the threatening calls.
 
-...
+The Borella police stated that investigations were conducted regarding a complaint with a complaint with a complaint with a private murder in Borella, the Borella police were produced in court.
+
+Borella police asked to specify telephone companies to report telephone analysis reporting to the investigation into the interests of the private malxala.
+
+The police also decided to report the progress of the investigation into the incident, accepting the request and issued the orders.
+
+◼️
 
 [Data](articles/7d9d575e.json)
+
+[Extended Data](ext_articles/7d9d575e.ext.json)
 
 ---
 
@@ -2389,31 +2417,5 @@ Minister of Buddhasasana, Religious, and Cultural Affairs Vidura Wickramanayake 
 [Data](articles/fdaf4b18.json)
 
 [Extended Data](ext_articles/fdaf4b18.ext.json)
-
----
-
-### Minister of State for Chemical Factory
-
-*2024-07-16 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188569) · `ta`
-
-Tilil Amunugama, the Minister of Investment Development, visited the Paranthan Chemical Factory in Kilinochchi, assessing its rehabilitation post-damage from past crises. The factory, spanning 230 acres, aims to boost economic growth through Special Investment Promotion Zones. Accompanying the minister were local officials and land officers, marking progress in revitalizing the region's industrial sector.
-
-🟩
-
-Investment Development Minister Tilil Amunugama has made a visit to the North in order to investigate the four development projects in the Northern Province.
-
-As part of this, the Minister of Investment Development Tilum Amunugama made a visit to the Paranthan Chemical Factory of Kilinochchi on Monday (15).
-
-The Minister of Investment Development, the Minister of Investment Development visited the Paradhan Chemical Factory and Factory, which has been destroyed by the past extraordinary situation in the country and has long been rehabilitated.
-
-The factory, which was built on 230 acres, was aimed at developing under the Plan of Special Investment Promotion Zones.
-
-Kilinochchi District Response Agent S. Muralitharan, Ministry officials, Kandawala Divisional Secretary R. Pandagaran, Grama Sevakar and Kandawala Divisional Secretariat Land Officers were also present.
-
-◼️
-
-[Data](articles/4aa742b9.json)
-
-[Extended Data](ext_articles/4aa742b9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 14:07:22**
+As of **2024-07-16 14:20:00**
 
 ## Newspaper Stats
 
-*Scraped **35,532** Articles*
+*Scraped **35,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,199
-adaderanalk | 4,099
+adaderanalk | 4,100
 tamilmirrorlk | 4,294
 dailymirrorlk | 4,733
 virakesarilk | 5,537
@@ -26,27 +26,61 @@ adaderanasinhalalk | 5,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,531 (100.0%) of 35,532 articles have been extended.
+35,532 (100.0%) of 35,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### වනිඳු දුන් පොරොන්දුව
+### Female non-academic staff member of school arrested with heroin
+
+*2024-07-16 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100553/female-non-academic-staff-member-of-school-arrested-with-heroin) · `en`
+
+A female non-academic staff member of a government school has been arrested for the possession of 210 grams of heroin.
+
+The suspect was arrested by officers of the Matara Crime Division near the Bodhimaluwa Temple in the Weligama Police Division last evening (15).
+
+The arrestee is a 43-year-old resident of the Denipitiya area.
+
+Police stated that she is employed as a non-academic staff member of a government school in the Ayagama area and had been involved in distributing drugs for an organized crime and a drug trafficker in the Midigama area.
+
+The investigations have revealed that the suspect had only recently started trafficking drugs and was distributing them to individuals as directed by drug traffickers hiding overseas and handling the drug networks.
+
+The individuals who received the drugs from her were also allegedly involved in smaller-scale drug rackets.
+
+...
+
+[Data](articles/3f4c9306.json)
+
+---
+
+### The Promise of Fanum
 
 *2024-07-16 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198873) · `si`
 
-තමාට එල්ලවන අභියෝගවලට මුහුණදෙමින් ඉදිරියේදීත් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කිරීමට බලාපොරොත්තුවන බව කැන්ඩි නායක වනිඳු හසරංග සඳහන් කළේය.
+Candy Leader Fani Hasaranga, addressing post-Colombo Strikers' victory in the Sri Lanka Premier League, expressed confidence in overcoming personal challenges without letting them affect his gameplay. He highlighted his past successes and the importance of maintaining performance standards for future tournaments.
 
-ඊයේ (15) කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම සමග පැවැති තරගයෙන් පසු පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් ඒ බව සඳහන් කළේය.
+🟩
 
-"අපහසු කාල ඕනම ක්‍රීඩකයෙක්ට සහ ඕනම මනුස්සයෙක්ට වෙන්න පුළුවන් තමන්ගේ ජීවිතේ. මම ඒවට හිමින් හිමින් මුහුණ දෙනවා. මම දන්නවා මට මොනවද කරන්න පුළුවන් කියලා. මම දන්නවා මම මොනදවද කරලා තියෙන්නේ තියෙන එක. ක්‍රීඩකයෙක් විදිහට පිටින් එන අභියෝග මගේ ක්‍රීඩාවට බාධාවක් කරගන්නේ නැතුව මම ක්‍රීඩාවෙන් කරන්න පුළුවන් දේ මම කරනවා. මම ගිය වසරේ තරගාවලියේ වීරයා වුණා. මේ අවුරුද්දේ දක්ෂතා නොදක්වපු එක ගැන කනගාටුයි. අන්තිම තරගයේදී දක්ෂතා දක්වපු එක ගැන සතුටුයි. ඉදිරි තරගාවලි සඳහා මේක වැදගත් වෙනවා."
+Candy Leader Fani Hasaranga stated that he is expecting the challenges facing the challenges he hazards.
 
-ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ ඊයේ (15) රාත්‍රියේ පැවති තරගයෙන් ජයගැනීමට කලම්බු ස්ට්‍රයිකර්ස් කණ්ඩායම සමත් වුණි.
+He was speaking at a press conference yesterday (15) after the Colombo Strikers team.
+
+"Any man who is difficult time and any man can be in their lives. I face the snow of the snow. I know what I can do. I know what I've done. The challenges that come from a player do not interfere with my game, I do what I can do with the game. I was the hero of last year. Regrets that this year is not talented. Glad the talent in the last match. This is important for the future tournaments. "
+
+Colombo Strikers were able to win the Sri Lanka Premier League cricket yesterday.
+
+The goal won only 138 runs for the loss of 19 overs and scored 138 balls to bat first.
+
+The number of wickets held at 20 runs for the excellence engaged in excellent bowler.
+
+Chasing a 139-run target, Colombo team passed the target to bat first and scored only 3 wickets in 18 overs.
 
 ...
 
 [Data](articles/b990dbc0.json)
+
+[Extended Data](ext_articles/b990dbc0.ext.json)
 
 ---
 
@@ -246,6 +280,12 @@ The Cabinet of Ministers has given policy approval to amend paragraph (b) of Art
 
 The bill, prepared accordingly by the legal draftsman, has received clearance from the Attorney General.
 
+The approval has been given in the cabinet meeting held on July 9, 2024.
+
+The draft will be published in the Gazette and then submitted to Parliament.
+
+The proposal was jointly submitted by President Ranil Wickramasinghe and the Minister of Justice, Prison Affairs and Constitutional Reform Wijeyadasa Rajapakshe.
+
 ◼️
 
 [Data](articles/148c4f56.json)
@@ -325,6 +365,12 @@ The US dollar purchasing price was 297.7381 rupees and the sales price were Rs 3
 *2024-07-16 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100551/cabinet-approves-amended-water-tariff-policy-and-formula) · `en`
 
 The Cabinet of Ministers has granted approval to implement the amended water tariff policy and the water tariff formula starting from 2025.
+
+The new tariff policy and formula of the National Water Supply and Drainage Board were discussed at the Cabinet Meeting conducted on 08-04-2024.
+
+It was ordered to forward the new tariff policy and formula, including the required amendments, after discussions with all relevant parties.
+
+The proposal was presented by the Minister of Water Supply and Estate Infrastructure Development.
 
 ◼️
 
@@ -2393,21 +2439,5 @@ This has revealed that over 13,000 Americans have been conducting research.
 [Data](articles/54fcd20b.json)
 
 [Extended Data](ext_articles/54fcd20b.ext.json)
-
----
-
-### Sri Lanka settles USD 60 million Iranian oil debt with tea
-
-*2024-07-15 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100539/sri-lanka-settles-usd-60-million-iranian-oil-debt-with-tea) · `en`
-
-Sri Lanka Tea Board has announced that USD 60 million of the USD 251 million owed by Sri Lanka to Iran for fuel imports since 2011 has been paid through tea exports. This initiative follows a strategic agreement signed between the Sri Lankan and Iranian governments to use tea exports as a method of settling the debt, the Ministry of Agriculture and Plantation Industries said in a statement.
-
-The payments arrears for fuel imports were accumulated over several years due to various economic challenges including the COVID-19 pandemic’s severe impact on the economy, European sanctions imposed since 2011, the collapse of the tourism industry following the Easter attacks, and the overall economic downturn, which led to a shortage of dollars hindering the payment process, the statement added.
-
-...
-
-[Data](articles/b7d64ad2.json)
-
-[Extended Data](ext_articles/b7d64ad2.ext.json)
 
 ---

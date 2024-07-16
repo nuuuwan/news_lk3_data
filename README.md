@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 19:20:09**
+As of **2024-07-16 19:36:21**
 
 ## Newspaper Stats
 
-*Scraped **35,572** Articles*
+*Scraped **35,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,209
-adaderanalk | 4,108
+adaderanalk | 4,109
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,546
@@ -26,23 +26,43 @@ adaderanasinhalalk | 5,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,570 (100.0%) of 35,572 articles have been extended.
+35,572 (100.0%) of 35,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### අනුරාධපුර සහ කන්තලේ අතර භූ කම්පනයක්
+### Minor tremor reported east of Anuradhapura
+
+*2024-07-16 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100563/minor-tremor-reported-east-of-anuradhapura) · `en`
+
+A minor earth tremor with a magnitude of 2.7 on the Richter scale has been reported this evening (16) between Anuradhapura and Kantale, according to the Geological Survey and Mines Bureau.
+
+Accordingly, the Seismic Monitoring Center of the bureau stated that that the minor tremor was recorded at around 5.12 p.m. today approximately 41 km east from Anuradhapura.
+
+◼️
+
+[Data](articles/3f385011.json)
+
+---
+
+### An earthquake between Anuradhapura and Kantale
 
 *2024-07-16 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198884) · `si`
 
-අද (16) සවස අනුරාධපුර සහ කන්තලේ අතර භූ කම්පනයක් වාර්තා වී තිබේ.
+An earthquake measuring 2.7 on the Richter scale occurred today near Anuradhapura and Kantale.
 
-භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යාංශය පෙන්වා දෙන්නේ එය රික්ටර් මාපකයේ ඒකක 2.7ක ප්‍රබලත්වයක් සටහන් කර ඇති බවය.
+🟩
+
+An earthquake between Anuradhapura and Kantale today (16) have been reported.
+
+The Geological Survey and Mines Bureau point out that it has recorded 2.7 units of the Richter.
 
 ◼️
 
 [Data](articles/cc999c12.json)
+
+[Extended Data](ext_articles/cc999c12.ext.json)
 
 ---
 
@@ -142,23 +162,29 @@ In 2023, the winner of the “Grand Prize of the Traditional French Baguette,”
 
 ---
 
-### ජපානයෙන් ලංකාවේ වෛද්‍ය පරිපාලකයන්ට ශිෂ්‍යත්වයක්
+### Japan's medical administrators scholarship
 
 *2024-07-16 16:49:12* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවේ-වෛද්‍ය-පරිපාලකයන්ට-ශිෂ්‍යත්වයක්/11-410812) · `si`
 
-ජපානයේ නගෝයා (Nagoya) විශ්ව විද්‍යාලයේ වෛද්‍ය උපාධි පාසල  මගින් මෙරට තෝරා ගත් වෛද්‍ය පරිපාලකයින් හට මෙම වසරේ සිට වසරක පුහුණුවකින් පසු ශිෂ්‍යත්වයක් (YLP Master of Science in  Health Care Administration) ලබාදීමට කැමැත්ත පළ කර ඇත.
+Selected Sri Lankan medical administrators will receive scholarships from Japan's YLP program for Science in Health Care Administration after completing a year of training at the University of Nagoya. This agreement includes the arrest of Professor Eko Yamamoto and a delegation by the Minister of Health and Industry, Dr. Ramesh Pathirana, and the involvement of Dr. Sunil de Alwis and the Japanese embassy. Future selections are anticipated.
 
-ඒ අනුව එම විශ්ව විද්‍යාලයේ මහාචාර්ය   Eiko Yamamoto මහත්මිය ඇතුලු දූත පිරිසක් ඊයේ (15) පස්වරුවේ සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ්  පතිරණ මහතා හමු වී ඒ පිළිබද දැනුවත් කිරීමට කටයතු කරන ලදි.
+🟩
 
-සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම්, පශ්චාත් උපාධි වෛද්‍ය ආයතනයේ වෛද්‍ය පරිපාලන විද්‍යායතනයේ  සභාපති විශේෂඥ වෛද්‍ය සුනිල් ද අල්විස් මහතා ජපාන තානාපති කාර්යාලයෙන් කරනු ලැබූ ඉල්ලීමකට අනුව ප්‍රතිචාර දක්වමින් ඔවුන් මෙරට වෛද්‍ය පරිපාලකයින්ට මෙම  වසරක පුහුණුව ඇතුලු ශිෂ්‍යත්වය ලබාදිමට කැමැත්ත පළ කර ඇත. ‍
+The selected medical administrators in Sri Lanka have agreed to provide the YLP of Science In Health Care Administration after one year of training since the University of Nagoya.
 
-මේ වන විට ජපානයේ නගෝයා විශ්ව විද්‍යාලය මගින් වියට්නාමය, තායිලන්තය, මැලේෂියාව, බංග්ලාදේශය, මොංගොලියාව, කාම්බෝජියාව, කසකස්ථානය, ලාඨ්සය, කිර්ගිස් ජනරජය වැනි රටවල්වල වෛද්‍ය පරිපාලකයින්ට පුහුණුව ලබාදිම සිදු කරනු ලබයි.
+Accordingly, the university, Professor Eko Yamamoto, including the delegation, was arrested by the Minister of Health and Industry Dr. Ramesh Pathirana yesterday (15).
 
-ඉදිරි දෙසතිය තුල මීට අදාල නිලධාරින් තෝරා ගැනීම් කටයුතු කරනු ඇත.
+Dr. Sunil de Alwis, Chairman of the Postgraduate Secretary of the Ministry of Health, medical administrators of the Japanese embassy (PC) has agreed to provide scholarship including training in this year.. ‍
+
+Damada University in Japan, Dr. Kirgis, Kirgis, Kambodia, Cambodia, Kirgis Republic of Kirgis, is Large.
+
+The selections will be selected in the future.
 
 ◼️
 
 [Data](articles/022b4163.json)
+
+[Extended Data](ext_articles/022b4163.ext.json)
 
 ---
 
@@ -2437,31 +2463,5 @@ President Ranil Wickremesinghe made this statement during a recent meeting at th
 [Data](articles/edd3d4ad.json)
 
 [Extended Data](ext_articles/edd3d4ad.ext.json)
-
----
-
-### Donald Trump was officially chosen
-
-*2024-07-16 08:57:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டொனால்ட்-டிரம்ப்-அதிகாரப்பூர்வமாக-தெரிவு-செய்யப்பட்டார்/50-340471) · `ta`
-
-Donald Trump has been selected as the Republican presidential candidate for the upcoming US election, following a decision by the party after a rally where he was injured by a gunshot. The shooter, identified as 20-year-old Thomas Mathew Crooks, was killed by a sniper from an intelligence agency.
-
-🟩
-
-Donald Trump has officially proposed the Republican presidential candidate for the US presidential election in November.
-
-The Republican Party has made this decision in the wake of the recent election rally attended by Donald Trump.
-
-It was reported that the shooting was carried out during a campaign meeting in Pennsylvania and was injured in the former president's ear.
-
-During this time, a man suspected of the shooting was shot dead by a sniper gunman of the intelligence agency.
-
-The suspect has been identified as 20 -year -old Thomas Mathew Crooks. Remble
-
-◼️
-
-[Data](articles/2bd8211f.json)
-
-[Extended Data](ext_articles/2bd8211f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 23:20:07**
+As of **2024-07-16 23:35:44**
 
 ## Newspaper Stats
 
-*Scraped **35,600** Articles*
+*Scraped **35,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,214
-adaderanalk | 4,112
-tamilmirrorlk | 4,297
+adaderanalk | 4,113
+tamilmirrorlk | 4,298
 dailymirrorlk | 4,733
 virakesarilk | 5,555
 adaderanasinhalalk | 5,957
@@ -26,11 +26,45 @@ adaderanasinhalalk | 5,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,599 (100.0%) of 35,600 articles have been extended.
+35,600 (100.0%) of 35,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### 41-year-old man shot dead in Ambalangoda
+
+*2024-07-16 23:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100567/41-year-old-man-shot-dead-in-ambalangoda) · `en`
+
+A 41-year-old person has been shot dead near his residence at Kande Mawatha, Ambalangoda.
+
+Police said that the victim was shot in the head in front of his own house this evening (16).
+
+No information regarding the suspect or suspects have been uncovered as of yet while police investigations and ongoing.
+
+Meanwhile, it is reported that the victim is former cricket Dhammika Niroshan, who had represented the Under-19 Sri Lanka Cricket Team in 2002.
+
+During that period, he was also the captain of the Under-19 cricket team of a leading school in the country.
+
+◼️
+
+[Data](articles/575847d0.json)
+
+---
+
+### ஆசிரியர் - அதிபர்களின் திடீர் அறிவிப்பு
+
+*2024-07-16 22:52:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-அதிபர்களின்-திடீர்-அறிவிப்பு/175-340516) · `ta`
+
+எதிர்வரும் 22ஆம் திகதி முதல் இரண்டு வாரங்களுக்கு சட்டப்படி வேலை செய்யும் தொழிற்சங்க நடவடிக்கையில் ஈடுபட ஆசிரியர் - அதிபர் தொழிற்சங்க கூட்டமைப்பு தீர்மானித்துள்ளது.
+
+கொழும்பில் இன்று (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட இலங்கை ஆசிரியர் சங்கத்தின் பொதுச் செயலாளர் ஜோசப் ஸ்டாலின் இதனைத் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/7231cc1e.json)
+
+---
 
 ### 16 including 3 Sri Lankans missing after oil tanker capsizes off Oman coast
 
@@ -51,6 +85,8 @@ The tanker was built in 2007 and sails under the flag of the Comoros.
 ...
 
 [Data](articles/912611cd.json)
+
+[Extended Data](ext_articles/912611cd.ext.json)
 
 ---
 
@@ -2363,51 +2399,5 @@ He said that I lost 2000 soldiers in 2009, and I lost 2000 soldiers throughout 2
 [Data](articles/d05d15f5.json)
 
 [Extended Data](ext_articles/d05d15f5.ext.json)
-
----
-
-### Declaration of Election Day Before July
-
-*2024-07-16 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198864) · `si`
-
-The Elections Commission plans to announce the election date before July ends, without any specific reasons. This decision aligns with the Constitution and the Presidential Act.
-
-🟩
-
-The Elections Commission says that the election date is due to be announced before July end.
-
-Addressing a special media briefing at the Elections Commission.. Mr. Ratnayake said there was no other reason in implementing this day, he said.
-
-Mr. Ratnayake also said that this day could be considered as per the Constitution and the Presidential Act.
-
-◼️
-
-[Data](articles/483add2d.json)
-
-[Extended Data](ext_articles/483add2d.ext.json)
-
----
-
-### Water levels up Castlere and Massakale
-
-*2024-07-16 10:42:24* · [`adalk`](https://www.ada.lk/breaking_news/කාසල්රී-හා-මාඋස්සාකැලේ-ජල-මට්ටම්-ඉහළට/11-410804) · `si`
-
-Heavy rains cause rising water levels in Castlere and Massakale reservoirs. As of 6:00 am on the 16th, the Maussequale reservoir is 7 feet 7 inches from overflowing. Measures will be taken to maximize water release for hydropower generation.
-
-🟩
-
-Water levels in the Castlerero and Massakalela reservoirs are rising with heavy rains, which falls to the western standard.
-
-A reservoir officer who commented on these conditions was said that the water levels in Castlereari and Massesakale have increased due to heavy rains.
-
-Accordingly, at 6.00 am at 6.00 am on the 16th, the water level of the Maussequale reservoir is 7 feet 7 inches to the overflow.
-
-The official added that steps will be taken to the maximum release to the respective hydropower to generate water electricity in these reservoirs.
-
-◼️
-
-[Data](articles/68b302ce.json)
-
-[Extended Data](ext_articles/68b302ce.ext.json)
 
 ---

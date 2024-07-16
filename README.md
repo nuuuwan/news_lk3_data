@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 07:01:44**
+As of **2024-07-16 07:28:03**
 
 ## Newspaper Stats
 
-*Scraped **35,451** Articles*
+*Scraped **35,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,086
 tamilmirrorlk | 4,277
 dailymirrorlk | 4,733
 virakesarilk | 5,521
-adaderanasinhalalk | 5,922
+adaderanasinhalalk | 5,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,450 (100.0%) of 35,451 articles have been extended.
+35,451 (100.0%) of 35,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-07-16 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198852) · `si`
+
+ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ආරබි මුහුදු ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියාකරන බහුදින ධීවර සහ නාවික ප්‍රජාව සඳහා අද (16) උදෑසන 3.00ට එම නිවේදය නිකුත් කර ඇත.
+
+සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරබි මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 10ත් 20ත් අතර නැගෙනහිර දේශාංශ 55 සහ 75 අතර මුහුදු ප්‍රදේශවල ) සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 12ත් 17ත් සහ නැගෙනහිර දේශාංශ 83 සහ 93ත් අතර මුහුදු ප්‍රදේශවල) ඉතා තද සුළං පැ.කි.මී. පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මේ අතර සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයින හරහා දැනට පවතින සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+...
+
+[Data](articles/314b3d93.json)
+
+---
 
 ### Remarkable surge in Agricultural Exports in first half of 2024 – Secretary to the Ministry of Agriculture and Plantation Industries
 
@@ -320,19 +340,25 @@ The roundtable will focus on digital connectivity and physical and maritime conn
 
 ---
 
-### காற்றுடன் கூடிய வானிலை அதிகரிக்கும்
+### Increase the weather with the wind
 
 *2024-07-16 00:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றுடன்-கூடிய-வானிலை-அதிகரிக்கும்/175-340466) · `ta`
 
-நாட்டின் சில பகுதிகளில் இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology forecasts rain or thunderstorms in parts of the country, especially in the Sabaragamuwa Provinces, Nuwara Eliya, and Kandy districts. Additionally, the south-westerly wind is expected to intensify, affecting the weather nationwide.
 
-இதன்படி மேல், சபரகமுவ மாகாணங்களிலும், நுவரெலியா மற்றும் கண்டி மாவட்டங்களிலும் 75 மில்லி மீற்றர் அளவில் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+🟩
 
-அதேநேரம் தென்மேல் பருவ பெயர்ச்சி காரணமாக நாட்டில் தற்போது நிலவும் காற்றுடன் கூடிய வானிலை, மேலும் அதிகரிக்கக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.  (a)
+The Department of Meteorology has forecast rain or thunderstorms at night in some parts of the country.
+
+According to the Department of Meteorology, the Department of Meteorology has forecast rainfall in the Sabaragamuwa Provinces, Nuwara Eliya and Kandy districts.
+
+At the same time, the Department of Meteorology has stated that the prevailing wind weather in the country is likely to increase due to the south -wing mission.(a)
 
 ◼️
 
 [Data](articles/d4b2cd87.json)
+
+[Extended Data](ext_articles/d4b2cd87.ext.json)
 
 ---
 
@@ -2235,31 +2261,5 @@ When the arrested suspects were presented in court, it was ordered to be release
 [Data](articles/02ad1547.json)
 
 [Extended Data](ext_articles/02ad1547.ext.json)
-
----
-
-### Cash fraud claiming to work in Canada
-
-*2024-07-15 13:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-வேலை-தருவதாகக்-கூறி-பண-மோசடி/175-340439) · `ta`
-
-Sri Lanka's Foreign Employment Bureau arrested two individuals for alleged cash fraud in Canada. A complainant reported a Borella-based company received Rs 10 lakh but paid him less. The firm, lacking a valid permit, operated as an unauthorized foreign employment agency. Following the arrest of the owner and another suspect, they were released on bail of Rs 10 lakh.
-
-🟩
-
-Officials of the Sri Lanka Foreign Employment Bureau have arrested two persons for allegedly defrauding money in Canada.
-
-A person has lodged a complaint with the Bureau that a company operating in Borella area has received Rs 10 lakh, although he has received Rs.
-
-The company has revealed that the company was an illegal foreign employment agency conducted without a valid permit of the Sri Lanka Bureau.
-
-Subsequently, investigators have arrested another person, including the owner of the company.
-
-When the arrested suspects were presented in court, it was ordered to be released on bail of Rs 10 lakh.
-
-◼️
-
-[Data](articles/2fa0de91.json)
-
-[Extended Data](ext_articles/2fa0de91.ext.json)
 
 ---

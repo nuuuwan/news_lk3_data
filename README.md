@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 20:52:52**
+As of **2024-07-16 21:05:14**
 
 ## Newspaper Stats
 
@@ -26,77 +26,103 @@ adaderanasinhalalk | 5,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,574 (100.0%) of 35,582 articles have been extended.
+35,582 (100.0%) of 35,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### ගුරු සහ විදුහල්පතිවරුන් යළිත් සටනට
+### Teachers and principals to fight again
 
 *2024-07-16 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198885) · `si`
 
-එළඹෙන 22 වනදා සිට සති දෙකක කාලයක් අකුරට වැඩ කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීමට ගුරු - විදුහල්පති වෘත්තීය සමිති සන්ධානය තීරණය කර තිබේ.
+Guru-Principal Trade Union UPFA plans a two-week strike starting in 22 weeks, withdrawing from non-Guru schools. This decision was announced by Mr. Joseph Stalin at a Colombo press conference on 16th.
 
-ඒ අනුව පාසල්වලින් බැහැරව සිදුකරන සියලු ක්‍රියාමාර්ගවලින් ඉවත්වීමට එම සන්ධානය තීරණය කර ඇත.
+🟩
 
-අද (16) කොළඹදී පැවති මාධ්‍ය හමුවකට එක්වෙමින් ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා මේ බව පැවසීය.
+The Guru-Principal of the Guru-Principal Trade Union UPFA has decided to engage in a trade union action for two weeks from the next 22 weeks.
+
+Accordingly, the UPFA has decided to resign from all the schools outside the schools.
+
+He was speaking at a media briefing held in Colombo today (16), Mr. Joseph Stalin said this.
 
 ◼️
 
 [Data](articles/6a22d9e6.json)
 
+[Extended Data](ext_articles/6a22d9e6.ext.json)
+
 ---
 
-### கிளிநொச்சியில் டிப்பர் வாகனத்தின் மீது பொலிஸார் துப்பாக்கிச் சூடு : ஒருவர் காயம்
+### Police firing on tipper vehicle in Kilinochchi: one injury
 
 *2024-07-16 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188635) · `ta`
 
-கிளிநொச்சி பூநகரி பரந்தன் வீதியில் பொலிசாரின் சைகையை மீறி சென்ற டிப்பர் வாகனத்தின் மீது போலீசார் துப்பாக்கிச் சூடு மேற்கொண்டதில் ஒருவர் காயமடைந்து கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளர்.
+In Kilinochchi, a police shooting at a speeding tipper truck resulted in one injury. The incident occurred on the Poonakari Paradhan road, where the truck was stopped for inspection. Following the incident, a suspect was arrested, and investigations are ongoing.
 
-செவ்வாய்க்கிழமை (16) பிற்பகல்  கிளிநொச்சி பூநகரி பிரதேசத்துக்குட்பட்ட குடமுருட்டி பகுதியில் இருந்து சட்டவிரோதமான முறையில் மணல் அகழ்ந்து சென்ற டிப்பர் வாகனத்தை பொலிசார் சோதனையிட முற்பட்ட சமயம் பொலிசாரின் சைகையை  மீறி டிப்பர் வாகனம் வேகமாக பயணித்துள்ளது
+🟩
 
-குறித்த வாகனத்தை  சுமார்13 கிலோமீற்றர் தூரம் துரத்திச் சென்ற போலீசார் குறித்த டிப்பர் வாகனத்தின் மீது பூநகரி பகுதியில் வைத்து  மேற்கொண்ட துப்பாக்கிச்சூட்டில் டிப்பர் வாகனத்தில் பயணித்த ஒருவர் காயமடைந்துள்ளார்
+One person was injured and admitted to the Kilinochchi District General Hospital after police fired a tipper vehicle on the Poonakari Paradhan road in Kilinochchi.
 
-இதே நேரம் டிப்பர் வாகனத்தில் பயணித்து ஏனைய இருவர் தப்பி ஓடிய நிலையில் ஒருவரை போலீசார் கைது செய்துள்ளதுடன் சம்பவம் தொடர்பில் கிளிநொச்சி போலீசார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்
+The tipper vehicle was traveling fast when police tried to check the tipper vehicle from Kudamurutti area in Poonakari, Kilinochchi on Tuesday afternoon (16) afternoon.
 
-சம்பவத்தின் போது கிளிநொச்சியை சேர்ந்த ஆறுமுகம் நிதர்சன் (வயது- 23) என்பவரே இவ்வாறு காயமடைந்து கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A tipper vehicle was wounded in a tipper vehicle on a tipper vehicle on a tipper vehicle for chasing the vehicle about 13 kilometers.
+
+At the same time, a man has been arrested by the police and the Kilinochchi police are conducting investigations into the incident.
+
+During the incident, Arumugam Nitarshan (age 23) from Kilinochchi was injured and admitted to the Kilinochchi District General Hospital.
 
 ◼️
 
 [Data](articles/9c323595.json)
 
+[Extended Data](ext_articles/9c323595.ext.json)
+
 ---
 
-### கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வாய்வு முடிவிற்கு வந்தது; அகழ்வாய்வில் பங்குபற்றிய சகலதரப்புக்களையும் அறிக்கைசமர்ப்பிக்குமாறு உத்தரவிட்ட நீதிமன்று
+### The end of the Kokkuttuvai Human Rights Excavation came to an end;The judiciary ordered the report to report all the events that participated in the excavation
 
 *2024-07-16 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188634) · `ta`
 
-முல்லைத்தீவு - கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வாய்வுப் பணிகள் ஜூலை 16ஆம் திகதி செவ்வாய்க்கிழமை முடிவிற்குக் கொண்டுவரப்பட்டுள்ளதுடன்,  அகழ்வாய்வின்போது தோண்டப்பட்ட குழியும் பகுதியளவில் மூடப்பட்டது.
+The conclusion of the Kokkuttuvai Human Rights Excavation saw the judiciary mandate comprehensive reporting from all involved parties. Following the workshop's closure on July 16th, the focus shifted to documenting the excavation process, which uncovered 52 human remains along with various personal items. This documentation includes details like age, height, and clothing, among others. The court has emphasized the importance of adhering to international standards in handling the remains and closing the site.
 
-அதேவேளை அகழ்வாய்வின்போது தோண்டப்பட்ட குழியை காணாமல்போனோர் பணியக அதிகாரிகள், வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் ஆகியதரப்புக்களின் முன்னிலையில் பிறிதொரு நாளில் முழுமையாக மூடுவதற்கும் தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-இந் நிலையில் கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வாய்வில் பங்குபற்றிய அனைத்துத் தரப்பினர்களதும் அறிக்கைகளையும் சமர்ப்பிக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளதுடன், இதுதொடர்பான வழக்கு எதிர்வரும் ஓகஸ்ட் மாதம் 08ஆம் திகதிக்கு தவணையிடப்பட்டுள்ளது.
+The Mullaitivu - Kokkuttuwai Human Rights Workshop has been brought to an end on Tuesday 16th July and the excavation of the excavation was partially closed.
 
-முல்லைத்தீவு - கொக்குத்தொடுவாயில் கடந்த 2023ஆம்ஆண்டு, ஜூன் மாதம் 29ஆம் திகதி தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபையினர் நீர் இணைப்பினை மேற்கொள்வதற்காக கனரக இயந்திரம் கொண்டு நிலத்தினை அகழ்ந்தபோது மனித எச்சங்கள் இனங்காணப்பட்டன.
+At the same time, it is also decided to close the dug up the dug up during the excavation, in the presence of the Missing Bureau and the Relationships of the Disappeared.
+
+In this backdrop, the court has ordered the submission of reports of all parties who participated in the excavation of the Kokkuttuwai Human Rights Group and the case has been issued on August 8.
+
+On June 29, 2023, the Mullaithivu - Kokkuttuwa, the National Water Supply and Drainage Board was identified when the land was excavated with heavy machinery to carry out water.
+
+Subsequent excavations were carried out in the preliminary excavations that were identified as the human body.
 
 ...
 
 [Data](articles/9b983b2e.json)
 
+[Extended Data](ext_articles/9b983b2e.ext.json)
+
 ---
 
-### அநுராதபுரத்தில் நில அதிர்வு பதிவு!
+### Earthquake record in Anuradhapura!
 
 *2024-07-16 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188633) · `ta`
 
-அநுராதபுரம் வடக்கு பகுதியில் இன்று செவ்வாய்க்கிழமை (16) மாலை 2.7 மெக்னிடியூட் அளவிலான நில அதிர்வு பதிவாகியுள்ளது : புவியியல் ஆய்வு மற்றும் சுரங்கப் பணியகம் தெரிவித்துள்ளது.
+An earthquake of 2.7 magnitude occurred 41 km north of Anuradhapura on Tuesday evening, as reported by the Geological Survey and Mining Bureau.
 
-அநுராதபுரத்திலிருந்து வடக்காக 41 கிலோமீற்றர் தொலைவில் 2.7 மெக்னிடியூட் அளவில் இந்த நில அதிர்வுகளை உணர்ந்ததாக பொதுமக்கள் தெரிவித்துள்ளனர்.
+🟩
+
+The magnitude quantity of earthquake was reported on Tuesday (16) evening in the northern part of Anuradhapura: Geological Survey and Mining Bureau said.
+
+The public said that the earthquakes were felt at 2.7 magnitude at a distance of 41 kilometers north of Anuradhapura.
 
 ◼️
 
 [Data](articles/3d857ee4.json)
+
+[Extended Data](ext_articles/3d857ee4.ext.json)
 
 ---
 
@@ -136,19 +162,27 @@ The Geological Survey and Mines Bureau point out that it has recorded 2.7 units 
 
 ---
 
-### ஜனாதிபதித் தேர்தலுக்கு தடையேதும் கிடையாது : ஜூலை இறுதியில் உத்தியோகபூர்வ அறிவிப்பு வெளியிடப்படும் ; 17,140,000 பேர் வாக்களிக்க தகுதி - தேர்தல்கள் ஆணைக்குழு
+### There is no barrier to the presidential election: an official announcement will be made at the end of July;17,140,000 eligible to vote - Elections Commission
 
 *2024-07-16 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188631) · `ta`
 
-அரசியலமைப்பின் ஏற்பாடுகள் மற்றும் ஜனாதிபதித் தேர்தல் சட்டம் என்பவற்றுக்கு அமைய ஜனாதிபதி தேர்தலுக்கான பணிகளை முன்னெடுத்துள்ளோம். ஆரம்பக்கட்ட பணிகள் நிறைவடைந்துள்ளன. இதற்கமைய ஜனாதிபதி தேர்தல் தொடர்பான உத்தியோகபூர்வ அறிவிப்பை இந்த மாதம் இறுதி பகுதியில் அறிவிப்போம். இம்முறை 1 கோடியே 71 இலட்சத்து 40 ஆயிரம் வாக்காளர்கள் வாக்களிக்க தகுதி பெற்றுள்ளனர் என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+The presidential election is set to proceed without barriers, with an official announcement expected at the end of July. Approximately 17.14 million eligible voters will participate. The Election Commission has completed preliminary work according to constitutional and electoral laws. Expectations for the election have been high among the populace. Various considerations, including candidate propaganda activities and ensuring a conducive voting environment, will influence the election timeline. The nomination period is restricted to avoid conflicts with religious customs, and the exact dates for key stages of the election process, including the nomination papers deadline and the election itself, will be announced soon.
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை உரிய நேரத்தில் நடத்துவதற்கு தடையேதும் கிடையாது.கடந்த காலங்களை காட்டிலும் இம்முறை ஜனாதிபதி தேர்தல் குறித்து மக்கள் எதிர்பார்ப்புடன் உள்ளார்கள்.ஆகவே சுதந்திரமாகவும்,நீதியாகவும் தேர்தலை நடத்த அனைத்து தரப்பினரும் ஒத்துழைப்பு வழங்க வேண்டும் எனவும் ஆணைக்குழுவின் சார்பில் வலியுறுத்தினார்.
+🟩
 
-தேர்தல்கள் ஆணைக்குழுவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+We have carried out work for the presidential election in accordance with the provisions of the constitution and the presidential election law. The initial work has been completed. Accordingly, the official announcement of the presidential election will be announced at the end of this month. This time, 1 crore 71 lakhs and 40 thousand voters are eligible to vote, said RMAL Ratnayake, Chairman of the Election Commission.
+
+According to the Constitution, there is no barrier to holding the presidential election in a timely manner. People are expecting the presidential election over the past periods.
+
+He made this statement during a media briefing held at the Elections Commission's office on Tuesday (16).
+
+The Elections Commission has the responsibility to clarify the people on the presidential election.
 
 ...
 
 [Data](articles/31216e22.json)
+
+[Extended Data](ext_articles/31216e22.ext.json)
 
 ---
 
@@ -224,21 +258,27 @@ He said the strongest net could be made to capture tax evictions and steps have 
 
 ---
 
-### ICC වාර්ෂික සමුළුව ශ්‍රී ලංකාවේදී
+### ICC Annual Conference in Sri Lanka
 
 *2024-07-16 17:16:25* · [`adalk`](https://www.ada.lk/sports/ICC-වාර්ෂික-සමුළුව-ශ්‍රී-ලංකාවේදී/9-410814) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ (ICC) වාර්ෂික සමුළුව ලෝකයේ ක්‍රිකට් ක්‍රීඩා කරන රටවල් 108 ක නියෝජිතයන් 220 කගේ සහභාගීත්වයෙන් එළඹෙන 07/19 දින සිට 07/22 දින දක්වා ශ්‍රී ලංකාවේ පැවැත්වීමට කටයුතු සූදානම් කර තිබේ.
+The ICC Annual Conference, themed "Capitalizing On The Olympic Opportunity," will debut in Asia, specifically Sri Lanka, from July 19 to 22. It aims to unite cricket officials from Africa, Asia, Eastern Asia, Europe, and more, highlighting Sri Lanka Cricket's efforts and resources allocated for this event.
 
-ආසියානු කළාපයේ පළමු වරට මෙම සමුළුව ශ්‍රී ලංකාවේ පැවැත්වෙන අතර මේ සදහා ලෝකයේ ක්‍රිකට් ක්‍රීඩා කරන අප්‍රිකානු, ඇමෙරිකානු , ආසියානු , නැගෙනහිර ආසියානු , ෆැසිපික් කළාපීය සහ යුරෝපා රටවල් නියෝජනය කරමින් නියෝජිතයන් ශ්‍රී ලංකාවට පැමිණ සහභාගී වීමට නියමිතය.
+🟩
 
-"Capitalizing on the Olympic Opportunity " එළඹෙන පැරිස් ඔලිම්පික් තරගාවලිය සදහා ලද අවස්ථාවෙන් උපරිම ප්‍රයෝජන ගනිමු , යන තේමාව යටතේ මෙම වාර්ෂික සමුළුව සංවිධානය කර තිබේ.
+The International Cricket Council (ICC) Annual Conference will be held in Sri Lanka from 22/19 to 07/22.
 
-මේ සදහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මගින්  අවශ්‍ය සම්පත් දායකත්වය ලබා දීම සිදු කෙරේ .
+The conference will be held in Sri Lanka for the first time in Asia, and representing Sri Lanka and representatives of the African, the Asian, Eastern Asia, Eastern Asia, Eastern Asia, East and European countries.
+
+"Capitalizing On The Olympic Opportunity" This year's conference is organized under the theme of the theme:
+
+The resources required by SLC contributes to this program.
 
 ◼️
 
 [Data](articles/aeff1e0a.json)
+
+[Extended Data](ext_articles/aeff1e0a.ext.json)
 
 ---
 
@@ -262,19 +302,25 @@ The Cabinet has approved the proposal submitted by the President, Justice, Priso
 
 ---
 
-### உமாமகேஸ்வரனின் உருவச்சிலை திறந்துவைப்பு!
+### Opening the image of Umamakeswaran!
 
 *2024-07-16 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188625) · `ta`
 
-தமிழீழ மக்கள் விடுதலை கழகத்தின் செயலதிபர் க.உமாமகேஸ்வரனின் உருவச்சிலை வவுனியா மணிக்கூட்டு கோபுரசந்திக்கு அண்மையில் இன்று செவ்வாய்க்கிழமை (16) திறந்துவைக்கப்பட்டது.
+The image of K. Umamakeswaran, Secretary of the Tamil Eelam People's Liberation Organization, was unveiled in Vavuniya, with Jaffna MP Dharmalingam Siddharthan presiding over the inauguration. The event saw attendance from various Tamil liberation and national alliance leaders, marking a significant gathering.
 
-கழகத்தின் வவுனியா மாவட்ட அமைப்பாளர் க.சந்திரகுலசிங்கம் தலைமையில் இடம்பெற்ற இந்நிகழ்வில் முதன்மை அதிதியாக கலந்துகொண்ட யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் தர்மலிங்கம் சித்தார்த்தன் உருவச்சிலையினை உத்தியோகபூர்வமாக திறந்துவைத்தார்.
+🟩
 
-நிகழ்வில் தமிழீ்ழ விடுதலைக்கழகத்தின் முக்கியஸ்தர்கள், தமிழ்தேசிய கூட்டமைப்பின் அங்கத்துவ கட்சிகளின் முக்கியஸ்தர்கள்,பொது அமைப்பினர் உட்பட பலர் கலந்துகொண்டனர்.
+The image of the Secretary of the Tamil Eelam People's Liberation Organization K. Umamakeswaran was opened today (16) to the Vavuniya Manikku Goparasandi.
+
+Jaffna MP Dharmalingam Siddharthan officially inaugurated the image of the Vavuniya District Organizer K. Chandrakulasingham.
+
+The event was attended by many, including the leaders of the Tamil Liberation University, the leaders of the Tamil National Alliance (TNA) and the public organizations.
 
 ◼️
 
 [Data](articles/0802d8ff.json)
+
+[Extended Data](ext_articles/0802d8ff.ext.json)
 
 ---
 
@@ -987,6 +1033,8 @@ The Cabinet of Ministers has approved the Twenty-Second Amendment to the Constit
 ...
 
 [Data](articles/09c5ba4e.json)
+
+[Extended Data](ext_articles/09c5ba4e.ext.json)
 
 ---
 

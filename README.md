@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 17:35:47**
+As of **2024-07-16 17:56:28**
 
 ## Newspaper Stats
 
-*Scraped **35,565** Articles*
+*Scraped **35,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,205
+adalk | 3,206
 adaderanalk | 4,107
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,546
-adaderanasinhalalk | 5,950
+adaderanasinhalalk | 5,951
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,565 (100.0%) of 35,565 articles have been extended.
+35,565 (100.0%) of 35,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### බදු ගෙවීම පැහැර හරින අය සොයයි
+
+*2024-07-16 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198882) · `si`
+
+නව බදු පැනවීමට පෙර, ගෙවීම් පැහැර හැර ඇති හා කල්ගිය බදු මුදල් අය කරගැනීම පිලිබඳව අවධානය යොමුකරන බව රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඒ සඳහා දැනට පවත්නා නීතී යාවත්කාලීන කර, එසේ පැහැර හරින බදු අය කරගැනීම සඳහා සුවිශේෂී වැඩපිළිවෙලක් දියත් කරන බවත්  මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+"යම් ආකාරයකින් තමන්ට බදු ගෙවීමේ අසීරුතාවයක් ඇති නම් ඒ පිළිබඳව අභියාචනා කිරීමට මෙන්ම ඒ පිළිබඳව උසාවි යෑමට ඔවුන්ට අයිතියක් තිබෙනවා. එවැනි ඇතැම් උසාවි ක්‍රියාමාර්ග වසර 30කට පමණ වැඩි කාලයක් දිගින් දිගට දිග්ගැසෙමින් පැවතීම හේතුවෙන්, අධිකරණ ක්‍රියාමාර්ගය අවසන් වනවිට ඇතැමුන් මියගොසින්."
+
+එමෙන්ම බදු ගෙවීමට යටත් වන්නේ මසකට රුපියල් ලක්ෂයකට වැඩි ශුද්ධ ආදායමක් ඇති අයෙක් පමණක්‌ බවත්, ඔහු වෙනත් තැනකින් බදු ගෙවීමක් කර ඇත්නම් නැවත ඔහු බදු ගෙවිය යුතු නැති බවත් පැවසීය.
+
+ඒ පිළිබඳව ලිඛිතව ප්‍රාදේශීය කාර්යාලයට දැනුවත් කරන ලෙසත් රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/fb03637f.json)
+
+---
 
 ### Sri Lankan-born baker Tharshan Selvarajah carries Olympic torch in France
 
@@ -119,6 +139,26 @@ However, Hardik Pandya will not compete in three ODIs after that, a BCCI officia
 [Data](articles/87818ce7.json)
 
 [Extended Data](ext_articles/87818ce7.ext.json)
+
+---
+
+### මඩකලපුව පූනොච්චිමුනේහි නිවසක පිපිරීමක්
+
+*2024-07-16 16:27:05* · [`adalk`](https://www.ada.lk/picture_story/මඩකලපුව-පූනොච්චිමුනේහි-නිවසක-පිපිරීමක්/10-410810) · `si`
+
+මඩකලපුව, කාත්තාන්කුඩි පොලිස් වසමට අයත් පූනොචිමුණ ගම්මානයේ නිවසක පිපිරීමක් සිදුව තිබෙනවා.
+
+පූනොචිමුණ පච්ච නිවාස යෝජනා ක්‍රමයේ ජනාවාස ගම්මානයේ මෙම පිපිරීම සිදුව තිබේ.
+
+වසේ කාමරයක් තුළ පිපිරීම සිදුව ඇති බව නිරීක්ෂණය කළ හැක.  විශාල හානියක් සිදුවී නැතත් විශාල ශබ්දයක් ඈතින් ඇසුණු බව අසල්වාසීහු පැවසූහ
+
+බිම වැටුණු නිල් පැහැති වස්තුව ඉහළට ගොස් සිදුර කැඩී ගිය බව නිවසේ රැඳී සිටි අය පැවැසූහ
+
+මේ සම්බන්ධයෙන් මඩකලපුව දිස්ත්‍රික් අපරාධ ස්ථාන පරීක්ෂණ පොලිස් කණ්ඪායම විසින් පරීක්‍ෂණයක් පවත්වා ඇති අතර හමුදාව සහ පොලිසිය තවදුරටත් විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/3833229b.json)
 
 ---
 
@@ -2437,55 +2477,5 @@ Trump is due to formally accept the party’s nomination in a prime-time speech 
 [Data](articles/af8dc53c.json)
 
 [Extended Data](ext_articles/af8dc53c.ext.json)
-
----
-
-### Fairly heavy showers and strong winds expected in parts of the country
-
-*2024-07-16 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100540/fairly-heavy-showers-and-strong-winds-expected-in-parts-of-the-country) · `en`
-
-The Department of Meteorology says the prevailing windy conditions over the island are expected to continue further, due to the active Southwest Monsoon conditions.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/37ed13e9.json)
-
-[Extended Data](ext_articles/37ed13e9.ext.json)
-
----
-
-### Trump officially fights
-
-*2024-07-16 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198855) · `si`
-
-Donald Trump has been nominated as the Republican candidate for the US presidential election in November, with JD Vance as his VP. This decision follows a recent rally where Trump was shot in the ear, leading to the death of a suspect and injuring two others.
-
-🟩
-
-Donald Trump has been officially named as the Republican Party presidential election for the US presidential election in November.
-
-Accordingly, the Senate Jdah was named as his Viceander.
-
-The Republican Party has taken this decision on the background of a recent election rally in Donald Trump.
-
-The shooting was reported during an election rally held in Pennsylvania, and the former President's ear was injured.
-
-One who was suspected of the shooting was killed by the Intelligence Sniper Vedder of Intelligence.
-
-In the incident, a man was killed and two others were seriously injured.
-
-◼️
-
-[Data](articles/534677ee.json)
-
-[Extended Data](ext_articles/534677ee.ext.json)
 
 ---

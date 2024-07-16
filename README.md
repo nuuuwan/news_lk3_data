@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 14:54:29**
+As of **2024-07-16 15:05:14**
 
 ## Newspaper Stats
 
-*Scraped **35,535** Articles*
+*Scraped **35,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,200
-adaderanalk | 4,101
+adaderanalk | 4,102
 tamilmirrorlk | 4,294
 dailymirrorlk | 4,733
 virakesarilk | 5,537
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,534 (100.0%) of 35,535 articles have been extended.
+35,535 (100.0%) of 35,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### UNESCO Director-General calls on President Wickremesinghe
+
+*2024-07-16 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100554/unesco-director-general-calls-on-president-wickremesinghe) · `en`
+
+The Director-General of the United Nations Educational, Scientific and Cultural Organization (UNESCO), Audrey Azoulay, who is currently on a visit to Sri Lanka, has called on President Ranil Wickremesinghe a short while ago at the President’s House in Colombo.
+
+The UNESCO Director-General, who is visiting the island on an invitation from the Government of Sri Lanka, had reached the Bandaranaike International Airport (BIA) in Katunayake this morning (15) accompanied by a delegation.
+
+During her three-day visit, the Director-General of UNESCO is also scheduled to meet and hold discussions with Education Minister Susil Premajayantha, Acting Foreign Affairs Minister Tharaka Balasuriya and other high-level government officials.
+
+Azoulay will take part at the celebration of the 75th Anniversary of Sri Lanka’s Membership of UNESCO at the Nelum Pokuna Theatre and travel to UNESCO World Heritage Sites across the island.
+
+◼️
+
+[Data](articles/2d235fe4.json)
+
+---
 
 ### Female non-academic staff member of school arrested with heroin
 
@@ -311,6 +329,8 @@ Accordingly, the Cabinet of Ministers approved the combined proposal presented b
 ◼️
 
 [Data](articles/713376e7.json)
+
+[Extended Data](ext_articles/713376e7.ext.json)
 
 ---
 
@@ -2425,23 +2445,5 @@ Sri Lanka’s imperative need to enact growth-oriented reforms particularly in g
 [Data](articles/c19353df.json)
 
 [Extended Data](ext_articles/c19353df.ext.json)
-
----
-
-### Role of Company Secretary/Corporate Secretary in Sri Lanka: Evolving responsibilities
-
-*2024-07-15 22:41:06* · [`dailyftlk`](https://www.ft.lk/news/Role-of-Company-Secretary-Corporate-Secretary-in-Sri-Lanka-Evolving-responsibilities/56-764294) · `en`
-
-The role of the Company Secretary in Sri Lanka has evolved from a purely administrative function to a strategic position integral to
-
-The role of the Company Secretary in Sri Lanka has significantly evolved over the years. Traditionally seen as a clerical position, the role has expanded to encompass a broad range of responsibilities, making it a key position within Corporate Governance. The Company Secretary ensures compliance with statutory and regulatory requirements and implements decisions made by the Board of Directors.
-
-Historically, the Company Secretary’s duties were primarily administrative and clerical. These included handling Board meetings and related work like organising and preparing agendas for board meetings, recording minutes, and ensuring follow-up on board decisions.
-
-...
-
-[Data](articles/1e0ff795.json)
-
-[Extended Data](ext_articles/1e0ff795.ext.json)
 
 ---

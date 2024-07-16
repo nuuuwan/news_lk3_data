@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 20:20:07**
+As of **2024-07-16 20:36:14**
 
 ## Newspaper Stats
 
-*Scraped **35,574** Articles*
+*Scraped **35,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,210
+adalk | 3,211
 adaderanalk | 4,109
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,546
-adaderanasinhalalk | 5,952
+adaderanasinhalalk | 5,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,574 (100.0%) of 35,574 articles have been extended.
+35,574 (100.0%) of 35,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### ගුරු සහ විදුහල්පතිවරුන් යළිත් සටනට
+
+*2024-07-16 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198885) · `si`
+
+එළඹෙන 22 වනදා සිට සති දෙකක කාලයක් අකුරට වැඩ කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීමට ගුරු - විදුහල්පති වෘත්තීය සමිති සන්ධානය තීරණය කර තිබේ.
+
+ඒ අනුව පාසල්වලින් බැහැරව සිදුකරන සියලු ක්‍රියාමාර්ගවලින් ඉවත්වීමට එම සන්ධානය තීරණය කර ඇත.
+
+අද (16) කොළඹදී පැවති මාධ්‍ය හමුවකට එක්වෙමින් ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/6a22d9e6.json)
+
+---
 
 ### Minor tremor reported east of Anuradhapura
 
@@ -137,6 +153,24 @@ He said the strongest net could be made to capture tax evictions and steps have 
 [Data](articles/fb03637f.json)
 
 [Extended Data](ext_articles/fb03637f.ext.json)
+
+---
+
+### ICC වාර්ෂික සමුළුව ශ්‍රී ලංකාවේදී
+
+*2024-07-16 17:16:25* · [`adalk`](https://www.ada.lk/sports/ICC-වාර්ෂික-සමුළුව-ශ්‍රී-ලංකාවේදී/9-410814) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ (ICC) වාර්ෂික සමුළුව ලෝකයේ ක්‍රිකට් ක්‍රීඩා කරන රටවල් 108 ක නියෝජිතයන් 220 කගේ සහභාගීත්වයෙන් එළඹෙන 07/19 දින සිට 07/22 දින දක්වා ශ්‍රී ලංකාවේ පැවැත්වීමට කටයුතු සූදානම් කර තිබේ.
+
+ආසියානු කළාපයේ පළමු වරට මෙම සමුළුව ශ්‍රී ලංකාවේ පැවැත්වෙන අතර මේ සදහා ලෝකයේ ක්‍රිකට් ක්‍රීඩා කරන අප්‍රිකානු, ඇමෙරිකානු , ආසියානු , නැගෙනහිර ආසියානු , ෆැසිපික් කළාපීය සහ යුරෝපා රටවල් නියෝජනය කරමින් නියෝජිතයන් ශ්‍රී ලංකාවට පැමිණ සහභාගී වීමට නියමිතය.
+
+"Capitalizing on the Olympic Opportunity " එළඹෙන පැරිස් ඔලිම්පික් තරගාවලිය සදහා ලද අවස්ථාවෙන් උපරිම ප්‍රයෝජන ගනිමු , යන තේමාව යටතේ මෙම වාර්ෂික සමුළුව සංවිධානය කර තිබේ.
+
+මේ සදහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මගින්  අවශ්‍ය සම්පත් දායකත්වය ලබා දීම සිදු කෙරේ .
+
+◼️
+
+[Data](articles/aeff1e0a.json)
 
 ---
 
@@ -2415,57 +2449,5 @@ He was speaking at a press conference held at the press conference held at the P
 [Data](articles/9285f4d2.json)
 
 [Extended Data](ext_articles/9285f4d2.ext.json)
-
----
-
-### Sri Lanka manufacturing, services expand in June
-
-*2024-07-16 09:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-services-expand-in-june-172265/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing and services sectors continued to expand in June, with expectations of a continued recovery in the economy, according to a Purchasing Managers’ Index compiled by the central bank.
-
-“The expansion in New Orders and Production was mainly due to the growth in the manufacture of food and beverages sector,” a statement sid.
-
-“Stock of Purchases also expanded, in line with the increase in New Orders and Production.
-
-“Meanwhile, Suppliers’ Delivery Time further lengthened in June, mainly attributable to the congestion in the major shipping ports.”
-
-Industry expectations for the next three months indicating an improvement, anticipating a gradual recovery in economic conditions.
-
-Firms were however, still cautious about refilling the vacant positions.
-
-Most services sectors expanded, though tourism was sluggish amid an off-season.
-
-“Business activities in the wholesale and retail trade grew due to Haj festive season,” the statement said.
-
-...
-
-[Data](articles/7708edc9.json)
-
-[Extended Data](ext_articles/7708edc9.ext.json)
-
----
-
-### Railway station masters and teacher-principal unions to decide on strike actions
-
-*2024-07-16 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100543/railway-station-masters-and-teacher-principal-unions-to-decide-on-strike-actions) · `en`
-
-The Railway Station Masters’ Union says they will decide today (16) on the future course of trade union actions to be taken concerning their demands.
-
-President of the union Sumedha Somaratne stated that despite authorities’ promises, no proper solutions have been found.
-
-The union had previously temporarily halted their strike based on assurances that their issues would be presented to the Cabinet.
-
-However, with no attention given to their demands by the Cabinet yesterday (15), the union will meet this morning to determine their next steps, he said.
-
-Meanwhile, the Ceylon Teachers’ Union (CTU) has announced potential future trade union actions due to unresolved demands of teachers and principals.
-
-CTU chairman Priyantha Fernando warned that if strikes occur, the government will be held responsible.
-
-...
-
-[Data](articles/f43fcaaa.json)
-
-[Extended Data](ext_articles/f43fcaaa.ext.json)
 
 ---

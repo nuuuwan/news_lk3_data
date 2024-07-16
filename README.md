@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 19:54:53**
+As of **2024-07-16 20:06:20**
 
 ## Newspaper Stats
 
-*Scraped **35,573** Articles*
+*Scraped **35,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,209
+adalk | 3,210
 adaderanalk | 4,109
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,573 (100.0%) of 35,573 articles have been extended.
+35,573 (100.0%) of 35,574 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,22 @@ He said the strongest net could be made to capture tax evictions and steps have 
 [Data](articles/fb03637f.json)
 
 [Extended Data](ext_articles/fb03637f.ext.json)
+
+---
+
+### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+
+*2024-07-16 16:57:49* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-410813) · `si`
+
+යෝජිත අධ්‍යාපන ප්‍රතිසංස්කරණ අනුව සෞන්දර්ය විෂයයන් සාමාන්‍ය අධ්‍යාපනයේ අත්‍යවශ්‍ය අංගයක් බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+කණිෂ්ඨ, ද්විතීයික අධ්‍යාපනයේ හා ජ්‍යෙෂ්ඨ ද්විතීයික අධ්‍යාපනයේ දී සෞන්දර්ය විෂයයන් වැඩිදුරටත් අධ්‍යයනය කළ හැකි අතර අ.පො.ස සාමාන්‍ය පෙළ හා අ.පො.ස. උසස් පෙළ සඳහා ද සෞන්දර්යය විෂයයන් සඳහා ළමුන්ට පෙනී සිටිය හැකිය. තව ද, උසස් අධ්‍යාපනයේ සෞන්දර්ය විෂයයන් එලෙස ම පවතී.
+
+මේ සම්බන්ධයෙන් සැකයක් ඇති වන ප්‍රකාශ හා විවිධ මාධ්‍ය උපයෝගී කර ගෙන කරනු ලබන සාවද්‍ය ප්‍රකාශ බැහැර කිරීමට අධ්‍යාපන අමාත්‍යාංශය කටයුතු කරනු ලැබේ.
+
+◼️
+
+[Data](articles/f48b8f54.json)
 
 ---
 
@@ -2445,25 +2461,5 @@ CTU chairman Priyantha Fernando warned that if strikes occur, the government wil
 [Data](articles/f43fcaaa.json)
 
 [Extended Data](ext_articles/f43fcaaa.ext.json)
-
----
-
-### ‘During times of need, they chanted slogans without taking responsibility’ - President
-
-*2024-07-16 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100542/during-times-of-need-they-chanted-slogans-without-taking-responsibility-president) · `en`
-
-President Ranil Wickremesinghe emphasized the importance of a political culture that prioritizes the nation over traditional politics for the country’s advancement.
-
-He underscored that all political leaders, both in government and opposition, bear significant responsibility and must support initiatives aimed at improving the national economy.
-
-The President also emphasized that the responsibilities of all political leaders, from both the government and the opposition, are crucial and should not be underestimated. He underscored the importance of their unified support for the country’s economic upliftment program, free from political entanglements.
-
-President Ranil Wickremesinghe made this statement during a recent meeting at the Presidential Secretariat with a group of lawyers.
-
-...
-
-[Data](articles/edd3d4ad.json)
-
-[Extended Data](ext_articles/edd3d4ad.ext.json)
 
 ---

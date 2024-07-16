@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 15:20:06**
+As of **2024-07-16 15:35:27**
 
 ## Newspaper Stats
 
-*Scraped **35,537** Articles*
+*Scraped **35,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,201
 adaderanalk | 4,102
-tamilmirrorlk | 4,294
+tamilmirrorlk | 4,296
 dailymirrorlk | 4,733
 virakesarilk | 5,537
-adaderanasinhalalk | 5,943
+adaderanasinhalalk | 5,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,536 (100.0%) of 35,537 articles have been extended.
+35,537 (100.0%) of 35,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### අවශ්‍ය නම් කංජිපානි ව ගෙනත් දෙන්නම් - දුමින්ද ජයතිලක
+
+*2024-07-16 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198875) · `si`
+
+තමන්ට බලය පවරන්නේ නම් කංජිපානි ඉම්රාන් ලංකාවට රැගෙන ඒමේ හැකියාව තමන්ට තිබෙන බව මේ වනවිට ප්‍රංශයේ රැඳීසිටින හිටපු පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා පවසයි.
+
+කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ අංශයේ ස්ථානාධිපති, පොලිස් පරීක්ෂක ලෙස කටයුතු කළ දුමින්ද ජයතිලක මහතා මරණ තර්ජන ඇති බව පවසමින් පසුගියදා විදේශගතවී තිබුණි.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් සහ සංවිධානාත්මක අපරාධකරුවෙකු වන කංජිපානි ඉම්රාන්ගේ උපන් දින සාදයට දුමින්ද ජයතිලක ද එක්වී තිබූ බවට සමාජ මාධ්‍ය ඔස්සේ පැතිරගිය ප්‍රචාරයන්ට පිළිතුරු දෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+"පාතාලයේ මිනිස්සු සමග මගේ සම්බන්ධයක් නැහැ. ඒක මට අවශ්‍ය දෙයකුත් නෙමෙයි. රැකියාව කරන්න ගිහින් හැමදේම නැති කරගෙන විදේශ රටකට ඇවිත් ජීවත් වෙන මනුස්සයෙක් මම. මගේ ළමයා මාස 05ක් ඉස්කෝලේ යන්නේ නැහැ. බිරිඳට ඉන්න තැනක් නැහැ. ගෙවල් 12කට ගියා. ඒ අයගේ ආරක්ෂාව සම්බන්ධයෙන් ලොකු ප්‍රශ්නයක් තියෙනවා. ඒවා කවුරුත් කතා කරන්නේ නැහැ."
+
+...
+
+[Data](articles/5695b01d.json)
+
+---
+
+### ஜனாதிபதியை சந்தித்தார் யுனெஸ்கோ  பணிப்பாளர்
+
+*2024-07-16 15:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-யுனெஸ்கோ-பணிப்பாளர்/175-340497) · `ta`
+
+யுனெஸ்கோவில் இலங்கை உறுப்புரிமை பெற்று 75வது ஆண்டு நிறைவடைவதை  முன்னிட்டு இலங்கைக்கு விஜயம் செய்துள்ள யுனெஸ்கோ நிறுவன பணிப்பாளர் நாயகம் ஒட்ரே அசோலே (Ms.Audrey Azoulay) சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை கொழும்பு கோட்டையிலுள்ள ஜனாதிபதி மாளிகையில் சந்தித்தார்.
+
+◼️
+
+[Data](articles/c1ed260a.json)
+
+---
+
+### මාදම්පේ සිලිකා වැලි කැණීම ට එරෙහිව අධිකරණයට පෙත්සමක්
+
+*2024-07-16 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198874) · `si`
+
+මාදම්පේ ප්‍රදේශයේ නීතිවිරෝධී ලෙස සිදුකරන සිලිකා වැලි කැණීම් කටයුතු හේතුවෙන් සිදුවන පාරිසරික විනාශය වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකළ පෙත්සමක් සලකා බැලීම සඳහා නොවැම්බර් මස 11 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+
+පරිසර යුක්ති කේන්ද්‍රය ඇතුළු පිරිසක් විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+එම පෙත්සම අද (16)  එස්. තුරෙයිරාජා, කුමුදුනී වික්‍රමසිංහ සහ ජනක් ද සිල්වා යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලීම සඳහා කැඳවනු ලැබීය.
+
+එහිදී අදාළ පෙත්සම කරුණු තහවුරු කිරීම සඳහා නොවැම්බර් මස 11 වනදා කැඳවන ලෙසත් අධිකරණය නියෝග කළේය.
+
+එදින තෙක් අදාළ ප්‍රදේශයේ දැනට පවතින තත්ත්වයේ වෙනස් කිරීම් සිදු නොකරන ලෙසත් අධිකරණය විසින් එහි වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින භූ විද්‍යා හා පතල් කැණීම් කාර්යාංශය ඇතුළු පාර්ශ්ව කීපයකට නියෝග කළේය.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ මාදම්පේ ප්‍රදේශයේ ග්‍රාම සේවා වසම් නවයක අක්කර 200ක පමණ සිලිකා වැලි කැණීම් කටයුතු සිදුවන බවයි.
+
+...
+
+[Data](articles/9f01614c.json)
+
+---
+
+### வைத்தியர் அருச்சுனாவுக்கு பிணை: முகநூல் நேரலைக்கும் தடை
+
+*2024-07-16 15:06:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அருச்சுனாவுக்கு-பிணை-முகநூல்-நேரலைக்கும்-தடை/71-340496) · `ta`
+
+சாவகச்சேரி வைத்தியசாலையின் முன்னாள் வைத்திய அத்தியட்சகர் இராமநாதன் அருச்சுனாவை,  சாவகச்சேரி நீதவான் நீதிமன்று 75 ஆயிரம் ரூபாய் சரீரப் பிணை மற்றும் நிபந்தனைகளுடனான பிணையில் விடுத்துள்ளது.
+
+சாவகச்சேரி  வைத்தியசாலையின் முன்னாள் வைத்திய அத்தியட்சகர் வைத்தியர் இராமநாதன் அருச்சுனாவிற்கு எதிராக சாவகச்சேரி நீதவான் நீதிமன்றில் 05 வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளன.
+
+அவற்றின் மீதான விசாரணைகள் செவ்வாய்க்கிழமை (16) மன்றில் நடைபெற்றது. பிரதிவாதியான வைத்தியர் மன்றில் முன்னிலையாகி இருந்தார்
+
+வழக்கு விசாரணைகளை அடுத்து, வைத்தியரை 75ஆயிரம் ரூபாய் சரீரப் பிணையில் விடுவித்த நீதிமன்றம் , வைத்தியசாலைக்கு செல்லவோ , நீதிமன்ற வழக்கு விசாரணைகள் தொடர்பில் முகநூல் நேரலையிலையோ ,பதிவுகள் ஊடாக கருத்து தெரிவிக்கவோ கூடாது உள்ளிட்ட நிபந்தனைகளையும் நீதிமன்றம் விதித்துள்ளது.
+
+அதேவேளை, குற்றம் சாட்டிய மற்றைய வைத்தியர்கள் தொடர்பில் ஆதாரங்களுடன் சாவகச்சேரி பொலிஸ் நிலையத்திற்கு சென்று வாக்குமூலங்களை வழங்குமாறும் வைத்தியர் அருச்சுனாவுக்கு நீதிமன்றம் கட்டளையிட்டது.
+
+...
+
+[Data](articles/84283d16.json)
+
+---
 
 ### UNESCO Director-General calls on President Wickremesinghe
 
@@ -130,19 +202,25 @@ Parents have asked for help to contact the following telephone numbers 076461228
 
 ---
 
-### ජනපති කාර්යාලයෙන්  ක්‍රිකට් බඩු බෙදයි
+### Cricket to be distributed to the office of the President
 
 *2024-07-16 13:21:55* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කාර්යාලයෙන්--ක්‍රිකට්-බඩු-බෙදයි/11-410805) · `si`
 
-ගම්පහ දිස්ත්‍රික්කයේ පාසල් තුළ ක්‍රිකට් ක්‍රීඩාව දියුණු කිරීමේ අරමුණින් පාසැල් 67ක් සඳහා ක්‍රිකට් උපකරණ ප්‍රදානය කිරීම ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි හා ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සාගල රත්නායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (15) ජනාධිපති කාර්යාලයේ දී සිදු විය.
+Cricket distribution to the President's office, led by Sagala Ratnayake, aims to nurture national-level talent. Organized by Youth Vision 2048 and SLC under President Ranil Wickremesinghe's guidance, this initiative supports the president's efforts to revitalize the economy and build a prosperous future through systematic economic growth.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයකට අනුව, සාගල රත්නායක මහතාගේ පූර්ණ මගපෙන්වීම හා අධීක්ෂණය යටතේ ක්‍රියාත්මක Youth vision 2048 සංවිධානය සහ ශ්‍රී ලංකා ක්‍රිකට් ආයතනය එක්ව මෙම වැඩසටහන සංවිධානය කර තිබිණි.
+🟩
 
-මෙහිදී අදහස් දැක්වූ සාගල රත්නායක මහතා සඳහන් කළේ ජාතික මට්ටමේ දක්ෂ ක්‍රීඩකයින් බිහි කිරීමට පාසල් ක්‍රිකට් ක්‍රීඩාව ඉතා වැදගත් බවයි. එසේම රටේ බිඳ වැටුණු ආර්ථිකය යළි නඟා සිටුවීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉකුත් දෙවසර තුළ කැපවී කටයුතු කළ බවත්, එම ආර්ථික වැඩපිළිවෙළ ඉදිරියට ක්‍රියාත්මක කර දූෂණයෙන් තොර ක්‍රමවත් ආර්ථික රාමුවක් තුළ රටේ දරුවන්ට හොඳ අනාගතයක් ගොඩනඟාදීම ජනාධිපතිවරයාගේ අපේක්ෂාව බවත් ඒ මහතා සඳහන් කළේය. ( I .J)
+Sagala Ratnayake, Chief of Staff and Secretary of the National Safety to the Presidential Advisory Committee on the Presidential Staff and Secretary of National Safety at the Presidential Secretariat was chaired by Hon. Sagala Ratnayake.
+
+According to President Ranil Wickremesinghe's concept, the Youth Vision 2048 organization and SLC have organized the program.
+
+Mr. Sagala Ratnayake said that school cricket was very important to produce national level skilled players. The president's expectation is the prospect that President Ranil Wickremesinghe has been committed to restore the country's collapse economy and that the economic framework of the economy has a good future in a systematic economic framework and building a better future in economic framework.. (I .j)
 
 ◼️
 
 [Data](articles/9abb8817.json)
+
+[Extended Data](ext_articles/9abb8817.ext.json)
 
 ---
 
@@ -2367,83 +2445,5 @@ At the same time, the Department of Meteorology has stated that the prevailing w
 [Data](articles/d4b2cd87.json)
 
 [Extended Data](ext_articles/d4b2cd87.ext.json)
-
----
-
-### Do not formal politics
-
-*2024-07-16 00:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பிரதாய-அரசியல்-வேண்டாம்/175-340465) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of national progress, urging unity among political leaders from both the ruling and opposition parties to bolster the economy. He made these remarks during a meeting with lawyers at the Presidential Office, highlighting the collective responsibility to advance the nation.
-
-🟩
-
-President Ranil Wickremesinghe stressed that the country's progress is essential for the progress of the country.
-
-He said that the responsibility of all political leaders, such as the ruling party and the opposition party, cannot be underestimated and everyone should support the program to improve the country's economy.
-
-The President said this at a recent meeting with lawyers at the Presidential Office. (A)
-
-◼️
-
-[Data](articles/3933459a.json)
-
-[Extended Data](ext_articles/3933459a.ext.json)
-
----
-
-### 2024-07-15 (Monday)
-
-### United Motors Lanka announces appointment of Arjuna Herath as Independent Non-Executive Director
-
-*2024-07-15 22:54:25* · [`dailyftlk`](https://www.ft.lk/business/United-Motors-Lanka-announces-appointment-of-Arjuna-Herath-as-Independent-Non-Executive-Director/34-764298) · `en`
-
-United Motors Lanka PLC is pleased to announce the appointment of Arjuna Herath as an Independent Non-Executive    Director. Herath brings a wealth of experience and expertise to the Board, having recently retired from Ernst & Young (EY), where he served as a Senior Partner and Head of Consulting for Sri Lanka and Maldives.
-
-Herath’s distinguished career includes roles such as Marketing Development Manager at Ceylon Tobacco Company and Director Corporate Finance at Merchant Bank of Sri Lanka. His extensive experience is further highlighted by his service as a Board Member of the Sri Lanka Accounting and Auditing Standards Monitoring Board and as a Commissioner of the Securities and Exchange Commission of Sri Lanka. He has also been a member of the Company Law Advisory Commission and currently serves as a Director of the Colombo Stock Exchange and several other public listed and private  companies.
-
-...
-
-[Data](articles/d3f0caeb.json)
-
-[Extended Data](ext_articles/d3f0caeb.ext.json)
-
----
-
-### WISTA Sri Lanka to present influential event with global transformation leader Karen Leong in celebration of 10th anniversary
-
-*2024-07-15 22:50:19* · [`dailyftlk`](https://www.ft.lk/business/WISTA-Sri-Lanka-to-present-influential-event-with-global-transformation-leader-Karen-Leong-in-celebration-of-10th-anniversary/34-764297) · `en`
-
-WISTA Sri Lanka yesterday announced it will present “Charting the Course of Success in a Disruptive World”, a dynamic event curated for leaders across all sectors, featuring the esteemed global transformation thought leader Karen Leong.
-
-The event organised celebrating the 10th Anniversary of WISTA Sri Lanka, is scheduled for 13 August 2024, at the Oak Room, Cinnamon Grand Colombo.
-
-Influence Solutions Managing Director Karen Leong, is an award-winning organisational development expert and bestselling author. Known for her work in developing high-trust cultures within organisations, Karen is one of the top 1% of keynote speakers globally, Certified Speaking Professional, TEDx speaker, and coach.
-
-...
-
-[Data](articles/7d438fd7.json)
-
-[Extended Data](ext_articles/7d438fd7.ext.json)
-
----
-
-### Sri Lanka’s onlineaccounting.lk earns ACCA UK’s Gold Accreditation
-
-*2024-07-15 22:48:03* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-onlineaccounting-lk-earns-ACCA-UK-s-Gold-Accreditation/34-764296) · `en`
-
-ACCA Head of South Asia Nilusha Ranasinghe handed over the Gold Accreditation Certificate to onlineaccounting.lk CEO Hashan Waduge
-
-Moment when onlineaccounting.lk becomes Asia's professional education institute of the year
-
-In a significant milestone for Sri Lanka’s education sector, onlineaccounting.lk has earned the prestigious Gold Accreditation from ACCA UK, becoming the first Sri Lankan institute to achieve this honour as a fully online learning partner.
-
-The Association of Chartered Certified Accountants (ACCA), the largest professional accounting body globally, is recognised in over 180 countries, and this accreditation is a testament to onlineaccounting.lk’s commitment to excellence in professional education.
-
-...
-
-[Data](articles/0e5f9e81.json)
-
-[Extended Data](ext_articles/0e5f9e81.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 08:35:40**
+As of **2024-07-16 08:55:26**
 
 ## Newspaper Stats
 
-*Scraped **35,461** Articles*
+*Scraped **35,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 315
 colombotelegraphcom | 333
 bbccomsinhala | 344
 newsfirstlk | 363
-islandlk | 2,017
+islandlk | 2,018
 economynextcom | 2,102
 dailyftlk | 2,246
 adalk | 3,193
@@ -26,33 +26,41 @@ adaderanasinhalalk | 5,927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,460 (100.0%) of 35,461 articles have been extended.
+35,461 (100.0%) of 35,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### රැඳවියන්ට විශේෂ අවස්ථාවක්
+### Special occasion for inmates
 
 *2024-07-16 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198856) · `si`
 
-අදට යෙදී ඇති 119 වන බන්ධනාගාර දිනයට සමගාමීව රැඳවියන්ට විවෘත අමුත්තන් බැලීම සඳහා විශේෂ අවස්ථාවක් ලබාදීමට බන්ධනාගාර දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+Inmates at a prison are allowed to receive visitors and goods like food and hygiene items today, from 9 am to 4 pm, as part of a special program initiated due to the death of an inmate from encephalitis. The program is limited to today and follows hospitalization of three other inmates.
 
-බන්ධනාගාර මාධ්‍ය ප්‍රකාශක, බන්ධනාගාර කොමසාරිස් ගාමිණී බී. දිසානායක මහතා සඳහන් කළේ, ඒ අනුව අද (16) දිනය තුළ රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එන ආහාර හා සනීපාරක්ෂක ද්‍රව්‍ය එක් රැඳවියෙකුට ප්‍රමාණවත් වන පරිදි ලබාදීමට අවස්ථාව ලබාදී ඇති බවය.
+🟩
 
-අද උදෑසන 9 සිට සවස 4 දක්වා මෙම විශේෂ වැඩසටහන ක්‍රියාත්මක කරන බව ද ඒ මහතා වැඩිදුරටත් පැවසීය.
+The Department of Prisons has decided to give open an opportunity for the inmates to watch open guests today.
 
-මේ අතර, ගාල්ල බන්ධනාගාරයේ කටයුතු අද සිට සීමා කිරීමට බන්ධනාගාර දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+Prison Media Spokesperson, Prison Commissioner Gamini B. Dissanayake said that the food and sanitation substances brought by relatives of the detainees today (16) were given the opportunity to provide sufficient to one inmate.
 
-මොළේ උණ වැළදීමෙන් බන්ධනාගාරයේ රැඳවියෙකු මිය යෑමත් සමග මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+He added that this special program will be implemented from 9 am to 4 pm.
 
-ගාල්ල බන්ධනාගාරයේ රැඳවියෙකු පසුගිය 13 වන දින මියගිය අතර එම මරණ පරීක්ෂණයේ දී මොළේ උණ රෝගයෙන් ඔහු මියගොස් ඇති බවට අනාවරණය වී තිබේ.
+Meanwhile, the Department of Prisons has decided to limit the Galle Prison to today.
 
-ඊට අමතරව මොළේ උණ බවට සැකකෙරෙන තවත් රැඳවියන් තිදෙනෙකු ප්‍රතිකාර සඳහා රෝහල් ගතකර ඇති බව වාර්තා වේ.
+The move has been taken with the death of a prison inmate after the brain fever.
 
-...
+The inmate at Galle Prison died on 13
+
+Three other inmates suspected to be hospitalized for treatment.
+
+Prison Hospital Director Hemantha Ranasinghe said that steps have been taken to limit the Galle Prison in conserving the present situation.
+
+◼️
 
 [Data](articles/638c1059.json)
+
+[Extended Data](ext_articles/638c1059.ext.json)
 
 ---
 
@@ -129,6 +137,10 @@ In the incident, a man was killed and two others were seriously injured.
 ### Unidentified body found in front of Fort Railway Station
 
 *2024-07-16 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198854) · `si`
+
+A body was discovered near Fort Railway Station. The victim, identified as a 50-year-old from Udawatta, was found dead on the roadside. He was last seen alone at home while his wife visited her mother's house. Investigations suggest he was killed during his son's visit to the temple. A separate incident involved a person injured in the Ayagama area, hospitalized but unrelated to the death.
+
+🟩
 
 A person who remained near the road was killed in front of the Fort Railway Station.
 
@@ -929,6 +941,18 @@ The Connections Through Culture grants support new international collaborations 
 [Data](articles/547f497f.json)
 
 [Extended Data](ext_articles/547f497f.ext.json)
+
+---
+
+### Cable Solutions IPO opens next week
+
+*2024-07-15 21:31:00* · [`islandlk`](http://island.lk/cable-solutions-ipo-opens-next-week/) · `en`
+
+The initial public offering (IPO) of shares of a leading specialized integrated cable manufacturer in Sri Lanka, Cable Solutions Limited (CSLK), will open on the 23rd of July 2024 at 09.00am. Asia Securities Advisors (Private) Limited is the financial advisors and managers to the IPO.
+
+...
+
+[Data](articles/a1522f18.json)
 
 ---
 
@@ -2259,33 +2283,5 @@ Meanwhile, the Foreign Minister will officially inaugurate the new Sri Lankan em
 [Data](articles/2a41df6e.json)
 
 [Extended Data](ext_articles/2a41df6e.ext.json)
-
----
-
-### Again mess: Exit doctor Archana
-
-*2024-07-15 14:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மீண்டும்-குழப்பம்-வெளியேறிய-வைத்தியர்-அர்ச்சுனா/71-340442) · `ta`
-
-Dr. Archana, former Medical Superintendent of Chavakachcheri Resource Hospital, unexpectedly left the hospital premises after a disagreement with another staff member, Rajiv. This incident followed her receiving an official letter of removal from the Union Health Ministry, which she responded to by stating her continued commitment to the hospital.
-
-🟩
-
-It is reported that Dr. Archana, who visited the Sagavagachcheri Hospital on Monday (15), left the hospital premises.
-
-Ramanathan Archana, who was formerly the Medical Superintendent of Reply to the Chavakachcheri Resource Hospital, was confused.
-
-Ramanathan Archana and Gopala Murthy Rajiv were involved in a long debate as the superintendent of the hospital superintendent's office.
-
-After a few hours, Ramanathan Archana left for some duties in the hospital office.
-
-Meanwhile, Dr. Rajeev is still on duty as the medical superintendent of the Chavakachcheri Resource Hospital.
-
-Ramanathan Archana said that I was the answer to the Chavakachcheri Hospital in response to a letter of official removal of me from the Union Health Ministry.
-
-◼️
-
-[Data](articles/3c8e2f45.json)
-
-[Extended Data](ext_articles/3c8e2f45.ext.json)
 
 ---

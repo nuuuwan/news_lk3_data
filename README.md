@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 10:20:10**
+As of **2024-07-16 10:35:14**
 
 ## Newspaper Stats
 
-*Scraped **35,481** Articles*
+*Scraped **35,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 2,102
 dailyftlk | 2,246
 adalk | 3,195
 adaderanalk | 4,092
-tamilmirrorlk | 4,285
+tamilmirrorlk | 4,286
 dailymirrorlk | 4,733
 virakesarilk | 5,524
-adaderanasinhalalk | 5,930
+adaderanasinhalalk | 5,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,480 (100.0%) of 35,481 articles have been extended.
+35,481 (100.0%) of 35,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල්වරිය දිවයිනට
+
+*2024-07-16 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198860) · `si`
+
+යුනෙස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජනරාල් Audrey Azoulay මහත්මිය දිවයිනට පැමිණ ඇති බව අප වාර්තාකරු පැවසීය.
+
+අද (16) අලුයම ඇය ඇතුළු දූත පිරිස කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළින් මෙලෙස දිවයිනට පැමිණ තිබේ.
+
+රජයේ ආරාධනාවක් මත Audrey Azoulay මහත්මිය මෙරට සංචාරයේ නිරත වන අතර ඇය ලබන 19 වන දා දක්වා මෙරට රැඳීසිටීමට නියමිතය.
+
+සංචාරය අතරතුර Audrey Azoulay මහත්මිය ජනාධිපති රනිල් වික්‍රසිංහ මහතා අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත, වැඩබලන විදේශ කටයුතු අමාත්‍ය තාරක බාලසූරිය ඇතුළු රජයේ ඉහළපෙළේ නියෝජිතයින් සමග සාකච්ඡා පැවැත්වීමට නියමිතව තිබේ.
+
+ශ්‍රී ලංකාව යුනෙස්කෝ සංවිධානයේ සාමාජිකත්වය ලබා ගැනීමේ 75 වන සංවත්සරය වෙනුවෙන් නෙළුම් පොකුණ රඟහලේ පැවැත්වෙන සැමරුම් උත්සවයකට ද ඕද්රි අසූලේ මහත්මිය සහභාගී වීමට නියමිත අතර මෙරට යුනෙස්කෝ ලෝක උරුමය නැරඹීමට නියමිත බව විදේශ කටයුතු අමාත්‍යංශය පැවසීය.
+
+◼️
+
+[Data](articles/8c12a6fe.json)
+
+---
 
 ### UK to return colonial-era antiquities including Tara statue to Sri Lanka
 
@@ -38,15 +58,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Buddhasasana, Religious, and Cultural Affairs Minister Vidura Wickramanayake said that many antiquities taken from the country by the United Kingdom during the colonial period, including the statue of Tara, will be returned to Sri Lanka.
 
-The minister pointed out that an education system that suits the country and culture should be created in a manner that instills a sense of pride in the minds of the people about their country.
+He said many antiquities taken from the country by the United Kingdom, including the statue of Tara, are in the process of being repatriated.
+
+“We are working to bring back these and other ancient treasures, and we have also received numerous similar items from the Netherlands,” he said.
+
+The minister also pointed out that an education system that suits the country and culture should be created in a manner that instills a sense of pride in the minds of the people about their country.
 
 Minister of Buddhasasana, Religious, and Cultural Affairs Vidura Wickramanayake expressed these views during a press conference themed “Collective Path to a Stable Country” held at the Presidential Media Centre yesterday (15th).
-
-“The majority of the community believes there is an economic problem in the country today. However, our ministry holds the responsibility of shaping the people of Sri Lanka into good citizens. Our ministry has the official mandate to work towards creating a better society.
 
 ...
 
 [Data](articles/fdaf4b18.json)
+
+[Extended Data](ext_articles/fdaf4b18.ext.json)
 
 ---
 
@@ -225,6 +249,20 @@ He also said that he would not abandon their struggle until his demand was fulfi
 [Data](articles/2a0d9bf6.json)
 
 [Extended Data](ext_articles/2a0d9bf6.ext.json)
+
+---
+
+### இலங்கை ஆசிரியர் சங்கம் மீண்டும் விடுத்துள்ள எச்சரிக்கை
+
+*2024-07-16 09:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ஆசிரியர்-சங்கம்-மீண்டும்-விடுத்துள்ள-எச்சரிக்கை/175-340472) · `ta`
+
+அடுத்த வாரம் மீண்டும் தொழிற்சங்க நடவடிக்கையில் ஈடுபடவுள்ளதாக இலங்கை ஆசிரியர் சங்கத்தின் தலைவர் பிரியந்த பெர்னாண்டோ தெரிவித்தார்.
+
+வேதனப் பிரச்சினையை முன்னிறுத்தி, தமது கோரிக்கை நிறைவேற்றப்படும் வரை தங்களது போராட்டத்தைக் கைவிடப் போவதில்லை என்றும் அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/5b24661b.json)
 
 ---
 
@@ -2273,53 +2311,5 @@ Accordingly, the petition was also taken to call on September 20th.
 [Data](articles/42521650.json)
 
 [Extended Data](ext_articles/42521650.ext.json)
-
----
-
-### The National People's Power must present an acceptable solution to the ethnic problem - the Intellectual Group request
-
-*2024-07-15 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188525) · `ta`
-
-Intellectuals in Sri Lanka call on the National People's Power to resolve the country's ethnic issue with a solution that gains northern majority trust, echoing the missed opportunity in 1947. They stress the importance of uniting leftist forces against racism and neo-liberalism, referencing the 1947 election where the LSSP could've won but didn't due to internal divisions. The plea is for the National People's Power to learn from past mistakes and lead effectively in 2024 elections, prioritizing a practical and widely accepted solution to the ethnic conflict.
-
-🟩
-
-A group of intellectuals and educators in Sri Lanka have appealed to the national people's power to come up with a solution that all ethnicities can accept to the ethnic problem of Sri Lanka.
-
-The committee has also appealed to it to be a practical solution that can gain the confidence of the majority of the North.
-
-The National People's Power is the main movement of the people's aspirations that emerged through the people's struggle in 2022.
-
-This situation was similar to the situation that was seen during the 1947 Ceylon's first national election - we missed a precious opportunity.
-
-Therefore, we urge you to win the forthcoming election and to address the national issues, including the ethnic problem that continues to create severe disagreements in the Sri Lankan community.
-
-The unity of the people by uniting all the left -wing forces against racism and neo -liberation.
-
-...
-
-[Data](articles/ce735abb.json)
-
-[Extended Data](ext_articles/ce735abb.ext.json)
-
----
-
-### Pakistan to ban Imran Khan’s party, file treason case against ex-PM
-
-*2024-07-15 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100529/pakistan-to-ban-imran-khans-party-file-treason-case-against-ex-pm) · `en`
-
-Pakistan is planning to ban former Prime Minister Imran Khan’s political party and move the country’s top court to press treason charges against him, the information minister said on Monday.
-
-The move to ban Pakistan Tehreek-e-Insaf (PTI) was based on the proven charge of the party receiving foreign funds from sources that are illegal in Pakistan, as well as rioting by the supporters last year that targeted military installations, Minister Attaullah Tarar said.
-
-“The federal government will move a case to ban the Pakistan Tehreek-e-Insaaf,” he said, adding that the plan will be taken up before the cabinet, which was empowered to take a decision.
-
-The government will also file a legal reference against Khan and former President Arif Alvi for treason charges under the country’s constitution before the Supreme Court, Tarar said.
-
-...
-
-[Data](articles/45dc3a2e.json)
-
-[Extended Data](ext_articles/45dc3a2e.ext.json)
 
 ---

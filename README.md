@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 20:36:14**
+As of **2024-07-16 20:52:52**
 
 ## Newspaper Stats
 
-*Scraped **35,576** Articles*
+*Scraped **35,582** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 316
-colombotelegraphcom | 333
+colombotelegraphcom | 334
 bbccomsinhala | 346
 newsfirstlk | 363
 islandlk | 2,018
@@ -19,14 +19,14 @@ adalk | 3,211
 adaderanalk | 4,109
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
-virakesarilk | 5,546
+virakesarilk | 5,551
 adaderanasinhalalk | 5,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,574 (100.0%) of 35,576 articles have been extended.
+35,574 (100.0%) of 35,582 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6a22d9e6.json)
+
+---
+
+### கிளிநொச்சியில் டிப்பர் வாகனத்தின் மீது பொலிஸார் துப்பாக்கிச் சூடு : ஒருவர் காயம்
+
+*2024-07-16 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188635) · `ta`
+
+கிளிநொச்சி பூநகரி பரந்தன் வீதியில் பொலிசாரின் சைகையை மீறி சென்ற டிப்பர் வாகனத்தின் மீது போலீசார் துப்பாக்கிச் சூடு மேற்கொண்டதில் ஒருவர் காயமடைந்து கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளர்.
+
+செவ்வாய்க்கிழமை (16) பிற்பகல்  கிளிநொச்சி பூநகரி பிரதேசத்துக்குட்பட்ட குடமுருட்டி பகுதியில் இருந்து சட்டவிரோதமான முறையில் மணல் அகழ்ந்து சென்ற டிப்பர் வாகனத்தை பொலிசார் சோதனையிட முற்பட்ட சமயம் பொலிசாரின் சைகையை  மீறி டிப்பர் வாகனம் வேகமாக பயணித்துள்ளது
+
+குறித்த வாகனத்தை  சுமார்13 கிலோமீற்றர் தூரம் துரத்திச் சென்ற போலீசார் குறித்த டிப்பர் வாகனத்தின் மீது பூநகரி பகுதியில் வைத்து  மேற்கொண்ட துப்பாக்கிச்சூட்டில் டிப்பர் வாகனத்தில் பயணித்த ஒருவர் காயமடைந்துள்ளார்
+
+இதே நேரம் டிப்பர் வாகனத்தில் பயணித்து ஏனைய இருவர் தப்பி ஓடிய நிலையில் ஒருவரை போலீசார் கைது செய்துள்ளதுடன் சம்பவம் தொடர்பில் கிளிநொச்சி போலீசார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்
+
+சம்பவத்தின் போது கிளிநொச்சியை சேர்ந்த ஆறுமுகம் நிதர்சன் (வயது- 23) என்பவரே இவ்வாறு காயமடைந்து கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/9c323595.json)
+
+---
+
+### கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வாய்வு முடிவிற்கு வந்தது; அகழ்வாய்வில் பங்குபற்றிய சகலதரப்புக்களையும் அறிக்கைசமர்ப்பிக்குமாறு உத்தரவிட்ட நீதிமன்று
+
+*2024-07-16 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188634) · `ta`
+
+முல்லைத்தீவு - கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வாய்வுப் பணிகள் ஜூலை 16ஆம் திகதி செவ்வாய்க்கிழமை முடிவிற்குக் கொண்டுவரப்பட்டுள்ளதுடன்,  அகழ்வாய்வின்போது தோண்டப்பட்ட குழியும் பகுதியளவில் மூடப்பட்டது.
+
+அதேவேளை அகழ்வாய்வின்போது தோண்டப்பட்ட குழியை காணாமல்போனோர் பணியக அதிகாரிகள், வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் ஆகியதரப்புக்களின் முன்னிலையில் பிறிதொரு நாளில் முழுமையாக மூடுவதற்கும் தீர்மானிக்கப்பட்டுள்ளது.
+
+இந் நிலையில் கொக்குத்தொடுவாய் மனிதப்புதைகுழி அகழ்வாய்வில் பங்குபற்றிய அனைத்துத் தரப்பினர்களதும் அறிக்கைகளையும் சமர்ப்பிக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளதுடன், இதுதொடர்பான வழக்கு எதிர்வரும் ஓகஸ்ட் மாதம் 08ஆம் திகதிக்கு தவணையிடப்பட்டுள்ளது.
+
+முல்லைத்தீவு - கொக்குத்தொடுவாயில் கடந்த 2023ஆம்ஆண்டு, ஜூன் மாதம் 29ஆம் திகதி தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபையினர் நீர் இணைப்பினை மேற்கொள்வதற்காக கனரக இயந்திரம் கொண்டு நிலத்தினை அகழ்ந்தபோது மனித எச்சங்கள் இனங்காணப்பட்டன.
+
+...
+
+[Data](articles/9b983b2e.json)
+
+---
+
+### அநுராதபுரத்தில் நில அதிர்வு பதிவு!
+
+*2024-07-16 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188633) · `ta`
+
+அநுராதபுரம் வடக்கு பகுதியில் இன்று செவ்வாய்க்கிழமை (16) மாலை 2.7 மெக்னிடியூட் அளவிலான நில அதிர்வு பதிவாகியுள்ளது : புவியியல் ஆய்வு மற்றும் சுரங்கப் பணியகம் தெரிவித்துள்ளது.
+
+அநுராதபுரத்திலிருந்து வடக்காக 41 கிலோமீற்றர் தொலைவில் 2.7 மெக்னிடியூட் அளவில் இந்த நில அதிர்வுகளை உணர்ந்ததாக பொதுமக்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3d857ee4.json)
 
 ---
 
@@ -81,6 +133,22 @@ The Geological Survey and Mines Bureau point out that it has recorded 2.7 units 
 [Data](articles/cc999c12.json)
 
 [Extended Data](ext_articles/cc999c12.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலுக்கு தடையேதும் கிடையாது : ஜூலை இறுதியில் உத்தியோகபூர்வ அறிவிப்பு வெளியிடப்படும் ; 17,140,000 பேர் வாக்களிக்க தகுதி - தேர்தல்கள் ஆணைக்குழு
+
+*2024-07-16 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188631) · `ta`
+
+அரசியலமைப்பின் ஏற்பாடுகள் மற்றும் ஜனாதிபதித் தேர்தல் சட்டம் என்பவற்றுக்கு அமைய ஜனாதிபதி தேர்தலுக்கான பணிகளை முன்னெடுத்துள்ளோம். ஆரம்பக்கட்ட பணிகள் நிறைவடைந்துள்ளன. இதற்கமைய ஜனாதிபதி தேர்தல் தொடர்பான உத்தியோகபூர்வ அறிவிப்பை இந்த மாதம் இறுதி பகுதியில் அறிவிப்போம். இம்முறை 1 கோடியே 71 இலட்சத்து 40 ஆயிரம் வாக்காளர்கள் வாக்களிக்க தகுதி பெற்றுள்ளனர் என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை உரிய நேரத்தில் நடத்துவதற்கு தடையேதும் கிடையாது.கடந்த காலங்களை காட்டிலும் இம்முறை ஜனாதிபதி தேர்தல் குறித்து மக்கள் எதிர்பார்ப்புடன் உள்ளார்கள்.ஆகவே சுதந்திரமாகவும்,நீதியாகவும் தேர்தலை நடத்த அனைத்து தரப்பினரும் ஒத்துழைப்பு வழங்க வேண்டும் எனவும் ஆணைக்குழுவின் சார்பில் வலியுறுத்தினார்.
+
+தேர்தல்கள் ஆணைக்குழுவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/31216e22.json)
 
 ---
 
@@ -171,6 +239,42 @@ He said the strongest net could be made to capture tax evictions and steps have 
 ◼️
 
 [Data](articles/aeff1e0a.json)
+
+---
+
+### Amendment to amend the Article of the Constitution on the President's term
+
+*2024-07-16 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188611) · `ta`
+
+Sri Lanka's Cabinet, in a 2024 meeting, amended Article 83 of its Constitution, replacing "more than six years" with a revised term limit. The change was proposed by the President and approved for publication in the State Gazette, pending parliamentary approval.
+
+🟩
+
+In Article 83 of the Constitution of the Democratic Socialist Republic of Sri Lanka (B), the word 'more than six years' is replaced by the Cabinet meeting held on 2024.07.09 to revise the 83rd Article (b) of the Constitution (B).Has been provided.
+
+The Cabinet has approved the proposal submitted by the President, Justice, Prison Affairs and Constitutional Reorganization Minister to publish the Bill in the State Gazette and subsequently submitted parliamentary approval.
+
+◼️
+
+[Data](articles/0be0d19b.json)
+
+[Extended Data](ext_articles/0be0d19b.ext.json)
+
+---
+
+### உமாமகேஸ்வரனின் உருவச்சிலை திறந்துவைப்பு!
+
+*2024-07-16 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188625) · `ta`
+
+தமிழீழ மக்கள் விடுதலை கழகத்தின் செயலதிபர் க.உமாமகேஸ்வரனின் உருவச்சிலை வவுனியா மணிக்கூட்டு கோபுரசந்திக்கு அண்மையில் இன்று செவ்வாய்க்கிழமை (16) திறந்துவைக்கப்பட்டது.
+
+கழகத்தின் வவுனியா மாவட்ட அமைப்பாளர் க.சந்திரகுலசிங்கம் தலைமையில் இடம்பெற்ற இந்நிகழ்வில் முதன்மை அதிதியாக கலந்துகொண்ட யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் தர்மலிங்கம் சித்தார்த்தன் உருவச்சிலையினை உத்தியோகபூர்வமாக திறந்துவைத்தார்.
+
+நிகழ்வில் தமிழீ்ழ விடுதலைக்கழகத்தின் முக்கியஸ்தர்கள், தமிழ்தேசிய கூட்டமைப்பின் அங்கத்துவ கட்சிகளின் முக்கியஸ்தர்கள்,பொது அமைப்பினர் உட்பட பலர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/0802d8ff.json)
 
 ---
 
@@ -690,26 +794,6 @@ Cricket states that the gates of the Dambulla International Cricket Stadium will
 
 ---
 
-### Amendment to amend the Article of the Constitution on the President's term
-
-*2024-07-16 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/188611) · `ta`
-
-Sri Lanka's Cabinet, in a 2024 meeting, amended Article 83 of its Constitution, replacing "more than six years" with a revised term limit. The change was proposed by the President and approved for publication in the State Gazette, pending parliamentary approval.
-
-🟩
-
-In Article 83 of the Constitution of the Democratic Socialist Republic of Sri Lanka (B), the word 'more than six years' is replaced by the Cabinet meeting held on 2024.07.09 to revise the 83rd Article (b) of the Constitution (B).Has been provided.
-
-The Cabinet has approved the proposal submitted by the President, Justice, Prison Affairs and Constitutional Reorganization Minister to publish the Bill in the State Gazette and subsequently submitted parliamentary approval.
-
-◼️
-
-[Data](articles/0be0d19b.json)
-
-[Extended Data](ext_articles/0be0d19b.ext.json)
-
----
-
 ### No decision to remove aesthetic and arts
 
 *2024-07-16 15:18:07* · [`adalk`](https://www.ada.lk/breaking_news/සෞන්දර්යාත්මක-හා-කලා-විෂය-ධාරා-ඉවත්-කිරීමට-තීරණයක්-නෑ/11-410807) · `si`
@@ -891,6 +975,18 @@ The High Court said last week that the quota would be postponed for four weeks. 
 [Data](articles/55160978.json)
 
 [Extended Data](ext_articles/55160978.ext.json)
+
+---
+
+### The Lawyers Collective Denounces The Proposed Twenty-Second Amendment
+
+*2024-07-16 14:54:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-lawyers-collective-denounces-the-proposed-twenty-second-amendment/) · `en`
+
+The Cabinet of Ministers has approved the Twenty-Second Amendment to the Constitution Bill, the legal effect of which would be that a Bill that seeks to extend the term of office of the President or the duration of Parliament to over five years would require a two-thirds majority in Parliament and the approval of the People at a Referendum. The Bill seeks to amend present Article 83(b), according to which the maximum period to which such term or duration can be extended without a Referendum is six years. Article 83 also states that any Bill that seeks to amend Article 83 itself would require a two-thirds majority and approval at a Referendum. Thus, it is clear beyond doubt that the proposed Bill will require a two-thirds majority and a Referendum.
+
+...
+
+[Data](articles/09c5ba4e.json)
 
 ---
 
@@ -2301,153 +2397,5 @@ In the first four months of 2024, the tea kilogram of 4.1 million kilograms of t
 [Data](articles/57a25d8c.json)
 
 [Extended Data](ext_articles/57a25d8c.ext.json)
-
----
-
-### Human remains recovery in Colombo - Fort
-
-*2024-07-16 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188563) · `ta`
-
-During excavation for the Colombo Port City Expressway, human remains were found six feet deep near the old secretariat in Colombo-Fort. The discovery, made last Saturday, led to suspension of work and police involvement, with protective measures in place for ongoing investigations by the Colombo Fort Court.
-
-🟩
-
-Colombo port police said that human remains were found near the old secretariat in the Colombo -Fort Fort.
-
-These human remains have been discovered at a depth of 6 feet during excavation operations carried out by a private company involved in the construction of the Colombo Port City Expressway.
-
-Police said the human remains were found last Saturday and these were many years old.
-
-Following the discovery of human remains, excavation measures have been suspended and the police have been informed about this.
-
-Police have been provided with police protection as investigations have been launched by the Colombo Fort Court.
-
-◼️
-
-[Data](articles/813711f1.json)
-
-[Extended Data](ext_articles/813711f1.ext.json)
-
----
-
-### Elections in the North, Reconciliation issues
-
-*2024-07-16 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188564) · `ta`
-
-The text discusses the complexities surrounding the upcoming presidential election in Sri Lanka, particularly focusing on the potential impact of a Tamil candidate. It highlights the government's stalled efforts to amend the constitution to reduce the presidential term, the High Court's validation of the 19th Amendment, and the ongoing discussions aimed at achieving national reconciliation. The document also touches upon the divided Tamil political community's search for unity and the challenges they face in deciding on a single candidate. Despite the divisions, there's a shared desire for a federal solution and the implementation of the 13th Amendment, reflecting the Tamil community's enduring aspirations for self-governance in the Northern and Eastern provinces.
-
-🟩
-
-The questionnaire hanging over the presidential election, which is to be held in October this year. The answer to that continues to be followed.The government's idea of ​​bringing a constitutional amendment has finally come to a standstill to eliminate the chaos that is six years or five years.
-
-The High Court has confirmed the legalization of the 19th Amendment to the Constitution that reduced the president's term.
-
-While the issue is not raised by the High Court, any other court, parliament, or any other institution, it is nine years later, and nine years later, the word "six years" has been "five years" for the sole purpose of "five years".Have raised.
-
-The tricks in Colombo are not shocked by the thinking of voters in the north. Since this is beyond their control, it seems like they are not concerned.
-
-...
-
-[Data](articles/812b41c5.json)
-
-[Extended Data](ext_articles/812b41c5.ext.json)
-
----
-
-### Rajitha's final decision
-
-*2024-07-16 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198859) · `si`
-
-MP Rajitha Senaratne confirms he won't back any candidate in the upcoming presidential election, emphasizing his focus on continuing the current economic program. He denies rumors about supporting any specific candidate, including the incumbent president, stating his decisions will be announced when ready.
-
-🟩
-
-MP Rajitha Senaratne says that he has not taken his support to the Presidency in the next presidential election, says Rajitha Senaratne.
-
-The MP is denied that he believes that he should continue to carry out the economic program, including the present President and the government.
-
-Parliamentarian Rajitha Senaratne made these comments participating with the 30-time program broadcast on TV Derana yesterday (15).
-
-Q: Do you have official Wickremesinghe stage?
-
-"There's no such decision. There is no day on that way. It could have gone. "
-
-Q. You will surely support the presidential election to the presidential election to the Presidential Election.
-
-"It's not even though he was still talking to me. What if the Rajapaksas have been amended without the help of Mahinda Rajapaksa, what will happen to Prabhakara? "
-
-Q. This is the question you don't say. Someone told you not to tell your announcement now.
-
-"Thaws like all of this said. If there is my announcement, it will be announced. "
-
-...
-
-[Data](articles/2a15fc14.json)
-
-[Extended Data](ext_articles/2a15fc14.ext.json)
-
----
-
-### Sri Lanka Teachers Association
-
-*2024-07-16 09:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ஆசிரியர்-சங்கம்-மீண்டும்-விடுத்துள்ள-எ்சரிக்கை/175-340472) · `ta`
-
-Priyantha Fernando, President of Sri Lanka Teachers Union, announced plans to re-engage in negotiations next week, emphasizing his commitment to continue fighting until his demands are met regarding the ongoing issue.
-
-🟩
-
-Sri Lanka Teachers Union President Priyantha Fernando said that the trade union will be re -engaged next week.
-
-He also said that he would not abandon their struggle until his demand was fulfilled by the issue.. Remble
-
-◼️
-
-[Data](articles/2a0d9bf6.json)
-
-[Extended Data](ext_articles/2a0d9bf6.ext.json)
-
----
-
-### Sri Lanka Teachers Union
-
-*2024-07-16 09:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ஆசிரியர்-சங்கம்-மீண்டும்-விடுத்துள்ள-எச்சரிக்கை/175-340472) · `ta`
-
-Priyantha Fernando, President of Sri Lanka Teachers Union, announced plans to re-engage next week, vowing not to cease their fight until demands are met.
-
-🟩
-
-Sri Lanka Teachers Union President Priyantha Fernando said that the trade union will be re -engaged next week.
-
-He also said that he would not abandon their struggle until his demand was fulfilled by the issue.. Remble
-
-◼️
-
-[Data](articles/5b24661b.json)
-
-[Extended Data](ext_articles/5b24661b.ext.json)
-
----
-
-### Tara Devi statue brought back to the country during the colonial year?
-
-*2024-07-16 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198858) · `si`
-
-Viddha Wickramanayaka, Minister of Buddha Sasana, announced efforts to retrieve artifacts, including Tara Devi statues, taken from Sri Lanka during colonial times. He is in discussions with relevant countries to bring these cultural treasures back home.
-
-🟩
-
-Minister of Buddha Sasana, Religious and Cultural Affairs Viddha Wickramanayaka says that there is a number of objects that have been taken to obtain a number of objects throughout the country during the colonial year.
-
-He is currently discussed with the relevant countries.
-
-He was speaking at a press conference held at the press conference held at the Presidential Media Center.
-
-"There are many objects throughout our country by our country. They also have the idol of Duck. Accordingly, we need to take many objects for the image. We also received many similar items from the Netherlands. "
-
-◼️
-
-[Data](articles/9285f4d2.json)
-
-[Extended Data](ext_articles/9285f4d2.ext.json)
 
 ---

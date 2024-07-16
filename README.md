@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 17:20:14**
+As of **2024-07-16 17:35:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,563 (100.0%) of 35,565 articles have been extended.
+35,565 (100.0%) of 35,565 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ In 2023, the winner of the “Grand Prize of the Traditional French Baguette,”
 ◼️
 
 [Data](articles/956f8f5b.json)
+
+[Extended Data](ext_articles/956f8f5b.ext.json)
 
 ---
 
@@ -342,23 +344,31 @@ Accordingly, he requested the restaurant owners to make necessary arrangements t
 
 ---
 
-### ජනපතිවරණ දිනය මේ මස අවසානයේදී
+### Presidential Assistance Day at the end of this month
 
 *2024-07-16 15:35:10* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණ-දිනය-මේ-මස-අවසානයේදී/11-410809) · `si`
 
-ජනාධීපතිවරණය ප්‍රකාශයට පත් කිරීමේ දිනයේ දැන්වීම  ජූලි මස අවසන් වීමට ප්‍රථම නිකුත් කෙරෙන  බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතා පවසයි.මෙම දිනය තීරණය කරනු ලබනනේ  ජනාධිපතිවරණ පනත හා ආණ්ඩු ව්‍යවස්ථාවේ ප්‍රතිපාදන මත පමණක් බවද රත්නායක මහතා පෙන්වා දේ.
+Presidential Assistance Day is scheduled for the end of this month, as announced by Elections Commissioner Chairman RM VL Ratnayake. He revealed that the election will take place on September 17th and discussed various responsibilities including discussions between the IGP, Printer, and the Finance Ministry. The total number of new voters who have turned 18 exceeds 70,000. Ballot centers have been established, and voting will commence soon under a low-cost regulation program. The electoral date was officially published by the Elections Commission, emphasizing the importance of holding free and peaceful elections. The budget for the 2024 presidential election has been allocated Rs. 10 billion.
 
-මැතිවරණ කොමිෂන් සභාවේ අද (16) පැවති විශේෂ මාධ්‍ය සාකච්ඡාවකට එක් වෙමින් ඒ මහතා මේ බව පැවසීය.
+🟩
 
-ඒ අනුව සැප්තැම්බර් මස 17 වැනි දිනෙන් පසුව එළඹෙන සුදුසු දිනකදී ඡන්ද විමසීම පැවැත්වෙන බවත් මාධ්‍ය සාකච්ඡාවේදී ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+The Elections Commissioner Chairman RM VL Ratnayake has said that the date on the date of the publication date on the end of July, Mr. RM V.L Ratnayake has said.
 
-ඡන්ද විමසීම සම්බන්ධයෙන් රාජකාරි රාශියක් පවතින බව සඳහන් කළ ඒ මහතා  පොලිස්පතිවරයා , මුද්‍රණාලයාධිපතිනිය , තැපැල්පතිවරයා සමග මූලික සාකච්ඡා පැවැත්වූ බවත් ඉදිරියේදී මුදල් අමාත්‍යංශය සමඟ සාකච්ඡා පවත්වන බවද රත්නායක මහතා ප්‍රකාශ කළේය.
+He was speaking at a special press conference held today (16).
 
-මෙවර 2024 නව ඡන්ද හිම නාමලේඛනයට අනුව  ලියාපදිංචි වී ඇති සමස්ත ඡන්දදායකයින් සංඛ්‍යාව එක්කෝටි හැත්තෑ එක්ලක්ෂ හතලිස්දහසක් වන බවත් වයස අවුරුදු 18 සම්පූර්ණ  වූ නව ඡන්දදායකයින් සංඛ්‍යාව හැත්තෑහදහසක් බවත් සභාපතිවරයා පෙන්වා දේ.
+He further stated that the election will be held on September 17, he added.
+
+He said that there was a number of duties in the election, he said that the IGP, Printer, and the Finance Ministry will hold talks with the Finance Ministry in the future.
+
+The total number of voters have been registered with the new voter network, the total number of voters have been registered, the Chairperson pointed out that the total number of new voters completed 18 are seventy years.
+
+He further stated that the ballot centers of the vote has been launched and the census of the vote has been commenced and the census of the vote has been launched through the Grama Niladhari.He also said that this year will be held this year's election under the low cost regulation program.
 
 ...
 
 [Data](articles/b03964af.json)
+
+[Extended Data](ext_articles/b03964af.ext.json)
 
 ---
 

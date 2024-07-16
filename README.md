@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 11:55:27**
+As of **2024-07-16 12:08:50**
 
 ## Newspaper Stats
 
-*Scraped **35,507** Articles*
+*Scraped **35,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,105 +16,221 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,197
-adaderanalk | 4,094
+adaderanalk | 4,097
 tamilmirrorlk | 4,289
 dailymirrorlk | 4,733
-virakesarilk | 5,531
+virakesarilk | 5,532
 adaderanasinhalalk | 5,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,491 (100.0%) of 35,507 articles have been extended.
+35,506 (100.0%) of 35,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### பிரைட் ரைஸ், கொத்து விலைகள் குறைப்பு
+### Four killed, several wounded by gunfire near mosque in Oman
+
+*2024-07-16 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100550/four-killed-several-wounded-by-gunfire-near-mosque-in-oman) · `en`
+
+Four people were killed and several wounded by gunfire in the vicinity of a mosque in Oman, the Omani police said on Tuesday, a rare breach of security in one of the most stable countries in the Middle East.
+
+“All security measures and procedures have been taken to deal with the situation, and procedures for gathering evidence and investigation are being completed,” the police said in a statement.
+
+The U.S. embassy in the capital Muscat said it is following reports of the shooting incident in Wadi al-Kabir, in the governorate of the capital city Muscat.
+
+“U.S. citizens should remain vigilant, monitor local news and heed directions of local authorities,” it said in a statement.
+
+Oman has maintained its neutrality in the turbulent region and mediated in disputes including between the United States and Iran.
+
+◼️
+
+[Data](articles/295a547b.json)
+
+---
+
+### Rajitha still undecided on supporting Ranil at upcoming election
+
+*2024-07-16 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100549/rajitha-still-undecided-on-supporting-ranil-at-upcoming-election) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Dr. Rajitha Senaratne says that he is yet to take a final decision as to whether he will support he incumbent President at the upcoming Presidential Election.
+
+The former Minister emphasized that he believes the economic programmes being carried out by the President and the government should be continued.
+
+Senaratne expressed these views during the ‘Derana 360’ programme, aired on TV Derana last night (15).
+
+Asked about when he plans on officially declaring his support to President Ranil Wickremesinghe and join him on stage, he responded, “I have not taken any such decision. There is no such date to take the stage. I could have gone back then if I wanted to.”
+
+He clarified that he has not yet had any discussions with the President about extending his support, stating, “He hasn’t even talked to me about it yet. Now what would have happened to Prabhakaran if he had revised these things without supporting Mahinda Rajapaksa in the same way back then?”
+
+...
+
+[Data](articles/887b0f72.json)
+
+---
+
+### மறு அறிவித்தல் வரை கடலுக்குச் செல்ல வேண்டாம் !
+
+*2024-07-16 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188581) · `ta`
+
+அரபிக் கடல் மற்றும் வங்காள விரிகுடா பகுதிகளில் பலத்த காற்றுடன் கடல் கொந்தளிப்பாக காணப்படும் என்பதால்  கடற்படை மற்றும் மீனவர்களுக்கு வளிமண்டலவியல் திணைக்களம் ‘சிவப்பு’ எச்சரிக்கை விடுத்துள்ளது.
+
+தென் மேல் பருவப் பெயர்ச்சி வலுவடைந்து காணப்படுவதால் குறித்த பகுதிகளில் மணிக்கு 70 தொடக்கம் 80 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என்பதுடன் மேலும் கடல் மிகவும் கொந்தளிப்பாகவும் இருக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+எனவே, கீழே உள்ள வரைபடத்தில் ‘சிவப்பு’ நிறத்தில் குறிப்பிடப்பட்டுள்ள கடல் பகுதிகளுக்கு மறு அறிவிப்பு வரும் வரை கடற்படையினர் மற்றும்  மீனவ சமூகத்தினர் செல்ல வேண்டாம் என அறிவுறுத்தப்பட்டுள்ளனர்.
+
+மேற்குறிப்பிட்ட கடல் பகுதிகளில் இருப்பவர்கள் உடனடியாக கரையோரங்களுக்கு திரும்பவும் அல்லது பாதுகாப்பான பகுதிகளுக்கு செல்லவும் அறிவுறுத்தப்படுகிறார்கள்.
+
+இது தொடர்பில் வளிமண்டலவியல் திணைக்களத்தினால் வெளியிடப்படும் எதிர்கால வானிலை கணிப்புகள் தொடர்பில் அவதானமாக இருக்குமாறும்  கடற்படை மற்றும் மீனவ சமூகங்கள் கேட்டுக் கொள்ளப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/960333fd.json)
+
+---
+
+### Bright Rice, Masonry Prices Reduce
 
 *2024-07-16 11:39:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரைட்-ரைஸ்-கொத்து-விலைகள்-குறைப்பு/175-340481) · `ta`
 
-மின்சாரக் கட்டணம் குறைக்கப்பட்டமைக்கு சமாந்தரமாக உணவகங்களில் உணவுப் பொருட்களின் விலைகளை குறைப்பதற்கு தீர்மானிக்கப்பட்டுள்ளதாக அகில இலங்கை உணவகங்கள் மற்றும் சிற்றுண்டிச்சாலைகள் உரிமையாளர் சங்கத்தின் தலைவர் ஹரிஷண ருக்ஷான் தெரிவித்தார்.
+Harishana Rukshan, head of the All Ceylon Restaurants and Snacks Owners Association, announced price cuts in response to lower electricity tariffs. Bright Rice and Masonry prices will drop by 25 rupees, while snacks like paratha and egg bread will be cheaper by 10 rupees.
 
-அதனடிப்படையில் பிரைட் ரைஸ், கொத்து மற்றும் சோறு 25 ரூபாவினாலும் பராட்டா, முட்டை ரொட்டி உள்ளிட்ட சிற்றுண்டிகள் 10 ரூபாவினாலும் குறைக்கப்பட்டுள்ளன என்றும் அவர் அறிவித்துள்ளார்.
+🟩
+
+The President of the All Ceylon Restaurants and Snacks Owners Association, Harishana Rukshan, said that it has decided to reduce food prices in restaurants as a parallel to the reduction of electricity tariffs.
+
+Accordingly, he has also announced that Bright Rice, Masonry and Rice have been reduced by 25 rupees and snacks including paratha and egg bread for 10 rupees.
 
 ◼️
 
 [Data](articles/940702b7.json)
 
+[Extended Data](ext_articles/940702b7.ext.json)
+
 ---
 
-### ජල ගාස්තුව සඳහා මිල සූත්‍රයක්
+### A price formula for water charges
 
 *2024-07-16 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198868) · `si`
 
-ජල ගාස්තුව සඳහා මිල සූත්‍රයක් හඳුන්වා දීමට කැබිනට් අනුමැතිය ලැබුණු බව කැබිනට් ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+Cabinet approves new water charge pricing formula set to launch next year, as announced by Minister Bandula Gunawardena.
 
-එම මිල සූත්‍රය ලබන වසරේ (2025) දී ක්‍රියාවට නැගීමට නියමිත බවද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
+
+Cabinet spokesman Minister Bandula Gunawardena says Cabinet has approved the introduction of a price formula for water charges.
+
+The price formula is scheduled to be implemented next year.
 
 ◼️
 
 [Data](articles/e9125adf.json)
 
+[Extended Data](ext_articles/e9125adf.ext.json)
+
 ---
 
-### கடைசி நொடியில் தலை திரும்பியதால் தப்பினார் ட்ரம்ப்
+### UNESCO Director-General arrives in Sri Lanka
+
+*2024-07-16 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100548/unesco-director-general-arrives-in-sri-lanka) · `en`
+
+The Director-General of the United Nations Educational, Scientific and Cultural Organization (UNESCO), Audrey Azoulay, has arrived in Sri Lanka on Tuesday.
+
+The Director-General of UNESCO, accompanied by a delegation, reached the Bandaranaike International Airport (BIA) in Katunayake this morning (15).
+
+She is visiting the island on an invitation from the Government of Sri Lanka.
+
+During her three-day visit, the Director-General of UNESCO is scheduled to meet and hold discussions with President Ranil Wickremesinghe, Education Minister Susil Premajayantha, Acting Foreign Affairs Minister Tharaka Balasuriya and other high-level government officials.
+
+She will take part at the celebration of the 75th Anniversary of Sri Lanka’s Membership of UNESCO at the Nelum Pokuna Theatre and travel to UNESCO World Heritage Sites across the island.
+
+◼️
+
+[Data](articles/25b9b663.json)
+
+---
+
+### Trump escaped as he turned his head in the last second
 
 *2024-07-16 11:26:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடைசி-நொடியில்-தலை-திரும்பியதால்-தப்பினார்-ட்ரம்ப்/50-340480) · `ta`
 
-துப்பாக்கியால் சுடப்படுவதற்கு முன்பாக அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்டு ட்ரம்ப் கடைசி நொடியில் தலையை திருப்பும் ஸ்லோ மோஷன் வீடியோ வெளியாகியுள்ளது.
+Donald Trump narrowly escaped a shooting incident during a public event in the U.S., where a supporter fired upon him but missed due to Trump turning his head at the critical moment. The shooter, identified as Thomas Mathew Crooks, was killed by security forces. Trump was unharmed and later left for treatment in New Jersey.
 
-அமெரிக்காவில் 50 ஆயிரம் பேர் திரண்டிருந்த தேர்தல் பிரசார பொதுக் கூட்டத்தில் முன்னாள் ஜனாதிபதி  டொனால்டு ட்ரம்ப் மீது துப்பாக்கிச்சூடு நடத்தப்பட்டது பரபரப்பை ஏற்படுத்தியுள்ளது. காதில் குண்டு பாய்ந்த நிலையில் நூலிழையில் அவர் உயிர் தப்பினார். இத்தாக்குதலில் அவரது ஆதரவாளர் உயிரிழந்தார்.
+🟩
 
-துப்பாக்கிச்சூடு நடத்திய தாமஸ் மேத்யூ க்ரூக்ஸ் என்ற 20 வயது இளைஞரை பாதுகாப்பு படையினர் சுட்டுக் கொன்றனர்.
+Former US President Donald Trump's head turning his head in the last moment has been released before he was shot.
 
-இதற்கிடையே, குண்டு காயத்தால் காதில் இருந்து ரத்தம் வெளியேறிய நிலையில், ட்ரம்ப்பை பாதுகாப்பு படையினர் உடனே மீட்டு, பட்லர் நினைவு மருத்துவமனையில் சேர்த்தனர். அங்கு அவருக்கு சிகிச்சை அளிக்கப்பட்டது. சில மணிநேரத்துக்கு பிறகு, அவர் அங்கிருந்து விமானம் மூலம் நியூஜெர்ஸிக்கு புறப்பட்டுச் சென்றார்.
+Former President Donald Trump's shooting at a public meeting of 50 thousand people in the United States. He survived the bomb in the ear. His supporter died in the attack.
+
+Security forces shot dead a 20 -year -old youth named Thomas Mathew Crooks, who fired.
+
+In the meantime, the security forces were immediately rescued by the security forces and taken to Butler Memorial Hospital. Where he was treated. A few hours later, he left for New Jersey by plane.
+
+In this context, Trump's head turning his head in the last moment before the firearm was released.. Talking at the crowd Trump turns his head in front of a micronolin to flow bombs. Bombs flow toward his ear at this interval. If that had not been turned, they would have jumped on the back of Trump's head.
 
 ...
 
 [Data](articles/91ca7c46.json)
 
+[Extended Data](ext_articles/91ca7c46.ext.json)
+
 ---
 
-### කාන්තාවන් 42ක් ඝාතනය කළ දාම ඝාතකයා
+### The killer who killed 42 women
 
 *2024-07-16 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198867) · `si`
 
-කෙන්යාවේ නයිරෝබි අගනගරය ආසන්නයේ පිහිටි ගල්වළක තිබී කාන්තා මළ සිරුරු විශාල ගණනක් සොයාගැනීමෙන් පසුව සිදුකළ විමර්ශනයකින් අනතුරුව සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+A man was arrested after 42 women's bodies were found in a garden near Nairobi Citygate, Kenya. He confessed to killing them all. The 33-year-old suspect lived nearby and had suspicious items and mobile phones linked to the murders in his home.
 
-අත්අඩංගුවට පත්වීමෙන් අනතුරුව ඔහු පාපොච්චාරණය කර ඇත්තේ තමා විසින් සිය බිරිඳ ඇතුළු කාන්තාවන් 42ක් ඝාතනය කර සිරුරු එම ස්ථානයට දැමූ බවයි.
+🟩
 
-කොලින්ස් ජුමයිසි නම් එම 33 හැවිරිදි සැකකරු එම ගල්වළ ආසන්නයේ ජීවත් වූ පුද්ගලයෙකි.
+The suspect was arrested following a large number of women's bodies in a garden near the Nairobi Citugate in Kenya.
 
-ඔහුගේ නිවසේ තිබී විවිධ සැකකටයුතු භාණ්ඩ සහ ඝාතනයට ලක්වූ කාන්තාවන්ගේ බවට සැලකෙන ජංගම දුරකථන සොයාගෙන තිබුණි.
+After the arrest, he confessed that he had killed 42 women and 42 women, killing 42 women.
+
+The 33-year-old suspect was a person who lived near the garden.
+
+Mobile phones were discovered that various suspicious goods and murdered women were in his house.
 
 ◼️
 
 [Data](articles/58dad270.json)
 
+[Extended Data](ext_articles/58dad270.ext.json)
+
 ---
 
-### හෙරොයින් සමග කොටුවූ අනධ්‍යයන සේවිකාවගේ පැටිකිරිය
+### Advancement of non-academic masterpieces trapped with heroin
 
 *2024-07-16 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198866) · `si`
 
-හෙරොයින් ග්‍රෑම් 210ක් සමග රජයේ පාසලක අනධ්‍යයන සේවිකාවක් අත්අඩංගුවට ගෙන තිබේ.
+A non-academic school employee was arrested with 210 grams of heroin by the Matara Crimes Division near Weligama. The suspect, linked to a drug network in Midigama, allegedly received drugs from organizers for distribution. Despite her role, the school was not implicated in the drug trade, which focused on supplying addicts rather than selling within the institution. Further inquiries are ongoing by the Matara Crimes Division and Weligama Police.
 
-ඊයේ (15) සවස් කාලයේදී වැලිගම පොලිස් වසමේ බෝධිමළුව විහාරය අසලදී මාතර අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් එම සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ඇය වැලිගම ප්‍රදේශයේ පාසලක අනධ්‍යයන සේවිකාවක් ලෙස කටයුතු කරන අතර මිදිගම ප්‍රදේශයේ සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ මත්ද්‍රව්‍ය බෙදා හැරීමේ කටයුතු සිදුකර ඇති බව පොලීසිය පවසයි.
+A non-academic servant of a government school has been arrested with 210 grams of heroin.
 
-එම සැකකාරිය මෑත කාලයේදී මත්ද්‍රව්‍ය ජාවාරම් සඳහා සම්බන්ධ වී ඇති අතර විදෙස්ගතව සිට මත්ද්‍රව්‍ය ජාලය මෙහෙයවන පුද්ගලයින් විසින් නම් කර එවනු ලබන පුද්ගලයින් වෙත මත්ද්‍රව්‍ය ලබාදීම සිදුකර ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+The suspect was arrested by the Matara Crimes Division near the Bodhiwa Viharaya in Weligama Police in the evening yesterday (15).
 
-සැකකාරියගෙන් මත්ද්‍රව්‍ය ලබාගන්නා පිරිස ද කුඩා පරිමාණයෙන් මත්ද්‍රව්‍ය ජාවාරමේ යෙදී සිටින පුද්ගලයින් බව හඳුනාගෙන ඇති බව පොලීසිය පවසයි.
+She has been a non-academic employee of a school in Weligama and the drug dealer of an organized crime and drug dealer in the Midigama area has been made.
 
-සැකකාරිය විසින් සිදුකර ඇත්තේ, ඇය වෙත ලැබෙන වැඩි මත්ද්‍රව්‍ය ප්‍රමාණය ළඟ තබා ගැනීමත් ඒවා විදේශ ජාවාරම්කරු විසින් නම් කරන පුද්ගලයින්ට අවශ්‍ය කරන ප්‍රමාණයන්ට ලබාදීමත් බව පොලීසිය පවසයි.
+Police investigations have revealed that the suspects have been involved in drug trafficking recently and have been provided with drugs from the persons who are conducting the drug network.
 
-...
+The suspects have been identified as drugs from the suspect and drug trafficking on a small scale.
+
+The suspect had done to possess the most drugs that she receives to her, police said.
+
+Although a woman serving at a school, the school has not been involved in this racket, it is reported that the drug has not been sold for addicts.
+
+Matara Crimes Division and Weligama Police are conducting further investigations.
+
+◼️
 
 [Data](articles/f935c557.json)
+
+[Extended Data](ext_articles/f935c557.ext.json)
 
 ---
 
@@ -164,23 +280,29 @@ At the same time, the parents have requested that they contact the number 076461
 
 ---
 
-### ஜனாதிபதி தேர்தல் குறித்து தேர்தல்கள் ஆணைக்குழுவின் விசேட அறிவிப்பு !
+### Special announcement of Elections Commission on presidential election
 
 *2024-07-16 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188577) · `ta`
 
-ஜூலை மாதம் இறுதிப் பகுதியில் ஜனாதிபதி தேர்தல் வாக்கெடுப்புக்கான திகதி உத்தியோகபூர்வமாக அறிவிக்கப்படுமென தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல் ரத்நாயக்க தெரிவித்துள்ளார்.
+The Elections Commission Chairman announced the presidential vote date will be revealed by the end of July, ensuring adherence to constitutional and electoral laws. The election is set post-September 17, with 771,040 new voters now eligible, totaling 1,714,000 voters. Governors were urged to halt illicit appointments ahead of the election.
 
-ஜனாதிபதித் தேர்தல் குறித்து வெளியாகும் செய்திகள் தொடர்பில் தெளிவுபடுத்தலுக்காக தேர்தல் ஆணைக்குழுவின் தலைவர் ஏற்பாடு செய்துள்ள விசேட ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-அத்துடன் அரசியலமைப்பின் ஏற்பாடுகள் மற்றும் ஜனாதிபதி தேர்தல் சட்டம் என்பனவற்றுக்கு அமையவே நாங்கள் செயற்படுவோம் எனவும் தேர்தலை நடத்துவதற்கு தடையேதும் கிடையாதெனவும் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் மேலும் குறிப்பிட்டார்.
+Elections Commission Chairman RMAL Ratnayake said the date of the presidential vote will be officially announced at the end of July.
 
-இதேவேளை, செப்டம்பர் மாதம் 17 ஆம் திகதிக்கு பின்னர் ஜனாதிபதி தேர்தல் வாக்கெடுப்பு நடத்தப்படும் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் தெரிவித்தார்.
+He said this at a special media briefing organized by the Chairman of the Election Commission to clarify the news on the presidential election.
 
-இந்நிலையில், ஜனாதிபதி தேர்தலில் வாக்களிப்பதற்கு இம்முறை 76 ஆயிரம் புதிய வாக்காளர்கள் தகுதி பெற்றுள்ளதாகவும் ஜனாதிபதி தேர்தலில் வாக்களிப்பதற்கு இம்முறை ஒரு கோடியே 71 இலட்சத்து 40 ஆயிரம் வாக்காளர்கள் தகுதி பெற்றுள்ளதாகவும் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் தெரிவித்தார்.
+The Chairman of the Elections Commission added that we will act in accordance with the provisions of the Constitution and the Presidential Election Act and that there is no barrier to conducting the election.
+
+Meanwhile, the Chairman of the Elections Commission said that the presidential election would be held after September 17.
+
+In this case, the Chairman of the Elections Commission said that 76 thousand new voters have qualified for voting in the presidential election and this time a million 71 lakhs 40 thousand voters have been eligible to vote in the presidential election.
 
 ...
 
 [Data](articles/53e63e42.json)
+
+[Extended Data](ext_articles/53e63e42.ext.json)
 
 ---
 
@@ -198,21 +320,33 @@ The date for the upcoming Presidential Election will be announced before the end
 
 ---
 
-### யுத்தகுற்றச்சாட்டுகள் மிகைப்படுத்தப்பட்டவை- 40000 பொதுமக்கள் கொல்லப்பட்டனர் என்றால் அவர்களின் மனித  எச்சங்கள் எங்கே? சரத்பொன்சேகா கேள்வி?
+### War crimes are exaggerated- where 40000 civilians were killed if their human remains?Sarath Fonseka question?
 
 *2024-07-16 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/188578) · `ta`
 
-முன்னாள் இராணுவதளபதியும் ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினருமான சரத்பொன்சேகா யுத்தகுற்றச்சாட்டுகளை நிராகரித்துள்ளார்.
+Sarath Fonseka disputes war crime claims, questioning the whereabouts of human remains if 40,000 civilians died. He acknowledges some post-war incidents but denies war-time atrocities, highlighting his rescue efforts and the strategic use of heavy weaponry.
 
-விடுதலைப்புலிகளுடனான யுத்தத்தின்போது யுத்தகுற்றங்கள் இழைக்கப்பட்டதாக முன்வைக்கப்படும்  குற்றச்சாட்டுகளை மிகைப்படுத்தப்பட்டவை என சரத்பொன்சேகா நிராகரித்துள்ளார்.
+🟩
 
-40,000 பொதுமக்கள் கொல்லப்பட்டனர் என்றால் அவர்களின் மனித எச்சங்கள் எலும்புக்கூடுகள் எங்கே என சரத்பொன்சேகா கேள்வி எழுப்பியுள்ளார்.
+Former military commander and United People's Power Member Sarath Fonseka has rejected the war crimes.
 
-எனினும் யுத்தத்தின் பின்னர் சில சம்பவங்கள் இடம்பெற்றதை நிராகரிக்காத அவர் ஒருசம்பவம் குறித்து நான் விசாரணையை ஆரம்பித்தேன் எனினும் பதவியிலிருந்து நீக்கப்பட்டேன் விசாரணையை தொடரமுடியவில்லை என  குறிப்பிட்டுள்ளார்.
+Sarath Fonseka has rejected the allegations that the war crimes have been committed during the war with the Liberation Tigers of Tamil Eelam (LTTE).
+
+Sarath Fonseka has questioned where their human remains are skeletons if 40,000 civilians were killed.
+
+However, he did not reject some incidents after the war, but I started an investigation into the incident, but I was sacked.
+
+Sarath Fonseka said, "I have rescued 150,000 people from the Flood, on May 19, 2009, on May 19, 2009.
+
+"We have used heavy weapons such as artillery, etc., especially in the five months of 2009," Sarath Fonseka said.
+
+He said that I lost 2000 soldiers in 2009, and I lost 2000 soldiers throughout 2008 but I lost 2000 soldiers because of the four and a half months of 2009.
 
 ...
 
 [Data](articles/d05d15f5.json)
+
+[Extended Data](ext_articles/d05d15f5.ext.json)
 
 ---
 
@@ -238,15 +372,21 @@ Mr. Ratnayake also said that this day could be considered as per the Constitutio
 
 ---
 
-### ரயில் நிலைய அதிபர்கள் சங்கம் விடுத்துள்ள எச்சரிக்கை
+### The Railway Principals' Association's warning
 
 *2024-07-16 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/188575) · `ta`
 
-முன்வைக்கப்பட்ட 13 கோரிக்கைகளில் 06 கோரிக்கைகளை நிறைவேற்றுவதாக போக்குவரத்து அமைச்சர் உறுதியளித்தார். இவ்விரு நாட்களுக்குள் சாதகமான பதில் இன்றேல் தொடர் பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபடுபோம் என ரயில் நிலைய அதிபர் சங்கம் எச்சரிக்கை விடுத்துள்ளது.
+The Railway Station Principal Association issued a warning after the Transport Minister agreed to only six out of thirteen demands. They threaten to hold workshops unless their concerns are addressed soon.
+
+🟩
+
+Transport Minister promised to meet 06 of the 13 demanded. The Railway Station Principal Association has warned that it will engage in a series of workshops without a favorable response within these days.
 
 ◼️
 
 [Data](articles/2c4561fd.json)
+
+[Extended Data](ext_articles/2c4561fd.ext.json)
 
 ---
 
@@ -296,23 +436,31 @@ In equities, Colombo’s All Share Price Index opened 49.29 points higher at 11,
 
 [Data](articles/9cc28596.json)
 
+[Extended Data](ext_articles/9cc28596.ext.json)
+
 ---
 
-### கோட்டை ரயில் நிலையத்திற்கு அருகில் ஆணின் சடலம் மீட்பு !
+### Men's body recovered near Fort Railway Station
 
 *2024-07-16 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/188566) · `ta`
 
-கொழும்பு, கோட்டை ரயில் நிலையத்திற்கு முன்பாக உள்ள வீதிக்கு அருகில் இனந்தெரியாத  நபர் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளது.
+An unidentified male body, aged 60-65, was found near the Fort Railway Station in Colombo. The victim, who stands 5 feet 4 inches tall, was last seen wearing a red shirt. Investigations began after the discovery on Monday, led by the Fort Police, who continue to search for clues.
 
-சம்பவம்  தொடர்பில் கோட்டை பொலிஸாருக்கு நேற்று திங்கட்கிழமை (15) கிடைத்த தகவலின் அடிப்படையில்  விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளன.
+🟩
 
-உயிரிழந்தவர் 05 அடி 04 அங்குல உயரமுடைய 60 முதல் 65 வயதுக்குட்பட்ட ஆணொருவர் என பொலிஸார் தெரிவித்துள்ளனர்.
+The body of an unidentified person has been recovered near the road in front of the Fort Railway Station in Colombo.
 
-மேலும், அவர்  மேற்சட்டை, சிவப்பு நிற சாரம் அணிந்திருந்ததாக பொலிஸார்  தெரிவித்துள்ளனர். மேலதிக விசாரணைகளை கோட்டை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Investigations have been carried out on the basis of information received by the Fort Police on Monday (15).
+
+The deceased is a 60 to 65 -year -old man, 05 feet 4 inches.
+
+Also, police said that he was wearing a red extract. Fort police are conducting further investigations.
 
 ◼️
 
 [Data](articles/b5ab8937.json)
+
+[Extended Data](ext_articles/b5ab8937.ext.json)
 
 ---
 
@@ -398,41 +546,53 @@ Trump shot at Trump while addressing an election rally in Pennsylvania, and his 
 
 ---
 
-### மட்டக்களப்பில் வெடிப்புச் சம்பவம் : இராணுவம், பொலிஸார் தீவிர விசாரணை
+### Explosive incident in Batticaloa: Army and police intensive investigation
 
 *2024-07-16 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188570) · `ta`
 
-மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிப்புக்குட்பட்ட பூநொச்சிமுனை கிராமத்தில் உள்ள வீடொன்றினுள் வெடிப்புச்  சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+In Batticaloa, an explosion occurred in a house within the Poonchimunai Green Housing Project, investigated by local police and military. A blue object fell from the sky, causing the blast. Despite minimal damage, the loud noise was heard far away. Authorities are conducting thorough investigations.
 
-பூநொச்சிமுனை பச்சை வீட்டுத்திட்டம் என்னும் குடியேற்ற கிராமத்திலேயே இந்த வெடிப்புச் சம்பவம் பதிவாகியுள்ளது.
+🟩
 
-வீட்டின் அறையொன்றிலேயே குறித்த வெடிப்புச் சம்பவம் நிகழ்ந்துள்ளது. பாரிய சேதங்கள் ஏற்படாத நிலையிலும் பாரியளவிலான சப்தம் மிக நீண்ட தூரத்துக்கு கேட்டதாக அப் பகுதி மக்கள் தெரிவிக்கின்றனர்.
+An explosion has taken place in a house in Poonchimunai village, which is divided by the Kattankudy police in Batticaloa.
 
-பூமியில் இருந்து விழுந்த நீல நிறத்திலான பொருள் ஒன்று வீட்டின் ஓட்டை உடைத்துக்கொண்டு சென்றதாக வீட்டில் தங்கியிருந்தவர்கள் தெரிவிக்கின்றனர்.
+The explosion was reported in the settlement village of Poonchimunai Green Housing Project.
 
-இது தொடர்பாக மட்டக்களப்பு மாவட்ட தடயவியல் பொலிஸ் பிரிவினர் தீவிர விசாரணைகளை மேற்கொண்டுள்ளதுடன் இராணுவத்தினரும் பொலிசாரும் தொடர்ந்து விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The explosion occurred in a house room. The people of the area say that the massive noise was heard for a long distance despite not massive damage.
+
+Residents in the house reported that a blue -colored object that had fallen from the earth was breaking the hole.
+
+The Batticaloa District Forensic Police Division is conducting intensive investigations and the military and the police are continuing to investigate.
 
 ◼️
 
 [Data](articles/586d395e.json)
 
+[Extended Data](ext_articles/586d395e.ext.json)
+
 ---
 
-### ஓமானில் பள்ளிவாசலுக்கு அருகில் துப்பாக்கிச் சூடு ; 4 பேர் பலி
+### Shooting near school in Oman;4 people killed
 
 *2024-07-16 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188567) · `ta`
 
-ஓமன் தலைநகர் மஸ்கட்டில் உள்ள பள்ளிவாசல் ஒன்றுக்கு அருகே மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டில் 4 பேர் உயிரிழந்துள்ளதாக அந்நாட்டு பொலிஸார் தெரிவித்துள்ளனர்.
+A shooting near a school in Muscat, Oman, resulted in four deaths. Authorities are investigating and enhancing security. The US embassy advised Americans to avoid the area due to the rarity of such incidents in peaceful Oman.
 
-இந்த சம்பவம் தொடர்பில் விசாரணைகள் இடம்பெற்று வருவதாகவும் குறித்த பகுதியில் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளதாகவும் அந்நாட்டுப் பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-இதேவேளை, அமெரிக்கர்களை அப்பகுதியில் இருந்து விலகி இருக்குமாறு ஓமானில் உள்ள அமெரிக்க தூதரகம்  எச்சரிக்கை விடுத்துள்ளது.
+Four people were killed in a shooting near a school in Muscat in Oman's capital, police said.
 
-அரேபிய தீபகற்பத்தின் தென்கிழக்கில் தனித்தன்மை வாய்ந்த நாடான ஓமானில் இத்தகைய வன்முறைகள் இடம்பெறுவது அரிதான ஒன்றாகும்.
+Investigations are underway into the incident and security has been strengthened in the area, police said.
+
+Meanwhile, the US embassy in Oman has warned Americans to stay away from the area.
+
+It is rare for such violence in Oman, a unique country in the southeast of the Arabian Peninsula.
 
 ◼️
 
 [Data](articles/5d1a4fac.json)
+
+[Extended Data](ext_articles/5d1a4fac.ext.json)
 
 ---
 
@@ -458,21 +618,29 @@ Minister of Buddhasasana, Religious, and Cultural Affairs Vidura Wickramanayake 
 
 ---
 
-### கிளி.பரந்தன் இரசாயன தொழிற்சாலைக்கு  இராஜாங்க அமைச்சர் திலும் அமுனுகம  விஜயம்
+### Minister of State for Chemical Factory
 
 *2024-07-16 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188569) · `ta`
 
-வடக்கு மாகாணத்தில் முன்னெடுக்கவுள்ள நான்கு அபிவிருத்தித் திட்டங்கள் தொடர்பில் ஆராயும் நோக்கில் முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் திலும் அமுனுகம வடக்கிற்கான விஜயமொன்றை மேற்கொண்டிருந்தார்.
+Tilil Amunugama, the Minister of Investment Development, visited the Paranthan Chemical Factory in Kilinochchi, assessing its rehabilitation post-damage from past crises. The factory, spanning 230 acres, aims to boost economic growth through Special Investment Promotion Zones. Accompanying the minister were local officials and land officers, marking progress in revitalizing the region's industrial sector.
 
-இதன் ஓர் அங்கமாக கிளிநொச்சி மாவட்டத்தின் பரந்தன் இரசாயன தொழிற்சாலைக்கு முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் திலும் அமுனுகம நேற்று திங்கட்கிழமை (15)  விஜயமொன்றை மேற்கொண்டிருந்தார்.
+🟩
 
-இதன்போது நாட்டில் நிலவிய கடந்தகால அசாதாரண சூழ்நிலையினால் அழிவடைந்து, நீண்ட காலமாக புனர்நிர்மாண பணிகள் எதுவும் செய்யப்படாத நிலையிலுள்ள பரந்தன் இரசாயன தொழிற்சாலை மற்றும் தொழிற்சாலைக்கு சொந்தமான வயல் நிலங்களை முதலீட்டு மேம்பாட்டு இராஜாங்க அமைச்சர் பார்வையிட்டார்.
+Investment Development Minister Tilil Amunugama has made a visit to the North in order to investigate the four development projects in the Northern Province.
 
-230 ஏக்கர் நிலப்பரப்பில் அமையப்பெற்ற குறித்த தொழிற்சாலையினை விசேட முதலீட்டு ஊக்குவிப்பு வலயங்கள் உருவாக்கும் திட்டத்தின் கீழ் அபிவிருத்தி செய்யும் நோக்கில் குறித்த விஜயம் அமைந்திருந்தது.
+As part of this, the Minister of Investment Development Tilum Amunugama made a visit to the Paranthan Chemical Factory of Kilinochchi on Monday (15).
 
-...
+The Minister of Investment Development, the Minister of Investment Development visited the Paradhan Chemical Factory and Factory, which has been destroyed by the past extraordinary situation in the country and has long been rehabilitated.
+
+The factory, which was built on 230 acres, was aimed at developing under the Plan of Special Investment Promotion Zones.
+
+Kilinochchi District Response Agent S. Muralitharan, Ministry officials, Kandawala Divisional Secretary R. Pandagaran, Grama Sevakar and Kandawala Divisional Secretariat Land Officers were also present.
+
+◼️
 
 [Data](articles/4aa742b9.json)
+
+[Extended Data](ext_articles/4aa742b9.ext.json)
 
 ---
 
@@ -518,21 +686,27 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 ---
 
-### එංගලන්තය අරන් ගිය පුරා වස්තු යළි බා ගැනීමට සාකච්ඡා
+### Discussions to restore England over
 
 *2024-07-16 09:47:27* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තය-අරන්-ගිය-පුරා-වස්තු-යළි-බා-ගැනීමට-සාකච්ඡා/11-410801) · `si`
 
-තාරා දේවී ප්‍රතිමාව ඇතුළු යටත් විජිත සමයේ එක්සත් රාජධානිය විසින් මෙරටින් රැගෙන ගිය පුරා වස්තු රැසක් යළි මෙරටට ලබා ගැනීමට අවශ්‍ය කටයුතු කරමින් සිටි බව බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා පැවසීය.
+Viddha Wickremanayake, Minister of Buddha Sasana, highlighted efforts to reclaim cultural artifacts from the UK and emphasized the importance of aligning the education system with Sri Lanka's culture and values. He addressed concerns about economic issues and the need for moral education, stating that his ministry aims to foster patriotism and prevent societal decline. Additionally, he announced the appointment of over 1,000 individuals to local government positions, dismissing claims that this move is politically motivated. The minister also discussed the recovery of numerous cultural objects, including religious icons, from both the UK and the Netherlands, aiming to preserve and promote Sri Lanka's heritage.
 
-රටට සහ සංස්කෘතියට ගැලපෙන අධ්‍යාපන ක්‍රමයක් අප රටේ බිහි විය යුතු බවත් ඒ හරහා රටට ආදරය කරන අභිමානවත් මිනිසුන් නිර්මාණය කළ යුතු බවත් අමාත්‍යවරයා පෙන්වා දුන්නේය.
+🟩
 
-බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Buddha Sasana, Religious and Cultural Affairs Viddha Wickremanayake said that the UK had taken steps to recover a number of objects throughout the country.
 
-අද රටේ පවතින්නේ ආර්ථික ප්‍රශ්නයක් බව බහුතර ප්‍රජාවගේ අදහස වී තිබෙනවා. නමුත් ඊට අමතරව ශ්‍රී ලංකාවේ මහජනතාව යහපත් මිනිසුන් ලෙස නිර්මාණය කිරීමේ වගකීම පවතින්නේ අපගේ අමාත්‍යාංශයටයි. යහපත් සමජයක් වෙනුවෙන් කටයුතු කිරීමට නිල වශයෙන් අවස්ථාව පවතින්නේ ද අපගේ අමාත්‍යාංශයට බව පැවසිය යුතුයි.
+The Minister pointed out that the education system that suits the country and culture should be created in our country and the proud people who love the country should be created.
+
+Minister of Buddha Sasana, Religious and Cultural Affairs Viddhama Wickramanayaka made this statement participating at a press conference held at the Presidential Media Center by one way.
+
+The majority community has expressed the idea that there is an economic problem today. However, our ministry is the responsibility of creating the people of Sri Lanka as good people. It must be said that our ministry is officially persisting to act in a good community.
 
 ...
 
 [Data](articles/ea02c02a.json)
+
+[Extended Data](ext_articles/ea02c02a.ext.json)
 
 ---
 
@@ -765,6 +939,8 @@ Most services sectors expanded, though tourism was sluggish amid an off-season.
 ...
 
 [Data](articles/7708edc9.json)
+
+[Extended Data](ext_articles/7708edc9.ext.json)
 
 ---
 
@@ -2135,117 +2311,5 @@ Investigations have revealed that his brother summoned his brother home and summ
 [Data](articles/8ee01ae2.json)
 
 [Extended Data](ext_articles/8ee01ae2.ext.json)
-
----
-
-### The final round of Kandy Belgons, who has achieved the necessary success, depends on the end of the match
-
-*2024-07-15 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188551) · `ta`
-
-In the 18th match of the Lanka Premier League, Kandy Belgons secured a 54-run victory against Dambulla Sixers, advancing to 4th place with 6 points. Their success hinges on the outcome of their next match against the Sixer Sixers. Kandy Belgons' batting lineup, including contributions from Under Plecher (60), Mohammed Haris (24), Hazaranga (25), Kamundu Mendis (51*), and Angelo Mathews (44), totalled 224 runs. Dambulla Sixers, despite Gusal Perera's 74 runs, lost by 56 runs due to their inability to chase down the target.
-
-🟩
-
-Ketharama r. In the 18th match of the Fifth Lanka Premier League chapter held on Monday (15) at the Premadasa Stadium, the current Champions Kandy Felgons team won by 54 runs.
-
-With this victory, Kandy Belgons advanced to 4th place with 6 points.
-
-However, the fate of Kandy Belgons, who is in a state of disgust whether or not the final round of the Lanka Premier League this year, is at the end of the Sixer Sixers.
-
-Kandy Belgons, who was first invited to bat in today's match, scored 224 runs for the loss of 4 wickets in 20 overs.
-
-The Undre Plecher scored 60 runs off 34 balls, Mohammed Haris 24 and Hazaranga 25 runs.
-
-Kamundu Mendis did not play 51 off 25 balls and Angelo Mathews scored 44 off 23 balls.
-
-They shared 95 runs off 45 balls in the 5th wicket that were not divided.
-
-Dambulla Sixers lost 9 wickets in 20 overs and lost 168 runs.
-
-Gusal Perera showed a lonely talent and scored 74 off 40 balls with 5 pounds and 5 sixes. When he lost the game, the expectation of Dambulla's Sixers was shattered.
-
-...
-
-[Data](articles/f0a83277.json)
-
-[Extended Data](ext_articles/f0a83277.ext.json)
-
----
-
-### Pummy arrest?What does the Attorney General say?
-
-*2024-07-15 20:28:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-கைது-சட்டமா-அதிபர்-கூறுவது-என்ன/175-340450) · `ta`
-
-Actress Biyumi Hansamali faces money laundering charges but won't be arrested until September 20, as per the Attorney General's announcement in the Court of Appeal. Investigations against her can proceed without interruption. This decision came during a hearing on her writ petition seeking an injunction, which has been postponed to September 20 for further consideration.
-
-🟩
-
-Actress Biyumi Hansamali, who has been investigated in connection with the money laundering, will not be arrested until September 20, the Attorney General has announced in the Court of Appeal.
-
-However, the court has also been informed that investigations against Piyumi Hansamali can continue uninterrupted.
-
-The announcement was made when the writ petition filed by Piyumi Hansamali was considered today (15) demanding an injunction.
-
-விசாரணைகள் முடியும் வரை மனுதாரரை கைது செய்ய மாட்டோம் என சட்டமா அதிபர் சார்பில் ஆஜரான பிரதி சொலிசிட்டர் ஜெனரல் நீதிமன்றத்திற்கு அறிவித்தார்.
-
-Accordingly, the petition was adjourned to September 20 for further review. R
-
-◼️
-
-[Data](articles/eceab574.json)
-
-[Extended Data](ext_articles/eceab574.ext.json)
-
----
-
-### A revelation of the threat to the Malzala, the body of Club Wasantha
-
-*2024-07-15 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198846) · `si`
-
-Police investigating the death of Club Wasantha reveal that private calls made to the deceased were not to deposit the body but were instead used to mislead the investigation. Suspect attempts to obstruct justice. Surestra Wasantha Perera moved from Colombo Remand Prison to Mahara Prison. Singer seriously injured; his wife and the owner of the tattoo center critically ill in ICU.
-
-🟩
-
-The police have revealed that the private malzelant calls were given to the private malze, not to deposit the body of Club.
-
-However, the student does not use that SIM and investigations are on the basis of the call using it.
-
-However, the police suspect the attempt to mislead the investigations through the process of the call.
-
-Surestra Wasantha Perera has been transferred from the Colombo Remand Prison to the Mahara Prison.
-
-Commissioner General of Prisons Thushara Upuladeniya said he was transferred to Mahara Prison yesterday (14).
-
-He is due to be produced before the Kaduwela Magistrate's Court on July 22 and had requested the court to allow him to permit a secret statement.
-
-Meanwhile, the famous singer of the shooting was seriously injured. The wife of the Welub Wasantha's wife and Tatto Center, the wife of the Tatto Center, is still receiving treatment.
-
-...
-
-[Data](articles/da8130b8.json)
-
-[Extended Data](ext_articles/da8130b8.ext.json)
-
----
-
-### ICC's annual public meeting in Sri Lanka
-
-*2024-07-15 19:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICC-யின்-வருடாந்த-பொதுக்கூட்டம்-இலங்கையில்/175-340449) · `ta`
-
-The International Cricket Council's (ICC) annual general meeting is set for July 19-22 in Sri Lanka, attracting over 220 delegates from 108 countries across continents like Africa, the Americas, Asia, East Asia Pacific, and Europe.
-
-🟩
-
-The Annual General Meeting of the International Cricket Council is expected to be held in Sri Lanka this year.
-
-The Sri Lanka Cricket Board has announced that the public meeting will be held from July 19 to 22.
-
-More than 220 representatives from 108 ICC member states around the world, including regions such as Africa, the United States, Asia, East Asia Pacific and Europe, will attend the cricket meeting.. Remble
-
-◼️
-
-[Data](articles/47e1159a.json)
-
-[Extended Data](ext_articles/47e1159a.ext.json)
 
 ---

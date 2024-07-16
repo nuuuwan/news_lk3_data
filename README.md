@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 05:06:07**
+As of **2024-07-17 05:20:13**
 
 ## Newspaper Stats
 
-*Scraped **35,630** Articles*
+*Scraped **35,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 347
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,118
-dailyftlk | 2,256
+dailyftlk | 2,257
 adalk | 3,214
 adaderanalk | 4,113
 tamilmirrorlk | 4,300
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,620 (100.0%) of 35,630 articles have been extended.
+35,629 (100.0%) of 35,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### Establishing a Climate Change Fund: Crucial step for Sri Lanka’s economic future
+
+*2024-07-17 05:07:15* · [`dailyftlk`](https://www.ft.lk/columns/Establishing-a-Climate-Change-Fund-Crucial-step-for-Sri-Lanka-s-economic-future/4-764361) · `en`
+
+Sri Lanka is at a critical juncture. Ranked 116th out of 182 countries on the climate vulnerability index, the nation faces escalating threats from climate change, including frequent droughts, floods, and other extreme weather events. These climate-induced disruptions pose significant risks to economic activities, potentially stalling progress and destabilising key industries. In light of these challenges, it is imperative for Sri Lanka to establish a dedicated Climate Change Fund to safeguard its future economic growth and stability.
+
+...
+
+[Data](articles/422a5cf6.json)
+
+---
 
 ### Dipped Products accelerates global expansion with launch of marketing office in India
 
@@ -47,6 +59,8 @@ This strategic move is part of DPL’s ongoing global expansion strategy to enha
 ...
 
 [Data](articles/16d70750.json)
+
+[Extended Data](ext_articles/16d70750.ext.json)
 
 ---
 
@@ -70,6 +84,8 @@ The move follows the Cabinet decision taken on 4 March 2024, following the succe
 
 [Data](articles/5ccacaa4.json)
 
+[Extended Data](ext_articles/5ccacaa4.ext.json)
+
 ---
 
 ### Colombo Port City (Charges) Orders for Parliament
@@ -90,6 +106,8 @@ The move is a step towards ensuring that the regulations governing the economic 
 
 [Data](articles/a14a9cfe.json)
 
+[Extended Data](ext_articles/a14a9cfe.ext.json)
+
 ---
 
 ### Cabinet nod to publish gazette to increase fines under Criminal Procedure Code
@@ -107,6 +125,8 @@ The proposal to this effect submitted by the Justice, Prison Affairs and Constit
 ◼️
 
 [Data](articles/84953586.json)
+
+[Extended Data](ext_articles/84953586.ext.json)
 
 ---
 
@@ -128,6 +148,8 @@ The new action plan has been developed in consultation with various stakeholders
 
 [Data](articles/87866b1b.json)
 
+[Extended Data](ext_articles/87866b1b.ext.json)
+
 ---
 
 ### Sri Lanka Customs to release 50 tons of confiscated ginger for ayurvedic medicine production
@@ -146,6 +168,8 @@ Gunawardena assured that the release of confiscated ginger for medicine producti
 
 [Data](articles/0a08dc93.json)
 
+[Extended Data](ext_articles/0a08dc93.ext.json)
+
 ---
 
 ### Cabinet green lights to utilise Saudi Fund to complete Godagama-Homagama road project
@@ -161,6 +185,8 @@ After the completion of the procurement procedure for the Kurinchakeni Bridge Pr
 ...
 
 [Data](articles/a7d96694.json)
+
+[Extended Data](ext_articles/a7d96694.ext.json)
 
 ---
 
@@ -179,6 +205,8 @@ The USA delegation included senior representatives of the US Department of State
 ...
 
 [Data](articles/6d4766b7.json)
+
+[Extended Data](ext_articles/6d4766b7.ext.json)
 
 ---
 
@@ -203,6 +231,8 @@ Peiris was referring to the comments made by President Wickremesinghe on Sunday 
 ...
 
 [Data](articles/de5b8800.json)
+
+[Extended Data](ext_articles/de5b8800.ext.json)
 
 ---
 
@@ -2335,31 +2365,5 @@ The number of airports and ports that has been relaxed for visa has risen to 37.
 [Data](articles/0e3135b5.json)
 
 [Extended Data](ext_articles/0e3135b5.ext.json)
-
----
-
-### Opposition Leader Sajith in Mannar
-
-*2024-07-16 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/188572) · `ta`
-
-Sajith Premadasa plans to revitalize Mannar district, focusing on education, fisheries, tourism, IT entrepreneurship, and agriculture. He aims to address issues like unauthorized foreign fishing and underdevelopment, promising diplomatic negotiations, technological advancements, and constitutional amendments for provincial council empowerment.
-
-🟩
-
-Mannar district is a war -affected district for more than three decades. Opposition Leader Sajith Premadasa said that he would carry out a program to develop the Mannar District, focusing on the five divisional secretaries in Mannar district.
-
-Under the Universal Information Technology Program, smart classroom equipment and dictionaries worth Rs.
-
-During this time, the school development fund has been given a sum of Rs.
-
-I will take steps to provide a steady solution to the fisheries issue in Mannar.Mannar district fishermen are facing various problems with foreign fishing boats without permission. So I will negotiate diplomaticly with the relevant countries and find a fixed solution to this issue.
-
-I will make efforts to improve the tourism industry by focusing on the natural resources of the Mannar district in the Mannar district.
-
-...
-
-[Data](articles/00446aa2.json)
-
-[Extended Data](ext_articles/00446aa2.ext.json)
 
 ---

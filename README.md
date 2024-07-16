@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 18:36:15**
+As of **2024-07-16 18:53:03**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 5,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,569 (100.0%) of 35,570 articles have been extended.
+35,570 (100.0%) of 35,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### රජයේ සීටී ස්කෑන් යන්ත්‍ර 44න් 7ක් අක්‍රීයයි
+### 7 out of 44 government CT scans is disabled
 
 *2024-07-16 18:24:59* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-සීටී-ස්කෑන්-යන්ත්‍ර-44න්-7ක්-අක්‍රීයයි/11-410819) · `si`
 
-රජයේ රෝහල්වල තිබෙන  සීටී ස්කෑන් යන්ත්‍ර 44න් යන්ත්‍ර  07 ක් මේ වන විට  දෝෂවලට ලක් වී තිබෙන බවත්, මේ නිසා රෝගී ජනතාව දැඩිදුෂ්කරතාවන්ට පත්වන බවත් රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය සඳහන් කරයි.
+Seven government hospitals face CT scan issues, affecting patient care. Incidents include breakdowns at Karawanella Base Hospital since February, Match in Ratnapura Hospital for two weeks, and prolonged downtimes at Embilipitiya District General Hospital, Hambantota district's Cancer Treatment Unit, and others. The Society of Radiology mentions delays in disease detection and treatment due to these breakdowns and the lack of modern machines, highlighting the need for better equipment and maintenance to improve healthcare services.
 
-බිඳවැටී තිබෙන්නේ  රත්නපුර මහ රෝහල, කරවනැල්ල මූලික රෝහල, ඇඹිලිපිටිය දිස්ත්‍රික් මහ රෝහල, හම්බන්තොට මහ රෝහ‍ලේ පිළිකා ප්‍රතිකාර ඒකකය, කල්මුනේ මූලික රෝහල, කළුතර මහ රෝහල සහ කොළඹ ජාතික රෝහලේ බාහිර රෝගී අංශය සතු යන්ත්‍ර බවද එම සංගමය පෙන්වා දෙයි. කරවනැල්ල රෝහලේ යන්ත්‍රය පෙබරවාරි මස 15 වැනිදා සිට බිඳවැටී ඇත. එම රෝහලේ  රෝගීන් කෑගල්ල මහ රෝහල දක්වා ප්‍රවාහනය කර පරික්ෂණ සිදුකෙරේ. රත්නපුර මහ රෝහලේ යන්ත්‍රය දැනට සති 2ක සිටද, ඇඹිලිපිටිය දිස්ත්‍රික් මහ රෝහලේ යන්ත්‍ර පසුගිය  30වැනිදා සිට  බිඳ වැටී ඇත.
+🟩
+
+According to the Government Radiology Technicians Association, the Government Radio Technology Association states that seven incidents have been failed to be blamed.
+
+The union pointed out that the Karawanella Base Hospital, Embilipitiya District General Hospital, Kalutara General Hospital, Kalutara General Hospital, the Colombo General Hospital and the OPD of the Colombo National Hospital.. Karawanella Hospital has broken from 15th February. Transport patients will be transported to the Kegalle General Hospital. The Match in Ratnapura Hospital has been collapsed from 2 weeks and the Embilipitiya District General Hospital.
+
+Accordingly, the CTI of the Cancer Treatment Unit of the Hambantota district and the Embilipitiya district of Cancer Hospital at Hambantota General Hospital has collapsed for more than one year and the machine is collapsed for more than a year and a half a yearThe Society of Radiology states.
 
 ...
 
 [Data](articles/0d2e03de.json)
+
+[Extended Data](ext_articles/0d2e03de.ext.json)
 
 ---
 

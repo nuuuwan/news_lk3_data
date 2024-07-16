@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 12:20:46**
+As of **2024-07-16 12:35:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,506 (100.0%) of 35,515 articles have been extended.
+35,515 (100.0%) of 35,515 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,61 +42,83 @@ The Cabinet of Ministers has granted approval to implement the amended water tar
 
 [Data](articles/56326847.json)
 
+[Extended Data](ext_articles/56326847.ext.json)
+
 ---
 
-### தண்ணீர் சூத்திரத்துக்கு அங்கிகாரம்
+### Recognition for the water formula
 
 *2024-07-16 12:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீர்-சூத்திரத்துக்கு-அங்கிகாரம்/175-340483) · `ta`
 
-தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபையினால் மீளாய்வு செய்வதற்கான கட்டணக் கொள்கை மற்றும் சூத்திரத்தை நடைமுறைப்படுத்துவதற்கு அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளது.
+The Cabinet has approved a new water payment policy and formula for review by the National Water Supply and Drainage Board. It plans to consult with authorities and amend the policy as needed. The revised Water Tax Policy and water payment formula will be implemented from 2025, proposed by Minister Jeevan Thondaman.
 
-தேசிய நீர் வழங்கல் மற்றும் வடிகால் வாரியத்தின் புதிய கட்டணக் கொள்கை மற்றும் சூத்திரம் குறித்து 08-04-2024 அன்று நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் விவாதிக்கப்பட்டது.
+🟩
 
-அங்கு அனைத்து அதிகாரிகளுடன் கலந்தாலோசித்து தேவையான திருத்தங்களைச் செய்து புதிய கட்டணக் கொள்கை மற்றும் சூத்திரத்தை முன்வைக்க முடிவு செய்யப்பட்டுள்ளது.
+The Cabinet has approved the implementation of the payment policy and formula for review by the National Water Supply and Drainage Board.
 
-2025 ஆம் ஆண்டு முதல் திருத்தப்பட்ட நீர் கட்டண கொள்கை மற்றும் திருத்தப்பட்ட நீர் கட்டண சூத்திரத்தை நடைமுறைப்படுத்துவதற்கு நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமானால் முன்வைக்கப்பட்ட முன்மொழிவுக்கு அமைச்சரவை  ஒப்புதல் அளித்துள்ளது.
+At the Cabinet meeting held on 08-04-2024 on the National Water Supply and Drainage Board's new payment policy and formula.
+
+It has been decided to consult with all the authorities and make the necessary amendments to the new payment policy and formula.
+
+The Cabinet has approved the proposal put forward by Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman to implement the revised Water Tax Policy and the revised water payment formula since 2025.
 
 ◼️
 
 [Data](articles/3a39ce0e.json)
 
+[Extended Data](ext_articles/3a39ce0e.ext.json)
+
 ---
 
-### රයිස් - කොත්තු - ප්ලේන් ටී මිල පහළට
+### Rice - Kottu-Plane Triced down
 
 *2024-07-16 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198869) · `si`
 
-විදුලි බිල අඩුවීමේ සහනය ලෙස අද (16) මධ්‍යම රාත්‍රියේ සිට ආහාර වර්ග කිහිපයක මිල ගණන් පහළ දමන බව සමස්ත ලංකා ආපනශාලා සහ අවන්හල්හිමියන්ගේ සංගමය පවසයි.
+The All Ceylon Restaurant and Restaurant Association announced a reduction in electricity bills effective today. The chairman, Mr. Harshan, stated that the average rice price will decrease, along with a Rs 25 reduction for Rice and Kottu. He urged restaurants nationwide to pass these benefits onto all customers.
 
-එම සංගමයේ සභාපති හර්ෂණ රුක්ෂාන් මහතා මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කර සිටියේ, සාමාන්‍ය බත් පැකට්ටුවක මිල රු 25කින් අඩුකරන බවය.
+🟩
 
-මේ අතර රයිස් සහ කොත්තු මිලත් රු 25කින් පහළ දමන අතර, පරාටා, බිත්තර රොටි සහ කෙටි ආහාර වර්ග සියල්ල රුපියල් 10කින් පහළ දැමීමට නියමිතය.
+The All Ceylon Restaurant and Restaurant Association (LGH) says that the electricity bill will be reduced today (16).
 
-ප්ලේන් ටී එකක් රුපියල් 5කි අඩු කිරීමට නියමිත අතර මෙම සහනය දිවයින පුරා සියලු පාරිභෝගිකයින්ට ලබාදීමට කටයුතු කරන ලෙසට ද සභාපතිවරයා ආපනාශාලාහිමියන්ගෙන් ඉල්ලා සිටියේය.
+Mr. Harshan, Chairman of the Association Rukshan, said that the price of an average rice would be reduced by Rs.
+
+Meanwhile, Rise and Kottu will be reduced by Rs 25 by Rs.
+
+The Chairman requested the restaugashashika to be given to all consumers across the country to be given to all customers across the country.
 
 ◼️
 
 [Data](articles/331b6838.json)
 
+[Extended Data](ext_articles/331b6838.ext.json)
+
 ---
 
-### இறுதியில் திகதி: 1 கோடி பேர் வாக்களிக்க தகுதி
+### Eventually Date: 1 crore eligible to vote
 
 *2024-07-16 11:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதியில்-திகதி-1-கோடி-பேர்-வாக்களிக்க-தகுதி/175-340482) · `ta`
 
-அடுத்த ஜனாதிபதித் தேர்தல் தொடர்பிலான முன்னேற்பாடுகள் குறித்து ஊடகவியலாளர்களுக்கு தெளிவுப்படுத்தும் ஊடகவியலாளர் சந்திப்பு, தேர்தல்கள் செயலகத்தில், தற்போது நடைபெற்றுக்கொண்டிருக்கின்றது.
+On February 14, 2024, all individuals aged 18 and above will be eligible to vote, adding 1 crore new voters. The Election Commission plans to announce the presidential election date by the end of July. Nominations will open 16 to 21 days post-announcement, with elections expected within four to six weeks thereafter.
 
-அதனடிப்படையில், 2024 பெப்ரவரி 14 ஆம் திகதியன்று 18 வயதை பூர்த்திச்செய்த அனைவரும் புதிய வாக்காளர்களாக வாக்காளர் பட்டியலில் இணைத்துக்கொள்ளப்பட்டுள்ளனர்.
+🟩
 
-ஜனாதிபதித் தேர்தலில் 1 கோடியே 71 இலட்சத்துக்கு 40 ஆயிரம் பேர் வாக்களிக்க தகுதிப்பெற்றுள்ளனர் என்று அறிவிக்கப்பட்டுள்ளது.
+The media briefing to clarify to journalists on the next presidential election is currently underway at the Elections Secretariat.
 
-அந்த ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு கருத்துரைத்த  ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க ஜனாதிபதி தேர்தலுக்கான திகதியை ஜூலை மாத இறுதிக்குள் தேர்தல்கள் ஆணைக்குழு அறிவிக்கும் என்றார்.  அத்துடன் இந்த திகதியை அறிவிப்பதில் தாமதம் ஏற்படாது என்றார்.
+Accordingly, on February 14, 2024, all the people who have completed the age of 18 have been added to the voter list as new voters.
 
-ஜனாதிபதித் தேர்தல்,  அரசியலமைப்பு மற்றும் ஜனாதிபதியின் சட்டத்துடன் ஒத்துப்போகிறது என்றும் அவர் கூறினார். ஜனாதிபதி தேர்தலுக்கான வேட்புமனுக்கள் வாக்கெடுப்பு அறிவிப்பு வெளியிடப்பட்டதைத் தொடர்ந்து 16 முதல் 21 நாட்களுக்குள் வேட்பு மனுக்கள் ஏற்றுக்கொள்ளப்படும் என்றார்.
+It has been announced that 40 thousand people are eligible to vote in the presidential election.
+
+Commenting on the press conference, the Chairman of the Commission. Ratnayake said the Election Commission would announce the presidential date for the presidential election by the end of July.  அத்துடன் இந்த திகதியை அறிவிப்பதில் தாமதம் ஏற்படாது என்றார்.
+
+He also said that the presidential election, the constitution and the president's law. He said nominations for the presidential election would be accepted within 16 to 21 days following the announcement of a referendum.
+
+He added that the presidential election should be held within four to six weeks from the day the nominations were accepted.
 
 ...
 
 [Data](articles/c52f3690.json)
+
+[Extended Data](ext_articles/c52f3690.ext.json)
 
 ---
 
@@ -118,6 +140,8 @@ Oman has maintained its neutrality in the turbulent region and mediated in dispu
 
 [Data](articles/295a547b.json)
 
+[Extended Data](ext_articles/295a547b.ext.json)
+
 ---
 
 ### Rajitha still undecided on supporting Ranil at upcoming election
@@ -138,25 +162,33 @@ He clarified that he has not yet had any discussions with the President about ex
 
 [Data](articles/887b0f72.json)
 
+[Extended Data](ext_articles/887b0f72.ext.json)
+
 ---
 
-### மறு அறிவித்தல் வரை கடலுக்குச் செல்ல வேண்டாம் !
+### Don't go to sea until re -announcement!
 
 *2024-07-16 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188581) · `ta`
 
-அரபிக் கடல் மற்றும் வங்காள விரிகுடா பகுதிகளில் பலத்த காற்றுடன் கடல் கொந்தளிப்பாக காணப்படும் என்பதால்  கடற்படை மற்றும் மீனவர்களுக்கு வளிமண்டலவியல் திணைக்களம் ‘சிவப்பு’ எச்சரிக்கை விடுத்துள்ளது.
+Due to severe turbulence in the Arabian Sea and Bay of Bengal caused by strong winds, the Department of Meteorology has issued a red alert, advising the Navy and fishermen against venturing into these waters. The forecast predicts wind speeds of 70 to 80 km/h during the South Upper Seasonal Transition. Those already at sea are urged to return to shore or seek safety, while all maritime communities are encouraged to monitor future weather updates from the Department of Meteorology.
 
-தென் மேல் பருவப் பெயர்ச்சி வலுவடைந்து காணப்படுவதால் குறித்த பகுதிகளில் மணிக்கு 70 தொடக்கம் 80 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என்பதுடன் மேலும் கடல் மிகவும் கொந்தளிப்பாகவும் இருக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-எனவே, கீழே உள்ள வரைபடத்தில் ‘சிவப்பு’ நிறத்தில் குறிப்பிடப்பட்டுள்ள கடல் பகுதிகளுக்கு மறு அறிவிப்பு வரும் வரை கடற்படையினர் மற்றும்  மீனவ சமூகத்தினர் செல்ல வேண்டாம் என அறிவுறுத்தப்பட்டுள்ளனர்.
+The Department of Meteorology has issued a red telephone warning to the Navy and fishermen as the sea is turbulent with strong winds in the Arabian Sea and Bay of Bengal.
 
-மேற்குறிப்பிட்ட கடல் பகுதிகளில் இருப்பவர்கள் உடனடியாக கரையோரங்களுக்கு திரும்பவும் அல்லது பாதுகாப்பான பகுதிகளுக்கு செல்லவும் அறிவுறுத்தப்படுகிறார்கள்.
+The Department of Meteorology has said that the South Upper Seasonal Transition is likely to blow at speeds of 70 to 80 km / h.
 
-இது தொடர்பில் வளிமண்டலவியல் திணைக்களத்தினால் வெளியிடப்படும் எதிர்கால வானிலை கணிப்புகள் தொடர்பில் அவதானமாக இருக்குமாறும்  கடற்படை மற்றும் மீனவ சமூகங்கள் கேட்டுக் கொள்ளப்படுகின்றனர்.
+Therefore, the Marines and the fishermen community have been advised not to go to the marine areas mentioned in the red color below.
+
+Those in the waters are advised to return to the shores immediately or go to safe areas.
+
+The Navy and Fisheries Communities are also requested to look into the future weather forecasts published by the Department of Meteorology.
 
 ◼️
 
 [Data](articles/960333fd.json)
+
+[Extended Data](ext_articles/960333fd.ext.json)
 
 ---
 
@@ -217,6 +249,8 @@ She will take part at the celebration of the 75th Anniversary of Sri Lanka’s M
 ◼️
 
 [Data](articles/25b9b663.json)
+
+[Extended Data](ext_articles/25b9b663.ext.json)
 
 ---
 
@@ -1357,6 +1391,8 @@ Domestic tariffs for the lowest users are now 6 rupees a unit down from 8 rupees
 ...
 
 [Data](articles/bbed6416.json)
+
+[Extended Data](ext_articles/bbed6416.ext.json)
 
 ---
 

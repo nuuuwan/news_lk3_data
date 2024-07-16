@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 14:20:00**
+As of **2024-07-16 14:35:30**
 
 ## Newspaper Stats
 
-*Scraped **35,533** Articles*
+*Scraped **35,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,199
+adalk | 3,200
 adaderanalk | 4,100
 tamilmirrorlk | 4,294
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,532 (100.0%) of 35,533 articles have been extended.
+35,533 (100.0%) of 35,534 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The individuals who received the drugs from her were also allegedly involved in 
 ...
 
 [Data](articles/3f4c9306.json)
+
+[Extended Data](ext_articles/3f4c9306.ext.json)
 
 ---
 
@@ -366,11 +368,11 @@ The US dollar purchasing price was 297.7381 rupees and the sales price were Rs 3
 
 The Cabinet of Ministers has granted approval to implement the amended water tariff policy and the water tariff formula starting from 2025.
 
-The new tariff policy and formula of the National Water Supply and Drainage Board were discussed at the Cabinet Meeting conducted on 08-04-2024.
+The government said the new tariff policy and formula of the National Water Supply and Drainage Board were discussed at the Cabinet Meeting conducted on April 08, 2024.
 
 It was ordered to forward the new tariff policy and formula, including the required amendments, after discussions with all relevant parties.
 
-The proposal was presented by the Minister of Water Supply and Estate Infrastructure Development.
+Accordingly, Cabinet of Ministers has approved the proposal presented by the Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman to implement the formulated amended water tariff policy and amended water tariff formula from the year 2025.
 
 ◼️
 
@@ -831,6 +833,24 @@ Mr. Ratnayake also said that this day could be considered as per the Constitutio
 [Data](articles/483add2d.json)
 
 [Extended Data](ext_articles/483add2d.ext.json)
+
+---
+
+### කාසල්රී හා මාඋස්සාකැලේ ජල මට්ටම් ඉහළට
+
+*2024-07-16 10:42:24* · [`adalk`](https://www.ada.lk/breaking_news/කාසල්රී-හා-මාඋස්සාකැලේ-ජල-මට්ටම්-ඉහළට/11-410804) · `si`
+
+මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශයන්ට ඇද හැලෙන අධික වර්ෂාවත් සමග කාසල්රි හා මාඋස්සාකැලේ ජලාශවල ජල මට්ටම් සිග්‍රයෙන් ඉහල යමින් පවති.
+
+මෙම තත්වයන් පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු එම ජලාශ බාර නිලධාරියකු පවසන ලද්දේ මෙම ජලාශ වලට ජලය සැපයෙන ජල මුලාශ්‍ර ප්‍රදේශයන්ට ඇද හැලෙන අධික වැසි හේතුවෙන් කාසල්රි හා මාඋස්සාකැලේ ජලාශවල ජල මට්ටම් සිග්‍රයෙන් ඉහල යමින් පවතින බවත්ය.
+
+ඒ අනුව 16වන දින උදැසන 6.00 වන විට මාඋස්සාකැලේ ජලාශයේ ජල මට්ටම පිටාර මට්ටමට අඩි 7 අගල් 02ක් පහලින්ද කාසල්රි ජලාශයේ ජල මට්ටම පිටාර මට්ටමට අඩි 09යි අගල් 03ක් පහලින් පවතින බවත්ය.
+
+මෙම ජලාශවල ජලය ජල විදුලිය නිපදවිම සදහා අදාල ජල විදුලිබලාගාර වෙත උපරිම ලෙස මුදා හැරිමට පියවර ගන්නා බවද එම නිලධාරියා වැඩි දුරටත් පැවසිය.
+
+◼️
+
+[Data](articles/68b302ce.json)
 
 ---
 
@@ -2417,27 +2437,5 @@ The program was attended by journalists, representatives of media organisations,
 [Data](articles/c5649c07.json)
 
 [Extended Data](ext_articles/c5649c07.ext.json)
-
----
-
-### Coffee that minimizes life risk
-
-*2024-07-15 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198850) · `si`
-
-Chinese medical college research shows that prolonged sitting (over six hours daily) increases life risk. Drinking coffee can counteract this by reducing negative biochemical effects. This study involved over 13,000 Americans.
-
-🟩
-
-Research by a Chinese medical college has revealed that a person who is seated for more than six hours a day can reduce the risk of life.
-
-Researchers point out that a person is sitting for more than six hours a day, and the coffee will reduce the risk of the body of biochemical reactions.
-
-This has revealed that over 13,000 Americans have been conducting research.
-
-◼️
-
-[Data](articles/54fcd20b.json)
-
-[Extended Data](ext_articles/54fcd20b.ext.json)
 
 ---

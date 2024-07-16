@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 15:05:14**
+As of **2024-07-16 15:20:06**
 
 ## Newspaper Stats
 
-*Scraped **35,536** Articles*
+*Scraped **35,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
-adalk | 3,200
+adalk | 3,201
 adaderanalk | 4,102
 tamilmirrorlk | 4,294
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,535 (100.0%) of 35,536 articles have been extended.
+35,536 (100.0%) of 35,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Azoulay will take part at the celebration of the 75th Anniversary of Sri Lanka�
 ◼️
 
 [Data](articles/2d235fe4.json)
+
+[Extended Data](ext_articles/2d235fe4.ext.json)
 
 ---
 
@@ -125,6 +127,22 @@ Parents have asked for help to contact the following telephone numbers 076461228
 [Data](articles/5349ed0e.json)
 
 [Extended Data](ext_articles/5349ed0e.ext.json)
+
+---
+
+### ජනපති කාර්යාලයෙන්  ක්‍රිකට් බඩු බෙදයි
+
+*2024-07-16 13:21:55* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කාර්යාලයෙන්--ක්‍රිකට්-බඩු-බෙදයි/11-410805) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ පාසල් තුළ ක්‍රිකට් ක්‍රීඩාව දියුණු කිරීමේ අරමුණින් පාසැල් 67ක් සඳහා ක්‍රිකට් උපකරණ ප්‍රදානය කිරීම ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි හා ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සාගල රත්නායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (15) ජනාධිපති කාර්යාලයේ දී සිදු විය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයකට අනුව, සාගල රත්නායක මහතාගේ පූර්ණ මගපෙන්වීම හා අධීක්ෂණය යටතේ ක්‍රියාත්මක Youth vision 2048 සංවිධානය සහ ශ්‍රී ලංකා ක්‍රිකට් ආයතනය එක්ව මෙම වැඩසටහන සංවිධානය කර තිබිණි.
+
+මෙහිදී අදහස් දැක්වූ සාගල රත්නායක මහතා සඳහන් කළේ ජාතික මට්ටමේ දක්ෂ ක්‍රීඩකයින් බිහි කිරීමට පාසල් ක්‍රිකට් ක්‍රීඩාව ඉතා වැදගත් බවයි. එසේම රටේ බිඳ වැටුණු ආර්ථිකය යළි නඟා සිටුවීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉකුත් දෙවසර තුළ කැපවී කටයුතු කළ බවත්, එම ආර්ථික වැඩපිළිවෙළ ඉදිරියට ක්‍රියාත්මක කර දූෂණයෙන් තොර ක්‍රමවත් ආර්ථික රාමුවක් තුළ රටේ දරුවන්ට හොඳ අනාගතයක් ගොඩනඟාදීම ජනාධිපතිවරයාගේ අපේක්ෂාව බවත් ඒ මහතා සඳහන් කළේය. ( I .J)
+
+◼️
+
+[Data](articles/9abb8817.json)
 
 ---
 
@@ -2427,23 +2445,5 @@ The Association of Chartered Certified Accountants (ACCA), the largest professio
 [Data](articles/0e5f9e81.json)
 
 [Extended Data](ext_articles/0e5f9e81.ext.json)
-
----
-
-### LKI Foreign Policy Forum discusses ‘Debt restructuring outcome and economic diplomacy and foreign policy’
-
-*2024-07-15 22:43:57* · [`dailyftlk`](https://www.ft.lk/news/LKI-Foreign-Policy-Forum-discusses-Debt-restructuring-outcome-and-economic-diplomacy-and-foreign-policy/56-764295) · `en`
-
-LKI Executive Director Ambassador Ravinatha Aryasinha (third from right) gestures during the panel discussion he moderated. Others from left are Overseas Development Institute Visiting Senior Fellow Dr. Ganeshan Wignaraja, Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa, World Economic Forum Economist and Expert Member Talal Rafi, and Verité Research, Research Director Subhashini Abeysinghe
-
-The fourth LKI Foreign Policy Forum, which highlighted the outcome of Sri Lanka’s debt restructuring and its impact on economic diplomacy and foreign policy, was held on Thursday 11 July at the Lighthouse Auditorium of the Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI).
-
-Sri Lanka’s imperative need to enact growth-oriented reforms particularly in governance, build consensus among all political parties on the reforms implemented and a foreign policy that leverages economic diplomacy, as well as modalities for sustained economic growth was emphasised.
-
-...
-
-[Data](articles/c19353df.json)
-
-[Extended Data](ext_articles/c19353df.ext.json)
 
 ---

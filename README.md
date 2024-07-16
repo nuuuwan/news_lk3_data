@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 22:08:46**
+As of **2024-07-16 22:20:29**
 
 ## Newspaper Stats
 
-*Scraped **35,589** Articles*
+*Scraped **35,591** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 316
-colombotelegraphcom | 336
+colombotelegraphcom | 337
 bbccomsinhala | 346
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,213
-adaderanalk | 4,110
+adaderanalk | 4,111
 tamilmirrorlk | 4,297
 dailymirrorlk | 4,733
 virakesarilk | 5,551
@@ -26,29 +26,51 @@ adaderanasinhalalk | 5,955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,588 (100.0%) of 35,589 articles have been extended.
+35,589 (100.0%) of 35,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
 
-### යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල්වරිය සහ ජනපති අතර හමුවක්
+### Power Minister reveals key factors that contributed to reduction in electricity tariffs
+
+*2024-07-16 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100565/power-minister-reveals-key-factors-that-contributed-to-reduction-in-electricity-tariffs) · `en`
+
+The Minister of Power and Energy, Kanchana Wijesekera highlighted that following the revision of electricity tariffs, there is potential for a reduction of approximately 20% in the prices of goods and services in the market.
+
+The Minister further urged the business community to alleviate the burden on the public by lowering prices, starting from midnight on the day of the electricity tariff adjustment, coinciding with the reduction in electricity bills.
+
+Addressing the press briefing titled “Collective Path to a Stable Country” held at the President’s Media Centre (PMC) today (16), Minister of Power and Energy, Kanchana Wijesekera emphasized that those consuming less than 90 units have benefited the most from the recent electricity amendment, receiving significant relief.
+
+...
+
+[Data](articles/60700c00.json)
+
+---
+
+### UNESCO Meeting with UNESCO and President
 
 *2024-07-16 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198887) · `si`
 
-ශ්‍රී ලංකාව යුනෙස්කෝ සංවිධානයේ සාමාජිකත්වය ලබා වසර 75ක් සපිරීම නිමිත්තෙන් මෙරට සංචාරයක නිරත යුනෙස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජනරාල් Audrey Azoulay මහත්මිය කොළඹ කොටුව ජනාධිපති මන්දිරයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවිය.
+UNESCO Director-General Azoulay met with Sri Lanka's President Ranil Wickremesinghe and key officials including Prime Minister Dinesh Gunawardena and Education Minister Dr. Susil Premajayantha. They discussed the UNESCO partnership during her visit, which included attending a children's concert and visiting UNESCO World Heritage sites like Kandy and Dambulla.
 
-ශ්‍රී ලංකා යුනෙස්කෝ හවුල්කාරීත්වයේ 75 වෙනි සංවත්සර සැමරුම් උළෙල අද (16) දින අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත සහ සංස්කෘතික අමාත්‍ය විදුර වික්‍රමනායක යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් නෙළුම් පොකුණ රඟහලේ දී පැවැත්වුණි.
+🟩
 
-ඊට ප්‍රධාන ආරාධිතයකු ලෙස අද අලුයම දිවයිනට පැමිණි යුනෙස්කෝ අධ්‍යක්ෂ ජනරාල්  Audrey Azoulay මහත්මිය ද සහභාගී වූවාය.
+The Director General of the UNESCO, Director General of the UNESCO, Azooulay, also visited the Colombo Fort President Ranil Wickremesinghe at the Colombo Fort.
 
-මෙහිදී පාසල් ළමුන් විසින් මෙරට සංස්කෘතිකාංග ඇතුළත් ප්‍රසංගයක් ඉදිරිපත් කරන ලදි. මේ අවස්ථාවට ශ්‍රී ලංකා යුනෙස්කෝ කොමිසමේ ලේකම් ජනරාල් මහාචාර්ය සිරිමලී ප්‍රනාන්දු මහත්මිය ඇතුළු පිරිසක් සහභාගී විය.
+Prime Minister Dinesh Gunawardena, Education Minister Dr. Susil Premajayantha and Culture Minister of Education, Dr. Susil Premajayantha and Culture Minister of Education Vidura Wickramanayaka were held at the Sri Lanka UNESCO partnership.
 
-මෙරට සංචාරය අතරතුර Audrey Azoulay මහත්මිය මහනුවර, දඹුල්ල වැනි ඓතිහාසික වටිනාකම් සහිත යුනෙස්කෝ ලෝක උරුම ස්ථානයන් නැරඹීමට යාමට ද නියමිත ව ඇත.
+It was also present at the island as a chief guest this morning.
+
+The school children presented a concert in Sri Lanka. The Secretary to the UNSCO Commission Secretary Prof. Sirimalle Fernando and several others participated in the event.
+
+During his visit to the country, Azoulay is to visit the UNESCO World Heritage Stations, such as Kandy, Dambulla.
 
 ◼️
 
 [Data](articles/0792a320.json)
+
+[Extended Data](ext_articles/0792a320.ext.json)
 
 ---
 
@@ -801,6 +823,18 @@ Amin said Khalusha claimed the murders took place between 2022 and July 11 this 
 [Data](articles/b7559655.json)
 
 [Extended Data](ext_articles/b7559655.ext.json)
+
+---
+
+### A Visionary Leader Misunderstood; The Unrecognized Contributions Of Ranil Wickremesinghe
+
+*2024-07-16 15:48:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-visionary-leader-misunderstood-the-unrecognized-contributions-of-ranil-wickremesinghe/) · `en`
+
+In the annals of Sri Lankan politics, few figures have remained as enigmatic and underappreciated as Ranil Wickremesinghe. His political journey began in 1977 when he first assumed office as a Member of Parliament. Over the decades, he has stood out as a distinctive figure, often preferring to let his work speak for itself rather than seeking personal glory. This self-effacing approach, while noble, may have been his Achilles’ heel in a political landscape where visibility and recognition are paramount.
+
+...
+
+[Data](articles/35627c61.json)
 
 ---
 
@@ -2371,51 +2405,5 @@ The Batticaloa District Forensic Police Division is conducting intensive investi
 [Data](articles/586d395e.json)
 
 [Extended Data](ext_articles/586d395e.ext.json)
-
----
-
-### Shooting near school in Oman;4 people killed
-
-*2024-07-16 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188567) · `ta`
-
-A shooting near a school in Muscat, Oman, resulted in four deaths. Authorities are investigating and enhancing security. The US embassy advised Americans to avoid the area due to the rarity of such incidents in peaceful Oman.
-
-🟩
-
-Four people were killed in a shooting near a school in Muscat in Oman's capital, police said.
-
-Investigations are underway into the incident and security has been strengthened in the area, police said.
-
-Meanwhile, the US embassy in Oman has warned Americans to stay away from the area.
-
-It is rare for such violence in Oman, a unique country in the southeast of the Arabian Peninsula.
-
-◼️
-
-[Data](articles/5d1a4fac.json)
-
-[Extended Data](ext_articles/5d1a4fac.ext.json)
-
----
-
-### UK to return colonial-era antiquities including Tara statue to Sri Lanka
-
-*2024-07-16 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100545/uk-to-return-colonial-era-antiquities-including-tara-statue-to-sri-lanka) · `en`
-
-Buddhasasana, Religious, and Cultural Affairs Minister Vidura Wickramanayake said that many antiquities taken from the country by the United Kingdom during the colonial period, including the statue of Tara, will be returned to Sri Lanka.
-
-He said many antiquities taken from the country by the United Kingdom, including the statue of Tara, are in the process of being repatriated.
-
-“We are working to bring back these and other ancient treasures, and we have also received numerous similar items from the Netherlands,” he said.
-
-The minister also pointed out that an education system that suits the country and culture should be created in a manner that instills a sense of pride in the minds of the people about their country.
-
-Minister of Buddhasasana, Religious, and Cultural Affairs Vidura Wickramanayake expressed these views during a press conference themed “Collective Path to a Stable Country” held at the Presidential Media Centre yesterday (15th).
-
-...
-
-[Data](articles/fdaf4b18.json)
-
-[Extended Data](ext_articles/fdaf4b18.ext.json)
 
 ---

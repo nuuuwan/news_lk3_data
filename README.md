@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-16 12:08:50**
+As of **2024-07-16 12:20:46**
 
 ## Newspaper Stats
 
-*Scraped **35,511** Articles*
+*Scraped **35,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 2,018
 economynextcom | 2,105
 dailyftlk | 2,246
 adalk | 3,197
-adaderanalk | 4,097
-tamilmirrorlk | 4,289
+adaderanalk | 4,098
+tamilmirrorlk | 4,291
 dailymirrorlk | 4,733
 virakesarilk | 5,532
-adaderanasinhalalk | 5,938
+adaderanasinhalalk | 5,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,506 (100.0%) of 35,511 articles have been extended.
+35,506 (100.0%) of 35,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-16 (Tuesday)
+
+### Cabinet approves amended water tariff policy and formula
+
+*2024-07-16 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100551/cabinet-approves-amended-water-tariff-policy-and-formula) · `en`
+
+The Cabinet of Ministers has granted approval to implement the amended water tariff policy and the water tariff formula starting from 2025.
+
+◼️
+
+[Data](articles/56326847.json)
+
+---
+
+### தண்ணீர் சூத்திரத்துக்கு அங்கிகாரம்
+
+*2024-07-16 12:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீர்-சூத்திரத்துக்கு-அங்கிகாரம்/175-340483) · `ta`
+
+தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபையினால் மீளாய்வு செய்வதற்கான கட்டணக் கொள்கை மற்றும் சூத்திரத்தை நடைமுறைப்படுத்துவதற்கு அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளது.
+
+தேசிய நீர் வழங்கல் மற்றும் வடிகால் வாரியத்தின் புதிய கட்டணக் கொள்கை மற்றும் சூத்திரம் குறித்து 08-04-2024 அன்று நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் விவாதிக்கப்பட்டது.
+
+அங்கு அனைத்து அதிகாரிகளுடன் கலந்தாலோசித்து தேவையான திருத்தங்களைச் செய்து புதிய கட்டணக் கொள்கை மற்றும் சூத்திரத்தை முன்வைக்க முடிவு செய்யப்பட்டுள்ளது.
+
+2025 ஆம் ஆண்டு முதல் திருத்தப்பட்ட நீர் கட்டண கொள்கை மற்றும் திருத்தப்பட்ட நீர் கட்டண சூத்திரத்தை நடைமுறைப்படுத்துவதற்கு நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமானால் முன்வைக்கப்பட்ட முன்மொழிவுக்கு அமைச்சரவை  ஒப்புதல் அளித்துள்ளது.
+
+◼️
+
+[Data](articles/3a39ce0e.json)
+
+---
+
+### රයිස් - කොත්තු - ප්ලේන් ටී මිල පහළට
+
+*2024-07-16 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198869) · `si`
+
+විදුලි බිල අඩුවීමේ සහනය ලෙස අද (16) මධ්‍යම රාත්‍රියේ සිට ආහාර වර්ග කිහිපයක මිල ගණන් පහළ දමන බව සමස්ත ලංකා ආපනශාලා සහ අවන්හල්හිමියන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ සභාපති හර්ෂණ රුක්ෂාන් මහතා මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කර සිටියේ, සාමාන්‍ය බත් පැකට්ටුවක මිල රු 25කින් අඩුකරන බවය.
+
+මේ අතර රයිස් සහ කොත්තු මිලත් රු 25කින් පහළ දමන අතර, පරාටා, බිත්තර රොටි සහ කෙටි ආහාර වර්ග සියල්ල රුපියල් 10කින් පහළ දැමීමට නියමිතය.
+
+ප්ලේන් ටී එකක් රුපියල් 5කි අඩු කිරීමට නියමිත අතර මෙම සහනය දිවයින පුරා සියලු පාරිභෝගිකයින්ට ලබාදීමට කටයුතු කරන ලෙසට ද සභාපතිවරයා ආපනාශාලාහිමියන්ගෙන් ඉල්ලා සිටියේය.
+
+◼️
+
+[Data](articles/331b6838.json)
+
+---
+
+### இறுதியில் திகதி: 1 கோடி பேர் வாக்களிக்க தகுதி
+
+*2024-07-16 11:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதியில்-திகதி-1-கோடி-பேர்-வாக்களிக்க-தகுதி/175-340482) · `ta`
+
+அடுத்த ஜனாதிபதித் தேர்தல் தொடர்பிலான முன்னேற்பாடுகள் குறித்து ஊடகவியலாளர்களுக்கு தெளிவுப்படுத்தும் ஊடகவியலாளர் சந்திப்பு, தேர்தல்கள் செயலகத்தில், தற்போது நடைபெற்றுக்கொண்டிருக்கின்றது.
+
+அதனடிப்படையில், 2024 பெப்ரவரி 14 ஆம் திகதியன்று 18 வயதை பூர்த்திச்செய்த அனைவரும் புதிய வாக்காளர்களாக வாக்காளர் பட்டியலில் இணைத்துக்கொள்ளப்பட்டுள்ளனர்.
+
+ஜனாதிபதித் தேர்தலில் 1 கோடியே 71 இலட்சத்துக்கு 40 ஆயிரம் பேர் வாக்களிக்க தகுதிப்பெற்றுள்ளனர் என்று அறிவிக்கப்பட்டுள்ளது.
+
+அந்த ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு கருத்துரைத்த  ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க ஜனாதிபதி தேர்தலுக்கான திகதியை ஜூலை மாத இறுதிக்குள் தேர்தல்கள் ஆணைக்குழு அறிவிக்கும் என்றார்.  அத்துடன் இந்த திகதியை அறிவிப்பதில் தாமதம் ஏற்படாது என்றார்.
+
+ஜனாதிபதித் தேர்தல்,  அரசியலமைப்பு மற்றும் ஜனாதிபதியின் சட்டத்துடன் ஒத்துப்போகிறது என்றும் அவர் கூறினார். ஜனாதிபதி தேர்தலுக்கான வேட்புமனுக்கள் வாக்கெடுப்பு அறிவிப்பு வெளியிடப்பட்டதைத் தொடர்ந்து 16 முதல் 21 நாட்களுக்குள் வேட்பு மனுக்கள் ஏற்றுக்கொள்ளப்படும் என்றார்.
+
+...
+
+[Data](articles/c52f3690.json)
+
+---
 
 ### Four killed, several wounded by gunfire near mosque in Oman
 
@@ -311,6 +379,14 @@ In this case, the Chairman of the Elections Commission said that 76 thousand new
 *2024-07-16 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100547/presidential-election-date-to-be-announced-this-month) · `en`
 
 The date for the upcoming Presidential Election will be announced before the end of this month, according to the Chairman of the Elections Commission of Sri Lanka, R.M.A.L. Rathnayake.
+
+Speaking during a special press conference on Tuesday (16), he also said that nothing will affect the holding of the election on that date.
+
+Mr. Ratnayake also said that anyone can consider these dates which are determined in accordance with the Constitution and the President’s Act.
+
+He added that the accepting of nominations for the presidential poll should be carried out between the 16th and 21st day after the publishing of the notice of the poll.
+
+The chairman also explained that the presidential election should be held within 4-6 weeks from the date of acceptance of nominations.
 
 ◼️
 
@@ -2223,93 +2299,5 @@ The third phase of the Kokkuttuwai Human Rights excavation was held today (15) a
 [Data](articles/a01ed75a.json)
 
 [Extended Data](ext_articles/a01ed75a.ext.json)
-
----
-
-### Senior banking expert Kenneth De Zilwa joins Lanka Rating Agency board
-
-*2024-07-15 20:56:00* · [`economynextcom`](https://economynext.com/senior-banking-expert-kenneth-de-zilwa-joins-lanka-rating-agency-board-172245/) · `en`
-
-ECONOMYNEXT – Kenneth De Zilwa, a senior banker and an economist, joined the Board of Lanka Rating Agency from this month after his three year tenure as the chairman of LankaPay, a leading payments and settlements company.
-
-He will join Anil Amarasuriya (Chairman), Nigel Bartholomeusz, Professor Anil Jayantha Fernando, Anura Fernando, Usman Haider, Niranjan Mendis, and Avishka Perera in the Lanka Rating Agency board of directors.
-
-Lanka Rating Agency is a credit rating agency operating in Sri Lanka and licenced by the Securities & Exchange Commission (SEC) of Sri Lanka. It has a technical affiliation agreement with Pakistan Credit Rating Agency.
-
-De Zilwa counts for over 20 years of experience in banking that includes covering risk management, trade finance, and investment banking businesses at HSBC and Citi Bank NA.
-
-He was instrumental in transforming LankaPay from to a globally recognized payments and settlements company.
-
-...
-
-[Data](articles/8fb6b3d5.json)
-
-[Extended Data](ext_articles/8fb6b3d5.ext.json)
-
----
-
-### 2024 ஆம் ஆண்டின் முதல் ஆறு மாதங்களில் விவசாய ஏற்றுமதித் துறையில் தெளிவான வளர்ச்சி ஏற்பட்டுள்ளது - பி.எல்.ஏ.ஜே. தர்மகீர்த்தி
-
-*2024-07-15 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188552) · `ta`
-
-Secretary of the Ministry of Agriculture and Plantation Industries PLAJ has said that in the first six months of 2024, there has been a clear growth in the agricultural export sector in the first six months of 2024.. Dharmakirti said.
-
-He added that the progress was possible due to the rapid measures taken to control the adverseness of the agricultural export income, which was recorded in 2023 compared to 2022.
-
-Secretary of the Ministry of Agriculture and Plantation PLAJ was present at a press conference held at the Presidential Media Center on Monday (15) under the theme 'Two Years Progress and Future'.. தர்மகீர்த்தி இதனைக் குறிப்பிட்டார்.
-
-“Compared to 2022, agricultural exports have declined in 2023.
-
-It should be noted at this time that the climate that prevailed at this time is not favorable to agriculture. It must be said that the progress that has faced such challenges is really success.
-
-...
-
-[Data](articles/7bddd0b5.json)
-
-[Extended Data](ext_articles/7bddd0b5.ext.json)
-
----
-
-### Climate Reduction - Here are the full details!
-
-*2024-07-15 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188547) · `ta`
-
-Sri Lanka's Public Use Commission approved a 22.5% reduction in power supply, effective from Tuesday, urging conservation. This marks the second such measure this year, with a proposed 5% fee increase. The commission also introduced relief for small and medium businesses and adjusted tariffs for various sectors, including religious institutions. Seven conditions were set for the Ceylon Electricity Board, including audits and fuel contracts.
-
-🟩
-
-Sri Lanka's Public Use Commission has granted permission to reduce the power supply by 22.5 per cent.. The Commission has instructed the Ceylon Electricity Board to implement the new tariff amendment from Tuesday (16).The Commission has urged the Minorpanati to avoid wasting electricity in order to reduce the power supply.For the second time this year, the Ceylon Electricity Board (CEB) has made the proposals and the public opinion on the revision of the Ceylon Electricity Board (CEB). The Commission has decided to revise the fee by 5 per cent.The Commission said that the Relief for Small and Medium Entrepreneurs will be available to small and medium entrepreneurs. The Commission of Public Use of Commission said at a media briefing held at the Sri Lanka Public Use of Commission yesterday.The Commission has decided to reduce the data by 22.5 per cent, even though the Ceylon Electricity Board's proposal has recommended to reduce the full power supply by 10 per cent.
-
-...
-
-[Data](articles/86fbbd99.json)
-
-[Extended Data](ext_articles/86fbbd99.ext.json)
-
----
-
-### Moratuwa Todipeda murder revealed
-
-*2024-07-15 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198847) · `si`
-
-In Moratuwa, two individuals, including the deceased's wife and brother, have been arrested for the murder of a 41-year-old man named Harndra Kumara, also known as 'little brother'. The victim was hacked to death with a sharp weapon in Red Catticicitawatta.
-
-🟩
-
-The deceased's wife and her brother have arrested her brother and her brother in connection with the murder of a person who was hacked to death in a sharp weapon in the Red Catticicicicitawatta.
-
-The suspects were arrested by the Moratuwa police said, "Ada Derana reporter said.
-
-Laxathawathiya, Moratuwa had been hacked to death in a sharp weapon in the Red Catticicitawatta today (15).
-
-The deceased Harndra Kumara alias 'little brother' is a 41 year old man.
-
-Investigations have revealed that his brother summoned his brother home and summoned his brother to her brother with a sharp object with a sharp object.
-
-◼️
-
-[Data](articles/8ee01ae2.json)
-
-[Extended Data](ext_articles/8ee01ae2.ext.json)
 
 ---

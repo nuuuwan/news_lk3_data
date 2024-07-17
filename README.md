@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 00:50:47**
+As of **2024-07-18 01:05:30**
 
 ## Newspaper Stats
 
-*Scraped **35,788** Articles*
+*Scraped **35,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,136
 dailyftlk | 2,262
 adalk | 3,234
 adaderanalk | 4,131
-tamilmirrorlk | 4,325
+tamilmirrorlk | 4,326
 dailymirrorlk | 4,733
 virakesarilk | 5,583
 adaderanasinhalalk | 5,989
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,788 (100.0%) of 35,788 articles have been extended.
+35,788 (100.0%) of 35,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ’சதி முடிச்சால் மீற முடியாது’
+
+*2024-07-17 23:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதி-முடிச்சால்-மீற-முடியாது/175-340582) · `ta`
+
+தங்கள் பேராசை பிடித்த வாழ்க்கை முறையைத் தக்க வைத்துக் கொள்ள நாட்டையும், ஜனநாயகத்தையும், அரசியலமைப்பையும் விற்கத் தயாரான ஆட்சியாளர்களும் இன்று இருக்கிறார்கள் என்று குற்றஞ்சாட்டிய எதிர்க்கட்சித் தலைவரும் ஐக்கிய மக்கள் சக்தியின் தலைவருமான சஜித் பிரேமதாஸ, சதி முயற்சியால் அரசியலமைப்பை மீற முடியாது என்றும் தெரிவித்தார்.
+
+சமூகமும், உலகமும் எப்போதும் போட்டித்தன்மை கொண்டவையாகும். எப்போதும் போட்டி நிலவிக்கொண்டே  இருக்கும். இதை கையாளக்கூடிய ஸ்மார்ட் குடிமக்களை உருவாக்க வேண்டும் என்றார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின்  திம்புலாகல, அரலகங்வில, விலயாய ஆரம்பப் பிரிவுப் பாடசாலைக்கு வழங்கி வைக்கும் நிகழ்வு ஜூலை 16 ஆம் திகதி இடம்பெற்றது. அங்கு நடைபெற்ற நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/2960c5b5.json)
+
+---
 
 ### Health Minister visit Jaffna Teaching Hospital
 
@@ -2433,25 +2449,5 @@ At the time of the accident, over 40 people have been present, foreign media sai
 [Data](articles/47f4eac5.json)
 
 [Extended Data](ext_articles/47f4eac5.ext.json)
-
----
-
-### SLFP will put forward a candidate for Presidential Election - Maithripala
-
-*2024-07-17 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100574/slfp-will-put-forward-a-candidate-for-presidential-election-maithripala) · `en`
-
-Former President Maithripala Sirisena says that the Sri Lanka Freedom Party (SLFP) will put forward a candidate for the upcoming Presidential Election and that a candidate has already been selected.
-
-He made these remarks in response to questions from journalists following an event held in Colombo yesterday (16).
-
-The former President also emphasized that the Presidential Election must be held as scheduled and that it cannot be postponed under any circumstances.
-
-He warned that if there is an attempt to postpone the election, it could lead to possible bloodshed in the country.
-
-◼️
-
-[Data](articles/aea9c0bf.json)
-
-[Extended Data](ext_articles/aea9c0bf.ext.json)
 
 ---

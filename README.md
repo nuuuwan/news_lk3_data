@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 19:20:30**
+As of **2024-07-17 19:35:24**
 
 ## Newspaper Stats
 
-*Scraped **35,747** Articles*
+*Scraped **35,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
 adalk | 3,227
-adaderanalk | 4,127
+adaderanalk | 4,128
 tamilmirrorlk | 4,321
 dailymirrorlk | 4,733
 virakesarilk | 5,562
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,747 (100.0%) of 35,747 articles have been extended.
+35,747 (100.0%) of 35,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### Thailand says cyanide killed 6 foreigners in hotel, including perpetrator
+
+*2024-07-17 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100584/thailand-says-cyanide-killed-6-foreigners-in-hotel-including-perpetrator) · `en`
+
+Cyanide poisoning caused the deaths of six foreigners whose bodies were found in a room in a plush Bangkok hotel, Thai authorities said on Wednesday, with the suspected killer among the dead.
+
+Traces of the rapid-acting, deadly chemical were found during autopsies of the bodies and on drinking glasses and a teapot in the room at the luxury Grand Hyatt Erawan hotel where the dead were discovered late on Tuesday, according to police and a hospital.
+
+Interviews with relatives of the three women and three men who died revealed there had been a dispute over debt related to an investment, according to police, who said they were investigating how the cyanide was obtained.
+
+The six were all of Vietnamese ethnicity, two of those U.S. nationals. Police said the U.S. Federal Bureau of Investigation had assisted with the investigation.
+
+...
+
+[Data](articles/2762e73c.json)
+
+---
 
 ### The price limit for 18 items
 
@@ -2307,25 +2325,5 @@ The new action plan has been developed in consultation with various stakeholders
 [Data](articles/87866b1b.json)
 
 [Extended Data](ext_articles/87866b1b.ext.json)
-
----
-
-### Sri Lanka Customs to release 50 tons of confiscated ginger for ayurvedic medicine production
-
-*2024-07-17 04:40:22* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Customs-to-release-50-tons-of-confiscated-ginger-for-ayurvedic-medicine-production/56-764347) · `en`
-
-The Cabinet of Ministers on Monday approved Sri Lanka Customs to release 50 tons of ginger it confiscated for use in Ayurvedic medicine production.
-
-“Considering the severe scarcity of medicinal ginger in the market at present, seven drugs that require it are in short supply. Hence, it was decided to release the confiscated ginger via illegal methods for medicine production,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-He added that medicinal ginger is a crucial raw material for 87 medicine products manufactured by the Sri Lanka Ayurvedic Drugs Corporation.
-
-Gunawardena assured that the release of confiscated ginger for medicine production will not harm local ginger farmers.  The Cabinet of Ministers has approved the proposal presented by the Minister of Health to obtain the said stock of medicinal ginger for the Sri Lanka Ayurvedic Drugs Corporation at a concessionary price.
-
-◼️
-
-[Data](articles/0a08dc93.json)
-
-[Extended Data](ext_articles/0a08dc93.ext.json)
 
 ---

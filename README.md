@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 14:07:20**
+As of **2024-07-17 14:20:02**
 
 ## Newspaper Stats
 
-*Scraped **35,706** Articles*
+*Scraped **35,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,63 @@ adaderanalk | 4,124
 tamilmirrorlk | 4,318
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,972
+adaderanasinhalalk | 5,974
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,701 (100.0%) of 35,706 articles have been extended.
+35,706 (100.0%) of 35,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### நாய்களை வன்புணர்ந்தவருக்கு  249 வருடங்கள் சிறை
+### සිව් හැවිරිදි දැරියගේ සිරුර ළිඳකින් හමුවෙයි
+
+*2024-07-17 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198909) · `si`
+
+රුවන්වැල්ල,  කිරිපෝරුව ප්‍රදේශයේ ළිඳක් තුළ තිබී වයස අවුරුදු 4ක කුඩා දැරියකගේ මළ සිරුරක් හමුව තිබේ.
+
+එමෙන්ම ඇගේ කථනාබාධිත මවද සිහිසුන්ව ළිඳ අසල සිටියදී ප්‍රදේශවාසීන් දැක ඇත.
+
+අද (17) උදෑසන එම සිදුවීම වාර්තා වූ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/0644795e.json)
+
+---
+
+### 249 years in prison for dogs
 
 *2024-07-17 13:46:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/நாய்களை-வன்புணர்ந்தவருக்கு-249-வருடங்கள்-சிறை/53-340555) · `ta`
 
-நாய்களை பாலியல் வன்புணர்வுக்கு உட்படுத்தினார் என குற்றஞ்சாட்டப்பட்டிருந்தவரை குற்றவாளியாக இனங்கண்ட நீதிமன்றம் அவருக்கு 249 வருடங்கள் சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது. பாலியல் வன்புணர்வினால் இதுவரையிலும் 39 நாய்கள் உயிரிழந்துள்ளமை கண்டறியப்பட்டுள்ளது.
+Adam Briton, a 52-year-old British zoologist living in Australia, was sentenced to 249 years in prison after admitting to 60 charges of animal abuse, including the death of 39 dogs. The accusations stem from Briton's alleged sexual harassment of animals, which he documented and shared online under the pseudonym "Monster." The case came to light when a former owner discovered a video of their dog being abused.
 
-அவுஸ்திரேலியாவில் வசித்து வரும் பிரிட்டனைச் சேர்ந்த ஒருவர் வினோதமான வகையில் குற்றங்களில் ஈடுப்பட்டு வந்துள்ளார்.
+🟩
 
-அதாவது 52 வயதான விலங்கியல் நிபுணரும், முதலைகள் ஸ்பெஷலிஸ்டுமான ஆடம் பிரிட்டோன் என்பவர் நாய்களை அடித்து துன்புறுத்தி வன்புணர்வில் ஈடுபட்டுள்ளார்.
+The court has sentenced him to 249 years in prison for allegedly being accused of sexually abusing dogs.. 39 dogs have been found dead so far due to sexual harassment.
 
-இதனால் இதுவரை 39 நாய்கள் உயிரிழந்துள்ளன. நாய்களை வன்புணர்வு செய்வதை வீடியோவாகவும் எடுத்து வைத்துள்ளார் ஆடம் பிரிட்டோன்.
+A British living in Australia has been bizarrely accused of crimes.
 
-இதுபோன்று விலங்குகளை துன்புறுத்தியதாக இவர் மீது 60 குற்றச்சாட்டுகள் உள்ளன. அவுஸ்திரேலிய நீதிமன்றத்தில் இவையனைத்தையும் ஆடம் பிரிட்டோன் நீதிமன்றத்தில் ஒப்புக்கொண்டார்.
+That is, the 52 -year -old zoologist and the specialist of the crocodile, Adam Briton, has been beaten by dogs and harassing the dogs.
 
-விலங்குகளை பராமரிக்க முடியாமல் திணறும் உரிமையாளர்களிடமிருந்து அவற்றை வாங்கி இந்த குற்றச் செயல்களில் ஈடுபட்டுள்ளார் ஆடம். பாரப்பிலியா (Paraphilia) என்ற மன நோயினால் ஆடம் பாதிக்கப்பட்டுள்ளதாக தெரிகிறது.
+39 dogs have died so far. Adam Briton has also taken the video of dogs.
+
+There are 60 allegations against him for harassing animals like this. Adam Briton agreed all this in the Australian court.
+
+Adam is involved in these crimes that bought them from the owners who are unable to care for animals. Adam seems to have suffered from mental illness called Paraphilia.
+
+People with the disease have sex with children and lifeless substances. Adam has sex lust on animals over one step. He is filmed at various angles when it comes to raping animals.
+
+He has posted the videos on social media under the pseudonym of Monster.
 
 ...
 
 [Data](articles/2e3ef9b6.json)
+
+[Extended Data](ext_articles/2e3ef9b6.ext.json)
 
 ---
 
@@ -78,63 +104,101 @@ The incident unfolded when a resident had alerted Niroshana regarding a suspicio
 
 [Data](articles/f3fbe4a0.json)
 
+[Extended Data](ext_articles/f3fbe4a0.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலில் சுதந்திரக் கட்சியின் வேட்பாளர்
+### තරු පහේ හෝටල් කාමරයක මරණ 6ක්
+
+*2024-07-17 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198908) · `si`
+
+තායිලන්ත හෝටල් කාමරයක තිබී වියට්නාම සංචාරකයින් 06 දෙනෙකුගේ මළසිරුරු හමුවී තිබේ.
+
+මියගිය පුද්ගලයින් අතර අමෙරිකානු ද්විත්ව පුරවැසිභාවය සහිත පිරිස් ද සිටින බව සඳහන්ය.
+
+සයනයිඩ් ශරීරගත වීමෙන් ඔවුන් මියගොස් ඇති අතර තායිලන්ත අගමැතිවරයාගේ නියෝගයෙන් ඒ සම්බන්ධ පුළුල් විමර්ශනයක් ආරම්භ කර තිබෙන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මියගිය අය අතර කාන්තාවන් තිදෙනෙක් හා පිරිමි පුද්ගලයින් තිදෙනෙක් වන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/3835fa5e.json)
+
+---
+
+### Presidential election
 
 *2024-07-17 13:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-சுதந்திரக்-கட்சியின்-வேட்பாளர்/175-340552) · `ta`
 
-ஜனாதிபதித் தேர்தலில் ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் வேட்பாளர் தெரிவு செய்யப்பட்டுள்ளதாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+Maithripala Sirisena warns of potential violence if the Sri Lanka presidential election is postponed, stating the SLFP candidate's victory.
 
-ஜனாதிபதித் தேர்தலை நடத்துவதை ஒத்திவைக்கும் முயற்சி மேற்கொள்ளப்பட்டால் நாட்டில் இரத்தக்களரி ஏற்பட வாய்ப்புள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-கொழும்பில் நேற்று இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே முன்னாள் ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+Former President Maithripala Sirisena has said that the Sri Lanka Freedom Party (SLFP) candidate has been elected in the presidential election.
+
+He also noted that if an attempt to postpone the presidential election, there is a bloodbath in the country.
+
+The former president said this while speaking to the media after an event in Colombo yesterday.
 
 ◼️
 
 [Data](articles/09c45b7a.json)
 
+[Extended Data](ext_articles/09c45b7a.ext.json)
+
 ---
 
-### மனுவை வாபஸ் பெற்றார் டயானா
+### Diana withdrew the petition
 
 *2024-07-17 13:27:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுவை-வாபஸ்-பெற்றார்-டயானா/175-340551) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே, தனது கட்சி உறுப்புரிமையை இரத்து செய்யும் ஐக்கிய மக்கள் சக்தியின் தீர்மானத்தை எதிர்த்து, உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்ட மனுவை வாபஸ் பெற்றுள்ளார்.
+Diana Kamage, ex-State Minister, withdrew her Supreme Court petition against the abolition of her party membership by the United People's Power. Her legal team cited her desire to stop pursuing the case.
 
-முன்னாள் அமைச்சரின் சட்டத்தரணிகள், கமகே இந்த வழக்கை தொடர விரும்பவில்லை எனக் கூறி, மனுவை வாபஸ் பெற நடவடிக்கை எடுத்துள்ளனர்.
+🟩
+
+Former State Minister Diana Kamage has withdrawn the petition filed in the Supreme Court challenging the United People's Power's decision to abolish her party membership.
+
+The former minister's lawyers have taken steps to withdraw the petition, saying Kamage did not want to continue the case.
 
 ◼️
 
 [Data](articles/a03f982d.json)
 
+[Extended Data](ext_articles/a03f982d.ext.json)
+
 ---
 
-### ලාංකික ආහාර ජාත්‍යන්තරයට ගෙන ගිය අපේ සවින්ද්‍රි
+### Our Savindri who took Sri Lankan food to the international community
 
 *2024-07-17 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198907) · `si`
 
-"මාස්ටර් චෙෆ්" ඔස්ට්‍රේලියා 2024 රියැලිටි සූපවේදි තරගාවලියෙන් තුන්වැනි ස්ථානය දිනාගැනීමට ශ්‍රී ලංකිකයෙකු වන සවින්ද්‍රි පෙරේරා සමත්විය.
+Savindri Perera, a Sri Lankan-born, Adelaide-based bank advisor, showcased her culinary skills in the 'Master Chef' Australia 2024, focusing on traditional Sri Lankan cuisine. Her unique blend of onion, garlic, and curry impressed the judges, securing her the third place. This achievement highlights her dedication to introducing Sri Lankan flavors to the international community.
 
-එහි විශේෂත්වය වන්නේ, ඇය එම තරගය පුරා පිළියෙල කර තිබුණේ ශ්‍රී ලාංකීක ආහාර පානයි.
+🟩
 
-ශ්‍රී ලංකාවේ උපත ලද සවින්ද්‍රි පෙරේරා ඔස්ට්‍රේලියාවේ ඇඩිලේඩ් නුවරට සංක්‍රමණය වී තිබුණේ වයස අවුරුදු 18දීය.
+Sri Lankan Savindri Perera won the third place in the 'Master Chef' tournament in Australia.
 
-ඇය මේ වනවිට 30 හැවිරිදි වියේ පසුවන අතර වෘත්තියෙන් බැංකු උපදේශිකාවකි.
+The highlight of her, she had been preparing a Sri Lankan dimension.
 
-කුඩා කල සිටම ශ්‍රී ලාංකේය ආහාර පාන සැකසීම පිළිබඳ තිබූ උනන්දුවක් නිසාම සවින්ද්‍රි ඔස්ට්‍රේලියාවේ මාස්ටර් චෙෆ් තරගාවලියට එක්ව තිබුණි.
+Born in Sri Lanka, Savindri Perera was migrated to Adelaide, Australia.
 
-එම තරගාවලිය තුළ ඇය සකස්කර තිබුණේ ඇගේ මව පිළියෙළ කළ රසවත් ශ්‍රී ලාංකික ආහාර පාන වර්ගයි.
+She is currently 30 years old and is a bank advisor to the profession.
 
-විශේෂත්වය වන්නේ ළූණු, සුදුළූණු, කරපිංචා වැනි දේශීය කුළු බඩු තමන් පිළියෙල කළ ආහාරවලට ඇය යහමින් එක්කිරීමය.
+Since the interest of Sri Lankan refreshments for Sri Lankan refreshment was held in the Master Cheff Tournament in Australia because of the interest of the preparation of Sri Lankan food and drink.
 
-ඔස්ට්‍රේලියානු Network - 10 රූපවාහිනිය ඔස්සේ විකාශය කෙරෙන "මාස්ටර් චෙෆ්" ඔස්ට්‍රේලියා රියැලිටි සූපවේදි තරගාවලිය සඳහා, ඔස්ට්‍රේලියාව පුරා සිටින තරගකරුවන් පරීක්ෂණ වට සඳහා සහභාගි කරගනු ලබයි.
+In the tournament, she was set up and her mother was delicious Sri Lankan diet.
 
-ඔවුන් සකස්කරන ආහාරවල රස ගුණ අනුව විනිසුරු මඩුල්ලක් විසින් අවසන් පූර්ව වටය සඳහා 50 දෙනෙකු තෝරා ගනී.
+The specialty is to bring her onion, garlic, and curry.
+
+The "Master Chaff 'tournament, Australia's Network - 10, competitors across Australia participate in testing rounds for testing rounds.
+
+The panel of judges chooses 50 for the semi-finals according to the flavors of foods they adjust.
 
 ...
 
 [Data](articles/7af78453.json)
+
+[Extended Data](ext_articles/7af78453.ext.json)
 
 ---
 
@@ -2207,45 +2271,5 @@ Subsequent excavations were carried out in the preliminary excavations that were
 [Data](articles/9b983b2e.json)
 
 [Extended Data](ext_articles/9b983b2e.ext.json)
-
----
-
-### Earthquake record in Anuradhapura!
-
-*2024-07-16 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188633) · `ta`
-
-An earthquake of 2.7 magnitude occurred 41 km north of Anuradhapura on Tuesday evening, as reported by the Geological Survey and Mining Bureau.
-
-🟩
-
-The magnitude quantity of earthquake was reported on Tuesday (16) evening in the northern part of Anuradhapura: Geological Survey and Mining Bureau said.
-
-The public said that the earthquakes were felt at 2.7 magnitude at a distance of 41 kilometers north of Anuradhapura.
-
-◼️
-
-[Data](articles/3d857ee4.json)
-
-[Extended Data](ext_articles/3d857ee4.ext.json)
-
----
-
-### One million new voters in Sri Lanka’s 2024 presidential poll
-
-*2024-07-16 19:08:00* · [`economynextcom`](https://economynext.com/one-million-new-voters-in-sri-lankas-2024-presidential-poll-172376/) · `en`
-
-ECONOMYNEXT – Sri Lanka will see around one million new voters out of total 17. 1 million in the next presidential poll which will be held after September 17, a senior Election Commission official said.
-
-The Election Commission on Tuesday (16) said it will declare the date of election before end of this month. The Commission will have powers to announce the poll from July 17, according to the constitution.
-
-“There are around 200,000 voters get registered as new voters every year. We last had elections in 2019 and from then, there are around one million new voters registered,” Saman Sri Ratnayake, Commissioner General of Elections told EconomyNext.
-
-More the 17.1 million voters will be eligible to case their votes in the upcoming presidential to elect the ninth executive president of Sri Lanka. (Colombo/July 16/2024)
-
-◼️
-
-[Data](articles/044e1451.json)
-
-[Extended Data](ext_articles/044e1451.ext.json)
 
 ---

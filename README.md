@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 17:35:53**
+As of **2024-07-17 17:56:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,735 (100.0%) of 35,738 articles have been extended.
+35,738 (100.0%) of 35,738 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,35 @@ The relevant new system is scheduled to commence from next Friday (19).
 
 [Data](articles/544dfee6.json)
 
+[Extended Data](ext_articles/544dfee6.ext.json)
+
 ---
 
-### யுவதியை நிர்வாணமாக வீடியோ எடுத்த விரிவுரையாளர்
+### Lecturer who took video of a young man naked
 
 *2024-07-17 17:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுவதியை-நிர்வாணமாக-வீடியோ-எடுத்த-விரிவுரையாளர்/175-340561) · `ta`
 
-வவுனியா பல்கலைக்கழக விரிவுரையாளர் ஒருவர் ஆங்கில வகுப்பு நடத்தும் வீடொன்றில், யுவதி ஒருவர் குளித்துக்கொண்டிருக்கும் போது அவரை நிர்வாணமாக வீடியோ எடுத்த சம்பவம் தொடர்பில் பல்கலைக்கழக அதிகாரிகளுக்கு செவ்வாய்க்கிழமை (16) அன்று முறைப்பாடு கிடைத்துள்ளது .
+A university lecturer in Vavuniya allegedly filmed a student undressing through a bathroom window during an English class. The incident sparked outrage, leading to a formal complaint to university officials. They promised to support the victim and ensure justice is served.
 
-வவுனியா திருவனாவ் குளம் பகுதியில் உள்ள பல்கலைக்கழக மாணவர்கள் மற்றும் அரச ஊழியர்கள் தங்கி இருந்த விடுதி ஒன்றில் குறித்த விரிவுரையாளர் ஆங்கில வகுப்பு ஒன்றை நடத்தி வந்துள்ள நிலையில் செவ்வாய்க்கிழமை (16) அன்று வகுப்பு நடந்து கொண்டிருந்த போது, ​​அரச ஊழியரான பாதிக்கப்பட்ட யுவதி குளிப்பதற்காக குளியலறைக்கு சென்றுள்ளார்,
+🟩
 
-அப்போது விரிவுரையாளர் வகுப்பை நிறுத்திவிட்டு அந்த இடத்திற்கு சென்று குளியலறையின் ஜன்னல் வழியாக யுவதி குளிப்பதை தன் கையடக்கத் தொலைபேசியூடாக வீடியோ எடுத்துள்ளார்.
+University officials have received a complaint on Tuesday (16) in connection with a video of a woman who was bathing in a house where a Vavuniya University lecturer was bathing.
 
-குளித்துக்கொண்டிருந்த யுவதி , குளியலறையின் ஜன்னலிலிருந்து கையடக்கத் தொலைபேசி ஒன்று தெரிவதை கண்டு பயந்து அலறி அடித்துக் கொண்டு வெளியே சென்றுள்ளார் .
+University students and public servants in the Vavuniya Thiruvananthapuram area have been conducting an English class in a hostel where a lecturer was conducting an English class on Tuesday (16).
 
-...
+The lecturer then stopped the class and went to the place and took a video of Yuvati bathing through the bathroom window.
+
+The girl, who was bathing, went out of the bathroom's window and screamed at a mobile phone.
+
+Later, when the English lecturer left the place, when the CCTV cameras were inspected at home, the lecturer was standing near the bathroom.
+
+University officials said that the woman would lodge a complaint at the police station and get justice for the woman.
+
+◼️
 
 [Data](articles/dc666422.json)
+
+[Extended Data](ext_articles/dc666422.ext.json)
 
 ---
 
@@ -112,19 +124,31 @@ Police stated that the suspects are to be produced before the Mawanella Magistra
 
 ---
 
-### සුවසාර කැඳැල්ල නිසා පොලිස් ස්ථානාධිපතිවරුන් මානසික හා කායික පීඩාවට
+### Police OICs OICs to mental and physical distress
 
 *2024-07-17 16:18:23* · [`adalk`](https://www.ada.lk/breaking_news/සුවසාර-කැඳැල්ල-නිසා-පොලිස්-ස්ථානාධිපතිවරුන්-මානසික-හා-කායික-පීඩාවට/11-410828) · `si`
 
-මත්ද්‍රව්‍ය වලට ඇබ්බැහි වූවන් පුනරුත්ථාපන කිරීමේ වැඩසටහන යටතේ ක්‍රියාත්මක සූවසාර කැදැල්ල ප්‍රජාපාදක ප්‍රතිකාර පුනරුත්ථාපන වැඩසටහන හේතුවෙන්  පොලිස් ස්ථානාධිපතිවරුන්ගේ සිට පහළ  ශ්‍රේණියේ සියලුම නිලධාරීන් දැඩි අපහසුතාවයට පත්ව අන්ත අසරණ වී ඇතැයි දැනගන්නට ඇත.
+The summary would exceed the 200-character limit due to the complexity and length of the original text. However, I can provide a concise summary within the constraints:
 
-එම පුනරුත්ථාපන  ලාභීන්  සඳහා කායික හා මානසික සෞඛ්‍ය සඳහා ආහාර ලබා දිය යුතු පිළිවෙල චක්‍ර ලේඛන මගින් ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරුන් හරහා පොලිස් ස්ථානාධිපති වරුන් වෙත එවීමට කටයුතු කළද ඒ සඳහා මුදල් ප්‍රතිපාදන ලබාදීමට  කටයුතු නොකිරීමෙන් පොලිස් ස්ථානාධිපතිවරුන්  ඇතුළු සෙසු පොලිස් නිලධාරීන් එම චක්‍රලේඛනවල  සඳහන් දෑ ක්‍රියාත්මක කිරීමට යාමේදී ඔවුන්ද  කායික සහ මානසික වශයෙන් දැඩි පීඩාවකට පත්ව ඇතැයි වාර්තාවේ.
 
-මත්ද්‍රව්‍ය  වලට ඇබ්බැහි වු සෑම පුද්ගලයෙක්ම සොරකම්වල නොයෙදෙන බැවින් බහුතරයක් දෙනා දරු පවුල් නඩත්තු  කිරීමට කිසියම් කුලී වැඩක නිරතව ලබා ගන්නා මුදලින් ඔවුන් මත්ද්‍රව්‍ය පාවිච්චි කිරීමට මුදල් වැය කරනවා සේම  දරු පවුල ද නඩත්තු කිරීමටද  එම මුදලින් කොටසක් වැය කිරීමට කටයුතු කරනු ඇත.
+
+"Police officers face challenges under the Drug Addiction Rehabilitation Program, including physical strain and adverse effects from implementing it. The program aims to help drug addicts, but officers' involvement causes inconvenience and stress. Some addicts use drugs to support their families financially, complicating efforts to rehabilitate them. The program also faces criticism for not being effectively implemented, with concerns about its location and lack of legal backing."
+
+🟩
+
+Under the Rehabilitation Program of the Drug Addiction Program, the Navasury Nashing Program, the Police OIC to the Rehabilitation Control Program, all officers from the Police Station to the Rehabilitation Program have been inconvenienced.
+
+Although the rehabilitation of the Superintendents of the Circular and Mental Health, the OICs including the Superintendents of the Circular Health and other police officers are also physically used to implement the details of the circulars.It is reported that they have been adversely affected.
+
+Since all drug addicts are not stealing, the majority will work to maintain the use of drugs to maintain their children, as they spend money to use drugs.
+
+Police say that if such persons are referred to rehabilitation to rehabilitate, the police say they have also been taken to maintain the child.
 
 ...
 
 [Data](articles/fd593ac6.json)
+
+[Extended Data](ext_articles/fd593ac6.ext.json)
 
 ---
 

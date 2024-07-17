@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 20:35:53**
+As of **2024-07-17 20:54:55**
 
 ## Newspaper Stats
 
-*Scraped **35,769** Articles*
+*Scraped **35,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 4,128
 tamilmirrorlk | 4,321
 dailymirrorlk | 4,733
 virakesarilk | 5,579
-adaderanasinhalalk | 5,985
+adaderanasinhalalk | 5,986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,761 (100.0%) of 35,769 articles have been extended.
+35,769 (100.0%) of 35,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### දරුවන් යහමගට ගත හැකි හොඳම ක්‍රමය පොලීසිය කියයි
+
+*2024-07-17 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198924) · `si`
+
+කුඩා පිරිමි දරුවෙකුට වයෝවෘද්ධ කාන්තාවන් දෙදෙනෙක් අමානුෂික ලෙස පහරදෙන අයුරු දැක්වෙන වීඩියෝවක් පසුගියදා සමාජ මාධ්‍ය ඔස්සේ සංසරණය වුණි.
+
+පසුව අනාවරණ වී තිබුණේ අරණායක ඇහැළගස්තැන්න ප්‍රදේශයේ වයස අවුරුදු 6ක පිරිමි දරුවෙකුට මෙලෙස අමානුෂික ලෙස පහර දෙන්නේ දරුවාගේ මිත්තනියගේ සහෝදරියන් දෙදෙනෙකු බවය.
+
+පහරදීම දරුවාගේ මව ද පසෙක සිට අනුමත කරන අයුරු අදාළ වීඩියෝවෙන් දක්නට ලැබුණි.
+
+මෙම අමානුෂික පහරදීම අසල්වැසි කාන්තාවක විසින් සිය ජංගම දුරකථනය මගින් රූගත කර සමාජ මාධ්‍ය වෙත මුදාහැර තිබුණි.
+
+අත්අඩංගුවට ගත් සැකකාරියන් සිව්දෙනා මාවනැල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව එළඹෙන 22 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+පහර කෑමට ලක්වූ දරුවා මාවනැල්ල අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමට පොලීසිය පියවර ගත්තේය.
+
+දරුවන් මෙලෙස කෘෘරත්වයට පත් නොකර යහමගට ගැනීම සඳහා වැඩිහිටියන්ට වෙනත් විකල්ප ක්‍රම භාවිත කළ නොහැකිද?
+
+ඒ පිළිබඳව පැහැදිලි කළ කොළඹ ප්‍රජා පොලිස් මූලස්ථානයේ ස්ථානාධිපති මනෝජ් සමරසේකර මහතා,
+
+...
+
+[Data](articles/8fe6348b.json)
+
+---
 
 ### The United National Party (UNP) requests to hold the presidential election quickly
 
@@ -526,19 +552,25 @@ The songs of the film have been released and the film has been released.
 
 ---
 
-### தோட்டங்களை கிராமங்களாக அங்கீகரிப்பதால் காணி உரிமத்தை இலகுவாக வழங்க முடியும் - அமைச்சர் ஜீவன்
+### The land license can be easily issued by the recognition of gardens as villages - Minister Jeevan
 
 *2024-07-17 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188698) · `ta`
 
-பெருந்தோட்டத்துறையில் புதிய குடியிருப்பு கிராமங்களை அமைக்கும் வேலைத்திட்டத்தின் மூலம் பெருந்தோட்ட கம்பனிகளின் கீழுள்ள தோட்டங்கள் நேரடியாக அரசாங்க நிர்வாகத்தின் கீழ் கொண்டு வரப்படும். இதன் மூலம் அவர்களுக்கு காணி உரிமத்தை வழங்கும் வேலைத்திட்டத்தை இலகுவாக முன்னெடுக்க முடியும். காணி உரிமத்தை வழங்கினால் அந்த மக்களின் ஏனைய பிரச்சினைகளுக்கும் நிரந்த தீர்வினைக் காண முடியும் என்று நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர்ஜீவன் தொண்டமான் தெரிவித்தார்.
+Minister Jeevan proposes recognizing plantations as villages to streamline land licensing and address socio-economic issues. Over nine plantation companies have agreed to raise salaries, with discussions planned for August 6. The initiative aims to directly benefit plantation workers by granting land licenses, improving infrastructure, and ensuring fair wages.
 
-அத்தோடு பெருந்தோட்டத் தொழிலாளர்களுக்கு சம்பள அதிகரிப்பை வழங்குவதற்கு ஒன்பதுக்கும் மேற்பட்ட கம்பனிகள் இணக்கம் தெரிவித்துள்ளதாகவும், முதலாளிமார் சம்மேளனத்திடமிருந்து 1,350 ரூபா சம்பள அதிகரிப்பிற்கான முன்மொழிவு கிடைக்கப் பெற்றுள்ளதாகவும் அமைச்சர் மேலும் தெரிவித்தார். இது குறித்து எதிர்வரும் ஆகஸ்ட் 6ஆம் திகதி இடம்பெறவுள்ள விசேட பேச்சுவார்த்தையில் தீர்வு காணப்படும் என்றும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில்  புதன்கிழமை (17) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+The plantation companies under the plantation companies will be directly brought under the government administration through a program to set up new residential villages in the plantation sector.. This will easily carry out a land license program for them. Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that if the land license is granted, a permanent solution can be found to be a permanent solution.
+
+More than nine companies have agreed to pay a salary increase to plantation workers and the proposal has been received from the Employers Federation for a salary increase of Rs 1,350.. The Minister said that the special negotiations will be held on August 6.
+
+He further stated that at a press conference held at the Presidential Media Center on Wednesday (17).
 
 ...
 
 [Data](articles/2600bb86.json)
+
+[Extended Data](ext_articles/2600bb86.ext.json)
 
 ---
 
@@ -616,23 +648,31 @@ The Department of Immigration and Emigration stated that after registering onlin
 
 ---
 
-### 1,300 வைத்தியர்களும் 500க்கும் மேற்பட்ட தாதியர்களும் நாட்டை விட்டு வெளியேற்றம் - யாழில் சுகாதார அமைச்சர் தெரிவிப்பு
+### 1,300 doctors and more than 500 nurses leave the country
 
 *2024-07-17 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188683) · `ta`
 
-1,300 வைத்தியர்களும் 500க்கும் மேற்பட்ட தாதியர்களும் நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடி காரணமாக நாட்டை விட்டு வெளியேறியுள்ளதாக சுகாதார அமைச்சர் ரமேஷ் பத்திரன தெரிவித்துள்ளார்.
+Due to Sri Lanka's economic crisis, over 1,300 doctors and more than 500 nurses have left the country. The Health Minister highlighted the issue during his visit to Jaffna, noting the current shortage of medical professionals. Despite the exodus, about 10-15% of those who left have returned, mitigating the impact slightly.
 
-யாழ்ப்பாணத்துக்கு இன்று புதன்கிழமை (17) விஜயம்  மேற்கொண்டிருந்த சுகாதார அமைச்சர்  மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-தற்போது இலங்கையில் 24,000 பேர் அரச வைத்தியர்கள் இருக்கின்றார்கள். வெகுவிரைவில் 3,500 பேர் வைத்தியர்களாக வெளியேறவுள்ள நிலையில் அவர்களுக்கான வைத்தியர் நியமனங்களை வெகுவிரைவில் வழங்கவுள்ளோம்.
+Health Minister Ramesh Pathena said that 1,300 doctors and more than 500 nurses have left the country due to the economic crisis in the country.
 
-ஒவ்வொரு ஆண்டும் 3,000 பேர் வைத்தியர்களாக வெளியேறுகின்றனர், இதனால் அரச வைத்தியசாலையில் நிலவும் வைத்தியர் வெற்றிடங்களை நிரப்பக்கூடியதாக இருக்கின்றது.
+The Minister of Health, who visited Jaffna on Wednesday (17), said this.
 
-தற்போது 24 ஆயிரம் வைத்தியர்கள் அரச வைத்தியசாலைகளில் பணிபுரிகின்றனர். எனினும் தற்பொழுது துறைசார்ந்த வைத்திய நிபுணர்கள் நட்டைவிட்டு வெளியேறியமை பெரும் பிரச்சினையாக காணப்படுகின்றது.
+There are currently 24,000 state doctors in Sri Lanka.As soon as 3,500 doctors are expected to leave, we will soon make their doctors appointments.
 
-...
+Every year, 3,000 people leave doctors, making the doctors vacancies in the state hospital.
+
+Currently 24 thousand doctors are working in government hospitals.At present, however, the departure of the departmentalist experts is a major problem.
+
+Some of the country's areas have been affected by the shortage of departmental medical experts.However, in the last few months, 10-15 doctors who have left the country have been returning to the country and have been working again.This is a good healthy thing for us.
+
+◼️
 
 [Data](articles/21ce673c.json)
+
+[Extended Data](ext_articles/21ce673c.ext.json)
 
 ---
 
@@ -658,19 +698,25 @@ Police stated that the suspects are to be produced before the Mawanella Magistra
 
 ---
 
-### ஜனாதிபதி செயற்திட்ட நிகழ்வு பதாகையில் தமிழ் எழுத்து பிழை
+### Tamil writing error on the banner of the President
 
 *2024-07-17 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188690) · `ta`
 
-நுவரெலியா சினிசிட்டா நகர மண்டபத்தில் ஜனாதிபதி நிதியத்தால் புலமைப்பரிசில் வழங்கி வைக்கும் நிகழ்வு நேற்று செவ்வாய்க்கிழமை (16) இடம்பெற்றது.
+A banner at a President's Fund event mistakenly referred to "President" instead of "Presidential Secretary." A state official confirmed it was correct in Sinhala, sparking confusion about whether it was an oversight or part of a larger plan. The presence of Tamil political figures and the Governor of the Central Province added to the intrigue.
 
-இதன்போது காட்சிப்படுத்தப்பட்டிருந்த பதாகையில் “ஜனாதிபதி” என்பதற்கு பதிலாக “ஐனாதிபதி” என குறிப்பிடப்பட்டிருந்தது. இது தொடர்பாக அங்கிருந்த ஒரு அரச அதிகாரியிடம் தெரிவித்த பொழுது அவர்  சிங்களத்தில் சரியாக இருக்கின்றது தானே என்று பொறுப்பற்ற முறையில் பதில் கூறினார்.
+🟩
 
-நாட்டின் தலைவராக இருக்கின்ற ஜனாதிபதியின் நிகழ்வுகளில்  இப்படி நடைபெறுவதாக இருந்தால் 'இனி எங்கு போய் முறையிடுவது என்பது நிகழ்வில் கலந்து கொண்ட  பாடசாலை அதிபர் ஆசிரியர்களின்  கேள்வியாக இருந்தது. இது அதிகாரிகளின் அசமந்த போக்கா?அல்லது திட்டமிட்ட செயற்பாடா?  என்ற கேள்வியும் எழுந்துள்ளது. மத்திய மாகாண ஆளுநர்  கலந்து கொண்டிருந்த இந்நிகழ்வில்  தமிழ் அரசியல் பிரமுகர்களும் கலந்து கொண்டிருந்தனர்  என்பது முக்கிய விடயம்.
+The event was held on Tuesday (16) at the Nuwara Eliya City Hall by the President's Fund.
+
+The banner on display referred to the "President" instead of "President". When he told a state official, he replied recklessly that he was right in Sinhala.
+
+If this was the case of the President of the country, the question of the teachers of the school principal was where to go and appeal.. Is this an unpopular course of the authorities or a planned process?The question has also arisen. It is important to note that Tamil political figures were also present at the event, which was attended by the Governor of the Central Province.
 
 ◼️
 
 [Data](articles/850dbdee.json)
+
+[Extended Data](ext_articles/850dbdee.ext.json)
 
 ---
 
@@ -696,23 +742,33 @@ Asked about the main opposition the Samagi Jana Balawegaya (SJB) and leftist Nat
 
 ---
 
-### யாழில் சுகாதார அமைச்சர் பங்கேற்ற கலந்துரையாடலில் குழப்பம் விளைவித்தவர் கைது
+### Health Minister in Jaffna
 
 *2024-07-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188694) · `ta`
 
-யாழ்ப்பாணத்தில் சுகாதார அமைச்சர் பங்கேற்ற கலந்துரையாடலில் குழப்பம் விளைவித்தார் என்ற குற்றச்சாட்டில் ஒருவர் கைது செய்யப்பட்டார்.
+In Jaffna, a person was arrested for causing confusion during a health-related meeting attended by the Health Minister, MPs, and other officials. The incident occurred when someone live-streamed the event on Facebook without permission, leading to a confrontation. Authorities intervened, resulting in the arrest of the individual, who is now detained at the Chavakachcheri police station. This incident sparked controversy due to unauthorized participation in discussions involving high-ranking officials.
 
-வடக்கு மாகாணத்தின் சுகாதார மேம்பாடுகள் தொடர்பான கலந்துரையாடல் வடக்கு மாகாண சபை கேட்போர் கூடத்தில் சுகாதார அமைச்சர் ரமேஷ் பத்திரண, பாராளுமன்ற உறுப்பினர்கள்,வடக்கு மாகாண ஆளுநர், சுகாதார துறை உயரதிகாரிகள், வைத்தியர்கள் பங்கேற்புடன் இன்று புதன்கிழமை (17) இடம்பெற்றது.
+🟩
 
-இதன்போது கூட்டத்தில் அநாமாதேயமாக பங்கேற்ற ஒருவர்  கலந்துரையாடலை முகநூல் வழியாக நேரலையில் ஒளிபரப்பியிருந்தார்.
+One person was arrested on charges of confusion in the discussion with the Health Minister in Jaffna.
 
-இதனையடுத்து முகநூல் நேரலை செய்யவேண்டாம் எனவும் அவரை அங்கிருந்து வெளியேறுமாறும் அதிகாரிகள் தெரிவிக்கவே அதனை மறுத்து தொடர்ந்து அமர்ந்திருந்தார்.
+The Northern Provincial Council Auditorium was held on Wednesday (17) with the participation of Health Minister Ramesh Pathirana, Members of Parliament, Governor of the Northern Province, Health Department and Doctors at the Northern Provincial Council auditorium.
 
-இதன்போது கூட்டநிறைவில் அங்கு சுகாதார அமைச்சருடன் பேச முற்பட்ட நிலையில் அமைச்சர் அங்கிருந்து செல்லவே, கூட்டத்தில் நின்ற அதிகாரிகளுடன் குழப்பத்தில் ஈடுபட்டார்.
+A person who participated in the meeting was broadcast live through Facebook.
+
+Subsequently, the authorities refused to do so and that he would not be able to do live in the face.
+
+At the meeting, the minister was trying to talk to the Minister of Health at the meeting, and he was in confusion with the officials who stood at the meeting.
+
+Following this, the governor and the officials went to the Chief Secretariat's office and engaged in a conflict.. The police were informed that the authorities were to leave and continue to conflict.
+
+The Chavakachcheri police then rushed to the scene and arrested the man involved in the confusion.
 
 ...
 
 [Data](articles/7b28698a.json)
+
+[Extended Data](ext_articles/7b28698a.ext.json)
 
 ---
 
@@ -736,23 +792,33 @@ Announcement issued by the Department of Immigration and Emigration
 
 ---
 
-### தூய்மை பணியாளர்களின் உணர்வெழுச்சியை பேசும் ''நாற்கர போர்' பட டீசர்
+### The Teaser of the Clean Staff
 
 *2024-07-17 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188692) · `ta`
 
-நடிகை அபர்னதி கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'நாற்கர போர்' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+The teaser for "Quratra Patha," featuring Abernathi as the lead, has been released by directors Pa. Ranjith and Vijay Sethupathi. The film, produced by V6 Film Pvt., explores the daily adventures of purity workers, highlighting societal barriers they face. It stars Abernathi, Lingesh, Suresh Menon, Ashwin, among others, with music by Arjun Ravi and R. S. Dinesh Antony. The teaser, set to release on August 2nd, begins with quotes from Ambedkar and Periyar, aiming to address social issues affecting cleanliness workers.
 
-இந்த டீசரை இயக்குநர் பா. ரஞ்சித் மற்றும் 'மக்கள் செல்வன்' விஜய் சேதுபதி ஆகியோர் இணைந்து அவர்களது இணைய பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்கள்.
+🟩
 
-இயக்குநர்  ஸ்ரீ வெற்றி இயக்கத்தில் உருவாகி இருக்கும் 'நாற்கர போர்' எனும் திரைப்படத்தில் அபர்னதி, லிங்கேஷ், சுரேஷ் மேனன், அஸ்வின் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The teaser of the film 'Quratra Patha', which plays the lead role as the hero of actress Abernathi, has been released.
 
-அர்ஜுன் ரவி மற்றும் ஆர். எஸ். ஞானசேகர் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு தினேஷ் அண்டனி இசையமைத்திருக்கிறார்.
+This teaser is the director Pa. Ranjith and 'People Selvan' Vijay Sethupathi have posted on their web page and congratulated the film crew.
 
-ஒடுக்கப்பட்ட மக்களின் வாழ்வியலை உணர்வு பூர்வமாக பேசும் படைப்பாக தயாராகி இருக்கும் இந்தத் திரைப்படத்தை வி 6 ஃபிலிம் பிரைவேட் லிமிடெட் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் வேலாயுதம் தயாரித்திருக்கிறார்.
+Abernathi, Lingesh, Suresh Menon, Ashwin and many others have starred in the director's Sri Vijay directed film 'Qur'an Bar'.
 
-...
+Arjun Ravi and R. S.. Dinesh Antony has composed the film, which has been recorded by Gnanasekar.
+
+The film is being produced by V6 Film Pvt.
+
+The teaser of the film will be released on the second day of August at the film House.. At the beginning of this teaser, the motto of Ambedkar and Periyar was in place and the day -to -day adventure life of purity workers.
+
+The scenes that have spoken out the subtle issues that prevent cleanliners from getting up in the community have attracted the attention of the audience.
+
+◼️
 
 [Data](articles/39ffa193.json)
+
+[Extended Data](ext_articles/39ffa193.ext.json)
 
 ---
 
@@ -846,17 +912,23 @@ A cabinet paper has been submitted by President Ranil Wickremesinghe to coordina
 
 ---
 
-### ஜனாதிபதி வேட்பாளர்களினதும் முன்னாள் ஜனாதிபதிகளினதும் பாதுகாப்பை பலப்படுத்த நடவடிக்கை !
+### Action to strengthen the security of the presidential candidates and former presidents!
 
 *2024-07-17 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188687) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களினதும் முன்னாள் ஜனாதிபதிகளினதும் பிரத்தியேக பாதுகாப்பு ஏற்பாடுகளை மேற்பார்வை செய்ய குழுவொன்று நியமிக்கப்படவுள்ளதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+A committee will oversee security for presidential candidates and former presidents ahead of the election. President Wickremesinghe recommends coordinating all security measures and appointing a Deputy Inspector General of Police.
 
-இதேவேளை, சகல பாதுகாப்பு நடவடிக்கைகளையும் ஒருங்கிணைப்பதற்கும்  பிரதிப் பொலிஸ் மா அதிபர் ஒருவரை நியமிப்பதற்கும் பரிந்துரைத்து ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அமைச்சரவைப் பத்திரமொன்று சமர்ப்பிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Presidential Media Division has said that a committee will be appointed to oversee the exclusive security arrangements of the candidates and former presidents contesting the upcoming presidential election.
+
+Meanwhile, a Cabinet paper has been submitted by President Ranil Wickremesinghe, recommending to coordinate all security measures and appoint a Deputy Inspector General of Police.
 
 ◼️
 
 [Data](articles/3107118c.json)
+
+[Extended Data](ext_articles/3107118c.ext.json)
 
 ---
 
@@ -928,23 +1000,33 @@ At a meeting held at the Ministry of Agriculture and Plantation Industries, fert
 
 ---
 
-### தாய்லாந்தின் தலைநகரில் ஐந்து நட்சத்திர ஹோட்டலில் ஆறு பேர் உயிரிழந்த நிலையில் மீட்பு- தேநீர் கோப்பையில்  சயனைட்
+### Six people died in a five-star hotel in Thailand's capital
 
 *2024-07-17 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188684) · `ta`
 
-தாய்லாந்தின் தலைநகரில் உள்ள பிரபல ஐந்து நட்சத்திர ஹோட்டலில் இரண்டு அமெரிக்கர்கள் உட்பட ஆறுபேர் உயிரிழந்த நிலையில் கண்டுபிடிக்கப்பட்டுள்ளமை பெரும் அதிர்ச்சியை  ஏற்படுத்தியுள்ள அதேவேளை அவர் உட்கொண்ட தேநீர் காப்பியில் சயனைட்  கலக்கப்பட்டுள்ளமை தெரியவந்துள்ளது.
+In Thailand's capital, six individuals, including two Americans, were fatally poisoned with cyanide-laced tea at a renowned five-star hotel, likely linked to a financial dispute. The victims' bodies were discovered alongside open doors and unused tea pots with remnants of the poison. Police initially suspected foul play but later concluded that one of the deceased might have inadvertently poisoned themselves.
 
-மோசமான முதலீடு தொடர்பான தகராறுகாரணமாக இந்த கொலைகள் இடம்பெற்றிருக்கலாம் என பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-ஐந்துநட்சத்திர ஹோட்டலிற்கு சென்றவேளை பொலிஸார் மூன்று ஆண்களினதும் மூன்று பெண்களினதும் சடலங்களை கண்டுள்ளனர்.
+Six people, including two Americans, have been killed in a popular five -star hotel in Thailand's capital, and it has been shocking while cyanide mixed with a tea insulation he consumed.
 
-மேசையில் இன்னமும் பயன்படுத்தப்படாத உணவுகள் பிளாஸ்டிக் துண்டொன்றினால் மூடப்பட்ட நிலையில் காணப்பட்டனபயன்படுத்தப்பட்ட தேநீர்கோப்பைகளில் வெள்ளை நிற பவுடர்போன்ற பொருள் காணப்பட்டது என பொலிஸார் தெரிவித்துள்ளனர்.
+Police said the killings may have been the cause of a bad investment dispute.
 
-அவர்கள் தங்கியிருந்த பகுதியின் கதவு உட்புறமாக பூட்டப்பட்டிருந்ததுபின்கதவு திறந்த நிலையில் காணப்பட்டது எனபொலிஸார் தெரிவித்துள்ளனர்.
+When they went to the five -star hotel, police saw the bodies of three men and three women.
 
-...
+Police said the white powder material was found in the used tea pots, which were still covered with a plastic piece.
+
+According to police, the door was open as the door of the area where they stayed was locked inside.
+
+The police, who were looking for a suspect, have now abandoned the investigation and that one of the deceased may have been mixed with the tea cup.
+
+Police have reported that the cyanide was found in the tea cup of the six -year -old tea cups in the hotel room and the body of a person who died.
+
+◼️
 
 [Data](articles/82b88b6d.json)
+
+[Extended Data](ext_articles/82b88b6d.ext.json)
 
 ---
 
@@ -1066,25 +1148,31 @@ The cabinet paper has further proposed to appoint a DIG to supervise these secur
 
 ---
 
-### பெருவில் அந்தீஸ் மலை தொடர் பகுதியில் பஸ் கவிழ்ந்து விபத்து ; 25 பேர் பலி ; 17 பேர் காயம்
+### Bus crashes in the Andes Mountain Series in Peru;25 killed;17 people injured
 
 *2024-07-17 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188674) · `ta`
 
-பெருவில் செவ்வாய்கிழமையன்று அந்தீஸ் மலை  தொடர் பகுதி வழியாக பயணித்த பஸ் ஒன்று விபத்துக்குள்ளானதில் குறைந்தது 25 பேர் உயிரிழந்துள்ளதோடு, 17 பேர் காயமடைந்துள்ளனர்.
+A tragic bus crash in the Andes Mountains of Peru resulted in 25 deaths and 17 injuries. The accident occurred on the Los Libertador highway near Ayacucho, a common site for such incidents due to inadequate driver training and the region's hazardous terrain.
 
-விடியற்காலையில் அந்தீஸ் மலை  தொடர்  பகுதியில் அதிவேக வீதியில் பயணித்த பஸ்  200 அடி பள்ளத்தில் கவிழ்ந்து வீழ்ந்துள்ளது.
+🟩
 
-இந்த விபத்து தெற்கு- மத்திய அந்தீஸ் மலை  தொடர் அமைந்துள்ள அயகுச்சோ பகுதியிலுள்ள லாஸ் லிபர்டடோர்ஸ் அதிவேக வீதியில் விபத்து ஏற்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+At least 25 people were killed and 17 injured when a bus crashed through the Andes Mountain area on Tuesday in Peru.
 
-பெருவில் ஆபத்தான பஸ் விபத்துக்கள் நிகழ்வது பொதுவான ஒரு விடயமாகும். இதற் காரணம் அங்கு ஆபத்தான மலைப்பாதைகளில் பல பஸ்கள் பயணிக்கின்றன. போதிய பயிற்சி இல்லாத சாரதிகளால் பஸ்கள் இயக்கப்படுகின்றன.
+At dawn, the bus traveling on the highway in the Andes Mountain Series has crashed into a 200 -foot ditch.
 
-கடந்த ஏப்ரல் மாதத்தில் பெருவின் வடக்கு காஜாமார்கா பகுதியில் பஸ் ஒன்று ஆற்றில் விழுந்ததில் 25 பேர் உயிரிழந்தனர்.
+The accident occurred on the Los Libertador's highway in the Ayakucho area where the south-central Andes mountain range is located.
 
-2022 ஆம் ஆண்டு செப்டம்பர் மாதம் அன்கோ பகுதியில் இதேபோன்ற விபத்தில் குறைந்தது 24 பேர் உயிரிழந்தமை குறிப்பிடத்தக்கது.
+The occurrence of dangerous bus accidents in Peru is a common thing. This is because many buses travel there on a dangerous mountain pass. Buses are operated by drivers who do not have adequate training.
+
+In April, 25 people were killed when a bus fell into a river in North Kajamarga of Peru.
+
+In September 2022, at least 24 people were killed in a similar accident in the Anco area.
 
 ◼️
 
 [Data](articles/26dd9cef.json)
+
+[Extended Data](ext_articles/26dd9cef.ext.json)
 
 ---
 
@@ -2337,25 +2425,5 @@ The arrested suspect has been identified as a 31-year-old resident of Aluth Mawa
 [Data](articles/7b6f258d.json)
 
 [Extended Data](ext_articles/7b6f258d.ext.json)
-
----
-
-### Fairly heavy showers and strong winds expected in parts of the country
-
-*2024-07-17 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100568/fairly-heavy-showers-and-strong-winds-expected-in-parts-of-the-country) · `en`
-
-The Department of Meteorology says the prevailing windy conditions over the island are expected to continue further, due to the active South West Monsoonal condition.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Fairly heavy showers about 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts, it said.
-
-Strong winds of about 50-60kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts. Fairly strong winds about 30-40kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/eca838a8.json)
-
-[Extended Data](ext_articles/eca838a8.ext.json)
 
 ---

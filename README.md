@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 07:27:40**
+As of **2024-07-17 08:03:55**
 
 ## Newspaper Stats
 
-*Scraped **35,647** Articles*
+*Scraped **35,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,79 @@ adaderanalk | 4,113
 tamilmirrorlk | 4,301
 dailymirrorlk | 4,733
 virakesarilk | 5,558
-adaderanasinhalalk | 5,958
+adaderanasinhalalk | 5,960
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,636 (100.0%) of 35,647 articles have been extended.
+35,644 (100.0%) of 35,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### සැලකිලිමත් වන්න - කාලගුණයෙන් රතු නිවේදනයක්
+### අයිස් මත්ද්‍රව්‍ය කිලෝවක් සමඟ පුද්ගලයෙකු දැලේ
+
+*2024-07-17 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198894) · `si`
+
+මෝදර අලුත්මාවත ප්‍රදේශයේ දී අයිස් මත්ද්‍රව්‍ය තොගයක් සමඟ පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, ගුවන් හමුදා බුද්ධි අංශයට ලද තොරතුරකට අනුව කොළඹ උතුර කොට්ඨාස අපරාධ අංශය මඟින් මෙම වැටලීම සිදුකළ බවය.
+
+අත්අඩංගුවට ගන්නා අවස්ථාවේදී සැකකරු සතුව තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01 ග්‍රෑම් 76ක් සොයාගෙන තිබේ.
+
+අත්අඩංගුවට ගෙන ඇත්තේ මෝදර අලුත්මාවත ප්‍රදේශයේ පදිංචි 31 හැවිරිදි පුද්ගලයෙකු බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/9bab3ea2.json)
+
+---
+
+### අණ නොතැකූ ටිපර් රථයට පොලීසියෙන් වෙඩි
+
+*2024-07-17 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198893) · `si`
+
+කිලිනොච්චි - පුනරීන් මාර්ගයේදී පුංචි පරන්තන් ප්‍රදේශයේදී පොලිස් අණ නොතකා ධාවන වූ ටිපර් රථයකට සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා තිබේ.
+
+පොලීසිය පැවසුවේ, අදාළ සැකකටයුතු ටිපර් රථය නවත්වන ලෙස අවස්ථා කිහිපයකදී පොලීසිය සංඥා කළ ද එහි රියදුරු එය නොතකා ඉදිරියට ධාවන කර පොලිස් නිලධාරීන් අනතුරට ලක් කිරීමට ද උත්සහ දරා ඇති බවය.
+
+එම අවස්ථාවේදී සිදුකළ වෙඩි තැබීමෙන් ටිපර් රථයේ ගමන් කළ එක් පුද්ගලයෙකු තුවාල ලබා තිබේ.
+
+තුවාල ලැබූ පුද්ගලයා සහ තවත් පුද්ගලයෙකු එම ස්ථානයෙන් පළා ගොස් ඇති අතර එක් පුද්ගලයෙකු එම අවස්ථාවේදීම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+තුවාල ලැබූ පුද්ගලයා ප්‍රතිකාර සඳහා කිලිනොච්චිය රෝහලට ඇතුළත් වීමෙන් අනතුරුව අත්අඩංගුවට ගෙන ඇති අතර පළා ගිය අනෙක් පුද්ගලයා අත්අඩංගුවට ගැනීම සඳහා විමර්ශන ආර්ම්භ කර ඇති බව පොලීසිය පැවසුවේය.
+
+සැකකරුවන් පැමිණි ටිපර් රථයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 02 මිලිග්‍රෑම් 100 සොයා ගෙන තිබේ.
+
+◼️
+
+[Data](articles/99afdfb4.json)
+
+---
+
+### Be careful - a red announcement from the weather
 
 *2024-07-17 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198890) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology issued a red alert due to strong winds and rough seas, affecting the Thandudu-Language vessels and Sri Lankan bay areas in the Bay of Bengal. The active southwest monsoon could cause severe conditions in these regions, advising the maritime and fisheries communities to refrain from sailing until the situation improves.
 
-අරාබි මුහුද ප්‍රදේශ හා බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර යාත්‍රා සහ නාවික ප්‍රජාව මේ පිළිබඳව වඩාත් සැලකිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරාබි මුහුදු ප්‍රදේශයේ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ ඉතා තද සුළං පැවතිය හැකි අතර, එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැකිය.
+The Department of Meteorology announces a red announcement of the strong wind and the sea.
 
-ඉහත සිතියමේ රතු වර්ණයෙන් දැක්වෙන මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙස ද නාවික හා ධීවර ප්‍රජාවන්ට කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම් දෙයි.
+The Met Department announces the calendar of the Thandudu-Language vessels and the Sri Lankan bay areas in the Bay of Bay of Bengal.
+
+The active southwest monsoon weather can range in the Sea area and the Bay of Bengal area, and the sea areas can be very rough.
+
+The Momeant and Fisheries communities informed the sea and fishing communities not to be restored until the red area of ​​the above map.
 
 ◼️
 
 [Data](articles/3bcf19b7.json)
+
+[Extended Data](ext_articles/3bcf19b7.ext.json)
 
 ---
 
@@ -360,19 +406,25 @@ In response Wickramaratne taking to social media platform X yesterday said such 
 
 ### 2024-07-16 (Tuesday)
 
-### கடும் காற்று, மழை நீடிக்கும்
+### Heavy winds, the rain lasts
 
 *2024-07-16 23:52:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-காற்று-மழை-நீடிக்கும்/175-340519) · `ta`
 
-தென்மேற்கு பருவப்பெயர்ச்சியால் நாட்டில் தற்போது நிலவும் கடும் காற்று மற்றும் மழையுடனான வானிலை தொடர்ந்து நீடிக்குமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology forecasts continued Southwest monsoon weather with heavy winds and over 75mm of rainfall in several regions, including Western, Sabaragamuwa provinces, and districts like Kandy, Nuwara Eliya, Galle, and Matara. Intermittent rainfall is also expected across the country.
 
-மேல், சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை ஆகிய மாவட்டங்களிலும் 75 மில்லி மீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவிக்கின்றது.
+🟩
 
-நாட்டின் ஏனைய பகுதிகளில் இடைக்கிடையே மழை பெய்யுமென்றும் வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+The Department of Meteorology has predicted that the Southwest monsoon weather will continue with heavy winds and rainfall in the country.
+
+The Department of Meteorology has reported that more than 75mm of rainfall is expected in the Western, Sabaragamuwa provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The Department of Meteorology also noted that intermittent rainfall in other parts of the country. (A)
 
 ◼️
 
 [Data](articles/e03770bd.json)
+
+[Extended Data](ext_articles/e03770bd.ext.json)
 
 ---
 
@@ -548,6 +600,8 @@ Nestlé Lanka recently held the ‘Connect@Nest’24’ event, to honour and rec
 
 [Data](articles/bf8b3229.json)
 
+[Extended Data](ext_articles/bf8b3229.ext.json)
+
 ---
 
 ### Oil carriers served in Sri Lankans sinking sea
@@ -584,6 +638,8 @@ The company’s performance in the Non-Banking Financial Institutions (NBFI) sec
 
 [Data](articles/c1134117.json)
 
+[Extended Data](ext_articles/c1134117.ext.json)
+
 ---
 
 ### Nations Trust Bank supports restoration of historic murals at Gothami Viharaya
@@ -598,6 +654,8 @@ The murals at Gothami Viharaya, dating back nearly a century, underwent a restor
 
 [Data](articles/b42c943c.json)
 
+[Extended Data](ext_articles/b42c943c.ext.json)
+
 ---
 
 ### Feverish investor speculation over governmental change stalls bourse
@@ -611,6 +669,8 @@ Consequently, the All Share Price Index went down by 13.23 points while S and P 
 ...
 
 [Data](articles/c280db54.json)
+
+[Extended Data](ext_articles/c280db54.ext.json)
 
 ---
 
@@ -2219,47 +2279,5 @@ In the meantime, Surya is also involved in the event of Surya's birthday in her 
 [Data](articles/26139711.json)
 
 [Extended Data](ext_articles/26139711.ext.json)
-
----
-
-### UNESCO Director-General calls on President Wickremesinghe
-
-*2024-07-16 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100554/unesco-director-general-calls-on-president-wickremesinghe) · `en`
-
-The Director-General of the United Nations Educational, Scientific and Cultural Organization (UNESCO), Audrey Azoulay, who is currently on a visit to Sri Lanka, has called on President Ranil Wickremesinghe a short while ago at the President’s House in Colombo.
-
-The UNESCO Director-General, who is visiting the island on an invitation from the Government of Sri Lanka, had reached the Bandaranaike International Airport (BIA) in Katunayake this morning (15) accompanied by a delegation.
-
-During her three-day visit, the Director-General of UNESCO is also scheduled to meet and hold discussions with Education Minister Susil Premajayantha, Acting Foreign Affairs Minister Tharaka Balasuriya and other high-level government officials.
-
-Azoulay will take part at the celebration of the 75th Anniversary of Sri Lanka’s Membership of UNESCO at the Nelum Pokuna Theatre and travel to UNESCO World Heritage Sites across the island.
-
-◼️
-
-[Data](articles/2d235fe4.json)
-
-[Extended Data](ext_articles/2d235fe4.ext.json)
-
----
-
-### Consumer confidence in Sri Lanka increased to all-time high in June 2024: survey
-
-*2024-07-16 14:07:00* · [`economynextcom`](https://economynext.com/consumer-confidence-in-sri-lanka-increased-to-all-time-high-in-june-2024-survey-172324/) · `en`
-
-ECONOMYNEXT — Three consumer confidence indices run by an independent polling institute increased to their highest levels since 2021 in June besides remaining at pessimistic levels.
-
-The three indices, generated by the Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS), showered significant increase for June, the institute said.
-
-Their Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and the national economy increased 7 points to 36 points. The Index of Consumer Expectations (ICE), which tracks future perceptions also increased 7 points to 40 points, and the Index of Current Conditions (ICC), a measure of perceptions of current conditions, increased 6 points to 30 points.
-
-“This is the highest indices value recorded since late 2021,” the IHP said.
-
-The Current Buying Conditions measure reached a new peak of 29 points in June, indicating an increased demand for purchases, the institute said.
-
-...
-
-[Data](articles/92f642df.json)
-
-[Extended Data](ext_articles/92f642df.ext.json)
 
 ---

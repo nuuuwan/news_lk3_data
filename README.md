@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 08:37:47**
+As of **2024-07-17 08:54:44**
 
 ## Newspaper Stats
 
-*Scraped **35,653** Articles*
+*Scraped **35,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,113
 tamilmirrorlk | 4,303
 dailymirrorlk | 4,733
 virakesarilk | 5,558
-adaderanasinhalalk | 5,961
+adaderanasinhalalk | 5,962
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,653 (100.0%) of 35,653 articles have been extended.
+35,653 (100.0%) of 35,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ඇසල පෙරහැරට අලි ඇතුන් සැපයීම ගැටලුවක් ?
+
+*2024-07-17 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198896) · `si`
+
+ප්‍රධාන පෙරහැර පහක් එකම දීනයේ යෙදීම හේතුවෙන් කරඬුව වැඩම කරවීම සඳහා දළ ඇතුන් සම්බන්ධ කරවීමේ ගැටලුවක් මතුව ඇති බව හීලෑ අලි ඇතුන් හිමිකරුවන්ගේ සංගමය පවසයි.
+
+එහි ලේකම් දම්සිරි බණ්ඩාර කරුණාරත්න මහතා සඳහන් කළේ, පෙරහැර සඳහා සම්බන්ධ කළ හැකි අලි ඇතුන් ඇත්තේ 70කට ආසන්න සංඛ්‍යාවක් බවය.
+
+"විශේෂයෙන්ම මහනුවර ඇසල පෙරහැර මංගල්‍යයත් සබරගමු මහ සමන් දේවාලයේ පෙරහැර මංගල්‍යයත් එකම දිනවල යෙදීම නිසාත් ඇසල පුන් පොහොය දිනයේ ප්‍රධාන පෙරහැර 5ක එකම දිනක යෙදී තිබීම නිසාත් විශාල ගැටලුවක් වෙලා තියෙනවා අලි ඇතුන් සපයා දීම. එහිදී කරඬුව වැඩම කරවීම හා දේවාභරණ වැඩම කරවීමට දළ ඇතුන් සොයාගැනීම විශාල ගැටලුවක් වෙලා තියෙනවා. දැනට අපිට හීලෑ අලි ඇතුන් 90ක් පමණ ඉන්නේ. එයින් විවිධ හේතු නිසා ඇතුන් ඉවත් කරාට පස්සේ අපිට ඉන්නේ 70කට ආසන්න ප්‍රමාණයක්."
+
+◼️
+
+[Data](articles/854cf630.json)
+
+---
 
 ### The murder cricketer
 
@@ -2263,31 +2279,5 @@ In addition, the court has ordered the police to take action against the police 
 [Data](articles/84283d16.json)
 
 [Extended Data](ext_articles/84283d16.ext.json)
-
----
-
-### The suspect that caught in hand is the flee
-
-*2024-07-16 15:05:47* · [`adalk`](https://www.ada.lk/breaking_news/අතට-අසුවූ-සැකකරු-පලායයි/11-410806) · `si`
-
-In Anuradhapura, a suspect fleeing from police was apprehended during a raid by the Army Intelligence Division. The operation, part of the Police Narcotics Bureau's efforts, uncovered a stash of Kerala cannabis. The suspect claimed abuse before attempting to purchase three kilograms of the drug. Authorities discovered 460 grams more in Sravasthipura, with investigations ongoing into the suspect's arrest.
-
-🟩
-
-The Bureau of the Narchismen has found a stock of Kerala cannabis at a suspect in the Anuradhapura Police Division.
-
-The raid was carried out by the Army Intelligence Division by the Mannar District of the Police Narcotics Bureau in the Mannar area in Anuradhapura.
-
-The suspect buniscounts stated that the suspect was abused by the suspect and fled the officer, while attempting to buy three kilograms of Kerala cannabis.
-
-The police further stated that the suspects were meticted and 460 grams of Kerala cannabis were found in the area of ​​Sravasthipura, Anuradhapura.
-
-A team of officials are investigating the arrest of the suspect.
-
-◼️
-
-[Data](articles/3152ecf2.json)
-
-[Extended Data](ext_articles/3152ecf2.ext.json)
 
 ---

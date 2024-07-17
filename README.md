@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 13:20:08**
+As of **2024-07-17 13:35:44**
 
 ## Newspaper Stats
 
-*Scraped **35,698** Articles*
+*Scraped **35,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 2,027
 economynextcom | 2,123
 dailyftlk | 2,262
 adalk | 3,218
-adaderanalk | 4,122
+adaderanalk | 4,123
 tamilmirrorlk | 4,315
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,969
+adaderanasinhalalk | 5,971
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,698 (100.0%) of 35,698 articles have been extended.
+35,700 (100.0%) of 35,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### Bangladesh shuts universities, colleges indefinitely after protests turn deadly
+
+*2024-07-17 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100577/-bangladesh-shuts-universities-colleges-indefinitely-after-protests-turn-deadly) · `en`
+
+Bangladesh announced it will indefinitely shut down all public and private universities from Wednesday after protests by students against a quota system for government jobs turned deadly this week, leaving at least six people dead and scores injured.
+
+The South Asian nation has been rocked by protests for weeks over public sector job quotas, which include a 30% reservation for family members of freedom fighters from the 1971 War of Independence from Pakistan. It has sparked anger among students who face high youth unemployment rates, with nearly 32 million young Bangladeshis not in work or education out of a total population of 170 million people.
+
+Demonstrations intensified after Prime Minister Sheikh Hasina refused to meet the protesters’ demands, citing ongoing court proceedings, and labelled those opposing the quota as “razakar” - a term used for those who allegedly collaborated with the Pakistani army during the 1971 war.
+
+...
+
+[Data](articles/e6a015d3.json)
+
+---
+
+### Disclosure of the Trump Assassination Plan
+
+*2024-07-17 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198906) · `si`
+
+Iran allegedly plotted to assassinate former US President Donald Trump, but the plot was foiled by a young American, Thomas Matthew, who shot dead the would-be assassin in Pennsylvania. The US authorities are investigating the incident, involving both domestic and Iranian suspects.
+
+🟩
+
+US national security guards say that Iran had been planned on information that Iran was planning former American President Donald Trump.
+
+However, last Saturday, he was targeting a deadlock shot.
+
+The assassination had taken place by a young man named American Thomas Matthew, 20.
+
+US authorities have not yet been identified among the murder plan, which is said to be done by Pennsalvania murder and Iran.
+
+◼️
+
+[Data](articles/d7db03d6.json)
+
+[Extended Data](ext_articles/d7db03d6.ext.json)
+
+---
+
+### Former Cricket Leader's mandate revenge
+
+*2024-07-17 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198905) · `si`
+
+Dhammika Niroshana, former Under-19 Sri Lanka cricket captain, was killed by gunmen using a 12 bore firearm outside his home in Kotawatta, Bogahawatta. The incident occurred around 9:30 pm during a visit to attend a local funeral. Police believe the motive could be related to Dhammika's involvement in gambling protests.
+
+🟩
+
+Dhammika Niroshana, who played a leader of the Under-19 Sri Lankan cricket team, was shot dead last night.
+
+In front of a house in the Kotawatta, Bogahawatta, has shooting around 9.30 pm in front of a house in Kandawatta.
+
+The shooting was shot dead by a 12 bore firearm targeting the homes.
+
+The shooting was hit by the person's head and he died in the spot.
+
+The shooters have been carried out from a lonely land near the house.
+
+The assault was at the time of the residence to attend a funeral of the area.
+
+The murder was a 41 year old father of two known as the "Joneli".
+
+He was also the leader of the Under-19 Sri Lankan cricket team in 2002.
+
+He was later abroad and had been abroad with the objective of abroad.
+
+Dhammika had come out of the house where a resident was informed that a suspicious land was held near the house.
+
+The police suspect that the deceased has been conducting gambling protesters in the deceased and the police have been involved in the murder.
+
+◼️
+
+[Data](articles/7553cace.json)
+
+[Extended Data](ext_articles/7553cace.ext.json)
+
+---
 
 ### The present is the answer to the medical superintendent
 
@@ -2171,67 +2249,5 @@ Subsequently, the next measures are scheduled to be provided with the main funct
 [Data](articles/45b04388.json)
 
 [Extended Data](ext_articles/45b04388.ext.json)
-
----
-
-### 7 out of 44 government CT scans is disabled
-
-*2024-07-16 18:24:59* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-සීටී-ස්කෑන්-යන්ත්‍ර-44න්-7ක්-අක්‍රීයයි/11-410819) · `si`
-
-Seven government hospitals face CT scan issues, affecting patient care. Incidents include breakdowns at Karawanella Base Hospital since February, Match in Ratnapura Hospital for two weeks, and prolonged downtimes at Embilipitiya District General Hospital, Hambantota district's Cancer Treatment Unit, and others. The Society of Radiology mentions delays in disease detection and treatment due to these breakdowns and the lack of modern machines, highlighting the need for better equipment and maintenance to improve healthcare services.
-
-🟩
-
-According to the Government Radiology Technicians Association, the Government Radio Technology Association states that seven incidents have been failed to be blamed.
-
-The union pointed out that the Karawanella Base Hospital, Embilipitiya District General Hospital, Kalutara General Hospital, Kalutara General Hospital, the Colombo General Hospital and the OPD of the Colombo National Hospital.. Karawanella Hospital has broken from 15th February. Transport patients will be transported to the Kegalle General Hospital. The Match in Ratnapura Hospital has been collapsed from 2 weeks and the Embilipitiya District General Hospital.
-
-Accordingly, the CTI of the Cancer Treatment Unit of the Hambantota district and the Embilipitiya district of Cancer Hospital at Hambantota General Hospital has collapsed for more than one year and the machine is collapsed for more than a year and a half a yearThe Society of Radiology states.
-
-...
-
-[Data](articles/0d2e03de.json)
-
-[Extended Data](ext_articles/0d2e03de.ext.json)
-
----
-
-### If Incumbent President Ranil Wickremesinghe thinks he could win because he salvaged the economy from a free fall, he might be overly optimistic. Perhaps he has to rethink his campaign message to make it more palatable to the grassroots. Possibly, he can ask Mahinda Rajapaksa how to do that!
-
-*2024-07-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84393) · `en`
-
-When the country ran out of foreign reserves and fuel queues sprang up, Sri Lankans stormed the President’s House and ousted Gotabaya Rajapaksa. That may be an extreme case, but that was not the first time the street protestors toppled governments when the going got tough.
-
-Dudley Senanayake, the second prime minister, was the first victim of the populist outrage after he increased the price of a measure of rice’ from subsidised 25 cents to 70 cents when it transpired rice subsidy was consuming one-third of all government revenue. Senanayake resigned after the police firing killed a couple of rioters during a mass hartal organised by the left.
-
-However, do Sri Lankans also reward the governments that deliver, or at least make a conscious effort to generate, higher economic growth? History tells no.
-
-...
-
-[Data](articles/aeae0de5.json)
-
-[Extended Data](ext_articles/aeae0de5.ext.json)
-
----
-
-### President Ranil Wickreme-singhe  challenges Samagi Jana Balawegaya (SJB) leader Sajith Premadasa to disclose the source of funding for the party’s ongoing school bus donation program.; says he will collaborate with SJB to combat corruption if it reveals source of funding behind school bus donations
-
-*2024-07-16 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84389) · `en`
-
-President Ranil Wickreme-singhe has challenged Samagi Jana Balawegaya (SJB) leader Sajith Premadasa to disclose the source of funding for the party’s ongoing school bus donation program.
-
-Addressing another public meeting in Kandy under the “Ekwa Jayagamu” (Let’s Win Together) series of rallies over the weekend, President Ranil Wickremesinghe set a condition for joining the Samagi Jana Balawegaya (SJB) led by Sajith Premadasa.
-
-The President said he is ready to collaborate with the SJB to combat corruption, but only if Premadasa discloses the source of funding for the school bus donation program.
-
-He recalled that Harris Leuke Ratwatte was a founding member of the United National Party (UNP) and expressed regret that State Minister Lohan Ratwatte did not follow in his footsteps. “However, Lohan and I are on the same platform today.
-
-That is because we have the strength to save this country, and we love our motherland,” he said.
-
-...
-
-[Data](articles/f9c17817.json)
-
-[Extended Data](ext_articles/f9c17817.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 11:05:57**
+As of **2024-07-17 11:19:54**
 
 ## Newspaper Stats
 
-*Scraped **35,677** Articles*
+*Scraped **35,680** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 317
+dbsjeyarajcom | 318
 colombotelegraphcom | 337
 bbccomsinhala | 348
 newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,118
 dailyftlk | 2,262
-adalk | 3,216
-adaderanalk | 4,119
+adalk | 3,217
+adaderanalk | 4,120
 tamilmirrorlk | 4,308
 dailymirrorlk | 4,733
 virakesarilk | 5,562
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,967
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,673 (100.0%) of 35,677 articles have been extended.
+35,677 (100.0%) of 35,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### SLFP will put forward a candidate for Presidential Election - Maithripala
+
+*2024-07-17 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100574/slfp-will-put-forward-a-candidate-for-presidential-election-maithripala) · `en`
+
+Former President Maithripala Sirisena says that the Sri Lanka Freedom Party (SLFP) will put forward a candidate for the upcoming Presidential Election and that a candidate has already been selected.
+
+He made these remarks in response to questions from journalists following an event held in Colombo yesterday (16).
+
+The former President also emphasized that the Presidential Election must be held as scheduled and that it cannot be postponed under any circumstances.
+
+He warned that if there is an attempt to postpone the election, it could lead to possible bloodshed in the country.
+
+◼️
+
+[Data](articles/aea9c0bf.json)
+
+---
 
 ### At least 25 die in Peruvian Andes after bus plummets off cliff
 
@@ -52,31 +70,43 @@ Company representatives did not respond to Reuters’ requests for comment.
 
 [Data](articles/d0708315.json)
 
+[Extended Data](ext_articles/d0708315.ext.json)
+
 ---
 
-### ඉතිහාසයේ පළමුවරට ඩයිනෝසර් ෆොසිලයක් වෙන්දේසියට
+### Dinoser fossil for the first time in history
 
 *2024-07-17 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198901) · `si`
 
-ඩයිනෝසරයින් සැලකෙන්නේ මීට වසර මිලියන ගණනාවකට පෙර පෘථිවිය මත වාසය කළ බවට සැලකෙන සත්ත්ව විශේෂයකි.
+A Stegosaurus fossil, believed to belong to a family of Stemosaurs, will be auctioned in New York. Discovered in Colorado in 2022, it measures 11 feet in height and 20 feet in length. The fossil, which is 70% complete, is thought to have died naturally, possibly from a collision or predation. Estimated to sell for between $4 to $6 million, this marks the first time such a dinosaur is being auctioned.
 
-මෙම ඩයිනෝසර් ගෝත්‍රයට අයත් ස්ටෙගොසෝරස් නම් ඩයිනෝසර් සත්ත්වයෙකුගේ ෆොසිලයක් අද අමෙරිකාවේ නිව්යෝක්හි දී වෙන්දේසි කිරීමට නියමිතව පවතී.
+🟩
 
-උසින් අඩි 11ක් සහ දිග අඩි 20ක් වන මේ ෆොසිලය නම් කර ඇත්තේ ඇපෙක්ස් ලෙසිනි.
+The dinosaur is considered a species of animal that is considered to dwell on the planet millions of years ago.
 
-ඉතාමත් හොඳ තත්ත්වයෙන් පැවති මෙම ඩයිනෝසර් ෆොසිලය 2022 වසරේ මැයි මාසයේදී සොයාගෙන ඇත්තේ ඩයිනෝසර් ෆොසිල සුලබව හමුව ඇති අමෙරිකාවේ කොලරාඩෝ ප්‍රාන්තයේ මොරිසන් පිහිටීමේ තිබියදීය.
+The fossil of a dinosarus of the Dinosar was to be auctioned in New York today.
 
-එම ෆොසිලයේ සියයට 70ක පමණ අස්ථි කොටස් නිරුපද්‍රිතව හමුවී ඇති අතර පුරාවිද්‍යාඥයින් විශ්වාසය පළකරන්නේ එය ස්වභාවික හේතුවක් මත මියගිය ස්ටෙගොසෝරස් සත්ත්වයෙකුගේ ෆොසිලයක් වන බවය.
+This fossil was 11 feet and 20 feet long and length was named Avarx.
 
-ඔවුන් මෙම විශ්වාසයට එලඹ ඇත්තේ ගැටුමක් හෝ විලෝපිකයෙකුගේ ප්‍රහාරයක් හේතුවෙන් සිදුවිය හැකි අනතුරක සේයාවක් හෝ එම ෆොසිලය පරික්ෂා කිරීමේදී හඳුනා නොගැනීම හේතුවෙනි.
+In May 2022, the dinoser fossil of 2022, the Dinoser Fossil to meet Dinoser fossil vision in Colurado, the US Morrison, in the United States.
 
-ඇපෙක්ස් ෆොසිලය අමෙරිකානු ඩොලර් මිලියන 4ත් 6ත් අතර මිලකට අලෙවි වෙතැයි ඇස්තමේන්තුගත කර තිබේ.
+The fossil is a 70 percent bone stock, and archaeologists believe that it is a fossil of a family of Stemostores, who died on a natural reason.
 
-ඩයිනෝසර් නිදර්ශකයක් මෙලෙස වෙන්දේසියට ඉදිරිපත් වූ පළමු අවස්ථාව ද මෙයයි.
+They have the cause of this belief because of a collid or a predator.
 
-...
+The Apex fossil is estimated to be sold for US $ 4 to 6 million.
+
+This is the first time a Dinoser is the first time a auction.
+
+Stegozores is a dinosar species that is considered to live in the Jurassic Age about 150 million years ago.
+
+The dinosrees have become famous as a vegetation that claimed to a protective skin cover of a protective skin cover.
+
+◼️
 
 [Data](articles/c6375378.json)
+
+[Extended Data](ext_articles/c6375378.ext.json)
 
 ---
 
@@ -96,23 +126,31 @@ The driver of the bus which was travelling from Batticaloa to Colombo was killed
 
 [Data](articles/f0346b0c.json)
 
+[Extended Data](ext_articles/f0346b0c.ext.json)
+
 ---
 
-### දුක - සැප දෙකම තියෙන මෛත්‍රී
+### Maithree with both god
 
 *2024-07-17 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198900) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් කරන බවත් ඒ සඳහා අපේක්ෂකයෙකු තෝරාගෙන ඇති බවත් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+Former President Maithripala Sirisena announced a candidate for Sri Lanka's upcoming presidential election, emphasizing its necessity and warning against postponement due to potential bloodshed.
 
-ඊයේ (16) කොළඹ පැවති වැඩසටහනකින් අනතුරුව මාධ්‍යවේදීන් නැගූ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු ඒ බව සඳහන් කළේය.
+🟩
 
-ජනාධිපතිවරණ අනිවාර්යෙන් පැවැත්විය යුතු බවත් එය කිසිලෙසකත් කල්දැමීමට නොහැකි බවත්  හිටපු ජනාධිපතිවරයා මෙහිදී පෙන්වා දුනි.
+Former President Maithripala Sirisena says that a candidate has been presented to the next presidential election and has been selected for this purpose.
 
-එමෙන්ම ඡන්දය පැවැත්වීම කල්දැමීමට උත්සහාකළ හොත් රට තුළ දහස් ගණනක ලේ වැගිරීම් සිදුවිය හැකි බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා වැඩිදුරටත් පැවසීය.
+He was responding to the questions posed by journalists following a program in Colombo yesterday.
+
+The former President pointed out that the presidential election must be held and that it cannot be postponed.
+
+Former President Maithripala Sirisena added that thousands of bloodshed in the country could take place in the country if he tried to postpone the election.
 
 ◼️
 
 [Data](articles/2f74cef9.json)
+
+[Extended Data](ext_articles/2f74cef9.ext.json)
 
 ---
 
@@ -1666,6 +1704,24 @@ The Geological Survey and Mines Bureau point out that it has recorded 2.7 units 
 
 ---
 
+### දැනට ලැබෙන වී අස්වැන්න නිශ්පාදන වියදමත් පියවා ගන්න බෑ
+
+*2024-07-16 19:00:18* · [`adalk`](https://www.ada.lk/breaking_news/දැනට-ලැබෙන-වී-අස්වැන්න-නිශ්පාදන-වියදමත්-පියවා-ගන්න-බෑ/11-410821) · `si`
+
+බහුතර කුඹුරුවලින් මේ වනවිට ලැබෙන අස්වැන්න හෙක්ටයාරයකට මෙට්‍රික් ටොන් 1 සිට 2.5 දක්වා වන බවත් එසේමඑම ප්‍රමාණය ගොවීන්ට නිෂ්පාදන වියදම හෝ ආවරණය කර ගැනීමට කිසිසේත් ප්‍රමාණවත් නොමැති බවත් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය අනාවරණය කරගෙන තිබේ.
+
+ඒ අනුව මෙරටට අවශ්‍ය සමස්ත සහල් ප්‍රමාණය වී වගා කරන ප්‍රධානතම කෘෂිකාර්මික බලප්‍රදේශ 06කින්වගා කන්න 06ක් තුළ වී නිෂ්පාදනය දෙගුණයක් දක්වා වැඩි කිරීමේ ව්‍යාපෘතියක් ආරම්භ කිරීමට කෘෂිකර්ම අමාත්‍යාංශය සැලසුම් කර තිබේ.
+
+මෙම වැඩපිළිවෙළ 2024 මහ කන්නයේ සිට ආරම්භ කිරීමට නියමිත අතර,එහිදී වැඩිම වී අස්වැන්නක් ලබා දෙන අනුරාධපුර, හම්බන්තොට, පොළොන්නරුව, මහනුවර, අම්පාර හා මොනරාගල කෘෂිකාර්මික බලප්‍රදේශවල කුඹුරු ආශ්‍රිතවවැඩපිළිවෙළ ආරම්භ කිරීමට නියමිතය.
+
+මීට අමතරව හෙක්ටයාර් එකකින් වැඩි අස්වැන්නක් ලබා ගත හැකි තාක්ෂණික ක්‍රමවේදයක් ගොවීන්ට හඳුන්වා දෙන ලෙස විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතා විසින් කෘෂිකර්ම දෙපාර්තමේන්තුවට උපදෙස් දී ඇත.
+
+...
+
+[Data](articles/4f391ac3.json)
+
+---
+
 ### There is no barrier to the presidential election: an official announcement will be made at the end of July;17,140,000 eligible to vote - Elections Commission
 
 *2024-07-16 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188631) · `ta`
@@ -1733,6 +1789,22 @@ Accordingly, the CTI of the Cancer Treatment Unit of the Hambantota district and
 [Data](articles/0d2e03de.json)
 
 [Extended Data](ext_articles/0d2e03de.ext.json)
+
+---
+
+### If Incumbent President Ranil Wickremesinghe thinks he could win because he salvaged the economy from a free fall, he might be overly optimistic. Perhaps he has to rethink his campaign message to make it more palatable to the grassroots. Possibly, he can ask Mahinda Rajapaksa how to do that!
+
+*2024-07-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84393) · `en`
+
+When the country ran out of foreign reserves and fuel queues sprang up, Sri Lankans stormed the President’s House and ousted Gotabaya Rajapaksa. That may be an extreme case, but that was not the first time the street protestors toppled governments when the going got tough.
+
+Dudley Senanayake, the second prime minister, was the first victim of the populist outrage after he increased the price of a measure of rice’ from subsidised 25 cents to 70 cents when it transpired rice subsidy was consuming one-third of all government revenue. Senanayake resigned after the police firing killed a couple of rioters during a mass hartal organised by the left.
+
+However, do Sri Lankans also reward the governments that deliver, or at least make a conscious effort to generate, higher economic growth? History tells no.
+
+...
+
+[Data](articles/aeae0de5.json)
 
 ---
 
@@ -2185,75 +2257,5 @@ He was speaking at a media briefing held today (16).
 [Data](articles/40394b9b.json)
 
 [Extended Data](ext_articles/40394b9b.ext.json)
-
----
-
-### Sri Lanka to increase fines under Criminal Procedure Code
-
-*2024-07-16 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100559/sri-lanka-to-increase-fines-under-criminal-procedure-code) · `en`
-
-The Cabinet of Ministers has approved the proposal to publish the draft bill prepared to increase the fines mentioned in the Criminal Procedure Code, in the government gazette notification and subsequently present it to the Parliament for approval.
-
-The Cabinet of Ministers had given its policy approval on November 27, 2023 to amend the Criminal Procedure Code so that the fines mentioned in the Criminal Procedure Code can be escalated based on the current monitory value.
-
-The Bill prepared accordingly by the Legal Draftsman has received the clearance of the Attorney General, the Cabinet Spokesman said today.
-
-Accordingly, the approval of the Cabinet of Ministers was granted to the proposal furnished by the Minister of Justice, Prison Affairs and Constitutional Reforms to publish the said draft bill in the government gazette notification and subsequently present to the Parliament for its concurrence, he said.
-
-◼️
-
-[Data](articles/dc7f28c9.json)
-
-[Extended Data](ext_articles/dc7f28c9.ext.json)
-
----
-
-### Hardik Pandya withdrew from the series against Sri Lanka?
-
-*2024-07-16 16:33:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கைக்கு-எதிரான-தொடரிலிருந்து-ஹர்திக்-பாண்டியா-விலகினார்/44-340499) · `ta`
-
-Indian cricketer Hardik Pandya will lead the T20 team against Sri Lanka but won't play in the subsequent ODI series.
-
-🟩
-
-It is reported that Indian player Hardik Pandya will not participate in the ODI series against Sri Lanka.
-
-After the T20 World Cup and the Zimbabwei series, the Indian team will go to Sri Lanka in 3 T20s and ODIs. The first T20 starts on July 27. In the following three days (27,28,29) playing all three T20s. Thereafter 50 matches will be held on August 2, 4 and 7.
-
-Hardik Pandya will be the captain of the Indian T20 team to travel to Sri Lanka after Rohit Sharma retired from T20 cricket.
-
-However, Hardik Pandya will not compete in three ODIs after that, a BCCI official said.
-
-◼️
-
-[Data](articles/87818ce7.json)
-
-[Extended Data](ext_articles/87818ce7.ext.json)
-
----
-
-### Blasing at a house in Poultrymyhimaya in Batticaloa
-
-*2024-07-16 16:27:05* · [`adalk`](https://www.ada.lk/picture_story/මඩකලපුව-පූනොච්චිමුනේහි-නිවසක-පිපිරීමක්/10-410810) · `si`
-
-Explosions reported in Poultrymyhimaya, Poinchamun Village, and Tattour Housing Scheme in Batticaloa, causing damage but no casualties. Investigations ongoing by local authorities and military.
-
-🟩
-
-An explosion at Poinchamun Village owned by the Kattankadi police division.
-
-The explosion of the Tattour Housing Scheme was in the restoration village.
-
-It can be observed that the explosion occurred in a room in the flow.Negights said, even though he had no casualties, noise was heard
-
-Those who stayed at home had to go up the ground and broke the hole
-
-The police minister has conducted an inquiry by the police officers in Batticaloa and the army and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/3833229b.json)
-
-[Extended Data](ext_articles/3833229b.ext.json)
 
 ---

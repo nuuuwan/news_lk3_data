@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 16:35:16**
+As of **2024-07-17 16:52:25**
 
 ## Newspaper Stats
 
-*Scraped **35,723** Articles*
+*Scraped **35,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,123
 dailyftlk | 2,262
 adalk | 3,223
 adaderanalk | 4,125
-tamilmirrorlk | 4,318
+tamilmirrorlk | 4,319
 dailymirrorlk | 4,733
 virakesarilk | 5,562
 adaderanasinhalalk | 5,982
@@ -26,25 +26,45 @@ adaderanasinhalalk | 5,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,722 (100.0%) of 35,723 articles have been extended.
+35,723 (100.0%) of 35,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### ඡන්දෙට අදාළව තවත් නියෝගයක් ඉල්ලයි
+### Another order for election requests another order
 
 *2024-07-17 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198919) · `si`
 
-රක්ෂිත බන්ධනාගාරගත කර සිටින සිරකරුවන්ට ඉදිරි ජනාධිපතිවරණ සහ මහමැතිවරණවලදී ඡන්දය ප්‍රකාශ කිරීමට අවශ්‍ය කරන පහසුකම් සලසා දීමට අවශ්‍ය මාර්ගෝපදේශ නිකුත් කරන ලෙස මැතිවරණ කොමිසම වෙත නියෝගයක් නිකුත් කරන  ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක් ඉදිරිපත් කෙරුණි.
+Prisoners in remand custody petitioned the Supreme Court for guidance from the Election Commission regarding voting in upcoming elections. The court case involves Sudesh Nandimal de Silva advocating for prisoner rights, with the Elections Commission and its members listed as respondents.
 
-සිරකරුවන්ගේ අයිතිවාසිකම් වෙනුවෙන් කටයුතු කරන සුදේශ් නන්දිමාල් ද සිල්වා මහතා විසින් පෙත්සම ඉදිරිපත් කර තිබේ.
+🟩
 
-මැතිවරණ කොමිසම සහ එහි සාමාජිකයින් ඇතුළු පිරිසක් වගඋත්තරකරුවන් ලෙස නම් කර තිබේ.
+Prisoners who were remanded in remand custody were presented to the Supreme Court demanding a directive to the Election Commission to issue necessary guidelines to the Election Commission to vote in the next presidential and general election.
+
+Sudesh Nandimal de Silva has presented to the rights of prisoners.
+
+The Elections Commission and its members have been named as respondents.
 
 ◼️
 
 [Data](articles/64b06a67.json)
+
+[Extended Data](ext_articles/64b06a67.ext.json)
+
+---
+
+### ஜனாதிபதி அதிரடி: குழுவை நியமித்தார்
+
+*2024-07-17 16:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அதிரடி-குழுவை-நியமித்தார்/175-340560) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களினதும்  முன்னாள் ஜனாதிபதிகளினதும் பிரத்தியேக பாதுகாப்பு ஏற்பாடுகளை மேற்பார்வை செய்வதற்காக குழுவொன்றை நியமிக்கப்படவுள்ளது.
+
+அத்தகைய சகல பாதுகாப்பு நடவடிக்கைகளையும் ஒருங்கிணைப்பதற்கும்  பிரதிப் பொலிஸ் மா அதிபர் ஒருவரை நியமிப்பதற்கும் பரிந்துரைத்து ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அமைச்சரவைப் பத்திரமொன்று சமர்ப்பிக்கப்பட்டுள்ளது என ஜனாதிபதி ஊடகப் பிரிவு விடுத்துள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d5a2fe4b.json)
 
 ---
 
@@ -2283,21 +2303,5 @@ The murals at Gothami Viharaya, dating back nearly a century, underwent a restor
 [Data](articles/b42c943c.json)
 
 [Extended Data](ext_articles/b42c943c.ext.json)
-
----
-
-### Feverish investor speculation over governmental change stalls bourse
-
-*2024-07-16 22:32:00* · [`islandlk`](http://island.lk/feverish-investor-speculation-over-governmental-change-stalls-bourse/) · `en`
-
-Mixed signals came from the CSE yesterday as some local and foreign investors apparently agonized over what the next presidential election holds for them. ‘Would the next government upset the current status quo of the economy? market analysts quoted them as asking.
-
-Consequently, the All Share Price Index went down by 13.23 points while S and P SL20 rose by 1.56 points. Turnover stood at Rs 1.1` billion with two crossings. Those crossings were reported in Sampath Bank, which crossed 3.1 million shares to the tune of Rs 246 million; its shares traded at Rs 38 and Pan Asian Bank 10.7 million shares crossed for Rs 220 million; its shares traded at Rs 20.50.
-
-...
-
-[Data](articles/c280db54.json)
-
-[Extended Data](ext_articles/c280db54.ext.json)
 
 ---

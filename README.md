@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 02:35:26**
+As of **2024-07-18 02:53:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,793 (100.0%) of 35,794 articles have been extended.
+35,794 (100.0%) of 35,794 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,19 +90,27 @@ Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Hassini Pere
 
 ### 2024-07-17 (Wednesday)
 
-### ’22 இற்கு கருத்துக்கணிப்பை நடத்தவேண்டும்’
+### Conduct a poll for number22
 
 *2024-07-17 23:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-இற்கு-கருத்துக்கணிப்பை-நடத்தவேண்டும்/175-340585) · `ta`
 
-அமைச்சரவையினால் அங்கீகரிக்கப்பட்டுள்ள 22 ஆவது அரசியலமைப்பு திருத்தச் சட்டமூலம் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையினால் நிறைவேற்றப்பட்டாலும் மக்கள் கருத்துக்கணிப்பை நடத்த வேண்டுமென தேர்தல்கள் ஆணைக்குழுவிற்கு ஆலோசனை வழங்க வேண்டிய சூழ்நிலை ஜனாதிபதிக்கு உருவாகுமென சட்டத்தரணிகள் ஒன்றிணைவு தெரிவித்துள்ளது.
+Lawyers oppose the 22nd Amendment Bill, arguing it could lead to election chaos and financial strain. They warn of a crisis due to the dual election process and criticize the lack of urgency to define parliamentary and presidential terms. The bill, passed by a two-thirds majority despite Election Commission advice against a poll, is seen as an attempt to destabilize the electoral system. Lawyers call for unity among democratic forces to counteract what they view as a misuse of power.
 
-அந்த சட்டமூலம் நிறைவேற்றப்பட்டு 30 நாட்களுக்குள் மக்கள் கருத்துக்கணிப்பை நடத்த வேண்டிய சூழ்நிலை உருவாகுமென அந்த அமைப்பு  வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதனூடாக 2 தேர்தல்களை நடத்த வேண்டிய சுமை இலங்கைக்கு ஏற்படுவதுடன், அது நெருக்கடியான நிலையை தோற்றுவிக்குமென சட்டத்தரணிகள் ஒன்றிணைவு எச்சரித்துள்ளது.
+Attorneys' united lawyers have united that the 22nd Amendment Bill approved by the Cabinet has been passed by a two -thirds majority in Parliament, even if the Elections Commission should advise the Elections Commission to hold a poll.
+
+In a statement issued by the organization, the organization said that a situation would be created within 30 days of the bill.
+
+Attorneys have warned that the burden of holding 2 elections will result in a crisis and it will create a crisis.
+
+The Sri Lankan government has repeatedly announced that there is insufficient funds for lawyers who have pointed out that they will spend billions of rupees only to hold a public poll.. In this case, there is no urgent need to define the term of parliament or the president's term, the organization said in a statement.
 
 ...
 
 [Data](articles/d4ed37f8.json)
+
+[Extended Data](ext_articles/d4ed37f8.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 22:35:23**
+As of **2024-07-17 22:53:18**
 
 ## Newspaper Stats
 
-*Scraped **35,785** Articles*
+*Scraped **35,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
-adalk | 3,233
+adalk | 3,234
 adaderanalk | 4,131
-tamilmirrorlk | 4,324
+tamilmirrorlk | 4,325
 dailymirrorlk | 4,733
 virakesarilk | 5,582
 adaderanasinhalalk | 5,989
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,783 (100.0%) of 35,785 articles have been extended.
+35,785 (100.0%) of 35,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ஓமானில் மூழ்கிய கப்பலிலிருந்து இலங்கையரொருவர் மீட்பு
+
+*2024-07-17 22:23:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓமானில்-மூழ்கிய-கப்பலிலிருந்து-இலங்கையரொருவர்-மீட்பு/175-340581) · `ta`
+
+ஓமானில் திங்கட்கிழமை (15) மூழ்கிய பிரஸ்டீச் பல்கொன் கப்பலின் உயிர்காப்புப் படகொன்றிலிருந்து இலங்கையரொருவர், எட்டு இந்தியர்களாக ஒன்பது பேர் மீட்கப்பட்டுள்ளதோடு, ஒருவர் உயிரிழந்த நிலையில் மீட்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6e4697b7.json)
+
+---
 
 ### Decision on water tariff revision expected by end of week - Minister Jeevan
 
@@ -47,6 +59,8 @@ Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman 
 ...
 
 [Data](articles/2abfa3d8.json)
+
+[Extended Data](ext_articles/2abfa3d8.ext.json)
 
 ---
 
@@ -71,6 +85,24 @@ President Ranil Wickremesinghe said that the Western Province is planning to be 
 [Data](articles/9c0df793.json)
 
 [Extended Data](ext_articles/9c0df793.ext.json)
+
+---
+
+### නාවික හමුදා සෙබළෙකු කැති පහරින් මරුට
+
+*2024-07-17 21:58:36* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-සෙබළෙකු-කැති-පහරින්-මරුට/11-410842) · `si`
+
+මාතලේ මහවෙල මිල්ලවාන  ප්‍රදේශයේ  ඇතිවූ ඉඩම් ආරවුලක් දුරදිග යෑමෙන් ඇති වූ ගැටුමකින් නිවාඩු ලබා පැමිණ සිටි නාවික හමුදා සෙබලෙකු  අද(17)දින  මරණයට පත්ව ඇති බව මහවෙල පොලිසිය පවසයි.
+
+අදාල සිද්ධියට අදාළ  ගැටුමේදී මරණයට පත්ව ඇත්තේ මිල්ලවාන පහළ ගම ප්‍රදේශයේ පදිංචි ඉන්දික ප්‍රසාද් බණ්ඩාර නැමති වයස අවුරුදු 45 ක් පමණ වන ශ්‍රී ලංකා නාවික හමුදාවේ පලවි කඳවුරේ සේවයේ නියුතුව සිට නිවාඩු ලබා පැමිණ සිටි සෙබළෙකු වන අතර එම සිද්ධියට අදාළ සැකකරු මහවෙල පොලිසිය වෙත පැමිණ භාර වී ඇති බව පොලිසිය කියයි.
+
+අදාළ සිද්ධියෙන් මරණයට පත්ව ඇති නාවික හමුදා සෙබලා තම නිවසට අයත් ඉඩ මෙහි වැට සකස් කිරීම සිදුකරමින් සිටින අවස්ථාවේදී  එම ඉඩමට යාබද ඉඩමෙහි අයිතිකරු සමග ඇතිවූ බහින් බස්වීමක් දුර දිග යාමෙන් ඇතිව ඇති ගැටුමේදී නාවික හමුදා සෙබළාගේ නිවසට යාබද නිවසේ පුද්ගලයා විසින් කැත්තකින් මූහුන සහ බෙල්ල ප්‍රදේශයට සිදුකරන ලද පහරදීමකින් මෙම මරණය සිදුවන්නට ඇති බවට පොලිසිය සැක කරනු ලබයි.
+
+සිද්ධිය පිළිබඳ වැඩිදුර පරීක්ෂණ කටයුතු මහවෙල පොලිසිය විසින් සිදු කරනු ලබන අතර සිද්ධියට අදාළ සැකකරු හා නඩු භාණ්ඩ මාතලේ අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/6a9df6af.json)
 
 ---
 
@@ -460,21 +492,29 @@ The six were all of Vietnamese ethnicity, two of those U.S. nationals. Police sa
 
 ---
 
-### ට්‍රම්ප්ට එල්ල වූ ප්‍රහාරත් සමග ලංකාවේ ජනපතිවරණ අපේක්ෂකයන්ගේ ආරක්ෂාවත් ඉහළ නැංවීමට යයි
+### With Trump, the President's Presidential Assistance to Sri Lanka
 
 *2024-07-17 18:53:08* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්ට-එල්ල-වූ-ප්‍රහාරත්-සමග-ලංකාවේ-ජනපතිවරණ-අපේක්ෂකයන්ගේ-ආරක්ෂාවත්-ඉහළ-නැංවීමට-යයි/11-410839) · `si`
 
-අධීක්ෂණය කිරීම සඳහා කමිටුවක් පත් කිරීමටත්, එම සියලු ආරක්ෂක කටයුතු සම්බන්ධීකරණය කිරීම සඳහා නියෝජ්‍ය පොලිස්පතිවරයෙකු පත් කිරීමටත් යෝජනා කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අමාත්‍ය මණ්ඩල සංදේශයක් ඉදිරිපත් කර තිබේ.
+Ranil Wickremesinghe appointed a committee to oversee security during Sri Lanka's presidential elections, including monitoring private security measures of candidates. The committee includes the Defense Minister, Chief Minister of Defense Staff, Head of National Intelligence, and Senior DIG (Electorals), aiming to work closely with the Elections Commission to ensure uninterrupted security arrangements.
 
-ඇමෙරිකා එක්සත් ජනපදයේ පෙන්සිල්වේනියා ප්‍රාන්තයේ බට්ලර් හි පැවති ජනාධිපතිවරණ ප්‍රචාරක රැලියක් අතරතුර රිපබ්ලිකන් පක්ෂ ජනාධිපතිවරණ අපේක්ෂක හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතාට එල්ල වූ ප්‍රහාරය සැලකිල්ලට ගනිමින් මෙරට ඉදිරියේදී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන අපේක්ෂකයින්ගේ පුද්ගලික ආරක්ෂාව සහතික කිරීමේ අරමුණින් මෙම යෝජනාව ඉදිරිපත් කර ඇත.
+🟩
 
-ඒ අනුව, ජනාධිපතිවරණයේ නාමයෝජනා පිළිගැනීමෙන් පසුව අදාළ අපේක්ෂකයින්ගේ මෙන්ම හිටපු ජනාධිපතිවරුන්ගේ පුද්ගලික ආරක්ෂක විධිවිධාන අධීක්‍ෂණය කිරීම සඳහා මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයාගේ සභාපතීත්වයෙන් යුතුව මෙම කමිටුව පත් කිරීමට යෝජනා කර තිබේ.
+President Ranil Wickremesinghe has presented a Cabinet Memorandum to appoint a committee to oversee and coordinate all these security activities.
 
-කමිටුවේ සෙසු සාමාජිකයින් ලෙස ආරක්ෂක මාණ්ඩලික ප්‍රධානී, පොලිස්පතිවරයා, ජාතික බුද්ධි ප්‍රධානී සහ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති (මැතිවරණ) නම් කිරීමට යෝජනා කර තිබේ.
+During a presidential election rally in Battle, Donald Trump, the President of the Republic of Republican election campaign in Batler, USA, Presidential presidential election rally was presented with the objective of ensuring the candidates who are contesting for the presidential election.
+
+Accordingly, the committee has proposed appointment to the President of the Ministry of Defense to monitor the private security measures of the candidates as well as the private security measures of the candidates and former presidential election.
+
+The other members of the committee proposes to name the Chief Minister of Defense Staff, NJI, Head of National Intelligence and Senior DIG (electorals).
+
+It has also been proposed to order the Inspector General of Police to coordinate the official Inspector General of Police and the former presidential election.
 
 ...
 
 [Data](articles/3917ba1d.json)
+
+[Extended Data](ext_articles/3917ba1d.ext.json)
 
 ---
 
@@ -2401,63 +2441,5 @@ Company representatives did not respond to Reuters’ requests for comment.
 [Data](articles/d0708315.json)
 
 [Extended Data](ext_articles/d0708315.ext.json)
-
----
-
-### The newly introduced "Blower Queen"
-
-*2024-07-17 10:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/புதிதாக-அறிமுகமான-பிளவர்-குயின்/47-340535) · `ta`
-
-"Blower Queen," a new affordable milk maker, launched in Sri Lanka at Shangrila Hotel, aims to provide quality milk at lower prices, benefiting consumers amid economic challenges.
-
-🟩
-
-The new entire garment of "Blower Queen" has been introduced in the Sri Lankan market. The entire garment was introduced on Monday (15) at Shangrila Hotel, Colombo.
-
-Speaking at the launch event, the Director of the WIN INT Group Company,
-
-This entire garment called "Blower Queen" is a quality healthy milkma. This milk is marketed at a lower fair price than the prices of milkmakers currently found in the market. He said he had introduced the milk at a lower price for the benefit of customers, considering the current economic situation.
-
-◼️
-
-[Data](articles/73e92ad9.json)
-
-[Extended Data](ext_articles/73e92ad9.ext.json)
-
----
-
-### Dinoser fossil for the first time in history
-
-*2024-07-17 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198901) · `si`
-
-A Stegosaurus fossil, believed to belong to a family of Stemosaurs, will be auctioned in New York. Discovered in Colorado in 2022, it measures 11 feet in height and 20 feet in length. The fossil, which is 70% complete, is thought to have died naturally, possibly from a collision or predation. Estimated to sell for between $4 to $6 million, this marks the first time such a dinosaur is being auctioned.
-
-🟩
-
-The dinosaur is considered a species of animal that is considered to dwell on the planet millions of years ago.
-
-The fossil of a dinosarus of the Dinosar was to be auctioned in New York today.
-
-This fossil was 11 feet and 20 feet long and length was named Avarx.
-
-In May 2022, the dinoser fossil of 2022, the Dinoser Fossil to meet Dinoser fossil vision in Colurado, the US Morrison, in the United States.
-
-The fossil is a 70 percent bone stock, and archaeologists believe that it is a fossil of a family of Stemostores, who died on a natural reason.
-
-They have the cause of this belief because of a collid or a predator.
-
-The Apex fossil is estimated to be sold for US $ 4 to 6 million.
-
-This is the first time a Dinoser is the first time a auction.
-
-Stegozores is a dinosar species that is considered to live in the Jurassic Age about 150 million years ago.
-
-The dinosrees have become famous as a vegetation that claimed to a protective skin cover of a protective skin cover.
-
-◼️
-
-[Data](articles/c6375378.json)
-
-[Extended Data](ext_articles/c6375378.ext.json)
 
 ---

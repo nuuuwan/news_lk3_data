@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 17:56:23**
+As of **2024-07-17 18:14:56**
 
 ## Newspaper Stats
 
-*Scraped **35,738** Articles*
+*Scraped **35,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,127
 tamilmirrorlk | 4,320
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,983
+adaderanasinhalalk | 5,984
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,738 (100.0%) of 35,738 articles have been extended.
+35,738 (100.0%) of 35,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ජනාධිපති අපේක්ෂකයා කවුදැයි මහින්දගෙන් ඉඟියක්
+
+*2024-07-17 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198922) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරි ජනාධිපතිවරණයේදී සිය පක්ෂය සමග යෑමට සූදානම් නම් පොදුජන පෙරමුණ සම්පූර්ණයෙන් සහයෝගය ලබාදෙන බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+"මැතිවරණය ජයග්‍රහණය කරගෙන යන වැඩපිළිවෙළ දැන් අපේ අතේ තියෙන්නේ.  සුබ ආරංචිය අපි ජයග්‍රහණය කරනවා. අපේක්ෂකයා දැම්මම තේරෙයි කොච්චර බලගතු කෙනෙක් ද කියලා. අපි හැමදාම ඉදිරිපත් කළේ පොදු අපේක්ෂකයෙක්. ඊළඟට එන්නේ අපේ ආණ්ඩුවක්. ජනාධිපති අපිත් එක්ක යන්න ලෑස්ති නම් අපි සම්පූර්ණයෙන්ම සහයෝගය දෙනවා."
+
+◼️
+
+[Data](articles/51bfa4d6.json)
+
+---
 
 ### New method of issuing passports from this week
 
@@ -340,13 +354,17 @@ Police said the suspects are to be produced before the Mawanella Magistrate's Co
 
 *2024-07-17 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100579/committee-to-conduct-threat-assessments-on-presidential-candidates-ex-presidents) · `en`
 
-President Ranil Wickremesinghe has submitted a Cabinet paper proposing the appointment of a committee to conduct threat assessments on the presidential candidates and former Presidents and to ensure the required security for them.
+In view of the forthcoming Presidential Election, President Ranil Wickremesinghe has submitted a Cabinet paper for the approval of the Cabinet of Ministers to ensure the safety of the candidates.
 
-The Cabinet paper also proposes to appoint a Deputy Inspector General of Police (DIG) to oversee these security arrangements.
+This proposal suggests the appointment of a committee to conduct threat assessments and provide necessary security for Presidential Candidates as well as former Presidents, the President’s Media Division (PMD) said.
 
-The decision has been taken in view of the forthcoming Presidential Election, and to ensure the safety of the candidates, according to the President’s Media Division (PMD).
+The committee will include the Secretary of the Ministry of Public Security as Chair, the Chief of Defence Staff, the Inspector General of Police, the Chief of National Intelligence, and the Senior Deputy Inspector General of Police/Elections.
 
-◼️
+Additionally, a Deputy Inspector General of Police will be appointed to oversee all security arrangements, the statement said.
+
+This proposal comes in light of the recent attack on former U.S. President Donald Trump during a campaign rally in Butler, Pennsylvania, highlighting the pressing need for enhanced security measures.
+
+...
 
 [Data](articles/1ec7b7c0.json)
 
@@ -2317,25 +2335,5 @@ The 2015 presidential election cost 2.7 billion rupees and 4.5 billion rupees in
 [Data](articles/32570b92.json)
 
 [Extended Data](ext_articles/32570b92.ext.json)
-
----
-
-### UNESCO Director meets the President
-
-*2024-07-17 00:07:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுனெஸ்கோ-பணிப்பாளர்-ஜனாதிபதியுடன்-சந்திப்பு/175-340523) · `ta`
-
-UNESCO Director General Odre Azole met with Sri Lankan President Ranil Wickremesinghe at the President's House to celebrate Sri Lanka's 75th year as part of UNESCO. The event also included Prime Minister Dinesh Gunawardena and Ministers of Education and Culture, marking the organization's significant milestone in the country.
-
-🟩
-
-UNESCO's Director General Odre Azole meets President Ranil Wickremesinghe at the President's House to mark Sri Lanka's 75 years of joining the UNESCO.
-
-Prime Minister Dinesh Gunawardena, Minister of Education Dr. Susil Premajayantha and Cultural Minister Vidura Wickramanayake held the 75th anniversary of the UNESCO Organization of Sri Lanka yesterday.. (A)
-
-◼️
-
-[Data](articles/e36cfcbe.json)
-
-[Extended Data](ext_articles/e36cfcbe.ext.json)
 
 ---

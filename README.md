@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 21:55:00**
+As of **2024-07-17 22:08:51**
 
 ## Newspaper Stats
 
-*Scraped **35,780** Articles*
+*Scraped **35,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,62 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
-adalk | 3,231
+adalk | 3,232
 adaderanalk | 4,130
 tamilmirrorlk | 4,324
 dailymirrorlk | 4,733
 virakesarilk | 5,582
-adaderanasinhalalk | 5,987
+adaderanasinhalalk | 5,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,774 (100.0%) of 35,780 articles have been extended.
+35,780 (100.0%) of 35,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### கடவுச்சீட்டு விண்ணப்பதாரர்களுக்கு விஷேட அறிவிப்பு
+### නෞකා අනතුරෙන් අතුරුදන් වූ පිරිසෙන් 09ක් සොයා ගනී
+
+*2024-07-17 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198926) · `si`
+
+අරාබි මුහුදේදී ඉන්ධන ප්‍රවාහන නෞකාවක් අනතුරට ලක්වීමෙන් පසු එහි සිටි කාර්යමණ්ඩලය සොයා සිදුකළ මෙහෙයුම්වලදී පුද්ගලයන් 09 දෙනෙකු බේරාගැනීමට හැකිවී ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+එලෙස බේරාගත් පිරිස අතර ඉන්දියානුවන් 08 දෙනෙකු සහ ශ්‍රී ලාංකිකයෙක් වෙයි.
+
+ඉන්දීය මාධ්‍ය වැඩිදුරටත් වාර්තා කරන්නේ කාර්යමණ්ඩලයේ ඉතිරි 7 දෙනා සොයා මෙහෙයුම් ක්‍රියාත්මක බවයි.
+
+අදාළ නෞකාවේ කාර්යමණ්ඩලයේ පුද්ගලයන් 16 දෙනෙකු සිට තිබූ අතර ඉන් 13 දෙනෙකු ඉන්දීය ජාතිකයින් වන අතර අනෙක් තිදෙනා ශ්‍රී ලාංකිකයන් බව වාර්තා වුණි.
+
+ඉන්ධන ප්‍රවාහන නෞකාව අනතුරට ලක්වී තිබුණේ ඕමානයේ ඩියුකම් වරාය නගරයට නාවික සැතපුම් 25ක් නිරිත දිගින් වූ අරාබි මුහුදේදීය.
+
+◼️
+
+[Data](articles/8722d73a.json)
+
+---
+
+### Special Notice for Passport Applicants
 
 *2024-07-17 21:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-விண்ணப்பதாரர்களுக்கு-விஷேட-அறிவிப்பு/175-340580) · `ta`
 
-கடவுச்சீட்டு விண்ணப்பதாரர்கள், கடவுச்சீட்டினை விண்ணப்பிப்பதற்கு  www.immigration.gov.lk என்ற இணையத்தளத்தின் ஊடாக முன் பதிவு செய்யப்பட வேண்டும் என  குடிவரவு மற்றும் குடியகல்வு திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+The Department of Immigration and Emigration has introduced an online registration process via www.immigration.gov.lk for passport applications. Passports will be issued based on a priority system post-registration. The new system is set to launch this Friday.
 
-ஒன்லைனில் பதிவு செய்ததன் பின்னர் முன்னுரிமை முறையின் படி கடவுச்சீட்டுகள் வழங்கப்படும் என குடிவரவு மற்றும் குடியகல்வு திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இது தொடர்பான புதிய முறை எதிர்வரும் வெள்ளிக்கிழமை முதல் ஆரம்பிக்கப்படவுள்ளதாகவும் குறிப்பிடப்படுகின்றது. R
+The Department of Immigration and Emigration has taken steps to register through the website www.immigration.gov.lk to apply for passport applicants.
+
+The Department of Immigration and Emigration said that passports will be issued according to the priority system after registering online.
+
+It is also reported that the new system will be launched from Friday. Remble
 
 ◼️
 
 [Data](articles/0ca52600.json)
+
+[Extended Data](ext_articles/0ca52600.ext.json)
 
 ---
 
@@ -66,23 +92,31 @@ The centre, however, did not confirm whether the oil or oil products in the vess
 
 [Data](articles/78cf344e.json)
 
+[Extended Data](ext_articles/78cf344e.ext.json)
+
 ---
 
-### மின் கட்டணத் திருத்தத்துடன் நீர் கட்டணமும் திருத்தப்படும் - ஜீவன் தொண்டமான்
+### Water fare will also be revised with electricity tariff - Jeevan Thondaman
 
 *2024-07-17 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188718) · `ta`
 
-புதிய மின் கட்டணத் திருத்தத்திற்கு இணைந்தவகையில், நீர்க் கட்டணத்தைக் குறைப்பது குறித்தும் ஆராயப்பட்டு வருவதாகவும், இந்த வாரத்துக்குள் அது குறித்து தீர்மானம் எடுக்கப்படும் எனவும் நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+Jeevan Thondaman, the Water Supply and Plantation Infrastructure Development Minister, announced that the investigation into reducing water tariffs is underway, influenced by the recent electricity tariff amendment. He highlighted the Water Supply Board's transformation from a monthly loss of Rs 2.8 billion to a profit of 6.2 billion rupees. Expectations are that the reduction in electricity tariffs will lead to lower water bills, considering the decline in interest rates and the impact of dollar values on chemical prices essential for water supply. The minister also discussed the expansion of water connections and the receipt of a $100 million loan from the Asian Development Bank, aiming to further improve the water supply sector.
 
-அத்துடன், மாதாந்தம் 2.8 பில்லியன் ரூபா நட்டத்தை சந்தித்த நீர் வழங்கல் சபையினால் தற்போது 6.2 பில்லியன் ரூபா இலாபத்தை ஈட்ட முடிந்துள்ளதாகவும், அமைச்சர் சுட்டிக்காட்டினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (17) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் ஜீவன் தொண்டமான் இதனைத் தெரிவித்தார்.
+Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that the new electricity tariff amendment is being investigated on the reduction of water tariffs and the decision will be taken within this week.
 
-“மின் கட்டணத்தைக் குறைக்க நடவடிக்கை எடுத்தமைக்காக அமைச்சர் கஞ்சன விஜேசேகரவை பாராட்டுகின்றோம். நீர் விநியோகம் என்பது மின் கட்டணத்தைச் சார்ந்து இருக்கும் துறையாகும். எனவே, நீர் கட்டணத்தை குறைக்க இந்த மின் கட்டண திருத்தம் உதவும் என நம்பப்படுகிறது.
+The Minister also pointed out that the Water Supply Board, which suffered a loss of Rs 2.8 billion per month, has now been able to make a profit of 6.2 billion rupees.
+
+Minister Jeevan Thondaman made this statement at a media briefing held at the Presidential Media Center on Wednesday (17).
+
+“We appreciate Minister Kanjana Wijesekera for taking steps to reduce electricity tariffs. Water supply is the sector that depends on electricity bills. Therefore, it is hoped that this electricity tariff correction will help reduce water bills.
 
 ...
 
 [Data](articles/8a562664.json)
+
+[Extended Data](ext_articles/8a562664.ext.json)
 
 ---
 
@@ -114,25 +148,33 @@ The first match of the Sri Lanka women's group will be held with Bangladesh on t
 
 ---
 
-### விபத்தில் வைத்தியர் உயிரிழந்தார்
+### Doctors died in an accident
 
 *2024-07-17 20:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-வைத்தியர்-உயிரிழந்தார்/175-340578) · `ta`
 
-சிலாபம் வைத்தியசாலையில் கடமையாற்றி வந்த பெண் வைத்தியர் ஒருவர் விபத்தில் படுகாயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளார்.
+In a tragic accident involving a SLTB bus and a cement lorry on the Chilaw-Colombo road, Dr. Sebalika Vanamali, a 37-year-old physician from Natandia-Dungannawa, lost her life while en route to treat victims at Chilaw General Hospital. The incident occurred on the 4th of last month, resulting in 27 injuries, including the doctor herself. After initial treatment at Chilaw Hospital, she was transferred to Colombo National Hospital where she later passed away.
 
-விபத்தில் நாத்தன்டியா - துங்கன்னாவ பிரதேசத்தை சேர்ந்த 37 வயதுடைய செபாலிகா வனமாலி என்ற வைத்தியரே உயிரிழந்துள்ளார்.
+🟩
 
-கடந்த 4ஆம் திகதி காலை சிலாபம் – கொழும்பு வீதியில் மாதம்பே – கலஹிட்டியாவ பகுதியில் இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்தும் சீமெந்து ஏற்றப்பட்ட லொறியும் ஒன்றுடன் ஒன்று மோதி விபத்துக்குள்ளானது.
+A woman who was working at the Chilaw Hospital died after being treated at the Colombo National Hospital.
 
-தேவாலா சந்தியில் இருந்து சிலாபம் திசை நோக்கிச் பயணித்த பேருந்து வேகத்தைக் கட்டுப்படுத்த முடியாமல் புத்தளம் திசை நோக்கிச் சென்ற சீமெந்து லொறியுடன் மோதி விபத்துக்குள்ளானது.
+The 37 -year -old Sebalika Vanamali, a doctor from Natandia - Dungannawa, died in the accident.
 
-விபத்தில் சுமார் 27 பேர் காயமடைந்து சிலாபம் பொது வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டனர்.
+A bus belonging to the Sri Lanka Transport Board (SLTB) and a cement loaded with a lorry crashed into the Chilaw -Colombo road on the 4th of last month.
 
-வைத்தியர் அதே பேருந்தில் சிலாபம் பொது மருத்துவமனைக்கு சென்று கொண்டிருந்த போதே துரதிஷ்டவசமாக விபத்துக்குள்ளானார்.
+The bus that was traveling from the Dewala junction towards Chilaw's direction crashed into a cement lorry that was traveling in Puttalam.
 
-...
+About 27 people were injured in the accident and were admitted to Chilaw General Hospital for treatment.
+
+Unfortunately when the doctor was traveling to the Chilaw General Hospital on the same bus, he crashed.
+
+The injured doctor was taken to Chilaw Hospital for treatment and was transferred to Colombo National Hospital yesterday (15).. Remble
+
+◼️
 
 [Data](articles/901ab3ed.json)
+
+[Extended Data](ext_articles/901ab3ed.ext.json)
 
 ---
 
@@ -182,23 +224,31 @@ On the matter of supporting the President, he clarified, “Not yet, but if the 
 
 ---
 
-### ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்கள் வடக்குகிழக்கு தமிழர்களை தனித்துவமான தேசமாக அங்கீகரிக்கும் தீர்வை முன்வைக்கவேண்டும்-தேசிய கிறிஸ்தவ மன்றம் வேண்டுகோள்
+### Candidates contesting the presidential election must come up with a solution that recognizes the North East Tamils ​​as a unique nation
 
 *2024-07-17 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188717) · `ta`
 
-இலங்கையின் எதிர்வரும் ஜனாதிபதி  தேர்தலில் போட்டியிடும் அனைத்துவேட்பாளர்களும் வடகிழக்கில் உள்ள தமிழர்களை தனித்துமவமான தேசமாக அங்கீகரிக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள இலங்கை தேசிய கிறிஸ்தவ மன்றம் ஐக்கிய இலங்கைக்குள் குறிப்பிடத்தக்க சுயாட்சியையும்,அதிகாரப்பகிர்வையும் வழங்கவேண்டும் என்ற வேண்டுகோளையும் விடுத்துள்ளது.
+The Sri Lanka National Christian Forum urges presidential candidates to address the unique needs of the North East Tamils by advocating for significant autonomy within a unified Sri Lanka. Highlighting the importance of transparency and accountability, the forum calls for an end to the executive presidency, emphasizing the need for political solutions to address the economic crisis and ethnic tensions. It stresses the significance of acknowledging the political roots of the current economic downturn and the necessity of addressing historical injustices, including land grabs and war crimes.
 
-இந்த வருடம் பிற்பகுதியில் ஜனாதிபதி தேர்தல் இடம்பெறவேண்டியதன் அவசியத்தை உயர்நீதிமன்றம் வலியுறுத்தியுள்ளதை இலங்கை தேசிய கிறிஸ்தவ மன்றம் வரவேற்கின்றது.
+🟩
 
-அடிப்படை உரிமைகள், வாக்களிப்பதற்கான உரிமைகள் உள்ளடங்கிய தங்கள் இறைமையை இலங்கை மக்கள் புத்திசாலித்தனதுடனும் பொறுப்புணர்வுடனும் பயன்படுத்தவேண்டும் , என நாங்கள் கேட்டுக்கொள்கின்றோம்.
+The Sri Lanka National Christian Forum has appealed to all the candidates who are contesting the upcoming presidential election in the upcoming presidential election and the Sri Lanka National Christian Forum has called for significant autonomy and power within the united Sri Lanka.
 
-இதற்கு நாடு எதிர்நோக்கியுள்ள அரசியல், பொருளாதாரநெருக்கடிகள் குறித்து மக்களிற்கு தெரியப்படுத்துவதும், அவர்கள் அறிந்திருப்பது அவசியம்.
+The National Christian Forum welcomes the Supreme Court's need to hold the presidential election later this year.
 
-மேலும் அவர்கள்ஜனாதிபதி தேர்தல் அதன் பின்னர் இடம்பெறவுள்ள பொதுத்தேர்தலில் போட்டியிடும்  கட்சிகள் வேட்பாளர்களை விமர்சன அடிப்படையில் மதிப்பிடவேண்டும்.
+We urge the Sri Lankan people to use their sovereignty and responsibility, which includes fundamental rights and rights to vote.
+
+For this, it is important that the people are aware of the political and economic crisis that the country is facing.
+
+Moreover, the parties contesting the general election in the next general election must be rated on a critical basis.
+
+The National Christian Forum of Sri Lanka wants to remind the public that the basic reasons for the current economic crisis that have affected all communities are political.
 
 ...
 
 [Data](articles/e4bf5e69.json)
+
+[Extended Data](ext_articles/e4bf5e69.ext.json)
 
 ---
 
@@ -234,23 +284,31 @@ OIC of Colombo Community Police Headquarters, OIC Manoj Samarasekera,
 
 ---
 
-### ஜனாதிபதி அலுவலகத்தில் பிக்கு ஒருங்கிணைப்புப் பிரிவொன்று ஸ்தாபிப்பு!
+### Establishment of Biku Coordination Division at Presidential Office!
 
 *2024-07-17 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188716) · `ta`
 
-ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் பங்களிப்புடன் மகா சங்கத்தினரின் செத் பிரித் பாராயணத்துக்கு மத்தியில்   இந்த அலுவலகம் புதன்கிழமை (17) காலை திறந்து வைக்கப்பட்டது.
+The Biku Coordination Division at the Presidential Office was inaugurated to address governmental responsibilities regarding the protection and promotion of Buddhism, as advised by President Ranil Wickremesinghe. The office aims to strengthen ties between religious leaders and the government, tackle challenges like idol maintenance and traditional charity teachings, and ensure the President's support in overcoming national economic, social, and cultural issues.
 
-புத்தசாசனத்தைப் பாதுகாத்து முன்னெடுப்பது தொடர்பான அரசியலமைப்பு விதந்துரைகளுக்கு அமைவாக அரசாங்கத்திற்கு வழங்கப்பட்டுள்ள பொறுப்பை உரிய முறையில் நிறைவேற்றும் வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனைக்கமைய இந்த அலுவலகம் ஸ்தாபிக்கப்பட்டுள்ளது.
+🟩
 
-இங்கு விசேட உபதேசமொன்றை நிகழ்த்திய மல்லுவத்து பீட அனுநாயக்க சாஹித்ய சக்ரவர்த்தி கலாநிதி வண. நியங்கொட விஜிதசிறி தேரர்,
+The office was inaugurated on Wednesday morning amidst the Seth Brith recitation of the Maha Sangam with the participation of President's Secretary Saman Ekanayake.
 
-''நாடு எதிர்நோக்கும் பொருளாதார, சமூக, கலாச்சார சவால்களை முறியடித்து இலங்கையை பொருளாதார ரீதியில் வலுவூட்டும் ஜனாதிபதியின் வேலைத் திட்டத்திற்கு  எப்பொழுதும் மகாசங்கத்தினரின் ஆசி கிடைக்கும் என்று குறிப்பிட்டார்.
+The office has been established on the advice of President Ranil Wickremesinghe to fulfill the responsibility of the government in accordance with the Constitutional Councils on the Protecting and Protecting Buddha Sasana.
 
-மகா சங்கத்தினருக்கும் ஆட்சியாளர்களுக்கும் இடையிலான உறவுகளை வலுப்படுத்த  இந்த ஒருங்கிணைப்பு அலுவலகம் உதவும் என்றும் அவர் சுட்டிக்காட்டினார்.
+Malluwathu Petta Anunayaka Sahitya Chakravarti. Niyangoda Vijitasiri Thera,
+
+“He said that the President's program will always be blessed with the President's program of overcoming the economic, social and cultural challenges facing the country.
+
+He pointed out that the Coordinating Office would help strengthen the ties between the Maha Sangam and the rulers.
+
+Ananda Nayaka Thera, Deputy Registrar of Asgiri Pedia Nikaya, Syomo Palivamsika Maha Nikaya, presented a special doctrine and pointed out that the government's intervention was not essential during this period of crisis.
 
 ...
 
 [Data](articles/af64d2d8.json)
+
+[Extended Data](ext_articles/af64d2d8.ext.json)
 
 ---
 
@@ -405,6 +463,24 @@ The minister had promised that the most important issues could be resolved quick
 [Data](articles/b7428cf8.json)
 
 [Extended Data](ext_articles/b7428cf8.ext.json)
+
+---
+
+### පොලිස්පති ධුරයේ කටයුතු කිරිම වැළැක්වුවොත් එය ජනපතිවරණයට ගැටලුවක්
+
+*2024-07-17 18:35:04* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ධුරයේ-කටයුතු-කිරිම-වැළැක්වුවොත්-එය-ජනපතිවරණයට-ගැටලුවක්/11-410836) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධූරයේ කටයුතු කිරීම වළකාලන අතුරු නියෝගය නිකුත් කරනු ලැබුවහොත් ජනාධිපති මැතිවරණයේදී ගැටලු සහගත තත්වයක් උද්ගත විය හැකි යැයි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා ශ්‍රේෂ්ඨාධිකරණයට අද (17) දැනුම් දුන්නේය.
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිධුරයේ පත්වීමට එරෙහිව ගොනුකොට තිබූ මූලික අයිතිවාසිකම් පෙත්සම් කැඳවනු ලැබු අවස්ථාවේදී තෙන්නකෝන් මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා එසේ පැවසීය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන යසන්ත කෝදාගොඩ, මහින්ද සමයවර්ධන සහ අචල වෙන්ගප්පුලි යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ පෙතූසම් සලකා බැලිණි.
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිධුරයේ පත්වීමට එරෙහිව අගරදගුරු මැල්කම් කාදිනල් රංජිත් පියතුමා, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය ඇතුළු පිරිසක් ගොනු කර ඇති මූලික අයිතිවාසිකම් පෙත්සම් වල වගඋත්තරකරුවන් වශයෙන් පොලිසපති දේශබන්දු තෙන්නකෝන් මහතා, ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් ඇතුළු පිරිසක් නම් කර ඇත.
+
+...
+
+[Data](articles/de287cab.json)
 
 ---
 
@@ -2377,45 +2453,5 @@ The statement did not say whether any attempts were made to find out whether exi
 [Data](articles/03c70b84.json)
 
 [Extended Data](ext_articles/03c70b84.ext.json)
-
----
-
-### Sri Lanka Thailand Free Trade Agreement Published
-
-*2024-07-17 10:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-thailand-free-trade-agreement-published-172430/) · `en`
-
-ECONOMYNEXT- Sri Lanka has published a free trade agreement with Thailand which was negotiated with the aim of getting access for exporters up 85 percent of tariff liberalized over 15 years.
-
-Free trade deals also uphold the trading freedoms of the poorest sections of the population, freeing them from the grip of protectionist businesses.
-
-Sri Lanka Thailand Free Trade Agreement would see around 50 percent of tariff lines liberalized when it comes into force but 15 percent of products will be on a negative list, Sri Lanka’s Chief Trade Negotiator K J Weerasinghe told business forum early this year.
-
-Goods on a negative list are subject to import protection to give high profits to domestic producers at the expense of consumers.
-
-Under the Sri Lanka Thailand Free Trade Agreement, the balance 30 percent of tariff lines would be liberalized over 15 years.
-
-...
-
-[Data](articles/ce674eab.json)
-
-[Extended Data](ext_articles/ce674eab.ext.json)
-
----
-
-### Massive accident;Driver's death
-
-*2024-07-17 10:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-விபத்து-சாரதி-மரணம்/175-340531) · `ta`
-
-A tragic accident occurred on Tuesday night as a Royal Express bus en route from Batticaloa to Colombo crashed in Melsiripura, resulting in the driver's death.
-
-🟩
-
-The driver of the bus was killed when a Royal Express bus, which was traveling from Batticaloa to Colombo, crashed in Melsiripura area on Tuesday night.
-
-◼️
-
-[Data](articles/c188177b.json)
-
-[Extended Data](ext_articles/c188177b.ext.json)
 
 ---

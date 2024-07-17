@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 11:35:51**
+As of **2024-07-17 11:55:21**
 
 ## Newspaper Stats
 
-*Scraped **35,681** Articles*
+*Scraped **35,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 337
 bbccomsinhala | 348
 newsfirstlk | 363
 islandlk | 2,027
-economynextcom | 2,118
+economynextcom | 2,123
 dailyftlk | 2,262
 adalk | 3,217
-adaderanalk | 4,120
-tamilmirrorlk | 4,308
+adaderanalk | 4,121
+tamilmirrorlk | 4,312
 dailymirrorlk | 4,733
 virakesarilk | 5,562
 adaderanasinhalalk | 5,968
@@ -26,27 +26,147 @@ adaderanasinhalalk | 5,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,680 (100.0%) of 35,681 articles have been extended.
+35,681 (100.0%) of 35,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### බස් රථයක් ප්‍රපාතයට පෙරළී ජීවිත රැසක් අහිමි වෙයි
+### திறந்த பிடியாணை எம்.பி: பொது வைபவத்தில் பங்கேற்றார்
+
+*2024-07-17 11:39:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/திறந்த-பிடியாணை-எம்-பி-பொது-வைபவத்தில்-பங்கேற்றார்/94-340543) · `ta`
+
+கற்பிட்டி சுற்றுலா நீதவான் நீதிமன்றில் திறந்த பிடியாணை பிறப்பித்த புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர்  அலி சப்ரி ரஹீம், கற்பிட்டி அல் அக்ஷா தேசிய பாடசாலையில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற வைபவமொன்றில் சிறப்பு விருந்தினராக கலந்துகொண்டதாக மக்கள் தெரிவிக்கின்றனர்.
+
+விழா மைதானத்திற்கு பாராளுமன்ற உறுப்பினரை பொலிஸ் உத்தியோகத்தர் அழைத்துச் செல்வதைக் காணக்கூடியதாக இருந்தது.
+
+கற்பிட்டியில் உள்ள அரச சார்பற்ற நிறுவனமொன்றினால் தாக்கல் செய்யப்பட்ட வழக்கு,  புத்தளம் நீதவான் நீதிமன்றத்தில் மூன்று தடவைகள் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது பாராளுமன்ற உறுப்பினர் மூன்று தடவைகளும் நீதிமன்றத்தை தவிர்த்துள்ளார்.
+
+சட்டத்தரணி அல்லது பாராளுமன்ற உறுப்பினரை பிரதிநிதித்துவப்படுத்தாமல் நீதிமன்றத்தை தவிர்த்ததன் அடிப்படையில் உடனடியாக பாராளுமன்ற உறுப்பினரை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்துமாறு மேலதிக மாவட்ட நீதிபதியும் நீதவானுமான திருமதி அயோனா விமலரத்ன கற்பிட்டி பொலிஸாருக்கு உத்தரவிட்டிருந்தார்.  இந்நிகழ்வில், வடமேற்கு மாகாண ஆளுநர்  அஹமட் நசீரும் கலந்துகொண்டார்.
+
+◼️
+
+[Data](articles/a91a0649.json)
+
+---
+
+### மஹிந்த 978, சிறிசேன 557 ஹெலிகொப்டர் பயணங்கள்
+
+*2024-07-17 11:35:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-978-சிறிசேன-557-ஹெலிகொப்டர்-பயணங்கள்/175-340541) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ 2005 மற்றும் 2015 க்கு இடையில் ஜனாதிபதியின் சிறப்புரிமையின் கீழ் விமானப்படை ஹெலிகொப்டர்களைப் பயன்படுத்தி 978 விமான பயணங்களை மேற்கொண்டுள்ளார்.
+
+அத்துடன், முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தனது ஐந்தாண்டு பதவிக்காலத்தில் 557 தடவைகள் பயணித்துள்ளதாக இலங்கை விமானப்படை தலைமையகத்தில் இருந்து பெறப்பட்ட தகவல்கள் தெரிவிக்கின்றன.
+
+தகவல் அறியும் உரிமை ஆணைக்குழுவிடம் எமது சகோதரப் பத்திரிகையான ‘ADA’ செய்த முறையீட்டிற்கு பதிலளிக்கும் வகையில் இந்தத் தரவு வெளியிடப்பட்டது.
+
+◼️
+
+[Data](articles/82e34f64.json)
+
+---
+
+### Teenager killed in car-bike collision in Galgamuwa
+
+*2024-07-17 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100575/teenager-killed-in-car-bike-collision-in-galgamuwa) · `en`
+
+A 19-year-old youth was killed in an accident involving a car and a motorcycle on the Galgamuwa-Anamaduwa Road in the Palukandawa area of the Galgamuwa police division.
+
+The accident had occurred when a car travelling from Anamaduwa towards Galgamuwa had collided with a motorcycle arriving from the opposite direction of the road.
+
+The motorcycle rider who sustained critical injuries following the accident succumbed to his injuries after being admitted to the Galgamuwa Hospital.
+
+The deceased is a 19-year-old resident of the Galgamuwa area.
+
+The woman who was driving the car involved in the accident has been arrested while Galgamuwa Police is conducting further investigations.
+
+◼️
+
+[Data](articles/e7c9c09c.json)
+
+---
+
+### தேர்தல் ஆணைக்குழு  - நிதி அமைச்சின் அதிகாரிகள் சந்திப்பு
+
+*2024-07-17 11:30:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-நிதி-அமைச்சின்-அதிகாரிகள்-சந்திப்பு/175-340540) · `ta`
+
+நிதி அமைச்சின் அதிகாரிகள் மற்றும் தேர்தல்கள் ஆணைக்குழு உறுப்பினர்களுக்கு இடையிலான சந்திப்பொன்று இன்று (17) நடைபெறவுள்ளது.
+
+ஜனாதிபதி தேர்தலை அறிவிக்கும் அதிகாரம் தேர்தல் ஆணைக்குழுவுக்கு கிடைத்துள்ள நிலையில் இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+தேர்தல் தொடர்பான பல அடிப்படை ஆவணங்கள் அச்சடிக்க ஏற்கெனவே ஒப்படைக்கப்பட்டுள்ளதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+அந்த பணத்தை வழங்குவது மற்றும் ஜனாதிபதி தேர்தலுக்காக பணத்தை திறைசேரியில் இருந்து உரிய நேரத்தில் விடுவிப்பது தொடர்பிலான விடயங்கள் இங்கு கலந்துரையாடப்பட உள்ளன.
+
+◼️
+
+[Data](articles/be90520e.json)
+
+---
+
+### மின் கட்டண திருத்தம்; 20% விலை குறைப்பு சாத்தியம்
+
+*2024-07-17 11:25:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-20-விலை-குறைப்பு-சாத்தியம்/175-340537) · `ta`
+
+மின்சார விலை திருத்தத்தை தொடர்ந்து சந்தையில் பொருட்கள் மற்றும் சேவைகளின் விலைகள் சுமார் 20% குறைக்கப்படும் என மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+புதிய மின் கட்டண திருத்தம் ஜூலை 16 முதல் அமலுக்கு வரும் என்றும், அடுத்த திருத்தம் ஒக்டோபர் மாதம் நடைபெறும் என்றும் அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/54ac16f6.json)
+
+---
+
+### Sri Lanka rupee trades at 303.90/304.10 to US dollar, bonds down
+
+*2024-07-17 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-303-90-304-10-to-us-dollar-bonds-lower-172444/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 303.90/304.10 to the US dollar on Wednesday, dealers said, while bonds continued to be bullish.
+
+The rupee closed at 303.70/304.00 to the greenback on Tuesday.
+
+In the secondary market, bond yield rates continued to slide, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.70/80 percent from 10.82/92 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.63/68 percent from 11.65/75 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.77/83 percent from 11.80/90 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.05/10 percent from 12.05/20 percent.
+
+Meanwhile treasury bills were trading lower. 3-month was at 9.65/75, 6-month was 9.80, and 1-year was 9.80/95.
+
+In equities, Colombo’s All Share Price Index opened 4.07 points higher at 11,882, while the S&P SL20 of more liquid stocks opened down at 0.07 percent or 2.41 points to 3,472.
+
+◼️
+
+[Data](articles/1efe4dff.json)
+
+---
+
+### Bus falls into precipice and lose many lives
 
 *2024-07-17 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198902) · `si`
 
-පේරු රාජ්‍යයේ බස් රථයක් ප්‍රපාතයකට පෙරළීමෙන් සිදුවු අනතුරකින් පුද්ගලයින් 23 දෙනෙකු මිය ගොස් තිබේ.
+A Peru state bus fell into a precipice, killing 23 and injuring 14. The accident occurred when the bus was about 656 feet above the ground, with over 40 passengers onboard.
 
-අනතුරින් තවත් පුද්ගලයින් 14 දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-බස් රථය අඩි 656 පමණ ප්‍රපාතයකට පෙරළී ගොස් අනතුර සිදුව ඇති බව සඳහන්ය.
+23 persons have been killed in a catering of a Peru-state bus to a precipice.
 
-අනතුර සිදුවන අවස්ථාවේ දී එහි පුද්ගලයින් 40කට අධික පිරිසක් සිට ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් පවසයි.
+Fourteen persons were injured in the accident, foreign media reports say.
+
+The bus had flimbed about 656 feet in a precipice.
+
+At the time of the accident, over 40 people have been present, foreign media said.
 
 ◼️
 
 [Data](articles/47f4eac5.json)
+
+[Extended Data](ext_articles/47f4eac5.ext.json)
 
 ---
 
@@ -171,6 +291,46 @@ Former President Maithripala Sirisena added that thousands of bloodshed in the c
 [Data](articles/2f74cef9.json)
 
 [Extended Data](ext_articles/2f74cef9.ext.json)
+
+---
+
+### Sri Lanka mulls agency to regulate transport of goods and services on inland waterways
+
+*2024-07-17 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-agency-to-regulate-transport-of-goods-and-services-on-inland-waterways-172292/) · `en`
+
+ECONOMYNEXT – A parliamentary committee have discussed setting up an agency to regulate the transport of goods and services on Sri Lanka’s inland waterways.
+
+The Sectoral Oversight Committee on Energy and Transport met in Parliament recently.
+
+“Since Sri Lanka is an island, transportation by waterways can be encouraged as a remedy to reduce the traffic congestion during the period when office services start in the morning around the city of Colombo,” a Parliament statement said.
+
+Although there had been discussions on how to carry out transportation through waterways for a long time, no formal system had been prepared, Madhura Withanage pointed out.
+
+The statement did not say whether any attempts were made to find out whether existing state agencies could handle the task.
+
+...
+
+[Data](articles/03c70b84.json)
+
+---
+
+### Sri Lanka Thailand Free Trade Agreement Published
+
+*2024-07-17 10:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-thailand-free-trade-agreement-published-172430/) · `en`
+
+ECONOMYNEXT- Sri Lanka has published a free trade agreement with Thailand which was negotiated with the aim of getting access for exporters up 85 percent of tariff liberalized over 15 years.
+
+Free trade deals also uphold the trading freedoms of the poorest sections of the population, freeing them from the grip of protectionist businesses.
+
+Sri Lanka Thailand Free Trade Agreement would see around 50 percent of tariff lines liberalized when it comes into force but 15 percent of products will be on a negative list, Sri Lanka’s Chief Trade Negotiator K J Weerasinghe told business forum early this year.
+
+Goods on a negative list are subject to import protection to give high profits to domestic producers at the expense of consumers.
+
+Under the Sri Lanka Thailand Free Trade Agreement, the balance 30 percent of tariff lines would be liberalized over 15 years.
+
+...
+
+[Data](articles/ce674eab.json)
 
 ---
 
@@ -509,6 +669,24 @@ The arrested person was a 31 year old resident of Aluthmava, Modara Aluthwella.
 [Data](articles/9bab3ea2.json)
 
 [Extended Data](ext_articles/9bab3ea2.ext.json)
+
+---
+
+### World growth at risk from elevated inflation: IMF
+
+*2024-07-17 07:30:00* · [`economynextcom`](https://economynext.com/world-growth-at-risk-from-elevated-inflation-imf-172380/) · `en`
+
+ECONOMYNEXT – World growth is at risk from elevated inflation, which require higher interest rates, the International Monetary Fund said while keeping projections for 2024 at 3.2 percent and slightly raising the 2025 growth by 0.1 percent to 3.3 percent.
+
+“The risk of elevated inflation has raised the prospects of higher-for-even-longer interest rates, which in turn increases external, fiscal, and financial risks,” the IMF said in a July update to its World Economic Output report.
+
+“Persistently high interest rates could raise borrowing costs further and affect financial stability if fiscal improvements do not offset higher real rates amid lower potential growth.
+
+Global inflation went up after economic bureaucrats in the US, UK, Europe and many other countries printed money and states also expanded spending during Coronavirus, using some of the printed money.
+
+...
+
+[Data](articles/ffff50c6.json)
 
 ---
 
@@ -2047,223 +2225,5 @@ The resources required by SLC contributes to this program.
 [Data](articles/aeff1e0a.json)
 
 [Extended Data](ext_articles/aeff1e0a.ext.json)
-
----
-
-### Sri Lanka electricity price cut from strong rupee, coal, correct decisions: Minister
-
-*2024-07-16 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-power-price-cuts-from-strong-rupee-cheaper-coal-correct-decisions-minister-172366/) · `en`
-
-ECONOMYNEXT – Sri Lanka has been able to lower electricity prices in 2024 due to a stronger rupee, lower coal prices and correct decisions made including to raise prices when costs went up, Energy Minister Kanchana Wijesekera said.
-
-From July 2024, electricity prices were cut by as much as 32 percent for households, and 38 percent for small domestic users and about 33 percent for industries and hotels.
-
-Sri Lanka rupee was close to 400 rupees during the economic crises and interest rates were 36 percent, Minister Wijesekera said.
-
-Due to selling below cost, the Ceylon Electricity Board, owed money to the Ceylon Petroleum Corporation, banks, thermal and renewable power producers he said.
-
-The central bank through deflationary policy allowed the rupee to appreciate to around 320 to the US dollar by end 2023 and it is now round 305 to the US dollar.
-
-Meanwhile Minister Wijesekera said many borrowings had been settled from profits made in recent months and interest rates were now down to 15 percent.
-
-...
-
-[Data](articles/a1e59e4f.json)
-
-[Extended Data](ext_articles/a1e59e4f.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 303.70/304.00 to US dollar
-
-*2024-07-16 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-70-304-00-to-us-dollar-172370/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 303.70/304.00 to the US dollar on Tuesday, from 301.90/302.40 to the US dollar on Monday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.82/92 percent, up from 10.80/90 percent.
-
-A bond maturing on 15.12.2027 closed at 11.65/75 percent, down from 11.70/80 percent.
-
-A bond maturing on 01.05.2028 closed at 11.80/90 percent, down from 11.85/90 percent.
-
-A bond maturing on 15.09.2029 closed at 12.05/20 percent, down from 12.10/15 percent.
-
-A bond maturing on 01.10.2032 closed at 12.30/55 percent. (Colombo/Jul16/2024)
-
-◼️
-
-[Data](articles/08c2d3f8.json)
-
-[Extended Data](ext_articles/08c2d3f8.ext.json)
-
----
-
-### Amendment to amend the Article of the Constitution on the President's term
-
-*2024-07-16 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188611) · `ta`
-
-Sri Lanka's Cabinet, in a 2024 meeting, amended Article 83 of its Constitution, replacing "more than six years" with a revised term limit. The change was proposed by the President and approved for publication in the State Gazette, pending parliamentary approval.
-
-🟩
-
-In Article 83 of the Constitution of the Democratic Socialist Republic of Sri Lanka (B), the word 'more than six years' is replaced by the Cabinet meeting held on 2024.07.09 to revise the 83rd Article (b) of the Constitution (B).Has been provided.
-
-The Cabinet has approved the proposal submitted by the President, Justice, Prison Affairs and Constitutional Reorganization Minister to publish the Bill in the State Gazette and subsequently submitted parliamentary approval.
-
-◼️
-
-[Data](articles/0be0d19b.json)
-
-[Extended Data](ext_articles/0be0d19b.ext.json)
-
----
-
-### Sri Lanka stocks close down, Sampath and Pan Asia banks push turnover
-
-*2024-07-16 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-sampath-and-pan-asia-banks-push-turnover-172362/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 0.11 percent, or 13.23 points, at 11,878; while the more liquid S&P SL20 Index closed up 0.03 percent, or 1.11 points, at 3,474.
-
-Turnover was 1 million. Banks and capital goods sectors contributed the most.
-
-“All in all there was mixed signals in the  market today, with the ASPI closing in red, and the S&P in green,” Softlogic Stockbrokers said.
-
-“Market is holding on, though we are yet to see big numbers on the board.”
-
-Two crossings brought in nearly half of the day’s turnover with interest picking up on banking sector counters.
-
-Local activity was seen on Pan Asia Banking Corporation Plc. This was local institutions buying and selling, which contributed Rs256mn to the turnover, and the share closed up at 21.00.
-
-“Investor interest was seen on the banking counters especially from the foreign front.”
-
-...
-
-[Data](articles/5d9979a6.json)
-
-[Extended Data](ext_articles/5d9979a6.ext.json)
-
----
-
-### Opening the image of Umamakeswaran!
-
-*2024-07-16 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188625) · `ta`
-
-The image of K. Umamakeswaran, Secretary of the Tamil Eelam People's Liberation Organization, was unveiled in Vavuniya, with Jaffna MP Dharmalingam Siddharthan presiding over the inauguration. The event saw attendance from various Tamil liberation and national alliance leaders, marking a significant gathering.
-
-🟩
-
-The image of the Secretary of the Tamil Eelam People's Liberation Organization K. Umamakeswaran was opened today (16) to the Vavuniya Manikku Goparasandi.
-
-Jaffna MP Dharmalingam Siddharthan officially inaugurated the image of the Vavuniya District Organizer K. Chandrakulasingham.
-
-The event was attended by many, including the leaders of the Tamil Liberation University, the leaders of the Tamil National Alliance (TNA) and the public organizations.
-
-◼️
-
-[Data](articles/0802d8ff.json)
-
-[Extended Data](ext_articles/0802d8ff.ext.json)
-
----
-
-### Special announcement from the Ministry of Education
-
-*2024-07-16 16:57:49* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-410813) · `si`
-
-The Ministry of Education emphasizes the importance of conscious subjects in regular education, proposing their inclusion across all levels including junior, secondary, and senior secondary education, as well as GCE Ordinary Level. It clarifies that aesthetic subjects can also refer to conscious subjects and assures that higher education sources for these subjects will continue. The ministry aims to address and refute any false claims regarding these educational reforms.
-
-🟩
-
-The Ministry of Education has issued a statement that the conscious subjects are essential as an essential part of normal education according to the proposed educational reforms.
-
-Aesthetic subjects can be further studied in junior, secondary education and senior secondary education and the GCE Ordinary Level and GCE O / L. For Aesthetic subjects can also stand for Aesthetic subjects. Moreover, the source of aesthetic subjects of higher education remain.
-
-The Ministry of Education is acting to exclude the false statements that are suspicious of this.
-
-◼️
-
-[Data](articles/f48b8f54.json)
-
-[Extended Data](ext_articles/f48b8f54.ext.json)
-
----
-
-### Sri Lankan-born baker Tharshan Selvarajah carries Olympic torch in France
-
-*2024-07-16 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100561/sri-lankan-born-baker-tharshan-selvarajah-carries-olympic-torch-in-france) · `en`
-
-Award winning celebrity baker Tharshan Selvarajah made history today as the first Sri Lankan to carry the Olympic Torch for the 2024 Paris Olympics.
-
-A number of French-Sri Lankans had lined the streets of Paris to cheer Tharshan as he carried the Olympic torch according to the Embassy of Sri Lanka in France.
-
-As the Olympic flame had touched down in France from Greece back in May, excitement had brewed for the relay involving 10,000 torchbearers, representing diverse stories of achievement.
-
-Among them shines a Paris-based, Sri Lankan-born baker Tharshan Selvarajah who only arrived in France for the first time in 2006.
-
-Known for his award-winning baguettes, he makes history as the first Sri Lankan torchbearer in the annals of the Olympic Games.
-
-In 2023, the winner of the “Grand Prize of the Traditional French Baguette,” organized by the Paris City Hall, was the baguette made by Tharshan Selvarajah, after which he received the opportunity to supply baguettes to France’s presidential palace.
-
-◼️
-
-[Data](articles/956f8f5b.json)
-
-[Extended Data](ext_articles/956f8f5b.ext.json)
-
----
-
-### Japan's medical administrators scholarship
-
-*2024-07-16 16:49:12* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවේ-වෛද්‍ය-පරිපාලකයන්ට-ශිෂ්‍යත්වයක්/11-410812) · `si`
-
-Selected Sri Lankan medical administrators will receive scholarships from Japan's YLP program for Science in Health Care Administration after completing a year of training at the University of Nagoya. This agreement includes the arrest of Professor Eko Yamamoto and a delegation by the Minister of Health and Industry, Dr. Ramesh Pathirana, and the involvement of Dr. Sunil de Alwis and the Japanese embassy. Future selections are anticipated.
-
-🟩
-
-The selected medical administrators in Sri Lanka have agreed to provide the YLP of Science In Health Care Administration after one year of training since the University of Nagoya.
-
-Accordingly, the university, Professor Eko Yamamoto, including the delegation, was arrested by the Minister of Health and Industry Dr. Ramesh Pathirana yesterday (15).
-
-Dr. Sunil de Alwis, Chairman of the Postgraduate Secretary of the Ministry of Health, medical administrators of the Japanese embassy (PC) has agreed to provide scholarship including training in this year.. ‍
-
-Damada University in Japan, Dr. Kirgis, Kirgis, Kambodia, Cambodia, Kirgis Republic of Kirgis, is Large.
-
-The selections will be selected in the future.
-
-◼️
-
-[Data](articles/022b4163.json)
-
-[Extended Data](ext_articles/022b4163.ext.json)
-
----
-
-### Watch out of the fever between the kids these days
-
-*2024-07-16 16:43:13* · [`adalk`](https://www.ada.lk/breaking_news/මේ-දිනවල-ළමයින්-අතර-පවතින-උණ-ගැන-පරිස්සමෙන්/11-410811) · `si`
-
-Dr. Deepal Perera warns of a rise in coughs among children in Colombo, attributing it to the flu season. He advises immediate vaccination and rest for symptomatic children to prevent further complications, including potential hospitalization. Quick treatment with paracetamol can alleviate symptoms and reduce the risk of severe outcomes.
-
-🟩
-
-Dr. Deepal Perera, Colombo Ridgeway Children's Hospital, has increased the increase in coughs in Colombo.
-
-The pedistout doctor has said this to the Government Official News website.
-
-He said that it would be a immunization for influenza disease in the winter countries.
-
-The children with a symptoms are also sacrificed to prevent the symptoms, whether the symptoms are not allowed to go to the school, school and day care.
-
-If the people mentioned above, it is possible that this can be dangerous, there is a dangerous, causes intensive care units, which can be dangerous.. Dr. Deepal Perera said to be able to relieve the suffering of Paracetamol if the disease was heard quickly.
-
-Later, the children can last a while to reduce their childhood and reduce their childhood.
-
-◼️
-
-[Data](articles/2bedf809.json)
-
-[Extended Data](ext_articles/2bedf809.ext.json)
 
 ---

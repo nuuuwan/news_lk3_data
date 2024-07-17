@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 13:35:44**
+As of **2024-07-17 13:54:57**
 
 ## Newspaper Stats
 
-*Scraped **35,701** Articles*
+*Scraped **35,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 4,123
 tamilmirrorlk | 4,315
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,971
+adaderanasinhalalk | 5,972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,700 (100.0%) of 35,701 articles have been extended.
+35,701 (100.0%) of 35,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ලාංකික ආහාර ජාත්‍යන්තරයට ගෙන ගිය අපේ සවින්ද්‍රි
+
+*2024-07-17 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198907) · `si`
+
+"මාස්ටර් චෙෆ්" ඔස්ට්‍රේලියා 2024 රියැලිටි සූපවේදි තරගාවලියෙන් තුන්වැනි ස්ථානය දිනාගැනීමට ශ්‍රී ලංකිකයෙකු වන සවින්ද්‍රි පෙරේරා සමත්විය.
+
+එහි විශේෂත්වය වන්නේ, ඇය එම තරගය පුරා පිළියෙල කර තිබුණේ ශ්‍රී ලාංකීක ආහාර පානයි.
+
+ශ්‍රී ලංකාවේ උපත ලද සවින්ද්‍රි පෙරේරා ඔස්ට්‍රේලියාවේ ඇඩිලේඩ් නුවරට සංක්‍රමණය වී තිබුණේ වයස අවුරුදු 18දීය.
+
+ඇය මේ වනවිට 30 හැවිරිදි වියේ පසුවන අතර වෘත්තියෙන් බැංකු උපදේශිකාවකි.
+
+කුඩා කල සිටම ශ්‍රී ලාංකේය ආහාර පාන සැකසීම පිළිබඳ තිබූ උනන්දුවක් නිසාම සවින්ද්‍රි ඔස්ට්‍රේලියාවේ මාස්ටර් චෙෆ් තරගාවලියට එක්ව තිබුණි.
+
+එම තරගාවලිය තුළ ඇය සකස්කර තිබුණේ ඇගේ මව පිළියෙළ කළ රසවත් ශ්‍රී ලාංකික ආහාර පාන වර්ගයි.
+
+විශේෂත්වය වන්නේ ළූණු, සුදුළූණු, කරපිංචා වැනි දේශීය කුළු බඩු තමන් පිළියෙල කළ ආහාරවලට ඇය යහමින් එක්කිරීමය.
+
+ඔස්ට්‍රේලියානු Network - 10 රූපවාහිනිය ඔස්සේ විකාශය කෙරෙන "මාස්ටර් චෙෆ්" ඔස්ට්‍රේලියා රියැලිටි සූපවේදි තරගාවලිය සඳහා, ඔස්ට්‍රේලියාව පුරා සිටින තරගකරුවන් පරීක්ෂණ වට සඳහා සහභාගි කරගනු ලබයි.
+
+ඔවුන් සකස්කරන ආහාරවල රස ගුණ අනුව විනිසුරු මඩුල්ලක් විසින් අවසන් පූර්ව වටය සඳහා 50 දෙනෙකු තෝරා ගනී.
+
+...
+
+[Data](articles/7af78453.json)
+
+---
 
 ### Bangladesh shuts universities, colleges indefinitely after protests turn deadly
 
@@ -45,6 +73,8 @@ Demonstrations intensified after Prime Minister Sheikh Hasina refused to meet th
 ...
 
 [Data](articles/e6a015d3.json)
+
+[Extended Data](ext_articles/e6a015d3.ext.json)
 
 ---
 
@@ -2225,29 +2255,5 @@ The Elections Commission has the responsibility to clarify the people on the pre
 [Data](articles/31216e22.json)
 
 [Extended Data](ext_articles/31216e22.ext.json)
-
----
-
-### Teacher Principal is to work
-
-*2024-07-16 18:37:03* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-අකුරට-වැඩ-කරන්න-හිතයි/11-410820) · `si`
-
-The Gururu Pr School Trade Union Alliance announces the government's plan to address issues between teacher principals, parents, and workload. This includes removing non-school day responsibilities and introducing measures to enhance teacher roles and manage school resources effectively.
-
-🟩
-
-The Gururu Pr School Trade Union Alliance states that the government will launch a professional procedure for the letter to resolve problems with teacher principals and parents.
-
-Accordingly, after school hours, the subject is not carried out on weekends and holidays, and the subject of the subject is not eligible.
-
-After school hours, the gurum principals are carrying out a large number of duties in the days and weekends, and the professional measures of the duties will be removed and working in charge of duties for two weeks from 22nd.
-
-Subsequently, the next measures are scheduled to be provided with the main functions of the teachers and demanding a proper collection of school equipment.The Guru Principal Trade Union Alliance states that this course is being carried out.
-
-◼️
-
-[Data](articles/45b04388.json)
-
-[Extended Data](ext_articles/45b04388.ext.json)
 
 ---

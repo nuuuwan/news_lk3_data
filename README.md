@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 02:05:13**
+As of **2024-07-18 02:20:26**
 
 ## Newspaper Stats
 
-*Scraped **35,792** Articles*
+*Scraped **35,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,136
 dailyftlk | 2,262
 adalk | 3,234
 adaderanalk | 4,131
-tamilmirrorlk | 4,327
+tamilmirrorlk | 4,328
 dailymirrorlk | 4,733
 virakesarilk | 5,585
 adaderanasinhalalk | 5,989
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,792 (100.0%) of 35,792 articles have been extended.
+35,792 (100.0%) of 35,793 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,22 @@ Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Hassini Pere
 ---
 
 ### 2024-07-17 (Wednesday)
+
+### ’ரணிலோ, தம்மிக்கவோ கட்சிக்கு அறிவிக்கவில்லை’
+
+*2024-07-17 23:31:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலோ-தம்மிக்கவோ-கட்சிக்கு-அறிவிக்கவில்லை/175-340584) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவோ அல்லது தொழிலதிபர் தம்மிக்க பெரேராவோ அல்லது வேறு எவரும் ஜனாதிபதித் தேர்தலில் போட்டியிடவுள்ளதாக கட்சிக்கு அறிவிக்கவில்லை என  ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுனவில் யார் போட்டியிடுவது என்பது தொடர்பில் ஊடகவியலாளர்கள் வினவியபோதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+வேட்பாளர் தொடர்பில் கருத்துத் தெரிவித்த  ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் செயலாளர் சட்டத்தரணி சாகர காரியவசம், உரிய நேரத்தில் வேட்பாளரின் பெயர் அறிவிப்பார் என்றார்.
+
+◼️
+
+[Data](articles/5bce7dad.json)
+
+---
 
 ### Do not dig and bury the village
 
@@ -2431,25 +2447,5 @@ Things about the issue of money and the release of money from the Treasury for t
 [Data](articles/be90520e.json)
 
 [Extended Data](ext_articles/be90520e.ext.json)
-
----
-
-### Electricity tariff revision;20% of the price reduction is possible
-
-*2024-07-17 11:25:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-20-விலை-குறைப்பு-சாத்தியம்/175-340537) · `ta`
-
-Kanjana Wijesekera, Minister of Power and Energy, announced a 20% reduction in electricity tariffs, effective from July 16, aiming to lower overall market prices. The next adjustment is set for October.
-
-🟩
-
-Minister of Power and Energy Kanjana Wijesekera said that the prices of goods and services in the market will be reduced by about 20% following the revision of electricity prices.
-
-The Minister said that the new electricity tariff amendment will come into effect from July 16 and the next amendment will take place in October.
-
-◼️
-
-[Data](articles/54ac16f6.json)
-
-[Extended Data](ext_articles/54ac16f6.ext.json)
 
 ---

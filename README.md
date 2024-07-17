@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 18:26:38**
+As of **2024-07-17 18:38:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,739 (100.0%) of 35,745 articles have been extended.
+35,745 (100.0%) of 35,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### 18 பொருட்களுக்கு விலை வரம்பு
+### The price limit for 18 items
 
 *2024-07-17 18:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-பொருட்களுக்கு-விலை-வரம்பு/175-340563) · `ta`
 
-இந்த வாரத்திற்கான 18 வகையான அத்தியாவசியப் பொருட்களுக்கான மதிப்பிடப்பட்ட விலை வரம்பு பொதுமக்களுக்கும் வர்த்தக சமூகத்தினருக்கும் தெரிவிக்கும் வகையில் வெளியிடப்பட்டுள்ளதாக நுகர்வோர் விவகார அதிகார சபையின் தலைவர் டி.ஐ. உடுவார தெரிவித்தார்.
+The Chairman of the Consumer Affairs Authority announced price limits for 18 essential items including wheat flour, sugar, lentils, potatoes, onions, chili, eggs, tin fish, rice, and poultry meat. This move aims to ensure consumers can purchase goods at fair prices, benefiting both the public and the trade community.
 
-கோதுமை மா, வெள்ளை சீனி, பருப்பு, உருளைக்கிழங்கு, பெரிய வெங்காயம், சிவப்பு வெங்காயம், காய்ந்த மிளகாய், காய்ந்த மிளகாய், முட்டை, டின் மீன், பச்சை அரிசி, நாட்டு அரிசி மற்றும் கோழி இறைச்சி ஆகியவற்றுக்கான விலை வரம்பு வெளியிடப்பட்டுள்ளதாகவும் தலைவர் தெரிவித்தார்.
+🟩
 
-இந்த விலை வரம்பு நுகர்வோர் மக்களுக்கு தெரியப்படுத்துவதற்காக அறிவிக்கப்படுவதாகவும் சந்தையில் நிலவும் போட்டியின் மூலம் நுகர்வோர் நியாயமான விலையில் பொருட்களை கொள்வனவு செய்ய முடியும் என நம்புவதாகவும் அதிகார சபையின் தலைவர் மேலும் தெரிவித்தார்.
+The Chairman of the Consumer Affairs Affairs Authority (TI) has been released to inform the public and the trade community for the estimated cost of 18 types of essentials this week.. Said Uduvara.
+
+The chairman also said that the price limit for wheat flour, white sugar, lentils, potatoes, large onions, red onion, dried chilli, dried chilli, egg, tin fish, green rice, country rice and poultry meat had been released.
+
+The chairman of the Authority added that the price limit is notified to make consumers to the public and that the market in the market is hoping that consumers can buy goods at reasonable prices.
 
 ◼️
 
 [Data](articles/a6e98b2f.json)
+
+[Extended Data](ext_articles/a6e98b2f.ext.json)
 
 ---
 
@@ -66,6 +72,8 @@ The committee and the designated officer will work closely with the Election Com
 
 [Data](articles/5295594e.json)
 
+[Extended Data](ext_articles/5295594e.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes flat at 303.80/304.00 to US dollar
@@ -85,6 +93,8 @@ A bond maturing on 15.09.2029 closed at 12.05/10 percent, down from 12.05/20 per
 ◼️
 
 [Data](articles/7b64bc44.json)
+
+[Extended Data](ext_articles/7b64bc44.ext.json)
 
 ---
 
@@ -180,6 +190,8 @@ With the exception of Hayleys and a couple of other companies, the counter saw m
 
 [Data](articles/80274596.json)
 
+[Extended Data](ext_articles/80274596.ext.json)
+
 ---
 
 ### New method to apply passports
@@ -244,6 +256,8 @@ Asked about the main opposition the Samagi Jana Balawegaya (SJB) and leftist Nat
 
 [Data](articles/44d21fc5.json)
 
+[Extended Data](ext_articles/44d21fc5.ext.json)
+
 ---
 
 ### Sri Lanka Treasury bill yields drop across maturities
@@ -261,6 +275,8 @@ The 12-month bills fell 14 basis points to 10.07 percent, with all offered 50 bi
 ◼️
 
 [Data](articles/17cfcaf6.json)
+
+[Extended Data](ext_articles/17cfcaf6.ext.json)
 
 ---
 

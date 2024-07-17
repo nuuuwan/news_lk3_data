@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 20:54:55**
+As of **2024-07-17 21:07:23**
 
 ## Newspaper Stats
 
-*Scraped **35,770** Articles*
+*Scraped **35,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
-adalk | 3,230
+adalk | 3,231
 adaderanalk | 4,128
-tamilmirrorlk | 4,321
+tamilmirrorlk | 4,322
 dailymirrorlk | 4,733
 virakesarilk | 5,579
 adaderanasinhalalk | 5,986
@@ -26,35 +26,59 @@ adaderanasinhalalk | 5,986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,769 (100.0%) of 35,770 articles have been extended.
+35,770 (100.0%) of 35,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### දරුවන් යහමගට ගත හැකි හොඳම ක්‍රමය පොලීසිය කියයි
+### சுயேட்சை வேட்பாளராக களமிறங்குகின்றார் ரணில்
+
+*2024-07-17 20:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுயேட்சை-வேட்பாளராக-களமிறங்குகின்றார்-ரணில்/175-340577) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராக போட்டியிடுவாரென ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார தெரிவித்துள்ளார்.
+
+தேர்தல்கள் ஆணைக்குழுவுடனான சந்திப்பின் பின்னர் ஊடகங்களிடம் இதனைக் குறிப்பிட்ட அவர், தேர்தலை மிகக் குறுகிய காலத்திற்குள் நடத்துமாறு தேர்தல்கள் ஆணைக்குழுவைக் கோரியுள்ளதாகவும் குறிப்பிட்டுள்ளார்.
+
+ஐக்கிய மக்கள் சக்தி மற்றும் தேசிய மக்கள் சக்தி ஆகிய கட்சிகளால் ரணில் விக்ரமசிங்கவின் வேட்புமனுவுக்கு எந்த அச்சுறுத்தலும் இல்லை.
+
+எனவே, எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்க அதிக வாக்குகளைப் பெற்று வெற்றியீட்டுவார் என  நம்பிக்கை வெளியிட்டுள்ளார்.. R
+
+◼️
+
+[Data](articles/23b69be8.json)
+
+---
+
+### Police say the best way to take children
 
 *2024-07-17 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198924) · `si`
 
-කුඩා පිරිමි දරුවෙකුට වයෝවෘද්ධ කාන්තාවන් දෙදෙනෙක් අමානුෂික ලෙස පහරදෙන අයුරු දැක්වෙන වීඩියෝවක් පසුගියදා සමාජ මාධ්‍ය ඔස්සේ සංසරණය වුණි.
+In a viral video, two elderly women brutally attack a 6-year-old boy in Sri Lanka. The incident, captured by a neighbor, shocks the community. Four suspects are arrested and remanded until the 22nd. The police aim to prosecute them under Mawanella jurisdiction. The OIC suggests financial cuts as a form of punishment for children, emphasizing the importance of non-physical discipline to prevent future offenses.
 
-පසුව අනාවරණ වී තිබුණේ අරණායක ඇහැළගස්තැන්න ප්‍රදේශයේ වයස අවුරුදු 6ක පිරිමි දරුවෙකුට මෙලෙස අමානුෂික ලෙස පහර දෙන්නේ දරුවාගේ මිත්තනියගේ සහෝදරියන් දෙදෙනෙකු බවය.
+🟩
 
-පහරදීම දරුවාගේ මව ද පසෙක සිට අනුමත කරන අයුරු අදාළ වීඩියෝවෙන් දක්නට ලැබුණි.
+A video of the social media has recently circulated how two elderly women inhumane attacking two elderly women.
 
-මෙම අමානුෂික පහරදීම අසල්වැසි කාන්තාවක විසින් සිය ජංගම දුරකථනය මගින් රූගත කර සමාජ මාධ්‍ය වෙත මුදාහැර තිබුණි.
+Later, there were two sisters of the child who was brutally attacked a 6-year-old boy in Aranayaka Ehelagashthena area.
 
-අත්අඩංගුවට ගත් සැකකාරියන් සිව්දෙනා මාවනැල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව එළඹෙන 22 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+The assailant was found in the video the assassination of the child from the side of the child.
 
-පහර කෑමට ලක්වූ දරුවා මාවනැල්ල අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමට පොලීසිය පියවර ගත්තේය.
+The brutal assault had been filmed by a neighbor's woman and released to the Social Media.
 
-දරුවන් මෙලෙස කෘෘරත්වයට පත් නොකර යහමගට ගැනීම සඳහා වැඩිහිටියන්ට වෙනත් විකල්ප ක්‍රම භාවිත කළ නොහැකිද?
+The four suspects were produced before the Mawanella Magistrate Court and remanded until the 22nd.
 
-ඒ පිළිබඳව පැහැදිලි කළ කොළඹ ප්‍රජා පොලිස් මූලස්ථානයේ ස්ථානාධිපති මනෝජ් සමරසේකර මහතා,
+The police taken action to submit the child who was assaulted to the Mawanella jurisder.
+
+Can adults use other options for adults to avoid making their children to be made up of this?
+
+OIC of Colombo Community Police Headquarters, OIC Manoj Samarasekera,
 
 ...
 
 [Data](articles/8fe6348b.json)
+
+[Extended Data](ext_articles/8fe6348b.ext.json)
 
 ---
 
@@ -209,6 +233,22 @@ The minister had promised that the most important issues could be resolved quick
 [Data](articles/b7428cf8.json)
 
 [Extended Data](ext_articles/b7428cf8.ext.json)
+
+---
+
+### රටේ ආර්ථිකය තවමත් පිහි දාරය මතයි
+
+*2024-07-17 18:08:56* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ආර්ථිකය-තවමත්-පිහි-දාරය-මතයි/11-410834) · `si`
+
+ණය ප්‍රතිව්‍යුහගත කිරීම ගැන ආරංචිය සුබ බව සඳහන් කළද රටේ ආර්ථිකය තිබෙනුයේ තවමත් පිහියෙහි දාරය මත බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+
+කොළඹ විපක්ෂනායක කාර්යාලයේ අද (17දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව  සඳහන් කළේය.එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+&ජාත්‍යන්තර මුල්‍ය අරමුදලේ වැඩපිළිවෙළ සහ ණය ප්‍රතිව්‍යුහගතකරණය එකට යා යුතු බව  ජාත්‍යන්තර මූල්‍ය අරමුදල , රජය සහ ණය හිමියන් එකඟවෙලා තිබෙන්නේ.  නමුත් ජාත්‍යන්තර ණය ප්‍රතිව්‍යුහගතකරණය අවසන් වෙලා නෑ. ද්විපාර්ශ්වික ණය සම්බන්ධයෙන් එකඟතාවකට පැමිණි බව ආණ්ඩුව කිව්වත් ඒ සම්බන්ධයෙක් අත්සන් කරපු ලියවිලි පාර්ලිමේන්තුවට ඉදිරිපත් කරලා නෑ.  ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් වන ආරංචිය තවම ලැබිලා නෑ.  ලැබුණට පස්සේ ඒ ගැන පාර්ලිමේන්තුවේදී සාකච්ඡා කිරීමට තිබෙනවා.
+
+...
+
+[Data](articles/0a418d27.json)
 
 ---
 
@@ -2379,51 +2419,5 @@ According to information received by the Air Force Intelligence Unit, the Colomb
 [Data](articles/faa0043b.json)
 
 [Extended Data](ext_articles/faa0043b.ext.json)
-
----
-
-### “Arjuna must go” Struggle again
-
-*2024-07-17 09:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அர்ஜூனா-செல்ல-வேண்டும்-மீண்டும்-போராட்டம்/71-340526) · `ta`
-
-Dr. Ramanathan Archana, former Medical Superintendent of Chavakachcheri Resource Hospital, faces eviction due to disputes with the hospital staff and management. The situation escalated when the hospital's State Medical Officers' Association threatened mass resignation starting at 8 am if Archana wasn't removed from the hospital housing by the same time. The conflict stems from Archana's leadership style, which allegedly led to unsafe conditions for patients and caused distress among the medical staff. The association calls for public awareness and supports the evacuation of Archana to ensure the hospital's smooth operation and staff safety.
-
-🟩
-
-Former Medical Superintendent of the Chavakachcheri Resource Hospital Ramanathan Archana should be evacuated from the hospital hotel at 8 am today.
-
-If not, the Chavakachcheri Sources Hospital State Medical Officers' Association has warned that they will jump in the workshop from 8 am this morning.
-
-This was revealed in a media statement issued by the Chavakachcheri Resource Hospital Government Medical Officers Association.
-
-The problems of Ramanathan Archana as the Superintendent of the Chavacherry Resource Hospital. Since the misunderstandings of this issue are found among the public, we are in a position to make clarity.
-
-The administrative problem of a personal doctor has affected the overall medical community. Therefore, our expectation is that the public should approach the matter with the knowledge of the truth.
-
-...
-
-[Data](articles/3867e66b.json)
-
-[Extended Data](ext_articles/3867e66b.ext.json)
-
----
-
-### Man arrested with over 1kg of ‘ice’ in Modara
-
-*2024-07-17 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100569/man-arrested-with-over-1kg-of-ice-in-modara) · `en`
-
-A suspect has been arrested by police with more than a kilogram of ‘ice’ drugs, also known as crystal methamphetamine, in the Aluth Mawatha area, Modara.
-
-Police said that the drugs were seized during an operation carried out by the Crime Branch of the Colombo North Division based on information received by the Air Force Intelligence Unit.
-
-At the time of arrest, the suspect was found in possession of 01 kg and 76 grams of ‘ice’ in total.
-
-The arrested suspect has been identified as a 31-year-old resident of Aluth Mawatha area in Modara, said Police.
-
-◼️
-
-[Data](articles/7b6f258d.json)
-
-[Extended Data](ext_articles/7b6f258d.ext.json)
 
 ---

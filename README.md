@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 14:54:40**
+As of **2024-07-17 15:05:53**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 5,975
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,709 (100.0%) of 35,710 articles have been extended.
+35,710 (100.0%) of 35,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### නීතිඥ භාවය අත්හිටවූ පුද්ගලයෙකු රිමාන්ඩ් කෙරේ
+### Person remanded suspended
 
 *2024-07-17 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198910) · `si`
 
-අධිකරණයට අපහාස කිරීමේ චෝදනාවක් සම්බන්ධයෙන් නීතිඥ භාවය අත්හිටුවා තිබෙන පුද්ගලයෙකු රක්ෂිත බන්ධනාගාරගත කිරීමට ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
+The Supreme Court has suspended a person accused of insulting the judiciary, acting on a complaint against the individual.
 
-එම නීතිඥවරයාට එරෙහිව ඉදිරිපත් කර තිබූ පැමිණිල්ලක් සලකා බැලීමෙන් පසුව අධිකරණය මෙම නියෝගය නිකුත් කර ඇත
+🟩
+
+The Supreme Court has ordered a person who has been suspended regarding insulting the judiciary.
+
+The court has issued this order after considering a complaint filed against the lawyer
 
 ◼️
 
 [Data](articles/d838807b.json)
+
+[Extended Data](ext_articles/d838807b.ext.json)
 
 ---
 

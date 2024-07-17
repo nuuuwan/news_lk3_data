@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 14:20:02**
+As of **2024-07-17 14:35:35**
 
 ## Newspaper Stats
 
-*Scraped **35,708** Articles*
+*Scraped **35,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,123
 dailyftlk | 2,262
-adalk | 3,218
+adalk | 3,219
 adaderanalk | 4,124
 tamilmirrorlk | 4,318
 dailymirrorlk | 4,733
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,706 (100.0%) of 35,708 articles have been extended.
+35,708 (100.0%) of 35,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### සිව් හැවිරිදි දැරියගේ සිරුර ළිඳකින් හමුවෙයි
+### The four-year-old girl's body meets a well
 
 *2024-07-17 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198909) · `si`
 
-රුවන්වැල්ල,  කිරිපෝරුව ප්‍රදේශයේ ළිඳක් තුළ තිබී වයස අවුරුදු 4ක කුඩා දැරියකගේ මළ සිරුරක් හමුව තිබේ.
+A 4-year-old girl's body was discovered in a well in Ruwanwella's Mimburuwa area. Witnesses reported seeing her speaking to her unconscious mother before the tragic event. The news broke today, as reported by Ada Derana.
 
-එමෙන්ම ඇගේ කථනාබාධිත මවද සිහිසුන්ව ළිඳ අසල සිටියදී ප්‍රදේශවාසීන් දැක ඇත.
+🟩
 
-අද (17) උදෑසන එම සිදුවීම වාර්තා වූ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+The body of a 4-year-old girl was found in a well in the mimburuwa area in Ruwanwella.
+
+The residents of the area have seen her speaker to the unconscious mother.
+
+The incident was reported today (17), "Ada Derana reporter said.
 
 ◼️
 
 [Data](articles/0644795e.json)
+
+[Extended Data](ext_articles/0644795e.ext.json)
 
 ---
 
@@ -108,21 +114,27 @@ The incident unfolded when a resident had alerted Niroshana regarding a suspicio
 
 ---
 
-### තරු පහේ හෝටල් කාමරයක මරණ 6ක්
+### 6 deaths in a five-star hotel room
 
 *2024-07-17 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198908) · `si`
 
-තායිලන්ත හෝටල් කාමරයක තිබී වියට්නාම සංචාරකයින් 06 දෙනෙකුගේ මළසිරුරු හමුවී තිබේ.
+Six Vietnamese tourists, including Americans with dual citizenship, were found dead in a Thai hotel room from cyanide poisoning. The Thai Prime Minister has ordered a thorough investigation. Reports indicate three women and two men among the victims.
 
-මියගිය පුද්ගලයින් අතර අමෙරිකානු ද්විත්ව පුරවැසිභාවය සහිත පිරිස් ද සිටින බව සඳහන්ය.
+🟩
 
-සයනයිඩ් ශරීරගත වීමෙන් ඔවුන් මියගොස් ඇති අතර තායිලන්ත අගමැතිවරයාගේ නියෝගයෙන් ඒ සම්බන්ධ පුළුල් විමර්ශනයක් ආරම්භ කර තිබෙන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The bodies of six Vietnamese tourists were found in a Thai hotel room.
 
-මියගිය අය අතර කාන්තාවන් තිදෙනෙක් හා පිරිමි පුද්ගලයින් තිදෙනෙක් වන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+It is said that there are America dual citizenship groups among the dead.
+
+The cyanide has died, and the orders of the Prime Minister of Thai Prime Minister have launched a broad investigation.
+
+Foreign media reports that between three women and two male among the dead.
 
 ◼️
 
 [Data](articles/3835fa5e.json)
+
+[Extended Data](ext_articles/3835fa5e.ext.json)
 
 ---
 
@@ -1035,6 +1047,24 @@ He has also held the leadership of the 19th cricket team in Ambalangoda area.
 [Data](articles/4d028a66.json)
 
 [Extended Data](ext_articles/4d028a66.ext.json)
+
+---
+
+### කංජිපානි ලංකාවට ගේන්න බලය පවරන්නැයි හිටපු අයි පී දුමින්ද කියයි
+
+*2024-07-17 07:37:02* · [`adalk`](https://www.ada.lk/breaking_news/කංජිපානි-ලංකාවට-ගේන්න-බලය-පවරන්නැයි-හිටපු-අයි-පී-දුමින්ද-කියයි/11-410823) · `si`
+
+රාජ්‍යතාන්ත්‍රික මට්ටමින් නීත්‍යානුකූල ලිපියක් ලබා දෙන්නේ නම්  මත්ද්‍රව්‍ය ජාවාරම්කරුවකු මෙන්ම පාතාල නායකයෙකු වන කන්ජිපානි ඉම්රාන් ලංකාවට ගෙන ඒමේ හැකියාව තමන්ට තිබෙන බව හිටපු පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා පවසයි.
+
+කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ මර්ධන ඒකකයේ ස්ථානාධිපති ලෙස කටයුතු කළ පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා තමන්ට පාතාලයෙන් මරණ තර්ජන එල්ල වී ඇති බව පවසමින්  මීට සිව් මසකට පමණ ඉහතදී දුමින්ද ජයතිලක මහතා හිටි හැටියේ විදේශගත වී තිබිණි
+
+මේ වන විට ඔහුගේ රාජකාරී වැඩ පොලිස් දෙපාර්තමේන්තුව විසින් තහනමට ලක් කර ඇත
+
+පොලිස් පරීක්ෂක ජයතිලක මහතා ඉකුත් 13 වෙනිදින  මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් මෙන්ම සංවිධානාත්මක අපරාධකරුවෙකු වන කන්ජිපානි ඉම්රාන්ගේ උපන්දින  සාදයට ද එක් වී තිබූ බවට සමාජ මාධ්‍ය ජාලා ඔස්සේද ප්‍රචාරය වී තිබුණු අතර එම ප්‍රචාරයන්ට ද ඔහු මෙලෙස  පිළිතුරු ලබාදී තිබිණි
+
+◼️
+
+[Data](articles/c7a5a0b6.json)
 
 ---
 
@@ -2245,31 +2275,5 @@ During the incident, Arumugam Nitarshan (age 23) from Kilinochchi was injured an
 [Data](articles/9c323595.json)
 
 [Extended Data](ext_articles/9c323595.ext.json)
-
----
-
-### The end of the Kokkuttuvai Human Rights Excavation came to an end;The judiciary ordered the report to report all the events that participated in the excavation
-
-*2024-07-16 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188634) · `ta`
-
-The conclusion of the Kokkuttuvai Human Rights Excavation saw the judiciary mandate comprehensive reporting from all involved parties. Following the workshop's closure on July 16th, the focus shifted to documenting the excavation process, which uncovered 52 human remains along with various personal items. This documentation includes details like age, height, and clothing, among others. The court has emphasized the importance of adhering to international standards in handling the remains and closing the site.
-
-🟩
-
-The Mullaitivu - Kokkuttuwai Human Rights Workshop has been brought to an end on Tuesday 16th July and the excavation of the excavation was partially closed.
-
-At the same time, it is also decided to close the dug up the dug up during the excavation, in the presence of the Missing Bureau and the Relationships of the Disappeared.
-
-In this backdrop, the court has ordered the submission of reports of all parties who participated in the excavation of the Kokkuttuwai Human Rights Group and the case has been issued on August 8.
-
-On June 29, 2023, the Mullaithivu - Kokkuttuwa, the National Water Supply and Drainage Board was identified when the land was excavated with heavy machinery to carry out water.
-
-Subsequent excavations were carried out in the preliminary excavations that were identified as the human body.
-
-...
-
-[Data](articles/9b983b2e.json)
-
-[Extended Data](ext_articles/9b983b2e.ext.json)
 
 ---

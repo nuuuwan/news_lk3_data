@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 18:54:49**
+As of **2024-07-17 19:05:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,745 (100.0%) of 35,747 articles have been extended.
+35,747 (100.0%) of 35,747 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -194,21 +194,27 @@ With the exception of Hayleys and a couple of other companies, the counter saw m
 
 ---
 
-### රාජ්‍ය මූල්‍ය කළමනාකරණ පනතට මුදල් කාරක සභාවේ අනුමැතිය
+### Approval of the Department of Finance Management Act
 
 *2024-07-17 16:51:48* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මූල්‍ය-කළමනාකරණ-පනතට-මුදල්-කාරක-සභාවේ-අනුමැතිය/11-410830) · `si`
 
-රාජ්‍ය මූල්‍ය කළමනාකරණ (PFM) පනත් කෙටුම්පතෙහි අඩංගු කරුණු පිළිබඳ දීර්ඝ සාකච්ඡාවකින් අනතුරුව රජයේ මුදල් පිළිබඳ කාරක සභාව විසින් සලකා බලා අනුමත කරන ලදී.
+The Committee on Public Finance approved the Fiscal Management (PFM) Bill, aimed at improving financial discipline and accountability. It mandates efficient resource allocation to boost public trust and addresses financial management shortcomings. The bill sets a 13% limit on primary expenditures relative to Nominal GDP, sparking debate on its impact on growth and social welfare. Critics argue it restricts Sri Lanka's potential for high-income status, while supporters emphasize its role in enforcing fiscal regulations and promoting sustainability.
 
-ඒ අනුව, මහජන විශ්වාසය වර්ධනය කිරීම පිණිස කාර්යක්ෂම පද්ධතියක් සකස් කිරීම, කාර්යක්ෂම ලෙස සම්පත් වෙන් කිරීම සහතික කිරීම සහ තිරසාර ආර්ථික වර්ධනයට සහාය වීම අරමුණු කරගත් පනත් කෙටුම්පතක් ඉදිරිපත් කිරීමට මුදල් අමාත්‍යාංශය දරන උත්සාහය පිළිබඳව කාරක සභාවේ ප්‍රසාදය හිමිවිය.
+🟩
 
-වත්මන් මුල්‍ය රෙගුලාසි නෛතික රාමුවක් මත පදනම් වුව ද ඒවා ප්‍රමාණවත් නොමැති බව පැමිණ සිටි නිලධාරීහු කාරක සභාව හමුවේ පැවැසුහ. ඒ අනුව වත්මන් රාජ්‍ය මූල්‍ය කළමනාකරණ පිළිවෙත්වල ඇති අඩුපාඩු, ආවේනික දුර්වලතා සහ විනිවිදභාවය සහ වගවීමේ ගැටලු හේතුවෙන්, මූල්‍ය විනය ස්ථාපිත කිරීම සඳහා රාජ්‍ය මූල්‍ය කළමනාකරණ (PFM) පනත් කෙටුම්පත සකස් කර තිබෙනවා බව ඔවුහු වැඩි දුරටත් අදහස දක්වමින් පැවසුහ.
+After a lengthy discussion of the Fiscal Management (PFM) Bill, the Committee on Public Finance was approved.
 
-රජයේ මුදල් පිළිබඳ කාරක සභාව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගරු (ආචාර්ය) හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (11) පාර්ලිමේන්තුවේ දී රැස් වූ අවස්ථාවේදී මෙම පනත් කෙටුම්පත සලකා බලා අනුමත කරන ලදී.
+Accordingly, the Committee commended on the Ministry of Finance to ensure an efficient resource allocation to enhance a system efficiently to enhance public confidence.
+
+The officials in attending the Chairman of the House were found in the face of a legal framework on a legal framework of the current regulations.. Accordingly, the shortcomings of the current state financial management practices, the financial management (PFM) has been prepared to establish financial discipline due to endemic weakness and accountability and accountability issues.
+
+The Committee on Finance Member (Dr.) (Dr.) Harsha De Silva was approved to considune and approved of the bill.
 
 ...
 
 [Data](articles/b93623f7.json)
+
+[Extended Data](ext_articles/b93623f7.ext.json)
 
 ---
 
@@ -278,17 +284,23 @@ Asked about the main opposition the Samagi Jana Balawegaya (SJB) and leftist Nat
 
 ---
 
-### ඊ - පාස්පෝට් ලබන වසරේ සිට
+### E-Passport from next year
 
 *2024-07-17 16:29:48* · [`adalk`](https://www.ada.lk/breaking_news/ඊ---පාස්පෝට්-ලබන-වසරේ-සිට/11-410829) · `si`
 
-ශ්‍රී ලංකාව රජය විසින් ශ්‍රී ලාංකිකයන්ට විද්‍යුත් ගමන් බලපත්‍ර ලබාදීමේ ක්‍රම වේදය ලබන වසරේ ජනවාරි 1 සිට ආරම්භ කිරීමට නියමිත බව ආගමන හා විගමන දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka's Department of Immigration and Emigration announces the introduction of electronic passports for its citizens starting January 1st next year.
 
-ඒ සම්බන්ධයෙන් ආගමන හා විගමන දෙපාර්තමේන්තුව විසින් නිකුත් කළ නිවේදනය
+🟩
+
+The Department of Immigration and Emigration says that Sri Lanka will commence the electronic passport to Sri Lankans from January 1 next year.
+
+Announcement issued by the Department of Immigration and Emigration
 
 ◼️
 
 [Data](articles/2fa598fb.json)
+
+[Extended Data](ext_articles/2fa598fb.ext.json)
 
 ---
 

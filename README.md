@@ -1,36 +1,118 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 10:06:26**
+As of **2024-07-17 10:20:16**
 
 ## Newspaper Stats
 
-*Scraped **35,666** Articles*
+*Scraped **35,673** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 316
+dbsjeyarajcom | 317
 colombotelegraphcom | 337
-bbccomsinhala | 347
+bbccomsinhala | 348
 newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,118
 dailyftlk | 2,262
 adalk | 3,216
-adaderanalk | 4,116
-tamilmirrorlk | 4,306
+adaderanalk | 4,117
+tamilmirrorlk | 4,308
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,963
+adaderanasinhalalk | 5,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,665 (100.0%) of 35,666 articles have been extended.
+35,666 (100.0%) of 35,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### பாரிய விபத்து ; சாரதி மரணம்
+
+*2024-07-17 10:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-விபத்து-சாரதி-மரணம்/175-340531) · `ta`
+
+மட்டக்களப்பில் இருந்து கொழும்பு நோக்கி பயணித்த Royal எக்ஸ்பிரஸ் சொகுசு பஸ் மெல்சிறிபுர பகுதியில் செவ்வாய்க்கிழமை (16) இரவு விபத்துக்குள்ளானதில் பஸ்ஸின் சாரதி உயிரிழந்துள்ளர் .
+
+◼️
+
+[Data](articles/c188177b.json)
+
+---
+
+### Man injured as police open fire at tipper truck
+
+*2024-07-17 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100571/man-injured-as-police-open-fire-at-tipper-truck) · `en`
+
+A person was injured when police fired at a tipper truck that defied police orders to stop at a checkpoint on the Kilinochchi - Punareen Road in the Punchi Paranthan area late last night.
+
+Police stated that despite several signals to stop, the driver continued to drive ahead and also tried to endanger the police officers.
+
+One person traveling in the tipper truck was injured during the shooting.
+
+Both the injured person and another individual had fled the area, but one of them was arrested by the police immediately.
+
+The injured individual was later arrested after being admitted to Kilinochchi Hospital for treatment.
+
+Police have initiated investigations to apprehend the other person who had escaped.
+
+During the incident, police found a total of 2 grams and 100 milligrams of crystal methamphetamine, also known as ‘ice’ drugs, inside the tipper truck.
+
+◼️
+
+[Data](articles/f431ec42.json)
+
+---
+
+### බස් දෙකක් එකිනෙක ගැටී රියදුරෙක් ජීවිතක්ෂයට
+
+*2024-07-17 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198899) · `si`
+
+‍මැල්සිරිපුර, පන්ලියද්ද ප්‍රදේශයේ දී බස් රථ දෙකක් ගැටීමෙන් සිදු වු අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+කොළඹ සිට ත්‍රිකුණාමලය බලා ධාවනය වු බස් රථයක් සහ මඩකලපුව සිට කොළඹ බලා ධාවනය වු බස් රථයක් එකිනෙක ගැටීමෙන් එම අනතුර සිදුව ඇති බව පොලීසිය පැවසුවේය.
+
+මියගොස් ඇත්තේ මඩකලපුව සිට කොළඹ බලා ධාවනය වු බස් රථයේ රියදුරු බව සඳහන්ය.
+
+◼️
+
+[Data](articles/01664766.json)
+
+---
+
+### 'இரண்டு வாரங்களுக்கு சட்டப்படி வேலை'
+
+*2024-07-17 09:53:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/இரண்டு-வாரங்களுக்கு-சட்டப்படி-வேலை/52-340530) · `ta`
+
+எதிர்வரும் 22ஆம் திகதி முதல் இரண்டு வாரங்களுக்கு சட்டப்படி வேலை செய்யும் தொழிற்சங்க நடவடிக்கையில் ஈடுபட ஆசிரியர் - அதிபர் தொழிற்சங்க கூட்டமைப்பு தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/8d196859.json)
+
+---
+
+### කාර් - බයික් අනතුරින් 19 හැවිරිදි තරුණයා මරුට
+
+*2024-07-17 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198898) · `si`
+
+ගල්ගමුව පොලිස් වසමේ ගල්ගමුව ආණමඩුව මාර්ගයේ පළුකන්දෑව ප්‍රදේශයේ දී සිදුවූ අනතුරකින් තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ආණමඩුව දෙස සිට ගල්ගමුව දෙසට ධාවනය වූ කාර් රථයක් ඊ‌ට ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි යතුරුපැදියක ගැටී අනතුර සිදුව තිබුණි.
+
+අනතුරින් බරපතළ තුවාල ලැබු යතුරුපැදිකරු ගල්ගමුව රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ.
+
+කාර් රථයේ රියදුරු වශයෙන් කටයුතු කළ කාන්තාව අත්අඩංගුවට ගෙන ඇති අතර ගල්ගමුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/f91fffb0.json)
+
+---
 
 ### ‘Red’ alert issued over strong winds and rough seas
 
@@ -648,6 +730,32 @@ In response Wickramaratne taking to social media platform X yesterday said such 
 
 ---
 
+### AI උගන්වන්න කතා කරන රටේ වැසිකිළි යන්න බැරිව රෝගී වූ බස්නාහිර පළාතේ දරුවෙක්
+
+*2024-07-17 03:57:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g97dnjkygo) · `si`
+
+AI උගන්වන්න කතා කරන රටේ වැසිකිළි යන්න බැරිව රෝගී වූ බස්නාහිර පළාතේ දරුවෙක්
+
+නව පාසල් අධ්‍යාපන ප්‍රතිසංස්කරණ යටතේ කෘත්‍රිම බුද්ධිය ඉගැන්වීමටත්, ටැබ් පරිගණක ලබා දීමටත් යෝජනා කර ඇති පරිසරයක් තුළ පානදුර ප්‍රදේශයේ ප්‍රධාන පෙළේ පාසලක වැසිකිළිවල අපිරිසුදුභාවය නිසා මුත්‍රා නොකිරීමෙන් රෝගී වූ දරුවෙකු පිළිබඳව බීබීසී සිංහල  සේවයට දැනගන්නට ලැබිණි.
+
+සිද්ධියට මුහුණ දුන් 13 හැවිරිදි දරුවා එම පාසලේ 8 වන ශ්‍රේණියේ ඉගෙනුම ලබයි.
+
+ඔහුගේ සැබෑ නම හෙළි නොකර ප්‍රභාෂ් යන නාමයෙන් මෙතැන් සිට ඔහු හඳුන්වමු.
+
+"අම්මේ මගේ බඩ රිදෙනවා. මුත්‍රා කරන්නත් අමාරුයි," ප්‍රභාෂ් මුලින් ම සිය රෝගී තත්ත්වය සම්බන්ධයෙන් සිය මව දැනුවත් කළේ එලෙසිනි.
+
+එදිනෙදා නිවෙස්වල සේවය කරමින් ජීවිකාව සපයා ගන්නා ඔහුගේ මව සිය පුතුගේ අමාරුකම් ඉවසිය නොහැකි තැන වෛද්‍යවරයෙකු වෙත ප්‍රභාෂ් රැගෙන ගියා ය.
+
+එහිදී, ඇයට දැන ගන්නට ලැබුණේ සිය පුත්‍රයාට මුත්‍රා අඩස්සි තත්ත්වයක් ඇති වී ඇති බව ය.
+
+වෛද්‍යවරයාගේ ප්‍රශ්න කිරීමේදී දරුවා ප්‍රකාශ කර තිබුණේ, පාසලේ වැසිකිළි අපිරිසුදු හෙයින් පාසල නිම වී නිවසට පැමිණෙන තුරු මුත්‍රා නොකර සිටීමට ඔහු පුරුදු වී සිටි බව ය.
+
+...
+
+[Data](articles/109c978d.json)
+
+---
+
 ### Cabinet approval to implement the cyst formula from 2025
 
 *2024-07-17 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188644) · `ta`
@@ -1252,6 +1360,20 @@ In 2023, he became popular with the best bakery manufacturer of French, which pr
 
 ---
 
+### Rajavarothayam Sampanthan: The Political Journey of a “Perunthalaiver” (Great Leader) –  Part 2.
+
+*2024-07-16 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84382) · `en`
+
+The funeral of veteran Tamil political leader Rajavarothayam Sampanthan took place   in Trincomalee on  7th July 2024.Large crowds  bade farewell to the Nonagenarian Trincomalee Parliamentarian who had served as MP for 32 years. Among those who paid homage to Sampanthan  in Trinco was   Sri Lankan President Ranil Wickremesinghe. Earlier  the President along with first lady Dr.Maithree Wickremesinghe had paid their respects in Colombo when the senior Tamil leader’s mortal remains were  kept for viewing at the AF Raymonds funeral parlour.
+
+...
+
+[Data](articles/d7753e5a.json)
+
+[Extended Data](ext_articles/d7753e5a.ext.json)
+
+---
+
 ### Teachers and principals to fight again
 
 *2024-07-16 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198885) · `si`
@@ -1448,19 +1570,27 @@ The Elections Commission has the responsibility to clarify the people on the pre
 
 ---
 
-### ගුරු විදුහල්පති අකුරට වැඩ කරන්න හිතයි
+### Teacher Principal is to work
 
 *2024-07-16 18:37:03* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-අකුරට-වැඩ-කරන්න-හිතයි/11-410820) · `si`
 
-ගුරු විදුහල්පතිවරුන්ට හා දෙමාපියන්ට ඇති වී තිබෙන ගැටලු විසඳීමට ආණ්ඩුව කටයුතු නොකරන නිසා මේ මස 22  වැනි දින සිට අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගයක් ආරම්භ කරන බව ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+The Gururu Pr School Trade Union Alliance announces the government's plan to address issues between teacher principals, parents, and workload. This includes removing non-school day responsibilities and introducing measures to enhance teacher roles and manage school resources effectively.
 
-මේ අනුව පාසල් වේලාවෙන් පසු ද, සති අන්තයේ දිනවල හා නිවාඩු දිනවලද විෂය පරිබාහිර කටයුතු සිදුනොකරන බවත්, වට්ස් ඇප් සමූහ හරහා බලධාරීන් සමග රාජකාරි කටයුතු සිදුකිරීමේ කටයුතුවලින්ද ඉවත්වන බවත් එම සන්ධානය පෙන්වා දෙයි.
+🟩
 
-පාසල් වේලාවෙන් පසු, නිවාඩු දිනවල හා සති අන්තයේ දිනවල ගුරු විදුහල්පතිවරුන් රාජකාරි විශාල ප්‍රමාණයක් සිදුකරන බවත්, අදාළ ගැටලු විසඳන ලෙස ඉල්ලා මේ මස 22 වැනි දින සිට සති දෙකක කාලයක් පරිබාහිර රාජකාරිවලින් ඉවත් වී අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ග සිදුකරන බවත් ඔවුහු සඳහන් කරති.
+The Gururu Pr School Trade Union Alliance states that the government will launch a professional procedure for the letter to resolve problems with teacher principals and parents.
 
-...
+Accordingly, after school hours, the subject is not carried out on weekends and holidays, and the subject of the subject is not eligible.
+
+After school hours, the gurum principals are carrying out a large number of duties in the days and weekends, and the professional measures of the duties will be removed and working in charge of duties for two weeks from 22nd.
+
+Subsequently, the next measures are scheduled to be provided with the main functions of the teachers and demanding a proper collection of school equipment.The Guru Principal Trade Union Alliance states that this course is being carried out.
+
+◼️
 
 [Data](articles/45b04388.json)
+
+[Extended Data](ext_articles/45b04388.ext.json)
 
 ---
 
@@ -1483,6 +1613,26 @@ Accordingly, the CTI of the Cancer Treatment Unit of the Hambantota district and
 [Data](articles/0d2e03de.json)
 
 [Extended Data](ext_articles/0d2e03de.ext.json)
+
+---
+
+### President Ranil Wickreme-singhe  challenges Samagi Jana Balawegaya (SJB) leader Sajith Premadasa to disclose the source of funding for the party’s ongoing school bus donation program.; says he will collaborate with SJB to combat corruption if it reveals source of funding behind school bus donations
+
+*2024-07-16 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84389) · `en`
+
+President Ranil Wickreme-singhe has challenged Samagi Jana Balawegaya (SJB) leader Sajith Premadasa to disclose the source of funding for the party’s ongoing school bus donation program.
+
+Addressing another public meeting in Kandy under the “Ekwa Jayagamu” (Let’s Win Together) series of rallies over the weekend, President Ranil Wickremesinghe set a condition for joining the Samagi Jana Balawegaya (SJB) led by Sajith Premadasa.
+
+The President said he is ready to collaborate with the SJB to combat corruption, but only if Premadasa discloses the source of funding for the school bus donation program.
+
+He recalled that Harris Leuke Ratwatte was a founding member of the United National Party (UNP) and expressed regret that State Minister Lohan Ratwatte did not follow in his footsteps. “However, Lohan and I are on the same platform today.
+
+That is because we have the strength to save this country, and we love our motherland,” he said.
+
+...
+
+[Data](articles/f9c17817.json)
 
 ---
 
@@ -2093,185 +2243,5 @@ He also said that the Sri Lankan embassy in Oman is to look into the missing Sri
 [Data](articles/e34a3c39.json)
 
 [Extended Data](ext_articles/e34a3c39.ext.json)
-
----
-
-### Dayasiri orders two complaints
-
-*2024-07-16 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198878) · `si`
-
-Colombo District Court postponed two complaints against MP Dayasiri Jayasekera due to missing documents from the respondent. The complaints, filed over a party verdict while he was Secretary General of the Sri Lanka Freedom Party, were set to have interim demands announced but were delayed until further documentation is provided.
-
-🟩
-
-The Colombo District Court sentenced two complaints filed against MP Dayasiri Jayasekera on the 23rd of this month.
-
-He had filed the complaints against the verdict that was taken as the Secretary General of Sri Lanka Freedom Party.
-
-The interim demands of these complaints were to be announced today (16).
-
-However, the judge stated that the document filed by the respondent was not included in the file.
-
-Accordingly, the permitted court to file the relevant documents, the case was ordered to be summoned again on the 23rd.
-
-◼️
-
-[Data](articles/4871d9b6.json)
-
-[Extended Data](ext_articles/4871d9b6.ext.json)
-
----
-
-### Bail for doctor Archana;Facial prohibition
-
-*2024-07-16 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188616) · `ta`
-
-Doctor Archana, facing five cases in the Chavakachcheri Magistrate's Court, was granted bail after investigations. She must decide whether to return to the hospital and refrain from commenting on the case. Additionally, she instructed other doctors to provide affidavits at the police station regarding the case.
-
-🟩
-
-The Chavakachcheri Magistrate's Judge has been granted bail and conditions of the Chavakachcheri Magistrate's Judge of the Jaffna Chavakachcheri Hospital.
-
-Five cases have been filed in the Chavakachcheri Magistrate's Court against the former Medical Superintendent of the Chavakachcheri Hospital Ramanathan Archana.
-
-Investigations on them were held at the House on Tuesday (16). During that time, the doctor was present.
-
-In the wake of the case, the doctor has released a bail of 75 thousand rupees, and the conditions have been issued to go to the hospital or not to comment on the court case or not to comment on the case.
-
-At the same time, doctor Archana ordered the other doctors to go to the Chavakachcheri Police Station with evidence and give the affidavits.
-
-In addition, the police have been asked to take action against the police station and fail to submit the evidence.
-
-◼️
-
-[Data](articles/476bf23c.json)
-
-[Extended Data](ext_articles/476bf23c.ext.json)
-
----
-
-### Sri Lanka Kelaniya land for BoI housing project
-
-*2024-07-16 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-kelaniya-land-for-boi-housing-project-172357/) · `en`
-
-ECONOMYNEXT – An 8-acre land at Vedamulla, Kelaniya under the Sri Lanka Land Development Corporation will be provided for a Board of Investment approved housing project to H M K Property Developers (Pvt) Ltd, a government statement said.
-
-Cabinet approved the proposal to provide a portion of land 8 acres 2 rood 16.26 perches in extent “identified for implementation of the proposed project to the said company on the current assessment by the Chief Assessor of the Government.”
-
-Approval was previously given at a Cabinet Sub Committee meeting on Investment Promotion to provide a 12-acre plot of land for the project.
-
-However, since H M K Property Developers (Pvt) Ltd had failed to comply with relevant agreements, the land was not released to the company.
-
-“A request has been again made by the HMK Property Developers (PM) Ltd through the Board of Investment of Sri Lanka to obtain the said portion of land for implementation of a housing project under 3 stages.” (Colombo/Jul16/2024)
-
-◼️
-
-[Data](articles/e1551518.json)
-
-[Extended Data](ext_articles/e1551518.ext.json)
-
----
-
-### The bride girl caught the vehicle
-
-*2024-07-16 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198877) · `si`
-
-In a tragic accident near Kollupitiya, a bridal couple was involved in a collision between their vehicle and a car and motorcycle. Five people, including the bride, were injured. The mishap happened as the wedding party was traveling from Bambalapitiya to Kollupitiya.
-
-🟩
-
-Kollupitiya has been accidental in another car and motorcycle accident.
-
-Five persons including the bridic were injured in the accident yesterday.
-
-The briditary couple has been traveling from Bambalapitiya to Kollpitiya and the accident occurred due to an error in the wedding vehicle.
-
-◼️
-
-[Data](articles/df869be3.json)
-
-[Extended Data](ext_articles/df869be3.ext.json)
-
----
-
-### Kenyan suspect confesses to murdering 42 women
-
-*2024-07-16 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100557/kenyan-suspect-confesses-to-murdering-42-women) · `en`
-
-Since Friday, nine butchered bodies trussed up in plastic bags have been hauled from the site of an abandoned quarry in the Mukuru slum, a gruesome discovery that has horrified the nation.
-
-Acting Inspector General of Police Douglas Kanja said the 33-year-old suspect, named as Collins Jumaisi Khalusha, was arrested at around 3:00am (0000 GMT) near a Nairobi bar where he had been watching the Euro 2024 football final.
-
-“We are dealing with a serial killer, a psychopathic serial killer who has no respect for human life,” the head of the Directorate of Criminal Investigations (DCI) Mohamed Amin told reporters. “We are dealing with a vampire, a psychopath.”
-
-Amin said Khalusha claimed the murders took place between 2022 and July 11 this year.
-
-...
-
-[Data](articles/b7559655.json)
-
-[Extended Data](ext_articles/b7559655.ext.json)
-
----
-
-### A Visionary Leader Misunderstood; The Unrecognized Contributions Of Ranil Wickremesinghe
-
-*2024-07-16 15:48:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-visionary-leader-misunderstood-the-unrecognized-contributions-of-ranil-wickremesinghe/) · `en`
-
-In the annals of Sri Lankan politics, few figures have remained as enigmatic and underappreciated as Ranil Wickremesinghe. His political journey began in 1977 when he first assumed office as a Member of Parliament. Over the decades, he has stood out as a distinctive figure, often preferring to let his work speak for itself rather than seeking personal glory. This self-effacing approach, while noble, may have been his Achilles’ heel in a political landscape where visibility and recognition are paramount.
-
-...
-
-[Data](articles/35627c61.json)
-
-[Extended Data](ext_articles/35627c61.ext.json)
-
----
-
-### The government is trying to manipulate the election systems - the lawyers' organization demands the opposition of democratic forces
-
-*2024-07-16 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188612) · `ta`
-
-The government faces criticism from a lawyers' group over alleged election system manipulation. The group opposes constitutional amendments, citing potential chaos from holding two elections within 30 days due to a proposed change. They argue against reducing presidential and parliamentary term limits, accusing the legislature of causing unnecessary disruptions to the electoral process.
-
-🟩
-
-Attorneys' unity said that there is no need to make changes in the constitution.
-
-The Attorneys' Organization said that if the 22nd Amendment to the Constitution granted by the Cabinet is passed with a two -thirds majority, the Presidential Election Commissioner will be asked to conduct a sum of 30 days.
-
-This is why the country will be forced to face two national elections, which will cause a chaos after one election, the lawyers' organization said.
-
-The government has stated that it has no funding to hold a joint government election, claiming that billions of billions will be required to conduct a universal payment.
-
-The lawyers' organization said that there is no need to reduce the ceiling of the president and parliament, and that the proposed amendment may be disturbed by the unnecessary issues and disrupting the electoral process.
-
-The lawyers' organization, which has accused the legislature of manipulating the proposed Bill, has appealed to the democratic forces to oppose it.
-
-◼️
-
-[Data](articles/1c6c3339.json)
-
-[Extended Data](ext_articles/1c6c3339.ext.json)
-
----
-
-### Prices of multiple food items reduced
-
-*2024-07-16 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100556/prices-of-multiple-food-items-reduced) · `en`
-
-The All-Ceylon Restaurant Owners’ Association says that a decision has been taken to reduce the prices of multiple food items effective from midnight today (16) as a result of the reduction in electricity tariffs.
-
-President of the association Harshana Rukshan stated that accordingly the price of a normal rice parcel will go down by Rs. 25.
-
-Meanwhile, prices of ‘Fried Rice’ and ‘Kottu’ will also be reduced by Rs. 25, while the prices of ‘Parathas’, ‘Egg Rotis’ and short eats will be reduced by Rs. 10.
-
-Accordingly, he requested the restaurant owners to make necessary arrangements to provide this relief to all the customers across the island.
-
-◼️
-
-[Data](articles/5db53393.json)
-
-[Extended Data](ext_articles/5db53393.ext.json)
 
 ---

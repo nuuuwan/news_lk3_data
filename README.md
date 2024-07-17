@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 23:20:17**
+As of **2024-07-17 23:35:42**
 
 ## Newspaper Stats
 
-*Scraped **35,787** Articles*
+*Scraped **35,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 3,234
 adaderanalk | 4,131
 tamilmirrorlk | 4,325
 dailymirrorlk | 4,733
-virakesarilk | 5,582
+virakesarilk | 5,583
 adaderanasinhalalk | 5,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,787 (100.0%) of 35,787 articles have been extended.
+35,787 (100.0%) of 35,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### சுகாதார அமைச்சர் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு விஜயம்!
+
+*2024-07-17 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188720) · `ta`
+
+சுகாதார அமைச்சர் ரமேஷ் பத்திரன உள்ளிட்ட சுகாதார அமைச்சின் அதிகாரிகள் அடங்கிய குழு யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு புதன்கிழமை (17) விஜயம் செய்தனர்.
+
+அத்தோடு விடுதிகள் சத்திர சிகிச்சை பிரிவுகளையும் பார்வையிட்டதோடு யாழ்ப்பாணம் போதனா வைத்தியசாலையின் அரும்பொருட் காட்சியகத்தையும் பார்வையிட்டார்.
+
+அத்தோடு குருதி மாற்றுச் சிகிச்சைக்கான உபகரணம் ஒன்றையும் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு வழங்கி வைத்தார்.
+
+அமைச்சரின் இந்த விஜயத்தின் போது சுகாதார அமைச்சின் செயலாளர் RD.P.G.மகிபால மற்றும் Dr.அசேல குணவர்த்தன பாராளுமன்ற உறுப்பினர்களான அங்கயன் இராமநாதன், தர்மலிங்கம் சிர்த்தார்தன், யாழ் போதனா வைத்தியசாலையின் பணிப்பாளர் தங்கமுத்து சத்திய மூர்த்தி  வைத்தியசாலையின் அதிகாரிகள் பணியாளர்கள் எனப்பலரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/82b6f22a.json)
+
+---
 
 ### Sri Lankans rescue from a ship drowned in Oman
 
@@ -2429,29 +2447,5 @@ He warned that if there is an attempt to postpone the election, it could lead to
 [Data](articles/aea9c0bf.json)
 
 [Extended Data](ext_articles/aea9c0bf.ext.json)
-
----
-
-### At least 25 die in Peruvian Andes after bus plummets off cliff
-
-*2024-07-17 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100573/at-least-25-die-in-peruvian-andes-after-bus-plummets-off-cliff) · `en`
-
-At least 25 people were killed and 17 injured in Peru on Tuesday after a bus crashed while traveling through a mountainous area, according to Ayacucho’s regional health department.
-
-The bus skidded off a highway in Peru’s Andean Ayacucho region at dawn, overturning and plummeting down a slope of about 200 meters, Jhonny Rolando Valderrama, head of the highway protection division, told state news agency Andina.
-
-Valderrama said the accident occurred on the Los Libertadores highway in Ayacucho in the south-central Andes and that rescue work was ongoing.
-
-By early afternoon, a top police officer said early information indicated there were 42 passengers in the bus.
-
-Peru’s ground transportation superintendent SUTRAN said in a statement the bus belongs to local company Turismo Molina Union SAC and that it has initiated an investigation.
-
-Company representatives did not respond to Reuters’ requests for comment.
-
-...
-
-[Data](articles/d0708315.json)
-
-[Extended Data](ext_articles/d0708315.ext.json)
 
 ---

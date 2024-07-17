@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 05:20:13**
+As of **2024-07-17 05:38:20**
 
 ## Newspaper Stats
 
-*Scraped **35,631** Articles*
+*Scraped **35,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 347
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,118
-dailyftlk | 2,257
+dailyftlk | 2,258
 adalk | 3,214
 adaderanalk | 4,113
 tamilmirrorlk | 4,300
@@ -26,11 +26,25 @@ adaderanasinhalalk | 5,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,629 (100.0%) of 35,631 articles have been extended.
+35,631 (100.0%) of 35,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### Business case for ESG in a stabilising economy
+
+*2024-07-17 05:12:01* · [`dailyftlk`](https://www.ft.lk/columns/Business-case-for-ESG-in-a-stabilising-economy/4-764362) · `en`
+
+Embracing ESG principles represents more than just a corporate responsibility — it is a strategic investment with long-term benefits
+
+As Sri Lanka navigates its current state of economic recovery—while anticipating elections and looming political change — the corporate sector has a significant opportunity to strengthen their businesses and further contribute towards a stabilising economy.
+
+...
+
+[Data](articles/58a3f570.json)
+
+---
 
 ### Establishing a Climate Change Fund: Crucial step for Sri Lanka’s economic future
 
@@ -41,6 +55,8 @@ Sri Lanka is at a critical juncture. Ranked 116th out of 182 countries on the cl
 ...
 
 [Data](articles/422a5cf6.json)
+
+[Extended Data](ext_articles/422a5cf6.ext.json)
 
 ---
 
@@ -253,6 +269,8 @@ In response Wickramaratne taking to social media platform X yesterday said such 
 ...
 
 [Data](articles/5b9d56f6.json)
+
+[Extended Data](ext_articles/5b9d56f6.ext.json)
 
 ---
 
@@ -2339,31 +2357,5 @@ The suspects were then produced before the Kalawana Magistrate's Court and reman
 [Data](articles/a550d1e5.json)
 
 [Extended Data](ext_articles/a550d1e5.ext.json)
-
----
-
-### Can stay in China without a visa;How is it?
-
-*2024-07-16 13:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-விசா-இன்றி-தங்கலாம்-எப்படி/50-340490) · `ta`
-
-Travelers from 54 countries, including the US, Canada, and the UK, can now stay in China for up to 144 hours without a visa at 37 airports and ports, including those in Henan and Yunnan provinces. This visa relaxation policy has been beneficial for international travel.
-
-🟩
-
-Some changes have been made in the visa practice for passengers passing through China.
-
-Accordingly, travelers traveling to the other country can stay in China for 144 hours, 6 days.
-
-Thereby, 54 countries, including the United States, Canada and the UK, are taking advantage of it.
-
-At present, the Visa relaxation procedure has been expanded at the Henan Province Chengsu Chincheng Airport, Uunan Province Lijang Airport and the port.
-
-The number of airports and ports that has been relaxed for visa has risen to 37.
-
-◼️
-
-[Data](articles/0e3135b5.json)
-
-[Extended Data](ext_articles/0e3135b5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 17:05:15**
+As of **2024-07-17 17:20:18**
 
 ## Newspaper Stats
 
-*Scraped **35,727** Articles*
+*Scraped **35,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 337
 bbccomsinhala | 350
 newsfirstlk | 363
 islandlk | 2,027
-economynextcom | 2,123
+economynextcom | 2,131
 dailyftlk | 2,262
 adalk | 3,224
 adaderanalk | 4,126
@@ -26,25 +26,31 @@ adaderanasinhalalk | 5,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,724 (100.0%) of 35,727 articles have been extended.
+35,727 (100.0%) of 35,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### ගුවන් ගමන් බලපත්‍ර අයදුම් කිරීමට නව ක්‍රමවේදයක්
+### New method to apply passports
 
 *2024-07-17 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198920) · `si`
 
-ගුවන් ගමන් බලපත්‍ර අයදුම්කරුවන්ගේ පහසුව සඳහා නව ක්‍රමවේදයක් හඳුන්වා දීමට ආගමන හා විගමන දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+The Department of Immigration and Emigration has launched a new passport application process. Applicants must first register online via www.immigration.gov.lk before applying. This change aims to streamline the passport application process for convenience.
 
-ඒ අනුව ගුවන් ගමන් බලපත්‍ර අයදුම් කිරීම සඳහා www.immigration.gov.lk වෙබ් අඩවිය ඔස්සේ පූර්ව ලියාපදිංචි වීමක් සිදු කළ යුතුය.
+🟩
 
-අන්තර්ජාලය ඔස්සේ ලියාපදිංචි වීමෙන් අනතුරුව ගමන් බලපත් ප්‍රමුඛතා ක්‍රම වේදයකට අනුව ලබාදීම සිදුවන බව ආගමන හා විගමන දෙපාර්තමේන්තුව පැවසීය.
+The Department of Immigration and Emigration has taken steps to introduce a new methodology for the convenience of the passport candidates.
+
+Accordingly, a pre-registration should be made through www.imigration.gov.lk to apply passports.
+
+The Department of Immigration and Emigration stated that after registering online, the Department of Immigration and Emigration said.
 
 ◼️
 
 [Data](articles/f65734d9.json)
+
+[Extended Data](ext_articles/f65734d9.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Police stated that the suspects are to be produced before the Mawanella Magistra
 ◼️
 
 [Data](articles/4243ae92.json)
+
+[Extended Data](ext_articles/4243ae92.ext.json)
 
 ---
 
@@ -110,17 +118,45 @@ A cabinet paper has been submitted by President Ranil Wickremesinghe to coordina
 
 ---
 
-### ගම්පහ මාර්ග රැසක අඩුපාඩු රැසක්
+### Many shortcomings in Gampaha
 
 *2024-07-17 15:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-මාර්ග-රැසක-අඩුපාඩු-රැසක්/11-410827) · `si`
 
-සියලුම මාර්ගවල පවතින අනාරක්ෂිත තත්ත්වයන් සම්බන්ධයෙන් අදාල ආයතන වගකිවයුතු බවත් එම අනාරක්ෂිත තත්ත්වයක් හේතුවෙන් අනතුරක් සිදුවුවහොත් අදාල ආයතනයට නීතිය ක්‍රියාත්මක කෙරෙනු ඇති  බවත් ගම්පහ පොලිස් අධිකාරී තිස්ස සේනානායක මහතා , ගම්පහ කොට්ඨාස මාර්ග ආරක්ෂක කමිටුවේදී පැවසීය.
+Gampaha faces numerous issues including road insecurity due to unregulated tree removal, plumbing stalls, and underground chambers. A monthly road security committee is addressing these problems, focusing on areas like Siri Cross Vidyalaya and Gampaha-Miriswatta International School. The Road Passenger Transport Authority mandates registration of three-wheelers within two weeks. Actions to rectify these issues across 19 divisions are underway, involving traders, government agencies, and volunteers.
 
-මෙහිදී පොලිස් අධිකාරීවරයා සදහන් කර සිටියේ, අනතුරු විය හැකි අන්දමින් මාර්ග අද්දර ඇති ගස් සහ කඩාවැටිය හැකි අතු ඉවත් කිරීම මෙන්ම මාර්ගවල ඇති භූගත දුරකථන හා ජලනල සංදාම කුටි මාර්ගයට සමාන්තරව නොමැති තත්ත්වයන් මත රිය අනතුරු සිදුවන බැවින් මේ සම්බන්ධයෙන් විශේෂ අවධානයක් යොමු කළ යුතු බවය.
+🟩
+
+The Gampaha Superintendent of Police Tissa Senanayake said that the relevant agencies are responsible for the insecure conditions of all roads and said that the law would be implemented to the relevant institution.
+
+The SSP stated that special attention should be paid to the removal of trees and the plumbing stalls on roads as well as the underground telephone and plumbing chambers on roads.
+
+Divisional Police Inspector Dharmasiri Mendis was conducted by the Chief Inspector Dharmasiri Mendis, a monthly road security committee headed by Superintendent of Police Jagath Rohana.Showed accuracy. The relevant agency also evaluated the shortcomings of the roads.
+
+Deputy Inspector Priyanga Anuruddha, Gampaha Traffic Inspector Pearrama, pointed out that Siri Cross Vidyalaya was near the Gampaha-Miriswatta International School and Siri Bodhi Road.
 
 ...
 
 [Data](articles/6fdbfd80.json)
+
+[Extended Data](ext_articles/6fdbfd80.ext.json)
+
+---
+
+### IMF team meets Ceylon Chamber to discuss Sri Lanka’s tax system
+
+*2024-07-17 15:56:00* · [`economynextcom`](https://economynext.com/imf-team-meets-ceylon-chamber-to-discuss-sri-lankas-tax-system-172558/) · `en`
+
+ECONOMYNEXT – A team from the International Monetary Fund, led by Peter Mullins has met Ceylon Chamber of Commerce officials to discuss Sri Lanka’s tax system, the private sector trade body said.
+
+The IMF team which is in Colombo “for a technical assistance mission on tax policy,” met with Chamber officials to “discuss the Sri Lankan tax system, including challenges and concerns, particularly regarding tax expenditures, exemptions, and incentives,” CCC said in a statement.
+
+Chamber Chairman Duminda Hulangamuwa, Deputy Vice-Chairman Bingumal Thewarathanthri, Senior Economist Sanjaya Ariyawansa, and Chamber Tax and Investment Promotion Steering Committees attended the meeting.
+
+The IMF bailout plan for the island nation has recommended that Sri Lanka must continue to raise taxes to achieve a budget surplus. (Colombo/Jul17/2024)
+
+◼️
+
+[Data](articles/2fa5e816.json)
 
 ---
 
@@ -314,6 +350,26 @@ Minister of Transport and Highways Dr. Bandula Gunawardena said that the develop
 
 ---
 
+### Sri Lanka non-financial SOEs make Rs282bn in profits in 2023 amid monetary stability
+
+*2024-07-17 14:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-non-financial-soes-make-rs282bn-in-profits-in-2023-amid-monetary-stability-172541/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s non-financial public sector enter which lost 910 billion rupees in 2022, as macro-economists printed money to boost growth and bungled a float with a surrender rule has made profits of 282 billion rupees in 2023, official data shows.
+
+In 2022 the same state owned enterprises made 910 billion rupees of losses.
+
+A major turnaround was seen in Ceylon Petroleum Corporation which lost 617 billion rupees in 2022 as the currency collapsed and the country was hit by forex shortages as the central bank printed money.
+
+The CPC losses partly came from loans it was forced to take when the central bank made rate cuts with printed money for flexible inflation targeting and potential output targeting, and officials made the petroleum utility take suppliers credits, in prior years critics have said.
+
+The suppliers credit were then turned into state bank loans as the currency collapsed, endangering the banks.
+
+...
+
+[Data](articles/54e5cb24.json)
+
+---
+
 ### CT Scan in seven government hospitals is off
 
 *2024-07-17 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198911) · `si`
@@ -341,6 +397,48 @@ CT. The cost of transporting patients to other hospitals is also large to obtain
 [Data](articles/eedb249f.json)
 
 [Extended Data](ext_articles/eedb249f.ext.json)
+
+---
+
+### Sri Lanka to see “definite” water tariff reduction after downward electricity prices
+
+*2024-07-17 14:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-see-definite-water-tariff-reduction-after-downward-electricity-prices-172532/) · `en`
+
+ECONOMYNEXT – Sri Lanka will see a “definite reduction in water tariff” possibly towards end of this week after several variables in the water pricing formula including electricity cost have fallen, Water Supply Minister Jeevan Thondaman said.
+
+Sri Lanka’s Public Utilities Commission on Monday cut electricity tariffs by an average of 22.5 percent. The move comes ahead of a presidential poll between September 17 and October 16.
+
+President Ranil Wickremesighe is expected to contest in an independent coalition. He became unpopulour after he implemented reforms including raising utility prices to a lever without incurring any losses in line with the commitments Sri Lanka agreed with the International Monetary Fund (IMF) after an unprecedented economic crisis in 2022.
+
+Thondaman said the water tariff will come down because electricity is one of the key component in the water pricing.
+
+The Cabinet this week approved a water tariff formula to be implemented from 2025.
+
+...
+
+[Data](articles/8712aabd.json)
+
+---
+
+### Sri Lanka opens embassy in Romania
+
+*2024-07-17 14:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-embassy-in-romania-172527/) · `en`
+
+ECONOMYNEXT – Sri Lanka opened an embassy in Bucharest, Romania this week, which it hopes will serve over 40,000 Sri Lankans working in the east European country.
+
+“This embassy will serve over 40,000 Sri Lankans working in Romania,” Minister of Foreign Affairs M U M Ali Sabry who inaugurated the office said on X (twitter).
+
+“In my discussions, I have been assured of further opportunities for Sri Lankans here, and our presence will no doubt serve as an invaluable mechanism to assist them and to further enhance our bilateral relations.”
+
+Sabry said the embassy would be a “catalyst in strengthening our relations with Romania and the South Eastern European Nations.”
+
+Foreign Minister of Romania Luminița Odobescu participated in the event.
+
+Sabry, who is on an official visit to Romania, said bilateral discussions between the two minister covered political, economic, labour, education, tourism sectors and reconciliation.
+
+...
+
+[Data](articles/b46a6ae6.json)
 
 ---
 
@@ -383,6 +481,24 @@ A high personnel in the Kalutara Municipal Council has been stuck in the next fe
 [Data](articles/13f2e90a.json)
 
 [Extended Data](ext_articles/13f2e90a.ext.json)
+
+---
+
+### AKD says Sri Lanka presidential election will likely be held on Sept 28
+
+*2024-07-17 14:01:00* · [`economynextcom`](https://economynext.com/akd-says-sri-lanka-presidential-election-will-likely-be-held-on-sept-28-172506/) · `en`
+
+ECONOMYNEXT — Leftist National People’s Power (NPP) leader Anura Kumara Dissanayake believes that Sri Lanka’s presidential election will likely be held on September 28, the MP said.
+
+Speaking at a rally in Kandy on Tuesday July 16, Dissanayake said the election commission has said avoiding inauspicious times such as the ‘Rahu’ period and other factors would have to be considered when deciding the date of the election.
+
+“They have said the Rahu period will be considered when deciding an election date. Taking all this into account, what we feel is that the presidential election will most probably held on September 28,” he said.
+
+Chairman of the National Election Commission R M A L Ratnayake told the media on Tuesday that the commission will publish the notice announcing nomination and election dates before the end of July.
+
+...
+
+[Data](articles/d9a9fb5d.json)
 
 ---
 
@@ -489,6 +605,24 @@ Foreign media reports that between three women and two male among the dead.
 [Data](articles/3835fa5e.json)
 
 [Extended Data](ext_articles/3835fa5e.ext.json)
+
+---
+
+### Sri Lanka to lease Kelaniya land to Storight Logistics
+
+*2024-07-17 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-kelaniya-land-to-storight-logistics-172504/) · `en`
+
+ECONOMYNEXT – A 2-acre, 1.08 perch land in Mudun Ela, Kelaniya, owned by the Sri Lanka Land Development Corporation, is to be leased to newly established company Storight Logistics (Pvt) Ltd, a cabinet statement said.
+
+The Cabinet approved to “grant the said land on lease basis to Storight Logistics (Pvt) Ltd for 30 years on the current assessment submitted by the Chief Assessor of the Government.”
+
+Initially, Bitsuthra IT (Pvt) Ltd had made a request for a land adjacent to the Colombo Harbour for logistic services and storage facilities for a Board of Investment of Sri Lanka approved project.
+
+Since the the company had met the basic requirements relevant to the project proposal, the new company Storight Logistics (Pvt) Ltd was established to provide the logistic services and storage facilities, the statement said. (Colombo/Jul17/2024)
+
+◼️
+
+[Data](articles/df686a63.json)
 
 ---
 
@@ -710,6 +844,24 @@ The Indian media has reported that a 32 -year -old engineer from Gujarat has bee
 
 ---
 
+### Sri Lanka’s Nations Trust Bank to raise upto Rs10bn in debenture issue
+
+*2024-07-17 11:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-nations-trust-bank-to-raise-upto-rs10bn-in-debenture-issue-172475/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Nations Trust Bank Plc said it will issue 50 million debentures at 100 rupees each to raise 5 billion rupees.
+
+Another 30 million tranche of the unlisted, rated, unsecured, senior, redeemable debentures will be issued at the discretion of the Bank in the event of an oversubscription, the bank said in a stock exchange filing.
+
+There would be a further option to issue another 20 million of such debentures, aggregating to a total of 10 billion rupees.
+
+The bank said it has obtained the approval of the Securities and Exchange Commission of Sri Lanka.
+
+◼️
+
+[Data](articles/1ae6a078.json)
+
+---
+
 ### Diana withdraws petition withdrawn
 
 *2024-07-17 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198904) · `si`
@@ -873,6 +1025,34 @@ In equities, Colombo’s All Share Price Index opened 4.07 points higher at 11,8
 [Data](articles/1efe4dff.json)
 
 [Extended Data](ext_articles/1efe4dff.ext.json)
+
+---
+
+### Sri Lanka rupee trades at 303.90/304.10 to US dollar, bonds down
+
+*2024-07-17 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-303-90-304-10-to-us-dollar-bonds-down-172444/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 303.90/304.10 to the US dollar on Wednesday, dealers said, while bonds continued to be bullish.
+
+The rupee closed at 303.70/304.00 to the greenback on Tuesday.
+
+In the secondary market, bond yield rates continued to slide, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.70/80 percent from 10.82/92 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.63/68 percent from 11.65/75 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.77/83 percent from 11.80/90 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.05/10 percent from 12.05/20 percent.
+
+Meanwhile treasury bills were trading lower. 3-month was at 9.65/75, 6-month was 9.80, and 1-year was 9.80/95.
+
+In equities, Colombo’s All Share Price Index opened 4.07 points higher at 11,882, while the S&P SL20 of more liquid stocks opened down at 0.07 percent or 2.41 points to 3,472.
+
+◼️
+
+[Data](articles/c9f5ffa3.json)
 
 ---
 
@@ -2129,181 +2309,5 @@ The Department of Meteorology also noted that intermittent rainfall in other par
 [Data](articles/e03770bd.json)
 
 [Extended Data](ext_articles/e03770bd.ext.json)
-
----
-
-### Dambulla lost the final round of success;Kandy Belgons entered the final round as the last team
-
-*2024-07-16 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188641) · `ta`
-
-Dambulla Sixers missed the Lanka Premier League finals due to poor net run rate, despite winning against Kalambo Strikers in the last league match. Kandy Belgons secured their spot in the finals.
-
-🟩
-
-Colombo r. Dambulla Sixers won by 28 runs against Kalambo Strikers in the last league match of the 5th Lanka Premier League chapter held on Tuesday (16) at the Premadasa Stadium.
-
-However, Dambulla Sixers lost the opportunity to play in the final round as she failed to maintain a net speed.
-
-Following the end of the match, Kandy Belgons qualified to participate in the final round of the Lanka Premier League.
-
-Dambulla Sixers, who were first invited to bat first, lost all wickets in 20 overs and scored only 123 runs.
-
-Team captain Mohammad Nabi scored 40 runs. Dambulla Sixers reached some dignity as they shared 62 runs in the 6th wicket.
-
-Nuwanidu Fernando (15) and Tushan Hemantha (10) received a double -digit number than they were.
-
-In bowling, Binura Fernando took 3 wickets for 15 runs, Dunit Vellalake took 2 wickets for 18 runs and 2 wickets for 25 runs.
-
-Kalambo Strikers lost all the wickets in 18.1 overs and lost 95 runs.
-
-...
-
-[Data](articles/6d68d86a.json)
-
-[Extended Data](ext_articles/6d68d86a.ext.json)
-
----
-
-### An oil ship near Oman drowned with Sri Lankan workers!
-
-*2024-07-16 23:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188640) · `ta`
-
-An oil ship off Oman sank, drowning 16 crew members including 13 Indians and 3 Sri Lankans. The tragedy happened as the vessel neared the port of Aden in Yemen.
-
-🟩
-
-International media reports that an oil vessel near Oman is sinking into the sea.
-
-13 of them are Indians. The other three are said to be Sri Lankans.
-
-The accident occurred while the ship was heading towards the port of Aden Port in Yemen.
-
-◼️
-
-[Data](articles/eac9ef34.json)
-
-[Extended Data](ext_articles/eac9ef34.ext.json)
-
----
-
-### Sri Lankan cricketer shot dead
-
-*2024-07-16 23:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அணியின்-முன்னாள்-கிரிக்கெட்-வீரர்-சுட்டுக்கொலை/175-340518) · `ta`
-
-Former Sri Lankan cricketer Dhammika Niroshan was fatally shot outside his home in Ambalangoda-Kandewatte.
-
-🟩
-
-The police media spokesman said that former Sri Lankan cricketer Dhammika Niroshan was shot dead.
-
-He is reportedly killed in front of his residence in the Ambalangoda-Kandewatte area.
-
-◼️
-
-[Data](articles/f7e52b89.json)
-
-[Extended Data](ext_articles/f7e52b89.ext.json)
-
----
-
-### Warning Sri Lankans working in Oman
-
-*2024-07-16 23:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓமானில்-பணிபுரியும்-இலங்கையர்களுக்கு-எச்சரிக்கை/175-340517) · `ta`
-
-Following a shooting incident at a school in Muscat, Oman, which resulted in four deaths and numerous injuries, the Sri Lankan Embassy has warned its citizens against visiting the affected area due to potential escalation of violence.
-
-🟩
-
-The Sri Lankan Embassy to the country has advised Sri Lankans working in Muscat in Oman's capital.
-
-Four Pakistani citizens were killed in a shooting that carried out a school in Oman al -Wadi al -Qabir. Many people were injured. Most Sri Lankans are working in the area.
-
-At this stage. The Sri Lankan embassy of Oman has advised the Sri Lankans not to go to the area as there are fears that the conflict may increase further.. (A)
-
-◼️
-
-[Data](articles/73627dcd.json)
-
-[Extended Data](ext_articles/73627dcd.ext.json)
-
----
-
-### 41-year-old man shot dead in Ambalangoda
-
-*2024-07-16 23:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100567/41-year-old-man-shot-dead-in-ambalangoda) · `en`
-
-A 41-year-old person has been shot dead near his residence at Kande Mawatha, Ambalangoda.
-
-Police said that the victim was shot in the head in front of his own house this evening (16).
-
-No information regarding the suspect or suspects have been uncovered as of yet while police investigations and ongoing.
-
-Meanwhile, it is reported that the victim is former cricket Dhammika Niroshan, who had represented the Under-19 Sri Lanka Cricket Team in 2002.
-
-During that period, he was also the captain of the Under-19 cricket team of a leading school in the country.
-
-◼️
-
-[Data](articles/575847d0.json)
-
-[Extended Data](ext_articles/575847d0.ext.json)
-
----
-
-### Author - Sudden announcement of the Chancellor
-
-*2024-07-16 22:52:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-அதிபர்களின்-திடீர்-அறிவிப்பு/175-340516) · `ta`
-
-The Chancellor Trade Union Federation will initiate legal union actions starting from the 22nd of this month for two weeks. This decision was announced by Joseph Stalin, the general secretary of the Sri Lanka Teachers Union, during a media briefing in Colombo on the 16th.
-
-🟩
-
-The Teacher -Chancellor Trade Union Federation has decided to engage in union action that works legally for two weeks from the 22nd of this month.
-
-Joseph Stalin, general secretary of the Sri Lanka Teachers Union, who was present at a media briefing in Colombo today (16).
-
-◼️
-
-[Data](articles/7231cc1e.json)
-
-[Extended Data](ext_articles/7231cc1e.ext.json)
-
----
-
-### 16 including 3 Sri Lankans missing after oil tanker capsizes off Oman coast
-
-*2024-07-16 22:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100566/16-including-3-sri-lankans-missing-after-oil-tanker-capsizes-off-oman-coast) · `en`
-
-Sixteen crew members including three Sri Lankan nationals were missing after their Comorian-flagged oil tanker capsized off the coast of Oman, the sultanate’s Maritime Security Centre (MSC) said Tuesday.
-
-The MSC, which is run by the Omani Defence Ministry, said in a post on social media platform X that a “Comoros-flagged oil tanker capsized” south-east of Ras Madrakah in the country’s centre.
-
-Search and rescue operations were underway, the MSC said without providing further details.
-
-The statement identified the vessel as the Prestige Falcon and said it had 16 crew on board, 13 Indian nationals and three individuals from Sri Lanka.
-
-The vessel was headed for the Yemeni port city of Aden, according to the ship tracking service Marine traffic.
-
-The tanker was built in 2007 and sails under the flag of the Comoros.
-
-...
-
-[Data](articles/912611cd.json)
-
-[Extended Data](ext_articles/912611cd.ext.json)
-
----
-
-### Nestlé Lanka celebrates business partnerships at ‘Connect@Nest’24’
-
-*2024-07-16 22:37:00* · [`islandlk`](http://island.lk/nestle-lanka-celebrates-business-partnerships-at-connectnest24/) · `en`
-
-Nestlé Lanka recently held the ‘Connect@Nest’24’ event, to honour and recognize the valued business partnerships of the ‘Good Food Good Life’ company. This felicitation event brought together a diverse array of business partners across the value chain, all of whom contribute to Nestlé Lanka’s vision of delighting Sri Lankan consumers with products filled with taste and goodness.
-
-...
-
-[Data](articles/bf8b3229.json)
-
-[Extended Data](ext_articles/bf8b3229.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 22:20:24**
+As of **2024-07-17 22:35:23**
 
 ## Newspaper Stats
 
-*Scraped **35,783** Articles*
+*Scraped **35,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
-adalk | 3,232
-adaderanalk | 4,130
+adalk | 3,233
+adaderanalk | 4,131
 tamilmirrorlk | 4,324
 dailymirrorlk | 4,733
 virakesarilk | 5,582
@@ -26,27 +26,51 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,782 (100.0%) of 35,783 articles have been extended.
+35,783 (100.0%) of 35,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### කොළඹ මහල් නිවාසවල පවුල් 50,000කට සින්නකර ඔප්පු ලබාදෙයි
+### Decision on water tariff revision expected by end of week - Minister Jeevan
+
+*2024-07-17 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100587/decision-on-water-tariff-revision-expected-by-end-of-week-minister-jeevan) · `en`
+
+Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman, announced that the reduction of water tariffs is being studied alongside the new electricity tariff revision, with a decision expected by the end of this week.
+
+The Minister also highlighted that the Water Supply Board, previously experiencing a monthly loss of LKR 2.8 billion, has now achieved a profit of LKR 6.2 billion.
+
+Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman made these remarks during the ‘Collective Path to a Stable Country’ press briefing today (17) at the Presidential Media Centre (PMC).
+
+“We commend Minister Kanchana Wijesekera for initiating steps to lower electricity tariffs. The water supply sector is closely tied to electricity tariffs, making it likely that this revision will also lead to reduced water tariffs.
+
+...
+
+[Data](articles/2abfa3d8.json)
+
+---
+
+### 50,000 families in Colombo offers
 
 *2024-07-17 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198927) · `si`
 
-ජනතාවට අද සින්නක්කර ඉඩම් ඔප්පු ලබාදිය හැකි වාතාවරණයක් නිර්මාණය වී තිබෙන්නේ එදා ආර්ථික අර්බුදකාරී සමයේ ජනතාව තම ආණ්ඩුව පිළිබඳ විශ්වාසය තබා කටයුතු කිරීම නිසා බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+In response to Colombo's economic crisis, President Ranil Wickremesinghe awarded free land deeds to 50,000 low-income families, highlighting the government's role in addressing housing needs during tough times. This initiative was part of the Regional Deeds scheme for housing projects in the district, aiming to transform the Western Province into a thriving metropolis.
 
-කොළඹ දිස්ත්‍රික්කයේ අඩු ආදායම්ලාභී නිවාසහිමියන්ට සින්නක්කර ඔප්පු පිරිනැමීමේ රන්දොර උරුමය වැඩසහනට එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+🟩
 
-කොළඹ දිස්ත්‍රික්කයේ අඩු ආදායම්ලාභී නිවාසහිමියන් 50,000කට රන්දොර උරුමය වැඩසටහන යටතේ සින්නක්කර ඔප්පු ප්‍රදානය කිරීමේ වැඩසටහන අද පස්වරුවේ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගනයේදී පැවැත්වුණි.
+President Ranil Wickremesinghe says that the people who can give the people of free land deeds today have been created by the economic crisis due to their reliance on their government.
 
-බස්නාහිර පළාත ලක්ෂ 50ක පමණ ජනතාවක් ජීවත් වන විශාල නගරයක් ලෙස සංවර්ධනය කිරීමට සැලසුම් කර තිබෙන බවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පැවසීය.
+The President made these comments participating in the heritage of awarding the Freehold Deeds to the Low Income Homes in Colombo District.
+
+The Regional Deeds scheme for the 50,000 low income housing projects in Colombo District was held at the Sudamadasa Indoor Stadium this afternoon.
+
+President Ranil Wickremesinghe said that the Western Province is planning to be a large city where the Western Province is a large city living.
 
 ◼️
 
 [Data](articles/9c0df793.json)
+
+[Extended Data](ext_articles/9c0df793.ext.json)
 
 ---
 
@@ -433,6 +457,24 @@ The six were all of Vietnamese ethnicity, two of those U.S. nationals. Police sa
 [Data](articles/2762e73c.json)
 
 [Extended Data](ext_articles/2762e73c.ext.json)
+
+---
+
+### ට්‍රම්ප්ට එල්ල වූ ප්‍රහාරත් සමග ලංකාවේ ජනපතිවරණ අපේක්ෂකයන්ගේ ආරක්ෂාවත් ඉහළ නැංවීමට යයි
+
+*2024-07-17 18:53:08* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්ට-එල්ල-වූ-ප්‍රහාරත්-සමග-ලංකාවේ-ජනපතිවරණ-අපේක්ෂකයන්ගේ-ආරක්ෂාවත්-ඉහළ-නැංවීමට-යයි/11-410839) · `si`
+
+අධීක්ෂණය කිරීම සඳහා කමිටුවක් පත් කිරීමටත්, එම සියලු ආරක්ෂක කටයුතු සම්බන්ධීකරණය කිරීම සඳහා නියෝජ්‍ය පොලිස්පතිවරයෙකු පත් කිරීමටත් යෝජනා කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අමාත්‍ය මණ්ඩල සංදේශයක් ඉදිරිපත් කර තිබේ.
+
+ඇමෙරිකා එක්සත් ජනපදයේ පෙන්සිල්වේනියා ප්‍රාන්තයේ බට්ලර් හි පැවති ජනාධිපතිවරණ ප්‍රචාරක රැලියක් අතරතුර රිපබ්ලිකන් පක්ෂ ජනාධිපතිවරණ අපේක්ෂක හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතාට එල්ල වූ ප්‍රහාරය සැලකිල්ලට ගනිමින් මෙරට ඉදිරියේදී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන අපේක්ෂකයින්ගේ පුද්ගලික ආරක්ෂාව සහතික කිරීමේ අරමුණින් මෙම යෝජනාව ඉදිරිපත් කර ඇත.
+
+ඒ අනුව, ජනාධිපතිවරණයේ නාමයෝජනා පිළිගැනීමෙන් පසුව අදාළ අපේක්ෂකයින්ගේ මෙන්ම හිටපු ජනාධිපතිවරුන්ගේ පුද්ගලික ආරක්ෂක විධිවිධාන අධීක්‍ෂණය කිරීම සඳහා මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයාගේ සභාපතීත්වයෙන් යුතුව මෙම කමිටුව පත් කිරීමට යෝජනා කර තිබේ.
+
+කමිටුවේ සෙසු සාමාජිකයින් ලෙස ආරක්ෂක මාණ්ඩලික ප්‍රධානී, පොලිස්පතිවරයා, ජාතික බුද්ධි ප්‍රධානී සහ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති (මැතිවරණ) නම් කිරීමට යෝජනා කර තිබේ.
+
+...
+
+[Data](articles/3917ba1d.json)
 
 ---
 
@@ -2417,49 +2459,5 @@ The dinosrees have become famous as a vegetation that claimed to a protective sk
 [Data](articles/c6375378.json)
 
 [Extended Data](ext_articles/c6375378.ext.json)
-
----
-
-### One dead, 8 injured as two buses collide head-on
-
-*2024-07-17 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100572/one-dead-8-injured-as-two-buses-collide-head-on) · `en`
-
-One person has been reported dead, and several others were left injured following a head-on collision involving two buses in the Panliyadda area of Melsiripura last night (17).
-
-Police stated that the accident occurred when a bus travelling from Colombo to Trincomalee collided head-on with a bus travelling from Batticaloa to Colombo.
-
-At least 08 other individuals have been injured in the accident.
-
-The driver of the bus which was travelling from Batticaloa to Colombo was killed in the accident.
-
-◼️
-
-[Data](articles/f0346b0c.json)
-
-[Extended Data](ext_articles/f0346b0c.ext.json)
-
----
-
-### Maithree with both god
-
-*2024-07-17 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198900) · `si`
-
-Former President Maithripala Sirisena announced a candidate for Sri Lanka's upcoming presidential election, emphasizing its necessity and warning against postponement due to potential bloodshed.
-
-🟩
-
-Former President Maithripala Sirisena says that a candidate has been presented to the next presidential election and has been selected for this purpose.
-
-He was responding to the questions posed by journalists following a program in Colombo yesterday.
-
-The former President pointed out that the presidential election must be held and that it cannot be postponed.
-
-Former President Maithripala Sirisena added that thousands of bloodshed in the country could take place in the country if he tried to postpone the election.
-
-◼️
-
-[Data](articles/2f74cef9.json)
-
-[Extended Data](ext_articles/2f74cef9.ext.json)
 
 ---

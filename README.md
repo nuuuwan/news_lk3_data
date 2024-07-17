@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 14:35:35**
+As of **2024-07-17 14:54:40**
 
 ## Newspaper Stats
 
-*Scraped **35,709** Articles*
+*Scraped **35,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,124
 tamilmirrorlk | 4,318
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,974
+adaderanasinhalalk | 5,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,708 (100.0%) of 35,709 articles have been extended.
+35,709 (100.0%) of 35,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### නීතිඥ භාවය අත්හිටවූ පුද්ගලයෙකු රිමාන්ඩ් කෙරේ
+
+*2024-07-17 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198910) · `si`
+
+අධිකරණයට අපහාස කිරීමේ චෝදනාවක් සම්බන්ධයෙන් නීතිඥ භාවය අත්හිටුවා තිබෙන පුද්ගලයෙකු රක්ෂිත බන්ධනාගාරගත කිරීමට ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
+
+එම නීතිඥවරයාට එරෙහිව ඉදිරිපත් කර තිබූ පැමිණිල්ලක් සලකා බැලීමෙන් පසුව අධිකරණය මෙම නියෝගය නිකුත් කර ඇත
+
+◼️
+
+[Data](articles/d838807b.json)
+
+---
 
 ### The four-year-old girl's body meets a well
 
@@ -1050,21 +1064,27 @@ He has also held the leadership of the 19th cricket team in Ambalangoda area.
 
 ---
 
-### කංජිපානි ලංකාවට ගේන්න බලය පවරන්නැයි හිටපු අයි පී දුමින්ද කියයි
+### Former IP Duminda says he is authorized to bring Kajillani to Sri Lanka
 
 *2024-07-17 07:37:02* · [`adalk`](https://www.ada.lk/breaking_news/කංජිපානි-ලංකාවට-ගේන්න-බලය-පවරන්නැයි-හිටපු-අයි-පී-දුමින්ද-කියයි/11-410823) · `si`
 
-රාජ්‍යතාන්ත්‍රික මට්ටමින් නීත්‍යානුකූල ලිපියක් ලබා දෙන්නේ නම්  මත්ද්‍රව්‍ය ජාවාරම්කරුවකු මෙන්ම පාතාල නායකයෙකු වන කන්ජිපානි ඉම්රාන් ලංකාවට ගෙන ඒමේ හැකියාව තමන්ට තිබෙන බව හිටපු පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා පවසයි.
+Duminda Jayathilaka, a former inspector, claims authority to bring a legal document at a diplomatic level, potentially involving Kajillani's relocation to Sri Lanka. Despite being abroad for four months and his police department banning his duties, he engaged in propagating an organized criminal, Kanjjipani Imran, at a birthday party.
 
-කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ මර්ධන ඒකකයේ ස්ථානාධිපති ලෙස කටයුතු කළ පොලිස් පරීක්ෂක දුමින්ද ජයතිලක මහතා තමන්ට පාතාලයෙන් මරණ තර්ජන එල්ල වී ඇති බව පවසමින්  මීට සිව් මසකට පමණ ඉහතදී දුමින්ද ජයතිලක මහතා හිටි හැටියේ විදේශගත වී තිබිණි
+🟩
 
-මේ වන විට ඔහුගේ රාජකාරී වැඩ පොලිස් දෙපාර්තමේන්තුව විසින් තහනමට ලක් කර ඇත
+Former Inspector Duminda Jayathilaka says he has the ability to bring a legal letter at the diplomatic level.
 
-පොලිස් පරීක්ෂක ජයතිලක මහතා ඉකුත් 13 වෙනිදින  මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් මෙන්ම සංවිධානාත්මක අපරාධකරුවෙකු වන කන්ජිපානි ඉම්රාන්ගේ උපන්දින  සාදයට ද එක් වී තිබූ බවට සමාජ මාධ්‍ය ජාලා ඔස්සේද ප්‍රචාරය වී තිබුණු අතර එම ප්‍රචාරයන්ට ද ඔහු මෙලෙස  පිළිතුරු ලබාදී තිබිණි
+Duminda Jayatilleke, who was the OIC of the Organization Control Unit of the Colombo Crimes Division, Mr. Duminda Jayatilleke had been abroad about four months
+
+His duties work has been banned by the Police Department
+
+Inspector Jayathilake had also propagated to the birthday party, an organized criminal, and the broadcasting criminal of Kanjjipani, Kanjjipani Imran, and he had responded to this propaganda.
 
 ◼️
 
 [Data](articles/c7a5a0b6.json)
+
+[Extended Data](ext_articles/c7a5a0b6.ext.json)
 
 ---
 
@@ -2249,31 +2269,5 @@ Wijesekera in the past has said the CEB could be managed with only 5,000 cadres 
 [Data](articles/8840b9cc.json)
 
 [Extended Data](ext_articles/8840b9cc.ext.json)
-
----
-
-### Police firing on tipper vehicle in Kilinochchi: one injury
-
-*2024-07-16 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188635) · `ta`
-
-In Kilinochchi, a police shooting at a speeding tipper truck resulted in one injury. The incident occurred on the Poonakari Paradhan road, where the truck was stopped for inspection. Following the incident, a suspect was arrested, and investigations are ongoing.
-
-🟩
-
-One person was injured and admitted to the Kilinochchi District General Hospital after police fired a tipper vehicle on the Poonakari Paradhan road in Kilinochchi.
-
-The tipper vehicle was traveling fast when police tried to check the tipper vehicle from Kudamurutti area in Poonakari, Kilinochchi on Tuesday afternoon (16) afternoon.
-
-A tipper vehicle was wounded in a tipper vehicle on a tipper vehicle on a tipper vehicle for chasing the vehicle about 13 kilometers.
-
-At the same time, a man has been arrested by the police and the Kilinochchi police are conducting investigations into the incident.
-
-During the incident, Arumugam Nitarshan (age 23) from Kilinochchi was injured and admitted to the Kilinochchi District General Hospital.
-
-◼️
-
-[Data](articles/9c323595.json)
-
-[Extended Data](ext_articles/9c323595.ext.json)
 
 ---

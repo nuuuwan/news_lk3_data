@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 09:35:33**
+As of **2024-07-17 09:54:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,657 (100.0%) of 35,665 articles have been extended.
+35,665 (100.0%) of 35,665 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,55 +50,75 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 [Data](articles/9ad9645d.json)
 
+[Extended Data](ext_articles/9ad9645d.ext.json)
+
 ---
 
-### ஓமன் கடலில் எண்ணெய்க் கப்பல் கவிழ்ந்ததில் இலங்கையர்கள் மாயம்
+### Sri Lankans magic when oil ship toppled in Oman Sea
 
 *2024-07-17 09:17:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஓமன்-கடலில்-எண்ணெய்க்-கப்பல்-கவிழ்ந்ததில்-இலங்கையர்கள்-மாயம்/50-340527) · `ta`
 
-ஓமான் அருகே 16 பேருடன் சென்ற எண்ணெய் கப்பல் ஒன்று கடலில் மூழ்கியுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+An oil ship carrying 16 people sank near Oman, heading to Yemen's Aden port. The vessel is submerged, with unknown status on stabilization and potential oil spill.
 
-ஏமன் நாட்டில் உள்ள ஏடன் துறைமுகத்தை நோக்கி கப்பல் சென்று கொண்டிருந்த கப்பலே இவ்வாறு மூழ்கியுள்ளதாக கூறப்படுகிறது
+🟩
 
-கப்பல் "நீரில் மூழ்கி தலைகீழாக" உள்ளதாகவும், கப்பல் நிலைப்படுத்தப்பட்டதா அல்லது எண்ணெய் பொருட்கள் கடலில் கசிந்ததா என்பதை உறுதிப்படுத்தவில்லை. R
+International media reports that an oil ship carrying 16 people near Oman is drowned.
+
+It is said that the ship was heading towards the port of Aden port in Yemen
+
+The ship is “submerged in the water” and not confirmed whether the ship was stabilized or the oil was leaked in the sea. Remble
 
 ◼️
 
 [Data](articles/fc9c6de0.json)
 
+[Extended Data](ext_articles/fc9c6de0.ext.json)
+
 ---
 
-### கொழும்பு, மோதரை பகுதியில் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது !
+### Suspect arrested for drugs in Motarai, Colombo
 
 *2024-07-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188646) · `ta`
 
-கொழும்பு, மோதரை அளுத்மாவத்தை பகுதியில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Aluthmawatte, Colombo, a suspect was arrested for possessing ice drugs. The Colombo North Criminal Investigation Division conducted the raid based on intelligence from the Air Force Intelligence Unit.
 
-விமானப்படை புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் கொழும்பு வடக்கு  குற்றப்புலனாய்வு  பிரிவினரினால்  இந்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+A suspect has been arrested with ice drugs in Aluthmawatte, Colombo, Colombo, police said.
+
+According to information received by the Air Force Intelligence Unit, the Colombo North Criminal Investigation Division said the raid was carried out.
 
 ◼️
 
 [Data](articles/faa0043b.json)
 
+[Extended Data](ext_articles/faa0043b.ext.json)
+
 ---
 
-### “அர்ஜூனா செல்ல வேண்டும்” மீண்டும் போராட்டம்
+### “Arjuna must go” Struggle again
 
 *2024-07-17 09:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அர்ஜூனா-செல்ல-வேண்டும்-மீண்டும்-போராட்டம்/71-340526) · `ta`
 
-சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் பதில் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனா இன்று (17) காலை 8 மணிக்கு முன்னதாக வைத்தியசாலை விடுதியில் இருந்து வெளியேற்றப்படவேண்டும்.
+Dr. Ramanathan Archana, former Medical Superintendent of Chavakachcheri Resource Hospital, faces eviction due to disputes with the hospital staff and management. The situation escalated when the hospital's State Medical Officers' Association threatened mass resignation starting at 8 am if Archana wasn't removed from the hospital housing by the same time. The conflict stems from Archana's leadership style, which allegedly led to unsafe conditions for patients and caused distress among the medical staff. The association calls for public awareness and supports the evacuation of Archana to ensure the hospital's smooth operation and staff safety.
 
-இல்லை என்றால் இன்று காலை 8 மணி முதல் பணிப்புறக்கணிப்பு போராட்டத்தில் குதிப்போம் என சாவகச்சேரி ஆதார வைத்தியசாலை அரச வைத்திய அதிகாரிகள் சங்க கிளையினர்,  எச்சரிக்கை விடுத்துள்ளனர்.
+🟩
 
-சாவகச்சேரி ஆதார வைத்தியசாலை அரச வைத்திய அதிகாரிகள் சங்கத்தினர் வெளியிட்ட ஊடக அறிக்கையில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+Former Medical Superintendent of the Chavakachcheri Resource Hospital Ramanathan Archana should be evacuated from the hospital hotel at 8 am today.
 
-சாவச்சேரி ஆதார வைத்தியசாலை வைத்திய அத்தியட்சகராக இராமநாதன் அர்ச்சுனா நியமிக்கப்பட்டதன் பின்பு ஏற்பட்ட பிரச்சனைகள்  யாவரும் அறிந்த ஒன்று. இவ்விடயம் தொடர்பான தவறான புரிதல்கள் பொதுமக்கள் மத்தியில் காணப்படுவதனால் அது பற்றிய தெளிவுபடுத்தல்களை மேற்கொள்ள வேண்டிய நிலைக்கு நாம் ஆளாகியுள்ளோம்.
+If not, the Chavakachcheri Sources Hospital State Medical Officers' Association has warned that they will jump in the workshop from 8 am this morning.
 
-தனிப்பட்ட ஒரு மருத்துவரின் நிர்வாகம் சார்ந்த பிரச்சனை ஒட்டுமொத்த வைத்திய சமுகத்தையும் பாதித்துள்ளது. எனவே  உண்மை நிலையை எடுத்துரைப்பதோடு அறிவுக் கண்கொண்டு இவ்விடயத்தை பொதுமக்கள்  அணுக வேண்டும் என்பதே எமது எதிர்பார்ப்பாகும்.
+This was revealed in a media statement issued by the Chavakachcheri Resource Hospital Government Medical Officers Association.
+
+The problems of Ramanathan Archana as the Superintendent of the Chavacherry Resource Hospital. Since the misunderstandings of this issue are found among the public, we are in a position to make clarity.
+
+The administrative problem of a personal doctor has affected the overall medical community. Therefore, our expectation is that the public should approach the matter with the knowledge of the truth.
 
 ...
 
 [Data](articles/3867e66b.json)
+
+[Extended Data](ext_articles/3867e66b.ext.json)
 
 ---
 
@@ -628,53 +648,75 @@ In response Wickramaratne taking to social media platform X yesterday said such 
 
 ---
 
-### நீர்க்கட்டண சூத்திரத்தை 2025ஆம் ஆண்டு முதல் நடைமுறைப்படுத்த அமைச்சரவை அங்கீகாரம்
+### Cabinet approval to implement the cyst formula from 2025
 
 *2024-07-17 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188644) · `ta`
 
-தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபையின் கட்டண மீளாய்வு செய்வதற்காக நீர்க் கட்டணக் கொள்கை மற்றும் நீர்க்கட்டணச் சூத்திரமொன்றை நடைமுறைப்படுத்த அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet approved a water tariff policy and a cyst formula for the National Water Supply and Drainage Board, granting authority for a new payment policy and formula. It was decided to consult stakeholders and amend the policy and formula before implementing them from 2025.
 
-தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபையின் புதிய கட்டணக் கொள்கை மற்றும் சூத்திரத்திற்கான அங்கீகாரம் கடந்த ஏப்ரல் 8ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில்  வழங்கப்பட்டுள்ளது.
+🟩
 
-அதில் ஏற்புடைய அனைத்துத் தரப்பினர்களுடன் கலந்துரையாடித் தேவையான அனைத்துத் திருத்தங்களையும் உட்சேர்த்து, புதிய நீர்க் கட்டணக் கொள்கை மற்றும் நீர்க் கட்டணச் சூத்திரத்தை சமர்ப்பிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+The Cabinet has approved the implementation of a water tariff policy and a cyst formula for review of the National Water Supply and Drainage Board.
 
-அதற்கமைய, தயாரிக்கப்பட்டுள்ள திருத்தப்பட்ட நீர்க் கட்டணக் கொள்கை மற்றும் திருத்தப்பட்ட நீர்க்கட்டண சூத்திரத்தை 2025ஆம் ஆண்டு தொடக்கம் நடைமுறைப்படுத்துவதற்காக நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+Authority for the new Water Supply and Drainage Board's new payment policy and formula has been granted at a Cabinet meeting held on April 8.
+
+It has been decided to consult with all parties and submit all the necessary amendments and submit a new water payment policy and water payment formula.
+
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of Water Supply and Estate Infrastructure Development to implement the prepared water payment policy and the revised cyst formula from 2025.
 
 ◼️
 
 [Data](articles/283e3920.json)
 
+[Extended Data](ext_articles/283e3920.ext.json)
+
 ---
 
-### நானுஓயா புகையிரத நிலையத்தை நவீனமயப்படுத்தும் வேலைத்திட்டத்தைப் பூர்த்தி செய்ய தீர்மானம்
+### Resolution to complete the program to modernize the Nanuoya Railway Station
 
 *2024-07-17 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188643) · `ta`
 
-இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபை மற்றும் இலங்கை சுற்றுலா மேம்பாட்டுப் பணியகத்தின் நிதியைப் பயன்படுத்தி நானுஓயா புகையிரத நிலையத்தை நவீனமயப்படுத்தும் வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக 2023.04.03 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+The Cabinet approved the modernization of the Nanuoya Railway Station, increasing its budget to 101.81 million rupees. The project will be executed by the Central Advisory Bureau of the Sri Lanka Railway Department and the Engineering Services Bureau, with additional funding from the Sri Lanka Tourism Development Authority and the Sri Lanka Tourism Development Bureau.
 
-கட்டுமானப் பொருட்களின் விலை அதிகரிப்பால் நானுஓயா புகையிரத நிலையத்தை நவீனமயப்படுத்தும் வேலைத்திட்டத்திற்கான ஒப்பந்தப் பெறுமதி 74.63 மில்லியன் ரூபா 101.81 மில்லியன் ரூபா வரைக்கும் அதிகரித்துள்ளது.
+🟩
 
-அதற்கமைய, புதிய திருத்தப்பட்ட மதிப்பீட்டின் கீழ் இலங்கை புகையிரத திணைக்களம் மற்றும் பொறியியல் பணிகள் தொடர்பான மத்திய ஆலோசனைப் பணியகம் மூலம் குறித்த நவீனமயப்படுத்தல் பணிகளைப் பூர்த்தி செய்வதற்கும், அதற்குத் தேவையான மேலதிக தொகையை இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபை மற்றும் இலங்கை சுற்றுலா மேம்பாட்டுப் பணியகத்தின் மூலம் பெற்றுக் கொள்வதற்கும் சுற்றுலா மற்றும் காணி அமைச்சர் சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.-
+At the Cabinet meeting held on 03.04.04.04.04.04.04.04. To implement the Nanuoya Railway Station using the Fund of the Sri Lanka Tourism Development Authority and the Bureau of the Sri Lanka Tourism Development Bureau.
+
+The contract value for the modernization of the Nanuoya Railway Station has increased by up to 74.63 million rupees of 101.81 million rupees.
+
+Accordingly, under the new revised assessment, the Cabinet has approved the idea of ​​the Minister of Tourism and Lands to fulfill the modernization work through the Central Advisory Bureau of the Sri Lanka Railway Department and the Engineering Services Bureau and the additional amount of money required by the Sri Lanka Tourism Development Authority and the Sri Lanka Tourism Development Bureau.
 
 ◼️
 
 [Data](articles/7c0f4b38.json)
 
+[Extended Data](ext_articles/7c0f4b38.ext.json)
+
 ---
 
-### தேர்தல் குறித்து ஜனாதிபதியுடன் கலந்துரையாடவில்லை சுயாதீனமாக செயற்பட்டு தீர்மானங்களை எடுக்கிறோம் - தேர்தல்கள்  ஆணைக்குழு
+### Do not discuss the election with the president and make decisions independently - Elections Commission
 
 *2024-07-17 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188642) · `ta`
 
-ஜனாதிபதி தேர்தல் குறித்து ஜனாதிபதியுடன் எவ்வித பேச்சுவார்த்தையிலும் ஈடுபடவில்லை.சுயாதீனமான முறையில் தேர்தல் பணிகளை முன்னெடுத்துள்ளோம்.தேர்தல் செலவுகளுக்காக 10 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. நிதியமைச்சுடன் இன்று பேச்சுவார்த்தையில் ஈடுபடுவோம் என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+Elections Commission avoids discussing elections with the president, focusing instead on independent decision-making and discussions with other ministries. The commission is preparing for the upcoming presidential election, with funding allocated in the 2024 budget. Talks are underway with several departments to manage the election efficiently, aiming to keep costs under control compared to previous elections.
 
-தேர்தல்கள் ஆணைக்குழுவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-2024 ஆம் ஆண்டு வரவு செலவுத் திட்டத்தில் ஜனாதிபதி தேர்தலுக்காக நிதி ஒதுக்கப்பட்டுள்ளது.இதற்கமைய தேர்தல் பணிகளுக்காக 10 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது.அந்த நிதியை கொண்டு ஆரம்பக்கட்ட பணிகள் முன்னெடுக்கப்பட்டுள்ளன.
+We have not engaged in any talks with the president on the presidential election.. RMAL Ratnayake, Chairman of the Elections Commission, said that we will hold talks with the Finance Ministry today.
+
+He made this statement during a media briefing held at the Elections Commission's office on Tuesday (16).
+
+In the 2024 budget, funds have been allocated for the presidential election.
+
+We are in talks with the State Printing Department, the Inspector General of Police, the Attorney General and the Post Office. When the State Programs Department is in talks with the State Press Department, the Printing Chairperson said, "These costs have been increased to four times more than the 2019 presidential election costs.He noted that the costs were valued and referred to to the Commission.
+
+The 2015 presidential election cost 2.7 billion rupees and 4.5 billion rupees in 2019.
 
 ...
 
 [Data](articles/32570b92.json)
+
+[Extended Data](ext_articles/32570b92.ext.json)
 
 ---
 
@@ -698,17 +740,23 @@ Prime Minister Dinesh Gunawardena, Minister of Education Dr. Susil Premajayantha
 
 ---
 
-### 67 பாடசாலைகளுக்கு விளையாட்டு உபகரணங்கள்
+### Sports equipment for 67 schools
 
 *2024-07-17 00:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/67-பாடசாலைகளுக்கு-விளையாட்டு-உபகரணங்கள்/175-340522) · `ta`
 
-கம்பஹா மாவட்டத்தின் பாடசாலை விளையாட்டை மேம்படுத்தும் நோக்கில் 67 பாடசாலைகளுக்கு விளையாட்டு உபகரணங்கள் வழங்கி வைக்கும் நிகழ்வு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவின் தலைமையில் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+Yesterday, under the patronage of Sagala Ratnayake, 67 schools in the Gampaha district received sports equipment to enhance their facilities. The event, organized by Youth Vision 2048 and Sri Lanka Cricket, took place at the Presidential Office, guided by President Ranil Wickremesinghe.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக்கருவுக்கமைய, சாகல ரத்நாயக்கவின் வழிகாட்டலின் கீழ், Youth vision 2048 அமைப்பு மற்றும் இலங்கை கிரிக்கெட் நிறுவனத்தினால் இந்த வேலைத்திட்டம் ஏற்பாடு செய்யப்பட்டிருந்தது. (a)
+🟩
+
+The event was held at the Presidential Office yesterday at the Presidential Office under the patronage of Sagala Ratnayake, a senior advisor to the National Security and President of the President, to provide sports equipment to 67 schools to improve the Gampaha district.
+
+Under the guidance of President Ranil Wickremesinghe, under the guidance of Sagala Ratnayake, the program was organized by Youth Vision 2048 and Sri Lanka Cricket.. (A)
 
 ◼️
 
 [Data](articles/466b67c7.json)
+
+[Extended Data](ext_articles/466b67c7.ext.json)
 
 ---
 

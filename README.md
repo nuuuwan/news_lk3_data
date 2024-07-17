@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 09:54:37**
+As of **2024-07-17 10:06:26**
 
 ## Newspaper Stats
 
-*Scraped **35,665** Articles*
+*Scraped **35,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,118
 dailyftlk | 2,262
-adalk | 3,215
+adalk | 3,216
 adaderanalk | 4,116
 tamilmirrorlk | 4,306
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,665 (100.0%) of 35,665 articles have been extended.
+35,665 (100.0%) of 35,666 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1448,6 +1448,22 @@ The Elections Commission has the responsibility to clarify the people on the pre
 
 ---
 
+### ගුරු විදුහල්පති අකුරට වැඩ කරන්න හිතයි
+
+*2024-07-16 18:37:03* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-අකුරට-වැඩ-කරන්න-හිතයි/11-410820) · `si`
+
+ගුරු විදුහල්පතිවරුන්ට හා දෙමාපියන්ට ඇති වී තිබෙන ගැටලු විසඳීමට ආණ්ඩුව කටයුතු නොකරන නිසා මේ මස 22  වැනි දින සිට අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගයක් ආරම්භ කරන බව ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+මේ අනුව පාසල් වේලාවෙන් පසු ද, සති අන්තයේ දිනවල හා නිවාඩු දිනවලද විෂය පරිබාහිර කටයුතු සිදුනොකරන බවත්, වට්ස් ඇප් සමූහ හරහා බලධාරීන් සමග රාජකාරි කටයුතු සිදුකිරීමේ කටයුතුවලින්ද ඉවත්වන බවත් එම සන්ධානය පෙන්වා දෙයි.
+
+පාසල් වේලාවෙන් පසු, නිවාඩු දිනවල හා සති අන්තයේ දිනවල ගුරු විදුහල්පතිවරුන් රාජකාරි විශාල ප්‍රමාණයක් සිදුකරන බවත්, අදාළ ගැටලු විසඳන ලෙස ඉල්ලා මේ මස 22 වැනි දින සිට සති දෙකක කාලයක් පරිබාහිර රාජකාරිවලින් ඉවත් වී අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ග සිදුකරන බවත් ඔවුහු සඳහන් කරති.
+
+...
+
+[Data](articles/45b04388.json)
+
+---
+
 ### 7 out of 44 government CT scans is disabled
 
 *2024-07-16 18:24:59* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-සීටී-ස්කෑන්-යන්ත්‍ර-44න්-7ක්-අක්‍රීයයි/11-410819) · `si`
@@ -2257,33 +2273,5 @@ Accordingly, he requested the restaurant owners to make necessary arrangements t
 [Data](articles/5db53393.json)
 
 [Extended Data](ext_articles/5db53393.ext.json)
-
----
-
-### Presidential Assistance Day at the end of this month
-
-*2024-07-16 15:35:10* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණ-දිනය-මේ-මස-අවසානයේදී/11-410809) · `si`
-
-Presidential Assistance Day is scheduled for the end of this month, as announced by Elections Commissioner Chairman RM VL Ratnayake. He revealed that the election will take place on September 17th and discussed various responsibilities including discussions between the IGP, Printer, and the Finance Ministry. The total number of new voters who have turned 18 exceeds 70,000. Ballot centers have been established, and voting will commence soon under a low-cost regulation program. The electoral date was officially published by the Elections Commission, emphasizing the importance of holding free and peaceful elections. The budget for the 2024 presidential election has been allocated Rs. 10 billion.
-
-🟩
-
-The Elections Commissioner Chairman RM VL Ratnayake has said that the date on the date of the publication date on the end of July, Mr. RM V.L Ratnayake has said.
-
-He was speaking at a special press conference held today (16).
-
-He further stated that the election will be held on September 17, he added.
-
-He said that there was a number of duties in the election, he said that the IGP, Printer, and the Finance Ministry will hold talks with the Finance Ministry in the future.
-
-The total number of voters have been registered with the new voter network, the total number of voters have been registered, the Chairperson pointed out that the total number of new voters completed 18 are seventy years.
-
-He further stated that the ballot centers of the vote has been launched and the census of the vote has been commenced and the census of the vote has been launched through the Grama Niladhari.He also said that this year will be held this year's election under the low cost regulation program.
-
-...
-
-[Data](articles/b03964af.json)
-
-[Extended Data](ext_articles/b03964af.ext.json)
 
 ---

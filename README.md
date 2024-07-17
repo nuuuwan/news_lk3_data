@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 04:35:53**
+As of **2024-07-18 04:54:23**
 
 ## Newspaper Stats
 
-*Scraped **35,796** Articles*
+*Scraped **35,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 350
 newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,136
-dailyftlk | 2,262
+dailyftlk | 2,264
 adalk | 3,234
 adaderanalk | 4,131
 tamilmirrorlk | 4,331
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,796 (100.0%) of 35,796 articles have been extended.
+35,796 (100.0%) of 35,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### Committee to assess security threats against Presidential candidates
+
+*2024-07-18 04:32:39* · [`dailyftlk`](https://www.ft.lk/news/Committee-to-assess-security-threats-against-Presidential-candidates/56-764426) · `en`
+
+President Ranil Wickremesinghe has submitted a Cabinet paper seeking approval from the Cabinet to ensure the safety of the Presidential candidates ahead of the upcoming election, the President’s Media Division (PMD) said yesterday.
+
+The President’s Media Division said the proposal recommends forming a committee to conduct threat assessments and ensure security for Presidential candidates and former Presidents.
+
+This committee will be chaired by the Ministry of Public Security Secretary and will include the Chief of Defence Staff, the Inspector General of Police, the Chief of National Intelligence, and the Senior Deputy Inspector General of Police responsible for overseeing elections. Additionally, a Deputy Inspector General of Police will also be appointed to oversee all security arrangements.
+
+...
+
+[Data](articles/f224ca94.json)
+
+---
+
+### Cabinet nod to instruct Legal Draftsman to prepare CTUR in Sri Lanka Bill with amendments
+
+*2024-07-18 04:29:11* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-instruct-Legal-Draftsman-to-prepare-CTUR-in-Sri-Lanka-Bill-with-amendments/56-764423) · `en`
+
+Cabinet of Ministers on Monday approved preparing the Commission for Truth, Unity and Reconciliation (CTUR) in Sri Lanka Bill by incorporating the proposed amendments.
+
+It was approved to instruct the Legal Draftsman to prepare a Bill based on incorporating the said amendments to the preliminary draft and to cancel the gazette notification issued earlier.
+
+In December 2023, Cabinet approved publishing the Commission for Truth, Unity and Reconciliation in Sri Lanka Bill in the Government Gazette.
+
+However, due to the submission of further amendment proposals for the said Bill by various parties, no steps were taken to present the said Bill to the Parliament.
+
+The Interim Secretariat for Truth and Reconciliation Mechanism has conducted several consultation rounds and identified the amendments to be made to the relevant Bill.
+
+...
+
+[Data](articles/a8c65fbc.json)
+
+---
 
 ### If the 22nd Amendment is passed, the referendum will go to the referendum within 30 days - GL Peiris
 
@@ -2407,53 +2443,5 @@ The bank said it has obtained the approval of the Securities and Exchange Commis
 [Data](articles/1ae6a078.json)
 
 [Extended Data](ext_articles/1ae6a078.ext.json)
-
----
-
-### Diana withdraws petition withdrawn
-
-*2024-07-17 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198904) · `si`
-
-Diana Gamage's petition, filed at the Supreme Court, has been withdrawn. Her attorneys requested and were granted permission to withdraw it.
-
-🟩
-
-The petition was filed by the Supreme Court today (17) at the Supreme Court today (17).
-
-Attorneys appearing on behalf of Mrs. Dianna Gamage said that the petition was called to date.
-
-Accordingly, the lawyers asked the court to be permitted to withdraw.
-
-The Supreme Court was granted permission to withdraw the petition.
-
-◼️
-
-[Data](articles/8b26c25c.json)
-
-[Extended Data](ext_articles/8b26c25c.ext.json)
-
----
-
-### Open Hang MP: participated in the public ceremony
-
-*2024-07-17 11:39:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/திறந்த-பிடியாணை-எம்-பி-பொது-வைபவத்தில்-பங்கேற்றார்/94-340543) · `ta`
-
-Ali Sabri Rahim, a Puttalam district parliamentarian, faced legal issues when he skipped court hearings for a case filed by a Kalpitiya NGO. Despite being summoned, he avoided appearing before the Puttalam Magistrate's Court three times. The Additional District Judge, Mrs. Ayona Wimalaratne, ordered his arrest for not attending court without representation. This incident also saw the participation of North Western Province Governor Ahmed Naseer.
-
-🟩
-
-Puttalam district parliamentarian Ali Sabri Rahim, who issued an opening court at the Kalpitiya Tourism Magistrate's Court, was attended by a special guest at a ceremony held at the Kalpitiya Al Aksha National School on Tuesday (16).
-
-It was seen that the police officer was taking a Member of Parliament to the ceremony grounds.
-
-When the case filed by a NGO in Kalpitiya was taken up at the Puttalam Magistrate's Court three times, the Member of Parliament has avoided the court for three times.
-
-Additional District Judge and Magistrate Mrs. Ayona Wimalaratne had ordered the police to arrest the MP and produce the court on the basis of the exclusion of the court without representing the lawyer or a Member of Parliament..  இந்நிகழ்வில், வடமேற்கு மாகாண ஆளுநர்  அஹமட் நசீரும் கலந்துகொண்டார்.
-
-◼️
-
-[Data](articles/a91a0649.json)
-
-[Extended Data](ext_articles/a91a0649.ext.json)
 
 ---

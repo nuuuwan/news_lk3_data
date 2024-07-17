@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 19:35:24**
+As of **2024-07-17 19:54:02**
 
 ## Newspaper Stats
 
-*Scraped **35,748** Articles*
+*Scraped **35,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
-adalk | 3,227
+adalk | 3,229
 adaderanalk | 4,128
 tamilmirrorlk | 4,321
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,747 (100.0%) of 35,748 articles have been extended.
+35,748 (100.0%) of 35,750 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ The six were all of Vietnamese ethnicity, two of those U.S. nationals. Police sa
 ...
 
 [Data](articles/2762e73c.json)
+
+[Extended Data](ext_articles/2762e73c.ext.json)
+
+---
+
+### ජනාධිපති කාර්යාලයේ භික්ෂු සම්බන්ධීකරණ ඒකකය විවෘත කෙරේ
+
+*2024-07-17 18:48:48* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-කාර්යාලයේ-භික්ෂු-සම්බන්ධීකරණ-ඒකකය-විවෘත-කෙරේ/11-410838) · `si`
+
+රට ආර්ථික සහ සමාජයීය වශයෙන් නඟා සිටුවීමට ජනපති ගෙන යන වැඩපිළිවෙළට මහා සංඝරත්නයේ ආශිර්වාදය නිරතුරුවම හිමි වෙනවා – මල්වතු පාර්ශ්වයේ අනුනායක ආචාර්ය අතිපූජ්‍ය නියංගොඩ විජිතසිරි අනුනායක ස්වාමීන් වහන්සේ.
+
+ශාසනික වශයෙන් අර්බුද රැසක් නිර්මාණය වී තිබෙන යුගයක මෙවැනි ආයතනයක් විවෘත කිරීම ඉතා කාලෝචිත පියවරක් – අස්ගිරි පාර්ශ්වයේ නියෝජ්‍ය ලේඛකාධිකාරී අතිපූජ්‍ය නාරංපනාවේ ආනන්ද හිමිපාණන් වහන්සේ.
+
+සම්බුදු සසුන සුරක්ෂිත කරමින් ඉදිරියට ගෙන යාමට ආණ්ඩු ක්‍රම ව්‍යවස්ථාව අනුව රජය වෙත පැවරී ඇති වගකීම නිසි ලෙස ඉටු කිරීමේ දී මහා සංඝරත්නය සම්බන්ධීකරණය කිරීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි ජනාධිපති කාර්යාලයේ ස්ථාපිත කෙරුණු භික්ෂු සම්බන්ධීකරණ ඒකකය තෛන්‍රිකායික මහා සංඝරත්නයේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ සහභාගිත්වයෙන් අද (17) පෙරවරුවේ විවෘත කෙරිනි.
+
+මහා සංඝරත්නයේ සෙත් පිරිත් සජ්ජායනා මධ්‍යයේ නව ඒකකය විවෘත කෙරිණි.
+
+...
+
+[Data](articles/203b38e0.json)
 
 ---
 
@@ -153,6 +173,20 @@ The relevant new system is scheduled to commence from next Friday (19).
 [Data](articles/544dfee6.json)
 
 [Extended Data](ext_articles/544dfee6.ext.json)
+
+---
+
+### චමිරිගේ නායකත්වයෙන් යුත් විස්සයි20 සංචිතය එළියට
+
+*2024-07-17 17:00:52* · [`adalk`](https://www.ada.lk/sports/චමිරිගේ-නායකත්වයෙන්-යුත්-විස්සයි20-සංචිතය-එළියට/9-410831) · `si`
+
+කාන්තා ආසියානු කුසලාන තරගාවලිය වෙනුවෙන් ක්‍රීඩා කරන ශ්‍රී ලංකා කාන්තා සංචිතය ක්‍රිකට් ආයතනය විසින් ප්‍රකාශයට පත්කර තිබේ. මෙහි නායකත්වය චමරි අතපත්තු නම් කර තිබේ. ආසියානු කුසලාන ක්‍රිකට් තරගාවලිය එළැඹෙන 19දා දඹුල්ලේදී ආරම්භ විමට නියමිතය.
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් සංචිතය - චමරි අතපත්තු (නායිකා), විශ්මි ගුණරත්න, හර්ෂිතා සමරවික්‍රම, හසිනි පෙරේරා, කවිෂා දිල්හාරි, නිලක්ෂි ද සිල්වා, අනුෂ්කා සංජීවනී, සුගන්දිකා කුමාරි,  උදේශිකා ප්‍රබෝධනී, අචිනි කුලසූරිය, ඉනෝෂි ප්‍රියදර්ශනී, කාව්‍යා කාවින්දි, සචිනි නිසංසලා, ශෂිනි ගිම්හානි,  අමා කාංචනා
+
+◼️
+
+[Data](articles/8dc9256a.json)
 
 ---
 
@@ -2283,47 +2317,5 @@ The move is a step towards ensuring that the regulations governing the economic 
 [Data](articles/a14a9cfe.json)
 
 [Extended Data](ext_articles/a14a9cfe.ext.json)
-
----
-
-### Cabinet nod to publish gazette to increase fines under Criminal Procedure Code
-
-*2024-07-17 04:40:58* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-publish-gazette-to-increase-fines-under-Criminal-Procedure-Code/56-764349) · `en`
-
-The Cabinet of Ministers on Monday approved publishing the draft Bill prepared to increase the fines mentioned in the Criminal Procedure Code, in the Government gazette and subsequently present it to the Parliament for approval.
-
-The Bill prepared accordingly by the Legal Draftsman has received the clearance of the Attorney General.
-
-On 27 November 2023, the Cabinet approved amending the Criminal Procedure Code so that the fines mentioned in the Criminal Procedure Code can be increased based on the current monetary value.
-
-The proposal to this effect submitted by the Justice, Prison Affairs and Constitutional Reforms Minister was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/84953586.json)
-
-[Extended Data](ext_articles/84953586.ext.json)
-
----
-
-### Cabinet approves second national action plan to eliminate sexual and gender-based harassment
-
-*2024-07-17 04:40:41* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-second-national-action-plan-to-eliminate-sexual-and-gender-based-harassment/56-764348) · `en`
-
-The Cabinet of Ministers on 9 July approved the proposal for a new multi-sectoral national action plan aimed at eliminating sexual and gender-based harassment in Sri Lanka.
-
-This initiative, titled the National Action Plan II (2024-2028) was presented by President Ranil Wickremesinghe, who also serves as the Minister of Women, Children Affairs, and Social Empowerment.
-
-The approval follows a comprehensive follow-up and assessment process that evaluated the impact of the first national action plan, which was implemented from 2012-2020.
-
-The assessment highlighted the necessity for continued policy involvement to ensure the rights of women, men, children and all gender-diverse groups to live in a fair and socially inclusive environment, free from violence and harassment.
-
-The new action plan has been developed in consultation with various stakeholders, reflecting a broad and inclusive approach to policy-making.
-
-...
-
-[Data](articles/87866b1b.json)
-
-[Extended Data](ext_articles/87866b1b.ext.json)
 
 ---

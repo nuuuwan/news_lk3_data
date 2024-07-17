@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 07:01:37**
+As of **2024-07-17 07:27:40**
 
 ## Newspaper Stats
 
-*Scraped **35,636** Articles*
+*Scraped **35,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,43 @@ dbsjeyarajcom | 316
 colombotelegraphcom | 337
 bbccomsinhala | 347
 newsfirstlk | 363
-islandlk | 2,018
+islandlk | 2,027
 economynextcom | 2,118
 dailyftlk | 2,262
 adalk | 3,214
 adaderanalk | 4,113
-tamilmirrorlk | 4,300
+tamilmirrorlk | 4,301
 dailymirrorlk | 4,733
 virakesarilk | 5,558
-adaderanasinhalalk | 5,957
+adaderanasinhalalk | 5,958
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,634 (100.0%) of 35,636 articles have been extended.
+35,636 (100.0%) of 35,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### සැලකිලිමත් වන්න - කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-07-17 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198890) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+අරාබි මුහුද ප්‍රදේශ හා බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර යාත්‍රා සහ නාවික ප්‍රජාව මේ පිළිබඳව වඩාත් සැලකිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා අරාබි මුහුදු ප්‍රදේශයේ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ ඉතා තද සුළං පැවතිය හැකි අතර, එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැකිය.
+
+ඉහත සිතියමේ රතු වර්ණයෙන් දැක්වෙන මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙස ද නාවික හා ධීවර ප්‍රජාවන්ට කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/3bcf19b7.json)
+
+---
 
 ### Lawyers’ Collective speaks out on 22nd Amendment to the Constitution Bill
 
@@ -41,6 +59,8 @@ The Cabinet of Ministers has approved the Twenty-Second Amendment to the Constit
 ...
 
 [Data](articles/26c5ad91.json)
+
+[Extended Data](ext_articles/26c5ad91.ext.json)
 
 ---
 
@@ -59,6 +79,8 @@ It was this routine and without any exaggeration to say my commitment and dedica
 ...
 
 [Data](articles/ff79e267.json)
+
+[Extended Data](ext_articles/ff79e267.ext.json)
 
 ---
 
@@ -338,6 +360,22 @@ In response Wickramaratne taking to social media platform X yesterday said such 
 
 ### 2024-07-16 (Tuesday)
 
+### கடும் காற்று, மழை நீடிக்கும்
+
+*2024-07-16 23:52:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-காற்று-மழை-நீடிக்கும்/175-340519) · `ta`
+
+தென்மேற்கு பருவப்பெயர்ச்சியால் நாட்டில் தற்போது நிலவும் கடும் காற்று மற்றும் மழையுடனான வானிலை தொடர்ந்து நீடிக்குமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், சப்ரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை ஆகிய மாவட்டங்களிலும் 75 மில்லி மீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவிக்கின்றது.
+
+நாட்டின் ஏனைய பகுதிகளில் இடைக்கிடையே மழை பெய்யுமென்றும் வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/e03770bd.json)
+
+---
+
 ### Dambulla lost the final round of success;Kandy Belgons entered the final round as the last team
 
 *2024-07-16 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188641) · `ta`
@@ -500,6 +538,18 @@ The tanker was built in 2007 and sails under the flag of the Comoros.
 
 ---
 
+### Nestlé Lanka celebrates business partnerships at ‘Connect@Nest’24’
+
+*2024-07-16 22:37:00* · [`islandlk`](http://island.lk/nestle-lanka-celebrates-business-partnerships-at-connectnest24/) · `en`
+
+Nestlé Lanka recently held the ‘Connect@Nest’24’ event, to honour and recognize the valued business partnerships of the ‘Good Food Good Life’ company. This felicitation event brought together a diverse array of business partners across the value chain, all of whom contribute to Nestlé Lanka’s vision of delighting Sri Lankan consumers with products filled with taste and goodness.
+
+...
+
+[Data](articles/bf8b3229.json)
+
+---
+
 ### Oil carriers served in Sri Lankans sinking sea
 
 *2024-07-16 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198889) · `si`
@@ -517,6 +567,50 @@ It is said that the ship was sailing to the Harbor port of Yemen.
 [Data](articles/c8d28aa8.json)
 
 [Extended Data](ext_articles/c8d28aa8.ext.json)
+
+---
+
+### ‘Record year for Sarvodaya Development Finance as profits and assets soar’
+
+*2024-07-16 22:35:00* · [`islandlk`](http://island.lk/record-year-for-sarvodaya-development-finance-as-profits-and-assets-soar/) · `en`
+
+Sarvodaya Development Finance PLC has achieved a record-breaking year in terms of financial performance, marking financial year 2023/24 as one of unprecedented growth and resilience.
+
+Accordingly, the company reported its highest-ever profits, underpinned by a robust 43.5% growth in Net Interest Income and a 45.7% increase in Total Operating Income. Despite challenges amidst a dynamic economic environment, Profit Before Tax surged by 36.4%, while Profit After Tax rose by 12.6% to LKR 249.5 million, demonstrating the company’s strategic acuity and operational efficiency.
+
+The company’s performance in the Non-Banking Financial Institutions (NBFI) sector was particularly noteworthy. Sarvodaya Development Finance PLC achieved a growth in Total Assets of 27.7%, significantly outpacing the industry average of 7.7%. Meanwhile, the Lending Portfolio grew by 29.5% compared to the industry average of 4.5%, and Deposits rose by 21%, well above the industry’s 8.8%.
+
+...
+
+[Data](articles/c1134117.json)
+
+---
+
+### Nations Trust Bank supports restoration of historic murals at Gothami Viharaya
+
+*2024-07-16 22:33:00* · [`islandlk`](http://island.lk/nations-trust-bank-supports-restoration-of-historic-murals-at-gothami-viharaya/) · `en`
+
+July 2024, Colombo: Nations Trust Bank partnered with the George Keyt Foundation for the restoration of historic mural art at the Gothami Viharaya in Colombo, with the aim to preserve Sri Lanka’s cultural heritage.
+
+The murals at Gothami Viharaya, dating back nearly a century, underwent a restoration due to a significant threat to the historic building and its art. Nations Trust Bank supported the first phase of the restoration project, which involved the conservation of the historic art. The project highlights the Bank’s strategic focus on CSR and sustainability, and its ongoing support of Sri Lankan art and culture. The initiative is also an extension of the Bank’s long-term partnership with the George Keyt Foundation.
+
+...
+
+[Data](articles/b42c943c.json)
+
+---
+
+### Feverish investor speculation over governmental change stalls bourse
+
+*2024-07-16 22:32:00* · [`islandlk`](http://island.lk/feverish-investor-speculation-over-governmental-change-stalls-bourse/) · `en`
+
+Mixed signals came from the CSE yesterday as some local and foreign investors apparently agonized over what the next presidential election holds for them. ‘Would the next government upset the current status quo of the economy? market analysts quoted them as asking.
+
+Consequently, the All Share Price Index went down by 13.23 points while S and P SL20 rose by 1.56 points. Turnover stood at Rs 1.1` billion with two crossings. Those crossings were reported in Sampath Bank, which crossed 3.1 million shares to the tune of Rs 246 million; its shares traded at Rs 38 and Pan Asian Bank 10.7 million shares crossed for Rs 220 million; its shares traded at Rs 20.50.
+
+...
+
+[Data](articles/c280db54.json)
 
 ---
 
@@ -2167,151 +2261,5 @@ The Current Buying Conditions measure reached a new peak of 29 points in June, i
 [Data](articles/92f642df.json)
 
 [Extended Data](ext_articles/92f642df.ext.json)
-
----
-
-### Sri Lanka launches essay competition on Economic Transformation bill
-
-*2024-07-16 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-essay-competition-on-economic-transformation-bill-172327/) · `en`
-
-ECONOMYNEXT – Sri Lanka will launch an island-wide newspaper article competition on public financial management, to raise awareness and engagement among youth.
-
-The government wants to educate school students about the Financial Management Bills and the Economic Transformation Bills, the president’s media division said.
-
-Articles in Sinhala, Tamil, and English, need to be submitted on the theme “My Country Developed by 2048 through Formal Public Financial Management and Sustainable Economic Transformation”.
-
-Winners and winning schools will receive prizes and certificates, the PMD said.
-
-Students from all government schools, piriven, private schools approved by the Ministry of Education, and bhikkus and bhikkunees are eligible to participate.
-
-The deadline for applications for this competition, organized by the Presidential Secretariat, the Ministry of Education and the Government Information Department, is on July 31.
-
-...
-
-[Data](articles/cf5b37d6.json)
-
-[Extended Data](ext_articles/cf5b37d6.ext.json)
-
----
-
-### I will act after marriage - Mrs. Varalakshmi Sarathkumar
-
-*2024-07-16 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/188597) · `ta`
-
-Varalakshmi Sarathkumar, a prominent actress in Tamil, Telugu, Malayalam, and Kannada films, recently married Mumbai businessman Nikolai Sasdev. Despite her marriage, she plans to continue acting in films, emphasizing that cinema is a significant part of her life. Their wedding took place in Thailand, followed by a meeting in Chennai. Varalakshmi's upcoming film, 'Rayan,' is set to release soon, showcasing her alongside leading actor Sudeep in a project directed by Vijay Karthikeya.
-
-🟩
-
-Mrs. Varalakshmi Sarathkumar Nikolai Sasdev said, "I will continue to work in the screen world after marriage."
-
-Varalakshmi Sarath Kumar, who is approaching forty -year -olds in Tamil, Telugu, Malayalam and Kannada, and Mumbai businessman Nikkolai Sasdev, with the consent of their parents on the 10th of last month, were married to a coastal luxury in Thailand.
-
-The couple met in Chennai after the wedding. Speaking at the time, Varalakshmi Sarathkumar said, “We are our life cinema. So I will continue to act in cinema after marriage. ”
-
-Meanwhile, actress Varalakshmi Sarathkumar starrer 'Rayan' will be released in the filmmaker later this month.. It is also worth noting that Varalakshmi is playing the role of Sudeep's hero Sudeep's story in Kannada's leading star Sudeep, directed by director Vijay Karthikeya.
-
-◼️
-
-[Data](articles/ca45757b.json)
-
-[Extended Data](ext_articles/ca45757b.ext.json)
-
----
-
-### Female non-academic staff member of school arrested with heroin
-
-*2024-07-16 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100553/female-non-academic-staff-member-of-school-arrested-with-heroin) · `en`
-
-A female non-academic staff member of a government school has been arrested for the possession of 210 grams of heroin.
-
-The suspect was arrested by officers of the Matara Crime Division near the Bodhimaluwa Temple in the Weligama Police Division last evening (15).
-
-The arrestee is a 43-year-old resident of the Denipitiya area.
-
-Police stated that she is employed as a non-academic staff member of a government school in the Ayagama area and had been involved in distributing drugs for an organized crime and a drug trafficker in the Midigama area.
-
-The investigations have revealed that the suspect had only recently started trafficking drugs and was distributing them to individuals as directed by drug traffickers hiding overseas and handling the drug networks.
-
-The individuals who received the drugs from her were also allegedly involved in smaller-scale drug rackets.
-
-...
-
-[Data](articles/3f4c9306.json)
-
-[Extended Data](ext_articles/3f4c9306.ext.json)
-
----
-
-### The Promise of Fanum
-
-*2024-07-16 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198873) · `si`
-
-Candy Leader Fani Hasaranga, addressing post-Colombo Strikers' victory in the Sri Lanka Premier League, expressed confidence in overcoming personal challenges without letting them affect his gameplay. He highlighted his past successes and the importance of maintaining performance standards for future tournaments.
-
-🟩
-
-Candy Leader Fani Hasaranga stated that he is expecting the challenges facing the challenges he hazards.
-
-He was speaking at a press conference yesterday (15) after the Colombo Strikers team.
-
-"Any man who is difficult time and any man can be in their lives. I face the snow of the snow. I know what I can do. I know what I've done. The challenges that come from a player do not interfere with my game, I do what I can do with the game. I was the hero of last year. Regrets that this year is not talented. Glad the talent in the last match. This is important for the future tournaments. "
-
-Colombo Strikers were able to win the Sri Lanka Premier League cricket yesterday.
-
-The goal won only 138 runs for the loss of 19 overs and scored 138 balls to bat first.
-
-The number of wickets held at 20 runs for the excellence engaged in excellent bowler.
-
-Chasing a 139-run target, Colombo team passed the target to bat first and scored only 3 wickets in 18 overs.
-
-...
-
-[Data](articles/b990dbc0.json)
-
-[Extended Data](ext_articles/b990dbc0.ext.json)
-
----
-
-### Sri Lanka Water Board to sell under formula from 2025
-
-*2024-07-16 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-water-board-to-sell-under-formula-from-2025-172320/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a cost-based price formula for state-run National Water Supply and Drainage Board, Minister Bandula Gunawardana said.
-
-The price formula will be implemented from next year, Minister Gunawardana told reporters Tuesday.
-
-The price formula is part of reforms linked to a 100 million US dollar budget support loan from the Asian Development Bank.
-
-The Water Board hiked rates after years of running losses, following an economic collapse which also pushed up costs.
-
-Though the Water Board is now making operational profits, it is not making cashflow to settle loans. (Colombo/July16/2024)
-
-◼️
-
-[Data](articles/d3beb85b.json)
-
-[Extended Data](ext_articles/d3beb85b.ext.json)
-
----
-
-### Sri Lanka prepares policy to admit foreign university students
-
-*2024-07-16 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-prepares-policy-to-admit-foreign-university-students-172313/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved a policy to admit foreign students to 26 local state and private universities, based on internationally accepted minimum qualifications, Cabinet Spokesman Bandula Gunawardena, said.
-
-“The Cabinet approved the proposal to consider the minimum qualification recognized for university admission by the 193 United Nations Member countries, as the minimum qualification to enroll for degree programmes,” Gunawardena told reporters on Tuesday.
-
-Exceptional cases which are not covered by the aforesaid, will be considered according to the UK NARIC institution specified qualifications, he said.
-
-Sri Lanka can become a ‘knowledge hub’ through widening the opportunities for admission of foreign students to the 26 degree awarding institutions which are recognized by Section 25(A) of the University Act in Sri Lanka, the minister said.
-
-The 17 state universities under the University Grants Commission allocate 5 percent of enrollments for foreign students annually.
-
-...
-
-[Data](articles/f2a342d3.json)
-
-[Extended Data](ext_articles/f2a342d3.ext.json)
 
 ---

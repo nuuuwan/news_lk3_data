@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 13:05:15**
+As of **2024-07-17 13:20:08**
 
 ## Newspaper Stats
 
-*Scraped **35,697** Articles*
+*Scraped **35,698** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,123
 dailyftlk | 2,262
 adalk | 3,218
 adaderanalk | 4,122
-tamilmirrorlk | 4,314
+tamilmirrorlk | 4,315
 dailymirrorlk | 4,733
 virakesarilk | 5,562
 adaderanasinhalalk | 5,969
@@ -26,11 +26,35 @@ adaderanasinhalalk | 5,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,697 (100.0%) of 35,697 articles have been extended.
+35,698 (100.0%) of 35,698 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### The present is the answer to the medical superintendent
+
+*2024-07-17 12:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்போது-உள்ளவரே-பதில்-வைத்திய-அத்தியட்சகர்/175-340549) · `ta`
+
+Health Minister Ramesh Pathirana confirmed the presence of the medical superintendent at the Chavakachcheri Resource Hospital, stating it's the current appointee. The following day, Dr. K. Rajeev was named the Advisory Superintendent, taking over on the 9th.
+
+🟩
+
+Health Minister Ramesh Pathirana said that the medical superintendent of the Chavakachcheri Resource Hospital is present.
+
+Responding to a question by the media after the event held at the Jaffna Teaching Hospital on Wednesday (17), the Minister of Health made this.
+
+The Minister said that the current respondent of the hospital is the officer who is currently appointed at the Chavakachcheri Hospital.
+
+The next day, by the Northern Provincial Health Department, Dr. K.. Rajeev has been appointed as the Advisory Superintendent of Reply on the 9th and assumed responsibility.
+
+◼️
+
+[Data](articles/72de51a3.json)
+
+[Extended Data](ext_articles/72de51a3.ext.json)
+
+---
 
 ### Diana Gamage withdraws petition against SJB decision
 
@@ -2209,27 +2233,5 @@ That is because we have the strength to save this country, and we love our mothe
 [Data](articles/f9c17817.json)
 
 [Extended Data](ext_articles/f9c17817.ext.json)
-
----
-
-### CTU to take legal action over govt’s one-time allowance
-
-*2024-07-16 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100562/ctu-to-take-legal-action-over-govts-one-time-allowance) · `en`
-
-The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin says that they intend to take legal action against the government’s decision to grant a one-time allowance to teachers who reported for duty during the recent strike.
-
-He stressed this today (16) while speaking at a press conference held by the Teacher-Principal trade unions.
-
-“In 1986, salary adjustments were made in this manner which led to a Supreme Court case. There it was stated that such unequal treatment could not be accepted. We will go to the Supreme Court on the basis of that decision”, said the General Secretary of the CTU.
-
-Accordingly, he further emphasized that the government should not discriminate against others in this manner and declared that this matter would be taken to the Supreme Court.
-
-The Cabinet of Ministers yesterday approved a proposal to pay a Rs. 10,000 one-time allowance to all government employees below Executive Grade level who reported for duty during the recent strike.
-
-...
-
-[Data](articles/9cf5b195.json)
-
-[Extended Data](ext_articles/9cf5b195.ext.json)
 
 ---

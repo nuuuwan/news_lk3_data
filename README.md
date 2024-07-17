@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 21:07:23**
+As of **2024-07-17 21:20:21**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,770 (100.0%) of 35,772 articles have been extended.
+35,772 (100.0%) of 35,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### சுயேட்சை வேட்பாளராக களமிறங்குகின்றார் ரணில்
+### Ranil is fielding as an independent candidate
 
 *2024-07-17 20:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுயேட்சை-வேட்பாளராக-களமிறங்குகின்றார்-ரணில்/175-340577) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராக போட்டியிடுவாரென ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார தெரிவித்துள்ளார்.
+Ranil Wickremesinghe, contesting as an independent, meets with the Elections Commission to expedite the upcoming presidential election. His candidacy poses no threat to major parties, United People's Power and National People's Power, and he expresses confidence in winning with increased votes.
 
-தேர்தல்கள் ஆணைக்குழுவுடனான சந்திப்பின் பின்னர் ஊடகங்களிடம் இதனைக் குறிப்பிட்ட அவர், தேர்தலை மிகக் குறுகிய காலத்திற்குள் நடத்துமாறு தேர்தல்கள் ஆணைக்குழுவைக் கோரியுள்ளதாகவும் குறிப்பிட்டுள்ளார்.
+🟩
 
-ஐக்கிய மக்கள் சக்தி மற்றும் தேசிய மக்கள் சக்தி ஆகிய கட்சிகளால் ரணில் விக்ரமசிங்கவின் வேட்புமனுவுக்கு எந்த அச்சுறுத்தலும் இல்லை.
+United National Party General Secretary Palitha Range Bandara says President Ranil Wickremesinghe will contest the upcoming presidential election as an independent candidate.
 
-எனவே, எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்க அதிக வாக்குகளைப் பெற்று வெற்றியீட்டுவார் என  நம்பிக்கை வெளியிட்டுள்ளார்.. R
+After meeting with the Elections Commission, he told the media that he had requested the Election Commission to hold the election within a short time.
+
+Ranil Wickremesinghe's candidature has no threat to the United People's Power and the National People's Power.
+
+Therefore, Ranil Wickremesinghe has expressed hope that he will win the upcoming presidential election with more votes.. Remble
 
 ◼️
 
 [Data](articles/23b69be8.json)
+
+[Extended Data](ext_articles/23b69be8.ext.json)
 
 ---
 
@@ -236,19 +242,25 @@ The minister had promised that the most important issues could be resolved quick
 
 ---
 
-### රටේ ආර්ථිකය තවමත් පිහි දාරය මතයි
+### The economy of the country is still on the edge of knives
 
 *2024-07-17 18:08:56* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ආර්ථිකය-තවමත්-පිහි-දාරය-මතයි/11-410834) · `si`
 
-ණය ප්‍රතිව්‍යුහගත කිරීම ගැන ආරංචිය සුබ බව සඳහන් කළද රටේ ආර්ථිකය තිබෙනුයේ තවමත් පිහියෙහි දාරය මත බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+The country's economy remains precarious, with discussions ongoing between the IMF and creditors about simultaneous debt restructuring and financial aid. Despite progress, the finalization of agreements and presentation of documents to Parliament are pending, potentially impacting the IMF program. The situation underscores the critical role of the government in navigating economic recovery and the importance of public support in overcoming challenges.
 
-කොළඹ විපක්ෂනායක කාර්යාලයේ අද (17දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව  සඳහන් කළේය.එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+🟩
 
-&ජාත්‍යන්තර මුල්‍ය අරමුදලේ වැඩපිළිවෙළ සහ ණය ප්‍රතිව්‍යුහගතකරණය එකට යා යුතු බව  ජාත්‍යන්තර මූල්‍ය අරමුදල , රජය සහ ණය හිමියන් එකඟවෙලා තිබෙන්නේ.  නමුත් ජාත්‍යන්තර ණය ප්‍රතිව්‍යුහගතකරණය අවසන් වෙලා නෑ. ද්විපාර්ශ්වික ණය සම්බන්ධයෙන් එකඟතාවකට පැමිණි බව ආණ්ඩුව කිව්වත් ඒ සම්බන්ධයෙක් අත්සන් කරපු ලියවිලි පාර්ලිමේන්තුවට ඉදිරිපත් කරලා නෑ.  ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් වන ආරංචිය තවම ලැබිලා නෑ.  ලැබුණට පස්සේ ඒ ගැන පාර්ලිමේන්තුවේදී සාකච්ඡා කිරීමට තිබෙනවා.
+According to the Indian Forus, MP Dr. Harsha de Silva, said that the country's economy is still in the country's economy.
+
+He was speaking at a press conference held at the Colombo Opposition Office today (17), he added: MP Dr. Harsha de Silva said so.
+
+& IMF and creditors have agreed that the International Monetary Fund Program and Debt Restruction should go together.But international debt restructuring is not over. According to the government that the government had agreed on bilateral loans, but the signed documents had not been presented to Parliament.The news on loans has not yet received the news.Once you get, it is available to discuss it in Parliament.
 
 ...
 
 [Data](articles/0a418d27.json)
+
+[Extended Data](ext_articles/0a418d27.ext.json)
 
 ---
 

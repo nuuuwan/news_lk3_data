@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 18:14:56**
+As of **2024-07-17 18:26:38**
 
 ## Newspaper Stats
 
-*Scraped **35,739** Articles*
+*Scraped **35,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 337
 bbccomsinhala | 350
 newsfirstlk | 363
 islandlk | 2,027
-economynextcom | 2,131
+economynextcom | 2,136
 dailyftlk | 2,262
 adalk | 3,225
 adaderanalk | 4,127
-tamilmirrorlk | 4,320
+tamilmirrorlk | 4,321
 dailymirrorlk | 4,733
 virakesarilk | 5,562
 adaderanasinhalalk | 5,984
@@ -26,23 +26,85 @@ adaderanasinhalalk | 5,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,738 (100.0%) of 35,739 articles have been extended.
+35,739 (100.0%) of 35,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### ජනාධිපති අපේක්ෂකයා කවුදැයි මහින්දගෙන් ඉඟියක්
+### 18 பொருட்களுக்கு விலை வரம்பு
+
+*2024-07-17 18:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-பொருட்களுக்கு-விலை-வரம்பு/175-340563) · `ta`
+
+இந்த வாரத்திற்கான 18 வகையான அத்தியாவசியப் பொருட்களுக்கான மதிப்பிடப்பட்ட விலை வரம்பு பொதுமக்களுக்கும் வர்த்தக சமூகத்தினருக்கும் தெரிவிக்கும் வகையில் வெளியிடப்பட்டுள்ளதாக நுகர்வோர் விவகார அதிகார சபையின் தலைவர் டி.ஐ. உடுவார தெரிவித்தார்.
+
+கோதுமை மா, வெள்ளை சீனி, பருப்பு, உருளைக்கிழங்கு, பெரிய வெங்காயம், சிவப்பு வெங்காயம், காய்ந்த மிளகாய், காய்ந்த மிளகாய், முட்டை, டின் மீன், பச்சை அரிசி, நாட்டு அரிசி மற்றும் கோழி இறைச்சி ஆகியவற்றுக்கான விலை வரம்பு வெளியிடப்பட்டுள்ளதாகவும் தலைவர் தெரிவித்தார்.
+
+இந்த விலை வரம்பு நுகர்வோர் மக்களுக்கு தெரியப்படுத்துவதற்காக அறிவிக்கப்படுவதாகவும் சந்தையில் நிலவும் போட்டியின் மூலம் நுகர்வோர் நியாயமான விலையில் பொருட்களை கொள்வனவு செய்ய முடியும் என நம்புவதாகவும் அதிகார சபையின் தலைவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a6e98b2f.json)
+
+---
+
+### Sri Lanka to conduct threat assessments for presidential candidates
+
+*2024-07-17 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-conduct-threat-assessments-for-presidential-candidates-172681/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has submitted a cabinet paper proposing security measures for presidential candidates and former presidents, following the recent attack on former US President Donald Trump during a campaign rally in the USA.
+
+“This proposal suggests the appointment of a committee to conduct threat assessments and provide necessary security for Presidential candidates as well as former Presidents,” a statement from his media division said.
+
+The committee will include the Secretary of the Ministry of Public Security as Chair, the Chief of Defence Staff, the Inspector General of Police, the Chief of National Intelligence, and the Senior Deputy Inspector General of Police/Elections.
+
+A Deputy Inspector General of Police will be appointed to oversee all security arrangements.
+
+The committee and the designated officer will work closely with the Election Commission to ensure seamless coordination of security arrangements, the PMD said.
+
+...
+
+[Data](articles/5295594e.json)
+
+---
+
+### Sri Lanka rupee closes flat at 303.80/304.00 to US dollar
+
+*2024-07-17 17:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-303-80-304-00-to-us-dollar-172689/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed almost flat at 303.80/304.00 to the US dollar on Wednesday, from 303.70/304.00 to the US dollar on Tuesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.60/75 percent, down from 10.82/92 percent.
+
+A bond maturing on 15.12.2027 closed at 11.60/38 percent, down from 11.65/75 percent.
+
+A bond maturing on 01.05.2028 closed at 11.72/78 percent, down from 11.80/90 percent.
+
+A bond maturing on 15.09.2029 closed at 12.05/10 percent, down from 12.05/20 percent. (Colombo/Jul17/2024)
+
+◼️
+
+[Data](articles/7b64bc44.json)
+
+---
+
+### Mahinda hints at who the presidential candidate is
 
 *2024-07-17 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198922) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරි ජනාධිපතිවරණයේදී සිය පක්ෂය සමග යෑමට සූදානම් නම් පොදුජන පෙරමුණ සම්පූර්ණයෙන් සහයෝගය ලබාදෙන බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+Mahinda Rajapaksa suggests President Ranil Wickremesinghe is prepared to contest in the upcoming presidential election, indicating support from his party.
 
-"මැතිවරණය ජයග්‍රහණය කරගෙන යන වැඩපිළිවෙළ දැන් අපේ අතේ තියෙන්නේ.  සුබ ආරංචිය අපි ජයග්‍රහණය කරනවා. අපේක්ෂකයා දැම්මම තේරෙයි කොච්චර බලගතු කෙනෙක් ද කියලා. අපි හැමදාම ඉදිරිපත් කළේ පොදු අපේක්ෂකයෙක්. ඊළඟට එන්නේ අපේ ආණ්ඩුවක්. ජනාධිපති අපිත් එක්ක යන්න ලෑස්ති නම් අපි සම්පූර්ණයෙන්ම සහයෝගය දෙනවා."
+🟩
+
+President Ranil Wickremesinghe is ready to go with his party in the next presidential election, former President Mahinda Rajapaksa said.
+
+"There is now the program to win elections now.  සුබ ආරංචිය අපි ජයග්‍රහණය කරනවා. The candidate realizes how powerful. We have every day a common candidate. Next is our government. If the president is ready to go with us, we fully support. "
 
 ◼️
 
 [Data](articles/51bfa4d6.json)
+
+[Extended Data](ext_articles/51bfa4d6.ext.json)
 
 ---
 
@@ -94,6 +156,32 @@ University officials said that the woman would lodge a complaint at the police s
 
 ---
 
+### Sri Lanka stocks close down, John Keells, Hemas, Hayleys push turnover
+
+*2024-07-17 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-john-keells-hemas-hayleys-push-turnover-172676/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.41 percent, or 48.44 points, at 11,830; while the more liquid S&P SL20 Index closed down 0.52 percent, or 17.91 points, at 3,456.
+
+Turnover was 1.2 million. A big part of this (Rs597mn) came from John Keells Holdings Plc (down at 194.25).
+
+“There was foreign buying interest on John Keells and Hemas,” Softlogic Stockbrokers said.
+
+Hemas Holdings Plc contributed Rs143mn to the turnover, and the share closed down at 81.10.
+
+Hayleys Plc contributed Rs156mn to the turnover, and the share closed up at 101.50.
+
+The capital goods counters, with all the bluechips, was the leading sector contributing to the day’s turnover.
+
+With the exception of Hayleys and a couple of other companies, the counter saw most stocks close down or flat.
+
+...
+
+[Data](articles/80274596.json)
+
+---
+
 ### New method to apply passports
 
 *2024-07-17 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198920) · `si`
@@ -135,6 +223,44 @@ Police stated that the suspects are to be produced before the Mawanella Magistra
 [Data](articles/4243ae92.json)
 
 [Extended Data](ext_articles/4243ae92.ext.json)
+
+---
+
+### UNP requests earliest possible date for Sri Lanka presidential election
+
+*2024-07-17 16:32:00* · [`economynextcom`](https://economynext.com/unp-requests-earliest-possible-date-for-sri-lanka-presidential-election-172584/) · `en`
+
+ECONOMYNEXT — The United National Party (UNP) has requested Sri Lanka’s Election Commission to hold the 2024 presidential as early as possible, a party official, adding that President Ranil Wickremesinghe will contest as an independent candidate.
+
+UNP General Secretary and former MP Palitha Range Bandara told reporters outside the Election Commission premises Wednesday July 17 afternoon that the UNP anticipates a landslide victory for President Wickremesinghe.
+
+“We asked the election commission to have the election in the shortest time possible,” he said.
+
+Asked about the main opposition the Samagi Jana Balawegaya (SJB) and leftist National People’s Power (NPP), he said: “The SJB and the NPP badly want to accept defeat, so it’ll be good to have an early election to give them what they want.”
+
+“President Ranil Wickremesinghe will contest as an independent candidate. Everyone can join. You can too,” he added.
+
+...
+
+[Data](articles/44d21fc5.json)
+
+---
+
+### Sri Lanka Treasury bill yields drop across maturities
+
+*2024-07-17 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-drop-across-maturities-172643/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction with all 110 billion rupees of bills offered sold, data from the debt office showed.
+
+The 3-month yield fell 36 basis points to 9.55 percent, with all offered 30 billion rupees of bills sold.
+
+The 6-month yield fell 32 basis points to 9.78 percent, with all offered 30 billion rupees of bills sold.
+
+The 12-month bills fell 14 basis points to 10.07 percent, with all offered 50 billion rupees of bills sold. (Colombo/July10/2024)
+
+◼️
+
+[Data](articles/17cfcaf6.json)
 
 ---
 
@@ -2179,161 +2305,5 @@ The USA delegation included senior representatives of the US Department of State
 [Data](articles/6d4766b7.json)
 
 [Extended Data](ext_articles/6d4766b7.ext.json)
-
----
-
-### Ex-BASL Chief condemns President’s remarks on Judiciary
-
-*2024-07-17 04:36:18* · [`dailyftlk`](https://www.ft.lk/news/Ex-BASL-Chief-condemns-President-s-remarks-on-Judiciary/56-764344) · `en`
-
-Former BASL Chief Saliya Peiris PC accuses President Ranil Wickremesinghe of trying to coerce Judiciary to fall in line
-
-Stresses fundamental rights jurisdiction of courts exists to have check on exercise of Executive powers
-
-Says President Ranil Wickremesinghe’s claim that courts do not have judicial power is ridiculous
-
-Notes President is making such rhetoric to cow down Judiciary at crucial time
-
-Former Bar Association of Sri Lanka (BASL) President Saliya Peiris PC has condemned President Ranil Wickremesinghe’s recent comments regarding the Judiciary.
-
-Taking to social media, Peiris said Wickremesinghe is once again trying to coerce the Judiciary to fall in line telling the Judiciary not to interfere with the “executive powers of Parliament”.
-
-Peiris was referring to the comments made by President Wickremesinghe on Sunday in Mahiyanganaya while attending another Urumaya Freehold Land Deeds program.
-
-...
-
-[Data](articles/de5b8800.json)
-
-[Extended Data](ext_articles/de5b8800.ext.json)
-
----
-
-### SJB’s Eran defends AKD against Lohan’s verbal onslaught
-
-*2024-07-17 04:35:34* · [`dailyftlk`](https://www.ft.lk/news/SJB-s-Eran-defends-AKD-against-Lohan-s-verbal-onslaught/56-764343) · `en`
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne has condemned State Minister of Plantation Industries Lohan Ratwatte for his recent comments against rival National People’s Party (NPP) leader Anura Kumar Dissanayake.
-
-Addressing a rally in Kandy over the weekend, Ratwatte had said he will not allow Dissanayake to take over as Sri Lanka’s next leader.
-
-“Has Anura Dissanayake constructed even a small gutter for the people? We won’t allow him to become President of this country as long as I am around in politics,” he had said.
-
-In response Wickramaratne taking to social media platform X yesterday said such statements have dangerous undertones considering Sri Lanka’s history of election interference and violence.
-
-“While I disagree with the policies of NPP and believe that Sajith is the election frontrunner, no politician has the right to allow or not allow a candidate to be elected,” Wickramaratne said.
-
-...
-
-[Data](articles/5b9d56f6.json)
-
-[Extended Data](ext_articles/5b9d56f6.ext.json)
-
----
-
-### AI is a child in the Western Province that cannot steer toilets
-
-*2024-07-17 03:57:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g97dnjkygo) · `si`
-
-In the Western Province, a child named Prabhak struggles with urinary issues due to inadequate toilet facilities at his school in Panadura. The lack of proper sanitation affects his health and education. Despite reforms, over 500 schools in Sri Lanka operate without basic hygiene facilities, impacting nearly a quarter of school-going children. Political appointments hinder improvements, with sanitary workers often not fulfilling their roles adequately. Authorities promise action but challenges remain, highlighting the urgent need for better infrastructure and policies to support children's basic rights.
-
-🟩
-
-AI is a child in the Western Province that cannot steer toilets
-
-Under the new school educational reforms, the BBC Sinhala was aware of a sick child without information in a leading school in Panadura, a leading school in Panadura.
-
-The 13-year-old boy was experiencing the incident is a grade 8.
-
-Let us call him in the name of Prabhak without revealing his real name.
-
-"Mommy my stomach hurts. It is hard to urine, "It is how Prabhakh was first educated by his mother.
-
-He took Prabhak to a doctor where his mother could not tolerate the difficulties of his son, working in everyday homes.
-
-There, she knew that his Son had a negative condition.
-
-When questioned by the doctor, the child had told the school toilets, as he had been accustomed to urinating school until the end of the school.
-
-Although the actual event of the above was a minor, there is a serious health problem.
-
-It is the extent of the interestholder concerning the authorities with schoolchildren of school children.
-
-...
-
-[Data](articles/109c978d.json)
-
-[Extended Data](ext_articles/109c978d.ext.json)
-
----
-
-### Cabinet approval to implement the cyst formula from 2025
-
-*2024-07-17 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188644) · `ta`
-
-The Cabinet approved a water tariff policy and a cyst formula for the National Water Supply and Drainage Board, granting authority for a new payment policy and formula. It was decided to consult stakeholders and amend the policy and formula before implementing them from 2025.
-
-🟩
-
-The Cabinet has approved the implementation of a water tariff policy and a cyst formula for review of the National Water Supply and Drainage Board.
-
-Authority for the new Water Supply and Drainage Board's new payment policy and formula has been granted at a Cabinet meeting held on April 8.
-
-It has been decided to consult with all parties and submit all the necessary amendments and submit a new water payment policy and water payment formula.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Water Supply and Estate Infrastructure Development to implement the prepared water payment policy and the revised cyst formula from 2025.
-
-◼️
-
-[Data](articles/283e3920.json)
-
-[Extended Data](ext_articles/283e3920.ext.json)
-
----
-
-### Resolution to complete the program to modernize the Nanuoya Railway Station
-
-*2024-07-17 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188643) · `ta`
-
-The Cabinet approved the modernization of the Nanuoya Railway Station, increasing its budget to 101.81 million rupees. The project will be executed by the Central Advisory Bureau of the Sri Lanka Railway Department and the Engineering Services Bureau, with additional funding from the Sri Lanka Tourism Development Authority and the Sri Lanka Tourism Development Bureau.
-
-🟩
-
-At the Cabinet meeting held on 03.04.04.04.04.04.04.04. To implement the Nanuoya Railway Station using the Fund of the Sri Lanka Tourism Development Authority and the Bureau of the Sri Lanka Tourism Development Bureau.
-
-The contract value for the modernization of the Nanuoya Railway Station has increased by up to 74.63 million rupees of 101.81 million rupees.
-
-Accordingly, under the new revised assessment, the Cabinet has approved the idea of ​​the Minister of Tourism and Lands to fulfill the modernization work through the Central Advisory Bureau of the Sri Lanka Railway Department and the Engineering Services Bureau and the additional amount of money required by the Sri Lanka Tourism Development Authority and the Sri Lanka Tourism Development Bureau.
-
-◼️
-
-[Data](articles/7c0f4b38.json)
-
-[Extended Data](ext_articles/7c0f4b38.ext.json)
-
----
-
-### Do not discuss the election with the president and make decisions independently - Elections Commission
-
-*2024-07-17 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188642) · `ta`
-
-Elections Commission avoids discussing elections with the president, focusing instead on independent decision-making and discussions with other ministries. The commission is preparing for the upcoming presidential election, with funding allocated in the 2024 budget. Talks are underway with several departments to manage the election efficiently, aiming to keep costs under control compared to previous elections.
-
-🟩
-
-We have not engaged in any talks with the president on the presidential election.. RMAL Ratnayake, Chairman of the Elections Commission, said that we will hold talks with the Finance Ministry today.
-
-He made this statement during a media briefing held at the Elections Commission's office on Tuesday (16).
-
-In the 2024 budget, funds have been allocated for the presidential election.
-
-We are in talks with the State Printing Department, the Inspector General of Police, the Attorney General and the Post Office. When the State Programs Department is in talks with the State Press Department, the Printing Chairperson said, "These costs have been increased to four times more than the 2019 presidential election costs.He noted that the costs were valued and referred to to the Commission.
-
-The 2015 presidential election cost 2.7 billion rupees and 4.5 billion rupees in 2019.
-
-...
-
-[Data](articles/32570b92.json)
-
-[Extended Data](ext_articles/32570b92.ext.json)
 
 ---

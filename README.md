@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 21:35:29**
+As of **2024-07-17 21:55:00**
 
 ## Newspaper Stats
 
-*Scraped **35,774** Articles*
+*Scraped **35,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,123 @@ islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
 adalk | 3,231
-adaderanalk | 4,129
-tamilmirrorlk | 4,322
+adaderanalk | 4,130
+tamilmirrorlk | 4,324
 dailymirrorlk | 4,733
-virakesarilk | 5,579
+virakesarilk | 5,582
 adaderanasinhalalk | 5,987
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,772 (100.0%) of 35,774 articles have been extended.
+35,774 (100.0%) of 35,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### ශ්‍රී ලංකා කාන්තා ක්‍රිකට් සංචිතය නම් කරයි
+### கடவுச்சீட்டு விண்ணப்பதாரர்களுக்கு விஷேட அறிவிப்பு
+
+*2024-07-17 21:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-விண்ணப்பதாரர்களுக்கு-விஷேட-அறிவிப்பு/175-340580) · `ta`
+
+கடவுச்சீட்டு விண்ணப்பதாரர்கள், கடவுச்சீட்டினை விண்ணப்பிப்பதற்கு  www.immigration.gov.lk என்ற இணையத்தளத்தின் ஊடாக முன் பதிவு செய்யப்பட வேண்டும் என  குடிவரவு மற்றும் குடியகல்வு திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+
+ஒன்லைனில் பதிவு செய்ததன் பின்னர் முன்னுரிமை முறையின் படி கடவுச்சீட்டுகள் வழங்கப்படும் என குடிவரவு மற்றும் குடியகல்வு திணைக்களம் தெரிவித்துள்ளது.
+
+இது தொடர்பான புதிய முறை எதிர்வரும் வெள்ளிக்கிழமை முதல் ஆரம்பிக்கப்படவுள்ளதாகவும் குறிப்பிடப்படுகின்றது. R
+
+◼️
+
+[Data](articles/0ca52600.json)
+
+---
+
+### Oil tanker capsize in Oman: Eight Indians, one Sri Lankan rescued as search operations continue
+
+*2024-07-17 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100586/oil-tanker-capsize-in-oman-eight-indians-one-sri-lankan-rescued-as-search-operations-continue) · `en`
+
+As the search and rescue operations continue in the aftermath of an oil tanker capsize off the coast of Oman, nine crew members, including eight Indians have been rescued,  sources said.
+
+The rescued individuals also include one Sri Lankan national. Sources further stated that the search and rescue operations to find the remaining crew members will continue in the area.
+
+The Indian Navy had deployed warship INS Teg and P-18, a maritime surveillance aircraft to look for 16 crew members, including 13 Indians, missing when the oil tanker named Prestige Falcon capsized around 25 nautical miles southeast of Ras Madrakah, near the port town of Duqm, on Monday.
+
+Oman’s Maritime Security Center informed that the vessel was a Comoros-flagged oil tanker and told Reuters that the vessel remained “submerged and inverted”.
+
+The centre, however, did not confirm whether the oil or oil products in the vessel were leaking into the sea or if the vessel had stabilised after capsizing.
+
+...
+
+[Data](articles/78cf344e.json)
+
+---
+
+### மின் கட்டணத் திருத்தத்துடன் நீர் கட்டணமும் திருத்தப்படும் - ஜீவன் தொண்டமான்
+
+*2024-07-17 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188718) · `ta`
+
+புதிய மின் கட்டணத் திருத்தத்திற்கு இணைந்தவகையில், நீர்க் கட்டணத்தைக் குறைப்பது குறித்தும் ஆராயப்பட்டு வருவதாகவும், இந்த வாரத்துக்குள் அது குறித்து தீர்மானம் எடுக்கப்படும் எனவும் நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+அத்துடன், மாதாந்தம் 2.8 பில்லியன் ரூபா நட்டத்தை சந்தித்த நீர் வழங்கல் சபையினால் தற்போது 6.2 பில்லியன் ரூபா இலாபத்தை ஈட்ட முடிந்துள்ளதாகவும், அமைச்சர் சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (17) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் ஜீவன் தொண்டமான் இதனைத் தெரிவித்தார்.
+
+“மின் கட்டணத்தைக் குறைக்க நடவடிக்கை எடுத்தமைக்காக அமைச்சர் கஞ்சன விஜேசேகரவை பாராட்டுகின்றோம். நீர் விநியோகம் என்பது மின் கட்டணத்தைச் சார்ந்து இருக்கும் துறையாகும். எனவே, நீர் கட்டணத்தை குறைக்க இந்த மின் கட்டண திருத்தம் உதவும் என நம்பப்படுகிறது.
+
+...
+
+[Data](articles/8a562664.json)
+
+---
+
+### Sri Lanka women name Sri Lanka women's cricket squad
 
 *2024-07-17 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198925) · `si`
 
-ආසියානු කුසලාන කාන්තා T20 ක්‍රිකට් තරගාවලියට සහභාගී වන ශ්‍රී ලංකා කාන්තා කණ්ඩායම අද (17) නම් කෙරුණි.
+The Sri Lanka women's cricket team, led by Chamari Atapattu, competed in the 2020 Asia Cup Women's T20 tournament. The squad included 15 players: Haruni Gunaratne, Hashika Prabodhi, Udeshiyaka Prabodhi, Udunika Prabodi, Isika Prabodi, Kawya Kavinda, Sachini Nanayakkara, Sashini Silva, Shashika Fernando, Imesha Dulani, Ama Kanchana, Nilakshi de Silva, Oshadi Ranasinghe, Inoka Ranaweera, and Sugandika Kumari. They played against 8 other Asian teams over 8 matches to determine the champion of Asia.
 
-චමරි අතපත්තුගේ නායකත්වයෙන් යුත් ශ්‍රී ලංකා සංචිතයට  ක්‍රීඩිකාවන් 15දෙනෙකු ඇතුළත් ය.
+🟩
 
-ආසියාවේ ශූරියන් කවුරුන්ද යන්න තීරණය කෙරෙන ආසියානු කුසලාන කාන්තා 20යි 20 ක්‍රිකට් තරගාවලිය සඳහා කණ්ඩායම් 8ක් සුදුසුකම් ලබා ඇති අතර පැවැත්වෙන තරග ගණන 15කි.
+The Sri Lanka women's group participated in the Asia Cup Women's T20 cricket tournament (17).
 
-ඒ අනුව ආසියානු කුසලාන කාන්තා 20යි 20 ක්‍රිකට් තරගාවලියට සහභාගි වන ශ්‍රී ලංකා සංචිතය වන්නේ නායිකා චමරි අතපත්තු, විශ්මි ගුණරත්න, හර්ෂිතා සමරවික්‍රම, හසිනි පෙරේරා, කවීෂා දිල්හාරී, නිලක්ෂි ද සිල්වා, අනුෂ්කා සංජීවනී, සුගන්දිකා කුමාරි, උදේශිකා ප්‍රබෝදනී, අචිනි කුලසූරිය, ඉනෝෂී ප්‍රියදර්ෂනී, කාව්‍යා කාවින්දී, සචිනි නිසංසලා, ෂෂිනි ගිම්හානී සහ අමා කාංචනා ය.
+Chamari Atapattu, led by 15 athletes includes 15 athletes.
 
-මෙවර ආසියානු කුසලාන 20යි 20 කාන්තා ක්‍රිකට් තරගාවලිය සඳහා ශ්‍රී ලංකාව සත්කාරකත්වය දරණ අතර තරගාවලිය ලබන 19 වනදා රංගිරි දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වීමට නියමිතය.
+There are eight matches for the 20 Asian Cup women who decide who in Asia and 8 teams.
 
-ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහභාගී වන පළමු තරගය ලබන 20 වනදා බංග්ලාදේශය සමග පැවැත්වෙයි.
+Accordingly, the Sri Lanka squad of the Asian Cup women's 2020 women's women's 2020 cricketers, Mr. Haruni Gunaratne, Hashika Prabodhi, Udeshiyika Prabodhi, Udunika Prabodi, and Isi Prabodi,Kawarta Kavin, Sachini Nasony, Sashini Shusini Shashini Summer and Ama Kanchana.
+
+Sri Lanka is hosted for the 20 Asian Cups and women's cricket tournament.
+
+The first match of the Sri Lanka women's group will be held with Bangladesh on the 20th.
 
 ◼️
 
 [Data](articles/dc1b216e.json)
+
+[Extended Data](ext_articles/dc1b216e.ext.json)
+
+---
+
+### விபத்தில் வைத்தியர் உயிரிழந்தார்
+
+*2024-07-17 20:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-வைத்தியர்-உயிரிழந்தார்/175-340578) · `ta`
+
+சிலாபம் வைத்தியசாலையில் கடமையாற்றி வந்த பெண் வைத்தியர் ஒருவர் விபத்தில் படுகாயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளார்.
+
+விபத்தில் நாத்தன்டியா - துங்கன்னாவ பிரதேசத்தை சேர்ந்த 37 வயதுடைய செபாலிகா வனமாலி என்ற வைத்தியரே உயிரிழந்துள்ளார்.
+
+கடந்த 4ஆம் திகதி காலை சிலாபம் – கொழும்பு வீதியில் மாதம்பே – கலஹிட்டியாவ பகுதியில் இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்தும் சீமெந்து ஏற்றப்பட்ட லொறியும் ஒன்றுடன் ஒன்று மோதி விபத்துக்குள்ளானது.
+
+தேவாலா சந்தியில் இருந்து சிலாபம் திசை நோக்கிச் பயணித்த பேருந்து வேகத்தைக் கட்டுப்படுத்த முடியாமல் புத்தளம் திசை நோக்கிச் சென்ற சீமெந்து லொறியுடன் மோதி விபத்துக்குள்ளானது.
+
+விபத்தில் சுமார் 27 பேர் காயமடைந்து சிலாபம் பொது வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டனர்.
+
+வைத்தியர் அதே பேருந்தில் சிலாபம் பொது மருத்துவமனைக்கு சென்று கொண்டிருந்த போதே துரதிஷ்டவசமாக விபத்துக்குள்ளானார்.
+
+...
+
+[Data](articles/901ab3ed.json)
 
 ---
 
@@ -96,6 +178,28 @@ On the matter of supporting the President, he clarified, “Not yet, but if the 
 
 [Data](articles/7cc4204e.json)
 
+[Extended Data](ext_articles/7cc4204e.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்கள் வடக்குகிழக்கு தமிழர்களை தனித்துவமான தேசமாக அங்கீகரிக்கும் தீர்வை முன்வைக்கவேண்டும்-தேசிய கிறிஸ்தவ மன்றம் வேண்டுகோள்
+
+*2024-07-17 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188717) · `ta`
+
+இலங்கையின் எதிர்வரும் ஜனாதிபதி  தேர்தலில் போட்டியிடும் அனைத்துவேட்பாளர்களும் வடகிழக்கில் உள்ள தமிழர்களை தனித்துமவமான தேசமாக அங்கீகரிக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள இலங்கை தேசிய கிறிஸ்தவ மன்றம் ஐக்கிய இலங்கைக்குள் குறிப்பிடத்தக்க சுயாட்சியையும்,அதிகாரப்பகிர்வையும் வழங்கவேண்டும் என்ற வேண்டுகோளையும் விடுத்துள்ளது.
+
+இந்த வருடம் பிற்பகுதியில் ஜனாதிபதி தேர்தல் இடம்பெறவேண்டியதன் அவசியத்தை உயர்நீதிமன்றம் வலியுறுத்தியுள்ளதை இலங்கை தேசிய கிறிஸ்தவ மன்றம் வரவேற்கின்றது.
+
+அடிப்படை உரிமைகள், வாக்களிப்பதற்கான உரிமைகள் உள்ளடங்கிய தங்கள் இறைமையை இலங்கை மக்கள் புத்திசாலித்தனதுடனும் பொறுப்புணர்வுடனும் பயன்படுத்தவேண்டும் , என நாங்கள் கேட்டுக்கொள்கின்றோம்.
+
+இதற்கு நாடு எதிர்நோக்கியுள்ள அரசியல், பொருளாதாரநெருக்கடிகள் குறித்து மக்களிற்கு தெரியப்படுத்துவதும், அவர்கள் அறிந்திருப்பது அவசியம்.
+
+மேலும் அவர்கள்ஜனாதிபதி தேர்தல் அதன் பின்னர் இடம்பெறவுள்ள பொதுத்தேர்தலில் போட்டியிடும்  கட்சிகள் வேட்பாளர்களை விமர்சன அடிப்படையில் மதிப்பிடவேண்டும்.
+
+...
+
+[Data](articles/e4bf5e69.json)
+
 ---
 
 ### Police say the best way to take children
@@ -127,6 +231,26 @@ OIC of Colombo Community Police Headquarters, OIC Manoj Samarasekera,
 [Data](articles/8fe6348b.json)
 
 [Extended Data](ext_articles/8fe6348b.ext.json)
+
+---
+
+### ஜனாதிபதி அலுவலகத்தில் பிக்கு ஒருங்கிணைப்புப் பிரிவொன்று ஸ்தாபிப்பு!
+
+*2024-07-17 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188716) · `ta`
+
+ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் பங்களிப்புடன் மகா சங்கத்தினரின் செத் பிரித் பாராயணத்துக்கு மத்தியில்   இந்த அலுவலகம் புதன்கிழமை (17) காலை திறந்து வைக்கப்பட்டது.
+
+புத்தசாசனத்தைப் பாதுகாத்து முன்னெடுப்பது தொடர்பான அரசியலமைப்பு விதந்துரைகளுக்கு அமைவாக அரசாங்கத்திற்கு வழங்கப்பட்டுள்ள பொறுப்பை உரிய முறையில் நிறைவேற்றும் வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனைக்கமைய இந்த அலுவலகம் ஸ்தாபிக்கப்பட்டுள்ளது.
+
+இங்கு விசேட உபதேசமொன்றை நிகழ்த்திய மல்லுவத்து பீட அனுநாயக்க சாஹித்ய சக்ரவர்த்தி கலாநிதி வண. நியங்கொட விஜிதசிறி தேரர்,
+
+''நாடு எதிர்நோக்கும் பொருளாதார, சமூக, கலாச்சார சவால்களை முறியடித்து இலங்கையை பொருளாதார ரீதியில் வலுவூட்டும் ஜனாதிபதியின் வேலைத் திட்டத்திற்கு  எப்பொழுதும் மகாசங்கத்தினரின் ஆசி கிடைக்கும் என்று குறிப்பிட்டார்.
+
+மகா சங்கத்தினருக்கும் ஆட்சியாளர்களுக்கும் இடையிலான உறவுகளை வலுப்படுத்த  இந்த ஒருங்கிணைப்பு அலுவலகம் உதவும் என்றும் அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/af64d2d8.json)
 
 ---
 
@@ -2293,143 +2417,5 @@ The driver of the bus was killed when a Royal Express bus, which was traveling f
 [Data](articles/c188177b.json)
 
 [Extended Data](ext_articles/c188177b.ext.json)
-
----
-
-### Referred to postpone the presidential election Why is Range Bandara asking for a quick election now?
-
-*2024-07-17 09:57:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgl7n7d004lo) · `si`
-
-UNP General Secretary Palitha Range Bandara asked the Elections Commission to postpone the presidential election but later clarified that Ranil Wickremesinghe, contesting as an independent, had not prepared for such a delay.
-
-🟩
-
-It contains nothing here.Veadio header, '' Ranil works as an independent candidate. ''
-
-Referred to postpone the presidential election Why is Range Bandara asking for a quick election now?
-
-UNP General Secretary Palitha Range Bandara has requested the Elections Commission today (July 17) to prompt the vote to postpone the presidential election.
-
-Vajira Abeywardena was also present at the discussion with him.
-
-Afterwards, they were told that Ranil Wickremesinghe is contesting the presidential election and the UNP has no prepared to postpone the presidential election.
-
-◼️
-
-[Data](articles/1d081a38.json)
-
-[Extended Data](ext_articles/1d081a38.ext.json)
-
----
-
-### Man injured as police open fire at tipper truck
-
-*2024-07-17 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100571/man-injured-as-police-open-fire-at-tipper-truck) · `en`
-
-A person was injured when police fired at a tipper truck that defied police orders to stop at a checkpoint on the Kilinochchi - Punareen Road in the Punchi Paranthan area late last night.
-
-Police stated that despite several signals to stop, the driver continued to drive ahead and also tried to endanger the police officers.
-
-One person traveling in the tipper truck was injured during the shooting.
-
-Both the injured person and another individual had fled the area, but one of them was arrested by the police immediately.
-
-The injured individual was later arrested after being admitted to Kilinochchi Hospital for treatment.
-
-Police have initiated investigations to apprehend the other person who had escaped.
-
-During the incident, police found a total of 2 grams and 100 milligrams of crystal methamphetamine, also known as ‘ice’ drugs, inside the tipper truck.
-
-◼️
-
-[Data](articles/f431ec42.json)
-
-[Extended Data](ext_articles/f431ec42.ext.json)
-
----
-
-### Driver killed in two buses
-
-*2024-07-17 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198899) · `si`
-
-In a tragic accident in Malziripura, two drivers lost their lives when their buses collided. The incident involved a bus each from Colombo to Trincomalee and Batticaloa to Colombo routes.
-
-🟩
-
-Two buses were killed when two buses were hit by two buses in the Panlippura area in Malziripura.
-
-Police said that the accident had occurred when a bus traveling from Colombo to Trincomalee and Batticaloa to Colombo.
-
-The deceased has been identified as the driver of Batticaloa to Colombo.
-
-◼️
-
-[Data](articles/01664766.json)
-
-[Extended Data](ext_articles/01664766.ext.json)
-
----
-
-### 'Work in legal for two weeks'
-
-*2024-07-17 09:53:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/இரண்டு-வாரங்களுக்கு-சட்டப்படி-வேலை/52-340530) · `ta`
-
-The Teacher - Chancellor Trade Union Federation will legally strike for two weeks starting from the 22nd of this month.
-
-🟩
-
-The Teacher -Chancellor Trade Union Federation has decided to engage in union action that works legally for two weeks from the 22nd of this month.
-
-◼️
-
-[Data](articles/8d196859.json)
-
-[Extended Data](ext_articles/8d196859.ext.json)
-
----
-
-### Car - 19 year old victim dies in bike accident
-
-*2024-07-17 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198898) · `si`
-
-In a tragic accident near Galgamuwa, a 19-year-old male motorcyclist died after colliding with a car coming from the opposite direction. The driver, a woman, was arrested, and police continue investigating.
-
-🟩
-
-A young man was killed in an accident on the Galgamuwa Police Division in Galgamuwa Police Division.
-
-A car traveling to Galgamuwa to Galgamuwa towards Galgamuwa had collapsed on a motorcycle in the opposite direction.
-
-The motorcyclist who was seriously injured in the accident died on admission to the Galgamuwa hospital.
-
-The woman who was the car driver was arrested and the Galgamuwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f91fffb0.json)
-
-[Extended Data](ext_articles/f91fffb0.ext.json)
-
----
-
-### ‘Red’ alert issued over strong winds and rough seas
-
-*2024-07-17 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100570/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ warning for strong winds and rough seas for naval and multi-day fisherman communities in the Arabian Sea and Bay of Bengal.
-
-As per the warning, very strong winds of 70-80 kmph, and very rough seas are likely over Arabian Sea area (in sea areas bounded by (10N - 20N) and (55E – 75E)) and Bay of Bengal (in sea areas bounded by (12N - 17N) and (83E – 93E)) due to the active south-west monsoonal condition.
-
-Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
-
-Those who are out at aforementioned sea regions are advised to return to coasts or moved safer areas immediately.
-
-Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/9ad9645d.json)
-
-[Extended Data](ext_articles/9ad9645d.ext.json)
 
 ---

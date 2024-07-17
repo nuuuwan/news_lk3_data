@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 05:38:20**
+As of **2024-07-17 06:02:16**
 
 ## Newspaper Stats
 
-*Scraped **35,632** Articles*
+*Scraped **35,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 347
 newsfirstlk | 363
 islandlk | 2,018
 economynextcom | 2,118
-dailyftlk | 2,258
+dailyftlk | 2,260
 adalk | 3,214
 adaderanalk | 4,113
 tamilmirrorlk | 4,300
@@ -26,11 +26,37 @@ adaderanasinhalalk | 5,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,631 (100.0%) of 35,632 articles have been extended.
+35,631 (100.0%) of 35,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### Debt recovery process as rehabilitation mechanism
+
+*2024-07-17 05:41:08* · [`dailyftlk`](https://www.ft.lk/columns/Debt-recovery-process-as-rehabilitation-mechanism/4-764365) · `en`
+
+The revival program recently initiated by CBSL is a big opportunity for the banks to reduce their non-performing balance via rehabilitating the distressed customers while contributing to the national economy of Sri Lanka
+
+...
+
+[Data](articles/e512ac9c.json)
+
+---
+
+### Capt. Miller’s Nelliaddy attack gave birth to the Black Tigers
+
+*2024-07-17 05:27:56* · [`dailyftlk`](https://www.ft.lk/columns/Capt-Miller-s-Nelliaddy-attack-gave-birth-to-the-Black-Tigers/4-764363) · `en`
+
+The LTTE was unable to honour these Black Tigers openly because of the negative publicity involved. So they were honoured privately and anonymously as unknown heroes
+
+Vallipuram Vasanthan alias “Captain Miller” the first suicide bomber of the Liberation Tigers of Tamil Eelam (LTTE) is the focus of this two-part article. A brief description of the pioneering “Black Tiger” or “Karumpuli” and events leading to the first Black Tiger operation on 5 July 1987 was outlined in the first part published last week (https://www.ft.lk/columns/Capt-Miller-the-LTTE-s-first-Black-Tiger-suicide-bomber/4-764150). Details of the LTTE attack on the military camp at the Nelliaddy MMV school premises would be related in this second and concluding part.
+
+...
+
+[Data](articles/c3ce2342.json)
+
+---
 
 ### Business case for ESG in a stabilising economy
 
@@ -2297,65 +2323,5 @@ Mr. Sagala Ratnayake said that school cricket was very important to produce nati
 [Data](articles/9abb8817.json)
 
 [Extended Data](ext_articles/9abb8817.ext.json)
-
----
-
-### Return to prepare the seized ginger medicine
-
-*2024-07-16 13:16:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறிமுதல்-செய்யப்பட்ட-இஞ்சி-மருந்து-தயாரிக்க-விடுவிப்பு/175-340491) · `ta`
-
-The Sri Lankan Cabinet has authorized the purchase of medicinal ginger for the Ayurvedic Drug Corporation due to its use in 87 types of medicines. This move comes amid a ginger shortage, with plans to acquire it at a concessional rate from the Sri Lanka Ayurvedic Pharmaceutical Corporation.
-
-🟩
-
-The Cabinet has approved the purchase of medicinal ginger for the production of the Sri Lanka Ayurvedic Drug Corporation.
-
-The 87 types of medicines produced by the Sri Lanka Ayurvedic Drug Corporation have been used as a raw material and have been identified as a raw material and there is a shortage of ginger in the market.
-
-In the meantime, the Cabinet has approved the idea of ​​the Minister of Health to obtain a ginger at the concessionary price of the Sri Lanka Ayurvedic Pharmaceutical Corporation.
-
-◼️
-
-[Data](articles/de486da6.json)
-
-[Extended Data](ext_articles/de486da6.ext.json)
-
----
-
-### A deadly punishment for the misuse
-
-*2024-07-16 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198872) · `si`
-
-Three MPs were arrested for assaulting a woman and her husband, along with another man, in Pothupitiya Pinnupella. The victim, a 43-year-old local, was found brutally beaten. A suspicious piece of wood led to the discovery of the crime scene. The suspects confessed to the assault, which occurred twice, and were remanded until the 26th.
-
-🟩
-
-The woman was assaulted with her husband and another man who made a discrimination to a woman.
-
-According to the police, the three MPs involved in the incident were arrested.
-
-In the Pothupitiya Pinnupella, a person was brutally assaulted by a person inhumane.
-
-The victim was a 43 year old resident of the area.
-
-The victim of the victim had been broken down.
-
-There was a suspicious piece of wood and inspected a police officer.
-
-The official dog had stayed near a bed asleep in a bed in Lyme room in the area.
-
-Accordingly, after the arrest of him, he was arrested by the police that were arrested for the murder.
-
-Disclosed questions that the woman killed in two occasions had been proposed at two times.
-
-The suspect had stated that the man had been behind the 11 night after his husband was informed of his husband.
-
-The suspects were then produced before the Kalawana Magistrate's Court and remanded till the 26th.
-
-◼️
-
-[Data](articles/a550d1e5.json)
-
-[Extended Data](ext_articles/a550d1e5.ext.json)
 
 ---

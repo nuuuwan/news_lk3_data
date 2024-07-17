@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 02:20:26**
+As of **2024-07-18 02:35:26**
 
 ## Newspaper Stats
 
-*Scraped **35,793** Articles*
+*Scraped **35,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,136
 dailyftlk | 2,262
 adalk | 3,234
 adaderanalk | 4,131
-tamilmirrorlk | 4,328
+tamilmirrorlk | 4,329
 dailymirrorlk | 4,733
 virakesarilk | 5,585
 adaderanasinhalalk | 5,989
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,792 (100.0%) of 35,793 articles have been extended.
+35,793 (100.0%) of 35,794 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,19 +90,41 @@ Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Hassini Pere
 
 ### 2024-07-17 (Wednesday)
 
-### ’ரணிலோ, தம்மிக்கவோ கட்சிக்கு அறிவிக்கவில்லை’
+### ’22 இற்கு கருத்துக்கணிப்பை நடத்தவேண்டும்’
+
+*2024-07-17 23:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-இற்கு-கருத்துக்கணிப்பை-நடத்தவேண்டும்/175-340585) · `ta`
+
+அமைச்சரவையினால் அங்கீகரிக்கப்பட்டுள்ள 22 ஆவது அரசியலமைப்பு திருத்தச் சட்டமூலம் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையினால் நிறைவேற்றப்பட்டாலும் மக்கள் கருத்துக்கணிப்பை நடத்த வேண்டுமென தேர்தல்கள் ஆணைக்குழுவிற்கு ஆலோசனை வழங்க வேண்டிய சூழ்நிலை ஜனாதிபதிக்கு உருவாகுமென சட்டத்தரணிகள் ஒன்றிணைவு தெரிவித்துள்ளது.
+
+அந்த சட்டமூலம் நிறைவேற்றப்பட்டு 30 நாட்களுக்குள் மக்கள் கருத்துக்கணிப்பை நடத்த வேண்டிய சூழ்நிலை உருவாகுமென அந்த அமைப்பு  வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதனூடாக 2 தேர்தல்களை நடத்த வேண்டிய சுமை இலங்கைக்கு ஏற்படுவதுடன், அது நெருக்கடியான நிலையை தோற்றுவிக்குமென சட்டத்தரணிகள் ஒன்றிணைவு எச்சரித்துள்ளது.
+
+...
+
+[Data](articles/d4ed37f8.json)
+
+---
+
+### Ranil nor Tammika not announces to the party
 
 *2024-07-17 23:31:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலோ-தம்மிக்கவோ-கட்சிக்கு-அறிவிக்கவில்லை/175-340584) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவோ அல்லது தொழிலதிபர் தம்மிக்க பெரேராவோ அல்லது வேறு எவரும் ஜனாதிபதித் தேர்தலில் போட்டியிடவுள்ளதாக கட்சிக்கு அறிவிக்கவில்லை என  ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+Namal Rajapakse, national organizer of Sri Lanka PA, confirmed no announcements yet about President Ranil Wickremesinghe, businessman Tamika Perera, or any other candidate for the upcoming presidential election. The PA's Secretary, Sagara Kariyawasam, promised to reveal the candidate's name soon.
 
-ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுனவில் யார் போட்டியிடுவது என்பது தொடர்பில் ஊடகவியலாளர்கள் வினவியபோதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-வேட்பாளர் தொடர்பில் கருத்துத் தெரிவித்த  ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் செயலாளர் சட்டத்தரணி சாகர காரியவசம், உரிய நேரத்தில் வேட்பாளரின் பெயர் அறிவிப்பார் என்றார்.
+Sri Lanka PA has not announced that President Ranil Wickremesinghe or businessman Tamika Perera or anyone else will contest the presidential election, said Namal Rajapakse, the national organizer and parliamentarian of the Sri Lanka PA.
+
+He said this when the journalists questioned who would contest the presidential election in the PA.
+
+Commenting on the candidate, the Secretary of the Sri Lanka Peoples Alliance (PA), Attorney -at -Law Sagara Kariyawasam, will announce the name of the candidate in a timely manner.
 
 ◼️
 
 [Data](articles/5bce7dad.json)
+
+[Extended Data](ext_articles/5bce7dad.ext.json)
 
 ---
 
@@ -2423,29 +2445,5 @@ The woman who was driving the car involved in the accident has been arrested whi
 [Data](articles/e7c9c09c.json)
 
 [Extended Data](ext_articles/e7c9c09c.ext.json)
-
----
-
-### Election Commission - Finance Ministry officials meet
-
-*2024-07-17 11:30:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-நிதி-அமைச்சின்-அதிகாரிகள்-சந்திப்பு/175-340540) · `ta`
-
-Today's meeting between Election Commission and Finance Ministry officials aims to finalize details for the upcoming presidential election, including financial aspects and document preparation.
-
-🟩
-
-A meeting between officials and members of the Elections Commission will be held today (17).
-
-The meeting is held as the Election Commission has the authority to announce the presidential election.
-
-The Election Commission said that several basic documents related to the election have already been handed over to print.
-
-Things about the issue of money and the release of money from the Treasury for the presidential election are to be discussed here.
-
-◼️
-
-[Data](articles/be90520e.json)
-
-[Extended Data](ext_articles/be90520e.ext.json)
 
 ---

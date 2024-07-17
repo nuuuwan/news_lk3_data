@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 18:38:04**
+As of **2024-07-17 18:54:49**
 
 ## Newspaper Stats
 
-*Scraped **35,745** Articles*
+*Scraped **35,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
-adalk | 3,225
+adalk | 3,227
 adaderanalk | 4,127
 tamilmirrorlk | 4,321
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,745 (100.0%) of 35,745 articles have been extended.
+35,745 (100.0%) of 35,747 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -194,6 +194,24 @@ With the exception of Hayleys and a couple of other companies, the counter saw m
 
 ---
 
+### රාජ්‍ය මූල්‍ය කළමනාකරණ පනතට මුදල් කාරක සභාවේ අනුමැතිය
+
+*2024-07-17 16:51:48* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මූල්‍ය-කළමනාකරණ-පනතට-මුදල්-කාරක-සභාවේ-අනුමැතිය/11-410830) · `si`
+
+රාජ්‍ය මූල්‍ය කළමනාකරණ (PFM) පනත් කෙටුම්පතෙහි අඩංගු කරුණු පිළිබඳ දීර්ඝ සාකච්ඡාවකින් අනතුරුව රජයේ මුදල් පිළිබඳ කාරක සභාව විසින් සලකා බලා අනුමත කරන ලදී.
+
+ඒ අනුව, මහජන විශ්වාසය වර්ධනය කිරීම පිණිස කාර්යක්ෂම පද්ධතියක් සකස් කිරීම, කාර්යක්ෂම ලෙස සම්පත් වෙන් කිරීම සහතික කිරීම සහ තිරසාර ආර්ථික වර්ධනයට සහාය වීම අරමුණු කරගත් පනත් කෙටුම්පතක් ඉදිරිපත් කිරීමට මුදල් අමාත්‍යාංශය දරන උත්සාහය පිළිබඳව කාරක සභාවේ ප්‍රසාදය හිමිවිය.
+
+වත්මන් මුල්‍ය රෙගුලාසි නෛතික රාමුවක් මත පදනම් වුව ද ඒවා ප්‍රමාණවත් නොමැති බව පැමිණ සිටි නිලධාරීහු කාරක සභාව හමුවේ පැවැසුහ. ඒ අනුව වත්මන් රාජ්‍ය මූල්‍ය කළමනාකරණ පිළිවෙත්වල ඇති අඩුපාඩු, ආවේනික දුර්වලතා සහ විනිවිදභාවය සහ වගවීමේ ගැටලු හේතුවෙන්, මූල්‍ය විනය ස්ථාපිත කිරීම සඳහා රාජ්‍ය මූල්‍ය කළමනාකරණ (PFM) පනත් කෙටුම්පත සකස් කර තිබෙනවා බව ඔවුහු වැඩි දුරටත් අදහස දක්වමින් පැවසුහ.
+
+රජයේ මුදල් පිළිබඳ කාරක සභාව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගරු (ආචාර්ය) හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් පසුගියදා (11) පාර්ලිමේන්තුවේ දී රැස් වූ අවස්ථාවේදී මෙම පනත් කෙටුම්පත සලකා බලා අනුමත කරන ලදී.
+
+...
+
+[Data](articles/b93623f7.json)
+
+---
+
 ### New method to apply passports
 
 *2024-07-17 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198920) · `si`
@@ -257,6 +275,20 @@ Asked about the main opposition the Samagi Jana Balawegaya (SJB) and leftist Nat
 [Data](articles/44d21fc5.json)
 
 [Extended Data](ext_articles/44d21fc5.ext.json)
+
+---
+
+### ඊ - පාස්පෝට් ලබන වසරේ සිට
+
+*2024-07-17 16:29:48* · [`adalk`](https://www.ada.lk/breaking_news/ඊ---පාස්පෝට්-ලබන-වසරේ-සිට/11-410829) · `si`
+
+ශ්‍රී ලංකාව රජය විසින් ශ්‍රී ලාංකිකයන්ට විද්‍යුත් ගමන් බලපත්‍ර ලබාදීමේ ක්‍රම වේදය ලබන වසරේ ජනවාරි 1 සිට ආරම්භ කිරීමට නියමිත බව ආගමන හා විගමන දෙපාර්තමේන්තුව පවසයි.
+
+ඒ සම්බන්ධයෙන් ආගමන හා විගමන දෙපාර්තමේන්තුව විසින් නිකුත් කළ නිවේදනය
+
+◼️
+
+[Data](articles/2fa598fb.json)
 
 ---
 
@@ -2283,43 +2315,5 @@ Gunawardena assured that the release of confiscated ginger for medicine producti
 [Data](articles/0a08dc93.json)
 
 [Extended Data](ext_articles/0a08dc93.ext.json)
-
----
-
-### Cabinet green lights to utilise Saudi Fund to complete Godagama-Homagama road project
-
-*2024-07-17 04:40:06* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-to-utilise-Saudi-Fund-to-complete-Godagama-Homagama-road-project/56-764346) · `en`
-
-The Cabinet of Ministers on Monday decided to allocate remaining funds from the Saudi Fund for Development to complete the first part of the Godagama-Homagama road project.
-
-The decision follows the successful utilisation of the Saudi funds for the Kurinchakeni Bridge Project in the Trincomalee district.
-
-After the completion of the procurement procedure for the Kurinchakeni Bridge Project, a loan balance of $ 10.5 million remained. The Cabinet of Ministers has approved a proposal presented by the Transport and Highways Minister Bandula Gunawardena to use this remaining balance to finish the partially completed Godagama-Homagama road.
-
-...
-
-[Data](articles/a7d96694.json)
-
-[Extended Data](ext_articles/a7d96694.ext.json)
-
----
-
-### Sri Lanka, US express desire to further strengthen cooperation
-
-*2024-07-17 04:38:26* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-US-express-desire-to-further-strengthen-cooperation/56-764345) · `en`
-
-5th Sri Lanka – USA Partnership Dialogue in Washington chaired by Foreign Secretary Aruni Wijewardane and Acting Under Secretary for Political Affairs John Bass concludes successfully
-
-The 5th Sri Lanka – USA Partnership Dialogue concluded on 12 July 2024 in Washington, D.C. The Sri Lanka delegation was led by Secretary of the Ministry of Foreign Affairs Aruni Wijewardane and the USA side was led by Acting Under Secretary for Political Affairs of the US Department of State John Bass.
-
-The Sri Lanka delegation included Ambassador Mahinda Samarasinghe as well as senior officials of the Sri Lanka Embassy, Washington D.C. and the Ministry of Foreign Affairs.
-
-The USA delegation included senior representatives of the US Department of State, the US Treasury, the US Department of Defence, the US Agency for International Development, and the National Security Council, the White House.
-
-...
-
-[Data](articles/6d4766b7.json)
-
-[Extended Data](ext_articles/6d4766b7.ext.json)
 
 ---

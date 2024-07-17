@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 12:35:22**
+As of **2024-07-17 12:53:57**
 
 ## Newspaper Stats
 
-*Scraped **35,696** Articles*
+*Scraped **35,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,027
 economynextcom | 2,123
 dailyftlk | 2,262
 adalk | 3,218
-adaderanalk | 4,121
+adaderanalk | 4,122
 tamilmirrorlk | 4,314
 dailymirrorlk | 4,733
 virakesarilk | 5,562
@@ -26,11 +26,27 @@ adaderanasinhalalk | 5,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,695 (100.0%) of 35,696 articles have been extended.
+35,696 (100.0%) of 35,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### Diana Gamage withdraws petition against SJB decision
+
+*2024-07-17 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100576/diana-gamage-withdraws-petition-against-sjb-decision) · `en`
+
+Former Minister of State Diana Gamage has withdrawn her petition from the Supreme Court today (17), which was filed seeking an order to annul the decision taken by the Samagi Jana Balawegaya (SJB) to remove her from the party’s National List.
+
+When the petition was taken up today (17), the attorneys appearing on behalf of Diana Gamage informed the court that there was no need to continue with the petition and therefore requested the court to allow its withdrawal.
+
+Accordingly, the Supreme Court granted permission for the petition to be withdrawn.
+
+◼️
+
+[Data](articles/b032bfe5.json)
+
+---
 
 ### Bombshell threats to Ambani home wedding
 
@@ -286,19 +302,25 @@ Company representatives did not respond to Reuters’ requests for comment.
 
 ---
 
-### புதிதாக அறிமுகமான “ பிளவர் குயின் ”
+### The newly introduced "Blower Queen"
 
 *2024-07-17 10:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/புதிதாக-அறிமுகமான-பிளவர்-குயின்/47-340535) · `ta`
 
-“ பிளவர் குயின் ”என்ற புதிய முழு ஆடைப்பால்மாவினை Win int group of கம்பனி இலங்கை சந்தையில் அறிமுகம் செய்துள்ளது. கொழும்பபு shangrila Hotel இல் திங்கட்கிழமை (15) அன்று குறித்த முழு ஆடைப்பால்மா அறிமுகம் செய்ப்பட்டது.
+"Blower Queen," a new affordable milk maker, launched in Sri Lanka at Shangrila Hotel, aims to provide quality milk at lower prices, benefiting consumers amid economic challenges.
 
-இந்த  அறிமுக நிகழ்வில் உரையாற்றிய win int குழு நிறுவனத்தின் பணிப்பாளர் ,
+🟩
 
-“ பிளவர் குயின் ” என்ற இந்த முழு ஆடைப்பால்மா என்பது தரமான ஆரோக்கியமமான ஒரு பால்மாவாகும். இந்த பால்மா தற்போது சந்தையில் காணப்படும் பால்மாக்களின் விலைகளை விட குறைந்த நியாயமான விலையில் சந்தைப்படுத்தப்படுகின்றது. தற்போதைய பொருளாதார நிலமையினை கருத்திற்கொண்டு வாடிக்கையாளர்களின் நலன் கருதி இந்த பால்மாவினை குறைந்த விலையில் அறிமுகம் செய்ததாக தெரிவித்தார்.
+The new entire garment of "Blower Queen" has been introduced in the Sri Lankan market. The entire garment was introduced on Monday (15) at Shangrila Hotel, Colombo.
+
+Speaking at the launch event, the Director of the WIN INT Group Company,
+
+This entire garment called "Blower Queen" is a quality healthy milkma. This milk is marketed at a lower fair price than the prices of milkmakers currently found in the market. He said he had introduced the milk at a lower price for the benefit of customers, considering the current economic situation.
 
 ◼️
 
 [Data](articles/73e92ad9.json)
+
+[Extended Data](ext_articles/73e92ad9.ext.json)
 
 ---
 
@@ -2207,35 +2229,5 @@ The Cabinet of Ministers yesterday approved a proposal to pay a Rs. 10,000 one-t
 [Data](articles/9cf5b195.json)
 
 [Extended Data](ext_articles/9cf5b195.ext.json)
-
----
-
-### Total fares down in three years
-
-*2024-07-16 17:57:08* · [`adalk`](https://www.ada.lk/breaking_news/වසර-තුනකින්-විදුලි-ගාස්තු-තවත්-පහළට/11-410818) · `si`
-
-In summary: Electricity tariffs have seen a total reduction over three years, with food and service charges decreasing by 20% due to a new electricity revision. This revision, which benefits consumers using less than 90 units, aims to lower costs across various sectors, including households, hotels, and industries. The government plans to build low-cost power plants to further reduce tariffs within the next three years.
-
-🟩
-
-Food and service charges can be reduced by 20% with the new electricity revision
-
-The new electricity revision has received the highest convenience to less than 90 units.
-
-Minister of Power and Energy Kanchana Wijesekara said that the goods and services in the market could be reduced by 20% compared to the revision of electricity.
-
-The Minister also said that the goods and service charges increased in midnight on the ruling day of the electricity billing day from the date of reducing the electricity bills.
-
-Power and Energy Minister Kanchana Wijesekera made this statement participating at a press conference held at the Presidential Media Center today (16).
-
-He added that the new electricity amendment has been consumed to less than 90 units.
-
-Minister of Power and Energy Kanchana Wijesekara further said,
-
-...
-
-[Data](articles/f8b0378f.json)
-
-[Extended Data](ext_articles/f8b0378f.ext.json)
 
 ---

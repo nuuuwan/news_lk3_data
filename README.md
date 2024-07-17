@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 12:08:52**
+As of **2024-07-17 12:21:06**
 
 ## Newspaper Stats
 
-*Scraped **35,693** Articles*
+*Scraped **35,695** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 318
 colombotelegraphcom | 337
-bbccomsinhala | 348
+bbccomsinhala | 349
 newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,123
 dailyftlk | 2,262
 adalk | 3,218
 adaderanalk | 4,121
-tamilmirrorlk | 4,312
+tamilmirrorlk | 4,313
 dailymirrorlk | 4,733
 virakesarilk | 5,562
 adaderanasinhalalk | 5,969
@@ -26,27 +26,47 @@ adaderanasinhalalk | 5,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,691 (100.0%) of 35,693 articles have been extended.
+35,693 (100.0%) of 35,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### ඩයනා පෙත්සමක් ඉල්ලා අස්කර ගනී
+### அம்பானி வீட்டு திருமணத்திற்கு வெடிகுண்டு மிரட்டல்
+
+*2024-07-17 12:00:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பானி-வீட்டு-திருமணத்திற்கு-வெடிகுண்டு-மிரட்டல்/175-340547) · `ta`
+
+உலக அளவில் பேசப்பட்ட முகேஷ் அம்பானியின் மகன் ஆனந்த் அம்பானி மற்றும் ராதிகா மெர்ச்சன்ட் திருமண விழாவுக்கும் வெடிகுண்டு மிரட்டல் வந்துள்ளதாக தெரியவந்துள்ளது .
+
+குஜராத் மாநிலத்தை சேர்ந்த 32 வயதுடைய பொறியியலாளர் ஒருவரே இவ்வாறு சமூக ஊடகங்கள் மூலம் வெடிகுண்டு மிரட்டல் விடுத்துள்ளதுடன் குறித்த நபர் பொலிஸாரால் கைது செய்யப்பட்டு விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதாக இந்திய ஊடகங்கள் தகவல் வெளியிட்டுள்ளன .
+
+◼️
+
+[Data](articles/c27ce0c5.json)
+
+---
+
+### Diana withdraws petition withdrawn
 
 *2024-07-17 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198904) · `si`
 
-සිය පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහිමි කිරීමට සමගි ජන බලවේගය විසින් ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා හිටපු රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මිය විසින් ඉදිරිපත් කළ පෙත්සම අද (17) ශ්‍රේෂ්ඨාධිකරණය වෙතින් ඉල්ලා අස්කර ගත්තාය.
+Diana Gamage's petition, filed at the Supreme Court, has been withdrawn. Her attorneys requested and were granted permission to withdraw it.
 
-එම පෙත්සම අද කැඳවනු ලැබූ අවස්ථාවේදී ඩයනා ගමගේ මහත්මිය වෙනුවෙන් පෙනී සිටි නීතිඥවරු සඳහන් කළේ, අදාළ පෙත්සම තව දුරටත් පවත්වාගෙන යාමට අවශ්‍යතාවයක් නොමැති බවය.
+🟩
 
-ඒ අනුව එය ඉල්ලා අස්කර ගැනීමට අවසර දෙන ලෙසත් නීතිඥවරු අධිකරණයෙන් ඉල්ලා සිටියේය.
+The petition was filed by the Supreme Court today (17) at the Supreme Court today (17).
 
-ඒ අනුව අදාළ පෙත්සම ඉල්ලා අස්කර ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අවසර ලබා දුනි.
+Attorneys appearing on behalf of Mrs. Dianna Gamage said that the petition was called to date.
+
+Accordingly, the lawyers asked the court to be permitted to withdraw.
+
+The Supreme Court was granted permission to withdraw the petition.
 
 ◼️
 
 [Data](articles/8b26c25c.json)
+
+[Extended Data](ext_articles/8b26c25c.ext.json)
 
 ---
 
@@ -742,19 +762,25 @@ Global inflation went up after economic bureaucrats in the US, UK, Europe and ma
 
 ---
 
-### ලංකාවට එරෙහි විස්සයි20 තරගාවලියේදී ඉන්දීය නායකත්වය සූර්ය කුමාර්ට
+### Indian leadership on T20 tournament against Sri Lanka
 
 *2024-07-17 07:29:05* · [`adalk`](https://www.ada.lk/sports/ලංකාවට-එරෙහි-විස්සයි20-තරගාවලියේදී-ඉන්දීය-නායකත්වය-සූර්ය-කුමාර්ට/9-410822) · `si`
 
-ශ්‍රී ලංකාව හා ඉන්දියාව අතර ශ්‍රි ලංකාවේදි පැවැත්වීමට නියමිත විස්සයි20 තරගාවලිය සඳහා ඉන්දිය විස්සයි20 කණ්ඩායමේ නායකත්වය සූර්ය කුමාර් යාදව්ට ලබාදිමට ඉන්දියාව තීරණය කර තිබේ.
+India will lead its T20 team in Sri Lanka, with Hardik Pandya replacing Suryakumar Yadav due to fitness issues. The Indian PSC committee will discuss this with the Team Committee ahead of the tournament.
 
-මෙම කණ්ඩායමේ නායකත්වයට හරදික් පාණ්ඩ්‍යා නම් කරනු ඇතැයි සඳහන් වුවත් ඔහුගේ හාරිරික යෝග්‍යතා ගැටලුවක් හේතුවෙන් මෙසේ සූර්ය කුමාර් යාදව් කණ්ඩායමේ නායකත්වයට පත් කිරිමට නියමිතය.
+🟩
 
-විස්සයි20 තරගාවලිය වෙනුවෙන් ක්‍රිඩා කරන ඉන්දීය කණ්ඩායම තෝරා ගැනීම වෙනුවෙන් ඉන්දිය තේරිම් කමිටුව අද දිනයේදි රැස්විමට නියමිත බව ක්‍රිඩා මධ්‍ය සඳහන් කරයි.
+India has decided to provide South Kumar Polhaw to the leadership of the Twenty20 team for the Twenty20 tournament in Sri Lanka.
+
+Although he is said to be named Pandya, he is due to be appointed as the Solar Kumar Yadav team due to his dense fitness problem.
+
+The Indian PSC committee is due to meet the Indian Team Committee on behalf of the Twenty20 tournament.
 
 ◼️
 
 [Data](articles/af90cf0b.json)
+
+[Extended Data](ext_articles/af90cf0b.ext.json)
 
 ---
 
@@ -831,6 +857,34 @@ The Momeant and Fisheries communities informed the sea and fishing communities n
 [Data](articles/3bcf19b7.json)
 
 [Extended Data](ext_articles/3bcf19b7.ext.json)
+
+---
+
+### තායිලන්තයේ ආගමන නීති ලිහිල් කිරීම නිසා ශ්‍රී ලංකාව ඇතුළු රටවල් 93ක සංචාරකයින්ට ලැබෙන වාසි මොනවාද?
+
+*2024-07-17 06:00:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw8ynqvzx7yo) · `si`
+
+තායිලන්තයේ ආගමන නීති ලිහිල් කිරීම නිසා ශ්‍රී ලංකාව ඇතුළු රටවල් 93ක සංචාරකයින්ට ලැබෙන වාසි මොනවාද?
+
+තායිලන්තය සිය සංචාරක කර්මාන්තය පුළුල් කිරීමේ අරමුණින් වීසා රහිතව රටට ඇතුළුවීමේ යෝජනා ක්‍රමය රටවල් 93ක් දක්වා වැඩි කර තිබේ.
+
+සඳුදා (ජූලි 15) සිට ක්‍රියාත්මක වූ මෙම නව යෝජනා ක්‍රමය යටතේ සංචාරකයින්ට දින 60ක් දක්වා අග්නිදිග ආසියානු රටක් වන තායිලන්තයේ රැඳී සිටිය හැකි ය.
+
+මීට පෙර, වීසා රහිතව එරටට ඇතුළු වීමට අවසර දී තිබුණේ, රටවල් 57කට පමණි.
+
+තායිලන්තයේ නව සංචාරක වීසා යෝජනා ක්‍රමය යටතේ ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රයක් හිමි ශ්‍රී ලාංකිකයින්ට ද සහනයක් ලබා දී තිබේ.
+
+ඒ අනුව, ශ්‍රී ලංකා විදේශ ගමන් බලපත්‍රයක් සහිත ශ්‍රී ලාංකිකයින්ට on arrival වීසා, එනම්, තායිලන්තයට ගොඩ බැසීමෙන් පසුව වීසා ලබා ගත හැකි ය.
+
+මෙම නව ක්‍රමය අනුව, ශ්‍රී ලංකා විදෙස් ගමන් බලපත්‍රලාභීන්ට තායිලන්තයට යාමට පෙර පූර්ව වීසා අයැදුම් කිරීමක් අවශ්‍ය නොවේ.
+
+එරටට ගොඩ බැසීමෙන් පසුව ලබා ගන්නා වීසා මත දින 60ක් එරට රැඳී සිටීමට අවස්ථාව හිමි වේ.
+
+මෙම අවස්ථාව අලුතින් පිරිනැමුණු රටවල් අතර, ජෝර්දානය, ඉක්වදෝරය ඇතුළු රටවල් 17ක් වේ.
+
+...
+
+[Data](articles/8dde6ea6.json)
 
 ---
 
@@ -2187,59 +2241,5 @@ Mother said that my mother said he was mommated, my daughter wept.
 [Data](articles/7535aed3.json)
 
 [Extended Data](ext_articles/7535aed3.ext.json)
-
----
-
-### Phone analysis reports call on the threatening of the flower of Spring
-
-*2024-07-16 17:39:12* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-දේහය-තැබූ-මල්ශාලාට-තර්ජනය-කිරීම-ගැන-දුරකතන-විශ්ලේෂණ-වාර්තා-කැඳවයි/11-410816) · `si`
-
-Colombo Magistrate Harrasantha Kekharawela ordered the Borella Police to analyze phone calls related to threats against the "flower of Spring" in Athurugiriya. The magistrate agreed to this request due to the need for phone analysis reports to uncover threatening calls. Following a complaint about a private murder in Borella, the police were directed to involve specific telecom companies in the investigation. They also committed to updating the court on the progress of their inquiry.
-
-🟩
-
-Colombo Additional Magistrate Harrasantha Kekharawela has been sent to the Borella Police to summon the bodic of telephone calls or club spring in Athurugiriya area.
-
-The Magistrate accepted such a request, claiming that telephone analysis reports have been needed to reveal the threatening calls.
-
-The Borella police stated that investigations were conducted regarding a complaint with a complaint with a complaint with a private murder in Borella, the Borella police were produced in court.
-
-Borella police asked to specify telephone companies to report telephone analysis reporting to the investigation into the interests of the private malxala.
-
-The police also decided to report the progress of the investigation into the incident, accepting the request and issued the orders.
-
-◼️
-
-[Data](articles/7d9d575e.json)
-
-[Extended Data](ext_articles/7d9d575e.ext.json)
-
----
-
-### Those who seek paying taxes are looking for
-
-*2024-07-16 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198882) · `si`
-
-State Minister Ranjith Siyambalapitiya announced updates to tax laws, including a new default tax system and the right to appeal lengthy court cases. He emphasized the importance of addressing tax payment issues and highlighted efforts to modernize tax collection through IT enhancements.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that before the imposing of new taxes, the delegation of payment and levied taxes will be addressed.
-
-State Minister Ranjith Siyambalapitiya said that the existing legal is updated and the default tax will be launched.
-
-"If you have a difficult time for paying taxes, they have the right to appeal to it as well as. Some of these court proceedings have been protrigated for more than 30 years by the court of law. "
-
-He also said that only a net income of more than Rs.
-
-The State Minister also said to inform the Regional Office.
-
-He said the strongest net could be made to capture tax evictions and steps have been taken to update the laws with IT.
-
-◼️
-
-[Data](articles/fb03637f.json)
-
-[Extended Data](ext_articles/fb03637f.ext.json)
 
 ---

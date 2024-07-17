@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 04:54:23**
+As of **2024-07-18 05:05:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,796 (100.0%) of 35,798 articles have been extended.
+35,798 (100.0%) of 35,798 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ This committee will be chaired by the Ministry of Public Security Secretary and 
 ...
 
 [Data](articles/f224ca94.json)
+
+[Extended Data](ext_articles/f224ca94.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ The Interim Secretariat for Truth and Reconciliation Mechanism has conducted sev
 ...
 
 [Data](articles/a8c65fbc.json)
+
+[Extended Data](ext_articles/a8c65fbc.ext.json)
 
 ---
 

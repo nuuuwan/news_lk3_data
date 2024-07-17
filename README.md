@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 23:35:42**
+As of **2024-07-17 23:55:24**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,787 (100.0%) of 35,788 articles have been extended.
+35,788 (100.0%) of 35,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### சுகாதார அமைச்சர் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு விஜயம்!
+### Health Minister visit Jaffna Teaching Hospital
 
 *2024-07-17 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188720) · `ta`
 
-சுகாதார அமைச்சர் ரமேஷ் பத்திரன உள்ளிட்ட சுகாதார அமைச்சின் அதிகாரிகள் அடங்கிய குழு யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு புதன்கிழமை (17) விஜயம் செய்தனர்.
+Health Minister Ramesh Pathirana led a team to Jaffna Teaching Hospital on Wednesday, touring facilities and donating blood transfusion equipment. Present were Ministry officials, MPs, and hospital director Thangamuthu Sathya Murthy.
 
-அத்தோடு விடுதிகள் சத்திர சிகிச்சை பிரிவுகளையும் பார்வையிட்டதோடு யாழ்ப்பாணம் போதனா வைத்தியசாலையின் அரும்பொருட் காட்சியகத்தையும் பார்வையிட்டார்.
+🟩
 
-அத்தோடு குருதி மாற்றுச் சிகிச்சைக்கான உபகரணம் ஒன்றையும் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு வழங்கி வைத்தார்.
+A team of health minister Ramesh Pathirana, including Health Minister Ramesh Pathirana, visited the Jaffna Teaching Hospital on Wednesday (17).
 
-அமைச்சரின் இந்த விஜயத்தின் போது சுகாதார அமைச்சின் செயலாளர் RD.P.G.மகிபால மற்றும் Dr.அசேல குணவர்த்தன பாராளுமன்ற உறுப்பினர்களான அங்கயன் இராமநாதன், தர்மலிங்கம் சிர்த்தார்தன், யாழ் போதனா வைத்தியசாலையின் பணிப்பாளர் தங்கமுத்து சத்திய மூர்த்தி  வைத்தியசாலையின் அதிகாரிகள் பணியாளர்கள் எனப்பலரும் கலந்துகொண்டனர்.
+He also visited the hotel surgery and visited the Jaffna Teaching Hospital.
+
+He also provided an equipment for blood transfusions to the Jaffna Teaching Hospital.
+
+The Ministry of Health RD.P.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G. Azala Gunawardena, Members of Parliament of Parliament Angayan Ramanathan, Dharmalingam Sirtharthan and Director of the Jaffna Teaching Hospital Thangamuthu Sathya Murthy Hospital were also present.
 
 ◼️
 
 [Data](articles/82b6f22a.json)
+
+[Extended Data](ext_articles/82b6f22a.ext.json)
 
 ---
 

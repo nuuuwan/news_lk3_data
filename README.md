@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 10:20:16**
+As of **2024-07-17 10:35:24**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,666 (100.0%) of 35,673 articles have been extended.
+35,673 (100.0%) of 35,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### பாரிய விபத்து ; சாரதி மரணம்
+### Massive accident;Driver's death
 
 *2024-07-17 10:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-விபத்து-சாரதி-மரணம்/175-340531) · `ta`
 
-மட்டக்களப்பில் இருந்து கொழும்பு நோக்கி பயணித்த Royal எக்ஸ்பிரஸ் சொகுசு பஸ் மெல்சிறிபுர பகுதியில் செவ்வாய்க்கிழமை (16) இரவு விபத்துக்குள்ளானதில் பஸ்ஸின் சாரதி உயிரிழந்துள்ளர் .
+A tragic accident occurred on Tuesday night as a Royal Express bus en route from Batticaloa to Colombo crashed in Melsiripura, resulting in the driver's death.
+
+🟩
+
+The driver of the bus was killed when a Royal Express bus, which was traveling from Batticaloa to Colombo, crashed in Melsiripura area on Tuesday night.
 
 ◼️
 
 [Data](articles/c188177b.json)
+
+[Extended Data](ext_articles/c188177b.ext.json)
 
 ---
 
@@ -66,51 +72,71 @@ During the incident, police found a total of 2 grams and 100 milligrams of cryst
 
 [Data](articles/f431ec42.json)
 
+[Extended Data](ext_articles/f431ec42.ext.json)
+
 ---
 
-### බස් දෙකක් එකිනෙක ගැටී රියදුරෙක් ජීවිතක්ෂයට
+### Driver killed in two buses
 
 *2024-07-17 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198899) · `si`
 
-‍මැල්සිරිපුර, පන්ලියද්ද ප්‍රදේශයේ දී බස් රථ දෙකක් ගැටීමෙන් සිදු වු අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+In a tragic accident in Malziripura, two drivers lost their lives when their buses collided. The incident involved a bus each from Colombo to Trincomalee and Batticaloa to Colombo routes.
 
-කොළඹ සිට ත්‍රිකුණාමලය බලා ධාවනය වු බස් රථයක් සහ මඩකලපුව සිට කොළඹ බලා ධාවනය වු බස් රථයක් එකිනෙක ගැටීමෙන් එම අනතුර සිදුව ඇති බව පොලීසිය පැවසුවේය.
+🟩
 
-මියගොස් ඇත්තේ මඩකලපුව සිට කොළඹ බලා ධාවනය වු බස් රථයේ රියදුරු බව සඳහන්ය.
+Two buses were killed when two buses were hit by two buses in the Panlippura area in Malziripura.
+
+Police said that the accident had occurred when a bus traveling from Colombo to Trincomalee and Batticaloa to Colombo.
+
+The deceased has been identified as the driver of Batticaloa to Colombo.
 
 ◼️
 
 [Data](articles/01664766.json)
 
+[Extended Data](ext_articles/01664766.ext.json)
+
 ---
 
-### 'இரண்டு வாரங்களுக்கு சட்டப்படி வேலை'
+### 'Work in legal for two weeks'
 
 *2024-07-17 09:53:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/இரண்டு-வாரங்களுக்கு-சட்டப்படி-வேலை/52-340530) · `ta`
 
-எதிர்வரும் 22ஆம் திகதி முதல் இரண்டு வாரங்களுக்கு சட்டப்படி வேலை செய்யும் தொழிற்சங்க நடவடிக்கையில் ஈடுபட ஆசிரியர் - அதிபர் தொழிற்சங்க கூட்டமைப்பு தீர்மானித்துள்ளது.
+The Teacher - Chancellor Trade Union Federation will legally strike for two weeks starting from the 22nd of this month.
+
+🟩
+
+The Teacher -Chancellor Trade Union Federation has decided to engage in union action that works legally for two weeks from the 22nd of this month.
 
 ◼️
 
 [Data](articles/8d196859.json)
 
+[Extended Data](ext_articles/8d196859.ext.json)
+
 ---
 
-### කාර් - බයික් අනතුරින් 19 හැවිරිදි තරුණයා මරුට
+### Car - 19 year old victim dies in bike accident
 
 *2024-07-17 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198898) · `si`
 
-ගල්ගමුව පොලිස් වසමේ ගල්ගමුව ආණමඩුව මාර්ගයේ පළුකන්දෑව ප්‍රදේශයේ දී සිදුවූ අනතුරකින් තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+In a tragic accident near Galgamuwa, a 19-year-old male motorcyclist died after colliding with a car coming from the opposite direction. The driver, a woman, was arrested, and police continue investigating.
 
-ආණමඩුව දෙස සිට ගල්ගමුව දෙසට ධාවනය වූ කාර් රථයක් ඊ‌ට ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි යතුරුපැදියක ගැටී අනතුර සිදුව තිබුණි.
+🟩
 
-අනතුරින් බරපතළ තුවාල ලැබු යතුරුපැදිකරු ගල්ගමුව රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ.
+A young man was killed in an accident on the Galgamuwa Police Division in Galgamuwa Police Division.
 
-කාර් රථයේ රියදුරු වශයෙන් කටයුතු කළ කාන්තාව අත්අඩංගුවට ගෙන ඇති අතර ගල්ගමුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+A car traveling to Galgamuwa to Galgamuwa towards Galgamuwa had collapsed on a motorcycle in the opposite direction.
+
+The motorcyclist who was seriously injured in the accident died on admission to the Galgamuwa hospital.
+
+The woman who was the car driver was arrested and the Galgamuwa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/f91fffb0.json)
+
+[Extended Data](ext_articles/f91fffb0.ext.json)
 
 ---
 
@@ -730,29 +756,39 @@ In response Wickramaratne taking to social media platform X yesterday said such 
 
 ---
 
-### AI උගන්වන්න කතා කරන රටේ වැසිකිළි යන්න බැරිව රෝගී වූ බස්නාහිර පළාතේ දරුවෙක්
+### AI is a child in the Western Province that cannot steer toilets
 
 *2024-07-17 03:57:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3g97dnjkygo) · `si`
 
-AI උගන්වන්න කතා කරන රටේ වැසිකිළි යන්න බැරිව රෝගී වූ බස්නාහිර පළාතේ දරුවෙක්
+In the Western Province, a child named Prabhak struggles with urinary issues due to inadequate toilet facilities at his school in Panadura. The lack of proper sanitation affects his health and education. Despite reforms, over 500 schools in Sri Lanka operate without basic hygiene facilities, impacting nearly a quarter of school-going children. Political appointments hinder improvements, with sanitary workers often not fulfilling their roles adequately. Authorities promise action but challenges remain, highlighting the urgent need for better infrastructure and policies to support children's basic rights.
 
-නව පාසල් අධ්‍යාපන ප්‍රතිසංස්කරණ යටතේ කෘත්‍රිම බුද්ධිය ඉගැන්වීමටත්, ටැබ් පරිගණක ලබා දීමටත් යෝජනා කර ඇති පරිසරයක් තුළ පානදුර ප්‍රදේශයේ ප්‍රධාන පෙළේ පාසලක වැසිකිළිවල අපිරිසුදුභාවය නිසා මුත්‍රා නොකිරීමෙන් රෝගී වූ දරුවෙකු පිළිබඳව බීබීසී සිංහල  සේවයට දැනගන්නට ලැබිණි.
+🟩
 
-සිද්ධියට මුහුණ දුන් 13 හැවිරිදි දරුවා එම පාසලේ 8 වන ශ්‍රේණියේ ඉගෙනුම ලබයි.
+AI is a child in the Western Province that cannot steer toilets
 
-ඔහුගේ සැබෑ නම හෙළි නොකර ප්‍රභාෂ් යන නාමයෙන් මෙතැන් සිට ඔහු හඳුන්වමු.
+Under the new school educational reforms, the BBC Sinhala was aware of a sick child without information in a leading school in Panadura, a leading school in Panadura.
 
-"අම්මේ මගේ බඩ රිදෙනවා. මුත්‍රා කරන්නත් අමාරුයි," ප්‍රභාෂ් මුලින් ම සිය රෝගී තත්ත්වය සම්බන්ධයෙන් සිය මව දැනුවත් කළේ එලෙසිනි.
+The 13-year-old boy was experiencing the incident is a grade 8.
 
-එදිනෙදා නිවෙස්වල සේවය කරමින් ජීවිකාව සපයා ගන්නා ඔහුගේ මව සිය පුතුගේ අමාරුකම් ඉවසිය නොහැකි තැන වෛද්‍යවරයෙකු වෙත ප්‍රභාෂ් රැගෙන ගියා ය.
+Let us call him in the name of Prabhak without revealing his real name.
 
-එහිදී, ඇයට දැන ගන්නට ලැබුණේ සිය පුත්‍රයාට මුත්‍රා අඩස්සි තත්ත්වයක් ඇති වී ඇති බව ය.
+"Mommy my stomach hurts. It is hard to urine, "It is how Prabhakh was first educated by his mother.
 
-වෛද්‍යවරයාගේ ප්‍රශ්න කිරීමේදී දරුවා ප්‍රකාශ කර තිබුණේ, පාසලේ වැසිකිළි අපිරිසුදු හෙයින් පාසල නිම වී නිවසට පැමිණෙන තුරු මුත්‍රා නොකර සිටීමට ඔහු පුරුදු වී සිටි බව ය.
+He took Prabhak to a doctor where his mother could not tolerate the difficulties of his son, working in everyday homes.
+
+There, she knew that his Son had a negative condition.
+
+When questioned by the doctor, the child had told the school toilets, as he had been accustomed to urinating school until the end of the school.
+
+Although the actual event of the above was a minor, there is a serious health problem.
+
+It is the extent of the interestholder concerning the authorities with schoolchildren of school children.
 
 ...
 
 [Data](articles/109c978d.json)
+
+[Extended Data](ext_articles/109c978d.ext.json)
 
 ---
 
@@ -1633,6 +1669,8 @@ That is because we have the strength to save this country, and we love our mothe
 ...
 
 [Data](articles/f9c17817.json)
+
+[Extended Data](ext_articles/f9c17817.ext.json)
 
 ---
 

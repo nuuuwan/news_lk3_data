@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 19:54:02**
+As of **2024-07-17 20:06:51**
 
 ## Newspaper Stats
 
-*Scraped **35,750** Articles*
+*Scraped **35,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,128
 tamilmirrorlk | 4,321
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,984
+adaderanasinhalalk | 5,985
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,748 (100.0%) of 35,750 articles have been extended.
+35,750 (100.0%) of 35,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### නෞකා අනතුරෙන් අතුරුදන් වූ පිරිස සොයා ඉන්දියාවත් මෙහෙයුමක් අරඹයි
+
+*2024-07-17 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198923) · `si`
+
+අරාබි මුහුදේදී ඉන්ධන ප්‍රවාහන නෞකාවක් අනතුරට ලක්වීමෙන් එහි සිටි කාර්යමණ්ඩල සේවකයින් 16 දෙනා අතුරුදන්වී තිබේ.
+
+සෙසු පිරිස ඉන්දීය ජාතිකයින් වන අතර ඕමානය ඉන්දියාවේ ද සහාය ඇතිව ඔවුන් සොයා මෙහෙයුමක් ආරම්භ කර තිබේ.
+
+ඉන්ධන ප්‍රවාහන නෞකාව අනතුරට ලක්වී තිබුණේ ඕමානයේ ඩියුකම් වරාය නගරයට නාවික සැතපුම් 25ක් නිරිත දිගින් වූ අරාබි මුහුදේදීය.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ කොමොරෝස් ධජය යටතේ යාත්‍රා කළ ප්‍රෙස්ටීජ් ෆැල්කන් නම් ඉන්ධන ප්‍රවාහන නෞකාවකි.
+
+ඩුබායි හි හම්රියා වරායෙන් ගමන් ඇරඹූ නෞකාව අනතුරට ලක්වන අවස්ථාවේදී යේමනයේ ඒඩ්න් වරාය බලා යාත්‍රා කරමින් සිටි බව සඳහන් ය.
+
+අතුරුදන් පිරිස සොයන මෙහෙයුම්වලට ඉන්දියාවේ යුද නෞකාවක් සහ නිරීක්ෂණ ගුවන්යානයක් ද ලබාදී තිබේ.
+
+කෙසේ වුවද නෞකාව පෙරළී ගොස් ඇති බවට සමුද්‍රීය ආරක්ෂක මධ්‍යස්ථානය රොයිටර්ස් පුවත් සේවයට පවසා ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/5a95bbcb.json)
+
+---
 
 ### Thailand says cyanide killed 6 foreigners in hotel, including perpetrator
 
@@ -52,21 +76,27 @@ The six were all of Vietnamese ethnicity, two of those U.S. nationals. Police sa
 
 ---
 
-### ජනාධිපති කාර්යාලයේ භික්ෂු සම්බන්ධීකරණ ඒකකය විවෘත කෙරේ
+### Presidential Secretariat Opens Bhikku Coordinating Unit
 
 *2024-07-17 18:48:48* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-කාර්යාලයේ-භික්ෂු-සම්බන්ධීකරණ-ඒකකය-විවෘත-කෙරේ/11-410838) · `si`
 
-රට ආර්ථික සහ සමාජයීය වශයෙන් නඟා සිටුවීමට ජනපති ගෙන යන වැඩපිළිවෙළට මහා සංඝරත්නයේ ආශිර්වාදය නිරතුරුවම හිමි වෙනවා – මල්වතු පාර්ශ්වයේ අනුනායක ආචාර්ය අතිපූජ්‍ය නියංගොඩ විජිතසිරි අනුනායක ස්වාමීන් වහන්සේ.
+The Presidential Secretariat launched a Bhikku Coordinating Unit under President Ranil Wickremesinghe to boost the economy amidst crises. This initiative aims to strengthen ties between religious leaders and the government, addressing various challenges facing the nation.
 
-ශාසනික වශයෙන් අර්බුද රැසක් නිර්මාණය වී තිබෙන යුගයක මෙවැනි ආයතනයක් විවෘත කිරීම ඉතා කාලෝචිත පියවරක් – අස්ගිරි පාර්ශ්වයේ නියෝජ්‍ය ලේඛකාධිකාරී අතිපූජ්‍ය නාරංපනාවේ ආනන්ද හිමිපාණන් වහන්සේ.
+🟩
 
-සම්බුදු සසුන සුරක්ෂිත කරමින් ඉදිරියට ගෙන යාමට ආණ්ඩු ක්‍රම ව්‍යවස්ථාව අනුව රජය වෙත පැවරී ඇති වගකීම නිසි ලෙස ඉටු කිරීමේ දී මහා සංඝරත්නය සම්බන්ධීකරණය කිරීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි ජනාධිපති කාර්යාලයේ ස්ථාපිත කෙරුණු භික්ෂු සම්බන්ධීකරණ ඒකකය තෛන්‍රිකායික මහා සංඝරත්නයේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ සහභාගිත්වයෙන් අද (17) පෙරවරුවේ විවෘත කෙරිනි.
+The President's blessing is constantly inaugurated by the President's Presidential Program to promote the country economically - Anunagulajita, Anunaging Niyangoda Vijithasiri Thero.
 
-මහා සංඝරත්නයේ සෙත් පිරිත් සජ්ජායනා මධ්‍යයේ නව ඒකකය විවෘත කෙරිණි.
+It is a timely step to open an institute in an era where many crises have been created as a number of crises - Deputy Registrar of the Asgiriya party is the Ananda Thero of the Most Venerable Navathanipana.
+
+Bhikku Coordinating Unit headed by President Ranil Wickremesinghe on the instructions of President Ranil Wickremesinghe is the participation of the Bhikku Coordinating Unit headed by President Ranil Wickremesinghe in accordance with the Presidential Secretariat in accordance with the Presidential Secretariat.(17) The morning was opened.
+
+The new unit opened the new unit of Seth Pirith in Maha Sangha.
 
 ...
 
 [Data](articles/203b38e0.json)
+
+[Extended Data](ext_articles/203b38e0.ext.json)
 
 ---
 
@@ -176,17 +206,23 @@ The relevant new system is scheduled to commence from next Friday (19).
 
 ---
 
-### චමිරිගේ නායකත්වයෙන් යුත් විස්සයි20 සංචිතය එළියට
+### Chamiri's T20 reserved
 
 *2024-07-17 17:00:52* · [`adalk`](https://www.ada.lk/sports/චමිරිගේ-නායකත්වයෙන්-යුත්-විස්සයි20-සංචිතය-එළියට/9-410831) · `si`
 
-කාන්තා ආසියානු කුසලාන තරගාවලිය වෙනුවෙන් ක්‍රීඩා කරන ශ්‍රී ලංකා කාන්තා සංචිතය ක්‍රිකට් ආයතනය විසින් ප්‍රකාශයට පත්කර තිබේ. මෙහි නායකත්වය චමරි අතපත්තු නම් කර තිබේ. ආසියානු කුසලාන ක්‍රිකට් තරගාවලිය එළැඹෙන 19දා දඹුල්ලේදී ආරම්භ විමට නියමිතය.
+Chamari Atapattu leads Sri Lanka's women cricket team in the Asian Cup starting at Dambulla on the 19th. Squad includes Halhika Priyadhi, Udunika Perera, Sugandika Perera, Sachini Kavindi, Sachini Kavindala, Shashi NasonGimhirani, Ama Kanchana.
 
-ශ්‍රී ලංකා කාන්තා ක්‍රිකට් සංචිතය - චමරි අතපත්තු (නායිකා), විශ්මි ගුණරත්න, හර්ෂිතා සමරවික්‍රම, හසිනි පෙරේරා, කවිෂා දිල්හාරි, නිලක්ෂි ද සිල්වා, අනුෂ්කා සංජීවනී, සුගන්දිකා කුමාරි,  උදේශිකා ප්‍රබෝධනී, අචිනි කුලසූරිය, ඉනෝෂි ප්‍රියදර්ශනී, කාව්‍යා කාවින්දි, සචිනි නිසංසලා, ශෂිනි ගිම්හානි,  අමා කාංචනා
+🟩
+
+Sri Lanka women's squad played for women's Asian Cup. Chamari Atapattu has been named the leadership. The Asian Cup will begin at Dambulla on the 19th.
+
+Sri Lanka Women's Cricket Reserves - Chamari Atapattu, Halhika Priyadhi, Udunika Perera, University of Sugandika Perera, Sachini Kavindi, Sachini Kavindala, Shashi NasonGimhirani, Ama Kanchana
 
 ◼️
 
 [Data](articles/8dc9256a.json)
+
+[Extended Data](ext_articles/8dc9256a.ext.json)
 
 ---
 
@@ -2295,27 +2331,5 @@ The move follows the Cabinet decision taken on 4 March 2024, following the succe
 [Data](articles/5ccacaa4.json)
 
 [Extended Data](ext_articles/5ccacaa4.ext.json)
-
----
-
-### Colombo Port City (Charges) Orders for Parliament
-
-*2024-07-17 04:41:16* · [`dailyftlk`](https://www.ft.lk/news/Colombo-Port-City-Charges-Orders-for-Parliament/56-764350) · `en`
-
-The Cabinet of Ministers on Monday approved the proposal presented by President Ranil Wickremesinghe in his capacity as the Investment Promotion Minister, to submit the Colombo Port City (Charges) Orders to Parliament.
-
-The move is in accordance with Section 71 of the Act and the Colombo Port City (Charges) Orders No. 2 of 2024, was imposed by gazette notification on 6 June.
-
-These orders, enacted under the provisions of the Colombo Port City Economic Commission Act No. 11 of 2021, require Parliamentary approval within three months of their publication in the Government gazette.
-
-The orders, declared in Extraordinary Gazette No. 2387/38, are designed to regulate charges within the Colombo Port City, a key economic zone.
-
-The move is a step towards ensuring that the regulations governing the economic activities within the Port City are aligned with the broader legislative framework and receive the necessary legislative oversight.
-
-◼️
-
-[Data](articles/a14a9cfe.json)
-
-[Extended Data](ext_articles/a14a9cfe.ext.json)
 
 ---

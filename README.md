@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 11:19:54**
+As of **2024-07-17 11:35:51**
 
 ## Newspaper Stats
 
-*Scraped **35,680** Articles*
+*Scraped **35,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,120
 tamilmirrorlk | 4,308
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,967
+adaderanasinhalalk | 5,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,677 (100.0%) of 35,680 articles have been extended.
+35,680 (100.0%) of 35,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### බස් රථයක් ප්‍රපාතයට පෙරළී ජීවිත රැසක් අහිමි වෙයි
+
+*2024-07-17 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198902) · `si`
+
+පේරු රාජ්‍යයේ බස් රථයක් ප්‍රපාතයකට පෙරළීමෙන් සිදුවු අනතුරකින් පුද්ගලයින් 23 දෙනෙකු මිය ගොස් තිබේ.
+
+අනතුරින් තවත් පුද්ගලයින් 14 දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+බස් රථය අඩි 656 පමණ ප්‍රපාතයකට පෙරළී ගොස් අනතුර සිදුව ඇති බව සඳහන්ය.
+
+අනතුර සිදුවන අවස්ථාවේ දී එහි පුද්ගලයින් 40කට අධික පිරිසක් සිට ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/47f4eac5.json)
+
+---
 
 ### SLFP will put forward a candidate for Presidential Election - Maithripala
 
@@ -47,6 +65,8 @@ He warned that if there is an attempt to postpone the election, it could lead to
 ◼️
 
 [Data](articles/aea9c0bf.json)
+
+[Extended Data](ext_articles/aea9c0bf.ext.json)
 
 ---
 
@@ -1704,21 +1724,29 @@ The Geological Survey and Mines Bureau point out that it has recorded 2.7 units 
 
 ---
 
-### දැනට ලැබෙන වී අස්වැන්න නිශ්පාදන වියදමත් පියවා ගන්න බෑ
+### Current harvest cannot cover production expenditure
 
 *2024-07-16 19:00:18* · [`adalk`](https://www.ada.lk/breaking_news/දැනට-ලැබෙන-වී-අස්වැන්න-නිශ්පාදන-වියදමත්-පියවා-ගන්න-බෑ/11-410821) · `si`
 
-බහුතර කුඹුරුවලින් මේ වනවිට ලැබෙන අස්වැන්න හෙක්ටයාරයකට මෙට්‍රික් ටොන් 1 සිට 2.5 දක්වා වන බවත් එසේමඑම ප්‍රමාණය ගොවීන්ට නිෂ්පාදන වියදම හෝ ආවරණය කර ගැනීමට කිසිසේත් ප්‍රමාණවත් නොමැති බවත් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය අනාවරණය කරගෙන තිබේ.
+The Ministry of Agriculture aims to enhance paddy production in key regions starting from the 2024 Maha season to meet the national demand of 4.1 million metric tons, up from 4.5 million tons in 2023, due to current harvests not covering production costs.
 
-ඒ අනුව මෙරටට අවශ්‍ය සමස්ත සහල් ප්‍රමාණය වී වගා කරන ප්‍රධානතම කෘෂිකාර්මික බලප්‍රදේශ 06කින්වගා කන්න 06ක් තුළ වී නිෂ්පාදනය දෙගුණයක් දක්වා වැඩි කිරීමේ ව්‍යාපෘතියක් ආරම්භ කිරීමට කෘෂිකර්ම අමාත්‍යාංශය සැලසුම් කර තිබේ.
+🟩
 
-මෙම වැඩපිළිවෙළ 2024 මහ කන්නයේ සිට ආරම්භ කිරීමට නියමිත අතර,එහිදී වැඩිම වී අස්වැන්නක් ලබා දෙන අනුරාධපුර, හම්බන්තොට, පොළොන්නරුව, මහනුවර, අම්පාර හා මොනරාගල කෘෂිකාර්මික බලප්‍රදේශවල කුඹුරු ආශ්‍රිතවවැඩපිළිවෙළ ආරම්භ කිරීමට නියමිතය.
+The Ministry of Agriculture and Plantation Industries have revealed that the highest yield from the majority of the majority of the utensils is now available for a hectare.
 
-මීට අමතරව හෙක්ටයාර් එකකින් වැඩි අස්වැන්නක් ලබා ගත හැකි තාක්ෂණික ක්‍රමවේදයක් ගොවීන්ට හඳුන්වා දෙන ලෙස විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතා විසින් කෘෂිකර්ම දෙපාර්තමේන්තුවට උපදෙස් දී ඇත.
+Accordingly, the Ministry of Agriculture has planned to boost a project to increase the production of paddy in six main rice cultivation of paddy in six main rice cultivation.
 
-...
+The program is to commence from the 2024 Maha season, where the highest number of paddy harvest is located in the paddy fields in Hambantota, Polonnaruwa, Kandy, Ampara and Monaragala Agricultural territories.
+
+In addition, Minister Mahinda Amaraweera has instructed the Department of Agriculture to introduce a technique to the farmers.
+
+According to the Ministry of Agriculture, the amount of rice required for annual consumption in this country is 2.4 million metric tons. The total national paddy need of 2024 is 4.1 million metric tons and has been able to obtain a 4.5 million metric tonnes in 2023.
+
+◼️
 
 [Data](articles/4f391ac3.json)
+
+[Extended Data](ext_articles/4f391ac3.ext.json)
 
 ---
 
@@ -1805,6 +1833,8 @@ However, do Sri Lankans also reward the governments that deliver, or at least ma
 ...
 
 [Data](articles/aeae0de5.json)
+
+[Extended Data](ext_articles/aeae0de5.ext.json)
 
 ---
 
@@ -2235,27 +2265,5 @@ Later, the children can last a while to reduce their childhood and reduce their 
 [Data](articles/2bedf809.json)
 
 [Extended Data](ext_articles/2bedf809.ext.json)
-
----
-
-### Teachers go to Supreme Court against disagreement
-
-*2024-07-16 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198880) · `si`
-
-Ceylon Teachers' Union opposes strikes, citing lack of unity among participants. They plan to take legal action, including Supreme Court cases, against the government's alleged failure to protect educators' rights.
-
-🟩
-
-The Ceylon Teachers Union General Secretary Joseph Stalin says that teachers who have not joined the recent strike without being united.
-
-He was speaking at a media briefing held today (16).
-
-"1986, and the weights of the. The Supreme Court lawsuits a case and there is a lawsuit of a lawsuit. The government does not allow horror to afford towards horiads like this. Based on it, we go to the Supreme Court. "
-
-◼️
-
-[Data](articles/40394b9b.json)
-
-[Extended Data](ext_articles/40394b9b.ext.json)
 
 ---

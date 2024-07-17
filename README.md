@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 01:35:20**
+As of **2024-07-18 01:54:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,791 (100.0%) of 35,792 articles have been extended.
+35,792 (100.0%) of 35,792 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,17 +90,23 @@ Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Hassini Pere
 
 ### 2024-07-17 (Wednesday)
 
-### ’கிராமம் என்று சொல்லி, குழி தோண்டி புதைக்காதீர்கள்’
+### Do not dig and bury the village
 
 *2024-07-17 23:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராமம்-என்று-சொல்லி-குழி-தோண்டி-புதைக்காதீர்கள்/175-340583) · `ta`
 
-பெரும் தோட்டங்களில் வாழும் சுமார் 200,000 குடும்பங்களை, தோட்ட நிர்வாகங்களின் நவீன அடிமைத்துவ பிடிகளில் இருந்து அகற்ற வேண்டும் என்பது தமிழ் முற்போக்கு கூட்டணியின் அரசியல் விஞ்ஞாபனத்தில் அடங்கியுள்ள முன்னணி கோரிக்கையாகும். அதை செய்யுங்கள். அதற்கு கொள்கைரீதியாக ஆதரவு தருகிறோம். ஆனால், லயன் காம்பராக்கள்தான் புதிய கிராமங்கள் என்று நீங்கள் இன்று கூற முயல்வதை நாம் ஏற்க முடியாது. இனியும் எமது மக்கள் மலை உச்சிகளில் மலைசாதி பழங்குடி மக்கள் போன்று வாழ்வதை நாம் ஏற்க முடியாது என்று மனோ கணேசன் எம்.பி தெரிவித்தார்.
+The Tamil Progressive Alliance (TPA) demands the removal of plantation administration control over 200,000 families living in large gardens, advocating for land rights and new settlements named "Plantation New Settlement Villages." They oppose the idea of Lion Combras as new villages, emphasizing the need for land ownership near national highways, similar to other regions, and the inclusion of women in land rights.
 
-மலை நாட்டு புதிய கிராமங்கள் அமைச்சு என்ற பொருளில், பெரும் தோட்டங்களில், காணி உரிமையுடன் கூடிய தனி வீட்டு புதிய கிராமங்களை அமைத்து காணி உரிமை கோரிக்கையை, உங்கள் ஆட்சியில், 2015ம் ஆண்டு முதல் அரசியல் ரீதியாக ஆரம்பித்து வைத்த கட்சி தமிழ் முற்போக்கு கூட்டணியாகும். கடந்த வருடம், மலையக மக்கள் இந்நாட்டிற்கு வந்த 200 வருட பூர்த்தியை அரசியல் கட்சிகளும், தொழில் சங்கங்களும், சிவில் அமைப்புகளும் நினைவு கூர்ந்த நிகழ்வுகளில் மேல் எழுந்த பிரதான கோசம், காணி உரிமை கோரிக்கை ஆகும் என்றும் தெரிவித்தார். .
+🟩
+
+The leading demand in the political manifesto of the Tamil Progressive Alliance (TNA) is to remove about 200,000 families living in large gardens from the modern slavery of plantation administrations. Do that. We support it policy. But we cannot accept what you are trying to say today that Lion Combras are the new villages. Mano Ganesan MP said that we cannot accept the lives of the mountain tribes on the tops of our people anymore.
+
+The Tamil Progressive Alliance (TNA), which has been politically inaugurated by your regime since 2015, has set up a land right to set up new villages with land ownership in large gardens, in the name of the Ministry of Mountains. Last year, he said that the main slogan and land rights demanded by the political parties, trade unions and civil organizations in the events of the upcountry people of the hill country last year.. .
 
 ...
 
 [Data](articles/a10667b8.json)
+
+[Extended Data](ext_articles/a10667b8.ext.json)
 
 ---
 

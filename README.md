@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 10:54:00**
+As of **2024-07-17 11:05:57**
 
 ## Newspaper Stats
 
-*Scraped **35,673** Articles*
+*Scraped **35,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 2,027
 economynextcom | 2,118
 dailyftlk | 2,262
 adalk | 3,216
-adaderanalk | 4,117
+adaderanalk | 4,119
 tamilmirrorlk | 4,308
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,965
+adaderanasinhalalk | 5,967
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,673 (100.0%) of 35,673 articles have been extended.
+35,673 (100.0%) of 35,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### At least 25 die in Peruvian Andes after bus plummets off cliff
+
+*2024-07-17 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100573/at-least-25-die-in-peruvian-andes-after-bus-plummets-off-cliff) · `en`
+
+At least 25 people were killed and 17 injured in Peru on Tuesday after a bus crashed while traveling through a mountainous area, according to Ayacucho’s regional health department.
+
+The bus skidded off a highway in Peru’s Andean Ayacucho region at dawn, overturning and plummeting down a slope of about 200 meters, Jhonny Rolando Valderrama, head of the highway protection division, told state news agency Andina.
+
+Valderrama said the accident occurred on the Los Libertadores highway in Ayacucho in the south-central Andes and that rescue work was ongoing.
+
+By early afternoon, a top police officer said early information indicated there were 42 passengers in the bus.
+
+Peru’s ground transportation superintendent SUTRAN said in a statement the bus belongs to local company Turismo Molina Union SAC and that it has initiated an investigation.
+
+Company representatives did not respond to Reuters’ requests for comment.
+
+...
+
+[Data](articles/d0708315.json)
+
+---
+
+### ඉතිහාසයේ පළමුවරට ඩයිනෝසර් ෆොසිලයක් වෙන්දේසියට
+
+*2024-07-17 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198901) · `si`
+
+ඩයිනෝසරයින් සැලකෙන්නේ මීට වසර මිලියන ගණනාවකට පෙර පෘථිවිය මත වාසය කළ බවට සැලකෙන සත්ත්ව විශේෂයකි.
+
+මෙම ඩයිනෝසර් ගෝත්‍රයට අයත් ස්ටෙගොසෝරස් නම් ඩයිනෝසර් සත්ත්වයෙකුගේ ෆොසිලයක් අද අමෙරිකාවේ නිව්යෝක්හි දී වෙන්දේසි කිරීමට නියමිතව පවතී.
+
+උසින් අඩි 11ක් සහ දිග අඩි 20ක් වන මේ ෆොසිලය නම් කර ඇත්තේ ඇපෙක්ස් ලෙසිනි.
+
+ඉතාමත් හොඳ තත්ත්වයෙන් පැවති මෙම ඩයිනෝසර් ෆොසිලය 2022 වසරේ මැයි මාසයේදී සොයාගෙන ඇත්තේ ඩයිනෝසර් ෆොසිල සුලබව හමුව ඇති අමෙරිකාවේ කොලරාඩෝ ප්‍රාන්තයේ මොරිසන් පිහිටීමේ තිබියදීය.
+
+එම ෆොසිලයේ සියයට 70ක පමණ අස්ථි කොටස් නිරුපද්‍රිතව හමුවී ඇති අතර පුරාවිද්‍යාඥයින් විශ්වාසය පළකරන්නේ එය ස්වභාවික හේතුවක් මත මියගිය ස්ටෙගොසෝරස් සත්ත්වයෙකුගේ ෆොසිලයක් වන බවය.
+
+ඔවුන් මෙම විශ්වාසයට එලඹ ඇත්තේ ගැටුමක් හෝ විලෝපිකයෙකුගේ ප්‍රහාරයක් හේතුවෙන් සිදුවිය හැකි අනතුරක සේයාවක් හෝ එම ෆොසිලය පරික්ෂා කිරීමේදී හඳුනා නොගැනීම හේතුවෙනි.
+
+ඇපෙක්ස් ෆොසිලය අමෙරිකානු ඩොලර් මිලියන 4ත් 6ත් අතර මිලකට අලෙවි වෙතැයි ඇස්තමේන්තුගත කර තිබේ.
+
+ඩයිනෝසර් නිදර්ශකයක් මෙලෙස වෙන්දේසියට ඉදිරිපත් වූ පළමු අවස්ථාව ද මෙයයි.
+
+...
+
+[Data](articles/c6375378.json)
+
+---
+
+### One dead, 8 injured as two buses collide head-on
+
+*2024-07-17 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100572/one-dead-8-injured-as-two-buses-collide-head-on) · `en`
+
+One person has been reported dead, and several others were left injured following a head-on collision involving two buses in the Panliyadda area of Melsiripura last night (17).
+
+Police stated that the accident occurred when a bus travelling from Colombo to Trincomalee collided head-on with a bus travelling from Batticaloa to Colombo.
+
+At least 08 other individuals have been injured in the accident.
+
+The driver of the bus which was travelling from Batticaloa to Colombo was killed in the accident.
+
+◼️
+
+[Data](articles/f0346b0c.json)
+
+---
+
+### දුක - සැප දෙකම තියෙන මෛත්‍රී
+
+*2024-07-17 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198900) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් කරන බවත් ඒ සඳහා අපේක්ෂකයෙකු තෝරාගෙන ඇති බවත් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+ඊයේ (16) කොළඹ පැවති වැඩසටහනකින් අනතුරුව මාධ්‍යවේදීන් නැගූ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු ඒ බව සඳහන් කළේය.
+
+ජනාධිපතිවරණ අනිවාර්යෙන් පැවැත්විය යුතු බවත් එය කිසිලෙසකත් කල්දැමීමට නොහැකි බවත්  හිටපු ජනාධිපතිවරයා මෙහිදී පෙන්වා දුනි.
+
+එමෙන්ම ඡන්දය පැවැත්වීම කල්දැමීමට උත්සහාකළ හොත් රට තුළ දහස් ගණනක ලේ වැගිරීම් සිදුවිය හැකි බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/2f74cef9.json)
+
+---
 
 ### Massive accident;Driver's death
 
@@ -2171,115 +2255,5 @@ The police minister has conducted an inquiry by the police officers in Batticalo
 [Data](articles/3833229b.json)
 
 [Extended Data](ext_articles/3833229b.ext.json)
-
----
-
-### The Director General of UNESCO met the president
-
-*2024-07-16 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188622) · `ta`
-
-UNESCO DG Audrey Azoulay visited Sri Lanka to celebrate its 75th anniversary with the President, marking a significant milestone in their partnership.
-
-🟩
-
-UNESCO Director General of UNESCO has visited Sri Lanka, MS.Audrey Azoulay.
-
-The meeting was held at the President's House in Colombo Fort on Tuesday (16), the Presidential Media Unit said.
-
-UNESCO Director General Odre Azole has visited Sri Lanka to mark the 75th anniversary of Sri Lanka's membership in UNESCO.
-
-◼️
-
-[Data](articles/35251958.json)
-
-[Extended Data](ext_articles/35251958.ext.json)
-
----
-
-### Discounts in secret document case against Trump
-
-*2024-07-16 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/188621) · `ta`
-
-A judge dismissed a case against Donald Trump regarding mishandled government documents, ruling it illegal to appoint a special investigation officer and fund the trial. This verdict is seen as a significant win for Trump, coming shortly after his escape from an assassination attempt.
-
-🟩
-
-A judge dismissed the case of secret documents against former US President Donald Trump yesterday.
-
-Since the presidency, 40 allegations have been filed against Donald Trump over the fact that he has handled many of the US government's confidential documents.
-
-Donald Trump has filed a petition on the ground that the appointment of Special Investigation Officer Jeck Smith and the funding for the trial was illegal.
-
-Judge Aleen Kenon of a district court in Florida, who examined the man, dismissed the case yesterday.
-
-The verdict is considered a massive victory for Donald Trump. The verdict was released two days after Donald Trump's survival in the assassination attempt.
-
-◼️
-
-[Data](articles/7f9730a9.json)
-
-[Extended Data](ext_articles/7f9730a9.ext.json)
-
----
-
-### Casperrski comes to America
-
-*2024-07-16 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198879) · `si`
-
-Kaspersky, a top Russian antivirus firm, plans to expand its operations in the U.S., despite previous bans under the Biden administration due to cybersecurity concerns. The company stopped this decision on September 29, citing new U.S. restrictions against downloading and using Kaspersky software. Despite these challenges, Kaspersky continues to offer various internet security and password management solutions to American consumers.
-
-🟩
-
-Kasperski, a world-renowned Russian Antivalus Software Company, has decided to complete its operations in the United States.
-
-Casphersky Lab was announced that it was systematically performed from the 20th.
-
-The Bideen administration had previously stated that the US was banned by selling this Russian company to the United States of America with the security of the internet space.
-
-The Russian cyber security company has decided to stop its decision since September 29.
-
-The US government's new restrictions will be banned downloading and use of Casperski Antenskari software.
-
-Casperrski states that its products are not already available for Americans.
-
-Caspersky Labsk Labsk Antivalus products, Internet security and password management, offers many software products in the computer sector.
-
-◼️
-
-[Data](articles/1baa28fb.json)
-
-[Extended Data](ext_articles/1baa28fb.ext.json)
-
----
-
-### Troops of three Sri Lankans who were shopped in Oman
-
-*2024-07-16 16:11:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c87r03y8x5vo) · `si`
-
-A fuel carrier ship crashed off the coast of Oman, involving three Sri Lankans among its crew. The ship, named "Oube," sank 25 kilometers from Ras Al Hadd. The Sri Lankan Embassy in Oman is investigating the incident and has identified the three Sri Lankans involved.
-
-🟩
-
-Troops of three Sri Lankans who were shopped in Oman
-
-The Marine Security Agency of the Oman has announced that there have been a fuel carrier (July 16), including three Sri Lankans who have served in the flag (July 16).
-
-The other 13 were Indian nationals in the staff of the crash.
-
-According to the Oube, the Oube of France Fuel Friday, an 117 meter, was a crash.
-
-The ship has reached a 25-kilometer from the Rascide and the shimbs from the Rascide.
-
-According to the oubators, the ship was sailing from the location of Yemen from the Port Port.
-
-Meanwhile, the Chief of Ministry of External Affairs, the Chief of Defense Ministry, Media Chiefthima Head of the Ministry of Foreign Affairs, the Sri Lankan Embassy in Oman, has informed the Ministry of External Affairs that three Sri Lankans have been involved in the accident.
-
-He also said that the Sri Lankan embassy in Oman is to look into the missing Sri Lankans.
-
-...
-
-[Data](articles/e34a3c39.json)
-
-[Extended Data](ext_articles/e34a3c39.ext.json)
 
 ---

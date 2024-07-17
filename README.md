@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 08:54:44**
+As of **2024-07-17 09:06:16**
 
 ## Newspaper Stats
 
-*Scraped **35,654** Articles*
+*Scraped **35,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,79 @@ islandlk | 2,027
 economynextcom | 2,118
 dailyftlk | 2,262
 adalk | 3,215
-adaderanalk | 4,113
+adaderanalk | 4,114
 tamilmirrorlk | 4,303
 dailymirrorlk | 4,733
 virakesarilk | 5,558
-adaderanasinhalalk | 5,962
+adaderanasinhalalk | 5,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,653 (100.0%) of 35,654 articles have been extended.
+35,654 (100.0%) of 35,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### ඇසල පෙරහැරට අලි ඇතුන් සැපයීම ගැටලුවක් ?
+### Fairly heavy showers and strong winds expected in parts of the country
+
+*2024-07-17 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/100568/fairly-heavy-showers-and-strong-winds-expected-in-parts-of-the-country) · `en`
+
+The Department of Meteorology says the prevailing windy conditions over the island are expected to continue further, due to the active South West Monsoonal condition.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
+
+Fairly heavy showers about 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy and Nuwara-Eliya districts, it said.
+
+Strong winds of about 50-60kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts. Fairly strong winds about 30-40kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/eca838a8.json)
+
+---
+
+### නිතර නිතර භූකම්පන ඇති වෙන්නේ ඇයි ?
+
+*2024-07-17 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198897) · `si`
+
+ශ්‍රී ලංකාව තුළ පසුගිය කාලය පුරා භූකම්පන තත්ත්වයන් ඇති වීම සම්බන්ධයෙන් පේරාදෙණිය විශ්වවිද්‍යාලයේ භූ ගර්භ විද්‍යා අධ්‍යයන අංශයේ ජ්‍යෙෂ්ඨ මහාචාර්ය අතුල සේනාරත්න මහතාගෙන් "අද දෙරණ" විමසීමක් සිදුකළේය.
+
+එහිදී අදහස් දක්වමින් අතුල සේනාරත්න මහතා පවසා සිටියේ, පෘථිවි අභ්‍යන්තරයේ ඇති පැලුම්තලවල සිදුවන සුළු චලන හේතුවෙන් ඇති වන කම්පනයන් මෙයට හේතුව වන බවය.
+
+"එවැනි චලන ඇති වීමට හේතුව තමා ලංකා භූමියේ ඉතා හෙමින් වසරකට මිලිමීටරයක් දෙකක් වූ ප්‍රමාණයකින් එසවෙනවා. තැනින් තැන ඒ එසවෙන ප්‍රමාණයන් වෙනස්. නමුත් විශේෂයෙන්ම පොළොව අභන්තරයේ භූගත ක්‍රියාකාරී තත්ත්වය වැඩි ස්ථාන කිහිපයක් තියෙනවා. ඒ ස්ථාන හඳුනාගන්න ඉතාම පහසුයි. ඒවා තුළ තියෙන ඛනිජ සම්පත්වලින්. ඇත්තටම මේ ප්‍රදේශ ඛනිජ සම්පත් බහුල ප්‍රදේශයක්. ඉතින් මේ එසවීම හේතුවෙන් තමා මේ සුළු කම්පන තත්ත්වයන් ඇති වෙන්නේ."
+
+අනුරාධපුර සහ කන්තලේ අතර ප්‍රදේශයේ භූකම්පන තත්ත්වයක් ඊයේ (16) සවස වාර්තා වුණි.
+
+භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යාංශය පෙන්වා දෙන්නේ එය රික්ටර් මාපකයේ ඒකක 2.7ක ප්‍රබලත්වයක් යුක්ත බවය.
+
+...
+
+[Data](articles/3b5e5b17.json)
+
+---
+
+### Elephants provide elephants into the gain?
 
 *2024-07-17 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198896) · `si`
 
-ප්‍රධාන පෙරහැර පහක් එකම දීනයේ යෙදීම හේතුවෙන් කරඬුව වැඩම කරවීම සඳහා දළ ඇතුන් සම්බන්ධ කරවීමේ ගැටලුවක් මතුව ඇති බව හීලෑ අලි ඇතුන් හිමිකරුවන්ගේ සංගමය පවසයි.
+The Foreclosure Association of Thamma Elephants reports a challenge in managing the logistics of transporting elephants for events like the Kandy Esala Perahera. Despite having about 90 tame elephants, logistical issues arise post-event, leaving around 70 elephants without proper care.
 
-එහි ලේකම් දම්සිරි බණ්ඩාර කරුණාරත්න මහතා සඳහන් කළේ, පෙරහැර සඳහා සම්බන්ධ කළ හැකි අලි ඇතුන් ඇත්තේ 70කට ආසන්න සංඛ්‍යාවක් බවය.
+🟩
 
-"විශේෂයෙන්ම මහනුවර ඇසල පෙරහැර මංගල්‍යයත් සබරගමු මහ සමන් දේවාලයේ පෙරහැර මංගල්‍යයත් එකම දිනවල යෙදීම නිසාත් ඇසල පුන් පොහොය දිනයේ ප්‍රධාන පෙරහැර 5ක එකම දිනක යෙදී තිබීම නිසාත් විශාල ගැටලුවක් වෙලා තියෙනවා අලි ඇතුන් සපයා දීම. එහිදී කරඬුව වැඩම කරවීම හා දේවාභරණ වැඩම කරවීමට දළ ඇතුන් සොයාගැනීම විශාල ගැටලුවක් වෙලා තියෙනවා. දැනට අපිට හීලෑ අලි ඇතුන් 90ක් පමණ ඉන්නේ. එයින් විවිධ හේතු නිසා ඇතුන් ඉවත් කරාට පස්සේ අපිට ඉන්නේ 70කට ආසන්න ප්‍රමාණයක්."
+The Foreclosure Association of Thamma Elephants (Association) says that a problem has been emerged to connect the corresponding to the correspondence due to the same day.
+
+Secretary to the Secretary Damasiri Bandara Karunaratne said that there were nearly 70 elephants that could be connected to the procession.
+
+"Early fillers of the Kandy Esala Perahera of the Kandy Esala Perahera have been a major problem for the same day, providing elephants in the same day.. Finding grosshops to work and take routine to take the cry. Currently we have around 90 tame elephants. After the removal of the elephants, we have nearly 70. "
 
 ◼️
 
 [Data](articles/854cf630.json)
+
+[Extended Data](ext_articles/854cf630.ext.json)
 
 ---
 
@@ -2237,47 +2281,5 @@ As a result, the petitioners said that there were about forty pits and waste to 
 [Data](articles/9f01614c.json)
 
 [Extended Data](ext_articles/9f01614c.ext.json)
-
----
-
-### Trump 2.0 And/Or Trump -2.0
-
-*2024-07-16 15:07:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/trump-2-0-and-or-trump-2-0/) · `en`
-
-Former President Donald Trump is once again at the center of American political discourse, with discussions of his potential second term, labeled as “Trump 2.0,” sparking both intrigue and concern. An outline of an imperial presidency has emerged, poised to reshape America’s domestic and international roles. Simultaneously, the implications of a Trump loss in the upcoming election, referred to as “Trump -2.0,” raise questions about his acceptance of the results and the potential for political violence.
-
-...
-
-[Data](articles/a771c73f.json)
-
-[Extended Data](ext_articles/a771c73f.ext.json)
-
----
-
-### Bail for doctor Aruchuna: Facebook
-
-*2024-07-16 15:06:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அருச்சுனாவுக்கு-பிணை-முகநூல்-நேரலைக்கும்-தடை/71-340496) · `ta`
-
-Doctor Aruchuna, former Medical Superintendent of Chavakachcheri Hospital, granted bail of 75,000 rupees after five cases filed against him. Conditions include no hospital visits or public comments on the case. He must also provide evidence against other accused doctors to the Chavakachcheri Police Station.
-
-🟩
-
-The Chavakachcheri Magistrate's Justice has issued a bail and conditional bail of 75 thousand rupees in the Chavakachcheri Hospital.
-
-Five cases have been filed in the Chavakachcheri Magistrate's Court against the former Medical Superintendent of the Chavakachcheri Hospital Ramanathan Aruchuna.
-
-Investigations on them were held on Tuesday (16). The defendant was present at the House
-
-Following the hearing of the case, the court has issued conditions, including the release of the doctor on a physical bail of Rs 75,000, and the court should not go to the hospital or not to comment on the court case.
-
-At the same time, the court ordered the doctor Aruchuna to go to the Chavakachcheri Police Station with evidence of other accused doctors.
-
-In addition, the court has ordered the police to take action against the police station and fail to submit the evidence.
-
-◼️
-
-[Data](articles/84283d16.json)
-
-[Extended Data](ext_articles/84283d16.ext.json)
 
 ---

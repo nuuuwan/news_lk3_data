@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 22:08:51**
+As of **2024-07-17 22:20:24**
 
 ## Newspaper Stats
 
-*Scraped **35,782** Articles*
+*Scraped **35,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ adaderanalk | 4,130
 tamilmirrorlk | 4,324
 dailymirrorlk | 4,733
 virakesarilk | 5,582
-adaderanasinhalalk | 5,988
+adaderanasinhalalk | 5,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,780 (100.0%) of 35,782 articles have been extended.
+35,782 (100.0%) of 35,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### නෞකා අනතුරෙන් අතුරුදන් වූ පිරිසෙන් 09ක් සොයා ගනී
+### කොළඹ මහල් නිවාසවල පවුල් 50,000කට සින්නකර ඔප්පු ලබාදෙයි
+
+*2024-07-17 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198927) · `si`
+
+ජනතාවට අද සින්නක්කර ඉඩම් ඔප්පු ලබාදිය හැකි වාතාවරණයක් නිර්මාණය වී තිබෙන්නේ එදා ආර්ථික අර්බුදකාරී සමයේ ජනතාව තම ආණ්ඩුව පිළිබඳ විශ්වාසය තබා කටයුතු කිරීම නිසා බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+කොළඹ දිස්ත්‍රික්කයේ අඩු ආදායම්ලාභී නිවාසහිමියන්ට සින්නක්කර ඔප්පු පිරිනැමීමේ රන්දොර උරුමය වැඩසහනට එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+කොළඹ දිස්ත්‍රික්කයේ අඩු ආදායම්ලාභී නිවාසහිමියන් 50,000කට රන්දොර උරුමය වැඩසටහන යටතේ සින්නක්කර ඔප්පු ප්‍රදානය කිරීමේ වැඩසටහන අද පස්වරුවේ සුගතදාස ගෘහස්ථ ක්‍රීඩාංගනයේදී පැවැත්වුණි.
+
+බස්නාහිර පළාත ලක්ෂ 50ක පමණ ජනතාවක් ජීවත් වන විශාල නගරයක් ලෙස සංවර්ධනය කිරීමට සැලසුම් කර තිබෙන බවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පැවසීය.
+
+◼️
+
+[Data](articles/9c0df793.json)
+
+---
+
+### Nine suspects disappeared from charity accident
 
 *2024-07-17 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198926) · `si`
 
-අරාබි මුහුදේදී ඉන්ධන ප්‍රවාහන නෞකාවක් අනතුරට ලක්වීමෙන් පසු එහි සිටි කාර්යමණ්ඩලය සොයා සිදුකළ මෙහෙයුම්වලදී පුද්ගලයන් 09 දෙනෙකු බේරාගැනීමට හැකිවී ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+In the Arabian Sea, a fuel carrier crash resulted in the disappearance of nine suspects, including eight Indians and one Sri Lankan. Despite the incident, nine individuals were rescued, all of whom were part of the ship's crew, with 13 being Indian nationals. The vessel was located southwest of Oman's port city, where it remains operational with its remaining seven staff members.
 
-එලෙස බේරාගත් පිරිස අතර ඉන්දියානුවන් 08 දෙනෙකු සහ ශ්‍රී ලාංකිකයෙක් වෙයි.
+🟩
 
-ඉන්දීය මාධ්‍ය වැඩිදුරටත් වාර්තා කරන්නේ කාර්යමණ්ඩලයේ ඉතිරි 7 දෙනා සොයා මෙහෙයුම් ක්‍රියාත්මක බවයි.
+According to Indian media reports, nine persons have been able to save nine people on the operations that were conducted by a fuel carrier in the Arabian sea.
 
-අදාළ නෞකාවේ කාර්යමණ්ඩලයේ පුද්ගලයන් 16 දෙනෙකු සිට තිබූ අතර ඉන් 13 දෙනෙකු ඉන්දීය ජාතිකයින් වන අතර අනෙක් තිදෙනා ශ්‍රී ලාංකිකයන් බව වාර්තා වුණි.
+There are eight Indians and a Sri Lankan among the rescued.
 
-ඉන්ධන ප්‍රවාහන නෞකාව අනතුරට ලක්වී තිබුණේ ඕමානයේ ඩියුකම් වරාය නගරයට නාවික සැතපුම් 25ක් නිරිත දිගින් වූ අරාබි මුහුදේදීය.
+Indian media further reports that the seven staff remains operating in the staff.
+
+There were 16 persons from the staff of the ship and 13 of them were Indian nationals.
+
+The fuel carrier was crashed at the southwest miles of Oman's deposit port city.
 
 ◼️
 
 [Data](articles/8722d73a.json)
+
+[Extended Data](ext_articles/8722d73a.ext.json)
 
 ---
 
@@ -78,15 +102,13 @@ It is also reported that the new system will be launched from Friday. Remble
 
 *2024-07-17 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100586/oil-tanker-capsize-in-oman-eight-indians-one-sri-lankan-rescued-as-search-operations-continue) · `en`
 
-As the search and rescue operations continue in the aftermath of an oil tanker capsize off the coast of Oman, nine crew members, including eight Indians have been rescued,  sources said.
+As the search and rescue operations continue in the aftermath of an oil tanker capsize off the coast of Oman, nine crew members, including eight Indians have been rescued by the warship INS Teg,  sources said.
 
 The rescued individuals also include one Sri Lankan national. Sources further stated that the search and rescue operations to find the remaining crew members will continue in the area.
 
-The Indian Navy had deployed warship INS Teg and P-18, a maritime surveillance aircraft to look for 16 crew members, including 13 Indians, missing when the oil tanker named Prestige Falcon capsized around 25 nautical miles southeast of Ras Madrakah, near the port town of Duqm, on Monday.
+In a post on social media platform X, Spokesperson of the Indian Navy stated, “The #SearchAndRescue by Indian & Omani assets is being undertaken in challenging weather conditions as the area is experiencing rough sea & strong winds.”
 
-Oman’s Maritime Security Center informed that the vessel was a Comoros-flagged oil tanker and told Reuters that the vessel remained “submerged and inverted”.
-
-The centre, however, did not confirm whether the oil or oil products in the vessel were leaking into the sea or if the vessel had stabilised after capsizing.
+The Indian Navy also informed that apart from INS Teg, it has deployed P-18, a long range maritime surveillance aircraft to look for 16 crew members, including 13 Indians, who had gone missing when the oil tanker named MT Prestige Falcon capsized around 25 nautical miles southeast of Ras Madrakah, near the port town of Duqm, on Monday.
 
 ...
 
@@ -466,21 +488,29 @@ The minister had promised that the most important issues could be resolved quick
 
 ---
 
-### පොලිස්පති ධුරයේ කටයුතු කිරිම වැළැක්වුවොත් එය ජනපතිවරණයට ගැටලුවක්
+### If preventing the wealth of IGP, it is a problem for the presidential election
 
 *2024-07-17 18:35:04* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ධුරයේ-කටයුතු-කිරිම-වැළැක්වුවොත්-එය-ජනපතිවරණයට-ගැටලුවක්/11-410836) · `si`
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධූරයේ කටයුතු කිරීම වළකාලන අතුරු නියෝගය නිකුත් කරනු ලැබුවහොත් ජනාධිපති මැතිවරණයේදී ගැටලු සහගත තත්වයක් උද්ගත විය හැකි යැයි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා ශ්‍රේෂ්ඨාධිකරණයට අද (17) දැනුම් දුන්නේය.
+In a case involving the appointment of Deshabandu Tennakoon as IGP, concerns about potential influence on the upcoming presidential election have arisen. President's Counsel Romesh De Silva defended the appointment, stating it was lawful and expressing concern over the implications of granting interim relief to petitioners. He highlighted the lack of an independent body to oversee appointments and the potential for future electoral issues. The case involves fundamental rights petitions and considerations from Supreme Court judges, with further hearings scheduled.
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිධුරයේ පත්වීමට එරෙහිව ගොනුකොට තිබූ මූලික අයිතිවාසිකම් පෙත්සම් කැඳවනු ලැබු අවස්ථාවේදී තෙන්නකෝන් මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා එසේ පැවසීය.
+🟩
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන යසන්ත කෝදාගොඩ, මහින්ද සමයවර්ධන සහ අචල වෙන්ගප්පුලි යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ පෙතූසම් සලකා බැලිණි.
+President's Counsel Romesh De Silva (17), President's Counsel, could arbitrary in the presidential election.
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිධුරයේ පත්වීමට එරෙහිව අගරදගුරු මැල්කම් කාදිනල් රංජිත් පියතුමා, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය ඇතුළු පිරිසක් ගොනු කර ඇති මූලික අයිතිවාසිකම් පෙත්සම් වල වගඋත්තරකරුවන් වශයෙන් පොලිසපති දේශබන්දු තෙන්නකෝන් මහතා, ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් ඇතුළු පිරිසක් නම් කර ඇත.
+Mr. Tenna De Silva, who appeared on behalf of Tennakoon, was called for the fundamental rights petitions filed against the appointment of Deshabandu Tennakoon.
+
+The number of several judges with Supreme Court judges Yasantha Kodagoda, Mahinda Samawardena and Aetala Vengupuli were considered.
+
+Deshabandu Tennakoon has been appointed as the Archbishop Malcolm Cardinal Ranjith, the CPA and the Leaders of the Legislative Circular Petitions, including the Legislative Council members.
+
+At the time of the petitions, President's Counsel Romesh de Silva said that the Title Romesh de Silva has accurately proclaimed that the Title of the Tribunal has been accurate in appointing his client as the IGP.
 
 ...
 
 [Data](articles/de287cab.json)
+
+[Extended Data](ext_articles/de287cab.ext.json)
 
 ---
 
@@ -2431,27 +2461,5 @@ Former President Maithripala Sirisena added that thousands of bloodshed in the c
 [Data](articles/2f74cef9.json)
 
 [Extended Data](ext_articles/2f74cef9.ext.json)
-
----
-
-### Sri Lanka mulls agency to regulate transport of goods and services on inland waterways
-
-*2024-07-17 10:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-agency-to-regulate-transport-of-goods-and-services-on-inland-waterways-172292/) · `en`
-
-ECONOMYNEXT – A parliamentary committee have discussed setting up an agency to regulate the transport of goods and services on Sri Lanka’s inland waterways.
-
-The Sectoral Oversight Committee on Energy and Transport met in Parliament recently.
-
-“Since Sri Lanka is an island, transportation by waterways can be encouraged as a remedy to reduce the traffic congestion during the period when office services start in the morning around the city of Colombo,” a Parliament statement said.
-
-Although there had been discussions on how to carry out transportation through waterways for a long time, no formal system had been prepared, Madhura Withanage pointed out.
-
-The statement did not say whether any attempts were made to find out whether existing state agencies could handle the task.
-
-...
-
-[Data](articles/03c70b84.json)
-
-[Extended Data](ext_articles/03c70b84.ext.json)
 
 ---

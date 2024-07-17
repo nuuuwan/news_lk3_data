@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 13:54:57**
+As of **2024-07-17 14:07:20**
 
 ## Newspaper Stats
 
-*Scraped **35,702** Articles*
+*Scraped **35,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,027
 economynextcom | 2,123
 dailyftlk | 2,262
 adalk | 3,218
-adaderanalk | 4,123
-tamilmirrorlk | 4,315
+adaderanalk | 4,124
+tamilmirrorlk | 4,318
 dailymirrorlk | 4,733
 virakesarilk | 5,562
 adaderanasinhalalk | 5,972
@@ -26,11 +26,89 @@ adaderanasinhalalk | 5,972
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,701 (100.0%) of 35,702 articles have been extended.
+35,701 (100.0%) of 35,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### நாய்களை வன்புணர்ந்தவருக்கு  249 வருடங்கள் சிறை
+
+*2024-07-17 13:46:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/நாய்களை-வன்புணர்ந்தவருக்கு-249-வருடங்கள்-சிறை/53-340555) · `ta`
+
+நாய்களை பாலியல் வன்புணர்வுக்கு உட்படுத்தினார் என குற்றஞ்சாட்டப்பட்டிருந்தவரை குற்றவாளியாக இனங்கண்ட நீதிமன்றம் அவருக்கு 249 வருடங்கள் சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது. பாலியல் வன்புணர்வினால் இதுவரையிலும் 39 நாய்கள் உயிரிழந்துள்ளமை கண்டறியப்பட்டுள்ளது.
+
+அவுஸ்திரேலியாவில் வசித்து வரும் பிரிட்டனைச் சேர்ந்த ஒருவர் வினோதமான வகையில் குற்றங்களில் ஈடுப்பட்டு வந்துள்ளார்.
+
+அதாவது 52 வயதான விலங்கியல் நிபுணரும், முதலைகள் ஸ்பெஷலிஸ்டுமான ஆடம் பிரிட்டோன் என்பவர் நாய்களை அடித்து துன்புறுத்தி வன்புணர்வில் ஈடுபட்டுள்ளார்.
+
+இதனால் இதுவரை 39 நாய்கள் உயிரிழந்துள்ளன. நாய்களை வன்புணர்வு செய்வதை வீடியோவாகவும் எடுத்து வைத்துள்ளார் ஆடம் பிரிட்டோன்.
+
+இதுபோன்று விலங்குகளை துன்புறுத்தியதாக இவர் மீது 60 குற்றச்சாட்டுகள் உள்ளன. அவுஸ்திரேலிய நீதிமன்றத்தில் இவையனைத்தையும் ஆடம் பிரிட்டோன் நீதிமன்றத்தில் ஒப்புக்கொண்டார்.
+
+விலங்குகளை பராமரிக்க முடியாமல் திணறும் உரிமையாளர்களிடமிருந்து அவற்றை வாங்கி இந்த குற்றச் செயல்களில் ஈடுபட்டுள்ளார் ஆடம். பாரப்பிலியா (Paraphilia) என்ற மன நோயினால் ஆடம் பாதிக்கப்பட்டுள்ளதாக தெரிகிறது.
+
+...
+
+[Data](articles/2e3ef9b6.json)
+
+---
+
+### More details revealed on shooting and killing of former cricketer
+
+*2024-07-17 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100578/more-details-revealed-on-shooting-and-killing-of-former-cricketer-) · `en`
+
+Dhammika Niroshana, also known as ‘Jonty,’ a former captain of Sri Lanka’s Under-19 cricket team, was shot dead last night (16) in Ambalangoda.
+
+The shooting occurred at around 9.30 p.m. yesterday in front of the victim’s house at Kande Mawatha in Bogahawatte, Ambalangoda.
+
+Niroshana was shot by an assailant who was armed with a 12-bore rifle, while he had been shot in the head killing him instantly.
+
+The shooting took place as the victim was preparing to leave his house to attend a funeral ceremony.
+
+The shooter had fired from near an abandoned plot of land near the victim’s house and had then fled the scene on foot.
+
+Niroshana, a 41-year-old father of two, had captained the Sri Lanka Under-19 cricket team in 2002.
+
+He had been living overseas for a period before returning to the country and was reportedly planning to travel abroad once again.
+
+The incident unfolded when a resident had alerted Niroshana regarding a suspicious individual loitering near his home in the abandoned property.
+
+...
+
+[Data](articles/f3fbe4a0.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் சுதந்திரக் கட்சியின் வேட்பாளர்
+
+*2024-07-17 13:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-சுதந்திரக்-கட்சியின்-வேட்பாளர்/175-340552) · `ta`
+
+ஜனாதிபதித் தேர்தலில் ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் வேட்பாளர் தெரிவு செய்யப்பட்டுள்ளதாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலை நடத்துவதை ஒத்திவைக்கும் முயற்சி மேற்கொள்ளப்பட்டால் நாட்டில் இரத்தக்களரி ஏற்பட வாய்ப்புள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+கொழும்பில் நேற்று இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே முன்னாள் ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/09c45b7a.json)
+
+---
+
+### மனுவை வாபஸ் பெற்றார் டயானா
+
+*2024-07-17 13:27:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுவை-வாபஸ்-பெற்றார்-டயானா/175-340551) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே, தனது கட்சி உறுப்புரிமையை இரத்து செய்யும் ஐக்கிய மக்கள் சக்தியின் தீர்மானத்தை எதிர்த்து, உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்ட மனுவை வாபஸ் பெற்றுள்ளார்.
+
+முன்னாள் அமைச்சரின் சட்டத்தரணிகள், கமகே இந்த வழக்கை தொடர விரும்பவில்லை எனக் கூறி, மனுவை வாபஸ் பெற நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/a03f982d.json)
+
+---
 
 ### ලාංකික ආහාර ජාත්‍යන්තරයට ගෙන ගිය අපේ සවින්ද්‍රි
 
@@ -2169,91 +2247,5 @@ More the 17.1 million voters will be eligible to case their votes in the upcomin
 [Data](articles/044e1451.json)
 
 [Extended Data](ext_articles/044e1451.ext.json)
-
----
-
-### Minor tremor reported east of Anuradhapura
-
-*2024-07-16 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100563/minor-tremor-reported-east-of-anuradhapura) · `en`
-
-A minor earth tremor with a magnitude of 2.7 on the Richter scale has been reported this evening (16) between Anuradhapura and Kantale, according to the Geological Survey and Mines Bureau.
-
-Accordingly, the Seismic Monitoring Center of the bureau stated that that the minor tremor was recorded at around 5.12 p.m. today approximately 41 km east from Anuradhapura.
-
-◼️
-
-[Data](articles/3f385011.json)
-
-[Extended Data](ext_articles/3f385011.ext.json)
-
----
-
-### An earthquake between Anuradhapura and Kantale
-
-*2024-07-16 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198884) · `si`
-
-An earthquake measuring 2.7 on the Richter scale occurred today near Anuradhapura and Kantale.
-
-🟩
-
-An earthquake between Anuradhapura and Kantale today (16) have been reported.
-
-The Geological Survey and Mines Bureau point out that it has recorded 2.7 units of the Richter.
-
-◼️
-
-[Data](articles/cc999c12.json)
-
-[Extended Data](ext_articles/cc999c12.ext.json)
-
----
-
-### Current harvest cannot cover production expenditure
-
-*2024-07-16 19:00:18* · [`adalk`](https://www.ada.lk/breaking_news/දැනට-ලැබෙන-වී-අස්වැන්න-නිශ්පාදන-වියදමත්-පියවා-ගන්න-බෑ/11-410821) · `si`
-
-The Ministry of Agriculture aims to enhance paddy production in key regions starting from the 2024 Maha season to meet the national demand of 4.1 million metric tons, up from 4.5 million tons in 2023, due to current harvests not covering production costs.
-
-🟩
-
-The Ministry of Agriculture and Plantation Industries have revealed that the highest yield from the majority of the majority of the utensils is now available for a hectare.
-
-Accordingly, the Ministry of Agriculture has planned to boost a project to increase the production of paddy in six main rice cultivation of paddy in six main rice cultivation.
-
-The program is to commence from the 2024 Maha season, where the highest number of paddy harvest is located in the paddy fields in Hambantota, Polonnaruwa, Kandy, Ampara and Monaragala Agricultural territories.
-
-In addition, Minister Mahinda Amaraweera has instructed the Department of Agriculture to introduce a technique to the farmers.
-
-According to the Ministry of Agriculture, the amount of rice required for annual consumption in this country is 2.4 million metric tons. The total national paddy need of 2024 is 4.1 million metric tons and has been able to obtain a 4.5 million metric tonnes in 2023.
-
-◼️
-
-[Data](articles/4f391ac3.json)
-
-[Extended Data](ext_articles/4f391ac3.ext.json)
-
----
-
-### There is no barrier to the presidential election: an official announcement will be made at the end of July;17,140,000 eligible to vote - Elections Commission
-
-*2024-07-16 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188631) · `ta`
-
-The presidential election is set to proceed without barriers, with an official announcement expected at the end of July. Approximately 17.14 million eligible voters will participate. The Election Commission has completed preliminary work according to constitutional and electoral laws. Expectations for the election have been high among the populace. Various considerations, including candidate propaganda activities and ensuring a conducive voting environment, will influence the election timeline. The nomination period is restricted to avoid conflicts with religious customs, and the exact dates for key stages of the election process, including the nomination papers deadline and the election itself, will be announced soon.
-
-🟩
-
-We have carried out work for the presidential election in accordance with the provisions of the constitution and the presidential election law. The initial work has been completed. Accordingly, the official announcement of the presidential election will be announced at the end of this month. This time, 1 crore 71 lakhs and 40 thousand voters are eligible to vote, said RMAL Ratnayake, Chairman of the Election Commission.
-
-According to the Constitution, there is no barrier to holding the presidential election in a timely manner. People are expecting the presidential election over the past periods.
-
-He made this statement during a media briefing held at the Elections Commission's office on Tuesday (16).
-
-The Elections Commission has the responsibility to clarify the people on the presidential election.
-
-...
-
-[Data](articles/31216e22.json)
-
-[Extended Data](ext_articles/31216e22.ext.json)
 
 ---

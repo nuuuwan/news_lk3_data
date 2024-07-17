@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 16:52:25**
+As of **2024-07-17 17:05:15**
 
 ## Newspaper Stats
 
-*Scraped **35,724** Articles*
+*Scraped **35,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,123
 dailyftlk | 2,262
-adalk | 3,223
-adaderanalk | 4,125
+adalk | 3,224
+adaderanalk | 4,126
 tamilmirrorlk | 4,319
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,982
+adaderanasinhalalk | 5,983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,723 (100.0%) of 35,724 articles have been extended.
+35,724 (100.0%) of 35,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ගුවන් ගමන් බලපත්‍ර අයදුම් කිරීමට නව ක්‍රමවේදයක්
+
+*2024-07-17 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198920) · `si`
+
+ගුවන් ගමන් බලපත්‍ර අයදුම්කරුවන්ගේ පහසුව සඳහා නව ක්‍රමවේදයක් හඳුන්වා දීමට ආගමන හා විගමන දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+
+ඒ අනුව ගුවන් ගමන් බලපත්‍ර අයදුම් කිරීම සඳහා www.immigration.gov.lk වෙබ් අඩවිය ඔස්සේ පූර්ව ලියාපදිංචි වීමක් සිදු කළ යුතුය.
+
+අන්තර්ජාලය ඔස්සේ ලියාපදිංචි වීමෙන් අනතුරුව ගමන් බලපත් ප්‍රමුඛතා ක්‍රම වේදයකට අනුව ලබාදීම සිදුවන බව ආගමන හා විගමන දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/f65734d9.json)
+
+---
+
+### Four women arrested over brutal assault on child in Aranayaka
+
+*2024-07-17 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100580/four-women-arrested-over-brutal-assault-on-child-in-aranayaka) · `en`
+
+Aranayaka Police stated that four female suspects have been arrested in connection with an incident of inhumane assault and cruelty towards a child.
+
+A video of the incident in question recently went viral on social media and following an investigation launched into the matter, the relevant suspects were arrested.
+
+Accordingly, the child’s two grandmothers were arrested for assaulting the child while his mother along with another woman have been arrested on the charges of aiding and abetting the incident.
+
+The four arrested suspects are residents of Aranayaka and aged between 42 to78 years.
+
+Police stated that the suspects are to be produced before the Mawanella Magistrate’s Court today (17) and the child, who is under the care of his father, is to be produced before the Mawanella Judicial Medical Officer (JMO).
+
+◼️
+
+[Data](articles/4243ae92.json)
+
+---
 
 ### Another order for election requests another order
 
@@ -54,17 +90,37 @@ The Elections Commission and its members have been named as respondents.
 
 ---
 
-### ஜனாதிபதி அதிரடி: குழுவை நியமித்தார்
+### President Action: Has the team appointed
 
 *2024-07-17 16:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அதிரடி-குழுவை-நியமித்தார்/175-340560) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களினதும்  முன்னாள் ஜனாதிபதிகளினதும் பிரத்தியேக பாதுகாப்பு ஏற்பாடுகளை மேற்பார்வை செய்வதற்காக குழுவொன்றை நியமிக்கப்படவுள்ளது.
+President Ranil Wickremesinghe has submitted a cabinet paper to oversee security for election candidates and former presidents. A committee will manage this, including appointing a Deputy Inspector General of Police, as announced by the Presidential Media Unit.
 
-அத்தகைய சகல பாதுகாப்பு நடவடிக்கைகளையும் ஒருங்கிணைப்பதற்கும்  பிரதிப் பொலிஸ் மா அதிபர் ஒருவரை நியமிப்பதற்கும் பரிந்துரைத்து ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அமைச்சரவைப் பத்திரமொன்று சமர்ப்பிக்கப்பட்டுள்ளது என ஜனாதிபதி ஊடகப் பிரிவு விடுத்துள்ள ஊடக அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
+
+A committee will be appointed to oversee the exclusive security arrangements of the candidates and former presidents contesting the upcoming presidential election.
+
+A cabinet paper has been submitted by President Ranil Wickremesinghe to coordinate all such security measures and appoint a Deputy Inspector General of Police, the Presidential Media Unit said in a media statement.
 
 ◼️
 
 [Data](articles/d5a2fe4b.json)
+
+[Extended Data](ext_articles/d5a2fe4b.ext.json)
+
+---
+
+### ගම්පහ මාර්ග රැසක අඩුපාඩු රැසක්
+
+*2024-07-17 15:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-මාර්ග-රැසක-අඩුපාඩු-රැසක්/11-410827) · `si`
+
+සියලුම මාර්ගවල පවතින අනාරක්ෂිත තත්ත්වයන් සම්බන්ධයෙන් අදාල ආයතන වගකිවයුතු බවත් එම අනාරක්ෂිත තත්ත්වයක් හේතුවෙන් අනතුරක් සිදුවුවහොත් අදාල ආයතනයට නීතිය ක්‍රියාත්මක කෙරෙනු ඇති  බවත් ගම්පහ පොලිස් අධිකාරී තිස්ස සේනානායක මහතා , ගම්පහ කොට්ඨාස මාර්ග ආරක්ෂක කමිටුවේදී පැවසීය.
+
+මෙහිදී පොලිස් අධිකාරීවරයා සදහන් කර සිටියේ, අනතුරු විය හැකි අන්දමින් මාර්ග අද්දර ඇති ගස් සහ කඩාවැටිය හැකි අතු ඉවත් කිරීම මෙන්ම මාර්ගවල ඇති භූගත දුරකථන හා ජලනල සංදාම කුටි මාර්ගයට සමාන්තරව නොමැති තත්ත්වයන් මත රිය අනතුරු සිදුවන බැවින් මේ සම්බන්ධයෙන් විශේෂ අවධානයක් යොමු කළ යුතු බවය.
+
+...
+
+[Data](articles/6fdbfd80.json)
 
 ---
 
@@ -2249,59 +2305,5 @@ Nestlé Lanka recently held the ‘Connect@Nest’24’ event, to honour and rec
 [Data](articles/bf8b3229.json)
 
 [Extended Data](ext_articles/bf8b3229.ext.json)
-
----
-
-### Oil carriers served in Sri Lankans sinking sea
-
-*2024-07-16 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198889) · `si`
-
-An oil carrier sank near Oman while en route to Yemen's harbor port.
-
-🟩
-
-International Media stated that a sea transport vessel in the nearest OMAN has been mired.
-
-It is said that the ship was sailing to the Harbor port of Yemen.
-
-◼️
-
-[Data](articles/c8d28aa8.json)
-
-[Extended Data](ext_articles/c8d28aa8.ext.json)
-
----
-
-### ‘Record year for Sarvodaya Development Finance as profits and assets soar’
-
-*2024-07-16 22:35:00* · [`islandlk`](http://island.lk/record-year-for-sarvodaya-development-finance-as-profits-and-assets-soar/) · `en`
-
-Sarvodaya Development Finance PLC has achieved a record-breaking year in terms of financial performance, marking financial year 2023/24 as one of unprecedented growth and resilience.
-
-Accordingly, the company reported its highest-ever profits, underpinned by a robust 43.5% growth in Net Interest Income and a 45.7% increase in Total Operating Income. Despite challenges amidst a dynamic economic environment, Profit Before Tax surged by 36.4%, while Profit After Tax rose by 12.6% to LKR 249.5 million, demonstrating the company’s strategic acuity and operational efficiency.
-
-The company’s performance in the Non-Banking Financial Institutions (NBFI) sector was particularly noteworthy. Sarvodaya Development Finance PLC achieved a growth in Total Assets of 27.7%, significantly outpacing the industry average of 7.7%. Meanwhile, the Lending Portfolio grew by 29.5% compared to the industry average of 4.5%, and Deposits rose by 21%, well above the industry’s 8.8%.
-
-...
-
-[Data](articles/c1134117.json)
-
-[Extended Data](ext_articles/c1134117.ext.json)
-
----
-
-### Nations Trust Bank supports restoration of historic murals at Gothami Viharaya
-
-*2024-07-16 22:33:00* · [`islandlk`](http://island.lk/nations-trust-bank-supports-restoration-of-historic-murals-at-gothami-viharaya/) · `en`
-
-July 2024, Colombo: Nations Trust Bank partnered with the George Keyt Foundation for the restoration of historic mural art at the Gothami Viharaya in Colombo, with the aim to preserve Sri Lanka’s cultural heritage.
-
-The murals at Gothami Viharaya, dating back nearly a century, underwent a restoration due to a significant threat to the historic building and its art. Nations Trust Bank supported the first phase of the restoration project, which involved the conservation of the historic art. The project highlights the Bank’s strategic focus on CSR and sustainability, and its ongoing support of Sri Lankan art and culture. The initiative is also an extension of the Bank’s long-term partnership with the George Keyt Foundation.
-
-...
-
-[Data](articles/b42c943c.json)
-
-[Extended Data](ext_articles/b42c943c.ext.json)
 
 ---

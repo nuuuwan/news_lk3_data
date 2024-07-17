@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 09:20:11**
+As of **2024-07-17 09:35:33**
 
 ## Newspaper Stats
 
-*Scraped **35,657** Articles*
+*Scraped **35,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 2,027
 economynextcom | 2,118
 dailyftlk | 2,262
 adalk | 3,215
-adaderanalk | 4,115
-tamilmirrorlk | 4,303
+adaderanalk | 4,116
+tamilmirrorlk | 4,306
 dailymirrorlk | 4,733
-virakesarilk | 5,558
+virakesarilk | 5,562
 adaderanasinhalalk | 5,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,656 (100.0%) of 35,657 articles have been extended.
+35,657 (100.0%) of 35,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ‘Red’ alert issued over strong winds and rough seas
+
+*2024-07-17 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100570/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ warning for strong winds and rough seas for naval and multi-day fisherman communities in the Arabian Sea and Bay of Bengal.
+
+As per the warning, very strong winds of 70-80 kmph, and very rough seas are likely over Arabian Sea area (in sea areas bounded by (10N - 20N) and (55E – 75E)) and Bay of Bengal (in sea areas bounded by (12N - 17N) and (83E – 93E)) due to the active south-west monsoonal condition.
+
+Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
+
+Those who are out at aforementioned sea regions are advised to return to coasts or moved safer areas immediately.
+
+Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/9ad9645d.json)
+
+---
+
+### ஓமன் கடலில் எண்ணெய்க் கப்பல் கவிழ்ந்ததில் இலங்கையர்கள் மாயம்
+
+*2024-07-17 09:17:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஓமன்-கடலில்-எண்ணெய்க்-கப்பல்-கவிழ்ந்ததில்-இலங்கையர்கள்-மாயம்/50-340527) · `ta`
+
+ஓமான் அருகே 16 பேருடன் சென்ற எண்ணெய் கப்பல் ஒன்று கடலில் மூழ்கியுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+ஏமன் நாட்டில் உள்ள ஏடன் துறைமுகத்தை நோக்கி கப்பல் சென்று கொண்டிருந்த கப்பலே இவ்வாறு மூழ்கியுள்ளதாக கூறப்படுகிறது
+
+கப்பல் "நீரில் மூழ்கி தலைகீழாக" உள்ளதாகவும், கப்பல் நிலைப்படுத்தப்பட்டதா அல்லது எண்ணெய் பொருட்கள் கடலில் கசிந்ததா என்பதை உறுதிப்படுத்தவில்லை. R
+
+◼️
+
+[Data](articles/fc9c6de0.json)
+
+---
+
+### கொழும்பு, மோதரை பகுதியில் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது !
+
+*2024-07-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188646) · `ta`
+
+கொழும்பு, மோதரை அளுத்மாவத்தை பகுதியில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+விமானப்படை புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் கொழும்பு வடக்கு  குற்றப்புலனாய்வு  பிரிவினரினால்  இந்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/faa0043b.json)
+
+---
+
+### “அர்ஜூனா செல்ல வேண்டும்” மீண்டும் போராட்டம்
+
+*2024-07-17 09:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அர்ஜூனா-செல்ல-வேண்டும்-மீண்டும்-போராட்டம்/71-340526) · `ta`
+
+சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் பதில் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனா இன்று (17) காலை 8 மணிக்கு முன்னதாக வைத்தியசாலை விடுதியில் இருந்து வெளியேற்றப்படவேண்டும்.
+
+இல்லை என்றால் இன்று காலை 8 மணி முதல் பணிப்புறக்கணிப்பு போராட்டத்தில் குதிப்போம் என சாவகச்சேரி ஆதார வைத்தியசாலை அரச வைத்திய அதிகாரிகள் சங்க கிளையினர்,  எச்சரிக்கை விடுத்துள்ளனர்.
+
+சாவகச்சேரி ஆதார வைத்தியசாலை அரச வைத்திய அதிகாரிகள் சங்கத்தினர் வெளியிட்ட ஊடக அறிக்கையில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+சாவச்சேரி ஆதார வைத்தியசாலை வைத்திய அத்தியட்சகராக இராமநாதன் அர்ச்சுனா நியமிக்கப்பட்டதன் பின்பு ஏற்பட்ட பிரச்சனைகள்  யாவரும் அறிந்த ஒன்று. இவ்விடயம் தொடர்பான தவறான புரிதல்கள் பொதுமக்கள் மத்தியில் காணப்படுவதனால் அது பற்றிய தெளிவுபடுத்தல்களை மேற்கொள்ள வேண்டிய நிலைக்கு நாம் ஆளாகியுள்ளோம்.
+
+தனிப்பட்ட ஒரு மருத்துவரின் நிர்வாகம் சார்ந்த பிரச்சனை ஒட்டுமொத்த வைத்திய சமுகத்தையும் பாதித்துள்ளது. எனவே  உண்மை நிலையை எடுத்துரைப்பதோடு அறிவுக் கண்கொண்டு இவ்விடயத்தை பொதுமக்கள்  அணுக வேண்டும் என்பதே எமது எதிர்பார்ப்பாகும்.
+
+...
+
+[Data](articles/3867e66b.json)
+
+---
 
 ### Man arrested with over 1kg of ‘ice’ in Modara
 
@@ -47,6 +117,8 @@ The arrested suspect has been identified as a 31-year-old resident of Aluth Mawa
 ◼️
 
 [Data](articles/7b6f258d.json)
+
+[Extended Data](ext_articles/7b6f258d.ext.json)
 
 ---
 
@@ -198,6 +270,30 @@ The suspects were recovered from 2 milligrams of ice narcular in the tipper.
 
 ---
 
+### No one can prevent Ranil Wickremesinghe's victory - United National Party
+
+*2024-07-17 06:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188606) · `ta`
+
+Ranil Wickremesinghe's victory in the upcoming presidential election seems inevitable despite accusations of election dismissal conspiracies. The President's Labor Relations Commissioner assures his commitment to holding the election promptly. Opposition attempts to delay the election through legal challenges have been unsuccessful, including a case questioning the president's term length and another seeking re-election. These efforts are seen as part of a broader strategy to obstruct Wickremesinghe's candidacy. Despite the chaos, Wickremesinghe remains determined to proceed with the election as an independent candidate, confident in securing the majority vote.
+
+🟩
+
+Neither Ranil Wickremesinghe nor the government has taken any indirect action to postpone the presidential election. But the opposition is accusing Ranil Wickremesinghe of conspiracy to dismiss the election. But Ranil Wickremesinghe is determined to hold the election in a timely manner, said the President's Labor Relations Commissioner Saman Ratnapraya.
+
+He was speaking at a press conference held at the United National Party headquarters in Sirikotha on Tuesday (16).
+
+A few are acting indirectly to overcome the presidential election. Last week, a dealer had questioned the president's tenure and sued the High Court.
+
+President Ranil Wickremesinghe immediately acted and confirmed that the president's tenure was five years and had given the Attorney General's Department to the Attorney General's Department to take action in the High Court.. Accordingly, the case was dismissed.
+
+...
+
+[Data](articles/4229e413.json)
+
+[Extended Data](ext_articles/4229e413.ext.json)
+
+---
+
 ### Be careful - a red announcement from the weather
 
 *2024-07-17 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198890) · `si`
@@ -261,6 +357,8 @@ It was this routine and without any exaggeration to say my commitment and dedica
 *2024-07-17 05:41:08* · [`dailyftlk`](https://www.ft.lk/columns/Debt-recovery-process-as-rehabilitation-mechanism/4-764365) · `en`
 
 The revival program recently initiated by CBSL is a big opportunity for the banks to reduce their non-performing balance via rehabilitating the distressed customers while contributing to the national economy of Sri Lanka
+
+A credit decision of a bank is inextricably associated with credit risk due to the micro and macroeconomic conditions which are beyond the control of the customer. Hence, the repayment capacity of the borrower can be affected by unpredictable circumstances; subsequently the liabilities of the bank will be transferred to non-performing category. These borrowers cannot be treated as wilful defaulters, and should be immediately remedied out by different tools and techniques like Restructuring, Rescheduling and Revival with Rehabilitation
 
 ...
 
@@ -530,6 +628,56 @@ In response Wickramaratne taking to social media platform X yesterday said such 
 
 ---
 
+### நீர்க்கட்டண சூத்திரத்தை 2025ஆம் ஆண்டு முதல் நடைமுறைப்படுத்த அமைச்சரவை அங்கீகாரம்
+
+*2024-07-17 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188644) · `ta`
+
+தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபையின் கட்டண மீளாய்வு செய்வதற்காக நீர்க் கட்டணக் கொள்கை மற்றும் நீர்க்கட்டணச் சூத்திரமொன்றை நடைமுறைப்படுத்த அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபையின் புதிய கட்டணக் கொள்கை மற்றும் சூத்திரத்திற்கான அங்கீகாரம் கடந்த ஏப்ரல் 8ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில்  வழங்கப்பட்டுள்ளது.
+
+அதில் ஏற்புடைய அனைத்துத் தரப்பினர்களுடன் கலந்துரையாடித் தேவையான அனைத்துத் திருத்தங்களையும் உட்சேர்த்து, புதிய நீர்க் கட்டணக் கொள்கை மற்றும் நீர்க் கட்டணச் சூத்திரத்தை சமர்ப்பிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+அதற்கமைய, தயாரிக்கப்பட்டுள்ள திருத்தப்பட்ட நீர்க் கட்டணக் கொள்கை மற்றும் திருத்தப்பட்ட நீர்க்கட்டண சூத்திரத்தை 2025ஆம் ஆண்டு தொடக்கம் நடைமுறைப்படுத்துவதற்காக நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/283e3920.json)
+
+---
+
+### நானுஓயா புகையிரத நிலையத்தை நவீனமயப்படுத்தும் வேலைத்திட்டத்தைப் பூர்த்தி செய்ய தீர்மானம்
+
+*2024-07-17 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188643) · `ta`
+
+இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபை மற்றும் இலங்கை சுற்றுலா மேம்பாட்டுப் பணியகத்தின் நிதியைப் பயன்படுத்தி நானுஓயா புகையிரத நிலையத்தை நவீனமயப்படுத்தும் வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக 2023.04.03 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+கட்டுமானப் பொருட்களின் விலை அதிகரிப்பால் நானுஓயா புகையிரத நிலையத்தை நவீனமயப்படுத்தும் வேலைத்திட்டத்திற்கான ஒப்பந்தப் பெறுமதி 74.63 மில்லியன் ரூபா 101.81 மில்லியன் ரூபா வரைக்கும் அதிகரித்துள்ளது.
+
+அதற்கமைய, புதிய திருத்தப்பட்ட மதிப்பீட்டின் கீழ் இலங்கை புகையிரத திணைக்களம் மற்றும் பொறியியல் பணிகள் தொடர்பான மத்திய ஆலோசனைப் பணியகம் மூலம் குறித்த நவீனமயப்படுத்தல் பணிகளைப் பூர்த்தி செய்வதற்கும், அதற்குத் தேவையான மேலதிக தொகையை இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபை மற்றும் இலங்கை சுற்றுலா மேம்பாட்டுப் பணியகத்தின் மூலம் பெற்றுக் கொள்வதற்கும் சுற்றுலா மற்றும் காணி அமைச்சர் சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.-
+
+◼️
+
+[Data](articles/7c0f4b38.json)
+
+---
+
+### தேர்தல் குறித்து ஜனாதிபதியுடன் கலந்துரையாடவில்லை சுயாதீனமாக செயற்பட்டு தீர்மானங்களை எடுக்கிறோம் - தேர்தல்கள்  ஆணைக்குழு
+
+*2024-07-17 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188642) · `ta`
+
+ஜனாதிபதி தேர்தல் குறித்து ஜனாதிபதியுடன் எவ்வித பேச்சுவார்த்தையிலும் ஈடுபடவில்லை.சுயாதீனமான முறையில் தேர்தல் பணிகளை முன்னெடுத்துள்ளோம்.தேர்தல் செலவுகளுக்காக 10 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. நிதியமைச்சுடன் இன்று பேச்சுவார்த்தையில் ஈடுபடுவோம் என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+தேர்தல்கள் ஆணைக்குழுவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+2024 ஆம் ஆண்டு வரவு செலவுத் திட்டத்தில் ஜனாதிபதி தேர்தலுக்காக நிதி ஒதுக்கப்பட்டுள்ளது.இதற்கமைய தேர்தல் பணிகளுக்காக 10 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது.அந்த நிதியை கொண்டு ஆரம்பக்கட்ட பணிகள் முன்னெடுக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/32570b92.json)
+
+---
+
 ### UNESCO Director meets the President
 
 *2024-07-17 00:07:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுனெஸ்கோ-பணிப்பாளர்-ஜனாதிபதியுடன்-சந்திப்பு/175-340523) · `ta`
@@ -547,6 +695,20 @@ Prime Minister Dinesh Gunawardena, Minister of Education Dr. Susil Premajayantha
 [Data](articles/e36cfcbe.json)
 
 [Extended Data](ext_articles/e36cfcbe.ext.json)
+
+---
+
+### 67 பாடசாலைகளுக்கு விளையாட்டு உபகரணங்கள்
+
+*2024-07-17 00:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/67-பாடசாலைகளுக்கு-விளையாட்டு-உபகரணங்கள்/175-340522) · `ta`
+
+கம்பஹா மாவட்டத்தின் பாடசாலை விளையாட்டை மேம்படுத்தும் நோக்கில் 67 பாடசாலைகளுக்கு விளையாட்டு உபகரணங்கள் வழங்கி வைக்கும் நிகழ்வு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவின் தலைமையில் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக்கருவுக்கமைய, சாகல ரத்நாயக்கவின் வழிகாட்டலின் கீழ், Youth vision 2048 அமைப்பு மற்றும் இலங்கை கிரிக்கெட் நிறுவனத்தினால் இந்த வேலைத்திட்டம் ஏற்பாடு செய்யப்பட்டிருந்தது. (a)
+
+◼️
+
+[Data](articles/466b67c7.json)
 
 ---
 
@@ -837,30 +999,6 @@ Consequently, the All Share Price Index went down by 13.23 points while S and P 
 [Data](articles/c280db54.json)
 
 [Extended Data](ext_articles/c280db54.ext.json)
-
----
-
-### No one can prevent Ranil Wickremesinghe's victory - United National Party
-
-*2024-07-16 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188606) · `ta`
-
-Ranil Wickremesinghe's victory in the upcoming presidential election seems inevitable despite accusations of election dismissal conspiracies. The President's Labor Relations Commissioner assures his commitment to holding the election promptly. Opposition attempts to delay the election through legal challenges have been unsuccessful, including a case questioning the president's term length and another seeking re-election. These efforts are seen as part of a broader strategy to obstruct Wickremesinghe's candidacy. Despite the chaos, Wickremesinghe remains determined to proceed with the election as an independent candidate, confident in securing the majority vote.
-
-🟩
-
-Neither Ranil Wickremesinghe nor the government has taken any indirect action to postpone the presidential election. But the opposition is accusing Ranil Wickremesinghe of conspiracy to dismiss the election. But Ranil Wickremesinghe is determined to hold the election in a timely manner, said the President's Labor Relations Commissioner Saman Ratnapraya.
-
-He was speaking at a press conference held at the United National Party headquarters in Sirikotha on Tuesday (16).
-
-A few are acting indirectly to overcome the presidential election. Last week, a dealer had questioned the president's tenure and sued the High Court.
-
-President Ranil Wickremesinghe immediately acted and confirmed that the president's tenure was five years and had given the Attorney General's Department to the Attorney General's Department to take action in the High Court.. Accordingly, the case was dismissed.
-
-...
-
-[Data](articles/4229e413.json)
-
-[Extended Data](ext_articles/4229e413.ext.json)
 
 ---
 
@@ -1474,7 +1612,7 @@ The resources required by SLC contributes to this program.
 
 ---
 
-### Sri Lanka power price cuts from strong rupee, cheaper coal, correct decisions: Minister
+### Sri Lanka electricity price cut from strong rupee, coal, correct decisions: Minister
 
 *2024-07-16 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-power-price-cuts-from-strong-rupee-cheaper-coal-correct-decisions-minister-172366/) · `en`
 
@@ -2099,185 +2237,5 @@ He further stated that the ballot centers of the vote has been launched and the 
 [Data](articles/b03964af.json)
 
 [Extended Data](ext_articles/b03964af.ext.json)
-
----
-
-### Tramped a bag of money from meat
-
-*2024-07-16 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198876) · `si`
-
-Taylor Bondawww, head of Magaz Inc., announced earning $50 million for Donald Trump's election campaign, joining forces with Elon Musk post transfer. Critics anticipate Trump will use his upcoming party convention speech to critique President Biden, amid reports of significant funding support for his campaign.
-
-🟩
-
-The fundraising of former president's presidential election in the coming Northern Presidential election, the fundraising of the election propaganda campaign is being successfully done.
-
-Taylor Bondawww, the head of Magaz Inc. The head of Magaz Inc., which helps Donald Trump's election campaign (MAGA INC.), said he could earn $ 50 million yesterday.
-
-After transferring shot on Saturday, Tesla and Space Concern, the world's richest person, joined the Elon Muscle.
-
-The US Wall Street Journal has also reported to award $ 45 million for Trump's election campaign.
-
-Donald Trump faced a change in its next election propaganda.
-
-Therefore, critics say that Donald Trump will be in the case of the United States to criticize their rival President Biden when addressing the party convention on Thursday.
-
-◼️
-
-[Data](articles/04ca0f22.json)
-
-[Extended Data](ext_articles/04ca0f22.ext.json)
-
----
-
-### Married couple among 3 arrested over murder in Pothupitiya
-
-*2024-07-16 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100555/married-couple-among-3-arrested-over-murder-in-pothupitiya) · `en`
-
-A 43-year-old man who had allegedly made an inappropriate comment to a woman has reportedly been beaten to death by the woman in question, her husband and another individual.
-
-Police stated that the three suspects, including the married couple, were arrested in connection with the incident.
-
-The person was brutally beaten to death on July 11 in the Pinnagodella area of Pothupitiya.
-
-The deceased is a resident of the same area while it was reported that his head had been severely damaged in the assault to the point it was nearly split open.
-
-A wooden club found near the body had raised suspicions, leading to a further investigation conducted using a police sniffer dog.
-
-The police dog has traced the scent from the suspected murder weapon to a nearby line house and had approached a man who had been sleeping in one of the beds inside the house.
-
-...
-
-[Data](articles/d086b39f.json)
-
-[Extended Data](ext_articles/d086b39f.ext.json)
-
----
-
-### Women's Asian Cup Competition
-
-*2024-07-16 15:27:13* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ආසියානු-කුසලාන-තරගාවලිය-නොමිලයේ-නැරඹීමට-අවස්ථාව/9-410808) · `si`
-
-In 2024, the Twenty20 Women's World Cup will start on July 19th. Players will have the chance to tour Sri Lanka, including visiting the Dambulla International Cricket Stadium.
-
-🟩
-
-2024 The Sri Lanka Cricket Officer (SLC) states that the Lolloons of the Twenty20 Women's World Twenty20 Women's Cricket Tournament will be given the opportunity to visit the sports.
-
-Cricket states that the gates of the Dambulla International Cricket Stadium will be held at the Dambulla International Cricket Stadium in the tournament.
-
-2024 Asia Twenty20 Women's Cricket Tournament will commence on July 19.
-
-◼️
-
-[Data](articles/292f4cef.json)
-
-[Extended Data](ext_articles/292f4cef.ext.json)
-
----
-
-### Pedagogy Of The Oppressors
-
-*2024-07-16 15:23:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/pedagogy-of-the-oppressors/) · `en`
-
-The pedagogy of the oppressor is a concept that has been brought to our attention by educational philosopher Paolo Freire. This philosophy highlights the idea that there is a layer of control in society that oppresses the poor and dictates the main concerns of society. It’s important to recognize this concept and its impact on the oppressed, as well as to explore potential remedies.
-
-In many countries, the ruling class is made up of well-educated individuals who use their knowledge to maintain power and control. This often results in policies that benefit the minority at the expense of the majority, creating a capitalist system that perpetuates inequality.
-
-...
-
-[Data](articles/91a9c829.json)
-
-[Extended Data](ext_articles/91a9c829.ext.json)
-
----
-
-### No decision to remove aesthetic and arts
-
-*2024-07-16 15:18:07* · [`adalk`](https://www.ada.lk/breaking_news/සෞන්දර්යාත්මක-හා-කලා-විෂය-ධාරා-ඉවත්-කිරීමට-තීරණයක්-නෑ/11-410807) · `si`
-
-The government has no plans to eliminate aesthetic subjects like dance, music, and art from education, affirming their importance despite no decision being made to specifically retain them. The Minister highlighted the value of these subjects, noting their contribution to local and international livelihoods and the need for quality education to prevent social issues seen after WWII.
-
-🟩
-
-The government has not taken any policy decision to remove the aesthetic subjects and arts of art education.
-
-The Minister was speaking at a media briefing at the Cabinet Decision in the Department of Government Information today (16).
-
-The Cabinet spokesman emphasized that the world should accept the art of streams that the world should remain in education.
-
-Although religious subjects are not eliminated in the West, they will not be removed from schools, aesthetic subjects, such as dance, music, aesthetic and art.
-
-More than 50% of the country will create a large number of lives in the Art and foreign strengths of the artistry of the art spacious educators, which they have not been able to provide the livelihoods locally and internationally.The Minister said that he said.
-
-...
-
-[Data](articles/451926a0.json)
-
-[Extended Data](ext_articles/451926a0.ext.json)
-
----
-
-### Sri Lanka Nanu Oya Railway facelift to be completed with Tourist Board funds
-
-*2024-07-16 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-nanu-oya-railway-facelift-to-be-completed-with-tourist-board-funds-172348/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to develop the picturesque hill country Nanu Oya Railway Station with Tourism Development Authority funds, Cabinet Spokesperson minister Bandula Gunawardena said.
-
-“The initial value of the modernization project was 74.63 million rupees, but this has increased to 101.81 million rupees due to the cost of building materials rising,” Gunawardena told reporters on Tuesday.
-
-“The funds will be taken from the Central Engineering Consultancy Bureau while another portion of funds will be taken from the Sri Lanka Tourism Development Authority and the Sri Lanka Tourism Promotion Bureau,” Gunawardena said.
-
-The Nanu Oya Railway station attracts both local and international travelers vacationing in Nuwara Eliya and other hill country towns. (Colombo/Jul16/2024)
-
-◼️
-
-[Data](articles/72ae46b9.json)
-
-[Extended Data](ext_articles/72ae46b9.ext.json)
-
----
-
-### Duminda Jayatilleka will be brought to Kavikani
-
-*2024-07-16 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198875) · `si`
-
-Duminda Jayatilleka, a former Inspector from Sri Lanka living in France, claims his ability to extradite Kavikani Imran back to Sri Lanka despite allegations linking him to underworld activities. He denies any connection to criminals, highlighting personal hardships due to his absence. Despite these challenges, he asserts his willingness to assist in law enforcement efforts, emphasizing his ongoing membership in the International Police.
-
-🟩
-
-Former Inspector Dumindak Jayathilaka, who has stayed in France, says he has the ability to bring to Sri Lanka to Sri Lanka.
-
-Duminda Jayatilleke, who was the OIC of the Organization Division of the Colombo Crimes Division, was abroad.
-
-He was responding to the wide range of propaganda that Duminda Jayatilleka was joined in the birthday party of a drug dealer and organized criminal.
-
-"There is none of my relationship with people in the underworld. It's not something I need. I am a man who lives abroad and come to a foreign country and come to a foreign country. My child is not going to school for 5 months. There is no place to be the wife. Went to 12 houses. There is a big problem with their safety. They're nobody talking. "
-
-"An employer who worked for underworld repression and drug dealer in Sri Lanka. I am still a member of the International Police. I can bring to Sri Lanka if Kjepani Imran is in France. That's the authorization I need. "
-
-...
-
-[Data](articles/5695b01d.json)
-
-[Extended Data](ext_articles/5695b01d.ext.json)
-
----
-
-### The Director of UNESCO met the president
-
-*2024-07-16 15:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-யுனெஸ்கோ-பணிப்பாளர்/175-340497) · `ta`
-
-UNESCO Director General Audrey Azoulay recently met with Sri Lanka's President Ranil Wickremesinghe at his residence in Colombo Fort.
-
-🟩
-
-UNESCO Director General of UNESCO, MSAudrey Azoulay, met with President Ranil Wickremesinghe at the President's House in Colombo Fort a little while ago.
-
-◼️
-
-[Data](articles/c1ed260a.json)
-
-[Extended Data](ext_articles/c1ed260a.ext.json)
 
 ---

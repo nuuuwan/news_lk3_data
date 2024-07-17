@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 21:20:21**
+As of **2024-07-17 21:35:29**
 
 ## Newspaper Stats
 
-*Scraped **35,772** Articles*
+*Scraped **35,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 2,027
 economynextcom | 2,136
 dailyftlk | 2,262
 adalk | 3,231
-adaderanalk | 4,128
+adaderanalk | 4,129
 tamilmirrorlk | 4,322
 dailymirrorlk | 4,733
 virakesarilk | 5,579
-adaderanasinhalalk | 5,986
+adaderanasinhalalk | 5,987
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,772 (100.0%) of 35,772 articles have been extended.
+35,772 (100.0%) of 35,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ශ්‍රී ලංකා කාන්තා ක්‍රිකට් සංචිතය නම් කරයි
+
+*2024-07-17 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198925) · `si`
+
+ආසියානු කුසලාන කාන්තා T20 ක්‍රිකට් තරගාවලියට සහභාගී වන ශ්‍රී ලංකා කාන්තා කණ්ඩායම අද (17) නම් කෙරුණි.
+
+චමරි අතපත්තුගේ නායකත්වයෙන් යුත් ශ්‍රී ලංකා සංචිතයට  ක්‍රීඩිකාවන් 15දෙනෙකු ඇතුළත් ය.
+
+ආසියාවේ ශූරියන් කවුරුන්ද යන්න තීරණය කෙරෙන ආසියානු කුසලාන කාන්තා 20යි 20 ක්‍රිකට් තරගාවලිය සඳහා කණ්ඩායම් 8ක් සුදුසුකම් ලබා ඇති අතර පැවැත්වෙන තරග ගණන 15කි.
+
+ඒ අනුව ආසියානු කුසලාන කාන්තා 20යි 20 ක්‍රිකට් තරගාවලියට සහභාගි වන ශ්‍රී ලංකා සංචිතය වන්නේ නායිකා චමරි අතපත්තු, විශ්මි ගුණරත්න, හර්ෂිතා සමරවික්‍රම, හසිනි පෙරේරා, කවීෂා දිල්හාරී, නිලක්ෂි ද සිල්වා, අනුෂ්කා සංජීවනී, සුගන්දිකා කුමාරි, උදේශිකා ප්‍රබෝදනී, අචිනි කුලසූරිය, ඉනෝෂී ප්‍රියදර්ෂනී, කාව්‍යා කාවින්දී, සචිනි නිසංසලා, ෂෂිනි ගිම්හානී සහ අමා කාංචනා ය.
+
+මෙවර ආසියානු කුසලාන 20යි 20 කාන්තා ක්‍රිකට් තරගාවලිය සඳහා ශ්‍රී ලංකාව සත්කාරකත්වය දරණ අතර තරගාවලිය ලබන 19 වනදා රංගිරි දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වීමට නියමිතය.
+
+ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහභාගී වන පළමු තරගය ලබන 20 වනදා බංග්ලාදේශය සමග පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/dc1b216e.json)
+
+---
 
 ### Ranil is fielding as an independent candidate
 
@@ -53,6 +75,26 @@ Therefore, Ranil Wickremesinghe has expressed hope that he will win the upcoming
 [Data](articles/23b69be8.json)
 
 [Extended Data](ext_articles/23b69be8.ext.json)
+
+---
+
+### Mahinda Rajapaksa hints at SLPP’s Presidential Candidate
+
+*2024-07-17 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100585/mahinda-rajapaksa-hints-at-slpps-presidential-candidate) · `en`
+
+Former President Mahinda Rajapaksa says that the Sri Lanka Podujana Peramuna (SLPP) will fully support President Ranil Wickremesinghe if he decides to align with their party at the upcoming presidential election.
+
+He made these comments in response to questions from journalists today (17).
+
+When asked about the party’s candidate for the election, Rajapaksa said, “Now we have the program to win the election. The good news is that we will win. When the candidate is named, you will know how powerful he is.”
+
+Regarding the possibility of putting forward a common candidate, he said that the party has always presented a common candidate.
+
+On the matter of supporting the President, he clarified, “Not yet, but if the president is ready to go with us, we will fully support him.”
+
+◼️
+
+[Data](articles/7cc4204e.json)
 
 ---
 
@@ -2389,47 +2431,5 @@ Naval and fishing communities are also requested to be attentive to future forec
 [Data](articles/9ad9645d.json)
 
 [Extended Data](ext_articles/9ad9645d.ext.json)
-
----
-
-### Sri Lankans magic when oil ship toppled in Oman Sea
-
-*2024-07-17 09:17:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஓமன்-கடலில்-எண்ணெய்க்-கப்பல்-கவிழ்ந்ததில்-இலங்கையர்கள்-மாயம்/50-340527) · `ta`
-
-An oil ship carrying 16 people sank near Oman, heading to Yemen's Aden port. The vessel is submerged, with unknown status on stabilization and potential oil spill.
-
-🟩
-
-International media reports that an oil ship carrying 16 people near Oman is drowned.
-
-It is said that the ship was heading towards the port of Aden port in Yemen
-
-The ship is “submerged in the water” and not confirmed whether the ship was stabilized or the oil was leaked in the sea. Remble
-
-◼️
-
-[Data](articles/fc9c6de0.json)
-
-[Extended Data](ext_articles/fc9c6de0.ext.json)
-
----
-
-### Suspect arrested for drugs in Motarai, Colombo
-
-*2024-07-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188646) · `ta`
-
-In Aluthmawatte, Colombo, a suspect was arrested for possessing ice drugs. The Colombo North Criminal Investigation Division conducted the raid based on intelligence from the Air Force Intelligence Unit.
-
-🟩
-
-A suspect has been arrested with ice drugs in Aluthmawatte, Colombo, Colombo, police said.
-
-According to information received by the Air Force Intelligence Unit, the Colombo North Criminal Investigation Division said the raid was carried out.
-
-◼️
-
-[Data](articles/faa0043b.json)
-
-[Extended Data](ext_articles/faa0043b.ext.json)
 
 ---

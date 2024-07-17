@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 16:20:13**
+As of **2024-07-17 16:35:16**
 
 ## Newspaper Stats
 
-*Scraped **35,722** Articles*
+*Scraped **35,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,125
 tamilmirrorlk | 4,318
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,981
+adaderanasinhalalk | 5,982
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,720 (100.0%) of 35,722 articles have been extended.
+35,722 (100.0%) of 35,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### ඡන්දෙට අදාළව තවත් නියෝගයක් ඉල්ලයි
+
+*2024-07-17 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198919) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටින සිරකරුවන්ට ඉදිරි ජනාධිපතිවරණ සහ මහමැතිවරණවලදී ඡන්දය ප්‍රකාශ කිරීමට අවශ්‍ය කරන පහසුකම් සලසා දීමට අවශ්‍ය මාර්ගෝපදේශ නිකුත් කරන ලෙස මැතිවරණ කොමිසම වෙත නියෝගයක් නිකුත් කරන  ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක් ඉදිරිපත් කෙරුණි.
+
+සිරකරුවන්ගේ අයිතිවාසිකම් වෙනුවෙන් කටයුතු කරන සුදේශ් නන්දිමාල් ද සිල්වා මහතා විසින් පෙත්සම ඉදිරිපත් කර තිබේ.
+
+මැතිවරණ කොමිසම සහ එහි සාමාජිකයින් ඇතුළු පිරිසක් වගඋත්තරකරුවන් ලෙස නම් කර තිබේ.
+
+◼️
+
+[Data](articles/64b06a67.json)
+
+---
 
 ### Reduces 5 types of fertilizer
 
@@ -56,39 +72,53 @@ At a meeting held at the Ministry of Agriculture and Plantation Industries, fert
 
 ---
 
-### වතු සමාගම් අනවසරයෙන් භුක්ති විදින ඉඩම් නැවත පවරා ගන්න යයි
+### Estate companies to enjoy unauthorized land
 
 *2024-07-17 15:49:03* · [`adalk`](https://www.ada.lk/breaking_news/වතු-සමාගම්-අනවසරයෙන්-භුක්ති-විදින-ඉඩම්-නැවත-පවරා-ගන්න-යයි/11-410826) · `si`
 
-ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව සතු ඉඩම් වල පදිංචිය හා බුක්තිය ලබාදීමේ ක්‍රමවේදය නැවත සමාලෝචනය කර සරල බවට පත් කිරීමට කාරක සභාවෙන් නිර්දේශයක්
+A committee reviewing land ownership recommends increasing the land allocated to mining and extending benefits to unauthorized settlers who arrived before 2010. It suggests revising residency criteria and improving land disposal processes for commercial use. The Land Reforms Commission (LRC) owns 7,000 acres but faces challenges with unauthorized settlers occupying about 56,000 acres. The committee urges for a detailed report on land distribution at the district level and advises on strategies to facilitate economic growth through land management.
 
-ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව විසින් පතල් සඳහා දැනට ලබා දෙන පර්චස් 1ක භුමි ප්‍රමාණය වැඩි කිරීමට නිර්දේශ - පර්චස් එකකට අයකරනු ලබන බදු මුදල් සංශෝධනය කිරීමටත් කාරක සභාවෙන් යොජනා
+🟩
 
-2010 ට පෙර ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවේ ඉඩම්වල පදිංචි වූ අනවසර පදිංචි කරුවන්ට ඔප්පු ලබාදීමේ දී එය 2021 වසර ට පෙර දක්වා ලෙස දිගු කිරීමට නිර්දේශ
+Recommendation from the Committee to review and make a simple review of the land ownership of the Land Reforms Commission and make simple
 
-රාජ්‍ය වැවිලි සංස්ථාවට හෝ ජනතා වතු සංවර්ධන මණ්ඩලයට ගැසට් නිවේදනයක් මගින් පවරා නොදුන් ඉඩම් අක්කර දහස් ගානක් වතු සමාගම් විසින් අත්පත් කරගෙන ඇති බව ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව විසින් ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව හමුවේ අනාවරණය කරන ලදී.
+Recommendation to increase the amount of 1 perches given to the mining by the Land Reforms Commission.
+
+Recommendations to extend it to the unauthorized settlers settled in the Land Reforms Commission before 2010
+
+The Land Reforms Commission was diagnosed with the Select Committee of the Department of Reform Estate Companies that have been acquired by the State Plantation Corporation or Janatha Estate Development Board.
+
+Accordingly, the Chairman of the Sectoral Oversight Committee of the Economic Crisis, which had been forced to the plantation companies, was recommended to the Land Reforms Commission. This recommendations were issued when the Sectoral Oversight Committee on the effects of the economic crisis under the 11th of this month. The Land Reforms Commission (LRC) had been summoned before the Committee on the Committee.
 
 ...
 
 [Data](articles/3449f0c5.json)
 
+[Extended Data](ext_articles/3449f0c5.ext.json)
+
 ---
 
-### මහාවංශය ලෝක උරුමයක් වෙයි
+### Mahavamsa is a World Heritage Site
 
 *2024-07-17 15:41:08* · [`adalk`](https://www.ada.lk/picture_story/මහාවංශය-ලෝක-උරුමයක්-වෙයි/10-410825) · `si`
 
-පේරාදෙණිය විශ්ව විද්‍යාලයේ පුස්තකාලය සතු මහා වංශය පුස්තකයලෝක උරුමයක් ලෙස නිල වශයෙන් ප්‍රකාශයට පත් කිරීම යුනෙස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජෙනරාල් අවුඩ්‍රේ ඔසේලේ මහත්මියගේප්‍රධානත්වයෙන් එම පුස්තකාල පරිශ්‍රයේදී සිදු කෙරුණි.
+The Library of the University of Peradeniya was declared a World Heritage Site, marked by a ceremony where the director general handed it over to Professor GH. Peiris. Attendees included the Vice Chancellor, librarians, and other officials, celebrating this significant milestone.
 
-එහිදී ලෝක උරුමයක් ලෙස නම් කෙරුණු එම පුස්තකයට අදාළ සහතික පත්‍රය ප්‍රධානය කිරීම යුනෙස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරිය විසින්පේරාදෙණිය විශ්ව විද්‍යාලයේ කුලපති මහාචාර්ය ජී.එච්. පීරිස් මහතා වෙත භාරදුන් අතර ඊට අදාළ සමරු පලකයක්ද ඇය විසින් විවෘත කරන ලදී .
+🟩
 
-පේරාදෙණිය විශ්ව විද්‍යාලයේ උප කුලපති මහාචාර්ය එම්. ඩී. ළමාවංශ මහතා විසින් යුනිස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරිය පේරාදෙණිය විශ්ව විද්‍යාලයට පැමිණීම සනිටුහන් කරමින් විශේෂ සමරු පොතක්ද එහිදී පිළිගැන්විණි .
+The official declaration of the library of the University of Peradeniya was officially declared at the library Director General Avray Oseela.
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ පුස්තකාලාධිපතිආචාර්යඑම්. මහේෂ්වරන් මහතා ඇතුළුපිරිසක් මෙම අවස්ථාවට සහභාගී වූහ .
+Professor GH. She was handed over to Peiris, and the commemorative plaque was also opened.
+
+Vice Chancellor of the University of Peradeniya Prof. M.. D. The Director General of the Unicco, the Director General of Unicco, was also present at the meeting of the Peradeniya University.
+
+Librarians of the University of Peradeniya. Mr. Maheshwaran and others participated in the event.
 
 ◼️
 
 [Data](articles/77ab1e73.json)
+
+[Extended Data](ext_articles/77ab1e73.ext.json)
 
 ---
 
@@ -2269,35 +2299,5 @@ Consequently, the All Share Price Index went down by 13.23 points while S and P 
 [Data](articles/c280db54.json)
 
 [Extended Data](ext_articles/c280db54.ext.json)
-
----
-
-### 70,000 soldiers killed or injured in Russia in 2 months!Ministry of Defense of British Defense
-
-*2024-07-16 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188613) · `ta`
-
-In the ongoing conflict between Russia and Ukraine, Britain's Defense Ministry reports significant casualties among Russian forces, estimating 70,000 soldiers killed or injured in just two months. The report details heavy losses, particularly in attempts to seize Ukraine's Karkiv region, with daily fatalities exceeding 1,000 in May and June. Despite capturing territory in eastern Ukraine, Russia's inability to sustain tactical victories and the poor training of its troops are highlighted as key factors contributing to these losses. Western analysts suggest that while small-scale attack tactics offer minor gains, they do not facilitate broader operational successes, indicating a high cost-benefit ratio for Russia's military strategy.
-
-🟩
-
-Britain has reported that 70,000 soldiers of Russia have died or injured in the last two months of the Ukraine war.
-
-The British Defense Ministry said in a military intelligence report released last weekend.
-
-Russian soldiers have been reported to have suffered massive losses at the new war in Russia to conquer Ukraine's Karkiv region.
-
-The British Defense Ministry said that the daily losses of the Russian soldiers (deaths and injuries) were 1,262 in May and it was 1,163 in June.
-
-The Ministry said that 70,000 Russian soldiers may have died or injured in only 2 months.
-
-In the Eastern region of Ukraine, Russian soldiers have captured several territories over the past few months.
-
-Russia opened a new battlefield last May to capture the Karkiv region. Ukrainian soldiers were lost in this war. At the same time, the British Defense Ministry said it had caused losses to Russian soldiers.
-
-...
-
-[Data](articles/6475b110.json)
-
-[Extended Data](ext_articles/6475b110.ext.json)
 
 ---

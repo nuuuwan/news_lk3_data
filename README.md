@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 15:35:35**
+As of **2024-07-17 15:54:22**
 
 ## Newspaper Stats
 
-*Scraped **35,713** Articles*
+*Scraped **35,716** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 318
 colombotelegraphcom | 337
-bbccomsinhala | 349
+bbccomsinhala | 350
 newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,123
@@ -20,39 +20,81 @@ adaderanalk | 4,124
 tamilmirrorlk | 4,318
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,978
+adaderanasinhalalk | 5,980
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,712 (100.0%) of 35,713 articles have been extended.
+35,713 (100.0%) of 35,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### බිහිසුණු බස් අනතුරින් තුවාල ලබා සිටි වෛද්‍යවරිය ජීවිතක්ෂයට
+### දරුවෙකුට වධ දුන් කාන්තාවන් 4ක් අත්අඩංගුවට
+
+*2024-07-17 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198915) · `si`
+
+දරුවෙකුට පහරදී කෘෘරත්වයට පත්කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකකාරියන් සිව්දෙනෙකු අත්අඩංගුවට ගත් බව අරණායක පොලීසිය පවසයි.
+
+අදාළ සිද්ධිය සම්බන්ධයෙන් වීඩියෝවක් පසුගියදා සමාජ මාධ්‍ය ඔස්සේ සංසරණය වූ අතර ඒ පිළිබඳ සිදුකළ විමර්ශන අනුව මෙම සැකකාරියන් අත්අඩංගුවට ගෙන ඇත.
+
+ඒ අනුව දරුවාට පහරදීම සම්බන්ධයෙන් දරුවාගේ මිත්තණියන් දෙදෙනෙකු සහ පහරදීමට අනුබලදීම සම්බන්ධයෙන් දරුවාගේ මව සහ තවත් මිත්තණියක් මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය සඳහන් කළේ සැකකාරියන් අද (17) මාවනැල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර පහරකෑමට ලක්වූ දරුවා පියා භාරයේ මාවනැල්ල අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/a247eca1.json)
+
+---
+
+### ජනාධිපති අපේක්ෂකයින්ගේ ආරක්ෂාව ගැන තීරණයක්
+
+*2024-07-17 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198914) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේ ආරක්ෂාව සහ ජනාධිපති අපේක්ෂකයින්ගේ ආරක්ෂාව සහතික කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කර තිබේ.
+
+ඒ අනුව ජනාධිපති අපේක්ෂකයින්ට සහ හිටපු ජනාධිපතිවරුන්ට ඇති තර්ජන තක්සේරු කිරීමට සහ ඔවුන්ට අවශ්‍ය ආරක්ෂාව සහතික කිරීමට කමිටුවක් පත් කිරීමට ඉන් යෝජනා කර ඇත.
+
+අදාළ කැබිනට් පත්‍රිකාවෙන් වැඩිදුරටත් යෝජනා කර ඇත්තේ මෙම ආරක්‍ෂක විධිවිධාන අධීක්‍ෂණය කිරීම සඳහා නියෝජ්‍ය පොලිස්පතිවරයෙක් පත් කිරීමටය.
+
+◼️
+
+[Data](articles/ed724474.json)
+
+---
+
+### Meditiya killed in terms of hospital bus accident
 
 *2024-07-17 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198913) · `si`
 
-අනතුරකින් බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටි වෛද්‍යවරියක් ජීවිත්කෂයට පත්ව තිබේ.
+In a tragic accident involving a Sri Lanka Transport Board (SLTB) bus and a lorry in Galahitiyawa, a 37-year-old female doctor named Seal Paltawali lost her life. The incident occurred while she was returning from work at the Chilaw General Hospital. She was later transferred to the Colombo National Hospital for further treatment but succumbed to her injuries on Monday.
 
-එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, නාත්තන්ඩිය දුන්කන්නාව ප්‍රදේශයෙ පදිංචිව සිටි එක්දරු මවක් වු හලාවත රෝහලේ නොමේරු ඒකකයේ සේවය කරමින් සිටි වෛද්‍යවරියක වන සේපාලිකා වනමලි නැමති 37 හැවිරිදි කාන්තාවකි.
+🟩
 
-හලාවත - කොළඹ මාර්ගයේ මාදම්පේ - ගලහිටියාව ප්‍රදේශයේදී ලංගම බස් රථයක් සහ සිමෙන්ති පැටවූ ලොරි රථයක් එකිනෙක ගැටී බිහිසුණු අනතුරක් සිදුව තිබුණේ පසුගිය 04 වනදා උදෑසනය.
+A doctor who was receiving treatment at the Colombo National Hospital has been admitted to the Colombo National Hospital.
 
-දේවාල හංදියේ සිට හලාවත දෙටස ධාවනය වූ ලංගම බස්රථයකට වේගය පාලනය කරගැනීමට නොහැකිව, පුත්තලම දෙසට ධාවනය වූ සිමෙන්ති ලොරියක ගැටී අනතුර සිදුව තිබුණි.
+The victim was a 37 year old woman named Seal Paltawali, a doctor of the Nattandiya Dunkannawa area.
 
-අනතුරින් පුද්ගලයින් 27 දෙනෙකු පමණ තුවාල ලබා ප්‍රතිකාර සඳහා හලාවත මහ රෝහලට ඇතුළත් කළේය.
+The SLTB bus and a lorry collided with a lorry and a lorry collided with a lorry in Galahitiyawa road on the Chilahi-Colombo-Colombo.
 
-සිය දරුවා පාසලට රැගෙන ගොස් ඉංජීනේරුවරයකු වන සැමියා සමග දේවල හංදිය දක්වා ගමන් කිරීමට මෙම වෛද්‍යවරියත් වෙන්නප්පුව ප්‍රදේශයෙන් ලංගම බසයට ගොඩ වී තිබේ.
+The accident had occurred when a SLTB bus traveling from the Devalaya junction to the Puttalam bus, which was not able to control the second and collided with a lorry.
 
-පසුව සැමියා බසයෙන් බැස නාත්තණ්ඩිය දුන්කන්නාව ප්‍රදේශයේ පිහිටි නිවසට පැමිණ තිබුණි.
+About 27 people were injured in the accident and was admitted to the Chilaw General Hospital for treatment.
+
+The doctor has recovered the SLTB bus to the Wennappuwa area to take his child to school and travel to the school.
+
+The husband had then returned from the house in the house of Nattandiya Dunkannawa area.
+
+The doctor was unfortunately at the bus to work at the Chilaw General Hospital.
 
 ...
 
 [Data](articles/e878a17c.json)
+
+[Extended Data](ext_articles/e878a17c.ext.json)
 
 ---
 
@@ -845,6 +887,26 @@ The driver of the bus was killed when a Royal Express bus, which was traveling f
 [Data](articles/c188177b.json)
 
 [Extended Data](ext_articles/c188177b.ext.json)
+
+---
+
+### ජනාධිපතිවරණය කල් දාන්න ඉල්ලූ රංගේ බණ්ඩාර දැන් ඉක්මන් ඡන්දයක් ඉල්ලන්නේ ඇයි?
+
+*2024-07-17 09:57:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgl7n7d004lo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''රනිල් ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වෙන්නේ.''
+
+ජනාධිපතිවරණය කල් දාන්න ඉල්ලූ රංගේ බණ්ඩාර දැන් ඉක්මන් ඡන්දයක් ඉල්ලන්නේ ඇයි?
+
+ජනාධිපතිවරණය කල් දැමිය යුතු බවට මීට පෙර යෝජනා කළ එක්සත් ජාතික පක්ෂයේ මහලේකම් පාලිත රංගේ බණ්ඩාර, එම ඡන්දය කඩිනමින් පවත්වන්නැයි අද (ජූලි 17) මැතිවරණ කොමිසමෙන් ඉල්ලීමක් කර තිබේ.
+
+ඔහු සමග එම සාකච්ඡාවට එක්සත් ජාතික පක්ෂයේ සභාපති වජිර අබේවර්ධන ද සහභාගී විය.
+
+ඉන් අනතුරුව මාධ්‍යවේදීන් සමග ඔවුන් සඳහන් කළේ රනිල් වික්‍රමසිංහ ජනාධිපතිවරණය තරග කරන අතර ජනාධිපතිවරණය කල් දැමීමේ සුදානමක් එක්සත් ජාතික පක්ෂයට නොමැති බවය.
+
+◼️
+
+[Data](articles/1d081a38.json)
 
 ---
 
@@ -2225,71 +2287,5 @@ This entire garment called 'Blower Queen' is a quality -sized milkma. This milk 
 [Data](articles/bfe45c72.json)
 
 [Extended Data](ext_articles/bfe45c72.ext.json)
-
----
-
-### UNESCO Meeting with UNESCO and President
-
-*2024-07-16 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198887) · `si`
-
-UNESCO Director-General Azoulay met with Sri Lanka's President Ranil Wickremesinghe and key officials including Prime Minister Dinesh Gunawardena and Education Minister Dr. Susil Premajayantha. They discussed the UNESCO partnership during her visit, which included attending a children's concert and visiting UNESCO World Heritage sites like Kandy and Dambulla.
-
-🟩
-
-The Director General of the UNESCO, Director General of the UNESCO, Azooulay, also visited the Colombo Fort President Ranil Wickremesinghe at the Colombo Fort.
-
-Prime Minister Dinesh Gunawardena, Education Minister Dr. Susil Premajayantha and Culture Minister of Education, Dr. Susil Premajayantha and Culture Minister of Education Vidura Wickramanayaka were held at the Sri Lanka UNESCO partnership.
-
-It was also present at the island as a chief guest this morning.
-
-The school children presented a concert in Sri Lanka. The Secretary to the UNSCO Commission Secretary Prof. Sirimalle Fernando and several others participated in the event.
-
-During his visit to the country, Azoulay is to visit the UNESCO World Heritage Stations, such as Kandy, Dambulla.
-
-◼️
-
-[Data](articles/0792a320.json)
-
-[Extended Data](ext_articles/0792a320.ext.json)
-
----
-
-### Teacher-principal trade unions to launch work-to-rule campaign
-
-*2024-07-16 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100564/teacher-principal-trade-unions-to-launch-work-to-rule-campaign) · `en`
-
-The Teacher-Principal Trade Union Alliance has decided to launch a work-to-rule campaign for two weeks starting from July 22.
-
-Accordingly, the trade unions have decided to withdraw from all activities outside the scope of their school-related duties.
-
-The General Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin revealed this today (16) while speaking at a press conference held by the Teacher-Principal trade unions in Colombo.
-
-◼️
-
-[Data](articles/5985a977.json)
-
-[Extended Data](ext_articles/5985a977.ext.json)
-
----
-
-### Youths born in Sri Lanka where the flame was taken to the Paris Olympics
-
-*2024-07-16 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198886) · `si`
-
-Tarshan Selvaraj, of Sri Lankan descent, carried the Olympic flame in Paris, marking a historic moment. He gained fame as the top French baker in 2023, renowned for his traditional French bread.
-
-🟩
-
-The Paris Olympic Festival was taken these days on the streets of the Paris Paris, and Tarshan Selvaraj yesterday that occasionally.
-
-The Trishan Selvaraj is the first person with the Sri Lankan origin carrying the Olympic flame.
-
-In 2023, he became popular with the best bakery manufacturer of French, which produces the annual traditional bread type of french in France.
-
-◼️
-
-[Data](articles/47629bb3.json)
-
-[Extended Data](ext_articles/47629bb3.ext.json)
 
 ---

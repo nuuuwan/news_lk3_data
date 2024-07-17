@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 17:20:18**
+As of **2024-07-17 17:35:53**
 
 ## Newspaper Stats
 
-*Scraped **35,735** Articles*
+*Scraped **35,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,131
 dailyftlk | 2,262
-adalk | 3,224
-adaderanalk | 4,126
-tamilmirrorlk | 4,319
+adalk | 3,225
+adaderanalk | 4,127
+tamilmirrorlk | 4,320
 dailymirrorlk | 4,733
 virakesarilk | 5,562
 adaderanasinhalalk | 5,983
@@ -26,11 +26,47 @@ adaderanasinhalalk | 5,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,727 (100.0%) of 35,735 articles have been extended.
+35,735 (100.0%) of 35,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### New method of issuing passports from this week
+
+*2024-07-17 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100581/new-method-of-issuing-passports-from-this-week) · `en`
+
+The Department of Immigration and Emigration has introduced a new methodology for the issuance of passports to streamline the process and for the benefit of applicants.
+
+Accordingly, applicants are now required to register in advance via the website www.immigration.gov.lk in order to apply for new passports.
+
+The Immigration and Emigration Department said that after registering online, passports will be issued according to a priority system.
+
+The relevant new system is scheduled to commence from next Friday (19).
+
+◼️
+
+[Data](articles/544dfee6.json)
+
+---
+
+### யுவதியை நிர்வாணமாக வீடியோ எடுத்த விரிவுரையாளர்
+
+*2024-07-17 17:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுவதியை-நிர்வாணமாக-வீடியோ-எடுத்த-விரிவுரையாளர்/175-340561) · `ta`
+
+வவுனியா பல்கலைக்கழக விரிவுரையாளர் ஒருவர் ஆங்கில வகுப்பு நடத்தும் வீடொன்றில், யுவதி ஒருவர் குளித்துக்கொண்டிருக்கும் போது அவரை நிர்வாணமாக வீடியோ எடுத்த சம்பவம் தொடர்பில் பல்கலைக்கழக அதிகாரிகளுக்கு செவ்வாய்க்கிழமை (16) அன்று முறைப்பாடு கிடைத்துள்ளது .
+
+வவுனியா திருவனாவ் குளம் பகுதியில் உள்ள பல்கலைக்கழக மாணவர்கள் மற்றும் அரச ஊழியர்கள் தங்கி இருந்த விடுதி ஒன்றில் குறித்த விரிவுரையாளர் ஆங்கில வகுப்பு ஒன்றை நடத்தி வந்துள்ள நிலையில் செவ்வாய்க்கிழமை (16) அன்று வகுப்பு நடந்து கொண்டிருந்த போது, ​​அரச ஊழியரான பாதிக்கப்பட்ட யுவதி குளிப்பதற்காக குளியலறைக்கு சென்றுள்ளார்,
+
+அப்போது விரிவுரையாளர் வகுப்பை நிறுத்திவிட்டு அந்த இடத்திற்கு சென்று குளியலறையின் ஜன்னல் வழியாக யுவதி குளிப்பதை தன் கையடக்கத் தொலைபேசியூடாக வீடியோ எடுத்துள்ளார்.
+
+குளித்துக்கொண்டிருந்த யுவதி , குளியலறையின் ஜன்னலிலிருந்து கையடக்கத் தொலைபேசி ஒன்று தெரிவதை கண்டு பயந்து அலறி அடித்துக் கொண்டு வெளியே சென்றுள்ளார் .
+
+...
+
+[Data](articles/dc666422.json)
+
+---
 
 ### New method to apply passports
 
@@ -73,6 +109,22 @@ Police stated that the suspects are to be produced before the Mawanella Magistra
 [Data](articles/4243ae92.json)
 
 [Extended Data](ext_articles/4243ae92.ext.json)
+
+---
+
+### සුවසාර කැඳැල්ල නිසා පොලිස් ස්ථානාධිපතිවරුන් මානසික හා කායික පීඩාවට
+
+*2024-07-17 16:18:23* · [`adalk`](https://www.ada.lk/breaking_news/සුවසාර-කැඳැල්ල-නිසා-පොලිස්-ස්ථානාධිපතිවරුන්-මානසික-හා-කායික-පීඩාවට/11-410828) · `si`
+
+මත්ද්‍රව්‍ය වලට ඇබ්බැහි වූවන් පුනරුත්ථාපන කිරීමේ වැඩසටහන යටතේ ක්‍රියාත්මක සූවසාර කැදැල්ල ප්‍රජාපාදක ප්‍රතිකාර පුනරුත්ථාපන වැඩසටහන හේතුවෙන්  පොලිස් ස්ථානාධිපතිවරුන්ගේ සිට පහළ  ශ්‍රේණියේ සියලුම නිලධාරීන් දැඩි අපහසුතාවයට පත්ව අන්ත අසරණ වී ඇතැයි දැනගන්නට ඇත.
+
+එම පුනරුත්ථාපන  ලාභීන්  සඳහා කායික හා මානසික සෞඛ්‍ය සඳහා ආහාර ලබා දිය යුතු පිළිවෙල චක්‍ර ලේඛන මගින් ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරුන් හරහා පොලිස් ස්ථානාධිපති වරුන් වෙත එවීමට කටයුතු කළද ඒ සඳහා මුදල් ප්‍රතිපාදන ලබාදීමට  කටයුතු නොකිරීමෙන් පොලිස් ස්ථානාධිපතිවරුන්  ඇතුළු සෙසු පොලිස් නිලධාරීන් එම චක්‍රලේඛනවල  සඳහන් දෑ ක්‍රියාත්මක කිරීමට යාමේදී ඔවුන්ද  කායික සහ මානසික වශයෙන් දැඩි පීඩාවකට පත්ව ඇතැයි වාර්තාවේ.
+
+මත්ද්‍රව්‍ය  වලට ඇබ්බැහි වු සෑම පුද්ගලයෙක්ම සොරකම්වල නොයෙදෙන බැවින් බහුතරයක් දෙනා දරු පවුල් නඩත්තු  කිරීමට කිසියම් කුලී වැඩක නිරතව ලබා ගන්නා මුදලින් ඔවුන් මත්ද්‍රව්‍ය පාවිච්චි කිරීමට මුදල් වැය කරනවා සේම  දරු පවුල ද නඩත්තු කිරීමටද  එම මුදලින් කොටසක් වැය කිරීමට කටයුතු කරනු ඇත.
+
+...
+
+[Data](articles/fd593ac6.json)
 
 ---
 
@@ -157,6 +209,8 @@ The IMF bailout plan for the island nation has recommended that Sri Lanka must c
 ◼️
 
 [Data](articles/2fa5e816.json)
+
+[Extended Data](ext_articles/2fa5e816.ext.json)
 
 ---
 
@@ -368,6 +422,8 @@ The suppliers credit were then turned into state bank loans as the currency coll
 
 [Data](articles/54e5cb24.json)
 
+[Extended Data](ext_articles/54e5cb24.ext.json)
+
 ---
 
 ### CT Scan in seven government hospitals is off
@@ -418,6 +474,8 @@ The Cabinet this week approved a water tariff formula to be implemented from 202
 
 [Data](articles/8712aabd.json)
 
+[Extended Data](ext_articles/8712aabd.ext.json)
+
 ---
 
 ### Sri Lanka opens embassy in Romania
@@ -439,6 +497,8 @@ Sabry, who is on an official visit to Romania, said bilateral discussions betwee
 ...
 
 [Data](articles/b46a6ae6.json)
+
+[Extended Data](ext_articles/b46a6ae6.ext.json)
 
 ---
 
@@ -499,6 +559,8 @@ Chairman of the National Election Commission R M A L Ratnayake told the media on
 ...
 
 [Data](articles/d9a9fb5d.json)
+
+[Extended Data](ext_articles/d9a9fb5d.ext.json)
 
 ---
 
@@ -623,6 +685,8 @@ Since the the company had met the basic requirements relevant to the project pro
 ◼️
 
 [Data](articles/df686a63.json)
+
+[Extended Data](ext_articles/df686a63.ext.json)
 
 ---
 
@@ -860,6 +924,8 @@ The bank said it has obtained the approval of the Securities and Exchange Commis
 
 [Data](articles/1ae6a078.json)
 
+[Extended Data](ext_articles/1ae6a078.ext.json)
+
 ---
 
 ### Diana withdraws petition withdrawn
@@ -1053,6 +1119,8 @@ In equities, Colombo’s All Share Price Index opened 4.07 points higher at 11,8
 ◼️
 
 [Data](articles/c9f5ffa3.json)
+
+[Extended Data](ext_articles/c9f5ffa3.ext.json)
 
 ---
 
@@ -2245,69 +2313,5 @@ Prime Minister Dinesh Gunawardena, Minister of Education Dr. Susil Premajayantha
 [Data](articles/e36cfcbe.json)
 
 [Extended Data](ext_articles/e36cfcbe.ext.json)
-
----
-
-### Sports equipment for 67 schools
-
-*2024-07-17 00:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/67-பாடசாலைகளுக்கு-விளையாட்டு-உபகரணங்கள்/175-340522) · `ta`
-
-Yesterday, under the patronage of Sagala Ratnayake, 67 schools in the Gampaha district received sports equipment to enhance their facilities. The event, organized by Youth Vision 2048 and Sri Lanka Cricket, took place at the Presidential Office, guided by President Ranil Wickremesinghe.
-
-🟩
-
-The event was held at the Presidential Office yesterday at the Presidential Office under the patronage of Sagala Ratnayake, a senior advisor to the National Security and President of the President, to provide sports equipment to 67 schools to improve the Gampaha district.
-
-Under the guidance of President Ranil Wickremesinghe, under the guidance of Sagala Ratnayake, the program was organized by Youth Vision 2048 and Sri Lanka Cricket.. (A)
-
-◼️
-
-[Data](articles/466b67c7.json)
-
-[Extended Data](ext_articles/466b67c7.ext.json)
-
----
-
-### 2024-07-16 (Tuesday)
-
-### Electronic Identity Card next month
-
-*2024-07-16 23:54:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-மாதம்-இலத்திரனியல்-அடையாள-அட்டை/175-340520) · `ta`
-
-Next month, the National Identity Card will be replaced by an Electronic Identity Card, aiming to curb frauds as stated by the Department of Public Affairs' Commissioner General, Pradeep Saputhandri.
-
-🟩
-
-The Department of Records has announced that the National Identity Card will be introduced from next month.
-
-The Commissioner General of the Department of Public Affairs Pradeep Saputhandri said that the frauds carried out using the National Identity Card will not be held after the introduction of the Electronic Identity Card.
-
-◼️
-
-[Data](articles/e8490d75.json)
-
-[Extended Data](ext_articles/e8490d75.ext.json)
-
----
-
-### Heavy winds, the rain lasts
-
-*2024-07-16 23:52:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-காற்று-மழை-நீடிக்கும்/175-340519) · `ta`
-
-The Department of Meteorology forecasts continued Southwest monsoon weather with heavy winds and over 75mm of rainfall in several regions, including Western, Sabaragamuwa provinces, and districts like Kandy, Nuwara Eliya, Galle, and Matara. Intermittent rainfall is also expected across the country.
-
-🟩
-
-The Department of Meteorology has predicted that the Southwest monsoon weather will continue with heavy winds and rainfall in the country.
-
-The Department of Meteorology has reported that more than 75mm of rainfall is expected in the Western, Sabaragamuwa provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Meteorology also noted that intermittent rainfall in other parts of the country. (A)
-
-◼️
-
-[Data](articles/e03770bd.json)
-
-[Extended Data](ext_articles/e03770bd.ext.json)
 
 ---

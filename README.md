@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 11:55:21**
+As of **2024-07-17 12:08:52**
 
 ## Newspaper Stats
 
-*Scraped **35,691** Articles*
+*Scraped **35,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,84 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,123
 dailyftlk | 2,262
-adalk | 3,217
+adalk | 3,218
 adaderanalk | 4,121
 tamilmirrorlk | 4,312
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,968
+adaderanasinhalalk | 5,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,681 (100.0%) of 35,691 articles have been extended.
+35,691 (100.0%) of 35,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### திறந்த பிடியாணை எம்.பி: பொது வைபவத்தில் பங்கேற்றார்
+### ඩයනා පෙත්සමක් ඉල්ලා අස්කර ගනී
+
+*2024-07-17 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198904) · `si`
+
+සිය පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහිමි කිරීමට සමගි ජන බලවේගය විසින් ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා හිටපු රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මිය විසින් ඉදිරිපත් කළ පෙත්සම අද (17) ශ්‍රේෂ්ඨාධිකරණය වෙතින් ඉල්ලා අස්කර ගත්තාය.
+
+එම පෙත්සම අද කැඳවනු ලැබූ අවස්ථාවේදී ඩයනා ගමගේ මහත්මිය වෙනුවෙන් පෙනී සිටි නීතිඥවරු සඳහන් කළේ, අදාළ පෙත්සම තව දුරටත් පවත්වාගෙන යාමට අවශ්‍යතාවයක් නොමැති බවය.
+
+ඒ අනුව එය ඉල්ලා අස්කර ගැනීමට අවසර දෙන ලෙසත් නීතිඥවරු අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+ඒ අනුව අදාළ පෙත්සම ඉල්ලා අස්කර ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අවසර ලබා දුනි.
+
+◼️
+
+[Data](articles/8b26c25c.json)
+
+---
+
+### Open Hang MP: participated in the public ceremony
 
 *2024-07-17 11:39:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/திறந்த-பிடியாணை-எம்-பி-பொது-வைபவத்தில்-பங்கேற்றார்/94-340543) · `ta`
 
-கற்பிட்டி சுற்றுலா நீதவான் நீதிமன்றில் திறந்த பிடியாணை பிறப்பித்த புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர்  அலி சப்ரி ரஹீம், கற்பிட்டி அல் அக்ஷா தேசிய பாடசாலையில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற வைபவமொன்றில் சிறப்பு விருந்தினராக கலந்துகொண்டதாக மக்கள் தெரிவிக்கின்றனர்.
+Ali Sabri Rahim, a Puttalam district parliamentarian, faced legal issues when he skipped court hearings for a case filed by a Kalpitiya NGO. Despite being summoned, he avoided appearing before the Puttalam Magistrate's Court three times. The Additional District Judge, Mrs. Ayona Wimalaratne, ordered his arrest for not attending court without representation. This incident also saw the participation of North Western Province Governor Ahmed Naseer.
 
-விழா மைதானத்திற்கு பாராளுமன்ற உறுப்பினரை பொலிஸ் உத்தியோகத்தர் அழைத்துச் செல்வதைக் காணக்கூடியதாக இருந்தது.
+🟩
 
-கற்பிட்டியில் உள்ள அரச சார்பற்ற நிறுவனமொன்றினால் தாக்கல் செய்யப்பட்ட வழக்கு,  புத்தளம் நீதவான் நீதிமன்றத்தில் மூன்று தடவைகள் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது பாராளுமன்ற உறுப்பினர் மூன்று தடவைகளும் நீதிமன்றத்தை தவிர்த்துள்ளார்.
+Puttalam district parliamentarian Ali Sabri Rahim, who issued an opening court at the Kalpitiya Tourism Magistrate's Court, was attended by a special guest at a ceremony held at the Kalpitiya Al Aksha National School on Tuesday (16).
 
-சட்டத்தரணி அல்லது பாராளுமன்ற உறுப்பினரை பிரதிநிதித்துவப்படுத்தாமல் நீதிமன்றத்தை தவிர்த்ததன் அடிப்படையில் உடனடியாக பாராளுமன்ற உறுப்பினரை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்துமாறு மேலதிக மாவட்ட நீதிபதியும் நீதவானுமான திருமதி அயோனா விமலரத்ன கற்பிட்டி பொலிஸாருக்கு உத்தரவிட்டிருந்தார்.  இந்நிகழ்வில், வடமேற்கு மாகாண ஆளுநர்  அஹமட் நசீரும் கலந்துகொண்டார்.
+It was seen that the police officer was taking a Member of Parliament to the ceremony grounds.
+
+When the case filed by a NGO in Kalpitiya was taken up at the Puttalam Magistrate's Court three times, the Member of Parliament has avoided the court for three times.
+
+Additional District Judge and Magistrate Mrs. Ayona Wimalaratne had ordered the police to arrest the MP and produce the court on the basis of the exclusion of the court without representing the lawyer or a Member of Parliament..  இந்நிகழ்வில், வடமேற்கு மாகாண ஆளுநர்  அஹமட் நசீரும் கலந்துகொண்டார்.
 
 ◼️
 
 [Data](articles/a91a0649.json)
 
+[Extended Data](ext_articles/a91a0649.ext.json)
+
 ---
 
-### மஹிந்த 978, சிறிசேன 557 ஹெலிகொப்டர் பயணங்கள்
+### Mahinda 978, Sirisena 557 helicopter trips
 
 *2024-07-17 11:35:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-978-சிறிசேன-557-ஹெலிகொப்டர்-பயணங்கள்/175-340541) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ 2005 மற்றும் 2015 க்கு இடையில் ஜனாதிபதியின் சிறப்புரிமையின் கீழ் விமானப்படை ஹெலிகொப்டர்களைப் பயன்படுத்தி 978 விமான பயணங்களை மேற்கொண்டுள்ளார்.
+Between 2005 and 2015, former Presidents Mahinda Rajapaksa (978 flights) and Maithripala Sirisena (557 flights) utilized Air Force helicopters under presidential privileges. This information was disclosed to the Ada newspaper following a Right to Information Commission inquiry.
 
-அத்துடன், முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தனது ஐந்தாண்டு பதவிக்காலத்தில் 557 தடவைகள் பயணித்துள்ளதாக இலங்கை விமானப்படை தலைமையகத்தில் இருந்து பெறப்பட்ட தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-தகவல் அறியும் உரிமை ஆணைக்குழுவிடம் எமது சகோதரப் பத்திரிகையான ‘ADA’ செய்த முறையீட்டிற்கு பதிலளிக்கும் வகையில் இந்தத் தரவு வெளியிடப்பட்டது.
+Former President Mahinda Rajapaksa has made 978 flights using the Air Force helicopters under the president's privilege between 2005 and 2015.
+
+In addition, former President Maithripala Sirisena has traveled 557 times during his five -year term, according to sources received from the Sri Lanka Air Force headquarters.
+
+The data was published in response to the Right to Information Commission in response to the appeal of our brotherly newspaper Ada.
 
 ◼️
 
 [Data](articles/82e34f64.json)
+
+[Extended Data](ext_articles/82e34f64.ext.json)
 
 ---
 
@@ -84,37 +114,51 @@ The woman who was driving the car involved in the accident has been arrested whi
 
 [Data](articles/e7c9c09c.json)
 
+[Extended Data](ext_articles/e7c9c09c.ext.json)
+
 ---
 
-### தேர்தல் ஆணைக்குழு  - நிதி அமைச்சின் அதிகாரிகள் சந்திப்பு
+### Election Commission - Finance Ministry officials meet
 
 *2024-07-17 11:30:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-நிதி-அமைச்சின்-அதிகாரிகள்-சந்திப்பு/175-340540) · `ta`
 
-நிதி அமைச்சின் அதிகாரிகள் மற்றும் தேர்தல்கள் ஆணைக்குழு உறுப்பினர்களுக்கு இடையிலான சந்திப்பொன்று இன்று (17) நடைபெறவுள்ளது.
+Today's meeting between Election Commission and Finance Ministry officials aims to finalize details for the upcoming presidential election, including financial aspects and document preparation.
 
-ஜனாதிபதி தேர்தலை அறிவிக்கும் அதிகாரம் தேர்தல் ஆணைக்குழுவுக்கு கிடைத்துள்ள நிலையில் இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+🟩
 
-தேர்தல் தொடர்பான பல அடிப்படை ஆவணங்கள் அச்சடிக்க ஏற்கெனவே ஒப்படைக்கப்பட்டுள்ளதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+A meeting between officials and members of the Elections Commission will be held today (17).
 
-அந்த பணத்தை வழங்குவது மற்றும் ஜனாதிபதி தேர்தலுக்காக பணத்தை திறைசேரியில் இருந்து உரிய நேரத்தில் விடுவிப்பது தொடர்பிலான விடயங்கள் இங்கு கலந்துரையாடப்பட உள்ளன.
+The meeting is held as the Election Commission has the authority to announce the presidential election.
+
+The Election Commission said that several basic documents related to the election have already been handed over to print.
+
+Things about the issue of money and the release of money from the Treasury for the presidential election are to be discussed here.
 
 ◼️
 
 [Data](articles/be90520e.json)
 
+[Extended Data](ext_articles/be90520e.ext.json)
+
 ---
 
-### மின் கட்டண திருத்தம்; 20% விலை குறைப்பு சாத்தியம்
+### Electricity tariff revision;20% of the price reduction is possible
 
 *2024-07-17 11:25:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-20-விலை-குறைப்பு-சாத்தியம்/175-340537) · `ta`
 
-மின்சார விலை திருத்தத்தை தொடர்ந்து சந்தையில் பொருட்கள் மற்றும் சேவைகளின் விலைகள் சுமார் 20% குறைக்கப்படும் என மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Kanjana Wijesekera, Minister of Power and Energy, announced a 20% reduction in electricity tariffs, effective from July 16, aiming to lower overall market prices. The next adjustment is set for October.
 
-புதிய மின் கட்டண திருத்தம் ஜூலை 16 முதல் அமலுக்கு வரும் என்றும், அடுத்த திருத்தம் ஒக்டோபர் மாதம் நடைபெறும் என்றும் அமைச்சர் கூறினார்.
+🟩
+
+Minister of Power and Energy Kanjana Wijesekera said that the prices of goods and services in the market will be reduced by about 20% following the revision of electricity prices.
+
+The Minister said that the new electricity tariff amendment will come into effect from July 16 and the next amendment will take place in October.
 
 ◼️
 
 [Data](articles/54ac16f6.json)
+
+[Extended Data](ext_articles/54ac16f6.ext.json)
 
 ---
 
@@ -143,6 +187,8 @@ In equities, Colombo’s All Share Price Index opened 4.07 points higher at 11,8
 ◼️
 
 [Data](articles/1efe4dff.json)
+
+[Extended Data](ext_articles/1efe4dff.ext.json)
 
 ---
 
@@ -312,6 +358,8 @@ The statement did not say whether any attempts were made to find out whether exi
 
 [Data](articles/03c70b84.json)
 
+[Extended Data](ext_articles/03c70b84.ext.json)
+
 ---
 
 ### Sri Lanka Thailand Free Trade Agreement Published
@@ -331,6 +379,8 @@ Under the Sri Lanka Thailand Free Trade Agreement, the balance 30 percent of tar
 ...
 
 [Data](articles/ce674eab.json)
+
+[Extended Data](ext_articles/ce674eab.ext.json)
 
 ---
 
@@ -687,6 +737,24 @@ Global inflation went up after economic bureaucrats in the US, UK, Europe and ma
 ...
 
 [Data](articles/ffff50c6.json)
+
+[Extended Data](ext_articles/ffff50c6.ext.json)
+
+---
+
+### ලංකාවට එරෙහි විස්සයි20 තරගාවලියේදී ඉන්දීය නායකත්වය සූර්ය කුමාර්ට
+
+*2024-07-17 07:29:05* · [`adalk`](https://www.ada.lk/sports/ලංකාවට-එරෙහි-විස්සයි20-තරගාවලියේදී-ඉන්දීය-නායකත්වය-සූර්ය-කුමාර්ට/9-410822) · `si`
+
+ශ්‍රී ලංකාව හා ඉන්දියාව අතර ශ්‍රි ලංකාවේදි පැවැත්වීමට නියමිත විස්සයි20 තරගාවලිය සඳහා ඉන්දිය විස්සයි20 කණ්ඩායමේ නායකත්වය සූර්ය කුමාර් යාදව්ට ලබාදිමට ඉන්දියාව තීරණය කර තිබේ.
+
+මෙම කණ්ඩායමේ නායකත්වයට හරදික් පාණ්ඩ්‍යා නම් කරනු ඇතැයි සඳහන් වුවත් ඔහුගේ හාරිරික යෝග්‍යතා ගැටලුවක් හේතුවෙන් මෙසේ සූර්ය කුමාර් යාදව් කණ්ඩායමේ නායකත්වයට පත් කිරිමට නියමිතය.
+
+විස්සයි20 තරගාවලිය වෙනුවෙන් ක්‍රිඩා කරන ඉන්දීය කණ්ඩායම තෝරා ගැනීම වෙනුවෙන් ඉන්දිය තේරිම් කමිටුව අද දිනයේදි රැස්විමට නියමිත බව ක්‍රිඩා මධ්‍ය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/af90cf0b.json)
 
 ---
 
@@ -2173,57 +2241,5 @@ He said the strongest net could be made to capture tax evictions and steps have 
 [Data](articles/fb03637f.json)
 
 [Extended Data](ext_articles/fb03637f.ext.json)
-
----
-
-### Part of 'Wessagiriya' wasurum
-
-*2024-07-16 17:23:50* · [`adalk`](https://www.ada.lk/breaking_news/’’වෙස්සගිරිය’’-ඉසුරුමුණියේම-කොටසක්/11-410815) · `si`
-
-The Director General of Archaeology, under the Ministry of Cultural Affairs, plans to conserve and promote the Vessagiriya sacred site for tourism. This initiative follows archaeological discoveries linking it to the Esurakumnawa era. The project aims to preserve the historical significance while enhancing its appeal for visitors.
-
-🟩
-
-The Director General of Archeology General Prof. Prof. DEP. Thusitha Mendis said.
-
-The Director General of Archeology was headed by the President of the Ministry of Cultural Affairs and the Fourteen Headship, "heritarization and a tour of conservation.
-
-The next, conservation of the Vessagiriya sacred area, the conservation is to be prepared and decorately decorated with the tourism center as well as tourism.
-
-The sources have revealed that in the Jethawana Project of the Jethawana Project of the Vocational Caste.It is revealed that it is located in that place.
-
-In an excavations made in the Vesagiriya is a part of the Esurakumnawa, the proof, witnessing to accept it is among them.
-
-The city should be conserved in the city of Sacred Town.
-
-◼️
-
-[Data](articles/4ab30330.json)
-
-[Extended Data](ext_articles/4ab30330.ext.json)
-
----
-
-### ICC Annual Conference in Sri Lanka
-
-*2024-07-16 17:16:25* · [`adalk`](https://www.ada.lk/sports/ICC-වාර්ෂික-සමුළුව-ශ්‍රී-ලංකාවේදී/9-410814) · `si`
-
-The ICC Annual Conference, themed "Capitalizing On The Olympic Opportunity," will debut in Asia, specifically Sri Lanka, from July 19 to 22. It aims to unite cricket officials from Africa, Asia, Eastern Asia, Europe, and more, highlighting Sri Lanka Cricket's efforts and resources allocated for this event.
-
-🟩
-
-The International Cricket Council (ICC) Annual Conference will be held in Sri Lanka from 22/19 to 07/22.
-
-The conference will be held in Sri Lanka for the first time in Asia, and representing Sri Lanka and representatives of the African, the Asian, Eastern Asia, Eastern Asia, Eastern Asia, East and European countries.
-
-"Capitalizing On The Olympic Opportunity" This year's conference is organized under the theme of the theme:
-
-The resources required by SLC contributes to this program.
-
-◼️
-
-[Data](articles/aeff1e0a.json)
-
-[Extended Data](ext_articles/aeff1e0a.ext.json)
 
 ---

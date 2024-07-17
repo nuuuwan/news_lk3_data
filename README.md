@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 16:07:32**
+As of **2024-07-17 16:20:13**
 
 ## Newspaper Stats
 
-*Scraped **35,720** Articles*
+*Scraped **35,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,027
 economynextcom | 2,123
 dailyftlk | 2,262
-adalk | 3,221
+adalk | 3,223
 adaderanalk | 4,125
 tamilmirrorlk | 4,318
 dailymirrorlk | 4,733
@@ -26,27 +26,69 @@ adaderanasinhalalk | 5,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,716 (100.0%) of 35,720 articles have been extended.
+35,720 (100.0%) of 35,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### පොහොර වර්ග 5ක මිල අඩු කරයි
+### Reduces 5 types of fertilizer
 
 *2024-07-17 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198917) · `si`
 
-රාජ්‍ය පොහොර සමාගම විසින් නිෂ්පාදනය කරන පොහොර වර්ග 5ක මිල ගණන් අද (17) සිට අඩු කිරීමට පියවර ගන්නා බව රාජ්‍ය පොහොර සමාගම දැනුම්දී තිබේ.
+Fertilizer prices across five types are set to decrease from Rs. 1,500 to Rs. 2,000. This decision follows today's announcement by the Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, who directed the reduction for fertilizers used in cinnamon, tea, and coconut plantations. The move was confirmed during a meeting at the Ministry of Agriculture and Plantation Industries.
 
-ඒ අනුව රුපියල් 1,500 සිට රුපියල් 2,000 දක්වා මුදලකින් පොහොර මිල අඩු කිරීමට පියවර ගන්නා බව එම සමාගමේ සභාපති ආචාර්ය ජගත් පෙරේරා මහතා පවසයි.
+🟩
 
-කුරුඳු, තේ හා පොල් යන වැවිලි බෝගවලට භාවිත කරන පොහොර මිල ගණන් අඩු කිරීමට පියවර ගන්නා ලෙස රාජ්‍ය පොහොර සමාගමට කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ද උපදෙස් දී තිබුණි.
+State Fertilizer Prices have been informed from today's 5 fertilizer prices to reduce the price of 5 fertilizer.
 
-කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේදී පැවති සාකච්ඡාවකදී පොහොර මිල අඩුකිරීම් ප්‍රකාශයට පත් කර තිබුණි.
+Accordingly, steps will be taken to reduce fertilizer prices from Rs. 1,500 to Rs. 2,000.
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera was also instructed to reduce fertilizer prices used by cinnamon, tea and coconut plantation crops.
+
+At a meeting held at the Ministry of Agriculture and Plantation Industries, fertilizer prices had been declared.
 
 ◼️
 
 [Data](articles/1031e7d6.json)
+
+[Extended Data](ext_articles/1031e7d6.ext.json)
+
+---
+
+### වතු සමාගම් අනවසරයෙන් භුක්ති විදින ඉඩම් නැවත පවරා ගන්න යයි
+
+*2024-07-17 15:49:03* · [`adalk`](https://www.ada.lk/breaking_news/වතු-සමාගම්-අනවසරයෙන්-භුක්ති-විදින-ඉඩම්-නැවත-පවරා-ගන්න-යයි/11-410826) · `si`
+
+ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව සතු ඉඩම් වල පදිංචිය හා බුක්තිය ලබාදීමේ ක්‍රමවේදය නැවත සමාලෝචනය කර සරල බවට පත් කිරීමට කාරක සභාවෙන් නිර්දේශයක්
+
+ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව විසින් පතල් සඳහා දැනට ලබා දෙන පර්චස් 1ක භුමි ප්‍රමාණය වැඩි කිරීමට නිර්දේශ - පර්චස් එකකට අයකරනු ලබන බදු මුදල් සංශෝධනය කිරීමටත් කාරක සභාවෙන් යොජනා
+
+2010 ට පෙර ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවේ ඉඩම්වල පදිංචි වූ අනවසර පදිංචි කරුවන්ට ඔප්පු ලබාදීමේ දී එය 2021 වසර ට පෙර දක්වා ලෙස දිගු කිරීමට නිර්දේශ
+
+රාජ්‍ය වැවිලි සංස්ථාවට හෝ ජනතා වතු සංවර්ධන මණ්ඩලයට ගැසට් නිවේදනයක් මගින් පවරා නොදුන් ඉඩම් අක්කර දහස් ගානක් වතු සමාගම් විසින් අත්පත් කරගෙන ඇති බව ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව විසින් ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව හමුවේ අනාවරණය කරන ලදී.
+
+...
+
+[Data](articles/3449f0c5.json)
+
+---
+
+### මහාවංශය ලෝක උරුමයක් වෙයි
+
+*2024-07-17 15:41:08* · [`adalk`](https://www.ada.lk/picture_story/මහාවංශය-ලෝක-උරුමයක්-වෙයි/10-410825) · `si`
+
+පේරාදෙණිය විශ්ව විද්‍යාලයේ පුස්තකාලය සතු මහා වංශය පුස්තකයලෝක උරුමයක් ලෙස නිල වශයෙන් ප්‍රකාශයට පත් කිරීම යුනෙස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජෙනරාල් අවුඩ්‍රේ ඔසේලේ මහත්මියගේප්‍රධානත්වයෙන් එම පුස්තකාල පරිශ්‍රයේදී සිදු කෙරුණි.
+
+එහිදී ලෝක උරුමයක් ලෙස නම් කෙරුණු එම පුස්තකයට අදාළ සහතික පත්‍රය ප්‍රධානය කිරීම යුනෙස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරිය විසින්පේරාදෙණිය විශ්ව විද්‍යාලයේ කුලපති මහාචාර්ය ජී.එච්. පීරිස් මහතා වෙත භාරදුන් අතර ඊට අදාළ සමරු පලකයක්ද ඇය විසින් විවෘත කරන ලදී .
+
+පේරාදෙණිය විශ්ව විද්‍යාලයේ උප කුලපති මහාචාර්ය එම්. ඩී. ළමාවංශ මහතා විසින් යුනිස්කෝ සංවිධානයේ අධ්‍යක්ෂ ජනරාල්වරිය පේරාදෙණිය විශ්ව විද්‍යාලයට පැමිණීම සනිටුහන් කරමින් විශේෂ සමරු පොතක්ද එහිදී පිළිගැන්විණි .
+
+පේරාදෙණිය විශ්වවිද්‍යාලයේ පුස්තකාලාධිපතිආචාර්යඑම්. මහේෂ්වරන් මහතා ඇතුළුපිරිසක් මෙම අවස්ථාවට සහභාගී වූහ .
+
+◼️
+
+[Data](articles/77ab1e73.json)
 
 ---
 
@@ -87,6 +129,8 @@ The decision has been taken in view of the forthcoming Presidential Election, an
 ◼️
 
 [Data](articles/1ec7b7c0.json)
+
+[Extended Data](ext_articles/1ec7b7c0.ext.json)
 
 ---
 
@@ -214,19 +258,25 @@ The court has issued this order after considering a complaint filed against the 
 
 ---
 
-### වැසිදිනෙක රෝහලට යාමට බෝට්ටුවක් අවශ්‍යය ‌ ළමා සහ මාතෘ රෝහල
+### Child and Maternity Hospital need a boat to go to hospital
 
 *2024-07-17 14:12:00* · [`adalk`](https://www.ada.lk/breaking_news/වැසිදිනෙක-රෝහලට-යාමට-බෝට්ටුවක්-අවශ්‍යය-‌-ළමා-සහ-මාතෘ-රෝහල/11-410824) · `si`
 
-කළුතර නාගොඩ ගල්අස්හේන ළමා සහ මාතෘ රෝහල ඉදිරිපිට මාර්ගයේ වැසි ජලය බැස නොයාම හේතුවෙන් රෝහල් කාර්ය මණ්ඩලය, අවට ජනතාව මෙන්ම මගී ජනතාවද අපහසු තාවයට ලක්ව ඇති බවට ඔවුහූ චෝදනා නගති.
+Due to heavy rainfall, Child and Maternity Hospital in Kalutara faces accessibility issues, causing inconvenience to both staff and patients. The situation worsens with no alternative routes available, leaving many stranded. A council official is also affected, highlighting the severity of the problem.
 
-මේ හේතුවෙන් රෝහලට පැමිණෙන බොහෝ පිරිසකට විකල්ප මාර්ගයක් නොමැති බැවින් නිසි විසදුමක් කඩිනමින් ලබාදෙන ලෙස ඔවුහූ ඉල්ලා සිටී.
+🟩
 
-මේ පිළිබඳ අදහස් දැක්වූ කළුතර මහ නගර සභාවේ උසස් නිළධාරිනියක සදහන් කලේ බෝක්කුවක් සිරවී ඇති බවත් ඉදිරි දින කිහිපය තුල විසදුමක් ලබාදෙන බවයි. ( I J)
+They accused the hospital staff as well as the passengers around the surrounding masses, due to rainwater in front of the Natural Hospital in Kalutara due to rainwater.
+
+As a result, many people attending the hospital have no alternative route as they have no alternative route.
+
+A high personnel in the Kalutara Municipal Council has been stuck in the next few days. (I J)
 
 ◼️
 
 [Data](articles/13f2e90a.json)
+
+[Extended Data](ext_articles/13f2e90a.ext.json)
 
 ---
 
@@ -2249,47 +2299,5 @@ Russia opened a new battlefield last May to capture the Karkiv region. Ukrainian
 [Data](articles/6475b110.json)
 
 [Extended Data](ext_articles/6475b110.ext.json)
-
----
-
-### We and the Commission are ready for the election;Is the President ready to compete?- Namal question
-
-*2024-07-16 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188618) · `ta`
-
-Namal Rajapaksa, the National Organizer of the Sri Lanka Peoples Alliance (PA), has expressed readiness for the upcoming presidential election, urging President Ranil Wickremesinghe to make a statement. He also warned against supporting any proposals brought to parliament post-election by the government. A meeting involving PA founders and MPs with the Election Commission discussed negotiation strategies regarding party political activities. The Commission holds the constitutional authority to decide on the election, amidst discussions on constitutional amendments affecting the President's term length.
-
-🟩
-
-We are ready for the presidential election.President Ranil Wickremesinghe should announce. The National Organizer of the Sri Lanka Peoples Alliance (PA), Namal Rajapaksa, said that if the government brings the proposals to parliament after the election, the government will never support it.
-
-The founder of the Sri Lanka Peoples Alliance (PA) Basil Rajapaksa, MPs Sakara Kariyawasam, Namal Rajapaksa and Sanjeewa, Sanjeewa, held a discussion with the Chairman and Members of the Election Commission on Tuesday.
-
-Once the authority to announce the election, the Commission is in our political process to negotiate with the Election Commission on the political activities of the party.. The Elections Commission is responsible for the constitutional authority to decide on the presidential election.
-
-...
-
-[Data](articles/7018bdcb.json)
-
-[Extended Data](ext_articles/7018bdcb.ext.json)
-
----
-
-### Ambalangoda shouting
-
-*2024-07-16 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198888) · `si`
-
-A 41-year-old man was fatally shot in Ambalangoda, with the incident occurring in front of his home. The victim suffered a gunshot wound to the head.
-
-🟩
-
-The police said that 41-year-old man had been shot dead in front of the house.
-
-The victim has been shot dead in the head.
-
-◼️
-
-[Data](articles/d2aebb4b.json)
-
-[Extended Data](ext_articles/d2aebb4b.ext.json)
 
 ---

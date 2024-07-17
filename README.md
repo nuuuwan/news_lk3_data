@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 15:05:53**
+As of **2024-07-17 15:20:12**
 
 ## Newspaper Stats
 
-*Scraped **35,710** Articles*
+*Scraped **35,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 4,124
 tamilmirrorlk | 4,318
 dailymirrorlk | 4,733
 virakesarilk | 5,562
-adaderanasinhalalk | 5,975
+adaderanasinhalalk | 5,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,710 (100.0%) of 35,710 articles have been extended.
+35,710 (100.0%) of 35,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### කොහුවල ගුවන් පාලම විවෘත කෙරේ
+
+*2024-07-17 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198912) · `si`
+
+හංගේරියානු රජයේ ණය ආධාර යටතේ ඉදිකරන ලද කොහුවල ගුවන් පාලම විවෘත කිරීම අද (17) පෙරවරුවේ සිදු කෙරුණි.
+
+මෙම අවස්ථාවට එක්වූ ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසුවේ ණය ප්‍රතිව්‍යුහගත කිරීමේ ප්‍රතිඵලයක් ලෙස අතරමග වැඩ නැවතී තිබූ සංවර්ධන ව්‍යපෘති යළි ආරම්භ කිරීමට හැකිවී ඇති බවය.
+
+◼️
+
+[Data](articles/6c04c961.json)
+
+---
+
+### රජයේ රෝහල් 07ක CT ස්කෑන් අක්‍රියයි
+
+*2024-07-17 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198911) · `si`
+
+රජයේ රෝහල් 7ක පවිතන සී.ටී. ස්කෑන් යන්ත්‍ර මේ වනවිට අඩපණ වී ඇති බව රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය පවසයි.
+
+එම සංගමය පෙන්වා දෙන්නේ, එම තත්ත්වය හමුවේ අදාළ රෝහල්වලට පැමිණෙන රෝගීන් මෙන්ම රෝහල් බලධාරීන්ද දැඩි අපහසුතාවකට පත්ව ඇති බවය.
+
+මෙරට රජයේ රෝහල් 44ක සී.ටී. ස්කෑන් යන්ත්‍ර පවතින අතර, ඒ අතරින් 7ක්ම මේ වනවිට සම්පූර්ණයෙන්ම අක්‍රීය වී තිබේ.
+
+රත්නපුර මහ රෝහල, කරවනැල්ල මූලික රෝහල, ඇඹිලිපිටිය දිස්ත්‍රික් මහ රෝහල, හම්බන්තොට මහ රෝහලේ පිළිකා ප්‍රතිකාර ඒකකය, කල්මුනේ මූලික රෝහල, කොළඹ ජාතික රෝහලේ බාහිර රෝගී අංශය සහ කළුතර මහ රෝහල මෙලෙස සි.ටී. ස්කෑන් යන්ත්‍ර අඩපණ වූ රෝහල් අතරට අයත්ය.
+
+පිළිකා හඳුනාගැනීම, රුධිරවාහිනී පද්ධතියේ ගැටලු හ﻿ඳුනා ගැනීම, හදිසි අනතුරකදී හෝ ආඝාත තත්ත්වයකදී මොළයට සිදුව ඇති හානි හඳුනා ගැනීම ඇතුළු රෝගී ප්‍රතිකාර සේවාවන් රැසක් සඳහා සී.ටී. ස්කෑන් යන්ත්‍ර ප්‍රධාන වශයෙන් භාවිතයට ගැනේ.
+
+පවතින තත්ත්වය හමුවේ රෝගී ජීවිතද දැඩි අවදානම් තත්ත්වයට පත්ව ඇති අතර,
+
+සී.ටී. ස්කෑන් පරීක්ෂණ වාර්තා ලබා ගැනීම සඳහා රෝගීන් වෙනත් රෝහල්වලට ප්‍රවාහනය කිරීමට වැය වන මුදලද ඉතා විශාලය.
+
+◼️
+
+[Data](articles/eedb249f.json)
+
+---
 
 ### Person remanded suspended
 
@@ -2231,49 +2269,5 @@ The funeral of veteran Tamil political leader Rajavarothayam Sampanthan took pla
 [Data](articles/d7753e5a.json)
 
 [Extended Data](ext_articles/d7753e5a.ext.json)
-
----
-
-### Teachers and principals to fight again
-
-*2024-07-16 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198885) · `si`
-
-Guru-Principal Trade Union UPFA plans a two-week strike starting in 22 weeks, withdrawing from non-Guru schools. This decision was announced by Mr. Joseph Stalin at a Colombo press conference on 16th.
-
-🟩
-
-The Guru-Principal of the Guru-Principal Trade Union UPFA has decided to engage in a trade union action for two weeks from the next 22 weeks.
-
-Accordingly, the UPFA has decided to resign from all the schools outside the schools.
-
-He was speaking at a media briefing held in Colombo today (16), Mr. Joseph Stalin said this.
-
-◼️
-
-[Data](articles/6a22d9e6.json)
-
-[Extended Data](ext_articles/6a22d9e6.ext.json)
-
----
-
-### Sri Lanka to reduce CEB cadres gradually from 26,000 with restructure
-
-*2024-07-16 20:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-reduce-ceb-cadres-gradually-from-26000-with-restructure-172378/) · `en`
-
-ECONOMYNEXT – Sri Lanka will gradually reduce the 26,000 approved cadre in the state-run Ceylon Electricity Board (CEB) through Voluntary Retirement Scheme (VRS) and by not filling retired cadre position unless it is necessary while restructuring CEB, Energy Minister Kanchana Wjesekera said.
-
-Wijesekera in the past has said the CEB could be managed with only 5,000 cadres instead of the current approved 26,000.
-
-“I still believe we can do with reducing the cadres by a large number,” Wjesekera told reporters at a media briefing in Colombo on Tuesday (16).
-
-“This is why we have introduced the institutional restructuring. We have 12-month, 18-month, and 24-month time frame for institutional restructuring. We have to go with that time frame,” he said.
-
-“We cannot oust 21,000 out of the 26,000 cadres because we only need 5,000. Out of the 21,000, some should leave with VRS and some others should leave through retirement. Annually 1,200 employees retire.”
-
-...
-
-[Data](articles/8840b9cc.json)
-
-[Extended Data](ext_articles/8840b9cc.ext.json)
 
 ---

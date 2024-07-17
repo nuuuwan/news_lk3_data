@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 09:06:16**
+As of **2024-07-17 09:20:11**
 
 ## Newspaper Stats
 
-*Scraped **35,656** Articles*
+*Scraped **35,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,027
 economynextcom | 2,118
 dailyftlk | 2,262
 adalk | 3,215
-adaderanalk | 4,114
+adaderanalk | 4,115
 tamilmirrorlk | 4,303
 dailymirrorlk | 4,733
 virakesarilk | 5,558
@@ -26,11 +26,29 @@ adaderanasinhalalk | 5,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,654 (100.0%) of 35,656 articles have been extended.
+35,656 (100.0%) of 35,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
+
+### Man arrested with over 1kg of ‘ice’ in Modara
+
+*2024-07-17 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100569/man-arrested-with-over-1kg-of-ice-in-modara) · `en`
+
+A suspect has been arrested by police with more than a kilogram of ‘ice’ drugs, also known as crystal methamphetamine, in the Aluth Mawatha area, Modara.
+
+Police said that the drugs were seized during an operation carried out by the Crime Branch of the Colombo North Division based on information received by the Air Force Intelligence Unit.
+
+At the time of arrest, the suspect was found in possession of 01 kg and 76 grams of ‘ice’ in total.
+
+The arrested suspect has been identified as a 31-year-old resident of Aluth Mawatha area in Modara, said Police.
+
+◼️
+
+[Data](articles/7b6f258d.json)
+
+---
 
 ### Fairly heavy showers and strong winds expected in parts of the country
 
@@ -48,25 +66,35 @@ Strong winds of about 50-60kmph can be expected at times over Western slopes of 
 
 [Data](articles/eca838a8.json)
 
+[Extended Data](ext_articles/eca838a8.ext.json)
+
 ---
 
-### නිතර නිතර භූකම්පන ඇති වෙන්නේ ඇයි ?
+### Why Frequently Frequency?
 
 *2024-07-17 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198897) · `si`
 
-ශ්‍රී ලංකාව තුළ පසුගිය කාලය පුරා භූකම්පන තත්ත්වයන් ඇති වීම සම්බන්ධයෙන් පේරාදෙණිය විශ්වවිද්‍යාලයේ භූ ගර්භ විද්‍යා අධ්‍යයන අංශයේ ජ්‍යෙෂ්ඨ මහාචාර්ය අතුල සේනාරත්න මහතාගෙන් "අද දෙරණ" විමසීමක් සිදුකළේය.
+Adula Senaratne explains earthquakes in Sri Lanka as minor ground movements triggered by annual rainfall variations. These movements reveal areas rich in mineral resources due to their active tectonic conditions. Recent quakes occurred near Anuradhapura and Kantale, measuring 2.7 on the Richter scale, and another in Vavuniya on June 18th.
 
-එහිදී අදහස් දක්වමින් අතුල සේනාරත්න මහතා පවසා සිටියේ, පෘථිවි අභ්‍යන්තරයේ ඇති පැලුම්තලවල සිදුවන සුළු චලන හේතුවෙන් ඇති වන කම්පනයන් මෙයට හේතුව වන බවය.
+🟩
 
-"එවැනි චලන ඇති වීමට හේතුව තමා ලංකා භූමියේ ඉතා හෙමින් වසරකට මිලිමීටරයක් දෙකක් වූ ප්‍රමාණයකින් එසවෙනවා. තැනින් තැන ඒ එසවෙන ප්‍රමාණයන් වෙනස්. නමුත් විශේෂයෙන්ම පොළොව අභන්තරයේ භූගත ක්‍රියාකාරී තත්ත්වය වැඩි ස්ථාන කිහිපයක් තියෙනවා. ඒ ස්ථාන හඳුනාගන්න ඉතාම පහසුයි. ඒවා තුළ තියෙන ඛනිජ සම්පත්වලින්. ඇත්තටම මේ ප්‍රදේශ ඛනිජ සම්පත් බහුල ප්‍රදේශයක්. ඉතින් මේ එසවීම හේතුවෙන් තමා මේ සුළු කම්පන තත්ත්වයන් ඇති වෙන්නේ."
+"Adula Senaratne inquired from the University of Peradeniya, the University of Peradeniya regarding the development of the earthquakes in Sri Lanka.
 
-අනුරාධපුර සහ කන්තලේ අතර ප්‍රදේශයේ භූකම්පන තත්ත්වයක් ඊයේ (16) සවස වාර්තා වුණි.
+Athula Senaratne said that the shocks caused by the minor motions in the plains of the earth.
 
-භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යාංශය පෙන්වා දෙන්නේ එය රික්ටර් මාපකයේ ඒකක 2.7ක ප්‍රබලත්වයක් යුක්ත බවය.
+"Why such motion is caused by the Sri Lankan land and rains two millimeters per year. Sizes are different from the place. But there are some places where the underlying active status of the earth dental condition. It's very easy to identify those places. From the mineral resources available. In fact, these areas are an abundance of mineral resources. So the lifting of this is caused by these trivial shocks. "
 
-...
+An earthquakes in the area of ​​Anuradhapura and Kantale were reported yesterday evening.
+
+The Geological Survey and Mines Bureau says that it is 2.7 units of the Richter.
+
+On June 18, a role in a rock with a rock with a rock with 2.3 rocks in Vavuniya.
+
+◼️
 
 [Data](articles/3b5e5b17.json)
+
+[Extended Data](ext_articles/3b5e5b17.ext.json)
 
 ---
 
@@ -2251,35 +2279,5 @@ UNESCO Director General of UNESCO, MSAudrey Azoulay, met with President Ranil Wi
 [Data](articles/c1ed260a.json)
 
 [Extended Data](ext_articles/c1ed260a.ext.json)
-
----
-
-### Petition to court against Madampe Sileika sand mining
-
-*2024-07-16 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198874) · `si`
-
-A petition filed by environmental groups, including the Environmentality Center, seeks to halt illegal sand mining in Madampe, citing significant environmental harm. The Supreme Court, led by judges Turairaja, Kumuduni Wickremasinghe, and Janaka de Silva, will convene on November 11 to review the case. The petition accuses the Geological and Mines Bureau of allowing the excavation of over 200 acres across nine divisions, resulting in numerous pits filled with waste. Petitioners urge the court to prevent further environmental damage.
-
-🟩
-
-The Supreme Court was appointed to call on November 11 to consider a petition filed by the environmental destruction due to the illegal destruction of the environment due to illegal destruction in Madampe.
-
-The petition was presented by a group of people including the environmentality center.
-
-The petition today (16). The three-member judge was summoned to consider the three-member Judge Bench comprised of Turairaja and Kumuduni Wickremasinghe and Janaka de Silva.
-
-The court ordered to be summoned to the 11 November to ensure the relevant petition.
-
-The Court ordered several parties including the Geological and Mines Bureau of Geological and Mines Bureau.
-
-Petitioners say that the excavation of about 200 acres of nine Grama Niladhari Divisions in Madampe area has taken place.
-
-As a result, the petitioners said that there were about forty pits and waste to fill them with the use of them.
-
-...
-
-[Data](articles/9f01614c.json)
-
-[Extended Data](ext_articles/9f01614c.ext.json)
 
 ---

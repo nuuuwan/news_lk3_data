@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-17 20:20:18**
+As of **2024-07-17 20:35:53**
 
 ## Newspaper Stats
 
@@ -26,47 +26,61 @@ adaderanasinhalalk | 5,985
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,751 (99.9%) of 35,769 articles have been extended.
+35,761 (100.0%) of 35,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-17 (Wednesday)
 
-### விரைவாக ஜனாதிபதி தேர்தலை நடத்தவும் ஐக்கிய தேசிய கட்சி தேர்தல் ஆணைக்குழுவிடம் கோரிக்கை
+### The United National Party (UNP) requests to hold the presidential election quickly
 
 *2024-07-17 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188715) · `ta`
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தலை மிக விரைவாக நடத்துவதற்கு நடவடிக்கை எடுக்குமாறு தேர்தல் ஆணைக்குழுவிடம் கோரிக்கை விடுத்தோம் என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+The UNP, through its General Secretary, has urged the Election Commission to expedite the presidential election process, emphasizing Ranil Wickremesinghe's candidacy and confidence in his victory. They stress the urgency due to the rapid assumption of responsibilities by the United People's Power and National People's Power, hinting at a potential electoral shift.
 
-தேர்தல் ஆணைக்குழுவைப் புதன்கிழமை (17) இராஜகிரியவில் உள்ள தேர்தல் அலுவலகத்தில் சந்தித்து கலந்துரையாடிய பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தலை எந்தளவு விரைவாக நடத்த முடியுமோ அந்தளவு விரைவாக நடத்துவதற்கு நடவடிக்கை எடுக்குமாறு தேர்தல் ஆணைக்குழுவிடம் நாங்கள் கோரிக்கை விடுத்திருக்கிறோம். ஜனாதிபதி தேர்தலில் ரணில் விக்ரமசிங்க சுயாதீன வேட்பாளராகவே போட்டியிட இருக்கிறார். அதில் அனைவருக்கும் கலந்துகொள்ள முடியும்.
+UNP General Secretary Palitha Range Bandara said that we have requested the Election Commission to take steps to hold the presidential election very quickly according to the constitution.
 
-ரணில் விக்ரமசிங்கவுக்கு ஐக்கிய மக்கள் சக்தியோ தேசிய மக்கள் சக்தியோ எந்தவகையிலும் சவால் இல்லை. ஐக்கிய மக்கள் சக்திக்கும் தேசிய மக்கள் சக்திக்கும் விரைவாக தேர்தல் தோல்வியை பொறுப்பேற்க இருக்கின்றன. அதனாலே  நாங்கள் விரைவாக தேர்தலை நடத்துமாறு தெரிவிக்க இங்கு வந்தோம்.
+He was speaking to the media after meeting with the Election Commission on Wednesday (17) after meeting with the election office in Rajagiriya.
+
+We have asked the Election Commission to take steps to hold the presidential election as soon as possible. Ranil Wickremesinghe is contesting the presidential election as an independent candidate. Everyone can attend it.
+
+Ranil Wickremesinghe is not challenging the United People's Power or National People's Power. The United People's Power and the National People's Power are rapidly taking responsibility for electoral defeat. That is why we came here to tell you to hold the election quickly.
 
 ...
 
 [Data](articles/c09c9c87.json)
 
+[Extended Data](ext_articles/c09c9c87.ext.json)
+
 ---
 
-### வடக்குகிழக்கில் உள்ள தமிழர்களை தனித்துவமான தேசமாக அங்கீகரிக்கும் அரசியல் தீர்வை முன்வையுங்கள்- ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்களிற்கு இலங்கை தேசிய கிறிஸ்தவமன்றம் கோரிக்கை
+### Come to a political solution that recognizes Tamils ​​in the North East as a unique nation
 
 *2024-07-17 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188714) · `ta`
 
-இலங்கையின் எதிர்வரும் ஜனாதிபதி  தேர்தலில் போட்டியிடும் அனைத்துவேட்பாளர்களும் வடகிழக்கில் உள்ள தமிழர்களை தனித்துமவமான தேசமாக அங்கீகரிக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள இலங்கை தேசிய கிறிஸ்தவ மன்றம் ஐக்கிய இலங்கைக்குள் குறிப்பிடத்தக்க சுயாட்சியையும்,அதிகாரப்பகிர்வையும் வழங்கவேண்டும் என்ற வேண்டுகோளையும் விடுத்துள்ளது.
+The Sri Lanka National Christian Forum urges presidential candidates to address the Tamil community's unique status in the Northeast, advocating for significant autonomy within a unified Sri Lanka. Highlighting the importance of transparency and accountability, the forum calls for an end to corruption and the strengthening of democratic principles. It emphasizes the need for a political solution that acknowledges the Northeast's distinct identity, ensuring its representation and addressing historical injustices. The forum also stresses the importance of tackling the ongoing economic and political crises, urging candidates to commit to meaningful reforms and the abolition of the executive presidency.
 
-இந்த வருடம் பிற்பகுதியில் ஜனாதிபதி தேர்தல் இடம்பெறவேண்டியதன் அவசியத்தை உயர்நீதிமன்றம் வலியுறுத்தியுள்ளதை இலங்கை தேசிய கிறிஸ்தவ மன்றம் வரவேற்கின்றது.
+🟩
 
-அடிப்படை உரிமைகள், வாக்களிப்பதற்கான உரிமைகள் உள்ளடங்கிய தங்கள் இறைமையை இலங்கை மக்கள் புத்திசாலித்தனதுடனும் பொறுப்புணர்வுடனும் பயன்படுத்தவேண்டும் , என நாங்கள் கேட்டுக்கொள்கின்றோம்.
+The Sri Lanka National Christian Forum has appealed to all the candidates who are contesting the upcoming presidential election in the upcoming presidential election and the Sri Lanka National Christian Forum has called for significant autonomy and power within the united Sri Lanka.
 
-இதற்கு நாடு எதிர்நோக்கியுள்ள அரசியல், பொருளாதாரநெருக்கடிகள் குறித்து மக்களிற்கு தெரியப்படுத்துவதும், அவர்கள் அறிந்திருப்பது அவசியம்.
+The National Christian Forum welcomes the Supreme Court's need to hold the presidential election later this year.
 
-மேலும் அவர்கள்ஜனாதிபதி தேர்தல் அதன் பின்னர் இடம்பெறவுள்ள பொதுத்தேர்தலில் போட்டியிடும்  கட்சிகள் வேட்பாளர்களை விமர்சன அடிப்படையில் மதிப்பிடவேண்டும்.
+We urge the Sri Lankan people to use their sovereignty and responsibility, which includes fundamental rights and rights to vote.
+
+For this, it is important that the people are aware of the political and economic crisis that the country is facing.
+
+Moreover, the parties contesting the general election in the next general election must be rated on a critical basis.
+
+The National Christian Forum of Sri Lanka wants to remind the public that the basic reasons for the current economic crisis that have affected all communities are political.
 
 ...
 
 [Data](articles/988486b8.json)
+
+[Extended Data](ext_articles/988486b8.ext.json)
 
 ---
 
@@ -144,23 +158,31 @@ The new unit opened the new unit of Seth Pirith in Maha Sangha.
 
 ---
 
-### மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு சுகாதார அமைச்சர் ரமேஷ் பத்திரன விஜயம்
+### Health Minister Ramesh Pathirana visits Mannar District General Hospital
 
 *2024-07-17 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188713) · `ta`
 
-மன்னார் மாவட்ட பொது வைத்தியசாலையின் அபிவிருத்தி நடவடிக்கைகள் தொடர்பாகவும், வைத்தியசாலையில் காணப்படும் குறைபாடுகள் தொடர்பாகவும்  ஆராயும் கண்காணிப்பு விஜயம் ஒன்று புதன்கிழமை(17) மாலை இடம்பெற்றது.
+Health Minister Ramesh Pathirana recently visited Mannar District General Hospital to assess its development progress and address issues like a shortage of doctors, drugs, medical equipment, and emergency vehicles. The visit included discussions with the hospital management and the Development Committee about these concerns. The Minister assured quick resolution for critical problems and further action through the budget.
 
-சுகாதார அமைச்சர் ரமேஷ் பத்திரன, தலைமையிலான அமைச்சின் செயலாளர் உள்ளடங்களான குழுவினர் நேரடியாக வைத்தியசாலைக்கு விஜயம் மேற்கொண்டதுடன் வெளி நோயாளர் பிரிவு உள்ளடங்களாக வைத்திய சாலையை பார்வையிட்டனர்.
+🟩
 
-அதனை தொடர்ந்து வைத்தியசாலை கேட்போர் கூடத்தில் விசேட கலந்துரையாடல் ஒன்று ஏற்பாடு செய்யப்பட்டிருந்தது.
+A surveillance visit was held on Wednesday evening (17) to investigate the development activities of the Mannar District General Hospital and the shortcomings in the hospital.
 
-இதன் போது மன்னார் மாவட்ட பொது வைத்தியசாலை பணிப்பாளர், அபிவிருத்தி குழு உறுப்பினர்கள் அமைச்சரிடம் நேரடியாக குறைபாடுகள் தொடர்பில் சுட்டிக்காட்டப்பட்டது.
+Health Minister Ramesh Pathirana and the Secretary to the Ministry of Ministry visited the hospital directly to the hospital and visited the hospital, including external patients.
 
-குறிப்பாக CT ஸ்கேன் இயந்திரம் இன்மையால் நாள்தோறும் அதிகளவான நோயாளர்கள் வெளிமாவட்டங்களுக்கு செல்வதாகவும் மருத்துவர் பற்றாக்குறை, மருந்து பற்றாக்குறை,சுத்திகரிப்பு பணியாளர் குறைபாடு,மருத்துவ உபகரணங்கள் குறைபாடு, அவசர நோயாளர் வண்டியின் குறைபாடு உள்ளடங்களாக பல்வேறு விடயங்கள் அமைச்சரின் கவனத்திற்கு  கொண்டு செல்லப்பட்டது.
+Subsequently a special discussion was organized at the hospital auditorium.
+
+The Mannar District General Hospital, Mannar District General Hospital and members of the Development Committee pointed to the Minister directly regarding the shortcomings.
+
+In particular, the CT scan machine, in particular, has been brought to the notice of the Minister, including a lack of doctor's shortage, drug shortage, refineries, medical equipment, and emergency carriage deficiency.
+
+The minister had promised that the most important issues could be resolved quickly and that other issues would be obtained through the budget.
 
 ...
 
 [Data](articles/b7428cf8.json)
+
+[Extended Data](ext_articles/b7428cf8.ext.json)
 
 ---
 
@@ -208,21 +230,29 @@ The committee and the designated officer will work closely with the Election Com
 
 ---
 
-### கத்துக்குட்டி கட்சிகளுக்கு நாட்டின் அதிகாரத்தை வழங்குவதற்கான சந்தர்ப்பம் இதுவல்ல - ஐ.தே.க. தவிசாளர் வஜிர அபேவர்தன
+### This is not the opportunity to grant the country's power to the Kattukkutty parties - the UNP. Chairman Vajira Abeywardena
 
 *2024-07-17 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188711) · `ta`
 
-கத்துக்குட்டி கட்சிகளுக்கு எதிர்காலத்தில் ஒரு தினத்தில் நாட்டை ஆட்சி செய்ய சந்தர்ப்பம் வழங்க முடியும். ஆனால் தற்போது நாட்டை நிர்வகிக்கும் சந்தர்ப்பத்தை அரசியல் அனுபவம் முதிர்ச்சியுள்ள ரணில் விக்ரமசிங்கவுக்கு மாத்திரமே வழங்கவேண்டும்.
+Vajira Abeywardena, a member of the United National Party (UNP), supports Ranil Wickremesinghe for presidency, citing his maturity and ability to navigate the country's economic crisis, especially affecting women. He criticizes internal party divisions that hindered past leadership appointments but expresses confidence in Wickremesinghe's potential to unite the party and lead the country effectively towards development.
 
-மக்கள் ஆணையுடன் ரணில் விக்ரமசிங்க இந்த நாட்டின் 9ஆவது நிறைவேற்று அதிகாரமுடைய ஜனாதிபதியாவது உறுதியாகும் என ஐக்கிய தேசிய கட்சி தவிசாளரும் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசிய கட்சி வலய பெண் பிரதிநிதிகளுக்கு ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் புதன்கிழமை (17) இடம்பெற்ற செயலமர்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+The Kattukkutty parties can give the country the opportunity to rule the country on a day in the future. But now the opportunity to manage the country should only be given to Ranil Wickremesinghe, who is maturely.
 
-நாட்டின் பொருளாதா நெருக்கடி நிலை பெண்களுக்கே அதிகம் உணர முடிந்தது. அவர்கள்தான் வீட்டின் பொருளாதாரத்தை நிர்வகித்து வருபவர்கள். பெண்கள் பாரிய பொருளாதார நெருக்கடியில் இருக்கும்போதுதான், ஐக்கிய தேசிய கட்சியின் தலைவர் ரணில் விக்ரமசிங்க தனி ஒரு ஆசனத்துடன் பாராளுமன்றம் சென்று பிரதமராகி, ஜனாதிபதியாகி உள்ளார்.இதுதான் நாங்கள் அனைவரும் கற்றுக்கொள்ளவேண்டிய அரசியல்.
+United National Party (UNP) and Member of Parliament Vajira Abeywardena said that Ranil Wickremesinghe is determined to be the 9th executive president of this country with the people's mandate.
+
+He was speaking at a function held at the United National Party (UNP) headquarters in Sirikotha on Wednesday (17).
+
+The country's economic crisis was more likely to feel more for women. They are the ones who manage the economy of the house. It is only when women are in a massive economic crisis that UNP leader Ranil Wickremesinghe has gone to Parliament with a separate seat and becomes the Prime Minister.
+
+Some people from our party have formed a different party, saying that we cannot appoint a president until Ranil Wickremesinghe is present.
 
 ...
 
 [Data](articles/5e907a44.json)
+
+[Extended Data](ext_articles/5e907a44.ext.json)
 
 ---
 
@@ -248,37 +278,57 @@ A bond maturing on 15.09.2029 closed at 12.05/10 percent, down from 12.05/20 per
 
 ---
 
-### பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோன் அரசியல்வாதி போன்று செயற்படுகிறார் - சட்டத்தரணி அம்பிகா சற்குணநாதன்
+### Police Principal Deshabandu acts like a politician - Attorney Ambika Sakthunanathan
 
 *2024-07-17 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188710) · `ta`
 
-தொழிற்சங்க நடவடிக்கை உள்ளிட்ட பொதுவான அல்லது அரசியல் விவகாரங்கள் தொடர்பில் கருத்துக்களை வெளியிடுவதன் மூலம் பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோன் அரசியல்வாதியைப்போன்று செயற்படுவதாகவும், இது பொலிஸார் மத்தியில் வலுவடைந்திருக்கும் அரசியல்மயமாக்கலைக் காண்பிப்பதாகவும்  சித்திரவதைகளால் பாதிக்கப்பட்டோருக்கான ஐக்கிய நாடுகள் நிதியத்தின் உறுப்பினரும், மனித உரிமைகள் ஆணைக்குழுவின் முன்னாள் ஆணையாளருமான அம்பிகா சற்குணநாதன் விசனம் வெளியிட்டுள்ளார்.
+Ambika Sakthunanathan, a UN Fund and Human Rights Commission member, criticized the Inspector General of Police, Patriot Tennakoon, for acting politically by commenting on trade unions and other political matters. She highlighted that such behavior undermines the police's duty to uphold the law and protect human rights, especially since trade union actions are constitutionally protected.
 
-தொழிற்சங்க நடவடிக்கைகள் புற்றுநோயைப் போல சமூகத்தின் மத்தியில் பின்னடைவை ஏற்படுத்திவருவதாக அண்மையில் பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோன் கருத்து வெளியிட்டிருந்தார். அவரது இக்கருத்து தொடர்பில் மனித உரிமைகள் செயற்பாட்டாளரான சட்டத்தரணி அம்பிகா சற்குணநாதன் அவரது உத்தியோகபூர்வ எக்ஸ் தளப்பக்கத்தில் பதிவொன்றைச் செய்திருக்கிறார்.
+🟩
+
+Ambika Sakkunnanathan, a member of the United Nations Fund and Human Rights Commission, has issued a statement saying that the police chief worked like a politician of the Tennakoon politician by expressing comments on common or political affairs, including trade union action.
+
+Recently, the Inspector General of Police, Patriot Tennakoon, commented that trade union actions are causing a setback in the community like cancer. Attorney -at -law Ambika Sakthunanathan, the human rights activist, has made a record on his official X site.
+
+He pointed out that the state official, the Thenkoon, is acting like a politician by holding journalists and commenting on common or political issues, and that it is a politicization that has been strengthened among the police.
 
 ...
 
 [Data](articles/757890c6.json)
 
+[Extended Data](ext_articles/757890c6.ext.json)
+
 ---
 
-### குழந்தைகள், சிறுவர்களின் எரியுண்ட தசைகளின் மணத்தையும் தரை முழுவதும் சிந்தப்பட்ட குருதியின் மணத்தையும் என்னால் ஒருபோதும் மறக்க முடியாது- காசாவிலிருந்து திரும்பிய அவுஸ்திரேலிய மருத்துவர்
+### I can never forget the smell of children and boys' burned muscles
 
 *2024-07-17 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188678) · `ta`
 
-காசாவின் சுகாதாஅல் அக்சா மருத்துவமனையில்  தொண்டராக பணியாற்றிவிட்டு அவுஸ்திரேலிய திரும்பியுள்ள மருத்துவர் புஸ்ரா ஒத்மன், கண்ணீரை பெரும்போராட்டத்துடன் கட்டுப்படுத்தியவாறு தனது அனுபவங்களை விபரித்துள்ளார்.
+Busra Odman, a New Zealand Medical Association member, volunteered at Gaza's Sugathaal Aksha Hospital during the ongoing Gaza War. She described witnessing horrific scenes, including the smell of burnt flesh, bloodshed, and surgeries performed in darkness due to power outages. Despite the challenging conditions—such as long hours without adequate resources like clean water, surgical equipment, and electricity—Odman highlighted the resilience of healthcare workers and the desperate need for support in Gaza.
 
-காசா பள்ளத்தாக்கின் மத்திய பகுதியில் உள்ள டெய்ர் அல்பலாவில் மருத்துவமனையில் புரிந்துகொள்ள முடியாத மூன்று வாரங்கள் பணியாற்றிய பின்னர் அவர் மெல்பேர்ன் திரும்பியுள்ளார்.
+🟩
 
-என்னால் மறக்கமுடியாத சில விடயங்கள் உள்ளன,குழந்தைகள் மற்றும் சிறுவர்களின்  எரிந்த சதைகளின் மணம் , அவர்கள் அவசரஅவசரமாக தீவிரகிசிச்சை பிரிவிற்கு கொண்டுவரப்படுவது போன்றவை என் மனதில் ஆழமாக பதிந்துவிட்டன  என  அவர் தெரிவித்துள்ளார்.
+Returning to Australian, Busra Odman, who has worked as a volunteer at Gaza's Sugathaal Aksha Hospital, has described her experiences as he controlled tears with a majority.
 
-தரை முழுவதும் சிந்தப்பட்ட குருதியின் மணத்தை நான் ஒருபோதும் மறக்கமாட்டேன்,நோயாளியான தாயின் கதறலையும்,தனது குழந்தையை நோக்கிய கதறலையும் நான் மறக்கமாட்டேன் என அவர் ஏபிசிக்கு தெரிவித்துள்ளார்.
+He returned to Melbourne after working for three weeks in the hospital in the central part of the Gaza Valley.
 
-ஒன்பதாவது மாதங்களாக  நீடிக்கும் காசா யுத்தத்தினால்  பாதிக்கப்பட்டவர்களிற்கு சேவையாற்றிய அவுஸ்திரேலியா நியுசிலாந்து மருத்துவ சங்கத்தின் முதல் பெண்மருத்துவர் இவர் என்பது குறிப்பிடத்தக்கது.
+He said that there are some unforgettable things, such as the smell of the burnt flesh of children and children, and that they are in an urgent intensive care unit, "he said.
+
+I will never forget the blood shed all over the ground, I will never forget the mother's story and the story of her child, ”he told the ABC.
+
+She is the first woman of the New Zealand Medical Association of Australia, who served the victims of the Gaza War that lasts the ninth month.
+
+In some cases when serving in Gaza, he said that children's surgery was in the dark.
+
+He said that a few days and other surgeons worked for 20 hours a day.
+
+They provided treatments for patients on the mattress and sometimes on the ground.
 
 ...
 
 [Data](articles/f6c87b2a.json)
+
+[Extended Data](ext_articles/f6c87b2a.ext.json)
 
 ---
 
@@ -302,41 +352,57 @@ President Ranil Wickremesinghe is ready to go with his party in the next preside
 
 ---
 
-### චීන ආර්ථික වර්ධන පුරෝකථනය සියයට 5 ක් දක්වා ඉහළට
+### Chinese economic growth forecast up to 5 percent
 
 *2024-07-17 17:29:26* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ආර්ථික-වර්ධන-පුරෝකථනය-සියයට-5-ක්-දක්වා-ඉහළට/11-410832) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල 2024 වසරේ චීන ආර්ථික වර්ධන පුරෝකථනය 5% ක් දක්වා ඉහළ නංවයි. එම සංවිධානය සිය නවතම ‘ලෝක ආර්ථික දැක්ම’ වාර්තාව නිකුත් කරමින් ඊයේ (16) මේ බව පැවසීය.
+The International Monetary Fund (IMF) has raised its forecast for China's economic growth to 5% for 2024, highlighting China and other emerging economies in Asia as key drivers of global economic expansion. The global economy is expected to grow by 3.2% in 2024 and 3.3% in 2025, with emerging markets projected to reach 4.3%. However, the report notes a slowdown in economic growth for Japan and the United States. Additionally, the global average inflation rate is predicted to be 5.9% in 2024, decreasing slightly to 4.4% in 2025.
 
-මේ වසරේ චීන ආර්ථික වර්ධන අනුපාතය 5% ක් වනු ඇති අතර, එය පසුගිය අප්‍රේල් මාසයේ කළ පුරෝකථනයට සාපේක්ෂව 0.4% ක වර්ධනයක් බව එම වාර්තාව පෙන්වා දී ඇත.
+🟩
 
-එසේම, ගෝලීය ආර්ථිකය 2024 වසරේ දී 3.2% ක් සහ 2025 වසරේ දී 3.3% ක් දක්වා වර්ධනය වනු ඇතැයි ද ජාත්‍යන්තර මූල්‍ය අරමුදල කියයි.
+International Monetary Fund Raises 2024 Chinese Economic Growth Forecast to 5%. The organization made this release of its latest 'World' Economic Vision 'Report yesterday.
 
-නැගී එන වෙළඳ ඒකක සහ සංවර්ධනය වෙමින් පවතින ආර්ථික ඒකකයන්හි ආර්ථික වර්ධන අනුපාතය මේ වසරේ දී 4.3% ක් දක්වා ඉහළ යනු ඇත. එහෙත්, ජපානය හා ඇමරිකාව යන රටවල ආර්ථික වර්ධන පුරෝකථනය පහත වැටෙනු ඇති බව ද එම වාර්තාව පෙන්වා දී තිබේ.
+The report states that the Chinese economic growth rate will be 5%, compared to the forecast of the year.
 
-මෙම වසරේ ගෝලීය සාමාන්‍ය උද්ධමන අනුපාතය 5.9% ක් වනු ඇති අතර, 2025 වසරේ දී එය 4.4% ක් දක්වා පහත වැටෙනු ඇත.
+The International Monetary Fund also says the global economy will increase 3.2% in 2024 and to 3.3% in 2025.
 
-චීනය සහ ආසියානු කලාපයේ සෙසු නැගී එන ආර්ථිකයන් ගෝලීය ආර්ථික වර්ධනයේ ප්‍රධාන එන්ජිම ලෙස පවතින බව ද ජාත්‍යන්තර මූල්‍ය අරමුදලේ ප්‍රථම ආර්ථික විශේෂඥ Pierre-Olivier Gourinchas මහතා කියාසිටී.
+Emerging commercial units and the economic growth rate of developing national units and the economic growth rate will increase to 4.3% this year. However, the report also pointed out that the economic growth forever will fall into Japan and the United States.
+
+This year's global average inflation rate will be 5.9% and 2025 it will fall to 4.4%.
+
+The IMF's first economic expert Pierre-OLVIER Gourinchas, the other emerging economies in China and the other emerging economies in the Asian region are the main engine of global economic growth.
 
 ◼️
 
 [Data](articles/e240be51.json)
 
+[Extended Data](ext_articles/e240be51.ext.json)
+
 ---
 
-### அரச நிதி முகாமைத்துவ சட்டமூலத்தைத் தயாரிப்பதற்கு நிதி அமைச்சு எடுத்த முயற்சிகளுக்கு அரசாங்க நிதி பற்றிய குழு பாராட்டு
+### The Government Fund Committee praise the Ministry of Finance to prepare the State Finance Management Bill
 
 *2024-07-17 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188703) · `ta`
 
-அரசாங்க நிதி பற்றிய குழுவில், அரச நிதி முகாமைத்துவ சட்டமூலம் பற்றி நீண்ட கலந்துரையாடல் இடம்பெற்றதுடன், இதற்கான அனுமதியும் வழங்கப்பட்டது. பொது மக்களின் நம்பிக்கையை வளர்த்தல், வினைத்திறனான வள ஒதுக்கீட்டை உறுதிப்படுத்தல் மற்றும் நிலைபேறான பொருளாதார வளர்ச்சிக்கு ஒத்துழைப்பு வழங்குதல் என்ற நோக்கத்தின் அடிப்படையில் இவ்வாறானதொரு சட்டமூலத்தைக் கொண்டுவருவதற்கு நிதி அமைச்சு எடுத்த முயற்சிகளையும் குழு பாராட்டியது.
+The Government Fund Committee commended the Ministry of Finance for drafting the State Finance Management Bill aimed at boosting public trust, enhancing resource efficiency, and fostering sustainable economic growth. The bill addresses gaps in current financial regulations and seeks to improve transparency and accountability. However, concerns were raised about the 13% primary expenditure limit hindering growth and social welfare. The committee discussed the need for a more flexible approach to meet the 10% growth target for higher-income status by 2040.
 
-தற்பொழுது நடைமுறையில் உள்ள நிதி ரீதியான ஒழுங்குவிதிகள், சட்டக் கட்டமைப்புக்களை அடிப்படையாக் கொண்டிருந்தாலும் அவை சரியான முறையில் பின்பற்றப்படுவதில்லையெனக் குழுவில் ஆஜராகியிருந்த அதிகாரிகள் குறிப்பிட்டனர்.
+🟩
 
-தற்போதைய அரச நிதி முகாமைத்துவ நடவடிக்கைகளில் காணப்படும் குறைபாடுகள், உள்ளக ரீதியில் காணப்படும் பலவீனங்கள் மற்றும் வெளிப்படைத்தன்மை, பொறுப்புக் கூறலில் காணப்படும் சிக்கல்கள் காரணமாக இவற்றை நிவர்த்தி செய்யும் வகையில் அரச நிதி முகாமைத்துவச் சட்டமூலம் தயாரிக்கப்பட்டிருப்பதாகத் தெரிவித்தனர்.
+The Government Fund Committee held a long discussion on the State Finance Management Bill and granted permission for this.The committee also appreciated the efforts of the Ministry of Finance to bring in such a bill on the aim of developing the confidence of the general public, ensuring the efficient resources resources and cooperation with sustainable economic growth.
+
+Officials who appeared in the committee noted that the current financial regulations and legal structures were not properly followed.
+
+The state financial management Bill has been prepared to address the shortcomings in the current state financial management process, the weaknesses and transparency and the problems in accountability.
+
+The matter was focused on the issue when the government fund committee was chaired by its Chairman Dr. Harsha de Silva on Thursday (11).
+
+Several officials of the Attorney General's Department, Finance Ministry and Central Bank were also present.
 
 ...
 
 [Data](articles/9f1be171.json)
+
+[Extended Data](ext_articles/9f1be171.ext.json)
 
 ---
 
@@ -408,39 +474,55 @@ University officials said that the woman would lodge a complaint at the police s
 
 ---
 
-### மக்கள் செல்வன்' விஜய் சேதுபதி- சூரி நடிக்கும் 'விடுதலை 2' படத்தின் பர்ஸ்ட் லுக் வெளியீடு
+### People Selvan 'Vijay Sethupathi- Suri's Burst Look release of' Liberation 2 '
 
 *2024-07-17 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188701) · `ta`
 
-விமர்சன ரீதியாகவும், வசூல் ரீதியாகவும் பாரிய வெற்றியைப் பெற்ற விடுதலை படத்தின் முதல் பாகத்திற்கு பிறகு, இரண்டாம் பாகம் பற்றிய எதிர்பார்ப்பு ரசிகர்களிடத்தில் எகிறி இருந்தது.
+"Liberation 2," directed by Vijayamaran, stars Vijay Sethupathi, Manju Warrier, and others. It's expected to meet fan expectations after the success of its predecessor. The film features music by Ilaiyaraaja and is produced by Elred Kumar. The first look, featuring Vijay Sethupathi and Manju Warrier, has garnered attention, especially among Tamil audiences.
 
-இந்நிலையில் ரசிகர்களின் எதிர்பார்ப்பை பூர்த்தி செய்யும் வகையில் 'விடுதலை 2' படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+🟩
 
-இயக்குநர் வெற்றிமாறன் இயக்கத்தில் உருவாகி வரும் 'விடுதலை 2' படத்தில் 'மக்கள் செல்வன்' விஜய் சேதுபதி, சூரி, பவானி ஸ்ரீ, பிரகாஷ்ராஜ், மஞ்சு வாரியர், 'அட்டக்கத்தி' தினேஷ், கௌதம் வாசுதேவ் மேனன், ராஜீவ் மேனன், இளவரசு, பாலாஜி சக்திவேல், சரவண சுப்பையா, தமிழ், சேத்தன், மூணார் ரமேஷ், பவெல் நவகீதன் உள்ளிட்ட பலர் நடித்து வருகிறார்கள்.
+After the first part of the release of the film, which was critically and grossly successful, the expectation of the second part was in the fans.
 
-ஆர் வேல்ராஜ் ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு 'இசை ஞானி' இளையராஜா இசையமைக்கிறார். இந்தத் திரைப்படத்தை ஆர் எஸ் இன்போடெய்ன்மென்ட் மற்றும் கிராஸ் ரூட் ஃபிலிம் கம்பெனி பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் எல்ரெட் குமார் தயாரிக்கிறார்.
+The first look of 'Liberation 2' has been released to meet the expectations of the fans.
 
-...
+Directed by director Vijayamaran, 'Liberation 2', 'Namal 2', Vijay Sethupathi, Suri, Bhavani Sri, Prakashraj, Manju Warrior, 'Attakathi' Dinesh, Gautam Vasudev Menon, Rajiv Menon, Princess, Balaji Sakthivel, Saravana SubbaiahMany people including Munnar Ramesh, Pavel Navadekithan are acting.
+
+The film, which is being recorded by R Velraj, is composed by 'Music Gnani' Ilayaraja. The film is being produced by producer Elrett Kumar on behalf of RS Infotainment and Cross Root Film Company.
+
+The film crew has released the first look as the shooting of the film reaches the final stage. Vijay Sethupathi- Actress Manju Warrior. As well as the Thirukkural in the Burst Look, the attention of the Tamils ​​is easily attracted.
+
+◼️
 
 [Data](articles/2060e90b.json)
 
+[Extended Data](ext_articles/2060e90b.ext.json)
+
 ---
 
-### தனுஷ் இறங்கி செய்திருக்கும் தரமான சம்பவம் 'ராயன்'..!?
+### Dhanush has descended the quality incident 'Rayan' ..!?
 
 *2024-07-17 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188699) · `ta`
 
-பல சர்வதேச விருதுகளை வென்ற கேப்டன் மில்லருக்குப் பிறகு ராயனாக அவதாரம் எடுத்திருக்கிறார் தனுஷ். எதிர்வரும் 26 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாக இருக்கும் 'ராயன்' திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Dhanush stars in "Rayan," a highly anticipated film set for global release on the 26th. Directed by Selvaraghavan, it features a star-studded cast including S.J.Suryah, Prakash Raj, and others. Composed by A.R. Rahman, the film blends comedy with gangster elements, promising a unique viewing experience. The film's preview garnered over five million views, indicating strong interest from audiences. Despite the excitement, the focus remains on Dhanush's performance and Rahman's score, setting high expectations for the film's success.
 
-இந்த முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் ஐந்து மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+🟩
 
-தனுஷ் இயக்கத்தில் உருவாகி இருக்கும் 'ராயன்' திரைப்படத்தில் தனுஷ், செல்வராகவன், எஸ். ஜே. சூர்யா, பிரகாஷ் ராஜ், சந்தீப் கிஷன், காளிதாஸ் ஜெயராம், துஷாரா விஜயன், அபர்ணா பாலமுரளி, வரலட்சுமி சரத்குமார் , 'பருத்திவீரன்' சரவணன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+Dhanush has incarnated as Rain after Miller, who won many international awards. The preview of the film 'Rayan', which will be released in the film House worldwide on the 26th of this month.
 
-ஓம் பிரகாஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார். கேங்ஸ்டர் பின்னணியில் எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை சன் பிக்சர்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் கலாநிதி மாறன் தயாரித்திருக்கிறார்.
+Within a short time of this preview, more than five million viewers have been visited and achieved.
+
+Dhanush, Selvaraghavan, S. J.. Surya, Prakash Raj, Sandeep Kishan, Kalidas Jayaram, Dushara Vijayan, Aparna Balamurali, Varalakshmi Sarathkumar, 'Puthiviran' Saravanan are many.
+
+'Music Storm' for the film, which has been recorded by Om Prakash. R. Rahman has composed the music. The film, which is being prepared as an exercise entertainer in the backdrop of the gangster, has produced the famous producer Dr. Maran on behalf of Sun Pictures.
+
+The songs of the film have been released and the film has been released.
 
 ...
 
 [Data](articles/fedb64fa.json)
+
+[Extended Data](ext_articles/fedb64fa.ext.json)
 
 ---
 

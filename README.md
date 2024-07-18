@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 01:54:22**
+As of **2024-07-19 02:05:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,998 (100.0%) of 35,999 articles have been extended.
+35,999 (100.0%) of 35,999 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,21 +60,27 @@ Following a clash between students and police last Tuesday, universities have be
 
 ---
 
-### தேர்தலுக்கு நிதியை தாமதமின்றி விடுவிக்க ஒப்புதல்
+### Approval to release funds for election
 
 *2024-07-18 23:22:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்கு-நிதியை-தாமதமின்றி-விடுவிக்க-ஒப்புதல்/175-340662) · `ta`
 
-ஜனாதிபதி தேர்தலுக்காக ஒதுக்கப்பட்ட 10 பில்லியன் ரூபாய் நிதியை தேர்தல்கள் ஆணைக்குழுவின் தேவைக்கேற்ப தாமதமின்றி வழங்குவதாக நிதியமைச்சின் செயலாளர் உறுதியளித்துள்ளார்.
+The Finance Ministry has pledged Rs 10 billion for the presidential election, ensuring no delays as per the Election Commission's requirements. The commitment was discussed between the Ministry of Finance and the Elections Commission. The Minister of State for Finance confirmed the government's readiness to fund the election, including postal services, printing, and safety measures, with strict financial management in place.
 
-நிதி அமைச்சின் செயலாளர் மற்றும் தேர்தல்கள் ஆணைக்குழு இடையில் நடைபெற்ற பேச்சுவார்த்தையில் இந்த உறுதிமொழி வழங்கப்பட்டுள்ளது.
+🟩
 
-அரசாங்கம் கடுமையான நிதி முகாமைத்துவத்துடன் செயற்படுவதால் குறித்த நிதியை வழங்குவதில் எவ்வித தடையும் இல்லை என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டி தெரிவித்துள்ளார்.
+The Secretary of the Finance Ministry has promised to provide Rs 10 billion allocated for the presidential election without delay in the requirements of the Election Commission.
 
-தபால் சேவைகள், அச்சிடும் பணிகள் மற்றும் பாதுகாப்பிற்கான செலவுகளை வழங்க தயாராக உள்ளதாகவும் நிதி இராஜாங்க அமைச்சர் மேலும் கூறியுள்ளார்.
+The pledge was made in talks between the Secretary of the Ministry of Finance and the Elections Commission.
+
+Minister of State for Finance Ranjith Siyambalapitiya said there was no obstacle to the funding of the government as the government is working with strict financial management.
+
+The Minister of Finance added that the postal services, printing work and safety costs are ready.
 
 ◼️
 
 [Data](articles/a48d58bf.json)
+
+[Extended Data](ext_articles/a48d58bf.ext.json)
 
 ---
 

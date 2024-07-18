@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 13:54:53**
+As of **2024-07-18 14:07:16**
 
 ## Newspaper Stats
 
-*Scraped **35,905** Articles*
+*Scraped **35,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,123 @@ islandlk | 2,040
 economynextcom | 2,142
 dailyftlk | 2,279
 adalk | 3,243
-adaderanalk | 4,140
+adaderanalk | 4,142
 tamilmirrorlk | 4,352
 dailymirrorlk | 4,733
 virakesarilk | 5,601
-adaderanasinhalalk | 6,005
+adaderanasinhalalk | 6,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,899 (100.0%) of 35,905 articles have been extended.
+35,905 (100.0%) of 35,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### කොහේ හිටියත් අල්ලනවා -පොලිස් ඇමති
+### බංග්ලාදේශය යුද පිටියක් වෙයි - අන්තර්ජාලයටත් බාධා
 
-*2024-07-18 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198945) · `si`
+*2024-07-18 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198947) · `si`
 
-රටේ විවිධ ස්ථානවල සිදුවන වෙඩිතැබීමේ සිද්ධිවලට හේතුව යුද සමයෙන් පසුව ගිනිඅවි තවමත් සමාජයේ සංසරණය වීම බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+බංග්ලාදේශයේ විශ්වවිද්‍යාල සිසුන් විසින් ආරම්භකර ඇති විරෝධතා ව්‍යාපාරය හේතුවෙන් රට තුළ ගැටුම්කාරී වාතාවරණයක් ඇති වී තිබෙන බව විදෙස් මාධ්‍ය පවසයි.
 
-ඔහු මේ බව සඳහන් කළේ, මහජන ආරක්ෂක අමාත්‍යාංශ පරිශ්‍රයේ අද (18) පෙරවරුවේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+පොලීසිය විසින් විරෝධතාකරුවන් පාලනය සඳහා කඳුළු ගෑස් ප්‍රහාර එල්ලකර ඇති අතර එසේම කටකතා පැතිරීම වැලැක්වීම සඳහා ජංගම දුරකථන සඳහා අන්තරජාල පහසුකම් අත්හිටුවීමට ද පියවෙර ගෙන තිබුණි.
 
-"දැන් ඊයේ පෙරේදා කට්ටිය කිව්වා මොනවා කිව්වත් දෙයක් වෙලා නෑ කියලා. මොනවා කරත් කිසිම දෙයක් නොවුණ විදියට තමා කතා කරන්නේ. මම මාධ්‍යයෙන් ඉල්ලා සිටිනවා. යන්න ගමින් ගමට යන්න. නගරයෙන් නගරයට යන්න. ගිහින් අහන්න මහජනතාවගෙන් ඉස්සර වගේම කුඩු තියෙනවා ද? ඉස්සර වගේම පාතාලේ ක්‍රියාත්මක වෙනවා ද? එතකොට හරි තත්ත්වය බලාගන්න පුළුවන්. මම කියන්නේ කුඩු විකුණන අයට සහ පාතාලේ අයට අපි තිබුණටත් වඩා තදින් ඉදිරියට ක්‍රියා කරනවා. පොලීසියත් STF එකත් මොවුන් පසුපස හඹා යනවා. කොහේ හිටියත් අල්ලනවා.
+නිදහස් සටන සඳහා එක්වූ පවුල්වල දරුවන් සඳහා රැකියාවලින් 30%ක් වෙන් කිරීමට රජය ගෙන ඇති තීරණය ඉවත්කර ගන්නා ලෙස ඉල්ලමින් සිසු විරෝධතා පැවැත්වෙයි.
 
-...
+ඇතිවූ ගැටුම් හේතුවෙන් මේ දක්වා 6 දෙනෙක් මියගොස් විශාල ගණනක් තුවාල ලබා තිබේ.
 
-[Data](articles/f53720db.json)
+◼️
+
+[Data](articles/7e750475.json)
 
 ---
 
-### கணிதம் கற்பித்த ஆசிரியர் இடைநீக்கம்
+### Suspect arrested over shooting and killing of former cricketer
+
+*2024-07-18 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100598/suspect-arrested-over-shooting-and-killing-of-former-cricketer) · `en`
+
+Minister of Public Security Tiran Alles says that one suspect in connection with the murder of former captain of Sri Lanka’s Under-19 cricket team Dhammika Niroshana has been arrested.
+
+Dhammika Niroshana, also known as ‘Jonty’ was shot dead on Tuesday night (16) in front of his house at Kande Mawatha in Bogahawatte, Ambalangoda.
+
+Niroshana was shot by an assailant who was armed with a 12-bore rifle, while he had been shot in the head killing him instantly.
+
+Niroshana, a 41-year-old father of two, had captained the Sri Lanka Under-19 cricket team in 2002.
+
+He had been living overseas for a period before returning to the country and was reportedly planning to travel abroad once again.
+
+◼️
+
+[Data](articles/fb1b7809.json)
+
+---
+
+### පපුවේ ගිනි නිවුණ හැටි
+
+*2024-07-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198946) · `si`
+
+රත්නපුර ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරියේ මේසයක් මත දමා ගොස් තිබූ රුපියල් ලක්ෂයක මුදලක් හිමිකාරියට බාරදීමට ආරක්ෂක නිලධාරීයා ඇතුළු නිලධාරීන් ක්‍රියාකරනු ලැබීය.
+
+බලපත්‍රයක් අලුත් කිරීම සඳහා ඉඩමක් උගස් කර ලබාගත් මුදල් රැගෙන පැමිණ ඇති අදාළ හිමිකාරිය සිදුවු අකරතැබ්බය ගැන මෙලෙස පැවසීය.
+
+"මම දන්නේ නෑ කොහොම වැටුණ ද කියලා. මම ගිනි අරන් හිටියේ. මට පෙෂර් එකත් තියෙනවා. ඒක ලැබුණා මට මේ සංස්ථාවේ ඉන්න සර්ලාගේ හොඳකම නිසා. මේ අයට දීර්ඝ ආයුෂ ලැබෙන්න කියලා මම ප්‍රාර්ථනා කරනවා."
+
+◼️
+
+[Data](articles/3d10086c.json)
+
+---
+
+### Catch in where to be caught - Police Minister
+
+*2024-07-18 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198945) · `si`
+
+Public Defense Minister Tiran Alles highlighted the ongoing issue of firearms circulation post-war, contributing to recent shooting incidents across Sri Lanka. He urged the public to report any suspicious activities, emphasizing the government's commitment to addressing drug dealers and those undermining law enforcement. Recent arrests in Athurugiriya, Embilipitiya, and Ambalangoda were mentioned as part of ongoing efforts to curb violence.
+
+🟩
+
+According to the Public Defense Minister Tiran Alles, the firearms are still circulating in society after the war period due to the shooting incidents in various places in the country.
+
+He was speaking at a press conference held at the Public Defense Ministry premises this morning.
+
+"Now yesterday yesterday said what to say. What does it do, he is talking to. I call on the medium. Go to the village. Go to the city of town. Go to ask the public and there's a smash?Likewise, is it in the past?Then you can take care of the right situation. I mean, those who sell drugs and those who have wet to undermine. The police and STF pursue. Getting touch wherever they are.
+
+We have arrested many to be arrested in Athurugiriya incident. I think there's more. The shooting of the Embilipitiya was arrested and the rior. Ambalangoda shooting yesterday was arrested. The incident cannot stop the incident after the LTTE war. "
+
+◼️
+
+[Data](articles/f53720db.json)
+
+[Extended Data](ext_articles/f53720db.ext.json)
+
+---
+
+### The teacher suspension of math
 
 *2024-07-18 13:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/கணிதம்-கற்பித்த-ஆசிரியர்-இடைநீக்கம்/94-340621) · `ta`
 
-பாடசாலைக்கு சமுகமளிக்காது,  உயர்தர வகுப்பு மாணவர் குழுவிற்கு பணத்துக்காக பிரத்தியேக வகுப்பை நடத்தினார் என்றக் குற்றச்சாட்டிலேயே அந்த ஆசிரியரை இடைநீக்கம் செய்துள்ளதாக வடமத்திய மாகாணக் கல்விப் பணிப்பாளர்   எஸ்.எம்.டபிள்யூ. சமரக்கோன் தெரிவித்தார்.  இடைநீக்கம் செய்யப்பட்ட ஆசிரியர், அநுராதபுரம் பாடசாலையொன்றில் கற்பிப்பவர் என்பது தெரியவந்துள்ளது.
+A teacher was suspended by the North Central Provincial Director of Education SMW for conducting private classes for high school students during school hours, despite taking a 26-day leave unacknowledged. The director confirmed the suspension after inspecting the school where the teacher allegedly taught an exclusive class.
 
-இந்த ஆசிரியர்,  பாடசாலை நேரங்களில் மாணவர்களுக்கு பிரத்தியேக வகுப்புகளில் பணத்திற்காக கற்பிப்பதாக பெற்றோர்கள் குழுவொன்று மாகாண கல்விப் பணிப்பாளரிடம் முறைப்பாடு செய்திருந்தது.
+🟩
 
-அந்த முறைப்பாட்டின் பேரில், மாகாணக் கல்விப் பணிப்பாளர், ஏனைய பணியாளர்கள் குழுவுடன் இணைந்து பாடசாலையை ஆய்வு செய்த போது, ​​இந்த ஆசிரியர், பாடசாலைக்குச் சென்று, ஆசிரியர்களின் வருகைப் பதிவேட்டில் கையொப்பமிட்டு, பாடசாலைக்கு வெளியே சென்று பிரத்தியேக வகுப்பில் மாணவர்களுக்கு கற்பித்ததைக் கண்டுபிடித்தனர்.
+The North Central Provincial Director of Education SMW has suspended the teacher on charges of conducting a special class for the high school student group for money.. Samarakoon said.  இடைநீக்கம் செய்யப்பட்ட ஆசிரியர், அநுராதபுரம் பாடசாலையொன்றில் கற்பிப்பவர் என்பது தெரியவந்துள்ளது.
 
-இவ்வருடத்தில் இதுவரையிலும்  எவ்வித அதிகார சபையின் அங்கீகாரமும் இன்றி இந்த ஆசிரியர் 26 நாட்கள் விடுமுறை எடுத்துள்ளதாகவும் மாகாண கல்விப் பணிப்பாளர் தெரிவித்தார்.
+The teacher has lodged a complaint with the Provincial Director of Education that the teacher is teaching students for money in schools during school hours.
 
-...
+According to the complaint, when the Provincial Director of Education, along with the other staff team, inspected the school, the teacher went to school, signed the teachers' attendance registration and went out to school and taught students in the exclusive class.
+
+The teacher has taken a 26 -day holiday without any recognition of the Authority this year, the Provincial Director of Education said.
+
+Accordingly, the Teacher of the Provincial Director of Education SMW. Samarakoon had suspended the work on Wednesday (17).
+
+◼️
 
 [Data](articles/7d5068cb.json)
+
+[Extended Data](ext_articles/7d5068cb.ext.json)
 
 ---
 
@@ -84,23 +154,31 @@ NPP leader Anura Kumara Dissanayake must add 6,550,000 votes to his base, from t
 
 [Data](articles/65b22a80.json)
 
+[Extended Data](ext_articles/65b22a80.ext.json)
+
 ---
 
-### කතරගම පෙරහරේ ලස්සන බලන්න ඇවිත් කතරගම අවලස්සන කරලා
+### Keep on Kataragama Perahera and commemorate Kataragama
 
 *2024-07-18 12:34:36* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-පෙරහරේ-ලස්සන-බලන්න-ඇවිත්-කතරගම-අවලස්සන-කරලා/11-410847) · `si`
 
-ඓතිහාසික රුහුණු මහා කතරගම දේවාලයේ ඇසළ මංගල්‍යයට  පැමිණි බැතිමතුන්  විසින්  පරිසරයට  හානි කර වු ද්‍රව්‍ය  විශාල ලෙස  මුදා හැර තිබේ .
+During the Kataragama Perahera, devotees cleaned the Ruhuna Maha Kataragama Devalaya, led by the Daragama Nature Society. This initiative aims to maintain environmental cleanliness, despite the noise from the procession. The event was organized by Dissanayake, who also heads the nature conservation efforts, releasing 7,000 crabs into the wild.
 
-කතරගම  සොබා  පරිසර තුරැණු සමාජයේ  ප්‍රධානි  අනුර දිසානායක  මහතා සදහන් කලේ  ප්ලාස්ටික්  බෝතල්  සහ පොලතින් ක්‍රිලෝ 2500 ක් පමණ  පසුගිය 06 වැනි දින සිට පුජා භුමියේ  තිබි එකතු  කල බවයි .
+🟩
 
-පරිසරය   පිරිසිදු  තබා  ගන්නා  ලෙස දැක්විම්. සහ  ශබ්ද විකාශන  තුලින්  බැතිමතුන්  දැණුවත්  කල ද එම  ක්‍රියා  බීරි අලින්ට  විිනා ගැසු පරිදි  විි ඇත.
+Devotees at the Historic Ruhuna Maha Kataragama Devalaya have released the huge exclusive substances to the environment.
 
-පසුව  වසරේ  දිි  ප්ලාස්ටික්  සහ ඉටු කෙළ වැනි ද්‍රව්‍ය ක්‍රිලේ 7000 ක් පවන පරිසරයට  මුදා හැර තිබු  බව සොබා පරිසර තුරැණු  සමාජයේ ප්‍රධානි  අනුව  දිසානායක  මහතා සදහන් කරන ලදිි .
+He was headed by the head of nature, Daragama nature society.
+
+It is likely to keep the environment clean. And even though the demonstrators are informed by louds, the actions of Beer elephants have been accustomed to.
+
+Dissanayake made the head of the nature of the nature that 7000 Cricy, which was later released in the year.
 
 ◼️
 
 [Data](articles/a2ece1b1.json)
+
+[Extended Data](ext_articles/a2ece1b1.ext.json)
 
 ---
 
@@ -126,19 +204,25 @@ Against this backdrop, Janatha Vimukthi Peramuna (JVP) Parliamentarian Vijitha H
 
 ---
 
-### உலக பாரம்பரியமானது மகாவம்சம்
+### The World Heritage is the Mahavamsa
 
 *2024-07-18 12:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பாரம்பரியமானது-மகாவம்சம்/175-340616) · `ta`
 
-பேராதனைப் பல்கலைக்கழக நூலகத்தில் உள்ள இலங்கையின் வரலாற்றின் முக்கிய ஆதாரமான மகாவன்ச வரலாற்று நூல்கள் அடங்கிய தொகுப்பு உலக பாரம்பரியச் சின்னமாக நேற்று அறிவிக்கப்பட்டது.
+The Mahavamsa historical books, crucial for understanding Sri Lanka's history, were recently declared a UNESCO World Heritage site. This significant recognition came under the leadership of Professor GH Peiris from Peradeniya University. The event also saw the presentation of a souvenir to the UNESCO Director General by Deputy Chancellor Professor MD Lamawansa.
 
-யுனெஸ்கோ பணிப்பாளர் நாயகத்தினால் மகாவன்சத்தை உலக மரபுரிமைச் சின்னமாக பிரகடனப்படுத்துவதற்கான சான்றிதழ் பேராதனைப் பல்கலைக்கழகத்தின் வேந்தர் பேராசிரியர் ஜி.எச்.பீரிஸிடம் கையளிக்கப்பட்டது.
+🟩
 
-அத்துடன், பல்கலைக்கழகத்துகு்கு விஜயம் செய்ததைக் குறிக்கும் வகையில் பிரதி வேந்தர் பேராசிரியர் எம்.டி.லமவன்ச, பணிப்பாளர் நாயகத்திற்கு நினைவுச் சின்னம் ஒன்றை வழங்கினார்.
+A collection of Mahavansa Historical Books, the main source of the history of Sri Lanka in the Peradeniya University Library, was declared a World Heritage Site yesterday.
+
+The UNESCO Director General has been handed over to Professor GH Peiris, Professor of the University of Peradeniya, to declare Mahawasan as a World Heritage Sort of World.
+
+In addition, Deputy Chancellor Professor MD Lamawansa presented a souvenir to the Director General of the University.
 
 ◼️
 
 [Data](articles/196034d4.json)
+
+[Extended Data](ext_articles/196034d4.ext.json)
 
 ---
 
@@ -282,6 +366,8 @@ Last year, Sri Lanka’s cabinet of ministers approved discussions with Indonesi
 
 [Data](articles/76efcb60.json)
 
+[Extended Data](ext_articles/76efcb60.ext.json)
+
 ---
 
 ### Bail
@@ -329,6 +415,22 @@ Sri Lankan origin, Fonseka, scored 76 runs for England.
 [Data](articles/1e1a5ea8.json)
 
 [Extended Data](ext_articles/1e1a5ea8.ext.json)
+
+---
+
+### Gnanasara Thero granted bail after appealing defamation sentence
+
+*2024-07-18 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100594/gnanasara-thero-granted-bail-after-appealing-defamation-sentence) · `en`
+
+The Court of Appeal has granted bail for Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who had been sentenced to four years of rigorous imprisonment for making defamatory comments on Islam at Kuragala, until the hearing of the revision petition filed by him.
+
+This order was issued when the revision petition filed by Ven. Galagodaaththe Gnanasara Thero was taken up for consideration this morning (18).
+
+On March 28, 2024, the Colombo High Court sentenced Gnanasara Thero to four years of rigorous imprisonment while imposing a fine of Rs. 100,000, over the defamatory comments made against Islam during a 2016 media briefing convened on the Kuragala Buddhist monastery, causing damage to national and religious harmony.
+
+...
+
+[Data](articles/1afa72be.json)
 
 ---
 
@@ -2131,95 +2233,5 @@ The Tamil Progressive Alliance (TNA), which has been politically inaugurated by 
 [Data](articles/a10667b8.json)
 
 [Extended Data](ext_articles/a10667b8.ext.json)
-
----
-
-### The plot can not be violated by the knot
-
-*2024-07-17 23:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதி-முடிச்சால்-மீற-முடியாது/175-340582) · `ta`
-
-Sajith Premadasa, leader of the United People's Power, criticized the government for allegedly compromising the nation's democracy and constitution for personal gain. He emphasized the importance of creating intelligent citizens to navigate global competition. At an event in Dimbulagala, he warned against strategies undermining national interests, accusing the current leaders of spreading misinformation and protecting their power at the country's expense. He urged the public not to fall for deceptive tactics aimed at confusing and dividing the nation, reaffirming the inviolability of the constitution.
-
-🟩
-
-Sajith Premadasa, the leader of the United People's Power and the leader of the United People's Power, accused the rulers of being prepared to sell the country, democracy and constitution to maintain their greedy lifestyle.
-
-Community and the world are always competitive. Will always be competitive. He said he should create smart citizens who can handle this.
-
-The event was held on the 16th of July to the Dimbulagala, Aralangwila and Vilaya Primary School of the Universal Information Technology Program.. He said this while attending the event.
-
-Although each transaction is used by the tactic, strategy, intelligence, and knowledge, all these conspiracies are being carried out against the national interests of the country and the people today.. He said that the current rulers are doing everything they can to protect their positions even if the country is degraded, spreading false information, deceiving the people, distracting the observations.
-
-...
-
-[Data](articles/2960c5b5.json)
-
-[Extended Data](ext_articles/2960c5b5.ext.json)
-
----
-
-### Health Minister visit Jaffna Teaching Hospital
-
-*2024-07-17 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188720) · `ta`
-
-Health Minister Ramesh Pathirana led a team to Jaffna Teaching Hospital on Wednesday, touring facilities and donating blood transfusion equipment. Present were Ministry officials, MPs, and hospital director Thangamuthu Sathya Murthy.
-
-🟩
-
-A team of health minister Ramesh Pathirana, including Health Minister Ramesh Pathirana, visited the Jaffna Teaching Hospital on Wednesday (17).
-
-He also visited the hotel surgery and visited the Jaffna Teaching Hospital.
-
-He also provided an equipment for blood transfusions to the Jaffna Teaching Hospital.
-
-The Ministry of Health RD.P.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G. Azala Gunawardena, Members of Parliament of Parliament Angayan Ramanathan, Dharmalingam Sirtharthan and Director of the Jaffna Teaching Hospital Thangamuthu Sathya Murthy Hospital were also present.
-
-◼️
-
-[Data](articles/82b6f22a.json)
-
-[Extended Data](ext_articles/82b6f22a.ext.json)
-
----
-
-### Diana's petition against Saji is removed
-
-*2024-07-17 22:25:34* · [`adalk`](https://www.ada.lk/breaking_news/සජබෙට-එරෙහි-ඩයනාගේ--පෙත්සම-ඉවත්-කර-ගනී/11-410844) · `si`
-
-Diana Gamage withdrew her Supreme Court petition against Saji, which aimed to prevent expulsion from the party under the 20th Amendment to the Constitution. The petition was dismissed after counsel Faizer Mustapha advised withdrawal, citing no need to maintain it.
-
-🟩
-
-The petition filed by the Supreme Court, Diana Gamage, had withdrawn the Supreme Court, who had filed the Supreme Court since the party members of the House, with the members of the House.
-
-The Supreme Supreme Supreme Court permitted to remove a request made by President's Counsel Faizer Mustapha, who was asked to prevent the departure of the party from the constitution and to prevent the petition filed by his client..
-
-The petition was considered by Supreme Court Judge, Gamini Amarasekera and Kumuduni Wickramasinghe and Mahinda Samaya Saoe Development.
-
-UNP General Member of Parliament Ranjith Madduma Bandara, Chairman and Opposition Leader Sajith Premadasa, the Chairman of the Election Commission and the Elections Commission of the Election Commission, the Chairman of the Election Commission, the General Secretary of the Elections Secretary General of the Elections and Elections Commission had been named as respondents..
-
-...
-
-[Data](articles/223f5201.json)
-
-[Extended Data](ext_articles/223f5201.ext.json)
-
----
-
-### Sri Lankans rescue from a ship drowned in Oman
-
-*2024-07-17 22:23:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓமானில்-மூழ்கிய-கப்பலிலிருந்து-இலங்கையரொருவர்-மீட்பு/175-340581) · `ta`
-
-Nine individuals, including a Sri Lankan and eight Indians, were rescued from a sinking ship off Oman's coast on Monday.
-
-🟩
-
-A Sri Lankan and eight Indians have been rescued and one person has been rescued from a life -saving boat of the Bulkon Ship on Monday (15) in Oman.
-
-◼️
-
-[Data](articles/6e4697b7.json)
-
-[Extended Data](ext_articles/6e4697b7.ext.json)
 
 ---

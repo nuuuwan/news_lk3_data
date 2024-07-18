@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 21:35:42**
+As of **2024-07-18 21:54:59**
 
 ## Newspaper Stats
 
-*Scraped **35,982** Articles*
+*Scraped **35,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,109 @@ adaderanalk | 4,151
 tamilmirrorlk | 4,366
 dailymirrorlk | 4,733
 virakesarilk | 5,613
-adaderanasinhalalk | 6,021
+adaderanasinhalalk | 6,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,980 (100.0%) of 35,982 articles have been extended.
+35,982 (100.0%) of 35,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### අරාබි මුහුදේ පෙරළුණු නෞකාවේ අභිරහස
+### චීනයේ අලුත්ම ප්‍රතිසංස්කරණ යෝජනාව
+
+*2024-07-18 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198965) · `si`
+
+චීන කොමියුනිස්ට් පක්ෂයේ 20 වැනි මධ්‍යම කාරක සභාවේ 3 වැනි පූර්ණ සැසිය පසුගිය 15 වනදා ආරම්භ වූ  අතර  එය අද (18) අවසන් විය.
+
+එම සැසිය පැවැත්වුණේ චීන ජනාධිපති ෂී ජින් පිං මහතාගේ ප්‍රධානත්වයෙනි.
+
+මෙහි දී චීන මාදිලියේ නවීකරණය අඛණ්ඩව ඉදිරියට ගෙන යාම සඳහා ප්‍රතිසංස්කරණ තවදුරටත් පුළුල් කිරීම පිළිබඳ යෝජනාව සම්මත කිරීම විශේෂත්වයකි.
+
+මේ අයුරින් චීනය ප්‍රතිසංස්කරණ තවදුරටත් පුළුල් කිරීමේ මූලික අරමුණු වන්නේ චීන ලක්ෂණ සහිත සමාජවාදය අඛණ්ඩව වැඩිදියුණු කිරීම බව වාර්තා වේ.
+
+2035 වර්ෂය වනවිට සෑම ආකාරයෙන්ම උසස් ගුණාත්මකභාවයෙන් යුත් සමාජවාදී වෙළේඳපොළ ආර්ථිකයක් ගොඩනැඟීම චීනයේ අරමුණ බව ද මෙහිදී සඳහන් විය.
+
+මෙහිදී ඉදිරිපත් කළ යෝජනාවේ දක්වා ඇති ප්‍රතිසංස්කරණ සැලසුම් 2029 වසරේ දී මහජන චීන සමූහාණ්ඩුව 80 වැනි සංවත්සරය සමරන අවස්ථාව වන විට සම්පූර්ණ කළ යුතු බව ද මෙහිදී  සඳහන් වූ බව චීන මාධ්‍ය සමූහය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/7308eab9.json)
+
+---
+
+### ශ්‍රී ලංකාවට එන ප්‍රබල ඉන්දීය කණ්ඩායම් - නායකත්වයේ වෙනසකුත්
+
+*2024-07-18 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198964) · `si`
+
+ශ්‍රී ලංකාව සමග එක්දින සහ T20 ක්‍රිකට් තරගාවලි සඳහා සහභාගීවන ඉන්දිය සංචිත නම් කර තිබේ.
+
+◼️
+
+[Data](articles/a7e9b598.json)
+
+---
+
+### The mystery of the flipped vessel of the Arabian Sea
 
 *2024-07-18 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198963) · `si`
 
-අරාබි මුහුදේදී අනතුරට ලක්වූ ප්‍රෙස්ටීජ් ෆැල්කන් නෞකාවේ සිටි 9 දෙනෙකු ආරක්ෂිතව මුදාගැනීමට ඉන්දීය නාවික හමුදාව සමත්වී තිබුණි.
+The Indian Navy rescued nine individuals from the Arabian Sea, including a Sri Lankan national, Kugainan Mahasana, the second officer of a crashed vessel. The Sri Lankan embassy in Oman acknowledged the rescue. One body has been retrieved, but the fate of others remains unknown due to severe weather conditions. The Prestige Falcon, a fuel carrier, faced danger near Oman's Loukend Port during its voyage from Dubai to Yemen, with all 16 crew members unaccounted for.
 
-මුදාගත් පිරිස අතරින් අයෙක් ශ්‍රී ලාංකිකයෙක් වන අතර ඔහු අනතුරට ලක්වූ නෞකාවේ දෙවැනි නිලධාරී කුගනේසන් මහේසදාසන් ලෙස මේ වන විට හඳුනාගෙන තිබේ.
+🟩
 
-මේ සිද්ධිය සම්බන්ධයෙන් අද දෙරණ කළ විමසීමකදී  ඕමානයේ ශ්‍රී ලංකා තානාපති කාර්යාල සඳහන් කළේ, මුදාගත් ශ්‍රී ලංකිකයා ඩියුකම් හි රෝහලකට ඇතුළත් කර ඇති බවය.
+The Indian Navy had recovered nine persons in the Arabian Sea.
 
-ඔහු යහපත් සෞඛ්‍ය තත්ත්වයෙන් පසුවන අතර සෙසු පිරිස පිළිබඳ මෙතෙක් තොරතුරු වාර්තා වී නැතැයි ඕමානයේ ශ්‍රී ලංකා තානාපති කාර්යාල සඳහන් කරයි.
+One of the rescued is a Sri Lankan and he has identified as Kugainan Mahasana, the second officer of the crash.
 
-එමෙන්ම අතුරුදන් වූ පිරිසෙන් තවත් අයෙකුගේ මළ සිරුරක් ද සොයා ගෙන ඇති අතර ඔහුගේ අනන්‍යතාව මෙතෙක් අනාවරණ වී නොමැත.
+In response to this incident, Sri Lankan embassies in Oman have admitted the liberated Sri Lankan duty at a duty.
 
-ඉන්දීය මාධ්‍ය අද වාර්තා කළේ,  තවදුරටත් සිදුකෙරෙන මෙහෙයුම් සඳහා අරාබි මුහුද ආශ්‍රිතව පවතින රළු මුහුද සහ අධික සුළඟේ වේගය ඇතුළු අයහපත් කාලගුණය දැඩි බලපෑම් එල්ල කර ඇති බවය.
+He says that he is in good health and the rest of the people have not yet been reported.
 
-නෞකාවේ කපිතාන් වෛතියකුමාර්ගේ ඥාතීන් ඊයේ (17) රාත්‍රීයේ බම්බලපිටිය පොලීසියට පැමිණිල්ලක්ද සිදුකර තිබුණි.
+The body of another was found in the missing persons and his identity has been revealed.
+
+Indian media reports today that the inclement weather, including the speedy sea and the speed of the Arabian sea, has been severely affected.
+
+The relatives of the captain of the ship's captain hatitude had lodged a complaint with the Bambalapitiya Police last night.
+
+In response to Ada Derana, the captain's daughter said that a person responds to a stranger to father's phone.
+
+The fuel carrier named Prestige Falcon, who sailed under the Corocess Falgon, is in danger at 10 pm on the 15th.
 
 ...
 
 [Data](articles/6a58f3d2.json)
 
+[Extended Data](ext_articles/6a58f3d2.ext.json)
+
 ---
 
-### 4 வயதுச் சிறுமி கொலை செய்யப்பட்டது உறுதியானது
+### The 4 -year -old girl was assassinated
 
 *2024-07-18 21:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-வயதுச்-சிறுமி-கொலை-செய்யப்பட்டது-உறுதியானது/175-340646) · `ta`
 
-கேகாலை - ருவன்வெல்ல பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் கிணற்றில் இருந்து சடலமாக கண்டெடுக்கப்பட்ட 4 வயதுச் சிறுமி கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A tragic event occurred when a 4-year-old girl was found dead in a well in the Kegalle-Ruwanwella region. The initial investigation suggests she was pushed into the well by her mother, who is disabled and hospitalized. The parents are receiving police protection. Further inquiries are ongoing.
 
-கடந்த செவ்வாய்கிழமை இரவு 11.17 இற்கும் காலை 5.30 இற்கும் இடையில் யட்டியந்தோட்டை பிரதேசத்தில் நான்கு வயது சிறுமி ஒருவர் கிணற்றில் விழுந்து உயிரிழந்தார்.
+🟩
 
-குறித்த சிறுமியை கிணற்றில் வீசி தாய் கொலை செய்துள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+A 4 -year -old girl who was found dead from a well in the Kegalle -Ruwanwella police division has been murdered, police said.
 
-உயிரிழந்த சிறுமியின் தாய் மற்றும் தந்தை பேச்சு குறைபாடுள்ளனர் என்பதுடன், தாய் சுகயீனம் காரணமாக கரவனெல்ல வைத்தியசாலையில் பொலிஸ் பாதுகாப்பில் சிகிச்சை பெற்று வருகின்றார்.
+A four -year -old girl died in a well in Yattiyantota area between 11.17 and 5.30 am last Tuesday night.
 
-சிறுமியின் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை ருவன்வெல்ல பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+Initial investigations by the police revealed that the mother had been killed by the girl by throwing her into the well.
+
+The mother and father of the deceased girl is in disabilities and is being treated for police protection at the Karawanella Hospital due to her mother's illness.
+
+The girl's body has been handed over to relatives and further investigations into the incident are being carried out by Ruwanwella Police.. Remble
 
 ◼️
 
 [Data](articles/0df1c876.json)
+
+[Extended Data](ext_articles/0df1c876.ext.json)
 
 ---
 
@@ -2277,47 +2327,5 @@ Many of which have been trapped. 30 of them have been safely rescued. However, t
 [Data](articles/45029620.json)
 
 [Extended Data](ext_articles/45029620.ext.json)
-
----
-
-### Sri Lanka NITF ‘BBB(lka)’ confirmed by Fitch, re-insurance gap flagged
-
-*2024-07-18 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-nitf-bbblka-confirmed-by-fitch-re-insurance-gap-flagged-172723/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has confirmed a ‘BBB(lka)’ insurer rating of Sri Lanka’s National Insurance Trust Fund, with a stable outlook but warned on its inability to get re-insurance cover on time.
-
-The NITF’s major source of revenue is riots, civil commotion and terrorism (SRCCT) premium it gets from other insurers, where claims were not high.
-
-“NITF’s risk-management practices continue to be weak, as evident from its inability to renew reinsurance contracts on time,…” Fitch said.
-
-“We believe facing unforeseen losses without reinsurance cover could result in heightened volatility for NITF’s capital position and earnings.”
-
-NITF’s retrocession cover had expired in January 2023 and reinsurance cover for SRCCT in July 2023, but firm has not been able to renew them, Fitch said.
-
-Fitch said NITF’s gross premiums would surge in 2024 following a after directive requiring primary insurers to remit 100 percent of motor SRCCT premiums to NITF, up from the previous 12 percent.
-
-...
-
-[Data](articles/9109cc21.json)
-
-[Extended Data](ext_articles/9109cc21.ext.json)
-
----
-
-### Advisory issued for strong winds
-
-*2024-07-18 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100591/advisory-issued-for-strong-winds) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ level advisory for strong winds in Western slopes of the central hills and Northern, North-central and North western provinces and in Trincomalee, Monaragala and Hambanthota districts.
-
-The advisory which is in effect until 05.30 a.m. on Friday (19), warned that strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North- central and North western provinces and in Trincomalee, Monaragala and Hambanthota districts due to the increase of south-west monsoonal wind flow over the island.
-
-Meanwhile, fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island, it added.
-
-◼️
-
-[Data](articles/d16195f0.json)
-
-[Extended Data](ext_articles/d16195f0.ext.json)
 
 ---

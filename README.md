@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 16:20:10**
+As of **2024-07-18 16:35:40**
 
 ## Newspaper Stats
 
-*Scraped **35,936** Articles*
+*Scraped **35,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 2,040
 economynextcom | 2,146
 dailyftlk | 2,281
 adalk | 3,246
-adaderanalk | 4,144
-tamilmirrorlk | 4,357
+adaderanalk | 4,145
+tamilmirrorlk | 4,359
 dailymirrorlk | 4,733
 virakesarilk | 5,607
-adaderanasinhalalk | 6,011
+adaderanasinhalalk | 6,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,934 (100.0%) of 35,936 articles have been extended.
+35,936 (100.0%) of 35,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### டெட்டுவிடம் வாக்குமூலம் : அதிகாரிகளுக்கு தண்டனை வழங்கப்படாது
+
+*2024-07-18 16:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெட்டுவிடம்-வாக்குமூலம்-அதிகாரிகளுக்கு-தண்டனை-வழங்கப்படாது/175-340631) · `ta`
+
+அத்துருகிரியவில் சுட்டு படுகொலைச் செய்யப்பட்ட ‘கிளப் வசந்த’ என்றழைக்கப்படும் வர்த்தகர் சுரேந்திர வசந்த பெரேராவின் படுகொலை தொடர்பில் கைது செய்யப்பட்ட பச்சை குத்தும் நிலையத்தின் உரிமையாளரிடம் ஊடங்களின் முன்னிலையில் வாக்குமூலம் பெற்றார் என குற்றஞ்சாட்டப்பட்டுள்ள பிரதி பொலிஸ்மா அதிபர் உள்ளிட்ட அதிகாரிகளுக்கு எதிராக எவ்விதமான ஒழுக்காற்று நடவடிக்கைகளோ அல்லது விசாரணைகளோ முன்னெடுக்கப்படமாட்டாது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்  தெரிவித்துள்ளார்.
+
+மேல் மாகாண பிரதி பொலிஸ்மா அதிபர் தலைமையிலான குழுவினர்  சந்தேகநபர் ஒருவரை விசாரணை செய்யும் வீடியோ வெளியாகியுள்ளது. இது தொடர்பில் பொலிஸ் உத்தியோகத்தர்களுக்கு  எதிராக நடவடிக்கை எடுக்கப்படுமா என்ற கேள்விக்கு பதிலளித்த அமைச்சர் டிரான் அலஸ்  “இந்த தவறை மீண்டும் செய்யவேண்டாம் என கடுமையாக தான் எச்சரித்துள்ளதாக தெரிவித்துள்ளார்.
+
+அந்த பொலிஸ் உத்தியோகத்தர்களுக்கு எதிராக நடவடிக்கைகளை எடுக்குமாறு பொலிஸ்மா அதிபருக்கு தான்  பணிக்கவில்லை என்றார்.
+
+...
+
+[Data](articles/ea30ca1a.json)
+
+---
+
+### கணித ஆசிரியரால் டியூஷன் தடை
+
+*2024-07-18 16:18:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆசிரியர்களுக்கு-டியூஷன்-தடை/175-340630) · `ta`
+
+வடமத்திய மாகாணத்தில் உள்ள பாடசாலைகளில் கடமையாற்றும் அதிபர்கள், ஆசிரியர் ஆலோசகர்கள் மற்றும் ஆசிரியர்கள், பிரத்தியேக வகுப்புகளில் பணியாற்றுவதை முற்றாக தடை செய்து வடமத்திய தலைமை அமைச்சின் செயலாளர் சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
+
+வடமத்திய மாகாண கல்வி அமைச்சின் செயலாளர் சிறிமேவன் தர்மசேன, மாகாணக் கல்விப் பணிப்பாளர்கள், அனைத்து பிராந்தியப் பணிப்பாளர்கள், கோட்டக் கல்விப் பணிப்பாளர்கள், பாடசாலை அதிபர்கள் ஆகிய அனைவருக்கும் இதனைத் தெரிவித்துள்ளார்.
+
+வடமத்திய மாகாணத்தில் உள்ள பாடசாலைகளில் கடமையாற்றும் சில அதிபர்கள், ஆசிரியர் ஆலோசகர்கள் மற்றும் ஆசிரியர்கள் தமது வகுப்புகள் மற்றும் பாடசாலைகளில் மாணவர்களிடம் பணம் வசூலித்து தனியார் பயிற்சி வகுப்புகள் மற்றும் கருத்தரங்குகளை பாடசாலை நேரத்தில் , பாடசாலை நேரம் முடிந்ததும் அல்லது வார இறுதி நாட்களில் நடத்துவதாக தொடர்ந்து முறைப்பாடுகள் வந்துள்ளன .
+
+...
+
+[Data](articles/e8e3875f.json)
+
+---
+
+### උපකාරක පන්තියකට සහභාගී වන බව පවසා නිවසින් ගිය දරුවන් අතුරුදන්
+
+*2024-07-18 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198953) · `si`
+
+උපකාරක පන්තියකට සහභාගී වන බව පවසා නිවසින් ගිය පාසල් සිසුවියන් තිදෙනෙකු සහ සිසුවෙකු අතුරුදන්වී තිබේ.
+
+තලවකැලේ පොලිස් වසමට අයත් වතුයායක පදිංචි අවුරුදු 16ත් 14ත් අතර වයස්වල පසුවන මොවුන් ඉකුත් 14වනදා සිට අතුරුදන් වී ඇති බව වාර්තා වෙයි.
+
+පාසල් නිමවී නිවසට එම දරුවන් සිව්දෙනා නැවතත් නිවසින් පිටව ගොස් ඇත්තේ බාහිර පන්තියකට සහභාගී වන බව නිවැසියන්ට පවසමිනි.
+
+එසේ පිටව ගිය දරුවන් යළි නිවසට නොපැමිණීම නිසා එම දරුවන්ගේ දෙමව්පියන් විසින් තලවකැලේ පොලීසියට පැමිණිලි කර තිබේ.
+
+අතුරුදන් වී ඇති සිසුවියන් තිදෙනා සහ සිසුවා ඥාති සහෝදර සහෝදරියන් ය.
+
+මෙසේ අතුරුදන් වී ඇත්තේ 11වන ශ්‍රේණියේ අධ්‍යාපනය ලබන 16 හැවිරිදි සිසුවියන් තිදෙනෙකු සහ 09වන ශ්‍රේණියේ අධ්‍යාපනය ලබමින් සිටි 14 හැවිරිදි පාසල් සිසුවෙකි.
+
+◼️
+
+[Data](articles/b55ce607.json)
+
+---
+
+### Fire kills 16 people at shopping mall in southwestern China
+
+*2024-07-18 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100600/-fire-kills-16-people-at-shopping-mall-in-southwestern-china) · `en`
+
+A fire at a shopping mall killed 16 people Wednesday in the southwestern Chinese city of Zigong, state media reported.
+
+Firefighters and rescuers responded to a fire call shortly after 6 p.m. at the 14-story commercial building, and pulled 75 people to safety, according to the official news agency Xinhua.
+
+Rescue efforts were ongoing. It was not immediately known what caused the fire or how many people were in the building when the fire broke out. The building houses a department store, offices, restaurants and a movie theater.
+
+Social media video posts showed clouds of thick black smoke coming out of windows from the building’s lower levels and engulfing the entire 14-story structure as they rose into the sky. Huge flames were visible, and firefighters fought the fire with water sprays. Local media said firefighters also used several drones.
+
+...
+
+[Data](articles/67c482b3.json)
+
+---
 
 ### A fire kills 16 people at a shopping mall in southwestern China
 
@@ -47,6 +119,8 @@ Social media video posts showed clouds of thick black smoke coming out of window
 ...
 
 [Data](articles/d6c71fab.json)
+
+[Extended Data](ext_articles/d6c71fab.ext.json)
 
 ---
 
@@ -464,7 +538,7 @@ Six people were killed and many were wounded due to conflicts.
 
 *2024-07-18 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100598/suspect-arrested-over-shooting-and-killing-of-former-cricketer) · `en`
 
-Minister of Public Security Tiran Alles says that one suspect in connection with the murder of former captain of Sri Lanka’s Under-19 cricket team Dhammika Niroshana has been arrested.
+Minister of Public Security Tiran Alles says that one suspect has been arrested in connection with the murder of former captain of Sri Lanka’s Under-19 cricket team Dhammika Niroshana.
 
 Dhammika Niroshana, also known as ‘Jonty’ was shot dead on Tuesday night (16) in front of his house at Kande Mawatha in Bogahawatte, Ambalangoda.
 
@@ -1550,25 +1624,31 @@ In this case, as the visa period ended, Vijitha, who was ready to depart from th
 
 ---
 
-### කන්ජිපානිට සහ ගනේමුල්ලේ සංජීවට රටින් පැනයෑමට උපකාර කළ නීතිඥයින් ගැන පොලීසිය භාර ඇමති කියයි
+### The police say that the lawyers in charge of the Sanjeewa in Gainmpani and Sanjeewa in Ganemulla speaking
 
 *2024-07-18 09:48:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl5yzz9n1elo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''කුඩු සල්ලිවලින් යැපෙන නීතිඥවරු සෙට් එකක් ඉන්නවා.''
+Police accuse lawyers involved with Sanjeewa cases in Gainmpani and Ganemulla of aiding escapes. Defense Minister Tiran Alles claims these lawyers facilitated the escape of suspects, describing them as being taken from court to boats. The Minister of Public Defense reports recovery of 955 firearms worth 10 billion, attributing crime reduction to justice operations.
 
-කන්ජිපානිට සහ ගනේමුල්ලේ සංජීවට රටින් පැනයෑමට උපකාර කළ නීතිඥයින් ගැන පොලීසිය භාර ඇමති කියයි
+🟩
 
-පොලීසියට අවශ්‍යව සිටින කන්ජිපානි ඉම්රාන් සහ ගනේමුල්ලේ සංජීවට රටින් පැන යෑම සඳහා උපකාර කළේ ඔවුන්ගේ නීතිඥයින් බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් අද (ජූලි 18) කොළඹ පැවති මාධ්‍ය හමුවක දී සඳහන් කළේය.
+Nothing here contains no of the Fource Forest Picture, '' There is a set of lawyers who depend on powdered money. ''
 
-''ඒ නීතිඥවරු තමයි ඒගොල්ලන්ව පැන්නුවේ. උසාවියෙන්ම අරගෙන ගිහින් පැන්නුවේ. දැන් ඒගොල්ලන්ව අපි අත්අඩංගුවට ගත්තහම කතාව හොඳට කියනවා. බාගයක් දුර ගෙනිහිල්ලා තව කාටද භාර දුන්නා. ඒගොල්ලන් ගෙනිහිල්ලා බෝට්ටුවට දැම්මා.'' යනුවෙන් ඔහු පැවසුවේය.
+The police say that the lawyers in charge of the Sanjeewa in Gainmpani and Sanjeewa in Ganemulla speaking
 
-2023 දෙසැම්බර් 17 දින යුක්තිය මෙහෙයුම ආරම්භ කළ දා පටන් රුපියල් බිලියන 19ක් වටිනා මත්ද්‍රව්‍ය පොලීසිය භාරයට ගෙන ඇති බවත්, ගිනිඅවි 955ක් සොයාගෙන ඇති බවත් මහජන ආරක්ෂක අමාත්‍යවරයා කියා සිටියේය.
+The Minister of Defense Tiran Alles said that their lawyers have helped the police to escape the country with the escape of Sanjeemba and Ganemulla.
 
-යුක්තියේ මෙහෙයුම නිසා අපරාධ අඩුවී ඇති අයුරු ඔහු විස්තර කරන ලදී.
+"Those lawyers were on their way. Taken from the courthouse and raised. Now when we arrest them now, the story is good. Half a half took to who else left. They took them into the boat. "He said.
+
+The Minister of Public Defense said that 10 billion of the firearms have been recovered from December 17, 2023, 955 firearms have been recovered.
+
+He described how crimes were diminished by the operation of justice.
 
 ◼️
 
 [Data](articles/0831e317.json)
+
+[Extended Data](ext_articles/0831e317.ext.json)
 
 ---
 
@@ -2205,83 +2285,5 @@ The Interim Secretariat for Truth and Reconciliation Mechanism has conducted sev
 [Data](articles/a8c65fbc.json)
 
 [Extended Data](ext_articles/a8c65fbc.ext.json)
-
----
-
-### Sri Lanka High Commission in London unveils first ever replica of Colombo Port City abroad
-
-*2024-07-18 04:28:09* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-High-Commission-in-London-unveils-first-ever-replica-of-Colombo-Port-City-abroad/34-764422) · `en`
-
-CHEC Port City Colombo Ltd. Assistant Managing Director Eric Ou​
-
-The High Commission of Sri Lanka in London, in collaboration with the Colombo Port City Economic Commission (CPEC) and the CHEC Port City Colombo Ltd., proudly and ceremoniously unveiled a detailed replica of the Colombo Port City on 12 July, showcasing the ambitious and transformative project that is set to redefine Sri Lanka’s economic landscape.
-
-The event was held at the “Gateway to Sri Lanka Lounge” at Sri Lanka High Commission London and graced by a distinguished array of invited guests, underscoring the global significance and potential of the Port City particularly among the investors in the UK as well as the Republic of Ireland.
-
-...
-
-[Data](articles/44c8a952.json)
-
-[Extended Data](ext_articles/44c8a952.ext.json)
-
----
-
-### SriLankan Airlines to continue partnership with Plusgrade Inc. for enhanced bidding services
-
-*2024-07-18 04:24:56* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-to-continue-partnership-with-Plusgrade-Inc-for-enhanced-bidding-services/34-764421) · `en`
-
-The Cabinet of Ministers has approved awarding of the contract to Plusgrade Inc., for a duration of five years, to continue its partnership with the national carrier, SriLankan Airlines Ltd., to provide bidding services and related ancillary services for automatic booking of upper-class seats.
-
-The decision follows a successful international competitive bidding process in which two bids were received.
-
-This approval comes after thorough evaluation by the Technical Evaluation Committee and the Standing Procurement Committee appointed by the Cabinet of Ministers.
-
-The Plusgrade system allows passengers holding economy class tickets to bid for available business class seats, thus offering a chance to upgrade their travel experience. This service not only enhances passenger satisfaction but also increases revenue for the airline by filling unreserved business class seats.
-
-...
-
-[Data](articles/441e8106.json)
-
-[Extended Data](ext_articles/441e8106.ext.json)
-
----
-
-### Govt. amps up funding for Nanu Oya Railway Station modernisation
-
-*2024-07-18 04:24:30* · [`dailyftlk`](https://www.ft.lk/business/Govt-amps-up-funding-for-Nanu-Oya-Railway-Station-modernisation/34-764420) · `en`
-
-The Government has decided to provide additional funding for the Nanu Oya Railway Station modernisation project, which aims to enhance the station’s facilities to boost tourism and improve passenger experiences.
-
-The move follows a previous Cabinet decision made on 3 April 2023. Initially, the project was set to be implemented with a budget of Rs. 74.63 million, funded by the Sri Lanka Tourism Development Authority (SLTDA) and the Sri Lanka Tourism Promotion Bureau (SLTDA).
-
-However, the contract value has now increased to Rs. 101.81 million due to rising costs and expanded project scope.
-
-The proposal for the increased funding was presented by the Tourism and Land Minister Harin Fernando on Monday allowing the Central Engineering Consultancy Bureau (CECB) to complete the modernisation activities.
-
-The additional amount required will be sourced from the SLTDA and the SLTPB based on recommendations from the Department of Railway.
-
-...
-
-[Data](articles/de0427d1.json)
-
-[Extended Data](ext_articles/de0427d1.ext.json)
-
----
-
-### Why can’t that great idea get funded?
-
-*2024-07-18 03:49:15* · [`dailyftlk`](https://www.ft.lk/columns/Why-can-t-that-great-idea-get-funded/4-764405) · `en`
-
-Ultimately, the success of any startup hinges on a strong idea, a capable and resilient team, and the relentless pursuit of excellence
-
-The startup world is founded on daring dreams, fuelled by relentless passion and the fearless pursuit of innovation. Yet, for most, the path to success is obstructed by a crucial obstacle – securingg adequate funding. While headlines celebrate lucrative funding rounds, many would-be founders have quit steady jobs, invested their lifetime savings, and work night and day for a venture that was teetering over before it had a chance to get started, all thanks to lack of funding.
-
-When promising ventures fall short of an investor’s expectations, bridging the funding gap seems near impossible. Here, are some of the major culprits behind fundraising failures.
-
-...
-
-[Data](articles/4b37602d.json)
-
-[Extended Data](ext_articles/4b37602d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 09:20:11**
+As of **2024-07-18 09:35:47**
 
 ## Newspaper Stats
 
@@ -26,53 +26,65 @@ adaderanasinhalalk | 5,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,847 (100.0%) of 35,858 articles have been extended.
+35,853 (100.0%) of 35,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### அடுத்த 24 மணித்தியாலங்கள் குறித்து விடுக்கப்பட்ட எச்சரிக்கை
+### Warning for the next 24 hours
 
 *2024-07-18 09:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணித்தியாலங்கள்-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-340593) · `ta`
 
-சப்ரகமுவ மாகாணம், கண்டி மற்றும் நுவரெலியா மாவட்டங்களில் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதுடன் சில இடங்களில் சுமார் 50 மில்லிமீற்றர் அளவில் பலத்த மழை பெய்யக்கூடும்.
+Heavy rainfall and thunderstorms are expected in Sabaragamuwa, Kandy, Nuwara Eliya, Western, North Western, Galle, and Matara districts over the next 24 hours. Strong winds of 50-60 km/h will affect the Central Highlands' western slopes, Northern, North Central, North Western Provinces, and Trincomalee, Moneragala, and Hambantota districts. The Department of Meteorology advises caution for long-term fishing boats and maritime communities in the Arabian Sea and Bay of Bengal due to intense southwest winds causing sea turbulence. This weather pattern is expected to persist nationwide.
 
-மேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும்.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது 50-60 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+In the Sabaragamuwa Province, Kandy and Nuwara Eliya districts, there is a possibility of periodic rainfall or thundershowers and heavy rainfall in some areas is likely to occur in some places.
 
-மேலும், அரபிக் கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் இயங்கும் நெடுநாள் மீன்பிடி படகுகள் மற்றும் கடல்சார் சமூகத்தினர் மிகுந்த அவதானத்துடன் செயற்பட வேண்டுமென வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
+Rainfall is expected several times in the Western and North Western Provinces and Galle and Matara districts.
 
-தென்மேற்கு பருவநிலை தீவிரமாகியுள்ளதால், அரபிக்கடல் மற்றும் வங்காள விரிகுடாவில் பலத்த காற்று வீசுவதோடு, கடல் கொந்தளிப்பாகவும் காணப்படக்கூடும்.
+Strong winds are likely to blow at speeds of 50-60 km from time to time in the western slopes of the Central Highlands, the Northern, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts.
 
-இதற்கிடையில், தென்மேற்கு பருவ நிலையால், நாடு முழுவதும் தற்போதைய காற்றின் நிலை தொடரும் என எதிர்பார்க்கப்படுகிறது. R
+In addition, the Department of Meteorology has advised that long -term fishing boats and maritime community operate on the Arabian Sea and Bay of Bengal.
+
+As the southwest climate is intensifying, strong winds in the Arabian Sea and the Bay of Bengal can be seen as sea turbulence.
+
+Meanwhile, due to the southwest season, the current wind condition is expected to continue across the country. Remble
 
 ◼️
 
 [Data](articles/aa0e8ef8.json)
 
+[Extended Data](ext_articles/aa0e8ef8.ext.json)
+
 ---
 
-### පුංචි දෙව්මිගේ මරණයේ සුලමුල හෙළිවෙයි
+### Punchi Demony's death revealed
 
 *2024-07-18 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198935) · `si`
 
-රුවන්වැල්ල පොලිස් වසමේ යටියන්තොට ප්‍රදේශයේ මිය ගිය සිව් හැවිරිදි දැරිය ඇයගේ මව විසින් ළිඳට දමා ඝාතනය කර ඇතැයි අනාවරය වී තිබේ.
+In Yatiyantota, a four-year-old girl named Amaya was tragically killed by her mother, who then threw herself into a well. The incident occurred on the evening of the 16th, and the mother, identified as mute, is now under police protection due to her illness.
 
-පොලීසිය පැවසුවේ, ඊයේ (17) දින එම දැරිය පදිංචි ප්‍රදේශයේ ළිඳකට වැටී මිය ගොස් ඇතැයි රුවන්වැල්ල පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කළ බවය.
+🟩
 
-මියගිය දැරිය අවුරුදු 4යි මාස 10ක් වයසැති කිරිපෝරුව වත්ත, යටියන්තොට ප්‍රදේශයේ පදිංචි දෙව්මි අමායා නමැති පුංචි දියණියකි.
+The four-year-old girl who had died of her mother was killed by her mother in the Yatiyantota area in Ruwanwella Police Division.
 
-එම ඛේදවාචකය සිදුව ඇත්තේ පසුගිය 16 වනදා රාත්‍රී 11ත් පසුදින අලුයම 5.30ත් කාලයේ සිදුව ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+Police said that the girl had commenced investigations on a well-known area in the area of ​​the area yesterday (17).
 
-පොලීසිය සිදුකළ පරීක්ෂණවලදී අනාවරණය වී ඇත්තේ දැරියගේ මව විසින් දැරිය ළිඳට දමා ඝාතනය කර ඇති බවය.
+The deceased is a small daughter named Amaya, a resident of Yatiyantota, Yatiyantota area.
 
-මියගිය දැරියගේ මව ගොළු කාන්තාවක් වන අතර, ඇය අසනීප තත්ත්වයෙන් පසුවූ බැවින් කරවනැල්ල රෝහලේ පොලිස් ආරක්ෂාව යටතේ ප්‍රතිකාර ලබමින් සිටී.
+It has been revealed that the tragedy had taken place at 5.30 pm on the 16th of the next day.
+
+Investigations carried out by the police have revealed that the girl's mother had been thrown into well.
+
+The mother of the deceased girl is a dumb woman and is being treated under police protection as she was ill.
 
 ◼️
 
 [Data](articles/23a79682.json)
+
+[Extended Data](ext_articles/23a79682.ext.json)
 
 ---
 
@@ -98,17 +110,23 @@ We all know the economic and political destruction of the country after 2020. No
 
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රීවරයෙක්ගේ  ජීප් රථයක් අනතුරකට ලක්වෙයි
+### Member of Parliament in connection with a jeep
 
 *2024-07-18 08:45:33* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රීවරයෙක්ගේ--ජීප්-රථයක්-අනතුරකට-ලක්වෙයි/11-410846) · `si`
 
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා ගමන් ගත් සුඛෝපභෝගී ජීප් රථය ජාවත්ත මාර්ගයේ සළුසල අසලදී මෝටර් රථයක් එකිනෙක ගැටීමෙන් අනතුරකට ලක් ව දෙදෙනෙකු තුවාල ලබා ඇති බව පොලිසිය පවසයි.
+MP Tissa Attanayake, traveling in a luxury jeep, was involved in a car accident near Salusala. The driver and passenger were injured and hospitalized in Narahenpita.
 
-තුවාල ලැබූවන් අතර මෝටර් රථයේ රියදුරු සහ මගියෙකු ද වන බවත් ඔවුන්  නාරහේන්පිට ප්‍රදේශයේ පෞද්ගලික රෝහලකට ඇතුළත් කර ඇති බවත් පොලීසිය පවසයි.
+🟩
+
+The luxury jeep who was traveling by MP Tissa Attanayake in the Samagi Tissa Tissa Attanayake was injured in a car accident near the Salusala near the Salusala area near the Salusala.
+
+The injured were the driver and passenger of the car and was admitted to a private hospital in Narahenpita.
 
 ◼️
 
 [Data](articles/ee94749a.json)
+
+[Extended Data](ext_articles/ee94749a.ext.json)
 
 ---
 
@@ -576,6 +594,8 @@ This is my final response to Gerald L. Samaranayake (my time is precious), who k
 
 [Data](articles/d0111283.json)
 
+[Extended Data](ext_articles/d0111283.ext.json)
+
 ---
 
 ### What will it take to keep the lights on?
@@ -589,6 +609,8 @@ It’s a succinct answer that embodies much. It can be interpreted as a statemen
 ...
 
 [Data](articles/599e2bb4.json)
+
+[Extended Data](ext_articles/599e2bb4.ext.json)
 
 ---
 
@@ -607,6 +629,8 @@ This article highlights the commercial challenge faced when determining the opti
 ...
 
 [Data](articles/9d86683e.json)
+
+[Extended Data](ext_articles/9d86683e.ext.json)
 
 ---
 

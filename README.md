@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 12:35:40**
+As of **2024-07-18 12:53:51**
 
 ## Newspaper Stats
 
-*Scraped **35,893** Articles*
+*Scraped **35,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,120 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,140
 dailyftlk | 2,279
-adalk | 3,241
-adaderanalk | 4,138
-tamilmirrorlk | 4,348
+adalk | 3,242
+adaderanalk | 4,140
+tamilmirrorlk | 4,350
 dailymirrorlk | 4,733
 virakesarilk | 5,601
-adaderanasinhalalk | 6,003
+adaderanasinhalalk | 6,004
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,892 (100.0%) of 35,893 articles have been extended.
+35,893 (100.0%) of 35,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### திரையரங்கில் அலைபேசியை தடை செய்யுமாறு கோரிக்கை
+### Election Comm. urged to enforce new Election Expenses Act for presidential poll
+
+*2024-07-18 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100596/election-comm-urged-to-enforce-new-election-expenses-act-for-presidential-poll) · `en`
+
+Minister of Justice Wijeyadasa Rajapakshe has notified the Election Commission to enforce the Election Expenses Regulation Act No. 03 of 2023 for the forthcoming presidential election.
+
+Highlighting issues with the current Proportional Representation electoral system, the minister stressed that it has become ineffective in addressing illegal activities, bribery, and extortion during parliamentary elections.
+
+Rajapakshe emphasized that the Election Expenses Regulation Act No. 03 of 2023, introduced with the Election Commission’s full support, aims to transform the election culture and establish the rule of law.
+
+Thus, he has urged the Election Commission to apply this legislation in the upcoming elections.
+
+Against this backdrop, Janatha Vimukthi Peramuna (JVP) Parliamentarian Vijitha Herath asserted that despite the government’s efforts to delay the presidential election, such attempts have been unsuccessful.
+
+...
+
+[Data](articles/d7e63615.json)
+
+---
+
+### உலக பாரம்பரியமாக அறிவிக்கப்பட்ட மகாவம்சம்
+
+*2024-07-18 12:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பாரம்பரியமாக-அறிவிக்கப்பட்ட-மகாவம்சம்/175-340616) · `ta`
+
+பேராதனைப் பல்கலைக்கழக நூலகத்தில் உள்ள இலங்கையின் வரலாற்றின் முக்கிய ஆதாரமான மகாவன்ச வரலாற்று நூல்கள் அடங்கிய தொகுப்பு உலக பாரம்பரியச் சின்னமாக நேற்று அறிவிக்கப்பட்டது.
+
+யுனெஸ்கோ பணிப்பாளர் நாயகத்தினால் மகாவன்சத்தை உலக மரபுரிமைச் சின்னமாக பிரகடனப்படுத்துவதற்கான சான்றிதழ் பேராதனைப் பல்கலைக்கழகத்தின் வேந்தர் பேராசிரியர் ஜி.எச்.பீரிஸிடம் கையளிக்கப்பட்டது.
+
+அத்துடன், பல்கலைக்கழகத்துகு்கு விஜயம் செய்ததைக் குறிக்கும் வகையில் பிரதி வேந்தர் பேராசிரியர் எம்.டி.லமவன்ச, பணிப்பாளர் நாயகத்திற்கு நினைவுச் சின்னம் ஒன்றை வழங்கினார்.
+
+◼️
+
+[Data](articles/4ff396f9.json)
+
+---
+
+### ජොන්ටි ඝාතන සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-07-18 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198944) · `si`
+
+ශ්‍රී ලංකා වයස අවුරුදු 19 පහළ ක්‍රිකට් කණ්ඩායමේ හිටපු නායකයෙක් වන ධම්මික නිරෝෂණ ඝාතනයට සැකපිට එක් අයෙක් අත්අඩංගුවට ගත් බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+
+ධම්මික නිරෝෂණ හෙවත් ජොන්ටි අඟහරුවාදා (16) ඔහුගේ අම්බලන්ගොඩ, කන්ද ප්‍රදේශයේ පිහිටි නිවස ඉදිරිපිටදී වෙඩිතබා ඝාතනය කළේය.
+
+බූරු පිටියක ඇතිවූ ආරවුලක් හේතුවෙන් ඔහුව ඝාතනය කර ඇති බවට විවිධ තොරතුරු වාර්තා විය.
+
+මහජන ආරක්ෂක අමාත්‍යංශයේ අද (18) පැවති මාධ්‍ය හමුවක් අමතමින් අමාත්‍යවරයා පැවසුවේ සැකකරු බොහෝ විස්තර හෙළිකර ඇති බවයි.
+
+එසේම රටපුරා සිදුවන බොහෝ වෙඩි තැබීම් වලට හේතුව යුද සමයෙන් පසුව ගිනි අවි තවමත් සංසරණය වීම බවද අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/6d583a2e.json)
+
+---
+
+### Sri Lanka–Romania agree to further enhance ties, eye maritime connectivity between ports
+
+*2024-07-18 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/100595/sri-lankaromania-agree-to-further-enhance-ties-eye-maritime-connectivity-between-ports) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry has called on Romanian Prime Minister Marcel Ciolacu during his official visit to Romania and Poland.
+
+The Romanian PM and Minister Sabry have discussed the importance of cooperation amongst middle-income countries to overcome multiple crises faced by the world.
+
+Posting on ‘X’ (formerly Twitter), the Sri Lankan Foreign Minister stated that Ciolacu identified that modern politics is economics and spoke highly of the closely integrated Sri Lanka workforce in Romania creating a win-win partnership for both countries.
+
+They have also agreed to consolidate Sri Lanka - Romania relations further in identified multi-faceted areas, according to the Minister.
+
+Meanwhile, taking to ‘X’, Romanian PM Ciolacu stated that he welcome the decision of Sri Lankan Government to open an embassy in Romania, given their ascendant bilateral collaboration.
+
+...
+
+[Data](articles/7d012fba.json)
+
+---
+
+### Request to ban the mobile phone at the theater
 
 *2024-07-18 12:17:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரையரங்கில்-அலைபேசியை-தடை-செய்யுமாறு-கோரிக்கை/175-340615) · `ta`
 
-அண்மையில் ஒரு திரைப்படத்தை சட்டவிரோதமாக பதிவுசெய்து சமூக ஊடகங்களில் பதிவேற்றிய சம்பவத்தைத் தொடர்ந்து அவர்கள் இவ்வாறு கோரிக்கை விடுத்துள்ளனர்.
+Following the illegal upload of a film on social media, there's a call to ban mobile phones in theaters. The film's director, Jayantha Chandrasiri, advocates for theater owners and the Sri Lanka Film Corporation to act against such incidents. A 24-year-old from Kandy faces arrest for the unauthorized sharing of 'Sinhabaku'.
 
-இது தொடர்பில் திரையரங்கு உரிமையாளர்கள் நடவடிக்கை எடுக்க வேண்டும் என திரைப்பட இயக்குநர் ஜயந்த சந்திரசிறி தெரிவித்துள்ளார்.
+🟩
 
-அத்துடன், இலங்கை திரைப்படக் கூட்டுத்தாபனமும் இது தொடர்பில் உத்தியோகபூர்வ உத்தரவினை பிறப்பிக்க வேண்டும் எனவும் அவர் கேட்டுக்கொண்டுள்ளார்.
+They have recently demanded that a film was illegally recorded and uploaded on social media.
 
-பிரபல இயக்குநரின்‘சிங்கபாகு’ திரைப்படத்தை சட்டவிரோதமாக பதிவு செய்து யூடியூப்பில் பதிவேற்றிய குற்றச்சாட்டில் கண்டியைச் சேர்ந்த 24 வயதுடைய நபர் ஒருவர் அண்மையில் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+Film director Jayantha Chandrasiri said that the theater owners should take action in this regard.
+
+He also urged the Sri Lanka Film Corporation to issue an official order in this regard.
+
+A 24 -year -old man from Kandy has recently been arrested on charges of illegally uploading the film 'Sinhabaku' of the famous director.
 
 ◼️
 
 [Data](articles/229d3e43.json)
+
+[Extended Data](ext_articles/229d3e43.ext.json)
 
 ---
 
@@ -81,6 +163,10 @@ Therefore, the Department of Wildlife has called for the public to be concerned 
 ### Bail
 
 *2024-07-18 11:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசார-தேரருக்கு-பிணை/175-340614) · `ta`
+
+Gnanasara Thera, charged with inciting religious hatred against Muslims, was sentenced to four years but granted bail pending appeal.
+
+🟩
 
 General Secretary of the BBS. Galapoda Ate Gnanasara Thera has been released on bail.
 
@@ -2149,99 +2235,5 @@ The fuel carrier was crashed at the southwest miles of Oman's deposit port city.
 [Data](articles/8722d73a.json)
 
 [Extended Data](ext_articles/8722d73a.ext.json)
-
----
-
-### Special Notice for Passport Applicants
-
-*2024-07-17 21:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-விண்ணப்பதாரர்களுக்கு-விஷேட-அறிவிப்பு/175-340580) · `ta`
-
-The Department of Immigration and Emigration has introduced an online registration process via www.immigration.gov.lk for passport applications. Passports will be issued based on a priority system post-registration. The new system is set to launch this Friday.
-
-🟩
-
-The Department of Immigration and Emigration has taken steps to register through the website www.immigration.gov.lk to apply for passport applicants.
-
-The Department of Immigration and Emigration said that passports will be issued according to the priority system after registering online.
-
-It is also reported that the new system will be launched from Friday. Remble
-
-◼️
-
-[Data](articles/0ca52600.json)
-
-[Extended Data](ext_articles/0ca52600.ext.json)
-
----
-
-### Oil tanker capsize in Oman: Eight Indians, one Sri Lankan rescued as search operations continue
-
-*2024-07-17 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100586/oil-tanker-capsize-in-oman-eight-indians-one-sri-lankan-rescued-as-search-operations-continue) · `en`
-
-As the search and rescue operations continue in the aftermath of an oil tanker capsize off the coast of Oman, nine crew members, including eight Indians have been rescued by the warship INS Teg,  sources said.
-
-The rescued individuals also include one Sri Lankan national. Sources further stated that the search and rescue operations to find the remaining crew members will continue in the area.
-
-In a post on social media platform X, Spokesperson of the Indian Navy stated, “The #SearchAndRescue by Indian & Omani assets is being undertaken in challenging weather conditions as the area is experiencing rough sea & strong winds.”
-
-The Indian Navy also informed that apart from INS Teg, it has deployed P-18, a long range maritime surveillance aircraft to look for 16 crew members, including 13 Indians, who had gone missing when the oil tanker named MT Prestige Falcon capsized around 25 nautical miles southeast of Ras Madrakah, near the port town of Duqm, on Monday.
-
-...
-
-[Data](articles/78cf344e.json)
-
-[Extended Data](ext_articles/78cf344e.ext.json)
-
----
-
-### Water fare will also be revised with electricity tariff - Jeevan Thondaman
-
-*2024-07-17 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188718) · `ta`
-
-Jeevan Thondaman, the Water Supply and Plantation Infrastructure Development Minister, announced that the investigation into reducing water tariffs is underway, influenced by the recent electricity tariff amendment. He highlighted the Water Supply Board's transformation from a monthly loss of Rs 2.8 billion to a profit of 6.2 billion rupees. Expectations are that the reduction in electricity tariffs will lead to lower water bills, considering the decline in interest rates and the impact of dollar values on chemical prices essential for water supply. The minister also discussed the expansion of water connections and the receipt of a $100 million loan from the Asian Development Bank, aiming to further improve the water supply sector.
-
-🟩
-
-Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that the new electricity tariff amendment is being investigated on the reduction of water tariffs and the decision will be taken within this week.
-
-The Minister also pointed out that the Water Supply Board, which suffered a loss of Rs 2.8 billion per month, has now been able to make a profit of 6.2 billion rupees.
-
-Minister Jeevan Thondaman made this statement at a media briefing held at the Presidential Media Center on Wednesday (17).
-
-“We appreciate Minister Kanjana Wijesekera for taking steps to reduce electricity tariffs. Water supply is the sector that depends on electricity bills. Therefore, it is hoped that this electricity tariff correction will help reduce water bills.
-
-...
-
-[Data](articles/8a562664.json)
-
-[Extended Data](ext_articles/8a562664.ext.json)
-
----
-
-### Sri Lanka women name Sri Lanka women's cricket squad
-
-*2024-07-17 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198925) · `si`
-
-The Sri Lanka women's cricket team, led by Chamari Atapattu, competed in the 2020 Asia Cup Women's T20 tournament. The squad included 15 players: Haruni Gunaratne, Hashika Prabodhi, Udeshiyaka Prabodhi, Udunika Prabodi, Isika Prabodi, Kawya Kavinda, Sachini Nanayakkara, Sashini Silva, Shashika Fernando, Imesha Dulani, Ama Kanchana, Nilakshi de Silva, Oshadi Ranasinghe, Inoka Ranaweera, and Sugandika Kumari. They played against 8 other Asian teams over 8 matches to determine the champion of Asia.
-
-🟩
-
-The Sri Lanka women's group participated in the Asia Cup Women's T20 cricket tournament (17).
-
-Chamari Atapattu, led by 15 athletes includes 15 athletes.
-
-There are eight matches for the 20 Asian Cup women who decide who in Asia and 8 teams.
-
-Accordingly, the Sri Lanka squad of the Asian Cup women's 2020 women's women's 2020 cricketers, Mr. Haruni Gunaratne, Hashika Prabodhi, Udeshiyika Prabodhi, Udunika Prabodi, and Isi Prabodi,Kawarta Kavin, Sachini Nasony, Sashini Shusini Shashini Summer and Ama Kanchana.
-
-Sri Lanka is hosted for the 20 Asian Cups and women's cricket tournament.
-
-The first match of the Sri Lanka women's group will be held with Bangladesh on the 20th.
-
-◼️
-
-[Data](articles/dc1b216e.json)
-
-[Extended Data](ext_articles/dc1b216e.ext.json)
 
 ---

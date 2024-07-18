@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 00:20:06**
+As of **2024-07-19 00:35:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,996 (100.0%) of 35,997 articles have been extended.
+35,997 (100.0%) of 35,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -422,21 +422,29 @@ A sum of Rs.
 
 ---
 
-### අධ්‍යාපනයේ නවීකරණයට යුනෙස්කෝවේ සහාය ලබා ගැනීමට සාකච්ඡා කරනවා
+### The modernization of education is discussed to seek assistance in UNESCO
 
 *2024-07-18 19:50:43* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපනයේ-නවීකරණයට-යුනෙස්කෝවේ-සහාය-ලබා-ගැනීමට-සාකච්ඡා-කරනවා/11-410862) · `si`
 
-මෙරට අධ්‍යාපන ක්ෂේත්‍රයේ සිදු කිරීමට නියමිත පුළුල් නවීකරණ වැඩසටහන සඳහා යුනෙස්කෝ සංවිධානයේ අධ්‍යාපන අංශයේ සහාය ලබා ගැනීම පිළිබඳ සාකච්ඡා කරන බවත්, එසේම එම ප්‍රතිසංස්කරණ වෙනුවෙන් ලෝක බැංකුවේ සහ ආසියානු සංවර්ධන බැංකුවේ ද සහාය ලබා ගන්නා බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Sri Lanka seeks UNESCO aid for its education modernization, focusing on AI integration. President Ranil Wickremesinghe emphasizes the importance of advanced education for the nation's future, highlighting efforts during his visit to Buduruwagala Maha Vidyalaya. He praises the student parliament's role in fostering leadership skills and notes the significance of the Presidential Secretariat's history.
 
-කෘත්‍රීම බුද්ධිය (AI) ඇතුළු නවීන තාක්ෂණය සමඟ බද්ධ වූ දියුණු අධ්‍යාපන ක්‍රමයක් රට තුළ නිර්මාණය කර නවීන ලෝකය සමඟ ඉදිරියට යාමට මෙරට දරුවන්ට අවස්ථාව උදා කර දෙන බවද ජනාධිතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මොනරාගල බුදුරුවගල මහා විද්‍යාලයේ ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සැසිවාරයට ඊයේ (17) ජනාධිපති කාර්යාලයේ දී එක් වෙමිනි.
+President Ranil Wickremesinghe said that the assistance of the UNESCO's education sector is being discussed for the extensive modernization program in the education sector in Sri Lanka.
 
-පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මොණරාගල බුදුරුවගල මහා විද්‍යාලයට පැමිණි අවස්ථාවේ එම සිසුන් වෙත කරන ලද ආරාධනය අනුව මෙලෙස විද්‍යාලයේ ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සැසිවාරය ජනාධිපති කාර්යාලයේ ප්‍රධාන ශ්‍රවණාගාරයේ දී පැවැත්විණි.
+The President said that the children of Sri Lanka will be created in the country and provides an advanced education system including artist intelligence (AI) and provides opportunities to the country to proceed with the modern world.
+
+President Ranil Wickremesinghe was speaking at the Presidential Secretariat yesterday (17) at the Parliament of Buduruwagala Maha Vidyalaya, Moneragala.
+
+President Ranil Wickremesinghe arrived at Buduruwagala Maha Vidyalaya in Moneragala, the student parliamentary parliamentary parliamentary session of the school was held at the Presidential Secretariat.
+
+The students also thanked the President on the basis of the President's promise of a promise of a promise to the students and to the college to the college.
 
 ...
 
 [Data](articles/f3a8f2fe.json)
+
+[Extended Data](ext_articles/f3a8f2fe.ext.json)
 
 ---
 

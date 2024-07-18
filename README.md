@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 15:20:18**
+As of **2024-07-18 15:35:24**
 
 ## Newspaper Stats
 
-*Scraped **35,919** Articles*
+*Scraped **35,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 2,146
 dailyftlk | 2,281
 adalk | 3,243
 adaderanalk | 4,143
-tamilmirrorlk | 4,354
+tamilmirrorlk | 4,355
 dailymirrorlk | 4,733
-virakesarilk | 5,601
-adaderanasinhalalk | 6,008
+virakesarilk | 5,607
+adaderanasinhalalk | 6,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,915 (100.0%) of 35,919 articles have been extended.
+35,919 (100.0%) of 35,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### டிரம்பின் படுகொலை முயற்சி: நையாண்டி செய்த சிறுவர்கள் (வீடியோ)
+
+*2024-07-18 15:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்பின்-படுகொலை-முயற்சி-நையாண்டி-செய்த-சிறுவர்கள்-வீடியோ/50-340626) · `ta`
+
+அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பின் மீது துப்பாக்கிச் சூடு நடத்தி படுகொலை செய்வதற்கு முயற்சிக்கப்பட்டது. அதிலிருந்து டிரம் தப்பினார். அந்த செய்தி உலகளாவிய ரீதியில் பரவியது, காணொளிகளும் வெளியாகியுள்ளன.
+
+உகண்டாவில் உள்ள சிறுவர்கள் டொனால்ட் டிரம்பின் படுகொலை முயற்சியை மிகவும் குறிப்பிட்ட விவரங்களுடன் மீளுருவாக்கம்  செய்துள்ளனர்.
+
+உகண்டா சிறுவர்கள் குழு ஒன்று டொனால்ட் டிரம்ப் படுகொலை முயற்சியின் பொழுதுபோக்கைப் பகிர்ந்து கொண்ட பின்னர் வைரலாகியுள்ளது.
+
+பயங்கரமான, மரணத்திற்கு அருகில் துப்பாக்கிச்சூடு உலகை அதிர்ச்சிக்குள்ளாக்கிய சில நாட்களுக்குப் பிறகு, TikToker Blud Ug தலைமையிலான சிறுவர்கள் குழு, குழப்பமான மற்றும் இப்போது பிரபலமற்ற - காட்சிகளைப் பிரதிபலிப்பதால் அதிர்ச்சியூட்டும் படங்கள் உலகம் முழுவதும் எவ்வளவு தூரம் பரவியுள்ளன என்பதை வெளிப்படுத்தியது.
+
+மரத்துப்பாக்கிகள் மற்றும் பிளாஸ்டிக் பெட்டிகளால் செய்யப்பட்ட மேசையை பயன்படுத்தி, ட்ரம்பாக நடித்த சிறுவன் தனது முஷ்டியை காற்றில் பம்ப் செய்து, 'போராடு' என்று கத்தியபோது, உகண்டா சிறுவர்கள் நையாண்டியாக படப்பிடிப்பை மீண்டும் உருவாக்கினர்.
+
+◼️
+
+[Data](articles/2ee4d919.json)
+
+---
+
+### වාහන ගෙන්වීමට ආරම්භයක් අගෝස්තුවේ
+
+*2024-07-18 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198949) · `si`
+
+එළඹෙන අගෝස්තු මාසයේදී වාහන ආනයනය කිරීම සිදුවෙන ආකාරය ගැන යම් ආරම්භයක් දිය හැකි බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා,
+
+"අපි යොමු වෙලා ඉන්නේ වැඩිපුර විදුලියෙන් ක්‍රියා කරන වාහන ගේන්න. වාහන ආනයනය කරන්නේ කොහොමද කියලා යම් ආරම්භයක් දෙන්න සූදානමින් ඉන්නවා. ඊට අදාළ කමිටු වාර්තාව අගෝස්තු මස දෙවන සතියේ කැබිනට් මණ්ඩලයට ඉදිරිපත් කරනවා."
+
+◼️
+
+[Data](articles/e874a33d.json)
+
+---
+
+### டிரம்ப் சுடப்பட்ட தருணத்தை வீடியோவில்  நடித்துக்காட்டிய உகண்டா சிறுவர்கள் - சமூக ஊடகங்களில் பெரும் வரவேற்பு
+
+*2024-07-18 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188767) · `ta`
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்மீது மேற்கொள்ளப்பட்ட துப்பாக்கி பிரயோகத்தை உகண்டாவை சேர்ந்த சிறுவர்கள் நடித்துக்காட்டும் வீடியோ சமூக ஊடகங்களில் வெளியாகி பெரும்வரவேற்பை பெற்றுள்ளது.
+
+டிரம்ப்மீது தாக்குதல் நடத்தப்பட்ட மறுநாள் டிக்டொக்கெர் பிளட்அக் தலைமையிலான சிறுவர் குழுவினர் டிரம்ப்மீது தாக்குதல் இடம்பெறும் தருணத்தை வீடியோவில் நடித்துக்காட்டியுள்ளனர்.
+
+மரத்தினால்  துப்பாக்கிகளை செய்து,  அவர்கள் வீடியோவில் நடித்துள்ளனர். டிரம்ப் துப்பாக்கி சூட்டின் பின்னர் நிலத்தில் அமர்ந்து பின்னர் எழும்பி கைமுஷ்டிகளை உயர்த்தி கோசமிடுவதை டிரம்ப்போன்று நடித்த சிறுவன்  செய்து காட்டியுள்ளான்.
+
+டிரம்பை படுகொலை செய்யும் முயற்சி உலகம் முழுவதும் அதிர்ச்சியுடன் பார்த்தது என்பதை சிறுவர்களின் இந்த வீடியோ வெளிப்படுத்தியுள்ளதாக  பலர் தெரிவித்துள்ளனர்.
+
+இந்த வீடியோவிற்காக சிறுவர்கள் டிரம்பின் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்ட நிமிடத்தின்  உண்மையான ஒலிகள் அலறல்கள் சத்தங்களை பயன்படுத்தியுள்ளனர்.
+
+ஒரு சிறுவன் டிரம்ப்போல தற்காலிகமாக அமைக்கப்பட்ட சாய்வு மேசையின் பின்னால் நின்று உரையாற்றியுள்ளான்.
+
+...
+
+[Data](articles/67b9842b.json)
+
+---
 
 ### ‘Club Wasantha’ was in debt at time of death; ‘didn’t have a cent’ – Tiran
 
@@ -49,6 +107,8 @@ The Minister said that arrests have also been made in connection with the other 
 ...
 
 [Data](articles/9b1ba5f4.json)
+
+[Extended Data](ext_articles/9b1ba5f4.ext.json)
 
 ---
 
@@ -71,6 +131,8 @@ President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena were presen
 ◼️
 
 [Data](articles/aa527dbc.json)
+
+[Extended Data](ext_articles/aa527dbc.ext.json)
 
 ---
 
@@ -116,6 +178,8 @@ The firebrand monk has been accused of promoting Islamophobia in Sri Lanka.
 
 [Data](articles/4db68d28.json)
 
+[Extended Data](ext_articles/4db68d28.ext.json)
+
 ---
 
 ### Protest in capital was banned
@@ -159,6 +223,8 @@ Any discussion on the 22nd amendment to the constitution has no bearing on the e
 ...
 
 [Data](articles/12428ef4.json)
+
+[Extended Data](ext_articles/12428ef4.ext.json)
 
 ---
 
@@ -294,6 +360,24 @@ The owner of the respective owner had taken into the renewal of a license to the
 
 ---
 
+### யாழில் நண்பிக்கு பணம் கொடுத்து ஏமாந்தவர் உயிர் மாய்ப்பு
+
+*2024-07-18 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188760) · `ta`
+
+தனது நண்பிக்காக வங்கியில் இருந்து கடனாக பெற்று கொடுத்த பணத்தினை மீள பெறமுடியாமையினால் மனமுடைந்த குடும்ப பெண் தனது உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+உறவு முறையான இரு பெண்களுக்கு இடையில் நீண்ட கால நட்பு இருந்து வந்துள்ளது. அதில் ஒரு பெண் பண கஷ்டத்தில் இருந்த போது மற்றைய பெண் வங்கியில் பெருந்தொகை பணத்தினை கடனாக பெற்று, தனது நண்பிக்கு பண உதவி செய்துள்ளார்.
+
+பண உதவியை பெற்றுக்கொண்ட பெண், பணத்தினை மீள செலுத்தாத நிலையில், வங்கியில் கடன் பெற்ற பெண் பண நெருக்கடிக்குள்ளாகி, மனவுளைச்சலில் காணப்பட்டுள்ளார்.
+
+இந்நிலையில் நண்பியின் பெயரை முகநூலில் பதிவிட்டு, தனது மரணத்திற்கு காரணம் இவர் தான் என்றும் இவரால் தான் தனது மூன்று பிள்ளைகளையும் அநாதையாக விட்டு செல்வதாக பதிவிட்டு உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/19de7e0a.json)
+
+---
+
 ### Catch in where to be caught - Police Minister
 
 *2024-07-18 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198945) · `si`
@@ -363,6 +447,36 @@ NPP leader Anura Kumara Dissanayake must add 6,550,000 votes to his base, from t
 [Data](articles/65b22a80.json)
 
 [Extended Data](ext_articles/65b22a80.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-18 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188758) · `ta`
+
+இன்று வியாழக்கிழமை (ஜூலை 18) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 299.2042 ரூபாவாகவும், விற்பனை விலை 308.5274 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/89a7b5fd.json)
+
+---
+
+### இலஞ்சம் வாங்கிய போக்குவரத்து பொலிஸ் அதிகாரி கைது!
+
+*2024-07-18 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188750) · `ta`
+
+திருகோணமலை வான் எல பொலிஸ் நிலையத்தில் கடமையாற்றும் போக்குவரத்து பொலிஸ் அதிகாரி ஒருவர் பணத்தை இலஞ்சமாக வாங்கும் போது கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்டவர் ரஜ எல, கந்தளாய் எனும் முகவரியை வசிப்பிடமாகக் கொண்ட வயது (45) என்பவரே இலஞ்சம் ஊழல் தடுப்பு பிரிவு அதிகாரிகளால் நேற்று புதன்கிழமை (17) மாலை கைது செய்யப்பட்டார்.
+
+கடந்த 15 ஆம் திகதி மோட்டார் சைக்கிளில் சென்ற ஒருவரை கடமை நேரத்தில் பரிசோதித்த போது உரிய ஆவணங்கள் இன்மையால் இலஞ்சமாக  10,000 ரூபாவை போக்குவரத்து பொலிஸ் அதிகாரி கேட்டிருந்தார். மோட்டார் சைக்கிளில் சென்றவர் உடனடியாக  5,000 ரூபாவை கொடுத்து விட்டு மீதி பணம் 5,000 ரூபாவை நேற்று மாலை 7.20 க்கு கொடுக்கும் போது அதனை பெற்றுக் கொண்ட போக்குவரத்து பொலிஸ் அதிகாரி இலஞ்ச ஊழல் தடுப்பு பிரிவு அதிகாரிகளால் கைது செய்யப்பட்டு கிண்ணியா பொலிஸ் நிலையத்தில் ஒப்படைத்தனர்.
+
+மேலும், சந்தேக நபரை கந்தளாய் நீதிமன்ற நீதவான் முன்னிலையில் ஆஜர்படுத்தவுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3424e8cc.json)
 
 ---
 
@@ -525,6 +639,36 @@ A 24 -year -old man from Kandy has recently been arrested on charges of illegall
 [Data](articles/229d3e43.json)
 
 [Extended Data](ext_articles/229d3e43.ext.json)
+
+---
+
+### ரணில்விக்கிரமசிங்கவின் ஆட்சியின் கீழ் பயங்கரவாத தடைச்சட்டம்  தொடர்ந்தும்பயன்படுத்தப்படுகின்றது - சிறுபான்மை சமூகத்தினர்  அரசியல் எதிராளிகள் இலக்குவைக்கப்படுகின்றனர் -சர்வதேச மனித உரிமை கண்காணிப்பகம்
+
+*2024-07-18 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188754) · `ta`
+
+பயங்கரவாத தடைச்சட்டத்தை பயன்படுத்துவதை முடிவிற்கு கொண்டுவருவதாக உறுதியளித்துள்ள போதிலும் இலங்கை அதிகாரிகள் தொடர்ந்தும் பயங்கரவாத தடைச்சட்டத்தினை தாங்கள் எதிராளிகள் என கருதுபவர்கள் மற்றும் சிறுபான்மை சமூகத்தினருக்கு எதிராக பயன்படுத்துகின்றனர் என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+இலங்கை அதிகாரிகள் தாங்கள் முன்வைக்கும்  குற்றச்சாட்டுகளிற்கு உரிய ஆதாரங்களை முன்வைக்காத போதிலும்  குற்றம்சாட்டப்பட்டவர்களிற்கு எதிராக பயங்கரவாத தடைச்சட்டத்தை பயன்படுத்துகின்றனர் என  சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+கண்மூடித்தனமாக தடுத்துவைத்தல் மற்றும் சித்திரவதைகள் காரணமாக சிலர் பலவருடகாலமாக பாதிக்கப்பட்டுள்ள அதேவேளை சிலர் வழக்குகள் கைவிடப்பட்ட பின்னரும் ஒடுக்குமுறைகளை எதிர்கொள்கின்றனர் என மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/1d4f82b0.json)
+
+---
+
+### ஞானசார தேரர் பிணையில் விடுதலை
+
+*2024-07-18 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188753) · `ta`
+
+நான்கு வருட கால கடூ­ழியச் சிறைத் தண்­டனை விதிக்கப்பட்டிருந்த பொது­பல சேனா அமைப்பின் பொதுச் செய­லாளர் கல­கொட அத்தே ஞான­சார தேர­ர் மேன்முறையீட்டு நீதிமன்றத்தால் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+கூர­கல தொல்­லியல் அமை­விடம் தொடர்­பாக 2016 இல் கொழும்பில் நடத்­தப்­பட்ட ஊடக மாநா­டொன்றில் இஸ்லாமிய மதத்தை இழி­வு­ப­டுத்தும் விதத்தில் கருத்­துக்­களை தெரி­வித்­த­மைக்­காக கொழும்பு மேல் நீதிமன்றத்தால் நான்கு வருட கால கடூ­ழியச் சிறைத் தண்­டனை விதிக்கப்பட்டது. அத்­துடன் அவ­ருக்கு ஒரு இலட்சம் ரூபாய் அப­ரா­தமும் விதிக்­கப்­பட்­டது.
+
+◼️
+
+[Data](articles/9174a6dc.json)
 
 ---
 
@@ -2041,185 +2185,5 @@ At the same stage of the MasterCef Australia, a Sri Lankan young woman, was due 
 [Data](articles/8cbfd44e.json)
 
 [Extended Data](ext_articles/8cbfd44e.ext.json)
-
----
-
-### The National Program for the "Randora" Urumaya Urumaya Urumaya was held in Colombo under the leadership of the President
-
-*2024-07-18 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188729) · `ta`
-
-At a "Randora Urumaya" event in Colombo, President Ranil Wickremesinghe announced plans to transform the Western Province into a mega-city accommodating 5 million people. He highlighted the government's efforts to grant housing rights to low-income families, issuing 1,117 affirmative papers for homes across various authorities. This initiative aims to provide land and housing rights to all, marking a significant step towards improving the lives of the nation's inhabitants.
-
-🟩
-
-President Ranil Wickremesinghe said that the Western Province is planned to be the largest city where about 50 lakh people live.
-
-The President said that the government was working to provide full rights and housing rights to the people, including villages, cities and hill country, and that the government has launched a revolutionary program that has not been implemented by any government to provide relief to the nation.
-
-President Ranil Wickremesinghe made this statement while addressing the "Randora Urumaya" event to provide land guarantees for 50,000 low -income families living in the apartment in Colombo on Wednesday afternoon at the Sugathadasa Stadium in Colombo.
-
-According to President Ranil Wickremesinghe, the 2024 budget was implemented in the 2024 budget and a scheme of providing the entire rights of the houses to two and a half million low -income families living in Colombo.
-
-...
-
-[Data](articles/9e7f6119.json)
-
-[Extended Data](ext_articles/9e7f6119.ext.json)
-
----
-
-### Special discussion between Karuna Amman and the United National Party!
-
-*2024-07-18 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188728) · `ta`
-
-Karuna Amman, leading the Tamil United Freedom Alliance, had a productive meeting with former UNP minister Akhilaviraj Kariyawamsam on 17th July 2024. They discussed strategies for the upcoming presidential election, marking significant progress towards their goals.
-
-🟩
-
-A special discussion was held on Wednesday (17) between the Tamil United Freedom Alliance (UPFA) led by Karuna Amman and the former UNP minister Akhilaviraj Kariyawamsam.
-
-On Wednesday (17.07.2024) at 3 pm, the United National Party (UNP) Chief Executive Committee, headed by the United National Party (UNP) leadership of the Tamil National Alliance (UNP), Karuna Amman, Vice President Jaya Saravana and Secretary Senthuran, the former minister of the UNP, Akhilaviraj KariyawamsamCarrying.
-
-It has been revealed that the various plans for the upcoming presidential election have been discussed in detail and with great results.
-
-◼️
-
-[Data](articles/668a6b88.json)
-
-[Extended Data](ext_articles/668a6b88.ext.json)
-
----
-
-### Sri Lankan membership in UNESCO 75 years completed
-
-*2024-07-18 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188727) · `ta`
-
-UNESCO's Director General recently visited Sri Lanka, marking 75 years since its membership. The visit included welcoming ceremonies and tours of significant sites like the Temple of the Sacred Tooth Relic, Peradeniya University, and the Botanical Gardens.
-
-🟩
-
-UNESCO's Director General of UNESCO visited Sri Lanka on Wednesday morning (17) morning.
-
-The Director General of Kandy was welcomed by the Governor of the Central Province Lalit Yu Kamage.
-
-The Director General, who made a short visit, will visit Sri Dalada Maligai, Peradeniya University and Botanical Gardens.
-
-◼️
-
-[Data](articles/81850010.json)
-
-[Extended Data](ext_articles/81850010.ext.json)
-
----
-
-### Posters against new fishing law
-
-*2024-07-18 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188726) · `ta`
-
-Protesters in Mannar town opposed a new fisheries law, claiming it threatens the fishing industry. The Mannar District Youth Organization, part of the National Fisheries Cooperation Movement, posted signs vowing to fight the law, which they say could harm those dependent on fishing.
-
-🟩
-
-Posters were pasted in the Mannar town on Wednesday (17) against the new fisheries law created by the state.
-
-The posters were pasted by the Mannar District Youth Organization of the National Fisheries Cooperation Movement in the name of the Fisheries Organization Union.
-
-The poster has been mentioned that we will defeat the new fishing law in the stomach of all those who rely on the fishing industry.
-
-◼️
-
-[Data](articles/46d353f6.json)
-
-[Extended Data](ext_articles/46d353f6.ext.json)
-
----
-
-### 100plus Isotonic Drink Introduction to Sri Lanka
-
-*2024-07-18 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188725) · `ta`
-
-100plus, Malaysia's first isotonic beverage from the Takral Group, launched in Colombo, aiming to revitalize the Sri Lankan market with its rapid hydration and energy restoration benefits. The event featured Malaysian High Commissioner Budli Hisham Adam and F&N International Market Development's Lai Kong Ming, alongside officials from various companies. Bolt Distribution's involvement highlights the drink's potential impact, supported by partnerships like the LPL Cricket League and the Royal College Rugby Group.
-
-🟩
-
-The launch of the 100plus of Malaysia's first isotonic beverage, a member of the Takral Group of Takral Group, said, "Nadaipettrathu in Colombo ITC Ratnadipu" The 100plus drink that makes you a brilliant change in the Sri Lankan market is the most designer of the Sri Lankan gang. ".
-
-Malaysian High Commissioner for Sri Lanka and the Maldives at the event. Budli Hisham Adam, Malaysian F&N International Market Development Mr. Mr.. Lai Kong Ming was also present. In addition, the officials of state and private companies across the country, officials of leading marketing companies and FMCG retailers were present.
-
-"This wonderful drink, which comes with a trading name of 100plus, is designed to rapidly restore the enormous refreshness and enthusiasm for users.. This drink is the best companion for those who want active life. Power to ensure rapid hydration and energy reorganization. We are happy to join hands with Bolt supply to improve our presence in Sri Lanka, ”La Kong Ming said.
-
-...
-
-[Data](articles/b3c30eae.json)
-
-[Extended Data](ext_articles/b3c30eae.ext.json)
-
----
-
-### Let's make reasonable changes in the Compliance Agreement with the Monetary Fund - Dr. Harsha de Silva
-
-*2024-07-18 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188724) · `ta`
-
-Dr. Harsha de Silva proposes amendments to the Compliance Agreement with the IMF to address economic challenges, including mental health impacts from economic crises and inflation. He suggests temporary income tax increases for the wealthy to provide relief, emphasizing the need for a fair tax concession scheme and adherence to the agreement to ensure its continuation.
-
-🟩
-
-We have to act on the International Monetary Fund Agreement signed by President Ranil Wickremesinghe. If not so, you will face problems again. Parliamentarian Harsha de Silva, however, said he would make a realistic promise to the people that it would make legitimate changes in that compliance.
-
-He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Wednesday (17).
-
-According to a study, 26 percent of people are mentally affected by the increase in economic crises. Some say that inflation has declined. Inflation decreases means slowing down the price of goods. Rather than indicating the price of goods to decline. On the other hand, their weight has been reduced instead of cutting the prices of goods.
-
-...
-
-[Data](articles/e05d5d72.json)
-
-[Extended Data](ext_articles/e05d5d72.ext.json)
-
----
-
-### Batticaloa District Unemployed Graduates For the 16th day
-
-*2024-07-18 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188723) · `ta`
-
-Unemployed graduates in Batticaloa District protested for the 16th day, demanding support for entrepreneurship. Their efforts, marked by slogans like "Rot in the house," highlight frustration over lack of response from authorities.
-
-🟩
-
-Batticaloa District Unemployed Graduates launched their attention on Wednesday (17) for the 16th day.
-
-The struggle is being carried out by the Batticaloa District Unemployed Graduates Union to ensure their entrepreneurship.
-
-Age is going to work, and the dream of life, the dream of the dream of a falsehood, and the struggle carried on various words such as Rot in the house.
-
-Although their struggle has passed the 16th day, the protesters have said that they have been continuously ignored as they have not been given any favorable response.
-
-◼️
-
-[Data](articles/4bf40d2e.json)
-
-[Extended Data](ext_articles/4bf40d2e.ext.json)
-
----
-
-### Model Water Fee Revision
-
-*2024-07-18 00:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-கட்டணம்-திருத்தப்படும்/175-340591) · `ta`
-
-Water fee revision is under consideration alongside the new electricity tariff. Minister Jeevan Thondaman expects a decision this week, influenced by the reduction in electricity tariffs and lower interest rates, aiming to decrease water bills.
-
-🟩
-
-In combination with the new electricity tariff, it is also being investigated. Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that the decision will be taken within this week.
-
-Minister Jeevan Thondaman said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-We appreciate Minister Kanjana Wijesekera for taking steps to reduce electricity tariffs. Water supply is the sector that depends on electricity bills. Therefore, it is hoped that this electricity tariff correction will help reduce water bills.
-
-...
-
-[Data](articles/97bbaaab.json)
-
-[Extended Data](ext_articles/97bbaaab.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 08:24:15**
+As of **2024-07-18 08:35:28**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 5,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,832 (100.0%) of 35,837 articles have been extended.
+35,837 (100.0%) of 35,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### කැස්බෑවන් ඇතුළු සමුද්‍ර ක්ෂීරපායී සතුන්ට දැඩි ජීවිත අවදානමක්
+### Lifty life risk to marine mammal animals including turtles
 
 *2024-07-18 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198934) · `si`
 
-නීතිවිරෝධී ක්‍රම භාවිත කරමින් මසුන් ඇල්ලීම් හේතුවෙන් කැස්බෑවන් ඇතුළු සමුද්‍ර ක්ෂීරපායී සත්වයින්ගේ ජීවිත දැඩි අවදානමකට ලක්ව තිබේ.
+Fisheries, including illicit methods, pose significant risks to marine mammals like turtles, threatening their survival.
+
+🟩
+
+Due to fishery, the lives of the maritime mammals including turtles, including illegal techniques have been severely at risk.
 
 ◼️
 
 [Data](articles/0803bbf2.json)
+
+[Extended Data](ext_articles/0803bbf2.ext.json)
 
 ---
 
@@ -72,23 +78,33 @@ However, UNP General Secretary Palitha Range Bandara said that the national folk
 
 ---
 
-### උපසම්පදා උත්සවය පැවැත්වෙදි පිරිසක් හු කියා ගල් මුල් ප්‍රහාරයක් එල්ල කර යකා නටලා
+### Over the Upasampada occasionally launched an attack on a group of stone
 
 *2024-07-18 07:41:27* · [`adalk`](https://www.ada.lk/breaking_news/උපසම්පදා-උත්සවය-පැවැත්වෙදි-පිරිසක්-හු-කියා-ගල්-මුල්-ප්‍රහාරයක්-එල්ල-කර-යකා-නටලා/11-410845) · `si`
 
-කරුවලගස්වැව අලුත්ගම ලුම්බිණි විහාරස්ථානයෙ උප සම්පදා උත්සවයට සහභාගි වු පිරිසකට 16 දින සවස  එල්ලවු ගල් හා පොලු මුගුරු ප්‍රහාරයකින් තුවාල ලැබු දෙදෙනෙකු තඹුත්තේගම රෝහලට ඇතුලත් කර ඇති බව සාලියවැව පොලිසිය කියයි.
+During the Upasampada, a clash occurred involving a group of individuals at the Saliyawewa hospital, leading to admissions at the Thambuththegama hospital. Injuries were reported from the Aluthgama Lumbini Viharaya, with two children treated at home. The event was organized by the Viharasese Dambulla Sarada, with participation from the Maha Sanganajotha Thero and others. A group of monks worked on the Lumbini Viharaya, facing hesitation from some attendees. Allegedly, a group of people assaulted the Dumbini Vidyini Temple, causing fear among the boys in the Lumbini Vihara. The Saliyawewa Police attributed the incident to the LTTE's presence, promising to investigate.
 
-මෙසේ තුවාල ලබා ඇත්තේ අලුත්ගම ලුම්බිණි විහාරස්ථානයෙ දායකයින් දෙදෙනෙකු වන අතර සුළු තුවාල ලැබු තවත් කුඩා දරුවන් දෙදෙනෙකු නිවෙස් වලට රැගෙන ගොස් ප්‍රථිකාර ලබා දී ඇති බව කියයි.
+🟩
 
-අලුත්ගම ලුම්බිණි විහාරස්ථානයෙ වැඩ වාසය කල විහාරවාසි දඹුල්ලේ සාරද හිමියන් උපසම්පදා විනය කර්මය පිහිටුවිමේන් පසු විහාරස්ථානයට වැඩම කර අදාල උත්සවය සංවිධානය කර තිබුනී.
+Saliyawewa hospital said that two persons were admitted to the Thambuththegama hospital with a group of people who were attending Karuwalagaswewa Lumbiniya Viharaya.
 
-එම උත්සවයට වයඹ පළාතේ ප්‍රධාන අධිකරණ සංඝනායක තම්මැන්නාවැටියෙ රතනජෝති හිමියන් ඇතුළු මහ සංඝරත්නය මෙම උපසම්පදා පිළිගැනිමේ උත්සවයට එක්ව සිටි අතර .
+The injured have been injured in the Aluthgama Lumbini Viharaya and two other small children who were injured had been taken to their homes.
 
-තවත් භික්ෂුන් වහන්සේලා  25 නමක් 16 කනුව සිට 17 කනුව ලුම්බිණි විහාරස්ථානයට  පෙරහැරින් වැඩම කරවමින් විහාරස්ථානයෙ අදාල උපසම්පදා උත්සවය සංවිධානය එක්ව තිබුනී.
+The Viharasese Dambulla Sarada Dambulla Sarada Dambulla was reserved in the Aluthgama Lumbini Viharaya and organized the event.
+
+The Maha Sanganajotha Thero and the Maha Sanganajotha owners of the North Western Province were partnered with the Vice Ceremony of the North Western Province.
+
+Another 25 Buddhist Monks 16 to 17th Pola Scenario, working on the Lumbini Viharaya, was partnered with the relevant ordinance.
+
+It is said that a group of sitting on the front line of the Viharaya near the front line of the temple was hesitant.
+
+It is said that the bodies of the road to the road to look at the road towards the road to look at it.
 
 ...
 
 [Data](articles/a9bd471c.json)
+
+[Extended Data](ext_articles/a9bd471c.ext.json)
 
 ---
 
@@ -550,21 +566,29 @@ The government's act is completely disgusted with the election of the election a
 
 ---
 
-### ’சவால்களுக்கு மத்தியில் ஊழியர்களுக்கான சம்பளம்’
+### Salary for employees amidst the challenges
 
 *2024-07-18 00:40:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களுக்கு-மத்தியில்-ஊழியர்களுக்கான-சம்பளம்/175-340590) · `ta`
 
-கொரோனா தொற்றுநோய் பரவல் காலத்திலும் பொருளாதார நெருக்கடிக்கு மத்தியிலும் எந்தவொரு அரச ஊழியருக்கும் சம்பளத்தையும் கொடுப்பனவுகளையும் குறைவின்றி வழங்கி அரச சேவையை முன்னெடுத்துச் செல்ல முடிந்துள்ளமை பெரு வெற்றியாகும் என உள்நாட்டு அலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தெரிவித்தார்.
+During challenging times, including the COVID-19 pandemic and economic crises, the Sri Lankan government, under the leadership of President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena, successfully maintained salary payments to public servants. Despite skepticism that services might halt, the government ensured continuity, highlighting the crucial role of public servants in national development.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்
+🟩
 
-கடந்த இரு வருடங்கள் மிகக் கஷ்டமாக அமைந்தது. நாம் கொவிட், பொருளாதார நெருக்கடிகளுக்கு மத்தியிலும் அரச ஊழியர்களுக்கு சம்பளத்தையும் கொடுப்பனவுகளையும் வழங்க வேண்டியிருந்தது. சம்பளமும், கொடுப்பனவுகளும் நிறுத்தப்படலாம் என்றும் சிலர் சிந்தித்தனர்.
+Minister of State for Home Affairs Ashoka Priyantha said that it would be a great success for any public servant to provide salaries and payments to any public servant during the period and the economic crisis.
 
-அரசாங்க சேவை முடங்கிவிடும் என்றும் நினைத்தனர். ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வழிகாட்டலுக்கமைய அரச நிர்வாகம், உள்நாட்டு அலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்கள் அமைச்சர் என்ற வகையில் பிரதமர் தினேஷ் குணவர்தனவின் வழிகாட்டலின் கீழ் மேற்கொள்ளப்பட்ட நிர்வாகச் செயற்பாடுகள் காரணமாக அரச சேவையைப் பாதுகாக்க முடிந்தது.
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated
+
+The last two years have been very difficult. We had to pay salaries and payments to civil servants in the midst of the Kovit and the economic crises. Some also thought that salary and payments could be stopped.
+
+They thought the government service would be paralyzed. Under the guidance of President Ranil Wickremesinghe, the state administration, Home Affairs, Provincial Councils and Local Government Councils were able to protect the public service under the guidance of Prime Minister Dinesh Gunawardena.
+
+This is the biggest success. It must be recalled that the full contribution of public servants and the people of the country.
 
 ...
 
 [Data](articles/b7821f2f.json)
+
+[Extended Data](ext_articles/b7821f2f.ext.json)
 
 ---
 
@@ -802,19 +826,27 @@ The Ministry of Health RD.P.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G. Azala Gunawardena
 
 ---
 
-### සජබෙට එරෙහි ඩයනාගේ  පෙත්සම ඉවත් කර ගනී
+### Diana's petition against Saji is removed
 
 *2024-07-17 22:25:34* · [`adalk`](https://www.ada.lk/breaking_news/සජබෙට-එරෙහි-ඩයනාගේ--පෙත්සම-ඉවත්-කර-ගනී/11-410844) · `si`
 
-සමගි ජන බලවේගය පක්‍ෂයේ සාමාජිකත්වයෙන් තමන් නෙරපා හැරීම වළකාලන්නැයි ඉල්ලමින් හිටපු රාජ්‍ය සංචාරක රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මිය ශ්‍රේෂ්ඨාධිකරණයේ ගොනු කර තිබූ පෙත්සම ඊයේ (17දා) ඇය ඉල්ලා අස්කර ගත්තාය.
+Diana Gamage withdrew her Supreme Court petition against Saji, which aimed to prevent expulsion from the party under the 20th Amendment to the Constitution. The petition was dismissed after counsel Faizer Mustapha advised withdrawal, citing no need to maintain it.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 20වැනි සංශෝධනයට සහාය පළ කළැයි චෝදනා කරමින් තමන් පක්‍ෂ සාමාජිකත්වයෙන් නෙරපා හැරීම වළකාලන්නැයි ඉල්ලමින් ගොනු කර තිබූ පෙත්සම තවදුරටත් පවත්වාගෙන යෑමේ අවශ්‍යතාවයක් තම සේවාදායිකාවට නැතැයි දැනුම් දෙමින් ඩයනා ගමගේ මහත්මිය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා කළ ඉල්ලීමක් පිළිගත් ශ්‍රේෂ්ඨාධිකරණය පෙත්සම ඉවත් කර ගැනීමටට අවසර දුන්නේය.
+🟩
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ගාමිණී අමරසේකර, කුමුදුනි වික්‍රමසිංහ සහ මහින්ද සමයවර්ධන යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඬුල්ලක් හමුවේ පෙත්සම සලකා බැලිණි.
+The petition filed by the Supreme Court, Diana Gamage, had withdrawn the Supreme Court, who had filed the Supreme Court since the party members of the House, with the members of the House.
+
+The Supreme Supreme Supreme Court permitted to remove a request made by President's Counsel Faizer Mustapha, who was asked to prevent the departure of the party from the constitution and to prevent the petition filed by his client..
+
+The petition was considered by Supreme Court Judge, Gamini Amarasekera and Kumuduni Wickramasinghe and Mahinda Samaya Saoe Development.
+
+UNP General Member of Parliament Ranjith Madduma Bandara, Chairman and Opposition Leader Sajith Premadasa, the Chairman of the Election Commission and the Elections Commission of the Election Commission, the Chairman of the Election Commission, the General Secretary of the Elections Secretary General of the Elections and Elections Commission had been named as respondents..
 
 ...
 
 [Data](articles/223f5201.json)
+
+[Extended Data](ext_articles/223f5201.ext.json)
 
 ---
 
@@ -1546,21 +1578,27 @@ The chairman of the Authority added that the price limit is notified to make con
 
 ---
 
-### හිල්ටන් ගන්න මෙල්වා සූදානම්
+### Melwa ready to take Hilton
 
 *2024-07-17 18:00:31* · [`adalk`](https://www.ada.lk/breaking_news/හිල්ටන්-ගන්න-මෙල්වා-සූදානම්/11-410833) · `si`
 
-කොළඹ හිල්ටන් හෝටලයේ හිමිකාරීත්වය දරන හොටෙල් ඩිවලොපර්ස් (ලංකා) ලිමිටඩ් (HDL) සතු කොටස් මිලදී ගැනීම සඳහා ගැනුම්කරුවන් 9 දෙනෙක් ඉදිරිපත් වී ඇති අතර, ඒ අතරින් ආයතනයක් අවසන් අදියරය සඳහා යෝජනා ඉදිරිපත් කර තිබේ.
+Nine buyers are vying to acquire Hotel Developers Lanka Ltd. Four initially qualified bids were chosen after which two withdrew. The process concluded on July 10th, with one bidder making a proposal. Melva Hotels & Resorts is reviewing this proposal, with its analysis pending cabinet approval.
 
-මුල් ලංසුකරුවන් 9දෙනාගෙන් පූර්ව සුදුසුකම්ලත් ලත් ලංසුකරුවන් 4දෙනෙකු තෝරාගෙන ඇති අතර, ඉන්පසුව ඔවුන්ගෙන් මූල්‍ය යෝජනා කැඳවීම සිදුකර ඇත. එහිදී තවත් ලංසුකරුවන් දෙදෙනෙකු එම ක්‍රියාවලියෙන් ඉවත්ව ඇත. එම යෝජනා කැඳවීම ඉකුත් ජූලි 10වැනිදා අවසන් වූ අතර, ඒ වන විට පූර්ව සුදුසුකම්ලත් ලංසුකරුවන් දෙදෙනාගෙන් එක් ආයතනයක් පමණක් යෝජනාවක් ඉදිරිපත් කර තිබේ.
+🟩
 
-ඒ අනුව මෙල්වා හොටෙල්ස් ඇන්ඩ් රිසෝට් ප්‍රයිවට් ලිමිටඩ් ආයතනය යෝජනාව ඉදිරිපත් කර තිබුණි.
+Nine buyers have volunteered to purchase the Hotle Developers (Lanka) Limited (Lanka) Limited (Lanka) Limited (Lanka) Limited.
 
-ඒ පිළිබඳව විශ්ලේෂණය කිරීමේ කටයුතු මේ වන විට සිදු වෙමින් පවතින අතර, ඉන් අනතුරුව අමාත්‍ය මණ්ඩල අනුමැතිය සඳහා ඉදිරිපත් කිරීමට නියමිතය.
+The nine original bidders have been selected and 4 previously qualified bids have been selected, followed by financial proposals.. Where two more bidders have left the process. The summoning was concluded on the 10th of July and the proposal was made by one of the two previous eligible bidders.
+
+Accordingly, Melva Hotels & Resort Pvt studied the proposal.
+
+The analysis of it is currently underway, and then will be submitted to the approval of the Cabinet.
 
 ◼️
 
 [Data](articles/7dd89820.json)
+
+[Extended Data](ext_articles/7dd89820.ext.json)
 
 ---
 

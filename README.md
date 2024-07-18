@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 20:06:14**
+As of **2024-07-18 20:20:18**
 
 ## Newspaper Stats
 
-*Scraped **35,976** Articles*
+*Scraped **35,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,62 +17,122 @@ economynextcom | 2,151
 dailyftlk | 2,281
 adalk | 3,253
 adaderanalk | 4,151
-tamilmirrorlk | 4,364
+tamilmirrorlk | 4,365
 dailymirrorlk | 4,733
 virakesarilk | 5,613
-adaderanasinhalalk | 6,018
+adaderanasinhalalk | 6,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,971 (100.0%) of 35,976 articles have been extended.
+35,976 (100.0%) of 35,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### ලංකාව සයිබර් තිප්පොලක් කරගෙන ලංකාව හරහා රු. කෝටි 5000ක් චීනයට යවලා
+### ක්ෂුද්‍ර - සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායන් සඳහා මූල්‍ය පැකේජයක්
+
+*2024-07-18 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198961) · `si`
+
+ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායන් සඳහා ආයෝජන සහ කාරක ප‍්‍රාග්ධන යන පහසුකම් දෙවර්ගයෙන්ම සමන්විත මූල්‍ය පැකේජයක් හදුන්වාදී තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (18) ජනාධිපති කාර්යාලයේදී මූල්‍ය පැකේජය හඳුන්වාදීම සිදුවු බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+
+සහනදායී පොලී අනුපාතයක් යටතේ බලපත්‍රලාභී වාණිජ බැංකු සහ බලපත්‍රලාභී විශේෂිත බැංකු ඇතුළුව මූල්‍ය ආයතන 15ක් හරහා මෙම මූල්‍ය පහසුකම් ලබාදීමට නියමිතය.
+
+ව්‍යවසායන්ට සහාය ලබාදීම හා අක‍්‍රීය ණය කාණ්ඩය යටතේ ඇති ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසාය සඳහා සහායවීම යන ප්‍රධාන කොටස් දෙකක් යටතේ මෙම ණය ලබාදීම සිදු කෙරෙනු ඇති.
+
+ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායන් ශක්තිමත් කිරීමේ ආයෝජන ණය යටතේ වසර 10ක කාලසීමාවකට අදාළව සියයට 7ක සහන පොලී අනුපාතයකට, රුපියල් මිලියන 15ක උපරිම සීමාවකට යටත්ව ණය මුදල් සැපයෙන අතර ඒ සඳහා රුපියල් බිලියන 13ක් වෙන් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d4cb7664.json)
+
+---
+
+### Sri Lanka is a cyber topple and Rs.. 5000 crores to China
 
 *2024-07-18 19:41:03* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-සයිබර්-තිප්පොලක්-කරගෙන-ලංකාව-හරහා-රු--කෝටි-5000ක්-චීනයට-යවලා/11-410861) · `si`
 
-ලාංකාව සයිබර් අපරාධකරුවන්ගේ තිප්පොලක් හා පරාදීසයක් කරගනිමින් අන්තර්ජාලය හරහා  රුපියල් කෝටි 5000කට අධික මුදලක් වංචා කර ඇති බවත් එලෙස වංචා කළ මුදල් චීනයට යවා ඇති බවත් විමර්ශන වලදී හෙළී වු බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මුල්‍ය අපරාධ විමර්ශන කොට්ඨාශය කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ  ගමගේ මහතාට අද (18) දැනුම් දුන්නේය.
+Sri Lanka's CID investigates cyber crimes involving Rs. 5000 crores transferred to China. Suspects, including 37 foreigners and 34 locals, are remanded. The case involves alleged fraud, use of Dubai bank accounts, and rental of a hotel in Negombo.
 
-අන්තර්ජාලය හරහා එලෙස රුපියල් කෝටි 5000කට අධික මුදලක් වංචා කිරීමට අදාළව චීන ජාතකයින් ඇතුළු විදෙස් සැකකරුවන්ට එරෙහිව ආරම්භ කර ඇති විමර්ශන්ට සහාය දීම සඳහා චීන හා සිංගප්පූරු පොලිසිවල විශේෂඥ විමර්ශන කණ්ඩායම් ලංකාවට පැමිණෙන බව තහවුරු කර ඇතැයි රහස් පොලිසිය ප්‍රධාන මහේස්ත්‍රාත්වරයාට වැඩිදුරටත් දැනුම් දුන්නේය.
+🟩
 
-‘ඔන්ලයින්’ තාක්ෂණය ඔස්සේ නීතී විරෝධී ආකාරයෙන් රුපියල් කෝටි ගණන් මුදල් වංචා කළැයි කියන සිද්ධියට අදාළව ආරම්භ කර ඇති විමර්ශන වලට සහය දෙන ලෙස ඉන්දියාවෙන් සහ පකිස්ථානයෙන් සහාය ඉල්ලා ඇති බවද රහස් පොලිසිය වැඩිදදුරටත් දැනුම් දුන්නේය.
+The Finance Criminal Investigation Division of the Criminal Investigation Department (CID) Criminal Investigations Division has been sent down on the Internet that the Sri Lankan criminals have been sent to China and have been sent to China..
+
+The Criminal Investigation Team has said that the specialist teams of China and Singapore have confirmed that the specialist teachers of the Chinese and Singapore who have commenced against foreign suspects against foreign suspects against foreign suspects in connection with the Internet.
+
+The CID has further stated that it has been asked to support the investigations into the investigations into the investigation into the investigation into the incident.
+
+They were identified by persons who claimed to have paid Rs.
+
+The two Sri Lankans and 34 Sri Lankans have been remanded before the incident when the complaint had been paid to the incident.
 
 ...
 
 [Data](articles/1aceff24.json)
 
+[Extended Data](ext_articles/1aceff24.ext.json)
+
 ---
 
-### ஜனாதிபதி எம்முடன் இணைந்து பயணித்தால் ஆதரவு வழங்க தயார் - மஹிந்த ராஜபக்ஷ
+### ’’கிளப் வசந்த நாட்டுக்கே கடனாளி’’
 
-*2024-07-18 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/188796) · `ta`
+*2024-07-18 19:30:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-நாட்டுக்கே-கடனாளி/175-340644) · `ta`
 
-(இராஜதுரை ஹஷான்)ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்குவது குறித்து இதுவரை தீர்மானிக்கவில்லை. எம்முடன் தொடர்ந்து இணைந்து பயணிக்க அவர் தயார் என்றால் ஆதரவு வழங்குவோம் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+அத்துருகிரியவில் சுட்டு படுகொலைச் செய்யப்பட்ட ‘கிளப் வசந்த’ என்றழைக்கப்படும் வர்த்தகர் சுரேந்திர வசந்த பெரேராவின் படுகொலை தொடர்பில் கைது செய்யப்பட்ட பச்சை குத்தும் நிலையத்தின் உரிமையாளரிடம் ஊடங்களின் முன்னிலையில் வாக்குமூலம் பெற்றார் என குற்றஞ்சாட்டப்பட்டுள்ள பிரதி பொலிஸ்மா அதிபர் உள்ளிட்ட அதிகாரிகளுக்கு எதிராக எவ்விதமான ஒழுக்காற்று நடவடிக்கைகளோ அல்லது விசாரணைகளோ முன்னெடுக்கப்படமாட்டாது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்  தெரிவித்துள்ளார்.
+
+மேல் மாகாண பிரதி பொலிஸ்மா அதிபர் தலைமையிலான குழுவினர்  சந்தேகநபர் ஒருவரை விசாரணை செய்யும் வீடியோ வெளியாகியுள்ளது. இது தொடர்பில் பொலிஸ் உத்தியோகத்தர்களுக்கு  எதிராக நடவடிக்கை எடுக்கப்படுமா என்ற கேள்விக்கு பதிலளித்த அமைச்சர் டிரான் அலஸ்  “இந்த தவறை மீண்டும் செய்யவேண்டாம் என கடுமையாக தான் எச்சரித்துள்ளதாக தெரிவித்துள்ளார்.
+
+அந்த பொலிஸ் உத்தியோகத்தர்களுக்கு எதிராக நடவடிக்கைகளை எடுக்குமாறு பொலிஸ்மா அதிபருக்கு தான்  பணிக்கவில்லை என்றார்.
 
 ...
 
-[Data](articles/76575b63.json)
+[Data](articles/a0bc2e67.json)
 
 ---
 
-### 4/21 தாக்குதல்: நிலந்தவுக்கு கட்டாய விடுமுறை
+### Mahinda Rajapaksa is ready to support President
+
+*2024-07-18 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/188796) · `ta`
+
+Former President Mahinda Rajapaksa is willing to back current President Ranil Wickremesinghe, but only if he continues traveling with them. Rajadurai Hashan hasn't made a decision yet. They discussed strategies to win elections without prematurely declaring victory and plans to reunite divided groups, though specifics were not disclosed.
+
+🟩
+
+(Rajadurai Hashan) has not yet decided to support President Ranil Wickremesinghe. Former President Mahinda Rajapakse said he would support if he was ready to continue to travel with us.
+
+Responding to a question raised in the media after a meeting with party members at the PA's office.- What are the plans to get rid of? Answer - We have the best plans to win. We will not mention that we will win the candidate -we will not mention it in a timely manner. Now we know that we are fielding a strong candidate. Then we know.Answer - our government question - will you reunite those who are separated?Answer - They will come in a timely manner - Do you decide to support the president? The answer is - not until now, if he is ready to travel with us, we will continue to cooperate.
+
+◼️
+
+[Data](articles/76575b63.json)
+
+[Extended Data](ext_articles/76575b63.ext.json)
+
+---
+
+### 4/21 Attack: Mandatory Holidays to the Northern Province
 
 *2024-07-18 19:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-21-தாக்குதல்-நிலந்தவுக்கு-கட்டாய-விடுமுறை/175-340641) · `ta`
 
-ஈஸ்டர் ஞாயிறு (4/21) தாக்குதல் தொடர்பாக நீதிமன்றத்தினால் அபராதம் விதிக்கப்பட்ட அரச புலனாய்வு சேவையின் முன்னாள் தலைவரும், பிரதி பொலிஸ்மா அதிபருமான நிலந்த ஜயவர்தன(நிர்வாகம்), ஒழுக்காற்று விசாரணைகள் நிறைவடையும் வரை கட்டாய விடுமுறையில் வைக்கப்பட்டுள்ளதாக தேசிய பொலிஸ் ஆணைக்குழு தெரிவித்துள்ளது.
+Following the Easter Sunday attack, the National Police Commission initiated disciplinary inquiries against Nilantha Jayawardena, a former SIS head and DIGP, placing him on mandatory leave pending the completion of these inquiries. This move comes after the Supreme Court's ruling, aiming to ensure impartiality during the process as he is currently on duty and could be influenced by witnesses.
 
-ஈஸ்டர் ஞாயிறு தாக்குதல் தொடர்பான உயர் நீதிமன்றத்தின் தீர்ப்பின் பிரகாரம் தேசிய பொலிஸ் ஆணைக்குழு கடந்த முதலாம் திகதி   நிலந்த ஜயவர்தனவுக்கு எதிராக ஒழுக்காற்று விசாரணைகளை ஆரம்பித்தது.
+🟩
 
-நிலந்த ஜயவர்தன, தற்போது கடமையாற்றுவதால், ஒழுக்காற்று விசாரணைக்கு சாட்சியமளிக்க வரும் சாட்சிகளிடம் செல்வாக்கு செலுத்தி ஒழுக்காற்று விசாரணைக்கு பாதகம் ஏற்படக்கூடும் என்பதாலேயே இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தேசிய பொலிஸ் ஆணைக்குழு தெரிவித்துள்ளது.
+The National Police Commission has said that the former head of the State Intelligence Service and Deputy Inspector General of Police Nilantha Jayawardena (administration), who was fined by the court on the Sunday (4/21) attack on Easter, has been on a compulsory holiday until the disciplinary inquiries are completed.
+
+According to the Supreme Court's decision on the Easter Sunday attack, the National Police Commission launched disciplinary inquiries against Jayawardena on the first day.
+
+The National Police Commission said that the action has been taken due to the fact that Nilantha Jayawardene is currently on duty and will be influenced by the witnesses who will testify to the disciplinary trial.
 
 ◼️
 
 [Data](articles/edaeded7.json)
+
+[Extended Data](ext_articles/edaeded7.ext.json)
 
 ---
 
@@ -226,21 +286,29 @@ Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena has been s
 
 ---
 
-### එංගලන්තයේ රැකියා මැවූ ජින්නා අල්ලයි
+### Jinna arrested in England
 
 *2024-07-18 18:06:44* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තයේ-රැකියා-මැවූ-ජින්නා-අල්ලයි/11-410854) · `si`
 
-එක්සත් රාජධානියේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අද දින (7/18) අත්අඩංගුවට ගෙන තිබේ.
+A person accused of fraudulently providing UK jobs without proper licensing was arrested in England by the Sri Lanka Foreign Employment Bureau. The suspect, from Samanthurai, allegedly deceived individuals into believing they could work as teachers' assistants and in restaurants. Complaints led to their arrest, with further investigations ongoing. The Bureau advises potential foreign workers to use licensed agencies and provides contact details for inquiries.
 
-කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව කොළඹ 02 ප්‍රදේශයේ Ocean Gate Travels & Tours නමින් ආයතනයක් පවත්වාගෙන යමින්, සමන්තුරේ පදිංචි පුද්ගලයෙකු විසින් එක්සත් රාජධානියේ ගුරු සහායිකා හා අවන්හලක රැකියා ලබාදීම සඳහා කාන්තාවක හා පිරිමි පුද්ගලයෙකුගෙන් එක් අයෙකුගෙන් රුපියල් ලක්ෂ 40 බැගින් මුදල් ලබාගෙන තිබේ. නමුත් පොරොන්දු වූ පරිදි රැකියා හිමි නොවීම හේතුවෙන් ඔවුන් විසින් කාර්යාංශය වෙත පැමිණිලි කර ඇති අතර, ඒ අනුව දෙහිවල ප්‍රදේශයේදී විමර්ශන නිළධාරීන් විසින් සැකකරු අත්අඩංගුවට ගන්නා ලදී.
+🟩
 
-සැකකරුගෙන් වැඩිදුර ප්‍රශ්න කිරීම් සිදුකිරීමෙන් අනතුරුව අද දින තලංගම පොලිස් ස්ථානයේ රඳවා තබා හෙට දින (7/19) කොළඹ අලුත් කඩේ අංක 5 දරණ අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතයි.
+A person who has defrauded money in the UK has been arrested by the Sri Lanka Foreign Employment Bureau today (7/18).
 
-සැකකරුට එරෙහිව කාර්යාංශය වෙත මේ වන විටත් පැමිණිලි ලැබෙමින් පවතින අතර, ඒ සම්බන්ධයෙන්ද විශේෂ විමර්ශන අංශය වැඩිදුර විමර්ශනයන් මෙහෙයවනු ලබයි.
+Without a valid license of the Bureau in Samanthurai, one of the women and male have been able to provide employment in the UK teacher assistant and restaurant by a person from Samanthurai.. However, they have lodged a complaint with the Bureau in Dehiwala, accordingly and in the Dehiwala area was arrested by the investigation officials.
 
-...
+The suspect is to be produced in the Talangama Police Station tomorrow (7/19) tomorrow.
+
+The Bureau is already receiving complaints against the suspect and the Special Investigation Department is conducting further investigations.
+
+To find a foreign employment or a person to obtain a foreign employment or a valid job agency, the Bureau at www.slbfe.lk www.slbfe.lkThe Bureau urges foreign employment seekers to obtain information by contacting or the 1989 hotline number.
+
+◼️
 
 [Data](articles/9ce692f1.json)
+
+[Extended Data](ext_articles/9ce692f1.ext.json)
 
 ---
 
@@ -586,19 +654,27 @@ He added that everyone except two people have been arrested in connection with t
 
 ---
 
-### கணித ஆசிரியரால் டியூஷனுக்கு முழுத்தடை
+### Full restriction to tuition by math teacher
 
 *2024-07-18 16:18:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணித-ஆசிரியரால்-டியூஷனுக்கு-முழுத்தடை/175-340630) · `ta`
 
-வடமத்திய மாகாணத்தில் உள்ள பாடசாலைகளில் கடமையாற்றும் அதிபர்கள், ஆசிரியர் ஆலோசகர்கள் மற்றும் ஆசிரியர்கள், பிரத்தியேக வகுப்புகளில் பணியாற்றுவதை முற்றாக தடை செய்து வடமத்திய தலைமை அமைச்சின் செயலாளர் சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
+In the North Central Province, a ban has been issued by the Ministry of Education, prohibiting principals, teachers, and other educational staff from conducting private classes or seminars during school hours or weekends. This decision comes after numerous complaints about these individuals prioritizing their private activities over their official duties, neglecting students in the process. The Secretary of the Ministry has warned of strict consequences for non-compliance.
 
-வடமத்திய மாகாண கல்வி அமைச்சின் செயலாளர் சிறிமேவன் தர்மசேன, மாகாணக் கல்விப் பணிப்பாளர்கள், அனைத்து பிராந்தியப் பணிப்பாளர்கள், கோட்டக் கல்விப் பணிப்பாளர்கள், பாடசாலை அதிபர்கள் ஆகிய அனைவருக்கும் இதனைத் தெரிவித்துள்ளார்.
+🟩
 
-வடமத்திய மாகாணத்தில் உள்ள பாடசாலைகளில் கடமையாற்றும் சில அதிபர்கள், ஆசிரியர் ஆலோசகர்கள் மற்றும் ஆசிரியர்கள் தமது வகுப்புகள் மற்றும் பாடசாலைகளில் மாணவர்களிடம் பணம் வசூலித்து தனியார் பிரத்தியேக வகுப்புகள் மற்றும் கருத்தரங்குகளை பாடசாலை நேரத்தில் , பாடசாலை நேரம் முடிந்ததும் அல்லது வார இறுதி நாட்களில் நடத்துவதாக தொடர்ந்து முறைப்பாடுகள் வந்துள்ளன .
+The Secretary of the North Central Ministry has issued a circular in the North Central Province, which has completely banned the work of principals, teachers and teachers and teachers who work in schools in the North Central Province.
+
+Secretary to the Ministry of Education of the North Central Province, Siriman Dharmasena, Provincial Education Directors, All Regional Directors, Kota Education Directors and School Principals.
+
+There have been constant complaints that some principals, teacher advisers and teachers who work in schools in the North Central Province have been charging private exclusive classes and seminars at school, school time or weekends.
+
+It has been reported that some teachers and principals have not been able to do the work of teaching at the school and ignore students who have not been able to go to their private classes and seminars.
 
 ...
 
 [Data](articles/426cc228.json)
+
+[Extended Data](ext_articles/426cc228.ext.json)
 
 ---
 
@@ -2219,53 +2295,5 @@ The suspects were aged 31-39, aged 31-39, and the cab used by the person was sei
 [Data](articles/b086dbbd.json)
 
 [Extended Data](ext_articles/b086dbbd.ext.json)
-
----
-
-### Returning to Country
-
-*2024-07-18 10:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பியவர்-கடத்தல்-ஒரு-கோடி-ரூபாய்-கப்பம்-பெற-முயற்சி/175-340600) · `ta`
-
-Four suspects, aged 31-39, linked to the abduction of a person from Mawathagama and held in Naramala, have been arrested by the Special Task Force. The victim, rescued with STF assistance, identified one of the perpetrators as someone from their workplace in Kuwait.
-
-🟩
-
-Special Task Force (STF) has arrested four suspects who had been abducted from Mawathagama from Mawathagama and kept in a house in Naramala area.
-
-Investigations have revealed that the abduction was carried out with the help of another person who worked in the same place when the person was working in Kuwait.
-
-According to information received by the Special Task Force officers, the person was safely rescued and four suspects have been arrested.
-
-The suspects were aged 31-39, aged 31-39, and the cab used by the person was seized by the Special Task Force.
-
-◼️
-
-[Data](articles/f1066a87.json)
-
-[Extended Data](ext_articles/f1066a87.ext.json)
-
----
-
-### Jeep accident traveled by MP Tissa Attanayake
-
-*2024-07-18 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188736) · `ta`
-
-MP Tissa Attanayake was involved in a jeep crash near Jawatte, Saluzala. A collision between a jeep and a car resulted in three injuries but no harm to the MP. The victims, including the car's driver and passenger, were hospitalized.
-
-🟩
-
-United People's Power MP Tissa Attanayake traveled a jeep crashed near Jawatte near Saluzala, Narahenpita police said.
-
-The accident occurred when a jeep and a car crashed into a passenger traveling to Tissa Attanayake last night.
-
-Three people were injured during the accident and parliamentarian Tissa Attanayake was not injured.
-
-In addition, the injured include the driver of the car and a passenger and the injured have been admitted to a private hospital in Narahenpitiya area, police said.
-
-◼️
-
-[Data](articles/a1692901.json)
-
-[Extended Data](ext_articles/a1692901.ext.json)
 
 ---

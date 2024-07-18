@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 14:07:16**
+As of **2024-07-18 14:20:26**
 
 ## Newspaper Stats
 
-*Scraped **35,909** Articles*
+*Scraped **35,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 338
 bbccomsinhala | 351
 newsfirstlk | 363
 islandlk | 2,040
-economynextcom | 2,142
+economynextcom | 2,143
 dailyftlk | 2,279
 adalk | 3,243
 adaderanalk | 4,142
-tamilmirrorlk | 4,352
+tamilmirrorlk | 4,353
 dailymirrorlk | 4,733
 virakesarilk | 5,601
 adaderanasinhalalk | 6,007
@@ -26,27 +26,53 @@ adaderanasinhalalk | 6,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,905 (100.0%) of 35,909 articles have been extended.
+35,909 (100.0%) of 35,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### බංග්ලාදේශය යුද පිටියක් වෙයි - අන්තර්ජාලයටත් බාධා
+### நண்பியின் பெயரை முகநூலில் பதிவிட்டு, உயிர் மாய்ப்பு
+
+*2024-07-18 13:56:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நண்பியின்-பெயரை-முகநூலில்-பதிவிட்டு-உயிர்-மாய்ப்பு/71-340622) · `ta`
+
+தனது நண்பிக்காக வங்கியில் இருந்து கடனாக பெற்று கொடுத்த பணத்தினை மீள செலுத்த முடியாதமையால் மனமுடைந்த குடும்ப பெண் ஒருவர் தவறான முடிவெடுத்து தனது உயிரை மாய்த்துள்ளார்.
+
+யாழ்ப்பாணம் , அல்வாய் பகுதியை சேர்ந்த மூன்று பிள்ளைகளின் தாயொருவரே இவ்வாறு தவறான முடிவெடுத்து உயிரை மாய்த்துக்கொண்டுள்ளார் .
+
+உறவு முறையான இரு பெண்களுக்கு இடையில் நீண்ட கால நட்பு இருந்து வந்துள்ளது. அதில் ஒரு பெண் பண கஷ்டத்தில் இருந்த போது மற்றைய பெண் வங்கியில் பெருந்தொகை பணத்தினை கடனாக பெற்று , தனது நண்பிக்கு பண உதவி செய்துள்ளார்.
+
+பண உதவியை பெற்றுக்கொண்ட பெண் , பணத்தினை மீள செலுத்தாத நிலையில் , வங்கியில் கடன் பெற்ற பெண் , பண நெருக்கடிக்கு ஆளாகி , மனவுளைச்சலில் காணப்பட்டுள்ளார்.
+
+இந் நிலையில் முகநூலில் நண்பியின் பெயரையும் , தனது மரணத்திற்கு காரணம் இவர் தான் என்றும் இவரால் தான் தனது மூன்று பிள்ளைகளையும் அநாதையாக விட்டு செல்வதாகவும் பதிவிட்டு உயிரை மாய்த்துக்கொண்டுள்ளார் .
+
+◼️
+
+[Data](articles/011c7508.json)
+
+---
+
+### Bangladesh become a military page - interruptions online
 
 *2024-07-18 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198947) · `si`
 
-බංග්ලාදේශයේ විශ්වවිද්‍යාල සිසුන් විසින් ආරම්භකර ඇති විරෝධතා ව්‍යාපාරය හේතුවෙන් රට තුළ ගැටුම්කාරී වාතාවරණයක් ඇති වී තිබෙන බව විදෙස් මාධ්‍ය පවසයි.
+In Bangladesh, student-led protests against a government job allocation policy for family members escalated into violence, leading to six deaths and numerous injuries. Police used tear gas and temporarily banned mobile phones to curb misinformation and maintain order.
 
-පොලීසිය විසින් විරෝධතාකරුවන් පාලනය සඳහා කඳුළු ගෑස් ප්‍රහාර එල්ලකර ඇති අතර එසේම කටකතා පැතිරීම වැලැක්වීම සඳහා ජංගම දුරකථන සඳහා අන්තරජාල පහසුකම් අත්හිටුවීමට ද පියවෙර ගෙන තිබුණි.
+🟩
 
-නිදහස් සටන සඳහා එක්වූ පවුල්වල දරුවන් සඳහා රැකියාවලින් 30%ක් වෙන් කිරීමට රජය ගෙන ඇති තීරණය ඉවත්කර ගන්නා ලෙස ඉල්ලමින් සිසු විරෝධතා පැවැත්වෙයි.
+The protests founded by university students in Bangladesh have caused a conflict environment in the country.
 
-ඇතිවූ ගැටුම් හේතුවෙන් මේ දක්වා 6 දෙනෙක් මියගොස් විශාල ගණනක් තුවාල ලබා තිබේ.
+The police had also taken tear gas attacked by the protesters and was suspended for mobile phones to prevent rumors.
+
+Students protests are underway to remove the government's decision to allocate 30% of the jobs for the families of the Families.
+
+Six people were killed and many were wounded due to conflicts.
 
 ◼️
 
 [Data](articles/7e750475.json)
+
+[Extended Data](ext_articles/7e750475.ext.json)
 
 ---
 
@@ -68,21 +94,47 @@ He had been living overseas for a period before returning to the country and was
 
 [Data](articles/fb1b7809.json)
 
+[Extended Data](ext_articles/fb1b7809.ext.json)
+
 ---
 
-### පපුවේ ගිනි නිවුණ හැටි
+### United States committed to supporting Sri Lanka’s progress in IMF program: Officials
+
+*2024-07-18 13:45:00* · [`economynextcom`](https://economynext.com/united-states-committed-to-supporting-sri-lankas-progress-in-imf-program-officials-172739/) · `en`
+
+ECONOMYNEXT – The United States has said it was committed to supporting Sri Lanka’s progress in its IMF program by encouraging private-sector investment, when officials of the two countries met at the 5th Sri Lanka–USA Partnership Dialogue.
+
+“The United States expressed its commitment to supporting Sri Lanka’s progress in its IMF program by encouraging private-sector investment, enhancing its capacity to combat corruption, and addressing food insecurity for vulnerable populations,” a statement by the two governments said after the meeting concluded on July 12 in Washington, DC.
+
+“Both delegations reiterated their intent to explore new opportunities to enhance market access, bilateral trade, investment, and tourism.”
+
+“The delegations also welcomed continued discussions under the US-Sri Lanka Trade and Investment Framework Agreement in the coming year, where they will discuss bilateral trade issues.”
+
+...
+
+[Data](articles/4ce3a07c.json)
+
+---
+
+### How the chest fires
 
 *2024-07-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198946) · `si`
 
-රත්නපුර ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරියේ මේසයක් මත දමා ගොස් තිබූ රුපියල් ලක්ෂයක මුදලක් හිමිකාරියට බාරදීමට ආරක්ෂක නිලධාරීයා ඇතුළු නිලධාරීන් ක්‍රියාකරනු ලැබීය.
+The security officer, along with others, reported to the owner of the National Gem and Jewelry Authority. The owner, expressing confusion about a license renewal process, mentioned being unaware of how to proceed due to a lack of experience and reliance on the kindness of colleagues, wishing them well.
 
-බලපත්‍රයක් අලුත් කිරීම සඳහා ඉඩමක් උගස් කර ලබාගත් මුදල් රැගෙන පැමිණ ඇති අදාළ හිමිකාරිය සිදුවු අකරතැබ්බය ගැන මෙලෙස පැවසීය.
+🟩
 
-"මම දන්නේ නෑ කොහොම වැටුණ ද කියලා. මම ගිනි අරන් හිටියේ. මට පෙෂර් එකත් තියෙනවා. ඒක ලැබුණා මට මේ සංස්ථාවේ ඉන්න සර්ලාගේ හොඳකම නිසා. මේ අයට දීර්ඝ ආයුෂ ලැබෙන්න කියලා මම ප්‍රාර්ථනා කරනවා."
+The security officer, including the security officer, operated to the owner of the National Gem and Jewelery Authority.
+
+The owner of the respective owner had taken into the renewal of a license to the renewal of a license said:
+
+"I don't know how to fall. I was on fire. I also have the psiere. Got it because of the goodness of Sirla's goodness in this corporation. I wish these people to get long. "
 
 ◼️
 
 [Data](articles/3d10086c.json)
+
+[Extended Data](ext_articles/3d10086c.ext.json)
 
 ---
 
@@ -431,6 +483,8 @@ On March 28, 2024, the Colombo High Court sentenced Gnanasara Thero to four year
 ...
 
 [Data](articles/1afa72be.json)
+
+[Extended Data](ext_articles/1afa72be.ext.json)
 
 ---
 
@@ -2191,47 +2245,5 @@ The Sri Lankan government has repeatedly announced that there is insufficient fu
 [Data](articles/d4ed37f8.json)
 
 [Extended Data](ext_articles/d4ed37f8.ext.json)
-
----
-
-### Ranil nor Tammika not announces to the party
-
-*2024-07-17 23:31:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலோ-தம்மிக்கவோ-கட்சிக்கு-அறிவிக்கவில்லை/175-340584) · `ta`
-
-Namal Rajapakse, national organizer of Sri Lanka PA, confirmed no announcements yet about President Ranil Wickremesinghe, businessman Tamika Perera, or any other candidate for the upcoming presidential election. The PA's Secretary, Sagara Kariyawasam, promised to reveal the candidate's name soon.
-
-🟩
-
-Sri Lanka PA has not announced that President Ranil Wickremesinghe or businessman Tamika Perera or anyone else will contest the presidential election, said Namal Rajapakse, the national organizer and parliamentarian of the Sri Lanka PA.
-
-He said this when the journalists questioned who would contest the presidential election in the PA.
-
-Commenting on the candidate, the Secretary of the Sri Lanka Peoples Alliance (PA), Attorney -at -Law Sagara Kariyawasam, will announce the name of the candidate in a timely manner.
-
-◼️
-
-[Data](articles/5bce7dad.json)
-
-[Extended Data](ext_articles/5bce7dad.ext.json)
-
----
-
-### Do not dig and bury the village
-
-*2024-07-17 23:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராமம்-என்று-சொல்லி-குழி-தோண்டி-புதைக்காதீர்கள்/175-340583) · `ta`
-
-The Tamil Progressive Alliance (TPA) demands the removal of plantation administration control over 200,000 families living in large gardens, advocating for land rights and new settlements named "Plantation New Settlement Villages." They oppose the idea of Lion Combras as new villages, emphasizing the need for land ownership near national highways, similar to other regions, and the inclusion of women in land rights.
-
-🟩
-
-The leading demand in the political manifesto of the Tamil Progressive Alliance (TNA) is to remove about 200,000 families living in large gardens from the modern slavery of plantation administrations. Do that. We support it policy. But we cannot accept what you are trying to say today that Lion Combras are the new villages. Mano Ganesan MP said that we cannot accept the lives of the mountain tribes on the tops of our people anymore.
-
-The Tamil Progressive Alliance (TNA), which has been politically inaugurated by your regime since 2015, has set up a land right to set up new villages with land ownership in large gardens, in the name of the Ministry of Mountains. Last year, he said that the main slogan and land rights demanded by the political parties, trade unions and civil organizations in the events of the upcountry people of the hill country last year.. .
-
-...
-
-[Data](articles/a10667b8.json)
-
-[Extended Data](ext_articles/a10667b8.ext.json)
 
 ---

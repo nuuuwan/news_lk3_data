@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 19:35:26**
+As of **2024-07-18 19:54:01**
 
 ## Newspaper Stats
 
-*Scraped **35,971** Articles*
+*Scraped **35,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,151
 dailyftlk | 2,281
 adalk | 3,251
 adaderanalk | 4,151
-tamilmirrorlk | 4,362
+tamilmirrorlk | 4,363
 dailymirrorlk | 4,733
 virakesarilk | 5,612
 adaderanasinhalalk | 6,018
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,971 (100.0%) of 35,971 articles have been extended.
+35,971 (100.0%) of 35,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### 4/21 தாக்குதல்: நிலந்தவுக்கு கட்டாய விடுமுறை
+
+*2024-07-18 19:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-21-தாக்குதல்-நிலந்தவுக்கு-கட்டாய-விடுமுறை/175-340641) · `ta`
+
+ஈஸ்டர் ஞாயிறு (4/21) தாக்குதல் தொடர்பாக நீதிமன்றத்தினால் அபராதம் விதிக்கப்பட்ட அரச புலனாய்வு சேவையின் முன்னாள் தலைவரும், பிரதி பொலிஸ்மா அதிபருமான நிலந்த ஜயவர்தன(நிர்வாகம்), ஒழுக்காற்று விசாரணைகள் நிறைவடையும் வரை கட்டாய விடுமுறையில் வைக்கப்பட்டுள்ளதாக தேசிய பொலிஸ் ஆணைக்குழு தெரிவித்துள்ளது.
+
+ஈஸ்டர் ஞாயிறு தாக்குதல் தொடர்பான உயர் நீதிமன்றத்தின் தீர்ப்பின் பிரகாரம் தேசிய பொலிஸ் ஆணைக்குழு கடந்த முதலாம் திகதி   நிலந்த ஜயவர்தனவுக்கு எதிராக ஒழுக்காற்று விசாரணைகளை ஆரம்பித்தது.
+
+நிலந்த ஜயவர்தன, தற்போது கடமையாற்றுவதால், ஒழுக்காற்று விசாரணைக்கு சாட்சியமளிக்க வரும் சாட்சிகளிடம் செல்வாக்கு செலுத்தி ஒழுக்காற்று விசாரணைக்கு பாதகம் ஏற்படக்கூடும் என்பதாலேயே இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தேசிய பொலிஸ் ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/edaeded7.json)
+
+---
 
 ### Justice Minister withholds gazetting of 22nd Amendment
 
@@ -2295,27 +2311,5 @@ A video showcases life aboard a cargo ship carrying Sri Lankan workers. It highl
 [Data](articles/595c3702.json)
 
 [Extended Data](ext_articles/595c3702.ext.json)
-
----
-
-### Three men, including a woman attempting to escape from India
-
-*2024-07-18 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188739) · `ta`
-
-Three individuals were arrested for aiding a Sri Lankan woman, Vijitha, in her illegal attempt to leave India via sea after her visa expired. The group included a woman named Jesu from Dhanushkodi and two others. Vijitha, originally from Mullaitivu, had visited Chennai for treatment of a mental illness but decided to flee when her visa ended. The Rameswaram Port Police are investigating the incident.
-
-🟩
-
-Three people have been arrested for helping a Sri Lankan woman who tried to flee to Sri Lanka through India's Dhanushkodi Sea.
-
-Vijitha (45) from Mullaitivu, Sri Lanka, has traveled to Chennai for a six -month visa by flight in December 2023 and has been treated for mental illness.
-
-In this case, as the visa period ended, Vijitha, who was ready to depart from the Rameswaram fishing port on Wednesday (17) night (17), was awarded Jesu from Dhanushkodi and illegally to the boat from Dhanushkodi.Rameshwaram Port Police Station Police have arrested the police and are conducting investigations.
-
-◼️
-
-[Data](articles/0af910c0.json)
-
-[Extended Data](ext_articles/0af910c0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 17:05:08**
+As of **2024-07-18 17:20:05**
 
 ## Newspaper Stats
 
-*Scraped **35,944** Articles*
+*Scraped **35,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 338
 bbccomsinhala | 352
 newsfirstlk | 363
 islandlk | 2,040
-economynextcom | 2,146
+economynextcom | 2,147
 dailyftlk | 2,281
-adalk | 3,246
-adaderanalk | 4,146
+adalk | 3,247
+adaderanalk | 4,147
 tamilmirrorlk | 4,361
 dailymirrorlk | 4,733
 virakesarilk | 5,607
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,013
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,942 (100.0%) of 35,944 articles have been extended.
+35,944 (100.0%) of 35,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### Criminal gang member “Piyuma” remanded
+
+*2024-07-18 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100602/criminal-gang-member-piyuma-remanded) · `en`
+
+The Fort Magistrate’s Court has ordered for underworld criminal gang member Piyum Hasthika alias “Piyuma” to be remanded in custody until July 31.
+
+This order was issued when the suspect, who was detained under the custody of the Criminal Investigations Department (CID) after being repatriated to Sri Lanka from Dubai, was produced before the court today (18).
+
+Piyum Hasthika alias “Piyuma”, who is reportedly the main accomplice of the notorious underworld figure and drug trafficker Salindu Malshika Gunaratne alias “Kudu Salindu,” was repatriated to Sri Lanka from Dubai, UAE on February 15, 2024.
+
+Subsequently, the CID secured detention orders under the Prevention of Terrorism Act (PTA) to interrogate the suspect.
+
+According to Sri Lanka Police, “Piyuma” was first arrested in 2018 for the possession of 20g of heroin and had been referred to a rehabilitation centre for three months.
+
+...
+
+[Data](articles/01d978e2.json)
+
+---
 
 ### Sri Lanka plans legislation to designate areas occupied by plantation workers as new settlement villages
 
@@ -78,19 +98,27 @@ It was revealed that he had fled to Dubai on the 9th of February 2011.
 
 ---
 
-### டெட்டுவிடம் வாக்குமூலம் பெற்ற அதிகாரிகளுக்கு தண்டனை இல்லை
+### The authorities who have confessed to Tetu are not punished
 
 *2024-07-18 16:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெட்டுவிடம்-வாக்குமூலம்-பெற்ற-அதிகாரிகளுக்கு-தண்டனை-இல்லை/175-340631) · `ta`
 
-அத்துருகிரியவில் சுட்டு படுகொலைச் செய்யப்பட்ட ‘கிளப் வசந்த’ என்றழைக்கப்படும் வர்த்தகர் சுரேந்திர வசந்த பெரேராவின் படுகொலை தொடர்பில் கைது செய்யப்பட்ட பச்சை குத்தும் நிலையத்தின் உரிமையாளரிடம் ஊடங்களின் முன்னிலையில் வாக்குமூலம் பெற்றார் என குற்றஞ்சாட்டப்பட்டுள்ள பிரதி பொலிஸ்மா அதிபர் உள்ளிட்ட அதிகாரிகளுக்கு எதிராக எவ்விதமான ஒழுக்காற்று நடவடிக்கைகளோ அல்லது விசாரணைகளோ முன்னெடுக்கப்படமாட்டாது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்  தெரிவித்துள்ளார்.
+Authorities confessing to involvement in the assassination of businessman Surendra Vasantha Perera won't face punishment. Despite a video showing a group led by a Deputy Inspector General of Police, Minister of Public Defense Dr. Ales stated no disciplinary actions will be taken. He emphasized the importance of learning from mistakes but clarified he didn't consult with the Inspector General of Police regarding this matter. All except two individuals involved in the shooting have been arrested, and the minister highlighted financial difficulties, stating his businesses are bankrupt and he owes money to the country.
 
-மேல் மாகாண பிரதி பொலிஸ்மா அதிபர் தலைமையிலான குழுவினர்  சந்தேகநபர் ஒருவரை விசாரணை செய்யும் வீடியோ வெளியாகியுள்ளது. இது தொடர்பில் பொலிஸ் உத்தியோகத்தர்களுக்கு  எதிராக நடவடிக்கை எடுக்கப்படுமா என்ற கேள்விக்கு பதிலளித்த அமைச்சர் டிரான் அலஸ்  “இந்த தவறை மீண்டும் செய்யவேண்டாம் என கடுமையாக தான் எச்சரித்துள்ளதாக தெரிவித்துள்ளார்.
+🟩
 
-அந்த பொலிஸ் உத்தியோகத்தர்களுக்கு எதிராக நடவடிக்கைகளை எடுக்குமாறு பொலிஸ்மா அதிபருக்கு தான்  பணிக்கவில்லை என்றார்.
+The Minister of Public Defense, Dr. Ales, said that no disciplinary action or inquiries will be carried out against the authorities, including the Deputy Inspector General of Police, accused of the Media owner of the tattoo, who was arrested in connection with the assassination of businessman Surendra Vasantha Perera, who was shot dead in Athurugiriya.
+
+Video of a group headed by a team led by the Deputy Inspector General of Police of the Western Province. Responding to a question whether action would be taken against the police officers in this regard, Minister Tran Ales said, “He has warned that he should not repeat this mistake.
+
+He said he did not work with the Inspector General of Police to take action against the police officers.
+
+He added that everyone except two people have been arrested in connection with the shooting incident.When the club was shot dead, he was lending all over the country. The minister said he had no money in his hand.
 
 ...
 
 [Data](articles/e4fe9969.json)
+
+[Extended Data](ext_articles/e4fe9969.ext.json)
 
 ---
 
@@ -235,6 +263,24 @@ The Department of Meteorology points out that the fisheries and the naval commun
 [Data](articles/8729f914.json)
 
 [Extended Data](ext_articles/8729f914.ext.json)
+
+---
+
+### USAID gives Sri Lanka disaster management equipment
+
+*2024-07-18 15:46:00* · [`economynextcom`](https://economynext.com/usaid-gives-sri-lanka-disaster-management-equipment-172771/) · `en`
+
+ECONOMYNEXT – The USA has given vital equipment to Sri Lanka’s Disaster Management Centre (DMC) to strengthen the island’s preparedness for climate-related emergencies, as climate change intensifies.
+
+The donation was made by the United States Agency for International Development’s (USAID) Bureau for Humanitarian Assistance (BHA), through the United Nations World Food Programme (WFP).
+
+The consignment is part of a broader 2.5 million dollar (approx 760 million rupees) USAID-funded WFP project and will complement government efforts to improve its disaster risk management capacities and strengthen Sri Lanka’s ability to better prepare for climate shocks.
+
+Equipment including submersible water pumps, kitchen sets, chainsaws, polysack bags and tarpaulins, was handed over by USAID BHA’s Regional Humanitarian Advisor for South and Central Asia Dustin Shiau to Director General of the DMC Major General (Retired) Udaya Herath.
+
+...
+
+[Data](articles/24b9e2d7.json)
 
 ---
 
@@ -755,6 +801,24 @@ We have arrested many to be arrested in Athurugiriya incident. I think there's m
 [Data](articles/f53720db.json)
 
 [Extended Data](ext_articles/f53720db.ext.json)
+
+---
+
+### විරේන් කලින්ම ප්‍රංශයට යයි
+
+*2024-07-18 13:21:30* · [`adalk`](https://www.ada.lk/breaking_news/විරේන්-කලින්ම-ප්‍රංශයට-යයි/11-410851) · `si`
+
+ප්‍රංශයේ පැවැත්වෙන ඔලිම්පික් ක්‍රීඩා උළෙල සදහා සහභාගී වීමට ශ්‍රී ලංකා පිරිමි කණ්ඩායමේ නායක , බැඩ්මින්ටන් ක්‍රීඩක 07/18 අලුයම කටුනායක ගුවන් තොටුපොළෙන් පැරිස් නුවර බලා පිටත්ව ගියේය.
+
+එළඹෙන 07/26 දින ප්‍රංශයේ පැරිස් නුවර දී ආරම්භ වන මෙම ඔලිම්පික් තරගාවලියේ දී බැඩ්මින්ටන් ක්‍රීඩා ඉසව්ව සදහා සහභාගී වන ළාබාලතම බැඩ්මින්ටන් ක්‍රීඩකයා වන්නේ ද ශ්‍රී ලංකා ක්‍රීඩක විරේන් නෙත්තසිංහ වීම විශේෂත්වයක .
+
+විරේන් නෙත්තසිංහ තම පුහුණුකරු මෙන්ම තම පියා වන රොෂාන් නෙත්තසිංහ සමග පැරිස් බලා පිටත්ව යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ.
+
+ඔවුන් 07/18 දින අලුයම 03.35 ට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 663 දරන ගුවන් යානයෙන් දෝහා වෙත ගොස් , එතැන් සිට ප්‍රංශයේ පැරිස් නුවර බලා පිටත්ව යාමට නියමිතය.
+
+◼️
+
+[Data](articles/fda68b9b.json)
 
 ---
 
@@ -2261,53 +2325,5 @@ The Enterprise Surveys collect data on firms’ perception of the business envir
 [Data](articles/6a351488.json)
 
 [Extended Data](ext_articles/6a351488.ext.json)
-
----
-
-### Nestlé Lanka celebrates long-standing business partnerships
-
-*2024-07-18 04:39:08* · [`dailyftlk`](https://www.ft.lk/business/Nestlé-Lanka-celebrates-long-standing-business-partnerships/34-764429) · `en`
-
-Nestlé Lanka recently held the “Connect@Nest’24’” event, to honour and recognise the valued business partnerships of the “Good Food Good Life” company.
-
-This felicitation event brought together a diverse array of business partners across the value chain, all of whom contribute to Nestlé Lanka’s vision of delighting Sri Lankan consumers with products filled with taste and goodness.
-
-...
-
-[Data](articles/a334aa86.json)
-
-[Extended Data](ext_articles/a334aa86.ext.json)
-
----
-
-### Former Australia’s PM in town to address Human Capital Summit
-
-*2024-07-18 04:36:50* · [`dailyftlk`](https://www.ft.lk/business/Former-Australia-s-PM-in-town-to-address-Human-Capital-Summit/34-764428) · `en`
-
-Australia’s 30th Prime Minister Scott Morrison arrived yesterday to address the 2024 Sri Lanka Human Capital Summit which will be held in Colombo today. He was welcomed at the Airport by State Minister of Defence Premitha Bandara Tennakoon and Human Capital Summit Chairman Dinesh Weerakkody. The Summit will be inaugurated by President Ranil Wickremesinghe
-
-◼️
-
-[Data](articles/1e9bf1d5.json)
-
-[Extended Data](ext_articles/1e9bf1d5.ext.json)
-
----
-
-### Committee to assess security threats against Presidential candidates
-
-*2024-07-18 04:32:39* · [`dailyftlk`](https://www.ft.lk/news/Committee-to-assess-security-threats-against-Presidential-candidates/56-764426) · `en`
-
-President Ranil Wickremesinghe has submitted a Cabinet paper seeking approval from the Cabinet to ensure the safety of the Presidential candidates ahead of the upcoming election, the President’s Media Division (PMD) said yesterday.
-
-The President’s Media Division said the proposal recommends forming a committee to conduct threat assessments and ensure security for Presidential candidates and former Presidents.
-
-This committee will be chaired by the Ministry of Public Security Secretary and will include the Chief of Defence Staff, the Inspector General of Police, the Chief of National Intelligence, and the Senior Deputy Inspector General of Police responsible for overseeing elections. Additionally, a Deputy Inspector General of Police will also be appointed to oversee all security arrangements.
-
-...
-
-[Data](articles/f224ca94.json)
-
-[Extended Data](ext_articles/f224ca94.ext.json)
 
 ---

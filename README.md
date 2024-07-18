@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 06:01:47**
+As of **2024-07-18 07:01:40**
 
 ## Newspaper Stats
 
-*Scraped **35,821** Articles*
+*Scraped **35,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 318
 colombotelegraphcom | 337
 bbccomsinhala | 350
 newsfirstlk | 363
-islandlk | 2,038
+islandlk | 2,039
 economynextcom | 2,136
 dailyftlk | 2,267
 adalk | 3,234
@@ -20,17 +20,47 @@ adaderanalk | 4,131
 tamilmirrorlk | 4,331
 dailymirrorlk | 4,733
 virakesarilk | 5,594
-adaderanasinhalalk | 5,989
+adaderanasinhalalk | 5,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,804 (100.0%) of 35,821 articles have been extended.
+35,815 (100.0%) of 35,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### ජෝ බයිඩන් ට කොවිඩ් ආසාදනය වෙයි
+
+*2024-07-18 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198929) · `si`
+
+අමෙරිකානු ජනාධිපති ජෝ බයිඩන් හට කොවිඩ් -19 වෛරසය ආසාදන වී තිබේ.
+
+ජනාධිපතිවරයාට පැවති රෝග ලක්ෂණ මත සිදුකළ පරික්ෂාවකදී ඒ පිළිබඳ තහවුරු වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+කෙසේවෙතත් ජෝ බයිඩන් ජනාධිපතිවරයාට මීට පෙර අවස්ථා දෙකකදී ද කොවිඩ් වෛරය ආසාදනය වී තිබිණි.
+
+81 හැවිරිදි අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සිය රෝගී තත්ත්වය හේතුවෙන් අද (18) පැවැත්වීමට නියමිතව තිබු සිය දේශපාලන ප්‍රචාරක රැස්වීමක් ද අවලංගු කර තිබේ.
+
+◼️
+
+[Data](articles/cbc391e6.json)
+
+---
+
+### ධීවර සහ නාවික ප්‍රජාවට රතු නිවේදනයක්
+
+*2024-07-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198928) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/f00ca5e5.json)
+
+---
 
 ### CEAT Kelani wins eight Golds for Quality Improvement at National Convention on Quality and Productivity
 
@@ -194,99 +224,137 @@ According to President Ranil Wickremesinghe, the 2024 budget was implemented in 
 
 ---
 
-### கருணா அம்மானுக்கும் ஐக்கிய தேசியக் கட்சிக்கும் இடையே விசேட கலந்துரையாடல்!
+### Special discussion between Karuna Amman and the United National Party!
 
 *2024-07-18 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188728) · `ta`
 
-கருணா அம்மான் தலைமையிலான தமிழர் ஐக்கிய சுதந்திர முன்னணிக்கும் ஐ.தே.கட்சியின் முன்னாள் அமைச்சர் அகிலவிராஜ் காரியவம்சம் தலைமையிலான குழுவினருக்கும் இடையே விசேட கலந்துரையாடல்  ஒன்று புதன்கிழமை (17) இடம்பெற்றிருந்தது.
+Karuna Amman, leading the Tamil United Freedom Alliance, had a productive meeting with former UNP minister Akhilaviraj Kariyawamsam on 17th July 2024. They discussed strategies for the upcoming presidential election, marking significant progress towards their goals.
 
-புதன்கிழமை  (17.07.2024) மாலை 3 மணியளவில் சிறிகோத்தாவில் ஐக்கிய தேசியக் கட்சியின் தலைமை நிர்வாக குழுவின் அழைப்பினை ஏற்று, தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைமைப்பீடம் கருணா அம்மான் தலைமையில், உபதலைவர் ஜெயா சரவணா மற்றும் செயலாளர் செந்தூரன் ஆகிய குழுவினர், ஐ.தே.கட்சியின் முன்னாள் அமைச்சராக உள்ள அகிலவிராஜ் காரியவம்சம் தலைமையில் முக்கிய கலந்துரையாடலை மேற்கொண்டிருந்தனர்.
+🟩
 
-குறித்த கலந்துரையாடலில் வரவிருக்கும் ஜனாதிபதி தேர்தலுக்கான பல்வேறு திட்டங்கள் தொடர்பாக விரிவாகவும், சிறப்பான முடிவுகளுடன் ஆராயப்பட்டுப் பேசப்பட்டதாகத் தெரியவருகிறது.
+A special discussion was held on Wednesday (17) between the Tamil United Freedom Alliance (UPFA) led by Karuna Amman and the former UNP minister Akhilaviraj Kariyawamsam.
+
+On Wednesday (17.07.2024) at 3 pm, the United National Party (UNP) Chief Executive Committee, headed by the United National Party (UNP) leadership of the Tamil National Alliance (UNP), Karuna Amman, Vice President Jaya Saravana and Secretary Senthuran, the former minister of the UNP, Akhilaviraj KariyawamsamCarrying.
+
+It has been revealed that the various plans for the upcoming presidential election have been discussed in detail and with great results.
 
 ◼️
 
 [Data](articles/668a6b88.json)
 
+[Extended Data](ext_articles/668a6b88.ext.json)
+
 ---
 
-### யுனெஸ்கோவில் இலங்கை உறுப்புரிமை பெற்று 75 ஆண்டுகள் நிறைவு: பணிப்பாளர் நாயகம் ஒட்ரே அசோலே கண்டிக்கு விஜயம்
+### Sri Lankan membership in UNESCO 75 years completed
 
 *2024-07-18 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188727) · `ta`
 
-யுனெஸ்கோவில் இலங்கை உறுப்புரிமை பெற்று 75 ஆண்டுகள் நிறைவடைவதை முன்னிட்டு இலங்கைக்கு விஜயம் செய்துள்ள யுனெஸ்கோவின் பணிப்பாளர் நாயகம் ஒட்ரே அசோலே (Audrey Azoulay) புதன்கிழமை (17) காலை கண்டிக்கு விஜயம் செய்துள்ளார்.
+UNESCO's Director General recently visited Sri Lanka, marking 75 years since its membership. The visit included welcoming ceremonies and tours of significant sites like the Temple of the Sacred Tooth Relic, Peradeniya University, and the Botanical Gardens.
 
-கண்டிக்கு சென்றுள்ள பணிப்பாளர் நாயகத்தை மத்திய மாகாண ஆளுநர் சட்டத்தரணி லலித் யு கமகே வினால்  வரவேற்கப்பட்டார்.
+🟩
 
-இங்கு குறுகிய விஜயத்தை மேற்கொண்ட பணிப்பாளர் நாயகம், ஸ்ரீ தலதா மாளிகை, பேராதனை பல்கலைக்கழகம் மற்றும் தாவரவியல் பூங்கா போன்றவற்றுக்குச் சென்று  அங்கு   இடம்பெற்ற நிகழ்வுகளிலும் கலந்துகொள்ள உள்ளார்.
+UNESCO's Director General of UNESCO visited Sri Lanka on Wednesday morning (17) morning.
+
+The Director General of Kandy was welcomed by the Governor of the Central Province Lalit Yu Kamage.
+
+The Director General, who made a short visit, will visit Sri Dalada Maligai, Peradeniya University and Botanical Gardens.
 
 ◼️
 
 [Data](articles/81850010.json)
 
+[Extended Data](ext_articles/81850010.ext.json)
+
 ---
 
-### புதிய மீன்பிடி சட்டத்திற்கு எதிராக சுவரொட்டிகள்
+### Posters against new fishing law
 
 *2024-07-18 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188726) · `ta`
 
-அரசினால் உருவாக்கப்பட்ட புதிய மீனவச் சட்ட வரைப்பிற்கெதிராக புதன்கிழமை(17) மன்னார் நகர பகுதியில் சுவரொட்டிகள் ஒட்டப்பட்டன.
+Protesters in Mannar town opposed a new fisheries law, claiming it threatens the fishing industry. The Mannar District Youth Organization, part of the National Fisheries Cooperation Movement, posted signs vowing to fight the law, which they say could harm those dependent on fishing.
 
-மீனவ அமைப்புக்களின் ஒன்றியம் எனும் பெயரில் தேசிய மீனவ ஒத்துழைப்பு இயக்கத்தின் மன்னார் மாவட்ட இளைஞர் அமைப்பினரால்  குறித்த சுவரொட்டிகள் ஒட்டப்பட்டன.
+🟩
 
-குறித்த சுவரொட்டியில் மீன்பிடி தொழிலை நம்பி வாழும் அனைவரினதும் வயிற்றில் அடிக்கும் புதிய மீன்பிடி சட்டத்தை தோற்கடிப்போம் என குறிப்பிடப்பட்டுள்ளது.
+Posters were pasted in the Mannar town on Wednesday (17) against the new fisheries law created by the state.
+
+The posters were pasted by the Mannar District Youth Organization of the National Fisheries Cooperation Movement in the name of the Fisheries Organization Union.
+
+The poster has been mentioned that we will defeat the new fishing law in the stomach of all those who rely on the fishing industry.
 
 ◼️
 
 [Data](articles/46d353f6.json)
 
+[Extended Data](ext_articles/46d353f6.ext.json)
+
 ---
 
-### 100PLUS ஐசோடோனிக் பானம் இலங்கையில் அறிமுகம்
+### 100plus Isotonic Drink Introduction to Sri Lanka
 
 *2024-07-18 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188725) · `ta`
 
-இலங்கையின் தக்ரால்  குழும அங்கத்தவரான போல்ட் டிஸ்ட்ரிபியூஷன் மூலம் நடத்தப்பட்ட மலேசியாவின் முதன்மையான ஐசோடோனிக் பானமான 100PLUS இன் அறிமுக நிகழ்வு கொழும்பு ITC ரத்னதிபவில் nadaipettrathu " இலங்கை  சந்தையில் வியக்கத்தக்க மாற்றங்களை செய்யப்போகும் 100PLUS பானம் உங்களுக்கு புத்துணர்ச்சி, நீரேற்றம் ஆகியவற்றுடன் உற்சாகத்தையும் தரக்கூடிய வகையில் சரியாக வடிவைக்கப்பட்ட கலவையாகும்" என தக்ரால் குழுமத்தின் இலங்கையின் பிரதம நிறைவேற்று அதிகாரி ஹில்மி நியாஸ் தெரிவித்தார்.
+100plus, Malaysia's first isotonic beverage from the Takral Group, launched in Colombo, aiming to revitalize the Sri Lankan market with its rapid hydration and energy restoration benefits. The event featured Malaysian High Commissioner Budli Hisham Adam and F&N International Market Development's Lai Kong Ming, alongside officials from various companies. Bolt Distribution's involvement highlights the drink's potential impact, supported by partnerships like the LPL Cricket League and the Royal College Rugby Group.
 
-இந்த நிகழ்வில் இலங்கை மற்றும் மாலைதீவுகளுக்கான மலேசிய உயர்ஸ்தானிகர் அதிமேதகு எச். பட்லி ஹிஷாம் ஆடம், மலேசிய  F&N  சர்வதேச சந்தை மேம்பாட்டிற்கான நிர்வாக இயக்குனர் திரு. லாய் காங் மிங் ஆகியோர் கலந்து சிறப்பித்தனர். அத்துடன், நாடளாவிய ரீதியில் உள்ள அரச மற்றும் தனியார் நிறுவனங்களின் பிரமுகர்களும், முன்னணி சந்தைப்படுத்தல் நிறுவனங்களின் உத்தியோகத்தர்களும் FMCG இன் சில்லறை விற்பனையாளர்களும் பிரசன்னமாகி இருந்தனர்.
+🟩
+
+The launch of the 100plus of Malaysia's first isotonic beverage, a member of the Takral Group of Takral Group, said, "Nadaipettrathu in Colombo ITC Ratnadipu" The 100plus drink that makes you a brilliant change in the Sri Lankan market is the most designer of the Sri Lankan gang. ".
+
+Malaysian High Commissioner for Sri Lanka and the Maldives at the event. Budli Hisham Adam, Malaysian F&N International Market Development Mr. Mr.. Lai Kong Ming was also present. In addition, the officials of state and private companies across the country, officials of leading marketing companies and FMCG retailers were present.
+
+"This wonderful drink, which comes with a trading name of 100plus, is designed to rapidly restore the enormous refreshness and enthusiasm for users.. This drink is the best companion for those who want active life. Power to ensure rapid hydration and energy reorganization. We are happy to join hands with Bolt supply to improve our presence in Sri Lanka, ”La Kong Ming said.
 
 ...
 
 [Data](articles/b3c30eae.json)
 
+[Extended Data](ext_articles/b3c30eae.ext.json)
+
 ---
 
-### நாணய நிதியத்துடனான இணக்கப்பாட்டு ஒப்பந்தத்தில் நியாயமான மாற்றங்களை மேற்கொள்வோம் - கலாநிதி ஹர்ஷ டி சில்வா
+### Let's make reasonable changes in the Compliance Agreement with the Monetary Fund - Dr. Harsha de Silva
 
 *2024-07-18 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188724) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க கையெழுத்திட்டுள்ள சர்வதேச நாணய நிதிய இணக்கப்பாட்டு ஒப்பந்தத்துக்கமையவே எமக்கும் செயற்பட வேண்டியேற்படும். அவ்வாறில்லை எனில் மீண்டும் சிக்கல்களை எதிர்கொள்ள நேரிடும். எவ்வாறிருப்பினும் அந்த இணக்கப்பாட்டில் நியாயமான மாற்றங்கள் மேற்கொள்ளப்படும் என்ற யதார்த்தமான வாக்குறுதியை மக்களுக்கு வழங்குவதாக பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+Dr. Harsha de Silva proposes amendments to the Compliance Agreement with the IMF to address economic challenges, including mental health impacts from economic crises and inflation. He suggests temporary income tax increases for the wealthy to provide relief, emphasizing the need for a fair tax concession scheme and adherence to the agreement to ensure its continuation.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் புதன்கிழமை (17) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-பொருளாதார நெருக்கடிகள் அதிகரித்துள்ளமையால் 26 சதவீதமான மக்கள் உள ரீதியாக பாதிக்கப்பட்டுள்ளதாக ஆய்வொன்றில் குறிப்பிடப்பட்டுள்ளது. பணவீக்கம் குறைவடைந்துள்ளதாக சிலர் கூறுகின்றனர். பணவீக்கம் குறைவடைதல் என்பது பொருட்களின் விலை அதிகரிக்கும் வேகம் குறைவடைவதாகும். மாறாக பொருட்களின் விலை குறைவடைவதைக் குறிக்காது. மறுபுறம் பொருட்களின் விலைகளைக் குறைப்பதற்கு பதிலாக அவற்றின் எடை குறைக்கப்பட்டுள்ளது.
+We have to act on the International Monetary Fund Agreement signed by President Ranil Wickremesinghe. If not so, you will face problems again. Parliamentarian Harsha de Silva, however, said he would make a realistic promise to the people that it would make legitimate changes in that compliance.
+
+He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Wednesday (17).
+
+According to a study, 26 percent of people are mentally affected by the increase in economic crises. Some say that inflation has declined. Inflation decreases means slowing down the price of goods. Rather than indicating the price of goods to decline. On the other hand, their weight has been reduced instead of cutting the prices of goods.
 
 ...
 
 [Data](articles/e05d5d72.json)
 
+[Extended Data](ext_articles/e05d5d72.ext.json)
+
 ---
 
-### மட்டக்களப்பு மாவட்ட வேலையற்ற பட்டதாரிகள் 16வது நாளாகவும் கவன ஈர்ப்பு போராட்டம்
+### Batticaloa District Unemployed Graduates For the 16th day
 
 *2024-07-18 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188723) · `ta`
 
-மட்டக்களப்பு மாவட்ட வேலையற்ற பட்டதாரிகள் 16வது நாளாகவும் புதன்கிழமை (17) தினம் மட்டக்களப்பு நகரில் தமது கவன ஈர்ப்பு போராட்டத்தினை முன்னெடுத்தனர்.
+Unemployed graduates in Batticaloa District protested for the 16th day, demanding support for entrepreneurship. Their efforts, marked by slogans like "Rot in the house," highlight frustration over lack of response from authorities.
 
-தமது தொழில் உரிமையினை உறுதிப்படுத்துமாறு கோரி மட்டக்களப்பு மாவட்ட வேலையற்ற பட்டதாரிகள் ஒன்றியத்தினால் இந்த போராட்டம் தொடர்ச்சியான முறையில் முன்னெடுக்கப்பட்டுவருகின்றது.
+🟩
 
-வயது ஏறுகிறது வாழ்க்கை போகுது வேலைவேண்டும்,நாம்கண்ட கனவு பொய்யாகிவிடுமோ,பட்டம் வீட்டில் நாங்கள் றோட்டில் போன்ற பல்வேறு வாசகங்கள் பொறிக்கப்பட்ட பதாகைகளை ஏந்தி போராட்டம் முன்னெடுக்கப்பட்டது.
+Batticaloa District Unemployed Graduates launched their attention on Wednesday (17) for the 16th day.
 
-தமது போராட்டம் 16வது நாளை கடந்துள்ளபோதிலும் இதுவரையில் தமக்கு சாதகமான எந்த பதிலும் வழங்கப்படாத நிலையில் தாங்கள் தொடர்ச்சியாக புறக்கணிக்கப்படுவதாக போராட்டத்தில் ஈடுபட்டுள்ளவர்கள் தெரிவித்தனர்.
+The struggle is being carried out by the Batticaloa District Unemployed Graduates Union to ensure their entrepreneurship.
+
+Age is going to work, and the dream of life, the dream of the dream of a falsehood, and the struggle carried on various words such as Rot in the house.
+
+Although their struggle has passed the 16th day, the protesters have said that they have been continuously ignored as they have not been given any favorable response.
 
 ◼️
 
 [Data](articles/4bf40d2e.json)
+
+[Extended Data](ext_articles/4bf40d2e.ext.json)
 
 ---
 
@@ -724,6 +792,22 @@ Sadaharitha Plantations Limited (Sadaharitha), Sri Lanka’s No.1 commercial for
 
 [Data](articles/c1711050.json)
 
+[Extended Data](ext_articles/c1711050.ext.json)
+
+---
+
+### CEAT Kelani wins 8 Golds for Quality Improvement at National Convention on Quality & Productivity
+
+*2024-07-17 20:58:00* · [`islandlk`](http://island.lk/ceat-kelani-wins-8-golds-for-quality-improvement-at-national-convention-on-quality-productivity/) · `en`
+
+Eight Quality Improvement Projects implemented at CEAT Kelani Holdings have won Gold awards for Sri Lanka’s leading tyre manufacturer at the National Convention on Quality and Productivity (NCQP) 2024, organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP).
+
+Noteworthy about this achievement was that every Quality Improvement Project presented by CEAT Kelani at the convention received a Gold award, and the teams that presented them have qualified to represent Sri Lanka at the International Convention on Quality Control Circles (ICQCC) 2024, to be held in Colombo in November.
+
+...
+
+[Data](articles/f244713f.json)
+
 ---
 
 ### Doctors died in an accident
@@ -768,6 +852,8 @@ SLT-MOBITEL, the National ICT Solutions Provider, and Sri Lanka’s most-loved r
 
 [Data](articles/e1e541f5.json)
 
+[Extended Data](ext_articles/e1e541f5.ext.json)
+
 ---
 
 ### CSE’s bullish proclivities nipped in the bud by political uncertainty
@@ -782,6 +868,8 @@ Amid those developments both indices moved downwards. The All Share Price Index 
 
 [Data](articles/6997feab.json)
 
+[Extended Data](ext_articles/6997feab.ext.json)
+
 ---
 
 ### AIA Insurance pioneers digital innovation in insurance industry
@@ -795,6 +883,8 @@ At the esteemed Insurance Asia Awards last year, AIA Sri Lanka was honoured as t
 ...
 
 [Data](articles/b9dd2780.json)
+
+[Extended Data](ext_articles/b9dd2780.ext.json)
 
 ---
 
@@ -2271,69 +2361,5 @@ Sabry, who is on an official visit to Romania, said bilateral discussions betwee
 [Data](articles/b46a6ae6.json)
 
 [Extended Data](ext_articles/b46a6ae6.ext.json)
-
----
-
-### Person remanded suspended
-
-*2024-07-17 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198910) · `si`
-
-The Supreme Court has suspended a person accused of insulting the judiciary, acting on a complaint against the individual.
-
-🟩
-
-The Supreme Court has ordered a person who has been suspended regarding insulting the judiciary.
-
-The court has issued this order after considering a complaint filed against the lawyer
-
-◼️
-
-[Data](articles/d838807b.json)
-
-[Extended Data](ext_articles/d838807b.ext.json)
-
----
-
-### Flower Queen's entire garment in Sri Lanka's market
-
-*2024-07-17 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/188636) · `ta`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-WIN INT GROUP of Company. Blower Queen's entire garment was introduced on July 15 at Shangrila Hotel, Colombo.
-
-Speaking at the launch of this new Blower Queen's entire garment, the Director of the WIN INT Group Company
-
-This entire garment called 'Blower Queen' is a quality -sized milkma. This milk is marketed at a lower fair price than the prices of milkmakers currently found in the market. The Director of the company said that the milk was introduced at a lower price for the benefit of customers in view of the current economic situation.
-
-◼️
-
-[Data](articles/bfe45c72.json)
-
-[Extended Data](ext_articles/bfe45c72.ext.json)
-
----
-
-### Child and Maternity Hospital need a boat to go to hospital
-
-*2024-07-17 14:12:00* · [`adalk`](https://www.ada.lk/breaking_news/වැසිදිනෙක-රෝහලට-යාමට-බෝට්ටුවක්-අවශ්‍යය-‌-ළමා-සහ-මාතෘ-රෝහල/11-410824) · `si`
-
-Due to heavy rainfall, Child and Maternity Hospital in Kalutara faces accessibility issues, causing inconvenience to both staff and patients. The situation worsens with no alternative routes available, leaving many stranded. A council official is also affected, highlighting the severity of the problem.
-
-🟩
-
-They accused the hospital staff as well as the passengers around the surrounding masses, due to rainwater in front of the Natural Hospital in Kalutara due to rainwater.
-
-As a result, many people attending the hospital have no alternative route as they have no alternative route.
-
-A high personnel in the Kalutara Municipal Council has been stuck in the next few days. (I J)
-
-◼️
-
-[Data](articles/13f2e90a.json)
-
-[Extended Data](ext_articles/13f2e90a.ext.json)
 
 ---

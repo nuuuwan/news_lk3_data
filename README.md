@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 01:05:30**
+As of **2024-07-19 01:20:14**
 
 ## Newspaper Stats
 
-*Scraped **35,997** Articles*
+*Scraped **35,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,151
 dailyftlk | 2,281
 adalk | 3,257
 adaderanalk | 4,153
-tamilmirrorlk | 4,369
+tamilmirrorlk | 4,370
 dailymirrorlk | 4,733
 virakesarilk | 5,616
 adaderanasinhalalk | 6,025
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,997 (100.0%) of 35,997 articles have been extended.
+35,997 (100.0%) of 35,998 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,24 @@ Following a clash between students and police last Tuesday, universities have be
 [Data](articles/e3f2c112.json)
 
 [Extended Data](ext_articles/e3f2c112.ext.json)
+
+---
+
+### தமிழக மீனவர்களை தமிழகம் கொண்டுவரும்
+
+*2024-07-18 23:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்களை-தமிழகம்-கொண்டுவரும்/175-340661) · `ta`
+
+“தமிழக மீனவர்களும் இந்திய குடிமக்கள் தான். தமிழக மீனவர்களின் பாதுகாப்பு முக்கியமானது” என மத்திய அரசுக்கு உயர் நீதிமன்ற மதுரைக் கிளை அறிவுறுத்தியுள்ளது.
+
+இலங்கை கடற்படையினரால் கைது செய்யப்பட்ட தமிழக மீனவர்கள் 26 பேரை விடுவிக்க நடவடிக்கை எடுக்க மத்திய அரசுக்கு உத்தரவிடக்கோரி இராமநாதபுரம் மாவட்டம் மோர்ப்பண்ணையைச் சேர்ந்த தீரன் முருகன் உயர் நீதிமன்ற மதுரைக் கிளையில் மனு தாக்கல் செய்துள்ளார்.
+
+அந்த மனுவில், “இலங்கை கடற்படையினரால் தமிழக மீனவர்கள் சிறைபிடிக்கப்படுவது, படகுகள் பறிமுதல் செய்யப்படும் சம்பவங்கள் 34 ஆண்டுகளுக்கும் மேலாக நடைபெற்று வருகிறது.
+
+வாழ்வாதாரத்துக்காக மீன்பிடி தொழில் செய்து வரும் தமிழக மீனவர்களை இலங்கை கடற்படையினர் குற்றவாளிகள் போல கைது செய்கின்றனர். எனவே, 26 மீனவர்களை விடுவிக்க உரிய நடவடிக்கை எடுக்க மத்திய அரசுக்கு உத்தரவிட வேண்டும்” எனக் கோரியிருந்தார்.
+
+...
+
+[Data](articles/d4682365.json)
 
 ---
 
@@ -2333,27 +2351,5 @@ Therefore, the Department of Wildlife has called for the public to be concerned 
 [Data](articles/3cd79126.json)
 
 [Extended Data](ext_articles/3cd79126.ext.json)
-
----
-
-### Sri Lanka trade body, Indonesian officials discuss trade agreement
-
-*2024-07-18 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-body-indonesian-officials-discuss-trade-agreement-172736/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private sector trade body is in negotiations with Indonesian officials on a preferential trade agreement, which it hopes would increase exports to the Southeast Asian archipelago.
-
-At the first round of negotiations of the Sri Lanka Indonesia PTA, the Ceylon Chamber of Commerce were in discussions to “augment SL exports to Indonesia. In addition to knitted fabrics & chemical compounds currently exported, export of processed foods & machinery was proposed,” the Chamber said on X (twitter).
-
-The trade body said there was “potential to export spices, plastics, rubber, etc,” after it recently hosted a delegation led by Ambassador of Indonesia Dewi Gustina Tobing.
-
-In addition to the Sri Lanka Indonesia preferential trade agreement, the upcoming INSACA Business Forum 2024 in Indonesia was also discussed at the meeting.
-
-Last year, Sri Lanka’s cabinet of ministers approved discussions with Indonesia to sign a preferential trade agreement.
-
-...
-
-[Data](articles/76efcb60.json)
-
-[Extended Data](ext_articles/76efcb60.ext.json)
 
 ---

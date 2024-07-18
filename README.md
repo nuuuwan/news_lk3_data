@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 07:01:40**
+As of **2024-07-18 07:39:46**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 5,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,815 (100.0%) of 35,824 articles have been extended.
+35,823 (100.0%) of 35,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### ජෝ බයිඩන් ට කොවිඩ් ආසාදනය වෙයි
+### Joe Biden is infected by Covod
 
 *2024-07-18 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198929) · `si`
 
-අමෙරිකානු ජනාධිපති ජෝ බයිඩන් හට කොවිඩ් -19 වෛරසය ආසාදන වී තිබේ.
+Joe Biden, the US President, has contracted Covid-19, marking his third infection. Despite previous infections, he continues to lead the country through this challenging time.
 
-ජනාධිපතිවරයාට පැවති රෝග ලක්ෂණ මත සිදුකළ පරික්ෂාවකදී ඒ පිළිබඳ තහවුරු වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+🟩
 
-කෙසේවෙතත් ජෝ බයිඩන් ජනාධිපතිවරයාට මීට පෙර අවස්ථා දෙකකදී ද කොවිඩ් වෛරය ආසාදනය වී තිබිණි.
+US President Joe Biden has been infected with the Covard-12 virus.
 
-81 හැවිරිදි අමෙරිකානු ජනාධිපති ජෝ බයිඩන් සිය රෝගී තත්ත්වය හේතුවෙන් අද (18) පැවැත්වීමට නියමිතව තිබු සිය දේශපාලන ප්‍රචාරක රැස්වීමක් ද අවලංගු කර තිබේ.
+Foreign media reports that it has been investigated on the symptoms of the President.
+
+The President, however, was infected with Cowdi hatred on two previous occasions.
+
+81-year-old American President Joe Biden has also been canceled on its illness today (18).
 
 ◼️
 
 [Data](articles/cbc391e6.json)
 
+[Extended Data](ext_articles/cbc391e6.ext.json)
+
 ---
 
-### ධීවර සහ නාවික ප්‍රජාවට රතු නිවේදනයක්
+### Red ackrology to the fisheries and naval community
 
 *2024-07-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198928) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+A severe storm warning has been issued to the fisheries and naval communities due to high winds and rough seas.
+
+🟩
+
+Eighty winds and sea have issued a warning red announcement on floor.
 
 ◼️
 
 [Data](articles/f00ca5e5.json)
+
+[Extended Data](ext_articles/f00ca5e5.ext.json)
 
 ---
 
@@ -807,6 +819,8 @@ Noteworthy about this achievement was that every Quality Improvement Project pre
 ...
 
 [Data](articles/f244713f.json)
+
+[Extended Data](ext_articles/f244713f.ext.json)
 
 ---
 

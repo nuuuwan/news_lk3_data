@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 22:20:25**
+As of **2024-07-18 22:35:39**
 
 ## Newspaper Stats
 
-*Scraped **35,990** Articles*
+*Scraped **35,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,151
 dailyftlk | 2,281
-adalk | 3,255
+adalk | 3,256
 adaderanalk | 4,153
 tamilmirrorlk | 4,368
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,024
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,988 (100.0%) of 35,990 articles have been extended.
+35,988 (100.0%) of 35,991 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -335,6 +335,20 @@ He added that everyone except two people have been arrested in connection with t
 [Data](articles/a0bc2e67.json)
 
 [Extended Data](ext_articles/a0bc2e67.ext.json)
+
+---
+
+### ඔන්මැක්ස් ඩී.ටී. අධ්‍යක් ධනංජයගේ රු. කෝටි දෙකක ඉඩමක් තහනම් කරයි
+
+*2024-07-18 19:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්මැක්ස්-ඩී-ටී--අධ්‍යක්-ධනංජයගේ-රු--කෝටි-දෙකක-ඉඩමක්-තහනම්-කරයි/11-410859) · `si`
+
+නීති විරෝධී පිරමීඩාකාර ගනදෙණු කරමින් රුපියල් කෝටි ගණනක ජනතා මුදල් වංචා කළේ යැයි කියන ”ඔන්මැක්ස් ඩී.ටී.” ආයතනයේ අධ්‍යක්ෂක ධනංජය ජයාන් නමැත්තාට අයත් රුපියල් කෝටි දෙකකට අධික වටිනාකමින් යුත් අත්තනගල්ලේ පිහිටි අක්කර දෙකහමාරක ඉඩමක් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (18) තහනම් කළේය.
+
+පිරමීඩාකාර ගනදෙණු කරමින් රුපියල් කෝටි ගණනක ජනතා මුදල් වංචා කළැයි කියන ”ඔන්මැක්ස් ඩී.ටී.” ආයතනයේ අධ්‍යක්ෂකවරුන්ගේ සියලු දේපළ වහාම අත්පත් කරගෙන අධිකරණයට ඉදිරිපත් කිරීමට මීට පෙර දින ප්‍රධාන මහේස්ත්‍රාත්වරයා කළ නියෝගයකට අනුව රහස් පොලීසිය තෙතාරතුරු අනාවරණය කරගෙන අධිකරණයට වාර්තා කළ අත්තනගල්ලේ ඉඩම මෙලෙස තහනම් කළ මහේස්ත්‍රාත්වරයා ඒ පිළිබඳ අත්තනගල්ල ඉඩම් රෙජිස්ට්‍රාර්වරයාට දැනුම් දීමටද නියම කළේය.
+
+...
+
+[Data](articles/511718df.json)
 
 ---
 
@@ -2301,29 +2315,5 @@ However, Thondaman said that in order for those living on estates to have houses
 [Data](articles/1035a861.json)
 
 [Extended Data](ext_articles/1035a861.ext.json)
-
----
-
-### Gnanasara Thero released on bail
-
-*2024-07-18 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198942) · `si`
-
-Gnanasara Thero granted bail; Court of Appeal hears case; revision petition filed; press conference on Kuragala Viharaya; case discussed in Colombo High Court on March 28th.
-
-🟩
-
-The Court of Appeal has set up four-year-old Ven.
-
-The Court of Appeal was issued after hearing a revision petition filed by Gnanasara Thera.
-
-At a press conference regarding the Kuragala Viharaya, the Bodu Bala Sena Ven.
-
-It was when the case was taken up before the Colombo High Court on the 28th of March.
-
-◼️
-
-[Data](articles/dcb894f0.json)
-
-[Extended Data](ext_articles/dcb894f0.ext.json)
 
 ---

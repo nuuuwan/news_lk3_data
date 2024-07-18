@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 07:39:46**
+As of **2024-07-18 07:48:48**
 
 ## Newspaper Stats
 
-*Scraped **35,824** Articles*
+*Scraped **35,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 2,039
 economynextcom | 2,136
 dailyftlk | 2,267
-adalk | 3,234
+adalk | 3,235
 adaderanalk | 4,131
 tamilmirrorlk | 4,331
 dailymirrorlk | 4,733
 virakesarilk | 5,594
-adaderanasinhalalk | 5,991
+adaderanasinhalalk | 5,993
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,823 (100.0%) of 35,824 articles have been extended.
+35,824 (100.0%) of 35,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### දේශීය ආදායම් දෙපාර්තමේන්තුවට බරපතළ චෝදනා
+
+*2024-07-18 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198932) · `si`
+
+එකතු කළ අගය මත බද්ද හෙවත් වැට් බදු ආශ්‍රිත ආදායමෙන් 20%කට ආසන්න ප්‍රමාණයක් අය කළ නොහැකි අවදානම් තත්ත්වයකට පත්ව ඇති බව ජාතික විගණන කාර්යාලය පවසයි.
+
+එම කාර්යාලය පෙන්වාදෙන්නේ දේශීය ආදායම් දෙපාර්තමේන්තුවේ අකාර්යක්ෂමතාව සහ වගකීම් විරහිත ක්‍රියාමාර්ග හේතුවෙන් මෙම තත්ත්වය උද්ගතව ඇති බවය.
+
+දේශීය ආදායම් දෙපාර්තමේන්තු මූලාශ්‍රයන්ට අනුව රජයට අය විය යුතු නමුත් මෙතෙක් අයකරගෙන නොමැති එකතු කළ අගය මත බදු පිළිබඳ විශේෂ විගණන වාර්තාව ප්‍රකාශයට පත් කරමින් විගනකාධිපතිවරයා මේ බව සඳහන් කර තිබේ.
+
+දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් පවත්වාගෙන යනු ලබන ලේඛනවලට අනුව 2022 දෙසැම්බර් 31 වන දින වන විට වැට් හිඟ බදු මුදල් සහ එම හිඟ බදු මත පනවන දඬ මුදල්වල වටිනාකම රුපියල් බිලියන 369ක් වන අතර ඉන් රුපියල් බිලියන 255ක් වූ හිඟ ආදායම විවිධ හේතු මත අයකර ගැනීම තාවකාලිකව අත්හිටුවා ඇති බව ජාතික විගණන කාර්යාලය පෙන්වා දෙයි.
+
+ඉන් අය කරගත හැකි ලෙස හඳුනාගෙන ඇති හිඟ බදු ශේෂය වූ රුපියල් බිලියන 114 වසර 13ක පමණ කාලයක සිට පැවත එන ශේෂයන් පවතින බව ද විගණනය මඟින් අනාවරණය කරගෙන තිබේ.
+
+...
+
+[Data](articles/046ad824.json)
+
+---
+
+### සහන නොදෙන වෙළෙඳුන් සොයා දිවයින පුරා වැටලීම්
+
+*2024-07-18 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198931) · `si`
+
+ඉන්ධන, ගෑස් සහ විදුලි මිල ගණන් අඩුකර තිබුණ ද එම සහනය පාරිභෝගිකයින් වෙත ලබානොදෙන වෙළෙඳුන් සොයා වැටලීම් ආරම්භ කිරීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පියවර ගෙන තිබේ.
+
+සභාපති තුසිත ඉන්ද්‍රජිත් උඩුවර මහතා සඳහන් කළේ, ඒ අනුව ඉදිරි දිනවල දිවයින පුරා වැටලීම් සිදුකිරීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවය.
+
+ඒ අනුව දිවයින පුරා හෝටල්, ආපන ශාලා හා අනෙකුත් වෙළෙඳසැල් අඛණ්ඩව පරීක්ෂා කිරීමටත් භාණ්ඩ හා සේවාවල මිල ගණන් හා මිල ප්‍රදර්ශනය පිළිබඳ විශේෂ අවධානය යොමුකර වැටලීම් සිදුකිරීමට නිලධාරින්ට උපදෙස් ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/e790b430.json)
+
+---
 
 ### Joe Biden is infected by Covod
 
@@ -1115,6 +1151,26 @@ However, the Maritime Security Center has told the Marine Security Center that t
 [Data](articles/5a95bbcb.json)
 
 [Extended Data](ext_articles/5a95bbcb.ext.json)
+
+---
+
+### වසන්තගේ ඝාතකයන් රටින් ගියාදැයි අණාවරණය වී නෑ
+
+*2024-07-17 19:06:32* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-ඝාතකයන්-රටින්-ගියාදැයි-අණාවරණය-වී-නෑ/11-410840) · `si`
+
+අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයක සිදුවූ වෙඩි තැබීමට සම්බන්ධ සැකකරුවන් රටින්  පිටව ගොස් තිබෙනවාද යන්න මෙතෙක් සිදුකළ විමර්ශනවලදී අනාවරණය වී නොමැති බව  පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+ජංගම දුරකතනවල තොරතුරු සම්බන්ධයෙන් හා ආරක්ෂිත කැමරා දර්ශනවලට අනුව නුගේගොඩ කොට්ඨාසයේ පොලිස් කණ්ඩායම් 8 -10  අතර ප්‍රමාණයක් සිද්ධිය පිළිබඳ දෛනිකව  විමර්ශන සිදුකරන බවත්, මෙම කණ්ඩායම් දිවයිනේ විවිධ ප්‍ර දේශවලට ගොස් පරීක්ෂණ සිදුකරන බවත් හෙතෙම පැවසීය.
+
+අද (17දා) පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ පිළිබඳව  සදහන් කළ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා මෙසේද පැවසීය.
+
+"තාක්ෂණික උපකරණවල සහාය ලබා ගනිමින් මෙම විමර්ශන සිදුකරනවා. සිද්ධිය සම්බන්ධයෙන් මේ වන විට සැකකරුවන් 7 දෙනෙකු අත්අඩංගුවට ගෙන තිබෙනවා. තවත් සැකකරුවන් කිහිප දෙනෙකු වැලිපැන්න ප්‍රදේශයේදී අත්අඩංගුවට ගත්තා.
+
+සැකපිට අත්අඩංගුවට ගත් පිරිස් ඇප මත මුදා හැර තිබෙනවා. මෙම පිරිස් අදාළ සිද්ධියට සෘජු ලෙස සම්බන්ධ බවට තහවුරු වී නැහැ.*
+
+...
+
+[Data](articles/764e3677.json)
 
 ---
 
@@ -2299,81 +2355,5 @@ The suppliers credit were then turned into state bank loans as the currency coll
 [Data](articles/54e5cb24.json)
 
 [Extended Data](ext_articles/54e5cb24.ext.json)
-
----
-
-### CT Scan in seven government hospitals is off
-
-*2024-07-17 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198911) · `si`
-
-CT scan services are disrupted in 7 government hospitals due to machine breakdowns, affecting patient care and increasing costs for transporting patients elsewhere for scans.
-
-🟩
-
-CT of 7 government hospitals. The Government Radio Technology Association says that scans have been reduced by now.
-
-The Association points out that the patients who come to the hospitals and hospital authorities have been severely inconvenienced.
-
-44 government hospitals in the country. There are scans machines, and 7 of them are completely disabled.
-
-Ratnapura General Hospital, Embilipitiya District General Hospital, Embilipitiya District General Hospital Hospital, Kalmuna Hospital, Hambantota General Hospital, Colombo National Hospital, CT. The scan machines are among the hubs of scans.
-
-Identifying cancer, taking problems of the blood vessel, in case of strolling accidents or identifying the damage caused by the CT. Scan machines are mainly used.
-
-In the face of the situation, the lives of diseased lives have been severely risked,
-
-CT. The cost of transporting patients to other hospitals is also large to obtain scan.
-
-◼️
-
-[Data](articles/eedb249f.json)
-
-[Extended Data](ext_articles/eedb249f.ext.json)
-
----
-
-### Sri Lanka to see “definite” water tariff reduction after downward electricity prices
-
-*2024-07-17 14:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-see-definite-water-tariff-reduction-after-downward-electricity-prices-172532/) · `en`
-
-ECONOMYNEXT – Sri Lanka will see a “definite reduction in water tariff” possibly towards end of this week after several variables in the water pricing formula including electricity cost have fallen, Water Supply Minister Jeevan Thondaman said.
-
-Sri Lanka’s Public Utilities Commission on Monday cut electricity tariffs by an average of 22.5 percent. The move comes ahead of a presidential poll between September 17 and October 16.
-
-President Ranil Wickremesighe is expected to contest in an independent coalition. He became unpopulour after he implemented reforms including raising utility prices to a lever without incurring any losses in line with the commitments Sri Lanka agreed with the International Monetary Fund (IMF) after an unprecedented economic crisis in 2022.
-
-Thondaman said the water tariff will come down because electricity is one of the key component in the water pricing.
-
-The Cabinet this week approved a water tariff formula to be implemented from 2025.
-
-...
-
-[Data](articles/8712aabd.json)
-
-[Extended Data](ext_articles/8712aabd.ext.json)
-
----
-
-### Sri Lanka opens embassy in Romania
-
-*2024-07-17 14:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-embassy-in-romania-172527/) · `en`
-
-ECONOMYNEXT – Sri Lanka opened an embassy in Bucharest, Romania this week, which it hopes will serve over 40,000 Sri Lankans working in the east European country.
-
-“This embassy will serve over 40,000 Sri Lankans working in Romania,” Minister of Foreign Affairs M U M Ali Sabry who inaugurated the office said on X (twitter).
-
-“In my discussions, I have been assured of further opportunities for Sri Lankans here, and our presence will no doubt serve as an invaluable mechanism to assist them and to further enhance our bilateral relations.”
-
-Sabry said the embassy would be a “catalyst in strengthening our relations with Romania and the South Eastern European Nations.”
-
-Foreign Minister of Romania Luminița Odobescu participated in the event.
-
-Sabry, who is on an official visit to Romania, said bilateral discussions between the two minister covered political, economic, labour, education, tourism sectors and reconciliation.
-
-...
-
-[Data](articles/b46a6ae6.json)
-
-[Extended Data](ext_articles/b46a6ae6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 15:54:27**
+As of **2024-07-18 16:07:37**
 
 ## Newspaper Stats
 
-*Scraped **35,931** Articles*
+*Scraped **35,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,64 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,146
 dailyftlk | 2,281
-adalk | 3,245
+adalk | 3,246
 adaderanalk | 4,143
-tamilmirrorlk | 4,356
+tamilmirrorlk | 4,357
 dailymirrorlk | 4,733
 virakesarilk | 5,607
-adaderanasinhalalk | 6,010
+adaderanasinhalalk | 6,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,927 (100.0%) of 35,931 articles have been extended.
+35,931 (100.0%) of 35,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### චීනයේ ඇවිළෙන ගිනි
+### මුහුද රළුවීම ගැන අනතුරු ඇඟවීමක්
+
+*2024-07-18 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198951) · `si`
+
+හෙට (19) පස්වරු 1 තෙක් වලංගු වන පරිදි මුහුද රළුවීම පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ කන්කසන්තුරය සිට මන්නාරම හරහා පුත්තලම දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින්විට පැ.කි.මී 60ත් 65ත් දක්වා වැඩිවිය හැකි බවය.
+
+එම මුහුදු ප්‍රදේශ විටින්විට ඉතා රළු වන බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ත්‍රිකුණාමලය සිට මුලතිව් හරහා කන්කසන්තුරය දක්වා සහ පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළ‌ඟේ වේගය විටින්විට පැ.කි.මී 50ත් 55ත් දක්වා වැඩි විය හැකි අතර එම මුහුදු ප්‍රදේශ විටින්විට රළු වන බවද එම නිවේදනයේ සඳහන් වෙයි.
+
+කල්පිටියේ සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් (2.0 – 2.5) ක් පමණ ඉහළ යාමේ හැකියාවක් පවතින අතර මෙය ගොඩබිමට එන රළ හි  උස නොවන බවද දැනුම් දී ඇත.
+
+...
+
+[Data](articles/8729f914.json)
+
+---
+
+### Fire that burns in China
 
 *2024-07-18 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198950) · `si`
 
-චීනයේ සිචුවාන් ප්‍රදේශයේ ගොඩනැගිල්ලක ඇතිවූ ගින්නකින් පුද්ගලයින් 16 දෙනෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+A fire in Sichuan, China, killed six people and injured others. The blaze started in a shopping complex, but its cause remains unknown. Rescue efforts saved about 30 individuals who escaped the fire.
 
-සාප්පු සංකීර්ණයක මෙම ගින්න ඇතිවී තිබෙන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-එමෙන්ම ගින්නට හසුවූ පුද්ගලයින් 30 දෙනෙකු පමණ බේරාගැනීමට ද සහන කණ්ඩායම් කටයුතු කර තිබුණි.
+Sixen persons were killed in a fire in a building in Sichuan, China.
 
-කෙසේවෙතත් අදාළ සාප්පු සංකිර්ණයේ ගින්න ඇති වීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව වාර්තා වෙයි.
+Foreign media reports that the fire was caused by a shopping complex.
+
+Around 30 persons who had fled the fire have also been rescued.
+
+However, it is reported that the cause of the fire of the shop complex is yet to be determined.
 
 ◼️
 
 [Data](articles/779d4484.json)
+
+[Extended Data](ext_articles/779d4484.ext.json)
 
 ---
 
@@ -76,23 +102,43 @@ Uganda boys re -created a satirical shoot when the boy who played the trump pump
 
 ---
 
-### ட்ரம்பின் மீதான படுகொலை முயற்சி: நையாண்டி செய்த சிறுவர்கள் (வீடியோ)
+### Massacre on Trump
 
 *2024-07-18 15:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்பின்-மீதான-படுகொலை-முயற்சி-நையாண்டி-செய்த-சிறுவர்கள்-வீடியோ/50-340626) · `ta`
 
-அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்பின் மீது துப்பாக்கிச் சூடு நடத்தி படுகொலை செய்வதற்கு முயற்சிக்கப்பட்டது. அதிலிருந்து ட்ரம்ப் தப்பினார். அந்த செய்தி உலகளாவிய ரீதியில் பரவியது, காணொளிகளும் வெளியாகியுள்ளன.
+In Uganda, a group of boys, led by TikToker Blud UG, recreated a satirical shooting of former US President Donald Trump, using wooden packets and plastic boxes as props. Their video, which went viral, shows them mimicking the attempted assassination, highlighting the global shock and fascination with the incident.
 
-உகண்டாவில் உள்ள சிறுவர்கள் டொனால்ட் ட்ரம்பின் படுகொலை முயற்சியை மிகவும் குறிப்பிட்ட விவரங்களுடன் மீளுருவாக்கம்  செய்துள்ளனர்.
+🟩
 
-உகண்டா சிறுவர்கள் குழு ஒன்று டொனால்ட் ட்ரம்ப் படுகொலை முயற்சியின் பொழுதுபோக்கைப் பகிர்ந்து கொண்ட பின்னர் வைரலாகியுள்ளது.
+Attempted to shoot and assassinate former US President Donald Trump. Trump escaped from that. The news spread worldwide, and videos have been revealed.
 
-பயங்கரமான, மரணத்திற்கு அருகில் துப்பாக்கிச்சூடு உலகை அதிர்ச்சிக்குள்ளாக்கிய சில நாட்களுக்குப் பிறகு, TikToker Blud Ug தலைமையிலான சிறுவர்கள் குழு, குழப்பமான மற்றும் இப்போது பிரபலமற்ற - காட்சிகளைப் பிரதிபலிப்பதால் அதிர்ச்சியூட்டும் படங்கள் உலகம் முழுவதும் எவ்வளவு தூரம் பரவியுள்ளன என்பதை வெளிப்படுத்தியது.
+The boys in Uganda have renovated Donald Trump's assassination with very specific details.
 
-மரத்துப்பாக்கிகள் மற்றும் பிளாஸ்டிக் பெட்டிகளால் செய்யப்பட்ட மேசையை பயன்படுத்தி, ட்ரம்பாக நடித்த சிறுவன் தனது முஷ்டியை காற்றில் பம்ப் செய்து, 'போராடு' என்று கத்தியபோது, உகண்டா சிறுவர்கள் நையாண்டியாக படப்பிடிப்பை மீண்டும் உருவாக்கினர்.
+A group of Uganda boys has gone viral after sharing the entertainment of Donald Trump's attempt.
+
+A few days after the shocking of the world of terrible and death, a group of boys led by Tiktoker Blud UG revealed how far the shocking images have spread around the world as they reflect the confusion and now fame.
+
+Uganda boys re -created a satirical shoot when the boy who played the trump pump his fist in the air, using the table made of wooden packets and plastic boxes.
 
 ◼️
 
 [Data](articles/a7854e9b.json)
+
+[Extended Data](ext_articles/a7854e9b.ext.json)
+
+---
+
+### නැවතත් දුම්රිය වර්ජනයක් ?
+
+*2024-07-18 15:12:06* · [`adalk`](https://www.ada.lk/breaking_news/නැවතත්-දුම්රිය-වර්ජනයක්--/11-410853) · `si`
+
+උසස්වීම ලබානොදීම ඇතුළු ඉල්ලීම් 14ක් මුල්කරගනිමින් පසුගිය සතියේ දින 2ක් දුම්රිය ස්ථානාදිපතිවරුන් වැඩවර්ජනයක නිරතවිය. එම ඉල්ලීම් දාහතරෙන් හයක් කැබිනට් පත්‍රිකාවක් මගින් ජූලි 15 වැනිදා සිට විසඳන බවට ප්‍රවාහන අමාත්‍යවරයා දුන් පොරොන්දුවක් මත වර්ජනය අත්හරිනු ලැබීය. පොරෙන්දුවූ පරිදි තම ඉල්ලීම් මෙතෙක් (18) ඉටුකර නැතැයි එම සංගමය පවසයි.
+
+මෙම ගැටලුවලට පොරෙන්දුවූ පරිදි විසඳුම් ලබා නොදුනහොත් නැවතත් වැඩ වර්ජනයකට යෑමට සිදුවන බවත් ඉන් දුම්රිය මගීන්ට සිදුවන අපහසුතා ආණ්ඩුව විසින් භාරගතයුතු බවටත් ඔවුන් විසින් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/fee3e6dd.json)
 
 ---
 
@@ -193,6 +239,22 @@ President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena were presen
 [Data](articles/aa527dbc.json)
 
 [Extended Data](ext_articles/aa527dbc.ext.json)
+
+---
+
+### வாட்ஸ்அப்பில் பிடித்த அம்சம்
+
+*2024-07-18 14:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்பில்-பிடித்த-அம்சம்/57-340624) · `ta`
+
+வாட்ஸ்அப் பயனர்கள் தங்களது ஃபேவரைட்( பிடித்த) நபர்கள் மற்றும் குழுக்களுடன் எளிதில் தொடர்பில் இருக்கும் வகையில் ‘ஃபேவரைட்ஸ்’ அம்சத்தை மெட்டா அறிமுகம் செய்துள்ளது. இதன் மூலம் சாட் டேபில் ஃபில்டராகவும், அழைப்புகள் டேபில் மேல் பக்கமும் பயனர்கள் தங்களது ஃபேவரைட்களை அடையாளம் காணலாம்.
+
+வாட்ஸ்அப் மெசஞ்சரை உலக அளவில் சுமார் 200 கோடிக்கும் மேற்பட்ட பயனர்கள் பயன்படுத்தி வருகின்றனர். டெக்ஸ்ட் மெசேஜ், போட்டோ, வீடியோ, ஆடியோ மற்றும் அழைப்புகளை மேற்கொள்ள பயன்படுத்தப்பட்டு வருகிறது இந்தத் தளம்.
+
+தங்களது பயனர்களுக்கு தனித்துவமான பயன்பாட்டு திருப்தியை வழங்கும் விதமாக அவ்வப்போது புதிய அப்டேட்களையும், அம்சங்களையும் மெட்டா நிறுவனத்தின் வாட்ஸ்அப் அறிமுகம் செய்வது வழக்கம். அந்த வகையில் ஃபேவரைட்ஸ் அம்சம் தற்போது வெளிவந்துள்ளது.
+
+...
+
+[Data](articles/1f72d693.json)
 
 ---
 
@@ -444,21 +506,29 @@ In this case, he posted the name of his friend in the face of his death and said
 
 ---
 
-### අලුතෙන්ම නම්වෙන නව ජනාවාස ගම්මාන
+### Newlywentative Nominations Villages
 
 *2024-07-18 13:32:27* · [`adalk`](https://www.ada.lk/breaking_news/අලුතෙන්ම-නම්වෙන-නව-ජනාවාස-ගම්මාන/11-410852) · `si`
 
-දැනට රාජ්‍ය වැවිලි සමාගම හා ප්‍රාදේශීය වැවිලි සමාගම් යටතේ පාලනය වන වතුකරයේ ජනතාව ජීවත්වන ප්‍රදේශ හඳුනාගෙන එම ප්‍රදේශ නීත්‍යානුකූලව නව ජනාවාස ගම්මාන ලෙස ප්‍රකාශයට පත් කිරීමට අවශ්‍ය නීති සම්පාදනය සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කළ යෝජනාවට පසුගියදා කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි විය.
+President Ranil Wickremesinghe proposed identifying plantation areas for legal allocation to public entities. The Cabinet approved this, emphasizing the importance of ensuring land ownership for hill residents. Wickremesinghe aims to provide freehold land and housing, instructing a committee appointment involving all relevant parties.
 
-එහි ඉදිරි කටයුතු පිළිබඳ සාකච්ඡාවක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (17) ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+🟩
 
-රාජ්‍ය වැවිලි සමාගම හා ප්‍රාදේශීය වැවිලි සමාගම් යටතේ පාලනය වන වතුකරයේ ජනතාව ජීවත වන ප්‍රදේශ නීත්‍යනුකුලව නව ගම්මාන වශයෙන් ප්‍රකාශයට පත් කිරීමට අවශ්‍ය නීතිමය ප්‍රතිපාදන සම්පාදනය ඉතා වැදගත් හා කාලීන යෝජනාවක් බැවින් ඒ සඳහා මෙහිදී සියලු පාර්ශ්වයන්ගේ ප්‍රතිපත්තිමය එකඟතාවය පළ කෙරිණි.
+The proposal made by President Ranil Wickremesinghe proposes to identify the areas of the plantation company and the plantation company under the government plantation companies and the plantation companies under the Cabinet was approved by the Cabinet.
 
-මෙම යෝජනාව ක්‍රියාත්මක කිරීමේදී කඳුකරයේ දැනට ජීවත් වන සියලු ජනතාවගේ ඉඩම් අයිතිය තහවුරු කිරීම අත්‍යවශ්‍ය කරුණක් බව පාර්ලිමේන්තු මන්ත්‍රී මනෝ ගනේෂන් මහතා පෙන්වා දුන් අතර ඒ සම්බන්ධයෙන් වන යෝජනාවලියක් ද ජනාධිපතිවරයා වෙත භාර දුන්නේය.
+President Ranil Wickremesinghe was held at the Presidential Secretariat yesterday (17) under the patronage of President Ranil Wickremesinghe.
+
+The policyholder's policy agreement was made in an important and timely proposal to provide legal allocation to the public portaries and the plantation companies under the local plantation companies.
+
+Parliamentarian Mano Ganeshan pointed out that it is essential to ensure the land ownership of all people living in the hills, which are essential for the implementation of the proposal.
+
+President Ranil Wickremesinghe said that the government is expected to provide freehold land and housing to the people covering the people, covering the people and the resources to cover the people.
 
 ...
 
 [Data](articles/b24e9381.json)
+
+[Extended Data](ext_articles/b24e9381.ext.json)
 
 ---
 
@@ -534,19 +604,25 @@ NPP leader Anura Kumara Dissanayake must add 6,550,000 votes to his base, from t
 
 ---
 
-### පොලීසියට අලුත් උණ්ඩ  ලක්ෂ 13ක් මිලදී ගනියි
+### Police buy 13 lakh bullets
 
 *2024-07-18 12:55:11* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියට-අලුත්-උණ්ඩ--ලක්ෂ-13ක්-මිලදී-ගනියි/11-410849) · `si`
 
-ශ්‍රී ලංකා පොලීසියේ  රාජකාරි  සඳහා අවශ්‍ය  උණ්ඩ ඇතුළු ද්‍රව්‍ය කිහිපයක් මිලට ගැනීමට මහජන ආරක්ෂක අමාත්‍යාංශය කටයුතු කරමින් සිටී.
+The Sri Lankan Ministry of Defense plans to purchase various items, including 732,000 biological bullets, 730,000 more of the same type, and 58,500 pairs of sports shoes, through a national competitive bidding process.
 
-ජීව හා අජීව උණ්ඩ 13,20,000 ක් පොලිස්  නිල ඇඳුම් සඳහා වූ කාකි රෙදි මීටර් 7,32,000 ක්,පොලිස් නිලධාරීන් පළඳින  හම් සපත්තු ජෝඩු 70,000 ක් සහ ක්‍රීඩා සපත්තු ජෝඩු 58,500 ක් මෙසේ  මිලදී ගැනීමට නියමිත ද්‍රව්‍ය අතර  වේ.
+🟩
 
-ජාතික  තරගකාරී ලංසු ක්‍රමය යටතේ  මේ ද්‍රව්‍ය මිලදී ගැනීමට  මේ වන විට ලංසු  කැඳවා ඇතැයි මහජන ආරක්ෂක අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Defense is working to buy several substances including bullets for the Sri Lankan police.
+
+There are 7,32,000 biological bullets, 7,30,000 biological bullets and 58,500 sporting shoe couples to buy.
+
+The Ministry of Public Defense states that these substances have been called under the national competitive bidding system.
 
 ◼️
 
 [Data](articles/56145a07.json)
+
+[Extended Data](ext_articles/56145a07.ext.json)
 
 ---
 
@@ -2175,55 +2251,5 @@ It’s a succinct answer that embodies much. It can be interpreted as a statemen
 [Data](articles/599e2bb4.json)
 
 [Extended Data](ext_articles/599e2bb4.ext.json)
-
----
-
-### Indo-Lanka grid connectivity: The commercial challenge
-
-*2024-07-18 03:14:52* · [`dailyftlk`](https://www.ft.lk/columns/Indo-Lanka-grid-connectivity-The-commercial-challenge/4-764402) · `en`
-
-Transmission and distribution losses are relevant when comparing electricity supply from a far-off plant against distributed generation where electricity production is closer to the consumer
-
-News media reports that the Power and Energy Ministry is to sign a Memorandum of Understanding (MoU) with the Indian Government relating to the planned Indo-Lanka cross-strait power grid connectivity within a few months. According to Power and Energy Minister Kanchana Wijesekera, GOSL has made it a priority to complete the grid connection by 2030.
-
-This milestone (electricity import via SL-India grid intertie) along with other 2030 milestones of thermal plant fuel switching (diesel to LNG) and meeting 70% of electricity demand via use of renewable energy (RE) resources leads towards a complex outcome.
-
-This article highlights the commercial challenge faced when determining the optimal mix of; a) electricity received from India, b) electricity from LNG generation, and c) RE based electricity.
-
-...
-
-[Data](articles/9d86683e.json)
-
-[Extended Data](ext_articles/9d86683e.ext.json)
-
----
-
-### Doing things differently and doing different things
-
-*2024-07-18 03:09:32* · [`dailyftlk`](https://www.ft.lk/columns/Doing-things-differently-and-doing-different-things/4-764401) · `en`
-
-Doing things differently and doing different things are two primary mechanisms we must embrace to come out of this economic mess that we are in. Well, the answer to why change is because repeating the past that led us to this present predicament is not at all a sound idea. I am not yet sure that we have understood this. Even with our backs against all the walls in and around us we still plan, and discuss doing more of the same that we were doing before.
-
-...
-
-[Data](articles/c48c309c.json)
-
-[Extended Data](ext_articles/c48c309c.ext.json)
-
----
-
-### False Terrorism Cases Enable Repression; Politically Motivated Detentions, Surveillance, Threats
-
-*2024-07-18 02:42:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/false-terrorism-cases-enable-repression-politically-motivated-detentions-surveillance-threats/) · `en`
-
-Sri Lankan authorities continue to use the notorious Prevention of Terrorism Act (PTA) to target perceived opponents and minority communities without credible evidence to support the allegations despite repeated pledges to end the practice, Human Rights Watch said today. While some victims have suffered years of arbitrary detention and torture, others are persecuted even after the case against them is dropped.
-
-The law, widely known as the PTA, has provisions allowing for extended administrative detention, limited judicial oversight, and inadequate protections against torture. In a 2022 speech to the United Nations Human Rights Council, the then foreign minister pledged a moratorium on its use, but under President Ranil Wickremesinghe, detentions under the PTA have continued. Such is the chilling effect of the law that in September 2023 the International Monetary Fund found that “broad application of counter-terrorism rules” restricts civil society scrutiny of official corruption.
-
-...
-
-[Data](articles/ae5d03bd.json)
-
-[Extended Data](ext_articles/ae5d03bd.ext.json)
 
 ---

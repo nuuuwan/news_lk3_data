@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 18:15:50**
+As of **2024-07-18 18:27:38**
 
 ## Newspaper Stats
 
-*Scraped **35,957** Articles*
+*Scraped **35,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,147
 dailyftlk | 2,281
-adalk | 3,247
-adaderanalk | 4,148
+adalk | 3,249
+adaderanalk | 4,149
 tamilmirrorlk | 4,362
 dailymirrorlk | 4,733
 virakesarilk | 5,612
-adaderanasinhalalk | 6,016
+adaderanasinhalalk | 6,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,951 (100.0%) of 35,957 articles have been extended.
+35,957 (100.0%) of 35,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### නිලන්ත ජයවර්ධනව අනිවාර්ය නිවාඩු යවයි
+
+*2024-07-18 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198959) · `si`
+
+රාජ්‍ය බුද්ධි සේවයේ හිටපු අධ්‍යක්ෂ නිලන්ත ජයවර්ධන මහතා අද (18) දින සිට වහාම ක්‍රියාත්මක වන පරිදි අනිවාර්ය නිවාඩු ගැන්වීමට ජාතික පොලිස් කොමිසම තීරණය කර තිබේ.
+
+නිලන්ත ජයවර්ධන මහතා ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති (පරිපාලන) වශයෙන් රාජකාරී සිදුකරමින් සිටියදී මෙම තීරණය ගෙන ඇත.
+
+◼️
+
+[Data](articles/1f7c7250.json)
+
+---
+
+### Senior DIG Nilantha Jayawardena sent on compulsory leave
+
+*2024-07-18 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100605/senior-dig-nilantha-jayawardena-sent-on-compulsory-leave-) · `en`
+
+Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena has been sent on compulsory leave with immediate effect, until such time that the disciplinary investigation against him pertaining to the Easter Sunday terror attacks is concluded, the National Police Commission said.
+
+◼️
+
+[Data](articles/335ad7ec.json)
+
+---
 
 ### President calls for help in education
 
@@ -68,6 +94,8 @@ Accordingly, loans are available at affordable rates of 8% for working capital a
 
 [Data](articles/ec2fba17.json)
 
+[Extended Data](ext_articles/ec2fba17.ext.json)
+
 ---
 
 ### Jinna, who created England, arrested
@@ -96,21 +124,27 @@ WWW.SLBFEKFEKS APPLICAND WITHINE CARE LICENSE TO READ A LICENSE FOR A MONEY OR A
 
 ---
 
-### 1350க்கும் மேற்பட்ட உள்ளூராட்சிமன்ற ஊழியர்களுக்கு நிரந்தர நியமனத்தை வழங்கினார் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்!
+### Eastern Province Governor Senthil Thondaman gave permanent appointment to more than 1350 local government employees!
 
 *2024-07-18 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188781) · `ta`
 
-கிழக்கு மாகாண உள்ளூராட்சி மன்றங்களில் 10 வருடங்களுக்கு மேலாக தற்காலிக நியமனத்தில் பணிபுரிந்து வரும் ஊழியர்கள் தமது நிரந்தர நியமனங்கள் குறித்து கடந்த கால ஆளுநர்கள் மற்றும் பல்வேறு தரப்பினர்களிடம்  கோரிக்கைகளை முன்வைத்து வந்தனர்.
+Governor Senthil Thondaman granted permanent positions to over 1350 local government workers in the Eastern Province, addressing a long-standing demand after more than a decade of temporary employment. This significant move, particularly impacting employees in the Ampara District, was praised by local government staff and Members of Parliament for its swift resolution to a persistent issue.
 
-அவர்களால் எவ்வித வெற்றிகரமான நடவடிக்கையும்  முன்னெடுக்கப்படாத  நிலையில், சம்பந்தப்பட்ட ஊழியர்கள் தங்களது நிரந்தர  நியமனம் குறித்தும், நிரந்தர நியமனம் இல்லாததால் எதிர்நோக்கும் பிரச்சினைகள் குறித்தும் கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிரசின் தலைவருமான  செந்தில் தொண்டமானின் கவனத்திற்கு கொண்டு வந்தனர்.
+🟩
 
-ஆளுநர் செந்தில் தொண்டமான் இவ்விடயம் குறித்து ஜனாதிபதி, பிரதமரின் கவனத்திற்கு கொண்டு சென்று  உரிய தீர்வினைப் பெற்று தருவதாக உறுதியளித்திருந்தார்.
+In the Eastern Provincial Councils, employees who have been working in temporary appointments for more than 10 years have made demands to the governors and various parties on their permanent appointments.
 
-ஆளுநர் செந்தில் தொண்டமானால் உரிய ஆவணங்கள் தயாரிக்கப்பட்டு 1350க்கும் மேற்பட்ட ஊழியர்களுக்கு ஒரே நாளில்  நிரந்தர நியமனங்கள்  வழங்கி வைக்கப்பட்டது. அதில் முதல் கட்டமாக அம்பாறை மாவட்டத்தை சேர்ந்தவர்களுக்கு நியமனங்கள் வழங்கி வைக்கப்பட்டது.
+While they have not taken any successful action, the concerned employees have brought to the notice of Senthil Thondaman, the Governor of the Eastern Province and the President of the Eastern Province, on the issues facing the lack of permanent appointment.
+
+Governor Senthil Thondaman promised to bring the Prime Minister to the notice of the Prime Minister and find a proper solution.
+
+Governor Senthil Thondaman was prepared by the relevant documents and more than 1350 employees were given permanent appointments in a single day. The first phase of the appointment was made to the Ampara District.
 
 ...
 
 [Data](articles/4043b230.json)
+
+[Extended Data](ext_articles/4043b230.ext.json)
 
 ---
 
@@ -156,37 +190,51 @@ Jarfna Kings scored 177 runs for the loss of 7 wickets in their bowls.
 
 ---
 
-### மலையக மக்களுக்கு நிரந்தர காணி, வீட்டு உரிமைகளை வழங்குவதே அரசாங்கத்தின் நோக்கம்!
+### The purpose of the government is to provide permanent land and housing rights to the hill country!
 
 *2024-07-18 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188766) · `ta`
 
-பெருந்தோட்ட மக்கள் வாழும் பிரதேசங்களை இனங்கண்டு அப்பகுதிகளைப் புதிய குடியேற்ற கிராமங்களாக சட்டரீதியாக பிரகடனப்படுத்துவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Sri Lankan government, led by President Ranil Wickremesinghe, aims to grant permanent land and housing rights to residents of hill country areas, including plantation workers. This initiative involves designating certain regions as new migrant villages. The proposal, which received cabinet approval, emphasizes the importance of securing land rights for all inhabitants during this process. Key stakeholders, including various ministers and MPs, were involved in discussions to finalize the plan, ensuring consultation with local plantation companies and representation from all relevant parties.
 
-அதன் எதிர்கால செயற்பாடுகள் தொடர்பான கலந்துரையாடல் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் ஜனாதிபதி அலுவலகத்தில் நேற்று வியாழக்கிழமை (17) நடைபெற்றது.
+🟩
 
-கிராமங்கள், நகரங்கள் மற்றும் பெருந்தோட்டங்கள் ஆகியவற்றை உள்ளடக்கிய மக்களுக்கு  நிரந்தர காணி மற்றும் வீட்டு உரிமைகளை வழங்குவதே அரசாங்கத்தின் எதிர்பார்ப்பு எனவும் அதற்குத் தேவையான புரட்சிகர வேலைத்திட்டம் ஏற்கனவே செயற்படுத்தப்பட்டுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க இதன்போது தெரிவித்தார்.
+The Cabinet has approved the proposal put forward by President Ranil Wickremesinghe to identify the areas where plantation people live and declare the area as new migrant villages.
 
-அரச பெருந்தோட்டக் கம்பனி மற்றும் உள்ளூர் பெருந்தோட்டக் கம்பனிகளின் கட்டுப்பாட்டில் உள்ள தோட்ட மக்கள் வாழும் பகுதிகளை புதிய கிராமங்களாக சட்டரீதியாக பிரகடனப்படுத்தத் தேவையான சட்ட ஏற்பாடுகளை மேற்கொள்வது மிகவும் முக்கியமான மற்றும்  காலத்திற்கு உகந்த முன்மொழிவு என்பதால், அனைத்துத் தரப்பினரின் கொள்கை ரீதியான உடன்பாடு வெளிப்படுத்தப்பட்டது.
+A discussion on its future activities was held yesterday (17) at the Presidential Office headed by President Ranil Wickremesinghe.
+
+President Ranil Wickremesinghe said that the government's expectation is to provide permanent land and housing rights to the people who include villages, cities and plantations.
+
+The policy agreement of all parties was revealed because it was a very important and timely proposal to make legal arrangements to legally declare the plantation people -controlled areas of the state plantation company and local plantation companies as new villages.
+
+Pointing out that it is imperative to ensure the land rights of all the people living in the hill country while implementing the proposal, MP Mano Ganesan handed over the proposal to the President.
 
 ...
 
 [Data](articles/af14ba49.json)
 
+[Extended Data](ext_articles/af14ba49.ext.json)
+
 ---
 
-### பாடசாலை நேரத்தில் பிரத்தியேக வகுப்புக்களை நடத்திய ஆசிரியர் இடைநீக்கம்
+### Teacher suspension of exclusive classes during school
 
 *2024-07-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188779) · `ta`
 
-அநுராதபுரத்தில் பாடசாலை நேரத்தில் பிரத்தியேக வகுப்புக்களை நடாத்திய ஆசிரியர் ஒருவர் உடனடியாக இடைநீக்கம் செய்யப்பட்டுள்ளார்.
+In Anuradhapura, a teacher conducting exclusive classes during school hours has been suspended. Parents complained after observing the teacher attending school, signing in, then leaving to teach these classes. This action led to the teacher's immediate suspension following an investigation by the Provincial Director of Education.
 
-கணிப் பாடத்தை கற்பிக்கும் ஆசிரியர்  பாடசாலை நேரத்தில் பிரத்தியேக வகுப்புக்களை நடத்துவதை வழக்கமாக கொண்டுள்ளதாகவும், பாடசாலைக்கு வருகைதந்து கையொப்பமிட்டு பிரத்தியேக வகுப்பு செல்வதாகவும் பெற்றோர்கள் குழுவொன்று வடமத்திய மாகாணக் கல்விப் பணிப்பாளர்   எஸ்.எம்.டபிள்யூ. சமரக்கோனிடம் முறைப்பாடு செய்திருந்தது.
+🟩
 
-அந்த முறைப்பாட்டின் பேரில், மாகாணக் கல்விப் பணிப்பாளர், ஏனைய பணியாளர்கள் குழுவுடன் இணைந்து பாடசாலையை ஆய்வு செய்த போது, இந்த ஆசிரியர், பாடசாலைக்குச் சென்று, ஆசிரியர்களின் வருகைப் பதிவேட்டில் கையொப்பமிட்டு, பாடசாலைக்கு வெளியே சென்று பிரத்தியேக வகுப்பில் மாணவர்களுக்கு கற்பித்ததைக் கண்டுபிடித்தனர்.
+A teacher who conducted exclusive classes during school during school in Anuradhapura has been immediately suspended.
+
+Teacher Teaching Teaching Course is customary to conduct exclusive classes during school and that a group of parents go to school and go to the exclusive class.. The complaint was lodged with Samarakon.
+
+According to the complaint, when the Provincial Director of Education, along with the other staff team, inspected the school, the teacher went to school, signed the teachers' attendance registration and went out to school and taught students in the exclusive class.
 
 ◼️
 
 [Data](articles/0de421a9.json)
+
+[Extended Data](ext_articles/0de421a9.ext.json)
 
 ---
 
@@ -424,21 +472,27 @@ Equipment including submersible water pumps, kitchen sets, chainsaws, polysack b
 
 ---
 
-### கிண்ணியா தோனா கடற்கரையில் பெண்ணொருவரின் சடலம் மீட்பு!
+### A woman's body recovered at Kinniya Dona Beach
 
 *2024-07-18 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188769) · `ta`
 
-கிண்ணியா பொலிஸ் பிரிவுக்குட்பட்ட தோனா கடற்கரையில், பெண்ணொருவரின் சடலம் இன்று வியாழக்கிழமை (18) காலை கண்டெடுக்கப்பட்டுள்ளதாக கிண்ணியா பொலிஸார் தெரிவித்தனர்.
+The body of a 33-year-old woman, identified as Ma'roof Munvhavara, was discovered at Kinniya Dona Beach early today. Preliminary investigation suggests she fell into the sea and drowned. Her remains have been released to her family after examination.
 
-கிண்ணியா அகம்மட் ஒழுங்கையைச் சேர்ந்த, 33 வயதான மஃரூப் முன்னவ்வரா என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டதாக பொலீசார் தெரிவித்தனர்.
+🟩
 
-இவ்வாறு சடலமாக மீட்கப்பட்டவர் புத்தி சுவாதீனமற்றவர் எனவும் கடலில் குளிப்பதற்காக இன்று காலை கடலில் இறங்கியதால் இச் சம்பவம் இடம் பெற்றுள்ளதாக ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+The body of a woman has been found this morning (18) at the Dona beach belonging to the Kinniya Police Division, Kinniya police said.
 
-குறித்த சடலத்தை விசாரணைகளின் பின்னர் உறவினர்களிடம் ஒப்படைத்துள்ளதாகவும் கிண்ணியா பொலிஸார் மேலும் தெரிவித்தனர்.
+Police said the body was recovered from the 33 -year -old Ma'roof Munvhavara of Kinniya Akammad order.
+
+Preliminary inquiries revealed that the incident had taken place this morning as the body of the body was unintelligent and landed in the sea this morning.
+
+The body has been handed over to relatives after investigations, Kinniya police said.
 
 ◼️
 
 [Data](articles/693fdaea.json)
+
+[Extended Data](ext_articles/693fdaea.ext.json)
 
 ---
 
@@ -466,19 +520,25 @@ However, it is reported that the cause of the fire of the shop complex is yet to
 
 ---
 
-### புத்தளத்தில் ஒரு தொகை உலர்ந்த மஞ்சள் மீட்பு
+### A sum of money in Puttalam is dry yellow recovery
 
 *2024-07-18 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/188771) · `ta`
 
-நாட்டிற்கு சட்டவிரோதமாக கொண்டுவரப்பட்ட 778 கிலோ கிராம் உலர்ந்த மஞ்சளை கடற்படையினர் கைப்பற்றியுள்ளனர்.
+Marines seized 778 kg of illegal dried turmeric worth $50,000 in Puttalam, found during a raid from Vellamundalama to Kollankanatha. The contraband is being held for investigation.
 
-புத்தளம் வெள்ளமுண்டலம தொடக்கம் கொலங்கனத்த வரையான கடற்கரைப் பகுதியில் நேற்று வியாழக்கிழமை (17) மாலை மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடடிவடிக்கையின் போது  இந்த உலர்ந்த மஞ்சள் மீட்கப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பிலான விசாரணைகள் ஆரம்பிக்கப்படும் வரை உலர் மஞ்சள் பொதி கடற்படையினரின் பொறுப்பில் வைக்கப்பட்டுள்ளது.
+The Marines have seized 778 kg of dried turmeric that were illegally brought to the country.
+
+The dried yellow was recovered during a round -up carriage on Thursday evening (17) evening from Vellamundalama to Kollankanatha.
+
+The dry yellow package has been kept in charge of the Marines until investigations are underway.
 
 ◼️
 
 [Data](articles/42247d50.json)
+
+[Extended Data](ext_articles/42247d50.ext.json)
 
 ---
 
@@ -1054,6 +1114,24 @@ Accordingly, the Teacher of the Provincial Director of Education SMW. Samarakoon
 
 ---
 
+### පාසල් පොතේ අත්සන් තබා ටියුෂන් කළ ගුරුවරයාගේ වැඩ තහනම්
+
+*2024-07-18 13:05:05* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පොතේ-අත්සන්-තබා-ටියුෂන්-කළ-ගුරුවරයාගේ-වැඩ-තහනම්/11-410850) · `si`
+
+අනුරාධපුර නිවන්තකචේතිය විදුහලේ උසස් පෙළ ගණිත අංශ ගුරුවරයකු පාසල් කාලයේදී පාසලට පැමිණි බවට අත්සන් තබා පිටතට ගොස් පුද්ගලික පන්තියක (ටියුෂන්) ඉගැන්වීම් කටයුතු වලට ගොස් සිටිම හේතුවෙන්  වහාම ක්‍රියාත්මක වන පරිදි එම ගුරුවරයාගේ වැඩ තහනමට ලක් කල බව උතුරු  මැද පළාත් අධ්‍යාපන අධ්‍යක්ෂ කාර්යාලය පවසයි.
+
+අදාළ ගුරුවරයා ඊයේ (17දා ) පාසලට පැමිණ අත්සන් තබා පාසලෙන් පිටවී ගොස් පුද්ගලික අමතර  පංතියක් සිදු කරන බවට ලද තොරතුරක් මත පළාත් අධ්‍යාපන අධ්‍යක්ෂ එස්. එම්. ඩබ්ලිව්. සමරකෝන් මහතා සහ පළාත් අතිරේක අධ්‍යාපන අධ්‍යක්ෂ (පාලන),කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂවරයා සමග පාසලට ගොස් තිබේ.
+
+එහිදී පාසලේ ආරක්ෂක අංශය පළාත් අධ්‍යාපන අධ්‍යක්ෂ ප්‍රමුඛ නිලධාරීන්ට සඳහන් කර ඇත්තේ අදාල ගුරුවරයා පාසලෙන් පිට වූ බවය.
+
+අනතුරුව අදාළ පැමිණීමේ ලේඛන පරීක්ෂාවේදී අදාළ ගුරුවරයා පාසලට පැමිණි බවට අත්සන් තබා තිබූ බව සමරකෝන් මහතා සඳහන් කළේය.අදාළ ගුරුවරයාට පාසලේ වෙන්කර තිබූ කාලච්ඡේද තුනක් මගහැර පිටතට ගොස් ඇති බවට එහිදී අනාවරණය කර ගෙන ඇත.
+
+...
+
+[Data](articles/2462814d.json)
+
+---
+
 ### Sri Lanka presidential election winner will need 7 million votes: UNP
 
 *2024-07-18 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-winner-will-need-7-million-votes-unp-172745/) · `en`
@@ -1113,6 +1191,26 @@ The US dollar purchasing price was 299.2042 rupees at Rs 299.2042 and the sales 
 [Data](articles/89a7b5fd.json)
 
 [Extended Data](ext_articles/89a7b5fd.ext.json)
+
+---
+
+### මොනරාගලින් අතුරුදන් වූ දැරිවියන් තිදෙනා වැලිවේරියෙන් සොයා ගනියි
+
+*2024-07-18 12:42:28* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගලින්-අතුරුදන්-වූ-දැරිවියන්-තිදෙනා-වැලිවේරියෙන්-සොයා-ගනියි/11-410848) · `si`
+
+මොනරාගල මදුරුකැටිය ප්‍රදේශයේ පිහිටි සමාධි ළමා නිවාසයේ නේවාසිකව සිටින දැරියන් තිදෙනෙකු ඉකුත් (15) වෙනිදා පාසල් ගොස් ළමා නිවාසයට නොපැමිණ බියගම නිදහස් වෙළෙඳ කලාපයේ එක් දැරියකගේ මවගේ යෙහෙළියකගේ නිවසක සිටියදී 119 පොලිස් හදිසි දුරකථන ඇමතුමට ලද තොරතුරකට අනුව වැලිවේරිය පොලීසිය මඟින් සොයාගෙන තිබේ.
+
+අවුරුදු 14,15 සහ 17 යන වියහි පසුවන මෙම දැරියන් තිදෙනා මහියංගනය,බලංගොඩ සහ කතරගම ප්‍රදේශ වල පදිංචිකාරියන් වන අතර මොනරාගල මදුරුකැටිය සමාධි ළමා නිවාසයේ නේවාසිකව සිටිති.
+
+එසේ නේවාසිකව සිටි දැරියන් තිදෙනා 15 වෙනිදා ළමා නිවාසය ආසන්නයේ තිබෙන පාසලට ගොස් ළමා නිවාසයට නොපැමිණ බස්රථයකින් වැල්ලවායටත් වැල්ලවායෙන් තණමල්විලටත් ගොස් තණමල්විල සිට කොළඹ බසයකින් කඩුවෙල දක්වා ගොස් බියගම නිදහස් වෙළෙඳකලාපයේ සේවයකරන එක් මවකගේ නවාතැන්පොළකට ගොස් ඇත.
+
+දැරියන් තිදෙනා පොලීසියට පැමිණ පවසා ඇත්තේ නිවාසයේ පාලිකාවගෙන් ළමා නිවාසයේ සිටින දැරියන්ට නිතර පහරදී හිංසාපීඩා කරන නිසා ඒවා ඉවසා ගත නොහැකිව ඔවුන් තිදෙනා මෙලෙස පැමිණි බවයි.
+
+දැරියන් තිදෙනා වෛද්‍ය පරීක්ෂණයක් සඳහා යොමුකිරීමට වැලිවේරිය පොලීසිය කටයුතුයොදා ඇති අතර
+
+...
+
+[Data](articles/19fa1cf1.json)
 
 ---
 
@@ -2227,91 +2325,5 @@ The injured were the driver and passenger of the car and was admitted to a priva
 [Data](articles/ee94749a.json)
 
 [Extended Data](ext_articles/ee94749a.ext.json)
-
----
-
-### MP injured in Colombo accident
-
-*2024-07-18 08:19:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-விபத்தில்-எம்-பி-காயம்/175-340592) · `ta`
-
-United People's Power MP Tissa Attanayake was injured in an accident in Jawatte, Colombo.
-
-🟩
-
-Jawatte in Colombo. United People's Power MP Tissa Attanayake was injured in the accident.
-
-◼️
-
-[Data](articles/0d5c3097.json)
-
-[Extended Data](ext_articles/0d5c3097.ext.json)
-
----
-
-### Lifty life risk to marine mammal animals including turtles
-
-*2024-07-18 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198934) · `si`
-
-Fisheries, including illicit methods, pose significant risks to marine mammals like turtles, threatening their survival.
-
-🟩
-
-Due to fishery, the lives of the maritime mammals including turtles, including illegal techniques have been severely at risk.
-
-◼️
-
-[Data](articles/0803bbf2.json)
-
-[Extended Data](ext_articles/0803bbf2.ext.json)
-
----
-
-### Sri Lanka airport will need tech to cope as volumes set to top pre-Covid levels: SITA
-
-*2024-07-18 08:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-airport-will-need-tech-to-cope-as-volumes-set-to-top-pre-covid-levels-sita-172704/) · `en`
-
-ECONOMYNEXT – Passenger traffic at Sri Lanka’s main airport in Katunayake is set to exceed pre-pandemic volumes by year-end and technology can be used to address congestion, an international aviation technology company said.
-
-Self-service check-in, biometrics, reducing passenger touch points and off airport processing are some of the strategies now used to boost efficiency.
-
-Passenger traffic, which includes regional transit passengers, at the Bandaranaike International Airport has topped 4 million by April and is likely reach 9.5 to 10 million passengers by year, which is more than the pre-pandemic level in 2019.
-
-“The message is positive on Sri Lanka,” David Lavorel, Chief Executive, Société Internationale de Télécommunications Aéronautiques (SITA), a company that was founded by airlines and is currently serving carriers, airports and border agencies.
-
-“You have growth coming. Of course, you have challenges if you do nothing. But I think your authorities are working on taking action.”
-
-...
-
-[Data](articles/f15ca9d8.json)
-
-[Extended Data](ext_articles/f15ca9d8.ext.json)
-
----
-
-### Minister of Justice to Election Commission
-
-*2024-07-18 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198933) · `si`
-
-Justice Minister Dr. Wijayadasa Rajapaksa urges the Election Commission to enforce the Election Cost General of Elections law, aiming to improve election culture and uphold the rule of law. The Elections Registration Act was submitted to Parliament for this purpose. Despite challenges, including failed attempts to prevent further presidential elections and doubts about the national folk force's victory, it's hoped that the next presidential election candidate will offer economic solutions.
-
-🟩
-
-Dr. Wijayadasa Rajapaksa, Minister of Justice and Constitutional Reforms has informed the Election Commission to implement the powers under the Election Cost General of Elections.
-
-The Minister pointed out that law under the current electoral system, the present proportional electoral events in the parliamentary elections, has been diagnosed.
-
-Accordingly, the Elections Registration Act No. 3 of the Election Commission has been presented to Parliament with the support of the Elections Commission for a dominance of the election culture and support the rule of law.
-
-Minister Dr. Wijayadasa Rajapakse said that the Elections Commission has requested the election to take necessary steps to implement the Act for future elections.
-
-Meanwhile, JVP propaganda secretary Vijitha Herath says that all attempts have failed to prevent further presidential election.
-
-However, UNP General Secretary Palitha Range Bandara said that the national folk force could not win the next presidential election.
-
-...
-
-[Data](articles/31b22a31.json)
-
-[Extended Data](ext_articles/31b22a31.ext.json)
 
 ---

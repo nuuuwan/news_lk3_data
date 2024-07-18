@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 19:05:19**
+As of **2024-07-18 19:20:17**
 
 ## Newspaper Stats
 
-*Scraped **35,969** Articles*
+*Scraped **35,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,151
 dailyftlk | 2,281
-adalk | 3,250
+adalk | 3,251
 adaderanalk | 4,151
 tamilmirrorlk | 4,362
 dailymirrorlk | 4,733
 virakesarilk | 5,612
-adaderanasinhalalk | 6,017
+adaderanasinhalalk | 6,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,967 (100.0%) of 35,969 articles have been extended.
+35,969 (100.0%) of 35,971 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,13 +44,43 @@ However, the Justice Minister has claimed that this decision was made in order t
 
 [Data](articles/767a621c.json)
 
+[Extended Data](ext_articles/767a621c.ext.json)
+
+---
+
+### ජනාධිපතිවරණයට අදාළව හදිසි තීරණයක්
+
+*2024-07-18 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198960) · `si`
+
+ජනාධිපතිවරණය පවත්වා අවසන් වන තෙක් දැනට කැබිනට් අනුමැතිය හිමිවී ඇති 22වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ගැසට් කිරීමෙන් වළකින ලෙස අධිකරණ අමාත්‍ය, ආචාර්ය විජයදාස රාජපක්ෂ මහතා අධිකරණ අමාත්‍යාංශයේ ලේකම්වරයාට උපදෙස් ලබාදී තිබේ.
+
+ඒ, ජනාධිපතිවරණය පැවැත්වීම සම්බන්ධයෙන් පවතින අවිනිශ්චිතතාව තුරන් කිරීමේ අරමුණින් බව අමාත්‍ය විජයදාස රාජපක්ෂ මහතා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/7c0e1606.json)
+
+---
+
+### ගාලු කණ්ඩායම අවසන් මහ තරගයට
+
+*2024-07-18 18:37:33* · [`adalk`](https://www.ada.lk/sports/ගාලු-කණ්ඩායම-අවසන්-මහ-තරගයට/9-410857) · `si`
+
+ලංකා ප්‍රිමියර් ලීග ක්‍රිකට් තරගාවලියේ අවසන් මහ තරගයට සුදුසුකම් ලබා ගැනීමට ගාලු කණ්ඩායම සමත්විය ඒ යාපනය කණ්ඩායම කඩුලු 7කින් පරාජය කරමිනි.
+
+මුලින්ම පන්දුවට පහරදුන් යාපනය කණ්ඩායම 177/7ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රීඩා කළ ගාල්ල කණ්ඩායම පන්දුවාර 18.1කදී ලකුණු 181/3 රැස්කරමින් තරගය ජයග්‍රහණය කළේය.
+
+◼️
+
+[Data](articles/133b9123.json)
+
 ---
 
 ### Suspect arrested for defrauding money promising jobs in UK
 
 *2024-07-18 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100606/suspect-arrested-for-defrauding-money-promising-jobs-in-uk) · `en`
 
-A person has been arrested today (18) by the Special Investigation Unit of the Sri Lanka Bureau of Foreign Employment (SLBFE) in connection with a foreign employment scam after he allegedly cheated people by promising employment opportunities in the United Kingdom (UK).
+A person has been arrested today (18) by the Special Investigation Unit of the Sri Lanka Bureau of Foreign Employment (SLBFE) in connection with a foreign employment scam after he allegedly cheated millions of rupees by promising employment opportunities in the United Kingdom (UK).
 
 The investigations have revealed that the institution that was operating in the Colombo 02 area was an unlicensed foreign employment agency, without the necessary authorisation from the SLBFE and the owner of the institution, identified as ‘Samanture Jinna’, had fraudulently obtained Rs. 4 million per person by promising teaching assistant and restaurant jobs in the UK.
 
@@ -59,6 +89,8 @@ Accordingly, the suspect was arrested in the Dehiwala area by the Special Invest
 ...
 
 [Data](articles/f2ab47c4.json)
+
+[Extended Data](ext_articles/f2ab47c4.ext.json)
 
 ---
 
@@ -1294,7 +1326,7 @@ The Provincial Director added that the teacher was banned into consideration and
 
 *2024-07-18 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-winner-will-need-7-million-votes-unp-172745/) · `en`
 
-ECONOMYNEXT — If there was 80-percent turnout at Sri Lanka’s 2024 presidential election, a candidate would have to obtain over 70 million votes to win, the United National Party (UNP) said, claiming that this would be an insurmountable challenge for rival party National People’s Power (NPP).
+ECONOMYNEXT — If there was 80-percent turnout at Sri Lanka’s 2024 presidential election, a candidate would have to obtain over 7 million votes to win, the United National Party (UNP) said, claiming that this would be an insurmountable challenge for rival party National People’s Power (NPP).
 
 UNP general secretary Palitha Range Bandara speaking at an event on Wednesday July 17 said there are 17.1 million Sri Lankans registered to vote at the presidential election due to be held between September 17 and October 17.
 
@@ -2273,57 +2305,5 @@ In this case, as the visa period ended, Vijitha, who was ready to depart from th
 [Data](articles/0af910c0.json)
 
 [Extended Data](ext_articles/0af910c0.ext.json)
-
----
-
-### The police say that the lawyers in charge of the Sanjeewa in Gainmpani and Sanjeewa in Ganemulla speaking
-
-*2024-07-18 09:48:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl5yzz9n1elo) · `si`
-
-Police accuse lawyers involved with Sanjeewa cases in Gainmpani and Ganemulla of aiding escapes. Defense Minister Tiran Alles claims these lawyers facilitated the escape of suspects, describing them as being taken from court to boats. The Minister of Public Defense reports recovery of 955 firearms worth 10 billion, attributing crime reduction to justice operations.
-
-🟩
-
-Nothing here contains no of the Fource Forest Picture, '' There is a set of lawyers who depend on powdered money. ''
-
-The police say that the lawyers in charge of the Sanjeewa in Gainmpani and Sanjeewa in Ganemulla speaking
-
-The Minister of Defense Tiran Alles said that their lawyers have helped the police to escape the country with the escape of Sanjeemba and Ganemulla.
-
-"Those lawyers were on their way. Taken from the courthouse and raised. Now when we arrest them now, the story is good. Half a half took to who else left. They took them into the boat. "He said.
-
-The Minister of Public Defense said that 10 billion of the firearms have been recovered from December 17, 2023, 955 firearms have been recovered.
-
-He described how crimes were diminished by the operation of justice.
-
-◼️
-
-[Data](articles/0831e317.json)
-
-[Extended Data](ext_articles/0831e317.ext.json)
-
----
-
-### Corona
-
-*2024-07-18 09:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைடனுக்கு-கொரோனா/50-340596) · `ta`
-
-US President Joe Biden has tested positive for COVID-19 but is experiencing only mild symptoms. He will isolate in Delaware while continuing to carry out his duties remotely. This news comes after Biden criticized former President Trump's policies and condemned gun violence during a recent speech at the NAACP conference in Las Vegas.
-
-🟩
-
-Corona infection has been confirmed to be US President Joe Baitan. The White House said it also showed mild symptoms of Corona.
-
-In an official announcement issued by the White House, he said, “President Joe Baidan has confirmed that Corona is infected. He (Joe Bidon) will return to Delaware where he will be self -isolated. He will perform all his duties at the time. ”
-
-President Jobitton said on his X website, "This afternoon is sure to have Corona infection. I feel good at present. Thank you for all the greetings.. I am going to be isolated for healing. I will continue to work for the American people at that time. ”
-
-The 81 -year -old Bitan, the NAACP in Las Vegas. At attending the National Conference, he was confirmed that Corona was in a test conducted yesterday. Speaking at the conference earlier, he severely criticized Donald Trump's policies. He also strongly condemned the increase in gun violence in the country.
-
-◼️
-
-[Data](articles/879a3a6c.json)
-
-[Extended Data](ext_articles/879a3a6c.ext.json)
 
 ---

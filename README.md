@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 09:35:47**
+As of **2024-07-18 09:54:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,853 (100.0%) of 35,858 articles have been extended.
+35,856 (100.0%) of 35,858 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -644,6 +644,8 @@ Doing things differently and doing different things are two primary mechanisms w
 
 [Data](articles/c48c309c.json)
 
+[Extended Data](ext_articles/c48c309c.ext.json)
+
 ---
 
 ### False Terrorism Cases Enable Repression; Politically Motivated Detentions, Surveillance, Threats
@@ -658,6 +660,8 @@ The law, widely known as the PTA, has provisions allowing for extended administr
 
 [Data](articles/ae5d03bd.json)
 
+[Extended Data](ext_articles/ae5d03bd.ext.json)
+
 ---
 
 ### Winning requires reset: AKD’s strategic dilemmas, bridgeable gaps, rectifiable errors
@@ -671,6 +675,8 @@ Just recently, in Mahiyangana, Ranil contributed to political theory by proclaim
 ...
 
 [Data](articles/7b97ba25.json)
+
+[Extended Data](ext_articles/7b97ba25.ext.json)
 
 ---
 

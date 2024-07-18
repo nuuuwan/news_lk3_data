@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 12:53:51**
+As of **2024-07-18 13:05:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,893 (100.0%) of 35,899 articles have been extended.
+35,899 (100.0%) of 35,899 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,41 +50,55 @@ Against this backdrop, Janatha Vimukthi Peramuna (JVP) Parliamentarian Vijitha H
 
 [Data](articles/d7e63615.json)
 
+[Extended Data](ext_articles/d7e63615.ext.json)
+
 ---
 
-### உலக பாரம்பரியமாக அறிவிக்கப்பட்ட மகாவம்சம்
+### Mahavamsa declared as world heritage
 
 *2024-07-18 12:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பாரம்பரியமாக-அறிவிக்கப்பட்ட-மகாவம்சம்/175-340616) · `ta`
 
-பேராதனைப் பல்கலைக்கழக நூலகத்தில் உள்ள இலங்கையின் வரலாற்றின் முக்கிய ஆதாரமான மகாவன்ச வரலாற்று நூல்கள் அடங்கிய தொகுப்பு உலக பாரம்பரியச் சின்னமாக நேற்று அறிவிக்கப்பட்டது.
+The Mahavamsa historical books collection in the Peradeniya University Library were declared a UNESCO World Heritage Site, marking a significant recognition of Sri Lanka's history. The UNESCO Director General, handed over by Professor GH Peiris, made the declaration, while Deputy Chancellor Professor MD Lamawansa presented a souvenir.
 
-யுனெஸ்கோ பணிப்பாளர் நாயகத்தினால் மகாவன்சத்தை உலக மரபுரிமைச் சின்னமாக பிரகடனப்படுத்துவதற்கான சான்றிதழ் பேராதனைப் பல்கலைக்கழகத்தின் வேந்தர் பேராசிரியர் ஜி.எச்.பீரிஸிடம் கையளிக்கப்பட்டது.
+🟩
 
-அத்துடன், பல்கலைக்கழகத்துகு்கு விஜயம் செய்ததைக் குறிக்கும் வகையில் பிரதி வேந்தர் பேராசிரியர் எம்.டி.லமவன்ச, பணிப்பாளர் நாயகத்திற்கு நினைவுச் சின்னம் ஒன்றை வழங்கினார்.
+A collection of Mahavansa Historical Books, the main source of the history of Sri Lanka in the Peradeniya University Library, was declared a World Heritage Site yesterday.
+
+The UNESCO Director General has been handed over to Professor GH Peiris, Professor of the University of Peradeniya, to declare Mahawasan as a World Heritage Sort of World.
+
+In addition, Deputy Chancellor Professor MD Lamawansa presented a souvenir to the Director General of the University.
 
 ◼️
 
 [Data](articles/4ff396f9.json)
 
+[Extended Data](ext_articles/4ff396f9.ext.json)
+
 ---
 
-### ජොන්ටි ඝාතන සැකකරුවෙක් අත්අඩංගුවට
+### Joni murder suspect arrested
 
 *2024-07-18 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198944) · `si`
 
-ශ්‍රී ලංකා වයස අවුරුදු 19 පහළ ක්‍රිකට් කණ්ඩායමේ හිටපු නායකයෙක් වන ධම්මික නිරෝෂණ ඝාතනයට සැකපිට එක් අයෙක් අත්අඩංගුවට ගත් බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+A suspect is arrested for allegedly killing Joni, a 19-year-old former Sri Lanka cricket team member, who was shot outside his home in Kanda. The motive is believed to be related to a dispute over money. The Public Defense Minister highlighted the issue of circulating firearms post-war as a contributing factor to the rise in shootings nationwide.
 
-ධම්මික නිරෝෂණ හෙවත් ජොන්ටි අඟහරුවාදා (16) ඔහුගේ අම්බලන්ගොඩ, කන්ද ප්‍රදේශයේ පිහිටි නිවස ඉදිරිපිටදී වෙඩිතබා ඝාතනය කළේය.
+🟩
 
-බූරු පිටියක ඇතිවූ ආරවුලක් හේතුවෙන් ඔහුව ඝාතනය කර ඇති බවට විවිධ තොරතුරු වාර්තා විය.
+According to the Public Defense Minister Tiran Alles, one person has been arrested in suspicion of the former leader of the Sri Lanka 19-year-old team.
 
-මහජන ආරක්ෂක අමාත්‍යංශයේ අද (18) පැවති මාධ්‍ය හමුවක් අමතමින් අමාත්‍යවරයා පැවසුවේ සැකකරු බොහෝ විස්තර හෙළිකර ඇති බවයි.
+Dhammika Nirosha Niroshi or Joni Tuesday (16) shot dead in front of the house in Kanda area.
 
-එසේම රටපුරා සිදුවන බොහෝ වෙඩි තැබීම් වලට හේතුව යුද සමයෙන් පසුව ගිනි අවි තවමත් සංසරණය වීම බවද අමාත්‍යවරයා පැවසීය.
+There was various information that he had been killed due to a dispute in a dough.
+
+He was speaking at a media briefing held at the Public Defense Ministry today (18).
+
+The Minister also said that the cause of many of the shootings across the country is still circulating firearms after the war.
 
 ◼️
 
 [Data](articles/6d583a2e.json)
+
+[Extended Data](ext_articles/6d583a2e.ext.json)
 
 ---
 
@@ -105,6 +119,8 @@ Meanwhile, taking to ‘X’, Romanian PM Ciolacu stated that he welcome the dec
 ...
 
 [Data](articles/7d012fba.json)
+
+[Extended Data](ext_articles/7d012fba.ext.json)
 
 ---
 

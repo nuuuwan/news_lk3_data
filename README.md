@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 11:06:11**
+As of **2024-07-18 11:20:03**
 
 ## Newspaper Stats
 
-*Scraped **35,877** Articles*
+*Scraped **35,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,040
 economynextcom | 2,136
 dailyftlk | 2,279
 adalk | 3,241
-adaderanalk | 4,135
+adaderanalk | 4,136
 tamilmirrorlk | 4,344
 dailymirrorlk | 4,733
 virakesarilk | 5,599
@@ -26,39 +26,65 @@ adaderanasinhalalk | 6,000
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,860 (100.0%) of 35,877 articles have been extended.
+35,876 (100.0%) of 35,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### කුරුණෑගල හිටපු නගරාධිපතිගේ දඬුවම අඩු කෙරේ
+### Human Rights Watch pushes for PTA repeal, raises alarm over new bill
+
+*2024-07-18 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100592/human-rights-watch-pushes-for-pta-repeal-raises-alarm-over-new-bill) · `en`
+
+Sri Lankan authorities continue to use the ‘notorious’ Prevention of Terrorism Act (PTA) to target perceived opponents and minority communities without credible evidence to support the allegations despite repeated pledges to end the practice, claims Human Rights Watch (HRW).
+
+Issuing a statement on Wednesday (17), the international watchdog stated that as a result, while some victims have suffered years of arbitrary detention and torture, others are persecuted even after the case against them is dropped.
+
+...
+
+[Data](articles/3ba5ddfd.json)
+
+---
+
+### Former Mayor of Kurunegala will be reduced
 
 *2024-07-18 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198940) · `si`
 
-කුරුණෑගල බුවනෙකබා රාජසභා ගොඩනැගිල්ල කඩා ඉවත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් වරදකරු වී වසර තුනක සිර දඬුවම් නියම වී සිටි කුරුණෑගල හිටපු නගරාධිපති තුෂාර සංජීව විතාරණ ඇතුළු විත්තිකරුවන්ගේ දඬුවම එක් වසරක් දක්වා අඩු කිරීමට අභියාචනාධිකරණය නියෝග කළේය.
+Buwanekaba Ruy building's demolition led to a three-year prison sentence for the former Mayor of Kurunegala, as per the Court of Appeal's ruling on appeal verdicts.
 
-එම විත්තිකරුවන් ඉදිරිපත් කළ අභියාචනා පෙත්සම්වල තීන්දුව ලබා දෙමින් අභියාචනාධිකරණය මෙම නියෝගය නිකුත් කර තිබේ.
+🟩
+
+The Court of Appeal was ordered to be sentenced to three years in prison to the demolition of Buwanekaba Ruy building in Kurunegala.
+
+The Court of Appeal has issued the decision by providing the verdict of appeals petitions.
 
 ◼️
 
 [Data](articles/2a1f75be.json)
 
+[Extended Data](ext_articles/2a1f75be.ext.json)
+
 ---
 
-### சீன வணிக வளாகத்தில் தீ; 16 பேர் பலி
+### Fire on the Chinese business complex;16 killed
 
 *2024-07-18 10:42:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீன-வணிக-வளாகத்தில்-தீ-16-பேர்-பலி/50-340602) · `ta`
 
-சீனாவின் மேற்கே அமைந்த சிச்சுவான் மாகாணத்தில் ஜிங்காங் நகரில் வணிக வளாகம் ஒன்றில் புதன்கிழமை (17) இரவு திடீரென தீ விபத்து ஏற்பட்டது.
+A fire erupted at a business complex in Gingang, Sichuan, China, killing 16. Nearly 300 responders tackled the blaze, rescuing 30 but leaving many trapped. The incident highlights safety concerns amid lax regulations.
 
-இதனை தொடர்ந்து தீயணைப்பு வீரர்கள் மற்றும் அவசரகால பணியாளர்கள் ஏறக்குறைய 300-க்கும் மேற்பட்டோர் சம்பவ பகுதிக்கு சென்றனர். அவர்கள் தீயை கட்டுக்குள் கொண்டு வரும் பணியில் ஈடுபட்டனர். தீ விபத்து ஏற்பட்டு 2 மணிநேரத்திற்கு பின்னர் தீயணைக்கப்பட்டது.
+🟩
 
-இதில் பலர் சிக்கி கொண்டனர். அவர்களில் 30 பேர் பாதுகாப்பாக மீட்கப்பட்டு உள்ளனர். எனினும், மொத்தம் எத்தனை பேர் உள்ளே சிக்கியிருந்தனர் என்ற விவரங்கள் வெளியிடப்படவில்லை. தீ விபத்தில் சிக்கி 16 பேர் உயிரிழந்து உள்ளனர். சீனாவில், போதிய பாதுகாப்பு ஒழுங்குமுறைகள் மற்றும் சட்ட விதிகள் இல்லாத நிலையில், அடிக்கடி இதுபோன்ற சம்பவங்கள் நடக்கின்றன.
+A fire broke out on Wednesday night at a business complex in Gingang, Sichuan Province, west of China.
+
+Following this, firefighters and emergency workers went to the scene of nearly 300 people. They were involved in the task of bringing the fire under control. The fire broke out 2 hours after the fire.
+
+Many of which have been trapped. 30 of them have been safely rescued. However, the details of how many people were trapped inside were not released. 16 people died in a fire. In China, in the absence of adequate security regulations and legal rules, such incidents often occur.
 
 ◼️
 
 [Data](articles/45029620.json)
+
+[Extended Data](ext_articles/45029620.ext.json)
 
 ---
 
@@ -76,39 +102,53 @@ Meanwhile, fairly strong winds about 30-40 kmph can be expected at times elsewhe
 
 [Data](articles/d16195f0.json)
 
+[Extended Data](ext_articles/d16195f0.ext.json)
+
 ---
 
-### ඔබත් අවදානමේ - ගෙදර දීම රෝග ලක්ෂණ හඳුනාගන්න
+### You too are at risk - Identify the symptoms of giving at home
 
 *2024-07-18 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198939) · `si`
 
-ආඝාතය වළක්වා ගැනීම මෙවර එහි තේමාව වී ඇති අතර මේ සම්බන්ධයෙන් දැනුම්වත් කිරීමේ ප්‍රවෘත්ති සාකච්ඡාවක් සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේදී ඊයේ පැවැත්වුණි.
+Recognizing stroke symptoms early is crucial; it affects one in four people, often leading to severe outcomes like paralysis, language difficulties, vision loss, and balance issues. Immediate medical attention is vital for effective rehabilitation through therapies tailored to individual needs.
 
-ඒ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින් ශ්‍රී ලංකා ජාතික ආඝාත සංගමයේ, සභාපති, විශේෂඥ වෛද්‍ය ගාමිණී පතිරණ මහතා සඳහන් කළේ, ගෙදරදීම මෙම රෝගී තත්ත්වය හඳුනාගැනීම ඉතා වැදගත් බවය.
+🟩
 
-ඒ අනුව නිරීක්ෂණය කර බලා හැකි ඉක්මනින් රෝහල්ගත වෙන ලෙස ද වෛද්‍යවරයා මෙහිදී සඳහන් කළේය.
+The theme has been avoiding stroke and a newspaper discussion on this time was held yesterday at the Health Promotion Bureau.
 
-"අපේ සමාජයේ සෑම 4 දෙනෙකුගෙන් එක් අයෙකුටම ආඝාතය තමන්ගේ ජීවිත කාලය තුළ වැළඳීමේ ප්‍රවණතාවයක් තියෙනවා. ආඝාතය කියන්නේ එක් පැත්තකින් ජීවිත නැති කරවන අසනීපයක්. ලංකාවේ ආගාධ රෝගී තත්ත්වය 90%කගේ දක්නට ලැබෙනවා එය වළක්වා ගත හැකිව තිබූ කාරණා 10ක්. මේ අතර, රුධිර පීඩනය, දියවැඩියාව, කොලෙස්ට්‍රරෝල් වැඩිවීම, ස්ථූලතාවය හා දුම්පානය ආදී කරුණු සැලකිල්ලට ගත යුතුයි.
+Speaking further, the Chairman, Chairman of Sri Lanka, Chairman of the Sri Lanka National Aposition Union, Specialist Dr. Gamini Pathirana said that it is very important to identify the disease at home.
+
+The doctor also stated that he was tracked and hospitalized as soon as possible.
+
+"There is a tendency for one of every 4 of our society in our lives. The stroke is a sickness that loses lives on one side. 90% of the modest patient of Sri Lanka have seen 10 things that could be prevented. Meanwhile, it should be taken into consideration such as blood pressure, diabetes, cholesterol increases, stratification and smoking.
 
 ...
 
 [Data](articles/b568cfb3.json)
 
+[Extended Data](ext_articles/b568cfb3.ext.json)
+
 ---
 
-### எண்ணெய் கப்பல் விபத்து; இலங்கையர் உட்பட 9 பேர் மீட்பு
+### Oil ship accident;Nine people, including Sri Lankans, rescue
 
 *2024-07-18 10:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எண்ணெய்-கப்பல்-விபத்து-இலங்கையர்-உட்பட-9-பேர்-மீட்பு/175-340601) · `ta`
 
-ஓமானில் திங்கட்கிழமை (15) அதிகாலை கவிழ்ந்த கப்பலில் 13 இந்தியர்கள் மற்றும் 03 இலங்கையர்கள் பயணித்தனர்.
+An oil ship accident occurred off Oman involving 13 Indians and 3 Sri Lankans. The Indian Navy's INS Tek is leading the search and rescue efforts, successfully rescuing 8 Indians and 1 Sri Lankan so far.
 
-இந்த பணியில், இந்திய கடற்படையை சேர்ந்த போர்க்கப்பல் ஐ.என்.எஸ். தேக் தீவிர தேடுதல் பணியில் ஈடுபட்டு உள்ளது.
+🟩
 
-கப்பல் விபத்தில் சிக்கியவர்களை மீட்கும் பணியில் இதுவரை  8 இந்தியர்கள் மற்றும் இலங்கையை சேர்ந்த ஒருவர் மீட்கப்பட்டு உள்ளனர்.
+Thirteen Indians and 03 Sri Lankans sailed on the ship on Monday morning (15) in Oman.
+
+In this case, the Indian Navy's warship INS. Tek is involved in intensive searching.
+
+Eight Indians and a Sri Lankan person have been rescued so far to rescue the victims of the ship.
 
 ◼️
 
 [Data](articles/8f021e02.json)
+
+[Extended Data](ext_articles/8f021e02.ext.json)
 
 ---
 
@@ -126,193 +166,259 @@ Accordingly, instructions have been given to inspect the hotels, restaurants, an
 
 [Data](articles/ae6739f4.json)
 
+[Extended Data](ext_articles/ae6739f4.ext.json)
+
 ---
 
-### நாடு திரும்பியவர் கடத்தல் - ஒரு கோடி ரூபாய் கப்பம் பெற முயற்சி
+### Returning to Country
 
 *2024-07-18 10:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பியவர்-கடத்தல்-ஒரு-கோடி-ரூபாய்-கப்பம்-பெற-முயற்சி/175-340600) · `ta`
 
-குவைத்தில் பணிபுரிந்து விட்டு இலங்கை திரும்பிய ஒருவரை மாவத்தகமவில் இருந்து கடத்திச் சென்று நாரம்மல பிரதேசத்தில் உள்ள வீடொன்றில் அடைத்து வைத்திருந்த நான்கு சந்தேக நபர்களை விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+Four suspects, aged 31-39, linked to the abduction of a person from Mawathagama and held in Naramala, have been arrested by the Special Task Force. The victim, rescued with STF assistance, identified one of the perpetrators as someone from their workplace in Kuwait.
 
-குறித்த நபர் குவைத்தில் பணிபுரிந்த போது, அதே இடத்தில் பணிபுரிந்த மற்றுமொருவரின் உதவியின் மூலம் இந்த கடத்தல் இடம்பெற்றுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+🟩
 
-விசேட அதிரடிப்படை அதிகாரிகளுக்கு கிடைத்த தகவலுக்கு அமைய குறித்த நபர் பாதுகாப்பாக மீட்கப்பட்டதுடன் சந்தேகநபர்கள் நால்வரும் கைது செய்யப்பட்டுள்ளனர்.
+Special Task Force (STF) has arrested four suspects who had been abducted from Mawathagama from Mawathagama and kept in a house in Naramala area.
 
-சந்தேகநபர்கள் நாரம்மல மற்றும் கட்டுபொத பிரதேசங்களில் வசிக்கும் 31-39 வயதுடையவர்கள் என்பதுடன், குறித்த நபரை கடத்த பயன்படுத்திய கெப் வண்டியும் விசேட அதிரடிப்படையினரால் கைப்பற்றப்பட்டுள்ளது.
+Investigations have revealed that the abduction was carried out with the help of another person who worked in the same place when the person was working in Kuwait.
+
+According to information received by the Special Task Force officers, the person was safely rescued and four suspects have been arrested.
+
+The suspects were aged 31-39, aged 31-39, and the cab used by the person was seized by the Special Task Force.
 
 ◼️
 
 [Data](articles/f1066a87.json)
 
+[Extended Data](ext_articles/f1066a87.ext.json)
+
 ---
 
-### பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க பயணித்த ஜீப் விபத்து
+### Jeep accident traveled by MP Tissa Attanayake
 
 *2024-07-18 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188736) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க பயணித்த ஜீப் வண்டி ஜாவத்தை வீதியில் சலுசல பிரதேசத்திற்கு அருகில் விபத்துக்குள்ளாகியுள்ளதாக நாரஹேன்பிட்டி பொலிஸார் தெரிவித்தனர்.
+MP Tissa Attanayake was involved in a jeep crash near Jawatte, Saluzala. A collision between a jeep and a car resulted in three injuries but no harm to the MP. The victims, including the car's driver and passenger, were hospitalized.
 
-நேற்று புதன்கிழமை (17) இரவு திஸ்ஸ அத்தநாயக்க பயணித்த ஜீப் வண்டியும் கார் ஒன்றும் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-விபத்தின் போது 3 பேர் காயமடைந்துள்ளதுடன்,  பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்கவுக்கு காயங்கள் ஏற்படவில்லை.
+United People's Power MP Tissa Attanayake traveled a jeep crashed near Jawatte near Saluzala, Narahenpita police said.
 
-மேலும், காயமடைந்தவர்களில் காரின் சாரதி மற்றும் பயணியொருவரும் அடங்குவதாகவும், காயமடைந்தவர்கள் நாரஹேன்பிட்டி பகுதியில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும்  பொலிஸார்  தெரிவித்தனர்.
+The accident occurred when a jeep and a car crashed into a passenger traveling to Tissa Attanayake last night.
+
+Three people were injured during the accident and parliamentarian Tissa Attanayake was not injured.
+
+In addition, the injured include the driver of the car and a passenger and the injured have been admitted to a private hospital in Narahenpitiya area, police said.
 
 ◼️
 
 [Data](articles/a1692901.json)
 
+[Extended Data](ext_articles/a1692901.ext.json)
+
 ---
 
-### ඝාතන දෙකක්
+### Two murders
 
 *2024-07-18 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198937) · `si`
 
-තියුණු ආයුධවලින් පහරදීම හේතුවෙන් තවත් කාන්තාවක් සහ පුද්ගලයෙක් ඝාතන වී තිබේ.
+In two separate incidents, a woman and a man were murdered with sharp weapons. In the first case, the woman's husband, who attacked her after she left him due to a conflict, is the prime suspect. He has since fled. The second victim was killed over a land dispute, and the suspect, caught by the police, is being investigated.
 
-බිංගිරිය පොලිස් වසමේ ඉහළ කඩිගමුව ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කර තිබුණි.
+🟩
 
-පොලීසිය සඳහන් කළේ, මියගිය කාන්තාවගේ ස්වාමි පුරුෂයා විසින් එම ඝාතනය සිදුකර ඇති බවය.
+Another woman and a man have been assassinated due to sharp weapons.
 
-ඝාතනයට ලක්වූ කාන්තාවට ස්වාමි පුරුෂයා විසින් බීමත්ව නිවසට පැමිණ නිතර නිතර පහරදීම් සිදුකර ඇති බව අනාවරණය වී තිබේ.
+The Bingiriya police division was assaulted by a sharp object in the Kadigamuwa area in the Kadigamuwa area.
 
-එම ආරවුල් තත්ත්වය නිසාවෙන් ඇය සති දෙකකට පමණ පෙර සිය දෙමව්පියන්ගේ නිවසට ගොස් තිබුණි.
+Police said the murder had committed by the husband of the deceased woman.
 
-පසුව ඇය එම නිවසේ සිට දියනෑමට යමින් සිටියදී ස්වාමි පුරුෂයා විසින් තියුණු ආයුධයකින් ගෙල කපා ඇයව ඝාතනය කර තිබේ.
+It has been revealed that the husband had come to the drunken house and had been attacked.
 
-සැකකරු මේ වන විට ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහු සොයා බිංගිරිය පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර ඇත.
+Because of the conflict, she had gone to her parents about two weeks ago.
 
-මේ අතර මහවෙල පොලිස් වසමේ මිල්ලවාන ප්‍රදේශයේදී තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+Later, when she was on his way to daughter, her husband cut down her with a sharp weapon.
 
-ඉඩම් ආරවුලක් දුරදිග යාම හේතුවෙන් කැත්තකින් පහරදී එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+The suspect has fled the area, and the Bingiriya Police found further investigations.
 
-මහවෙල පොලිස් ස්ථානයේ හදිසි ඇමතුම් ඒකකයට ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කර තිබේ.
+Meanwhile, a person has been attacked with a sharp object in the Millawana area in the Mahawela Police Division.
 
-...
+The murder had been assassinated due to the deception of a land dispute.
+
+Investigations have commenced on a message to the Emergency Unit of the Mahawela Police Station.
+
+The suspect, the suspect was arrested by the police and investigated the incident.
+
+◼️
 
 [Data](articles/6db51fdb.json)
 
+[Extended Data](ext_articles/6db51fdb.ext.json)
+
 ---
 
-### රුපියල් කෝටියක් ගන්න මිතුරාව පැහැරගෙන
+### Kidnapped friend to buy a million rupees
 
 *2024-07-18 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198936) · `si`
 
-කුවේට් රාජ්‍යයේ සේවය කර සිට මෙරටට පැමිණි සිටි පුද්ගලයෙකු මාවතගමදී පැහැරගෙන ගොස් නාරම්මල පාළු නිවසක රඳවාගෙන සිටි සැකකරුවන් සිව් දෙනෙක්ව විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+In Mawathagama, a friend was kidnapped to extort a million rupees. The Special Task Force arrested four suspects linked to the crime, which took place in Kuwait but involved local residents aged 31-39 from Narammala and Katupotha. The abduction was meticulously planned, involving someone familiar with the Kuwait site. The STF recovered the vehicle used in the abduction.
 
-විමර්ශන වලදී හෙළිවී ඇත්තේ එම පුද්ගලයා කුවේට් රාජ්‍යයේ සේවය කළ ස්ථානයේම සේවය කළ වෙනත් අයෙකුගේ සැලසුමකට අනුව මෙම පැහැරගැනීම සිදුකර ඇති බවයි.
+🟩
 
-රුපියල් කෝටියක කප්පමක් ලබා ගැනීම සඳහා එම පැහැරගැනීම සිදුකර තිබුණි.
+Four suspects have been arrested by the Special Task Force who had been abducted in Mawathagama in the Kuwait state and detained a Narammala deserted house.
 
-විශේෂ කාර්ය බළකා නිලධාරීන්ට ලැබුණු තොරතුරකට අනුව වහා ක්‍රියාත්මක වී ඒම පුද්ගලයා මුදවා ගෙන සැකකරුවන් සිව්දෙනා අත්අඩංගුවට ගෙන තිබුණි.
+Investigations have revealed that the man had been abducted according to the plan of another who served in the site of Kuwait.
 
-සැකකරුවන් නාරම්මල සහ කටුපොත ප්‍රදේශවල පදිංචි වයස අවුරුදු 31 – 39 වයස්වල පසුවන පුද්ගලයින් වන අතර එම පුද්ගලයාව පැහැරගැනීමට යොදාගත් කැබ් රථයද විශේෂ කාර්ය බළකාය විසින් ඔවුන්ගේ භාරයට ගෙන තිබේ.
+The abduction had been taken to get a ransom of Rs.
+
+According to information received by the STF officers, the four suspects were arrested and arrested the person.
+
+The suspects are aged 31 - 39 years old, a resident of Narammala and Katupotha areas and the vehicle used by the Special Task Force has also taken the vehicle used for the abduction of the person.
 
 ◼️
 
 [Data](articles/d3d12009.json)
 
+[Extended Data](ext_articles/d3d12009.ext.json)
+
 ---
 
-### இலங்கையர்களுடன் கவிழ்ந்த கப்பலில் எடுக்கப்பட்ட வீடியோ
+### Video taken on a shipped ship with Sri Lankans
 
 *2024-07-18 09:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/இலங்கையர்களுடன்-கவிழ்ந்த-கப்பலில்-எடுக்கப்பட்ட-வீடியோ/52-340598) · `ta`
+
+A video showcases life aboard a cargo ship carrying Sri Lankan workers. It highlights their daily routines, interactions, and the challenges they face during long voyages.
+
+🟩
 
 ◼️
 
 [Data](articles/595c3702.json)
 
+[Extended Data](ext_articles/595c3702.ext.json)
+
 ---
 
-### இந்தியாவில் இருந்து இலங்கைக்கு தப்ப முயன்ற பெண் உள்ளிட்ட மூவர் கைது !
+### Three men, including a woman attempting to escape from India
 
 *2024-07-18 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188739) · `ta`
 
-இந்தியாவின் தனுஷ்கோடி கடல் வழியாக இலங்கைக்கு தப்பி வர முயன்ற இலங்கை பெண் மற்றும்  இலங்கைக்கு அழைத்து வர உதவிய இருவர் என மூவர் கைது செய்யப்பட்டுள்ளனர்.
+Three individuals were arrested for aiding a Sri Lankan woman, Vijitha, in her illegal attempt to leave India via sea after her visa expired. The group included a woman named Jesu from Dhanushkodi and two others. Vijitha, originally from Mullaitivu, had visited Chennai for treatment of a mental illness but decided to flee when her visa ended. The Rameswaram Port Police are investigating the incident.
 
-இலங்கை முல்லைத்தீவு பகுதியைச் சேர்ந்த விஜிதா (45) என்ற பெண் கடந்த 2023 டிசம்பர் மாதம் விமான மூலமாக 6 மாத கால விசாவில் சென்னைக்குச் சென்று பாண்டிச்சேரியில் தங்கி மனநோய்க்கான சிகிச்சை பெற்று வந்துள்ளார்.
+🟩
 
-இந்நிலையில், விசா காலம் முடிவடைந்ததால் தனுஷ்கோடியில் இருந்து சட்டவிரோதமாக படகில் செல்ல தங்கச்சி மடத்தை சேர்ந்த ஜேசு என்பவரை அணுகி  50 ஆயிரம் ரூபா பணம் கொடுத்து நேற்று புதன்கிழமை (17) இரவு ராமேஸ்வரம் மீன் பிடி துறைமுகத்திலிருந்து புறப்பட தயாராக நின்ற விஜிதாவையும், இலங்கைக்கு சட்டவிரோதமாக தப்ப உதவிய தங்கச்சிமடத்தைச் சேர்ந்த அருளாந்தம் மற்றும் அவருடைய 17 வயது மகன் ஆகிய மூவரையும் ராமேஸ்வரம் துறைமுகம் காவல் நிலைய பொலிஸார் கைது செய்து விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Three people have been arrested for helping a Sri Lankan woman who tried to flee to Sri Lanka through India's Dhanushkodi Sea.
+
+Vijitha (45) from Mullaitivu, Sri Lanka, has traveled to Chennai for a six -month visa by flight in December 2023 and has been treated for mental illness.
+
+In this case, as the visa period ended, Vijitha, who was ready to depart from the Rameswaram fishing port on Wednesday (17) night (17), was awarded Jesu from Dhanushkodi and illegally to the boat from Dhanushkodi.Rameshwaram Port Police Station Police have arrested the police and are conducting investigations.
 
 ◼️
 
 [Data](articles/0af910c0.json)
 
+[Extended Data](ext_articles/0af910c0.ext.json)
+
 ---
 
-### பைடனுக்கு கொரோனா
+### Corona
 
 *2024-07-18 09:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைடனுக்கு-கொரோனா/50-340596) · `ta`
 
-அமெரிக்க ஜனாதிபதி ஜோ பைடனுக்கு கொரோனா தொற்று இருப்பது உறுதி செய்யப்பட்டுள்ளது. மேலும் கொரோனா பாதிப்புக்கான லேசான அறிகுறிகளைக் காட்டுவதாக வெள்ளை மாளிகை தெரிவித்துள்ளது.
+US President Joe Biden has tested positive for COVID-19 but is experiencing only mild symptoms. He will isolate in Delaware while continuing to carry out his duties remotely. This news comes after Biden criticized former President Trump's policies and condemned gun violence during a recent speech at the NAACP conference in Las Vegas.
 
-இதுதொடர்பான வெள்ளை மாளிகை வெளியிட்ட அதிகாரப்பூர்வ அறிவிப்பில், "ஜனாதிபதி ஜோ பைடனுக்கு கொரோனா தொற்று இருப்பது உறுதி செய்யப்பட்டுள்ளது. அவர் ( ஜோ பைடன்) டெலாவேருக்குத் திரும்புவார், அங்கு அவர் சுயமாக தனிமைப்படுத்தப்படுவார். அந்த நேரத்தில் தனது அனைத்து கடமைகளையும் முழுமையாகச் செய்வார்" என்று தெரிவித்துள்ளது.
+🟩
 
-இதுதொடர்பாக ஜனாதிபதி ஜோபைடன் தனது எக்ஸ் வலைதளத்தில், "இன்று மதியம் எனக்கு கொரோனா தொற்று இருப்பது உறுதியானது, நான் தற்போது நன்றாக இருப்பதாக உணர்கிறேன், அனைவரின் வாழ்த்துக்களுக்கும் நன்றி. நான் குணமடைவதற்காக தனிமைப்படுத்திக் கொள்ள உள்ளேன். அந்த நேரத்தில் அமெரிக்க மக்களுக்கான பணியை தொடர்ந்து செய்வேன்" என்று அதில் பதிவிட்டுள்ளார்.
+Corona infection has been confirmed to be US President Joe Baitan. The White House said it also showed mild symptoms of Corona.
 
-...
+In an official announcement issued by the White House, he said, “President Joe Baidan has confirmed that Corona is infected. He (Joe Bidon) will return to Delaware where he will be self -isolated. He will perform all his duties at the time. ”
+
+President Jobitton said on his X website, "This afternoon is sure to have Corona infection. I feel good at present. Thank you for all the greetings.. I am going to be isolated for healing. I will continue to work for the American people at that time. ”
+
+The 81 -year -old Bitan, the NAACP in Las Vegas. At attending the National Conference, he was confirmed that Corona was in a test conducted yesterday. Speaking at the conference earlier, he severely criticized Donald Trump's policies. He also strongly condemned the increase in gun violence in the country.
+
+◼️
 
 [Data](articles/879a3a6c.json)
 
+[Extended Data](ext_articles/879a3a6c.ext.json)
+
 ---
 
-### இந்த வாரம் முதல் கடவுச் சீட்டு வழங்க புதிய முறை
+### New system to deliver the first passport this week
 
 *2024-07-18 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188734) · `ta`
 
-கடவுச்சீட்டு வழங்கும் புதிய முறை வெள்ளிக்கிழமை (19) முதல் ஆரம்பிக்கப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+A new passport issuance system launches this Friday (19), allowing pre-registration via www.immigration.gov.lk. The Department of Immigration and Emigration aims to streamline the process for applicants, issuing passports based on priority post-registration.
 
-விண்ணப்பதாரர்களின் நலனுக்காகவும் செயல்முறையை சீரமைக்கவும் கடவுச்சீட்டுகளை வழங்குவதற்கான புதிய வழிமுறையை குடிவரவு மற்றும் குடியகல்வு திணைக்களம் அறிமுகப்படுத்தியுள்ளது.
+🟩
 
-அதன்படி, புதிய கடவுச்சீட்டுகளுக்கு விண்ணப்பிப்பதற்காக விண்ணப்பதாரர்கள் www.immigration.gov.lk என்ற இணையத்தளத்தின் ஊடாக முன்கூட்டியே பதிவு செய்ய வேண்டும்.
+The new system of passports will be launched from Friday (19).
 
-ஒன்லைனில் பதிவு செய்ததன் பின்னர் முன்னுரிமை முறையின் படி கடவுச்சீட்டுகள் வழங்கப்படும் என குடிவரவு மற்றும் குடியகல்வு திணைக்களம் தெரிவித்துள்ளது.
+The Department of Immigration and Emigration has introduced a new method for issuing passports for the benefit of applicants and renovating the process.
 
-இந்த கடவுச் சீட்டு வழங்கும் புதிய முறை வெள்ளிக்கிழமை (19) முதல் ஆரம்பிக்கப்படவுள்ளமை குறிப்பிடத்தக்கது.
+Accordingly, applicants must register in advance through the website www.immigration.gov.lk to apply for new passports.
+
+The Department of Immigration and Emigration said that passports will be issued according to the priority system after registering online.
+
+It is noteworthy that the new system of giving this passport will be launched from Friday (19).
 
 ◼️
 
 [Data](articles/549421cd.json)
 
+[Extended Data](ext_articles/549421cd.ext.json)
+
 ---
 
-### சீனாவில் 14 மாடி கட்டிடத்தில் தீ;  16 பேர் பலி
+### Fire in a 14 -storey building in China;16 killed
 
 *2024-07-18 09:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-14-மாடி-கட்டிடத்தில்-தீ-16-பேர்-பலி/50-340595) · `ta`
 
-சீனாவில் 14 அடுக்கு மாடி கட்டிடத்தில் ஏற்பட்ட தீ விபத்தில் 16 பேர் பலியாகிய நிலையில், 75 பேர் பத்திரமாக மீட்கப்பட்டனர்.
+A devastating fire in a crowded 14-storey building in China's Shikhang area resulted in 16 fatalities. The blaze, which started overnight, required the efforts of 300 firefighters to control. Rescue operations are ongoing despite the tragedy.
 
-சீனாவின் ஷிக்ஹாங் பகுதியில் 14 மாடி கொண்ட வர்த்தக மையம் உள்ளது. இந்த கட்டிடத்தில் எப்போதும் மக்கள் கூட்டம் நிரம்பி வழியும்.
+🟩
 
-இந்நிலையில் நேற்று இரவில் இங்கு ஒரு மாடியில் இருந்து தீ பரவி, கரும்புகையுடன் நெருப்பு பிழம்பாக எரிந்துள்ளது.
+At least 16 people were killed in a fire in a 14 -storey building in China.
 
-இதனால், மக்கள் நாலாபுறமும் சிதறி ஓடிய நிலையில், தீயணைப்பு படையினர் 300 பேர் மீட்பு பணியில் ஈடுபட்டனர். இதில் சம்பவ இடத்தில் 16 பேர் பலியாகியுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. மேலும், மீட்பு பணிகள் துரிதமாக நடந்து வருகின்றன.S
+There is a 14 -storey trade center in China's Shikhang area. The building is always overflowing.
+
+In this case, the fire broke out from a floor last night and the fire broke out with a cane.
+
+As a result, 300 firefighters were involved in the rescue operation as people were scattered all over the country. At least 16 people were killed in the incident. Also, rescue work is going on swiftly. S
 
 ◼️
 
 [Data](articles/07aadfe8.json)
 
+[Extended Data](ext_articles/07aadfe8.ext.json)
+
 ---
 
-### 24 மணிநேரம்  எச்சரிக்கை
+### 24 hours alert
 
 *2024-07-18 09:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரம்-எச்சரிக்கை/175-340593) · `ta`
 
-சப்ரகமுவ மாகாணம், கண்டி மற்றும் நுவரெலியா மாவட்டங்களில் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதுடன் சில இடங்களில் சுமார் 50 மில்லிமீற்றர் அளவில் பலத்த மழை பெய்யக்கூடும்.
+Heavy rainfall and thunderstorms are predicted in parts of Sri Lanka, especially in the Sabaragamuwa Province, Kandy, Nuwara Eliya, Western, North Western, Galle, and Matara districts. Strong winds up to 50-60 km/h are expected in various provinces and districts. The Department of Meteorology advises caution for long-term fishing boats in the Arabian Sea and Bay of Bengal due to intense southwest climate conditions causing sea turbulence.
 
-மேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும்.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது 50-60 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+In the Sabaragamuwa Province, Kandy and Nuwara Eliya districts, there is a possibility of periodic rainfall or thunderstorms and heavy rainfall in some places.
 
-மேலும், அரபிக் கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் இயங்கும் நெடுநாள் மீன்பிடி படகுகள் மற்றும் கடல்சார் சமூகத்தினர் மிகுந்த அவதானத்துடன் செயற்பட வேண்டுமென வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
+Rainfall is expected several times in the Western and North Western Provinces and Galle and Matara districts.
 
-தென்மேற்கு பருவநிலை தீவிரமாகியுள்ளதால், அரபிக்கடல் மற்றும் வங்காள விரிகுடாவில் பலத்த காற்று வீசுவதோடு, கடல் கொந்தளிப்பாகவும் காணப்படக்கூடும்.
+Strong winds are likely to blow up to 50-60 km / h from time to time in the western slopes of the Central Highlands, the Northern, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts.
 
-இதற்கிடையில், தென்மேற்கு பருவ நிலையால், நாடு முழுவதும் தற்போதைய காற்றின் நிலை தொடரும் என எதிர்பார்க்கப்படுகிறது. R
+In addition, the Department of Meteorology has advised that long -term fishing boats and maritime community operate on the Arabian Sea and Bay of Bengal.
+
+As the southwest climate is intensifying, strong winds in the Arabian Sea and the Bay of Bengal can be seen as sea turbulence.
+
+Meanwhile, due to the southwest season, the current wind condition is expected to continue across the country. Remble
 
 ◼️
 
 [Data](articles/18b37925.json)
+
+[Extended Data](ext_articles/18b37925.ext.json)
 
 ---
 
@@ -2143,25 +2249,5 @@ But the investigations have not been revealed in the investigation into this inc
 [Data](articles/764e3677.json)
 
 [Extended Data](ext_articles/764e3677.ext.json)
-
----
-
-### Thailand says cyanide killed 6 foreigners in hotel, including perpetrator
-
-*2024-07-17 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100584/thailand-says-cyanide-killed-6-foreigners-in-hotel-including-perpetrator) · `en`
-
-Cyanide poisoning caused the deaths of six foreigners whose bodies were found in a room in a plush Bangkok hotel, Thai authorities said on Wednesday, with the suspected killer among the dead.
-
-Traces of the rapid-acting, deadly chemical were found during autopsies of the bodies and on drinking glasses and a teapot in the room at the luxury Grand Hyatt Erawan hotel where the dead were discovered late on Tuesday, according to police and a hospital.
-
-Interviews with relatives of the three women and three men who died revealed there had been a dispute over debt related to an investment, according to police, who said they were investigating how the cyanide was obtained.
-
-The six were all of Vietnamese ethnicity, two of those U.S. nationals. Police said the U.S. Federal Bureau of Investigation had assisted with the investigation.
-
-...
-
-[Data](articles/2762e73c.json)
-
-[Extended Data](ext_articles/2762e73c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 22:08:15**
+As of **2024-07-18 22:20:25**
 
 ## Newspaper Stats
 
-*Scraped **35,988** Articles*
+*Scraped **35,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,040
 economynextcom | 2,151
 dailyftlk | 2,281
 adalk | 3,255
-adaderanalk | 4,152
-tamilmirrorlk | 4,367
+adaderanalk | 4,153
+tamilmirrorlk | 4,368
 dailymirrorlk | 4,733
 virakesarilk | 5,613
 adaderanasinhalalk | 6,024
@@ -26,39 +26,79 @@ adaderanasinhalalk | 6,024
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,984 (100.0%) of 35,988 articles have been extended.
+35,988 (100.0%) of 35,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### இரண்டு பேரைத்தவிர அனைவரும் கைது
+### வாகன இறக்குமதி? நிதி இராஜாங்க அமைச்சர்
+
+*2024-07-18 22:02:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-நிதி-இராஜாங்க-அமைச்சர்/175-340654) · `ta`
+
+வாகனங்களை எவ்வாறு இறக்குமதி செய்வது என்பது குறித்து எதிர்வரும் ஆகஸ்ட் மாதம் அறிவிக்க முடியும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+அதிக மின்சார வாகனங்களை கொண்டு வருவதில் நாங்கள் கவனம் செலுத்தி வருகிறோம். வாகனங்களை இறக்குமதி செய்வது எப்படி என்பதை அறிவிக்க நாங்கள் தயாராக உள்ளோம். இது தொடர்பான குழு அறிக்கை ஆகஸ்ட் இரண்டாவது வாரத்தில் அமைச்சரவையில் சமர்ப்பிக்கப்படும் என்றார். R
+
+◼️
+
+[Data](articles/27241704.json)
+
+---
+
+### SC concludes hearing of petitions against IGP’s appointment
+
+*2024-07-18 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100609/sc-concludes-hearing-of-petitions-against-igps-appointment) · `en`
+
+The Supreme Court has concluded considering the Fundamental Rights petitions filed challenging the appointment of Deshabandu Tennakoon as the Inspector General of Police (IGP), Ada Derana reporter said.
+
+Accordingly, the court will announce on July 24 whether or not to grant leave to proceed with the petitions, according to the reporter.
+
+◼️
+
+[Data](articles/a0cc3a7a.json)
+
+---
+
+### Arrests for all other than two
 
 *2024-07-18 21:53:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-பேரைத்தவிர-அனைவரும்-கைது/175-340647) · `ta`
 
-க்ளப் வசந்த எனப்படும் சுரேந்ர வசந்த பெரேராவின் கொலையுடன் தொடர்புடைய இரண்டு பேரைத் தவிர ஏனைய அனைவரும் கைது செய்யப்பட்டுள்ளதாக பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+Tran Ales announced arrests for all suspects except two in the murder case of Surendra Vasantha Perera, known as Klup Vasantha. He confirmed actions are underway to apprehend the last two individuals involved.
 
-சம்பவத்துடன் தொடர்புடைய எஞ்சிய இரண்டு பேரையும் கைது செய்வதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருவதாகவும் அவர் தெரிவித்துள்ளார். R
+🟩
+
+Public Security Minister Tran Ales has said that all others have been arrested except for the murder of Surendra Vasantha Perera alias Klup Vasantha.
+
+He said steps are being taken to arrest the remaining two men involved in the incident.. Remble
 
 ◼️
 
 [Data](articles/ab792c8c.json)
 
+[Extended Data](ext_articles/ab792c8c.ext.json)
+
 ---
 
-### පොලිස්පති ගැන තීරණය 24 වනදා
+### Examination on IGP
 
 *2024-07-18 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198966) · `si`
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස පත් කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සම්   විභාගයට ගැනීමට අවසර දෙනවා ද? නැද්ද යන නියෝගය ලබන 24 වනදා ප්‍රකාශයට පත්කරන බව ශ්‍රේෂ්ඨාධිකරණය නිවේදනය කළේය.
+The Supreme Court will announce on the 24th whether President-appointed IGP Deshabandu Tennakoon can hear fundamental rights petitions filed by Archbishop Malcolm Cardinal Ranjith. The court's decision comes after considering the petitions, but it remains unclear if this includes an interim injunction against Deshabandu Tennakoon.
 
-එමෙන්ම දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස කටයුතු කිරීම වළක්වාලන අතුරු තහනම් නියෝගයක් නිකුත් කරන්නේද? නැත්ද? යන නියෝගයත් එදින ප්‍රකාශයට පත් කරන බවත් විනිසුරු මඩුල්ල සඳහන් කර තිබේ.
+🟩
 
-අගරදගුරු මැල්කම් කාදිනල් රංජිත් හිමියන් ඇතුළු පිරිසක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබූ අතර පෙත්සම් දීර්ඝ ලෙස සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+Will the President to appoint Deshabandu Tennakoon to appoint the President to appoint the President appointed as the IGP be allowed to hear the fundamental rights petitions filed by the petitions?The Supreme Court announced that the order would be announced on the 24th.
+
+Is it also an interim injunction preventing Deshabandu Tennakoon prevents the IGP?Or aren't there?The judge has stated that the order is published on that day.
+
+The petitions were presented by Archbishop Malcolm Cardinal Ranjith and the order was issued after considering the petitions.
 
 ◼️
 
 [Data](articles/9908179d.json)
+
+[Extended Data](ext_articles/9908179d.ext.json)
 
 ---
 
@@ -77,6 +117,8 @@ Speaking to Ada Derana, Thulasi Vaiththiyakumar, the daughter of Captain Vaithth
 ...
 
 [Data](articles/472a1376.json)
+
+[Extended Data](ext_articles/472a1376.ext.json)
 
 ---
 
@@ -296,19 +338,25 @@ He added that everyone except two people have been arrested in connection with t
 
 ---
 
-### විදෙස්ගතව සිට පැමිණි පුද්ගලයෙක් නිවසට යන විට පැහැර ගනියි
+### A man abducted at home
 
 *2024-07-18 19:24:17* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්ගතව-සිට-පැමිණි-පුද්ගලයෙක්-නිවසට-යන-විට-පැහැර-ගනියි/11-410858) · `si`
 
-කුවේට් රාජ්‍යයේ සිට ශ්‍රී ලංකාවට පැමිණි ශ්‍රී ලාංකිකයෙක් කුලී රථයකින් තම ගම් ප්‍ර දේශයට ගමන් කරමින් සිටියදී කුරුණෑගල - කැප්පිටිගල මාර්ගයේදී පිරිසක් විසින් කැබ් රථයකින් ඔහු පැහැරගෙන ගොස් තිබේ.
+A Sri Lankan man recently returned from Kuwait was kidnapped near his village but later found in Narammala. Four suspects were arrested by the STF, though the motive remains unclear as the Ridigama Police continue investigating.
 
-කෙසේ වෙතත් පැහැර ගැනීමට ලක්වූ පුද්ගලයා ඊයේ සවස් කාලයේදීම නාරම්මල පොලිස් වසමේදී පැහැරගත් පුද්ගලයා සොයා ගෙන ඇති අතර ඔහු පැහැරගත් සැකකරුවන් හතර දෙනාද පොලිස් විශේෂ කාර්ය බලකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-පැහැර ගැනීමට හේතුව අණාවරණය නොවන බවත් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරික්ෂක රිදීගම පොලිසීය විසින් සිදුකරන බවත් පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+A Sri Lankan who arrived from Kuwait from Kuwait has been abducted by a group at Kepppitigala road while he was traveling to their village premises.
+
+However, the abducted man was found abducted in the Narammala Police Division last evening and the four suspects have been arrested by the STF.
+
+The police media spokesman's office said that the cause of the abduction is not committed and that Ridigama Police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/f6e0dd6f.json)
+
+[Extended Data](ext_articles/f6e0dd6f.ext.json)
 
 ---
 
@@ -2277,51 +2325,5 @@ It was when the case was taken up before the Colombo High Court on the 28th of M
 [Data](articles/dcb894f0.json)
 
 [Extended Data](ext_articles/dcb894f0.ext.json)
-
----
-
-### Court of Appeal reduces former Kurunegala Mayor’s prison sentence
-
-*2024-07-18 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100593/court-of-appeal-reduces-former-kurunegala-mayors-prison-sentence) · `en`
-
-The Court of Appeal has reduced the prison sentence of former Mayor of Kurunegala Thushara Sanjeewa Vitharana from three years to one year. This sentence reduction also applies to the four other individuals who were sentenced alongside him.
-
-The verdict was issued today (18) following the consideration of appeals petitions filed by the accused.
-
-On December 14, 2023, the former Mayor of Kurunegala, the Municipal Commissioner, Engineer and two others were sentenced to three years rigorous imprisonment after being found guilty over the destruction and removal of the ancient ‘Raja Sabha Mandapaya’ (King’s Court) in Kurunegala.
-
-The building in question, also known as the Buwaneka Hotel, dates back to the 13th century and is presumed to be the assembly hall used by the contemporary rulers.
-
-On 16 July 2022, the Mayor of Kurunegala had demolished the said building for a road development project. He had claimed that the Road Development Authority (RDA) had given its approval for the demolition.
-
-...
-
-[Data](articles/bcbd2ad6.json)
-
-[Extended Data](ext_articles/bcbd2ad6.ext.json)
-
----
-
-### Imran in Maradana celebrated in Kollupitiya
-
-*2024-07-18 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198941) · `si`
-
-In Maradana, Imran celebrated in Kollupitiya, leading to arrests of three individuals, including two known by the alias "Maradana." The suspects were caught with laptops, computers, and cash worth over Rs., allegedly stolen from a housing complex. Investigations also found them purchasing milk powder and cakes.
-
-🟩
-
-Kollupitiya Police say that three others have been arrested in Kollupitiya and Slave Island Police Divisions.
-
-Among the arrested were the two names of the alias, Maradana, Maradana, "Maradana," the police said.
-
-The suspects were taken into custody by six lafftops, computers, tabs, tabs and tabs worth over Rs.
-
-Slave stealing a large number of rupees and laptops at a housing stolen of a housing stolen in a housing stolen at a housing stolen of a housing stolen at a housing stolen at a nearby lapse laptop in bags at the bags in the bags.Police investigations revealed that they had purchased milk powder and cakes.
-
-◼️
-
-[Data](articles/eeaa141f.json)
-
-[Extended Data](ext_articles/eeaa141f.ext.json)
 
 ---

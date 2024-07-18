@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 16:53:07**
+As of **2024-07-18 17:05:08**
 
 ## Newspaper Stats
 
-*Scraped **35,942** Articles*
+*Scraped **35,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,146
 dailyftlk | 2,281
 adalk | 3,246
 adaderanalk | 4,146
-tamilmirrorlk | 4,359
+tamilmirrorlk | 4,361
 dailymirrorlk | 4,733
 virakesarilk | 5,607
 adaderanasinhalalk | 6,013
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,013
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,940 (100.0%) of 35,942 articles have been extended.
+35,942 (100.0%) of 35,944 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,49 @@ Parliamentarian Mano Ganesan emphasized the crucial need to secure land rights f
 
 [Data](articles/948bb27e.json)
 
+[Extended Data](ext_articles/948bb27e.ext.json)
+
 ---
 
-### පියුමා රිමාන්ඩ්
+### Father remanded
 
 *2024-07-18 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198954) · `si`
 
-සංවිධානාත්මක අපරාධකරුවෙකු බව පැවසෙන "පියුමා" නමැත්තා එළඹෙන 31 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට අද (18) නියෝග කෙරුණි.
+"Prime," an alleged organized criminal, was remanded today, while "Pharaoh," arrested in Dubai, faces charges related to the underworld. The case involves a significant drug operation, the main objective of which is linked to Kudu Saleku, who fled to Dubai in February 2011.
 
-ඒ,  රැඳවුම් භාරයේ සිටි සැකකරුව අද කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව.
+🟩
 
-පාතාල කල්ලි සාමාජිකයෙක් ලෙස සැකකෙරෙන "පියුමා" ඩුබායි හීදී අත්අඩංගුවට ගෙන පසුගිය පෙබරවාරි මස 15 වනදා මෙරටට රැගෙන ආවේය.
+"Prime" was remanded today (18), claimed to be an organized criminal.
 
-පියුම් හස්තික නොහොත් පියුමා කුඩු සලිඳු නමැති මත්ද්‍රව්‍ය ජාවාරම්කරුගේ ප්‍රධාන ගෝලයා බවට සැලකෙයි.
+The suspect was produced before the Fort Magistrate's Court today.
 
-ඔහු 2021 වර්ෂයේ පෙබරවාරි 09 වනදා ඩුබායි රාජ්‍යය වෙත පළාගොස් ඇති බවද අනාවරණ වී තිබුණි.
+The "Pharaohe" was arrested as a member of the underworld and was arrested in Dubai and brought to the country on 15 February.
+
+The Pry A Piya is considered the main goal of the drug dealer named Kudu Saleku.
+
+It was revealed that he had fled to Dubai on the 9th of February 2011.
 
 ◼️
 
 [Data](articles/42d715e7.json)
+
+[Extended Data](ext_articles/42d715e7.ext.json)
+
+---
+
+### டெட்டுவிடம் வாக்குமூலம் பெற்ற அதிகாரிகளுக்கு தண்டனை இல்லை
+
+*2024-07-18 16:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெட்டுவிடம்-வாக்குமூலம்-பெற்ற-அதிகாரிகளுக்கு-தண்டனை-இல்லை/175-340631) · `ta`
+
+அத்துருகிரியவில் சுட்டு படுகொலைச் செய்யப்பட்ட ‘கிளப் வசந்த’ என்றழைக்கப்படும் வர்த்தகர் சுரேந்திர வசந்த பெரேராவின் படுகொலை தொடர்பில் கைது செய்யப்பட்ட பச்சை குத்தும் நிலையத்தின் உரிமையாளரிடம் ஊடங்களின் முன்னிலையில் வாக்குமூலம் பெற்றார் என குற்றஞ்சாட்டப்பட்டுள்ள பிரதி பொலிஸ்மா அதிபர் உள்ளிட்ட அதிகாரிகளுக்கு எதிராக எவ்விதமான ஒழுக்காற்று நடவடிக்கைகளோ அல்லது விசாரணைகளோ முன்னெடுக்கப்படமாட்டாது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்  தெரிவித்துள்ளார்.
+
+மேல் மாகாண பிரதி பொலிஸ்மா அதிபர் தலைமையிலான குழுவினர்  சந்தேகநபர் ஒருவரை விசாரணை செய்யும் வீடியோ வெளியாகியுள்ளது. இது தொடர்பில் பொலிஸ் உத்தியோகத்தர்களுக்கு  எதிராக நடவடிக்கை எடுக்கப்படுமா என்ற கேள்விக்கு பதிலளித்த அமைச்சர் டிரான் அலஸ்  “இந்த தவறை மீண்டும் செய்யவேண்டாம் என கடுமையாக தான் எச்சரித்துள்ளதாக தெரிவித்துள்ளார்.
+
+அந்த பொலிஸ் உத்தியோகத்தர்களுக்கு எதிராக நடவடிக்கைகளை எடுக்குமாறு பொலிஸ்மா அதிபருக்கு தான்  பணிக்கவில்லை என்றார்.
+
+...
+
+[Data](articles/e4fe9969.json)
 
 ---
 
@@ -2285,23 +2309,5 @@ This committee will be chaired by the Ministry of Public Security Secretary and 
 [Data](articles/f224ca94.json)
 
 [Extended Data](ext_articles/f224ca94.ext.json)
-
----
-
-### Diana abandons petition against SJB
-
-*2024-07-18 04:31:17* · [`dailyftlk`](https://www.ft.lk/news/Diana-abandons-petition-against-SJB/56-764425) · `en`
-
-Former State Minister Diana Gamage has officially withdrawn her petition challenging the Samagi Jana Balawegaya’s (SJB) decision to revoke her party membership. During yesterday’s proceedings, Gamage’s legal team informed the Supreme Court that she did not intend to pursue the case further.
-
-The SJB expelled Gamage following her vote in favour of the 20th Amendment to the Constitution in 2020, contradicting the party’s unanimous stance to oppose the amendment. Gamage had filed the petition seeking an order to annul the SJB’s decision to remove her from the party’s National List.
-
-During the Court proceedings, Gamage’s attorneys requested permission to withdraw the petition, stating there was no need to continue with the legal challenge. The Supreme Court subsequently granted their request, allowing the petition to be withdrawn without further action.
-
-...
-
-[Data](articles/3841b24c.json)
-
-[Extended Data](ext_articles/3841b24c.ext.json)
 
 ---

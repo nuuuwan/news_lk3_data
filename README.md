@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 10:20:11**
+As of **2024-07-18 10:35:44**
 
 ## Newspaper Stats
 
-*Scraped **35,858** Articles*
+*Scraped **35,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 318
 colombotelegraphcom | 338
 bbccomsinhala | 351
 newsfirstlk | 363
-islandlk | 2,039
+islandlk | 2,040
 economynextcom | 2,136
 dailyftlk | 2,279
 adalk | 3,240
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,856 (100.0%) of 35,858 articles have been extended.
+35,858 (100.0%) of 35,859 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -908,19 +908,25 @@ Although their struggle has passed the 16th day, the protesters have said that t
 
 ---
 
-### ’நீர் கட்டணம் திருத்தப்படும்’
+### Model Water Fee Revision
 
 *2024-07-18 00:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-கட்டணம்-திருத்தப்படும்/175-340591) · `ta`
 
-புதிய மின் கட்டணத் திருத்தத்திற்கு இணைந்தவகையில், நீர் கட்டணத்தைக் குறைப்பது குறித்தும் ஆராயப்பட்டு வருகின்றது. இந்த வாரத்துக்குள் அது குறித்து தீர்மானம் எடுக்கப்படுமென  நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+Water fee revision is under consideration alongside the new electricity tariff. Minister Jeevan Thondaman expects a decision this week, influenced by the reduction in electricity tariffs and lower interest rates, aiming to decrease water bills.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் ஜீவன் தொண்டமான் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-மின் கட்டணத்தைக் குறைக்க நடவடிக்கை எடுத்தமைக்காக அமைச்சர் கஞ்சன விஜேசேகரவை பாராட்டுகின்றோம். நீர் விநியோகம் என்பது மின் கட்டணத்தைச் சார்ந்து இருக்கும் துறையாகும். எனவே, நீர் கட்டணத்தை குறைக்க இந்த மின் கட்டண திருத்தம் உதவும் என நம்பப்படுகிறது.
+In combination with the new electricity tariff, it is also being investigated. Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that the decision will be taken within this week.
+
+Minister Jeevan Thondaman said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+We appreciate Minister Kanjana Wijesekera for taking steps to reduce electricity tariffs. Water supply is the sector that depends on electricity bills. Therefore, it is hoped that this electricity tariff correction will help reduce water bills.
 
 ...
 
 [Data](articles/97bbaaab.json)
+
+[Extended Data](ext_articles/97bbaaab.ext.json)
 
 ---
 
@@ -1274,17 +1280,45 @@ Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman 
 
 ---
 
-### මුහුදේ පෙරළීගිය ඕමාන තෙල් නැවේ සිටි  ශ්‍රීලාංකිකයන් 3ක් ඇතුළු 16ක් අතුරුදන්
+### Cucumber for Refreshing Skin
+
+*2024-07-17 22:14:00* · [`islandlk`](http://island.lk/cucumber-for-refreshing-skin/) · `en`
+
+You can use these Cucumber packs 2-3 times a week for optimal results, depending on your skin’s needs.
+
+Puree the cucumber until it becomes a smooth paste and then add the honey into this cucumber blend.
+
+Apply the mixture onto your face, leaving it on for 15-20 minutes, and then wash off with lukewarm water.
+
+(This cucumber facial mask hydrates the skin, fights acne, and adds a natural glow. The cucumber face pack benefits are amplified by honey’s antibacterial properties, making it a perfect combination for all skin types.)
+
+Extract the cucumber juice and mix it with the aloe vera gel and then apply the mixture evenly on your face. Leave it on for 20 minutes before washing it off with cold water.
+
+(The cucumber and aloe vera face pack soothe irritated skin, reduce inflammation, and provide intense hydration. This combination enhances the cucumber face pack benefits by calming redness and promoting skin healing.)
+
+...
+
+[Data](articles/411e6f7b.json)
+
+---
+
+### 16 Sri Lankans, 3 Sri Lankan boards on the sea, went missing
 
 *2024-07-17 22:13:32* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-පෙරළීගිය-ඕමාන-තෙල්-නැවේ-සිටි--ශ්‍රීලාංකිකයන්-3ක්-ඇතුළු-16ක්-අතුරුදන්/11-410843) · `si`
 
-කොමරෝස් ධජය සහිතව ඕමාන වෙරළ ආසන්නයෙන් යාත්‍රා කළ බොරතෙල් ප්‍රවාහන නෞකාවක් පෙරළීමෙන් එහි සිටි ශ්‍රී ලාංකිකයන් තිදෙනෙකු ඇතුළු 16 දෙනෙකු අතුරුදන්ව ඇතැයි වාර්තා වෙයි. පසුගිය සඳුදා දිනයේදී මෙම අනතුර සිදුව තිබේ. මෙම නෞකාව ප්‍රෙස්ටීජ් ෆැල්කන් ලෙස හඳුනාගෙන ඇත.
+Sixteen Sri Lankans aboard the Prestige Falcon, a 111.7-meter-long crude oil transport vessel, went missing near Omanach Flag on Monday. Half of the ship sank, while the remaining 13 are presumed lost. The Indian Navy and Omani authorities launched search operations.
 
-පෙරළීමෙන් පසුව නෞකාවෙන් අඩක් මුහුදේ ගිලී උඩුකුරුව පවතින බව සඳහන් වෙයි. අතුරුදන්ව සිටින අනෙක් 13 දෙනා ඉන්දියානු ජාතිකයන් බව පැවසෙයි. ඒ අනුව ඉන්දියානු නාවික හමුදාව සහ ඕමාන සමුද්‍රීය අධිකාරියේ බලධාරීන් එක්ව අතුරුදන් පිරිස් සොයා ඊයේ දිනය පුරා මෙහෙයුම් ක්‍රියාත්මක කරන ලදි. මීටර් 111.7ක් දිග මෙම බොරතෙල් ප්‍රවාහන නෞකාව 2007 වසරේදී නිශ්පාදන කරවූවකි.
+🟩
+
+16 Sri Lankans who were sailing near Omanach Flag. The accident had occurred on Monday. This ship has been identified as Prestige Falcon.
+
+It is said that half of the ship drowns in the sea after rolling. The other 13 disappeared is said that Indians. Accordingly, the Indian Navy and the Omanal Authority authorities were conducted by operations yesterday and opened operations. The crude oil transport vessel was 111.7 meters long in 2007.
 
 ◼️
 
 [Data](articles/b84c630e.json)
+
+[Extended Data](ext_articles/b84c630e.ext.json)
 
 ---
 
@@ -2237,33 +2271,5 @@ Sri Lanka Women's Cricket Reserves - Chamari Atapattu, Halhika Priyadhi, Udunika
 [Data](articles/8dc9256a.json)
 
 [Extended Data](ext_articles/8dc9256a.ext.json)
-
----
-
-### Lecturer who took video of a young man naked
-
-*2024-07-17 17:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுவதியை-நிர்வாணமாக-வீடியோ-எடுத்த-விரிவுரையாளர்/175-340561) · `ta`
-
-A university lecturer in Vavuniya allegedly filmed a student undressing through a bathroom window during an English class. The incident sparked outrage, leading to a formal complaint to university officials. They promised to support the victim and ensure justice is served.
-
-🟩
-
-University officials have received a complaint on Tuesday (16) in connection with a video of a woman who was bathing in a house where a Vavuniya University lecturer was bathing.
-
-University students and public servants in the Vavuniya Thiruvananthapuram area have been conducting an English class in a hostel where a lecturer was conducting an English class on Tuesday (16).
-
-The lecturer then stopped the class and went to the place and took a video of Yuvati bathing through the bathroom window.
-
-The girl, who was bathing, went out of the bathroom's window and screamed at a mobile phone.
-
-Later, when the English lecturer left the place, when the CCTV cameras were inspected at home, the lecturer was standing near the bathroom.
-
-University officials said that the woman would lodge a complaint at the police station and get justice for the woman.
-
-◼️
-
-[Data](articles/dc666422.json)
-
-[Extended Data](ext_articles/dc666422.ext.json)
 
 ---

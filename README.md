@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 22:53:40**
+As of **2024-07-18 23:05:57**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,991 (100.0%) of 35,994 articles have been extended.
+35,994 (100.0%) of 35,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### ක්ලබ් වසන්තගේ ඇත්තම තත්ත්වය ?
+### Club Wasantha's real situation?
 
 *2024-07-18 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198967) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතන සිද්ධියේ විමර්ශන ගැන මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා අද (18) අනාවරණයක් කළේය.
+A man linked to the Club Wasantha murder investigation has been found dead abroad. Lawyers Kajiani Imran and Sanjeewa, involved in the case, were arrested and reportedly confessed details about the incident during interrogation.
 
-"අපිට දැන් තිබෙන තොරතුරු අනුව මෙයා මැරෙන වෙලාවේ රට වටේ ණය වෙලා අතේ සතේ නැතුව හිටපු පුද්ගලයෙක්. එහෙම තොරතුරු තමයි අපේ විමර්ශනවලින් එළියට ඇවිත් තියෙන්නේ."
+🟩
 
-"කංජිපානි ඉම්රාන් සහ ගනේමුල්ලේ සංජීව පැන්න විදිය නීතිඥවරුන්ට තමයි හොඳටම කියන්න පුළුවන්. මොකද ඒ නීතිඥවරුන් තමයි ඒගොල්ලන්ව පැන්නුවේ. උසාවියෙන්ම අරන් ගිහින් පැන්නුවේ. අපි දැන් ඒ අයව අත්අඩංගුවට ගත්තාම ඒ කතාව හොඳට කියනවා. අරන් ගිහින් බෝට්ටුවට දැම්මා.... ඔක්කොම ලස්සනට කියනවා. ඒකයි මම කියන්නේ කුඩු සල්ලිවලින් යැපෙන නීතිඥවරුන් සෙට් එකක් ඉන්නවා."
+Investigations of Club Spring Murder (Club Wasantha) or Club Wasantha murder was revealed today (18).
+
+"We have a person who has left the country when he is dead now when he dies. That is why our investigations have come out. "
+
+"The lawyers are the case with Kajiani Imran and Sanjeewa in Ganemulla. Because they were the lawyers. Taken from the court. When we're arrested now they tell the story well. Taken to the boat .... All tells pretty nice. That's why I say the lawyers who depend from powdered money. "
 
 ◼️
 
 [Data](articles/17eaf75d.json)
+
+[Extended Data](ext_articles/17eaf75d.ext.json)
 
 ---
 
@@ -192,19 +198,29 @@ The Indian squads have been named for Sri Lanka and the T20 cricket tournament.
 
 ---
 
-### இந்தியாவின் பாதுகாப்பு அக்கறைகளுக்குப் புறம்பாக எமது மண்ணை மூன்றாம் தரப்பு பயன்படுத்த இடமளியோம் - வெளிவிவகார அமைச்சர் அலி சப்ரி உறுதி
+### We have been able to use our soil to use our soil in the presence of India's security concerns - Foreign Minister Ali Sabri confirms
 
 *2024-07-18 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/188798) · `ta`
 
-எமது நிலப்பரப்பையோ அல்லது கடற்பரப்பையோ இந்தியாவின் நியாயபூர்வமான பாதுகாப்பு அக்கறைகளுக்கு எதிரான விதத்தில் மூன்றாம் தரப்பொன்று பயன்படுத்துவதற்கு நாம் ஒருபோதும் இடமளிக்கமாட்டோம் என வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+Sri Lanka's Foreign Minister Ali Sabri confirmed that no third party, including China-owned labs, will be allowed to use Sri Lankan territory or seas against India's security interests. He assured that Sri Lanka will not facilitate activities that threaten India's safety, emphasizing cooperation within BRICS but not at the expense of India's security.
 
-சீனாவுக்கு சொந்தமான ஆய்வுக்கப்பல்கள் இலங்கைக் கடற்பரப்பில் தரித்துநின்று ஆய்வு நடவடிக்கைகளை முன்னெடுப்பதற்கு அனுமதி கோருவதும், அதனை அனுமதிப்பது இந்தியாவின் பாதுகாப்பு நலன்களுக்குப் பாதிப்பை ஏற்படுத்தக்கூடுமென இந்தியாவுக்குச் சார்பான தரப்புக்கள் மறுதலிப்பதுமான சம்பவங்கள் கடந்த ஓரிரு ஆண்டுகளில் சில தடவைகள் பதிவாகியிருக்கின்றன.
+🟩
 
-இவ்வாறானதொரு பின்னணியில் சர்வதேச ஊடகமொன்றுக்கு வழங்கியிருக்கும் நேர்காணலில் இதுகுறித்து எழுப்பப்பட்ட கேள்விக்குப் பதிலளித்திருக்கும் அமைச்சர் அலி சப்ரி, இந்தியாவின் நியாயமான பாதுகாப்பு அக்கறைகளுக்குப் புறம்பான விதத்தில் இலங்கை மண்ணிலோ அல்லது கடற்பரப்பிலோ மூன்றாம் தரப்பொன்று செயற்படுவதற்கு ஒருபோதும் இடமளிக்கப்போவதில்லை என உறுதியாகத் தெரிவித்திருக்கிறார்.
+External Affairs Minister Ali Sabri said that we will never allow a third party to use our territory or seas against India's legitimate security concerns.
 
-...
+China -owned laboratories have been reported some times in the last two years that the Sri Lankan waters are demanding permission to carry out inspections and the allowance of India's safety interests can affect the security interests of India.
+
+Responding to a question raised by an international media in an interview with the international media, Minister Ali Sabri has asserted that he will never be able to work in Sri Lanka's soil or seas in a manner that is against India's legitimate security concerns.
+
+"We will not allow any parties to engage in any war games in our neighborhood," he said.
+
+However, he pointed out that Sri Lanka and its other partners want to work with China in some public structures such as 'BRICS'.
+
+◼️
 
 [Data](articles/857cbdff.json)
+
+[Extended Data](ext_articles/857cbdff.ext.json)
 
 ---
 
@@ -268,17 +284,23 @@ The girl's body has been handed over to relatives and further investigations int
 
 ---
 
-### ஜனாதிபதி தேர்தல் : நிச்சயமற்ற தன்மையை நீக்கும் நோக்கில் நடவடிக்கை
+### Presidential election: Action to eliminate uncertainty
 
 *2024-07-18 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188797) · `ta`
 
-அமைச்சரவையின் அங்கீகாரம் பெற்ற 22 வது அரசியலமைப்பு திருத்தத்தை ஜனாதிபதி தேர்தல் முடியும் வரை வர்த்தமானியில் வெளியிடுவதை தவிர்க்குமாறு நீதி அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஷ, நீதி அமைச்சின் செயலாளருக்கு பணிப்புரை விடுத்துள்ளார்.
+Justice Minister Vijayadasa Rajapakse has directed the Ministry to postpone discussions on the 22nd Amendment until after the presidential election, aiming to reduce uncertainty surrounding the vote.
 
-ஜனாதிபதித் தேர்தலை நடத்துவது தொடர்பில் நிலவும் நிச்சயமற்ற தன்மையை நீக்கும் நோக்கில் இவ்வாறான நடவடிக்கையை மேற்கொண்டுள்ளதாக அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார்.
+🟩
+
+Minister of Justice Dr. Vijayadasa Rajapakse has issued a directive to the Secretary of the Ministry of Justice to avoid the issue of the 22nd Amendment to the Cabinet until the presidential election.
+
+Minister Vijayadasa Rajapakse has said that this action has been taken to eliminate the uncertainty of the presidential election.
 
 ◼️
 
 [Data](articles/6ca721f5.json)
+
+[Extended Data](ext_articles/6ca721f5.ext.json)
 
 ---
 

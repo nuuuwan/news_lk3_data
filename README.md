@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 23:20:02**
+As of **2024-07-18 23:35:38**
 
 ## Newspaper Stats
 
-*Scraped **35,994** Articles*
+*Scraped **35,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 3,256
 adaderanalk | 4,153
 tamilmirrorlk | 4,368
 dailymirrorlk | 4,733
-virakesarilk | 5,615
+virakesarilk | 5,616
 adaderanasinhalalk | 6,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,994 (100.0%) of 35,994 articles have been extended.
+35,994 (100.0%) of 35,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### பங்களாதேசில் வன்முறை தொடர்கின்றது – அரச தொலைக்காட்சியின் தலைமையகத்திற்கு தீவைப்பு
+
+*2024-07-18 23:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188799) · `ta`
+
+பங்களாதேசில் அரசவேலைவாய்ப்பில் ஒதுக்கீடுகளிற்கு எதிரான மாணவர் போராட்டம் தொடருகின்ற அதேவேளைஆர்ப்பாட்டக்காரர்கள் தலைநகர் டாக்காவில் அரசதொலைக்காட்சி  தலைமையலுவலகத்திற்கு தீவைத்துள்ளனர்.
+
+டாக்காவில் தலைமை அலுவலகத்திற்குள் பலர் சிக்குண்டுள்ளனர்.உள்ளே சிக்குண்டுள்ளவர்கள் தங்களை காப்பாற்று தீயணபை;பு பிரிவினருக்கு அழைப்பு விடுத்துள்ளனர்.
+
+பங்களாதேசில் சுதந்திர போராட்ட வீரர்களின் குடும்பத்தவர்களிற்கு  அரசாங்க வேலைவாய்ப்பில்; ஒதுக்கீட்டை எதிர்க்கும்  மாணவர்களிற்கும் ஆளும் கட்சியின் ஆதரவாளர்களிற்கும் இடையில் இடம்பெற்ற மோதல்கள் காரணமாக17 பேர் கொல்லப்பட்டுள்ளனர். 100க்கும் அதிகமான மாணவர்கள் காயமடைந்துள்ளனர்.
+
+1971 ம் ஆண்டு சுதந்திரபோராட்டத்தில் ஈடுபட்டவர்களின் பிள்ளைகள் உட்பட விசேட குழுவினருக்கு ஆயிரக்கணக்கான அரசவேலை வாய்ப்புகளை ஒதுக்கும் நடைமுறை பங்களாதேசில் காணப்படுகின்றது.
+
+இந்த முறையின் கீழ் பெண்கள் மாற்றுத்திறனாளிகள் சிறுபான்மை இனக்குழுக்களை சேர்ந்தவர்களிற்கு அரசவேலைகளில் ஒதுக்கீடு வழங்கப்படுவது குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/fc2bb2cf.json)
+
+---
 
 ### Club Wasantha's real situation?
 
@@ -2319,23 +2339,5 @@ Sri Lankan origin, Fonseka, scored 76 runs for England.
 [Data](articles/1e1a5ea8.json)
 
 [Extended Data](ext_articles/1e1a5ea8.ext.json)
-
----
-
-### Gnanasara Thero granted bail after appealing defamation sentence
-
-*2024-07-18 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100594/gnanasara-thero-granted-bail-after-appealing-defamation-sentence) · `en`
-
-The Court of Appeal has granted bail for Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who had been sentenced to four years of rigorous imprisonment for making defamatory comments on Islam at Kuragala, until the hearing of the revision petition filed by him.
-
-This order was issued when the revision petition filed by Ven. Galagodaaththe Gnanasara Thero was taken up for consideration this morning (18).
-
-On March 28, 2024, the Colombo High Court sentenced Gnanasara Thero to four years of rigorous imprisonment while imposing a fine of Rs. 100,000, over the defamatory comments made against Islam during a 2016 media briefing convened on the Kuragala Buddhist monastery, causing damage to national and religious harmony.
-
-...
-
-[Data](articles/1afa72be.json)
-
-[Extended Data](ext_articles/1afa72be.ext.json)
 
 ---

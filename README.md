@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 07:48:48**
+As of **2024-07-18 08:24:15**
 
 ## Newspaper Stats
 
-*Scraped **35,827** Articles*
+*Scraped **35,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,172 @@ newsfirstlk | 363
 islandlk | 2,039
 economynextcom | 2,136
 dailyftlk | 2,267
-adalk | 3,235
-adaderanalk | 4,131
-tamilmirrorlk | 4,331
+adalk | 3,238
+adaderanalk | 4,133
+tamilmirrorlk | 4,334
 dailymirrorlk | 4,733
 virakesarilk | 5,594
-adaderanasinhalalk | 5,993
+adaderanasinhalalk | 5,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,824 (100.0%) of 35,827 articles have been extended.
+35,832 (100.0%) of 35,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### දේශීය ආදායම් දෙපාර්තමේන්තුවට බරපතළ චෝදනා
+### කැස්බෑවන් ඇතුළු සමුද්‍ර ක්ෂීරපායී සතුන්ට දැඩි ජීවිත අවදානමක්
+
+*2024-07-18 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198934) · `si`
+
+නීතිවිරෝධී ක්‍රම භාවිත කරමින් මසුන් ඇල්ලීම් හේතුවෙන් කැස්බෑවන් ඇතුළු සමුද්‍ර ක්ෂීරපායී සත්වයින්ගේ ජීවිත දැඩි අවදානමකට ලක්ව තිබේ.
+
+◼️
+
+[Data](articles/0803bbf2.json)
+
+---
+
+### Minister of Justice to Election Commission
+
+*2024-07-18 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198933) · `si`
+
+Justice Minister Dr. Wijayadasa Rajapaksa urges the Election Commission to enforce the Election Cost General of Elections law, aiming to improve election culture and uphold the rule of law. The Elections Registration Act was submitted to Parliament for this purpose. Despite challenges, including failed attempts to prevent further presidential elections and doubts about the national folk force's victory, it's hoped that the next presidential election candidate will offer economic solutions.
+
+🟩
+
+Dr. Wijayadasa Rajapaksa, Minister of Justice and Constitutional Reforms has informed the Election Commission to implement the powers under the Election Cost General of Elections.
+
+The Minister pointed out that law under the current electoral system, the present proportional electoral events in the parliamentary elections, has been diagnosed.
+
+Accordingly, the Elections Registration Act No. 3 of the Election Commission has been presented to Parliament with the support of the Elections Commission for a dominance of the election culture and support the rule of law.
+
+Minister Dr. Wijayadasa Rajapakse said that the Elections Commission has requested the election to take necessary steps to implement the Act for future elections.
+
+Meanwhile, JVP propaganda secretary Vijitha Herath says that all attempts have failed to prevent further presidential election.
+
+However, UNP General Secretary Palitha Range Bandara said that the national folk force could not win the next presidential election.
+
+...
+
+[Data](articles/31b22a31.json)
+
+[Extended Data](ext_articles/31b22a31.ext.json)
+
+---
+
+### උපසම්පදා උත්සවය පැවැත්වෙදි පිරිසක් හු කියා ගල් මුල් ප්‍රහාරයක් එල්ල කර යකා නටලා
+
+*2024-07-18 07:41:27* · [`adalk`](https://www.ada.lk/breaking_news/උපසම්පදා-උත්සවය-පැවැත්වෙදි-පිරිසක්-හු-කියා-ගල්-මුල්-ප්‍රහාරයක්-එල්ල-කර-යකා-නටලා/11-410845) · `si`
+
+කරුවලගස්වැව අලුත්ගම ලුම්බිණි විහාරස්ථානයෙ උප සම්පදා උත්සවයට සහභාගි වු පිරිසකට 16 දින සවස  එල්ලවු ගල් හා පොලු මුගුරු ප්‍රහාරයකින් තුවාල ලැබු දෙදෙනෙකු තඹුත්තේගම රෝහලට ඇතුලත් කර ඇති බව සාලියවැව පොලිසිය කියයි.
+
+මෙසේ තුවාල ලබා ඇත්තේ අලුත්ගම ලුම්බිණි විහාරස්ථානයෙ දායකයින් දෙදෙනෙකු වන අතර සුළු තුවාල ලැබු තවත් කුඩා දරුවන් දෙදෙනෙකු නිවෙස් වලට රැගෙන ගොස් ප්‍රථිකාර ලබා දී ඇති බව කියයි.
+
+අලුත්ගම ලුම්බිණි විහාරස්ථානයෙ වැඩ වාසය කල විහාරවාසි දඹුල්ලේ සාරද හිමියන් උපසම්පදා විනය කර්මය පිහිටුවිමේන් පසු විහාරස්ථානයට වැඩම කර අදාල උත්සවය සංවිධානය කර තිබුනී.
+
+එම උත්සවයට වයඹ පළාතේ ප්‍රධාන අධිකරණ සංඝනායක තම්මැන්නාවැටියෙ රතනජෝති හිමියන් ඇතුළු මහ සංඝරත්නය මෙම උපසම්පදා පිළිගැනිමේ උත්සවයට එක්ව සිටි අතර .
+
+තවත් භික්ෂුන් වහන්සේලා  25 නමක් 16 කනුව සිට 17 කනුව ලුම්බිණි විහාරස්ථානයට  පෙරහැරින් වැඩම කරවමින් විහාරස්ථානයෙ අදාල උපසම්පදා උත්සවය සංවිධානය එක්ව තිබුනී.
+
+...
+
+[Data](articles/a9bd471c.json)
+
+---
+
+### Serious charges to the Inland Revenue Department
 
 *2024-07-18 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198932) · `si`
 
-එකතු කළ අගය මත බද්ද හෙවත් වැට් බදු ආශ්‍රිත ආදායමෙන් 20%කට ආසන්න ප්‍රමාණයක් අය කළ නොහැකි අවදානම් තත්ත්වයකට පත්ව ඇති බව ජාතික විගණන කාර්යාලය පවසයි.
+The National Audit Office criticizes the Inland Revenue Department for its inefficiency, highlighting a 20% risk of uncollectible Value Added Tax (VAT) worth billions. The audit suggests a need for a formal investigation into the causes of this deficit and recommends disciplinary actions against responsible officials.
 
-එම කාර්යාලය පෙන්වාදෙන්නේ දේශීය ආදායම් දෙපාර්තමේන්තුවේ අකාර්යක්ෂමතාව සහ වගකීම් විරහිත ක්‍රියාමාර්ග හේතුවෙන් මෙම තත්ත්වය උද්ගතව ඇති බවය.
+🟩
 
-දේශීය ආදායම් දෙපාර්තමේන්තු මූලාශ්‍රයන්ට අනුව රජයට අය විය යුතු නමුත් මෙතෙක් අයකරගෙන නොමැති එකතු කළ අගය මත බදු පිළිබඳ විශේෂ විගණන වාර්තාව ප්‍රකාශයට පත් කරමින් විගනකාධිපතිවරයා මේ බව සඳහන් කර තිබේ.
+The National Audit office says that nearly 20% of the value added tax is impossible in the risk of tax related income.
 
-දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් පවත්වාගෙන යනු ලබන ලේඛනවලට අනුව 2022 දෙසැම්බර් 31 වන දින වන විට වැට් හිඟ බදු මුදල් සහ එම හිඟ බදු මත පනවන දඬ මුදල්වල වටිනාකම රුපියල් බිලියන 369ක් වන අතර ඉන් රුපියල් බිලියන 255ක් වූ හිඟ ආදායම විවිධ හේතු මත අයකර ගැනීම තාවකාලිකව අත්හිටුවා ඇති බව ජාතික විගණන කාර්යාලය පෙන්වා දෙයි.
+The office shows that this situation has arisen due to the inefficiency and irresponsible measures of the Department of Inland Revenue.
 
-ඉන් අය කරගත හැකි ලෙස හඳුනාගෙන ඇති හිඟ බදු ශේෂය වූ රුපියල් බිලියන 114 වසර 13ක පමණ කාලයක සිට පැවත එන ශේෂයන් පවතින බව ද විගණනය මඟින් අනාවරණය කරගෙන තිබේ.
+According to the Department of Inland Revenue, the Government has made this statement in public declaration of special audit report on the allocated value added.
+
+According to the documents maintained by the Department of Inland Revenue, VAT is suspended at Rs.The National Audit Office points out.
+
+The audit has also revealed that the balance of Rs 114 billion has been exposed to Rs 11 4 billion to 13 billion rupees.
+
+The National Audit Office shows that the VAT should be recovered during the revenue of the Department of Inland Revenue and a risk of the government has caused a risk to the government.
+
+The National Audit Office is the main reason for the loss of this tax due to the availability of the Inland Revenue.
 
 ...
 
 [Data](articles/046ad824.json)
 
+[Extended Data](ext_articles/046ad824.ext.json)
+
 ---
 
-### සහන නොදෙන වෙළෙඳුන් සොයා දිවයින පුරා වැටලීම්
+### Biden tests positive for covid, cancels events amid mild symptoms
+
+*2024-07-18 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100589/biden-tests-positive-for-covid-cancels-events-amid-mild-symptoms) · `en`
+
+(AP) — President Joe Biden tested positive for COVID-19 while traveling Wednesday in Las Vegas and is experiencing “mild symptoms” including “general malaise” from the infection, the White House said.
+
+Press secretary Karine Jean-Pierre said Biden will fly to his home in Delaware, where he will “self-isolate and will continue to carry out all of his duties fully during that time.” The news had first been shared by UnidosUS President and CEO Janet Murguía, who told guests at the group’s convention in Las Vegas that president had sent his regrets and could not appear because he tested positive for the virus.
+
+Dr. Kevin O’Connor, the president’s physician, said in a note that Biden, 81, “presented this afternoon with upper respiratory symptoms, to include rhinorhea (runny nose) and non-productive cough, with general malaise.” After the positive COVID-19 test, Biden was prescribed the antiviral drug Paxlovid and has taken his first dose, O’Connor said.
+
+...
+
+[Data](articles/fdd46844.json)
+
+[Extended Data](ext_articles/fdd46844.ext.json)
+
+---
+
+### Fairly heavy showers, strong winds expected in parts of the island
+
+*2024-07-18 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100588/fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
+
+The prevailing windy conditions over the island are expected to continue further, due to the active South-west Monsoonal condition, says the Meteorology Department.
+
+Showers or thundershowers will occur at times in Sabaragamuwa Province and in Kandy and Nuwara-Eliya districts, and fairly heavy showers about 50 mm are likely at some places.
+
+Several spells of showers will occur in Western and North-western provinces and in Galle and Matara districts, it said.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/f7c9747e.json)
+
+[Extended Data](ext_articles/f7c9747e.ext.json)
+
+---
+
+### Raid areas in search of relief traders
 
 *2024-07-18 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198931) · `si`
 
-ඉන්ධන, ගෑස් සහ විදුලි මිල ගණන් අඩුකර තිබුණ ද එම සහනය පාරිභෝගිකයින් වෙත ලබානොදෙන වෙළෙඳුන් සොයා වැටලීම් ආරම්භ කිරීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පියවර ගෙන තිබේ.
+Consumer Affairs Authority launches nationwide raids targeting traders not adhering to fuel, gas, and electricity price regulations. Chairman Thusitha Indrajith Udukhawaratu directs officials to inspect hotels, restaurants, and shops across the island for fair pricing practices.
 
-සභාපති තුසිත ඉන්ද්‍රජිත් උඩුවර මහතා සඳහන් කළේ, ඒ අනුව ඉදිරි දිනවල දිවයින පුරා වැටලීම් සිදුකිරීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවය.
+🟩
 
-ඒ අනුව දිවයින පුරා හෝටල්, ආපන ශාලා හා අනෙකුත් වෙළෙඳසැල් අඛණ්ඩව පරීක්ෂා කිරීමටත් භාණ්ඩ හා සේවාවල මිල ගණන් හා මිල ප්‍රදර්ශනය පිළිබඳ විශේෂ අවධානය යොමුකර වැටලීම් සිදුකිරීමට නිලධාරින්ට උපදෙස් ලබා දී තිබේ.
+The Consumer Affairs Authority has taken steps to start raids searching for traders who do not receive fuel, gas and electric prices.
+
+Chairman Thusitha Indrajith Udukhawaratu said that the officials of the Consumer Affairs of Consumer Affairs had instructed to raid the raids island wide accordingly.
+
+Accordingly, hotels, restaurants and other shops island wide and have been instructed to pay special attention to the prices and prices of goods and services.
 
 ◼️
 
 [Data](articles/e790b430.json)
+
+[Extended Data](ext_articles/e790b430.ext.json)
 
 ---
 
@@ -434,6 +550,24 @@ The government's act is completely disgusted with the election of the election a
 
 ---
 
+### ’சவால்களுக்கு மத்தியில் ஊழியர்களுக்கான சம்பளம்’
+
+*2024-07-18 00:40:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களுக்கு-மத்தியில்-ஊழியர்களுக்கான-சம்பளம்/175-340590) · `ta`
+
+கொரோனா தொற்றுநோய் பரவல் காலத்திலும் பொருளாதார நெருக்கடிக்கு மத்தியிலும் எந்தவொரு அரச ஊழியருக்கும் சம்பளத்தையும் கொடுப்பனவுகளையும் குறைவின்றி வழங்கி அரச சேவையை முன்னெடுத்துச் செல்ல முடிந்துள்ளமை பெரு வெற்றியாகும் என உள்நாட்டு அலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்த தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்
+
+கடந்த இரு வருடங்கள் மிகக் கஷ்டமாக அமைந்தது. நாம் கொவிட், பொருளாதார நெருக்கடிகளுக்கு மத்தியிலும் அரச ஊழியர்களுக்கு சம்பளத்தையும் கொடுப்பனவுகளையும் வழங்க வேண்டியிருந்தது. சம்பளமும், கொடுப்பனவுகளும் நிறுத்தப்படலாம் என்றும் சிலர் சிந்தித்தனர்.
+
+அரசாங்க சேவை முடங்கிவிடும் என்றும் நினைத்தனர். ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வழிகாட்டலுக்கமைய அரச நிர்வாகம், உள்நாட்டு அலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்கள் அமைச்சர் என்ற வகையில் பிரதமர் தினேஷ் குணவர்தனவின் வழிகாட்டலின் கீழ் மேற்கொள்ளப்பட்ட நிர்வாகச் செயற்பாடுகள் காரணமாக அரச சேவையைப் பாதுகாக்க முடிந்தது.
+
+...
+
+[Data](articles/b7821f2f.json)
+
+---
+
 ### Shashini 15 -year -old in Sri Lankan team
 
 *2024-07-18 00:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/188721) · `ta`
@@ -462,7 +596,51 @@ Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Hassini Pere
 
 ---
 
+### The program to provide housing rights in Colombo
+
+*2024-07-18 00:36:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-வீட்டு-உரிமைகளை-வழங்கும்-வேலைத்திட்டம்/175-340589) · `ta`
+
+President Ranil Wickremesinghe announced a groundbreaking initiative to provide land and house guarantees to 50,000 low-income families in Colombo, marking a first for any government. This effort, part of the 2024 budget, aims to secure land rights for 2 million people and full home ownership for 250,000 families. Yesterday, 1,117 confirmations were issued, including 937 homes through the Urban Development Authority and 180 via the National Housing Development Authority, benefiting residents across several housing schemes.
+
+🟩
+
+President Ranil Wickremesinghe said that the government has initiated this revolutionary program that has not been implemented by any government to provide relief to the nation.
+
+The President said this while addressing the 'Randora Urumaya' event to provide land guarantees for 50 thousand low -income families living in the Colombo Apartments held at the Sugathadasa Stadium in Colombo yesterday afternoon.
+
+According to President Ranil Wickremesinghe, the 2024 budget was implemented in the 2024 budget and the project was implemented by the land rights of 20 lakh people and the full ownership of the houses for two and a half lakh low -income families living in Colombo.
+
+As a result of this, 1117 affirmations were issued yesterday, including 937 houses under the Urban Development Authority and 180 houses under the National Housing Development Authority.
+
+...
+
+[Data](articles/7875c522.json)
+
+[Extended Data](ext_articles/7875c522.ext.json)
+
+---
+
 ### 2024-07-17 (Wednesday)
+
+### Biku Coordination Division
+
+*2024-07-17 23:53:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-பிக்கு-ஒருங்கிணைப்புப்-பிரிவு/175-340588) · `ta`
+
+The Biku Coordination Division office, inaugurated yesterday, aims to protect Buddhism as advised by President Ranil Wickremesinghe. It was opened during the Maha Sangam recitation led by Seth Brith, with President's Secretary Saman Ekanayake present.
+
+🟩
+
+The office was inaugurated yesterday amidst the Seth Brith recitation of the Maha Sangam with the participation of President's Secretary Saman Ekanayake.
+
+The Presidential Media Unit said that the office was established on the advice of President Ranil Wickremesinghe to fulfill the responsibility of the government in accordance with the Constitutional Councils on the protection of the Buddha Sasana.
+
+◼️
+
+[Data](articles/8859950e.json)
+
+[Extended Data](ext_articles/8859950e.ext.json)
+
+---
 
 ### El Board
 
@@ -621,6 +799,22 @@ The Ministry of Health RD.P.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G.G. Azala Gunawardena
 [Data](articles/82b6f22a.json)
 
 [Extended Data](ext_articles/82b6f22a.ext.json)
+
+---
+
+### සජබෙට එරෙහි ඩයනාගේ  පෙත්සම ඉවත් කර ගනී
+
+*2024-07-17 22:25:34* · [`adalk`](https://www.ada.lk/breaking_news/සජබෙට-එරෙහි-ඩයනාගේ--පෙත්සම-ඉවත්-කර-ගනී/11-410844) · `si`
+
+සමගි ජන බලවේගය පක්‍ෂයේ සාමාජිකත්වයෙන් තමන් නෙරපා හැරීම වළකාලන්නැයි ඉල්ලමින් හිටපු රාජ්‍ය සංචාරක රාජ්‍ය ඇමතිනි ඩයනා ගමගේ මහත්මිය ශ්‍රේෂ්ඨාධිකරණයේ ගොනු කර තිබූ පෙත්සම ඊයේ (17දා) ඇය ඉල්ලා අස්කර ගත්තාය.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 20වැනි සංශෝධනයට සහාය පළ කළැයි චෝදනා කරමින් තමන් පක්‍ෂ සාමාජිකත්වයෙන් නෙරපා හැරීම වළකාලන්නැයි ඉල්ලමින් ගොනු කර තිබූ පෙත්සම තවදුරටත් පවත්වාගෙන යෑමේ අවශ්‍යතාවයක් තම සේවාදායිකාවට නැතැයි දැනුම් දෙමින් ඩයනා ගමගේ මහත්මිය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා කළ ඉල්ලීමක් පිළිගත් ශ්‍රේෂ්ඨාධිකරණය පෙත්සම ඉවත් කර ගැනීමටට අවසර දුන්නේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ගාමිණී අමරසේකර, කුමුදුනි වික්‍රමසිංහ සහ මහින්ද සමයවර්ධන යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඬුල්ලක් හමුවේ පෙත්සම සලකා බැලිණි.
+
+...
+
+[Data](articles/223f5201.json)
 
 ---
 
@@ -1154,23 +1348,33 @@ However, the Maritime Security Center has told the Marine Security Center that t
 
 ---
 
-### වසන්තගේ ඝාතකයන් රටින් ගියාදැයි අණාවරණය වී නෑ
+### It has not been revealed if Wasantha's killers visited the country
 
 *2024-07-17 19:06:32* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-ඝාතකයන්-රටින්-ගියාදැයි-අණාවරණය-වී-නෑ/11-410840) · `si`
 
-අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයක සිදුවූ වෙඩි තැබීමට සම්බන්ධ සැකකරුවන් රටින්  පිටව ගොස් තිබෙනවාද යන්න මෙතෙක් සිදුකළ විමර්ශනවලදී අනාවරණය වී නොමැති බව  පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+Investigations into the shooting at a Tatuiri Center in Athurugiriya are ongoing without revealing details. Police spokesperson DIG Talduwa mentioned the involvement of 8-10 teams daily. Seven suspects have been arrested but released on bail due to lack of direct connection to the incident. The arrest of individuals involved in drug trafficking and the ongoing investigation into the Maharagama Matara Palace incident highlight the complexity of the case.
 
-ජංගම දුරකතනවල තොරතුරු සම්බන්ධයෙන් හා ආරක්ෂිත කැමරා දර්ශනවලට අනුව නුගේගොඩ කොට්ඨාසයේ පොලිස් කණ්ඩායම් 8 -10  අතර ප්‍රමාණයක් සිද්ධිය පිළිබඳ දෛනිකව  විමර්ශන සිදුකරන බවත්, මෙම කණ්ඩායම් දිවයිනේ විවිධ ප්‍ර දේශවලට ගොස් පරීක්ෂණ සිදුකරන බවත් හෙතෙම පැවසීය.
+🟩
 
-අද (17දා) පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ පිළිබඳව  සදහන් කළ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා මෙසේද පැවසීය.
+The police spokesman DIG Talduuwa said that investigations into the shooting center in a Tatuiri Center in Athurugiriya have not been revealed.
 
-"තාක්ෂණික උපකරණවල සහාය ලබා ගනිමින් මෙම විමර්ශන සිදුකරනවා. සිද්ධිය සම්බන්ධයෙන් මේ වන විට සැකකරුවන් 7 දෙනෙකු අත්අඩංගුවට ගෙන තිබෙනවා. තවත් සැකකරුවන් කිහිප දෙනෙකු වැලිපැන්න ප්‍රදේශයේදී අත්අඩංගුවට ගත්තා.
+He said that between 8 and 10 police teams in the Nugegoda division of the Nugegoda division of the Nugegoda division of the Nugegoda division daily.
 
-සැකපිට අත්අඩංගුවට ගත් පිරිස් ඇප මත මුදා හැර තිබෙනවා. මෙම පිරිස් අදාළ සිද්ධියට සෘජු ලෙස සම්බන්ධ බවට තහවුරු වී නැහැ.*
+Police Media Spokesperson DIG Nimael Thalduwawe stated that this was stated at a press conference held today (17).
+
+"These investigations are carried out with the assistance of technical equipment. Seven suspects have been arrested in connection with the incident. Several more suspects were arrested in Welipenna.
+
+The arrested groups have released on bail. These personnel have not proved directly connected to the incident. *
+
+The mother of Dulan, the mother of Tot, has been arrested with drugs that she was in charge of drug trafficking
+
+But the investigations have not been revealed in the investigation into this incident.
 
 ...
 
 [Data](articles/764e3677.json)
+
+[Extended Data](ext_articles/764e3677.ext.json)
 
 ---
 
@@ -1339,6 +1543,24 @@ The chairman of the Authority added that the price limit is notified to make con
 [Data](articles/a6e98b2f.json)
 
 [Extended Data](ext_articles/a6e98b2f.ext.json)
+
+---
+
+### හිල්ටන් ගන්න මෙල්වා සූදානම්
+
+*2024-07-17 18:00:31* · [`adalk`](https://www.ada.lk/breaking_news/හිල්ටන්-ගන්න-මෙල්වා-සූදානම්/11-410833) · `si`
+
+කොළඹ හිල්ටන් හෝටලයේ හිමිකාරීත්වය දරන හොටෙල් ඩිවලොපර්ස් (ලංකා) ලිමිටඩ් (HDL) සතු කොටස් මිලදී ගැනීම සඳහා ගැනුම්කරුවන් 9 දෙනෙක් ඉදිරිපත් වී ඇති අතර, ඒ අතරින් ආයතනයක් අවසන් අදියරය සඳහා යෝජනා ඉදිරිපත් කර තිබේ.
+
+මුල් ලංසුකරුවන් 9දෙනාගෙන් පූර්ව සුදුසුකම්ලත් ලත් ලංසුකරුවන් 4දෙනෙකු තෝරාගෙන ඇති අතර, ඉන්පසුව ඔවුන්ගෙන් මූල්‍ය යෝජනා කැඳවීම සිදුකර ඇත. එහිදී තවත් ලංසුකරුවන් දෙදෙනෙකු එම ක්‍රියාවලියෙන් ඉවත්ව ඇත. එම යෝජනා කැඳවීම ඉකුත් ජූලි 10වැනිදා අවසන් වූ අතර, ඒ වන විට පූර්ව සුදුසුකම්ලත් ලංසුකරුවන් දෙදෙනාගෙන් එක් ආයතනයක් පමණක් යෝජනාවක් ඉදිරිපත් කර තිබේ.
+
+ඒ අනුව මෙල්වා හොටෙල්ස් ඇන්ඩ් රිසෝට් ප්‍රයිවට් ලිමිටඩ් ආයතනය යෝජනාව ඉදිරිපත් කර තිබුණි.
+
+ඒ පිළිබඳව විශ්ලේෂණය කිරීමේ කටයුතු මේ වන විට සිදු වෙමින් පවතින අතර, ඉන් අනතුරුව අමාත්‍ය මණ්ඩල අනුමැතිය සඳහා ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/7dd89820.json)
 
 ---
 
@@ -2105,255 +2327,5 @@ At a meeting held at the Ministry of Agriculture and Plantation Industries, fert
 [Data](articles/1031e7d6.json)
 
 [Extended Data](ext_articles/1031e7d6.ext.json)
-
----
-
-### Six people died in a five-star hotel in Thailand's capital
-
-*2024-07-17 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188684) · `ta`
-
-In Thailand's capital, six individuals, including two Americans, were fatally poisoned with cyanide-laced tea at a renowned five-star hotel, likely linked to a financial dispute. The victims' bodies were discovered alongside open doors and unused tea pots with remnants of the poison. Police initially suspected foul play but later concluded that one of the deceased might have inadvertently poisoned themselves.
-
-🟩
-
-Six people, including two Americans, have been killed in a popular five -star hotel in Thailand's capital, and it has been shocking while cyanide mixed with a tea insulation he consumed.
-
-Police said the killings may have been the cause of a bad investment dispute.
-
-When they went to the five -star hotel, police saw the bodies of three men and three women.
-
-Police said the white powder material was found in the used tea pots, which were still covered with a plastic piece.
-
-According to police, the door was open as the door of the area where they stayed was locked inside.
-
-The police, who were looking for a suspect, have now abandoned the investigation and that one of the deceased may have been mixed with the tea cup.
-
-Police have reported that the cyanide was found in the tea cup of the six -year -old tea cups in the hotel room and the body of a person who died.
-
-◼️
-
-[Data](articles/82b88b6d.json)
-
-[Extended Data](ext_articles/82b88b6d.ext.json)
-
----
-
-### Estate companies to enjoy unauthorized land
-
-*2024-07-17 15:49:03* · [`adalk`](https://www.ada.lk/breaking_news/වතු-සමාගම්-අනවසරයෙන්-භුක්ති-විදින-ඉඩම්-නැවත-පවරා-ගන්න-යයි/11-410826) · `si`
-
-A committee reviewing land ownership recommends increasing the land allocated to mining and extending benefits to unauthorized settlers who arrived before 2010. It suggests revising residency criteria and improving land disposal processes for commercial use. The Land Reforms Commission (LRC) owns 7,000 acres but faces challenges with unauthorized settlers occupying about 56,000 acres. The committee urges for a detailed report on land distribution at the district level and advises on strategies to facilitate economic growth through land management.
-
-🟩
-
-Recommendation from the Committee to review and make a simple review of the land ownership of the Land Reforms Commission and make simple
-
-Recommendation to increase the amount of 1 perches given to the mining by the Land Reforms Commission.
-
-Recommendations to extend it to the unauthorized settlers settled in the Land Reforms Commission before 2010
-
-The Land Reforms Commission was diagnosed with the Select Committee of the Department of Reform Estate Companies that have been acquired by the State Plantation Corporation or Janatha Estate Development Board.
-
-Accordingly, the Chairman of the Sectoral Oversight Committee of the Economic Crisis, which had been forced to the plantation companies, was recommended to the Land Reforms Commission. This recommendations were issued when the Sectoral Oversight Committee on the effects of the economic crisis under the 11th of this month. The Land Reforms Commission (LRC) had been summoned before the Committee on the Committee.
-
-...
-
-[Data](articles/3449f0c5.json)
-
-[Extended Data](ext_articles/3449f0c5.ext.json)
-
----
-
-### Mahavamsa is a World Heritage Site
-
-*2024-07-17 15:41:08* · [`adalk`](https://www.ada.lk/picture_story/මහාවංශය-ලෝක-උරුමයක්-වෙයි/10-410825) · `si`
-
-The Library of the University of Peradeniya was declared a World Heritage Site, marked by a ceremony where the director general handed it over to Professor GH. Peiris. Attendees included the Vice Chancellor, librarians, and other officials, celebrating this significant milestone.
-
-🟩
-
-The official declaration of the library of the University of Peradeniya was officially declared at the library Director General Avray Oseela.
-
-Professor GH. She was handed over to Peiris, and the commemorative plaque was also opened.
-
-Vice Chancellor of the University of Peradeniya Prof. M.. D. The Director General of the Unicco, the Director General of Unicco, was also present at the meeting of the Peradeniya University.
-
-Librarians of the University of Peradeniya. Mr. Maheshwaran and others participated in the event.
-
-◼️
-
-[Data](articles/77ab1e73.json)
-
-[Extended Data](ext_articles/77ab1e73.ext.json)
-
----
-
-### Four women who were tortured
-
-*2024-07-17 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198915) · `si`
-
-Four suspects, including two parents, were arrested after a child abuse incident was captured on video and shared on social media. The victims are set to appear before the Mawanella Magistrate's Court today.
-
-🟩
-
-Four suspects have been arrested in connection with an incident in attacking a child and become worried.
-
-A video was circulated on the social media and the investigations were arrested following the investigation.
-
-Accordingly, a child's mother and another gate have been arrested in connection with the child's assault on the child.
-
-Police said the suspects are to be produced before the Mawanella Magistrate's Court today (17) and the victim is to be produced before the Mawanella Judo.
-
-◼️
-
-[Data](articles/a247eca1.json)
-
-[Extended Data](ext_articles/a247eca1.ext.json)
-
----
-
-### Committee to conduct threat assessments on presidential candidates, ex-Presidents
-
-*2024-07-17 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100579/committee-to-conduct-threat-assessments-on-presidential-candidates-ex-presidents) · `en`
-
-In view of the forthcoming Presidential Election, President Ranil Wickremesinghe has submitted a Cabinet paper for the approval of the Cabinet of Ministers to ensure the safety of the candidates.
-
-This proposal suggests the appointment of a committee to conduct threat assessments and provide necessary security for Presidential Candidates as well as former Presidents, the President’s Media Division (PMD) said.
-
-The committee will include the Secretary of the Ministry of Public Security as Chair, the Chief of Defence Staff, the Inspector General of Police, the Chief of National Intelligence, and the Senior Deputy Inspector General of Police/Elections.
-
-Additionally, a Deputy Inspector General of Police will be appointed to oversee all security arrangements, the statement said.
-
-This proposal comes in light of the recent attack on former U.S. President Donald Trump during a campaign rally in Butler, Pennsylvania, highlighting the pressing need for enhanced security measures.
-
-...
-
-[Data](articles/1ec7b7c0.json)
-
-[Extended Data](ext_articles/1ec7b7c0.ext.json)
-
----
-
-### Decision regarding the safety of presidential candidates
-
-*2024-07-17 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198914) · `si`
-
-President Wickremesinghe proposes a security plan for presidential elections, including a threat assessment committee and a DIG overseeing security forces for candidate protection.
-
-🟩
-
-President Ranil Wickremesinghe has presented a cabinet paper to ensure the security of the presidential election and the safety of presidential candidates.
-
-Accordingly, it has been proposed to appoint a committee to assess the threats to presidential candidates and former presidents and ensure the necessary safety.
-
-The cabinet paper has further proposed to appoint a DIG to supervise these security forces.
-
-◼️
-
-[Data](articles/ed724474.json)
-
-[Extended Data](ext_articles/ed724474.ext.json)
-
----
-
-### Bus crashes in the Andes Mountain Series in Peru;25 killed;17 people injured
-
-*2024-07-17 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188674) · `ta`
-
-A tragic bus crash in the Andes Mountains of Peru resulted in 25 deaths and 17 injuries. The accident occurred on the Los Libertador highway near Ayacucho, a common site for such incidents due to inadequate driver training and the region's hazardous terrain.
-
-🟩
-
-At least 25 people were killed and 17 injured when a bus crashed through the Andes Mountain area on Tuesday in Peru.
-
-At dawn, the bus traveling on the highway in the Andes Mountain Series has crashed into a 200 -foot ditch.
-
-The accident occurred on the Los Libertador's highway in the Ayakucho area where the south-central Andes mountain range is located.
-
-The occurrence of dangerous bus accidents in Peru is a common thing. This is because many buses travel there on a dangerous mountain pass. Buses are operated by drivers who do not have adequate training.
-
-In April, 25 people were killed when a bus fell into a river in North Kajamarga of Peru.
-
-In September 2022, at least 24 people were killed in a similar accident in the Anco area.
-
-◼️
-
-[Data](articles/26dd9cef.json)
-
-[Extended Data](ext_articles/26dd9cef.ext.json)
-
----
-
-### Meditiya killed in terms of hospital bus accident
-
-*2024-07-17 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198913) · `si`
-
-In a tragic accident involving a Sri Lanka Transport Board (SLTB) bus and a lorry in Galahitiyawa, a 37-year-old female doctor named Seal Paltawali lost her life. The incident occurred while she was returning from work at the Chilaw General Hospital. She was later transferred to the Colombo National Hospital for further treatment but succumbed to her injuries on Monday.
-
-🟩
-
-A doctor who was receiving treatment at the Colombo National Hospital has been admitted to the Colombo National Hospital.
-
-The victim was a 37 year old woman named Seal Paltawali, a doctor of the Nattandiya Dunkannawa area.
-
-The SLTB bus and a lorry collided with a lorry and a lorry collided with a lorry in Galahitiyawa road on the Chilahi-Colombo-Colombo.
-
-The accident had occurred when a SLTB bus traveling from the Devalaya junction to the Puttalam bus, which was not able to control the second and collided with a lorry.
-
-About 27 people were injured in the accident and was admitted to the Chilaw General Hospital for treatment.
-
-The doctor has recovered the SLTB bus to the Wennappuwa area to take his child to school and travel to the school.
-
-The husband had then returned from the house in the house of Nattandiya Dunkannawa area.
-
-The doctor was unfortunately at the bus to work at the Chilaw General Hospital.
-
-...
-
-[Data](articles/e878a17c.json)
-
-[Extended Data](ext_articles/e878a17c.ext.json)
-
----
-
-### SLA Bridge opens Kohuwala
-
-*2024-07-17 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198912) · `si`
-
-Kohuwala flyover opened today, funded by a Hungarian government loan. Minister Dr. Bandula Gunawardena mentioned project restarts due to debt restructuring.
-
-🟩
-
-The opening of Kohuwala flyover was constructed at the Hungarian government loan assistance was held this morning.
-
-Minister of Transport and Highways Dr. Bandula Gunawardena said that the development projects were resumed as a result of debt restructuring.
-
-◼️
-
-[Data](articles/6c04c961.json)
-
-[Extended Data](ext_articles/6c04c961.ext.json)
-
----
-
-### Sri Lanka non-financial SOEs make Rs282bn in profits in 2023 amid monetary stability
-
-*2024-07-17 14:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-non-financial-soes-make-rs282bn-in-profits-in-2023-amid-monetary-stability-172541/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s non-financial public sector enter which lost 910 billion rupees in 2022, as macro-economists printed money to boost growth and bungled a float with a surrender rule has made profits of 282 billion rupees in 2023, official data shows.
-
-In 2022 the same state owned enterprises made 910 billion rupees of losses.
-
-A major turnaround was seen in Ceylon Petroleum Corporation which lost 617 billion rupees in 2022 as the currency collapsed and the country was hit by forex shortages as the central bank printed money.
-
-The CPC losses partly came from loans it was forced to take when the central bank made rate cuts with printed money for flexible inflation targeting and potential output targeting, and officials made the petroleum utility take suppliers credits, in prior years critics have said.
-
-The suppliers credit were then turned into state bank loans as the currency collapsed, endangering the banks.
-
-...
-
-[Data](articles/54e5cb24.json)
-
-[Extended Data](ext_articles/54e5cb24.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 11:35:39**
+As of **2024-07-18 11:55:21**
 
 ## Newspaper Stats
 
-*Scraped **35,879** Articles*
+*Scraped **35,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,136
 dailyftlk | 2,279
 adalk | 3,241
 adaderanalk | 4,136
-tamilmirrorlk | 4,344
+tamilmirrorlk | 4,346
 dailymirrorlk | 4,733
 virakesarilk | 5,599
 adaderanasinhalalk | 6,001
@@ -26,27 +26,49 @@ adaderanasinhalalk | 6,001
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,878 (100.0%) of 35,879 articles have been extended.
+35,879 (100.0%) of 35,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### කොල්ලුපිටියේ ගෙවල් සුද්දකළ මරදානේ ඉම්රාන් කොටුවෙයි
+### “திருத்தங்கள் வேண்டாம்: தேர்தலை நடத்து”
+
+*2024-07-18 11:28:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தங்கள்-வேண்டாம்-தேர்தலை-நடத்து/175-340609) · `ta`
+
+அரசியலமைப்பு திருத்தங்கள் அல்ல, ஜனாதிபதி தேர்தலை நடத்துவதே இந்த தருணத்தில் நாட்டிற்கு தேவையாகும் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான  பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+நாட்டின் பொருளாதாரப் பிரச்சினை 2028ஆம் ஆண்டு வரை ஒத்திவைக்கப்பட்டுள்ளதாகத் தெரிவித்த ரணவக்க, 2028ஆம் ஆண்டிற்குப் பின்னர் அரசாங்கத்திற்கு கடனை செலுத்துவதற்கான வேலைத்திட்டம் தேவை என்றார்.
+
+கம்பஹாவில் நடைபெற்ற 'நாட்டிற்கு ஒருமித்த படி' நடைமுறை நிகழ்ச்சித் திட்டத்தின் சுருக்கம் அடங்கிய துண்டுப் பிரசுர விநியோகம் நிகழ்வில் கலந்துகொண்டு கருத்துத் தெரிவிக்கையிலேயே சம்பிக்க ரணவக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b3820dbf.json)
+
+---
+
+### Imran in Maradana celebrated in Kollupitiya
 
 *2024-07-18 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198941) · `si`
 
-කොල්ලූපිටිය සහ කොම්පඤ්ඤවීදිය පොලිස් වසම්වල දේපොළ සොරාගැනීම් රැසකට සම්බන්ධ අඹුසැමි යුවළක් ඇතුළු තිදෙනකු අත්අඩංගුවට ගත් බව කොල්ලුපිටිය පොලීසිය පවසයි.
+In Maradana, Imran celebrated in Kollupitiya, leading to arrests of three individuals, including two known by the alias "Maradana." The suspects were caught with laptops, computers, and cash worth over Rs., allegedly stolen from a housing complex. Investigations also found them purchasing milk powder and cakes.
 
-අත්අඩංගුවටගත් අය අතර "රෙඩ් බානාවත්තේ පුතා" සහ "මරදානේ ඉම්රාන්" යන අන්වර්ථ නම්වලින් හඳුන්වන පුද්ගලයන් දෙදෙනාද වන බව පොලීසිය කීය.
+🟩
 
-එම සැකකරුවන් සොරාගෙන තිබූ රුපියල් ලක්ෂ 15කට අධික වටිනා ලැෆ්ටොෆ් පරිගණක 6ක්, පරිගණක කොටස්, ටැබ් යන්ත්‍ර, මිල අධික පාපැදියක් පොලිස් භාරයට ගෙන තිබේ.
+Kollupitiya Police say that three others have been arrested in Kollupitiya and Slave Island Police Divisions.
 
-කොල්ලුපිටිය තර්ස්ටන් පාරේ පුද්ගලික විශ්වවිද්‍යාලයකට රාත්‍රී කාලයේ දී ඇතුළු වී පරිගණක සොරා ගැනීම, නිවාස සංකීර්ණයක මුරකුටියේ තිබූ පරිගණක ඇතුළු දේපොළ රැසක් සොරා ගැනීම, කොම්පඤ්ඤ වීදිය සුපිරි වෙළෙඳසැලක් අසල නවතා තිබූ රුපියල් ලක්ෂ තුනහමාරකට අධික වටිනා පාපැදියක් සොරා ගැනීම හා ලැප්ටොප් පරිගණක බහා තිබූ බෑග්වල තිබූ මුදල් පසුම්බිවල ATM කාඩ්පත් සොරාගෙන ඒවායින් කිරිපිටි සහ කේක් මිලදීගෙන තිබූ බවද පොලිස් පරීක්ෂණවලදී අනාවරණය විය.
+Among the arrested were the two names of the alias, Maradana, Maradana, "Maradana," the police said.
+
+The suspects were taken into custody by six lafftops, computers, tabs, tabs and tabs worth over Rs.
+
+Slave stealing a large number of rupees and laptops at a housing stolen of a housing stolen in a housing stolen at a housing stolen of a housing stolen at a housing stolen at a nearby lapse laptop in bags at the bags in the bags.Police investigations revealed that they had purchased milk powder and cakes.
 
 ◼️
 
 [Data](articles/eeaa141f.json)
+
+[Extended Data](ext_articles/eeaa141f.ext.json)
 
 ---
 
@@ -187,6 +209,24 @@ Accordingly, instructions have been given to inspect the hotels, restaurants, an
 [Data](articles/ae6739f4.json)
 
 [Extended Data](ext_articles/ae6739f4.ext.json)
+
+---
+
+### நாடு திரும்பியவரை கடத்தி கப்பம் பெற முயற்சி
+
+*2024-07-18 10:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பியவரை-கடத்தி-கப்பம்-பெற-முயற்சி/175-340600) · `ta`
+
+குவைத்தில் பணிபுரிந்து விட்டு இலங்கை திரும்பிய ஒருவரை மாவத்தகமவில் இருந்து கடத்திச் சென்று நாரம்மல பிரதேசத்தில் உள்ள வீடொன்றில் அடைத்து வைத்திருந்த நான்கு சந்தேக நபர்களை விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+
+குறித்த நபர் குவைத்தில் பணிபுரிந்த போது, அதே இடத்தில் பணிபுரிந்த மற்றுமொருவரின் உதவியின் மூலம் இந்த கடத்தல் இடம்பெற்றுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+விசேட அதிரடிப்படை அதிகாரிகளுக்கு கிடைத்த தகவலுக்கு அமைய குறித்த நபர் பாதுகாப்பாக மீட்கப்பட்டதுடன் சந்தேகநபர்கள் நால்வரும் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் நாரம்மல மற்றும் கட்டுபொத பிரதேசங்களில் வசிக்கும் 31-39 வயதுடையவர்கள் என்பதுடன், குறித்த நபரை கடத்த பயன்படுத்திய கெப் வண்டியும் விசேட அதிரடிப்படையினரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b086dbbd.json)
 
 ---
 
@@ -2187,63 +2227,5 @@ Ranil Wickremesinghe is not challenging the United People's Power or National Pe
 [Data](articles/c09c9c87.json)
 
 [Extended Data](ext_articles/c09c9c87.ext.json)
-
----
-
-### Come to a political solution that recognizes Tamils ​​in the North East as a unique nation
-
-*2024-07-17 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188714) · `ta`
-
-The Sri Lanka National Christian Forum urges presidential candidates to address the Tamil community's unique status in the Northeast, advocating for significant autonomy within a unified Sri Lanka. Highlighting the importance of transparency and accountability, the forum calls for an end to corruption and the strengthening of democratic principles. It emphasizes the need for a political solution that acknowledges the Northeast's distinct identity, ensuring its representation and addressing historical injustices. The forum also stresses the importance of tackling the ongoing economic and political crises, urging candidates to commit to meaningful reforms and the abolition of the executive presidency.
-
-🟩
-
-The Sri Lanka National Christian Forum has appealed to all the candidates who are contesting the upcoming presidential election in the upcoming presidential election and the Sri Lanka National Christian Forum has called for significant autonomy and power within the united Sri Lanka.
-
-The National Christian Forum welcomes the Supreme Court's need to hold the presidential election later this year.
-
-We urge the Sri Lankan people to use their sovereignty and responsibility, which includes fundamental rights and rights to vote.
-
-For this, it is important that the people are aware of the political and economic crisis that the country is facing.
-
-Moreover, the parties contesting the general election in the next general election must be rated on a critical basis.
-
-The National Christian Forum of Sri Lanka wants to remind the public that the basic reasons for the current economic crisis that have affected all communities are political.
-
-...
-
-[Data](articles/988486b8.json)
-
-[Extended Data](ext_articles/988486b8.ext.json)
-
----
-
-### India launches disappearances from the ship accident
-
-*2024-07-17 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198923) · `si`
-
-After a fuel carrier crash in the Arabian Sea near Oman, 16 crew members have gone missing. The incident occurred southwest of Oman's port city, where the vessel, flying the Comoros flag, was en route from Dubai to Yemen. Both India and Oman are assisting in search efforts, including naval ships and flights. Reports suggest the ship capsized, according to the Maritime Security Center.
-
-🟩
-
-The 16 staff workers have disappeared after a fuel carrier crashed in the Arabian sea.
-
-The rest of the other persons are Indian and Oman have also launched a campaign with assistance in India.
-
-The fuel carrier was crashed at the southwest miles of Oman's deposit port city.
-
-The victims were a fuel carrier, which sailed under the Comoros Flag.
-
-It is said that the ship headed from Hamria Harbor in Dubai was sailing to the Port of Eden in Yemen.
-
-A war ship and observation flight of the disappearance of missing persons have also been given an observation flight.
-
-However, the Maritime Security Center has told the Marine Security Center that the ship has flipped down, Indian media reports.
-
-◼️
-
-[Data](articles/5a95bbcb.json)
-
-[Extended Data](ext_articles/5a95bbcb.ext.json)
 
 ---

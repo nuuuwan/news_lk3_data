@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 11:20:03**
+As of **2024-07-18 11:35:39**
 
 ## Newspaper Stats
 
-*Scraped **35,878** Articles*
+*Scraped **35,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,136
 tamilmirrorlk | 4,344
 dailymirrorlk | 4,733
 virakesarilk | 5,599
-adaderanasinhalalk | 6,000
+adaderanasinhalalk | 6,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,876 (100.0%) of 35,878 articles have been extended.
+35,878 (100.0%) of 35,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### කොල්ලුපිටියේ ගෙවල් සුද්දකළ මරදානේ ඉම්රාන් කොටුවෙයි
+
+*2024-07-18 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198941) · `si`
+
+කොල්ලූපිටිය සහ කොම්පඤ්ඤවීදිය පොලිස් වසම්වල දේපොළ සොරාගැනීම් රැසකට සම්බන්ධ අඹුසැමි යුවළක් ඇතුළු තිදෙනකු අත්අඩංගුවට ගත් බව කොල්ලුපිටිය පොලීසිය පවසයි.
+
+අත්අඩංගුවටගත් අය අතර "රෙඩ් බානාවත්තේ පුතා" සහ "මරදානේ ඉම්රාන්" යන අන්වර්ථ නම්වලින් හඳුන්වන පුද්ගලයන් දෙදෙනාද වන බව පොලීසිය කීය.
+
+එම සැකකරුවන් සොරාගෙන තිබූ රුපියල් ලක්ෂ 15කට අධික වටිනා ලැෆ්ටොෆ් පරිගණක 6ක්, පරිගණක කොටස්, ටැබ් යන්ත්‍ර, මිල අධික පාපැදියක් පොලිස් භාරයට ගෙන තිබේ.
+
+කොල්ලුපිටිය තර්ස්ටන් පාරේ පුද්ගලික විශ්වවිද්‍යාලයකට රාත්‍රී කාලයේ දී ඇතුළු වී පරිගණක සොරා ගැනීම, නිවාස සංකීර්ණයක මුරකුටියේ තිබූ පරිගණක ඇතුළු දේපොළ රැසක් සොරා ගැනීම, කොම්පඤ්ඤ වීදිය සුපිරි වෙළෙඳසැලක් අසල නවතා තිබූ රුපියල් ලක්ෂ තුනහමාරකට අධික වටිනා පාපැදියක් සොරා ගැනීම හා ලැප්ටොප් පරිගණක බහා තිබූ බෑග්වල තිබූ මුදල් පසුම්බිවල ATM කාඩ්පත් සොරාගෙන ඒවායින් කිරිපිටි සහ කේක් මිලදීගෙන තිබූ බවද පොලිස් පරීක්ෂණවලදී අනාවරණය විය.
+
+◼️
+
+[Data](articles/eeaa141f.json)
+
+---
 
 ### Human Rights Watch pushes for PTA repeal, raises alarm over new bill
 
@@ -43,6 +61,8 @@ Issuing a statement on Wednesday (17), the international watchdog stated that as
 ...
 
 [Data](articles/3ba5ddfd.json)
+
+[Extended Data](ext_articles/3ba5ddfd.ext.json)
 
 ---
 
@@ -478,19 +498,25 @@ The mother of the deceased girl is a dumb woman and is being treated under polic
 
 ---
 
-### புதிய அரசியல் கூட்டணியின் சின்னம் 'கதிரை'
+### The symbol of the new political coalition
 
 *2024-07-18 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188737) · `ta`
 
-பொதுஜன பெரமுனவிலிருந்து விலகி சுயாதீனமாக செயற்படும் புதிய அரசியல் கூட்டணி உத்தேச தேர்தல்களில் கதிரை சின்னத்தில் பொதுக் கூட்டணியொன்றை அமைத்து போட்டியிடவுள்ளது. ஸ்ரீலங்கா சுதந்திர கட்சி உள்ளிட்ட முக்கிய கட்சிகளுடன் இணைந்து இந்த பொதுக் கூட்டணி உருவாக்கப்பட்டுள்ளதாக அந்த கூட்டணியின் செயல்பாட்டளர்களான அநுர பிரியதர்ஷன யாப்பா மற்றும் நிமல் லான்சா ஆகியோர் தெரிவித்தனர்.
+A new political coalition, independent of the PA, is forming for the Eddal Elections, backed by key parties like the Sri Lanka Freedom Party. Led by activists such as Anura Priyadarshana Yapa and Nimal Lansa, it aims to support President Ranil Wickremesinghe. Initially focused on supporting the president, it has grown into a significant political force, attracting members from various parties including the Sri Lanka PA, United People's Power, and SLFP. The coalition plans to contest under the Edit symbol but hasn't decided on its name yet.
 
-கொழும்பில் நேற்று புதன்கிழமை (17) இடம்பெற்ற விசேட சந்திப்பு ஒன்றின் போதே மேற்கண்டவாறு குறிப்பிட்டனர். அங்கு மேலும் தெரிவிக்கையில்,
+🟩
 
-25 பாராளுமன்ற உறுப்பினர்கள் தற்போது முக்கிய செயல்பாட்டாளர்களாக உள்ளனர். இதை தவிர ஸ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய மக்கள் சக்தி மற்றும் ஸ்ரீலங்கா சுதந்திர கட்சி ஆகிய அரசியல் கட்சிகளிலிருந்து பெரும்பாலான உறுப்பினர்கள் இணையவுள்ளனர். ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டதன் பின்னர் அவர்கள் இணைவார்கள். அப்போது உறுப்பினர்களின் எண்ணிக்கை 45ஐ தாண்டும் என இதன் போது குறிப்பிட்டனர்.
+The new political coalition, which is independent of the PA, is set to form a public coalition in the Eddal Elections. The coalition's activists Anura Priyadarshana Yapa and Nimal Lansa said that the general coalition was formed in collaboration with key parties, including the Sri Lanka Freedom Party.
+
+The above was stated at a special meeting held in Colombo yesterday (17). There is further stating,
+
+25 MPs are currently main activists. In addition, most members from the political parties of the Sri Lanka PA, the United People's Power and the Sri Lanka Freedom Party (SLFP) are joining.. They will join after the presidential election was announced. At the time, the number of members would exceed 45.
 
 ...
 
 [Data](articles/3c8d9c14.json)
+
+[Extended Data](ext_articles/3c8d9c14.ext.json)
 
 ---
 
@@ -2219,35 +2245,5 @@ However, the Maritime Security Center has told the Marine Security Center that t
 [Data](articles/5a95bbcb.json)
 
 [Extended Data](ext_articles/5a95bbcb.ext.json)
-
----
-
-### It has not been revealed if Wasantha's killers visited the country
-
-*2024-07-17 19:06:32* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-ඝාතකයන්-රටින්-ගියාදැයි-අණාවරණය-වී-නෑ/11-410840) · `si`
-
-Investigations into the shooting at a Tatuiri Center in Athurugiriya are ongoing without revealing details. Police spokesperson DIG Talduwa mentioned the involvement of 8-10 teams daily. Seven suspects have been arrested but released on bail due to lack of direct connection to the incident. The arrest of individuals involved in drug trafficking and the ongoing investigation into the Maharagama Matara Palace incident highlight the complexity of the case.
-
-🟩
-
-The police spokesman DIG Talduuwa said that investigations into the shooting center in a Tatuiri Center in Athurugiriya have not been revealed.
-
-He said that between 8 and 10 police teams in the Nugegoda division of the Nugegoda division of the Nugegoda division of the Nugegoda division daily.
-
-Police Media Spokesperson DIG Nimael Thalduwawe stated that this was stated at a press conference held today (17).
-
-"These investigations are carried out with the assistance of technical equipment. Seven suspects have been arrested in connection with the incident. Several more suspects were arrested in Welipenna.
-
-The arrested groups have released on bail. These personnel have not proved directly connected to the incident. *
-
-The mother of Dulan, the mother of Tot, has been arrested with drugs that she was in charge of drug trafficking
-
-But the investigations have not been revealed in the investigation into this incident.
-
-...
-
-[Data](articles/764e3677.json)
-
-[Extended Data](ext_articles/764e3677.ext.json)
 
 ---

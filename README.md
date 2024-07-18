@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 20:35:32**
+As of **2024-07-18 20:55:01**
 
 ## Newspaper Stats
 
-*Scraped **35,978** Articles*
+*Scraped **35,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,151
 tamilmirrorlk | 4,365
 dailymirrorlk | 4,733
 virakesarilk | 5,613
-adaderanasinhalalk | 6,019
+adaderanasinhalalk | 6,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,978 (100.0%) of 35,978 articles have been extended.
+35,978 (100.0%) of 35,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### ලේසර් තාක්ෂණයෙන් මතුකරගත් ආදම්ගේ පාලම
+
+*2024-07-18 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198962) · `si`
+
+ගාලු මුවදොර පිවිසුමෙන් කොළඹ නගරයට හා වරාය නගරයට ප්‍රවේශයක් ලබාදීම සඳහා ඉදිවන වරාය පිවිසුම් ගුවන් මාර්ග ව්‍යාපෘතියේ ඉදිකිරීම් එළැඹෙන ඔක්තෝබර් මාසය වනවිට අවසන් වීමට නියමිතය.
+
+ප්‍රවාහන අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා අද (18) එම ව්‍යාපෘතියේ ප්‍රගතිය නිරීක්ෂණය සඳහා එක්වුණි.
+
+වරාය පිවිසුම් ගුවන් මාර්ග ව්‍යාපෘතියේ ඉදිකිරීම් ආරම්භ කෙරෙන්නේ 2019 සැප්තැම්බර් මාසයේදීය.
+
+ආසියානු සංවර්ධන බැංකු ණය ආධාර මත ආරම්භ කළ මෙම ව්‍යාපෘතිය සඳහා දළ ඇස්තමේන්තු ගත මුදල අමෙරිකානු ඩොලර් මිලියන 300කි.
+
+චීන සිවිල් ඉංජිනේරු ඉදිකිරීම් සංස්ථාව විසින් ඉදිකිරීම් සිදුකරන වරාය පිවිසුම් ගුවන් මාර්ගය කිලෝමීටර 5.3ක දිගකින් යුත් මංතීරු 4කින් සමන්විත අධිවේගී මාර්ගයකි.
+
+මෙම අධිවේගී මාර්ගය ඉඟුරු කඩේ මංසන්ධිය අසලින් නව කැලණි පාලමට සම්බන්ධ වන අතර එතැන් සිට කුලුනු මතින් ගාලු මුවදොර සහ අභිනව වරාය නගරය දක්වා පැමිණෙයි.
+
+මෙම ව්‍යාපෘතියේ පරමාර්ථ වන්නේ කොළඹ නගරයේ පවතින අධික වාහන තදබදයට විසඳුමක් සහ ගාලු මුවදොර පිවිසුමෙන් කොළඹ නගරයට හා වරාය නගරයට ප්‍රවේශයක් ලබාදීමය.
+
+...
+
+[Data](articles/20a8466d.json)
+
+---
 
 ### Financial package for micro-minor and medium scale enterprises
 
@@ -2285,29 +2309,5 @@ Accordingly, instructions have been given to inspect the hotels, restaurants, an
 [Data](articles/ae6739f4.json)
 
 [Extended Data](ext_articles/ae6739f4.ext.json)
-
----
-
-### Attempted to obtain a hijacker
-
-*2024-07-18 10:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பியவரை-கடத்தி-கப்பம்-பெற-முயற்சி/175-340600) · `ta`
-
-Four suspects, aged 31-39, were arrested by the Special Task Force after abducting someone from Mawathagama and holding them in Naramala. The abduction was aided by a former coworker from Kuwait. The victim was rescued, and the cab involved was seized.
-
-🟩
-
-Special Task Force (STF) has arrested four suspects who had been abducted from Mawathagama from Mawathagama and kept in a house in Naramala area.
-
-Investigations have revealed that the abduction was carried out with the help of another person who worked in the same place when the person was working in Kuwait.
-
-According to information received by the Special Task Force officers, the person was safely rescued and four suspects have been arrested.
-
-The suspects were aged 31-39, aged 31-39, and the cab used by the person was seized by the Special Task Force.
-
-◼️
-
-[Data](articles/b086dbbd.json)
-
-[Extended Data](ext_articles/b086dbbd.ext.json)
 
 ---

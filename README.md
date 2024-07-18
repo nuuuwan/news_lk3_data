@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 18:27:38**
+As of **2024-07-18 18:37:52**
 
 ## Newspaper Stats
 
-*Scraped **35,961** Articles*
+*Scraped **35,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 338
 bbccomsinhala | 352
 newsfirstlk | 363
 islandlk | 2,040
-economynextcom | 2,147
+economynextcom | 2,151
 dailyftlk | 2,281
 adalk | 3,249
 adaderanalk | 4,149
@@ -26,23 +26,47 @@ adaderanasinhalalk | 6,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,957 (100.0%) of 35,961 articles have been extended.
+35,961 (100.0%) of 35,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### නිලන්ත ජයවර්ධනව අනිවාර්ය නිවාඩු යවයි
+### Sri Lanka announces Rs13mn financial aid package to boost MSMEs
+
+*2024-07-18 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-announces-rs13mn-financial-aid-package-to-boost-msmes-172800/) · `en`
+
+ECONOMYNEXT – A 13 million rupee financial package, including both investment and working capital facilities, would be provided to micro, small, and medium-scale enterprises (MSMEs), Sri Lanka’s President Ranil Wickremesinghe has said.
+
+Under the scheme, ahead of local elections, loans will be provided at a concessional interest rate of 7 percent for a period of 10 years, with a maximum limit of 15 million rupees, the president’s media division said. “A total of Rs. 13 billion has been allocated for this scheme.”
+
+For MSMEs under the non-performing loans category, a working capital loan of up to 5 million rupees will be provided for a period of 5 years at an interest rate of 8 percent. The total allocated amount for this initiative is 5 billion rupees.
+
+“Strengthening MSMEs is crucial for the country’s progress,” Wickremesinghe was quoted in the statement. He also announced the establishment of a National Development Bank to provide necessary capital to MSMEs.
+
+...
+
+[Data](articles/63849f46.json)
+
+---
+
+### Nilantha Jayawardena sends mandatory leave
 
 *2024-07-18 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198959) · `si`
 
-රාජ්‍ය බුද්ධි සේවයේ හිටපු අධ්‍යක්ෂ නිලන්ත ජයවර්ධන මහතා අද (18) දින සිට වහාම ක්‍රියාත්මක වන පරිදි අනිවාර්ය නිවාඩු ගැන්වීමට ජාතික පොලිස් කොමිසම තීරණය කර තිබේ.
+Nilantha Jayawardena, former Director of State Intelligence Service, has taken mandatory leave starting today (18), while serving as Senior DIG.
 
-නිලන්ත ජයවර්ධන මහතා ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති (පරිපාලන) වශයෙන් රාජකාරී සිදුකරමින් සිටියදී මෙම තීරණය ගෙන ඇත.
+🟩
+
+Former Director of State Intelligence Service, Nilantha Jayawardena has decided to holiday to the immediate effect from today (18).
+
+The decision was taken while Nilantha Jayawardena was conducting the Senior DIG.
 
 ◼️
 
 [Data](articles/1f7c7250.json)
+
+[Extended Data](ext_articles/1f7c7250.ext.json)
 
 ---
 
@@ -55,6 +79,46 @@ Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena has been s
 ◼️
 
 [Data](articles/335ad7ec.json)
+
+[Extended Data](ext_articles/335ad7ec.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 304.00/10 to US dollar
+
+*2024-07-18 18:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-00-10-to-us-dollar-172788/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.00/10 to the US dollar on Thursday, from 303.80/304.00 to the US dollar on Wednesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.30/45 percent, down from 10.60/75 percent.
+
+A bond maturing on 15.12.2027 closed at 11.55/65 percent, down from 11.60/68 percent.
+
+A bond maturing on 01.05.2028 closed at 11.70/80 percent, down from 11.72/78 percent.
+
+A bond maturing on 15.09.2029 closed at 12.00/05 percent, down from 12.05/10 percent. (Colombo/Jul18/2024)
+
+◼️
+
+[Data](articles/762875da.json)
+
+---
+
+### Sri Lanka aims for ambitious 40-pct direct taxes by 2025
+
+*2024-07-18 17:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-aims-for-ambitious-40-pct-direct-taxes-by-2025-172810/) · `en`
+
+ECONOMYNEXT – Sri Lanka is targeting a 40 percent tax collection directly through income, wealth, and property taxes by 2025 from the current 30 percent with expanding tax nets and legal actions against tax dodgers, State Finance Minister Ranjith Siyambalapitiya said.
+
+Direct taxes are collected through individual can afford to pay taxes due to their higher income along with asset and property ownership.
+
+Since Sri Lanka faced an unprecedented economic crisis with sovereign debt default, both direct and indirect taxes have been increased while President Ranil Wickremesinghe’s administration is contemplating new wealth, property and inheritance taxes from next year in line with the commitments it agreed with the IMF.
+
+Siyambalapitiya said the island nation’s state revenue has increased to “almost 13 percent” of the gross domestic product (GDP) now from 8.3 percent in 2022.
+
+...
+
+[Data](articles/bcaff0d4.json)
 
 ---
 
@@ -121,6 +185,30 @@ WWW.SLBFEKFEKS APPLICAND WITHINE CARE LICENSE TO READ A LICENSE FOR A MONEY OR A
 [Data](articles/0e3552a6.json)
 
 [Extended Data](ext_articles/0e3552a6.ext.json)
+
+---
+
+### Sri Lanka stocks close down, John Keells, Hayleys drive turnover
+
+*2024-07-18 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-john-keells-hayleys-drive-turnover-172778/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.52 percent, or 62.03 points, at 11,768; while the more liquid S&P SL20 Index closed down 0.51 percent, or 17.48 points, at 3,439.
+
+Turnover was 1.1 million. A big part of this (Rs594mn) came from John Keells Holdings Plc (down at 194.00).
+
+“There was foreign buying on John Keells and foreign selling on Hayleys,” Softlogic Stockbrokers said.
+
+Hayleys Plc contributed Rs76mn to the turnover, and the share closed down at 100.25.
+
+“Initially there was buying interest in the market, but then during the course of the day momentum slowed and it ended in red territory.”
+
+Several companies had begun reporting interim results. “LIOC posted a profit of 3.8 billion due to increased revenue from fuel sales and bunkering.” The Lanka IOC Plc share closed up at 120.50.
+
+...
+
+[Data](articles/d2def37e.json)
 
 ---
 
@@ -1114,21 +1202,31 @@ Accordingly, the Teacher of the Provincial Director of Education SMW. Samarakoon
 
 ---
 
-### පාසල් පොතේ අත්සන් තබා ටියුෂන් කළ ගුරුවරයාගේ වැඩ තහනම්
+### The teacher's work was banned by signing in the school book
 
 *2024-07-18 13:05:05* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පොතේ-අත්සන්-තබා-ටියුෂන්-කළ-ගුරුවරයාගේ-වැඩ-තහනම්/11-410850) · `si`
 
-අනුරාධපුර නිවන්තකචේතිය විදුහලේ උසස් පෙළ ගණිත අංශ ගුරුවරයකු පාසල් කාලයේදී පාසලට පැමිණි බවට අත්සන් තබා පිටතට ගොස් පුද්ගලික පන්තියක (ටියුෂන්) ඉගැන්වීම් කටයුතු වලට ගොස් සිටිම හේතුවෙන්  වහාම ක්‍රියාත්මක වන පරිදි එම ගුරුවරයාගේ වැඩ තහනමට ලක් කල බව උතුරු  මැද පළාත් අධ්‍යාපන අධ්‍යක්ෂ කාර්යාලය පවසයි.
+A high school math teacher in Anuradhapura was banned after being found conducting private classes during school hours. The decision was made by the District Director of Education, Mr. Samarakoon, and the Provincial Additional Director (Administration), who visited the school. The teacher had signed the attendance document without realizing it was a mistake. The Principal noted the teacher's unawareness of the situation.
 
-අදාළ ගුරුවරයා ඊයේ (17දා ) පාසලට පැමිණ අත්සන් තබා පාසලෙන් පිටවී ගොස් පුද්ගලික අමතර  පංතියක් සිදු කරන බවට ලද තොරතුරක් මත පළාත් අධ්‍යාපන අධ්‍යක්ෂ එස්. එම්. ඩබ්ලිව්. සමරකෝන් මහතා සහ පළාත් අතිරේක අධ්‍යාපන අධ්‍යක්ෂ (පාලන),කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂවරයා සමග පාසලට ගොස් තිබේ.
+🟩
 
-එහිදී පාසලේ ආරක්ෂක අංශය පළාත් අධ්‍යාපන අධ්‍යක්ෂ ප්‍රමුඛ නිලධාරීන්ට සඳහන් කර ඇත්තේ අදාල ගුරුවරයා පාසලෙන් පිට වූ බවය.
+The teacher's office said that a high school mathematics of the school in Anuradhapura to be signed at a private class of school during school.
 
-අනතුරුව අදාළ පැමිණීමේ ලේඛන පරීක්ෂාවේදී අදාළ ගුරුවරයා පාසලට පැමිණි බවට අත්සන් තබා තිබූ බව සමරකෝන් මහතා සඳහන් කළේය.අදාළ ගුරුවරයාට පාසලේ වෙන්කර තිබූ කාලච්ඡේද තුනක් මගහැර පිටතට ගොස් ඇති බවට එහිදී අනාවරණය කර ගෙන ඇත.
+The District Director of Education S.. M. W. Mr. Samarakoon and Provincial Additional Director (Administration) have gone to school with the Director of the Divisional Education.
 
-...
+The security sector of the school has stated to the Provincial Director of Education, that the teacher left school.
+
+The teacher had then signed the school when the presence of the arrival documentary test.
+
+The Principal of the school also pointed out that this teacher did not know that he was not aware of the teacher in any way.
+
+The Provincial Director added that the teacher was banned into consideration and taken into consideration.
+
+◼️
 
 [Data](articles/2462814d.json)
+
+[Extended Data](ext_articles/2462814d.ext.json)
 
 ---
 
@@ -1194,23 +1292,31 @@ The US dollar purchasing price was 299.2042 rupees at Rs 299.2042 and the sales 
 
 ---
 
-### මොනරාගලින් අතුරුදන් වූ දැරිවියන් තිදෙනා වැලිවේරියෙන් සොයා ගනියි
+### Timbers of the Monday of Monday and disappear from Weliweriya
 
 *2024-07-18 12:42:28* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගලින්-අතුරුදන්-වූ-දැරිවියන්-තිදෙනා-වැලිවේරියෙන්-සොයා-ගනියි/11-410848) · `si`
 
-මොනරාගල මදුරුකැටිය ප්‍රදේශයේ පිහිටි සමාධි ළමා නිවාසයේ නේවාසිකව සිටින දැරියන් තිදෙනෙකු ඉකුත් (15) වෙනිදා පාසල් ගොස් ළමා නිවාසයට නොපැමිණ බියගම නිදහස් වෙළෙඳ කලාපයේ එක් දැරියකගේ මවගේ යෙහෙළියකගේ නිවසක සිටියදී 119 පොලිස් හදිසි දුරකථන ඇමතුමට ලද තොරතුරකට අනුව වැලිවේරිය පොලීසිය මඟින් සොයාගෙන තිබේ.
+Weliweriya Police found three underage girls from Samadhi Children's Home in Moneragala, alleging abuse. The girls, aged 14, 15, and 17, from Mahiyanganaya, visited several areas before being rescued. They complained about frequent attacks and unbearable living conditions. Authorities are conducting a medical exam and launching a special investigation.
 
-අවුරුදු 14,15 සහ 17 යන වියහි පසුවන මෙම දැරියන් තිදෙනා මහියංගනය,බලංගොඩ සහ කතරගම ප්‍රදේශ වල පදිංචිකාරියන් වන අතර මොනරාගල මදුරුකැටිය සමාධි ළමා නිවාසයේ නේවාසිකව සිටිති.
+🟩
 
-එසේ නේවාසිකව සිටි දැරියන් තිදෙනා 15 වෙනිදා ළමා නිවාසය ආසන්නයේ තිබෙන පාසලට ගොස් ළමා නිවාසයට නොපැමිණ බස්රථයකින් වැල්ලවායටත් වැල්ලවායෙන් තණමල්විලටත් ගොස් තණමල්විල සිට කොළඹ බසයකින් කඩුවෙල දක්වා ගොස් බියගම නිදහස් වෙළෙඳකලාපයේ සේවයකරන එක් මවකගේ නවාතැන්පොළකට ගොස් ඇත.
+The Weliweriya Police have recovered three residents of the Samadhi Children's Home in Moneragala, Mosqueseniya in Moneragala area.
 
-දැරියන් තිදෙනා පොලීසියට පැමිණ පවසා ඇත්තේ නිවාසයේ පාලිකාවගෙන් ළමා නිවාසයේ සිටින දැරියන්ට නිතර පහරදී හිංසාපීඩා කරන නිසා ඒවා ඉවසා ගත නොහැකිව ඔවුන් තිදෙනා මෙලෙස පැමිණි බවයි.
+The three women who were 14,15 and 17 years are residents of Mahiyanganaya and the Mosque, Moscokatiya Samadhi Children's Home.
 
-දැරියන් තිදෙනා වෛද්‍ය පරීක්ෂණයක් සඳහා යොමුකිරීමට වැලිවේරිය පොලීසිය කටයුතුයොදා ඇති අතර
+The three residents of the 15th have visited the Wellawaya and Wellawaya Tanamalwila from Wellawaya from Wellawaya, Kaduwela and served in the Biyagama Free Trade.
 
-...
+The three girls came to the police that they had frequently attacked the children of the house and could not tolerate their lives.
+
+The Weliweriya Police has taken action to direct the three girls to a medical examination.
+
+A special investigation is due to hold a special investigation from the Moneragala headquarters police bunker.
+
+◼️
 
 [Data](articles/19fa1cf1.json)
+
+[Extended Data](ext_articles/19fa1cf1.ext.json)
 
 ---
 
@@ -2233,97 +2339,5 @@ Meanwhile, due to the southwest season, the current wind condition is expected t
 [Data](articles/aa0e8ef8.json)
 
 [Extended Data](ext_articles/aa0e8ef8.ext.json)
-
----
-
-### Punchi Demony's death revealed
-
-*2024-07-18 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198935) · `si`
-
-In Yatiyantota, a four-year-old girl named Amaya was tragically killed by her mother, who then threw herself into a well. The incident occurred on the evening of the 16th, and the mother, identified as mute, is now under police protection due to her illness.
-
-🟩
-
-The four-year-old girl who had died of her mother was killed by her mother in the Yatiyantota area in Ruwanwella Police Division.
-
-Police said that the girl had commenced investigations on a well-known area in the area of ​​the area yesterday (17).
-
-The deceased is a small daughter named Amaya, a resident of Yatiyantota, Yatiyantota area.
-
-It has been revealed that the tragedy had taken place at 5.30 pm on the 16th of the next day.
-
-Investigations carried out by the police have revealed that the girl's mother had been thrown into well.
-
-The mother of the deceased girl is a dumb woman and is being treated under police protection as she was ill.
-
-◼️
-
-[Data](articles/23a79682.json)
-
-[Extended Data](ext_articles/23a79682.ext.json)
-
----
-
-### The symbol of the new political coalition
-
-*2024-07-18 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188737) · `ta`
-
-A new political coalition, independent of the PA, is forming for the Eddal Elections, backed by key parties like the Sri Lanka Freedom Party. Led by activists such as Anura Priyadarshana Yapa and Nimal Lansa, it aims to support President Ranil Wickremesinghe. Initially focused on supporting the president, it has grown into a significant political force, attracting members from various parties including the Sri Lanka PA, United People's Power, and SLFP. The coalition plans to contest under the Edit symbol but hasn't decided on its name yet.
-
-🟩
-
-The new political coalition, which is independent of the PA, is set to form a public coalition in the Eddal Elections. The coalition's activists Anura Priyadarshana Yapa and Nimal Lansa said that the general coalition was formed in collaboration with key parties, including the Sri Lanka Freedom Party.
-
-The above was stated at a special meeting held in Colombo yesterday (17). There is further stating,
-
-25 MPs are currently main activists. In addition, most members from the political parties of the Sri Lanka PA, the United People's Power and the Sri Lanka Freedom Party (SLFP) are joining.. They will join after the presidential election was announced. At the time, the number of members would exceed 45.
-
-...
-
-[Data](articles/3c8d9c14.json)
-
-[Extended Data](ext_articles/3c8d9c14.ext.json)
-
----
-
-### Ranil will support Ranil as common candidate in the presidential election - New Political Alliance
-
-*2024-07-18 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188735) · `ta`
-
-A new political alliance endorses President Ranil Wickremesinghe as the common candidate for Sri Lanka's upcoming presidential election, citing his unique ability to revive the economy amidst criticism from other candidates lacking development plans. The alliance emphasizes Wickremesinghe's leadership during challenging times and calls for unity to ensure his success, despite accusations of self-serving motives from opposition figures.
-
-🟩
-
-No one else except President Ranil Wickremesinghe is able to build Sri Lanka economically. The new political coalition, which said he would support him to contest the proposed presidential election as a common candidate, said the other presidential candidates were working to recover the country as they had no development plans.
-
-The above was stated when the editors of the national newspapers met yesterday (17). Parliamentarians Anura Priyadarshana Yapa, Nimal Lansa, Sudath Manjula and Commerce Minister Nalin Peranando were also present at the meeting.
-
-We all know the economic and political destruction of the country after 2020. No political leader has come to take charge of the country. The manifestation of many sacrifices and hard work today has made some country progress. There is no other leaders who can economically rescue the country besides President Ranil Wickremesinghe. He is only in the present period.
-
-...
-
-[Data](articles/bc72ed4b.json)
-
-[Extended Data](ext_articles/bc72ed4b.ext.json)
-
----
-
-### Member of Parliament in connection with a jeep
-
-*2024-07-18 08:45:33* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රීවරයෙක්ගේ--ජීප්-රථයක්-අනතුරකට-ලක්වෙයි/11-410846) · `si`
-
-MP Tissa Attanayake, traveling in a luxury jeep, was involved in a car accident near Salusala. The driver and passenger were injured and hospitalized in Narahenpita.
-
-🟩
-
-The luxury jeep who was traveling by MP Tissa Attanayake in the Samagi Tissa Tissa Attanayake was injured in a car accident near the Salusala near the Salusala area near the Salusala.
-
-The injured were the driver and passenger of the car and was admitted to a private hospital in Narahenpita.
-
-◼️
-
-[Data](articles/ee94749a.json)
-
-[Extended Data](ext_articles/ee94749a.ext.json)
 
 ---

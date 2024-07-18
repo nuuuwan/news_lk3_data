@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 16:07:37**
+As of **2024-07-18 16:20:10**
 
 ## Newspaper Stats
 
-*Scraped **35,934** Articles*
+*Scraped **35,936** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 318
 colombotelegraphcom | 338
-bbccomsinhala | 351
+bbccomsinhala | 352
 newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,146
 dailyftlk | 2,281
 adalk | 3,246
-adaderanalk | 4,143
+adaderanalk | 4,144
 tamilmirrorlk | 4,357
 dailymirrorlk | 4,733
 virakesarilk | 5,607
@@ -26,29 +26,55 @@ adaderanasinhalalk | 6,011
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,931 (100.0%) of 35,934 articles have been extended.
+35,934 (100.0%) of 35,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### මුහුද රළුවීම ගැන අනතුරු ඇඟවීමක්
+### A fire kills 16 people at a shopping mall in southwestern China
 
-*2024-07-18 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198951) · `si`
+*2024-07-18 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100600/a-fire-kills-16-people-at-a-shopping-mall-in-southwestern-china) · `en`
 
-හෙට (19) පස්වරු 1 තෙක් වලංගු වන පරිදි මුහුද රළුවීම පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+A fire at a shopping mall killed 16 people Wednesday in the southwestern Chinese city of Zigong, state media reported.
 
-එහි දැක්වෙන්නේ කන්කසන්තුරය සිට මන්නාරම හරහා පුත්තලම දක්වා සහ හම්බන්තොට සිට පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින්විට පැ.කි.මී 60ත් 65ත් දක්වා වැඩිවිය හැකි බවය.
+Firefighters and rescuers responded to a fire call shortly after 6 p.m. at the 14-story commercial building, and pulled 75 people to safety, according to the official news agency Xinhua.
 
-එම මුහුදු ප්‍රදේශ විටින්විට ඉතා රළු වන බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Rescue efforts were ongoing. It was not immediately known what caused the fire or how many people were in the building when the fire broke out. The building houses a department store, offices, restaurants and a movie theater.
 
-ත්‍රිකුණාමලය සිට මුලතිව් හරහා කන්කසන්තුරය දක්වා සහ පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළ‌ඟේ වේගය විටින්විට පැ.කි.මී 50ත් 55ත් දක්වා වැඩි විය හැකි අතර එම මුහුදු ප්‍රදේශ විටින්විට රළු වන බවද එම නිවේදනයේ සඳහන් වෙයි.
-
-කල්පිටියේ සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් (2.0 – 2.5) ක් පමණ ඉහළ යාමේ හැකියාවක් පවතින අතර මෙය ගොඩබිමට එන රළ හි  උස නොවන බවද දැනුම් දී ඇත.
+Social media video posts showed clouds of thick black smoke coming out of windows from the building’s lower levels and engulfing the entire 14-story structure as they rose into the sky. Huge flames were visible, and firefighters fought the fire with water sprays. Local media said firefighters also used several drones.
 
 ...
 
+[Data](articles/d6c71fab.json)
+
+---
+
+### A warning of the sea
+
+*2024-07-18 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198951) · `si`
+
+The sea warns of rough conditions from Kankesanthurai to Mannar and Hambantota to Pottuvil, with wind speeds reaching 50-55 knots off Trincomalee to Hambantota. Waves are expected to rise from Kalpitiya to Pottuvil. The Meteorology Department advises caution to fisheries and naval communities.
+
+🟩
+
+The sea has issued an announcement in an announcement of the sea to be valid tomorrow (19).
+
+It states that the winds of the sea areas off the Kankesanthurai to Mannar and from Hambantota to Pottuvil.
+
+The sea areas will be very rough at times.
+
+The breeze of the sea areas off Trincomalee to Hambantota via Mullaitivu and the coast extending from Puttalam to Hambantota via Hambantota can increase from time to 50 and 55th.
+
+It is informed that the sea waves are uplifting from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil.
+
+The Department of Meteorology points out that the fisheries and the naval community is requested to pay attention to this.
+
+◼️
+
 [Data](articles/8729f914.json)
+
+[Extended Data](ext_articles/8729f914.ext.json)
 
 ---
 
@@ -128,17 +154,23 @@ Uganda boys re -created a satirical shoot when the boy who played the trump pump
 
 ---
 
-### නැවතත් දුම්රිය වර්ජනයක් ?
+### Again Railway strike?
 
 *2024-07-18 15:12:06* · [`adalk`](https://www.ada.lk/breaking_news/නැවතත්-දුම්රිය-වර්ජනයක්--/11-410853) · `si`
 
-උසස්වීම ලබානොදීම ඇතුළු ඉල්ලීම් 14ක් මුල්කරගනිමින් පසුගිය සතියේ දින 2ක් දුම්රිය ස්ථානාදිපතිවරුන් වැඩවර්ජනයක නිරතවිය. එම ඉල්ලීම් දාහතරෙන් හයක් කැබිනට් පත්‍රිකාවක් මගින් ජූලි 15 වැනිදා සිට විසඳන බවට ප්‍රවාහන අමාත්‍යවරයා දුන් පොරොන්දුවක් මත වර්ජනය අත්හරිනු ලැබීය. පොරෙන්දුවූ පරිදි තම ඉල්ලීම් මෙතෙක් (18) ඉටුකර නැතැයි එම සංගමය පවසයි.
+Railway station workers at Foreign (School) went on strike last week over 14 issues, including promotions. Despite promises to address these concerns by July 15, the Association claims no progress has been made. They threaten another strike if their demands aren't met, affecting train travelers.
 
-මෙම ගැටලුවලට පොරෙන්දුවූ පරිදි විසඳුම් ලබා නොදුනහොත් නැවතත් වැඩ වර්ජනයකට යෑමට සිදුවන බවත් ඉන් දුම්රිය මගීන්ට සිදුවන අපහසුතා ආණ්ඩුව විසින් භාරගතයුතු බවටත් ඔවුන් විසින් දන්වා සිටියි.
+🟩
+
+Last week, railway points of railway Station Foreign (SCHOOL) launched a strike on 14 demands, including the non-promotion. The strike was abandoned by a prominent that sixteen those requests will be resolved by a cabinet paper from July 15. The Association says that his demands have not been fulfilled so far (18) as perished.
+
+They have informed that if they do not have the solution to these problems, they will have to take back to strike and take the difficulty incurred to travel to train passengers.
 
 ◼️
 
 [Data](articles/fee3e6dd.json)
+
+[Extended Data](ext_articles/fee3e6dd.ext.json)
 
 ---
 
@@ -242,19 +274,29 @@ President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena were presen
 
 ---
 
-### வாட்ஸ்அப்பில் பிடித்த அம்சம்
+### Favorite feature on WhatsApp
 
 *2024-07-18 14:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்பில்-பிடித்த-அம்சம்/57-340624) · `ta`
 
-வாட்ஸ்அப் பயனர்கள் தங்களது ஃபேவரைட்( பிடித்த) நபர்கள் மற்றும் குழுக்களுடன் எளிதில் தொடர்பில் இருக்கும் வகையில் ‘ஃபேவரைட்ஸ்’ அம்சத்தை மெட்டா அறிமுகம் செய்துள்ளது. இதன் மூலம் சாட் டேபில் ஃபில்டராகவும், அழைப்புகள் டேபில் மேல் பக்கமும் பயனர்கள் தங்களது ஃபேவரைட்களை அடையாளம் காணலாம்.
+WhatsApp introduces a 'Favorites' feature allowing users to quickly access their most frequently contacted individuals and groups. By adding contacts or groups to favorites, they appear at the top of the chats and calls tabs, enhancing user convenience. This update aims to improve user experience by making communication more efficient.
 
-வாட்ஸ்அப் மெசஞ்சரை உலக அளவில் சுமார் 200 கோடிக்கும் மேற்பட்ட பயனர்கள் பயன்படுத்தி வருகின்றனர். டெக்ஸ்ட் மெசேஜ், போட்டோ, வீடியோ, ஆடியோ மற்றும் அழைப்புகளை மேற்கொள்ள பயன்படுத்தப்பட்டு வருகிறது இந்தத் தளம்.
+🟩
 
-தங்களது பயனர்களுக்கு தனித்துவமான பயன்பாட்டு திருப்தியை வழங்கும் விதமாக அவ்வப்போது புதிய அப்டேட்களையும், அம்சங்களையும் மெட்டா நிறுவனத்தின் வாட்ஸ்அப் அறிமுகம் செய்வது வழக்கம். அந்த வகையில் ஃபேவரைட்ஸ் அம்சம் தற்போது வெளிவந்துள்ளது.
+WhatsApp users have introduced the Favorites' telephone feature to be easily connected to their favorite) people and groups. This means that users can identify their furves on the Filter at the Chad Tab and the top side of the calls tab.
+
+WhatsApp Messenger is being used by over 200 crore users worldwide. The site is being used to make text message, photo, video, audio and calls.
+
+It is customary to introduce new updates and features from time to time to provide their users a unique application satisfaction.. The feature of the Favorites has now been revealed.
+
+Favorites feature: Users can add their family members, friends and key groups to the list of Favorites through this feature. Such inclusive canot and groups (Group's) will be on the top of the Tabs and Calls (Calls) Top Top. It can be easily connected to those condoms and groups through it.
+
+Currently this feature is becoming gradually introduced to users. All WhatsApp users are expected to be available in the next few weeks.
 
 ...
 
 [Data](articles/1f72d693.json)
+
+[Extended Data](ext_articles/1f72d693.ext.json)
 
 ---
 
@@ -1508,6 +1550,28 @@ In this case, as the visa period ended, Vijitha, who was ready to depart from th
 
 ---
 
+### කන්ජිපානිට සහ ගනේමුල්ලේ සංජීවට රටින් පැනයෑමට උපකාර කළ නීතිඥයින් ගැන පොලීසිය භාර ඇමති කියයි
+
+*2024-07-18 09:48:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl5yzz9n1elo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''කුඩු සල්ලිවලින් යැපෙන නීතිඥවරු සෙට් එකක් ඉන්නවා.''
+
+කන්ජිපානිට සහ ගනේමුල්ලේ සංජීවට රටින් පැනයෑමට උපකාර කළ නීතිඥයින් ගැන පොලීසිය භාර ඇමති කියයි
+
+පොලීසියට අවශ්‍යව සිටින කන්ජිපානි ඉම්රාන් සහ ගනේමුල්ලේ සංජීවට රටින් පැන යෑම සඳහා උපකාර කළේ ඔවුන්ගේ නීතිඥයින් බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් අද (ජූලි 18) කොළඹ පැවති මාධ්‍ය හමුවක දී සඳහන් කළේය.
+
+''ඒ නීතිඥවරු තමයි ඒගොල්ලන්ව පැන්නුවේ. උසාවියෙන්ම අරගෙන ගිහින් පැන්නුවේ. දැන් ඒගොල්ලන්ව අපි අත්අඩංගුවට ගත්තහම කතාව හොඳට කියනවා. බාගයක් දුර ගෙනිහිල්ලා තව කාටද භාර දුන්නා. ඒගොල්ලන් ගෙනිහිල්ලා බෝට්ටුවට දැම්මා.'' යනුවෙන් ඔහු පැවසුවේය.
+
+2023 දෙසැම්බර් 17 දින යුක්තිය මෙහෙයුම ආරම්භ කළ දා පටන් රුපියල් බිලියන 19ක් වටිනා මත්ද්‍රව්‍ය පොලීසිය භාරයට ගෙන ඇති බවත්, ගිනිඅවි 955ක් සොයාගෙන ඇති බවත් මහජන ආරක්ෂක අමාත්‍යවරයා කියා සිටියේය.
+
+යුක්තියේ මෙහෙයුම නිසා අපරාධ අඩුවී ඇති අයුරු ඔහු විස්තර කරන ලදී.
+
+◼️
+
+[Data](articles/0831e317.json)
+
+---
+
 ### Corona
 
 *2024-07-18 09:46:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைடனுக்கு-கொரோனா/50-340596) · `ta`
@@ -2219,37 +2283,5 @@ When promising ventures fall short of an investor’s expectations, bridging the
 [Data](articles/4b37602d.json)
 
 [Extended Data](ext_articles/4b37602d.ext.json)
-
----
-
-### Clean energy or clean Government?
-
-*2024-07-18 03:37:55* · [`dailyftlk`](https://www.ft.lk/columns/Clean-energy-or-clean-Government/4-764404) · `en`
-
-Clean energy, such as wind energy, can never be clean unless its procurement is also clean
-
-This is my final response to Gerald L. Samaranayake (my time is precious), who keeps repeating himself ad nauseam while erecting ever more strawmen (see Daily FT, 13 July: https://www.ft.lk/opinion/Adani-wind-project-Is-it-a-controversy-created/14-764216).
-
-...
-
-[Data](articles/d0111283.json)
-
-[Extended Data](ext_articles/d0111283.ext.json)
-
----
-
-### What will it take to keep the lights on?
-
-*2024-07-18 03:18:40* · [`dailyftlk`](https://www.ft.lk/columns/What-will-it-take-to-keep-the-lights-on/4-764403) · `en`
-
-Sanjiva Weerawarana, whose software company WSO2 was recently acquired for $ 600 million, was asked by an interviewer what he wanted of Government. Keep the lights on, he said.
-
-It’s a succinct answer that embodies much. It can be interpreted as a statement that the State should focus on providing what we cannot provide for ourselves: law and order, most infrastructure services, and even things like identity and authentication services. But for the moment, let’s take just the literal meaning: uninterrupted electricity.
-
-...
-
-[Data](articles/599e2bb4.json)
-
-[Extended Data](ext_articles/599e2bb4.ext.json)
 
 ---

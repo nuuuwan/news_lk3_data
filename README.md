@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 12:08:45**
+As of **2024-07-18 12:20:08**
 
 ## Newspaper Stats
 
-*Scraped **35,889** Articles*
+*Scraped **35,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,82 @@ economynextcom | 2,140
 dailyftlk | 2,279
 adalk | 3,241
 adaderanalk | 4,138
-tamilmirrorlk | 4,346
+tamilmirrorlk | 4,347
 dailymirrorlk | 4,733
-virakesarilk | 5,599
+virakesarilk | 5,601
 adaderanasinhalalk | 6,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,881 (100.0%) of 35,889 articles have been extended.
+35,889 (100.0%) of 35,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### එංගලන්ත යොවුන් ක්‍රීඩකයින්ගෙන් ප්‍රබල පිළිතුරක්
+### சட்டவிரோத மீன்பிடியால் கடல் முலையூட்டிகள் அழிவு  ; வனஜீவராசிகள் திணைக்களம்
+
+*2024-07-18 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188744) · `ta`
+
+நாட்டின் கடற்பகுதிகளில் சட்டவிரோத மீன்பிடியில் ஈடுப்படுவதால் ஆமைகள் மற்றும் டொல்பின்கள் போன்ற கடல்  முலையூட்டிகள் உயிரிழப்பதாக வனஜீவராசிகள் திணைக்களம் தெரிவித்துள்ளது.
+
+தடைசெய்யப்பட்ட வலைகளை பயன்படுத்தி மீன் பிடிப்பதால் அனைத்து மீன்கள் உட்பட கடல் முலையூட்டிகள் இறக்கின்றன.
+
+இந்நிலையில், மேற்கு கரையோரப் பகுதிகளில் ஒரு வாரத்திற்குள் 10 ஆமை சடலங்களை திணைக்கள அதிகாரிகள் மீட்டுள்ளனர்.
+
+மீட்கப்பட்ட ஆமைகளின் உடல்களில் மேற்கொள்ளப்பட்ட பிரேத பரிசோதனைகளில் அவைகள் சுவாசிப்பதில் சிரமம், காயங்கள் மற்றும் செதில்கள் சேதமடைதல் காரணமாகவே உயிரிழந்துள்ளதாக  வனவிலங்கு கால்நடை மருத்துவர்கள் தெரிவித்துள்ளனர்.
+
+சட்டவிரோத மீன்பிடி முறைகளினாால் கடல் ஆமைகள் அழிவது மட்டுமல்லாமல் டொல்பின்கள் போன்ற கடல் முலையூட்டிகளுக்கும் தீங்கு விளைவிக்கப்படுகிறது.
+
+எனவே, கடல் முலையூட்டிகளை பாதுகாப்பதற்காக சட்டவிரோத மீன்பிடி நடவடிக்கைகள் தொடர்பில் அவதானமாக இருக்குமாறும், உரிய அதிகாரிகளுக்கு அறிவிக்குமாறும் வனஜீவராசிகள் திணைக்களம்  பொதுமக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/3cd79126.json)
+
+---
+
+### ஞானசார தேரருக்கு பிணை
+
+*2024-07-18 11:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசார-தேரருக்கு-பிணை/175-340614) · `ta`
+
+பொதுபல சேனா அமைப்பின் பொதுச் செயலாளர் வண. கலபொட அத்தே ஞானசார தேரர் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+முஸ்லிம் சமூகத்தின் மத நம்பிக்கைகளை அவமதிக்கும் வகையில், வெறுப்புணர்வை கடந்த மார்ச் மாதம் 28ஆம் திகதி வெளிப்படுத்தினார் என்ற  குற்றச்சாட்டின் பேரில், ஞானசார தேரருக்கு நான்கு வருட கடூழிய சிறைத்தண்டனையை கொழும்பு மேல் நீதிமன்றம் வழங்கியிருந்தது.
+
+இந்த தண்டனைக்கு எதிராக, ஞானசார தேரர் மேன்முறையீட்டு நீதிமன்றத்தில் மேன்முறையீடு செய்திருந்தமை குறிப்பிடத்தக்கத.
+
+◼️
+
+[Data](articles/c848be7c.json)
+
+---
+
+### A powerful answer from England Young Players
 
 *2024-07-18 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198943) · `si`
 
-සංචාරක ශ්‍රී ලංකා යොවුන් කණ්ඩායම සහ එංගලන්ත යොවුන් කණ්ඩායම අතර පැවැත්වෙන නිල නොවන දෙවැනි  ක්‍රිකට් තරගයේ තුන්වැනි දිනය අද ය.
+In the third day of the non-official second cricket match between the Tourism Sri Lanka Youth Group and England Youth Group, Sri Lanka made 153 runs losing all wickets in their first innings. In response, England Youth scored 401 runs, losing 5 wickets. Notable performances included Hamza Shaikh scoring 107, Roki Flinoff remaining unbeaten with 82 runs, and Fonseka, of Sri Lankan origin, contributing 76 runs for England.
 
-ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලු දෙනා දැවී ලකුණු 153ක් ලබාගත්තේය.
+🟩
 
-පිළිතුරු ලෙස සත්කාරක එංගලන්ත යොවුන් කණ්ඩායම සිය පළමු ඉනිම සඳහා ඊයේ (17) දිනය නිමාවන විට කඩුලු 5ක් දැවී ලකුණු 401ක් ලබා සිටියේය.
+Today is the third day of the non-official second cricket match between the Tourism Sri Lanka Youth Group and England Youth Group.
 
-නායක හම්සා ෂයික් ලකුණු 107යි. රොකි ෆ්ලින්ටොෆ් නොදැවී ලකුණු 82යි.
+Sri Lanka scored 153 runs for the loss of everyone for their first innings.
 
-ශ්‍රී ලාංකික සම්භවයක් ඇති කේෂන ෆොන්සේකා එංගලන්තය වෙනුවෙන් ලකුණු 76ක් රැස්කළේය.
+As the answer, the Host England Youth team scored 401 runs for the loss of 5 wickets at the end of their first innings.
+
+Leader Hamza Shaikh scores 107. Roki Flinoff is unbeaten and 82 runs.
+
+Sri Lankan origin, Fonseka, scored 76 runs for England.
 
 ◼️
 
 [Data](articles/1e1a5ea8.json)
+
+[Extended Data](ext_articles/1e1a5ea8.ext.json)
 
 ---
 
@@ -65,6 +109,8 @@ On March 28, 2024, the Colombo High Court sentenced Gnanasara Thero to four year
 ...
 
 [Data](articles/424d052f.json)
+
+[Extended Data](ext_articles/424d052f.ext.json)
 
 ---
 
@@ -108,23 +154,31 @@ However, Thondaman said that in order for those living on estates to have houses
 
 [Data](articles/1035a861.json)
 
+[Extended Data](ext_articles/1035a861.ext.json)
+
 ---
 
-### ඥානසාර හිමිට ඇප
+### Gnanasara Thero released on bail
 
 *2024-07-18 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198942) · `si`
 
-බරපතළ වැඩසහිත වසර හතරක සිරදඬුවම් නියම වී සිටි පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් ඇප මත මුදා හැරීමට අභියාචනාධිකරණය නියම කර තිබේ.
+Gnanasara Thero granted bail; Court of Appeal hears case; revision petition filed; press conference on Kuragala Viharaya; case discussed in Colombo High Court on March 28th.
 
-ඥානසාර හිමියන් විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සමක් විභාග කිරීමෙන් අනතුරුව අභියාචනාධිකරණය එම නියෝගය නිකුත් කරනු ලැබීය.
+🟩
 
-කූරගල විහාරස්ථානය සම්බන්ධයෙන් පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඉස්ලාම් ආගමට අපහාස වන ආකාරයේ ප්‍රකාශයක් සිදුකිරීමෙන් ආගමික සමගිය කඩකිරීමේ චෝදනා මත බොදුබල සේනා සංවිධානයේ මහලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමිට බරපතළ වැඩසහිත වසර 4ක සිරදඬුවම් නියම කෙරුණි.
+The Court of Appeal has set up four-year-old Ven.
 
-ඒ, පසුගිය මාර්තු මස 28 වැනිදා කොළඹ මහාධිකරණය හමුවේ අදාළ නඩුව විභාගයට ගත් අවස්ථාවේදීය.
+The Court of Appeal was issued after hearing a revision petition filed by Gnanasara Thera.
+
+At a press conference regarding the Kuragala Viharaya, the Bodu Bala Sena Ven.
+
+It was when the case was taken up before the Colombo High Court on the 28th of March.
 
 ◼️
 
 [Data](articles/dcb894f0.json)
+
+[Extended Data](ext_articles/dcb894f0.ext.json)
 
 ---
 
@@ -145,6 +199,8 @@ On 16 July 2022, the Mayor of Kurunegala had demolished the said building for a 
 ...
 
 [Data](articles/bcbd2ad6.json)
+
+[Extended Data](ext_articles/bcbd2ad6.ext.json)
 
 ---
 
@@ -185,6 +241,22 @@ Issuing a statement on Wednesday (17), the international watchdog stated that as
 [Data](articles/3ba5ddfd.json)
 
 [Extended Data](ext_articles/3ba5ddfd.ext.json)
+
+---
+
+### யாழில் சுகாதார அமைச்சரின் கூட்டத்தில் குழப்பம் விளைவித்தவருக்கு பிணை
+
+*2024-07-18 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188743) · `ta`
+
+யாழ்ப்பாணத்தில் சுகாதார அமைச்சர் பங்கேற்ற கலந்துரையாடலில் குழப்பம் விளைவித்த குற்றச்சாட்டில் கைது செய்யப்பட்ட நபரை 75 ஆயிரம் ரூபாய் சரீர பிணையில் செல்ல அனுமதித்த சாவகச்சேரி நீதவான் நீதிமன்று , வழக்கினை எதிர்வரும் 21ஆம் திகதிக்கு ஒத்திவைத்தது.
+
+வடக்கு மாகாணத்தின் சுகாதார மேம்பாடுகள் தொடர்பான கலந்துரையாடல் வடக்கு மாகாண சபை கேட்போர் கூடத்தில் சுகாதார அமைச்சர் ரமேஷ் பத்திரண தலைமையில் நேற்று புதன்கிழமை நடைபெற்ற போது குழப்பத்தில் ஈடுபட்டார் என்ற குற்றச்சாட்டில் சாவகச்சேரி பொலிஸாரால் குறித்த நபர் செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட நபரை விசாரணைகளின் பின்னர் , சாவகச்சேரி நீதவான் நீதிமன்றில் முற்படுத்திய போதே , பிணையில் செல்ல நீதிமன்று அனுமதித்தது.
+
+◼️
+
+[Data](articles/59285a40.json)
 
 ---
 
@@ -249,6 +321,8 @@ Fitch said NITF’s gross premiums would surge in 2024 following a after directi
 ...
 
 [Data](articles/9109cc21.json)
+
+[Extended Data](ext_articles/9109cc21.ext.json)
 
 ---
 
@@ -465,6 +539,8 @@ In equities, Colombo’s All Share Price Index opened 19.09 points higher at 11,
 ◼️
 
 [Data](articles/be736069.json)
+
+[Extended Data](ext_articles/be736069.ext.json)
 
 ---
 
@@ -807,6 +883,8 @@ Passenger traffic, which includes regional transit passengers, at the Bandaranai
 ...
 
 [Data](articles/f15ca9d8.json)
+
+[Extended Data](ext_articles/f15ca9d8.ext.json)
 
 ---
 
@@ -2147,67 +2225,5 @@ Sadaharitha Plantations Limited (Sadaharitha), Sri Lanka’s No.1 commercial for
 [Data](articles/c1711050.json)
 
 [Extended Data](ext_articles/c1711050.ext.json)
-
----
-
-### CEAT Kelani wins 8 Golds for Quality Improvement at National Convention on Quality & Productivity
-
-*2024-07-17 20:58:00* · [`islandlk`](http://island.lk/ceat-kelani-wins-8-golds-for-quality-improvement-at-national-convention-on-quality-productivity/) · `en`
-
-Eight Quality Improvement Projects implemented at CEAT Kelani Holdings have won Gold awards for Sri Lanka’s leading tyre manufacturer at the National Convention on Quality and Productivity (NCQP) 2024, organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP).
-
-Noteworthy about this achievement was that every Quality Improvement Project presented by CEAT Kelani at the convention received a Gold award, and the teams that presented them have qualified to represent Sri Lanka at the International Convention on Quality Control Circles (ICQCC) 2024, to be held in Colombo in November.
-
-...
-
-[Data](articles/f244713f.json)
-
-[Extended Data](ext_articles/f244713f.ext.json)
-
----
-
-### Doctors died in an accident
-
-*2024-07-17 20:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-வைத்தியர்-உயிரிழந்தார்/175-340578) · `ta`
-
-In a tragic accident involving a SLTB bus and a cement lorry on the Chilaw-Colombo road, Dr. Sebalika Vanamali, a 37-year-old physician from Natandia-Dungannawa, lost her life while en route to treat victims at Chilaw General Hospital. The incident occurred on the 4th of last month, resulting in 27 injuries, including the doctor herself. After initial treatment at Chilaw Hospital, she was transferred to Colombo National Hospital where she later passed away.
-
-🟩
-
-A woman who was working at the Chilaw Hospital died after being treated at the Colombo National Hospital.
-
-The 37 -year -old Sebalika Vanamali, a doctor from Natandia - Dungannawa, died in the accident.
-
-A bus belonging to the Sri Lanka Transport Board (SLTB) and a cement loaded with a lorry crashed into the Chilaw -Colombo road on the 4th of last month.
-
-The bus that was traveling from the Dewala junction towards Chilaw's direction crashed into a cement lorry that was traveling in Puttalam.
-
-About 27 people were injured in the accident and were admitted to Chilaw General Hospital for treatment.
-
-Unfortunately when the doctor was traveling to the Chilaw General Hospital on the same bus, he crashed.
-
-The injured doctor was taken to Chilaw Hospital for treatment and was transferred to Colombo National Hospital yesterday (15).. Remble
-
-◼️
-
-[Data](articles/901ab3ed.json)
-
-[Extended Data](ext_articles/901ab3ed.ext.json)
-
----
-
-### SLT-MOBITEL offers tailor-made connectivity solutions for Uber
-
-*2024-07-17 20:56:00* · [`islandlk`](http://island.lk/slt-mobitel-offers-tailor-made-connectivity-solutions-for-uber/) · `en`
-
-Designed to fulfill the dynamic connectivity needs of merchants, couriers and drivers registered on the Uber platform
-
-SLT-MOBITEL, the National ICT Solutions Provider, and Sri Lanka’s most-loved ride hailing and food delivery app, Uber, have come together to offer tailor-made, value-added connectivity solutions for merchants, couriers, and drivers registered on Uber’s platform in Sri Lanka.
-
-...
-
-[Data](articles/e1e541f5.json)
-
-[Extended Data](ext_articles/e1e541f5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 23:35:38**
+As of **2024-07-18 23:55:25**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,994 (100.0%) of 35,995 articles have been extended.
+35,995 (100.0%) of 35,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### பங்களாதேசில் வன்முறை தொடர்கின்றது – அரச தொலைக்காட்சியின் தலைமையகத்திற்கு தீவைப்பு
+### Violence continues in Bangladesh - fire to headquarters of state television
 
 *2024-07-18 23:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/188799) · `ta`
 
-பங்களாதேசில் அரசவேலைவாய்ப்பில் ஒதுக்கீடுகளிற்கு எதிரான மாணவர் போராட்டம் தொடருகின்ற அதேவேளைஆர்ப்பாட்டக்காரர்கள் தலைநகர் டாக்காவில் அரசதொலைக்காட்சி  தலைமையலுவலகத்திற்கு தீவைத்துள்ளனர்.
+Protests in Bangladesh over the allocation of government jobs to freedom fighters' families turned violent, leading to clashes that left 17 dead and over 100 students injured. Demonstrations against the system, which also benefits women and minorities, intensified after the High Court ordered its partial restoration. Students clashed at Dhaka University, and the headquarters of state television was set on fire.
 
-டாக்காவில் தலைமை அலுவலகத்திற்குள் பலர் சிக்குண்டுள்ளனர்.உள்ளே சிக்குண்டுள்ளவர்கள் தங்களை காப்பாற்று தீயணபை;பு பிரிவினருக்கு அழைப்பு விடுத்துள்ளனர்.
+🟩
 
-பங்களாதேசில் சுதந்திர போராட்ட வீரர்களின் குடும்பத்தவர்களிற்கு  அரசாங்க வேலைவாய்ப்பில்; ஒதுக்கீட்டை எதிர்க்கும்  மாணவர்களிற்கும் ஆளும் கட்சியின் ஆதரவாளர்களிற்கும் இடையில் இடம்பெற்ற மோதல்கள் காரணமாக17 பேர் கொல்லப்பட்டுள்ளனர். 100க்கும் அதிகமான மாணவர்கள் காயமடைந்துள்ளனர்.
+While the student struggle against the allocation of the royal work in Bangladesh is continuing, the demonstrators have set fire to the headquarters headquarters in the capital Dhaka.
 
-1971 ம் ஆண்டு சுதந்திரபோராட்டத்தில் ஈடுபட்டவர்களின் பிள்ளைகள் உட்பட விசேட குழுவினருக்கு ஆயிரக்கணக்கான அரசவேலை வாய்ப்புகளை ஒதுக்கும் நடைமுறை பங்களாதேசில் காணப்படுகின்றது.
+Many people inside the head office in Dhaka have called on the firefighters to protect themselves.
 
-இந்த முறையின் கீழ் பெண்கள் மாற்றுத்திறனாளிகள் சிறுபான்மை இனக்குழுக்களை சேர்ந்தவர்களிற்கு அரசவேலைகளில் ஒதுக்கீடு வழங்கப்படுவது குறிப்பிடத்தக்கது.
+In government employment for the families of freedom fighters in Bangladesh;17 people have been killed due to clashes between students and supporters of the ruling party.More than 100 students were injured.
+
+In 1971, the practice of allocating thousands of state work for a special group, including the children of the freedom struggle, is found in Bangladesh.
+
+It is noteworthy that under this method, women of women and minority ethnic groups are allocated in the state.
+
+There were fierce demonstrations following the suspension of the process in 2018.
+
+Last month, the High Court ordered that 30 percent of the allocation of the families of those involved in the freedom struggle be restored.
 
 ...
 
 [Data](articles/fc2bb2cf.json)
+
+[Extended Data](ext_articles/fc2bb2cf.ext.json)
 
 ---
 

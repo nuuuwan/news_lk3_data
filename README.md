@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 03:05:16**
+As of **2024-07-19 03:20:21**
 
 ## Newspaper Stats
 
@@ -26,47 +26,61 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,000 (100.0%) of 36,002 articles have been extended.
+36,002 (100.0%) of 36,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### சஜித் அணியில் மூவருக்கு சிக்கல்
+### The trio of Sajith team has trouble
 
 *2024-07-19 00:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-அணியில்-மூவருக்கு-சிக்கல்/175-340667) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களான பீல்ட் மார்ஷல் சரத் பொன்சேகா, ராஜித சேனாரத்ன, குமார வெல்கம ஆகியோருக்கு கட்சியின் கூட்டங்கள்,நிகழ்வுகள் மற்றும் ஏனைய நடவடிக்கைகளில் கலந்துகொள்வதற்கு இடமளிப்பதில்லையென ஜக்கிய மக்கள் சக்தி தீர்மானித்துள்ளது.
+Sajith's team members, including MPs Sarath Fonseka, Rajitha Senaratne, and Kumara Welgama, have opted out of party gatherings due to their public criticisms against the party and its leadership. This comes after Sarath Fonseka's critical speech in Parliament about the party leadership. The party has decided to replace Sarath Fonseka as the leader, signaling a shift in leadership.
 
-கட்சி மற்றும் கட்சித் தலைமைத்துவம் மீதான இவர்களின் விமர்சனங்கள் காரணமாக, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக கட்சி வட்டாரங்கள் மூலம் தெரியவந்துள்ளது.
+🟩
 
-கட்சியையும் கட்சித் தலைமையையும் இவர்கள் விமர்சித்ததாகக் கூறப்படுகிறது.இதனாலேயே இம்மூவரையும் பதவி நீக்கம் செய்ய வேண்டுமென அக்கட்சியிலுள்ள பலர் கட்சித் தலைமையிடம் கோரிக்கை முன்வைத்திருந்தனர்.
+MPs Field Marshal Sarath Fonseka, Rajitha Senaratne and Kumara Welgama have decided not to attend party meetings, events and other activities.
 
-இதேவேளை. ஜக்கிய மக்கள் சக்தி கட்சியின் தலைவரை பதவியில் இருந்து சரத் பொன்சேகாவை நீக்கிவிட்டு கட்சியின் மற்றுமொரு சிரேஷ்ட உறுப்பினருக்கு அந்த பதவியை வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+Due to their criticism of the party and party leadership, party sources have revealed that the decision has been taken.
 
-பாராளுமன்ற உறுப்பினர் சரத் பொன்சேக்கா அண்மையில் பாராளுமன்றத்தில் கட்சித் தலைமையை விமர்சித்து உரை நிகழ்த்தியருந்தமை குறிப்பிடத்தக்கது.
+They are said to have criticized the party and the party leadership.
+
+Ascendant. It has been decided to remove Sarath Fonseka from the party's leader of the party and give the post to another senior member of the party.
+
+Significantly, MP Sarath Fonseka recently made a speech criticizing the party leadership in Parliament.
 
 ◼️
 
 [Data](articles/ab2ea9f9.json)
 
+[Extended Data](ext_articles/ab2ea9f9.ext.json)
+
 ---
 
-### ’மலையகத்துக்கு நிரந்தர காணி, வீட்டு உரிமைகள்’
+### Permanent Land, Housing Rights
 
 *2024-07-19 00:09:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையகத்துக்கு-நிரந்தர-காணி-வீட்டு-உரிமைகள்/175-340666) · `ta`
 
-பெருந்தோட்ட மக்கள் வாழும் பிரதேசங்களை இனங்கண்டு அப்பகுதிகளைப் புதிய குடியேற்ற கிராமங்களாக சட்டரீதியாக பிரகடனப்படுத்துவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Sri Lankan Cabinet has endorsed a plan by President Ranil Wickremesinghe to designate areas inhabited by plantation workers as new migrant villages, aiming to grant them permanent land and housing rights. This initiative, discussed at the Presidential Office, seeks to address the needs of communities in villages, cities, and plantations. The proposal emphasizes the importance of securing land rights for all residents in the hill country, with consultations planned with local plantation companies and the appointment of parliamentary representatives from affected areas.
 
-அதன் எதிர்கால செயற்பாடுகள் தொடர்பான கலந்துரையாடல் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் ஜனாதிபதி அலுவலகத்தில் புதன்கிழமை  (17) நடைபெற்றது.
+🟩
 
-கிராமங்கள், நகரங்கள் மற்றும் பெருந்தோட்டங்கள் ஆகியவற்றை உள்ளடக்கிய மக்களுக்கு நிரந்தர காணி மற்றும் வீட்டு உரிமைகளை வழங்குவதே அரசாங்கத்தின் எதிர்பார்ப்பு எனவும் அதற்குத் தேவையான புரட்சிகர வேலைத்திட்டம் ஏற்கனவே செயற்படுத்தப்பட்டுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க இதன்போது தெரிவித்தார்.
+The Cabinet has approved the proposal put forward by President Ranil Wickremesinghe to identify the areas where plantation people live and declare the area as new migrant villages.
 
-அரச பெருந்தோட்டக் கம்பனி மற்றும் உள்ளுர் பெருந்தோட்டக் கம்பனிகளின் கட்டுப்பாட்டில் உள்ள தோட்ட மக்கள் வாழும் பகுதிகளை புதிய கிராமங்களாக சட்டரீதியாக பிரகடனப்படுத்தத் தேவையான சட்ட ஏற்பாடுகளை மேற்கொள்வது மிகவும் முக்கியமான மற்றும் காலத்திற்கு உகந்த
+A discussion on its future activities was held on Wednesday (17) at the Presidential Office headed by President Ranil Wickremesinghe.
+
+President Ranil Wickremesinghe said that the government's expectation is to provide permanent land and housing rights to the people who include villages, cities and plantations.
+
+It is a very important and timely time that the state plantation company and the local plantation companies controlled by the estate -controlled areas of the plantation people as new villages as new villages.
+
+Because of the proposal, the policy agreement of all parties was revealed. Pointing out that it is imperative to ensure the land rights of all the people living in the hill country while implementing the proposal, MP Mano Ganesan handed over the proposal to the President.
 
 ...
 
 [Data](articles/b4e184a2.json)
+
+[Extended Data](ext_articles/b4e184a2.ext.json)
 
 ---
 

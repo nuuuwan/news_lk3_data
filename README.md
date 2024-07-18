@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 17:20:05**
+As of **2024-07-18 17:35:54**
 
 ## Newspaper Stats
 
-*Scraped **35,947** Articles*
+*Scraped **35,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,147
 tamilmirrorlk | 4,361
 dailymirrorlk | 4,733
 virakesarilk | 5,607
-adaderanasinhalalk | 6,013
+adaderanasinhalalk | 6,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,944 (100.0%) of 35,947 articles have been extended.
+35,947 (100.0%) of 35,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### එංගලන්ත රැකියා මැවූ ජින්නා කොටුවෙයි
+
+*2024-07-18 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198956) · `si`
+
+එක්සත් රාජධානියේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ පුද්ගලයෙකු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අද (18) අත්අඩංගුවට ගෙන තිබේ.
+
+කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව කොළඹ 02 ප්‍රදේශයේ  ආයතනයක් පවත්වාගෙන යමින්, සමන්තුරේ පදිංචි ජින්නා නමැති පුද්ගලයෙකු විසින් එක්සත් රාජධානියේ ගුරු සහායිකා හා අවන්හලක රැකියා ලබාදීම සඳහා කාන්තාවක හා පිරිමි පුද්ගලයෙකුගෙන් එක් අයෙකුගෙන් රුපියල් ලක්ෂ 40 බැගින් මුදල් ලබාගෙන ඇත.
+
+නමුත් පොරොන්දු වූ පරිදි රැකියා හිමි නොවීම හේතුවෙන් ඔවුන් විසින් කාර්යාංශය වෙත පැමිණිලි කර ඇති අතර, ඒ අනුව දෙහිවල ප්‍රදේශයේදී විමර්ශන නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුට එරෙහිව කාර්යාංශය වෙත මේ වනවිටත් පැමිණිලි ලැබෙමින් පවතින අතර, ඒ සම්බන්ධයෙන්ද විශේෂ විමර්ශන අංශය වැඩිදුර විමර්ශනයන් මෙහෙයවනු ලබයි.
+
+...
+
+[Data](articles/0e3552a6.json)
+
+---
 
 ### Criminal gang member “Piyuma” remanded
 
@@ -49,6 +67,22 @@ According to Sri Lanka Police, “Piyuma” was first arrested in 2018 for the p
 ...
 
 [Data](articles/01d978e2.json)
+
+[Extended Data](ext_articles/01d978e2.ext.json)
+
+---
+
+### යාපනය ගාල්ල ට දුන් ඉලක්කය
+
+*2024-07-18 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198955) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ අවසන් පූර්ව වටයේ පළමු තරගය ගෝල් මාර්වල්ස් සහ ජැෆ්නා කිංග්ස් අතර මේ වනවිට පැවැත්වෙයි.
+
+එහිදී පළමුවෙන් පන්දුවට පහරදුන් ජැෆ්නා කිංග්ස් කණ්ඩායම සිය පන්දු ඕවර 20 දී කඩුලු 7ක් දැවී ලකුණු 177ක් ලබාගත්තේය.
+
+◼️
+
+[Data](articles/15ae877d.json)
 
 ---
 
@@ -281,6 +315,8 @@ Equipment including submersible water pumps, kitchen sets, chainsaws, polysack b
 ...
 
 [Data](articles/24b9e2d7.json)
+
+[Extended Data](ext_articles/24b9e2d7.ext.json)
 
 ---
 
@@ -804,21 +840,27 @@ We have arrested many to be arrested in Athurugiriya incident. I think there's m
 
 ---
 
-### විරේන් කලින්ම ප්‍රංශයට යයි
+### Virage goes to France early
 
 *2024-07-18 13:21:30* · [`adalk`](https://www.ada.lk/breaking_news/විරේන්-කලින්ම-ප්‍රංශයට-යයි/11-410851) · `si`
 
-ප්‍රංශයේ පැවැත්වෙන ඔලිම්පික් ක්‍රීඩා උළෙල සදහා සහභාගී වීමට ශ්‍රී ලංකා පිරිමි කණ්ඩායමේ නායක , බැඩ්මින්ටන් ක්‍රීඩක 07/18 අලුයම කටුනායක ගුවන් තොටුපොළෙන් පැරිස් නුවර බලා පිටත්ව ගියේය.
+Sri Lanka's badminton team, including standout player Vimanthasinghe, left Katunayakaya Airport on July 18th for the Olympics in France. Virage Neththanasinghe, accompanied by his coach and father, also traveled to France, where he will participate in the games starting July 26th.
 
-එළඹෙන 07/26 දින ප්‍රංශයේ පැරිස් නුවර දී ආරම්භ වන මෙම ඔලිම්පික් තරගාවලියේ දී බැඩ්මින්ටන් ක්‍රීඩා ඉසව්ව සදහා සහභාගී වන ළාබාලතම බැඩ්මින්ටන් ක්‍රීඩකයා වන්නේ ද ශ්‍රී ලංකා ක්‍රීඩක විරේන් නෙත්තසිංහ වීම විශේෂත්වයක .
+🟩
 
-විරේන් නෙත්තසිංහ තම පුහුණුකරු මෙන්ම තම පියා වන රොෂාන් නෙත්තසිංහ සමග පැරිස් බලා පිටත්ව යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ.
+Badminton players departed from the Katunayayaka Airport on 07/18 am to attend the Olympic Games in France.
 
-ඔවුන් 07/18 දින අලුයම 03.35 ට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 663 දරන ගුවන් යානයෙන් දෝහා වෙත ගොස් , එතැන් සිට ප්‍රංශයේ පැරිස් නුවර බලා පිටත්ව යාමට නියමිතය.
+Sri Lankan players Vimanthasinghe is the most special badminton player participating in Paris in Paris on 07/26.
+
+Virage Neththanasinghe arrived at the Katunayake airport for his coach and his father Roshan Neththeasinghe.
+
+They were told by Qatar at 6.35 am on 07/18, Qatar.
 
 ◼️
 
 [Data](articles/fda68b9b.json)
+
+[Extended Data](ext_articles/fda68b9b.ext.json)
 
 ---
 
@@ -2289,41 +2331,5 @@ As the foremost association representing the majority of solar installations in 
 [Data](articles/25b3a447.json)
 
 [Extended Data](ext_articles/25b3a447.ext.json)
-
----
-
-### CEAT Kelani wins eight Golds for Quality Improvement at National Convention on Quality and Productivity
-
-*2024-07-18 04:44:00* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-wins-eight-Golds-for-Quality-Improvement-at-National-Convention-on-Quality-and-Productivity/34-764431) · `en`
-
-CEAT Kelani Team leaders with the eight QIP Gold awards and the two ‘Kaizen’ awards won by the Company
-
-Eight quality improvement projects implemented at CEAT Kelani Holdings have won Gold awards for being Sri Lanka’s leading tyre manufacturer at the National Convention on Quality and Productivity (NCQP) 2024, organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP).
-
-Noteworthy about this achievement was that every Quality improvement project presented by CEAT Kelani at the convention received a Gold award, and the teams that presented them have qualified to represent Sri Lanka at the International Convention on Quality Control Circles (ICQCC) 2024, to be held in Colombo in November.
-
-...
-
-[Data](articles/e77430d5.json)
-
-[Extended Data](ext_articles/e77430d5.ext.json)
-
----
-
-### World Bank retains MTI Consulting for enterprise study
-
-*2024-07-18 04:41:12* · [`dailyftlk`](https://www.ft.lk/business/World-Bank-retains-MTI-Consulting-for-enterprise-study/34-764430) · `en`
-
-Washington DC based World Bank team and the MTI regional team in Bahrain
-
-The World Bank Group has retained the services of MTI Consulting to assess the Bahrain Private Sector – through the Bahrain Enterprise Survey 2024, which will finally be used as inputs for the World Bank’s Business Ready
-
-The Enterprise Surveys collect data on firms’ perception of the business environment, including finance, infrastructure, competition, and corruption. This data is used for the World Bank’s B-READY project, a flagship report that benchmarks the business and investment climate worldwide, evaluating the regulatory framework, public services for firms, and their practical efficiency.
-
-◼️
-
-[Data](articles/6a351488.json)
-
-[Extended Data](ext_articles/6a351488.ext.json)
 
 ---

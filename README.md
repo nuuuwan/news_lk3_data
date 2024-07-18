@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 14:20:26**
+As of **2024-07-18 14:35:29**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,909 (100.0%) of 35,911 articles have been extended.
+35,911 (100.0%) of 35,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### நண்பியின் பெயரை முகநூலில் பதிவிட்டு, உயிர் மாய்ப்பு
+### Posting the friend's name on the face
 
 *2024-07-18 13:56:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நண்பியின்-பெயரை-முகநூலில்-பதிவிட்டு-உயிர்-மாய்ப்பு/71-340622) · `ta`
 
-தனது நண்பிக்காக வங்கியில் இருந்து கடனாக பெற்று கொடுத்த பணத்தினை மீள செலுத்த முடியாதமையால் மனமுடைந்த குடும்ப பெண் ஒருவர் தவறான முடிவெடுத்து தனது உயிரை மாய்த்துள்ளார்.
+A tragic story unfolds in Alai, Jaffna, where a family woman, struggling to repay a loan she took from the bank for her friend, faces despair. This decision, driven by a long-standing friendship, leads to her depression and ultimately her untimely death, leaving her three children orphaned. The friend, whose name was posted on the deceased's face, bears the guilt of being the indirect cause of this tragedy.
 
-யாழ்ப்பாணம் , அல்வாய் பகுதியை சேர்ந்த மூன்று பிள்ளைகளின் தாயொருவரே இவ்வாறு தவறான முடிவெடுத்து உயிரை மாய்த்துக்கொண்டுள்ளார் .
+🟩
 
-உறவு முறையான இரு பெண்களுக்கு இடையில் நீண்ட கால நட்பு இருந்து வந்துள்ளது. அதில் ஒரு பெண் பண கஷ்டத்தில் இருந்த போது மற்றைய பெண் வங்கியில் பெருந்தொகை பணத்தினை கடனாக பெற்று , தனது நண்பிக்கு பண உதவி செய்துள்ளார்.
+A family woman who was heartbroken that she was unable to repay the money he had borrowed from the bank for her friend, made her life.
 
-பண உதவியை பெற்றுக்கொண்ட பெண் , பணத்தினை மீள செலுத்தாத நிலையில் , வங்கியில் கடன் பெற்ற பெண் , பண நெருக்கடிக்கு ஆளாகி , மனவுளைச்சலில் காணப்பட்டுள்ளார்.
+The mother of three children from Alai, Jaffna, has made such a wrong decision.
 
-இந் நிலையில் முகநூலில் நண்பியின் பெயரையும் , தனது மரணத்திற்கு காரணம் இவர் தான் என்றும் இவரால் தான் தனது மூன்று பிள்ளைகளையும் அநாதையாக விட்டு செல்வதாகவும் பதிவிட்டு உயிரை மாய்த்துக்கொண்டுள்ளார் .
+The relationship has come from long -term friendship between two women. When a woman was in money, the other woman had borrowed large sums of money from the bank and helped her friend.
+
+The woman who has received money help has not been repaid, and the woman who has borrowed in the bank has been in a state of depression.
+
+In this case, the name of a friend in the face, he is the cause of his death and that he is the one who left his three children as an orphan.
 
 ◼️
 
 [Data](articles/011c7508.json)
+
+[Extended Data](ext_articles/011c7508.ext.json)
 
 ---
 
@@ -113,6 +119,8 @@ ECONOMYNEXT – The United States has said it was committed to supporting Sri La
 ...
 
 [Data](articles/4ce3a07c.json)
+
+[Extended Data](ext_articles/4ce3a07c.ext.json)
 
 ---
 

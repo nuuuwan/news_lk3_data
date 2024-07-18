@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 10:35:44**
+As of **2024-07-18 10:54:04**
 
 ## Newspaper Stats
 
-*Scraped **35,859** Articles*
+*Scraped **35,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,136
 dailyftlk | 2,279
-adalk | 3,240
+adalk | 3,241
 adaderanalk | 4,133
 tamilmirrorlk | 4,337
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 5,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,858 (100.0%) of 35,859 articles have been extended.
+35,859 (100.0%) of 35,860 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1300,6 +1300,8 @@ Extract the cucumber juice and mix it with the aloe vera gel and then apply the 
 
 [Data](articles/411e6f7b.json)
 
+[Extended Data](ext_articles/411e6f7b.ext.json)
+
 ---
 
 ### 16 Sri Lankans, 3 Sri Lankan boards on the sea, went missing
@@ -1968,6 +1970,22 @@ At the time of the petitions, President's Counsel Romesh de Silva said that the 
 
 ---
 
+### බන්ධනාගාරගත කෙරූ පුද්ගලයන්ගෙන් සියයට 74ක් සැකකරුවන්
+
+*2024-07-17 18:15:05* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරගත-කෙරූ-පුද්ගලයන්ගෙන්-සියයට-74ක්-සැකකරුවන්/11-410835) · `si`
+
+සිරකරුවන් සහ සැකකරුවන් එක් ලක්ෂ අසූපන්දහස් පනස්හයදෙනෙක් (185,056) (2019 ජනවාරි සිට 2023 දෙසැම්බර් දක්වා) බන්ධනාගාරගත වී ඇති බව 2023ට අදාළව  විගණන වාර්තාවක සඳහන් වේ.ඒ අය අතුරින් 46,939ක ප්‍රමාණයක් සිරකරුවන් වන අතර138,117දෙනෙකු සැකකරුවන් වේ.
+
+බන්ධනාගාරගත කෙරූ පුද්ගලයන්ගෙන් 74%ක් සැකකරුවන් බවද මෙම වාර්තාවේ සඳහන්වේ. නොවිසඳී ඇති නඩු ප්‍රමාණය රජය මගින් කල් දැමීම සහ රජයේ රස පරීක්ෂණ වාර්තාවල ප්‍රමාදය මාස 06කට වැඩි කාලයක් දක්වා කල්ගතවීම, ඇපදීමේ පනත නිසි ලෙස ක්‍රියාත්මක නොවීම නිසා බන්ධනාගාරගත වන සැකකරුවන් සංඛ්‍යාව දිනපතා ඉහළ යාම සිදුවන බවද නිගමනය මගින් නිකුත් කරන ලද වාර්තාවේ සඳහන්වේ.
+
+සැකකරුවන් විශාල වශයෙන් බන්ධනාගාරගත වීම නිසා 14%ක් පමණ තදබදයක් පවතින බවද එම විගණනය මගින් නිකුත් කරන ලද වාර්තාවේ සඳහන්වේ.
+
+◼️
+
+[Data](articles/5a208e39.json)
+
+---
+
 ### The economy of the country is still on the edge of knives
 
 *2024-07-17 18:08:56* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ආර්ථිකය-තවමත්-පිහි-දාරය-මතයි/11-410834) · `si`
@@ -2092,7 +2110,7 @@ ECONOMYNEXT – Sri Lanka’s rupee closed almost flat at 303.80/304.00 to the U
 
 A bond maturing on 15.12.2026 closed at 10.60/75 percent, down from 10.82/92 percent.
 
-A bond maturing on 15.12.2027 closed at 11.60/38 percent, down from 11.65/75 percent.
+A bond maturing on 15.12.2027 closed at 11.60/68 percent, down from 11.65/75 percent.
 
 A bond maturing on 01.05.2028 closed at 11.72/78 percent, down from 11.80/90 percent.
 
@@ -2251,25 +2269,5 @@ The relevant new system is scheduled to commence from next Friday (19).
 [Data](articles/544dfee6.json)
 
 [Extended Data](ext_articles/544dfee6.ext.json)
-
----
-
-### Chamiri's T20 reserved
-
-*2024-07-17 17:00:52* · [`adalk`](https://www.ada.lk/sports/චමිරිගේ-නායකත්වයෙන්-යුත්-විස්සයි20-සංචිතය-එළියට/9-410831) · `si`
-
-Chamari Atapattu leads Sri Lanka's women cricket team in the Asian Cup starting at Dambulla on the 19th. Squad includes Halhika Priyadhi, Udunika Perera, Sugandika Perera, Sachini Kavindi, Sachini Kavindala, Shashi NasonGimhirani, Ama Kanchana.
-
-🟩
-
-Sri Lanka women's squad played for women's Asian Cup. Chamari Atapattu has been named the leadership. The Asian Cup will begin at Dambulla on the 19th.
-
-Sri Lanka Women's Cricket Reserves - Chamari Atapattu, Halhika Priyadhi, Udunika Perera, University of Sugandika Perera, Sachini Kavindi, Sachini Kavindala, Shashi NasonGimhirani, Ama Kanchana
-
-◼️
-
-[Data](articles/8dc9256a.json)
-
-[Extended Data](ext_articles/8dc9256a.ext.json)
 
 ---

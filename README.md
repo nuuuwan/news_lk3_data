@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 14:54:22**
+As of **2024-07-18 15:05:24**
 
 ## Newspaper Stats
 
-*Scraped **35,911** Articles*
+*Scraped **35,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,73 @@ bbccomsinhala | 351
 newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,143
-dailyftlk | 2,279
+dailyftlk | 2,281
 adalk | 3,243
 adaderanalk | 4,142
-tamilmirrorlk | 4,353
+tamilmirrorlk | 4,354
 dailymirrorlk | 4,733
 virakesarilk | 5,601
-adaderanasinhalalk | 6,007
+adaderanasinhalalk | 6,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,911 (100.0%) of 35,911 articles have been extended.
+35,911 (100.0%) of 35,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### வாட்ஸ்அப்பில் ஃபேவரைட்ஸ் அம்சம் அறிமுகம்
+
+*2024-07-18 14:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்பில்-ஃபேவரைட்ஸ்-அம்சம்-அறிமுகம்/57-340624) · `ta`
+
+வாட்ஸ்அப் பயனர்கள் தங்களது ஃபேவரைட் நபர்கள் மற்றும் குழுக்களுடன் எளிதில் தொடர்பில் இருக்கும் வகையில் ‘ஃபேவரைட்ஸ்’ அம்சத்தை மெட்டா அறிமுகம் செய்துள்ளது. இதன் மூலம் சாட் டேபில் ஃபில்டராகவும், அழைப்புகள் டேபில் மேல் பக்கமும் பயனர்கள் தங்களது ஃபேவரைட்களை அடையாளம் காணலாம்.
+
+வாட்ஸ்அப் மெசஞ்சரை உலக அளவில் சுமார் 200 கோடிக்கும் மேற்பட்ட பயனர்கள் பயன்படுத்தி வருகின்றனர். டெக்ஸ்ட் மெசேஜ், போட்டோ, வீடியோ, ஆடியோ மற்றும் அழைப்புகளை மேற்கொள்ள பயன்படுத்தப்பட்டு வருகிறது இந்தத் தளம். பள்ளிக்கூடம் தொடங்கி அலுவலகம் வரையில் இப்போது குழுக்களாக ஒருவருக்கு ஒருவர், ஒருவருக்கு பலர் என இதன் மூலம் தகவல்களை பரிமாறிக் கொண்டு வருகின்றனர்.
+
+தங்களது பயனர்களுக்கு தனித்துவமான பயன்பாட்டு திருப்தியை வழங்கும் விதமாக அவ்வப்போது புதிய அப்டேட்களையும், அம்சங்களையும் மெட்டா நிறுவனத்தின் வாட்ஸ்அப் அறிமுகம் செய்வது வழக்கம். அந்த வகையில் ஃபேவரைட்ஸ் அம்சம் தற்போது வெளிவந்துள்ளது.
+
+...
+
+[Data](articles/8848cc01.json)
+
+---
+
+### අගනුවර උද්ඝෝෂණ තහනම්
+
+*2024-07-18 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198948) · `si`
+
+නැවත දැනුම්දෙන තුරු කෙන්යාවේ අගනුවර වන නයිරෝබි හි උද්ඝෝෂණ තහනම් කිරීමට එරට පොලීසිය පියවර ගෙන තිබේ.
+
+එරට බලධාරීන් පවසන්නේ සංවිධානාත්මක අපරාධ කල්ලි උද්ඝෝෂකයින් අතරට රිංගා කලහකාරී තත්ත්වයන් නිර්මාණය කරන බවට තොරතුරු ලැබී ඇති බවයි.
+
+එරට බදු වැඩිකිරීමට රජය ගෙන ආ යෝජනාවට විරෝධය දක්වමින් එරට තරුණ පිරිස් විරෝධතා ආරම්භ කළ අතර ඒ අතරතුර මේ දක්වා 50 දෙනෙක් පමණ මියගොස් තිබේ.
+
+එම යෝජනාව ජනපති විලියම් රූටෝ විසින් ඉල්ලා අස්කරගත් අතර ඔහු අමාත්‍ය මණ්ඩලයේ විශාල පිරිසක් ද ඉවත් කළේය.
+
+◼️
+
+[Data](articles/c525c2e0.json)
+
+---
+
+### Colombo Dockyard signs agreement to set up fully-fledged workshop at Hambantota International Port
+
+*2024-07-18 14:26:42* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Dockyard-signs-agreement-to-set-up-fully-fledged-workshop-at-Hambantota-International-Port/34-764441) · `en`
+
+Colombo Dockyard (CDPLC) on Tuesday inked an agreement with Hambantota International Port Group Ltd., (HIPG), to setup a fully-fledged workshop at the HIPG facility.
+
+Once setup, the workshop will augment the service availability and the speed of service to the clients, improving the economics to the end user. This new workshop, when in operation will extend the service footprint of Colombo Dockyard to the southernmost tip of Sri Lanka.
+
+The strategic maritime location of Hambantota, in close proximity to the key maritime routes, will allow Colombo Dockyard to offer afloat repair services to a multitude of vessels calling for transhipment, bunkering and other operations and dedicated afloat repairs. HIPG port is a deep draft port with extensive berths that can handle vessels up to 17-meter draft, going up to VLCC.
+
+...
+
+[Data](articles/d8590d2a.json)
+
+---
 
 ### Posting the friend's name on the face
 
@@ -1486,6 +1536,22 @@ Eighty winds and sea have issued a warning red announcement on floor.
 
 ---
 
+### Solar Industries Association of Sri Lanka elects new leadership
+
+*2024-07-18 04:52:46* · [`dailyftlk`](https://www.ft.lk/business/Solar-Industries-Association-of-Sri-Lanka-elects-new-leadership/34-764432) · `en`
+
+The Solar Industries Association of Sri Lanka (SIA) has elected its new leadership team to address the pressing challenges faced by the industry.
+
+The elections, held at Waters Edge, saw Javid Kamil appointed as President, Sanjeevan Sivagnanam as Secretary, Asanka Tennakoon as Vice President, and Ranila Vithanage as Treasurer.
+
+As the foremost association representing the majority of solar installations in Sri Lanka, SIA plays a pivotal role in the country’s renewable energy landscape. The association is committed to collaborating closely with stakeholders to achieve Sri Lanka’s ambitious target of 70% renewable energy by 2030. To this end, SIA advocates for supportive policies and the integration of advanced solar technology to boost the penetration of solar energy across the nation, all while ensuring commercial viability for solar industry players.
+
+...
+
+[Data](articles/25b3a447.json)
+
+---
+
 ### CEAT Kelani wins eight Golds for Quality Improvement at National Convention on Quality and Productivity
 
 *2024-07-18 04:44:00* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-wins-eight-Golds-for-Quality-Improvement-at-National-Convention-on-Quality-and-Productivity/34-764431) · `en`
@@ -2161,97 +2227,5 @@ As a result of this, 1117 affirmations were issued yesterday, including 937 hous
 [Data](articles/7875c522.json)
 
 [Extended Data](ext_articles/7875c522.ext.json)
-
----
-
-### 2024-07-17 (Wednesday)
-
-### Biku Coordination Division
-
-*2024-07-17 23:53:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-பிக்கு-ஒருங்கிணைப்புப்-பிரிவு/175-340588) · `ta`
-
-The Biku Coordination Division office, inaugurated yesterday, aims to protect Buddhism as advised by President Ranil Wickremesinghe. It was opened during the Maha Sangam recitation led by Seth Brith, with President's Secretary Saman Ekanayake present.
-
-🟩
-
-The office was inaugurated yesterday amidst the Seth Brith recitation of the Maha Sangam with the participation of President's Secretary Saman Ekanayake.
-
-The Presidential Media Unit said that the office was established on the advice of President Ranil Wickremesinghe to fulfill the responsibility of the government in accordance with the Constitutional Councils on the protection of the Buddha Sasana.
-
-◼️
-
-[Data](articles/8859950e.json)
-
-[Extended Data](ext_articles/8859950e.ext.json)
-
----
-
-### El Board
-
-*2024-07-17 23:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்-போர்டு-கட்சிகளுக்கு-எதிர்காலத்தில்-வாய்ப்பு/175-340587) · `ta`
-
-Vajira Abeywardena, UNP parliamentary leader, suggested that 'El Board' parties could govern in the future. He emphasized the UNP's commitment to honesty, implying that any deviation would lead to public dissatisfaction. Ranil Wickremesinghe was praised for amending laws against lying by political leaders.
-
-🟩
-
-United National Party (UNP) parliamentary leader Vajira Abeywardena has said that the opportunity to rule a country for 'El Board' political parties can be given the opportunity in the future.
-
-United National Party (UNP) headquarters. Vajira Abeywardena said this while addressing the gathering.
-
-He said that the United National Party is always a party that tells the truth and if someone will change the path, people will go to their homes and ask for food.
-
-Ranil Wickremesinghe has made changes to the laws of the country that cannot lie to the political parties that are in charge of the country.
-
-◼️
-
-[Data](articles/164d7aa9.json)
-
-[Extended Data](ext_articles/164d7aa9.ext.json)
-
----
-
-### Do not register presidential election
-
-*2024-07-17 23:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலை-பிற்போட-வேண்டாம்/175-340586) · `ta`
-
-Sri Lanka's PA requests urgent presidential election, citing a meeting with the Election Commission where key party figures were present.
-
-🟩
-
-The General Secretary of the Sri Lanka PA has requested the National Elections Commission to hold the presidential election in a timely manner.
-
-He said the request was made in a discussion with the Election Commission on Tuesday (16).
-
-Representatives of the party, including the founder of the Sri Lanka Peoples Alliance, Basil Rajapaksa and the party's national organizer Namal Rajapaksa were present at the discussion.
-
-◼️
-
-[Data](articles/8b339a19.json)
-
-[Extended Data](ext_articles/8b339a19.ext.json)
-
----
-
-### Conduct a poll for number22
-
-*2024-07-17 23:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-இற்கு-கருத்துக்கணிப்பை-நடத்தவேண்டும்/175-340585) · `ta`
-
-Lawyers oppose the 22nd Amendment Bill, arguing it could lead to election chaos and financial strain. They warn of a crisis due to the dual election process and criticize the lack of urgency to define parliamentary and presidential terms. The bill, passed by a two-thirds majority despite Election Commission advice against a poll, is seen as an attempt to destabilize the electoral system. Lawyers call for unity among democratic forces to counteract what they view as a misuse of power.
-
-🟩
-
-Attorneys' united lawyers have united that the 22nd Amendment Bill approved by the Cabinet has been passed by a two -thirds majority in Parliament, even if the Elections Commission should advise the Elections Commission to hold a poll.
-
-In a statement issued by the organization, the organization said that a situation would be created within 30 days of the bill.
-
-Attorneys have warned that the burden of holding 2 elections will result in a crisis and it will create a crisis.
-
-The Sri Lankan government has repeatedly announced that there is insufficient funds for lawyers who have pointed out that they will spend billions of rupees only to hold a public poll.. In this case, there is no urgent need to define the term of parliament or the president's term, the organization said in a statement.
-
-...
-
-[Data](articles/d4ed37f8.json)
-
-[Extended Data](ext_articles/d4ed37f8.ext.json)
 
 ---

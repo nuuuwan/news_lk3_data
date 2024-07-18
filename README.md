@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 09:07:58**
+As of **2024-07-18 09:20:11**
 
 ## Newspaper Stats
 
-*Scraped **35,854** Articles*
+*Scraped **35,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,100 @@ newsfirstlk | 363
 islandlk | 2,039
 economynextcom | 2,136
 dailyftlk | 2,279
-adalk | 3,238
+adalk | 3,240
 adaderanalk | 4,133
-tamilmirrorlk | 4,336
+tamilmirrorlk | 4,337
 dailymirrorlk | 4,733
 virakesarilk | 5,595
-adaderanasinhalalk | 5,995
+adaderanasinhalalk | 5,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,839 (100.0%) of 35,854 articles have been extended.
+35,847 (100.0%) of 35,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### ஜனாதிபதி தேர்தலில் பொது வேட்பாளராக ரணிலை ஆதரிப்போம் - புதிய அரசியல் கூட்டணி
+### அடுத்த 24 மணித்தியாலங்கள் குறித்து விடுக்கப்பட்ட எச்சரிக்கை
+
+*2024-07-18 09:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணித்தியாலங்கள்-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-340593) · `ta`
+
+சப்ரகமுவ மாகாணம், கண்டி மற்றும் நுவரெலியா மாவட்டங்களில் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதுடன் சில இடங்களில் சுமார் 50 மில்லிமீற்றர் அளவில் பலத்த மழை பெய்யக்கூடும்.
+
+மேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது 50-60 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+
+மேலும், அரபிக் கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் இயங்கும் நெடுநாள் மீன்பிடி படகுகள் மற்றும் கடல்சார் சமூகத்தினர் மிகுந்த அவதானத்துடன் செயற்பட வேண்டுமென வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
+
+தென்மேற்கு பருவநிலை தீவிரமாகியுள்ளதால், அரபிக்கடல் மற்றும் வங்காள விரிகுடாவில் பலத்த காற்று வீசுவதோடு, கடல் கொந்தளிப்பாகவும் காணப்படக்கூடும்.
+
+இதற்கிடையில், தென்மேற்கு பருவ நிலையால், நாடு முழுவதும் தற்போதைய காற்றின் நிலை தொடரும் என எதிர்பார்க்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/aa0e8ef8.json)
+
+---
+
+### පුංචි දෙව්මිගේ මරණයේ සුලමුල හෙළිවෙයි
+
+*2024-07-18 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198935) · `si`
+
+රුවන්වැල්ල පොලිස් වසමේ යටියන්තොට ප්‍රදේශයේ මිය ගිය සිව් හැවිරිදි දැරිය ඇයගේ මව විසින් ළිඳට දමා ඝාතනය කර ඇතැයි අනාවරය වී තිබේ.
+
+පොලීසිය පැවසුවේ, ඊයේ (17) දින එම දැරිය පදිංචි ප්‍රදේශයේ ළිඳකට වැටී මිය ගොස් ඇතැයි රුවන්වැල්ල පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කළ බවය.
+
+මියගිය දැරිය අවුරුදු 4යි මාස 10ක් වයසැති කිරිපෝරුව වත්ත, යටියන්තොට ප්‍රදේශයේ පදිංචි දෙව්මි අමායා නමැති පුංචි දියණියකි.
+
+එම ඛේදවාචකය සිදුව ඇත්තේ පසුගිය 16 වනදා රාත්‍රී 11ත් පසුදින අලුයම 5.30ත් කාලයේ සිදුව ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+පොලීසිය සිදුකළ පරීක්ෂණවලදී අනාවරණය වී ඇත්තේ දැරියගේ මව විසින් දැරිය ළිඳට දමා ඝාතනය කර ඇති බවය.
+
+මියගිය දැරියගේ මව ගොළු කාන්තාවක් වන අතර, ඇය අසනීප තත්ත්වයෙන් පසුවූ බැවින් කරවනැල්ල රෝහලේ පොලිස් ආරක්ෂාව යටතේ ප්‍රතිකාර ලබමින් සිටී.
+
+◼️
+
+[Data](articles/23a79682.json)
+
+---
+
+### Ranil will support Ranil as common candidate in the presidential election - New Political Alliance
 
 *2024-07-18 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188735) · `ta`
 
-இலங்கையை பொருளாதார ரீதியில் கட்டியெழுப்புவதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவை தவிர வேறு யாராலும் இயலாது. பொது வேட்பாளராக உத்தேச ஜனாதிபதி தேர்தலில் போட்டியிட உள்ள அவருக்க ஆதரவு வழங்க உள்ளதாக  தெரிவித்த புதிய அரசியல் கூட்டணி, ஏனைய ஜனாதிபதி வேட்பாளர்களுக்கு அபிவிருத்தி திட்டங்கள் எதுவும் கிடையாத நிலையில்  நாட்டை மீண்டு அழிவுக்கு கொண்டு செல்லும் வகையிலேயே செயல்படுவதாகவும் குறிப்பிட்டது.
+A new political alliance endorses President Ranil Wickremesinghe as the common candidate for Sri Lanka's upcoming presidential election, citing his unique ability to revive the economy amidst criticism from other candidates lacking development plans. The alliance emphasizes Wickremesinghe's leadership during challenging times and calls for unity to ensure his success, despite accusations of self-serving motives from opposition figures.
 
-தேசிய பத்திரிகைளின் ஆசிரியர்களை நேற்று புதன்கிழமை (17)  சந்தித்த போதே  மேற்கண்டவாறு தெரிவிக்கப்பட்டது. இந்த சந்திப்பில் பாராளுமன்ற உறுப்பினர்களான அநுர பிரியதர்ஷன யாப்பா, நிமல் லான்சா, சுதத் மஞ்சுள  மற்றும் வர்த்தக இராஜாங்க அமைச்சர் நளின் பெரனாண்டோ ஆகியோர் இந்த சந்திப்பில் பங்கேற்றனர்.
+🟩
+
+No one else except President Ranil Wickremesinghe is able to build Sri Lanka economically. The new political coalition, which said he would support him to contest the proposed presidential election as a common candidate, said the other presidential candidates were working to recover the country as they had no development plans.
+
+The above was stated when the editors of the national newspapers met yesterday (17). Parliamentarians Anura Priyadarshana Yapa, Nimal Lansa, Sudath Manjula and Commerce Minister Nalin Peranando were also present at the meeting.
+
+We all know the economic and political destruction of the country after 2020. No political leader has come to take charge of the country. The manifestation of many sacrifices and hard work today has made some country progress. There is no other leaders who can economically rescue the country besides President Ranil Wickremesinghe. He is only in the present period.
 
 ...
 
 [Data](articles/bc72ed4b.json)
+
+[Extended Data](ext_articles/bc72ed4b.ext.json)
+
+---
+
+### පාර්ලිමේන්තු මන්ත්‍රීවරයෙක්ගේ  ජීප් රථයක් අනතුරකට ලක්වෙයි
+
+*2024-07-18 08:45:33* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රීවරයෙක්ගේ--ජීප්-රථයක්-අනතුරකට-ලක්වෙයි/11-410846) · `si`
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා ගමන් ගත් සුඛෝපභෝගී ජීප් රථය ජාවත්ත මාර්ගයේ සළුසල අසලදී මෝටර් රථයක් එකිනෙක ගැටීමෙන් අනතුරකට ලක් ව දෙදෙනෙකු තුවාල ලබා ඇති බව පොලිසිය පවසයි.
+
+තුවාල ලැබූවන් අතර මෝටර් රථයේ රියදුරු සහ මගියෙකු ද වන බවත් ඔවුන්  නාරහේන්පිට ප්‍රදේශයේ පෞද්ගලික රෝහලකට ඇතුළත් කර ඇති බවත් පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/ee94749a.json)
 
 ---
 
@@ -306,6 +372,8 @@ The Enterprise Surveys collect data on firms’ perception of the business envir
 
 [Data](articles/6a351488.json)
 
+[Extended Data](ext_articles/6a351488.ext.json)
+
 ---
 
 ### Nestlé Lanka celebrates long-standing business partnerships
@@ -333,6 +401,8 @@ Australia’s 30th Prime Minister Scott Morrison arrived yesterday to address th
 ◼️
 
 [Data](articles/1e9bf1d5.json)
+
+[Extended Data](ext_articles/1e9bf1d5.ext.json)
 
 ---
 
@@ -368,6 +438,8 @@ During the Court proceedings, Gamage’s attorneys requested permission to withd
 
 [Data](articles/3841b24c.json)
 
+[Extended Data](ext_articles/3841b24c.ext.json)
+
 ---
 
 ### Four females arrested after brutal assault on child goes viral
@@ -387,6 +459,8 @@ According to police spokesman DIG Nihal Thalduwa, the incident had taken place i
 ...
 
 [Data](articles/ff18a56d.json)
+
+[Extended Data](ext_articles/ff18a56d.ext.json)
 
 ---
 
@@ -446,6 +520,8 @@ The Plusgrade system allows passengers holding economy class tickets to bid for 
 
 [Data](articles/441e8106.json)
 
+[Extended Data](ext_articles/441e8106.ext.json)
+
 ---
 
 ### Govt. amps up funding for Nanu Oya Railway Station modernisation
@@ -466,6 +542,8 @@ The additional amount required will be sourced from the SLTDA and the SLTPB base
 
 [Data](articles/de0427d1.json)
 
+[Extended Data](ext_articles/de0427d1.ext.json)
+
 ---
 
 ### Why can’t that great idea get funded?
@@ -481,6 +559,8 @@ When promising ventures fall short of an investor’s expectations, bridging the
 ...
 
 [Data](articles/4b37602d.json)
+
+[Extended Data](ext_articles/4b37602d.ext.json)
 
 ---
 
@@ -1161,6 +1241,20 @@ Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman 
 [Data](articles/2abfa3d8.json)
 
 [Extended Data](ext_articles/2abfa3d8.ext.json)
+
+---
+
+### මුහුදේ පෙරළීගිය ඕමාන තෙල් නැවේ සිටි  ශ්‍රීලාංකිකයන් 3ක් ඇතුළු 16ක් අතුරුදන්
+
+*2024-07-17 22:13:32* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-පෙරළීගිය-ඕමාන-තෙල්-නැවේ-සිටි--ශ්‍රීලාංකිකයන්-3ක්-ඇතුළු-16ක්-අතුරුදන්/11-410843) · `si`
+
+කොමරෝස් ධජය සහිතව ඕමාන වෙරළ ආසන්නයෙන් යාත්‍රා කළ බොරතෙල් ප්‍රවාහන නෞකාවක් පෙරළීමෙන් එහි සිටි ශ්‍රී ලාංකිකයන් තිදෙනෙකු ඇතුළු 16 දෙනෙකු අතුරුදන්ව ඇතැයි වාර්තා වෙයි. පසුගිය සඳුදා දිනයේදී මෙම අනතුර සිදුව තිබේ. මෙම නෞකාව ප්‍රෙස්ටීජ් ෆැල්කන් ලෙස හඳුනාගෙන ඇත.
+
+පෙරළීමෙන් පසුව නෞකාවෙන් අඩක් මුහුදේ ගිලී උඩුකුරුව පවතින බව සඳහන් වෙයි. අතුරුදන්ව සිටින අනෙක් 13 දෙනා ඉන්දියානු ජාතිකයන් බව පැවසෙයි. ඒ අනුව ඉන්දියානු නාවික හමුදාව සහ ඕමාන සමුද්‍රීය අධිකාරියේ බලධාරීන් එක්ව අතුරුදන් පිරිස් සොයා ඊයේ දිනය පුරා මෙහෙයුම් ක්‍රියාත්මක කරන ලදි. මීටර් 111.7ක් දිග මෙම බොරතෙල් ප්‍රවාහන නෞකාව 2007 වසරේදී නිශ්පාදන කරවූවකි.
+
+◼️
+
+[Data](articles/b84c630e.json)
 
 ---
 
@@ -2141,107 +2235,5 @@ University officials said that the woman would lodge a complaint at the police s
 [Data](articles/dc666422.json)
 
 [Extended Data](ext_articles/dc666422.ext.json)
-
----
-
-### People Selvan 'Vijay Sethupathi- Suri's Burst Look release of' Liberation 2 '
-
-*2024-07-17 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188701) · `ta`
-
-"Liberation 2," directed by Vijayamaran, stars Vijay Sethupathi, Manju Warrier, and others. It's expected to meet fan expectations after the success of its predecessor. The film features music by Ilaiyaraaja and is produced by Elred Kumar. The first look, featuring Vijay Sethupathi and Manju Warrier, has garnered attention, especially among Tamil audiences.
-
-🟩
-
-After the first part of the release of the film, which was critically and grossly successful, the expectation of the second part was in the fans.
-
-The first look of 'Liberation 2' has been released to meet the expectations of the fans.
-
-Directed by director Vijayamaran, 'Liberation 2', 'Namal 2', Vijay Sethupathi, Suri, Bhavani Sri, Prakashraj, Manju Warrior, 'Attakathi' Dinesh, Gautam Vasudev Menon, Rajiv Menon, Princess, Balaji Sakthivel, Saravana SubbaiahMany people including Munnar Ramesh, Pavel Navadekithan are acting.
-
-The film, which is being recorded by R Velraj, is composed by 'Music Gnani' Ilayaraja. The film is being produced by producer Elrett Kumar on behalf of RS Infotainment and Cross Root Film Company.
-
-The film crew has released the first look as the shooting of the film reaches the final stage. Vijay Sethupathi- Actress Manju Warrior. As well as the Thirukkural in the Burst Look, the attention of the Tamils ​​is easily attracted.
-
-◼️
-
-[Data](articles/2060e90b.json)
-
-[Extended Data](ext_articles/2060e90b.ext.json)
-
----
-
-### Dhanush has descended the quality incident 'Rayan' ..!?
-
-*2024-07-17 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188699) · `ta`
-
-Dhanush stars in "Rayan," a highly anticipated film set for global release on the 26th. Directed by Selvaraghavan, it features a star-studded cast including S.J.Suryah, Prakash Raj, and others. Composed by A.R. Rahman, the film blends comedy with gangster elements, promising a unique viewing experience. The film's preview garnered over five million views, indicating strong interest from audiences. Despite the excitement, the focus remains on Dhanush's performance and Rahman's score, setting high expectations for the film's success.
-
-🟩
-
-Dhanush has incarnated as Rain after Miller, who won many international awards. The preview of the film 'Rayan', which will be released in the film House worldwide on the 26th of this month.
-
-Within a short time of this preview, more than five million viewers have been visited and achieved.
-
-Dhanush, Selvaraghavan, S. J.. Surya, Prakash Raj, Sandeep Kishan, Kalidas Jayaram, Dushara Vijayan, Aparna Balamurali, Varalakshmi Sarathkumar, 'Puthiviran' Saravanan are many.
-
-'Music Storm' for the film, which has been recorded by Om Prakash. R. Rahman has composed the music. The film, which is being prepared as an exercise entertainer in the backdrop of the gangster, has produced the famous producer Dr. Maran on behalf of Sun Pictures.
-
-The songs of the film have been released and the film has been released.
-
-...
-
-[Data](articles/fedb64fa.json)
-
-[Extended Data](ext_articles/fedb64fa.ext.json)
-
----
-
-### The land license can be easily issued by the recognition of gardens as villages - Minister Jeevan
-
-*2024-07-17 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188698) · `ta`
-
-Minister Jeevan proposes recognizing plantations as villages to streamline land licensing and address socio-economic issues. Over nine plantation companies have agreed to raise salaries, with discussions planned for August 6. The initiative aims to directly benefit plantation workers by granting land licenses, improving infrastructure, and ensuring fair wages.
-
-🟩
-
-The plantation companies under the plantation companies will be directly brought under the government administration through a program to set up new residential villages in the plantation sector.. This will easily carry out a land license program for them. Water Supply and Plantation Infrastructure Development Minister Jeevan Thondaman said that if the land license is granted, a permanent solution can be found to be a permanent solution.
-
-More than nine companies have agreed to pay a salary increase to plantation workers and the proposal has been received from the Employers Federation for a salary increase of Rs 1,350.. The Minister said that the special negotiations will be held on August 6.
-
-He further stated that at a press conference held at the Presidential Media Center on Wednesday (17).
-
-...
-
-[Data](articles/2600bb86.json)
-
-[Extended Data](ext_articles/2600bb86.ext.json)
-
----
-
-### Sri Lanka stocks close down, John Keells, Hemas, Hayleys push turnover
-
-*2024-07-17 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-john-keells-hemas-hayleys-push-turnover-172676/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.41 percent, or 48.44 points, at 11,830; while the more liquid S&P SL20 Index closed down 0.52 percent, or 17.91 points, at 3,456.
-
-Turnover was 1.2 million. A big part of this (Rs597mn) came from John Keells Holdings Plc (down at 194.25).
-
-“There was foreign buying interest on John Keells and Hemas,” Softlogic Stockbrokers said.
-
-Hemas Holdings Plc contributed Rs143mn to the turnover, and the share closed down at 81.10.
-
-Hayleys Plc contributed Rs156mn to the turnover, and the share closed up at 101.50.
-
-The capital goods counters, with all the bluechips, was the leading sector contributing to the day’s turnover.
-
-With the exception of Hayleys and a couple of other companies, the counter saw most stocks close down or flat.
-
-...
-
-[Data](articles/80274596.json)
-
-[Extended Data](ext_articles/80274596.ext.json)
 
 ---

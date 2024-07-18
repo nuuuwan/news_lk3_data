@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 20:20:18**
+As of **2024-07-18 20:35:32**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,976 (100.0%) of 35,978 articles have been extended.
+35,978 (100.0%) of 35,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### ක්ෂුද්‍ර - සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායන් සඳහා මූල්‍ය පැකේජයක්
+### Financial package for micro-minor and medium scale enterprises
 
 *2024-07-18 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198961) · `si`
 
-ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායන් සඳහා ආයෝජන සහ කාරක ප‍්‍රාග්ධන යන පහසුකම් දෙවර්ගයෙන්ම සමන්විත මූල්‍ය පැකේජයක් හදුන්වාදී තිබේ.
+A financial package offering investments and working capital support for microfinance and medium-scale enterprises was launched today, providing funds through 15 institutions at a concessionary interest rate. Aimed at aiding both enterprise development and microfinance sectors, this initiative marks a significant step forward in supporting Sri Lanka's economic growth.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (18) ජනාධිපති කාර්යාලයේදී මූල්‍ය පැකේජය හඳුන්වාදීම සිදුවු බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+🟩
 
-සහනදායී පොලී අනුපාතයක් යටතේ බලපත්‍රලාභී වාණිජ බැංකු සහ බලපත්‍රලාභී විශේෂිත බැංකු ඇතුළුව මූල්‍ය ආයතන 15ක් හරහා මෙම මූල්‍ය පහසුකම් ලබාදීමට නියමිතය.
+A financial package has been introduced with both investments and working capital facilities for microfinance and medium scale enterprises.
 
-ව්‍යවසායන්ට සහාය ලබාදීම හා අක‍්‍රීය ණය කාණ්ඩය යටතේ ඇති ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසාය සඳහා සහායවීම යන ප්‍රධාන කොටස් දෙකක් යටතේ මෙම ණය ලබාදීම සිදු කෙරෙනු ඇති.
+The financial package was launched today (18) under the patronage of President Ranil Wickremesinghe.
 
-ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායන් ශක්තිමත් කිරීමේ ආයෝජන ණය යටතේ වසර 10ක කාලසීමාවකට අදාළව සියයට 7ක සහන පොලී අනුපාතයකට, රුපියල් මිලියන 15ක උපරිම සීමාවකට යටත්ව ණය මුදල් සැපයෙන අතර ඒ සඳහා රුපියල් බිලියන 13ක් වෙන් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+The financial facilities will be provided through 15 financial institutions including a concessionary interest rate.
+
+The loans will be provided under two main sections of assistance to enterprises and the microfinance, small and medium enterprises.
+
+A sum of Rs.
 
 ◼️
 
 [Data](articles/d4cb7664.json)
+
+[Extended Data](ext_articles/d4cb7664.ext.json)
 
 ---
 
@@ -78,19 +84,27 @@ The two Sri Lankans and 34 Sri Lankans have been remanded before the incident wh
 
 ---
 
-### ’’கிளப் வசந்த நாட்டுக்கே கடனாளி’’
+### The club club is the debtor for the spring country
 
 *2024-07-18 19:30:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-நாட்டுக்கே-கடனாளி/175-340644) · `ta`
 
-அத்துருகிரியவில் சுட்டு படுகொலைச் செய்யப்பட்ட ‘கிளப் வசந்த’ என்றழைக்கப்படும் வர்த்தகர் சுரேந்திர வசந்த பெரேராவின் படுகொலை தொடர்பில் கைது செய்யப்பட்ட பச்சை குத்தும் நிலையத்தின் உரிமையாளரிடம் ஊடங்களின் முன்னிலையில் வாக்குமூலம் பெற்றார் என குற்றஞ்சாட்டப்பட்டுள்ள பிரதி பொலிஸ்மா அதிபர் உள்ளிட்ட அதிகாரிகளுக்கு எதிராக எவ்விதமான ஒழுக்காற்று நடவடிக்கைகளோ அல்லது விசாரணைகளோ முன்னெடுக்கப்படமாட்டாது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்  தெரிவித்துள்ளார்.
+Dr. Ales, the Minister of Public Defense, stated that no disciplinary actions will be taken against authorities implicated in the arrest of a media owner linked to the assassination of businessman Surendra Vasantha Perera. He emphasized that the Deputy Inspector General of Police, leading a group seen in a video, will face no repercussions for their actions. The minister clarified that only two individuals remain at large among those involved in the shooting incident. Despite financial difficulties and widespread social media attention, the minister assured that the club's businesses are bankrupt, and it owes money to the country.
 
-மேல் மாகாண பிரதி பொலிஸ்மா அதிபர் தலைமையிலான குழுவினர்  சந்தேகநபர் ஒருவரை விசாரணை செய்யும் வீடியோ வெளியாகியுள்ளது. இது தொடர்பில் பொலிஸ் உத்தியோகத்தர்களுக்கு  எதிராக நடவடிக்கை எடுக்கப்படுமா என்ற கேள்விக்கு பதிலளித்த அமைச்சர் டிரான் அலஸ்  “இந்த தவறை மீண்டும் செய்யவேண்டாம் என கடுமையாக தான் எச்சரித்துள்ளதாக தெரிவித்துள்ளார்.
+🟩
 
-அந்த பொலிஸ் உத்தியோகத்தர்களுக்கு எதிராக நடவடிக்கைகளை எடுக்குமாறு பொலிஸ்மா அதிபருக்கு தான்  பணிக்கவில்லை என்றார்.
+The Minister of Public Defense, Dr. Ales, said that no disciplinary action or inquiries will be carried out against the authorities, including the Deputy Inspector General of Police, accused of the Media owner of the tattoo, who was arrested in connection with the assassination of businessman Surendra Vasantha Perera, who was shot dead in Athurugiriya.
+
+Video of a group headed by a team led by the Deputy Inspector General of Police of the Western Province. Responding to a question whether action would be taken against the police officers in this regard, Minister Tran Ales said, “He has warned that he should not repeat this mistake.
+
+He said he did not work with the Inspector General of Police to take action against the police officers.
+
+He added that everyone except two people have been arrested in connection with the shooting incident.When the club was shot dead, he was lending all over the country. The minister said he had no money in his hand.
 
 ...
 
 [Data](articles/a0bc2e67.json)
+
+[Extended Data](ext_articles/a0bc2e67.ext.json)
 
 ---
 

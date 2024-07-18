@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 01:20:14**
+As of **2024-07-19 01:35:45**
 
 ## Newspaper Stats
 
-*Scraped **35,998** Articles*
+*Scraped **35,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,151
 dailyftlk | 2,281
 adalk | 3,257
 adaderanalk | 4,153
-tamilmirrorlk | 4,370
+tamilmirrorlk | 4,371
 dailymirrorlk | 4,733
 virakesarilk | 5,616
 adaderanasinhalalk | 6,025
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,997 (100.0%) of 35,998 articles have been extended.
+35,998 (100.0%) of 35,999 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,21 +60,47 @@ Following a clash between students and police last Tuesday, universities have be
 
 ---
 
-### தமிழக மீனவர்களை தமிழகம் கொண்டுவரும்
+### தேர்தலுக்கு நிதியை தாமதமின்றி விடுவிக்க ஒப்புதல்
+
+*2024-07-18 23:22:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்கு-நிதியை-தாமதமின்றி-விடுவிக்க-ஒப்புதல்/175-340662) · `ta`
+
+ஜனாதிபதி தேர்தலுக்காக ஒதுக்கப்பட்ட 10 பில்லியன் ரூபாய் நிதியை தேர்தல்கள் ஆணைக்குழுவின் தேவைக்கேற்ப தாமதமின்றி வழங்குவதாக நிதியமைச்சின் செயலாளர் உறுதியளித்துள்ளார்.
+
+நிதி அமைச்சின் செயலாளர் மற்றும் தேர்தல்கள் ஆணைக்குழு இடையில் நடைபெற்ற பேச்சுவார்த்தையில் இந்த உறுதிமொழி வழங்கப்பட்டுள்ளது.
+
+அரசாங்கம் கடுமையான நிதி முகாமைத்துவத்துடன் செயற்படுவதால் குறித்த நிதியை வழங்குவதில் எவ்வித தடையும் இல்லை என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டி தெரிவித்துள்ளார்.
+
+தபால் சேவைகள், அச்சிடும் பணிகள் மற்றும் பாதுகாப்பிற்கான செலவுகளை வழங்க தயாராக உள்ளதாகவும் நிதி இராஜாங்க அமைச்சர் மேலும் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/a48d58bf.json)
+
+---
+
+### Tamil Nadu fishermen will bring Tamil Nadu
 
 *2024-07-18 23:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்களை-தமிழகம்-கொண்டுவரும்/175-340661) · `ta`
 
-“தமிழக மீனவர்களும் இந்திய குடிமக்கள் தான். தமிழக மீனவர்களின் பாதுகாப்பு முக்கியமானது” என மத்திய அரசுக்கு உயர் நீதிமன்ற மதுரைக் கிளை அறிவுறுத்தியுள்ளது.
+A petition filed by Theran Murugan in the Madurai High Court seeks action from the central government regarding the long-standing issue of Tamil Nadu fishermen being captured and boat seizures by the Sri Lankan navy. The court emphasizes the importance of the safety of these Indian citizens and expects the central government to act promptly to release the detained fishermen.
 
-இலங்கை கடற்படையினரால் கைது செய்யப்பட்ட தமிழக மீனவர்கள் 26 பேரை விடுவிக்க நடவடிக்கை எடுக்க மத்திய அரசுக்கு உத்தரவிடக்கோரி இராமநாதபுரம் மாவட்டம் மோர்ப்பண்ணையைச் சேர்ந்த தீரன் முருகன் உயர் நீதிமன்ற மதுரைக் கிளையில் மனு தாக்கல் செய்துள்ளார்.
+🟩
 
-அந்த மனுவில், “இலங்கை கடற்படையினரால் தமிழக மீனவர்கள் சிறைபிடிக்கப்படுவது, படகுகள் பறிமுதல் செய்யப்படும் சம்பவங்கள் 34 ஆண்டுகளுக்கும் மேலாக நடைபெற்று வருகிறது.
+“Tamil Nadu fishermen are also Indian citizens. The safety of Tamil Nadu fishermen is important, ”the Madurai branch of the High Court has advised the central government.
 
-வாழ்வாதாரத்துக்காக மீன்பிடி தொழில் செய்து வரும் தமிழக மீனவர்களை இலங்கை கடற்படையினர் குற்றவாளிகள் போல கைது செய்கின்றனர். எனவே, 26 மீனவர்களை விடுவிக்க உரிய நடவடிக்கை எடுக்க மத்திய அரசுக்கு உத்தரவிட வேண்டும்” எனக் கோரியிருந்தார்.
+Theran Murugan from Morpanna in Ramanathapuram district has filed a petition at the Madurai branch of the High Court in Ramanathapuram district.
+
+In the petition, “The Sri Lankan navy's capture of Tamil Nadu fishermen and the seizure of boats has been going on for more than 34 years.
+
+Sri Lankan navy arrests Tamil Nadu fishermen. Therefore, the central government should take appropriate action to release 26 fishermen. ”
+
+The petition came up for hearing on Thursday (18) at the Session of Justice R. Suresh Kumar and G. Arulmurugan. The judges then said, “Tamil Nadu fishermen and Indian citizens. Their safety is important. ”. On the side of the central government, it was reported that "Tamil Nadu fishermen are being rescued."
 
 ...
 
 [Data](articles/d4682365.json)
+
+[Extended Data](ext_articles/d4682365.ext.json)
 
 ---
 
@@ -2323,33 +2349,5 @@ The Colombo High Court has been sentenced to four years' rigorous imprisonment f
 [Data](articles/9174a6dc.json)
 
 [Extended Data](ext_articles/9174a6dc.ext.json)
-
----
-
-### The destruction of marine breasts by illegal fishing;Department
-
-*2024-07-18 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188744) · `ta`
-
-Illegal fishing harms marine life like turtles and dolphins, often leading to death from suffocation, injuries, and scale loss. In a week, 10 dead turtles were found off the western coast, highlighting the urgent need for public awareness and action against illegal fishing practices to safeguard marine biodiversity.
-
-🟩
-
-The Department of Wildlife Department said that marine boobs such as turtles and dolphins are killed in illegal fishing in the country's waters.
-
-Sea breasts, including all the fish, die because of fish using prohibited nets.
-
-In this case, department officials have recovered 10 turtle bodies within a week in the western coast.
-
-An autopsy on the bodies of the recovered turtle has died due to difficulty in breathing, wounds and scales, wildlife veterinarians said.
-
-Illegal fishing systems are not only destroyed by sea turtles, but also harmful to marine breasts such as dolphins.
-
-Therefore, the Department of Wildlife has called for the public to be concerned about illegal fishing activities to protect the marine breasts and to inform the relevant authorities.
-
-◼️
-
-[Data](articles/3cd79126.json)
-
-[Extended Data](ext_articles/3cd79126.ext.json)
 
 ---

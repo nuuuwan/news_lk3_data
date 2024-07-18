@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 21:54:59**
+As of **2024-07-18 22:08:15**
 
 ## Newspaper Stats
 
-*Scraped **35,984** Articles*
+*Scraped **35,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,114 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,151
 dailyftlk | 2,281
-adalk | 3,254
-adaderanalk | 4,151
-tamilmirrorlk | 4,366
+adalk | 3,255
+adaderanalk | 4,152
+tamilmirrorlk | 4,367
 dailymirrorlk | 4,733
 virakesarilk | 5,613
-adaderanasinhalalk | 6,023
+adaderanasinhalalk | 6,024
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,982 (100.0%) of 35,984 articles have been extended.
+35,984 (100.0%) of 35,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### චීනයේ අලුත්ම ප්‍රතිසංස්කරණ යෝජනාව
+### இரண்டு பேரைத்தவிர அனைவரும் கைது
+
+*2024-07-18 21:53:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-பேரைத்தவிர-அனைவரும்-கைது/175-340647) · `ta`
+
+க்ளப் வசந்த எனப்படும் சுரேந்ர வசந்த பெரேராவின் கொலையுடன் தொடர்புடைய இரண்டு பேரைத் தவிர ஏனைய அனைவரும் கைது செய்யப்பட்டுள்ளதாக பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+
+சம்பவத்துடன் தொடர்புடைய எஞ்சிய இரண்டு பேரையும் கைது செய்வதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருவதாகவும் அவர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/ab792c8c.json)
+
+---
+
+### පොලිස්පති ගැන තීරණය 24 වනදා
+
+*2024-07-18 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198966) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස පත් කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සම්   විභාගයට ගැනීමට අවසර දෙනවා ද? නැද්ද යන නියෝගය ලබන 24 වනදා ප්‍රකාශයට පත්කරන බව ශ්‍රේෂ්ඨාධිකරණය නිවේදනය කළේය.
+
+එමෙන්ම දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස කටයුතු කිරීම වළක්වාලන අතුරු තහනම් නියෝගයක් නිකුත් කරන්නේද? නැත්ද? යන නියෝගයත් එදින ප්‍රකාශයට පත් කරන බවත් විනිසුරු මඩුල්ල සඳහන් කර තිබේ.
+
+අගරදගුරු මැල්කම් කාදිනල් රංජිත් හිමියන් ඇතුළු පිරිසක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබූ අතර පෙත්සම් දීර්ඝ ලෙස සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+
+◼️
+
+[Data](articles/9908179d.json)
+
+---
+
+### Oil tanker capsizes in Oman: Sri Lankan Captain’s daughter speaks to Ada Derana
+
+*2024-07-18 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100608/oil-tanker-capsizes-in-oman-sri-lankan-captains-daughter-speaks-to-ada-derana) · `en`
+
+Omani authorities say nine members of a 16-strong Indian and Sri Lankan crew have been rescued, after going missing when their oil tanker capsized off the coast of Oman on Monday. One other has been found dead.
+
+The vessel, captained by a Sri Lankan, K. Vaiththiyakumar, had a crew comprising 13 Indians and 3 Sri Lankans, as per reports.
+
+Among the rescued, eight are Indians and one is Sri Lankan, all of whom are currently receiving medical attention. However, six crew members, who escaped in a second lifeboat, remain missing.
+
+Speaking to Ada Derana, Thulasi Vaiththiyakumar, the daughter of Captain Vaiththiyakumar, expressed deep concern over the missing crew members.
+
+...
+
+[Data](articles/472a1376.json)
+
+---
+
+### China's latest reforms resolution
 
 *2024-07-18 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198965) · `si`
 
-චීන කොමියුනිස්ට් පක්ෂයේ 20 වැනි මධ්‍යම කාරක සභාවේ 3 වැනි පූර්ණ සැසිය පසුගිය 15 වනදා ආරම්භ වූ  අතර  එය අද (18) අවසන් විය.
+The 3rd Central Committee of China's Communist Party, led by President Xi Jinping, concluded its session with a focus on expanding reforms to modernize China's socialist system. The goal is to enhance "socialism with Chinese characteristics" and aim for a high-quality socialist tradition economy by 2035, with the reform plan set to be completed by 2029.
 
-එම සැසිය පැවැත්වුණේ චීන ජනාධිපති ෂී ජින් පිං මහතාගේ ප්‍රධානත්වයෙනි.
+🟩
 
-මෙහි දී චීන මාදිලියේ නවීකරණය අඛණ්ඩව ඉදිරියට ගෙන යාම සඳහා ප්‍රතිසංස්කරණ තවදුරටත් පුළුල් කිරීම පිළිබඳ යෝජනාව සම්මත කිරීම විශේෂත්වයකි.
+The 3rd Central Committee of the Communist Party, the full session of the 20th Central Committee of the Communist Party began on the 15th and it has ended today (18).
 
-මේ අයුරින් චීනය ප්‍රතිසංස්කරණ තවදුරටත් පුළුල් කිරීමේ මූලික අරමුණු වන්නේ චීන ලක්ෂණ සහිත සමාජවාදය අඛණ්ඩව වැඩිදියුණු කිරීම බව වාර්තා වේ.
+The event was held by the Chinese President Xi Jin Ping.
 
-2035 වර්ෂය වනවිට සෑම ආකාරයෙන්ම උසස් ගුණාත්මකභාවයෙන් යුත් සමාජවාදී වෙළේඳපොළ ආර්ථිකයක් ගොඩනැඟීම චීනයේ අරමුණ බව ද මෙහිදී සඳහන් විය.
+It is noteworthy that the resolution on further expansion of reforms to continue the modernization of the Chinese model is a continuing expansion.
 
-මෙහිදී ඉදිරිපත් කළ යෝජනාවේ දක්වා ඇති ප්‍රතිසංස්කරණ සැලසුම් 2029 වසරේ දී මහජන චීන සමූහාණ්ඩුව 80 වැනි සංවත්සරය සමරන අවස්ථාව වන විට සම්පූර්ණ කළ යුතු බව ද මෙහිදී  සඳහන් වූ බව චීන මාධ්‍ය සමූහය වාර්තා කරයි.
+It is reported that the main objectives of further expanding the reconstruction of China's reconstruction is to improve the socialism with Chinese characteristics.
+
+It was also stated that China's purpose was to build a high quality socialist tradition economy in every year 2035.
+
+The Chinese Media group reports that the reforms scheme should be completed by the time of 2029, the reforms scheme should be completed in 2029.
 
 ◼️
 
 [Data](articles/7308eab9.json)
 
+[Extended Data](ext_articles/7308eab9.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට එන ප්‍රබල ඉන්දීය කණ්ඩායම් - නායකත්වයේ වෙනසකුත්
+### Powerful Indian Teams to Sri Lanka - A Change of Leadership
 
 *2024-07-18 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198964) · `si`
 
-ශ්‍රී ලංකාව සමග එක්දින සහ T20 ක්‍රිකට් තරගාවලි සඳහා සහභාගීවන ඉන්දිය සංචිත නම් කර තිබේ.
+Indian cricket teams for the T20 series against Sri Lanka have been announced, marking a shift in leadership.
+
+🟩
+
+The Indian squads have been named for Sri Lanka and the T20 cricket tournament.
 
 ◼️
 
 [Data](articles/a7e9b598.json)
+
+[Extended Data](ext_articles/a7e9b598.ext.json)
 
 ---
 
@@ -233,6 +293,22 @@ He added that everyone except two people have been arrested in connection with t
 [Data](articles/a0bc2e67.json)
 
 [Extended Data](ext_articles/a0bc2e67.ext.json)
+
+---
+
+### විදෙස්ගතව සිට පැමිණි පුද්ගලයෙක් නිවසට යන විට පැහැර ගනියි
+
+*2024-07-18 19:24:17* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්ගතව-සිට-පැමිණි-පුද්ගලයෙක්-නිවසට-යන-විට-පැහැර-ගනියි/11-410858) · `si`
+
+කුවේට් රාජ්‍යයේ සිට ශ්‍රී ලංකාවට පැමිණි ශ්‍රී ලාංකිකයෙක් කුලී රථයකින් තම ගම් ප්‍ර දේශයට ගමන් කරමින් සිටියදී කුරුණෑගල - කැප්පිටිගල මාර්ගයේදී පිරිසක් විසින් කැබ් රථයකින් ඔහු පැහැරගෙන ගොස් තිබේ.
+
+කෙසේ වෙතත් පැහැර ගැනීමට ලක්වූ පුද්ගලයා ඊයේ සවස් කාලයේදීම නාරම්මල පොලිස් වසමේදී පැහැරගත් පුද්ගලයා සොයා ගෙන ඇති අතර ඔහු පැහැරගත් සැකකරුවන් හතර දෙනාද පොලිස් විශේෂ කාර්ය බලකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පැහැර ගැනීමට හේතුව අණාවරණය නොවන බවත් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරික්ෂක රිදීගම පොලිසීය විසින් සිදුකරන බවත් පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+
+◼️
+
+[Data](articles/f6e0dd6f.json)
 
 ---
 
@@ -2247,85 +2323,5 @@ Slave stealing a large number of rupees and laptops at a housing stolen of a hou
 [Data](articles/eeaa141f.json)
 
 [Extended Data](ext_articles/eeaa141f.ext.json)
-
----
-
-### Human Rights Watch pushes for PTA repeal, raises alarm over new bill
-
-*2024-07-18 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100592/human-rights-watch-pushes-for-pta-repeal-raises-alarm-over-new-bill) · `en`
-
-Sri Lankan authorities continue to use the ‘notorious’ Prevention of Terrorism Act (PTA) to target perceived opponents and minority communities without credible evidence to support the allegations despite repeated pledges to end the practice, claims Human Rights Watch (HRW).
-
-Issuing a statement on Wednesday (17), the international watchdog stated that as a result, while some victims have suffered years of arbitrary detention and torture, others are persecuted even after the case against them is dropped.
-
-...
-
-[Data](articles/3ba5ddfd.json)
-
-[Extended Data](ext_articles/3ba5ddfd.ext.json)
-
----
-
-### Baked to the man who was confused at the Health Minister's meeting in Jaffna
-
-*2024-07-18 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188743) · `ta`
-
-A man accused of confusing Health Minister Ramesh Pathirana during a meeting in Jaffna had his case adjourned to April 21st. He was released on bail after court proceedings.
-
-🟩
-
-The Chavakachcheri Magistrate's Justice has adjourned the case to the 21st of this month.
-
-The person was accused of confused the Health Minister Ramesh Pathirana at the Northern Provincial Council auditorium headed by the Northern Provincial Council on Wednesday.
-
-The man was allowed to go on bail as the Chavakachcheri Magistrate's Court appeared after investigations.
-
-◼️
-
-[Data](articles/59285a40.json)
-
-[Extended Data](ext_articles/59285a40.ext.json)
-
----
-
-### Former Mayor of Kurunegala will be reduced
-
-*2024-07-18 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198940) · `si`
-
-Buwanekaba Ruy building's demolition led to a three-year prison sentence for the former Mayor of Kurunegala, as per the Court of Appeal's ruling on appeal verdicts.
-
-🟩
-
-The Court of Appeal was ordered to be sentenced to three years in prison to the demolition of Buwanekaba Ruy building in Kurunegala.
-
-The Court of Appeal has issued the decision by providing the verdict of appeals petitions.
-
-◼️
-
-[Data](articles/2a1f75be.json)
-
-[Extended Data](ext_articles/2a1f75be.ext.json)
-
----
-
-### Fire on the Chinese business complex;16 killed
-
-*2024-07-18 10:42:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீன-வணிக-வளாகத்தில்-தீ-16-பேர்-பலி/50-340602) · `ta`
-
-A fire erupted at a business complex in Gingang, Sichuan, China, killing 16. Nearly 300 responders tackled the blaze, rescuing 30 but leaving many trapped. The incident highlights safety concerns amid lax regulations.
-
-🟩
-
-A fire broke out on Wednesday night at a business complex in Gingang, Sichuan Province, west of China.
-
-Following this, firefighters and emergency workers went to the scene of nearly 300 people. They were involved in the task of bringing the fire under control. The fire broke out 2 hours after the fire.
-
-Many of which have been trapped. 30 of them have been safely rescued. However, the details of how many people were trapped inside were not released. 16 people died in a fire. In China, in the absence of adequate security regulations and legal rules, such incidents often occur.
-
-◼️
-
-[Data](articles/45029620.json)
-
-[Extended Data](ext_articles/45029620.ext.json)
 
 ---

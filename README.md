@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 05:37:56**
+As of **2024-07-18 06:01:47**
 
 ## Newspaper Stats
 
-*Scraped **35,798** Articles*
+*Scraped **35,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,59 @@ dbsjeyarajcom | 318
 colombotelegraphcom | 337
 bbccomsinhala | 350
 newsfirstlk | 363
-islandlk | 2,027
+islandlk | 2,038
 economynextcom | 2,136
-dailyftlk | 2,264
+dailyftlk | 2,267
 adalk | 3,234
 adaderanalk | 4,131
 tamilmirrorlk | 4,331
 dailymirrorlk | 4,733
-virakesarilk | 5,585
+virakesarilk | 5,594
 adaderanasinhalalk | 5,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,798 (100.0%) of 35,798 articles have been extended.
+35,804 (100.0%) of 35,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### CEAT Kelani wins eight Golds for Quality Improvement at National Convention on Quality and Productivity
+
+*2024-07-18 04:44:00* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-wins-eight-Golds-for-Quality-Improvement-at-National-Convention-on-Quality-and-Productivity/34-764431) · `en`
+
+CEAT Kelani Team leaders with the eight QIP Gold awards and the two ‘Kaizen’ awards won by the Company
+
+Eight quality improvement projects implemented at CEAT Kelani Holdings have won Gold awards for being Sri Lanka’s leading tyre manufacturer at the National Convention on Quality and Productivity (NCQP) 2024, organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP).
+
+Noteworthy about this achievement was that every Quality improvement project presented by CEAT Kelani at the convention received a Gold award, and the teams that presented them have qualified to represent Sri Lanka at the International Convention on Quality Control Circles (ICQCC) 2024, to be held in Colombo in November.
+
+...
+
+[Data](articles/e77430d5.json)
+
+[Extended Data](ext_articles/e77430d5.ext.json)
+
+---
+
+### Nestlé Lanka celebrates long-standing business partnerships
+
+*2024-07-18 04:39:08* · [`dailyftlk`](https://www.ft.lk/business/Nestlé-Lanka-celebrates-long-standing-business-partnerships/34-764429) · `en`
+
+Nestlé Lanka recently held the “Connect@Nest’24’” event, to honour and recognise the valued business partnerships of the “Good Food Good Life” company.
+
+This felicitation event brought together a diverse array of business partners across the value chain, all of whom contribute to Nestlé Lanka’s vision of delighting Sri Lankan consumers with products filled with taste and goodness.
+
+...
+
+[Data](articles/a334aa86.json)
+
+[Extended Data](ext_articles/a334aa86.ext.json)
+
+---
 
 ### Committee to assess security threats against Presidential candidates
 
@@ -69,6 +103,190 @@ The Interim Secretariat for Truth and Reconciliation Mechanism has conducted sev
 [Data](articles/a8c65fbc.json)
 
 [Extended Data](ext_articles/a8c65fbc.ext.json)
+
+---
+
+### Sri Lanka High Commission in London unveils first ever replica of Colombo Port City abroad
+
+*2024-07-18 04:28:09* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-High-Commission-in-London-unveils-first-ever-replica-of-Colombo-Port-City-abroad/34-764422) · `en`
+
+CHEC Port City Colombo Ltd. Assistant Managing Director Eric Ou​
+
+The High Commission of Sri Lanka in London, in collaboration with the Colombo Port City Economic Commission (CPEC) and the CHEC Port City Colombo Ltd., proudly and ceremoniously unveiled a detailed replica of the Colombo Port City on 12 July, showcasing the ambitious and transformative project that is set to redefine Sri Lanka’s economic landscape.
+
+The event was held at the “Gateway to Sri Lanka Lounge” at Sri Lanka High Commission London and graced by a distinguished array of invited guests, underscoring the global significance and potential of the Port City particularly among the investors in the UK as well as the Republic of Ireland.
+
+...
+
+[Data](articles/44c8a952.json)
+
+[Extended Data](ext_articles/44c8a952.ext.json)
+
+---
+
+### The President's Cabinet recommends appointing a committee to make security arrangements for presidential candidates
+
+*2024-07-18 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188731) · `ta`
+
+The President's Cabinet proposes forming a committee led by the Secretary of Public Security to manage exclusive security for presidential and former presidential candidates ahead of the upcoming election. This includes appointing a Deputy Inspector General of Police to oversee security coordination. The committee will consist of key officials like the Chief of Security Forces and the National Investigation Chief, among others. Additionally, a high-ranking police officer will be tasked with coordinating election-day security measures in collaboration with the Election Commission.
+
+🟩
+
+President Ranil Wickremesinghe has submitted a cabinet paper on the appointment of a committee to supervise the exclusive security arrangements of the candidates and former presidents contesting the upcoming presidential election and to appoint a Deputy Inspector General of Police to coordinate all the security activities.
+
+Former President Donald Trump has been attacked at the US presidential campaign rally in the US state of Pennsylvania, and the recommendation has been submitted to ensure the unique security of candidates contesting the upcoming presidential election.
+
+Accordingly, after the acceptance of nominations in the presidential election, the committee has been proposed to appoint the committee headed by the Secretary of the Ministry of Public Security to oversee the exclusive security arrangements of the candidates and former presidents.
+
+...
+
+[Data](articles/8f37e4fb.json)
+
+[Extended Data](ext_articles/8f37e4fb.ext.json)
+
+---
+
+### Amidst various challenges, government agencies were protected without stopping salaries and payments
+
+*2024-07-18 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/188730) · `ta`
+
+Despite economic crises and the COVID-19 pandemic, the Sri Lankan government ensured continuous payment of salaries to civil servants, demonstrating resilience and commitment to public service. This effort, guided by President Ranil Wickremesinghe, aimed to keep the government functioning smoothly amidst challenges. Additionally, measures were taken to streamline public service recruitment and utilize state-owned properties for revenue generation, alongside completing infrastructure projects and improving pension services.
+
+🟩
+
+Minister of State for Home Affairs Asoka Priyantha said that the advice of President Ranil Wickremesinghe was a great success that any civil servant was able to advance with the lack of salary and payments to any civil servant in the period of the spread of Corona infection and the economic crisis.
+
+He made this statement at a media briefing held at the Presidential Media Center on Wednesday (17).
+
+“The last two years have been very difficult. We had to pay salaries and payments to civil servants despite the Kovit and economic crises.Some also thought that salary and payments could be stopped.
+
+They also thought the government service would be paralyzed.Under the guidance of President Ranil Wickremesinghe, the administration of the state administration, Home Affairs, Provincial Councils and Local Government Councils, under the guidance of Prime Minister Dinesh Gunawardena, was able to protect the public service.
+
+...
+
+[Data](articles/6d9e951b.json)
+
+[Extended Data](ext_articles/6d9e951b.ext.json)
+
+---
+
+### The National Program for the "Randora" Urumaya Urumaya Urumaya was held in Colombo under the leadership of the President
+
+*2024-07-18 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188729) · `ta`
+
+At a "Randora Urumaya" event in Colombo, President Ranil Wickremesinghe announced plans to transform the Western Province into a mega-city accommodating 5 million people. He highlighted the government's efforts to grant housing rights to low-income families, issuing 1,117 affirmative papers for homes across various authorities. This initiative aims to provide land and housing rights to all, marking a significant step towards improving the lives of the nation's inhabitants.
+
+🟩
+
+President Ranil Wickremesinghe said that the Western Province is planned to be the largest city where about 50 lakh people live.
+
+The President said that the government was working to provide full rights and housing rights to the people, including villages, cities and hill country, and that the government has launched a revolutionary program that has not been implemented by any government to provide relief to the nation.
+
+President Ranil Wickremesinghe made this statement while addressing the "Randora Urumaya" event to provide land guarantees for 50,000 low -income families living in the apartment in Colombo on Wednesday afternoon at the Sugathadasa Stadium in Colombo.
+
+According to President Ranil Wickremesinghe, the 2024 budget was implemented in the 2024 budget and a scheme of providing the entire rights of the houses to two and a half million low -income families living in Colombo.
+
+...
+
+[Data](articles/9e7f6119.json)
+
+[Extended Data](ext_articles/9e7f6119.ext.json)
+
+---
+
+### கருணா அம்மானுக்கும் ஐக்கிய தேசியக் கட்சிக்கும் இடையே விசேட கலந்துரையாடல்!
+
+*2024-07-18 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188728) · `ta`
+
+கருணா அம்மான் தலைமையிலான தமிழர் ஐக்கிய சுதந்திர முன்னணிக்கும் ஐ.தே.கட்சியின் முன்னாள் அமைச்சர் அகிலவிராஜ் காரியவம்சம் தலைமையிலான குழுவினருக்கும் இடையே விசேட கலந்துரையாடல்  ஒன்று புதன்கிழமை (17) இடம்பெற்றிருந்தது.
+
+புதன்கிழமை  (17.07.2024) மாலை 3 மணியளவில் சிறிகோத்தாவில் ஐக்கிய தேசியக் கட்சியின் தலைமை நிர்வாக குழுவின் அழைப்பினை ஏற்று, தமிழர் ஐக்கிய சுதந்திர முன்னணியின் தலைமைப்பீடம் கருணா அம்மான் தலைமையில், உபதலைவர் ஜெயா சரவணா மற்றும் செயலாளர் செந்தூரன் ஆகிய குழுவினர், ஐ.தே.கட்சியின் முன்னாள் அமைச்சராக உள்ள அகிலவிராஜ் காரியவம்சம் தலைமையில் முக்கிய கலந்துரையாடலை மேற்கொண்டிருந்தனர்.
+
+குறித்த கலந்துரையாடலில் வரவிருக்கும் ஜனாதிபதி தேர்தலுக்கான பல்வேறு திட்டங்கள் தொடர்பாக விரிவாகவும், சிறப்பான முடிவுகளுடன் ஆராயப்பட்டுப் பேசப்பட்டதாகத் தெரியவருகிறது.
+
+◼️
+
+[Data](articles/668a6b88.json)
+
+---
+
+### யுனெஸ்கோவில் இலங்கை உறுப்புரிமை பெற்று 75 ஆண்டுகள் நிறைவு: பணிப்பாளர் நாயகம் ஒட்ரே அசோலே கண்டிக்கு விஜயம்
+
+*2024-07-18 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188727) · `ta`
+
+யுனெஸ்கோவில் இலங்கை உறுப்புரிமை பெற்று 75 ஆண்டுகள் நிறைவடைவதை முன்னிட்டு இலங்கைக்கு விஜயம் செய்துள்ள யுனெஸ்கோவின் பணிப்பாளர் நாயகம் ஒட்ரே அசோலே (Audrey Azoulay) புதன்கிழமை (17) காலை கண்டிக்கு விஜயம் செய்துள்ளார்.
+
+கண்டிக்கு சென்றுள்ள பணிப்பாளர் நாயகத்தை மத்திய மாகாண ஆளுநர் சட்டத்தரணி லலித் யு கமகே வினால்  வரவேற்கப்பட்டார்.
+
+இங்கு குறுகிய விஜயத்தை மேற்கொண்ட பணிப்பாளர் நாயகம், ஸ்ரீ தலதா மாளிகை, பேராதனை பல்கலைக்கழகம் மற்றும் தாவரவியல் பூங்கா போன்றவற்றுக்குச் சென்று  அங்கு   இடம்பெற்ற நிகழ்வுகளிலும் கலந்துகொள்ள உள்ளார்.
+
+◼️
+
+[Data](articles/81850010.json)
+
+---
+
+### புதிய மீன்பிடி சட்டத்திற்கு எதிராக சுவரொட்டிகள்
+
+*2024-07-18 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188726) · `ta`
+
+அரசினால் உருவாக்கப்பட்ட புதிய மீனவச் சட்ட வரைப்பிற்கெதிராக புதன்கிழமை(17) மன்னார் நகர பகுதியில் சுவரொட்டிகள் ஒட்டப்பட்டன.
+
+மீனவ அமைப்புக்களின் ஒன்றியம் எனும் பெயரில் தேசிய மீனவ ஒத்துழைப்பு இயக்கத்தின் மன்னார் மாவட்ட இளைஞர் அமைப்பினரால்  குறித்த சுவரொட்டிகள் ஒட்டப்பட்டன.
+
+குறித்த சுவரொட்டியில் மீன்பிடி தொழிலை நம்பி வாழும் அனைவரினதும் வயிற்றில் அடிக்கும் புதிய மீன்பிடி சட்டத்தை தோற்கடிப்போம் என குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/46d353f6.json)
+
+---
+
+### 100PLUS ஐசோடோனிக் பானம் இலங்கையில் அறிமுகம்
+
+*2024-07-18 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/188725) · `ta`
+
+இலங்கையின் தக்ரால்  குழும அங்கத்தவரான போல்ட் டிஸ்ட்ரிபியூஷன் மூலம் நடத்தப்பட்ட மலேசியாவின் முதன்மையான ஐசோடோனிக் பானமான 100PLUS இன் அறிமுக நிகழ்வு கொழும்பு ITC ரத்னதிபவில் nadaipettrathu " இலங்கை  சந்தையில் வியக்கத்தக்க மாற்றங்களை செய்யப்போகும் 100PLUS பானம் உங்களுக்கு புத்துணர்ச்சி, நீரேற்றம் ஆகியவற்றுடன் உற்சாகத்தையும் தரக்கூடிய வகையில் சரியாக வடிவைக்கப்பட்ட கலவையாகும்" என தக்ரால் குழுமத்தின் இலங்கையின் பிரதம நிறைவேற்று அதிகாரி ஹில்மி நியாஸ் தெரிவித்தார்.
+
+இந்த நிகழ்வில் இலங்கை மற்றும் மாலைதீவுகளுக்கான மலேசிய உயர்ஸ்தானிகர் அதிமேதகு எச். பட்லி ஹிஷாம் ஆடம், மலேசிய  F&N  சர்வதேச சந்தை மேம்பாட்டிற்கான நிர்வாக இயக்குனர் திரு. லாய் காங் மிங் ஆகியோர் கலந்து சிறப்பித்தனர். அத்துடன், நாடளாவிய ரீதியில் உள்ள அரச மற்றும் தனியார் நிறுவனங்களின் பிரமுகர்களும், முன்னணி சந்தைப்படுத்தல் நிறுவனங்களின் உத்தியோகத்தர்களும் FMCG இன் சில்லறை விற்பனையாளர்களும் பிரசன்னமாகி இருந்தனர்.
+
+...
+
+[Data](articles/b3c30eae.json)
+
+---
+
+### நாணய நிதியத்துடனான இணக்கப்பாட்டு ஒப்பந்தத்தில் நியாயமான மாற்றங்களை மேற்கொள்வோம் - கலாநிதி ஹர்ஷ டி சில்வா
+
+*2024-07-18 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188724) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க கையெழுத்திட்டுள்ள சர்வதேச நாணய நிதிய இணக்கப்பாட்டு ஒப்பந்தத்துக்கமையவே எமக்கும் செயற்பட வேண்டியேற்படும். அவ்வாறில்லை எனில் மீண்டும் சிக்கல்களை எதிர்கொள்ள நேரிடும். எவ்வாறிருப்பினும் அந்த இணக்கப்பாட்டில் நியாயமான மாற்றங்கள் மேற்கொள்ளப்படும் என்ற யதார்த்தமான வாக்குறுதியை மக்களுக்கு வழங்குவதாக பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் புதன்கிழமை (17) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+பொருளாதார நெருக்கடிகள் அதிகரித்துள்ளமையால் 26 சதவீதமான மக்கள் உள ரீதியாக பாதிக்கப்பட்டுள்ளதாக ஆய்வொன்றில் குறிப்பிடப்பட்டுள்ளது. பணவீக்கம் குறைவடைந்துள்ளதாக சிலர் கூறுகின்றனர். பணவீக்கம் குறைவடைதல் என்பது பொருட்களின் விலை அதிகரிக்கும் வேகம் குறைவடைவதாகும். மாறாக பொருட்களின் விலை குறைவடைவதைக் குறிக்காது. மறுபுறம் பொருட்களின் விலைகளைக் குறைப்பதற்கு பதிலாக அவற்றின் எடை குறைக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/e05d5d72.json)
+
+---
+
+### மட்டக்களப்பு மாவட்ட வேலையற்ற பட்டதாரிகள் 16வது நாளாகவும் கவன ஈர்ப்பு போராட்டம்
+
+*2024-07-18 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188723) · `ta`
+
+மட்டக்களப்பு மாவட்ட வேலையற்ற பட்டதாரிகள் 16வது நாளாகவும் புதன்கிழமை (17) தினம் மட்டக்களப்பு நகரில் தமது கவன ஈர்ப்பு போராட்டத்தினை முன்னெடுத்தனர்.
+
+தமது தொழில் உரிமையினை உறுதிப்படுத்துமாறு கோரி மட்டக்களப்பு மாவட்ட வேலையற்ற பட்டதாரிகள் ஒன்றியத்தினால் இந்த போராட்டம் தொடர்ச்சியான முறையில் முன்னெடுக்கப்பட்டுவருகின்றது.
+
+வயது ஏறுகிறது வாழ்க்கை போகுது வேலைவேண்டும்,நாம்கண்ட கனவு பொய்யாகிவிடுமோ,பட்டம் வீட்டில் நாங்கள் றோட்டில் போன்ற பல்வேறு வாசகங்கள் பொறிக்கப்பட்ட பதாகைகளை ஏந்தி போராட்டம் முன்னெடுக்கப்பட்டது.
+
+தமது போராட்டம் 16வது நாளை கடந்துள்ளபோதிலும் இதுவரையில் தமக்கு சாதகமான எந்த பதிலும் வழங்கப்படாத நிலையில் தாங்கள் தொடர்ச்சியாக புறக்கணிக்கப்படுவதாக போராட்டத்தில் ஈடுபட்டுள்ளவர்கள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/4bf40d2e.json)
 
 ---
 
@@ -496,6 +714,18 @@ The first match of the Sri Lanka women's group will be held with Bangladesh on t
 
 ---
 
+### Sadaharitha signs largest-ever Agarwood tech-sharing deal with Malaysia
+
+*2024-07-17 21:00:00* · [`islandlk`](http://island.lk/sadaharitha-signs-largest-ever-agarwood-tech-sharing-deal-with-malaysia/) · `en`
+
+Sadaharitha Plantations Limited (Sadaharitha), Sri Lanka’s No.1 commercial forestry management company, and the leader in sustainably grown agarwood and other green investments, recently announced a very significant milestone. The company has successfully entered into an agreement with agarwood growers in Malaysia to share and sell its proprietary “SP Tech” for the inoculation of agarwood trees. This technology, developed through years of rigorous research and development, is designed to boost resin production in agarwood trees using natural ingredients. Initially, this agreement will witness the inoculation of one million agarwood trees annually, while three new agarwood product factories will be set up in Malaysia, across different states.
+
+...
+
+[Data](articles/c1711050.json)
+
+---
+
 ### Doctors died in an accident
 
 *2024-07-17 20:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-வைத்தியர்-உயிரிழந்தார்/175-340578) · `ta`
@@ -523,6 +753,48 @@ The injured doctor was taken to Chilaw Hospital for treatment and was transferre
 [Data](articles/901ab3ed.json)
 
 [Extended Data](ext_articles/901ab3ed.ext.json)
+
+---
+
+### SLT-MOBITEL offers tailor-made connectivity solutions for Uber
+
+*2024-07-17 20:56:00* · [`islandlk`](http://island.lk/slt-mobitel-offers-tailor-made-connectivity-solutions-for-uber/) · `en`
+
+Designed to fulfill the dynamic connectivity needs of merchants, couriers and drivers registered on the Uber platform
+
+SLT-MOBITEL, the National ICT Solutions Provider, and Sri Lanka’s most-loved ride hailing and food delivery app, Uber, have come together to offer tailor-made, value-added connectivity solutions for merchants, couriers, and drivers registered on Uber’s platform in Sri Lanka.
+
+...
+
+[Data](articles/e1e541f5.json)
+
+---
+
+### CSE’s bullish proclivities nipped in the bud by political uncertainty
+
+*2024-07-17 20:53:00* · [`islandlk`](http://island.lk/cses-bullish-proclivities-nipped-in-the-bud-by-political-uncertainty/) · `en`
+
+Stock market trading dipped drastically yesterday despite the market having a positive start at the beginning of the week with indices rising and more importantly, net foreign inflow reaching over Rs. 400 million. Political uncertainty emanating from the upcoming presidential election affected the market, analysts said.
+
+Amid those developments both indices moved downwards. The All Share Price Index went down by 39.6 points while S and P SL20 declined by 15.49 points. Turnover stood at Rs 1.2 billion with three crossings. Those crossings were reported in JKH, which crossed 3 million shares to the tune of Rs 586 million and its shares traded at Rs 194, Hemas Holdings 1.5 million shares crossed for Rs 124 million; its shares traded at Rs 81.40 and Hayley’s 1.2 million shares crossed for Rs 121 million; its shares sold at Rs 101.
+
+...
+
+[Data](articles/6997feab.json)
+
+---
+
+### AIA Insurance pioneers digital innovation in insurance industry
+
+*2024-07-17 20:50:00* · [`islandlk`](http://island.lk/aia-insurance-pioneers-digital-innovation-in-insurance-industry/) · `en`
+
+AIA Sri Lanka continues to lead the way in digital innovation within the insurance industry, setting new benchmarks for customer convenience and technological advancement. Demonstrating its commitment to transforming the insurance landscape through cutting-edge technology, AIA Sri Lanka was honoured with four prestigious Information Technology awards, highlighting its dedication to providing unparalleled customer experiences.
+
+At the esteemed Insurance Asia Awards last year, AIA Sri Lanka was honoured as the winner of the ‘Digital Transformation Initiative of the Year’. This prestigious recognition, awarded at a prominent regional awards ceremony, celebrates the company’s transformative efforts and reflects its unwavering dedication to empowering both employees and customers through digital innovation across Asia.
+
+...
+
+[Data](articles/b9dd2780.json)
 
 ---
 
@@ -2063,389 +2335,5 @@ A high personnel in the Kalutara Municipal Council has been stuck in the next fe
 [Data](articles/13f2e90a.json)
 
 [Extended Data](ext_articles/13f2e90a.ext.json)
-
----
-
-### AKD says Sri Lanka presidential election will likely be held on Sept 28
-
-*2024-07-17 14:01:00* · [`economynextcom`](https://economynext.com/akd-says-sri-lanka-presidential-election-will-likely-be-held-on-sept-28-172506/) · `en`
-
-ECONOMYNEXT — Leftist National People’s Power (NPP) leader Anura Kumara Dissanayake believes that Sri Lanka’s presidential election will likely be held on September 28, the MP said.
-
-Speaking at a rally in Kandy on Tuesday July 16, Dissanayake said the election commission has said avoiding inauspicious times such as the ‘Rahu’ period and other factors would have to be considered when deciding the date of the election.
-
-“They have said the Rahu period will be considered when deciding an election date. Taking all this into account, what we feel is that the presidential election will most probably held on September 28,” he said.
-
-Chairman of the National Election Commission R M A L Ratnayake told the media on Tuesday that the commission will publish the notice announcing nomination and election dates before the end of July.
-
-...
-
-[Data](articles/d9a9fb5d.json)
-
-[Extended Data](ext_articles/d9a9fb5d.ext.json)
-
----
-
-### The four-year-old girl's body meets a well
-
-*2024-07-17 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198909) · `si`
-
-A 4-year-old girl's body was discovered in a well in Ruwanwella's Mimburuwa area. Witnesses reported seeing her speaking to her unconscious mother before the tragic event. The news broke today, as reported by Ada Derana.
-
-🟩
-
-The body of a 4-year-old girl was found in a well in the mimburuwa area in Ruwanwella.
-
-The residents of the area have seen her speaker to the unconscious mother.
-
-The incident was reported today (17), "Ada Derana reporter said.
-
-◼️
-
-[Data](articles/0644795e.json)
-
-[Extended Data](ext_articles/0644795e.ext.json)
-
----
-
-### 249 years in prison for dogs
-
-*2024-07-17 13:46:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/நாய்களை-வன்புணர்ந்தவருக்கு-249-வருடங்கள்-சிறை/53-340555) · `ta`
-
-Adam Briton, a 52-year-old British zoologist living in Australia, was sentenced to 249 years in prison after admitting to 60 charges of animal abuse, including the death of 39 dogs. The accusations stem from Briton's alleged sexual harassment of animals, which he documented and shared online under the pseudonym "Monster." The case came to light when a former owner discovered a video of their dog being abused.
-
-🟩
-
-The court has sentenced him to 249 years in prison for allegedly being accused of sexually abusing dogs.. 39 dogs have been found dead so far due to sexual harassment.
-
-A British living in Australia has been bizarrely accused of crimes.
-
-That is, the 52 -year -old zoologist and the specialist of the crocodile, Adam Briton, has been beaten by dogs and harassing the dogs.
-
-39 dogs have died so far. Adam Briton has also taken the video of dogs.
-
-There are 60 allegations against him for harassing animals like this. Adam Briton agreed all this in the Australian court.
-
-Adam is involved in these crimes that bought them from the owners who are unable to care for animals. Adam seems to have suffered from mental illness called Paraphilia.
-
-People with the disease have sex with children and lifeless substances. Adam has sex lust on animals over one step. He is filmed at various angles when it comes to raping animals.
-
-He has posted the videos on social media under the pseudonym of Monster.
-
-...
-
-[Data](articles/2e3ef9b6.json)
-
-[Extended Data](ext_articles/2e3ef9b6.ext.json)
-
----
-
-### More details revealed on shooting and killing of former cricketer
-
-*2024-07-17 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100578/more-details-revealed-on-shooting-and-killing-of-former-cricketer-) · `en`
-
-Dhammika Niroshana, also known as ‘Jonty,’ a former captain of Sri Lanka’s Under-19 cricket team, was shot dead last night (16) in Ambalangoda.
-
-The shooting occurred at around 9.30 p.m. yesterday in front of the victim’s house at Kande Mawatha in Bogahawatte, Ambalangoda.
-
-Niroshana was shot by an assailant who was armed with a 12-bore rifle, while he had been shot in the head killing him instantly.
-
-The shooting took place as the victim was preparing to leave his house to attend a funeral ceremony.
-
-The shooter had fired from near an abandoned plot of land near the victim’s house and had then fled the scene on foot.
-
-Niroshana, a 41-year-old father of two, had captained the Sri Lanka Under-19 cricket team in 2002.
-
-He had been living overseas for a period before returning to the country and was reportedly planning to travel abroad once again.
-
-The incident unfolded when a resident had alerted Niroshana regarding a suspicious individual loitering near his home in the abandoned property.
-
-...
-
-[Data](articles/f3fbe4a0.json)
-
-[Extended Data](ext_articles/f3fbe4a0.ext.json)
-
----
-
-### 6 deaths in a five-star hotel room
-
-*2024-07-17 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198908) · `si`
-
-Six Vietnamese tourists, including Americans with dual citizenship, were found dead in a Thai hotel room from cyanide poisoning. The Thai Prime Minister has ordered a thorough investigation. Reports indicate three women and two men among the victims.
-
-🟩
-
-The bodies of six Vietnamese tourists were found in a Thai hotel room.
-
-It is said that there are America dual citizenship groups among the dead.
-
-The cyanide has died, and the orders of the Prime Minister of Thai Prime Minister have launched a broad investigation.
-
-Foreign media reports that between three women and two male among the dead.
-
-◼️
-
-[Data](articles/3835fa5e.json)
-
-[Extended Data](ext_articles/3835fa5e.ext.json)
-
----
-
-### Sri Lanka to lease Kelaniya land to Storight Logistics
-
-*2024-07-17 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-kelaniya-land-to-storight-logistics-172504/) · `en`
-
-ECONOMYNEXT – A 2-acre, 1.08 perch land in Mudun Ela, Kelaniya, owned by the Sri Lanka Land Development Corporation, is to be leased to newly established company Storight Logistics (Pvt) Ltd, a cabinet statement said.
-
-The Cabinet approved to “grant the said land on lease basis to Storight Logistics (Pvt) Ltd for 30 years on the current assessment submitted by the Chief Assessor of the Government.”
-
-Initially, Bitsuthra IT (Pvt) Ltd had made a request for a land adjacent to the Colombo Harbour for logistic services and storage facilities for a Board of Investment of Sri Lanka approved project.
-
-Since the the company had met the basic requirements relevant to the project proposal, the new company Storight Logistics (Pvt) Ltd was established to provide the logistic services and storage facilities, the statement said. (Colombo/Jul17/2024)
-
-◼️
-
-[Data](articles/df686a63.json)
-
-[Extended Data](ext_articles/df686a63.ext.json)
-
----
-
-### Presidential election
-
-*2024-07-17 13:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-சுதந்திரக்-கட்சியின்-வேட்பாளர்/175-340552) · `ta`
-
-Maithripala Sirisena warns of potential violence if the Sri Lanka presidential election is postponed, stating the SLFP candidate's victory.
-
-🟩
-
-Former President Maithripala Sirisena has said that the Sri Lanka Freedom Party (SLFP) candidate has been elected in the presidential election.
-
-He also noted that if an attempt to postpone the presidential election, there is a bloodbath in the country.
-
-The former president said this while speaking to the media after an event in Colombo yesterday.
-
-◼️
-
-[Data](articles/09c45b7a.json)
-
-[Extended Data](ext_articles/09c45b7a.ext.json)
-
----
-
-### Diana withdrew the petition
-
-*2024-07-17 13:27:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுவை-வாபஸ்-பெற்றார்-டயானா/175-340551) · `ta`
-
-Diana Kamage, ex-State Minister, withdrew her Supreme Court petition against the abolition of her party membership by the United People's Power. Her legal team cited her desire to stop pursuing the case.
-
-🟩
-
-Former State Minister Diana Kamage has withdrawn the petition filed in the Supreme Court challenging the United People's Power's decision to abolish her party membership.
-
-The former minister's lawyers have taken steps to withdraw the petition, saying Kamage did not want to continue the case.
-
-◼️
-
-[Data](articles/a03f982d.json)
-
-[Extended Data](ext_articles/a03f982d.ext.json)
-
----
-
-### Our Savindri who took Sri Lankan food to the international community
-
-*2024-07-17 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198907) · `si`
-
-Savindri Perera, a Sri Lankan-born, Adelaide-based bank advisor, showcased her culinary skills in the 'Master Chef' Australia 2024, focusing on traditional Sri Lankan cuisine. Her unique blend of onion, garlic, and curry impressed the judges, securing her the third place. This achievement highlights her dedication to introducing Sri Lankan flavors to the international community.
-
-🟩
-
-Sri Lankan Savindri Perera won the third place in the 'Master Chef' tournament in Australia.
-
-The highlight of her, she had been preparing a Sri Lankan dimension.
-
-Born in Sri Lanka, Savindri Perera was migrated to Adelaide, Australia.
-
-She is currently 30 years old and is a bank advisor to the profession.
-
-Since the interest of Sri Lankan refreshments for Sri Lankan refreshment was held in the Master Cheff Tournament in Australia because of the interest of the preparation of Sri Lankan food and drink.
-
-In the tournament, she was set up and her mother was delicious Sri Lankan diet.
-
-The specialty is to bring her onion, garlic, and curry.
-
-The "Master Chaff 'tournament, Australia's Network - 10, competitors across Australia participate in testing rounds for testing rounds.
-
-The panel of judges chooses 50 for the semi-finals according to the flavors of foods they adjust.
-
-...
-
-[Data](articles/7af78453.json)
-
-[Extended Data](ext_articles/7af78453.ext.json)
-
----
-
-### Bangladesh shuts universities, colleges indefinitely after protests turn deadly
-
-*2024-07-17 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100577/-bangladesh-shuts-universities-colleges-indefinitely-after-protests-turn-deadly) · `en`
-
-Bangladesh announced it will indefinitely shut down all public and private universities from Wednesday after protests by students against a quota system for government jobs turned deadly this week, leaving at least six people dead and scores injured.
-
-The South Asian nation has been rocked by protests for weeks over public sector job quotas, which include a 30% reservation for family members of freedom fighters from the 1971 War of Independence from Pakistan. It has sparked anger among students who face high youth unemployment rates, with nearly 32 million young Bangladeshis not in work or education out of a total population of 170 million people.
-
-Demonstrations intensified after Prime Minister Sheikh Hasina refused to meet the protesters’ demands, citing ongoing court proceedings, and labelled those opposing the quota as “razakar” - a term used for those who allegedly collaborated with the Pakistani army during the 1971 war.
-
-...
-
-[Data](articles/e6a015d3.json)
-
-[Extended Data](ext_articles/e6a015d3.ext.json)
-
----
-
-### Disclosure of the Trump Assassination Plan
-
-*2024-07-17 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198906) · `si`
-
-Iran allegedly plotted to assassinate former US President Donald Trump, but the plot was foiled by a young American, Thomas Matthew, who shot dead the would-be assassin in Pennsylvania. The US authorities are investigating the incident, involving both domestic and Iranian suspects.
-
-🟩
-
-US national security guards say that Iran had been planned on information that Iran was planning former American President Donald Trump.
-
-However, last Saturday, he was targeting a deadlock shot.
-
-The assassination had taken place by a young man named American Thomas Matthew, 20.
-
-US authorities have not yet been identified among the murder plan, which is said to be done by Pennsalvania murder and Iran.
-
-◼️
-
-[Data](articles/d7db03d6.json)
-
-[Extended Data](ext_articles/d7db03d6.ext.json)
-
----
-
-### Former Cricket Leader's mandate revenge
-
-*2024-07-17 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198905) · `si`
-
-Dhammika Niroshana, former Under-19 Sri Lanka cricket captain, was killed by gunmen using a 12 bore firearm outside his home in Kotawatta, Bogahawatta. The incident occurred around 9:30 pm during a visit to attend a local funeral. Police believe the motive could be related to Dhammika's involvement in gambling protests.
-
-🟩
-
-Dhammika Niroshana, who played a leader of the Under-19 Sri Lankan cricket team, was shot dead last night.
-
-In front of a house in the Kotawatta, Bogahawatta, has shooting around 9.30 pm in front of a house in Kandawatta.
-
-The shooting was shot dead by a 12 bore firearm targeting the homes.
-
-The shooting was hit by the person's head and he died in the spot.
-
-The shooters have been carried out from a lonely land near the house.
-
-The assault was at the time of the residence to attend a funeral of the area.
-
-The murder was a 41 year old father of two known as the "Joneli".
-
-He was also the leader of the Under-19 Sri Lankan cricket team in 2002.
-
-He was later abroad and had been abroad with the objective of abroad.
-
-Dhammika had come out of the house where a resident was informed that a suspicious land was held near the house.
-
-The police suspect that the deceased has been conducting gambling protesters in the deceased and the police have been involved in the murder.
-
-◼️
-
-[Data](articles/7553cace.json)
-
-[Extended Data](ext_articles/7553cace.ext.json)
-
----
-
-### The present is the answer to the medical superintendent
-
-*2024-07-17 12:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்போது-உள்ளவரே-பதில்-வைத்திய-அத்தியட்சகர்/175-340549) · `ta`
-
-Health Minister Ramesh Pathirana confirmed the presence of the medical superintendent at the Chavakachcheri Resource Hospital, stating it's the current appointee. The following day, Dr. K. Rajeev was named the Advisory Superintendent, taking over on the 9th.
-
-🟩
-
-Health Minister Ramesh Pathirana said that the medical superintendent of the Chavakachcheri Resource Hospital is present.
-
-Responding to a question by the media after the event held at the Jaffna Teaching Hospital on Wednesday (17), the Minister of Health made this.
-
-The Minister said that the current respondent of the hospital is the officer who is currently appointed at the Chavakachcheri Hospital.
-
-The next day, by the Northern Provincial Health Department, Dr. K.. Rajeev has been appointed as the Advisory Superintendent of Reply on the 9th and assumed responsibility.
-
-◼️
-
-[Data](articles/72de51a3.json)
-
-[Extended Data](ext_articles/72de51a3.ext.json)
-
----
-
-### Diana Gamage withdraws petition against SJB decision
-
-*2024-07-17 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100576/diana-gamage-withdraws-petition-against-sjb-decision) · `en`
-
-Former Minister of State Diana Gamage has withdrawn her petition from the Supreme Court today (17), which was filed seeking an order to annul the decision taken by the Samagi Jana Balawegaya (SJB) to remove her from the party’s National List.
-
-When the petition was taken up today (17), the attorneys appearing on behalf of Diana Gamage informed the court that there was no need to continue with the petition and therefore requested the court to allow its withdrawal.
-
-Accordingly, the Supreme Court granted permission for the petition to be withdrawn.
-
-◼️
-
-[Data](articles/b032bfe5.json)
-
-[Extended Data](ext_articles/b032bfe5.ext.json)
-
----
-
-### Bombshell threats to Ambani home wedding
-
-*2024-07-17 12:00:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பானி-வீட்டு-திருமணத்திற்கு-வெடிகுண்டு-மிரட்டல்/175-340547) · `ta`
-
-A 32-year-old engineer from Gujarat threatened to bomb Anand Ambani's wedding to Radhika Merchant, leading to his arrest. The incident sparked widespread media coverage.
-
-🟩
-
-Anand Ambani, son of Mukesh Ambani, worldwide, has also been reported to have been bombed by Radhika Merchant's wedding.
-
-The Indian media has reported that a 32 -year -old engineer from Gujarat has been bombed by social media and has been arrested by the police.
-
-◼️
-
-[Data](articles/c27ce0c5.json)
-
-[Extended Data](ext_articles/c27ce0c5.ext.json)
-
----
-
-### Sri Lanka’s Nations Trust Bank to raise upto Rs10bn in debenture issue
-
-*2024-07-17 11:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-nations-trust-bank-to-raise-upto-rs10bn-in-debenture-issue-172475/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Nations Trust Bank Plc said it will issue 50 million debentures at 100 rupees each to raise 5 billion rupees.
-
-Another 30 million tranche of the unlisted, rated, unsecured, senior, redeemable debentures will be issued at the discretion of the Bank in the event of an oversubscription, the bank said in a stock exchange filing.
-
-There would be a further option to issue another 20 million of such debentures, aggregating to a total of 10 billion rupees.
-
-The bank said it has obtained the approval of the Securities and Exchange Commission of Sri Lanka.
-
-◼️
-
-[Data](articles/1ae6a078.json)
-
-[Extended Data](ext_articles/1ae6a078.ext.json)
 
 ---

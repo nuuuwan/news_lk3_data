@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 17:56:28**
+As of **2024-07-18 18:15:50**
 
 ## Newspaper Stats
 
-*Scraped **35,951** Articles*
+*Scraped **35,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,57 @@ islandlk | 2,040
 economynextcom | 2,147
 dailyftlk | 2,281
 adalk | 3,247
-adaderanalk | 4,147
+adaderanalk | 4,148
 tamilmirrorlk | 4,362
 dailymirrorlk | 4,733
-virakesarilk | 5,607
+virakesarilk | 5,612
 adaderanasinhalalk | 6,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,949 (100.0%) of 35,951 articles have been extended.
+35,951 (100.0%) of 35,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### අධ්‍යාපනයේ නවීකරණය ට ජනපති යුනෙස්කෝ සහාය ඉල්ලයි
+### President calls for help in education
 
 *2024-07-18 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198958) · `si`
 
-මෙරට අධ්‍යාපන ක්ෂේත්‍රයේ සිදු කිරීමට නියමිත පුළුල් නවීකරණ වැඩසටහන සඳහා යුනෙස්කෝ සංවිධානයේ අධ්‍යාපන අංශයේ සහාය ලබාගැනීම පිළිබඳ සාකච්ඡා කරන බවත්, එසේම එම ප්‍රතිසංස්කරණ වෙනුවෙන් ලෝක බැංකුවේ සහ ආසියානු සංවර්ධන බැංකුවේ ද සහාය ලබාගන්නා බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe discusses UNESCO collaboration for modernizing Sri Lanka's education sector, emphasizing AI integration and preparing students for the modern world.
 
-කෘත්‍රීම බුද්ධිය (AI) ඇතුළු නවීන තාක්ෂණය සමඟ බද්ධ වූ දියුණු අධ්‍යාපන ක්‍රමයක් රට තුළ නිර්මාණය කර නවීන ලෝකය සමඟ ඉදිරියට යාමට මෙරට දරුවන්ට අවස්ථාව උදා කර දෙන බවද ජනාධිතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මොනරාගල බුදුරුවගල මහා විද්‍යාලයේ ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සැසිවාරයට ඊයේ (17) ජනාධිපති කාර්යාලයේ දී එක් වෙමිනි.
+President Ranil Wickremesinghe says that the UNESCO's education sector is being discussed for the broad modernization program to be carried out in the education sector in Sri Lanka.
 
-පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මොනරාගල බුදුරුවගල මහා විද්‍යාලයට පැමිණි අවස්ථාවේ එම සිසුන් වෙත කරන ලද ආරාධනය අනුව මෙලෙස විද්‍යාලයේ ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සැසිවාරය ජනාධිපති කාර්යාලයේ ප්‍රධාන ශ්‍රවණාගාරයේ දී පැවැත්විණි.
+The President said that the children of Sri Lanka will be created in the country and provides an advanced education system including artist intelligence (AI) and provides opportunities to the country to proceed with the modern world.
+
+President Ranil Wickremesinghe was speaking at the Presidential Secretariat yesterday (17) at the Parliament of Buduruwagala Maha Vidyalaya, Moneragala.
+
+President Ranil Wickremesinghe arrived at Buduruwagala Maha Vidyalaya in Moneragala, the student parliamentary parliamentary session of the school was held at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/e609c845.json)
+
+[Extended Data](ext_articles/e609c845.ext.json)
+
+---
+
+### Finance Ministry to offer financial support for MSMEs facing hardships
+
+*2024-07-18 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100603/finance-ministry-to-offer-financial-support-for-msmes-facing-hardships) · `en`
+
+The Ministry of Finance, in a bid to re-energize the Micro, Small and Medium-scale Enterprises (MSMEs) facing hardships, will offer financial support through a re-energizing package for investment and working capital, the President’s Media Division (PMD) said.
+
+Accordingly, loans are available at affordable rates of 8% for working capital and 7% for investment via 15 participatory financial institutions, including licensed commercial and specialized banks, to support MSMEs that survived the crisis and those in the non-performing loans category, it added.
+
+◼️
+
+[Data](articles/ec2fba17.json)
 
 ---
 
@@ -73,6 +93,24 @@ WWW.SLBFEKFEKS APPLICAND WITHINE CARE LICENSE TO READ A LICENSE FOR A MONEY OR A
 [Data](articles/0e3552a6.json)
 
 [Extended Data](ext_articles/0e3552a6.ext.json)
+
+---
+
+### 1350க்கும் மேற்பட்ட உள்ளூராட்சிமன்ற ஊழியர்களுக்கு நிரந்தர நியமனத்தை வழங்கினார் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்!
+
+*2024-07-18 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188781) · `ta`
+
+கிழக்கு மாகாண உள்ளூராட்சி மன்றங்களில் 10 வருடங்களுக்கு மேலாக தற்காலிக நியமனத்தில் பணிபுரிந்து வரும் ஊழியர்கள் தமது நிரந்தர நியமனங்கள் குறித்து கடந்த கால ஆளுநர்கள் மற்றும் பல்வேறு தரப்பினர்களிடம்  கோரிக்கைகளை முன்வைத்து வந்தனர்.
+
+அவர்களால் எவ்வித வெற்றிகரமான நடவடிக்கையும்  முன்னெடுக்கப்படாத  நிலையில், சம்பந்தப்பட்ட ஊழியர்கள் தங்களது நிரந்தர  நியமனம் குறித்தும், நிரந்தர நியமனம் இல்லாததால் எதிர்நோக்கும் பிரச்சினைகள் குறித்தும் கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிரசின் தலைவருமான  செந்தில் தொண்டமானின் கவனத்திற்கு கொண்டு வந்தனர்.
+
+ஆளுநர் செந்தில் தொண்டமான் இவ்விடயம் குறித்து ஜனாதிபதி, பிரதமரின் கவனத்திற்கு கொண்டு சென்று  உரிய தீர்வினைப் பெற்று தருவதாக உறுதியளித்திருந்தார்.
+
+ஆளுநர் செந்தில் தொண்டமானால் உரிய ஆவணங்கள் தயாரிக்கப்பட்டு 1350க்கும் மேற்பட்ட ஊழியர்களுக்கு ஒரே நாளில்  நிரந்தர நியமனங்கள்  வழங்கி வைக்கப்பட்டது. அதில் முதல் கட்டமாக அம்பாறை மாவட்டத்தை சேர்ந்தவர்களுக்கு நியமனங்கள் வழங்கி வைக்கப்பட்டது.
+
+...
+
+[Data](articles/4043b230.json)
 
 ---
 
@@ -115,6 +153,40 @@ Jarfna Kings scored 177 runs for the loss of 7 wickets in their bowls.
 [Data](articles/15ae877d.json)
 
 [Extended Data](ext_articles/15ae877d.ext.json)
+
+---
+
+### மலையக மக்களுக்கு நிரந்தர காணி, வீட்டு உரிமைகளை வழங்குவதே அரசாங்கத்தின் நோக்கம்!
+
+*2024-07-18 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188766) · `ta`
+
+பெருந்தோட்ட மக்கள் வாழும் பிரதேசங்களை இனங்கண்டு அப்பகுதிகளைப் புதிய குடியேற்ற கிராமங்களாக சட்டரீதியாக பிரகடனப்படுத்துவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் முன்வைக்கப்பட்ட யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+அதன் எதிர்கால செயற்பாடுகள் தொடர்பான கலந்துரையாடல் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் ஜனாதிபதி அலுவலகத்தில் நேற்று வியாழக்கிழமை (17) நடைபெற்றது.
+
+கிராமங்கள், நகரங்கள் மற்றும் பெருந்தோட்டங்கள் ஆகியவற்றை உள்ளடக்கிய மக்களுக்கு  நிரந்தர காணி மற்றும் வீட்டு உரிமைகளை வழங்குவதே அரசாங்கத்தின் எதிர்பார்ப்பு எனவும் அதற்குத் தேவையான புரட்சிகர வேலைத்திட்டம் ஏற்கனவே செயற்படுத்தப்பட்டுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க இதன்போது தெரிவித்தார்.
+
+அரச பெருந்தோட்டக் கம்பனி மற்றும் உள்ளூர் பெருந்தோட்டக் கம்பனிகளின் கட்டுப்பாட்டில் உள்ள தோட்ட மக்கள் வாழும் பகுதிகளை புதிய கிராமங்களாக சட்டரீதியாக பிரகடனப்படுத்தத் தேவையான சட்ட ஏற்பாடுகளை மேற்கொள்வது மிகவும் முக்கியமான மற்றும்  காலத்திற்கு உகந்த முன்மொழிவு என்பதால், அனைத்துத் தரப்பினரின் கொள்கை ரீதியான உடன்பாடு வெளிப்படுத்தப்பட்டது.
+
+...
+
+[Data](articles/af14ba49.json)
+
+---
+
+### பாடசாலை நேரத்தில் பிரத்தியேக வகுப்புக்களை நடத்திய ஆசிரியர் இடைநீக்கம்
+
+*2024-07-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188779) · `ta`
+
+அநுராதபுரத்தில் பாடசாலை நேரத்தில் பிரத்தியேக வகுப்புக்களை நடாத்திய ஆசிரியர் ஒருவர் உடனடியாக இடைநீக்கம் செய்யப்பட்டுள்ளார்.
+
+கணிப் பாடத்தை கற்பிக்கும் ஆசிரியர்  பாடசாலை நேரத்தில் பிரத்தியேக வகுப்புக்களை நடத்துவதை வழக்கமாக கொண்டுள்ளதாகவும், பாடசாலைக்கு வருகைதந்து கையொப்பமிட்டு பிரத்தியேக வகுப்பு செல்வதாகவும் பெற்றோர்கள் குழுவொன்று வடமத்திய மாகாணக் கல்விப் பணிப்பாளர்   எஸ்.எம்.டபிள்யூ. சமரக்கோனிடம் முறைப்பாடு செய்திருந்தது.
+
+அந்த முறைப்பாட்டின் பேரில், மாகாணக் கல்விப் பணிப்பாளர், ஏனைய பணியாளர்கள் குழுவுடன் இணைந்து பாடசாலையை ஆய்வு செய்த போது, இந்த ஆசிரியர், பாடசாலைக்குச் சென்று, ஆசிரியர்களின் வருகைப் பதிவேட்டில் கையொப்பமிட்டு, பாடசாலைக்கு வெளியே சென்று பிரத்தியேக வகுப்பில் மாணவர்களுக்கு கற்பித்ததைக் கண்டுபிடித்தனர்.
+
+◼️
+
+[Data](articles/0de421a9.json)
 
 ---
 
@@ -352,6 +424,24 @@ Equipment including submersible water pumps, kitchen sets, chainsaws, polysack b
 
 ---
 
+### கிண்ணியா தோனா கடற்கரையில் பெண்ணொருவரின் சடலம் மீட்பு!
+
+*2024-07-18 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188769) · `ta`
+
+கிண்ணியா பொலிஸ் பிரிவுக்குட்பட்ட தோனா கடற்கரையில், பெண்ணொருவரின் சடலம் இன்று வியாழக்கிழமை (18) காலை கண்டெடுக்கப்பட்டுள்ளதாக கிண்ணியா பொலிஸார் தெரிவித்தனர்.
+
+கிண்ணியா அகம்மட் ஒழுங்கையைச் சேர்ந்த, 33 வயதான மஃரூப் முன்னவ்வரா என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டதாக பொலீசார் தெரிவித்தனர்.
+
+இவ்வாறு சடலமாக மீட்கப்பட்டவர் புத்தி சுவாதீனமற்றவர் எனவும் கடலில் குளிப்பதற்காக இன்று காலை கடலில் இறங்கியதால் இச் சம்பவம் இடம் பெற்றுள்ளதாக ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+குறித்த சடலத்தை விசாரணைகளின் பின்னர் உறவினர்களிடம் ஒப்படைத்துள்ளதாகவும் கிண்ணியா பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/693fdaea.json)
+
+---
+
 ### Fire that burns in China
 
 *2024-07-18 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198950) · `si`
@@ -373,6 +463,22 @@ However, it is reported that the cause of the fire of the shop complex is yet to
 [Data](articles/779d4484.json)
 
 [Extended Data](ext_articles/779d4484.ext.json)
+
+---
+
+### புத்தளத்தில் ஒரு தொகை உலர்ந்த மஞ்சள் மீட்பு
+
+*2024-07-18 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/188771) · `ta`
+
+நாட்டிற்கு சட்டவிரோதமாக கொண்டுவரப்பட்ட 778 கிலோ கிராம் உலர்ந்த மஞ்சளை கடற்படையினர் கைப்பற்றியுள்ளனர்.
+
+புத்தளம் வெள்ளமுண்டலம தொடக்கம் கொலங்கனத்த வரையான கடற்கரைப் பகுதியில் நேற்று வியாழக்கிழமை (17) மாலை மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடடிவடிக்கையின் போது  இந்த உலர்ந்த மஞ்சள் மீட்கப்பட்டுள்ளது.
+
+இது தொடர்பிலான விசாரணைகள் ஆரம்பிக்கப்படும் வரை உலர் மஞ்சள் பொதி கடற்படையினரின் பொறுப்பில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/42247d50.json)
 
 ---
 
@@ -402,23 +508,29 @@ Uganda boys re -created a satirical shoot when the boy who played the trump pump
 
 ---
 
-### ட்ரம்ப்  மீதான படுகொலை முயற்சி: நையாண்டி செய்த சிறுவர்கள் (வீடியோ)
+### Massacre on Trump
 
 *2024-07-18 15:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்-மீதான-படுகொலை-முயற்சி-நையாண்டி-செய்த-சிறுவர்கள்-வீடியோ/50-340626) · `ta`
 
-அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்பின் மீது துப்பாக்கிச் சூடு நடத்தி படுகொலை செய்வதற்கு முயற்சிக்கப்பட்டது. அதிலிருந்து ட்ரம்ப் தப்பினார். அந்த செய்தி உலகளாவிய ரீதியில் பரவியது, காணொளிகளும் வெளியாகியுள்ளன.
+In Uganda, a group of boys went viral recreating a satirical shooting of former US President Donald Trump, using makeshift props. Their TikTok video, led by user Blud UG, sparked global attention, highlighting the incident's widespread impact and the boys' newfound fame.
 
-உகண்டாவில் உள்ள சிறுவர்கள் டொனால்ட் ட்ரம்பின் படுகொலை முயற்சியை மிகவும் குறிப்பிட்ட விவரங்களுடன் மீளுருவாக்கம்  செய்துள்ளனர்.
+🟩
 
-உகண்டா சிறுவர்கள் குழு ஒன்று டொனால்ட் ட்ரம்ப் படுகொலை முயற்சியின் பொழுதுபோக்கைப் பகிர்ந்து கொண்ட பின்னர் வைரலாகியுள்ளது.
+Attempted to shoot and assassinate former US President Donald Trump. Trump escaped from that. The news spread worldwide, and videos have been revealed.
 
-பயங்கரமான, மரணத்திற்கு அருகில் துப்பாக்கிச்சூடு உலகை அதிர்ச்சிக்குள்ளாக்கிய சில நாட்களுக்குப் பிறகு, TikToker Blud Ug தலைமையிலான சிறுவர்கள் குழு, குழப்பமான மற்றும் இப்போது பிரபலமற்ற - காட்சிகளைப் பிரதிபலிப்பதால் அதிர்ச்சியூட்டும் படங்கள் உலகம் முழுவதும் எவ்வளவு தூரம் பரவியுள்ளன என்பதை வெளிப்படுத்தியது.
+The boys in Uganda have renovated Donald Trump's assassination with very specific details.
 
-மரத்துப்பாக்கிகள் மற்றும் பிளாஸ்டிக் பெட்டிகளால் செய்யப்பட்ட மேசையை பயன்படுத்தி, ட்ரம்பாக நடித்த சிறுவன் தனது முஷ்டியை காற்றில் பம்ப் செய்து, 'போராடு' என்று கத்தியபோது, உகண்டா சிறுவர்கள் நையாண்டியாக படப்பிடிப்பை மீண்டும் உருவாக்கினர்.
+A group of Uganda boys has gone viral after sharing the entertainment of Donald Trump's attempt.
+
+A few days after the shocking of the world of terrible and death, a group of boys led by Tiktoker Blud UG revealed how far the shocking images have spread around the world as they reflect the confusion and now fame.
+
+Uganda boys re -created a satirical shoot when the boy who played the trump pump his fist in the air, using the table made of wooden packets and plastic boxes.
 
 ◼️
 
 [Data](articles/6afaf6d7.json)
+
+[Extended Data](ext_articles/6afaf6d7.ext.json)
 
 ---
 
@@ -2201,151 +2313,5 @@ However, UNP General Secretary Palitha Range Bandara said that the national folk
 [Data](articles/31b22a31.json)
 
 [Extended Data](ext_articles/31b22a31.ext.json)
-
----
-
-### Over the Upasampada occasionally launched an attack on a group of stone
-
-*2024-07-18 07:41:27* · [`adalk`](https://www.ada.lk/breaking_news/උපසම්පදා-උත්සවය-පැවැත්වෙදි-පිරිසක්-හු-කියා-ගල්-මුල්-ප්‍රහාරයක්-එල්ල-කර-යකා-නටලා/11-410845) · `si`
-
-During the Upasampada, a clash occurred involving a group of individuals at the Saliyawewa hospital, leading to admissions at the Thambuththegama hospital. Injuries were reported from the Aluthgama Lumbini Viharaya, with two children treated at home. The event was organized by the Viharasese Dambulla Sarada, with participation from the Maha Sanganajotha Thero and others. A group of monks worked on the Lumbini Viharaya, facing hesitation from some attendees. Allegedly, a group of people assaulted the Dumbini Vidyini Temple, causing fear among the boys in the Lumbini Vihara. The Saliyawewa Police attributed the incident to the LTTE's presence, promising to investigate.
-
-🟩
-
-Saliyawewa hospital said that two persons were admitted to the Thambuththegama hospital with a group of people who were attending Karuwalagaswewa Lumbiniya Viharaya.
-
-The injured have been injured in the Aluthgama Lumbini Viharaya and two other small children who were injured had been taken to their homes.
-
-The Viharasese Dambulla Sarada Dambulla Sarada Dambulla was reserved in the Aluthgama Lumbini Viharaya and organized the event.
-
-The Maha Sanganajotha Thero and the Maha Sanganajotha owners of the North Western Province were partnered with the Vice Ceremony of the North Western Province.
-
-Another 25 Buddhist Monks 16 to 17th Pola Scenario, working on the Lumbini Viharaya, was partnered with the relevant ordinance.
-
-It is said that a group of sitting on the front line of the Viharaya near the front line of the temple was hesitant.
-
-It is said that the bodies of the road to the road to look at the road towards the road to look at it.
-
-...
-
-[Data](articles/a9bd471c.json)
-
-[Extended Data](ext_articles/a9bd471c.ext.json)
-
----
-
-### Serious charges to the Inland Revenue Department
-
-*2024-07-18 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198932) · `si`
-
-The National Audit Office criticizes the Inland Revenue Department for its inefficiency, highlighting a 20% risk of uncollectible Value Added Tax (VAT) worth billions. The audit suggests a need for a formal investigation into the causes of this deficit and recommends disciplinary actions against responsible officials.
-
-🟩
-
-The National Audit office says that nearly 20% of the value added tax is impossible in the risk of tax related income.
-
-The office shows that this situation has arisen due to the inefficiency and irresponsible measures of the Department of Inland Revenue.
-
-According to the Department of Inland Revenue, the Government has made this statement in public declaration of special audit report on the allocated value added.
-
-According to the documents maintained by the Department of Inland Revenue, VAT is suspended at Rs.The National Audit Office points out.
-
-The audit has also revealed that the balance of Rs 114 billion has been exposed to Rs 11 4 billion to 13 billion rupees.
-
-The National Audit Office shows that the VAT should be recovered during the revenue of the Department of Inland Revenue and a risk of the government has caused a risk to the government.
-
-The National Audit Office is the main reason for the loss of this tax due to the availability of the Inland Revenue.
-
-...
-
-[Data](articles/046ad824.json)
-
-[Extended Data](ext_articles/046ad824.ext.json)
-
----
-
-### Biden tests positive for covid, cancels events amid mild symptoms
-
-*2024-07-18 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100589/biden-tests-positive-for-covid-cancels-events-amid-mild-symptoms) · `en`
-
-(AP) — President Joe Biden tested positive for COVID-19 while traveling Wednesday in Las Vegas and is experiencing “mild symptoms” including “general malaise” from the infection, the White House said.
-
-Press secretary Karine Jean-Pierre said Biden will fly to his home in Delaware, where he will “self-isolate and will continue to carry out all of his duties fully during that time.” The news had first been shared by UnidosUS President and CEO Janet Murguía, who told guests at the group’s convention in Las Vegas that president had sent his regrets and could not appear because he tested positive for the virus.
-
-Dr. Kevin O’Connor, the president’s physician, said in a note that Biden, 81, “presented this afternoon with upper respiratory symptoms, to include rhinorhea (runny nose) and non-productive cough, with general malaise.” After the positive COVID-19 test, Biden was prescribed the antiviral drug Paxlovid and has taken his first dose, O’Connor said.
-
-...
-
-[Data](articles/fdd46844.json)
-
-[Extended Data](ext_articles/fdd46844.ext.json)
-
----
-
-### Fairly heavy showers, strong winds expected in parts of the island
-
-*2024-07-18 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100588/fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
-
-The prevailing windy conditions over the island are expected to continue further, due to the active South-west Monsoonal condition, says the Meteorology Department.
-
-Showers or thundershowers will occur at times in Sabaragamuwa Province and in Kandy and Nuwara-Eliya districts, and fairly heavy showers about 50 mm are likely at some places.
-
-Several spells of showers will occur in Western and North-western provinces and in Galle and Matara districts, it said.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/f7c9747e.json)
-
-[Extended Data](ext_articles/f7c9747e.ext.json)
-
----
-
-### Raid areas in search of relief traders
-
-*2024-07-18 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198931) · `si`
-
-Consumer Affairs Authority launches nationwide raids targeting traders not adhering to fuel, gas, and electricity price regulations. Chairman Thusitha Indrajith Udukhawaratu directs officials to inspect hotels, restaurants, and shops across the island for fair pricing practices.
-
-🟩
-
-The Consumer Affairs Authority has taken steps to start raids searching for traders who do not receive fuel, gas and electric prices.
-
-Chairman Thusitha Indrajith Udukhawaratu said that the officials of the Consumer Affairs of Consumer Affairs had instructed to raid the raids island wide accordingly.
-
-Accordingly, hotels, restaurants and other shops island wide and have been instructed to pay special attention to the prices and prices of goods and services.
-
-◼️
-
-[Data](articles/e790b430.json)
-
-[Extended Data](ext_articles/e790b430.ext.json)
-
----
-
-### Joe Biden is infected by Covod
-
-*2024-07-18 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198929) · `si`
-
-Joe Biden, the US President, has contracted Covid-19, marking his third infection. Despite previous infections, he continues to lead the country through this challenging time.
-
-🟩
-
-US President Joe Biden has been infected with the Covard-12 virus.
-
-Foreign media reports that it has been investigated on the symptoms of the President.
-
-The President, however, was infected with Cowdi hatred on two previous occasions.
-
-81-year-old American President Joe Biden has also been canceled on its illness today (18).
-
-◼️
-
-[Data](articles/cbc391e6.json)
-
-[Extended Data](ext_articles/cbc391e6.ext.json)
 
 ---

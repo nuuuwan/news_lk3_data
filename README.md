@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 20:55:01**
+As of **2024-07-18 21:05:38**
 
 ## Newspaper Stats
 
-*Scraped **35,979** Articles*
+*Scraped **35,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,151
 dailyftlk | 2,281
-adalk | 3,253
+adalk | 3,254
 adaderanalk | 4,151
 tamilmirrorlk | 4,365
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,978 (100.0%) of 35,979 articles have been extended.
+35,978 (100.0%) of 35,980 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -245,6 +245,20 @@ Accordingly, the suspect was arrested in the Dehiwala area by the Special Invest
 [Data](articles/f2ab47c4.json)
 
 [Extended Data](ext_articles/f2ab47c4.ext.json)
+
+---
+
+### නිලන්ත ජයවර්ධන අනිවාර්ය නිවාඩු යවයි
+
+*2024-07-18 18:26:36* · [`adalk`](https://www.ada.lk/breaking_news/නිලන්ත-ජයවර්ධන-අනිවාර්ය-නිවාඩු-යවයි/11-410856) · `si`
+
+පාස්කු ප්‍රහාරයට අදාළව ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන මහතා සම්බන්ධයෙන් කරන විනය පරීක්ෂණයක් හේතුවෙන් අද (18දා) දින තෙක් ඔහුව අනිවාර්ය නිවාඩු යැවිමට ජාතික පොලිස් කොමෂම තීරණය කර තිබේ.
+
+පාස්කු ප්‍රහාරය සිදුවන විට නිලන්ත ජයවර්ධන මහතා ජාතික බුද්ධි සේවයේ අධ්‍යක්ෂ ලෙස කටයුතු කරමින් සිටියේය.
+
+◼️
+
+[Data](articles/9d05da55.json)
 
 ---
 
@@ -2291,23 +2305,5 @@ Eight Indians and a Sri Lankan person have been rescued so far to rescue the vic
 [Data](articles/8f021e02.json)
 
 [Extended Data](ext_articles/8f021e02.ext.json)
-
----
-
-### CAA to conduct special raids to ensure consumer benefits
-
-*2024-07-18 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100590/caa-to-conduct-special-raids-to-ensure-consumer-benefits-) · `en`
-
-The Consumer Affairs Authority (CAA) has stated that it will be carrying out a series of special raids, to identify vendors who are not passing on the benefits from the recent electricity tariff, LP Gas, and fuel price reduction to the consumers.
-
-The Chairman of CAA, Thusitha Indrajith said that investigative officers have been instructed to initiate island-wide raids in the coming days.
-
-Accordingly, instructions have been given to inspect the hotels, restaurants, and other trade outlets along with the display of the reduced prices of goods and services to consumers.
-
-◼️
-
-[Data](articles/ae6739f4.json)
-
-[Extended Data](ext_articles/ae6739f4.ext.json)
 
 ---

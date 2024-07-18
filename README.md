@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 15:05:24**
+As of **2024-07-18 15:20:18**
 
 ## Newspaper Stats
 
-*Scraped **35,915** Articles*
+*Scraped **35,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 338
 bbccomsinhala | 351
 newsfirstlk | 363
 islandlk | 2,040
-economynextcom | 2,143
+economynextcom | 2,146
 dailyftlk | 2,281
 adalk | 3,243
-adaderanalk | 4,142
+adaderanalk | 4,143
 tamilmirrorlk | 4,354
 dailymirrorlk | 4,733
 virakesarilk | 5,601
@@ -26,43 +26,139 @@ adaderanasinhalalk | 6,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,911 (100.0%) of 35,915 articles have been extended.
+35,915 (100.0%) of 35,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### வாட்ஸ்அப்பில் ஃபேவரைட்ஸ் அம்சம் அறிமுகம்
+### ‘Club Wasantha’ was in debt at time of death; ‘didn’t have a cent’ – Tiran
+
+*2024-07-18 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100599/club-wasantha-was-in-debt-at-time-of-death-didnt-have-a-cent-tiran) · `en`
+
+Minister of Public Security Tiran Alles says that all but two suspects involved in the recent shooting and killing of popular businessman Surendra Wasantha Perera alias “Club Wasantha” in Athurugiriya have been arrested by the police.
+
+“The Athurugiriya incident. I can’t go into much detail. We have arrested most of the suspects that need to be taken into custody. I think there’s only two more left (to be arrested).”
+
+“Everyone else who was connected, who had planned or was involved in the operation ‘stage-by-stage’ have already been arrested,” he told reporters at a press briefing at the ministry today (18).
+
+The Minister said that arrests have also been made in connection with the other recent shooting incidents in the country.
+
+“On the Embilipitiya shooting, everyone has been arrested including the motorcycle rider and the shooter. On the Ambalangoda shooting, as of yesterday, that too we have already made arrests,” he said.
+
+...
+
+[Data](articles/9b1ba5f4.json)
+
+---
+
+### Sri Lanka Human Capital Summit 2024 to address talent drain
+
+*2024-07-18 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-human-capital-summit-2024-to-address-talent-drain-172760/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Human Capital Summit 2024 held at Temple Trees in Colombo Thursday (July 18), seeks to address the country’s talent drain.
+
+Former Australian Prime Minister Scott Morrison and former Maldives President Mohamed Nasheed are slated to speak at event.
+
+The forum will see key stakeholders focus on talent drain which threatens to impede Sri Lanka’s economic growth.
+
+Under the theme “Unlocking Sri Lanka’s economic potential by building a future-ready Global talent pool,” the summit convenes government officials, business leaders, educators, and industry experts to explore strategies for developing a skilled and adaptable workforce.
+
+The summit will feature expert keynote speakers and panel discussions across sectors including public sector capacity, IT, tourism, financial services, and startups.
+
+President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena were present at the inauguration of the Summit. (Colombo/Jul18/2024)
+
+◼️
+
+[Data](articles/aa527dbc.json)
+
+---
+
+### Introduction of Favidies feature on WhatsApp
 
 *2024-07-18 14:55:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்பில்-ஃபேவரைட்ஸ்-அம்சம்-அறிமுகம்/57-340624) · `ta`
 
-வாட்ஸ்அப் பயனர்கள் தங்களது ஃபேவரைட் நபர்கள் மற்றும் குழுக்களுடன் எளிதில் தொடர்பில் இருக்கும் வகையில் ‘ஃபேவரைட்ஸ்’ அம்சத்தை மெட்டா அறிமுகம் செய்துள்ளது. இதன் மூலம் சாட் டேபில் ஃபில்டராகவும், அழைப்புகள் டேபில் மேல் பக்கமும் பயனர்கள் தங்களது ஃபேவரைட்களை அடையாளம் காணலாம்.
+WhatsApp introduces the Favorites feature, allowing users to quickly connect with favorite contacts and groups. Users can add these to the Favorites list, making them easily accessible from the Chat and Calls tabs. This update aims to enhance user experience by simplifying communication with essential contacts and groups.
 
-வாட்ஸ்அப் மெசஞ்சரை உலக அளவில் சுமார் 200 கோடிக்கும் மேற்பட்ட பயனர்கள் பயன்படுத்தி வருகின்றனர். டெக்ஸ்ட் மெசேஜ், போட்டோ, வீடியோ, ஆடியோ மற்றும் அழைப்புகளை மேற்கொள்ள பயன்படுத்தப்பட்டு வருகிறது இந்தத் தளம். பள்ளிக்கூடம் தொடங்கி அலுவலகம் வரையில் இப்போது குழுக்களாக ஒருவருக்கு ஒருவர், ஒருவருக்கு பலர் என இதன் மூலம் தகவல்களை பரிமாறிக் கொண்டு வருகின்றனர்.
+🟩
 
-தங்களது பயனர்களுக்கு தனித்துவமான பயன்பாட்டு திருப்தியை வழங்கும் விதமாக அவ்வப்போது புதிய அப்டேட்களையும், அம்சங்களையும் மெட்டா நிறுவனத்தின் வாட்ஸ்அப் அறிமுகம் செய்வது வழக்கம். அந்த வகையில் ஃபேவரைட்ஸ் அம்சம் தற்போது வெளிவந்துள்ளது.
+WhatsApp users have introduced the Favorites telephone feature to be easily connected to their favorite people and groups. This means that users can identify their furves on the Filter at the Chad Tab and the top side of the calls tab.
+
+WhatsApp Messenger is being used by over 200 crore users worldwide. This site is being used to make text message, photo, video, audio and calls. From school to school, they are now serving a group of groups and many others.
+
+It is customary to introduce new updates and features from time to time to provide their users a unique application satisfaction.. The feature of the Favorites has now been revealed.
+
+Favorites Feature: With this feature users can add their family members, friends and key groups to the Favorites list. Such inclusive canot and groups (Group's) will be on the top of the Tabs and Calls (Calls) Top Top. It can be easily connected to those condoms and groups through it.
 
 ...
 
 [Data](articles/8848cc01.json)
 
+[Extended Data](ext_articles/8848cc01.ext.json)
+
 ---
 
-### අගනුවර උද්ඝෝෂණ තහනම්
+### Sri Lanka Buddhist monk Gnansara thero out on bail: reports
+
+*2024-07-18 14:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-buddhist-monk-gnansara-thero-out-on-bail-reports-172767/) · `en`
+
+ECONOMYNEXT — General Secretary of the Bodu Bala Sena (BBS) Galagodaaththe Gnanasara Thero, who had been sentenced to four years of rigorous imprisonment, has been released on bail by the Court of Appeal, media reports said.
+
+The monk was sentenced in March 2024 over an allegedly defamatory comment made in 2016. The verdict was delivered by Colombo High Court Judge Aditya Patabendige on Thursday March 28, according to reports at the time.
+
+Other reports said the controversial monk was sentenced over a comment against Islam at the Kuragala Buddhist temple.
+
+The Attorney General had filed the case against Gnanasara thero on charges of causing religious and racial disunity in Sri Lanka in the form of remarks he had made at a press conference held on March 30, 2016, reports said.
+
+The firebrand monk has been accused of promoting Islamophobia in Sri Lanka.
+
+...
+
+[Data](articles/4db68d28.json)
+
+---
+
+### Protest in capital was banned
 
 *2024-07-18 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198948) · `si`
 
-නැවත දැනුම්දෙන තුරු කෙන්යාවේ අගනුවර වන නයිරෝබි හි උද්ඝෝෂණ තහනම් කිරීමට එරට පොලීසිය පියවර ගෙන තිබේ.
+In Nairobi, Kenya, protests are banned until further notice due to potential threats from organized crime gangs. This comes after citizens began protesting against a proposed tax hike, which was later withdrawn by President William Routha alongside several cabinet members.
 
-එරට බලධාරීන් පවසන්නේ සංවිධානාත්මක අපරාධ කල්ලි උද්ඝෝෂකයින් අතරට රිංගා කලහකාරී තත්ත්වයන් නිර්මාණය කරන බවට තොරතුරු ලැබී ඇති බවයි.
+🟩
 
-එරට බදු වැඩිකිරීමට රජය ගෙන ආ යෝජනාවට විරෝධය දක්වමින් එරට තරුණ පිරිස් විරෝධතා ආරම්භ කළ අතර ඒ අතරතුර මේ දක්වා 50 දෙනෙක් පමණ මියගොස් තිබේ.
+Until re-notified, the police have banned protests in Nairobi, the capital of Kenya.
 
-එම යෝජනාව ජනපති විලියම් රූටෝ විසින් ඉල්ලා අස්කරගත් අතර ඔහු අමාත්‍ය මණ්ඩලයේ විශාල පිරිසක් ද ඉවත් කළේය.
+The authorities of the country say that there is information that organized crime gang campaigns create aggressive conditions.
+
+The protests of the country have commenced protests against the proposal of the government to increase their taxes to increase the taxes.
+
+The proposal was withdrawn by President William Routha and he removed a large number of Cabinet.
 
 ◼️
 
 [Data](articles/c525c2e0.json)
+
+[Extended Data](ext_articles/c525c2e0.ext.json)
+
+---
+
+### Sri Lanka presidential poll will be held as scheduled: cabinet minister
+
+*2024-07-18 14:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-poll-will-be-held-as-scheduled-cabinet-minister-172762/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s 2024 presidential election will be held as scheduled and efforts to rectify a purported error in the constitution are not an attempt to postpone it, Agriculture Minister Mahinda Amaraweera said.
+
+Amaraweera told reporters following a party leaders’ meeting held at the parliament complex on Thursday July 18 that the election will “definitely” be held.
+
+“The election will definitely be held, as soon as possible. There is no obstruction to it, and no one is trying to prevent it,” he said.
+
+Any discussion on the 22nd amendment to the constitution has no bearing on the election, he insisted.
+
+“This is only about correcting a mistake. It can even happen after the election. There has been no dates announced for the next parliament session. It won’t be gazetted. It will happen later. It’s just correcting a mistake and there is no scenario where it could result in postponing the election,” he said.
+
+...
+
+[Data](articles/12428ef4.json)
 
 ---
 
@@ -79,6 +175,8 @@ The strategic maritime location of Hambantota, in close proximity to the key mar
 ...
 
 [Data](articles/d8590d2a.json)
+
+[Extended Data](ext_articles/d8590d2a.ext.json)
 
 ---
 
@@ -1550,6 +1648,8 @@ As the foremost association representing the majority of solar installations in 
 
 [Data](articles/25b3a447.json)
 
+[Extended Data](ext_articles/25b3a447.ext.json)
+
 ---
 
 ### CEAT Kelani wins eight Golds for Quality Improvement at National Convention on Quality and Productivity
@@ -2121,111 +2221,5 @@ We appreciate Minister Kanjana Wijesekera for taking steps to reduce electricity
 [Data](articles/97bbaaab.json)
 
 [Extended Data](ext_articles/97bbaaab.ext.json)
-
----
-
-### If the 22nd Amendment is passed, the referendum will go to the referendum within 30 days - GL Peiris
-
-*2024-07-18 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188722) · `ta`
-
-GL Peiris announced that if the 22nd Amendment passes Parliament, it will proceed to a referendum within 30 days. This amendment requires a two-thirds majority support from Parliament before going to the public vote, as per the Constitution's 122(3) subsection. The process aims to clarify the President's term and parliamentary roles, addressing concerns raised about the election process.
-
-🟩
-
-To fulfill the 22nd Amendment to the Constitution, the two -thirds majority will go to the referendum. Parliamentarian Professor GL Peiris said that if the amendment was passed in Parliament, the referendum would go to the referendum within 30 days.
-
-He made this statement during a media briefing held at the Independence People's Council office on Wednesday (17).
-
-The President's tenure and the post of Parliament are clearly mentioned in the Constitution 30 (3) Sub -Article and 62 (2) sub -section of the Constitution.The government is acting in a formation.
-
-To pass the 22nd Amendment to the Constitution, a two -thirds majority in Parliament must go to a referendum.
-
-The Constitution's 122 (3) sub -section of the Constitution has clearly stated that the 22nd Amendment cannot be presented in Parliament.
-
-The government's act is completely disgusted with the election of the election as the presidential election is held.
-
-◼️
-
-[Data](articles/96890214.json)
-
-[Extended Data](ext_articles/96890214.ext.json)
-
----
-
-### Salary for employees amidst the challenges
-
-*2024-07-18 00:40:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களுக்கு-மத்தியில்-ஊழியர்களுக்கான-சம்பளம்/175-340590) · `ta`
-
-During challenging times, including the COVID-19 pandemic and economic crises, the Sri Lankan government, under the leadership of President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena, successfully maintained salary payments to public servants. Despite skepticism that services might halt, the government ensured continuity, highlighting the crucial role of public servants in national development.
-
-🟩
-
-Minister of State for Home Affairs Ashoka Priyantha said that it would be a great success for any public servant to provide salaries and payments to any public servant during the period and the economic crisis.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated
-
-The last two years have been very difficult. We had to pay salaries and payments to civil servants in the midst of the Kovit and the economic crises. Some also thought that salary and payments could be stopped.
-
-They thought the government service would be paralyzed. Under the guidance of President Ranil Wickremesinghe, the state administration, Home Affairs, Provincial Councils and Local Government Councils were able to protect the public service under the guidance of Prime Minister Dinesh Gunawardena.
-
-This is the biggest success. It must be recalled that the full contribution of public servants and the people of the country.
-
-...
-
-[Data](articles/b7821f2f.json)
-
-[Extended Data](ext_articles/b7821f2f.ext.json)
-
----
-
-### Shashini 15 -year -old in Sri Lankan team
-
-*2024-07-18 00:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/188721) · `ta`
-
-Shashani Kimhani Vaidyaratne, a 15-year-old spinner from Sri Lanka, has been chosen for the national women's team for the T20 Asian Cup. She impressed in limited overs matches against England and made her debut in the R20 World Cup qualifiers. Alongside seasoned players, she is part of a youthful squad preparing for the Women's T20 World Cup in Bangladesh.
-
-🟩
-
-The 15 -year -old spinner Shashani Kimhani Vaidyaratne has been given the opportunity to selected the Sri Lankan women's team, which has been selected for the women's T20 Asian Cup cricket tournament.
-
-Shashani, a student of Ratgama Devapatraja Vidyalaya, was featured in the Senior squad after bowling in two -limited over -cricket cricket against England under the age of 19.
-
-She made his debut in the R20 World Cup qualifying round in Abu Dhabi and is now in the squad.
-
-While many senior players are featured in the Sri Lankan squad, some young heroes are also in a 15 -heroine group.
-
-The R20 Asian Bowl will be the forerunner of the Women's T20 World Cup in Bangladesh.
-
-Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Hassini Perera, Kavisha Dilhani, Nilakshika Silva, Anushka Sanjeevani, Sukandika Kumari, Ushtika Prabodani, Achini Kulasuriya
-
-◼️
-
-[Data](articles/0acbbc9e.json)
-
-[Extended Data](ext_articles/0acbbc9e.ext.json)
-
----
-
-### The program to provide housing rights in Colombo
-
-*2024-07-18 00:36:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-வீட்டு-உரிமைகளை-வழங்கும்-வேலைத்திட்டம்/175-340589) · `ta`
-
-President Ranil Wickremesinghe announced a groundbreaking initiative to provide land and house guarantees to 50,000 low-income families in Colombo, marking a first for any government. This effort, part of the 2024 budget, aims to secure land rights for 2 million people and full home ownership for 250,000 families. Yesterday, 1,117 confirmations were issued, including 937 homes through the Urban Development Authority and 180 via the National Housing Development Authority, benefiting residents across several housing schemes.
-
-🟩
-
-President Ranil Wickremesinghe said that the government has initiated this revolutionary program that has not been implemented by any government to provide relief to the nation.
-
-The President said this while addressing the 'Randora Urumaya' event to provide land guarantees for 50 thousand low -income families living in the Colombo Apartments held at the Sugathadasa Stadium in Colombo yesterday afternoon.
-
-According to President Ranil Wickremesinghe, the 2024 budget was implemented in the 2024 budget and the project was implemented by the land rights of 20 lakh people and the full ownership of the houses for two and a half lakh low -income families living in Colombo.
-
-As a result of this, 1117 affirmations were issued yesterday, including 937 houses under the Urban Development Authority and 180 houses under the National Housing Development Authority.
-
-...
-
-[Data](articles/7875c522.json)
-
-[Extended Data](ext_articles/7875c522.ext.json)
 
 ---

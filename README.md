@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 15:35:24**
+As of **2024-07-18 15:54:27**
 
 ## Newspaper Stats
 
-*Scraped **35,927** Articles*
+*Scraped **35,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,76 @@ newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,146
 dailyftlk | 2,281
-adalk | 3,243
+adalk | 3,245
 adaderanalk | 4,143
-tamilmirrorlk | 4,355
+tamilmirrorlk | 4,356
 dailymirrorlk | 4,733
 virakesarilk | 5,607
-adaderanasinhalalk | 6,009
+adaderanasinhalalk | 6,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,919 (100.0%) of 35,927 articles have been extended.
+35,927 (100.0%) of 35,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### டிரம்பின் படுகொலை முயற்சி: நையாண்டி செய்த சிறுவர்கள் (வீடியோ)
+### චීනයේ ඇවිළෙන ගිනි
+
+*2024-07-18 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198950) · `si`
+
+චීනයේ සිචුවාන් ප්‍රදේශයේ ගොඩනැගිල්ලක ඇතිවූ ගින්නකින් පුද්ගලයින් 16 දෙනෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+
+සාප්පු සංකීර්ණයක මෙම ගින්න ඇතිවී තිබෙන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+එමෙන්ම ගින්නට හසුවූ පුද්ගලයින් 30 දෙනෙකු පමණ බේරාගැනීමට ද සහන කණ්ඩායම් කටයුතු කර තිබුණි.
+
+කෙසේවෙතත් අදාළ සාප්පු සංකිර්ණයේ ගින්න ඇති වීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/779d4484.json)
+
+---
+
+### Trump's assassination attempt: satisfied boys (video)
 
 *2024-07-18 15:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்பின்-படுகொலை-முயற்சி-நையாண்டி-செய்த-சிறுவர்கள்-வீடியோ/50-340626) · `ta`
 
-அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பின் மீது துப்பாக்கிச் சூடு நடத்தி படுகொலை செய்வதற்கு முயற்சிக்கப்பட்டது. அதிலிருந்து டிரம் தப்பினார். அந்த செய்தி உலகளாவிய ரீதியில் பரவியது, காணொளிகளும் வெளியாகியுள்ளன.
+In Uganda, a group of boys went viral recreating a satirical shooting of former US President Donald Trump, using makeshift props. Their TikTok video, led by Blud UG, humorously mimicked the attempted assassination, surprising the world with its creativity and spreading globally.
 
-உகண்டாவில் உள்ள சிறுவர்கள் டொனால்ட் டிரம்பின் படுகொலை முயற்சியை மிகவும் குறிப்பிட்ட விவரங்களுடன் மீளுருவாக்கம்  செய்துள்ளனர்.
+🟩
 
-உகண்டா சிறுவர்கள் குழு ஒன்று டொனால்ட் டிரம்ப் படுகொலை முயற்சியின் பொழுதுபோக்கைப் பகிர்ந்து கொண்ட பின்னர் வைரலாகியுள்ளது.
+Attempted to shoot and assassinate former US President Donald Trump. The drum escaped from it. The news has spread worldwide, and videos have been revealed.
+
+The boys in Uganda have renovated Donald Trump's assassination with very specific details.
+
+A group of Uganda boys has gone viral after sharing the entertainment of Donald Trump's attempt.
+
+A few days after the shocking of the world of terrible and death, a group of boys led by Tiktoker Blud UG revealed how far the shocking images have spread around the world as they reflect the confusion and now fame.
+
+Uganda boys re -created a satirical shoot when the boy who played the trump pump his fist in the air, using the table made of wooden packets and plastic boxes.
+
+◼️
+
+[Data](articles/2ee4d919.json)
+
+[Extended Data](ext_articles/2ee4d919.ext.json)
+
+---
+
+### ட்ரம்பின் மீதான படுகொலை முயற்சி: நையாண்டி செய்த சிறுவர்கள் (வீடியோ)
+
+*2024-07-18 15:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்பின்-மீதான-படுகொலை-முயற்சி-நையாண்டி-செய்த-சிறுவர்கள்-வீடியோ/50-340626) · `ta`
+
+அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்பின் மீது துப்பாக்கிச் சூடு நடத்தி படுகொலை செய்வதற்கு முயற்சிக்கப்பட்டது. அதிலிருந்து ட்ரம்ப் தப்பினார். அந்த செய்தி உலகளாவிய ரீதியில் பரவியது, காணொளிகளும் வெளியாகியுள்ளன.
+
+உகண்டாவில் உள்ள சிறுவர்கள் டொனால்ட் ட்ரம்பின் படுகொலை முயற்சியை மிகவும் குறிப்பிட்ட விவரங்களுடன் மீளுருவாக்கம்  செய்துள்ளனர்.
+
+உகண்டா சிறுவர்கள் குழு ஒன்று டொனால்ட் ட்ரம்ப் படுகொலை முயற்சியின் பொழுதுபோக்கைப் பகிர்ந்து கொண்ட பின்னர் வைரலாகியுள்ளது.
 
 பயங்கரமான, மரணத்திற்கு அருகில் துப்பாக்கிச்சூடு உலகை அதிர்ச்சிக்குள்ளாக்கிய சில நாட்களுக்குப் பிறகு, TikToker Blud Ug தலைமையிலான சிறுவர்கள் குழு, குழப்பமான மற்றும் இப்போது பிரபலமற்ற - காட்சிகளைப் பிரதிபலிப்பதால் அதிர்ச்சியூட்டும் படங்கள் உலகம் முழுவதும் எவ்வளவு தூரம் பரவியுள்ளன என்பதை வெளிப்படுத்தியது.
 
@@ -48,45 +92,61 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/2ee4d919.json)
+[Data](articles/a7854e9b.json)
 
 ---
 
-### වාහන ගෙන්වීමට ආරම්භයක් අගෝස්තුවේ
+### In August to import vehicles
 
 *2024-07-18 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198949) · `si`
 
-එළඹෙන අගෝස්තු මාසයේදී වාහන ආනයනය කිරීම සිදුවෙන ආකාරය ගැන යම් ආරම්භයක් දිය හැකි බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya announced plans to begin importing vehicles, focusing on electric ones, from August. A committee's report will be submitted to the Cabinet in the same month.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා,
+🟩
 
-"අපි යොමු වෙලා ඉන්නේ වැඩිපුර විදුලියෙන් ක්‍රියා කරන වාහන ගේන්න. වාහන ආනයනය කරන්නේ කොහොමද කියලා යම් ආරම්භයක් දෙන්න සූදානමින් ඉන්නවා. ඊට අදාළ කමිටු වාර්තාව අගෝස්තු මස දෙවන සතියේ කැබිනට් මණ්ඩලයට ඉදිරිපත් කරනවා."
+State Minister Ranjith Siyambalapitiya says that the importation of vehicles can be a beginning in August.
+
+State Minister Ranjith Siyambalapitiya said further
+
+"We are focused on more electrical vehicles. It is ready to give some start to how to import vehicles. The report of the committee will be submitted to the Cabinet for the month of August. "
 
 ◼️
 
 [Data](articles/e874a33d.json)
 
+[Extended Data](ext_articles/e874a33d.ext.json)
+
 ---
 
-### டிரம்ப் சுடப்பட்ட தருணத்தை வீடியோவில்  நடித்துக்காட்டிய உகண்டா சிறுவர்கள் - சமூக ஊடகங்களில் பெரும் வரவேற்பு
+### Uganda boys who star in the video of Trump's shot - great welcome on social media
 
 *2024-07-18 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/188767) · `ta`
 
-அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்மீது மேற்கொள்ளப்பட்ட துப்பாக்கி பிரயோகத்தை உகண்டாவை சேர்ந்த சிறுவர்கள் நடித்துக்காட்டும் வீடியோ சமூக ஊடகங்களில் வெளியாகி பெரும்வரவேற்பை பெற்றுள்ளது.
+A viral video featuring Ugandan children reenacting Trump's shooting has sparked global conversation. The kids, led by Dictocker BloodAk, mimicked the event with homemade wooden guns, highlighting the international concern over U.S. political security. Their recreation, complete with sound effects and a pretend rescue by the secret service, has drawn mixed reactions, reminding the world of the impact such incidents have globally.
 
-டிரம்ப்மீது தாக்குதல் நடத்தப்பட்ட மறுநாள் டிக்டொக்கெர் பிளட்அக் தலைமையிலான சிறுவர் குழுவினர் டிரம்ப்மீது தாக்குதல் இடம்பெறும் தருணத்தை வீடியோவில் நடித்துக்காட்டியுள்ளனர்.
+🟩
 
-மரத்தினால்  துப்பாக்கிகளை செய்து,  அவர்கள் வீடியோவில் நடித்துள்ளனர். டிரம்ப் துப்பாக்கி சூட்டின் பின்னர் நிலத்தில் அமர்ந்து பின்னர் எழும்பி கைமுஷ்டிகளை உயர்த்தி கோசமிடுவதை டிரம்ப்போன்று நடித்த சிறுவன்  செய்து காட்டியுள்ளான்.
+A video of children from Uganda has been released on social media by the firing on US President Donald Trump.
 
-டிரம்பை படுகொலை செய்யும் முயற்சி உலகம் முழுவதும் அதிர்ச்சியுடன் பார்த்தது என்பதை சிறுவர்களின் இந்த வீடியோ வெளிப்படுத்தியுள்ளதாக  பலர் தெரிவித்துள்ளனர்.
+The day after the attack on Trump, a group of children led by Dictocker BloodAk played the video in the video of the attack on Trump.
 
-இந்த வீடியோவிற்காக சிறுவர்கள் டிரம்பின் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்ட நிமிடத்தின்  உண்மையான ஒலிகள் அலறல்கள் சத்தங்களை பயன்படுத்தியுள்ளனர்.
+Made guns with wood and they play in the video. The boy who played like Trump has shown that Trump sits on the ground after the shooting and then wakes up and raise the hand.
 
-ஒரு சிறுவன் டிரம்ப்போல தற்காலிகமாக அமைக்கப்பட்ட சாய்வு மேசையின் பின்னால் நின்று உரையாற்றியுள்ளான்.
+Many people have said that the video of the boys has revealed that the attempt to assassinate Trump has seen shocking around the world.
+
+For this video, the boys have used the real sounds of the minute of Trump's shooting.
+
+A boy is standing behind a temporary slope desk like Trump.
+
+The Uganda boy has also pretended that the secret service department tried to take Trump safely.
+
+While the murder attempt has been internationally tense and concerned about the security of politicians in the United States, many have used this video to talk about the events in the United States.
 
 ...
 
 [Data](articles/67b9842b.json)
+
+[Extended Data](ext_articles/67b9842b.ext.json)
 
 ---
 
@@ -360,21 +420,45 @@ The owner of the respective owner had taken into the renewal of a license to the
 
 ---
 
-### யாழில் நண்பிக்கு பணம் கொடுத்து ஏமாந்தவர் உயிர் மாய்ப்பு
+### A friend of Jaffna
 
 *2024-07-18 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188760) · `ta`
 
-தனது நண்பிக்காக வங்கியில் இருந்து கடனாக பெற்று கொடுத்த பணத்தினை மீள பெறமுடியாமையினால் மனமுடைந்த குடும்ப பெண் தனது உயிரை மாய்த்துக் கொண்டுள்ளார்.
+A woman, devastated by her friend's financial betrayal, turned to suicide, leaving her three children orphaned. Their bond, once strong due to years of friendship, crumbled when the financially struggling woman failed to repay a significant loan she had taken out to assist her wealthy friend. This tragic tale highlights the complexities of trust and the devastating impact of unfulfilled obligations within friendships.
 
-உறவு முறையான இரு பெண்களுக்கு இடையில் நீண்ட கால நட்பு இருந்து வந்துள்ளது. அதில் ஒரு பெண் பண கஷ்டத்தில் இருந்த போது மற்றைய பெண் வங்கியில் பெருந்தொகை பணத்தினை கடனாக பெற்று, தனது நண்பிக்கு பண உதவி செய்துள்ளார்.
+🟩
 
-பண உதவியை பெற்றுக்கொண்ட பெண், பணத்தினை மீள செலுத்தாத நிலையில், வங்கியில் கடன் பெற்ற பெண் பண நெருக்கடிக்குள்ளாகி, மனவுளைச்சலில் காணப்பட்டுள்ளார்.
+The family woman who was heartbroken by the lack of money from the bank for her friend has been lost.
 
-இந்நிலையில் நண்பியின் பெயரை முகநூலில் பதிவிட்டு, தனது மரணத்திற்கு காரணம் இவர் தான் என்றும் இவரால் தான் தனது மூன்று பிள்ளைகளையும் அநாதையாக விட்டு செல்வதாக பதிவிட்டு உயிரை மாய்த்துக் கொண்டுள்ளார்.
+The relationship has come from long -term friendship between two women. When a woman was in money, the other woman had borrowed large sums of money from the bank and helped her friend.
+
+The woman who received money help has not returned the money, and the woman who has borrowed in the bank has been in a state of depression.
+
+In this case, he posted the name of his friend in the face of his death and said that he was the cause of his death and that he would leave his three children as an orphan.
 
 ◼️
 
 [Data](articles/19de7e0a.json)
+
+[Extended Data](ext_articles/19de7e0a.ext.json)
+
+---
+
+### අලුතෙන්ම නම්වෙන නව ජනාවාස ගම්මාන
+
+*2024-07-18 13:32:27* · [`adalk`](https://www.ada.lk/breaking_news/අලුතෙන්ම-නම්වෙන-නව-ජනාවාස-ගම්මාන/11-410852) · `si`
+
+දැනට රාජ්‍ය වැවිලි සමාගම හා ප්‍රාදේශීය වැවිලි සමාගම් යටතේ පාලනය වන වතුකරයේ ජනතාව ජීවත්වන ප්‍රදේශ හඳුනාගෙන එම ප්‍රදේශ නීත්‍යානුකූලව නව ජනාවාස ගම්මාන ලෙස ප්‍රකාශයට පත් කිරීමට අවශ්‍ය නීති සම්පාදනය සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කළ යෝජනාවට පසුගියදා කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි විය.
+
+එහි ඉදිරි කටයුතු පිළිබඳ සාකච්ඡාවක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (17) ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+රාජ්‍ය වැවිලි සමාගම හා ප්‍රාදේශීය වැවිලි සමාගම් යටතේ පාලනය වන වතුකරයේ ජනතාව ජීවත වන ප්‍රදේශ නීත්‍යනුකුලව නව ගම්මාන වශයෙන් ප්‍රකාශයට පත් කිරීමට අවශ්‍ය නීතිමය ප්‍රතිපාදන සම්පාදනය ඉතා වැදගත් හා කාලීන යෝජනාවක් බැවින් ඒ සඳහා මෙහිදී සියලු පාර්ශ්වයන්ගේ ප්‍රතිපත්තිමය එකඟතාවය පළ කෙරිණි.
+
+මෙම යෝජනාව ක්‍රියාත්මක කිරීමේදී කඳුකරයේ දැනට ජීවත් වන සියලු ජනතාවගේ ඉඩම් අයිතිය තහවුරු කිරීම අත්‍යවශ්‍ය කරුණක් බව පාර්ලිමේන්තු මන්ත්‍රී මනෝ ගනේෂන් මහතා පෙන්වා දුන් අතර ඒ සම්බන්ධයෙන් වන යෝජනාවලියක් ද ජනාධිපතිවරයා වෙත භාර දුන්නේය.
+
+...
+
+[Data](articles/b24e9381.json)
 
 ---
 
@@ -450,33 +534,61 @@ NPP leader Anura Kumara Dissanayake must add 6,550,000 votes to his base, from t
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### පොලීසියට අලුත් උණ්ඩ  ලක්ෂ 13ක් මිලදී ගනියි
+
+*2024-07-18 12:55:11* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියට-අලුත්-උණ්ඩ--ලක්ෂ-13ක්-මිලදී-ගනියි/11-410849) · `si`
+
+ශ්‍රී ලංකා පොලීසියේ  රාජකාරි  සඳහා අවශ්‍ය  උණ්ඩ ඇතුළු ද්‍රව්‍ය කිහිපයක් මිලට ගැනීමට මහජන ආරක්ෂක අමාත්‍යාංශය කටයුතු කරමින් සිටී.
+
+ජීව හා අජීව උණ්ඩ 13,20,000 ක් පොලිස්  නිල ඇඳුම් සඳහා වූ කාකි රෙදි මීටර් 7,32,000 ක්,පොලිස් නිලධාරීන් පළඳින  හම් සපත්තු ජෝඩු 70,000 ක් සහ ක්‍රීඩා සපත්තු ජෝඩු 58,500 ක් මෙසේ  මිලදී ගැනීමට නියමිත ද්‍රව්‍ය අතර  වේ.
+
+ජාතික  තරගකාරී ලංසු ක්‍රමය යටතේ  මේ ද්‍රව්‍ය මිලදී ගැනීමට  මේ වන විට ලංසු  කැඳවා ඇතැයි මහජන ආරක්ෂක අමාත්‍යාංශය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/56145a07.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-07-18 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188758) · `ta`
 
-இன்று வியாழக்கிழமை (ஜூலை 18) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 299.2042 ரூபாவாகவும், விற்பனை விலை 308.5274 ரூபாவாகவும் பதிவாகியுள்ளது.
+The US dollar was valued at 299.2042 rupees for purchase and 308.5274 rupees for sale according to the Central Bank's latest exchange rate update on July 18.
+
+🟩
+
+The US dollar purchasing price was 299.2042 rupees at Rs 299.2042 and the sales price at Rs 308.5274, based on a currency exchange rate released by the Central Bank on Thursday (July 18).
 
 ◼️
 
 [Data](articles/89a7b5fd.json)
 
+[Extended Data](ext_articles/89a7b5fd.ext.json)
+
 ---
 
-### இலஞ்சம் வாங்கிய போக்குவரத்து பொலிஸ் அதிகாரி கைது!
+### Traffic police officer arrested for bribery
 
 *2024-07-18 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188750) · `ta`
 
-திருகோணமலை வான் எல பொலிஸ் நிலையத்தில் கடமையாற்றும் போக்குவரத்து பொலிஸ் அதிகாரி ஒருவர் பணத்தை இலஞ்சமாக வாங்கும் போது கைது செய்யப்பட்டுள்ளார்.
+A traffic police officer in Trincomalee was arrested for bribery after demanding 10,000 rupees from a motorcyclist lacking proper documents. The officer received 5,000 rupees upfront and the rest later. The suspect will face charges at the Kandalai Magistrate court.
 
-இவ்வாறு கைது செய்யப்பட்டவர் ரஜ எல, கந்தளாய் எனும் முகவரியை வசிப்பிடமாகக் கொண்ட வயது (45) என்பவரே இலஞ்சம் ஊழல் தடுப்பு பிரிவு அதிகாரிகளால் நேற்று புதன்கிழமை (17) மாலை கைது செய்யப்பட்டார்.
+🟩
 
-கடந்த 15 ஆம் திகதி மோட்டார் சைக்கிளில் சென்ற ஒருவரை கடமை நேரத்தில் பரிசோதித்த போது உரிய ஆவணங்கள் இன்மையால் இலஞ்சமாக  10,000 ரூபாவை போக்குவரத்து பொலிஸ் அதிகாரி கேட்டிருந்தார். மோட்டார் சைக்கிளில் சென்றவர் உடனடியாக  5,000 ரூபாவை கொடுத்து விட்டு மீதி பணம் 5,000 ரூபாவை நேற்று மாலை 7.20 க்கு கொடுக்கும் போது அதனை பெற்றுக் கொண்ட போக்குவரத்து பொலிஸ் அதிகாரி இலஞ்ச ஊழல் தடுப்பு பிரிவு அதிகாரிகளால் கைது செய்யப்பட்டு கிண்ணியா பொலிஸ் நிலையத்தில் ஒப்படைத்தனர்.
+A traffic police officer on duty at the Van Ela police station in Trincomalee has been arrested while buying money.
 
-மேலும், சந்தேக நபரை கந்தளாய் நீதிமன்ற நீதவான் முன்னிலையில் ஆஜர்படுத்தவுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The arrest was arrested by the bribery corruption unit officials on Wednesday evening (17).
+
+When a man who was on a motorcycle on the 15th was examined at duty at the time of duty, the traffic police officer asked for a bribe of 10,000 rupees due to lack of relevant documents. When the motorcycle was immediately paid 5,000 rupees, the remaining Rs. 5,000 was paid at 7.20 pm yesterday.
+
+The suspect will be produced before the Magistrate of Kandalai, police said.
 
 ◼️
 
 [Data](articles/3424e8cc.json)
+
+[Extended Data](ext_articles/3424e8cc.ext.json)
 
 ---
 
@@ -642,33 +754,47 @@ A 24 -year -old man from Kandy has recently been arrested on charges of illegall
 
 ---
 
-### ரணில்விக்கிரமசிங்கவின் ஆட்சியின் கீழ் பயங்கரவாத தடைச்சட்டம்  தொடர்ந்தும்பயன்படுத்தப்படுகின்றது - சிறுபான்மை சமூகத்தினர்  அரசியல் எதிராளிகள் இலக்குவைக்கப்படுகின்றனர் -சர்வதேச மனித உரிமை கண்காணிப்பகம்
+### Under the rule of Ranil Wickremesinghe, the terrorism law is being used - minority community targeting political opponents - International Human Rights Watch
 
 *2024-07-18 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188754) · `ta`
 
-பயங்கரவாத தடைச்சட்டத்தை பயன்படுத்துவதை முடிவிற்கு கொண்டுவருவதாக உறுதியளித்துள்ள போதிலும் இலங்கை அதிகாரிகள் தொடர்ந்தும் பயங்கரவாத தடைச்சட்டத்தினை தாங்கள் எதிராளிகள் என கருதுபவர்கள் மற்றும் சிறுபான்மை சமூகத்தினருக்கு எதிராக பயன்படுத்துகின்றனர் என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+Despite pledges to halt its use, Sri Lanka under Ranil Wickremesinghe's rule continues to employ the Terrorism Act against political opponents and minority groups without sufficient evidence, leading to accusations of human rights abuses including torture and oppression. The International Human Rights Watch criticizes this practice, highlighting the act's inadequacy in preventing such actions and the inability of civil society to investigate state-level corruption effectively.
 
-இலங்கை அதிகாரிகள் தாங்கள் முன்வைக்கும்  குற்றச்சாட்டுகளிற்கு உரிய ஆதாரங்களை முன்வைக்காத போதிலும்  குற்றம்சாட்டப்பட்டவர்களிற்கு எதிராக பயங்கரவாத தடைச்சட்டத்தை பயன்படுத்துகின்றனர் என  சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+🟩
 
-கண்மூடித்தனமாக தடுத்துவைத்தல் மற்றும் சித்திரவதைகள் காரணமாக சிலர் பலவருடகாலமாக பாதிக்கப்பட்டுள்ள அதேவேளை சிலர் வழக்குகள் கைவிடப்பட்ட பின்னரும் ஒடுக்குமுறைகளை எதிர்கொள்கின்றனர் என மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+The International Human Rights Watch said Sri Lankan authorities continue to use the Terrorism Act as opponents and minority communities, although promising to end the use of the Terrorism Act.
+
+The International Human Rights Watch has said that although Sri Lankan authorities do not present evidence of the allegations they are making, they are using the terrorist law against the accused.
+
+Human Rights Watch said that some people have been affected by indiscriminate detail and torture, while some are facing oppression even after the abandonment of cases.
+
+The International Human Rights Watch, which has stated that the law has been inadequate against torture, stated that the Terrorism Act has long been arranged to prevent persons with the permission of the authorities.
 
 ...
 
 [Data](articles/1d4f82b0.json)
 
+[Extended Data](ext_articles/1d4f82b0.ext.json)
+
 ---
 
-### ஞானசார தேரர் பிணையில் விடுதலை
+### Release on bail
 
 *2024-07-18 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188753) · `ta`
 
-நான்கு வருட கால கடூ­ழியச் சிறைத் தண்­டனை விதிக்கப்பட்டிருந்த பொது­பல சேனா அமைப்பின் பொதுச் செய­லாளர் கல­கொட அத்தே ஞான­சார தேர­ர் மேன்முறையீட்டு நீதிமன்றத்தால் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+Galagoda Ate Gnanasara Thera, the General Secretary of Bodu Bala Sena, was granted bail after being sentenced to four years in prison by the Colombo High Court for disparaging Islam in 2016.
 
-கூர­கல தொல்­லியல் அமை­விடம் தொடர்­பாக 2016 இல் கொழும்பில் நடத்­தப்­பட்ட ஊடக மாநா­டொன்றில் இஸ்லாமிய மதத்தை இழி­வு­ப­டுத்தும் விதத்தில் கருத்­துக்­களை தெரி­வித்­த­மைக்­காக கொழும்பு மேல் நீதிமன்றத்தால் நான்கு வருட கால கடூ­ழியச் சிறைத் தண்­டனை விதிக்கப்பட்டது. அத்­துடன் அவ­ருக்கு ஒரு இலட்சம் ரூபாய் அப­ரா­தமும் விதிக்­கப்­பட்­டது.
+🟩
+
+The General Secretary of the Bodu Bala Sena Organization, Galagoda Ate Gnanasara Thera, has been released on bail by the Court of Appeal.
+
+The Colombo High Court has been sentenced to four years' rigorous imprisonment for his comments on the discrediting Islamic religion at a media conference held in Colombo in 2016. He was also fined Rs.
 
 ◼️
 
 [Data](articles/9174a6dc.json)
+
+[Extended Data](ext_articles/9174a6dc.ext.json)
 
 ---
 
@@ -2099,91 +2225,5 @@ The law, widely known as the PTA, has provisions allowing for extended administr
 [Data](articles/ae5d03bd.json)
 
 [Extended Data](ext_articles/ae5d03bd.ext.json)
-
----
-
-### Winning requires reset: AKD’s strategic dilemmas, bridgeable gaps, rectifiable errors
-
-*2024-07-18 02:33:51* · [`dailyftlk`](https://www.ft.lk/columns/Winning-requires-reset-AKD-s-strategic-dilemmas-bridgeable-gaps-rectifiable-errors/4-764399) · `en`
-
-Early in his presidency or rather, the balance of Gotabaya Rajapaksa’s presidential term, to complete which he was selected by the Rajapaksas and elected by the vote of the discredited ruling SLPP, Ranil Wickremesinghe chaired a conference at the Presidential Secretariat. He said “we can talk about holding elections after fulfilling the agreement with the IMF, completing the debt restructuring efforts and placing the economy firmly on a high-growth path”. This wasn’t at a secret conclave of plotters planning to subvert the Constitution. It was on TV news.
-
-Just recently, in Mahiyangana, Ranil contributed to political theory by proclaiming outrageously: “I have said earlier that judicial power doesn’t rest with the judiciary; judicial power rests with the legislature…so that ends there.”
-
-...
-
-[Data](articles/7b97ba25.json)
-
-[Extended Data](ext_articles/7b97ba25.ext.json)
-
----
-
-### The President's Cabinet recommends appointing a committee to make security arrangements for presidential candidates
-
-*2024-07-18 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188731) · `ta`
-
-The President's Cabinet proposes forming a committee led by the Secretary of Public Security to manage exclusive security for presidential and former presidential candidates ahead of the upcoming election. This includes appointing a Deputy Inspector General of Police to oversee security coordination. The committee will consist of key officials like the Chief of Security Forces and the National Investigation Chief, among others. Additionally, a high-ranking police officer will be tasked with coordinating election-day security measures in collaboration with the Election Commission.
-
-🟩
-
-President Ranil Wickremesinghe has submitted a cabinet paper on the appointment of a committee to supervise the exclusive security arrangements of the candidates and former presidents contesting the upcoming presidential election and to appoint a Deputy Inspector General of Police to coordinate all the security activities.
-
-Former President Donald Trump has been attacked at the US presidential campaign rally in the US state of Pennsylvania, and the recommendation has been submitted to ensure the unique security of candidates contesting the upcoming presidential election.
-
-Accordingly, after the acceptance of nominations in the presidential election, the committee has been proposed to appoint the committee headed by the Secretary of the Ministry of Public Security to oversee the exclusive security arrangements of the candidates and former presidents.
-
-...
-
-[Data](articles/8f37e4fb.json)
-
-[Extended Data](ext_articles/8f37e4fb.ext.json)
-
----
-
-### Amidst various challenges, government agencies were protected without stopping salaries and payments
-
-*2024-07-18 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/188730) · `ta`
-
-Despite economic crises and the COVID-19 pandemic, the Sri Lankan government ensured continuous payment of salaries to civil servants, demonstrating resilience and commitment to public service. This effort, guided by President Ranil Wickremesinghe, aimed to keep the government functioning smoothly amidst challenges. Additionally, measures were taken to streamline public service recruitment and utilize state-owned properties for revenue generation, alongside completing infrastructure projects and improving pension services.
-
-🟩
-
-Minister of State for Home Affairs Asoka Priyantha said that the advice of President Ranil Wickremesinghe was a great success that any civil servant was able to advance with the lack of salary and payments to any civil servant in the period of the spread of Corona infection and the economic crisis.
-
-He made this statement at a media briefing held at the Presidential Media Center on Wednesday (17).
-
-“The last two years have been very difficult. We had to pay salaries and payments to civil servants despite the Kovit and economic crises.Some also thought that salary and payments could be stopped.
-
-They also thought the government service would be paralyzed.Under the guidance of President Ranil Wickremesinghe, the administration of the state administration, Home Affairs, Provincial Councils and Local Government Councils, under the guidance of Prime Minister Dinesh Gunawardena, was able to protect the public service.
-
-...
-
-[Data](articles/6d9e951b.json)
-
-[Extended Data](ext_articles/6d9e951b.ext.json)
-
----
-
-### Masterchef Australia: In Australia, who made Sri Lanka's food in Sri Lanka?
-
-*2024-07-18 02:10:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2lk4xp7kj2o) · `si`
-
-In the MasterChef Australia reality show, two Sri Lankan contestants stood out. Georgia, a girl of Sri Lankan origin, won the Junior MasterChef Australia using Sri Lankan cooking techniques and diet. Savindri Perera, another contestant, known as 'Save,' won the third place in the main tournament, showcasing traditional Sri Lankan dishes like Kiribath and using local ingredients like Kitul honey and fish. Despite facing challenges, Savindri's dedication to preserving Sri Lankan cuisine earned her admiration from both fans and judges.
-
-🟩
-
-Masterchef Australia: In Australia, who made Sri Lanka's food in Sri Lanka?
-
-The Australian MasterCef Australia Reality Tournament is popular in Sri Lanka from a few years.
-
-Earlier Junior Masterchef Australia won a tournament by a Sri Lankan Origin girl, Georgia. She also used Sri Lankan cooking techniques in several rounds of the tournament, while her Sri Lankan diet she cooked in the final match was taken to victory.
-
-At the same stage of the MasterCef Australia, a Sri Lankan young woman, was due to Sri Lankan girl. She was popular among the MasterCef fans as 'Save' and won the third place in this year's tournament. She (July 16th) approached Sri Lanka to meet his family members a few years later.
-
-...
-
-[Data](articles/8cbfd44e.json)
-
-[Extended Data](ext_articles/8cbfd44e.ext.json)
 
 ---

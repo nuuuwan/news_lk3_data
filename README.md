@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 13:35:42**
+As of **2024-07-18 13:54:53**
 
 ## Newspaper Stats
 
-*Scraped **35,899** Articles*
+*Scraped **35,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,96 @@ colombotelegraphcom | 338
 bbccomsinhala | 351
 newsfirstlk | 363
 islandlk | 2,040
-economynextcom | 2,140
+economynextcom | 2,142
 dailyftlk | 2,279
-adalk | 3,242
+adalk | 3,243
 adaderanalk | 4,140
-tamilmirrorlk | 4,350
+tamilmirrorlk | 4,352
 dailymirrorlk | 4,733
 virakesarilk | 5,601
-adaderanasinhalalk | 6,004
+adaderanasinhalalk | 6,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,899 (100.0%) of 35,899 articles have been extended.
+35,899 (100.0%) of 35,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### කොහේ හිටියත් අල්ලනවා -පොලිස් ඇමති
+
+*2024-07-18 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198945) · `si`
+
+රටේ විවිධ ස්ථානවල සිදුවන වෙඩිතැබීමේ සිද්ධිවලට හේතුව යුද සමයෙන් පසුව ගිනිඅවි තවමත් සමාජයේ සංසරණය වීම බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+
+ඔහු මේ බව සඳහන් කළේ, මහජන ආරක්ෂක අමාත්‍යාංශ පරිශ්‍රයේ අද (18) පෙරවරුවේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදීය.
+
+"දැන් ඊයේ පෙරේදා කට්ටිය කිව්වා මොනවා කිව්වත් දෙයක් වෙලා නෑ කියලා. මොනවා කරත් කිසිම දෙයක් නොවුණ විදියට තමා කතා කරන්නේ. මම මාධ්‍යයෙන් ඉල්ලා සිටිනවා. යන්න ගමින් ගමට යන්න. නගරයෙන් නගරයට යන්න. ගිහින් අහන්න මහජනතාවගෙන් ඉස්සර වගේම කුඩු තියෙනවා ද? ඉස්සර වගේම පාතාලේ ක්‍රියාත්මක වෙනවා ද? එතකොට හරි තත්ත්වය බලාගන්න පුළුවන්. මම කියන්නේ කුඩු විකුණන අයට සහ පාතාලේ අයට අපි තිබුණටත් වඩා තදින් ඉදිරියට ක්‍රියා කරනවා. පොලීසියත් STF එකත් මොවුන් පසුපස හඹා යනවා. කොහේ හිටියත් අල්ලනවා.
+
+...
+
+[Data](articles/f53720db.json)
+
+---
+
+### கணிதம் கற்பித்த ஆசிரியர் இடைநீக்கம்
+
+*2024-07-18 13:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/கணிதம்-கற்பித்த-ஆசிரியர்-இடைநீக்கம்/94-340621) · `ta`
+
+பாடசாலைக்கு சமுகமளிக்காது,  உயர்தர வகுப்பு மாணவர் குழுவிற்கு பணத்துக்காக பிரத்தியேக வகுப்பை நடத்தினார் என்றக் குற்றச்சாட்டிலேயே அந்த ஆசிரியரை இடைநீக்கம் செய்துள்ளதாக வடமத்திய மாகாணக் கல்விப் பணிப்பாளர்   எஸ்.எம்.டபிள்யூ. சமரக்கோன் தெரிவித்தார்.  இடைநீக்கம் செய்யப்பட்ட ஆசிரியர், அநுராதபுரம் பாடசாலையொன்றில் கற்பிப்பவர் என்பது தெரியவந்துள்ளது.
+
+இந்த ஆசிரியர்,  பாடசாலை நேரங்களில் மாணவர்களுக்கு பிரத்தியேக வகுப்புகளில் பணத்திற்காக கற்பிப்பதாக பெற்றோர்கள் குழுவொன்று மாகாண கல்விப் பணிப்பாளரிடம் முறைப்பாடு செய்திருந்தது.
+
+அந்த முறைப்பாட்டின் பேரில், மாகாணக் கல்விப் பணிப்பாளர், ஏனைய பணியாளர்கள் குழுவுடன் இணைந்து பாடசாலையை ஆய்வு செய்த போது, ​​இந்த ஆசிரியர், பாடசாலைக்குச் சென்று, ஆசிரியர்களின் வருகைப் பதிவேட்டில் கையொப்பமிட்டு, பாடசாலைக்கு வெளியே சென்று பிரத்தியேக வகுப்பில் மாணவர்களுக்கு கற்பித்ததைக் கண்டுபிடித்தனர்.
+
+இவ்வருடத்தில் இதுவரையிலும்  எவ்வித அதிகார சபையின் அங்கீகாரமும் இன்றி இந்த ஆசிரியர் 26 நாட்கள் விடுமுறை எடுத்துள்ளதாகவும் மாகாண கல்விப் பணிப்பாளர் தெரிவித்தார்.
+
+...
+
+[Data](articles/7d5068cb.json)
+
+---
+
+### Sri Lanka presidential election winner will need 7 million votes: UNP
+
+*2024-07-18 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-winner-will-need-7-million-votes-unp-172745/) · `en`
+
+ECONOMYNEXT — If there was 80-percent turnout at Sri Lanka’s 2024 presidential election, a candidate would have to obtain over 70 million votes to win, the United National Party (UNP) said, claiming that this would be an insurmountable challenge for rival party National People’s Power (NPP).
+
+UNP general secretary Palitha Range Bandara speaking at an event on Wednesday July 17 said there are 17.1 million Sri Lankans registered to vote at the presidential election due to be held between September 17 and October 17.
+
+Given that this election has generated widespread interest, he said, a turnout of at least 80 percent can be expected.
+
+“If 80 percent vote, that’s 14 million voters. The winning candidate must get 7 million votes,” he said.
+
+NPP leader Anura Kumara Dissanayake must add 6,550,000 votes to his base, from the 2019 presidential election, to reach this target, said Bandara.
+
+...
+
+[Data](articles/65b22a80.json)
+
+---
+
+### කතරගම පෙරහරේ ලස්සන බලන්න ඇවිත් කතරගම අවලස්සන කරලා
+
+*2024-07-18 12:34:36* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-පෙරහරේ-ලස්සන-බලන්න-ඇවිත්-කතරගම-අවලස්සන-කරලා/11-410847) · `si`
+
+ඓතිහාසික රුහුණු මහා කතරගම දේවාලයේ ඇසළ මංගල්‍යයට  පැමිණි බැතිමතුන්  විසින්  පරිසරයට  හානි කර වු ද්‍රව්‍ය  විශාල ලෙස  මුදා හැර තිබේ .
+
+කතරගම  සොබා  පරිසර තුරැණු සමාජයේ  ප්‍රධානි  අනුර දිසානායක  මහතා සදහන් කලේ  ප්ලාස්ටික්  බෝතල්  සහ පොලතින් ක්‍රිලෝ 2500 ක් පමණ  පසුගිය 06 වැනි දින සිට පුජා භුමියේ  තිබි එකතු  කල බවයි .
+
+පරිසරය   පිරිසිදු  තබා  ගන්නා  ලෙස දැක්විම්. සහ  ශබ්ද විකාශන  තුලින්  බැතිමතුන්  දැණුවත්  කල ද එම  ක්‍රියා  බීරි අලින්ට  විිනා ගැසු පරිදි  විි ඇත.
+
+පසුව  වසරේ  දිි  ප්ලාස්ටික්  සහ ඉටු කෙළ වැනි ද්‍රව්‍ය ක්‍රිලේ 7000 ක් පවන පරිසරයට  මුදා හැර තිබු  බව සොබා පරිසර තුරැණු  සමාජයේ ප්‍රධානි  අනුව  දිසානායක  මහතා සදහන් කරන ලදිි .
+
+◼️
+
+[Data](articles/a2ece1b1.json)
+
+---
 
 ### Election Comm. urged to enforce new Election Expenses Act for presidential poll
 
@@ -51,6 +123,22 @@ Against this backdrop, Janatha Vimukthi Peramuna (JVP) Parliamentarian Vijitha H
 [Data](articles/d7e63615.json)
 
 [Extended Data](ext_articles/d7e63615.ext.json)
+
+---
+
+### உலக பாரம்பரியமானது மகாவம்சம்
+
+*2024-07-18 12:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பாரம்பரியமானது-மகாவம்சம்/175-340616) · `ta`
+
+பேராதனைப் பல்கலைக்கழக நூலகத்தில் உள்ள இலங்கையின் வரலாற்றின் முக்கிய ஆதாரமான மகாவன்ச வரலாற்று நூல்கள் அடங்கிய தொகுப்பு உலக பாரம்பரியச் சின்னமாக நேற்று அறிவிக்கப்பட்டது.
+
+யுனெஸ்கோ பணிப்பாளர் நாயகத்தினால் மகாவன்சத்தை உலக மரபுரிமைச் சின்னமாக பிரகடனப்படுத்துவதற்கான சான்றிதழ் பேராதனைப் பல்கலைக்கழகத்தின் வேந்தர் பேராசிரியர் ஜி.எச்.பீரிஸிடம் கையளிக்கப்பட்டது.
+
+அத்துடன், பல்கலைக்கழகத்துகு்கு விஜயம் செய்ததைக் குறிக்கும் வகையில் பிரதி வேந்தர் பேராசிரியர் எம்.டி.லமவன்ச, பணிப்பாளர் நாயகத்திற்கு நினைவுச் சின்னம் ஒன்றை வழங்கினார்.
+
+◼️
+
+[Data](articles/196034d4.json)
 
 ---
 
@@ -176,6 +264,26 @@ Therefore, the Department of Wildlife has called for the public to be concerned 
 
 ---
 
+### Sri Lanka trade body, Indonesian officials discuss trade agreement
+
+*2024-07-18 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-body-indonesian-officials-discuss-trade-agreement-172736/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private sector trade body is in negotiations with Indonesian officials on a preferential trade agreement, which it hopes would increase exports to the Southeast Asian archipelago.
+
+At the first round of negotiations of the Sri Lanka Indonesia PTA, the Ceylon Chamber of Commerce were in discussions to “augment SL exports to Indonesia. In addition to knitted fabrics & chemical compounds currently exported, export of processed foods & machinery was proposed,” the Chamber said on X (twitter).
+
+The trade body said there was “potential to export spices, plastics, rubber, etc,” after it recently hosted a delegation led by Ambassador of Indonesia Dewi Gustina Tobing.
+
+In addition to the Sri Lanka Indonesia preferential trade agreement, the upcoming INSACA Business Forum 2024 in Indonesia was also discussed at the meeting.
+
+Last year, Sri Lanka’s cabinet of ministers approved discussions with Indonesia to sign a preferential trade agreement.
+
+...
+
+[Data](articles/76efcb60.json)
+
+---
+
 ### Bail
 
 *2024-07-18 11:56:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசார-தேரருக்கு-பிணை/175-340614) · `ta`
@@ -224,7 +332,7 @@ Sri Lankan origin, Fonseka, scored 76 runs for England.
 
 ---
 
-### Gnanasara Thero granted bail after defamation sentence
+### Gnanasara Thero granted bail after appealing defamation sentence
 
 *2024-07-18 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100594/gnanasara-thero-granted-bail-after-defamation-sentence) · `en`
 
@@ -2113,143 +2221,5 @@ A Sri Lankan and eight Indians have been rescued and one person has been rescued
 [Data](articles/6e4697b7.json)
 
 [Extended Data](ext_articles/6e4697b7.ext.json)
-
----
-
-### Decision on water tariff revision expected by end of week - Minister Jeevan
-
-*2024-07-17 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100587/decision-on-water-tariff-revision-expected-by-end-of-week-minister-jeevan) · `en`
-
-Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman, announced that the reduction of water tariffs is being studied alongside the new electricity tariff revision, with a decision expected by the end of this week.
-
-The Minister also highlighted that the Water Supply Board, previously experiencing a monthly loss of LKR 2.8 billion, has now achieved a profit of LKR 6.2 billion.
-
-Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman made these remarks during the ‘Collective Path to a Stable Country’ press briefing today (17) at the Presidential Media Centre (PMC).
-
-“We commend Minister Kanchana Wijesekera for initiating steps to lower electricity tariffs. The water supply sector is closely tied to electricity tariffs, making it likely that this revision will also lead to reduced water tariffs.
-
-...
-
-[Data](articles/2abfa3d8.json)
-
-[Extended Data](ext_articles/2abfa3d8.ext.json)
-
----
-
-### Cucumber for Refreshing Skin
-
-*2024-07-17 22:14:00* · [`islandlk`](http://island.lk/cucumber-for-refreshing-skin/) · `en`
-
-You can use these Cucumber packs 2-3 times a week for optimal results, depending on your skin’s needs.
-
-Puree the cucumber until it becomes a smooth paste and then add the honey into this cucumber blend.
-
-Apply the mixture onto your face, leaving it on for 15-20 minutes, and then wash off with lukewarm water.
-
-(This cucumber facial mask hydrates the skin, fights acne, and adds a natural glow. The cucumber face pack benefits are amplified by honey’s antibacterial properties, making it a perfect combination for all skin types.)
-
-Extract the cucumber juice and mix it with the aloe vera gel and then apply the mixture evenly on your face. Leave it on for 20 minutes before washing it off with cold water.
-
-(The cucumber and aloe vera face pack soothe irritated skin, reduce inflammation, and provide intense hydration. This combination enhances the cucumber face pack benefits by calming redness and promoting skin healing.)
-
-...
-
-[Data](articles/411e6f7b.json)
-
-[Extended Data](ext_articles/411e6f7b.ext.json)
-
----
-
-### 16 Sri Lankans, 3 Sri Lankan boards on the sea, went missing
-
-*2024-07-17 22:13:32* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-පෙරළීගිය-ඕමාන-තෙල්-නැවේ-සිටි--ශ්‍රීලාංකිකයන්-3ක්-ඇතුළු-16ක්-අතුරුදන්/11-410843) · `si`
-
-Sixteen Sri Lankans aboard the Prestige Falcon, a 111.7-meter-long crude oil transport vessel, went missing near Omanach Flag on Monday. Half of the ship sank, while the remaining 13 are presumed lost. The Indian Navy and Omani authorities launched search operations.
-
-🟩
-
-16 Sri Lankans who were sailing near Omanach Flag. The accident had occurred on Monday. This ship has been identified as Prestige Falcon.
-
-It is said that half of the ship drowns in the sea after rolling. The other 13 disappeared is said that Indians. Accordingly, the Indian Navy and the Omanal Authority authorities were conducted by operations yesterday and opened operations. The crude oil transport vessel was 111.7 meters long in 2007.
-
-◼️
-
-[Data](articles/b84c630e.json)
-
-[Extended Data](ext_articles/b84c630e.ext.json)
-
----
-
-### 50,000 families in Colombo offers
-
-*2024-07-17 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198927) · `si`
-
-In response to Colombo's economic crisis, President Ranil Wickremesinghe awarded free land deeds to 50,000 low-income families, highlighting the government's role in addressing housing needs during tough times. This initiative was part of the Regional Deeds scheme for housing projects in the district, aiming to transform the Western Province into a thriving metropolis.
-
-🟩
-
-President Ranil Wickremesinghe says that the people who can give the people of free land deeds today have been created by the economic crisis due to their reliance on their government.
-
-The President made these comments participating in the heritage of awarding the Freehold Deeds to the Low Income Homes in Colombo District.
-
-The Regional Deeds scheme for the 50,000 low income housing projects in Colombo District was held at the Sudamadasa Indoor Stadium this afternoon.
-
-President Ranil Wickremesinghe said that the Western Province is planning to be a large city where the Western Province is a large city living.
-
-◼️
-
-[Data](articles/9c0df793.json)
-
-[Extended Data](ext_articles/9c0df793.ext.json)
-
----
-
-### Navy soldier killed in Kati
-
-*2024-07-17 21:58:36* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-සෙබළෙකු-කැති-පහරින්-මරුට/11-410842) · `si`
-
-Indika Prasad Bandara, a 45-year-old Sri Lanka Navy sailor, was killed in a dispute over land ownership in the Mahawela area, Matale. The incident involved a heated argument leading to assault. Investigations are ongoing, with the suspect expected to face charges before Matale Magistrate.
-
-🟩
-
-A Navy personnel who had been demonstrated in a confrontation took place in a confrontation took place in general area Mahawela area in Matale today (17).
-
-The deceased has been identified as Indika Prasad Bandara, a 45 year old Sri Lanka Navy, a 45 year old resident of the Sri Lanka Navy. The suspect has come to the Mahawela PolicePolice say.
-
-The deceased navy soldier from the incident was a heated argument with the owner of the land to the land and the owner of the land adjacent to the land, the navy manufacturers were assaulted by the navy manufacturers and the neck to the neck areaPolice suspect that this death has happened.
-
-The Mahawela Police are conducting further investigations into the incident and the suspect and prosecution is to be produced before the Matale Magistrate.
-
-◼️
-
-[Data](articles/6a9df6af.json)
-
-[Extended Data](ext_articles/6a9df6af.ext.json)
-
----
-
-### Nine suspects disappeared from charity accident
-
-*2024-07-17 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198926) · `si`
-
-In the Arabian Sea, a fuel carrier crash resulted in the disappearance of nine suspects, including eight Indians and one Sri Lankan. Despite the incident, nine individuals were rescued, all of whom were part of the ship's crew, with 13 being Indian nationals. The vessel was located southwest of Oman's port city, where it remains operational with its remaining seven staff members.
-
-🟩
-
-According to Indian media reports, nine persons have been able to save nine people on the operations that were conducted by a fuel carrier in the Arabian sea.
-
-There are eight Indians and a Sri Lankan among the rescued.
-
-Indian media further reports that the seven staff remains operating in the staff.
-
-There were 16 persons from the staff of the ship and 13 of them were Indian nationals.
-
-The fuel carrier was crashed at the southwest miles of Oman's deposit port city.
-
-◼️
-
-[Data](articles/8722d73a.json)
-
-[Extended Data](ext_articles/8722d73a.ext.json)
 
 ---

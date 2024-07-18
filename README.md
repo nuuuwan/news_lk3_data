@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 11:55:21**
+As of **2024-07-18 12:08:45**
 
 ## Newspaper Stats
 
-*Scraped **35,881** Articles*
+*Scraped **35,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,138 @@ colombotelegraphcom | 338
 bbccomsinhala | 351
 newsfirstlk | 363
 islandlk | 2,040
-economynextcom | 2,136
+economynextcom | 2,140
 dailyftlk | 2,279
 adalk | 3,241
-adaderanalk | 4,136
+adaderanalk | 4,138
 tamilmirrorlk | 4,346
 dailymirrorlk | 4,733
 virakesarilk | 5,599
-adaderanasinhalalk | 6,001
+adaderanasinhalalk | 6,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,879 (100.0%) of 35,881 articles have been extended.
+35,881 (100.0%) of 35,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### “திருத்தங்கள் வேண்டாம்: தேர்தலை நடத்து”
+### එංගලන්ත යොවුන් ක්‍රීඩකයින්ගෙන් ප්‍රබල පිළිතුරක්
+
+*2024-07-18 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198943) · `si`
+
+සංචාරක ශ්‍රී ලංකා යොවුන් කණ්ඩායම සහ එංගලන්ත යොවුන් කණ්ඩායම අතර පැවැත්වෙන නිල නොවන දෙවැනි  ක්‍රිකට් තරගයේ තුන්වැනි දිනය අද ය.
+
+ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා සියලු දෙනා දැවී ලකුණු 153ක් ලබාගත්තේය.
+
+පිළිතුරු ලෙස සත්කාරක එංගලන්ත යොවුන් කණ්ඩායම සිය පළමු ඉනිම සඳහා ඊයේ (17) දිනය නිමාවන විට කඩුලු 5ක් දැවී ලකුණු 401ක් ලබා සිටියේය.
+
+නායක හම්සා ෂයික් ලකුණු 107යි. රොකි ෆ්ලින්ටොෆ් නොදැවී ලකුණු 82යි.
+
+ශ්‍රී ලාංකික සම්භවයක් ඇති කේෂන ෆොන්සේකා එංගලන්තය වෙනුවෙන් ලකුණු 76ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/1e1a5ea8.json)
+
+---
+
+### Gnanasara Thero granted bail after defamation sentence
+
+*2024-07-18 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100594/gnanasara-thero-granted-bail-after-defamation-sentence) · `en`
+
+The Court of Appeal has granted bail for Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who had been sentenced to four years of rigorous imprisonment for making defamatory comments on Islam at Kuragala, until the hearing of the revision petition filed by him.
+
+This order was issued when the revision petition filed by Ven. Galagodaaththe Gnanasara Thero was taken up for consideration this morning (18).
+
+On March 28, 2024, the Colombo High Court sentenced Gnanasara Thero to four years of rigorous imprisonment while imposing a fine of Rs. 100,000, over the defamatory comments made against Islam during a 2016 media briefing convened on the Kuragala Buddhist monastery, causing damage to national and religious harmony.
+
+...
+
+[Data](articles/424d052f.json)
+
+---
+
+### "No amendments: hold elections"
 
 *2024-07-18 11:28:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தங்கள்-வேண்டாம்-தேர்தலை-நடத்து/175-340609) · `ta`
 
-அரசியலமைப்பு திருத்தங்கள் அல்ல, ஜனாதிபதி தேர்தலை நடத்துவதே இந்த தருணத்தில் நாட்டிற்கு தேவையாகும் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான  பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+Patali Champika Ranawaka, UNP leader, emphasizes the need for elections over constitutional amendments, citing economic issues delayed until 2028 and impending government loans post-2028, during a pamphlet distribution event in Gampaha.
 
-நாட்டின் பொருளாதாரப் பிரச்சினை 2028ஆம் ஆண்டு வரை ஒத்திவைக்கப்பட்டுள்ளதாகத் தெரிவித்த ரணவக்க, 2028ஆம் ஆண்டிற்குப் பின்னர் அரசாங்கத்திற்கு கடனை செலுத்துவதற்கான வேலைத்திட்டம் தேவை என்றார்.
+🟩
 
-கம்பஹாவில் நடைபெற்ற 'நாட்டிற்கு ஒருமித்த படி' நடைமுறை நிகழ்ச்சித் திட்டத்தின் சுருக்கம் அடங்கிய துண்டுப் பிரசுர விநியோகம் நிகழ்வில் கலந்துகொண்டு கருத்துத் தெரிவிக்கையிலேயே சம்பிக்க ரணவக்க மேற்கண்டவாறு தெரிவித்தார்.
+Patali Champika Ranawaka, the leader of the UNP and Member of Parliament, said that the country is needed at this moment, not constitutional amendments.
+
+Ranawaka said the country's economic issue had been postponed until 2028 and that the government needs to pay a loan after 2028.
+
+Sampika Ranawaka said this while participating in a pamphlet distribution ceremony in Gampaha, which was a summary of the procedure program.
 
 ◼️
 
 [Data](articles/b3820dbf.json)
+
+[Extended Data](ext_articles/b3820dbf.ext.json)
+
+---
+
+### Sri Lanka minister, banks discuss loans for estate community
+
+*2024-07-18 11:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-banks-discuss-loans-for-estate-community-172716/) · `en`
+
+ECONOMYNEXT – Two of Sri Lanka’s banks have agreed to provide housing loans for the estate community to build houses once they are given land ownership, Minister of Estate Infrastructure Jeevan Thondaman, said.
+
+“…They are to utilize this land as collateral not just for housing but for their children’s education and so many others,” Thondaman told reporters this week.
+
+“We have spoken to two priority banks in the country and they have agreed that once land rights are given, they will be eligible for a housing loan which will be at a subsidized rate for the estate dwellers.”
+
+Earlier this year, Thondaman said that only 8 percent of families in the plantation sector own homes compared with the national average of 86 percent.
+
+However, Thondaman said that in order for those living on estates to have houses, their livelihoods should increase, as costs of electricity and water also come with home ownership.
+
+...
+
+[Data](articles/1035a861.json)
+
+---
+
+### ඥානසාර හිමිට ඇප
+
+*2024-07-18 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198942) · `si`
+
+බරපතළ වැඩසහිත වසර හතරක සිරදඬුවම් නියම වී සිටි පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් ඇප මත මුදා හැරීමට අභියාචනාධිකරණය නියම කර තිබේ.
+
+ඥානසාර හිමියන් විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සමක් විභාග කිරීමෙන් අනතුරුව අභියාචනාධිකරණය එම නියෝගය නිකුත් කරනු ලැබීය.
+
+කූරගල විහාරස්ථානය සම්බන්ධයෙන් පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඉස්ලාම් ආගමට අපහාස වන ආකාරයේ ප්‍රකාශයක් සිදුකිරීමෙන් ආගමික සමගිය කඩකිරීමේ චෝදනා මත බොදුබල සේනා සංවිධානයේ මහලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමිට බරපතළ වැඩසහිත වසර 4ක සිරදඬුවම් නියම කෙරුණි.
+
+ඒ, පසුගිය මාර්තු මස 28 වැනිදා කොළඹ මහාධිකරණය හමුවේ අදාළ නඩුව විභාගයට ගත් අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/dcb894f0.json)
+
+---
+
+### Court of Appeal reduces former Kurunegala Mayor’s prison sentence
+
+*2024-07-18 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100593/court-of-appeal-reduces-former-kurunegala-mayors-prison-sentence) · `en`
+
+The Court of Appeal has reduced the prison sentence of former Mayor of Kurunegala Thushara Sanjeewa Vitharana from three years to one year. This sentence reduction also applies to the four other individuals who were sentenced alongside him.
+
+The verdict was issued today (18) following the consideration of appeals petitions filed by the accused.
+
+On December 14, 2023, the former Mayor of Kurunegala, the Municipal Commissioner, Engineer and two others were sentenced to three years rigorous imprisonment after being found guilty over the destruction and removal of the ancient ‘Raja Sabha Mandapaya’ (King’s Court) in Kurunegala.
+
+The building in question, also known as the Buwaneka Hotel, dates back to the 13th century and is presumed to be the assembly hall used by the contemporary rulers.
+
+On 16 July 2022, the Mayor of Kurunegala had demolished the said building for a road development project. He had claimed that the Road Development Authority (RDA) had given its approval for the demolition.
+
+...
+
+[Data](articles/bcbd2ad6.json)
 
 ---
 
@@ -130,6 +230,28 @@ Many of which have been trapped. 30 of them have been safely rescued. However, t
 
 ---
 
+### Sri Lanka NITF ‘BBB(lka)’ confirmed by Fitch, re-insurance gap flagged
+
+*2024-07-18 10:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-nitf-bbblka-confirmed-by-fitch-re-insurance-gap-flagged-172723/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has confirmed a ‘BBB(lka)’ insurer rating of Sri Lanka’s National Insurance Trust Fund, with a stable outlook but warned on its inability to get re-insurance cover on time.
+
+The NITF’s major source of revenue is riots, civil commotion and terrorism (SRCCT) premium it gets from other insurers, where claims were not high.
+
+“NITF’s risk-management practices continue to be weak, as evident from its inability to renew reinsurance contracts on time,…” Fitch said.
+
+“We believe facing unforeseen losses without reinsurance cover could result in heightened volatility for NITF’s capital position and earnings.”
+
+NITF’s retrocession cover had expired in January 2023 and reinsurance cover for SRCCT in July 2023, but firm has not been able to renew them, Fitch said.
+
+Fitch said NITF’s gross premiums would surge in 2024 following a after directive requiring primary insurers to remit 100 percent of motor SRCCT premiums to NITF, up from the previous 12 percent.
+
+...
+
+[Data](articles/9109cc21.json)
+
+---
+
 ### Advisory issued for strong winds
 
 *2024-07-18 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100591/advisory-issued-for-strong-winds) · `en`
@@ -212,21 +334,27 @@ Accordingly, instructions have been given to inspect the hotels, restaurants, an
 
 ---
 
-### நாடு திரும்பியவரை கடத்தி கப்பம் பெற முயற்சி
+### Attempted to obtain a hijacker
 
 *2024-07-18 10:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பியவரை-கடத்தி-கப்பம்-பெற-முயற்சி/175-340600) · `ta`
 
-குவைத்தில் பணிபுரிந்து விட்டு இலங்கை திரும்பிய ஒருவரை மாவத்தகமவில் இருந்து கடத்திச் சென்று நாரம்மல பிரதேசத்தில் உள்ள வீடொன்றில் அடைத்து வைத்திருந்த நான்கு சந்தேக நபர்களை விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+Four suspects, aged 31-39, were arrested by the Special Task Force after abducting someone from Mawathagama and holding them in Naramala. The abduction was aided by a former coworker from Kuwait. The victim was rescued, and the cab involved was seized.
 
-குறித்த நபர் குவைத்தில் பணிபுரிந்த போது, அதே இடத்தில் பணிபுரிந்த மற்றுமொருவரின் உதவியின் மூலம் இந்த கடத்தல் இடம்பெற்றுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+🟩
 
-விசேட அதிரடிப்படை அதிகாரிகளுக்கு கிடைத்த தகவலுக்கு அமைய குறித்த நபர் பாதுகாப்பாக மீட்கப்பட்டதுடன் சந்தேகநபர்கள் நால்வரும் கைது செய்யப்பட்டுள்ளனர்.
+Special Task Force (STF) has arrested four suspects who had been abducted from Mawathagama from Mawathagama and kept in a house in Naramala area.
 
-சந்தேகநபர்கள் நாரம்மல மற்றும் கட்டுபொத பிரதேசங்களில் வசிக்கும் 31-39 வயதுடையவர்கள் என்பதுடன், குறித்த நபரை கடத்த பயன்படுத்திய கெப் வண்டியும் விசேட அதிரடிப்படையினரால் கைப்பற்றப்பட்டுள்ளது.
+Investigations have revealed that the abduction was carried out with the help of another person who worked in the same place when the person was working in Kuwait.
+
+According to information received by the Special Task Force officers, the person was safely rescued and four suspects have been arrested.
+
+The suspects were aged 31-39, aged 31-39, and the cab used by the person was seized by the Special Task Force.
 
 ◼️
 
 [Data](articles/b086dbbd.json)
+
+[Extended Data](ext_articles/b086dbbd.ext.json)
 
 ---
 
@@ -313,6 +441,30 @@ The suspect, the suspect was arrested by the police and investigated the inciden
 [Data](articles/6db51fdb.json)
 
 [Extended Data](ext_articles/6db51fdb.ext.json)
+
+---
+
+### Sri Lanka rupee opens flat at 303.80/304.10 to US dollar, bonds lower
+
+*2024-07-18 10:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-303-80-304-10-to-us-dollar-bonds-lower-172712/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 303.80/304.10 to the US dollar on Thursday, dealers said. Bond yields were down and stocks were 0.16 up percent, they said.
+
+The rupee closed at 303.80/304.00 to the greenback on Wednesday.
+
+A bond maturing on 15.12.2026 was quoted at 10.35/45 percent, down from 10.60/75 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.60/65 percent, down from 11.60/68 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.75/80 percent, down from 11.72/78 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 12.05/10 percent.
+
+In equities, Colombo’s All Share Price Index opened 19.09 points higher at 11,849, while the S&P SL20 of more liquid stocks opened up at 0.35 percent or 12.02 points to 3,468.
+
+◼️
+
+[Data](articles/be736069.json)
 
 ---
 
@@ -635,6 +787,26 @@ Due to fishery, the lives of the maritime mammals including turtles, including i
 [Data](articles/0803bbf2.json)
 
 [Extended Data](ext_articles/0803bbf2.ext.json)
+
+---
+
+### Sri Lanka airport will need tech to cope as volumes set to top pre-Covid levels: SITA
+
+*2024-07-18 08:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-airport-will-need-tech-to-cope-as-volumes-set-to-top-pre-covid-levels-sita-172704/) · `en`
+
+ECONOMYNEXT – Passenger traffic at Sri Lanka’s main airport in Katunayake is set to exceed pre-pandemic volumes by year-end and technology can be used to address congestion, an international aviation technology company said.
+
+Self-service check-in, biometrics, reducing passenger touch points and off airport processing are some of the strategies now used to boost efficiency.
+
+Passenger traffic, which includes regional transit passengers, at the Bandaranaike International Airport has topped 4 million by April and is likely reach 9.5 to 10 million passengers by year, which is more than the pre-pandemic level in 2019.
+
+“The message is positive on Sri Lanka,” David Lavorel, Chief Executive, Société Internationale de Télécommunications Aéronautiques (SITA), a company that was founded by airlines and is currently serving carriers, airports and border agencies.
+
+“You have growth coming. Of course, you have challenges if you do nothing. But I think your authorities are working on taking action.”
+
+...
+
+[Data](articles/f15ca9d8.json)
 
 ---
 
@@ -2037,195 +2209,5 @@ SLT-MOBITEL, the National ICT Solutions Provider, and Sri Lanka’s most-loved r
 [Data](articles/e1e541f5.json)
 
 [Extended Data](ext_articles/e1e541f5.ext.json)
-
----
-
-### CSE’s bullish proclivities nipped in the bud by political uncertainty
-
-*2024-07-17 20:53:00* · [`islandlk`](http://island.lk/cses-bullish-proclivities-nipped-in-the-bud-by-political-uncertainty/) · `en`
-
-Stock market trading dipped drastically yesterday despite the market having a positive start at the beginning of the week with indices rising and more importantly, net foreign inflow reaching over Rs. 400 million. Political uncertainty emanating from the upcoming presidential election affected the market, analysts said.
-
-Amid those developments both indices moved downwards. The All Share Price Index went down by 39.6 points while S and P SL20 declined by 15.49 points. Turnover stood at Rs 1.2 billion with three crossings. Those crossings were reported in JKH, which crossed 3 million shares to the tune of Rs 586 million and its shares traded at Rs 194, Hemas Holdings 1.5 million shares crossed for Rs 124 million; its shares traded at Rs 81.40 and Hayley’s 1.2 million shares crossed for Rs 121 million; its shares sold at Rs 101.
-
-...
-
-[Data](articles/6997feab.json)
-
-[Extended Data](ext_articles/6997feab.ext.json)
-
----
-
-### AIA Insurance pioneers digital innovation in insurance industry
-
-*2024-07-17 20:50:00* · [`islandlk`](http://island.lk/aia-insurance-pioneers-digital-innovation-in-insurance-industry/) · `en`
-
-AIA Sri Lanka continues to lead the way in digital innovation within the insurance industry, setting new benchmarks for customer convenience and technological advancement. Demonstrating its commitment to transforming the insurance landscape through cutting-edge technology, AIA Sri Lanka was honoured with four prestigious Information Technology awards, highlighting its dedication to providing unparalleled customer experiences.
-
-At the esteemed Insurance Asia Awards last year, AIA Sri Lanka was honoured as the winner of the ‘Digital Transformation Initiative of the Year’. This prestigious recognition, awarded at a prominent regional awards ceremony, celebrates the company’s transformative efforts and reflects its unwavering dedication to empowering both employees and customers through digital innovation across Asia.
-
-...
-
-[Data](articles/b9dd2780.json)
-
-[Extended Data](ext_articles/b9dd2780.ext.json)
-
----
-
-### Ranil is fielding as an independent candidate
-
-*2024-07-17 20:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுயேட்சை-வேட்பாளராக-களமிறங்குகின்றார்-ரணில்/175-340577) · `ta`
-
-Ranil Wickremesinghe, contesting as an independent, meets with the Elections Commission to expedite the upcoming presidential election. His candidacy poses no threat to major parties, United People's Power and National People's Power, and he expresses confidence in winning with increased votes.
-
-🟩
-
-United National Party General Secretary Palitha Range Bandara says President Ranil Wickremesinghe will contest the upcoming presidential election as an independent candidate.
-
-After meeting with the Elections Commission, he told the media that he had requested the Election Commission to hold the election within a short time.
-
-Ranil Wickremesinghe's candidature has no threat to the United People's Power and the National People's Power.
-
-Therefore, Ranil Wickremesinghe has expressed hope that he will win the upcoming presidential election with more votes.. Remble
-
-◼️
-
-[Data](articles/23b69be8.json)
-
-[Extended Data](ext_articles/23b69be8.ext.json)
-
----
-
-### Mahinda Rajapaksa hints at SLPP’s Presidential Candidate
-
-*2024-07-17 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100585/mahinda-rajapaksa-hints-at-slpps-presidential-candidate) · `en`
-
-Former President Mahinda Rajapaksa says that the Sri Lanka Podujana Peramuna (SLPP) will fully support President Ranil Wickremesinghe if he decides to align with their party at the upcoming presidential election.
-
-He made these comments in response to questions from journalists today (17).
-
-When asked about the party’s candidate for the election, Rajapaksa said, “Now we have the program to win the election. The good news is that we will win. When the candidate is named, you will know how powerful he is.”
-
-Regarding the possibility of putting forward a common candidate, he said that the party has always presented a common candidate.
-
-On the matter of supporting the President, he clarified, “Not yet, but if the president is ready to go with us, we will fully support him.”
-
-◼️
-
-[Data](articles/7cc4204e.json)
-
-[Extended Data](ext_articles/7cc4204e.ext.json)
-
----
-
-### Candidates contesting the presidential election must come up with a solution that recognizes the North East Tamils ​​as a unique nation
-
-*2024-07-17 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188717) · `ta`
-
-The Sri Lanka National Christian Forum urges presidential candidates to address the unique needs of the North East Tamils by advocating for significant autonomy within a unified Sri Lanka. Highlighting the importance of transparency and accountability, the forum calls for an end to the executive presidency, emphasizing the need for political solutions to address the economic crisis and ethnic tensions. It stresses the significance of acknowledging the political roots of the current economic downturn and the necessity of addressing historical injustices, including land grabs and war crimes.
-
-🟩
-
-The Sri Lanka National Christian Forum has appealed to all the candidates who are contesting the upcoming presidential election in the upcoming presidential election and the Sri Lanka National Christian Forum has called for significant autonomy and power within the united Sri Lanka.
-
-The National Christian Forum welcomes the Supreme Court's need to hold the presidential election later this year.
-
-We urge the Sri Lankan people to use their sovereignty and responsibility, which includes fundamental rights and rights to vote.
-
-For this, it is important that the people are aware of the political and economic crisis that the country is facing.
-
-Moreover, the parties contesting the general election in the next general election must be rated on a critical basis.
-
-The National Christian Forum of Sri Lanka wants to remind the public that the basic reasons for the current economic crisis that have affected all communities are political.
-
-...
-
-[Data](articles/e4bf5e69.json)
-
-[Extended Data](ext_articles/e4bf5e69.ext.json)
-
----
-
-### Police say the best way to take children
-
-*2024-07-17 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198924) · `si`
-
-In a viral video, two elderly women brutally attack a 6-year-old boy in Sri Lanka. The incident, captured by a neighbor, shocks the community. Four suspects are arrested and remanded until the 22nd. The police aim to prosecute them under Mawanella jurisdiction. The OIC suggests financial cuts as a form of punishment for children, emphasizing the importance of non-physical discipline to prevent future offenses.
-
-🟩
-
-A video of the social media has recently circulated how two elderly women inhumane attacking two elderly women.
-
-Later, there were two sisters of the child who was brutally attacked a 6-year-old boy in Aranayaka Ehelagashthena area.
-
-The assailant was found in the video the assassination of the child from the side of the child.
-
-The brutal assault had been filmed by a neighbor's woman and released to the Social Media.
-
-The four suspects were produced before the Mawanella Magistrate Court and remanded until the 22nd.
-
-The police taken action to submit the child who was assaulted to the Mawanella jurisder.
-
-Can adults use other options for adults to avoid making their children to be made up of this?
-
-OIC of Colombo Community Police Headquarters, OIC Manoj Samarasekera,
-
-...
-
-[Data](articles/8fe6348b.json)
-
-[Extended Data](ext_articles/8fe6348b.ext.json)
-
----
-
-### Establishment of Biku Coordination Division at Presidential Office!
-
-*2024-07-17 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188716) · `ta`
-
-The Biku Coordination Division at the Presidential Office was inaugurated to address governmental responsibilities regarding the protection and promotion of Buddhism, as advised by President Ranil Wickremesinghe. The office aims to strengthen ties between religious leaders and the government, tackle challenges like idol maintenance and traditional charity teachings, and ensure the President's support in overcoming national economic, social, and cultural issues.
-
-🟩
-
-The office was inaugurated on Wednesday morning amidst the Seth Brith recitation of the Maha Sangam with the participation of President's Secretary Saman Ekanayake.
-
-The office has been established on the advice of President Ranil Wickremesinghe to fulfill the responsibility of the government in accordance with the Constitutional Councils on the Protecting and Protecting Buddha Sasana.
-
-Malluwathu Petta Anunayaka Sahitya Chakravarti. Niyangoda Vijitasiri Thera,
-
-“He said that the President's program will always be blessed with the President's program of overcoming the economic, social and cultural challenges facing the country.
-
-He pointed out that the Coordinating Office would help strengthen the ties between the Maha Sangam and the rulers.
-
-Ananda Nayaka Thera, Deputy Registrar of Asgiri Pedia Nikaya, Syomo Palivamsika Maha Nikaya, presented a special doctrine and pointed out that the government's intervention was not essential during this period of crisis.
-
-...
-
-[Data](articles/af64d2d8.json)
-
-[Extended Data](ext_articles/af64d2d8.ext.json)
-
----
-
-### The United National Party (UNP) requests to hold the presidential election quickly
-
-*2024-07-17 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188715) · `ta`
-
-The UNP, through its General Secretary, has urged the Election Commission to expedite the presidential election process, emphasizing Ranil Wickremesinghe's candidacy and confidence in his victory. They stress the urgency due to the rapid assumption of responsibilities by the United People's Power and National People's Power, hinting at a potential electoral shift.
-
-🟩
-
-UNP General Secretary Palitha Range Bandara said that we have requested the Election Commission to take steps to hold the presidential election very quickly according to the constitution.
-
-He was speaking to the media after meeting with the Election Commission on Wednesday (17) after meeting with the election office in Rajagiriya.
-
-We have asked the Election Commission to take steps to hold the presidential election as soon as possible. Ranil Wickremesinghe is contesting the presidential election as an independent candidate. Everyone can attend it.
-
-Ranil Wickremesinghe is not challenging the United People's Power or National People's Power. The United People's Power and the National People's Power are rapidly taking responsibility for electoral defeat. That is why we came here to tell you to hold the election quickly.
-
-...
-
-[Data](articles/c09c9c87.json)
-
-[Extended Data](ext_articles/c09c9c87.ext.json)
 
 ---

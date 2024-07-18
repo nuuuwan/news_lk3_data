@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 21:05:38**
+As of **2024-07-18 21:20:19**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 6,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,978 (100.0%) of 35,980 articles have been extended.
+35,980 (100.0%) of 35,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### ලේසර් තාක්ෂණයෙන් මතුකරගත් ආදම්ගේ පාලම
+### Adam's bridge raised with laser technology
 
 *2024-07-18 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198962) · `si`
 
-ගාලු මුවදොර පිවිසුමෙන් කොළඹ නගරයට හා වරාය නගරයට ප්‍රවේශයක් ලබාදීම සඳහා ඉදිවන වරාය පිවිසුම් ගුවන් මාර්ග ව්‍යාපෘතියේ ඉදිකිරීම් එළැඹෙන ඔක්තෝබර් මාසය වනවිට අවසන් වීමට නියමිතය.
+The Port Accession Project aims to alleviate Colombo's traffic congestion by connecting the new Kelani Bridge to the Galle Face and Port City via a 4km highway, constructed using innovative techniques. Expected to complete by October, it's a joint effort between Sri Lanka and China, with a focus on improving container transport access.
 
-ප්‍රවාහන අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා අද (18) එම ව්‍යාපෘතියේ ප්‍රගතිය නිරීක්ෂණය සඳහා එක්වුණි.
+🟩
 
-වරාය පිවිසුම් ගුවන් මාර්ග ව්‍යාපෘතියේ ඉදිකිරීම් ආරම්භ කෙරෙන්නේ 2019 සැප්තැම්බර් මාසයේදීය.
+The Port Accession Project will be completed by October, October, October, October.
 
-ආසියානු සංවර්ධන බැංකු ණය ආධාර මත ආරම්භ කළ මෙම ව්‍යාපෘතිය සඳහා දළ ඇස්තමේන්තු ගත මුදල අමෙරිකානු ඩොලර් මිලියන 300කි.
+Transport Minister Dr. Bandula Gunawardena joined the progress of the project today (18).
 
-චීන සිවිල් ඉංජිනේරු ඉදිකිරීම් සංස්ථාව විසින් ඉදිකිරීම් සිදුකරන වරාය පිවිසුම් ගුවන් මාර්ගය කිලෝමීටර 5.3ක දිගකින් යුත් මංතීරු 4කින් සමන්විත අධිවේගී මාර්ගයකි.
+The construction of the Port Access Building Project is started in September 2019.
 
-මෙම අධිවේගී මාර්ගය ඉඟුරු කඩේ මංසන්ධිය අසලින් නව කැලණි පාලමට සම්බන්ධ වන අතර එතැන් සිට කුලුනු මතින් ගාලු මුවදොර සහ අභිනව වරාය නගරය දක්වා පැමිණෙයි.
+The approximate estimated amount of Rs.
 
-මෙම ව්‍යාපෘතියේ පරමාර්ථ වන්නේ කොළඹ නගරයේ පවතින අධික වාහන තදබදයට විසඳුමක් සහ ගාලු මුවදොර පිවිසුමෙන් කොළඹ නගරයට හා වරාය නගරයට ප්‍රවේශයක් ලබාදීමය.
+The port login flight of the Chinese Civil Engineering Construction Corporation is a 4-kilometer highway with a 4-kilometer highway.
+
+The expressway is connected to the new Kelani Bridge near the ginger shop in junction and from that time to the Galle Face and the New Harbor.
+
+The objective of this project is to a solution to the high traffic congestion in Colombo and access to the Galle Face and access to the port city of Colombo.
+
+It is also aimed at creating a new access to the transportation of container transport from the port.
+
+The construction work is conducted to the relief, a new technique for the first time in Sri Lanka, the construction of the previous consignment of concrete bridge.
 
 ...
 
 [Data](articles/20a8466d.json)
+
+[Extended Data](ext_articles/20a8466d.ext.json)
 
 ---
 
@@ -248,17 +258,23 @@ Accordingly, the suspect was arrested in the Dehiwala area by the Special Invest
 
 ---
 
-### නිලන්ත ජයවර්ධන අනිවාර්ය නිවාඩු යවයි
+### Nilantha Jayawardena sends mandatory leave
 
 *2024-07-18 18:26:36* · [`adalk`](https://www.ada.lk/breaking_news/නිලන්ත-ජයවර්ධන-අනිවාර්ය-නිවාඩු-යවයි/11-410856) · `si`
 
-පාස්කු ප්‍රහාරයට අදාළව ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති නිලන්ත ජයවර්ධන මහතා සම්බන්ධයෙන් කරන විනය පරීක්ෂණයක් හේතුවෙන් අද (18දා) දින තෙක් ඔහුව අනිවාර්ය නිවාඩු යැවිමට ජාතික පොලිස් කොමෂම තීරණය කර තිබේ.
+Senior DIG Nilantha Jayawardena, former Director of the National Intelligence Service, is sent for a disciplinary inquiry by the National Police Commission regarding his actions during the Passover attack.
 
-පාස්කු ප්‍රහාරය සිදුවන විට නිලන්ත ජයවර්ධන මහතා ජාතික බුද්ධි සේවයේ අධ්‍යක්ෂ ලෙස කටයුතු කරමින් සිටියේය.
+🟩
+
+The National Police Commission has decided to send him to the disciplinary inquiry by Senior DIG Nilantha Jayawardena today (18).
+
+Mr. Nilantha Jayawardena was serving as the Director of the National Intelligence Service when the Passover attack took place.
 
 ◼️
 
 [Data](articles/9d05da55.json)
+
+[Extended Data](ext_articles/9d05da55.ext.json)
 
 ---
 

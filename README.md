@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 08:16:27**
+As of **2024-07-18 07:48:48**
 
 ## Newspaper Stats
 
-*Scraped **35,832** Articles*
+*Scraped **35,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,127 +16,55 @@ islandlk | 2,039
 economynextcom | 2,136
 dailyftlk | 2,267
 adalk | 3,235
-adaderanalk | 4,133
-tamilmirrorlk | 4,333
+adaderanalk | 4,131
+tamilmirrorlk | 4,331
 dailymirrorlk | 4,733
 virakesarilk | 5,594
-adaderanasinhalalk | 5,994
+adaderanasinhalalk | 5,993
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,827 (100.0%) of 35,832 articles have been extended.
+35,824 (100.0%) of 35,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### අධිකරණ ඇමතිගෙන් මැතිවරණ කොමිසමට ලිපියක්
-
-*2024-07-18 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198933) · `si`
-
-ඉදිරි ජනාධිපතිවරණය සදහා 2023 අංක 03 දරණ මැතිවරණ වියදම් නියාමන පනත යටතේ බලතල ක්‍රියාත්මක කරන ලෙස දන්වමින් අධිකරණ බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා විසින් මැතිවරණ කොමිසම වෙත ලිඛිතව දැනුම්දීමක් සිදුකර තිබේ.
-
-අමාත්‍යවරයා පෙන්වා දෙන්නේ, පාර්ලිමේන්තු මැතිවරණවල දී සිදුවන නීතිවිරෝධී ක්‍රියා, අල්ලස්, කප්පම් වැනි සිදුවීම් සඳහා වර්තමානයේ පවතින සමානුපාතික මැතිවරණ ක්‍රමය යටතේ නීතිය අකර්මන්‍යයවී ඇති බවය.
-
-ඒ අනුව මැතිවරණ සංස්කෘතිය වෙනස් කර නීතියේ ආධිපත්‍ය ස්ථාපිත වූ ප්‍රජාතන්ත්‍රවාදයක් සඳහා මැතිවරණ කොමිසමේ පූර්ණ සහයෝගය ඇතිව 2023 අංක 03 දරණ මැතිවරණ වියදම් නියාමන පනත පාර්ලිමේන්තුවට ඉදිරිපත් කර සම්මත කරගත් බව අමාත්‍යවරයා පවසයි.
-
-මේ හේතුවෙන් ඉදිරි මැතිවරණ සඳහා එම පනත ක්‍රියාත්මක කිරීමට අවශ්‍ය පියවර ගන්නා ලෙස මැතිවරණ කොමිසමෙන් ඉල්ලීමක් කළ බව අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා පැවසුවේය.
-
-මේ අතර ඉදිරි ජනාධිපතිවරණය වැළැක්වීම සඳහා ආණ්ඩුව කුමන උපක්‍රම යෙදුව ද ඒ සෑම උත්සාහයක්ම අසාර්ථක වී ඇති බව ජනතා විමුක්ති පෙරමුණේ ප්‍රචාරක ලේකම් විජිත හේරත් මහතා පවසයි.
-
-...
-
-[Data](articles/31b22a31.json)
-
----
-
-### Serious charges to the Inland Revenue Department
+### දේශීය ආදායම් දෙපාර්තමේන්තුවට බරපතළ චෝදනා
 
 *2024-07-18 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198932) · `si`
 
-The National Audit Office criticizes the Inland Revenue Department for its inefficiency, highlighting a 20% risk of uncollectible Value Added Tax (VAT) worth billions. The audit suggests a need for a formal investigation into the causes of this deficit and recommends disciplinary actions against responsible officials.
+එකතු කළ අගය මත බද්ද හෙවත් වැට් බදු ආශ්‍රිත ආදායමෙන් 20%කට ආසන්න ප්‍රමාණයක් අය කළ නොහැකි අවදානම් තත්ත්වයකට පත්ව ඇති බව ජාතික විගණන කාර්යාලය පවසයි.
 
-🟩
+එම කාර්යාලය පෙන්වාදෙන්නේ දේශීය ආදායම් දෙපාර්තමේන්තුවේ අකාර්යක්ෂමතාව සහ වගකීම් විරහිත ක්‍රියාමාර්ග හේතුවෙන් මෙම තත්ත්වය උද්ගතව ඇති බවය.
 
-The National Audit office says that nearly 20% of the value added tax is impossible in the risk of tax related income.
+දේශීය ආදායම් දෙපාර්තමේන්තු මූලාශ්‍රයන්ට අනුව රජයට අය විය යුතු නමුත් මෙතෙක් අයකරගෙන නොමැති එකතු කළ අගය මත බදු පිළිබඳ විශේෂ විගණන වාර්තාව ප්‍රකාශයට පත් කරමින් විගනකාධිපතිවරයා මේ බව සඳහන් කර තිබේ.
 
-The office shows that this situation has arisen due to the inefficiency and irresponsible measures of the Department of Inland Revenue.
+දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් පවත්වාගෙන යනු ලබන ලේඛනවලට අනුව 2022 දෙසැම්බර් 31 වන දින වන විට වැට් හිඟ බදු මුදල් සහ එම හිඟ බදු මත පනවන දඬ මුදල්වල වටිනාකම රුපියල් බිලියන 369ක් වන අතර ඉන් රුපියල් බිලියන 255ක් වූ හිඟ ආදායම විවිධ හේතු මත අයකර ගැනීම තාවකාලිකව අත්හිටුවා ඇති බව ජාතික විගණන කාර්යාලය පෙන්වා දෙයි.
 
-According to the Department of Inland Revenue, the Government has made this statement in public declaration of special audit report on the allocated value added.
-
-According to the documents maintained by the Department of Inland Revenue, VAT is suspended at Rs.The National Audit Office points out.
-
-The audit has also revealed that the balance of Rs 114 billion has been exposed to Rs 11 4 billion to 13 billion rupees.
-
-The National Audit Office shows that the VAT should be recovered during the revenue of the Department of Inland Revenue and a risk of the government has caused a risk to the government.
-
-The National Audit Office is the main reason for the loss of this tax due to the availability of the Inland Revenue.
+ඉන් අය කරගත හැකි ලෙස හඳුනාගෙන ඇති හිඟ බදු ශේෂය වූ රුපියල් බිලියන 114 වසර 13ක පමණ කාලයක සිට පැවත එන ශේෂයන් පවතින බව ද විගණනය මඟින් අනාවරණය කරගෙන තිබේ.
 
 ...
 
 [Data](articles/046ad824.json)
 
-[Extended Data](ext_articles/046ad824.ext.json)
-
 ---
 
-### Biden tests positive for covid, cancels events amid mild symptoms
-
-*2024-07-18 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100589/biden-tests-positive-for-covid-cancels-events-amid-mild-symptoms) · `en`
-
-(AP) — President Joe Biden tested positive for COVID-19 while traveling Wednesday in Las Vegas and is experiencing “mild symptoms” including “general malaise” from the infection, the White House said.
-
-Press secretary Karine Jean-Pierre said Biden will fly to his home in Delaware, where he will “self-isolate and will continue to carry out all of his duties fully during that time.” The news had first been shared by UnidosUS President and CEO Janet Murguía, who told guests at the group’s convention in Las Vegas that president had sent his regrets and could not appear because he tested positive for the virus.
-
-Dr. Kevin O’Connor, the president’s physician, said in a note that Biden, 81, “presented this afternoon with upper respiratory symptoms, to include rhinorhea (runny nose) and non-productive cough, with general malaise.” After the positive COVID-19 test, Biden was prescribed the antiviral drug Paxlovid and has taken his first dose, O’Connor said.
-
-...
-
-[Data](articles/fdd46844.json)
-
----
-
-### Fairly heavy showers, strong winds expected in parts of the island
-
-*2024-07-18 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100588/fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
-
-The prevailing windy conditions over the island are expected to continue further, due to the active South-west Monsoonal condition, says the Meteorology Department.
-
-Showers or thundershowers will occur at times in Sabaragamuwa Province and in Kandy and Nuwara-Eliya districts, and fairly heavy showers about 50 mm are likely at some places.
-
-Several spells of showers will occur in Western and North-western provinces and in Galle and Matara districts, it said.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/f7c9747e.json)
-
----
-
-### Raid areas in search of relief traders
+### සහන නොදෙන වෙළෙඳුන් සොයා දිවයින පුරා වැටලීම්
 
 *2024-07-18 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198931) · `si`
 
-Consumer Affairs Authority launches nationwide raids targeting traders not adhering to fuel, gas, and electricity price regulations. Chairman Thusitha Indrajith Udukhawaratu directs officials to inspect hotels, restaurants, and shops across the island for fair pricing practices.
+ඉන්ධන, ගෑස් සහ විදුලි මිල ගණන් අඩුකර තිබුණ ද එම සහනය පාරිභෝගිකයින් වෙත ලබානොදෙන වෙළෙඳුන් සොයා වැටලීම් ආරම්භ කිරීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පියවර ගෙන තිබේ.
 
-🟩
+සභාපති තුසිත ඉන්ද්‍රජිත් උඩුවර මහතා සඳහන් කළේ, ඒ අනුව ඉදිරි දිනවල දිවයින පුරා වැටලීම් සිදුකිරීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවය.
 
-The Consumer Affairs Authority has taken steps to start raids searching for traders who do not receive fuel, gas and electric prices.
-
-Chairman Thusitha Indrajith Udukhawaratu said that the officials of the Consumer Affairs of Consumer Affairs had instructed to raid the raids island wide accordingly.
-
-Accordingly, hotels, restaurants and other shops island wide and have been instructed to pay special attention to the prices and prices of goods and services.
+ඒ අනුව දිවයින පුරා හෝටල්, ආපන ශාලා හා අනෙකුත් වෙළෙඳසැල් අඛණ්ඩව පරීක්ෂා කිරීමටත් භාණ්ඩ හා සේවාවල මිල ගණන් හා මිල ප්‍රදර්ශනය පිළිබඳ විශේෂ අවධානය යොමුකර වැටලීම් සිදුකිරීමට නිලධාරින්ට උපදෙස් ලබා දී තිබේ.
 
 ◼️
 
 [Data](articles/e790b430.json)
-
-[Extended Data](ext_articles/e790b430.ext.json)
 
 ---
 
@@ -534,37 +462,7 @@ Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Hassini Pere
 
 ---
 
-### கொழும்பில் வீட்டு உரிமைகளை வழங்கும் வேலைத்திட்டம்
-
-*2024-07-18 00:36:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-வீட்டு-உரிமைகளை-வழங்கும்-வேலைத்திட்டம்/175-340589) · `ta`
-
-மேல் மாகாணத்தை சுமார் 50 லட்சம் மக்கள் வாழும் பெரிய நகரமாக அபிவிருத்தி செய்ய திட்டமிடப்பட்டுள்ளது எனவும்  நாட்டு மக்களுக்கு நிவாரணம் வழங்குவதற்காக எந்தவொரு அரசாங்கத்தினாலும் நடைமுறைப்படுத்தப்படாத இந்த புரட்சிகரமான வேலைத்திட்டத்தை அரசாங்கம் ஆரம்பித்துள்ளது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
-
-கொழும்பு சுகததாச விளையாட்டரங்கில் நேற்று பிற்பகல் நடைபெற்ற கொழும்பில் உள்ள அடுக்குமாடி குடியிருப்பில் வசிக்கும் குறைந்த வருமானம் பெறும் 50 ஆயிரம் குடும்பங்களுக்கு காணி உறுதிப் பத்திரங்களை வழங்கும் 'ரன்தொர உறுமய' நிகழ்ச்சியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு  குறிப்பிட்டார்.
-
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக்கருவுக்கமைய, 2024 வரவு செலவுத் திட்டத்தில் 20 லட்சம் பேருக்கு காணி உரிமை வழங்கும் உறுமய வேலைத்திட்டமும், கொழும்பு.அடுக்குமாடி குடியிருப்புகளில் வசிக்கும் இரண்டரை லட்சம் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அந்த வீடுகளின் முழு உரிமையை வழங்கும் திட்டமும் நடைமுறைப்படுத்தப்பட்டது.
-
-...
-
-[Data](articles/7875c522.json)
-
----
-
 ### 2024-07-17 (Wednesday)
-
-### ஜனாதிபதி அலுவலகத்தில் பிக்கு ஒருங்கிணைப்புப் பிரிவு
-
-*2024-07-17 23:53:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-பிக்கு-ஒருங்கிணைப்புப்-பிரிவு/175-340588) · `ta`
-
-ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் பங்களிப்புடன் மகா சங்கத்தினரின் செத் பிரித் பாராயணத்துக்கு மத்தியில் இந்த அலுவலகம் நேற்று  திறந்து வைக்கப்பட்டது.
-
-புத்தசாசனத்தைப் பாதுகாத்து முன்னெடுப்பது தொடர்பான அரசியலமைப்பு விதந்துரைகளுக்கு அமைவாக அரசாங்கத்திற்கு வழங்கப்பட்டுள்ள பொறுப்பை உரிய முறையில் நிறைவேற்றும் வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஆலோசனைக்கமைய இந்த அலுவலகம் ஸ்தாபிக்கப்பட்டுள்ளது என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது..
-
-◼️
-
-[Data](articles/8859950e.json)
-
----
 
 ### El Board
 
@@ -1256,33 +1154,23 @@ However, the Maritime Security Center has told the Marine Security Center that t
 
 ---
 
-### It has not been revealed if Wasantha's killers visited the country
+### වසන්තගේ ඝාතකයන් රටින් ගියාදැයි අණාවරණය වී නෑ
 
 *2024-07-17 19:06:32* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තගේ-ඝාතකයන්-රටින්-ගියාදැයි-අණාවරණය-වී-නෑ/11-410840) · `si`
 
-Investigations into the shooting at a Tatuiri Center in Athurugiriya are ongoing without revealing details. Police spokesperson DIG Talduwa mentioned the involvement of 8-10 teams daily. Seven suspects have been arrested but released on bail due to lack of direct connection to the incident. The arrest of individuals involved in drug trafficking and the ongoing investigation into the Maharagama Matara Palace incident highlight the complexity of the case.
+අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයක සිදුවූ වෙඩි තැබීමට සම්බන්ධ සැකකරුවන් රටින්  පිටව ගොස් තිබෙනවාද යන්න මෙතෙක් සිදුකළ විමර්ශනවලදී අනාවරණය වී නොමැති බව  පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
 
-🟩
+ජංගම දුරකතනවල තොරතුරු සම්බන්ධයෙන් හා ආරක්ෂිත කැමරා දර්ශනවලට අනුව නුගේගොඩ කොට්ඨාසයේ පොලිස් කණ්ඩායම් 8 -10  අතර ප්‍රමාණයක් සිද්ධිය පිළිබඳ දෛනිකව  විමර්ශන සිදුකරන බවත්, මෙම කණ්ඩායම් දිවයිනේ විවිධ ප්‍ර දේශවලට ගොස් පරීක්ෂණ සිදුකරන බවත් හෙතෙම පැවසීය.
 
-The police spokesman DIG Talduuwa said that investigations into the shooting center in a Tatuiri Center in Athurugiriya have not been revealed.
+අද (17දා) පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ පිළිබඳව  සදහන් කළ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා මෙසේද පැවසීය.
 
-He said that between 8 and 10 police teams in the Nugegoda division of the Nugegoda division of the Nugegoda division of the Nugegoda division daily.
+"තාක්ෂණික උපකරණවල සහාය ලබා ගනිමින් මෙම විමර්ශන සිදුකරනවා. සිද්ධිය සම්බන්ධයෙන් මේ වන විට සැකකරුවන් 7 දෙනෙකු අත්අඩංගුවට ගෙන තිබෙනවා. තවත් සැකකරුවන් කිහිප දෙනෙකු වැලිපැන්න ප්‍රදේශයේදී අත්අඩංගුවට ගත්තා.
 
-Police Media Spokesperson DIG Nimael Thalduwawe stated that this was stated at a press conference held today (17).
-
-"These investigations are carried out with the assistance of technical equipment. Seven suspects have been arrested in connection with the incident. Several more suspects were arrested in Welipenna.
-
-The arrested groups have released on bail. These personnel have not proved directly connected to the incident. *
-
-The mother of Dulan, the mother of Tot, has been arrested with drugs that she was in charge of drug trafficking
-
-But the investigations have not been revealed in the investigation into this incident.
+සැකපිට අත්අඩංගුවට ගත් පිරිස් ඇප මත මුදා හැර තිබෙනවා. මෙම පිරිස් අදාළ සිද්ධියට සෘජු ලෙස සම්බන්ධ බවට තහවුරු වී නැහැ.*
 
 ...
 
 [Data](articles/764e3677.json)
-
-[Extended Data](ext_articles/764e3677.ext.json)
 
 ---
 
@@ -2343,5 +2231,129 @@ This proposal comes in light of the recent attack on former U.S. President Donal
 [Data](articles/1ec7b7c0.json)
 
 [Extended Data](ext_articles/1ec7b7c0.ext.json)
+
+---
+
+### Decision regarding the safety of presidential candidates
+
+*2024-07-17 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198914) · `si`
+
+President Wickremesinghe proposes a security plan for presidential elections, including a threat assessment committee and a DIG overseeing security forces for candidate protection.
+
+🟩
+
+President Ranil Wickremesinghe has presented a cabinet paper to ensure the security of the presidential election and the safety of presidential candidates.
+
+Accordingly, it has been proposed to appoint a committee to assess the threats to presidential candidates and former presidents and ensure the necessary safety.
+
+The cabinet paper has further proposed to appoint a DIG to supervise these security forces.
+
+◼️
+
+[Data](articles/ed724474.json)
+
+[Extended Data](ext_articles/ed724474.ext.json)
+
+---
+
+### Bus crashes in the Andes Mountain Series in Peru;25 killed;17 people injured
+
+*2024-07-17 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/188674) · `ta`
+
+A tragic bus crash in the Andes Mountains of Peru resulted in 25 deaths and 17 injuries. The accident occurred on the Los Libertador highway near Ayacucho, a common site for such incidents due to inadequate driver training and the region's hazardous terrain.
+
+🟩
+
+At least 25 people were killed and 17 injured when a bus crashed through the Andes Mountain area on Tuesday in Peru.
+
+At dawn, the bus traveling on the highway in the Andes Mountain Series has crashed into a 200 -foot ditch.
+
+The accident occurred on the Los Libertador's highway in the Ayakucho area where the south-central Andes mountain range is located.
+
+The occurrence of dangerous bus accidents in Peru is a common thing. This is because many buses travel there on a dangerous mountain pass. Buses are operated by drivers who do not have adequate training.
+
+In April, 25 people were killed when a bus fell into a river in North Kajamarga of Peru.
+
+In September 2022, at least 24 people were killed in a similar accident in the Anco area.
+
+◼️
+
+[Data](articles/26dd9cef.json)
+
+[Extended Data](ext_articles/26dd9cef.ext.json)
+
+---
+
+### Meditiya killed in terms of hospital bus accident
+
+*2024-07-17 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198913) · `si`
+
+In a tragic accident involving a Sri Lanka Transport Board (SLTB) bus and a lorry in Galahitiyawa, a 37-year-old female doctor named Seal Paltawali lost her life. The incident occurred while she was returning from work at the Chilaw General Hospital. She was later transferred to the Colombo National Hospital for further treatment but succumbed to her injuries on Monday.
+
+🟩
+
+A doctor who was receiving treatment at the Colombo National Hospital has been admitted to the Colombo National Hospital.
+
+The victim was a 37 year old woman named Seal Paltawali, a doctor of the Nattandiya Dunkannawa area.
+
+The SLTB bus and a lorry collided with a lorry and a lorry collided with a lorry in Galahitiyawa road on the Chilahi-Colombo-Colombo.
+
+The accident had occurred when a SLTB bus traveling from the Devalaya junction to the Puttalam bus, which was not able to control the second and collided with a lorry.
+
+About 27 people were injured in the accident and was admitted to the Chilaw General Hospital for treatment.
+
+The doctor has recovered the SLTB bus to the Wennappuwa area to take his child to school and travel to the school.
+
+The husband had then returned from the house in the house of Nattandiya Dunkannawa area.
+
+The doctor was unfortunately at the bus to work at the Chilaw General Hospital.
+
+...
+
+[Data](articles/e878a17c.json)
+
+[Extended Data](ext_articles/e878a17c.ext.json)
+
+---
+
+### SLA Bridge opens Kohuwala
+
+*2024-07-17 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198912) · `si`
+
+Kohuwala flyover opened today, funded by a Hungarian government loan. Minister Dr. Bandula Gunawardena mentioned project restarts due to debt restructuring.
+
+🟩
+
+The opening of Kohuwala flyover was constructed at the Hungarian government loan assistance was held this morning.
+
+Minister of Transport and Highways Dr. Bandula Gunawardena said that the development projects were resumed as a result of debt restructuring.
+
+◼️
+
+[Data](articles/6c04c961.json)
+
+[Extended Data](ext_articles/6c04c961.ext.json)
+
+---
+
+### Sri Lanka non-financial SOEs make Rs282bn in profits in 2023 amid monetary stability
+
+*2024-07-17 14:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-non-financial-soes-make-rs282bn-in-profits-in-2023-amid-monetary-stability-172541/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s non-financial public sector enter which lost 910 billion rupees in 2022, as macro-economists printed money to boost growth and bungled a float with a surrender rule has made profits of 282 billion rupees in 2023, official data shows.
+
+In 2022 the same state owned enterprises made 910 billion rupees of losses.
+
+A major turnaround was seen in Ceylon Petroleum Corporation which lost 617 billion rupees in 2022 as the currency collapsed and the country was hit by forex shortages as the central bank printed money.
+
+The CPC losses partly came from loans it was forced to take when the central bank made rate cuts with printed money for flexible inflation targeting and potential output targeting, and officials made the petroleum utility take suppliers credits, in prior years critics have said.
+
+The suppliers credit were then turned into state bank loans as the currency collapsed, endangering the banks.
+
+...
+
+[Data](articles/54e5cb24.json)
+
+[Extended Data](ext_articles/54e5cb24.ext.json)
 
 ---

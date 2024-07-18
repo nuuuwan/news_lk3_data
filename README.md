@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 18:54:50**
+As of **2024-07-18 19:05:19**
 
 ## Newspaper Stats
 
-*Scraped **35,967** Articles*
+*Scraped **35,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,040
 economynextcom | 2,151
 dailyftlk | 2,281
 adalk | 3,250
-adaderanalk | 4,149
+adaderanalk | 4,151
 tamilmirrorlk | 4,362
 dailymirrorlk | 4,733
 virakesarilk | 5,612
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,965 (100.0%) of 35,967 articles have been extended.
+35,967 (100.0%) of 35,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### Justice Minister withholds gazetting of 22nd Amendment
+
+*2024-07-18 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100607/justice-minister-withholds-gazetting-of-22nd-amendment) · `en`
+
+Minister of Justice Wijeyadasa Rajapakshe has instructed his ministry’s secretary not to publish the Gazette notification on the 22nd Amendment to the Constitution until the Presidential Election is held.
+
+However, the Justice Minister has claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
+
+◼️
+
+[Data](articles/767a621c.json)
+
+---
+
+### Suspect arrested for defrauding money promising jobs in UK
+
+*2024-07-18 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100606/suspect-arrested-for-defrauding-money-promising-jobs-in-uk) · `en`
+
+A person has been arrested today (18) by the Special Investigation Unit of the Sri Lanka Bureau of Foreign Employment (SLBFE) in connection with a foreign employment scam after he allegedly cheated people by promising employment opportunities in the United Kingdom (UK).
+
+The investigations have revealed that the institution that was operating in the Colombo 02 area was an unlicensed foreign employment agency, without the necessary authorisation from the SLBFE and the owner of the institution, identified as ‘Samanture Jinna’, had fraudulently obtained Rs. 4 million per person by promising teaching assistant and restaurant jobs in the UK.
+
+Accordingly, the suspect was arrested in the Dehiwala area by the Special Investigations Unit of the SLBFE, following a complaint claiming that the person in question had swindled money from them under the pretence of providing foreign employment opportunities.
+
+...
+
+[Data](articles/f2ab47c4.json)
+
+---
 
 ### Sri Lanka announces Rs13mn financial aid package to boost MSMEs
 
@@ -52,19 +82,25 @@ For MSMEs under the non-performing loans category, a working capital loan of up 
 
 ---
 
-### අන්තිම අවස්ථාව වෙන කොට ක්ලබ් වසන්ත අතේ නැතිව රට වටේට ණය වෙලා
+### At the last time Club has debt round the country without hand
 
 *2024-07-18 18:14:26* · [`adalk`](https://www.ada.lk/breaking_news/අන්තිම-අවස්ථාව-වෙන-කොට-ක්ලබ්-වසන්ත-අතේ-නැතිව-රට-වටේට-ණය-වෙලා/11-410855) · `si`
 
-තුවක්කුකරුවන් විසින් ඝාතනය ලක් කළ කල්බ් වසන්ත නොහොත් සුරේන්ද්‍ර වසන්ත පෙරේරා අවසන් අවස්ථාවන විට මුදල් නොමැතිව රට වටේට ණය වී සිටි පුද්ගලයෙක් බවට පත්ව සිටි බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවැසීය.
+Kirb Wasantha, also known as Surestra Wasantha Perera, is under investigation for allegedly taking loans across the country without having sufficient funds. This revelation came from a media inquiry during a briefing in Colombo, where it was mentioned that despite claims of financial stability, there were indications of extensive borrowing.
 
-කොළඹදී පැවැති මාධ්‍ය හමුවකදී මාධ්‍ය වේදියෙකු නැගූ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+🟩
 
-"මම නම් දන්න තරමින් එයා ක්ලබ්ස් කළා. එයාට සල්ලි තිබුණා. අපට දැන් තියෙන තොරතුරු අනුව මෙයා මැරෙන වෙලාවේ රට වටේ ණය වෙලා අතේ සතේ නැතිව හිටපු පුද්ගලයෙක් කියලා තමයි අපේ විමර්ශන වලින් එළියට ඇවිත් තියේනේ"
+Kirb Wasantha alias, Surestra Wasantha Perera has become a loan around the country without money.
+
+He was responding to a question raised by a media investigation at a media briefing in Colombo.
+
+"As far as I know, he did Clubs. He had money. According to the information we have, we are out of the investigation that he is a person who has been a loan around the country when he dies.
 
 ◼️
 
 [Data](articles/12c02d04.json)
+
+[Extended Data](ext_articles/12c02d04.ext.json)
 
 ---
 
@@ -1506,25 +1542,35 @@ Meanwhile, taking to ‘X’, Romanian PM Ciolacu stated that he welcome the dec
 
 ---
 
-### කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවලියේ වටිනාම ක්‍රීඩකයා වූ මෙරෝන් විජේසිංහ කවුද ?
+### Who is Meron Wijesinghe, the most precious player of the Junior Athletics Championship?
 
 *2024-07-18 12:21:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw4yvg27r0po) · `si`
 
-කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවලියේ වටිනාම ක්‍රීඩකයා වූ මෙරෝන් විජේසිංහ කවුද ?
+Meron Wijesinghe, a standout athlete from Ananda College, Colombo, won the gold medal in the 100m event at the 2024 National Junior Athletics Championship, qualifying 11 Sri Lankan athletes for the World Junior Athletics Championships. Born on July 10, 2005, he initially attended Wattala Lyceum International School before moving to Ananda College. His mother, Gayani Rajapakse, highlighted his passion for sports from a young age, supported by coaches Sunil and Bhadra Gunawardena. Meron set records in various events and competed internationally, including the South Asian Tournament in South Korea and Dubai, where he achieved personal bests and contributed to team successes.
 
-පසුගියදා අවසන් වූ 2024 ජාතික කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවයේ දී නව වාර්තා 36ක් පිහිටුවීමට කනිෂ්ඨ ක්‍රීඩක ක්‍රීඩිකාවන් සමත් විය.
+🟩
 
-තරගාවලියේ දක්ෂතාම ක්‍රීඩකයා වශයෙන් සම්මාන ලැබුවේ කොළඹ ආනන්ද විදුහලේ මෙරෝන් විජේසිංහ ය.
+Who is Meron Wijesinghe, the most precious player of the Junior Athletics Championship?
 
-මීටර් 100 තරග ඉසව්ව තත්ත්පර 10.38ක කාලයකින් අවසන් කරමින් රන් පදක්කම දිනා ගැනීමට මෙරෝන් විජේසිංහ සමත් විය.
+The 2024 National Junior Athletics Championship was established at the 2024 National Junior Athletics Championships.
 
-මෙම මලල ක්‍රීඩා තරගාවලියත් සමග ලබන අගෝස්තු මාසයේ දී පේරු රාජ්‍යයේ පැවැත්වීමට නියමිත ලෝක කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවය සඳහා මේ වන විට ශ්‍රී ලාංකික ක්‍රීඩක ක්‍රීඩිකාවන් 11 දෙනෙකු සුදුසුකම් ලැබීමට සමත්ව ඇති අතර එය මෙතෙක් ලෝක කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවයක් සඳහා මෙරටින් සුදුසුකම් ලැබූ ඉහළම ක්‍රීඩක සංඛ්‍යාව වේ.
+Meron Wijesinghe, Ananda College, Colombo was awarded the player.
 
-2005 වසරේ ජූලි මස 10 වැනිදා උපත ලබා අති මෙරෝන් විජේසිංහ පළමුව වත්තල ලයිසියම් ජාත්‍යන්තර පාසලෙන් අධ්‍යාපනය ලබා ඇති අතර මේ වන විට කොළඹ ආනන්ද විදුහලේ උසස් පෙළ වාණිජ අංශයෙන් අධ්‍යාපනය හදාරමින් සිටින වයස අවුරුදු 19ක සිසුවෙකු වේ.
+Meron Wijesinghe was able to win the gold medal by completing the 100m tournament periodically.
+
+With this Athletics Championship, 11 Sri Lankan athletes have been eligible for the World Junior Athletics Championships, which is currently eligible for World Junior Athletics Championships.
+
+Born on July 10, 2005, was first educated in Wattala Lyceum International School, and is currently a 19 year old student.
+
+He has two younger sisters and the Meloon is a child who is a child who is smaller to the game, he told BBC.
+
+Meron Wijesinghe's mother, Gayani Rajapakse, told the Sinhalese, that his son looked to sports, and his son had to work to work.
 
 ...
 
 [Data](articles/317aeedc.json)
+
+[Extended Data](ext_articles/317aeedc.ext.json)
 
 ---
 
@@ -2279,55 +2325,5 @@ The 81 -year -old Bitan, the NAACP in Las Vegas. At attending the National Confe
 [Data](articles/879a3a6c.json)
 
 [Extended Data](ext_articles/879a3a6c.ext.json)
-
----
-
-### New system to deliver the first passport this week
-
-*2024-07-18 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188734) · `ta`
-
-A new passport issuance system launches this Friday (19), allowing pre-registration via www.immigration.gov.lk. The Department of Immigration and Emigration aims to streamline the process for applicants, issuing passports based on priority post-registration.
-
-🟩
-
-The new system of passports will be launched from Friday (19).
-
-The Department of Immigration and Emigration has introduced a new method for issuing passports for the benefit of applicants and renovating the process.
-
-Accordingly, applicants must register in advance through the website www.immigration.gov.lk to apply for new passports.
-
-The Department of Immigration and Emigration said that passports will be issued according to the priority system after registering online.
-
-It is noteworthy that the new system of giving this passport will be launched from Friday (19).
-
-◼️
-
-[Data](articles/549421cd.json)
-
-[Extended Data](ext_articles/549421cd.ext.json)
-
----
-
-### Fire in a 14 -storey building in China;16 killed
-
-*2024-07-18 09:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-14-மாடி-கட்டிடத்தில்-தீ-16-பேர்-பலி/50-340595) · `ta`
-
-A devastating fire in a crowded 14-storey building in China's Shikhang area resulted in 16 fatalities. The blaze, which started overnight, required the efforts of 300 firefighters to control. Rescue operations are ongoing despite the tragedy.
-
-🟩
-
-At least 16 people were killed in a fire in a 14 -storey building in China.
-
-There is a 14 -storey trade center in China's Shikhang area. The building is always overflowing.
-
-In this case, the fire broke out from a floor last night and the fire broke out with a cane.
-
-As a result, 300 firefighters were involved in the rescue operation as people were scattered all over the country. At least 16 people were killed in the incident. Also, rescue work is going on swiftly. S
-
-◼️
-
-[Data](articles/07aadfe8.json)
-
-[Extended Data](ext_articles/07aadfe8.ext.json)
 
 ---

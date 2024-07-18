@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 02:20:36**
+As of **2024-07-19 02:35:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,999 (100.0%) of 36,000 articles have been extended.
+36,000 (100.0%) of 36,000 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,21 +60,31 @@ Following a clash between students and police last Tuesday, universities have be
 
 ---
 
-### ’குழந்தைகள் முன்னிலையில் புகைப்பிடிக்காதீர்’
+### Do not smoke in the presence of children
 
 *2024-07-18 23:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகள்-முன்னிலையில்-புகைப்பிடிக்காதீர்/175-340663) · `ta`
 
-குழந்தைகள் முன்னிலையில் புகைபிடிப்பதைத் தவிர்க்குமாறு பெற்றோரை வலியுறுத்தும் கடுமையான ஆலோசனையை மருத்துவ நிபுணர்கள் வழங்கியுள்ளனர். குழந்தை நோயாளிகளிடையே மூச்சுத்திணறல்  குறிப்பிடத்தக்க அதிகரித்துள்ளது என்பதை மேற்கோள் காட்டி இந்த ஆலோசனை வழங்கப்பட்டுள்ளது.
+Avoid smoking around children to prevent respiratory issues like shortness of breath and wheezing, says Dr. Deepal Perera. Secondary smoke worsens symptoms and increases respiratory problem risks. Use inhalers as advised by healthcare providers to manage these issues.
 
-இன்ஃப்ளூயன்ஸா போன்ற நோய்களை நினைவூட்டும் வைரஸ் தொற்றுகளை தொடர்ந்து இந்த அதிகரிப்பு ஏற்படுகிறது என லேடி ரிட்ஜ்வே மருத்துவமனையின் குழந்தை நல ஆலோசகர் டாக்டர்.தீபால் பெரேரா தெரிவித்துள்ளார்.
+🟩
 
-"சிறுவர்களில் மூச்சுத்திணறல் ஏற்படுவதை நாங்கள் அவதானித்துள்ளோம், இது பெரும்பாலும் புகைப்பிடிப்பதால் தூண்டப்படுகிறது அல்லது அதிகரிக்கிறது" என்று டாக்டர் பெரேரா   கூறினார்.
+Medical experts have provided strict advice to urge parents to avoid smoking in the presence of children. This suggestion is cited by citing a significant increase in shortness of breath among child patients.
 
-"மூச்சுத்திணறல், மூச்சுத்திணறலின் போது உச்சகட்ட விசில் ஒலியாக வெளிப்படுகிறது, மேலும் சுவாசப் பாதை சுருங்குவதைக் குறிக்கலாம், இது சுவாசிப்பதில் சிரமத்திற்கு வழிவகுக்கும்" என்று அவர் விளக்கினார்.
+Dr. Deepal Perera, Child Welfare Adviser to Lady Ridgeway Hospital, said the increase is followed by viral infections that are reminiscent of diseases such as influenza.
+
+"We have observed breathing in children, which often trigge or increase smoking," said Dr Perera.
+
+"Breathlessness is exposed to the peak whistle sound during breathing, and the respiratory tract can be represented, which can lead to difficulty in breathing," he explained.
+
+Speaking of harmful effects of smoking in children's respiratory health, Dr. Perera stressed that "the exposure of secondary smoke not only worsens the symptoms of wheezing, but also increases the risk of repeated respiratory problems."
+
+He emphasized the importance of creating an environment where children have no smoke to reduce shortness of breath.
 
 ...
 
 [Data](articles/beb93eb9.json)
+
+[Extended Data](ext_articles/beb93eb9.ext.json)
 
 ---
 

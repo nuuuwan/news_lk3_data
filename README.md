@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 19:20:17**
+As of **2024-07-18 19:35:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,969 (100.0%) of 35,971 articles have been extended.
+35,971 (100.0%) of 35,971 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,31 +48,43 @@ However, the Justice Minister has claimed that this decision was made in order t
 
 ---
 
-### ජනාධිපතිවරණයට අදාළව හදිසි තීරණයක්
+### A sudden decision pertaining to the presidential election
 
 *2024-07-18 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198960) · `si`
 
-ජනාධිපතිවරණය පවත්වා අවසන් වන තෙක් දැනට කැබිනට් අනුමැතිය හිමිවී ඇති 22වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ගැසට් කිරීමෙන් වළකින ලෙස අධිකරණ අමාත්‍ය, ආචාර්ය විජයදාස රාජපක්ෂ මහතා අධිකරණ අමාත්‍යාංශයේ ලේකම්වරයාට උපදෙස් ලබාදී තිබේ.
+Justice Minister Dr. Wijayadasa Rajapakse has ordered a halt to the 22nd constitutional amendment process until after the presidential election, aiming to clear uncertainties surrounding it.
 
-ඒ, ජනාධිපතිවරණය පැවැත්වීම සම්බන්ධයෙන් පවතින අවිනිශ්චිතතාව තුරන් කිරීමේ අරමුණින් බව අමාත්‍ය විජයදාස රාජපක්ෂ මහතා සඳහන් කරයි.
+🟩
+
+Minister of Justice, Dr. Wijayadasa Rajapakse has instructed the Secretary to the Ministry of Justice to prevent the 22nd constitutional amendment to the Cabinet until the presidential election was taken up.
+
+Minister Wijayadasa Rajapakse said that he is to eradicate uncertainty in the presidential election.
 
 ◼️
 
 [Data](articles/7c0e1606.json)
 
+[Extended Data](ext_articles/7c0e1606.ext.json)
+
 ---
 
-### ගාලු කණ්ඩායම අවසන් මහ තරගයට
+### Galle team to contest
 
 *2024-07-18 18:37:33* · [`adalk`](https://www.ada.lk/sports/ගාලු-කණ්ඩායම-අවසන්-මහ-තරගයට/9-410857) · `si`
 
-ලංකා ප්‍රිමියර් ලීග ක්‍රිකට් තරගාවලියේ අවසන් මහ තරගයට සුදුසුකම් ලබා ගැනීමට ගාලු කණ්ඩායම සමත්විය ඒ යාපනය කණ්ඩායම කඩුලු 7කින් පරාජය කරමිනි.
+In the Lanka Premier League Cricket finals, the Galle team triumphed over the Jaffna team by 7 wickets. After Jaffna scored 177/7, Galle replied with 181/3 in 18.1 overs, securing their victory.
 
-මුලින්ම පන්දුවට පහරදුන් යාපනය කණ්ඩායම 177/7ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රීඩා කළ ගාල්ල කණ්ඩායම පන්දුවාර 18.1කදී ලකුණු 181/3 රැස්කරමින් තරගය ජයග්‍රහණය කළේය.
+🟩
+
+The Galle team was able to qualify for the final of the Lanka Premier League Cricket and defeated the Jaffna team by 7 wickets.
+
+Batting first 177/7 of the Jaffna team scored 177/7 and in reply, gathering 181/3 in 18.1 overs.
 
 ◼️
 
 [Data](articles/133b9123.json)
+
+[Extended Data](ext_articles/133b9123.ext.json)
 
 ---
 

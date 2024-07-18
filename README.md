@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 22:35:39**
+As of **2024-07-18 22:53:40**
 
 ## Newspaper Stats
 
-*Scraped **35,991** Articles*
+*Scraped **35,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,52 @@ adalk | 3,256
 adaderanalk | 4,153
 tamilmirrorlk | 4,368
 dailymirrorlk | 4,733
-virakesarilk | 5,613
-adaderanasinhalalk | 6,024
+virakesarilk | 5,615
+adaderanasinhalalk | 6,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,988 (100.0%) of 35,991 articles have been extended.
+35,991 (100.0%) of 35,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### வாகன இறக்குமதி? நிதி இராஜாங்க அமைச்சர்
+### ක්ලබ් වසන්තගේ ඇත්තම තත්ත්වය ?
+
+*2024-07-18 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198967) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතන සිද්ධියේ විමර්ශන ගැන මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා අද (18) අනාවරණයක් කළේය.
+
+"අපිට දැන් තිබෙන තොරතුරු අනුව මෙයා මැරෙන වෙලාවේ රට වටේ ණය වෙලා අතේ සතේ නැතුව හිටපු පුද්ගලයෙක්. එහෙම තොරතුරු තමයි අපේ විමර්ශනවලින් එළියට ඇවිත් තියෙන්නේ."
+
+"කංජිපානි ඉම්රාන් සහ ගනේමුල්ලේ සංජීව පැන්න විදිය නීතිඥවරුන්ට තමයි හොඳටම කියන්න පුළුවන්. මොකද ඒ නීතිඥවරුන් තමයි ඒගොල්ලන්ව පැන්නුවේ. උසාවියෙන්ම අරන් ගිහින් පැන්නුවේ. අපි දැන් ඒ අයව අත්අඩංගුවට ගත්තාම ඒ කතාව හොඳට කියනවා. අරන් ගිහින් බෝට්ටුවට දැම්මා.... ඔක්කොම ලස්සනට කියනවා. ඒකයි මම කියන්නේ කුඩු සල්ලිවලින් යැපෙන නීතිඥවරුන් සෙට් එකක් ඉන්නවා."
+
+◼️
+
+[Data](articles/17eaf75d.json)
+
+---
+
+### Vehicle imports?Minister of Finance
 
 *2024-07-18 22:02:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-நிதி-இராஜாங்க-அமைச்சர்/175-340654) · `ta`
 
-வாகனங்களை எவ்வாறு இறக்குமதி செய்வது என்பது குறித்து எதிர்வரும் ஆகஸ்ட் மாதம் அறிவிக்க முடியும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya announced plans to import more electric vehicles, with details to be released in August. A committee's report, due in the second week of August, will guide the process.
 
-அதிக மின்சார வாகனங்களை கொண்டு வருவதில் நாங்கள் கவனம் செலுத்தி வருகிறோம். வாகனங்களை இறக்குமதி செய்வது எப்படி என்பதை அறிவிக்க நாங்கள் தயாராக உள்ளோம். இது தொடர்பான குழு அறிக்கை ஆகஸ்ட் இரண்டாவது வாரத்தில் அமைச்சரவையில் சமர்ப்பிக்கப்படும் என்றார். R
+🟩
+
+Finance Minister Ranjith Siyambalapitiya said that the upcoming August will be announced on how to import vehicles.
+
+We are focusing on bringing more electric vehicles. We are ready to notify how to import vehicles. The Committee's report will be submitted to the cabinet in the second week of August. Remble
 
 ◼️
 
 [Data](articles/27241704.json)
+
+[Extended Data](ext_articles/27241704.ext.json)
 
 ---
 
@@ -57,6 +79,8 @@ Accordingly, the court will announce on July 24 whether or not to grant leave to
 ◼️
 
 [Data](articles/a0cc3a7a.json)
+
+[Extended Data](ext_articles/a0cc3a7a.ext.json)
 
 ---
 
@@ -168,6 +192,22 @@ The Indian squads have been named for Sri Lanka and the T20 cricket tournament.
 
 ---
 
+### இந்தியாவின் பாதுகாப்பு அக்கறைகளுக்குப் புறம்பாக எமது மண்ணை மூன்றாம் தரப்பு பயன்படுத்த இடமளியோம் - வெளிவிவகார அமைச்சர் அலி சப்ரி உறுதி
+
+*2024-07-18 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/188798) · `ta`
+
+எமது நிலப்பரப்பையோ அல்லது கடற்பரப்பையோ இந்தியாவின் நியாயபூர்வமான பாதுகாப்பு அக்கறைகளுக்கு எதிரான விதத்தில் மூன்றாம் தரப்பொன்று பயன்படுத்துவதற்கு நாம் ஒருபோதும் இடமளிக்கமாட்டோம் என வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+
+சீனாவுக்கு சொந்தமான ஆய்வுக்கப்பல்கள் இலங்கைக் கடற்பரப்பில் தரித்துநின்று ஆய்வு நடவடிக்கைகளை முன்னெடுப்பதற்கு அனுமதி கோருவதும், அதனை அனுமதிப்பது இந்தியாவின் பாதுகாப்பு நலன்களுக்குப் பாதிப்பை ஏற்படுத்தக்கூடுமென இந்தியாவுக்குச் சார்பான தரப்புக்கள் மறுதலிப்பதுமான சம்பவங்கள் கடந்த ஓரிரு ஆண்டுகளில் சில தடவைகள் பதிவாகியிருக்கின்றன.
+
+இவ்வாறானதொரு பின்னணியில் சர்வதேச ஊடகமொன்றுக்கு வழங்கியிருக்கும் நேர்காணலில் இதுகுறித்து எழுப்பப்பட்ட கேள்விக்குப் பதிலளித்திருக்கும் அமைச்சர் அலி சப்ரி, இந்தியாவின் நியாயமான பாதுகாப்பு அக்கறைகளுக்குப் புறம்பான விதத்தில் இலங்கை மண்ணிலோ அல்லது கடற்பரப்பிலோ மூன்றாம் தரப்பொன்று செயற்படுவதற்கு ஒருபோதும் இடமளிக்கப்போவதில்லை என உறுதியாகத் தெரிவித்திருக்கிறார்.
+
+...
+
+[Data](articles/857cbdff.json)
+
+---
+
 ### The mystery of the flipped vessel of the Arabian Sea
 
 *2024-07-18 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198963) · `si`
@@ -225,6 +265,20 @@ The girl's body has been handed over to relatives and further investigations int
 [Data](articles/0df1c876.json)
 
 [Extended Data](ext_articles/0df1c876.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் : நிச்சயமற்ற தன்மையை நீக்கும் நோக்கில் நடவடிக்கை
+
+*2024-07-18 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188797) · `ta`
+
+அமைச்சரவையின் அங்கீகாரம் பெற்ற 22 வது அரசியலமைப்பு திருத்தத்தை ஜனாதிபதி தேர்தல் முடியும் வரை வர்த்தமானியில் வெளியிடுவதை தவிர்க்குமாறு நீதி அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஷ, நீதி அமைச்சின் செயலாளருக்கு பணிப்புரை விடுத்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலை நடத்துவது தொடர்பில் நிலவும் நிச்சயமற்ற தன்மையை நீக்கும் நோக்கில் இவ்வாறான நடவடிக்கையை மேற்கொண்டுள்ளதாக அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6ca721f5.json)
 
 ---
 
@@ -338,17 +392,25 @@ He added that everyone except two people have been arrested in connection with t
 
 ---
 
-### ඔන්මැක්ස් ඩී.ටී. අධ්‍යක් ධනංජයගේ රු. කෝටි දෙකක ඉඩමක් තහනම් කරයි
+### Onamax DT. Director of the Buddhajaya. Banned a land of two crores
 
 *2024-07-18 19:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්මැක්ස්-ඩී-ටී--අධ්‍යක්-ධනංජයගේ-රු--කෝටි-දෙකක-ඉඩමක්-තහනම්-කරයි/11-410859) · `si`
 
-නීති විරෝධී පිරමීඩාකාර ගනදෙණු කරමින් රුපියල් කෝටි ගණනක ජනතා මුදල් වංචා කළේ යැයි කියන ”ඔන්මැක්ස් ඩී.ටී.” ආයතනයේ අධ්‍යක්ෂක ධනංජය ජයාන් නමැත්තාට අයත් රුපියල් කෝටි දෙකකට අධික වටිනාකමින් යුත් අත්තනගල්ලේ පිහිටි අක්කර දෙකහමාරක ඉඩමක් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (18) තහනම් කළේය.
+Onamax DT, director of the Buddhajaya Institute, banned two and a half acres of land in Attanagalla valued at over Rs. 2 crore due to concerns about illegal activities and fraud involving pyramid schemes and misuse of funds. The magistrate reported this action to the court, aiming to transfer all institute properties to the court to resolve legal issues.
 
-පිරමීඩාකාර ගනදෙණු කරමින් රුපියල් කෝටි ගණනක ජනතා මුදල් වංචා කළැයි කියන ”ඔන්මැක්ස් ඩී.ටී.” ආයතනයේ අධ්‍යක්ෂකවරුන්ගේ සියලු දේපළ වහාම අත්පත් කරගෙන අධිකරණයට ඉදිරිපත් කිරීමට මීට පෙර දින ප්‍රධාන මහේස්ත්‍රාත්වරයා කළ නියෝගයකට අනුව රහස් පොලීසිය තෙතාරතුරු අනාවරණය කරගෙන අධිකරණයට වාර්තා කළ අත්තනගල්ලේ ඉඩම මෙලෙස තහනම් කළ මහේස්ත්‍රාත්වරයා ඒ පිළිබඳ අත්තනගල්ල ඉඩම් රෙජිස්ට්‍රාර්වරයාට දැනුම් දීමටද නියම කළේය.
+🟩
 
-...
+"OnamxThe Director of the Institute Dananjaya banned two and a half acres of land in Attanagalla worth Rs. 2 a half acres of land worth over Rs.
+
+"Onamx DT"The Magistrate for banned the Attanagalla land reported to the court on the previous day to conquer all the property of the Institute to the court on the previous day to conclude the information in the courts.
+
+Taking care of illegal pyramidara and fraudulent money from the money obtained by the people. "After considering the materials of the Institute, the company has purchased property and hinds of the money and hung the money.
+
+◼️
 
 [Data](articles/511718df.json)
+
+[Extended Data](ext_articles/511718df.ext.json)
 
 ---
 
@@ -2253,67 +2315,5 @@ On March 28, 2024, the Colombo High Court sentenced Gnanasara Thero to four year
 [Data](articles/1afa72be.json)
 
 [Extended Data](ext_articles/1afa72be.ext.json)
-
----
-
-### Gnanasara Thero granted bail after appealing defamation sentence
-
-*2024-07-18 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100594/gnanasara-thero-granted-bail-after-defamation-sentence) · `en`
-
-The Court of Appeal has granted bail for Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero, who had been sentenced to four years of rigorous imprisonment for making defamatory comments on Islam at Kuragala, until the hearing of the revision petition filed by him.
-
-This order was issued when the revision petition filed by Ven. Galagodaaththe Gnanasara Thero was taken up for consideration this morning (18).
-
-On March 28, 2024, the Colombo High Court sentenced Gnanasara Thero to four years of rigorous imprisonment while imposing a fine of Rs. 100,000, over the defamatory comments made against Islam during a 2016 media briefing convened on the Kuragala Buddhist monastery, causing damage to national and religious harmony.
-
-...
-
-[Data](articles/424d052f.json)
-
-[Extended Data](ext_articles/424d052f.ext.json)
-
----
-
-### "No amendments: hold elections"
-
-*2024-07-18 11:28:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தங்கள்-வேண்டாம்-தேர்தலை-நடத்து/175-340609) · `ta`
-
-Patali Champika Ranawaka, UNP leader, emphasizes the need for elections over constitutional amendments, citing economic issues delayed until 2028 and impending government loans post-2028, during a pamphlet distribution event in Gampaha.
-
-🟩
-
-Patali Champika Ranawaka, the leader of the UNP and Member of Parliament, said that the country is needed at this moment, not constitutional amendments.
-
-Ranawaka said the country's economic issue had been postponed until 2028 and that the government needs to pay a loan after 2028.
-
-Sampika Ranawaka said this while participating in a pamphlet distribution ceremony in Gampaha, which was a summary of the procedure program.
-
-◼️
-
-[Data](articles/b3820dbf.json)
-
-[Extended Data](ext_articles/b3820dbf.ext.json)
-
----
-
-### Sri Lanka minister, banks discuss loans for estate community
-
-*2024-07-18 11:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-banks-discuss-loans-for-estate-community-172716/) · `en`
-
-ECONOMYNEXT – Two of Sri Lanka’s banks have agreed to provide housing loans for the estate community to build houses once they are given land ownership, Minister of Estate Infrastructure Jeevan Thondaman, said.
-
-“…They are to utilize this land as collateral not just for housing but for their children’s education and so many others,” Thondaman told reporters this week.
-
-“We have spoken to two priority banks in the country and they have agreed that once land rights are given, they will be eligible for a housing loan which will be at a subsidized rate for the estate dwellers.”
-
-Earlier this year, Thondaman said that only 8 percent of families in the plantation sector own homes compared with the national average of 86 percent.
-
-However, Thondaman said that in order for those living on estates to have houses, their livelihoods should increase, as costs of electricity and water also come with home ownership.
-
-...
-
-[Data](articles/1035a861.json)
-
-[Extended Data](ext_articles/1035a861.ext.json)
 
 ---

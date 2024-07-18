@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 16:35:40**
+As of **2024-07-18 16:53:07**
 
 ## Newspaper Stats
 
-*Scraped **35,940** Articles*
+*Scraped **35,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,133 @@ islandlk | 2,040
 economynextcom | 2,146
 dailyftlk | 2,281
 adalk | 3,246
-adaderanalk | 4,145
+adaderanalk | 4,146
 tamilmirrorlk | 4,359
 dailymirrorlk | 4,733
 virakesarilk | 5,607
-adaderanasinhalalk | 6,012
+adaderanasinhalalk | 6,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,936 (100.0%) of 35,940 articles have been extended.
+35,940 (100.0%) of 35,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### டெட்டுவிடம் வாக்குமூலம் : அதிகாரிகளுக்கு தண்டனை வழங்கப்படாது
+### Sri Lanka plans legislation to designate areas occupied by plantation workers as new settlement villages
+
+*2024-07-18 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100601/sri-lanka-plans-legislation-to-designate-areas-occupied-by-plantation-workers-as-new-settlement-villages) · `en`
+
+The Cabinet has approved the proposal presented by President Ranil Wickremesinghe to identify areas occupied by Plantation Workers on state-owned plantation lands managed by the State Plantation Corporation and regional plantation companies and to draft legislation to formally designate these areas as new settlement villages.
+
+A special discussion in this regard was also held at the Presidential Secretariat, yesterday (17) under the patronage of President Ranil Wickremesinghe.
+
+In a significant development, all parties have expressed agreement on the timely proposal to enact legislation declaring areas where Plantation Workers dwell within state-managed plantations, overseen by the State Plantation Corporation and regional companies, as new villages.
+
+Parliamentarian Mano Ganesan emphasized the crucial need to secure land rights for current plantation dwellers under this initiative, submitting a corresponding proposal to the President.
+
+...
+
+[Data](articles/948bb27e.json)
+
+---
+
+### පියුමා රිමාන්ඩ්
+
+*2024-07-18 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198954) · `si`
+
+සංවිධානාත්මක අපරාධකරුවෙකු බව පැවසෙන "පියුමා" නමැත්තා එළඹෙන 31 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට අද (18) නියෝග කෙරුණි.
+
+ඒ,  රැඳවුම් භාරයේ සිටි සැකකරුව අද කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව.
+
+පාතාල කල්ලි සාමාජිකයෙක් ලෙස සැකකෙරෙන "පියුමා" ඩුබායි හීදී අත්අඩංගුවට ගෙන පසුගිය පෙබරවාරි මස 15 වනදා මෙරටට රැගෙන ආවේය.
+
+පියුම් හස්තික නොහොත් පියුමා කුඩු සලිඳු නමැති මත්ද්‍රව්‍ය ජාවාරම්කරුගේ ප්‍රධාන ගෝලයා බවට සැලකෙයි.
+
+ඔහු 2021 වර්ෂයේ පෙබරවාරි 09 වනදා ඩුබායි රාජ්‍යය වෙත පළාගොස් ඇති බවද අනාවරණ වී තිබුණි.
+
+◼️
+
+[Data](articles/42d715e7.json)
+
+---
+
+### Confession to Tettu: Authorities will not be punished
 
 *2024-07-18 16:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெட்டுவிடம்-வாக்குமூலம்-அதிகாரிகளுக்கு-தண்டனை-வழங்கப்படாது/175-340631) · `ta`
 
-அத்துருகிரியவில் சுட்டு படுகொலைச் செய்யப்பட்ட ‘கிளப் வசந்த’ என்றழைக்கப்படும் வர்த்தகர் சுரேந்திர வசந்த பெரேராவின் படுகொலை தொடர்பில் கைது செய்யப்பட்ட பச்சை குத்தும் நிலையத்தின் உரிமையாளரிடம் ஊடங்களின் முன்னிலையில் வாக்குமூலம் பெற்றார் என குற்றஞ்சாட்டப்பட்டுள்ள பிரதி பொலிஸ்மா அதிபர் உள்ளிட்ட அதிகாரிகளுக்கு எதிராக எவ்விதமான ஒழுக்காற்று நடவடிக்கைகளோ அல்லது விசாரணைகளோ முன்னெடுக்கப்படமாட்டாது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்  தெரிவித்துள்ளார்.
+Dr. Ales, the Minister of Public Defense, announced that no disciplinary actions will be taken against authorities involved in the arrest of a media owner linked to the Deputy Inspector General of Police, despite accusations related to the assassination of businessman Surendra Vasantha Perera. He stated that only two individuals remain at large among those connected to the shooting incident, emphasizing that the authorities' actions were not coordinated with the Inspector General of Police. Despite a viral video showing a group led by the Deputy Inspector General, the minister assured that the situation is under control and that the authorities have acted appropriately.
 
-மேல் மாகாண பிரதி பொலிஸ்மா அதிபர் தலைமையிலான குழுவினர்  சந்தேகநபர் ஒருவரை விசாரணை செய்யும் வீடியோ வெளியாகியுள்ளது. இது தொடர்பில் பொலிஸ் உத்தியோகத்தர்களுக்கு  எதிராக நடவடிக்கை எடுக்கப்படுமா என்ற கேள்விக்கு பதிலளித்த அமைச்சர் டிரான் அலஸ்  “இந்த தவறை மீண்டும் செய்யவேண்டாம் என கடுமையாக தான் எச்சரித்துள்ளதாக தெரிவித்துள்ளார்.
+🟩
 
-அந்த பொலிஸ் உத்தியோகத்தர்களுக்கு எதிராக நடவடிக்கைகளை எடுக்குமாறு பொலிஸ்மா அதிபருக்கு தான்  பணிக்கவில்லை என்றார்.
+The Minister of Public Defense, Dr. Ales, said that no disciplinary action or inquiries will be carried out against the authorities, including the Deputy Inspector General of Police, accused of the Media owner of the tattoo, who was arrested in connection with the assassination of businessman Surendra Vasantha Perera, who was shot dead in Athurugiriya.
+
+Video of a group headed by a team led by the Deputy Inspector General of Police of the Western Province. Responding to a question whether action would be taken against the police officers in this regard, Minister Tran Ales said, “He has warned that he should not repeat this mistake.
+
+He said he did not work with the Inspector General of Police to take action against the police officers.
+
+He added that everyone except two people have been arrested in connection with the shooting incident.When the club was shot dead, he was lending all over the country. The minister said he had no money in his hand.
 
 ...
 
 [Data](articles/ea30ca1a.json)
 
+[Extended Data](ext_articles/ea30ca1a.ext.json)
+
 ---
 
-### கணித ஆசிரியரால் டியூஷன் தடை
+### Tuition ban by math teacher
 
 *2024-07-18 16:18:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆசிரியர்களுக்கு-டியூஷன்-தடை/175-340630) · `ta`
 
-வடமத்திய மாகாணத்தில் உள்ள பாடசாலைகளில் கடமையாற்றும் அதிபர்கள், ஆசிரியர் ஆலோசகர்கள் மற்றும் ஆசிரியர்கள், பிரத்தியேக வகுப்புகளில் பணியாற்றுவதை முற்றாக தடை செய்து வடமத்திய தலைமை அமைச்சின் செயலாளர் சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
+In the North Central Province, a ban has been issued by the Ministry of Education, prohibiting principals, teachers, and other staff from conducting private tuition during school hours or weekends. This decision comes after numerous complaints about educators prioritizing paid classes over their official duties, leading to student neglect. The circular emphasizes strict adherence to this rule, with severe consequences for non-compliance.
 
-வடமத்திய மாகாண கல்வி அமைச்சின் செயலாளர் சிறிமேவன் தர்மசேன, மாகாணக் கல்விப் பணிப்பாளர்கள், அனைத்து பிராந்தியப் பணிப்பாளர்கள், கோட்டக் கல்விப் பணிப்பாளர்கள், பாடசாலை அதிபர்கள் ஆகிய அனைவருக்கும் இதனைத் தெரிவித்துள்ளார்.
+🟩
 
-வடமத்திய மாகாணத்தில் உள்ள பாடசாலைகளில் கடமையாற்றும் சில அதிபர்கள், ஆசிரியர் ஆலோசகர்கள் மற்றும் ஆசிரியர்கள் தமது வகுப்புகள் மற்றும் பாடசாலைகளில் மாணவர்களிடம் பணம் வசூலித்து தனியார் பயிற்சி வகுப்புகள் மற்றும் கருத்தரங்குகளை பாடசாலை நேரத்தில் , பாடசாலை நேரம் முடிந்ததும் அல்லது வார இறுதி நாட்களில் நடத்துவதாக தொடர்ந்து முறைப்பாடுகள் வந்துள்ளன .
+The Secretary of the North Central Ministry has issued a circular in the North Central Province, which has completely banned the work of principals, teachers and teachers and teachers who work in schools in the North Central Province.
+
+Secretary to the Ministry of Education of the North Central Province, Siriman Dharmasena, Provincial Education Directors, All Regional Directors, Kota Education Directors and School Principals.
+
+There are constant complaints that some principals, teachers and teachers who work in schools in the North Central Province have been charging private training classes and seminars at school, school hours or weekends.
+
+It has been reported that some teachers and principals have not been able to do the work of teaching at the school and neglect students who have not gone to their personal classes and seminars.
 
 ...
 
 [Data](articles/e8e3875f.json)
 
+[Extended Data](ext_articles/e8e3875f.ext.json)
+
 ---
 
-### උපකාරක පන්තියකට සහභාගී වන බව පවසා නිවසින් ගිය දරුවන් අතුරුදන්
+### Children who went home to attend a tuition class
 
 *2024-07-18 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198953) · `si`
 
-උපකාරක පන්තියකට සහභාගී වන බව පවසා නිවසින් ගිය පාසල් සිසුවියන් තිදෙනෙකු සහ සිසුවෙකු අතුරුදන්වී තිබේ.
+Four children, including three cousins aged 14 and a 16-year-old student, disappeared while claiming to attend a tuition class but later returned home. Their parents filed a complaint with the Talawakele Police after noticing their disappearance and subsequent return.
 
-තලවකැලේ පොලිස් වසමට අයත් වතුයායක පදිංචි අවුරුදු 16ත් 14ත් අතර වයස්වල පසුවන මොවුන් ඉකුත් 14වනදා සිට අතුරුදන් වී ඇති බව වාර්තා වෙයි.
+🟩
 
-පාසල් නිමවී නිවසට එම දරුවන් සිව්දෙනා නැවතත් නිවසින් පිටව ගොස් ඇත්තේ බාහිර පන්තියකට සහභාගී වන බව නිවැසියන්ට පවසමිනි.
+Three schoolgirls and a student have disappeared, claiming to attend a tuition class.
 
-එසේ පිටව ගිය දරුවන් යළි නිවසට නොපැමිණීම නිසා එම දරුවන්ගේ දෙමව්පියන් විසින් තලවකැලේ පොලීසියට පැමිණිලි කර තිබේ.
+It is reported that the Talawakele Police Division residents have been reported from the 14ths of the estate sector.
 
-අතුරුදන් වී ඇති සිසුවියන් තිදෙනා සහ සිසුවා ඥාති සහෝදර සහෝදරියන් ය.
+The four children have left the house again to their schools and came to the house.
 
-මෙසේ අතුරුදන් වී ඇත්තේ 11වන ශ්‍රේණියේ අධ්‍යාපනය ලබන 16 හැවිරිදි සිසුවියන් තිදෙනෙකු සහ 09වන ශ්‍රේණියේ අධ්‍යාපනය ලබමින් සිටි 14 හැවිරිදි පාසල් සිසුවෙකි.
+Parents of the children have lodged a complaint with the Talawakele Police as the children who left the other returned home.
+
+The three disappeared students and the student are cousin.
+
+The disappeared is a 14 year old schoolgirl who is a 16-year-old student who is in Grade 11 and Grade II.
 
 ◼️
 
 [Data](articles/b55ce607.json)
+
+[Extended Data](ext_articles/b55ce607.ext.json)
 
 ---
 
@@ -101,6 +161,8 @@ Social media video posts showed clouds of thick black smoke coming out of window
 ...
 
 [Data](articles/67c482b3.json)
+
+[Extended Data](ext_articles/67c482b3.ext.json)
 
 ---
 
@@ -2241,49 +2303,5 @@ During the Court proceedings, Gamage’s attorneys requested permission to withd
 [Data](articles/3841b24c.json)
 
 [Extended Data](ext_articles/3841b24c.ext.json)
-
----
-
-### Four females arrested after brutal assault on child goes viral
-
-*2024-07-18 04:29:38* · [`dailyftlk`](https://www.ft.lk/news/Four-females-arrested-after-brutal-assault-on-child-goes-viral/56-764424) · `en`
-
-Aranayake Police arrested four women yesterday after a video showing them brutally assaulting a six-year-old boy went viral on social media platforms.
-
-Police said the four women included the boy’s mother, grandmother, aunt and great-aunt.
-
-In the video, two older women are seen beating and dragging a child inside a house. After closing the door, they continue the beatings inside. The child’s cries can be heard aloud as the person recording the video and other neighbours remain outside. The video had been recorded by a neighbour in the area.
-
-According to police spokesman DIG Nihal Thalduwa, the incident had taken place in Ehelagastenne, Aranayake. The police had arrested the four women within hours of the video being uploaded online, he confirmed.
-
-“The child had been beaten due to an act of disobedience,” he said. “The mother was observed watching the child being assaulted and she was arrested for aiding and abetting the abuse,” he added.
-
-...
-
-[Data](articles/ff18a56d.json)
-
-[Extended Data](ext_articles/ff18a56d.ext.json)
-
----
-
-### Cabinet nod to instruct Legal Draftsman to prepare CTUR in Sri Lanka Bill with amendments
-
-*2024-07-18 04:29:11* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-instruct-Legal-Draftsman-to-prepare-CTUR-in-Sri-Lanka-Bill-with-amendments/56-764423) · `en`
-
-Cabinet of Ministers on Monday approved preparing the Commission for Truth, Unity and Reconciliation (CTUR) in Sri Lanka Bill by incorporating the proposed amendments.
-
-It was approved to instruct the Legal Draftsman to prepare a Bill based on incorporating the said amendments to the preliminary draft and to cancel the gazette notification issued earlier.
-
-In December 2023, Cabinet approved publishing the Commission for Truth, Unity and Reconciliation in Sri Lanka Bill in the Government Gazette.
-
-However, due to the submission of further amendment proposals for the said Bill by various parties, no steps were taken to present the said Bill to the Parliament.
-
-The Interim Secretariat for Truth and Reconciliation Mechanism has conducted several consultation rounds and identified the amendments to be made to the relevant Bill.
-
-...
-
-[Data](articles/a8c65fbc.json)
-
-[Extended Data](ext_articles/a8c65fbc.ext.json)
 
 ---

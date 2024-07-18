@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 18:37:52**
+As of **2024-07-18 18:54:50**
 
 ## Newspaper Stats
 
-*Scraped **35,965** Articles*
+*Scraped **35,967** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 318
 colombotelegraphcom | 338
-bbccomsinhala | 352
+bbccomsinhala | 353
 newsfirstlk | 363
 islandlk | 2,040
 economynextcom | 2,151
 dailyftlk | 2,281
-adalk | 3,249
+adalk | 3,250
 adaderanalk | 4,149
 tamilmirrorlk | 4,362
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,961 (100.0%) of 35,965 articles have been extended.
+35,965 (100.0%) of 35,967 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ For MSMEs under the non-performing loans category, a working capital loan of up 
 ...
 
 [Data](articles/63849f46.json)
+
+[Extended Data](ext_articles/63849f46.ext.json)
+
+---
+
+### අන්තිම අවස්ථාව වෙන කොට ක්ලබ් වසන්ත අතේ නැතිව රට වටේට ණය වෙලා
+
+*2024-07-18 18:14:26* · [`adalk`](https://www.ada.lk/breaking_news/අන්තිම-අවස්ථාව-වෙන-කොට-ක්ලබ්-වසන්ත-අතේ-නැතිව-රට-වටේට-ණය-වෙලා/11-410855) · `si`
+
+තුවක්කුකරුවන් විසින් ඝාතනය ලක් කළ කල්බ් වසන්ත නොහොත් සුරේන්ද්‍ර වසන්ත පෙරේරා අවසන් අවස්ථාවන විට මුදල් නොමැතිව රට වටේට ණය වී සිටි පුද්ගලයෙක් බවට පත්ව සිටි බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවැසීය.
+
+කොළඹදී පැවැති මාධ්‍ය හමුවකදී මාධ්‍ය වේදියෙකු නැගූ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+
+"මම නම් දන්න තරමින් එයා ක්ලබ්ස් කළා. එයාට සල්ලි තිබුණා. අපට දැන් තියෙන තොරතුරු අනුව මෙයා මැරෙන වෙලාවේ රට වටේ ණය වෙලා අතේ සතේ නැතිව හිටපු පුද්ගලයෙක් කියලා තමයි අපේ විමර්ශන වලින් එළියට ඇවිත් තියේනේ"
+
+◼️
+
+[Data](articles/12c02d04.json)
 
 ---
 
@@ -102,6 +120,8 @@ A bond maturing on 15.09.2029 closed at 12.00/05 percent, down from 12.05/10 per
 
 [Data](articles/762875da.json)
 
+[Extended Data](ext_articles/762875da.ext.json)
+
 ---
 
 ### Sri Lanka aims for ambitious 40-pct direct taxes by 2025
@@ -119,6 +139,8 @@ Siyambalapitiya said the island nation’s state revenue has increased to “alm
 ...
 
 [Data](articles/bcaff0d4.json)
+
+[Extended Data](ext_articles/bcaff0d4.ext.json)
 
 ---
 
@@ -209,6 +231,8 @@ Several companies had begun reporting interim results. “LIOC posted a profit o
 ...
 
 [Data](articles/d2def37e.json)
+
+[Extended Data](ext_articles/d2def37e.ext.json)
 
 ---
 
@@ -1482,6 +1506,28 @@ Meanwhile, taking to ‘X’, Romanian PM Ciolacu stated that he welcome the dec
 
 ---
 
+### කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවලියේ වටිනාම ක්‍රීඩකයා වූ මෙරෝන් විජේසිංහ කවුද ?
+
+*2024-07-18 12:21:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw4yvg27r0po) · `si`
+
+කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවලියේ වටිනාම ක්‍රීඩකයා වූ මෙරෝන් විජේසිංහ කවුද ?
+
+පසුගියදා අවසන් වූ 2024 ජාතික කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවයේ දී නව වාර්තා 36ක් පිහිටුවීමට කනිෂ්ඨ ක්‍රීඩක ක්‍රීඩිකාවන් සමත් විය.
+
+තරගාවලියේ දක්ෂතාම ක්‍රීඩකයා වශයෙන් සම්මාන ලැබුවේ කොළඹ ආනන්ද විදුහලේ මෙරෝන් විජේසිංහ ය.
+
+මීටර් 100 තරග ඉසව්ව තත්ත්පර 10.38ක කාලයකින් අවසන් කරමින් රන් පදක්කම දිනා ගැනීමට මෙරෝන් විජේසිංහ සමත් විය.
+
+මෙම මලල ක්‍රීඩා තරගාවලියත් සමග ලබන අගෝස්තු මාසයේ දී පේරු රාජ්‍යයේ පැවැත්වීමට නියමිත ලෝක කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවය සඳහා මේ වන විට ශ්‍රී ලාංකික ක්‍රීඩක ක්‍රීඩිකාවන් 11 දෙනෙකු සුදුසුකම් ලැබීමට සමත්ව ඇති අතර එය මෙතෙක් ලෝක කනිෂ්ඨ මලල ක්‍රීඩා ශූරතාවයක් සඳහා මෙරටින් සුදුසුකම් ලැබූ ඉහළම ක්‍රීඩක සංඛ්‍යාව වේ.
+
+2005 වසරේ ජූලි මස 10 වැනිදා උපත ලබා අති මෙරෝන් විජේසිංහ පළමුව වත්තල ලයිසියම් ජාත්‍යන්තර පාසලෙන් අධ්‍යාපනය ලබා ඇති අතර මේ වන විට කොළඹ ආනන්ද විදුහලේ උසස් පෙළ වාණිජ අංශයෙන් අධ්‍යාපනය හදාරමින් සිටින වයස අවුරුදු 19ක සිසුවෙකු වේ.
+
+...
+
+[Data](articles/317aeedc.json)
+
+---
+
 ### Request to ban the mobile phone at the theater
 
 *2024-07-18 12:17:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரையரங்கில்-அலைபேசியை-தடை-செய்யுமாறு-கோரிக்கை/175-340615) · `ta`
@@ -2283,61 +2329,5 @@ As a result, 300 firefighters were involved in the rescue operation as people we
 [Data](articles/07aadfe8.json)
 
 [Extended Data](ext_articles/07aadfe8.ext.json)
-
----
-
-### 24 hours alert
-
-*2024-07-18 09:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரம்-எச்சரிக்கை/175-340593) · `ta`
-
-Heavy rainfall and thunderstorms are predicted in parts of Sri Lanka, especially in the Sabaragamuwa Province, Kandy, Nuwara Eliya, Western, North Western, Galle, and Matara districts. Strong winds up to 50-60 km/h are expected in various provinces and districts. The Department of Meteorology advises caution for long-term fishing boats in the Arabian Sea and Bay of Bengal due to intense southwest climate conditions causing sea turbulence.
-
-🟩
-
-In the Sabaragamuwa Province, Kandy and Nuwara Eliya districts, there is a possibility of periodic rainfall or thunderstorms and heavy rainfall in some places.
-
-Rainfall is expected several times in the Western and North Western Provinces and Galle and Matara districts.
-
-Strong winds are likely to blow up to 50-60 km / h from time to time in the western slopes of the Central Highlands, the Northern, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts.
-
-In addition, the Department of Meteorology has advised that long -term fishing boats and maritime community operate on the Arabian Sea and Bay of Bengal.
-
-As the southwest climate is intensifying, strong winds in the Arabian Sea and the Bay of Bengal can be seen as sea turbulence.
-
-Meanwhile, due to the southwest season, the current wind condition is expected to continue across the country. Remble
-
-◼️
-
-[Data](articles/18b37925.json)
-
-[Extended Data](ext_articles/18b37925.ext.json)
-
----
-
-### Warning for the next 24 hours
-
-*2024-07-18 09:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணித்தியாலங்கள்-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-340593) · `ta`
-
-Heavy rainfall and thunderstorms are expected in Sabaragamuwa, Kandy, Nuwara Eliya, Western, North Western, Galle, and Matara districts over the next 24 hours. Strong winds of 50-60 km/h will affect the Central Highlands' western slopes, Northern, North Central, North Western Provinces, and Trincomalee, Moneragala, and Hambantota districts. The Department of Meteorology advises caution for long-term fishing boats and maritime communities in the Arabian Sea and Bay of Bengal due to intense southwest winds causing sea turbulence. This weather pattern is expected to persist nationwide.
-
-🟩
-
-In the Sabaragamuwa Province, Kandy and Nuwara Eliya districts, there is a possibility of periodic rainfall or thundershowers and heavy rainfall in some areas is likely to occur in some places.
-
-Rainfall is expected several times in the Western and North Western Provinces and Galle and Matara districts.
-
-Strong winds are likely to blow at speeds of 50-60 km from time to time in the western slopes of the Central Highlands, the Northern, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts.
-
-In addition, the Department of Meteorology has advised that long -term fishing boats and maritime community operate on the Arabian Sea and Bay of Bengal.
-
-As the southwest climate is intensifying, strong winds in the Arabian Sea and the Bay of Bengal can be seen as sea turbulence.
-
-Meanwhile, due to the southwest season, the current wind condition is expected to continue across the country. Remble
-
-◼️
-
-[Data](articles/aa0e8ef8.json)
-
-[Extended Data](ext_articles/aa0e8ef8.ext.json)
 
 ---

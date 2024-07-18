@@ -1,46 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 08:54:57**
+As of **2024-07-18 09:07:58**
 
 ## Newspaper Stats
 
-*Scraped **35,839** Articles*
+*Scraped **35,854** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 318
-colombotelegraphcom | 337
+colombotelegraphcom | 338
 bbccomsinhala | 351
 newsfirstlk | 363
 islandlk | 2,039
 economynextcom | 2,136
-dailyftlk | 2,267
+dailyftlk | 2,279
 adalk | 3,238
 adaderanalk | 4,133
-tamilmirrorlk | 4,335
+tamilmirrorlk | 4,336
 dailymirrorlk | 4,733
-virakesarilk | 5,594
+virakesarilk | 5,595
 adaderanasinhalalk | 5,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,837 (100.0%) of 35,839 articles have been extended.
+35,839 (100.0%) of 35,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
 
-### கொழும்பு விபத்தில் எம்.பி காயம்
+### ஜனாதிபதி தேர்தலில் பொது வேட்பாளராக ரணிலை ஆதரிப்போம் - புதிய அரசியல் கூட்டணி
+
+*2024-07-18 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/188735) · `ta`
+
+இலங்கையை பொருளாதார ரீதியில் கட்டியெழுப்புவதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவை தவிர வேறு யாராலும் இயலாது. பொது வேட்பாளராக உத்தேச ஜனாதிபதி தேர்தலில் போட்டியிட உள்ள அவருக்க ஆதரவு வழங்க உள்ளதாக  தெரிவித்த புதிய அரசியல் கூட்டணி, ஏனைய ஜனாதிபதி வேட்பாளர்களுக்கு அபிவிருத்தி திட்டங்கள் எதுவும் கிடையாத நிலையில்  நாட்டை மீண்டு அழிவுக்கு கொண்டு செல்லும் வகையிலேயே செயல்படுவதாகவும் குறிப்பிட்டது.
+
+தேசிய பத்திரிகைளின் ஆசிரியர்களை நேற்று புதன்கிழமை (17)  சந்தித்த போதே  மேற்கண்டவாறு தெரிவிக்கப்பட்டது. இந்த சந்திப்பில் பாராளுமன்ற உறுப்பினர்களான அநுர பிரியதர்ஷன யாப்பா, நிமல் லான்சா, சுதத் மஞ்சுள  மற்றும் வர்த்தக இராஜாங்க அமைச்சர் நளின் பெரனாண்டோ ஆகியோர் இந்த சந்திப்பில் பங்கேற்றனர்.
+
+...
+
+[Data](articles/bc72ed4b.json)
+
+---
+
+### MP injured in Colombo accident
 
 *2024-07-18 08:19:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-விபத்தில்-எம்-பி-காயம்/175-340592) · `ta`
 
-கொழும்பு ஜாவத்தையில் இடம்பெற்ற. விபத்தில் ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க காயமடைந்தார்.
+United People's Power MP Tissa Attanayake was injured in an accident in Jawatte, Colombo.
+
+🟩
+
+Jawatte in Colombo. United People's Power MP Tissa Attanayake was injured in the accident.
 
 ◼️
 
 [Data](articles/0d5c3097.json)
+
+[Extended Data](ext_articles/0d5c3097.ext.json)
 
 ---
 
@@ -272,6 +292,22 @@ Noteworthy about this achievement was that every Quality improvement project pre
 
 ---
 
+### World Bank retains MTI Consulting for enterprise study
+
+*2024-07-18 04:41:12* · [`dailyftlk`](https://www.ft.lk/business/World-Bank-retains-MTI-Consulting-for-enterprise-study/34-764430) · `en`
+
+Washington DC based World Bank team and the MTI regional team in Bahrain
+
+The World Bank Group has retained the services of MTI Consulting to assess the Bahrain Private Sector – through the Bahrain Enterprise Survey 2024, which will finally be used as inputs for the World Bank’s Business Ready
+
+The Enterprise Surveys collect data on firms’ perception of the business environment, including finance, infrastructure, competition, and corruption. This data is used for the World Bank’s B-READY project, a flagship report that benchmarks the business and investment climate worldwide, evaluating the regulatory framework, public services for firms, and their practical efficiency.
+
+◼️
+
+[Data](articles/6a351488.json)
+
+---
+
 ### Nestlé Lanka celebrates long-standing business partnerships
 
 *2024-07-18 04:39:08* · [`dailyftlk`](https://www.ft.lk/business/Nestlé-Lanka-celebrates-long-standing-business-partnerships/34-764429) · `en`
@@ -285,6 +321,18 @@ This felicitation event brought together a diverse array of business partners ac
 [Data](articles/a334aa86.json)
 
 [Extended Data](ext_articles/a334aa86.ext.json)
+
+---
+
+### Former Australia’s PM in town to address Human Capital Summit
+
+*2024-07-18 04:36:50* · [`dailyftlk`](https://www.ft.lk/business/Former-Australia-s-PM-in-town-to-address-Human-Capital-Summit/34-764428) · `en`
+
+Australia’s 30th Prime Minister Scott Morrison arrived yesterday to address the 2024 Sri Lanka Human Capital Summit which will be held in Colombo today. He was welcomed at the Airport by State Minister of Defence Premitha Bandara Tennakoon and Human Capital Summit Chairman Dinesh Weerakkody. The Summit will be inaugurated by President Ranil Wickremesinghe
+
+◼️
+
+[Data](articles/1e9bf1d5.json)
 
 ---
 
@@ -303,6 +351,42 @@ This committee will be chaired by the Ministry of Public Security Secretary and 
 [Data](articles/f224ca94.json)
 
 [Extended Data](ext_articles/f224ca94.ext.json)
+
+---
+
+### Diana abandons petition against SJB
+
+*2024-07-18 04:31:17* · [`dailyftlk`](https://www.ft.lk/news/Diana-abandons-petition-against-SJB/56-764425) · `en`
+
+Former State Minister Diana Gamage has officially withdrawn her petition challenging the Samagi Jana Balawegaya’s (SJB) decision to revoke her party membership. During yesterday’s proceedings, Gamage’s legal team informed the Supreme Court that she did not intend to pursue the case further.
+
+The SJB expelled Gamage following her vote in favour of the 20th Amendment to the Constitution in 2020, contradicting the party’s unanimous stance to oppose the amendment. Gamage had filed the petition seeking an order to annul the SJB’s decision to remove her from the party’s National List.
+
+During the Court proceedings, Gamage’s attorneys requested permission to withdraw the petition, stating there was no need to continue with the legal challenge. The Supreme Court subsequently granted their request, allowing the petition to be withdrawn without further action.
+
+...
+
+[Data](articles/3841b24c.json)
+
+---
+
+### Four females arrested after brutal assault on child goes viral
+
+*2024-07-18 04:29:38* · [`dailyftlk`](https://www.ft.lk/news/Four-females-arrested-after-brutal-assault-on-child-goes-viral/56-764424) · `en`
+
+Aranayake Police arrested four women yesterday after a video showing them brutally assaulting a six-year-old boy went viral on social media platforms.
+
+Police said the four women included the boy’s mother, grandmother, aunt and great-aunt.
+
+In the video, two older women are seen beating and dragging a child inside a house. After closing the door, they continue the beatings inside. The child’s cries can be heard aloud as the person recording the video and other neighbours remain outside. The video had been recorded by a neighbour in the area.
+
+According to police spokesman DIG Nihal Thalduwa, the incident had taken place in Ehelagastenne, Aranayake. The police had arrested the four women within hours of the video being uploaded online, he confirmed.
+
+“The child had been beaten due to an act of disobedience,” he said. “The mother was observed watching the child being assaulted and she was arrested for aiding and abetting the abuse,” he added.
+
+...
+
+[Data](articles/ff18a56d.json)
 
 ---
 
@@ -343,6 +427,146 @@ The event was held at the “Gateway to Sri Lanka Lounge” at Sri Lanka High Co
 [Data](articles/44c8a952.json)
 
 [Extended Data](ext_articles/44c8a952.ext.json)
+
+---
+
+### SriLankan Airlines to continue partnership with Plusgrade Inc. for enhanced bidding services
+
+*2024-07-18 04:24:56* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-to-continue-partnership-with-Plusgrade-Inc-for-enhanced-bidding-services/34-764421) · `en`
+
+The Cabinet of Ministers has approved awarding of the contract to Plusgrade Inc., for a duration of five years, to continue its partnership with the national carrier, SriLankan Airlines Ltd., to provide bidding services and related ancillary services for automatic booking of upper-class seats.
+
+The decision follows a successful international competitive bidding process in which two bids were received.
+
+This approval comes after thorough evaluation by the Technical Evaluation Committee and the Standing Procurement Committee appointed by the Cabinet of Ministers.
+
+The Plusgrade system allows passengers holding economy class tickets to bid for available business class seats, thus offering a chance to upgrade their travel experience. This service not only enhances passenger satisfaction but also increases revenue for the airline by filling unreserved business class seats.
+
+...
+
+[Data](articles/441e8106.json)
+
+---
+
+### Govt. amps up funding for Nanu Oya Railway Station modernisation
+
+*2024-07-18 04:24:30* · [`dailyftlk`](https://www.ft.lk/business/Govt-amps-up-funding-for-Nanu-Oya-Railway-Station-modernisation/34-764420) · `en`
+
+The Government has decided to provide additional funding for the Nanu Oya Railway Station modernisation project, which aims to enhance the station’s facilities to boost tourism and improve passenger experiences.
+
+The move follows a previous Cabinet decision made on 3 April 2023. Initially, the project was set to be implemented with a budget of Rs. 74.63 million, funded by the Sri Lanka Tourism Development Authority (SLTDA) and the Sri Lanka Tourism Promotion Bureau (SLTDA).
+
+However, the contract value has now increased to Rs. 101.81 million due to rising costs and expanded project scope.
+
+The proposal for the increased funding was presented by the Tourism and Land Minister Harin Fernando on Monday allowing the Central Engineering Consultancy Bureau (CECB) to complete the modernisation activities.
+
+The additional amount required will be sourced from the SLTDA and the SLTPB based on recommendations from the Department of Railway.
+
+...
+
+[Data](articles/de0427d1.json)
+
+---
+
+### Why can’t that great idea get funded?
+
+*2024-07-18 03:49:15* · [`dailyftlk`](https://www.ft.lk/columns/Why-can-t-that-great-idea-get-funded/4-764405) · `en`
+
+Ultimately, the success of any startup hinges on a strong idea, a capable and resilient team, and the relentless pursuit of excellence
+
+The startup world is founded on daring dreams, fuelled by relentless passion and the fearless pursuit of innovation. Yet, for most, the path to success is obstructed by a crucial obstacle – securingg adequate funding. While headlines celebrate lucrative funding rounds, many would-be founders have quit steady jobs, invested their lifetime savings, and work night and day for a venture that was teetering over before it had a chance to get started, all thanks to lack of funding.
+
+When promising ventures fall short of an investor’s expectations, bridging the funding gap seems near impossible. Here, are some of the major culprits behind fundraising failures.
+
+...
+
+[Data](articles/4b37602d.json)
+
+---
+
+### Clean energy or clean Government?
+
+*2024-07-18 03:37:55* · [`dailyftlk`](https://www.ft.lk/columns/Clean-energy-or-clean-Government/4-764404) · `en`
+
+Clean energy, such as wind energy, can never be clean unless its procurement is also clean
+
+This is my final response to Gerald L. Samaranayake (my time is precious), who keeps repeating himself ad nauseam while erecting ever more strawmen (see Daily FT, 13 July: https://www.ft.lk/opinion/Adani-wind-project-Is-it-a-controversy-created/14-764216).
+
+...
+
+[Data](articles/d0111283.json)
+
+---
+
+### What will it take to keep the lights on?
+
+*2024-07-18 03:18:40* · [`dailyftlk`](https://www.ft.lk/columns/What-will-it-take-to-keep-the-lights-on/4-764403) · `en`
+
+Sanjiva Weerawarana, whose software company WSO2 was recently acquired for $ 600 million, was asked by an interviewer what he wanted of Government. Keep the lights on, he said.
+
+It’s a succinct answer that embodies much. It can be interpreted as a statement that the State should focus on providing what we cannot provide for ourselves: law and order, most infrastructure services, and even things like identity and authentication services. But for the moment, let’s take just the literal meaning: uninterrupted electricity.
+
+...
+
+[Data](articles/599e2bb4.json)
+
+---
+
+### Indo-Lanka grid connectivity: The commercial challenge
+
+*2024-07-18 03:14:52* · [`dailyftlk`](https://www.ft.lk/columns/Indo-Lanka-grid-connectivity-The-commercial-challenge/4-764402) · `en`
+
+Transmission and distribution losses are relevant when comparing electricity supply from a far-off plant against distributed generation where electricity production is closer to the consumer
+
+News media reports that the Power and Energy Ministry is to sign a Memorandum of Understanding (MoU) with the Indian Government relating to the planned Indo-Lanka cross-strait power grid connectivity within a few months. According to Power and Energy Minister Kanchana Wijesekera, GOSL has made it a priority to complete the grid connection by 2030.
+
+This milestone (electricity import via SL-India grid intertie) along with other 2030 milestones of thermal plant fuel switching (diesel to LNG) and meeting 70% of electricity demand via use of renewable energy (RE) resources leads towards a complex outcome.
+
+This article highlights the commercial challenge faced when determining the optimal mix of; a) electricity received from India, b) electricity from LNG generation, and c) RE based electricity.
+
+...
+
+[Data](articles/9d86683e.json)
+
+---
+
+### Doing things differently and doing different things
+
+*2024-07-18 03:09:32* · [`dailyftlk`](https://www.ft.lk/columns/Doing-things-differently-and-doing-different-things/4-764401) · `en`
+
+Doing things differently and doing different things are two primary mechanisms we must embrace to come out of this economic mess that we are in. Well, the answer to why change is because repeating the past that led us to this present predicament is not at all a sound idea. I am not yet sure that we have understood this. Even with our backs against all the walls in and around us we still plan, and discuss doing more of the same that we were doing before.
+
+...
+
+[Data](articles/c48c309c.json)
+
+---
+
+### False Terrorism Cases Enable Repression; Politically Motivated Detentions, Surveillance, Threats
+
+*2024-07-18 02:42:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/false-terrorism-cases-enable-repression-politically-motivated-detentions-surveillance-threats/) · `en`
+
+Sri Lankan authorities continue to use the notorious Prevention of Terrorism Act (PTA) to target perceived opponents and minority communities without credible evidence to support the allegations despite repeated pledges to end the practice, Human Rights Watch said today. While some victims have suffered years of arbitrary detention and torture, others are persecuted even after the case against them is dropped.
+
+The law, widely known as the PTA, has provisions allowing for extended administrative detention, limited judicial oversight, and inadequate protections against torture. In a 2022 speech to the United Nations Human Rights Council, the then foreign minister pledged a moratorium on its use, but under President Ranil Wickremesinghe, detentions under the PTA have continued. Such is the chilling effect of the law that in September 2023 the International Monetary Fund found that “broad application of counter-terrorism rules” restricts civil society scrutiny of official corruption.
+
+...
+
+[Data](articles/ae5d03bd.json)
+
+---
+
+### Winning requires reset: AKD’s strategic dilemmas, bridgeable gaps, rectifiable errors
+
+*2024-07-18 02:33:51* · [`dailyftlk`](https://www.ft.lk/columns/Winning-requires-reset-AKD-s-strategic-dilemmas-bridgeable-gaps-rectifiable-errors/4-764399) · `en`
+
+Early in his presidency or rather, the balance of Gotabaya Rajapaksa’s presidential term, to complete which he was selected by the Rajapaksas and elected by the vote of the discredited ruling SLPP, Ranil Wickremesinghe chaired a conference at the Presidential Secretariat. He said “we can talk about holding elections after fulfilling the agreement with the IMF, completing the debt restructuring efforts and placing the economy firmly on a high-growth path”. This wasn’t at a secret conclave of plotters planning to subvert the Constitution. It was on TV news.
+
+Just recently, in Mahiyangana, Ranil contributed to political theory by proclaiming outrageously: “I have said earlier that judicial power doesn’t rest with the judiciary; judicial power rests with the legislature…so that ends there.”
+
+...
+
+[Data](articles/7b97ba25.json)
 
 ---
 
@@ -392,21 +616,27 @@ They also thought the government service would be paralyzed.Under the guidance o
 
 ---
 
-### MasterChef Australia: ඔස්ට්‍රේලියාවේදී හරි හරියට ලංකාවේ කෑම හැදූ මේ ‘සැව්’ කවුද?
+### Masterchef Australia: In Australia, who made Sri Lanka's food in Sri Lanka?
 
 *2024-07-18 02:10:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2lk4xp7kj2o) · `si`
 
-MasterChef Australia: ඔස්ට්‍රේලියාවේදී හරි හරියට ලංකාවේ කෑම හැදූ මේ ‘සැව්’ කවුද?
+In the MasterChef Australia reality show, two Sri Lankan contestants stood out. Georgia, a girl of Sri Lankan origin, won the Junior MasterChef Australia using Sri Lankan cooking techniques and diet. Savindri Perera, another contestant, known as 'Save,' won the third place in the main tournament, showcasing traditional Sri Lankan dishes like Kiribath and using local ingredients like Kitul honey and fish. Despite facing challenges, Savindri's dedication to preserving Sri Lankan cuisine earned her admiration from both fans and judges.
 
-ඔස්ට්‍රේලියානු MasterChef Australia රියැලිටි තරගාවලිය වසර කිහිපයක සිට ශ්‍රී ලංකාවේත් ජනප්‍රිය වී තිබෙන්නේ වරින් වර එම තරගාවලිය නියෝජනය කළ ශ්‍රී ලාංකික සම්භවයක් සහිත තරගකරුවන් නිසා ය.
+🟩
 
-මීට පෙර Junior Masterchef Australia තරගාවලියක් ජයග්‍රහණය කළේ ශ්‍රී ලාංකික සම්භවයක් සහිත දැරියක් වූ ජොර්ජියා විසින් ය. ඇය ද එම තරගාවලියේ වට කිහිපයක දීම ශ්‍රී ලාංකික ඉවුම් පිහුම් ක්‍රම යොදාගත් අතර අවසන් මහා තරගයේ දී ඇය විසින් පිසූ ශ්‍රී ලාංකික ආහාරවේල ඇයව ජයග්‍රහණය කරා ගෙන යන ලදි.
+Masterchef Australia: In Australia, who made Sri Lanka's food in Sri Lanka?
 
-ආසන්න මාස කිහිපයක් පුරා MasterChef Australia 16 වැනි අදියරේ දී  ශ්‍රී ලංකාව සම්බන්ධයෙන් අවධානය යොමු වූයේ ශ්‍රී ලාංකික තරුණියක් වන සවින්ද්‍රි පෙරේරා හේතුවෙන් ය. ‘සැව්’ ලෙස MasterChef  රසිකයන් අතර ජනප්‍රිය වූ ඇය මෙවර තරගාවලියේ තෙවන ස්ථානය දිනාගැනීමට සමත් වූවා ය. ඇය (ජුලි 16 වැනිදා) රාත්‍රියේ ශ්‍රී ලංකාවට ළඟා වූයේ වසර කිහිපයකට පසු සිය පවුලේ සාමාජිකයන් හමුවීමේ අරමුණින් ය.
+The Australian MasterCef Australia Reality Tournament is popular in Sri Lanka from a few years.
+
+Earlier Junior Masterchef Australia won a tournament by a Sri Lankan Origin girl, Georgia. She also used Sri Lankan cooking techniques in several rounds of the tournament, while her Sri Lankan diet she cooked in the final match was taken to victory.
+
+At the same stage of the MasterCef Australia, a Sri Lankan young woman, was due to Sri Lankan girl. She was popular among the MasterCef fans as 'Save' and won the third place in this year's tournament. She (July 16th) approached Sri Lanka to meet his family members a few years later.
 
 ...
 
 [Data](articles/8cbfd44e.json)
+
+[Extended Data](ext_articles/8cbfd44e.ext.json)
 
 ---
 
@@ -565,6 +795,22 @@ Although their struggle has passed the 16th day, the protesters have said that t
 [Data](articles/4bf40d2e.json)
 
 [Extended Data](ext_articles/4bf40d2e.ext.json)
+
+---
+
+### ’நீர் கட்டணம் திருத்தப்படும்’
+
+*2024-07-18 00:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-கட்டணம்-திருத்தப்படும்/175-340591) · `ta`
+
+புதிய மின் கட்டணத் திருத்தத்திற்கு இணைந்தவகையில், நீர் கட்டணத்தைக் குறைப்பது குறித்தும் ஆராயப்பட்டு வருகின்றது. இந்த வாரத்துக்குள் அது குறித்து தீர்மானம் எடுக்கப்படுமென  நீர் வழங்கல் மற்றும் பெருந்தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் ஜீவன் தொண்டமான் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+மின் கட்டணத்தைக் குறைக்க நடவடிக்கை எடுத்தமைக்காக அமைச்சர் கஞ்சன விஜேசேகரவை பாராட்டுகின்றோம். நீர் விநியோகம் என்பது மின் கட்டணத்தைச் சார்ந்து இருக்கும் துறையாகும். எனவே, நீர் கட்டணத்தை குறைக்க இந்த மின் கட்டண திருத்தம் உதவும் என நம்பப்படுகிறது.
+
+...
+
+[Data](articles/97bbaaab.json)
 
 ---
 
@@ -1997,359 +2243,5 @@ With the exception of Hayleys and a couple of other companies, the counter saw m
 [Data](articles/80274596.json)
 
 [Extended Data](ext_articles/80274596.ext.json)
-
----
-
-### Approval of the Department of Finance Management Act
-
-*2024-07-17 16:51:48* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මූල්‍ය-කළමනාකරණ-පනතට-මුදල්-කාරක-සභාවේ-අනුමැතිය/11-410830) · `si`
-
-The Committee on Public Finance approved the Fiscal Management (PFM) Bill, aimed at improving financial discipline and accountability. It mandates efficient resource allocation to boost public trust and addresses financial management shortcomings. The bill sets a 13% limit on primary expenditures relative to Nominal GDP, sparking debate on its impact on growth and social welfare. Critics argue it restricts Sri Lanka's potential for high-income status, while supporters emphasize its role in enforcing fiscal regulations and promoting sustainability.
-
-🟩
-
-After a lengthy discussion of the Fiscal Management (PFM) Bill, the Committee on Public Finance was approved.
-
-Accordingly, the Committee commended on the Ministry of Finance to ensure an efficient resource allocation to enhance a system efficiently to enhance public confidence.
-
-The officials in attending the Chairman of the House were found in the face of a legal framework on a legal framework of the current regulations.. Accordingly, the shortcomings of the current state financial management practices, the financial management (PFM) has been prepared to establish financial discipline due to endemic weakness and accountability and accountability issues.
-
-The Committee on Finance Member (Dr.) (Dr.) Harsha De Silva was approved to considune and approved of the bill.
-
-...
-
-[Data](articles/b93623f7.json)
-
-[Extended Data](ext_articles/b93623f7.ext.json)
-
----
-
-### New method to apply passports
-
-*2024-07-17 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198920) · `si`
-
-The Department of Immigration and Emigration has launched a new passport application process. Applicants must first register online via www.immigration.gov.lk before applying. This change aims to streamline the passport application process for convenience.
-
-🟩
-
-The Department of Immigration and Emigration has taken steps to introduce a new methodology for the convenience of the passport candidates.
-
-Accordingly, a pre-registration should be made through www.imigration.gov.lk to apply passports.
-
-The Department of Immigration and Emigration stated that after registering online, the Department of Immigration and Emigration said.
-
-◼️
-
-[Data](articles/f65734d9.json)
-
-[Extended Data](ext_articles/f65734d9.ext.json)
-
----
-
-### 1,300 doctors and more than 500 nurses leave the country
-
-*2024-07-17 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188683) · `ta`
-
-Due to Sri Lanka's economic crisis, over 1,300 doctors and more than 500 nurses have left the country. The Health Minister highlighted the issue during his visit to Jaffna, noting the current shortage of medical professionals. Despite the exodus, about 10-15% of those who left have returned, mitigating the impact slightly.
-
-🟩
-
-Health Minister Ramesh Pathena said that 1,300 doctors and more than 500 nurses have left the country due to the economic crisis in the country.
-
-The Minister of Health, who visited Jaffna on Wednesday (17), said this.
-
-There are currently 24,000 state doctors in Sri Lanka.As soon as 3,500 doctors are expected to leave, we will soon make their doctors appointments.
-
-Every year, 3,000 people leave doctors, making the doctors vacancies in the state hospital.
-
-Currently 24 thousand doctors are working in government hospitals.At present, however, the departure of the departmentalist experts is a major problem.
-
-Some of the country's areas have been affected by the shortage of departmental medical experts.However, in the last few months, 10-15 doctors who have left the country have been returning to the country and have been working again.This is a good healthy thing for us.
-
-◼️
-
-[Data](articles/21ce673c.json)
-
-[Extended Data](ext_articles/21ce673c.ext.json)
-
----
-
-### Four women arrested over brutal assault on child in Aranayaka
-
-*2024-07-17 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100580/four-women-arrested-over-brutal-assault-on-child-in-aranayaka) · `en`
-
-Aranayaka Police stated that four female suspects have been arrested in connection with an incident of inhumane assault and cruelty towards a child.
-
-A video of the incident in question recently went viral on social media and following an investigation launched into the matter, the relevant suspects were arrested.
-
-Accordingly, the child’s two grandmothers were arrested for assaulting the child while his mother along with another woman have been arrested on the charges of aiding and abetting the incident.
-
-The four arrested suspects are residents of Aranayaka and aged between 42 to78 years.
-
-Police stated that the suspects are to be produced before the Mawanella Magistrate’s Court today (17) and the child, who is under the care of his father, is to be produced before the Mawanella Judicial Medical Officer (JMO).
-
-◼️
-
-[Data](articles/4243ae92.json)
-
-[Extended Data](ext_articles/4243ae92.ext.json)
-
----
-
-### Tamil writing error on the banner of the President
-
-*2024-07-17 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188690) · `ta`
-
-A banner at a President's Fund event mistakenly referred to "President" instead of "Presidential Secretary." A state official confirmed it was correct in Sinhala, sparking confusion about whether it was an oversight or part of a larger plan. The presence of Tamil political figures and the Governor of the Central Province added to the intrigue.
-
-🟩
-
-The event was held on Tuesday (16) at the Nuwara Eliya City Hall by the President's Fund.
-
-The banner on display referred to the "President" instead of "President". When he told a state official, he replied recklessly that he was right in Sinhala.
-
-If this was the case of the President of the country, the question of the teachers of the school principal was where to go and appeal.. Is this an unpopular course of the authorities or a planned process?The question has also arisen. It is important to note that Tamil political figures were also present at the event, which was attended by the Governor of the Central Province.
-
-◼️
-
-[Data](articles/850dbdee.json)
-
-[Extended Data](ext_articles/850dbdee.ext.json)
-
----
-
-### UNP requests earliest possible date for Sri Lanka presidential election
-
-*2024-07-17 16:32:00* · [`economynextcom`](https://economynext.com/unp-requests-earliest-possible-date-for-sri-lanka-presidential-election-172584/) · `en`
-
-ECONOMYNEXT — The United National Party (UNP) has requested Sri Lanka’s Election Commission to hold the 2024 presidential as early as possible, a party official, adding that President Ranil Wickremesinghe will contest as an independent candidate.
-
-UNP General Secretary and former MP Palitha Range Bandara told reporters outside the Election Commission premises Wednesday July 17 afternoon that the UNP anticipates a landslide victory for President Wickremesinghe.
-
-“We asked the election commission to have the election in the shortest time possible,” he said.
-
-Asked about the main opposition the Samagi Jana Balawegaya (SJB) and leftist National People’s Power (NPP), he said: “The SJB and the NPP badly want to accept defeat, so it’ll be good to have an early election to give them what they want.”
-
-“President Ranil Wickremesinghe will contest as an independent candidate. Everyone can join. You can too,” he added.
-
-...
-
-[Data](articles/44d21fc5.json)
-
-[Extended Data](ext_articles/44d21fc5.ext.json)
-
----
-
-### Health Minister in Jaffna
-
-*2024-07-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188694) · `ta`
-
-In Jaffna, a person was arrested for causing confusion during a health-related meeting attended by the Health Minister, MPs, and other officials. The incident occurred when someone live-streamed the event on Facebook without permission, leading to a confrontation. Authorities intervened, resulting in the arrest of the individual, who is now detained at the Chavakachcheri police station. This incident sparked controversy due to unauthorized participation in discussions involving high-ranking officials.
-
-🟩
-
-One person was arrested on charges of confusion in the discussion with the Health Minister in Jaffna.
-
-The Northern Provincial Council Auditorium was held on Wednesday (17) with the participation of Health Minister Ramesh Pathirana, Members of Parliament, Governor of the Northern Province, Health Department and Doctors at the Northern Provincial Council auditorium.
-
-A person who participated in the meeting was broadcast live through Facebook.
-
-Subsequently, the authorities refused to do so and that he would not be able to do live in the face.
-
-At the meeting, the minister was trying to talk to the Minister of Health at the meeting, and he was in confusion with the officials who stood at the meeting.
-
-Following this, the governor and the officials went to the Chief Secretariat's office and engaged in a conflict.. The police were informed that the authorities were to leave and continue to conflict.
-
-The Chavakachcheri police then rushed to the scene and arrested the man involved in the confusion.
-
-...
-
-[Data](articles/7b28698a.json)
-
-[Extended Data](ext_articles/7b28698a.ext.json)
-
----
-
-### E-Passport from next year
-
-*2024-07-17 16:29:48* · [`adalk`](https://www.ada.lk/breaking_news/ඊ---පාස්පෝට්-ලබන-වසරේ-සිට/11-410829) · `si`
-
-Sri Lanka's Department of Immigration and Emigration announces the introduction of electronic passports for its citizens starting January 1st next year.
-
-🟩
-
-The Department of Immigration and Emigration says that Sri Lanka will commence the electronic passport to Sri Lankans from January 1 next year.
-
-Announcement issued by the Department of Immigration and Emigration
-
-◼️
-
-[Data](articles/2fa598fb.json)
-
-[Extended Data](ext_articles/2fa598fb.ext.json)
-
----
-
-### The Teaser of the Clean Staff
-
-*2024-07-17 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/188692) · `ta`
-
-The teaser for "Quratra Patha," featuring Abernathi as the lead, has been released by directors Pa. Ranjith and Vijay Sethupathi. The film, produced by V6 Film Pvt., explores the daily adventures of purity workers, highlighting societal barriers they face. It stars Abernathi, Lingesh, Suresh Menon, Ashwin, among others, with music by Arjun Ravi and R. S. Dinesh Antony. The teaser, set to release on August 2nd, begins with quotes from Ambedkar and Periyar, aiming to address social issues affecting cleanliness workers.
-
-🟩
-
-The teaser of the film 'Quratra Patha', which plays the lead role as the hero of actress Abernathi, has been released.
-
-This teaser is the director Pa. Ranjith and 'People Selvan' Vijay Sethupathi have posted on their web page and congratulated the film crew.
-
-Abernathi, Lingesh, Suresh Menon, Ashwin and many others have starred in the director's Sri Vijay directed film 'Qur'an Bar'.
-
-Arjun Ravi and R. S.. Dinesh Antony has composed the film, which has been recorded by Gnanasekar.
-
-The film is being produced by V6 Film Pvt.
-
-The teaser of the film will be released on the second day of August at the film House.. At the beginning of this teaser, the motto of Ambedkar and Periyar was in place and the day -to -day adventure life of purity workers.
-
-The scenes that have spoken out the subtle issues that prevent cleanliners from getting up in the community have attracted the attention of the audience.
-
-◼️
-
-[Data](articles/39ffa193.json)
-
-[Extended Data](ext_articles/39ffa193.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields drop across maturities
-
-*2024-07-17 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-drop-across-maturities-172643/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction with all 110 billion rupees of bills offered sold, data from the debt office showed.
-
-The 3-month yield fell 36 basis points to 9.55 percent, with all offered 30 billion rupees of bills sold.
-
-The 6-month yield fell 32 basis points to 9.78 percent, with all offered 30 billion rupees of bills sold.
-
-The 12-month bills fell 14 basis points to 10.07 percent, with all offered 50 billion rupees of bills sold. (Colombo/July10/2024)
-
-◼️
-
-[Data](articles/17cfcaf6.json)
-
-[Extended Data](ext_articles/17cfcaf6.ext.json)
-
----
-
-### Police OICs OICs to mental and physical distress
-
-*2024-07-17 16:18:23* · [`adalk`](https://www.ada.lk/breaking_news/සුවසාර-කැඳැල්ල-නිසා-පොලිස්-ස්ථානාධිපතිවරුන්-මානසික-හා-කායික-පීඩාවට/11-410828) · `si`
-
-The summary would exceed the 200-character limit due to the complexity and length of the original text. However, I can provide a concise summary within the constraints:
-
-
-
-"Police officers face challenges under the Drug Addiction Rehabilitation Program, including physical strain and adverse effects from implementing it. The program aims to help drug addicts, but officers' involvement causes inconvenience and stress. Some addicts use drugs to support their families financially, complicating efforts to rehabilitate them. The program also faces criticism for not being effectively implemented, with concerns about its location and lack of legal backing."
-
-🟩
-
-Under the Rehabilitation Program of the Drug Addiction Program, the Navasury Nashing Program, the Police OIC to the Rehabilitation Control Program, all officers from the Police Station to the Rehabilitation Program have been inconvenienced.
-
-Although the rehabilitation of the Superintendents of the Circular and Mental Health, the OICs including the Superintendents of the Circular Health and other police officers are also physically used to implement the details of the circulars.It is reported that they have been adversely affected.
-
-Since all drug addicts are not stealing, the majority will work to maintain the use of drugs to maintain their children, as they spend money to use drugs.
-
-Police say that if such persons are referred to rehabilitation to rehabilitate, the police say they have also been taken to maintain the child.
-
-...
-
-[Data](articles/fd593ac6.json)
-
-[Extended Data](ext_articles/fd593ac6.ext.json)
-
----
-
-### Another order for election requests another order
-
-*2024-07-17 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198919) · `si`
-
-Prisoners in remand custody petitioned the Supreme Court for guidance from the Election Commission regarding voting in upcoming elections. The court case involves Sudesh Nandimal de Silva advocating for prisoner rights, with the Elections Commission and its members listed as respondents.
-
-🟩
-
-Prisoners who were remanded in remand custody were presented to the Supreme Court demanding a directive to the Election Commission to issue necessary guidelines to the Election Commission to vote in the next presidential and general election.
-
-Sudesh Nandimal de Silva has presented to the rights of prisoners.
-
-The Elections Commission and its members have been named as respondents.
-
-◼️
-
-[Data](articles/64b06a67.json)
-
-[Extended Data](ext_articles/64b06a67.ext.json)
-
----
-
-### President Action: Has the team appointed
-
-*2024-07-17 16:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அதிரடி-குழுவை-நியமித்தார்/175-340560) · `ta`
-
-President Ranil Wickremesinghe has submitted a cabinet paper to oversee security for election candidates and former presidents. A committee will manage this, including appointing a Deputy Inspector General of Police, as announced by the Presidential Media Unit.
-
-🟩
-
-A committee will be appointed to oversee the exclusive security arrangements of the candidates and former presidents contesting the upcoming presidential election.
-
-A cabinet paper has been submitted by President Ranil Wickremesinghe to coordinate all such security measures and appoint a Deputy Inspector General of Police, the Presidential Media Unit said in a media statement.
-
-◼️
-
-[Data](articles/d5a2fe4b.json)
-
-[Extended Data](ext_articles/d5a2fe4b.ext.json)
-
----
-
-### Action to strengthen the security of the presidential candidates and former presidents!
-
-*2024-07-17 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188687) · `ta`
-
-A committee will oversee security for presidential candidates and former presidents ahead of the election. President Wickremesinghe recommends coordinating all security measures and appointing a Deputy Inspector General of Police.
-
-🟩
-
-The Presidential Media Division has said that a committee will be appointed to oversee the exclusive security arrangements of the candidates and former presidents contesting the upcoming presidential election.
-
-Meanwhile, a Cabinet paper has been submitted by President Ranil Wickremesinghe, recommending to coordinate all security measures and appoint a Deputy Inspector General of Police.
-
-◼️
-
-[Data](articles/3107118c.json)
-
-[Extended Data](ext_articles/3107118c.ext.json)
-
----
-
-### Many shortcomings in Gampaha
-
-*2024-07-17 15:56:35* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-මාර්ග-රැසක-අඩුපාඩු-රැසක්/11-410827) · `si`
-
-Gampaha faces numerous issues including road insecurity due to unregulated tree removal, plumbing stalls, and underground chambers. A monthly road security committee is addressing these problems, focusing on areas like Siri Cross Vidyalaya and Gampaha-Miriswatta International School. The Road Passenger Transport Authority mandates registration of three-wheelers within two weeks. Actions to rectify these issues across 19 divisions are underway, involving traders, government agencies, and volunteers.
-
-🟩
-
-The Gampaha Superintendent of Police Tissa Senanayake said that the relevant agencies are responsible for the insecure conditions of all roads and said that the law would be implemented to the relevant institution.
-
-The SSP stated that special attention should be paid to the removal of trees and the plumbing stalls on roads as well as the underground telephone and plumbing chambers on roads.
-
-Divisional Police Inspector Dharmasiri Mendis was conducted by the Chief Inspector Dharmasiri Mendis, a monthly road security committee headed by Superintendent of Police Jagath Rohana.Showed accuracy. The relevant agency also evaluated the shortcomings of the roads.
-
-Deputy Inspector Priyanga Anuruddha, Gampaha Traffic Inspector Pearrama, pointed out that Siri Cross Vidyalaya was near the Gampaha-Miriswatta International School and Siri Bodhi Road.
-
-...
-
-[Data](articles/6fdbfd80.json)
-
-[Extended Data](ext_articles/6fdbfd80.ext.json)
 
 ---

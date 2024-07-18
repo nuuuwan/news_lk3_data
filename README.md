@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-18 08:35:28**
+As of **2024-07-18 08:54:57**
 
 ## Newspaper Stats
 
-*Scraped **35,837** Articles*
+*Scraped **35,839** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 318
 colombotelegraphcom | 337
-bbccomsinhala | 350
+bbccomsinhala | 351
 newsfirstlk | 363
 islandlk | 2,039
 economynextcom | 2,136
 dailyftlk | 2,267
 adalk | 3,238
 adaderanalk | 4,133
-tamilmirrorlk | 4,334
+tamilmirrorlk | 4,335
 dailymirrorlk | 4,733
 virakesarilk | 5,594
 adaderanasinhalalk | 5,995
@@ -26,11 +26,23 @@ adaderanasinhalalk | 5,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-35,837 (100.0%) of 35,837 articles have been extended.
+35,837 (100.0%) of 35,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-18 (Thursday)
+
+### கொழும்பு விபத்தில் எம்.பி காயம்
+
+*2024-07-18 08:19:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-விபத்தில்-எம்-பி-காயம்/175-340592) · `ta`
+
+கொழும்பு ஜாவத்தையில் இடம்பெற்ற. விபத்தில் ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க காயமடைந்தார்.
+
+◼️
+
+[Data](articles/0d5c3097.json)
+
+---
 
 ### Lifty life risk to marine mammal animals including turtles
 
@@ -377,6 +389,24 @@ They also thought the government service would be paralyzed.Under the guidance o
 [Data](articles/6d9e951b.json)
 
 [Extended Data](ext_articles/6d9e951b.ext.json)
+
+---
+
+### MasterChef Australia: ඔස්ට්‍රේලියාවේදී හරි හරියට ලංකාවේ කෑම හැදූ මේ ‘සැව්’ කවුද?
+
+*2024-07-18 02:10:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2lk4xp7kj2o) · `si`
+
+MasterChef Australia: ඔස්ට්‍රේලියාවේදී හරි හරියට ලංකාවේ කෑම හැදූ මේ ‘සැව්’ කවුද?
+
+ඔස්ට්‍රේලියානු MasterChef Australia රියැලිටි තරගාවලිය වසර කිහිපයක සිට ශ්‍රී ලංකාවේත් ජනප්‍රිය වී තිබෙන්නේ වරින් වර එම තරගාවලිය නියෝජනය කළ ශ්‍රී ලාංකික සම්භවයක් සහිත තරගකරුවන් නිසා ය.
+
+මීට පෙර Junior Masterchef Australia තරගාවලියක් ජයග්‍රහණය කළේ ශ්‍රී ලාංකික සම්භවයක් සහිත දැරියක් වූ ජොර්ජියා විසින් ය. ඇය ද එම තරගාවලියේ වට කිහිපයක දීම ශ්‍රී ලාංකික ඉවුම් පිහුම් ක්‍රම යොදාගත් අතර අවසන් මහා තරගයේ දී ඇය විසින් පිසූ ශ්‍රී ලාංකික ආහාරවේල ඇයව ජයග්‍රහණය කරා ගෙන යන ලදි.
+
+ආසන්න මාස කිහිපයක් පුරා MasterChef Australia 16 වැනි අදියරේ දී  ශ්‍රී ලංකාව සම්බන්ධයෙන් අවධානය යොමු වූයේ ශ්‍රී ලාංකික තරුණියක් වන සවින්ද්‍රි පෙරේරා හේතුවෙන් ය. ‘සැව්’ ලෙස MasterChef  රසිකයන් අතර ජනප්‍රිය වූ ඇය මෙවර තරගාවලියේ තෙවන ස්ථානය දිනාගැනීමට සමත් වූවා ය. ඇය (ජුලි 16 වැනිදා) රාත්‍රියේ ශ්‍රී ලංකාවට ළඟා වූයේ වසර කිහිපයකට පසු සිය පවුලේ සාමාජිකයන් හමුවීමේ අරමුණින් ය.
+
+...
+
+[Data](articles/8cbfd44e.json)
 
 ---
 
@@ -2321,49 +2351,5 @@ Deputy Inspector Priyanga Anuruddha, Gampaha Traffic Inspector Pearrama, pointed
 [Data](articles/6fdbfd80.json)
 
 [Extended Data](ext_articles/6fdbfd80.ext.json)
-
----
-
-### IMF team meets Ceylon Chamber to discuss Sri Lanka’s tax system
-
-*2024-07-17 15:56:00* · [`economynextcom`](https://economynext.com/imf-team-meets-ceylon-chamber-to-discuss-sri-lankas-tax-system-172558/) · `en`
-
-ECONOMYNEXT – A team from the International Monetary Fund, led by Peter Mullins has met Ceylon Chamber of Commerce officials to discuss Sri Lanka’s tax system, the private sector trade body said.
-
-The IMF team which is in Colombo “for a technical assistance mission on tax policy,” met with Chamber officials to “discuss the Sri Lankan tax system, including challenges and concerns, particularly regarding tax expenditures, exemptions, and incentives,” CCC said in a statement.
-
-Chamber Chairman Duminda Hulangamuwa, Deputy Vice-Chairman Bingumal Thewarathanthri, Senior Economist Sanjaya Ariyawansa, and Chamber Tax and Investment Promotion Steering Committees attended the meeting.
-
-The IMF bailout plan for the island nation has recommended that Sri Lanka must continue to raise taxes to achieve a budget surplus. (Colombo/Jul17/2024)
-
-◼️
-
-[Data](articles/2fa5e816.json)
-
-[Extended Data](ext_articles/2fa5e816.ext.json)
-
----
-
-### Reduces 5 types of fertilizer
-
-*2024-07-17 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198917) · `si`
-
-Fertilizer prices across five types are set to decrease from Rs. 1,500 to Rs. 2,000. This decision follows today's announcement by the Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, who directed the reduction for fertilizers used in cinnamon, tea, and coconut plantations. The move was confirmed during a meeting at the Ministry of Agriculture and Plantation Industries.
-
-🟩
-
-State Fertilizer Prices have been informed from today's 5 fertilizer prices to reduce the price of 5 fertilizer.
-
-Accordingly, steps will be taken to reduce fertilizer prices from Rs. 1,500 to Rs. 2,000.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera was also instructed to reduce fertilizer prices used by cinnamon, tea and coconut plantation crops.
-
-At a meeting held at the Ministry of Agriculture and Plantation Industries, fertilizer prices had been declared.
-
-◼️
-
-[Data](articles/1031e7d6.json)
-
-[Extended Data](ext_articles/1031e7d6.ext.json)
 
 ---

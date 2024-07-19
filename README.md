@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 10:08:06**
+As of **2024-07-19 10:20:08**
 
 ## Newspaper Stats
 
-*Scraped **36,069** Articles*
+*Scraped **36,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,051
 economynextcom | 2,151
 dailyftlk | 2,304
 adalk | 3,259
-adaderanalk | 4,156
+adaderanalk | 4,158
 tamilmirrorlk | 4,380
 dailymirrorlk | 4,733
 virakesarilk | 5,629
@@ -26,61 +26,115 @@ adaderanasinhalalk | 6,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,064 (100.0%) of 36,069 articles have been extended.
+36,069 (100.0%) of 36,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ரயில் மோதி நபரொருவர் உயிரிழப்பு !
+### Youth killed as motorcycle collides with an ambulance
+
+*2024-07-19 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100614/youth-killed-as-motorcycle-collides-with-an-ambulance-) · `en`
+
+One person was killed following a head-on collision involving a motorcycle and an ambulance this morning (19).
+
+The accident had occurred when an ambulance belonging to the Balapitiya Base Hospital, which was travelling from Galle towards Colombo, collided head-on with a motorcycle travelling on the opposite direction at the Tharuna Sewa Mawatha Junction on the Galle-Colombo road.
+
+The 22-year-old motorcyclist who was seriously injured from the accident was pronounced dead upon admission to the Karapitiya Teaching Hospital.
+
+◼️
+
+[Data](articles/47678415.json)
+
+---
+
+### A person dies
 
 *2024-07-19 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/188814) · `ta`
 
-காலியில் இருந்து மாத்தறை நோக்கி பயணித்த ரயிலில் மோதி  28 வயதுடைய நபர் ஒருவர் உயிரிழந்துள்ளார்.
+A 28-year-old man died after colliding with a train between Galle and Matara. The accident happened last night near the Kottukoda railway line under the Galle Port Police Division.
 
-காலி துறைமுக பொலிஸ் பிரிவிற்குட்பட்ட கொட்டுகொட ரயில்  மார்க்கத்தில்  நுழைவாயிலுக்கு அருகில் நேற்று வியாழக்கிழமை  (18) மாலை இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+A 28 -year -old man dies after colliding with a train traveling from Galle to Matara.
+
+The accident occurred yesterday evening (18) near the entrance to the Kottukoda railway line belonging to the Galle Port Police Division, police said.
 
 ◼️
 
 [Data](articles/39a23eff.json)
 
+[Extended Data](ext_articles/39a23eff.ext.json)
+
 ---
 
-### யாழ்ப்பாண மக்களுக்காக உண்மையாக செயற்பட்டேன் ; அது வைத்தியத்துறை மாபியாக்களுக்கு பிடிக்கவில்லை - சாவகச்சேரி ஆதார வைத்தியசாலையின்  முன்னாள் பதில் வைத்திய அத்தியட்சகர்
+### Egg traders allege unfair profits by producers
+
+*2024-07-19 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100613/egg-traders-allege-unfair-profits-by-producers) · `en`
+
+The All Ceylon Egg Traders Association (ACETA) has raised concerns about the unfair profit margins in egg production, alleging that producers are earning an excessive profit of Rs. 25 per egg.
+
+ACETA president Anura Marasinghe stated that it currently costs only around Rs. 20 for the production a single egg.
+
+He further explained that with the wholesale price of eggs provided from farms to traders ranging between Rs. 45 and Rs. 50, the market price of an egg has now exceeded Rs. 50.
+
+◼️
+
+[Data](articles/f5aff1a0.json)
+
+---
+
+### I was true for the people of Jaffna;It does not like the medical department - the former respondent of the Chavakachcheri Resource Hospital
 
 *2024-07-19 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188815) · `ta`
 
-யாழ்ப்பாண மக்களுக்காக உண்மையாக செயற்பட்டேன். அது வைத்தியத்துறை மாபியாக்களுக்கு பிடிக்கவில்லை. அதனால் என்னை இங்கிருந்து விரட்டுகின்றனர். ஆனால், இந்த மக்களின் அன்பு என்பது எனது இதயத்துடிப்பு. இந்த மண்ணில் இருந்து விடைபெறுகின்றேன் என  சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் பதில் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனா தெரிவித்தார்.
+Ramanathan Archana, a former respondent at the Chavakachcheri Resource Hospital, faced opposition due to his stance against the medical mafia in Jaffna. Despite being driven out, he remains dedicated to the community, expressing his loyalty and bidding farewell. His concerns about the hospital's utility during political discussions highlight broader issues within the healthcare system.
 
-சாவகச்சேரி ஆதார வைத்தியசாலை என்ற வைத்தியசாலை இல்லாதது போல அரசியல்வாதிகள் அமைச்சரிடம் பேசும்போது நாம் பேசி பயனில்லை எனவும் கவலை வெளியிட்டார்.
+🟩
 
-சாவகச்சேரி வைத்தியசாலை விவகாரத்தில் நீடித்து வந்த சர்ச்சைகளுக்கு சுகாதார அமைச்சர் ரமேஷ் பத்திரன முற்றுப்புள்ளி வைத்த நிலையில், சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் பதில் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனாவின் ஊடகவியலாளர் சந்திப்பு யாழ்ப்பாணத்தில் இன்று வெள்ளிக்கிழமை (19) இடம்பெற்றது.
+I was acting true for the people of Jaffna. It does not like the medical mafia. So they drive me out of here. But the love of these people is my heartbeat. "I am saying goodbye from this soil," said Ramanathan Archana, a former respondent of the Chavakachcheri Resource Hospital.
 
-ஒரு வைத்தியருக்காக பொதுமக்கள் திரண்டு போராட்டத்தில் ஈடுப்பட்டது உலக வரலாற்றில் இதுவே முதல்முறை. தென்மராட்சி மக்களுக்கு நான் எப்போதும் விசுவாசமாக இருப்பேன்
+He also expressed concern that when the politicians were talking to the minister, we were not useful as the Chavakachcheri Resource Hospital.
+
+A press conference of former Superintendent of Chavakachcheri Resource Hospital Ramanathan Archana was held in Jaffna on Friday (19) as Health Minister Ramesh Pathirana ended up with the controversy over the Chavakachcheri hospital.
+
+This is the first time in world history. I will always be loyal to the people of the south
+
+It does not like the medical mafia. So they drive me out of here. But the love of these people is my heartbeat. I am saying goodbye from this soil.
+
+I got a letter today after yesterday's date to come to the Ministry of Health.
 
 ...
 
 [Data](articles/cdca3a9e.json)
 
+[Extended Data](ext_articles/cdca3a9e.ext.json)
+
 ---
 
-### உலக பாரம்பரிய சின்னமாக மகாவம்சம் பிரகடனம்
+### Mahavamsa declared as a symbol of world heritage
 
 *2024-07-19 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188812) · `ta`
 
-பேராதனைப் பல்கலைக்கழக நூலகத்திலுள்ள இலங்கையின் பெளத்த வரலாற்றைக் கூறும்  மகாவம்சம் உலக பாரம்பரியச் சின்னமாக புதன்கிழமை (17) பிரகடனப்படுத்தப்பட்டது.
+The Mahavamsa, a 6th-century BC text detailing Sri Lanka's Buddhist history, was recently designated a World Heritage Site by UNESCO. The certificate was presented to Prof. GH Peiris of Peradeniya University, marking its significance in global cultural heritage.
 
-இதன்போது, மகாவன்சத்தை உலக மரபுரிமைச் சின்னமாக பிரகடனப்படுத்துவதற்கான சான்றிதழ் யுனெஸ்கோ பணிப்பாளர் நாயகத்தினால் பேராதனைப் பல்கலைக்கழகத்தின் வேந்தர் பேராசிரியர் ஜி.எச்.பீரிஸிடம் கையளிக்கப்பட்டது.
+🟩
 
-யுனெஸ்கோவின் தலைமை பணிப்பாளர் நாயகம் பல்கலைக்கழகத்திற்கு விஜயம் செய்ததைக் குறிக்கும் வகையில் பிரதிவேந்தர் பேராசிரியர் எம்.டி.லமவன்ச நினைவுச் சின்னம் ஒன்றை வழங்கினார்.
+The Mahavamsa, which describes the Buddhist history of Sri Lanka in the Peradeniya University Library, was declared a World Heritage Site on Wednesday (17).
 
-இலங்கையின் பெளத்த வரலாற்றைக் கூறும் நூல் என அறியப்படும் மகாவம்சம் கி.மு.6 ஆம் நூற்றாண்டில் மகாநாம தேரர் என்ற பெளத்த பிக்குவால் பாளி மொழியில் எழுதப்பட்டதாகும்.
+During this time, the Certificate of Declaration of Mahawasan was handed over to Professor GH Peiris, Professor of Peradeniya University by the Director General of UNESCO.
 
-உலக பாரம்பரிய இடங்கள், ஆவணங்களுக்கு அங்கீகாரம் வழங்கும் ஐக்கிய நாடுகள் சபையின் அறிவியல் மற்றும் பண்பாட்டு அமைப்பான யுனஸ்கோவானது, மகாவம்சத்தை உலக நினைவக ஆவணங்கள் பட்டியலில் மகாவம்சத்தையும் இணைத்துள்ளது.
+Prof. MD Lamawansa presented a monument to mark the visit to the University of UNESCO.
+
+The Mahavamsa, known as the Buddhist history of Sri Lanka, is written in the Pali language in the 6th century BC.
+
+The United Nations, the scientific and cultural organization of the United Nations, which recognizes the World Heritage Places and documents, has added the Mahavamsa to the World Memory documents to the Mahavamsa.
 
 ◼️
 
 [Data](articles/30856560.json)
+
+[Extended Data](ext_articles/30856560.ext.json)
 
 ---
 
@@ -116,19 +170,25 @@ The first match of the Sri Lanka Women's Base role is to be held tomorrow (20) a
 
 ---
 
-### யாழ். நெடுந்தீவு கடலில்  குழந்தை பிரசவம்
+### Yall. Baby delivery in the ocean
 
 *2024-07-19 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188813) · `ta`
 
-யாழ்ப்பாணம் நெடுந்தீவு பகுதியைச் சேர்ந்த பெண்ணொருவருக்கு பிரசவ வலி ஏற்பட்டதை அடுத்து , நெடுந்தீவு பிரதேச வைத்தியசாலையில் இருந்து , அம்புலன்ஸ் படகு மூலம் யாழ்ப்பாணம் கொண்டு வருவதற்கு நடவடிக்கை எடுக்கப்பட்டது.
+A woman experiencing childbirth pain in Jaffna was transported by boat to the Jaffna Bodhana Hospital due to medical assistance from officers onboard.
 
-படகில் மருத்துவ அதிகாரி, மருத்துவமாது உள்ளிட்டவர்களின் உதவியுடன் அப்பெண்ணை குறிகாட்டுவான் இறங்கு துறை நோக்கி அழைத்து வந்துள்ளனர்.
+🟩
 
-தொடர்ந்து தாயையும் சிசுவையும் குறிகாட்டுவான் அழைத்து வந்து, அங்கு தயார் நிலையில் இருந்த நோயாளார் காவு வண்டியில் யாழ்.போதனா வைத்தியசாலைக்கு அழைத்து சென்று அனுமதித்துள்ளனர்.
+Following a childbirth pain in the Jaffna area, a woman from the Neduntivu Divisional Hospital has taken steps to bring Jaffna to Jaffna by boat.
+
+With the help of the medical officer and the medical officer on the boat, the woman has been brought to the landing department.
+
+Subsequently, the mother and the fetus were taken to the Jaffna Bodhana Hospital in the Kavu Cross.
 
 ◼️
 
 [Data](articles/54b4c439.json)
+
+[Extended Data](ext_articles/54b4c439.ext.json)
 
 ---
 
@@ -875,6 +935,8 @@ The All Share Price Index went up by 68.7 points, while S and P SL20 declined by
 ...
 
 [Data](articles/ec58ada4.json)
+
+[Extended Data](ext_articles/ec58ada4.ext.json)
 
 ---
 
@@ -2141,39 +2203,5 @@ He was responding to a question raised by a media investigation at a media brief
 [Data](articles/12c02d04.json)
 
 [Extended Data](ext_articles/12c02d04.ext.json)
-
----
-
-### Nilantha Jayawardena sends mandatory leave
-
-*2024-07-18 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198959) · `si`
-
-Nilantha Jayawardena, former Director of State Intelligence Service, has taken mandatory leave starting today (18), while serving as Senior DIG.
-
-🟩
-
-Former Director of State Intelligence Service, Nilantha Jayawardena has decided to holiday to the immediate effect from today (18).
-
-The decision was taken while Nilantha Jayawardena was conducting the Senior DIG.
-
-◼️
-
-[Data](articles/1f7c7250.json)
-
-[Extended Data](ext_articles/1f7c7250.ext.json)
-
----
-
-### Senior DIG Nilantha Jayawardena sent on compulsory leave
-
-*2024-07-18 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100605/senior-dig-nilantha-jayawardena-sent-on-compulsory-leave-) · `en`
-
-Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena has been sent on compulsory leave with immediate effect, until such time that the disciplinary investigation against him pertaining to the Easter Sunday terror attacks is concluded, the National Police Commission said.
-
-◼️
-
-[Data](articles/335ad7ec.json)
-
-[Extended Data](ext_articles/335ad7ec.ext.json)
 
 ---

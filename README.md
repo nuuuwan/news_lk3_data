@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 00:20:15**
+As of **2024-07-20 00:36:16**
 
 ## Newspaper Stats
 
-*Scraped **36,186** Articles*
+*Scraped **36,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ bbccomsinhala | 355
 newsfirstlk | 363
 islandlk | 2,052
 economynextcom | 2,165
-dailyftlk | 2,304
+dailyftlk | 2,307
 adalk | 3,267
 adaderanalk | 4,178
 tamilmirrorlk | 4,395
 dailymirrorlk | 4,733
-virakesarilk | 5,660
+virakesarilk | 5,662
 adaderanasinhalalk | 6,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,186 (100.0%) of 36,186 articles have been extended.
+36,186 (100.0%) of 36,191 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,48 @@ Prisoners set fire to a prison in Nursingti district in the central part of Bang
 
 ---
 
+### A Machiavellian exercise?
+
+*2024-07-19 23:25:47* · [`dailyftlk`](https://www.ft.lk/columns/A-Machiavellian-exercise/4-764497) · `en`
+
+Why is the Government now, nine years later, without any issue having been raised by the Supreme Court or by any other court or tribunal, or in Parliament, or in any other forum, seeking to amend the Constitution for the sole purpose of replacing the words “six years” in Article 83 with the words “five years”?
+
+In the 16th century, the Florentine diplomat Niccolo Machiavelli, in his book “The Prince”, outlined ruthless ways to achieve and retain political power. The events of the past two weeks lead one to wonder whether attempts are now being made to give practical effect to some of those techniques in this country.
+
+...
+
+[Data](articles/24408d5b.json)
+
+---
+
+### Post-Aragalaya challenge to minorities
+
+*2024-07-19 23:23:57* · [`dailyftlk`](https://www.ft.lk/columns/Post-Aragalaya-challenge-to-minorities/4-764496) · `en`
+
+That uprising exposed at last the vacuity of SBM as a constructive national ideology and signalled the need for a model of governance that would deliver those ideals
+
+The 2022 Aragalaya was a landmark event in Sri Lankan politics. It was the harbinger for a new era in which the old political culture and governance with all its accoutrement would be thrown out and a new system of governance free of all past evils would be put in place. It was therefore an opportunity for the minorities who had suffered continually and immensely in the previous era to welcome this occasion. Instead, and shockingly, they are caught in a quandary and appear to have become saboteurs of the new and guardians of the old era.
+
+...
+
+[Data](articles/8e6aa1b5.json)
+
+---
+
+### Launch of ‘Lawmaking in Dutch Sri Lanka’
+
+*2024-07-19 23:21:46* · [`dailyftlk`](https://www.ft.lk/opinion/Launch-of-Lawmaking-in-Dutch-Sri-Lanka/14-764495) · `en`
+
+Tambapanni Academic Publishers invites the public for the launch of ‘Lawmaking in Dutch Sri Lanka: Navigating Pluralities in a Colonial Society’, written by Dr. Nadeera Rupesinghe.
+
+Prof. Dinesha Samararatne and Dr. Gehan Goonetilleke will discuss the book with Dr. Rupesinghe, at an event to be held at the auditorium of the National Archives, No. 7, Philip Gunewardena Mawatha on 22 July at 4 p.m. All are welcome.
+
+...
+
+[Data](articles/66354ea1.json)
+
+---
+
 ### The bus from Jaffna to Kadirgamam crashes
 
 *2024-07-19 23:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-இருந்து-கதிர்காமம்-சென்ற-பஸ்-விபத்துக்குள்ளானது/71-340699) · `ta`
@@ -69,6 +111,42 @@ A bus traveling from Jaffna to Kadirgamam to Kadirgamam, a bus traveling along t
 [Data](articles/1cfddbe2.json)
 
 [Extended Data](ext_articles/1cfddbe2.ext.json)
+
+---
+
+### சட்டவிரோத தையிட்டி திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் ஆரம்பம்!
+
+*2024-07-19 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188900) · `ta`
+
+யாழ்ப்பாணம் தையிட்டியில் அமைந்துள்ள சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான தொடர் போராட்டம் வெள்ளிக்கிழமை (19) ஆரம்பமாகி முன்னெடுக்கப்பட்டு வருகின்றது.
+
+சட்டவிரோத முறையில் அமைக்கப்பட்டுள்ள தையிட்டி திஸ்ஸ விகாரையை அகற்றுமாறு கோரி தமிழ்த்தேசிய மக்கள் முன்னணியினர், மக்களுடன் இணைந்து தொடர்ச்சியாக போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+குறித்த போராட்டத்தில், தமிழ் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளரும் நாடாளுமன்ற உறுப்பினருமான செல்வராஜா கஜேந்திரன், அக் கட்சியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ், பொதுமக்கள் மற்றும் கட்சியின் ஆதரவாளர்கள் இந்த போராட்டத்தில் கலந்துகொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a2af981f.json)
+
+---
+
+### மகளிர் ரி20 ஆசிய கிண்ணம்: பாகிஸ்தானை 7 விக்கெட்களால் வீழ்த்தியது இந்தியா
+
+*2024-07-19 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188899) · `ta`
+
+ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை (19) நடைபெற்ற ஏ குழுவுக்கான மகளிர் ரி20 ஆசிய கிண்ண 2ஆவது போட்டியில் பாகிஸ்தானை எதிர்த்தாடிய இந்தியா 7 விக்கெட்களால் வெற்றியீட்டியது.
+
+ரேனுகா சிங், தீப்தி ஷர்மா, ஷ்ரேயன்கா பட்டில் ஆகியோரது துல்லியமான பந்துவீச்சுகளும் ஷபாலி வர்மா, ஸ்ம்ரித்தி மந்தனா ஆகியோரது திறமையான துடுப்பாட்டங்களும் இந்தியாவை இலகுவாக வெற்றிபெறச் செய்தன.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த பாகிஸ்தான் 19.2 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 108 ஓட்டங்களை மாத்திரம் பெற்றது.
+
+சித்ரா ஆமின் (25), டுபா ஹசன் (22), பாத்திமா சானா (22) ஆகிய மூவரே 20 ஓட்டங்களுக்கு மேல் பெற்றனர்.
+
+இந்திய பந்துவீச்சில் தீப்தி ஷர்மா 20 ஓட்டங்களுக்கு 3 விக்கெட்களையும் ரேனுகா சிங் 14 ஓட்டங்களுக்கு 2 விக்கெட்களையும் ஷ்ரேயன்கா பட்டில் 14 ஓட்டங்களுக்கு 2 விக்கெட்களையும் பூஜா வஸ்த்ராக்கர் 31 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
+
+...
+
+[Data](articles/99b5be08.json)
 
 ---
 
@@ -2309,117 +2387,5 @@ Due to this, long queues and congestion in front of the Department of Immigratio
 [Data](articles/7fe77332.json)
 
 [Extended Data](ext_articles/7fe77332.ext.json)
-
----
-
-### The death of the wasp in Batticaloa
-
-*2024-07-19 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188826) · `ta`
-
-An elderly man named Ramachandram Muthulingam, father of nine from Batticaloa, died unexpectedly while being treated at the Batticaloa Teaching Hospital. The 70-year-old fell from a tree and was admitted to the hospital but passed away before receiving proper treatment. An investigation into his sudden death is underway, including an anatomical examination as directed by the Eravur Police Directorate.
-
-🟩
-
-An elderly man who was a wasps was undergoing treatment at the Batticaloa Teaching Hospital, who died without treatment.
-
-Ramachandran Muthulingam, father of nine children from Mayilambaveli, Batticaloa, died on Thursday (18).
-
-When the man went to his daughter's house on Friday, the 12th of this month, he was admitted to the hospital after he was admitted to the hospital after falling into the tree.
-
-In accordance with the Eravur Police Directorate, the sudden death investigator at the Batticaloa Teaching Hospital, Thambipillai Dawakumar, told the legal officer to investigate the incident and submit an anatomical examination after visiting the body.
-
-◼️
-
-[Data](articles/6ad918ce.json)
-
-[Extended Data](ext_articles/6ad918ce.ext.json)
-
----
-
-### Booking is necessary to apply for passport
-
-*2024-07-19 10:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்கு-விண்ணப்பிக்க-முன்பதிவு-அவசியம்/175-340677) · `ta`
-
-Starting today, applicants must register online before visiting the Department of Immigration and Emigration to obtain a passport. This new system requires scheduling an appointment via email, eliminating walk-in services.
-
-🟩
-
-The Department of Immigration and Emigration said that it was necessary to register on the Internet when applying for a passport and that the new system would come into effect from today (19).
-
-The department added that it is not possible to go to the department and get a passport without giving the first date and time through the e -mail registration system.
-
-◼️
-
-[Data](articles/6c9f5f0c.json)
-
-[Extended Data](ext_articles/6c9f5f0c.ext.json)
-
----
-
-### Explosive incident near US embassy in Israeli capital
-
-*2024-07-19 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/188822) · `ta`
-
-In Tel Aviv, near the US embassy, an explosion killed one and injured eight. A 50-year-old man died in the blast, which occurred close to several diplomatic offices but did not damage the embassy building. Investigations suggest it may have been an unmanned airstrike. The US is closely monitoring the situation.
-
-🟩
-
-One person has been killed in an explosion near the US embassy's branch in the Israeli capital, Tel.
-
-A 50 -year -old man was killed in the explosion, which took place in the area where several embassies were located in diplomatic offices.. 8 people were injured.
-
-The incident took place 300 meters from the US embassy's branch.
-
-An official who informed CNN that the US is closely observing the situation, said the explosion near the branch office said the building was not damaged.
-
-An Israeli official said that investigations are being carried out in the course of an unmanned air strike.
-
-◼️
-
-[Data](articles/85822ce3.json)
-
-[Extended Data](ext_articles/85822ce3.ext.json)
-
----
-
-### “Huge responsibility” delays Sri Lanka’s SOE restructuring: State FinMin
-
-*2024-07-19 10:39:00* · [`economynextcom`](https://economynext.com/huge-responsibility-delays-sri-lankas-soe-restructuring-state-finmin-172824/) · `en`
-
-ECONOMYNEXT – Restructuring of Sri Lanka’s state-owned enterprises (SOEs) is delayed as the government needs to ensure transparency, maximum value for them, protection of employees’ rights, and improvement in the quality of the service, State Finance Minister Ranjith Siyambalapitiya said.
-
-His comment comes after President Ranil Wickremesinghe’s government has not restructured any SOEs in the last two years despite calling for bids and shortlisting both local and international companies.
-
-After tedious efforts by the SOE Restructuring Unit under the Finance Ministry, the government last week decided to terminate the current bidding process with respect to the divestiture of loss-making Sri Lankan Airlines, and said it will follow an alternate strategy which is to be decided shortly.
-
-...
-
-[Data](articles/5c16e85d.json)
-
-[Extended Data](ext_articles/5c16e85d.ext.json)
-
----
-
-### Powerful earthquake in Chile
-
-*2024-07-19 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188821) · `ta`
-
-A powerful earthquake hit Chile, measuring 7.3 on the Richter scale near Antofagasta, causing no tsunami but potentially significant damage due to its location in the seismic active Pacific Ring of Fire.
-
-🟩
-
-A powerful earthquake struck in Chile on the South American continent today. The earthquake recorded 7.3 on the Richter scale, according to the US Geological Survey.
-
-The earthquake was centered on a depth of 126 kilometers below the earth in the coastal city of Antopagasta.. Information about the impacts of this earthquake is yet to be available. Despite the earthquake in the coastal city, no tsunami warning was issued.
-
-Chilean Country is located in the Ring of Fire Model of the Pacific Ocean. The Pacific Ring of Fire is an important part of the Pacific Ocean, where many earthquakes and volcanic eruptions occur. It is customary for earthquakes in Chile located in the basin.
-
-526 people were killed in an 8.8 -magnitude earthquake in Chile in 2010. Last January, a 5.3 magnitude earthquake struck in Tarabaka, North Chile. In this case, a powerful earthquake in Chile today.
-
-◼️
-
-[Data](articles/245d37d8.json)
-
-[Extended Data](ext_articles/245d37d8.ext.json)
 
 ---

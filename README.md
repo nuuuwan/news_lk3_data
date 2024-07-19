@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 18:37:42**
+As of **2024-07-19 18:54:31**
 
 ## Newspaper Stats
 
@@ -26,43 +26,61 @@ adaderanasinhalalk | 6,049
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,148 (100.0%) of 36,154 articles have been extended.
+36,154 (100.0%) of 36,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### රජයෙන් වෙළෙන්දන්ට පණිවුඩයක්
+### A message to vendors from the government
 
 *2024-07-19 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198994) · `si`
 
-රජය විසින් ලබාදෙන සහන පාරිභෝගියාටද ලබාදීමට ව්‍යාපාරික ප්‍රජාව කටයුතු නොකළහොත් ඇතැම් භාණ්ඩ සඳහා පාලන මිලක් නියම කිරීමට සිදුවන බව වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පැවසීය.
+Government warns businesses: Amend Consumer Act or face price controls. Minister Nalin Fernando urges action to aid consumers, proposing weekly price statements for 15 essentials. Discussion with trade associations planned.
 
-පාරිභෝගික පනත සංශෝධනය කිරීම සඳහා අදාළ යෝජනා ඉදිරි සති දෙක තුළ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට සැලසුම් කර තිබෙන බවද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-වෙළඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලින් ප්‍රනාන්දු මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (19) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+If the business community does not act to give the government to the relief consumers, the business community, Minister of Trade, Commerce and Food Security Minister Nalin Fernando said.
 
-"මේ වන විට අත්‍යවශ්‍ය භාණ්ඩ 15ක් සඳහා සතියකට වරක් අප මිල ප්‍රකාශ කිරීමක් සිදුකරනවා. නමුත් රජය විසින් ලබාදෙන සහන පාරිභෝගිකයාට නොලැබෙන බවක් නිරීක්ෂණය වෙනවා. මේ සම්බන්ධව ඉදිරි දින කිහිපය තුළ වෙළඳ සංගම් සමග සාකච්ඡා කිරීමට බලාපොරොත්තු වෙනවා. අප විසින් ලබාදෙන සහන පාරිභෝගියාට ලබා නොදෙන්නේ නම් ඇතැම් භාණ්ඩ සඳහා පාලන මිලක් නියම කිරීමට සිදු වන බව පැවසිය යුතුයි".
+The following proposals are to be tabled in Parliament within the next two weeks to amend the Consumer Act.
+
+Trade, Commerce and Food Security Minister Nalin Fernando made this statement participating at a press conference held at the Presidential Media Center today (19).
+
+"We are making a price statement once a week for 15 essential items. However, the relief consumer offered by the government is observed. Looking to discuss with trade associations in the next few days. If we do not give customary customers, you need to say that there is a control price for certain items. "
 
 ◼️
 
 [Data](articles/9cffd658.json)
 
+[Extended Data](ext_articles/9cffd658.ext.json)
+
 ---
 
-### ஜனாதிபதியின் சூழ்ச்சிக்கு தேர்தல்கள் ஆணைக்குழு அகப்பட கூடாது - முஜிபுர் ரஹ்மான்
+### Elections Commission should not be taken to the president's intrigue - Mujibur Rahman
 
 *2024-07-19 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188891) · `ta`
 
-ஜனாதிபதியினதும், அரசாங்கத்தினதும் சூழ்ச்சிக்கு அகப்படாமல் தேர்தல்கள் ஆணைக்குழு மக்களின் ஜனநாயக உரிமையை பாதுகாக்க வேண்டும். மஹிந்தானந்த அளுத்கமகேவின் நிலைக்கு ஜனாதிபதி சென்றுள்ளமை கவலைக்குரியது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+Mujibur Rahman criticizes the Elections Commission for not protecting democratic rights due to presidential influence, highlighting concerns over the government's attempts to delay elections and the lack of action against corruption.
 
-எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் வெள்ளிக்கிழமை (19) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தல் தற்போது சூடு பிடித்துள்ளது.ஜனாதிபதி தேர்தலை பிற்போடுவதற்கு ரணில் - ராஜபக்ஷ அரசாங்கம் ஆரம்பத்தில் இருந்து சூழ்ச்சி செய்கிறது. கடந்த ஆண்டு மார்ச் மாதம் நடத்த வேண்டிய உள்ளூராட்சி மன்றத் தேர்தலை நிதி இல்லை என்று குறிப்பிட்டுக் கொண்டு அரசாங்கம் பிற்போட்டது.படுதோல்வியடைவதை தவிர்ப்பதற்காகவே உள்ளூராட்சி மன்றத் தேர்தலை அரசாங்கம் பிற்போட்டது.
+The Elections Commission must protect the democratic rights of the people without the intrigue of the president and the government. United People's Power MP Mujibur Rahman said that the President's visit to Mahindananda Aluthgamage is worrying.
+
+He made this statement during a media briefing held at the Opposition Leader's office on Friday (19).
+
+The Ranil -Rajapakse government is maneuvering from the beginning to dismiss the presidential election.. The government was postponing the local government elections in March last year.
+
+The president said that the president would be held at a timely manner, but his friends, including his party's chairman and general secretary, said that the president should be given a further two years.
+
+The United National Party has urged the Election Commission to hold the election quickly.
+
+The Elections Commission should protect the democratic rights of the people without the intrigue of the president and the government.
 
 ...
 
 [Data](articles/ffad80a1.json)
+
+[Extended Data](ext_articles/ffad80a1.ext.json)
 
 ---
 
@@ -118,69 +136,103 @@ SriLankan asked SriLankan calling their Global Relations Center for further assi
 
 ---
 
-### தீபாவளிக்கு வெளியாகும் சிவ கார்த்திகேயனின் 'அமரன்'
+### Shiva Karthikeyan's 'Amaran', which is released on Diwali
 
 *2024-07-19 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/188871) · `ta`
 
-தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகரான சிவகார்த்திகேயன் நடிப்பில் தயாராகி இருக்கும் 'அமரன்' திரைப்படத்தின் வெளியிட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+"Amaran," starring Sivakarthikeyan, Sai Pallavi, and Rahul Bose, directed by Rajkumar Periyasamy, is set for release on Diwali, October 31st. The film, produced by Rajkamal Film International and Sony Pictures Films India, tells the story of Major Mukund Varadarajan, an Indian Army hero. Fans eagerly anticipate this Diwali gift.
 
-'ரங்கூன்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் ராஜ்குமார் பெரியசாமி இயக்கத்தில் உருவாகி இருக்கும் 'அமரன்' எனும் திரைப்படத்தில் சிவகார்த்திகேயன், சாய் பல்லவி, ராகுல் போஸ், ஸ்ரீ குமார், ஷ்யாம் மோகன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சி. ஹெச். சாய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+🟩
 
-இந்திய ராணுவத்தில் பணியாற்றி வீர மரணம் அடைந்த மேஜர் முகுந்த் வரதராஜனின் வாழ்க்கை வரலாறைத் தழுவி தயாராகி இருக்கும் இந்த திரைப்படத்தை ராஜ்கமல் ஃபிலிம் இன்டர்நேஷனல் மற்றும் சோனி பிக்சர்ஸ் ஃபிலிம்ஸ் இந்தியா ஆகிய இரண்டு நிறுவனங்களும் இணைந்து தயாரித்திருக்கிறது.
+Sivakarthikeyan, the leading star actor of the Tamil film industry, has been officially announced by the release of 'Amaran', which is ready for the upcoming film 'Amaran'.
 
-படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வரும் தருணத்தில் படத்தின் வெளியீடு குறித்த அதிகாரப்பூர்வமான அறிவிப்பு வெளியாகி இருக்கிறது.
+Sivakarthikeyan, Sai Pallavi, Rahul Bose, Sri Kumar, Shyam Mohan, directed by director Rajkumar Periyasamy, directed by director Rajkumar Periyasamy, directed by 'Rangoon'.. C. H. Sai is a video of the film.. V.. Prakash Kumar has composed the music.
 
-...
+The film is being produced by two Rajkamal Film International and Sony Pictures Films India, which is preparing for the biography of Major Mukund Varadarajan, who died in the Indian Army.
+
+The official announcement of the release of the film has been released at the time of the post -shooting technology.
+
+The film will be released on October 31st. Diwali is a Diwali gift for fans because it is a Diwali festival on that day. This is why Sivakarthikeyan's fans are excited.
+
+◼️
 
 [Data](articles/7f4ef1e3.json)
 
+[Extended Data](ext_articles/7f4ef1e3.ext.json)
+
 ---
 
-### மாரி செல்வராஜின் பறவை- முத்தம்- 'வாழை'
+### Mari Selvaraj's bird- kissing- 'banana'
 
 *2024-07-19 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188875) · `ta`
 
-தமிழ் சினிமாவின் ஒப்பற்ற குணச்சித்திர நடிகரான கலையரசன் கதையின் நாயகனாக நடித்திருக்கும் 'வாழை' எனும் திரைப்படத்தில் இடம்பெற்ற 'தென்கிழக்கு தேன் சிட்டு..' எனும் முதல் பாடல் - பாடலுக்கான லிரிக்கல் வீடியோ மற்றும் காணொலி ஆகியவை வெளியாகி இருக்கிறது.
+"Banana," directed by Mari Selvaraj, features "Southeast Honey Situ," its first song, in the film "Vazha." Starring Kaliyarasan, it includes contributions from producers like Kalaipuli S Thanu and directors such as Ranjith and Ram. Santosh Narayanan composed the music, with Theni Eswar recording it. The film, awaited for release on August 23rd, also includes a lyric video for the song, penned by Yukabarathi and sung by Dhee, set against beautiful landscapes.
 
-இதற்காக சென்னையில் நடைபெற்ற பிரத்யேக வெளியீட்டு விழாவில் தயாரிப்பாளர் கலைப்புலி எஸ் தாணு, ரெட் ஜெயன்ட் மூவிஸ் செண்பக மூர்த்தி, இயக்குநர் பா.  ரஞ்சித், இயக்குநரும், நடிகருமான ராம் உள்ளிட்ட பல பிரபலங்கள் அதிதியாக பங்கு பற்றினர்.
+🟩
 
-'பரியேறும் பெருமாள்', 'கர்ணன்', 'மாமன்னன்' ஆகிய படங்களை இயக்கி தமிழ் சினிமாவில் தனித்துவமான இடத்தை பிடித்திருக்கும் படைப்பாளி மாரி செல்வராஜ் இயக்கத்தில் உருவாகி இருக்கும் 'வாழை' எனும் திரைப்படத்தில் கலையரசன், நிகிலா விமல், திவ்யா துரைசாமி, குழந்தை நட்சத்திரம் ராகுல் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The first song 'Southeast Honey Situ', which was featured in the film 'Vazha', starring the hero of the story of Tamil cinema, Kaliyarasan is the hero of the song - the lyrical video and video for the song.
+
+Producer Kalaipuli S Thanu, Red Giant Movies Shenbaga Murthy, Director Pa.Many celebrities including Ranjith, director and actor Ram participated.
+
+'Banana', directed by the creator Mari Selvaraj, who has a unique place in Tamil cinema, has directed the films 'Periyarum Perumal', 'Karna' and 'Mamannan'.
+
+Santosh Narayanan has composed the film, which is being recorded by Theni Eswar. Divya Mari Selvaraj and Dileep Subbarayan have produced the film on behalf of Navi Studios and Farmers Master Plan Production Companies.. The film is provided by Red Giant Movies.
+
+All the tasks of the film were completed and waited for the release. The film is expected to be released worldwide on August 23rd.
 
 ...
 
 [Data](articles/93370e9d.json)
 
+[Extended Data](ext_articles/93370e9d.ext.json)
+
 ---
 
-### ஹிப் ஹொப் தமிழா ஆதி நடிக்கும் 'கடைசி உலகப் போர்'
+### Hip Hope Tamil Adi starring 'Last World War'
 
 *2024-07-19 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188874) · `ta`
 
-சுயாதீன இசை கலைஞராக அறிமுகமாகி, திரைப்பட இசையமைப்பாளராக பிரபலமாகி, நடிகராகவும், இயக்குநராகவும், தயாரிப்பாளராகவும் தன்னை உயர்த்திக் கொண்டவர் ஹிப் ஹொப் தமிழா ஆதி. அவரது இயக்கத்தில் உருவாகும் புதிய திரைப்படத்திற்கு 'கடைசி உலகப் போர்' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+"Independent musician Hip Hop Thamizha Adhi, known for composing film scores, directs 'Last World War.' The film, featuring director Hip Hope and cinematographer/actor Natraj, is produced by Hip Hope Tamil Entertainment. Despite initial support, the team faces skepticism about its commercial success."
 
-'மீசைய முறுக்கு', 'சிவக்குமாரின் சபதம்' ஆகிய படங்களை இயக்கிய இயக்குநர் ஹிப் ஹொப் தமிழா ஆதி இயக்கத்தில் உருவாகும் 'கடைசி உலக போர்' எனும் திரைப்படத்தில் ஹிப் ஹொப் தமிழா ஆதி கதையின் நாயகனாக நடிக்கிறார். ஒளிப்பதிவாளரும், நடிகருமான நட்டி என்கிற நட்ராஜ் முக்கிய வேடத்தில் நடித்திருக்கிறார்.
+🟩
 
-அர்ஜுன் ராஜா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹிப் ஹொப் ஆதி தமிழா இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஹிப் ஹொப் தமிழா என்டர்டெயின்மென்ட் பட நிறுவனம் சார்பில் ஹிப் ஹொப் தமிழா தயாரித்திருக்கிறார்.இப்படத்தின் ஃபர்ஸ்ட் லுக்கை பட குழுவினர் வெளியிட்டுள்ளனர்.
+Hip Hop Thamila Adi is an independent musician, becoming popular as a film composer. The new film directed by his movement is named 'Last World War' and its first look has been released.
 
-...
+Director Hip Hope, who directed the films 'Meesaya Turukku' and 'Sivakumar's vow', will be playing the hero of Hip Hope Adi Story in the film 'Last World War' directed by Adi Adi.. Natraj, the cinematographer and actor, plays the lead role.
+
+Arjun Raja has composed the film Hip Hope Adi Tamil. The film has been produced by Hip Hope Tamil Entertainment Film Company.
+
+In the meantime, the filmmakers have reported that the filmmakers are not supportive of the 'Last World War' film, which is ready for the film 'Last World War', which is not commercially successful in the Hip Hop Tamil Adi movement.
+
+◼️
 
 [Data](articles/aee53763.json)
 
+[Extended Data](ext_articles/aee53763.ext.json)
+
 ---
 
-### பாடகர் அறிவு எழுதி, பாடி, இசையமைத்திருக்கும் 'வள்ளியம்மா பேராண்டி' சுயாதீன இசை அல்பம்
+### 'Valliyamma Perandi' is an independent music album
 
 *2024-07-19 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188877) · `ta`
 
-திறமையுள்ள இசைக்கலைஞர்கள் தங்களது இசை திறமையை சுயாதீன இசை அல்பங்கள் மூலம் வெளியிட்டு, தங்களை இசை கலைஞர்களாக அடையாளப்படுத்திக் கொள்கிறார்கள். இவர்களுக்கான சந்தை மதிப்பும், இசை ரசிகர்களின் வரவேற்பும் தொடர்ந்து அதிகரித்து வருவதால் இசை நிறுவனங்களும் சுயாதீன இசைக் கலைஞர்களை உற்சாகப்படுத்தி வருகிறது.
+"Valliamma Perandi," an independent Tamil music album by a local musician, highlights the growing recognition of independent artists. Launched in Chennai with guests like director Pa. Ranjith and social activist Sivagami, it features twelve songs reflecting various emotions. Inspired by folk singers and aiming to honor bravery, the album's title pays tribute to the artist's mother, emphasizing the need for courage and support for independent music.
 
-அந்த வகையில் தமிழ் இசையுலகில் 'தெருக்குரல்' அறிவு என அறிமுகமாகி, பிரபலமான அறிவு- பாடல் எழுதி, இசையமைத்து, பாடி, ஆடி, நடித்து உருவாக்கி இருக்கும் சுயாதீன இசை அல்பம் :வள்ளியம்மா பேராண்டி'. இந்த இசை அல்பத்தை இசையுலகின் முன்னணி நிறுவனமான சோனி மியூசிக் வெளியிட்டிருக்கிறது.
+🟩
 
-இந்த சுயாதீன இசை அல்பம் வெளியீட்டு விழா சென்னையில் மிகப் பிரம்மாண்டமாக நடைபெற்றது. இதன் போது இயக்குநர் பா. ரஞ்சித், சமூக செயற்பாட்டாளர் சிவகாமி ஐ. ஏ. எஸ். இசையமைப்பாளர் டி. இமான் ஆகியோர் சிறப்பு அதிதிகளாக பங்கு பற்றினர்.
+Topical musicians publish their musical skills through independent music and identify themselves as musicians. The market value for them and the reception of music fans continues to increase as music companies are encouraging independent musicians.
+
+In that way, the Tamil musician is introduced as' Therukkural 'knowledge, the famous knowledge- the song, the music, the song, the singing, the independent music: Valliamma Perandi'. The music is published by Sony Music, the leading company of music.
+
+This independent music album launch was held in Chennai. During this time the Director Pa. Ranjith, Social activist Sivagami. A.. S.. Composer D. Iman participated as special guests.
+
+Speaking at the event, he said, “I grew up listening to the songs of the artist Dalit Subbiah at an early age.. It was only after hearing the voice of folk singer Anthony Dasan that we could be the background singer.. After that. Ranjith presented. At that time I was trying to publish independent music.
 
 ...
 
 [Data](articles/e053dd4d.json)
+
+[Extended Data](ext_articles/e053dd4d.ext.json)
 
 ---
 

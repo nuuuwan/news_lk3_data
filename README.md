@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 11:55:41**
+As of **2024-07-19 12:09:01**
 
 ## Newspaper Stats
 
-*Scraped **36,091** Articles*
+*Scraped **36,094** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 319
 colombotelegraphcom | 338
-bbccomsinhala | 353
+bbccomsinhala | 354
 newsfirstlk | 363
 islandlk | 2,051
 economynextcom | 2,156
 dailyftlk | 2,304
 adalk | 3,262
-adaderanalk | 4,162
+adaderanalk | 4,163
 tamilmirrorlk | 4,387
 dailymirrorlk | 4,733
 virakesarilk | 5,629
-adaderanasinhalalk | 6,034
+adaderanasinhalalk | 6,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,085 (100.0%) of 36,091 articles have been extended.
+36,091 (100.0%) of 36,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### මෙවර ජනපතිවරණයට මැතිවරණ වියදම් නියාමන පනත අනිවාර්යයයි
+
+*2024-07-19 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198979) · `si`
+
+එළඹෙන ජනාධිපතිවරණය සඳහා මැතිවරණ වියදම් නියාමන පනත අනිවාර්යයෙන්ම යොදා ගන්නා බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+අද දෙරණ කළ විමසීමක දී මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසුවේ මෙම පනත ජනමත විචාරණයකට හැර පැවැත්වීමට නියමිත සෑම මැතිවරණයකටම යොදා ගන්නා බවය.
+
+මෙම මැතිවරණ වියදම් නියාමන පනත ක්‍රියාත්මක වන ආකාරය සම්බන්ධයෙන් පක්ෂ ලේකම්වරුන්, රාජ්‍ය නිලධාරීන් ඇතුළු සියලු අංශ දැනුවත් කර ඇති බවද සමන් ශ්‍රී රත්නායක මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/28967ec0.json)
+
+---
+
+### Sri Lanka scraps plan to sell loss-making national airline
+
+*2024-07-19 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100617/sri-lanka-scraps-plan-to-sell-loss-making-national-airline-) · `en`
+
+Sri Lanka has scrapped plans to sell off its indebted national airline despite shortlisting three potential buyers, the government’s privatisation agency said Friday.
+
+Colombo called for bids in September to sell SriLankan Airlines, a key IMF demand when granting a bailout loan to the country last year.
+
+Six firms had initially expressed interest in taking a stake in the airline, which owed more than $2.0 billion at the end of the 2022/2023 financial year.
+
+The government announced in April a shortlist of three potential investors, including Malaysia’s Air Asia.
+
+However, on Friday, the State Owned Enterprises Restructuring Unit said it had called off the sale.
+
+“The cabinet of ministers at a meeting on July 9 decided to terminate the current bidding process with regard to the divestiture of SriLankan Airlines,” it said in a brief statement without giving any reasons for the decision.
+
+...
+
+[Data](articles/703a5dab.json)
+
+---
 
 ### Sri Lanka scraps plan to sell loss-making national airline – report
 
@@ -54,6 +92,8 @@ It added that the government will follow an “alternate strategy” regarding t
 
 [Data](articles/ba0ca7d5.json)
 
+[Extended Data](ext_articles/ba0ca7d5.ext.json)
+
 ---
 
 ### Japan willing to restart stalled Sri Lanka projects, LRT to be reevaluated
@@ -71,6 +111,8 @@ The Japanese officials said there was potential to resume the Light Railway Tran
 ...
 
 [Data](articles/710bb8d7.json)
+
+[Extended Data](ext_articles/710bb8d7.ext.json)
 
 ---
 
@@ -183,6 +225,8 @@ After tedious efforts by the SOE Restructuring Unit under the Finance Ministry, 
 ...
 
 [Data](articles/5c16e85d.json)
+
+[Extended Data](ext_articles/5c16e85d.ext.json)
 
 ---
 
@@ -419,6 +463,8 @@ In equities, Colombo’s All Share Price Index opened 5.60 points higher at 11,7
 ◼️
 
 [Data](articles/02cd8e2e.json)
+
+[Extended Data](ext_articles/02cd8e2e.ext.json)
 
 ---
 
@@ -779,6 +825,8 @@ The parties should have a strong balance sheet and expertise, as there were the 
 ◼️
 
 [Data](articles/686b6851.json)
+
+[Extended Data](ext_articles/686b6851.ext.json)
 
 ---
 
@@ -1409,6 +1457,26 @@ The restaurant’s exotic culinary creations were featured at the main “Sangee
 [Data](articles/32e7d221.json)
 
 [Extended Data](ext_articles/32e7d221.ext.json)
+
+---
+
+### ජනාධිපතිවරණය කල් දැමීමට තවත් ‘තුරුම්පු’ ඉතිරි වී තිබේ ද?
+
+*2024-07-19 03:56:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vdy7y488yo) · `si`
+
+‘සමාජ සම්මුතිය පාලකයා විසින් ඉරා දමනු ලබන්නේ නම්, ජනතාවට විප්ලව කිරීමේ අයිතිය ලැබෙන බව ජෝන් ලෝක් කියන බ්‍රිතාන්‍ය ජාතික සමාජ සම්මුතිවාදී චින්තකයා කියල තියෙනවා. එහෙම වෙන්න කියල මම කියන්නෙ නෑ. ඒත්, දිගින් දිගට ම ඡන්දය කල් දැමීම අනතුරකට අත වැනීමක්,’දේශපාලන විශ්ලේෂකයෙකු වන ආචාර්ය දයාන් ජයතිලක බීබීසී සිංහල සේවයට පැවසීය.
+
+ඔහු ඒ බව පැවසුවේ, ජනාධිපතිවරණය කල් දැමීම සඳහා ක්‍රියාත්මක උත්සහයන් නිරීක්ෂණය කරමිනි.
+
+ඡන්දයක් පැවැත්වීම ප්‍රමාද කිරීම සඳහා රනිල් වික්‍රමසිංහ ප්‍රමුඛ රජය විවිධ උත්සහයන්වල නිරත වන බව දක්නට ලැබෙන බව දේශපාලන විශ්ලේෂකයෝ බොහෝ දෙනෙක් පෙන්වා දෙති.
+
+ජනාධිපතිවරණය කල් දාන්න ඉල්ලූ රංගේ බණ්ඩාර දැන් ඉක්මන් ඡන්දයක් ඉල්ලන්නේ ඇයි?
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත් ආකාරයෙන් සම්මත වී නොමැති නිසා එය ජනමත විචාරණයකට යොමු කර ඉන් අනුමැතිය ලබා ගන්නා තුරු ජනාධිපතිවරණයක් පැවැත්වීම තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝණය වන බවට තීන්දුවක් ලබා දෙන ලෙසට ඉල්ලා ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙන රුපියල් ලක්ෂ 5ක නඩු ගාස්තුවකට යටත්ව නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය ජූලි 15 වැනිදා නියෝග කළේ ය.
+
+...
+
+[Data](articles/bb2276e3.json)
 
 ---
 
@@ -2143,67 +2211,5 @@ The fuel carrier named Prestige Falcon, who sailed under the Corocess Falgon, is
 [Data](articles/6a58f3d2.json)
 
 [Extended Data](ext_articles/6a58f3d2.ext.json)
-
----
-
-### The 4 -year -old girl was assassinated
-
-*2024-07-18 21:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-வயதுச்-சிறுமி-கொலை-செய்யப்பட்டது-உறுதியானது/175-340646) · `ta`
-
-A tragic event occurred when a 4-year-old girl was found dead in a well in the Kegalle-Ruwanwella region. The initial investigation suggests she was pushed into the well by her mother, who is disabled and hospitalized. The parents are receiving police protection. Further inquiries are ongoing.
-
-🟩
-
-A 4 -year -old girl who was found dead from a well in the Kegalle -Ruwanwella police division has been murdered, police said.
-
-A four -year -old girl died in a well in Yattiyantota area between 11.17 and 5.30 am last Tuesday night.
-
-Initial investigations by the police revealed that the mother had been killed by the girl by throwing her into the well.
-
-The mother and father of the deceased girl is in disabilities and is being treated for police protection at the Karawanella Hospital due to her mother's illness.
-
-The girl's body has been handed over to relatives and further investigations into the incident are being carried out by Ruwanwella Police.. Remble
-
-◼️
-
-[Data](articles/0df1c876.json)
-
-[Extended Data](ext_articles/0df1c876.ext.json)
-
----
-
-### Captain   Miller’s  Suicide Attack in Nelliaddy   on 5 July 1987 Gave Birth to the “Karumpuligal”  ( Black Tigers)
-
-*2024-07-18 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84399) · `en`
-
-Vallipuram Vasanthan alias “Captain Miller” the  first Suicide bumber of the Liberation Tigers of Tamil Eelam(LTTE) is the focus of this two -part article.   A brief description of the pioneering “Black Tiger” or “Karumpuli” and events leading to the  first Black Tiger operation on 5 July 1987   was outlined  in the first part published last week.  Details of the LTTE attack on the military camp  at the Nelliaddy MMV school premises would be related in this second and concluding part.
-
-As stated earlier the  Sri Lankan Armed forces had re-taken control of the Vadamaratchi sector in the Northern  Jaffna peninsula through “Operation Liberation” launched on 27 May 1987. The army may have  continued with the military push and attempted to seize control of Jaffna town but for Indian intervention.
-
-...
-
-[Data](articles/4645d3a8.json)
-
-[Extended Data](ext_articles/4645d3a8.ext.json)
-
----
-
-### Presidential election: Action to eliminate uncertainty
-
-*2024-07-18 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188797) · `ta`
-
-Justice Minister Vijayadasa Rajapakse has directed the Ministry to postpone discussions on the 22nd Amendment until after the presidential election, aiming to reduce uncertainty surrounding the vote.
-
-🟩
-
-Minister of Justice Dr. Vijayadasa Rajapakse has issued a directive to the Secretary of the Ministry of Justice to avoid the issue of the 22nd Amendment to the Cabinet until the presidential election.
-
-Minister Vijayadasa Rajapakse has said that this action has been taken to eliminate the uncertainty of the presidential election.
-
-◼️
-
-[Data](articles/6ca721f5.json)
-
-[Extended Data](ext_articles/6ca721f5.ext.json)
 
 ---

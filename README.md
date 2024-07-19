@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 20:06:18**
+As of **2024-07-19 20:20:12**
 
 ## Newspaper Stats
 
@@ -26,65 +26,89 @@ adaderanasinhalalk | 6,049
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,157 (100.0%) of 36,161 articles have been extended.
+36,161 (100.0%) of 36,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### சாவகச்சேரி சர்ச்சை - விசாரணைக்கு அழைப்பு
+### Chavakachcheri Controversy - Call for Inquiry
 
 *2024-07-19 19:55:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-சர்ச்சை-விசாரணைக்கு-அழைப்பு/71-340685) · `ta`
 
-சாவகச்சேரி ஆதார வைத்தியசாலைக்கு இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய இணைப்பாளர் தங்கவேல் கனகராஜ் தலைமையிலான  குழுவினர் அவதானிப்பு விஜயம் ஒன்றை கடந்த 5ஆம் திகதி மேற்கொண்டிருந்தனர்.
+A controversy arose after a team from the Sri Lanka Human Rights Commission visited Chavakachcheri Resource Hospital due to complaints about service difficulties. A meeting was held with health officials on July 8, 2024, to discuss human rights concerns. Following this, a letter was sent to schedule another discussion at the commission on July 30, 2024, to address these issues further.
 
-பொதுமக்கள் தமக்கான சேவைகளை பெற்றுகொள்வதில் இடர்பாடுகளை சந்திப்பதாக அலுவலகத்துக்கு கிடைத்த தொலைபேசி முறைப்பாடுகளுக்கு அமைய அக்களவிஜயம் மேற்கொள்ளப்பட்டது.
+🟩
 
-அக்களவிஜயத்தில் எம்மால் பெற்றுக்கொள்ளப்பட்ட மனித உரிமைகள்சார் பிரச்சனைகள் தொடர்பில் கடந்த  08.07.2024 ஆம் திகதி வடக்கு மாகாண சுகாதார அமைச்சின் செயலாளர், வடக்கு மாகாண சுகாதார சேவைகள்  பணிப்பளார், யாழ்ப்பாண பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், ஆகியோருடன் கலந்துரையாடல் ஒன்று எமது காரியாலயத்தில் இடம்பெற்றது.
+A team led by the Jaffna Regional Coordinator of the Sri Lanka Human Rights Commission, Thangavel Kanakaraj, was conducting an observation visit to Chavakachcheri Resource Hospital on the 5th.
 
-அதன் அடுத்தகட்ட நடவடிக்கையாக, மத்திய மற்றும் மாகாண சுகாதார சேவை அதிகாரிகளை   இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் கொழும்பு  தலைமைக்காரியாலத்தில் இடம்பெறவிருக்கும் விசேட கலந்துரையாடல் ஒன்றுக்கு   எதிர்வரும் 30.07.2024 பிற்பகல் 1.30 மணிக்கு வருமாறு கடிதம் அனுப்பப்பட்டுள்ளது.
+The telephone complaint was made in accordance with the office received by the public to face difficulties in receiving their services.
+
+A discussion was held on 08.07.2024 with the Secretary of the Ministry of Health, Northern Provincial Health Services and Director of Regional Health Services in Jaffna on 08.07.2024 on the human rights issues obtained by us.
+
+As a next step, a letter has been sent to a special discussion to be held at the Human Rights Commission of the Sri Lanka Human Rights Commission at 1.30 pm on 30.07.2024.
 
 ◼️
 
 [Data](articles/9739e1a2.json)
 
+[Extended Data](ext_articles/9739e1a2.ext.json)
+
 ---
 
-### මෙරට ජාතික සම්පත තරුණ පරපුර මිස, පාඩු ලබන රාජ්‍ය ව්‍යවසාය නොවේ
+### Not the national resource in the country, not the state enterprise
 
 *2024-07-19 19:41:53* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ජාතික-සම්පත-තරුණ-පරපුර-මිස--පාඩු-ලබන-රාජ්‍ය-ව්‍යවසාය-නොවේ/11-410873) · `si`
 
-පාඩු ලබන රාජ්‍ය ආයතන ප්‍රතිව්‍යුහගතකරණය කිරීමෙන් රටට ඉතිරිවන මුදලින් ඉදිරියේ දී අධ්‍යාපන සහ සෞඛ්‍ය සඳහා වැඩි මුදලක් ලබා දීමට හැකියාව ලැබෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced plans to restructure government institutions to redirect funds towards education and health, emphasizing the need for public enterprises to contribute financially rather than being a drain on the nation's resources. He spoke at the University of Ruhuna, highlighting the importance of utilizing government education facilities fully and addressing the country's economic challenges, including the impact of high spending on corporations like SriLankan Airlines. The president urged for a new economic transformation through efficient management of state enterprises, aiming to free up funds for essential sectors in the coming years.
 
-මෙරට ජාතික සම්පත රටේ තරුණ පරපුර මිස, පාඩු ලබන රාජ්‍ය ව්‍යවසාය නොවන බව අවධාරණය කළ ජනාධිපතිවරයා අද බොහෝ රාජ්‍ය ව්‍යවසායන් රජයට බරක් නොවී ක්‍රියාත්මක වන බවත්, මෙම වසර අවසන්වන විට ශ්‍රී ලංකන් ගුවන් සමාගමට අදාළ ගෙවීම් කටයුතුවලින්ද නිදහස්වීමට රජය අපේක්ෂා කරන බවත් පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ගාල්ල, වලහන්දූව ප්‍රදේශයේ අභිනවයෙන් ඉදිකළ රුහුණ විශ්වවිද්‍යාලයට අනුබද්ධ සම සෞඛ්‍ය විද්‍යා පීඨය සිසු අයිතියට පත් කිරීමේ උත්සවයට අද (19) පෙරවරුවේ එක්වෙමිනි.
+President Ranil Wickremesinghe said that the restructuring of loss government institutions will be able to provide more money for education and health in the future.
 
-සමරු ඵලකය නිරාවරණය කර විද්‍යාපීඨ ගොඩනැගිල්ල සිසු අයිතියට පවරා දුන් ජනාධිපතිවරයා එහි නිරීක්ෂණ චාරිකාවක නිරත වෙමින් විශ්වවිද්‍යාලයීය කාර්ය මණ්ඩලය සමඟ සුහඳ කතාබහක ද නිරත විය.
+He said that the President said that many public enterprises were not burdening the government, not the youth of the country's national resource in the country.
 
-රුහුණ විශ්වවිද්‍යාලයේ උපකුලපති සුජීව අමරසේන මහතා විසින් මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සමරු තළිණයක්ද පිළිගැන්වීය.
+President Ranil Wickremesinghe was speaking at a ceremony to the students who were constructed to the students who were constructed to the University of Ruhulu University in Galle.
+
+The President who was unveiled by the students to the students and engaged in an inspection tour of the students and engaged in a friendly conversation with the university staff.
+
+Vice Chancellor of the University of Ruhuna
+
+The President also planted a plant in the field of Science and the President was also planted in a group of university staff.
+
+Addressing the House, President Ranil Wickremesinghe further added:
 
 ...
 
 [Data](articles/9b71c899.json)
 
+[Extended Data](ext_articles/9b71c899.ext.json)
+
 ---
 
-### ඇතැම් භාණ්ඩ සඳහා පාලන මිලක් දාන්න වෙනවා
+### Some of the items have to put a control price
 
 *2024-07-19 19:35:39* · [`adalk`](https://www.ada.lk/breaking_news/ඇතැම්-භාණ්ඩ-සඳහා-පාලන-මිලක්-දාන්න-වෙනවා/11-410872) · `si`
 
-රජය විසින් ලබාදෙන සහන පාරිභෝගියාටද ලබා දීමට ව්‍යාපාරික ප්‍රජාව කටයුතු නොකළහොත් ඇතැම් භාණ්ඩ සඳහා පාලන මිලක් නියම කිරීමට සිදුවන බව වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පැවසීය.
+Minister Nalin Fernando announced plans to amend the Consumer Act and introduce weekly price statements for 15 essential commodities to ensure fair trade practices and control prices for certain items. This move aims to address concerns raised by the business community regarding serving government-relieved customers and to enhance consumer-dealer relations.
 
-පාරිභෝගික පනත සංශෝධනය කිරීම සඳහා අදාළ යෝජනා ඉදිරි සති දෙක තුළ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට සැළසුම් කර තිබෙන බවද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-වෙළඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලින් ප්‍රනාන්දු මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (19) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+If the business community does not serve the government's relief customers, trade, commerce and Food Security Minister Nalin Fernando said.
 
-පසුගිය වසර කිහිපය තුළ පැවති අර්බුද සමය අවසන් කිරීමට මේ වන විට හැකියාව ලැබී තිබෙනවා. වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඒ වෙනුවෙන් සුවිශේෂ නායකත්වයක් ලබා දුන්නා. රජයක් ලෙස අප මෙම සාර්ථකත්වය ලබා ගැනීමට වැඩසටහන් රැසක් ක්‍රියාත්මක කළා. එහි සාර්ථක ප්‍රතිපල ජනතාවට මේ වන විට භුක්ති විදීමට ලැබෙමින් තිබෙනවා.
+The following proposals to amend the Consumer Act are planned to be tabled in Parliament within the next two weeks.
+
+Trade, Commerce and Food Security Minister Nalin Fernando made this statement participating at a press conference held at the Presidential Media Center today (19).
+
+It has been possible to end the crisis season in the past few years. President Ranil Wickremesinghe gave a special leadership for this. As a government we implemented a number of programs to get this success. The people are being enjoyed by the people.
+
+They should also be given concessionary and privileges due to economic policies carried out in the last two years. It enabled the inflation controlled. There is also a program to increase the income of the people.
 
 ...
 
 [Data](articles/6a7a52aa.json)
+
+[Extended Data](ext_articles/6a7a52aa.ext.json)
 
 ---
 
@@ -1316,19 +1340,25 @@ In the meeting, the anti-narcotics and border security issues were also discusse
 
 ---
 
-### හිඟුරක්ගොඩ ජාත්‍යන්ර ගුවන් ‌තොටුපොළේ සංවර්ධන කටයුතු අරඹයි
+### Hingurakgoda News launched development activities
 
 *2024-07-19 12:28:02* · [`adalk`](https://www.ada.lk/breaking_news/හිඟුරක්ගොඩ-ජාත්‍යන්ර-ගුවන්-‌තොටුපොළේ-සංවර්ධන-කටයුතු-අරඹයි/11-410870) · `si`
 
-වත්මන් රජයේ තීරණයකට අනුව ශ්‍රි ලංකාවේ ඉපැරණි ගුවන්තොටුපලක් වන හිගුරක්ගොඩ අභ්‍යන්තර ගුවන්තොටුපල ජාත්‍යන්තර ගුවන් මෙහෙයුම් සඳහා නවීකරණය කිරීමට අවශ්‍ය ඉදිකිරීම් කටයුතු 2024.07.19 (අද) දින වරාය නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසින් ආරම්භ කරන ලදී .
+Development began on renovating Sri Lanka's historic Hingurakgoda airport, originally built by the British Royal Air Force during WWII. The project, aimed at transforming it into an international airport, is funded by the current government. The first phase includes extending the runway by 2287 meters, with plans to accommodate larger aircraft like the Boeing B737. Expected to be completed in six months, the total cost is estimated at 17 billion rupees, managed by the Airport and Aviation Company.
 
-මෙම ගුවන්තොටුපල දෙවන ලෝක යුධ සමයේ එංගලන්තයේ රාජකීය ගුවන් හමුදාව වෙනුවෙන් ඉදි කරන ලද අතර එකල මින්නේරිය ගුවන් හමුදා මධ්‍යස්ථානය  ( RAF Minneriya ) ලෙස හඳුන්වා ඇත.
+🟩
 
-රට මධ්‍යයේ පිහිටා ඇති මෙම ගුවන්තොටුපල මඟින් රටේ ආර්ථිකයට ශක්තියක් ලබා ගැනීමේ පරමාර්ථයෙන් යුතුව ජාත්‍යන්තර ගුවන් තොටුපලක් බවට පරිවර්තනය කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු වත්මන් රජය විසින් තීරණය කරන ලදී. ඒ අනුව 2024 අයවැයෙන් මෙහි මුලික ඉදිකිරීම් හා සංවර්ධන කටයුතු ආරම්භ කිරීමට රුපියල් බිලියන 02 ක මූල්‍ය ප්‍රතිපාදන වෙන් කරන ලදී. මෙම මූල්‍ය ප්‍රතිපාදන භාවිතා කරමින් ප්‍රථම අදියර යටතේ දැනට තිබෙන මීටර් 2287 ක දිගින් සහ මීටර් 46 ක පලලින් යුතු ධාවන පථය මීටර් 2500 ක් දක්වා දීර්ඝ කිරීමට කටයුතු කරනු ලබයි.
+According to a present government decision, the construction work required to renovate the ancient airport in Sri Lanka, Hingurakgoda internal airports, was started by the Minister of Naval Siripala de Silva today.
+
+The airport was built on behalf of the Royal Air Force in England during World War II, and the Minneriya Air Force Center (RAF MINNERIY) was introduced.
+
+Located in the center of the country, President Ranil Wickremesinghe and the present government decided to transform the objective of achieving the economy of the country into international airport. Accordingly, the funding of Rs.. Under the first phase of these financial provisions, the first phase of 2287 meters and the overall track of up to 2,500 meters is extended.
 
 ...
 
 [Data](articles/107d487a.json)
+
+[Extended Data](ext_articles/107d487a.ext.json)
 
 ---
 

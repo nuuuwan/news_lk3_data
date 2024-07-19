@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 16:35:42**
+As of **2024-07-19 16:52:53**
 
 ## Newspaper Stats
 
-*Scraped **36,127** Articles*
+*Scraped **36,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
 adaderanalk | 4,170
-tamilmirrorlk | 4,389
+tamilmirrorlk | 4,390
 dailymirrorlk | 4,733
-virakesarilk | 5,639
-adaderanasinhalalk | 6,042
+virakesarilk | 5,648
+adaderanasinhalalk | 6,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,127 (100.0%) of 36,127 articles have been extended.
+36,127 (100.0%) of 36,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### “22” க்கான ஆணியை பிடிங்கி திருப்பி அடித்தார் ஜனாதிபதி
+
+*2024-07-19 16:32:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-க்கான-ஆணியை-பிடிங்கி-திருப்பி-அடித்தார்-ஜனாதிபதி/175-340683) · `ta`
+
+அரசியலமைப்பின் 22 ஆம் திருத்த சட்ட மூலம், ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில் வர்த்தமானியில் பிரசுரிக்கப்பட்டுள்ளது.
+
+ஜனாதிபதி தேர்தல் நிறைவடையும் வரை இந்த வர்த்தமானி அறிவித்தலை வெளிவிட வேண்டாம் என நேற்றைய தினம் நீதி அமைச்சர் விஜேதாச ராஜபக்சவினால், அமைச்சின் செயலாளருக்கு அறிவிக்கப்பட்டிருந்த நிலையில், இன்றைய தினம் ஜனாதிபதியின் பணிப்புரையில் இந்த அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+83 ஆம் ஆக்கத்தின் (b) பந்தியில் காணப்படும் “ஆறு வருடங்களை விட அதிகரிக்காமல்” என்பதை “ஐந்து வருடங்களை விட அதிகரிக்காமல்” என திருத்தியதாக இந்த சட்டமூல அறிவித்தல் வெளியிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/d9cf5413.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ජාතික සම්පත තරුණ පරපුර බව ජනපති කියයි
+
+*2024-07-19 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198988) · `si`
+
+මෙරට ජාතික සම්පත තරුණ පරපුර මිස පාඩු ලබන රාජ්‍ය ව්‍යවසාය නොවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+පාඩු ලබන රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගතකරණය තුළින් රටට ඉතිරිවන මුදල් අධ්‍යාපනයටත්, සෞඛ්‍යයටත් ලබා දෙන බව ගාල්ල, වලහන්දූව ප්‍රදේශයේ අභිනවයෙන් ඉදි කරන ලද රුහුණ විශ්වවිද්‍යාලයේ නව සම සෞඛ්‍ය විද්‍යා පීඨය සිසු අයිතියට පත් කිරීමේ උත්සවයට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/c7cadd95.json)
+
+---
+
+### கிறாபிக்ஸ் காட்சிகளுடன் அசத்தும் 'சதுர்'
+
+*2024-07-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188865) · `ta`
+
+அறிமுக நடிகர் அமர் ரமேஷ் கதையின் நாயகனாக நடித்திருக்கும் 'சதுர்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.  இதற்காக சென்னையில் நடைபெற்ற பிரத்யேக வெளியீட்டு விழாவில் தயாரிப்பாளர் தனஞ்ஜெயன் - இயக்குநர் பாலா ஆகியோர் சிறப்பு அதிதியாக பங்கு பற்றினர் .
+
+அறிமுக இயக்குநர் ஏ. அகஸ்டின் பிரபு இயக்கத்தில் உருவாகி இருக்கும் 'சதுர்' எனும் திரைப்படத்தில் அமர் ரமேஷ், அஜித் விக்னேஷ், தாமோதரன், ஜீவா ரவி, 'நக்கலைட்ஸ்' செல்லா, சூர்யா, ஆர்னவ் ஹரிஜா, பிரதீப் ஹரி, கிரிஷ் பாலா, 'பாய்ஸ்' ராஜன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ராம் டி . சந்தர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஆதர்ஷ் இசையமைத்திருக்கிறார். ஃபேண்டஸி திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ராக்ஸ் நேச்சர் என்டர்டெயின்மென்ட் எனும் தயாரிப்பாளர் ராம் மணிகண்டன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/adcfd5fd.json)
+
+---
+
+### படப்பிடிப்புடன் தொடங்கிய நடிகர் காளி வெங்கட்டின் ‘அப்பனே முருகா’
+
+*2024-07-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188862) · `ta`
+
+தமிழ் திரையுலகின் சிறந்த குணச்சித்திர நடிகராக பவனி வரும் நடிகர் காளி வெங்கட் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் புதிய படத்திற்கு 'அப்பனே முருகா' என பெயரிடப்பட்டு , அதன் தொடக்க விழா,  படபிடிப்புடன் சென்னையில் தொடங்கியது.‌
+
+அறிமுக இயக்குநர் குரு ராமசாமி இயக்கத்தில் உருவாகி வரும் 'அப்பனே முருகா' எனும் திரைப்படத்தில் காளி வெங்கட், 'பருத்திவீரன்' சரவணன், எம். எஸ் பாஸ்கர், முனிஸ்காந்த், மதுமிதா, ' கர்ணன் 'ஜானகி, சூப்பர் குட் சுப்பிரமணி, மோகனசுந்தரம், புதுவை பூபாலன் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+
+ஜெயபிரகாஷ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்தை ட்ரூ டீம்  என்டர்டெய்ன்மெண்ட் சார்பில் தயாரிப்பாளர் ஆர்.சதீஷ் தங்கம், ஆர் ஜி சேகர் மற்றும் சசிகுமார் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+
+படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' ஒன்லைன் ரம்மி விளையாட்டில் தோற்ற ஒருவன் அதிலிருந்து மீண்டு வாழ்க்கையில் ஜெயித்தானா,? இல்லையா? என்பதை அடிப்படையாக வைத்து இந்த படத்தின் கதை உருவாக்கப்பட்டுள்ளது. இப்படத்தின் முதற்கட்ட படப்பிடிப்பு சென்னையில் நடைபெற்று வருகிறது.'' என்றார்.
+
+◼️
+
+[Data](articles/eaded6d5.json)
+
+---
+
+### மெய்யழகன்' கார்த்தியின் சந்தை மதிப்பை உயர்த்துமா..!?
+
+*2024-07-19 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188866) · `ta`
+
+நடிகர் கார்த்தி நடிப்பில் தயாராகி இருக்கும் ,'மெய்யழகன்' எனும் திரைப்படம் எதிர்வரும் செப்டம்பர் மாதம் வெளியாகிறது. இந்தத் திரைப்படத்தின் வணிக ரீதியான வெற்றியை பொறுத்து தான் நடிகர் கார்த்தியின் சந்தை மதிப்பு உயரும் என திரையுலக வணிகர்கள் தெரிவித்திருக்கிறார்கள்.
+
+'96' என்ற வெற்றி படத்தை இயக்கிய இயக்குநர் சி. பிரேம்குமார் இயக்கத்தில் உருவாகி இருக்கும் 'மெய்யழகன்' எனும் திரைப்படத்தில் கார்த்தி, அரவிந்த்சாமி, ஸ்ரீ திவ்யா, ராஜ்கிரண் , சுவாதி, தேவதர்ஷினி, ஜெயப்பிரகாஷ், ஸ்ரீ ரஞ்சனி, இளவரசு, கருணாகரன், சரண் சக்தி, ஆண்டனி, ராஜ்குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+மகேந்திரன் ஜெயராஜு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கோவிந்த் வசந்தா இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை 2 டி என்டர்டெய்ன்மென்ட் எனும் நிறுவனம் சார்பில் நட்சத்திர தம்பதிகளான சூர்யா - ஜோதிகா ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/56d7334d.json)
+
+---
+
+### சீயான் விக்ரம் நடிக்கும் 'தங்கலான்' படத்தில் ஃபர்ஸ்ட் சிங்கிள் வெளியீடு
+
+*2024-07-19 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188868) · `ta`
+
+தனித்துவமான நடிப்பின் மூலம் சர்வதேச திரையுலகில் தமிழ் முகமாக ஒளிரும் சீயான் விக்ரம் நடிப்பில் தயாராகி இருக்கும் 'தங்கலான்' எனும் திரைப்படத்தில் இடம் பெற்ற 'அன்னக்கிளி வண்ணக்கிளி..' எனத் தொடங்கும் முதல் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி இருக்கிறது.
+
+தன்னுடைய படைப்புகள் மூலம் ஒடுக்கப்பட்ட மக்களின் குரலை ஓங்கி ஒலிக்கச் செய்யும் படைப்பாளி பா. ரஞ்சித் இயக்கத்தில் உருவாகி இருக்கும் 'தங்கலான்' எனும் திரைப்படத்தில் சீயான் விக்ரம், பார்வதி திருவோத்து, மாளவிகா மோகனன், பசுபதி, ஹரி கிருஷ்ணன் அன்பு துரை, சம்பத் ராம் இவர்களுடன் ஹொலிவுட் நடிகர் டேனியல் கால்டாகிரோன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஏ. கிஷோர் குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி பிரகாஷ் குமார் இசையமைத்திருக்கிறார். சரித்திர காலகட்டத்திய ஃபேண்டஸி கலந்த எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்டுடியோ கிரீன் - நீலம் புரொடக்ஷன்ஸ் - ஜியோ ஸ்டுடியோஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.‌
+
+...
+
+[Data](articles/d559c987.json)
+
+---
 
 ### Rocky flintoff keep a record
 
@@ -172,6 +268,24 @@ This amendment will enable the paragraph (b) of Article 83 of the Constitution p
 
 ---
 
+### தகவல்தொழில்நுட்ப செயல் இழப்பு - ஐரோப்பாவில் விமானப்போக்குவரத்து பாதிப்பு
+
+*2024-07-19 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188859) · `ta`
+
+சர்வதேச அளவில் தீரென ஏற்பட்டுள்ள தகவல் தொழில்நுட்ப செயல் இழப்பு காரணமாக ஐரோப்பாவில் விமானப்போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+
+லண்டன்கேட்விக் விமானநிலையம் உலகளாவிய மைக்ரோசொவ்ட் சிக்கல்களால் பாதிக்கப்பட்டுள்ளது எனவும் பயணிகள் தாமதங்களை எதிர்கொள்ளக்கூடும் எனவும் அறிவிப்பு வெளியாகியுள்ளது.
+
+சர்வதேச தகவல்தொழில்நுட்ப கோளாறு காரணமாக தனது நடவடிக்கைகள் பாதிக்கப்பட்டுள்ள என தெரிவித்துள்ள எயர்பிரான்ஸ் எனினும் பயணத்தை மேற்கொண்டு நடுவானில் உள்ள விமானங்கள் பாதிக்கப்படவில்லை என  அறிவித்துள்ளது.
+
+உலகளாவிய அமைப்பின் தோல்வி காரணமாக ஷிபோல் விமானநிலையத்தின் சேவைகள் பாதிக்கப்பட்டுள்ளன விமானநிலையத்திற்கு வருவதும் அங்கிருந்து செல்வதும் பாதிக்கப்பட்டுள்ளதாக அம்ஸ்டெர்டாமின் ஷிபோல் விமானநிலையம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/4b109be6.json)
+
+---
+
 ### Sathosa's happy news to people
 
 *2024-07-19 15:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-சதொசவின்-மகிழ்ச்சியான-செய்தி/175-340681) · `ta`
@@ -247,6 +361,22 @@ The move comes ahead of a presidential poll possibly in early October which the 
 [Data](articles/eb7d9bf3.json)
 
 [Extended Data](ext_articles/eb7d9bf3.ext.json)
+
+---
+
+### தண்டவாளத்தில் மரங்கள் முறிந்து வீழ்ந்தன ; மலையக ரயில் சேவைகள் பாதிப்பு
+
+*2024-07-19 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188852) · `ta`
+
+பட்டிப்பொல மற்றும் ஒஹிய ரயில் நிலையங்களுக்கு இடையில் தண்டவாளத்தின் குறுக்கே மரங்கள் முறிந்து  வீழ்ந்தமையினால் மலையக மார்க்கத்தில் ரயில் சேவைகள் தடைப்பட்டுள்ளன.
+
+பதுளையிலிருந்து கொழும்பு நோக்கிச் சென்ற உடரட்ட மெனிகே விரைவு ரயில் பட்டிப்பொல மற்றும் ஒஹிய ரயில் நிலையங்களுக்கு இடையில் நிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+முறிந்து விழுந்த மரங்களை அகற்றும் பணியில் ரயில் ஊழியர்கள் ஈடுபட்டுள்ளனர். இந்நிலையில், குறித்த மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகலாம் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/56fc6c16.json)
 
 ---
 
@@ -342,6 +472,38 @@ However, Microsoft has announced that it is taking steps to repair the situation
 
 ---
 
+### இந்தியாவில் இருந்து காங்கேசன்துறைமுகத்தை வந்தடைந்த சுற்றுலாக் கப்பல்!
+
+*2024-07-19 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188849) · `ta`
+
+இந்தியா, சென்னையில் இருந்து பயணிகள் சுற்றுலா சொகுசுக் கப்பல் ஒன்று இன்று வெள்ளிக்கிழமை (19) காலை ஆறு மணியளவில் காங்கேசன்துறைமுகத்தை வந்தடைந்துள்ளது.
+
+800க்கும் மேற்பட்ட பயணிகளை ஏற்றியவாறு குறித்த கப்பலானது யாழ்ப்பாணம் - காங்கேசன் துறைமுகத்தை வந்தடைந்தது.
+
+குறித்த கப்பலானது நேற்று முன்தினம் இலங்கை - ஹம்பாந்தோட்டையை வந்தடைந்தது. அங்கிருந்து பயணத்தை ஆரம்பித்து நேற்றையதினம் திருகோணமலை துறைமுகத்தை வந்தடைந்தது. இந்நிலையில் இன்றையதினம் யாழ்ப்பாணம் - காங்கேசன் துறைமுகத்தை வந்தடைந்தது.
+
+குறித்த கப்பலானது இன்று பிற்பகல் மீண்டும் இந்தியாவை நோக்கி பயணித்தை ஆரம்பிக்கவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/1c085930.json)
+
+---
+
+### பேராதனை பல்கலைக்கழக உப வேந்தராக பேராசிரியர் மதுஜித் நியமனம்
+
+*2024-07-19 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/188848) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் பேராதனை பல்கலைக்கழகத்தின் உப வேந்தராக பேராசிரியர் டபிள்யூ.எம்.டீ.மதுஜித் நியமிக்கப்பட்டுள்ளார்.
+
+பல்கலைக்கழகச் சட்டத்தின் 34 (1) (அ) பிரிவிற்கு அமைய 2024 ஓகஸ்ட் 01 ஆம் திகதியிலிருந்து அமுலாகும் வகையில் மூன்று வருட காலத்திற்கு இந்த நியமனம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c544d717.json)
+
+---
+
 ### A large-scale called a large scale
 
 *2024-07-19 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198981) · `si`
@@ -361,6 +523,18 @@ The cause of this situation is yet to be ascertained, it is reported that it is 
 [Data](articles/60919c34.json)
 
 [Extended Data](ext_articles/60919c34.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-19 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/188847) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஜூலை 19) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 299.2350 ரூபாவாகவும், விற்பனை விலை 306.5317 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/8c024939.json)
 
 ---
 
@@ -2019,201 +2193,5 @@ Educational exchanges were also highlighted, focusing on student exchange progra
 [Data](articles/7b428c51.json)
 
 [Extended Data](ext_articles/7b428c51.ext.json)
-
----
-
-### EDB promotes investment opportunities in Indonesia for Lankan companies
-
-*2024-07-19 05:07:11* · [`dailyftlk`](https://www.ft.lk/business/EDB-promotes-investment-opportunities-in-Indonesia-for-Lankan-companies/34-764453) · `en`
-
-Sri Lanka Export Development Board (EDB) in collaboration with the Sri Lanka Embassy in Jakarta organised a briefing session to discuss on “Indonesian investment opportunities for foreign investors” with the Directorate of Investment Promotion of Indonesia and the Ministry of Investments of Indonesia on 12 July.
-
-The main focus of this session was on the construction, power and energy sectors, to provide Sri Lankan industry representatives with valuable insights on investment/tender opportunities available for foreigners in Indonesia in the construction and energy sectors, how a company can become a part of Indonesian projects, what the requirements are to be met, limitations in financial transactions and tax structure for foreigners.
-
-...
-
-[Data](articles/56c8b8cc.json)
-
-[Extended Data](ext_articles/56c8b8cc.ext.json)
-
----
-
-### Tiran accuses lawyers of aiding crime bosses to flee SL
-
-*2024-07-19 05:06:27* · [`dailyftlk`](https://www.ft.lk/news/Tiran-accuses-lawyers-of-aiding-crime-bosses-to-flee-SL/56-764452) · `en`
-
-Public Security Minister Tiran Alles says small group of lawyers in SL are making their living through the country’s underworld
-
-Reveals legal counsels representing Kanjipani Imran and Ganemulla Sanjeewa had helped them escape country
-
-Confirms SL Police has nabbed illegal drugs worth Rs. 19 b, confiscated 955 unlicensed firearms and 42 hand grenades since beginning of Yukthiya operation
-
-Claims crime has declined and assures to enforce laws more strictly than before to suppress drugs and underworld
-
-Public Security Minister Tiran Alles yesterday accused the legal counsels representing organised crime bosses Mohamed Najim Mohamed Imran, known as “Kanjipani Imran”, and Sanjeewa Kumara Samararatne, also known as “Ganemulla Sanjeewa”, of aiding their escape from Sri Lanka.
-
-...
-
-[Data](articles/ee71202c.json)
-
-[Extended Data](ext_articles/ee71202c.ext.json)
-
----
-
-### Police seeks INTERPOL help to nab Kanjipani Imran
-
-*2024-07-19 05:05:24* · [`dailyftlk`](https://www.ft.lk/news/Police-seeks-INTERPOL-help-to-nab-Kanjipani-Imran/56-764451) · `en`
-
-Police have confirmed, it has requested the support of the International Criminal Police Organisation (INTERPOL) to nab and repatriate organised crime boss Mohamed Najim Mohamed Imran, better known as “Kanjipani Imran’.
-
-According to Police Spokesperson DIG Nihal Thalduwa the INTERPOL has already issued a red notice for Kanjipani Imran’s arrest.
-
-However, DIG Thalduwa emphasised that the support and cooperation of the country where the criminal is currently residing are essential for his extradition.
-
-Reports have suggested that the recent killing of Sunhill Group of Companies Chairperson Surendra Wasantha Perera was carried out on the orders of Kanjipani Imran.
-
-Kanjipani Imran had fled to Dubai in 2015 due to threats on his life by a rival gang. He was arrested by the Dubai Police in 2019 along with notorious underworld figure Samarasinghe Arachchilage Madhush Lakshitha, also known as Makandure Madush before being repatriated to Sri Lanka.
-
-...
-
-[Data](articles/d731ac62.json)
-
-[Extended Data](ext_articles/d731ac62.ext.json)
-
----
-
-### Former Speaker urges all stakeholders to ensure free and fair polls
-
-*2024-07-19 05:04:53* · [`dailyftlk`](https://www.ft.lk/news/Former-Speaker-urges-all-stakeholders-to-ensure-free-and-fair-polls/56-764450) · `en`
-
-Former Speaker Karu Jayasuriya has emphasised the duty of all stakeholders, including the Election Commission of Sri Lanka (ECSL), the Government led by the President, the Sri Lanka Police, and the entire Government mechanism, in ensuring a free and fair Presidential election without any violence, corruption, or acts of hate between communities.
-
-Issuing a press release on Wednesday, former Speaker Karu Jayasuriya recalled that the 17th Amendment, championed by the country’s civil society, sought to establish a fair election culture in Sri Lanka. However, the unlimited executive powers granted by the 18th and 20th Amendments led to disappointment. “It is imperative for the current President and potential candidates of the upcoming election not to create a similar environment once more,” Jayasuriya said.
-
-...
-
-[Data](articles/00e696fd.json)
-
-[Extended Data](ext_articles/00e696fd.ext.json)
-
----
-
-### SDIG Nilantha Jayawardene sent on compulsory leave
-
-*2024-07-19 05:03:56* · [`dailyftlk`](https://www.ft.lk/news/SDIG-Nilantha-Jayawardene-sent-on-compulsory-leave/56-764449) · `en`
-
-The National Police Commission (NPC) has decided to place Senior Deputy Inspector General of Police Nilantha Jayawardene on compulsory leave, effective from 18 July. Jaywardene currently is the Senior DIG in charge of Administration.
-
-According to NPC sources, the senior police officer is being placed on compulsory leave to facilitate a disciplinary inquiry against him concerning the Easter Sunday terror attack.
-
-This sudden decision follows recent scrutiny from the Supreme Court, which questioned why no action had been taken against the former SIS head as mandated by court orders regarding his role in the failure to prevent the 2019 terrorist attack that claimed the lives of 253 people and injured many more. Last week, the Supreme Court directed the NPC to adhere to its order and take action against Senior DIG Nilantha Jayawardene.
-
-...
-
-[Data](articles/0530ddba.json)
-
-[Extended Data](ext_articles/0530ddba.ext.json)
-
----
-
-### Zesta invites Sri Lankan tea lovers to create the next Zesta commercial
-
-*2024-07-19 04:22:00* · [`islandlk`](http://island.lk/zesta-invites-sri-lankan-tea-lovers-to-create-the-next-zesta-commercial/) · `en`
-
-Zesta Tea, a renowned flagship brand under Sunshine Consumer Lanka, has announced ‘My Zesta Story’, a campaign inviting all Sri Lankan tea lovers to create their very own commercial for the brand. Participants are encouraged to submit their ideas in various formats, including videos, audio recordings, scripts, storyboards, and animations.
-
-The winning entry will receive a grand prize of Rs. 1 million, and the following top four entries will each receive consolation prizes of Rs. 250,000. Additionally, Zesta will give the winning idea the opportunity to be produced and aired on TV, offering the ultimate platform for Sri Lankan creativity.
-
-...
-
-[Data](articles/2891d3b0.json)
-
-[Extended Data](ext_articles/2891d3b0.ext.json)
-
----
-
-### Link Natural links with GDSA for Dentistree Congress and Platinum Jubilee
-
-*2024-07-19 04:22:00* · [`islandlk`](http://island.lk/link-natural-links-with-gdsa-for-dentistree-congress-and-platinum-jubilee/) · `en`
-
-Link Natural, Sri Lanka’s leading manufacturer of herbal healthcare and personal care products, continued to build on its strong relationships with key stakeholders by becoming the Main Sponsor at the first-ever ‘Dentistree Congress 2024’ and the Platinum Jubilee (70th Anniversary) celebration of the Government Dental Surgeons’ Association (GDSA) held at the Monarch Imperial recently.
-
-Hosted by ‘Dentistree’, the academic arm of GDSA, ‘Dentistree Congress’ and International Dental Trade Exhibition included insightful sessions conducted by an expert panel of speakers. The Dental Trade Exhibition featured over 40 trade stalls showcasing dental companies, banks and other organizations. It was a resounding success with over 300 registrations for the dental congress and more than 700 participants overall. The event also featured two symposiums on the topics of “Medical Problems in Dental Practice” and “Full Mouth Rehabilitation”.
-
-...
-
-[Data](articles/53be6c4f.json)
-
-[Extended Data](ext_articles/53be6c4f.ext.json)
-
----
-
-### CCC-ILO link to stimulate innovative entrepreneurship among youth
-
-*2024-07-19 04:22:00* · [`islandlk`](http://island.lk/ccc-ilo-link-to-stimulate-innovative-entrepreneurship-among-youth/) · `en`
-
-The Ceylon Chamber of Commerce (CCC), in collaboration with the International Labour Organization (ILO) and various entrepreneurship ecosystem partners launched what is titled as the “SPARK: Skilled Youth Entrepreneurship Competition 2024” on Wednesday. The competition presents a unique opportunity for young aspiring entrepreneurs to showcase their innovative ideas and entrepreneurial solutions.
-
-Addressing the media at the CCC, Dr. Thomas Kring, ILO Chief Technical Advisor, stressed the aim of empowering young people as they navigate the entrepreneurial world.
-
-Kring underscored the invaluable skills participants acquire, with winners gaining exposure through an international visit to experience foreign entrepreneurial ecosystems and to forge potential business partnerships.
-
-...
-
-[Data](articles/81e7cfb3.json)
-
-[Extended Data](ext_articles/81e7cfb3.ext.json)
-
----
-
-### Month-to-date net foreign inflow crosses Rs. 3 billion but local investors in bearish mood
-
-*2024-07-19 04:22:00* · [`islandlk`](http://island.lk/month-to-date-net-foreign-inflow-crosses-rs-3-billion-but-local-investors-in-bearish-mood/) · `en`
-
-The month-to-date net foreign inflow crossed the Rs. 3 billion mark in the stock market yesterday while locals remained bearish, worrying brokers and analysts.The CSE saw net foreign inflow of Rs. 393 million on the previous day, boosting the figure so far in July to Rs. 3.1 billion. Net foreign buying topped in JKH at Rs. 321.1 million.
-
-However, stock market activities were down yesterday due to market speculation that President Ranil Wickremesinghe is planning to dissolve parliament. Owing to that dull sentiment, only a few companies, such as JKH and Hayleys crossings, moved up the market.
-
-The All Share Price Index went up by 68.7 points, while S and P SL20 declined by 18.19 points. Turnover stood at Rs 1.1 billion with two crossings. Those crossings were reported in JKH, which crossed 2 million shares to the tune of Rs 388 million; its shares traded at Rs 194 and Hayleys 500,000 shares crossed for Rs 50.5 million; its shares traded at Rs 101.
-
-...
-
-[Data](articles/ec58ada4.json)
-
-[Extended Data](ext_articles/ec58ada4.ext.json)
-
----
-
-### INSEE Cement’s mangrove restoration programme contributes to Sri Lanka’s coastal and biodiversity protection
-
-*2024-07-19 04:08:00* · [`islandlk`](http://island.lk/insee-cements-mangrove-restoration-programme-contributes-to-sri-lankas-coastal-and-biodiversity-protection/) · `en`
-
-INSEE Cement has exceeded 10 hectares of mangrove restoration work in Sri Lanka, reaffirming its commitment to environmental conservation and biodiversity. Over the past six years, the company has demonstrated its dedication to environmental stewardship and community well-being, by 10,000 mangrove saplings and spearheading extensive mangrove restoration projects across the country.
-
-This achievement has been possible due to INSEE’s strong partnerships and close collaboration with key stakeholders such as the Department of Wildlife, Department of Forests, Coastal Conservation Department (CCD), the Central Environmental Authority and local universities, under the direction of the Ministry of Environment. Technical guidance from the IUCN has further strengthened this work. INSEE employees also play a key role by participating in the mangrove restoration work, showcasing their commitments to Sri Lanka’s conservation.
-
-...
-
-[Data](articles/a11b8215.json)
-
-[Extended Data](ext_articles/a11b8215.ext.json)
-
----
-
-### 100PLUS, the ‘ultimate Hydration Drink’, unveils in Colombo
-
-*2024-07-19 04:08:00* · [`islandlk`](http://island.lk/100plus-the-ultimate-hydration-drink-unveils-in-colombo/) · `en`
-
-As the golden hues of sunset embraced the Indian Ocean, a refreshing event unfolded at the ITC Ratnadipa, Colombo. The launch of 100PLUS, Malaysia’s premier isotonic drink, by Bolt Distribution, a member of the Thakral Group Sri Lanka, captivated an enthused audience.
-
-“100PLUS will refresh and rejuvenate the Sri Lankan markets,” expressed Hilmey Niyas, CEO of Thakral Group Sri Lanka, amidst the glamorous gathering. “This drink is a perfect blend of style and functionality, designed to keep you refreshed, rehydrated, and re-energized.”
-
-The evening shimmered with the presence of the High Commissioner of Malaysia for Sri Lanka and Maldives, Badli Hisham Adam, and Lai Kong Ming, the Managing Director of International Market Development at F&N International Markets Sdn Bhd Malaysia. The event saw an eclectic mix of cross-industry personalities from the public & private sector, key marketing influencers, and FMCG retail dealers, among other dignitaries adding to its allure.
-
-...
-
-[Data](articles/ebd3e986.json)
-
-[Extended Data](ext_articles/ebd3e986.ext.json)
 
 ---

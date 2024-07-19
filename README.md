@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 15:35:42**
+As of **2024-07-19 15:54:18**
 
 ## Newspaper Stats
 
-*Scraped **36,120** Articles*
+*Scraped **36,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,82 @@ colombotelegraphcom | 338
 bbccomsinhala | 354
 newsfirstlk | 363
 islandlk | 2,052
-economynextcom | 2,156
+economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
 adaderanalk | 4,169
 tamilmirrorlk | 4,389
 dailymirrorlk | 4,733
 virakesarilk | 5,639
-adaderanasinhalalk | 6,040
+adaderanasinhalalk | 6,041
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,117 (100.0%) of 36,120 articles have been extended.
+36,120 (100.0%) of 36,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ජනපති නියමයෙන් 22 ගැසට් කෙරේ
+### කෘතිම බුද්ධිය පිළිබඳ පාර්ලිමේන්තුවේදී විවාදයක්
+
+*2024-07-19 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198986) · `si`
+
+රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් දෙවනවර කියවීමේ විවාදය ලබන 25 වනදා පැවැත්වී‌මට කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (18) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වී තිබේ.
+
+ඒ අනුව පාර්ලිමේන්තුව ලබන 23 සිට 26 දක්වා රැස්වන අතර ජුලි 23 වන අඟහරුවාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා කාලය වෙන් කර ඇත.
+
+අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.00 දක්වා සිවිල් නඩු විධාන සංග්‍රහය (සංශෝධන) (දෙවැනිවර කියවීම) පනත් කෙටුම්පත සහ අධිකරණ සංවිධාන පනත යටතේ නියෝග ද්විත්වයක් විවාදයට ගැනීමට නියමිතය.
+
+අනතුරුව ප.ව 5.00 සිට ප.ව 5.30 දක්වා විපක්ෂය විසින් ගෙනෙනු ලබන සභාව කල්තබන අවස්ථාවේ යෝජනාව විවාදයට ගැනීමට නියමිතය.
+
+ජුලි 24 වන බදාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා කාලය වෙන් කර ඇත.
+
+...
+
+[Data](articles/7893d483.json)
+
+---
+
+### Sri Lanka looks to revamp NVQ, eyes associate degrees
+
+*2024-07-19 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-to-revamp-nvq-eyes-associate-degrees-172883/) · `en`
+
+ECONOMYNEXT – Sri Lanka has too many agencies overseeing post-school education and also needs to reassess its NVQ qualification, the country’s president told a summit on developing human capital.
+
+“We have too many agencies, too many departments, and Ministries running these agencies. I want to have one single agency for this area, which will look after post-school education and all the training centres,” President Ranil Wickremesinghe said.
+
+Wickremesinghe estimated there to be 700-800 such agencies in the country, and said the government should merge them into about 300 vocational colleges, which “can then be updated and modernized.”
+
+“That’s what we have to do. Replace the technical colleges of varying standards with advanced colleges of technology and management and be able to introduce the associate degree in technical and vocational subjects,” he told the Sri Lanka Human Capital Summit 2024 held yesterday (18) at Temple Trees.
+
+...
+
+[Data](articles/d71d6522.json)
+
+---
+
+### President to gazette 22
 
 *2024-07-19 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198985) · `si`
 
-22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ජනපති රනිල් වික්‍රමසිංහ මහතාගේ නියමයෙන් ගැසට් කර තිබේ.
+President Ranil Wickremesinghe has gazetted the 22nd constitutional amendment, replacing "over five years" with a specific term for the President's office. Minister Wijayadasa Rajapaksa confirmed its publication.
 
-මෙම සංශෝධනය ගෙන එන්නේ ජනාධිපතිවරයාගේ ධුර කාලය සම්බන්ධයෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 83 (ආ) ව්‍යවස්ථාවේ සඳහන් වසර 06ක් ඉක්මවා යන වචනය වෙනුවට වසර 05ක් ඉක්මවා යන වචනය ආදේශ කිරීම වෙනුවෙනි.
+🟩
 
-මෙලෙස අද (19) එම ගැසට්ටුව ජනපති නියමයෙන් පළ කෙරුණේ එය ගැසට් කිරීමෙන් වළකින බවට අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා ඊයේ (18) නිවේදනය කළ පසුබිමකය.
+The 22nd constitutional amendment has been gazetted by President Ranil Wickremesinghe.
+
+The amendment is brought to replace the word 'over five years in the Constitution of the President's term of office.
+
+Minister of Justice Wijayadasa Rajapaksa yesterday stated that the gazette was published yesterday (18) that it would be gazetted.
 
 ◼️
 
 [Data](articles/8d9b0175.json)
+
+[Extended Data](ext_articles/8d9b0175.ext.json)
 
 ---
 
@@ -58,29 +102,39 @@ On Thursday (18), Minister of Justice Wijeyadasa Rajapakshe had instructed his m
 
 However, the Justice Minister had claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
 
+This amendment will enable the paragraph (b) of Article 83 of the Constitution pertaining to the President’s term to be amended by replacing the words “exceeding six years” with the words “exceeding five years” stated in paragraph (b) of Article 83 of the Constitution.
+
 ◼️
 
 [Data](articles/d66908f8.json)
 
+[Extended Data](ext_articles/d66908f8.ext.json)
+
 ---
 
-### மக்களுக்கு சதொசவின் மகிழ்ச்சியான செய்தி
+### Sathosa's happy news to people
 
 *2024-07-19 15:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-சதொசவின்-மகிழ்ச்சியான-செய்தி/175-340681) · `ta`
 
-இதன்படி, ஒரு கிலோ கிராம் உளுந்தின் விலை 100 ரூபாவினால் குறைக்கப்பட்டுள்ளது. இதற்கமைய, ஒரு கிலோ கிராம் உளுந்து 1,400 ரூபாவிற்கு விற்பனை செய்யப்படவுள்ளது.
+Lanka Sathosa reduces prices: blackberries now Rs 1,400/kg, Palma 400g for Rs 910, wheat mangoes down by 10 rupees, white chin by 5 rupees, white rice to Rs 200/kg, Giri Samba to Rs 258/kg.
 
-400 கிராம் நிறையுடைய லங்கா சதொச பால்மாவின் விலை 40 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 910 ரூபாவாகும்.
+🟩
 
-கோதுமை மா கிலோ ஒன்றின் விலை 10 ரூபாவினாலும், ஒரு கிலோ கிராம் வெள்ளை சீனியின் விலை 5 ரூபாவினாலும் குறைக்கப்பட்டுள்ளன.
+Accordingly, the price of a kilogram of blackberry has been reduced by 100 rupees. Accordingly, a kilogram of blackberries will be sold for Rs 1,400.
 
-வெள்ளை அரிசி கிலோ ஒன்று 4 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 200 ரூபாவாகும்.
+The price of 400 grams of Lanka Sathosa Palma has been reduced by 40 rupees and its new price is 910 rupees.
 
-கீரி சம்பா கிலோவொன்று 2 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 258 ரூபாவாகும் என லங்கா சதொச நிறுவனம் தெரிவித்துள்ளது. R
+The price of wheat mangoes has been reduced by 10 rupees and the price of a kilogram of white chin has been reduced by 5 rupees.
+
+White rice is reduced by 4 rupees and its new price is 200 rupees.
+
+Giri Samba has been reduced by 2 rupees and its new price is 258 rupees, Lanka Sathosa said. Remble
 
 ◼️
 
 [Data](articles/95563ffd.json)
+
+[Extended Data](ext_articles/95563ffd.ext.json)
 
 ---
 
@@ -111,6 +165,26 @@ Former US President finished the convention, confirming the future of the United
 [Data](articles/7051abed.json)
 
 [Extended Data](ext_articles/7051abed.ext.json)
+
+---
+
+### Sri Lanka warns of bringing back price controls amid sticky prices ahead of polls
+
+*2024-07-19 14:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-warns-of-bringing-back-price-controls-amid-sticky-prices-ahead-of-polls-172889/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government will be compelled to bring back price controls on some essential commodities as most traders have failed to slash their prices in line with the government’s cost reduction of fuel, energy, gas, and transport, Trade Minister Nalin Fernando said.
+
+The plan is now considered days after the island nation slashed the electricity cost by an average of 22.5 percent while gradually reducing the prices of cooking gas and fuel in the last two consecutive months.
+
+Despite the price reductions, the cost of essential foods has still been the same as when the prices of fuel, gas, electricity, and transport were at their peak, consumers say.
+
+President Ranil Wickremesinghe’s government is in the process of reducing the prices of energy sources to slash overall cost of living.
+
+The move comes ahead of a presidential poll possibly in early October which the island nation’s Election Commission is expected to declare next week.
+
+...
+
+[Data](articles/eb7d9bf3.json)
 
 ---
 
@@ -162,6 +236,24 @@ The Supreme Court ruled in 2018 that the quota was illegal was illegal, and Prim
 
 ---
 
+### No such thing as import-substitution economy: Sri Lanka president
+
+*2024-07-19 13:52:00* · [`economynextcom`](https://economynext.com/no-such-thing-as-import-substitution-economy-sri-lanka-president-172882/) · `en`
+
+ECONOMYNEX — There is no such thing as an import-substitution economy and Sri Lanka has to commit to a competitive, modern and export-oriented economy, President Ranil Wickremesinghe said, citing former Australia Prime Minister Scott Morrison.
+
+Speaking at the Sri Lanka Human Capital Summit 2024 on Thursday July 18, Wickremesinghe said Sri Lanka is faced with the problem of getting the whole country to get on board the agenda of developing such an economy.
+
+“When I brought the economic transformation bill, one party in parliament went to court and said it should be rejected because we require an import substitution economy. First and foremost, we must get out of our heads that there is no such thing called an import substitution economy.
+
+“How do you substitute for your imports? You still need the raw material brought. What we have to first undertake and commit ourselves to is to a highly competitive, modern, export-oriented economy, as Prime Minister Scott said.
+
+...
+
+[Data](articles/5bcbce77.json)
+
+---
+
 ### Globally paralyzed Microsoft
 
 *2024-07-19 13:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலகளாவிய-ரீதியாக-முடங்கியது-மைக்ரோசொஃப்ட்/50-340680) · `ta`
@@ -205,6 +297,22 @@ The cause of this situation is yet to be ascertained, it is reported that it is 
 [Data](articles/60919c34.json)
 
 [Extended Data](ext_articles/60919c34.ext.json)
+
+---
+
+### Sri Lanka’s Premadasa second least unpopular in June, according to poll
+
+*2024-07-19 13:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-premadasa-second-least-unpopular-in-june-according-to-poll-172879/) · `en`
+
+ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa’s net favourability rating increased by 27 points to -39 while President Ranil Wickremesinghe’s also increased by 10 points to -66 in June compared to the previous month, though rival presidential hopeful Anura Kumara Dissanayake remained the least unpopular at -20 despite an 18-point drop, according to an independent poll.
+
+The Institute for Health Policy (IHP)’s Sri Lanka Opinion Tracker Survey (SLOTS) showed that, in June 2024, Premadasa was the second least unpopular.
+
+IHP explained in a statement that favourability estimates for each month are based on 100–500 interviews conducted during that month and during a few weeks before and afterward to ensure a minimum set of responses. The June 2024 estimates are based on 302 (Premadasa), 290 (Dissanayake), 299 (Wickremasinghe), and 123 (Gotabaya Rajapaksa) interviews.
+
+...
+
+[Data](articles/eb618f1f.json)
 
 ---
 
@@ -2083,125 +2191,5 @@ The Supreme Court not to be heard to a referendum until the Constitution of the 
 [Data](articles/bb2276e3.json)
 
 [Extended Data](ext_articles/bb2276e3.ext.json)
-
----
-
-### The US donated equipment necessary to deal with climate change disasters
-
-*2024-07-19 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/188809) · `ta`
-
-The US has donated climate change disaster relief equipment to Sri Lanka through the UN World Food Scheme, funded by USAID. The $2.5 million allocation aims to enhance Sri Lanka's Disaster Management Center's capabilities, ensuring readiness against climate-related emergencies. This initiative aligns with the US's global humanitarian efforts to safeguard lives and properties from disaster impacts.
-
-🟩
-
-The US has donated the necessary equipment to ensure that Sri Lanka is ready to face the disasters and emergency situations associated with climate change.
-
-The United Nations World Food Scheme has been provided with the United Nations World Food Scheme under the funding of the US Agency for International Development. The $ 2.5 million fund has been allocated by the US Agency for the special activities of the World Food Scheme.
-
-The equipment has been handed over to the Director General of the Disaster Management Center, Udaya Herath by Tusrin Shio, the southern and Central Asian Regional Humanitarian Advisor of the Humanitarian Authority of the US Agency for International Development.
-
-Commenting on this, the US embassy in Colombo, Duck Sonac, pointed out that "the main objective of the humanitarian disaster program in Sri Lanka and globally is being carried out by the United States to protect lives and property and reduce the impact of people."
-
-...
-
-[Data](articles/b8b0240f.json)
-
-[Extended Data](ext_articles/b8b0240f.ext.json)
-
----
-
-### If state officials act on election irregularities, we will seek court - election monitoring organizations warning
-
-*2024-07-19 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188808) · `ta`
-
-Election monitoring groups threaten legal action against state officials who fail to enforce election laws. They argue that politicians' violations are supported by these officials. The People's Movement for Freedom and Fair Elections is consulting lawyers over allegations of improper candidate appointments by provincial governors. Additionally, concerns are raised about misuse of state funds for elections, with potential legal challenges looming for both issues.
-
-🟩
-
-Election monitoring organizations have warned that state officials who are supposed to act in accordance with election laws on election laws across the country will be sued in court.
-
-Commenting on this, Rohana Hettiarachchi, the executive of the People's Movement for Freedom and Fair Elections, pointed out that politicians cannot violate election laws without the support of state officials.. He said that the proceedings should be completed and the next step should be sought by the court.
-
-“Governors of some provinces including Uva, North and North Central Province have appointed local government election candidates for various positions. We are discussing this with our lawyers, ”Rohana Hettiarachchi said.
-
-He also pointed out that if the country's leader does not respect the election laws, he will have to go to the High Court, saying that about 20 candidates will field in the upcoming presidential election.
-
-...
-
-[Data](articles/69fe089d.json)
-
-[Extended Data](ext_articles/69fe089d.ext.json)
-
----
-
-### 4 out of 10 families deal with alternatives to meet daily food service -World Food Scheme
-
-*2024-07-19 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188807) · `ta`
-
-In Sri Lanka, amid recovery from an economic crisis, 40% of families resort to alternative means for daily food due to the World Food Scheme's efforts. The scheme, supported by UN agencies and civil society, assesses flood victims' needs and distributes food supplies, including oil and pears, to schools and vulnerable communities. This initiative also focuses on promoting nutrition awareness during National Nutrition Month, highlighting the importance of healthy food as a right.
-
-🟩
-
-While Sri Lanka is gradually recovering from the economic crisis, the World Food Scheme has indicated that 4 out of 10 families around the country will continue to deal with various alternatives to meet their daily livelihoods and food needs.
-
-Under the guidelines of the World Food Scheme, the agencies and civil society organizations in the United Nations have carried out a review from the 11th and 14th of last month to find the needs of the people affected by the flood disaster in the country and provide information to the government and humanitarian aid organizations.
-
-At the same time, the World Food Program was distributed to 7012 schools in the country last June to expand the food supply for the National Schools, 421 metric tons of oil and 271 metric tons of pear.
-
-...
-
-[Data](articles/9fd143d8.json)
-
-[Extended Data](ext_articles/9fd143d8.ext.json)
-
----
-
-### The Election Commission is backing the election announcement to give the government the opportunity to back the election - Lakshman Kiriella
-
-*2024-07-19 02:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188806) · `ta`
-
-Lakshman Kiriella, opposition leader, questions the Election Commission's authority to announce the presidential election date, suggesting it might delay the process. He criticizes the lack of clarity on when the election will be held, hinting at potential government interference. Despite the Election Commission's readiness to announce the date soon, skepticism remains due to past delays and concerns over constitutional amendments and government involvement.
-
-🟩
-
-It is doubtful that the Election Commission has the authority to announce the date of the presidential election.. Opposition's Prime Minister Lakshman Kiriella said that this move would be given to the government to put a barrier to the election at some point.
-
-He was speaking to the media after the meeting of party leaders on Friday (18) in Parliament.
-
-A meeting of party leaders was held. Nothing talked about the constitutional amendment. However, the next parliamentary session is likely to bring about a constitutional amendment.
-
-It is well known that the Election Commission has the authority to announce the date and announce the date after July 17. However, an official of the Election Commission said he would announce the presidential election at the end of this month. I ask why the date of the election should be seen until the end of the month. We are skeptical of this move by the Election Commission.
-
-...
-
-[Data](articles/23b9166a.json)
-
-[Extended Data](ext_articles/23b9166a.ext.json)
-
----
-
-### Rajapaksa's cooperation of the country is not going to support the candidate who has pushed the country - Batali Champika Ranawaka
-
-*2024-07-19 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/188805) · `ta`
-
-UNP President Patali Champika Ranawaka criticizes Rajapaksas for leading Sri Lanka into bankruptcy and crisis, refusing to support any presidential candidate aligned with them. He highlights the need for accountability for economic issues, including "economic assassinations," and calls for a referendum to amend the constitution.
-
-🟩
-
-We are not going to support the presidential candidate that Rajapaksas cooperate. This is because the Rajapaksas have put this country into a bankruptcy and put every family into crisis. UNP President Patali Champika Ranawaka said no action has been taken against the Rajapaksa who named the Supreme Court as economic assassinations.
-
-He was speaking to the media after a event in Colombo on Thursday (18).
-
-We have expressed a comprehensive project to build the country.
-
-The Election Commission has been responsible for the official announcement of the presidential election.
-
-A draft legal draft has been prepared to amend the Constitution. People will go to a referendum with a two -thirds majority to accomplish this amendment. With the presidential election being carried out, the presidential election will be affected when a public referendum is related to the presidential election.
-
-...
-
-[Data](articles/62d333f0.json)
-
-[Extended Data](ext_articles/62d333f0.ext.json)
 
 ---

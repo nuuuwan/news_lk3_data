@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 21:05:52**
+As of **2024-07-19 21:20:20**
 
 ## Newspaper Stats
 
-*Scraped **36,163** Articles*
+*Scraped **36,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,176
 tamilmirrorlk | 4,392
 dailymirrorlk | 4,733
 virakesarilk | 5,653
-adaderanasinhalalk | 6,051
+adaderanasinhalalk | 6,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,163 (100.0%) of 36,163 articles have been extended.
+36,163 (100.0%) of 36,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### ජයම්පති ගේ අතපසුවීමට ජනපති සමාව ඉල්ලයි
+
+*2024-07-19 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198997) · `si`
+
+2015 වසරේ ව්‍යවස්ථා සංශෝධනය සිදු කරන අවස්ථාවේදී ජයම්පති වික්‍රමරත්න නීතිඥවරයාගෙන් සිදු වූ අතපසුවීමක් හේතුවෙන් වත්මන් ගැටලු සහගත තත්ත්වය ඇති ව තිබෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පැවසුවේ තමන් ඒ සම්බන්ධයෙන් ජනතාවගෙන් සමාව ඉල්ලා සිටින බවය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ ගාල්ල, බෙලිගහ ප්‍රදේශයේ ඉදිකළ නව අධිකරණ සංකීර්ණය විවෘත කිරීමේ අවස්ථාවට අද (19) එක්වෙමිනි.
+
+ඔහු පැවසුවේ සර්වජන ඡන්ද බලය හිමිවීමෙන් පසුව ප්‍රජාතන්ත්‍රවාදය අඛණ්ඩව ක්‍රියාත්මක එකම රට ශ්‍රී ලංකාව වන බවත් එම තත්ත්වය ඉදිරියටත් රැකගැනීමට තමන් කැප වන බැවින් ව්‍යවස්ථා සංශෝධන සම්බන්ධයෙන් කිසිදු බියක් ඇති කර නොගත යුතු බවත්ය.
+
+...
+
+[Data](articles/d38ed08c.json)
+
+---
 
 ### International Airport to Hingurakgoda
 
@@ -2379,27 +2397,5 @@ Dr. Hiroto highlighted that the international community’s confidence in Presid
 [Data](articles/ba581d90.json)
 
 [Extended Data](ext_articles/ba581d90.ext.json)
-
----
-
-### A young man hitting an ambulance
-
-*2024-07-19 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198974) · `si`
-
-A 22-year-old from Panadura died after crashing his motorcycle into an ambulance at the Youth Services Road Junction in Colombo, en route to Colombo from Galle.
-
-🟩
-
-A young man who traveled by a motorcycle and ambulance have died on the motorcycle.
-
-The accident occurred at the Youth Services Mawatha, Colombo to Colombo at Youth Services Road Junction towards Galle to Colombo.
-
-The 22-year-old resident of Panadura has died on admission to the Karapitiya Hospital.
-
-◼️
-
-[Data](articles/87065b95.json)
-
-[Extended Data](ext_articles/87065b95.ext.json)
 
 ---

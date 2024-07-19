@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 22:08:54**
+As of **2024-07-19 22:20:14**
 
 ## Newspaper Stats
 
-*Scraped **36,172** Articles*
+*Scraped **36,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,61 @@ adaderanalk | 4,177
 tamilmirrorlk | 4,392
 dailymirrorlk | 4,733
 virakesarilk | 5,658
-adaderanasinhalalk | 6,054
+adaderanasinhalalk | 6,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,170 (100.0%) of 36,172 articles have been extended.
+36,172 (100.0%) of 36,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### 51 දෙනෙක් රෝහලට යැවූ බිහිසුණු බස් අනතුර
+### ලෝකෙම නැවැත්වූ Blue Screen Death - සම්පූර්ණ විස්තරය මෙන්න
+
+*2024-07-19 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199000) · `si`
+
+මයික්‍රොසොෆ්ට් ප්‍රධාන මෙහෙයුම් පද්ධති ඇතුළු යෙදවුම් සේවා රැසක බිඳ වැටීමක් හේතුවෙන් මේ වනවිට ලොව පුරා රටවල් රැසක දෛනික කටයුතුවලට දැඩි බාධා එල්ල වී තිබේ.
+
+ඒ හේතුවෙන් ගුවන් ගමන්, බැංකු සේවා, රූපවාහිනී නාලිකා විකාශන කටයුතු ඇතුළු සේවා රැසක මෙහෙයුම් අනපේක්ෂිත ලෙස අඩාළ වුණි.
+
+මෙම බිඳවැටීමෙන්, ශ්‍රී ලංකන් ගුවන් සේවයට සහ මෙරට පෞද්ගලික ආයතන හතරක මෙහෙයුම් කටයුතුවලටත් එල්ලවුණේ දැඩි බලපෑමකි.
+
+ලෝකය නවීන තාක්ෂණය අතින් වේගවත් සංවර්ධනයක නිරතව සිටින මොහොතක ‍මහා පරිමාණ ගෝලීය තොරතුරු තාක්ෂණික බිඳ වැටීමක් පිළිබඳව වාර්තා වූයේ මෙරට වේලාවෙන් අද (19) මධ්‍යාහ්න කාලයේදී ය.
+
+මයික්‍රොසොෆ්ට් ප්‍රධාන මෙහෙයුම් පද්ධති ඇතුළු ප්‍රධාන යෙදවුම් සේවා රැසක බිඳ වැටීම පළමුව වාර්තා වී තිබුණේ අමෙරිකාවෙනි.
+
+ඒ සමග, "බ්ලූ ස්ක්‍රීන් ඩෙත්" යනුවෙන් දෝෂයක් ලොව පුරා රටවල් රැසක පරිගණක තිර මත දිස්වීමත් සමඟ එය විදෙස් මාධ්‍යවල ප්‍රමුඛ පුවත බවට පත්වුණි.
+
+පරිගණක ජාලවල මයික්ක්‍රොසොෆ්ට් යෙදවුම් අනපේක්ෂිත ලෙස ඇනහිටීම "බ්ලූ ස්ක්‍රීන් ඩෙත්" දෝෂය ලෙස දැක්වෙයි.
+
+...
+
+[Data](articles/76ef040d.json)
+
+---
+
+### 51 terrible bus accident who sent 51
 
 *2024-07-19 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198999) · `si`
 
-ත්‍රිකුණාමලය - මඩකලපුව මාර්ගයේ ගෙංගේ පාලම අසලදී අද (19) සවස පෞද්ගලික බස් රථයක් මාර්ගයෙන් ඉවතට ලිස්සා ගොස් පෙරළී යාමෙන් අනතුරක් සිදුව තිබේ.
+A private bus veered off the Trincomalee Bridge, injuring its passengers and the driver. All were hospitalized, including the driver. The bus was traveling from Jaffna to Kataragama.
 
-ඉන් බස් රථයේ මගීන් සහ රියදුරු ඇතුළු 51 දෙනෙක් තුවාල ලබා ප්‍රතිකාර සඳහා මුතූර් රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+🟩
 
-පොලීසිය පැවසුවේ එම බස් රථය වන්දනාවේ යන පිරිසක් රැගෙන යාපනයේ සිට කතරගම දක්වා ධාවනය වෙමින් තිබූ බව සඳහන් ය.
+A private bus was slipped away from the Trincomalee Bridge, Trincomalee Bridge.
+
+The buses and the driver of the bus have been admitted to the Muttur Hospital for treatment.
+
+According to police, the bus was running from Jaffna to Kataragama.
 
 ◼️
 
 [Data](articles/9ff509c2.json)
+
+[Extended Data](ext_articles/9ff509c2.ext.json)
 
 ---
 
@@ -69,6 +99,8 @@ The arrested suspect was remanded until August 03 after being produced before th
 ...
 
 [Data](articles/52fb436a.json)
+
+[Extended Data](ext_articles/52fb436a.ext.json)
 
 ---
 
@@ -2397,31 +2429,5 @@ I got a letter today after yesterday's date to come to the Ministry of Health.
 [Data](articles/cdca3a9e.json)
 
 [Extended Data](ext_articles/cdca3a9e.ext.json)
-
----
-
-### Dissolve
-
-*2024-07-19 09:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/முட்கிளுவை-முள்ளு-குத்தி-மூதாட்டி-உயிரிழப்பு/71-340674) · `ta`
-
-Vanitarekarasi Balasubramaniam, 73, from Kalabhoomi, Jaffna, died untreated after being injured by a Mudkilu tree's thorn. The injury occurred while collecting firewood, leading to a severe infection. She was hospitalized but passed away before receiving proper treatment.
-
-🟩
-
-A grandmother has died without treatment due to injury to the thorns of the Mudkilu tree.
-
-The deceased is Vanitarekarasi Balasubramaniam (age 73) from Kalabhoomi, Karainagar, Jaffna.
-
-When the firewood went to tolerate the past few days, the thorn of the bark was pierced on the thorny leg.
-
-He was admitted to the Jaffna Bodhana Hospital for further treatment.
-
-The intake examination states that the infection caused by the thorn in the thorn.R
-
-◼️
-
-[Data](articles/73efe76e.json)
-
-[Extended Data](ext_articles/73efe76e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 17:05:13**
+As of **2024-07-19 17:20:12**
 
 ## Newspaper Stats
 
-*Scraped **36,142** Articles*
+*Scraped **36,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,75 @@ islandlk | 2,052
 economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
-adaderanalk | 4,172
+adaderanalk | 4,173
 tamilmirrorlk | 4,390
 dailymirrorlk | 4,733
 virakesarilk | 5,648
-adaderanasinhalalk | 6,045
+adaderanasinhalalk | 6,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,138 (100.0%) of 36,142 articles have been extended.
+36,142 (100.0%) of 36,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### 22 ගැන මැතිවරණ කොමසාරිස් ජනරාල්ගෙන් ප්‍රකාශයක්
+### ක්‍රිකට් නායකයා ගේ ඝාතකයා කොටුවෙයි
+
+*2024-07-19 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198991) · `si`
+
+ශ්‍රී ලංකා වයස අවුරුදු 19න් පහළ ක්‍රිකට් කණ්ඩායමේ හිටපු නායකයෙක් වන ධම්මික නිරෝෂණ ව ඔහුගේ නිවාස ඉදිරිපිටදී ඝාතනය කිරීමට සම්බන්ධ වෙඩික්කරු අත්අඩංගුවට ගෙන තිබේ.
+
+ගාල්ල දිසා අපරාධ කොට්ඨාසය මඟින් එම සැකකරුව ඊයේ (18) සවස අත්අඩංගුවට ගත් බව එම ඒකකය පැවසීය.
+
+ධම්මික නිරෝෂණ හෙවත් ජොන්ටි ඝාතනය සඳහා සැකකරුවන් තිදෙනෙක් පැමිණ තිබූ අතර අනෙක් දෙදෙනාව හදුනාගෙන ඇති බවද නිලධාරින් කීය.
+
+48 හැවිරිදි සැකකරුව බලපිටිය රන්දොඹේ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබුණේ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 2,800 ක්ද සමගය.
+
+වෙඩික්කරුවන් වෙස්වලාගැනිමට යොදාගත් ඇඳුම් කට්ටල ඇල්පිටිය කොට්ඨාස අපරාධ අංශයේ නිලධාරින් විසින් සොයාගෙන තිබේ .
+
+ඝාතනය විදෙස් රටකින් ලැබුණු කොන්ත්‍රාත්තුවකට සිදුකර ඇති බවට පොලීසිය සැකකරයි.
+
+එම සැකකරු බලපිටිය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව අගොස්තු 03 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කළේය.
+
+◼️
+
+[Data](articles/11143d07.json)
+
+---
+
+### No impediments to declaring Presidential Poll – Election Commission
+
+*2024-07-19 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100629/-no-impediments-to-declaring-presidential-poll-election-commission) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake says that there are no impediments to declaring the Presidential Election by the gazetting of the 22nd Amendment to the Constitution.
+
+Furthermore, the Elections Commissioner General stated that the commission has the power to fairly hold the upcoming elections despite any incoming influence.
+
+◼️
+
+[Data](articles/5754ddfc.json)
+
+---
+
+### A statement from the Commissioner General of Elections
 
 *2024-07-19 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198990) · `si`
 
-22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ගැසට් කිරීම මගින් ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමට බාධාවක් නොමැති බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+Saman Sri Ratnayake, the Commissioner General of Elections, assures that publishing the presidential election through the 22nd constitution poses no obstacles.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says that there is no hindrance to publish the presidential election by gazetting the 22nd constitution.
 
 ◼️
 
 [Data](articles/61ed43fa.json)
+
+[Extended Data](ext_articles/61ed43fa.ext.json)
 
 ---
 
@@ -48,7 +92,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-07-19 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100628/sri-lankan-entities-also-impacted-by-global-it-outage) · `en`
 
-Several private entities in Sri Lanka have also been affected by the mass global IT outage, according to Sri Lanka Computer Emergency Readiness Team (SL CERT).
+Sri Lanka Computer Emergency Readiness Team (SL CERT) says that there have been reports of several private entities in Sri Lanka also have been affected by the mass global IT outage.
 
 Crowdstrike, a cybersecurity firm with thousands of customers globally, admitted on Friday (19) that a defective software update had caused the major IT outage that is bringing airports, banks, hospitals, media outlets, and businesses to a halt worldwide.
 
@@ -62,6 +106,8 @@ Meanwhile, foreign media reported quoting authorities that banks and telecom com
 
 [Data](articles/761b37bb.json)
 
+[Extended Data](ext_articles/761b37bb.ext.json)
+
 ---
 
 ### Development of Sri Lanka’s 6th international airport begins in Hingurakgoda
@@ -72,31 +118,41 @@ Minister of Aviation Nimal Siripala de Silva has officially inaugurated the runw
 
 “This ambitious project, the largest ever undertaken by the Sri Lanka Air Force, demonstrates exceptional civil engineering capabilities and dedication to advancing the Sri Lankan Aviation Sector” the Sri Lanka Air Force said.
 
-Delivering the budget speech in the Parliament in November last year, President Ranil Wickremesinghe had announced that a financial allocation of Rs. 02 billion will be made for the basic activities of the construction of Hingurakgoda International Airport.
+According to a government decision, construction work to modernize Hingurakgoda Domestic Airport for international flight operations commenced today (19th) under the initiative of the Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
 
-He said the decision was taken in consideration of the fact that construction activities of the proposed airport are yet to be implemented, although there have been discussions on various scales for some time.
+The airport, formerly known as RAF Minneriya, was built during World War II for the British Royal Air Force.
+
+President Ranil Wickremasinghe has decided to transform the airport, located in the middle of the country, into an international airport, to strengthen Sri Lanka’s economic enhancement.
 
 ...
 
 [Data](articles/527be3e7.json)
 
+[Extended Data](ext_articles/527be3e7.ext.json)
+
 ---
 
-### ඊශ්‍රායලය බිය වෙයි
+### Israel is afraid
 
 *2024-07-19 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198989) · `si`
 
-ඊශ්‍රායලයේ ටෙල් අවීව් නගර මධ්‍යයට අද උදෑසන එල්ල වූ දිගුදුර ඩ්‍රෝන ප්‍රහාරයකින් එම නගර වැසියන් භීතියට පත්වූ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේය.
+Israel fears a terror attack linked to Iran, causing one death and four injuries. A Hezbollah leader's assassination is suspected.
 
-එම ප්‍රහාරය ඉරානයේ සහාය ලබන හූති කැරළිකරුවන් විසින් එල්ල කරන්නට ඇතැයි සැලකෙයි.
+🟩
 
-එම ප්‍රහාරයෙන් එක් පුද්ගලයෙක් මියගොස් තවත් සිව් දෙනෙක් සුළු තුවාල ලැබූ බව වාර්තා විය.
+International media reports that the city inhabitants were terrified in a delegation of the Tel Avav town in Israel this morning.
 
-එම ප්‍රහාරය එල්ලකර ඇත්තේ, දකුණු ලෙබනනයට එල්ල කළ ප්‍රහාරයකින් ප්‍රධාන පෙළේ හිස්බුල්ලා ගරිල්ලා නායකයෙක් ඝාතනය කළ බවට ඊශ්‍රායලය විසින් නිවේදනය කර පැය කිහිපයකට පසුව බව සඳහන් විය.
+The attack is thought that the attack was also associated with Iran's support.
+
+One person was killed and four others were injured in the attack.
+
+The attack was launched by Israel announced a few hours after Israel announced a leading Hezbollah guerrilla leader.
 
 ◼️
 
 [Data](articles/9209fad6.json)
+
+[Extended Data](ext_articles/9209fad6.ext.json)
 
 ---
 
@@ -2235,41 +2291,5 @@ This consignment, part of a broader $ 2.5 million (approximately Rs. 760 million
 [Data](articles/fd59f1ad.json)
 
 [Extended Data](ext_articles/fd59f1ad.ext.json)
-
----
-
-### All parties approve legislation to establish new villages for plantation workers
-
-*2024-07-19 05:16:05* · [`dailyftlk`](https://www.ft.lk/news/All-parties-approve-legislation-to-establish-new-villages-for-plantation-workers/56-764459) · `en`
-
-In a significant development, all parties have agreed on a timely proposal to enact legislation declaring areas where plantation workers dwell within State-managed plantations, overseen by the State Plantation Corporation and regional companies, as new villages.
-
-A special discussion on this matter was held at the Presidential Secretariat on Wednesday, under the patronage of President Ranil Wickremesinghe.
-
-This legislative initiative marks a significant step towards improving the living conditions and securing the land rights of plantation workers.
-
-Parliamentarian Mano Ganesan emphasised the crucial need to secure land rights for current plantation dwellers under this initiative and submitted a corresponding proposal to the President.
-
-...
-
-[Data](articles/7fcd60e6.json)
-
-[Extended Data](ext_articles/7fcd60e6.ext.json)
-
----
-
-### Senior Advisor to President engages with Institution of Engineers (IESL) on Water Resources Management Policy Development
-
-*2024-07-19 05:14:05* · [`dailyftlk`](https://www.ft.lk/news/Senior-Advisor-to-President-engages-with-Institution-of-Engineers-IESL-on-Water-Resources-Management-Policy-Development/56-764458) · `en`
-
-Under the direction of President Wickremesinghe, Senior Advisor to the President, Dr. R.H.S. Samarathunga, held a productive meeting with representatives from the Institution of Engineers, Sri Lanka (IESL). Attendees included IESL President Prof. Ranjith Dissanayake, immediate past President Eng. Dr. Kamal Laksiri, IESL Policy Forum Chairman Eng. M.G. Hemchandra. Ministry of Water Supply Secretary Nafeel Mohomad, also participated in the discussion.
-
-Dr. Samarathunga expressed his appreciation for the valuable contributions made by IESL and invited the organisation to join the committee tasked with drafting new acts and regulations related to policy development. He emphasised that many of the comments and suggestions from IESL would be considered and incorporated during this critical phase. This collaboration marks a significant step forward in the Policy of Water Resources Management that will impact Sri Lanka’s future.
-
-...
-
-[Data](articles/485d5fc4.json)
-
-[Extended Data](ext_articles/485d5fc4.ext.json)
 
 ---

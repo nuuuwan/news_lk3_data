@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 17:20:12**
+As of **2024-07-19 17:35:54**
 
 ## Newspaper Stats
 
-*Scraped **36,144** Articles*
+*Scraped **36,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,052
 economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
-adaderanalk | 4,173
+adaderanalk | 4,174
 tamilmirrorlk | 4,390
 dailymirrorlk | 4,733
 virakesarilk | 5,648
@@ -26,33 +26,59 @@ adaderanasinhalalk | 6,046
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,142 (100.0%) of 36,144 articles have been extended.
+36,144 (100.0%) of 36,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ක්‍රිකට් නායකයා ගේ ඝාතකයා කොටුවෙයි
+### SriLankan Airlines restores internet booking services following global outage
+
+*2024-07-19 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100630/srilankan-airlines-restores-internet-booking-services-following-global-outage) · `en`
+
+SriLankan Airlines announced that its internet booking services have been fully restored as of 08:30 GMT (02.00 pm local time), following a global outage of third-party service providers that affected the airline’s online booking services.
+
+“We understand that this may have impacted the experience of some of our passengers, and we sincerely apologize for any inconvenience caused,” the airline said in a brief statement.
+
+Passengers are instructed to contact the Global Contact Centre at +94 19733 1979 for any further assistance with existing or new bookings.
+
+The failure of IT systems across the world have caused delays and issues at airports across Asia, causing several airlines to ground flights.
+
+AirAsia said its “core reservation and check-in system” have been impacted by the Microsoft tech issues while Cebu Pacific Air said it was forced to handle all processes manually due to the outage.
+
+...
+
+[Data](articles/0e661464.json)
+
+---
+
+### The killer of the leader of the cricket leader is arrested
 
 *2024-07-19 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198991) · `si`
 
-ශ්‍රී ලංකා වයස අවුරුදු 19න් පහළ ක්‍රිකට් කණ්ඩායමේ හිටපු නායකයෙක් වන ධම්මික නිරෝෂණ ව ඔහුගේ නිවාස ඉදිරිපිටදී ඝාතනය කිරීමට සම්බන්ධ වෙඩික්කරු අත්අඩංගුවට ගෙන තිබේ.
+A shooter linked to the murder of a cricket team's former leader, Dhammika Nirosy, was arrested near his home. The suspect, aged 48, was found with drugs and is believed to have connections to foreign countries. He was remanded until August 3rd.
 
-ගාල්ල දිසා අපරාධ කොට්ඨාසය මඟින් එම සැකකරුව ඊයේ (18) සවස අත්අඩංගුවට ගත් බව එම ඒකකය පැවසීය.
+🟩
 
-ධම්මික නිරෝෂණ හෙවත් ජොන්ටි ඝාතනය සඳහා සැකකරුවන් තිදෙනෙක් පැමිණ තිබූ අතර අනෙක් දෙදෙනාව හදුනාගෙන ඇති බවද නිලධාරින් කීය.
+The shooter was arrested in front of the former leader of the Under-19 cricket team in front of his housing.
 
-48 හැවිරිදි සැකකරුව බලපිටිය රන්දොඹේ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබුණේ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 2,800 ක්ද සමගය.
+The suspect was arrested by the Galle District Crimes Division yesterday evening.
 
-වෙඩික්කරුවන් වෙස්වලාගැනිමට යොදාගත් ඇඳුම් කට්ටල ඇල්පිටිය කොට්ඨාස අපරාධ අංශයේ නිලධාරින් විසින් සොයාගෙන තිබේ .
+Officers said that the two suspects have come to the murder of Dhammika Nirosy, who had identified the two others.
 
-ඝාතනය විදෙස් රටකින් ලැබුණු කොන්ත්‍රාත්තුවකට සිදුකර ඇති බවට පොලීසිය සැකකරයි.
+The 48-year-old suspect had been arrested in the Balapitiya area with 2,800 milligrams of ice.
 
-එම සැකකරු බලපිටිය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව අගොස්තු 03 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කළේය.
+Elpitiya Divisional Crimes Divisional Secretariats have been recovered by the officers of the Elpitiya Divisional Secretariat.
+
+The police suspect that the murder was received from a foreign country.
+
+The suspect was produced before the Balapitiya Magistrate's Court and remanded until the 3rd of August.
 
 ◼️
 
 [Data](articles/11143d07.json)
+
+[Extended Data](ext_articles/11143d07.ext.json)
 
 ---
 
@@ -67,6 +93,8 @@ Furthermore, the Elections Commissioner General stated that the commission has t
 ◼️
 
 [Data](articles/5754ddfc.json)
+
+[Extended Data](ext_articles/5754ddfc.ext.json)
 
 ---
 
@@ -118,7 +146,7 @@ Minister of Aviation Nimal Siripala de Silva has officially inaugurated the runw
 
 “This ambitious project, the largest ever undertaken by the Sri Lanka Air Force, demonstrates exceptional civil engineering capabilities and dedication to advancing the Sri Lankan Aviation Sector” the Sri Lanka Air Force said.
 
-According to a government decision, construction work to modernize Hingurakgoda Domestic Airport for international flight operations commenced today (19th) under the initiative of the Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
+According to a government decision, construction work to modernize Hingurakgoda Domestic Airport for international flight operations commenced today (19) under the initiative of the Minister of Ports, Shipping and Aviation.
 
 The airport, formerly known as RAF Minneriya, was built during World War II for the British Royal Air Force.
 
@@ -2273,23 +2301,5 @@ Dr. Hiroto highlighted that the international community’s confidence in Presid
 [Data](articles/a6ba51d7.json)
 
 [Extended Data](ext_articles/a6ba51d7.ext.json)
-
----
-
-### US supports Sri Lanka’s emergency preparedness efforts through WFP
-
-*2024-07-19 05:17:32* · [`dailyftlk`](https://www.ft.lk/news/US-supports-Sri-Lanka-s-emergency-preparedness-efforts-through-WFP/56-764460) · `en`
-
-USAID BHA Regional Humanitarian Advisor for South and Central Asia Dustin Shiau and WFP Sri Lanka Representative Abdur Rahim Siddiqui hand over the equipment to DMC Director General Major General (Rtd.) Udaya Herath in the presence of Senior Additional Secretary to the President S.M. Saman Bandulasena, and WFP Program Policy Officer Gothami Chandraratne
-
-To strengthen Sri Lanka’s preparedness for climate-related emergencies, the US Government, through the United States Agency for International Development’s (USAID) and Bureau for Humanitarian Assistance (BHA), donated vital equipment to the Disaster Management Centre (DMC) via the United Nations World Food Program (WFP).
-
-This consignment, part of a broader $ 2.5 million (approximately Rs. 760 million) USAID-funded WFP project, complements Government efforts to improve its disaster risk management capacities.
-
-...
-
-[Data](articles/fd59f1ad.json)
-
-[Extended Data](ext_articles/fd59f1ad.ext.json)
 
 ---

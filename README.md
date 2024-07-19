@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 09:55:13**
+As of **2024-07-19 10:08:06**
 
 ## Newspaper Stats
 
-*Scraped **36,064** Articles*
+*Scraped **36,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,47 +12,123 @@ dbsjeyarajcom | 319
 colombotelegraphcom | 338
 bbccomsinhala | 353
 newsfirstlk | 363
-islandlk | 2,050
+islandlk | 2,051
 economynextcom | 2,151
 dailyftlk | 2,304
 adalk | 3,259
 adaderanalk | 4,156
 tamilmirrorlk | 4,380
 dailymirrorlk | 4,733
-virakesarilk | 5,625
+virakesarilk | 5,629
 adaderanasinhalalk | 6,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,062 (100.0%) of 36,064 articles have been extended.
+36,064 (100.0%) of 36,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ආසියානු කුසලාන T20 කාන්තා ක්‍රිකට් තරගාවලිය අද ඇරඹෙයි
+### ரயில் மோதி நபரொருவர் உயிரிழப்பு !
 
-*2024-07-19 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198976) · `si`
+*2024-07-19 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/188814) · `ta`
 
-ආසියානු කුසලාන T20 කාන්තා ක්‍රිකට් තරගාවලිය අද (19) දඹුල්ලේදී ආරම්භ වෙයි.
+காலியில் இருந்து மாத்தறை நோக்கி பயணித்த ரயிலில் மோதி  28 வயதுடைய நபர் ஒருவர் உயிரிழந்துள்ளார்.
 
-ඒ අනුව අද දිනයේදී තරග දෙකක් පැවැත්වීමට නියමිත අතර තරගාවලියේ සියලු තරග නොමිලේ නැරඹීමට ක්‍රීඩාලෝලින්ට අවස්ථාව සලසා දී ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+காலி துறைமுக பொலிஸ் பிரிவிற்குட்பட்ட கொட்டுகொட ரயில்  மார்க்கத்தில்  நுழைவாயிலுக்கு அருகில் நேற்று வியாழக்கிழமை  (18) மாலை இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
 
-2004 වසරේදී ආරම්භ වූ ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය 2008 වසර දක්වා එක්දින තරගාවලියක් ලෙස පවත්වා ඇති අතර එය 2012 වසරේ සිට සංවිධාන කෙරෙන්නේ T20 තරගාවලියක් ලෙසසය.
+◼️
 
-ඒ අනුව කණ්ඩායම් 8කගේ සහභාගිත්වයෙන් පැවැත්වෙන මෙවර ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේ සත්කාරකත්වයෙන් රංගිරි දඹුල්ල ක්‍රීඩාංගණයේදී පැවත්වෙයි.
+[Data](articles/39a23eff.json)
 
-අද සිට 28 වනදා දක්වා පැවැත්වෙන තරගාවලිය කාණ්ඩ දෙකක් යටතේ පැවැත්වෙන අතර ඒ කාණ්ඩයෙන් ඉන්දියාව, පාකිස්තානය, නේපාලය සහ එක්සත් අරාබි එමීර් රාජ්‍ය තරග වදී.
+---
 
-බී කාණ්ඩයෙන් තරග වදින්නේ සත්කාරක ශ්‍රී ලංකාව, බංග්ලාදේශය, මැලේසියාව සහ තායිලන්තයයි.
+### யாழ்ப்பாண மக்களுக்காக உண்மையாக செயற்பட்டேன் ; அது வைத்தியத்துறை மாபியாக்களுக்கு பிடிக்கவில்லை - சாவகச்சேரி ஆதார வைத்தியசாலையின்  முன்னாள் பதில் வைத்திய அத்தியட்சகர்
 
-තරගාවලිය ආරම්භ කරමින් පළමු දිනයේදී තරග දෙකක් පැවැත්වෙන අතර ඒ අනුව ඒ කාණ්ඩය යටතේ නේපාලය සහ එක්සත් අරාබි එමීර් රාජ්‍යයත්, බී කාණ්ඩය යටතේ ඉන්දියාව සහ පාකිස්තානයත් තරග වැදීමට නියමිතව තිබේ.
+*2024-07-19 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188815) · `ta`
+
+யாழ்ப்பாண மக்களுக்காக உண்மையாக செயற்பட்டேன். அது வைத்தியத்துறை மாபியாக்களுக்கு பிடிக்கவில்லை. அதனால் என்னை இங்கிருந்து விரட்டுகின்றனர். ஆனால், இந்த மக்களின் அன்பு என்பது எனது இதயத்துடிப்பு. இந்த மண்ணில் இருந்து விடைபெறுகின்றேன் என  சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் பதில் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனா தெரிவித்தார்.
+
+சாவகச்சேரி ஆதார வைத்தியசாலை என்ற வைத்தியசாலை இல்லாதது போல அரசியல்வாதிகள் அமைச்சரிடம் பேசும்போது நாம் பேசி பயனில்லை எனவும் கவலை வெளியிட்டார்.
+
+சாவகச்சேரி வைத்தியசாலை விவகாரத்தில் நீடித்து வந்த சர்ச்சைகளுக்கு சுகாதார அமைச்சர் ரமேஷ் பத்திரன முற்றுப்புள்ளி வைத்த நிலையில், சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் பதில் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனாவின் ஊடகவியலாளர் சந்திப்பு யாழ்ப்பாணத்தில் இன்று வெள்ளிக்கிழமை (19) இடம்பெற்றது.
+
+ஒரு வைத்தியருக்காக பொதுமக்கள் திரண்டு போராட்டத்தில் ஈடுப்பட்டது உலக வரலாற்றில் இதுவே முதல்முறை. தென்மராட்சி மக்களுக்கு நான் எப்போதும் விசுவாசமாக இருப்பேன்
 
 ...
 
+[Data](articles/cdca3a9e.json)
+
+---
+
+### உலக பாரம்பரிய சின்னமாக மகாவம்சம் பிரகடனம்
+
+*2024-07-19 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188812) · `ta`
+
+பேராதனைப் பல்கலைக்கழக நூலகத்திலுள்ள இலங்கையின் பெளத்த வரலாற்றைக் கூறும்  மகாவம்சம் உலக பாரம்பரியச் சின்னமாக புதன்கிழமை (17) பிரகடனப்படுத்தப்பட்டது.
+
+இதன்போது, மகாவன்சத்தை உலக மரபுரிமைச் சின்னமாக பிரகடனப்படுத்துவதற்கான சான்றிதழ் யுனெஸ்கோ பணிப்பாளர் நாயகத்தினால் பேராதனைப் பல்கலைக்கழகத்தின் வேந்தர் பேராசிரியர் ஜி.எச்.பீரிஸிடம் கையளிக்கப்பட்டது.
+
+யுனெஸ்கோவின் தலைமை பணிப்பாளர் நாயகம் பல்கலைக்கழகத்திற்கு விஜயம் செய்ததைக் குறிக்கும் வகையில் பிரதிவேந்தர் பேராசிரியர் எம்.டி.லமவன்ச நினைவுச் சின்னம் ஒன்றை வழங்கினார்.
+
+இலங்கையின் பெளத்த வரலாற்றைக் கூறும் நூல் என அறியப்படும் மகாவம்சம் கி.மு.6 ஆம் நூற்றாண்டில் மகாநாம தேரர் என்ற பெளத்த பிக்குவால் பாளி மொழியில் எழுதப்பட்டதாகும்.
+
+உலக பாரம்பரிய இடங்கள், ஆவணங்களுக்கு அங்கீகாரம் வழங்கும் ஐக்கிய நாடுகள் சபையின் அறிவியல் மற்றும் பண்பாட்டு அமைப்பான யுனஸ்கோவானது, மகாவம்சத்தை உலக நினைவக ஆவணங்கள் பட்டியலில் மகாவம்சத்தையும் இணைத்துள்ளது.
+
+◼️
+
+[Data](articles/30856560.json)
+
+---
+
+### Asia Cup T20 Women's Cricket Tournament
+
+*2024-07-19 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198976) · `si`
+
+The Asia Cup T20 Women's Cricket Tournament starts today in Dambulla, featuring 8 teams including India, Pakistan, Nepal, UAE, Bangladesh, Malaysia, and Thailand. The event, organized by Sri Lanka Cricket, offers fans the chance to watch live via sports tel. Matches begin today with two games, followed by more competitions throughout the tournament.
+
+🟩
+
+The Asian Cup T20 Women's Cricket Tournament begins today (19) at Dambulla.
+
+Accordingly, two matches will be held today and the Sri Lanka Cricket (SLC) announced the opportunity to watch sportstel.
+
+The Asia Cup Women's Cricket Tournament, which began in 2004, was held in one-day tournament until 2008, which is organized by a T20 tournament since 2012.
+
+According to the participation of 8 teams, the Asian Cup Women's Cricket Tournament will be held at the Dambulla Stadium under Sri Lanka.
+
+The tournament will be held today under two categories and the category is India, Pakistan, Nepal and the United Arab Emirates.
+
+The Bangladesh, Malaysia, Malaysia and Thailand contesting from Group B group.
+
+Two matches will be held on the first day and competes will be held on the first day to commence the tournament.
+
+The first match of the Sri Lanka Women's Base role is to be held tomorrow (20) against Bangladesh.
+
+◼️
+
 [Data](articles/3d1ac673.json)
+
+[Extended Data](ext_articles/3d1ac673.ext.json)
+
+---
+
+### யாழ். நெடுந்தீவு கடலில்  குழந்தை பிரசவம்
+
+*2024-07-19 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188813) · `ta`
+
+யாழ்ப்பாணம் நெடுந்தீவு பகுதியைச் சேர்ந்த பெண்ணொருவருக்கு பிரசவ வலி ஏற்பட்டதை அடுத்து , நெடுந்தீவு பிரதேச வைத்தியசாலையில் இருந்து , அம்புலன்ஸ் படகு மூலம் யாழ்ப்பாணம் கொண்டு வருவதற்கு நடவடிக்கை எடுக்கப்பட்டது.
+
+படகில் மருத்துவ அதிகாரி, மருத்துவமாது உள்ளிட்டவர்களின் உதவியுடன் அப்பெண்ணை குறிகாட்டுவான் இறங்கு துறை நோக்கி அழைத்து வந்துள்ளனர்.
+
+தொடர்ந்து தாயையும் சிசுவையும் குறிகாட்டுவான் அழைத்து வந்து, அங்கு தயார் நிலையில் இருந்த நோயாளார் காவு வண்டியில் யாழ்.போதனா வைத்தியசாலைக்கு அழைத்து சென்று அனுமதித்துள்ளனர்.
+
+◼️
+
+[Data](articles/54b4c439.json)
 
 ---
 
@@ -69,6 +145,8 @@ However, the exact cause of death has not yet been ascertained.
 ◼️
 
 [Data](articles/030045c9.json)
+
+[Extended Data](ext_articles/030045c9.ext.json)
 
 ---
 
@@ -781,6 +859,22 @@ Kring underscored the invaluable skills participants acquire, with winners gaini
 [Data](articles/81e7cfb3.json)
 
 [Extended Data](ext_articles/81e7cfb3.ext.json)
+
+---
+
+### Month-to-date net foreign inflow crosses Rs. 3 billion but local investors in bearish mood
+
+*2024-07-19 04:22:00* · [`islandlk`](http://island.lk/month-to-date-net-foreign-inflow-crosses-rs-3-billion-but-local-investors-in-bearish-mood/) · `en`
+
+The month-to-date net foreign inflow crossed the Rs. 3 billion mark in the stock market yesterday while locals remained bearish, worrying brokers and analysts.The CSE saw net foreign inflow of Rs. 393 million on the previous day, boosting the figure so far in July to Rs. 3.1 billion. Net foreign buying topped in JKH at Rs. 321.1 million.
+
+However, stock market activities were down yesterday due to market speculation that President Ranil Wickremesinghe is planning to dissolve parliament. Owing to that dull sentiment, only a few companies, such as JKH and Hayleys crossings, moved up the market.
+
+The All Share Price Index went up by 68.7 points, while S and P SL20 declined by 18.19 points. Turnover stood at Rs 1.1 billion with two crossings. Those crossings were reported in JKH, which crossed 2 million shares to the tune of Rs 388 million; its shares traded at Rs 194 and Hayleys 500,000 shares crossed for Rs 50.5 million; its shares traded at Rs 101.
+
+...
+
+[Data](articles/ec58ada4.json)
 
 ---
 
@@ -2081,113 +2175,5 @@ Senior Deputy Inspector General of Police (SDIG) Nilantha Jayawardena has been s
 [Data](articles/335ad7ec.json)
 
 [Extended Data](ext_articles/335ad7ec.ext.json)
-
----
-
-### Jinna arrested in England
-
-*2024-07-18 18:06:44* · [`adalk`](https://www.ada.lk/breaking_news/එංගලන්තයේ-රැකියා-මැවූ-ජින්නා-අල්ලයි/11-410854) · `si`
-
-A person accused of fraudulently providing UK jobs without proper licensing was arrested in England by the Sri Lanka Foreign Employment Bureau. The suspect, from Samanthurai, allegedly deceived individuals into believing they could work as teachers' assistants and in restaurants. Complaints led to their arrest, with further investigations ongoing. The Bureau advises potential foreign workers to use licensed agencies and provides contact details for inquiries.
-
-🟩
-
-A person who has defrauded money in the UK has been arrested by the Sri Lanka Foreign Employment Bureau today (7/18).
-
-Without a valid license of the Bureau in Samanthurai, one of the women and male have been able to provide employment in the UK teacher assistant and restaurant by a person from Samanthurai.. However, they have lodged a complaint with the Bureau in Dehiwala, accordingly and in the Dehiwala area was arrested by the investigation officials.
-
-The suspect is to be produced in the Talangama Police Station tomorrow (7/19) tomorrow.
-
-The Bureau is already receiving complaints against the suspect and the Special Investigation Department is conducting further investigations.
-
-To find a foreign employment or a person to obtain a foreign employment or a valid job agency, the Bureau at www.slbfe.lk www.slbfe.lkThe Bureau urges foreign employment seekers to obtain information by contacting or the 1989 hotline number.
-
-◼️
-
-[Data](articles/9ce692f1.json)
-
-[Extended Data](ext_articles/9ce692f1.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 304.00/10 to US dollar
-
-*2024-07-18 18:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-00-10-to-us-dollar-172788/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.00/10 to the US dollar on Thursday, from 303.80/304.00 to the US dollar on Wednesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.30/45 percent, down from 10.60/75 percent.
-
-A bond maturing on 15.12.2027 closed at 11.55/65 percent, down from 11.60/68 percent.
-
-A bond maturing on 01.05.2028 closed at 11.70/80 percent, down from 11.72/78 percent.
-
-A bond maturing on 15.09.2029 closed at 12.00/05 percent, down from 12.05/10 percent. (Colombo/Jul18/2024)
-
-◼️
-
-[Data](articles/762875da.json)
-
-[Extended Data](ext_articles/762875da.ext.json)
-
----
-
-### Sri Lanka aims for ambitious 40-pct direct taxes by 2025
-
-*2024-07-18 17:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-aims-for-ambitious-40-pct-direct-taxes-by-2025-172810/) · `en`
-
-ECONOMYNEXT – Sri Lanka is targeting a 40 percent tax collection directly through income, wealth, and property taxes by 2025 from the current 30 percent with expanding tax nets and legal actions against tax dodgers, State Finance Minister Ranjith Siyambalapitiya said.
-
-Direct taxes are collected through individual can afford to pay taxes due to their higher income along with asset and property ownership.
-
-Since Sri Lanka faced an unprecedented economic crisis with sovereign debt default, both direct and indirect taxes have been increased while President Ranil Wickremesinghe’s administration is contemplating new wealth, property and inheritance taxes from next year in line with the commitments it agreed with the IMF.
-
-Siyambalapitiya said the island nation’s state revenue has increased to “almost 13 percent” of the gross domestic product (GDP) now from 8.3 percent in 2022.
-
-...
-
-[Data](articles/bcaff0d4.json)
-
-[Extended Data](ext_articles/bcaff0d4.ext.json)
-
----
-
-### President calls for help in education
-
-*2024-07-18 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198958) · `si`
-
-President Ranil Wickremesinghe discusses UNESCO collaboration for modernizing Sri Lanka's education sector, emphasizing AI integration and preparing students for the modern world.
-
-🟩
-
-President Ranil Wickremesinghe says that the UNESCO's education sector is being discussed for the broad modernization program to be carried out in the education sector in Sri Lanka.
-
-The President said that the children of Sri Lanka will be created in the country and provides an advanced education system including artist intelligence (AI) and provides opportunities to the country to proceed with the modern world.
-
-President Ranil Wickremesinghe was speaking at the Presidential Secretariat yesterday (17) at the Parliament of Buduruwagala Maha Vidyalaya, Moneragala.
-
-President Ranil Wickremesinghe arrived at Buduruwagala Maha Vidyalaya in Moneragala, the student parliamentary parliamentary session of the school was held at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/e609c845.json)
-
-[Extended Data](ext_articles/e609c845.ext.json)
-
----
-
-### Finance Ministry to offer financial support for MSMEs facing hardships
-
-*2024-07-18 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100603/finance-ministry-to-offer-financial-support-for-msmes-facing-hardships) · `en`
-
-The Ministry of Finance, in a bid to re-energize the Micro, Small and Medium-scale Enterprises (MSMEs) facing hardships, will offer financial support through a re-energizing package for investment and working capital, the President’s Media Division (PMD) said.
-
-Accordingly, loans are available at affordable rates of 8% for working capital and 7% for investment via 15 participatory financial institutions, including licensed commercial and specialized banks, to support MSMEs that survived the crisis and those in the non-performing loans category, it added.
-
-◼️
-
-[Data](articles/ec2fba17.json)
-
-[Extended Data](ext_articles/ec2fba17.ext.json)
 
 ---

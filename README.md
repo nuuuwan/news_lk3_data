@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 14:35:27**
+As of **2024-07-19 14:54:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,038
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,114 (100.0%) of 36,116 articles have been extended.
+36,116 (100.0%) of 36,116 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,29 +44,39 @@ He expressed his intent to seek assistance from Australia to strengthen and mode
 
 [Data](articles/e8d72341.json)
 
+[Extended Data](ext_articles/e8d72341.ext.json)
+
 ---
 
-### සිසු විරෝධතාවලින් බංග්ලාදේශය තවමත් ගිනි ගනී
+### Bangladesh still fire in student protests
 
 *2024-07-19 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198983) · `si`
 
-දෙසතියක පමණ කාලයක සිට බංග්ලාදේශයේ ඩකා අගනුවර කේන්ද්‍ර කරගෙන ක්‍රියාත්මක සිසු විරෝධතා අතරතුරදී පුද්ගලයන් 32ක් පමණ මියගොස් තවත් දහසක් පමණ තුවාල ලබා තිබේ.
+In Bangladesh, student protests over government job quotas for war heroes' children turned violent, resulting in 32 deaths and numerous injuries. The government responded with repression, closing schools, suspending TV channels, and blocking internet/phone services. The protests highlight dissatisfaction with the allocation of government jobs, which the Supreme Court deemed illegal but were reinstated by a High Court order.
 
-විරෝධතා ප්‍රචණ්ඩකාරී ස්වරූපයක් ගත්තේ රජය විරෝධතාකරුවන් පාලනයට දැඩි මර්දනකාරී පිළිවෙතක් අනුගමනය කිරීමත් සමඟය.
+🟩
 
-රට තුළ ක්‍රියාත්මක ප්‍රචණ්ඩකාරී ස්වරූපය සැළකිල්ලට ගනිමින් රටපුරා පාසල් සහ විශ්වවිද්‍යාල වසා දමා තිබේ.
+About two weeks, 32 people were killed and 32 others were wounded during the students of Dhaka capital in Bangladesh.
 
-කළහකාරීව හැසිරෙන විරෝධතාකරුවන් රජයේ නාලිකාව ගිනි තබා තිබූ අතර මේ වනවිට එරට සියලුම රූපවාහිනී ප්‍රවෘත්ති නාලිකා විකාශය අත්හිටුවා ඇති බව සඳහන් ය.
+The protests took a violent form with the government to follow a strong repressive policy to control the protesters.
 
-එමෙන්ම රටපුරා අන්තර්ජාල සබඳතා මෙන්ම දුරකථන සබඳතා ද අවහිර කර තිබේ.
+Schools and universities have been closed down in the country, taking into the country's violent form.
 
-සිසුන් මෙලෙස විරෝධතාවල නිරත වන්නේ, 1971 නිදහස් සටනේ නියමුවන් යුද විරුවන් ලෙස සලකමින් ඔවුන්ගේ දරුවන්ට රජයේ රැකියා ලබාදීමේදී ප්‍රමුඛත්වය දීමේ කෝටා ක්‍රමවේදයට විරෝධය පළ කරමිනි.
+The protesters who behaved agitated protesters were burned and all the television news channel was suspended.
 
-ඒ අනුව එරට රජයේ රැකියා පුරප්පාඩුවලින් තුනෙන් එකක් එනම් සියයට 30කට වැඩි කොටසක් වෙන්කර ඇත්තේ යුද විරුවන්ගේ දරුවන් වෙනුවෙනි.
+Internet connections, as well as telephone links, have also been blocked throughout the country.
+
+Students protest the 1971 independence of the independence of the independence of the war heroes, protesting to priority of government jobs.
+
+Accordingly, more than 30 percent of government job vacancies in the country, has allocated more than 30 percent to children of war heroes.
+
+The Supreme Court ruled in 2018 that the quota was illegal was illegal, and Prime Minister Sheikh Hasina had to abolish the methodology.
 
 ...
 
 [Data](articles/3d6e3eaf.json)
+
+[Extended Data](ext_articles/3d6e3eaf.ext.json)
 
 ---
 

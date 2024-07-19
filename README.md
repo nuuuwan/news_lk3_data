@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 21:55:02**
+As of **2024-07-19 22:08:54**
 
 ## Newspaper Stats
 
-*Scraped **36,170** Articles*
+*Scraped **36,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,47 +16,93 @@ islandlk | 2,052
 economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,267
-adaderanalk | 4,176
+adaderanalk | 4,177
 tamilmirrorlk | 4,392
 dailymirrorlk | 4,733
 virakesarilk | 5,658
-adaderanasinhalalk | 6,053
+adaderanasinhalalk | 6,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,169 (100.0%) of 36,170 articles have been extended.
+36,170 (100.0%) of 36,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### රුපියල් මිලියන 340ක් අපතේ යැවූ නිවාස ව්‍යාපෘතිය
+### 51 දෙනෙක් රෝහලට යැවූ බිහිසුණු බස් අනතුර
+
+*2024-07-19 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198999) · `si`
+
+ත්‍රිකුණාමලය - මඩකලපුව මාර්ගයේ ගෙංගේ පාලම අසලදී අද (19) සවස පෞද්ගලික බස් රථයක් මාර්ගයෙන් ඉවතට ලිස්සා ගොස් පෙරළී යාමෙන් අනතුරක් සිදුව තිබේ.
+
+ඉන් බස් රථයේ මගීන් සහ රියදුරු ඇතුළු 51 දෙනෙක් තුවාල ලබා ප්‍රතිකාර සඳහා මුතූර් රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය පැවසුවේ එම බස් රථය වන්දනාවේ යන පිරිසක් රැගෙන යාපනයේ සිට කතරගම දක්වා ධාවනය වෙමින් තිබූ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/9ff509c2.json)
+
+---
+
+### Former Sri Lanka U19 captain’s shooter arrested
+
+*2024-07-19 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100634/former-sri-lanka-u19-captains-shooter-arrested) · `en`
+
+Sri Lanka Police says the alleged shooter involved in the killing of former captain of Sri Lanka’s Under-19 cricket team, Dhammika Niroshana, in front of his house has been arrested.
+
+Officers of the Galle District Crimes Division have arrested the suspect last evening (18), according to a spokesman.
+
+He said that three suspects had arrived to commit the murder of Dhammika Niroshana, who is also known as ‘Jonty’, and that the other two suspects have been identified.
+
+The 48-year-old suspect was arrested in Randombe area in Balapitiya along with 2,800 milligrams of ‘ice’ drugs, also known as crystal methamphetamine.
+
+Meanwhile officers of the Elpitiya Divisional Crimes Unit have recovered the sets of clothes used by the suspects to disguise themselves.
+
+Police suspect that the killing was carried out based on a contract received from a foreign country.
+
+The arrested suspect was remanded until August 03 after being produced before the Balapitiya Magistrate’s Court.
+
+...
+
+[Data](articles/52fb436a.json)
+
+---
+
+### Housing Project for wasted Rs. 340 million
 
 *2024-07-19 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198998) · `si`
 
-ජනතාවට සහන සැලසීමේ අරමුණින් ඇරඹෙන ව්‍යාපෘති අතරමැද නැවතීමෙන් සිදුවන්නේ, විශාල මුදල් නාස්තියකි.
+The Deraniyagala Malibagala Estate Housing Complex, initiated on March 8, 2021, under former President Gotabhaya Rajapaksa's vision, aimed to provide affordable housing. However, it faced issues including mismanagement, leading to a waste of Rs. 340 million. The project, overseen by the Sri Lanka Engineering Corporation, left behind numerous unfinished homes, now overgrown and inhabited by wildlife. Additionally, the project's staff, including security personnel, have gone unpaid for five months, highlighting broader concerns about accountability and misuse of public funds in such development projects.
 
-දැරණියගල මාලිබොඩ වතු නිවාස සංකීර්ණය ඉදිකිරීම් ඇරඹෙන්නේ 2021 මාර්තු 08 වනදාය.
+🟩
 
-ඒ හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ රට හදන සෞභාග්‍යයේ දැක්ම සංකල්පයට අනුවය.
+Intermediate waste of money, which lawses to provide relief to the masses, is a waste of money.
 
-ඉන්දීය ආධාර යටතේ ඇරඹි මෙම ව්‍යාපෘතියට අයත් වූ නිවාස සංඛ්‍යාව  170කි.
+Deraniyagala Malibagala Estate Housing Complex begins on March 8, 2021.
 
-ඒ සඳහා ඇස්තමේන්තු ගතකළ මුදල රුපියල් මිලියන 340ක් වූ අතර ඉදිකිරීම් භාරව කටයුතු කළේ, ශ්‍රී ලංකා ඉංජිනේරු සංස්ථාවයි.
+The view of the prosperous prosperous is the concept of the country of former President Gotabhaya Rajapaksa.
 
-නමුත්, මෙම නිවාස සංකීර්ණයේ ඉදිකිරීම් වසර දෙකක සිට මුළුමුනින්ම නැවතී ඇත්තේ වතු සේවකයින්ගේ "සිහින නිවස" සම්පූර්ණයෙන්ම බොඳකරමිනි.
+The number of houses belonging to this project which originated.
 
-ව්‍යාපෘතිය අතරමැද නවතාදැමීමත් සමග ශ්‍රී ලංකා ඉංජිනේරු සංස්ථාවට අයත් බැකෝ යන්ත්‍ර ඇතුළු යන්ත්‍රෝපකරණ විනාශවෙමින් පවතින අයුරු දැකගත හැකිය.
+The estimated cost of Rs. 340 million and the Sri Lanka Engineering Corporation was in charge of the construction.
 
-අඩක් නිමවූ නිවාස විශාල සංඛ්‍යාවක් මෙහි පවතින අතර ඒවායේද වල් බිහිවී තිබෙන අතර එම නිවාස මේ වනවිට වවුලන්ගේ සහ සුනඛයන්ගේ ද පාරාදීස වී හමාරය.
+However, the construction of the housing complex was completely blurred by the estate workers' dream home. "
 
-නිවාස සංකීර්ණයේ ආරක්ෂාවට මුරකරුවෙකු ද සිටින අතර ඔහු පවසන්නේ තමන්ට මාස 5ක සිට වැටුප් ගෙවා නොමැති බවය.
+With the renovation of the project, the Sri Lanka Engineering Corporation's backhouses belonging to the Sri Lanka Engineering Corporation are destroyed.
+
+There are many half-finished homes are here and have been weed and the houses are also a paradise of the bats and dogs.
+
+He is also a watchman for the security of the housing complex and he said he had not paid salaries since 5 months.
 
 ...
 
 [Data](articles/eff0b3c2.json)
+
+[Extended Data](ext_articles/eff0b3c2.ext.json)
 
 ---
 
@@ -2377,63 +2423,5 @@ The intake examination states that the infection caused by the thorn in the thor
 [Data](articles/73efe76e.json)
 
 [Extended Data](ext_articles/73efe76e.ext.json)
-
----
-
-### Mahavamsa declared as a symbol of world heritage
-
-*2024-07-19 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188812) · `ta`
-
-The Mahavamsa, a 6th-century BC text detailing Sri Lanka's Buddhist history, was recently designated a World Heritage Site by UNESCO. The certificate was presented to Prof. GH Peiris of Peradeniya University, marking its significance in global cultural heritage.
-
-🟩
-
-The Mahavamsa, which describes the Buddhist history of Sri Lanka in the Peradeniya University Library, was declared a World Heritage Site on Wednesday (17).
-
-During this time, the Certificate of Declaration of Mahawasan was handed over to Professor GH Peiris, Professor of Peradeniya University by the Director General of UNESCO.
-
-Prof. MD Lamawansa presented a monument to mark the visit to the University of UNESCO.
-
-The Mahavamsa, known as the Buddhist history of Sri Lanka, is written in the Pali language in the 6th century BC.
-
-The United Nations, the scientific and cultural organization of the United Nations, which recognizes the World Heritage Places and documents, has added the Mahavamsa to the World Memory documents to the Mahavamsa.
-
-◼️
-
-[Data](articles/30856560.json)
-
-[Extended Data](ext_articles/30856560.ext.json)
-
----
-
-### Asia Cup T20 Women's Cricket Tournament
-
-*2024-07-19 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198976) · `si`
-
-The Asia Cup T20 Women's Cricket Tournament starts today in Dambulla, featuring 8 teams including India, Pakistan, Nepal, UAE, Bangladesh, Malaysia, and Thailand. The event, organized by Sri Lanka Cricket, offers fans the chance to watch live via sports tel. Matches begin today with two games, followed by more competitions throughout the tournament.
-
-🟩
-
-The Asian Cup T20 Women's Cricket Tournament begins today (19) at Dambulla.
-
-Accordingly, two matches will be held today and the Sri Lanka Cricket (SLC) announced the opportunity to watch sportstel.
-
-The Asia Cup Women's Cricket Tournament, which began in 2004, was held in one-day tournament until 2008, which is organized by a T20 tournament since 2012.
-
-According to the participation of 8 teams, the Asian Cup Women's Cricket Tournament will be held at the Dambulla Stadium under Sri Lanka.
-
-The tournament will be held today under two categories and the category is India, Pakistan, Nepal and the United Arab Emirates.
-
-The Bangladesh, Malaysia, Malaysia and Thailand contesting from Group B group.
-
-Two matches will be held on the first day and competes will be held on the first day to commence the tournament.
-
-The first match of the Sri Lanka Women's Base role is to be held tomorrow (20) against Bangladesh.
-
-◼️
-
-[Data](articles/3d1ac673.json)
-
-[Extended Data](ext_articles/3d1ac673.ext.json)
 
 ---

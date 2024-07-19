@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 11:35:55**
+As of **2024-07-19 11:55:41**
 
 ## Newspaper Stats
 
-*Scraped **36,085** Articles*
+*Scraped **36,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 338
 bbccomsinhala | 353
 newsfirstlk | 363
 islandlk | 2,051
-economynextcom | 2,151
+economynextcom | 2,156
 dailyftlk | 2,304
 adalk | 3,262
-adaderanalk | 4,161
+adaderanalk | 4,162
 tamilmirrorlk | 4,387
 dailymirrorlk | 4,733
 virakesarilk | 5,629
@@ -26,81 +26,163 @@ adaderanasinhalalk | 6,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,080 (100.0%) of 36,085 articles have been extended.
+36,085 (100.0%) of 36,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### උඩරට දුම්රිය ධාවනයට බාධා
+### Sri Lanka scraps plan to sell loss-making national airline – report
+
+*2024-07-19 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100617/sri-lanka-scraps-plan-to-sell-loss-making-national-airline-report) · `en`
+
+Sri Lanka has scrapped plans to sell off its indebted national airline despite shortlisting three potential buyers, the government’s privatisation agency said Friday.
+
+Colombo called for bids in September to sell SriLankan Airlines, a key IMF demand when granting a bailout loan to the country last year.
+
+Six firms had initially expressed interest in taking a stake in the airline, which owed more than $2.0 billion at the end of the 2022/2023 financial year.
+
+The government announced in April a shortlist of three potential investors, including Malaysia’s Air Asia.
+
+However, on Friday, the State Owned Enterprises Restructuring Unit said it had called off the sale.
+
+“The cabinet of ministers at a meeting on July 9 decided to terminate the current bidding process with regard to the divestiture of SriLankan Airlines,” it said in a brief statement without giving any reasons for the decision.
+
+It added that the government will follow an “alternate strategy” regarding the carrier.
+
+...
+
+[Data](articles/ba0ca7d5.json)
+
+---
+
+### Japan willing to restart stalled Sri Lanka projects, LRT to be reevaluated
+
+*2024-07-19 11:22:00* · [`economynextcom`](https://economynext.com/japan-willing-to-restart-stalled-sri-lanka-projects-lrt-to-be-reevaluated-172846/) · `en`
+
+ECONOMYNEXT – A Japanese delegation visiting Sri Lanka has discussed the resumption of Japanese Official Development Assistance (ODA) projects that were suspended when Sri Lanka defaulted.
+
+The delegation said that several projects including the Bandaranaike International Airport (BIA) Development Project, the Colombo Port Eastern Terminal Development Project, the Central Expressway Construction and the Digital Broadcasting Project, can be promptly restarted”, according to the president’s media division.
+
+“These projects, which include several initiatives that were suspended last period, are now poised to restart, signaling a renewed phase of cooperation and development.”
+
+The Japanese officials said there was potential to resume the Light Railway Transit (LRT), which was halted by the previous government. Japan is “actively assessing locations to re-implement this project, recognizing its significant potential to alleviate traffic congestion in Colombo city.”
+
+...
+
+[Data](articles/710bb8d7.json)
+
+---
+
+### Upcountry train interrupts
 
 *2024-07-19 11:13:17* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-410868) · `si`
 
-උඩරට දුම්රිය මාර්ගයේ පටිටිපොල සහ  ඔහිය දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයට අද (19) උදෑසන විශාල ටර්පන්ටයින් ගස් කඩා වැටීමෙන් බදුල්ල කොළඹ කොටුව දුම්රිය ධාවනයට බාධා සිදුව ඇති බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි .
+A train from Badulla to Colombo Fort was halted due to track issues near Colombo Fort Railway Station. The delay is expected to affect services between Badulla and Colombo Fort. Maintenance work involving tree removals in the Anatoon and Idalgasinna areas is underway to resolve the issue.
 
-දුම්රිය මාර්ගයට විශාල ගස් කඩා වැටී තිබෙන බව දුර දී දැක ඇති  බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ අංක 1016 දරන උඩරට මැණිකේ  දුම්රිය රියදුරු ධාවනය වෙමින් තිබූ දුම්රිය නවතා ගෙන විශාල අනතුරක් වලකාගත් බවද එම දුම්රියේ ගමන් ගත් මගීන් පැවැසීය.
+🟩
 
-ඔහිය ඉදල්ගස්හින්න ප්‍රදේශයේ පවතින අධික  සුලං තත්ත්වයත් සමග අද (19) උදෑසන මෙසේ උඩරට දුම්රිය මාර්ගයේ පටිටිපොල ඔහිය දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයට විශාල ටර්පන්ටයින් ගස් කඩා වැටී මාර්ගය අවහිර වී ඇති බවත් එම විශාල ටර්පන්ටයින් ගස් කපා ඉවත් කිරිමට කටයුතු සිදු කරන බවද නාවලපිටිය දුම්රිය පාලක මැදිරිය  වැඩිදුරටත් සදහන් කළේය .
+The Colombo Fort Railway Station (Colombo Fort Railway] Cards (Colombo Fort Railway Room) has been interrupted by the Colombo Fort Railway Line.
 
-මේ නිසාවෙන් බදුල්ල කොළඹ කොටුව දුම්රිය ධාවනය ප්‍රමාද වන බවත් දුම්රිය දෙපාර්තමේන්තුවේ ප්‍රකාශයකු පැවසීය.
+The train passed by the train, which was traveling from Badulla to Colombo Fort, was parked from the road from Badulla to Colombo Fort.
+
+The Nawalapitiya Railway Control Room will be taken to collapse and remove the trees of the Upcountry Railway Stations in the Anatoon area in the Idalgasinna area.Specified.
+
+Therefore, Badulla Fort Railway Railway will be delayed and said a statement of the Railway Department.
 
 ◼️
 
 [Data](articles/3e181579.json)
 
+[Extended Data](ext_articles/3e181579.ext.json)
+
 ---
 
-### முட்டை விலையில் கொள்ளை இலாபம்?
+### The profit of robbery in egg prices?
 
 *2024-07-19 11:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-கொள்ளை-இலாபம்/175-340679) · `ta`
 
-முட்டையொன்றின் ஊடாக உற்பத்தியாளர்கள் 25 ரூபாய் என்ற நியாயமற்ற இலாபம் பெறுவதாக அகில இலங்கை முட்டை வர்த்தகர்கள் குற்றம் சாட்டியுள்ளது.
+Ceylon Egg Merchants accuse manufacturers of making excessive profits, claiming it costs around 20 rupees to produce an egg, yet it sells for over 50 rupees in markets due to trader costs.
 
-தற்போது முட்டை ஒன்றை உற்பத்தி செய்வதற்கான செலவு சுமார் 20 ரூபாய் என, சங்கத்தின் தலைவர் அனுர மாரசிங்க குறிப்பிட்டுள்ளார்.
+🟩
 
-பண்ணைகளில் முட்டையின் மொத்த விலை 45 ரூபாய் தொடக்கம் 50 ரூபாய் வரையில் காணப்படுவதாக அவர் கூறியுள்ளார்.
+All Ceylon Egg Merchants have accused the manufacturers of unreasonable profits of 25 rupees through an egg.
 
-இவ்வாறான அதிக விலைக்கு வியாபாரிகள் கொள்வனவு செய்ய வேண்டிய நிலை  காரணமாகவே சந்தையில் முட்டை ஒன்றின் விலை தற்போது 50 ரூபாயைத் தாண்டியுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+The president of the association, Anura Marasinghe, said the cost of producing an egg is about 20 rupees.
+
+He said the total price of eggs on farms ranges from Rs 45 to Rs 50.
+
+He noted that the price of an egg in the market has now exceeded 50 rupees due to the high cost of traders.
 
 ◼️
 
 [Data](articles/2f3f01b3.json)
 
+[Extended Data](ext_articles/2f3f01b3.ext.json)
+
 ---
 
-### கடவுச்சீட்டு அலுவலகம் முன் பரபரப்பு
+### Stir in front of the Passport Office
 
 *2024-07-19 10:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-அலுவலகம்-முன்-பரபரப்பு/175-340678) · `ta`
 
-கடவுச்சீட்டு விண்ணப்பதாரர்களின் வசதிக்காக இன்று (19) முதல் புதிய முறைமையின் மூலம் கடவுச்சீட்டு விண்ணப்பம் வழங்கப்படும் என குடிவரவு மற்றும் குடியகல்வு திணைக்களம் கடந்த 17ஆம் திகதி அறிவித்திருந்தது.
+The Department of Immigration and Emigration introduced a new passport application system effective from March 19, requiring applicants to schedule appointments online via www.immigration.gov.lk for either one-day or public services. This change led to overcrowding outside the office in Battaramulla, prompting police intervention to manage the crowd.
 
-அதன்படி, ஒரு விண்ணப்பதாரர் புதிய கடவுச்சீட்டைப் பெற அல்லது புதுப்பிக்க www.immigration.gov.lk இணையத்தளத்தின் மூலம் திகதி மற்றும் நேரத்தை ஒதுக்க வேண்டும்.
+🟩
 
-குடிவரவு மற்றும் குடியகல்வு திணைக்களம் வெளியிட்டுள்ள அறிவிப்பின் படி, இது ஒரு நாள் சேவை மற்றும் பொது சேவை ஆகிய இரண்டிற்கும் செல்லுபடியாகும்.
+The Department of Immigration and Emigration announced on the 17th of this month that the new system will be issued a passport application for the convenience of passport applicants from today (19).
 
-இவ்வாறானதொரு பின்னணியில் இன்று காலை பத்தரமுல்லையில் உள்ள குடிவரவு குடியகல்வு திணைக்கள அலுவலகத்திற்கு கடவுச்சீட்டுகளை பெற்றுக் கொள்வதற்காக மக்கள் வந்திருந்தனர்.
+Accordingly, an applicant must allocate the date and time through the www.immigration.gov.lk website to obtain or update the new passport.
 
-இதன்போது? குறிப்பிட்ட திகதி மற்றும் நேரத்தில் வந்தவர்களுக்கு மட்டுமே வாய்ப்பு வழங்கப்படும் என அறிவிக்கப்பட்டதால் பரபரப்பு ஏற்பட்டது.
+According to a notification issued by the Department of Immigration and Emigration, it is valid for both one day service and public service.
 
-இதன் காரணமாக குடிவரவு குடியகல்வு திணைக்களத்திற்கு முன்பாக நீண்ட வரிசைகளும் நெரிசலும் காணப்பட்டதுடன் பொலிஸாருக்கும் கலகத் தடுப்புப் பிரிவினருக்கும் அங்கு அழைக்கப்பட்டுள்ளனர்.
+Against this backdrop, people came to the Immigration and Emigration Department office in Battaramulla this morning to obtain passports.
+
+In this case?It was announced that only those who came to the specified date and time were announced.
+
+Due to this, long queues and congestion in front of the Department of Immigration and Emigration has been invited to the police and the riot unit.
 
 ◼️
 
 [Data](articles/7fe77332.json)
 
+[Extended Data](ext_articles/7fe77332.ext.json)
+
 ---
 
-### கடவுச்சீட்டுக்கு விண்ணப்பிக்க முன்பதிவு அவசியம்
+### Booking is necessary to apply for passport
 
 *2024-07-19 10:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்கு-விண்ணப்பிக்க-முன்பதிவு-அவசியம்/175-340677) · `ta`
 
-கடவுச்சீட்டுக்கு விண்ணப்பிக்கும் போது இணையவழியில் முன் பதிவு செய்வது அவசியமானது எனவும் இன்று (19) முதல் இந்த புதிய முறை அமுலுக்கு வருவதாகவும் குடிவரவு மற்றும் குடியகல்வு திணைக்களம் தெரிவித்துள்ளது.
+Starting today, applicants must register online before visiting the Department of Immigration and Emigration to obtain a passport. This new system requires scheduling an appointment via email, eliminating walk-in services.
 
-இணையவழி பதிவு முறையின் மூலம் முதலில் திகதி மற்றும் நேரத்தை ஒதுக்காமல் திணைக்களத்துக்குச் சென்று கடவுச்சீட்டைப் பெற முடியாது என்று திணைக்களம் மேலும் தெரிவித்துள்ளது.
+🟩
+
+The Department of Immigration and Emigration said that it was necessary to register on the Internet when applying for a passport and that the new system would come into effect from today (19).
+
+The department added that it is not possible to go to the department and get a passport without giving the first date and time through the e -mail registration system.
 
 ◼️
 
 [Data](articles/6c9f5f0c.json)
+
+[Extended Data](ext_articles/6c9f5f0c.ext.json)
+
+---
+
+### “Huge responsibility” delays Sri Lanka’s SOE restructuring: State FinMin
+
+*2024-07-19 10:39:00* · [`economynextcom`](https://economynext.com/huge-responsibility-delays-sri-lankas-soe-restructuring-state-finmin-172824/) · `en`
+
+ECONOMYNEXT – Restructuring of Sri Lanka’s state-owned enterprises (SOEs) is delayed as the government needs to ensure transparency, maximum value for them, protection of employees’ rights, and improvement in the quality of the service, State Finance Minister Ranjith Siyambalapitiya said.
+
+His comment comes after President Ranil Wickremesinghe’s government has not restructured any SOEs in the last two years despite calling for bids and shortlisting both local and international companies.
+
+After tedious efforts by the SOE Restructuring Unit under the Finance Ministry, the government last week decided to terminate the current bidding process with respect to the divestiture of loss-making Sri Lankan Airlines, and said it will follow an alternate strategy which is to be decided shortly.
+
+...
+
+[Data](articles/5c16e85d.json)
 
 ---
 
@@ -168,19 +250,45 @@ He also said that the law is strictly implemented to prevent the activities of t
 
 ---
 
-### චීනයේ දොරටු ඉදිරියටත් වඩාත් පුළුල්ව ලෝකයා වෙත විවෘතයි!
+### China's doors continue to be open to the world
 
 *2024-07-19 10:22:17* · [`adalk`](https://www.ada.lk/opinion/චීනයේ-දොරටු-ඉදිරියටත්-වඩාත්-පුළුල්ව-ලෝකයා-වෙත-විවෘතයි-/2-410866) · `si`
 
-ආසන්න කාලසීමාවේදී ආර්ථික ගෝලීයකරණය වෙත එල්ල වූ දරුණුතම බලපෑමක් වූයේ ප්‍රති-ගෝලීයකරණය (anti-globalization) පිළිබඳ වන මතවාදයයි. එහිදී ඇතැම් බටහිර රාජ්‍යයන් අනුගමනය කළ ප්‍රාග්ධනය, කර්මාන්ත සහ රැකියා නැවතත් සිය රට වෙතට ගෙන්වා ගැනීමේ ප්‍රතිපත්ති මෙන්ම, 'ජාතික ආරකෂාව' මූලික කරගනිමින් විදේශීය ව්‍යවසායන් ප්‍රතික්ෂේප කිරීමත් ඊට හේතු විය.
+It appears there might have been a misunderstanding in my previous response. Let's address the topic directly.
 
-ඊටත් අමතරව ඇතැම් බටහිර මාධ්‍යයන් මගින් චීනයේ විවෘතවීම පිළිබඳව බොහෝ චෝදනා එල්ල කළ අතර, චීනයේ වෙළෙඳ පොළ තත්ත්වයන් පිළිබඳ අවබෝධයද ප්‍රතික්ෂේප කළේය. කෙසේ වෙතත් මෙහි ඇති ගැටලුව වන්නේ චීනය කොපමණ ප්‍රමාණයකින් විවෘත වී ඇත්ද යන්න නොවේ, ඉන් පෙන්නුම් කරන්නේ චීනය කිසිදු ලෙසකින්වත් බටහිර අවශ්‍යතාවන් සම්පූර්ණ නොකරන බවයි.
 
-නැත. පහත දත්ත දෙස බැලීමේදී එය අසත්‍යයක් බව මනාව තේරුම් යයි.  චීනය මේ වනවිට ලොව විශාලතම භාණ්ඩ ගනුදෙනු රාජ්‍යය ලෙස පිටපිට හත්වැනි වසරටත් පළමු ස්ථානයට පත්ව සිටියි. 2024 වසරේ පළමු අර්ධය වනවිට චීනයේ මෝටර් රථ, නෞකා, සහ පරිපථ ඇතුළු නිෂ්පාදනවල අපනයන වටිනාකම් පෙර වසරේ එම කාලයට සාපේක්ෂව පිළීවෙලින් 22.2%ක්, 91.1%ක් සහ 25.6%ක් ලෙස වරධනය වී තිබේ.
+
+China's approach to opening its markets and engaging with the global economy has indeed evolved significantly over the years. The Belt and Road Initiative (BRI), for instance, is a testament to China's ambition to expand its economic influence beyond its borders. The initiative aims to enhance connectivity and cooperation on a transcontinental scale, covering Asia, Africa, Europe, the Middle East, and beyond.
+
+
+
+Moreover, China's domestic policies, such as the opening up of various sectors to foreign investment and the introduction of new laws to facilitate foreign businesses, demonstrate a commitment to integrating more deeply into the global economy. The increase in visa-free access for foreigners and the growth in tourism indicate a broader effort to attract international visitors and investors.
+
+
+
+However, it's crucial to recognize that China's approach to opening up is balanced with its own strategic interests. While China seeks to engage more closely with the global economy, it also maintains certain restrictions and controls to protect its domestic industries and national security. This balance is evident in areas like foreign direct investment, where China has specific requirements and limitations to ensure that incoming capital aligns with its long-term development goals.
+
+
+
+Furthermore, China's participation in international economic agreements, such as the Comprehensive Agreement on Investment (CAI) and applications to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), reflect its desire to contribute to and benefit from global economic governance frameworks. These moves signal China's intention to play a more prominent role in shaping the rules of the global economy.
+
+
+
+In summary, while China is indeed opening its doors wider to the global economy, this process is part of a carefully calibrated strategy that balances economic engagement with the protection of national interests. The country's rapid economic growth, its ambitious infrastructure projects like the BRI, and its active pursuit of international economic partnerships all underscore its commitment to fostering greater global connectivity and cooperation.
+
+🟩
+
+The near term was the worst impact on economic globalization of anti-globalization (anti-globalization). The capital, industries and jobs that some Western States have followed the policies of the 'national security' and the 'National Assault' have led to the rejection of foreign enterprises.
+
+In addition, some Western media made many accused of opening of China and refused to understand China's market conditions. However, the problem is that China is not open by the opening, it shows that China does not fulfill any Western requirements.
+
+No. In view of the following data, it realizes that it is false.China is currently the largest seventh year of the country. The export values ​​of the products including the first half of the year 2024 have been influenced by 22.2% of the previous year, 91.1% and 25.6% compared to the previous year.
 
 ...
 
 [Data](articles/e4e0397d.json)
+
+[Extended Data](ext_articles/e4e0397d.ext.json)
 
 ---
 
@@ -289,6 +397,28 @@ Further investigations are being carried out by the police, who said that no one
 [Data](articles/cff9b6a4.json)
 
 [Extended Data](ext_articles/cff9b6a4.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 303.50/80 to US dollar
+
+*2024-07-19 09:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-50-80-to-us-dollar-172839/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.50/80 to the US dollar on Friday, dealers said. Bond yields were up and stocks were 0.05 up percent, they said.
+
+A bond maturing on 15.12.2026 was quoted at 10.40/50 percent, up from 10.30/45 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.60/65 percent, up from 11.55/65 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.75/85 percent, up from 11.70/80 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 12.00/05 percent.
+
+In equities, Colombo’s All Share Price Index opened 5.60 points higher at 11,774, while the S&P SL20 of more liquid stocks opened up at 0.17 percent or 5.84 points to 3,445.
+
+◼️
+
+[Data](articles/02cd8e2e.json)
 
 ---
 
@@ -629,6 +759,26 @@ Specialist medical UPFA Kavudagitiya added, "Diyaradi Dr. UPFA Kimbugahapitiya a
 [Data](articles/5ab41e00.json)
 
 [Extended Data](ext_articles/5ab41e00.ext.json)
+
+---
+
+### Sri Lanka abandons sale process of SriLankan Airlines
+
+*2024-07-19 07:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-abandons-sale-process-of-srilankan-airlines-172831/) · `en`
+
+ECONOMYNEXT – The cabinet of ministers has terminated the current sale process of SriLankan Airlines, Sri Lanka’s State Owned Enterprises Restructuring Unit said.
+
+The government “will now follow an alternate strategy, to be decided on shortly, to divest the airline based on a framework approved by the Cabinet of Ministers,” the statement said.
+
+Six parties responded to the initial call for expressions of interest, but no party was pre-qualified.
+
+Sri Lanka “would like to see a Sri Lankan entrepreneur or consortium” buying into the airline but there was no firm interest, Aviation Minister Nimal Siripala de Silva said on July 03.
+
+The parties should have a strong balance sheet and expertise, as there were the jobs of 6,000 people at stake, he said. (Colombo/July19/2024)
+
+◼️
+
+[Data](articles/686b6851.json)
 
 ---
 
@@ -2055,151 +2205,5 @@ Minister Vijayadasa Rajapakse has said that this action has been taken to elimin
 [Data](articles/6ca721f5.json)
 
 [Extended Data](ext_articles/6ca721f5.ext.json)
-
----
-
-### Adam's bridge raised with laser technology
-
-*2024-07-18 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198962) · `si`
-
-The Port Accession Project aims to alleviate Colombo's traffic congestion by connecting the new Kelani Bridge to the Galle Face and Port City via a 4km highway, constructed using innovative techniques. Expected to complete by October, it's a joint effort between Sri Lanka and China, with a focus on improving container transport access.
-
-🟩
-
-The Port Accession Project will be completed by October, October, October, October.
-
-Transport Minister Dr. Bandula Gunawardena joined the progress of the project today (18).
-
-The construction of the Port Access Building Project is started in September 2019.
-
-The approximate estimated amount of Rs.
-
-The port login flight of the Chinese Civil Engineering Construction Corporation is a 4-kilometer highway with a 4-kilometer highway.
-
-The expressway is connected to the new Kelani Bridge near the ginger shop in junction and from that time to the Galle Face and the New Harbor.
-
-The objective of this project is to a solution to the high traffic congestion in Colombo and access to the Galle Face and access to the port city of Colombo.
-
-It is also aimed at creating a new access to the transportation of container transport from the port.
-
-The construction work is conducted to the relief, a new technique for the first time in Sri Lanka, the construction of the previous consignment of concrete bridge.
-
-...
-
-[Data](articles/20a8466d.json)
-
-[Extended Data](ext_articles/20a8466d.ext.json)
-
----
-
-### Good news from Japan
-
-*2024-07-18 20:01:54* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-එන-සුබ-ආරංචිය/11-410865) · `si`
-
-Japan's delegation, led by Izumi Hiroto, plans to restart projects in Sri Lanka, including debt restructuring. They affirm support for President Ranil Wickremesinghe's leadership and commit to enhancing economic ties, focusing on education, agriculture, and urban development. Projects like the Colombo Shipyard, Bandaranaike International Airport, and digital broadcasting are set to resume. The delegation also discusses recruiting tech-savvy Sri Lankans and implementing green initiatives, highlighting Japan's interest in joint carbon reduction efforts.
-
-🟩
-
-Heada Heroic Head of Japanese delegation (ODA), who is planning to commence projects in Sri Lanka (ODA) is expected to commence projects in Sri Lanka (ODA), including the restructuring process of the debt has been completed in Sri Lanka (ODA).. Izumi Hiroto.
-
-He also said that the international community has reflect the confidence of President Ranil Wickremesinghe's leadership with the Committener of the Official Creditors' Fund.
-
-President Ranil Wickremesinghe was found at the Presidential Secretariat yesterday (18th) at the residents of the houses, housing, construction and urban areas.
-
-In Sri Lanka, Japan has resumed projects implemented under the official development aid and new investment opportunities in Sri Lanka.
-
-The delegation expressed his commitment to the President to successfully enrolled in a short period of time with the official creditors' committee, along with the committee of Sri Lanka as well as with the Committee of the International Monetary Fund.
-
-...
-
-[Data](articles/5d569b5c.json)
-
-[Extended Data](ext_articles/5d569b5c.ext.json)
-
----
-
-### Financial package for micro-minor and medium scale enterprises
-
-*2024-07-18 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198961) · `si`
-
-A financial package offering investments and working capital support for microfinance and medium-scale enterprises was launched today, providing funds through 15 institutions at a concessionary interest rate. Aimed at aiding both enterprise development and microfinance sectors, this initiative marks a significant step forward in supporting Sri Lanka's economic growth.
-
-🟩
-
-A financial package has been introduced with both investments and working capital facilities for microfinance and medium scale enterprises.
-
-The financial package was launched today (18) under the patronage of President Ranil Wickremesinghe.
-
-The financial facilities will be provided through 15 financial institutions including a concessionary interest rate.
-
-The loans will be provided under two main sections of assistance to enterprises and the microfinance, small and medium enterprises.
-
-A sum of Rs.
-
-◼️
-
-[Data](articles/d4cb7664.json)
-
-[Extended Data](ext_articles/d4cb7664.ext.json)
-
----
-
-### Report of vehicle imports to Cabinet for August 2
-
-*2024-07-18 19:57:42* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-වාර්තාව-අගෝස්තු-දෙවැනි-සතියේ-කැබිනට්-මණ්ඩලයට/11-410864) · `si`
-
-State Minister Ranjith Siyambalapitiya highlighted President Ranil Wickremesinghe's efforts to stabilize the economy amidst challenges, inviting opposition MPs and economists for dialogue. He announced a new loan scheme for SMEs with a 7% interest rate, funded by a 50 billion allocation from the Asian Development Bank, aimed at supporting small and medium-scale entrepreneurs, including women entrepreneurs and agricultural development. Additionally, a credit protection institute is set to launch in October, and a special committee is investigating vehicle import processes. Recruitment for Customs Inspectors and Assistant Customs Superintendents is ongoing, emphasizing transparency.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya said that the current President Ranil Wickremesinghe has been able to establish a stability in the country due to the real economic program that has been accepted in the very difficult situation.
-
-The opposition MPs, as well as the Economic Research Institutes of the Economic Research Institutions, are invited to an open dialogue in the appropriate platform.
-
-Chief Minister Ranjith Siyambalapitiya, Minister of Finance, was speaking at a press conference held at the Presidential Media Center today (18).
-
-A presidential election is the most powerful decision on the democratic decisions of the people. In such a time, the status of the country and the stage of the country should be created two years ago. A government is the security, welfare and development of the people. Therefore, there is a conversation in this critical media.
-
-...
-
-[Data](articles/47096922.json)
-
-[Extended Data](ext_articles/47096922.ext.json)
-
----
-
-### A financial package to revive micro, SME enterprises
-
-*2024-07-18 19:54:21* · [`adalk`](https://www.ada.lk/breaking_news/ක්ෂුද්‍ර--සුළු-හා-මධ්‍ය-පරිමාණ-ව්‍යවසාය-නැවත-පණ-ගැන්වීමට-මූල්‍ය-පැකේජයක්/11-410863) · `si`
-
-President Ranil Wickremesinghe introduced a financial package aimed at revitalizing micro, small, and medium-sized enterprises (MSMEs) in Sri Lanka. The initiative involves investment loans, workshops, and support from 15 banks and financial institutions. A national development bank for SMEs is proposed to bolster the sector, with a focus on improving resilience against economic crises and climate change. The program includes concessional interest rates and aims to allocate Rs. 13 billion towards this effort, targeting sectors like manufacturing, agriculture, and services. This move is part of a broader strategy to transform the economy and enhance its competitiveness.
-
-🟩
-
-Investment Loans at a maximum of Rs.
-
-Workshop to a maximum of Rs.
-
-15 banks and financial institutions join hands with the government.
-
-To improve the country, SMEs should be strengthened
-
-President states a national development bank for SMEs - President (SME)
-
-President Ranil Wickremesinghe was launched by President Ranil Wickremesinghe to introduce a total of both investments and working capital on the objective of re-empowerment of Micro, Small and Medium Enterprises.
-
-Appointment of the crisis through 15 participating microfinance and medium scale enterprises, including the licensed commercial banks and licensed specialized banks, including a concessionary interest rate.These loans will be provided under two parts.
-
-For this purpose, the Ministry of Industries will issue a capacity to eligible and promote financial assistance and recommend letters to the eligible micro, small and medium scale enterprises.
-
-A sum of Rs. 13 billion has been allocated to a maximum limit of Rs.
-
-A sum of Rs.
-
-...
-
-[Data](articles/cd0c4dd6.json)
-
-[Extended Data](ext_articles/cd0c4dd6.ext.json)
 
 ---

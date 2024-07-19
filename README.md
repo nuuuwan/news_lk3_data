@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 23:35:47**
+As of **2024-07-19 23:55:18**
 
 ## Newspaper Stats
 
-*Scraped **36,179** Articles*
+*Scraped **36,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 338
 bbccomsinhala | 355
 newsfirstlk | 363
 islandlk | 2,052
-economynextcom | 2,160
+economynextcom | 2,165
 dailyftlk | 2,304
 adalk | 3,267
 adaderanalk | 4,178
-tamilmirrorlk | 4,393
+tamilmirrorlk | 4,395
 dailymirrorlk | 4,733
 virakesarilk | 5,660
 adaderanasinhalalk | 6,057
@@ -26,11 +26,39 @@ adaderanasinhalalk | 6,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,178 (100.0%) of 36,179 articles have been extended.
+36,179 (100.0%) of 36,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### பங்களாதேஷ் சிறையில் தீ: கைதிகள் தப்பி ஓட்டம்
+
+*2024-07-19 23:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-சிறையில்-தீ-கைதிகள்-தப்பி-ஓட்டம்/50-340700) · `ta`
+
+இதனால் ஏற்பட்டுள்ள வன்முறையில் 39 மாணவர்கள் உயிரிழந்துள்ளனர். பொலிஸார் உட்பட நூற்றுக்கும் மேற்பட்டோர் படுகாயம் அடைந்துள்ளனர்.
+
+மேலும் போராட்டக்காரர்களால் பொது இடங்கள், சிறைச்சாலை, கட்டடங்கள் என பல பகுதிகளிலும் தீ வைக்கப்பட்டது.
+
+பங்களாதேஷின் மத்திய பகுதியில் உள்ள நர்சிங்டி மாவட்டத்தில் உள்ள சிறைச்சாலைக்குப் போராட்டக்காரர்கள் தீ வைத்தனர். இதனைப் பயன்படுத்தி சிறையிலிருந்து 100 இற்கும் மேற்பட்ட கைதிகள் தப்பி ஓடியுள்ளனர். (a)
+
+◼️
+
+[Data](articles/a20d1e42.json)
+
+---
+
+### யாழில் இருந்து கதிர்காமம் சென்ற பஸ் விபத்துக்குள்ளானது
+
+*2024-07-19 23:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-இருந்து-கதிர்காமம்-சென்ற-பஸ்-விபத்துக்குள்ளானது/71-340699) · `ta`
+
+யாழ்ப்பாணத்தில் இருந்து கதிர்காமம்  நோக்கி A15 திருகோணமலை - மட்டக்களப்பு பிரதான வீதி வழியாக பயணித்த பஸ் ஒன்று, இன்று மாலை கெங்கைத்துறை பாலம் அருகே தடம்புரண்டு விபத்துக்குள்ளானது.
+
+◼️
+
+[Data](articles/1cfddbe2.json)
+
+---
 
 ### Reorganizing the loss of state institutions will be provided to the financial education and health of the country -the President
 
@@ -80,21 +108,31 @@ The arrested are from Vavuniya and Galle. After further investigations, the poli
 
 ---
 
-### பசுமாட்டை வெட்டி சமைத்த குடும்பஸ்தர் கைது
+### Arrest
 
 *2024-07-19 22:26:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பசுமாட்டை-வெட்டி-சமைத்த-குடும்பஸ்தர்-கைது/71-340698) · `ta`
 
-ஊர்காவற்றுறை சுகாதார வைத்திய அதிகாரை தலைமையிலான குழுவினர் மேற்கொண்ட அதிரடி நடவடிக்கை மூலம் பசுமாட்டை இறைச்சிக்காக வெட்டிய குடும்பஸ்தர் ஒருவர் கைது செய்யப்பட்டதுடன் வெட்டுவதற்கு தயாராக இருந்த காளை மாடு ஒன்றும் மீட்கப்பட்டுள்ளது.
+A family member of the Kayts Health Medical Affairs Authority (CEA) arrested someone for illegally slaughtering cows for meat, a common issue across the island. Despite public knowledge and potential bribes, authorities have struggled to halt these activities. This incident involved a cow being slaughtered without a permit, leading to the arrest of the culprit and seizure of meat. The Health Medical Officer urged the public to report such cases, highlighting the need for stricter enforcement and community involvement.
 
-ஊர்காவற்றுறை உட்பட தீவகத்தின் பல இடங்களிலும் அனுமதி அற்ற முறையில் மாடுகள்  இறைச்சிக்காக வெட்டப்படுதல் மற்றும் மாடுகள் கடத்தப்படும் சம்பவங்கள் அதிகரித்துள்ளன. குறிப்பாக பசு மாடுகள் இறைச்சிக்காக வெட்டும் பாதகச் செயலும் அரங்கேறி வருகின்றது.
+🟩
 
-பல வருடங்களாக இடம்பெறும் இச்செயற்பாட்டைத் தடுத்து நிறுத்த முடியாமைக்கு காரணம் இவ்வாறு இறைச்சி வெட்டுபவர்கள் தடுக்க வருபவர்களுக்கு இலஞ்சம் வழங்குகின்றனர் எனவும் இதனால் அவர்கள் இவர்களுக்கு எதிராக நடவடிக்கை எடுப்பதில்லை எனவும் பொதுமக்கள் தரப்பில் குற்றச்சாட்டு முன்வைக்கப்பட்டது.
+A family member of the Kayts Health Medical Affairs Authority (CEA) has been arrested by a family member who has cut green meat for meat and has been recovered.
 
-இவ்வாறான நிலையிலேயே இன்றைய தினம் ஊர்காவற்றுறை சுகாதார வைத்திய அதிகாரி த.சுசிதரன் தலைமையிலான குழுவினர் மேற்படி மாடு வெட்டியவரைக் கைது செய்துள்ளனர்.
+Increasing incidents of cutting and smuggling of cows for cows and cows in many parts of the island, including Kayts.. In particular, cow cows are also being cut down for meat.
+
+The public has been accused of being able to stop the process for many years because of the lack of bribes to prevent meat cutters and that they will not take action against them.
+
+In this case, a team led by Kayts Health Medical Officer T.Susitharan has arrested the cow cutter.
+
+Health Medical Officer got confidential information that the cow was cut without permission. He has informed the Chief Police Officer in charge of the police and sought the help of the police.
+
+It was revealed that the cow was cut and cooked in a house. Another bull was tied up ready to cut the cow. Residents said they cut the cow for an event.
 
 ...
 
 [Data](articles/c51df538.json)
+
+[Extended Data](ext_articles/c51df538.ext.json)
 
 ---
 
@@ -598,6 +636,24 @@ Meanwhile, more than 50 houses are unworthy of resettlement in 1996 in Sirinagar
 
 ---
 
+### Sri Lanka’s Commercial Bank gets Sustainable Fitch opinion to sell green bonds
+
+*2024-07-19 18:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-gets-sustainable-fitch-opinion-to-sell-green-bonds-172970/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon said it had received a second party opinion from Sustainable Fitch, validating a framework that will allow the lender to sell green bonds in the future.
+
+The bank said Sustainable Fitch had given an opinion of ‘Good’ for its green bond framework, based on alignment to with the International Capital Market Association’s Green Bond Principles 2021, Social Bond Principles 2023 and the Sustainability Bond Guidelines 2021.
+
+Commercial Bank’s sustainable bond framework was developed with technical assistance from Global Green Growth Institute (GGGI), an international inter-governmental organization.
+
+“Our focus on sustainability now encompasses virtually every operational aspect, and the issuance of a Sustainable Bond will mark the next milestone in the Bank’s journey towards sustainability,” Managing Director and Chief Executive Sanath Manatunge said in statement.
+
+...
+
+[Data](articles/07def392.json)
+
+---
+
 ### A message to vendors from the government
 
 *2024-07-19 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198994) · `si`
@@ -802,6 +858,46 @@ Speaking at the event, he said, “I grew up listening to the songs of the artis
 
 ---
 
+### SriLankan Airlines says internet booking restored after global IT outage
+
+*2024-07-19 17:21:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-says-internet-booking-restored-after-global-it-outage-172958/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines said its internet booking system is back to normal after being hit by a global technology outage.
+
+“SriLankan Airlines would like to inform passengers that its internet booking services have been fully restored as of 08:30 GMT (14:00 local time in Sri Lanka), following a global outage of third-party service providers that affected the airline’s online booking services,” the airline said
+
+“We understand that this may have impacted the experience of some of our passengers, and we sincerely apologize for any inconvenience caused.”
+
+Several airlines in the world cancelled flights as their communications systems were hit.
+
+Reports said Microsoft systems were hit by an outage which had a cascading effect, disrupting multiple technological platforms. (Colombo/July19/2024)
+
+◼️
+
+[Data](articles/48259f5f.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 303.55/65 to US dollar
+
+*2024-07-19 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-55-65-to-us-dollar-172942/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.55/65 to the US dollar on Friday, from 304.00/10 to the US dollar on Thursday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.40/55 percent, up from 10.30/45 percent.
+
+A bond maturing on 15.12.2027 closed at 11.50/65 percent, down from 11.55/65 percent.
+
+A bond maturing on 01.05.2028 closed at 11.70/85 percent, up from 11.70/80 percent.
+
+A bond maturing on 15.09.2029 closed at 12.00/10 percent, up from 12.00/05 percent. (Colombo/Jul19/2024)
+
+◼️
+
+[Data](articles/0856a0b6.json)
+
+---
+
 ### SriLankan Airlines restores internet booking services following global outage
 
 *2024-07-19 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100630/srilankan-airlines-restores-internet-booking-services-following-global-outage) · `en`
@@ -873,6 +969,30 @@ The Justice Minister had claimed that this decision was made in order to elimina
 [Data](articles/5754ddfc.json)
 
 [Extended Data](ext_articles/5754ddfc.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Hayleys sees foreign buying
+
+*2024-07-19 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-hayleys-sees-foreign-buying-172935/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+The broader All Share Index closed down 0.35 percent, or 41.37 points, at 11,727; while the more liquid S&P SL20 Index closed down 0.30 percent, or 10.46 points, at 3,429.
+
+“There was foreign buying interest on Hayleys Plc,” Softlogic Stockbrokers said. “Foreign interest in selective companies with solid fundamentals, such as Hayleys,  persisted.”
+
+“We think such companies will benefit greatly from the reduction of electricity tariffs and interest rates. Also there is the positive earning potential of their subsidiaries.”
+
+Hayleys Plc contributed Rs288mn to the turnover, and the share closed up at 101.00.
+
+A crossing on John Keells Holdings Plc contributed Rs90mn to the turnover. The share closed flat at 194.00.
+
+Investor interest was seen in Distilleries Company of Sri Lanka Plc (Rs94mn) and the share closed down at 26.40.
+
+...
+
+[Data](articles/c8a5b023.json)
 
 ---
 
@@ -1129,6 +1249,24 @@ The song is written by Umadevi, the background singer Sindhuri -Vishal. The song
 [Data](articles/d559c987.json)
 
 [Extended Data](ext_articles/d559c987.ext.json)
+
+---
+
+### Sri Lanka gazettes bill to change Article 83 of the constitution
+
+*2024-07-19 15:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-gazettes-bill-to-change-article-83-of-the-constitution-172921/) · `en`
+
+ECONOMYNEXT – Sri Lanka has published a gazette notice to change Article 83 of the constitution which has a reference to a six year term of the President.
+
+“Article 83 of the Constitution of the Democratic Socialist Republic of Sri Lanka is hereby amended in paragraph (b) thereof, by the substitution for the words “to over six years,”, of the words “to over five years,” the gazette notice issued on the orders of President Ranil Wickremesinghe says.
+
+There is a discrepancy in the Article 83 with reference to a six year term, while the rest of the constitution, refers to a five year term.
+
+Opposition parties and lawyers have charged that the legal process involving changing the constitution could potentially delay the upcoming Presidential elections. (Colombo/July19/2024)
+
+◼️
+
+[Data](articles/3334d8f0.json)
 
 ---
 
@@ -2261,175 +2399,5 @@ Chilean Country is located in the Ring of Fire Model of the Pacific Ocean. The P
 [Data](articles/245d37d8.json)
 
 [Extended Data](ext_articles/245d37d8.ext.json)
-
----
-
-### Prior online registration required to apply for passports from today
-
-*2024-07-19 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100616/prior-online-registration-required-to-apply-for-passports-from-today) · `en`
-
-The Department of Immigration and Emigration says that prior online registration is now required when applying for a Sri Lankan passport and the new methodology has commenced with effect from today (19).
-
-The department further stated that it is no longer possible to obtain a passport by visiting the department without first being assigned a date and time through the online registration system.
-
-Accordingly, an applicant must reserve a date and time through the http://www.immigration.gov.lk/ website to obtain or renew a passport.
-
-This requirement applies to both the one-day service and the general service.
-
-However, despite this new system being launched from today (19), a large number of people had arrived at the Immigration and Emigration Department office in Battaramulla this morning to obtain passports without making such reservations.
-
-...
-
-[Data](articles/35d0747e.json)
-
-[Extended Data](ext_articles/35d0747e.ext.json)
-
----
-
-### Bangladesh TV news off air, communications widely disrupted as student protests spike
-
-*2024-07-19 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100615/bangladesh-tv-news-off-air-communications-widely-disrupted-as-student-protests-spike) · `en`
-
-Television news channels in Bangladesh were off the air and telecommunications were widely disrupted on Friday amid violent student protests against quotas for government jobs in which nearly two dozen people have been killed this week.
-
-French news agency AFP reported that the death toll in Thursday’s violence had risen to 32. Reuters had reported that 13 people were killed, adding to six dead earlier in the week, and could not immediately verify the higher number.
-
-India’s Economic Times newspaper reported that Prime Minister Sheikh Hasina’s government “was forced” to call in the army late on Thursday to help “maintain order”. Reuters could not independently verify the information.
-
-Authorities had cut some mobile services on Thursday to try to quell the unrest but the disruption spread across the country on Friday morning, Reuters witnesses in Dhaka and New Delhi said.
-
-Telephone calls from overseas were mostly not getting connected and calls through the internet could not be completed.
-
-...
-
-[Data](articles/81d4b633.json)
-
-[Extended Data](ext_articles/81d4b633.ext.json)
-
----
-
-### Who is responsible for the escape of the underworld group?
-
-*2024-07-19 10:23:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழு-உறுப்பினர்கள்-தப்பிச்-செல்ல-யார்-காரணம்/175-340676) · `ta`
-
-Kanjiban Imran and Kanemulla Sanjeeva's underworld group members are responsible for their escape from the country. Strict laws are enforced to curb their activities.
-
-🟩
-
-It has been revealed that the members of the underworld group of Kanjiban Imran and Kanemulla Sanjeeva are responsible for their leaving the country.
-
-He also said that the law is strictly implemented to prevent the activities of the underworld group members.. Remble
-
-◼️
-
-[Data](articles/e1a1ff9d.json)
-
-[Extended Data](ext_articles/e1a1ff9d.ext.json)
-
----
-
-### China's doors continue to be open to the world
-
-*2024-07-19 10:22:17* · [`adalk`](https://www.ada.lk/opinion/චීනයේ-දොරටු-ඉදිරියටත්-වඩාත්-පුළුල්ව-ලෝකයා-වෙත-විවෘතයි-/2-410866) · `si`
-
-It appears there might have been a misunderstanding in my previous response. Let's address the topic directly.
-
-
-
-China's approach to opening its markets and engaging with the global economy has indeed evolved significantly over the years. The Belt and Road Initiative (BRI), for instance, is a testament to China's ambition to expand its economic influence beyond its borders. The initiative aims to enhance connectivity and cooperation on a transcontinental scale, covering Asia, Africa, Europe, the Middle East, and beyond.
-
-
-
-Moreover, China's domestic policies, such as the opening up of various sectors to foreign investment and the introduction of new laws to facilitate foreign businesses, demonstrate a commitment to integrating more deeply into the global economy. The increase in visa-free access for foreigners and the growth in tourism indicate a broader effort to attract international visitors and investors.
-
-
-
-However, it's crucial to recognize that China's approach to opening up is balanced with its own strategic interests. While China seeks to engage more closely with the global economy, it also maintains certain restrictions and controls to protect its domestic industries and national security. This balance is evident in areas like foreign direct investment, where China has specific requirements and limitations to ensure that incoming capital aligns with its long-term development goals.
-
-
-
-Furthermore, China's participation in international economic agreements, such as the Comprehensive Agreement on Investment (CAI) and applications to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), reflect its desire to contribute to and benefit from global economic governance frameworks. These moves signal China's intention to play a more prominent role in shaping the rules of the global economy.
-
-
-
-In summary, while China is indeed opening its doors wider to the global economy, this process is part of a carefully calibrated strategy that balances economic engagement with the protection of national interests. The country's rapid economic growth, its ambitious infrastructure projects like the BRI, and its active pursuit of international economic partnerships all underscore its commitment to fostering greater global connectivity and cooperation.
-
-🟩
-
-The near term was the worst impact on economic globalization of anti-globalization (anti-globalization). The capital, industries and jobs that some Western States have followed the policies of the 'national security' and the 'National Assault' have led to the rejection of foreign enterprises.
-
-In addition, some Western media made many accused of opening of China and refused to understand China's market conditions. However, the problem is that China is not open by the opening, it shows that China does not fulfill any Western requirements.
-
-No. In view of the following data, it realizes that it is false.China is currently the largest seventh year of the country. The export values ​​of the products including the first half of the year 2024 have been influenced by 22.2% of the previous year, 91.1% and 25.6% compared to the previous year.
-
-...
-
-[Data](articles/e4e0397d.json)
-
-[Extended Data](ext_articles/e4e0397d.ext.json)
-
----
-
-### An upset in front of the passport office
-
-*2024-07-19 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198977) · `si`
-
-Due to high demand, applicants for foreign passports must reserve online at www.immigration.gov.lk for either one-day or regular services. This led to overcrowding at the Department of Immigration and Emigration in Battaramulla, prompting police intervention.
-
-🟩
-
-Passport applications for the convenience of the foreign passport candidates The Department of Immigration and Emigration had announced this on the 17th.
-
-Accordingly, a applicant must be reserved on www.imimimtion.gov.lk to obtain or renew a new overseas passport.
-
-The Department of Immigration and Emigration has issued a statement that it is valid for both one-day service and the normal service.
-
-The people had arrived at the Department of Immigration and Emigration in Battaramulla to obtain foreign passports this morning.
-
-There was a warm position of warning that only the people who set aside the day and time.
-
-As a result, there were long queues and congestion in front of the Department of Immigration and Emigration and the police and the riot unit had also been called.
-
-◼️
-
-[Data](articles/24b17f84.json)
-
-[Extended Data](ext_articles/24b17f84.ext.json)
-
----
-
-### Youth killed as motorcycle collides with an ambulance
-
-*2024-07-19 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100614/youth-killed-as-motorcycle-collides-with-an-ambulance-) · `en`
-
-One person was killed following a head-on collision involving a motorcycle and an ambulance this morning (19).
-
-The accident had occurred when an ambulance belonging to the Balapitiya Base Hospital, which was travelling from Galle towards Colombo, collided head-on with a motorcycle travelling on the opposite direction at the Tharuna Sewa Mawatha Junction on the Galle-Colombo road.
-
-The 22-year-old motorcyclist who was seriously injured from the accident was pronounced dead upon admission to the Karapitiya Teaching Hospital.
-
-◼️
-
-[Data](articles/47678415.json)
-
-[Extended Data](ext_articles/47678415.ext.json)
-
----
-
-### Youth killed as motorcycle collides with ambulance
-
-*2024-07-19 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100614/youth-killed-as-motorcycle-collides-with-ambulance-) · `en`
-
-One person was killed following a head-on collision involving a motorcycle and an ambulance this morning (19).
-
-The accident had occurred when an ambulance belonging to the Balapitiya Base Hospital, which was travelling from Galle towards Colombo, collided head-on with a motorcycle travelling on the opposite direction at the Tharuna Sewa Mawatha Junction on the Galle-Colombo road.
-
-The 22-year-old motorcyclist who was seriously injured from the accident was pronounced dead upon admission to the Karapitiya Teaching Hospital.
-
-◼️
-
-[Data](articles/9fcdf817.json)
-
-[Extended Data](ext_articles/9fcdf817.ext.json)
 
 ---

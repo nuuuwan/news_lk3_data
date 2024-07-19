@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 22:20:14**
+As of **2024-07-19 22:35:43**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 6,055
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,172 (100.0%) of 36,173 articles have been extended.
+36,173 (100.0%) of 36,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ලෝකෙම නැවැත්වූ Blue Screen Death - සම්පූර්ණ විස්තරය මෙන්න
+### The world stopped in the world - Here is the full description
 
 *2024-07-19 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199000) · `si`
 
-මයික්‍රොසොෆ්ට් ප්‍රධාන මෙහෙයුම් පද්ධති ඇතුළු යෙදවුම් සේවා රැසක බිඳ වැටීමක් හේතුවෙන් මේ වනවිට ලොව පුරා රටවල් රැසක දෛනික කටයුතුවලට දැඩි බාධා එල්ල වී තිබේ.
+A massive global IT crash impacted numerous countries, causing disruptions in critical services like banking, transportation, and healthcare. Major operating systems experienced issues, leading to widespread "Blue Screen Death" errors. This affected airlines, banks, and even essential services in countries like England, Australia, and New Zealand. The incident was traced back to Microsoft services, but Mac and Linux applications remained unaffected.
 
-ඒ හේතුවෙන් ගුවන් ගමන්, බැංකු සේවා, රූපවාහිනී නාලිකා විකාශන කටයුතු ඇතුළු සේවා රැසක මෙහෙයුම් අනපේක්ෂිත ලෙස අඩාළ වුණි.
+🟩
 
-මෙම බිඳවැටීමෙන්, ශ්‍රී ලංකන් ගුවන් සේවයට සහ මෙරට පෞද්ගලික ආයතන හතරක මෙහෙයුම් කටයුතුවලටත් එල්ලවුණේ දැඩි බලපෑමකි.
+Microsoft has been severely obstructed for daily activities of many countries around the world due to a crash of a number of input services including major operating systems.
 
-ලෝකය නවීන තාක්ෂණය අතින් වේගවත් සංවර්ධනයක නිරතව සිටින මොහොතක ‍මහා පරිමාණ ගෝලීය තොරතුරු තාක්ෂණික බිඳ වැටීමක් පිළිබඳව වාර්තා වූයේ මෙරට වේලාවෙන් අද (19) මධ්‍යාහ්න කාලයේදී ය.
+As a result, operations in a number of services including flights, banking services, television channel broadcasting have been unpredictable.
 
-මයික්‍රොසොෆ්ට් ප්‍රධාන මෙහෙයුම් පද්ධති ඇතුළු ප්‍රධාන යෙදවුම් සේවා රැසක බිඳ වැටීම පළමුව වාර්තා වී තිබුණේ අමෙරිකාවෙනි.
+The collapse, SriLankan Airlines and four private institutions were operating in the operations in four private institutions.
 
-ඒ සමග, "බ්ලූ ස්ක්‍රීන් ඩෙත්" යනුවෙන් දෝෂයක් ලොව පුරා රටවල් රැසක පරිගණක තිර මත දිස්වීමත් සමඟ එය විදෙස් මාධ්‍යවල ප්‍රමුඛ පුවත බවට පත්වුණි.
+A large number of global information technological crash was reported today in the country today (19) at a time of rapid development of the world.
 
-පරිගණක ජාලවල මයික්ක්‍රොසොෆ්ට් යෙදවුම් අනපේක්ෂිත ලෙස ඇනහිටීම "බ්ලූ ස්ක්‍රීන් ඩෙත්" දෝෂය ලෙස දැක්වෙයි.
+Microsoft was first reported to the collapse of a number of major input services including main operating systems.
+
+According to the "Blue Screen Death" appears to appear on the computer screens in many countries around the world, as the foreign media has become the main news of foreign media.
+
+Microsoft unexpectedly stalled unexpectedly stalled error.
 
 ...
 
 [Data](articles/76ef040d.json)
+
+[Extended Data](ext_articles/76ef040d.ext.json)
 
 ---
 

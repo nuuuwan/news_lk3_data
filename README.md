@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 14:54:12**
+As of **2024-07-19 15:05:28**
 
 ## Newspaper Stats
 
-*Scraped **36,116** Articles*
+*Scraped **36,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,168
 tamilmirrorlk | 4,388
 dailymirrorlk | 4,733
 virakesarilk | 5,639
-adaderanasinhalalk | 6,038
+adaderanasinhalalk | 6,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,116 (100.0%) of 36,116 articles have been extended.
+36,116 (100.0%) of 36,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### ඩොනල්ඩ් ට්‍රම්ප්ගේ ජනප්‍රියත්වය ඉහළ යයි
+
+*2024-07-19 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198984) · `si`
+
+දින 4ක් පුරා පැවති හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් නියෝජනය කරන රිපබ්ලිකන් පක්ෂ ජාතික සම්මේලනය අද (19) අවසන් වුණි.
+
+සම්මේලනයේ අවසන් දිනයේදී හිටපු ජනපති ට්‍රම්ප්ගේ බිරිඳ වන මෙලනියා ට්‍රම්ප්ද සම්මේලනයට එක් වූවාය.
+
+හිටපු ජනාධිපති ට්‍රම්ප් විනාඩි 90ක පමණ කාලයක් සම්මේලනය ඇමතූ අතර එය වාර්තා වන්නේ වසර 50කින් පමණ පසුව ජනාධිපති අපේක්ෂකයෙකු නාමයෝජනා භාර ගනිමින් කළ දීර්ඝතම කතාව ලෙසය.
+
+එහිදී ට්‍රම්ප් පවසා තිබුණේ දෙවියන්ගේ සහායද තමන්ට හිමිව ඇති බැවින් ඝාතන උත්සාහයෙන් දිවි ගලවා ගැනීමට හැකි වූ බවය.
+
+තමන්ට එල්ලවූ වෙඩි ප්‍රහාරයෙන් මියගිය සිය ආධාරකරුගේ නිල ඇඳුම පවා සිප ගැනීමට ට්‍රම්ප් කටයුතු කළේය.
+
+අමෙරිකානු මාධ්‍යවේදී ටකර් කාල්සන් මෙන්ම රෙස්ලින් ක්‍රීඩක හල්ක් හෝගන් ද සම්මේලනයේ අවසන් දිනය ඇමතීය.
+
+හිටපු අමෙරිකානු ජනාධිපතිවරයා සම්මේලනය අවසන් කර තිබුණේ, අමෙරිකාවේ අනාගතය සිය පාලනය යටතේ වඩාත් විශිෂ්ට වන බවට තහවුරු කරමිනි.
+
+◼️
+
+[Data](articles/7051abed.json)
+
+---
 
 ### Sri Lanka aims to become regional hub for human capital development – President
 
@@ -2189,29 +2213,5 @@ We are a bankrupt country and people are suffering immensely and will have to co
 [Data](articles/a6d617be.json)
 
 [Extended Data](ext_articles/a6d617be.ext.json)
-
----
-
-### Introduction of Electronic Passport to Sri Lankans from January 2025 - The Department of Immigration and Emigration
-
-*2024-07-19 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188800) · `ta`
-
-From January 1, 2025, Sri Lankans will receive a new electronic passport, with applications starting July 16, 2024, through https://www.immigration.gov.lk. Priority is given based on current passport validity, recent foreign travel, and possession of a valid National Identity Card and mobile number. Applicants must visit the department in person upon notification via SMS. Existing passports remain valid until the electronic ones are issued.
-
-🟩
-
-The Department of Immigration and Emigration has announced that steps have been taken to issue a safe and renewed electronic passport to Sri Lankans from January 1, 2025, and that the preparations for the application have been made.
-
-Accordingly, those who apply for a passport from July 16 this year must be booked through https://www.immigration.gov.lk. The new scheme will be implemented from the 19th of July. Therefore, the system of applying for the existing passport will be implemented for the period of July 18.
-
-Accordingly, the opportunity to obtain the passport will be given on the basis of the priority.Those who already hold the passport and new applicants who do not have passports can apply for the passport.
-
-The 3 issues will be taken into consideration as a valid passport at present when a passport is given priority, and the passport of the passport is less than 6 months and the passport is recently used for a foreign trip.
-
-...
-
-[Data](articles/a29a6a84.json)
-
-[Extended Data](ext_articles/a29a6a84.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 18:14:43**
+As of **2024-07-19 18:26:09**
 
 ## Newspaper Stats
 
-*Scraped **36,146** Articles*
+*Scraped **36,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 4,174
 tamilmirrorlk | 4,390
 dailymirrorlk | 4,733
 virakesarilk | 5,648
-adaderanasinhalalk | 6,046
+adaderanasinhalalk | 6,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,146 (100.0%) of 36,146 articles have been extended.
+36,146 (100.0%) of 36,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### රජයේ තොරතුරු පද්ධති 40ක් ගැන වාර්තාවක් කැඳවයි
+
+*2024-07-19 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198993) · `si`
+
+අමෙරිකාවේ සයිබර් ආරක්ෂණ පද්ධති සපයන ආයතනයක මෘදුකාංගයක හටගත් තාක්ෂණික දෝෂයෙන් මෙරටට යම්කිසි බලපෑමක් සිදුව ඇතිද යන්න සෙවීම සඳහා රජයේ තොරතුරු පද්ධති 40ක් සම්බන්ධයෙන් වාර්තා කැඳවා තිබේ.
+
+ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදයේ ඡ්‍යේෂ්ඨ තොරතුරු ආරක්ෂක ඉංජිනේරු චරුක දමුණුකොළ මහතා පැවසුවේ එම තොරතුරු පද්ධති ක්‍රියාත්මක වන්නේ මයික්‍රොසොෆ්ට් ‍යෙදවුම් මත පදනම්වද යන්න සම්බන්ධයෙන් සොයාබැලීම සඳහා මෙම වාර්තා කැඳවා ඇති බවය.
+
+එමෙන්ම පෞද්ගලික ආයතන 4කට එහි බලපෑම් ඇතිවී ඇති බවත් නිලනොලත් වාර්තා අනුව බැංකු දෙකකට ද යම් බලපෑමක් සිදුව ඇති බවත් වාර්තා වී ඇති බව ඒ මහතා පවසයි.
+
+මේ සම්බන්ධයෙන් දැඩි විමර්ශනයක සිටින බවද ඒ මහතා අද දෙරණට වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+අමෙරිකාවේ සයිබර් ආරක්ෂණ පද්ධති සපයන ආයතනයක් වන ක්‍රවුඩ්ස්ට්‍රයික් සමාගමේ ෆැල්කන් නම් මෘදුකාංගයේ හටගත් තාක්ෂණික දෝෂයක් හේතු‍වෙන් ලොව පුරා රටවල් රැසක බැංකු, ගුවන් තොටුපොළ ඇතුළු ආයතන ගණනාවක කටයුතුවලට අද (19) දැඩි බලපෑම් එල්ල විය.
+
+◼️
+
+[Data](articles/416e1972.json)
+
+---
+
+### ශ්‍රීලංකන් ගුවන් සේවයෙන් විශේෂ නිවේදනයක්
+
+*2024-07-19 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198992) · `si`
+
+ගෝලීය වශයෙන් සිදුවූ තාක්ෂණික දෝෂය සම්බන්ධයෙන් ශ්‍රීලංකන් ගුවන් සේවය නිවේදනයක් නිකුත්කර තිබේ.
+
+එම නිවේදනයේ දැක්වෙන්නේ අද (19) ශ්‍රීලංකන් ගුවන් සේවයේ අන්තර්ජාල වෙන්කරවා ගැනීමේ සේවාවන්ට බලපාන තුන්වන පාර්ශ්ව සේවා සපයන්නන්ගේ ගෝලීය වශයෙන් සිදුවූ තාක්ෂණික දෝෂයක් හේතුවෙන් ගුවන් මෙහෙයුම් වෙත බලපෑමක් ඇතිවූ බවයි.
+
+එම නිසා මගීන්ට සිදුවූ අපහසුතාවය සම්බන්ධයෙන් සිය කනගාටුව පළකර සිටින බවද එම නිවේදනයේ දැක්වෙයි.
+
+ශ්‍රී ලංකාවේ වේලාවෙන් 14:00 පැයට එම තාක්ෂණික දෝෂය සම්පූර්ණයෙන්ම යථා තත්ත්වයට පත්කර තිබුණි.
+
+ඒ සම්බන්ධයෙන් වැඩිදුර සහාය සඳහා කරුණාකර +94 19733 1979 හි ඔවුන්ගේ ගෝලීය සම්බන්ධතා මධ්‍යස්ථානය අමතන ලෙස ශ්‍රීලංකන් ගුවන් සේවය ඉල්ලා සිටියේය.
+
+◼️
+
+[Data](articles/97c741bb.json)
+
+---
 
 ### SriLankan Airlines restores internet booking services following global outage
 
@@ -92,7 +132,13 @@ The Commissioner General of Elections, Saman Sri Ratnayake says that there are n
 
 Furthermore, the Elections Commissioner General stated that the commission has the power to fairly hold the upcoming elections despite any incoming influence.
 
-◼️
+Earlier today, the 22nd Amendment to the Constitution was published in the Government Gazette by order of President Ranil Wickremesinghe.
+
+On Thursday (18), Minister of Justice Wijeyadasa Rajapakshe had instructed his ministry’s secretary not to publish the Gazette notification on the 22nd Amendment to the Constitution until the Presidential Election is held.
+
+The Justice Minister had claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
+
+...
 
 [Data](articles/5754ddfc.json)
 
@@ -2277,41 +2323,5 @@ Visa Country Manager Avanthi Colombage explains shift towards digital platforms,
 [Data](articles/143cc3b6.json)
 
 [Extended Data](ext_articles/143cc3b6.ext.json)
-
----
-
-### NDB partners with Sri Lanka Inventors Commission to empower future innovators
-
-*2024-07-19 05:20:48* · [`dailyftlk`](https://www.ft.lk/business/NDB-partners-with-Sri-Lanka-Inventors-Commission-to-empower-future-innovators/34-764463) · `en`
-
-National Development Bank PLC as a part of its Sustainability initiatives has recently entered into a partnership with the Sri Lanka Inventors Commission (SLIC) for the Sahasak Nimavum Project, which is a national competition for Sri Lankan inventors and innovators, underscoring NDB’s commitment to supporting up-and-coming inventors and thereby empowering the future of the nation.
-
-The Sahasak Nimavum Project is a prestigious platform that invites students and adults from across the island to showcase their inventive talents. The provincial-level selections, which commenced in July 2024, will continue through August 2024, providing a unique opportunity for budding inventors to gain recognition and support for their groundbreaking ideas.
-
-...
-
-[Data](articles/ad9ef11b.json)
-
-[Extended Data](ext_articles/ad9ef11b.ext.json)
-
----
-
-### Cabinet approves land allocation for BOI housing project in Kelaniya
-
-*2024-07-19 05:19:40* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-land-allocation-for-BOI-housing-project-in-Kelaniya/34-764462) · `en`
-
-The Sri Lanka Land Development Corporation will allocate an eight-acre plot of land in Vedamulla, Kelaniya, to H.M.K. Property Developers Ltd., for a Board of Investment (BOI) approved housing project.
-
-The Cabinet of Ministers on Monday approved the proposal, which involves a portion of land measuring eight acres, two roods and 16.26 perches, based on the current assessment by the Chief Assessor of the Government.
-
-Initially, approval was given at a Cabinet Sub Committee meeting on Investment Promotion to provide a 12-acre plot of land for the project. However, due to H.M.K. Property Developers Ltd.’s failure to comply with the relevant agreements, the land was not released.
-
-Recently, H.M.K. Property Developers Ltd., made another request through the BOI of Sri Lanka to obtain the land for implementing a housing project in three stages.
-
-◼️
-
-[Data](articles/5e636270.json)
-
-[Extended Data](ext_articles/5e636270.ext.json)
 
 ---

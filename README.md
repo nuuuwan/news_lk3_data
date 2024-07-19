@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 17:35:54**
+As of **2024-07-19 17:56:22**
 
 ## Newspaper Stats
 
-*Scraped **36,145** Articles*
+*Scraped **36,146** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 319
 colombotelegraphcom | 338
-bbccomsinhala | 354
+bbccomsinhala | 355
 newsfirstlk | 363
 islandlk | 2,052
 economynextcom | 2,160
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,046
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,144 (100.0%) of 36,145 articles have been extended.
+36,145 (100.0%) of 36,146 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ AirAsia said its “core reservation and check-in system” have been impacted b
 ...
 
 [Data](articles/0e661464.json)
+
+[Extended Data](ext_articles/0e661464.ext.json)
 
 ---
 
@@ -1067,6 +1069,26 @@ He said that the presidential election would be announced next week by announcin
 [Data](articles/e0eac218.json)
 
 [Extended Data](ext_articles/e0eac218.ext.json)
+
+---
+
+### මහා පරිමාණ තොරතුරු තාක්ෂණ බිඳ වැටීමෙන් ලොව පුරා ගුවන් සේවා, රෝහල්, මාධ්‍ය සහ බැංකු කටයුතුවලට බලපෑම්
+
+*2024-07-19 12:00:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kr4q10jjlo) · `si`
+
+මහා පරිමාණ තොරතුරු තාක්ෂණ බිඳ වැටීමෙන් ලොව පුරා ගුවන් සේවා, රෝහල්, මාධ්‍ය සහ බැංකු කටයුතුවලට බලපෑම්
+
+ප්‍රධාන පෙළේ බැංකු, මාධ්‍ය ආයතන සහ ගුවන් සමාගම් ඇතුළු ගෝලීය ආයතන සමූහයක් ඔවුන්ගේ සේවාවලට බලපාන මහා පරිමාණ තොරතුරු තාක්ෂණ බිඳ වැටීමක් සම්බන්ධයෙන් වාර්තා කර තිබේ.
+
+ඒත් සමග ගුවන් සමාගම් කිහිපයක් ම ලොව පුරා ගුවන් ගමන් නතර කර ඇති අතර තවත් බොහෝ ගුවන් ගමන් ප්‍රමාදයන් වාර්තා කරයි.
+
+මෙම බිඳ වැටීම හේතුවෙන් සිය හදිසි සේවාවලට බලපෑම් එල්ල වී ඇතැයි එක්සත් ජනපදයේ ඇලස්කා ප්‍රාන්තය අනතුරු අඟවා ඇති අතර ඔස්ට්‍රේලියාවේ සුපිරි වෙළෙඳසල්වල කටයුතු අඩපණ වී තිබේ. තාක්ෂණ පද්ධති බිඳ වැටීම හේතුවෙන් රටවල් කිහිපයක ම මාධ්‍ය ආයතන තත්ත්වය කළමනාකරණය කර ගැනීමට කටයුතු කරමින් සිටි අතර එක්සත් රාජධානියේ ස්කයි නිවුස් ආයතනයේ විකාශන කටයුතු තාවකාලිකව නතර කිරීමට පවා සිදු විය.
+
+බිඳ වැටීමට හේතුව අපැහැදිලි නමුත් බලපෑමට ලක් වූ බොහෝ දෙනෙකු පැවසුවේ, එය මයික්‍රෝසොෆ්ට් පරිගණක මෙහෙයුම් පද්ධතිය ආශ්‍රිතව හටගත් බව ය.
+
+...
+
+[Data](articles/5a210ccc.json)
 
 ---
 
@@ -2281,25 +2303,5 @@ Recently, H.M.K. Property Developers Ltd., made another request through the BOI 
 [Data](articles/5e636270.json)
 
 [Extended Data](ext_articles/5e636270.ext.json)
-
----
-
-### Japan tells President ready to resume suspended ODA projects
-
-*2024-07-19 05:18:53* · [`dailyftlk`](https://www.ft.lk/news/Japan-tells-President-ready-to-resume-suspended-ODA-projects/56-764461) · `en`
-
-Head of the Japanese delegation Dr. Izumi Hiroto says rapid debt restructuring reflects international confidence in President’s leadership
-
-Head of the Japanese delegation Dr. Izumi Hiroto visiting Sri Lanka, yesterday lauded the successful completion of the country’s debt restructuring process, noting that it has paved the way for the resumption of Japanese Official Development Assistance (ODA) projects.
-
-These projects, which include several initiatives that were suspended last period, are now poised to restart, signalling a renewed phase of cooperation and development.
-
-Dr. Hiroto highlighted that the international community’s confidence in President Ranil Wickremesinghe’s leadership is strongly reflected in the expedited success of the debt restructuring agreements. This achievement, accomplished in partnership with the Official Creditors’ Committee and the International Monetary Fund, underscores a remarkable turnaround for Sri Lanka.
-
-...
-
-[Data](articles/a6ba51d7.json)
-
-[Extended Data](ext_articles/a6ba51d7.ext.json)
 
 ---

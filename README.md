@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 11:06:43**
+As of **2024-07-19 11:20:15**
 
 ## Newspaper Stats
 
@@ -1676,24 +1676,6 @@ Last month, the High Court ordered that 30 percent of the allocation of the fami
 
 ---
 
-### 
-
-*2024-07-18 22:53:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84399) · `en`
-
-Capt  Miller’s  Nelliaddy Attack  on 5 July 1987 Gave Birth to the “Karumpuligal”  ( Black Tigers)
-
-Vallipuram Vasanthan alias “Captain Miller” the  first Suicide bumber of the Liberation Tigers of Tamil Eelam(LTTE) is the focus of this two -part article.   A brief description of the pioneering “Black Tiger” or “Karumpuli” and events leading to the  first Black Tiger operation on 5 July 1987   was outlined  in the first part published last week.  Details of the LTTE attack on the military camp  at the Nelliaddy MMV school premises would be related in this second and concluding part.
-
-As stated earlier the  Sri Lankan Armed forces had re-taken control of the Vadamaratchi sector in the Northern  Jaffna peninsula through “Operation Liberation” launched on 27 May 1987. The army may have  continued with the military push and attempted to seize control of Jaffna town but for Indian intervention.
-
-...
-
-[Data](articles/4645d3a8.json)
-
-[Extended Data](ext_articles/4645d3a8.ext.json)
-
----
-
 ### Club Wasantha's real situation?
 
 *2024-07-18 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198967) · `si`
@@ -1943,6 +1925,22 @@ The girl's body has been handed over to relatives and further investigations int
 [Data](articles/0df1c876.json)
 
 [Extended Data](ext_articles/0df1c876.ext.json)
+
+---
+
+### Captain   Miller’s  Suicide Attack in Nelliaddy   on 5 July 1987 Gave Birth to the “Karumpuligal”  ( Black Tigers)
+
+*2024-07-18 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84399) · `en`
+
+Vallipuram Vasanthan alias “Captain Miller” the  first Suicide bumber of the Liberation Tigers of Tamil Eelam(LTTE) is the focus of this two -part article.   A brief description of the pioneering “Black Tiger” or “Karumpuli” and events leading to the  first Black Tiger operation on 5 July 1987   was outlined  in the first part published last week.  Details of the LTTE attack on the military camp  at the Nelliaddy MMV school premises would be related in this second and concluding part.
+
+As stated earlier the  Sri Lankan Armed forces had re-taken control of the Vadamaratchi sector in the Northern  Jaffna peninsula through “Operation Liberation” launched on 27 May 1987. The army may have  continued with the military push and attempted to seize control of Jaffna town but for Indian intervention.
+
+...
+
+[Data](articles/4645d3a8.json)
+
+[Extended Data](ext_articles/4645d3a8.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 10:20:08**
+As of **2024-07-19 10:35:41**
 
 ## Newspaper Stats
 
-*Scraped **36,071** Articles*
+*Scraped **36,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 2,151
 dailyftlk | 2,304
 adalk | 3,259
 adaderanalk | 4,158
-tamilmirrorlk | 4,380
+tamilmirrorlk | 4,382
 dailymirrorlk | 4,733
 virakesarilk | 5,629
-adaderanasinhalalk | 6,033
+adaderanasinhalalk | 6,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,069 (100.0%) of 36,071 articles have been extended.
+36,071 (100.0%) of 36,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### පාස්පෝට් ඔෆිස් එක ඉදිරිපිට කලබලයක්
+
+*2024-07-19 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198977) · `si`
+
+විදෙස් ගමන් බලපත්‍ර අයදුම්කරුවන්ගේ පහසුව සඳහා ගමන් බලපත්‍ර අයදුම් කිරීම නව ක්‍රමවේදයක් ඔස්සේ අද (19) සිට නිකුත් කරන බව ආගමන හා විගමන දෙපාර්තමේන්තුව පසුගිය 17 වැනිදා නිවේදනය කර තිබුණි.
+
+ඒ අනුව අයදුම්කරුවෙකු නව විදෙස් ගමන් බලපත්‍රයක් ලබාගැනීමට හෝ අලුත් කරගැනීම සඳහා www.immigration.gov.lk වෙබ් අඩවිය ඔස්සේ අනිවාර්යෙන්ම දිනයක් හා වේලාවක් වෙන් කරගත යුතු වෙයි.
+
+එය එක්දින සේවය හා සාමාන්‍ය සේවය යන දෙවර්ගය සඳහාම වලංගු වන බව ආගමන හා විගමන දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+මෙවන් පසුබිමක අද උදෑසනත් ජනතාව විදෙස් ගමන් බලපත්‍ර ලබාගැනීම සඳහා බත්තරමුල්ලේ ආගමන හා විගමන දෙපාර්තමේන්තු කාර්යාලය වෙත පැමිණ තිබුණි.
+
+එහිදී දිනයක් හා වේලාවක් වෙන් කරගෙන පැමිණි පිරිස් වෙත පමණක් අවස්ථාව ලබාදෙන බවට නිවේදනය කිරීමෙන් අනතුරු උණුසුම් තත්ත්වයක් හටගෙන තිබුණි.
+
+මේ හේතුවෙන් ආගමන හා විගමන දෙපාර්තමේන්තුව ඉදිරිපිට දිගු පෝලිම් හා තදබදයක් දක්නට ලැබුණු අතර පොලීසිය හා කැරලි මර්දන ඒකකය ද කැඳවීමට සිදුවිය.
+
+◼️
+
+[Data](articles/24b17f84.json)
+
+---
 
 ### Youth killed as motorcycle collides with an ambulance
 
@@ -45,6 +67,24 @@ The 22-year-old motorcyclist who was seriously injured from the accident was pro
 ◼️
 
 [Data](articles/47678415.json)
+
+[Extended Data](ext_articles/47678415.ext.json)
+
+---
+
+### வீதியில் பயணித்துக் கொண்டிருந்த லொறியில் திடீர் தீ
+
+*2024-07-19 09:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியில்-பயணித்துக்-கொண்டிருந்த-லொறியில்-திடீர்-தீ/175-340675) · `ta`
+
+முந்தல், கொத்தான்தீவு வீதியில் நேற்று தும்புகளை ஏற்றிச் சென்ற லொறி ஒன்று திடீரென தீப் பற்றி  எறிந்துள்ளது.
+
+முந்தல் கொத்தான்தீவு சின்னப்பாடு வீதி ஊடாக தும்புகளை ஏற்றிய லொறி வீதியில் காணப்படும் பிரதான மின் கம்பியில் ஏற்பட்ட உராய்வின் காரணமாக தீப்பற்றியதுடன் லொறியில் காணப்பட்ட தும்புகள் முற்றாக தீக்கரையானது.
+
+இதன் காரணமாக எவருக்கும் பாதிப்புக்கள் ஏற்படவில்லை என தெரிவித்த உடப்பு பொலிஸார் இச் சம்பவம் பற்றிய மேலதிக விசாரணைகளை மேற் கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/a6c30dad.json)
 
 ---
 
@@ -82,6 +122,8 @@ He further explained that with the wholesale price of eggs provided from farms t
 
 [Data](articles/f5aff1a0.json)
 
+[Extended Data](ext_articles/f5aff1a0.ext.json)
+
 ---
 
 ### I was true for the people of Jaffna;It does not like the medical department - the former respondent of the Chavakachcheri Resource Hospital
@@ -109,6 +151,26 @@ I got a letter today after yesterday's date to come to the Ministry of Health.
 [Data](articles/cdca3a9e.json)
 
 [Extended Data](ext_articles/cdca3a9e.ext.json)
+
+---
+
+### முட்கிளுவை முள்ளு குத்தி மூதாட்டி உயிரிழப்பு
+
+*2024-07-19 09:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/முட்கிளுவை-முள்ளு-குத்தி-மூதாட்டி-உயிரிழப்பு/71-340674) · `ta`
+
+முட்கிளுவை மரத்தின் முள்ளு குத்தியதில் ஏற்பட்ட காயம் காரணமாக மூதாட்டி ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+யாழ்ப்பாணம் - காரைநகர் , களபூமி பகுதியை சேர்ந்த வனித்தேற்கரசி பாலசுப்பிரமணியம் (வயது 73)  என்பவரே உயிரிழந்துள்ளார்.
+
+கடந்த சில நாட்களுக்கு முன்னர் விறகு பொறுக்குவதற்காக சென்ற போது, முட்கிளுவை மரத்தின் முள்ளு காலில் குத்தியுள்ளது.
+
+அதனால் ஓரிரு நாட்களில் காலில் வலி ஏற்பட மூளாய் வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட நிலையில் , மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+
+முள்ளு குத்திய காயத்தில் ஏற்பட்ட கிருமி தொற்று காரணமாகவே உயிரிழப்பு ஏற்பட்டுள்ளதாக உட்கூற்று பரிசோதனையில் குறிப்பிடப்பட்டுள்ளது.  R
+
+◼️
+
+[Data](articles/73efe76e.json)
 
 ---
 
@@ -2141,67 +2203,5 @@ Accordingly, the suspect was arrested in the Dehiwala area by the Special Invest
 [Data](articles/f2ab47c4.json)
 
 [Extended Data](ext_articles/f2ab47c4.ext.json)
-
----
-
-### Nilantha Jayawardena sends mandatory leave
-
-*2024-07-18 18:26:36* · [`adalk`](https://www.ada.lk/breaking_news/නිලන්ත-ජයවර්ධන-අනිවාර්ය-නිවාඩු-යවයි/11-410856) · `si`
-
-Senior DIG Nilantha Jayawardena, former Director of the National Intelligence Service, is sent for a disciplinary inquiry by the National Police Commission regarding his actions during the Passover attack.
-
-🟩
-
-The National Police Commission has decided to send him to the disciplinary inquiry by Senior DIG Nilantha Jayawardena today (18).
-
-Mr. Nilantha Jayawardena was serving as the Director of the National Intelligence Service when the Passover attack took place.
-
-◼️
-
-[Data](articles/9d05da55.json)
-
-[Extended Data](ext_articles/9d05da55.ext.json)
-
----
-
-### Sri Lanka announces Rs13mn financial aid package to boost MSMEs
-
-*2024-07-18 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-announces-rs13mn-financial-aid-package-to-boost-msmes-172800/) · `en`
-
-ECONOMYNEXT – A 13 million rupee financial package, including both investment and working capital facilities, would be provided to micro, small, and medium-scale enterprises (MSMEs), Sri Lanka’s President Ranil Wickremesinghe has said.
-
-Under the scheme, ahead of local elections, loans will be provided at a concessional interest rate of 7 percent for a period of 10 years, with a maximum limit of 15 million rupees, the president’s media division said. “A total of Rs. 13 billion has been allocated for this scheme.”
-
-For MSMEs under the non-performing loans category, a working capital loan of up to 5 million rupees will be provided for a period of 5 years at an interest rate of 8 percent. The total allocated amount for this initiative is 5 billion rupees.
-
-“Strengthening MSMEs is crucial for the country’s progress,” Wickremesinghe was quoted in the statement. He also announced the establishment of a National Development Bank to provide necessary capital to MSMEs.
-
-...
-
-[Data](articles/63849f46.json)
-
-[Extended Data](ext_articles/63849f46.ext.json)
-
----
-
-### At the last time Club has debt round the country without hand
-
-*2024-07-18 18:14:26* · [`adalk`](https://www.ada.lk/breaking_news/අන්තිම-අවස්ථාව-වෙන-කොට-ක්ලබ්-වසන්ත-අතේ-නැතිව-රට-වටේට-ණය-වෙලා/11-410855) · `si`
-
-Kirb Wasantha, also known as Surestra Wasantha Perera, is under investigation for allegedly taking loans across the country without having sufficient funds. This revelation came from a media inquiry during a briefing in Colombo, where it was mentioned that despite claims of financial stability, there were indications of extensive borrowing.
-
-🟩
-
-Kirb Wasantha alias, Surestra Wasantha Perera has become a loan around the country without money.
-
-He was responding to a question raised by a media investigation at a media briefing in Colombo.
-
-"As far as I know, he did Clubs. He had money. According to the information we have, we are out of the investigation that he is a person who has been a loan around the country when he dies.
-
-◼️
-
-[Data](articles/12c02d04.json)
-
-[Extended Data](ext_articles/12c02d04.ext.json)
 
 ---

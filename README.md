@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 15:54:18**
+As of **2024-07-19 16:06:50**
 
 ## Newspaper Stats
 
-*Scraped **36,125** Articles*
+*Scraped **36,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,71 @@ islandlk | 2,052
 economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
-adaderanalk | 4,169
+adaderanalk | 4,170
 tamilmirrorlk | 4,389
 dailymirrorlk | 4,733
 virakesarilk | 5,639
-adaderanasinhalalk | 6,041
+adaderanasinhalalk | 6,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,120 (100.0%) of 36,125 articles have been extended.
+36,125 (100.0%) of 36,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### කෘතිම බුද්ධිය පිළිබඳ පාර්ලිමේන්තුවේදී විවාදයක්
+### රොකී ෆ්ලින්ටොෆ් වාර්තාවක් තබයි
+
+*2024-07-19 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198987) · `si`
+
+එංගලන්ත වයස අවුරුදු 19 පහළ සහ ශ්‍රී ලංකා වයස අවුරුදු 19 පහළ කණ්ඩායම් අතර පැවැත්වෙන දෙවැනි නිල නොවන ටෙස්ට් තරගයේ සිව් වන දිනය අදයි (19).
+
+ඊයේ (18) තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 7ක් දැවී ලකුණු 246ක් ලබා සිටියේය.
+
+ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා ලකුණු 153ක් ලබා ගත් අතර එංගලන්ත යොවුන් ක්‍රීඩකයෝ ඊට පිළිතුරු ලෙස ලකුණු 477ක් රැස්කළහ.
+
+ඒ අනුව ඉනිමක පරාජයෙන් බේරීම සඳහා ශ්‍රී ලංකා ක්‍රීඩකයෝ තවත් ලකුණු 78ක් ලබාගත යුතුය.
+
+ඒ එංගලන්ත අවුරුදු 19 පහළ කණ්ඩායම වෙනුවෙන් අඩුම වයසකදී ශතකයක් රැස්කළ ක්‍රීඩකයා බවට පත් වෙමිනි.
+
+16 හැවිරිදි රොකී ෆ්ලින්ටොෆ්, එංගලන්තය වෙනුවෙන් සුපිරි දස්කම් පෑ ඇන්ඬෲ ෆ්ලින්ටොෆ් ගේ පුත්‍රයා වෙයි.
+
+◼️
+
+[Data](articles/e53528df.json)
+
+---
+
+### Parliament debate in artificial intelligence
 
 *2024-07-19 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198986) · `si`
 
-රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් දෙවනවර කියවීමේ විවාදය ලබන 25 වනදා පැවැත්වී‌මට කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (18) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වී තිබේ.
+The Parliament scheduled debates from July 23 to 26, focusing on AI technology's impact on national security, religion, and culture. The agenda includes the Civil Procedure Code Amendment and Judicial Service Act discussions. On July 24, MP Madura Withanage will lead a discussion on AI technology.
 
-ඒ අනුව පාර්ලිමේන්තුව ලබන 23 සිට 26 දක්වා රැස්වන අතර ජුලි 23 වන අඟහරුවාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා කාලය වෙන් කර ඇත.
+🟩
 
-අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.00 දක්වා සිවිල් නඩු විධාන සංග්‍රහය (සංශෝධන) (දෙවැනිවර කියවීම) පනත් කෙටුම්පත සහ අධිකරණ සංවිධාන පනත යටතේ නියෝග ද්විත්වයක් විවාදයට ගැනීමට නියමිතය.
+The Second Reading Debate on the 25th of the Parliamentary Business of Parliament yesterday (January) has decided to conduct the second reading of the Device Management and Economic Translation Debate on the 25th of this month.
 
-අනතුරුව ප.ව 5.00 සිට ප.ව 5.30 දක්වා විපක්ෂය විසින් ගෙනෙනු ලබන සභාව කල්තබන අවස්ථාවේ යෝජනාව විවාදයට ගැනීමට නියමිතය.
+Accordingly, the Parliament will meet up to 23 to 26 and Tuesday, July 23, will be allocated for questions that require verbal answers to 10.30 am to 10.30 am.
 
-ජුලි 24 වන බදාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා කාලය වෙන් කර ඇත.
+The Civil Procedure Code (Amendment) (Second Reading) (Second Reading) (Second Reading) Bill and the Judicial Service Act will be debated under the Bill and the Judicial Organization Act.
+
+The motion is to be debated at the time of the House of Opposition to 5:00 pm to 4 pm.
+
+Wednesday 24th July 24 am to 10 am to 10:00 am to 10:00 am.
+
+After 10.30 am to 5.30 pm MP Madura Withanage, "AI Technology," the artological intelligence technology (AI technology) will be held in the impact of national security, all religions and the country's culture. "
+
+Thursday 25 am to 2:00 am to 5 pm
 
 ...
 
 [Data](articles/7893d483.json)
+
+[Extended Data](ext_articles/7893d483.ext.json)
 
 ---
 
@@ -67,6 +99,8 @@ Wickremesinghe estimated there to be 700-800 such agencies in the country, and s
 ...
 
 [Data](articles/d71d6522.json)
+
+[Extended Data](ext_articles/d71d6522.ext.json)
 
 ---
 
@@ -89,6 +123,24 @@ Minister of Justice Wijayadasa Rajapaksa yesterday stated that the gazette was p
 [Data](articles/8d9b0175.json)
 
 [Extended Data](ext_articles/8d9b0175.ext.json)
+
+---
+
+### President orders to gazette 22nd Amendment withheld by Justice Minister
+
+*2024-07-19 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100625/president-orders-to-gazette-22nd-amendment-withheld-by-justice-minister) · `en`
+
+The 22nd Amendment to the Constitution has been published via a Gazette notification by order of President Ranil Wickremesinghe.
+
+On Thursday (18), Minister of Justice Wijeyadasa Rajapakshe had instructed his ministry’s secretary not to publish the Gazette notification on the 22nd Amendment to the Constitution until the Presidential Election is held.
+
+However, the Justice Minister had claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
+
+This amendment will enable the paragraph (b) of Article 83 of the Constitution pertaining to the President’s term to be amended by replacing the words “to over six years” with the words “to over five years” stated in paragraph (b) of Article 83 of the Constitution.
+
+◼️
+
+[Data](articles/ba38bcc9.json)
 
 ---
 
@@ -186,6 +238,8 @@ The move comes ahead of a presidential poll possibly in early October which the 
 
 [Data](articles/eb7d9bf3.json)
 
+[Extended Data](ext_articles/eb7d9bf3.ext.json)
+
 ---
 
 ### Sri Lanka aims to become regional hub for human capital development – President
@@ -252,6 +306,8 @@ Speaking at the Sri Lanka Human Capital Summit 2024 on Thursday July 18, Wickrem
 
 [Data](articles/5bcbce77.json)
 
+[Extended Data](ext_articles/5bcbce77.ext.json)
+
 ---
 
 ### Globally paralyzed Microsoft
@@ -313,6 +369,8 @@ IHP explained in a statement that favourability estimates for each month are bas
 ...
 
 [Data](articles/eb618f1f.json)
+
+[Extended Data](ext_articles/eb618f1f.ext.json)
 
 ---
 
@@ -2149,47 +2207,5 @@ The evening shimmered with the presence of the High Commissioner of Malaysia for
 [Data](articles/ebd3e986.json)
 
 [Extended Data](ext_articles/ebd3e986.ext.json)
-
----
-
-### Ceylon Curry Club does it again – Wows at Ambani pre-wedding celebration
-
-*2024-07-19 04:07:00* · [`islandlk`](http://island.lk/ceylon-curry-club-does-it-again-wows-at-ambani-pre-wedding-celebration/) · `en`
-
-Ceylon Curry Club, a member of the Citrus Group and Sri Lanka’s premier restaurant for contemporary Sri Lankan and fusion cuisine, was honoured to be invited for a 2nd time to India’s biggest pre-wedding celebration, ahead of the nuptials of Anant Ambani and Radhika Merchant.
-
-The restaurant’s exotic culinary creations were featured at the main “Sangeet Ceremony” dinner. Amongst the dishes on offer were its famed Sri Lankan hoppers, street food favourites like lamb kottu, and a live string hopper station, along with signature dishes such as Crab Cobbler, Fish Ambulthiyal, and Ceylon-Style Hot Butter Calamari. Many other delicious dishes were also specifically curated for this grand event. Ceylon Curry Club continued to impress at the after-party as well, treating guests to a variety of tantalizing delights.
-
-...
-
-[Data](articles/32e7d221.json)
-
-[Extended Data](ext_articles/32e7d221.ext.json)
-
----
-
-### Is there more "trump" to postpone the presidential election?
-
-*2024-07-19 03:56:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vdy7y488yo) · `si`
-
-Attempts to postpone Sri Lanka's presidential election have sparked controversy, with political analysts questioning the motives behind delays. Despite legal hurdles and claims of electoral manipulation, experts suggest there's little constitutional ground to further delay the election. Political maneuvering and fears of defeat among certain parties are cited as reasons for seeking postponements. Meanwhile, the Election Commission has indicated that the election will proceed as scheduled, addressing concerns over democracy and transparency.
-
-🟩
-
-The British National Social Conventionary of the British World Conventionary, if the social compromise is tear by the ruler, the people will be able to revolution. I'm not saying that way. However, leaving the votering votes in length, "a political analyst, Dr. Dayan Jayatilleka told the BBC Sinhala service.
-
-He said this to observe the attempts to postpone the presidential election.
-
-Many political analysts point out that the government of Ranil Wickremesinghe is seen in various attempts to delay a vote.
-
-Referred to postpone the presidential election Why is Range Bandara asking for a quick election now?
-
-The Supreme Court not to be heard to a referendum until the Constitution of the Constitution is not passed to a referendum and the Supreme Court will not be taken to a decision, but to dismiss the constitutional election.On July 15 ordered on July 15.
-
-...
-
-[Data](articles/bb2276e3.json)
-
-[Extended Data](ext_articles/bb2276e3.ext.json)
 
 ---

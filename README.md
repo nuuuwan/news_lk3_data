@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 12:35:44**
+As of **2024-07-19 12:54:01**
 
 ## Newspaper Stats
 
-*Scraped **36,096** Articles*
+*Scraped **36,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,052
 economynextcom | 2,156
 dailyftlk | 2,304
 adalk | 3,262
-adaderanalk | 4,164
+adaderanalk | 4,166
 tamilmirrorlk | 4,387
 dailymirrorlk | 4,733
 virakesarilk | 5,629
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,094 (100.0%) of 36,096 articles have been extended.
+36,096 (100.0%) of 36,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### Pakistanis imprisoned in Sri Lanka to be repatriated in seven days
+
+*2024-07-19 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100620/pakistanis-imprisoned-in-sri-lanka-to-be-repatriated-in-seven-days) · `en`
+
+The High Commissioner of Sri Lanka to Pakistan (retd) Admiral Ravindra Chandrasiri Wijegunaratne met with Pakistani Federal Minister of Interior and Narcotics Control Mohsin Naqvi in Islamabad on Friday.
+
+In the meeting, the discussion took place regarding issues of mutual interest and release of Pakistani nationals imprisoned in Sri Lanka.
+
+It was decided that Pakistani prisoners incarcerated in Sri Lankan jails for many years would be brought back in seven days.
+
+Both sides agreed to complete the necessary steps for the repatriation of Pakistani prisoners in Sri Lanka.
+
+The Sri Lankan high commissioner assured all possible support for the release of Pakistani prisoners. He said that all steps are being finalized as soon as possible for the repatriation of Pakistani citizens imprisoned in Sri Lanka.
+
+In the meeting, the anti-narcotics and border security issues were also discussed.
+
+...
+
+[Data](articles/9dfbcbcb.json)
+
+---
+
+### New Vice Chancellor appointed to Peradeniya University
+
+*2024-07-19 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100619/new-vice-chancellor-appointed-to-peradeniya-university) · `en`
+
+President Ranil Wickremesinghe has appointed Professor W. M. T. Madhujith to the position of Vice Chancellor of the University of Peradeniya.
+
+The appointment has been made in terms of Section 34(1)(a) of the Universities Act, for a period of three (03) years, the President’s Media Division (PMD) said.
+
+This appointment will be in effect from August 01, 2024, according to the PMD.
+
+◼️
+
+[Data](articles/66f47171.json)
+
+---
 
 ### Election Expenses Act compulsory for upcoming Presidential Poll - Election Commission
 
@@ -45,6 +83,8 @@ He further clarified that all the political party secretaries, government offici
 ◼️
 
 [Data](articles/7c2b588c.json)
+
+[Extended Data](ext_articles/7c2b588c.ext.json)
 
 ---
 
@@ -1694,6 +1734,8 @@ We are a bankrupt country and people are suffering immensely and will have to co
 
 [Data](articles/a6d617be.json)
 
+[Extended Data](ext_articles/a6d617be.ext.json)
+
 ---
 
 ### Introduction of Electronic Passport to Sri Lankans from January 2025 - The Department of Immigration and Emigration
@@ -2149,51 +2191,5 @@ Speaking to Ada Derana, Thulasi Vaiththiyakumar, the daughter of Captain Vaithth
 [Data](articles/472a1376.json)
 
 [Extended Data](ext_articles/472a1376.ext.json)
-
----
-
-### China's latest reforms resolution
-
-*2024-07-18 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198965) · `si`
-
-The 3rd Central Committee of China's Communist Party, led by President Xi Jinping, concluded its session with a focus on expanding reforms to modernize China's socialist system. The goal is to enhance "socialism with Chinese characteristics" and aim for a high-quality socialist tradition economy by 2035, with the reform plan set to be completed by 2029.
-
-🟩
-
-The 3rd Central Committee of the Communist Party, the full session of the 20th Central Committee of the Communist Party began on the 15th and it has ended today (18).
-
-The event was held by the Chinese President Xi Jin Ping.
-
-It is noteworthy that the resolution on further expansion of reforms to continue the modernization of the Chinese model is a continuing expansion.
-
-It is reported that the main objectives of further expanding the reconstruction of China's reconstruction is to improve the socialism with Chinese characteristics.
-
-It was also stated that China's purpose was to build a high quality socialist tradition economy in every year 2035.
-
-The Chinese Media group reports that the reforms scheme should be completed by the time of 2029, the reforms scheme should be completed in 2029.
-
-◼️
-
-[Data](articles/7308eab9.json)
-
-[Extended Data](ext_articles/7308eab9.ext.json)
-
----
-
-### Powerful Indian Teams to Sri Lanka - A Change of Leadership
-
-*2024-07-18 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198964) · `si`
-
-Indian cricket teams for the T20 series against Sri Lanka have been announced, marking a shift in leadership.
-
-🟩
-
-The Indian squads have been named for Sri Lanka and the T20 cricket tournament.
-
-◼️
-
-[Data](articles/a7e9b598.json)
-
-[Extended Data](ext_articles/a7e9b598.ext.json)
 
 ---

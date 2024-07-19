@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 15:05:28**
+As of **2024-07-19 15:20:26**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 6,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,116 (100.0%) of 36,117 articles have been extended.
+36,117 (100.0%) of 36,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ඩොනල්ඩ් ට්‍රම්ප්ගේ ජනප්‍රියත්වය ඉහළ යයි
+### The popularity of Donald Trump is up
 
 *2024-07-19 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198984) · `si`
 
-දින 4ක් පුරා පැවති හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් නියෝජනය කරන රිපබ්ලිකන් පක්ෂ ජාතික සම්මේලනය අද (19) අවසන් වුණි.
+Donald Trump's popularity surged at the Republican National Federation conference, where he delivered the longest speech by a presidential candidate in decades. His address included remarks on surviving assassination attempts and honoring fallen supporters. The event concluded with Trump emphasizing his influence on America's future.
 
-සම්මේලනයේ අවසන් දිනයේදී හිටපු ජනපති ට්‍රම්ප්ගේ බිරිඳ වන මෙලනියා ට්‍රම්ප්ද සම්මේලනයට එක් වූවාය.
+🟩
 
-හිටපු ජනාධිපති ට්‍රම්ප් විනාඩි 90ක පමණ කාලයක් සම්මේලනය ඇමතූ අතර එය වාර්තා වන්නේ වසර 50කින් පමණ පසුව ජනාධිපති අපේක්ෂකයෙකු නාමයෝජනා භාර ගනිමින් කළ දීර්ඝතම කතාව ලෙසය.
+The Republican National Federation, representing former president's president, Donald Trump, was over today.
 
-එහිදී ට්‍රම්ප් පවසා තිබුණේ දෙවියන්ගේ සහායද තමන්ට හිමිව ඇති බැවින් ඝාතන උත්සාහයෙන් දිවි ගලවා ගැනීමට හැකි වූ බවය.
+On the last day of the conference, former President Trump's wife, Melania Trump joined the conference.
 
-තමන්ට එල්ලවූ වෙඩි ප්‍රහාරයෙන් මියගිය සිය ආධාරකරුගේ නිල ඇඳුම පවා සිප ගැනීමට ට්‍රම්ප් කටයුතු කළේය.
+Former President Trump addressed the conference for about 90 minutes and it is reported as the longest talk by a presidential candidate for about 50 years.
 
-අමෙරිකානු මාධ්‍යවේදී ටකර් කාල්සන් මෙන්ම රෙස්ලින් ක්‍රීඩක හල්ක් හෝගන් ද සම්මේලනයේ අවසන් දිනය ඇමතීය.
+The Trump had said that he was able to survive the assassination efforts as he had the support of God.
 
-හිටපු අමෙරිකානු ජනාධිපතිවරයා සම්මේලනය අවසන් කර තිබුණේ, අමෙරිකාවේ අනාගතය සිය පාලනය යටතේ වඩාත් විශිෂ්ට වන බවට තහවුරු කරමිනි.
+Trump acted even the uniform of his supporters who died in a shot dead.
+
+Like US media Tuer Carlson, resident Athletic Hulk Hogan, addressed the last day of the conference.
+
+Former US President finished the convention, confirming the future of the United States under its control.
 
 ◼️
 
 [Data](articles/7051abed.json)
+
+[Extended Data](ext_articles/7051abed.ext.json)
 
 ---
 

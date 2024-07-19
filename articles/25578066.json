@@ -1,0 +1,22 @@
+{
+  "newspaper_id": "adaderanalk",
+  "url": "https://www.adaderana.lk/news/100621/mass-it-outage-affects-airlines-media-and-banks",
+  "time_ut": 1721374080.0,
+  "original_lang": "en",
+  "original_title": "Mass IT outage affects airlines, media and banks",
+  "original_body_lines": [
+    "A raft of global institutions - including major banks, media outlets and airlines - have reported being hit by a mass IT outage.",
+    "The US state of Alaska has warned its emergency services are affected, while there are also reports of the London Stock Exchange being impacted.",
+    "Australia has been particularly hard hit with flights grounded, supermarkets experiencing checkout chaos, and broadcast networks left scrambling on air as autocue, graphics and computers failed.",
+    "The cause of the outage is unclear, but many of those affected have linked it to Microsoft PC operating systems.",
+    "An official Microsoft 365 service update posted to X earlier in the day said \u201c we\u2019re investigating an issue impacting users ability to access various Microsoft 365 apps and services\u201d.",
+    "However a Microsoft spokesperson told the BBC on Friday afternoon that \u201cthe majority of services were recovered earlier\u201d in the day.",
+    "A spokesperson for the Australia\u2019s Home Affairs Minister said the outage appears to be related to an issue at global cybersecurity firm Crowdstrike, and the country\u2019s cybersecurity watchdog said there is no information to suggest it an attack.",
+    "\u201cOur current information is this outage relates to a technical issue with a third-party software platform employed by affected companies,\u201d they said in a statement.",
+    "Reuters has cited sources saying the London Stock Exchange has suffered an outage, while Alaskan officials said many 911 and non-emergency call centres are not working properly.",
+    "Meanwhile at Sydney Airport, information disappeared from departure boards. In an announcement to passengers in the domestic terminal, budget carrier Jetstar said that an \u201cissue with Microsoft\u201d meant it was unable to check in passengers, or to board its flights.",
+    "Virgin Australia also told its travellers there was a \u201ccomplete ground stop\u201d of flights.",
+    "Social media users have reported queues at Australian stores like Woolworths, with payment systems downed, and telecom firm Telstra has also reported issues.",
+    "The nation\u2019s largest provider, the company said calls to its emergency service contact centres are not affected, but that it is working with state emergency services who may have been impacted to implement backup processes."
+  ]
+}

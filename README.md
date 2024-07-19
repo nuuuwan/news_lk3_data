@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 00:36:16**
+As of **2024-07-20 00:52:28**
 
 ## Newspaper Stats
 
-*Scraped **36,191** Articles*
+*Scraped **36,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,165
 dailyftlk | 2,307
 adalk | 3,267
 adaderanalk | 4,178
-tamilmirrorlk | 4,395
+tamilmirrorlk | 4,397
 dailymirrorlk | 4,733
 virakesarilk | 5,662
 adaderanasinhalalk | 6,057
@@ -26,9 +26,27 @@ adaderanasinhalalk | 6,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,186 (100.0%) of 36,191 articles have been extended.
+36,191 (100.0%) of 36,193 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-20 (Saturday)
+
+### மூதூர் விபத்தில் 52 யாத்திரிகர்கள் காயம்
+
+*2024-07-20 00:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூதூர்-விபத்தில்-52-யாத்திரிகர்கள்-காயம்/175-340705) · `ta`
+
+யாழ்ப்பாணத்தில் இருந்து கதிர்காமம் நோக்கி யாத்திரிகர்களை ஏற்றிச் சென்ற பேருந்து ஒன்று மூதூர் பகுதியில் வீதியை விட்டு விலகி கவிழ்ந்ததில் 52 யாத்திரிகர்கள் காயமடைந்துள்ளனர்
+
+விபத்தின் போது பேருந்தில் பயணித்த 59 பேரில் 52 பேர் காயமடைந்து மூதூர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+50 பேர் சிறு காயங்களுக்கு உள்ளாகியுள்ளதாகவும், இருவர் கைகளில் பலத்த காயங்களுக்கு உள்ளாகியுள்ளதாகவும் வைத்தியசாலை வட்டாரங்கள் சுட்டிக்காட்டியுள்ளன
+
+◼️
+
+[Data](articles/94485bb9.json)
+
+---
 
 ### 2024-07-19 (Friday)
 
@@ -66,6 +84,8 @@ In the 16th century, the Florentine diplomat Niccolo Machiavelli, in his book �
 
 [Data](articles/24408d5b.json)
 
+[Extended Data](ext_articles/24408d5b.ext.json)
+
 ---
 
 ### Post-Aragalaya challenge to minorities
@@ -80,6 +100,8 @@ The 2022 Aragalaya was a landmark event in Sri Lankan politics. It was the harbi
 
 [Data](articles/8e6aa1b5.json)
 
+[Extended Data](ext_articles/8e6aa1b5.ext.json)
+
 ---
 
 ### Launch of ‘Lawmaking in Dutch Sri Lanka’
@@ -93,6 +115,8 @@ Prof. Dinesha Samararatne and Dr. Gehan Goonetilleke will discuss the book with 
 ...
 
 [Data](articles/66354ea1.json)
+
+[Extended Data](ext_articles/66354ea1.ext.json)
 
 ---
 
@@ -114,39 +138,69 @@ A bus traveling from Jaffna to Kadirgamam to Kadirgamam, a bus traveling along t
 
 ---
 
-### சட்டவிரோத தையிட்டி திஸ்ஸ விகாரைக்கு எதிரான போராட்டம் ஆரம்பம்!
+### மூதூர் விபத்தில் 52 யாத்திரிகர்கள் காயம்
+
+*2024-07-19 23:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூதூர்-விபத்தில்-52-யாத்திரிகர்கள்-காயம்/71-340699) · `ta`
+
+யாழ்ப்பாணத்தில் இருந்து கதிர்காமம்  நோக்கி A15 திருகோணமலை - மட்டக்களப்பு பிரதான வீதி வழியாக பயணித்த பஸ் ஒன்று, இன்று மாலை கெங்கைத்துறை பாலம் அருகே தடம்புரண்டு விபத்துக்குள்ளானது.
+
+◼️
+
+[Data](articles/ed434d8b.json)
+
+---
+
+### The struggle against the illegal Tissa Vihara begins!
 
 *2024-07-19 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188900) · `ta`
 
-யாழ்ப்பாணம் தையிட்டியில் அமைந்துள்ள சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான தொடர் போராட்டம் வெள்ளிக்கிழமை (19) ஆரம்பமாகி முன்னெடுக்கப்பட்டு வருகின்றது.
+Protests against the illegal Tissa Vihara in Jaffna began on Friday, led by the Tamil National Alliance (TNA), including its General Secretary Selvarajah Gajendran and Media Spokesperson Kanagaratnam Sukash, along with supporters.
 
-சட்டவிரோத முறையில் அமைக்கப்பட்டுள்ள தையிட்டி திஸ்ஸ விகாரையை அகற்றுமாறு கோரி தமிழ்த்தேசிய மக்கள் முன்னணியினர், மக்களுடன் இணைந்து தொடர்ச்சியாக போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+🟩
 
-குறித்த போராட்டத்தில், தமிழ் தேசிய மக்கள் முன்னணியின் பொதுச் செயலாளரும் நாடாளுமன்ற உறுப்பினருமான செல்வராஜா கஜேந்திரன், அக் கட்சியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ், பொதுமக்கள் மற்றும் கட்சியின் ஆதரவாளர்கள் இந்த போராட்டத்தில் கலந்துகொண்டுள்ளனர்.
+A series of protests against the illegal Tissa Vihara in Jaffna, Jaffna, are being launched on Friday (19).
+
+The Tamil National Alliance (TNA) has been continuously engaged in a struggle with the people demanding the removal of the illegal Taiti Tissa Vihara.
+
+In the struggle, the general secretary of the Tamil National People's Front and Member of Parliament, Selvarajah Gajendran, Media Spokesperson Kanagaratnam Sukash, the public and the party's supporters participated in the protest.
 
 ◼️
 
 [Data](articles/a2af981f.json)
 
+[Extended Data](ext_articles/a2af981f.ext.json)
+
 ---
 
-### மகளிர் ரி20 ஆசிய கிண்ணம்: பாகிஸ்தானை 7 விக்கெட்களால் வீழ்த்தியது இந்தியா
+### Women's R20 Asian Cup: India beat Pakistan by 7 wickets
 
 *2024-07-19 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188899) · `ta`
 
-ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை (19) நடைபெற்ற ஏ குழுவுக்கான மகளிர் ரி20 ஆசிய கிண்ண 2ஆவது போட்டியில் பாகிஸ்தானை எதிர்த்தாடிய இந்தியா 7 விக்கெட்களால் வெற்றியீட்டியது.
+In the Women's R20 Asian Cup, India triumphed over Pakistan by 7 wickets in the second match of Group A at Dambulla International Cricket Stadium. Key contributors included Renuka Singh, Deepti Sharma, and Shreyanka Patil, along with bowlers Shabali Verma and Smrithi Mandana. Despite Pakistan's initial score of 108 runs, India responded strongly, losing just three wickets to reach 109 runs. Notable performances came from Chitra Amin, Duba Hasan, and Fatima Sana for Pakistan, and Shabali Verma and Smrithi Mandana for India, who shared a crucial partnership.
 
-ரேனுகா சிங், தீப்தி ஷர்மா, ஷ்ரேயன்கா பட்டில் ஆகியோரது துல்லியமான பந்துவீச்சுகளும் ஷபாலி வர்மா, ஸ்ம்ரித்தி மந்தனா ஆகியோரது திறமையான துடுப்பாட்டங்களும் இந்தியாவை இலகுவாக வெற்றிபெறச் செய்தன.
+🟩
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த பாகிஸ்தான் 19.2 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 108 ஓட்டங்களை மாத்திரம் பெற்றது.
+India won by 7 wickets in the 2nd Asian Cup of the Women's R20 Asia Cup for the A group held at the Dambulla International Cricket Stadium on Friday (19).
 
-சித்ரா ஆமின் (25), டுபா ஹசன் (22), பாத்திமா சானா (22) ஆகிய மூவரே 20 ஓட்டங்களுக்கு மேல் பெற்றனர்.
+Renuka Singh, Deepti Sharma and Shreyanka Patil and the skillful bowling of Shabali Verma and Smrithi Mandana have made India easier.
 
-இந்திய பந்துவீச்சில் தீப்தி ஷர்மா 20 ஓட்டங்களுக்கு 3 விக்கெட்களையும் ரேனுகா சிங் 14 ஓட்டங்களுக்கு 2 விக்கெட்களையும் ஷ்ரேயன்கா பட்டில் 14 ஓட்டங்களுக்கு 2 விக்கெட்களையும் பூஜா வஸ்த்ராக்கர் 31 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
+Pakistan, who decided to bat first in the upting match, lost all the wickets in 19.2 overs and scored only 108 runs.
 
-...
+Chitra Amin (25), Duba Hasan (22) and Fatima Sana (22) were more than 20 runs.
+
+Deepti Sharma took 3 wickets for 20 runs, Renuka Singh took 2 wickets for 14 runs, Shreyanka Bhatt 2 wickets for 14 runs and Pooja Vastrakar 2 wickets for 31 runs.
+
+In response to 109 runs, India lost 3 wickets in 14.1 overs and scored 109 runs.
+
+Shabali Verma scored 40 runs off 29 balls while Smrithi Mandana scored 45 off 31 balls.
+
+They both shared 85 runs off 57 balls and put the best Ramba to the best of India.
+
+◼️
 
 [Data](articles/99b5be08.json)
+
+[Extended Data](ext_articles/99b5be08.ext.json)
 
 ---
 
@@ -2335,57 +2389,5 @@ He noted that the price of an egg in the market has now exceeded 50 rupees due t
 [Data](articles/2f3f01b3.json)
 
 [Extended Data](ext_articles/2f3f01b3.ext.json)
-
----
-
-### No public servants or salary cut
-
-*2024-07-19 11:07:28* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්-හෝ-වැටුප්-කප්පාදුවක්-කළේ-නෑ/11-410867) · `si`
-
-During the COVID-19 pandemic and economic crisis, Sri Lanka's public service remained intact without layoffs or wage cuts, thanks to the efforts of the Ministry of Home Affairs under Asoka Priyantha. Despite challenging times, the public service was preserved, highlighting its resilience and the government's commitment to its employees.
-
-🟩
-
-Despite the crisis of the Corona Epidemic and the severe economic crisis, the public service is victorious without any employees or wage cuts.
-
-The Ministry of Home Affairs Asoka Priyantha made this statement participating at a press conference held at the press conference at the Presidential Media Center by two days.
-
-The Ministry of Home Affairs Asoka Priyantha further stated:
-
-The past two years, the last two years is very difficult, and challenging time. We were faced with the Korea epidemic and severe economic crisis. And some had assumed that they would have to cut jobs.
-
-...
-
-[Data](articles/90ba9089.json)
-
-[Extended Data](ext_articles/90ba9089.ext.json)
-
----
-
-### Stir in front of the Passport Office
-
-*2024-07-19 10:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-அலுவலகம்-முன்-பரபரப்பு/175-340678) · `ta`
-
-The Department of Immigration and Emigration introduced a new passport application system effective from March 19, requiring applicants to schedule appointments online via www.immigration.gov.lk for either one-day or public services. This change led to overcrowding outside the office in Battaramulla, prompting police intervention to manage the crowd.
-
-🟩
-
-The Department of Immigration and Emigration announced on the 17th of this month that the new system will be issued a passport application for the convenience of passport applicants from today (19).
-
-Accordingly, an applicant must allocate the date and time through the www.immigration.gov.lk website to obtain or update the new passport.
-
-According to a notification issued by the Department of Immigration and Emigration, it is valid for both one day service and public service.
-
-Against this backdrop, people came to the Immigration and Emigration Department office in Battaramulla this morning to obtain passports.
-
-In this case?It was announced that only those who came to the specified date and time were announced.
-
-Due to this, long queues and congestion in front of the Department of Immigration and Emigration has been invited to the police and the riot unit.
-
-◼️
-
-[Data](articles/7fe77332.json)
-
-[Extended Data](ext_articles/7fe77332.ext.json)
 
 ---

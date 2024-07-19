@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 16:52:53**
+As of **2024-07-19 17:05:13**
 
 ## Newspaper Stats
 
-*Scraped **36,138** Articles*
+*Scraped **36,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,115 +16,231 @@ islandlk | 2,052
 economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
-adaderanalk | 4,170
+adaderanalk | 4,172
 tamilmirrorlk | 4,390
 dailymirrorlk | 4,733
 virakesarilk | 5,648
-adaderanasinhalalk | 6,043
+adaderanasinhalalk | 6,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,127 (100.0%) of 36,138 articles have been extended.
+36,138 (100.0%) of 36,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### “22” க்கான ஆணியை பிடிங்கி திருப்பி அடித்தார் ஜனாதிபதி
+### 22 ගැන මැතිවරණ කොමසාරිස් ජනරාල්ගෙන් ප්‍රකාශයක්
+
+*2024-07-19 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198990) · `si`
+
+22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ගැසට් කිරීම මගින් ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමට බාධාවක් නොමැති බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+◼️
+
+[Data](articles/61ed43fa.json)
+
+---
+
+### Sri Lankan entities also impacted by global IT outage
+
+*2024-07-19 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100628/sri-lankan-entities-also-impacted-by-global-it-outage) · `en`
+
+Several private entities in Sri Lanka have also been affected by the mass global IT outage, according to Sri Lanka Computer Emergency Readiness Team (SL CERT).
+
+Crowdstrike, a cybersecurity firm with thousands of customers globally, admitted on Friday (19) that a defective software update had caused the major IT outage that is bringing airports, banks, hospitals, media outlets, and businesses to a halt worldwide.
+
+Reports of outages began streaming in from around the globe early on Friday, with broadcaster Sky News in the UK forced off the air for several hours.
+
+Travellers faced widespread disruption with airlines cancelling flights and airports struggling to cope with system failures and delays.
+
+Meanwhile, foreign media reported quoting authorities that banks and telecom companies in Australia and New Zealand have been affected, while Israel’s hospitals and health services are facing a computer “malfunction”.
+
+...
+
+[Data](articles/761b37bb.json)
+
+---
+
+### Development of Sri Lanka’s 6th international airport begins in Hingurakgoda
+
+*2024-07-19 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100627/development-of-sri-lankas-6th-international-airport-begins-in-hingurakgoda) · `en`
+
+Minister of Aviation Nimal Siripala de Silva has officially inaugurated the runway development project at the Hingurakgoda Airport today (19), which is set to become Sri Lanka’s sixth international airport.
+
+“This ambitious project, the largest ever undertaken by the Sri Lanka Air Force, demonstrates exceptional civil engineering capabilities and dedication to advancing the Sri Lankan Aviation Sector” the Sri Lanka Air Force said.
+
+Delivering the budget speech in the Parliament in November last year, President Ranil Wickremesinghe had announced that a financial allocation of Rs. 02 billion will be made for the basic activities of the construction of Hingurakgoda International Airport.
+
+He said the decision was taken in consideration of the fact that construction activities of the proposed airport are yet to be implemented, although there have been discussions on various scales for some time.
+
+...
+
+[Data](articles/527be3e7.json)
+
+---
+
+### ඊශ්‍රායලය බිය වෙයි
+
+*2024-07-19 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198989) · `si`
+
+ඊශ්‍රායලයේ ටෙල් අවීව් නගර මධ්‍යයට අද උදෑසන එල්ල වූ දිගුදුර ඩ්‍රෝන ප්‍රහාරයකින් එම නගර වැසියන් භීතියට පත්වූ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේය.
+
+එම ප්‍රහාරය ඉරානයේ සහාය ලබන හූති කැරළිකරුවන් විසින් එල්ල කරන්නට ඇතැයි සැලකෙයි.
+
+එම ප්‍රහාරයෙන් එක් පුද්ගලයෙක් මියගොස් තවත් සිව් දෙනෙක් සුළු තුවාල ලැබූ බව වාර්තා විය.
+
+එම ප්‍රහාරය එල්ලකර ඇත්තේ, දකුණු ලෙබනනයට එල්ල කළ ප්‍රහාරයකින් ප්‍රධාන පෙළේ හිස්බුල්ලා ගරිල්ලා නායකයෙක් ඝාතනය කළ බවට ඊශ්‍රායලය විසින් නිවේදනය කර පැය කිහිපයකට පසුව බව සඳහන් විය.
+
+◼️
+
+[Data](articles/9209fad6.json)
+
+---
+
+### The president is holding a nail for "22"
 
 *2024-07-19 16:32:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-க்கான-ஆணியை-பிடிங்கி-திருப்பி-அடித்தார்-ஜனாதிபதி/175-340683) · `ta`
 
-அரசியலமைப்பின் 22 ஆம் திருத்த சட்ட மூலம், ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில் வர்த்தமானியில் பிரசுரிக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe's appointment under the 22nd Amendment was gazetted after a delay due to pending presidential elections. The amendment restricts presidential terms to no more than five years, down from six previously.
 
-ஜனாதிபதி தேர்தல் நிறைவடையும் வரை இந்த வர்த்தமானி அறிவித்தலை வெளிவிட வேண்டாம் என நேற்றைய தினம் நீதி அமைச்சர் விஜேதாச ராஜபக்சவினால், அமைச்சின் செயலாளருக்கு அறிவிக்கப்பட்டிருந்த நிலையில், இன்றைய தினம் ஜனாதிபதியின் பணிப்புரையில் இந்த அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+🟩
 
-83 ஆம் ஆக்கத்தின் (b) பந்தியில் காணப்படும் “ஆறு வருடங்களை விட அதிகரிக்காமல்” என்பதை “ஐந்து வருடங்களை விட அதிகரிக்காமல்” என திருத்தியதாக இந்த சட்டமூல அறிவித்தல் வெளியிடப்பட்டுள்ளது. R
+By the 22nd Amendment to the Constitution, President Ranil Wickremesinghe has been published in the Gazette.
+
+The announcement was released today at the President's Directorate, as the Secretary to the Ministry was announced by the Minister of Justice Wijeyadasa Rajapaksa not to release the gazette notification until the presidential election was completed.
+
+The bill was announced that the "B) of the 83rd (B) was amended to" not increase over six years "to" not increase more than five years ".. Remble
 
 ◼️
 
 [Data](articles/d9cf5413.json)
 
+[Extended Data](ext_articles/d9cf5413.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේ ජාතික සම්පත තරුණ පරපුර බව ජනපති කියයි
+### President says Sri Lanka's national resource is young
 
 *2024-07-19 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198988) · `si`
 
-මෙරට ජාතික සම්පත තරුණ පරපුර මිස පාඩු ලබන රාජ්‍ය ව්‍යවසාය නොවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes Sri Lanka's youth as its national treasure, not a loss from state enterprises. He highlights the importance of investing in education and development projects like the New Assistance in Ruhuduwa, Wayhahanduwewa, to harness this potential.
 
-පාඩු ලබන රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගතකරණය තුළින් රටට ඉතිරිවන මුදල් අධ්‍යාපනයටත්, සෞඛ්‍යයටත් ලබා දෙන බව ගාල්ල, වලහන්දූව ප්‍රදේශයේ අභිනවයෙන් ඉදි කරන ලද රුහුණ විශ්වවිද්‍යාලයේ නව සම සෞඛ්‍ය විද්‍යා පීඨය සිසු අයිතියට පත් කිරීමේ උත්සවයට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+🟩
+
+President Ranil Wickremesinghe says he is not the youth generation of the country's national resource in the country, not a loss of state enterprises.
+
+President Ranil Wickremesinghe said that the newest construction of the New Assistance of Ruhuduwa in the Wayhahanduwewa area of ​​the loss of the country through the restructuring of the losses to the students of the country through the restructuring of the losses.
 
 ◼️
 
 [Data](articles/c7cadd95.json)
 
+[Extended Data](ext_articles/c7cadd95.ext.json)
+
 ---
 
-### கிறாபிக்ஸ் காட்சிகளுடன் அசத்தும் 'சதுர்'
+### 'Chatur'
 
 *2024-07-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188865) · `ta`
 
-அறிமுக நடிகர் அமர் ரமேஷ் கதையின் நாயகனாக நடித்திருக்கும் 'சதுர்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.  இதற்காக சென்னையில் நடைபெற்ற பிரத்யேக வெளியீட்டு விழாவில் தயாரிப்பாளர் தனஞ்ஜெயன் - இயக்குநர் பாலா ஆகியோர் சிறப்பு அதிதியாக பங்கு பற்றினர் .
+"Debutante Amar Ramesh stars in 'Chatur,' a fantasy thriller directed by Bala and produced by Tananjayan. Featuring a cast including A. Augustine Prabhu, Ajith Vignesh, and others, the film's release has sparked fan anticipation, especially after revealing its mysterious deep-sea narrative."
 
-அறிமுக இயக்குநர் ஏ. அகஸ்டின் பிரபு இயக்கத்தில் உருவாகி இருக்கும் 'சதுர்' எனும் திரைப்படத்தில் அமர் ரமேஷ், அஜித் விக்னேஷ், தாமோதரன், ஜீவா ரவி, 'நக்கலைட்ஸ்' செல்லா, சூர்யா, ஆர்னவ் ஹரிஜா, பிரதீப் ஹரி, கிரிஷ் பாலா, 'பாய்ஸ்' ராஜன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-ராம் டி . சந்தர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஆதர்ஷ் இசையமைத்திருக்கிறார். ஃபேண்டஸி திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ராக்ஸ் நேச்சர் என்டர்டெயின்மென்ட் எனும் தயாரிப்பாளர் ராம் மணிகண்டன் தயாரித்திருக்கிறார்.
+The film 'Chatur', starring debutant actor Amar Ramesh, has been released.Producer Tananjayan and Director Bala participated in the special launch ceremony in Chennai.
 
-...
+Introducing Director A. Augustine Prabhu has starred in 'Chatur', Amar Ramesh, Ajith Vignesh, Damodharan, Jeeva Ravi, 'Nakkalids' Chella, Surya, Arnav Harija, Pradeep Hari, Girish Bala and 'Boys' Rajan.
+
+Ram d. Adarsh ​​has composed the film, which has been recorded by Chander. The film is being produced as a fantasy thriller.
+
+The shooting of the film is over and the post -shooting technical work is underway. In this case, the preview of the film has been released. Fans are awaiting great anticipation as it is revealed that this preview has evolved into a creation of mysteries buried in the deep sea.
+
+Commenting on the film, the director said, “Ready for a small investment. We have worked hard to give fans an innovative experience. ”
+
+◼️
 
 [Data](articles/adcfd5fd.json)
 
+[Extended Data](ext_articles/adcfd5fd.ext.json)
+
 ---
 
-### படப்பிடிப்புடன் தொடங்கிய நடிகர் காளி வெங்கட்டின் ‘அப்பனே முருகா’
+### Actor Kali Venkat, who started shooting
 
 *2024-07-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188862) · `ta`
 
-தமிழ் திரையுலகின் சிறந்த குணச்சித்திர நடிகராக பவனி வரும் நடிகர் காளி வெங்கட் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் புதிய படத்திற்கு 'அப்பனே முருகா' என பெயரிடப்பட்டு , அதன் தொடக்க விழா,  படபிடிப்புடன் சென்னையில் தொடங்கியது.‌
+Actor Kali Venkat, acclaimed in the Tamil film industry, stars as 'Appane Muruka' in a new film directed by Guru Ramaswamy, featuring a cast including Puthi Veeran Saravanan, S Bhaskar, and Madhumita among others. The production team includes R. Sadish Thangam, RG Sekhar, and Sasikumar from True Team Entertainment. Shooting commenced in Chennai.
 
-அறிமுக இயக்குநர் குரு ராமசாமி இயக்கத்தில் உருவாகி வரும் 'அப்பனே முருகா' எனும் திரைப்படத்தில் காளி வெங்கட், 'பருத்திவீரன்' சரவணன், எம். எஸ் பாஸ்கர், முனிஸ்காந்த், மதுமிதா, ' கர்ணன் 'ஜானகி, சூப்பர் குட் சுப்பிரமணி, மோகனசுந்தரம், புதுவை பூபாலன் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+🟩
 
-ஜெயபிரகாஷ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்தை ட்ரூ டீம்  என்டர்டெய்ன்மெண்ட் சார்பில் தயாரிப்பாளர் ஆர்.சதீஷ் தங்கம், ஆர் ஜி சேகர் மற்றும் சசிகுமார் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+Actor Kali Venkat, who is the best character in the Tamil film industry, has been named 'Appane Muruka', which has been named as the hero of the story.
 
-படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' ஒன்லைன் ரம்மி விளையாட்டில் தோற்ற ஒருவன் அதிலிருந்து மீண்டு வாழ்க்கையில் ஜெயித்தானா,? இல்லையா? என்பதை அடிப்படையாக வைத்து இந்த படத்தின் கதை உருவாக்கப்பட்டுள்ளது. இப்படத்தின் முதற்கட்ட படப்பிடிப்பு சென்னையில் நடைபெற்று வருகிறது.'' என்றார்.
+Kali Venkat, 'Puthi Veeran' Saravanan, Mr. Guru Ramaswamy directed by Guru Ramaswamy. S Bhaskar, Muniskant, Madhumita, 'Karna' Janaki, Super Good Subramani, Mohanasundaram, Puduvai Poobalan and many others.
+
+The film, which is being recorded by Jayaprakash, is co -produced by producer R. Sadish Thangam, RG Sekhar and Sasikumar on behalf of True Team Entertainment.
+
+Commenting on the film, the director said:Or not?The story of the film is based on. The first shooting of the film is taking place in Chennai. ”
 
 ◼️
 
 [Data](articles/eaded6d5.json)
 
+[Extended Data](ext_articles/eaded6d5.ext.json)
+
 ---
 
-### மெய்யழகன்' கார்த்தியின் சந்தை மதிப்பை உயர்த்துமா..!?
+### Karthi's market value ..!?
 
 *2024-07-19 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188866) · `ta`
 
-நடிகர் கார்த்தி நடிப்பில் தயாராகி இருக்கும் ,'மெய்யழகன்' எனும் திரைப்படம் எதிர்வரும் செப்டம்பர் மாதம் வெளியாகிறது. இந்தத் திரைப்படத்தின் வணிக ரீதியான வெற்றியை பொறுத்து தான் நடிகர் கார்த்தியின் சந்தை மதிப்பு உயரும் என திரையுலக வணிகர்கள் தெரிவித்திருக்கிறார்கள்.
+Karthi stars in "Meyyalakan," set for release on September 27th. Its success could boost his market value. Directed by Premkumar, it features a star-studded cast including Aravindsamy, Sri Divya, and others, with music by Govind Vasantha. Despite previous flops like "Ponni Selvan 2" and "Japan," anticipation is high due to Karthi's collaboration with Aravindsamy.
 
-'96' என்ற வெற்றி படத்தை இயக்கிய இயக்குநர் சி. பிரேம்குமார் இயக்கத்தில் உருவாகி இருக்கும் 'மெய்யழகன்' எனும் திரைப்படத்தில் கார்த்தி, அரவிந்த்சாமி, ஸ்ரீ திவ்யா, ராஜ்கிரண் , சுவாதி, தேவதர்ஷினி, ஜெயப்பிரகாஷ், ஸ்ரீ ரஞ்சனி, இளவரசு, கருணாகரன், சரண் சக்தி, ஆண்டனி, ராஜ்குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-மகேந்திரன் ஜெயராஜு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கோவிந்த் வசந்தா இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை 2 டி என்டர்டெய்ன்மென்ட் எனும் நிறுவனம் சார்பில் நட்சத்திர தம்பதிகளான சூர்யா - ஜோதிகா ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Actor Karthi will be starring in the upcoming film 'Meyyalakan' in September. Actor Karthi's market value will rise depending on the commercial success of the film.
+
+Director C's directed by '96'. Karthi, Aravindsamy, Sri Divya, Rajkran, Swathi, Devadarshini, Jayaprakash, Sri Ranjani, Princess, Karunakaran, Saran Shakti, Antony, Rajkumar, directed by Premkumar.
+
+Govind Vasantha has composed the film, which has been recorded by Mahendran Jayaraju. The film is being produced by Surya and Jodhika on behalf of the 2D Entertainment Company.
+
+The post -shooting of the film is currently underway. In this case, the release of the film has been officially announced with a special photo. Accordingly, the film will be released on September 27th in the film mansions worldwide.
+
+The films 'Ponni Selvan 2' and 'Japan', which have been released last year, have not been a commercial success.
 
 ...
 
 [Data](articles/56d7334d.json)
 
+[Extended Data](ext_articles/56d7334d.ext.json)
+
 ---
 
-### சீயான் விக்ரம் நடிக்கும் 'தங்கலான்' படத்தில் ஃபர்ஸ்ட் சிங்கிள் வெளியீடு
+### First Single release in 'Thangalan' starring Sean Vikram
 
 *2024-07-19 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188868) · `ta`
 
-தனித்துவமான நடிப்பின் மூலம் சர்வதேச திரையுலகில் தமிழ் முகமாக ஒளிரும் சீயான் விக்ரம் நடிப்பில் தயாராகி இருக்கும் 'தங்கலான்' எனும் திரைப்படத்தில் இடம் பெற்ற 'அன்னக்கிளி வண்ணக்கிளி..' எனத் தொடங்கும் முதல் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி இருக்கிறது.
+"Thangalan," featuring Sean Vikram, releases its first single, "Annakkili Varnakkili." Directed by Ranjith, it stars Hollywood actor Daniel Caldekiron and is set to premiere as a historical fantasy in Tamil, Telugu, Malayalam, Kannada, and Hindi on August 15th. The soundtrack, composed by Jee V Prakash Kumar, is highly anticipated, with fans praising its melody and lyrics penned by Umadevi, sung by Sindhuri-Vishal."
 
-தன்னுடைய படைப்புகள் மூலம் ஒடுக்கப்பட்ட மக்களின் குரலை ஓங்கி ஒலிக்கச் செய்யும் படைப்பாளி பா. ரஞ்சித் இயக்கத்தில் உருவாகி இருக்கும் 'தங்கலான்' எனும் திரைப்படத்தில் சீயான் விக்ரம், பார்வதி திருவோத்து, மாளவிகா மோகனன், பசுபதி, ஹரி கிருஷ்ணன் அன்பு துரை, சம்பத் ராம் இவர்களுடன் ஹொலிவுட் நடிகர் டேனியல் கால்டாகிரோன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-ஏ. கிஷோர் குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி பிரகாஷ் குமார் இசையமைத்திருக்கிறார். சரித்திர காலகட்டத்திய ஃபேண்டஸி கலந்த எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்டுடியோ கிரீன் - நீலம் புரொடக்ஷன்ஸ் - ஜியோ ஸ்டுடியோஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.‌
+The first song, 'Annakkili Varnakkili', which is being played in the film 'Thangalan' starring Siyan Vikram in the international film industry, has been released in the international film industry.
 
-...
+The creator who sounds the voice of the oppressed people through his works. Hollywood actor Daniel Caldekiron has starred in the film 'Thangalan' in Ranjith.
+
+A.. Kishore Kumar is a cinematography by Jee.. V Prakash Kumar has composed the music. The film is being produced by Studio Green - Neelam Productions - Geo Studios, which is ready to be a historical fantasy entertainer.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 15th of August, and the first song, 'Annakkili Valakkili', which will be released.
+
+The song is written by Umadevi, the background singer Sindhuri -Vishal. The song and the rhythm of the song and the music are very impressed by the fans.
+
+◼️
 
 [Data](articles/d559c987.json)
+
+[Extended Data](ext_articles/d559c987.ext.json)
 
 ---
 
@@ -268,21 +384,27 @@ This amendment will enable the paragraph (b) of Article 83 of the Constitution p
 
 ---
 
-### தகவல்தொழில்நுட்ப செயல் இழப்பு - ஐரோப்பாவில் விமானப்போக்குவரத்து பாதிப்பு
+### Information Technology Loss - Air Traffic in Europe
 
 *2024-07-19 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/188859) · `ta`
 
-சர்வதேச அளவில் தீரென ஏற்பட்டுள்ள தகவல் தொழில்நுட்ப செயல் இழப்பு காரணமாக ஐரோப்பாவில் விமானப்போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+Europe's air traffic faces disruptions due to global IT failures, affecting London Gatwick, Airbran, and Shipol airports, causing potential flight delays.
 
-லண்டன்கேட்விக் விமானநிலையம் உலகளாவிய மைக்ரோசொவ்ட் சிக்கல்களால் பாதிக்கப்பட்டுள்ளது எனவும் பயணிகள் தாமதங்களை எதிர்கொள்ளக்கூடும் எனவும் அறிவிப்பு வெளியாகியுள்ளது.
+🟩
 
-சர்வதேச தகவல்தொழில்நுட்ப கோளாறு காரணமாக தனது நடவடிக்கைகள் பாதிக்கப்பட்டுள்ள என தெரிவித்துள்ள எயர்பிரான்ஸ் எனினும் பயணத்தை மேற்கொண்டு நடுவானில் உள்ள விமானங்கள் பாதிக்கப்படவில்லை என  அறிவித்துள்ளது.
+Air transport in Europe has been affected by the loss of information technology in internationally.
 
-உலகளாவிய அமைப்பின் தோல்வி காரணமாக ஷிபோல் விமானநிலையத்தின் சேவைகள் பாதிக்கப்பட்டுள்ளன விமானநிலையத்திற்கு வருவதும் அங்கிருந்து செல்வதும் பாதிக்கப்பட்டுள்ளதாக அம்ஸ்டெர்டாமின் ஷிபோல் விமானநிலையம் தெரிவித்துள்ளது.
+It has been announced that the Londoncatwick airport has been affected by the global Microsoft problems and may face delays.
+
+Airbran is said to have been affected by the international information technology failure, but the flights in the middle of the country have not been affected.
+
+Shipol Airport services have been affected due to the failure of the global organization.
 
 ◼️
 
 [Data](articles/4b109be6.json)
+
+[Extended Data](ext_articles/4b109be6.ext.json)
 
 ---
 
@@ -364,19 +486,25 @@ The move comes ahead of a presidential poll possibly in early October which the 
 
 ---
 
-### தண்டவாளத்தில் மரங்கள் முறிந்து வீழ்ந்தன ; மலையக ரயில் சேவைகள் பாதிப்பு
+### The trees were broken on the rails;Mountain Rail Services Victim
 
 *2024-07-19 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188852) · `ta`
 
-பட்டிப்பொல மற்றும் ஒஹிய ரயில் நிலையங்களுக்கு இடையில் தண்டவாளத்தின் குறுக்கே மரங்கள் முறிந்து  வீழ்ந்தமையினால் மலையக மார்க்கத்தில் ரயில் சேவைகள் தடைப்பட்டுள்ளன.
+Tree falls block rail service between Padipola and Ohiya, stopping trains like the Udaratta Menige. Workers clearing trees may delay services.
 
-பதுளையிலிருந்து கொழும்பு நோக்கிச் சென்ற உடரட்ட மெனிகே விரைவு ரயில் பட்டிப்பொல மற்றும் ஒஹிய ரயில் நிலையங்களுக்கு இடையில் நிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-முறிந்து விழுந்த மரங்களை அகற்றும் பணியில் ரயில் ஊழியர்கள் ஈடுபட்டுள்ளனர். இந்நிலையில், குறித்த மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகலாம் என தெரிவிக்கப்பட்டுள்ளது.
+Train services have been blocked in the hill country as trees have fallen across the railway line between Padipola and Ohiya railway stations.
+
+It has been reported that the Udaratta Menige fast train from Badulla to Colombo has been stopped between Padipola and Ohiya railway stations.
+
+Train workers are engaged in removing trees that have fallen. In this case, the train services may be delayed.
 
 ◼️
 
 [Data](articles/56fc6c16.json)
+
+[Extended Data](ext_articles/56fc6c16.ext.json)
 
 ---
 
@@ -472,35 +600,47 @@ However, Microsoft has announced that it is taking steps to repair the situation
 
 ---
 
-### இந்தியாவில் இருந்து காங்கேசன்துறைமுகத்தை வந்தடைந்த சுற்றுலாக் கப்பல்!
+### Tourist ship arriving from India from India
 
 *2024-07-19 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188849) · `ta`
 
-இந்தியா, சென்னையில் இருந்து பயணிகள் சுற்றுலா சொகுசுக் கப்பல் ஒன்று இன்று வெள்ளிக்கிழமை (19) காலை ஆறு மணியளவில் காங்கேசன்துறைமுகத்தை வந்தடைந்துள்ளது.
+A luxury tourist ship from Chennai, India, docked at Sri Lanka's Kankesanthurai port early this morning carrying over 800 passengers. It previously visited Hambantota and Trincomalee ports. The ship is set to depart back to India later today.
 
-800க்கும் மேற்பட்ட பயணிகளை ஏற்றியவாறு குறித்த கப்பலானது யாழ்ப்பாணம் - காங்கேசன் துறைமுகத்தை வந்தடைந்தது.
+🟩
 
-குறித்த கப்பலானது நேற்று முன்தினம் இலங்கை - ஹம்பாந்தோட்டையை வந்தடைந்தது. அங்கிருந்து பயணத்தை ஆரம்பித்து நேற்றையதினம் திருகோணமலை துறைமுகத்தை வந்தடைந்தது. இந்நிலையில் இன்றையதினம் யாழ்ப்பாணம் - காங்கேசன் துறைமுகத்தை வந்தடைந்தது.
+A tourist luxury ship from India and Chennai arrived at the Kankesanthurai port at around six o'clock this morning.
 
-குறித்த கப்பலானது இன்று பிற்பகல் மீண்டும் இந்தியாவை நோக்கி பயணித்தை ஆரம்பிக்கவுள்ளதாக தெரிவிக்கப்படுகிறது.
+The ship arrived at the Jaffna -Kankesan port, which loaded over 800 passengers.
+
+The ship arrived in Sri Lanka - Hambantota yesterday. From there the journey started and arrived at the port of Trincomalee yesterday. In this case, the Jaffna -Kankesan port arrived today.
+
+It is reported that the ship will start traveling again this afternoon to India.
 
 ◼️
 
 [Data](articles/1c085930.json)
 
+[Extended Data](ext_articles/1c085930.ext.json)
+
 ---
 
-### பேராதனை பல்கலைக்கழக உப வேந்தராக பேராசிரியர் மதுஜித் நியமனம்
+### Professor Madhujith appointed Vice Chancellor of Peradeniya University
 
 *2024-07-19 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/188848) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் பேராதனை பல்கலைக்கழகத்தின் உப வேந்தராக பேராசிரியர் டபிள்யூ.எம்.டீ.மதுஜித் நியமிக்கப்பட்டுள்ளார்.
+Professor WMD Madhujith named Vice Chancellor of Peradeniya University by President Ranil Wickremesinghe, effective August 01, 2024, for a term of three years under Section 34(1)(a) of the University Act.
 
-பல்கலைக்கழகச் சட்டத்தின் 34 (1) (அ) பிரிவிற்கு அமைய 2024 ஓகஸ்ட் 01 ஆம் திகதியிலிருந்து அமுலாகும் வகையில் மூன்று வருட காலத்திற்கு இந்த நியமனம் வழங்கப்பட்டுள்ளது.
+🟩
+
+Prof. WMD Mathujit has been appointed as the Vice Chancellor of the University of Peradeniya by President Ranil Wickremesinghe.
+
+The appointment has been appointed for three years from August 01, 2024, according to section 34 (1) (a) of the University Act.
 
 ◼️
 
 [Data](articles/c544d717.json)
+
+[Extended Data](ext_articles/c544d717.ext.json)
 
 ---
 
@@ -526,15 +666,21 @@ The cause of this situation is yet to be ascertained, it is reported that it is 
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-07-19 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/188847) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஜூலை 19) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 299.2350 ரூபாவாகவும், விற்பனை விலை 306.5317 ரூபாவாகவும் பதிவாகியுள்ளது.
+The US dollar's buying rate is 299.2350 rupees, while its selling rate is 306.5317 rupees according to the Central Bank's latest update on July 19.
+
+🟩
+
+The US dollar purchasing price was 299.2350 rupees and the sales price were Rs 306.5317 based on a currency exchange rate released by the Central Bank on Friday (July 19).
 
 ◼️
 
 [Data](articles/8c024939.json)
+
+[Extended Data](ext_articles/8c024939.ext.json)
 
 ---
 
@@ -2125,73 +2271,5 @@ Dr. Samarathunga expressed his appreciation for the valuable contributions made 
 [Data](articles/485d5fc4.json)
 
 [Extended Data](ext_articles/485d5fc4.ext.json)
-
----
-
-### Japanese investors meet Ports, Shipping and Aviation Minister
-
-*2024-07-19 05:12:07* · [`dailyftlk`](https://www.ft.lk/business/Japanese-investors-meet-Ports-Shipping-and-Aviation-Minister/34-764457) · `en`
-
-A team of 25 leading investors from Japan met with Ports, Shipping and Aviation Ministry officials, including Ports, Shipping, and Aviation Minister Nimal Siripala de Silva, on 17 July.
-
-During the meeting at the Ministry’s Auditorium, they discussed current investment and entrepreneurship opportunities in Sri Lanka’s maritime and aviation sectors. The Japanese investors expressed interest in introducing Japan’s latest technology for training programs in these fields. They expressed confidence that the skills and potential of Sri Lankan youth in modern technology could be developed through its successful implementation.
-
-Minister de Silva highlighted that Sri Lanka’s internal airports and ports offer suitable locations for initiating industries and training projects related to aviation and shipping. He emphasised that priority should be given to Sri Lankan youth for the employment opportunities that will arise.
-
-...
-
-[Data](articles/0e27cbce.json)
-
-[Extended Data](ext_articles/0e27cbce.ext.json)
-
----
-
-### Vietnam Trade Promotion Agency and EDB of Sri Lanka agree to enter into MoU
-
-*2024-07-19 05:11:19* · [`dailyftlk`](https://www.ft.lk/business/Vietnam-Trade-Promotion-Agency-and-EDB-of-Sri-Lanka-agree-to-enter-into-MoU/34-764456) · `en`
-
-Vietrade Director General and the officials at the Virtural Seminar in Ha Noi
-
-The Embassy of Sri Lanka in Vietnam initiated signing a Memorandum of Understanding (MoU) between Vietnam Trade Promotion Agency (Vietrade) and Sri Lanka Export Development Board (EDB) for establishing cooperation between trade promotion agencies of the two countries. The initial meeting between the two organisations were convened virtually.
-
-...
-
-[Data](articles/4429104f.json)
-
-[Extended Data](ext_articles/4429104f.ext.json)
-
----
-
-### NCE urges authorities to expedite Sri Lanka’s accession to Madrid Protocol
-
-*2024-07-19 05:10:00* · [`dailyftlk`](https://www.ft.lk/business/NCE-urges-authorities-to-expedite-Sri-Lanka-s-accession-to-Madrid-Protocol/34-764455) · `en`
-
-Sri Lanka exports a wide range of goods under various trademarks, contributing significantly to economic growth in international trade. As an exporters’ chamber, the National Chamber of Exporters of Sri Lanka (NCE) actively encourages its members to export under their own brands. However, the cost of registering trademarks in multiple countries can be prohibitively expensive. For instance, registering in 10 countries means incurring tenfold the cost. The Madrid Protocol offers a solution to this issue.
-
-The Madrid System, officially known as the Madrid Protocol, is an international treaty administered by the World Intellectual Property Organisation (WIPO). It provides a streamlined and cost-effective way for businesses to register their trademarks in multiple countries. Joining this system would offer significant benefits to Sri Lankan exporters.
-
-...
-
-[Data](articles/4c6a7bb7.json)
-
-[Extended Data](ext_articles/4c6a7bb7.ext.json)
-
----
-
-### Sri Lanka-Greater Mekong Business Council of Ceylon Chamber meets Ambassador-Designate to Thailand
-
-*2024-07-19 05:08:23* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Greater-Mekong-Business-Council-of-Ceylon-Chamber-meets-Ambassador-Designate-to-Thailand/34-764454) · `en`
-
-The Executive Committee of the Sri Lanka-Greater Mekong Business Council (SLGMBC) of The Ceylon Chamber of Commerce met Sri Lanka’s Ambassador-designate to Thailand Wijayanthi Edirisinghe recently to discuss opportunities for trade and investment collaboration in several key industry sectors.
-
-During the meeting, Wijayanthi highlighted the potential for cooperation across various sectors, with a special focus on the opportunities presented by the Sri Lanka-Thailand Free Trade Agreement, including leveraging Thailand’s expertise especially in fields of agriculture and fisheries to address challenges.
-
-Educational exchanges were also highlighted, focusing on student exchange programs, joint degree programs, and faculty exchanges in IT, tourism, and pharmaceuticals. Prospects for joint ventures in the gem and jewellery sector, as well as collaborations with Thai healthcare services for training programs and technology exchange to elevate Sri Lankan healthcare standards were also discussed.
-
-...
-
-[Data](articles/7b428c51.json)
-
-[Extended Data](ext_articles/7b428c51.ext.json)
 
 ---

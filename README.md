@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 23:06:55**
+As of **2024-07-19 23:20:33**
 
 ## Newspaper Stats
 
-*Scraped **36,178** Articles*
+*Scraped **36,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,267
 adaderanalk | 4,178
-tamilmirrorlk | 4,392
+tamilmirrorlk | 4,393
 dailymirrorlk | 4,733
 virakesarilk | 5,660
 adaderanasinhalalk | 6,057
@@ -26,57 +26,97 @@ adaderanasinhalalk | 6,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,174 (100.0%) of 36,178 articles have been extended.
+36,178 (100.0%) of 36,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### நஷ்டத்தில் இயங்கும் அரச நிறுவனங்களை மறுசீரமைப்பதால் நாட்டுக்கு கிடைக்கும் நிதி கல்வி மற்றும் சுகாதாரத்திற்கு வழங்கப்படும் -  ஜனாதிபதி
+### Reorganizing the loss of state institutions will be provided to the financial education and health of the country -the President
 
 *2024-07-19 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188898) · `ta`
 
-நஷ்டத்தில் இயங்கும் அரச நிறுவனங்களை மறுசீரமைப்பதன் மூலம் நாட்டுக்கு கிடைக்கும் நிதியைக் கொண்டு எதிர்காலத்தில் கல்வி மற்றும் சுகாதாரத்திற்காக அதிக நிதியை வழங்க முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced plans to reorganize state-run institutions to redirect funds towards education and health, emphasizing the importance of national resources and the need to eliminate unnecessary burdens on the government. He highlighted the potential savings from streamlining operations, such as freeing SriLankan Airlines from subsidies by the end of the year, and called for unity in facing economic challenges. The speech was delivered during the inauguration of Ruhunu University's new Health Science Faculty, underscoring the government's commitment to educational infrastructure and its role in national development.
 
-நஷ்டத்தில் இயங்கும் அரச நிறுவனங்கள் அன்றி, இளைஞர்களே நாட்டின் தேசிய வளமாவர் என்பதை வலியுறுத்திய ஜனாதிபதி, இன்று பல அரச நிறுவனங்கள் அரசாங்கத்திற்கு சுமையின்றி இயங்கி வருவதாகவும், இவ்வருட இறுதிக்குள் ஸ்ரீலங்கன் விமான சேவைகளுக்கான கொடுப்பனவுகளில் இருந்து விடுபட அரசாங்கம் எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
+🟩
 
-காலி - வலஹன்துவ பிரதேசத்தில் புதிதாக நிர்மாணிக்கப்பட்ட ருஹுணு பல்கலைக்கழகத்தின் புதிய சுகாதார விஞ்ஞான பீடத்தை திறந்துவைக்கும் நிகழ்வில் வெள்ளிக்கிழமை (19) முற்பகல் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe said that with the funds available to the country by reorganizing the loss of state -run state institutions, the future can provide more funds for education and health.
 
-பெயர் பலகையைத் திரைநீக்கம் செய்து விஞ்ஞான பீடத்தின் கட்டிடத்தை மாணவர்களுக்கு கையளித்த ஜனாதிபதி, கட்டிட வளாகத்தை மேற்பார்வையிட்டதன் பின்னர் பல்கலைக்கழக ஊழியர்களுடன் சிநேகபூர்வமாக உரையாடினார்.
+The president stressed that you are the national resources of the country, not the state institutions that run at a loss, and that today many state agencies are operating without burden to the government and that the government expects to be free from the allowances for SriLankan airlines by the end of this year.
+
+President Ranil Wickremesinghe, who was present at the opening of the newly constructed Ruhunu University in Galle - Walahanduwa, said this at the opening of the new Health Science Faculty.
+
+The President, who had unveiled the name board and handed over the building of the Faculty of Science to the students, spoke with university staff after supervising the building complex.
+
+Ruhunu University Vice Chancellor Sujeewa Amarasena presented a souvenir to President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/50a17be5.json)
 
+[Extended Data](ext_articles/50a17be5.ext.json)
+
 ---
 
-### வவுனியாவில் விபச்சாரத்தில் ஈடுபட்ட 4 பெண்கள் கைது
+### 4 women arrested in prostitution in Vavuniya
 
 *2024-07-19 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188897) · `ta`
 
-வவுனியா, தேக்கவத்தைப் பகுதியில் விடுதி ஒன்றில் பொலிசார் மேற்கொண்ட விசேட சோதனையின் போது விபச்சாரத்தில் ஈடுபட்டதாக 4 பெண்கள் கைது செய்யப்பட்டுள்ளதாக பொலிசார் வெள்ளிக்கிழமை (19) தெரிவித்தனர்.
+In Vavuniya, four women from Vavuniya and Galle were arrested for prostitution during a police raid at a hostel in Thekkawatte. Led by the Vavuniya Chief Police Station, the operation resulted in their detention for operating without authorization. Following investigations, they will face charges in court.
 
-வவுனியா, தலைமைப் பொலிஸ் நிலைய பொறுப்பதிகாரி தலைமையில் பொலிசார் இரவு விசேட கண்காணிப்பு நடவடிக்கையில் ஈடுபட்டனர். இதன்போது தேக்கவத்தைப் பகுதியில் உள்ள விடுதி ஒன்றில் சோதனை செய்த போது அங்கு முறையான அனுமதியின்றி விபச்சாரத்தில் ஈடுபட்டதாக 4 பெண்கள் கைது செய்யப்பட்டனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் வவுனியா மற்றும் காலி ஆகிய இடங்களைச் சேர்ந்தவர்களாவர். மேலதிக விசாரணைகளின் பின் அவர்களை  நீதிமன்றில் முற்படுத்த பொலிசார் நடவடிக்கை எடுத்துள்ளனர்.
+Four women have been arrested for engaging in prostitution during a special raid conducted by a hostel in Thekkawatte area in Vavuniya, police said.
+
+The police, led by the Chief Police Station in Vavuniya, engaged in a special surveillance operation at night. At the time of a hostel in Thekkawatte area, 4 women were arrested for engaging in prostitution without proper permission.
+
+The arrested are from Vavuniya and Galle. After further investigations, the police have taken steps to appear in court.
 
 ◼️
 
 [Data](articles/63705430.json)
 
+[Extended Data](ext_articles/63705430.ext.json)
+
 ---
 
-### ජොන්ටි ඝාතනයට පෙර සහ පසු ගිණුමට ආ මුදල්
+### பசுமாட்டை வெட்டி சமைத்த குடும்பஸ்தர் கைது
 
-*2024-07-19 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199002) · `si`
+*2024-07-19 22:26:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பசுமாட்டை-வெட்டி-சமைத்த-குடும்பஸ்தர்-கைது/71-340698) · `ta`
 
-ශ්‍රී ලංකා වයස අවුරුදු 19න් පහළ කණ්ඩායමේ නායකයෙක් ලෙස කටයුතු කර ඇති ධම්මික නිරෝෂණ ගේ ඝාතනය සම්බන්ධයෙන් වැදගත් කරුණු රැසක් හෙළිකර ගැනීමට පොලීසිය සමත්වී තිබේ.
+ஊர்காவற்றுறை சுகாதார வைத்திய அதிகாரை தலைமையிலான குழுவினர் மேற்கொண்ட அதிரடி நடவடிக்கை மூலம் பசுமாட்டை இறைச்சிக்காக வெட்டிய குடும்பஸ்தர் ஒருவர் கைது செய்யப்பட்டதுடன் வெட்டுவதற்கு தயாராக இருந்த காளை மாடு ஒன்றும் மீட்கப்பட்டுள்ளது.
 
-එම ඝාතනයේ වෙඩික්කරු ලෙස කටයුතු කළ පුද්ගලයා සහ තවත් සැකකරුවෙක්ව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+ஊர்காவற்றுறை உட்பட தீவகத்தின் பல இடங்களிலும் அனுமதி அற்ற முறையில் மாடுகள்  இறைச்சிக்காக வெட்டப்படுதல் மற்றும் மாடுகள் கடத்தப்படும் சம்பவங்கள் அதிகரித்துள்ளன. குறிப்பாக பசு மாடுகள் இறைச்சிக்காக வெட்டும் பாதகச் செயலும் அரங்கேறி வருகின்றது.
+
+பல வருடங்களாக இடம்பெறும் இச்செயற்பாட்டைத் தடுத்து நிறுத்த முடியாமைக்கு காரணம் இவ்வாறு இறைச்சி வெட்டுபவர்கள் தடுக்க வருபவர்களுக்கு இலஞ்சம் வழங்குகின்றனர் எனவும் இதனால் அவர்கள் இவர்களுக்கு எதிராக நடவடிக்கை எடுப்பதில்லை எனவும் பொதுமக்கள் தரப்பில் குற்றச்சாட்டு முன்வைக்கப்பட்டது.
+
+இவ்வாறான நிலையிலேயே இன்றைய தினம் ஊர்காவற்றுறை சுகாதார வைத்திய அதிகாரி த.சுசிதரன் தலைமையிலான குழுவினர் மேற்படி மாடு வெட்டியவரைக் கைது செய்துள்ளனர்.
 
 ...
 
+[Data](articles/c51df538.json)
+
+---
+
+### Before and after the jholli murder
+
+*2024-07-19 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199002) · `si`
+
+In the murder case of Dhammika Niroshana, a key figure from the Under-19 cricket team, two suspects were arrested: a 37-year-old male from Galle and a 35-year-old female from Kosgoda. The victim was killed with a locally made weapon, and it's suspected that the male suspect fired the shot. The female suspect, known to the male, had her bank transactions scrutinized around the time of the murder, raising doubts.
+
+🟩
+
+Police have been able to uncover a number of important facts about the murder of Dhammika Niroshana, a leader of the Under-19 team team.
+
+The police and another suspect had been arrested by the police.
+
+DIG's Court Attorney-at-Law Nihal Talduuwa speaking to the investigation in the murder Nihal Talduuwa, "said another suspect involved. He was arrested today (19). He is a 37-year-old man. Resident in Galle. The murder has been used to a heapon. The sharp cuts have the body of this dead person.  මන්නයකින් පහර එල්ල කරලා ඇති බවට තමයි තෙරතුරු අනාවරණය වෙලා තියෙන්නේ. The suspect mentioned earlier we recognize the shooter as the sholder. We arrested a woman who is having a relationship with the person who was arrested today. 35 years old. She is a resident of Kosgoda. It is observed that this woman's account has been received before and after the murder. Less than Rs.. We doubt. The second suspect discovered the firearm used for this shooting. A firearm of locally manufactured. "
+
+◼️
+
 [Data](articles/f7bd8104.json)
+
+[Extended Data](ext_articles/f7bd8104.ext.json)
 
 ---
 
@@ -100,17 +140,23 @@ Minister Fernando made these remarks during a news conference held at the Presid
 
 ---
 
-### අනුර කුමාර දිසානායක ජපානයේ සංචාරයක් අරඹයි
+### Anura Kumara Dissanayake launches tour in Japan
 
 *2024-07-19 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199001) · `si`
 
-ශ්‍රී ලාංකික ජනහමුවක් සහ ව්‍යාපාරික හමුවක් සඳහා සහභාගි වීමට ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ජපානය ට ගොස් තිබේ.
+Anura Kumara Dissanayake, leader of the National Power and National Jones, embarked on a tour in Japan, where he was warmly received by Sri Lankan residents at Narita International Airport.
 
-අනුර කුමාර දිසානායක මහතා නරිටා ජාත්‍යන්තර ගුවන්තොටුපොළේදී එරට වෙසෙන ශ්‍රී ලාංකිකයින් විසින් පිළිගෙන තිබුණි.
+🟩
+
+Leader of the National Power and National Jones to attend a Sri Lankan public and business meeting has gone to Japan.
+
+Anura Kumara Dissanayake was admitted by Sri Lankans living at Narita International Airport.
 
 ◼️
 
 [Data](articles/e4f690ff.json)
+
+[Extended Data](ext_articles/e4f690ff.ext.json)
 
 ---
 
@@ -2385,27 +2431,5 @@ The 22-year-old motorcyclist who was seriously injured from the accident was pro
 [Data](articles/9fcdf817.json)
 
 [Extended Data](ext_articles/9fcdf817.ext.json)
-
----
-
-### Sudden fire in a lorry traveling on the road
-
-*2024-07-19 09:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியில்-பயணித்துக்-கொண்டிருந்த-லொறியில்-திடீர்-தீ/175-340675) · `ta`
-
-A sudden fire erupted in a lorry carrying stumps on the Mundal, Kotanthivu road due to friction between the main power rod and the road. The fire engulfed all cargo within the truck. Police are investigating the cause, confirming no injuries occurred.
-
-🟩
-
-A lorry carrying stumps on the Mundal, Kotanthivu road yesterday had suddenly thrown a fire.
-
-Due to the friction of the main power rod on the lorry road, which was loaded with thumb through the Mundal Kotanthivu Chinnapattu road, the fire broke out and the trucks found in the lorry were completely burnt.
-
-Further investigations are being carried out by the police, who said that no one was affected by the incident.. Remble
-
-◼️
-
-[Data](articles/a6c30dad.json)
-
-[Extended Data](ext_articles/a6c30dad.ext.json)
 
 ---

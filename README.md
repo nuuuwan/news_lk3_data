@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 09:35:38**
+As of **2024-07-19 09:55:13**
 
 ## Newspaper Stats
 
-*Scraped **36,062** Articles*
+*Scraped **36,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,103 @@ islandlk | 2,050
 economynextcom | 2,151
 dailyftlk | 2,304
 adalk | 3,259
-adaderanalk | 4,155
+adaderanalk | 4,156
 tamilmirrorlk | 4,380
 dailymirrorlk | 4,733
 virakesarilk | 5,625
-adaderanasinhalalk | 6,032
+adaderanasinhalalk | 6,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,057 (100.0%) of 36,062 articles have been extended.
+36,062 (100.0%) of 36,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### நெடுந்தீவு கடலில் பிறந்த குழந்தை
+### ආසියානු කුසලාන T20 කාන්තා ක්‍රිකට් තරගාවලිය අද ඇරඹෙයි
+
+*2024-07-19 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198976) · `si`
+
+ආසියානු කුසලාන T20 කාන්තා ක්‍රිකට් තරගාවලිය අද (19) දඹුල්ලේදී ආරම්භ වෙයි.
+
+ඒ අනුව අද දිනයේදී තරග දෙකක් පැවැත්වීමට නියමිත අතර තරගාවලියේ සියලු තරග නොමිලේ නැරඹීමට ක්‍රීඩාලෝලින්ට අවස්ථාව සලසා දී ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+2004 වසරේදී ආරම්භ වූ ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය 2008 වසර දක්වා එක්දින තරගාවලියක් ලෙස පවත්වා ඇති අතර එය 2012 වසරේ සිට සංවිධාන කෙරෙන්නේ T20 තරගාවලියක් ලෙසසය.
+
+ඒ අනුව කණ්ඩායම් 8කගේ සහභාගිත්වයෙන් පැවැත්වෙන මෙවර ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේ සත්කාරකත්වයෙන් රංගිරි දඹුල්ල ක්‍රීඩාංගණයේදී පැවත්වෙයි.
+
+අද සිට 28 වනදා දක්වා පැවැත්වෙන තරගාවලිය කාණ්ඩ දෙකක් යටතේ පැවැත්වෙන අතර ඒ කාණ්ඩයෙන් ඉන්දියාව, පාකිස්තානය, නේපාලය සහ එක්සත් අරාබි එමීර් රාජ්‍ය තරග වදී.
+
+බී කාණ්ඩයෙන් තරග වදින්නේ සත්කාරක ශ්‍රී ලංකාව, බංග්ලාදේශය, මැලේසියාව සහ තායිලන්තයයි.
+
+තරගාවලිය ආරම්භ කරමින් පළමු දිනයේදී තරග දෙකක් පැවැත්වෙන අතර ඒ අනුව ඒ කාණ්ඩය යටතේ නේපාලය සහ එක්සත් අරාබි එමීර් රාජ්‍යයත්, බී කාණ්ඩය යටතේ ඉන්දියාව සහ පාකිස්තානයත් තරග වැදීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/3d1ac673.json)
+
+---
+
+### Person found dead under suspicious circumstances
+
+*2024-07-19 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100612/person-found-dead-under-suspicious-circumstances-) · `en`
+
+Police have discovered the body of a person who had died under suspicious circumstances in a house in the Veraduwa area of Matara.
+
+The body was discovered  last afternoon (18) with injuries and excessive blood loss.
+
+However, the exact cause of death has not yet been ascertained.
+
+◼️
+
+[Data](articles/030045c9.json)
+
+---
+
+### Native
 
 *2024-07-19 09:14:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நெடுந்தீவு-கடலில்-பிறந்த-குழந்தை/71-340673) · `ta`
 
-யாழ்ப்பாணம் - நெடுந்தீவு பகுதியை சேர்ந்த பெண்ணொருவருக்கு பிரசவ வலி ஏற்பட்டதை அடுத்து, நெடுந்தீவு பிரதேச வைத்தியசாலையில் இருந்து, அம்பியூலன்ஸ் படகு மூலம் யாழ்ப்பாணம் கொண்டு வருவதற்கு நடவடிக்கை எடுக்கப்பட்டது.
+A woman from Jaffna-Neduntivu was transported by boat from her local hospital to Jaffna Bodhana Hospital, assisted by medical staff. She arrived in a ready-made ambulance cot, ensuring her safe journey.
 
-படகில் மருத்துவ அதிகாரி, மருத்துவமாது உள்ளிட்டவர்களின் உதவியுடன் அப்பெண்ணை குறிக்கட்டுவான் இறங்குதுறை நோக்கி அழைத்து வந்துள்ளனர்.
+🟩
 
-தொடர்ந்து தாயையும் சிசுவையும் குறிக்கட்டுவான் அழைத்து வந்து , அங்கு தயார் நிலையில் இருந்த அம்பியூலன்ஸ் வண்டியில் யாழ்.போதனா வைத்தியசாலைக்கு அழைத்து சென்று அனுமதித்துள்ளனர்.
+A woman from the Jaffna - Neduntivu area has taken steps to bring Jaffna to Jaffna by boat from the Neduntivu Divisional Hospital.
+
+With the help of the medical officer and the medical officer on the boat, the woman has been brought to the landing.
+
+Subsequently, the mother and the fetus were brought to the Jaffna Bodhana Hospital in a ready -made Ambulance Cot.
 
 ◼️
 
 [Data](articles/7bccde5a.json)
 
+[Extended Data](ext_articles/7bccde5a.ext.json)
+
 ---
 
-### බිත්තරයකින් රුපියල් 25ක අයුතු ලාබයක්
+### A tax of Rs. 25 from an egg
 
 *2024-07-19 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198975) · `si`
 
-බිත්තරයකින් රුපියල් 25ක අයුතු ලාබයක් නිෂ්පාදකයින් විසින් ලබාගන්නා බව බිත්තර වෙළෙඳ සංගමය චෝදනා කරයි.
+Egg traders face a tax of Rs. 25. Despite production costs being around Rs. 20 per egg annually, market prices exceed this significantly.
 
-බිත්තරයක් නිෂ්පාදනය කිරීම සඳහා දැනට වැයවන්නේ රුපියල් 20ක පමණ මුදලක් බව එහි සභාපති අනුර මාරසිංහ මහතා සඳහන් කළේය.
+🟩
 
-එහෙත් වෙළෙඳුන් සඳහා ගොවිපළවලින් බිත්තරයක් රුපියල් 45ත් 50ත් අතර තොග මිලකට ලබාදීම හේතුවෙන් මේ වනවිට වෙළෙඳපොළ තුළ බිත්තරයක මිල රුපියල් 50 ඉක්මවා ඇති බව අනුර මාරසිංහ මහතා වැඩිදුරටත් පැවසීය.
+The eggs trade union charges accused of a profit of Rs.
+
+The Chairman Anura Marasinghe said that it is around Rs 20 per year to produce an egg, he said.
+
+However, the price of an egg in the market has been exceeded Rs.
 
 ◼️
 
 [Data](articles/06af9b71.json)
+
+[Extended Data](ext_articles/06af9b71.ext.json)
 
 ---
 
@@ -97,6 +149,8 @@ Dr. Hiroto highlighted that the international community’s confidence in Presid
 ...
 
 [Data](articles/ba581d90.json)
+
+[Extended Data](ext_articles/ba581d90.ext.json)
 
 ---
 
@@ -976,19 +1030,25 @@ The 3 issues will be taken into consideration as a valid passport at present whe
 
 ---
 
-### ’எதிர்க்கட்சி பகிரங்க விவாதத்திற் வரவேண்டும்’
+### The opposition should come up with a public debate
 
 *2024-07-19 01:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-பகிரங்க-விவாதத்திற்-வரவேண்டும்/175-340672) · `ta`
 
-நாடு மிகவும் இக்கட்டான சூழ்நிலையில் நாட்டை மீட்டெடுக்கும் சவாலை ஏற்றுக்கொண்ட தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த இரண்டு வருடங்களில் முன்னெடுத்த சரியான பொருளாதார வேலைத்திட்டத்தின் காரணமாகவே நாட்டில் ஸ்திரத்தன்மையை ஏற்படுத்த முடிந்தது எனவும்  இது தொடர்பாக எதிர்மறையான மற்றும் ஆதாரமற்ற போலியான அறிக்கைகளை வெளியிடுவோர் பொதுவான மேடையில் பகிரங்க விவாதத்திற்கு வரவேண்டும் என்றும் நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya urges opposition to engage in public debates, highlighting President Ranil Wickremesinghe's successful economic policies over the past two years amidst criticism. He emphasizes the importance of comparing the country's state then and now, stressing the government's responsibility towards security, welfare, and development. The invitation extends to opposition MPs for constructive dialogue on national platforms.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகயிலாளர் மாநாட்டிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-ஜனாதிபதித் தேர்தல் என்பது மக்களின் ஜனநாயக முடிவுகளில் மிகவும் வலுவான முடிவாக அமையும் என்பதை நாம் அறிவோம். இவ்வாறான வேளையில் இரண்டு வருடங்களுக்கு முன்பிருந்த நாட்டின் நிலைமையையும் இன்றைய நிலைமையையும் ஒப்பிட்டுப் பார்ப்பதற்கான களமொன்று அமைக்கப்பட வேண்டும். மக்களின் பாதுகாப்பு, நலன் மற்றும் மேம்பாடு என்பன அரசாங்கத்தின் பொறுப்பாகும். எனவே, இந்த இக்கட்டான காலகட்டத்தில் பகிரங்க விவாதங்களுக்கான அவசியம் ஏற்பட்டுள்ளது.
+Finance Minister Ranjith Siyambalapitiya said the current President Ranil Wickremesinghe, who has accepted the challenge of restoring the country in the most difficult situation, has been able to establish stability in the country due to the proper economic program in the last two years and those who publish negative and unfounded fake statements in this regard should come to public debate on the common platform.
+
+He said this at a media conference held at the Presidential Media Center yesterday. As he further stated,
+
+We know that the presidential election is a very strong decision in the democratic decisions of the people. In this case, a field should be set up to compare the situation and the state of the country two years ago.. The security, welfare and development of the people is the responsibility of the government. Therefore, there is a need for public debate during this dilemma.
 
 ...
 
 [Data](articles/193bbff2.json)
+
+[Extended Data](ext_articles/193bbff2.ext.json)
 
 ---
 
@@ -2129,57 +2189,5 @@ Accordingly, loans are available at affordable rates of 8% for working capital a
 [Data](articles/ec2fba17.json)
 
 [Extended Data](ext_articles/ec2fba17.ext.json)
-
----
-
-### Jinna, who created England, arrested
-
-*2024-07-18 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198956) · `si`
-
-A woman named Jinnaura, who fraudulently obtained money without a valid license from the Sri Lanka Bureau of Foreign Employment, was arrested. The Special Investigation Division is investigating her activities and urges job seekers to verify licenses before engaging in foreign employment.
-
-🟩
-
-A person who cheated the job in the UK has been arrested by the Special Investigation Division of the Special Investigation Division of the Sri Lanka Bureau today (18).
-
-Without a valid license of the Bureau, a woman from Samanthurai, a man named Jinnahura, has obtained the money of Rs.
-
-However, they have lodged a complaint with the Bureau, accordingly, the suspect was arrested by investigations into the Dehiwala area.
-
-The Bureau is still receiving complaints against the suspect and the Special Investigation Department is conducting further investigations.
-
-WWW.SLBFEKFEKS APPLICAND WITHINE CARE LICENSE TO READ A LICENSE FOR A MONEY OR A person to obtain a foreign employment or a valid job agencyThe Bureau urges foreign employment seekers to obtain information by visiting the site or addressing the 1989 instant call number.
-
-◼️
-
-[Data](articles/0e3552a6.json)
-
-[Extended Data](ext_articles/0e3552a6.ext.json)
-
----
-
-### Sri Lanka stocks close down, John Keells, Hayleys drive turnover
-
-*2024-07-18 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-john-keells-hayleys-drive-turnover-172778/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.52 percent, or 62.03 points, at 11,768; while the more liquid S&P SL20 Index closed down 0.51 percent, or 17.48 points, at 3,439.
-
-Turnover was 1.1 million. A big part of this (Rs594mn) came from John Keells Holdings Plc (down at 194.00).
-
-“There was foreign buying on John Keells and foreign selling on Hayleys,” Softlogic Stockbrokers said.
-
-Hayleys Plc contributed Rs76mn to the turnover, and the share closed down at 100.25.
-
-“Initially there was buying interest in the market, but then during the course of the day momentum slowed and it ended in red territory.”
-
-Several companies had begun reporting interim results. “LIOC posted a profit of 3.8 billion due to increased revenue from fuel sales and bunkering.” The Lanka IOC Plc share closed up at 120.50.
-
-...
-
-[Data](articles/d2def37e.json)
-
-[Extended Data](ext_articles/d2def37e.ext.json)
 
 ---

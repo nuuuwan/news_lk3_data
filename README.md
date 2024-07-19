@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 08:01:54**
+As of **2024-07-19 04:06:07**
 
 ## Newspaper Stats
 
-*Scraped **36,003** Articles*
+*Scraped **36,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,151
 dailyftlk | 2,281
 adalk | 3,257
 adaderanalk | 4,153
-tamilmirrorlk | 4,375
+tamilmirrorlk | 4,374
 dailymirrorlk | 4,733
 virakesarilk | 5,616
 adaderanasinhalalk | 6,025
@@ -26,33 +26,11 @@ adaderanasinhalalk | 6,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,002 (100.0%) of 36,003 articles have been extended.
+36,002 (100.0%) of 36,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
-
-### ’பிரெஸ்டீஜ் பால்கன்’ இல் இருந்து 9 பேர் மீட்பு
-
-*2024-07-19 00:21:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரெஸ்டீஜ்-பால்கன்-இல்-இருந்து-9-பேர்-மீட்பு/175-340668) · `ta`
-
-ஓமான் கடற்பிராந்தியத்தில் 'பிரெஸ்டீஜ் பால்கன்’ எனும் இந்த டேங்கர் எனும் எண்ணெய் தாங்கிக் கப்பல்  மூழ்கியதில் காணாமல் போயிருந்த 16 பேரில் 9 பேர் மீட்கப்பட்டுள்ளனர். மீட்கப்பட்ட 9 பேரில் ஒருவர் இலங்கையை சேர்ந்தவர் என்பதுடன் எஞ்சிய 8 பேரும் இந்திய பிரஜைகள் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
-
-இந்திய கடற்படைக்கு சொந்தமான INS டெக் யுத்த கப்பல் மூலம் இவர்கள் மீட்கப்பட்டுள்ளனர்.
-
-காணாமல் போனோரை மீட்பதற்காக இந்திய கடற்படையின் P 81 ரக விமானமும் பயன்படுத்தப்பட்டிருந்தது.
-
-ஓமான் கடற்பிராந்தியத்தில் எண்ணெய் தாங்கிக் கப்பலொன்று மூழ்கி விபத்துக்கு உள்ளானதில் இலங்கையர்கள் மூவர் உள்ளிட்ட 16 பேர் காணாமல் போயிருந்தனர்.
-
-கொமொரஸ் நாட்டு கொடியுடன் பயணித்த குறித்த கப்பல், யேமன் துறைமுகமான ஏடனிலிருந்து ஓமானின் முக்கிய தொழில்துறை துறைமுகமான டுக்மில் பகுதியில் வைத்து கவிழ்ந்ததாக சர்வதேச செய்திகள் தெரிவித்திருந்தன.
-
-ஓமான் கடல்சார் தேடல் மற்றும் மீட்பு ஒருங்கிணைப்பு மையத்துடன் தொடர்பு கொண்டு காணாமல் போன 3 இலங்கையர்கள் தொடர்பான தகவல்களை பெற்றுக்கொள்வதாக கடற்படை பேச்சாளர் கெப்டன் கயான் விக்ரமசூரிய தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/c21255b9.json)
-
----
 
 ### The trio of Sajith team has trouble
 
@@ -2359,5 +2337,37 @@ Meanwhile, taking to ‘X’, Romanian PM Ciolacu stated that he welcome the dec
 [Data](articles/7d012fba.json)
 
 [Extended Data](ext_articles/7d012fba.ext.json)
+
+---
+
+### Who is Meron Wijesinghe, the most precious player of the Junior Athletics Championship?
+
+*2024-07-18 12:21:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw4yvg27r0po) · `si`
+
+Meron Wijesinghe, a standout athlete from Ananda College, Colombo, won the gold medal in the 100m event at the 2024 National Junior Athletics Championship, qualifying 11 Sri Lankan athletes for the World Junior Athletics Championships. Born on July 10, 2005, he initially attended Wattala Lyceum International School before moving to Ananda College. His mother, Gayani Rajapakse, highlighted his passion for sports from a young age, supported by coaches Sunil and Bhadra Gunawardena. Meron set records in various events and competed internationally, including the South Asian Tournament in South Korea and Dubai, where he achieved personal bests and contributed to team successes.
+
+🟩
+
+Who is Meron Wijesinghe, the most precious player of the Junior Athletics Championship?
+
+The 2024 National Junior Athletics Championship was established at the 2024 National Junior Athletics Championships.
+
+Meron Wijesinghe, Ananda College, Colombo was awarded the player.
+
+Meron Wijesinghe was able to win the gold medal by completing the 100m tournament periodically.
+
+With this Athletics Championship, 11 Sri Lankan athletes have been eligible for the World Junior Athletics Championships, which is currently eligible for World Junior Athletics Championships.
+
+Born on July 10, 2005, was first educated in Wattala Lyceum International School, and is currently a 19 year old student.
+
+He has two younger sisters and the Meloon is a child who is a child who is smaller to the game, he told BBC.
+
+Meron Wijesinghe's mother, Gayani Rajapakse, told the Sinhalese, that his son looked to sports, and his son had to work to work.
+
+...
+
+[Data](articles/317aeedc.json)
+
+[Extended Data](ext_articles/317aeedc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 09:07:38**
+As of **2024-07-19 09:20:13**
 
 ## Newspaper Stats
 
-*Scraped **36,056** Articles*
+*Scraped **36,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,56 @@ newsfirstlk | 363
 islandlk | 2,050
 economynextcom | 2,151
 dailyftlk | 2,304
-adalk | 3,258
+adalk | 3,259
 adaderanalk | 4,154
 tamilmirrorlk | 4,378
 dailymirrorlk | 4,733
 virakesarilk | 5,625
-adaderanasinhalalk | 6,030
+adaderanasinhalalk | 6,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,048 (100.0%) of 36,056 articles have been extended.
+36,051 (100.0%) of 36,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### மாத்தறையில் இரத்தக் காயங்களுடன் சடலம் மீட்பு!
+### Correct body recovery with blood injuries in Matara
 
 *2024-07-19 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188811) · `ta`
 
-மாத்தறை பொலிஸ் பிரிவிற்குட்பட்ட வெரதுவ பகுதியில் உள்ள வீடொன்றில்  இரத்தக் காயங்களுடன் நபரொருவரின் சடலம் நேற்று  வியாழக்கிழமை (18) பொலிஸாரினால் மீட்கப்பட்டுள்ளது.
+A body was found with blood injuries in Matara, but the cause of death remains unknown as police continue investigating.
 
-மேலும், மரணத்திற்கான காரணம் இதுவரையில் கண்டறியப்படவில்லை எனவும் இந்த சம்வம் தொடர்பாக மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டுவருவதாக தெரிவித்துள்ளனர்.
+🟩
+
+The body of a person has been recovered by police on Thursday (18) with bleeding in a house in Verathuwa area under the Matara Police Division.
+
+Moreover, the cause of the death has not yet been identified and the police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/ba35134c.json)
+
+[Extended Data](ext_articles/ba35134c.ext.json)
+
+---
+
+### තරුණයෙක් ගිලන් රථයක හැප්පෙයි
+
+*2024-07-19 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198974) · `si`
+
+යතුරුපැදියක් සහ ගිලන් රථයක් මුහුණට මුහුණ ගැටීමෙන් සිදුවූ අනතුරකින් යතුරුපැදියේ ගමන් කළ තරුණයෙක් ජීවිතක්ෂයට පත්වී තිබේ.
+
+ගාල්ල කොළඹ මාර්ගයේ තරුණ සේවා මාවත හන්දියේදී ගාල්ල දෙස සිට කොළඹ දෙසට ධාවනය වූ බලපිටිය රෝහලට අයත් ගිලන් රථයක ප්‍රතිවිරුද්ධ දෙසින් ධාවනය වූ යතුරුපැදියක මුහුණට මුහුණ ගැටී අනතුර සිදුවී තිබේ.
+
+අනතුරෙන් බරපතළ තුවාල ලැබූ 22 හැවිරිදි පානදුර ප්‍රදේශයේ පදිංචි යතුරුපැදිකරු කරාපිටිය රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+◼️
+
+[Data](articles/87065b95.json)
 
 ---
 
@@ -950,19 +972,25 @@ Thus, the Human Rights Watch has urged the Terrorism Act to be completely abolis
 
 ---
 
-### இன்று கடல் கொந்தளிப்பு
+### The sea turbulent today
 
 *2024-07-19 00:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கடல்-கொந்தளிப்பு/175-340669) · `ta`
 
-இன்று பிற்பகல் 1 மணிவரை கடல் கொந்தளிப்பாக இருக்கும் என வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+The Department of Meteorology warns of turbulent seas from Kankesanthurai to Mannar and Hambantota to Pottuvil, with occasional turbulence across all sea areas until 1 pm today.
 
-காங்கேசன்துறையிலிருந்து மன்னார் ஊடாகப் புத்தளம் கடற்பரப்புகளிலும், அம்பாந்தோட்டையிலிருந்து பொத்துவில் வரையான கடற்பரப்புகளிலும் காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 60 தொடக்கம் 65 கிலோ மீற்றர் வரை அதிகரித்து வீசக்கூடும்.
+🟩
 
-மேலும், கடல் பகுதிகள் அவ்வப்போது மிகவும் கொந்தளிப்பாகக் காணப்படும் எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has warned that the sea will be turbulent until 1 pm this afternoon.
+
+The wind speeds can be increased from Kankesanthurai to Mannar via Mannar and from Hambantota to Pottuvil from Hambantota to Pottuvil.
+
+The Department of Meteorology also said that the sea areas are occasionally turbulent.
 
 ◼️
 
 [Data](articles/abeb595e.json)
+
+[Extended Data](ext_articles/abeb595e.ext.json)
 
 ---
 
@@ -1197,6 +1225,8 @@ As stated earlier the  Sri Lankan Armed forces had re-taken control of the Vadam
 ...
 
 [Data](articles/4645d3a8.json)
+
+[Extended Data](ext_articles/4645d3a8.ext.json)
 
 ---
 
@@ -1547,6 +1577,28 @@ A sum of Rs.
 ...
 
 [Data](articles/47096922.json)
+
+---
+
+### ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසාය නැවත පණ ගැන්වීමට මූල්‍ය පැකේජයක්
+
+*2024-07-18 19:54:21* · [`adalk`](https://www.ada.lk/breaking_news/ක්ෂුද්‍ර--සුළු-හා-මධ්‍ය-පරිමාණ-ව්‍යවසාය-නැවත-පණ-ගැන්වීමට-මූල්‍ය-පැකේජයක්/11-410863) · `si`
+
+ආයෝජන ණය රුපියල් මිලියන 15ක උපරිමයකට යටත්ව 7%ක සහන පොලි අනුපාතයකට.
+
+කාරක ප්‍රාග්ධනය රුපියල් මිලියන 05ක උපරිමයකට යටත්ව 8%ක සහන පොලි අනුපාතයකට.
+
+බැංකු සහ මූල්‍ය ආයතන 15ක් මේ වෙනුවෙන් රජය සමඟ අත්වැල් බැඳ ගනී.
+
+රට දියුණු කිරීමට නම් සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් ශක්තිමත් කළ යුතුයි
+
+සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් වෙනුවෙන් ජාතික සංවර්ධන බැංකුවක්  – ජනපති අවධාරණය කරයි .
+
+ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසාය නැවත සවිබලගැන්වීමේ අරමුණින් ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායන් සඳහා ආයෝජන සහ කාරක ප‍්‍රාග්ධන යන පහසුකම් දෙවර්ගයෙන්ම සමන්විත මූල්‍ය පහසුකම් පැකේජයක් හඳුන්වා දීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (18) ජනාධිපති කාර්යාලයේ දී සිදු විය.
+
+...
+
+[Data](articles/cd0c4dd6.json)
 
 ---
 
@@ -2131,47 +2183,5 @@ Pointing out that it is imperative to ensure the land rights of all the people l
 [Data](articles/af14ba49.json)
 
 [Extended Data](ext_articles/af14ba49.ext.json)
-
----
-
-### Teacher suspension of exclusive classes during school
-
-*2024-07-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188779) · `ta`
-
-In Anuradhapura, a teacher conducting exclusive classes during school hours has been suspended. Parents complained after observing the teacher attending school, signing in, then leaving to teach these classes. This action led to the teacher's immediate suspension following an investigation by the Provincial Director of Education.
-
-🟩
-
-A teacher who conducted exclusive classes during school during school in Anuradhapura has been immediately suspended.
-
-Teacher Teaching Teaching Course is customary to conduct exclusive classes during school and that a group of parents go to school and go to the exclusive class.. The complaint was lodged with Samarakon.
-
-According to the complaint, when the Provincial Director of Education, along with the other staff team, inspected the school, the teacher went to school, signed the teachers' attendance registration and went out to school and taught students in the exclusive class.
-
-◼️
-
-[Data](articles/0de421a9.json)
-
-[Extended Data](ext_articles/0de421a9.ext.json)
-
----
-
-### Sri Lanka plans legislation to designate areas occupied by plantation workers as new settlement villages
-
-*2024-07-18 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100601/sri-lanka-plans-legislation-to-designate-areas-occupied-by-plantation-workers-as-new-settlement-villages) · `en`
-
-The Cabinet has approved the proposal presented by President Ranil Wickremesinghe to identify areas occupied by Plantation Workers on state-owned plantation lands managed by the State Plantation Corporation and regional plantation companies and to draft legislation to formally designate these areas as new settlement villages.
-
-A special discussion in this regard was also held at the Presidential Secretariat, yesterday (17) under the patronage of President Ranil Wickremesinghe.
-
-In a significant development, all parties have expressed agreement on the timely proposal to enact legislation declaring areas where Plantation Workers dwell within state-managed plantations, overseen by the State Plantation Corporation and regional companies, as new villages.
-
-Parliamentarian Mano Ganesan emphasized the crucial need to secure land rights for current plantation dwellers under this initiative, submitting a corresponding proposal to the President.
-
-...
-
-[Data](articles/948bb27e.json)
-
-[Extended Data](ext_articles/948bb27e.ext.json)
 
 ---

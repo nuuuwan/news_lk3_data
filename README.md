@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 08:35:51**
+As of **2024-07-19 08:55:11**
 
 ## Newspaper Stats
 
-*Scraped **36,053** Articles*
+*Scraped **36,055** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 318
+dbsjeyarajcom | 319
 colombotelegraphcom | 338
 bbccomsinhala | 353
 newsfirstlk | 363
@@ -16,7 +16,7 @@ islandlk | 2,050
 economynextcom | 2,151
 dailyftlk | 2,304
 adalk | 3,258
-adaderanalk | 4,153
+adaderanalk | 4,154
 tamilmirrorlk | 4,378
 dailymirrorlk | 4,733
 virakesarilk | 5,624
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,025 (99.9%) of 36,053 articles have been extended.
+36,035 (99.9%) of 36,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### Prevailing windy conditions likely to continue - Met. Department
+
+*2024-07-19 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100610/prevailing-windy-conditions-likely-to-continue-met-department) · `en`
+
+The Meteorology Department says the prevailing windy conditions over the island are expected to continue further, due to the active South-west Monsoonal condition.
+
+Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Strong winds of about 50-60kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts, it said.
+
+Fairly strong winds about 30-40kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/51488f1f.json)
+
+---
 
 ### Pregnant women and children's health
 
@@ -472,6 +490,8 @@ Educational exchanges were also highlighted, focusing on student exchange progra
 
 [Data](articles/7b428c51.json)
 
+[Extended Data](ext_articles/7b428c51.ext.json)
+
 ---
 
 ### EDB promotes investment opportunities in Indonesia for Lankan companies
@@ -485,6 +505,8 @@ The main focus of this session was on the construction, power and energy sectors
 ...
 
 [Data](articles/56c8b8cc.json)
+
+[Extended Data](ext_articles/56c8b8cc.ext.json)
 
 ---
 
@@ -506,6 +528,8 @@ Public Security Minister Tiran Alles yesterday accused the legal counsels repres
 
 [Data](articles/ee71202c.json)
 
+[Extended Data](ext_articles/ee71202c.ext.json)
+
 ---
 
 ### Police seeks INTERPOL help to nab Kanjipani Imran
@@ -526,6 +550,8 @@ Kanjipani Imran had fled to Dubai in 2015 due to threats on his life by a rival 
 
 [Data](articles/d731ac62.json)
 
+[Extended Data](ext_articles/d731ac62.ext.json)
+
 ---
 
 ### Former Speaker urges all stakeholders to ensure free and fair polls
@@ -539,6 +565,8 @@ Issuing a press release on Wednesday, former Speaker Karu Jayasuriya recalled th
 ...
 
 [Data](articles/00e696fd.json)
+
+[Extended Data](ext_articles/00e696fd.ext.json)
 
 ---
 
@@ -556,6 +584,8 @@ This sudden decision follows recent scrutiny from the Supreme Court, which quest
 
 [Data](articles/0530ddba.json)
 
+[Extended Data](ext_articles/0530ddba.ext.json)
+
 ---
 
 ### Zesta invites Sri Lankan tea lovers to create the next Zesta commercial
@@ -570,6 +600,8 @@ The winning entry will receive a grand prize of Rs. 1 million, and the following
 
 [Data](articles/2891d3b0.json)
 
+[Extended Data](ext_articles/2891d3b0.ext.json)
+
 ---
 
 ### Link Natural links with GDSA for Dentistree Congress and Platinum Jubilee
@@ -583,6 +615,8 @@ Hosted by ‘Dentistree’, the academic arm of GDSA, ‘Dentistree Congress’ 
 ...
 
 [Data](articles/53be6c4f.json)
+
+[Extended Data](ext_articles/53be6c4f.ext.json)
 
 ---
 
@@ -600,6 +634,8 @@ Kring underscored the invaluable skills participants acquire, with winners gaini
 
 [Data](articles/81e7cfb3.json)
 
+[Extended Data](ext_articles/81e7cfb3.ext.json)
+
 ---
 
 ### INSEE Cement’s mangrove restoration programme contributes to Sri Lanka’s coastal and biodiversity protection
@@ -613,6 +649,8 @@ This achievement has been possible due to INSEE’s strong partnerships and clos
 ...
 
 [Data](articles/a11b8215.json)
+
+[Extended Data](ext_articles/a11b8215.ext.json)
 
 ---
 
@@ -1043,6 +1081,22 @@ Last month, the High Court ordered that 30 percent of the allocation of the fami
 [Data](articles/fc2bb2cf.json)
 
 [Extended Data](ext_articles/fc2bb2cf.ext.json)
+
+---
+
+### 
+
+*2024-07-18 22:53:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84399) · `en`
+
+Capt  Miller’s  Nelliaddy Attack  on 5 July 1987 Gave Birth to the “Karumpuligal”  ( Black Tigers)
+
+Vallipuram Vasanthan alias “Captain Miller” the  first Suicide bumber of the Liberation Tigers of Tamil Eelam(LTTE) is the focus of this two -part article.   A brief description of the pioneering “Black Tiger” or “Karumpuli” and events leading to the  first Black Tiger operation on 5 July 1987   was outlined  in the first part published last week.  Details of the LTTE attack on the military camp  at the Nelliaddy MMV school premises would be related in this second and concluding part.
+
+As stated earlier the  Sri Lankan Armed forces had re-taken control of the Vadamaratchi sector in the Northern  Jaffna peninsula through “Operation Liberation” launched on 27 May 1987. The army may have  continued with the military push and attempted to seize control of Jaffna town but for Indian intervention.
+
+...
+
+[Data](articles/4645d3a8.json)
 
 ---
 
@@ -2045,53 +2099,5 @@ It was revealed that he had fled to Dubai on the 9th of February 2011.
 [Data](articles/42d715e7.json)
 
 [Extended Data](ext_articles/42d715e7.ext.json)
-
----
-
-### The authorities who have confessed to Tetu are not punished
-
-*2024-07-18 16:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெட்டுவிடம்-வாக்குமூலம்-பெற்ற-அதிகாரிகளுக்கு-தண்டனை-இல்லை/175-340631) · `ta`
-
-Authorities confessing to involvement in the assassination of businessman Surendra Vasantha Perera won't face punishment. Despite a video showing a group led by a Deputy Inspector General of Police, Minister of Public Defense Dr. Ales stated no disciplinary actions will be taken. He emphasized the importance of learning from mistakes but clarified he didn't consult with the Inspector General of Police regarding this matter. All except two individuals involved in the shooting have been arrested, and the minister highlighted financial difficulties, stating his businesses are bankrupt and he owes money to the country.
-
-🟩
-
-The Minister of Public Defense, Dr. Ales, said that no disciplinary action or inquiries will be carried out against the authorities, including the Deputy Inspector General of Police, accused of the Media owner of the tattoo, who was arrested in connection with the assassination of businessman Surendra Vasantha Perera, who was shot dead in Athurugiriya.
-
-Video of a group headed by a team led by the Deputy Inspector General of Police of the Western Province. Responding to a question whether action would be taken against the police officers in this regard, Minister Tran Ales said, “He has warned that he should not repeat this mistake.
-
-He said he did not work with the Inspector General of Police to take action against the police officers.
-
-He added that everyone except two people have been arrested in connection with the shooting incident.When the club was shot dead, he was lending all over the country. The minister said he had no money in his hand.
-
-...
-
-[Data](articles/e4fe9969.json)
-
-[Extended Data](ext_articles/e4fe9969.ext.json)
-
----
-
-### Confession to Tettu: Authorities will not be punished
-
-*2024-07-18 16:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெட்டுவிடம்-வாக்குமூலம்-அதிகாரிகளுக்கு-தண்டனை-வழங்கப்படாது/175-340631) · `ta`
-
-Dr. Ales, the Minister of Public Defense, announced that no disciplinary actions will be taken against authorities involved in the arrest of a media owner linked to the Deputy Inspector General of Police, despite accusations related to the assassination of businessman Surendra Vasantha Perera. He stated that only two individuals remain at large among those connected to the shooting incident, emphasizing that the authorities' actions were not coordinated with the Inspector General of Police. Despite a viral video showing a group led by the Deputy Inspector General, the minister assured that the situation is under control and that the authorities have acted appropriately.
-
-🟩
-
-The Minister of Public Defense, Dr. Ales, said that no disciplinary action or inquiries will be carried out against the authorities, including the Deputy Inspector General of Police, accused of the Media owner of the tattoo, who was arrested in connection with the assassination of businessman Surendra Vasantha Perera, who was shot dead in Athurugiriya.
-
-Video of a group headed by a team led by the Deputy Inspector General of Police of the Western Province. Responding to a question whether action would be taken against the police officers in this regard, Minister Tran Ales said, “He has warned that he should not repeat this mistake.
-
-He said he did not work with the Inspector General of Police to take action against the police officers.
-
-He added that everyone except two people have been arrested in connection with the shooting incident.When the club was shot dead, he was lending all over the country. The minister said he had no money in his hand.
-
-...
-
-[Data](articles/ea30ca1a.json)
-
-[Extended Data](ext_articles/ea30ca1a.ext.json)
 
 ---

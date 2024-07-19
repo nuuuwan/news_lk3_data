@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 01:05:26**
+As of **2024-07-20 01:20:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,193 (100.0%) of 36,200 articles have been extended.
+36,200 (100.0%) of 36,200 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Minister Sabry outlined Sri Lanka’s recent developments including in the econo
 
 [Data](articles/ebf2fe83.json)
 
+[Extended Data](ext_articles/ebf2fe83.ext.json)
+
 ---
 
 ### New Vice Chancellor appointed to Peradeniya University
@@ -59,6 +61,8 @@ He was appointed in terms of Section 34(1) (a) of the Universities Act for a per
 ◼️
 
 [Data](articles/520b29d1.json)
+
+[Extended Data](ext_articles/520b29d1.ext.json)
 
 ---
 
@@ -79,6 +83,8 @@ However, despite this new system being launched yesterday, a large number of peo
 ...
 
 [Data](articles/7e8fcc34.json)
+
+[Extended Data](ext_articles/7e8fcc34.ext.json)
 
 ---
 
@@ -118,6 +124,8 @@ The third Bay of Bengal Economic Dialogue concluded successfully at Chulalongkor
 
 [Data](articles/1c4c0d67.json)
 
+[Extended Data](ext_articles/1c4c0d67.ext.json)
+
 ---
 
 ### Dialog enhances accessibility for deaf community at customer care centres through DeafTawk services
@@ -134,6 +142,8 @@ Highlighting the company’s unwavering dedication to enhancing outreach for Per
 
 [Data](articles/c2963a9c.json)
 
+[Extended Data](ext_articles/c2963a9c.ext.json)
+
 ---
 
 ### Coin Ceylon and Intersect MBO launch South Asia’s first community hub in Sri Lanka
@@ -149,6 +159,8 @@ This landmark event, held at the Royal Colombo Golf Club, united blockchain enth
 ...
 
 [Data](articles/9bc35600.json)
+
+[Extended Data](ext_articles/9bc35600.ext.json)
 
 ---
 
@@ -235,6 +247,8 @@ Climate change is one of the key global challenges of the 21st century. To effec
 ...
 
 [Data](articles/55e1425f.json)
+
+[Extended Data](ext_articles/55e1425f.ext.json)
 
 ---
 

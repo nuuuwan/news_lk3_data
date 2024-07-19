@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 17:56:22**
+As of **2024-07-19 18:14:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,046
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,145 (100.0%) of 36,146 articles have been extended.
+36,146 (100.0%) of 36,146 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1072,23 +1072,33 @@ He said that the presidential election would be announced next week by announcin
 
 ---
 
-### මහා පරිමාණ තොරතුරු තාක්ෂණ බිඳ වැටීමෙන් ලොව පුරා ගුවන් සේවා, රෝහල්, මාධ්‍ය සහ බැංකු කටයුතුවලට බලපෑම්
+### Aviation, hospitals, media and banking influences large-scale IT collapse
 
 *2024-07-19 12:00:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kr4q10jjlo) · `si`
 
-මහා පරිමාණ තොරතුරු තාක්ෂණ බිඳ වැටීමෙන් ලොව පුරා ගුවන් සේවා, රෝහල්, මාධ්‍ය සහ බැංකු කටයුතුවලට බලපෑම්
+A widespread IT collapse impacted aviation, hospitals, media, and banking sectors, causing significant disruptions worldwide. The US Alaska region and Australia experienced flight cancellations and delays, while emergency services and supermarket operations were affected. Media outlets temporarily halted broadcasts due to the crisis. The issue originated from a Microsoft operating system glitch, affecting app and service accessibility. Microsoft later restored most services. Authorities clarified the incident wasn't a cyberattack but a technical problem with third-party software. This event led to chaos in travel plans and financial transactions, highlighting the critical reliance on digital infrastructure.
 
-ප්‍රධාන පෙළේ බැංකු, මාධ්‍ය ආයතන සහ ගුවන් සමාගම් ඇතුළු ගෝලීය ආයතන සමූහයක් ඔවුන්ගේ සේවාවලට බලපාන මහා පරිමාණ තොරතුරු තාක්ෂණ බිඳ වැටීමක් සම්බන්ධයෙන් වාර්තා කර තිබේ.
+🟩
 
-ඒත් සමග ගුවන් සමාගම් කිහිපයක් ම ලොව පුරා ගුවන් ගමන් නතර කර ඇති අතර තවත් බොහෝ ගුවන් ගමන් ප්‍රමාදයන් වාර්තා කරයි.
+Aviation, hospitals, media and banking influences large-scale IT collapse
 
-මෙම බිඳ වැටීම හේතුවෙන් සිය හදිසි සේවාවලට බලපෑම් එල්ල වී ඇතැයි එක්සත් ජනපදයේ ඇලස්කා ප්‍රාන්තය අනතුරු අඟවා ඇති අතර ඔස්ට්‍රේලියාවේ සුපිරි වෙළෙඳසල්වල කටයුතු අඩපණ වී තිබේ. තාක්ෂණ පද්ධති බිඳ වැටීම හේතුවෙන් රටවල් කිහිපයක ම මාධ්‍ය ආයතන තත්ත්වය කළමනාකරණය කර ගැනීමට කටයුතු කරමින් සිටි අතර එක්සත් රාජධානියේ ස්කයි නිවුස් ආයතනයේ විකාශන කටයුතු තාවකාලිකව නතර කිරීමට පවා සිදු විය.
+A large scale IT collapse affected by leading banks, media institutions and airline and airlines and a large scale IT collapse affected by their services.
 
-බිඳ වැටීමට හේතුව අපැහැදිලි නමුත් බලපෑමට ලක් වූ බොහෝ දෙනෙකු පැවසුවේ, එය මයික්‍රෝසොෆ්ට් පරිගණක මෙහෙයුම් පද්ධතිය ආශ්‍රිතව හටගත් බව ය.
+However, several airlines have stopped flights around the world and many more flight delays.
+
+US Alaska Prefecture has warned that their emergency services have been affected by this collapse, and Australia's supermarkets have been suddenly. Due to the collapse of the technology systems, the media institution was in a temporary stopping the broadcasting of the UK Sky News.
+
+The cause of the collapse, but the influenced many people said that it was located in the Microsoft computer operating system.
+
+The official notice of Microsoft 365 Service Update this morning said, "We are investigating a problem that affects users to access apps and services."
+
+However, a spokesman in Microsoft told the BBC after a few hours ago, "the majority of the services restored."
 
 ...
 
 [Data](articles/5a210ccc.json)
+
+[Extended Data](ext_articles/5a210ccc.ext.json)
 
 ---
 

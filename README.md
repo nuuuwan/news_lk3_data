@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 18:54:31**
+As of **2024-07-19 19:05:17**
 
 ## Newspaper Stats
 
-*Scraped **36,154** Articles*
+*Scraped **36,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,052
 economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
-adaderanalk | 4,174
+adaderanalk | 4,175
 tamilmirrorlk | 4,390
 dailymirrorlk | 4,733
 virakesarilk | 5,653
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,049
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,154 (100.0%) of 36,154 articles have been extended.
+36,154 (100.0%) of 36,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### Sri Lanka probe potential impact of global IT outage on 40 govt. systems
+
+*2024-07-19 18:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100632/sri-lanka-probe-potential-impact-of-global-it-outage-on-40-govt-systems) · `en`
+
+The Sri Lanka Computer Emergency Readiness Team (SL CERT) has initiated an investigation into 40 government information systems in order to determine if they have been compromised by the mass global IT outage in software provided by a leading US-based cyber security firm.
+
+Senior Information Engineer of Sri Lanka CERT Charuka Damunupola confirmed that reports have been called to ascertain whether the relevant government information systems operate using Microsoft applications, which have been affected by the massive outage took place.
+
+Furthermore, Mr. Damunupola stated that initial findings indicate four private institutions in Sri Lanka have been impacted, while unofficial reports suggest that two Sri Lankan banks are among the affected entities.
+
+Speaking to Ada Derana, he asserted that a rigorous investigation is underway to assess the full scope of the impact.
+
+...
+
+[Data](articles/e27f9b87.json)
+
+---
 
 ### A message to vendors from the government
 
@@ -2353,21 +2371,5 @@ Sri Lankan authorities continue to use the notorious Prevention of Terrorism Act
 [Data](articles/1da9f205.json)
 
 [Extended Data](ext_articles/1da9f205.ext.json)
-
----
-
-### Open letter to Education Secretary
-
-*2024-07-19 05:40:31* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-Education-Secretary/14-764471) · `en`
-
-As per attachments sent by L.W.K. Silva, Senior Deputy Principal Royal College, there are 49 teachers who should have been transferred out soon after reaching 10 years at Royal College. As I understand, since 2017, the policy of the Ministry has been to transfer out every teacher who has served 10 years at one school. Why is Royal College an exception?
-
-Please have a close look at the list; there are teachers who have completed 23 years to 11 years in this list. What action is being taken to ensure the Ministry follows its own rules in respect of these 49 teachers?
-
-...
-
-[Data](articles/2e977995.json)
-
-[Extended Data](ext_articles/2e977995.ext.json)
 
 ---

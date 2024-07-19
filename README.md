@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 15:20:26**
+As of **2024-07-19 15:35:42**
 
 ## Newspaper Stats
 
-*Scraped **36,117** Articles*
+*Scraped **36,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 2,052
 economynextcom | 2,156
 dailyftlk | 2,304
 adalk | 3,264
-adaderanalk | 4,168
-tamilmirrorlk | 4,388
+adaderanalk | 4,169
+tamilmirrorlk | 4,389
 dailymirrorlk | 4,733
 virakesarilk | 5,639
-adaderanasinhalalk | 6,039
+adaderanasinhalalk | 6,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,117 (100.0%) of 36,117 articles have been extended.
+36,117 (100.0%) of 36,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### ජනපති නියමයෙන් 22 ගැසට් කෙරේ
+
+*2024-07-19 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198985) · `si`
+
+22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ජනපති රනිල් වික්‍රමසිංහ මහතාගේ නියමයෙන් ගැසට් කර තිබේ.
+
+මෙම සංශෝධනය ගෙන එන්නේ ජනාධිපතිවරයාගේ ධුර කාලය සම්බන්ධයෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 83 (ආ) ව්‍යවස්ථාවේ සඳහන් වසර 06ක් ඉක්මවා යන වචනය වෙනුවට වසර 05ක් ඉක්මවා යන වචනය ආදේශ කිරීම වෙනුවෙනි.
+
+මෙලෙස අද (19) එම ගැසට්ටුව ජනපති නියමයෙන් පළ කෙරුණේ එය ගැසට් කිරීමෙන් වළකින බවට අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා ඊයේ (18) නිවේදනය කළ පසුබිමකය.
+
+◼️
+
+[Data](articles/8d9b0175.json)
+
+---
+
+### 22nd Amendment gazetted by order of President
+
+*2024-07-19 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100625/22nd-amendment-gazetted-by-order-of-president) · `en`
+
+The 22nd Amendment to the Constitution has been published via a Gazette notification by order of President Ranil Wickremesinghe.
+
+On Thursday (18), Minister of Justice Wijeyadasa Rajapakshe had instructed his ministry’s secretary not to publish the Gazette notification on the 22nd Amendment to the Constitution until the Presidential Election is held.
+
+However, the Justice Minister had claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
+
+◼️
+
+[Data](articles/d66908f8.json)
+
+---
+
+### மக்களுக்கு சதொசவின் மகிழ்ச்சியான செய்தி
+
+*2024-07-19 15:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-சதொசவின்-மகிழ்ச்சியான-செய்தி/175-340681) · `ta`
+
+இதன்படி, ஒரு கிலோ கிராம் உளுந்தின் விலை 100 ரூபாவினால் குறைக்கப்பட்டுள்ளது. இதற்கமைய, ஒரு கிலோ கிராம் உளுந்து 1,400 ரூபாவிற்கு விற்பனை செய்யப்படவுள்ளது.
+
+400 கிராம் நிறையுடைய லங்கா சதொச பால்மாவின் விலை 40 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 910 ரூபாவாகும்.
+
+கோதுமை மா கிலோ ஒன்றின் விலை 10 ரூபாவினாலும், ஒரு கிலோ கிராம் வெள்ளை சீனியின் விலை 5 ரூபாவினாலும் குறைக்கப்பட்டுள்ளன.
+
+வெள்ளை அரிசி கிலோ ஒன்று 4 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 200 ரூபாவாகும்.
+
+கீரி சம்பா கிலோவொன்று 2 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய விலை 258 ரூபாவாகும் என லங்கா சதொச நிறுவனம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/95563ffd.json)
+
+---
 
 ### The popularity of Donald Trump is up
 
@@ -2151,73 +2203,5 @@ A draft legal draft has been prepared to amend the Constitution. People will go 
 [Data](articles/62d333f0.json)
 
 [Extended Data](ext_articles/62d333f0.ext.json)
-
----
-
-### Published in Sri Lanka - Thailand Free Trade Agreement
-
-*2024-07-19 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188804) · `ta`
-
-Sri Lanka and Thailand have signed a free trade agreement offering 85% tax exemption to Sri Lankan exporters, with plans for a 50% tax break upon full implementation, excluding certain goods. Additionally, 15% of products will face import controls to boost local manufacturing. A tax on car-like imports is also introduced. The remaining 30% tax exemption will be phased in over the next 15 years.
-
-🟩
-
-Sri Lanka has publicly made a free trade agreement signed with Thailand last February to get 85 per cent tax exemption for Sri Lankan exporters.
-
-Accordingly, when the agreement is implemented, it is possible to obtain a 50 per cent tax accommodation for exports, but 15 percent of the exports are not included.
-
-At the same time, 15 percent of the above products will be added to the import control to make high profits to domestic manufacturers.. Sri Lanka has also imposed a tax on car -like imports in this regard to earn income.
-
-Similarly, according to the Sri Lanka -Thailand Free Trade Agreement, the remaining 30 per cent tax exemption will be implemented in every 15 years in the next 15 years.
-
-◼️
-
-[Data](articles/89562320.json)
-
-[Extended Data](ext_articles/89562320.ext.json)
-
----
-
-### If the Inspector of Police Duminda Jayatilaka can bring Kanjiban Imran - Tran Ales
-
-*2024-07-19 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188803) · `ta`
-
-Duminda Jayathilaka, a police inspector hiding in France, is reportedly bringing Kanjiban Imran back to Sri Lanka without causing a crisis. This news sparked questions during a public security ministry briefing, where it was mentioned that many people resemble flowers blooming post the Vasantha club assassination. A former police official confirmed Jayathilaka's actions, assuring there would be no issues despite Jayathilaka's unannounced departure from the country.
-
-🟩
-
-Police Inspector Duminda Jayathilaka, who is hiding abroad, is not going to create any crisis.
-
-A news report on social media has reported that the police inspector Duminda Jayatilaka, who is reported to be hiding in France, is bringing him to the country's prominent person, Kanjiban Imran.
-
-The issue was questioned during a media briefing held at the Ministry of Public Security yesterday. Responding to this, the Minister said that after the assassination of the club Vasantha, many people look like a flower blossom.
-
-The crazy people cannot pay attention to the referring.
-
-A former police official said he was bringing the hiding Kanjiban Imran to the country. There is no problem.
-
-The police officer did not formally announce his departure from the country.
-
-◼️
-
-[Data](articles/39f832e8.json)
-
-[Extended Data](ext_articles/39f832e8.ext.json)
-
----
-
-### Anything but playing the game in Sri Lanka
-
-*2024-07-19 01:46:00* · [`islandlk`](http://island.lk/anything-but-playing-the-game-in-sri-lanka/) · `en`
-
-Cassandra’s prognosis, as given above, in her title holds good in almost all of the general life of the people of Sri Lanka and more so its politicians. It has been clearly demonstrated by the politics of now and behaviour of trade unions. Let Cassandra explain.
-
-We are a bankrupt country and people are suffering immensely and will have to continue to suffer, it is prophesied and pronounced by economists, as we right ourselves. IMF lays strictures and we the people are the ones who bear the brunt of them. Those politicians and parties and interested kaputas who fly this way from the comfort of their overseas domains, are the main cause of our present predicament. Government mismanagement and Parliamentary excesses drove us to bankruptcy.
-
-...
-
-[Data](articles/a6d617be.json)
-
-[Extended Data](ext_articles/a6d617be.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 22:35:43**
+As of **2024-07-19 22:54:19**
 
 ## Newspaper Stats
 
-*Scraped **36,173** Articles*
+*Scraped **36,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,052
 economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,267
-adaderanalk | 4,177
+adaderanalk | 4,178
 tamilmirrorlk | 4,392
 dailymirrorlk | 4,733
 virakesarilk | 5,658
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,055
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,173 (100.0%) of 36,173 articles have been extended.
+36,173 (100.0%) of 36,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### Govt may enforce price controls if concessions not passed to consumers – minister warns
+
+*2024-07-19 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100635/govt-may-enforce-price-controls-if-concessions-not-passed-to-consumers-minister-warns) · `en`
+
+Minister of Trade, Commerce, and Food Security Nalin Fernando stated that if the business community fails to pass on government-provided concessions to consumers, price controls will need to be implemented for certain goods.
+
+He also announced that proposals to amend the Consumer Act are planned to be submitted to Parliament within the next two weeks.
+
+Minister Fernando made these remarks during a news conference held at the Presidential Media Center today (19) under the theme “Collective Path to a Stable Country.”
+
+“The crisis of the past few years has finally been resolved, thanks to the exceptional leadership of President Ranil Wickremesinghe. Our government implemented numerous programs to achieve this success, and the people are now reaping the benefits.
+
+...
+
+[Data](articles/6837f350.json)
+
+---
 
 ### The world stopped in the world - Here is the full description
 
@@ -412,9 +430,11 @@ Furthermore, Wickremesinghe expressed that Sri Lanka is unique in maintaining de
 
 Moreover, the Head of the State added that he is dedicated to preserving this democratic tradition, according to the PMD.
 
-The President stated that when making constitutional amendments, he hands over that responsibility to someone experienced in the subject and that accordingly such activities were carried out by lawyers such as the late K.N. Choksy.
+President Wickremesinghe urged that there should be no fear regarding the constitutional amendment.
 
-However, as Mr. Choksi was not alive at the time of the constitutional amendment in 2015, the matter had to be handed over to President’s Counsel Jayampathy Wickramaratne, he said.
+He emphasized that when making constitutional amendments, he entrusts the responsibility to experienced professionals. He mentioned that in the past, lawyers like K. N. Choksi were involved in such matters.
+
+However, since Mr. Choksi had passed away by the time of the new constitutional amendment in 2015, the task was assigned to President’s Counsel Jayampathi Wickramaratne.
 
 ...
 
@@ -2407,33 +2427,5 @@ He further explained that with the wholesale price of eggs provided from farms t
 [Data](articles/f5aff1a0.json)
 
 [Extended Data](ext_articles/f5aff1a0.ext.json)
-
----
-
-### I was true for the people of Jaffna;It does not like the medical department - the former respondent of the Chavakachcheri Resource Hospital
-
-*2024-07-19 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188815) · `ta`
-
-Ramanathan Archana, a former respondent at the Chavakachcheri Resource Hospital, faced opposition due to his stance against the medical mafia in Jaffna. Despite being driven out, he remains dedicated to the community, expressing his loyalty and bidding farewell. His concerns about the hospital's utility during political discussions highlight broader issues within the healthcare system.
-
-🟩
-
-I was acting true for the people of Jaffna. It does not like the medical mafia. So they drive me out of here. But the love of these people is my heartbeat. "I am saying goodbye from this soil," said Ramanathan Archana, a former respondent of the Chavakachcheri Resource Hospital.
-
-He also expressed concern that when the politicians were talking to the minister, we were not useful as the Chavakachcheri Resource Hospital.
-
-A press conference of former Superintendent of Chavakachcheri Resource Hospital Ramanathan Archana was held in Jaffna on Friday (19) as Health Minister Ramesh Pathirana ended up with the controversy over the Chavakachcheri hospital.
-
-This is the first time in world history. I will always be loyal to the people of the south
-
-It does not like the medical mafia. So they drive me out of here. But the love of these people is my heartbeat. I am saying goodbye from this soil.
-
-I got a letter today after yesterday's date to come to the Ministry of Health.
-
-...
-
-[Data](articles/cdca3a9e.json)
-
-[Extended Data](ext_articles/cdca3a9e.ext.json)
 
 ---

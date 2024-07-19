@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 20:54:40**
+As of **2024-07-19 21:05:52**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,162 (100.0%) of 36,163 articles have been extended.
+36,163 (100.0%) of 36,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### හිඟුරක්ගොඩ ට ජාත්‍යන්තර ගුවන්තොටුපොළක්
+### International Airport to Hingurakgoda
 
 *2024-07-19 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198996) · `si`
 
-ශ්‍රී ලංකාවේ ඉපැරණි ගුවන්තොටුපොළක් වන හිඟුරක්ගොඩ අභ්‍යන්තර ගුවන්තොටුපොළ ජාත්‍යන්තර ගුවන් මෙහෙයුම් සඳහා නවීකරණය කිරීමට අවශ්‍ය ඉදිකිරීම් කටයුතු අද (19) ආරම්භ කෙරුණි.
+Renovation of Hingurakgoda airport, Sri Lanka's 25th international airport, begins today under the Ports, Navy, and Aviation Minister Nimal Siripala de Silva. Expected to complete in six months, the project costs Rs. 17 billion.
 
-වරාය, නාවික සහ ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් එය සිදු විය.
+🟩
 
-මෙරට 5 වැනි ජාත්‍යන්තර ගුවන්තොටුපොළ වන මෙහි ධාවන පථයේ සංවර්ධන කටයුතු මාස 6ක් තුළ නිම කිරීමට සැලසුම් කර ඇති අතර සමස්ත සංවර්ධන කටයුතු සඳහා වැයවන මුදල රුපියල් බිලියන 17කි.
+Construction work on the ancient airport in Sri Lanka, Hingurakgoda internal airports began to renovate international airlines today (19).
+
+It was under the patronage of ports, Navy and Aviation Minister Nimal Siripala de Silva.
+
+The 25th International Airport of this country is scheduled to be completed within six months and the total development work is Rs. 17 billion.
 
 ◼️
 
 [Data](articles/9a63f9ba.json)
+
+[Extended Data](ext_articles/9a63f9ba.ext.json)
 
 ---
 

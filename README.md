@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 14:20:21**
+As of **2024-07-19 14:35:27**
 
 ## Newspaper Stats
 
-*Scraped **36,114** Articles*
+*Scraped **36,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,81 @@ islandlk | 2,052
 economynextcom | 2,156
 dailyftlk | 2,304
 adalk | 3,264
-adaderanalk | 4,167
+adaderanalk | 4,168
 tamilmirrorlk | 4,388
 dailymirrorlk | 4,733
 virakesarilk | 5,639
-adaderanasinhalalk | 6,037
+adaderanasinhalalk | 6,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,113 (100.0%) of 36,114 articles have been extended.
+36,114 (100.0%) of 36,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### உலகளாவிய ரீதியாக முடங்கியது மைக்ரோசொஃப்ட்
+### Sri Lanka aims to become regional hub for human capital development – President
+
+*2024-07-19 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100624/sri-lanka-aims-to-become-regional-hub-for-human-capital-development-president) · `en`
+
+President Ranil Wickremesinghe emphasized that efforts are underway to position Sri Lanka as the regional hub for human capital development. He stressed the need to re-evaluate the National Vocational Qualification (NVQ) to align with internationally accepted standards, such as those in Australia.
+
+He expressed his intent to seek assistance from Australia to strengthen and modernize Sri Lanka’s education system. He stressed the importance of collective efforts among BIMSTEC countries and seeking support from international partners to build a robust education system. President Wickremesinghe underscored the necessity of systemic changes, advocating for reforms and the strengthening of education and training systems.
+
+...
+
+[Data](articles/e8d72341.json)
+
+---
+
+### සිසු විරෝධතාවලින් බංග්ලාදේශය තවමත් ගිනි ගනී
+
+*2024-07-19 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198983) · `si`
+
+දෙසතියක පමණ කාලයක සිට බංග්ලාදේශයේ ඩකා අගනුවර කේන්ද්‍ර කරගෙන ක්‍රියාත්මක සිසු විරෝධතා අතරතුරදී පුද්ගලයන් 32ක් පමණ මියගොස් තවත් දහසක් පමණ තුවාල ලබා තිබේ.
+
+විරෝධතා ප්‍රචණ්ඩකාරී ස්වරූපයක් ගත්තේ රජය විරෝධතාකරුවන් පාලනයට දැඩි මර්දනකාරී පිළිවෙතක් අනුගමනය කිරීමත් සමඟය.
+
+රට තුළ ක්‍රියාත්මක ප්‍රචණ්ඩකාරී ස්වරූපය සැළකිල්ලට ගනිමින් රටපුරා පාසල් සහ විශ්වවිද්‍යාල වසා දමා තිබේ.
+
+කළහකාරීව හැසිරෙන විරෝධතාකරුවන් රජයේ නාලිකාව ගිනි තබා තිබූ අතර මේ වනවිට එරට සියලුම රූපවාහිනී ප්‍රවෘත්ති නාලිකා විකාශය අත්හිටුවා ඇති බව සඳහන් ය.
+
+එමෙන්ම රටපුරා අන්තර්ජාල සබඳතා මෙන්ම දුරකථන සබඳතා ද අවහිර කර තිබේ.
+
+සිසුන් මෙලෙස විරෝධතාවල නිරත වන්නේ, 1971 නිදහස් සටනේ නියමුවන් යුද විරුවන් ලෙස සලකමින් ඔවුන්ගේ දරුවන්ට රජයේ රැකියා ලබාදීමේදී ප්‍රමුඛත්වය දීමේ කෝටා ක්‍රමවේදයට විරෝධය පළ කරමිනි.
+
+ඒ අනුව එරට රජයේ රැකියා පුරප්පාඩුවලින් තුනෙන් එකක් එනම් සියයට 30කට වැඩි කොටසක් වෙන්කර ඇත්තේ යුද විරුවන්ගේ දරුවන් වෙනුවෙනි.
+
+...
+
+[Data](articles/3d6e3eaf.json)
+
+---
+
+### Globally paralyzed Microsoft
 
 *2024-07-19 13:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலகளாவிய-ரீதியாக-முடங்கியது-மைக்ரோசொஃப்ட்/50-340680) · `ta`
 
-உலகெங்கிலும் உள்ள பல நாடுகளில் திடீரென தகவல் தொழில்நுட்ப செயலிழப்பு ஏற்பட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+Global IT failure affects banks, stock markets, media, and airlines, causing airport closures and flight disruptions. Microsoft is addressing the issue to restore services.
 
-அவற்றில் வங்கிகள், பங்குச் சந்தைகள், ஊடக நிறுவனங்கள் மற்றும் விமான நிறுவனங்கள் உள்ளடங்குவதாகத் தெரிவிக்கப்படுகிறது.
+🟩
 
-விமானச் சேவை கணினி கட்டமைப்பு பாதிக்கப்பட்டதன் காரணமாக, பல நாடுகளின் விமான நிலையங்கள் மூடப்பட்டு பல விமானங்கள் தரையிறக்கப்பட்டுள்ளன.
+Foreign media reports that many countries around the world have a sudden IT failure.
 
-எனினும் நிலைமையைச் சீர்செய்வதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக மைக்ரோசொப்ட் நிறுவனம் அறிவித்துள்ளது. R
+They include banks, stock markets, media companies and airlines.
+
+Due to the damage to the airline system, many airports have been closed and many flights have been landed.
+
+However, Microsoft has announced that it is taking steps to repair the situation. Remble
 
 ◼️
 
 [Data](articles/dcf4f009.json)
+
+[Extended Data](ext_articles/dcf4f009.ext.json)
 
 ---
 
@@ -2159,51 +2203,5 @@ The 3 issues will be taken into consideration as a valid passport at present whe
 [Data](articles/a29a6a84.json)
 
 [Extended Data](ext_articles/a29a6a84.ext.json)
-
----
-
-### The opposition should come up with a public debate
-
-*2024-07-19 01:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-பகிரங்க-விவாதத்திற்-வரவேண்டும்/175-340672) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya urges opposition to engage in public debates, highlighting President Ranil Wickremesinghe's successful economic policies over the past two years amidst criticism. He emphasizes the importance of comparing the country's state then and now, stressing the government's responsibility towards security, welfare, and development. The invitation extends to opposition MPs for constructive dialogue on national platforms.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said the current President Ranil Wickremesinghe, who has accepted the challenge of restoring the country in the most difficult situation, has been able to establish stability in the country due to the proper economic program in the last two years and those who publish negative and unfounded fake statements in this regard should come to public debate on the common platform.
-
-He said this at a media conference held at the Presidential Media Center yesterday. As he further stated,
-
-We know that the presidential election is a very strong decision in the democratic decisions of the people. In this case, a field should be set up to compare the situation and the state of the country two years ago.. The security, welfare and development of the people is the responsibility of the government. Therefore, there is a need for public debate during this dilemma.
-
-...
-
-[Data](articles/193bbff2.json)
-
-[Extended Data](ext_articles/193bbff2.ext.json)
-
----
-
-### Stopped projects are restarted
-
-*2024-07-19 01:18:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறுத்தப்பட்ட-திட்டங்கள்-மீண்டும்-ஆரம்பம்/175-340671) · `ta`
-
-Dr. Izumi Hirodo, leading the Japanese delegation, expresses optimism about restarting suspended projects in Sri Lanka, funded by Japanese official development aid. He praises President Ranil Wickremesinghe's leadership, especially in securing a short-term debt restructuring deal with the IMF and the Official Credit Provincial Committee. The delegation, focusing on housing, construction, and urban development, discusses launching new initiatives and congratulates Sri Lanka on its economic progress and swift debt restructuring success. President Wickremesinghe thanks Japan for support and vows to deepen economic ties, highlighting the importance of reviving Japanese-backed projects.
-
-🟩
-
-The Japanese delegation head of the Japanese delegation, Dr. Izumi Hirodo, who has visited Sri Lanka, is looking forward to the launch of the projects implemented in Sri Lanka under the help of Japanese official development, including projects that have been suspended in the past.
-
-He added that the international community's confidence in the leadership of President Ranil Wickremesinghe is reaching the short -term debt renovation agreement, which has joined hands with the International Monetary Fund and the Official Credit Provinnals Committee.
-
-The Japanese high -level delegation comprising representatives of the Housing, Construction and Urban Sector in Sri Lanka met with President Ranil Wickremesinghe at the Presidential Office yesterday morning.
-
-It was also discussed in detail the launch of plans implemented by Japan under official development assistance in Sri Lanka and the new investment opportunities in Sri Lanka.
-
-...
-
-[Data](articles/d061da1f.json)
-
-[Extended Data](ext_articles/d061da1f.ext.json)
 
 ---

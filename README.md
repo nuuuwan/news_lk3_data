@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 14:06:56**
+As of **2024-07-19 14:20:21**
 
 ## Newspaper Stats
 
-*Scraped **36,113** Articles*
+*Scraped **36,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,156
 dailyftlk | 2,304
 adalk | 3,264
 adaderanalk | 4,167
-tamilmirrorlk | 4,387
+tamilmirrorlk | 4,388
 dailymirrorlk | 4,733
 virakesarilk | 5,639
 adaderanasinhalalk | 6,037
@@ -26,25 +26,49 @@ adaderanasinhalalk | 6,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,112 (100.0%) of 36,113 articles have been extended.
+36,113 (100.0%) of 36,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ලොව පුරා මහා පරිමාණයේ IT දෝෂයක්
+### உலகளாவிய ரீதியாக முடங்கியது மைக்ரோசொஃப்ட்
+
+*2024-07-19 13:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலகளாவிய-ரீதியாக-முடங்கியது-மைக்ரோசொஃப்ட்/50-340680) · `ta`
+
+உலகெங்கிலும் உள்ள பல நாடுகளில் திடீரென தகவல் தொழில்நுட்ப செயலிழப்பு ஏற்பட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+அவற்றில் வங்கிகள், பங்குச் சந்தைகள், ஊடக நிறுவனங்கள் மற்றும் விமான நிறுவனங்கள் உள்ளடங்குவதாகத் தெரிவிக்கப்படுகிறது.
+
+விமானச் சேவை கணினி கட்டமைப்பு பாதிக்கப்பட்டதன் காரணமாக, பல நாடுகளின் விமான நிலையங்கள் மூடப்பட்டு பல விமானங்கள் தரையிறக்கப்பட்டுள்ளன.
+
+எனினும் நிலைமையைச் சீர்செய்வதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக மைக்ரோசொப்ட் நிறுவனம் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/dcf4f009.json)
+
+---
+
+### A large-scale called a large scale
 
 *2024-07-19 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198981) · `si`
 
-ලොව පුරා රටවල් රැසක ආයතන සමූහයක මහා පරිමාණ තොරතුරු තාක්ෂණ ඇනහිටීමක් සිදුවී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+Large-scale IT outage affects global banks, stock markets, media, and airlines, but the cause remains unknown, possibly unrelated to Microsoft OS errors.
 
-ඒ අතර ප්‍රධාන බැංකු, කොටස් වෙළෙඳපොළ, මාධ්‍ය ආයතන සහ ගුවන් සමාගම් ඇතුළු ආයතන ඇතුළත් බවද වාර්තා වෙයි.
+🟩
 
-මෙම තත්ත්වය ඇතිවීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර එය මයික්‍රොසොෆ්ට් මෙහෙයුම් පද්ධතිය සම්බන්ධ දෝෂයක් නිසා ඇතිවූවක් බවට වාර්තා පළ වෙයි.
+Foreign media reports that large scale information technology stallow has taken place in a group of countries around the world.
+
+Meanwhile, it is reported that the major banks, stock market, media institutions and airlines include.
+
+The cause of this situation is yet to be ascertained, it is reported that it is not yet known as an error in Microsoft operating system.
 
 ◼️
 
 [Data](articles/60919c34.json)
+
+[Extended Data](ext_articles/60919c34.ext.json)
 
 ---
 
@@ -2181,31 +2205,5 @@ It was also discussed in detail the launch of plans implemented by Japan under o
 [Data](articles/d061da1f.json)
 
 [Extended Data](ext_articles/d061da1f.ext.json)
-
----
-
-### Consignment of Terrorism Act
-
-*2024-07-19 00:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தடைச்-சட்டத்தை-இரத்து-செய்க/175-340670) · `ta`
-
-Human Rights Watch criticizes Sri Lanka for continuing to use the Terrorism Act despite promises to repeal it, highlighting its misuse to silence critics and control minorities, urging complete abolition.
-
-🟩
-
-The Human Rights Watch said that the Sri Lankan government has promised to end the Terrorism Act on several occasions, but the law continues to be used.
-
-Asian Regional Deputy Director of Human Rights Watch, Meenakshi Ganguly, mentioned this.
-
-He also pointed out that some people who have been affected by the law have been in detention for many years.
-
-The Sri Lankan government is using the Terrorism Act to silence critics and control minority communities.
-
-Thus, the Human Rights Watch has urged the Terrorism Act to be completely abolished. (A)
-
-◼️
-
-[Data](articles/9086cf78.json)
-
-[Extended Data](ext_articles/9086cf78.ext.json)
 
 ---

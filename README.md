@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 08:55:11**
+As of **2024-07-19 09:07:38**
 
 ## Newspaper Stats
 
-*Scraped **36,055** Articles*
+*Scraped **36,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 3,258
 adaderanalk | 4,154
 tamilmirrorlk | 4,378
 dailymirrorlk | 4,733
-virakesarilk | 5,624
+virakesarilk | 5,625
 adaderanasinhalalk | 6,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,035 (99.9%) of 36,055 articles have been extended.
+36,048 (100.0%) of 36,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### மாத்தறையில் இரத்தக் காயங்களுடன் சடலம் மீட்பு!
+
+*2024-07-19 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188811) · `ta`
+
+மாத்தறை பொலிஸ் பிரிவிற்குட்பட்ட வெரதுவ பகுதியில் உள்ள வீடொன்றில்  இரத்தக் காயங்களுடன் நபரொருவரின் சடலம் நேற்று  வியாழக்கிழமை (18) பொலிஸாரினால் மீட்கப்பட்டுள்ளது.
+
+மேலும், மரணத்திற்கான காரணம் இதுவரையில் கண்டறியப்படவில்லை எனவும் இந்த சம்வம் தொடர்பாக மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டுவருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ba35134c.json)
+
+---
 
 ### Prevailing windy conditions likely to continue - Met. Department
 
@@ -47,6 +61,8 @@ Fairly strong winds about 30-40kmph can be expected at times elsewhere of the is
 ◼️
 
 [Data](articles/51488f1f.json)
+
+[Extended Data](ext_articles/51488f1f.ext.json)
 
 ---
 
@@ -668,6 +684,8 @@ The evening shimmered with the presence of the High Commissioner of Malaysia for
 
 [Data](articles/ebd3e986.json)
 
+[Extended Data](ext_articles/ebd3e986.ext.json)
+
 ---
 
 ### Ceylon Curry Club does it again – Wows at Ambani pre-wedding celebration
@@ -682,171 +700,253 @@ The restaurant’s exotic culinary creations were featured at the main “Sangee
 
 [Data](articles/32e7d221.json)
 
+[Extended Data](ext_articles/32e7d221.ext.json)
+
 ---
 
-### காலநிலை மாற்ற அனர்த்தங்களைக் கையாள்வதற்கு அவசியமான உபகரணங்களை இலங்கைக்கு நன்கொடையாக வழங்கியது அமெரிக்கா
+### The US donated equipment necessary to deal with climate change disasters
 
 *2024-07-19 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/188809) · `ta`
 
-காலநிலை மாற்றத்துடன் தொடர்புடைய அனர்த்தங்கள் மற்றும் அவசர சூழ்நிலைகளுக்கு முகங்கொடுப்பதற்கு இலங்கை தயார்நிலையில் இருப்பதை உறுதிப்படுத்தும் வகையில் அவசியமான உபகரணங்களை அமெரிக்கா இலங்கையின் அனர்த்த முகாமைத்துவ நிலையத்துக்கு நன்கொடையாக வழங்கியுள்ளது.
+The US has donated climate change disaster relief equipment to Sri Lanka through the UN World Food Scheme, funded by USAID. The $2.5 million allocation aims to enhance Sri Lanka's Disaster Management Center's capabilities, ensuring readiness against climate-related emergencies. This initiative aligns with the US's global humanitarian efforts to safeguard lives and properties from disaster impacts.
 
-சர்வதேச அபிவிருத்திக்கான அமெரிக்க முகவரகத்தின் மனிதாபிமான உதவிகளுக்கான பணியகத்தின் நிதியுதவியின்கீழ் ஐக்கிய நாடுகள் உலக உணவுத்திட்டத்தின் ஊடாக இலங்கைக்கு இந்த உபகரண உதவிகள் வழங்கப்பட்டுள்ளன. உலக உணவுத்திட்டத்தின் விசேட நடவடிக்கைகளுக்காக அமெரிக்க முகவரகத்தினால் ஒதுக்கீடு செய்யப்பட்டுள்ள 2.5 மில்லியன் டொலர் நிதியின் ஒருபகுதியே மேற்குறிப்பிட்ட உபகரணங்களைக் கொள்வனவு செய்வதற்குப் பயன்படுத்தப்பட்டுள்ளது.
+🟩
 
-இந்த உபகரணங்கள் சர்வதேச அபிவிருத்திக்கான அமெரிக்க முகவரகத்தின் மனிதாபிமான உதவிகளுக்கான பணியகத்தின் தெற்கு மற்றும் மத்திய ஆசிய பிராந்திய மனிதாபிமான ஆலோசகர் டஸ்ரின் ஷியோவினால் அனர்த்த முகாமைத்துவ நிலையத்தின் பணிப்பாளர் நாயகம் உதய ஹேரத்திடம் கையளிக்கப்பட்டுள்ளன.
+The US has donated the necessary equipment to ensure that Sri Lanka is ready to face the disasters and emergency situations associated with climate change.
+
+The United Nations World Food Scheme has been provided with the United Nations World Food Scheme under the funding of the US Agency for International Development. The $ 2.5 million fund has been allocated by the US Agency for the special activities of the World Food Scheme.
+
+The equipment has been handed over to the Director General of the Disaster Management Center, Udaya Herath by Tusrin Shio, the southern and Central Asian Regional Humanitarian Advisor of the Humanitarian Authority of the US Agency for International Development.
+
+Commenting on this, the US embassy in Colombo, Duck Sonac, pointed out that "the main objective of the humanitarian disaster program in Sri Lanka and globally is being carried out by the United States to protect lives and property and reduce the impact of people."
 
 ...
 
 [Data](articles/b8b0240f.json)
 
+[Extended Data](ext_articles/b8b0240f.ext.json)
+
 ---
 
-### தேர்தல் முறைகேடுகள் தொடர்பில் அரச அதிகாரிகள் பாராமுகமாக செயற்படின் நீதிமன்றத்தை நாடுவோம் - தேர்தல் கண்காணிப்பு அமைப்புக்கள் எச்சரிக்கை
+### If state officials act on election irregularities, we will seek court - election monitoring organizations warning
 
 *2024-07-19 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188808) · `ta`
 
-நாடளாவிய ரீதியில் இடம்பெறும் தேர்தல் முறைகேடுகள் தொடர்பில் தேர்தல் சட்டங்களுக்கு அமைவாக செயற்படவேண்டிய அரச அதிகாரிகள் பாராமுகமாக செயற்பட்டால், அவர்களுக்கு எதிராக நீதிமன்றத்தில் வழக்குத்தொடரவிருப்பதாக தேர்தல் கண்காணிப்பு அமைப்புக்கள் எச்சரித்துள்ளன.
+Election monitoring groups threaten legal action against state officials who fail to enforce election laws. They argue that politicians' violations are supported by these officials. The People's Movement for Freedom and Fair Elections is consulting lawyers over allegations of improper candidate appointments by provincial governors. Additionally, concerns are raised about misuse of state funds for elections, with potential legal challenges looming for both issues.
 
-இதுகுறித்துக் கருத்து வெளியிட்டுள்ள சுதந்திரமானதும், நியாயமானதுமான தேர்தல்களுக்கான மக்கள் இயக்கத்தின் (பெப்ரல்) நிறைவேற்றுப்பணிப்பாளர் ரோஹண ஹெட்டியாராச்சி, அரச அதிகாரிகளின் ஆதரவின்றி அரசியல்வாதிகளால் தேர்தல் சட்டங்களை மீறிச்செயற்படமுடியாது என சுட்டிக்காட்டியுள்ளார். அதுமாத்திரமன்றி இவ்வாறான நடவடிக்கைகளுக்கு முற்றுப்புள்ளியிட வேண்டும் எனவும், அடுத்தகட்டமாக நீதிமன்றத்தை நாடவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-'ஊவா, வடக்கு, வடமத்திய மாகாணம் உள்ளிட்ட சில மாகாணங்களின் ஆளுநர்கள் உள்ளுராட்சிமன்றத்தேர்தல் வேட்பாளர்களைப் பல்வேறு பதவிகளுக்கு நியமித்துள்ளனர். இதுகுறித்து நாம் எமது சட்டத்தரணிகளுடன் கலந்துரையாடிவருகின்றோம்' எனவும் ரோஹண ஹெட்டியாராச்சி குறிப்பிட்டுள்ளார்.
+Election monitoring organizations have warned that state officials who are supposed to act in accordance with election laws on election laws across the country will be sued in court.
+
+Commenting on this, Rohana Hettiarachchi, the executive of the People's Movement for Freedom and Fair Elections, pointed out that politicians cannot violate election laws without the support of state officials.. He said that the proceedings should be completed and the next step should be sought by the court.
+
+“Governors of some provinces including Uva, North and North Central Province have appointed local government election candidates for various positions. We are discussing this with our lawyers, ”Rohana Hettiarachchi said.
+
+He also pointed out that if the country's leader does not respect the election laws, he will have to go to the High Court, saying that about 20 candidates will field in the upcoming presidential election.
 
 ...
 
 [Data](articles/69fe089d.json)
 
+[Extended Data](ext_articles/69fe089d.ext.json)
+
 ---
 
-### 10 இல் 4 குடும்பங்கள் அன்றாட உணவுத்தேவையை பூர்த்திசெய்ய மாற்று வழிமுறைகளைக் கையாள்கின்றன - உலக உணவுத்திட்டம்
+### 4 out of 10 families deal with alternatives to meet daily food service -World Food Scheme
 
 *2024-07-19 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188807) · `ta`
 
-பொருளாதார நெருக்கடியிலிருந்து இலங்கை படிப்படியாக மீண்டுவருகின்ற போதிலும், நாடளாவிய ரீதியில் 10 குடும்பங்களில் 4 குடும்பங்கள் தமது அன்றாட வாழ்வாதார மற்றும் உணவுத்தேவைகளைப் பூர்த்திசெய்துகொள்வதற்கு பல்வேறுபட்ட மாற்றுவழிமுறைகளைக் கையாண்டுவரும் நிலை தொடர்வதாக உலக உணவுத்திட்டம் சுட்டிக்காட்டியுள்ளது.
+In Sri Lanka, amid recovery from an economic crisis, 40% of families resort to alternative means for daily food due to the World Food Scheme's efforts. The scheme, supported by UN agencies and civil society, assesses flood victims' needs and distributes food supplies, including oil and pears, to schools and vulnerable communities. This initiative also focuses on promoting nutrition awareness during National Nutrition Month, highlighting the importance of healthy food as a right.
 
-உலக உணவுத்திட்டத்தின் வழிகாட்டலின்கீழ் ஐக்கிய நாடுகள் சபையின் இலங்கையிலுள்ள முகவரமைப்புக்களும், சிவில் சமூக அமைப்புக்களும் இலங்கை அரசாங்கத்துடன் ஒருங்கிணைந்து நாடளாவிய ரீதியில் வெள்ள அனர்த்தத்தினால் பாதிக்கப்பட்ட மக்களின் தேவைகளைக் கண்டறிவதற்கும், இதுகுறித்து அரசாங்கம், மனிதாபிமான உதவி வழங்கல் அமைப்புக்களுக்கு அவசியமான தகவல்களை வழங்குவதற்குமான மதிப்பாய்வு ஒன்றினைக் கடந்த 11 - 14 ஆம் திகதி வரையான காலப்பகுதியில் முன்னெடுத்திருந்தன.
+🟩
 
-அதேவேளை தேசிய பாடசாலைகளுக்கான உணவு வழங்கல் செயற்திட்டத்தை விரிவுபடுத்தும் நோக்கில் உலக உணவுத்திட்டத்தினால் கடந்த ஜுன் மாதம் நாடளாவிய ரீதியில் 7012 பாடசாலைகளுக்கு 421 மெட்ரிக் தொன் எண்ணெய் மற்றும் 271 மெட்ரிக் தொன் பேரீச்சம்பழம் என்பன பகிர்ந்தளிக்கப்பட்டன.
+While Sri Lanka is gradually recovering from the economic crisis, the World Food Scheme has indicated that 4 out of 10 families around the country will continue to deal with various alternatives to meet their daily livelihoods and food needs.
+
+Under the guidelines of the World Food Scheme, the agencies and civil society organizations in the United Nations have carried out a review from the 11th and 14th of last month to find the needs of the people affected by the flood disaster in the country and provide information to the government and humanitarian aid organizations.
+
+At the same time, the World Food Program was distributed to 7012 schools in the country last June to expand the food supply for the National Schools, 421 metric tons of oil and 271 metric tons of pear.
 
 ...
 
 [Data](articles/9fd143d8.json)
 
+[Extended Data](ext_articles/9fd143d8.ext.json)
+
 ---
 
-### தேர்தலை பிற்படுத்துவதற்கு அரசாங்கத்துக்கு சந்தர்ப்பம் வழங்கவே தேர்தல் ஆணைக்குழு தேர்தல் அறிவிப்பை பிற்படுத்தி வருகிறது - லக்ஷ்மன் கிரியெல்ல
+### The Election Commission is backing the election announcement to give the government the opportunity to back the election - Lakshman Kiriella
 
 *2024-07-19 02:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188806) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கான திகதியை அறிவிப்பு செய்ய தேர்தல் ஆணைக்குழுவுக்கு அதிகாரம் கிடைத்தும் அதனை மேலும் பிற்படுத்திவருவது சந்தேகத்தை ஏற்படுத்துகிறது. இவர்களின் இந்த நடவடிக்கை தேர்தலுக்கு ஏதாவது ஒருவழியில் தடையை ஏற்படுத்துவதற்கு அரசாங்கத்துக்கு சந்தர்ப்பம் வழங்குவதாகும் என எதிர்க்கட்சின் பிரதமகொறடா லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+Lakshman Kiriella, opposition leader, questions the Election Commission's authority to announce the presidential election date, suggesting it might delay the process. He criticizes the lack of clarity on when the election will be held, hinting at potential government interference. Despite the Election Commission's readiness to announce the date soon, skepticism remains due to past delays and concerns over constitutional amendments and government involvement.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (18) கட்சி தலைவர்களின் கூட்டம் இடம்பெற்று முடிந்த பின்னர் அதுதொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-கட்சித் தலைவர்களின் கூட்டம் இடம்பெற்றது. இதில் அரசியலமைப்பு திருத்தம் தொடர்பாக எதுவும் பேசப்படவில்லை. என்றாலும் அடுத்த பாராளுமன்ற அமர்வின்பாேது அரசியலமைப்பு திருத்தம் ஒன்றை கொண்டுவருவதற்கான சாத்தியம் இருக்கிறது.
+It is doubtful that the Election Commission has the authority to announce the date of the presidential election.. Opposition's Prime Minister Lakshman Kiriella said that this move would be given to the government to put a barrier to the election at some point.
+
+He was speaking to the media after the meeting of party leaders on Friday (18) in Parliament.
+
+A meeting of party leaders was held. Nothing talked about the constitutional amendment. However, the next parliamentary session is likely to bring about a constitutional amendment.
+
+It is well known that the Election Commission has the authority to announce the date and announce the date after July 17. However, an official of the Election Commission said he would announce the presidential election at the end of this month. I ask why the date of the election should be seen until the end of the month. We are skeptical of this move by the Election Commission.
 
 ...
 
 [Data](articles/23b9166a.json)
 
+[Extended Data](ext_articles/23b9166a.ext.json)
+
 ---
 
-### நாட்டை வங்குரோத்துக்கு தள்ளிய ராஜபக்ஷர்களின் ஒத்துழைப்பை பெறும் வேட்பாளருக்கு ஆதரவு வழங்கபோவதில்லை - பாட்டலி சம்பிக்க ரணவக்க
+### Rajapaksa's cooperation of the country is not going to support the candidate who has pushed the country - Batali Champika Ranawaka
 
 *2024-07-19 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/188805) · `ta`
 
-ராஜபக்ஷர்கள் ஒத்துழைப்பு வழங்கும் ஜனாதிபதி வேட்பாளருக்கு நாங்கள் ஆதரவு வழங்க போவதில்லை. ஏனெனில் இந்த நாட்டை ராஜபக்ஷர்கள் தான் வங்குரோத்து நிலைக்கு தள்ளி ஒவ்வொரு குடும்பங்களையும் நெருக்கடிக்கு தள்ளியுள்ளார்கள். பொருளாதார படுகொலையாளிகள் என்று உயர்நீதிமன்றத்தால் பெயர் குறிப்பிடப்பட்ட ராஜபக்ஷர்களுக்கு எதிராக எவ்வித நடவடிக்கைகளும் எடுக்கப்படவில்லை என ஐக்கிய குடியரசு முன்னணியின் தலைவர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+UNP President Patali Champika Ranawaka criticizes Rajapaksas for leading Sri Lanka into bankruptcy and crisis, refusing to support any presidential candidate aligned with them. He highlights the need for accountability for economic issues, including "economic assassinations," and calls for a referendum to amend the constitution.
 
-கொழும்பில் வியாழக்கிழமை (18) இடம்பெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டை கட்டியெழுப்பும் விரிவான செயற்திட்டத்தை நாங்கள் வெளிப்படுத்தியுள்ளோம்.பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதற்கும்,குடும்பங்களின் தரத்தை மேம்படுத்துவதற்கும் குறுகிய மற்றும் நீண்டகால அடிப்படையில் அமுல்படுத்தப்பட வேண்டிய திட்டங்களை முன்வைத்துள்ளோம்.
+We are not going to support the presidential candidate that Rajapaksas cooperate. This is because the Rajapaksas have put this country into a bankruptcy and put every family into crisis. UNP President Patali Champika Ranawaka said no action has been taken against the Rajapaksa who named the Supreme Court as economic assassinations.
+
+He was speaking to the media after a event in Colombo on Thursday (18).
+
+We have expressed a comprehensive project to build the country.
+
+The Election Commission has been responsible for the official announcement of the presidential election.
+
+A draft legal draft has been prepared to amend the Constitution. People will go to a referendum with a two -thirds majority to accomplish this amendment. With the presidential election being carried out, the presidential election will be affected when a public referendum is related to the presidential election.
 
 ...
 
 [Data](articles/62d333f0.json)
 
+[Extended Data](ext_articles/62d333f0.ext.json)
+
 ---
 
-### பகிரங்கப்படுத்தப்பட்டது இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக ஒப்பந்தம்
+### Published in Sri Lanka - Thailand Free Trade Agreement
 
 *2024-07-19 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188804) · `ta`
 
-இலங்கையின் ஏற்றுமதியாளர்களுக்கு 15 வருடங்களுக்கு 85 சதவீத வரி விலக்களிப்பைப் பெற்றுக்கொள்ளும் நோக்கில் தாய்லாந்துடன் கடந்த பெப்ரவரி மாதம் கைச்சாத்திடப்பட்ட சுதந்திர வர்த்தக ஒப்பந்தத்தை இலங்கை பகிரங்கப்படுத்தியுள்ளது.
+Sri Lanka and Thailand have signed a free trade agreement offering 85% tax exemption to Sri Lankan exporters, with plans for a 50% tax break upon full implementation, excluding certain goods. Additionally, 15% of products will face import controls to boost local manufacturing. A tax on car-like imports is also introduced. The remaining 30% tax exemption will be phased in over the next 15 years.
 
-அதன் பிரகாரம் இவ்வொப்பந்தம் நடைமுறைக்கும் வரும்போது ஏற்றுமதிகளுக்கான 50 சதவீத வரி விலக்களிப்பைப் பெறக்கூடிய சாத்தியம் உள்ள போதிலும், ஏற்றுமதிகளில் 15 சதவீதமான பொருட்களின் பெயர்கள் சேர்க்கப்படவில்லை.
+🟩
 
-அதேவேளை உள்நாட்டு உற்பத்தியாளர்களுக்கு உயர் இலாபத்தைப் பெற்றுத்தரக்கூடியவகையில் மேற்குறிப்பிட்ட 15 சதவீதமான பொருட்கள் இறக்குமதிக் கட்டுப்பாட்டுக்குள் சேர்க்கப்படும். அத்தோடு வருமானத்தை ஈட்டிக்கொள்ளும் நோக்கில் இவ்வொப்பந்தத்தில் கார் போன்ற இறக்குமதிகளுக்கு இலங்கை வரி விதித்துள்ளது.
+Sri Lanka has publicly made a free trade agreement signed with Thailand last February to get 85 per cent tax exemption for Sri Lankan exporters.
 
-அதேபோன்று இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக ஒப்பந்தத்தின் பிரகாரம் 50 சதவீத வரி விலக்களிப்புக்கு அப்பால், எஞ்சிய 30 சதவீத வரி விலக்களிப்பானது அடுத்துவரும் 15 வருடகாலத்தில் ஒவ்வொரு பகுதியாக நடைமுறைப்படுத்தப்படும்.
+Accordingly, when the agreement is implemented, it is possible to obtain a 50 per cent tax accommodation for exports, but 15 percent of the exports are not included.
+
+At the same time, 15 percent of the above products will be added to the import control to make high profits to domestic manufacturers.. Sri Lanka has also imposed a tax on car -like imports in this regard to earn income.
+
+Similarly, according to the Sri Lanka -Thailand Free Trade Agreement, the remaining 30 per cent tax exemption will be implemented in every 15 years in the next 15 years.
 
 ◼️
 
 [Data](articles/89562320.json)
 
+[Extended Data](ext_articles/89562320.ext.json)
+
 ---
 
-### பொலிஸ் பரிசோதகர் துமிந்த ஜயதிலக்க முடிந்தால் கஞ்சிபான் இம்ரானை கொண்டு வரட்டும் - டிரான் அலஸ்
+### If the Inspector of Police Duminda Jayatilaka can bring Kanjiban Imran - Tran Ales
 
 *2024-07-19 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/188803) · `ta`
 
-வெளிநாட்டில் தலைமறைவாகியுள்ள பொலிஸ் பரிசோதகர் துமிந்த ஜயதிலக்கவுக்கு எவ்வித நெருக்கடிகளையும் ஏற்படுத்த போவதில்லை.முடிந்தால் அவர் கஞ்சிபான் இம்ரானை நாட்டுக்கு அழைத்து வரட்டும்.தேவையாயின் ஒத்துழைப்புக்களை வழங்க தயார் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
+Duminda Jayathilaka, a police inspector hiding in France, is reportedly bringing Kanjiban Imran back to Sri Lanka without causing a crisis. This news sparked questions during a public security ministry briefing, where it was mentioned that many people resemble flowers blooming post the Vasantha club assassination. A former police official confirmed Jayathilaka's actions, assuring there would be no issues despite Jayathilaka's unannounced departure from the country.
 
-பிரான்ஸ் நாட்டில் தலைமறைவாகியுள்ளதாக குறிப்பிடப்படும் பொலிஸ் பரிசோதகர் துமிந்த ஜயதிலக்க தனக்கு அதிகாரம் வழங்கினால் பாதாள குழுவின் முக்கிய நபரான கஞ்சிபான் இம்ரானை நாட்டுக்கு அழைத்து வருவதாக குறிப்பிடப்படும் செய்தி ஒன்று சமூக வலைத்தளங்களில் வெளியாகியுள்ளது.
+🟩
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சின் காரியாலயத்தில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது இவ்விடயம் குறித்து கேள்வி எழுப்பப்பட்டது. இதற்கு பதிலளித்த அமைச்சர், கிளப் வசந்தவின் படுகொலையின் பின்னர் காளாள் பூப்பதை போன்று பலர் தோற்றம் பெற்றுள்ளார்கள்.தனக்கு அது தெரியும்.இது தெரியும் என்று குறிப்பிடுகிறார்கள்.
+Police Inspector Duminda Jayathilaka, who is hiding abroad, is not going to create any crisis.
 
-பைத்தியகாரர்கள் குறிப்பிடுவதற்கு கவனம் செலுத்த முடியாது.சமூக வலைத்தளங்களில் வெளியாகும் விடயங்களுக்கு கவனம் செலுத்தினால் முறையான விசாரணைகளை முன்னெடுக்க முடியாது.
+A news report on social media has reported that the police inspector Duminda Jayatilaka, who is reported to be hiding in France, is bringing him to the country's prominent person, Kanjiban Imran.
 
-...
+The issue was questioned during a media briefing held at the Ministry of Public Security yesterday. Responding to this, the Minister said that after the assassination of the club Vasantha, many people look like a flower blossom.
+
+The crazy people cannot pay attention to the referring.
+
+A former police official said he was bringing the hiding Kanjiban Imran to the country. There is no problem.
+
+The police officer did not formally announce his departure from the country.
+
+◼️
 
 [Data](articles/39f832e8.json)
 
+[Extended Data](ext_articles/39f832e8.ext.json)
+
 ---
 
-### 2025 ஜனவரி முதலாம் திகதி முதல் இலங்கையர்களுக்கு இலத்திரனியல் கடவுச்சீட்டு வழங்கும் திட்டம் அறிமுகம் - குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் அறிவிப்பு
+### Introduction of Electronic Passport to Sri Lankans from January 2025 - The Department of Immigration and Emigration
 
 *2024-07-19 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/188800) · `ta`
 
-எதிர்வரும் 2025 ஆம் ஆண்டு ஜனவரி முதலாம் திகதி முதல் இலங்கையர்களுக்கு பாதுகாப்பானதும், புதுப்பிக்கப்பட்டதுமான முறையில் இலத்திரனியல் கடவுச்சீட்டுக்களை வழங்குவதற்கு நடவடிக்கை எடுக்கப்பட்டிருப்பதாகவும், அதற்கு விண்ணப்பிக்கும் முறையை இலகுபடுத்துவதற்கு அவசியமான தயார்ப்படுத்தல்கள் மேற்கொள்ளப்பட்டிருப்பதாகவும் குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் அறிவித்துள்ளது.
+From January 1, 2025, Sri Lankans will receive a new electronic passport, with applications starting July 16, 2024, through https://www.immigration.gov.lk. Priority is given based on current passport validity, recent foreign travel, and possession of a valid National Identity Card and mobile number. Applicants must visit the department in person upon notification via SMS. Existing passports remain valid until the electronic ones are issued.
 
-அதற்கமைய இவ்வாண்டு ஜுலை 16 ஆம் திகதியிலிருந்து கடவுச்சீட்டைப் பெறுவதற்கு விண்ணப்பிப்பவர்கள் https://www.immigration.gov.lk என்ற இணைப்பின் ஊடாக முன்பதிவு செய்துகொள்ளவேண்டும். அவ்வாறு ஜுலை 16 ஆம் திகதி முன்பதிவு செய்யும் விண்ணப்பதாரிக்கு இப்புதிய திட்டமானது ஜுலை 19 ஆம் திகதியிலிருந்து நடைமுறைப்படுத்தப்படும். எனவே ஜுலை 18 ஆம் திகதி வரையான காலப்பகுதிக்கு தற்போது நடைமுறையில் உள்ள கடவுச்சீட்டுக்கு விண்ணப்பிக்கும் முறைமையே அமுல்படுத்தப்படும்.
+🟩
+
+The Department of Immigration and Emigration has announced that steps have been taken to issue a safe and renewed electronic passport to Sri Lankans from January 1, 2025, and that the preparations for the application have been made.
+
+Accordingly, those who apply for a passport from July 16 this year must be booked through https://www.immigration.gov.lk. The new scheme will be implemented from the 19th of July. Therefore, the system of applying for the existing passport will be implemented for the period of July 18.
+
+Accordingly, the opportunity to obtain the passport will be given on the basis of the priority.Those who already hold the passport and new applicants who do not have passports can apply for the passport.
+
+The 3 issues will be taken into consideration as a valid passport at present when a passport is given priority, and the passport of the passport is less than 6 months and the passport is recently used for a foreign trip.
 
 ...
 
 [Data](articles/a29a6a84.json)
 
+[Extended Data](ext_articles/a29a6a84.ext.json)
+
 ---
 
-### நிறுத்தப்பட்ட திட்டங்கள் மீண்டும் ஆரம்பம்
+### Stopped projects are restarted
 
 *2024-07-19 01:18:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறுத்தப்பட்ட-திட்டங்கள்-மீண்டும்-ஆரம்பம்/175-340671) · `ta`
 
-கடன் மறுசீரமைப்பு செயல்முறை வெற்றிகரமாக நிறைவடைந்துள்ளதால், கடந்த காலத்தில் இடைநிறுத்தப்பட்ட திட்டங்கள் உள்ளிட்ட ஜப்பானிய உத்தியோகபூர்வ அபிவிருத்தி உதவியின் கீழ் இலங்கையில் நடைமுறைப்படுத்தப்பட்ட திட்டங்களை மீள ஆரம்பிக்க எதிர்பார்ப்பதாக இலங்கைக்கு விஜயம் செய்துள்ள ஜப்பானிய தூதுக்குழுவின் தலைவர் கலாநிதி இசுமி ஹிரோடோ தெரிவித்தார்.
+Dr. Izumi Hirodo, leading the Japanese delegation, expresses optimism about restarting suspended projects in Sri Lanka, funded by Japanese official development aid. He praises President Ranil Wickremesinghe's leadership, especially in securing a short-term debt restructuring deal with the IMF and the Official Credit Provincial Committee. The delegation, focusing on housing, construction, and urban development, discusses launching new initiatives and congratulates Sri Lanka on its economic progress and swift debt restructuring success. President Wickremesinghe thanks Japan for support and vows to deepen economic ties, highlighting the importance of reviving Japanese-backed projects.
 
-சர்வதேச நாணய நிதியத்துடன் கைகோர்த்து உத்தியோகபூர்வ கடன் வழங்குநர்கள் குழுவுடன் இணைந்து மிகக் குறுகிய காலத்தில் மேற்கொள்ளப்பட்ட வெற்றிகரமான கடன் மறுசீரமைப்பு உடன்படிக்கைகளை எட்டியதன் ஊடாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தின் மீது சர்வதேச சமூகம் கொண்டுள்ள நம்பிக்கையே பிரதிபலிக்கிறது என்றும் அவர் குறிப்பிட்டார்.
+🟩
 
-இலங்கை வருகை தந்துள்ள வீடமைப்பு, நிர்மாண மற்றும் நகர்ப்புறத் துறைகளின் பிரதிநிதிகள் அடங்கிய ஜப்பானிய உயர்மட்டக் குழு நேற்று முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்தித்தது.
+The Japanese delegation head of the Japanese delegation, Dr. Izumi Hirodo, who has visited Sri Lanka, is looking forward to the launch of the projects implemented in Sri Lanka under the help of Japanese official development, including projects that have been suspended in the past.
+
+He added that the international community's confidence in the leadership of President Ranil Wickremesinghe is reaching the short -term debt renovation agreement, which has joined hands with the International Monetary Fund and the Official Credit Provinnals Committee.
+
+The Japanese high -level delegation comprising representatives of the Housing, Construction and Urban Sector in Sri Lanka met with President Ranil Wickremesinghe at the Presidential Office yesterday morning.
+
+It was also discussed in detail the launch of plans implemented by Japan under official development assistance in Sri Lanka and the new investment opportunities in Sri Lanka.
 
 ...
 
 [Data](articles/d061da1f.json)
 
+[Extended Data](ext_articles/d061da1f.ext.json)
+
 ---
 
-### ’பயங்கரவாத தடைச் சட்டத்தை இரத்து செய்க’
+### Consignment of Terrorism Act
 
 *2024-07-19 00:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தடைச்-சட்டத்தை-இரத்து-செய்க/175-340670) · `ta`
 
-பயங்கரவாதத் தடைச் சட்டத்தை முடிவுக்குக் கொண்டு வருவதாகப் பல சந்தர்ப்பங்களில் இலங்கை அரசாங்கம் உறுதியளித்துள்ள போதிலும், இந்த சட்டம் தொடர்ந்தும் பயன்படுத்தப்பட்டு வருவதாக மனித உரிமைகள் கண்காணிப்பகம் தெரிவித்துள்ளது.
+Human Rights Watch criticizes Sri Lanka for continuing to use the Terrorism Act despite promises to repeal it, highlighting its misuse to silence critics and control minorities, urging complete abolition.
 
-மனித உரிமைகள் கண்காணிப்பகத்தின் ஆசியப் பிராந்தியத் துணை பணிப்பாளர் மீனாட்சி கங்குலி இந்த விடயத்தைக் குறிப்பிட்டுள்ளார்.
+🟩
 
-இந்த சட்டத்தின் கீழ் பாதிப்படைந்த சிலர் பல ஆண்டுகளாகத் தொடர்ந்தும் தடுப்புக் காவலில் உள்ளனர் எனவும் அவர் சுட்டிக்காட்டியுள்ளார்.
+The Human Rights Watch said that the Sri Lankan government has promised to end the Terrorism Act on several occasions, but the law continues to be used.
 
-இலங்கை அரசாங்கம், விமர்சகர்களை மௌனமாக்குவதற்கும், சிறுபான்மை சமூகங்களைக் கட்டுப்படுத்துவதற்கும் அடிப்படையற்ற விதத்தில் பயங்கரவாதத் தடைச் சட்டத்தைப் பயன்படுத்துகின்றது.
+Asian Regional Deputy Director of Human Rights Watch, Meenakshi Ganguly, mentioned this.
 
-இதனால், பயங்கரவாதத் தடைச் சட்டம் முழுமையாக இரத்து செய்யப்பட வேண்டும் என மனித உரிமைகள் கண்காணிப்பகம் வலியுறுத்தியுள்ளது. (a)
+He also pointed out that some people who have been affected by the law have been in detention for many years.
+
+The Sri Lankan government is using the Terrorism Act to silence critics and control minority communities.
+
+Thus, the Human Rights Watch has urged the Terrorism Act to be completely abolished. (A)
 
 ◼️
 
 [Data](articles/9086cf78.json)
+
+[Extended Data](ext_articles/9086cf78.ext.json)
 
 ---
 
@@ -2073,31 +2173,5 @@ Parliamentarian Mano Ganesan emphasized the crucial need to secure land rights f
 [Data](articles/948bb27e.json)
 
 [Extended Data](ext_articles/948bb27e.ext.json)
-
----
-
-### Father remanded
-
-*2024-07-18 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198954) · `si`
-
-"Prime," an alleged organized criminal, was remanded today, while "Pharaoh," arrested in Dubai, faces charges related to the underworld. The case involves a significant drug operation, the main objective of which is linked to Kudu Saleku, who fled to Dubai in February 2011.
-
-🟩
-
-"Prime" was remanded today (18), claimed to be an organized criminal.
-
-The suspect was produced before the Fort Magistrate's Court today.
-
-The "Pharaohe" was arrested as a member of the underworld and was arrested in Dubai and brought to the country on 15 February.
-
-The Pry A Piya is considered the main goal of the drug dealer named Kudu Saleku.
-
-It was revealed that he had fled to Dubai on the 9th of February 2011.
-
-◼️
-
-[Data](articles/42d715e7.json)
-
-[Extended Data](ext_articles/42d715e7.ext.json)
 
 ---

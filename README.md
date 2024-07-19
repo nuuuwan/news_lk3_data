@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 21:35:52**
+As of **2024-07-19 21:55:02**
 
 ## Newspaper Stats
 
-*Scraped **36,169** Articles*
+*Scraped **36,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 4,176
 tamilmirrorlk | 4,392
 dailymirrorlk | 4,733
 virakesarilk | 5,658
-adaderanasinhalalk | 6,052
+adaderanasinhalalk | 6,053
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,164 (100.0%) of 36,169 articles have been extended.
+36,169 (100.0%) of 36,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### රුපියල් මිලියන 340ක් අපතේ යැවූ නිවාස ව්‍යාපෘතිය
+
+*2024-07-19 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198998) · `si`
+
+ජනතාවට සහන සැලසීමේ අරමුණින් ඇරඹෙන ව්‍යාපෘති අතරමැද නැවතීමෙන් සිදුවන්නේ, විශාල මුදල් නාස්තියකි.
+
+දැරණියගල මාලිබොඩ වතු නිවාස සංකීර්ණය ඉදිකිරීම් ඇරඹෙන්නේ 2021 මාර්තු 08 වනදාය.
+
+ඒ හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ රට හදන සෞභාග්‍යයේ දැක්ම සංකල්පයට අනුවය.
+
+ඉන්දීය ආධාර යටතේ ඇරඹි මෙම ව්‍යාපෘතියට අයත් වූ නිවාස සංඛ්‍යාව  170කි.
+
+ඒ සඳහා ඇස්තමේන්තු ගතකළ මුදල රුපියල් මිලියන 340ක් වූ අතර ඉදිකිරීම් භාරව කටයුතු කළේ, ශ්‍රී ලංකා ඉංජිනේරු සංස්ථාවයි.
+
+නමුත්, මෙම නිවාස සංකීර්ණයේ ඉදිකිරීම් වසර දෙකක සිට මුළුමුනින්ම නැවතී ඇත්තේ වතු සේවකයින්ගේ "සිහින නිවස" සම්පූර්ණයෙන්ම බොඳකරමිනි.
+
+ව්‍යාපෘතිය අතරමැද නවතාදැමීමත් සමග ශ්‍රී ලංකා ඉංජිනේරු සංස්ථාවට අයත් බැකෝ යන්ත්‍ර ඇතුළු යන්ත්‍රෝපකරණ විනාශවෙමින් පවතින අයුරු දැකගත හැකිය.
+
+අඩක් නිමවූ නිවාස විශාල සංඛ්‍යාවක් මෙහි පවතින අතර ඒවායේද වල් බිහිවී තිබෙන අතර එම නිවාස මේ වනවිට වවුලන්ගේ සහ සුනඛයන්ගේ ද පාරාදීස වී හමාරය.
+
+නිවාස සංකීර්ණයේ ආරක්ෂාවට මුරකරුවෙකු ද සිටින අතර ඔහු පවසන්නේ තමන්ට මාස 5ක සිට වැටුප් ගෙවා නොමැති බවය.
+
+...
+
+[Data](articles/eff0b3c2.json)
+
+---
 
 ### President issues Jayampathi's hand
 
@@ -56,41 +84,61 @@ He said that the only country continued to maintain democracy after the executiv
 
 ---
 
-### மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் வரலாற்றில் முதலாவது வெற்றியை சுவைத்தது நேபாளம்
+### Nepal was the first victory in the history of women's R20 Asian Cup Cricket
 
 *2024-07-19 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188895) · `ta`
 
-ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று வெள்ளிக்கிழமை (19) ஆரம்பமான ஐந்தாவது மகளிர் ரி20 கிரிக்கெட் அத்தியாயத்தின் முதலாவது போட்டியில் ஐக்கிய அரபு இராச்சியத்தை எதிர்கொண்ட நேபாளம் 6 விக்கெட்களால் மிக இலகுவாக வெற்றிபெற்றது.
+Nepal secured its first win in the Women's R20 Asian Cup Cricket, defeating the United Arab Emirates by 6 wickets in the Fifth Women's R20 Cricket Chapter at the Dambulla International Cricket Stadium. This victory came after two previous failures in 2012 and 2016. Key performers included captain Hindu Burma with three crucial wickets and Shamjana Khadka with an unbeaten half-century. The UAE, batting first, managed 115 runs in 20 overs, with Khushi Sharma scoring 36 and Kavisha Ekodake contributing 22. Hindu Burma also excelled with 3 wickets for 19 runs, while Kavisha Ekodke took 3 wickets for 12 runs in the bowling department.
 
-மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் வரலாற்றில் தனது 3ஆவது அத்தியாயத்தில் விளையாடும் நேபாளம் ஈட்டிய முதலாவது வெற்றி இதுவாகும்.
+🟩
 
-2012, 2016 ஆகிய இரண்டு அத்தியாயங்களில் விளையாடிய நேபாளம் அவற்றில் தோல்விகளையே தழுவியிருந்தது.
+In the first match of the Fifth Women's R20 Cricket Chapter, which started at the Dambulla International Cricket Stadium on Friday (19), Nepal won the United Arab Emirates by 6 wickets by 6 wickets.
 
-இன்றைய போட்டியில் அணித் தலைவி இந்து பர்மா பதிவுசெய்த 3 விக்கெட் குவியல், ஷம்ஜானா கத்கா குவித்த ஆட்டம் இழக்காத அரைச் சதம் என்பன நேபாளத்தை இலகுவாக வெற்றிபெறவைத்தன.
+This is the first victory of Nepal playing in her 3rd chapter in the history of women's R20 Asian Cup.
 
-ஐக்கிய அரபு இராச்சியம் சார்பாக  கொழும்பை பிறப்பிடமாகக் கொண்ட கவிஷா எகொடகே துடுப்பாட்டத்திலும் பந்துவீச்சிலும் பிரகாசித்ததுடன் குஷி ஷர்மா துடுப்பாட்டத்தில் திறமையை வெளிப்படுத்தினார். ஆனால், ஏனையவர்கள் பிரகாசிக்கத் தவறியமை ஐக்கிய அரபு இராச்சியத்தின் தோல்விக்கு காரணமாக அமைந்தது.
+Nepal, which played in two chapters 2012 and 2016, had failed.
+
+In today's match, the 3 wickets pile recorded by the captain Hindu Burma and the half -century of Shamjana Khadka's unbeaten game made Nepal easier.
+
+Kavisha, the native of Colombo on behalf of the United Arab Emirates, shone in the bowling and bowling and showed Khushi Sharma's talent in the field.. But the failure of others to shine caused the defeat of the UAE.
+
+The United Arab Emirates, who were first invited to bat in the upting match, scored 115 runs for the loss of 8 wickets in 20 overs.
+
+Khushi Sharma (36) and Kavisha Ekodake (22) scored more than 20 runs.
+
+In the bowling team, Hindu Burma took 3 wickets for 19 runs in 4 overs.
 
 ...
 
 [Data](articles/9df03bfb.json)
 
+[Extended Data](ext_articles/9df03bfb.ext.json)
+
 ---
 
-### அரசாங்கம் வழங்கும் சலுகைகள் நுகர்வோருக்கு வழங்கப்படாவிட்டால், குறிப்பிட்ட சில பொருட்களுக்கு கட்டுப்பாட்டு விலை நிர்ணயம் செய்ய வேண்டி ஏற்படும் - நலின் பெர்னாண்டோ
+### If the government's concessions are not made to consumers, some items will have to be controlled -Nalin Fernando
 
 *2024-07-19 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/188894) · `ta`
 
-அரசாங்கம் வழங்கும் சலுகைகளை நுகர்வோருக்கு வழங்குவதற்கு வர்த்தகர்கள் செயற்படாவிட்டால் குறிப்பிட்ட சில பொருட்களுக்கு கட்டுப்பாட்டு விலையை நிர்ணயிக்க நேரிடும் என வர்த்தக, வாணிப மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நலின் பெர்னாண்டோ தெரிவித்தார்.
+Nalin Fernando, the Minister of Commerce, warns that without traders passing on government concessions, some goods may need price controls. He announced upcoming amendments to the Consumer Act and discussed efforts to curb inflation and boost public income, including reducing bank interest rates. The government also plans to enhance consumer-trader relations and regularly announce prices of essential commodities.
 
-நுகர்வோர் சட்டத்தை திருத்துவதற்கான உரிய பரிந்துரைககளை எதிர்வரும் இரண்டு வாரங்களில் பாராளுமன்றத்தில் சமர்ப்பிக்க திட்டமிடப்பட்டுள்ளதாகவும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (19) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் நலின் பெர்னாண்டோ இதனைத் தெரிவித்தார்.
+The Minister of Commerce, Commerce and Food Security, Nalin Fernando, said that if traders do not act to provide the government's concessions to consumers, certain commodities will be fixed.
 
-“கடந்த சில ஆண்டுகளாக நிலவி வந்த நெருக்கடி காலத்தை தற்போது முடிவுக்கு கொண்டு வர முடிந்துள்ளது. அதற்கு தற்போதைய ஜனாதிபதி ரணில் விக்ரமசிங்க சிறப்பான தலைமைத்துவத்தை வழங்கினார். இந்த வெற்றியை அடைவதற்கு அரசாங்கம் என்ற ரீதியில் நாம் பல திட்டங்களை நடைமுறைப்படுத்தினோம். அதன் வெற்றிகரமான பலனை மக்கள் தற்போது அனுபவித்து வருகின்றனர்.
+The Minister said that the recommendations for amendment of the Consumer Act are scheduled to be presented in Parliament in the next two weeks.
+
+Minister Nalin Fernando made this statement at a media briefing held at the Presidential Media Center on Friday (19).
+
+“The crisis that has prevailed over the past few years has now ended. The current President Ranil Wickremesinghe presented a special leadership. As a government to achieve this success we have implemented many plans. People are currently enjoying its successful benefits.
+
+It should also be noted that the economic policies implemented in the last two years have been able to provide concessions and relief to the people.. By making it possible to control inflation. The program has also been launched to increase the income of the people.
 
 ...
 
 [Data](articles/269270ea.json)
+
+[Extended Data](ext_articles/269270ea.ext.json)
 
 ---
 
@@ -150,15 +198,21 @@ Further investigations are conducted on the direct advice of the Western Provinc
 
 ---
 
-### யாழிலிருந்து கதிர்காமம் சென்ற பஸ் திருகோணமலையில் விபத்து : காயமடைந்தவர்களின் எண்ணிக்கை 51 ஆக அதிகரிப்பு
+### Bus bus from Jaffna to Kadirgamam
 
 *2024-07-19 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/188893) · `ta`
 
-யாழ்ப்பாணத்திலிருந்து கதிர்காமத்தை நோக்கிச் சென்ற பஸ் திருகோணமலையின் மூதூர் பொலிஸ் பிரிவுக்கு உட்பட்ட கங்கை பாலத்துக்கு அருகே கவிழ்ந்து விபத்திற்குள்ளானதில் காயமடைந்தவர்களின் எண்ணிக்கை 51 ஆக அதிகரித்துள்ளது.
+The bus fare from Jaffna to Kadirgama increased to 51 due to an accident near the Ganga Bridge in the Muttur police division of Trincomalee.
+
+🟩
+
+The bus from Jaffna to Kadirgama has risen to 51 as the accident crashed near the Ganga Bridge in the Muttur police division of Trincomalee.
 
 ◼️
 
 [Data](articles/f7ff05dc.json)
+
+[Extended Data](ext_articles/f7ff05dc.ext.json)
 
 ---
 
@@ -306,21 +360,27 @@ Speaking to Ada Derana, he asserted that a rigorous investigation is underway to
 
 ---
 
-### வவுனியாவில் உடைந்து வீழ்ந்த வீடு! அதிஸ்டவசமாக உயிர்பிழைத்த இருவர்!
+### Broken house in Vavuniya!Unfortunately two survivors!
 
 *2024-07-19 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188892) · `ta`
 
-வவுனியா பூந்தோட்டம் சிறிநகர் பகுதியில் வீடு ஒன்று வெள்ளிக்கிழமை (19) உடைந்து வீழ்ந்தநிலையில் அதிஸ்டவசமாக இருவர் உயிர் பிழைத்தனர்.
+In Vavuniya, a house collapsed, narrowly missing two occupants who were outside. This incident highlights the poor state of over 50 homes in Sirinagarpur, deemed unsafe for resettlement since 1996. Concerns arise as villagers await assistance for housing schemes.
 
-குறித்த வீட்டில் வெள்ளிக்கிழமை (19 மதியம் கணவனும் மனைவியும் தங்கியிருந்துள்ளனர். இதன்போது வீடு திடீர் என்று உடைந்து வீழ்ந்தது.குறிப்பாக வீட்டின் பின்பக்க சுவர் மற்றும் கூரைப்பகுதி என்பன முற்றாக உடைந்து வீழ்ந்தது.
+🟩
 
-இருப்பினும் கணவனும் மனைவியும் வீட்டிற்கு வெளியில் இருந்தமையால் பாரிய அனர்த்தம் ஒன்று தவிர்க்கப்பட்டது.
+The two men survived the collapse of a house in the Vavuniya Poonthottam Sirinagar area on Friday (19).
 
-இதேவேளை சிறிநகர்பகுதியில் 1996 ஆம் ஆண்டு பொதுமக்கள் குடியேற்றப்பட்ட நிலையில் 50 ற்கும் மேற்ப்பட்ட வீடுகள் வசிப்பதற்கு தகுதியற்ற நிலையில் இருக்கின்றது. தமக்கான வீட்டுத்திட்டம் ஒன்றை வழங்குமாறு பல்வேறு தரப்புக்களிடமும் பலமுறை கோரிக்கை முன்வைத்துள்ள நிலையிலும் அது இதுவரை கிடைக்கப்பெறவில்லை என்று கிராமமக்கள் கவலை தெரிவிக்கின்றனர்.
+Husband and wife stayed at the house on Friday (19 noon. The house suddenly collapsed.
+
+However, a massive disaster was avoided as the husband and wife were outside the house.
+
+Meanwhile, more than 50 houses are unworthy of resettlement in 1996 in Sirinagarpur.. Villagers are worried that it has not yet been available to various parties to provide their home scheme.
 
 ◼️
 
 [Data](articles/8c839dce.json)
+
+[Extended Data](ext_articles/8c839dce.ext.json)
 
 ---
 
@@ -730,19 +790,29 @@ President Ranil Wickremesinghe said that the newest construction of the New Assi
 
 ---
 
-### பாதிக்கப்பட்ட தரப்பிடம் எமது பணிகளை கொண்டு சேர்ப்பதே நோக்கம் - உண்மை, நல்லிணக்க பொறிமுறைக்கான இடைக்கால  செயலகத்தின் பணிப்பாளர்
+### The purpose is to bring our tasks to the affected side - the Director of the Interim Secretariat for True and Reconciliation Mechanism
 
 *2024-07-19 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/188850) · `ta`
 
-உண்மை மற்றும் நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகத்தின் நோக்கம் மற்றும் பணிகளை பாதிக்கப்பட்ட தரப்பினர் உள்ளடங்கலாக பொதுமக்கள் அனைவரும் பார்வையிடக்கூடியவகையில் https://istrm.lk/ எனும் அதன் உத்தியோகபூர்வ இணையத்தளம் அங்குரார்ப்பணம் செய்துவைக்கப்பட்டது.
+The launch of the Interim Secretariat for True and Reconciliation Mechanism's website aims to publicly share its mission and tasks. The event, held at the Presidential Secretariat in Colombo, featured key officials discussing the secretariat's role and a draft bill based on extensive research from 2016-2018. Despite questions about the bill's preparation, the director emphasized the thoroughness of the process, involving over 7,000 interviews. The secretariat has also engaged directly with war-affected communities across the country.
 
-உண்மை மற்றும் நல்லிணக்க ஆணைக்குழுவை ஸ்தாபித்தல் மற்றும் அதனை முன்னிறுத்திய பணிகளை முன்னெடுத்தல் ஆகிய நோக்கங்களுக்காக உருவாக்கப்பட்டுள்ள உண்மை மற்றும் நல்லிணக்க செயலகத்தின் பணிகளை பாதிக்கப்பட்ட தரப்பினர் உள்ளடங்கலாக பொதுமக்கள் பார்வையிடக்கூடியவகையில் அதன் உத்தியோகபூர்வ இணையத்தளத்தை அங்குரார்ப்பணம் செய்துவைக்கும் நிகழ்வு வியாழக்கிழமை (17) பி.ப 2.00 மணிக்கு கொழும்பில் அமைந்துள்ள ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+🟩
 
-இந்நிகழ்வில் பிரதம விருந்தினராக ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்கவும், விசேட அதிதிகளாக வெளிவிவகார அமைச்சின் செயலாளர் அருணி விஜேவர்தன மற்றும் முன்னாள் ஜனாதிபதி செயலாளர் ஒஸ்டின் பெர்னாண்டோ ஆகியோரும் கலந்துகொண்டிருந்தனர்.
+Its official website https://istrm.lk/ has been launched in a way that can all visit the public, including the intent and tasks of the Interim Secretariat for the Truth and Reconciliation mechanism.
+
+The event was held at the Presidential Secretariat in Colombo on Thursday (17) at 2.00 pm on Thursday (17).
+
+The chief guest was President of the event, Secretary to the Ministry of External Affairs Aruni Wijewardena and former Presidential Secretary Austin Fernando.
+
+Accordingly, the Director of the Interim Secretariat of the Truth and Reconciliation Mechanism, Attorney -at -Law Asanka Gunawansa explained in detail the purpose and functions of his Secretariat.
+
+In particular, we have a draft of the proposed fact, Unity and Reconciliation Commission Bill, which was published in the Gazette Notification on January 1.. Was this product prepared after adequate discussions with all parties involved?Some people question.
 
 ...
 
 [Data](articles/71d428f9.json)
+
+[Extended Data](ext_articles/71d428f9.ext.json)
 
 ---
 
@@ -2365,27 +2435,5 @@ The first match of the Sri Lanka Women's Base role is to be held tomorrow (20) a
 [Data](articles/3d1ac673.json)
 
 [Extended Data](ext_articles/3d1ac673.ext.json)
-
----
-
-### Yall. Baby delivery in the ocean
-
-*2024-07-19 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188813) · `ta`
-
-A woman experiencing childbirth pain in Jaffna was transported by boat to the Jaffna Bodhana Hospital due to medical assistance from officers onboard.
-
-🟩
-
-Following a childbirth pain in the Jaffna area, a woman from the Neduntivu Divisional Hospital has taken steps to bring Jaffna to Jaffna by boat.
-
-With the help of the medical officer and the medical officer on the boat, the woman has been brought to the landing department.
-
-Subsequently, the mother and the fetus were taken to the Jaffna Bodhana Hospital in the Kavu Cross.
-
-◼️
-
-[Data](articles/54b4c439.json)
-
-[Extended Data](ext_articles/54b4c439.ext.json)
 
 ---

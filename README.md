@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 12:20:08**
+As of **2024-07-19 12:35:44**
 
 ## Newspaper Stats
 
-*Scraped **36,094** Articles*
+*Scraped **36,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ dbsjeyarajcom | 319
 colombotelegraphcom | 338
 bbccomsinhala | 354
 newsfirstlk | 363
-islandlk | 2,051
+islandlk | 2,052
 economynextcom | 2,156
 dailyftlk | 2,304
 adalk | 3,262
-adaderanalk | 4,163
+adaderanalk | 4,164
 tamilmirrorlk | 4,387
 dailymirrorlk | 4,733
 virakesarilk | 5,629
@@ -26,25 +26,47 @@ adaderanasinhalalk | 6,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,091 (100.0%) of 36,094 articles have been extended.
+36,094 (100.0%) of 36,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### මෙවර ජනපතිවරණයට මැතිවරණ වියදම් නියාමන පනත අනිවාර්යයයි
+### Election Expenses Act compulsory for upcoming Presidential Poll - Election Commission
+
+*2024-07-19 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100618/-election-expenses-act-compulsory-for-upcoming-presidential-poll-election-commission) · `en`
+
+The Election Commission says that the Election Expenses Regulation Act will be enforced for the upcoming presidential election.
+
+When inquired by Ada Derana, the Elections Commissioner General Saman Sri Rathnayake emphasized that this act will be enforced for every upcoming election, except for a referendum.
+
+He further clarified that all the political party secretaries, government officials and other related parties have been informed regarding the implementation of this act.
+
+◼️
+
+[Data](articles/7c2b588c.json)
+
+---
+
+### The election expenditure function bill is mandatory for the Presidential election
 
 *2024-07-19 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198979) · `si`
 
-එළඹෙන ජනාධිපතිවරණය සඳහා මැතිවරණ වියදම් නියාමන පනත අනිවාර්යයෙන්ම යොදා ගන්නා බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The mandatory Election Expenditure Function Bill and the crucial Elections Registration Act are key for the upcoming presidential election. The Commissioner General of Elections, Saman Sri Ratnayake, confirmed the bill's application except for referendums, ensuring transparency. Party secretaries and state officials have been briefed across all regions.
 
-අද දෙරණ කළ විමසීමක දී මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසුවේ මෙම පනත ජනමත විචාරණයකට හැර පැවැත්වීමට නියමිත සෑම මැතිවරණයකටම යොදා ගන්නා බවය.
+🟩
 
-මෙම මැතිවරණ වියදම් නියාමන පනත ක්‍රියාත්මක වන ආකාරය සම්බන්ධයෙන් පක්ෂ ලේකම්වරුන්, රාජ්‍ය නිලධාරීන් ඇතුළු සියලු අංශ දැනුවත් කර ඇති බවද සමන් ශ්‍රී රත්නායක මහතා සඳහන් කළේය.
+The Elections Registration Act is inevitable for the upcoming presidential election.
+
+Ada Derana stated that the Commissioner General of Elections Saman Sri Ratnayake said that the bill will be used for every toll, excluding a referendum.
+
+Mr. San Sir Ratnayake said that the Election of the Elections Monitoring Act, the party secretaries and state officials have been informed of all the areas.
 
 ◼️
 
 [Data](articles/28967ec0.json)
+
+[Extended Data](ext_articles/28967ec0.ext.json)
 
 ---
 
@@ -67,6 +89,8 @@ However, on Friday, the State Owned Enterprises Restructuring Unit said it had c
 ...
 
 [Data](articles/703a5dab.json)
+
+[Extended Data](ext_articles/703a5dab.ext.json)
 
 ---
 
@@ -1460,23 +1484,29 @@ The restaurant’s exotic culinary creations were featured at the main “Sangee
 
 ---
 
-### ජනාධිපතිවරණය කල් දැමීමට තවත් ‘තුරුම්පු’ ඉතිරි වී තිබේ ද?
+### Is there more "trump" to postpone the presidential election?
 
 *2024-07-19 03:56:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vdy7y488yo) · `si`
 
-‘සමාජ සම්මුතිය පාලකයා විසින් ඉරා දමනු ලබන්නේ නම්, ජනතාවට විප්ලව කිරීමේ අයිතිය ලැබෙන බව ජෝන් ලෝක් කියන බ්‍රිතාන්‍ය ජාතික සමාජ සම්මුතිවාදී චින්තකයා කියල තියෙනවා. එහෙම වෙන්න කියල මම කියන්නෙ නෑ. ඒත්, දිගින් දිගට ම ඡන්දය කල් දැමීම අනතුරකට අත වැනීමක්,’දේශපාලන විශ්ලේෂකයෙකු වන ආචාර්ය දයාන් ජයතිලක බීබීසී සිංහල සේවයට පැවසීය.
+Attempts to postpone Sri Lanka's presidential election have sparked controversy, with political analysts questioning the motives behind delays. Despite legal hurdles and claims of electoral manipulation, experts suggest there's little constitutional ground to further delay the election. Political maneuvering and fears of defeat among certain parties are cited as reasons for seeking postponements. Meanwhile, the Election Commission has indicated that the election will proceed as scheduled, addressing concerns over democracy and transparency.
 
-ඔහු ඒ බව පැවසුවේ, ජනාධිපතිවරණය කල් දැමීම සඳහා ක්‍රියාත්මක උත්සහයන් නිරීක්ෂණය කරමිනි.
+🟩
 
-ඡන්දයක් පැවැත්වීම ප්‍රමාද කිරීම සඳහා රනිල් වික්‍රමසිංහ ප්‍රමුඛ රජය විවිධ උත්සහයන්වල නිරත වන බව දක්නට ලැබෙන බව දේශපාලන විශ්ලේෂකයෝ බොහෝ දෙනෙක් පෙන්වා දෙති.
+The British National Social Conventionary of the British World Conventionary, if the social compromise is tear by the ruler, the people will be able to revolution. I'm not saying that way. However, leaving the votering votes in length, "a political analyst, Dr. Dayan Jayatilleka told the BBC Sinhala service.
 
-ජනාධිපතිවරණය කල් දාන්න ඉල්ලූ රංගේ බණ්ඩාර දැන් ඉක්මන් ඡන්දයක් ඉල්ලන්නේ ඇයි?
+He said this to observe the attempts to postpone the presidential election.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය විධිමත් ආකාරයෙන් සම්මත වී නොමැති නිසා එය ජනමත විචාරණයකට යොමු කර ඉන් අනුමැතිය ලබා ගන්නා තුරු ජනාධිපතිවරණයක් පැවැත්වීම තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝණය වන බවට තීන්දුවක් ලබා දෙන ලෙසට ඉල්ලා ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට නොගෙන රුපියල් ලක්ෂ 5ක නඩු ගාස්තුවකට යටත්ව නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය ජූලි 15 වැනිදා නියෝග කළේ ය.
+Many political analysts point out that the government of Ranil Wickremesinghe is seen in various attempts to delay a vote.
+
+Referred to postpone the presidential election Why is Range Bandara asking for a quick election now?
+
+The Supreme Court not to be heard to a referendum until the Constitution of the Constitution is not passed to a referendum and the Supreme Court will not be taken to a decision, but to dismiss the constitutional election.On July 15 ordered on July 15.
 
 ...
 
 [Data](articles/bb2276e3.json)
+
+[Extended Data](ext_articles/bb2276e3.ext.json)
 
 ---
 
@@ -1649,6 +1679,20 @@ The police officer did not formally announce his departure from the country.
 [Data](articles/39f832e8.json)
 
 [Extended Data](ext_articles/39f832e8.ext.json)
+
+---
+
+### Anything but playing the game in Sri Lanka
+
+*2024-07-19 01:46:00* · [`islandlk`](http://island.lk/anything-but-playing-the-game-in-sri-lanka/) · `en`
+
+Cassandra’s prognosis, as given above, in her title holds good in almost all of the general life of the people of Sri Lanka and more so its politicians. It has been clearly demonstrated by the politics of now and behaviour of trade unions. Let Cassandra explain.
+
+We are a bankrupt country and people are suffering immensely and will have to continue to suffer, it is prophesied and pronounced by economists, as we right ourselves. IMF lays strictures and we the people are the ones who bear the brunt of them. Those politicians and parties and interested kaputas who fly this way from the comfort of their overseas domains, are the main cause of our present predicament. Government mismanagement and Parliamentary excesses drove us to bankruptcy.
+
+...
+
+[Data](articles/a6d617be.json)
 
 ---
 
@@ -2151,65 +2195,5 @@ The Indian squads have been named for Sri Lanka and the T20 cricket tournament.
 [Data](articles/a7e9b598.json)
 
 [Extended Data](ext_articles/a7e9b598.ext.json)
-
----
-
-### We have been able to use our soil to use our soil in the presence of India's security concerns - Foreign Minister Ali Sabri confirms
-
-*2024-07-18 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/188798) · `ta`
-
-Sri Lanka's Foreign Minister Ali Sabri confirmed that no third party, including China-owned labs, will be allowed to use Sri Lankan territory or seas against India's security interests. He assured that Sri Lanka will not facilitate activities that threaten India's safety, emphasizing cooperation within BRICS but not at the expense of India's security.
-
-🟩
-
-External Affairs Minister Ali Sabri said that we will never allow a third party to use our territory or seas against India's legitimate security concerns.
-
-China -owned laboratories have been reported some times in the last two years that the Sri Lankan waters are demanding permission to carry out inspections and the allowance of India's safety interests can affect the security interests of India.
-
-Responding to a question raised by an international media in an interview with the international media, Minister Ali Sabri has asserted that he will never be able to work in Sri Lanka's soil or seas in a manner that is against India's legitimate security concerns.
-
-"We will not allow any parties to engage in any war games in our neighborhood," he said.
-
-However, he pointed out that Sri Lanka and its other partners want to work with China in some public structures such as 'BRICS'.
-
-◼️
-
-[Data](articles/857cbdff.json)
-
-[Extended Data](ext_articles/857cbdff.ext.json)
-
----
-
-### The mystery of the flipped vessel of the Arabian Sea
-
-*2024-07-18 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198963) · `si`
-
-The Indian Navy rescued nine individuals from the Arabian Sea, including a Sri Lankan national, Kugainan Mahasana, the second officer of a crashed vessel. The Sri Lankan embassy in Oman acknowledged the rescue. One body has been retrieved, but the fate of others remains unknown due to severe weather conditions. The Prestige Falcon, a fuel carrier, faced danger near Oman's Loukend Port during its voyage from Dubai to Yemen, with all 16 crew members unaccounted for.
-
-🟩
-
-The Indian Navy had recovered nine persons in the Arabian Sea.
-
-One of the rescued is a Sri Lankan and he has identified as Kugainan Mahasana, the second officer of the crash.
-
-In response to this incident, Sri Lankan embassies in Oman have admitted the liberated Sri Lankan duty at a duty.
-
-He says that he is in good health and the rest of the people have not yet been reported.
-
-The body of another was found in the missing persons and his identity has been revealed.
-
-Indian media reports today that the inclement weather, including the speedy sea and the speed of the Arabian sea, has been severely affected.
-
-The relatives of the captain of the ship's captain hatitude had lodged a complaint with the Bambalapitiya Police last night.
-
-In response to Ada Derana, the captain's daughter said that a person responds to a stranger to father's phone.
-
-The fuel carrier named Prestige Falcon, who sailed under the Corocess Falgon, is in danger at 10 pm on the 15th.
-
-...
-
-[Data](articles/6a58f3d2.json)
-
-[Extended Data](ext_articles/6a58f3d2.ext.json)
 
 ---

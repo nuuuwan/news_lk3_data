@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 08:04:34**
+As of **2024-07-19 08:35:51**
 
 ## Newspaper Stats
 
-*Scraped **36,051** Articles*
+*Scraped **36,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,050
 economynextcom | 2,151
 dailyftlk | 2,304
-adalk | 3,257
+adalk | 3,258
 adaderanalk | 4,153
-tamilmirrorlk | 4,377
+tamilmirrorlk | 4,378
 dailymirrorlk | 4,733
 virakesarilk | 5,624
 adaderanasinhalalk | 6,030
@@ -26,93 +26,125 @@ adaderanasinhalalk | 6,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,003 (99.9%) of 36,051 articles have been extended.
+36,025 (99.9%) of 36,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ගර්භිණී කාන්තාවන් සහ කුඩා දරුවන්ගේ සෞඛ්‍ය ගැන හෙළිදරව්වක්
+### Pregnant women and children's health
 
 *2024-07-19 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198973) · `si`
 
-පසුගිය වසර 10ක කාලය තුළ ගර්භිණී මව්වරුන් සහ කුඩා දරුවන් දියවැඩියාව සඳහා ගොදුරුවීම ඉහළ ගොස් ඇති බව සෞඛ්‍ය අංශ පෙන්වාදී තිබේ.
+Over the last decade, diabetes rates among pregnant women and children have risen significantly, especially in urban areas where about 20% of the population is affected. Experts emphasize the importance of regular exercise, reducing sugar intake, and maintaining a healthy lifestyle to manage diabetes effectively. They also advise monitoring for symptoms like facial hair growth in family members with diabetes, high blood pressure, or cholesterol issues.
 
-කොළඹ ජාතික රෝහලේ දියවැඩියාව සහ හෝමෝන පිළිබඳ විශේෂඥ වෛද්‍ය උදිත පුළුගහපිටිය මහතා සඳහන් කළේ මේ වනවිට නාගරික ප්‍රදේශ තුළ ජීවත්වන පුද්ගලයින්ගෙන් සියයට 20ක් පමණ දියවැඩියා රෝගයට ගොදුරුවී ඇති බවය.
+🟩
 
-දියවැඩියාව රෝගයේ, රෝග ලක්ෂණ සහ ඉන් මිදීමට ගතයුතු ක්‍රියාමාර්ග සම්බන්ධයෙන් ද විශේෂඥ වෛද්‍ය උදිත පුළුගහපිටිය මහතා වැඩිදුරටත් පැවසීය.
+During the past 10 years pregnant mothers and children have increased the victims of diabetes.
 
-"අපි සෑම දෙනාම දියවැඩියාවට ගොදුරු නොවී ජීවත්වීමට උත්සාහ ගත යුතුයි. ඒ වෙනුවෙන් පැයක් හෝ පැය භාගයක් ව්‍යායාම කිරීම අත්‍යවශ්‍යයයි. අධික සීනි සහිත ආහාර අඩු කරලා වැඩි වශයෙන් එළවලු, මස්, මාළු සහිත ආහාර වෙලකට යොමු වීමෙන් සහ තමාගේ උසට සරිලන බර පවත්වා ගැනීමෙන් දියවැඩියාවෙන් තෙරව ප්‍රීතිමත් ජීවිතයක් ගත කිරීමට පුළුවන්."
+Dr. Uditha Kugagahapitiya, Dr. Uditha and Horcut in Colombo National Hospital stated that about 20 percent of people living in urban areas have been victims of diabetes.
 
-...
+Specialist medical UPFA Kavudagitiya added, "Diyaradi Dr. UPFA Kimbugahapitiya added.
+
+"We should all try to live in diabetes without. It is essential to exercise an hour or half an hour for that. Reducing high sugar foods and maintaining the weather, meat, fish, and the weight of his heights can lead to a happy life in diabetes. "
+
+"If a family member has diabetes, heavy blood pressure, cholesstroleral illness, is important to see if there are hair grows in the face area."
+
+◼️
 
 [Data](articles/5ab41e00.json)
 
+[Extended Data](ext_articles/5ab41e00.ext.json)
+
 ---
 
-### දුම්රියේ ගැටී පුද්ගලයෙක් මරුට
+### Man hit and killed by train
 
 *2024-07-19 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198972) · `si`
 
-ගාල්ල දෙස සිට මාතර දක්වා ධාවනය වූ දුම්රියේ ගැටීමෙන් 28 හැවිරිදි පුද්ගලයෙකු මියගොස් තිබේ.
+A 28-year-old man died after being hit by a train between Galle and Matara. The incident happened near the Colombo Railway Line in the Galle Harbor Police Division last night.
 
-ඊයේ (18) සවස් කාලයේදී ගාල්ල වරාය පොලිස් වසමේ කොටුගොඩ දුම්රිය මාර්ගයේ අධිවේගී මාර්ග පිවිසුම ආසන්නයේදී මෙම අනතුර සිදුවී ඇත.
+🟩
+
+A 28-year-old man was killed following a train traveling from Galle to Matara.
+
+The accident occurred near the Colombo Railway Leave in Galle Harbor Police Division in the evening yesterday (18).
 
 ◼️
 
 [Data](articles/7d08fd2d.json)
 
+[Extended Data](ext_articles/7d08fd2d.ext.json)
+
 ---
 
-### මෙරට උපාධිධාරීන්ට ජපානයේ රැකියා අවස්ථා
+### Japan employment opportunities for Sri Lankan graduates
 
 *2024-07-19 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198971) · `si`
 
-ජපාන නිල සංවර්ධන ආධාර යටතේ ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක කර ඇති ව්‍යාපෘති යළි ආරම්භ කිරීමට බලාපොරොත්තු වන බව ශ්‍රී ලංකාවේ සංචාරයක නිරත ජපාන දූත පිරිසේ ප්‍රධානී ආචාර්ය ඉසුමි හිරොටෝ මහතා පවසයි.
+Sri Lanka aims to resume Japanese-funded projects, including airport and harbor developments, after successful restructuring. Japan seeks to enhance its partnership with Sri Lanka through agricultural modernization and technology recruitment, particularly targeting Sri Lankan graduates in the tech field to boost the country's electrical supply sector.
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සාර්ථකව අවසන්වී ඇති බැවින් පසුගිය සමයේ අත්හිටුවා තිබු මෙම ව්‍යාපෘති ආරම්භ කිරිමට අවධානය යොමුව ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
 
-මෙරටට පැමිණි ජපාන ඉහළ පෙළේ දූත පිරිස සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර පැවති හමුවේදී ඉසුමි හිරොටෝ මහතා මේ බව සදහන්කර තිබේ.
+The Head of the Japanese delegation, Dr. Isumidi Hiotho, says Sri Lanka are looking to resume projects in Sri Lanka under the official development aid.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමග කටයුතු කරමින් නිල ණයහිමියන්ගේ කමිටුව සමඟ එක්වී ඉතා කෙටි කාලයක් තුළ සාර්ථකව ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම්වලට එළැඹීම තුළින් ජාත්‍යන්තර ප්‍රජාව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නායකත්වය කෙරෙහි තබා ඇති විශ්වාසය පිළිබිඹු වන බවද ඔහු සඳහන් කර ඇත.
+The Presidential Media Unit said that these projects were suspended in the last days, as the restructuring process has been completed successfully.
 
-කෘෂි නවීකරණය ඇතුළු විවිධ ක්ෂේත්‍රයන්හී මෙන්ම දෙරට අතර ආර්ථික සහයෝගීතාව තවදුරටත් වර්ධනය කරගනිමින් සමීප සබඳතා තහවුරු කරගැනීම කෙරෙහි ශ්‍රී ලංකාව කැපවී සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී ප්‍රකාශකර තිබේ.
+Imadi Hiotho said this at a meeting between the Japanese top-level delegation and President Ranil Wickremesinghe.
+
+He has stated that the International Community is determined to successfully reflect the confidence of President Ranil Wickremesinghe's leadership with the committee of the official creditors.
+
+President Ranil Wickremesinghe has said that Sri Lanka is committed to ensuring close relations with agricultural modernization as well as the two countries.
 
 ...
 
 [Data](articles/f6981839.json)
 
+[Extended Data](ext_articles/f6981839.ext.json)
+
 ---
 
-### මාතර අභිරහස් මරණයක්
+### A mystery death of Matara
 
 *2024-07-19 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198970) · `si`
 
-මාතර වේරදූව ප්‍රදේශයේ නිවසක් තුළ ලේ ගලන තුවාල සහිතව මියගොස් සිටි පුද්ගලයෙකුගේ මළසිරුරක් ඊයේ (18) දහවල් කාලයේදී පොලීසිය විසින් සොයාගෙන තිබේ.
+In Matara, a 54-year-old man was found dead in his home in Venerao. The police discovered the body on March 18th.
 
-පොලීසිය සඳහන් කළේ එළෙස මියගොස් ඇත්තේ 54 හැවිරිදි පුද්ගලයෙකු බවය.
+🟩
+
+The body of a person who was dead in a house in Venerao, Matara, has been recovered by the police yesterday (18).
+
+The police said that a 54 year old man was deceased.
 
 ◼️
 
 [Data](articles/82518187.json)
 
+[Extended Data](ext_articles/82518187.ext.json)
+
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-07-19 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198968) · `si`
 
-සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයින හරහා දැනට පවතින සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (19) නිකුත් කළ සිය නවතම නිවේදනයෙන් පෙන්වා දෙයි.
+Today, the southwest monsoon continues, causing strong winds across Sri Lanka. Expect closures in Western, Sabaragamuwa, Northwestern, Kandy, Nuwara Eliya, Galle, and Matara districts. Wind speeds range from 40 to 60 knots, affecting various regions including Whakinitura, Trincomalee, Hambantota, central hills, and North, North Central, and North Western provinces.
 
-ඒ අනුව අද දිනයේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇති වෙයි.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරුමැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. 50ත් 60ත් අතර තද සුළං ද ඇති වෙයි.
+The Department of Meteorology shows that the existing winds will continue to provide the existing wind condition today (19) due to the active southwest monsoon.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින්විට හමන පැ.කි.මී. 30ක 40ක පමණ තරමක තද සුළං ද ඇතිවිය හැකි බව එහි වැඩිදුරටත් දැක්වෙයි.
+Accordingly, several closes in the Western, Sabaragamuwa and Northwestern provinces have several closed in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Whakinitura, Trincomalee and Hambantota districts are situated in the western mountains in the central hills and North, North Central and North Western provinces.. Strong winds also occur between 50 and 60.
+
+At times, there are times in the rest of the island.. There are also 40,000 strong winds can also occur.
 
 ◼️
 
 [Data](articles/d0eda082.json)
+
+[Extended Data](ext_articles/d0eda082.ext.json)
 
 ---
 
@@ -128,6 +160,8 @@ Sri Lankan authorities continue to use the notorious Prevention of Terrorism Act
 
 [Data](articles/1da9f205.json)
 
+[Extended Data](ext_articles/1da9f205.ext.json)
+
 ---
 
 ### Open letter to Education Secretary
@@ -141,6 +175,8 @@ Please have a close look at the list; there are teachers who have completed 23 y
 ...
 
 [Data](articles/2e977995.json)
+
+[Extended Data](ext_articles/2e977995.ext.json)
 
 ---
 
@@ -158,6 +194,8 @@ You do not have to be told I know, Israeli attacks on Palestine civilians begun 
 
 [Data](articles/6630e94a.json)
 
+[Extended Data](ext_articles/6630e94a.ext.json)
+
 ---
 
 ### Elections, voters and country risk
@@ -171,6 +209,8 @@ Everybody is enthusiastic about the forthcoming elections in Sri Lanka, almost f
 ...
 
 [Data](articles/031cfc60.json)
+
+[Extended Data](ext_articles/031cfc60.ext.json)
 
 ---
 
@@ -194,6 +234,8 @@ People’s Action for Free and Fair Elections (PAFFREL) Executive Director and M
 
 [Data](articles/bc20c306.json)
 
+[Extended Data](ext_articles/bc20c306.ext.json)
+
 ---
 
 ### Tax appellate procedure – a deep dive
@@ -210,6 +252,8 @@ The tax assessment process commences with an inquiry, which may involve intervie
 
 [Data](articles/c42e4049.json)
 
+[Extended Data](ext_articles/c42e4049.ext.json)
+
 ---
 
 ### CA Sri Lanka commemorates 65th anniversary this year
@@ -223,6 +267,8 @@ At the initial stage members of the other institutes of accountants which were a
 ...
 
 [Data](articles/7d3a670a.json)
+
+[Extended Data](ext_articles/7d3a670a.ext.json)
 
 ---
 
@@ -248,6 +294,8 @@ Visa Country Manager Avanthi Colombage explains shift towards digital platforms,
 
 [Data](articles/143cc3b6.json)
 
+[Extended Data](ext_articles/143cc3b6.ext.json)
+
 ---
 
 ### NDB partners with Sri Lanka Inventors Commission to empower future innovators
@@ -261,6 +309,8 @@ The Sahasak Nimavum Project is a prestigious platform that invites students and 
 ...
 
 [Data](articles/ad9ef11b.json)
+
+[Extended Data](ext_articles/ad9ef11b.ext.json)
 
 ---
 
@@ -280,6 +330,8 @@ Recently, H.M.K. Property Developers Ltd., made another request through the BOI 
 
 [Data](articles/5e636270.json)
 
+[Extended Data](ext_articles/5e636270.ext.json)
+
 ---
 
 ### Japan tells President ready to resume suspended ODA projects
@@ -298,6 +350,8 @@ Dr. Hiroto highlighted that the international community’s confidence in Presid
 
 [Data](articles/a6ba51d7.json)
 
+[Extended Data](ext_articles/a6ba51d7.ext.json)
+
 ---
 
 ### US supports Sri Lanka’s emergency preparedness efforts through WFP
@@ -313,6 +367,8 @@ This consignment, part of a broader $ 2.5 million (approximately Rs. 760 million
 ...
 
 [Data](articles/fd59f1ad.json)
+
+[Extended Data](ext_articles/fd59f1ad.ext.json)
 
 ---
 
@@ -332,6 +388,8 @@ Parliamentarian Mano Ganesan emphasised the crucial need to secure land rights f
 
 [Data](articles/7fcd60e6.json)
 
+[Extended Data](ext_articles/7fcd60e6.ext.json)
+
 ---
 
 ### Senior Advisor to President engages with Institution of Engineers (IESL) on Water Resources Management Policy Development
@@ -345,6 +403,8 @@ Dr. Samarathunga expressed his appreciation for the valuable contributions made 
 ...
 
 [Data](articles/485d5fc4.json)
+
+[Extended Data](ext_articles/485d5fc4.ext.json)
 
 ---
 
@@ -362,6 +422,8 @@ Minister de Silva highlighted that Sri Lanka’s internal airports and ports off
 
 [Data](articles/0e27cbce.json)
 
+[Extended Data](ext_articles/0e27cbce.ext.json)
+
 ---
 
 ### Vietnam Trade Promotion Agency and EDB of Sri Lanka agree to enter into MoU
@@ -376,6 +438,8 @@ The Embassy of Sri Lanka in Vietnam initiated signing a Memorandum of Understand
 
 [Data](articles/4429104f.json)
 
+[Extended Data](ext_articles/4429104f.ext.json)
+
 ---
 
 ### NCE urges authorities to expedite Sri Lanka’s accession to Madrid Protocol
@@ -389,6 +453,8 @@ The Madrid System, officially known as the Madrid Protocol, is an international 
 ...
 
 [Data](articles/4c6a7bb7.json)
+
+[Extended Data](ext_articles/4c6a7bb7.ext.json)
 
 ---
 
@@ -707,6 +773,22 @@ The restaurant’s exotic culinary creations were featured at the main “Sangee
 ...
 
 [Data](articles/a29a6a84.json)
+
+---
+
+### நிறுத்தப்பட்ட திட்டங்கள் மீண்டும் ஆரம்பம்
+
+*2024-07-19 01:18:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறுத்தப்பட்ட-திட்டங்கள்-மீண்டும்-ஆரம்பம்/175-340671) · `ta`
+
+கடன் மறுசீரமைப்பு செயல்முறை வெற்றிகரமாக நிறைவடைந்துள்ளதால், கடந்த காலத்தில் இடைநிறுத்தப்பட்ட திட்டங்கள் உள்ளிட்ட ஜப்பானிய உத்தியோகபூர்வ அபிவிருத்தி உதவியின் கீழ் இலங்கையில் நடைமுறைப்படுத்தப்பட்ட திட்டங்களை மீள ஆரம்பிக்க எதிர்பார்ப்பதாக இலங்கைக்கு விஜயம் செய்துள்ள ஜப்பானிய தூதுக்குழுவின் தலைவர் கலாநிதி இசுமி ஹிரோடோ தெரிவித்தார்.
+
+சர்வதேச நாணய நிதியத்துடன் கைகோர்த்து உத்தியோகபூர்வ கடன் வழங்குநர்கள் குழுவுடன் இணைந்து மிகக் குறுகிய காலத்தில் மேற்கொள்ளப்பட்ட வெற்றிகரமான கடன் மறுசீரமைப்பு உடன்படிக்கைகளை எட்டியதன் ஊடாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தின் மீது சர்வதேச சமூகம் கொண்டுள்ள நம்பிக்கையே பிரதிபலிக்கிறது என்றும் அவர் குறிப்பிட்டார்.
+
+இலங்கை வருகை தந்துள்ள வீடமைப்பு, நிர்மாண மற்றும் நகர்ப்புறத் துறைகளின் பிரதிநிதிகள் அடங்கிய ஜப்பானிய உயர்மட்டக் குழு நேற்று முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்தித்தது.
+
+...
+
+[Data](articles/d061da1f.json)
 
 ---
 
@@ -1293,6 +1375,24 @@ A sum of Rs.
 [Data](articles/d4cb7664.json)
 
 [Extended Data](ext_articles/d4cb7664.ext.json)
+
+---
+
+### වාහන ආනයනය ගැන වාර්තාව අගෝස්තු දෙවැනි සතියේ කැබිනට් මණ්ඩලයට
+
+*2024-07-18 19:57:42* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-වාර්තාව-අගෝස්තු-දෙවැනි-සතියේ-කැබිනට්-මණ්ඩලයට/11-410864) · `si`
+
+ඉතාම දුෂ්කර අවස්ථාවක රට ගොඩගැනීමේ අභියෝගය භාරගත් වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය දෙවසර තුළ ගෙන ගිය නිවැරදි ආර්ථික වැඩපිළිවෙළ හේතුවෙන් රට තුළ ස්ථාවරත්වයක් ඇති කර ගැනීමට හැකි වූ බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+ඒ සම්බන්ධයෙන් ඍණාත්මක හා පදනම් විරහිත සාවද්‍ය ප්‍රකාශ සිදු කරන විපක්ෂයේ මන්ත්‍රීවරුන් මෙන්ම ආර්ථික පර්යේෂණ ආයතන විද්වතුන්ට, සුදුසු වේදිකාවක් තුළ විවෘත සංවාදයකට ඇරයුම් කරන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (18) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ජනාධිපතිවරණයක් කියන්නේ ජනතාවගේ ප්‍රජාතන්ත්‍රවාදී තීරණ පිළිබඳ ඇති බලවත්ම තීරණය බව අප දන්නවා. එවැනි වකවානුවක මීට වසර දෙකකට පෙර රට තිබූ තත්ත්වය සහ අද තත්ත්වය සංසන්දනය කරන වේදිකාවක් නිර්මාණය විය යුතුයි. රජයක වගකීම වන්නේ ජනතාවගේ ආරක්ෂාව, සුබසාධනය සහ සංවර්ධනයයි. ඒ නිසා මෙම තීරණාත්මක මෙහොතේ යම් සංවාදයක් ගොඩ නැඟිය යුතුව තිබෙනවා.
+
+...
+
+[Data](articles/47096922.json)
 
 ---
 
@@ -1993,53 +2093,5 @@ He added that everyone except two people have been arrested in connection with t
 [Data](articles/ea30ca1a.json)
 
 [Extended Data](ext_articles/ea30ca1a.ext.json)
-
----
-
-### Full restriction to tuition by math teacher
-
-*2024-07-18 16:18:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணித-ஆசிரியரால்-டியூஷனுக்கு-முழுத்தடை/175-340630) · `ta`
-
-In the North Central Province, a ban has been issued by the Ministry of Education, prohibiting principals, teachers, and other educational staff from conducting private classes or seminars during school hours or weekends. This decision comes after numerous complaints about these individuals prioritizing their private activities over their official duties, neglecting students in the process. The Secretary of the Ministry has warned of strict consequences for non-compliance.
-
-🟩
-
-The Secretary of the North Central Ministry has issued a circular in the North Central Province, which has completely banned the work of principals, teachers and teachers and teachers who work in schools in the North Central Province.
-
-Secretary to the Ministry of Education of the North Central Province, Siriman Dharmasena, Provincial Education Directors, All Regional Directors, Kota Education Directors and School Principals.
-
-There have been constant complaints that some principals, teacher advisers and teachers who work in schools in the North Central Province have been charging private exclusive classes and seminars at school, school time or weekends.
-
-It has been reported that some teachers and principals have not been able to do the work of teaching at the school and ignore students who have not been able to go to their private classes and seminars.
-
-...
-
-[Data](articles/426cc228.json)
-
-[Extended Data](ext_articles/426cc228.ext.json)
-
----
-
-### Tuition ban by math teacher
-
-*2024-07-18 16:18:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆசிரியர்களுக்கு-டியூஷன்-தடை/175-340630) · `ta`
-
-In the North Central Province, a ban has been issued by the Ministry of Education, prohibiting principals, teachers, and other staff from conducting private tuition during school hours or weekends. This decision comes after numerous complaints about educators prioritizing paid classes over their official duties, leading to student neglect. The circular emphasizes strict adherence to this rule, with severe consequences for non-compliance.
-
-🟩
-
-The Secretary of the North Central Ministry has issued a circular in the North Central Province, which has completely banned the work of principals, teachers and teachers and teachers who work in schools in the North Central Province.
-
-Secretary to the Ministry of Education of the North Central Province, Siriman Dharmasena, Provincial Education Directors, All Regional Directors, Kota Education Directors and School Principals.
-
-There are constant complaints that some principals, teachers and teachers who work in schools in the North Central Province have been charging private training classes and seminars at school, school hours or weekends.
-
-It has been reported that some teachers and principals have not been able to do the work of teaching at the school and neglect students who have not gone to their personal classes and seminars.
-
-...
-
-[Data](articles/e8e3875f.json)
-
-[Extended Data](ext_articles/e8e3875f.ext.json)
 
 ---

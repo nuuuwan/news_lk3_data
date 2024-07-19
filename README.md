@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 09:20:13**
+As of **2024-07-19 09:35:38**
 
 ## Newspaper Stats
 
-*Scraped **36,058** Articles*
+*Scraped **36,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,050
 economynextcom | 2,151
 dailyftlk | 2,304
 adalk | 3,259
-adaderanalk | 4,154
-tamilmirrorlk | 4,378
+adaderanalk | 4,155
+tamilmirrorlk | 4,380
 dailymirrorlk | 4,733
 virakesarilk | 5,625
-adaderanasinhalalk | 6,031
+adaderanasinhalalk | 6,032
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,051 (100.0%) of 36,058 articles have been extended.
+36,057 (100.0%) of 36,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### நெடுந்தீவு கடலில் பிறந்த குழந்தை
+
+*2024-07-19 09:14:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நெடுந்தீவு-கடலில்-பிறந்த-குழந்தை/71-340673) · `ta`
+
+யாழ்ப்பாணம் - நெடுந்தீவு பகுதியை சேர்ந்த பெண்ணொருவருக்கு பிரசவ வலி ஏற்பட்டதை அடுத்து, நெடுந்தீவு பிரதேச வைத்தியசாலையில் இருந்து, அம்பியூலன்ஸ் படகு மூலம் யாழ்ப்பாணம் கொண்டு வருவதற்கு நடவடிக்கை எடுக்கப்பட்டது.
+
+படகில் மருத்துவ அதிகாரி, மருத்துவமாது உள்ளிட்டவர்களின் உதவியுடன் அப்பெண்ணை குறிக்கட்டுவான் இறங்குதுறை நோக்கி அழைத்து வந்துள்ளனர்.
+
+தொடர்ந்து தாயையும் சிசுவையும் குறிக்கட்டுவான் அழைத்து வந்து , அங்கு தயார் நிலையில் இருந்த அம்பியூலன்ஸ் வண்டியில் யாழ்.போதனா வைத்தியசாலைக்கு அழைத்து சென்று அனுமதித்துள்ளனர்.
+
+◼️
+
+[Data](articles/7bccde5a.json)
+
+---
+
+### බිත්තරයකින් රුපියල් 25ක අයුතු ලාබයක්
+
+*2024-07-19 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198975) · `si`
+
+බිත්තරයකින් රුපියල් 25ක අයුතු ලාබයක් නිෂ්පාදකයින් විසින් ලබාගන්නා බව බිත්තර වෙළෙඳ සංගමය චෝදනා කරයි.
+
+බිත්තරයක් නිෂ්පාදනය කිරීම සඳහා දැනට වැයවන්නේ රුපියල් 20ක පමණ මුදලක් බව එහි සභාපති අනුර මාරසිංහ මහතා සඳහන් කළේය.
+
+එහෙත් වෙළෙඳුන් සඳහා ගොවිපළවලින් බිත්තරයක් රුපියල් 45ත් 50ත් අතර තොග මිලකට ලබාදීම හේතුවෙන් මේ වනවිට වෙළෙඳපොළ තුළ බිත්තරයක මිල රුපියල් 50 ඉක්මවා ඇති බව අනුර මාරසිංහ මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/06af9b71.json)
+
+---
 
 ### Correct body recovery with blood injuries in Matara
 
@@ -52,19 +84,41 @@ Moreover, the cause of the death has not yet been identified and the police are 
 
 ---
 
-### තරුණයෙක් ගිලන් රථයක හැප්පෙයි
+### Japan ready to resume suspended official development assistance projects
+
+*2024-07-19 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100611/japan-ready-to-resume-suspended-official-development-assistance-projects) · `en`
+
+Dr. IZUMI Hiroto, the head of the Japanese delegation visiting Sri Lanka, lauded the successful completion of the country’s debt restructuring process, noting that it has paved the way for the resumption of Japanese Official Development Assistance (ODA) projects.
+
+These projects, which include several initiatives that were suspended last period, are now poised to restart, signaling a renewed phase of cooperation and development, the President’s Media Division said.
+
+Dr. Hiroto highlighted that the international community’s confidence in President Ranil Wickremesinghe’s leadership is strongly reflected in the expedited success of the debt restructuring agreements. This achievement, accomplished in partnership with the Official Creditors’ Committee and the International Monetary Fund, underscores a remarkable turnaround for Sri Lanka.
+
+...
+
+[Data](articles/ba581d90.json)
+
+---
+
+### A young man hitting an ambulance
 
 *2024-07-19 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198974) · `si`
 
-යතුරුපැදියක් සහ ගිලන් රථයක් මුහුණට මුහුණ ගැටීමෙන් සිදුවූ අනතුරකින් යතුරුපැදියේ ගමන් කළ තරුණයෙක් ජීවිතක්ෂයට පත්වී තිබේ.
+A 22-year-old from Panadura died after crashing his motorcycle into an ambulance at the Youth Services Road Junction in Colombo, en route to Colombo from Galle.
 
-ගාල්ල කොළඹ මාර්ගයේ තරුණ සේවා මාවත හන්දියේදී ගාල්ල දෙස සිට කොළඹ දෙසට ධාවනය වූ බලපිටිය රෝහලට අයත් ගිලන් රථයක ප්‍රතිවිරුද්ධ දෙසින් ධාවනය වූ යතුරුපැදියක මුහුණට මුහුණ ගැටී අනතුර සිදුවී තිබේ.
+🟩
 
-අනතුරෙන් බරපතළ තුවාල ලැබූ 22 හැවිරිදි පානදුර ප්‍රදේශයේ පදිංචි යතුරුපැදිකරු කරාපිටිය රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+A young man who traveled by a motorcycle and ambulance have died on the motorcycle.
+
+The accident occurred at the Youth Services Mawatha, Colombo to Colombo at Youth Services Road Junction towards Galle to Colombo.
+
+The 22-year-old resident of Panadura has died on admission to the Karapitiya Hospital.
 
 ◼️
 
 [Data](articles/87065b95.json)
+
+[Extended Data](ext_articles/87065b95.ext.json)
 
 ---
 
@@ -922,6 +976,22 @@ The 3 issues will be taken into consideration as a valid passport at present whe
 
 ---
 
+### ’எதிர்க்கட்சி பகிரங்க விவாதத்திற் வரவேண்டும்’
+
+*2024-07-19 01:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-பகிரங்க-விவாதத்திற்-வரவேண்டும்/175-340672) · `ta`
+
+நாடு மிகவும் இக்கட்டான சூழ்நிலையில் நாட்டை மீட்டெடுக்கும் சவாலை ஏற்றுக்கொண்ட தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த இரண்டு வருடங்களில் முன்னெடுத்த சரியான பொருளாதார வேலைத்திட்டத்தின் காரணமாகவே நாட்டில் ஸ்திரத்தன்மையை ஏற்படுத்த முடிந்தது எனவும்  இது தொடர்பாக எதிர்மறையான மற்றும் ஆதாரமற்ற போலியான அறிக்கைகளை வெளியிடுவோர் பொதுவான மேடையில் பகிரங்க விவாதத்திற்கு வரவேண்டும் என்றும் நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகயிலாளர் மாநாட்டிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஜனாதிபதித் தேர்தல் என்பது மக்களின் ஜனநாயக முடிவுகளில் மிகவும் வலுவான முடிவாக அமையும் என்பதை நாம் அறிவோம். இவ்வாறான வேளையில் இரண்டு வருடங்களுக்கு முன்பிருந்த நாட்டின் நிலைமையையும் இன்றைய நிலைமையையும் ஒப்பிட்டுப் பார்ப்பதற்கான களமொன்று அமைக்கப்பட வேண்டும். மக்களின் பாதுகாப்பு, நலன் மற்றும் மேம்பாடு என்பன அரசாங்கத்தின் பொறுப்பாகும். எனவே, இந்த இக்கட்டான காலகட்டத்தில் பகிரங்க விவாதங்களுக்கான அவசியம் ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/193bbff2.json)
+
+---
+
 ### Stopped projects are restarted
 
 *2024-07-19 01:18:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறுத்தப்பட்ட-திட்டங்கள்-மீண்டும்-ஆரம்பம்/175-340671) · `ta`
@@ -1562,43 +1632,63 @@ A sum of Rs.
 
 ---
 
-### වාහන ආනයනය ගැන වාර්තාව අගෝස්තු දෙවැනි සතියේ කැබිනට් මණ්ඩලයට
+### Report of vehicle imports to Cabinet for August 2
 
 *2024-07-18 19:57:42* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-වාර්තාව-අගෝස්තු-දෙවැනි-සතියේ-කැබිනට්-මණ්ඩලයට/11-410864) · `si`
 
-ඉතාම දුෂ්කර අවස්ථාවක රට ගොඩගැනීමේ අභියෝගය භාරගත් වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය දෙවසර තුළ ගෙන ගිය නිවැරදි ආර්ථික වැඩපිළිවෙළ හේතුවෙන් රට තුළ ස්ථාවරත්වයක් ඇති කර ගැනීමට හැකි වූ බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+State Minister Ranjith Siyambalapitiya highlighted President Ranil Wickremesinghe's efforts to stabilize the economy amidst challenges, inviting opposition MPs and economists for dialogue. He announced a new loan scheme for SMEs with a 7% interest rate, funded by a 50 billion allocation from the Asian Development Bank, aimed at supporting small and medium-scale entrepreneurs, including women entrepreneurs and agricultural development. Additionally, a credit protection institute is set to launch in October, and a special committee is investigating vehicle import processes. Recruitment for Customs Inspectors and Assistant Customs Superintendents is ongoing, emphasizing transparency.
 
-ඒ සම්බන්ධයෙන් ඍණාත්මක හා පදනම් විරහිත සාවද්‍ය ප්‍රකාශ සිදු කරන විපක්ෂයේ මන්ත්‍රීවරුන් මෙන්ම ආර්ථික පර්යේෂණ ආයතන විද්වතුන්ට, සුදුසු වේදිකාවක් තුළ විවෘත සංවාදයකට ඇරයුම් කරන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (18) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+State Minister Ranjith Siyambalapitiya said that the current President Ranil Wickremesinghe has been able to establish a stability in the country due to the real economic program that has been accepted in the very difficult situation.
 
-ජනාධිපතිවරණයක් කියන්නේ ජනතාවගේ ප්‍රජාතන්ත්‍රවාදී තීරණ පිළිබඳ ඇති බලවත්ම තීරණය බව අප දන්නවා. එවැනි වකවානුවක මීට වසර දෙකකට පෙර රට තිබූ තත්ත්වය සහ අද තත්ත්වය සංසන්දනය කරන වේදිකාවක් නිර්මාණය විය යුතුයි. රජයක වගකීම වන්නේ ජනතාවගේ ආරක්ෂාව, සුබසාධනය සහ සංවර්ධනයයි. ඒ නිසා මෙම තීරණාත්මක මෙහොතේ යම් සංවාදයක් ගොඩ නැඟිය යුතුව තිබෙනවා.
+The opposition MPs, as well as the Economic Research Institutes of the Economic Research Institutions, are invited to an open dialogue in the appropriate platform.
+
+Chief Minister Ranjith Siyambalapitiya, Minister of Finance, was speaking at a press conference held at the Presidential Media Center today (18).
+
+A presidential election is the most powerful decision on the democratic decisions of the people. In such a time, the status of the country and the stage of the country should be created two years ago. A government is the security, welfare and development of the people. Therefore, there is a conversation in this critical media.
 
 ...
 
 [Data](articles/47096922.json)
 
+[Extended Data](ext_articles/47096922.ext.json)
+
 ---
 
-### ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසාය නැවත පණ ගැන්වීමට මූල්‍ය පැකේජයක්
+### A financial package to revive micro, SME enterprises
 
 *2024-07-18 19:54:21* · [`adalk`](https://www.ada.lk/breaking_news/ක්ෂුද්‍ර--සුළු-හා-මධ්‍ය-පරිමාණ-ව්‍යවසාය-නැවත-පණ-ගැන්වීමට-මූල්‍ය-පැකේජයක්/11-410863) · `si`
 
-ආයෝජන ණය රුපියල් මිලියන 15ක උපරිමයකට යටත්ව 7%ක සහන පොලි අනුපාතයකට.
+President Ranil Wickremesinghe introduced a financial package aimed at revitalizing micro, small, and medium-sized enterprises (MSMEs) in Sri Lanka. The initiative involves investment loans, workshops, and support from 15 banks and financial institutions. A national development bank for SMEs is proposed to bolster the sector, with a focus on improving resilience against economic crises and climate change. The program includes concessional interest rates and aims to allocate Rs. 13 billion towards this effort, targeting sectors like manufacturing, agriculture, and services. This move is part of a broader strategy to transform the economy and enhance its competitiveness.
 
-කාරක ප්‍රාග්ධනය රුපියල් මිලියන 05ක උපරිමයකට යටත්ව 8%ක සහන පොලි අනුපාතයකට.
+🟩
 
-බැංකු සහ මූල්‍ය ආයතන 15ක් මේ වෙනුවෙන් රජය සමඟ අත්වැල් බැඳ ගනී.
+Investment Loans at a maximum of Rs.
 
-රට දියුණු කිරීමට නම් සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් ශක්තිමත් කළ යුතුයි
+Workshop to a maximum of Rs.
 
-සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් වෙනුවෙන් ජාතික සංවර්ධන බැංකුවක්  – ජනපති අවධාරණය කරයි .
+15 banks and financial institutions join hands with the government.
 
-ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසාය නැවත සවිබලගැන්වීමේ අරමුණින් ක්ෂුද්‍ර, සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායන් සඳහා ආයෝජන සහ කාරක ප‍්‍රාග්ධන යන පහසුකම් දෙවර්ගයෙන්ම සමන්විත මූල්‍ය පහසුකම් පැකේජයක් හඳුන්වා දීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (18) ජනාධිපති කාර්යාලයේ දී සිදු විය.
+To improve the country, SMEs should be strengthened
+
+President states a national development bank for SMEs - President (SME)
+
+President Ranil Wickremesinghe was launched by President Ranil Wickremesinghe to introduce a total of both investments and working capital on the objective of re-empowerment of Micro, Small and Medium Enterprises.
+
+Appointment of the crisis through 15 participating microfinance and medium scale enterprises, including the licensed commercial banks and licensed specialized banks, including a concessionary interest rate.These loans will be provided under two parts.
+
+For this purpose, the Ministry of Industries will issue a capacity to eligible and promote financial assistance and recommend letters to the eligible micro, small and medium scale enterprises.
+
+A sum of Rs. 13 billion has been allocated to a maximum limit of Rs.
+
+A sum of Rs.
 
 ...
 
 [Data](articles/cd0c4dd6.json)
+
+[Extended Data](ext_articles/cd0c4dd6.ext.json)
 
 ---
 
@@ -2091,97 +2181,5 @@ Several companies had begun reporting interim results. “LIOC posted a profit o
 [Data](articles/d2def37e.json)
 
 [Extended Data](ext_articles/d2def37e.ext.json)
-
----
-
-### Eastern Province Governor Senthil Thondaman gave permanent appointment to more than 1350 local government employees!
-
-*2024-07-18 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188781) · `ta`
-
-Governor Senthil Thondaman granted permanent positions to over 1350 local government workers in the Eastern Province, addressing a long-standing demand after more than a decade of temporary employment. This significant move, particularly impacting employees in the Ampara District, was praised by local government staff and Members of Parliament for its swift resolution to a persistent issue.
-
-🟩
-
-In the Eastern Provincial Councils, employees who have been working in temporary appointments for more than 10 years have made demands to the governors and various parties on their permanent appointments.
-
-While they have not taken any successful action, the concerned employees have brought to the notice of Senthil Thondaman, the Governor of the Eastern Province and the President of the Eastern Province, on the issues facing the lack of permanent appointment.
-
-Governor Senthil Thondaman promised to bring the Prime Minister to the notice of the Prime Minister and find a proper solution.
-
-Governor Senthil Thondaman was prepared by the relevant documents and more than 1350 employees were given permanent appointments in a single day. The first phase of the appointment was made to the Ampara District.
-
-...
-
-[Data](articles/4043b230.json)
-
-[Extended Data](ext_articles/4043b230.ext.json)
-
----
-
-### Criminal gang member “Piyuma” remanded
-
-*2024-07-18 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100602/criminal-gang-member-piyuma-remanded) · `en`
-
-The Fort Magistrate’s Court has ordered for underworld criminal gang member Piyum Hasthika alias “Piyuma” to be remanded in custody until July 31.
-
-This order was issued when the suspect, who was detained under the custody of the Criminal Investigations Department (CID) after being repatriated to Sri Lanka from Dubai, was produced before the court today (18).
-
-Piyum Hasthika alias “Piyuma”, who is reportedly the main accomplice of the notorious underworld figure and drug trafficker Salindu Malshika Gunaratne alias “Kudu Salindu,” was repatriated to Sri Lanka from Dubai, UAE on February 15, 2024.
-
-Subsequently, the CID secured detention orders under the Prevention of Terrorism Act (PTA) to interrogate the suspect.
-
-According to Sri Lanka Police, “Piyuma” was first arrested in 2018 for the possession of 20g of heroin and had been referred to a rehabilitation centre for three months.
-
-...
-
-[Data](articles/01d978e2.json)
-
-[Extended Data](ext_articles/01d978e2.ext.json)
-
----
-
-### Target given to Jaffna to Jaffna
-
-*2024-07-18 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198955) · `si`
-
-In the first round of the Sri Lanka Premier League's semi-finals, Jaffna Kings made 177 runs losing 7 wickets.
-
-🟩
-
-The first round of the Sri Lanka Premier League is the first round of the semi-finals.
-
-Jarfna Kings scored 177 runs for the loss of 7 wickets in their bowls.
-
-◼️
-
-[Data](articles/15ae877d.json)
-
-[Extended Data](ext_articles/15ae877d.ext.json)
-
----
-
-### The purpose of the government is to provide permanent land and housing rights to the hill country!
-
-*2024-07-18 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/188766) · `ta`
-
-The Sri Lankan government, led by President Ranil Wickremesinghe, aims to grant permanent land and housing rights to residents of hill country areas, including plantation workers. This initiative involves designating certain regions as new migrant villages. The proposal, which received cabinet approval, emphasizes the importance of securing land rights for all inhabitants during this process. Key stakeholders, including various ministers and MPs, were involved in discussions to finalize the plan, ensuring consultation with local plantation companies and representation from all relevant parties.
-
-🟩
-
-The Cabinet has approved the proposal put forward by President Ranil Wickremesinghe to identify the areas where plantation people live and declare the area as new migrant villages.
-
-A discussion on its future activities was held yesterday (17) at the Presidential Office headed by President Ranil Wickremesinghe.
-
-President Ranil Wickremesinghe said that the government's expectation is to provide permanent land and housing rights to the people who include villages, cities and plantations.
-
-The policy agreement of all parties was revealed because it was a very important and timely proposal to make legal arrangements to legally declare the plantation people -controlled areas of the state plantation company and local plantation companies as new villages.
-
-Pointing out that it is imperative to ensure the land rights of all the people living in the hill country while implementing the proposal, MP Mano Ganesan handed over the proposal to the President.
-
-...
-
-[Data](articles/af14ba49.json)
-
-[Extended Data](ext_articles/af14ba49.ext.json)
 
 ---

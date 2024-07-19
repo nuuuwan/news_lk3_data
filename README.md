@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 23:55:18**
+As of **2024-07-20 00:08:04**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 6,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,179 (100.0%) of 36,186 articles have been extended.
+36,186 (100.0%) of 36,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### பங்களாதேஷ் சிறையில் தீ: கைதிகள் தப்பி ஓட்டம்
+### Bangladesh Prison Fire: Prisoners escape
 
 *2024-07-19 23:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-சிறையில்-தீ-கைதிகள்-தப்பி-ஓட்டம்/50-340700) · `ta`
 
-இதனால் ஏற்பட்டுள்ள வன்முறையில் 39 மாணவர்கள் உயிரிழந்துள்ளனர். பொலிஸார் உட்பட நூற்றுக்கும் மேற்பட்டோர் படுகாயம் அடைந்துள்ளனர்.
+In Bangladesh, a prison fire caused by inmates led to chaos, resulting in 39 student deaths and over 100 injuries. Protesters were also targeted in public areas, prisons, and buildings. The incident occurred in the Nursingti district, where more than 100 prisoners escaped.
 
-மேலும் போராட்டக்காரர்களால் பொது இடங்கள், சிறைச்சாலை, கட்டடங்கள் என பல பகுதிகளிலும் தீ வைக்கப்பட்டது.
+🟩
 
-பங்களாதேஷின் மத்திய பகுதியில் உள்ள நர்சிங்டி மாவட்டத்தில் உள்ள சிறைச்சாலைக்குப் போராட்டக்காரர்கள் தீ வைத்தனர். இதனைப் பயன்படுத்தி சிறையிலிருந்து 100 இற்கும் மேற்பட்ட கைதிகள் தப்பி ஓடியுள்ளனர். (a)
+39 students have died in the violence.. More than one hundred people, including the police, were injured.
+
+Moreover, the protesters were set on fire in public places, prisons and buildings.
+
+Prisoners set fire to a prison in Nursingti district in the central part of Bangladesh. More than 100 prisoners have fled from prison using this. (A)
 
 ◼️
 
 [Data](articles/a20d1e42.json)
 
+[Extended Data](ext_articles/a20d1e42.ext.json)
+
 ---
 
-### யாழில் இருந்து கதிர்காமம் சென்ற பஸ் விபத்துக்குள்ளானது
+### The bus from Jaffna to Kadirgamam crashes
 
 *2024-07-19 23:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-இருந்து-கதிர்காமம்-சென்ற-பஸ்-விபத்துக்குள்ளானது/71-340699) · `ta`
 
-யாழ்ப்பாணத்தில் இருந்து கதிர்காமம்  நோக்கி A15 திருகோணமலை - மட்டக்களப்பு பிரதான வீதி வழியாக பயணித்த பஸ் ஒன்று, இன்று மாலை கெங்கைத்துறை பாலம் அருகே தடம்புரண்டு விபத்துக்குள்ளானது.
+A bus en route from Jaffna to Kadirgamam crashed near Kengithurai Bridge on the A15 road, causing an accident.
+
+🟩
+
+A bus traveling from Jaffna to Kadirgamam to Kadirgamam, a bus traveling along the A15 Trincomalee - Batticaloa main road, crashed near the Kengithurai Bridge this evening.
 
 ◼️
 
 [Data](articles/1cfddbe2.json)
+
+[Extended Data](ext_articles/1cfddbe2.ext.json)
 
 ---
 
@@ -652,6 +664,8 @@ Commercial Bank’s sustainable bond framework was developed with technical assi
 
 [Data](articles/07def392.json)
 
+[Extended Data](ext_articles/07def392.ext.json)
+
 ---
 
 ### A message to vendors from the government
@@ -876,6 +890,8 @@ Reports said Microsoft systems were hit by an outage which had a cascading effec
 
 [Data](articles/48259f5f.json)
 
+[Extended Data](ext_articles/48259f5f.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 303.55/65 to US dollar
@@ -895,6 +911,8 @@ A bond maturing on 15.09.2029 closed at 12.00/10 percent, up from 12.00/05 perce
 ◼️
 
 [Data](articles/0856a0b6.json)
+
+[Extended Data](ext_articles/0856a0b6.ext.json)
 
 ---
 
@@ -993,6 +1011,8 @@ Investor interest was seen in Distilleries Company of Sri Lanka Plc (Rs94mn) and
 ...
 
 [Data](articles/c8a5b023.json)
+
+[Extended Data](ext_articles/c8a5b023.ext.json)
 
 ---
 
@@ -1267,6 +1287,8 @@ Opposition parties and lawyers have charged that the legal process involving cha
 ◼️
 
 [Data](articles/3334d8f0.json)
+
+[Extended Data](ext_articles/3334d8f0.ext.json)
 
 ---
 

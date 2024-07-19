@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 11:20:15**
+As of **2024-07-19 11:35:55**
 
 ## Newspaper Stats
 
-*Scraped **36,080** Articles*
+*Scraped **36,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,051
 economynextcom | 2,151
 dailyftlk | 2,304
-adalk | 3,260
+adalk | 3,262
 adaderanalk | 4,161
-tamilmirrorlk | 4,384
+tamilmirrorlk | 4,387
 dailymirrorlk | 4,733
 virakesarilk | 5,629
 adaderanasinhalalk | 6,034
@@ -26,11 +26,83 @@ adaderanasinhalalk | 6,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,080 (100.0%) of 36,080 articles have been extended.
+36,080 (100.0%) of 36,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### උඩරට දුම්රිය ධාවනයට බාධා
+
+*2024-07-19 11:13:17* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-410868) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ පටිටිපොල සහ  ඔහිය දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයට අද (19) උදෑසන විශාල ටර්පන්ටයින් ගස් කඩා වැටීමෙන් බදුල්ල කොළඹ කොටුව දුම්රිය ධාවනයට බාධා සිදුව ඇති බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි .
+
+දුම්රිය මාර්ගයට විශාල ගස් කඩා වැටී තිබෙන බව දුර දී දැක ඇති  බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ අංක 1016 දරන උඩරට මැණිකේ  දුම්රිය රියදුරු ධාවනය වෙමින් තිබූ දුම්රිය නවතා ගෙන විශාල අනතුරක් වලකාගත් බවද එම දුම්රියේ ගමන් ගත් මගීන් පැවැසීය.
+
+ඔහිය ඉදල්ගස්හින්න ප්‍රදේශයේ පවතින අධික  සුලං තත්ත්වයත් සමග අද (19) උදෑසන මෙසේ උඩරට දුම්රිය මාර්ගයේ පටිටිපොල ඔහිය දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයට විශාල ටර්පන්ටයින් ගස් කඩා වැටී මාර්ගය අවහිර වී ඇති බවත් එම විශාල ටර්පන්ටයින් ගස් කපා ඉවත් කිරිමට කටයුතු සිදු කරන බවද නාවලපිටිය දුම්රිය පාලක මැදිරිය  වැඩිදුරටත් සදහන් කළේය .
+
+මේ නිසාවෙන් බදුල්ල කොළඹ කොටුව දුම්රිය ධාවනය ප්‍රමාද වන බවත් දුම්රිය දෙපාර්තමේන්තුවේ ප්‍රකාශයකු පැවසීය.
+
+◼️
+
+[Data](articles/3e181579.json)
+
+---
+
+### முட்டை விலையில் கொள்ளை இலாபம்?
+
+*2024-07-19 11:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-கொள்ளை-இலாபம்/175-340679) · `ta`
+
+முட்டையொன்றின் ஊடாக உற்பத்தியாளர்கள் 25 ரூபாய் என்ற நியாயமற்ற இலாபம் பெறுவதாக அகில இலங்கை முட்டை வர்த்தகர்கள் குற்றம் சாட்டியுள்ளது.
+
+தற்போது முட்டை ஒன்றை உற்பத்தி செய்வதற்கான செலவு சுமார் 20 ரூபாய் என, சங்கத்தின் தலைவர் அனுர மாரசிங்க குறிப்பிட்டுள்ளார்.
+
+பண்ணைகளில் முட்டையின் மொத்த விலை 45 ரூபாய் தொடக்கம் 50 ரூபாய் வரையில் காணப்படுவதாக அவர் கூறியுள்ளார்.
+
+இவ்வாறான அதிக விலைக்கு வியாபாரிகள் கொள்வனவு செய்ய வேண்டிய நிலை  காரணமாகவே சந்தையில் முட்டை ஒன்றின் விலை தற்போது 50 ரூபாயைத் தாண்டியுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2f3f01b3.json)
+
+---
+
+### கடவுச்சீட்டு அலுவலகம் முன் பரபரப்பு
+
+*2024-07-19 10:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-அலுவலகம்-முன்-பரபரப்பு/175-340678) · `ta`
+
+கடவுச்சீட்டு விண்ணப்பதாரர்களின் வசதிக்காக இன்று (19) முதல் புதிய முறைமையின் மூலம் கடவுச்சீட்டு விண்ணப்பம் வழங்கப்படும் என குடிவரவு மற்றும் குடியகல்வு திணைக்களம் கடந்த 17ஆம் திகதி அறிவித்திருந்தது.
+
+அதன்படி, ஒரு விண்ணப்பதாரர் புதிய கடவுச்சீட்டைப் பெற அல்லது புதுப்பிக்க www.immigration.gov.lk இணையத்தளத்தின் மூலம் திகதி மற்றும் நேரத்தை ஒதுக்க வேண்டும்.
+
+குடிவரவு மற்றும் குடியகல்வு திணைக்களம் வெளியிட்டுள்ள அறிவிப்பின் படி, இது ஒரு நாள் சேவை மற்றும் பொது சேவை ஆகிய இரண்டிற்கும் செல்லுபடியாகும்.
+
+இவ்வாறானதொரு பின்னணியில் இன்று காலை பத்தரமுல்லையில் உள்ள குடிவரவு குடியகல்வு திணைக்கள அலுவலகத்திற்கு கடவுச்சீட்டுகளை பெற்றுக் கொள்வதற்காக மக்கள் வந்திருந்தனர்.
+
+இதன்போது? குறிப்பிட்ட திகதி மற்றும் நேரத்தில் வந்தவர்களுக்கு மட்டுமே வாய்ப்பு வழங்கப்படும் என அறிவிக்கப்பட்டதால் பரபரப்பு ஏற்பட்டது.
+
+இதன் காரணமாக குடிவரவு குடியகல்வு திணைக்களத்திற்கு முன்பாக நீண்ட வரிசைகளும் நெரிசலும் காணப்பட்டதுடன் பொலிஸாருக்கும் கலகத் தடுப்புப் பிரிவினருக்கும் அங்கு அழைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/7fe77332.json)
+
+---
+
+### கடவுச்சீட்டுக்கு விண்ணப்பிக்க முன்பதிவு அவசியம்
+
+*2024-07-19 10:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்கு-விண்ணப்பிக்க-முன்பதிவு-அவசியம்/175-340677) · `ta`
+
+கடவுச்சீட்டுக்கு விண்ணப்பிக்கும் போது இணையவழியில் முன் பதிவு செய்வது அவசியமானது எனவும் இன்று (19) முதல் இந்த புதிய முறை அமுலுக்கு வருவதாகவும் குடிவரவு மற்றும் குடியகல்வு திணைக்களம் தெரிவித்துள்ளது.
+
+இணையவழி பதிவு முறையின் மூலம் முதலில் திகதி மற்றும் நேரத்தை ஒதுக்காமல் திணைக்களத்துக்குச் சென்று கடவுச்சீட்டைப் பெற முடியாது என்று திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6c9f5f0c.json)
+
+---
 
 ### Prior online registration required to apply for passports from today
 
@@ -40,7 +112,13 @@ The Department of Immigration and Emigration says that prior online registration
 
 The department further stated that it is no longer possible to obtain a passport by visiting the department without first being assigned a date and time through the online registration system.
 
-◼️
+Accordingly, an applicant must reserve a date and time through the http://www.immigration.gov.lk/ website to obtain or renew a passport.
+
+This requirement applies to both the one-day service and the general service.
+
+However, despite this new system being launched from today (19), a large number of people had arrived at the Immigration and Emigration Department office in Battaramulla this morning to obtain passports without making such reservations.
+
+...
 
 [Data](articles/35d0747e.json)
 
@@ -87,6 +165,22 @@ He also said that the law is strictly implemented to prevent the activities of t
 [Data](articles/e1a1ff9d.json)
 
 [Extended Data](ext_articles/e1a1ff9d.ext.json)
+
+---
+
+### චීනයේ දොරටු ඉදිරියටත් වඩාත් පුළුල්ව ලෝකයා වෙත විවෘතයි!
+
+*2024-07-19 10:22:17* · [`adalk`](https://www.ada.lk/opinion/චීනයේ-දොරටු-ඉදිරියටත්-වඩාත්-පුළුල්ව-ලෝකයා-වෙත-විවෘතයි-/2-410866) · `si`
+
+ආසන්න කාලසීමාවේදී ආර්ථික ගෝලීයකරණය වෙත එල්ල වූ දරුණුතම බලපෑමක් වූයේ ප්‍රති-ගෝලීයකරණය (anti-globalization) පිළිබඳ වන මතවාදයයි. එහිදී ඇතැම් බටහිර රාජ්‍යයන් අනුගමනය කළ ප්‍රාග්ධනය, කර්මාන්ත සහ රැකියා නැවතත් සිය රට වෙතට ගෙන්වා ගැනීමේ ප්‍රතිපත්ති මෙන්ම, 'ජාතික ආරකෂාව' මූලික කරගනිමින් විදේශීය ව්‍යවසායන් ප්‍රතික්ෂේප කිරීමත් ඊට හේතු විය.
+
+ඊටත් අමතරව ඇතැම් බටහිර මාධ්‍යයන් මගින් චීනයේ විවෘතවීම පිළිබඳව බොහෝ චෝදනා එල්ල කළ අතර, චීනයේ වෙළෙඳ පොළ තත්ත්වයන් පිළිබඳ අවබෝධයද ප්‍රතික්ෂේප කළේය. කෙසේ වෙතත් මෙහි ඇති ගැටලුව වන්නේ චීනය කොපමණ ප්‍රමාණයකින් විවෘත වී ඇත්ද යන්න නොවේ, ඉන් පෙන්නුම් කරන්නේ චීනය කිසිදු ලෙසකින්වත් බටහිර අවශ්‍යතාවන් සම්පූර්ණ නොකරන බවයි.
+
+නැත. පහත දත්ත දෙස බැලීමේදී එය අසත්‍යයක් බව මනාව තේරුම් යයි.  චීනය මේ වනවිට ලොව විශාලතම භාණ්ඩ ගනුදෙනු රාජ්‍යය ලෙස පිටපිට හත්වැනි වසරටත් පළමු ස්ථානයට පත්ව සිටියි. 2024 වසරේ පළමු අර්ධය වනවිට චීනයේ මෝටර් රථ, නෞකා, සහ පරිපථ ඇතුළු නිෂ්පාදනවල අපනයන වටිනාකම් පෙර වසරේ එම කාලයට සාපේක්ෂව පිළීවෙලින් 22.2%ක්, 91.1%ක් සහ 25.6%ක් ලෙස වරධනය වී තිබේ.
+
+...
+
+[Data](articles/e4e0397d.json)
 
 ---
 
@@ -2107,125 +2201,5 @@ A sum of Rs.
 [Data](articles/cd0c4dd6.json)
 
 [Extended Data](ext_articles/cd0c4dd6.ext.json)
-
----
-
-### The modernization of education is discussed to seek assistance in UNESCO
-
-*2024-07-18 19:50:43* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපනයේ-නවීකරණයට-යුනෙස්කෝවේ-සහාය-ලබා-ගැනීමට-සාකච්ඡා-කරනවා/11-410862) · `si`
-
-Sri Lanka seeks UNESCO aid for its education modernization, focusing on AI integration. President Ranil Wickremesinghe emphasizes the importance of advanced education for the nation's future, highlighting efforts during his visit to Buduruwagala Maha Vidyalaya. He praises the student parliament's role in fostering leadership skills and notes the significance of the Presidential Secretariat's history.
-
-🟩
-
-President Ranil Wickremesinghe said that the assistance of the UNESCO's education sector is being discussed for the extensive modernization program in the education sector in Sri Lanka.
-
-The President said that the children of Sri Lanka will be created in the country and provides an advanced education system including artist intelligence (AI) and provides opportunities to the country to proceed with the modern world.
-
-President Ranil Wickremesinghe was speaking at the Presidential Secretariat yesterday (17) at the Parliament of Buduruwagala Maha Vidyalaya, Moneragala.
-
-President Ranil Wickremesinghe arrived at Buduruwagala Maha Vidyalaya in Moneragala, the student parliamentary parliamentary parliamentary session of the school was held at the Presidential Secretariat.
-
-The students also thanked the President on the basis of the President's promise of a promise of a promise to the students and to the college to the college.
-
-...
-
-[Data](articles/f3a8f2fe.json)
-
-[Extended Data](ext_articles/f3a8f2fe.ext.json)
-
----
-
-### Sri Lanka is a cyber topple and Rs.. 5000 crores to China
-
-*2024-07-18 19:41:03* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-සයිබර්-තිප්පොලක්-කරගෙන-ලංකාව-හරහා-රු--කෝටි-5000ක්-චීනයට-යවලා/11-410861) · `si`
-
-Sri Lanka's CID investigates cyber crimes involving Rs. 5000 crores transferred to China. Suspects, including 37 foreigners and 34 locals, are remanded. The case involves alleged fraud, use of Dubai bank accounts, and rental of a hotel in Negombo.
-
-🟩
-
-The Finance Criminal Investigation Division of the Criminal Investigation Department (CID) Criminal Investigations Division has been sent down on the Internet that the Sri Lankan criminals have been sent to China and have been sent to China..
-
-The Criminal Investigation Team has said that the specialist teams of China and Singapore have confirmed that the specialist teachers of the Chinese and Singapore who have commenced against foreign suspects against foreign suspects against foreign suspects in connection with the Internet.
-
-The CID has further stated that it has been asked to support the investigations into the investigations into the investigation into the investigation into the incident.
-
-They were identified by persons who claimed to have paid Rs.
-
-The two Sri Lankans and 34 Sri Lankans have been remanded before the incident when the complaint had been paid to the incident.
-
-...
-
-[Data](articles/1aceff24.json)
-
-[Extended Data](ext_articles/1aceff24.ext.json)
-
----
-
-### The club club is the debtor for the spring country
-
-*2024-07-18 19:30:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-நாட்டுக்கே-கடனாளி/175-340644) · `ta`
-
-Dr. Ales, the Minister of Public Defense, stated that no disciplinary actions will be taken against authorities implicated in the arrest of a media owner linked to the assassination of businessman Surendra Vasantha Perera. He emphasized that the Deputy Inspector General of Police, leading a group seen in a video, will face no repercussions for their actions. The minister clarified that only two individuals remain at large among those involved in the shooting incident. Despite financial difficulties and widespread social media attention, the minister assured that the club's businesses are bankrupt, and it owes money to the country.
-
-🟩
-
-The Minister of Public Defense, Dr. Ales, said that no disciplinary action or inquiries will be carried out against the authorities, including the Deputy Inspector General of Police, accused of the Media owner of the tattoo, who was arrested in connection with the assassination of businessman Surendra Vasantha Perera, who was shot dead in Athurugiriya.
-
-Video of a group headed by a team led by the Deputy Inspector General of Police of the Western Province. Responding to a question whether action would be taken against the police officers in this regard, Minister Tran Ales said, “He has warned that he should not repeat this mistake.
-
-He said he did not work with the Inspector General of Police to take action against the police officers.
-
-He added that everyone except two people have been arrested in connection with the shooting incident.When the club was shot dead, he was lending all over the country. The minister said he had no money in his hand.
-
-...
-
-[Data](articles/a0bc2e67.json)
-
-[Extended Data](ext_articles/a0bc2e67.ext.json)
-
----
-
-### Onamax DT. Director of the Buddhajaya. Banned a land of two crores
-
-*2024-07-18 19:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්මැක්ස්-ඩී-ටී--අධ්‍යක්-ධනංජයගේ-රු--කෝටි-දෙකක-ඉඩමක්-තහනම්-කරයි/11-410859) · `si`
-
-Onamax DT, director of the Buddhajaya Institute, banned two and a half acres of land in Attanagalla valued at over Rs. 2 crore due to concerns about illegal activities and fraud involving pyramid schemes and misuse of funds. The magistrate reported this action to the court, aiming to transfer all institute properties to the court to resolve legal issues.
-
-🟩
-
-"OnamxThe Director of the Institute Dananjaya banned two and a half acres of land in Attanagalla worth Rs. 2 a half acres of land worth over Rs.
-
-"Onamx DT"The Magistrate for banned the Attanagalla land reported to the court on the previous day to conquer all the property of the Institute to the court on the previous day to conclude the information in the courts.
-
-Taking care of illegal pyramidara and fraudulent money from the money obtained by the people. "After considering the materials of the Institute, the company has purchased property and hinds of the money and hung the money.
-
-◼️
-
-[Data](articles/511718df.json)
-
-[Extended Data](ext_articles/511718df.ext.json)
-
----
-
-### A man abducted at home
-
-*2024-07-18 19:24:17* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්ගතව-සිට-පැමිණි-පුද්ගලයෙක්-නිවසට-යන-විට-පැහැර-ගනියි/11-410858) · `si`
-
-A Sri Lankan man recently returned from Kuwait was kidnapped near his village but later found in Narammala. Four suspects were arrested by the STF, though the motive remains unclear as the Ridigama Police continue investigating.
-
-🟩
-
-A Sri Lankan who arrived from Kuwait from Kuwait has been abducted by a group at Kepppitigala road while he was traveling to their village premises.
-
-However, the abducted man was found abducted in the Narammala Police Division last evening and the four suspects have been arrested by the STF.
-
-The police media spokesman's office said that the cause of the abduction is not committed and that Ridigama Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/f6e0dd6f.json)
-
-[Extended Data](ext_articles/f6e0dd6f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 20:35:39**
+As of **2024-07-19 20:54:40**
 
 ## Newspaper Stats
 
-*Scraped **36,162** Articles*
+*Scraped **36,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,65 @@ adaderanalk | 4,176
 tamilmirrorlk | 4,392
 dailymirrorlk | 4,733
 virakesarilk | 5,653
-adaderanasinhalalk | 6,050
+adaderanasinhalalk | 6,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,161 (100.0%) of 36,162 articles have been extended.
+36,162 (100.0%) of 36,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### ක්ලබ් වසන්ත ගේ ඝාතකයින් මාස 6ක් රැඳී සිටි තැන
+### හිඟුරක්ගොඩ ට ජාත්‍යන්තර ගුවන්තොටුපොළක්
+
+*2024-07-19 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198996) · `si`
+
+ශ්‍රී ලංකාවේ ඉපැරණි ගුවන්තොටුපොළක් වන හිඟුරක්ගොඩ අභ්‍යන්තර ගුවන්තොටුපොළ ජාත්‍යන්තර ගුවන් මෙහෙයුම් සඳහා නවීකරණය කිරීමට අවශ්‍ය ඉදිකිරීම් කටයුතු අද (19) ආරම්භ කෙරුණි.
+
+වරාය, නාවික සහ ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් එය සිදු විය.
+
+මෙරට 5 වැනි ජාත්‍යන්තර ගුවන්තොටුපොළ වන මෙහි ධාවන පථයේ සංවර්ධන කටයුතු මාස 6ක් තුළ නිම කිරීමට සැලසුම් කර ඇති අතර සමස්ත සංවර්ධන කටයුතු සඳහා වැයවන මුදල රුපියල් බිලියන 17කි.
+
+◼️
+
+[Data](articles/9a63f9ba.json)
+
+---
+
+### Club Wasantha's murderers stayed for 6 months
 
 *2024-07-19 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198995) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය කිරීම සඳහා පැමිණි වෙඩික්කරුවන් දෙදෙනා හඳුනාගෙන ඇතැයි පොලීසිය පවසයි.
+Two shooters hired for six months killed Club Wasantha, whose real name was Suresantra Wasantha Perera, on July 8th. The police arrested seven suspects, including a woman, and are planning more arrests. The shooters, former security personnel, were paid six million rupees.
 
-එමෙන්ම පොලිස් ආරංචි මාර්ග පැවසුවේ අදාළ ඝාතනයට සම්බන්ධ කාන්තාවක් ඇතුළු තවත් පුද්ගලයන් කිහිපදෙනෙකු අත්අඩංගුවට ගැනීමට නියමිත බවය.
+🟩
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත අතුරුගිරියේදී වෙඩි තබා ඝාතනය කෙරුණේ ඉකුත් ජූලි 8 වනදාය.
+The two shooters who had come to assassinate Club Wasantha alias Sadhrandra have been identified.
 
-ඒ අනුව විමර්ශන සිදුකළ පොලීසිය සැකකරුවන් 7 දෙනෙකු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව ජූලි 22 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+The police sources said that several other persons, including a woman, is to be arrested.
 
-අනතුරුව දීර්ඝ විමර්ශනයක් සිදුකළ පොලීසිය ඝාතනයට සම්බන්ධ කාන්තාවක් ඇතුළු තවත් සැකකරුවන් කිහිපදෙනෙකු පිළිබඳව අනාවරණ කරගෙන තිබේ.
+Suresantra Wasantha Perera, or Club was shot dead in July 8.
 
-වැඩිදුර පොලිස් විමර්ශනවලදී අනාවරණ වී ඇත්තේ, ඝාතනයෙන් අනතුරුව වෙඩික්කරුවන්ට පළායෑම වෙනුවෙන්ම විශේෂ බස් රථයක් සූදානම් කර තිබී ඇති අතර ඔවුන් එමගින් පළාගොස් ඇති බවය.
+Accordingly, the police arrested seven suspects and remanded until July 22 after being produced before court.
 
-වෙඩික්කරුවන් දෙදෙනා හිටපු ආරක්ෂක අංශ සාමාජිකයන් බවද පොලීසිය අනාවරණ කරගෙන තිබේ.
+The police had conducted a lengthy investigation and revealed some of the other suspects, including a woman involved in the murder.
 
-ඔවුන් දෙදෙනා ඇතුළු පිරිස මාස 6ක කාලයක් සඳහා රුපියල් ලක්ෂ 6ක මුදලක් ලබාදී අතුරුගිරිය ප්‍රදේශයෙන් කුලී නිවසක්ද ලබාගෙන සිට ඇති බව පොලිස් ආරංචි මාර්ග පවසයි.
+After the assassination, a special bus had been prepared for the exploitation of shot after the assassination.
 
-...
+The police have revealed that the two shooters were former security former security former security.
+
+The two of them were also obtained from the Athurugiriya area for six million rupees for a period of 6 months.
+
+Further investigations are conducted on the direct advice of the Western Province Gaanga Marapana.
+
+◼️
 
 [Data](articles/51200f03.json)
+
+[Extended Data](ext_articles/51200f03.ext.json)
 
 ---
 
@@ -2371,25 +2395,5 @@ The 22-year-old resident of Panadura has died on admission to the Karapitiya Hos
 [Data](articles/87065b95.json)
 
 [Extended Data](ext_articles/87065b95.ext.json)
-
----
-
-### Prevailing windy conditions likely to continue - Met. Department
-
-*2024-07-19 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100610/prevailing-windy-conditions-likely-to-continue-met-department) · `en`
-
-The Meteorology Department says the prevailing windy conditions over the island are expected to continue further, due to the active South-west Monsoonal condition.
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Strong winds of about 50-60kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts, it said.
-
-Fairly strong winds about 30-40kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/51488f1f.json)
-
-[Extended Data](ext_articles/51488f1f.ext.json)
 
 ---

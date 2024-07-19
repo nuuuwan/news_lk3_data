@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 00:52:28**
+As of **2024-07-20 01:05:26**
 
 ## Newspaper Stats
 
-*Scraped **36,193** Articles*
+*Scraped **36,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 355
 newsfirstlk | 363
 islandlk | 2,052
 economynextcom | 2,165
-dailyftlk | 2,307
+dailyftlk | 2,314
 adalk | 3,267
 adaderanalk | 4,178
 tamilmirrorlk | 4,397
@@ -26,25 +26,129 @@ adaderanasinhalalk | 6,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,191 (100.0%) of 36,193 articles have been extended.
+36,193 (100.0%) of 36,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### மூதூர் விபத்தில் 52 யாத்திரிகர்கள் காயம்
+### Foreign Minister engages in bilateral talks with Romania to enhance relations
+
+*2024-07-20 00:46:34* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-engages-in-bilateral-talks-with-Romaniato-enhance-relations/56-764517) · `en`
+
+Foreign Minister Ali Sabry concluded an official visit to Romania from 15 to 18 July 2024 at the invitation of Minister of Foreign Affairs of Romania, Luminiţa Odobescu.
+
+The two Foreign Ministers had bilateral talks and the discussions marked a significant milestone in the longstanding relations between the two countries with a view to further enhancing the partnership, and also in the context of Romania as an EU member state.
+
+Minister Sabry outlined Sri Lanka’s recent developments including in the economic stabilisation process with a focus on growth, and the progress made under the ongoing reconciliation endeavours. Foreign Minister Odobesco spoke of the development drive taking place in Romania and the potential for mutually reinforcing engagement with third countries.
+
+...
+
+[Data](articles/ebf2fe83.json)
+
+---
+
+### New Vice Chancellor appointed to Peradeniya University
+
+*2024-07-20 00:45:58* · [`dailyftlk`](https://www.ft.lk/news/New-Vice-Chancellor-appointed-to-Peradeniya-University/56-764516) · `en`
+
+President Ranil Wickremesinghe has appointed Professor W.M.T. Madhujith to the post of Vice Chancellor of the University of Peradeniya with effect from 1 August, President’s Media Division (PMD) said.
+
+He was appointed in terms of Section 34(1) (a) of the Universities Act for a period of three (03) years.
+
+◼️
+
+[Data](articles/520b29d1.json)
+
+---
+
+### DIE says prior online registration required to apply for passports
+
+*2024-07-20 00:45:13* · [`dailyftlk`](https://www.ft.lk/news/DIE-says-prior-online-registration-required-to-apply-for-passports/56-764515) · `en`
+
+The Department of Immigration and Emigration (DIE) said yesterday that prior online registration is now required when applying for a Sri Lankan passport with the new methodology.
+
+The Department further stated that it is no longer possible to obtain a passport by visiting the department without first being assigned a date and time through the online registration system.
+
+An applicant must reserve a date and time through the http://www.immigration.gov.lk/ website to obtain or renew a passport.
+
+This requirement applies to both the one-day service and the general service.
+
+However, despite this new system being launched yesterday, a large number of people had arrived at the Immigration and Emigration Department office in Battaramulla this morning to obtain passports without making such reservations.
+
+...
+
+[Data](articles/7e8fcc34.json)
+
+---
+
+### 52 pilgrims injured in Muttur accident
 
 *2024-07-20 00:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூதூர்-விபத்தில்-52-யாத்திரிகர்கள்-காயம்/175-340705) · `ta`
 
-யாழ்ப்பாணத்தில் இருந்து கதிர்காமம் நோக்கி யாத்திரிகர்களை ஏற்றிச் சென்ற பேருந்து ஒன்று மூதூர் பகுதியில் வீதியை விட்டு விலகி கவிழ்ந்ததில் 52 யாத்திரிகர்கள் காயமடைந்துள்ளனர்
+In a crash near Muttur, 52 pilgrims were hurt as their bus from Jaffna to Kadirgamam overturned. Of 59 passengers, 52 were taken to Muttur hospital, including two with severe hand injuries.
 
-விபத்தின் போது பேருந்தில் பயணித்த 59 பேரில் 52 பேர் காயமடைந்து மூதூர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+🟩
 
-50 பேர் சிறு காயங்களுக்கு உள்ளாகியுள்ளதாகவும், இருவர் கைகளில் பலத்த காயங்களுக்கு உள்ளாகியுள்ளதாகவும் வைத்தியசாலை வட்டாரங்கள் சுட்டிக்காட்டியுள்ளன
+52 pilgrims were injured when a bus carrying pilgrims from Jaffna to Kadirgamam crashed into a road in Muttur area.
+
+Of the 59 people who were traveling in the bus during the accident, 52 were injured and admitted to the Muttur hospital.
+
+Hospital sources have pointed out that 50 people were injured and two were severely injured in their hands.
 
 ◼️
 
 [Data](articles/94485bb9.json)
+
+[Extended Data](ext_articles/94485bb9.ext.json)
+
+---
+
+### Pathfinder Foundation participates in third Bay of Bengal Economic Dialogue
+
+*2024-07-20 00:21:53* · [`dailyftlk`](https://www.ft.lk/business/Pathfinder-Foundation-participates-in-third-Bay-of-Bengal-Economic-Dialogue/34-764514) · `en`
+
+The third Bay of Bengal Economic Dialogue participants of “New World Order and BIMSTEC: Curtain Raiser to the Sixth BIMSTEC Summit”
+
+SAWTEE Executive Director Dr. Paras Kharel, Pathfinder Foundation Executive Director Dr. Dayaratna Silva, and Dhaka University Executive Director Dr. Selim Raihan
+
+The third Bay of Bengal Economic Dialogue concluded successfully at Chulalongkorn University, Thailand, centred around the theme “New World Order and BIMSTEC: Curtain Raiser to the Sixth BIMSTEC Summit.”
+
+...
+
+[Data](articles/1c4c0d67.json)
+
+---
+
+### Dialog enhances accessibility for deaf community at customer care centres through DeafTawk services
+
+*2024-07-20 00:20:46* · [`dailyftlk`](https://www.ft.lk/business/Dialog-enhances-accessibility-for-deaf-community-at-customer-care-centres-through-DeafTawk-services/34-764513) · `en`
+
+Dialog Axiata Sustainability Head and Group Chief Risk and Compliance Officer Asanga Priyadarshana, Sri Lanka Deaf Rehabilitation Organisation Secretary Thusitha Kumara Vijayaranga, Dialog Axiata Group Chief Customer Officer Sandra De Zoysa, GSMA Mobile for Humanitarian Innovation Strategic Partnerships Director Dulip Tillekeratne, and Sign Language Interpreter Chamara Sandakelum together with representatives of Dialog
+
+Dialog Axiata PLC, Sri Lanka’s number one connectivity provider, has introduced DeafTawk interpreter services at its customer care centres islandwide, a move poised to enhance the accessibility and user-friendliness of its services to the deaf community.
+
+Highlighting the company’s unwavering dedication to enhancing outreach for Persons with Disabilities (PWDs), this initiative aligns with the GSMA Assistive Tech program, which drives inclusivity by improving access and use of mobile technologies and related services for PWDs.
+
+...
+
+[Data](articles/c2963a9c.json)
+
+---
+
+### Coin Ceylon and Intersect MBO launch South Asia’s first community hub in Sri Lanka
+
+*2024-07-20 00:19:53* · [`dailyftlk`](https://www.ft.lk/business/Coin-Ceylon-and-Intersect-MBO-launch-South-Asia-s-first-community-hub-in-Sri-Lanka/34-764512) · `en`
+
+Coin Ceylon officials at launch of first Intersect and Coin Ceylon Hub in South Asia, at Royal Colombo Golf Club
+
+Coin Ceylon, in collaboration with Intersect MBO, has marked a significant milestone in the blockchain landscape by launching the first Intersect Community Hub in South Asia, here in Sri Lanka.
+
+This landmark event, held at the Royal Colombo Golf Club, united blockchain enthusiasts, developers, diplomats, and industry leaders, all committed to promoting innovation, collaboration, and governance within the Cardano ecosystem.
+
+...
+
+[Data](articles/9bc35600.json)
 
 ---
 
@@ -120,6 +224,20 @@ Prof. Dinesha Samararatne and Dr. Gehan Goonetilleke will discuss the book with 
 
 ---
 
+### Climate change and the role of communicators
+
+*2024-07-19 23:20:47* · [`dailyftlk`](https://www.ft.lk/columns/Climate-change-and-the-role-of-communicators/4-764494) · `en`
+
+Media, journalists, and other communicators play an important role in shaping the perception and understanding of climate change and enabling effective action
+
+Climate change is one of the key global challenges of the 21st century. To effectively address it, countries across the world need to work together in line with their respective responsibilities and capabilities, employing a whole-of-society approach that brings together governments, the private sector, civil society, and the general public. For this reason, effective climate communications are vital not only for creating public awareness and providing relevant information but also for building momentum and facilitating ambitious climate action, green growth, and a just transition.
+
+...
+
+[Data](articles/55e1425f.json)
+
+---
+
 ### The bus from Jaffna to Kadirgamam crashes
 
 *2024-07-19 23:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-இருந்து-கதிர்காமம்-சென்ற-பஸ்-விபத்துக்குள்ளானது/71-340699) · `ta`
@@ -138,15 +256,21 @@ A bus traveling from Jaffna to Kadirgamam to Kadirgamam, a bus traveling along t
 
 ---
 
-### மூதூர் விபத்தில் 52 யாத்திரிகர்கள் காயம்
+### 52 pilgrims injured in Muttur accident
 
 *2024-07-19 23:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூதூர்-விபத்தில்-52-யாத்திரிகர்கள்-காயம்/71-340699) · `ta`
 
-யாழ்ப்பாணத்தில் இருந்து கதிர்காமம்  நோக்கி A15 திருகோணமலை - மட்டக்களப்பு பிரதான வீதி வழியாக பயணித்த பஸ் ஒன்று, இன்று மாலை கெங்கைத்துறை பாலம் அருகே தடம்புரண்டு விபத்துக்குள்ளானது.
+In a tragic accident near Kengithurai Bridge, a bus en route from Jaffna to Kadirgamam collided with another vehicle along the A15 Trincomalee-Batticaloa road, injuring 52 pilgrims.
+
+🟩
+
+A bus traveling from Jaffna to Kadirgamam to Kadirgamam, a bus traveling along the A15 Trincomalee - Batticaloa main road, crashed near the Kengithurai Bridge this evening.
 
 ◼️
 
 [Data](articles/ed434d8b.json)
+
+[Extended Data](ext_articles/ed434d8b.ext.json)
 
 ---
 
@@ -2215,179 +2339,5 @@ However, a spokesman in Microsoft told the BBC after a few hours ago, "the major
 [Data](articles/5a210ccc.json)
 
 [Extended Data](ext_articles/5a210ccc.ext.json)
-
----
-
-### Daughter Tulsi is concerned about the disappearance of the Tamil -based Tamil - Sri Lankan Tamil
-
-*2024-07-19 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/188836) · `ta`
-
-Tulsi Vaidyakumar, daughter of the ship's captain, expresses worry over missing crew members from her father's oil vessel. The Indian Navy reports rescuing nine individuals, including eight Indians and one Sri Lankan, all receiving medical attention. Among the rescued, three are Indians, and one has passed away. Captain Vaidyakumar mentions the involvement of Oman's maritime organization but notes uncertainty regarding the whereabouts of six individuals, including himself, Chief Engineer Dayanidhi Abbasamy, and Guganesan Mahesadasan.
-
-🟩
-
-Tulsi Vaidyakumar, daughter of Ka Vaidyakumar, the head of the oil vessel, has expressed concern over the missing persons.
-
-The Indian Navy has said that one person has been rescued.
-
-The Indian Navy reports that there are eight Indians and one Sri Lankans.
-
-The Indian Navy, who is in the process, said that they are currently receiving medical care and the six people who have left the life -saving boat.
-
-Tulsi Vaidyakumar has expressed concern over the missing ship's workers.
-
-The ship's captain is my father, he said that 16 people were working on his ship, and three of them were Indians, Tulsi said.
-
-Unfortunately, one person has died, and there are eight Indians and one of the nine rescued people, he said.
-
-He said that the Oman government's maritime organization was united in the Indian Navy, but could not be found yet.
-
-We are confused and worried, and the six people are looking forward to their families, he said.
-
-...
-
-[Data](articles/7e772cba.json)
-
-[Extended Data](ext_articles/7e772cba.ext.json)
-
----
-
-### The election expenditure function bill is mandatory for the Presidential election
-
-*2024-07-19 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198979) · `si`
-
-The mandatory Election Expenditure Function Bill and the crucial Elections Registration Act are key for the upcoming presidential election. The Commissioner General of Elections, Saman Sri Ratnayake, confirmed the bill's application except for referendums, ensuring transparency. Party secretaries and state officials have been briefed across all regions.
-
-🟩
-
-The Elections Registration Act is inevitable for the upcoming presidential election.
-
-Ada Derana stated that the Commissioner General of Elections Saman Sri Ratnayake said that the bill will be used for every toll, excluding a referendum.
-
-Mr. San Sir Ratnayake said that the Election of the Elections Monitoring Act, the party secretaries and state officials have been informed of all the areas.
-
-◼️
-
-[Data](articles/28967ec0.json)
-
-[Extended Data](ext_articles/28967ec0.ext.json)
-
----
-
-### Sri Lanka scraps plan to sell loss-making national airline
-
-*2024-07-19 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100617/sri-lanka-scraps-plan-to-sell-loss-making-national-airline-) · `en`
-
-Sri Lanka has scrapped plans to sell off its indebted national airline despite shortlisting three potential buyers, the government’s privatisation agency said Friday.
-
-Colombo called for bids in September to sell SriLankan Airlines, a key IMF demand when granting a bailout loan to the country last year.
-
-Six firms had initially expressed interest in taking a stake in the airline, which owed more than $2.0 billion at the end of the 2022/2023 financial year.
-
-The government announced in April a shortlist of three potential investors, including Malaysia’s Air Asia.
-
-However, on Friday, the State Owned Enterprises Restructuring Unit said it had called off the sale.
-
-“The cabinet of ministers at a meeting on July 9 decided to terminate the current bidding process with regard to the divestiture of SriLankan Airlines,” it said in a brief statement without giving any reasons for the decision.
-
-...
-
-[Data](articles/703a5dab.json)
-
-[Extended Data](ext_articles/703a5dab.ext.json)
-
----
-
-### Sri Lanka scraps plan to sell loss-making national airline – report
-
-*2024-07-19 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100617/sri-lanka-scraps-plan-to-sell-loss-making-national-airline-report) · `en`
-
-Sri Lanka has scrapped plans to sell off its indebted national airline despite shortlisting three potential buyers, the government’s privatisation agency said Friday.
-
-Colombo called for bids in September to sell SriLankan Airlines, a key IMF demand when granting a bailout loan to the country last year.
-
-Six firms had initially expressed interest in taking a stake in the airline, which owed more than $2.0 billion at the end of the 2022/2023 financial year.
-
-The government announced in April a shortlist of three potential investors, including Malaysia’s Air Asia.
-
-However, on Friday, the State Owned Enterprises Restructuring Unit said it had called off the sale.
-
-“The cabinet of ministers at a meeting on July 9 decided to terminate the current bidding process with regard to the divestiture of SriLankan Airlines,” it said in a brief statement without giving any reasons for the decision.
-
-It added that the government will follow an “alternate strategy” regarding the carrier.
-
-...
-
-[Data](articles/ba0ca7d5.json)
-
-[Extended Data](ext_articles/ba0ca7d5.ext.json)
-
----
-
-### Japan willing to restart stalled Sri Lanka projects, LRT to be reevaluated
-
-*2024-07-19 11:22:00* · [`economynextcom`](https://economynext.com/japan-willing-to-restart-stalled-sri-lanka-projects-lrt-to-be-reevaluated-172846/) · `en`
-
-ECONOMYNEXT – A Japanese delegation visiting Sri Lanka has discussed the resumption of Japanese Official Development Assistance (ODA) projects that were suspended when Sri Lanka defaulted.
-
-The delegation said that several projects including the Bandaranaike International Airport (BIA) Development Project, the Colombo Port Eastern Terminal Development Project, the Central Expressway Construction and the Digital Broadcasting Project, can be promptly restarted”, according to the president’s media division.
-
-“These projects, which include several initiatives that were suspended last period, are now poised to restart, signaling a renewed phase of cooperation and development.”
-
-The Japanese officials said there was potential to resume the Light Railway Transit (LRT), which was halted by the previous government. Japan is “actively assessing locations to re-implement this project, recognizing its significant potential to alleviate traffic congestion in Colombo city.”
-
-...
-
-[Data](articles/710bb8d7.json)
-
-[Extended Data](ext_articles/710bb8d7.ext.json)
-
----
-
-### Upcountry train interrupts
-
-*2024-07-19 11:13:17* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-410868) · `si`
-
-A train from Badulla to Colombo Fort was halted due to track issues near Colombo Fort Railway Station. The delay is expected to affect services between Badulla and Colombo Fort. Maintenance work involving tree removals in the Anatoon and Idalgasinna areas is underway to resolve the issue.
-
-🟩
-
-The Colombo Fort Railway Station (Colombo Fort Railway] Cards (Colombo Fort Railway Room) has been interrupted by the Colombo Fort Railway Line.
-
-The train passed by the train, which was traveling from Badulla to Colombo Fort, was parked from the road from Badulla to Colombo Fort.
-
-The Nawalapitiya Railway Control Room will be taken to collapse and remove the trees of the Upcountry Railway Stations in the Anatoon area in the Idalgasinna area.Specified.
-
-Therefore, Badulla Fort Railway Railway will be delayed and said a statement of the Railway Department.
-
-◼️
-
-[Data](articles/3e181579.json)
-
-[Extended Data](ext_articles/3e181579.ext.json)
-
----
-
-### The profit of robbery in egg prices?
-
-*2024-07-19 11:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-கொள்ளை-இலாபம்/175-340679) · `ta`
-
-Ceylon Egg Merchants accuse manufacturers of making excessive profits, claiming it costs around 20 rupees to produce an egg, yet it sells for over 50 rupees in markets due to trader costs.
-
-🟩
-
-All Ceylon Egg Merchants have accused the manufacturers of unreasonable profits of 25 rupees through an egg.
-
-The president of the association, Anura Marasinghe, said the cost of producing an egg is about 20 rupees.
-
-He said the total price of eggs on farms ranges from Rs 45 to Rs 50.
-
-He noted that the price of an egg in the market has now exceeded 50 rupees due to the high cost of traders.
-
-◼️
-
-[Data](articles/2f3f01b3.json)
-
-[Extended Data](ext_articles/2f3f01b3.ext.json)
 
 ---

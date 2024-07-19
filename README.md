@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 19:20:20**
+As of **2024-07-19 19:36:46**
 
 ## Newspaper Stats
 
-*Scraped **36,155** Articles*
+*Scraped **36,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,052
 economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
-adaderanalk | 4,175
+adaderanalk | 4,176
 tamilmirrorlk | 4,390
 dailymirrorlk | 4,733
 virakesarilk | 5,653
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,049
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,155 (100.0%) of 36,155 articles have been extended.
+36,155 (100.0%) of 36,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### President says there should be no fear regarding constitutional amendment
+
+*2024-07-19 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100633/president-says-there-should-be-no-fear-regarding-constitutional-amendment) · `en`
+
+President Ranil Wickremesinghe has emphasized that there should be no fear regarding the constitutional amendment.
+
+Furthermore, Wickremesinghe expressed that Sri Lanka is unique in maintaining democracy following universal suffrage the President’s Media Division (PMD) said in a statement.
+
+Moreover, the Head of the State added that he is dedicated to preserving this democratic tradition, according to the PMD.
+
+The 22nd Amendment to the Constitution was published via a Gazette notification by order of President Ranil Wickremesinghe today (19).  This will enable the paragraph (b) of Article 83 of the Constitution pertaining to the President’s term to be amended by replacing the words “to over six years” with the words “to over five years”.
+
+◼️
+
+[Data](articles/85962c64.json)
+
+---
 
 ### Sri Lanka probe potential impact of global IT outage on 40 govt. systems
 
@@ -2357,21 +2375,5 @@ At times, there are times in the rest of the island.. There are also 40,000 stro
 [Data](articles/d0eda082.json)
 
 [Extended Data](ext_articles/d0eda082.ext.json)
-
----
-
-### False terrorism cases enable repression in SL: Human Rights Watch
-
-*2024-07-19 05:43:18* · [`dailyftlk`](https://www.ft.lk/opinion/False-terrorism-cases-enable-repression-in-SL-Human-Rights-Watch/14-764472) · `en`
-
-The Government should impose a full moratorium on the PTA and work to repeal it
-
-Sri Lankan authorities continue to use the notorious Prevention of Terrorism Act (PTA) to target perceived opponents and minority communities without credible evidence to support the allegations despite repeated pledges to end the practice, Human Rights Watch said yesterday. While some victims have suffered years of arbitrary detention and torture, others are persecuted even after the case against them is dropped.
-
-...
-
-[Data](articles/1da9f205.json)
-
-[Extended Data](ext_articles/1da9f205.ext.json)
 
 ---

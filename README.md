@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 13:55:01**
+As of **2024-07-19 14:06:56**
 
 ## Newspaper Stats
 
-*Scraped **36,112** Articles*
+*Scraped **36,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,167
 tamilmirrorlk | 4,387
 dailymirrorlk | 4,733
 virakesarilk | 5,639
-adaderanasinhalalk | 6,036
+adaderanasinhalalk | 6,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,111 (100.0%) of 36,112 articles have been extended.
+36,112 (100.0%) of 36,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### ලොව පුරා මහා පරිමාණයේ IT දෝෂයක්
+
+*2024-07-19 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198981) · `si`
+
+ලොව පුරා රටවල් රැසක ආයතන සමූහයක මහා පරිමාණ තොරතුරු තාක්ෂණ ඇනහිටීමක් සිදුවී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඒ අතර ප්‍රධාන බැංකු, කොටස් වෙළෙඳපොළ, මාධ්‍ය ආයතන සහ ගුවන් සමාගම් ඇතුළු ආයතන ඇතුළත් බවද වාර්තා වෙයි.
+
+මෙම තත්ත්වය ඇතිවීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර එය මයික්‍රොසොෆ්ට් මෙහෙයුම් පද්ධතිය සම්බන්ධ දෝෂයක් නිසා ඇතිවූවක් බවට වාර්තා පළ වෙයි.
+
+◼️
+
+[Data](articles/60919c34.json)
+
+---
 
 ### Massive Information Technology Disorder
 
@@ -230,21 +246,29 @@ In the meeting, the anti-narcotics and border security issues were also discusse
 
 ---
 
-### ලංකාව මානව ප්‍රාග්ධන සංවර්ධනය සඳහා කලාපීය කේන්ද්‍රස්ථානයක් කරනවා
+### Sri Lanka makes a regional hub for human capital development
 
 *2024-07-19 12:22:23* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-මානව-ප්‍රාග්ධන-සංවර්ධනය-සඳහා-කලාපීය-කේන්ද්‍රස්ථානයක්-කරනවා/11-410869) · `si`
 
-ශ්‍රී ලංකාව මානව ප්‍රාග්ධන සංවර්ධනය සඳහා කලාපීය කේන්ද්‍රස්ථානය බවට පත් කිරීමට කටයුතු කරන බව බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Sri Lanka aims to transform into a regional hub for human capital development, focusing on vocational and professional degrees, integrating electrification systems, and enhancing economic growth through skill development and innovation. President Ranil Wickremesinghe emphasizes the importance of economic reforms, reducing emigration, and fostering partnerships, especially with India, to boost the economy and attract foreign investment.
 
-එහිදී විවිධ ප්‍රමිතීන් යටතේ ක්‍රියාත්මක කාර්මික විද්‍යාල උසස් තාක්ෂණ හා කළමනාකරණ විද්‍යාල බවට පත් කර තාක්ෂණික හා වෘත්තීය විෂයයන් ආශ්‍රිත උපාධිය හඳුන්වා දීමට හැකි මට්ටමට ගෙන ආ යුතු බවත් ජාතික වෘත්තීය සුදුසුකම (NVQ ) නැවත සොයා බලා ජාත්‍යන්තර පිළිගැනීමක් ඇති ඕස්ට්‍රේලියානු සුදුසුකම් මට්ටමට ගෙන ඒමට කටයුතු කළ යුතු බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+🟩
 
-ශ්‍රී ලංකාවේ ආර්ථික වර්ධනය ඉහළ නැංවීම සඳහා උපායමාර්ගික පියවරක් ලෙස ඉන්දියාව සමඟ ඒකාබද්ධ විදුලි සම්බන්ධතා පද්ධතියක් සහ ගොඩබිම් සම්බන්ධතාවයක් ඇති කර ගැනීමේ වැදගත්කම ජනාධිපතිවරයා වැඩිදුරටත් අවධාරණය කළේය.
+President Ranil Wickremesinghe said that Sri Lanka would be transformed into regional hub for human capital development.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අරලිය ගහ මන්දිරයේදී ඊයේ (18) පැවති 2024 ශ්‍රී ලංකා මානව ප්‍රාග්ධන සමුළුව ( Sri Lanka Human Capital Summit) අමතමිනි.
+The National Vocational and Professional Accurate Degree (NVQ) should be brought to introduce the degree of technical and professional and professionals to be brought to the introduction of the degree of technical and professionals.The President pointed out.
+
+The President stressed the importance of establishing an integrated electrification system and the land connection with India as a strategic measure to increase the economic growth in Sri Lanka.
+
+President Ranil Wickremesinghe addressing the Sri Lanka Human Capitalum Summit (SLI LANKA) Summit last year.
+
+President Ranil Wickremesinghe has begun as the Prime Minister in 2016, according to his concept to set up one plague for the skills of Sri Lanka to address the skills of Sri Lanka.
 
 ...
 
 [Data](articles/90675a5f.json)
+
+[Extended Data](ext_articles/90675a5f.ext.json)
 
 ---
 
@@ -2183,27 +2207,5 @@ Thus, the Human Rights Watch has urged the Terrorism Act to be completely abolis
 [Data](articles/9086cf78.json)
 
 [Extended Data](ext_articles/9086cf78.ext.json)
-
----
-
-### The sea turbulent today
-
-*2024-07-19 00:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கடல்-கொந்தளிப்பு/175-340669) · `ta`
-
-The Department of Meteorology warns of turbulent seas from Kankesanthurai to Mannar and Hambantota to Pottuvil, with occasional turbulence across all sea areas until 1 pm today.
-
-🟩
-
-The Department of Meteorology has warned that the sea will be turbulent until 1 pm this afternoon.
-
-The wind speeds can be increased from Kankesanthurai to Mannar via Mannar and from Hambantota to Pottuvil from Hambantota to Pottuvil.
-
-The Department of Meteorology also said that the sea areas are occasionally turbulent.
-
-◼️
-
-[Data](articles/abeb595e.json)
-
-[Extended Data](ext_articles/abeb595e.ext.json)
 
 ---

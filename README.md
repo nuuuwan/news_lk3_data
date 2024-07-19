@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 08:06:13**
+As of **2024-07-19 08:07:38**
 
 ## Newspaper Stats
 
-*Scraped **36,051** Articles*
+*Scraped **36,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,050
 economynextcom | 2,151
 dailyftlk | 2,304
-adalk | 3,257
+adalk | 3,258
 adaderanalk | 4,153
 tamilmirrorlk | 4,377
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,003 (99.9%) of 36,051 articles have been extended.
+36,003 (99.9%) of 36,052 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1296,6 +1296,24 @@ A sum of Rs.
 
 ---
 
+### වාහන ආනයනය ගැන වාර්තාව අගෝස්තු දෙවැනි සතියේ කැබිනට් මණ්ඩලයට
+
+*2024-07-18 19:57:42* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-වාර්තාව-අගෝස්තු-දෙවැනි-සතියේ-කැබිනට්-මණ්ඩලයට/11-410864) · `si`
+
+ඉතාම දුෂ්කර අවස්ථාවක රට ගොඩගැනීමේ අභියෝගය භාරගත් වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය දෙවසර තුළ ගෙන ගිය නිවැරදි ආර්ථික වැඩපිළිවෙළ හේතුවෙන් රට තුළ ස්ථාවරත්වයක් ඇති කර ගැනීමට හැකි වූ බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+ඒ සම්බන්ධයෙන් ඍණාත්මක හා පදනම් විරහිත සාවද්‍ය ප්‍රකාශ සිදු කරන විපක්ෂයේ මන්ත්‍රීවරුන් මෙන්ම ආර්ථික පර්යේෂණ ආයතන විද්වතුන්ට, සුදුසු වේදිකාවක් තුළ විවෘත සංවාදයකට ඇරයුම් කරන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (18) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ජනාධිපතිවරණයක් කියන්නේ ජනතාවගේ ප්‍රජාතන්ත්‍රවාදී තීරණ පිළිබඳ ඇති බලවත්ම තීරණය බව අප දන්නවා. එවැනි වකවානුවක මීට වසර දෙකකට පෙර රට තිබූ තත්ත්වය සහ අද තත්ත්වය සංසන්දනය කරන වේදිකාවක් නිර්මාණය විය යුතුයි. රජයක වගකීම වන්නේ ජනතාවගේ ආරක්ෂාව, සුබසාධනය සහ සංවර්ධනයයි. ඒ නිසා මෙම තීරණාත්මක මෙහොතේ යම් සංවාදයක් ගොඩ නැඟිය යුතුව තිබෙනවා.
+
+...
+
+[Data](articles/47096922.json)
+
+---
+
 ### The modernization of education is discussed to seek assistance in UNESCO
 
 *2024-07-18 19:50:43* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපනයේ-නවීකරණයට-යුනෙස්කෝවේ-සහාය-ලබා-ගැනීමට-සාකච්ඡා-කරනවා/11-410862) · `si`
@@ -2017,29 +2035,5 @@ It has been reported that some teachers and principals have not been able to do 
 [Data](articles/426cc228.json)
 
 [Extended Data](ext_articles/426cc228.ext.json)
-
----
-
-### Tuition ban by math teacher
-
-*2024-07-18 16:18:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆசிரியர்களுக்கு-டியூஷன்-தடை/175-340630) · `ta`
-
-In the North Central Province, a ban has been issued by the Ministry of Education, prohibiting principals, teachers, and other staff from conducting private tuition during school hours or weekends. This decision comes after numerous complaints about educators prioritizing paid classes over their official duties, leading to student neglect. The circular emphasizes strict adherence to this rule, with severe consequences for non-compliance.
-
-🟩
-
-The Secretary of the North Central Ministry has issued a circular in the North Central Province, which has completely banned the work of principals, teachers and teachers and teachers who work in schools in the North Central Province.
-
-Secretary to the Ministry of Education of the North Central Province, Siriman Dharmasena, Provincial Education Directors, All Regional Directors, Kota Education Directors and School Principals.
-
-There are constant complaints that some principals, teachers and teachers who work in schools in the North Central Province have been charging private training classes and seminars at school, school hours or weekends.
-
-It has been reported that some teachers and principals have not been able to do the work of teaching at the school and neglect students who have not gone to their personal classes and seminars.
-
-...
-
-[Data](articles/e8e3875f.json)
-
-[Extended Data](ext_articles/e8e3875f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 12:54:01**
+As of **2024-07-19 13:05:22**
 
 ## Newspaper Stats
 
-*Scraped **36,098** Articles*
+*Scraped **36,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,052
 economynextcom | 2,156
 dailyftlk | 2,304
-adalk | 3,262
+adalk | 3,263
 adaderanalk | 4,166
 tamilmirrorlk | 4,387
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,096 (100.0%) of 36,098 articles have been extended.
+36,098 (100.0%) of 36,099 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ In the meeting, the anti-narcotics and border security issues were also discusse
 
 [Data](articles/9dfbcbcb.json)
 
+[Extended Data](ext_articles/9dfbcbcb.ext.json)
+
 ---
 
 ### New Vice Chancellor appointed to Peradeniya University
@@ -67,6 +69,8 @@ This appointment will be in effect from August 01, 2024, according to the PMD.
 ◼️
 
 [Data](articles/66f47171.json)
+
+[Extended Data](ext_articles/66f47171.ext.json)
 
 ---
 
@@ -225,6 +229,24 @@ He noted that the price of an egg in the market has now exceeded 50 rupees due t
 [Data](articles/2f3f01b3.json)
 
 [Extended Data](ext_articles/2f3f01b3.ext.json)
+
+---
+
+### රාජ්‍ය සේවකයන් හෝ වැටුප් කප්පාදුවක් කළේ නෑ
+
+*2024-07-19 11:07:28* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්-හෝ-වැටුප්-කප්පාදුවක්-කළේ-නෑ/11-410867) · `si`
+
+කොරෝනා වසංගත තත්ත්වය හා දරුණු ආර්ථික අර්බුදය හමුවේ වුවද කිසිදු සේවක හෝ වැටුප් කප්පාදුවකින් තොරව රාජ්‍ය සේවය ස්ථාවරව පවත්වාගෙන යාමට හැකි වීම ජයග්‍රහණයක් බවත් ඒ වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන් ලද උපදෙස් ඉවහල් වූ බවත් ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පැවසීය.
+
+ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා මෙසේද පැවසීය.
+
+පසුගිය වසර දෙකක කාලය ඉතා දුෂ්කර වූත්, අභියෝගාත්මක වූත් කාලයක් ලෙස හැඳින්විය හැකියි. අප මුහුණ දුන් කොරෝනා වසංගත තත්ත්වය හා දරුණු ආර්ථික අර්බූදය හමුවේ රාජ්‍ය සේවයේ වැටුප් ගෙවීමේ අභියෝගයට මුහුණ දීමට සිදු වුණා. ඒ වගේම ඇතැමුන් රැකියා කප්පාදු කිරීමට සිදු වනු ඇතැයි උපකල්පනය කර තිබුණා.
+
+...
+
+[Data](articles/90ba9089.json)
 
 ---
 
@@ -2171,25 +2193,5 @@ The petitions were presented by Archbishop Malcolm Cardinal Ranjith and the orde
 [Data](articles/9908179d.json)
 
 [Extended Data](ext_articles/9908179d.ext.json)
-
----
-
-### Oil tanker capsizes in Oman: Sri Lankan Captain’s daughter speaks to Ada Derana
-
-*2024-07-18 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100608/oil-tanker-capsizes-in-oman-sri-lankan-captains-daughter-speaks-to-ada-derana) · `en`
-
-Omani authorities say nine members of a 16-strong Indian and Sri Lankan crew have been rescued, after going missing when their oil tanker capsized off the coast of Oman on Monday. One other has been found dead.
-
-The vessel, captained by a Sri Lankan, K. Vaiththiyakumar, had a crew comprising 13 Indians and 3 Sri Lankans, as per reports.
-
-Among the rescued, eight are Indians and one is Sri Lankan, all of whom are currently receiving medical attention. However, six crew members, who escaped in a second lifeboat, remain missing.
-
-Speaking to Ada Derana, Thulasi Vaiththiyakumar, the daughter of Captain Vaiththiyakumar, expressed deep concern over the missing crew members.
-
-...
-
-[Data](articles/472a1376.json)
-
-[Extended Data](ext_articles/472a1376.ext.json)
 
 ---

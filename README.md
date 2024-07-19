@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 10:54:29**
+As of **2024-07-19 11:06:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,074 (100.0%) of 36,080 articles have been extended.
+36,080 (100.0%) of 36,080 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The department further stated that it is no longer possible to obtain a passport
 ◼️
 
 [Data](articles/35d0747e.json)
+
+[Extended Data](ext_articles/35d0747e.ext.json)
 
 ---
 
@@ -64,19 +66,27 @@ Telephone calls from overseas were mostly not getting connected and calls throug
 
 [Data](articles/81d4b633.json)
 
+[Extended Data](ext_articles/81d4b633.ext.json)
+
 ---
 
-### பாதாள உலக குழு உறுப்பினர்கள் தப்பிச் செல்ல யார் காரணம்?
+### Who is responsible for the escape of the underworld group?
 
 *2024-07-19 10:23:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழு-உறுப்பினர்கள்-தப்பிச்-செல்ல-யார்-காரணம்/175-340676) · `ta`
 
-கஞ்சிபானை இம்ரான் மற்றும் கனேமுல்ல சஞ்ஜீவ ஆகிய பாதாள உலக குழு உறுப்பினர்கள் நாட்டை விட்டு வெளியேற அவர்களது சட்டத்தரணிகளே காரணம் எனத் தெரியவந்துள்ளது.
+Kanjiban Imran and Kanemulla Sanjeeva's underworld group members are responsible for their escape from the country. Strict laws are enforced to curb their activities.
 
-மேலும், பாதாள உலக குழு உறுப்பினர்களின் செயற்பாடுகளைத் தடுப்பதற்காகச் சட்டம் கடுமையாக நடைமுறைப்படுத்தப்படுவதாகவும் அவர் தெரிவித்துள்ளார். R
+🟩
+
+It has been revealed that the members of the underworld group of Kanjiban Imran and Kanemulla Sanjeeva are responsible for their leaving the country.
+
+He also said that the law is strictly implemented to prevent the activities of the underworld group members.. Remble
 
 ◼️
 
 [Data](articles/e1a1ff9d.json)
+
+[Extended Data](ext_articles/e1a1ff9d.ext.json)
 
 ---
 
@@ -140,6 +150,8 @@ The 22-year-old motorcyclist who was seriously injured from the accident was pro
 
 [Data](articles/9fcdf817.json)
 
+[Extended Data](ext_articles/9fcdf817.ext.json)
+
 ---
 
 ### Sudden fire in a lorry traveling on the road
@@ -164,19 +176,25 @@ Further investigations are being carried out by the police, who said that no one
 
 ---
 
-### வீதியில் சென்ற லொறி திடீரென எரிந்தது
+### The lorry on the street was suddenly burnt
 
 *2024-07-19 09:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியில்-சென்ற-லொறி-திடீரென-எரிந்தது/175-340675) · `ta`
 
-முந்தல், கொத்தான்தீவு வீதியில் நேற்று தும்புகளை ஏற்றிச் சென்ற லொறி ஒன்று திடீரென தீப் பற்றி  எறிந்துள்ளது.
+A lorry carrying stumps caught fire due to friction on the Mundal Kotanthivu road, burning all contents. Police investigating; no injuries reported.
 
-முந்தல் கொத்தான்தீவு சின்னப்பாடு வீதி ஊடாக தும்புகளை ஏற்றிய லொறி வீதியில் காணப்படும் பிரதான மின் கம்பியில் ஏற்பட்ட உராய்வின் காரணமாக தீப்பற்றியதுடன் லொறியில் காணப்பட்ட தும்புகள் முற்றாக தீக்கரையானது.
+🟩
 
-இதன் காரணமாக எவருக்கும் பாதிப்புக்கள் ஏற்படவில்லை என தெரிவித்த உடப்பு பொலிஸார் இச் சம்பவம் பற்றிய மேலதிக விசாரணைகளை மேற் கொண்டு வருகின்றனர். R
+A lorry carrying stumps on the Mundal, Kotanthivu road yesterday had suddenly thrown a fire.
+
+Due to the friction of the main power rod on the lorry road, which was loaded with thumb through the Mundal Kotanthivu Chinnapattu road, the fire broke out and the trucks found in the lorry were completely burnt.
+
+Further investigations are being carried out by the police, who said that no one was affected by the incident.. Remble
 
 ◼️
 
 [Data](articles/cff9b6a4.json)
+
+[Extended Data](ext_articles/cff9b6a4.ext.json)
 
 ---
 
@@ -1982,21 +2000,29 @@ The construction work is conducted to the relief, a new technique for the first 
 
 ---
 
-### ජපානයෙන් එන සුබ ආරංචිය
+### Good news from Japan
 
 *2024-07-18 20:01:54* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-එන-සුබ-ආරංචිය/11-410865) · `si`
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සාර්ථකව අවසන් වී ඇති බැවින් පසුගිය සමයේ අත්හිටුවා තිබූ ව්‍යාපෘති ද ඇතුළුව ජපාන නිල සංවර්ධන ආධාර යටතේ (ODA) ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක කර ඇති ව්‍යාපෘති ආරම්භ කිරීමට බලාපොරොත්තු වන බව ශ්‍රී ලංකාවේ සංචාරයක නිරත ජපාන දූත පිරිසේ ප්‍රධානී ආචාර්ය ඉසුමි හිරොටෝ මහතා (Dr. IZUMI Hiroto) පැවසීය.
+Japan's delegation, led by Izumi Hiroto, plans to restart projects in Sri Lanka, including debt restructuring. They affirm support for President Ranil Wickremesinghe's leadership and commit to enhancing economic ties, focusing on education, agriculture, and urban development. Projects like the Colombo Shipyard, Bandaranaike International Airport, and digital broadcasting are set to resume. The delegation also discusses recruiting tech-savvy Sri Lankans and implementing green initiatives, highlighting Japan's interest in joint carbon reduction efforts.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ කටයුතු කරමින් නිල ණය හිමියන්ගේ කමිටුව සමඟ එක්ව ඉතා කෙටි කාලයක් තුළ සාර්ථකව ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම්වලට එළැඹීම තුළින් ජාත්‍යන්තර ප්‍රජාව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නායකත්වය කෙරෙහි තබා ඇති විශ්වාසය පිළිබිඹු වන බව ද ඒ මහතා සඳහන් කළේය.
+🟩
 
-මෙරටට පැමිණි නිවාස, ඉදිකිරීම් හා නාගරික ක්ෂේත්‍රයන්හි නියෝජිතයින්ගෙන් සමන්විත ජපාන ඉහළ පෙළේ දූත පිරිස ඊයේ (18) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු වූ අතර එහිදී මේ බව සඳහන් කෙරිණි.
+Heada Heroic Head of Japanese delegation (ODA), who is planning to commence projects in Sri Lanka (ODA) is expected to commence projects in Sri Lanka (ODA), including the restructuring process of the debt has been completed in Sri Lanka (ODA).. Izumi Hiroto.
 
-ශ්‍රී ලංකාව තුළ ජපානය විසින් නිල සංවර්ධන ආධාර යටතේ ක්‍රියාත්මක කර ඇති ව්‍යාපෘති නැවත ආරම්භ කිරීම සහ ශ්‍රී ලංකාව තුළ පවතින නව ආයෝජන අවස්ථා පිළිබඳව ද මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණ.
+He also said that the international community has reflect the confidence of President Ranil Wickremesinghe's leadership with the Committener of the Official Creditors' Fund.
+
+President Ranil Wickremesinghe was found at the Presidential Secretariat yesterday (18th) at the residents of the houses, housing, construction and urban areas.
+
+In Sri Lanka, Japan has resumed projects implemented under the official development aid and new investment opportunities in Sri Lanka.
+
+The delegation expressed his commitment to the President to successfully enrolled in a short period of time with the official creditors' committee, along with the committee of Sri Lanka as well as with the Committee of the International Monetary Fund.
 
 ...
 
 [Data](articles/5d569b5c.json)
+
+[Extended Data](ext_articles/5d569b5c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 10:35:41**
+As of **2024-07-19 10:54:29**
 
 ## Newspaper Stats
 
-*Scraped **36,074** Articles*
+*Scraped **36,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,051
 economynextcom | 2,151
 dailyftlk | 2,304
-adalk | 3,259
-adaderanalk | 4,158
-tamilmirrorlk | 4,382
+adalk | 3,260
+adaderanalk | 4,161
+tamilmirrorlk | 4,384
 dailymirrorlk | 4,733
 virakesarilk | 5,629
 adaderanasinhalalk | 6,034
@@ -26,31 +26,85 @@ adaderanasinhalalk | 6,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,071 (100.0%) of 36,074 articles have been extended.
+36,074 (100.0%) of 36,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### පාස්පෝට් ඔෆිස් එක ඉදිරිපිට කලබලයක්
+### Prior online registration required to apply for passports from today
+
+*2024-07-19 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100616/prior-online-registration-required-to-apply-for-passports-from-today) · `en`
+
+The Department of Immigration and Emigration says that prior online registration is now required when applying for a Sri Lankan passport and the new methodology has commenced with effect from today (19).
+
+The department further stated that it is no longer possible to obtain a passport by visiting the department without first being assigned a date and time through the online registration system.
+
+◼️
+
+[Data](articles/35d0747e.json)
+
+---
+
+### Bangladesh TV news off air, communications widely disrupted as student protests spike
+
+*2024-07-19 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100615/bangladesh-tv-news-off-air-communications-widely-disrupted-as-student-protests-spike) · `en`
+
+Television news channels in Bangladesh were off the air and telecommunications were widely disrupted on Friday amid violent student protests against quotas for government jobs in which nearly two dozen people have been killed this week.
+
+French news agency AFP reported that the death toll in Thursday’s violence had risen to 32. Reuters had reported that 13 people were killed, adding to six dead earlier in the week, and could not immediately verify the higher number.
+
+India’s Economic Times newspaper reported that Prime Minister Sheikh Hasina’s government “was forced” to call in the army late on Thursday to help “maintain order”. Reuters could not independently verify the information.
+
+Authorities had cut some mobile services on Thursday to try to quell the unrest but the disruption spread across the country on Friday morning, Reuters witnesses in Dhaka and New Delhi said.
+
+Telephone calls from overseas were mostly not getting connected and calls through the internet could not be completed.
+
+...
+
+[Data](articles/81d4b633.json)
+
+---
+
+### பாதாள உலக குழு உறுப்பினர்கள் தப்பிச் செல்ல யார் காரணம்?
+
+*2024-07-19 10:23:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழு-உறுப்பினர்கள்-தப்பிச்-செல்ல-யார்-காரணம்/175-340676) · `ta`
+
+கஞ்சிபானை இம்ரான் மற்றும் கனேமுல்ல சஞ்ஜீவ ஆகிய பாதாள உலக குழு உறுப்பினர்கள் நாட்டை விட்டு வெளியேற அவர்களது சட்டத்தரணிகளே காரணம் எனத் தெரியவந்துள்ளது.
+
+மேலும், பாதாள உலக குழு உறுப்பினர்களின் செயற்பாடுகளைத் தடுப்பதற்காகச் சட்டம் கடுமையாக நடைமுறைப்படுத்தப்படுவதாகவும் அவர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/e1a1ff9d.json)
+
+---
+
+### An upset in front of the passport office
 
 *2024-07-19 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198977) · `si`
 
-විදෙස් ගමන් බලපත්‍ර අයදුම්කරුවන්ගේ පහසුව සඳහා ගමන් බලපත්‍ර අයදුම් කිරීම නව ක්‍රමවේදයක් ඔස්සේ අද (19) සිට නිකුත් කරන බව ආගමන හා විගමන දෙපාර්තමේන්තුව පසුගිය 17 වැනිදා නිවේදනය කර තිබුණි.
+Due to high demand, applicants for foreign passports must reserve online at www.immigration.gov.lk for either one-day or regular services. This led to overcrowding at the Department of Immigration and Emigration in Battaramulla, prompting police intervention.
 
-ඒ අනුව අයදුම්කරුවෙකු නව විදෙස් ගමන් බලපත්‍රයක් ලබාගැනීමට හෝ අලුත් කරගැනීම සඳහා www.immigration.gov.lk වෙබ් අඩවිය ඔස්සේ අනිවාර්යෙන්ම දිනයක් හා වේලාවක් වෙන් කරගත යුතු වෙයි.
+🟩
 
-එය එක්දින සේවය හා සාමාන්‍ය සේවය යන දෙවර්ගය සඳහාම වලංගු වන බව ආගමන හා විගමන දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+Passport applications for the convenience of the foreign passport candidates The Department of Immigration and Emigration had announced this on the 17th.
 
-මෙවන් පසුබිමක අද උදෑසනත් ජනතාව විදෙස් ගමන් බලපත්‍ර ලබාගැනීම සඳහා බත්තරමුල්ලේ ආගමන හා විගමන දෙපාර්තමේන්තු කාර්යාලය වෙත පැමිණ තිබුණි.
+Accordingly, a applicant must be reserved on www.imimimtion.gov.lk to obtain or renew a new overseas passport.
 
-එහිදී දිනයක් හා වේලාවක් වෙන් කරගෙන පැමිණි පිරිස් වෙත පමණක් අවස්ථාව ලබාදෙන බවට නිවේදනය කිරීමෙන් අනතුරු උණුසුම් තත්ත්වයක් හටගෙන තිබුණි.
+The Department of Immigration and Emigration has issued a statement that it is valid for both one-day service and the normal service.
 
-මේ හේතුවෙන් ආගමන හා විගමන දෙපාර්තමේන්තුව ඉදිරිපිට දිගු පෝලිම් හා තදබදයක් දක්නට ලැබුණු අතර පොලීසිය හා කැරලි මර්දන ඒකකය ද කැඳවීමට සිදුවිය.
+The people had arrived at the Department of Immigration and Emigration in Battaramulla to obtain foreign passports this morning.
+
+There was a warm position of warning that only the people who set aside the day and time.
+
+As a result, there were long queues and congestion in front of the Department of Immigration and Emigration and the police and the riot unit had also been called.
 
 ◼️
 
 [Data](articles/24b17f84.json)
+
+[Extended Data](ext_articles/24b17f84.ext.json)
 
 ---
 
@@ -72,9 +126,47 @@ The 22-year-old motorcyclist who was seriously injured from the accident was pro
 
 ---
 
-### வீதியில் பயணித்துக் கொண்டிருந்த லொறியில் திடீர் தீ
+### Youth killed as motorcycle collides with ambulance
+
+*2024-07-19 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100614/youth-killed-as-motorcycle-collides-with-ambulance-) · `en`
+
+One person was killed following a head-on collision involving a motorcycle and an ambulance this morning (19).
+
+The accident had occurred when an ambulance belonging to the Balapitiya Base Hospital, which was travelling from Galle towards Colombo, collided head-on with a motorcycle travelling on the opposite direction at the Tharuna Sewa Mawatha Junction on the Galle-Colombo road.
+
+The 22-year-old motorcyclist who was seriously injured from the accident was pronounced dead upon admission to the Karapitiya Teaching Hospital.
+
+◼️
+
+[Data](articles/9fcdf817.json)
+
+---
+
+### Sudden fire in a lorry traveling on the road
 
 *2024-07-19 09:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியில்-பயணித்துக்-கொண்டிருந்த-லொறியில்-திடீர்-தீ/175-340675) · `ta`
+
+A sudden fire erupted in a lorry carrying stumps on the Mundal, Kotanthivu road due to friction between the main power rod and the road. The fire engulfed all cargo within the truck. Police are investigating the cause, confirming no injuries occurred.
+
+🟩
+
+A lorry carrying stumps on the Mundal, Kotanthivu road yesterday had suddenly thrown a fire.
+
+Due to the friction of the main power rod on the lorry road, which was loaded with thumb through the Mundal Kotanthivu Chinnapattu road, the fire broke out and the trucks found in the lorry were completely burnt.
+
+Further investigations are being carried out by the police, who said that no one was affected by the incident.. Remble
+
+◼️
+
+[Data](articles/a6c30dad.json)
+
+[Extended Data](ext_articles/a6c30dad.ext.json)
+
+---
+
+### வீதியில் சென்ற லொறி திடீரென எரிந்தது
+
+*2024-07-19 09:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியில்-சென்ற-லொறி-திடீரென-எரிந்தது/175-340675) · `ta`
 
 முந்தல், கொத்தான்தீவு வீதியில் நேற்று தும்புகளை ஏற்றிச் சென்ற லொறி ஒன்று திடீரென தீப் பற்றி  எறிந்துள்ளது.
 
@@ -84,7 +176,7 @@ The 22-year-old motorcyclist who was seriously injured from the accident was pro
 
 ◼️
 
-[Data](articles/a6c30dad.json)
+[Data](articles/cff9b6a4.json)
 
 ---
 
@@ -154,23 +246,29 @@ I got a letter today after yesterday's date to come to the Ministry of Health.
 
 ---
 
-### முட்கிளுவை முள்ளு குத்தி மூதாட்டி உயிரிழப்பு
+### Dissolve
 
 *2024-07-19 09:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/முட்கிளுவை-முள்ளு-குத்தி-மூதாட்டி-உயிரிழப்பு/71-340674) · `ta`
 
-முட்கிளுவை மரத்தின் முள்ளு குத்தியதில் ஏற்பட்ட காயம் காரணமாக மூதாட்டி ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+Vanitarekarasi Balasubramaniam, 73, from Kalabhoomi, Jaffna, died untreated after being injured by a Mudkilu tree's thorn. The injury occurred while collecting firewood, leading to a severe infection. She was hospitalized but passed away before receiving proper treatment.
 
-யாழ்ப்பாணம் - காரைநகர் , களபூமி பகுதியை சேர்ந்த வனித்தேற்கரசி பாலசுப்பிரமணியம் (வயது 73)  என்பவரே உயிரிழந்துள்ளார்.
+🟩
 
-கடந்த சில நாட்களுக்கு முன்னர் விறகு பொறுக்குவதற்காக சென்ற போது, முட்கிளுவை மரத்தின் முள்ளு காலில் குத்தியுள்ளது.
+A grandmother has died without treatment due to injury to the thorns of the Mudkilu tree.
 
-அதனால் ஓரிரு நாட்களில் காலில் வலி ஏற்பட மூளாய் வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட நிலையில் , மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+The deceased is Vanitarekarasi Balasubramaniam (age 73) from Kalabhoomi, Karainagar, Jaffna.
 
-முள்ளு குத்திய காயத்தில் ஏற்பட்ட கிருமி தொற்று காரணமாகவே உயிரிழப்பு ஏற்பட்டுள்ளதாக உட்கூற்று பரிசோதனையில் குறிப்பிடப்பட்டுள்ளது.  R
+When the firewood went to tolerate the past few days, the thorn of the bark was pierced on the thorny leg.
+
+He was admitted to the Jaffna Bodhana Hospital for further treatment.
+
+The intake examination states that the infection caused by the thorn in the thorn.R
 
 ◼️
 
 [Data](articles/73efe76e.json)
+
+[Extended Data](ext_articles/73efe76e.ext.json)
 
 ---
 
@@ -1884,6 +1982,24 @@ The construction work is conducted to the relief, a new technique for the first 
 
 ---
 
+### ජපානයෙන් එන සුබ ආරංචිය
+
+*2024-07-18 20:01:54* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-එන-සුබ-ආරංචිය/11-410865) · `si`
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සාර්ථකව අවසන් වී ඇති බැවින් පසුගිය සමයේ අත්හිටුවා තිබූ ව්‍යාපෘති ද ඇතුළුව ජපාන නිල සංවර්ධන ආධාර යටතේ (ODA) ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක කර ඇති ව්‍යාපෘති ආරම්භ කිරීමට බලාපොරොත්තු වන බව ශ්‍රී ලංකාවේ සංචාරයක නිරත ජපාන දූත පිරිසේ ප්‍රධානී ආචාර්ය ඉසුමි හිරොටෝ මහතා (Dr. IZUMI Hiroto) පැවසීය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ කටයුතු කරමින් නිල ණය හිමියන්ගේ කමිටුව සමඟ එක්ව ඉතා කෙටි කාලයක් තුළ සාර්ථකව ණය ප්‍රතිව්‍යුහගතකරණ ගිවිසුම්වලට එළැඹීම තුළින් ජාත්‍යන්තර ප්‍රජාව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නායකත්වය කෙරෙහි තබා ඇති විශ්වාසය පිළිබිඹු වන බව ද ඒ මහතා සඳහන් කළේය.
+
+මෙරටට පැමිණි නිවාස, ඉදිකිරීම් හා නාගරික ක්ෂේත්‍රයන්හි නියෝජිතයින්ගෙන් සමන්විත ජපාන ඉහළ පෙළේ දූත පිරිස ඊයේ (18) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු වූ අතර එහිදී මේ බව සඳහන් කෙරිණි.
+
+ශ්‍රී ලංකාව තුළ ජපානය විසින් නිල සංවර්ධන ආධාර යටතේ ක්‍රියාත්මක කර ඇති ව්‍යාපෘති නැවත ආරම්භ කිරීම සහ ශ්‍රී ලංකාව තුළ පවතින නව ආයෝජන අවස්ථා පිළිබඳව ද මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණ.
+
+...
+
+[Data](articles/5d569b5c.json)
+
+---
+
 ### Financial package for micro-minor and medium scale enterprises
 
 *2024-07-18 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198961) · `si`
@@ -2087,121 +2203,5 @@ The police media spokesman's office said that the cause of the abduction is not 
 [Data](articles/f6e0dd6f.json)
 
 [Extended Data](ext_articles/f6e0dd6f.ext.json)
-
----
-
-### Mahinda Rajapaksa is ready to support President
-
-*2024-07-18 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/188796) · `ta`
-
-Former President Mahinda Rajapaksa is willing to back current President Ranil Wickremesinghe, but only if he continues traveling with them. Rajadurai Hashan hasn't made a decision yet. They discussed strategies to win elections without prematurely declaring victory and plans to reunite divided groups, though specifics were not disclosed.
-
-🟩
-
-(Rajadurai Hashan) has not yet decided to support President Ranil Wickremesinghe. Former President Mahinda Rajapakse said he would support if he was ready to continue to travel with us.
-
-Responding to a question raised in the media after a meeting with party members at the PA's office.- What are the plans to get rid of? Answer - We have the best plans to win. We will not mention that we will win the candidate -we will not mention it in a timely manner. Now we know that we are fielding a strong candidate. Then we know.Answer - our government question - will you reunite those who are separated?Answer - They will come in a timely manner - Do you decide to support the president? The answer is - not until now, if he is ready to travel with us, we will continue to cooperate.
-
-◼️
-
-[Data](articles/76575b63.json)
-
-[Extended Data](ext_articles/76575b63.ext.json)
-
----
-
-### 4/21 Attack: Mandatory Holidays to the Northern Province
-
-*2024-07-18 19:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-21-தாக்குதல்-நிலந்தவுக்கு-கட்டாய-விடுமுறை/175-340641) · `ta`
-
-Following the Easter Sunday attack, the National Police Commission initiated disciplinary inquiries against Nilantha Jayawardena, a former SIS head and DIGP, placing him on mandatory leave pending the completion of these inquiries. This move comes after the Supreme Court's ruling, aiming to ensure impartiality during the process as he is currently on duty and could be influenced by witnesses.
-
-🟩
-
-The National Police Commission has said that the former head of the State Intelligence Service and Deputy Inspector General of Police Nilantha Jayawardena (administration), who was fined by the court on the Sunday (4/21) attack on Easter, has been on a compulsory holiday until the disciplinary inquiries are completed.
-
-According to the Supreme Court's decision on the Easter Sunday attack, the National Police Commission launched disciplinary inquiries against Jayawardena on the first day.
-
-The National Police Commission said that the action has been taken due to the fact that Nilantha Jayawardene is currently on duty and will be influenced by the witnesses who will testify to the disciplinary trial.
-
-◼️
-
-[Data](articles/edaeded7.json)
-
-[Extended Data](ext_articles/edaeded7.ext.json)
-
----
-
-### Justice Minister withholds gazetting of 22nd Amendment
-
-*2024-07-18 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100607/justice-minister-withholds-gazetting-of-22nd-amendment) · `en`
-
-Minister of Justice Wijeyadasa Rajapakshe has instructed his ministry’s secretary not to publish the Gazette notification on the 22nd Amendment to the Constitution until the Presidential Election is held.
-
-However, the Justice Minister has claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
-
-◼️
-
-[Data](articles/767a621c.json)
-
-[Extended Data](ext_articles/767a621c.ext.json)
-
----
-
-### A sudden decision pertaining to the presidential election
-
-*2024-07-18 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198960) · `si`
-
-Justice Minister Dr. Wijayadasa Rajapakse has ordered a halt to the 22nd constitutional amendment process until after the presidential election, aiming to clear uncertainties surrounding it.
-
-🟩
-
-Minister of Justice, Dr. Wijayadasa Rajapakse has instructed the Secretary to the Ministry of Justice to prevent the 22nd constitutional amendment to the Cabinet until the presidential election was taken up.
-
-Minister Wijayadasa Rajapakse said that he is to eradicate uncertainty in the presidential election.
-
-◼️
-
-[Data](articles/7c0e1606.json)
-
-[Extended Data](ext_articles/7c0e1606.ext.json)
-
----
-
-### Galle team to contest
-
-*2024-07-18 18:37:33* · [`adalk`](https://www.ada.lk/sports/ගාලු-කණ්ඩායම-අවසන්-මහ-තරගයට/9-410857) · `si`
-
-In the Lanka Premier League Cricket finals, the Galle team triumphed over the Jaffna team by 7 wickets. After Jaffna scored 177/7, Galle replied with 181/3 in 18.1 overs, securing their victory.
-
-🟩
-
-The Galle team was able to qualify for the final of the Lanka Premier League Cricket and defeated the Jaffna team by 7 wickets.
-
-Batting first 177/7 of the Jaffna team scored 177/7 and in reply, gathering 181/3 in 18.1 overs.
-
-◼️
-
-[Data](articles/133b9123.json)
-
-[Extended Data](ext_articles/133b9123.ext.json)
-
----
-
-### Suspect arrested for defrauding money promising jobs in UK
-
-*2024-07-18 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100606/suspect-arrested-for-defrauding-money-promising-jobs-in-uk) · `en`
-
-A person has been arrested today (18) by the Special Investigation Unit of the Sri Lanka Bureau of Foreign Employment (SLBFE) in connection with a foreign employment scam after he allegedly cheated millions of rupees by promising employment opportunities in the United Kingdom (UK).
-
-The investigations have revealed that the institution that was operating in the Colombo 02 area was an unlicensed foreign employment agency, without the necessary authorisation from the SLBFE and the owner of the institution, identified as ‘Samanture Jinna’, had fraudulently obtained Rs. 4 million per person by promising teaching assistant and restaurant jobs in the UK.
-
-Accordingly, the suspect was arrested in the Dehiwala area by the Special Investigations Unit of the SLBFE, following a complaint claiming that the person in question had swindled money from them under the pretence of providing foreign employment opportunities.
-
-...
-
-[Data](articles/f2ab47c4.json)
-
-[Extended Data](ext_articles/f2ab47c4.ext.json)
 
 ---

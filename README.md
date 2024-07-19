@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 19:36:46**
+As of **2024-07-19 19:54:04**
 
 ## Newspaper Stats
 
-*Scraped **36,156** Articles*
+*Scraped **36,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,160
 dailyftlk | 2,304
 adalk | 3,264
 adaderanalk | 4,176
-tamilmirrorlk | 4,390
+tamilmirrorlk | 4,391
 dailymirrorlk | 4,733
 virakesarilk | 5,653
 adaderanasinhalalk | 6,049
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,049
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,155 (100.0%) of 36,156 articles have been extended.
+36,156 (100.0%) of 36,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### ஸ்ரீ கதிர்வேலாயுத சுவாமி தேவஸ்தானத்தின் ஆடிவேல் விழா தேர் பவனி
+
+*2024-07-19 19:30:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீ-கதிர்வேலாயுத-சுவாமி-தேவஸ்தானத்தின்-ஆடிவேல்-விழா-தேர்-பவனி/175-340684) · `ta`
+
+கொழும்பு சம்மாங்கோடு ஸ்ரீ கதிர்வேலாயுத சுவாமி தேவஸ்தானத்தின் ஆடிவேல் விழா தேர் பவனி இன்று (2024.07.19) இடம்பெற்றது.
+
+இந்த தேர் அலரி மாளிகைக்கு முன்னால் சென்ற வேலையில் பிரதமர் தினேஷ் குணவர்தன  பூஜையில் கலந்துகொண்டார்.
+
+அமைச்சர் ஜீவன் தொண்டமான், பாராளுமன்ற உறுப்பினர்களான ஏ.எச்.எம். பெளசி, யதாமினி குணவர்தன , இந்திய உயர் ஸ்தானிகர் சந்தோஸ் ஜா,  பிரதமரின் செயலாளர் அநுர திஸாநாயக்க மற்றும் இந்து பக்தர்களும் இந்த நிகழ்வில் கலந்துகொண்டனர். R
+
+◼️
+
+[Data](articles/859a3a85.json)
+
+---
 
 ### President says there should be no fear regarding constitutional amendment
 
@@ -42,11 +58,15 @@ Furthermore, Wickremesinghe expressed that Sri Lanka is unique in maintaining de
 
 Moreover, the Head of the State added that he is dedicated to preserving this democratic tradition, according to the PMD.
 
-The 22nd Amendment to the Constitution was published via a Gazette notification by order of President Ranil Wickremesinghe today (19).  This will enable the paragraph (b) of Article 83 of the Constitution pertaining to the President’s term to be amended by replacing the words “to over six years” with the words “to over five years”.
+The President stated that when making constitutional amendments, he hands over that responsibility to someone experienced in the subject and that accordingly such activities were carried out by lawyers such as the late K.N. Choksy.
 
-◼️
+However, as Mr. Choksi was not alive at the time of the constitutional amendment in 2015, the matter had to be handed over to President’s Counsel Jayampathy Wickramaratne, he said.
+
+...
 
 [Data](articles/85962c64.json)
+
+[Extended Data](ext_articles/85962c64.ext.json)
 
 ---
 
@@ -2351,29 +2371,5 @@ The police said that a 54 year old man was deceased.
 [Data](articles/82518187.json)
 
 [Extended Data](ext_articles/82518187.ext.json)
-
----
-
-### Weather today
-
-*2024-07-19 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198968) · `si`
-
-Today, the southwest monsoon continues, causing strong winds across Sri Lanka. Expect closures in Western, Sabaragamuwa, Northwestern, Kandy, Nuwara Eliya, Galle, and Matara districts. Wind speeds range from 40 to 60 knots, affecting various regions including Whakinitura, Trincomalee, Hambantota, central hills, and North, North Central, and North Western provinces.
-
-🟩
-
-The Department of Meteorology shows that the existing winds will continue to provide the existing wind condition today (19) due to the active southwest monsoon.
-
-Accordingly, several closes in the Western, Sabaragamuwa and Northwestern provinces have several closed in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Whakinitura, Trincomalee and Hambantota districts are situated in the western mountains in the central hills and North, North Central and North Western provinces.. Strong winds also occur between 50 and 60.
-
-At times, there are times in the rest of the island.. There are also 40,000 strong winds can also occur.
-
-◼️
-
-[Data](articles/d0eda082.json)
-
-[Extended Data](ext_articles/d0eda082.ext.json)
 
 ---

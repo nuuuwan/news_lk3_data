@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 20:20:12**
+As of **2024-07-19 20:35:39**
 
 ## Newspaper Stats
 
-*Scraped **36,161** Articles*
+*Scraped **36,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 4,176
 tamilmirrorlk | 4,392
 dailymirrorlk | 4,733
 virakesarilk | 5,653
-adaderanasinhalalk | 6,049
+adaderanasinhalalk | 6,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,161 (100.0%) of 36,161 articles have been extended.
+36,161 (100.0%) of 36,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### ක්ලබ් වසන්ත ගේ ඝාතකයින් මාස 6ක් රැඳී සිටි තැන
+
+*2024-07-19 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198995) · `si`
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඝාතනය කිරීම සඳහා පැමිණි වෙඩික්කරුවන් දෙදෙනා හඳුනාගෙන ඇතැයි පොලීසිය පවසයි.
+
+එමෙන්ම පොලිස් ආරංචි මාර්ග පැවසුවේ අදාළ ඝාතනයට සම්බන්ධ කාන්තාවක් ඇතුළු තවත් පුද්ගලයන් කිහිපදෙනෙකු අත්අඩංගුවට ගැනීමට නියමිත බවය.
+
+සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත අතුරුගිරියේදී වෙඩි තබා ඝාතනය කෙරුණේ ඉකුත් ජූලි 8 වනදාය.
+
+ඒ අනුව විමර්ශන සිදුකළ පොලීසිය සැකකරුවන් 7 දෙනෙකු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව ජූලි 22 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+අනතුරුව දීර්ඝ විමර්ශනයක් සිදුකළ පොලීසිය ඝාතනයට සම්බන්ධ කාන්තාවක් ඇතුළු තවත් සැකකරුවන් කිහිපදෙනෙකු පිළිබඳව අනාවරණ කරගෙන තිබේ.
+
+වැඩිදුර පොලිස් විමර්ශනවලදී අනාවරණ වී ඇත්තේ, ඝාතනයෙන් අනතුරුව වෙඩික්කරුවන්ට පළායෑම වෙනුවෙන්ම විශේෂ බස් රථයක් සූදානම් කර තිබී ඇති අතර ඔවුන් එමගින් පළාගොස් ඇති බවය.
+
+වෙඩික්කරුවන් දෙදෙනා හිටපු ආරක්ෂක අංශ සාමාජිකයන් බවද පොලීසිය අනාවරණ කරගෙන තිබේ.
+
+ඔවුන් දෙදෙනා ඇතුළු පිරිස මාස 6ක කාලයක් සඳහා රුපියල් ලක්ෂ 6ක මුදලක් ලබාදී අතුරුගිරිය ප්‍රදේශයෙන් කුලී නිවසක්ද ලබාගෙන සිට ඇති බව පොලිස් ආරංචි මාර්ග පවසයි.
+
+...
+
+[Data](articles/51200f03.json)
+
+---
 
 ### Chavakachcheri Controversy - Call for Inquiry
 
@@ -2365,31 +2391,5 @@ Fairly strong winds about 30-40kmph can be expected at times elsewhere of the is
 [Data](articles/51488f1f.json)
 
 [Extended Data](ext_articles/51488f1f.ext.json)
-
----
-
-### Pregnant women and children's health
-
-*2024-07-19 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198973) · `si`
-
-Over the last decade, diabetes rates among pregnant women and children have risen significantly, especially in urban areas where about 20% of the population is affected. Experts emphasize the importance of regular exercise, reducing sugar intake, and maintaining a healthy lifestyle to manage diabetes effectively. They also advise monitoring for symptoms like facial hair growth in family members with diabetes, high blood pressure, or cholesterol issues.
-
-🟩
-
-During the past 10 years pregnant mothers and children have increased the victims of diabetes.
-
-Dr. Uditha Kugagahapitiya, Dr. Uditha and Horcut in Colombo National Hospital stated that about 20 percent of people living in urban areas have been victims of diabetes.
-
-Specialist medical UPFA Kavudagitiya added, "Diyaradi Dr. UPFA Kimbugahapitiya added.
-
-"We should all try to live in diabetes without. It is essential to exercise an hour or half an hour for that. Reducing high sugar foods and maintaining the weather, meat, fish, and the weight of his heights can lead to a happy life in diabetes. "
-
-"If a family member has diabetes, heavy blood pressure, cholesstroleral illness, is important to see if there are hair grows in the face area."
-
-◼️
-
-[Data](articles/5ab41e00.json)
-
-[Extended Data](ext_articles/5ab41e00.ext.json)
 
 ---

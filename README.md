@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 16:06:50**
+As of **2024-07-19 16:20:15**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,042
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,125 (100.0%) of 36,127 articles have been extended.
+36,127 (100.0%) of 36,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
 
-### රොකී ෆ්ලින්ටොෆ් වාර්තාවක් තබයි
+### Rocky flintoff keep a record
 
 *2024-07-19 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198987) · `si`
 
-එංගලන්ත වයස අවුරුදු 19 පහළ සහ ශ්‍රී ලංකා වයස අවුරුදු 19 පහළ කණ්ඩායම් අතර පැවැත්වෙන දෙවැනි නිල නොවන ටෙස්ට් තරගයේ සිව් වන දිනය අදයි (19).
+In the fourth unofficial Test match between Sri Lanka and England, Sri Lanka made 246 in their second innings after scoring 153 in the first, while England amassed 477. A 16-year-old, Rocky Flintoff, son of cricketer Andrew Flintoff, scored a century, marking his debut in Test cricket.
 
-ඊයේ (18) තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 7ක් දැවී ලකුණු 246ක් ලබා සිටියේය.
+🟩
 
-ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා ලකුණු 153ක් ලබා ගත් අතර එංගලන්ත යොවුන් ක්‍රීඩකයෝ ඊට පිළිතුරු ලෙස ලකුණු 477ක් රැස්කළහ.
+Today is the four-unofficial Test between the 19-year-old Test match between 19 years of age and 19-year-olds.
 
-ඒ අනුව ඉනිමක පරාජයෙන් බේරීම සඳහා ශ්‍රී ලංකා ක්‍රීඩකයෝ තවත් ලකුණු 78ක් ලබාගත යුතුය.
+Sri Lanka scored 246 runs for the loss of 7 wickets in their second innings when the match was stopped yesterday.
 
-ඒ එංගලන්ත අවුරුදු 19 පහළ කණ්ඩායම වෙනුවෙන් අඩුම වයසකදී ශතකයක් රැස්කළ ක්‍රීඩකයා බවට පත් වෙමිනි.
+Sri Lanka scored 153 runs for their first innings, while England youths scored 477 runs.
 
-16 හැවිරිදි රොකී ෆ්ලින්ටොෆ්, එංගලන්තය වෙනුවෙන් සුපිරි දස්කම් පෑ ඇන්ඬෲ ෆ්ලින්ටොෆ් ගේ පුත්‍රයා වෙයි.
+Sri Lankan players should obtain 78 more to escape the defeat of an innings.
+
+It became a player who scored a century at the lowest century at the lowest year of England.
+
+The 16 year old Rocky Flisteff is the son of the superior performance Alanguard, England.
 
 ◼️
 
 [Data](articles/e53528df.json)
+
+[Extended Data](ext_articles/e53528df.ext.json)
 
 ---
 
@@ -141,6 +147,8 @@ This amendment will enable the paragraph (b) of Article 83 of the Constitution p
 ◼️
 
 [Data](articles/ba38bcc9.json)
+
+[Extended Data](ext_articles/ba38bcc9.ext.json)
 
 ---
 

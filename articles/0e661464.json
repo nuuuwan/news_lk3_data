@@ -1,0 +1,22 @@
+{
+  "newspaper_id": "adaderanalk",
+  "url": "https://www.adaderana.lk/news/100630/srilankan-airlines-restores-internet-booking-services-following-global-outage",
+  "time_ut": 1721389560.0,
+  "original_lang": "en",
+  "original_title": "SriLankan Airlines restores internet booking services following global outage",
+  "original_body_lines": [
+    "SriLankan Airlines announced that its internet booking services have been fully restored as of 08:30 GMT (02.00 pm local time), following a global outage of third-party service providers that affected the airline\u2019s online booking services.",
+    "\u201cWe understand that this may have impacted the experience of some of our passengers, and we sincerely apologize for any inconvenience caused,\u201d the airline said in a brief statement.",
+    "Passengers are instructed to contact the Global Contact Centre at +94 19733 1979 for any further assistance with existing or new bookings.",
+    "The failure of IT systems across the world have caused delays and issues at airports across Asia, causing several airlines to ground flights.",
+    "AirAsia said its \u201ccore reservation and check-in system\u201d have been impacted by the Microsoft tech issues while Cebu Pacific Air said it was forced to handle all processes manually due to the outage.",
+    "Singapore Airlines said none of its flights had been impacted, but that it is experiencing technical difficulties.",
+    "Taiwan\u2019s Taoyuan International Airport said several airlines at the airport had been impacted. Jetstar, Hong Kong Express, Jeju Air and Scoot have all resorted to manual check-ins, the airport said.",
+    "Dubai International Airport said the check-in process for some airlines had been affected, but that it is \u201cnow back to operating normally.\u201d",
+    "Delhi\u2019s Indira Gandhi International Airport and six Indian airlines have also reported technical difficulties. Jaipur International Airport said \u201cflights nationwide\u201d have been affected by the outage.",
+    "South Korea\u2019s Incheon International Airport said Air Premia, Easter Jet and several other airlines had been affected. Korean Air, the country\u2019s flagship carrier, said it uses Amazon Web Services (AWS) and so had not been affected.",
+    "Microsoft said the \u201cunderlying cause\u201d that caused the global outage \u201chas been fixed,\u201d adding that residual impact is still affecting some services.",
+    "\u201cWe\u2019re conducting additional mitigations to provide relief,\u201d the post added.",
+    "The outage appears to stem at least partly from a software update issued by firm CrowdStrike. The CEO of CrowdStrike said that the IT issue causing a global outage has been identified and that a fix has been deployed."
+  ]
+}

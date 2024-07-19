@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-19 13:05:22**
+As of **2024-07-19 13:20:06**
 
 ## Newspaper Stats
 
-*Scraped **36,099** Articles*
+*Scraped **36,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,052
 economynextcom | 2,156
 dailyftlk | 2,304
 adalk | 3,263
-adaderanalk | 4,166
+adaderanalk | 4,167
 tamilmirrorlk | 4,387
 dailymirrorlk | 4,733
 virakesarilk | 5,629
@@ -26,11 +26,33 @@ adaderanasinhalalk | 6,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,098 (100.0%) of 36,099 articles have been extended.
+36,099 (100.0%) of 36,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-19 (Friday)
+
+### Mass IT outage affects airlines, media and banks
+
+*2024-07-19 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100621/mass-it-outage-affects-airlines-media-and-banks) · `en`
+
+A raft of global institutions - including major banks, media outlets and airlines - have reported being hit by a mass IT outage.
+
+The US state of Alaska has warned its emergency services are affected, while there are also reports of the London Stock Exchange being impacted.
+
+Australia has been particularly hard hit with flights grounded, supermarkets experiencing checkout chaos, and broadcast networks left scrambling on air as autocue, graphics and computers failed.
+
+The cause of the outage is unclear, but many of those affected have linked it to Microsoft PC operating systems.
+
+An official Microsoft 365 service update posted to X earlier in the day said “ we’re investigating an issue impacting users ability to access various Microsoft 365 apps and services”.
+
+However a Microsoft spokesperson told the BBC on Friday afternoon that “the majority of services were recovered earlier” in the day.
+
+...
+
+[Data](articles/25578066.json)
+
+---
 
 ### Pakistanis imprisoned in Sri Lanka to be repatriated in seven days
 
@@ -232,21 +254,27 @@ He noted that the price of an egg in the market has now exceeded 50 rupees due t
 
 ---
 
-### රාජ්‍ය සේවකයන් හෝ වැටුප් කප්පාදුවක් කළේ නෑ
+### No public servants or salary cut
 
 *2024-07-19 11:07:28* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්-හෝ-වැටුප්-කප්පාදුවක්-කළේ-නෑ/11-410867) · `si`
 
-කොරෝනා වසංගත තත්ත්වය හා දරුණු ආර්ථික අර්බුදය හමුවේ වුවද කිසිදු සේවක හෝ වැටුප් කප්පාදුවකින් තොරව රාජ්‍ය සේවය ස්ථාවරව පවත්වාගෙන යාමට හැකි වීම ජයග්‍රහණයක් බවත් ඒ වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන් ලද උපදෙස් ඉවහල් වූ බවත් ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පැවසීය.
+During the COVID-19 pandemic and economic crisis, Sri Lanka's public service remained intact without layoffs or wage cuts, thanks to the efforts of the Ministry of Home Affairs under Asoka Priyantha. Despite challenging times, the public service was preserved, highlighting its resilience and the government's commitment to its employees.
 
-ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+🟩
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා මෙසේද පැවසීය.
+Despite the crisis of the Corona Epidemic and the severe economic crisis, the public service is victorious without any employees or wage cuts.
 
-පසුගිය වසර දෙකක කාලය ඉතා දුෂ්කර වූත්, අභියෝගාත්මක වූත් කාලයක් ලෙස හැඳින්විය හැකියි. අප මුහුණ දුන් කොරෝනා වසංගත තත්ත්වය හා දරුණු ආර්ථික අර්බූදය හමුවේ රාජ්‍ය සේවයේ වැටුප් ගෙවීමේ අභියෝගයට මුහුණ දීමට සිදු වුණා. ඒ වගේම ඇතැමුන් රැකියා කප්පාදු කිරීමට සිදු වනු ඇතැයි උපකල්පනය කර තිබුණා.
+The Ministry of Home Affairs Asoka Priyantha made this statement participating at a press conference held at the press conference at the Presidential Media Center by two days.
+
+The Ministry of Home Affairs Asoka Priyantha further stated:
+
+The past two years, the last two years is very difficult, and challenging time. We were faced with the Korea epidemic and severe economic crisis. And some had assumed that they would have to cut jobs.
 
 ...
 
 [Data](articles/90ba9089.json)
+
+[Extended Data](ext_articles/90ba9089.ext.json)
 
 ---
 
@@ -2171,27 +2199,5 @@ He said steps are being taken to arrest the remaining two men involved in the in
 [Data](articles/ab792c8c.json)
 
 [Extended Data](ext_articles/ab792c8c.ext.json)
-
----
-
-### Examination on IGP
-
-*2024-07-18 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198966) · `si`
-
-The Supreme Court will announce on the 24th whether President-appointed IGP Deshabandu Tennakoon can hear fundamental rights petitions filed by Archbishop Malcolm Cardinal Ranjith. The court's decision comes after considering the petitions, but it remains unclear if this includes an interim injunction against Deshabandu Tennakoon.
-
-🟩
-
-Will the President to appoint Deshabandu Tennakoon to appoint the President to appoint the President appointed as the IGP be allowed to hear the fundamental rights petitions filed by the petitions?The Supreme Court announced that the order would be announced on the 24th.
-
-Is it also an interim injunction preventing Deshabandu Tennakoon prevents the IGP?Or aren't there?The judge has stated that the order is published on that day.
-
-The petitions were presented by Archbishop Malcolm Cardinal Ranjith and the order was issued after considering the petitions.
-
-◼️
-
-[Data](articles/9908179d.json)
-
-[Extended Data](ext_articles/9908179d.ext.json)
 
 ---

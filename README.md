@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 19:53:13**
+As of **2024-07-20 20:05:18**
 
 ## Newspaper Stats
 
-*Scraped **36,286** Articles*
+*Scraped **36,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,196
 tamilmirrorlk | 4,416
 dailymirrorlk | 4,733
 virakesarilk | 5,677
-adaderanasinhalalk | 6,079
+adaderanasinhalalk | 6,080
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,284 (100.0%) of 36,286 articles have been extended.
+36,286 (100.0%) of 36,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### බංග්ලාදේශයේ සිටින ලාංකික සිසුන් පිරිසක් අද දිවයිනට
+
+*2024-07-20 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199027) · `si`
+
+බංග්ලාදේශය තුළ උද්ගතව ඇති නොසන්සුන්කාරී තත්ත්වය හේතුවෙන් උසස් අධ්‍යාපනය සඳහා එරටට ගිය ශ්‍රී ලාංකික සිසුන් පිරිසක් අද (20) දිවයිනට පැමිණීමට නියමිත බව විදේශ කටයුතු අමාත්‍යංශය පවසයි.
+
+එරට විශ්වවිද්‍යාල 03ක ශ්‍රී ලාංකික සිසුන් 50 දෙනෙකු පමණ අධ්‍යයන කටයුතුවල නිරත වන බව අමාත්‍යංශය පෙන්වා දෙයි.
+
+බංග්ලාදේශයේ විශ්වවිද්‍යාල සිසුන් විසින් ක්‍රියාත්මක කර ඇති විරෝධතා හේතුවෙන් එරට විශ්වවිද්‍යාල වසා දමා තිබුණ ද ජාත්‍යන්තර සිසුන්ට එරටින් ඉවත් වන ලෙස දැනුම් දීමක් සිදුකර නොතිබීම හේතුවෙන් ශ්‍රී ලාංකික සිසුන්ට ආරක්ෂිතව නේවාසිකාගාරවල රැඳී සිටීමේ හැකියාව පවතින බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+
+බංග්ලාදේශයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා එම සිසුන් පෞද්ගලිකව හමුවී ඔවුන්ගේ අවශ්‍යතා සම්බන්ධයෙන් සොයා බලා ඇති අතර ශ්‍රී ලංකාවට සිසුන්ගේ ආරක්ෂාව පිළිබඳව එම විශ්වවිද්‍යාලවල පාලනාධිකාරිය සමග ද සාකච්ඡා කර තිබේ.
+
+ආරක්ෂාව සම්බන්ධයෙන් සෑහීමකට පත් නොවන්නේ නම් ශ්‍රී ලංකාවට යාමේ හැකියාව පවතින බවද මහකොමසාරිස්වරයා එම සිසුන්ට දැනුම් දී ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/742b7dce.json)
+
+---
 
 ### UN top court says Israeli occupation of Palestinian territories is illegal
 
@@ -52,29 +72,39 @@ The court was specifically asked to give its view on Israel’s policies and pra
 
 [Data](articles/4af448b7.json)
 
+[Extended Data](ext_articles/4af448b7.ext.json)
+
 ---
 
-### ජනපති පත්වී අදට වසර 2ක්
+### President appoints 2 years
 
 *2024-07-20 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199026) · `si`
 
-වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තු ඡන්දයෙන් ජනාධිපතිවරයා ලෙස තේරී පත්වී අදට (20) වසර දෙකක් සපිරෙයි.
+In a parliamentary vote, Ranil Wickremesinghe became Sri Lanka's president, succeeding Gotabhaya Rajapaksa. Wickremesinghe, alongside Dullas Alahapperuma and Anura Kumara Dissanayake, was nominated for the position. The election took place on July 20, 2022, with 223 votes cast; two MPs abstained, and four votes were invalidated. Wickremesinghe won with 134 votes, marking his return to the presidency. He is credited with steering the country through an economic crisis. Despite this, the constitutional term limits the duration of his presidency, and the Election Commission plans to announce the presidential election date soon.
 
-2022 වසරේ ජුලි මස 20 වනදා මෙරට 08වන ජනාධිපතිවරයා ලෙස රනිල් වික්‍රමසිංහ මහතා තේරී පත්වූ බව එවකට පාර්ලිමේන්තු මහලේකම්වරයා ලෙස කටයුතු කළ ධම්මික දසනායක මහතා සඳහන් කළේය.
+🟩
 
-හිටපු ජනාධිපති ‍ගෝඨාභය රාජපක්ෂ මහතා එම ධුරයෙන් ඉවත් වීමත් සමග විධායක ජනාධිපති ධුරය සඳහා පුරප්පාඩුවක් පැවති අතර ඒ අනුව අනුප්‍රාප්තික ජනාධිපතිවරයෙකු තෝරා පත් කරගැනීමට පියවර ගත්තේය.
+President Ranil Wickremesinghe was elected the president by the election by the parliamentary voting and the year (20).
 
-අනුප්‍රාප්තික ජනාධිපතිවරයෙකු තෝරා පත්කර ගැනීම සඳහා රනිල් වික්‍රමසිංහ, ඩලස් අලහප්පෙරුම සහ අනුර කුමාර දිසානයක යන මහත්වරුන් ඉදිරිපත් විය.
+Dhammika Dassanayake, who was elected as the Secretary General of Parliament, was elected to July 20, 2022.
 
-ඡන්ද විමසීම උදෑසන 10ට පාර්ලිමේන්තුවේ දී ආරම්භ වු අතර කථානායක මහින්ද යාපා අබේවර්ධන ඇතුළු මන්ත්‍රීවරුන් 223 දෙනෙකු ඡන්දය භාවිත කළේය.
+With the resignation of former President Gotabhaya Rajapaksa, there was a vacancy for the executive presidency, and chose a successive president.
 
-මන්ත්‍රීවරුන් දෙදෙනෙකු ඡන්දය භාවිත කිරීමෙන් වැළකී සිටි අතර ඡන්ද 04ක් ප්‍රතික්ෂේප වී තිබුණි.
+Ranil Wickrehiasinghe, Dullas Alahapperuma and Anura Kumara Divisions were presented to elect a successive president.
 
-ඒ අනුව වලංගු ඡන්ද සංඛ්‍යාව වු 219න් ඡන්ද 134ක් ලබා ගනිමින් රනිල් වික්‍රමසිංහ මහතා අනුප්‍රාප්තික ජනාධිපතිවරයා ලෙස තේරී පත් වුණි.
+The election began in parliament at 10 am and 223 members of the Speaker Mahinda Yapa Abeywardena voted.
+
+Two MPs refrained from election and four votes were rejected.
+
+According to the 219 votes, Ranil Wickremesinghe was elected as the Superinteer Association with 134 votes.
+
+Ranil Wickremesinghe has taken the presidency from that day and is considered a leader who has saved the country from the economic crisis.
 
 ...
 
 [Data](articles/db608044.json)
+
+[Extended Data](ext_articles/db608044.ext.json)
 
 ---
 
@@ -2309,27 +2339,5 @@ Ruhunu University Vice Chancellor Sujeewa Amarasena presented a souvenir to Pres
 [Data](articles/50a17be5.json)
 
 [Extended Data](ext_articles/50a17be5.ext.json)
-
----
-
-### 4 women arrested in prostitution in Vavuniya
-
-*2024-07-19 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188897) · `ta`
-
-In Vavuniya, four women from Vavuniya and Galle were arrested for prostitution during a police raid at a hostel in Thekkawatte. Led by the Vavuniya Chief Police Station, the operation resulted in their detention for operating without authorization. Following investigations, they will face charges in court.
-
-🟩
-
-Four women have been arrested for engaging in prostitution during a special raid conducted by a hostel in Thekkawatte area in Vavuniya, police said.
-
-The police, led by the Chief Police Station in Vavuniya, engaged in a special surveillance operation at night. At the time of a hostel in Thekkawatte area, 4 women were arrested for engaging in prostitution without proper permission.
-
-The arrested are from Vavuniya and Galle. After further investigations, the police have taken steps to appear in court.
-
-◼️
-
-[Data](articles/63705430.json)
-
-[Extended Data](ext_articles/63705430.ext.json)
 
 ---

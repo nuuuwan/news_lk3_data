@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 22:53:18**
+As of **2024-07-20 23:05:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,084
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,298 (100.0%) of 36,300 articles have been extended.
+36,300 (100.0%) of 36,300 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ During his visit, the former Australian PM also attended the Sri Lanka Human Cap
 ◼️
 
 [Data](articles/a36ec482.json)
+
+[Extended Data](ext_articles/a36ec482.ext.json)
 
 ---
 
@@ -82,19 +84,25 @@ So Sri Lanka women won the winning limit at the end of 17 wickets in the end of 
 
 ---
 
-### யேமனின் துறைமுக நகரம் மீது இஸ்ரேல் - டெல்அவி தாக்குதலிற்கு பதிலடி
+### Israel -Tel Avi's retaliation on Yemen's port city
 
 *2024-07-20 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188968) · `ta`
 
-யேமனின் ஹொடெய்டா நகரின் மீது இஸ்ரேல் வான்வெளி தாக்குதலை மேற்கொண்டுள்ளதாக ஹெளத்தி கிளர்ச்சியாளர்கள் தெரிவித்துள்ளனர்.
+Israel retaliated against Yemen's Houthi rebels after an unmanned airstrike on Tel Aviv from Hodaida, a port city in Yemen.
 
-யேமனின் செங்கடல் துறைமுக நகரான ஹொடெய்டா மீது தாக்குதல் இடம்பெற்றுள்ளதாக யேமன் கிளர்ச்சியாளர்களின் அல்மஷிரா தொலைக்காட்சி தெரிவித்துள்ளது.
+🟩
 
-வெள்ளிக்கிழமை இஸ்ரேல் தலைநகர் மீது ஹெளத்தி கிளர்ச்சியாளர்கள் ஆளில்லா விமானதாக்குதலை மேற்கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+Haithi insurgents have reported that Israeli airspace has been attacked on Yemen's Hodaida city.
+
+Almashira Television of Yemeni insurgents has reported that the attack on Yemen's Red Sea City, Hodaida.
+
+It is noteworthy that Haundi rebels carried out an unmanned air strike on the Israeli capital on Friday.
 
 ◼️
 
 [Data](articles/b6b433d0.json)
+
+[Extended Data](ext_articles/b6b433d0.ext.json)
 
 ---
 

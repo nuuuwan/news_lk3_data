@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 12:53:18**
+As of **2024-07-20 13:05:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,247 (100.0%) of 36,250 articles have been extended.
+36,250 (100.0%) of 36,250 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Talangama Police together with the Mirihana SOCO Unit are conducting further inv
 
 [Data](articles/1592701f.json)
 
+[Extended Data](ext_articles/1592701f.ext.json)
+
 ---
 
 ### Authorities on alert about Sri Lankan students in Bangladesh amid deadly protests
@@ -68,23 +70,31 @@ The clashes have also not been confined to Dhaka, with 26 districts reporting in
 
 [Data](articles/8fdcb2a9.json)
 
+[Extended Data](ext_articles/8fdcb2a9.ext.json)
+
 ---
 
-### யாழிலில் குழந்தையை கைவிட்டு காதலுடன் சென்ற குடும்ப பெண் ; பெண்ணும் காதலனும் விளக்கமறியலில்
+### Family girl who abandoned the baby in Jaffna;In the description of the woman and the lover
 
 *2024-07-20 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188931) · `ta`
 
-தனது இரண்டரை வயது குழந்தையை கைவிட்டு, காதலனுடன் ஊரை விட்டு வெளியேறிய குடும்ப பெண்ணையும், காதலனையும் விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+A woman from Jaffna, living with her husband and child near the police station, recently left the city with her boyfriend. Her husband filed a complaint leading to their arrest. The Jaffna Magistrate's Court, after a hearing, ordered them held for 14 days.
 
-யாழ்ப்பாணம் பொலிஸ் நிலையத்திற்கு உட்பட்ட பகுதியில் கணவன் மற்றும் தனது குழந்தையுடன் வசித்து வந்த குடும்ப பெண்ணொருவர் கடந்த சில தினங்களுக்கு முன்னர் தனது காதலுடன் ஊரை விட்டு சென்று இருந்தார்.
+🟩
 
-இது தொடர்பில் கணவனால் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டது. முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் பெண்ணையும், அவரது காதலனான இளைஞனையும் கைது செய்தனர்.
+The court has ordered the abandonment of her two -and -a -half -year -old baby girl and her boyfriend who left the city with her boyfriend.
 
-கைது செய்யப்பட்ட இருவரையும் விசாரணைகளின் பின்னர் யாழ்ப்பாண நீதவான் நீதிமன்றில் முற்படுத்தியதை அடுத்து, நீதிமன்ற விசாரணைகளை அடுத்து இருவரையும் 14 நாட்கள் விளக்கமறியலில் தடுத்து வைக்குமாறு மன்று உத்தரவிட்டுள்ளது.
+A family woman who lived with her husband and her child in the area of ​​the Jaffna police station had left the city a few days ago.
+
+A complaint was lodged at the Jaffna Police Station by husband. According to the complaint, the police arrested the woman and her boyfriend.
+
+Following the trial of the two men, the Jaffna Magistrate's Court has ordered the detainees to be detained for 14 days following a court hearing.
 
 ◼️
 
 [Data](articles/aace322b.json)
+
+[Extended Data](ext_articles/aace322b.ext.json)
 
 ---
 

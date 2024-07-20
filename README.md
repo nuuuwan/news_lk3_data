@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 12:35:51**
+As of **2024-07-20 12:53:18**
 
 ## Newspaper Stats
 
-*Scraped **36,247** Articles*
+*Scraped **36,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,75 +16,149 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,268
-adaderanalk | 4,187
+adaderanalk | 4,189
 tamilmirrorlk | 4,406
 dailymirrorlk | 4,733
-virakesarilk | 5,672
+virakesarilk | 5,673
 adaderanasinhalalk | 6,066
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,241 (100.0%) of 36,247 articles have been extended.
+36,247 (100.0%) of 36,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### வங்கதேச வன்முறை: 105 பேர் பலி; ஊரடங்கு அமல்
+### Unidentified  body found floating in Diyawanna Lake
+
+*2024-07-20 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100646/unidentified-body-found-floating-in-diyawanna-lake) · `en`
+
+An unidentified body has been found floating in the Diyawanna Lake this morning (20).
+
+The body was spotted by a passerby near the jogging track on the Japan-Sri Lanka Friendship Road, who then informed Talangama Police regarding the matter.
+
+The identity of the deceased is yet to be confirmed while he is believed to be around 60 to 65 years old, the police said.
+
+Talangama Police together with the Mirihana SOCO Unit are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/1592701f.json)
+
+---
+
+### Authorities on alert about Sri Lankan students in Bangladesh amid deadly protests
+
+*2024-07-20 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100645/authorities-on-alert-about-sri-lankan-students-in-bangladesh-amid-deadly-protests) · `en`
+
+Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya says that the Bangladesh High Commission in India is on alert about the Sri Lankan students in Bangladesh, amid violent protests.
+
+Meanwhile, around 300 Indian students have returned home from Bangladesh after the student-youth agitation against the announcement of reservation in government jobs gained strength.
+
+Authorities in Bangladesh have imposed a nationwide curfew after this week’s rioting in the capital Dhaka left around 104 dead and nearly 2500 people seriously injured. Police fire was the cause of more than half of the deaths reported so far this week, as per reports.
+
+On Friday, Bangladeshi student protesters stormed a prison and freed hundreds of inmates as police struggled to quell unrest, with huge rallies in the capital Dhaka despite a police ban on public gatherings.
+
+The clashes have also not been confined to Dhaka, with 26 districts reporting incidents.
+
+...
+
+[Data](articles/8fdcb2a9.json)
+
+---
+
+### யாழிலில் குழந்தையை கைவிட்டு காதலுடன் சென்ற குடும்ப பெண் ; பெண்ணும் காதலனும் விளக்கமறியலில்
+
+*2024-07-20 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188931) · `ta`
+
+தனது இரண்டரை வயது குழந்தையை கைவிட்டு, காதலனுடன் ஊரை விட்டு வெளியேறிய குடும்ப பெண்ணையும், காதலனையும் விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+யாழ்ப்பாணம் பொலிஸ் நிலையத்திற்கு உட்பட்ட பகுதியில் கணவன் மற்றும் தனது குழந்தையுடன் வசித்து வந்த குடும்ப பெண்ணொருவர் கடந்த சில தினங்களுக்கு முன்னர் தனது காதலுடன் ஊரை விட்டு சென்று இருந்தார்.
+
+இது தொடர்பில் கணவனால் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டது. முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் பெண்ணையும், அவரது காதலனான இளைஞனையும் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட இருவரையும் விசாரணைகளின் பின்னர் யாழ்ப்பாண நீதவான் நீதிமன்றில் முற்படுத்தியதை அடுத்து, நீதிமன்ற விசாரணைகளை அடுத்து இருவரையும் 14 நாட்கள் விளக்கமறியலில் தடுத்து வைக்குமாறு மன்று உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/aace322b.json)
+
+---
+
+### Bangladesh Violence: 105 killed;Curfew
 
 *2024-07-20 12:11:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-வன்முறை-105-பேர்-பலி-ஊரடங்கு-அமல்/50-340710) · `ta`
 
-வங்கதேசத்தில் அரசு வேலைவாய்ப்பில் இடஒதுக்கீடு சீர்திருத்தம் தொடர்பான மாணவர்கள் போராட்டத்தால் ஏற்பட்ட வன்முறை காரணமாக 105 பேர் உயிரிழந்துள்ளனர், 1,500-க்கும் அதிகமானோர் காயமடைந்துள்ளனர்.
+In Bangladesh, student protests over job quota reforms escalated, leading to 105 deaths and over 1500 injuries. A nationwide curfew was imposed, along with military deployment, as authorities used tear gas and rubber bullets to quell the unrest. All gatherings were banned in Dhaka, marking a state of emergency.
 
-போராட்டம் தீவிரமடைந்த காரணத்தால் வெள்ளிக்கிழமை பிற்பகுதியில் நாடு முழுவதும் ஊடரங்கு உத்தரவு பிறப்பிக்கப்பட்டது. மேலும் நாட்டில் அமைதியை நிலைநாட்ட ராணுவத்தை அனுப்ப அரசு உத்தரவிட்டுள்ளது.
+🟩
 
-போராட்டத்தால் ஏற்பட்ட வன்முறையைக் கட்டுப்படுத்த பாதுகாப்புப் படையினர் மற்றும் போலீஸார் கண்ணீர் புகைகுண்டு மற்றும் ரப்பர் குண்டை பயன்படுத்தினர்.
+In Bangladesh, 105 people have been killed and more than 1,500 injured in the violence of students on the reservation reform in government employment.
 
-டாக்காவில் வெள்ளிக்கிழமை அனைத்து கூட்டங்களுக்கும் தடைவிதிக்கப்பட்டது. இந்த பின்னணியில் ஊரடங்கு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. R
+The country was issued a nationwide order on Friday after the struggle intensified. The government has also ordered the army to maintain peace in the country.
+
+Security forces and police used tear gas and rubber bomb to control the violence caused by the struggle.
+
+Banned for all meetings on Friday in Dhaka. In this backdrop, curfew has been issued. Remble
 
 ◼️
 
 [Data](articles/1fbc1dc2.json)
 
+[Extended Data](ext_articles/1fbc1dc2.ext.json)
+
 ---
 
-### ஹெய்டி கடல் பகுதியில் பயணித்த படகில் தீ ; 40 புலம்பெயர்ந்தோர் பலி !
+### Fire in the boat that was traveling in the Haiti Sea;40 migrants killed
 
 *2024-07-20 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188917) · `ta`
 
-ஹெய்டியின் வடக்கு கடற்பகுதியில் பயணித்த படகு தீப்பிடித்ததில் குறைந்தது 40 புலம்பெயர்ந்தோர் உயிரிழந்துள்ளதாக ஐக்கிய நாடுகள் சபையின் புலம்பெயர்வுக்கான சர்வதேச அமைப்பு தெரிவித்துள்ளது.
+A tragic fire on a migrant boat in the Haiti Sea resulted in the deaths of at least 40 people. The UN International Organization for Migration (IOM) reports 41 survivors rescued by the Haitian Coast Guard. The cause remains unclear, though it may involve fuel containers. Injured individuals are receiving treatment, with 11 hospitalized.
 
-இந்நிலையில், படகில் பயணித்த மேலும் 41 பேர் ஹெய்டி கடலோர காவல்படையினரால் பாதுகாப்பாக மீட்கப்பட்டதாக புலம்பெயர்வுக்கான சர்வதேச அமைப்பு தெரிவித்துள்ளது.
+🟩
 
-தீ விபத்துக்கான சரியான காரணம் இன்னும் தெளிவாகத் தெரியவில்லை, ஆனால் படகில் இருந்தவர்கள் மெழுகுவர்த்திகளை ஏந்தி தாங்கள் பாதுகாப்பாக பயணிக்க வேண்டும் என பிரார்த்தனை செய்த வேளை எரிபொருள் நிரப்பப்பட்ட கொள்கலன்களில் தீ் பிடித்து எரிந்துள்ளதாக உள்ளூர் அதிகாரி ஒருவர் வெளிநாட்டு செய்திச் சேவைக்கு கூறியுள்ளார்.
+At least 40 immigrants have been killed in a boat that traveled in Haidi's northern seas, the United Nations International Organization for Migration.
 
-தீ விபத்தில் காயமடைந்தவர்கள் புலம்பெயர்வுக்கான சர்வதேச அமைப்பு மூலம் சிகிச்சை பெற்று வருவதோடு, 11 பேர் அருகில் உள்ள வைத்தியசாலைக்கு மேலதிக சிகிச்சைக்காக கொண்டு செல்லப்பட்டுள்ளதாக அந்த அமைப்பு தெரிவித்துள்ளது.
+The International Organization for Migration has reported that 41 more people aboard the boat have been safely rescued by the Heidi Coast Guard.
+
+The exact cause of the fire is not yet clear, but a local official told a foreign news service that the boatmen were burnt in the refueling containers when they prayed that they had to travel safely.
+
+Those who were injured in the fire were being treated by the International Organization for the Diaspora and 11 people have been taken to the nearest hospital for further treatment, the organization said.
 
 ◼️
 
 [Data](articles/92aecba5.json)
 
+[Extended Data](ext_articles/92aecba5.ext.json)
+
 ---
 
-### 22வதுதிருத்த சட்ட மூலத்தினை தற்போது ஏன் கொண்டுவரவேண்டும் அதற்கான தேவை என்ன? சுமந்திரன் கேள்வி
+### 22 Why should it be brought to the source of the law?Sumanthiran question
 
 *2024-07-20 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188924) · `ta`
 
-அரசமைப்பின் 22வது திருத்த சட்டமூலத்தை தற்போது ஏன் கொண்டுவரவேண்டும் அதற்கான தேவை என்னவென தமிழ்தேசிய கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர் எம்ஏ சுமந்திரன் கேள்வி எழுப்பியுள்ளார்
+MA Sumanthiran questions the urgency of the 22nd Constitutional Amendment, arguing it confuses voters and disrupts the constitutional process, especially concerning presidential elections and universal suffrage. He suggests it might be seen as granting excessive powers to the President and unnecessary during the current term.
 
-இந்த சட்டமூலத்தை தற்போது கொண்டுவருவதற்கான அவசியம் என்னவென கேள்வி எழுப்பியுள்ள அவர்எனது பார்வையில் இது ,வாக்காளர்களிற்கு குழப்பத்;தை ஏற்படுத்துகின்றது என தெரிவித்துள்ளார்.
+🟩
 
-அரசமைப்பில் ஆணைவழங்கப்பட்டுள்ள படி ஐந்தாண்டு முடிவில் ஜனாதிபதி தேர்தலை நடத்துவதை இது சிக்கலிற்குட்படுத்தும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+Tamil National Alliance (TNA) parliamentarian MA Sumanthiran has questioned why the 22nd Amendment to the Constitution is now needed.
 
-22வது திருத்த சட்டமூலம் நாடாளுமன்றத்தில் மூன்றில் இரண்டுபெரும்பான்மையுடன் நிறைவேற்றப்பட்டால் அது குறித்து சர்வஜனவாக்கெடுப்பை நடத்துவதற்கான அதிகாரத்தை அரசமைப்பு ஜனாதிபதிக்கு வழங்குகின்றது என தெரிவித்துள்ள சுமந்திரன் தேர்தல் நடைபெறவுள்ள நிலையில் இது அதனை மேலும் குழப்பத்திற்குள்ளாக்கும் எனவும் குறிப்பிட்டுள்ளார்.
+He questioned the need to bring the bill to the present, and in his view, it is confusing the voters.
 
-தற்போதைய ஜனாதிபதியின் பதவிக்காலத்தில் இது எந்ததாக்கத்தையும் ஏற்படுத்தாத நிலையில் சர்வஜனவாக்கெடுப்பை நடத்துவது அவசியமற்ற விடயம் எனவும் அவர் தெரிவித்துள்ளார்.
+He added that it would be troubled by holding the presidential election at the end of the five years, according to the constitution.
+
+Sumanthiran said that if the 22nd Amendment was passed with two -thirds of the parliament, it would be confused as the election of the Constitution would be given to the President.
+
+He said that it is not necessary to conduct a universal payment as this has not been made in the current president's tenure.
 
 ◼️
 
 [Data](articles/5cb2e898.json)
+
+[Extended Data](ext_articles/5cb2e898.ext.json)
 
 ---
 
@@ -294,23 +368,29 @@ The profession has been handed over to the President where a professional three-
 
 ---
 
-### பலத்த காற்று, கடல் சீற்றம் தொடர்பில்  சிவப்பு எச்சரிக்கை
+### Red alarm regarding heavy winds, sea rage
 
 *2024-07-20 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188915) · `ta`
 
-அரபிக் கடல் மற்றும் வங்காள விரிகுடாவில் பலத்த காற்று மற்றும் கடல் சீற்றம் ஏற்படும்  என வளிமண்டலவியல் திணைக்களம் ‘சிவப்பு’ எச்சரிக்கை விடுத்துள்ளது.
+A severe weather warning has been issued for the Arabian Sea and Bay of Bengal due to strong winds and rough seas caused by the southwest monsoon. Winds may reach 70-80 km/h. The navy and fishermen are urged to avoid red-marked sea areas and return to shore or seek safety. Future forecasts from the Department of Meteorology should be closely monitored.
 
-செயற்பாட்டு நிலையில் உள்ள தென்மேற்குப் பருவப் பெயர்ச்சி நிலை காரணமாக, அரேபிய கடல் பகுதியில் (10வ - 20வ) மற்றும் (55கி - 74 கி) மற்றும் வங்காள விரிகுடா (கடல் பகுதிகளில்) அரேபிய கடல் பகுதியில் மணிக்கு 70 தொடக்கம் 80 கிலோ மீற்றர் வேகத்தில் மிக பலமான காற்று வீசக்கூடும்.
+🟩
 
-எனவே, கீழே உள்ள வரைபடத்தில் ‘சிவப்பு’ நிறத்தில் குறிப்பிடப்பட்டுள்ள கடல் பகுதிகளுக்கு மறு அறிவித்தல் வரும் வரை கடற்படை மற்றும் மீனவர்கள் செல்ல வேண்டாம் என அறிவுறுத்தப்படுகிறார்கள்.
+The Department of Meteorology has issued a warning of strong winds and sea rage in the Arabian Sea and the Bay of Bengal.
 
-மேற்குறிப்பிட்ட கடல் பகுதிகளில் இருப்பவர்கள் உடனடியாக கரையோரங்களுக்கு திரும்பவும் அல்லது பாதுகாப்பான பகுதிகளுக்கு செல்லவும் அறிவுறுத்தப்படுகிறார்கள்.
+Due to the southwest monsoon condition in the operating condition, strong winds can blow at speeds of 70 to 80 km / h in the Arabian Sea (10 w - 20 w) and (55kg - 74k) and the Bay of Bengal.
 
-இது தொடர்பில் வளிமண்டலவியல் திணைக்களத்தினால் வெளியிடப்படும் எதிர்கால கணிப்புகள் தொடர்பில் அவதானமாக இருக்குமாறு கடற்படை மற்றும் மீனவ சமூகங்கள் கேட்டுக் கொள்ளப்படுகின்றனர்.
+Therefore, the naval and fishermen are advised not to go to the sea areas of the red color in the map below.
+
+Those in the waters are advised to return to the shores immediately or go to safe areas.
+
+The Navy and Fisheries Communities are being asked to look closely to the future predictions published by the Department of Meteorology.
 
 ◼️
 
 [Data](articles/77799a20.json)
+
+[Extended Data](ext_articles/77799a20.ext.json)
 
 ---
 
@@ -434,43 +514,59 @@ Eleven migrants have been hospitalized for treatment with burn injuries.
 
 ---
 
-### ஜனாதிபதி தேர்தலில் போட்டி – அடுத்தமாதம் அறிவிப்பை வெளியிடுகின்றார் பொன்சேகா
+### Fonseka releases announcement next month
 
 *2024-07-20 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/188912) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடுவது குறித்து நாடாளுமன்ற உறுப்பினர் சரத்பொன்சேகா ஆகஸ்ட்மாதம் அறிவிப்பார் என தகவல்கள் வெளியாகியுள்ளன.
+Sarath Fonseka plans to run for president as an independent candidate, supported by several MPs, former MPs, and notable figures. His announcement, initially set for August, was postponed due to unresolved issues.
 
-முன்னாள் இராணுவதளபதியின் சிரேஸ்ட ஆலோசகர் ஜகன்ன கிருஸ்ணகுமார்,மூலோபாய ஆலோசகர்  வெங்கடேஸ் தர்மராஜா ஆகியோரை மேற்கோள்காட்டி இந்த தகவல் வெளியாகியுள்ளது.
+🟩
 
-சரத்பொன்சேகா சுயாதீன மக்கள் வேட்பாளராக போட்டியிடுவார் என தெரிவித்துள்ள அவர்கள் அவருக்கு பல நாடாளுமன்ற உறுப்பினர்களும் முன்னாள் நாடாளுமன்ற உறுப்பினர்களும் முக்கிய பிரமுகர்களும் ஆதரவளிப்பாளர்கள் என தெரிவித்துள்ளனர்.
+It is reported that MP Sarath Fonseka will announce August about contesting the presidential election.
 
-சிலவிடயங்கள் குறித்து இறுதிதீர்மானம் எடுக்கவேண்டியிருந்ததால் அவரது அறிவிப்பு வெளியாவது தாமதமானது என அவர்கள் தெரிவித்துள்ளனர்.
+The information has been released by citing the Senior Advisor Jaganna Krishnakumar and Strategic Advisor Venkatees Dharmaraja.
+
+They said that Sarath Fonseka would contest as an independent people's candidate and said he was supporters of many MPs, former MPs and prominent dignitaries.
+
+They said his announcement was delayed as he had to make a final resolution on some issues.
 
 ◼️
 
 [Data](articles/0767295a.json)
 
+[Extended Data](ext_articles/0767295a.ext.json)
+
 ---
 
-### தொடரும் ஆர்ப்பாட்டங்கள்- வன்முறைகள் -   நேற்று 35க்கும் அதிகமானவர்கள் பலி – ஊரடங்கை அறிவித்தது பங்களாதேஸ் அரசாங்கம்
+### Continuing demonstrations - violence - more than 35 killed yesterday
 
 *2024-07-20 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/188906) · `ta`
 
-அரசவேலைவாய்ப்பில் ஒதுக்கீட்டு முறைகளிற்கு எதிரான மாணவர்களின் போராட்டம் பெரும் வன்முறையாக மூண்டுள்ளதை தொடர்ந்துபங்களாதேஸ்தலைநகர் டாக்காவில் ஊரடங்கு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Following student protests against a royal job allocation system in Dhaka, over 100 prisoners escaped from a prison, leading to a curfew. Violence resulted in over 35 deaths and disrupted phone services. Students vow to continue demonstrating, supported by other university students. The issue stems from a 1971 policy giving state jobs to certain groups, including freedom struggle descendants, which was temporarily halted in 2018 but reinstated last month, sparking renewed protests.
 
-வெள்ளிக்கிழமை நர்சிங்டி சிறைச்சாலை மீது மேற்கொள்ளப்பட்ட தாக்குதலை தொடர்ந்து 100க்கும் மேற்பட்ட கைதிகள் தப்பியோடியுள்ள நிலையிலேயே பிரதமர் ஊரடங்கு உத்தரவை பிறப்பித்துள்ளார்.
+🟩
 
-வன்முறைகள் மூண்டதை தொடர்ந்து சுமார் 67 பேர் உயிரிழந்துள்ளனர் என தகவல்கள் வெளியாகியுள்ளன எனினும்  உண்மையான  எண்ணிக்கையை மதிப்பிட முடியாத நிலை காணப்படுகின்றது.
+The curfew has been issued in Dhaka, Dhaka, following the fact that the struggle of the students against the allocation of the royal work has been violently violent.
 
-ஆர்ப்பாட்டங்கள் வன்முறைகளை தொடர்ந்து பங்களாதேஸ் தநைகரில் இணையசேவைகள் தொலைபேசி சேவைகள் பாதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The Prime Minister has issued a curfew as more than 100 prisoners have fled the Nursingti Prison on Friday.
 
-டாக்காவில் பொதுப்போக்குவரத்து முற்றாக தடைப்பட்டுள்ளது வீதிகளில் பொலிஸார் இராணுவத்தினர் காணப்படுவதை காண்பிக்கும் படங்கள் வீடியோக்கள் வெளியாகியுள்ளன.
+There have been reports that about 67 people have died following violence.
 
-மாணவர்கள் தங்கள் ஆர்ப்பாட்டங்களை தொடரப்போவதாக தெரிவித்துள்ளனர்.கடந்த ஒரு வாரகாலமாக காணப்படும் முழுமையான முடக்கல் நிலையை தொடரப்போவதாக அவர்கள் தெரிவித்துள்ளனர்.
+It is noteworthy that the telephone services and telephone services in Bangladesh have been affected following the violence of the demonstration.
+
+Videos have been released in Dhaka.
+
+Students have said they will continue their demonstrations.
+
+Other university students have expressed their support for Dhaka University students and have joined the protest.
+
+Students who have been requested to abandon the allocation of government employment in the country since 1971 have been given employment based on quality.
 
 ...
 
 [Data](articles/4e719a37.json)
+
+[Extended Data](ext_articles/4e719a37.ext.json)
 
 ---
 
@@ -2265,71 +2361,5 @@ The Justice Minister had claimed that this decision was made in order to elimina
 [Data](articles/5754ddfc.json)
 
 [Extended Data](ext_articles/5754ddfc.ext.json)
-
----
-
-### Sri Lanka stocks close down, Hayleys sees foreign buying
-
-*2024-07-19 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-hayleys-sees-foreign-buying-172935/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-The broader All Share Index closed down 0.35 percent, or 41.37 points, at 11,727; while the more liquid S&P SL20 Index closed down 0.30 percent, or 10.46 points, at 3,429.
-
-“There was foreign buying interest on Hayleys Plc,” Softlogic Stockbrokers said. “Foreign interest in selective companies with solid fundamentals, such as Hayleys,  persisted.”
-
-“We think such companies will benefit greatly from the reduction of electricity tariffs and interest rates. Also there is the positive earning potential of their subsidiaries.”
-
-Hayleys Plc contributed Rs288mn to the turnover, and the share closed up at 101.00.
-
-A crossing on John Keells Holdings Plc contributed Rs90mn to the turnover. The share closed flat at 194.00.
-
-Investor interest was seen in Distilleries Company of Sri Lanka Plc (Rs94mn) and the share closed down at 26.40.
-
-...
-
-[Data](articles/c8a5b023.json)
-
-[Extended Data](ext_articles/c8a5b023.ext.json)
-
----
-
-### A statement from the Commissioner General of Elections
-
-*2024-07-19 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198990) · `si`
-
-Saman Sri Ratnayake, the Commissioner General of Elections, assures that publishing the presidential election through the 22nd constitution poses no obstacles.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that there is no hindrance to publish the presidential election by gazetting the 22nd constitution.
-
-◼️
-
-[Data](articles/61ed43fa.json)
-
-[Extended Data](ext_articles/61ed43fa.ext.json)
-
----
-
-### Sri Lankan entities also impacted by global IT outage
-
-*2024-07-19 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100628/sri-lankan-entities-also-impacted-by-global-it-outage) · `en`
-
-Sri Lanka Computer Emergency Readiness Team (SL CERT) says that there have been reports of several private entities in Sri Lanka also have been affected by the mass global IT outage.
-
-Crowdstrike, a cybersecurity firm with thousands of customers globally, admitted on Friday (19) that a defective software update had caused the major IT outage that is bringing airports, banks, hospitals, media outlets, and businesses to a halt worldwide.
-
-Reports of outages began streaming in from around the globe early on Friday, with broadcaster Sky News in the UK forced off the air for several hours.
-
-Travellers faced widespread disruption with airlines cancelling flights and airports struggling to cope with system failures and delays.
-
-Meanwhile, foreign media reported quoting authorities that banks and telecom companies in Australia and New Zealand have been affected, while Israel’s hospitals and health services are facing a computer “malfunction”.
-
-...
-
-[Data](articles/761b37bb.json)
-
-[Extended Data](ext_articles/761b37bb.ext.json)
 
 ---

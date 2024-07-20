@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 07:47:54**
+As of **2024-07-20 08:13:57**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 6,059
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,215 (100.0%) of 36,217 articles have been extended.
+36,217 (100.0%) of 36,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### ඇසළ පුර පසළොස්වක පොහොය අදයි
+### Poya day today is today
 
 *2024-07-20 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199004) · `si`
 
-බෞද්ධ ඉතිහාසයේ වැදගත් සිදුවීම් රැසක් සිදුවූ දිනයක් ලෙස ඇසළ පොහොය සැලකේ.
+Today marks the Esala Poya Day, significant in Buddhist history for events like the Mahamayaya Kula ceremony, commemorating the birth of Gautama Buddha and his son Rahula. It's celebrated with various religious programs and activities, highlighting the importance of this day in Buddhism.
 
-බෝ සතාණන් වහන්සේ පස්මහ බැලුම් බැලීමෙන් අනතුරුව මිනිස් ලොව ඉපදීම සඳහා මහාමායා කුස පිළිසිඳ ගත්තේ අද වැනි ඇසළ පොහොය දිනයක බව බෞද්ධ ඉතිහාසයේ සඳහන්ය.
+🟩
 
-සිදුහත් බෝ සතාණන් වහන්සේ ගිහිගෙය කලකිරී මහා අභිණිෂ්ක්‍රමණය කිරීම සහ රාහුල කුමරුගේ උපත සිදුවූයේ ද අද වැනි ඇසළ පොහොය දිනකය.
+The Esala is considered as a day of important events in Buddhist history.
 
-බුදුරජාණන් වහන්සේගේ ප්‍රථම ධර්ම දේශනාව දේශනා කරන ලද්දේ ද ඇසල පුන් පොහෝ දිනක වන අතර තව්තිසා දෙව් ලොවට වැඩම කළ බුදුරජාණන් වහන්සේ මව්ට උපස්ථාන කිරීමේ ආදර්ශය පෙන්වා දෙමින් අභිධර්ම දේශනා කිරීම සිදුකරනු ලැබුයේ ද අද වැනි පොහොය දිනක බව බෞද්ධ ඉතිහාසයේ සඳහන් වේ.
+In Buddhist history, the Mahamayaya Kulah is today on the Esala Poya Day for the birth of the Geology.
 
-ඇසළ පුර පසළොස්වක පොහොය දිනය මෙරට බෞද්ධ ඉතිහාසයේ ද වැදගත් පොහොය දිනයක් ලෙස සැලකේ.
+The Birth of the Rahula is the most abusive of the rims and the birth of Rahula prince.
 
-අරිට්ඨ කුමරු ඇතුළු 50 දෙනෙකු පැවිදි උපසම්පදාව ලැබුවේ ඇසළ පුරපසළොස්වක පොහොය දිනයක වන අතර දන්ත කුමරු සහ හේමමාලා කුමරිය දන්ත ධාතූන් වහන්සේ ලක්දිවට වැඩම කරවූයේ ද අද වැනි පොහොය දිනයක බව සඳහන්ය.
+The Buddha's first sermon was preached by the Buddha, poining the Buddha to preach the example of Tawathsa to the world, and in the history of Buddhist history.
 
-විහාරස්ථානවල වැඩවසන භික්ෂූන් වහන්සේලා වස්වැසීම ආරම්භ කරනු ලබන්නේ ද ඇසළ පුරපසළොස්වක පොහොය දිනයේ සිට වීම විශේෂත්වකි.
+The Esala Full Moon Poya Day is considered as an important poly day in Buddhist history.
+
+50 including Arathmi Prince and Prince Dental Athushampa, Princess Dental Cadre, Princess Dental Sacred to the Dental Reli, was on the rich day today.
+
+It is also special to take the prevailing monks of the temples.
+
+A number of religious programs have been organized in the Kandy General of Videos of Buddhist and Sasana.
 
 ...
 
 [Data](articles/576cacdf.json)
+
+[Extended Data](ext_articles/576cacdf.ext.json)
 
 ---
 
@@ -432,21 +440,27 @@ This landmark event, held at the Royal Colombo Golf Club, united blockchain enth
 
 ### 2024-07-19 (Friday)
 
-### விசேட தேவையுடையோர் வாக்களிக்க சந்தர்ப்பம்
+### Opportunity to vote for specialists
 
 *2024-07-19 23:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோர்-வாக்களிக்க-சந்தர்ப்பம்/175-340702) · `ta`
 
-ஜனாதிபதித் தேர்தலில் முதன்முறையாக விழிப்புலனற்றோர் மற்றும் செவிப்புலன் குறைபாடுடையவர்கள் வாக்களிக்க சந்தர்ப்பம் ஏற்படுத்திக் கொடுக்கப்படவுள்ளது.
+In the upcoming presidential election, voters with disabilities, including the deaf and visually impaired, will have the option to vote for candidates who understand their needs. A unique system using Braille will identify ballots, marking a significant step towards inclusivity. This initiative follows successful trials in various regions and aims to enhance accessibility at polling stations.
 
-பார்வையற்றோர் பிரெய்ல் முறையில் வாக்குச் சீட்டின் அடையாளங்களை அடையாளம் காணும் விதத்தில் விசேட முறைமை நடைமுறைப்படுத்தப்படும் என தேசிய தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+🟩
 
-இதன் முன்னோடித் திட்டங்கள் கடந்த சில நாட்களாக பல்வேறு பகுதிகளில் முன்னெடுக்கப்பட்டதுடன் அதன் வெற்றிகரமான பெறுபேறுகளின் அடிப்படையில் இம்முறை ஜனாதிபதித் தேர்தலுக்கும் அதே வசதிகள் வழங்கப்படவுள்ளன.
+For the first time in the presidential election, there is an opportunity to vote for those who are vigilant and deaf.
 
-வலது குறைந்தோர் வாக்களிப்பு நிலையங்களுக்குச் செல்வதற்கும் விசேட வசதிகள் ஏற்படுத்தப்படும் என்று தேசிய தேர்தல்கள் ஆணைக்குழுவின் தலைவர் குறிப்பிட்டுள்ளார். (a)
+Special system will be implemented to identify the identity of the ballot in the Braille system, said National Elections Commission Chairman RML Ratnayake.
+
+The pioneering plans have been carried out in various areas over the past few days and the same facilities will be provided to the presidential election based on its successful results.
+
+The Chairman of the National Elections Commission stated that special facilities will be provided to go to the right low polling stations. (A)
 
 ◼️
 
 [Data](articles/4545588e.json)
+
+[Extended Data](ext_articles/4545588e.ext.json)
 
 ---
 

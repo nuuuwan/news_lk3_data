@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 06:02:02**
+As of **2024-07-20 07:01:30**
 
 ## Newspaper Stats
 
-*Scraped **36,213** Articles*
+*Scraped **36,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,165
 dailyftlk | 2,314
 adalk | 3,267
 adaderanalk | 4,178
-tamilmirrorlk | 4,397
+tamilmirrorlk | 4,398
 dailymirrorlk | 4,733
 virakesarilk | 5,667
 adaderanasinhalalk | 6,057
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,213 (100.0%) of 36,213 articles have been extended.
+36,213 (100.0%) of 36,214 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -375,6 +375,24 @@ This landmark event, held at the Royal Colombo Golf Club, united blockchain enth
 ---
 
 ### 2024-07-19 (Friday)
+
+### காற்றுடனான வானிலை நீடிக்கும்
+
+*2024-07-19 23:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றுடனான-வானிலை-நீடிக்கும்/175-340701) · `ta`
+
+நாட்டை ஊடறுத்து வீசும் பலத்த காற்றுடனான வானிலை தொடர்ந்தும் நீடிக்குமென வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி, மாத்தறை மாவட்டங்களிலும் இடைக்கிடையே மழை பெய்யக் கூடுமென தெரிவிக்கப்பட்டுள்ளது.
+
+மத்திய மலைநாட்டின் மேற்குச் சரிவுகளிலும் வடக்கு, வடமத்திய  மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மொனராகலை மற்றும் அம்பாந்தோட்டை மாவட்டங்களிலும் இடைக்கிடையே காற்றின் வேகம் மணிக்கு 50 முதல் 60 கிலோமீற்றர் வரை அதிகரிக்கும் என எதிர்வுகூறப்பட்டுள்ளது.
+
+நாட்டில் ஏனைய பிரதேசங்களில் இடைக்கிடையே காற்று மணித்தியாலத்திற்கு 30 முதல் 40 கிலோமீற்றர் வேகத்தில் வீசக்கூடுமெனவும் வளிமண்டலவியல் திணைக்களத்தின் அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/3d17f57b.json)
+
+---
 
 ### Bangladesh Prison Fire: Prisoners escape
 
@@ -2301,29 +2319,5 @@ In this case, the Ministry of Education has been asked to report on the schools 
 [Data](articles/c098538d.json)
 
 [Extended Data](ext_articles/c098538d.ext.json)
-
----
-
-### 87,000 students applied for the university this year - University Grants Commission
-
-*2024-07-19 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/188843) · `ta`
-
-This year, 87,000 students applied for university admission online. The deadline for application changes ends today, with cut-off dates for undergrad programs due by late August. Exams delayed by a 74-day staff strike will resume soon.
-
-🟩
-
-The University Grants Commission said that 87,000 students have applied for university admission through the website this year.
-
-Prof. Chandana Udawatta, Deputy Chairman of the University Grants Commission, said that the deadline for the students to make any amendments to the application will end today (19).
-
-He said the cutting points for undergraduate degrees at universities are scheduled to be announced by the end of August.
-
-Professor Udwatta further stated that the exams that were adjourned due to the strike of the 74 days of university's non -academic staff are scheduled to be held in the next few weeks.
-
-◼️
-
-[Data](articles/b1f71270.json)
-
-[Extended Data](ext_articles/b1f71270.ext.json)
 
 ---

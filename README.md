@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 23:55:26**
+As of **2024-07-21 00:08:01**
 
 ## Newspaper Stats
 
-*Scraped **36,301** Articles*
+*Scraped **36,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 338
 bbccomsinhala | 355
 newsfirstlk | 363
 islandlk | 2,060
-economynextcom | 2,166
+economynextcom | 2,169
 dailyftlk | 2,314
 adalk | 3,271
 adaderanalk | 4,198
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,301 (100.0%) of 36,301 articles have been extended.
+36,301 (100.0%) of 36,304 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,28 @@ Fabian Alan took four wickets for Jarffna Kugs and Vijayakan, Vijayakan and Vija
 [Data](articles/a4e32dfc.json)
 
 [Extended Data](ext_articles/a4e32dfc.ext.json)
+
+---
+
+### Israel -Tel Avi's retaliation on Yemen's port city
+
+*2024-07-20 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188968) · `ta`
+
+Israel retaliated against Yemen's Houthi rebels after an unmanned airstrike on Tel Aviv from Hodaida, a port city in Yemen.
+
+🟩
+
+Haithi insurgents have reported that Israeli airspace has been attacked on Yemen's Hodaida city.
+
+Almashira Television of Yemeni insurgents has reported that the attack on Yemen's Red Sea City, Hodaida.
+
+It is noteworthy that Haundi rebels carried out an unmanned air strike on the Israeli capital on Friday.
+
+◼️
+
+[Data](articles/b6b433d0.json)
+
+[Extended Data](ext_articles/b6b433d0.ext.json)
 
 ---
 
@@ -113,28 +135,6 @@ So Sri Lanka women won the winning limit at the end of 17 wickets in the end of 
 [Data](articles/148e031c.json)
 
 [Extended Data](ext_articles/148e031c.ext.json)
-
----
-
-### Israel -Tel Avi's retaliation on Yemen's port city
-
-*2024-07-20 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188968) · `ta`
-
-Israel retaliated against Yemen's Houthi rebels after an unmanned airstrike on Tel Aviv from Hodaida, a port city in Yemen.
-
-🟩
-
-Haithi insurgents have reported that Israeli airspace has been attacked on Yemen's Hodaida city.
-
-Almashira Television of Yemeni insurgents has reported that the attack on Yemen's Red Sea City, Hodaida.
-
-It is noteworthy that Haundi rebels carried out an unmanned air strike on the Israeli capital on Friday.
-
-◼️
-
-[Data](articles/b6b433d0.json)
-
-[Extended Data](ext_articles/b6b433d0.ext.json)
 
 ---
 
@@ -285,6 +285,26 @@ Ceylon Workers Congress President Senthil Thondaman has called on President Rani
 [Data](articles/42421aad.json)
 
 [Extended Data](ext_articles/42421aad.ext.json)
+
+---
+
+### Sri Lanka and Japan discuss JCM de-carbornizing funding
+
+*2024-07-20 20:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-japan-discuss-jcm-de-carbornizing-funding-173060/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Japan has discussed new funding to reduce carbon emissions, as well as resuming halted project when a delegation met President Ranil Wickremesinghe, his media office said.
+
+Sri Lanka and official creditors reached a deal to re-structure bilateral debt, allowing Japan to give new loans and also resume suspended projects.
+
+The delegation had discussed funding from Japan’s Joint Credit Mechanism (JCM), covering projects to reduce carbon dioxide emissions using advanced Japanese technologies.
+
+The delegation included Chairman of the Board – Japan Bank for International Cooperation (JBIC) Maeda Tadashi, the statement said.
+
+Public private partnerships to develop low income housing was also discussed. (Colombo/July20/2024)
+
+◼️
+
+[Data](articles/35dadfa5.json)
 
 ---
 
@@ -798,6 +818,24 @@ Mr. Susantha Kahawatte said that no information has been reported regarding the 
 
 ---
 
+### Jayampathy Wickramaratne PC, responds to President on constitutional article 83
+
+*2024-07-20 15:46:00* · [`economynextcom`](https://economynext.com/jayampathy-wickramaratne-pc-responds-to-president-on-constitutional-article-83-173033/) · `en`
+
+ECONOMYNEXT – Jayampathy Wickramaratne, President’s Counsel had responded to a statement made by President Ranil Wickremesinghe that Article 83 (b) of the constitution which has reference to a six year term was left alone not due to any ‘lapse’ on his part.
+
+A Cabinet sub-committee headed by Premier Wickremesinghe was appointed to oversee the Nineteenth Amendment process.
+
+The changes to the Constitution, were made by a team of legal officers of which he was member, overseen by a Cabinet sub-committee headed by then Prime Minister Ranil Wickremesinghe.
+
+“Presidential candidate Maithripala Sirisena signed a memorandum of understanding with a group of 49 political parties and organisations headed by the Venerable Maduluwawe Sobitha Nayaka Thero at Viharamaha Devi Park, in which he pledged to abolish the Executive Presidency altogether,” Wickramaratne explained.
+
+...
+
+[Data](articles/b0cdccc6.json)
+
+---
+
 ### If the train boycotts the rank, he has left the job
 
 *2024-07-20 15:32:22* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-කළොත්-රැකියාව-අතහැර-ගියා-සේ-සලකනවා/11-410876) · `si`
@@ -1007,6 +1045,24 @@ Following the trial of the two men, the Jaffna Magistrate's Court has ordered th
 [Data](articles/fa18079d.json)
 
 [Extended Data](ext_articles/fa18079d.ext.json)
+
+---
+
+### Sri Lanka banking system foreign assets turn positive in May: analysis
+
+*2024-07-20 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-foreign-assets-turn-positive-in-may-analysis-173011/) · `en`
+
+ECONOMYNEXT – Net foreign assets of Sri Lanka’s banking system turned positive in May 2024, official data showed, amid a steady reduction in the negative reserve position of the central bank helped by the current interest rate structure and domestic credit.
+
+In May the combined net foreign assets position of commercial banks and the central bank was about 311 million US dollars by May, up from a negative 178 million US dollars a month earlier, central bank data show.
+
+It was made up of positive 1.9 billion US dollar foreign assets position in overseas banking units and a negative 811-million-dollar position which gave a positive NFA position of about 1.13 billion US dollars for banks.
+
+The central bank still had a negative position of about 821 million dollars by May, down from about 4.5 billion US dollars in last currency crises triggered by deploying liquidity tools (printing money) to cut rates.
+
+...
+
+[Data](articles/7839d335.json)
 
 ---
 
@@ -2337,67 +2393,5 @@ Hospital sources have pointed out that 50 people were injured and two were sever
 [Data](articles/94485bb9.json)
 
 [Extended Data](ext_articles/94485bb9.ext.json)
-
----
-
-### No need to fear the constitution of the telephone
-
-*2024-07-20 00:22:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பு-தொடர்பில்-அச்சம்-தேவையில்லை/175-340704) · `ta`
-
-Sri Lanka remains committed to democracy under President Ranil Wickremesinghe, who reassured citizens about the constitutional amendment process during the inauguration of a new court complex in Galle. The facility, costing 1600 million rupees, includes various courts and essential judicial offices, ensuring legal protection for Galle residents.
-
-🟩
-
-President Ranil Wickremesinghe said Sri Lanka would continue to dedicate it as a country that maintained democracy since he gained power for the referendum and should not fear the constitutional amendment.
-
-The President said this while addressing the inauguration of the new court building in Galle Beligaha.
-
-The new court complex, which was constructed at a cost of 1600 million rupees, has a Civil Appeal, two High Courts, three District Courts and two Magistrate's Courts to enable the people of Galle to protect the legal order.
-
-The building has all the necessary facilities for the judiciary work, including the Legal Aid Center, the Office of Social Reforms, the Office of the Probation and the Credit Relief Board.
-
-The president, who unveiled the name board and opened the court building, supervised the building. A President's Memorial was presented by Galle Attorneys. (A)
-
-◼️
-
-[Data](articles/ac17b7b6.json)
-
-[Extended Data](ext_articles/ac17b7b6.ext.json)
-
----
-
-### Pathfinder Foundation participates in third Bay of Bengal Economic Dialogue
-
-*2024-07-20 00:21:53* · [`dailyftlk`](https://www.ft.lk/business/Pathfinder-Foundation-participates-in-third-Bay-of-Bengal-Economic-Dialogue/34-764514) · `en`
-
-The third Bay of Bengal Economic Dialogue participants of “New World Order and BIMSTEC: Curtain Raiser to the Sixth BIMSTEC Summit”
-
-SAWTEE Executive Director Dr. Paras Kharel, Pathfinder Foundation Executive Director Dr. Dayaratna Silva, and Dhaka University Executive Director Dr. Selim Raihan
-
-The third Bay of Bengal Economic Dialogue concluded successfully at Chulalongkorn University, Thailand, centred around the theme “New World Order and BIMSTEC: Curtain Raiser to the Sixth BIMSTEC Summit.”
-
-...
-
-[Data](articles/1c4c0d67.json)
-
-[Extended Data](ext_articles/1c4c0d67.ext.json)
-
----
-
-### Dialog enhances accessibility for deaf community at customer care centres through DeafTawk services
-
-*2024-07-20 00:20:46* · [`dailyftlk`](https://www.ft.lk/business/Dialog-enhances-accessibility-for-deaf-community-at-customer-care-centres-through-DeafTawk-services/34-764513) · `en`
-
-Dialog Axiata Sustainability Head and Group Chief Risk and Compliance Officer Asanga Priyadarshana, Sri Lanka Deaf Rehabilitation Organisation Secretary Thusitha Kumara Vijayaranga, Dialog Axiata Group Chief Customer Officer Sandra De Zoysa, GSMA Mobile for Humanitarian Innovation Strategic Partnerships Director Dulip Tillekeratne, and Sign Language Interpreter Chamara Sandakelum together with representatives of Dialog
-
-Dialog Axiata PLC, Sri Lanka’s number one connectivity provider, has introduced DeafTawk interpreter services at its customer care centres islandwide, a move poised to enhance the accessibility and user-friendliness of its services to the deaf community.
-
-Highlighting the company’s unwavering dedication to enhancing outreach for Persons with Disabilities (PWDs), this initiative aligns with the GSMA Assistive Tech program, which drives inclusivity by improving access and use of mobile technologies and related services for PWDs.
-
-...
-
-[Data](articles/c2963a9c.json)
-
-[Extended Data](ext_articles/c2963a9c.ext.json)
 
 ---

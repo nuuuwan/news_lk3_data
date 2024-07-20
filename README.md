@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 22:20:13**
+As of **2024-07-20 22:35:23**
 
 ## Newspaper Stats
 
-*Scraped **36,297** Articles*
+*Scraped **36,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,69 @@ adaderanalk | 4,197
 tamilmirrorlk | 4,420
 dailymirrorlk | 4,733
 virakesarilk | 5,678
-adaderanasinhalalk | 6,083
+adaderanasinhalalk | 6,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,295 (100.0%) of 36,297 articles have been extended.
+36,297 (100.0%) of 36,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### ප්‍රචණ්ඩත්වය නතර කිරීමට බංග්ලාදේශ රජය ගත් තීරණ
+### ශ්‍රී ලංකා කාන්තා කණ්ඩායම ආසියානු කුසලානයේ පළමු ජය ලබයි
+
+*2024-07-20 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199031) · `si`
+
+ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ සිය පළමු ජය වාර්තා කිරීමට චමරි අතපත්තු ප්‍රමුඛ ශ්‍රී ලංකා කාන්තා කණ්ඩායම අද (20) සමත් විය.
+
+රංගිරි දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති එම තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශ කාන්තා කණ්ඩායම නියමිත පන්දුවාර 20දී කඩුලු 8ක් දැවී ලකුණු 111ක් රැස් කළේය.
+
+පන්දුයැවිමේදි උදේෂිකා ප්‍රබෝධනී සහ ඉනෝෂි ප්‍රියදර්ශනී කඩුලු දෙක බැගින් දවා ගත්තෝය.
+
+ලකුණු  112ක ජයග්‍රාහී ඉලක්කයක් හඹා යාමට පිටියට පිවිසි ශ්‍රී ලංකා කාන්තා කණ්ඩායමට සාර්ථක අරම්භයක් ලබාදිමට නායිකා චමරි අතපත්තු සහ විශ්මි ගුණරත්න සමත්වූවෝය.
+
+චමරි අතපත්තු ලකුණු 12ක් රැස් කළ අතර ශ්‍රී ලංකා කාන්තා කණ්ඩායම ජය මාවත විවර කර දුන් විශ්මි ගුණරත්න ලකුණු 51ක් රැස්කළ අතර හර්ෂිතා මාධවවී නොදැවී ලකුණු 33ක් රැස් කළාය.
+
+ඒ් අනුව ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 17යි එක්පන්දුවක් අවසානයේ කඩුලු 2ක් දැවී ජයග්‍රාහී සීමාව පසුකර ගියේය.
+
+◼️
+
+[Data](articles/148e031c.json)
+
+---
+
+### Decisions taken by the Bangladesh government to stop violence
 
 *2024-07-20 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199030) · `si`
 
-බංග්ලාදේශය තුළ මේ වනවිට සියයකට වැඩි පිරිසක් ජීවිතක්ෂයට පත්ව ඇති අතර සිසු විරෝධතා සමනය කිරීම සඳහා අද රට පුරා ඇඳිරිනීතිය පනවනු ලැබීය.
+In response to widespread student protests in Bangladesh, the government enacted measures including blocking internet and phone services nationwide, closing schools and universities, and deploying security forces to quell the unrest. These actions followed violent clashes between protesters and youth groups affiliated with the ruling party, leading to over a hundred deaths and thousands of injuries. The international community, including the US, has expressed concern over the government's handling of the protests and called for protection of protesters' rights. Despite negotiations failing to resolve the issue, the opposition supports the students' cause.
 
-මෙවන් පසුබිමක බංග්ලාදේශයේ වත්මන් තත්ත්වය පිළිබඳව එරට සිටින ශ්‍රී ලාංකිකයෙකු වන විරාජ් ෆර්ඩිනෑන්ඩ්ස් දුරකථනය ඔස්සේ අද දෙරණට තොරතුරු වාර්තා කළේය.
+🟩
 
-"අපිට සද්දේ ඇහුණා වෙඩි සද්දේ... නැතින් තැනින්. හවස 06 පහු වෙද්දි කෙලින්ම පාරට බහිනවා හැමෝම පොලු අරගෙන මිනිස්සු දෙතුන්සීයක් එකතුවෙලා පාරට බහිනවා අපි දකිනවා. අපිට දැණුනා අත්තටම ඇඳිරිනීතිය වැටෙයි කියලා. මොකද අපේ අර ලංකාවේ විදිහටම... ඒ විදිහටම මේක යනවා කියලා අපිට දැනුණු හින්දා. අපි වේලාසනින් සැපයුම් ඔක්කොම ටික ගෙනාවා."
+More than a hundred people died in Bangladesh and was enacted across the country to relieve the student protests.
 
-බංග්ලාදේශ විශ්වවිද්‍යාල සිසුන් රජයට එරෙහි විරෝධතා ආරම්භ කළේ මීට සති කිහිපයකට පෙරාතුවය.
+In this backdrop, Sri Lanka, a Sri Lankan in the current situation in Bangladesh, reported Derana to Ada Derana.
 
-විශ්වවිද්‍යාල සිසුන් ආරම්භ කළ විරෝධතාවලට මේ වනවිට එරට තරුණ තරුණියන් ද එක්වී තිබේ.
+"We heard the shots.. From there. We see all the three or three of three people to take the poles on the road. That we are the fashioned branch. Because the same way in our country.. Because we felt that this was going. We brought all the supplies early. "
 
-විරෝධතා මේ වන විට ප්‍රචණ්ඩ ස්වරූපයක් ගෙන ඇත්තේ, ඒවා පාලනය කිරීමට රජය දැඩි මර්දනකාරී පිළිවෙතක් අනුගමනය කිරීමත් සමගය.
+Bangladeshi university students of Bangladesh have commenced protests against the government a few weeks ago.
 
-පාලක අවාමි ලීගයට සම්බන්ධ තරුණ කණ්ඩායම් ද විරෝධතාවේ නිරත සිසුන් ඉලක්ක කර ප්‍රහාර එල්ල කළේය.
+The young people of the country have also joined the protests that launched university students.
+
+Protests have taken a violent form with a strong repressive policy to control them.
+
+Youth groups related to the ruling parromai league also attacked the protesting students.
+
+The government has also taken steps to close school and university days, considering the unrest in the country.
 
 ...
 
 [Data](articles/ccba7799.json)
+
+[Extended Data](ext_articles/ccba7799.ext.json)
 
 ---
 
@@ -204,25 +234,31 @@ The Ministry said that about 3,000 Sri Lankan workers remain in Bangladesh and h
 
 ---
 
-### 22 ஆவது திருத்த சட்டம் தேவையா? - சுரேஷ் பிரேமச்சந்திரன்
+### Is it necessary for the 22nd Amendment?- Suresh Premachandran
 
 *2024-07-20 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188954) · `ta`
 
-ஜனாதிபதி தேர்தல் அறிவிப்புக்கள் வெளிவர உள்ள நிலையில் 22 ஆவது திருத்த சட்டம் தேவையா? இது தேர்தலை குழப்புவதற்கான ஏற்படா? எனும் சந்தேகம் தற்போது பலரிடம் ஏற்பட்டுள்ளதாக ஈ.பி.ஆர்.எல்.எப் கட்சியின் தலைவர் சுரேஷ் பிரேமச்சந்திரன் தெரிவித்துள்ளார்.
+Suresh Premachandran questions the necessity of the 22nd Amendment amidst skepticism about its timing and potential to influence the upcoming presidential election. He expresses concern over the delay in local government elections and the allocation of funds for development projects, suggesting possible misuse to sway votes.
 
-யாழ். ஊடக அமையத்தில் இன்று சனிக்கிழமை (20) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-22ஆம் திருத்த சட்டத்தை கொண்டு வருவதற்கான வர்த்தமானி அறிவித்தல் வெளியாகியுள்ளது. இந்த சட்டத்தால் எந்த பாதிப்பும் இல்லை. ஆனால் ஜனாதிபதி தேர்தல் நடக்க இருக்கும் போது இந்த திருத்தம் தேவையா? எனும் கேள்வி எழுகிறது.
+Is it necessary for the 22nd Amendment to the presidential election announcements?Is this a mess to confuse the election?EPRLF party leader Suresh Premachandran said that many people are now skeptical.
 
-இப்போது ஏன் அவரசப்பட்டு மாற்ற முனைகிறார்கள் என தேர்தலை குழப்பும் நடவடிக்கையாக இருக்கும் என சந்தேகிக்கிறோம்.
+Yall. He said this during a media briefing held at the Media Center today (20).
 
-உள்ளூராட்சி தேர்தலுக்கான வேட்பு மனு தாக்கல் செய்யப்பட்ட நிலையில், நாடு வக்குரோத்துக்கு போய் விட்டது என தேர்தலை கால வரையின்றி ஒத்தி வைத்துள்ளனர்.
+Gazette notification for bringing in the 22nd Amendment. There is no impact on this law. But is this amendment when the presidential election is to be held?The question arises.
 
-தேர்தல் இரத்து செய்யப்படவில்லை. அதனால் வேட்பு மனுக்கான காசு திருப்பி கொடுக்கவில்லை. சுயேட்சைக்காக போட்டியிட்ட வேட்பு மனு தாக்கல் செய்தவர்களுக்கு வேட்பு மனு காசு அதிகம். அவர்களின் காசு திருப்பி கொடுக்கவில்லை.
+Now we suspect why they are trying to confuse the election as to why they are trying to change.
+
+With the nomination papers for the local government elections, the country has been postponed for the long time.
+
+The election is not canceled. So the nomination does not pay back the cash. Nomination for those who contested for independence. Their cash did not pay back.
 
 ...
 
 [Data](articles/91da5458.json)
+
+[Extended Data](ext_articles/91da5458.ext.json)
 
 ---
 
@@ -2345,29 +2381,5 @@ The Chairman of the National Elections Commission stated that special facilities
 [Data](articles/4545588e.json)
 
 [Extended Data](ext_articles/4545588e.ext.json)
-
----
-
-### The weather with the winds will last
-
-*2024-07-19 23:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றுடனான-வானிலை-நீடிக்கும்/175-340701) · `ta`
-
-Strong winds and rainfall are forecasted across several provinces and districts in Sri Lanka, with wind speeds ranging from 30 to 60 km/h. The Department of Meteorology warns of potential changes in weather conditions.
-
-🟩
-
-The Department of Meteorology has predicted that the weather with strong winds that are blowing the country will continue.
-
-Rainfall is expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.
-
-In the western slopes of the Central Highlands, the Northern, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts are expected to increase from 50 to 60 km / h.
-
-In the other areas of the country, the interim winds may blow at speeds of 30 to 40 kilometers per hour, the Department of Meteorology said in a report.. (A)
-
-◼️
-
-[Data](articles/3d17f57b.json)
-
-[Extended Data](ext_articles/3d17f57b.ext.json)
 
 ---

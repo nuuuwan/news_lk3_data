@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 18:36:20**
+As of **2024-07-20 18:54:11**
 
 ## Newspaper Stats
 
-*Scraped **36,279** Articles*
+*Scraped **36,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 3,270
 adaderanalk | 4,194
 tamilmirrorlk | 4,416
 dailymirrorlk | 4,733
-virakesarilk | 5,675
-adaderanasinhalalk | 6,076
+virakesarilk | 5,677
+adaderanasinhalalk | 6,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,276 (100.0%) of 36,279 articles have been extended.
+36,279 (100.0%) of 36,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### මාතර බන්ධනාගාරයේදී බ්ලේඩ් තලයෙන් මුහුණ කපයි
+
+*2024-07-20 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199024) · `si`
+
+මාතර බන්ධනාගාරය තුළදී එක් රැඳවියෙකු විසින් තවත් රැඳවියෙකුගේ මුහුණ බ්ලේඩ් තලයකින් කපා තුවාල සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/90fc273b.json)
+
+---
 
 ### Harin backs Sanath to instill discipline in Sri Lankan cricket team
 
@@ -50,39 +62,57 @@ Meanwhile, Fernando pointed out that a new temporary coach has been appointed fo
 
 [Data](articles/66b0797b.json)
 
+[Extended Data](ext_articles/66b0797b.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலில் தமிழ் வேட்பாளர்; திங்கட்கிழமை கைச்சாத்து
+### Tamil candidate in the presidential election;Monday signs
 
 *2024-07-20 18:14:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-தமிழ்-வேட்பாளர்-திங்கட்கிழமை-கைச்சாத்து/175-340717) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழர் தரப்பில் இருந்து ஒரு பொது வேட்பாளரை நிறுத்துவதற்கான உடன்படிக்கையொன்று எதிர்வரும் திங்கட்கிழமை கைச்சாத்திடபட உள்ளது.
+A common Tamil candidate for the upcoming presidential election is set to be agreed upon and announced on Monday, following discussions in Jaffna among Tamil national parties and the community. This move comes after years of campaigning by civil society and political groups advocating for a united Tamil voice in elections. The agreement will also address other issues crucial to the Tamil community, marking a significant step forward in their collective political strategy.
 
-தமிழ்சிவில் சமூகத்திற்கும் தமிழ்த் தேசிய அரசியல் கட்சிகளுக்கு இடையிலும் இந்த உடன்படிக்கை யாழில் வைத்து கைச்சாத்திடப்பட உள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-கடந்த காலங்களில் நடைபெற்ற ஜனாதிபதி தேர்தல்களில் தமிழ் மக்கள் எவருக்கு வாக்களித்தும் எந்தவித பயனும் இல்லை என தமிழ்க் கட்சிகளும் சிவில் சமூகத்தினரும் பல்வேறு குற்றச்சாட்டுக்களை முன்வைத்துள்ளனர்.
+An agreement to field a common candidate from the Tamil party in the presidential election is due to be signed on Monday.
 
-இதனால் தமிழ் மக்களின் நிலைமையையும் தமிழ் மக்களின் பிரச்சனைகள் தேவைகளை வெளிப்படுத்தும் வகையில் எதிர்வரும் ஜனாதிபதி தேர்தலில் எந்தவொரு சிங்கள வேட்பாளருக்கும் ஆதரவை வழங்காது தமிழர் தரப்பில் இருந்து பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான நடவடிக்கைகள் அண்மைக் காலமாக சிவில் சமூகத்தினராலும் அரசியல் கட்சிகளாலும் தெடர்ச்சியாக முன்னெடுக்கப்பட்டு வந்தது.
+It is reported that the agreement is to be signed in Jaffna between the Tamil community and the Tamil national political parties.
 
-...
+The Tamil parties and the civil society have made various allegations that the Tamil people have voted for the Tamil people in the presidential elections in the past.
+
+Thus, the Tamil people have been carrying out a long -term campaign by the civil society and the political parties to field a common candidate from the Tamil party.
+
+In this context, various organizations and various parties have supported the next phase of a contract between the political parties and the civil society.
+
+It is reported that the next step is to take place on all other issues, including the selection of the common candidate, following the signing of the agreement with various issues between the two sides.. Remble
+
+◼️
 
 [Data](articles/350465f4.json)
 
+[Extended Data](ext_articles/350465f4.ext.json)
+
 ---
 
-### கார் ஒன்று முற்றாக எரிந்து நாசமானது
+### The car was completely burnt and destroyed
 
 *2024-07-20 18:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கார்-ஒன்று-முற்றாக-எரிந்து-நாசமானது/76-340716) · `ta`
 
-பாணந்துறையிலிருந்து நுவரெலியா நோக்கிச் சென்ற கார் ஒன்று கினிகத்தேனை - தியகல பிரதேசத்தில் இன்று (20) காலை  திடீரென தீப்பிடித்து எரிந்துள்ளதாக கினிகத்தேனை பொலிஸார் தெரிவித்தனர்.
+A car en route from Panadura to Nuwara Eliya was torched near Ginigathena, halting traffic for an hour. The vehicle was extensively damaged by the fire.
 
-தீப்பரவல் காரணமாக குறித்த வீதியின் போக்குவரத்து முற்பகல் 11 மணிமுதல் சுமார் ஒரு மணிநேரம் முற்றாக நிறுத்தப்பட்டதாக கினிகத்தேனை பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-தீயை கட்டுக்குள் கொண்டுவர பொலிஸார் கடுமையாக முயன்றும் கார் முற்றிலும் தீக்கிரையானது. R
+A car traveling from Panadura to Nuwara Eliya was set on fire this morning in Ginigathena - Diyagala area, police said.
+
+Ginigathena police said that the road traffic on the road was completely stopped for about an hour at 11 am.
+
+The car was completely on fire, but the car was completely on fire. Remble
 
 ◼️
 
 [Data](articles/9aeb27f5.json)
+
+[Extended Data](ext_articles/9aeb27f5.ext.json)
 
 ---
 
@@ -241,6 +271,48 @@ Ada Derana reporter said that the fuel in that fuel to another bowl is currently
 [Data](articles/1bf2f888.json)
 
 [Extended Data](ext_articles/1bf2f888.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தலை பிற்போடுவது தமிழ் மக்களுக்கு நல்லது - சி.வி விக்னேஸ்வரன்
+
+*2024-07-20 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188949) · `ta`
+
+ஜனாதிபதி தேர்தலை பிற்போடுவது தமிழ் மக்களுக்கு நன்மை பயக்கும் என பாராளுமன்ற உறுப்பினர் சி.வி விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணத்தில் இன்று சனிக்கிழமை (20) நடைபெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தலை பிற்போடுவது முழு நாட்டிற்கும் நன்மை பயக்கும். அதிலும் குறிப்பாக தமிழர்களுக்கு நன்மையே.
+
+இந்த ஜனாதிபதி தேர்தலை பொறுத்த வரைக்கும் வேட்பாளர் எவரும் 50 வீதத்திற்கும் அதிகமான வாக்குகளை பெற முடியாத நிலைமை காணப்படுகிறது. அதனால் அவர்கள் சிறுபான்மையின மக்களின் வாக்குகளை பெற முனைப்பு காட்டுவார்கள்.
+
+அதேநேரம் ஜனாதிபதி தேர்தலில் எவரும் 50 வீதத்திற்கும் அதிகமான வாக்குகளை பெறாத நிலைமை ஏற்படும் போது நாட்டில் அரசியல் ஸ்திரத்தன்மை இல்லாமல் போகும்.
+
+ஏற்கனேவே நாட்டில் பொருளாதார நெருக்கடிகள் காணப்படுகிறது. அந்நிலையில் அரசியல் ஸ்திரத்தன்மை இல்லாது போனால் நாடும் மிக மோசமான பொருளாதார பின்னடைவுகளை சந்திக்க நேரிடும்.
+
+அத்துடன், தேர்தலுக்காக பெருமளவான நிதிகள் செலவழிக்கப்பட வேண்டிய நிலைமையும் ஏற்படும். அதுவும் நாட்டின் பொருளாதாரத்தை பாதிக்கும்.
+
+...
+
+[Data](articles/182438a5.json)
+
+---
+
+### யாழ். பருத்தித்துறையில் இருந்து கடற்தொழிலுக்கு சென்ற நால்வரை காணவில்லை
+
+*2024-07-20 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188945) · `ta`
+
+யாழ்ப்பாணம் பருத்தித்துறை பகுதியில் இருந்து கடற்தொழிலுக்காக கடலுக்குள் சென்ற 4 கடற்தொழிலாளர்கள் சுமார் 12 நாட்களுக்கு மேலாக கரை திரும்பவில்லை என தெரிவிக்கப்படுகிறது.
+
+வல்வெட்டித்துறை, முள்ளியான், கல்முனை மற்றும் திருகோணமலை ஆகிய பகுதிகளை சேர்ந்த 04 கடற்தொழிலாளர்களும் கடந்த 07ஆம் திகதி ஒரு படகில் கடற்தொழிலுக்கு சென்று இருந்தனர்.
+
+தொழிலுக்கு சென்ற நால்வரும் 05 தினங்களுக்குள் கரை திரும்பி இருக்க வேண்டும். ஆனாலும் அவர்கள் 12 நாட்களாக கரை திரும்பவில்லை என பருத்தித்துறை போலிஸ் நிலையத்தில் கடற்தொழிலாளர்களின் உறவினர்கள் முறைப்பாடு செய்துள்ளனர்.
+
+முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்துள்ள பருத்தித்துறை பொலிஸார் கடற்படையினருக்கும் தகவல் வழங்கியுள்ள நிலையில் கடற்படையினரும் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/59a6b7f7.json)
 
 ---
 
@@ -2241,83 +2313,5 @@ Anura Kumara Dissanayake was admitted by Sri Lankans living at Narita Internatio
 [Data](articles/e4f690ff.json)
 
 [Extended Data](ext_articles/e4f690ff.ext.json)
-
----
-
-### The world stopped in the world - Here is the full description
-
-*2024-07-19 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199000) · `si`
-
-A massive global IT crash impacted numerous countries, causing disruptions in critical services like banking, transportation, and healthcare. Major operating systems experienced issues, leading to widespread "Blue Screen Death" errors. This affected airlines, banks, and even essential services in countries like England, Australia, and New Zealand. The incident was traced back to Microsoft services, but Mac and Linux applications remained unaffected.
-
-🟩
-
-Microsoft has been severely obstructed for daily activities of many countries around the world due to a crash of a number of input services including major operating systems.
-
-As a result, operations in a number of services including flights, banking services, television channel broadcasting have been unpredictable.
-
-The collapse, SriLankan Airlines and four private institutions were operating in the operations in four private institutions.
-
-A large number of global information technological crash was reported today in the country today (19) at a time of rapid development of the world.
-
-Microsoft was first reported to the collapse of a number of major input services including main operating systems.
-
-According to the "Blue Screen Death" appears to appear on the computer screens in many countries around the world, as the foreign media has become the main news of foreign media.
-
-Microsoft unexpectedly stalled unexpectedly stalled error.
-
-...
-
-[Data](articles/76ef040d.json)
-
-[Extended Data](ext_articles/76ef040d.ext.json)
-
----
-
-### 51 terrible bus accident who sent 51
-
-*2024-07-19 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198999) · `si`
-
-A private bus veered off the Trincomalee Bridge, injuring its passengers and the driver. All were hospitalized, including the driver. The bus was traveling from Jaffna to Kataragama.
-
-🟩
-
-A private bus was slipped away from the Trincomalee Bridge, Trincomalee Bridge.
-
-The buses and the driver of the bus have been admitted to the Muttur Hospital for treatment.
-
-According to police, the bus was running from Jaffna to Kataragama.
-
-◼️
-
-[Data](articles/9ff509c2.json)
-
-[Extended Data](ext_articles/9ff509c2.ext.json)
-
----
-
-### Former Sri Lanka U19 captain’s shooter arrested
-
-*2024-07-19 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100634/former-sri-lanka-u19-captains-shooter-arrested) · `en`
-
-Sri Lanka Police says the alleged shooter involved in the killing of former captain of Sri Lanka’s Under-19 cricket team, Dhammika Niroshana, in front of his house has been arrested.
-
-Officers of the Galle District Crimes Division have arrested the suspect last evening (18), according to a spokesman.
-
-He said that three suspects had arrived to commit the murder of Dhammika Niroshana, who is also known as ‘Jonty’, and that the other two suspects have been identified.
-
-The 48-year-old suspect was arrested in Randombe area in Balapitiya along with 2,800 milligrams of ‘ice’ drugs, also known as crystal methamphetamine.
-
-Meanwhile officers of the Elpitiya Divisional Crimes Unit have recovered the sets of clothes used by the suspects to disguise themselves.
-
-Police suspect that the killing was carried out based on a contract received from a foreign country.
-
-The arrested suspect was remanded until August 03 after being produced before the Balapitiya Magistrate’s Court.
-
-...
-
-[Data](articles/52fb436a.json)
-
-[Extended Data](ext_articles/52fb436a.ext.json)
 
 ---

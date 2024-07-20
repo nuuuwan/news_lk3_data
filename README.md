@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 17:56:05**
+As of **2024-07-20 18:13:21**
 
 ## Newspaper Stats
 
-*Scraped **36,274** Articles*
+*Scraped **36,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,79 @@ adaderanalk | 4,193
 tamilmirrorlk | 4,413
 dailymirrorlk | 4,733
 virakesarilk | 5,675
-adaderanasinhalalk | 6,075
+adaderanasinhalalk | 6,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,272 (100.0%) of 36,274 articles have been extended.
+36,274 (100.0%) of 36,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### ක්‍රිකට් භාරගත් සනත් මුලින්ම කරපු වැඩ දෙක
+### පොලීසියෙන් රියදුරන්ට දැනුම්දීමක්
+
+*2024-07-20 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199023) · `si`
+
+අම්බලන්ගොඩ ඌරවත්ත ගංගාරාම විහාරස්ථානය මගින් සංවිධානය කරනු ලබන වාර්ෂික පෙරහැර හෙට (21) වීදි සංචාරය කිරීමට නියමිතය.
+
+ඒ හේතුවෙන් ඇතිවිය හැකි මාර්ග තදබදය අවම කරගැනීම සඳහා විකල්ප මාර්ග භාවිත කරන්නැයි පොලීසිය රියදුරන්ට දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/f2cde968.json)
+
+---
+
+### Sanath first handed over cricket
 
 *2024-07-20 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199022) · `si`
 
-ක්‍රිකට් ක්‍රීඩකයින් මීට වඩා නිහතමානීව කටයුතු කරන්නේ නම් තරග පරදින විට ජනතාවගෙන් මෙතරම් බැනුම් අසන්නට සිදුනොවන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Sports Minister Harin Fernando suggests that more modest cricketers would reduce media attention. He criticizes modern players for lacking discipline and integrity, comparing them unfavorably to legends like Sanath Jayasuriya. A new coach has been brought in to address this issue, emphasizing the need for players to uphold the sport's values.
 
-ඔහු පෙන්වා දෙන්නේ නූතන ක්‍රීඩකයන්ගේ යම් යම් අඩුපාඩු ඇති බවය.
+🟩
 
-"කණ්ඩායම මීට වඩා නිහතමානී වුණා නම්... ආකල්ප වෙනස් වුණා නම් තරග පැරදුනා කියලා ලංකාවේ මිනිස්සු මෙච්චර කල් බැනලා නැහැ. මිනිස්සු හරි ආදරය කළා. ඒ නිසා දැන් ලංකාවේ ක්‍රිකට් කණ්ඩායම සම්බන්ධයෙන් අලුත් පුහුණුකරුවෙක් තාවකාලිකව ඇවිල්ල තියෙනවා. මට ආරංචි විදියට ඔහු පළමුවෙන්ම කරලා තියෙන්නේ ඔක්කොගේම කොණ්ඩ කපලා.... කරාබු ගලවපු එක. ඒ සියලු දේවල් කරලා තියෙනවා. මං හිතන්නේ සනත් ජයසූරිය වගේ ක්‍රීඩකයෝ ක්‍රීඩා කරද්දි ඔවුන් හොඳ විනයක් ඇතුව ක්‍රීඩා කළා. ඔවුන් ආරම්භය හොඳින් මතක තබාගෙන හිටියා. දැන් ඉන්න නූතන ක්‍රීඩකයන්ට පුංචි අඩුවක් තියෙනවා."
+If the cricketers are more modest, the people will not hear so much from the masses, "said Sports Minister Harin Fernando.
+
+He points out that there are some shortcomings of modern players.
+
+"If the group became more modest ... Sri Lanka's people have not exploited the matches if attitudes were changed. People loved the right. Therefore, a new trainer is temporarily involved in Sri Lanka's cricket team. As news, he had made all his hair first .... The earrings of the. All those things have done. I think Sanath Jayasuriya played players like Sanath Jayasuriya, they played good discipline. They kept the origin well well. Modern players now have a little. "
 
 ◼️
 
 [Data](articles/bce9c336.json)
 
+[Extended Data](ext_articles/bce9c336.ext.json)
+
 ---
 
-### සරසවි තුළින් තර්ජනකාරී දේශපාලනය ඉවත් කළ යුතුයි  - ජනපති
+### Threatened politics should be removed from universities - President
 
 *2024-07-20 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199021) · `si`
 
-විශ්වවිද්‍යාල පද්ධතියෙන් තර්ජනකාරී දේශපාලනය ඉවත් කළ යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe advocates for removing political threats from universities, emphasizing the need for a free learning environment. He calls for the reconstruction of the university system to foster children's freedom and prevent sabotage. Highlighting the importance of science and technology, he inaugurates a new university in Batticaloa, aiming to elevate educational standards akin to global institutions like Harvard, Oxford, and Cambridge.
 
-ඒ අනුව ජනාධිපතිවරයා පෙන්වා දෙන්නේ දරුවන් නිදහසේ අධ්‍යාපන කටයුතු සිදු කිරීමට නම් විශ්වවිද්‍යාල පද්ධතිය ප්‍රතිසංධාන කළ යුතු බවය.
+🟩
 
-මෙරට පාසල් සහ විශ්වවිද්‍යාල පද්ධතිය කඩාකප්පල් නොකර විධිමත් අධ්‍යාපන ආයතන බවට පත් කළ යුතු කාලය එළඹ තිබෙන බවද ජනාධිපතිවරයා පෙන්වා දෙයි.
+President Ranil Wickremesinghe says that the university system should remove threat politics.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මඩකලපුව, පූනානි ප්‍රදේශයේ ඉදිකරන ලද විද්‍යා හා තාක්ෂණ විශ්වවිද්‍යාලය සිසු අයිතියට පත් කිරීම වෙනුවෙන් අද (20) පැවති උත්සවයට එක්වෙමිනි.
+Accordingly, the President points out that the university system should be reconstructed to carry out the children freely.
 
-"හිස්බුල්ලා මැතිතුමාව මම මුලින්ම දැනගත්තේ 1985 වසරේදීයි. එතුමා අද මේ ජාත්‍යන්තර විශ්වවිද්‍යාලය ආරම්භ කර තිබෙනවා. මෙහි තාක්ෂණයට හා විද්‍යාවට මුල් තැන ලබාදී තිබෙනවා. මේ විශ්වවිද්‍යාලය ආරම්භ කළේ අපේ දරු පරපුරට විද්‍යාව සහ තාක්ෂණය දැනුම ලබා දෙන්නයි."
+The President pointed out that the time has come to be converted without sabotaging the schools and university system in Sri Lanka.
 
-"රජයේ අරමුණ වී තිබෙන්නෙත් අප රටේ විද්‍යා සහ තාක්ෂණය දියුණු කිරීමයි. තාක්ෂණය සහ විද්‍යාවෙන් පිරිපුන් පිරිස් අපේ රටට අවශ්‍යයි. මෙම විශ්වවිද්‍යාලය රටට වැදගත් වන්නේ ඒ නිසයි."
+President Ranil Wickremesinghe made this statement participating at the event of the Science and Technology University of Science and Technology, which was built in Poonani, Batticaloa.
+
+"I first learned Hisbullah in 1985. He has commenced this international university today. The technology and science have been given priority. This university was established to give our children knowledge and technology. "
+
+"The government's goal is to improve science and technology in our country. Technology and science needs our country. That is why this university is important to the country. "
 
 ...
 
 [Data](articles/afc22a29.json)
+
+[Extended Data](ext_articles/afc22a29.ext.json)
 
 ---
 
@@ -2327,27 +2353,5 @@ It should also be noted that the economic policies implemented in the last two y
 [Data](articles/269270ea.json)
 
 [Extended Data](ext_articles/269270ea.ext.json)
-
----
-
-### International Airport to Hingurakgoda
-
-*2024-07-19 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198996) · `si`
-
-Renovation of Hingurakgoda airport, Sri Lanka's 25th international airport, begins today under the Ports, Navy, and Aviation Minister Nimal Siripala de Silva. Expected to complete in six months, the project costs Rs. 17 billion.
-
-🟩
-
-Construction work on the ancient airport in Sri Lanka, Hingurakgoda internal airports began to renovate international airlines today (19).
-
-It was under the patronage of ports, Navy and Aviation Minister Nimal Siripala de Silva.
-
-The 25th International Airport of this country is scheduled to be completed within six months and the total development work is Rs. 17 billion.
-
-◼️
-
-[Data](articles/9a63f9ba.json)
-
-[Extended Data](ext_articles/9a63f9ba.ext.json)
 
 ---

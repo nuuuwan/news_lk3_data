@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 16:20:15**
+As of **2024-07-20 16:35:42**
 
 ## Newspaper Stats
 
-*Scraped **36,269** Articles*
+*Scraped **36,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,70 @@ economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,270
 adaderanalk | 4,192
-tamilmirrorlk | 4,412
+tamilmirrorlk | 4,413
 dailymirrorlk | 4,733
 virakesarilk | 5,675
-adaderanasinhalalk | 6,072
+adaderanasinhalalk | 6,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,268 (100.0%) of 36,269 articles have been extended.
+36,269 (100.0%) of 36,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### அலி சப்ரி எம்.பிக்கு பிணை
+### கலவர பூமியிலுள்ள இலங்கையர்களின் நிலை என்ன?
+
+*2024-07-20 16:17:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலவர-பூமியிலுள்ள-இலங்கையர்களின்-நிலை-என்ன/175-340715) · `ta`
+
+வங்க தேசத்தில் நிலவும் அமைதியின்மை காரணமாக அந்நாட்டில் தங்கியுள்ள இலங்கை மாணவர்களின் பாதுகாப்பை உறுதிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+அந்நாட்டிலுள்ள 03 பல்கலைக்கழகங்களில் சுமார் 50 இலங்கை மாணவர்கள் பயின்று வருவதாக அமைச்சு சுட்டிக்காட்டியுள்ளது.
+
+பங்களாதேஷில் உள்ள இலங்கை உயர்ஸ்தானிகர், மாணவர்களைச் சந்தித்து அவர்களின் தேவைகளை நேரில் பார்வையிட்டதுடன் மாணவர்களின் பாதுகாப்பு குறித்து பல்கலைக்கழக நிர்வாகத்துடன் கலந்துரையாடினார். R
+
+◼️
+
+[Data](articles/33614b4c.json)
+
+---
+
+### ත්‍රීරෝද රථයක් සහ ඉන්ධන බවුසරයක් ගැටෙයි
+
+*2024-07-20 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199020) · `si`
+
+ඉන්ධන රැගත් බවුසරයක් සහ ත්‍රීරෝද රථයක් එකිනෙක ගැටී සිදුවූ අනතුරකින් පුද්ගලයින් සිව්දෙනෙකු තුවලා ලබා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+
+අද (20) එම අනතුර සිදුවී තිබුණේ මහනුවර - යාපනය A9 මාර්ගයේ ඉකිරියගොල්ලෑව ප්‍රදේශයේදීය.
+
+අදාළ අනතුරින් ත්‍රීරෝද රථයට දැඩි අලභහානි සිදුවී ඇති අතර ඉන්ධන රැගත්  බවුසරය ඒ අසල වෙල්යායකට පෙරළී ගොස් තිබුණි.
+
+එම ඉන්ධන බවුසරයේ තිබෙන ඉන්ධන වෙනත් බවුසරයකට මාරු කිරීම මේ වන විට සිදුකරමින් පවතින බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/1bf2f888.json)
+
+---
+
+### Ali Sabri Bail for MP
 
 *2024-07-20 15:46:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-சப்ரி-எம்-பிக்கு-பிணை/175-340714) · `ta`
 
-திறந்த பிடியாணை பிறப்பிக்கப்பட்ட புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர் திரு.அலி சப்ரி ரஹீமை 2000 ரூபா பிணையில் விடுவிக்க உத்தரவிடப்பட்டுள்ளது
+Mr. Ali Sabri Rahim, a Puttalam District Parliamentarian, has been granted bail for an unspecified amount.
+
+🟩
+
+Puttalam District Parliamentarian Mr. Ali Sabri Rahim has been ordered to be released on bail of Rs.
 
 ◼️
 
 [Data](articles/701d2471.json)
+
+[Extended Data](ext_articles/701d2471.ext.json)
 
 ---
 
@@ -2315,61 +2355,5 @@ As a next step, a letter has been sent to a special discussion to be held at the
 [Data](articles/9739e1a2.json)
 
 [Extended Data](ext_articles/9739e1a2.ext.json)
-
----
-
-### Not the national resource in the country, not the state enterprise
-
-*2024-07-19 19:41:53* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ජාතික-සම්පත-තරුණ-පරපුර-මිස--පාඩු-ලබන-රාජ්‍ය-ව්‍යවසාය-නොවේ/11-410873) · `si`
-
-President Ranil Wickremesinghe announced plans to restructure government institutions to redirect funds towards education and health, emphasizing the need for public enterprises to contribute financially rather than being a drain on the nation's resources. He spoke at the University of Ruhuna, highlighting the importance of utilizing government education facilities fully and addressing the country's economic challenges, including the impact of high spending on corporations like SriLankan Airlines. The president urged for a new economic transformation through efficient management of state enterprises, aiming to free up funds for essential sectors in the coming years.
-
-🟩
-
-President Ranil Wickremesinghe said that the restructuring of loss government institutions will be able to provide more money for education and health in the future.
-
-He said that the President said that many public enterprises were not burdening the government, not the youth of the country's national resource in the country.
-
-President Ranil Wickremesinghe was speaking at a ceremony to the students who were constructed to the students who were constructed to the University of Ruhulu University in Galle.
-
-The President who was unveiled by the students to the students and engaged in an inspection tour of the students and engaged in a friendly conversation with the university staff.
-
-Vice Chancellor of the University of Ruhuna
-
-The President also planted a plant in the field of Science and the President was also planted in a group of university staff.
-
-Addressing the House, President Ranil Wickremesinghe further added:
-
-...
-
-[Data](articles/9b71c899.json)
-
-[Extended Data](ext_articles/9b71c899.ext.json)
-
----
-
-### Some of the items have to put a control price
-
-*2024-07-19 19:35:39* · [`adalk`](https://www.ada.lk/breaking_news/ඇතැම්-භාණ්ඩ-සඳහා-පාලන-මිලක්-දාන්න-වෙනවා/11-410872) · `si`
-
-Minister Nalin Fernando announced plans to amend the Consumer Act and introduce weekly price statements for 15 essential commodities to ensure fair trade practices and control prices for certain items. This move aims to address concerns raised by the business community regarding serving government-relieved customers and to enhance consumer-dealer relations.
-
-🟩
-
-If the business community does not serve the government's relief customers, trade, commerce and Food Security Minister Nalin Fernando said.
-
-The following proposals to amend the Consumer Act are planned to be tabled in Parliament within the next two weeks.
-
-Trade, Commerce and Food Security Minister Nalin Fernando made this statement participating at a press conference held at the Presidential Media Center today (19).
-
-It has been possible to end the crisis season in the past few years. President Ranil Wickremesinghe gave a special leadership for this. As a government we implemented a number of programs to get this success. The people are being enjoyed by the people.
-
-They should also be given concessionary and privileges due to economic policies carried out in the last two years. It enabled the inflation controlled. There is also a program to increase the income of the people.
-
-...
-
-[Data](articles/6a7a52aa.json)
-
-[Extended Data](ext_articles/6a7a52aa.ext.json)
 
 ---

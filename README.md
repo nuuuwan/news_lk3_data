@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 15:20:12**
+As of **2024-07-20 15:35:26**
 
 ## Newspaper Stats
 
-*Scraped **36,262** Articles*
+*Scraped **36,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,80 @@ adalk | 3,268
 adaderanalk | 4,191
 tamilmirrorlk | 4,411
 dailymirrorlk | 4,733
-virakesarilk | 5,673
+virakesarilk | 5,675
 adaderanasinhalalk | 6,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,261 (100.0%) of 36,262 articles have been extended.
+36,262 (100.0%) of 36,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### මිනිසා සඳ මත පා තබා අදට වසර 55ක්
+### அரசமைப்பில் காணப்படும் குழப்பநிலைக்கு ஜனாதிபதி என்னை குற்றம்சாட்டுவது கவலையளிக்கின்றது  –     சர்வஜனவாக்கெடுப்பிற்கு செல்வதில்லை என்ற சிறிசேனவின் தேர்தல் வாக்குறுதிக்கு ஏற்ப 19 வது திருத்தம் தயாரிக்கப்பட்டது- ஜயம்பதி விக்கிரமரட்ண
+
+*2024-07-20 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188944) · `ta`
+
+ஜனாதிபதியின் பதவிக்காலம் குறித்து எழுந்துள்ள குழப்பத்திற்கு ஜனாதிபதி ரணில்விக்கிரமசிங்க தன்மீது குற்றச்சாட்டுகளை சுமத்துவது குறித்து கலாநிதி ஜயம்பதி விக்கிரமரட்ண கவலை வெளியிட்டுள்ளார்.
+
+அரசமைப்பின் 83வது பிரிவில்  குறிப்பிடப்பட்டுள்ள ஜனாதிபதியினதும் நாடாளுமன்றத்தினதும் பதவிக்காலத்தின்  உச்சவரம்பை சர்வஜனவாக்கெடுப்பு குறித்த குழப்பத்தை தவிர்ப்பதற்காகவே கையாளவில்லை என அவர் தெரிவித்துள்ளார்.
+
+இகுறித்து அறிக்கையொன்றை வெளியிட்டுள்ள அவர் நான் சில விடயங்களை வெளிப்படையாக தெரிவிக்க விரும்புகின்றேன் ஜனாதிபதி தேர்தலில் போட்டியிட்ட வேளை மைத்திரிபாலசிறிசேன மாதுளவாவே சோபித தேரர் தலைமையில் அரசியல் கட்சிகள் அமைப்புகளுடன் விகாரமாஹாதேவி பூங்காவில் ஒப்பந்தத்தில் கைச்சாத்திட்டார் என குறிப்பிட்டுள்ளார்.
+
+அந்த உடன்படிக்கையில் அவர் நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதற்கு உறுதிமொழி வழங்கினார் என கலாநிதி ஜயம்பதி விக்கிரமரட்ண தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/db168bab.json)
+
+---
+
+### Man on the moon and 55 years for today
 
 *2024-07-20 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199016) · `si`
 
-මිනිසා පළමු වරට සඳ මත පා තැබූ ඓතිහාසික දිනය සනිටුහන් වී අදට (20) වසර 55ක් සැපිරෙයි.
+On July 20, 1969, humans made history by landing on the Moon. Astronauts Neil Armstrong and Buzz Aldrin, aboard Apollo 11, became the first to set foot on another celestial body. This monumental achievement, broadcast live worldwide, marked a significant leap forward for space exploration. The mission lasted over two months, during which Armstrong and Aldrin collected lunar samples weighing approximately 21.5 kg. This event remains one of humanity's greatest achievements, inspiring further space exploration.
 
-මිනිසෙකුගේ එක් කුඩා පියවරක්, මුළු මහත් මනුෂ්‍ය වර්ගයාගේ අනාගතය වෙනුවෙන් වූ යෝධ පිම්මක් යන ඉතිහාසගත ඒ වඳන් පෙළ ලෝ ප්‍රකට අභ්‍යවකාශගාමි නීල් ආම්ස්ට්‍රෝන්ග් විසින් ප්‍රකාශ කළේ  1969 වසරේ ජුලි 20වනදාවකය.
+🟩
 
-මිනිසා පළමුවරට සඳ මත පා තැබූ එම මොහොත සජීවීව නැරඹීමට ලෝකවාසීන්ට එදා අවස්ථාව උදාවිය.
+The first time man marks the first time on the Moon, and 55 years today.
 
-ලෝක ඉතිහාසයේ එදා මෙදා තුර අතිශයින් ජනප්‍රිය ගගනගාමීන් තිදෙනා වන නීල් ආම්ස්ට්‍රෝන්ග්, එඩ්වින් ඕල්ඩ්රින් සහ මයිකල් කොලින්ස් රැගත් ඇපලෝ 11 යානය සඳ ගමන ආරම්භ කලේ 1969 වසරේ ජුලි 16වනදාය.
+A small step of a man's to historical monarchy, a giant primary monastery for the future of the great mankind, is 20th July 1969.
 
-සැටන් වී රොකට් යානය ආධාරයෙන් මෙම සුවිශේෂී යානය අභ්‍යවකාශගත කරනු ලැබුවේ ෆ්ලොරීඩා ප්‍රාන්තයේ පිහිටි කෙනඩි අභ්‍යවකාශ මධ්‍යස්ථානයෙනි.
+The world residents have the opportunity to watch the moment to watch the man at the moon for the first time.
 
-1969 වසරේ ජුලි 20 වනදා ශ්‍රී ලංකා වේලාවෙන් අලුයම 1.50ට පමණ නීල් ආම්ස්ට්‍රෝන්ග් සහ එඩ්වින් ඕල්ඩ්රින් රැගත් ඇපලෝ 11 සඳ මත ගොඩබස්සවනු ලැබීය.
+The Apostlo 11, Edwin Armstrong, the three-popular astroad Neil Armstrong and Michael Collins, which was very popular in the history of the world, began the Moon Trip, July 16, 1969.
 
-ඉන් පැය 6කට පසු සඳ මත පා තැබූ ප්‍රථම මිනිසා වීමේ භාග්‍යය උදා කරගැනීමට නීල් ආම්ස්ට්‍රෝන්ග් සමත්විය.
+The unique plane was spared with the help of the Salton and Rocket.
+
+On July 20, 1969, Neil Armstrong and Edwin Aldrin were burned on the Moon around 1.50 am in Sri Lanka.
+
+Six hours later, Neil Armstrong was able to bring the first man to entering the Moon.
+
+Second Man Edwin Armstrong in collaboration with the Moon, Edwin Armstrong, has been explored about this new world for two months.
+
+It is reported that the two of them have added 21.5 kg rocks and soil to bring to the earth.
 
 ...
 
 [Data](articles/11d91723.json)
+
+[Extended Data](ext_articles/11d91723.ext.json)
+
+---
+
+### வரலாற்றில் இன்று
+
+*2024-07-20 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/188943) · `ta`
+
+அமெரிக்காவின் 'அப்போலோ -11' விண்கலத்தின் ஊடாக புறப்பட்ட விண்வெளி வீரர்களான நீல் ஆம்ஸ்ட்ரோங், எட்வின் ஆல்ட்ரின் ஆகியோர் சந்திர மண்டல தரையில் முதல் முதலாக காலடி எடுத்து வைத்தது 1969ஆம் ஆண்டில் இதே திகதியான ஜூலை 20இல் ஆகும்.
+
+◼️
+
+[Data](articles/4b588f73.json)
 
 ---
 
@@ -2319,49 +2359,5 @@ Meanwhile, more than 50 houses are unworthy of resettlement in 1996 in Sirinagar
 [Data](articles/8c839dce.json)
 
 [Extended Data](ext_articles/8c839dce.ext.json)
-
----
-
-### Sri Lanka’s Commercial Bank gets Sustainable Fitch opinion to sell green bonds
-
-*2024-07-19 18:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-gets-sustainable-fitch-opinion-to-sell-green-bonds-172970/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon said it had received a second party opinion from Sustainable Fitch, validating a framework that will allow the lender to sell green bonds in the future.
-
-The bank said Sustainable Fitch had given an opinion of ‘Good’ for its green bond framework, based on alignment to with the International Capital Market Association’s Green Bond Principles 2021, Social Bond Principles 2023 and the Sustainability Bond Guidelines 2021.
-
-Commercial Bank’s sustainable bond framework was developed with technical assistance from Global Green Growth Institute (GGGI), an international inter-governmental organization.
-
-“Our focus on sustainability now encompasses virtually every operational aspect, and the issuance of a Sustainable Bond will mark the next milestone in the Bank’s journey towards sustainability,” Managing Director and Chief Executive Sanath Manatunge said in statement.
-
-...
-
-[Data](articles/07def392.json)
-
-[Extended Data](ext_articles/07def392.ext.json)
-
----
-
-### A message to vendors from the government
-
-*2024-07-19 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198994) · `si`
-
-Government warns businesses: Amend Consumer Act or face price controls. Minister Nalin Fernando urges action to aid consumers, proposing weekly price statements for 15 essentials. Discussion with trade associations planned.
-
-🟩
-
-If the business community does not act to give the government to the relief consumers, the business community, Minister of Trade, Commerce and Food Security Minister Nalin Fernando said.
-
-The following proposals are to be tabled in Parliament within the next two weeks to amend the Consumer Act.
-
-Trade, Commerce and Food Security Minister Nalin Fernando made this statement participating at a press conference held at the Presidential Media Center today (19).
-
-"We are making a price statement once a week for 15 essential items. However, the relief consumer offered by the government is observed. Looking to discuss with trade associations in the next few days. If we do not give customary customers, you need to say that there is a control price for certain items. "
-
-◼️
-
-[Data](articles/9cffd658.json)
-
-[Extended Data](ext_articles/9cffd658.ext.json)
 
 ---

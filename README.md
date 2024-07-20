@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 19:05:23**
+As of **2024-07-20 19:20:17**
 
 ## Newspaper Stats
 
-*Scraped **36,282** Articles*
+*Scraped **36,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,194
 tamilmirrorlk | 4,416
 dailymirrorlk | 4,733
 virakesarilk | 5,677
-adaderanasinhalalk | 6,077
+adaderanasinhalalk | 6,078
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,282 (100.0%) of 36,282 articles have been extended.
+36,282 (100.0%) of 36,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### කාසියේ වාසිය බංග්ලාදේශය
+
+*2024-07-20 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199025) · `si`
+
+ආසියානු කුසලාන කාන්තා T20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහභාගී වන පළමු තරගය අද (20) පැවැත් වෙයි.
+
+එම තරගයේ කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කාන්තා කණ්ඩායම සමත් වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමටය.
+
+◼️
+
+[Data](articles/d8806418.json)
+
+---
 
 ### Blades faced with blade at Matara Prison
 
@@ -2313,25 +2327,5 @@ Minister Fernando made these remarks during a news conference held at the Presid
 [Data](articles/6837f350.json)
 
 [Extended Data](ext_articles/6837f350.ext.json)
-
----
-
-### Anura Kumara Dissanayake launches tour in Japan
-
-*2024-07-19 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199001) · `si`
-
-Anura Kumara Dissanayake, leader of the National Power and National Jones, embarked on a tour in Japan, where he was warmly received by Sri Lankan residents at Narita International Airport.
-
-🟩
-
-Leader of the National Power and National Jones to attend a Sri Lankan public and business meeting has gone to Japan.
-
-Anura Kumara Dissanayake was admitted by Sri Lankans living at Narita International Airport.
-
-◼️
-
-[Data](articles/e4f690ff.json)
-
-[Extended Data](ext_articles/e4f690ff.ext.json)
 
 ---

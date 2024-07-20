@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 09:20:12**
+As of **2024-07-20 09:35:36**
 
 ## Newspaper Stats
 
-*Scraped **36,224** Articles*
+*Scraped **36,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,060
 economynextcom | 2,165
 dailyftlk | 2,314
 adalk | 3,267
-adaderanalk | 4,180
-tamilmirrorlk | 4,402
+adaderanalk | 4,181
+tamilmirrorlk | 4,403
 dailymirrorlk | 4,733
 virakesarilk | 5,667
 adaderanasinhalalk | 6,061
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,224 (100.0%) of 36,224 articles have been extended.
+36,224 (100.0%) of 36,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### ‘Red’ alert issued over strong winds and rough seas
+
+*2024-07-20 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100638/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ warning for strong winds and rough seas for naval and multi-day fisherman communities in the Arabian Sea and Bay of Bengal.
+
+As per the warning, very strong winds 70-80 kmph, and very rough seas are likely over Arabian Sea area (in sea areas bounded by (10N - 20N) and (55E – 74E)) and Bay of Bengal (in sea areas bounded by (11N - 19N) and (83E – 93E)) due to the active south-west monsoonal condition.
+
+Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
+
+Those who are out at aforementioned sea regions are advised to return to coasts or moved safer areas immediately.
+
+Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/46389882.json)
+
+---
+
+### இலங்கைக்கு வந்துகொண்டிருந்த கப்பலில் திடீர் தீ
+
+*2024-07-20 08:56:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-வந்துகொண்டிருந்த-கப்பலில்-திடீர்-தீ/175-340707) · `ta`
+
+இந்த கப்பல் சர்வதேச கடல்சார் அபாயகரமான சரக்குகளை ஏற்றிச் வந்ததாகவும், வணிகக் கப்பலின் முன் பகுதியில் வெடிப்புகள் ஏற்பட்டதாகவும் கூறப்படுகிறது.
+
+சீரற்ற வானிலையையும் மீறி தீயை அணைக்கும் பணியை இந்திய கடற்படை மேற்கொண்டு வருகிறது.
+
+கூடுதலாக இரண்டு ICG கப்பல்கள் கோவாவில் இருந்து தீயை அணைக்கும் முயற்சிக்காக அனுப்பப்பட்டுள்ளன. R
+
+◼️
+
+[Data](articles/111e41b3.json)
+
+---
 
 ### AIDS is a growth of the distribution of adolescents
 
@@ -2315,53 +2351,5 @@ Train workers are engaged in removing trees that have fallen. In this case, the 
 [Data](articles/56fc6c16.json)
 
 [Extended Data](ext_articles/56fc6c16.ext.json)
-
----
-
-### Sri Lanka aims to become regional hub for human capital development – President
-
-*2024-07-19 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100624/sri-lanka-aims-to-become-regional-hub-for-human-capital-development-president) · `en`
-
-President Ranil Wickremesinghe emphasized that efforts are underway to position Sri Lanka as the regional hub for human capital development. He stressed the need to re-evaluate the National Vocational Qualification (NVQ) to align with internationally accepted standards, such as those in Australia.
-
-He expressed his intent to seek assistance from Australia to strengthen and modernize Sri Lanka’s education system. He stressed the importance of collective efforts among BIMSTEC countries and seeking support from international partners to build a robust education system. President Wickremesinghe underscored the necessity of systemic changes, advocating for reforms and the strengthening of education and training systems.
-
-...
-
-[Data](articles/e8d72341.json)
-
-[Extended Data](ext_articles/e8d72341.ext.json)
-
----
-
-### Bangladesh still fire in student protests
-
-*2024-07-19 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198983) · `si`
-
-In Bangladesh, student protests over government job quotas for war heroes' children turned violent, resulting in 32 deaths and numerous injuries. The government responded with repression, closing schools, suspending TV channels, and blocking internet/phone services. The protests highlight dissatisfaction with the allocation of government jobs, which the Supreme Court deemed illegal but were reinstated by a High Court order.
-
-🟩
-
-About two weeks, 32 people were killed and 32 others were wounded during the students of Dhaka capital in Bangladesh.
-
-The protests took a violent form with the government to follow a strong repressive policy to control the protesters.
-
-Schools and universities have been closed down in the country, taking into the country's violent form.
-
-The protesters who behaved agitated protesters were burned and all the television news channel was suspended.
-
-Internet connections, as well as telephone links, have also been blocked throughout the country.
-
-Students protest the 1971 independence of the independence of the independence of the war heroes, protesting to priority of government jobs.
-
-Accordingly, more than 30 percent of government job vacancies in the country, has allocated more than 30 percent to children of war heroes.
-
-The Supreme Court ruled in 2018 that the quota was illegal was illegal, and Prime Minister Sheikh Hasina had to abolish the methodology.
-
-...
-
-[Data](articles/3d6e3eaf.json)
-
-[Extended Data](ext_articles/3d6e3eaf.ext.json)
 
 ---

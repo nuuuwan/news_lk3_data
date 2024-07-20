@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 15:35:26**
+As of **2024-07-20 15:54:16**
 
 ## Newspaper Stats
 
-*Scraped **36,264** Articles*
+*Scraped **36,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,268
-adaderanalk | 4,191
+adaderanalk | 4,192
 tamilmirrorlk | 4,411
 dailymirrorlk | 4,733
 virakesarilk | 5,675
@@ -26,27 +26,57 @@ adaderanasinhalalk | 6,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,262 (100.0%) of 36,264 articles have been extended.
+36,264 (100.0%) of 36,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### அரசமைப்பில் காணப்படும் குழப்பநிலைக்கு ஜனாதிபதி என்னை குற்றம்சாட்டுவது கவலையளிக்கின்றது  –     சர்வஜனவாக்கெடுப்பிற்கு செல்வதில்லை என்ற சிறிசேனவின் தேர்தல் வாக்குறுதிக்கு ஏற்ப 19 வது திருத்தம் தயாரிக்கப்பட்டது- ஜயம்பதி விக்கிரமரட்ண
+### Trump speaks to Zelensky, pledges to ‘end the war’ with Russia
+
+*2024-07-20 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100650/trump-speaks-to-zelensky-pledges-to-end-the-war-with-russia) · `en`
+
+US Republican presidential candidate Donald Trump said Friday he had spoken by telephone with Ukraine leader Volodymyr Zelensky, and pledged to end the European country’s war with Russia.
+
+“I appreciate President Zelensky for reaching out because I, as your next President of the United States, will bring peace to the world and end the war that has cost so many lives and devastated countless innocent families,” Trump said in a post on his Truth Social platform.
+
+“Both sides will be able to come together and negotiate a deal that ends the violence and paves a path forward to prosperity.”
+
+The United States has provided tens of billions of dollars in military assistance for Kyiv since Russia launched its full-scale invasion of Ukraine in February 2022 -- though a Trump victory in the November election would put Washington’s continued support into question.
+
+...
+
+[Data](articles/9d371c55.json)
+
+---
+
+### It is worried that the president blames me for the confusion in the constitution- the 19th Amendment was prepared in accordance with Sirisena's election promise not to go to the universities- Jayampathi Wickremaratne
 
 *2024-07-20 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188944) · `ta`
 
-ஜனாதிபதியின் பதவிக்காலம் குறித்து எழுந்துள்ள குழப்பத்திற்கு ஜனாதிபதி ரணில்விக்கிரமசிங்க தன்மீது குற்றச்சாட்டுகளை சுமத்துவது குறித்து கலாநிதி ஜயம்பதி விக்கிரமரட்ண கவலை வெளியிட்டுள்ளார்.
+Dr. Jayampathi Wickremaratne expresses concern over confusion regarding the president's term limit, citing the 19th Amendment as aligned with Sirisena's election promise to avoid university visits. He mentions the need for a referendum for constitutional changes, including reducing the presidential and parliamentary terms from six to five years, as outlined in Article 83. Despite discussions and approvals, the bill faced challenges due to the Attorney General's stance, leading to amendments before its presentation to Parliament. Wickremaratne criticizes President Wickremesinghe for blaming him for not reducing the term limits, emphasizing the amendment's intention to avoid a referendum post-Sirisena's pledge.
 
-அரசமைப்பின் 83வது பிரிவில்  குறிப்பிடப்பட்டுள்ள ஜனாதிபதியினதும் நாடாளுமன்றத்தினதும் பதவிக்காலத்தின்  உச்சவரம்பை சர்வஜனவாக்கெடுப்பு குறித்த குழப்பத்தை தவிர்ப்பதற்காகவே கையாளவில்லை என அவர் தெரிவித்துள்ளார்.
+🟩
 
-இகுறித்து அறிக்கையொன்றை வெளியிட்டுள்ள அவர் நான் சில விடயங்களை வெளிப்படையாக தெரிவிக்க விரும்புகின்றேன் ஜனாதிபதி தேர்தலில் போட்டியிட்ட வேளை மைத்திரிபாலசிறிசேன மாதுளவாவே சோபித தேரர் தலைமையில் அரசியல் கட்சிகள் அமைப்புகளுடன் விகாரமாஹாதேவி பூங்காவில் ஒப்பந்தத்தில் கைச்சாத்திட்டார் என குறிப்பிட்டுள்ளார்.
+Dr. Jayampathi Wickremaratne has expressed concern over the confusion over the president's term.
 
-அந்த உடன்படிக்கையில் அவர் நிறைவேற்று அதிகார ஜனாதிபதி முறையை நீக்குவதற்கு உறுதிமொழி வழங்கினார் என கலாநிதி ஜயம்பதி விக்கிரமரட்ண தெரிவித்துள்ளார்.
+He said the ceiling of the president and parliament, mentioned in Article 83 of the Constitution, did not deal with the confusion of the universalism.
+
+He has issued a statement saying that I would like to comment on some issues.
+
+Dr. Jayampathi Wickremaratne said that he pledged to abolish the executive presidency in the agreement.
+
+The next day, he signed an agreement with the Jatihaha Helawa Urumaya and promised that the universal resort would not make the necessary constitutional changes.
+
+He said that Maithripalasirisena had stated in his election manifesto that there would be no constitutional change in the essential constitution.
+
+He said that although the president and parliamentary term were proposed to be reduced from six to five years, he said that the referendum was required for a referendum, he said.
 
 ...
 
 [Data](articles/db168bab.json)
+
+[Extended Data](ext_articles/db168bab.ext.json)
 
 ---
 
@@ -84,15 +114,21 @@ It is reported that the two of them have added 21.5 kg rocks and soil to bring t
 
 ---
 
-### வரலாற்றில் இன்று
+### Today in history
 
 *2024-07-20 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/188943) · `ta`
 
-அமெரிக்காவின் 'அப்போலோ -11' விண்கலத்தின் ஊடாக புறப்பட்ட விண்வெளி வீரர்களான நீல் ஆம்ஸ்ட்ரோங், எட்வின் ஆல்ட்ரின் ஆகியோர் சந்திர மண்டல தரையில் முதல் முதலாக காலடி எடுத்து வைத்தது 1969ஆம் ஆண்டில் இதே திகதியான ஜூலை 20இல் ஆகும்.
+On July 20, 1969, astronauts Neil Armstrong and Edwin Aldrin made history as the first humans to walk on the moon, marking a significant milestone in space exploration.
+
+🟩
+
+Astronauts Neil Armstrong and Edwin Aldrin, who departed through the 'Apollo -11' spacecraft of the United States, set the first step on the lunar zonal ground on the same date on July 20, 1969.
 
 ◼️
 
 [Data](articles/4b588f73.json)
+
+[Extended Data](ext_articles/4b588f73.ext.json)
 
 ---
 
@@ -2335,29 +2371,5 @@ Speaking to Ada Derana, he asserted that a rigorous investigation is underway to
 [Data](articles/e27f9b87.json)
 
 [Extended Data](ext_articles/e27f9b87.ext.json)
-
----
-
-### Broken house in Vavuniya!Unfortunately two survivors!
-
-*2024-07-19 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/188892) · `ta`
-
-In Vavuniya, a house collapsed, narrowly missing two occupants who were outside. This incident highlights the poor state of over 50 homes in Sirinagarpur, deemed unsafe for resettlement since 1996. Concerns arise as villagers await assistance for housing schemes.
-
-🟩
-
-The two men survived the collapse of a house in the Vavuniya Poonthottam Sirinagar area on Friday (19).
-
-Husband and wife stayed at the house on Friday (19 noon. The house suddenly collapsed.
-
-However, a massive disaster was avoided as the husband and wife were outside the house.
-
-Meanwhile, more than 50 houses are unworthy of resettlement in 1996 in Sirinagarpur.. Villagers are worried that it has not yet been available to various parties to provide their home scheme.
-
-◼️
-
-[Data](articles/8c839dce.json)
-
-[Extended Data](ext_articles/8c839dce.ext.json)
 
 ---

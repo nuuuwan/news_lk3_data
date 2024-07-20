@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 14:35:45**
+As of **2024-07-20 14:54:18**
 
 ## Newspaper Stats
 
-*Scraped **36,259** Articles*
+*Scraped **36,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,268
 adaderanalk | 4,191
-tamilmirrorlk | 4,409
+tamilmirrorlk | 4,411
 dailymirrorlk | 4,733
 virakesarilk | 5,673
 adaderanasinhalalk | 6,070
@@ -26,15 +26,39 @@ adaderanasinhalalk | 6,070
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,258 (100.0%) of 36,259 articles have been extended.
+36,259 (100.0%) of 36,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### யாழில் குழந்தையை கணவனுடன் விட்டுவிட்டு காதலுடன் ஓடிய பெண்
+### The girl who left the baby with her husband in Jaffna
 
 *2024-07-20 14:09:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-குழந்தையை-கணவனுடன்-விட்டுவிட்டு-காதலுடன்-ஓடிய-பெண்/71-340713) · `ta`
+
+In Jaffna, a woman abandoned her toddler with her husband and fled with a fake boyfriend. Her husband filed a complaint leading to their arrest. The court ordered them held for 14 days.
+
+🟩
+
+The court has ordered the abandonment of her two -and -a -half -year -old woman and left the city with a fake boyfriend.
+
+A family woman who lived with her husband and her child in the area of ​​the Jaffna police station had left the city a few days ago.
+
+A complaint was lodged at the Jaffna Police Station by husband. According to the complaint, the police arrested the woman and her boyfriend, the young man.
+
+Following the trial of the two men, the Jaffna Magistrate's Court has ordered the detainees to be detained for 14 days following a court hearing.R
+
+◼️
+
+[Data](articles/6400ade5.json)
+
+[Extended Data](ext_articles/6400ade5.ext.json)
+
+---
+
+### குழந்தை கணவனுடன்: தாய் காதலுடன்
+
+*2024-07-20 14:09:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/குழந்தை-கணவனுடன்-தாய்-காதலுடன்/71-340713) · `ta`
 
 தனது இரண்டரை வயது குழந்தையை கைவிட்டு, கள்ள காதலனுடன் ஊரை விட்டு வெளியேறிய  பெண்ணையும், காதலனையும் விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
 
@@ -46,7 +70,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/6400ade5.json)
+[Data](articles/fa18079d.json)
 
 ---
 
@@ -221,6 +245,22 @@ He said that it is not necessary to conduct a universal payment as this has not 
 [Data](articles/5cb2e898.json)
 
 [Extended Data](ext_articles/5cb2e898.ext.json)
+
+---
+
+### பரீட்சையை மறுத்த மகள்: விபரீத முடிவெடுத்த தாய்
+
+*2024-07-20 12:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பரீட்சையை-மறுத்த-மகள்-விபரீத-முடிவெடுத்த-தாய்/71-340712) · `ta`
+
+யாழில் பரீட்சைக்கு செல்வதற்கு மகள் மறுத்தமையால் தாயார் தவறான முடிவெடுத்து உயிரை மாய்த்துள்ளார்.
+
+க.பொ.த சாதாரண பரீட்சையின் நடன படத்திற்கான செய்முறை பரீட்சை கடந்த 10ஆம் திகதி நடைபெற்றது. அதற்கு மகள் செல்ல மறுத்தமையால் , தாயார் விரக்தி அடைந்து தனது உயிரை மாய்க்க முயன்ற நிலையில் காப்பாற்றப்பட்டு , தெல்லிப்பழை ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டார்.
+
+அங்கிருந்து மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்ட நிலையில், வைத்திய சாலையில் சிகிச்சை பலனின்றி நேற்றைய தினம் வெள்ளிக்கிழமை உயிரிழந்துள்ளார்.  R
+
+◼️
+
+[Data](articles/7e1332c0.json)
 
 ---
 
@@ -2315,57 +2355,5 @@ The Elections Commission should protect the democratic rights of the people with
 [Data](articles/ffad80a1.json)
 
 [Extended Data](ext_articles/ffad80a1.ext.json)
-
----
-
-### Report also calls on 40 government information systems
-
-*2024-07-19 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198993) · `si`
-
-A report investigates a cybersecurity system failure affecting Microsoft products and impacting four private institutions and two banks. The Sri Lanka Computer Emergency Response Forum is looking into this issue, which also involves a global inquiry into the Falcon Cyber Protection System due to a technical fault.
-
-🟩
-
-The number of information systems have been called on 40 government information systems to find out whether the technological error of a cyber security system provides had to be affected by the technological error.
-
-The Information Security Engineers of Defense Engineering at the Sri Lanka Computer Emergency Response Forum said that these reports have been summoned to look into Microsoft inputs.
-
-He has also been affected by four private institutions and that there was affect two banks.
-
-He also said that he is in a strong investigation into the matter.
-
-Due to the technical fault in Falcon, a technological profit of the Falcon, a technological profit of Falcon, a Cyber ​​Protection System, a cyber security system provider, was influenced by a number of countries around the world.
-
-◼️
-
-[Data](articles/416e1972.json)
-
-[Extended Data](ext_articles/416e1972.ext.json)
-
----
-
-### SriLankan Airlines a special announcement
-
-*2024-07-19 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198992) · `si`
-
-SriLankan Airlines announced a global technical bug affected its air operations, causing disruptions in internet booking services. They apologized for the inconvenience and reported the issue was resolved by 14:00 local time. Passengers were advised to contact their Global Relations Center for help.
-
-🟩
-
-SriLankan Airlines has issued a statement regarding the global technical bug.
-
-The announcement shows that SriLankan Airlines has affect the air operations due to a globally technical failure of third party service providers affecting Internet booking services today.
-
-Therefore, it is expressed their regret over the inconvenience caused to the passengers.
-
-The technological error was completely restored at 14:00 in Sri Lanka.
-
-SriLankan asked SriLankan calling their Global Relations Center for further assistance.
-
-◼️
-
-[Data](articles/97c741bb.json)
-
-[Extended Data](ext_articles/97c741bb.ext.json)
 
 ---

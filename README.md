@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 09:55:05**
+As of **2024-07-20 10:07:40**
 
 ## Newspaper Stats
 
-*Scraped **36,227** Articles*
+*Scraped **36,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 2,060
 economynextcom | 2,165
 dailyftlk | 2,314
 adalk | 3,268
-adaderanalk | 4,181
+adaderanalk | 4,183
 tamilmirrorlk | 4,403
 dailymirrorlk | 4,733
 virakesarilk | 5,667
-adaderanasinhalalk | 6,061
+adaderanasinhalalk | 6,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,226 (100.0%) of 36,227 articles have been extended.
+36,227 (100.0%) of 36,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### Boat fire off Haiti kills at least 40 migrants, UN says
+
+*2024-07-20 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100640/boat-fire-off-haiti-kills-at-least-40-migrants-un-says) · `en`
+
+At least 40 migrants have died after the boat they were travelling in caught fire off the northern coast of Haiti, a United Nations agency says.
+
+The International Organisation for Migration (IOM) says 41 others were rescued by the Haitian Coast Guard.
+
+The vessel was travelling from Cap-Haitien to the Turks and Caicos Islands, more than 220km (137 miles) away, the IOM said.
+
+The exact cause of the fire is not yet clear, but a local official told Reuters that people on the boat were lighting candles in a ritual to ask for safe passage, leading gasoline-filled drums to catch fire.
+
+The injured are receiving care provided by the IOM, and 11 of them were taken to the nearest hospital, the agency said.
+
+Tens of thousands of people flee Haiti every year, escaping poverty, lawlessness and gang violence at home.
+
+Rival armed groups took control of the capital, Port-au-Prince, earlier this year, forcing Prime Minister Ariel Henry to resign weeks later.
+
+...
+
+[Data](articles/d6bbeb36.json)
+
+---
+
+### Increase in HIV/AIDS cases among youth in Sri Lanka
+
+*2024-07-20 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100639/increase-in-hivaids-cases-among-youth-in-sri-lanka) · `en`
+
+The National STD/AIDS Control Programme (NSACP) has reported that 40 children were diagnosed with HIV/AIDS within last year.
+
+STD specialist Dr. Vino Dharmakulasinghe, has stated that the number of adults reported to have contracted HIV/AIDS is 3,169.
+
+The number of people living with HIV increased from 607 in 2022 to 694 in 2023, marking a 14 percent rise. Of these 694 patients, 613 are males.
+
+Dr. Dharmakulasinghe also highlighted an increase in the spread of AIDS among the age group of 15 to 24.
+
+◼️
+
+[Data](articles/106e63c4.json)
+
+---
+
+### බෝට්ටුවක් ගිනි ගැනීමෙන් 40කට අධික පිරිසකට දිවි අහිමි වෙයි
+
+*2024-07-20 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199007) · `si`
+
+උතුරු හයිටියේදී සංක්‍රමණිකයින් ගමන් කළ බෝට්ටුවක් ගිනි ගැනීමෙන් පුද්ගලයින් 40 දෙනෙකු ට අධික පිරිසක් මියගොස් තවත් කිහිප දෙනෙකු තුවාල ලබා තිබේ.
+
+සංක්‍රමණිකයන් සඳහා වූ ජාත්‍යන්තර සංවිධානය උපුටා දක්වමින් එක්සත් ජාතීන්ගේ ප්‍රකාශකයෙකු පවසා ඇත්තේ දින දෙකකට පෙර පුද්ගලයින් 80කට අධික පිරිසක් රැගත් බෝට්ටුවක් ටර්ක්ස් සහ කයිකෝස් දූපත් වෙත ගමන් කර ඇති බවය.
+
+දිවි ගලවා ගත් සංක්‍රමණිකයන් 41 දෙනෙකු හයිටි වෙරළාරක්ෂක බළකාය විසින් බේරාගෙන ඇති බව විදසේ වාර්තා සඳහන් කළේය.
+
+සංක්‍රමණිකයන් 11 දෙනෙකු පිළිස්සුම් තුවාල ලබා ප්‍රතිකාර සඳහා රෝහල් ගත කර ඇත.
+
+◼️
+
+[Data](articles/8c4de370.json)
+
+---
 
 ### ‘Red’ alert issued over strong winds and rough seas
 
@@ -1386,23 +1446,33 @@ Minister Jeevan Thondaman, Members of Parliament AHM. Fouzi, Yatamini Gunawarden
 
 ---
 
-### ජනපති රටෙන්ම සමාව ඉල්ලයි
+### President apologizes from the country
 
 *2024-07-19 19:27:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-රටෙන්ම-සමාව-ඉල්ලයි/11-410871) · `si`
 
-සර්වජන ඡන්ද බලය හිමි වීමෙන් පසුව ප්‍රජාතන්ත්‍රවාදය අඛණ්ඩව ක්‍රියාත්මක එකම රට ශ්‍රී ලංකාව වන බවත් එම තත්ත්වය ඉදිරියටත් රැක ගැනීමට තමන් කැප වන බැවින් ව්‍යවස්ථා සංශෝධන සම්බන්ධයෙන් කිසිදු බියක් ඇති කර නොගත යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe highlights Sri Lanka's unique position in preserving democracy since 1931, despite challenges. He addresses concerns over constitutional amendments and the role of legal figures like N. Choxy, acknowledging mistakes and extending apologies. The speech marks the opening of a new court complex in Galle, emphasizing the importance of the judiciary and the country's legal heritage.
 
-ව්‍යවස්ථා සංශෝධන සිදු කිරීමේදී තමන් එහි වගකීම බාර දෙන්නේ විෂය සම්බන්ධ පළපුරුදු අයකුට බවත් ඒ අනුව එවැනි කටයුතු සිදු කළේ කේ. එන් චොක්සි වැනි නීතිඥවරුන් සමඟ බවත් ජනාධිපතිවරයා සිහිපත් කළේය.
+🟩
 
-කෙසේ වුවත් 2015 වසරේ ව්‍යවස්ථා සංශෝධනය සිදු කරන අවස්ථාවේදී චොක්සි මහතා ජීවතුන් අතර නොසිටි බැවින් එම කටයුත්ත ජයම්පති වික්‍රමරත්න නීතිඥවරයාට බාර දීමට සිදු වූ බවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කර සිටියේය.
+President Ranil Wickremesinghe said that it is the only country to continue the only country to protect democracy after the o'clock electoral power is the same.
 
-එම අවස්ථාවේ ඔහුගෙන් සිදු වූ අතපසුවීමක් නිසා වත්මන් ගැටළු සහගත තත්ත්වය ඇති ව තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා, ඒ පිළිබඳ තමන් ජනතාවගෙන් සමාව ඉල්ලා සිටින බවද පැවසීය.
+When performing the constitutional amendments, they are responsible for the subject of the subject and that such activities were done accordingly and had done such activities. The President recalled that the lawyers such as N Choxy.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ගාල්ල, බෙලිගහ ප්‍රදේශයේ ඉදිකළ නව අධිකරණ සංකීර්ණය විවෘත කිරීමේ අවස්ථාවට අද (19) එක් වෙමිනි.
+However, as Mr. Chocosy was not alive at the time of the year 2015, Jayampathi Wickremaratne had to hand over the lawyer, "President Ranil Wickremasinghe said.
+
+The President pointed out that he had a problem with him, he said he had the current problem.
+
+President Ranil Wickremesinghe was speaking at the opening of the new court complex built in the Beligaha area in Galle.
+
+The new court complex was built at a cost of Rs.There are all the necessary facilities for jurisdiction including an office.
+
+The President opened the new court complex and opened the new court complex.
 
 ...
 
 [Data](articles/f9050690.json)
+
+[Extended Data](ext_articles/f9050690.ext.json)
 
 ---
 
@@ -2279,83 +2349,5 @@ Shipol Airport services have been affected due to the failure of the global orga
 [Data](articles/4b109be6.json)
 
 [Extended Data](ext_articles/4b109be6.ext.json)
-
----
-
-### Sathosa's happy news to people
-
-*2024-07-19 15:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-சதொசவின்-மகிழ்ச்சியான-செய்தி/175-340681) · `ta`
-
-Lanka Sathosa reduces prices: blackberries now Rs 1,400/kg, Palma 400g for Rs 910, wheat mangoes down by 10 rupees, white chin by 5 rupees, white rice to Rs 200/kg, Giri Samba to Rs 258/kg.
-
-🟩
-
-Accordingly, the price of a kilogram of blackberry has been reduced by 100 rupees. Accordingly, a kilogram of blackberries will be sold for Rs 1,400.
-
-The price of 400 grams of Lanka Sathosa Palma has been reduced by 40 rupees and its new price is 910 rupees.
-
-The price of wheat mangoes has been reduced by 10 rupees and the price of a kilogram of white chin has been reduced by 5 rupees.
-
-White rice is reduced by 4 rupees and its new price is 200 rupees.
-
-Giri Samba has been reduced by 2 rupees and its new price is 258 rupees, Lanka Sathosa said. Remble
-
-◼️
-
-[Data](articles/95563ffd.json)
-
-[Extended Data](ext_articles/95563ffd.ext.json)
-
----
-
-### The popularity of Donald Trump is up
-
-*2024-07-19 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198984) · `si`
-
-Donald Trump's popularity surged at the Republican National Federation conference, where he delivered the longest speech by a presidential candidate in decades. His address included remarks on surviving assassination attempts and honoring fallen supporters. The event concluded with Trump emphasizing his influence on America's future.
-
-🟩
-
-The Republican National Federation, representing former president's president, Donald Trump, was over today.
-
-On the last day of the conference, former President Trump's wife, Melania Trump joined the conference.
-
-Former President Trump addressed the conference for about 90 minutes and it is reported as the longest talk by a presidential candidate for about 50 years.
-
-The Trump had said that he was able to survive the assassination efforts as he had the support of God.
-
-Trump acted even the uniform of his supporters who died in a shot dead.
-
-Like US media Tuer Carlson, resident Athletic Hulk Hogan, addressed the last day of the conference.
-
-Former US President finished the convention, confirming the future of the United States under its control.
-
-◼️
-
-[Data](articles/7051abed.json)
-
-[Extended Data](ext_articles/7051abed.ext.json)
-
----
-
-### Sri Lanka warns of bringing back price controls amid sticky prices ahead of polls
-
-*2024-07-19 14:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-warns-of-bringing-back-price-controls-amid-sticky-prices-ahead-of-polls-172889/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government will be compelled to bring back price controls on some essential commodities as most traders have failed to slash their prices in line with the government’s cost reduction of fuel, energy, gas, and transport, Trade Minister Nalin Fernando said.
-
-The plan is now considered days after the island nation slashed the electricity cost by an average of 22.5 percent while gradually reducing the prices of cooking gas and fuel in the last two consecutive months.
-
-Despite the price reductions, the cost of essential foods has still been the same as when the prices of fuel, gas, electricity, and transport were at their peak, consumers say.
-
-President Ranil Wickremesinghe’s government is in the process of reducing the prices of energy sources to slash overall cost of living.
-
-The move comes ahead of a presidential poll possibly in early October which the island nation’s Election Commission is expected to declare next week.
-
-...
-
-[Data](articles/eb7d9bf3.json)
-
-[Extended Data](ext_articles/eb7d9bf3.ext.json)
 
 ---

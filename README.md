@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 16:07:47**
+As of **2024-07-20 16:20:15**
 
 ## Newspaper Stats
 
-*Scraped **36,268** Articles*
+*Scraped **36,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,270
 adaderanalk | 4,192
-tamilmirrorlk | 4,411
+tamilmirrorlk | 4,412
 dailymirrorlk | 4,733
 virakesarilk | 5,675
 adaderanasinhalalk | 6,072
@@ -26,49 +26,79 @@ adaderanasinhalalk | 6,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,265 (100.0%) of 36,268 articles have been extended.
+36,268 (100.0%) of 36,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### මුහුදු ගිය ධීවර යාත්‍රා 2ක් අතුරුදන්
+### அலி சப்ரி எம்.பிக்கு பிணை
+
+*2024-07-20 15:46:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-சப்ரி-எம்-பிக்கு-பிணை/175-340714) · `ta`
+
+திறந்த பிடியாணை பிறப்பிக்கப்பட்ட புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர் திரு.அலி சப்ரி ரஹீமை 2000 ரூபா பிணையில் விடுவிக்க உத்தரவிடப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/701d2471.json)
+
+---
+
+### Two fishing boats missing in sea
 
 *2024-07-20 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199017) · `si`
 
-යාපනය සහ හම්බන්තොට ධීවර වරායන්වල සිට මුහුදු ගිය ධීවරයින් 6 දෙනෙකු රැගත් යාත්‍රා දෙකක් අතුරුදන් වී ඇති බව ධීවර දෙපාර්තමේන්තුව පවසයි.
+Two fishing boats with eight fishermen onboard have gone missing from harbors in Jaffna and Hambantota. The director general of fisheries, Susantha Kahawatte, confirmed the disappearance of the vessels which set sail on July 7th. Search efforts involving various parties, including the navy, are underway to locate the missing fishermen.
 
-පසුගිය 7 වනදා ධීවර කටයුතු සඳහා පිටත්ව ගිය යාත්‍රා දෙකක් එලෙස අතුරුදන්ව ඇති බවට තොරතුරු ලැබී ඇති බව ධීවර අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා පැවසීය.
+🟩
 
-යාපනය, පොයින්ට් පේදුරු ධීවර වරායෙන් පිටත්ව ගිය බහුදින ධීවර යාත්‍රාවේ ධීවරයින් සිව්දෙනෙකු සිට ඇති බව වාර්තා වෙයි.
+The Fisheries Department says two fishermen carrying six fishermen have disappeared from Jaffna and Hambantota Fisheries Harbor.
 
-හම්බන්තොට ධීවර වරායෙන් පිටත්ව ගිය එක්දින ධීවර යාත්‍රාවේ  ධිවරයින් දෙදෙනෙකු සිට ඇති බව ධීවර අධ්‍යක්ෂ ජනරාල්වරයා සඳහන් කළේය.
+The Fisheries Director General Susantha Kahawatte said that two vessels departed for fishing on the 7th have been reported missing.
 
-අදාළ ධීවරයින් සම්බන්ධයෙන් මේ දක්වා කිසිදු තොරතුරක් වාර්තා වී නොමැති අතර ඔවුන් සෙවීම සඳහා නාවික හමුදාව ඇතුළු සියලු පාර්ශ්ව දැනුවත් කර ඇති බවද සුසන්ත කහවත්ත මහතා කියා සිටියේය.
+Four Indian fishermen have been present at the Thandudent fishing vessel leaving the Fisheries Harbor, Jaffna, Point Peter.
+
+Two widely fishermen who left the Hambantota Fisheries Harbor have been leaving the Fisheries Harbor.
+
+Mr. Susantha Kahawatte said that no information has been reported regarding the fishermen, and they have been informed of all parties including the Navy to search.
 
 ◼️
 
 [Data](articles/af85487f.json)
 
+[Extended Data](ext_articles/af85487f.ext.json)
+
 ---
 
-### දුම්රිය වර්ජනය කළොත් රැකියාව අතහැර ගියා සේ සලකනවා
+### If the train boycotts the rank, he has left the job
 
 *2024-07-20 15:32:22* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-කළොත්-රැකියාව-අතහැර-ගියා-සේ-සලකනවා/11-410876) · `si`
 
-දුම්රිය සේවකයින් තවදුරටත් වැඩ වර්ජනයක නියැලුණහොත් එම සේවකයින් සේවය අත්හැර ගියා සේ සලකා රැකියාවෙන් ඉවත් කරන බව ප්‍රවාහන සහ මහ මාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසිය.
+Minister Bandula Gunawardena warned employees against leaving their jobs, stating that continuous absences could lead to dismissal. He discussed the new Hatton Railway Station building and the impact of strikes on railway services. Highlighting the economic crisis, he mentioned issues related to debts and loans, including a loan from the Asian Development Bank for railway development. The minister emphasized the importance of everyone contributing despite challenges and promised to address issues at the Hatton CTB depot.
 
-අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ඒ බැව් කියා සිටියේ (20) දින හැටන් දුම්රිය ස්ථනය සතු භුමියේ නාගරික සංවර්ධන අධිකාරිය මගින් රු මිලියන 400 ක ප්‍රතිපාදන යටතේ ඉදි කරන ලද නව ගොඩනැගිල්ල දුම්රිය දෙපාර්තුමේන්තුවේ අදායම් උපයා ගැනිම සම්බන්ධයෙන් සොයා බැලිමට එක්වෙමිණි.
+🟩
 
-මෙහිදි වැඩිදුරටත් අදහස් දැක් වු අමාත්‍ය බන්දුල ගුණවර්ධන මහතා කියා සිටියේ
+Transport and Highways Minister Bandula Gunawardena said that if the employees continued to leave the service, they would be removed from work as they left the work.
 
-මීට පස්සේ දුම්රිය වර්ජන නැ, දුම්රිය සේවය අත්‍යවශ්‍ය සේවයක් බවට ගැසට් පත්‍රයක් නිකුත් කරලා තියෙන්නේ, දුම්රිය ක්ෂෙත්‍රය සම්බන්ධයෙන් යම් ගැටළුවක් පවතිනවා නම් එක සාකච්ඡා කල යුතුයි, එහෙම නැතුව ජනතාව පිඩාවට පත් වන ආකාරයෙන් වර්ජනය කලහොත් රැකියාව අත්හැර ගියා සේ සලකා රැකියාවෙන් ඉවත් කරනවා ලංකාවේ නිතියට ගරු නොකිරිම මත.
+Minister Bandula Gunawardena said that the new building was built by the Urban Development Authority of the Hatton Railway Station (20)
 
-රටේ නිතියට අපි සියළු දෙනා ගරු කරන්න අවශ්‍යයි, එහෙම නැතුව රාජ්‍ය සේවය කරන්න බැ.
+Speaking further Minister Bandula Gunawardena said
+
+Later, a gazette was issued to the railway strike and the railway service, not to discuss the railway station.on a.
+
+We all need to respect all of the country and do not want to work.
+
+Train Indigencies have to do something to do with a time, the Railway Department has been able to do so, with the existing economic crisis.
+
+Trains and rail pellets have taken things to the local and foreign borrowings and lending without paying the debt.
+
+At the end, the Asian Development Bank has been given a loan for ten thousand pills, which had stopped from Anuradhapura to Kandy from Anuradhapura to Kandy.
 
 ...
 
 [Data](articles/842d4bbd.json)
+
+[Extended Data](ext_articles/842d4bbd.ext.json)
 
 ---
 
@@ -852,7 +882,7 @@ ECONOMYNEXT – Sri Lanka’s President has said a proposed amendment to the cou
 
 “However, since he had passed away, the responsibility fell to lawyer Jayampathi Wickramaratne. He was unable to make the necessary revisions. This oversight is regrettable, and I apologize to the nation for it.”
 
-However President’s Counsel Wickramaratne has explained that the leaving out Section 83 (b) of the constitution was a not an “oversight” but it was a result of instructions received by the then administration to avoid making changes that required a referendum.
+President’s Counsel Wickramaratne has explained that the leaving out Section 83 (b) of the constitution was a not an “oversight” but it was a result of instructions received from the then administration to avoid making changes that required a referendum.
 
 ...
 
@@ -956,21 +986,27 @@ They said his announcement was delayed as he had to make a final resolution on s
 
 ---
 
-### ක්‍රිකට් නායකයා ඝාතනයට යොදාගත් ගිනි අවිය සමග කාන්තාවක් ඇතුළු තිදෙනෙක් අල්ලයි
+### Three and three others arrested with firearm of cricket leader
 
 *2024-07-20 09:28:32* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-නායකයා-ඝාතනයට-යොදාගත්-ගිනි-අවිය-සමග-කාන්තාවක්-ඇතුළු-තිදෙනෙක්-අල්ලයි/11-410874) · `si`
 
-අම්බලන්ගොඩ  කන්දේ මාවත ප්‍රදේශයේ පදිංචිව සිටි ප්‍රවීන ක්‍රිකට් ක්‍රීඩක හිනිදුමගේ ධම්මික නිරෝෂන් නොහොත් ජොන්ටි වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ බව කියන කාන්තාවක ඇතුළු තවත් දෙදෙනෙකු සැකපිට අත්අඩංගුවට ගෙන එම වෙඩි තැබීමට යොදාගත් බව කියන බෝර 12 ගිනි අවියද සොයාගත් බව අම්බලන්ගොඩ පොලීසිය  කියයි.
+Four individuals, including a woman, were arrested in connection with the shooting death of a cricket leader. A 12 bore firearm was recovered from a graveyard in Ambalangoda, where the incident occurred. The suspects, aged 48 and 37, both residents of Kosgoda, allegedly used this weapon in the crime. Police also discovered that the suspect's bank account received funds two months prior to the murder.
 
-ඉකුත් 16 දා රාත්‍රියේ මෙම ඝාතනය සිදුවූ අතර ඊට පසුදාම මේ ඝාතනයට සෘජුවම සම්බන්ධයක් ඇති බවට සැකපිට අත්අඩංගුවට ගත් රන්දොඹේ පදිංචි 48 හැවිරිදි පුද්ගලයෙකුගෙන් හෙළිවූ කරුණු අනුව අඩංගුවට ගෙන ඇත්තේ ගාල්ල කලේගාන පදිංචි 37 හැවිරිදි පුද්ගලයෙකු හා කොස්ගොඩ පදිංචි 35 හැවිරිදි කාන්තාවකි.
+🟩
 
-ගාල්ලේ පුද්ගලයාගෙන් ප්‍රශ්න කිරීමේදි හෙලිවූ කරුණු අනුව මෙම ඝාතනයට යොදාගෙන තිබූ බව කියන බෝර 12 වර්ගයේ තුවක්කුව අම්බලන්ගොඩ රන්දොඹේ ප්‍රදේශයේ සොහොන් බිමක කැළෑවක තිබී සොයාගත් බවද පොලීසිය කියයි.
+The 12 bore firearm including a woman who was resident of the shooting of the shooting of Hintele, Ambalangoda, a woman who was resident of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting was reported.
 
-මෙම ඝාතනයට ගාල්ලේ සැකකරුට සහාය දී අතැයි කියන කොස්ගොඩ සැකකාරිගේ බැංකු ගිනුමකට අවස්ථා දෙකකදී  විදේශ රටකින් මුදල් බැරවී ඇතැයිද පොලීසිය පැවසීය.
+The murder was held on the night of the incident, a 48-year-old resident of Kosgoda, a 37-year-old resident of Kosgoda.
+
+According to the police, the 12 bore gun was found in a graveyard, Ambalangoda, a 12-member gun, which had been used to the murder in question.
+
+The police said that the bank account that has been supporting the suspect in the murder, the bank's account has been credited with a bank account at two months.
 
 ◼️
 
 [Data](articles/55067040.json)
+
+[Extended Data](ext_articles/55067040.ext.json)
 
 ---
 
@@ -2335,27 +2371,5 @@ They should also be given concessionary and privileges due to economic policies 
 [Data](articles/6a7a52aa.json)
 
 [Extended Data](ext_articles/6a7a52aa.ext.json)
-
----
-
-### Adivale Festival of Sri Kadirvelauda Swamy Devasthanam
-
-*2024-07-19 19:30:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீ-கதிர்வேலாயுத-சுவாமி-தேவஸ்தானத்தின்-ஆடிவேல்-விழா-தேர்-பவனி/175-340684) · `ta`
-
-The Adivale Festival at Sri Kadirvelalayuda Swamy Devasthanam in Colombo, attended by Prime Minister Dinesh Gunawardena and other dignitaries including Ministers, MPs, and the Indian High Commissioner, celebrated its significance with a pooja ceremony.
-
-🟩
-
-The Adivale Festival of Sri Kadirvelalayuda Swamy Devasthanam, Colombo, was held today (2024.07.19).
-
-Prime Minister Dinesh Gunawardena attended the pooja in front of the Chariot House.
-
-Minister Jeevan Thondaman, Members of Parliament AHM. Fouzi, Yatamini Gunawardena, Indian High Commissioner Santos Ja, Prime Minister Secretary Anura Dissanayake and Hindu devotees were also present at the event.. Remble
-
-◼️
-
-[Data](articles/859a3a85.json)
-
-[Extended Data](ext_articles/859a3a85.ext.json)
 
 ---

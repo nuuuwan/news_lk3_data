@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 07:25:12**
+As of **2024-07-20 07:47:54**
 
 ## Newspaper Stats
 
-*Scraped **36,215** Articles*
+*Scraped **36,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,74 @@ economynextcom | 2,165
 dailyftlk | 2,314
 adalk | 3,267
 adaderanalk | 4,178
-tamilmirrorlk | 4,398
+tamilmirrorlk | 4,399
 dailymirrorlk | 4,733
 virakesarilk | 5,667
-adaderanasinhalalk | 6,058
+adaderanasinhalalk | 6,059
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,214 (100.0%) of 36,215 articles have been extended.
+36,215 (100.0%) of 36,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### ඇසළ පුර පසළොස්වක පොහොය අදයි
+
+*2024-07-20 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199004) · `si`
+
+බෞද්ධ ඉතිහාසයේ වැදගත් සිදුවීම් රැසක් සිදුවූ දිනයක් ලෙස ඇසළ පොහොය සැලකේ.
+
+බෝ සතාණන් වහන්සේ පස්මහ බැලුම් බැලීමෙන් අනතුරුව මිනිස් ලොව ඉපදීම සඳහා මහාමායා කුස පිළිසිඳ ගත්තේ අද වැනි ඇසළ පොහොය දිනයක බව බෞද්ධ ඉතිහාසයේ සඳහන්ය.
+
+සිදුහත් බෝ සතාණන් වහන්සේ ගිහිගෙය කලකිරී මහා අභිණිෂ්ක්‍රමණය කිරීම සහ රාහුල කුමරුගේ උපත සිදුවූයේ ද අද වැනි ඇසළ පොහොය දිනකය.
+
+බුදුරජාණන් වහන්සේගේ ප්‍රථම ධර්ම දේශනාව දේශනා කරන ලද්දේ ද ඇසල පුන් පොහෝ දිනක වන අතර තව්තිසා දෙව් ලොවට වැඩම කළ බුදුරජාණන් වහන්සේ මව්ට උපස්ථාන කිරීමේ ආදර්ශය පෙන්වා දෙමින් අභිධර්ම දේශනා කිරීම සිදුකරනු ලැබුයේ ද අද වැනි පොහොය දිනක බව බෞද්ධ ඉතිහාසයේ සඳහන් වේ.
+
+ඇසළ පුර පසළොස්වක පොහොය දිනය මෙරට බෞද්ධ ඉතිහාසයේ ද වැදගත් පොහොය දිනයක් ලෙස සැලකේ.
+
+අරිට්ඨ කුමරු ඇතුළු 50 දෙනෙකු පැවිදි උපසම්පදාව ලැබුවේ ඇසළ පුරපසළොස්වක පොහොය දිනයක වන අතර දන්ත කුමරු සහ හේමමාලා කුමරිය දන්ත ධාතූන් වහන්සේ ලක්දිවට වැඩම කරවූයේ ද අද වැනි පොහොය දිනයක බව සඳහන්ය.
+
+විහාරස්ථානවල වැඩවසන භික්ෂූන් වහන්සේලා වස්වැසීම ආරම්භ කරනු ලබන්නේ ද ඇසළ පුරපසළොස්වක පොහොය දිනයේ සිට වීම විශේෂත්වකි.
+
+...
+
+[Data](articles/576cacdf.json)
+
+---
+
+### A red announcement from the weather
 
 *2024-07-20 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199003) · `si`
 
-තද සුළං සහ මුහුදු රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+A red weather alert warns of strong winds and rough seas in the Arabian Sea and Bay of Bengal, crucial for the fishing and naval communities. Winds of 7-8 and gusts up to 193 km/h are expected in the Bay of Lights area due to an active southwest monsoon. The Department of Meteorology advises immediate safety measures, especially for those at sea. Additionally, strong winds are forecasted across various regions, including the Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya, Galle, and Matara districts, posing risks to the central hills' western slopes and the North, North Central, and North Western provinces.
 
-අරාබි මුහුද ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාව ගේ විශේෂ අවධානය සඳහා මෙම නිවේදනය නිකුත් කර ඇත.
+🟩
 
-සක්‍රීය නිරිත දිග මෝසම් කාලගුණය නිසා මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 10ත් 20ත් සහ නැගෙනහිර දේශාංශ 55 සහ 74 ත් අතර මුහුදු ප්‍රදේශවල ) සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 11ත් 19ත් සහ නැගෙනහිර දේශාංශ 83 සහ 93 ත් අතර මුහුදු ප්‍රදේශවල )ඉතා ද සුළං ( පැ.කි.මී. 70-80) පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව දැනුම් දී තිබේ.
+A warning of strong winds and sea floor have issued a red announcement.
 
-මෙම මුහුදු ප්‍රදේශ වල ධීවර කටයුතුවල යෙදී සිටින පිරිස වහාම ගොඩ බිමට ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙසට දන්වා ඇත.
+The announcement has been issued for the special focus of the multi-day fishing and naval community who act in the Arabian Sea and Bay of Bengal.
 
-එමෙන්ම කාලගුණ විද්‍යා දෙපාර්තමේතුව විසින් ඉදිරයේ දී නිකුත් කරන නිවේදන සම්බන්ධයෙන් අවධානයෙන් සිටින ලෙසට ධීවර සහ නාවික ප්‍ජාවට දන්වා තිබේ.
+Winds (7 and 193 and 193) in the Bay of Lights of Lights (73 and 193 East) due to active southwest monsoon weather..K. 70-80) The sea areas may exist and have been informed that the sea can be very rough.
 
-මේ අතර, සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයින හරහා දැනට පවතින සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The crowd in the sea areas has immediately asked to enter a safe place immediately.
+
+The Department of Meteorology has informed the fisheries and the Indian Pitra.
+
+Meanwhile, the existing winds will be expected through the island due to the active southwest monsoon.
+
+There are several thin closures in the Western and Sabaragamuwa Provincial, Kandy, Nuwara Eliya, Galle and Matara districts.
+
+At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. (50-60) can cause strong winds.
 
 ...
 
 [Data](articles/9962fcbe.json)
+
+[Extended Data](ext_articles/9962fcbe.ext.json)
 
 ---
 
@@ -397,6 +431,24 @@ This landmark event, held at the Royal Colombo Golf Club, united blockchain enth
 ---
 
 ### 2024-07-19 (Friday)
+
+### விசேட தேவையுடையோர் வாக்களிக்க சந்தர்ப்பம்
+
+*2024-07-19 23:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோர்-வாக்களிக்க-சந்தர்ப்பம்/175-340702) · `ta`
+
+ஜனாதிபதித் தேர்தலில் முதன்முறையாக விழிப்புலனற்றோர் மற்றும் செவிப்புலன் குறைபாடுடையவர்கள் வாக்களிக்க சந்தர்ப்பம் ஏற்படுத்திக் கொடுக்கப்படவுள்ளது.
+
+பார்வையற்றோர் பிரெய்ல் முறையில் வாக்குச் சீட்டின் அடையாளங்களை அடையாளம் காணும் விதத்தில் விசேட முறைமை நடைமுறைப்படுத்தப்படும் என தேசிய தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+
+இதன் முன்னோடித் திட்டங்கள் கடந்த சில நாட்களாக பல்வேறு பகுதிகளில் முன்னெடுக்கப்பட்டதுடன் அதன் வெற்றிகரமான பெறுபேறுகளின் அடிப்படையில் இம்முறை ஜனாதிபதித் தேர்தலுக்கும் அதே வசதிகள் வழங்கப்படவுள்ளன.
+
+வலது குறைந்தோர் வாக்களிப்பு நிலையங்களுக்குச் செல்வதற்கும் விசேட வசதிகள் ஏற்படுத்தப்படும் என்று தேசிய தேர்தல்கள் ஆணைக்குழுவின் தலைவர் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/4545588e.json)
+
+---
 
 ### The weather with the winds will last
 
@@ -2273,57 +2325,5 @@ IHP explained in a statement that favourability estimates for each month are bas
 [Data](articles/eb618f1f.json)
 
 [Extended Data](ext_articles/eb618f1f.ext.json)
-
----
-
-### Massive Information Technology Disorder
-
-*2024-07-19 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188846) · `ta`
-
-International IT disruptions hit banks, media, and airlines hard, especially in Australia, leading to service suspensions and crises. The cause remains unclear, but Microsoft's operating systems were implicated. Investigations into Microsoft 365 services are ongoing, with most services returning to normal after a few hours. No cyber attack indications from Australia's cybersecurity agency.
-
-🟩
-
-Banks and media outlets have been affected internationally due to massive information technology.
-
-Australia has been badly affected, airline services have been suspended, services in commercials have been affected, and media companies are facing crisis as computers have lost action.
-
-Although the cause of the loss is not properly known, many of the victims said that this was the reason for Microsoft's operating systems.
-
-We are investigating the problems of using many services processors of Microsoft 365, the company official said.
-
-Most of the services have returned to normal a few hours ago, the company's spokesman said.
-
-The Australian Interior Ministry spokesman has said that there is no indication of cyber attacks in the country's cyber security agency, the country's cyber security agency.
-
-◼️
-
-[Data](articles/3c901962.json)
-
-[Extended Data](ext_articles/3c901962.ext.json)
-
----
-
-### Car umbrella on the main road in Colombo - Ratnapura
-
-*2024-07-19 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188840) · `ta`
-
-A car crash occurred near the Busalla area of the Kuruwita Police Division on the Colombo-Ratnapura road. The driver, returning from a wedding in Kuruwitta, collided with a road obstacle. Fortunately, all passengers, including the driver, were wearing seat belts and escaped without injury.
-
-🟩
-
-A car crashed into the Busalla area of ​​the Kuruwita Police Division on the Colombo -Ratnapura main road today (19), police said.
-
-The driver of the car crashed into the pile of the road.
-
-The couple who went to a wedding ceremony at a hotel in Kuruwitta, Kurunegala, Kurunegala, have crashed, police said.
-
-In addition, two people in the vehicle were wearing a seat belt and there were no injuries in the accident, police said.
-
-◼️
-
-[Data](articles/e3c943d8.json)
-
-[Extended Data](ext_articles/e3c943d8.ext.json)
 
 ---

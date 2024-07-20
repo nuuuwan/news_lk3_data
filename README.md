@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 22:08:16**
+As of **2024-07-20 22:20:13**
 
 ## Newspaper Stats
 
-*Scraped **36,295** Articles*
+*Scraped **36,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 3,271
 adaderanalk | 4,197
 tamilmirrorlk | 4,420
 dailymirrorlk | 4,733
-virakesarilk | 5,677
-adaderanasinhalalk | 6,082
+virakesarilk | 5,678
+adaderanasinhalalk | 6,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,294 (100.0%) of 36,295 articles have been extended.
+36,295 (100.0%) of 36,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### ප්‍රචණ්ඩත්වය නතර කිරීමට බංග්ලාදේශ රජය ගත් තීරණ
+
+*2024-07-20 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199030) · `si`
+
+බංග්ලාදේශය තුළ මේ වනවිට සියයකට වැඩි පිරිසක් ජීවිතක්ෂයට පත්ව ඇති අතර සිසු විරෝධතා සමනය කිරීම සඳහා අද රට පුරා ඇඳිරිනීතිය පනවනු ලැබීය.
+
+මෙවන් පසුබිමක බංග්ලාදේශයේ වත්මන් තත්ත්වය පිළිබඳව එරට සිටින ශ්‍රී ලාංකිකයෙකු වන විරාජ් ෆර්ඩිනෑන්ඩ්ස් දුරකථනය ඔස්සේ අද දෙරණට තොරතුරු වාර්තා කළේය.
+
+"අපිට සද්දේ ඇහුණා වෙඩි සද්දේ... නැතින් තැනින්. හවස 06 පහු වෙද්දි කෙලින්ම පාරට බහිනවා හැමෝම පොලු අරගෙන මිනිස්සු දෙතුන්සීයක් එකතුවෙලා පාරට බහිනවා අපි දකිනවා. අපිට දැණුනා අත්තටම ඇඳිරිනීතිය වැටෙයි කියලා. මොකද අපේ අර ලංකාවේ විදිහටම... ඒ විදිහටම මේක යනවා කියලා අපිට දැනුණු හින්දා. අපි වේලාසනින් සැපයුම් ඔක්කොම ටික ගෙනාවා."
+
+බංග්ලාදේශ විශ්වවිද්‍යාල සිසුන් රජයට එරෙහි විරෝධතා ආරම්භ කළේ මීට සති කිහිපයකට පෙරාතුවය.
+
+විශ්වවිද්‍යාල සිසුන් ආරම්භ කළ විරෝධතාවලට මේ වනවිට එරට තරුණ තරුණියන් ද එක්වී තිබේ.
+
+විරෝධතා මේ වන විට ප්‍රචණ්ඩ ස්වරූපයක් ගෙන ඇත්තේ, ඒවා පාලනය කිරීමට රජය දැඩි මර්දනකාරී පිළිවෙතක් අනුගමනය කිරීමත් සමගය.
+
+පාලක අවාමි ලීගයට සම්බන්ධ තරුණ කණ්ඩායම් ද විරෝධතාවේ නිරත සිසුන් ඉලක්ක කර ප්‍රහාර එල්ල කළේය.
+
+...
+
+[Data](articles/ccba7799.json)
+
+---
 
 ### 19A controversy: Jayampathy Wickramaratne  responds to President’s accusation
 
@@ -45,6 +69,8 @@ In his statement, President’s Counsel Dr. Wickramaratne points out that the fo
 ...
 
 [Data](articles/12c5faab.json)
+
+[Extended Data](ext_articles/12c5faab.ext.json)
 
 ---
 
@@ -175,6 +201,28 @@ The Ministry said that about 3,000 Sri Lankan workers remain in Bangladesh and h
 [Data](articles/742b7dce.json)
 
 [Extended Data](ext_articles/742b7dce.ext.json)
+
+---
+
+### 22 ஆவது திருத்த சட்டம் தேவையா? - சுரேஷ் பிரேமச்சந்திரன்
+
+*2024-07-20 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188954) · `ta`
+
+ஜனாதிபதி தேர்தல் அறிவிப்புக்கள் வெளிவர உள்ள நிலையில் 22 ஆவது திருத்த சட்டம் தேவையா? இது தேர்தலை குழப்புவதற்கான ஏற்படா? எனும் சந்தேகம் தற்போது பலரிடம் ஏற்பட்டுள்ளதாக ஈ.பி.ஆர்.எல்.எப் கட்சியின் தலைவர் சுரேஷ் பிரேமச்சந்திரன் தெரிவித்துள்ளார்.
+
+யாழ். ஊடக அமையத்தில் இன்று சனிக்கிழமை (20) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+
+22ஆம் திருத்த சட்டத்தை கொண்டு வருவதற்கான வர்த்தமானி அறிவித்தல் வெளியாகியுள்ளது. இந்த சட்டத்தால் எந்த பாதிப்பும் இல்லை. ஆனால் ஜனாதிபதி தேர்தல் நடக்க இருக்கும் போது இந்த திருத்தம் தேவையா? எனும் கேள்வி எழுகிறது.
+
+இப்போது ஏன் அவரசப்பட்டு மாற்ற முனைகிறார்கள் என தேர்தலை குழப்பும் நடவடிக்கையாக இருக்கும் என சந்தேகிக்கிறோம்.
+
+உள்ளூராட்சி தேர்தலுக்கான வேட்பு மனு தாக்கல் செய்யப்பட்ட நிலையில், நாடு வக்குரோத்துக்கு போய் விட்டது என தேர்தலை கால வரையின்றி ஒத்தி வைத்துள்ளனர்.
+
+தேர்தல் இரத்து செய்யப்படவில்லை. அதனால் வேட்பு மனுக்கான காசு திருப்பி கொடுக்கவில்லை. சுயேட்சைக்காக போட்டியிட்ட வேட்பு மனு தாக்கல் செய்தவர்களுக்கு வேட்பு மனு காசு அதிகம். அவர்களின் காசு திருப்பி கொடுக்கவில்லை.
+
+...
+
+[Data](articles/91da5458.json)
 
 ---
 
@@ -692,29 +740,9 @@ It is reported that buses and train services have also been stopped until the sc
 
 ---
 
-### Trump speaks to Zelensky, pledges to ‘end the war’ with Russia
-
-*2024-07-20 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100650/trump-speaks-to-zelensky-pledges-to-end-the-war-with-russia) · `en`
-
-US Republican presidential candidate Donald Trump said Friday he had spoken by telephone with Ukraine leader Volodymyr Zelensky, and pledged to end the European country’s war with Russia.
-
-“I appreciate President Zelensky for reaching out because I, as your next President of the United States, will bring peace to the world and end the war that has cost so many lives and devastated countless innocent families,” Trump said in a post on his Truth Social platform.
-
-“Both sides will be able to come together and negotiate a deal that ends the violence and paves a path forward to prosperity.”
-
-The United States has provided tens of billions of dollars in military assistance for Kyiv since Russia launched its full-scale invasion of Ukraine in February 2022 -- though a Trump victory in the November election would put Washington’s continued support into question.
-
-...
-
-[Data](articles/9d371c55.json)
-
-[Extended Data](ext_articles/9d371c55.ext.json)
-
----
-
 ### It is worried that the president blames me for the confusion in the constitution- the 19th Amendment was prepared in accordance with Sirisena's election promise not to go to the universities- Jayampathi Wickremaratne
 
-*2024-07-20 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188944) · `ta`
+*2024-07-20 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/188944) · `ta`
 
 Dr. Jayampathi Wickremaratne expresses concern over confusion regarding the president's term limit, citing the 19th Amendment as aligned with Sirisena's election promise to avoid university visits. He mentions the need for a referendum for constitutional changes, including reducing the presidential and parliamentary terms from six to five years, as outlined in Article 83. Despite discussions and approvals, the bill faced challenges due to the Attorney General's stance, leading to amendments before its presentation to Parliament. Wickremaratne criticizes President Wickremesinghe for blaming him for not reducing the term limits, emphasizing the amendment's intention to avoid a referendum post-Sirisena's pledge.
 
@@ -739,6 +767,26 @@ He said that although the president and parliamentary term were proposed to be r
 [Data](articles/db168bab.json)
 
 [Extended Data](ext_articles/db168bab.ext.json)
+
+---
+
+### Trump speaks to Zelensky, pledges to ‘end the war’ with Russia
+
+*2024-07-20 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100650/trump-speaks-to-zelensky-pledges-to-end-the-war-with-russia) · `en`
+
+US Republican presidential candidate Donald Trump said Friday he had spoken by telephone with Ukraine leader Volodymyr Zelensky, and pledged to end the European country’s war with Russia.
+
+“I appreciate President Zelensky for reaching out because I, as your next President of the United States, will bring peace to the world and end the war that has cost so many lives and devastated countless innocent families,” Trump said in a post on his Truth Social platform.
+
+“Both sides will be able to come together and negotiate a deal that ends the violence and paves a path forward to prosperity.”
+
+The United States has provided tens of billions of dollars in military assistance for Kyiv since Russia launched its full-scale invasion of Ukraine in February 2022 -- though a Trump victory in the November election would put Washington’s continued support into question.
+
+...
+
+[Data](articles/9d371c55.json)
+
+[Extended Data](ext_articles/9d371c55.ext.json)
 
 ---
 
@@ -2321,43 +2369,5 @@ In the other areas of the country, the interim winds may blow at speeds of 30 to
 [Data](articles/3d17f57b.json)
 
 [Extended Data](ext_articles/3d17f57b.ext.json)
-
----
-
-### Bangladesh Prison Fire: Prisoners escape
-
-*2024-07-19 23:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷ்-சிறையில்-தீ-கைதிகள்-தப்பி-ஓட்டம்/50-340700) · `ta`
-
-In Bangladesh, a prison fire caused by inmates led to chaos, resulting in 39 student deaths and over 100 injuries. Protesters were also targeted in public areas, prisons, and buildings. The incident occurred in the Nursingti district, where more than 100 prisoners escaped.
-
-🟩
-
-39 students have died in the violence.. More than one hundred people, including the police, were injured.
-
-Moreover, the protesters were set on fire in public places, prisons and buildings.
-
-Prisoners set fire to a prison in Nursingti district in the central part of Bangladesh. More than 100 prisoners have fled from prison using this. (A)
-
-◼️
-
-[Data](articles/a20d1e42.json)
-
-[Extended Data](ext_articles/a20d1e42.ext.json)
-
----
-
-### A Machiavellian exercise?
-
-*2024-07-19 23:25:47* · [`dailyftlk`](https://www.ft.lk/columns/A-Machiavellian-exercise/4-764497) · `en`
-
-Why is the Government now, nine years later, without any issue having been raised by the Supreme Court or by any other court or tribunal, or in Parliament, or in any other forum, seeking to amend the Constitution for the sole purpose of replacing the words “six years” in Article 83 with the words “five years”?
-
-In the 16th century, the Florentine diplomat Niccolo Machiavelli, in his book “The Prince”, outlined ruthless ways to achieve and retain political power. The events of the past two weeks lead one to wonder whether attempts are now being made to give practical effect to some of those techniques in this country.
-
-...
-
-[Data](articles/24408d5b.json)
-
-[Extended Data](ext_articles/24408d5b.ext.json)
 
 ---

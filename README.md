@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 11:06:20**
+As of **2024-07-20 11:20:25**
 
 ## Newspaper Stats
 
-*Scraped **36,231** Articles*
+*Scraped **36,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,183
 tamilmirrorlk | 4,404
 dailymirrorlk | 4,733
 virakesarilk | 5,667
-adaderanasinhalalk | 6,062
+adaderanasinhalalk | 6,063
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,231 (100.0%) of 36,231 articles have been extended.
+36,231 (100.0%) of 36,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### ත්‍රිරෝද රථ වෘත්තිය පවත්වාගෙන යන්න රීති තිබිය යුතුයි - ජනපති
+
+*2024-07-20 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199008) · `si`
+
+ත්‍රිරෝද රථ වෘත්තිය පවත්වාගෙන යාමේදී වෘත්තිය රීති තිබිය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+වෘත්තිය ත්‍රිරෝද  රථ හා ප්‍රවාහන සංගම් නියෝජිතයින් සමග ඊයේ (19) පැවති හමුවේදී ඔහු මේ අදහස් පළ කළේය.
+
+එහිදී වෘත්තිය ත්‍රිරෝද රථ රියැදුරන්ගේ වෘත්තිය දියුණුව පිළිබඳ යෝජනාවලියක් ද ජනපතිට භාරදී තිබේ.
+
+...
+
+[Data](articles/631a5155.json)
+
+---
 
 ### Murder cricketer;The main suspect arrested
 
@@ -2343,25 +2359,5 @@ This amendment will enable the paragraph (b) of Article 83 of the Constitution p
 [Data](articles/ba38bcc9.json)
 
 [Extended Data](ext_articles/ba38bcc9.ext.json)
-
----
-
-### 22nd Amendment gazetted by order of President
-
-*2024-07-19 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100625/22nd-amendment-gazetted-by-order-of-president) · `en`
-
-The 22nd Amendment to the Constitution has been published via a Gazette notification by order of President Ranil Wickremesinghe.
-
-On Thursday (18), Minister of Justice Wijeyadasa Rajapakshe had instructed his ministry’s secretary not to publish the Gazette notification on the 22nd Amendment to the Constitution until the Presidential Election is held.
-
-However, the Justice Minister had claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
-
-This amendment will enable the paragraph (b) of Article 83 of the Constitution pertaining to the President’s term to be amended by replacing the words “exceeding six years” with the words “exceeding five years” stated in paragraph (b) of Article 83 of the Constitution.
-
-◼️
-
-[Data](articles/d66908f8.json)
-
-[Extended Data](ext_articles/d66908f8.ext.json)
 
 ---

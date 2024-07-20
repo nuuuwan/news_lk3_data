@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 21:05:12**
+As of **2024-07-20 21:20:12**
 
 ## Newspaper Stats
 
-*Scraped **36,287** Articles*
+*Scraped **36,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,270
 adaderanalk | 4,196
-tamilmirrorlk | 4,416
+tamilmirrorlk | 4,418
 dailymirrorlk | 4,733
 virakesarilk | 5,677
 adaderanasinhalalk | 6,080
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,080
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,287 (100.0%) of 36,287 articles have been extended.
+36,287 (100.0%) of 36,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### 1700ரூபாய் கிடைக்கும் வரை ரூ.5000 வழங்க யோசனை
+
+*2024-07-20 20:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1700ரூபாய்-கிடைக்கும்-வரை-ரூ-5000-வழங்க-யோசனை/175-340718) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு 1700 ரூபாய் சம்பள நீதிமன்ற தலையீட்டால் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள நிலையில், 1700 ரூபாய் சம்பளம் வழங்கும் வரை தற்காலிக தீர்வாக இடைக்கால கொடுப்பனவாக மாதாந்தம் 5000 ரூபாவிற்கு அதிக தொகையை அரசாங்கம் வழங்க வேண்டுமென இலங்கை தொழிலாளர் காங்கிரஸின் தலைவர் செந்தில் தொண்டமான் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கோரிக்கை முன்வைத்துள்ளார்.
+
+◼️
+
+[Data](articles/42421aad.json)
+
+---
 
 ### A group of Sri Lankan students in Bangladesh to visit the island today
 
@@ -203,6 +215,24 @@ It is reported that the next step is to take place on all other issues, includin
 [Data](articles/350465f4.json)
 
 [Extended Data](ext_articles/350465f4.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் தமிழ் வேட்பாளர்; திங்கள் கைச்சாத்து
+
+*2024-07-20 18:14:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-தமிழ்-வேட்பாளர்-திங்கள்-கைச்சாத்து/175-340717) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழர் தரப்பில் இருந்து ஒரு பொது வேட்பாளரை நிறுத்துவதற்கான உடன்படிக்கையொன்று எதிர்வரும் திங்கட்கிழமை கைச்சாத்திடபட உள்ளது.
+
+தமிழ்சிவில் சமூகத்திற்கும் தமிழ்த் தேசிய அரசியல் கட்சிகளுக்கு இடையிலும் இந்த உடன்படிக்கை யாழில் வைத்து கைச்சாத்திடப்பட உள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கடந்த காலங்களில் நடைபெற்ற ஜனாதிபதி தேர்தல்களில் தமிழ் மக்கள் எவருக்கு வாக்களித்தும் எந்தவித பயனும் இல்லை என தமிழ்க் கட்சிகளும் சிவில் சமூகத்தினரும் பல்வேறு குற்றச்சாட்டுக்களை முன்வைத்துள்ளனர்.
+
+இதனால் தமிழ் மக்களின் நிலைமையையும் தமிழ் மக்களின் பிரச்சனைகள் தேவைகளை வெளிப்படுத்தும் வகையில் எதிர்வரும் ஜனாதிபதி தேர்தலில் எந்தவொரு சிங்கள வேட்பாளருக்கும் ஆதரவை வழங்காது தமிழர் தரப்பில் இருந்து பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான நடவடிக்கைகள் அண்மைக் காலமாக சிவில் சமூகத்தினராலும் அரசியல் கட்சிகளாலும் தெடர்ச்சியாக முன்னெடுக்கப்பட்டு வந்தது.
+
+...
+
+[Data](articles/d3e12406.json)
 
 ---
 
@@ -2291,63 +2321,5 @@ In the struggle, the general secretary of the Tamil National People's Front and 
 [Data](articles/a2af981f.json)
 
 [Extended Data](ext_articles/a2af981f.ext.json)
-
----
-
-### Women's R20 Asian Cup: India beat Pakistan by 7 wickets
-
-*2024-07-19 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188899) · `ta`
-
-In the Women's R20 Asian Cup, India triumphed over Pakistan by 7 wickets in the second match of Group A at Dambulla International Cricket Stadium. Key contributors included Renuka Singh, Deepti Sharma, and Shreyanka Patil, along with bowlers Shabali Verma and Smrithi Mandana. Despite Pakistan's initial score of 108 runs, India responded strongly, losing just three wickets to reach 109 runs. Notable performances came from Chitra Amin, Duba Hasan, and Fatima Sana for Pakistan, and Shabali Verma and Smrithi Mandana for India, who shared a crucial partnership.
-
-🟩
-
-India won by 7 wickets in the 2nd Asian Cup of the Women's R20 Asia Cup for the A group held at the Dambulla International Cricket Stadium on Friday (19).
-
-Renuka Singh, Deepti Sharma and Shreyanka Patil and the skillful bowling of Shabali Verma and Smrithi Mandana have made India easier.
-
-Pakistan, who decided to bat first in the upting match, lost all the wickets in 19.2 overs and scored only 108 runs.
-
-Chitra Amin (25), Duba Hasan (22) and Fatima Sana (22) were more than 20 runs.
-
-Deepti Sharma took 3 wickets for 20 runs, Renuka Singh took 2 wickets for 14 runs, Shreyanka Bhatt 2 wickets for 14 runs and Pooja Vastrakar 2 wickets for 31 runs.
-
-In response to 109 runs, India lost 3 wickets in 14.1 overs and scored 109 runs.
-
-Shabali Verma scored 40 runs off 29 balls while Smrithi Mandana scored 45 off 31 balls.
-
-They both shared 85 runs off 57 balls and put the best Ramba to the best of India.
-
-◼️
-
-[Data](articles/99b5be08.json)
-
-[Extended Data](ext_articles/99b5be08.ext.json)
-
----
-
-### Reorganizing the loss of state institutions will be provided to the financial education and health of the country -the President
-
-*2024-07-19 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/188898) · `ta`
-
-President Ranil Wickremesinghe announced plans to reorganize state-run institutions to redirect funds towards education and health, emphasizing the importance of national resources and the need to eliminate unnecessary burdens on the government. He highlighted the potential savings from streamlining operations, such as freeing SriLankan Airlines from subsidies by the end of the year, and called for unity in facing economic challenges. The speech was delivered during the inauguration of Ruhunu University's new Health Science Faculty, underscoring the government's commitment to educational infrastructure and its role in national development.
-
-🟩
-
-President Ranil Wickremesinghe said that with the funds available to the country by reorganizing the loss of state -run state institutions, the future can provide more funds for education and health.
-
-The president stressed that you are the national resources of the country, not the state institutions that run at a loss, and that today many state agencies are operating without burden to the government and that the government expects to be free from the allowances for SriLankan airlines by the end of this year.
-
-President Ranil Wickremesinghe, who was present at the opening of the newly constructed Ruhunu University in Galle - Walahanduwa, said this at the opening of the new Health Science Faculty.
-
-The President, who had unveiled the name board and handed over the building of the Faculty of Science to the students, spoke with university staff after supervising the building complex.
-
-Ruhunu University Vice Chancellor Sujeewa Amarasena presented a souvenir to President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/50a17be5.json)
-
-[Extended Data](ext_articles/50a17be5.ext.json)
 
 ---

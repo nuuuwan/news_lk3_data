@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 15:54:16**
+As of **2024-07-20 16:07:47**
 
 ## Newspaper Stats
 
-*Scraped **36,265** Articles*
+*Scraped **36,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
-adalk | 3,268
+adalk | 3,270
 adaderanalk | 4,192
 tamilmirrorlk | 4,411
 dailymirrorlk | 4,733
 virakesarilk | 5,675
-adaderanasinhalalk | 6,071
+adaderanasinhalalk | 6,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,264 (100.0%) of 36,265 articles have been extended.
+36,265 (100.0%) of 36,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### මුහුදු ගිය ධීවර යාත්‍රා 2ක් අතුරුදන්
+
+*2024-07-20 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199017) · `si`
+
+යාපනය සහ හම්බන්තොට ධීවර වරායන්වල සිට මුහුදු ගිය ධීවරයින් 6 දෙනෙකු රැගත් යාත්‍රා දෙකක් අතුරුදන් වී ඇති බව ධීවර දෙපාර්තමේන්තුව පවසයි.
+
+පසුගිය 7 වනදා ධීවර කටයුතු සඳහා පිටත්ව ගිය යාත්‍රා දෙකක් එලෙස අතුරුදන්ව ඇති බවට තොරතුරු ලැබී ඇති බව ධීවර අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා පැවසීය.
+
+යාපනය, පොයින්ට් පේදුරු ධීවර වරායෙන් පිටත්ව ගිය බහුදින ධීවර යාත්‍රාවේ ධීවරයින් සිව්දෙනෙකු සිට ඇති බව වාර්තා වෙයි.
+
+හම්බන්තොට ධීවර වරායෙන් පිටත්ව ගිය එක්දින ධීවර යාත්‍රාවේ  ධිවරයින් දෙදෙනෙකු සිට ඇති බව ධීවර අධ්‍යක්ෂ ජනරාල්වරයා සඳහන් කළේය.
+
+අදාළ ධීවරයින් සම්බන්ධයෙන් මේ දක්වා කිසිදු තොරතුරක් වාර්තා වී නොමැති අතර ඔවුන් සෙවීම සඳහා නාවික හමුදාව ඇතුළු සියලු පාර්ශ්ව දැනුවත් කර ඇති බවද සුසන්ත කහවත්ත මහතා කියා සිටියේය.
+
+◼️
+
+[Data](articles/af85487f.json)
+
+---
+
+### දුම්රිය වර්ජනය කළොත් රැකියාව අතහැර ගියා සේ සලකනවා
+
+*2024-07-20 15:32:22* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-කළොත්-රැකියාව-අතහැර-ගියා-සේ-සලකනවා/11-410876) · `si`
+
+දුම්රිය සේවකයින් තවදුරටත් වැඩ වර්ජනයක නියැලුණහොත් එම සේවකයින් සේවය අත්හැර ගියා සේ සලකා රැකියාවෙන් ඉවත් කරන බව ප්‍රවාහන සහ මහ මාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පැවසිය.
+
+අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ඒ බැව් කියා සිටියේ (20) දින හැටන් දුම්රිය ස්ථනය සතු භුමියේ නාගරික සංවර්ධන අධිකාරිය මගින් රු මිලියන 400 ක ප්‍රතිපාදන යටතේ ඉදි කරන ලද නව ගොඩනැගිල්ල දුම්රිය දෙපාර්තුමේන්තුවේ අදායම් උපයා ගැනිම සම්බන්ධයෙන් සොයා බැලිමට එක්වෙමිණි.
+
+මෙහිදි වැඩිදුරටත් අදහස් දැක් වු අමාත්‍ය බන්දුල ගුණවර්ධන මහතා කියා සිටියේ
+
+මීට පස්සේ දුම්රිය වර්ජන නැ, දුම්රිය සේවය අත්‍යවශ්‍ය සේවයක් බවට ගැසට් පත්‍රයක් නිකුත් කරලා තියෙන්නේ, දුම්රිය ක්ෂෙත්‍රය සම්බන්ධයෙන් යම් ගැටළුවක් පවතිනවා නම් එක සාකච්ඡා කල යුතුයි, එහෙම නැතුව ජනතාව පිඩාවට පත් වන ආකාරයෙන් වර්ජනය කලහොත් රැකියාව අත්හැර ගියා සේ සලකා රැකියාවෙන් ඉවත් කරනවා ලංකාවේ නිතියට ගරු නොකිරිම මත.
+
+රටේ නිතියට අපි සියළු දෙනා ගරු කරන්න අවශ්‍යයි, එහෙම නැතුව රාජ්‍ය සේවය කරන්න බැ.
+
+...
+
+[Data](articles/842d4bbd.json)
+
+---
 
 ### Trump speaks to Zelensky, pledges to ‘end the war’ with Russia
 
@@ -47,6 +87,8 @@ The United States has provided tens of billions of dollars in military assistanc
 ...
 
 [Data](articles/9d371c55.json)
+
+[Extended Data](ext_articles/9d371c55.ext.json)
 
 ---
 
@@ -911,6 +953,24 @@ They said his announcement was delayed as he had to make a final resolution on s
 [Data](articles/0767295a.json)
 
 [Extended Data](ext_articles/0767295a.ext.json)
+
+---
+
+### ක්‍රිකට් නායකයා ඝාතනයට යොදාගත් ගිනි අවිය සමග කාන්තාවක් ඇතුළු තිදෙනෙක් අල්ලයි
+
+*2024-07-20 09:28:32* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-නායකයා-ඝාතනයට-යොදාගත්-ගිනි-අවිය-සමග-කාන්තාවක්-ඇතුළු-තිදෙනෙක්-අල්ලයි/11-410874) · `si`
+
+අම්බලන්ගොඩ  කන්දේ මාවත ප්‍රදේශයේ පදිංචිව සිටි ප්‍රවීන ක්‍රිකට් ක්‍රීඩක හිනිදුමගේ ධම්මික නිරෝෂන් නොහොත් ජොන්ටි වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ බව කියන කාන්තාවක ඇතුළු තවත් දෙදෙනෙකු සැකපිට අත්අඩංගුවට ගෙන එම වෙඩි තැබීමට යොදාගත් බව කියන බෝර 12 ගිනි අවියද සොයාගත් බව අම්බලන්ගොඩ පොලීසිය  කියයි.
+
+ඉකුත් 16 දා රාත්‍රියේ මෙම ඝාතනය සිදුවූ අතර ඊට පසුදාම මේ ඝාතනයට සෘජුවම සම්බන්ධයක් ඇති බවට සැකපිට අත්අඩංගුවට ගත් රන්දොඹේ පදිංචි 48 හැවිරිදි පුද්ගලයෙකුගෙන් හෙළිවූ කරුණු අනුව අඩංගුවට ගෙන ඇත්තේ ගාල්ල කලේගාන පදිංචි 37 හැවිරිදි පුද්ගලයෙකු හා කොස්ගොඩ පදිංචි 35 හැවිරිදි කාන්තාවකි.
+
+ගාල්ලේ පුද්ගලයාගෙන් ප්‍රශ්න කිරීමේදි හෙලිවූ කරුණු අනුව මෙම ඝාතනයට යොදාගෙන තිබූ බව කියන බෝර 12 වර්ගයේ තුවක්කුව අම්බලන්ගොඩ රන්දොඹේ ප්‍රදේශයේ සොහොන් බිමක කැළෑවක තිබී සොයාගත් බවද පොලීසිය කියයි.
+
+මෙම ඝාතනයට ගාල්ලේ සැකකරුට සහාය දී අතැයි කියන කොස්ගොඩ සැකකාරිගේ බැංකු ගිනුමකට අවස්ථා දෙකකදී  විදේශ රටකින් මුදල් බැරවී ඇතැයිද පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/55067040.json)
 
 ---
 
@@ -2297,79 +2357,5 @@ Minister Jeevan Thondaman, Members of Parliament AHM. Fouzi, Yatamini Gunawarden
 [Data](articles/859a3a85.json)
 
 [Extended Data](ext_articles/859a3a85.ext.json)
-
----
-
-### President apologizes from the country
-
-*2024-07-19 19:27:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-රටෙන්ම-සමාව-ඉල්ලයි/11-410871) · `si`
-
-President Ranil Wickremesinghe highlights Sri Lanka's unique position in preserving democracy since 1931, despite challenges. He addresses concerns over constitutional amendments and the role of legal figures like N. Choxy, acknowledging mistakes and extending apologies. The speech marks the opening of a new court complex in Galle, emphasizing the importance of the judiciary and the country's legal heritage.
-
-🟩
-
-President Ranil Wickremesinghe said that it is the only country to continue the only country to protect democracy after the o'clock electoral power is the same.
-
-When performing the constitutional amendments, they are responsible for the subject of the subject and that such activities were done accordingly and had done such activities. The President recalled that the lawyers such as N Choxy.
-
-However, as Mr. Chocosy was not alive at the time of the year 2015, Jayampathi Wickremaratne had to hand over the lawyer, "President Ranil Wickremasinghe said.
-
-The President pointed out that he had a problem with him, he said he had the current problem.
-
-President Ranil Wickremesinghe was speaking at the opening of the new court complex built in the Beligaha area in Galle.
-
-The new court complex was built at a cost of Rs.There are all the necessary facilities for jurisdiction including an office.
-
-The President opened the new court complex and opened the new court complex.
-
-...
-
-[Data](articles/f9050690.json)
-
-[Extended Data](ext_articles/f9050690.ext.json)
-
----
-
-### President says there should be no fear regarding constitutional amendment
-
-*2024-07-19 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100633/president-says-there-should-be-no-fear-regarding-constitutional-amendment) · `en`
-
-President Ranil Wickremesinghe has emphasized that there should be no fear regarding the constitutional amendment.
-
-Furthermore, Wickremesinghe expressed that Sri Lanka is unique in maintaining democracy following universal suffrage the President’s Media Division (PMD) said in a statement.
-
-Moreover, the Head of the State added that he is dedicated to preserving this democratic tradition, according to the PMD.
-
-President Wickremesinghe urged that there should be no fear regarding the constitutional amendment.
-
-He emphasized that when making constitutional amendments, he entrusts the responsibility to experienced professionals. He mentioned that in the past, lawyers like K. N. Choksi were involved in such matters.
-
-However, since Mr. Choksi had passed away by the time of the new constitutional amendment in 2015, the task was assigned to President’s Counsel Jayampathi Wickramaratne.
-
-...
-
-[Data](articles/85962c64.json)
-
-[Extended Data](ext_articles/85962c64.ext.json)
-
----
-
-### Sri Lanka probe potential impact of global IT outage on 40 govt. systems
-
-*2024-07-19 18:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100632/sri-lanka-probe-potential-impact-of-global-it-outage-on-40-govt-systems) · `en`
-
-The Sri Lanka Computer Emergency Readiness Team (SL CERT) has initiated an investigation into 40 government information systems in order to determine if they have been compromised by the mass global IT outage in software provided by a leading US-based cyber security firm.
-
-Senior Information Engineer of Sri Lanka CERT Charuka Damunupola confirmed that reports have been called to ascertain whether the relevant government information systems operate using Microsoft applications, which have been affected by the massive outage took place.
-
-Furthermore, Mr. Damunupola stated that initial findings indicate four private institutions in Sri Lanka have been impacted, while unofficial reports suggest that two Sri Lankan banks are among the affected entities.
-
-Speaking to Ada Derana, he asserted that a rigorous investigation is underway to assess the full scope of the impact.
-
-...
-
-[Data](articles/e27f9b87.json)
-
-[Extended Data](ext_articles/e27f9b87.ext.json)
 
 ---

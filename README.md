@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 09:06:30**
+As of **2024-07-20 09:20:12**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,220 (100.0%) of 36,224 articles have been extended.
+36,224 (100.0%) of 36,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### නව යොවුන් දරුවන් අතර ඒඩ්ස් රෝගය ව්‍යාප්තියේ වර්ධනයක්
+### AIDS is a growth of the distribution of adolescents
 
 *2024-07-20 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199006) · `si`
 
-පසුගිය වසරේදී එච්.අයි.වී ඒඩ්ස් රෝගය වැලඳුන ළමුන් 40 දෙනෙකු හඳුනාගැනීමට හැකිවූ බව ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන ව්‍යාපාරය පවසයි.
+In 2022, 607 people lived with HIV, increasing to 694 in 2023, a 14% rise. Last year, 40 children identified HIV in AIDS cases, while 3,169 elderly reported STDs. AIDS prevalence among adolescents aged 15 to 24 is growing, according to Dr. Vino Dharmizlines.
 
-එහි ලිංගාශ්‍රිත රෝග පිළිබඳ විශේෂඥ වෛද්‍ය විනෝ ධර්මකුලසිංහ මහත්මිය සඳහන් කළේ වාර්තා වී ඇති වැඩිහිටි පුද්ගලයින් සංඛ්‍යාව 3,169 ක් බවය.
+🟩
 
-එච්.අයි.වී රෝගය සමඟ ජීවත් වන පුද්ගලයින්ගේ සංඛ්‍යාව 2022 වර්ෂයේ දී 607 ලෙස වාර්තා වී ඇති අතර 2023 වර්ෂයේ දී එම සංඛ්‍යාව 694 ක් ලෙස ඉහළ යාම සියයට 14 ක වර්ධනයක් ඇති බව ඇය පවසයි.
+Last year, 40 children who were able to identify HIV in AIDS.
 
-මේ අතර 15 සහ 24 යන නව යොවුන් විය ලෙස සැලකෙන වයස් කණ්ඩය අතරේ ඒඩ්ස් රෝගය ව්‍යාප්ත වීමේ වර්ධනයක් දක්නට ලැබෙන බව ද විශේෂඥ වෛද්‍ය විනෝ ධර්මකුලසිංහ මහත්මිය වැඩිදුරටත් සඳහන් කළේය.
+It said that there was 3,169 elderly people reported in the STD.
+
+The number of people living with HIV is 607 in 2022 and in the year 2023, the increase in 694 grew by 14 percent.
+
+Meanwhile, Dr. Vino Dharmizlines added that there is a growth of AIDS, including the age of 15 and 24, adding a growth of AIDS.
 
 ◼️
 
 [Data](articles/e65ca15e.json)
+
+[Extended Data](ext_articles/e65ca15e.ext.json)
 
 ---
 
@@ -68,6 +74,8 @@ Telecommunications were also disrupted and television news channels went off the
 
 [Data](articles/cb6300e8.json)
 
+[Extended Data](ext_articles/cb6300e8.ext.json)
+
 ---
 
 ### Prevailing windy conditions expected to continue
@@ -87,6 +95,8 @@ Fairly strong winds about 30-40kmph can be expected at times elsewhere of the is
 ◼️
 
 [Data](articles/20a63e2e.json)
+
+[Extended Data](ext_articles/20a63e2e.ext.json)
 
 ---
 
@@ -318,21 +328,29 @@ The police said that on the advice of the Badulla Regional Police Superintendent
 
 ---
 
-### ’கட்டுப்பாட்டு விலை நிர்ணயிக்க வேண்டி ஏற்படும்’
+### Model Control Price
 
 *2024-07-20 00:57:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பாட்டு-விலை-நிர்ணயிக்க-வேண்டி-ஏற்படும்/175-340706) · `ta`
 
-அரசாங்கம் வழங்கும் சலுகைகளை நுகர்வோருக்கு வழங்குவதற்கு வர்த்தகர்கள் செயற்படாவிட்டால் குறிப்பிட்ட சில பொருள்களுக்கு கட்டுப்பாட்டு விலையை நிர்ணயிக்க நேரிடும் என்று வர்த்தக, வாணிப மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நலின் பெர்னாண்டோ தெரிவித்தார்.
+Nalin Fernando, Minister of Commerce, warns traders about the consequences of not passing government concessions to consumers, hinting at price controls on certain items. He mentions amendments to the Consumer Act and plans to improve consumer-trader relations, including weekly announcements on 15 essential commodity prices. Discussions with trade associations are scheduled soon.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று  நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் நலின் பெர்னாண்டோ மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நுகர்வோர் சட்டத்தில் திருத்தம் செய்ய சட்டங்கள் மாற்றப்பட்டுள்ளன. இன்னும் இரண்டு வாரங்களில் இது தொடர்பான பரிந்துரைகள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும். மேலும், நுகர்வோர் மற்றும் வர்த்தகர் இடையே உள்ள புரிந்துணர்வை அதிகரிக்கும் வகையில் பல்வேறு நடவடிக்கைகள் திட்டமிடப்பட்டுள்ளன.
+The Minister of Commerce, Commerce and Food Security, Nalin Fernando, said that if traders do not act to provide the government's concessions to consumers, certain items will be fixed.
 
-அது மட்டுமன்றி, தற்போது வாரத்திற்கு ஒருமுறை 15 அத்தியாவசியப் பொருட்களின் விலையை அறிவித்து வருகின்றோம். ஆனால் அரசாங்கம் வழங்கும் சலுகைகள் நுகர்வோர்களுக்கு கிடைக்காமை அவதானிக்கப்பட்டுள்ளது.
+Minister Nalin Fernando said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
 
-...
+Laws have been changed to amend the Consumer Act. Related recommendations will be submitted to Parliament in two more weeks. In addition, various measures have been planned to increase the understanding between the consumer and the trader.
+
+In addition, we are currently announcing the price of 15 essential commodities once a week. But the government's concessions have been observed for consumers.
+
+We are looking forward to discussing this with trade associations in the next few days. It must also be said that if the concessions we offer are not made to the consumers, certain items will be determined by certain items.. (A)
+
+◼️
 
 [Data](articles/5fee1f79.json)
+
+[Extended Data](ext_articles/5fee1f79.ext.json)
 
 ---
 

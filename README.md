@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 21:20:12**
+As of **2024-07-20 21:35:39**
 
 ## Newspaper Stats
 
-*Scraped **36,289** Articles*
+*Scraped **36,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
-adalk | 3,270
+adalk | 3,271
 adaderanalk | 4,196
-tamilmirrorlk | 4,418
+tamilmirrorlk | 4,419
 dailymirrorlk | 4,733
 virakesarilk | 5,677
 adaderanasinhalalk | 6,080
@@ -26,21 +26,39 @@ adaderanasinhalalk | 6,080
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,287 (100.0%) of 36,289 articles have been extended.
+36,289 (100.0%) of 36,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### 1700ரூபாய் கிடைக்கும் வரை ரூ.5000 வழங்க யோசனை
+### பொன்சேகாவுக்கு பதிலாக இம்தியாஸ்
+
+*2024-07-20 21:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-பதிலாக-இம்தியாஸ்/175-340719) · `ta`
+
+பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்குப் பதிலாக சமகி ஜன பலவேகய (SJB) கட்சியின் புதிய தலைவராக தேசியப் பட்டியல் நாடாளுமன்ற உறுப்பினர் இம்தியாஸ் பகீர் மார்க்கர் நியமிக்கப்படவுள்ளார்
+
+◼️
+
+[Data](articles/f0d1a119.json)
+
+---
+
+### The idea of ​​paying Rs.
 
 *2024-07-20 20:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1700ரூபாய்-கிடைக்கும்-வரை-ரூ-5000-வழங்க-யோசனை/175-340718) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கு 1700 ரூபாய் சம்பள நீதிமன்ற தலையீட்டால் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள நிலையில், 1700 ரூபாய் சம்பளம் வழங்கும் வரை தற்காலிக தீர்வாக இடைக்கால கொடுப்பனவாக மாதாந்தம் 5000 ரூபாவிற்கு அதிக தொகையை அரசாங்கம் வழங்க வேண்டுமென இலங்கை தொழிலாளர் காங்கிரஸின் தலைவர் செந்தில் தொண்டமான் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கோரிக்கை முன்வைத்துள்ளார்.
+Senthil Thondaman urges President Ranil Wickremesinghe to increase plantation workers' interim allowance to over 5,000 rupees monthly, pending a court decision on their salaries.
+
+🟩
+
+Ceylon Workers Congress President Senthil Thondaman has called on President Ranil Wickremesinghe to pay more than 5,000 rupees per month as an interim allowance as a temporary solution until the plantation workers have been temporarily suspended due to a salary court intervention for plantation workers.
 
 ◼️
 
 [Data](articles/42421aad.json)
+
+[Extended Data](ext_articles/42421aad.ext.json)
 
 ---
 
@@ -218,21 +236,31 @@ It is reported that the next step is to take place on all other issues, includin
 
 ---
 
-### ஜனாதிபதி தேர்தலில் தமிழ் வேட்பாளர்; திங்கள் கைச்சாத்து
+### Tamil candidate in the presidential election;Monday sign
 
 *2024-07-20 18:14:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-தமிழ்-வேட்பாளர்-திங்கள்-கைச்சாத்து/175-340717) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழர் தரப்பில் இருந்து ஒரு பொது வேட்பாளரை நிறுத்துவதற்கான உடன்படிக்கையொன்று எதிர்வரும் திங்கட்கிழமை கைச்சாத்திடபட உள்ளது.
+A Tamil unity pact for the presidential election is set to be inked on Monday in Jaffna, aiming to nominate a joint candidate. This move follows years of accusations that Tamils vote along ethnic lines, leading to a concerted effort by civil society and political parties to break this pattern. The agreement will also address other issues crucial to the Tamil community.
 
-தமிழ்சிவில் சமூகத்திற்கும் தமிழ்த் தேசிய அரசியல் கட்சிகளுக்கு இடையிலும் இந்த உடன்படிக்கை யாழில் வைத்து கைச்சாத்திடப்பட உள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-கடந்த காலங்களில் நடைபெற்ற ஜனாதிபதி தேர்தல்களில் தமிழ் மக்கள் எவருக்கு வாக்களித்தும் எந்தவித பயனும் இல்லை என தமிழ்க் கட்சிகளும் சிவில் சமூகத்தினரும் பல்வேறு குற்றச்சாட்டுக்களை முன்வைத்துள்ளனர்.
+An agreement to field a common candidate from the Tamil party in the presidential election is due to be signed on Monday.
 
-இதனால் தமிழ் மக்களின் நிலைமையையும் தமிழ் மக்களின் பிரச்சனைகள் தேவைகளை வெளிப்படுத்தும் வகையில் எதிர்வரும் ஜனாதிபதி தேர்தலில் எந்தவொரு சிங்கள வேட்பாளருக்கும் ஆதரவை வழங்காது தமிழர் தரப்பில் இருந்து பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான நடவடிக்கைகள் அண்மைக் காலமாக சிவில் சமூகத்தினராலும் அரசியல் கட்சிகளாலும் தெடர்ச்சியாக முன்னெடுக்கப்பட்டு வந்தது.
+It is reported that the agreement is to be signed in Jaffna between the Tamil community and the Tamil national political parties.
 
-...
+The Tamil parties and the civil society have made various allegations that the Tamil people have voted for the Tamil people in the presidential elections in the past.
+
+Thus, the Tamil people have been carrying out a long -term campaign by the civil society and the political parties to field a common candidate from the Tamil party.
+
+In this context, various organizations and various parties have supported the next phase of a contract between the political parties and the civil society.
+
+It is reported that the next step is to take place on all other issues, including the selection of the common candidate, following the signing of the agreement with various issues between the two sides.. Remble
+
+◼️
 
 [Data](articles/d3e12406.json)
+
+[Extended Data](ext_articles/d3e12406.ext.json)
 
 ---
 
@@ -545,6 +573,28 @@ At the end, the Asian Development Bank has been given a loan for ten thousand pi
 [Data](articles/842d4bbd.json)
 
 [Extended Data](ext_articles/842d4bbd.ext.json)
+
+---
+
+### බංග්ලාදේශය උණුසුම් වෙයි - විරෝධතාවලින් 65ක් මරුට
+
+*2024-07-20 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශය-උණුසුම්-වෙයි---විරෝධතාවලින්-65ක්-මරුට/11-410875) · `si`
+
+බංග්ලාදේශයේ ඩකා අගනුවර ඇති වූ කෝලාහල හේතුවෙන් තවත් පුද්ගලයින් 35 දෙනෙකු ජීවිතක්ෂයට පත්වීමෙන් අනතුරුව එරට බලධාරීන් විසින් රටපුරා ඇඳිරි නීතිය පනවා තිබේ.
+
+1971 රටේ නිදහස් යුද්ධයේ ප්‍රවීණයන්ගේ පවුල් සඳහා රාජ්‍ය රැකියා විශාල සංඛ්‍යාවක් වෙන් කිරීමේ නීතියක් රජයට කපා හරින ලෙස සිසුන් කරන ඉල්ලීම් නිසා ප්‍රචණ්ඩත්වයේ දින කිහිපයක් ඇවිල ගොස් තිබේ.
+
+සිකුරාදා නර්සින්ඩි බන්ධනාගාරයට එල්ල වූ ප්‍රහාරයකින් රැඳවියන් සිය ගණනක් නිදහස් කරනු ලැබීමෙන් පසු අගමැති කාර්යාලය ඇඳිරි නීතිය ප්‍රකාශයට පත් කළේය.
+
+රජයේ ප්‍රකාශක  ඉස්ලාම් ඛාන් පැවසුවේ සාමය යථා තත්ත්වයට පත් කිරීම සඳහා හමුදාව වීදිවලට ​​යොදවන බවයි.
+
+"සිවිල් බලධාරීන්ට සහය දැක්වීම සඳහා ඇඳිරි නීතිය පැනවීමට සහ හමුදාව යෙදවීමට රජය තීරණය කර ඇත," ඔහු නිවේදනයක් නිකුත් කරමින් කියා සිටියේය.
+
+ප්‍රචණ්ඩත්වය ඇති වූ දා සිට මේ වන විට පුද්ගලයින් 67 ක් පමණ මිය ගොස් ඇත - ජංගම අන්තර්ජාල සහ දුරකථන මාර්ග ක්‍රියා විරහිත වීමත් සමඟ සම්පූර්ණයෙන් පාහේ සන්නිවේදන වසා දැමීම හේතුවෙන් නිශ්චිත සංඛ්‍යාව තක්සේරු කිරීම දුෂ්කර වී තිබේ.
+
+...
+
+[Data](articles/eeb245df.json)
 
 ---
 
@@ -2281,45 +2331,5 @@ A bus traveling from Jaffna to Kadirgamam to Kadirgamam, a bus traveling along t
 [Data](articles/1cfddbe2.json)
 
 [Extended Data](ext_articles/1cfddbe2.ext.json)
-
----
-
-### 52 pilgrims injured in Muttur accident
-
-*2024-07-19 23:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூதூர்-விபத்தில்-52-யாத்திரிகர்கள்-காயம்/71-340699) · `ta`
-
-In a tragic accident near Kengithurai Bridge, a bus en route from Jaffna to Kadirgamam collided with another vehicle along the A15 Trincomalee-Batticaloa road, injuring 52 pilgrims.
-
-🟩
-
-A bus traveling from Jaffna to Kadirgamam to Kadirgamam, a bus traveling along the A15 Trincomalee - Batticaloa main road, crashed near the Kengithurai Bridge this evening.
-
-◼️
-
-[Data](articles/ed434d8b.json)
-
-[Extended Data](ext_articles/ed434d8b.ext.json)
-
----
-
-### The struggle against the illegal Tissa Vihara begins!
-
-*2024-07-19 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/188900) · `ta`
-
-Protests against the illegal Tissa Vihara in Jaffna began on Friday, led by the Tamil National Alliance (TNA), including its General Secretary Selvarajah Gajendran and Media Spokesperson Kanagaratnam Sukash, along with supporters.
-
-🟩
-
-A series of protests against the illegal Tissa Vihara in Jaffna, Jaffna, are being launched on Friday (19).
-
-The Tamil National Alliance (TNA) has been continuously engaged in a struggle with the people demanding the removal of the illegal Taiti Tissa Vihara.
-
-In the struggle, the general secretary of the Tamil National People's Front and Member of Parliament, Selvarajah Gajendran, Media Spokesperson Kanagaratnam Sukash, the public and the party's supporters participated in the protest.
-
-◼️
-
-[Data](articles/a2af981f.json)
-
-[Extended Data](ext_articles/a2af981f.ext.json)
 
 ---

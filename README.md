@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 14:20:22**
+As of **2024-07-20 14:35:45**
 
 ## Newspaper Stats
 
-*Scraped **36,258** Articles*
+*Scraped **36,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,268
 adaderanalk | 4,191
-tamilmirrorlk | 4,408
+tamilmirrorlk | 4,409
 dailymirrorlk | 4,733
 virakesarilk | 5,673
 adaderanasinhalalk | 6,070
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,070
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,258 (100.0%) of 36,258 articles have been extended.
+36,258 (100.0%) of 36,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### யாழில் குழந்தையை கணவனுடன் விட்டுவிட்டு காதலுடன் ஓடிய பெண்
+
+*2024-07-20 14:09:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-குழந்தையை-கணவனுடன்-விட்டுவிட்டு-காதலுடன்-ஓடிய-பெண்/71-340713) · `ta`
+
+தனது இரண்டரை வயது குழந்தையை கைவிட்டு, கள்ள காதலனுடன் ஊரை விட்டு வெளியேறிய  பெண்ணையும், காதலனையும் விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+யாழ்ப்பாணம் பொலிஸ் நிலையத்திற்கு உட்பட்ட பகுதியில் கணவன் மற்றும் தனது குழந்தையுடன் வசித்து வந்த குடும்ப பெண்ணொருவர் கடந்த சில தினங்களுக்கு முன்னர் தனது காதலுடன் ஊரை விட்டு சென்று இருந்தார்.
+
+இது தொடர்பில் கணவனால் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டது. முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் பெண்ணையும் , அவரது காதலனான இளைஞனையும் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட இருவரையும் விசாரணைகளின் பின்னர் யாழ்ப்பாண நீதவான் நீதிமன்றில் முற்படுத்தியதை அடுத்து, நீதிமன்ற விசாரணைகளை அடுத்து இருவரையும் 14 நாட்கள் விளக்கமறியலில் தடுத்து வைக்குமாறு மன்று உத்தரவிட்டுள்ளது.  R
+
+◼️
+
+[Data](articles/6400ade5.json)
+
+---
 
 ### Ali Sabri affillations bailed
 
@@ -180,6 +198,32 @@ The panic-stricken crew has been reassured of the safety by the Indian Coast Gua
 
 ---
 
+### 22 Why should it be brought to the source of the law?Sumanthiran question
+
+*2024-07-20 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188924) · `ta`
+
+MA Sumanthiran questions the urgency of the 22nd Constitutional Amendment, arguing it confuses voters and disrupts the constitutional process, especially concerning presidential elections and universal suffrage. He suggests it might be seen as granting excessive powers to the President and unnecessary during the current term.
+
+🟩
+
+Tamil National Alliance (TNA) parliamentarian MA Sumanthiran has questioned why the 22nd Amendment to the Constitution is now needed.
+
+He questioned the need to bring the bill to the present, and in his view, it is confusing the voters.
+
+He added that it would be troubled by holding the presidential election at the end of the five years, according to the constitution.
+
+Sumanthiran said that if the 22nd Amendment was passed with two -thirds of the parliament, it would be confused as the election of the Constitution would be given to the President.
+
+He said that it is not necessary to conduct a universal payment as this has not been made in the current president's tenure.
+
+◼️
+
+[Data](articles/5cb2e898.json)
+
+[Extended Data](ext_articles/5cb2e898.ext.json)
+
+---
+
 ### Daughter who refuses to go to exam
 
 *2024-07-20 12:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பரீட்சைக்கு-செல்ல-மறுத்த-மகள்-யாழில்-தாய்-தற்கொலை/71-340712) · `ta`
@@ -199,6 +243,30 @@ He was transferred to the Jaffna Bodhana Hospital for further treatment and died
 [Data](articles/e0f6d448.json)
 
 [Extended Data](ext_articles/e0f6d448.ext.json)
+
+---
+
+### Family girl who abandoned the baby in Jaffna;In the description of the woman and the lover
+
+*2024-07-20 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188931) · `ta`
+
+A woman from Jaffna, living with her husband and child near the police station, recently left the city with her boyfriend. Her husband filed a complaint leading to their arrest. The Jaffna Magistrate's Court, after a hearing, ordered them held for 14 days.
+
+🟩
+
+The court has ordered the abandonment of her two -and -a -half -year -old baby girl and her boyfriend who left the city with her boyfriend.
+
+A family woman who lived with her husband and her child in the area of ​​the Jaffna police station had left the city a few days ago.
+
+A complaint was lodged at the Jaffna Police Station by husband. According to the complaint, the police arrested the woman and her boyfriend.
+
+Following the trial of the two men, the Jaffna Magistrate's Court has ordered the detainees to be detained for 14 days following a court hearing.
+
+◼️
+
+[Data](articles/aace322b.json)
+
+[Extended Data](ext_articles/aace322b.ext.json)
 
 ---
 
@@ -270,30 +338,6 @@ Police are conducting investigations as a complaint has been lodged at the Vaddu
 
 ---
 
-### Family girl who abandoned the baby in Jaffna;In the description of the woman and the lover
-
-*2024-07-20 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188931) · `ta`
-
-A woman from Jaffna, living with her husband and child near the police station, recently left the city with her boyfriend. Her husband filed a complaint leading to their arrest. The Jaffna Magistrate's Court, after a hearing, ordered them held for 14 days.
-
-🟩
-
-The court has ordered the abandonment of her two -and -a -half -year -old baby girl and her boyfriend who left the city with her boyfriend.
-
-A family woman who lived with her husband and her child in the area of ​​the Jaffna police station had left the city a few days ago.
-
-A complaint was lodged at the Jaffna Police Station by husband. According to the complaint, the police arrested the woman and her boyfriend.
-
-Following the trial of the two men, the Jaffna Magistrate's Court has ordered the detainees to be detained for 14 days following a court hearing.
-
-◼️
-
-[Data](articles/aace322b.json)
-
-[Extended Data](ext_articles/aace322b.ext.json)
-
----
-
 ### Bangladesh Violence: 105 killed;Curfew
 
 *2024-07-20 12:11:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-வன்முறை-105-பேர்-பலி-ஊரடங்கு-அமல்/50-340710) · `ta`
@@ -339,32 +383,6 @@ Those who were injured in the fire were being treated by the International Organ
 [Data](articles/92aecba5.json)
 
 [Extended Data](ext_articles/92aecba5.ext.json)
-
----
-
-### 22 Why should it be brought to the source of the law?Sumanthiran question
-
-*2024-07-20 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/188924) · `ta`
-
-MA Sumanthiran questions the urgency of the 22nd Constitutional Amendment, arguing it confuses voters and disrupts the constitutional process, especially concerning presidential elections and universal suffrage. He suggests it might be seen as granting excessive powers to the President and unnecessary during the current term.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian MA Sumanthiran has questioned why the 22nd Amendment to the Constitution is now needed.
-
-He questioned the need to bring the bill to the present, and in his view, it is confusing the voters.
-
-He added that it would be troubled by holding the presidential election at the end of the five years, according to the constitution.
-
-Sumanthiran said that if the 22nd Amendment was passed with two -thirds of the parliament, it would be confused as the election of the Constitution would be given to the President.
-
-He said that it is not necessary to conduct a universal payment as this has not been made in the current president's tenure.
-
-◼️
-
-[Data](articles/5cb2e898.json)
-
-[Extended Data](ext_articles/5cb2e898.ext.json)
 
 ---
 
@@ -2349,31 +2367,5 @@ SriLankan asked SriLankan calling their Global Relations Center for further assi
 [Data](articles/97c741bb.json)
 
 [Extended Data](ext_articles/97c741bb.ext.json)
-
----
-
-### Shiva Karthikeyan's 'Amaran', which is released on Diwali
-
-*2024-07-19 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/188871) · `ta`
-
-"Amaran," starring Sivakarthikeyan, Sai Pallavi, and Rahul Bose, directed by Rajkumar Periyasamy, is set for release on Diwali, October 31st. The film, produced by Rajkamal Film International and Sony Pictures Films India, tells the story of Major Mukund Varadarajan, an Indian Army hero. Fans eagerly anticipate this Diwali gift.
-
-🟩
-
-Sivakarthikeyan, the leading star actor of the Tamil film industry, has been officially announced by the release of 'Amaran', which is ready for the upcoming film 'Amaran'.
-
-Sivakarthikeyan, Sai Pallavi, Rahul Bose, Sri Kumar, Shyam Mohan, directed by director Rajkumar Periyasamy, directed by director Rajkumar Periyasamy, directed by 'Rangoon'.. C. H. Sai is a video of the film.. V.. Prakash Kumar has composed the music.
-
-The film is being produced by two Rajkamal Film International and Sony Pictures Films India, which is preparing for the biography of Major Mukund Varadarajan, who died in the Indian Army.
-
-The official announcement of the release of the film has been released at the time of the post -shooting technology.
-
-The film will be released on October 31st. Diwali is a Diwali gift for fans because it is a Diwali festival on that day. This is why Sivakarthikeyan's fans are excited.
-
-◼️
-
-[Data](articles/7f4ef1e3.json)
-
-[Extended Data](ext_articles/7f4ef1e3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 00:08:01**
+As of **2024-07-21 00:20:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,301 (100.0%) of 36,304 articles have been extended.
+36,304 (100.0%) of 36,304 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -305,6 +305,8 @@ Public private partnerships to develop low income housing was also discussed. (C
 ◼️
 
 [Data](articles/35dadfa5.json)
+
+[Extended Data](ext_articles/35dadfa5.ext.json)
 
 ---
 
@@ -834,6 +836,8 @@ The changes to the Constitution, were made by a team of legal officers of which 
 
 [Data](articles/b0cdccc6.json)
 
+[Extended Data](ext_articles/b0cdccc6.ext.json)
+
 ---
 
 ### If the train boycotts the rank, he has left the job
@@ -1063,6 +1067,8 @@ The central bank still had a negative position of about 821 million dollars by M
 ...
 
 [Data](articles/7839d335.json)
+
+[Extended Data](ext_articles/7839d335.ext.json)
 
 ---
 

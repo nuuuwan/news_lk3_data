@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 16:51:58**
+As of **2024-07-20 17:05:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,073
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,271 (100.0%) of 36,272 articles have been extended.
+36,272 (100.0%) of 36,272 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ No information has been received regarding the whereabouts of the missing fisher
 ◼️
 
 [Data](articles/4ca86927.json)
+
+[Extended Data](ext_articles/4ca86927.ext.json)
 
 ---
 

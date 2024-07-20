@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 15:05:18**
+As of **2024-07-20 15:20:12**
 
 ## Newspaper Stats
 
-*Scraped **36,261** Articles*
+*Scraped **36,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,191
 tamilmirrorlk | 4,411
 dailymirrorlk | 4,733
 virakesarilk | 5,673
-adaderanasinhalalk | 6,070
+adaderanasinhalalk | 6,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,261 (100.0%) of 36,261 articles have been extended.
+36,261 (100.0%) of 36,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### මිනිසා සඳ මත පා තබා අදට වසර 55ක්
+
+*2024-07-20 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199016) · `si`
+
+මිනිසා පළමු වරට සඳ මත පා තැබූ ඓතිහාසික දිනය සනිටුහන් වී අදට (20) වසර 55ක් සැපිරෙයි.
+
+මිනිසෙකුගේ එක් කුඩා පියවරක්, මුළු මහත් මනුෂ්‍ය වර්ගයාගේ අනාගතය වෙනුවෙන් වූ යෝධ පිම්මක් යන ඉතිහාසගත ඒ වඳන් පෙළ ලෝ ප්‍රකට අභ්‍යවකාශගාමි නීල් ආම්ස්ට්‍රෝන්ග් විසින් ප්‍රකාශ කළේ  1969 වසරේ ජුලි 20වනදාවකය.
+
+මිනිසා පළමුවරට සඳ මත පා තැබූ එම මොහොත සජීවීව නැරඹීමට ලෝකවාසීන්ට එදා අවස්ථාව උදාවිය.
+
+ලෝක ඉතිහාසයේ එදා මෙදා තුර අතිශයින් ජනප්‍රිය ගගනගාමීන් තිදෙනා වන නීල් ආම්ස්ට්‍රෝන්ග්, එඩ්වින් ඕල්ඩ්රින් සහ මයිකල් කොලින්ස් රැගත් ඇපලෝ 11 යානය සඳ ගමන ආරම්භ කලේ 1969 වසරේ ජුලි 16වනදාය.
+
+සැටන් වී රොකට් යානය ආධාරයෙන් මෙම සුවිශේෂී යානය අභ්‍යවකාශගත කරනු ලැබුවේ ෆ්ලොරීඩා ප්‍රාන්තයේ පිහිටි කෙනඩි අභ්‍යවකාශ මධ්‍යස්ථානයෙනි.
+
+1969 වසරේ ජුලි 20 වනදා ශ්‍රී ලංකා වේලාවෙන් අලුයම 1.50ට පමණ නීල් ආම්ස්ට්‍රෝන්ග් සහ එඩ්වින් ඕල්ඩ්රින් රැගත් ඇපලෝ 11 සඳ මත ගොඩබස්සවනු ලැබීය.
+
+ඉන් පැය 6කට පසු සඳ මත පා තැබූ ප්‍රථම මිනිසා වීමේ භාග්‍යය උදා කරගැනීමට නීල් ආම්ස්ට්‍රෝන්ග් සමත්විය.
+
+...
+
+[Data](articles/11d91723.json)
+
+---
 
 ### The girl who left the baby with her husband in Jaffna
 
@@ -2339,33 +2363,5 @@ Trade, Commerce and Food Security Minister Nalin Fernando made this statement pa
 [Data](articles/9cffd658.json)
 
 [Extended Data](ext_articles/9cffd658.ext.json)
-
----
-
-### Elections Commission should not be taken to the president's intrigue - Mujibur Rahman
-
-*2024-07-19 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/188891) · `ta`
-
-Mujibur Rahman criticizes the Elections Commission for not protecting democratic rights due to presidential influence, highlighting concerns over the government's attempts to delay elections and the lack of action against corruption.
-
-🟩
-
-The Elections Commission must protect the democratic rights of the people without the intrigue of the president and the government. United People's Power MP Mujibur Rahman said that the President's visit to Mahindananda Aluthgamage is worrying.
-
-He made this statement during a media briefing held at the Opposition Leader's office on Friday (19).
-
-The Ranil -Rajapakse government is maneuvering from the beginning to dismiss the presidential election.. The government was postponing the local government elections in March last year.
-
-The president said that the president would be held at a timely manner, but his friends, including his party's chairman and general secretary, said that the president should be given a further two years.
-
-The United National Party has urged the Election Commission to hold the election quickly.
-
-The Elections Commission should protect the democratic rights of the people without the intrigue of the president and the government.
-
-...
-
-[Data](articles/ffad80a1.json)
-
-[Extended Data](ext_articles/ffad80a1.ext.json)
 
 ---

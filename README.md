@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 11:20:25**
+As of **2024-07-20 11:35:36**
 
 ## Newspaper Stats
 
-*Scraped **36,232** Articles*
+*Scraped **36,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,91 @@ islandlk | 2,060
 economynextcom | 2,165
 dailyftlk | 2,314
 adalk | 3,268
-adaderanalk | 4,183
+adaderanalk | 4,185
 tamilmirrorlk | 4,404
 dailymirrorlk | 4,733
 virakesarilk | 5,667
-adaderanasinhalalk | 6,063
+adaderanasinhalalk | 6,064
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,231 (100.0%) of 36,232 articles have been extended.
+36,232 (100.0%) of 36,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### ත්‍රිරෝද රථ වෘත්තිය පවත්වාගෙන යන්න රීති තිබිය යුතුයි - ජනපති
+### MP Ali Sabri Raheem arrested
+
+*2024-07-20 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100642/mp-ali-sabri-raheem-arrested) · `en`
+
+Puttalam District MP Ali Sabri Raheem has been arrested by Kalpitiya police a short while ago.
+
+The parliamentarian, against whom a warrant had been issued recently, had appeared before the Kalpitiya Police this morning (20), after which he was arrested, police said.
+
+Police said that he will be produced before the court today.
+
+◼️
+
+[Data](articles/0eb1bba8.json)
+
+---
+
+### අලි සබ්රි රහීම් අත්අඩංගුවට
+
+*2024-07-20 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199009) · `si`
+
+පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන අලි සබ්රි රහීම් අද (20) පෙරවරුවේ පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහුට පසුගියදා වරෙන්තු නිකුත් කෙරුණු අතර අද කල්පිටිය පොලීසියට පැමිණි අවස්ථාවේදී මෙලෙස අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+
+ඒ අනුව අලි සබ්රි රහීම් ව අද අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/c341c5df.json)
+
+---
+
+### President has no intention to delay polls - Bandula
+
+*2024-07-20 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100641/president-has-no-intention-to-delay-polls-bandula) · `en`
+
+The Cabinet Spokesman and Minister of Transport and Highways Bandula Gunawardena states that President Ranil Wickremesinghe has no intention of delaying the Presidential Election, in his recent order to gazette the 22nd Amendment which was withheld by Justice Minister.
+
+Speaking to the media after attending an event held at the Hatton Railway Station, the Minister emphasized that the President has already provided Rs. 10 billion of funds to the Election Commission in order to hold the Presidential Poll.
+
+He also added that accordingly, a President will be elected before October 17 this year, as per the Constitution.
+
+Gunawardena assured that there are no plans to postpone the elections, as certain parties claimed.
+
+◼️
+
+[Data](articles/b6a0f987.json)
+
+---
+
+### Maintains the three-wheeler career - President
 
 *2024-07-20 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199008) · `si`
 
-ත්‍රිරෝද රථ වෘත්තිය පවත්වාගෙන යාමේදී වෘත්තිය රීති තිබිය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the need for professional regulations for three-wheeler drivers, highlighting the importance of stability and economic recovery. He suggests collaboration with relevant associations to develop these rules, ensuring welfare and considering the transition to electric vehicles, learning from global experiments.
 
-වෘත්තිය ත්‍රිරෝද  රථ හා ප්‍රවාහන සංගම් නියෝජිතයින් සමග ඊයේ (19) පැවති හමුවේදී ඔහු මේ අදහස් පළ කළේය.
+🟩
 
-එහිදී වෘත්තිය ත්‍රිරෝද රථ රියැදුරන්ගේ වෘත්තිය දියුණුව පිළිබඳ යෝජනාවලියක් ද ජනපතිට භාරදී තිබේ.
+President Ranil Wickremesinghe says that there should be professional rules when maintaining a three-wheeler career.
+
+He was speaking at a meeting with professional three-wheeler and transportation representatives yesterday (19).
+
+The profession has been handed over to the President where a professional three-wheeler drivers are handed over to the President.
 
 ...
 
 [Data](articles/631a5155.json)
+
+[Extended Data](ext_articles/631a5155.ext.json)
 
 ---
 
@@ -2297,67 +2353,5 @@ Thursday 25 am to 2:00 am to 5 pm
 [Data](articles/7893d483.json)
 
 [Extended Data](ext_articles/7893d483.ext.json)
-
----
-
-### Sri Lanka looks to revamp NVQ, eyes associate degrees
-
-*2024-07-19 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-to-revamp-nvq-eyes-associate-degrees-172883/) · `en`
-
-ECONOMYNEXT – Sri Lanka has too many agencies overseeing post-school education and also needs to reassess its NVQ qualification, the country’s president told a summit on developing human capital.
-
-“We have too many agencies, too many departments, and Ministries running these agencies. I want to have one single agency for this area, which will look after post-school education and all the training centres,” President Ranil Wickremesinghe said.
-
-Wickremesinghe estimated there to be 700-800 such agencies in the country, and said the government should merge them into about 300 vocational colleges, which “can then be updated and modernized.”
-
-“That’s what we have to do. Replace the technical colleges of varying standards with advanced colleges of technology and management and be able to introduce the associate degree in technical and vocational subjects,” he told the Sri Lanka Human Capital Summit 2024 held yesterday (18) at Temple Trees.
-
-...
-
-[Data](articles/d71d6522.json)
-
-[Extended Data](ext_articles/d71d6522.ext.json)
-
----
-
-### President to gazette 22
-
-*2024-07-19 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198985) · `si`
-
-President Ranil Wickremesinghe has gazetted the 22nd constitutional amendment, replacing "over five years" with a specific term for the President's office. Minister Wijayadasa Rajapaksa confirmed its publication.
-
-🟩
-
-The 22nd constitutional amendment has been gazetted by President Ranil Wickremesinghe.
-
-The amendment is brought to replace the word 'over five years in the Constitution of the President's term of office.
-
-Minister of Justice Wijayadasa Rajapaksa yesterday stated that the gazette was published yesterday (18) that it would be gazetted.
-
-◼️
-
-[Data](articles/8d9b0175.json)
-
-[Extended Data](ext_articles/8d9b0175.ext.json)
-
----
-
-### President orders to gazette 22nd Amendment withheld by Justice Minister
-
-*2024-07-19 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100625/president-orders-to-gazette-22nd-amendment-withheld-by-justice-minister) · `en`
-
-The 22nd Amendment to the Constitution has been published via a Gazette notification by order of President Ranil Wickremesinghe.
-
-On Thursday (18), Minister of Justice Wijeyadasa Rajapakshe had instructed his ministry’s secretary not to publish the Gazette notification on the 22nd Amendment to the Constitution until the Presidential Election is held.
-
-However, the Justice Minister had claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
-
-This amendment will enable the paragraph (b) of Article 83 of the Constitution pertaining to the President’s term to be amended by replacing the words “to over six years” with the words “to over five years” stated in paragraph (b) of Article 83 of the Constitution.
-
-◼️
-
-[Data](articles/ba38bcc9.json)
-
-[Extended Data](ext_articles/ba38bcc9.ext.json)
 
 ---

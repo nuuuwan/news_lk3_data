@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 05:38:12**
+As of **2024-07-20 06:02:02**
 
 ## Newspaper Stats
 
-*Scraped **36,205** Articles*
+*Scraped **36,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 319
 colombotelegraphcom | 338
 bbccomsinhala | 355
 newsfirstlk | 363
-islandlk | 2,052
+islandlk | 2,060
 economynextcom | 2,165
 dailyftlk | 2,314
 adalk | 3,267
@@ -26,11 +26,45 @@ adaderanasinhalalk | 6,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,205 (100.0%) of 36,205 articles have been extended.
+36,213 (100.0%) of 36,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### Government may enforce price controls if concessions not passed to consumers – Trade, Commerce and Food Security Minister
+
+*2024-07-20 04:28:00* · [`islandlk`](http://island.lk/government-may-enforce-price-controls-if-concessions-not-passed-to-consumers-trade-commerce-and-food-security-minister/) · `en`
+
+Minister of Trade, Commerce, and Food Security Nalin Fernando stated that if the business community fails to pass on government-provided concessions to consumers, price controls will need to be implemented for certain goods. He also announced that proposals to amend the Consumer Act are planned to be submitted to Parliament within the next two weeks.
+
+Minister Fernando made these remarks during a news conference held at the Presidential Media Center on Friday (19) under the theme “Collective Path to a Stable Country.”
+
+“The crisis of the past few years has finally been resolved, thanks to the exceptional leadership of President Ranil Wickremesinghe. Our government implemented numerous programs to achieve this success, and the people are now reaping the benefits.
+
+...
+
+[Data](articles/796fd1e8.json)
+
+[Extended Data](ext_articles/796fd1e8.ext.json)
+
+---
+
+### Scope Cinemas brings IMAX®️ to Sri Lanka sparking cinematic revolution
+
+*2024-07-20 01:08:00* · [`islandlk`](http://island.lk/scope-cinemas-brings-imax%ef%b8%8f-to-sri-lanka-sparking-cinematic-revolution/) · `en`
+
+Scope Cinemas is set to revolutionise cinema experiences in Sri Lanka with the opening of its new IMAX®️ Theatre at Havelock City Mall on the 26th of July 2024. This eagerly anticipated launch promises to bring an unparalleled level of audio-visual immersion for Sri Lankan moviegoers, marking a milestone moment for entertainment in the country. IMAX®️ is renowned globally for its cutting-edge technology and unique film presentation capabilities.
+
+Accordingly, the IMAX®️ Theatre at Scope Cinemas Multiplex – Havelock City will feature IMAX®️ with Laser – a next-gen laser projection system – delivering the most advanced theatre experience to date. This tech will be coupled with IMAX®️ Precision Sound for breath-taking audio and IMAX®️ Immersion by Design seating, with stadium-style seating for clear viewing at every seat. All of this makes for the most immersive cinematic theatre experience in the world today.
+
+...
+
+[Data](articles/4b487574.json)
+
+[Extended Data](ext_articles/4b487574.ext.json)
+
+---
 
 ### Yall. 10 new achievements, including two athletes:
 
@@ -57,6 +91,54 @@ North Western Province (37 - 25 - 42), North Central Province (16 - 21 - 37), Sa
 [Data](articles/59cd47df.json)
 
 [Extended Data](ext_articles/59cd47df.ext.json)
+
+---
+
+### Opportunities for companies to raise debt capital through sustainable bonds for a Greener future
+
+*2024-07-20 01:02:00* · [`islandlk`](http://island.lk/opportunities-for-companies-to-raise-debt-capital-through-sustainable-bonds-for-a-greener-future/) · `en`
+
+The Securities and Exchange Commission of Sri Lanka (SEC) and The Colombo Stock Exchange (CSE), in collaboration with the Asian Development Bank (ADB) hosted an issuer forum titled “Towards a Greener Horizon: Unlocking Opportunities through Sustainability Bonds” recently in Colombo.
+
+The forum was aimed at enhancing awareness and building capacity among stakeholders including representatives from Government Authorities, State-Owned-Enterprises, potential issuers, investment banks/corporate finance advisors, verification/assurance providers, rating, and other agencies to create the foundation for a sustainable bond ecosystem in Sri Lanka.
+
+...
+
+[Data](articles/cb303bce.json)
+
+[Extended Data](ext_articles/cb303bce.ext.json)
+
+---
+
+### BOC gearing up for ‘Spirit Awards 2023’ to recognise excellence of its staff
+
+*2024-07-20 01:01:00* · [`islandlk`](http://island.lk/boc-gearing-up-for-spirit-awards-2023-to-recognise-excellence-of-its-staff/) · `en`
+
+The Bank of Ceylon (BOC) is gearing up for its annual ‘Spirit Awards 2023,’ scheduled for 21st July 2024. This prestigious event is designed to recognize the outstanding contributions of BOC’s branch network, showcasing the bank’s commitment to delivering exceptional service to its customers.
+
+The primary goal of the ‘Spirit Awards 2023’ is to honor the dedication, achievement and excellence of BOC’s staff, which have been pivotal to the bank’s success as Sri Lanka’s leading financial institution. The event will recognize top-performing branches, highlight achievements in distinct banking segments, and commend those who have excelled in workplace organization and efficiency. Additionally, it will acknowledge branches and departments that have effectively utilized digital tools and technologies to enhance customer service and operational efficiency.
+
+...
+
+[Data](articles/1097c158.json)
+
+[Extended Data](ext_articles/1097c158.ext.json)
+
+---
+
+### SLIC General and RDB forge Bancassurance partnership for seamless insurance access
+
+*2024-07-20 01:01:00* · [`islandlk`](http://island.lk/slic-general-and-rdb-forge-bancassurance-partnership-for-seamless-insurance-access/) · `en`
+
+Sri Lanka Insurance Corporation General Limited (SLICGL) has entered into a strategic bancassurance partnership with the Regional Development Bank (RDB), the leading financial institution dedicated to development finance, to ensure greater accessibility and convenience for customers seeking comprehensive insurance coverage.
+
+The landmark Memorandum of Understanding (MOU) was recently signed at the RDB Head Office in Kelaniya, with top management representatives from both organizations in attendance. The milestone marks a significant step towards providing the rural masses with accessible and affordable insurance services to empower them and contribute to uplifting the rural economy.
+
+...
+
+[Data](articles/87c28653.json)
+
+[Extended Data](ext_articles/87c28653.ext.json)
 
 ---
 
@@ -2243,127 +2325,5 @@ Professor Udwatta further stated that the exams that were adjourned due to the s
 [Data](articles/b1f71270.json)
 
 [Extended Data](ext_articles/b1f71270.ext.json)
-
----
-
-### Mass IT outage affects airlines, media and banks
-
-*2024-07-19 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100621/mass-it-outage-affects-airlines-media-and-banks) · `en`
-
-A raft of global institutions - including major banks, media outlets and airlines - have reported being hit by a mass IT outage.
-
-The US state of Alaska has warned its emergency services are affected, while there are also reports of the London Stock Exchange being impacted.
-
-Australia has been particularly hard hit with flights grounded, supermarkets experiencing checkout chaos, and broadcast networks left scrambling on air as autocue, graphics and computers failed.
-
-The cause of the outage is unclear, but many of those affected have linked it to Microsoft PC operating systems.
-
-An official Microsoft 365 service update posted to X earlier in the day said “ we’re investigating an issue impacting users ability to access various Microsoft 365 apps and services”.
-
-However a Microsoft spokesperson told the BBC on Friday afternoon that “the majority of services were recovered earlier” in the day.
-
-...
-
-[Data](articles/25578066.json)
-
-[Extended Data](ext_articles/25578066.ext.json)
-
----
-
-### SriLankan stops selling
-
-*2024-07-19 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198980) · `si`
-
-Sri Lanka's Cabinet suspended the bidding process for Sri Lanka Airlines after a meeting on July 9th. The government plans to adopt a new system moving forward.
-
-🟩
-
-The Cabinet has decided to suspend the bidding process which has been implemented in the country, the Sri Lanka National Airlines Sri Lanka Airlines.
-
-The decision was taken at the Cabinet meeting held on July 9th.
-
-The statement further states that the government will take steps to follow an alternative system in the future instead of this bidding process.
-
-◼️
-
-[Data](articles/3ed35cd4.json)
-
-[Extended Data](ext_articles/3ed35cd4.ext.json)
-
----
-
-### The media portrays my grandfather differently but I know who he is,- he will fight every day to make America the best nation again- Trump's granddaughter at the Republican Conference
-
-*2024-07-19 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/188841) · `ta`
-
-Donald Trump's granddaughter highlighted his dedication to making America great, contrasting media portrayals. She shared personal anecdotes of his caring nature and interest in her education, emphasizing his resilience amidst criticism.
-
-🟩
-
-Former US President Donald Trump's granddaughter's speech at the Republican Convention has attracted the attention of the world.
-
-I am addressing here to inform you about my grandfather's unknown, and Trump's granddaughter said that he was the one who gave me sweets at the time he did not care for all the grandparents.
-
-He said he was interested in knowing whether we were doing well in schools, "he said.
-
-Hai Trumped said that when I am at school, he will call him later.
-
-Many people are pushing my grandfather in crisis, but Trump's grandparents who have said that he is still sure that you are such an inspiration for us.
-
-High Trump said the media portrayed my grandfather differently but I know who he is.
-
-Trump's granddaughter has said that he is a loving person, and he will fight every day to make the United States a better nation again.
-
-◼️
-
-[Data](articles/8dd70800.json)
-
-[Extended Data](ext_articles/8dd70800.ext.json)
-
----
-
-### Pakistanis imprisoned in Sri Lanka to be repatriated in seven days
-
-*2024-07-19 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100620/pakistanis-imprisoned-in-sri-lanka-to-be-repatriated-in-seven-days) · `en`
-
-The High Commissioner of Sri Lanka to Pakistan (retd) Admiral Ravindra Chandrasiri Wijegunaratne met with Pakistani Federal Minister of Interior and Narcotics Control Mohsin Naqvi in Islamabad on Friday.
-
-In the meeting, the discussion took place regarding issues of mutual interest and release of Pakistani nationals imprisoned in Sri Lanka.
-
-It was decided that Pakistani prisoners incarcerated in Sri Lankan jails for many years would be brought back in seven days.
-
-Both sides agreed to complete the necessary steps for the repatriation of Pakistani prisoners in Sri Lanka.
-
-The Sri Lankan high commissioner assured all possible support for the release of Pakistani prisoners. He said that all steps are being finalized as soon as possible for the repatriation of Pakistani citizens imprisoned in Sri Lanka.
-
-In the meeting, the anti-narcotics and border security issues were also discussed.
-
-...
-
-[Data](articles/9dfbcbcb.json)
-
-[Extended Data](ext_articles/9dfbcbcb.ext.json)
-
----
-
-### Hingurakgoda News launched development activities
-
-*2024-07-19 12:28:02* · [`adalk`](https://www.ada.lk/breaking_news/හිඟුරක්ගොඩ-ජාත්‍යන්ර-ගුවන්-‌තොටුපොළේ-සංවර්ධන-කටයුතු-අරඹයි/11-410870) · `si`
-
-Development began on renovating Sri Lanka's historic Hingurakgoda airport, originally built by the British Royal Air Force during WWII. The project, aimed at transforming it into an international airport, is funded by the current government. The first phase includes extending the runway by 2287 meters, with plans to accommodate larger aircraft like the Boeing B737. Expected to be completed in six months, the total cost is estimated at 17 billion rupees, managed by the Airport and Aviation Company.
-
-🟩
-
-According to a present government decision, the construction work required to renovate the ancient airport in Sri Lanka, Hingurakgoda internal airports, was started by the Minister of Naval Siripala de Silva today.
-
-The airport was built on behalf of the Royal Air Force in England during World War II, and the Minneriya Air Force Center (RAF MINNERIY) was introduced.
-
-Located in the center of the country, President Ranil Wickremesinghe and the present government decided to transform the objective of achieving the economy of the country into international airport. Accordingly, the funding of Rs.. Under the first phase of these financial provisions, the first phase of 2287 meters and the overall track of up to 2,500 meters is extended.
-
-...
-
-[Data](articles/107d487a.json)
-
-[Extended Data](ext_articles/107d487a.ext.json)
 
 ---

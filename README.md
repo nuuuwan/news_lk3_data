@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 08:35:36**
+As of **2024-07-20 08:54:33**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,219 (100.0%) of 36,220 articles have been extended.
+36,220 (100.0%) of 36,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### බංග්ලාදේශයේ ඇඳිරි නීතිය පනවයි
+### Bangladesh's curfew imposed
 
 *2024-07-20 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199005) · `si`
 
-රට පුරා පැවැත්වෙන ප්‍රචණ්ඩක්‍රියා වැළැක්වීම සඳහා එම පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය පවසයි.
+In response to nationwide violence, Bangladesh imposed a curfew, resulting in over 50 deaths and 1000 injuries. The government closed schools and universities, suspended TV news channels after an incident involving elderly protesters, and faced protests against job quotas and the recognition of 1971 independence fighters. Despite a 2018 Supreme Court ruling, efforts continue to restore the quota system based on a High Court decision.
 
-දෙසතියක පමණ කාලයක සිට බංග්ලාදේශයේ ඩකා අගනුවර කේන්ද්‍ර කරගෙන ක්‍රියාත්මක සිසු විරෝධතා මර්දනයට රජය ගත් දැඩි පියවර හමුවේ පුද්ගලයින් 50කට වැඩි දෙනෙකු මියගොස් තවත් දහසක් පමණ තුවාල ලබා ඇත.
+🟩
 
-රට තුළ උද්ගතව ඇති තත්ත්වය සැලකිල්ලට ගනිමින් එරට පාසල් සහ විශ්වවිද්‍යාල වසා දැමීමටද රජය පියවර ගෙන ඇත.
+According to foreign media reports, the steps have been taken to prevent violence across the country.
 
-කලහකාරීව හැසිරෙන විරෝධතාකරුවන් රජයේ රූපවාහිනී නාලිකාවට ගිනි තබා තිබූ අතර මේ වනවිට එරට සියලු ම රූපවාහිනී ප්‍රවෘත්ති නාලිකා විකාශය අත්හිටුවා ඇති බව වාර්තා වේ.
+More than 50 people were killed and another 1000 wounded due to the strict action taken by the Government of Dhaka Pupils in Bangladesh.
 
-සිසුන් මෙලෙස විරෝධතාවේ නිරත වන්නේ, 1971 නිදහස් සටනේ නියමුවන් යුද විරුවන් ලෙස සලකමින් ඔවුන්ගේ දරුවන්ට රජයේ රැකියා ලබාදීමේදී ප්‍රමුඛත්වය දීමේ කෝටා ක්‍රමවේදයට විරෝධය පළ කරමිනි.
+The government has also taken steps to close schools and universities in view of the situation in the country.
 
-මෙම කෝටා ක්‍රමවේදය නීති විරෝධී බවට 2018 දී බංග්ලාදේශ ශ්‍රේෂ්ඨාධිකරණය තීන්දුවක් ලබාදී තිබුණත් මහාධිකරණ තීන්දුවක් පදනම් කරගනිමින් එය යළි පණගැන්වීමට රජය උත්සාහ කිරීම මේ විරෝධයට පදනම් වී තිබේ.
+The aging protesters were set on fire to the government TV channel and has been suspended for all television news channel.
+
+Students protest the 1971 independent fighting pilots as war heroes and protesting the quota method of promoting government jobs.
+
+Although the Bangladesh Supreme Court is illegal in 2018, the Government is based on the attempt to restore it based on a High Court decision.
 
 ◼️
 
 [Data](articles/b1d63e2f.json)
+
+[Extended Data](ext_articles/b1d63e2f.ext.json)
 
 ---
 

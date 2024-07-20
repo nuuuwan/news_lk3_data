@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 21:35:39**
+As of **2024-07-20 21:54:57**
 
 ## Newspaper Stats
 
-*Scraped **36,291** Articles*
+*Scraped **36,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,82 @@ economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,271
 adaderanalk | 4,196
-tamilmirrorlk | 4,419
+tamilmirrorlk | 4,420
 dailymirrorlk | 4,733
 virakesarilk | 5,677
-adaderanasinhalalk | 6,080
+adaderanasinhalalk | 6,082
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,289 (100.0%) of 36,291 articles have been extended.
+36,291 (100.0%) of 36,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### பொன்சேகாவுக்கு பதிலாக இம்தியாஸ்
+### යළිත් දුම්රිය වර්ජනයක් කළොත් රැකියාව අහිමි වෙයි ?
+
+*2024-07-20 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199029) · `si`
+
+ජනතාව අපහසුතාවයට පත්වන ආකාරයෙන් යළිත් වරක් දුම්රිය සේවකයින් වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරතවුවහොත් ඔවුන් සේවය අතහැර ගියා සේ සලකන බව ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+ප්‍රවාහනය අත්‍යවශ්‍ය සේවයක් බවට පත්වී තිබියදී වර්ජනවල නිරත වීම අතිශය වැරදි සහගත ක්‍රියාවක් බවත් ඕනෑම ගැටලුවක් සාකච්ඡා කිරීමට දුම්රිය සේවකයින්ට අවස්ථාව සලසාදී ඇති බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+මතභේදකාරී තත්ත්වයකට තුඩු දී ඇති 2020 වසරේ දී වැඩ අවසන් වු හැටන් නව දුම්රිය ස්ථානය සහ වෙළෙඳ සංකීර්ණය මේ දක්වාත් විවෘත කර නොමැති අතර එහි නිරීක්ෂණ චාරිකාවකට එක්වීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා එම අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/13545509.json)
+
+---
+
+### கைதியின் முகத்தை வெட்டிய கைதி
+
+*2024-07-20 21:25:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதியின்-முகத்தை-வெட்டிய-கைதி/175-340720) · `ta`
+
+மாத்தறை சிறைச்சாலையில் கைதி ஒருவர் இன்று (20) மற்றொரு கைதியின் முகத்தை பிளேடால் வெட்டி காயப்படுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/7be1e387.json)
+
+---
+
+### මෙන්ඩිස් LPL පිටිය වර්ණවත් කරයි
+
+*2024-07-20 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199028) · `si`
+
+ලංකා ප්‍රිමියලීග් ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පුර්ව තරගය කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සහ ජැෆ්නා කින්ග්ස් කණ්ඩායම අද (20) පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනා ගත් කැන්ඩි ෆැල්කන්ස් කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීම සඳහා ජැෆ්නා කින්ග්ස් කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පළවෙන් පන්දුවට පහරදුන් ජැෆ්නා කින්ග්ස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 187ක් රැස්කළේය.
+
+එහිදී ජැෆ්නා කින්ග්ස් කණ්ඩායම වෙනුවෙන් අගනා ඉනිමක් ක්‍රීඩා කළ කුසල් මෙන්ඩිස් නොදැවී ලකුණු 105ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/89491889.json)
+
+---
+
+### Imtiaz instead of Fonseka
 
 *2024-07-20 21:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-பதிலாக-இம்தியாஸ்/175-340719) · `ta`
 
-பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகாவுக்குப் பதிலாக சமகி ஜன பலவேகய (SJB) கட்சியின் புதிய தலைவராக தேசியப் பட்டியல் நாடாளுமன்ற உறுப்பினர் இம்தியாஸ் பகீர் மார்க்கர் நியமிக்கப்படவுள்ளார்
+Imtiaz Bhakir Markar, a National List MP, replaces Field Marshal Sarath Fonseka as the SJB party leader.
+
+🟩
+
+National List Member of Parliament Imtiaz Bhakir Markar will be appointed as the new leader of the Samaki Jana Balavegaya (SJB) party replace MP Field Marshal Sarath Fonseka
 
 ◼️
 
 [Data](articles/f0d1a119.json)
+
+[Extended Data](ext_articles/f0d1a119.ext.json)
 
 ---
 
@@ -576,25 +628,33 @@ At the end, the Asian Development Bank has been given a loan for ten thousand pi
 
 ---
 
-### බංග්ලාදේශය උණුසුම් වෙයි - විරෝධතාවලින් 65ක් මරුට
+### Bangladesh warms about 65 protests
 
 *2024-07-20 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශය-උණුසුම්-වෙයි---විරෝධතාවලින්-65ක්-මරුට/11-410875) · `si`
 
-බංග්ලාදේශයේ ඩකා අගනුවර ඇති වූ කෝලාහල හේතුවෙන් තවත් පුද්ගලයින් 35 දෙනෙකු ජීවිතක්ෂයට පත්වීමෙන් අනතුරුව එරට බලධාරීන් විසින් රටපුරා ඇඳිරි නීතිය පනවා තිබේ.
+In Bangladesh, over 65 protests led to violence, resulting in 35 deaths and prompting a government-imposed curfew. The unrest was sparked by the government's decision to reduce state job benefits for families of freedom warriors. The Prime Minister's office responded by releasing prisoners and deploying the army to maintain peace, as announced by Government Spokesman Islam Khan. Violence has so far claimed 67 lives, disrupted bus and train services, and closed schools and universities nationwide.
 
-1971 රටේ නිදහස් යුද්ධයේ ප්‍රවීණයන්ගේ පවුල් සඳහා රාජ්‍ය රැකියා විශාල සංඛ්‍යාවක් වෙන් කිරීමේ නීතියක් රජයට කපා හරින ලෙස සිසුන් කරන ඉල්ලීම් නිසා ප්‍රචණ්ඩත්වයේ දින කිහිපයක් ඇවිල ගොස් තිබේ.
+🟩
 
-සිකුරාදා නර්සින්ඩි බන්ධනාගාරයට එල්ල වූ ප්‍රහාරයකින් රැඳවියන් සිය ගණනක් නිදහස් කරනු ලැබීමෙන් පසු අගමැති කාර්යාලය ඇඳිරි නීතිය ප්‍රකාශයට පත් කළේය.
+Due to the riots in the capital of the capital of Dhaka, 35 persons have died due to the deceased to the country.
 
-රජයේ ප්‍රකාශක  ඉස්ලාම් ඛාන් පැවසුවේ සාමය යථා තත්ත්වයට පත් කිරීම සඳහා හමුදාව වීදිවලට ​​යොදවන බවයි.
+Violence has promoted several days due to the demands of the government to cut a large number of state jobs to the families of the country's freedom warfare.
 
-"සිවිල් බලධාරීන්ට සහය දැක්වීම සඳහා ඇඳිරි නීතිය පැනවීමට සහ හමුදාව යෙදවීමට රජය තීරණය කර ඇත," ඔහු නිවේදනයක් නිකුත් කරමින් කියා සිටියේය.
+The Prime Minister's office declared curfew after hundreds of detainees were released by a Nervandand's prison.
 
-ප්‍රචණ්ඩත්වය ඇති වූ දා සිට මේ වන විට පුද්ගලයින් 67 ක් පමණ මිය ගොස් ඇත - ජංගම අන්තර්ජාල සහ දුරකථන මාර්ග ක්‍රියා විරහිත වීමත් සමඟ සම්පූර්ණයෙන් පාහේ සන්නිවේදන වසා දැමීම හේතුවෙන් නිශ්චිත සංඛ්‍යාව තක්සේරු කිරීම දුෂ්කර වී තිබේ.
+Government spokesman Islam Khan said the army is deployed to recover peace.
 
-...
+"The government has decided to impose curfew and deploying the army," he issued an announcement.
+
+About 67 people have been killed since the influence of violence.
+
+It is reported that buses and train services have also been stopped until the schools and universities throughout the year.
+
+◼️
 
 [Data](articles/eeb245df.json)
+
+[Extended Data](ext_articles/eeb245df.ext.json)
 
 ---
 
@@ -2281,55 +2341,5 @@ The 2022 Aragalaya was a landmark event in Sri Lankan politics. It was the harbi
 [Data](articles/8e6aa1b5.json)
 
 [Extended Data](ext_articles/8e6aa1b5.ext.json)
-
----
-
-### Launch of ‘Lawmaking in Dutch Sri Lanka’
-
-*2024-07-19 23:21:46* · [`dailyftlk`](https://www.ft.lk/opinion/Launch-of-Lawmaking-in-Dutch-Sri-Lanka/14-764495) · `en`
-
-Tambapanni Academic Publishers invites the public for the launch of ‘Lawmaking in Dutch Sri Lanka: Navigating Pluralities in a Colonial Society’, written by Dr. Nadeera Rupesinghe.
-
-Prof. Dinesha Samararatne and Dr. Gehan Goonetilleke will discuss the book with Dr. Rupesinghe, at an event to be held at the auditorium of the National Archives, No. 7, Philip Gunewardena Mawatha on 22 July at 4 p.m. All are welcome.
-
-...
-
-[Data](articles/66354ea1.json)
-
-[Extended Data](ext_articles/66354ea1.ext.json)
-
----
-
-### Climate change and the role of communicators
-
-*2024-07-19 23:20:47* · [`dailyftlk`](https://www.ft.lk/columns/Climate-change-and-the-role-of-communicators/4-764494) · `en`
-
-Media, journalists, and other communicators play an important role in shaping the perception and understanding of climate change and enabling effective action
-
-Climate change is one of the key global challenges of the 21st century. To effectively address it, countries across the world need to work together in line with their respective responsibilities and capabilities, employing a whole-of-society approach that brings together governments, the private sector, civil society, and the general public. For this reason, effective climate communications are vital not only for creating public awareness and providing relevant information but also for building momentum and facilitating ambitious climate action, green growth, and a just transition.
-
-...
-
-[Data](articles/55e1425f.json)
-
-[Extended Data](ext_articles/55e1425f.ext.json)
-
----
-
-### The bus from Jaffna to Kadirgamam crashes
-
-*2024-07-19 23:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-இருந்து-கதிர்காமம்-சென்ற-பஸ்-விபத்துக்குள்ளானது/71-340699) · `ta`
-
-A bus en route from Jaffna to Kadirgamam crashed near Kengithurai Bridge on the A15 road, causing an accident.
-
-🟩
-
-A bus traveling from Jaffna to Kadirgamam to Kadirgamam, a bus traveling along the A15 Trincomalee - Batticaloa main road, crashed near the Kengithurai Bridge this evening.
-
-◼️
-
-[Data](articles/1cfddbe2.json)
-
-[Extended Data](ext_articles/1cfddbe2.ext.json)
 
 ---

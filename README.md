@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 09:35:36**
+As of **2024-07-20 09:55:05**
 
 ## Newspaper Stats
 
-*Scraped **36,226** Articles*
+*Scraped **36,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,060
 economynextcom | 2,165
 dailyftlk | 2,314
-adalk | 3,267
+adalk | 3,268
 adaderanalk | 4,181
 tamilmirrorlk | 4,403
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,224 (100.0%) of 36,226 articles have been extended.
+36,226 (100.0%) of 36,227 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 [Data](articles/46389882.json)
 
+[Extended Data](ext_articles/46389882.ext.json)
+
 ---
 
-### இலங்கைக்கு வந்துகொண்டிருந்த கப்பலில் திடீர் தீ
+### Sudden fire on a ship arriving in Sri Lanka
 
 *2024-07-20 08:56:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-வந்துகொண்டிருந்த-கப்பலில்-திடீர்-தீ/175-340707) · `ta`
 
-இந்த கப்பல் சர்வதேச கடல்சார் அபாயகரமான சரக்குகளை ஏற்றிச் வந்ததாகவும், வணிகக் கப்பலின் முன் பகுதியில் வெடிப்புகள் ஏற்பட்டதாகவும் கூறப்படுகிறது.
+A ship carrying hazardous cargo exploded off Sri Lanka, prompting the Indian Navy and two ICG vessels to battle the blaze amidst rough weather.
 
-சீரற்ற வானிலையையும் மீறி தீயை அணைக்கும் பணியை இந்திய கடற்படை மேற்கொண்டு வருகிறது.
+🟩
 
-கூடுதலாக இரண்டு ICG கப்பல்கள் கோவாவில் இருந்து தீயை அணைக்கும் முயற்சிக்காக அனுப்பப்பட்டுள்ளன. R
+The ship was reportedly transporting international maritime hazardous cargo and explosion in the front of the business vessel.
+
+The Indian Navy is carrying out the task of extinguishing the fire despite the inclement weather.
+
+In addition two ICG ships have been sent for an attempt to extinguish fire from Goa. Remble
 
 ◼️
 
 [Data](articles/111e41b3.json)
+
+[Extended Data](ext_articles/111e41b3.ext.json)
 
 ---
 
@@ -1378,6 +1386,26 @@ Minister Jeevan Thondaman, Members of Parliament AHM. Fouzi, Yatamini Gunawarden
 
 ---
 
+### ජනපති රටෙන්ම සමාව ඉල්ලයි
+
+*2024-07-19 19:27:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-රටෙන්ම-සමාව-ඉල්ලයි/11-410871) · `si`
+
+සර්වජන ඡන්ද බලය හිමි වීමෙන් පසුව ප්‍රජාතන්ත්‍රවාදය අඛණ්ඩව ක්‍රියාත්මක එකම රට ශ්‍රී ලංකාව වන බවත් එම තත්ත්වය ඉදිරියටත් රැක ගැනීමට තමන් කැප වන බැවින් ව්‍යවස්ථා සංශෝධන සම්බන්ධයෙන් කිසිදු බියක් ඇති කර නොගත යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ව්‍යවස්ථා සංශෝධන සිදු කිරීමේදී තමන් එහි වගකීම බාර දෙන්නේ විෂය සම්බන්ධ පළපුරුදු අයකුට බවත් ඒ අනුව එවැනි කටයුතු සිදු කළේ කේ. එන් චොක්සි වැනි නීතිඥවරුන් සමඟ බවත් ජනාධිපතිවරයා සිහිපත් කළේය.
+
+කෙසේ වුවත් 2015 වසරේ ව්‍යවස්ථා සංශෝධනය සිදු කරන අවස්ථාවේදී චොක්සි මහතා ජීවතුන් අතර නොසිටි බැවින් එම කටයුත්ත ජයම්පති වික්‍රමරත්න නීතිඥවරයාට බාර දීමට සිදු වූ බවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කර සිටියේය.
+
+එම අවස්ථාවේ ඔහුගෙන් සිදු වූ අතපසුවීමක් නිසා වත්මන් ගැටළු සහගත තත්ත්වය ඇති ව තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා, ඒ පිළිබඳ තමන් ජනතාවගෙන් සමාව ඉල්ලා සිටින බවද පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ගාල්ල, බෙලිගහ ප්‍රදේශයේ ඉදිකළ නව අධිකරණ සංකීර්ණය විවෘත කිරීමේ අවස්ථාවට අද (19) එක් වෙමිනි.
+
+...
+
+[Data](articles/f9050690.json)
+
+---
+
 ### President says there should be no fear regarding constitutional amendment
 
 *2024-07-19 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100633/president-says-there-should-be-no-fear-regarding-constitutional-amendment) · `en`
@@ -2329,27 +2357,5 @@ The move comes ahead of a presidential poll possibly in early October which the 
 [Data](articles/eb7d9bf3.json)
 
 [Extended Data](ext_articles/eb7d9bf3.ext.json)
-
----
-
-### The trees were broken on the rails;Mountain Rail Services Victim
-
-*2024-07-19 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/188852) · `ta`
-
-Tree falls block rail service between Padipola and Ohiya, stopping trains like the Udaratta Menige. Workers clearing trees may delay services.
-
-🟩
-
-Train services have been blocked in the hill country as trees have fallen across the railway line between Padipola and Ohiya railway stations.
-
-It has been reported that the Udaratta Menige fast train from Badulla to Colombo has been stopped between Padipola and Ohiya railway stations.
-
-Train workers are engaged in removing trees that have fallen. In this case, the train services may be delayed.
-
-◼️
-
-[Data](articles/56fc6c16.json)
-
-[Extended Data](ext_articles/56fc6c16.ext.json)
 
 ---

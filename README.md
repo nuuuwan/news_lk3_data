@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 20:05:18**
+As of **2024-07-20 20:20:02**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 6,080
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,286 (100.0%) of 36,287 articles have been extended.
+36,287 (100.0%) of 36,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### බංග්ලාදේශයේ සිටින ලාංකික සිසුන් පිරිසක් අද දිවයිනට
+### A group of Sri Lankan students in Bangladesh to visit the island today
 
 *2024-07-20 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199027) · `si`
 
-බංග්ලාදේශය තුළ උද්ගතව ඇති නොසන්සුන්කාරී තත්ත්වය හේතුවෙන් උසස් අධ්‍යාපනය සඳහා එරටට ගිය ශ්‍රී ලාංකික සිසුන් පිරිසක් අද (20) දිවයිනට පැමිණීමට නියමිත බව විදේශ කටයුතු අමාත්‍යංශය පවසයි.
+Due to unrest in Bangladesh, the Ministry of External Affairs has advised Sri Lankan students against visiting. Despite this, a group of students will travel to Sri Lanka today, assured by the High Commissioner of their safety. The ministry also assures the safety of around 3,000 Sri Lankan workers in Bangladesh.
 
-එරට විශ්වවිද්‍යාල 03ක ශ්‍රී ලාංකික සිසුන් 50 දෙනෙකු පමණ අධ්‍යයන කටයුතුවල නිරත වන බව අමාත්‍යංශය පෙන්වා දෙයි.
+🟩
 
-බංග්ලාදේශයේ විශ්වවිද්‍යාල සිසුන් විසින් ක්‍රියාත්මක කර ඇති විරෝධතා හේතුවෙන් එරට විශ්වවිද්‍යාල වසා දමා තිබුණ ද ජාත්‍යන්තර සිසුන්ට එරටින් ඉවත් වන ලෙස දැනුම් දීමක් සිදුකර නොතිබීම හේතුවෙන් ශ්‍රී ලාංකික සිසුන්ට ආරක්ෂිතව නේවාසිකාගාරවල රැඳී සිටීමේ හැකියාව පවතින බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+The Ministry of External Affairs says that due to the unrest in Bangladesh, the Ministry of External Affairs says.
 
-බංග්ලාදේශයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා එම සිසුන් පෞද්ගලිකව හමුවී ඔවුන්ගේ අවශ්‍යතා සම්බන්ධයෙන් සොයා බලා ඇති අතර ශ්‍රී ලංකාවට සිසුන්ගේ ආරක්ෂාව පිළිබඳව එම විශ්වවිද්‍යාලවල පාලනාධිකාරිය සමග ද සාකච්ඡා කර තිබේ.
+At least 50 Sri Lankan students in three universities are engaged in studies.
 
-ආරක්ෂාව සම්බන්ධයෙන් සෑහීමකට පත් නොවන්නේ නම් ශ්‍රී ලංකාවට යාමේ හැකියාව පවතින බවද මහකොමසාරිස්වරයා එම සිසුන්ට දැනුම් දී ඇති බව සඳහන්ය.
+The Ministry of External Affairs said that although the universities were closed down by university students in Bangladesh.
+
+The High Commissioner of Sri Lanka, Bangladesh, has met with the students in person and discussed their needs and discusses the security of the students to Sri Lanka.
+
+The High Commissioner has informed the students that Sri Lanka has been able to go to Sri Lanka if he is not satisfied with security.
+
+Accordingly, a group of Sri Lankan students are due to arrive in the island today, the External Affairs Ministry said.
+
+The Ministry said that about 3,000 Sri Lankan workers remain in Bangladesh and have no problem with the safety of their security.
 
 ...
 
 [Data](articles/742b7dce.json)
+
+[Extended Data](ext_articles/742b7dce.ext.json)
 
 ---
 

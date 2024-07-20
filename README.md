@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 22:35:23**
+As of **2024-07-20 22:53:18**
 
 ## Newspaper Stats
 
-*Scraped **36,298** Articles*
+*Scraped **36,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,85 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,271
-adaderanalk | 4,197
+adaderanalk | 4,198
 tamilmirrorlk | 4,420
 dailymirrorlk | 4,733
-virakesarilk | 5,678
+virakesarilk | 5,679
 adaderanasinhalalk | 6,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,297 (100.0%) of 36,298 articles have been extended.
+36,298 (100.0%) of 36,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### ශ්‍රී ලංකා කාන්තා කණ්ඩායම ආසියානු කුසලානයේ පළමු ජය ලබයි
+### Sri Lanka tourism has potential to grow - former Australian PM
+
+*2024-07-20 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100656/sri-lanka-tourism-has-potential-to-grow-former-australian-pm) · `en`
+
+Former Australian Prime Minister Scott Morrison commended Sri Lanka’s tourism industry, highlighting that it has great potential to grow with what the island nation can offer to visiting guests, especially Sri Lankan cuisines.
+
+The visiting former Australian Prime Minister made these comments while participating in an event held in Mount Lavinia.
+
+Upon arrival with his spouse Jenny, Scott Morrison, who is fond of Sri Lankan cuisines, showcased his cooking by cooking a mud crab curry and a chicken curry, which are two of his favourite Sri Lankan curry dishes made using Sri Lankan spices.
+
+The former Australian Premier was also accompanied by the Australian Deputy High Commissioner in Colombo, Lalita Kapur.
+
+Morrison arrived in Sri Lanka for a vacation on July 17 and is expected to stay in the island nation until July 25.
+
+During his visit, the former Australian PM also attended the Sri Lanka Human Capital Summit 2024 held on Thursday (18) as the Guest of Honour
+
+◼️
+
+[Data](articles/a36ec482.json)
+
+---
+
+### Sri Lankan women's group wins the first of Asia Cup
 
 *2024-07-20 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199031) · `si`
 
-ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ සිය පළමු ජය වාර්තා කිරීමට චමරි අතපත්තු ප්‍රමුඛ ශ්‍රී ලංකා කාන්තා කණ්ඩායම අද (20) සමත් විය.
+In the Asia Cup Women's Cricket Tournament, Sri Lanka's women team secured their first victory against Bangladesh. Led by Chamari Atapattu, the team chased down Bangladesh's score of 111 runs, losing only 2 wickets. Key contributors included Daishiya Pravamani and Eager Priyadarshani with two wickets each, and Hersha Madhava with 33 runs. The match ended with Sri Lanka achieving the target in 17 overs, marking a significant win for the team.
 
-රංගිරි දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති එම තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශ කාන්තා කණ්ඩායම නියමිත පන්දුවාර 20දී කඩුලු 8ක් දැවී ලකුණු 111ක් රැස් කළේය.
+🟩
 
-පන්දුයැවිමේදි උදේෂිකා ප්‍රබෝධනී සහ ඉනෝෂි ප්‍රියදර්ශනී කඩුලු දෙක බැගින් දවා ගත්තෝය.
+Chamari Atapattu played its first winning wins in the Asia Cup Women's Cricket Tournament today (20).
 
-ලකුණු  112ක ජයග්‍රාහී ඉලක්කයක් හඹා යාමට පිටියට පිවිසි ශ්‍රී ලංකා කාන්තා කණ්ඩායමට සාර්ථක අරම්භයක් ලබාදිමට නායිකා චමරි අතපත්තු සහ විශ්මි ගුණරත්න සමත්වූවෝය.
+Bangladesh women scored 111 runs for the loss of 8 wickets in their allotted 20 overs.
 
-චමරි අතපත්තු ලකුණු 12ක් රැස් කළ අතර ශ්‍රී ලංකා කාන්තා කණ්ඩායම ජය මාවත විවර කර දුන් විශ්මි ගුණරත්න ලකුණු 51ක් රැස්කළ අතර හර්ෂිතා මාධවවී නොදැවී ලකුණු 33ක් රැස් කළාය.
+Daishiya Pravamani and Eager Priyadarshani took two wickets each.
 
-ඒ් අනුව ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 17යි එක්පන්දුවක් අවසානයේ කඩුලු 2ක් දැවී ජයග්‍රාහී සීමාව පසුකර ගියේය.
+Leader Chamari Gunaratne and Simphasha Gunaratne were able to provide a success of the Sri Lanka women's group to chase 112 runs.
+
+Chamari Atapattu scored 12 runs while Sri Lanka Women's Women's Girls won 51 runs. Hersha Madhava scored 33 runs.
+
+So Sri Lanka women won the winning limit at the end of 17 wickets in the end of 17 overs.
 
 ◼️
 
 [Data](articles/148e031c.json)
+
+[Extended Data](ext_articles/148e031c.ext.json)
+
+---
+
+### யேமனின் துறைமுக நகரம் மீது இஸ்ரேல் - டெல்அவி தாக்குதலிற்கு பதிலடி
+
+*2024-07-20 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188968) · `ta`
+
+யேமனின் ஹொடெய்டா நகரின் மீது இஸ்ரேல் வான்வெளி தாக்குதலை மேற்கொண்டுள்ளதாக ஹெளத்தி கிளர்ச்சியாளர்கள் தெரிவித்துள்ளனர்.
+
+யேமனின் செங்கடல் துறைமுக நகரான ஹொடெய்டா மீது தாக்குதல் இடம்பெற்றுள்ளதாக யேமன் கிளர்ச்சியாளர்களின் அல்மஷிரா தொலைக்காட்சி தெரிவித்துள்ளது.
+
+வெள்ளிக்கிழமை இஸ்ரேல் தலைநகர் மீது ஹெளத்தி கிளர்ச்சியாளர்கள் ஆளில்லா விமானதாக்குதலை மேற்கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b6b433d0.json)
 
 ---
 
@@ -2333,53 +2377,5 @@ This landmark event, held at the Royal Colombo Golf Club, united blockchain enth
 [Data](articles/9bc35600.json)
 
 [Extended Data](ext_articles/9bc35600.ext.json)
-
----
-
-### Economic benefits to reach people
-
-*2024-07-20 00:01:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதாரப்-பலன்கள்-மக்களை-சென்றடைய-வேண்டும்/175-340703) · `ta`
-
-President Wickremesinghe emphasizes sharing Sri Lanka's economic gains with the public, vowing not to resign. He met with transport association reps in Colombo, discussing ideas like driver rights protection.
-
-🟩
-
-President Ranil Wickremesinghe said that the benefits of Sri Lanka's economic progress should be shared with the public and that he will never quit.
-
-The President stressed this at a meeting with representatives of the professional three -wheeler and transport associations at the Sri Lanka Exhibition and Conference Hall in Colombo yesterday.
-
-Representatives of the Transport Associations also handed over a great deal of ideas and proposals, including protecting the rights of the three -wheeler drivers.. (A)
-
-◼️
-
-[Data](articles/82c37887.json)
-
-[Extended Data](ext_articles/82c37887.ext.json)
-
----
-
-### 2024-07-19 (Friday)
-
-### Opportunity to vote for specialists
-
-*2024-07-19 23:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோர்-வாக்களிக்க-சந்தர்ப்பம்/175-340702) · `ta`
-
-In the upcoming presidential election, voters with disabilities, including the deaf and visually impaired, will have the option to vote for candidates who understand their needs. A unique system using Braille will identify ballots, marking a significant step towards inclusivity. This initiative follows successful trials in various regions and aims to enhance accessibility at polling stations.
-
-🟩
-
-For the first time in the presidential election, there is an opportunity to vote for those who are vigilant and deaf.
-
-Special system will be implemented to identify the identity of the ballot in the Braille system, said National Elections Commission Chairman RML Ratnayake.
-
-The pioneering plans have been carried out in various areas over the past few days and the same facilities will be provided to the presidential election based on its successful results.
-
-The Chairman of the National Elections Commission stated that special facilities will be provided to go to the right low polling stations. (A)
-
-◼️
-
-[Data](articles/4545588e.json)
-
-[Extended Data](ext_articles/4545588e.ext.json)
 
 ---

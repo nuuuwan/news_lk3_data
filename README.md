@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 13:05:43**
+As of **2024-07-20 13:20:23**
 
 ## Newspaper Stats
 
-*Scraped **36,250** Articles*
+*Scraped **36,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,268
-adaderanalk | 4,189
-tamilmirrorlk | 4,406
+adaderanalk | 4,190
+tamilmirrorlk | 4,408
 dailymirrorlk | 4,733
 virakesarilk | 5,673
-adaderanasinhalalk | 6,066
+adaderanasinhalalk | 6,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,250 (100.0%) of 36,250 articles have been extended.
+36,250 (100.0%) of 36,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### ජනපති සමාව ගත් සිද්ධිය ගැන ජයම්පති දුන් පිළිතුර
+
+*2024-07-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199012) · `si`
+
+19 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය කෙටුම්පත් කිරීමේදී ජනාධිපතිවරයාගේ සහ පාර්ලිමේන්තුවේ ධුර කාලය වසර හයේ සිට වසර 5 දක්වා අඩු කළ නමුත්, එම ධුර කාල වැඩි කළ හැකි හය අවුරුද්දේ උපරිමය වෙනස් කිරීමට යෝජනා නොකළේ එවැන්නකට ජනමත විචාරණයක් අවශ්‍ය වූ බැවින් බව ජනාධිපති නීතිඥ ආචාර්ය ජයම්පතී වික්‍රමරත්න මහතා පවසයි.
+
+19 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථාව සම්බන්ධයෙන් ඊයේ (19) ගාල්ලේ පැවැති උත්සවයකදී ජනාධිපතිවරයා කළ ප්‍රකාශයට ජයම්පතී වික්‍රමරත්න මහතා අද (20) ප්‍රතිචාර දක්වා ඇත්තේ, මාධ්‍ය නිවේදනයක් නිකුත් කරමිනි.
+
+19 වැනි ව්‍යවස්ථා සංශෝධන ක්‍රියාවලිය අධීක්ෂණය සඳහා එවක අග්‍රාමාත්‍ය රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කැබිනට් අනුකමිටුවක් පත් කරන ලද අතර ඊට නීති කෙටුම්පත් දෙපාර්තමේන්තුවේ විශ්‍රාමික ජ්‍යෙෂ්ඨ නිලධාරීන් තිදෙනෙකු සහ ජනාධිපති නීතිඥ ජයම්පතී වික්‍රමරත්න මහතා ද සම්බන්ධව සිටියේය.
+
+ඊයේ ගාල්ලේ පැවැති උත්සවයකදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසුවේ, 19 වැනි ආණ්ඩුකම ව්‍යවස්ථාවේ 83 වැනි වගන්තිය වෙනස් නොකිරීම ජයම්පතී වික්‍රමරත්න මහතා අතින් පළපුරුද්ද නොමැතිකමින් සිදුවූ අත්වැරැද්දක් ලෙසය.
+
+...
+
+[Data](articles/5ffadfc5.json)
+
+---
+
+### Massive fire on Sir Lanka-bound ship carrying hazardous cargo off Goa
+
+*2024-07-20 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100648/massive-fire-on-sir-lanka-bound-ship-carrying-hazardous-cargo-off-goa) · `en`
+
+A massive fire erupted on a container cargo merchant vessel about 102 nautical miles south west of Goa on Friday. The vessel was on way from Gujarat’s Mundra to Sri Lankan capital Colombo, the Indian Coast Guard (ICG) said in a statement.
+
+On receiving the information, the Indian Coast Guard diverted the ship to proceed to the distressed vessel with maximum speed. Also, a Dornier aircraft took off for aerial assessment.
+
+According to the statement by Coast Guard, the ship is carrying Maritime Dangerous Goods (IMDG) cargo and explosions have been occurring on front part of the merchant vessel.
+
+The Indian Coast Guard ship arrived in the area and is carrying out fire-fighting operation despite rough sea and inclement weather conditions, the statement added.
+
+The panic-stricken crew has been reassured of the safety by the Indian Coast Guard ship. As per the statement, two ICG ships sailed with dispatch from Goa to augment firefighting efforts.
+
+...
+
+[Data](articles/15927154.json)
+
+---
+
+### பரீட்சைக்கு செல்ல மறுத்த மகள் - யாழில் தாய் தற்கொலை
+
+*2024-07-20 12:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பரீட்சைக்கு-செல்ல-மறுத்த-மகள்-யாழில்-தாய்-தற்கொலை/71-340712) · `ta`
+
+யாழில் பரீட்சைக்கு செல்வதற்கு மகள் மறுத்தமையால் தாயார் தவறான முடிவெடுத்து உயிரை மாய்த்துள்ளார்.
+
+க.பொ.த சாதாரண பரீட்சையின் நடன படத்திற்கான செய்முறை பரீட்சை கடந்த 10ஆம் திகதி நடைபெற்றது. அதற்கு மகள் செல்ல மறுத்தமையால் , தாயார் விரக்தி அடைந்து தனது உயிரை மாய்க்க முயன்ற நிலையில் காப்பாற்றப்பட்டு , தெல்லிப்பழை ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டார்.
+
+அங்கிருந்து மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்ட நிலையில், வைத்திய சாலையில் சிகிச்சை பலனின்றி நேற்றைய தினம் வெள்ளிக்கிழமை உயிரிழந்துள்ளார்.  R
+
+◼️
+
+[Data](articles/e0f6d448.json)
+
+---
 
 ### Unidentified  body found floating in Diyawanna Lake
 
@@ -71,6 +125,26 @@ The clashes have also not been confined to Dhaka, with 26 districts reporting in
 [Data](articles/8fdcb2a9.json)
 
 [Extended Data](ext_articles/8fdcb2a9.ext.json)
+
+---
+
+### மூளாய் வைத்தியசாலையில் நகைகள் பணம் திருட்டு
+
+*2024-07-20 12:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூளாய்-வைத்தியசாலையில்-நகைகள்-பணம்-திருட்டு/71-340711) · `ta`
+
+யாழ்ப்பாணம் - மூளாய் வைத்தியசாலையில் நோயாளர் பராமரிப்பு பணியாளர்களின் நகை மற்றும் பணம் என்பன கொள்ளையடிக்கப்பட்டுள்ளது.
+
+வைத்தியசாலையில் நோயாளர் பராமரிப்பு பணிகளில் ஈடுபடும் பணியாளர்களின், கடமை நேரத்தில் அவர்களின் உடமைகளை பாதுகாப்பாக வைப்பதற்காக அறை ஒன்றினுள் 09 பெட்டகங்கள் வைக்கப்பட்டுள்ளன.
+
+வழமை போன்று நேற்றைய தினமும் பணியாளர்கள் தமது உடமைகளை பெட்டகத்தினுள் வைத்து பூட்டி விட்டு , தமது கடமைகளுக்கு சென்று இருந்தனர்.
+
+கடமை முடிந்து வந்து பார்த்த வேளை பெட்டகங்கள் உடைக்கப்பட்டு , பணியாளர்களின் இரண்டே கால் பவுண் நகைகள் மற்றும் 55 ஆயிரத்து 500 ரூபாய் என்பன கொள்ளையடிக்கப்பட்டுள்ளது.
+
+சம்பவம் தொடர்பில் பாதிக்கப்பட்ட பணியாளர்களால் வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ள நிலையில் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.  R
+
+◼️
+
+[Data](articles/4f4a626b.json)
 
 ---
 
@@ -2275,101 +2349,5 @@ Reports said Microsoft systems were hit by an outage which had a cascading effec
 [Data](articles/48259f5f.json)
 
 [Extended Data](ext_articles/48259f5f.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 303.55/65 to US dollar
-
-*2024-07-19 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-55-65-to-us-dollar-172942/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.55/65 to the US dollar on Friday, from 304.00/10 to the US dollar on Thursday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.40/55 percent, up from 10.30/45 percent.
-
-A bond maturing on 15.12.2027 closed at 11.50/65 percent, down from 11.55/65 percent.
-
-A bond maturing on 01.05.2028 closed at 11.70/85 percent, up from 11.70/80 percent.
-
-A bond maturing on 15.09.2029 closed at 12.00/10 percent, up from 12.00/05 percent. (Colombo/Jul19/2024)
-
-◼️
-
-[Data](articles/0856a0b6.json)
-
-[Extended Data](ext_articles/0856a0b6.ext.json)
-
----
-
-### SriLankan Airlines restores internet booking services following global outage
-
-*2024-07-19 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100630/srilankan-airlines-restores-internet-booking-services-following-global-outage) · `en`
-
-SriLankan Airlines announced that its internet booking services have been fully restored as of 08:30 GMT (02.00 pm local time), following a global outage of third-party service providers that affected the airline’s online booking services.
-
-“We understand that this may have impacted the experience of some of our passengers, and we sincerely apologize for any inconvenience caused,” the airline said in a brief statement.
-
-Passengers are instructed to contact the Global Contact Centre at +94 19733 1979 for any further assistance with existing or new bookings.
-
-The failure of IT systems across the world have caused delays and issues at airports across Asia, causing several airlines to ground flights.
-
-AirAsia said its “core reservation and check-in system” have been impacted by the Microsoft tech issues while Cebu Pacific Air said it was forced to handle all processes manually due to the outage.
-
-...
-
-[Data](articles/0e661464.json)
-
-[Extended Data](ext_articles/0e661464.ext.json)
-
----
-
-### The killer of the leader of the cricket leader is arrested
-
-*2024-07-19 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198991) · `si`
-
-A shooter linked to the murder of a cricket team's former leader, Dhammika Nirosy, was arrested near his home. The suspect, aged 48, was found with drugs and is believed to have connections to foreign countries. He was remanded until August 3rd.
-
-🟩
-
-The shooter was arrested in front of the former leader of the Under-19 cricket team in front of his housing.
-
-The suspect was arrested by the Galle District Crimes Division yesterday evening.
-
-Officers said that the two suspects have come to the murder of Dhammika Nirosy, who had identified the two others.
-
-The 48-year-old suspect had been arrested in the Balapitiya area with 2,800 milligrams of ice.
-
-Elpitiya Divisional Crimes Divisional Secretariats have been recovered by the officers of the Elpitiya Divisional Secretariat.
-
-The police suspect that the murder was received from a foreign country.
-
-The suspect was produced before the Balapitiya Magistrate's Court and remanded until the 3rd of August.
-
-◼️
-
-[Data](articles/11143d07.json)
-
-[Extended Data](ext_articles/11143d07.ext.json)
-
----
-
-### No impediments to declaring Presidential Poll – Election Commission
-
-*2024-07-19 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100629/-no-impediments-to-declaring-presidential-poll-election-commission) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake says that there are no impediments to declaring the Presidential Election by the gazetting of the 22nd Amendment to the Constitution.
-
-Furthermore, the Elections Commissioner General stated that the commission has the power to fairly hold the upcoming elections despite any incoming influence.
-
-Earlier today, the 22nd Amendment to the Constitution was published in the Government Gazette by order of President Ranil Wickremesinghe.
-
-On Thursday (18), Minister of Justice Wijeyadasa Rajapakshe had instructed his ministry’s secretary not to publish the Gazette notification on the 22nd Amendment to the Constitution until the Presidential Election is held.
-
-The Justice Minister had claimed that this decision was made in order to eliminate the uncertainty regarding the holding of the presidential election.
-
-...
-
-[Data](articles/5754ddfc.json)
-
-[Extended Data](ext_articles/5754ddfc.ext.json)
 
 ---

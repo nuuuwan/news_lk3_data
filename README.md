@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 23:20:19**
+As of **2024-07-20 23:35:40**
 
 ## Newspaper Stats
 
-*Scraped **36,300** Articles*
+*Scraped **36,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 4,198
 tamilmirrorlk | 4,420
 dailymirrorlk | 4,733
 virakesarilk | 5,679
-adaderanasinhalalk | 6,084
+adaderanasinhalalk | 6,085
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,300 (100.0%) of 36,300 articles have been extended.
+36,300 (100.0%) of 36,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### ජැෆ්නා කින්ග්ස් අවසන් තරගයට
+
+*2024-07-20 23:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199032) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ අවසන් තරගයට සුදුසුකම් ලබාගැනීමට ජැෆ්නා කින්ග්ස් කණ්ඩායම අද (20) සමත් විය.
+
+ඒ දෙවන අවසන් පුර්ව වටයේ තරගයෙන් කැන්ඩි ෆැල්කන්ස් කණ්ඩායම එක් ලකුණකින් පරාජයට පත්කරමිනි.
+
+තරගයේ කාසියේ වාසිය දිනා ගත් කැන්ඩි ෆැල්කන්ස් කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීම සඳහා ජැෆ්නා කින්ග්ස් කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් ජැෆ්නා කින්ග්ස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 187ක් රැස්කළේය.
+
+එහිදී ජැෆ්නා කින්ග්ස් කණ්ඩායම වෙනුවෙන් අගනා ඉනිමක් ක්‍රීඩා කළ කුසල් මෙන්ඩිස් නොදැවී ලකුණු 105ක් රැස්කළේය.
+
+ලකුණු 188ක ඉලක්කයක් හඹා ගිය කැන්ඩි ෆැල්කන්ස් කණ්ඩායමේ පිතිකරුවන්ට නියමිත පන්දු ඕවර 20 අවසානයේ රැස් කර ගත හැකි වූයේ ලකුණු 186ක් පමණි.
+
+කැන්ඩි ෆැල්කන්ස් කණ්ඩායම වෙනුවෙන් ඇන්ඩ්‍රේ ෆ්ලෙචර් ලකුණු 38ක් රැස්කළ අතර කමිඳු මෙන්ඩිස්  ලකුණු 32ක් රැස්කළේය.
+
+පන්දු යැවීමේදී ජැෆ්නා කින්ග්ස් කණ්ඩායම වෙනුවෙන් ෆේබියන් ඇලන් කඩුලු 04ක් දවාගත් අතර විජයකාන්ත් වියස්කාන්ත් කඩුලු 03ක් දවාගත්තේය.
+
+◼️
+
+[Data](articles/a4e32dfc.json)
+
+---
 
 ### Sri Lanka tourism has potential to grow - former Australian PM
 
@@ -2367,23 +2393,5 @@ Highlighting the company’s unwavering dedication to enhancing outreach for Per
 [Data](articles/c2963a9c.json)
 
 [Extended Data](ext_articles/c2963a9c.ext.json)
-
----
-
-### Coin Ceylon and Intersect MBO launch South Asia’s first community hub in Sri Lanka
-
-*2024-07-20 00:19:53* · [`dailyftlk`](https://www.ft.lk/business/Coin-Ceylon-and-Intersect-MBO-launch-South-Asia-s-first-community-hub-in-Sri-Lanka/34-764512) · `en`
-
-Coin Ceylon officials at launch of first Intersect and Coin Ceylon Hub in South Asia, at Royal Colombo Golf Club
-
-Coin Ceylon, in collaboration with Intersect MBO, has marked a significant milestone in the blockchain landscape by launching the first Intersect Community Hub in South Asia, here in Sri Lanka.
-
-This landmark event, held at the Royal Colombo Golf Club, united blockchain enthusiasts, developers, diplomats, and industry leaders, all committed to promoting innovation, collaboration, and governance within the Cardano ecosystem.
-
-...
-
-[Data](articles/9bc35600.json)
-
-[Extended Data](ext_articles/9bc35600.ext.json)
 
 ---

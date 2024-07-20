@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 13:54:37**
+As of **2024-07-20 14:05:54**
 
 ## Newspaper Stats
 
-*Scraped **36,254** Articles*
+*Scraped **36,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,268
-adaderanalk | 4,190
+adaderanalk | 4,191
 tamilmirrorlk | 4,408
 dailymirrorlk | 4,733
 virakesarilk | 5,673
-adaderanasinhalalk | 6,067
+adaderanasinhalalk | 6,070
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,254 (100.0%) of 36,254 articles have been extended.
+36,254 (100.0%) of 36,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### අලි සබ්රි රහීම් ට ඇප
+
+*2024-07-20 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199015) · `si`
+
+පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්රි රහීම් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂ 02ක ශරීර ඇපයක් මත මුදා හැරීමට නියෝග කර තිබේ.
+
+එහිදී පුත්තලම වැඩබලන මහෙස්ත්‍රාත් නියෝග කර ඇත්තේ ඔහුට ජුලි 22 වනදා අධිකරණය හමුවේ පෙනී සිටින ලෙසය.
+
+අලි සබ්රි රහීම් අද (20) පෙරවරුවේ පොලිස් අත්අඩංගුවට ගෙන තිබුණි.
+
+ඔහුට පසුගියදා වරෙන්තු නිකුත් කෙරුණු අතර අද කල්පිටිය පොලීසියට පැමිණි අවස්ථාවේදී මෙලෙස අත්අඩංගුවට ගෙන ඇති බව වාර්තා විය.
+
+◼️
+
+[Data](articles/943b5903.json)
+
+---
+
+### චීනයේ පාලමක් කඩා වැටෙයි - 11ක් මියයයි
+
+*2024-07-20 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199014) · `si`
+
+වයඹදිග චීනයේ  Shaanxi පළාතේ අධිවේගී මාර්ගයක් දිවෙන පාලමක් කඩා වැටී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අනතුරින් අවම වශයෙන් පුද්ගලයින් 11 දෙනෙකු මියගොස් ඇති බව චීන වාර්තා සඳහන් කරයි.
+
+අදාළ ප්‍රදේශයට පැවති වර්ෂාව සහ හදිසි ගංවතුර තත්ත්වයක් හේතුවෙන් පාලම කඩා වැටී ඇති බවද සඳහන්ය.
+
+ගලවාගැනීමේ කණ්ඩායම් මැදිහත්වී පාලම කඩා වැටීම හේතුවෙන් ගඟට පෙරළී තිබූ වාහන 05ක් සොයාගෙන තිබේ.
+
+අනතුරින් පුද්ගලයින් 30 දෙනෙකු අතුරුදන් වී සිටින අතර ඔවුන් සොයා මෙහෙයුම් ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/89e2006e.json)
+
+---
+
+### MP Ali Sabri Raheem released on bail
+
+*2024-07-20 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100649/mp-ali-sabri-raheem-released-on-bail) · `en`
+
+Puttalam District MP Ali Sabry Raheem has been granted bail after being produced before the Puttalam Magistrate’s Court today (20).
+
+The Puttalam Acting Magistrate has ordered the MP to be released on a surety bail of Rs. 200,000 and also to appear before court on 22 July, Ada Derana reporter said.
+
+The parliamentarian, against whom a warrant had been issued recently, was arrested this morning after he appeared before the Kalpitiya Police.
+
+◼️
+
+[Data](articles/0c95bd2f.json)
+
+---
+
+### බංග්ලාදේශයේ රැඳී සිටින ලාංකික සිසුන්ගේ තත්ත්වය
+
+*2024-07-20 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199013) · `si`
+
+බංග්ලාදේශය තුළ උද්ගතව ඇති නොසන්සුන්කාරී තත්ත්වය හමුවේ එරට රැඳී සිටින ශ්‍රී ලාංකික සිසුන්ගේ ආරක්ෂාව තහවුරු කිරීමට පියවර ගෙන ඇති බව විදේශ කටයුතු අමාත්‍යංශය පවසයි.
+
+එරට විශ්වවිද්‍යාල 03ක ශ්‍රී ලාංකික සිසුන් 50 දෙනෙකු පමණ අධ්‍යයන කටයුතුවල නිරත වන බව අමාත්‍යංශය පෙන්වා දී තිබේ.
+
+බංග්ලාදේශයේ ක්‍රියාත්මක විරෝධතා හේතුවෙන් විශ්වවිද්‍යාල වසා දමා තිබුණ ද විදේශීය සිසුන්ට එරටින් ඉවත් වන ලෙස දැනුම් දීමක් සිදුකර නොතිබීම හේතුවෙන් ශ්‍රී ලාංකික සිසුන් ආරක්ෂිතව නේවාසිකාගාර තුළ රැඳී සිටින බව විදේශ කටයුතු අමාත්‍යංශය පැවසීය.
+
+බංග්ලාදේශයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා එම සිසුන් හමුවී පෞද්ගලිකව ඔවුන්ගේ අවශ්‍යතා සම්බන්ධයෙන් සොයා බලා ඇති අතර සිසුන්ගේ ආරක්ෂාව පිළිබඳව එම විශ්වවිද්‍යාලවල පාලනාධිකාරිය සමග ද සාකච්ඡා කර ඇත.
+
+රජයේ රැකියා කෝටා ක්‍රමවේදය වෙනස් කළ යුතු බවට බලකරමින් සිසුන් මූලික කරගත් විරෝධතා උත්සන්න වීම හේතුවෙන් මේ වන විට බංග්ලාදේශය පුරා ඇඳිරි නීතිය ප්‍රකාශයට පත් කර තිබේ.
+
+...
+
+[Data](articles/e8746eec.json)
+
+---
 
 ### Jayampathi's answer to the President's forgiveness
 
@@ -2277,101 +2351,5 @@ The film will be released on October 31st. Diwali is a Diwali gift for fans beca
 [Data](articles/7f4ef1e3.json)
 
 [Extended Data](ext_articles/7f4ef1e3.ext.json)
-
----
-
-### Mari Selvaraj's bird- kissing- 'banana'
-
-*2024-07-19 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188875) · `ta`
-
-"Banana," directed by Mari Selvaraj, features "Southeast Honey Situ," its first song, in the film "Vazha." Starring Kaliyarasan, it includes contributions from producers like Kalaipuli S Thanu and directors such as Ranjith and Ram. Santosh Narayanan composed the music, with Theni Eswar recording it. The film, awaited for release on August 23rd, also includes a lyric video for the song, penned by Yukabarathi and sung by Dhee, set against beautiful landscapes.
-
-🟩
-
-The first song 'Southeast Honey Situ', which was featured in the film 'Vazha', starring the hero of the story of Tamil cinema, Kaliyarasan is the hero of the song - the lyrical video and video for the song.
-
-Producer Kalaipuli S Thanu, Red Giant Movies Shenbaga Murthy, Director Pa.Many celebrities including Ranjith, director and actor Ram participated.
-
-'Banana', directed by the creator Mari Selvaraj, who has a unique place in Tamil cinema, has directed the films 'Periyarum Perumal', 'Karna' and 'Mamannan'.
-
-Santosh Narayanan has composed the film, which is being recorded by Theni Eswar. Divya Mari Selvaraj and Dileep Subbarayan have produced the film on behalf of Navi Studios and Farmers Master Plan Production Companies.. The film is provided by Red Giant Movies.
-
-All the tasks of the film were completed and waited for the release. The film is expected to be released worldwide on August 23rd.
-
-...
-
-[Data](articles/93370e9d.json)
-
-[Extended Data](ext_articles/93370e9d.ext.json)
-
----
-
-### Hip Hope Tamil Adi starring 'Last World War'
-
-*2024-07-19 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188874) · `ta`
-
-"Independent musician Hip Hop Thamizha Adhi, known for composing film scores, directs 'Last World War.' The film, featuring director Hip Hope and cinematographer/actor Natraj, is produced by Hip Hope Tamil Entertainment. Despite initial support, the team faces skepticism about its commercial success."
-
-🟩
-
-Hip Hop Thamila Adi is an independent musician, becoming popular as a film composer. The new film directed by his movement is named 'Last World War' and its first look has been released.
-
-Director Hip Hope, who directed the films 'Meesaya Turukku' and 'Sivakumar's vow', will be playing the hero of Hip Hope Adi Story in the film 'Last World War' directed by Adi Adi.. Natraj, the cinematographer and actor, plays the lead role.
-
-Arjun Raja has composed the film Hip Hope Adi Tamil. The film has been produced by Hip Hope Tamil Entertainment Film Company.
-
-In the meantime, the filmmakers have reported that the filmmakers are not supportive of the 'Last World War' film, which is ready for the film 'Last World War', which is not commercially successful in the Hip Hop Tamil Adi movement.
-
-◼️
-
-[Data](articles/aee53763.json)
-
-[Extended Data](ext_articles/aee53763.ext.json)
-
----
-
-### 'Valliyamma Perandi' is an independent music album
-
-*2024-07-19 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188877) · `ta`
-
-"Valliamma Perandi," an independent Tamil music album by a local musician, highlights the growing recognition of independent artists. Launched in Chennai with guests like director Pa. Ranjith and social activist Sivagami, it features twelve songs reflecting various emotions. Inspired by folk singers and aiming to honor bravery, the album's title pays tribute to the artist's mother, emphasizing the need for courage and support for independent music.
-
-🟩
-
-Topical musicians publish their musical skills through independent music and identify themselves as musicians. The market value for them and the reception of music fans continues to increase as music companies are encouraging independent musicians.
-
-In that way, the Tamil musician is introduced as' Therukkural 'knowledge, the famous knowledge- the song, the music, the song, the singing, the independent music: Valliamma Perandi'. The music is published by Sony Music, the leading company of music.
-
-This independent music album launch was held in Chennai. During this time the Director Pa. Ranjith, Social activist Sivagami. A.. S.. Composer D. Iman participated as special guests.
-
-Speaking at the event, he said, “I grew up listening to the songs of the artist Dalit Subbiah at an early age.. It was only after hearing the voice of folk singer Anthony Dasan that we could be the background singer.. After that. Ranjith presented. At that time I was trying to publish independent music.
-
-...
-
-[Data](articles/e053dd4d.json)
-
-[Extended Data](ext_articles/e053dd4d.ext.json)
-
----
-
-### SriLankan Airlines says internet booking restored after global IT outage
-
-*2024-07-19 17:21:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-says-internet-booking-restored-after-global-it-outage-172958/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines said its internet booking system is back to normal after being hit by a global technology outage.
-
-“SriLankan Airlines would like to inform passengers that its internet booking services have been fully restored as of 08:30 GMT (14:00 local time in Sri Lanka), following a global outage of third-party service providers that affected the airline’s online booking services,” the airline said
-
-“We understand that this may have impacted the experience of some of our passengers, and we sincerely apologize for any inconvenience caused.”
-
-Several airlines in the world cancelled flights as their communications systems were hit.
-
-Reports said Microsoft systems were hit by an outage which had a cascading effect, disrupting multiple technological platforms. (Colombo/July19/2024)
-
-◼️
-
-[Data](articles/48259f5f.json)
-
-[Extended Data](ext_articles/48259f5f.ext.json)
 
 ---

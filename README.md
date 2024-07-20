@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 19:35:40**
+As of **2024-07-20 19:53:13**
 
 ## Newspaper Stats
 
-*Scraped **36,284** Articles*
+*Scraped **36,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,270
-adaderanalk | 4,195
+adaderanalk | 4,196
 tamilmirrorlk | 4,416
 dailymirrorlk | 4,733
 virakesarilk | 5,677
-adaderanasinhalalk | 6,078
+adaderanasinhalalk | 6,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,283 (100.0%) of 36,284 articles have been extended.
+36,284 (100.0%) of 36,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### UN top court says Israeli occupation of Palestinian territories is illegal
+
+*2024-07-20 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100654/un-top-court-says-israeli-occupation-of-palestinian-territories-is-illegal) · `en`
+
+The UN’s top court has said Israel’s occupation of Palestinian territories is against international law, in a landmark opinion.
+
+The International Court of Justice (ICJ) said Israel should stop settlement activity in the occupied West Bank and East Jerusalem and end its “illegal” occupation of those areas and the Gaza Strip as soon as possible.
+
+In response, Israeli Prime Minister Benjamin Netanyahu said the court had made a “decision of lies”.
+
+The court’s advisory opinion is not legally binding but still carries significant political weight. It marks the first time the ICJ has delivered a position on the legality of the 57-year occupation.
+
+The ICJ, based at The Hague in the Netherlands, has been examining the issue since the beginning of last year, at the request of the UN General Assembly.
+
+The court was specifically asked to give its view on Israel’s policies and practices towards the Palestinians, and on the legal status of the occupation.
+
+...
+
+[Data](articles/4af448b7.json)
+
+---
+
+### ජනපති පත්වී අදට වසර 2ක්
+
+*2024-07-20 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199026) · `si`
+
+වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පාර්ලිමේන්තු ඡන්දයෙන් ජනාධිපතිවරයා ලෙස තේරී පත්වී අදට (20) වසර දෙකක් සපිරෙයි.
+
+2022 වසරේ ජුලි මස 20 වනදා මෙරට 08වන ජනාධිපතිවරයා ලෙස රනිල් වික්‍රමසිංහ මහතා තේරී පත්වූ බව එවකට පාර්ලිමේන්තු මහලේකම්වරයා ලෙස කටයුතු කළ ධම්මික දසනායක මහතා සඳහන් කළේය.
+
+හිටපු ජනාධිපති ‍ගෝඨාභය රාජපක්ෂ මහතා එම ධුරයෙන් ඉවත් වීමත් සමග විධායක ජනාධිපති ධුරය සඳහා පුරප්පාඩුවක් පැවති අතර ඒ අනුව අනුප්‍රාප්තික ජනාධිපතිවරයෙකු තෝරා පත් කරගැනීමට පියවර ගත්තේය.
+
+අනුප්‍රාප්තික ජනාධිපතිවරයෙකු තෝරා පත්කර ගැනීම සඳහා රනිල් වික්‍රමසිංහ, ඩලස් අලහප්පෙරුම සහ අනුර කුමාර දිසානයක යන මහත්වරුන් ඉදිරිපත් විය.
+
+ඡන්ද විමසීම උදෑසන 10ට පාර්ලිමේන්තුවේ දී ආරම්භ වු අතර කථානායක මහින්ද යාපා අබේවර්ධන ඇතුළු මන්ත්‍රීවරුන් 223 දෙනෙකු ඡන්දය භාවිත කළේය.
+
+මන්ත්‍රීවරුන් දෙදෙනෙකු ඡන්දය භාවිත කිරීමෙන් වැළකී සිටි අතර ඡන්ද 04ක් ප්‍රතික්ෂේප වී තිබුණි.
+
+ඒ අනුව වලංගු ඡන්ද සංඛ්‍යාව වු 219න් ඡන්ද 134ක් ලබා ගනිමින් රනිල් වික්‍රමසිංහ මහතා අනුප්‍රාප්තික ජනාධිපතිවරයා ලෙස තේරී පත් වුණි.
+
+...
+
+[Data](articles/db608044.json)
+
+---
 
 ### Bangladesh to benefit
 
@@ -747,6 +793,8 @@ The panic-stricken crew has been reassured of the safety by the Indian Coast Gua
 ...
 
 [Data](articles/20f0a674.json)
+
+[Extended Data](ext_articles/20f0a674.ext.json)
 
 ---
 
@@ -2283,55 +2331,5 @@ The arrested are from Vavuniya and Galle. After further investigations, the poli
 [Data](articles/63705430.json)
 
 [Extended Data](ext_articles/63705430.ext.json)
-
----
-
-### Arrest
-
-*2024-07-19 22:26:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பசுமாட்டை-வெட்டி-சமைத்த-குடும்பஸ்தர்-கைது/71-340698) · `ta`
-
-A family member of the Kayts Health Medical Affairs Authority (CEA) arrested someone for illegally slaughtering cows for meat, a common issue across the island. Despite public knowledge and potential bribes, authorities have struggled to halt these activities. This incident involved a cow being slaughtered without a permit, leading to the arrest of the culprit and seizure of meat. The Health Medical Officer urged the public to report such cases, highlighting the need for stricter enforcement and community involvement.
-
-🟩
-
-A family member of the Kayts Health Medical Affairs Authority (CEA) has been arrested by a family member who has cut green meat for meat and has been recovered.
-
-Increasing incidents of cutting and smuggling of cows for cows and cows in many parts of the island, including Kayts.. In particular, cow cows are also being cut down for meat.
-
-The public has been accused of being able to stop the process for many years because of the lack of bribes to prevent meat cutters and that they will not take action against them.
-
-In this case, a team led by Kayts Health Medical Officer T.Susitharan has arrested the cow cutter.
-
-Health Medical Officer got confidential information that the cow was cut without permission. He has informed the Chief Police Officer in charge of the police and sought the help of the police.
-
-It was revealed that the cow was cut and cooked in a house. Another bull was tied up ready to cut the cow. Residents said they cut the cow for an event.
-
-...
-
-[Data](articles/c51df538.json)
-
-[Extended Data](ext_articles/c51df538.ext.json)
-
----
-
-### Before and after the jholli murder
-
-*2024-07-19 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199002) · `si`
-
-In the murder case of Dhammika Niroshana, a key figure from the Under-19 cricket team, two suspects were arrested: a 37-year-old male from Galle and a 35-year-old female from Kosgoda. The victim was killed with a locally made weapon, and it's suspected that the male suspect fired the shot. The female suspect, known to the male, had her bank transactions scrutinized around the time of the murder, raising doubts.
-
-🟩
-
-Police have been able to uncover a number of important facts about the murder of Dhammika Niroshana, a leader of the Under-19 team team.
-
-The police and another suspect had been arrested by the police.
-
-DIG's Court Attorney-at-Law Nihal Talduuwa speaking to the investigation in the murder Nihal Talduuwa, "said another suspect involved. He was arrested today (19). He is a 37-year-old man. Resident in Galle. The murder has been used to a heapon. The sharp cuts have the body of this dead person.  මන්නයකින් පහර එල්ල කරලා ඇති බවට තමයි තෙරතුරු අනාවරණය වෙලා තියෙන්නේ. The suspect mentioned earlier we recognize the shooter as the sholder. We arrested a woman who is having a relationship with the person who was arrested today. 35 years old. She is a resident of Kosgoda. It is observed that this woman's account has been received before and after the murder. Less than Rs.. We doubt. The second suspect discovered the firearm used for this shooting. A firearm of locally manufactured. "
-
-◼️
-
-[Data](articles/f7bd8104.json)
-
-[Extended Data](ext_articles/f7bd8104.ext.json)
 
 ---

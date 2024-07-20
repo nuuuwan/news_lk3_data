@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 19:20:17**
+As of **2024-07-20 19:35:40**
 
 ## Newspaper Stats
 
-*Scraped **36,283** Articles*
+*Scraped **36,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,270
-adaderanalk | 4,194
+adaderanalk | 4,195
 tamilmirrorlk | 4,416
 dailymirrorlk | 4,733
 virakesarilk | 5,677
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,078
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,282 (100.0%) of 36,283 articles have been extended.
+36,283 (100.0%) of 36,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### කාසියේ වාසිය බංග්ලාදේශය
+### Bangladesh to benefit
 
 *2024-07-20 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199025) · `si`
 
-ආසියානු කුසලාන කාන්තා T20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහභාගී වන පළමු තරගය අද (20) පැවැත් වෙයි.
+In the Asia Cup Women's T20 cricket tournament, Bangladesh won the toss against Sri Lanka and chose to bat first in their inaugural match today.
 
-එම තරගයේ කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කාන්තා කණ්ඩායම සමත් වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමටය.
+🟩
+
+Sri Lanka Women's Team's first match will be held today (20) at the Asia Cup Women's T20 cricket tournament.
+
+The Bangladesh Women's Group was able to win the coin of the match and they decided to bat first.
 
 ◼️
 
 [Data](articles/d8806418.json)
+
+[Extended Data](ext_articles/d8806418.ext.json)
 
 ---
 
@@ -721,6 +727,26 @@ The panic-stricken crew has been reassured of the safety by the Indian Coast Gua
 [Data](articles/15927154.json)
 
 [Extended Data](ext_articles/15927154.ext.json)
+
+---
+
+### Massive fire on Sri Lanka-bound ship carrying hazardous cargo off Goa
+
+*2024-07-20 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100648/massive-fire-on-sri-lanka-bound-ship-carrying-hazardous-cargo-off-goa) · `en`
+
+A massive fire erupted on a container cargo merchant vessel about 102 nautical miles south west of Goa on Friday. The vessel was on way from Gujarat’s Mundra to Sri Lankan capital Colombo, the Indian Coast Guard (ICG) said in a statement.
+
+On receiving the information, the Indian Coast Guard diverted the ship to proceed to the distressed vessel with maximum speed. Also, a Dornier aircraft took off for aerial assessment.
+
+According to the statement by Coast Guard, the ship is carrying Maritime Dangerous Goods (IMDG) cargo and explosions have been occurring on front part of the merchant vessel.
+
+The Indian Coast Guard ship arrived in the area and is carrying out fire-fighting operation despite rough sea and inclement weather conditions, the statement added.
+
+The panic-stricken crew has been reassured of the safety by the Indian Coast Guard ship. As per the statement, two ICG ships sailed with dispatch from Goa to augment firefighting efforts.
+
+...
+
+[Data](articles/20f0a674.json)
 
 ---
 
@@ -2307,25 +2333,5 @@ DIG's Court Attorney-at-Law Nihal Talduuwa speaking to the investigation in the 
 [Data](articles/f7bd8104.json)
 
 [Extended Data](ext_articles/f7bd8104.ext.json)
-
----
-
-### Govt may enforce price controls if concessions not passed to consumers – minister warns
-
-*2024-07-19 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100635/govt-may-enforce-price-controls-if-concessions-not-passed-to-consumers-minister-warns) · `en`
-
-Minister of Trade, Commerce, and Food Security Nalin Fernando stated that if the business community fails to pass on government-provided concessions to consumers, price controls will need to be implemented for certain goods.
-
-He also announced that proposals to amend the Consumer Act are planned to be submitted to Parliament within the next two weeks.
-
-Minister Fernando made these remarks during a news conference held at the Presidential Media Center today (19) under the theme “Collective Path to a Stable Country.”
-
-“The crisis of the past few years has finally been resolved, thanks to the exceptional leadership of President Ranil Wickremesinghe. Our government implemented numerous programs to achieve this success, and the people are now reaping the benefits.
-
-...
-
-[Data](articles/6837f350.json)
-
-[Extended Data](ext_articles/6837f350.ext.json)
 
 ---

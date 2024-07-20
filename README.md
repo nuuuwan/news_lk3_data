@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 16:35:42**
+As of **2024-07-20 16:51:58**
 
 ## Newspaper Stats
 
-*Scraped **36,271** Articles*
+*Scraped **36,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,270
-adaderanalk | 4,192
+adaderanalk | 4,193
 tamilmirrorlk | 4,413
 dailymirrorlk | 4,733
 virakesarilk | 5,675
@@ -26,43 +26,73 @@ adaderanasinhalalk | 6,073
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,269 (100.0%) of 36,271 articles have been extended.
+36,271 (100.0%) of 36,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### கலவர பூமியிலுள்ள இலங்கையர்களின் நிலை என்ன?
+### Two Sri Lankan fishing vessels missing with six fishermen onboard
+
+*2024-07-20 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100651/two-sri-lankan-fishing-vessels-missing-with-six-fishermen-onboard) · `en`
+
+The Department of Fisheries and Aquatic Resources says that two fishing vessels carrying a total of six Sri Lankan fishermen have gone missing.
+
+The vessels had departed from the fishing ports of Jaffna and Hambantota on July 7.
+
+Director General of the department Susantha Kahawatta revealed that the multi-day fishing vessel, which left the Point Pedro fishing harbor in Jaffna, had four fishermen on board. Meanwhile, the one-day fishing vessel that departed from Hambantota Fishing Harbour was carrying two fishermen.
+
+No information has been received regarding the whereabouts of the missing fishermen. The Navy, along with other relevant authorities, has been alerted and is conducting a search operation to locate the vessels and their crews, Mr. Kahawatta added.
+
+◼️
+
+[Data](articles/4ca86927.json)
+
+---
+
+### What is the status of Sri Lankans on the riot earth?
 
 *2024-07-20 16:17:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலவர-பூமியிலுள்ள-இலங்கையர்களின்-நிலை-என்ன/175-340715) · `ta`
 
-வங்க தேசத்தில் நிலவும் அமைதியின்மை காரணமாக அந்நாட்டில் தங்கியுள்ள இலங்கை மாணவர்களின் பாதுகாப்பை உறுதிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Sri Lankan government has ensured the safety of its students in countries experiencing unrest, highlighting efforts such as the High Commissioner's visit to meet student needs and address concerns with university administrations.
 
-அந்நாட்டிலுள்ள 03 பல்கலைக்கழகங்களில் சுமார் 50 இலங்கை மாணவர்கள் பயின்று வருவதாக அமைச்சு சுட்டிக்காட்டியுள்ளது.
+🟩
 
-பங்களாதேஷில் உள்ள இலங்கை உயர்ஸ்தானிகர், மாணவர்களைச் சந்தித்து அவர்களின் தேவைகளை நேரில் பார்வையிட்டதுடன் மாணவர்களின் பாதுகாப்பு குறித்து பல்கலைக்கழக நிர்வாகத்துடன் கலந்துரையாடினார். R
+The Ministry of External Affairs has said that steps have been taken to ensure the safety of Sri Lankan students staying in the country due to the unrest in the country.
+
+The Ministry has pointed out that about 50 Sri Lankan students are studying in 03 universities in the country.
+
+The Sri Lankan High Commissioner in Bangladesh met with students and visited the needs of the university administration on the safety of the students.. Remble
 
 ◼️
 
 [Data](articles/33614b4c.json)
 
+[Extended Data](ext_articles/33614b4c.ext.json)
+
 ---
 
-### ත්‍රීරෝද රථයක් සහ ඉන්ධන බවුසරයක් ගැටෙයි
+### Three-wheeler and fuel bowse
 
 *2024-07-20 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199020) · `si`
 
-ඉන්ධන රැගත් බවුසරයක් සහ ත්‍රීරෝද රථයක් එකිනෙක ගැටී සිදුවූ අනතුරකින් පුද්ගලයින් සිව්දෙනෙකු තුවලා ලබා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+In an accident on the Kandy-Jaffna A9 road, four people were hospitalized after their three-wheeler collided with another, spilling fuel into a nearby paddy field. The fuel is now being transferred from one container to another at the Anuradhapura Teaching Hospital.
 
-අද (20) එම අනතුර සිදුවී තිබුණේ මහනුවර - යාපනය A9 මාර්ගයේ ඉකිරියගොල්ලෑව ප්‍රදේශයේදීය.
+🟩
 
-අදාළ අනතුරින් ත්‍රීරෝද රථයට දැඩි අලභහානි සිදුවී ඇති අතර ඉන්ධන රැගත්  බවුසරය ඒ අසල වෙල්යායකට පෙරළී ගොස් තිබුණි.
+Four persons have been admitted to the Anuradhapura Teaching Hospital with a bowl of fuel and three-wheeler collided with a three-wheeler.
 
-එම ඉන්ධන බවුසරයේ තිබෙන ඉන්ධන වෙනත් බවුසරයකට මාරු කිරීම මේ වන විට සිදුකරමින් පවතින බව අද දෙරණ වාර්තාකරු පැවසීය.
+The accident occurred today (20) at the Kandy-Jaffna A9 road in Ikiriyagolle area.
+
+The three-wheeler has taken place in the three wheeler and the bowl carrying the fuel has fell into a nearby paddy.
+
+Ada Derana reporter said that the fuel in that fuel to another bowl is currently being transferred.
 
 ◼️
 
 [Data](articles/1bf2f888.json)
+
+[Extended Data](ext_articles/1bf2f888.ext.json)
 
 ---
 
@@ -2331,29 +2361,5 @@ The bus from Jaffna to Kadirgama has risen to 51 as the accident crashed near th
 [Data](articles/f7ff05dc.json)
 
 [Extended Data](ext_articles/f7ff05dc.ext.json)
-
----
-
-### Chavakachcheri Controversy - Call for Inquiry
-
-*2024-07-19 19:55:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாவகச்சேரி-சர்ச்சை-விசாரணைக்கு-அழைப்பு/71-340685) · `ta`
-
-A controversy arose after a team from the Sri Lanka Human Rights Commission visited Chavakachcheri Resource Hospital due to complaints about service difficulties. A meeting was held with health officials on July 8, 2024, to discuss human rights concerns. Following this, a letter was sent to schedule another discussion at the commission on July 30, 2024, to address these issues further.
-
-🟩
-
-A team led by the Jaffna Regional Coordinator of the Sri Lanka Human Rights Commission, Thangavel Kanakaraj, was conducting an observation visit to Chavakachcheri Resource Hospital on the 5th.
-
-The telephone complaint was made in accordance with the office received by the public to face difficulties in receiving their services.
-
-A discussion was held on 08.07.2024 with the Secretary of the Ministry of Health, Northern Provincial Health Services and Director of Regional Health Services in Jaffna on 08.07.2024 on the human rights issues obtained by us.
-
-As a next step, a letter has been sent to a special discussion to be held at the Human Rights Commission of the Sri Lanka Human Rights Commission at 1.30 pm on 30.07.2024.
-
-◼️
-
-[Data](articles/9739e1a2.json)
-
-[Extended Data](ext_articles/9739e1a2.ext.json)
 
 ---

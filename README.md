@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 18:13:21**
+As of **2024-07-20 18:24:51**
 
 ## Newspaper Stats
 
-*Scraped **36,275** Articles*
+*Scraped **36,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,270
 adaderanalk | 4,193
-tamilmirrorlk | 4,413
+tamilmirrorlk | 4,414
 dailymirrorlk | 4,733
 virakesarilk | 5,675
 adaderanasinhalalk | 6,076
@@ -26,23 +26,45 @@ adaderanasinhalalk | 6,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,274 (100.0%) of 36,275 articles have been extended.
+36,275 (100.0%) of 36,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### පොලීසියෙන් රියදුරන්ට දැනුම්දීමක්
+### கார் ஒன்று முற்றாக எரிந்து நாசமானது
+
+*2024-07-20 18:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-ஒன்று-முற்றாக-எரிந்து-நாசமானது/175-340716) · `ta`
+
+பாணந்துறையிலிருந்து நுவரெலியா நோக்கிச் சென்ற கார் ஒன்று கினிகத்தேனை - தியகல பிரதேசத்தில் இன்று (20) காலை  திடீரென தீப்பிடித்து எரிந்துள்ளதாக கினிகத்தேனை பொலிஸார் தெரிவித்தனர்.
+
+தீப்பரவல் காரணமாக குறித்த வீதியின் போக்குவரத்து முற்பகல் 11 மணிமுதல் சுமார் ஒரு மணிநேரம் முற்றாக நிறுத்தப்பட்டதாக கினிகத்தேனை பொலிஸார் தெரிவிக்கின்றனர்.
+
+தீயை கட்டுக்குள் கொண்டுவர பொலிஸார் கடுமையாக முயன்றும் கார் முற்றிலும் தீக்கிரையானது. R
+
+◼️
+
+[Data](articles/ab0f1655.json)
+
+---
+
+### Notice to drivers from police
 
 *2024-07-20 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199023) · `si`
 
-අම්බලන්ගොඩ ඌරවත්ත ගංගාරාම විහාරස්ථානය මගින් සංවිධානය කරනු ලබන වාර්ෂික පෙරහැර හෙට (21) වීදි සංචාරය කිරීමට නියමිතය.
+Drivers: Avoid main roads tomorrow due to the Urawegoda Gangarama Viharaya procession in Ambalangoda. Use alternate routes to prevent traffic congestion.
 
-ඒ හේතුවෙන් ඇතිවිය හැකි මාර්ග තදබදය අවම කරගැනීම සඳහා විකල්ප මාර්ග භාවිත කරන්නැයි පොලීසිය රියදුරන්ට දැනුම්දෙයි.
+🟩
+
+The annual procession organized by the Urawegoda Gangarama Viharaya, Ambalangoda is scheduled to visit the streets tomorrow.
+
+As a result, the police are informed to use alternative routes to reduce possible traffic congestion.
 
 ◼️
 
 [Data](articles/f2cde968.json)
+
+[Extended Data](ext_articles/f2cde968.ext.json)
 
 ---
 
@@ -2327,31 +2349,5 @@ In the bowling team, Hindu Burma took 3 wickets for 19 runs in 4 overs.
 [Data](articles/9df03bfb.json)
 
 [Extended Data](ext_articles/9df03bfb.ext.json)
-
----
-
-### If the government's concessions are not made to consumers, some items will have to be controlled -Nalin Fernando
-
-*2024-07-19 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/188894) · `ta`
-
-Nalin Fernando, the Minister of Commerce, warns that without traders passing on government concessions, some goods may need price controls. He announced upcoming amendments to the Consumer Act and discussed efforts to curb inflation and boost public income, including reducing bank interest rates. The government also plans to enhance consumer-trader relations and regularly announce prices of essential commodities.
-
-🟩
-
-The Minister of Commerce, Commerce and Food Security, Nalin Fernando, said that if traders do not act to provide the government's concessions to consumers, certain commodities will be fixed.
-
-The Minister said that the recommendations for amendment of the Consumer Act are scheduled to be presented in Parliament in the next two weeks.
-
-Minister Nalin Fernando made this statement at a media briefing held at the Presidential Media Center on Friday (19).
-
-“The crisis that has prevailed over the past few years has now ended. The current President Ranil Wickremesinghe presented a special leadership. As a government to achieve this success we have implemented many plans. People are currently enjoying its successful benefits.
-
-It should also be noted that the economic policies implemented in the last two years have been able to provide concessions and relief to the people.. By making it possible to control inflation. The program has also been launched to increase the income of the people.
-
-...
-
-[Data](articles/269270ea.json)
-
-[Extended Data](ext_articles/269270ea.ext.json)
 
 ---

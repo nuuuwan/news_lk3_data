@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 18:24:51**
+As of **2024-07-20 18:36:20**
 
 ## Newspaper Stats
 
-*Scraped **36,276** Articles*
+*Scraped **36,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,270
-adaderanalk | 4,193
-tamilmirrorlk | 4,414
+adaderanalk | 4,194
+tamilmirrorlk | 4,416
 dailymirrorlk | 4,733
 virakesarilk | 5,675
 adaderanasinhalalk | 6,076
@@ -26,15 +26,53 @@ adaderanasinhalalk | 6,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,275 (100.0%) of 36,276 articles have been extended.
+36,276 (100.0%) of 36,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
+### Harin backs Sanath to instill discipline in Sri Lankan cricket team
+
+*2024-07-20 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100653/harin-backs-sanath-to-instill-discipline-in-sri-lankan-cricket-team) · `en`
+
+Minister of Sports Harin Fernando emphasized the need for modesty and discipline among national cricket players, suggesting that such behavior could mitigate the criticism they face after match losses.
+
+Speaking on the current state of the team, Minister Fernando highlighted certain deficiencies in the attitudes of modern players.
+
+Furthermore, he said: “If the team had been more humble and their attitudes had shifted, the people of Sri Lanka would not have been so critical of match losses. People have a deep love for cricket.”
+
+Meanwhile, Fernando pointed out that a new temporary coach has been appointed for the Sri Lankan team, claiming that the new coach has already implemented changes, including enforcing grooming standards such as haircuts.
+
+“According to what I heard, the first thing he did was to cut everyone’s hair...and remove their earrings…The coach has taken significant steps to instill discipline right from the start,” Fernando added.
+
+...
+
+[Data](articles/66b0797b.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் தமிழ் வேட்பாளர்; திங்கட்கிழமை கைச்சாத்து
+
+*2024-07-20 18:14:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-தமிழ்-வேட்பாளர்-திங்கட்கிழமை-கைச்சாத்து/175-340717) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழர் தரப்பில் இருந்து ஒரு பொது வேட்பாளரை நிறுத்துவதற்கான உடன்படிக்கையொன்று எதிர்வரும் திங்கட்கிழமை கைச்சாத்திடபட உள்ளது.
+
+தமிழ்சிவில் சமூகத்திற்கும் தமிழ்த் தேசிய அரசியல் கட்சிகளுக்கு இடையிலும் இந்த உடன்படிக்கை யாழில் வைத்து கைச்சாத்திடப்பட உள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கடந்த காலங்களில் நடைபெற்ற ஜனாதிபதி தேர்தல்களில் தமிழ் மக்கள் எவருக்கு வாக்களித்தும் எந்தவித பயனும் இல்லை என தமிழ்க் கட்சிகளும் சிவில் சமூகத்தினரும் பல்வேறு குற்றச்சாட்டுக்களை முன்வைத்துள்ளனர்.
+
+இதனால் தமிழ் மக்களின் நிலைமையையும் தமிழ் மக்களின் பிரச்சனைகள் தேவைகளை வெளிப்படுத்தும் வகையில் எதிர்வரும் ஜனாதிபதி தேர்தலில் எந்தவொரு சிங்கள வேட்பாளருக்கும் ஆதரவை வழங்காது தமிழர் தரப்பில் இருந்து பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான நடவடிக்கைகள் அண்மைக் காலமாக சிவில் சமூகத்தினராலும் அரசியல் கட்சிகளாலும் தெடர்ச்சியாக முன்னெடுக்கப்பட்டு வந்தது.
+
+...
+
+[Data](articles/350465f4.json)
+
+---
+
 ### கார் ஒன்று முற்றாக எரிந்து நாசமானது
 
-*2024-07-20 18:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-ஒன்று-முற்றாக-எரிந்து-நாசமானது/175-340716) · `ta`
+*2024-07-20 18:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கார்-ஒன்று-முற்றாக-எரிந்து-நாசமானது/76-340716) · `ta`
 
 பாணந்துறையிலிருந்து நுவரெலியா நோக்கிச் சென்ற கார் ஒன்று கினிகத்தேனை - தியகல பிரதேசத்தில் இன்று (20) காலை  திடீரென தீப்பிடித்து எரிந்துள்ளதாக கினிகத்தேனை பொலிஸார் தெரிவித்தனர்.
 
@@ -44,7 +82,29 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+[Data](articles/9aeb27f5.json)
+
+---
+
+### The car was completely burnt and destroyed
+
+*2024-07-20 18:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-ஒன்று-முற்றாக-எரிந்து-நாசமானது/175-340716) · `ta`
+
+A car en route from Panadura to Nuwara Eliya was torched near Ginigathena, halting traffic for an hour. The vehicle was extensively damaged by the fire.
+
+🟩
+
+A car traveling from Panadura to Nuwara Eliya was set on fire this morning in Ginigathena - Diyagala area, police said.
+
+Ginigathena police said that the road traffic on the road was completely stopped for about an hour at 11 am.
+
+The car was completely on fire, but the car was completely on fire. Remble
+
+◼️
+
 [Data](articles/ab0f1655.json)
+
+[Extended Data](ext_articles/ab0f1655.ext.json)
 
 ---
 
@@ -2259,95 +2319,5 @@ The arrested suspect was remanded until August 03 after being produced before th
 [Data](articles/52fb436a.json)
 
 [Extended Data](ext_articles/52fb436a.ext.json)
-
----
-
-### Housing Project for wasted Rs. 340 million
-
-*2024-07-19 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198998) · `si`
-
-The Deraniyagala Malibagala Estate Housing Complex, initiated on March 8, 2021, under former President Gotabhaya Rajapaksa's vision, aimed to provide affordable housing. However, it faced issues including mismanagement, leading to a waste of Rs. 340 million. The project, overseen by the Sri Lanka Engineering Corporation, left behind numerous unfinished homes, now overgrown and inhabited by wildlife. Additionally, the project's staff, including security personnel, have gone unpaid for five months, highlighting broader concerns about accountability and misuse of public funds in such development projects.
-
-🟩
-
-Intermediate waste of money, which lawses to provide relief to the masses, is a waste of money.
-
-Deraniyagala Malibagala Estate Housing Complex begins on March 8, 2021.
-
-The view of the prosperous prosperous is the concept of the country of former President Gotabhaya Rajapaksa.
-
-The number of houses belonging to this project which originated.
-
-The estimated cost of Rs. 340 million and the Sri Lanka Engineering Corporation was in charge of the construction.
-
-However, the construction of the housing complex was completely blurred by the estate workers' dream home. "
-
-With the renovation of the project, the Sri Lanka Engineering Corporation's backhouses belonging to the Sri Lanka Engineering Corporation are destroyed.
-
-There are many half-finished homes are here and have been weed and the houses are also a paradise of the bats and dogs.
-
-He is also a watchman for the security of the housing complex and he said he had not paid salaries since 5 months.
-
-...
-
-[Data](articles/eff0b3c2.json)
-
-[Extended Data](ext_articles/eff0b3c2.ext.json)
-
----
-
-### President issues Jayampathi's hand
-
-*2024-07-19 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198997) · `si`
-
-President Ranil Wickremesinghe attributes current issues to actions taken by Jayampathi Wickremaratne in 2015. He promises to address the public regarding the matter, emphasizing the importance of maintaining democracy.
-
-🟩
-
-President Ranil Wickremesinghe says that the current problem has been caused by Jayampathi Wickremaratne at the time of 2015, President Ranil Wickremesinghe said.
-
-The President said he would apologize to the public.
-
-President Ranil Wickremesinghe made this statement participating at the opening of the new court complex built in the Beligaha area in Galle today (19).
-
-He said that the only country continued to maintain democracy after the executive elections were held, he was the only country in which democracy is the only country to protect the situation.
-
-...
-
-[Data](articles/d38ed08c.json)
-
-[Extended Data](ext_articles/d38ed08c.ext.json)
-
----
-
-### Nepal was the first victory in the history of women's R20 Asian Cup Cricket
-
-*2024-07-19 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188895) · `ta`
-
-Nepal secured its first win in the Women's R20 Asian Cup Cricket, defeating the United Arab Emirates by 6 wickets in the Fifth Women's R20 Cricket Chapter at the Dambulla International Cricket Stadium. This victory came after two previous failures in 2012 and 2016. Key performers included captain Hindu Burma with three crucial wickets and Shamjana Khadka with an unbeaten half-century. The UAE, batting first, managed 115 runs in 20 overs, with Khushi Sharma scoring 36 and Kavisha Ekodake contributing 22. Hindu Burma also excelled with 3 wickets for 19 runs, while Kavisha Ekodke took 3 wickets for 12 runs in the bowling department.
-
-🟩
-
-In the first match of the Fifth Women's R20 Cricket Chapter, which started at the Dambulla International Cricket Stadium on Friday (19), Nepal won the United Arab Emirates by 6 wickets by 6 wickets.
-
-This is the first victory of Nepal playing in her 3rd chapter in the history of women's R20 Asian Cup.
-
-Nepal, which played in two chapters 2012 and 2016, had failed.
-
-In today's match, the 3 wickets pile recorded by the captain Hindu Burma and the half -century of Shamjana Khadka's unbeaten game made Nepal easier.
-
-Kavisha, the native of Colombo on behalf of the United Arab Emirates, shone in the bowling and bowling and showed Khushi Sharma's talent in the field.. But the failure of others to shine caused the defeat of the UAE.
-
-The United Arab Emirates, who were first invited to bat in the upting match, scored 115 runs for the loss of 8 wickets in 20 overs.
-
-Khushi Sharma (36) and Kavisha Ekodake (22) scored more than 20 runs.
-
-In the bowling team, Hindu Burma took 3 wickets for 19 runs in 4 overs.
-
-...
-
-[Data](articles/9df03bfb.json)
-
-[Extended Data](ext_articles/9df03bfb.ext.json)
 
 ---

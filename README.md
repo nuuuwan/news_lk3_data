@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 12:08:33**
+As of **2024-07-20 12:20:22**
 
 ## Newspaper Stats
 
-*Scraped **36,239** Articles*
+*Scraped **36,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,268
-adaderanalk | 4,186
-tamilmirrorlk | 4,404
+adaderanalk | 4,187
+tamilmirrorlk | 4,405
 dailymirrorlk | 4,733
 virakesarilk | 5,667
 adaderanasinhalalk | 6,066
@@ -26,53 +26,101 @@ adaderanasinhalalk | 6,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,237 (100.0%) of 36,239 articles have been extended.
+36,239 (100.0%) of 36,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### දියවන්නා ඔයේ මළසිරුරක් පාවෙයි
+### University non-academic staff will report to duty from Monday – UGC Chairman
+
+*2024-07-20 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100644/university-non-academic-staff-will-report-to-duty-from-monday-ugc-chairman) · `en`
+
+The Chairman of the University Grants Commission (UGC) Senior Professor Sampath Amaratunge says that the Treasury has allocated Rs. 4.2 billion to pay the arrears of university non-academic staff salaries.
+
+Addressing an event held at the Ruhuna University, the UGC Chairman assured that the non-academic staff who have been on strike for 75 days will report back for duty from next Monday.
+
+Speaking further, the UGC Chairman said: “The non-academic staff who have been on strike for 75 days will report back for duty from next Monday. The President intervened to provide a solution to their salary disparity. The President should be thanked for that.
+
+“I believe that if we can take our country to a state where there are no strikes. That is the development of the country”, he added.
+
+The event, which was held on Friday (19), was also attended by President Ranil Wickremesinghe and Southern Province Governor Lakshman Yapa Abeywardena.
+
+◼️
+
+[Data](articles/87f11adb.json)
+
+---
+
+### Diyawanna Oya bodies floated
 
 *2024-07-20 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199011) · `si`
 
-දියවන්නාව ජපන් මිත්‍රත්ව මාර්ගයේ ශරීර සුවතා මංතීරුව අසලදී පුද්ගලයෙකු විසින් අද (20) උදෑසන මෙම මළසිරුර දැක ඇත.
+Bodies found in Diyawanna; believed to be around 60-65 years old. Investigation ongoing by Talangama Police and Mirihana Socho Unit.
 
-පොලීසිය පැවසුවේ වයස අවුරුදු 60 හෝ 65ක පමණ පුද්ගලයෙකු මෙලෙස මියගොස් ඇති බවය.
+🟩
 
-තලංගම පොලීසිය හා මිරිහාන සොකෝ ඒකකය විසින් මේ සම්බන්ධයෙන් ඉදිරි පරීක්ෂණ සිදුකරයි.
+Diyawanna has seen the bodies today by a person near the fictitious lane.
+
+Police said that about 60 or 65 years old, about 60 or 65 years.
+
+Talangama Police and Mirihana Socho Unit are conducting further investigations.
 
 ◼️
 
 [Data](articles/e6f64474.json)
 
+[Extended Data](ext_articles/e6f64474.ext.json)
+
 ---
 
-### බංග්ලාදේශයේ සිසු විරෝධය තවත් තීව්‍ර වෙයි
+### பாராளுமன்ற உறுப்பினர் அலிசப்ரி ரஹீம் கைது
+
+*2024-07-20 11:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்-அலிசப்ரி-ரஹீம்-கைது/175-340709) · `ta`
+
+இதன்படி இன்று (20) அவர் கற்பிட்டி பொலிஸில் சட்டத்தரணியுடன் சரணடைந்த போது கைது செய்யப்பட்டதாகக் கற்பிட்டி பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/573dae34.json)
+
+---
+
+### Siso protest in Bangladesh is increasing
 
 *2024-07-20 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199010) · `si`
 
-බංග්ලාදේශය සිසු විරෝධතා අතරතුරදී මියගිය පිරිස 105ක් දක්වා ඉහළ ගොස් තිබේ.
+In Bangladesh, student protests have escalated, leading to 105 deaths, primarily from police actions. Foreign media reports vary on death counts due to restrictions. Protests against the government have grown more violent, including an attack on the Narsingh Prison, freeing prisoners. The main opposition supports the protests, urging national assistance. Despite efforts, the unrest continues, with Indian students in Bangladesh also protesting in solidarity. Security around the Bangladeshi High Commission in India has been tightened, and over 300 Indian students have returned to India due to safety concerns. The Indian government assures the safety of its citizens in Bangladesh, where there are approximately 8,500 Indian students and 15,000 Indians in total.
 
-විදෙස් මාධ්‍ය තවදුරටත් වාර්තා කරන්නේ මරණ ගණන නිශ්චිත නොවන අතර එය ඉහළ අගයක් ගත හැකි බවය.
+🟩
 
-බහුතර මරණ ගණනක් සිදුවී ඇත්තේ පොලිස් ප්‍රහාරවලින් බව සඳහන් ය.
+The deceased has increased to 105 people during the student protests.
 
-තවදුරටත් ප්‍රචණ්ඩකාරී ස්වරූපයක් ගෙන ඇති විරෝධතා හේතුවෙන් රටපුරා ක්‍රියාත්මක වන පරිදි ඇඳිරිනීතිය පනවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Foreign media continues to be definitely, the number of deaths cannot be specified.
 
-බංග්ලාදේශ අගමැති ෂෙයික් හසීනා ප්‍රමුඛ රජයට එරෙහි සිසුන්ගෙන් එල්ලවන විරෝධය තවදුරටත් තීව්‍ර වෙමින් පවතී.
+Most deaths have occurred from police attacks.
 
-විරෝධතා තවදුරටත් ප්‍රචණ්ඩ ස්වරූපයක් ගන්නේ විරෝධතා පාලනයට එරට සන්නිවේදන සබඳතාව අත්හිටුවා ඇති පසුබිමකය.
+Foreign media reports that the hurricane has been imposed due to protests that have been further violent.
 
-කලහකාරී ලෙස හැසිරෙන විරෝධතාකරුවන් එරට නර්සින්ග්ඩි බන්ධනාගාරයට කඩාවැදී ඇති අතර සිරකරුවන් සිය ගණනක් ඉන් පළාගොස් ඇති බව වාර්තා වෙයි.
+The protest with the Prime Minister of the Prime Minister of Bangladesh is further intensified.
 
-සිසු විරෝධතා සඳහා බංග්ලාදේශයේ ප්‍රධාන විපක්ෂය වන බංග්ලාදේශ ජාතික පක්ෂය ද සහාය පළකර ඇති අතර ඔවුන්ට සහාය වන ලෙස විපක්ෂය රටේ සියලුම ජනතාවගෙන් ඉල්ලීම් කර තිබේ.
+The protests are further violent in the backdrop.
 
-විරෝධතා අවසන් කිරීම සඳහා රජය සහ විරෝධතාකරුවන් අතර මෙතෙක් පැවති සියලුම සාකච්ඡා අසාර්ථකවී ඇත.
+The aggressive protesters have broken to the Narninge Prison and hundreds of prisoners have fled the country.
+
+The main opposition of Bangladesh has also supported the student protests and the opposition has requested all the people of the country to assist them.
+
+All the discussions have failed to end protests.
+
+Meanwhile, Indian students have also begun protests in support of Bangladesh students.
+
+Accordingly, security near the High Commission of the Bangladesh High Commission in India has been strengthened.
 
 ...
 
 [Data](articles/6c1a9448.json)
+
+[Extended Data](ext_articles/6c1a9448.ext.json)
 
 ---
 
@@ -105,6 +153,10 @@ Puttalam District MP Ali Sabri Raheem has been arrested by Kalpitiya police a sh
 The parliamentarian, against whom a warrant had been issued recently, had appeared before the Kalpitiya Police this morning (20), after which he was arrested, police said.
 
 Police said that he will be produced before the court today.
+
+In March, the Puttalam District MP was suspended from Parliament for a period of one month, after a resolution proposing the suspension of Raheem from parliamentary proceedings was approved in the Parliament.
+
+Raheem was embroiled in controversy last year after he was detained at the Bandaranaike International Airport (BIA) in Colombo along with a stock of undeclared gold and mobile phones.
 
 ◼️
 
@@ -2295,55 +2347,5 @@ Commenting on the film, the director said, “Ready for a small investment. We h
 [Data](articles/adcfd5fd.json)
 
 [Extended Data](ext_articles/adcfd5fd.ext.json)
-
----
-
-### Actor Kali Venkat, who started shooting
-
-*2024-07-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/188862) · `ta`
-
-Actor Kali Venkat, acclaimed in the Tamil film industry, stars as 'Appane Muruka' in a new film directed by Guru Ramaswamy, featuring a cast including Puthi Veeran Saravanan, S Bhaskar, and Madhumita among others. The production team includes R. Sadish Thangam, RG Sekhar, and Sasikumar from True Team Entertainment. Shooting commenced in Chennai.
-
-🟩
-
-Actor Kali Venkat, who is the best character in the Tamil film industry, has been named 'Appane Muruka', which has been named as the hero of the story.
-
-Kali Venkat, 'Puthi Veeran' Saravanan, Mr. Guru Ramaswamy directed by Guru Ramaswamy. S Bhaskar, Muniskant, Madhumita, 'Karna' Janaki, Super Good Subramani, Mohanasundaram, Puduvai Poobalan and many others.
-
-The film, which is being recorded by Jayaprakash, is co -produced by producer R. Sadish Thangam, RG Sekhar and Sasikumar on behalf of True Team Entertainment.
-
-Commenting on the film, the director said:Or not?The story of the film is based on. The first shooting of the film is taking place in Chennai. ”
-
-◼️
-
-[Data](articles/eaded6d5.json)
-
-[Extended Data](ext_articles/eaded6d5.ext.json)
-
----
-
-### Karthi's market value ..!?
-
-*2024-07-19 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188866) · `ta`
-
-Karthi stars in "Meyyalakan," set for release on September 27th. Its success could boost his market value. Directed by Premkumar, it features a star-studded cast including Aravindsamy, Sri Divya, and others, with music by Govind Vasantha. Despite previous flops like "Ponni Selvan 2" and "Japan," anticipation is high due to Karthi's collaboration with Aravindsamy.
-
-🟩
-
-Actor Karthi will be starring in the upcoming film 'Meyyalakan' in September. Actor Karthi's market value will rise depending on the commercial success of the film.
-
-Director C's directed by '96'. Karthi, Aravindsamy, Sri Divya, Rajkran, Swathi, Devadarshini, Jayaprakash, Sri Ranjani, Princess, Karunakaran, Saran Shakti, Antony, Rajkumar, directed by Premkumar.
-
-Govind Vasantha has composed the film, which has been recorded by Mahendran Jayaraju. The film is being produced by Surya and Jodhika on behalf of the 2D Entertainment Company.
-
-The post -shooting of the film is currently underway. In this case, the release of the film has been officially announced with a special photo. Accordingly, the film will be released on September 27th in the film mansions worldwide.
-
-The films 'Ponni Selvan 2' and 'Japan', which have been released last year, have not been a commercial success.
-
-...
-
-[Data](articles/56d7334d.json)
-
-[Extended Data](ext_articles/56d7334d.ext.json)
 
 ---

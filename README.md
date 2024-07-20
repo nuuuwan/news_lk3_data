@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 11:55:24**
+As of **2024-07-20 12:08:33**
 
 ## Newspaper Stats
 
-*Scraped **36,237** Articles*
+*Scraped **36,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adaderanalk | 4,186
 tamilmirrorlk | 4,404
 dailymirrorlk | 4,733
 virakesarilk | 5,667
-adaderanasinhalalk | 6,064
+adaderanasinhalalk | 6,066
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,235 (100.0%) of 36,237 articles have been extended.
+36,237 (100.0%) of 36,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### දියවන්නා ඔයේ මළසිරුරක් පාවෙයි
+
+*2024-07-20 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199011) · `si`
+
+දියවන්නාව ජපන් මිත්‍රත්ව මාර්ගයේ ශරීර සුවතා මංතීරුව අසලදී පුද්ගලයෙකු විසින් අද (20) උදෑසන මෙම මළසිරුර දැක ඇත.
+
+පොලීසිය පැවසුවේ වයස අවුරුදු 60 හෝ 65ක පමණ පුද්ගලයෙකු මෙලෙස මියගොස් ඇති බවය.
+
+තලංගම පොලීසිය හා මිරිහාන සොකෝ ඒකකය විසින් මේ සම්බන්ධයෙන් ඉදිරි පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/e6f64474.json)
+
+---
+
+### බංග්ලාදේශයේ සිසු විරෝධය තවත් තීව්‍ර වෙයි
+
+*2024-07-20 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199010) · `si`
+
+බංග්ලාදේශය සිසු විරෝධතා අතරතුරදී මියගිය පිරිස 105ක් දක්වා ඉහළ ගොස් තිබේ.
+
+විදෙස් මාධ්‍ය තවදුරටත් වාර්තා කරන්නේ මරණ ගණන නිශ්චිත නොවන අතර එය ඉහළ අගයක් ගත හැකි බවය.
+
+බහුතර මරණ ගණනක් සිදුවී ඇත්තේ පොලිස් ප්‍රහාරවලින් බව සඳහන් ය.
+
+තවදුරටත් ප්‍රචණ්ඩකාරී ස්වරූපයක් ගෙන ඇති විරෝධතා හේතුවෙන් රටපුරා ක්‍රියාත්මක වන පරිදි ඇඳිරිනීතිය පනවා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+බංග්ලාදේශ අගමැති ෂෙයික් හසීනා ප්‍රමුඛ රජයට එරෙහි සිසුන්ගෙන් එල්ලවන විරෝධය තවදුරටත් තීව්‍ර වෙමින් පවතී.
+
+විරෝධතා තවදුරටත් ප්‍රචණ්ඩ ස්වරූපයක් ගන්නේ විරෝධතා පාලනයට එරට සන්නිවේදන සබඳතාව අත්හිටුවා ඇති පසුබිමකය.
+
+කලහකාරී ලෙස හැසිරෙන විරෝධතාකරුවන් එරට නර්සින්ග්ඩි බන්ධනාගාරයට කඩාවැදී ඇති අතර සිරකරුවන් සිය ගණනක් ඉන් පළාගොස් ඇති බව වාර්තා වෙයි.
+
+සිසු විරෝධතා සඳහා බංග්ලාදේශයේ ප්‍රධාන විපක්ෂය වන බංග්ලාදේශ ජාතික පක්ෂය ද සහාය පළකර ඇති අතර ඔවුන්ට සහාය වන ලෙස විපක්ෂය රටේ සියලුම ජනතාවගෙන් ඉල්ලීම් කර තිබේ.
+
+විරෝධතා අවසන් කිරීම සඳහා රජය සහ විරෝධතාකරුවන් අතර මෙතෙක් පැවති සියලුම සාකච්ඡා අසාර්ථකවී ඇත.
+
+...
+
+[Data](articles/6c1a9448.json)
+
+---
 
 ### Country’s true wealth lies in its youth, not in struggling SOEs – President
 
@@ -47,6 +91,8 @@ At the event, the President unveiled a plaque and formally transferred the colle
 ...
 
 [Data](articles/47aa46ef.json)
+
+[Extended Data](ext_articles/47aa46ef.ext.json)
 
 ---
 
@@ -177,6 +223,8 @@ However President’s Counsel Wickramaratne has explained that the leaving out S
 ...
 
 [Data](articles/1c05d1e8.json)
+
+[Extended Data](ext_articles/1c05d1e8.ext.json)
 
 ---
 
@@ -2297,51 +2345,5 @@ The films 'Ponni Selvan 2' and 'Japan', which have been released last year, have
 [Data](articles/56d7334d.json)
 
 [Extended Data](ext_articles/56d7334d.ext.json)
-
----
-
-### First Single release in 'Thangalan' starring Sean Vikram
-
-*2024-07-19 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188868) · `ta`
-
-"Thangalan," featuring Sean Vikram, releases its first single, "Annakkili Varnakkili." Directed by Ranjith, it stars Hollywood actor Daniel Caldekiron and is set to premiere as a historical fantasy in Tamil, Telugu, Malayalam, Kannada, and Hindi on August 15th. The soundtrack, composed by Jee V Prakash Kumar, is highly anticipated, with fans praising its melody and lyrics penned by Umadevi, sung by Sindhuri-Vishal."
-
-🟩
-
-The first song, 'Annakkili Varnakkili', which is being played in the film 'Thangalan' starring Siyan Vikram in the international film industry, has been released in the international film industry.
-
-The creator who sounds the voice of the oppressed people through his works. Hollywood actor Daniel Caldekiron has starred in the film 'Thangalan' in Ranjith.
-
-A.. Kishore Kumar is a cinematography by Jee.. V Prakash Kumar has composed the music. The film is being produced by Studio Green - Neelam Productions - Geo Studios, which is ready to be a historical fantasy entertainer.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 15th of August, and the first song, 'Annakkili Valakkili', which will be released.
-
-The song is written by Umadevi, the background singer Sindhuri -Vishal. The song and the rhythm of the song and the music are very impressed by the fans.
-
-◼️
-
-[Data](articles/d559c987.json)
-
-[Extended Data](ext_articles/d559c987.ext.json)
-
----
-
-### Sri Lanka gazettes bill to change Article 83 of the constitution
-
-*2024-07-19 15:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-gazettes-bill-to-change-article-83-of-the-constitution-172921/) · `en`
-
-ECONOMYNEXT – Sri Lanka has published a gazette notice to change Article 83 of the constitution which has a reference to a six year term of the President.
-
-“Article 83 of the Constitution of the Democratic Socialist Republic of Sri Lanka is hereby amended in paragraph (b) thereof, by the substitution for the words “to over six years,”, of the words “to over five years,” the gazette notice issued on the orders of President Ranil Wickremesinghe says.
-
-There is a discrepancy in the Article 83 with reference to a six year term, while the rest of the constitution, refers to a five year term.
-
-Opposition parties and lawyers have charged that the legal process involving changing the constitution could potentially delay the upcoming Presidential elections. (Colombo/July19/2024)
-
-◼️
-
-[Data](articles/3334d8f0.json)
-
-[Extended Data](ext_articles/3334d8f0.ext.json)
 
 ---

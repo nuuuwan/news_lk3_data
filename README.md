@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 14:05:54**
+As of **2024-07-20 14:20:22**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 6,070
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,254 (100.0%) of 36,258 articles have been extended.
+36,258 (100.0%) of 36,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### අලි සබ්රි රහීම් ට ඇප
+### Ali Sabri affillations bailed
 
 *2024-07-20 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199015) · `si`
 
-පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්රි රහීම් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂ 02ක ශරීර ඇපයක් මත මුදා හැරීමට නියෝග කර තිබේ.
+Ali Sabri Rahiel, a Puttalam District Parliamentarian, was arrested but later released on bail. He must appear in court on July 22 as per orders from the Puttalam Acting Magistrate.
 
-එහිදී පුත්තලම වැඩබලන මහෙස්ත්‍රාත් නියෝග කර ඇත්තේ ඔහුට ජුලි 22 වනදා අධිකරණය හමුවේ පෙනී සිටින ලෙසය.
+🟩
 
-අලි සබ්රි රහීම් අද (20) පෙරවරුවේ පොලිස් අත්අඩංගුවට ගෙන තිබුණි.
+Puttalam District Parliamentarian Ali Sabri rahriel was ordered to be released on a bail of Rs.
 
-ඔහුට පසුගියදා වරෙන්තු නිකුත් කෙරුණු අතර අද කල්පිටිය පොලීසියට පැමිණි අවස්ථාවේදී මෙලෙස අත්අඩංගුවට ගෙන ඇති බව වාර්තා විය.
+Puttalam Acting Magistrate ordered him to appear before the court on July 22.
+
+Ali Sabry was arrested by the police this morning.
+
+He recently released warrants and had been arrested when he came to the Kalpitiya Police.
 
 ◼️
 
 [Data](articles/943b5903.json)
 
+[Extended Data](ext_articles/943b5903.ext.json)
+
 ---
 
-### චීනයේ පාලමක් කඩා වැටෙයි - 11ක් මියයයි
+### China collapses in China collapses
 
 *2024-07-20 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199014) · `si`
 
-වයඹදිග චීනයේ  Shaanxi පළාතේ අධිවේගී මාර්ගයක් දිවෙන පාලමක් කඩා වැටී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+A bridge in Shaanxi, China, collapsed due to heavy rain and flooding, killing at least 11 people and leaving 30 missing. Rescue efforts are ongoing, with five vehicles retrieved so far.
 
-අනතුරින් අවම වශයෙන් පුද්ගලයින් 11 දෙනෙකු මියගොස් ඇති බව චීන වාර්තා සඳහන් කරයි.
+🟩
 
-අදාළ ප්‍රදේශයට පැවති වර්ෂාව සහ හදිසි ගංවතුර තත්ත්වයක් හේතුවෙන් පාලම කඩා වැටී ඇති බවද සඳහන්ය.
+Foreign media reports that a bridge on the province of Shaanxi in Northwest China has collapsed.
 
-ගලවාගැනීමේ කණ්ඩායම් මැදිහත්වී පාලම කඩා වැටීම හේතුවෙන් ගඟට පෙරළී තිබූ වාහන 05ක් සොයාගෙන තිබේ.
+At least 11 people have died in the accident.
 
-අනතුරින් පුද්ගලයින් 30 දෙනෙකු අතුරුදන් වී සිටින අතර ඔවුන් සොයා මෙහෙයුම් ක්‍රියාත්මකය.
+The bridge has collapsed due to the rain and a flood.
+
+Five vehicles have been recovered due to the collapse of the rescue teachers.
+
+Thirty people have gone missing and in the operation.
 
 ◼️
 
 [Data](articles/89e2006e.json)
+
+[Extended Data](ext_articles/89e2006e.ext.json)
 
 ---
 
@@ -84,25 +96,37 @@ The parliamentarian, against whom a warrant had been issued recently, was arrest
 
 [Data](articles/0c95bd2f.json)
 
+[Extended Data](ext_articles/0c95bd2f.ext.json)
+
 ---
 
-### බංග්ලාදේශයේ රැඳී සිටින ලාංකික සිසුන්ගේ තත්ත්වය
+### Sri Lankan students who remain in Bangladesh
 
 *2024-07-20 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199013) · `si`
 
-බංග්ලාදේශය තුළ උද්ගතව ඇති නොසන්සුන්කාරී තත්ත්වය හමුවේ එරට රැඳී සිටින ශ්‍රී ලාංකික සිසුන්ගේ ආරක්ෂාව තහවුරු කිරීමට පියවර ගෙන ඇති බව විදේශ කටයුතු අමාත්‍යංශය පවසයි.
+The Sri Lankan student community in Bangladesh faces challenges as universities close amid unrest. The government assures their safety, but tensions escalate, leading to curfews and violence resulting in numerous deaths.
 
-එරට විශ්වවිද්‍යාල 03ක ශ්‍රී ලාංකික සිසුන් 50 දෙනෙකු පමණ අධ්‍යයන කටයුතුවල නිරත වන බව අමාත්‍යංශය පෙන්වා දී තිබේ.
+🟩
 
-බංග්ලාදේශයේ ක්‍රියාත්මක විරෝධතා හේතුවෙන් විශ්වවිද්‍යාල වසා දමා තිබුණ ද විදේශීය සිසුන්ට එරටින් ඉවත් වන ලෙස දැනුම් දීමක් සිදුකර නොතිබීම හේතුවෙන් ශ්‍රී ලාංකික සිසුන් ආරක්ෂිතව නේවාසිකාගාර තුළ රැඳී සිටින බව විදේශ කටයුතු අමාත්‍යංශය පැවසීය.
+The Ministry of External Affairs says that steps have been taken to ensure the safety of Sri Lankan students who have been staying in Bangladesh.
 
-බංග්ලාදේශයේ ශ්‍රී ලංකා මහ කොමසාරිස්වරයා එම සිසුන් හමුවී පෞද්ගලිකව ඔවුන්ගේ අවශ්‍යතා සම්බන්ධයෙන් සොයා බලා ඇති අතර සිසුන්ගේ ආරක්ෂාව පිළිබඳව එම විශ්වවිද්‍යාලවල පාලනාධිකාරිය සමග ද සාකච්ඡා කර ඇත.
+The Ministry has pointed out that about 50 Sri Lankan students of the country are engaged in study of three universities.
 
-රජයේ රැකියා කෝටා ක්‍රමවේදය වෙනස් කළ යුතු බවට බලකරමින් සිසුන් මූලික කරගත් විරෝධතා උත්සන්න වීම හේතුවෙන් මේ වන විට බංග්ලාදේශය පුරා ඇඳිරි නීතිය ප්‍රකාශයට පත් කර තිබේ.
+The Ministry of External Affairs said that the universities were closed due to the universities in Bangladesh.
+
+The High Commissioner of Sri Lanka in Bangladesh has met with students and look into their needs and discussed with the administration of the students.
+
+Due to the escalation of the students to change the Government Job Corporation, the students have been declared a curfew in Bangladesh.
+
+105 deaths have been reported due to the clashes between the protesters and the police, while 52 protesters have died yesterday (19).
+
+Student union representatives have stated that the troops have been summoned to ensure the security of troops, though the crushed law has been summoned.
 
 ...
 
 [Data](articles/e8746eec.json)
+
+[Extended Data](ext_articles/e8746eec.ext.json)
 
 ---
 

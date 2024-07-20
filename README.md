@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 21:54:57**
+As of **2024-07-20 22:08:16**
 
 ## Newspaper Stats
 
-*Scraped **36,294** Articles*
+*Scraped **36,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,060
 economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,271
-adaderanalk | 4,196
+adaderanalk | 4,197
 tamilmirrorlk | 4,420
 dailymirrorlk | 4,733
 virakesarilk | 5,677
@@ -26,55 +26,89 @@ adaderanasinhalalk | 6,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,291 (100.0%) of 36,294 articles have been extended.
+36,294 (100.0%) of 36,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### යළිත් දුම්රිය වර්ජනයක් කළොත් රැකියාව අහිමි වෙයි ?
+### 19A controversy: Jayampathy Wickramaratne  responds to President’s accusation
+
+*2024-07-20 21:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100655/19a-controversy-jayampathy-wickramaratne-responds-to-presidents-accusation) · `en`
+
+President’s Counsel Dr. Jayampathy Wickramaratne has revealed that during the drafting of the 19th Constitutional Amendment, the terms of the President and the Parliament were proposed to be reduced from six to five years, however, the decision was made to retain the possibility of extending these terms to six years, as any further changes would necessitate a referendum.
+
+Dr. Wickramaratne stated this in a statement released today (20) in response to the public apology made by President Ranil Wickremesinghe on Friday (19) for the alleged oversight involving the senior attorney.
+
+In his statement, President’s Counsel Dr. Wickramaratne points out that the former government took the decision that the entire drafting process of the 19th Amendment should be carried out on the basis that the Bill should not be placed for approval at a referendum, in keeping with then President Maithripala Sirisena’s electoral pledge.
+
+...
+
+[Data](articles/12c5faab.json)
+
+---
+
+### Losing the job if you make a strike again?
 
 *2024-07-20 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199029) · `si`
 
-ජනතාව අපහසුතාවයට පත්වන ආකාරයෙන් යළිත් වරක් දුම්රිය සේවකයින් වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරතවුවහොත් ඔවුන් සේවය අතහැර ගියා සේ සලකන බව ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+Minister Bandula warns of job loss for repeat strikers, calling such actions extreme wrongdoings. He emphasizes the importance of dialogue over strikes. The Hatton New Railway Station and Market Complex, completed in 2020, remain closed as of this year.
 
-ප්‍රවාහනය අත්‍යවශ්‍ය සේවයක් බවට පත්වී තිබියදී වර්ජනවල නිරත වීම අතිශය වැරදි සහගත ක්‍රියාවක් බවත් ඕනෑම ගැටලුවක් සාකච්ඡා කිරීමට දුම්රිය සේවකයින්ට අවස්ථාව සලසාදී ඇති බවත් අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-මතභේදකාරී තත්ත්වයකට තුඩු දී ඇති 2020 වසරේ දී වැඩ අවසන් වු හැටන් නව දුම්රිය ස්ථානය සහ වෙළෙඳ සංකීර්ණය මේ දක්වාත් විවෘත කර නොමැති අතර එහි නිරීක්ෂණ චාරිකාවකට එක්වීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා එම අදහස් පළ කළේය.
+Transport Minister Bandula Gunawardena says that if the people have been inconvenienced once again in trade union action, they will be treated for their service.
+
+The Minister said that the strike was an extremely wrongdoing and the opportunity to discuss any issues, the minister said.
+
+The Hatton New Railway Station and the Market Complex, which was completed in 2020, has not been opened to this year.
 
 ◼️
 
 [Data](articles/13545509.json)
 
+[Extended Data](ext_articles/13545509.ext.json)
+
 ---
 
-### கைதியின் முகத்தை வெட்டிய கைதி
+### Prisoner
 
 *2024-07-20 21:25:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதியின்-முகத்தை-வெட்டிய-கைதி/175-340720) · `ta`
 
-மாத்தறை சிறைச்சாலையில் கைதி ஒருவர் இன்று (20) மற்றொரு கைதியின் முகத்தை பிளேடால் வெட்டி காயப்படுத்தியுள்ளார்.
+In a shocking incident at Matara Prison, one inmate severely injured another by cutting his face on April 20th.
+
+🟩
+
+A prisoner at Matara Prison has cut down another prisoner's face today (20).
 
 ◼️
 
 [Data](articles/7be1e387.json)
 
+[Extended Data](ext_articles/7be1e387.ext.json)
+
 ---
 
-### මෙන්ඩිස් LPL පිටිය වර්ණවත් කරයි
+### Mendis color the LPL field
 
 *2024-07-20 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199028) · `si`
 
-ලංකා ප්‍රිමියලීග් ක්‍රිකට් තරගාවලියේ දෙවන අවසන් පුර්ව තරගය කැන්ඩි ෆැල්කන්ස් කණ්ඩායම සහ ජැෆ්නා කින්ග්ස් කණ්ඩායම අද (20) පැවැත්වෙයි.
+In the Lanka Premier League cricket tournament, the Candy Falcons and Jaffna Kings faced off in the finals. The Candy Falcons' captain won the toss and chose to bat first. Despite this decision, the Jaffna Kings managed to score 187 runs in 20 overs, losing 7 wickets. A standout performance came from Kusal Mendis of the Jaffna Kings, who scored 105 runs, contributing significantly to his team's total.
 
-තරගයේ කාසියේ වාසිය දිනා ගත් කැන්ඩි ෆැල්කන්ස් කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීම සඳහා ජැෆ්නා කින්ග්ස් කණ්ඩායමට ආරාධනා කළේය.
+🟩
 
-ඒ අනුව පළවෙන් පන්දුවට පහරදුන් ජැෆ්නා කින්ග්ස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 07ක් දැවී ලකුණු 187ක් රැස්කළේය.
+The second end of the Lanka Premioe Cricket Tournament is the second final premises of Candy Falcation team and Jaffa Kings team will be held today (20).
 
-එහිදී ජැෆ්නා කින්ග්ස් කණ්ඩායම වෙනුවෙන් අගනා ඉනිමක් ක්‍රීඩා කළ කුසල් මෙන්ඩිස් නොදැවී ලකුණු 105ක් රැස්කළේය.
+The leader of candy falcons, won the toss and invited him to bat first.
+
+Accordingly, Jatna Kings Gungs scored 187 runs for the loss of 07 wickets at the end of 20 overs.
+
+Kusal Mendis, who played a precious innings for Japna Kugs, scored 105 runs.
 
 ◼️
 
 [Data](articles/89491889.json)
+
+[Extended Data](ext_articles/89491889.ext.json)
 
 ---
 
@@ -2325,21 +2359,5 @@ In the 16th century, the Florentine diplomat Niccolo Machiavelli, in his book �
 [Data](articles/24408d5b.json)
 
 [Extended Data](ext_articles/24408d5b.ext.json)
-
----
-
-### Post-Aragalaya challenge to minorities
-
-*2024-07-19 23:23:57* · [`dailyftlk`](https://www.ft.lk/columns/Post-Aragalaya-challenge-to-minorities/4-764496) · `en`
-
-That uprising exposed at last the vacuity of SBM as a constructive national ideology and signalled the need for a model of governance that would deliver those ideals
-
-The 2022 Aragalaya was a landmark event in Sri Lankan politics. It was the harbinger for a new era in which the old political culture and governance with all its accoutrement would be thrown out and a new system of governance free of all past evils would be put in place. It was therefore an opportunity for the minorities who had suffered continually and immensely in the previous era to welcome this occasion. Instead, and shockingly, they are caught in a quandary and appear to have become saboteurs of the new and guardians of the old era.
-
-...
-
-[Data](articles/8e6aa1b5.json)
-
-[Extended Data](ext_articles/8e6aa1b5.ext.json)
 
 ---

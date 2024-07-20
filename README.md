@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 11:35:36**
+As of **2024-07-20 11:55:24**
 
 ## Newspaper Stats
 
-*Scraped **36,235** Articles*
+*Scraped **36,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 338
 bbccomsinhala | 355
 newsfirstlk | 363
 islandlk | 2,060
-economynextcom | 2,165
+economynextcom | 2,166
 dailyftlk | 2,314
 adalk | 3,268
-adaderanalk | 4,185
+adaderanalk | 4,186
 tamilmirrorlk | 4,404
 dailymirrorlk | 4,733
 virakesarilk | 5,667
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,064
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,232 (100.0%) of 36,235 articles have been extended.
+36,235 (100.0%) of 36,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### Country’s true wealth lies in its youth, not in struggling SOEs – President
+
+*2024-07-20 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100643/countrys-true-wealth-lies-in-its-youth-not-in-struggling-soes-president) · `en`
+
+President Ranil Wickremesinghe stated that restructuring loss-making public institutions will enable the government to allocate more resources to education and healthcare in the future.
+
+He emphasized that the country’s true wealth lies in its youth, not in struggling state enterprises. The President noted that many state enterprises are now operating without burdening the government, and he expects that the financial obligations related to SriLankan Airlines will be resolved by the end of the year.
+
+President Wickremesinghe made these remarks during the ceremony to hand over the newly built Faculty of Allied Health Sciences at the Ruhuna University, located in Walahanduwa, Galle, yesterday (19).
+
+At the event, the President unveiled a plaque and formally transferred the college building to the students. He also took time for a tour and engaged in friendly discussion with the university staff.
+
+...
+
+[Data](articles/47aa46ef.json)
+
+---
 
 ### MP Ali Sabri Raheem arrested
 
@@ -46,21 +64,29 @@ Police said that he will be produced before the court today.
 
 [Data](articles/0eb1bba8.json)
 
+[Extended Data](ext_articles/0eb1bba8.ext.json)
+
 ---
 
-### අලි සබ්රි රහීම් අත්අඩංගුවට
+### Ali Sabri rahman arrested
 
 *2024-07-20 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199009) · `si`
 
-පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන අලි සබ්රි රහීම් අද (20) පෙරවරුවේ පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+Ali Sabri Rahman, a Puttalam District member, was arrested by police after releasing warrants. He was taken into custody upon arriving at the Kalpitiya Police station and will appear in court today.
 
-ඔහුට පසුගියදා වරෙන්තු නිකුත් කෙරුණු අතර අද කල්පිටිය පොලීසියට පැමිණි අවස්ථාවේදී මෙලෙස අත්අඩංගුවට ගෙන ඇති බව සඳහන්ය.
+🟩
 
-ඒ අනුව අලි සබ්රි රහීම් ව අද අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇත.
+Ali Sabrici, a member of Puttalam District, has been arrested by the police.
+
+He recently released warrants and was arrested when he came to the Kalpitiya Police today.
+
+Accordingly, Ali Sabri rahim is to be produced in court today.
 
 ◼️
 
 [Data](articles/c341c5df.json)
+
+[Extended Data](ext_articles/c341c5df.ext.json)
 
 ---
 
@@ -79,6 +105,8 @@ Gunawardena assured that there are no plans to postpone the elections, as certai
 ◼️
 
 [Data](articles/b6a0f987.json)
+
+[Extended Data](ext_articles/b6a0f987.ext.json)
 
 ---
 
@@ -129,6 +157,26 @@ The suspect has been produced before the Palapitiya Magistrate's Court and kept 
 [Data](articles/f1045245.json)
 
 [Extended Data](ext_articles/f1045245.ext.json)
+
+---
+
+### New constitutional amendment a ‘necessary revision’: Sri Lanka President
+
+*2024-07-20 09:57:00* · [`economynextcom`](https://economynext.com/new-constitutional-amendment-a-necessary-revision-sri-lanka-president-172980/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President has said a proposed amendment to the country’s constitution was a ‘necessary revision’, which would not result in a postponement of elections.
+
+“In 2015, we proposed a new constitutional amendment,” President Wickremesinghe was quoted as saying during a ceremony to open a court complex in Beligaha, Galle on Friday.
+
+“Typically, I would have assigned this task to K N Choksy, a lawyer.
+
+“However, since he had passed away, the responsibility fell to lawyer Jayampathi Wickramaratne. He was unable to make the necessary revisions. This oversight is regrettable, and I apologize to the nation for it.”
+
+However President’s Counsel Wickramaratne has explained that the leaving out Section 83 (b) of the constitution was a not an “oversight” but it was a result of instructions received by the then administration to avoid making changes that required a referendum.
+
+...
+
+[Data](articles/1c05d1e8.json)
 
 ---
 
@@ -2295,63 +2343,5 @@ Opposition parties and lawyers have charged that the legal process involving cha
 [Data](articles/3334d8f0.json)
 
 [Extended Data](ext_articles/3334d8f0.ext.json)
-
----
-
-### Rocky flintoff keep a record
-
-*2024-07-19 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198987) · `si`
-
-In the fourth unofficial Test match between Sri Lanka and England, Sri Lanka made 246 in their second innings after scoring 153 in the first, while England amassed 477. A 16-year-old, Rocky Flintoff, son of cricketer Andrew Flintoff, scored a century, marking his debut in Test cricket.
-
-🟩
-
-Today is the four-unofficial Test between the 19-year-old Test match between 19 years of age and 19-year-olds.
-
-Sri Lanka scored 246 runs for the loss of 7 wickets in their second innings when the match was stopped yesterday.
-
-Sri Lanka scored 153 runs for their first innings, while England youths scored 477 runs.
-
-Sri Lankan players should obtain 78 more to escape the defeat of an innings.
-
-It became a player who scored a century at the lowest century at the lowest year of England.
-
-The 16 year old Rocky Flisteff is the son of the superior performance Alanguard, England.
-
-◼️
-
-[Data](articles/e53528df.json)
-
-[Extended Data](ext_articles/e53528df.ext.json)
-
----
-
-### Parliament debate in artificial intelligence
-
-*2024-07-19 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/198986) · `si`
-
-The Parliament scheduled debates from July 23 to 26, focusing on AI technology's impact on national security, religion, and culture. The agenda includes the Civil Procedure Code Amendment and Judicial Service Act discussions. On July 24, MP Madura Withanage will lead a discussion on AI technology.
-
-🟩
-
-The Second Reading Debate on the 25th of the Parliamentary Business of Parliament yesterday (January) has decided to conduct the second reading of the Device Management and Economic Translation Debate on the 25th of this month.
-
-Accordingly, the Parliament will meet up to 23 to 26 and Tuesday, July 23, will be allocated for questions that require verbal answers to 10.30 am to 10.30 am.
-
-The Civil Procedure Code (Amendment) (Second Reading) (Second Reading) (Second Reading) Bill and the Judicial Service Act will be debated under the Bill and the Judicial Organization Act.
-
-The motion is to be debated at the time of the House of Opposition to 5:00 pm to 4 pm.
-
-Wednesday 24th July 24 am to 10 am to 10:00 am to 10:00 am.
-
-After 10.30 am to 5.30 pm MP Madura Withanage, "AI Technology," the artological intelligence technology (AI technology) will be held in the impact of national security, all religions and the country's culture. "
-
-Thursday 25 am to 2:00 am to 5 pm
-
-...
-
-[Data](articles/7893d483.json)
-
-[Extended Data](ext_articles/7893d483.ext.json)
 
 ---

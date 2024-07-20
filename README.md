@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 13:20:23**
+As of **2024-07-20 13:35:26**
 
 ## Newspaper Stats
 
@@ -26,27 +26,37 @@ adaderanasinhalalk | 6,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,250 (100.0%) of 36,254 articles have been extended.
+36,254 (100.0%) of 36,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### ජනපති සමාව ගත් සිද්ධිය ගැන ජයම්පති දුන් පිළිතුර
+### Jayampathi's answer to the President's forgiveness
 
 *2024-07-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199012) · `si`
 
-19 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය කෙටුම්පත් කිරීමේදී ජනාධිපතිවරයාගේ සහ පාර්ලිමේන්තුවේ ධුර කාලය වසර හයේ සිට වසර 5 දක්වා අඩු කළ නමුත්, එම ධුර කාල වැඩි කළ හැකි හය අවුරුද්දේ උපරිමය වෙනස් කිරීමට යෝජනා නොකළේ එවැන්නකට ජනමත විචාරණයක් අවශ්‍ය වූ බැවින් බව ජනාධිපති නීතිඥ ආචාර්ය ජයම්පතී වික්‍රමරත්න මහතා පවසයි.
+In response to the President's forgiveness, Dr. Jayampathi Wickramaratne clarified that the 19th Amendment reduces the presidential and parliamentary terms to 5 years, not 6, due to constitutional requirements for referendums on certain clause changes. He emphasized the government's decision against holding a referendum during the amendment's drafting, adhering strictly to the original plan without altering the maximum term length. Despite the Attorney General's stance that no referendum was needed, Wickramaratne expressed disappointment over the lack of reduction in the maximum term length, highlighting that the amendment process was not based on President Sirisena's election promises.
 
-19 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථාව සම්බන්ධයෙන් ඊයේ (19) ගාල්ලේ පැවැති උත්සවයකදී ජනාධිපතිවරයා කළ ප්‍රකාශයට ජයම්පතී වික්‍රමරත්න මහතා අද (20) ප්‍රතිචාර දක්වා ඇත්තේ, මාධ්‍ය නිවේදනයක් නිකුත් කරමිනි.
+🟩
 
-19 වැනි ව්‍යවස්ථා සංශෝධන ක්‍රියාවලිය අධීක්ෂණය සඳහා එවක අග්‍රාමාත්‍ය රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කැබිනට් අනුකමිටුවක් පත් කරන ලද අතර ඊට නීති කෙටුම්පත් දෙපාර්තමේන්තුවේ විශ්‍රාමික ජ්‍යෙෂ්ඨ නිලධාරීන් තිදෙනෙකු සහ ජනාධිපති නීතිඥ ජයම්පතී වික්‍රමරත්න මහතා ද සම්බන්ධව සිටියේය.
+President's Counsel Dr. Jayampathi Wickramaratne says that the term of the President and Parliament has been reduced to 5 years in drafting the 19th Amendment.
 
-ඊයේ ගාල්ලේ පැවැති උත්සවයකදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසුවේ, 19 වැනි ආණ්ඩුකම ව්‍යවස්ථාවේ 83 වැනි වගන්තිය වෙනස් නොකිරීම ජයම්පතී වික්‍රමරත්න මහතා අතින් පළපුරුද්ද නොමැතිකමින් සිදුවූ අත්වැරැද්දක් ලෙසය.
+Jayamputi Wickramaratne has responded today at a function held in Galle yesterday (19) at a function held in Galle yesterday.
+
+A Cabinet subcommittee was appointed as the Legal Draftsman of the Legal Draftsman of the Legal Draft Department and Presidential Counsel Jayampathi Wickremaratne was also present.
+
+President Ranil Wickremesinghe said yesterday, President Ranil Wickremesinghe said yesterday that Jayampatti Wickramaratne was not different from the 19th Amendment to the 19th Amendment.
+
+Responding to this, the President's Counsel had issued a statement to the media.
+
+His press release points out that the government has decided not to take the process of making any referendum in the formulation of the 19th Amendment Amendment.
 
 ...
 
 [Data](articles/5ffadfc5.json)
+
+[Extended Data](ext_articles/5ffadfc5.ext.json)
 
 ---
 
@@ -68,21 +78,29 @@ The panic-stricken crew has been reassured of the safety by the Indian Coast Gua
 
 [Data](articles/15927154.json)
 
+[Extended Data](ext_articles/15927154.ext.json)
+
 ---
 
-### பரீட்சைக்கு செல்ல மறுத்த மகள் - யாழில் தாய் தற்கொலை
+### Daughter who refuses to go to exam
 
 *2024-07-20 12:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பரீட்சைக்கு-செல்ல-மறுத்த-மகள்-யாழில்-தாய்-தற்கொலை/71-340712) · `ta`
 
-யாழில் பரீட்சைக்கு செல்வதற்கு மகள் மறுத்தமையால் தாயார் தவறான முடிவெடுத்து உயிரை மாய்த்துள்ளார்.
+A daughter's refusal to attend an exam led to her mother's death. The mother, refusing to take the GCE Ordinary Level Examination in Jaffna, became ill and was hospitalized. Despite being transferred for further care, she passed away.
 
-க.பொ.த சாதாரண பரீட்சையின் நடன படத்திற்கான செய்முறை பரீட்சை கடந்த 10ஆம் திகதி நடைபெற்றது. அதற்கு மகள் செல்ல மறுத்தமையால் , தாயார் விரக்தி அடைந்து தனது உயிரை மாய்க்க முயன்ற நிலையில் காப்பாற்றப்பட்டு , தெல்லிப்பழை ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டார்.
+🟩
 
-அங்கிருந்து மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்ட நிலையில், வைத்திய சாலையில் சிகிச்சை பலனின்றி நேற்றைய தினம் வெள்ளிக்கிழமை உயிரிழந்துள்ளார்.  R
+The mother refused to go to the exam in Jaffna and the mother made a wrong decision.
+
+The GCE Ordinary Level Examination was held on the 10th of last month. As the daughter refused to go, the mother was frustrated and saved her life and was admitted to the Tellippalai Base Hospital for treatment.
+
+He was transferred to the Jaffna Bodhana Hospital for further treatment and died on Friday.R
 
 ◼️
 
 [Data](articles/e0f6d448.json)
+
+[Extended Data](ext_articles/e0f6d448.ext.json)
 
 ---
 
@@ -128,23 +146,29 @@ The clashes have also not been confined to Dhaka, with 26 districts reporting in
 
 ---
 
-### மூளாய் வைத்தியசாலையில் நகைகள் பணம் திருட்டு
+### Jewelry money theft at the hospital
 
 *2024-07-20 12:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூளாய்-வைத்தியசாலையில்-நகைகள்-பணம்-திருட்டு/71-340711) · `ta`
 
-யாழ்ப்பாணம் - மூளாய் வைத்தியசாலையில் நோயாளர் பராமரிப்பு பணியாளர்களின் நகை மற்றும் பணம் என்பன கொள்ளையடிக்கப்பட்டுள்ளது.
+In a security breach at Jaffna-Moon Hospital, thieves stole jewelry and cash worth 55,500 rupees from nine locked boxes belonging to staff. The incident occurred after the staff had secured their valuables in the vault before starting work. Investigations are underway following a complaint filed at the Vaddukoddai police station.
 
-வைத்தியசாலையில் நோயாளர் பராமரிப்பு பணிகளில் ஈடுபடும் பணியாளர்களின், கடமை நேரத்தில் அவர்களின் உடமைகளை பாதுகாப்பாக வைப்பதற்காக அறை ஒன்றினுள் 09 பெட்டகங்கள் வைக்கப்பட்டுள்ளன.
+🟩
 
-வழமை போன்று நேற்றைய தினமும் பணியாளர்கள் தமது உடமைகளை பெட்டகத்தினுள் வைத்து பூட்டி விட்டு , தமது கடமைகளுக்கு சென்று இருந்தனர்.
+Jewelry and money of patient care staff at the Jaffna - Moon Hospital has been robbed.
 
-கடமை முடிந்து வந்து பார்த்த வேளை பெட்டகங்கள் உடைக்கப்பட்டு , பணியாளர்களின் இரண்டே கால் பவுண் நகைகள் மற்றும் 55 ஆயிரத்து 500 ரூபாய் என்பன கொள்ளையடிக்கப்பட்டுள்ளது.
+There are 09 boxes in the room to keep their belongings safe at the time of duty at the hospital.
 
-சம்பவம் தொடர்பில் பாதிக்கப்பட்ட பணியாளர்களால் வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ள நிலையில் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.  R
+As usual, yesterday's employees locked their belongings into the vault and went to their duties.
+
+When the duty was over, the boxes were broken and the employees were looted with two -quarters of jewelery and 55 thousand 500 rupees.
+
+Police are conducting investigations as a complaint has been lodged at the Vaddukoddai police station by the victims.R
 
 ◼️
 
 [Data](articles/4f4a626b.json)
+
+[Extended Data](ext_articles/4f4a626b.ext.json)
 
 ---
 

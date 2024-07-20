@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 18:54:11**
+As of **2024-07-20 19:05:23**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,279 (100.0%) of 36,282 articles have been extended.
+36,282 (100.0%) of 36,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
 
-### මාතර බන්ධනාගාරයේදී බ්ලේඩ් තලයෙන් මුහුණ කපයි
+### Blades faced with blade at Matara Prison
 
 *2024-07-20 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199024) · `si`
 
-මාතර බන්ධනාගාරය තුළදී එක් රැඳවියෙකු විසින් තවත් රැඳවියෙකුගේ මුහුණ බ්ලේඩ් තලයකින් කපා තුවාල සිදුකර තිබේ.
+In Matara Prison, two inmates were injured in a blade fight.
+
+🟩
+
+In Matara Prison, another inmate was cut off from a blade with a blade.
 
 ◼️
 
 [Data](articles/90fc273b.json)
+
+[Extended Data](ext_articles/90fc273b.ext.json)
 
 ---
 
@@ -274,45 +280,59 @@ Ada Derana reporter said that the fuel in that fuel to another bowl is currently
 
 ---
 
-### ஜனாதிபதி தேர்தலை பிற்போடுவது தமிழ் மக்களுக்கு நல்லது - சி.வி விக்னேஸ்வரன்
+### The presidential election is good for the Tamil people - CV Vigneswaran
 
 *2024-07-20 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188949) · `ta`
 
-ஜனாதிபதி தேர்தலை பிற்போடுவது தமிழ் மக்களுக்கு நன்மை பயக்கும் என பாராளுமன்ற உறுப்பினர் சி.வி விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+CV Vigneswaran argues that postponing the presidential election benefits the Tamil community and the nation as a whole. He highlights potential instability due to no candidate securing over 50% votes, which could exacerbate existing economic crises and lead to significant election-related spending affecting the economy. He calls for unity among parties to advocate for a one-year delay in the election to ensure political stability and economic recovery.
 
-யாழ்ப்பாணத்தில் இன்று சனிக்கிழமை (20) நடைபெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி தேர்தலை பிற்போடுவது முழு நாட்டிற்கும் நன்மை பயக்கும். அதிலும் குறிப்பாக தமிழர்களுக்கு நன்மையே.
+Parliamentarian CV Wigneswaran says that the postponement of the presidential election is beneficial to the Tamil people.
 
-இந்த ஜனாதிபதி தேர்தலை பொறுத்த வரைக்கும் வேட்பாளர் எவரும் 50 வீதத்திற்கும் அதிகமான வாக்குகளை பெற முடியாத நிலைமை காணப்படுகிறது. அதனால் அவர்கள் சிறுபான்மையின மக்களின் வாக்குகளை பெற முனைப்பு காட்டுவார்கள்.
+He said this during a media briefing held in Jaffna today (20).
 
-அதேநேரம் ஜனாதிபதி தேர்தலில் எவரும் 50 வீதத்திற்கும் அதிகமான வாக்குகளை பெறாத நிலைமை ஏற்படும் போது நாட்டில் அரசியல் ஸ்திரத்தன்மை இல்லாமல் போகும்.
+The postponement of the presidential election is beneficial to the whole country. Especially for the Tamils.
 
-ஏற்கனேவே நாட்டில் பொருளாதார நெருக்கடிகள் காணப்படுகிறது. அந்நிலையில் அரசியல் ஸ்திரத்தன்மை இல்லாது போனால் நாடும் மிக மோசமான பொருளாதார பின்னடைவுகளை சந்திக்க நேரிடும்.
+As far as the presidential election is concerned, no one can get more than 50 percent votes. So they will try to get the votes of the minority people.
 
-அத்துடன், தேர்தலுக்காக பெருமளவான நிதிகள் செலவழிக்கப்பட வேண்டிய நிலைமையும் ஏற்படும். அதுவும் நாட்டின் பொருளாதாரத்தை பாதிக்கும்.
+At the same time, when no one gets more than 50 percent votes in the presidential election, the country will be without political stability.
 
-...
+There are already economic crises in the country. If there is no political stability, the country will face the worst economic setbacks.
+
+In addition, there will be a situation where large funds will be spent on the election. That too will affect the country's economy.
+
+Therefore, all parties should come together and make a demand for a one -year presidential election.
+
+◼️
 
 [Data](articles/182438a5.json)
 
+[Extended Data](ext_articles/182438a5.ext.json)
+
 ---
 
-### யாழ். பருத்தித்துறையில் இருந்து கடற்தொழிலுக்கு சென்ற நால்வரை காணவில்லை
+### Yall. Missing the four -year -old who went from Point Pedro
 
 *2024-07-20 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188945) · `ta`
 
-யாழ்ப்பாணம் பருத்தித்துறை பகுதியில் இருந்து கடற்தொழிலுக்காக கடலுக்குள் சென்ற 4 கடற்தொழிலாளர்கள் சுமார் 12 நாட்களுக்கு மேலாக கரை திரும்பவில்லை என தெரிவிக்கப்படுகிறது.
+Four fishermen from Jaffna's Point Pedro, along with others from Valvettithurai, Mulliyan, Kalmunai, and Trincomalee, went missing after setting sail on July 7th. Initially expected back in five days, their families filed a complaint after 12 days without return. The police have alerted the Navy and Marines, who are now investigating the disappearance.
 
-வல்வெட்டித்துறை, முள்ளியான், கல்முனை மற்றும் திருகோணமலை ஆகிய பகுதிகளை சேர்ந்த 04 கடற்தொழிலாளர்களும் கடந்த 07ஆம் திகதி ஒரு படகில் கடற்தொழிலுக்கு சென்று இருந்தனர்.
+🟩
 
-தொழிலுக்கு சென்ற நால்வரும் 05 தினங்களுக்குள் கரை திரும்பி இருக்க வேண்டும். ஆனாலும் அவர்கள் 12 நாட்களாக கரை திரும்பவில்லை என பருத்தித்துறை போலிஸ் நிலையத்தில் கடற்தொழிலாளர்களின் உறவினர்கள் முறைப்பாடு செய்துள்ளனர்.
+It is reported that 4 fishermen from the Jaffna Point Pedro area have not returned to the shore for more than 12 days.
 
-முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்துள்ள பருத்தித்துறை பொலிஸார் கடற்படையினருக்கும் தகவல் வழங்கியுள்ள நிலையில் கடற்படையினரும் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+The 04 fishermen from Valvettithurai, Mulliyan, Kalmunai and Trincomalee were also traveling in a boat on the 07th.
+
+The four who went to the business should be back in the shore within 5 days. However, relatives of the fishermen have lodged a complaint at the Point Pedro Police Station that they have not returned to shore for 12 days.
+
+According to the complaint, the Point Pedro Police have informed the Navy and the Marines are conducting investigations.
 
 ◼️
 
 [Data](articles/59a6b7f7.json)
+
+[Extended Data](ext_articles/59a6b7f7.ext.json)
 
 ---
 

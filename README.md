@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 10:07:40**
+As of **2024-07-20 10:20:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,227 (100.0%) of 36,230 articles have been extended.
+36,230 (100.0%) of 36,230 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Rival armed groups took control of the capital, Port-au-Prince, earlier this yea
 
 [Data](articles/d6bbeb36.json)
 
+[Extended Data](ext_articles/d6bbeb36.ext.json)
+
 ---
 
 ### Increase in HIV/AIDS cases among youth in Sri Lanka
@@ -72,23 +74,31 @@ Dr. Dharmakulasinghe also highlighted an increase in the spread of AIDS among th
 
 [Data](articles/106e63c4.json)
 
+[Extended Data](ext_articles/106e63c4.ext.json)
+
 ---
 
-### බෝට්ටුවක් ගිනි ගැනීමෙන් 40කට අධික පිරිසකට දිවි අහිමි වෙයි
+### More than 40 people lose their lives
 
 *2024-07-20 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199007) · `si`
 
-උතුරු හයිටියේදී සංක්‍රමණිකයින් ගමන් කළ බෝට්ටුවක් ගිනි ගැනීමෙන් පුද්ගලයින් 40 දෙනෙකු ට අධික පිරිසක් මියගොස් තවත් කිහිප දෙනෙකු තුවාල ලබා තිබේ.
+In a tragic incident, over 40 migrants lost their lives, and 40 more were injured when their boat capsized during a journey to the Turks and Caicos Islands. The United Nations reported that the vessel carried more than 80 individuals. Rescue efforts by the Haitian Coast Guard saved 41 survivors, among whom 11 were hospitalized due to burns.
 
-සංක්‍රමණිකයන් සඳහා වූ ජාත්‍යන්තර සංවිධානය උපුටා දක්වමින් එක්සත් ජාතීන්ගේ ප්‍රකාශකයෙකු පවසා ඇත්තේ දින දෙකකට පෙර පුද්ගලයින් 80කට අධික පිරිසක් රැගත් බෝට්ටුවක් ටර්ක්ස් සහ කයිකෝස් දූපත් වෙත ගමන් කර ඇති බවය.
+🟩
 
-දිවි ගලවා ගත් සංක්‍රමණිකයන් 41 දෙනෙකු හයිටි වෙරළාරක්ෂක බළකාය විසින් බේරාගෙන ඇති බව විදසේ වාර්තා සඳහන් කළේය.
+Over 40 people were killed and 40 others were wounded by a boat from the migrants.
 
-සංක්‍රමණිකයන් 11 දෙනෙකු පිළිස්සුම් තුවාල ලබා ප්‍රතිකාර සඳහා රෝහල් ගත කර ඇත.
+A UN spokesman has quoted the International Organization for Migrants Two days ago, a boat carrying over 80 people have been traveling to Turks and Caicos Islands.
+
+41 survival migrants have been rescued by Haiti Coast Guard.
+
+Eleven migrants have been hospitalized for treatment with burn injuries.
 
 ◼️
 
 [Data](articles/8c4de370.json)
+
+[Extended Data](ext_articles/8c4de370.ext.json)
 
 ---
 

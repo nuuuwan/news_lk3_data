@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-20 08:54:33**
+As of **2024-07-20 09:06:30**
 
 ## Newspaper Stats
 
-*Scraped **36,220** Articles*
+*Scraped **36,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 2,060
 economynextcom | 2,165
 dailyftlk | 2,314
 adalk | 3,267
-adaderanalk | 4,178
-tamilmirrorlk | 4,401
+adaderanalk | 4,180
+tamilmirrorlk | 4,402
 dailymirrorlk | 4,733
 virakesarilk | 5,667
-adaderanasinhalalk | 6,060
+adaderanasinhalalk | 6,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,220 (100.0%) of 36,220 articles have been extended.
+36,220 (100.0%) of 36,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-20 (Saturday)
+
+### නව යොවුන් දරුවන් අතර ඒඩ්ස් රෝගය ව්‍යාප්තියේ වර්ධනයක්
+
+*2024-07-20 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199006) · `si`
+
+පසුගිය වසරේදී එච්.අයි.වී ඒඩ්ස් රෝගය වැලඳුන ළමුන් 40 දෙනෙකු හඳුනාගැනීමට හැකිවූ බව ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන ව්‍යාපාරය පවසයි.
+
+එහි ලිංගාශ්‍රිත රෝග පිළිබඳ විශේෂඥ වෛද්‍ය විනෝ ධර්මකුලසිංහ මහත්මිය සඳහන් කළේ වාර්තා වී ඇති වැඩිහිටි පුද්ගලයින් සංඛ්‍යාව 3,169 ක් බවය.
+
+එච්.අයි.වී රෝගය සමඟ ජීවත් වන පුද්ගලයින්ගේ සංඛ්‍යාව 2022 වර්ෂයේ දී 607 ලෙස වාර්තා වී ඇති අතර 2023 වර්ෂයේ දී එම සංඛ්‍යාව 694 ක් ලෙස ඉහළ යාම සියයට 14 ක වර්ධනයක් ඇති බව ඇය පවසයි.
+
+මේ අතර 15 සහ 24 යන නව යොවුන් විය ලෙස සැලකෙන වයස් කණ්ඩය අතරේ ඒඩ්ස් රෝගය ව්‍යාප්ත වීමේ වර්ධනයක් දක්නට ලැබෙන බව ද විශේෂඥ වෛද්‍ය විනෝ ධර්මකුලසිංහ මහත්මිය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/e65ca15e.json)
+
+---
+
+### Bangladesh to impose curfew, deploy army as protests widen, communications disrupted
+
+*2024-07-20 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100637/bangladesh-to-impose-curfew-deploy-army-as-protests-widen-communications-disrupted) · `en`
+
+The Bangladesh government has decided to impose a curfew across the country and deploy the army, BBC Bangla reported on Friday, citing Prime Minister Sheikh Hasina’s press secretary, amid widening student-led protests against government job quotas.
+
+An official decision regarding the curfew would be issued soon, the prime minister’s press secretary, Nayeemul Islam Khan, told BBC Bangla.
+
+Three people were killed in the country on Friday as police cracked down on unrelenting student-led protests against government job quotas despite a ban on public gatherings, local media said.
+
+Police fired tear gas to scatter protesters in some areas, Reuters journalists said. One said he could see many fires across the capital Dhaka from a rooftop and smoke rising into the sky in several places.
+
+Telecommunications were also disrupted and television news channels went off the air. Authorities had cut some mobile telephone services the previous day to try to quell the unrest.
+
+...
+
+[Data](articles/cb6300e8.json)
+
+---
+
+### Prevailing windy conditions expected to continue
+
+*2024-07-20 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100636/prevailing-windy-conditions-expected-to-continue) · `en`
+
+Due to the active South-west Monsoonal condition, the prevailing windy condition over the island is expected to continue further, says the Meteorology Department.
+
+Showery condition over the island is expected to reduce during the next few days temporarily.
+
+Several spells of light showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provincesand in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds about 30-40kmph can be expected at times elsewhere of the island, the department said.
+
+◼️
+
+[Data](articles/20a63e2e.json)
+
+---
 
 ### Bangladesh's curfew imposed
 
@@ -257,6 +315,24 @@ The police said that on the advice of the Badulla Regional Police Superintendent
 [Data](articles/1fa621db.json)
 
 [Extended Data](ext_articles/1fa621db.ext.json)
+
+---
+
+### ’கட்டுப்பாட்டு விலை நிர்ணயிக்க வேண்டி ஏற்படும்’
+
+*2024-07-20 00:57:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பாட்டு-விலை-நிர்ணயிக்க-வேண்டி-ஏற்படும்/175-340706) · `ta`
+
+அரசாங்கம் வழங்கும் சலுகைகளை நுகர்வோருக்கு வழங்குவதற்கு வர்த்தகர்கள் செயற்படாவிட்டால் குறிப்பிட்ட சில பொருள்களுக்கு கட்டுப்பாட்டு விலையை நிர்ணயிக்க நேரிடும் என்று வர்த்தக, வாணிப மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நலின் பெர்னாண்டோ தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று  நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் நலின் பெர்னாண்டோ மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+நுகர்வோர் சட்டத்தில் திருத்தம் செய்ய சட்டங்கள் மாற்றப்பட்டுள்ளன. இன்னும் இரண்டு வாரங்களில் இது தொடர்பான பரிந்துரைகள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும். மேலும், நுகர்வோர் மற்றும் வர்த்தகர் இடையே உள்ள புரிந்துணர்வை அதிகரிக்கும் வகையில் பல்வேறு நடவடிக்கைகள் திட்டமிடப்பட்டுள்ளன.
+
+அது மட்டுமன்றி, தற்போது வாரத்திற்கு ஒருமுறை 15 அத்தியாவசியப் பொருட்களின் விலையை அறிவித்து வருகின்றோம். ஆனால் அரசாங்கம் வழங்கும் சலுகைகள் நுகர்வோர்களுக்கு கிடைக்காமை அவதானிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/5fee1f79.json)
 
 ---
 
@@ -2269,93 +2345,5 @@ The Supreme Court ruled in 2018 that the quota was illegal was illegal, and Prim
 [Data](articles/3d6e3eaf.json)
 
 [Extended Data](ext_articles/3d6e3eaf.ext.json)
-
----
-
-### No such thing as import-substitution economy: Sri Lanka president
-
-*2024-07-19 13:52:00* · [`economynextcom`](https://economynext.com/no-such-thing-as-import-substitution-economy-sri-lanka-president-172882/) · `en`
-
-ECONOMYNEX — There is no such thing as an import-substitution economy and Sri Lanka has to commit to a competitive, modern and export-oriented economy, President Ranil Wickremesinghe said, citing former Australia Prime Minister Scott Morrison.
-
-Speaking at the Sri Lanka Human Capital Summit 2024 on Thursday July 18, Wickremesinghe said Sri Lanka is faced with the problem of getting the whole country to get on board the agenda of developing such an economy.
-
-“When I brought the economic transformation bill, one party in parliament went to court and said it should be rejected because we require an import substitution economy. First and foremost, we must get out of our heads that there is no such thing called an import substitution economy.
-
-“How do you substitute for your imports? You still need the raw material brought. What we have to first undertake and commit ourselves to is to a highly competitive, modern, export-oriented economy, as Prime Minister Scott said.
-
-...
-
-[Data](articles/5bcbce77.json)
-
-[Extended Data](ext_articles/5bcbce77.ext.json)
-
----
-
-### Globally paralyzed Microsoft
-
-*2024-07-19 13:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலகளாவிய-ரீதியாக-முடங்கியது-மைக்ரோசொஃப்ட்/50-340680) · `ta`
-
-Global IT failure affects banks, stock markets, media, and airlines, causing airport closures and flight disruptions. Microsoft is addressing the issue to restore services.
-
-🟩
-
-Foreign media reports that many countries around the world have a sudden IT failure.
-
-They include banks, stock markets, media companies and airlines.
-
-Due to the damage to the airline system, many airports have been closed and many flights have been landed.
-
-However, Microsoft has announced that it is taking steps to repair the situation. Remble
-
-◼️
-
-[Data](articles/dcf4f009.json)
-
-[Extended Data](ext_articles/dcf4f009.ext.json)
-
----
-
-### Tourist ship arriving from India from India
-
-*2024-07-19 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/188849) · `ta`
-
-A luxury tourist ship from Chennai, India, docked at Sri Lanka's Kankesanthurai port early this morning carrying over 800 passengers. It previously visited Hambantota and Trincomalee ports. The ship is set to depart back to India later today.
-
-🟩
-
-A tourist luxury ship from India and Chennai arrived at the Kankesanthurai port at around six o'clock this morning.
-
-The ship arrived at the Jaffna -Kankesan port, which loaded over 800 passengers.
-
-The ship arrived in Sri Lanka - Hambantota yesterday. From there the journey started and arrived at the port of Trincomalee yesterday. In this case, the Jaffna -Kankesan port arrived today.
-
-It is reported that the ship will start traveling again this afternoon to India.
-
-◼️
-
-[Data](articles/1c085930.json)
-
-[Extended Data](ext_articles/1c085930.ext.json)
-
----
-
-### Professor Madhujith appointed Vice Chancellor of Peradeniya University
-
-*2024-07-19 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/188848) · `ta`
-
-Professor WMD Madhujith named Vice Chancellor of Peradeniya University by President Ranil Wickremesinghe, effective August 01, 2024, for a term of three years under Section 34(1)(a) of the University Act.
-
-🟩
-
-Prof. WMD Mathujit has been appointed as the Vice Chancellor of the University of Peradeniya by President Ranil Wickremesinghe.
-
-The appointment has been appointed for three years from August 01, 2024, according to section 34 (1) (a) of the University Act.
-
-◼️
-
-[Data](articles/c544d717.json)
-
-[Extended Data](ext_articles/c544d717.ext.json)
 
 ---

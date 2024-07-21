@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 12:35:42**
+As of **2024-07-21 12:52:47**
 
 ## Newspaper Stats
 
-*Scraped **36,366** Articles*
+*Scraped **36,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,276
-adaderanalk | 4,205
+adaderanalk | 4,206
 tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
 virakesarilk | 5,688
@@ -26,37 +26,69 @@ adaderanasinhalalk | 6,099
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,362 (100.0%) of 36,366 articles have been extended.
+36,366 (100.0%) of 36,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### பொருத்தமற்ற நேரத்தில்  அரசியலமைப்பு திருத்தம்  ஜனாதிபதியின் முனைப்புக்கு காரணம் தெரியவில்லை என்கிறார் நீதி  அமைச்சர் விஜயதாச
+### Govt. eyes import of eggs again?
+
+*2024-07-21 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100664/govt-eyes-import-of-eggs-again) · `en`
+
+The Ministry of Trade states that the government is once again focusing on the import of eggs.
+
+When inquired by Ada Derana, a spokesperson of the ministry said that this decision comes in response to local egg producers maintaining consistently high prices.
+
+Furthermore, the spokesman highlighted that local producers are deliberately limiting the number of eggs released to the market to keep prices elevated. Additionally, he mentioned that these producers have resorted to selling animals for meat to control egg production further and maintain high prices.
+
+However, it is reported that a discussion pertaining to the matter is scheduled to be held tomorrow (22), where further measures will be considered to address the ongoing issue.
+
+◼️
+
+[Data](articles/227478fe.json)
+
+---
+
+### Minister of Justice Vijayadasa says that the constitutional amendment is unknown at the time of the constitutional amendment at the time
 
 *2024-07-21 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188985) · `ta`
 
-அரசியலமைப்பில் திருத்தங்களை மேற்கொள்வதில் தவறல்ல. ஆனால் பொருத்தமற்ற நேரத்தில் அச்செயற்பாட்டை முன்னெடுப்பதால் பொதுமக்கள் உட்பட அனைத்து மட்டங்களிலும் வீணான அச்சங்கள் உருவாகி குழப்பமான சூழல் உருவெடுக்கும் என்று நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+Justice Minister Vijayadasa Rajapakse opposes amending the Constitution during an election period, citing potential confusion among the public. Despite this, President Ranil Wickremesinghe orders the publication of the 22nd Amendment, aiming to add "five years" to Article 83. This move raises questions about the timing and purpose of such changes amidst an election period.
 
-22ஆவது திருத்தச்சட்டமூலத்தினை வர்த்தமானியில் அறிவிக்கும் செயற்பாட்டை விடயதானத்துக்கு பொறுப்பான அமைச்சர் என்ற வகையில் கலாநிதி விஜயதாச ராஜபக்ஷ அச்செயற்பாட்டை நிறுத்துமாறு நீதி அமைச்சரின் செயலாளருக்கு பணிப்புரை விடுத்திருந்தார்.
+🟩
 
-எனினும் ஜனாதிபதி ரணில் விக்கிரமசிங்க அமைச்சரவையின் தலைவர் என்ற அடிப்படையிலும் நிறைவேற்று அதிகார ஜனாதிபதி என்ற அடிப்படையிலும் குறித்த திருத்தச்சட்டமூலத்தினை வர்த்தமானியில் வெளியிடும் உத்தரவினைப் பிறப்பித்துள்ளார்.
+It is not wrong in making amendments to the Constitution. But the Minister of Justice, Prison Affairs and Constitutional Reforms Dr. Vijayadasa Rajapakse said that the implementation of the time at an inappropriate time would create a confusing environment at all levels, including the public.
+
+Dr. Vijayadasa Rajapakse has directed the Secretary of the Minister of Justice to stop the process as the Minister in charge of the 22nd Amendment to the Gazette.
+
+However, President Ranil Wickremesinghe has issued an order to publish the amendment on the basis of the president of the Cabinet and the Executive President.
+
+I have no contradictions in the case of amendments to the Constitution. Article 83 of the Constitution will be made to add the word 'five years' instead of the term (b) of its (b).
 
 ...
 
 [Data](articles/08b2f2f9.json)
 
+[Extended Data](ext_articles/08b2f2f9.ext.json)
+
 ---
 
-### அமெரிக்க தேர்தல் களத்தில் ட்ரம்ப் மீதான சூட்டின் தாக்கங்கள்
+### The impacts of the suit on Trump in the US electorate
 
 *2024-07-21 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188989) · `ta`
 
-அமெரிக்க முன்னாள் ஜனாதிபதியும், குடியரசுக் கட்சியின் ஜனாதிபதி வேட்பாளருமான டொனால்ட் ட்ரம்ப் மீதான துப்பாக்கிச் சூடு அமெரிக்க ஜனாதிபதித் தேர்தல் களத்தில் பெரும் தாக்கத்தை ஏற்படுத்தக்கூடியதாகவுள்ளது.
+The firing of Donald Trump could significantly influence the US presidential election, potentially altering voter perceptions and strategies among Republicans.
+
+🟩
+
+The firing on Donald Trump, a former US president and Republican presidential candidate, is likely to have a major impact on the US presidential election.
 
 ◼️
 
 [Data](articles/2b43872d.json)
+
+[Extended Data](ext_articles/2b43872d.ext.json)
 
 ---
 
@@ -78,39 +110,53 @@ President Wickremesinghe made these remarks while attending a meeting with forme
 
 ---
 
-### ගාසා තීරයෙන් බය හිතෙන වෛරස් ප්‍රභේදයක් හමුවෙයි
+### A gaza meets a viral variety of viral
 
 *2024-07-21 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199046) · `si`
 
-ඉතා වේගයෙන් ආසාදනය වියහැකි පෝලියෝ වෛරසයේ ප්‍රභේදයක් ගාසා තීරයෙන් හමුවී ඇති බව ලෝක සෞඛ්‍ය සංවිධානය පවසයි.
+The World Health Organization (WHO) reports a rapidly spreading polio virus variant, VDPV2, discovered in Gaza through waste samples. This poses a significant risk to Palestinians, especially in Khan Yunis and Beit Hanoun areas where six samples were found. Immediate action is needed to contain this outbreak.
 
-ගාසා තීරයෙන් ලබාගත් අපද්‍රව්‍ය සාම්පල වල තිබී එම වෛරස ප්‍රභේදය හමුවී තිබුණි.
+🟩
 
-මෙම වෛරසය ආසාදනය වුවහොත් එම පුද්ගලයින් අංගවිකල වීමට ඉඩ තිබේ.
+The World Health Organization says that a variety of polio virus that can be infected with a very fast-rapidly infected with Gaza
 
-ලෝක සෞඛ්‍ය සංවිධානය සහ ගාසා හි සෞඛ්‍ය අමාත්‍යංශ බලධාරීන් පවසන්නේ ඒ හේතුවෙන් පලස්තීනුවන් විශාල අවදානමකට මුහුණදී ඇති බවයි.
+The viral variety was found in waste samples obtained from Gaza.
 
-එම පෝලියෝ වෛරස ප්‍රභේදය VDPV2 ලෙස හඳුනා ගෙන ඇති අතර පසුගිය මාසයේ ඛාන් යුනිස් සහ ඩෙයා අල්-බලා යන ස්ථානවලින් ලබාගත් සාම්පල 6ක තිබී එම ප්‍රභේදය හමුවූ බව සඳහන් ය.
+If the virus is infected, those people are likely to be found.
+
+The World Health Organization and Gaza said that the Palestinians face a huge risk.
+
+The pollio virus is identified as VDPV2 and has found six samples obtained from 6 samples taken from Khan Unice and Da al-waa.
 
 ◼️
 
 [Data](articles/6d1e29c3.json)
 
+[Extended Data](ext_articles/6d1e29c3.ext.json)
+
 ---
 
-### பாராளுமன்ற குழுத் தலைமை பதவி குறித்து மத்திய குழுவே தீர்மானிக்கும் - சுமந்திரன்
+### The Central Committee will decide on the post of Leadership of Parliament - Sumanthiran
 
 *2024-07-21 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188982) · `ta`
 
-இலங்கை தமிழ் அரசுக் கட்சியின் பாராளுமன்ற குழுத் தலைமைப்பதவி குறித்து அக்கட்சியின் மத்தியிலேயே தீர்மானம் எடுக்க வேண்டியிருப்பதால் அத்தீர்மானம் எடுக்கப்படும் வரையில் எனது வழமையான வகிபாகம் தொடரும் என்று அக்கட்சியின் பேச்சாளரும் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினருமான எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+The Central Committee will decide on the leadership of the Tamil Nadu Parliamentary Committee of the Sri Lanka Party, with MA Sumanthiran continuing his role until then. The demand for the position of Relo's leader and Vanni district parliamentarian Selvam Adakkalanathan arose due to the vacancy of the Chairman post. A high-level meeting of the Tamil National Party (TNA) led to a consensus that the central executive should convene to make a decision. Despite being announced, the Central Executive Committee meeting scheduled for the 14th in Vavuniya has been postponed. Meanwhile, Sumanthiran suggested sharing the parliamentary committee leadership with Sreedharan, but this idea was not adopted.
 
-சம்பந்தனின் மறைவையடுத்து இலங்கை தமிழ் அரசுக் கட்சியின் பாராளுமன்றக் குழுத் தலைவர் பதவிக்கான வெற்றிடம் ஏற்பட்டுள்ளது. இந்நிலையில் அப்பதவிநிலையை ரெலோவின் தலைவரும் வன்னி மாவட்ட பாராளுமன்ற உறுப்பினருமான செல்வம் அடைக்கலநாதனுக்கு வழங்குமாறும் கோரிக்கை முன்வைக்கப்பட்டது.
+🟩
 
-இந்நிலையில், பாராளுமன்றத்தில் கூடிய தமிழ் அரசுக் கட்சி, ரெலோ, புளொட் ஆகிய குறித்த விடயம் சம்பந்தமாக உரையாடிய தருணத்தில் தமிழரசுக் கட்சியுடன் உரையாடிவிட்டு பதிலளிப்பதாக சுமந்திரன் தரப்பில் தெரிவிக்கப்பட்டது. இதனையடுத்து தமிழரசுக்கட்சியின் அரசியல் உயர்பீடக் கூட்டம் நடைபெற்றது.
+The party's spokesman and the party spokesman said that my usual role will continue until the decision is taken, as the party has to take a decision on the leadership of the Tamil Nadu Parliamentary Committee of the Sri Lanka Party.. District Parliamentarian MA Sumanthiran said.
+
+The vacuum of the post of Chairman of the Tamil Nadu State Party Parliamentary Committee. In this backdrop, the demand was made to provide the position of Relo's leader and Vanni district parliamentarian Selvam Adakkalanathan.
+
+In this context, Sumanthiran said that the Tamil National Party (TNA) in Parliament, Relo and Plot, said that the TNA was in response to the Tamil party.. This was followed by a political high -level meeting of the TNA.
+
+At the same time, the consensus that the Relo and Plot, which acts as the Democratic Tamil National Alliance (TNA), cannot give up the post, it was agreed that the central executive would convene and decide on it.. This issue has been announced for Relo and Plot.
 
 ...
 
 [Data](articles/808733f3.json)
+
+[Extended Data](ext_articles/808733f3.ext.json)
 
 ---
 
@@ -2313,25 +2359,5 @@ The central bank still had a negative position of about 821 million dollars by M
 [Data](articles/150f6623.json)
 
 [Extended Data](ext_articles/150f6623.ext.json)
-
----
-
-### Sri Lanka banking system foreign assets positive in May, collects $6.7bn since rate hike: analysis
-
-*2024-07-20 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-foreign-assets-turn-positive-in-may-analysis-173011/) · `en`
-
-ECONOMYNEXT – Net foreign assets of Sri Lanka’s banking system turned positive in May 2024, official data showed, amid a steady reduction in the negative reserve position of the central bank helped by the current interest rate structure and domestic credit.
-
-In May the combined net foreign assets position of commercial banks and the central bank was about 311 million US dollars by May, up from a negative 178 million US dollars a month earlier, central bank data show.
-
-It was made up of positive 1.9 billion US dollar foreign assets position in overseas banking units and a negative 811-million-dollar position which gave a positive NFA position of about 1.13 billion US dollars for banks.
-
-The central bank still had a negative position of about 821 million dollars by May, down from a negative 4.5 billion US dollars at the peak of the last currency crises triggered by deploying liquidity tools (printing money) to cut rates.
-
-...
-
-[Data](articles/7839d335.json)
-
-[Extended Data](ext_articles/7839d335.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 21:55:08**
+As of **2024-07-21 22:09:27**
 
 ## Newspaper Stats
 
-*Scraped **36,436** Articles*
+*Scraped **36,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,075
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,287
-adaderanalk | 4,215
+adalk | 3,288
+adaderanalk | 4,216
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,708
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,116
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,435 (100.0%) of 36,436 articles have been extended.
+36,435 (100.0%) of 36,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### Teachers and principals to launch ‘work-to-rule’ campaign from tomorrow
+
+*2024-07-21 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100676/teachers-and-principals-to-launch-work-to-rule-campaign-from-tomorrow) · `en`
+
+The Ceylon Teachers’ Union (CTU) revealed plans to launch a ‘work-to-rule’ campaign from tomorrow (22) protesting against the government’s inaction to resolve the teacher-principal wage disparities.
+
+Accordingly, the CTU has decided engage in a work-to-rule campaign for a period of two weeks, commencing from tomorrow, in protest of the government’s lack of efforts to resolve their wage disparities.
+
+The trade union leaders stated that accordingly, teachers and principals will not engage in any external professional activities including extra teaching hours after the scheduled school hours.
+
+However, the trade unions led by Ven. Ulapane Sumangala Thero have refused to participate in the ‘work-to-rule’ campaign commencing tomorrow.
+
+...
+
+[Data](articles/bbcba4c0.json)
+
+---
 
 ### යාපනය ට ලැබුණු ඉලක්කය
 
@@ -537,6 +555,22 @@ Hettiarachchi said the government, which has avoided the local government electi
 [Data](articles/3e162e1b.json)
 
 [Extended Data](ext_articles/3e162e1b.ext.json)
+
+---
+
+### මහනුවර කතරගම දේවාලයේ ප්‍රධාන කපුමහතාගේ පාරම්පරික නිවසේ ගින්නක්
+
+*2024-07-21 18:11:52* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-කතරගම-දේවාලයේ-ප්‍රධාන-කපුමහතාගේ-පාරම්පරික-නිවසේ-ගින්නක්/11-410893) · `si`
+
+මහනුවර ඓතිහාසික ශ්‍රී කතරගම දේවාල පරිශ්‍රයේ පිහිටි එහි ප්‍රධාන කපු මහතා ජීවත්වන පාරම්පරික නිවසේ ඉහළ මහලේ ඇතිවූ ගින්නක් හේතුවෙන් එම මහල සම්පූර්ණයෙන් ගින්නෙන් විනාශ වී ඇති බව මහනුවර මූලස්ථාන පොලිසිය කියයි .
+
+අද (21) අලුයම2.30 ට පමණ ඇතිවී තිබෙන මෙම ගින්නෙන් වසර 150කටත් වඩා පැරිණි එම ගොඩනැගිල්ලට බරපතල ලෙස හානි සිදුවී ඇති බව වාර්තාවේ .
+
+මහනුවර නාගරික ගිනි නිවන ඒකකය, පොලිසිය සහ ජනතාව එක්ව ගින්න ව්‍යාප්ත වීමට ඉඩ නොදී එය නිවා දැමීමට පියවර ගෙන තිබුණි .
+
+◼️
+
+[Data](articles/3a1936b3.json)
 
 ---
 
@@ -2257,59 +2291,5 @@ The port login expressway, which was opened on September 27, 2019, is 5.3 kilome
 [Data](articles/0e18e5bd.json)
 
 [Extended Data](ext_articles/0e18e5bd.ext.json)
-
----
-
-### Kerai Samba Cultivation of Hambantota is successful
-
-*2024-07-21 08:37:59* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-කීරි-සම්බා-වගාව-සාර්ථකයි/11-410882) · `si`
-
-In Hambantota, the Paddy Marketing Board initiated a project to cultivate Key Samba seed paddy across 500 acres, aiming to boost production amid rising rice prices. This initiative, which began in Athunakolapelewawewa, Alutukasawa, marked the first time this variety was grown in the region. Farmers received funding support, leading to a successful harvest. The Minister of Agriculture, Mahinda Amaraweera, directed the purchase of the entire harvest, emphasizing the need to address the national Key Samba deficit.
-
-🟩
-
-The harvesting of 500 acres of paddy lands commenced as the Paddy Marketing Board as a definitive project in the Hambantota district.
-
-The Harvesting Program was held at the Athunakolapelewawewa in Alutukasawa.
-
-The project aims to enhance the manufacture of Key Sambaba seed paddy, due to the increase in the price of rice prices of the market.
-
-The Paddy Marketing Board (Paddy Marketing Board) commenced the project and the farmer's funds have been provided to 500 acres of Rs. 300 acres of farmers.
-
-Accordingly, the 500 acres of Kir-samba paddy cultivation have been very successful. The Key Samba is not cultivated in the Hambantota district, and the first three acres were cultivated in 100 acres of the Maha Season.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera instructed the Chairman Buddhika Iddamalgoda to purchase the 500st of 500 paddy harvest.
-
-Accordingly, the paddy stocks of paddy will be commenced in the next few days under the price of Rs.
-
-...
-
-[Data](articles/cc3c6b79.json)
-
-[Extended Data](ext_articles/cc3c6b79.ext.json)
-
----
-
-### Israel attacks another country
-
-*2024-07-21 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199036) · `si`
-
-Israel has launched air strikes on another country, targeting the port of Hodeida. The attack comes in response to a previous strike by Hamas on October 7, escalating tensions between the two nations.
-
-🟩
-
-International media reports that Israel has launched air strikes in another country.
-
-It states that the Huddyy of Yaymana Yemana has been launched to the port of the Hokaida.
-
-The attack was launched that two days ago, hoothy rebels responded to the Tel Aviv in Israel.
-
-Accordingly, Israel has launched airstrikes after the Hamas attack on October 7.
-
-◼️
-
-[Data](articles/0d648800.json)
-
-[Extended Data](ext_articles/0d648800.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 08:23:33**
+As of **2024-07-21 08:13:55**
 
 ## Newspaper Stats
 
-*Scraped **36,321** Articles*
+*Scraped **36,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,169
 dailyftlk | 2,314
 adalk | 3,272
 adaderanalk | 4,198
-tamilmirrorlk | 4,423
+tamilmirrorlk | 4,422
 dailymirrorlk | 4,733
 virakesarilk | 5,679
 adaderanasinhalalk | 6,086
@@ -26,27 +26,11 @@ adaderanasinhalalk | 6,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,309 (100.0%) of 36,321 articles have been extended.
+36,309 (100.0%) of 36,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
-
-### ’தேர்தலை நடத்தியிருந்தால் தலைவிதி மோசமாகியிருக்கும்’
-
-*2024-07-21 06:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-நடத்தியிருந்தால்-தலைவிதி-மோசமாகியிருக்கும்/175-340735) · `ta`
-
-பொருளாதாரத்தைக் கட்டியெழுப்புவதை விட்டுவிட்டு, அன்று உள்ளூராட்சி மன்றத் தேர்தலுக்கு பணத்தை செலவிட்டிருந்தால், இன்று நாடு மிக மோசமான அவல நிலைக்கு தள்ளப்பட்டிருக்கும் எனவும் நிதி ஒதுக்கீட்டின்போது, அன்று தேர்தலை விட பல்வேறு விடயங்களுக்கு முன்னுரிமை வழங்க வேண்டியிருந்தது என்றும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
-
-ஸ்ரீ ஜயவர்தனபுர மொனார்க் இம்பீரியல் ஹோட்டலில் நேற்று நடைபெற்ற உள்ளூராட்சி மன்ற முன்னாள் தலைவர்கள் சந்திப்பில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
-
-நாடளாவிய ரீதியில் உள்ள உள்ளூராட்சி மன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் விடுத்த கோரிக்கைக்கு அமைய இந்த சந்திப்பு ஏற்பாடு செய்யப்பட்டிருந்தது. (a)
-
-◼️
-
-[Data](articles/fc17e1fa.json)
-
----
 
 ### Weather today
 
@@ -2349,5 +2333,21 @@ Accordingly, the IMAX®️ Theatre at Scope Cinemas Multiplex – Havelock City 
 [Data](articles/4b487574.json)
 
 [Extended Data](ext_articles/4b487574.ext.json)
+
+---
+
+### NDB Bank shines at the AIA Bancassurance Achievers Awards 2023
+
+*2024-07-20 01:08:00* · [`islandlk`](http://island.lk/ndb-bank-shines-at-the-aia-bancassurance-achievers-awards-2023/) · `en`
+
+NDB Bank proudly announces the remarkable achievements of its staff at the prestigious AIA Bancassurance Achievers Awards 2023. The gala event, held recently at Waters Edge, Colombo, was hosted by AIA Insurance to celebrate the top bancassurance achievers at NDB for the year 2023.
+
+The awards ceremony highlighted the exceptional performance of NDB Bank’s staff in providing outstanding protection solutions for customers. The evening was filled with electrifying excitement, celebrations, and recognition, serving as a platform to foster connections, motivate individuals, and inspire further accomplishments. The event was graced by senior management of both NDB and AIA, underscoring the importance of this collaboration.
+
+NDB Bank staff was recognised in various categories, with nearly 200 awards presented during the evening, including CEO’s Club-qualified winners and Branch and Region Awards (Best Branch Value, Best Branch Volume, Merit, Million Club, and Best Regional Manager).
+
+...
+
+[Data](articles/f8f12ac5.json)
 
 ---

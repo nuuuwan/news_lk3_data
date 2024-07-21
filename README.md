@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 09:06:00**
+As of **2024-07-21 09:20:13**
 
 ## Newspaper Stats
 
-*Scraped **36,325** Articles*
+*Scraped **36,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,62 @@ newsfirstlk | 363
 islandlk | 2,072
 economynextcom | 2,169
 dailyftlk | 2,314
-adalk | 3,272
+adalk | 3,273
 adaderanalk | 4,198
-tamilmirrorlk | 4,423
+tamilmirrorlk | 4,424
 dailymirrorlk | 4,733
 virakesarilk | 5,679
-adaderanasinhalalk | 6,090
+adaderanasinhalalk | 6,091
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,323 (100.0%) of 36,325 articles have been extended.
+36,325 (100.0%) of 36,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### වන්දනාවේ ගිය වෑන් රථයක් අනතුරක
+### පළාත් පාලන නාමයෝජනා ගැන ජනපති ගන්න යන තීරණය
+
+*2024-07-21 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199038) · `si`
+
+පළාත් පාලන ඡන්ද විමසීම සඳහා ඉදිරිපත් වී සිටින අපේක්ෂකයින්ගේ නාමයෝජනා අවලංගු කිරීම කෙරෙහි අවධානය යොමුව ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+නාමයෝජනා භාර දී වසරක් ගතවීමෙන් පසු නැවත ඡන්දය විමසීම පැවැත්විය නොහැකි බවත් නව අපේක්ෂකයින්ට ද අවස්ථාව ලබාදීමේ අරමුණින් එම පියවර ගැනීමට නියමිත බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+
+කෙසේවෙතත් ඒ සම්බන්ධයෙන් ඉදිරියේ දී නීතිපතිවරයා සමග සාකච්ඡා කර තීරණයකට එළැඹෙන බව ද පළාත් පාලන ආයතනවල හිටපු ප්‍රධානීන් ගේ හමුවට එක්වෙමිනි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+
+ආර්ථිකය ගොඩනැඟීම පසෙකලා නියමිත පරිදි පළාත් පාලන ඡන්ද විමසීම සඳහා මුදල් වැයකළේ නම් අද වනවිට මේ රට ඛේදනීය තත්ත්වයකට පත්වීම වැළැක්විය නොහැකිව තිබූ බව ජනාධිපතිවරයා පැවසීය.
+
+...
+
+[Data](articles/eed9b795.json)
+
+---
+
+### A van in the pilgrimage is in danger
 
 *2024-07-21 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199037) · `si`
 
-වන්දනාකරුවන් රැගත් වෑන් රථයක් අද (21) අලුයම අනතුරකට ලක්වීමෙන් එහි ගමන් ගත් 7දෙනකු තුවාල ලබා පේරාදෙණිය සහ මහනුවර රෝහල්වලට ඇතුළත් කර තිබේ.
+A van carrying local residents from Araywa to a pilgrimage site collided with an electric pole near Pilimatalawa, injuring passengers and requiring hospitalization in Peradeniya and Kandy.
 
-අද (21) අලුයම එම අනතුර සිදුව තිබුණේ පිළිමතලාව නගරයට ආසන්න ප්‍රදේශයකදීය.
+🟩
 
-නුවර දෙස සිට කොළඹ දෙසට ධාවනය වූ මෙම වෑන් රථය, අධිබලැති විදුලි කණුවක ගැටී එම අනතුර සිදුව තිබුණි.
+A van carrying pilgrims was injured in a danger this morning (21) and admitted to Peradeniya and Kandy hospitals.
 
-මෙලෙස අනතුරට ලක්ව ඇත්තේ, වන්දනා ගමනක් ගොස් ආපසු පැමිණෙමින් සිටි ඇරව්වල ප්‍රදේශයේ පදිංචිකරුවන් පිරිසක් බව අද දෙරණ වාර්තාකරු පැවසීය.
+The accident occurred in the area near the Pilimatalawa town this morning.
+
+The accident had occurred when the van was running towards Colombo to Colombo and collided with an expensive electric pillary.
+
+The victim was a group of residents of the area in Araywa, a pilgrimage to a pilgrimage.
 
 ◼️
 
 [Data](articles/ca1ac7f1.json)
+
+[Extended Data](ext_articles/ca1ac7f1.ext.json)
 
 ---
 
@@ -74,23 +98,69 @@ Accordingly, Israel has launched airstrikes after the Hamas attack on October 7.
 
 ---
 
-### බිත්තර ආනයනයට රජය යළි සැරසෙයි
+### Israel -Tel Avi's retaliation on Yemen's port city
+
+*2024-07-21 07:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188968) · `ta`
+
+Israel retaliated against Yemen's Houthi rebels after an unmanned airstrike on Tel Aviv from Hodaida, a port city in Yemen.
+
+🟩
+
+Haithi insurgents have reported that Israeli airspace has been attacked on Yemen's Hodaida city.
+
+Almashira Television of Yemeni insurgents has reported that the attack on Yemen's Red Sea City, Hodaida.
+
+It is noteworthy that Haundi rebels carried out an unmanned air strike on the Israeli capital on Friday.
+
+◼️
+
+[Data](articles/b6b433d0.json)
+
+[Extended Data](ext_articles/b6b433d0.ext.json)
+
+---
+
+### Government resumes for importation of eggs
 
 *2024-07-21 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199035) · `si`
 
-බිත්තර ආනයනය කෙරෙහි යළි අවධානය යොමුව ඇති බව වෙළෙඳ හා වාණිජ කටයුතු අමාත්‍යංශය පවසයි.
+The Ministry of Trade and Commerce in Sri Lanka plans to resume importing eggs due to high local prices. A meeting is scheduled for further discussions, including possibly controlling egg production by limiting sales of laying hens.
 
-"අද දෙරණ" කළ විමසීමක දී එහි ප්‍රකාශකයෙකු සඳහන් කළේ මෙරට බිත්තර නිෂ්පාදකයින් විසින් දිගින් දිගටම බිත්තර මිල ඉහළ අගයක පවත්වාගෙන යාම සම්බන්ධයෙන් එම පියවර ගැනීමට නියමිත බවය.
+🟩
 
-ඒ සම්බන්ධයෙන් වන විශේෂ සාකච්ඡාවක් හෙට (22) දිනයේ පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+The Ministry of Trade and Commerce says that it is reference to the import of eggs.
 
-මෙලෙස බිත්තර මිල නොවෙනස්ව ඉහළ මිලක් පවත්වාගෙන යාම සඳහා නිෂ්පාදකයින් විසින් වෙළෙඳපොළට නිකුත් කරන බිත්තර ප්‍රමාණය සීමා කිරීමට කටයුතු කරන බව සඳහන්ය.
+A spokesperson of "Ada Derana" a spokesman said that the steps will be taken to take on the high rate of egg manufacturers in Sri Lanka.
 
-එමෙන්ම බිත්තර නිෂ්පාදනය පාලනය කිරීම සඳහා සතුන් මස් පිණිස අලෙවි කිරීම ද සිදුකරන බව වෙළෙඳ හා වාණිජ කටයුතු අමාත්‍යංශයේ ප්‍රකාශකයා වැඩිදුරටත් පැවසීය.
+A special discussion is scheduled to be held tomorrow (22).
+
+The manufacturers will restrict the amount of eggs released by manufacturers to maintain a high price of eggs.
+
+The spokesperson of the Trade and Commerce said that the sale of animals is also being sold to control the production of egg production.
 
 ◼️
 
 [Data](articles/f4ad649a.json)
+
+[Extended Data](ext_articles/f4ad649a.ext.json)
+
+---
+
+### මොලපු ඔයෙන් නිමවූ පෝදා විනෝදය
+
+*2024-07-21 07:29:34* · [`adalk`](https://www.ada.lk/breaking_news/මොලපු-ඔයෙන්-නිමවූ-පෝදා-විනෝදය/11-410878) · `si`
+
+හික්කඩුව, තොටගමුව පාලම අසල මුහුදට ගලා බසින මොලපු ඔයේ ඊයේ (20)  සවස දිය නාමින් සිටියදී දියවැලකට හසුව ගසාගෙන ගිය  දරුවන් තිදෙනෙකුගෙන් එක් දරුවෙකු දියේ ගිලී තවමත් අතුරුදන් වී ඇතැයි මීටියාගොඩ පොලිසිය කියයි.
+
+මෙසේ  අතුරුදහන් ව ඇත්තේ  වයස අවුරුදු 16 ක් වූ ඇල්පිටිය කරුනාතිලක පෙදෙසේ  පදිංචි ශම්මික සුදත් කුමාර නැමති  දරුවෙක් බව පොලීසිය කියයි.
+
+ඇසළ පොහෝදා ඇල්පිටිය ප්‍රදේශයේ සිට විනෝදයට පැමිණ ඇති  දරුවන් 09 දෙනෙකු  ඊයේ සවස මොලපු ඔයේ දිය නා ඇති අතර එයින් දියවැලට හසුවූ දරුවන් තිදෙනාගෙන් දරුවන් දෙදෙනෙකු ජීවිතාරක්ෂක නිලධාරීන් ,ප්‍රදේශවාසීන් හා පොලීසිය එක්ව නිරුපද්‍රිතව බේරාගත් බව පොලීසිය පැවසීය.
+
+අතුරුදන් දරුවා අද (21) උදෑසන වන විටත් සොයාගැනීමට නොහැකි බවත් ඔහු සොයා තවදුරටත්  මෙහෙයුම් ක්‍රියාත්මක  කර ඇතැයි   පොලීසිය කියයි.
+
+◼️
+
+[Data](articles/f30a74ae.json)
 
 ---
 
@@ -125,6 +195,20 @@ A motorbike has been confronted with a motorcycle to shift the road to Payagala 
 [Data](articles/6e700b45.json)
 
 [Extended Data](ext_articles/6e700b45.ext.json)
+
+---
+
+### ’ஜனாதிபதித் தேர்தலை பிற்போடுவதே சிறந்தது’
+
+*2024-07-21 06:10:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-பிற்போடுவதே-சிறந்தது/175-340736) · `ta`
+
+ஜனாதிபதித் தேர்தலைப் பிற்போடுவது சிறந்த விடயமாகும் என்று தமிழ் மக்கள் தேசியக் கூட்டணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான சி.வி.விக்னேஸ்வரன் மீண்டும் தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தலைப் பிற்போடுவதால் நாட்டின் பொருளாதார ஸ்திரத்தன்மைக்கு எவ்வித பாதிப்பும் ஏற்படாது என்றும் அவர் சுட்டிக்காட்டினார். (a)
+
+◼️
+
+[Data](articles/b114bf9e.json)
 
 ---
 
@@ -385,28 +469,6 @@ I am at a loss, therefore, to understand, WHY our Education Planners insist on r
 [Data](articles/ce2001d2.json)
 
 [Extended Data](ext_articles/ce2001d2.ext.json)
-
----
-
-### Israel -Tel Avi's retaliation on Yemen's port city
-
-*2024-07-20 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/188968) · `ta`
-
-Israel retaliated against Yemen's Houthi rebels after an unmanned airstrike on Tel Aviv from Hodaida, a port city in Yemen.
-
-🟩
-
-Haithi insurgents have reported that Israeli airspace has been attacked on Yemen's Hodaida city.
-
-Almashira Television of Yemeni insurgents has reported that the attack on Yemen's Red Sea City, Hodaida.
-
-It is noteworthy that Haundi rebels carried out an unmanned air strike on the Israeli capital on Friday.
-
-◼️
-
-[Data](articles/b6b433d0.json)
-
-[Extended Data](ext_articles/b6b433d0.ext.json)
 
 ---
 
@@ -2299,77 +2361,5 @@ Meanwhile, Dr. Vino Dharmizlines added that there is a growth of AIDS, including
 [Data](articles/e65ca15e.json)
 
 [Extended Data](ext_articles/e65ca15e.ext.json)
-
----
-
-### Bangladesh to impose curfew, deploy army as protests widen, communications disrupted
-
-*2024-07-20 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100637/bangladesh-to-impose-curfew-deploy-army-as-protests-widen-communications-disrupted) · `en`
-
-The Bangladesh government has decided to impose a curfew across the country and deploy the army, BBC Bangla reported on Friday, citing Prime Minister Sheikh Hasina’s press secretary, amid widening student-led protests against government job quotas.
-
-An official decision regarding the curfew would be issued soon, the prime minister’s press secretary, Nayeemul Islam Khan, told BBC Bangla.
-
-Three people were killed in the country on Friday as police cracked down on unrelenting student-led protests against government job quotas despite a ban on public gatherings, local media said.
-
-Police fired tear gas to scatter protesters in some areas, Reuters journalists said. One said he could see many fires across the capital Dhaka from a rooftop and smoke rising into the sky in several places.
-
-Telecommunications were also disrupted and television news channels went off the air. Authorities had cut some mobile telephone services the previous day to try to quell the unrest.
-
-...
-
-[Data](articles/cb6300e8.json)
-
-[Extended Data](ext_articles/cb6300e8.ext.json)
-
----
-
-### Prevailing windy conditions expected to continue
-
-*2024-07-20 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100636/prevailing-windy-conditions-expected-to-continue) · `en`
-
-Due to the active South-west Monsoonal condition, the prevailing windy condition over the island is expected to continue further, says the Meteorology Department.
-
-Showery condition over the island is expected to reduce during the next few days temporarily.
-
-Several spells of light showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provincesand in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds about 30-40kmph can be expected at times elsewhere of the island, the department said.
-
-◼️
-
-[Data](articles/20a63e2e.json)
-
-[Extended Data](ext_articles/20a63e2e.ext.json)
-
----
-
-### Bangladesh's curfew imposed
-
-*2024-07-20 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199005) · `si`
-
-In response to nationwide violence, Bangladesh imposed a curfew, resulting in over 50 deaths and 1000 injuries. The government closed schools and universities, suspended TV news channels after an incident involving elderly protesters, and faced protests against job quotas and the recognition of 1971 independence fighters. Despite a 2018 Supreme Court ruling, efforts continue to restore the quota system based on a High Court decision.
-
-🟩
-
-According to foreign media reports, the steps have been taken to prevent violence across the country.
-
-More than 50 people were killed and another 1000 wounded due to the strict action taken by the Government of Dhaka Pupils in Bangladesh.
-
-The government has also taken steps to close schools and universities in view of the situation in the country.
-
-The aging protesters were set on fire to the government TV channel and has been suspended for all television news channel.
-
-Students protest the 1971 independent fighting pilots as war heroes and protesting the quota method of promoting government jobs.
-
-Although the Bangladesh Supreme Court is illegal in 2018, the Government is based on the attempt to restore it based on a High Court decision.
-
-◼️
-
-[Data](articles/b1d63e2f.json)
-
-[Extended Data](ext_articles/b1d63e2f.ext.json)
 
 ---

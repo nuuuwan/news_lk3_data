@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 12:09:00**
+As of **2024-07-21 12:20:29**
 
 ## Newspaper Stats
 
-*Scraped **36,361** Articles*
+*Scraped **36,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,276
-adaderanalk | 4,204
+adaderanalk | 4,205
 tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
 virakesarilk | 5,685
@@ -26,87 +26,137 @@ adaderanasinhalalk | 6,098
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,354 (100.0%) of 36,361 articles have been extended.
+36,360 (100.0%) of 36,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### ’’விகமனிக ஹரசர’’ நிகழ்ச்சி ஆரம்பிப்பு
+### Sri Lanka’s fate would remain tragic even with LG polls amid economic recovery – President
+
+*2024-07-21 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100663/sri-lankas-fate-would-remain-tragic-even-with-lg-polls-amid-economic-recovery-president) · `en`
+
+President Ranil Wickremesinghe stated that if funds had been allocated to the local government elections, the country would have faced a tragic situation instead of focusing on economic recovery. The President emphasized that several critical areas needed funding priority over the elections. Despite these challenges, President Wickremesinghe highlighted that the country’s economy has been strengthened and moved forward on a solid foundation.
+
+President Wickremesinghe made these remarks while attending a meeting with former heads of local government institutions held today (20) at the Monarch Imperial Hotel, Sri Jayawardenepura Kotte. This meeting was organized in response to a request from local government representatives from across the island.
+
+“When I took over the country two years ago, it was facing multiple crises. There was not only an economic collapse but also a breakdown in law and politics. Even political parties were in disarray.
+
+...
+
+[Data](articles/29402240.json)
+
+---
+
+### Initially inauguration
 
 *2024-07-21 11:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விகமனிக-ஹரசர-நிகழ்ச்சி-ஆரம்பிப்பு/175-340748) · `ta`
 
-இலங்கையின் பொருளாதாரத்திற்கு புலம்பெயர் தொழிலாளர்களின் பங்களிப்பைப் பாராட்டி நாடளாவிய ரீதியில் ஏற்பாடு செய்யப்பட்டுள்ள "விகமனிக ஹரசர" நிகழ்ச்சியின் முதல் கட்டம் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் சற்று முன்னர் குருணாகல் சத்தியவாதி விளையாட்டரங்கில் ஆரம்பித்து வைக்கப்பட்டது.
+The inaugural phase of the "Vikamanika Harasara" event, aimed at transforming diaspora workers into entrepreneurs through self-employment grants, was launched at the Kurunegala Satyavadi Stadium under President Ranil Wickremesinghe's leadership.
 
-புலம்பெயர் தொழிலாளர்களை தொழில்முனைவோராக மாற்றும் நோக்கில் சுயதொழில் தொடங்குவதற்கு தலா 50,000 ரூபாய் வீதம் வழங்கி  வைக்கப்பட்டமை குறிப்பிடத்தக்கது.
+🟩
+
+The first phase of the "Vikamanika Harasara" event organized by the nationwide "Vikamanika Harasara" event was inaugurated at the Kurunegala Satyavadi Stadium, headed by President Ranil Wickremesinghe.
+
+It is noteworthy that 50,000 rupees each to start self -employment in order to convert diaspora workers into entrepreneurs.
 
 ◼️
 
 [Data](articles/3268d833.json)
 
+[Extended Data](ext_articles/3268d833.ext.json)
+
 ---
 
-### மாகாண சபை முறைமை எமது தேர்தல் விஞ்ஞாபனத்தில் உள்ளது - யாழ். வணிகர் கழகத்துடனான சந்திப்பில் தேசிய மக்கள் சக்தி
+### The Provincial Council system is in our election manifesto - Jaffna. National People's Power at Meeting with Merchant Club
 
 *2024-07-21 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188975) · `ta`
 
-அரசியலமைப்பில் காணப்படுகின்ற மாகாண சபை முறைமையை மீண்டும் முன்னெடுப்பதற்கு ஆட்சிப்பொறுப்பையேற்று சொற்பகாலத்துக்குள் நடவடிக்கைகளை முன்னெடுப்போம். எமது தேர்தல் விஞ்ஞாபனத்திலும் அம்முறைமை உள்ளடக்கப்பட்டுள்ளது என்று தேசிய மக்கள் சக்தி தெரிவித்துள்ளது.
+The National People's Power, in a meeting with the Jaffna Vidyalaya Association, discussed plans to amend the Constitution to strengthen the Provincial Council system, as outlined in their election manifesto. They emphasized their commitment to improving the economy, increasing domestic production, and addressing the national ethnic issue through constitutional reform. The party also responded to the Merchants' Association's call for parliamentary action on the 13th Amendment, indicating willingness to discuss further.
 
-யாழ்.வணிகர் கழகத்துக்கும் தேசிய மக்கள் சக்திக்கும் இடையிலான சந்திப்பு யாழ்ப்பாணத்தில் நடைபெற்றபோதே மேற்கண்ட விடயம் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-குறித்த சந்திப்பு தொடர்பில் தேசிய மக்கள் சக்தியின் பிரசார செயலாளர் விஜித ஹேரத் தெரிவித்துள்ளதாவதுரூபவ் யாழ்.வணிகர் கழகத்துடனான சந்தப்பின்போது, நாம் எமது பொருளாதாரக் கொள்கைகளை வெளிப்படுத்தினோம்.
+We will take action within a short time to rule the provincial council system in the Constitution. The National People's Power said that our election manifesto included that.
 
-விசேடமாக நாட்டின் பொருளாதார நிலைமைகளை மேம்படுத்தல் உள்நாட்டு உற்பத்திகளை அதிகரித்தல், அனைவரையும் பொருளாதார மீள்கட்டியெழும்பும் செயற்றிட்டத்தில் பங்காளிகளாக்குதல் உள்ளிட்டவற்றை மையப்படுத்திய தேசிய மக்கள் சக்தியின் நிலைப்பாடுகளை தெளிவுபடுத்தினோம்.அதனையடுத்து தேசிய இனப்பிரச்சினை சம்பந்தமான உரையாடல்கள் நடைபெற்றன. தேசிய இனப்பிரச்சினை தொடர்பான எமது நிலைப்பாட்டை வெளிப்படுத்தினோம்.
+The above issue was revealed when a meeting between the Jaffna Vidyalaya Association and the National People's Power was held in Jaffna.
+
+Commenting on the meeting, the National People's Power Campaign Secretary Vijitha Herath said, "We have revealed our economic policies during the marriage with the Jaffna Varikar Association.
+
+Increase the country's economic conditions, increase domestic products and make partners in the economic reconstruction project, clearly clarified the positions of the National People's Power.. We have expressed our position on the national ethnic problem.
+
+In particular, we will take steps to reign the Provincial Council system in the Constitution within a short time.
 
 ...
 
 [Data](articles/06ea75ca.json)
 
+[Extended Data](ext_articles/06ea75ca.ext.json)
+
 ---
 
-### அசங்க அபேகுணசேகர கைது
+### Arrest
 
 *2024-07-21 11:44:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசங்க-அபேகுணசேகர-கைது/175-340747) · `ta`
 
-தேசிய பாதுகாப்பு கற்கை நிறுவகத்தின் முன்னாள் பணிப்பாளர் அசங்க அபேகுணசேகர கைது செய்யப்பட்டுள்ளார்.
+Asanga Abeygunasekera, former director of the National Security Study Institute, was arrested at Katunayake International Airport. The arrest came as he was about to leave the country, linked to a case involving the Internal Revenue Department.
 
-கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து அவர் ஞாயிற்றுக்கிழமை (21) காலை கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அவருக்கு எதிரான வழக்கு தொடர்பாக உள்நாட்டு இறைவரித் திணைக்களத்தினால் பிடியாணை பிறப்பிக்கப்பட்டதைத் தொடர்ந்து பொலிஸார் அவரை வருகை முனையத்தில் தடுத்து வைத்தமை குறிப்பிடத்தக்கது.
+Former Director of the National Security Study Institute Asanga Abeygunasekera has been arrested.
+
+He was arrested at the Katunayake International Airport on Sunday morning.
+
+It is noteworthy that the police detained him on the verge of attendant following the case of the Internal Revenue Department in connection with the case against him.
 
 ◼️
 
 [Data](articles/69621bdc.json)
 
+[Extended Data](ext_articles/69621bdc.ext.json)
+
 ---
 
-### ரணில் பதவியேற்று இன்றுடன் ஈராண்டு நிறைவு  -  ஜனாதிபதி வேட்பாளராவதை அறிவிக்கவும் தீர்மானம்
+### Ranil has been sworn in today
 
 *2024-07-21 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188973) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பதவியேற்று இன்று (21) ஞாயிற்றுக்கிழமையுடன் ஈராண்டுகள் நிறைவடைந்துள்ளது. இவ்வாறானதொரு நிலையில் உத்தேச ஜனாதிபதி தேர்தலில் பொது வேட்பாளராக போட்டியிட உள்ளமையை  இம்மாதம் 31ஆம் திகதிக்கு முன்னர் அறிவிப்பதற்கு ரணில் விக்கிரமசிங்க தீர்மானித்துள்ளார். பல  கட்சிகள் ஒன்றிணைந்து உருவாக்கப்பட்டுள்ள அரசியல் கூட்டணியில் பொதுவான சின்னத்தில், பொது வேட்பாளராக 2024 ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ளார்.
+Ranil Wickremesinghe, sworn in as President of Sri Lanka, plans to run in the 2024 presidential election as a common candidate. Following the 2019 regime change, Sri Lanka experienced significant political and economic crises. Despite these challenges, Wickremesinghe's United National Party maintained its presence in parliament. His appointment as President came amid widespread anti-state protests and calls for the resignation of the previous rulers. The decision to appoint Wickremesinghe was seen as a move to prevent further escalation of the crisis, with support from both Mahinda and Gotabhaya Rajapaksa.
 
-2019ஆம் ஆண்டில் ஏற்பட்ட ஆட்சி மாற்றத்தை தொடர்ந்து இலங்கை வரலாறு காணாத அரசியல் மற்றும் பொருளாதார பெரும் நெருக்கடிக்களை எதிர்கொண்டது. இந்த நெருக்கடிகள் அதிகாரபூர்வமற்ற ஆட்சி மாற்றத்துக்கும் காரணமாகியது என்பது மறுக்க இயலாது. மக்கள் ஆணையால் தெரிவு செய்யப்பட்ட அப்போதைய ஜனாதிபதியான கோட்டாபய ராஜபக்ஷ, வன்முறை மிக்க மக்கள் போராட்டங்களை எதிர்கொள்ள முடியாது நாட்டை விட்டு தப்பித்துச் சென்றார்.
+🟩
+
+President Ranil Wickremesinghe has been sworn in today (21) on Sunday (21). Ranil Wickremesinghe has decided to announce before the 31st of this month that he will contest the proposed presidential election as a common candidate.. He will contest the 2024 presidential election as a common candidate in the general symbol of the political coalition that has been formed by many parties.
+
+Following the regime change in 2019, Sri Lanka faced unprecedented political and economic crises. It is undeniable that these crises have also caused the unofficial regime change. Gotabhaya Rajapakse, the then president, elected by the people's mandate, escaped the country could not face violent people's struggles.
+
+Amidst these political turmoil. The United National Party (UNP) lost only one national seat in the parliamentary elections in Sri Lanka in 2020.
 
 ...
 
 [Data](articles/2c4df39d.json)
 
+[Extended Data](ext_articles/2c4df39d.ext.json)
+
 ---
 
-### தமிழ் மக்கள் கூட்டணியின்  தேசிய மாநாடு இன்று
+### National Conference of the Tamil People's Alliance today
 
 *2024-07-21 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188987) · `ta`
 
-தமிழ் மக்கள் கூட்டணியின் முதலாவது தேசிய மாநாடு இன்று ஞாயிற்றுக்கிழமை (21) பிற்பகல் 3 மணிக்கு தந்தை செல்வா கலையரங்கில் நடைபெறவுள்ளது.
+The first National Conference of the Tamil People's Alliance takes place today at 3 pm at the Father Selva Gallery, chaired by party secretary CV Wigneswaran. Key figures including District Parliamentarian Sivagnanam Sreedharan and special guest Professor KR Ganesalingam will attend, where resolutions will be discussed.
 
-கட்சியின் செயலாளர் நாயகம் சி.வி.விக்னேஸ்வரன் தலைமையில் நடைபெறும் இந்த மாநாட்டில் பிரதம அதிதியாக இலங்கை தமிழ் அரசுக் கட்சியின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் பங்கேற்கவுள்ளார்.
+🟩
 
-அத்துடன் பேராசிரியர் கே.ரி.கணேசலிங்கம் சிறப்பு விருந்தினர் உரையாற்றவுள்ளதோடு மாநாட்டில் தீர்மானங்களும் நிறைவேற்றப்படவுள்ளமை குறிப்பிடத்தக்கது.
+The first National Conference of the Tamil People's Alliance will be held today (21) at 3 pm at the Father Selva Gallery.
+
+The conference will be chaired by the party's secretary CV Wigneswaran as the chief guest at the Jaffna Tamil Nadu Party.. District Parliamentarian Sivagnanam Sreedharan will participate.
+
+It is also worth noting that Professor KR Ganesalingam will address a special guest and resolutions will be passed at the conference.
 
 ◼️
 
 [Data](articles/4d1cb7b4.json)
+
+[Extended Data](ext_articles/4d1cb7b4.ext.json)
 
 ---
 
@@ -972,25 +1022,31 @@ In addition, a memorial stamp was published in the event of handing over student
 
 ---
 
-### රනිල් ජනපති වී වසර 2යි : පාර්ලිමේන්තුවේ පනත් 90ක් සම්මතයි
+### Ranil is 2 years after President
 
 *2024-07-21 05:46:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpd9mn79lx9o) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ ශ්‍රී ලංකාවේ අටවැනි විධායක ජනාධිපතිවරයා ලෙස තේරී පත්වී අදට (ජූලි 21) දෙවසරක කාලයක් සම්පූර්ණ වේ. ඇතැමුන් ඔහු ‘රනිල් රාජපක්ෂ’ ලෙස හඳුන්වයි. තවත් සමහරෙක් ඔහුට 'පිං ජනපති' ලෙස ද විවේචන කරති.
+Ranil Wickremesinghe, dubbed 'Ranil Rajapaksa' and 'Ping President,' became Sri Lanka's eighth Executive President in July 2021, succeeding Mahinda Rajapaksa amid nationwide protests. Facing economic challenges, including long queues for essentials and a $1 billion aid package from India, Wickremesinghe sought IMF assistance, leading to debt restructuring with China. Despite criticism for passing key legislation without broad public consultation, he remains committed to addressing the country's crises.
 
-අනුප්‍රාප්තික ජනාධිපතිවරයා ලෙස රනිල් වික්‍රමසිංහ එම ධුරය භාර ගන්නා අවස්ථාවේ රටේ පැවතියේ ඉතාම අභියෝගාත්මක කාල වකවානුවක් බව නොරහසකි.
+🟩
 
-ඒ වන විටත් ගාලු මුවදොර පිටියේ මෙන්ම දිවයිනේ ඇතැම්  ප්‍රදේශවල මහජනතාව සිස්ටම් ‘චේන්ජ්’ එකක් අවශ්‍ය බව පවසමින් විරෝධතා හා උද්ඝෝෂණ කරමින් කඳවුරු බැඳ සිටියහ.
+President Ranil Wickremesinghe is elected eighth Executive President and will be completed today (July 21). Some are called 'Ranil Rajapaksa'. Others also criticize him as 'Ping President'.
 
-ජනාධිපති ධුරයට පත්වීමට පෙර රනිල් වික්‍රමසිංහ ගෝඨාභය රාජපක්ෂ රජයේ අගමැතිවරයා ලෙස කටයුතු කරමින් සිටියේය.
+It is no secret that Ranil Wickremesinghe was the most challenging time in the country when he was handed over to the post of successor.
 
-ඒ අගමැති මහින්ද රාජපක්ෂ ප්‍රමුඛ ආණ්ඩුව ජනතා විරෝධය හමුවේ ඉල්ලා අස්වීම හේතුවෙනි.
+At the same time, the general public encamped and agitated by protests and protests claiming that the general public in the Galle Face and some parts of the island.
 
-2022 වසරේ මැයි මස 16 වැනිදා ජාතිය අමතමින් එවකට අගමැතිවරයා ලෙස රනිල් වික්‍රමසිංහ කියා සිටියේ තමන් භාර ගනු ලැබුවේ අනතුරුදායක අභියෝගයක් බවය.
+Ranil Wickremesinghe was the Prime Minister of the government before he was appointed as the presidency.
+
+It is due to the resignation of the Prime Minister Mahinda Rajapaksa in the face of resignation.
+
+Addressing the nation on May 16, 2022, Ranil Wickremesinghe said that he was charged with a dangerous challenge.
 
 ...
 
 [Data](articles/7331e9f5.json)
+
+[Extended Data](ext_articles/7331e9f5.ext.json)
 
 ---
 
@@ -2309,33 +2365,5 @@ Student union representatives have stated that the troops have been summoned to 
 [Data](articles/e8746eec.json)
 
 [Extended Data](ext_articles/e8746eec.ext.json)
-
----
-
-### Jayampathi's answer to the President's forgiveness
-
-*2024-07-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199012) · `si`
-
-In response to the President's forgiveness, Dr. Jayampathi Wickramaratne clarified that the 19th Amendment reduces the presidential and parliamentary terms to 5 years, not 6, due to constitutional requirements for referendums on certain clause changes. He emphasized the government's decision against holding a referendum during the amendment's drafting, adhering strictly to the original plan without altering the maximum term length. Despite the Attorney General's stance that no referendum was needed, Wickramaratne expressed disappointment over the lack of reduction in the maximum term length, highlighting that the amendment process was not based on President Sirisena's election promises.
-
-🟩
-
-President's Counsel Dr. Jayampathi Wickramaratne says that the term of the President and Parliament has been reduced to 5 years in drafting the 19th Amendment.
-
-Jayamputi Wickramaratne has responded today at a function held in Galle yesterday (19) at a function held in Galle yesterday.
-
-A Cabinet subcommittee was appointed as the Legal Draftsman of the Legal Draftsman of the Legal Draft Department and Presidential Counsel Jayampathi Wickremaratne was also present.
-
-President Ranil Wickremesinghe said yesterday, President Ranil Wickremesinghe said yesterday that Jayampatti Wickramaratne was not different from the 19th Amendment to the 19th Amendment.
-
-Responding to this, the President's Counsel had issued a statement to the media.
-
-His press release points out that the government has decided not to take the process of making any referendum in the formulation of the 19th Amendment Amendment.
-
-...
-
-[Data](articles/5ffadfc5.json)
-
-[Extended Data](ext_articles/5ffadfc5.ext.json)
 
 ---

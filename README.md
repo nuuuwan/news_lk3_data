@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 03:53:54**
+As of **2024-07-22 04:05:31**
 
 ## Newspaper Stats
 
-*Scraped **36,462** Articles*
+*Scraped **36,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,289
 adaderanalk | 4,218
-tamilmirrorlk | 4,442
+tamilmirrorlk | 4,443
 dailymirrorlk | 4,733
 virakesarilk | 5,713
 adaderanasinhalalk | 6,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,462 (100.0%) of 36,462 articles have been extended.
+36,462 (100.0%) of 36,463 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -169,6 +169,22 @@ The woman, who was arrested on Saturday (20), has been handed over to the Pallek
 [Data](articles/c5a0febe.json)
 
 [Extended Data](ext_articles/c5a0febe.ext.json)
+
+---
+
+### ’காணிகள் தராமையால் வீட்டுத் திட்டத்தில் தடை’
+
+*2024-07-22 00:04:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணிகள்-தராமையால்-வீட்டுத்-திட்டத்தில்-தடை/175-340794) · `ta`
+
+வீடுகளை கட்டுவதற்கு உரிய காணிகளை இலங்கை தரப்பு, இன்னமும் விடுவிக்காமையால் வீடுகளை நிர்மாணிப்பதில் தாமதம் ஏற்பட்டுள்ளது என்றும், இந்த விவகாரத்தில், இந்திய தரப்பில் எவ்வித தாமதமும் இல்லை எனவும் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, தமிழ் முற்போக்கு கூட்டணி தூதுக்குழுவிடம் தெரிவித்துள்ளார்.
+
+2024  ஓகஸ்ட் மாதத்தில் கட்டி முடிக்கப்படும் என்ற உறுதி மொழியுடன், சுமார் 375 மில்லியன் ரூபாய் செலவில், 1,300 வீடுகளை கட்டுவதற்காக, பாரத்-லங்கா மலைநாட்டு தோட்ட வீடமைப்பு திட்டம் என்ற பெயரில், கோலாகலமாக ஆரம்பித்து வைக்கப்பட்ட, நான்காம் கட்ட இந்திய வீடமைப்பு திட்டம் இடை நின்றுள்ளது.
+
+இந்நிலையில், தமிழ் முற்போக்குக் கூட்டணியின் தலைவர் மனோ கணேசன் எம்.பி தலைமையில் எம்.பி.கள் வேலு குமார், உதய குமார் ஆகியோர் அடங்கிய தூதுக்குழுவுக்கும்,  இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுக்கும் இடையில், இன்றைய அரசியல் நிலைமை, இலங்கை பொருளாதார அபிவிருத்திக்கான இந்திய உதவிகள், மலையகத்துக்கான பிரத்தியேக கல்வி, தொழில் நுட்ப துறைகளுக்கான உதவிகள் ஆகியவை பற்றி கலந்துரையாடல் நிகழ்ந்து உள்ளது.
+
+...
+
+[Data](articles/ff9d7f06.json)
 
 ---
 
@@ -2269,25 +2285,5 @@ Meanwhile, the Commissioner General of Elections Saman Sri Ratnayake said that t
 [Data](articles/57f56e39.json)
 
 [Extended Data](ext_articles/57f56e39.ext.json)
-
----
-
-### Sri Lanka to witness rare lunar occultation of Saturn next week
-
-*2024-07-21 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100661/sri-lanka-to-witness-rare-lunar-occultation-of-saturn-next-week) · `en`
-
-The Lunar Occultation of Saturn which is a rare astronomical event will be visible to Sri Lanka just after midnight on July 24, 2024.
-
-The Arthur C Clarke Institute for Modern Technologies said that the event will start at approximately 00:50 a.m. on 25 July, 2024 and will be visible to the naked eye by looking at the Moon starting around 00:40 a.m. on July 25, from Sri Lanka.
-
-Furthermore, Arthur C Clarke Institute added that a telescope or a pair of binoculars will enable the observation of the occultation-the disappearance and reappearance of Saturn, more clearly.
-
-In an occultation, one celestial body passes in front of another, blocking its view. When the Moon moves in front of Saturn, obscuring it from view on Earth, this event is known as the lunar occultation of Saturn.
-
-...
-
-[Data](articles/6fbed152.json)
-
-[Extended Data](ext_articles/6fbed152.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 10:20:19**
+As of **2024-07-21 10:35:28**
 
 ## Newspaper Stats
 
-*Scraped **36,332** Articles*
+*Scraped **36,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 2,073
 economynextcom | 2,169
 dailyftlk | 2,314
 adalk | 3,274
-adaderanalk | 4,199
+adaderanalk | 4,200
 tamilmirrorlk | 4,424
 dailymirrorlk | 4,733
 virakesarilk | 5,679
-adaderanasinhalalk | 6,092
+adaderanasinhalalk | 6,094
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,332 (100.0%) of 36,332 articles have been extended.
+36,332 (100.0%) of 36,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### අසංක අබේගුණසේකර අත්අඩංගුවට
+
+*2024-07-21 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199041) · `si`
+
+ජාතික ආරක්ෂක අධ්‍යයන ආයතනයේ හිටපු අධ්‍යක්ෂ අසංක අබේගුණසේකර මහතාව අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහු අද (21) පෙරවරුවේ කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+
+දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් පවරා ඇති නඩුවක් සම්බන්ධයෙන් මොහුට එරෙහිව විවෘත වරෙන්තුවක් නිකුත් කර තිබුණි.
+
+◼️
+
+[Data](articles/315426fa.json)
+
+---
+
+### Former INSSSL Director Asanka Abeygunasekara arrested
+
+*2024-07-21 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100658/former-insssl-director-asanka-abeygunasekara-arrested) · `en`
+
+The former Director General of the Institute of National Strategic Studies of Sri Lanka (INSSSL) Asanka Abeygunasekara has been arrested by police.
+
+Abeygunasekara, against whom there was a pending open warrant over a case filed by the Inland Revenue Department (IRD), was arrested at the Bandaranaike International Airport (BIA) in Katunayake this morning (21), police said.
+
+◼️
+
+[Data](articles/7ae6308d.json)
+
+---
+
+### වෙඩි ප්‍රහාරයෙන් මියගිය ට්‍රම්ප් ආධාරකරු වෙනුවෙන් අනුස්මරණ උත්සවයක්
+
+*2024-07-21 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199040) · `si`
+
+හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඉලක්ක කර එල්ලකළ වෙඩි ප්‍රහාරයෙන් මියගිය ට්‍රම්ප් ආධාරකරු වෙනුවෙන් පැවති අනුස්මරණ උත්සවයක් පිළිබඳව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ගිනි නිවීමේ රථ සහ යතුරුපැදි යොදා ගනිමින් එම අනුස්මරණ උත්සවය සංවිධාන කර තිබුණි.
+
+අමෙරිකාවේ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඝාතන තැතකින් දිවි ගලවා ගත්තේ පසුගිය සතියේදී ය.
+
+ඔහු වෙනුවෙන් පැවති අනුස්මරණ උත්සවයක් පිළිබඳව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+හිටපු ජනපති ට්‍රම්ප් ඉලක්ක කරමින් එල්ලවූ වෙඩි ප්‍රහාරයෙන් ඔහුගේ ආධාරකරු මියගියේ ඔහු වෙඩි ප්‍රහාරයෙන් සිය පවුලේ සාමාජිකයින් ආරක්ෂා කිරීමට උත්සාහ කිරීමත් සමගය.
+
+පනස් හැවිරිදි ට්‍රම්ප් ආධාරකරුවා අමෙරිකානු හමුදා සෙබළෙක් ලෙසද කටයුතු කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/1f09b546.json)
+
+---
 
 ### Showers expected in parts of the island
 
@@ -2311,77 +2363,5 @@ Dr. Dharmakulasinghe also highlighted an increase in the spread of AIDS among th
 [Data](articles/106e63c4.json)
 
 [Extended Data](ext_articles/106e63c4.ext.json)
-
----
-
-### More than 40 people lose their lives
-
-*2024-07-20 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199007) · `si`
-
-In a tragic incident, over 40 migrants lost their lives, and 40 more were injured when their boat capsized during a journey to the Turks and Caicos Islands. The United Nations reported that the vessel carried more than 80 individuals. Rescue efforts by the Haitian Coast Guard saved 41 survivors, among whom 11 were hospitalized due to burns.
-
-🟩
-
-Over 40 people were killed and 40 others were wounded by a boat from the migrants.
-
-A UN spokesman has quoted the International Organization for Migrants Two days ago, a boat carrying over 80 people have been traveling to Turks and Caicos Islands.
-
-41 survival migrants have been rescued by Haiti Coast Guard.
-
-Eleven migrants have been hospitalized for treatment with burn injuries.
-
-◼️
-
-[Data](articles/8c4de370.json)
-
-[Extended Data](ext_articles/8c4de370.ext.json)
-
----
-
-### Fonseka releases announcement next month
-
-*2024-07-20 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/188912) · `ta`
-
-Sarath Fonseka plans to run for president as an independent candidate, supported by several MPs, former MPs, and notable figures. His announcement, initially set for August, was postponed due to unresolved issues.
-
-🟩
-
-It is reported that MP Sarath Fonseka will announce August about contesting the presidential election.
-
-The information has been released by citing the Senior Advisor Jaganna Krishnakumar and Strategic Advisor Venkatees Dharmaraja.
-
-They said that Sarath Fonseka would contest as an independent people's candidate and said he was supporters of many MPs, former MPs and prominent dignitaries.
-
-They said his announcement was delayed as he had to make a final resolution on some issues.
-
-◼️
-
-[Data](articles/0767295a.json)
-
-[Extended Data](ext_articles/0767295a.ext.json)
-
----
-
-### Three and three others arrested with firearm of cricket leader
-
-*2024-07-20 09:28:32* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-නායකයා-ඝාතනයට-යොදාගත්-ගිනි-අවිය-සමග-කාන්තාවක්-ඇතුළු-තිදෙනෙක්-අල්ලයි/11-410874) · `si`
-
-Four individuals, including a woman, were arrested in connection with the shooting death of a cricket leader. A 12 bore firearm was recovered from a graveyard in Ambalangoda, where the incident occurred. The suspects, aged 48 and 37, both residents of Kosgoda, allegedly used this weapon in the crime. Police also discovered that the suspect's bank account received funds two months prior to the murder.
-
-🟩
-
-The 12 bore firearm including a woman who was resident of the shooting of the shooting of Hintele, Ambalangoda, a woman who was resident of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting of the shooting was reported.
-
-The murder was held on the night of the incident, a 48-year-old resident of Kosgoda, a 37-year-old resident of Kosgoda.
-
-According to the police, the 12 bore gun was found in a graveyard, Ambalangoda, a 12-member gun, which had been used to the murder in question.
-
-The police said that the bank account that has been supporting the suspect in the murder, the bank's account has been credited with a bank account at two months.
-
-◼️
-
-[Data](articles/55067040.json)
-
-[Extended Data](ext_articles/55067040.ext.json)
 
 ---

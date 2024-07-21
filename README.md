@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 16:51:55**
+As of **2024-07-21 17:05:33**
 
 ## Newspaper Stats
 
-*Scraped **36,398** Articles*
+*Scraped **36,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,281
 adaderanalk | 4,212
 tamilmirrorlk | 4,434
 dailymirrorlk | 4,733
-virakesarilk | 5,690
+virakesarilk | 5,692
 adaderanasinhalalk | 6,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,396 (100.0%) of 36,398 articles have been extended.
+36,396 (100.0%) of 36,400 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/718f4825.json)
+
+---
+
+### மாணவர்களின் ஆர்ப்பாட்டங்களிற்கு காரணமான வேலைவாய்ப்பில் ஒதுக்கீட்டு முறைக்கு எதிராக பங்களாதேஸ் நீதிமன்றம் தீர்ப்பு- தகுதியின் அடிப்படையில் வேலைவாய்பை வழங்க உத்தரவு
+
+*2024-07-21 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189015) · `ta`
+
+பங்களாதேசில் வன்முறைகள் வெடிப்பதற்குகாரணமான அரசாங்கவேலைவாய்;ப்பில் ஒதுக்கீட்டு முறையை பங்களாதேஸின் உயர்நீதிமன்றம் இரத்து செய்துள்ளது.
+
+அரசாங்க வேலைவாய்ப்புகளில் 30 வீதம் சுதந்திரபோராட்ட வீரர்களின் குடும்பத்தவர்கள் உட்பட பல தரப்பினருக்கு எதிராகவே மாணவர்கள் ஆர்ப்பாட்டங்களில் ஈடுபட்டனர்.
+
+இந்த நிலையில் சுதந்திரப்போராட்ட வீரர்களின் குடும்பத்தவர்களிற்கு ஐந்து வீதத்தினை மாத்திரம் ஒதுக்கலாம் என உயர்நீதிமன்றம் அறிவித்துள்ளது.
+
+ஐந்து வீதத்தினை முன்னாள் சுதந்திர போராட்ட வீரர்களின் குடும்பத்தினருக்கும் 2 வீதத்தினை சிறுபான்மை சமூகத்தினருக்கும் ஒதுக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+1971ம் ஆண்டு முதல் நாட்டில் காணப்படும் அரசாங்க வேலைவாய்ப்பில் ஒதுக்கீடு முறையை கைவிடவேண்டும் என வேண்டுகோள் விடுத்துள்ள மாணவர்கள் தரத்தின் அடிப்படையில் வேலைவாய்ப்பை வழங்கவேண்டும் என தெரிவிக்கின்றனர்.
+
+1971 ம் ஆண்டு சுதந்திரபோராட்டத்தில் ஈடுபட்டவர்களின் பிள்ளைகள் உட்பட விசேட குழுவினருக்கு ஆயிரக்கணக்கான அரசவேலை வாய்ப்புகளை ஒதுக்கும் நடைமுறை பங்களாதேசில் காணப்படுகின்றது.
+
+...
+
+[Data](articles/ee0d0a55.json)
+
+---
+
+### ஒப்படை சமர்ப்பிக்காத தன்னை ஆசிரியர் தாக்கியதாக மாணவன் பொலிஸில் முறைப்பாடு
+
+*2024-07-21 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189009) · `ta`
+
+ஒப்படை சமர்ப்பிக்கத் தவறியதால் தன்னை ஆசிரியர் மூர்க்கத்தனமாக தாக்கினார் என பாடசாலை மாணவன் ஒருவனால் கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
+
+கோப்பாய் பகுதியில் உள்ள பாடசாலை ஒன்றில் கல்வி கற்கும் மாணவனே முறைப்பாடு செய்துள்ளதாக கூறப்படுகிறது.
+
+பாடம் ஒன்றுக்கான ஒப்படையை சமர்ப்பிக்க தவறியமையால் ஆசிரியர் தன்னை தாக்கியதாக முறைப்பாட்டில்  தெரிவித்துள்ளதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/7cc43dda.json)
 
 ---
 
@@ -1146,7 +1184,7 @@ An open warrant was issued against him on a case filed by the Department of Inla
 
 *2024-07-21 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100658/former-insssl-director-asanka-abeygunasekara-arrested) · `en`
 
-The former Director General of the Institute of National Strategic Studies of Sri Lanka (INSSSL) Asanka Abeygunasekara has been arrested by police.
+The former Director General of the Institute of National Security Studies of Sri Lanka (INSSSL) Asanka Abeygunasekara has been arrested by police.
 
 Abeygunasekara, against whom there was a pending open warrant over a case filed by the Inland Revenue Department (IRD), was arrested at the Bandaranaike International Airport (BIA) in Katunayake this morning (21), police said.
 
@@ -2221,53 +2259,5 @@ Ceylon Workers Congress President Senthil Thondaman has called on President Rani
 [Data](articles/42421aad.json)
 
 [Extended Data](ext_articles/42421aad.ext.json)
-
----
-
-### Two fishing boats in Jaffna
-
-*2024-07-20 20:53:03* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයෙන්-හම්බන්තොටින්-මුහුදු-ගිය-ධිවර-යාත්‍රා-දෙකක්-අතුරුදන්/11-410877) · `si`
-
-In Jaffna and Hambantota, two fishing boats with six fishermen each have gone missing. The Fisheries Department reports no updates since their departure on the 7th, despite efforts from the Fisheries Director General Susantha Kahawatte and the Navy.
-
-🟩
-
-Two boats with six boats with six sea fishermen from fishermen from fisheries
-
-The Fisheries Department says two fishermen carrying six fishermen have disappeared from Jaffna and Hambantota Fisheries Harbor.
-
-The Fisheries Director General Susantha Kahawatte said that there were two vessels departed for fishing on the 7th.
-
-Four Indian fishermen have been present at the Thandudent fishing vessel leaving the Fisheries Harbor, Jaffna, Point Peter.
-
-Susantha Kahawaththa said that the fishermen were leaving the Fisheries Harbor and has not reported any information about the fishermen, including the Navy, including the Navy.
-
-◼️
-
-[Data](articles/5f472ea7.json)
-
-[Extended Data](ext_articles/5f472ea7.ext.json)
-
----
-
-### Sri Lanka and Japan discuss JCM de-carbornizing funding
-
-*2024-07-20 20:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-japan-discuss-jcm-de-carbornizing-funding-173060/) · `en`
-
-ECONOMYNEXT – Sri Lanka and Japan has discussed new funding to reduce carbon emissions, as well as resuming halted project when a delegation met President Ranil Wickremesinghe, his media office said.
-
-Sri Lanka and official creditors reached a deal to re-structure bilateral debt, allowing Japan to give new loans and also resume suspended projects.
-
-The delegation had discussed funding from Japan’s Joint Credit Mechanism (JCM), covering projects to reduce carbon dioxide emissions using advanced Japanese technologies.
-
-The delegation included Chairman of the Board – Japan Bank for International Cooperation (JBIC) Maeda Tadashi, the statement said.
-
-Public private partnerships to develop low income housing was also discussed. (Colombo/July20/2024)
-
-◼️
-
-[Data](articles/35dadfa5.json)
-
-[Extended Data](ext_articles/35dadfa5.ext.json)
 
 ---

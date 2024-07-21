@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 16:35:30**
+As of **2024-07-21 16:51:55**
 
 ## Newspaper Stats
 
-*Scraped **36,396** Articles*
+*Scraped **36,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,58 @@ newsfirstlk | 363
 islandlk | 2,074
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,280
+adalk | 3,281
 adaderanalk | 4,212
 tamilmirrorlk | 4,434
 dailymirrorlk | 4,733
 virakesarilk | 5,690
-adaderanasinhalalk | 6,108
+adaderanasinhalalk | 6,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,393 (100.0%) of 36,396 articles have been extended.
+36,396 (100.0%) of 36,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### ද්විත්ව ඝාතනයට වසර 226ක සිර දඬුවමක්
+### දකුණු අධිවේගයේ බිහිසුණු අනතුරක්
+
+*2024-07-21 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199056) · `si`
+
+දකුණු අධිවේගයේ කොළඹ දෙසට වූ මාර්ගයේ මෝටර් රථ දෙකක් ගැටී ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/718f4825.json)
+
+---
+
+### 226 years in prison for double murder
 
 *2024-07-21 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199055) · `si`
 
-ඇලස්කා සම්භවයක් සහිත කාන්තාවන් දෙදෙනකු ඝාතනය සම්බන්ධයෙන් වැරදිකරු වූ පුද්ගලයෙක් ට වසර 226ක සිර දඬුවමක් ලබාදීමට ඇලස්කා අධිකරණයක් නියෝගකර තිබේ.
+A man received a 226-year sentence for murdering two women, including recording one death. He was also convicted of sexual abuse and tampering with evidence, adding 28 more years to his term.
 
-එම පුද්ගලයා විසින් එක් කාන්තාවකට මියයන තුරුම හිරිහැර කර ඇති අතර ඔහු එම සිද්ධිය වීඩියෝ කිරීමටද පියවර ගෙන තිබුණි.
+🟩
 
-බ්‍රයන් ස්ටීවන් ස්මිත් නම් එම පුද්ගලයා ට එරෙහිව Kathleen Henry සහ Veronica Abouchuk ඝාතනය කිරීම සම්බන්ධයෙන් වසර 99 බැගින් සිර දඬුවම් නියම කෙරිණි.
+Alaska court has ordered a man sentenced to 226 years in prison for the murder of Alaska Descent.
 
-අනෙක් වසර 28ක සිර දඬුවම ලබාදී ඇත්තේ එම කාන්තාවන්ව ලිංගික ව අපයෝජනය කිරීම සහ සාක්ෂි වෙනස් කිරීම යන චෝදනා සම්බන්ධයෙනි.
+The man had bully a woman to die and he had also taken steps to video.
 
-දකුණු අප්‍රිකානු ජාතිකයෙක් වන බ්‍රයන් ස්ටීවන් ස්මිත් පසුව අමෙරිකානු පුරවැසි භාවය ලබාගෙන තිබුණි.
+If Brian Smith, Kathleen Smith, was sentenced to 99 years in prison regarding the assassination of Katleen Henry and Veronica Aboochuk against the man.
+
+The other 28 years of imprisonment was given in charge of sexual abuse and change evidence.
+
+Brian Stephen Smith, a South African, was later taken US citizenship.
 
 ◼️
 
 [Data](articles/f1bfd2af.json)
+
+[Extended Data](ext_articles/f1bfd2af.ext.json)
 
 ---
 
@@ -61,6 +79,8 @@ The lane towards Colombo on the Southern Expressway has temporarily been blocked
 ◼️
 
 [Data](articles/1693ddb6.json)
+
+[Extended Data](ext_articles/1693ddb6.ext.json)
 
 ---
 
@@ -77,6 +97,8 @@ To assess the contribution of migrant workers to Sri Lanka’s economy, the “W
 ...
 
 [Data](articles/a263132c.json)
+
+[Extended Data](ext_articles/a263132c.ext.json)
 
 ---
 
@@ -945,6 +967,28 @@ In addition, there will be a situation where large funds will be spent on the el
 [Data](articles/6a9f9b19.json)
 
 [Extended Data](ext_articles/6a9f9b19.ext.json)
+
+---
+
+### විදුලි රැහැනේ පැටලි කොහුබත් ලොරි ගිනිබත් වෙයි
+
+*2024-07-21 10:44:26* · [`adalk`](https://www.ada.lk/picture_story/විදුලි-රැහැනේ-පැටලි-කොහුබත්-ලොරි-ගිනිබත්-වෙයි/10-410886) · `si`
+
+කොහු තොගයක් රැගෙන එමින් තිබු විශාල ලොරියක් විදුලි රැහැනක පැටලීමේන් ගිනි ගැනිමකට ලක්ව ලොරි රථය හා කොහු තොගය සම්පුර්ණයෙන් විනාශ වි ඇති බව උඩප්පුව පොලිසිය කියයි.
+
+විදේශ රටකට කොහු අපනයනය කරනු ලබන මහා පරිමාන කොහු ව්‍යාපාරීයකුට අයත් කොත්තන්තිව්  කර්මාන්ත ශාලවේ සිට විරුතෝඩේ ගබඩාව දක්වා ගමන් කරමින් තිබු මෙම ලොරි රථය කනමුල්ල අතුරු මාර්ගයෙ සිට ප්‍රධාන මාර්ගයට දැමිමට යාමේදි කොහු ලොරිය මාර්ගයෙ ප්‍රධාන විදුලි රැහැන් පද්ධතියෙ ගැටි ඇති බව කියයි.
+
+කොහු ලොරිය අධික උසකින් යුක්ත විම හේතුවෙන් නිවසකට ලබා දි තිබු විදුලි සැපයුමක වයරය කැඩි එය ගිනි ගෙන ලොරිය මතට වැටිමත් සමග  මෙම ගිනි ගැනිම සිදුව ඇති බව කියයි.
+
+කෙසේ නමුත් ලොරි රථය විදුලි රැහැන් වලින් ඇදි මාර්ගයට පැමින ඇතත් ගිනි ගැනිම නොනවත්වා පැවතිමත් සමග ගින්න සම්පුර්ණයෙන් පැතිරි ගොස් ඇති බව කියයි.
+
+කෙසේ නමුත් ලොරි රථයෙ රියදුරු හා සහයකයා ලොරි රථයෙන් ඉවතය පැන ජීවිත බේරා ගැනිමට සමත් වි ඇති බව කියයි.
+
+ගින්න හේතුවෙන් කොහු තොගය හා ලොරිය සම්පුර්ණයෙන් පිලිස්සි විනාශ විම හේතුවෙන් රුපියල් ලක්ෂ 40 අධික හානියක් සිදුව ඇති බව කොහු ව්‍යාපාරීකයා පවසයි.
+
+...
+
+[Data](articles/42af8bf4.json)
 
 ---
 
@@ -2225,63 +2269,5 @@ Public private partnerships to develop low income housing was also discussed. (C
 [Data](articles/35dadfa5.json)
 
 [Extended Data](ext_articles/35dadfa5.ext.json)
-
----
-
-### A group of Sri Lankan students in Bangladesh to visit the island today
-
-*2024-07-20 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199027) · `si`
-
-Due to unrest in Bangladesh, the Ministry of External Affairs has advised Sri Lankan students against visiting. Despite this, a group of students will travel to Sri Lanka today, assured by the High Commissioner of their safety. The ministry also assures the safety of around 3,000 Sri Lankan workers in Bangladesh.
-
-🟩
-
-The Ministry of External Affairs says that due to the unrest in Bangladesh, the Ministry of External Affairs says.
-
-At least 50 Sri Lankan students in three universities are engaged in studies.
-
-The Ministry of External Affairs said that although the universities were closed down by university students in Bangladesh.
-
-The High Commissioner of Sri Lanka, Bangladesh, has met with the students in person and discussed their needs and discusses the security of the students to Sri Lanka.
-
-The High Commissioner has informed the students that Sri Lanka has been able to go to Sri Lanka if he is not satisfied with security.
-
-Accordingly, a group of Sri Lankan students are due to arrive in the island today, the External Affairs Ministry said.
-
-The Ministry said that about 3,000 Sri Lankan workers remain in Bangladesh and have no problem with the safety of their security.
-
-...
-
-[Data](articles/742b7dce.json)
-
-[Extended Data](ext_articles/742b7dce.ext.json)
-
----
-
-### Is it necessary for the 22nd Amendment?- Suresh Premachandran
-
-*2024-07-20 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/188954) · `ta`
-
-Suresh Premachandran questions the necessity of the 22nd Amendment amidst skepticism about its timing and potential to influence the upcoming presidential election. He expresses concern over the delay in local government elections and the allocation of funds for development projects, suggesting possible misuse to sway votes.
-
-🟩
-
-Is it necessary for the 22nd Amendment to the presidential election announcements?Is this a mess to confuse the election?EPRLF party leader Suresh Premachandran said that many people are now skeptical.
-
-Yall. He said this during a media briefing held at the Media Center today (20).
-
-Gazette notification for bringing in the 22nd Amendment. There is no impact on this law. But is this amendment when the presidential election is to be held?The question arises.
-
-Now we suspect why they are trying to confuse the election as to why they are trying to change.
-
-With the nomination papers for the local government elections, the country has been postponed for the long time.
-
-The election is not canceled. So the nomination does not pay back the cash. Nomination for those who contested for independence. Their cash did not pay back.
-
-...
-
-[Data](articles/91da5458.json)
-
-[Extended Data](ext_articles/91da5458.ext.json)
 
 ---

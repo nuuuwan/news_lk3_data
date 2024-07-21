@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 09:54:51**
+As of **2024-07-21 10:06:36**
 
 ## Newspaper Stats
 
-*Scraped **36,329** Articles*
+*Scraped **36,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ dbsjeyarajcom | 319
 colombotelegraphcom | 338
 bbccomsinhala | 355
 newsfirstlk | 363
-islandlk | 2,072
+islandlk | 2,073
 economynextcom | 2,169
 dailyftlk | 2,314
-adalk | 3,273
-adaderanalk | 4,198
+adalk | 3,274
+adaderanalk | 4,199
 tamilmirrorlk | 4,424
 dailymirrorlk | 4,733
 virakesarilk | 5,679
@@ -26,33 +26,59 @@ adaderanasinhalalk | 6,092
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,328 (100.0%) of 36,329 articles have been extended.
+36,329 (100.0%) of 36,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### අස්වැසුම ගැන අලුත්ම ආරංචිය
+### Showers expected in parts of the island
+
+*2024-07-21 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100657/showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says a few showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Strong winds about 50-55 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, North-western, provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/e7a1074f.json)
+
+---
+
+### The latest news about the relief
 
 *2024-07-21 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199039) · `si`
 
-අස්වැසුම සුබසාධක ප්‍රතිලාභ යෝජනා ක්‍රමය සඳහා නව අයදුම්කරුවන් 450,000 පමණ අයදුම්කර ඇති බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
+The Welfare Benefit Board has initiated a census for selecting 450,000 new recipients for financial aid. Following protests, the selection process includes reconsideration for previously excluded beneficiaries. The census has started, and the initial phase of relief, offering Rs. 5,000 monthly benefits across four categories, is underway. However, the aid for two categories, including transits and vulnerable groups, ends on December 31st. Beneficiaries expect updates post the completion of the second phase of the program.
 
-ඒ අනුව එහි සංගණන කටයුතු සිදුකිරීමෙන් පසු කමිටුවක් විසින් අස්වැසුම ලබාගත හැකි අයදුම්කරුවන් තෝරා ගැනීමට නියමිතය.
+🟩
 
-ඉන් අනතුරුව තෝරාගත් ප්‍රතිලාභීන් සඳහා පවතින විරෝධතා සැලකිල්ලට ගැනීමෙන් පසු ඒ සඳහා යම් ඉවත් කිරීමක් ඇත්නම් ඒවා ද සිදුකර අස්වැසුම ලබාගන්නා ප්‍රතිලාභීන් තෝරාගැනීම සිදුකෙරෙයි.
+The Welfare Benefit Board has applied for about 450,000 new candidates for the revenue welfare scheme.
 
-එහි සංගණන කටයුතු මේ වනවිට ආරම්භ වී ඇති බවත් උතුරු පළාත තුළ එය සාර්ථකව සිදුකළ ද එම කටයුතු සඳහා අනෙකුත් පළාත්වල නිලධාරීන්ගේ යම් මැලිකමක් දක්නට ලැබෙන බවත් සුබසාධක ප්‍රතිලාභ මණ්ඩලය ප්‍රකාශකයෙකු සඳහන් කළේය.
+Accordingly, a committee will be selected by a committee after being carried out by its census.
 
-මේ වනවිට ප්‍රතිලාභීන් ලක්ෂ 18ක් පමණ ප්‍රමාණයක් සඳහා අස්වැසුම පළමු අදියර යටතේ දීමනා ලබාදෙන බව වාර්තා වෙයි.
+After considering the protests for selected beneficiaries, they will be selected if they have been removed.
 
-කාණ්ඩ 4ක් යටතේ එම ප්‍රතිලාභය ලබාදෙන අතර සංක්‍රාන්තික සහ අවදානමට ලක්වූ යන කාණ්ඩ සඳහා මාසිකව රුපියල් 5,000ක දීමනාවක් ලබාදීම සිදුකරයි.
+The Welfare Board (Welfare Benefits Board) stated that the census has already begun.
 
-"දුප්පත්" කාණ්ඩය සඳහා මාසිකව රුපියල් 8,500ක දීමනාවක් ද "අන්ත දුප්පත්" යන කාණ්ඩය සඳහා මාසිකව රුපියල් 15,000ක දීමනාවක් ද මේ වනවිට ලබාදෙයි.
+It is reported that the first phase of the relief is being given to the first phase of the relief efforts.
 
-...
+The benefit will be provided with the benefit of Rs. 5,000 per month for 4 categories.
+
+A monthly allowance of Rs.
+
+However, the disorder to the 2 categories of transit and vulnerable categories is due to end on December 31, and the total number of beneficiaries is already receiving allowances under the 2 categories.
+
+According to the welfare beneficiaries, the Welfare Board of Benefits will be updated in the first phase as soon as the second phase of the revenue is completed.
+
+◼️
 
 [Data](articles/29c17b3c.json)
+
+[Extended Data](ext_articles/29c17b3c.ext.json)
 
 ---
 
@@ -173,6 +199,28 @@ The spokesperson of the Trade and Commerce said that the sale of animals is also
 [Data](articles/f4ad649a.json)
 
 [Extended Data](ext_articles/f4ad649a.ext.json)
+
+---
+
+### හිස්බුල්ලා හැදූ සරසවිය විවෘත කරයි
+
+*2024-07-21 07:40:48* · [`adalk`](https://www.ada.lk/breaking_news/හිස්බුල්ලා-හැදූ-සරසවිය-විවෘත-කරයි/11-410879) · `si`
+
+විශ්වවිද්‍යාල පද්ධතියෙන් තර්ජනකාරී දේශපාලනය ඉවත් කළ යුතු බවත් දරුවන් නිදහසේ අධ්‍යාපන කටයුතු සිදු කිරීමට නම් විශ්වවිද්‍යාල පද්ධතිය ප්‍රතිසංධාන කළ යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+මෙරට පාසල් සහ විශ්වවිද්‍යාල පද්ධතිය කඩාකප්පල් නොකර විධිමත් අධ්‍යාපන ආයතන බවට පත් කළ යුතු කාලය එළඹ තිබෙන බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මඩකලපුව, පූනානි ප්‍රදේශයේ ඉදිකරන ලද විද්‍යා හා තාක්ෂණ විශ්වවිද්‍යාලය සිසු අයිතියට පත් කිරීම වෙනුවෙන් අද (20) පැවති උත්සවයට එක්වෙමිනි.
+
+සමරු ඵලකය නිරාවරණය කර විද්‍යා හා තාක්ෂණ විශ්වවිද්‍යාලය සිසු අයිතියට පවරා දුන් ජනාධිපතිවරයා එහි නිරීක්ෂණ චාරිකාවක නිරත වෙමින් සිසු සිසුවියන් සමඟ සුහද කතාබහක ද නිරත විය.
+
+මෙහිදී විශ්වවිද්‍යාලයීය පාලනාධිකාරිය සහ මෙරට උසස් අධ්‍යාපන ආයතන සමඟ අවබෝධතා ගිවිසුම් හුවමාරු කර ගැනීම ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ සිදු කෙරිණි.
+
+එසේම විද්‍යා හා තාක්ෂණ විශ්වවිද්‍යාලය සිසු අයිතියට පත් කිරීමට සමගාමීව සමරු මුද්දරයක් එළිදැක්වීමද සිදු කෙරිණි.
+
+...
+
+[Data](articles/c6158f9a.json)
 
 ---
 
@@ -365,6 +413,26 @@ Roshan Bamberadeniya, Co-Founder and CEO of Sales Capital expressed gratitude to
 [Data](articles/17d5d8ff.json)
 
 [Extended Data](ext_articles/17d5d8ff.ext.json)
+
+---
+
+### Amazon College awarded leading educational company of the year at BWIA ceremony
+
+*2024-07-21 04:07:00* · [`islandlk`](http://island.lk/amazon-college-awarded-leading-educational-company-of-the-year-at-bwia-ceremony/) · `en`
+
+Amazon College Private Limited was honored as the Leading Company of the Year in the Educational Institute/Services category (Medium-Gold) at the Business World International Awards. The award ceremony, organized by the Business World International Organization, recently took place at the Taj Samudra Hotel in Colombo. The recognition underscores their commitment to providing innovative, timely, and cost-effective education, offering globally accredited certificates within accelerated timeframes. Amazon College offers a diverse array of study programs, including diploma, higher national diploma, degree, top-up, masters, and PhD programmes.
+
+Prime Health Herbal Products honoured for innovation in cancer control
+
+Sales Capital and Prudentia Infinity unveil their modern office in Colombo 05
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/a0c50b6e.json)
 
 ---
 
@@ -2303,81 +2371,5 @@ The police said that the bank account that has been supporting the suspect in th
 [Data](articles/55067040.json)
 
 [Extended Data](ext_articles/55067040.ext.json)
-
----
-
-### Continuing demonstrations - violence - more than 35 killed yesterday
-
-*2024-07-20 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/188906) · `ta`
-
-Following student protests against a royal job allocation system in Dhaka, over 100 prisoners escaped from a prison, leading to a curfew. Violence resulted in over 35 deaths and disrupted phone services. Students vow to continue demonstrating, supported by other university students. The issue stems from a 1971 policy giving state jobs to certain groups, including freedom struggle descendants, which was temporarily halted in 2018 but reinstated last month, sparking renewed protests.
-
-🟩
-
-The curfew has been issued in Dhaka, Dhaka, following the fact that the struggle of the students against the allocation of the royal work has been violently violent.
-
-The Prime Minister has issued a curfew as more than 100 prisoners have fled the Nursingti Prison on Friday.
-
-There have been reports that about 67 people have died following violence.
-
-It is noteworthy that the telephone services and telephone services in Bangladesh have been affected following the violence of the demonstration.
-
-Videos have been released in Dhaka.
-
-Students have said they will continue their demonstrations.
-
-Other university students have expressed their support for Dhaka University students and have joined the protest.
-
-Students who have been requested to abandon the allocation of government employment in the country since 1971 have been given employment based on quality.
-
-...
-
-[Data](articles/4e719a37.json)
-
-[Extended Data](ext_articles/4e719a37.ext.json)
-
----
-
-### ‘Red’ alert issued over strong winds and rough seas
-
-*2024-07-20 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100638/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ warning for strong winds and rough seas for naval and multi-day fisherman communities in the Arabian Sea and Bay of Bengal.
-
-As per the warning, very strong winds 70-80 kmph, and very rough seas are likely over Arabian Sea area (in sea areas bounded by (10N - 20N) and (55E – 74E)) and Bay of Bengal (in sea areas bounded by (11N - 19N) and (83E – 93E)) due to the active south-west monsoonal condition.
-
-Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
-
-Those who are out at aforementioned sea regions are advised to return to coasts or moved safer areas immediately.
-
-Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/46389882.json)
-
-[Extended Data](ext_articles/46389882.ext.json)
-
----
-
-### Sudden fire on a ship arriving in Sri Lanka
-
-*2024-07-20 08:56:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-வந்துகொண்டிருந்த-கப்பலில்-திடீர்-தீ/175-340707) · `ta`
-
-A ship carrying hazardous cargo exploded off Sri Lanka, prompting the Indian Navy and two ICG vessels to battle the blaze amidst rough weather.
-
-🟩
-
-The ship was reportedly transporting international maritime hazardous cargo and explosion in the front of the business vessel.
-
-The Indian Navy is carrying out the task of extinguishing the fire despite the inclement weather.
-
-In addition two ICG ships have been sent for an attempt to extinguish fire from Goa. Remble
-
-◼️
-
-[Data](articles/111e41b3.json)
-
-[Extended Data](ext_articles/111e41b3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 17:05:33**
+As of **2024-07-21 17:20:28**
 
 ## Newspaper Stats
 
@@ -26,59 +26,81 @@ adaderanasinhalalk | 6,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,396 (100.0%) of 36,400 articles have been extended.
+36,400 (100.0%) of 36,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### දකුණු අධිවේගයේ බිහිසුණු අනතුරක්
+### A terrible accident on the southern highway
 
 *2024-07-21 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199056) · `si`
 
-දකුණු අධිවේගයේ කොළඹ දෙසට වූ මාර්ගයේ මෝටර් රථ දෙකක් ගැටී ඇති බව පොලීසිය පවසයි.
+A tragic car crash occurred on the South Expressway, involving two vehicles.
+
+🟩
+
+Two cars have collided along the South Expressway, police said.
 
 ◼️
 
 [Data](articles/718f4825.json)
 
+[Extended Data](ext_articles/718f4825.ext.json)
+
 ---
 
-### மாணவர்களின் ஆர்ப்பாட்டங்களிற்கு காரணமான வேலைவாய்ப்பில் ஒதுக்கீட்டு முறைக்கு எதிராக பங்களாதேஸ் நீதிமன்றம் தீர்ப்பு- தகுதியின் அடிப்படையில் வேலைவாய்பை வழங்க உத்தரவு
+### Bangladesh Court of Judgment to provide employment based on eligibility for students' demonstrations
 
 *2024-07-21 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189015) · `ta`
 
-பங்களாதேசில் வன்முறைகள் வெடிப்பதற்குகாரணமான அரசாங்கவேலைவாய்;ப்பில் ஒதுக்கீட்டு முறையை பங்களாதேஸின் உயர்நீதிமன்றம் இரத்து செய்துள்ளது.
+The Bangladesh High Court has overturned the previous allocation system, reducing job quotas for freedom fighters' families to 5% and allocating 2% to minorities, while emphasizing merit-based hiring for students protesting since 1971. This decision followed widespread protests against the earlier 30% quota for freedom fighters' kin, leading to renewed demonstrations over the allocation of jobs among various groups.
 
-அரசாங்க வேலைவாய்ப்புகளில் 30 வீதம் சுதந்திரபோராட்ட வீரர்களின் குடும்பத்தவர்கள் உட்பட பல தரப்பினருக்கு எதிராகவே மாணவர்கள் ஆர்ப்பாட்டங்களில் ஈடுபட்டனர்.
+🟩
 
-இந்த நிலையில் சுதந்திரப்போராட்ட வீரர்களின் குடும்பத்தவர்களிற்கு ஐந்து வீதத்தினை மாத்திரம் ஒதுக்கலாம் என உயர்நீதிமன்றம் அறிவித்துள்ளது.
+The High Court of Bangladesh has canceled the allocation system in the state of affairs in Bangladesh.
 
-ஐந்து வீதத்தினை முன்னாள் சுதந்திர போராட்ட வீரர்களின் குடும்பத்தினருக்கும் 2 வீதத்தினை சிறுபான்மை சமூகத்தினருக்கும் ஒதுக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Students staged protests against several parties, including the families of freedom fighters, 30 percent of government employment.
 
-1971ம் ஆண்டு முதல் நாட்டில் காணப்படும் அரசாங்க வேலைவாய்ப்பில் ஒதுக்கீடு முறையை கைவிடவேண்டும் என வேண்டுகோள் விடுத்துள்ள மாணவர்கள் தரத்தின் அடிப்படையில் வேலைவாய்ப்பை வழங்கவேண்டும் என தெரிவிக்கின்றனர்.
+The Supreme Court has announced that only five percent can be allocated to the families of the freedom fighters.
 
-1971 ம் ஆண்டு சுதந்திரபோராட்டத்தில் ஈடுபட்டவர்களின் பிள்ளைகள் உட்பட விசேட குழுவினருக்கு ஆயிரக்கணக்கான அரசவேலை வாய்ப்புகளை ஒதுக்கும் நடைமுறை பங்களாதேசில் காணப்படுகின்றது.
+The court has ordered the allocation of five percent to the families of former freedom fighters and 2 percent to the minority community.
+
+Students who have been requested to abandon the allocation of government employment in the country since 1971 have been given employment based on quality.
+
+In 1971, the practice of allocating thousands of state work for a special group, including the children of the freedom struggle, is found in Bangladesh.
+
+It is noteworthy that under this method, women of women and minority ethnic groups are allocated in the state.
+
+There were fierce demonstrations following the suspension of the process in 2018.
 
 ...
 
 [Data](articles/ee0d0a55.json)
 
+[Extended Data](ext_articles/ee0d0a55.ext.json)
+
 ---
 
-### ஒப்படை சமர்ப்பிக்காத தன்னை ஆசிரியர் தாக்கியதாக மாணவன் பொலிஸில் முறைப்பாடு
+### The student complained to the police that the teacher had attacked himself
 
 *2024-07-21 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189009) · `ta`
 
-ஒப்படை சமர்ப்பிக்கத் தவறியதால் தன்னை ஆசிரியர் மூர்க்கத்தனமாக தாக்கினார் என பாடசாலை மாணவன் ஒருவனால் கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
+A student filed a complaint at Kopay police station, alleging that her teacher assaulted himself after failing to complete homework. The police confirmed the incident, stating the teacher claimed he attacked himself due to this failure.
 
-கோப்பாய் பகுதியில் உள்ள பாடசாலை ஒன்றில் கல்வி கற்கும் மாணவனே முறைப்பாடு செய்துள்ளதாக கூறப்படுகிறது.
+🟩
 
-பாடம் ஒன்றுக்கான ஒப்படையை சமர்ப்பிக்க தவறியமையால் ஆசிரியர் தன்னை தாக்கியதாக முறைப்பாட்டில்  தெரிவித்துள்ளதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+A complaint has been lodged at the Kopay police station by a schoolgirl saying that the teacher has fiercely assaulted himself as he failed to submit his hand.
+
+It is said that a student of an educated student at a school in Kopay area has lodged a complaint.
+
+The police said that the teacher had complained that he had attacked him because he failed to submit the hand of the lesson.
 
 ◼️
 
 [Data](articles/7cc43dda.json)
+
+[Extended Data](ext_articles/7cc43dda.ext.json)
 
 ---
 
@@ -1008,25 +1030,33 @@ In addition, there will be a situation where large funds will be spent on the el
 
 ---
 
-### විදුලි රැහැනේ පැටලි කොහුබත් ලොරි ගිනිබත් වෙයි
+### Lorry burns on the coir
 
 *2024-07-21 10:44:26* · [`adalk`](https://www.ada.lk/picture_story/විදුලි-රැහැනේ-පැටලි-කොහුබත්-ලොරි-ගිනිබත්-වෙයි/10-410886) · `si`
 
-කොහු තොගයක් රැගෙන එමින් තිබු විශාල ලොරියක් විදුලි රැහැනක පැටලීමේන් ගිනි ගැනිමකට ලක්ව ලොරි රථය හා කොහු තොගය සම්පුර්ණයෙන් විනාශ වි ඇති බව උඩප්පුව පොලිසිය කියයි.
+A lorry carrying coir caught fire near Udappuwa, destroying both the vehicle and its cargo. The incident occurred while the lorry was en route from Kanamulla to Vertive Racing via Herotu Ravaya. A nearby power supply wire also suffered damage due to the blaze. Despite efforts to extinguish the fire, the lorry and coir stocks were completely lost.
 
-විදේශ රටකට කොහු අපනයනය කරනු ලබන මහා පරිමාන කොහු ව්‍යාපාරීයකුට අයත් කොත්තන්තිව්  කර්මාන්ත ශාලවේ සිට විරුතෝඩේ ගබඩාව දක්වා ගමන් කරමින් තිබු මෙම ලොරි රථය කනමුල්ල අතුරු මාර්ගයෙ සිට ප්‍රධාන මාර්ගයට දැමිමට යාමේදි කොහු ලොරිය මාර්ගයෙ ප්‍රධාන විදුලි රැහැන් පද්ධතියෙ ගැටි ඇති බව කියයි.
+🟩
 
-කොහු ලොරිය අධික උසකින් යුක්ත විම හේතුවෙන් නිවසකට ලබා දි තිබු විදුලි සැපයුමක වයරය කැඩි එය ගිනි ගෙන ලොරිය මතට වැටිමත් සමග  මෙම ගිනි ගැනිම සිදුව ඇති බව කියයි.
+Udappuwa Police say that the lorry and coir was completely destroyed by a large lorry burning of coir.
 
-කෙසේ නමුත් ලොරි රථය විදුලි රැහැන් වලින් ඇදි මාර්ගයට පැමින ඇතත් ගිනි ගැනිම නොනවත්වා පැවතිමත් සමග ගින්න සම්පුර්ණයෙන් පැතිරි ගොස් ඇති බව කියයි.
+The lorry that the lorry from the Kanamulla-road to the Vertive Racing to the Herotu Ravaya, which was traveling from the Kanamulla is the main road from the Kanamulla is to the warehouse from the Kanamulla is to the warehouse.
 
-කෙසේ නමුත් ලොරි රථයෙ රියදුරු හා සහයකයා ලොරි රථයෙන් ඉවතය පැන ජීවිත බේරා ගැනිමට සමත් වි ඇති බව කියයි.
+The wire of a power supply to a house was burned with the lorry, with the heavy height of height.
 
-ගින්න හේතුවෙන් කොහු තොගය හා ලොරිය සම්පුර්ණයෙන් පිලිස්සි විනාශ විම හේතුවෙන් රුපියල් ලක්ෂ 40 අධික හානියක් සිදුව ඇති බව කොහු ව්‍යාපාරීකයා පවසයි.
+However, the lorry has come to the pierce wires, but the fire has not been completely spreading with the fire.
 
-...
+However, the lorry driver and the assistant say that the lorry has been removed from the lorry and rescue lives.
+
+The core businessman says that the stock of coir and the lorry is completely destroyed due to the fire.
+
+Vasabas with the fire had tried to saving the lorry and coir, but it says it has been failed.
+
+◼️
 
 [Data](articles/42af8bf4.json)
+
+[Extended Data](ext_articles/42af8bf4.ext.json)
 
 ---
 

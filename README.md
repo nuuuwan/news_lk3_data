@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 13:35:41**
+As of **2024-07-21 13:54:45**
 
 ## Newspaper Stats
 
-*Scraped **36,370** Articles*
+*Scraped **36,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,60 @@ newsfirstlk | 363
 islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,277
+adalk | 3,278
 adaderanalk | 4,207
 tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
 virakesarilk | 5,688
-adaderanasinhalalk | 6,100
+adaderanasinhalalk | 6,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,369 (100.0%) of 36,370 articles have been extended.
+36,370 (100.0%) of 36,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### IMF දූත පිරිසක් ලංකාවට
+### KPI ගේ ගෝලයින් දෙදෙනෙක්ව කොටුකර ගනියි
+
+*2024-07-21 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199048) · `si`
+
+සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන කන්ජිපානි ඉම්රාන් නැමැත්තාගේ මෙරට මත්ද්‍රව්‍ය ජාලය මෙහෙයවන පුද්ගලයින් දෙදෙනකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකාය, රාගම ප්‍රදේශයේදී සිදුකළ වැටලීමකදී මෙම සැකකරුවන්ව අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔවුන් සතුව තිබී හෙරොයින් ග්‍රෑම් 10කට අධික ප්‍රමාණයක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10කට අධික ප්‍රමාණයක් සොයාගෙන  තිබුණි.
+
+අත්අඩංගුවට ගත් සැකකරුවන්  28 සහ  26 හැවිරිදි පුද්ගලයින් බව අනාවරණය වී ඇත.
+
+මොවුන් සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන කන්ජිපානි ඉම්රාන් නැමැත්තාගේ මෙරට මත්ද්‍රව්‍ය ජාලය මෙහෙයවන සෙල්වකුමාර් රංජිත් නැමැත්තාගේ මෙහෙයවීමෙන් මත්ද්‍රව්‍ය ජාවාරමේ යෙදී ඇති බවට තොරතුරු අනාවරණය වී ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/bfda02c3.json)
+
+---
+
+### IMF delegation to visit Sri Lanka
 
 *2024-07-21 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199047) · `si`
 
-ශ්‍රී ලංකා ආර්ථිකයේ ප්‍රගතිය සහ ඉදිරියේදී ගත යුතු ක්‍රියාමාර්ග සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත කණ්ඩායමක් ලබන සතියේ දිවයිනට පැමිණෙන බව මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසයි.
+An IMF delegation will visit Sri Lanka next week to assess the country's economic progress and discuss potential actions. State Minister Shehan Semasinghe emphasizes the importance of economic growth, despite electoral elections, aiming for a stable 3.5% GDP growth rate this year, surpassing initial forecasts of 2-3%. This comes after a significant contraction from 7.8% growth in 2022 to 3.5%, highlighting the government's efforts to stabilize the economy.
 
-මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ,  ආර්ථිකයේ වර්ධනයට බාධාවක් නොවන අයුරින් එළැඹෙන මැතිවරණ සමය ගෙවී යනු ඇතැයි අපේක්ෂා කරන බවය.
+🟩
+
+State Minister Shehan Semasinghe says that the International Monetary Fund delegation is coming to the island next week to discuss the progress of the Sri Lankan economy and action.
+
+Speaking to the media, the public minister said that the electoral election would be paid to the growth of the economy.
 
 ...
 
 [Data](articles/30a7f0a5.json)
+
+[Extended Data](ext_articles/30a7f0a5.ext.json)
 
 ---
 
@@ -867,6 +893,24 @@ Recently appointed President To Lam was appointed to oversee the work of the Gen
 [Data](articles/3ef04641.json)
 
 [Extended Data](ext_articles/3ef04641.ext.json)
+
+---
+
+### වරාය පිවිසුම් අධිවේගය ඔක්තෝබරයේදී ජනතා අයිතියට
+
+*2024-07-21 08:43:28* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-පිවිසුම්-අධිවේගය-ඔක්තෝබරයේදී-ජනතා-අයිතියට/11-410883) · `si`
+
+වරාය පිවිසුම් අධිවේගී මාර්ග ව්‍යාපෘතියට භාවිතා කළ නව තාක්‍ෂණික අත්දැකීම් විඳ ගැනීමට මහජනතාවට අවස්ථාවක් සැලසීමට කටයුතු සලසා ඇති බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කරයි.
+
+අමත්‍යවරයා මේ බව ප්‍රකාශ කළේ ඉදිවෙමින් පවතින වරාය පිවිසුම් අධිවේගී මාර්ගය නිරීක්ෂණ චාරිකාවට එක්වෙමිනි.
+
+ඒ අනුව, වරාය ව්‍යාපෘතියේ නව තාක්ෂණය, මුහුණ දුන් අභියෝග සහ ව්‍යාපෘතිය නියම කිරීමට ගත් ක්‍රියාමාර්ග ඇතුළු ව්‍යාපෘතියේ අත්දැකීම මේ රටේ පාසල් සිසුන්, විශ්වවිද්‍යාල ශිෂ්‍යයින්, වෘත්තියවේදීන් හා මහජනතාව දැනුවත් කිරීම සඳහා වූ වැඩමුළුවක් මේ මස 24 වන දිනය පෙරවරු 9.00 සිට පස්වරු 4.00 දක්වා කොළඹ සිනමන් ලේක්සයිඩ් හෝටලයේ දී පැවැත්වීමට සියලු කටයුතු සුදානම් ක‍ර තිබේ.
+
+2019 වර්ෂයේ සැප්තැම්බර් මස 27 වන දින ආරම්භ කරන ලද මෙම වරාය පිවිසුම් අධිවේගී මාර්ගය දිග කිලෝමීටර් 5.3 ක් වන අතර එක් පසෙකට මං තීරු දෙකක බැගින් සාදා ඇති අතර මෙම වසරේ ඔක්තෝබර් මස වන විට මහජන අයිතියට පැවරීමට නියමිතව ඇත.
+
+...
+
+[Data](articles/0e18e5bd.json)
 
 ---
 
@@ -2303,57 +2347,5 @@ The United States has provided tens of billions of dollars in military assistanc
 [Data](articles/9d371c55.json)
 
 [Extended Data](ext_articles/9d371c55.ext.json)
-
----
-
-### Man on the moon and 55 years for today
-
-*2024-07-20 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199016) · `si`
-
-On July 20, 1969, humans made history by landing on the Moon. Astronauts Neil Armstrong and Buzz Aldrin, aboard Apollo 11, became the first to set foot on another celestial body. This monumental achievement, broadcast live worldwide, marked a significant leap forward for space exploration. The mission lasted over two months, during which Armstrong and Aldrin collected lunar samples weighing approximately 21.5 kg. This event remains one of humanity's greatest achievements, inspiring further space exploration.
-
-🟩
-
-The first time man marks the first time on the Moon, and 55 years today.
-
-A small step of a man's to historical monarchy, a giant primary monastery for the future of the great mankind, is 20th July 1969.
-
-The world residents have the opportunity to watch the moment to watch the man at the moon for the first time.
-
-The Apostlo 11, Edwin Armstrong, the three-popular astroad Neil Armstrong and Michael Collins, which was very popular in the history of the world, began the Moon Trip, July 16, 1969.
-
-The unique plane was spared with the help of the Salton and Rocket.
-
-On July 20, 1969, Neil Armstrong and Edwin Aldrin were burned on the Moon around 1.50 am in Sri Lanka.
-
-Six hours later, Neil Armstrong was able to bring the first man to entering the Moon.
-
-Second Man Edwin Armstrong in collaboration with the Moon, Edwin Armstrong, has been explored about this new world for two months.
-
-It is reported that the two of them have added 21.5 kg rocks and soil to bring to the earth.
-
-...
-
-[Data](articles/11d91723.json)
-
-[Extended Data](ext_articles/11d91723.ext.json)
-
----
-
-### Today in history
-
-*2024-07-20 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/188943) · `ta`
-
-On July 20, 1969, astronauts Neil Armstrong and Edwin Aldrin made history as the first humans to walk on the moon, marking a significant milestone in space exploration.
-
-🟩
-
-Astronauts Neil Armstrong and Edwin Aldrin, who departed through the 'Apollo -11' spacecraft of the United States, set the first step on the lunar zonal ground on the same date on July 20, 1969.
-
-◼️
-
-[Data](articles/4b588f73.json)
-
-[Extended Data](ext_articles/4b588f73.ext.json)
 
 ---

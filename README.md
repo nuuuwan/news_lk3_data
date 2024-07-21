@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 18:13:52**
+As of **2024-07-21 18:25:15**
 
 ## Newspaper Stats
 
-*Scraped **36,404** Articles*
+*Scraped **36,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 3,282
 adaderanalk | 4,213
 tamilmirrorlk | 4,435
 dailymirrorlk | 4,733
-virakesarilk | 5,692
-adaderanasinhalalk | 6,110
+virakesarilk | 5,694
+adaderanasinhalalk | 6,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,403 (100.0%) of 36,404 articles have been extended.
+36,404 (100.0%) of 36,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### ක්ලබ් වසන්ත ඝාතන විමර්ශන වල අලුත්ම තත්ත්වය
+
+*2024-07-21 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199058) · `si`
+
+ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් විමර්ශනය සිදුකරන පොලිස නිලධාරීන් විසින් වැලිගම මිරිස්ස ප්‍රදේශයේදී ඊයේ (20) විසිඑක් හැවිරිදි කාන්තාවක් ව අත්අඩංගුවට ගත්තේය.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ ක්ලබ් වසන්ත ඝාතනය සැලසුම් කිරීම සඳහා යොදාගත් බස් රථයක් මෙම කාන්තාව ගේ නමින් ලියාපදිංචි කර ඇති බවයි.
+
+එබැවින් මෙම කාන්තාවත් එම ඝාතන කුමන්ත්‍රණය තුළ සිටින්නේද යන්න විමර්ශනය සඳහා ඇයව අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+ඇයව පැය 48ක් රඳවාගෙන ප්‍රශ්න කිරීමට පොලීසිය කළ ඉල්ලීමට කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය අවසර දී තිබුණි.
+
+"බස් රථය මෙතෙක් හම්බවෙලා නෑ. සඟවලා ඇත්තේ. ඒ සම්බන්ධයෙන් සොයනවා.."
+
+පොලිස් මාධ්‍ය ප්‍රකාශකවරයා තවදුරටත් පැවසුවේ ක්ලබ් වසන්ත ඝාතනය සැලසුම් කර ස්ථානයට ද මෙම කාන්තාව ගොස් ඇති බවට තොරතුරු ඇති බවයි.
+
+එසේම මෙම බස් රථය මිලදී ගෙන ඇත්තේ මෙම මනුෂ්‍ය ඝාතනය සඳහාම යන්න මේ වනවිට හෙළිවී ඇති බව ඔහු පැවසීය.
+
+...
+
+[Data](articles/ccd5ce4c.json)
+
+---
 
 ### Proposal for Ranil to contest Presidential Election approved at ‘Ekwa Jayagamu’ Gampaha rally
 
@@ -43,6 +67,8 @@ The proposal was then unanimously approved by all those in attendance with a sho
 ◼️
 
 [Data](articles/a5aea163.json)
+
+[Extended Data](ext_articles/a5aea163.ext.json)
 
 ---
 
@@ -95,6 +121,30 @@ He was released on two physical bail worth Rs 10 lakh each and the Negombo Magis
 [Data](articles/15cb1560.json)
 
 [Extended Data](ext_articles/15cb1560.ext.json)
+
+---
+
+### குழப்பத்தை தூண்டும் உத்தியா?
+
+*2024-07-21 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188998) · `ta`
+
+“சாவகச்சேரியில் மருத்துவர்  பிரச்சினைகளை ஊடகங்களின் ஊடாக வெளிக்கொண்டு வந்த போது, மக்கள் அவருக்கு பின்னால் திரளும் நிலை ஏற்பட்டது. ஆனால் இன்று அவரைக் கேள்வி எழுப்புகின்ற நிலைமை உருவாகி இருக்கிறது”
+
+◼️
+
+[Data](articles/6fb08440.json)
+
+---
+
+### மலையகத்துக்கான  வாக்குறுதிகளுக்கு  என்னவாயிற்று?
+
+*2024-07-21 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189001) · `ta`
+
+அரசியல் அனுபவங்கள் இல்லாத இளம் வயது அமைச்சரை ஜனாதிபதி ரணில் தனது அரசியல் இராஜதந்திரங்களுக்காக பயன்படுத்திக்கொள்கின்றாரா என்ற சந்தேகங்களும் எழுகின்றன. ஜீவன் அமைச்சராக பதவியேற்ற நாளிலிருந்து மலையக சமூகத்துக்காக ஜனாதிபதி வாக்குறுதியளித்த மலையகபல்கலைக்கழகம், காணிஉரிமை, தொழிலாளர் சம்பள விவகாரம் இவை அனைத்துமே இழுபறி நிலைக்குச் சென்றுள்ளன.
+
+◼️
+
+[Data](articles/77d31a79.json)
 
 ---
 
@@ -201,6 +251,14 @@ Brian Stephen Smith, a South African, was later taken US citizenship.
 *2024-07-21 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100670/one-lane-of-southern-expressway-blocked-for-traffic) · `en`
 
 The lane towards Colombo on the Southern Expressway has temporarily been blocked for traffic due to two cars colliding between Baddegama and Pinnaduwa, injuring 5 persons, the Expressway Police said.
+
+The accident took place around 03.30 p.m. this evening (21), between Baddegama and Pinnaduwa interchanges causing injuries to five persons in total.
+
+As a car traveling towards Colombo had skidded off the road and collided with the protective railing before hitting another car coming from behind it, police said.
+
+The injured individuals have been admitted to Baddegama and Karapitiya Hospitals for treatment. Among the injured are a 13-year-old boy and two females, the police said.
+
+Police said that the injured individuals are residents of Athurugiriya and Mathugama areas, and had faced this incident while returning from Kataragama.
 
 ◼️
 
@@ -2235,77 +2293,5 @@ So Sri Lanka women won the winning limit at the end of 17 wickets in the end of 
 [Data](articles/148e031c.json)
 
 [Extended Data](ext_articles/148e031c.ext.json)
-
----
-
-### Decisions taken by the Bangladesh government to stop violence
-
-*2024-07-20 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199030) · `si`
-
-In response to widespread student protests in Bangladesh, the government enacted measures including blocking internet and phone services nationwide, closing schools and universities, and deploying security forces to quell the unrest. These actions followed violent clashes between protesters and youth groups affiliated with the ruling party, leading to over a hundred deaths and thousands of injuries. The international community, including the US, has expressed concern over the government's handling of the protests and called for protection of protesters' rights. Despite negotiations failing to resolve the issue, the opposition supports the students' cause.
-
-🟩
-
-More than a hundred people died in Bangladesh and was enacted across the country to relieve the student protests.
-
-In this backdrop, Sri Lanka, a Sri Lankan in the current situation in Bangladesh, reported Derana to Ada Derana.
-
-"We heard the shots.. From there. We see all the three or three of three people to take the poles on the road. That we are the fashioned branch. Because the same way in our country.. Because we felt that this was going. We brought all the supplies early. "
-
-Bangladeshi university students of Bangladesh have commenced protests against the government a few weeks ago.
-
-The young people of the country have also joined the protests that launched university students.
-
-Protests have taken a violent form with a strong repressive policy to control them.
-
-Youth groups related to the ruling parromai league also attacked the protesting students.
-
-The government has also taken steps to close school and university days, considering the unrest in the country.
-
-...
-
-[Data](articles/ccba7799.json)
-
-[Extended Data](ext_articles/ccba7799.ext.json)
-
----
-
-### 19A controversy: Jayampathy Wickramaratne  responds to President’s accusation
-
-*2024-07-20 21:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100655/19a-controversy-jayampathy-wickramaratne-responds-to-presidents-accusation) · `en`
-
-President’s Counsel Dr. Jayampathy Wickramaratne has revealed that during the drafting of the 19th Constitutional Amendment, the terms of the President and the Parliament were proposed to be reduced from six to five years, however, the decision was made to retain the possibility of extending these terms to six years, as any further changes would necessitate a referendum.
-
-Dr. Wickramaratne stated this in a statement released today (20) in response to the public apology made by President Ranil Wickremesinghe on Friday (19) for the alleged oversight involving the senior attorney.
-
-In his statement, President’s Counsel Dr. Wickramaratne points out that the former government took the decision that the entire drafting process of the 19th Amendment should be carried out on the basis that the Bill should not be placed for approval at a referendum, in keeping with then President Maithripala Sirisena’s electoral pledge.
-
-...
-
-[Data](articles/12c5faab.json)
-
-[Extended Data](ext_articles/12c5faab.ext.json)
-
----
-
-### Losing the job if you make a strike again?
-
-*2024-07-20 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199029) · `si`
-
-Minister Bandula warns of job loss for repeat strikers, calling such actions extreme wrongdoings. He emphasizes the importance of dialogue over strikes. The Hatton New Railway Station and Market Complex, completed in 2020, remain closed as of this year.
-
-🟩
-
-Transport Minister Bandula Gunawardena says that if the people have been inconvenienced once again in trade union action, they will be treated for their service.
-
-The Minister said that the strike was an extremely wrongdoing and the opportunity to discuss any issues, the minister said.
-
-The Hatton New Railway Station and the Market Complex, which was completed in 2020, has not been opened to this year.
-
-◼️
-
-[Data](articles/13545509.json)
-
-[Extended Data](ext_articles/13545509.ext.json)
 
 ---

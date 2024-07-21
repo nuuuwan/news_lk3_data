@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 15:54:36**
+As of **2024-07-21 16:06:37**
 
 ## Newspaper Stats
 
-*Scraped **36,389** Articles*
+*Scraped **36,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,80 @@ economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,279
 adaderanalk | 4,210
-tamilmirrorlk | 4,433
+tamilmirrorlk | 4,434
 dailymirrorlk | 4,733
 virakesarilk | 5,690
-adaderanasinhalalk | 6,106
+adaderanasinhalalk | 6,107
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,387 (100.0%) of 36,389 articles have been extended.
+36,389 (100.0%) of 36,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### විදේශගතව පැමිණි ශ්‍රමිකයින් ට විශේෂ වරප්‍රසාදයක්
+### கிளப் வசந்த கொலை ; யுவதிக்கு தடுப்பு காவல்
+
+*2024-07-21 15:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-யுவதிக்கு-தடுப்பு-காவல்/175-340762) · `ta`
+
+கிளப் வசந்த கொலைச் சம்பவம் தொடர்பில் கைது செய்யப்பட்ட 21 வயதான யுவதி ஞாயிற்றுக்கிழமை (21) அன்று கடுவெல பதில் நீதவான் முன்னிலையில் முன்னிலைப்படுத்தப்பட்டார்.
+
+அதன்போது , குறித்த யுவதியை 48 மணி நேரம் பொலிஸ் காவலில் வைத்து விசாரிக்க வேண்டும் என்ற பொலிஸாரின் கோரிக்கையை நீதிமன்றம் அனுமதித்துள்ளது.
+
+மேல் மாகாண தெற்கு குற்றத்தடுப்பு பிரிவினரால் அதுருகிரிய பிரதேசத்தில் வைத்து, கிளப் வசந்தாவின் கொலைக்கு உதவியவர் என குற்றச்சாட்டில் அவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b76d447b.json)
+
+---
+
+### බංග්ලාදේශයේ රැකියා කෝටා ප්‍රශ්නයට අධිකරණ නියෝගයක්
+
+*2024-07-21 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199054) · `si`
+
+රජයේ රැකියාවලින් 30%ක් නිදහස් සටනට උරදුන් යුද විරුවන්ගේ පවුල්වල සාමාජිකයින්ට ලබාදිය යුතු බවට දුන් අධිකරණ නියෝගයක් හේතුවෙන් පසුගිය දින කිහිපය පුරා බංග්ලාදේශයේ පැවතියේ කලහකාරී තත්ත්වයකි.
+
+මේ වනවිට ඉන් විශාල පිරිසක් මියගොස් ඇති බවද ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+බී බී සී පුවත් සේවය වාර්තා කළේ ඉන් 100 දෙනෙක් පමණ මියගොස් ඇති බවයි.
+
+එහි දැක්වෙන්නේ රජයේ රැකියාවලින් 93%ක් සුදුසුකම් මත ලබාදිය යුතු බවයි. යුද විරුවන්ගේ පවුල්වල සාමාජිකයින්ට ලබාදිය යුත්තේ රජයේ රැකියාවලින් 5%ක් පමණක් බව එම නියෝගයෙහි දැක්වෙන බව සඳහන් ය.
+
+අද වන විට දෙවැනි දිනටත් එරට ඇඳිරි නීතිය පනවා ඇති අතර අගනුවර වන ඩකා හි වීථි ජනශූන්‍ය බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/0a5ff975.json)
+
+---
+
+### Special privilege to overseas workers
 
 *2024-07-21 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199053) · `si`
 
-විදේශගත ශ්‍රමිකයන් සිය සේවා කාලය අවසන්කර නැවත මෙරටට පැමිණි පසු ඔවුන්ට අභිමානයෙන් ජීවත්විය හැකි පරිසරයක් ගොඩනඟා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+At the "Migama" program launch, President Ranil Wickremesinghe announced plans for migrant workers to contribute to Sri Lanka's economy post-retirement. He praised their role in generating foreign exchange and expressed gratitude towards them. The initiative aims to assess their impact on the economy, particularly in the North Western Province.
 
-පසුගිය ආර්ථික අර්බුදය හමුවේ රටට විදේශ විනිමය උපයා දෙමින් ඔවුන් ලබාදුන් දායකත්වයට ස්තූතිය පිරිනැමූ ජනාධිපතිවරයා රටේ ආර්ථිකය ඉදිරියට ගෙන යාමට එය මහත් ශක්තියත් වූ බවද ප්‍රකාශ කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ අද (21) පෙරවරුවේ කුරුණෑගල සත්‍යවාදී පිටියේදී පැවැත්වුණු “විගමනික හරසර” වැඩසටහනේ සමාරම්භක අවස්ථාවට එක් වෙමිනි.
+President Ranil Wickremesinghe said that once the workers expires of their service, they would build a living environment after returning to Sri Lanka.
 
-විගමනික ශ්‍රමිකයන් ශ්‍රි ලංකා ආර්ථිකයට ලබාදෙන දායකත්වය ඇගයිම සඳහා දීප ව්‍යාප්තව සංවිධානය කර ඇති “විගමනික හරසර” වැඩසටහන මෙලෙස වයඹ පළාතින් ආරම්භ කෙරුණු අතර කුරුණෑගල, පුත්තලම අනුරාධපුරය, මාතලේ හා කෑගල්ල දිස්ත්‍රික්කවල විගමනික ශ්‍රමිකයෝ 5,000ක් පමණ ඊට එක්ව සිටියහ.
+The President also thanked the country's economy to the country's economy, who gave them foreign exchange to the country.
 
-...
+President Ranil Wickremesinghe was speaking at the inauguration of the "Migama" program at the Independent Ground of Kurunegala this morning.
+
+Migrant workers have been established in the North Western Province, which has been organized to evaluate the contribution to the Sri Lanka economy.
+
+The President also offered Rs.
+
+◼️
 
 [Data](articles/4cb90e82.json)
+
+[Extended Data](ext_articles/4cb90e82.ext.json)
 
 ---
 
@@ -1684,6 +1728,8 @@ He is not too young to know what happened in Sri Lanka at that time. I wondered 
 
 [Data](articles/c8468f6e.json)
 
+[Extended Data](ext_articles/c8468f6e.ext.json)
+
 ---
 
 ### How Tikiri ducked a match-making attempt
@@ -2253,61 +2299,5 @@ Meanwhile, Fernando pointed out that a new temporary coach has been appointed fo
 [Data](articles/66b0797b.json)
 
 [Extended Data](ext_articles/66b0797b.ext.json)
-
----
-
-### Tamil candidate in the presidential election;Monday signs
-
-*2024-07-20 18:14:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-தமிழ்-வேட்பாளர்-திங்கட்கிழமை-கைச்சாத்து/175-340717) · `ta`
-
-A common Tamil candidate for the upcoming presidential election is set to be agreed upon and announced on Monday, following discussions in Jaffna among Tamil national parties and the community. This move comes after years of campaigning by civil society and political groups advocating for a united Tamil voice in elections. The agreement will also address other issues crucial to the Tamil community, marking a significant step forward in their collective political strategy.
-
-🟩
-
-An agreement to field a common candidate from the Tamil party in the presidential election is due to be signed on Monday.
-
-It is reported that the agreement is to be signed in Jaffna between the Tamil community and the Tamil national political parties.
-
-The Tamil parties and the civil society have made various allegations that the Tamil people have voted for the Tamil people in the presidential elections in the past.
-
-Thus, the Tamil people have been carrying out a long -term campaign by the civil society and the political parties to field a common candidate from the Tamil party.
-
-In this context, various organizations and various parties have supported the next phase of a contract between the political parties and the civil society.
-
-It is reported that the next step is to take place on all other issues, including the selection of the common candidate, following the signing of the agreement with various issues between the two sides.. Remble
-
-◼️
-
-[Data](articles/350465f4.json)
-
-[Extended Data](ext_articles/350465f4.ext.json)
-
----
-
-### Tamil candidate in the presidential election;Monday sign
-
-*2024-07-20 18:14:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-தமிழ்-வேட்பாளர்-திங்கள்-கைச்சாத்து/175-340717) · `ta`
-
-A Tamil unity pact for the presidential election is set to be inked on Monday in Jaffna, aiming to nominate a joint candidate. This move follows years of accusations that Tamils vote along ethnic lines, leading to a concerted effort by civil society and political parties to break this pattern. The agreement will also address other issues crucial to the Tamil community.
-
-🟩
-
-An agreement to field a common candidate from the Tamil party in the presidential election is due to be signed on Monday.
-
-It is reported that the agreement is to be signed in Jaffna between the Tamil community and the Tamil national political parties.
-
-The Tamil parties and the civil society have made various allegations that the Tamil people have voted for the Tamil people in the presidential elections in the past.
-
-Thus, the Tamil people have been carrying out a long -term campaign by the civil society and the political parties to field a common candidate from the Tamil party.
-
-In this context, various organizations and various parties have supported the next phase of a contract between the political parties and the civil society.
-
-It is reported that the next step is to take place on all other issues, including the selection of the common candidate, following the signing of the agreement with various issues between the two sides.. Remble
-
-◼️
-
-[Data](articles/d3e12406.json)
-
-[Extended Data](ext_articles/d3e12406.ext.json)
 
 ---

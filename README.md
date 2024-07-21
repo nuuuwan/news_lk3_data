@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 23:20:11**
+As of **2024-07-21 23:35:53**
 
 ## Newspaper Stats
 
-*Scraped **36,441** Articles*
+*Scraped **36,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,217
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,708
-adaderanasinhalalk | 6,117
+adaderanasinhalalk | 6,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,441 (100.0%) of 36,441 articles have been extended.
+36,441 (100.0%) of 36,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### LPL ශූරතාවය යාපනය ට
+
+*2024-07-21 23:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199065) · `si`
+
+5 වැනි ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ශූරතාවය දිනා ගැනීමට ජැෆ්නා කිංග්ස් කණ්ඩායම සමත්විය.
+
+තරගයේ කාසියේ වාසිය චරිත් අසලංක දිනාගත් අතර පළමුව පන්දුවට පහරදීමට ඔහු ගෝල් කණ්ඩායම ට ආරාධනා කළේය.
+
+ඒ අනුව ගෝල් කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 184ක් රැස්කළේය.
+
+ලකුණු 185ක ඉලක්කයක් හඹා යෑම ඇරඹූ ජැෆ්නා කණ්ඩායමේ පළමු කඩුල්ල පළමු පන්දුවට ම දැවී ගියේය.
+
+නමුත් අනතුරුව පිටියේ එක්වූ කුසල් මෙන්ඩිස් සහ රයිලි රූසෝ ජැෆ්නා කණ්ඩායම ජයග්‍රහණය සඳහා ගෙන ගියහ.
+
+◼️
+
+[Data](articles/459e2a22.json)
+
+---
 
 ### Israel shoots down missile fired from Yemen after striking Houthis
 
@@ -2283,29 +2303,5 @@ Wednesday 24th July 12:00 am From 9.30 am to 10:00 am to 10:00 am(AI technology)
 [Data](articles/5390566b.json)
 
 [Extended Data](ext_articles/5390566b.ext.json)
-
----
-
-### President to make local government nomination
-
-*2024-07-21 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199038) · `si`
-
-President Ranil Wickremesinghe addresses concerns over candidate cancellations for Local Government Elections, stating elections cannot be delayed beyond a year. He emphasizes the importance of national unity and economic growth, highlighting the need for a clear vision akin to successful nations like Singapore and Japan. Wickremesinghe discusses the challenges of unemployment and poverty, pledging action through economic programs and women's empowerment initiatives. He supports MP Sumanthiran's resolution for provincial council reforms and encourages the JVP's reconciliation efforts, expressing confidence in their success.
-
-🟩
-
-President Ranil Wickremesinghe says that attention has been paid to the cancellation of candidates who are contesting for the Local Government Elections.
-
-The President also said that the election cannot be held after a year in nomination after a year.
-
-However, President Ranil Wickremesinghe added that the decision to discuss with the Attorney General at the future.
-
-The President said that if the country was finished in order to build the economy, the country was not able to prevent tragedy today.
-
-...
-
-[Data](articles/eed9b795.json)
-
-[Extended Data](ext_articles/eed9b795.ext.json)
 
 ---

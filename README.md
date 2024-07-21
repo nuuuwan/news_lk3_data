@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 14:35:39**
+As of **2024-07-21 14:54:27**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,376 (100.0%) of 36,383 articles have been extended.
+36,383 (100.0%) of 36,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### பாரம்பரிய வீட்டில் தீ விபத்து
+### Traditional house fire
 
 *2024-07-21 14:17:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரம்பரிய-வீட்டில்-தீ-விபத்து/175-340759) · `ta`
 
-வரலாற்றுச் சிறப்புமிக்க ஸ்ரீ கதிர்காமம் ஆலய வளாகத்தில் தலைவர் கபு வசிக்கும் பாரம்பரிய வீட்டின் மேல் தளத்தில் ஏற்பட்ட தீயினால் மாடிப்பகுதி  முற்றாக எரிந்து நாசமாகியுள்ளதாக கண்டி தலைமையக பொலிஸார் தெரிவிக்கின்றனர்.
+A fire devastated the top floor of a historic, over 150-year-old house in Kandy, destroying its staircase. The blaze, which originated from the residence of the Kadir Kadirgamam Temple's leader, has caused significant damage. Emergency responders including the Kandy Municipal Fire Unit and police are investigating the cause.
 
-தீ விபத்தினால் 150 ஆண்டுகளுக்கும் மேலான பழமையான வீடு பாரிய சேதத்திற்கு உள்ளாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-கண்டி மாநகர தீயணைப்பு பிரிவினர், பொலிஸார் மற்றும் மக்கள் இணைந்து தீ கட்டுக்குள் கொண்டு வந்துள்ளதோடு சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கண்டி தலைமையக பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The Kandy headquarters police say that the staircase has been completely destroyed due to a fire that broke out on the top floor of the traditional house where the leader of the Kadir Kadirgamam Temple, the leader of the Kadirgamam temple complex.
+
+More than 150 years old home has been reported to have been damaged by the fire.
+
+The Kandy Municipal Fire Unit, the police and the people have been brought under fire and further investigations into the incident are being carried out by the Kandy Headquarters.
 
 ◼️
 
 [Data](articles/6f5a4951.json)
+
+[Extended Data](ext_articles/6f5a4951.ext.json)
 
 ---
 
@@ -66,43 +72,57 @@ Police said that the arrested individuals had been engaging in drug trafficking 
 
 [Data](articles/0828662d.json)
 
+[Extended Data](ext_articles/0828662d.ext.json)
+
 ---
 
-### 22 ගැන ඇත්ත කතාව ඇමති සුසිල් කියයි
+### The truth about the 22 Minister Susil says
 
 *2024-07-21 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199051) · `si`
 
-22වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන යෝජනාව එළැඹෙන පාර්ලිමේන්තු සැසිවාරයේ න්‍යායපත්‍රයට ඇතුළත් කර නොමැති බව සභානායක අමාත්‍ය සුසිල් ප්‍රේමජයන්ත් මහතා පවසයි.
+The 22nd Constitutional Amendment proposal won't impact the upcoming presidential election, as confirmed by Minister Susil. This decision was made without considering the election timeline, ensuring neutrality.
 
-සභානායකවරයා අවධාරණය කර සිටියේ, 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන යෝජනාවෙන් ජනාධිපතිවරණයට බලපෑමක් නොවන බවය.
+🟩
 
-සභානායකවරයා - ලබන සුමානේ න්‍යාය පත්‍රය මම ඊයේ හැදුවා, ඉතින් ඒකේ නැහැනේ
+The 22nd Constitutional Amendment proposal has not been included in the agenda of the Parliament Session.
 
-ප්‍රශ්නය - ඒ කියන්නේ මැතිවරණයක් ප්‍රකාශයට පත්කළාට පස්සේ වත් එන එකක් නැද්ද?
+He was emphasized that the 22nd constitutional amendment proposal will not affect the presidential election.
 
-සභානායකවරයා - එහෙම ආවා කියලා දින වකවානු ගත්තොත් ඒකේ තියෙන්නේ සැකහැර දැනගැනීමක් පමණයි. ඉන් එහා මැතිවරණයට බලපෑමක් වෙන්නේ නැහැ. ඒක විවිධ කණ්ඩායම් සහ හරියට කියවපු නැති අය කරන ප්‍රකාශයක් විතරයි.
+Leader of the House - Negombo The Agenda I was built yesterday, so it's not
+
+Q: That is not after the election of an election?
+
+Leader of the House. There will be no influence on the election. It's just a statement that do not read different teams and not reading.
 
 ◼️
 
 [Data](articles/70c399a4.json)
 
+[Extended Data](ext_articles/70c399a4.ext.json)
+
 ---
 
-### 32 பற்களுடன் பிறந்த குழந்தை (காணொளி)
+### Born with 32 teeth (video)
 
 *2024-07-21 14:05:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/32-பற்களுடன்-பிறந்த-குழந்தை-காணொளி/50-340758) · `ta`
 
-பொதுவாக குழந்தைகள் பிறக்கும் போது பல் இருக்காது. குழந்தை வளரும் போது பற்களும் வளர ஆரம்பிக்கும். சராசரியாக ஒரு நபருக்கு 32 பற்கள் வெளிவர 21 வருடங்கள் ஆகும். பற்களின் வளர்ச்சியில் பல்வேறு காரணங்கள் முக்கிய பங்கு வகிக்கின்றன.
+A rare case in Texas saw a newborn girl born with all 32 teeth, a condition known as natal teeth. This phenomenon, where babies are born with teeth, is quite unusual, with most children developing their teeth over time. The mother shared a video of her daughter's full set of teeth to raise awareness about this rare occurrence.
 
-இந்நிலையில், அமெரிக்காவின் டெக்சாஸ் மாகாணத்தை சேர்ந்த பெண் ஒருவருக்கு குழந்தை பிறக்கும் போதே முழுமையாக 32 பற்களுடன் பிறந்துள்ளது. இந்த புகைப்படம் மற்றும் வீடியோ இணையத்தில் வைரலாகி வருகிறது. அதில் ஒரு பெண், தனது பெண் குழந்தையின் 32 பற்கள் கொண்ட வீடியோவை பகிர்ந்துள்ளார்.        View this post on Instagram            A post shared by Nika Diwa (@nika.diwa)
+🟩
 
-அரிய நோய் பாதிப்பு காரணமாக பிறக்கும் போதே 32 பற்கள் இருந்ததாகவும், விழிப்புணர்வு ஏற்படுத்தவே வீடியோவை பகிர்ந்ததாகவும் குழந்தையின் தாய் தெரிவித்துள்ளார்.
+Usually does not have tooth when children are born. When the baby grows, the teeth begin to grow. It takes 21 years to reveal 32 teeth per person on average. Various reasons play an important role in the development of teeth.
 
-பிறக்கும் போதே இவ்வாறு பற்களுடன் பிறக்கும் குழந்தைகளின் பிரச்சினையை நேட்டல் டீத் என்று சொல்வார்கள். நீண்ட காலமாக இந்த நேட்டல் பற்கள் பிரச்சனையுடன் பிறந்த குழந்தைகளுக்கு 4 முன் பற்கள், தாடையில் 4 முதல் 6 பற்கள் மற்றும் பலவற்றின் எடுத்துக்காட்டுகள் உள்ளன.
+In this case, a woman from the US state of Texas has been born with 32 teeth when the baby is born. This photo and video are going viral on the internet. In it, a woman shares a video of her 32 teeth of her girl. VV This Post One Instagram A Post Short Short
+
+The mother's mother said that there were 32 teeth at the birth of a rare disease and shared the video to raise awareness.
+
+The problem of babies born with teeth at birth is called Natal Death. There are examples of 4 front teeth, 4 to 6 teeth, and more for newborn children who are born with these nomadic teeth for a long time.
 
 ◼️
 
 [Data](articles/db401392.json)
+
+[Extended Data](ext_articles/db401392.ext.json)
 
 ---
 
@@ -230,27 +250,39 @@ Speaking to the media, the public minister said that the electoral election woul
 
 ---
 
-### நிபந்தனையின்றி முட்டுக்கொடுக்க அவதிப்படும் முஸ்லிம் கட்சிகள்
+### Muslim parties that suffer unconditionally
 
 *2024-07-21 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/188995) · `ta`
 
-முஸ்லிம்களுக்கான அரசியலில் இந்த போக்கை காண முடியாதுள்ளது. முஸ்லிம் காங்கிரஸ், மக்கள் காங்கிரஸ், தேசிய காங்கிரஸ் மற்றும் இதர முஸ்லிம் கட்சிகளும் அணிகளும் அடுத்த தேர்தலை எதிர்கொள்வது பற்றி தமக்கிடையே உரையாடல்களை நடத்தவில்லை. குறைந்தபட்சம், ஒவ்வொரு முஸ்லிம் கட்சியும் அணியும் தங்களது உறுப்பினர்களிடையே தமது வாக்காளர்களிடையே கூட கலந்துரையாடல்களை மேற்கொள்ளவில்லை.
+Muslim political parties lack internal dialogue, hindering unity and effective policy-making.
+
+🟩
+
+This course is not found in the politics of Muslims. Muslim Congress, People's Congress, National Congress and other Muslim parties and teams do not hold conversations between themselves. At least, every Muslim party did not have discussions among their members even among their members.
 
 ◼️
 
 [Data](articles/8ba56bf1.json)
 
+[Extended Data](ext_articles/8ba56bf1.ext.json)
+
 ---
 
-### ஒரு துப்பாக்கிச் சூட்டு சம்பவமும் சதிமுயற்சி கோட்பாடுகளும்
+### A shooting incident and conspiracy theories
 
 *2024-07-21 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188993) · `ta`
 
-மக்களால் தெரிவு செய்யப்பட்ட அரசாங்கத்தைத் தாண்டி அதிகாரத்தைப் பிரயோகிப்பதாக இருப்பதால் நிழல் அரசாங்கம் ஜனநாயகத்திற்கு முரணானதாக பார்க்கப்படுகிறது. அமெரிக்காவைப் பொறுத்தவரையில், ஜனாதிபதிமார் படுகொலை செய்யப்படுவதும், அவர்கள் மீது படுகொலை முயற்சிகள் கட்டவிழ்த்து விடப்படுவதும் புதிது அல்ல. கேள்விக்கு சரியான விடை கிடைக்காத சகல சந்தர்ப்பங்களிலும் சதிக் கோட்பாடுகள் என்ற பெயரில் கதைகள் கூறப்படும். சதிக் கோட்பாட்டுக் கதைகளை அரசியல் ஆயுதங்களாகவும் பாவிக்கலாம் என்பது அமெரிக்க வரலாற்றில் இருந்து நாம் கற்றுக்கொள்ள முடிந்த பாடம்.
+Conspiracy theories often arise when official explanations lack clarity, especially regarding incidents like shootings. They suggest a "shadow government" operates outside democratic norms, using power secretly. This concept isn't new in U.S. history; it's been linked to events such as presidential assassinations. These theories serve as political tools, highlighting the potential misuse of conspiracy narratives.
+
+🟩
+
+The shadow government is seen as contrary to democracy because of the exercise of power beyond the selected government. As far as the United States is concerned, the assassination of the president and the unleashing of assassinations on them is not new. In all cases where there is no proper answer to the question, stories are told in the name of conspiracy. The lesson we can learn from American history is that conspiracy can be used as political weapons.
 
 ◼️
 
 [Data](articles/9288f53c.json)
+
+[Extended Data](ext_articles/9288f53c.ext.json)
 
 ---
 
@@ -1537,6 +1569,8 @@ I  refrained for a long time  from writing about the impact of Black July on our
 ...
 
 [Data](articles/e547085f.json)
+
+[Extended Data](ext_articles/e547085f.ext.json)
 
 ---
 

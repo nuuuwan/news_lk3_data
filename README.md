@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 10:35:28**
+As of **2024-07-21 10:54:15**
 
 ## Newspaper Stats
 
-*Scraped **36,335** Articles*
+*Scraped **36,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,073
 economynextcom | 2,169
 dailyftlk | 2,314
 adalk | 3,274
-adaderanalk | 4,200
+adaderanalk | 4,201
 tamilmirrorlk | 4,424
 dailymirrorlk | 4,733
 virakesarilk | 5,679
@@ -26,25 +26,43 @@ adaderanasinhalalk | 6,094
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,332 (100.0%) of 36,335 articles have been extended.
+36,335 (100.0%) of 36,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### අසංක අබේගුණසේකර අත්අඩංගුවට
+### 21-year-old female arrested over ‘Club Wasantha’ murder
+
+*2024-07-21 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100659/-21-year-old-female-arrested-over-club-wasantha-murder) · `en`
+
+Police have arrested a 21-year-old female on suspicion of being linked to the killing of ‘Club Wasantha’ at Athurugiriya recently.
+
+◼️
+
+[Data](articles/a3baa97b.json)
+
+---
+
+### Asanka Abeygalasara arrested
 
 *2024-07-21 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199041) · `si`
 
-ජාතික ආරක්ෂක අධ්‍යයන ආයතනයේ හිටපු අධ්‍යක්ෂ අසංක අබේගුණසේකර මහතාව අත්අඩංගුවට ගෙන තිබේ.
+Asanka Abeygalasara, former Director of National Security Studies, was arrested at Katunayake International Airport under an open warrant from the Department of Inland Revenue.
 
-ඔහු අද (21) පෙරවරුවේ කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගත් බව පොලීසිය පැවසීය.
+🟩
 
-දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් පවරා ඇති නඩුවක් සම්බන්ධයෙන් මොහුට එරෙහිව විවෘත වරෙන්තුවක් නිකුත් කර තිබුණි.
+Former Director of the National Security Studies of Defense Studies has been arrested.
+
+He was arrested at the Katunayake International Airport this morning (21) at the Katunayake International Airport.
+
+An open warrant was issued against him on a case filed by the Department of Inland Revenue.
 
 ◼️
 
 [Data](articles/315426fa.json)
+
+[Extended Data](ext_articles/315426fa.ext.json)
 
 ---
 
@@ -60,27 +78,35 @@ Abeygunasekara, against whom there was a pending open warrant over a case filed 
 
 [Data](articles/7ae6308d.json)
 
+[Extended Data](ext_articles/7ae6308d.ext.json)
+
 ---
 
-### වෙඩි ප්‍රහාරයෙන් මියගිය ට්‍රම්ප් ආධාරකරු වෙනුවෙන් අනුස්මරණ උත්සවයක්
+### Memorial ceremony for the deceased who died of the shooting
 
 *2024-07-21 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199040) · `si`
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඉලක්ක කර එල්ලකළ වෙඩි ප්‍රහාරයෙන් මියගිය ට්‍රම්ප් ආධාරකරු වෙනුවෙන් පැවති අනුස්මරණ උත්සවයක් පිළිබඳව විදෙස් මාධ්‍ය වාර්තා කරයි.
+A memorial ceremony was held for a Trump supporter killed in a shooting incident, organized with motorcycles and featuring a delegation from the shooting event where the victim tried to protect Trump's family. The ceremony highlighted the tragic loss of a 50-year-old former US military soldier, underscoring the community's grief and resilience.
 
-ගිනි නිවීමේ රථ සහ යතුරුපැදි යොදා ගනිමින් එම අනුස්මරණ උත්සවය සංවිධාන කර තිබුණි.
+🟩
 
-අමෙරිකාවේ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඝාතන තැතකින් දිවි ගලවා ගත්තේ පසුගිය සතියේදී ය.
+Foreign media reports on a commemorative ceremony for the deceased to the deceased who died of the former American President Donald Trump.
 
-ඔහු වෙනුවෙන් පැවති අනුස්මරණ උත්සවයක් පිළිබඳව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The memorial ceremony was organized using firebiting and motorbikes.
 
-හිටපු ජනපති ට්‍රම්ප් ඉලක්ක කරමින් එල්ලවූ වෙඩි ප්‍රහාරයෙන් ඔහුගේ ආධාරකරු මියගියේ ඔහු වෙඩි ප්‍රහාරයෙන් සිය පවුලේ සාමාජිකයින් ආරක්ෂා කිරීමට උත්සාහ කිරීමත් සමගය.
+The former US President Donald Trump survived the last week.
 
-පනස් හැවිරිදි ට්‍රම්ප් ආධාරකරුවා අමෙරිකානු හමුදා සෙබළෙක් ලෙසද කටයුතු කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+Foreign media reports on a memorial ceremony for him.
+
+His supportive was the delegation of the shooting targeting former President Trump with the shooting he was trying to protect his family members.
+
+Fifty-year-old Trump supporter has also served as a US military soldier.
 
 ◼️
 
 [Data](articles/1f09b546.json)
+
+[Extended Data](ext_articles/1f09b546.ext.json)
 
 ---
 
@@ -2343,25 +2369,5 @@ Rival armed groups took control of the capital, Port-au-Prince, earlier this yea
 [Data](articles/d6bbeb36.json)
 
 [Extended Data](ext_articles/d6bbeb36.ext.json)
-
----
-
-### Increase in HIV/AIDS cases among youth in Sri Lanka
-
-*2024-07-20 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100639/increase-in-hivaids-cases-among-youth-in-sri-lanka) · `en`
-
-The National STD/AIDS Control Programme (NSACP) has reported that 40 children were diagnosed with HIV/AIDS within last year.
-
-STD specialist Dr. Vino Dharmakulasinghe, has stated that the number of adults reported to have contracted HIV/AIDS is 3,169.
-
-The number of people living with HIV increased from 607 in 2022 to 694 in 2023, marking a 14 percent rise. Of these 694 patients, 613 are males.
-
-Dr. Dharmakulasinghe also highlighted an increase in the spread of AIDS among the age group of 15 to 24.
-
-◼️
-
-[Data](articles/106e63c4.json)
-
-[Extended Data](ext_articles/106e63c4.ext.json)
 
 ---

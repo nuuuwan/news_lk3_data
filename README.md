@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 19:35:28**
+As of **2024-07-21 19:53:39**
 
 ## Newspaper Stats
 
-*Scraped **36,426** Articles*
+*Scraped **36,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,71 @@ adaderanalk | 4,214
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,704
-adaderanasinhalalk | 6,113
+adaderanasinhalalk | 6,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,423 (100.0%) of 36,426 articles have been extended.
+36,426 (100.0%) of 36,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### පොහොට්ටුවේ මැති ඇමතිවරු 26ක් කඩවත ජනපතිගේ ජයගමු රැළියට එක්වෙති
+### කාසියේ වාසිය ජැෆ්නා කිංග්ස් කණ්ඩායම ට
+
+*2024-07-21 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199062) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ අවසන් මහා තරගය අද (21) කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+
+කාසියේ වාසිය දිනූ ජැෆ්නා කිංග්ස් කණ්ඩාය තීරණය කළේ පළමුවෙන් පන්දු රැකීමටය.
+
+◼️
+
+[Data](articles/9fede03f.json)
+
+---
+
+### ශ්‍රී ලංකාවට එමින් තිබු නෞකාවක විශාල ගින්නක්
+
+*2024-07-21 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199061) · `si`
+
+කොළඹ වරාය බලා පැමිණෙමින් තිබූ භාණ්ඩ ප්‍රවාහන නෞකාවක හටගත් ගින්නේ පැතිරයාම මේ වනවිට පාලනය කර ඇති බව ඉන්දීය වෙරළාරක්ෂක බළකාය පවසයි.
+
+ගෝආ වෙරළ තීරයට නාවික සැතපුම් 102ක් පමණ දුරින් වූ මුහුදු ප්‍රදේශයේ යාත්‍රා කරමින් තිබියදී පසුගිය 19 වනදා අදාළ නෞකාවේ ගින්නක් හටගෙන තිබුණි.
+
+අනතුරුදායක රසායනික ද්‍රව්‍ය ඇතුළු කන්ටේනර් 1,154ක් රැගත් නෞකාවේ හටගත් ගින්නෙන් එහි කාර්යය මණ්ඩල සාමාජිකයෙකු මියගොස් ඇති අතර සෙසු පිරිස් ආරක්ෂිතව මුදාගැනීමට ඉන්දීය නාවික හමුදාව කටයුතු කළේය.
+
+ගින්න මැඩ පැවැත්වීම සඳහා ඉන්දීය නාවික හමුදාවේ නෞකා 4ක් මෙන්ම හෙලිකොප්ටර් යානා ද යොදවා ඇති බව ඉන්දීය වෙරළාරක්ෂක බළකාය පවසයි.
+
+ගින්න පැතිරීම මේ වනවිට පාලනය කර ඇති අතර සාමාන්‍යයෙන් මෙවැනි නෞකාවක ගින්නක් සම්පූර්ණයෙන් පාලනය කිරීමට දින 3ත් 4ත් අතර කාලයක් ගත වන බව සඳහන් වේ.
+
+නෞකාවේ අනතුරුදායක ද්‍රව්‍ය ගබඩා කර ඇති කොටසට ගින්නෙන් හානි සිදුවුවහොත් දැවැන්ත ව්‍යසනයක් ඇති විය හැකි බවත් ඕනෑම පාරිසරික හානියකට ප්‍රතිචාර දැක්වීම සඳහා සූදානමින් පසුවන ලෙසත් ඉන්දීය වෙරළාරක්ෂක බළකාය අදාළ අංශ වෙත දැනුම්දීමක් සිදුකර ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+...
+
+[Data](articles/df0a2b64.json)
+
+---
+
+### President joins 26 ministers and MPs in Pohoth
 
 *2024-07-21 19:04:41* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මැති-ඇමතිවරු-26ක්-කඩවත-ජනපතිගේ-ජයගමු-රැළියට-එක්වෙති/11-410896) · `si`
 
-ඉදිරි ජනාධිපතිවරණයට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් විය යුතු බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක්විය යුතු බවට   කඩවත බස් නැවතුම්පොළ අසළදී අද (21) පස්වරුවේ පැවති “එක්ව ජය ගමු – අපි ගම්පහ” ජන රැළියේදී අමාත්‍ය ප්‍රසන්න රණතුංග මහතා කළ යෝජනාව ගම්පහ දිස්ත්‍රික් ජනතාව ඒකමතිකව සම්මත කළ බව ජනපති මාධ්‍ය අංශය ප්‍රකාශ කරයි.
+President Ranil Wickremesinghe met with over 250 local government delegates and 26 ministers in Pohottuwa, preparing for the upcoming presidential election in Kadawatha.
 
-එසේම මෙම රැළිය සඳහා පොහොට්ටුවේ මැති ඇමතිවරු 26ක් සමඟ ගම්පහ පළාත් පාලන නියෝජිතයන් 250කට වැඩි පිරිසක් ජනපතිගේ සහායට එක් වූ බවද ජනපති මාධය අංශය පවසයි.
+🟩
+
+President Ranil Wickremesinghe should join President Ranil Wickremesinghe to be presented to the next presidential election in KadawathaPresident states the media unit.
+
+More than 250 local government delegates, along with 26 local government representatives, joined the President with 26 ministers in Povett.
 
 ◼️
 
 [Data](articles/b8efb465.json)
+
+[Extended Data](ext_articles/b8efb465.ext.json)
 
 ---
 
@@ -66,25 +108,31 @@ The former INSS Director General was arrested this morning at the Bandaranaike I
 
 ---
 
-### මහනුවර අධිකරණයේ බෝම්බ බිය ඇති කළ සැකකරු යළිත් රිමාන්ඩ්
+### Suspect remanded again
 
 *2024-07-21 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199060) · `si`
 
-මහනුවර අධිකරණ සංකීර්ණය තුළ බෝම්බයක් ඇති බවට පොලිස් හදිසි ඇමතුම් අංශයට දුරකථන ඇමතුමක් ලබාදීමේ සිද්ධියේ ප්‍රධාන සැකකරුව අගෝස්තු මස 02 වනදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+The main suspect in the Police Emergency Complex case has been remanded until August 02. The suspect stole a friend's SIM card and made a call using it. Despite having no direct link to the phone's registered owner, the investigation led to the arrest and remand of both the caller and the phone's owner.
 
-සිය නඩුවක් කල් දමා ගැනීමේ අරමුණින්, පසුගිය 02 වනදා සැකකරු මිතුරෙකු ගේ ජංගම දුරකථන අංකයක් උපයෝගි කර ගනිමින් මෙම ව්‍යාජ තොරතුර පොලීසියට ලබාදී තිබුණි.
+🟩
 
-ගිනිගත්හේන ප්‍රදේශයේ පදිංචි සැකකරු, මිතුරෙකු ගේ සිම්කාඩ් පත සොරාගෙන තම ජංගම දුරකථනයට එය දමා අදාළ ඇමතුම ලබා ගෙන ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය විය.
+The main suspect in the Police Emergency Complex has been remanded until August 02.
 
-දුරකථන අංකයේ ලියාපදිංචි හිමිකරු අත්අඩංගුවට ගෙන ප්‍රශ්න කිරීමේ දී ඔහු ඊට ඍජු සම්බන්ධයක් නොමැති බව හෙළිවී තිබුණි.
+The suspect had been given a friend's mobile phone number on the 2nd, with the objective of making a suitability.
 
-ඒ අනුව, ඇමතුම ලබා ගැනීමට උපයෝගි කරගත් දුරකථනයේ එමි අංකය ඔස්සේ එහි හිමිකරුව තහවුරු කර ගැනීමට පොලීසිය කටයුතු කර තිබේ.
+The suspect in the Ginigathena has been revealed to his mobile, stolen a friend's Simcoad and has taken the call.
 
-සිද්ධිය සම්බන්ධයෙන් ඇමතුම ලබාදුන් පුද්ගලයා සහ දුරකථන සිම්පතේ හිමිකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන  අධිකරණයට ඉදිරිපත් කිරීමෙන්ප පසු රක්ෂිත බන්ධනාගාර ගත කරනු ලැබීය.
+It was revealed that he had no direct link to the registered owner of the telephone number and interrogation.
+
+Accordingly, the owner of the phone has been established on the phone's number on the phone, used to obtain the call.
+
+The owner of the person who was calling on the incident and the owner of the telephone symptoms were arrested and remanded after submitting to the court.
 
 ◼️
 
 [Data](articles/c4169cd6.json)
+
+[Extended Data](ext_articles/c4169cd6.ext.json)
 
 ---
 
@@ -482,21 +530,33 @@ There are also doubts about whether President Ranil is using a young minister wi
 
 ---
 
-### විගමනික ශ්‍රමිකයන්ට ස්වයං රැකියා ඇරඹීමට රු. 50 000ක්
+### Migrant workers to start self-employment. 50 000
 
 *2024-07-21 16:57:32* · [`adalk`](https://www.ada.lk/breaking_news/විගමනික-ශ්‍රමිකයන්ට-ස්වයං-රැකියා-ඇරඹීමට-රු--50-000ක්/11-410889) · `si`
 
-විදේශගත ශ්‍රමිකයන් සිය සේවා කාලය අවසන් කර නැවත රටට පැමිණි පසු ඔවුන්ට අභිමානයෙන් ජීවත්විය හැකි පරිසරයක් ගොඩනඟා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced the completion of migrant worker repatriation and praised their contributions during the economic crisis. He inaugurated the "Migama" program aimed at supporting self-employment among returning workers, emphasizing the importance of their remittances to the economy. The President highlighted the need for policy support to protect migrant workers' rights and encouraged them to utilize opportunities for a new life upon return. He also discussed the challenges faced by the economy and the importance of increasing foreign exchange reserves, advocating for formal training for foreign employment and promoting an export economy.
 
-පසුගිය ආර්ථික අර්බුදය හමුවේ රටට විදේශ විනිමය උපයා දෙමින් ඔවුන් ලබා දුන් දායකත්වයට ස්තූතිය පිරිනැමූ ජනාධිපතිවරයා රටේ ආර්ථිකය ඉදිරියට ගෙන යාමට එය මහත් ශක්තියත් වූ බවද ප්‍රකාශ කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (21) පෙරවරුවේ කුරුණෑගල සත්‍යවාදී පිටියේදී පැවැත්වුණු “විගමනික හරසර” වැඩසටහනේ සමාරම්භක අවස්ථාවට එක් වෙමිනි.
+President Ranil Wickremesinghe said that after the expulsions of migrant workers will be completed and returned to the country.
 
-විගමනික ශ්‍රමිකයන් ශ්‍රි ලංකා ආර්ථිකයට ලබා දෙන දායකත්වය ඇඟයිම සඳහා දීප ව්‍යාප්තව සංවිධානය කර ඇති “විගමනික හරසර” වැඩසටහන මෙලෙස වයඹ පළාතින් ආරම්භ කෙරුණු අතර කුරුණෑගල, පුත්තලම අනුරාධපුරය, මාතලේ හා කෑගල්ල දිස්ත්‍රික්කවල විගමනික ක්‍රමයකින් 5000ක් පමණ ඊට එක්ව සිටියහ.
+The President also thanked the country's economy to the country's economy, who gave the country's contribution to the last economic crisis.
+
+President Ranil Wickremesinghe was speaking at the inauguration of the "Migama" program at the Independent Ground of Kurunegala this morning.
+
+Migrant workers have been established in the North Western Province, which was organized by the All-wide range of "wide-island-wide" to the Sri Lankan economy.
+
+The President also offered Rs.
+
+The President did not forget to ensure the necessary policies to ensure the procurement of the migrant and society and ensure the necessary policies, to ensure the rights of migrant workers.
+
+Addressing the House, President Ranil Wickremesinghe further added:
 
 ...
 
 [Data](articles/b1989618.json)
+
+[Extended Data](ext_articles/b1989618.ext.json)
 
 ---
 
@@ -2257,51 +2317,5 @@ He pointed out that the presidential election would not be affected by the econo
 [Data](articles/b114bf9e.json)
 
 [Extended Data](ext_articles/b114bf9e.ext.json)
-
----
-
-### If the election is held, the fate will be worse
-
-*2024-07-21 06:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-நடத்தியிருந்தால்-தலைவிதி-மோசமாகியிருக்கும்/175-340735) · `ta`
-
-In a meeting of ex-local government leaders, President Ranil Wickremesinghe highlighted that prioritizing other issues over the election could have been necessary due to the country's current situation.
-
-🟩
-
-President Ranil Wickremesinghe said that the country would have been forced today and had to give priority to various issues more than the election.
-
-The President was speaking at a meeting of former Local Government Leaders at the Monark Imperial Hotel yesterday.
-
-The meeting was organized on the request of President Ranil Wickremesinghe from the country's local councilors across the country.. (A)
-
-◼️
-
-[Data](articles/fc17e1fa.json)
-
-[Extended Data](ext_articles/fc17e1fa.ext.json)
-
----
-
-### Weather today
-
-*2024-07-21 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199033) · `si`
-
-Showers forecasted for Western, Sabaragamuwa provinces and Galle, Matara districts. Rainy weather expected elsewhere, with strong winds (50-55km/h) in central hills' west-borne areas and in North, North-central, and North Western provinces. Wind speeds around 30-40km/h in the rest of the island.
-
-🟩
-
-The Meteorological Department says that showers will be in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
-
-The department states that a rainy weather is mainly expected in other parts of the island.
-
-At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. Strong winds are about 50-55.
-
-From time to time in the rest of the island.. The Department of Meteorology announces that there are about 30-40 times.
-
-◼️
-
-[Data](articles/6b9f1f50.json)
-
-[Extended Data](ext_articles/6b9f1f50.ext.json)
 
 ---

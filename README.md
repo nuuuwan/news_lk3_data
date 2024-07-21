@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 13:05:25**
+As of **2024-07-21 13:20:21**
 
 ## Newspaper Stats
 
-*Scraped **36,368** Articles*
+*Scraped **36,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,277
-adaderanalk | 4,206
+adaderanalk | 4,207
 tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
 virakesarilk | 5,688
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,099
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,367 (100.0%) of 36,368 articles have been extended.
+36,368 (100.0%) of 36,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### IMF delegation to arrive in Sri Lanka next week to review economic progress
+
+*2024-07-21 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100665/imf-delegation-to-arrive-in-sri-lanka-next-week-to-review-economic-progress-) · `en`
+
+State Minister of Finance Shehan Semasinghe stated that a delegation of the International Monetary Fund (IMF) will arrive in Sri Lanka next week to review the country’s economic progress.
+
+Speaking to the Media, the State Minister emphasized that following the completion of second review to release the third tranche of the IMF bailout package, the country must prepare for the third review.
+
+However, he said that the discussions to be held with the IMF delegation next week is not related to the third review, but to focus on the country’s economic progress and future actions to be taken to strengthen the economy.
+
+Semasinghe further stated: “Our expectation is to maintain the current stability and economic growth rate of 5.1% in the first quarter of this year throughout the year. Most forecasts expect 2% growth in the economy this year. But we expect it to be maintained between 3% and 3.5% this year.”
+
+...
+
+[Data](articles/5855239a.json)
+
+---
 
 ### Govt. eyes import of eggs again?
 
@@ -322,21 +340,31 @@ A curfew ordered late on Friday has been extended to 3 p.m. (0900 GMT) on Sunday
 
 ---
 
-### හිටපු අමාත්‍ය ඔසි අබේගුණසේකරගේ පුතා අල්ලයි
+### Former Minister Ozzy Abeygunasekera's son arrested
 
 *2024-07-21 11:20:29* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍ය-ඔසි-අබේගුණසේකරගේ-පුතා-අල්ලයි/11-410887) · `si`
 
-දේශීය ආදායම් දෙපාර්තමේන්තුව මගින් පනවා තිබූ නඩු කටයුත්තකට අදාළව කොළඹ මහේස්ත්‍රාත් අධිකරණය මගින් පනවා තිබූ ගුවන් ගමන් තහනමක් යටතේ ශ්‍රී ලංකාවට 07/21 දින අලුයම පැමිණෙමින් සිටි අසංක අබේගුණසේකර නැමැති පුද්ගලයා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ ආගමන විගමන නිලධාරීන් විසින් අත් අඩංගුවට ගෙන කටුනායක ගුවන් තොටුපොළ පොලිසිය වෙත භාර දී තිබේ .
+Ozzy Abeygunasekera's son, a former Defense Ministry official, was arrested by Immigration and Emigration Officers upon his return to Sri Lanka from Qatar. The arrest came after a flight ban issued by the Department of Inland Revenue. He was later taken to the Katunayake airport police station before being transferred to the Colombo Magistrate Court.
 
-ගෝනවල , කොහොල් විල පාරේ පදිංචි  අසංක අබේගුණසේකර මහතා  හිටපු ආරක්ෂක අමාත්‍යාංශයේ අධ්‍යක්ෂ ජනරාල්වරයෙකු වන අතර හිටපු අමාත්‍ය ඔසී අබේගුණසේකර මහතාගේ පුත්‍රයෙකු බව ද සදහන් වේ .
+🟩
 
-දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් කොළඹ මහේස්ත්‍රාත් අධිකරණයේ පනවා ඇති 81491/22 දරන නඩු කටයුත්තට අදාළව මෙම ගුවන් ගමන් තහනම පනවා තිබූ බව කටුනායක ගුවන් තොටුපොළ පොලිසියේ ප්‍රකාශකවරයෙකු පැවසීය .
+Immigration of Immigration and Emigration Officers arrested by the Colombo Magistrate's Court on a flight ban on the flights issued by the Department of Inland Revenue.Have been given.
 
-07/21 දින අලුයම 03.19 ට දෝහා සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 658 දරන ගුවන් යානයෙන් මොහු කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙමින් සිටියදී ආගමන විගමන නිලධාරීන් විසින් මුළින්ම අත් අඩංගුවට ගෙන තිබේ .
+He is said to be a Director General of former Defense Ministry, a resident of the Gunawala, Koholka Lake Road.
 
-...
+A ban was imposed by the Department of Inland Revenue
+
+From Doha at 03:19 pm Dhoha, Qatar, Qatar, quarters from Doha, was arrested by the Immigration and Emigration Officers while he was coming to the Katunayake airport.
+
+Later, Abeyankarasekara had taken Abeygunasekara at Katunayake airport police officers to the immigration ceremony at around 5 am2 days.
+
+A group of lawyers have arrived at the Katunayake airport police, the OIC Chief Inspector of the Katunayake Airport Police said that he will be handed over to the Colombo Magistrate Court.
+
+◼️
 
 [Data](articles/62bff2cc.json)
+
+[Extended Data](ext_articles/62bff2cc.ext.json)
 
 ---
 
@@ -2335,29 +2363,5 @@ Following the trial of the two men, the Jaffna Magistrate's Court has ordered th
 [Data](articles/6400ade5.json)
 
 [Extended Data](ext_articles/6400ade5.ext.json)
-
----
-
-### With baby husband: Mother with love
-
-*2024-07-20 14:09:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/குழந்தை-கணவனுடன்-தாய்-காதலுடன்/71-340713) · `ta`
-
-A mother, accused alongside her boyfriend of abandoning her toddler, was arrested and sentenced to 14 days in custody after a court hearing in Jaffna.
-
-🟩
-
-The court has ordered the abandonment of her two -and -a -half -year -old woman and left the city with a fake boyfriend.
-
-A family woman who lived with her husband and her child in the area of ​​the Jaffna police station had left the city a few days ago.
-
-A complaint was lodged at the Jaffna Police Station by husband. According to the complaint, the police arrested the woman and her boyfriend, the young man.
-
-Following the trial of the two men, the Jaffna Magistrate's Court has ordered the detainees to be detained for 14 days following a court hearing.R
-
-◼️
-
-[Data](articles/fa18079d.json)
-
-[Extended Data](ext_articles/fa18079d.ext.json)
 
 ---

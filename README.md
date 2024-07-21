@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 22:20:18**
+As of **2024-07-21 22:35:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,438 (100.0%) of 36,440 articles have been extended.
+36,440 (100.0%) of 36,440 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ The Houthi movement, known formally as Ansar Allah, said on Sunday it would cont
 
 [Data](articles/3caf7011.json)
 
+[Extended Data](ext_articles/3caf7011.ext.json)
+
 ---
 
-### රටේ න්‍යාය පත්‍රය අනුව දේශපාලනය සකස් විය යුතුයි - ජනපති
+### Politics should be prepared as per the agenda of the country - President
 
 *2024-07-21 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199064) · `si`
 
-රටේ අනාගතය දේශපාලන න්‍යාය පත්‍ර අනුව සකස් කිරීමට තමා කිසිම ඉඩක් නොතබන බවත්, රටේ න්‍යාය පත්‍රය අනුව දේශපාලනය සකස් විය යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  අවධාරණය කරයි.
+President Ranil Wickremesinghe stresses the importance of aligning politics with national goals rather than personal agendas. He invites opposition leaders Sajith Premadasa and Anura Kumara Dissanayake to collaborate, emphasizing the need for unity and progress. He outlines ambitious plans for economic growth and digitalization in education, vowing not to allow political maneuvering to derail the country's future.
 
-එම ගමනට එක්වන ලෙස තමා සජිත් ප්‍රේමදාස මහතාට සහ අනුර කුමාර දිසානායක මහතාට ආරාධනා කරන බවද ජනාධිපතිවරයා පැවසීය.
+🟩
 
-ඔහු මේ බව පැවසුවේ කඩවත බස් නැවතුම්පොළ අසලදී අද (21) පස්වරුවේ පැවති “එක්ව ජය ගමු – අපි ගම්පහ” ජන රැලිය අමතමිනි.
+President Ranil Wickremesinghe emphasizes that he should not be allowed to adjust the future of the country by political agenda.
 
-"තරුණයන්ට හොඳ අනාගතයක් ගොඩනඟා දීම වෙනුවෙන් අපි මෙම විප්ලවය ගෙන යනවා. මෙය ඔබ වෙනුවෙන් ගෙන යන විප්ලවයක් බව කිවයුතුයි. එය ඉදිරියට ගෙන යා යුතුයි. අපි ඒ වෙනුවෙන් ආර්ථික පරිවර්තන නීතිය පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙනවා. තව වසර 20කින් අපේ දළ දේශීය නිෂ්පාදන පස් ගුණයකින් වැඩි කර ගැනීමට සැලසුම් කර තිබෙනවා. දැනටමත් අධ්‍යාපනයේ පුළුල් නවීකරණයක් ක්‍රියාත්මක කර තිබෙනවා. වෘත්තීය අධ්‍යාපන ප්‍රතිසංස්කරණය කරන අතරම විශ්වවිද්‍යාල ඇති කර රටම ඩිජිටල්කරණයට ලක් කරනවා.
+He said he would invite Sajith Premadasa and Anura Kumara Dissanayake to join the journey.
+
+He was speaking at Kadawatha today afternoon, "we win the Gampaha" mass rally.
+
+"We carry this revolution to build a good future for young people. It is to be a revolution that is taking this for you. It should be carried forward. We have presented economic translation law to Parliament. In another 20 years, our Gross Domestic Products are to be increased five times. An extensive modern has already been implemented in education. The country will digitize universities and digs universities.
 
 ...
 
 [Data](articles/13d72862.json)
+
+[Extended Data](ext_articles/13d72862.ext.json)
 
 ---
 

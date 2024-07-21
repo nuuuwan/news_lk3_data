@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 01:54:43**
+As of **2024-07-22 02:06:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,453 (100.0%) of 36,458 articles have been extended.
+36,458 (100.0%) of 36,458 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The plaintiff’s position, as set out in its plaint, is that they are importers
 
 [Data](articles/c1cb91e5.json)
 
+[Extended Data](ext_articles/c1cb91e5.ext.json)
+
 ---
 
 ### Scope Cinemas Brings IMAX®️ to Sri Lanka Sparking Cinematic Revolution
@@ -57,6 +59,8 @@ Accordingly, the IMAX®️ Theatre at Scope Cinemas Multiplex – Havelock City 
 ...
 
 [Data](articles/676fe161.json)
+
+[Extended Data](ext_articles/676fe161.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ It said over 250 Gampaha local Government representatives, along with 26 SLPP Mi
 
 [Data](articles/cc78c28a.json)
 
+[Extended Data](ext_articles/cc78c28a.ext.json)
+
 ---
 
 ### SJB to unveil program to rebuild SL next week
@@ -100,6 +106,8 @@ Samagi Jana Balawegaya (SJB) MP S.M. Marikkar emphasised the critical need for a
 
 [Data](articles/9f57fb07.json)
 
+[Extended Data](ext_articles/9f57fb07.ext.json)
+
 ---
 
 ### Semasinghe says SL’s debt repayment higher than borrowing in 1H
@@ -119,6 +127,8 @@ He highlighted that, prior to the economic crisis, the Central Bank had the abil
 ...
 
 [Data](articles/c52272ef.json)
+
+[Extended Data](ext_articles/c52272ef.ext.json)
 
 ---
 

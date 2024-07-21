@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 14:05:41**
+As of **2024-07-21 14:20:09**
 
 ## Newspaper Stats
 
-*Scraped **36,373** Articles*
+*Scraped **36,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,62 +17,110 @@ economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,278
 adaderanalk | 4,207
-tamilmirrorlk | 4,429
+tamilmirrorlk | 4,431
 dailymirrorlk | 4,733
 virakesarilk | 5,688
-adaderanasinhalalk | 6,102
+adaderanasinhalalk | 6,103
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,370 (100.0%) of 36,373 articles have been extended.
+36,373 (100.0%) of 36,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### ලබන සතියේ රෑට අහසේ ලොකු වෙනසක්
+### LPL ෆයිනල් බලන්න එනවා නම් මේ ගැනත් දැනුම්වත් වන්න
+
+*2024-07-21 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199050) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ අවසන් මහා තරගය අද (21) කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+
+මේ අතර සංවිධායකින් පවසන්නේ නරඹන්නන් සඳහා ක්‍රීඩා පිටියේ ගේට්ටු සවස 5.30ට විවෘත කරන බවයි.
+
+මාළිගාවත්ත, පන්සල් මාවත වසා දැමෙන අතර ක්‍රීඩාංගණයට පැමිණෙන වාහන දොස්තර බබාපුල්ලේ මාවත භාවිත කළ යුතුය.
+
+නරඹන්නන්ට සිය වාහන ඇපල් වත්ත සහ ශ්‍රී සුදර්මාරාම මාවත යන ප්‍රදේශවල නවතා තැබිය හැකිය.
+
+මෙම තරගයේ පළමු ඉනිම නිමාවූ පසු ඩ්‍රෝන යානා 500ක පමණ සහභාගීත්වයෙන් විශේෂ සංදර්ශනයක් පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/e0ebc722.json)
+
+---
+
+### கஞ்சிபானின் சகாக்கள் மூவர் கைது
+
+*2024-07-21 13:53:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானின்-சகாக்கள்-மூவர்-கைது/175-340756) · `ta`
+
+ஒழுங்கமைக்கப்பட்ட குற்றவாளியும் போதைப்பொருள் கடத்தல்காரரும் வெளிநாட்டில் இருந்து போதைப்பொருள் கடத்தலுக்கு தலைமை தாங்கிய பெண் ஒருவரையும் இரண்டு பேரையும் பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகள் கைது செய்துள்ளனர். இவர்கள், பாதாள உலகக் கோஷ்டியைச் சேர்ந்த  கஞ்சிபானி இம்ரானின் சகாக்கள் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+ராகம, வெலிசர மற்றும் வெல்லம்பிட்டிய பிரதேசங்களில் வசிக்கும் 24 மற்றும் 28 வயதுடைய பெண்ணொருவரும் இருவருமே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+வெளிநாட்டில் உள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளியும் போதைப்பொருள் கடத்தல்காரனுமான கஞ்சிபானி இம்ரானினால் கடத்தப்படும் போதைப்பொருள் கடத்தலை  .செல்வகுமார் ரஞ்சித் என்பவர் இந்த நாட்டில் வழிநடத்தி வந்துள்ளார் என்பது தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/8e3f51ba.json)
+
+---
+
+### A big change in the sky next week
 
 *2024-07-21 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199049) · `si`
 
-සෙනසුරු, චන්ද්‍රයාගෙන් මුවාවීමේ සංසිද්ධිය ජූලි 24 වනදා ශ්‍රී ලාංකිකයන්ට දර්ශනය වනු ඇති බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
+Next week, a unique astronomical event will occur where the moon will be visible near Saturn early on July 24th, as seen from Sri Lanka. This phenomenon, best viewed through a telescope, occurs when one celestial body obstructs the view of another due to their relative positions. It's a rare sight expected to repeat in 2037, according to the Arthur C Clarke Center.
 
-මෙය දුර්ලභ තාරකා විද්‍යාත්මක සිදුවීමක් බවත් ජූලි 24 මධ්‍යම රාත්‍රියෙන් පසුව ජූලි 25 වනදා පෙරවරු 00.40ට පමණ සඳ දෙස බැලීමෙන් එම සංසිද්ධිය පියවි ඇසින් නිරීක්ෂණය කළ හැකි බව එම මධ්‍යස්ථානය සඳහන් කරයි
+🟩
 
-එම සංසිද්ධිය දුරේක්ෂයක් හෝ දුරදක්නයක් ආධාරයෙන් වඩාත් හොඳින් නිරීක්ෂණය කිරීමට හැකිවෙයි.
+The Arthur C Clark Center says that Saturday and mond will appear to Sri Lankans on July 24.
 
-එක් ආකාශ වස්තුවක් තවත් ආකාශ වස්තුවක් ඉදිරියෙන් ගමන් කිරීම නිසා එහි දර්ශනය අවහිර වීමෙන් මෙවන් සංසිද්ධියක් සිදුවේ.
+This is a rare astronomical event that the moon can be observed at around July 24 am, the center that the phenomenon could be observed at around July 24 am.
 
-චන්ද්‍රයා, සෙනසුරු ග්‍රහලෝකය ඉදිරියෙන් ගමන් කරන විට එය පෘථිවියට නොපෙනී ගොස්, ආසන්න වශයෙන් පැය එකයි මිනිත්තු විස්සක් පමණ චන්ද්‍රයාගෙන් වැසී පවතියි.
+The phenomenon is best observed with a telescope or aid of a wide.
 
-නැවත වරක් මෙවැනි සංසිද්ධිය ශ්‍රී ලංකාවාසීන්ට දර්ශනය වන්නේ 2037 අප්‍රේල් 24 වනදා බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
+One celestial object is blocked by blooming its vision because of another celestial object.
 
-ශ්‍රී ලංකා විවිධ ප්‍රදේශවලට එම සිදුවීම දර්ශනය වන වේලාවන් සුළු වශයෙන් වෙනස් වන අතර එම වේලාවන් පහතින් දැක්වෙයි.
+When the Moon is heading the front of the planet, it goes on to the Earth and is close to the Earth, approximately twenty-hour moon.
+
+Again again, such a phenomenon is appeared to Sri Lanka on the 24th of 2037, "says Arthur C. Clark Center.
+
+Time will be different from the various parts of Sri Lanka and the times are below.
 
 ◼️
 
 [Data](articles/405c050e.json)
 
+[Extended Data](ext_articles/405c050e.ext.json)
+
 ---
 
-### KPI ගේ ගෝලයින් දෙදෙනෙක්ව කොටුකර ගනියි
+### KPI's disciples are copied with two
 
 *2024-07-21 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199048) · `si`
 
-සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන කන්ජිපානි ඉම්රාන් නැමැත්තාගේ මෙරට මත්ද්‍රව්‍ය ජාලය මෙහෙයවන පුද්ගලයින් දෙදෙනකු අත්අඩංගුවට ගෙන තිබේ.
+In a raid in Ragama, two individuals linked to drug dealer Kankiphani Imran were arrested. Over 10 grams of heroin were found on them, indicating involvement in drug trafficking under Imran's guidance as part of a larger network.
 
-පොලිස් විශේෂ කාර්ය බළකාය, රාගම ප්‍රදේශයේදී සිදුකළ වැටලීමකදී මෙම සැකකරුවන්ව අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔවුන් සතුව තිබී හෙරොයින් ග්‍රෑම් 10කට අධික ප්‍රමාණයක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10කට අධික ප්‍රමාණයක් සොයාගෙන  තිබුණි.
+Two persons have been arrested by an organized criminal and a drug dealer Kankiphani Imran.
 
-අත්අඩංගුවට ගත් සැකකරුවන්  28 සහ  26 හැවිරිදි පුද්ගලයින් බව අනාවරණය වී ඇත.
+The suspects were arrested during a raid carried out in the Ragama area in the Ragama area.
 
-මොවුන් සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන කන්ජිපානි ඉම්රාන් නැමැත්තාගේ මෙරට මත්ද්‍රව්‍ය ජාලය මෙහෙයවන සෙල්වකුමාර් රංජිත් නැමැත්තාගේ මෙහෙයවීමෙන් මත්ද්‍රව්‍ය ජාවාරමේ යෙදී ඇති බවට තොරතුරු අනාවරණය වී ඇති බව සඳහන්ය.
+At the time of his arrest, more than 10 grams of heroin were found in their possession and 10 g drugs.
+
+It is revealed that the arrested suspects and 26-year-old persons.
+
+It is said that it is revealed that it is revealed that the drug was conducting drug trafficking from the guidance of the country's drug network of an organized criminal and drug dealer Kanjiphani Imran.
 
 ◼️
 
 [Data](articles/bfda02c3.json)
+
+[Extended Data](ext_articles/bfda02c3.ext.json)
 
 ---
 
@@ -646,6 +694,22 @@ Bogawantalawa Police Station Superintendent Sukat says the arrested persons will
 
 ---
 
+### மாணிக்க கற்கள் அகழ்வில் ஈடுபட்ட 11 பேர் கைது
+
+*2024-07-21 10:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணிக்க-கற்கள்-அகழ்வில்-ஈடுபட்ட-11-பேர்-கைது/76-340743) · `ta`
+
+சட்ட விரோதமாக பொகவந்தலாவ பகுதியில் ராணி காடு தோட்ட  மற்றும்  காசல்ரீ நீர் தேக்கத்திற்க்கு நீர் வழங்கும் மாஎலிய வனப் பகுதியில் மாணிக்க கற்கள் அகழ்வில் ஈடுபட்டு வந்த 11 பேர் கைது செய்யப்பட்டுள்ளதோடு உபகரணங்களும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+இச் சம்பவம் ஞாயிற்றுக்கிழமை (21) காலை பொகவந்தலாவ பொலிஸார் மற்றும் அதிரடி படையினர் இணைந்து மேற்கொண்ட சுற்றி வளைப்பின் போது கைது இடம்பெற்றுள்ளது.
+
+கைது செய்யப்பட்டவர்கள் ஹட்டன் நீதிமன்றத்தில் ஆஜர் படுத்தப்படவுள்ளதாக பொகவந்தலாவ பொலிஸ் நிலைய பொறுப்பதிகாரி சுகத் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/cb76124a.json)
+
+---
+
 ### 21-year-old female arrested over ‘Club Wasantha’ murder
 
 *2024-07-21 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100659/-21-year-old-female-arrested-over-club-wasantha-murder) · `en`
@@ -920,21 +984,27 @@ Recently appointed President To Lam was appointed to oversee the work of the Gen
 
 ---
 
-### වරාය පිවිසුම් අධිවේගය ඔක්තෝබරයේදී ජනතා අයිතියට
+### Port Access Express vested with the public in October
 
 *2024-07-21 08:43:28* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-පිවිසුම්-අධිවේගය-ඔක්තෝබරයේදී-ජනතා-අයිතියට/11-410883) · `si`
 
-වරාය පිවිසුම් අධිවේගී මාර්ග ව්‍යාපෘතියට භාවිතා කළ නව තාක්‍ෂණික අත්දැකීම් විඳ ගැනීමට මහජනතාවට අවස්ථාවක් සැලසීමට කටයුතු සලසා ඇති බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කරයි.
+The Port Access Expressway, opening to the public in October, offers a new technical experience, enhancing connectivity across Sri Lanka. Initiated by the Ministry of Transport and Highways, it aims to ease container transport from the Colombo port and improve national accessibility. This project, involving Chinese civil engineers, marks the introduction of novel technology in Sri Lanka, creating numerous local job opportunities despite economic challenges posed by COVID-19 and the economic crisis.
 
-අමත්‍යවරයා මේ බව ප්‍රකාශ කළේ ඉදිවෙමින් පවතින වරාය පිවිසුම් අධිවේගී මාර්ගය නිරීක්ෂණ චාරිකාවට එක්වෙමිනි.
+🟩
 
-ඒ අනුව, වරාය ව්‍යාපෘතියේ නව තාක්ෂණය, මුහුණ දුන් අභියෝග සහ ව්‍යාපෘතිය නියම කිරීමට ගත් ක්‍රියාමාර්ග ඇතුළු ව්‍යාපෘතියේ අත්දැකීම මේ රටේ පාසල් සිසුන්, විශ්වවිද්‍යාල ශිෂ්‍යයින්, වෘත්තියවේදීන් හා මහජනතාව දැනුවත් කිරීම සඳහා වූ වැඩමුළුවක් මේ මස 24 වන දිනය පෙරවරු 9.00 සිට පස්වරු 4.00 දක්වා කොළඹ සිනමන් ලේක්සයිඩ් හෝටලයේ දී පැවැත්වීමට සියලු කටයුතු සුදානම් ක‍ර තිබේ.
+Minister of Transport and Highways Dr. Bandula Gunawardena says that arrangements have been made to enjoy the new technical experience for the public to experience the new technical experience in the Port Access Expressway.
 
-2019 වර්ෂයේ සැප්තැම්බර් මස 27 වන දින ආරම්භ කරන ලද මෙම වරාය පිවිසුම් අධිවේගී මාර්ගය දිග කිලෝමීටර් 5.3 ක් වන අතර එක් පසෙකට මං තීරු දෙකක බැගින් සාදා ඇති අතර මෙම වසරේ ඔක්තෝබර් මස වන විට මහජන අයිතියට පැවරීමට නියමිතව ඇත.
+The Minister made this statement participating at the concessionary tour of the port login expressway.
+
+Cinnamon Lakecide, a workshop for schoolchildren, university students, professionals and publications to educate the project, including the new technology of the port project.All arrangements have been prepared to hold at the hotel.
+
+The port login expressway, which was opened on September 27, 2019, is 5.3 kilometers long, and is to be handed over to the public by October 27 this year.
 
 ...
 
 [Data](articles/0e18e5bd.json)
+
+[Extended Data](ext_articles/0e18e5bd.ext.json)
 
 ---
 
@@ -2259,97 +2329,5 @@ The changes to the Constitution, were made by a team of legal officers of which 
 [Data](articles/b0cdccc6.json)
 
 [Extended Data](ext_articles/b0cdccc6.ext.json)
-
----
-
-### If the train boycotts the rank, he has left the job
-
-*2024-07-20 15:32:22* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-කළොත්-රැකියාව-අතහැර-ගියා-සේ-සලකනවා/11-410876) · `si`
-
-Minister Bandula Gunawardena warned employees against leaving their jobs, stating that continuous absences could lead to dismissal. He discussed the new Hatton Railway Station building and the impact of strikes on railway services. Highlighting the economic crisis, he mentioned issues related to debts and loans, including a loan from the Asian Development Bank for railway development. The minister emphasized the importance of everyone contributing despite challenges and promised to address issues at the Hatton CTB depot.
-
-🟩
-
-Transport and Highways Minister Bandula Gunawardena said that if the employees continued to leave the service, they would be removed from work as they left the work.
-
-Minister Bandula Gunawardena said that the new building was built by the Urban Development Authority of the Hatton Railway Station (20)
-
-Speaking further Minister Bandula Gunawardena said
-
-Later, a gazette was issued to the railway strike and the railway service, not to discuss the railway station.on a.
-
-We all need to respect all of the country and do not want to work.
-
-Train Indigencies have to do something to do with a time, the Railway Department has been able to do so, with the existing economic crisis.
-
-Trains and rail pellets have taken things to the local and foreign borrowings and lending without paying the debt.
-
-At the end, the Asian Development Bank has been given a loan for ten thousand pills, which had stopped from Anuradhapura to Kandy from Anuradhapura to Kandy.
-
-...
-
-[Data](articles/842d4bbd.json)
-
-[Extended Data](ext_articles/842d4bbd.ext.json)
-
----
-
-### Bangladesh warms about 65 protests
-
-*2024-07-20 15:26:51* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශය-උණුසුම්-වෙයි---විරෝධතාවලින්-65ක්-මරුට/11-410875) · `si`
-
-In Bangladesh, over 65 protests led to violence, resulting in 35 deaths and prompting a government-imposed curfew. The unrest was sparked by the government's decision to reduce state job benefits for families of freedom warriors. The Prime Minister's office responded by releasing prisoners and deploying the army to maintain peace, as announced by Government Spokesman Islam Khan. Violence has so far claimed 67 lives, disrupted bus and train services, and closed schools and universities nationwide.
-
-🟩
-
-Due to the riots in the capital of the capital of Dhaka, 35 persons have died due to the deceased to the country.
-
-Violence has promoted several days due to the demands of the government to cut a large number of state jobs to the families of the country's freedom warfare.
-
-The Prime Minister's office declared curfew after hundreds of detainees were released by a Nervandand's prison.
-
-Government spokesman Islam Khan said the army is deployed to recover peace.
-
-"The government has decided to impose curfew and deploying the army," he issued an announcement.
-
-About 67 people have been killed since the influence of violence.
-
-It is reported that buses and train services have also been stopped until the schools and universities throughout the year.
-
-◼️
-
-[Data](articles/eeb245df.json)
-
-[Extended Data](ext_articles/eeb245df.ext.json)
-
----
-
-### It is worried that the president blames me for the confusion in the constitution- the 19th Amendment was prepared in accordance with Sirisena's election promise not to go to the universities- Jayampathi Wickremaratne
-
-*2024-07-20 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/188944) · `ta`
-
-Dr. Jayampathi Wickremaratne expresses concern over confusion regarding the president's term limit, citing the 19th Amendment as aligned with Sirisena's election promise to avoid university visits. He mentions the need for a referendum for constitutional changes, including reducing the presidential and parliamentary terms from six to five years, as outlined in Article 83. Despite discussions and approvals, the bill faced challenges due to the Attorney General's stance, leading to amendments before its presentation to Parliament. Wickremaratne criticizes President Wickremesinghe for blaming him for not reducing the term limits, emphasizing the amendment's intention to avoid a referendum post-Sirisena's pledge.
-
-🟩
-
-Dr. Jayampathi Wickremaratne has expressed concern over the confusion over the president's term.
-
-He said the ceiling of the president and parliament, mentioned in Article 83 of the Constitution, did not deal with the confusion of the universalism.
-
-He has issued a statement saying that I would like to comment on some issues.
-
-Dr. Jayampathi Wickremaratne said that he pledged to abolish the executive presidency in the agreement.
-
-The next day, he signed an agreement with the Jatihaha Helawa Urumaya and promised that the universal resort would not make the necessary constitutional changes.
-
-He said that Maithripalasirisena had stated in his election manifesto that there would be no constitutional change in the essential constitution.
-
-He said that although the president and parliamentary term were proposed to be reduced from six to five years, he said that the referendum was required for a referendum, he said.
-
-...
-
-[Data](articles/db168bab.json)
-
-[Extended Data](ext_articles/db168bab.ext.json)
 
 ---

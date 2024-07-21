@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 15:35:35**
+As of **2024-07-21 15:54:36**
 
 ## Newspaper Stats
 
-*Scraped **36,387** Articles*
+*Scraped **36,389** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 320
+dbsjeyarajcom | 321
 colombotelegraphcom | 339
 bbccomsinhala | 356
 newsfirstlk | 363
@@ -20,17 +20,35 @@ adaderanalk | 4,210
 tamilmirrorlk | 4,433
 dailymirrorlk | 4,733
 virakesarilk | 5,690
-adaderanasinhalalk | 6,105
+adaderanasinhalalk | 6,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,387 (100.0%) of 36,387 articles have been extended.
+36,387 (100.0%) of 36,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### විදේශගතව පැමිණි ශ්‍රමිකයින් ට විශේෂ වරප්‍රසාදයක්
+
+*2024-07-21 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199053) · `si`
+
+විදේශගත ශ්‍රමිකයන් සිය සේවා කාලය අවසන්කර නැවත මෙරටට පැමිණි පසු ඔවුන්ට අභිමානයෙන් ජීවත්විය හැකි පරිසරයක් ගොඩනඟා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+පසුගිය ආර්ථික අර්බුදය හමුවේ රටට විදේශ විනිමය උපයා දෙමින් ඔවුන් ලබාදුන් දායකත්වයට ස්තූතිය පිරිනැමූ ජනාධිපතිවරයා රටේ ආර්ථිකය ඉදිරියට ගෙන යාමට එය මහත් ශක්තියත් වූ බවද ප්‍රකාශ කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ අද (21) පෙරවරුවේ කුරුණෑගල සත්‍යවාදී පිටියේදී පැවැත්වුණු “විගමනික හරසර” වැඩසටහනේ සමාරම්භක අවස්ථාවට එක් වෙමිනි.
+
+විගමනික ශ්‍රමිකයන් ශ්‍රි ලංකා ආර්ථිකයට ලබාදෙන දායකත්වය ඇගයිම සඳහා දීප ව්‍යාප්තව සංවිධානය කර ඇති “විගමනික හරසර” වැඩසටහන මෙලෙස වයඹ පළාතින් ආරම්භ කෙරුණු අතර කුරුණෑගල, පුත්තලම අනුරාධපුරය, මාතලේ හා කෑගල්ල දිස්ත්‍රික්කවල විගමනික ශ්‍රමිකයෝ 5,000ක් පමණ ඊට එක්ව සිටියහ.
+
+...
+
+[Data](articles/4cb90e82.json)
+
+---
 
 ### Bangladesh’s top court scales back ‘discriminatory’ job quota system after deadly protests
 
@@ -1652,6 +1670,22 @@ I  refrained for a long time  from writing about the impact of Black July on our
 
 ---
 
+### Failure to find a political solution is a bigger shame than Black July
+
+*2024-07-21 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84410) · `en`
+
+After the death of veteran Tamil political leader Rajavarothayam Sampanthan recently, a communist leader from Tamil Nadu contacted me and asked about the remarkable role the late leader played in Sri Lankan Tamil politics.
+
+I began by recounting Sampanthan’s contributions to the negotiations that led to the signing of the Indo-Lanka Peace Accord after the 1983 Black July anti-Tamil pogrom. He immediately interrupted and asked me what happened in July 1983. I was very much disappointed that there was a Leftist leader in neighbouring Tamil Nadu who did not know that the brutal ethnic violence against Tamils all over the country led to the civil war that lasted almost three decades.
+
+He is not too young to know what happened in Sri Lanka at that time. I wondered if he had not even considered why Sri Lankan Tamil refugees had been staying in Tamil Nadu camps for more than four decades.
+
+...
+
+[Data](articles/c8468f6e.json)
+
+---
+
 ### How Tikiri ducked a match-making attempt
 
 *2024-07-21 00:51:00* · [`islandlk`](http://island.lk/how-tikiri-ducked-a-match-making-attempt/) · `en`
@@ -2275,49 +2309,5 @@ It is reported that the next step is to take place on all other issues, includin
 [Data](articles/d3e12406.json)
 
 [Extended Data](ext_articles/d3e12406.ext.json)
-
----
-
-### The car was completely burnt and destroyed
-
-*2024-07-20 18:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கார்-ஒன்று-முற்றாக-எரிந்து-நாசமானது/76-340716) · `ta`
-
-A car en route from Panadura to Nuwara Eliya was torched near Ginigathena, halting traffic for an hour. The vehicle was extensively damaged by the fire.
-
-🟩
-
-A car traveling from Panadura to Nuwara Eliya was set on fire this morning in Ginigathena - Diyagala area, police said.
-
-Ginigathena police said that the road traffic on the road was completely stopped for about an hour at 11 am.
-
-The car was completely on fire, but the car was completely on fire. Remble
-
-◼️
-
-[Data](articles/9aeb27f5.json)
-
-[Extended Data](ext_articles/9aeb27f5.ext.json)
-
----
-
-### The car was completely burnt and destroyed
-
-*2024-07-20 18:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்-ஒன்று-முற்றாக-எரிந்து-நாசமானது/175-340716) · `ta`
-
-A car en route from Panadura to Nuwara Eliya was torched near Ginigathena, halting traffic for an hour. The vehicle was extensively damaged by the fire.
-
-🟩
-
-A car traveling from Panadura to Nuwara Eliya was set on fire this morning in Ginigathena - Diyagala area, police said.
-
-Ginigathena police said that the road traffic on the road was completely stopped for about an hour at 11 am.
-
-The car was completely on fire, but the car was completely on fire. Remble
-
-◼️
-
-[Data](articles/ab0f1655.json)
-
-[Extended Data](ext_articles/ab0f1655.ext.json)
 
 ---

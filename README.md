@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 00:20:28**
+As of **2024-07-22 00:35:33**
 
 ## Newspaper Stats
 
-*Scraped **36,449** Articles*
+*Scraped **36,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ bbccomsinhala | 356
 newsfirstlk | 363
 islandlk | 2,075
 economynextcom | 2,173
-dailyftlk | 2,314
+dailyftlk | 2,315
 adalk | 3,289
-adaderanalk | 4,217
+adaderanalk | 4,218
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,713
@@ -26,45 +26,73 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,444 (100.0%) of 36,449 articles have been extended.
+36,449 (100.0%) of 36,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### சிறைச்சாலை தடுத்து வைக்கப்பட்டுள்ளவருக்கு போதைப்பொருள் வழங்க ஆடையில் மறைத்துக் கொண்டு செல்லப்பட்ட பெண் கைது!
+### US President Joe Biden drops out of 2024 presidential race, endorses Kamala Harris
+
+*2024-07-22 00:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100678/us-president-joe-biden-drops-out-of-2024-presidential-race-endorses-kamala-harris) · `en`
+
+President Joe Biden dropped out of the 2024 race for the White House on Sunday, ending his bid for reelection following a disastrous debate with Donald Trump that raised doubts about his fitness for office just four months before the election.
+
+The decision comes after escalating pressure from Biden’s Democratic allies to step aside following the June 27 debate, in which the 81-year-old president trailed off, often gave nonsensical answers and failed to call out the former president’s many falsehoods. Biden endorsed Vice President Kamala Harris to take on Trump, and encouraged his party to united behind her.
+
+Biden plans to serve out the remainder of his term in office, which ends at noon ET on Jan. 20, 2025.
+
+...
+
+[Data](articles/00255bb3.json)
+
+---
+
+### Woman arrested in a prison detainee
 
 *2024-07-22 00:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189040) · `ta`
 
-போதைப்பொருள் தொடர்பான வழக்கு தொடர்பில் பல்லேகல தும்பர போகம்பர சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள நபருக்கு வழங்குவதற்காக பெண்ணொருவரினால் ஆடையில் மறைத்துக் கொண்டு வரப்பட்டுள்ள 2080 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் சிறைச்சாலை பாதுகாப்பு அதிகாரிகளால் கண்டுபிடிக்கப்பட்டுள்ளது.
+A 38-year-old woman from Kengalla, arrested at Pallekela Thumbara Bogambara Prison, was found with 2080mg of heroin. She has a history of drug-related offenses. Handovered to Pallekela police for further investigation.
 
-சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட 38 வயதுடைய பெண் கெங்கல்ல பிரதேசத்தை சேர்ந்தவர் எனவும் இப்பெண் போதைப்பொருள் வைத்திருந்தமை  தொடர்பில்  பல வழக்குகள்  அவர் மீது இருப்பதாக விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-சனிக்கிழமை (20) சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட மேற்படி பெண் மேலதிக விசாரணைகளுக்காகப் பல்லேகல பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+2080 milligrams of heroin has been found by a woman in the Pallekela Thumbara Bogambara Prison in connection with the drug -related case.
+
+Investigations have revealed that the 38 -year -old woman, who was arrested on suspicion, is from Kengalla and that she has several cases regarding the drug.
+
+The woman, who was arrested on Saturday (20), has been handed over to the Pallekela police for further investigations.
 
 ◼️
 
 [Data](articles/c5a0febe.json)
 
+[Extended Data](ext_articles/c5a0febe.ext.json)
+
 ---
 
 ### 2024-07-21 (Sunday)
 
-### ஜெவ்னா கிங்ஸ் நான்காவது தடவையாக சம்பியனானது
+### Jevna Kings became the fourth time champion
 
 *2024-07-21 23:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189039) · `ta`
 
-ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் இறுதிப் போட்டியில் கோல் மார்வல்ஸ் அணியை 9 விக்கெட்களால் மிக இலகுவாக வெற்றிகொண்ட ஜெவ்னா கிங்ஸ் நான்காவது தடவையாக சம்பியன் பட்டத்தை வென்றது.
+Jevna Kings clinched the Champions title for the fourth time in the Fifth Lanka Premier League finale, defeating Colombo. Despite losing one wicket in 15.4 overs, they scored 185 runs, thanks to Riley Roussev's 105 runs off 52 balls and Kusal Mendis' 72 runs.
 
-கொழும்பு ஆர். பிரேமதாச சர்வசேத கிரிக்கெட் நடைபெற்ற இந்த இறுதிப் போட்டியில் முதலில் துடுபெடுத்தாட அழைக்கப்பட்ட கோல் மார்வல்ஸ் 20 ஓவர்களில் 6  விக்கெட்களை இழந்து 184 ஓட்டங்களைப் பெற்றது.
+🟩
 
-பதிலுக்கு துடுப்பெடுத்தாடிய ஜெவ்னா கிங்ஸ் 15.4 ஓவர்களில் ஒரு விக்கெட்டை இழந்து185 ஓட்டங்களைப் பெற்று அமோக வெற்றியீட்டி சம்பியனானது.
+Jevna Kings won the Champions title for the fourth time in the final of the Fifth Lanka Premier League chapter.
 
-ரைலி ரூசோவ் 52 பந்துகளில் ஆட்டம் இழக்காமல் 105 ஓட்டங்களையும் குசல் மெண்டிஸ் ஆட்டம் இழக்காமல் 72 ஓட்டங்களையும் பெற்றனர்.
+Colombo r. In the final of the final match, the first match was held in the final match of the match.
+
+In reply, Jevna Kings lost one wicket in 15.4 overs and scored 185 runs.
+
+Riley Roussev scored 105 runs in 52 balls and Kusal Mendis scored 72 runs.
 
 ◼️
 
 [Data](articles/153efa7d.json)
+
+[Extended Data](ext_articles/153efa7d.ext.json)
 
 ---
 
@@ -90,23 +118,49 @@ The US President has announced his decision through its social media.
 
 ---
 
-### அமெரிக்க ஜனாதிபதி தேர்தல் போட்டியிலிருந்து விலகினார் ஜோ பைடன்
+### Joe Biden quit US presidential election
 
 *2024-07-21 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189038) · `ta`
 
-எனது கட்சியினதும் நாட்டினதும் நலனை கருத்தில் கொண்டு இந்த முடிவை எடுத்துள்ளதாக அவர் அறிவித்துள்ளார்.
+Joe Biden has withdrawn from the US presidential race, citing the well-being of his party and the nation. This decision comes ahead of the upcoming election in four months. The Democratic Party had previously faced challenges during a debate with Donald Trump in June. Despite expressing a desire to run again, Biden chose to step aside for the good of the party and country, committing to serve out his term as president.
 
-வெள்ளை மாளிகைக்கான தேர்தலில் இன்னமும் நான்கு மாதங்களில் அமெரிக்க மக்கள் வாக்களிக்கவுள்ள நிலையில் இந்த அறிவிப்பு வெளியாகியுள்ளது.
+🟩
 
-ஜூன் மாதம் இடம்பெற்ற டொனால்ட் டிரம்புடனான விவாதத்தின்போது ஜோபைடன் தடுமாற்றத்துடன் காணப்பட்டதை தொடர்ந்து அவர் போட்டியிலிருந்து விலகவேண்டும் என ஜனநாயக கட்சியை சேர்ந்தவர்கள் அழுத்தங்களை கொடுத்து வந்தமை குறிப்பிடத்தக்கது.
+He has announced that this decision has been taken in view of the welfare of my party and the country.
 
-தனது வாழ்நாளில் அமெரிக்க ஜனாதிபதியாக பதவிவகித்தமை பெரும் கௌரவத்திற்குரிய விடயம் என சமூக ஊடகங்களில் வெளியிட்டுள்ள கடிதத்தில் ஜோ பைடன் குறிப்பிட்டுள்ளார்.
+The announcement has been made as the American people will vote in the White House in four months.
 
-மீண்டும் தேர்தலில் போட்டியிடுவது எனது நோக்கம் என்றாலும்,கட்சியினதும் நாட்டினதும் நலனை கருத்தில்கொண்டு போட்டியிலிருந்து விலகிநின்று எனது எஞ்சிய காலத்தில் ஜனாதிபதி என்ற கடமையை பூர்த்தி செய்ய தீர்மானித்துள்ளதாக அவர் தெரிவித்துள்ளார்
+It is noteworthy that the Democratic Party has put pressure on Jobitin's stumbling block during a debate with Donald Trump in June.
+
+In a letter posted on social media, Joe Bidan stated that it was a great honor to take over as US president in his lifetime.
+
+Although it is my intention to re -contest the election, he has decided to quit the contest with the interests of the party and the country and decide to fulfill the duty of being president during my remaining period.
 
 ◼️
 
 [Data](articles/f2d74eae.json)
+
+[Extended Data](ext_articles/f2d74eae.ext.json)
+
+---
+
+### The Colombo Plan marks 73 years with a difference
+
+*2024-07-21 23:35:00* · [`dailyftlk`](https://www.ft.lk/opinion/The-Colombo-Plan-marks-73-years-with-a-difference/14-764546) · `en`
+
+When I first learned about this initiative, I was truly appalled to learn that such disrespect and violation of women’s rights is still happening in so many cultures in various parts of the world, causing morbidities and even deaths. I’m talking about the myths and stigma being perpetuated surrounding a purely normal physiological cycle women experience every month—the female menstrual cycle or monthly period. The concerns I want to highlight are not limited to ‘period poverty’
+
+Marks with launch of Training of Trainers (ToT) on Dignified Menstruation (DM)
+
+Secretary-General Dr. Benjamin P. Reyes speaks on challenges and the way forward on dignified menstruation
+
+Expresses shock over disrespect and violation of women’s rights still happening in the world
+
+1 July 2024 marked the 73rd anniversary of The Colombo Plan and was commemorated on 4 July 2024 with great enthusiasm at the Sheraton Hotel, Colombo.
+
+...
+
+[Data](articles/a858539b.json)
 
 ---
 
@@ -182,19 +236,25 @@ He was speaking at Kadawatha today afternoon, "we win the Gampaha" mass rally.
 
 ---
 
-### 19ஆவது திருத்தம் தொடர்பில் நன்றாக அறிந்தவன் நான் மாத்திரமே - மைத்திரிபால சிறிசேன
+### I am the only one who knows the 19th Amendment - Maithripala Sirisena
 
 *2024-07-21 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189037) · `ta`
 
-அரசியலமைப்பின் 19ஆவது திருத்தம் தொடர்பில் தற்போது பரவலாகப் பேசப்பட்டாலும், அது தொடர்பில் நன்றாக அறிந்தவன் நான் மாத்திரமே. அதில் ஜனாதிபதியின் பதவி காலத்தை குறைப்பதற்கு சர்வசன வாக்கெடுப்பு தேவையில்லை. ஆனால் அதனை அதிகரிப்பதாயின் சர்வசன வாக்கெடுப்பு நடத்தப்பட வேண்டியது அத்தியாவசியமானது என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+Maithripala Sirisena highlights his unique knowledge of the 19th Amendment, emphasizing its importance over the 18th Amendment's restoration of presidential powers. He argues against the necessity of a referendum to shorten the president's term, contrasting with his predecessor's stance. Despite agreements to abolish the presidential system and reduce the presidency to five years, these changes were not implemented, leading to discussions on constitutional amendments and the balance of power between the executive and other branches of government.
 
-பொலன்னறுவையில் ஞாயிற்றுக்கிழமை (21) ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-அரசியலமைப்பின் 19ஆவது திருத்தம் தொடர்பில் தற்போது பரவலாகப் பேசப்படுகிறது. 19ஆவது திருத்தம் தொடர்பில் நன்றாக அறிந்தவன் நான் மட்டுமே. நான் பொது வேட்பாளராகக் களமிறங்கிய போது கையெழுத்திட்ட ஒப்பந்தத்தில் ஜனாதிபதி முறைமை முற்றாக ஒழிக்கப்பட வேண்டும் என்று தான் குறிப்பிடப்பட்டுள்ளது. மாறாக ஜனாதிபதி மைத்திரிபால சிறிசேனவின் பதவி காலம் 6 ஆண்டுகளிலிருந்து 5 ஆண்டுகளாகக் குறைக்கப்பட வேண்டும் என்று குறிப்பிடப்படவில்லை.
+Although I am currently widely talked about the 19th Amendment of the Constitution, I am only known to know it. There is no need for a referendum to reduce the president's tenure. Former President Maithripala Sirisena said it was essential to hold a referendum if it increased.
+
+He further stated that he was speaking to the media on Sunday (21) in Polonnaruwa.
+
+The 19th Amendment of the Constitution is now widely talked about. I am the only one who knows well in the 19th Amendment. The contract signed when I was a common candidate was stated that the presidential system should be completely abolished. On the contrary, the tenure of President Maithripala Sirisena has not been reduced from 6 years to 5 years.
 
 ...
 
 [Data](articles/70b21c42.json)
+
+[Extended Data](ext_articles/70b21c42.ext.json)
 
 ---
 
@@ -218,19 +278,25 @@ However, the trade unions led by Ven. Ulapane Sumangala Thero have refused to pa
 
 ---
 
-### இவ்வாரத்துக்குள் வேட்புமனு தாக்கலுக்கான தினத்தை ஆணைக்குழு அறிவிக்குமென எதிர்பார்க்கின்றோம் - எஸ்.எம்.மரிக்கார்
+### We expect the Commission to announce the day of nominations within this week- SM Marikar
 
 *2024-07-21 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189036) · `ta`
 
-ஜனாதிபதித்தேர்தலை காலம் தாழ்த்துவதற்கு அரசாங்கம் பல்வேறு வழிகளிலும் முயற்சிகளை மேற்கொண்ட போதிலும், எவ்வித தடையும் இன்றி அதனை முன்னெடுப்பதற்கு தேர்தல் ஆணைக்குழுவுக்கு அதிகாரம் கிடைத்துள்ளது. இவ்வாரத்துக்குள் வேட்புமனு தாக்கலுக்கான தினத்தை ஆணைக்குழு அறிவிக்கும் என்று எதிர்பார்ப்பதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
+SM Marikar anticipates the Election Commission will reveal nomination dates this week, unimpeded by government delays. Candidates must outline repayment strategies for loans and propose income growth plans, focusing on reducing taxes and stabilizing commodity prices.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் ஞாயிற்றுக்கிழமை (21) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-ஜனாதிபதித்தேர்தலை காலம் தாழ்த்துவதற்கு அரசாங்கம் பல்வேறு வழிகளிலும் முயற்சிகளை மேற்கொண்ட போதிலும், எவ்வித தடையும் இன்றி அதனை முன்னெடுப்பதற்கு தேர்தல் ஆணைக்குழுவுக்கு அதிகாரம் கிடைத்துள்ளது. அதற்கமைய இவ்வாரம் வேட்புமனு தாக்கலுக்கான தினத்தை அறிவிக்கவுள்ளதாக ஆணைக்குழு அறிவித்துள்ளது. தேர்தல் சட்டத்துக்கமைய திங்கள் தவிர்ந்த செவ்வாய் - வெள்ளிக்கிழமை நாட்களில் அதனை அறிவிக்க முடியும்.
+The Election Commission has been given the authority to carry out it without any restrictions, despite the government's efforts in various ways to delay the presidential election.. United People's Power MP SM Marikar said that the Commission expects the Commission to announce the day for nominations within this week.
+
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Sunday (21).
+
+The Election Commission has been given the authority to carry out it without any restrictions, despite the government's efforts in various ways to delay the presidential election.. Accordingly, the Commission has announced that it will announce the date of nominations this week. It can be announced on Tuesday -Fridays, except for the election law.
 
 ...
 
 [Data](articles/04f3b26f.json)
+
+[Extended Data](ext_articles/04f3b26f.ext.json)
 
 ---
 
@@ -2235,43 +2301,5 @@ Police said that a 24 -year -old woman was detained in Colombo 15 on suspicion o
 [Data](articles/c3dd3b87.json)
 
 [Extended Data](ext_articles/c3dd3b87.ext.json)
-
----
-
-### Asanka Abeygalasara arrested
-
-*2024-07-21 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199041) · `si`
-
-Asanka Abeygalasara, former Director of National Security Studies, was arrested at Katunayake International Airport under an open warrant from the Department of Inland Revenue.
-
-🟩
-
-Former Director of the National Security Studies of Defense Studies has been arrested.
-
-He was arrested at the Katunayake International Airport this morning (21) at the Katunayake International Airport.
-
-An open warrant was issued against him on a case filed by the Department of Inland Revenue.
-
-◼️
-
-[Data](articles/315426fa.json)
-
-[Extended Data](ext_articles/315426fa.ext.json)
-
----
-
-### Former INSSSL Director Asanka Abeygunasekara arrested
-
-*2024-07-21 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100658/former-insssl-director-asanka-abeygunasekara-arrested) · `en`
-
-The former Director General of the Institute of National Security Studies of Sri Lanka (INSSSL) Asanka Abeygunasekara has been arrested by police.
-
-Abeygunasekara, against whom there was a pending open warrant over a case filed by the Inland Revenue Department (IRD), was arrested at the Bandaranaike International Airport (BIA) in Katunayake this morning (21), police said.
-
-◼️
-
-[Data](articles/7ae6308d.json)
-
-[Extended Data](ext_articles/7ae6308d.ext.json)
 
 ---

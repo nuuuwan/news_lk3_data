@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 14:54:27**
+As of **2024-07-21 15:05:19**
 
 ## Newspaper Stats
 
-*Scraped **36,383** Articles*
+*Scraped **36,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,278
-adaderanalk | 4,208
+adalk | 3,279
+adaderanalk | 4,209
 tamilmirrorlk | 4,433
 dailymirrorlk | 4,733
 virakesarilk | 5,690
-adaderanasinhalalk | 6,104
+adaderanasinhalalk | 6,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,383 (100.0%) of 36,383 articles have been extended.
+36,383 (100.0%) of 36,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### ක්ලබ් වසන්ත ඝාතනය - අත්අඩංගුවට ගත් තරුණිය ගැන අධිකරණය දුන් නියෝගය
+
+*2024-07-21 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199052) · `si`
+
+ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් 21 හැවිරිදි තරුණිය අද (21) කඩුවෙල වැඩබලන මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කළේය.
+
+එම තරුණියව පැය 48ක් රඳවා ගෙන ප්‍රශ්න කිරීමට පොලීසිය කළ ඉල්ලීමට එහිදී අධිකරණය අවසර ලබාදී තිබුණි.
+
+බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසය විසින් එම සැකකාරිය අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/16b5b374.json)
+
+---
+
+### Detention orders issued against 21-year-old female arrested over ‘Club Wasantha’ murder
+
+*2024-07-21 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100667/detention-orders-issued-against-21-year-old-female-arrested-over-club-wasantha-murder) · `en`
+
+Police have secured detention orders against the 21-year-old female arrested on suspicion of being linked to the killing of ‘Club Wasantha’ at Athurugiriya recently.
+
+Thus, the Kaduwela Magistrate’s Court has issued a 48-hour detention order to interrogate the suspect, after she was produced before the court.
+
+The 21-year-old was arrested by police this morning in connection with the incident.
+
+◼️
+
+[Data](articles/fb3db01a.json)
+
+---
 
 ### Traditional house fire
 
@@ -1059,6 +1091,20 @@ According to the welfare beneficiaries, the Welfare Board of Benefits will be up
 [Data](articles/29c17b3c.json)
 
 [Extended Data](ext_articles/29c17b3c.ext.json)
+
+---
+
+### පාර්ලිමේන්තුව ලබන 23 සිට  26 දක්වා රැස්වෙයි
+
+*2024-07-21 09:30:03* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-ලබන-23-සිට--26-දක්වා-රැස්වෙයි/11-410884) · `si`
+
+රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදය ලබන 25 වැනිදා පැවැත්වී‌මට කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන්පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+මේ අනුව පාර්ලිමේන්තුව ලබන 23 සිට 26 දක්වා රැස්වන අතර ජූලි 23 වැනි අඟහරුවාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා කාලය වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.00 දක්වා සිවිල් නඩුවිධාන සංග්‍රහය (සංශෝධන) (දෙවැනිවර කියවීම) පනත් කෙටුම්පත සහ අධිකරණ සංවිධාන පනත යටතේ නියෝග ද්විත්වයක් විවාදයට ගැනීමට නියමිතය.  අනතුරුව ප.ව 5.00 සිට ප.ව 5.30 දක්වා විපක්ෂය විසින් ගෙනෙනු ලබන සභාව කල්තබන අවස්ථාවේ යෝජනාව විවාදයට ගැනීමට නියමිතය.
+
+...
+
+[Data](articles/5390566b.json)
 
 ---
 
@@ -2261,75 +2307,5 @@ As a result, the police are informed to use alternative routes to reduce possibl
 [Data](articles/f2cde968.json)
 
 [Extended Data](ext_articles/f2cde968.ext.json)
-
----
-
-### Sanath first handed over cricket
-
-*2024-07-20 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199022) · `si`
-
-Sports Minister Harin Fernando suggests that more modest cricketers would reduce media attention. He criticizes modern players for lacking discipline and integrity, comparing them unfavorably to legends like Sanath Jayasuriya. A new coach has been brought in to address this issue, emphasizing the need for players to uphold the sport's values.
-
-🟩
-
-If the cricketers are more modest, the people will not hear so much from the masses, "said Sports Minister Harin Fernando.
-
-He points out that there are some shortcomings of modern players.
-
-"If the group became more modest ... Sri Lanka's people have not exploited the matches if attitudes were changed. People loved the right. Therefore, a new trainer is temporarily involved in Sri Lanka's cricket team. As news, he had made all his hair first .... The earrings of the. All those things have done. I think Sanath Jayasuriya played players like Sanath Jayasuriya, they played good discipline. They kept the origin well well. Modern players now have a little. "
-
-◼️
-
-[Data](articles/bce9c336.json)
-
-[Extended Data](ext_articles/bce9c336.ext.json)
-
----
-
-### Threatened politics should be removed from universities - President
-
-*2024-07-20 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199021) · `si`
-
-President Ranil Wickremesinghe advocates for removing political threats from universities, emphasizing the need for a free learning environment. He calls for the reconstruction of the university system to foster children's freedom and prevent sabotage. Highlighting the importance of science and technology, he inaugurates a new university in Batticaloa, aiming to elevate educational standards akin to global institutions like Harvard, Oxford, and Cambridge.
-
-🟩
-
-President Ranil Wickremesinghe says that the university system should remove threat politics.
-
-Accordingly, the President points out that the university system should be reconstructed to carry out the children freely.
-
-The President pointed out that the time has come to be converted without sabotaging the schools and university system in Sri Lanka.
-
-President Ranil Wickremesinghe made this statement participating at the event of the Science and Technology University of Science and Technology, which was built in Poonani, Batticaloa.
-
-"I first learned Hisbullah in 1985. He has commenced this international university today. The technology and science have been given priority. This university was established to give our children knowledge and technology. "
-
-"The government's goal is to improve science and technology in our country. Technology and science needs our country. That is why this university is important to the country. "
-
-...
-
-[Data](articles/afc22a29.json)
-
-[Extended Data](ext_articles/afc22a29.ext.json)
-
----
-
-### Two Sri Lankan fishing vessels missing with six fishermen onboard
-
-*2024-07-20 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100651/two-sri-lankan-fishing-vessels-missing-with-six-fishermen-onboard) · `en`
-
-The Department of Fisheries and Aquatic Resources says that two fishing vessels carrying a total of six Sri Lankan fishermen have gone missing.
-
-The vessels had departed from the fishing ports of Jaffna and Hambantota on July 7.
-
-Director General of the department Susantha Kahawatta revealed that the multi-day fishing vessel, which left the Point Pedro fishing harbor in Jaffna, had four fishermen on board. Meanwhile, the one-day fishing vessel that departed from Hambantota Fishing Harbour was carrying two fishermen.
-
-No information has been received regarding the whereabouts of the missing fishermen. The Navy, along with other relevant authorities, has been alerted and is conducting a search operation to locate the vessels and their crews, Mr. Kahawatta added.
-
-◼️
-
-[Data](articles/4ca86927.json)
-
-[Extended Data](ext_articles/4ca86927.ext.json)
 
 ---

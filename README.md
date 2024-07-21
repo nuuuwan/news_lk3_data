@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 16:20:25**
+As of **2024-07-21 16:35:30**
 
 ## Newspaper Stats
 
-*Scraped **36,393** Articles*
+*Scraped **36,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 2,074
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,280
-adaderanalk | 4,210
+adaderanalk | 4,212
 tamilmirrorlk | 4,434
 dailymirrorlk | 4,733
 virakesarilk | 5,690
-adaderanasinhalalk | 6,107
+adaderanasinhalalk | 6,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,391 (100.0%) of 36,393 articles have been extended.
+36,393 (100.0%) of 36,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### ද්විත්ව ඝාතනයට වසර 226ක සිර දඬුවමක්
+
+*2024-07-21 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199055) · `si`
+
+ඇලස්කා සම්භවයක් සහිත කාන්තාවන් දෙදෙනකු ඝාතනය සම්බන්ධයෙන් වැරදිකරු වූ පුද්ගලයෙක් ට වසර 226ක සිර දඬුවමක් ලබාදීමට ඇලස්කා අධිකරණයක් නියෝගකර තිබේ.
+
+එම පුද්ගලයා විසින් එක් කාන්තාවකට මියයන තුරුම හිරිහැර කර ඇති අතර ඔහු එම සිද්ධිය වීඩියෝ කිරීමටද පියවර ගෙන තිබුණි.
+
+බ්‍රයන් ස්ටීවන් ස්මිත් නම් එම පුද්ගලයා ට එරෙහිව Kathleen Henry සහ Veronica Abouchuk ඝාතනය කිරීම සම්බන්ධයෙන් වසර 99 බැගින් සිර දඬුවම් නියම කෙරිණි.
+
+අනෙක් වසර 28ක සිර දඬුවම ලබාදී ඇත්තේ එම කාන්තාවන්ව ලිංගික ව අපයෝජනය කිරීම සහ සාක්ෂි වෙනස් කිරීම යන චෝදනා සම්බන්ධයෙනි.
+
+දකුණු අප්‍රිකානු ජාතිකයෙක් වන බ්‍රයන් ස්ටීවන් ස්මිත් පසුව අමෙරිකානු පුරවැසි භාවය ලබාගෙන තිබුණි.
+
+◼️
+
+[Data](articles/f1bfd2af.json)
+
+---
+
+### One lane of Southern Expressway blocked for traffic
+
+*2024-07-21 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100670/one-lane-of-southern-expressway-blocked-for-traffic) · `en`
+
+The lane towards Colombo on the Southern Expressway has temporarily been blocked for traffic due to two cars colliding between Baddegama and Pinnaduwa, injuring 5 persons, the Expressway Police said.
+
+◼️
+
+[Data](articles/1693ddb6.json)
+
+---
+
+### President affirms support for expatriate workers to live with dignity upon return
+
+*2024-07-21 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100669/president-affirms-support-for-expatriate-workers-to-live-with-dignity-upon-return) · `en`
+
+President Ranil Wickremesinghe announced plans to ensure returning migrant workers can live with dignity after completing their service abroad. He thanked these workers for their vital contributions of foreign exchange during the recent economic crisis, acknowledging their crucial role in advancing the country’s economy.
+
+The President made these remarks while addressing the inauguration ceremony of the “Wigamanika Harasara” initiative, held today (21) at the Sathyawadi Ground in Kurunegala. This initiative aims to recognize the impact of migrant workers on the Sri Lankan economy.
+
+To assess the contribution of migrant workers to Sri Lanka’s economy, the “Wigamanika Harasara” program was launched across the country, beginning in the North West Province. Approximately 5,000 migrants from the Kurunegala, Puttalam, Anuradhapura, Matale, and Kegalle districts participated in this initiative.
+
+...
+
+[Data](articles/a263132c.json)
+
+---
 
 ### Club spring murder;Detention guard
 
@@ -1158,21 +1206,27 @@ Dhammika Perera has once again announced that he is ready to contest as the pres
 
 ---
 
-### ගාල්ල හා යාපනය අවසන් තරගය අද
+### Galle and Jaffna final today
 
 *2024-07-21 09:47:51* · [`adalk`](https://www.ada.lk/sports/ගාල්ල-හා-යාපනය-අවසන්-තරගය-අද/9-410885) · `si`
 
-ලංකා ප්‍රිමියර් ලීග ක්‍රිකට් තරගාවලියේ අවසන් මහ තරගය ගාලු කණ්ඩායම හා යාපනය කණ්ඩායම අතර අද රාත්‍රී කොළඹ ආර්. ප්‍රේමදාස පිටියේදී පැවැත්වීමට නියමිතයි.
+In the Ceylon Premier League Cricket Tournament, Galle and Jaffna teams will face off in the finals today at Premadasa Ground. Both teams have won five matches each out of ten. Notably, Jaffna's Army Fernando scored 374 runs, the highest this year, while Shadb Khan took 17 wickets, the tournament's best.
 
-ගාල්ල හා යාපනය කණ්ඩායම් අවසන් වටයේ තරග දෙකද සමගින් තරග 10 බැගින් ක්‍රීඩා කර ඇති අතර කණ්ඩායම් දෙකම තරග 5 බැගින් ජයගෙන තිබේ.
+🟩
 
-මෙවර තරගාවලියේ මේ දක්වා වැඩිම ලකුණු ප්‍රමාණයක් රැස්කළ පිතිිකරුවා ලෙස යාපනය කණ්ඩායමේ අවිශ්ක ප්‍රනාන්දු ලකුණු 374ක් රැස්කරමින් ඉදිරියෙන් පසුවෙයි.
+Batch of Ceylon Premier League Cricket Tournament, River Team and Jaffna Team. Will be held at Premadasa Ground.
 
-වැඩිම කඩුලු ප්‍රමාණයක් දවා ගත් ක්‍රිඩකයා ලෙස කොළඹ කණ්ඩායමේ ෂාඩබ් ඛාන් ඉදිරියෙන් පසුවන්නේ කඩුලු 17ක් දවා ගනිමිනි.
+Galle and Jaffna teams have played 10 matches with the final round of the final and two groups have won five matches.
+
+The Jaffna team's Army Fernando scored 374 runs as the psalmism who scored the highest score in this year.
+
+Shadb Khan, the largest number of wicket was aimed at 17 wickets.
 
 ◼️
 
 [Data](articles/64840157.json)
+
+[Extended Data](ext_articles/64840157.ext.json)
 
 ---
 
@@ -1756,6 +1810,8 @@ The shooter, a 20-year-old registered Republican, described as “a very quiet y
 
 [Data](articles/65066ef1.json)
 
+[Extended Data](ext_articles/65066ef1.ext.json)
+
 ---
 
 ### Failure to find a political solution is a bigger shame than Black July
@@ -2227,81 +2283,5 @@ The election is not canceled. So the nomination does not pay back the cash. Nomi
 [Data](articles/91da5458.json)
 
 [Extended Data](ext_articles/91da5458.ext.json)
-
----
-
-### UN top court says Israeli occupation of Palestinian territories is illegal
-
-*2024-07-20 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100654/un-top-court-says-israeli-occupation-of-palestinian-territories-is-illegal) · `en`
-
-The UN’s top court has said Israel’s occupation of Palestinian territories is against international law, in a landmark opinion.
-
-The International Court of Justice (ICJ) said Israel should stop settlement activity in the occupied West Bank and East Jerusalem and end its “illegal” occupation of those areas and the Gaza Strip as soon as possible.
-
-In response, Israeli Prime Minister Benjamin Netanyahu said the court had made a “decision of lies”.
-
-The court’s advisory opinion is not legally binding but still carries significant political weight. It marks the first time the ICJ has delivered a position on the legality of the 57-year occupation.
-
-The ICJ, based at The Hague in the Netherlands, has been examining the issue since the beginning of last year, at the request of the UN General Assembly.
-
-The court was specifically asked to give its view on Israel’s policies and practices towards the Palestinians, and on the legal status of the occupation.
-
-...
-
-[Data](articles/4af448b7.json)
-
-[Extended Data](ext_articles/4af448b7.ext.json)
-
----
-
-### President appoints 2 years
-
-*2024-07-20 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199026) · `si`
-
-In a parliamentary vote, Ranil Wickremesinghe became Sri Lanka's president, succeeding Gotabhaya Rajapaksa. Wickremesinghe, alongside Dullas Alahapperuma and Anura Kumara Dissanayake, was nominated for the position. The election took place on July 20, 2022, with 223 votes cast; two MPs abstained, and four votes were invalidated. Wickremesinghe won with 134 votes, marking his return to the presidency. He is credited with steering the country through an economic crisis. Despite this, the constitutional term limits the duration of his presidency, and the Election Commission plans to announce the presidential election date soon.
-
-🟩
-
-President Ranil Wickremesinghe was elected the president by the election by the parliamentary voting and the year (20).
-
-Dhammika Dassanayake, who was elected as the Secretary General of Parliament, was elected to July 20, 2022.
-
-With the resignation of former President Gotabhaya Rajapaksa, there was a vacancy for the executive presidency, and chose a successive president.
-
-Ranil Wickrehiasinghe, Dullas Alahapperuma and Anura Kumara Divisions were presented to elect a successive president.
-
-The election began in parliament at 10 am and 223 members of the Speaker Mahinda Yapa Abeywardena voted.
-
-Two MPs refrained from election and four votes were rejected.
-
-According to the 219 votes, Ranil Wickremesinghe was elected as the Superinteer Association with 134 votes.
-
-Ranil Wickremesinghe has taken the presidency from that day and is considered a leader who has saved the country from the economic crisis.
-
-...
-
-[Data](articles/db608044.json)
-
-[Extended Data](ext_articles/db608044.ext.json)
-
----
-
-### Bangladesh to benefit
-
-*2024-07-20 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199025) · `si`
-
-In the Asia Cup Women's T20 cricket tournament, Bangladesh won the toss against Sri Lanka and chose to bat first in their inaugural match today.
-
-🟩
-
-Sri Lanka Women's Team's first match will be held today (20) at the Asia Cup Women's T20 cricket tournament.
-
-The Bangladesh Women's Group was able to win the coin of the match and they decided to bat first.
-
-◼️
-
-[Data](articles/d8806418.json)
-
-[Extended Data](ext_articles/d8806418.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 08:55:07**
+As of **2024-07-21 09:06:00**
 
 ## Newspaper Stats
 
-*Scraped **36,323** Articles*
+*Scraped **36,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,198
 tamilmirrorlk | 4,423
 dailymirrorlk | 4,733
 virakesarilk | 5,679
-adaderanasinhalalk | 6,088
+adaderanasinhalalk | 6,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,317 (100.0%) of 36,323 articles have been extended.
+36,323 (100.0%) of 36,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### වන්දනාවේ ගිය වෑන් රථයක් අනතුරක
+
+*2024-07-21 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199037) · `si`
+
+වන්දනාකරුවන් රැගත් වෑන් රථයක් අද (21) අලුයම අනතුරකට ලක්වීමෙන් එහි ගමන් ගත් 7දෙනකු තුවාල ලබා පේරාදෙණිය සහ මහනුවර රෝහල්වලට ඇතුළත් කර තිබේ.
+
+අද (21) අලුයම එම අනතුර සිදුව තිබුණේ පිළිමතලාව නගරයට ආසන්න ප්‍රදේශයකදීය.
+
+නුවර දෙස සිට කොළඹ දෙසට ධාවනය වූ මෙම වෑන් රථය, අධිබලැති විදුලි කණුවක ගැටී එම අනතුර සිදුව තිබුණි.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ, වන්දනා ගමනක් ගොස් ආපසු පැමිණෙමින් සිටි ඇරව්වල ප්‍රදේශයේ පදිංචිකරුවන් පිරිසක් බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/ca1ac7f1.json)
+
+---
 
 ### Israel attacks another country
 
@@ -56,29 +74,57 @@ Accordingly, Israel has launched airstrikes after the Hamas attack on October 7.
 
 ---
 
-### ජීවිත බිලිගත් මාරක අනතුරු
+### බිත්තර ආනයනයට රජය යළි සැරසෙයි
+
+*2024-07-21 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199035) · `si`
+
+බිත්තර ආනයනය කෙරෙහි යළි අවධානය යොමුව ඇති බව වෙළෙඳ හා වාණිජ කටයුතු අමාත්‍යංශය පවසයි.
+
+"අද දෙරණ" කළ විමසීමක දී එහි ප්‍රකාශකයෙකු සඳහන් කළේ මෙරට බිත්තර නිෂ්පාදකයින් විසින් දිගින් දිගටම බිත්තර මිල ඉහළ අගයක පවත්වාගෙන යාම සම්බන්ධයෙන් එම පියවර ගැනීමට නියමිත බවය.
+
+ඒ සම්බන්ධයෙන් වන විශේෂ සාකච්ඡාවක් හෙට (22) දිනයේ පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+
+මෙලෙස බිත්තර මිල නොවෙනස්ව ඉහළ මිලක් පවත්වාගෙන යාම සඳහා නිෂ්පාදකයින් විසින් වෙළෙඳපොළට නිකුත් කරන බිත්තර ප්‍රමාණය සීමා කිරීමට කටයුතු කරන බව සඳහන්ය.
+
+එමෙන්ම බිත්තර නිෂ්පාදනය පාලනය කිරීම සඳහා සතුන් මස් පිණිස අලෙවි කිරීම ද සිදුකරන බව වෙළෙඳ හා වාණිජ කටයුතු අමාත්‍යංශයේ ප්‍රකාශකයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/f4ad649a.json)
+
+---
+
+### Fatal accidents that have been killed
 
 *2024-07-21 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199034) · `si`
 
-ගෙවී ගිය පැය 24ක කාලය තුළදී ප්‍රදේශ කිහිපය සිදුවූ රිය අනතුරුවලින් 11 හැවිරිදි දැරියක් ඇතුළු පුද්ගලයින් සිව් දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In the past 24 hours, two girls aged four and 11 were killed in separate road accidents across Sri Lanka. Other incidents included a fatal crash involving a three-wheeler and a fuel vessel, a tractor collision resulting in a driver's death upon arrival at Kekirawa hospital, and serious injuries leading to fatalities in Anuradhapura and Payagala.
 
-එම අනතුර ඊයේ වාර්තා වී තිබුණේ, මැදවච්චිය, කැකිරාව, අනුරාධපුරය සහ පයාගල යන පොලිස්වසම් වලින්ය.
+🟩
 
-මැදවච්චිය පොලිස් වසමේ ඒ-09 මාර්ගයේ 144වන කිලෝමීටර් කණුව ආසන්නයේදී ත්‍රිරෝද රථයක් සහ ඉන්ධන පිරවූ බවුසර් රථයක් මුහුණුට මුහුණ ගැටී සිදුවූ අනතුරකින් 11 හැවිරිදි දැරියක් ජීවිතක්ෂයට පත්ව ඇත.
+Four-year-old girl and 11-year-old girl killed in road accidents during the past 24 hours.
 
-මේ අතර කැකිරාව - ගනේවල්පොළ මාර්ගයේ උසාවි හන්දිය ප්‍රදේශයේදී ට්‍රැක්ටර් රථයක් මාර්ගය අයිනේ තිබූ බෝක්කු කණුවක ගැටී පෙරළීමෙන් අනතුරක් සිදුව තිබුණි.
+The accident had been reported yesterday with the lack of the incident yesterday, Medawachchiya, Kekirawa, Anuradhapura and Payagala.
 
-අනතුරින් බරපතළ තුවාල ලැබූ රියදුරු කැකිරාව රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+An 11-year-old girl was killed in a crash of a three-wheeler and fuel vessel near the 144 kilometer parking on the Medawachchiya Police Division.
 
-මේ අතර අනුරාධපුර - රඹෑව මාර්ගයේ පුලියන්කුලම ප්‍රදේශයේදී ලොරි රථයක්, පාර මාරුවීමට ගිය පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
+Meanwhile, a tractor vehicle collided with a tractor in the court junction on the court junction on the Ganeviwa area of ​​Kekirawa.
 
-එම අනතුරින් බරපතළ තුවාල ලැබූ එම පුද්ගලයා රෝහල් ගත කිරීමෙන් පසු මියගොස් තිබේ.
+The driver who was seriously injured in the accident died on admission to the Kekirawa hospital.
 
-එලෙස මියගොස් ඇත්තේ, පුලියන්කුලම ප්‍රදේශයේ පදිංචිව සිටි 65 හැවිරිදි පුද්ගලයෙකි.
+Meanwhile, a lorry in the Anuradhapura - Rambewa road has been confronted with an accident.
+
+The man was seriously injured after the accident had died after hospitalization.
+
+The victim was a 65 year old resident of the Puliyankulama area.
+
+A motorbike has been confronted with a motorcycle to shift the road to Payagala Station on the Galle-Colombo route.
 
 ...
 
 [Data](articles/6e700b45.json)
+
+[Extended Data](ext_articles/6e700b45.ext.json)
 
 ---
 
@@ -566,23 +612,29 @@ Ceylon Workers Congress President Senthil Thondaman has called on President Rani
 
 ---
 
-### යාපනයෙන් හම්බන්තොටින් මුහුදු ගිය ධිවර යාත්‍රා දෙකක් අතුරුදන්
+### Two fishing boats in Jaffna
 
 *2024-07-20 20:53:03* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයෙන්-හම්බන්තොටින්-මුහුදු-ගිය-ධිවර-යාත්‍රා-දෙකක්-අතුරුදන්/11-410877) · `si`
 
-යාපනය සහ හම්බන්තොට ධීවර වරායන්වල සිට මුහුදු ධීවරයින් 6ක් රැගත් යාත්‍රා දෙකක් අතුරුදන්
+In Jaffna and Hambantota, two fishing boats with six fishermen each have gone missing. The Fisheries Department reports no updates since their departure on the 7th, despite efforts from the Fisheries Director General Susantha Kahawatte and the Navy.
 
-යාපනය සහ හම්බන්තොට ධීවර වරායන්වල සිට මුහුදු ගිය ධීවරයින් 6 දෙනෙකු රැගත් යාත්‍රා දෙකක් අතුරුදන් වී ඇති බව ධීවර දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-පසුගිය 7 වනදා ධීවර කටයුතු සඳහා පිටත්ව ගිය යාත්‍රා දෙකක් එලෙස අතුරුදන්ව ඇති බවට තොරතුරු ලැබී ඇති බව ධීවර අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා කියා සිටියේය .
+Two boats with six boats with six sea fishermen from fishermen from fisheries
 
-යාපනය, පොයින්ට් පේදුරු ධීවර වරායෙන් පිටත්ව ගිය බහුදින ධීවර යාත්‍රාවේ ධීවරයින් සිව්දෙනෙකු සිට ඇති බව වාර්තා වෙයි.
+The Fisheries Department says two fishermen carrying six fishermen have disappeared from Jaffna and Hambantota Fisheries Harbor.
 
-හම්බන්තොට ධීවර වරායෙන් පිටත්ව ගිය එක්දින ධීවර යාත්‍රාවේ ධිවරයින් දෙදෙනෙකු සිට ඇති අතර අදාළ ධීවරයින් සම්බන්ධයෙන් මේ දක්වා කිසිදු තොරතුරක් වාර්තා වී නොමැති බවත්, ඔවුන් සෙවීම සඳහා නාවික හමුදාව ඇතුළු සියලු පාර්ශ්ව දැනුවත් කර ඇති බවද සුසන්ත කහවත්ත ‍ මහතා කියා සිටියේය.
+The Fisheries Director General Susantha Kahawatte said that there were two vessels departed for fishing on the 7th.
+
+Four Indian fishermen have been present at the Thandudent fishing vessel leaving the Fisheries Harbor, Jaffna, Point Peter.
+
+Susantha Kahawaththa said that the fishermen were leaving the Fisheries Harbor and has not reported any information about the fishermen, including the Navy, including the Navy.
 
 ◼️
 
 [Data](articles/5f472ea7.json)
+
+[Extended Data](ext_articles/5f472ea7.ext.json)
 
 ---
 
@@ -2319,69 +2371,5 @@ Although the Bangladesh Supreme Court is illegal in 2018, the Government is base
 [Data](articles/b1d63e2f.json)
 
 [Extended Data](ext_articles/b1d63e2f.ext.json)
-
----
-
-### Poya day today is today
-
-*2024-07-20 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199004) · `si`
-
-Today marks the Esala Poya Day, significant in Buddhist history for events like the Mahamayaya Kula ceremony, commemorating the birth of Gautama Buddha and his son Rahula. It's celebrated with various religious programs and activities, highlighting the importance of this day in Buddhism.
-
-🟩
-
-The Esala is considered as a day of important events in Buddhist history.
-
-In Buddhist history, the Mahamayaya Kulah is today on the Esala Poya Day for the birth of the Geology.
-
-The Birth of the Rahula is the most abusive of the rims and the birth of Rahula prince.
-
-The Buddha's first sermon was preached by the Buddha, poining the Buddha to preach the example of Tawathsa to the world, and in the history of Buddhist history.
-
-The Esala Full Moon Poya Day is considered as an important poly day in Buddhist history.
-
-50 including Arathmi Prince and Prince Dental Athushampa, Princess Dental Cadre, Princess Dental Sacred to the Dental Reli, was on the rich day today.
-
-It is also special to take the prevailing monks of the temples.
-
-A number of religious programs have been organized in the Kandy General of Videos of Buddhist and Sasana.
-
-...
-
-[Data](articles/576cacdf.json)
-
-[Extended Data](ext_articles/576cacdf.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-07-20 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199003) · `si`
-
-A red weather alert warns of strong winds and rough seas in the Arabian Sea and Bay of Bengal, crucial for the fishing and naval communities. Winds of 7-8 and gusts up to 193 km/h are expected in the Bay of Lights area due to an active southwest monsoon. The Department of Meteorology advises immediate safety measures, especially for those at sea. Additionally, strong winds are forecasted across various regions, including the Western and Sabaragamuwa Provinces, Kandy, Nuwara Eliya, Galle, and Matara districts, posing risks to the central hills' western slopes and the North, North Central, and North Western provinces.
-
-🟩
-
-A warning of strong winds and sea floor have issued a red announcement.
-
-The announcement has been issued for the special focus of the multi-day fishing and naval community who act in the Arabian Sea and Bay of Bengal.
-
-Winds (7 and 193 and 193) in the Bay of Lights of Lights (73 and 193 East) due to active southwest monsoon weather..K. 70-80) The sea areas may exist and have been informed that the sea can be very rough.
-
-The crowd in the sea areas has immediately asked to enter a safe place immediately.
-
-The Department of Meteorology has informed the fisheries and the Indian Pitra.
-
-Meanwhile, the existing winds will be expected through the island due to the active southwest monsoon.
-
-There are several thin closures in the Western and Sabaragamuwa Provincial, Kandy, Nuwara Eliya, Galle and Matara districts.
-
-At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. (50-60) can cause strong winds.
-
-...
-
-[Data](articles/9962fcbe.json)
-
-[Extended Data](ext_articles/9962fcbe.ext.json)
 
 ---

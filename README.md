@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 15:20:15**
+As of **2024-07-21 15:35:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,383 (100.0%) of 36,387 articles have been extended.
+36,387 (100.0%) of 36,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,21 +44,29 @@ The Supreme Court in its verdict ordered 93% of the government jobs to be alloca
 
 [Data](articles/b01dfeb4.json)
 
+[Extended Data](ext_articles/b01dfeb4.ext.json)
+
 ---
 
-### ක්ලබ් වසන්ත ඝාතනය - අත්අඩංගුවට ගත් තරුණිය ගැන අධිකරණය දුන් නියෝගය
+### Club Wasantha murder: The court order was arrested
 
 *2024-07-21 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199052) · `si`
 
-ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් 21 හැවිරිදි තරුණිය අද (21) කඩුවෙල වැඩබලන මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කළේය.
+A 21-year-old girl was arrested in connection with the Club Wasantha murder and brought before the Kaduwela Magistrate's Court. The court allowed her detention for 48 hours for questioning. She was apprehended by the Western Province South Criminal Division.
 
-එම තරුණියව පැය 48ක් රඳවා ගෙන ප්‍රශ්න කිරීමට පොලීසිය කළ ඉල්ලීමට එහිදී අධිකරණය අවසර ලබාදී තිබුණි.
+🟩
 
-බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසය විසින් එම සැකකාරිය අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
+The 21-year-old girl arrested in connection with the club spring murder was presented to the Kaduwela Kaduwela Magistrate.
+
+The court granted permission to hold the girl 48 hours and questioned to interrogate the court.
+
+The suspect was arrested by the Western Province South Criminal Division.
 
 ◼️
 
 [Data](articles/16b5b374.json)
+
+[Extended Data](ext_articles/16b5b374.ext.json)
 
 ---
 
@@ -75,6 +83,8 @@ The 21-year-old was arrested by police this morning in connection with the incid
 ◼️
 
 [Data](articles/fb3db01a.json)
+
+[Extended Data](ext_articles/fb3db01a.ext.json)
 
 ---
 
@@ -1108,17 +1118,25 @@ According to the welfare beneficiaries, the Welfare Board of Benefits will be up
 
 ---
 
-### පාර්ලිමේන්තුව ලබන 23 සිට  26 දක්වා රැස්වෙයි
+### Parliament gathered from June 26 to 26
 
 *2024-07-21 09:30:03* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-ලබන-23-සිට--26-දක්වා-රැස්වෙයි/11-410884) · `si`
 
-රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදය ලබන 25 වැනිදා පැවැත්වී‌මට කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන්පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+Parliament convened from June 26 to 26, focusing on the second readings of the Fiscal Management and Economic Translation Bills. Debates included the Civil Troubles Code Amendment and the Judicial Organizations Act. The session also featured discussions on AI technology and national security impacts. Notably, the parliament extended its hours for debates and allocated specific times for questioning and church adjournment debates.
 
-මේ අනුව පාර්ලිමේන්තුව ලබන 23 සිට 26 දක්වා රැස්වන අතර ජූලි 23 වැනි අඟහරුවාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා කාලය වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.00 දක්වා සිවිල් නඩුවිධාන සංග්‍රහය (සංශෝධන) (දෙවැනිවර කියවීම) පනත් කෙටුම්පත සහ අධිකරණ සංවිධාන පනත යටතේ නියෝග ද්විත්වයක් විවාදයට ගැනීමට නියමිතය.  අනතුරුව ප.ව 5.00 සිට ප.ව 5.30 දක්වා විපක්ෂය විසින් ගෙනෙනු ලබන සභාව කල්තබන අවස්ථාවේ යෝජනාව විවාදයට ගැනීමට නියමිතය.
+🟩
+
+The second reading of the Fiscal Management and Economic Translation Bills has been decided in the Committee on Parliamentary Business Mahinda Mahinda Yapa Abeywardena on the 25th of this month.
+
+Accordingly, the Parliament will meet up to 23 to 26 and will be allocated for questions expected from 9.30 am to 10 am from 9.30 am to 10.30 am. The Civil Trouble Code (Amendment) (Reading) (Second Reading) (Second Reading) (Reading) Bill and the Judicial Organizations Act will be debated under 5:00 pm.The motion is to be debated at the time of the House of Opposition to 5:00 pm to 4 pm.
+
+Wednesday 24th July 12:00 am From 9.30 am to 10:00 am to 10:00 am(AI technology) The church adjournment debate is to be held regarding the impact of national security, all religions and the country's culture.
 
 ...
 
 [Data](articles/5390566b.json)
+
+[Extended Data](ext_articles/5390566b.ext.json)
 
 ---
 

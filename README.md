@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 06:41:00**
+As of **2024-07-21 07:19:42**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,304 (100.0%) of 36,305 articles have been extended.
+36,305 (100.0%) of 36,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### අද කාලගුණය
+### Weather today
 
 *2024-07-21 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199033) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (21) දිනයේ වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers forecasted for Western, Sabaragamuwa provinces and Galle, Matara districts. Rainy weather expected elsewhere, with strong winds (50-55km/h) in central hills' west-borne areas and in North, North-central, and North Western provinces. Wind speeds around 30-40km/h in the rest of the island.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් බලාපොරොත්තුවිය හැකි බවය.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවේ.
+The Meteorological Department says that showers will be in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states that a rainy weather is mainly expected in other parts of the island.
+
+At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. Strong winds are about 50-55.
+
+From time to time in the rest of the island.. The Department of Meteorology announces that there are about 30-40 times.
 
 ◼️
 
 [Data](articles/6b9f1f50.json)
+
+[Extended Data](ext_articles/6b9f1f50.ext.json)
 
 ---
 

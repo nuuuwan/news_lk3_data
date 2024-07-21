@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 04:05:31**
+As of **2024-07-22 04:20:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,462 (100.0%) of 36,463 articles have been extended.
+36,463 (100.0%) of 36,463 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -172,19 +172,27 @@ The woman, who was arrested on Saturday (20), has been handed over to the Pallek
 
 ---
 
-### ’காணிகள் தராமையால் வீட்டுத் திட்டத்தில் தடை’
+### Lands in the Housing Scheme
 
 *2024-07-22 00:04:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணிகள்-தராமையால்-வீட்டுத்-திட்டத்தில்-தடை/175-340794) · `ta`
 
-வீடுகளை கட்டுவதற்கு உரிய காணிகளை இலங்கை தரப்பு, இன்னமும் விடுவிக்காமையால் வீடுகளை நிர்மாணிப்பதில் தாமதம் ஏற்பட்டுள்ளது என்றும், இந்த விவகாரத்தில், இந்திய தரப்பில் எவ்வித தாமதமும் இல்லை எனவும் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, தமிழ் முற்போக்கு கூட்டணி தூதுக்குழுவிடம் தெரிவித்துள்ளார்.
+The Indian High Commissioner informed the Tamil Progressive Alliance about delays in the fourth phase of the Indian Housing Scheme due to land shortages. The scheme aims to construct 1,300 houses at a cost of 375 million rupees. The alliance discussed ongoing issues, including land rights and Indian support for Sri Lanka's economic development. They assured the commissioner of completing 10,000 housing units despite previous delays. Additionally, they addressed concerns over land rights for hill plantation communities, referencing historical events like the British colonization. The alliance also presented a six-point alternative document to President Ranil Wickremesinghe and the Indian side regarding these matters.
 
-2024  ஓகஸ்ட் மாதத்தில் கட்டி முடிக்கப்படும் என்ற உறுதி மொழியுடன், சுமார் 375 மில்லியன் ரூபாய் செலவில், 1,300 வீடுகளை கட்டுவதற்காக, பாரத்-லங்கா மலைநாட்டு தோட்ட வீடமைப்பு திட்டம் என்ற பெயரில், கோலாகலமாக ஆரம்பித்து வைக்கப்பட்ட, நான்காம் கட்ட இந்திய வீடமைப்பு திட்டம் இடை நின்றுள்ளது.
+🟩
 
-இந்நிலையில், தமிழ் முற்போக்குக் கூட்டணியின் தலைவர் மனோ கணேசன் எம்.பி தலைமையில் எம்.பி.கள் வேலு குமார், உதய குமார் ஆகியோர் அடங்கிய தூதுக்குழுவுக்கும்,  இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுக்கும் இடையில், இன்றைய அரசியல் நிலைமை, இலங்கை பொருளாதார அபிவிருத்திக்கான இந்திய உதவிகள், மலையகத்துக்கான பிரத்தியேக கல்வி, தொழில் நுட்ப துறைகளுக்கான உதவிகள் ஆகியவை பற்றி கலந்துரையாடல் நிகழ்ந்து உள்ளது.
+Indian High Commissioner Santosh Ja told the Tamil Progressive Alliance delegation that there has been a delay in constructing the houses due to the lack of land for the construction of houses.
+
+The fourth phase of the Indian Housing Scheme, which was launched in the name of the Bharat-Sri Lankan Plantation Housing Project, has been in the midst of the construction of 1,300 houses at a cost of about 375 million rupees.
+
+In the meantime, the Tamil Progressive Alliance (TNA), headed by MPs Velu Kumar and Udaya Kumar, the Indian High Commissioner Santosh Jaw, headed by MPs Velu Kumar and Udaya Kumar, today's political situation, Indian assistance for Sri Lankan economic developmentThere is a discussion.
+
+Our government, which is participating in the Tamil Progressive Alliance, will soon be formed. We have assured the Indian High Commissioner Santosh Ja that we will do a total of 10,000 housing work as we have been delays, as well as goodwill in 2015-2019.
 
 ...
 
 [Data](articles/ff9d7f06.json)
+
+[Extended Data](ext_articles/ff9d7f06.ext.json)
 
 ---
 

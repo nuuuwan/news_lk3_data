@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 08:35:30**
+As of **2024-07-21 08:23:33**
 
 ## Newspaper Stats
 
-*Scraped **36,322** Articles*
+*Scraped **36,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,17 @@ adaderanalk | 4,198
 tamilmirrorlk | 4,423
 dailymirrorlk | 4,733
 virakesarilk | 5,679
-adaderanasinhalalk | 6,087
+adaderanasinhalalk | 6,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,312 (100.0%) of 36,322 articles have been extended.
+36,309 (100.0%) of 36,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
-
-### ඊශ්‍රායලය තවත් රටකට පහරදෙයි
-
-*2024-07-21 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199036) · `si`
-
-ඊශ්‍රායලය තවත් රටකට ගුවන් ප්‍රහාර එල්ලකළ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
-
-එහි සඳහන් වන්නේ යේමන යේ හූති කැරළිකරුවන් ගේ පාලනයේ පවතින හොඩේයිඩා වරාය ට එසේ ගුවන් ප්‍රහාර එල්ලකර ඇති බවයි.
-
-එම ප්‍රහාරය එල්ලකර ඇත්තේ මීට දින දෙකකට පෙර හූති කැරළිකරුවන් විසින් ඊශ්‍රායලයේ ටෙල් අවිව් නගරයට ඩ්‍රෝන ප්‍රහාරයක් එල්ල කිරීමට ප්‍රතිචාර වශයෙන් බව සඳහන් ය.
-
-ඒ අනුව ඊශ්‍රායලය විසින් ඔක්තෝබර් 7 වනදා හමාස් ප්‍රහාරයෙන් පසුව පලස්තීනය, ලෙබනනය, ඉරානය සහ යේමනයේ ඉලක්ක වෙත ගුවන් ප්‍රහාර එල්ලකර තිබේ.
-
-◼️
-
-[Data](articles/0d648800.json)
-
----
 
 ### ’தேர்தலை நடத்தியிருந்தால் தலைவிதி மோசமாகியிருக்கும்’
 
@@ -188,8 +170,6 @@ I did not realize that he had another doctor at home until one day he called me 
 
 [Data](articles/83086d25.json)
 
-[Extended Data](ext_articles/83086d25.ext.json)
-
 ---
 
 ### My aunt, the Veda Menike and herbal medicine
@@ -204,8 +184,6 @@ Living in Kurunegala town at the beginning of the 20th century, we also had a fa
 
 [Data](articles/5cc9a52d.json)
 
-[Extended Data](ext_articles/5cc9a52d.ext.json)
-
 ---
 
 ### ARTI or Peradeniya University? – career dilemmas of a young man
@@ -219,8 +197,6 @@ Soon after graduating from the University of Peradeniya in 1972, I applied for a
 ...
 
 [Data](articles/671b9a9b.json)
-
-[Extended Data](ext_articles/671b9a9b.ext.json)
 
 ---
 
@@ -2357,5 +2333,21 @@ Minister Fernando made these remarks during a news conference held at the Presid
 [Data](articles/796fd1e8.json)
 
 [Extended Data](ext_articles/796fd1e8.ext.json)
+
+---
+
+### Scope Cinemas brings IMAX®️ to Sri Lanka sparking cinematic revolution
+
+*2024-07-20 01:08:00* · [`islandlk`](http://island.lk/scope-cinemas-brings-imax%ef%b8%8f-to-sri-lanka-sparking-cinematic-revolution/) · `en`
+
+Scope Cinemas is set to revolutionise cinema experiences in Sri Lanka with the opening of its new IMAX®️ Theatre at Havelock City Mall on the 26th of July 2024. This eagerly anticipated launch promises to bring an unparalleled level of audio-visual immersion for Sri Lankan moviegoers, marking a milestone moment for entertainment in the country. IMAX®️ is renowned globally for its cutting-edge technology and unique film presentation capabilities.
+
+Accordingly, the IMAX®️ Theatre at Scope Cinemas Multiplex – Havelock City will feature IMAX®️ with Laser – a next-gen laser projection system – delivering the most advanced theatre experience to date. This tech will be coupled with IMAX®️ Precision Sound for breath-taking audio and IMAX®️ Immersion by Design seating, with stadium-style seating for clear viewing at every seat. All of this makes for the most immersive cinematic theatre experience in the world today.
+
+...
+
+[Data](articles/4b487574.json)
+
+[Extended Data](ext_articles/4b487574.ext.json)
 
 ---

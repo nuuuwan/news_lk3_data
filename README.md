@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 03:05:42**
+As of **2024-07-22 03:20:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,460 (100.0%) of 36,461 articles have been extended.
+36,461 (100.0%) of 36,461 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -174,19 +174,29 @@ The woman, who was arrested on Saturday (20), has been handed over to the Pallek
 
 ### 2024-07-21 (Sunday)
 
-### சாவகச்சேரி வைத்தியசாலை பிரச்சினைகளை ஆராய ழு நியமனம்
+### Chavakachcheri Hospital Problem
 
 *2024-07-21 23:58:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாவகச்சேரி-வைத்தியசாலை-பிரச்சினைகளை-ஆராய-ழு-நியமனம்/175-340792) · `ta`
 
-அமைச்சர் டக்ளஸ் தேவானந்தா தலைமையில் சாவகச்சேரி ஆதார வைத்தியசாலையின் பிரச்சினைகள் தொடர்பான ஆக்கபூர்வமான கலந்துரையாடல் ஞாயிற்றுக்கிழமை (21) முன்னெடுக்கப்பட்டது.
+A meeting addressed concerns about Chavakachcheri Resource Hospital, including allegations against Dr. Arsuna and his appointment as Medical Superintendent. Community groups presented 16 allegations, sparking a detailed discussion. Minister Douglas Devananda promised to address broader issues with health officials, while plans for a development committee and regular discussions with hospital management were agreed upon. Key figures from health services and patient welfare associations attended.
 
-வைத்தியர் அர்சுனாவினால் முன்வைக்கப்பட்ட குற்றச்சாட்டுக்கள் தொடர்பாகவும் அதற்கான தீர்வு தொடர்பாகவும், அவர் மீது சுமத்தப்பட்ட குற்றச்சாட்டுக்கள் தொடர்பாகவும், வைத்தியர் அர்சுனாவை மீண்டும் சாவகச்சேரி வைத்திய சாலைக்கு வைத்திய அத்தியட்சகராக நியமிப்பதற்கான ஏற்பாடுகள் தொடர்பாக இதன்போது ஆராயப்பட்டது.
+🟩
 
-குறித்த கலந்துரையாடலில் கலந்துகொண்ட சமூக மட்ட அமைப்பினர், சாவகச்சேரி ஆதார வைத்தியசாலையில் உள்ள குறைபாடுகள் என வைத்தியர் அர்ச்சுனா முன்வைத்த குற்றச்சாட்டுகள் உட்பட 16 குற்றச்சாட்டுகளை எழுத்துமூலம் அமைச்சர் டக்ளஸ் தேவானந்தாவிடம் வழங்கினர்.
+A constructive discussion on the issues of the Chavakachcheri Resource Hospital headed by Minister Douglas Devananda was held on Sunday (21).
+
+The allegations leveled by Dr. Arsuna, the solution and the allegations leveled against him, and the arrangements for the appointment of Dr. Arsuna as the Medical Superintendent of the Chavakachcheri Medical Road.
+
+The community level organizations participated in the discussion and wrote 16 allegations, including the allegations made by Dr. Archana as the shortcomings at the Chavakachcheri Hospital.
+
+There was a detailed discussion on each allegation. The Minister said that he would provide a decisive response to the Minister of Health Ramesh Pathirana and President Ranil Wickremesinghe on other issues as he was not a departmental minister.
+
+It was also decided at the meeting that a development committee comprising 15 members should be selected and a monthly discussion should be held with the hospital administration.
 
 ...
 
 [Data](articles/26d54622.json)
+
+[Extended Data](ext_articles/26d54622.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 01:20:32**
+As of **2024-07-22 01:35:43**
 
 ## Newspaper Stats
 
-*Scraped **36,452** Articles*
+*Scraped **36,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,173
 dailyftlk | 2,315
 adalk | 3,289
 adaderanalk | 4,218
-tamilmirrorlk | 4,438
+tamilmirrorlk | 4,439
 dailymirrorlk | 4,733
 virakesarilk | 5,713
 adaderanasinhalalk | 6,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,452 (100.0%) of 36,452 articles have been extended.
+36,452 (100.0%) of 36,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -143,6 +143,28 @@ Although it is my intention to re -contest the election, he has decided to quit 
 [Data](articles/f2d74eae.json)
 
 [Extended Data](ext_articles/f2d74eae.ext.json)
+
+---
+
+### இலங்கை மாணவர்கள் பாதுகாப்பாக உள்ளனர்
+
+*2024-07-21 23:42:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மாணவர்கள்-பாதுகாப்பாக-உள்ளனர்/175-340790) · `ta`
+
+பங்களாதேஷில் ஏற்பட்டுள்ள மோதல் நிலைமை காரணமாக அந்நாட்டில் உள்ள இலங்கை மாணவர்களின் பாதுகாப்பு தொடர்பில் விசேட கவனம் செலுத்தப்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+இலங்கை மாணவர்கள் 50-இற்கும் மேற்பட்டோர் பங்களாதேஷில் மூன்று பல்கலைக்கழகங்களில் கல்விகற்பதாக அமைச்சு குறிப்பிட்டுள்ளது.
+
+மாணவர்கள் மற்றும் அவர்களின் பெற்றோர்களுடன் தொடர்புகொண்டு தேவையான அறிவுறுத்தல்களை வழங்க இலங்கைக்கான பங்களாதேஷ் உயர்ஸ்தானிகராலயம் நடவடிக்கை எடுத்துள்ளது.
+
+இதேவேளை, பங்களாதேஷில் நிலவும் குழப்ப நிலைமை காரணமாக இதுவரையில் இலங்கை மாணவர்களின் பாதுகாப்பிற்கு அச்சுறுத்தல் ஏற்படவில்லை என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+குறித்த மாணவர்கள் நாடு திரும்ப விரும்பினால், அதற்கான வசதிகள் செய்துகொடுக்கப்படும் என அமைச்சு குறிப்பிட்டுள்ளது.
+
+பங்களாதேஷில் கடந்த 20 நாட்களாக போராட்டம் முன்னெடுக்கப்பட்டுள்ள நிலையில்,  நிலைமை தொடர்ந்தும் மோசமடைந்துள்ளதால் பங்களாதேஷ் முழுவதும் ஊரடங்கு சட்டம் பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/91ee9ff9.json)
 
 ---
 
@@ -2291,25 +2313,5 @@ Bogawantalawa Police Station Superintendent Sukat says the arrested persons will
 [Data](articles/cb76124a.json)
 
 [Extended Data](ext_articles/cb76124a.ext.json)
-
----
-
-### 21-year-old female arrested over ‘Club Wasantha’ murder
-
-*2024-07-21 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100659/-21-year-old-female-arrested-over-club-wasantha-murder) · `en`
-
-Police have arrested a 21-year-old female on suspicion of being linked to the killing of ‘Club Wasantha’ at Athurugiriya recently.
-
-On July 09, police arrested seven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place, resulting in the deaths of ‘Club Wasantha’ and another person and wounded four others. The other arrested individuals were suspected to have aided and abetted in the shooting incident.
-
-During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
-
-Meanwhile, measures have been taken to provide special protection to the owner of the tattoo studio in question, as per a court order, since there are accomplices of the criminal figure infamously known as “Loku Patee,” who is suspected to be involved in the incident, detained in the prison.
-
-...
-
-[Data](articles/a3baa97b.json)
-
-[Extended Data](ext_articles/a3baa97b.ext.json)
 
 ---

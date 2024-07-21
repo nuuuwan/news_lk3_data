@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 07:50:26**
+As of **2024-07-21 08:13:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,305 (100.0%) of 36,320 articles have been extended.
+36,309 (100.0%) of 36,320 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,39 +56,51 @@ From time to time in the rest of the island.. The Department of Meteorology anno
 
 ---
 
-### ’வங்குரோத்தான வர்த்தகங்களைக் கையாள புதிய சட்ட மூலம்’
+### The new legislation to handle bankrupt trade
 
 *2024-07-21 06:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்குரோத்தான-வர்த்தகங்களைக்-கையாள-புதிய-சட்ட-மூலம்/175-340734) · `ta`
 
-தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள பராட்டே சட்டத்தைத் தொடர்ந்தும் நீண்ட காலத்திற்குப் பேண முடியாது எனவும் எனவே வங்குரோத்தான வர்த்தகங்களை கையாள புதிய சட்டமூலமொன்று கொண்டுவரப்படும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Wickremesinghe announced plans to introduce a new bankruptcy law to replace the temporarily suspended Paratete law, aiming to support micro, small, and medium enterprises in Sri Lanka. The initiative is part of broader economic recovery efforts, including modernizing rural areas to boost local economies and increase financial inclusion among villagers.
 
-இலங்கை நுண், சிறு, நடுத்தர நிறுவனங்களின் கூட்டமைப்பினால் நேற்று முன்தினம் பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஏற்பாடு செய்யப்பட்டிருந்த ‘இலங்கையில் உள்ள நுண், சிறு, நடுத்தர நிறுவனங்களின் ஆற்றலுடன் பொருளாதாரத்தை மீட்டெடுக்கும் தீர்மானமிக்க முயற்சி’ என்ற வேலைத் திட்டத்தில் கலந்துகொண்ட போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+🟩
 
-இதன்போது, இலங்கை நுண், சிறு, நடுத்தர தொழில் முனைவோர் சம்மேளனத்தின் தலைவர் சசிகா டி சில்வா ஜனாதிபதிக்கு விசேட நினைவுப் பரிசு ஒன்றையும் வழங்கினார்.
+President Ranil Wickremesinghe has said that a new Bill will be brought in to handle the bankrupt trade, so that the temporary suspended Paratete law cannot continue.
+
+The President said this while participating in the program of redemption of the economy with the energy of micro, small and medium enterprises in Sri Lanka, organized by the Bandaranaike Memorial International Conference Hall yesterday.
+
+Sasika de Silva, president of the Sri Lanka Micro, Small and Medium Entrepreneurs Federation, presented a special souvenir.
 
 ...
 
 [Data](articles/b965aee7.json)
 
+[Extended Data](ext_articles/b965aee7.ext.json)
+
 ---
 
-### ’பல்கலை முறைமையை மறுசீரமைக்க வேண்டும்’
+### Reorganization of the University system
 
 *2024-07-21 05:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-முறைமையை-மறுசீரமைக்க-வேண்டும்/175-340733) · `ta`
 
-பல்கலைக்கழகக் கட்டமைப்பிற்குள் அச்சுறுத்தல் அரசியலை இல்லாதொழிக்க வேண்டும் எனவும் மாணவர்கள் சுதந்திரமாக கல்வி கற்க வேண்டுமானால் பல்கலைக்கழக முறைமையை மறுசீரமைக்க வேண்டும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Wickremesinghe emphasized the need for restructuring the university system to ensure freedom in education during the handover of the International Science and Technology University to students in Batticaloa. He also participated in a MoU exchange with university administration and higher education institutions in Sri Lanka, highlighting his commitment to improving the educational landscape.
 
-மட்டக்களப்பு பூனானையில் நிர்மாணிக்கப்பட்டுள்ள சர்வதேச விஞ்ஞான மற்றும் தொழில்நுட்பப் பல்கலைக்கழகத்தை நேற்று  மாணவர்களிடம் உத்தியோகபூர்வமாக கையளித்த பின்னர் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-பெயர்ப் பலகையை திரைநீக்கம் செய்து பல்கலைக்கழகத்தை மாணவர்களிடம் கையளித்த ஜனாதிபதி, அதனைப் பார்வையிட்டதுடன், மாணவர்களுடன் சிநேகபூர்வமாக உரையாடினார்.
+President Ranil Wickremesinghe said that the threat should be eliminated within the university structure and that the university system should be restructured if students are free to educate.
 
-இதன்போது, பல்கலைக்கழக நிர்வாகம் மற்றும் இலங்கையிலுள்ள உயர்கல்வி நிறுவனங்களுடனான புரிந்துணர்வு ஒப்பந்தங்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பரிமாறிக்கொள்ளப்பட்டன.
+The President made these comments while officially handing over the International Science and Technology University to the students of Poonana in Batticaloa yesterday.
 
-மேலும், விஞ்ஞான மற்றும் தொழில்நுட்பப் பல்கலைக்கழகத்தை மாணவர்களுக்கு கையளிக்கும் நிகழ்வையொட்டி நினைவு முத்திரை ஒன்றும் வெளியிடப்பட்டது. (a)
+The President, who had university the nameplate and handed over the university to the students, visited it and spoke with the students.
+
+Meanwhile, Memorandum of Understanding with University Administration and Higher Education Institutions in Sri Lanka was exchanged in the presence of President Ranil Wickremesinghe.
+
+In addition, a memorial stamp was published in the event of handing over students to the University of Science and Technology. (A)
 
 ◼️
 
 [Data](articles/f382a4b0.json)
+
+[Extended Data](ext_articles/f382a4b0.ext.json)
 
 ---
 
@@ -108,6 +120,8 @@ Roshan Bamberadeniya, Co-Founder and CEO of Sales Capital expressed gratitude to
 
 [Data](articles/17d5d8ff.json)
 
+[Extended Data](ext_articles/17d5d8ff.ext.json)
+
 ---
 
 ### How Tikiri ducked a match-making attempt
@@ -121,6 +135,8 @@ On a Saturday morning weeks later, his father appeared, He was an imposing figur
 ...
 
 [Data](articles/4f250661.json)
+
+[Extended Data](ext_articles/4f250661.ext.json)
 
 ---
 

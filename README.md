@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 17:36:04**
+As of **2024-07-21 17:56:17**
 
 ## Newspaper Stats
 
-*Scraped **36,401** Articles*
+*Scraped **36,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,074
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,281
+adalk | 3,282
 adaderanalk | 4,212
-tamilmirrorlk | 4,434
+tamilmirrorlk | 4,435
 dailymirrorlk | 4,733
 virakesarilk | 5,692
 adaderanasinhalalk | 6,110
@@ -26,31 +26,55 @@ adaderanasinhalalk | 6,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,400 (100.0%) of 36,401 articles have been extended.
+36,401 (100.0%) of 36,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### අරණායකින් වාර්තා වූ ශෝචනීය කතාවක්
+### A tragic story recorded by aranayaka
 
 *2024-07-21 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199057) · `si`
 
-හෘදයාබාධයකින් මියගිය නව හැවිරිදි දරුවෙකුගේ දේහය සාරිවලින් ආවරණය කළ තාවකාලික මඩුවක තැන්පත් කිරීමේ ශෝචනීය පුවතක් මාවනැල්ල අරණායක ප්‍රදේශයෙන් වාර්තා වේ.
+In Mawanella Aranayaka, a nine-year-old boy named Kavinda Dinesh passed away due to heart issues. Despite being hospitalized and transferred to Kandy, Peradeniya Hospital, his body remained unclaimed for 17 days because his birth certificate wasn't available. His mother, facing abandonment from her husband and financial struggles, couldn't retrieve his remains due to cultural and economic barriers.
 
-අරණායක, සාමසර, එළඟිපිටිය ජනපදයේ නිවසක පදිංචිව සිටි කාවින්ද දිනේෂ් නමැති නව හැවිරිදි පුතු පසුගිය 4 වනදා මියගොස් ඇත්තේ කලක සිට පැවති හෘද රෝගී තත්ත්වයක්  හේතුවෙනි.
+🟩
 
-දිනේෂ් ගේ මව වන 32 හැවිරිදි ජීවිකා ජයමිණි මහත්මිය පැවසුවේ සිය පුතුට වයස අවුරුදු 5ක් පමණ වන විට හදවත් රෝගය වැළඳුණු බවත් පසුව මාසිකව රෝහලේ සායනයට ගොස් ප්‍රතිකාර ලබා ගත් බවත්ය.
+Mawanella Aranayaka area reports
 
-එසේ ප්‍රතිකාර ලබාගනිමින් සිටිය දී පසුගිය 4 වනදා පුතුගේ රෝගී තත්ත්වය උත්සන්න වීම හේතුවෙන් මාවනැල්ල මූලික රෝහල වෙත ඔහුව රැගෙන ගොස් තිබේ.
+The nine-year-old son, Kavinda Dinesh, a resident of a house of Aranayaka, a resident of a house in the colony of the colonians died on the 4th.
 
-එහිදී රෝගී තත්ත්වය දැඩි ලෙස උත්සන්න වීමත් සමග දරුවා ව මහනුවර, පේරාදෙණිය රෝහල වෙත මාරුකර යවා ඇත.
+Dinesh's mother, 32 year old organiser Jayamani said his son was diagnosed with heart, and later visited the hospital clinic.
 
-නමුත් ඔහුගේ මෘතදේහය දින 17ක් යනතුරු රෝහලෙන් දරුවාගේ භාරකාරයින් ලබා දී නැත. ඒ දරුවාගේ උප්පැන්න සහතිකය රෝහලට ඉදිරිපත් නොකිරීම හේතුවෙනි.
+He was taken to the Mawanella Base Hospital as the son of son was intensified on the 4th.
+
+With the severe escalation of the condition, the child was transferred to Kandy, Peradeniya Hospital.
+
+But his body has not been provided with the child's custody of the hospital for 17 days. The child's birth certificate was not produced at the hospital.
+
+When asked about the death of Dinesh's mother, she said his husband had left her husband and that Dinesh son, as well as his two daughters, was unable to obtain birth certificates.
+
+However, when she asked her not to house his son's body, she said that the son's body was not preaching home again, as his son died.
 
 ...
 
 [Data](articles/1eb3610a.json)
+
+[Extended Data](ext_articles/1eb3610a.ext.json)
+
+---
+
+### அசங்கவுக்கு பிணை
+
+*2024-07-21 17:11:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/அசங்கவுக்கு-பிணை/95-340769) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்தில் கைது செய்யப்பட்ட  அசங்க அபேகுணசேகரவை, நீர்கொழும்பு நீதவான் ரக்கிதா அபேசிங்கவின் முன்னிலையில், ஞாயிற்றுக்கிழமை (21) மாலை கட்டுநாயக்க விமான நிலைய பொலிஸாரால் ஆஜர்படுத்தப்பட்டார்.
+
+தலா 10 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணையில் அவர் விடுவிக்கப்பட்டதுடன், எதிர்வரும் ஓகஸ்ட் மாதம் 9ஆம் திகதி கொழும்பு நீதவான் நீதிமன்றில் ஆஜராகுமாறு அசங்க அபேகுணசேகரவுக்கு நீர்கொழும்பு நீதவான்  உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/15cb1560.json)
 
 ---
 
@@ -1514,6 +1538,26 @@ The port login expressway, which was opened on September 27, 2019, is 5.3 kilome
 
 ---
 
+### හම්බන්තොට කීරි සම්බා වගාව සාර්ථකයි
+
+*2024-07-21 08:37:59* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-කීරි-සම්බා-වගාව-සාර්ථකයි/11-410882) · `si`
+
+වී අලෙවි මණ්ඩලය ,හම්බන්තොට දිස්ත්‍රික්කයේ නියාමණ ව්‍යාපෘතියක් ලෙස ආරම්භ කළ කුඹුරු අක්කර 500ක කීරි සම්බා වගා කිරීමේ ව්‍යාපෘතියේ අස්වනු නෙලීම ආරම්භ විය.
+
+කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ සහභාගිත්වයෙන් මෙම අස්වනු නෙලීමේ වැඩසටහන අගුනකොළපැලැස්ස අලුත්වැව කුඹුරුයායේ දී සිදු කෙරිනි.
+
+වෙළෙඳපළේ අනෙකුත් සහල් මිල ගණන් පහළ මට්ටමක පැවතුන ද කීරි සම්බා සහල් මිල ඉහළ යාම නිසා කීරි සම්බා බිත්තර වී නිෂ්පාදනය ඉහළ නැංවීම මෙම ව්‍යාපෘතියේ අරමුණ විය.
+
+වී අලෙවි මණ්ඩලය විසින් මෙම ව්‍යාපෘතිය ආරම්භ කළ අතර ගොවි බාරකාර අරමුදලේ මුල්‍ය ප්‍රතිපාදන යොදාගනිමින් ගොවින් 300කට අක්කර 500ක වගා කිරීම සඳහා කිරි සම්බා බීජ වී හා අනෙකුත් කෘෂි යෙදවුම් නොමිලයේ ලබා දීමට පියවර ගත්තේය.
+
+ඒ අනුව එම අක්කර 500 කීරි සම්බා වී වගාව මේ වනවිට ඉතාමත් සාර්ථක වී තිබේ. කීරි සම්බා හම්බන්තොට දිස්ත්‍රික්කයේ මෙතෙක් වගා නොකරන අතර පළමුවරට පසුගිය මහ කන්නයේ අක්කර 100ක වගා කළ අතර ඉන් ඉහළ අස්වැන්නක් ලබා ගැනීමට හැකිවිය.
+
+...
+
+[Data](articles/cc3c6b79.json)
+
+---
+
 ### Israel attacks another country
 
 *2024-07-21 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199036) · `si`
@@ -2251,47 +2295,5 @@ A prisoner at Matara Prison has cut down another prisoner's face today (20).
 [Data](articles/7be1e387.json)
 
 [Extended Data](ext_articles/7be1e387.ext.json)
-
----
-
-### Mendis color the LPL field
-
-*2024-07-20 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199028) · `si`
-
-In the Lanka Premier League cricket tournament, the Candy Falcons and Jaffna Kings faced off in the finals. The Candy Falcons' captain won the toss and chose to bat first. Despite this decision, the Jaffna Kings managed to score 187 runs in 20 overs, losing 7 wickets. A standout performance came from Kusal Mendis of the Jaffna Kings, who scored 105 runs, contributing significantly to his team's total.
-
-🟩
-
-The second end of the Lanka Premioe Cricket Tournament is the second final premises of Candy Falcation team and Jaffa Kings team will be held today (20).
-
-The leader of candy falcons, won the toss and invited him to bat first.
-
-Accordingly, Jatna Kings Gungs scored 187 runs for the loss of 07 wickets at the end of 20 overs.
-
-Kusal Mendis, who played a precious innings for Japna Kugs, scored 105 runs.
-
-◼️
-
-[Data](articles/89491889.json)
-
-[Extended Data](ext_articles/89491889.ext.json)
-
----
-
-### Imtiaz instead of Fonseka
-
-*2024-07-20 21:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொன்சேகாவுக்கு-பதிலாக-இம்தியாஸ்/175-340719) · `ta`
-
-Imtiaz Bhakir Markar, a National List MP, replaces Field Marshal Sarath Fonseka as the SJB party leader.
-
-🟩
-
-National List Member of Parliament Imtiaz Bhakir Markar will be appointed as the new leader of the Samaki Jana Balavegaya (SJB) party replace MP Field Marshal Sarath Fonseka
-
-◼️
-
-[Data](articles/f0d1a119.json)
-
-[Extended Data](ext_articles/f0d1a119.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 18:54:06**
+As of **2024-07-21 19:05:21**
 
 ## Newspaper Stats
 
-*Scraped **36,421** Articles*
+*Scraped **36,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ dbsjeyarajcom | 321
 colombotelegraphcom | 339
 bbccomsinhala | 356
 newsfirstlk | 363
-islandlk | 2,074
+islandlk | 2,075
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,283
-adaderanalk | 4,213
+adaderanalk | 4,214
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,704
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,112
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,408 (100.0%) of 36,421 articles have been extended.
+36,408 (100.0%) of 36,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### Former INSS Director Asanka Abeygunasekara granted bail
+
+*2024-07-21 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100674/former-inss-director-asanka-abeygunasekara-granted-bail) · `en`
+
+The former Director General of the Institute of National Security Studies of Sri Lanka (INSS) Asanka Abeygunasekara, who was arrested this morning (21), has been granted bail after being produced before the court.
+
+Thus, the Negombo Magistrate Rakhitha Abeysinghe has ordered the suspect to be released on two surety bail of Rs 1 million each.
+
+Furthermore, the magistrate ordered Abeygunasekara to appear before the Colombo Magistrate’s Court on August 09, 2024, Ada Derana reporter said.
+
+The former INSS Director General was arrested this morning at the Bandaranaike International Airport (BIA) in Katunayake upon arrival from overseas. There was a pending open warrant over a case filed by the Inland Revenue Department (IRD) against Abeygunasekara, according to police.
+
+◼️
+
+[Data](articles/173af16c.json)
+
+---
 
 ### மின்சார கட்டணம் குறைந்துள்ளது; நீர் கட்டணமும் மறுசீரமைக்கப்பட உள்ளது; நாட்டு மக்கள் வாழ்வில் சுபீட்சம் ஏற்பட ரணில் விக்கிரமசிங்கவின் ஆட்சி தொடர வேண்டும் - எம்.ராமேஷ்வரன் எம்.பி
 
@@ -2225,25 +2243,5 @@ Addressing the nation on May 16, 2022, Ranil Wickremesinghe said that he was cha
 [Data](articles/7331e9f5.json)
 
 [Extended Data](ext_articles/7331e9f5.ext.json)
-
----
-
-### Sales Capital and Prudentia Infinity unveil their modern office in Colombo 05
-
-*2024-07-21 04:07:00* · [`islandlk`](http://island.lk/sales-capital-and-prudentia-infinity-unveil-their-modern-office-in-colombo-05/) · `en`
-
-Sales Capital and Prudentia Infinity have recently unveiled their new state-of-the-art office in Colombo 05. The office is equipped with modern amenities aimed at boosting efficiency, fostering creativity, and encouraging collaboration among team members.
-
-Over the past five years, Sales Capital has partnered with more than 90 prestigious brands across 12 industry verticals in nine countries, significantly enhancing brand visibility and driving substantial sales for its clients.
-
-Milinda Mendis, Co-Founder and Director of Sales Capital, expressed enthusiasm about the new office, calling it a pivotal milestone in their journey. He emphasized that the expansion underscores their ongoing growth and commitment to delivering exceptional services.
-
-Roshan Bamberadeniya, Co-Founder and CEO of Sales Capital expressed gratitude to clients and partners for their trust and support, which he said had been crucial to their success.
-
-...
-
-[Data](articles/17d5d8ff.json)
-
-[Extended Data](ext_articles/17d5d8ff.ext.json)
 
 ---

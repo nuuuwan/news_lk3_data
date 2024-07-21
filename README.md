@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 16:06:37**
+As of **2024-07-21 16:20:25**
 
 ## Newspaper Stats
 
-*Scraped **36,391** Articles*
+*Scraped **36,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ dbsjeyarajcom | 321
 colombotelegraphcom | 339
 bbccomsinhala | 356
 newsfirstlk | 363
-islandlk | 2,073
+islandlk | 2,074
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,279
+adalk | 3,280
 adaderanalk | 4,210
 tamilmirrorlk | 4,434
 dailymirrorlk | 4,733
@@ -26,45 +26,57 @@ adaderanasinhalalk | 6,107
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,389 (100.0%) of 36,391 articles have been extended.
+36,391 (100.0%) of 36,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### கிளப் வசந்த கொலை ; யுவதிக்கு தடுப்பு காவல்
+### Club spring murder;Detention guard
 
 *2024-07-21 15:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-யுவதிக்கு-தடுப்பு-காவல்/175-340762) · `ta`
 
-கிளப் வசந்த கொலைச் சம்பவம் தொடர்பில் கைது செய்யப்பட்ட 21 வயதான யுவதி ஞாயிற்றுக்கிழமை (21) அன்று கடுவெல பதில் நீதவான் முன்னிலையில் முன்னிலைப்படுத்தப்பட்டார்.
+Yuvati, a 21-year-old, was arrested for aiding in the Club Spring murder and appeared before a magistrate. The court granted police 48 hours to investigate her involvement in the death of Club Vasantha.
 
-அதன்போது , குறித்த யுவதியை 48 மணி நேரம் பொலிஸ் காவலில் வைத்து விசாரிக்க வேண்டும் என்ற பொலிஸாரின் கோரிக்கையை நீதிமன்றம் அனுமதித்துள்ளது.
+🟩
 
-மேல் மாகாண தெற்கு குற்றத்தடுப்பு பிரிவினரால் அதுருகிரிய பிரதேசத்தில் வைத்து, கிளப் வசந்தாவின் கொலைக்கு உதவியவர் என குற்றச்சாட்டில் அவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+21 -year -old Yuvati, who was arrested in connection with the club spring murder, was presented in the presence of the Kaduwela response Magistrate on Sunday (21).
+
+The court has allowed the police to investigate the girl for 48 hours.
+
+Police said that he was arrested on charges of assisting the murder of the club Vasantha by the Southern Provincial Crime Branch of the Western Province.
 
 ◼️
 
 [Data](articles/b76d447b.json)
 
+[Extended Data](ext_articles/b76d447b.ext.json)
+
 ---
 
-### බංග්ලාදේශයේ රැකියා කෝටා ප්‍රශ්නයට අධිකරණ නියෝගයක්
+### Court order to work in Bangladesh in Bangladesh
 
 *2024-07-21 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199054) · `si`
 
-රජයේ රැකියාවලින් 30%ක් නිදහස් සටනට උරදුන් යුද විරුවන්ගේ පවුල්වල සාමාජිකයින්ට ලබාදිය යුතු බවට දුන් අධිකරණ නියෝගයක් හේතුවෙන් පසුගිය දින කිහිපය පුරා බංග්ලාදේශයේ පැවතියේ කලහකාරී තත්ත්වයකි.
+In Bangladesh, tensions escalated after a court ruling requiring 30% of government positions to be filled by freedom fighters' descendants. Reports indicate violence, with international outlets like BBC confirming deaths. The decision also emphasizes merit-based hiring, limiting familial job allocations to 5%. A curfew was imposed in Dhaka amidst the unrest.
 
-මේ වනවිට ඉන් විශාල පිරිසක් මියගොස් ඇති බවද ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+🟩
 
-බී බී සී පුවත් සේවය වාර්තා කළේ ඉන් 100 දෙනෙක් පමණ මියගොස් ඇති බවයි.
+Bangladesh was an aggressive situation over the past few days due to a court order that 30% of government jobs should be given to the freedom struggle.
 
-එහි දැක්වෙන්නේ රජයේ රැකියාවලින් 93%ක් සුදුසුකම් මත ලබාදිය යුතු බවයි. යුද විරුවන්ගේ පවුල්වල සාමාජිකයින්ට ලබාදිය යුත්තේ රජයේ රැකියාවලින් 5%ක් පමණක් බව එම නියෝගයෙහි දැක්වෙන බව සඳහන් ය.
+International media reports that many of them have been killed.
 
-අද වන විට දෙවැනි දිනටත් එරට ඇඳිරි නීතිය පනවා ඇති අතර අගනුවර වන ඩකා හි වීථි ජනශූන්‍ය බව වාර්තා වෙයි.
+BBC reported that 100 of them died.
+
+It indicates that 93% of government jobs should be given on qualifications. It is said that the members of the family should be given only 5% of the government jobs.
+
+The curfew has been imposed today and the streets of Dhaka, the capital.
 
 ◼️
 
 [Data](articles/0a5ff975.json)
+
+[Extended Data](ext_articles/0a5ff975.ext.json)
 
 ---
 
@@ -1146,6 +1158,24 @@ Dhammika Perera has once again announced that he is ready to contest as the pres
 
 ---
 
+### ගාල්ල හා යාපනය අවසන් තරගය අද
+
+*2024-07-21 09:47:51* · [`adalk`](https://www.ada.lk/sports/ගාල්ල-හා-යාපනය-අවසන්-තරගය-අද/9-410885) · `si`
+
+ලංකා ප්‍රිමියර් ලීග ක්‍රිකට් තරගාවලියේ අවසන් මහ තරගය ගාලු කණ්ඩායම හා යාපනය කණ්ඩායම අතර අද රාත්‍රී කොළඹ ආර්. ප්‍රේමදාස පිටියේදී පැවැත්වීමට නියමිතයි.
+
+ගාල්ල හා යාපනය කණ්ඩායම් අවසන් වටයේ තරග දෙකද සමගින් තරග 10 බැගින් ක්‍රීඩා කර ඇති අතර කණ්ඩායම් දෙකම තරග 5 බැගින් ජයගෙන තිබේ.
+
+මෙවර තරගාවලියේ මේ දක්වා වැඩිම ලකුණු ප්‍රමාණයක් රැස්කළ පිතිිකරුවා ලෙස යාපනය කණ්ඩායමේ අවිශ්ක ප්‍රනාන්දු ලකුණු 374ක් රැස්කරමින් ඉදිරියෙන් පසුවෙයි.
+
+වැඩිම කඩුලු ප්‍රමාණයක් දවා ගත් ක්‍රිඩකයා ලෙස කොළඹ කණ්ඩායමේ ෂාඩබ් ඛාන් ඉදිරියෙන් පසුවන්නේ කඩුලු 17ක් දවා ගනිමිනි.
+
+◼️
+
+[Data](articles/64840157.json)
+
+---
+
 ### The latest news about the relief
 
 *2024-07-21 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199039) · `si`
@@ -1714,6 +1744,20 @@ I  refrained for a long time  from writing about the impact of Black July on our
 
 ---
 
+### Republicans put on show of unity behind Trump after assassination attempt
+
+*2024-07-21 02:04:00* · [`islandlk`](http://island.lk/republicans-put-on-show-of-unity-behind-trump-after-assassination-attempt/) · `en`
+
+The Republican National Convention was held as scheduled from Monday, July 15, in spite of the assassination attempt of Donald Trump the previous Saturday, at a campaign rally in Butler, Pennsylvania. He escaped with minor injuries, but the iconic picture of Trump defiantly doing a fist pump, his bloody ear and face prominent with Old Glory fluttering in the background, conveyed an image that will go down in history – the courageous warrior, fighting for the country he loves, despite the excruciating pain he has suffered all his life with bone spurs.
+
+The shooter, a 20-year-old registered Republican, described as “a very quiet young white man” was a poor marksman. Two inches to the left would have changed the history of the most powerful nation in the world. As Senator Tim Scott said at the Convention, “On Saturday, the Devil came to Pennsylvania with a rifle, but OUR AMERICAN LION GOT UP AND ROOOOARED!
+
+...
+
+[Data](articles/65066ef1.json)
+
+---
+
 ### Failure to find a political solution is a bigger shame than Black July
 
 *2024-07-21 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84410) · `en`
@@ -2259,45 +2303,5 @@ The Bangladesh Women's Group was able to win the coin of the match and they deci
 [Data](articles/d8806418.json)
 
 [Extended Data](ext_articles/d8806418.ext.json)
-
----
-
-### Blades faced with blade at Matara Prison
-
-*2024-07-20 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199024) · `si`
-
-In Matara Prison, two inmates were injured in a blade fight.
-
-🟩
-
-In Matara Prison, another inmate was cut off from a blade with a blade.
-
-◼️
-
-[Data](articles/90fc273b.json)
-
-[Extended Data](ext_articles/90fc273b.ext.json)
-
----
-
-### Harin backs Sanath to instill discipline in Sri Lankan cricket team
-
-*2024-07-20 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100653/harin-backs-sanath-to-instill-discipline-in-sri-lankan-cricket-team) · `en`
-
-Minister of Sports Harin Fernando emphasized the need for modesty and discipline among national cricket players, suggesting that such behavior could mitigate the criticism they face after match losses.
-
-Speaking on the current state of the team, Minister Fernando highlighted certain deficiencies in the attitudes of modern players.
-
-Furthermore, he said: “If the team had been more humble and their attitudes had shifted, the people of Sri Lanka would not have been so critical of match losses. People have a deep love for cricket.”
-
-Meanwhile, Fernando pointed out that a new temporary coach has been appointed for the Sri Lankan team, claiming that the new coach has already implemented changes, including enforcing grooming standards such as haircuts.
-
-“According to what I heard, the first thing he did was to cut everyone’s hair...and remove their earrings…The coach has taken significant steps to instill discipline right from the start,” Fernando added.
-
-...
-
-[Data](articles/66b0797b.json)
-
-[Extended Data](ext_articles/66b0797b.ext.json)
 
 ---

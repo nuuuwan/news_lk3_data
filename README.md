@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 22:53:27**
+As of **2024-07-21 23:05:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,440 (100.0%) of 36,441 articles have been extended.
+36,441 (100.0%) of 36,441 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -376,19 +376,29 @@ Speaking at the event, Parliamentarian Rameshwaran added that he added.
 
 ---
 
-### කංජිපානිගේ ගෝලයන් තුනක් අල්ලයි
+### Three disciples arrested
 
 *2024-07-21 18:32:40* · [`adalk`](https://www.ada.lk/breaking_news/කංජිපානිගේ-ගෝලයන්-තුනක්-අල්ලයි/11-410894) · `si`
 
-විදේශගතව සැගව  සිටින සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම් කරුවෙකු වන කන්ජිපානි ඉම්රාන් යන අයගේ මෙරට මත්ද්‍රව්‍ය ජාවාරම් සිදුකරන බව පැවසෙන කාන්තාවක් හා පුද්ගලයන් දෙදෙනෙකු හෙරොයින් සහ අයිස් ග්‍රෑම් තිස් තුනක් සමග කාන්තාවක ඇතුළු තිදෙනකු අත්අඩංගුවට ගත් බව විශේෂ කාර්ය බලකාය පවසයි.
+In a major crackdown on drug trafficking, three individuals were arrested in Welisara by a team led by a female officer. The suspects, aged 28 and 26, were part of a larger operation involving 33 people. During their arrest, 10 grams of heroin, 47,000.00 in cash, and two mobile phones were seized. The suspects admitted to being part of a significant drug-dealing network. They are now in custody at the Great Resources and Ragama Police Stations, with ongoing investigations led by SSP Jayasunda Jayasundara and others.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වැලිසර ප්‍රදේශයේ පදිංචි (28) වැල්ලම්පිටිය, සේදවත්ත පදිංචි (26) හා (24)  කාන්තාවක බව පොලිසිය කියයි.)
+🟩
 
-විශේෂ කාර්ය බලකාය ගෝනහේන කඳවුරේ විශේෂ මෙහෙයුම් ඒකකයේ පොලිස් පරික්ෂක එස්.ඩි.පි.එන්. දේශප්‍රිය හා උප පොලිස් පරික්ෂක ආර්.පි.එස්.ටි. කාන්ත ඇතුළු නිලධාරීන් කණ්ඩායම් දෙකක් විසින් මහබාගේ පොලිස් වසමේ හා රාගම පොලිස් වසමේ සිදුකළ විශේෂ සෝදිසි  මෙහෙයුම් දෙකකදී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+A woman and two persons have been arrested by a woman and two of the ice with thirty-three persons, claiming that the country's drug trafficking was carried out abroad.
+
+The arrest was a resident of Welisara (28) and a resident of Welisara Resident (26) and 24) and (24).
+
+Special Task Force Police Inspector SDPN in the Gonahana Camp at Gonnahena. Deshapriya and Sub Inspector RPSty. The suspects were arrested on two special search operations carried out by two teams of women and other officers in the Ragama Police Division.
+
+There are 10 grams of heroin, a resident of Welisara, a resident of Welisara, a resident of Welisara.47,000.00 and two mobile phones were taken into police custody, a resident of the area was able to be taken into custody, 03 ml of ice.
+
+The arrested suspects have revealed that a large scaley drug dealer and organized criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal.
 
 ...
 
 [Data](articles/b6a4ee75.json)
+
+[Extended Data](ext_articles/b6a4ee75.ext.json)
 
 ---
 

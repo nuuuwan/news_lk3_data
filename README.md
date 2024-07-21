@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 15:05:19**
+As of **2024-07-21 15:20:15**
 
 ## Newspaper Stats
 
-*Scraped **36,386** Articles*
+*Scraped **36,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,279
-adaderanalk | 4,209
+adaderanalk | 4,210
 tamilmirrorlk | 4,433
 dailymirrorlk | 4,733
 virakesarilk | 5,690
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,383 (100.0%) of 36,386 articles have been extended.
+36,383 (100.0%) of 36,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### Bangladesh’s top court scales back ‘discriminatory’ job quota system after deadly protests
+
+*2024-07-21 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100668/bangladeshs-top-court-scales-back-discriminatory-job-quota-system-after-deadly-protests) · `en`
+
+Bangladesh’s top court on Sunday scaled back a controversial quota system for government job applicants after it led to nationwide unrest and deadly clashes between police and protesters that have killed scores of people.
+
+The Supreme Court in its verdict ordered 93% of the government jobs to be allocated on a merit-based system, leaving the remaining 7% for relatives of veterans who fought in Bangladesh’s war of independence in 1971 and other categories. Earlier, the system reserved 30% of such jobs to the relatives of war veterans.
+
+...
+
+[Data](articles/b01dfeb4.json)
+
+---
 
 ### ක්ලබ් වසන්ත ඝාතනය - අත්අඩංගුවට ගත් තරුණිය ගැන අධිකරණය දුන් නියෝගය
 
@@ -2287,25 +2301,5 @@ The car was completely on fire, but the car was completely on fire. Remble
 [Data](articles/ab0f1655.json)
 
 [Extended Data](ext_articles/ab0f1655.ext.json)
-
----
-
-### Notice to drivers from police
-
-*2024-07-20 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199023) · `si`
-
-Drivers: Avoid main roads tomorrow due to the Urawegoda Gangarama Viharaya procession in Ambalangoda. Use alternate routes to prevent traffic congestion.
-
-🟩
-
-The annual procession organized by the Urawegoda Gangarama Viharaya, Ambalangoda is scheduled to visit the streets tomorrow.
-
-As a result, the police are informed to use alternative routes to reduce possible traffic congestion.
-
-◼️
-
-[Data](articles/f2cde968.json)
-
-[Extended Data](ext_articles/f2cde968.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 20:20:25**
+As of **2024-07-21 20:35:32**
 
 ## Newspaper Stats
 
-*Scraped **36,429** Articles*
+*Scraped **36,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 3,286
 adaderanalk | 4,214
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
-virakesarilk | 5,704
+virakesarilk | 5,707
 adaderanasinhalalk | 6,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,429 (100.0%) of 36,429 articles have been extended.
+36,429 (100.0%) of 36,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### ஜனாதிபதி தேர்தலுக்கு முன்னர் சர்வஜன வாக்கெடுப்புக்கு இடமில்லை - ராேஹன ஹெட்டியாரச்சி
+
+*2024-07-21 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189034) · `ta`
+
+அரசியலமைப்பின் 22ஆம் திருத்தத்தை அரசாங்கம் வெளியிட்டுள்ளதைத் தொடர்ந்து ஜனாதிபதி தேர்தலுக்கு முன்னர் சர்வஜன வாக்கெடுப்பொன்றுக்கு செல்ல வேண்டிய நிலை ஏற்படுமா என்ற சந்தேகம் மக்கள் மத்தியில் ஏற்பட்டுள்ளது. என்றாலும் அரசியலமைப்பு திருத்தம் மூலம் ஜனாதிபதி தேர்தலை பிற்படுத்துவதற்கோ ஜனாதிபதி தேர்தலுக்கு முன்னர் சர்வஜன வாக்கெடுப்புக்கு செல்வதற்கோ எந்த இடமும் இல்லை என பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ராேஹன ஹெட்டிஆரச்சி தெரிவித்தார்.
+
+அரசியலமைப்பின் 22ஆம் திருத்தம் தொடர்பாக ஞாயிற்றுக்கிழமை (21) கொழும்பில் நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/aa972a17.json)
+
+---
+
+### ஆறு மாத காலப்பகுதியில் 129 பில்லியன் ரூபா  கடனை செலுத்தியுள்ளோம் - செஹான் சேமசிங்க
+
+*2024-07-21 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189033) · `ta`
+
+2024 ஆம் ஆண்டு முதல் ஆறு மாத காலப்பகுதியில் திறைசேரி உண்டியல்கள் மற்றும் பிணைமுறிகள் ஊடாக பெற்றுக் கொண்ட கடன் பெறுமதியை காட்டிலும் 129 பில்லியன் ரூபா கடன் மீள் செலுத்தப்பட்டுள்ளது என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க குறிப்பிட்டுள்ளார்.
+
+2024 ஆம் ஆண்டு முதல் ஆறு மாத காலப்பகுதியில் பிணைமுறிகள் மற்றும் பிணைமுறி உண்டியல்கள் ஊடாக பெற்றுக்கொண்ட மொத்த கடன் ,  4852 பில்லியன் ரூபாவாக காணப்படுகின்ற நிலையில் அக்காலப்பகுதியில் 4981 பில்லியன் ரூபா கடன் மீள் செலுத்தப்பட்டுள்ளது.பெற்றுக்கொண்ட கடன்களின் பெறுமதியை காட்டிலும் 129 பில்லியன் ரூபா பொருளாதார முன்னேற்றத்தின் ஊடாக மீள் செலுத்தப்பட்டுள்ளது.
+
+பொருளாதார பாதிப்புக்கு மத்தியில் அரச நிர்வாகத்தை முகாமைத்துவம் செய்துக் கொண்டு அரச முறை கடன்கள் கட்டம் கட்டமாக செலுத்தப்படுகிறது.பொருளாதார பாதிப்புக்கு முன்னர் மத்திய வங்கியின் ஊடாக தேவையான நாணயத்தை அச்சிடும் வசதி அரசாங்கத்துக்கு காணப்பட்டது.இதனால் பணவீக்கம் 70 சதவீதமாக உயர்வடைந்தது.
+
+...
+
+[Data](articles/c5524aff.json)
+
+---
+
+### கூட்டமைப்பை மீள் உருவாக்க வேண்டும் - கூட்டணியின் மாநாட்டில் சிறிதரன் அழைப்பு
+
+*2024-07-21 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/189032) · `ta`
+
+கூட்டமைப்பினை மீள உருவாக்க வேண்டும். அது தேர்தலுக்கான கூட்டமைப்பு என்பதைத் தாண்டி தேசத்துக்கான கூட்டமைப்பாக கட்டியெழுப்பப்பட வேண்டும், அதற்கு தமிழ்த் தேசியத் தலைவர்கள் ஒவ்வொருவரும் ஒத்துழைக்க வேண்டும் என சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
+
+தமிழ் மக்கள் கூட்டணியின் தேசிய மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே இவ்வாறு தெரிவித்தார்.
+
+கடந்த எட்டுத் தசாப்தங்களுக்கு மேலாக ஈழத்தமிழர்களின் சுதந்திரத்துக்காக, அவர்களின் இறையாண்மையை நிலை நிறுத்துவதற்காக, சிங்கள பௌத்த ஒடுக்குமுறை ஆட்சியாளர்களுக்கு எதிராக, இரத்தமும் சதையுமாக நடைபெற்று வருகின்ற போராட்ட வலியின் நீட்சியில் உருவான, ஈழத்தமிழர்களின் சுதந்திரத்திற்கான அரசியல் இயக்கங்களில் ஒன்றாகத் தன்னைக் கட்டமைத்துக் கொண்டுள்ளது தமிழ் மக்கள் கூட்டணி.
+
+ஈழத்தமிழினத்தின் இறையாண்மைக்கு நீதிவேண்டி நாங்கள் மேற்கொள்ளும் அறவழிப் போராட்டங்களையும், அபிலாசை வெளிப்பாடுகளையும் சிங்கள தேசம் எப்போது புரிந்துகொள்ளத் தலைப்படுகிறதோ, அப்போதுதான் அர்த்தம் மிகுந்த இலங்கையைக் கட்டியெழுப்ப முடியும்.
+
+...
+
+[Data](articles/f42434f7.json)
+
+---
 
 ### Jarffna Kings team
 
@@ -2249,93 +2297,5 @@ The spokesperson of the Trade and Commerce said that the sale of animals is also
 [Data](articles/f4ad649a.json)
 
 [Extended Data](ext_articles/f4ad649a.ext.json)
-
----
-
-### Opening of the University of Hezbollah
-
-*2024-07-21 07:40:48* · [`adalk`](https://www.ada.lk/breaking_news/හිස්බුල්ලා-හැදූ-සරසවිය-විවෘත-කරයි/11-410879) · `si`
-
-President Ranil Wickremesinghe inaugurated the University of Hezbollah, emphasizing the need to depoliticize Sri Lanka's university system and prioritize science and technology education. He highlighted the importance of universities contributing positively to society rather than focusing on profit. The president also mentioned the government's aim to enhance science and technology education across the country, comparing it to prestigious global institutions like the University of Oxford and Cambridge.
-
-🟩
-
-President Ranil Wickremesinghe said that the university system should be reconstructed to remove threat politics from the university system and should be reconciled to the university system.
-
-The President pointed out that the time has come to be converted without sabotaging in the country's schools and university system.
-
-President Ranil Wickremesinghe made this statement participating at the event of the Science and Technology University of Science and Technology, which was built in Poonani, Batticaloa.
-
-The President has assumbled the plaque and handed over to the students and the President has been a friendly conversation with the students.
-
-President Ranil Wickremesinghe took place before the university administration and the exchange of MoUs with higher education institutions in Sri Lanka.
-
-It was also launched a commemorative stamp in parallel to the best institute to the students.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/c6158f9a.json)
-
-[Extended Data](ext_articles/c6158f9a.ext.json)
-
----
-
-### Molasses are the finished to finish
-
-*2024-07-21 07:29:34* · [`adalk`](https://www.ada.lk/breaking_news/මොලපු-ඔයෙන්-නිමවූ-පෝදා-විනෝදය/11-410878) · `si`
-
-A 16-year-old boy drowned near the Thargamuwa Bridge while playing in the sea. Nine children from Elpitiya were affected during the Esala Perahera festival, with two rescued. The missing child remains unaccounted for as of today.
-
-🟩
-
-One child drowned in a diabetry while he was blowing into the sea near the Thargamuwa Bridge, Meetiyagoda Police said.
-
-According to police, Shamika Sudath Kumara, a resident of Elpitiya, Elpitiya, was 16 years old.
-
-Nine children who have come to the Esala Poyah have been diagnosed from Elpitiya, and two children have been rescued by the hospital, residents and residents of the area.
-
-Police say that the missing child cannot be found today (21), police said.
-
-◼️
-
-[Data](articles/f30a74ae.json)
-
-[Extended Data](ext_articles/f30a74ae.ext.json)
-
----
-
-### Fatal accidents that have been killed
-
-*2024-07-21 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199034) · `si`
-
-In the past 24 hours, two girls aged four and 11 were killed in separate road accidents across Sri Lanka. Other incidents included a fatal crash involving a three-wheeler and a fuel vessel, a tractor collision resulting in a driver's death upon arrival at Kekirawa hospital, and serious injuries leading to fatalities in Anuradhapura and Payagala.
-
-🟩
-
-Four-year-old girl and 11-year-old girl killed in road accidents during the past 24 hours.
-
-The accident had been reported yesterday with the lack of the incident yesterday, Medawachchiya, Kekirawa, Anuradhapura and Payagala.
-
-An 11-year-old girl was killed in a crash of a three-wheeler and fuel vessel near the 144 kilometer parking on the Medawachchiya Police Division.
-
-Meanwhile, a tractor vehicle collided with a tractor in the court junction on the court junction on the Ganeviwa area of ​​Kekirawa.
-
-The driver who was seriously injured in the accident died on admission to the Kekirawa hospital.
-
-Meanwhile, a lorry in the Anuradhapura - Rambewa road has been confronted with an accident.
-
-The man was seriously injured after the accident had died after hospitalization.
-
-The victim was a 65 year old resident of the Puliyankulama area.
-
-A motorbike has been confronted with a motorcycle to shift the road to Payagala Station on the Galle-Colombo route.
-
-...
-
-[Data](articles/6e700b45.json)
-
-[Extended Data](ext_articles/6e700b45.ext.json)
 
 ---

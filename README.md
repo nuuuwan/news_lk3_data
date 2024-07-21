@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 23:55:10**
+As of **2024-07-22 00:06:57**
 
 ## Newspaper Stats
 
-*Scraped **36,443** Articles*
+*Scraped **36,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,217
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,708
-adaderanasinhalalk | 6,118
+adaderanasinhalalk | 6,119
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,442 (100.0%) of 36,443 articles have been extended.
+36,443 (100.0%) of 36,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### වැඩි මතයට බයිඩන් හිස නමයි
+
+*2024-07-21 23:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199066) · `si`
+
+එළැඹෙන ජනාධිපතිවරණය ට තමා තරග නොකරන බව අමෙරිකානු ජනාධිපති ජෝ බයිඩන් පවසයි.
+
+තම පක්ෂයේ සහ රටේ.යහපත ගැන සිතා තමා එම තීරණය ගත් බව බයිඩන් පැවසීය.
+
+අමෙරිකානු ජනාධිපති වරයා සිය තීරණය නිවේදනය කර ඇත්තේ සිය සමාජ මාධ්‍ය ඔස්සේය.
+
+◼️
+
+[Data](articles/ea375ee6.json)
+
+---
 
 ### LPL championship in Jaffna
 
@@ -1200,6 +1216,8 @@ Coconut shells were 32,000 – 33,000 rupees per metric ton. (Colombo/July21/202
 
 [Data](articles/6bffad20.json)
 
+[Extended Data](ext_articles/6bffad20.ext.json)
+
 ---
 
 ### Traditional house fire
@@ -2277,39 +2295,5 @@ Shadb Khan, the largest number of wicket was aimed at 17 wickets.
 [Data](articles/64840157.json)
 
 [Extended Data](ext_articles/64840157.ext.json)
-
----
-
-### The latest news about the relief
-
-*2024-07-21 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199039) · `si`
-
-The Welfare Benefit Board has initiated a census for selecting 450,000 new recipients for financial aid. Following protests, the selection process includes reconsideration for previously excluded beneficiaries. The census has started, and the initial phase of relief, offering Rs. 5,000 monthly benefits across four categories, is underway. However, the aid for two categories, including transits and vulnerable groups, ends on December 31st. Beneficiaries expect updates post the completion of the second phase of the program.
-
-🟩
-
-The Welfare Benefit Board has applied for about 450,000 new candidates for the revenue welfare scheme.
-
-Accordingly, a committee will be selected by a committee after being carried out by its census.
-
-After considering the protests for selected beneficiaries, they will be selected if they have been removed.
-
-The Welfare Board (Welfare Benefits Board) stated that the census has already begun.
-
-It is reported that the first phase of the relief is being given to the first phase of the relief efforts.
-
-The benefit will be provided with the benefit of Rs. 5,000 per month for 4 categories.
-
-A monthly allowance of Rs.
-
-However, the disorder to the 2 categories of transit and vulnerable categories is due to end on December 31, and the total number of beneficiaries is already receiving allowances under the 2 categories.
-
-According to the welfare beneficiaries, the Welfare Board of Benefits will be updated in the first phase as soon as the second phase of the revenue is completed.
-
-◼️
-
-[Data](articles/29c17b3c.json)
-
-[Extended Data](ext_articles/29c17b3c.ext.json)
 
 ---

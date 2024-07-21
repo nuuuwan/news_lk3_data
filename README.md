@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 04:54:12**
+As of **2024-07-22 05:05:39**
 
 ## Newspaper Stats
 
-*Scraped **36,463** Articles*
+*Scraped **36,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,289
 adaderanalk | 4,218
-tamilmirrorlk | 4,443
+tamilmirrorlk | 4,445
 dailymirrorlk | 4,733
 virakesarilk | 5,713
 adaderanasinhalalk | 6,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,463 (100.0%) of 36,463 articles have been extended.
+36,463 (100.0%) of 36,465 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -147,6 +147,40 @@ Biden plans to serve out the remainder of his term in office, which ends at noon
 [Data](articles/00255bb3.json)
 
 [Extended Data](ext_articles/00255bb3.ext.json)
+
+---
+
+### ’தமிழ்த் தேசிய உணர்ச்சி என் மாணவனுக்கு இல்லை’
+
+*2024-07-22 00:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்த்-தேசிய-உணர்ச்சி-என்-மாணவனுக்கு-இல்லை/175-340796) · `ta`
+
+தமிழரசுக் கட்சியில் இருக்கிற என்னுடைய அருமை மாணவன் பலவிதமான தகைமைகளைக் கொண்டிருந்தாலும் தமிழ்த் தேசிய உணர்ச்சி அவருக்கு இல்லை. அவர் எல்லாவற்றையும் மூளையினால் பார்ப்பாரே ஒழிய உணர்வினாலோ உணர்ச்சியினாலோ பார்க்க கூடியவர் அல்லர் என தமிழ் மக்கள் கூட்டணியின் செயலாளர் நாயகமும் பாராளுமன்ற உறுப்பினருமான சி.வி.விக்கினேஸ்வரன் தெரிவித்தார்.
+
+தமிழ் மக்கள் கூட்டணியின் தேசிய மகாநாட்டிற்கு தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் சிறிதரனை அழைத்திருக்கிற நிலைமையில் எதிர்காலத்தில் அவருடன் சேர்ந்து பயணிப்பதற்கு சாத்தியங்கள் இருக்கிறதா என ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே விக்கினேஸ்வரன் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+யாழில் சனிக்கிழமை(20 ) நடைபெற்ற ஊடக சந்திப்பின் போது அவர் மேலும் தெரிவித்ததாவது..
+
+தமிழ்தேசிய கட்சிகள் என்ற முறையிலும் தமிழ்த் தேசிய உணர்வுகளை கொண்டவர்கள் என்ற முறையிலும் எங்களுக்கும் சிறிதரனுக்கும் இடையில் நெருங்கிய தொடர்பு இருக்கின்றது.
+
+...
+
+[Data](articles/c9b82592.json)
+
+---
+
+### ’24க்கு  24 சமுதாய பல்கலைக்கழகங்கள்’
+
+*2024-07-22 00:08:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24க்கு-24-சமுதாய-பல்கலைக்கழகங்கள்/175-340795) · `ta`
+
+அறிவை மையமாகக் கொண்ட பொருளாதாரத்தை கட்டியெழுப்ப, கற்றோர் நிறைந்த புத்திஜீவிகள் சமூகத்தை எமது உருவாக்க வேண்டிய தேவை காணப்படுகிறது. இதற்கு எமது நாட்டில் 24 மாவட்டங்களிலும் 24 திறந்த சமுதாய பல்கலைக்கழகங்களை ஆரம்பிக்க வேண்டும். இலங்கையில் ஏற்கெனவே திறந்த பல்கலைக்கழகங்கள் அமைந்து காணப்படுகின்றன என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+இதில் ஒரு மாணவராக, திறந்த சமுதாய பல்கலைக்கழகங்களை மாவட்ட மட்டங்களில் நிறுவி, உயர் கல்விக்கான பிரவேசத்தை அதிகரிக்க வேண்டும் என கருதுகிறேன். இதன் காரணமாக கற்றறிந்த புத்திஜீவிகள் சமூகத்தில் அதிகரிக்கும் வாய்ப்பு ஏற்படும் என்றும் தெரிவித்துள்ளார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ்,  கண்டி, உடுநுவர, தவுல்கல, வெலிகல்ல உடு அலுதெனிய மகா வித்தியாலயத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூலை 21 ஆம் திகதி இடம்பெற்றது. இந்நிகழ்வில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/3114ee7e.json)
 
 ---
 
@@ -2239,59 +2273,5 @@ By the time I was accepting the country two years ago, the country was in a numb
 [Data](articles/6b576346.json)
 
 [Extended Data](ext_articles/6b576346.ext.json)
-
----
-
-### Former Minister Ozzy Abeygunasekera's son arrested
-
-*2024-07-21 11:20:29* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍ය-ඔසි-අබේගුණසේකරගේ-පුතා-අල්ලයි/11-410887) · `si`
-
-Ozzy Abeygunasekera's son, a former Defense Ministry official, was arrested by Immigration and Emigration Officers upon his return to Sri Lanka from Qatar. The arrest came after a flight ban issued by the Department of Inland Revenue. He was later taken to the Katunayake airport police station before being transferred to the Colombo Magistrate Court.
-
-🟩
-
-Immigration of Immigration and Emigration Officers arrested by the Colombo Magistrate's Court on a flight ban on the flights issued by the Department of Inland Revenue.Have been given.
-
-He is said to be a Director General of former Defense Ministry, a resident of the Gunawala, Koholka Lake Road.
-
-A ban was imposed by the Department of Inland Revenue
-
-From Doha at 03:19 pm Dhoha, Qatar, Qatar, quarters from Doha, was arrested by the Immigration and Emigration Officers while he was coming to the Katunayake airport.
-
-Later, Abeyankarasekara had taken Abeygunasekara at Katunayake airport police officers to the immigration ceremony at around 5 am2 days.
-
-A group of lawyers have arrived at the Katunayake airport police, the OIC Chief Inspector of the Katunayake Airport Police said that he will be handed over to the Colombo Magistrate Court.
-
-◼️
-
-[Data](articles/62bff2cc.json)
-
-[Extended Data](ext_articles/62bff2cc.ext.json)
-
----
-
-### Presidential Election: Voting on September 21?
-
-*2024-07-21 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188988) · `ta`
-
-The Sunday Times reported that the presidential election might be held between September 21 and October 12, based on statements from the Election Commission and Commissioner General of Elections Saman Sri Ratnayake. The latter expressed concern over potential interference in the electoral process.
-
-🟩
-
-The Sunday Times said the presidential election would be held on September 21.
-
-The Election Commission sources said that the presidential elections for the presidential election will be accepted in the mid -August of August.
-
-The Sunday Times reports that the presidential election may be held from October 5 to 12, but the elections are likely to be held in September.
-
-The Sunday Times said that the election date was announced within 16 to 21 days, and that the election should be given to the Election Commission for 63 days to hold elections within 28 to 42 days.
-
-Meanwhile, the Commissioner General of Elections Saman Sri Ratnayake said that this could be seen as an interference in the election process.
-
-◼️
-
-[Data](articles/57f56e39.json)
-
-[Extended Data](ext_articles/57f56e39.ext.json)
 
 ---

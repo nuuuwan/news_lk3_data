@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 10:06:36**
+As of **2024-07-21 10:20:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,092
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,329 (100.0%) of 36,332 articles have been extended.
+36,332 (100.0%) of 36,332 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 ◼️
 
 [Data](articles/e7a1074f.json)
+
+[Extended Data](ext_articles/e7a1074f.ext.json)
 
 ---
 
@@ -202,25 +204,33 @@ The spokesperson of the Trade and Commerce said that the sale of animals is also
 
 ---
 
-### හිස්බුල්ලා හැදූ සරසවිය විවෘත කරයි
+### Opening of the University of Hezbollah
 
 *2024-07-21 07:40:48* · [`adalk`](https://www.ada.lk/breaking_news/හිස්බුල්ලා-හැදූ-සරසවිය-විවෘත-කරයි/11-410879) · `si`
 
-විශ්වවිද්‍යාල පද්ධතියෙන් තර්ජනකාරී දේශපාලනය ඉවත් කළ යුතු බවත් දරුවන් නිදහසේ අධ්‍යාපන කටයුතු සිදු කිරීමට නම් විශ්වවිද්‍යාල පද්ධතිය ප්‍රතිසංධාන කළ යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe inaugurated the University of Hezbollah, emphasizing the need to depoliticize Sri Lanka's university system and prioritize science and technology education. He highlighted the importance of universities contributing positively to society rather than focusing on profit. The president also mentioned the government's aim to enhance science and technology education across the country, comparing it to prestigious global institutions like the University of Oxford and Cambridge.
 
-මෙරට පාසල් සහ විශ්වවිද්‍යාල පද්ධතිය කඩාකප්පල් නොකර විධිමත් අධ්‍යාපන ආයතන බවට පත් කළ යුතු කාලය එළඹ තිබෙන බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මඩකලපුව, පූනානි ප්‍රදේශයේ ඉදිකරන ලද විද්‍යා හා තාක්ෂණ විශ්වවිද්‍යාලය සිසු අයිතියට පත් කිරීම වෙනුවෙන් අද (20) පැවති උත්සවයට එක්වෙමිනි.
+President Ranil Wickremesinghe said that the university system should be reconstructed to remove threat politics from the university system and should be reconciled to the university system.
 
-සමරු ඵලකය නිරාවරණය කර විද්‍යා හා තාක්ෂණ විශ්වවිද්‍යාලය සිසු අයිතියට පවරා දුන් ජනාධිපතිවරයා එහි නිරීක්ෂණ චාරිකාවක නිරත වෙමින් සිසු සිසුවියන් සමඟ සුහද කතාබහක ද නිරත විය.
+The President pointed out that the time has come to be converted without sabotaging in the country's schools and university system.
 
-මෙහිදී විශ්වවිද්‍යාලයීය පාලනාධිකාරිය සහ මෙරට උසස් අධ්‍යාපන ආයතන සමඟ අවබෝධතා ගිවිසුම් හුවමාරු කර ගැනීම ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ සිදු කෙරිණි.
+President Ranil Wickremesinghe made this statement participating at the event of the Science and Technology University of Science and Technology, which was built in Poonani, Batticaloa.
 
-එසේම විද්‍යා හා තාක්ෂණ විශ්වවිද්‍යාලය සිසු අයිතියට පත් කිරීමට සමගාමීව සමරු මුද්දරයක් එළිදැක්වීමද සිදු කෙරිණි.
+The President has assumbled the plaque and handed over to the students and the President has been a friendly conversation with the students.
+
+President Ranil Wickremesinghe took place before the university administration and the exchange of MoUs with higher education institutions in Sri Lanka.
+
+It was also launched a commemorative stamp in parallel to the best institute to the students.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/c6158f9a.json)
+
+[Extended Data](ext_articles/c6158f9a.ext.json)
 
 ---
 
@@ -433,6 +443,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/a0c50b6e.json)
+
+[Extended Data](ext_articles/a0c50b6e.ext.json)
 
 ---
 

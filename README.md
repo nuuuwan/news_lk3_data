@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 22:09:27**
+As of **2024-07-21 22:20:18**
 
 ## Newspaper Stats
 
-*Scraped **36,438** Articles*
+*Scraped **36,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 2,075
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,288
-adaderanalk | 4,216
+adaderanalk | 4,217
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,708
-adaderanasinhalalk | 6,116
+adaderanasinhalalk | 6,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,435 (100.0%) of 36,438 articles have been extended.
+36,438 (100.0%) of 36,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### Israel shoots down missile fired from Yemen after striking Houthis
+
+*2024-07-21 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100677/israel-shoots-down-missile-fired-from-yemen-after-striking-houthis) · `en`
+
+Israel said it shot down a missile launched from Yemen on Sunday and the Yemeni Houthi movement said it had fired several missiles at the Israeli city of Eilat after Israel’s first public strike against the Iran-aligned group a day earlier.
+
+The Houthis have launched missiles and drones at Israel and disrupted global trade through the Red Sea in response to Israel’s assault on Gaza, further destabilising the Middle East as war in the Palestinian enclave rages on after nine months.
+
+Israel says the Houthis have launched 200 attacks against it since the Gaza war began, many of them intercepted and most of them not deadly.
+
+But a rare Houthi drone strike on Friday hit Tel Aviv and killed one person, prompting Israel to announce its first strikes against the group on Saturday. The strikes by warplanes hit near the Yemeni port of Hodeidah and killed six people, local medics said.
+
+The Houthi movement, known formally as Ansar Allah, said on Sunday it would continue to attack Israel in response.
+
+...
+
+[Data](articles/3caf7011.json)
+
+---
+
+### රටේ න්‍යාය පත්‍රය අනුව දේශපාලනය සකස් විය යුතුයි - ජනපති
+
+*2024-07-21 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199064) · `si`
+
+රටේ අනාගතය දේශපාලන න්‍යාය පත්‍ර අනුව සකස් කිරීමට තමා කිසිම ඉඩක් නොතබන බවත්, රටේ න්‍යාය පත්‍රය අනුව දේශපාලනය සකස් විය යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  අවධාරණය කරයි.
+
+එම ගමනට එක්වන ලෙස තමා සජිත් ප්‍රේමදාස මහතාට සහ අනුර කුමාර දිසානායක මහතාට ආරාධනා කරන බවද ජනාධිපතිවරයා පැවසීය.
+
+ඔහු මේ බව පැවසුවේ කඩවත බස් නැවතුම්පොළ අසලදී අද (21) පස්වරුවේ පැවති “එක්ව ජය ගමු – අපි ගම්පහ” ජන රැලිය අමතමිනි.
+
+"තරුණයන්ට හොඳ අනාගතයක් ගොඩනඟා දීම වෙනුවෙන් අපි මෙම විප්ලවය ගෙන යනවා. මෙය ඔබ වෙනුවෙන් ගෙන යන විප්ලවයක් බව කිවයුතුයි. එය ඉදිරියට ගෙන යා යුතුයි. අපි ඒ වෙනුවෙන් ආර්ථික පරිවර්තන නීතිය පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙනවා. තව වසර 20කින් අපේ දළ දේශීය නිෂ්පාදන පස් ගුණයකින් වැඩි කර ගැනීමට සැලසුම් කර තිබෙනවා. දැනටමත් අධ්‍යාපනයේ පුළුල් නවීකරණයක් ක්‍රියාත්මක කර තිබෙනවා. වෘත්තීය අධ්‍යාපන ප්‍රතිසංස්කරණය කරන අතරම විශ්වවිද්‍යාල ඇති කර රටම ඩිජිටල්කරණයට ලක් කරනවා.
+
+...
+
+[Data](articles/13d72862.json)
+
+---
 
 ### Teachers and principals to launch ‘work-to-rule’ campaign from tomorrow
 
@@ -48,23 +86,31 @@ However, the trade unions led by Ven. Ulapane Sumangala Thero have refused to pa
 
 [Data](articles/bbcba4c0.json)
 
+[Extended Data](ext_articles/bbcba4c0.ext.json)
+
 ---
 
-### යාපනය ට ලැබුණු ඉලක්කය
+### Target received at Jaffna
 
 *2024-07-21 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199063) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ අවසන් තරගය මේ වනවිට ගෝල් මාර්වල්ස් කණ්ඩායම සහ ජැෆ්නා කිංග්ස් කණ්ඩායම අතර කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+In the Lanka Premier League finals, Gawle Marvels face Jire Kings at Colombomarama International Stadium. Batting first, the village made 184/6 in 6 overs, led by Bhanuka Rajapaksa's 82 off 34 balls. Jire Kings chose to field after winning the toss.
 
-එහිදී පළමුවෙන් පන්දුවට පහරදුන් ගෝල් කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 184ක් ලබාගත්තේය.
+🟩
 
-එම කණ්ඩායම වෙනුවෙන භානුක රාජපක්ෂ පන්දු 34කදී ලකුණු 82ක් රැස්කළේය.
+The final match of the Lanka Premier League will be held between the Gawle Marvels and Jire Kings team at the Colombomarama International Stadium in Colombo.
 
-කාසියේ වාසිය දිනූ ජැෆ්නා කිංග්ස් කණ්ඩාය තීරණය කළේ පළමුවෙන් පන්දු රැකීමටය.
+Batting first, the village scored 184 runs for the loss of 6 wickets in the loss of 6 overs.
+
+Bhanuka Rajapaksa scored 82 runs off 34 balls.
+
+Jatna Kings, won the toss and the team, decided to bowl first.
 
 ◼️
 
 [Data](articles/cc2a9fa9.json)
+
+[Extended Data](ext_articles/cc2a9fa9.ext.json)
 
 ---
 
@@ -558,19 +604,25 @@ Hettiarachchi said the government, which has avoided the local government electi
 
 ---
 
-### මහනුවර කතරගම දේවාලයේ ප්‍රධාන කපුමහතාගේ පාරම්පරික නිවසේ ගින්නක්
+### Fire at the traditional house of the mainstream of Kataragama Devalaya in Kandy
 
 *2024-07-21 18:11:52* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-කතරගම-දේවාලයේ-ප්‍රධාන-කපුමහතාගේ-පාරම්පරික-නිවසේ-ගින්නක්/11-410893) · `si`
 
-මහනුවර ඓතිහාසික ශ්‍රී කතරගම දේවාල පරිශ්‍රයේ පිහිටි එහි ප්‍රධාන කපු මහතා ජීවත්වන පාරම්පරික නිවසේ ඉහළ මහලේ ඇතිවූ ගින්නක් හේතුවෙන් එම මහල සම්පූර්ණයෙන් ගින්නෙන් විනාශ වී ඇති බව මහනුවර මූලස්ථාන පොලිසිය කියයි .
+A major fire broke out at the traditional house of the Kataragama Devalaya in Kandy, destroying the main cotton building. The blaze started around 2:30 am on 21st and caused significant damage. Firefighters, police, and locals worked together to extinguish it.
 
-අද (21) අලුයම2.30 ට පමණ ඇතිවී තිබෙන මෙම ගින්නෙන් වසර 150කටත් වඩා පැරිණි එම ගොඩනැගිල්ලට බරපතල ලෙස හානි සිදුවී ඇති බව වාර්තාවේ .
+🟩
 
-මහනුවර නාගරික ගිනි නිවන ඒකකය, පොලිසිය සහ ජනතාව එක්ව ගින්න ව්‍යාප්ත වීමට ඉඩ නොදී එය නිවා දැමීමට පියවර ගෙන තිබුණි .
+Kandy headquarters says that the main fire has been destroyed due to a fire at the high-floor of the traditional house where the main cotton was living in the historic Sri Kataragama Devalaya in Kandy.
+
+It is reported that the fire has been severely damaged in the construction of the fire at 2.30 am today (21).
+
+The Kandy Municipal Fire Brigade, the police and the masses, had taken steps to turn off the fire.
 
 ◼️
 
 [Data](articles/3a1936b3.json)
+
+[Extended Data](ext_articles/3a1936b3.ext.json)
 
 ---
 
@@ -2245,51 +2297,5 @@ The victim was a group of residents of the area in Araywa, a pilgrimage to a pil
 [Data](articles/ca1ac7f1.json)
 
 [Extended Data](ext_articles/ca1ac7f1.ext.json)
-
----
-
-### Vietnam mourns Communist Party chief Nguyen Phu Trong
-
-*2024-07-21 08:51:00* · [`economynextcom`](https://economynext.com/vietnam-mourns-communist-party-chief-nguyen-phu-trong-173087/) · `en`
-
-ECONOMYNEXT – Vietnam has declared three days mourning and conferred the highest honor of the nation on late General Secretary of the Communist Party, Nguyen Phu Trong who passed away at the age of 80.
-
-The Party leader “breathed his last at 1:38pm on July 19” at the Central Military Hospital 108 in Hanoi, “despite wholehearted treatment and care from the Party, State, leading medical experts and his family, due to old age and severe illness,” a government statement said.
-
-A day earlier, the Politburo awarded a Gold Star Order, the highest honor of the state given to “individuals with great and exceptionally outstanding contributions to the revolutionary cause of the Party and the nation.”
-
-The post of General Secretary of the Party is widely considered to the be most powerful in the country.
-
-Recently appointed President To Lam was appointed to oversee the work of the General Secretary.
-
-...
-
-[Data](articles/3ef04641.json)
-
-[Extended Data](ext_articles/3ef04641.ext.json)
-
----
-
-### Port Access Express vested with the public in October
-
-*2024-07-21 08:43:28* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-පිවිසුම්-අධිවේගය-ඔක්තෝබරයේදී-ජනතා-අයිතියට/11-410883) · `si`
-
-The Port Access Expressway, opening to the public in October, offers a new technical experience, enhancing connectivity across Sri Lanka. Initiated by the Ministry of Transport and Highways, it aims to ease container transport from the Colombo port and improve national accessibility. This project, involving Chinese civil engineers, marks the introduction of novel technology in Sri Lanka, creating numerous local job opportunities despite economic challenges posed by COVID-19 and the economic crisis.
-
-🟩
-
-Minister of Transport and Highways Dr. Bandula Gunawardena says that arrangements have been made to enjoy the new technical experience for the public to experience the new technical experience in the Port Access Expressway.
-
-The Minister made this statement participating at the concessionary tour of the port login expressway.
-
-Cinnamon Lakecide, a workshop for schoolchildren, university students, professionals and publications to educate the project, including the new technology of the port project.All arrangements have been prepared to hold at the hotel.
-
-The port login expressway, which was opened on September 27, 2019, is 5.3 kilometers long, and is to be handed over to the public by October 27 this year.
-
-...
-
-[Data](articles/0e18e5bd.json)
-
-[Extended Data](ext_articles/0e18e5bd.ext.json)
 
 ---

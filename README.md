@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 19:20:17**
+As of **2024-07-21 19:35:28**
 
 ## Newspaper Stats
 
-*Scraped **36,424** Articles*
+*Scraped **36,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,075
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,283
+adalk | 3,285
 adaderanalk | 4,214
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,423 (100.0%) of 36,424 articles have been extended.
+36,423 (100.0%) of 36,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### පොහොට්ටුවේ මැති ඇමතිවරු 26ක් කඩවත ජනපතිගේ ජයගමු රැළියට එක්වෙති
+
+*2024-07-21 19:04:41* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මැති-ඇමතිවරු-26ක්-කඩවත-ජනපතිගේ-ජයගමු-රැළියට-එක්වෙති/11-410896) · `si`
+
+ඉදිරි ජනාධිපතිවරණයට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් විය යුතු බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක්විය යුතු බවට   කඩවත බස් නැවතුම්පොළ අසළදී අද (21) පස්වරුවේ පැවති “එක්ව ජය ගමු – අපි ගම්පහ” ජන රැළියේදී අමාත්‍ය ප්‍රසන්න රණතුංග මහතා කළ යෝජනාව ගම්පහ දිස්ත්‍රික් ජනතාව ඒකමතිකව සම්මත කළ බව ජනපති මාධ්‍ය අංශය ප්‍රකාශ කරයි.
+
+එසේම මෙම රැළිය සඳහා පොහොට්ටුවේ මැති ඇමතිවරු 26ක් සමඟ ගම්පහ පළාත් පාලන නියෝජිතයන් 250කට වැඩි පිරිසක් ජනපතිගේ සහායට එක් වූ බවද ජනපති මාධය අංශය පවසයි.
+
+◼️
+
+[Data](articles/b8efb465.json)
+
+---
 
 ### Former INSS Director Asanka Abeygunasekara granted bail
 
@@ -465,6 +479,24 @@ There are also doubts about whether President Ranil is using a young minister wi
 [Data](articles/77d31a79.json)
 
 [Extended Data](ext_articles/77d31a79.ext.json)
+
+---
+
+### විගමනික ශ්‍රමිකයන්ට ස්වයං රැකියා ඇරඹීමට රු. 50 000ක්
+
+*2024-07-21 16:57:32* · [`adalk`](https://www.ada.lk/breaking_news/විගමනික-ශ්‍රමිකයන්ට-ස්වයං-රැකියා-ඇරඹීමට-රු--50-000ක්/11-410889) · `si`
+
+විදේශගත ශ්‍රමිකයන් සිය සේවා කාලය අවසන් කර නැවත රටට පැමිණි පසු ඔවුන්ට අභිමානයෙන් ජීවත්විය හැකි පරිසරයක් ගොඩනඟා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+පසුගිය ආර්ථික අර්බුදය හමුවේ රටට විදේශ විනිමය උපයා දෙමින් ඔවුන් ලබා දුන් දායකත්වයට ස්තූතිය පිරිනැමූ ජනාධිපතිවරයා රටේ ආර්ථිකය ඉදිරියට ගෙන යාමට එය මහත් ශක්තියත් වූ බවද ප්‍රකාශ කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (21) පෙරවරුවේ කුරුණෑගල සත්‍යවාදී පිටියේදී පැවැත්වුණු “විගමනික හරසර” වැඩසටහනේ සමාරම්භක අවස්ථාවට එක් වෙමිනි.
+
+විගමනික ශ්‍රමිකයන් ශ්‍රි ලංකා ආර්ථිකයට ලබා දෙන දායකත්වය ඇඟයිම සඳහා දීප ව්‍යාප්තව සංවිධානය කර ඇති “විගමනික හරසර” වැඩසටහන මෙලෙස වයඹ පළාතින් ආරම්භ කෙරුණු අතර කුරුණෑගල, පුත්තලම අනුරාධපුරය, මාතලේ හා කෑගල්ල දිස්ත්‍රික්කවල විගමනික ක්‍රමයකින් 5000ක් පමණ ඊට එක්ව සිටියහ.
+
+...
+
+[Data](articles/b1989618.json)
 
 ---
 
@@ -2271,53 +2303,5 @@ From time to time in the rest of the island.. The Department of Meteorology anno
 [Data](articles/6b9f1f50.json)
 
 [Extended Data](ext_articles/6b9f1f50.ext.json)
-
----
-
-### The new legislation to handle bankrupt trade
-
-*2024-07-21 06:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்குரோத்தான-வர்த்தகங்களைக்-கையாள-புதிய-சட்ட-மூலம்/175-340734) · `ta`
-
-President Wickremesinghe announced plans to introduce a new bankruptcy law to replace the temporarily suspended Paratete law, aiming to support micro, small, and medium enterprises in Sri Lanka. The initiative is part of broader economic recovery efforts, including modernizing rural areas to boost local economies and increase financial inclusion among villagers.
-
-🟩
-
-President Ranil Wickremesinghe has said that a new Bill will be brought in to handle the bankrupt trade, so that the temporary suspended Paratete law cannot continue.
-
-The President said this while participating in the program of redemption of the economy with the energy of micro, small and medium enterprises in Sri Lanka, organized by the Bandaranaike Memorial International Conference Hall yesterday.
-
-Sasika de Silva, president of the Sri Lanka Micro, Small and Medium Entrepreneurs Federation, presented a special souvenir.
-
-...
-
-[Data](articles/b965aee7.json)
-
-[Extended Data](ext_articles/b965aee7.ext.json)
-
----
-
-### Reorganization of the University system
-
-*2024-07-21 05:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-முறைமையை-மறுசீரமைக்க-வேண்டும்/175-340733) · `ta`
-
-President Wickremesinghe emphasized the need for restructuring the university system to ensure freedom in education during the handover of the International Science and Technology University to students in Batticaloa. He also participated in a MoU exchange with university administration and higher education institutions in Sri Lanka, highlighting his commitment to improving the educational landscape.
-
-🟩
-
-President Ranil Wickremesinghe said that the threat should be eliminated within the university structure and that the university system should be restructured if students are free to educate.
-
-The President made these comments while officially handing over the International Science and Technology University to the students of Poonana in Batticaloa yesterday.
-
-The President, who had university the nameplate and handed over the university to the students, visited it and spoke with the students.
-
-Meanwhile, Memorandum of Understanding with University Administration and Higher Education Institutions in Sri Lanka was exchanged in the presence of President Ranil Wickremesinghe.
-
-In addition, a memorial stamp was published in the event of handing over students to the University of Science and Technology. (A)
-
-◼️
-
-[Data](articles/f382a4b0.json)
-
-[Extended Data](ext_articles/f382a4b0.ext.json)
 
 ---

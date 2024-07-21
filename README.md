@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 07:19:42**
+As of **2024-07-21 07:50:26**
 
 ## Newspaper Stats
 
-*Scraped **36,305** Articles*
+*Scraped **36,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ dbsjeyarajcom | 319
 colombotelegraphcom | 338
 bbccomsinhala | 355
 newsfirstlk | 363
-islandlk | 2,060
+islandlk | 2,072
 economynextcom | 2,169
 dailyftlk | 2,314
-adalk | 3,271
+adalk | 3,272
 adaderanalk | 4,198
-tamilmirrorlk | 4,420
+tamilmirrorlk | 4,422
 dailymirrorlk | 4,733
 virakesarilk | 5,679
 adaderanasinhalalk | 6,086
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,305 (100.0%) of 36,305 articles have been extended.
+36,305 (100.0%) of 36,320 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,118 @@ From time to time in the rest of the island.. The Department of Meteorology anno
 [Data](articles/6b9f1f50.json)
 
 [Extended Data](ext_articles/6b9f1f50.ext.json)
+
+---
+
+### ’வங்குரோத்தான வர்த்தகங்களைக் கையாள புதிய சட்ட மூலம்’
+
+*2024-07-21 06:00:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்குரோத்தான-வர்த்தகங்களைக்-கையாள-புதிய-சட்ட-மூலம்/175-340734) · `ta`
+
+தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ள பராட்டே சட்டத்தைத் தொடர்ந்தும் நீண்ட காலத்திற்குப் பேண முடியாது எனவும் எனவே வங்குரோத்தான வர்த்தகங்களை கையாள புதிய சட்டமூலமொன்று கொண்டுவரப்படும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+இலங்கை நுண், சிறு, நடுத்தர நிறுவனங்களின் கூட்டமைப்பினால் நேற்று முன்தினம் பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஏற்பாடு செய்யப்பட்டிருந்த ‘இலங்கையில் உள்ள நுண், சிறு, நடுத்தர நிறுவனங்களின் ஆற்றலுடன் பொருளாதாரத்தை மீட்டெடுக்கும் தீர்மானமிக்க முயற்சி’ என்ற வேலைத் திட்டத்தில் கலந்துகொண்ட போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+
+இதன்போது, இலங்கை நுண், சிறு, நடுத்தர தொழில் முனைவோர் சம்மேளனத்தின் தலைவர் சசிகா டி சில்வா ஜனாதிபதிக்கு விசேட நினைவுப் பரிசு ஒன்றையும் வழங்கினார்.
+
+...
+
+[Data](articles/b965aee7.json)
+
+---
+
+### ’பல்கலை முறைமையை மறுசீரமைக்க வேண்டும்’
+
+*2024-07-21 05:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-முறைமையை-மறுசீரமைக்க-வேண்டும்/175-340733) · `ta`
+
+பல்கலைக்கழகக் கட்டமைப்பிற்குள் அச்சுறுத்தல் அரசியலை இல்லாதொழிக்க வேண்டும் எனவும் மாணவர்கள் சுதந்திரமாக கல்வி கற்க வேண்டுமானால் பல்கலைக்கழக முறைமையை மறுசீரமைக்க வேண்டும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+மட்டக்களப்பு பூனானையில் நிர்மாணிக்கப்பட்டுள்ள சர்வதேச விஞ்ஞான மற்றும் தொழில்நுட்பப் பல்கலைக்கழகத்தை நேற்று  மாணவர்களிடம் உத்தியோகபூர்வமாக கையளித்த பின்னர் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+பெயர்ப் பலகையை திரைநீக்கம் செய்து பல்கலைக்கழகத்தை மாணவர்களிடம் கையளித்த ஜனாதிபதி, அதனைப் பார்வையிட்டதுடன், மாணவர்களுடன் சிநேகபூர்வமாக உரையாடினார்.
+
+இதன்போது, பல்கலைக்கழக நிர்வாகம் மற்றும் இலங்கையிலுள்ள உயர்கல்வி நிறுவனங்களுடனான புரிந்துணர்வு ஒப்பந்தங்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பரிமாறிக்கொள்ளப்பட்டன.
+
+மேலும், விஞ்ஞான மற்றும் தொழில்நுட்பப் பல்கலைக்கழகத்தை மாணவர்களுக்கு கையளிக்கும் நிகழ்வையொட்டி நினைவு முத்திரை ஒன்றும் வெளியிடப்பட்டது. (a)
+
+◼️
+
+[Data](articles/f382a4b0.json)
+
+---
+
+### Sales Capital and Prudentia Infinity unveil their modern office in Colombo 05
+
+*2024-07-21 04:07:00* · [`islandlk`](http://island.lk/sales-capital-and-prudentia-infinity-unveil-their-modern-office-in-colombo-05/) · `en`
+
+Sales Capital and Prudentia Infinity have recently unveiled their new state-of-the-art office in Colombo 05. The office is equipped with modern amenities aimed at boosting efficiency, fostering creativity, and encouraging collaboration among team members.
+
+Over the past five years, Sales Capital has partnered with more than 90 prestigious brands across 12 industry verticals in nine countries, significantly enhancing brand visibility and driving substantial sales for its clients.
+
+Milinda Mendis, Co-Founder and Director of Sales Capital, expressed enthusiasm about the new office, calling it a pivotal milestone in their journey. He emphasized that the expansion underscores their ongoing growth and commitment to delivering exceptional services.
+
+Roshan Bamberadeniya, Co-Founder and CEO of Sales Capital expressed gratitude to clients and partners for their trust and support, which he said had been crucial to their success.
+
+...
+
+[Data](articles/17d5d8ff.json)
+
+---
+
+### How Tikiri ducked a match-making attempt
+
+*2024-07-21 00:51:00* · [`islandlk`](http://island.lk/how-tikiri-ducked-a-match-making-attempt/) · `en`
+
+As far back as the early As far back as the early 1950’s, I was boarded at an exclusive and expensive boarding house at Karlsruhe Gardens, Borella, where all facilities were provided – attached bathroom, wardrobe, tables etc for two occupants. My roommate was Tikiri Ekneligoda, a good looking Kandyan of my age, belonging to the Kandyan aristocracy. One day he told me that his father wanted to meet his roommate.
+
+On a Saturday morning weeks later, his father appeared, He was an imposing figure, sporting a Kaiser mustache and during our conversation he inquired from where I hailed and also my name. I said that I am from a village upcountry, called Karahandungala, near Nawalapitiya and my name was Sirimal. On hearing this his facial expression changed and I knew he had heard a name sounding like ‘Sirimala’ identified with a low caste.
+
+...
+
+[Data](articles/4f250661.json)
+
+---
+
+### Merrill J. Fernando:A Friendship Remembered
+
+*2024-07-21 00:51:00* · [`islandlk`](http://island.lk/merrill-j-fernandoa-friendship-remembered/) · `en`
+
+Speech made at an event marking the first anniversary of the passing of Mr. Merrill. J. Fernando on July 17
+
+My earliest recollections of Merrill are of his consulting me at the Ratnam Private Hospital when I was a young and energetic surgeon. Although he consulted doctors in Singapore, UK and Australia, he always came back to me for a second opinion. Our friendship grew with mutual admiration for each other’s work.
+
+I did not realize that he had another doctor at home until one day he called me to say that one of his sons has read on the Internet of the side effects of a drug that I had prescribed, and asked me what I thought he should do. I replied “Merrill, it takes 10 to 15 years to become a good doctor but it takes only 10 to 15 seconds to become an Internet doctor”! He roared with laughter. That was the side of Merrill who loved a good joke and even better, a repartee.
+
+...
+
+[Data](articles/83086d25.json)
+
+---
+
+### My aunt, the Veda Menike and herbal medicine
+
+*2024-07-21 00:20:00* · [`islandlk`](http://island.lk/my-aunt-the-veda-menike-and-herbal-medicine/) · `en`
+
+Ceylon’s native medicinal practitioners did not all come from a single social class anymore than did her astrologers. I can remember that, in my childhood days, a man named Punchi Rala, who cultivated a paddy field owned by my family, prescribed medicines for the commoner ailments. On the other hand, there was the Veda Menike, a female relative of mine, the daughter of an Adigar, who apart from being a competent ayurvedic doctor, had a good knowledge of Pali and Sanskrit and was at home with ola manuscripts.
+
+Living in Kurunegala town at the beginning of the 20th century, we also had a family doctor who came with his shiny instruments in a buggy cart. There were, as far as I can remember, two motor cars in Kurunegala at the time. Neither the doctor or any member of my family possessed one.
+
+...
+
+[Data](articles/5cc9a52d.json)
+
+---
+
+### ARTI or Peradeniya University? – career dilemmas of a young man
+
+*2024-07-21 00:20:00* · [`islandlk`](http://island.lk/arti-or-peradeniya-university-career-dilemmas-of-a-young-man/) · `en`
+
+In 1971, after the failed Marxist uprising against the state, the government introduced the rule that anyone applying for a government job should get a report (a ‘chit’) from the local political agent of the government. This rule especially applied to young men and women, as the government distrusted the youth because of their involvement in the insurrection.
+
+Soon after graduating from the University of Peradeniya in 1972, I applied for a vacancy at the Agrarian Research and Training Institute (ARTI) for a research and training officer (rural sociology). I visited the political agent, who lived in Hendala, to get a chit. The agent was an Ayurvedic doctor who was also a justice of the peace and a member of the Town Council (He was known as ‘Member Mahatmaya.’). He cordially received me in the verandah of his small house. He was in a sarong without a shirt or a vest. A heavy leather belt with a large buckle was around his belly over the sarong. A small towel covered his shoulders.
+
+...
+
+[Data](articles/671b9a9b.json)
 
 ---
 
@@ -87,6 +199,46 @@ Fabian Alan took four wickets for Jarffna Kugs and Vijayakan, Vijayakan and Vija
 [Data](articles/a4e32dfc.json)
 
 [Extended Data](ext_articles/a4e32dfc.ext.json)
+
+---
+
+### ‘Leopards, people and everything…’
+
+*2024-07-20 23:06:00* · [`islandlk`](http://island.lk/leopards-people-and-everything/) · `en`
+
+As we approach Sri Lanka Leopard Day on August 1, the WNPS is delighted to welcome Dr. Jeannine Stephanie McManus, a global expert in human-wildlife conflict mitigation, to share her insights on fostering human-leopard coexistence in Sri Lanka. The Sri Lankan leopard, found both inside and outside protected areas, faces increasing challenges that threaten its survival. Dr. McManus’s expertise offers valuable perspectives on addressing these issues.
+
+Dr. McManus is affiliated with the Landmark Foundation, a conservation organization in South Africa, that promotes and facilitates conservation land uses. The leopard is central to the Landmark Foundation owing to its iconic status as the last remaining top predator naturally occurring in South African mountain ranges.
+
+...
+
+[Data](articles/930f5f6e.json)
+
+---
+
+### MY DAYS WITH DR.MARY RUTNAM AND ROBIN RUTNAM
+
+*2024-07-20 22:47:00* · [`islandlk`](http://island.lk/my-days-with-dr-mary-rutnam-and-robin-rutnam/) · `en`
+
+For the younger generation that may not know of Dr. Mary H. Rutnam, she was a Canadian missionary doctor, who came to Ceylon on her marriage to a Ceylonese missionary educator, Mr. S.C.K. Rutnam. She was born as Mary Irwin, in Ontario, Canada (1873-1962). She had a medical degree from Canada, but opted to work as a medical missionary in Ceylon. Later, after the mission did not approve of her marriage to a native Ceylonese, she ceased to be a missionary worker and settled into a medical practice in Colombo. Her patients were mainly women, mainly Muslim women who preferred to have a female doctor. Although she was white and foreign-born, it was remarkable that she was able to bypass the white-colonial structure in Ceylon and identify directly with its native people.
+
+...
+
+[Data](articles/c41ead8c.json)
+
+---
+
+### THE FAILURE OF TEACHING RELIGION IN SCHOOLS
+
+*2024-07-20 22:47:00* · [`islandlk`](http://island.lk/the-failure-of-teaching-religion-in-schools/) · `en`
+
+To quote. “Religion should be the motor of life, the central heating plant of personality, the faith that gives joy to activity, hope to struggle, dignity to humility and zest to living.” Upliftment is the keynote. Yet Religion has been the cause of the most appalling bloodshed and strife . The most horrendous wars have been fought in the name of religion and rivers of blood have flowed while idiots quarreled over the words of god-like men who must have been appalled by the distortion of their messages to humanity. So let us agree that religion DIVIDES and most certainly does not UNITE.
+
+I am at a loss, therefore, to understand, WHY our Education Planners insist on religion being taught in schools? Religion continues to be a divider even in our little island. In schools that contain pupils of all faiths, students are split up whenever it is time for that period in religion. Language is already a divisive factor yet we purposely add yet another subject to compound the folly.
+
+...
+
+[Data](articles/ce2001d2.json)
 
 ---
 
@@ -311,6 +463,26 @@ Ceylon Workers Congress President Senthil Thondaman has called on President Rani
 [Data](articles/42421aad.json)
 
 [Extended Data](ext_articles/42421aad.ext.json)
+
+---
+
+### යාපනයෙන් හම්බන්තොටින් මුහුදු ගිය ධිවර යාත්‍රා දෙකක් අතුරුදන්
+
+*2024-07-20 20:53:03* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයෙන්-හම්බන්තොටින්-මුහුදු-ගිය-ධිවර-යාත්‍රා-දෙකක්-අතුරුදන්/11-410877) · `si`
+
+යාපනය සහ හම්බන්තොට ධීවර වරායන්වල සිට මුහුදු ධීවරයින් 6ක් රැගත් යාත්‍රා දෙකක් අතුරුදන්
+
+යාපනය සහ හම්බන්තොට ධීවර වරායන්වල සිට මුහුදු ගිය ධීවරයින් 6 දෙනෙකු රැගත් යාත්‍රා දෙකක් අතුරුදන් වී ඇති බව ධීවර දෙපාර්තමේන්තුව පවසයි.
+
+පසුගිය 7 වනදා ධීවර කටයුතු සඳහා පිටත්ව ගිය යාත්‍රා දෙකක් එලෙස අතුරුදන්ව ඇති බවට තොරතුරු ලැබී ඇති බව ධීවර අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා කියා සිටියේය .
+
+යාපනය, පොයින්ට් පේදුරු ධීවර වරායෙන් පිටත්ව ගිය බහුදින ධීවර යාත්‍රාවේ ධීවරයින් සිව්දෙනෙකු සිට ඇති බව වාර්තා වෙයි.
+
+හම්බන්තොට ධීවර වරායෙන් පිටත්ව ගිය එක්දින ධීවර යාත්‍රාවේ ධිවරයින් දෙදෙනෙකු සිට ඇති අතර අදාළ ධීවරයින් සම්බන්ධයෙන් මේ දක්වා කිසිදු තොරතුරක් වාර්තා වී නොමැති බවත්, ඔවුන් සෙවීම සඳහා නාවික හමුදාව ඇතුළු සියලු පාර්ශ්ව දැනුවත් කර ඇති බවද සුසන්ත කහවත්ත ‍ මහතා කියා සිටියේය.
+
+◼️
+
+[Data](articles/5f472ea7.json)
 
 ---
 
@@ -1078,7 +1250,7 @@ Following the trial of the two men, the Jaffna Magistrate's Court has ordered th
 
 ---
 
-### Sri Lanka banking system foreign assets turn positive in May: analysis
+### Sri Lanka banking system foreign assets positive in May, collects $6.7bn since rate hike: analysis
 
 *2024-07-20 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-foreign-assets-turn-positive-in-may-analysis-173011/) · `en`
 
@@ -1088,7 +1260,7 @@ In May the combined net foreign assets position of commercial banks and the cent
 
 It was made up of positive 1.9 billion US dollar foreign assets position in overseas banking units and a negative 811-million-dollar position which gave a positive NFA position of about 1.13 billion US dollars for banks.
 
-The central bank still had a negative position of about 821 million dollars by May, down from about 4.5 billion US dollars in last currency crises triggered by deploying liquidity tools (printing money) to cut rates.
+The central bank still had a negative position of about 821 million dollars by May, down from a negative 4.5 billion US dollars at the peak of the last currency crises triggered by deploying liquidity tools (printing money) to cut rates.
 
 ...
 
@@ -2148,260 +2320,18 @@ Accordingly, the IMAX®️ Theatre at Scope Cinemas Multiplex – Havelock City 
 
 ---
 
-### Yall. 10 new achievements, including two athletes:
+### NDB Bank shines at the AIA Bancassurance Achievers Awards 2023
 
-*2024-07-20 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188905) · `ta`
+*2024-07-20 01:08:00* · [`islandlk`](http://island.lk/ndb-bank-shines-at-the-aia-bancassurance-achievers-awards-2023/) · `en`
 
-At the 48th National Games, Jaffna and nine others, including two athletes, achieved notable feats. The event, held at the Sugathadasa Stadium, saw YCM. Yodasinghe from Sabaragamuwa as the top male athlete and Tarushi Karunaratne from the Central Provincial Council as the top female athlete. The Western Province led with 278 medals, followed by the Central and Southern Provinces. Notable performances included Yodasinghe's 100m sprint in 10.27 seconds and Tarushi's 400m run in 53.69 seconds, both ranking highly internationally.
+NDB Bank proudly announces the remarkable achievements of its staff at the prestigious AIA Bancassurance Achievers Awards 2023. The gala event, held recently at Waters Edge, Colombo, was hosted by AIA Insurance to celebrate the top bancassurance achievers at NDB for the year 2023.
 
-🟩
+The awards ceremony highlighted the exceptional performance of NDB Bank’s staff in providing outstanding protection solutions for customers. The evening was filled with electrifying excitement, celebrations, and recognition, serving as a platform to foster connections, motivate individuals, and inspire further accomplishments. The event was graced by senior management of both NDB and AIA, underscoring the importance of this collaboration.
 
-Jaffna at the 48th National Games at the Sugathadasa Stadium in Colombo on Friday (19). Nine people, including two athletes, have been praised for establishing new competition.
-
-The last feature of the National Games Competition for the Both Both Both Both Both Both Both was held at the Sugathadasa Stadium for three days.
-
-Sabaragamuwa provincial player YCM. Yodasinghe is the best male athlete and the Central Provincial Council and the Paris 2024 Olympics, Tarushi Karunaratne, is the best female athlete.
-
-The Western Province won 106 gold, 82 silver and 90 bronze medals at the National Games this year.
-
-The Central Province finished 2nd with 45 gold, 47 silver, 64 bronze medals and the Southern Province 37 gold, 42 silver and 47 bronze medals.
-
-North Western Province (37 - 25 - 42), North Central Province (16 - 21 - 37), Sabaragamuwa Province (12 - 23 - 47), Uva Province (9 - 14 - 26), Eastern Province (9 - 1 - 11)Northern Province (5 - 8 - 7) won the next 6 places respectively.
+NDB Bank staff was recognised in various categories, with nearly 200 awards presented during the evening, including CEO’s Club-qualified winners and Branch and Region Awards (Best Branch Value, Best Branch Volume, Merit, Million Club, and Best Regional Manager).
 
 ...
 
-[Data](articles/59cd47df.json)
-
-[Extended Data](ext_articles/59cd47df.ext.json)
-
----
-
-### Opportunities for companies to raise debt capital through sustainable bonds for a Greener future
-
-*2024-07-20 01:02:00* · [`islandlk`](http://island.lk/opportunities-for-companies-to-raise-debt-capital-through-sustainable-bonds-for-a-greener-future/) · `en`
-
-The Securities and Exchange Commission of Sri Lanka (SEC) and The Colombo Stock Exchange (CSE), in collaboration with the Asian Development Bank (ADB) hosted an issuer forum titled “Towards a Greener Horizon: Unlocking Opportunities through Sustainability Bonds” recently in Colombo.
-
-The forum was aimed at enhancing awareness and building capacity among stakeholders including representatives from Government Authorities, State-Owned-Enterprises, potential issuers, investment banks/corporate finance advisors, verification/assurance providers, rating, and other agencies to create the foundation for a sustainable bond ecosystem in Sri Lanka.
-
-...
-
-[Data](articles/cb303bce.json)
-
-[Extended Data](ext_articles/cb303bce.ext.json)
-
----
-
-### BOC gearing up for ‘Spirit Awards 2023’ to recognise excellence of its staff
-
-*2024-07-20 01:01:00* · [`islandlk`](http://island.lk/boc-gearing-up-for-spirit-awards-2023-to-recognise-excellence-of-its-staff/) · `en`
-
-The Bank of Ceylon (BOC) is gearing up for its annual ‘Spirit Awards 2023,’ scheduled for 21st July 2024. This prestigious event is designed to recognize the outstanding contributions of BOC’s branch network, showcasing the bank’s commitment to delivering exceptional service to its customers.
-
-The primary goal of the ‘Spirit Awards 2023’ is to honor the dedication, achievement and excellence of BOC’s staff, which have been pivotal to the bank’s success as Sri Lanka’s leading financial institution. The event will recognize top-performing branches, highlight achievements in distinct banking segments, and commend those who have excelled in workplace organization and efficiency. Additionally, it will acknowledge branches and departments that have effectively utilized digital tools and technologies to enhance customer service and operational efficiency.
-
-...
-
-[Data](articles/1097c158.json)
-
-[Extended Data](ext_articles/1097c158.ext.json)
-
----
-
-### SLIC General and RDB forge Bancassurance partnership for seamless insurance access
-
-*2024-07-20 01:01:00* · [`islandlk`](http://island.lk/slic-general-and-rdb-forge-bancassurance-partnership-for-seamless-insurance-access/) · `en`
-
-Sri Lanka Insurance Corporation General Limited (SLICGL) has entered into a strategic bancassurance partnership with the Regional Development Bank (RDB), the leading financial institution dedicated to development finance, to ensure greater accessibility and convenience for customers seeking comprehensive insurance coverage.
-
-The landmark Memorandum of Understanding (MOU) was recently signed at the RDB Head Office in Kelaniya, with top management representatives from both organizations in attendance. The milestone marks a significant step towards providing the rural masses with accessible and affordable insurance services to empower them and contribute to uplifting the rural economy.
-
-...
-
-[Data](articles/87c28653.json)
-
-[Extended Data](ext_articles/87c28653.ext.json)
-
----
-
-### Two persons arrested with 350 narcotics pills
-
-*2024-07-20 01:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/188904) · `ta`
-
-Two individuals, aged 21 and 22, were arrested by a special Task Force in Pasarai for possessing 350 narcotics pills. The arrestees were later handed over to the Pasarai Magistrate's Court following investigations.
-
-🟩
-
-Two persons have been arrested by special Task Force with 350 narcotics, Pasarai police said.
-
-It is reported that two persons from the 21,22 -year -old Millabetha and Kamewela fourth have been arrested.
-
-Pasara police said that 100 drug pills and 250 narcotics from one person have been seized from one person and the other suspect when they went to the area where the Intelligence Unit of the Special Task Force, which was camped in the Pasarai Akarathna area, went to the area.
-
-The police said that the two suspects were handed over to the Pasarai Magistrate's Court after investigations into the two suspects.
-
-The police said that on the advice of the Badulla Regional Police Superintendent Sujith Wetamulla, the police are conducting investigations under the leadership of Pasarai Police Station E.M. Piyaratne.
-
-◼️
-
-[Data](articles/1fa621db.json)
-
-[Extended Data](ext_articles/1fa621db.ext.json)
-
----
-
-### Model Control Price
-
-*2024-07-20 00:57:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பாட்டு-விலை-நிர்ணயிக்க-வேண்டி-ஏற்படும்/175-340706) · `ta`
-
-Nalin Fernando, Minister of Commerce, warns traders about the consequences of not passing government concessions to consumers, hinting at price controls on certain items. He mentions amendments to the Consumer Act and plans to improve consumer-trader relations, including weekly announcements on 15 essential commodity prices. Discussions with trade associations are scheduled soon.
-
-🟩
-
-The Minister of Commerce, Commerce and Food Security, Nalin Fernando, said that if traders do not act to provide the government's concessions to consumers, certain items will be fixed.
-
-Minister Nalin Fernando said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-Laws have been changed to amend the Consumer Act. Related recommendations will be submitted to Parliament in two more weeks. In addition, various measures have been planned to increase the understanding between the consumer and the trader.
-
-In addition, we are currently announcing the price of 15 essential commodities once a week. But the government's concessions have been observed for consumers.
-
-We are looking forward to discussing this with trade associations in the next few days. It must also be said that if the concessions we offer are not made to the consumers, certain items will be determined by certain items.. (A)
-
-◼️
-
-[Data](articles/5fee1f79.json)
-
-[Extended Data](ext_articles/5fee1f79.ext.json)
-
----
-
-### Large wildfire spread in Elrot Deegala.
-
-*2024-07-20 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188903) · `ta`
-
-A massive wildfire is spreading in the Elroot Thekala Ella forest, affecting power supply in nearby areas including Adavatam, Elrod, and Lunugalagama due to the burning of two wooden fish.
-
-🟩
-
-Lunugala police said that a massive wildfire is spreading in the Elroot Thekala Ella forest area in the Aravagambura Grama Niladhari Division, which belongs to the Lunugala Police Division.
-
-Lunugala police added that the power supply to the areas of Adavatam, Elrod and Lunugalagama has been blocked due to the burning of two wooden fish.
-
-◼️
-
-[Data](articles/bee4f618.json)
-
-[Extended Data](ext_articles/bee4f618.ext.json)
-
----
-
-### There is no need to fear the constitutional amendment!- President
-
-*2024-07-20 00:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/188902) · `ta`
-
-President Ranil Wickremesinghe reassures citizens not to fear constitutional amendments, emphasizing experienced professionals' involvement. He highlights the importance of maintaining democracy, referencing Sri Lanka's unique position in preserving it since 1931. The President inaugurates a new court complex in Galle, costing 1600 million rupees, equipped with modern facilities to bolster the legal system. He acknowledges past mistakes but remains optimistic about the future of democracy in Sri Lanka.
-
-🟩
-
-President Ranil Wickremesinghe, who has said that Sri Lanka will continue to dedicate it as a country that has maintained democracy since he gained power for the referendum, urged him not to be afraid of the constitutional amendment.
-
-The President pointed out that the work on the constitutional amendment would be handed over to the experienced people and that the tasks were carried out with lawyers like KN Soxi.
-
-However, the President also said that the Society had to be handed over to Attorney Jayampathi Wickramaratne as the Sokesi had been sacrificed in 2015 during the constitutional restructuring in 2015.
-
-The President said that at the time, his mistake was now a complex situation and apologized to the people.
-
-The President made this statement while addressing the inauguration of the new court building in Galle Beligaha.
-
-...
-
-[Data](articles/05e66cb3.json)
-
-[Extended Data](ext_articles/05e66cb3.ext.json)
-
----
-
-### Welcome to Anura Kumara Dissanayake at Narita International Airport in Japan
-
-*2024-07-20 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/188901) · `ta`
-
-Anura Kumara Dissanayake, leader of Sri Lanka's National People's Power, was warmly received upon his arrival at Narita International Airport in Japan. He is set to engage in meetings with Sri Lankan communities and business leaders, as well as high-ranking Japanese diplomats, aiming to foster stronger ties between the two nations.
-
-🟩
-
-National People's Power Leader Anura Kumara Dissanayake, who left the country, was welcomed by Sri Lankans at the Narita International Airport of Japan.
-
-A meeting between Sri Lankans living in Japan and Anurakumara, the leader of the National People's Power, will take place.
-
-National People's Power Leader Anura Kumara Dissanayake made an official visit to Japan last night.
-
-He has gone to attend a meeting with Sri Lankans living in Japan organized by the National People's Power.
-
-He will meet Sri Lankans living in Japan at the Yadabe Citizen Stadium in Sukuba, Japan at 2.00 pm on Sunday.
-
-Monday (22) will also meet businessmen in Japan. Dissanayake will also meet Japan's top diplomats.
-
-◼️
-
-[Data](articles/73a56600.json)
-
-[Extended Data](ext_articles/73a56600.ext.json)
-
----
-
-### Foreign Minister engages in bilateral talks with Romania to enhance relations
-
-*2024-07-20 00:46:34* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-engages-in-bilateral-talks-with-Romaniato-enhance-relations/56-764517) · `en`
-
-Foreign Minister Ali Sabry concluded an official visit to Romania from 15 to 18 July 2024 at the invitation of Minister of Foreign Affairs of Romania, Luminiţa Odobescu.
-
-The two Foreign Ministers had bilateral talks and the discussions marked a significant milestone in the longstanding relations between the two countries with a view to further enhancing the partnership, and also in the context of Romania as an EU member state.
-
-Minister Sabry outlined Sri Lanka’s recent developments including in the economic stabilisation process with a focus on growth, and the progress made under the ongoing reconciliation endeavours. Foreign Minister Odobesco spoke of the development drive taking place in Romania and the potential for mutually reinforcing engagement with third countries.
-
-...
-
-[Data](articles/ebf2fe83.json)
-
-[Extended Data](ext_articles/ebf2fe83.ext.json)
-
----
-
-### New Vice Chancellor appointed to Peradeniya University
-
-*2024-07-20 00:45:58* · [`dailyftlk`](https://www.ft.lk/news/New-Vice-Chancellor-appointed-to-Peradeniya-University/56-764516) · `en`
-
-President Ranil Wickremesinghe has appointed Professor W.M.T. Madhujith to the post of Vice Chancellor of the University of Peradeniya with effect from 1 August, President’s Media Division (PMD) said.
-
-He was appointed in terms of Section 34(1) (a) of the Universities Act for a period of three (03) years.
-
-◼️
-
-[Data](articles/520b29d1.json)
-
-[Extended Data](ext_articles/520b29d1.ext.json)
-
----
-
-### DIE says prior online registration required to apply for passports
-
-*2024-07-20 00:45:13* · [`dailyftlk`](https://www.ft.lk/news/DIE-says-prior-online-registration-required-to-apply-for-passports/56-764515) · `en`
-
-The Department of Immigration and Emigration (DIE) said yesterday that prior online registration is now required when applying for a Sri Lankan passport with the new methodology.
-
-The Department further stated that it is no longer possible to obtain a passport by visiting the department without first being assigned a date and time through the online registration system.
-
-An applicant must reserve a date and time through the http://www.immigration.gov.lk/ website to obtain or renew a passport.
-
-This requirement applies to both the one-day service and the general service.
-
-However, despite this new system being launched yesterday, a large number of people had arrived at the Immigration and Emigration Department office in Battaramulla this morning to obtain passports without making such reservations.
-
-...
-
-[Data](articles/7e8fcc34.json)
-
-[Extended Data](ext_articles/7e8fcc34.ext.json)
+[Data](articles/f8f12ac5.json)
 
 ---

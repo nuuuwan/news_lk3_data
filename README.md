@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 22:35:29**
+As of **2024-07-21 22:53:27**
 
 ## Newspaper Stats
 
-*Scraped **36,440** Articles*
+*Scraped **36,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,075
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,288
+adalk | 3,289
 adaderanalk | 4,217
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,440 (100.0%) of 36,440 articles have been extended.
+36,440 (100.0%) of 36,441 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -373,6 +373,22 @@ Speaking at the event, Parliamentarian Rameshwaran added that he added.
 [Data](articles/59fd6d2c.json)
 
 [Extended Data](ext_articles/59fd6d2c.ext.json)
+
+---
+
+### කංජිපානිගේ ගෝලයන් තුනක් අල්ලයි
+
+*2024-07-21 18:32:40* · [`adalk`](https://www.ada.lk/breaking_news/කංජිපානිගේ-ගෝලයන්-තුනක්-අල්ලයි/11-410894) · `si`
+
+විදේශගතව සැගව  සිටින සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම් කරුවෙකු වන කන්ජිපානි ඉම්රාන් යන අයගේ මෙරට මත්ද්‍රව්‍ය ජාවාරම් සිදුකරන බව පැවසෙන කාන්තාවක් හා පුද්ගලයන් දෙදෙනෙකු හෙරොයින් සහ අයිස් ග්‍රෑම් තිස් තුනක් සමග කාන්තාවක ඇතුළු තිදෙනකු අත්අඩංගුවට ගත් බව විශේෂ කාර්ය බලකාය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වැලිසර ප්‍රදේශයේ පදිංචි (28) වැල්ලම්පිටිය, සේදවත්ත පදිංචි (26) හා (24)  කාන්තාවක බව පොලිසිය කියයි.)
+
+විශේෂ කාර්ය බලකාය ගෝනහේන කඳවුරේ විශේෂ මෙහෙයුම් ඒකකයේ පොලිස් පරික්ෂක එස්.ඩි.පි.එන්. දේශප්‍රිය හා උප පොලිස් පරික්ෂක ආර්.පි.එස්.ටි. කාන්ත ඇතුළු නිලධාරීන් කණ්ඩායම් දෙකක් විසින් මහබාගේ පොලිස් වසමේ හා රාගම පොලිස් වසමේ සිදුකළ විශේෂ සෝදිසි  මෙහෙයුම් දෙකකදී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/b6a4ee75.json)
 
 ---
 
@@ -2281,29 +2297,5 @@ The President said that if the country was finished in order to build the econom
 [Data](articles/eed9b795.json)
 
 [Extended Data](ext_articles/eed9b795.ext.json)
-
----
-
-### A van in the pilgrimage is in danger
-
-*2024-07-21 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199037) · `si`
-
-A van carrying local residents from Araywa to a pilgrimage site collided with an electric pole near Pilimatalawa, injuring passengers and requiring hospitalization in Peradeniya and Kandy.
-
-🟩
-
-A van carrying pilgrims was injured in a danger this morning (21) and admitted to Peradeniya and Kandy hospitals.
-
-The accident occurred in the area near the Pilimatalawa town this morning.
-
-The accident had occurred when the van was running towards Colombo to Colombo and collided with an expensive electric pillary.
-
-The victim was a group of residents of the area in Araywa, a pilgrimage to a pilgrimage.
-
-◼️
-
-[Data](articles/ca1ac7f1.json)
-
-[Extended Data](ext_articles/ca1ac7f1.ext.json)
 
 ---

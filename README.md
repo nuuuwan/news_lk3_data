@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 21:35:59**
+As of **2024-07-21 21:55:08**
 
 ## Newspaper Stats
 
-*Scraped **36,435** Articles*
+*Scraped **36,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,215
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,708
-adaderanasinhalalk | 6,115
+adaderanasinhalalk | 6,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,435 (100.0%) of 36,435 articles have been extended.
+36,435 (100.0%) of 36,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### යාපනය ට ලැබුණු ඉලක්කය
+
+*2024-07-21 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199063) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ අවසන් තරගය මේ වනවිට ගෝල් මාර්වල්ස් කණ්ඩායම සහ ජැෆ්නා කිංග්ස් කණ්ඩායම අතර කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+
+එහිදී පළමුවෙන් පන්දුවට පහරදුන් ගෝල් කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 184ක් ලබාගත්තේය.
+
+එම කණ්ඩායම වෙනුවෙන භානුක රාජපක්ෂ පන්දු 34කදී ලකුණු 82ක් රැස්කළේය.
+
+කාසියේ වාසිය දිනූ ජැෆ්නා කිංග්ස් කණ්ඩාය තීරණය කළේ පළමුවෙන් පන්දු රැකීමටය.
+
+◼️
+
+[Data](articles/cc2a9fa9.json)
+
+---
 
 ### People should make the right decisions to choose the leadership to face the challenges - Scott Morrison
 
@@ -2293,31 +2311,5 @@ Accordingly, Israel has launched airstrikes after the Hamas attack on October 7.
 [Data](articles/0d648800.json)
 
 [Extended Data](ext_articles/0d648800.ext.json)
-
----
-
-### New bill to deal with bankruptcy
-
-*2024-07-21 08:13:49* · [`adalk`](https://www.ada.lk/breaking_news/බංකොළොත්-ව්‍යාපාර-සම්බන්ධව-කටයුතු-කිරීමට-නව-පනතක්/11-410881) · `si`
-
-President Ranil Wickremesinghe announced a new bill aimed at addressing bankruptcy, emphasizing support for micro, small, and medium-sized enterprises (MSMEs). He introduced the Enterprise Sri Lanka institution to assist MSMEs and discussed the bill with the Federation of Ceylon Micro, Small, and Medium Scale Entrepreneurs. The President also mentioned plans to meet with an International Monetary Fund delegation to discuss financial aid for MSMEs.
-
-🟩
-
-President Ranil Wickremesinghe said that the temporarily suspended the temporarily suspended is not possible to maintain a new bill to act in bankruptcy.
-
-The proposed New Bill also includes the restructuring of debt obtained micro, small and medium scale entrepreneurs.
-
-The President has said that the President has made a new institution called Enterprise Sri Lanka to provide assistance and assistance to providing necessary assistance and assistance to providing necessary assistance and assistance to providing necessary assistance and assistance to microfinance and medium scale entrepreneurs.
-
-President Ranil Wickremesinghe has expressed these views by the Ceylon Micro-Small and Medium Small Entrepreneurship in the Bandaranaike Memorial International Conference Hall.Addressing the program.
-
-The President said that a copy of the new Act is already drafted to the Federation of Ceylon Micro, Small and Medium Scale Entrepreneurs.
-
-...
-
-[Data](articles/a4297f1b.json)
-
-[Extended Data](ext_articles/a4297f1b.ext.json)
 
 ---

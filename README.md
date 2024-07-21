@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 18:54:06**
+As of **2024-07-21 19:20:17**
 
 ## Newspaper Stats
 
-*Scraped **36,421** Articles*
+*Scraped **36,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,167 +12,277 @@ dbsjeyarajcom | 321
 colombotelegraphcom | 339
 bbccomsinhala | 356
 newsfirstlk | 363
-islandlk | 2,074
+islandlk | 2,075
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,283
-adaderanalk | 4,213
+adaderanalk | 4,214
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,704
-adaderanasinhalalk | 6,112
+adaderanasinhalalk | 6,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,408 (100.0%) of 36,421 articles have been extended.
+36,423 (100.0%) of 36,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### மின்சார கட்டணம் குறைந்துள்ளது; நீர் கட்டணமும் மறுசீரமைக்கப்பட உள்ளது; நாட்டு மக்கள் வாழ்வில் சுபீட்சம் ஏற்பட ரணில் விக்கிரமசிங்கவின் ஆட்சி தொடர வேண்டும் - எம்.ராமேஷ்வரன் எம்.பி
+### Former INSS Director Asanka Abeygunasekara granted bail
+
+*2024-07-21 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100674/former-inss-director-asanka-abeygunasekara-granted-bail) · `en`
+
+The former Director General of the Institute of National Security Studies of Sri Lanka (INSS) Asanka Abeygunasekara, who was arrested this morning (21), has been granted bail after being produced before the court.
+
+Thus, the Negombo Magistrate Rakhitha Abeysinghe has ordered the suspect to be released on two surety bail of Rs 1 million each.
+
+Furthermore, the magistrate ordered Abeygunasekara to appear before the Colombo Magistrate’s Court on August 09, 2024, Ada Derana reporter said.
+
+The former INSS Director General was arrested this morning at the Bandaranaike International Airport (BIA) in Katunayake upon arrival from overseas. There was a pending open warrant over a case filed by the Inland Revenue Department (IRD) against Abeygunasekara, according to police.
+
+◼️
+
+[Data](articles/173af16c.json)
+
+[Extended Data](ext_articles/173af16c.ext.json)
+
+---
+
+### මහනුවර අධිකරණයේ බෝම්බ බිය ඇති කළ සැකකරු යළිත් රිමාන්ඩ්
+
+*2024-07-21 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199060) · `si`
+
+මහනුවර අධිකරණ සංකීර්ණය තුළ බෝම්බයක් ඇති බවට පොලිස් හදිසි ඇමතුම් අංශයට දුරකථන ඇමතුමක් ලබාදීමේ සිද්ධියේ ප්‍රධාන සැකකරුව අගෝස්තු මස 02 වනදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+
+සිය නඩුවක් කල් දමා ගැනීමේ අරමුණින්, පසුගිය 02 වනදා සැකකරු මිතුරෙකු ගේ ජංගම දුරකථන අංකයක් උපයෝගි කර ගනිමින් මෙම ව්‍යාජ තොරතුර පොලීසියට ලබාදී තිබුණි.
+
+ගිනිගත්හේන ප්‍රදේශයේ පදිංචි සැකකරු, මිතුරෙකු ගේ සිම්කාඩ් පත සොරාගෙන තම ජංගම දුරකථනයට එය දමා අදාළ ඇමතුම ලබා ගෙන ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය විය.
+
+දුරකථන අංකයේ ලියාපදිංචි හිමිකරු අත්අඩංගුවට ගෙන ප්‍රශ්න කිරීමේ දී ඔහු ඊට ඍජු සම්බන්ධයක් නොමැති බව හෙළිවී තිබුණි.
+
+ඒ අනුව, ඇමතුම ලබා ගැනීමට උපයෝගි කරගත් දුරකථනයේ එමි අංකය ඔස්සේ එහි හිමිකරුව තහවුරු කර ගැනීමට පොලීසිය කටයුතු කර තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් ඇමතුම ලබාදුන් පුද්ගලයා සහ දුරකථන සිම්පතේ හිමිකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන  අධිකරණයට ඉදිරිපත් කිරීමෙන්ප පසු රක්ෂිත බන්ධනාගාර ගත කරනු ලැබීය.
+
+◼️
+
+[Data](articles/c4169cd6.json)
+
+---
+
+### Electricity tariffs have declined;Water fees are also to be restructured;Ranil Wickremesinghe's rule should continue - M. Rameshwaran MP
 
 *2024-07-21 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189031) · `ta`
 
-இலங்கையின் பொருளாதாரம் அபிவிருத்தியை நோக்கி பயணிக்க வேண்டுமெனில் தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஆட்சி தொடர வேண்டுமெனவும், நாட்டு மக்களும் இதனை உணர்ந்துள்ளனர் எனவும் இ.தொ.காவின் தவிசாளரும், நுவரெலியா மாவட்ட நாடாளுமன்ற உறுப்பினருமான மருதபாண்டி ராமேஷ்வரன் தெரிவித்துள்ளார்.
+MP Maruthabandi Rameshwaran supports continuing President Ranil Wickremesinghe's rule, citing economic improvements including lower electricity and water costs. He highlights infrastructure developments like the Nuwara Eliya road project as evidence of progress.
 
-பல வருட காலமாக குன்றும் குழியுமாக காணப்பட்ட 5.5 கி.மீ வரையிலான பூண்டுலோயா முதல் டன்சினன் வழியாக நுவரெலியா செல்லும் பிரதான பாதை, 2024 ஆம் ஆண்டின் 1000 கி.மீ வீதி அபிவிருத்தி திட்டத்தின் கீழ் 130 மில்லியன் ரூபா செலவில் கார்ப்பட் இடப்பட்டு போக்குவரத்து நெடுஞ்சாலைகள் மற்றும் வெகுஜன ஊடகத்துறை அமைச்சர் கலாநிதி பந்துல குணவர்த்தன மற்றும் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான், நுவரெலியா மாவட்ட நாடாளுமன்ற உறுப்பினர் மருதபாண்டி ராமேஷ்வரன் ஆகியோர்களால் மக்கள் பாவனைக்கு ஞாயிற்றுக்கிழமை (20) திறந்து வைக்கப்பட்டது.
+🟩
 
-இந்நிகழ்வில் கலந்துக் கொண்டு உரையாற்றிய நாடாளுமன்ற உறுப்பினர் ரமேஷ்வரன் மேலும் கூறியவை வருமாறு,
+Maruthabandi Rameshwaran, CWC and Nuwara Eliya district parliamentarian, said that the current President Ranil Wickremesinghe's regime should continue and the people of the country have realized that the economy of Sri Lanka is to travel towards development.
+
+The main road leading to Nuwara Eliya via Punduloya to Nuwara Eliya, which has been a hill and pit for several years, has been deployed under the 1000 km road development project of 2024 at a cost of 130 million rupees.Plantation Infrastructure Development Minister Jeevan Thondaman and Nuwara Eliya District Parliamentarian Maruthapandi Rameshwaran were opened on Sunday (20).
+
+Speaking at the event, Parliamentarian Rameshwaran added that he added.
 
 ...
 
 [Data](articles/59fd6d2c.json)
 
+[Extended Data](ext_articles/59fd6d2c.ext.json)
+
 ---
 
-### ரணில் வேண்டும்: கம்பஹாவில் தீர்மானம்
+### Ranil to: Resolution in Gampaha
 
 *2024-07-21 18:30:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/ரணில்-வேண்டும்-கம்பஹாவில்-தீர்மானம்/95-340773) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்க போட்டியிட வேண்டும் என்ற பிரேரணை, “ஒன்றிணைந்து கம்பஹாவை வெல்வோம் - நாம் கம்பஹா” என்ற மக்கள் சந்திப்பில் ஏகமனதாக நிறைவேற்றப்பட்டது.
+At a public meeting titled "We will win the Gampaha - Nam Gampaha," attendees unanimously proposed that President Ranil Wickremesinghe run in the upcoming presidential election. Minister Prasanna Ranatunga, representing the Gampaha district, presented this motion, which was accepted by a show of hands. This event took place near the Kadawatha bus stand on Sunday (21).
 
-கம்பஹா மாவட்ட மக்கள் சார்பாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர்  பிரசன்ன ரணதுங்க இந்த பிரேரணையை முன்வைத்ததோடு, பொதுக்கூட்டத்தில் கலந்து கொண்ட அனைவரும் கைகளை உயர்த்தி ஏகமனதாக பிரேரணையை ஏற்றுக்கொண்டனர். இந்த பொதுக்கூட்டம் கடவத்தை பேருந்து நிலையம் அருகே ஞாயிற்றுக்கிழமை (21) நடைபெறுகிறது.
+🟩
+
+The proposal that President Ranil Wickremesinghe should contest the upcoming presidential election was unanimously passed at a public meeting "We will win the Gampaha - Nam Gampaha".
+
+Minister of Urban Development and Housing Prasanna Ranatunga presented the motion on behalf of the people of Gampaha district and unanimously accepted the proposal by raising their hands.. The public meeting will be held on Sunday (21) near the Kadawatha bus stand.
 
 ◼️
 
 [Data](articles/e6481659.json)
 
+[Extended Data](ext_articles/e6481659.ext.json)
+
 ---
 
-### தொன்மங்களைப் பறிக்கும் பௌத்தம் : பகுதி 04
+### Buddhism that plucks myths: Part 04
 
 *2024-07-21 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189027) · `ta`
 
-'வடக்கு,கிழக்கில் தொல்பொருளியல் பகுதிகளாக அடையாளம் காணப்பட்ட அனைத்துப்பகுதிகளும் பௌத்தத்தின் வரலாற்றுத் தொன்மங்களாக்கப்பட்டு ஆக்கிரமிக்கப்படும் துர்ப்பாக்கிய நிலை'
+"All identified archaeological sites in North and East are considered historical myths of Buddhism."
+
+🟩
+
+'All areas that have been identified as archaeological areas in the North and East are the historical myths of Buddhism and occupied.'
 
 ◼️
 
 [Data](articles/a8901eb1.json)
 
+[Extended Data](ext_articles/a8901eb1.ext.json)
+
 ---
 
-### உள்நாட்டு இறைவரி திணைக்களத்தின் புதிய அத்தியாயம்
+### New chapter of the Department of Homeland
 
 *2024-07-21 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189025) · `ta`
 
-"நிதிசார் கொடுக்கல்வாங்கல் பற்றிய தகவல்களுட்பட்ட அத்தகைய தகவல்களை இலத்திரனியற் படிவத்தில் கிரமமானவோர் அடிப்படையில் அல்லது விதித்துரைக்கப்படக்கூடியவாறாக அத்தகைய எவரேனுமாளின் அல்லது நிறுவனத்தின் கட்டுக்காப்பிலுள்ள அத்தகைய பதிவேடுகளுக்கான அணுகுகையை ஆணையாளர் தலைமையதிபதிக்கு வழங்குதல் வேண்டும்.”
+The Department of Homeland Security requires the Commissioner to make certain information available electronically, especially related to financial transactions, based on specific criteria.
+
+🟩
+
+"The Commissioner must provide access to such information on such information on the basis of such information on the electronic form or to be imposed on such information on financial transactions.
 
 ◼️
 
 [Data](articles/b829f817.json)
 
+[Extended Data](ext_articles/b829f817.ext.json)
+
 ---
 
-### உலகின் நான்காவது பொருளாதார சக்தியாக ரஷ்யா
+### Russia is the fourth economic force in the world
 
 *2024-07-21 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189023) · `ta`
 
-கடந்த ஜூன் தொடக்கத்தில் வெளியிடப்பட்ட உலக வங்கியின் தரவுகளின்படி, ரஷ்யப் பொருளாதாரம் ஜப்பானை முந்திக்கொண்டு கொள்முதல்- சக்தி- சமநிலை (PPP) அடிப்படையில்  உலகில் நான்காவது வளர்ச்சி அடைந்த நாடாக மாறியுள்ளது.
+In early June, the World Bank ranked Russia as the fourth-largest economy globally based on PPP, surpassing Germany due to cheaper gas and political instability. Russia's economic growth, initially lagging, surged post-Ukraine invasion, aiming for global dominance. Despite challenges, including sanctions and a shift towards militarization, Russia's economy boomed, with the World Bank tripling its growth forecast to 3.2%. However, Russia still trails India and China in size, with the shadow economy potentially underestimating its true GDP.
 
-கடந்த ஆகஸ்டில் பி.என்.ஈ அறிக்கையின்படி, ரஷ்யா ஏற்கனவே ஜேர்மனை பின் தள்ளி ஐந்தாவது பெரிய பொருளாதாரமாக மாறியது. மலிவான ரஷ்ய எரிவாயுவில் இருந்து துண்டிக்கப்பட்டு, ஜேர்மன் இப்போது தேக்கமடைந்து, சமீபத்திய அரசியல் நிகழ்வுகளால் பாதிக்கப்பட்டதுடன், உலக வங்கியின் தரவரிசையில் ஆறாவது இடத்திற்கு வீழ்ந்துள்ளது.
+🟩
 
-கொள்முதல்- சக்தி- சமநிலை (PPP) மற்றும் மொத்த தேசிய உற்பத்தி அளவீடு பல பொருளாதார வல்லுனர்களால் விரும்பப்படுகிறது. ஏனெனில் இது உள்ளூர் விலைகள் மற்றும் பெயரளவு விலைகளுக்கு இடையே உள்ள வித்தியாசத்தை கணக்கில் எடுத்துக்கொள்கிறது.
+According to the World Bank's data, published in early June, the Russian economy has become the fourth developed country in the world based on Purchase- Power and Balance (PPP).
 
-உலக வங்கி அதன் தரவை மறுபரிசீலனை செய்த பின்னர் ரஷ்யாவின் தரவரிசையை மேம்படுத்தியுள்ளது. மற்றும் ரஷ்யா உண்மையில் ஜப்பானை 2021 இல் முந்தியது என்றும் அதன் பின்னர் நான்காவது இடத்தை தக்க வைத்துக் கொண்டுள்ளது என்றும் கூறுகிறது.
+According to PNE report last August, Russia has already behind Germany to become the fifth largest economy. The cheapest Russian gas was cut off, and German has now been stagnant and suffered from recent political events and fell to sixth place in the World Bank rankings.
+
+Purchase-Power-Balance (PPP) and Gross National Production Measurement is preferred by many economists. This is because it takes into account the difference between local prices and nominal prices.
+
+The World Bank has upgraded Russia's ranking after reviewing its data. And Russia says that Japan has actually overtaken Japan in 2021 and has since retained the fourth place since.
+
+Its earlier calculations were based on 2017 data, but these are now updated to reflect 2021 statistics.
 
 ...
 
 [Data](articles/f2e4dfd0.json)
 
+[Extended Data](ext_articles/f2e4dfd0.ext.json)
+
 ---
 
-### நம்பிக்கையை மீளப்பெறும் முயற்சி
+### Attempt to restore confidence
 
 *2024-07-21 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189020) · `ta`
 
-"உண்மை ,ஒற்றுமை நல்லிணக்க ஆணைக்குழு நம்பகரமானதாக இருக்க வேண்டும். பக்கசார்பற்றதாக இருக்க வேண்டும். பாதிக்கப்பட்டவர்களால் ஏற்றுக்கொள்ளப்பட்டதாக இருக்க வேண்டும் என்று ஐ.நாவும் சர்வதேச சமூகம் தொடர்ச்சியாக வலியுறுத்தி வருகின்றன.பாதிக்கப்பட்ட தமிழ் மக்கள் மத்தியில் சர்வதேசம் தங்களை கைவிட்டு விட்டதான உணர்வு வலுப்பெற்று இருக்கும் சூழலில், அமெரிக்கா தமிழர்  விவகாரத்தை கையாள முற்படுகிறது”
+The Unity Reconciliation Commission is crucial for trust and acceptance. The United Nations and global community encourage reconciliation efforts.
+
+🟩
+
+"True, Unity Reconciliation Commission must be trusted. To be side -by -side. The United Nations and the international community are constantly urging the victims to be accepted by the victims.
 
 ◼️
 
 [Data](articles/855e82cc.json)
 
+[Extended Data](ext_articles/855e82cc.ext.json)
+
 ---
 
-### பொது வேட்பாளரை எதிர்க்கிறதா இந்தியா?
+### Is India opposing the common candidate?
 
 *2024-07-21 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189022) · `ta`
 
-“தமிழ்ப் பொது வேட்பாளர் என்ற கருத்திட்டம் முன்வைக்கப்பட்ட போது அதற்கு பின்னால் இந்தியாவே இருக்கிறது என்ற சந்தேகம் தமிழ்த் தேசிய மக்கள் முன்னணி உட்பட வேறு  பலருக்கும் இருந்தது. பிரதான வேட்பாளர்கள் மூவரினதும் தற்போதைய இலக்கு தங்களுக்கு வாக்குகளை பெற்றுக் கொள்வதற்காக, 13ஆவது திருத்தச் சட்டம் குறித்து வாக்குறுதி அளிப்பது மாத்திரம் தான்”
+India is suspected of backing the Tamil general candidate, but the real decision lies with the 13th Amendment, affecting the outcome of the three main candidates' goals.
+
+🟩
+
+“When the proposal for the Tamil general candidate was put forward, there was suspicion that India was behind it.. It is only the 13th Amendment to vote for the current goal of the three main candidates.
 
 ◼️
 
 [Data](articles/d473279a.json)
 
+[Extended Data](ext_articles/d473279a.ext.json)
+
 ---
 
-### விழித்துக்கொண்டால் தான் சமூகம் பிழைத்துக்கொள்ளும்
+### The community will survive only if they wake up
 
 *2024-07-21 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189018) · `ta`
 
-காத்தான்குடியில் நடைபெற்ற முஸ்லிம் காங்கிரஸின் பேராளர் மாநாட்டில் கட்சியோடும் தலைமையோடும் இனிமேல் பிணக்கில்லாது பயணிப்பது என்ற தீர்மானம் எடுக்கப்பட்டுள்ளது. அதனை பேராளர்கள் முன்னிலையில் சத்தியவாக்காக தந்திருக்கின்றோம். அதை செயற்படுத்தினால் தான் இந்த கட்சியை வீரியத்துடன் வாழவைக்க முடியும் என்று ரவூப் ஹக்கீம் ஆவேசமாக கருத்துக்களை வெளிப்படுத்தினார்.
+At the Kattankudi Muslim Congress, delegates decided to proceed without conflict, emphasizing truth and unity under Rauf Hakeem's leadership, crucial for the community's survival.
+
+🟩
+
+At the Muslim Congress conference held in Kattankudi, the decision to travel without any conflict is taken with the party and the leadership.. We have given it to the truth in the presence of the delegates. Rauf Hakeem expressed his comments that it could only be able to live this party if it was implemented.
 
 ◼️
 
 [Data](articles/ba937c0b.json)
 
+[Extended Data](ext_articles/ba937c0b.ext.json)
+
 ---
 
-### போர்க்குற்ற குற்றச்சாட்டுகள் பொய்யா?
+### Are war crimes false?
 
 *2024-07-21 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189014) · `ta`
 
-“ஐ.நா. அறிக்கையின்படி இறுதிப் போரின் போது படுகொலை செய்யப்பட்ட 40 ஆயிரம் பொதுமக்களின் புதை குழிகள் எங்கே என்று கேள்வி எழுப்பும் சரத் பொன்சேகாவுக்காக எல்லாவற்றையும் தேடிப் பிடிப்பது கடினமானதல்ல. ஆனால் அவற்றை கண்டுபிடித்து அகழ்ந்தெடுப்பது மாத்திரம் பிரச்சினைக்கு தீர்வை தந்து விடுமா?”
+War crimes are serious allegations, not easily dismissed as "false." The UN report highlights the need for investigation and accountability, especially regarding the mass killings of civilians during conflicts.
+
+🟩
+
+“The UN. According to the report, it is not difficult to search for everything for Sarath Fonseka, who is questioning where 40 thousand civilians were assassinated during the final war.. But will the discovery and excavation only provide a solution to the problem? ”
 
 ◼️
 
 [Data](articles/8341eb56.json)
 
+[Extended Data](ext_articles/8341eb56.ext.json)
+
 ---
 
-### அரசியல் சமூகமாக வளரும் புலம்பெயர் தமிழர்கள்
+### Diaspora Tamils ​​growing up as a political community
 
 *2024-07-21 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189016) · `ta`
 
-இந்திய மாதிரி என்பது அரைகுறைச்சமஷ்டி தான். இந்திய ஆட்சி முறை சமாதான காலங்களில் சமஷ்டி ஆட்சி முறை போல தெரியும். நெருக்கடியான காலங்களில் ஒற்றையாட்சி முறை போலத் தெரியும் எனினும் அழுத்தங்கள் பலமாக வளரின் சமஷ்டி தீர்வு நோக்கி இந்தியாவும் நகரலாம்.
+Diaspora Tamils' political identity emerges from India's dual nature: a federal system in peace, potentially shifting towards federal solutions during crises.
+
+🟩
+
+The Indian model is half a half. The Indian regime is like a federal system in peace times. In times of crisis, India may also move towards the federal solution of the growing up.
 
 ◼️
 
 [Data](articles/cefb4ecb.json)
 
+[Extended Data](ext_articles/cefb4ecb.ext.json)
+
 ---
 
-### ஜனாதிபதியின் கடைசி உத்தி
+### The last strategy of the president
 
 *2024-07-21 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/189005) · `ta`
 
-சஜித்துக்கு தவறான வழியில் இருந்து பணம் வருகிறது என்றால், அதனைக் கண்டுபிடிக்காமல் இருப்பது ரணில் விக்கிரமசிங்கவின் நிர்வாகத்தின் தவறு. ஐ.தே.க.வினரும், பண்டாநாயக்கர்களும் இணைந்து செயற்பட்ட  போதும், அவர்கள் ஒருபோதும் இணைந்து தேர்தலில் போட்டியிட்டதில்லை. விட்டுக் கொடுத்ததும் இல்லை
+Ranil Wickremesinghe's government criticized for failing to investigate Sajith's alleged illicit funding. Despite unity between UNP and President, no electoral contest occurred, indicating unresolved issues.
+
+🟩
+
+Ranil Wickremesinghe's administration's fault is not to find out if Sajith is getting money from the wrong way. Although the UNP and the Pandanayakas work together, they never contested the election. Did not give up
 
 ◼️
 
 [Data](articles/41c8cd3a.json)
+
+[Extended Data](ext_articles/41c8cd3a.ext.json)
 
 ---
 
@@ -198,21 +308,27 @@ The Presidential Media Unit said that all in the rally was lifted and passed una
 
 ---
 
-### “சர்வஜன வாக்கெடுப்புக்கு வழிவகுக்கும் திருத்தம் வேண்டாம்”
+### “Do not amend the referendum”
 
 *2024-07-21 18:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்புக்கு-வழிவகுக்கும்-திருத்தம்-வேண்டாம்/175-340772) · `ta`
 
-சர்வஜன வாக்கெடுப்புக்கு வழிவகுக்கும் வகையில் எந்தவொரு திருத்தத்தையும் இந்த வேளையில் கொண்டு வர வேண்டாம் என ஜனாதிபதி தலைமையிலான அரசாங்கத்திடம் கோரிக்கை விடுப்பதாக சுதந்திரமானதும் நியாயமானதுமான தேர்தல்களுக்கான மக்கள் செயற்பாடு (பஃப்ரல்)  அமைப்பு தெரிவித்துள்ளது.
+The People's Function for Independent and Fair Elections warns against amending the referendum, citing potential misuse of funds as a financial crime amidst an economic crisis. The group criticizes the government for avoiding local government elections, suggesting it prioritizes maintaining its power over democratic processes.
 
-நாடு பொருளாதார நெருக்கடிக்கு முகங்கொடுத்து பத்து பில்லியன் ரூபாவை செலவிட்டு சர்வஜன வாக்கெடுப்பை நடத்தினால் அது நிதிக் குற்றமாகும் என அதன் நிறைவேற்றுப் பணிப்பாளர்  ரோஹன ஹெட்டியாராச்சி தெரிவித்தார்.
+🟩
 
-உள்ளுராட்சி மன்றத் தேர்தல்கள் பணமில்லை எனக் கூறி ஒத்திவைக்கப்பட்டுள்ள வேளையில் சர்வஜன வாக்கெடுப்புக்கு வழிவகுக்கும் திருத்தங்களை அரசாங்கம் முன்வைப்பதை ஏற்றுக்கொள்ள முடியாது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+The People's Function for Independent and Fair Elections has said that the President -led government has asked the President not to bring any amendments to the referendum.
 
-உள்ளுராட்சி மன்றத் தேர்தலைத் தவிர்த்துள்ள அரசாங்கம், தனது சொந்த அதிகாரத்தின் பிழைப்புக்காக எவ்வாறு செயற்படுகின்றது என்பதை இது காட்டுவதாகவும்  .ஹெட்டியாராச்சி தெரிவித்தார்.
+The Executive Director Rohana Hettiarachchi said that if the country spends ten billion rupees in the face of the economic crisis, it is a financial crime.
+
+He also said that the government would not accept amendments to the referendum when the local government elections were postponed.
+
+Hettiarachchi said the government, which has avoided the local government elections, is showing how it works for the survival of its own power.
 
 ◼️
 
 [Data](articles/3e162e1b.json)
+
+[Extended Data](ext_articles/3e162e1b.ext.json)
 
 ---
 
@@ -1184,25 +1300,31 @@ A curfew ordered late on Friday has been extended to 3 p.m. (0900 GMT) on Sunday
 
 ---
 
-### පළාත් පාලන මැතිවරණය පැවැත්වුවා නම් තවමත් ලංකාවේ ඉරණම ඛේදනීයයි
+### If the local government election was held, Sri Lanka's fate was still tragic
 
 *2024-07-21 11:26:10* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-පැවැත්වුවා-නම්-තවමත්-ලංකාවේ-ඉරණම-ඛේදනීයයි/11-410888) · `si`
 
-ආර්ථිකය ගොඩනැඟීම පසෙකලා එදා පළාත් පාලන මැතිවරණය සඳහා මුදල් වැය කළා නම් අදවන විට මේ රට ඛේදනීය තත්ත්වයකට පත්වීම වැළැක්විය නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+In a speech addressing foreign heads of local authorities, Sri Lankan President Ranil Wickremesinghe highlighted the country's financial constraints, stating that allocating resources for local government elections was not feasible amidst pressing national priorities such as importing essential goods like drugs and fuel. He emphasized the challenges faced since assuming office, including economic collapse and political instability, and outlined efforts to stabilize the economy and provide relief to citizens through initiatives like distributing rice and offering housing rights. Despite opposition claims and internal disputes, Wickremesinghe expressed confidence in the government's ability to navigate these challenges and urged unity towards a shared vision for Sri Lanka's future, focusing on employment creation, poverty reduction, and women's empowerment.
 
-මැතිවරණයට වඩා මුදල් වෙන් කිරීමේදී එදා ප්‍රමුඛත්වය දිය යුතු කාරණා ගණනාවක් තිබු බව සඳහන් කළ ජනාධිපතිවරයා අභියෝග හමුවේ වුවත් මේ වන විට රටේ ආර්ථිකය ශක්තිමත් පදනමක් ඔස්සේ ඉදිරියට ගෙන ඒමට හැකි වී තිබෙන බව ද පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේ ශ්‍රී ජයවර්ධනපුර, මොනාර්ක් ඉම්පීරියල් හෝටලයේදී පැවති පළාත් පාලන ආයතනවල හිටපු ප්‍රධානීන් ගේ හමුවට එක්වෙමිනි.
+President Ranil Wickremesinghe said that if the country had spent money for the local government election, President Ranil Wickremesinghe said.
 
-දිවයින පුරා සිටින පළාත් පාලන නියෝජිතයින් විසින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන් සිදු කරන ලද ඉල්ලීම අනුව මෙම හමුව සංවිධානය කර තිබිණ.
+The President said that although the president had had a number of factors that should be allocated more than the election, he was able to proceed with the economy of the country.
 
-මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේ ද පැවසීය,
+President Ranil Wickremesinghe expressed his views to the Foreign Heads of Local Authorial in Sri Jayewardenepura, Sri Jayawardenapura and Monarch Imperial Hotel.
 
-මීට වසර දෙකකට පෙර මම රට බාර ගන්නා අවස්ථාව වන විට රට අර්බුද ගණනාවකට මුහුණ පා සිටියා. එදා ආර්ථික කඩා වැටීමක් පමණක් නොව, නීතිය හා දේශපාලනයද කඩා වැටීමට ලක්ව තිබුණා. නමුත් මේ ඡන්දෙදී පක්ෂ කඩා වැටීමකුත් සිදුව තිබෙනවා.
+The meeting was organized following the request made by the local government representatives island wide.
+
+President Ranil Wickremesinghe further said,
+
+By the time I was accepting the country two years ago, the country was in a number of crises. Law and politics were not only a crash but also. However, the party's centers have also taken place.
 
 ...
 
 [Data](articles/6b576346.json)
+
+[Extended Data](ext_articles/6b576346.ext.json)
 
 ---
 
@@ -2197,53 +2319,5 @@ In addition, a memorial stamp was published in the event of handing over student
 [Data](articles/f382a4b0.json)
 
 [Extended Data](ext_articles/f382a4b0.ext.json)
-
----
-
-### Ranil is 2 years after President
-
-*2024-07-21 05:46:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpd9mn79lx9o) · `si`
-
-Ranil Wickremesinghe, dubbed 'Ranil Rajapaksa' and 'Ping President,' became Sri Lanka's eighth Executive President in July 2021, succeeding Mahinda Rajapaksa amid nationwide protests. Facing economic challenges, including long queues for essentials and a $1 billion aid package from India, Wickremesinghe sought IMF assistance, leading to debt restructuring with China. Despite criticism for passing key legislation without broad public consultation, he remains committed to addressing the country's crises.
-
-🟩
-
-President Ranil Wickremesinghe is elected eighth Executive President and will be completed today (July 21). Some are called 'Ranil Rajapaksa'. Others also criticize him as 'Ping President'.
-
-It is no secret that Ranil Wickremesinghe was the most challenging time in the country when he was handed over to the post of successor.
-
-At the same time, the general public encamped and agitated by protests and protests claiming that the general public in the Galle Face and some parts of the island.
-
-Ranil Wickremesinghe was the Prime Minister of the government before he was appointed as the presidency.
-
-It is due to the resignation of the Prime Minister Mahinda Rajapaksa in the face of resignation.
-
-Addressing the nation on May 16, 2022, Ranil Wickremesinghe said that he was charged with a dangerous challenge.
-
-...
-
-[Data](articles/7331e9f5.json)
-
-[Extended Data](ext_articles/7331e9f5.ext.json)
-
----
-
-### Sales Capital and Prudentia Infinity unveil their modern office in Colombo 05
-
-*2024-07-21 04:07:00* · [`islandlk`](http://island.lk/sales-capital-and-prudentia-infinity-unveil-their-modern-office-in-colombo-05/) · `en`
-
-Sales Capital and Prudentia Infinity have recently unveiled their new state-of-the-art office in Colombo 05. The office is equipped with modern amenities aimed at boosting efficiency, fostering creativity, and encouraging collaboration among team members.
-
-Over the past five years, Sales Capital has partnered with more than 90 prestigious brands across 12 industry verticals in nine countries, significantly enhancing brand visibility and driving substantial sales for its clients.
-
-Milinda Mendis, Co-Founder and Director of Sales Capital, expressed enthusiasm about the new office, calling it a pivotal milestone in their journey. He emphasized that the expansion underscores their ongoing growth and commitment to delivering exceptional services.
-
-Roshan Bamberadeniya, Co-Founder and CEO of Sales Capital expressed gratitude to clients and partners for their trust and support, which he said had been crucial to their success.
-
-...
-
-[Data](articles/17d5d8ff.json)
-
-[Extended Data](ext_articles/17d5d8ff.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 01:05:20**
+As of **2024-07-22 01:20:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,451 (100.0%) of 36,452 articles have been extended.
+36,452 (100.0%) of 36,452 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -146,21 +146,29 @@ Although it is my intention to re -contest the election, he has decided to quit 
 
 ---
 
-### ’செந்திலின் கோரிக்கையால் ஆனந்தமடைந்தார் ஆனந்தகுமார்’
+### Anandakumar was happy with Senthil's request
 
 *2024-07-21 23:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்திலின்-கோரிக்கையால்-ஆனந்தமடைந்தார்-ஆனந்தகுமார்/175-340789) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் தலைவரும், கிழக்கு மாகாண ஆளுநருமான செந்தில் தொண்டமான் முன்வைத்துள்ள கோரிக்கை நியாயமானது என ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்றுபேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்துள்ளார்.
+Senthil Thondaman, leader of the Ceylon Workers Congress and Eastern Province Governor, supports the President's decision to grant plantation workers an interim allowance of 5,000 rupees pending a final settlement. This decision follows a demand from the United National Party's Ratnapura district organizer. Despite concerns over delays due to legal challenges from plantation companies, Anandakumar expresses optimism, emphasizing the commitment to increasing salaries and welcoming the interim measure.
 
-“பெருந்தோட்டத் தொழிலாளர்களுக்கு இடைக்கால கொடுப்பனவாக 5 ஆயிரம் ரூபாவை அரசாங்கம் வழங்க வேண்டுமென அக்கோரிக்கையை நிறைவேற்றுவதற்கு ஜனாதிபதி நிச்சயம் நடவடிக்கை எடுப்பார் என்ற நம்பிக்கை உள்ளது” என்றும் ஆனந்தகுமார் தெரிவித்துள்ளார்.
+🟩
 
-பெருந்தோட்ட தொழிலாளர்களுக்கு நாள் சம்பளமாக ஆயிரத்து 700 ரூபாய் வழங்கப்பட வேண்டுமென தீர்மானம் எட்டப்பட்டிருந்தாலும் நீதிமன்ற நடவடிக்கை காரணமாக அது இடைநிறுத்தப்பட்டுள்ளது.
+Senthil Thondaman, the leader of the Ceylon Workers Congress and the Governor of the Eastern Province, said that a three -member committee member of the United National Party, Ratnapura district organizer, said that the President's decision was fair.
 
-எனவே, தோட்ட தொழிலாளர்களுக்கு நாள் சம்பளமாக ஆயிரத்து 700 ரூபாய் கிடைக்கும்வரை இடைக்கால கொடுப்பனவாக 5  ஆயிரம் ரூபாய் வழங்கப்பட வேண்டும் என்ற கோரிக்கையை இ.தொ.கா தலைவர் முன்வைத்துள்ளார். இதனை வரவேற்று சுப்பையா ஆனந்தகுமார் அறிக்கையொன்றை விடுத்துள்ளார்.
+Anandakumar said, "The President is confident that the government will take action to fulfill the demand that the government should pay 5 thousand rupees as an interim allowance for plantation workers," Anandakumar said.
+
+Although the decision has been made to pay Rs.
+
+Therefore, the CWC leader has made a demand for plantation workers to be paid 5 thousand rupees as an interim allowance until a day of 700 rupees.. Subbaiah Anandakumar welcomed this and issued a statement.
+
+“Plantation workers are committed to the salary increase as president. That is why he came to Kotagala on May Day and published the good news to the workers.
 
 ...
 
 [Data](articles/3d3e1a7d.json)
+
+[Extended Data](ext_articles/3d3e1a7d.ext.json)
 
 ---
 

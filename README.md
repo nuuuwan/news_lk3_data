@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 12:20:29**
+As of **2024-07-21 12:35:42**
 
 ## Newspaper Stats
 
-*Scraped **36,362** Articles*
+*Scraped **36,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 3,276
 adaderanalk | 4,205
 tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
-virakesarilk | 5,685
-adaderanasinhalalk | 6,098
+virakesarilk | 5,688
+adaderanasinhalalk | 6,099
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,360 (100.0%) of 36,362 articles have been extended.
+36,362 (100.0%) of 36,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### பொருத்தமற்ற நேரத்தில்  அரசியலமைப்பு திருத்தம்  ஜனாதிபதியின் முனைப்புக்கு காரணம் தெரியவில்லை என்கிறார் நீதி  அமைச்சர் விஜயதாச
+
+*2024-07-21 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/188985) · `ta`
+
+அரசியலமைப்பில் திருத்தங்களை மேற்கொள்வதில் தவறல்ல. ஆனால் பொருத்தமற்ற நேரத்தில் அச்செயற்பாட்டை முன்னெடுப்பதால் பொதுமக்கள் உட்பட அனைத்து மட்டங்களிலும் வீணான அச்சங்கள் உருவாகி குழப்பமான சூழல் உருவெடுக்கும் என்று நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+22ஆவது திருத்தச்சட்டமூலத்தினை வர்த்தமானியில் அறிவிக்கும் செயற்பாட்டை விடயதானத்துக்கு பொறுப்பான அமைச்சர் என்ற வகையில் கலாநிதி விஜயதாச ராஜபக்ஷ அச்செயற்பாட்டை நிறுத்துமாறு நீதி அமைச்சரின் செயலாளருக்கு பணிப்புரை விடுத்திருந்தார்.
+
+எனினும் ஜனாதிபதி ரணில் விக்கிரமசிங்க அமைச்சரவையின் தலைவர் என்ற அடிப்படையிலும் நிறைவேற்று அதிகார ஜனாதிபதி என்ற அடிப்படையிலும் குறித்த திருத்தச்சட்டமூலத்தினை வர்த்தமானியில் வெளியிடும் உத்தரவினைப் பிறப்பித்துள்ளார்.
+
+...
+
+[Data](articles/08b2f2f9.json)
+
+---
+
+### அமெரிக்க தேர்தல் களத்தில் ட்ரம்ப் மீதான சூட்டின் தாக்கங்கள்
+
+*2024-07-21 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188989) · `ta`
+
+அமெரிக்க முன்னாள் ஜனாதிபதியும், குடியரசுக் கட்சியின் ஜனாதிபதி வேட்பாளருமான டொனால்ட் ட்ரம்ப் மீதான துப்பாக்கிச் சூடு அமெரிக்க ஜனாதிபதித் தேர்தல் களத்தில் பெரும் தாக்கத்தை ஏற்படுத்தக்கூடியதாகவுள்ளது.
+
+◼️
+
+[Data](articles/2b43872d.json)
+
+---
 
 ### Sri Lanka’s fate would remain tragic even with LG polls amid economic recovery – President
 
@@ -45,6 +73,44 @@ President Wickremesinghe made these remarks while attending a meeting with forme
 ...
 
 [Data](articles/29402240.json)
+
+[Extended Data](ext_articles/29402240.ext.json)
+
+---
+
+### ගාසා තීරයෙන් බය හිතෙන වෛරස් ප්‍රභේදයක් හමුවෙයි
+
+*2024-07-21 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199046) · `si`
+
+ඉතා වේගයෙන් ආසාදනය වියහැකි පෝලියෝ වෛරසයේ ප්‍රභේදයක් ගාසා තීරයෙන් හමුවී ඇති බව ලෝක සෞඛ්‍ය සංවිධානය පවසයි.
+
+ගාසා තීරයෙන් ලබාගත් අපද්‍රව්‍ය සාම්පල වල තිබී එම වෛරස ප්‍රභේදය හමුවී තිබුණි.
+
+මෙම වෛරසය ආසාදනය වුවහොත් එම පුද්ගලයින් අංගවිකල වීමට ඉඩ තිබේ.
+
+ලෝක සෞඛ්‍ය සංවිධානය සහ ගාසා හි සෞඛ්‍ය අමාත්‍යංශ බලධාරීන් පවසන්නේ ඒ හේතුවෙන් පලස්තීනුවන් විශාල අවදානමකට මුහුණදී ඇති බවයි.
+
+එම පෝලියෝ වෛරස ප්‍රභේදය VDPV2 ලෙස හඳුනා ගෙන ඇති අතර පසුගිය මාසයේ ඛාන් යුනිස් සහ ඩෙයා අල්-බලා යන ස්ථානවලින් ලබාගත් සාම්පල 6ක තිබී එම ප්‍රභේදය හමුවූ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/6d1e29c3.json)
+
+---
+
+### பாராளுமன்ற குழுத் தலைமை பதவி குறித்து மத்திய குழுவே தீர்மானிக்கும் - சுமந்திரன்
+
+*2024-07-21 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188982) · `ta`
+
+இலங்கை தமிழ் அரசுக் கட்சியின் பாராளுமன்ற குழுத் தலைமைப்பதவி குறித்து அக்கட்சியின் மத்தியிலேயே தீர்மானம் எடுக்க வேண்டியிருப்பதால் அத்தீர்மானம் எடுக்கப்படும் வரையில் எனது வழமையான வகிபாகம் தொடரும் என்று அக்கட்சியின் பேச்சாளரும் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினருமான எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+சம்பந்தனின் மறைவையடுத்து இலங்கை தமிழ் அரசுக் கட்சியின் பாராளுமன்றக் குழுத் தலைவர் பதவிக்கான வெற்றிடம் ஏற்பட்டுள்ளது. இந்நிலையில் அப்பதவிநிலையை ரெலோவின் தலைவரும் வன்னி மாவட்ட பாராளுமன்ற உறுப்பினருமான செல்வம் அடைக்கலநாதனுக்கு வழங்குமாறும் கோரிக்கை முன்வைக்கப்பட்டது.
+
+இந்நிலையில், பாராளுமன்றத்தில் கூடிய தமிழ் அரசுக் கட்சி, ரெலோ, புளொட் ஆகிய குறித்த விடயம் சம்பந்தமாக உரையாடிய தருணத்தில் தமிழரசுக் கட்சியுடன் உரையாடிவிட்டு பதிலளிப்பதாக சுமந்திரன் தரப்பில் தெரிவிக்கப்பட்டது. இதனையடுத்து தமிழரசுக்கட்சியின் அரசியல் உயர்பீடக் கூட்டம் நடைபெற்றது.
+
+...
+
+[Data](articles/808733f3.json)
 
 ---
 
@@ -2267,103 +2333,5 @@ The central bank still had a negative position of about 821 million dollars by M
 [Data](articles/7839d335.json)
 
 [Extended Data](ext_articles/7839d335.ext.json)
-
----
-
-### Ali Sabri affillations bailed
-
-*2024-07-20 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199015) · `si`
-
-Ali Sabri Rahiel, a Puttalam District Parliamentarian, was arrested but later released on bail. He must appear in court on July 22 as per orders from the Puttalam Acting Magistrate.
-
-🟩
-
-Puttalam District Parliamentarian Ali Sabri rahriel was ordered to be released on a bail of Rs.
-
-Puttalam Acting Magistrate ordered him to appear before the court on July 22.
-
-Ali Sabry was arrested by the police this morning.
-
-He recently released warrants and had been arrested when he came to the Kalpitiya Police.
-
-◼️
-
-[Data](articles/943b5903.json)
-
-[Extended Data](ext_articles/943b5903.ext.json)
-
----
-
-### China collapses in China collapses
-
-*2024-07-20 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199014) · `si`
-
-A bridge in Shaanxi, China, collapsed due to heavy rain and flooding, killing at least 11 people and leaving 30 missing. Rescue efforts are ongoing, with five vehicles retrieved so far.
-
-🟩
-
-Foreign media reports that a bridge on the province of Shaanxi in Northwest China has collapsed.
-
-At least 11 people have died in the accident.
-
-The bridge has collapsed due to the rain and a flood.
-
-Five vehicles have been recovered due to the collapse of the rescue teachers.
-
-Thirty people have gone missing and in the operation.
-
-◼️
-
-[Data](articles/89e2006e.json)
-
-[Extended Data](ext_articles/89e2006e.ext.json)
-
----
-
-### MP Ali Sabri Raheem released on bail
-
-*2024-07-20 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100649/mp-ali-sabri-raheem-released-on-bail) · `en`
-
-Puttalam District MP Ali Sabry Raheem has been granted bail after being produced before the Puttalam Magistrate’s Court today (20).
-
-The Puttalam Acting Magistrate has ordered the MP to be released on a surety bail of Rs. 200,000 and also to appear before court on 22 July, Ada Derana reporter said.
-
-The parliamentarian, against whom a warrant had been issued recently, was arrested this morning after he appeared before the Kalpitiya Police.
-
-◼️
-
-[Data](articles/0c95bd2f.json)
-
-[Extended Data](ext_articles/0c95bd2f.ext.json)
-
----
-
-### Sri Lankan students who remain in Bangladesh
-
-*2024-07-20 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199013) · `si`
-
-The Sri Lankan student community in Bangladesh faces challenges as universities close amid unrest. The government assures their safety, but tensions escalate, leading to curfews and violence resulting in numerous deaths.
-
-🟩
-
-The Ministry of External Affairs says that steps have been taken to ensure the safety of Sri Lankan students who have been staying in Bangladesh.
-
-The Ministry has pointed out that about 50 Sri Lankan students of the country are engaged in study of three universities.
-
-The Ministry of External Affairs said that the universities were closed due to the universities in Bangladesh.
-
-The High Commissioner of Sri Lanka in Bangladesh has met with students and look into their needs and discussed with the administration of the students.
-
-Due to the escalation of the students to change the Government Job Corporation, the students have been declared a curfew in Bangladesh.
-
-105 deaths have been reported due to the clashes between the protesters and the police, while 52 protesters have died yesterday (19).
-
-Student union representatives have stated that the troops have been summoned to ensure the security of troops, though the crushed law has been summoned.
-
-...
-
-[Data](articles/e8746eec.json)
-
-[Extended Data](ext_articles/e8746eec.ext.json)
 
 ---

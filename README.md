@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 00:35:33**
+As of **2024-07-22 00:51:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,449 (100.0%) of 36,451 articles have been extended.
+36,451 (100.0%) of 36,451 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Biden plans to serve out the remainder of his term in office, which ends at noon
 ...
 
 [Data](articles/00255bb3.json)
+
+[Extended Data](ext_articles/00255bb3.ext.json)
 
 ---
 
@@ -161,6 +163,8 @@ Expresses shock over disrespect and violation of women’s rights still happenin
 ...
 
 [Data](articles/a858539b.json)
+
+[Extended Data](ext_articles/a858539b.ext.json)
 
 ---
 

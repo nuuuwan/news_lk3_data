@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 11:20:18**
+As of **2024-07-21 11:35:48**
 
 ## Newspaper Stats
 
-*Scraped **36,344** Articles*
+*Scraped **36,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 islandlk | 2,073
 economynextcom | 2,169
 dailyftlk | 2,314
-adalk | 3,275
-adaderanalk | 4,201
+adalk | 3,276
+adaderanalk | 4,203
 tamilmirrorlk | 4,427
 dailymirrorlk | 4,733
 virakesarilk | 5,681
-adaderanasinhalalk | 6,096
+adaderanasinhalalk | 6,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,341 (100.0%) of 36,344 articles have been extended.
+36,344 (100.0%) of 36,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### Sri Lanka to witness rare lunar occultation of Saturn next week
+
+*2024-07-21 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100661/sri-lanka-to-witness-rare-lunar-occultation-of-saturn-next-week) · `en`
+
+The Lunar Occultation of Saturn which is a rare astronomical event will be visible to Sri Lanka just after midnight on July 24, 2024.
+
+The Arthur C Clarke Institute for Modern Technologies said that the event will start at approximately 00:50 a.m. on 25 July, 2024 and will be visible to the naked eye by looking at the Moon starting around 00:40 a.m. on July 25, from Sri Lanka.
+
+Furthermore, Arthur C Clarke Institute added that a telescope or a pair of binoculars will enable the observation of the occultation-the disappearance and reappearance of Saturn, more clearly.
+
+In an occultation, one celestial body passes in front of another, blocking its view. When the Moon moves in front of Saturn, obscuring it from view on Earth, this event is known as the lunar occultation of Saturn.
+
+...
+
+[Data](articles/6fbed152.json)
+
+---
+
+### Govt. manages budget deficit independently after implementing new Central Bank Act - Semasinghe
+
+*2024-07-21 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100660/govt-manages-budget-deficit-independently-after-implementing-new-central-bank-act-semasinghe) · `en`
+
+The government manages the budget deficit independently with the implementation of a new Central Bank Act, State Minister of Finance Shehan Semasinghe says.
+
+Posting on ‘X’ (formerly Twitter), Semasinghe stated that in the first six months of 2024, the government repaid Rs 129 billion more than it borrowed through treasury bonds and bills.
+
+“During this period, the government borrowed a total of Rs 4,852 billion through these instruments but repaid Rs 4,981 billion by rolling over the same instruments. Therefore, it’s important to highlight the net borrowing rather than the gross borrowing”, he added.
+
+Furthermore, the Finance State Minister expressed that before emerging from the economic crisis, the government relied on central bank financing, which led to an inflation rate as high as 70% and that however, with the implementation of a new central bank act, the government now manages the budget deficit independently.
+
+◼️
+
+[Data](articles/abe81424.json)
+
+---
+
+### ඝාතනයකට උදව්කළ සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-07-21 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199044) · `si`
+
+කළුතර, කටුකුරුන්ද ප්‍රදේශයේදී වෙඩිතබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+බස්නාහිර පළාත් දකුණු අපරාධ කොට්ඨාසය විසින් ඊයේ (20) එම සැකකරු අත්අඩංගුවට ගෙන තිබුණේ අතුරුගිරිය නගරයේදීය.
+
+එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, මානියම්ගම, අවිස්සාවෙල්ල ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකි.
+
+මෙම සැකකරු මෙලස අත්අඩංගුවට ගෙන අත්තේ, අදාළ ඝාතනය සිදුකිරීම සඳහා කුමන්ත්‍රණයක කිරීම හා ආධාර අනුබලදීම යන කරුණු සම්බන්ධයෙන් බව පොලීසිය පවසයි.
+
+සැකකරු කළුතර දකුණ පොලිස් ස්ථානය වෙත ඉරිපත් කර ඇති බව පොලීසිය පවසයි.
+
+පසුගිය මැයි මස 20 වනදා රාත්‍රී කාලයේදී කළුතර, කටුකුරුන්ද ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් නිවසක සිටි පුද්ගලයෙකු වෙඩි තබා ඝාතනය කර පළාගොස් තිබුණි.
+
+මේ අතර මෙම අපරාධය සම්බන්ධයෙන් තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර කළුතර දකුණ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/1e0d5067.json)
+
+---
 
 ### The shooter reveals before shooting at Trump
 
@@ -82,19 +142,27 @@ In addition, there will be a situation where large funds will be spent on the el
 
 ---
 
-### மாவை ,சிறீதரன் உட்பட நால்வரின்  சமர்ப்பணங்கள் இடம்பெறவில்லை;  பின்னடிப்புக்கு காரணம் தெரியாது - சுமந்திரன்
+### The submissions of four, including Maui and Sreedharan;The reason for the retreat is unknown - Sumanthiran
 
 *2024-07-21 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188978) · `ta`
 
-இலங்கை தமிழ் அரசுக் கட்சியின் புதிய நிருவாகத் தெரிவு தொடர்பில் தாக்கல் செய்யப்பட்ட வழக்கினை முடிவுக்கு கொண்டுவருவதற்கான இணக்கப்பாடுகள் எட்டப்பட்ட போதும் அதன் பிரகாரம் மாவை. சேனாதிராஜா, சிவஞானம் சிறீதரன் ஆகியோர் உட்பட நால்வரின் தரப்பு சமர்ப்பனங்கள் இடம்பெறவில்லை. அதற்கான காரணங்களும் தெரியாதுள்ளது என்று அக்கட்சியின் பேச்சாளரும் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினருமான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+A case filed by the Sri Lankan Tamil State Party's new administration has reached its conclusion, with the reasons for the retreat remaining unknown. Despite actions to close the case, submissions from four individuals, including Senathirajah and Sreedharan, were missing, leading to an 11-day postponement. The decision to end the case was made at a Central Executive Committee meeting, with plans for submissions during a political meeting in Vavuniya. However, the four individuals failed to submit their documents, causing the delay.
 
-இலங்கை தமிழ் அரசுக் கட்சியின் புதிய நிர்வாகத் தெரிவுக்கு எதிராக தொடுக்கப்பட்டுள்ள வழக்கினை இணக்கப்பாட்டுடன் முடிவுக்கு கொண்டுவருவதற்கு கட்சி மட்டத்தில் நடவடிக்ககைள் எடுக்கப்பட்டிருந்தபோதும், கடந்த 19ஆம் திகதியில் மீண்டும் 11 நாட்களுக்கு வழக்கு ஒத்திவைக்கப்பட்டுள்ளது. இந்நிலையில், கருத்து வெளியிட்டுள்ள சுமந்திரன் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-கட்சியின் நிருவாகத் தெரிவுக்கு எதிராக தொடுக்கப்பட்டுள்ள வழக்கினை இணக்கப்பாட்டுடன் முடிவுக்கு கொண்டுவருவதென எமது மத்திய செயற்குழுக் கூட்டத்தில் தீர்மானிக்கப்பட்டது. அதன் பின்னர் அதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டன.
+The Maui has reached the end of the case filed by the Sri Lankan Tamil State Party's new administration.. Four's submissions, including Senathirajah and Sivagnanam Sreedharan. The spokesman of the party and the Jaffna spokesman said that the reasons for it were unknown. District Parliamentarian President MA Sumanthiran said.
+
+The case has been postponed for 11 days on the 19th, even though the party level has taken action to end the case against the new administration of the Sri Lankan Tamil state party.. In this case, Sumanthiran commented on the above.
+
+At our Central Executive Committee meeting, it was decided to end the case against the party's administrative choice. Thereafter, the measures were taken.
+
+Subsequently, it was decided that the opponents would submit their submissions during the political high -level meeting in Vavuniya on the 14th and the drafts were shared with other opponents.
 
 ...
 
 [Data](articles/5920f5fe.json)
+
+[Extended Data](ext_articles/5920f5fe.ext.json)
 
 ---
 
@@ -264,19 +332,27 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 
 ---
 
-### பொதுஜன பெரமுன தனித்து வேட்பாளரை நிறுத்தும் சாத்தியம்
+### PA is possible to field a separate candidate
 
 *2024-07-21 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/188972) · `ta`
 
-ஜனாதிபதி வேட்பாளர் விடயத்தில் ஆளும் கட்சி முரண்பாடுகள் தீர்க்கப்படாத நிலையில் ஸ்ரீலங்கா பொதுஜன பெரமுன தனித்து வேட்பாளர் ஒருவரை நிறுத்துவதற்கான பேச்சுவார்த்தைகளை முன்னெடுத்து வருகின்றது. அந்த கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ, ஸ்தாபகர் பஷில் ராஜபக் , தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ மற்றும் தம்மிக பெரேரா ஆகியோருக்கு இடையில் கடந்த வாரத்தில் இடம்பெற்ற கலந்துரையாடலின்போதே தனித்து வேட்பாளரை நிறுத்துவதற்கான சாத்தியக்கூறுகள் குறித்து அவதானம் செலுத்தியுள்ளனர்.
+In a recent discussion, leaders of Sri Lanka's People's Alliance (PA), including Mahinda Rajapaksa and Basil Rajapaksa, discussed the possibility of fielding a separate candidate for the upcoming elections. They also considered contesting the budget if it supports President Ranil Wickremesinghe, despite opposition from supporting parties. Dhammika Perera has expressed readiness to run as the presidential candidate if given the chance by the PA. The Election Commission's decision on whether to support Perera or grant him presidential candidate status is expected soon.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்க வேண்டுமாயின் மொட்டு சின்னத்தில் போட்டியிட வேண்டும் என்பது ஸ்ரீலங்கா பொதுஜன பெரமுனவின் நிபந்தனையாக உள்ளது. இதற்கு ஆதரவளிக்க முன்வந்துள்ள பங்காளி கட்சிகள் எதிர்ப்பை வெளியிட்டுள்ளன. அதே போன்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் இதில் உடன்பாடு இல்லை.
+🟩
 
-இவ்வாறானதொரு நிலையிலேயே உத்தேச ஜனாதிபதி தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்காது தனித்து வேட்பாளரை நிறுத்துவதனால் ஏற்படக்கூடிய சாதக, பாதக நிலைமைகள் குறித்து ஆராயப்பட்டுள்ளது.
+Sri Lanka PA. The party's leader Mahinda Rajapaksa, the founder Basil Rajapaksa, the national organizer Namal Rajapaksa and Dhammika Perera have taken care of the possibility of a separate candidate during a discussion held last week.
+
+Sri Lanka's PA is to contest the budget if he wants to support President Ranil Wickremesinghe. The parties that have come forward to support this have expressed their opposition. Similarly, President Ranil Wickremesinghe has no agreement.
+
+It is in this context that the proposed presidential election has been examined by Ranil Wickremesinghe, who is not supporting the candidate.
+
+Dhammika Perera has once again announced that he is ready to contest as the presidential candidate if the Sri Lanka PA is given the opportunity to contest at Mahinda Rajapaksa's residence.
 
 ...
 
 [Data](articles/0fbd5fb0.json)
+
+[Extended Data](ext_articles/0fbd5fb0.ext.json)
 
 ---
 
@@ -386,6 +462,24 @@ Accordingly, Israel has launched airstrikes after the Hamas attack on October 7.
 
 ---
 
+### බංකොළොත් ව්‍යාපාර සම්බන්ධව කටයුතු කිරීමට නව පනතක්
+
+*2024-07-21 08:13:49* · [`adalk`](https://www.ada.lk/breaking_news/බංකොළොත්-ව්‍යාපාර-සම්බන්ධව-කටයුතු-කිරීමට-නව-පනතක්/11-410881) · `si`
+
+තාවකාලිකව අත්හිටුවා තිබෙන පරාටේ නීතිය දිගුකලක් පවත්වාගෙන යාමට නොහැකි බවත්, එබැවින් බංකොළොත් ව්‍යාපාර සම්බන්ධව කටයුතු කිරීමට නව පනත් කෙටුම්පතක් හඳුන්වාදීමට කටයුතු කරනු ලබන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+යෝජිත නව පනත් කෙටුම්පත මඟින් ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් ලබාගෙන ඇති ණය ප්‍රතිව්‍යුහගතකරණය පිළිබඳව ද විධිවිධාන අන්තර්ගත වන බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් වෙත අවශ්‍ය ආධාර සහ උපකාර ලබාදීම සඳහා “එන්ටර්ප්‍රයිස් ශ්‍රී ලංකා” නමින් නව ආයතනයක් බිහිකරනු ලබන බව සඳහන් කළ ජනාධිපතිවරයා මෙරට ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් දිරිගැන්වීම වෙනුවෙන් රජය කැපවී සිටින බව ද පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ ලංකා ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින්ගේ සම්මේලනය (Ceylon Federation of MSME) විසින් කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී  සංවිධානය කර තිබූ “ශ්‍රී ලංකාවේ ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායක ජවයෙන් ආර්ථිකය පණගන්වන තීරණාත්මක ඇරඹුම” යන වැඩසටහනට එක්වෙමිනි.
+
+...
+
+[Data](articles/a4297f1b.json)
+
+---
+
 ### Israel -Tel Avi's retaliation on Yemen's port city
 
 *2024-07-21 07:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188968) · `ta`
@@ -408,25 +502,31 @@ It is noteworthy that Haundi rebels carried out an unmanned air strike on the Is
 
 ---
 
-### මාතලේ ගොවිහු රැසක් වී වෙනුවට බඩඉරිගු වවයි
+### The farmers in Matale are replaced by migrants instead of
 
 *2024-07-21 07:51:07* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-ගොවිහු-රැසක්-වී-වෙනුවට-බඩඉරිගු-වවයි/11-410880) · `si`
 
-මාතලේ දිස්‍ත්‍රික්කයේ වී වගාව වෙනුවට ප්‍රදේශ රැසක අතුරු බෝග රැසක් වගාකර ඇතැයි ගොවි සංවිධාන කියයි.
+In Matale, farmers are being replaced by migrants, and instead of focusing on paddy cultivation, they're growing inter-crops and short-term crops like vegetables due to anticipated rain conditions. This shift is evident across various parts of the district, including Naule, Pallepola, Laggala, and Wilgamuwa, with crops like mulatum thriving in Naula and Aranganggala.
 
-වැසි තත්ත්වයේ වෙනස්වීම් සහ කෙටිකාලින භෝග වලින් වැඩි අස්වැන්නක් අපේක්ෂාවෙන් ගොවිහු අතුරු භෝග වගාකර තිබේ.
+🟩
 
-එළවළු වලට අමතරව මාතලේ දිස්ත්‍රික්කයේ ප්‍රදේශ රැසක බඩඉරිගු වගා කර ඇති අතර ගොවින් පවසන්නේ සිය වගා මේ වන විට හොද තත්ත්වයේ පවතින බවයි.
+Farmers' organizations say that many inter-crops have been cultivated in several areas instead of paddy cultivation in Matale District.
 
-මේ වන විට පලදාව අපෙක්ෂාවෙන් පවතින හා ඒ ආසන්නයට පැමිණි බඩඉරිගු වගාවන් රැසක් ප්‍රාදේශිය ලේකම් කොට්ඨාශ රැසක දක්නට ලැබෙයි.
+Farmers have cultivated by-crops in anticipation of rain condition and short term crops.
 
-වී වගාවට අමතරව සිදුකර ඇති වගා අතර නාඋල,පල්ලේපොල,ලග්ගල හා විල්ගමුව ආදී ප්‍රදේශ වල බඩඉරිගු වගා දැක ගත හැකිය.
+In addition to vegetables, the equipment of several parts of the Matale district have been cultivated and farmers say they are now well in good condition.
 
-ඡායාරූපයෙන් දැක්වෙන්නේ නාඋල - අරන්ගල වෙල්යායේ බඩඉරිගු වගාකර ඇති අයුරුයි.
+A number of cultivation crops in the production and the near future have been found in several local secretaries.
+
+In addition to paddy cultivation, the cultivated crops can be seen in Naule, Pallepola, Laggala and Wilgamuwa.
+
+Pictured here is the mulatum cultivated in Naula and Aranganggala.
 
 ◼️
 
 [Data](articles/d59c3e93.json)
+
+[Extended Data](ext_articles/d59c3e93.ext.json)
 
 ---
 
@@ -2257,103 +2357,5 @@ The event, which was held on Friday (19), was also attended by President Ranil W
 [Data](articles/87f11adb.json)
 
 [Extended Data](ext_articles/87f11adb.ext.json)
-
----
-
-### Diyawanna Oya bodies floated
-
-*2024-07-20 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199011) · `si`
-
-Bodies found in Diyawanna; believed to be around 60-65 years old. Investigation ongoing by Talangama Police and Mirihana Socho Unit.
-
-🟩
-
-Diyawanna has seen the bodies today by a person near the fictitious lane.
-
-Police said that about 60 or 65 years old, about 60 or 65 years.
-
-Talangama Police and Mirihana Socho Unit are conducting further investigations.
-
-◼️
-
-[Data](articles/e6f64474.json)
-
-[Extended Data](ext_articles/e6f64474.ext.json)
-
----
-
-### MP Alisabri Rahim arrested
-
-*2024-07-20 11:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்-அலிசப்ரி-ரஹீம்-கைது/175-340709) · `ta`
-
-MP Alisabri Rahim was arrested after surrendering to the Kalpitiya police today.
-
-🟩
-
-According to the Kalpitiya police, he was arrested when he surrendered to the Kalpitiya police today.
-
-◼️
-
-[Data](articles/573dae34.json)
-
-[Extended Data](ext_articles/573dae34.ext.json)
-
----
-
-### Siso protest in Bangladesh is increasing
-
-*2024-07-20 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199010) · `si`
-
-In Bangladesh, student protests have escalated, leading to 105 deaths, primarily from police actions. Foreign media reports vary on death counts due to restrictions. Protests against the government have grown more violent, including an attack on the Narsingh Prison, freeing prisoners. The main opposition supports the protests, urging national assistance. Despite efforts, the unrest continues, with Indian students in Bangladesh also protesting in solidarity. Security around the Bangladeshi High Commission in India has been tightened, and over 300 Indian students have returned to India due to safety concerns. The Indian government assures the safety of its citizens in Bangladesh, where there are approximately 8,500 Indian students and 15,000 Indians in total.
-
-🟩
-
-The deceased has increased to 105 people during the student protests.
-
-Foreign media continues to be definitely, the number of deaths cannot be specified.
-
-Most deaths have occurred from police attacks.
-
-Foreign media reports that the hurricane has been imposed due to protests that have been further violent.
-
-The protest with the Prime Minister of the Prime Minister of Bangladesh is further intensified.
-
-The protests are further violent in the backdrop.
-
-The aggressive protesters have broken to the Narninge Prison and hundreds of prisoners have fled the country.
-
-The main opposition of Bangladesh has also supported the student protests and the opposition has requested all the people of the country to assist them.
-
-All the discussions have failed to end protests.
-
-Meanwhile, Indian students have also begun protests in support of Bangladesh students.
-
-Accordingly, security near the High Commission of the Bangladesh High Commission in India has been strengthened.
-
-...
-
-[Data](articles/6c1a9448.json)
-
-[Extended Data](ext_articles/6c1a9448.ext.json)
-
----
-
-### Country’s true wealth lies in its youth, not in struggling SOEs – President
-
-*2024-07-20 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100643/countrys-true-wealth-lies-in-its-youth-not-in-struggling-soes-president) · `en`
-
-President Ranil Wickremesinghe stated that restructuring loss-making public institutions will enable the government to allocate more resources to education and healthcare in the future.
-
-He emphasized that the country’s true wealth lies in its youth, not in struggling state enterprises. The President noted that many state enterprises are now operating without burdening the government, and he expects that the financial obligations related to SriLankan Airlines will be resolved by the end of the year.
-
-President Wickremesinghe made these remarks during the ceremony to hand over the newly built Faculty of Allied Health Sciences at the Ruhuna University, located in Walahanduwa, Galle, yesterday (19).
-
-At the event, the President unveiled a plaque and formally transferred the college building to the students. He also took time for a tour and engaged in friendly discussion with the university staff.
-
-...
-
-[Data](articles/47aa46ef.json)
-
-[Extended Data](ext_articles/47aa46ef.ext.json)
 
 ---

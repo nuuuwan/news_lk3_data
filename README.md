@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 18:36:32**
+As of **2024-07-21 18:54:06**
 
 ## Newspaper Stats
 
-*Scraped **36,408** Articles*
+*Scraped **36,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,204 @@ newsfirstlk | 363
 islandlk | 2,074
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,282
+adalk | 3,283
 adaderanalk | 4,213
-tamilmirrorlk | 4,435
+tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
-virakesarilk | 5,694
+virakesarilk | 5,704
 adaderanasinhalalk | 6,112
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,407 (100.0%) of 36,408 articles have been extended.
+36,408 (100.0%) of 36,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### ජනාධිපතිවරණයට රනිල් - යෝජනාව ප්‍රසන්නගෙන්
+### மின்சார கட்டணம் குறைந்துள்ளது; நீர் கட்டணமும் மறுசீரமைக்கப்பட உள்ளது; நாட்டு மக்கள் வாழ்வில் சுபீட்சம் ஏற்பட ரணில் விக்கிரமசிங்கவின் ஆட்சி தொடர வேண்டும் - எம்.ராமேஷ்வரன் எம்.பி
+
+*2024-07-21 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189031) · `ta`
+
+இலங்கையின் பொருளாதாரம் அபிவிருத்தியை நோக்கி பயணிக்க வேண்டுமெனில் தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் ஆட்சி தொடர வேண்டுமெனவும், நாட்டு மக்களும் இதனை உணர்ந்துள்ளனர் எனவும் இ.தொ.காவின் தவிசாளரும், நுவரெலியா மாவட்ட நாடாளுமன்ற உறுப்பினருமான மருதபாண்டி ராமேஷ்வரன் தெரிவித்துள்ளார்.
+
+பல வருட காலமாக குன்றும் குழியுமாக காணப்பட்ட 5.5 கி.மீ வரையிலான பூண்டுலோயா முதல் டன்சினன் வழியாக நுவரெலியா செல்லும் பிரதான பாதை, 2024 ஆம் ஆண்டின் 1000 கி.மீ வீதி அபிவிருத்தி திட்டத்தின் கீழ் 130 மில்லியன் ரூபா செலவில் கார்ப்பட் இடப்பட்டு போக்குவரத்து நெடுஞ்சாலைகள் மற்றும் வெகுஜன ஊடகத்துறை அமைச்சர் கலாநிதி பந்துல குணவர்த்தன மற்றும் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான், நுவரெலியா மாவட்ட நாடாளுமன்ற உறுப்பினர் மருதபாண்டி ராமேஷ்வரன் ஆகியோர்களால் மக்கள் பாவனைக்கு ஞாயிற்றுக்கிழமை (20) திறந்து வைக்கப்பட்டது.
+
+இந்நிகழ்வில் கலந்துக் கொண்டு உரையாற்றிய நாடாளுமன்ற உறுப்பினர் ரமேஷ்வரன் மேலும் கூறியவை வருமாறு,
+
+...
+
+[Data](articles/59fd6d2c.json)
+
+---
+
+### ரணில் வேண்டும்: கம்பஹாவில் தீர்மானம்
+
+*2024-07-21 18:30:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/ரணில்-வேண்டும்-கம்பஹாவில்-தீர்மானம்/95-340773) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்க போட்டியிட வேண்டும் என்ற பிரேரணை, “ஒன்றிணைந்து கம்பஹாவை வெல்வோம் - நாம் கம்பஹா” என்ற மக்கள் சந்திப்பில் ஏகமனதாக நிறைவேற்றப்பட்டது.
+
+கம்பஹா மாவட்ட மக்கள் சார்பாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர்  பிரசன்ன ரணதுங்க இந்த பிரேரணையை முன்வைத்ததோடு, பொதுக்கூட்டத்தில் கலந்து கொண்ட அனைவரும் கைகளை உயர்த்தி ஏகமனதாக பிரேரணையை ஏற்றுக்கொண்டனர். இந்த பொதுக்கூட்டம் கடவத்தை பேருந்து நிலையம் அருகே ஞாயிற்றுக்கிழமை (21) நடைபெறுகிறது.
+
+◼️
+
+[Data](articles/e6481659.json)
+
+---
+
+### தொன்மங்களைப் பறிக்கும் பௌத்தம் : பகுதி 04
+
+*2024-07-21 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189027) · `ta`
+
+'வடக்கு,கிழக்கில் தொல்பொருளியல் பகுதிகளாக அடையாளம் காணப்பட்ட அனைத்துப்பகுதிகளும் பௌத்தத்தின் வரலாற்றுத் தொன்மங்களாக்கப்பட்டு ஆக்கிரமிக்கப்படும் துர்ப்பாக்கிய நிலை'
+
+◼️
+
+[Data](articles/a8901eb1.json)
+
+---
+
+### உள்நாட்டு இறைவரி திணைக்களத்தின் புதிய அத்தியாயம்
+
+*2024-07-21 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189025) · `ta`
+
+"நிதிசார் கொடுக்கல்வாங்கல் பற்றிய தகவல்களுட்பட்ட அத்தகைய தகவல்களை இலத்திரனியற் படிவத்தில் கிரமமானவோர் அடிப்படையில் அல்லது விதித்துரைக்கப்படக்கூடியவாறாக அத்தகைய எவரேனுமாளின் அல்லது நிறுவனத்தின் கட்டுக்காப்பிலுள்ள அத்தகைய பதிவேடுகளுக்கான அணுகுகையை ஆணையாளர் தலைமையதிபதிக்கு வழங்குதல் வேண்டும்.”
+
+◼️
+
+[Data](articles/b829f817.json)
+
+---
+
+### உலகின் நான்காவது பொருளாதார சக்தியாக ரஷ்யா
+
+*2024-07-21 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189023) · `ta`
+
+கடந்த ஜூன் தொடக்கத்தில் வெளியிடப்பட்ட உலக வங்கியின் தரவுகளின்படி, ரஷ்யப் பொருளாதாரம் ஜப்பானை முந்திக்கொண்டு கொள்முதல்- சக்தி- சமநிலை (PPP) அடிப்படையில்  உலகில் நான்காவது வளர்ச்சி அடைந்த நாடாக மாறியுள்ளது.
+
+கடந்த ஆகஸ்டில் பி.என்.ஈ அறிக்கையின்படி, ரஷ்யா ஏற்கனவே ஜேர்மனை பின் தள்ளி ஐந்தாவது பெரிய பொருளாதாரமாக மாறியது. மலிவான ரஷ்ய எரிவாயுவில் இருந்து துண்டிக்கப்பட்டு, ஜேர்மன் இப்போது தேக்கமடைந்து, சமீபத்திய அரசியல் நிகழ்வுகளால் பாதிக்கப்பட்டதுடன், உலக வங்கியின் தரவரிசையில் ஆறாவது இடத்திற்கு வீழ்ந்துள்ளது.
+
+கொள்முதல்- சக்தி- சமநிலை (PPP) மற்றும் மொத்த தேசிய உற்பத்தி அளவீடு பல பொருளாதார வல்லுனர்களால் விரும்பப்படுகிறது. ஏனெனில் இது உள்ளூர் விலைகள் மற்றும் பெயரளவு விலைகளுக்கு இடையே உள்ள வித்தியாசத்தை கணக்கில் எடுத்துக்கொள்கிறது.
+
+உலக வங்கி அதன் தரவை மறுபரிசீலனை செய்த பின்னர் ரஷ்யாவின் தரவரிசையை மேம்படுத்தியுள்ளது. மற்றும் ரஷ்யா உண்மையில் ஜப்பானை 2021 இல் முந்தியது என்றும் அதன் பின்னர் நான்காவது இடத்தை தக்க வைத்துக் கொண்டுள்ளது என்றும் கூறுகிறது.
+
+...
+
+[Data](articles/f2e4dfd0.json)
+
+---
+
+### நம்பிக்கையை மீளப்பெறும் முயற்சி
+
+*2024-07-21 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189020) · `ta`
+
+"உண்மை ,ஒற்றுமை நல்லிணக்க ஆணைக்குழு நம்பகரமானதாக இருக்க வேண்டும். பக்கசார்பற்றதாக இருக்க வேண்டும். பாதிக்கப்பட்டவர்களால் ஏற்றுக்கொள்ளப்பட்டதாக இருக்க வேண்டும் என்று ஐ.நாவும் சர்வதேச சமூகம் தொடர்ச்சியாக வலியுறுத்தி வருகின்றன.பாதிக்கப்பட்ட தமிழ் மக்கள் மத்தியில் சர்வதேசம் தங்களை கைவிட்டு விட்டதான உணர்வு வலுப்பெற்று இருக்கும் சூழலில், அமெரிக்கா தமிழர்  விவகாரத்தை கையாள முற்படுகிறது”
+
+◼️
+
+[Data](articles/855e82cc.json)
+
+---
+
+### பொது வேட்பாளரை எதிர்க்கிறதா இந்தியா?
+
+*2024-07-21 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189022) · `ta`
+
+“தமிழ்ப் பொது வேட்பாளர் என்ற கருத்திட்டம் முன்வைக்கப்பட்ட போது அதற்கு பின்னால் இந்தியாவே இருக்கிறது என்ற சந்தேகம் தமிழ்த் தேசிய மக்கள் முன்னணி உட்பட வேறு  பலருக்கும் இருந்தது. பிரதான வேட்பாளர்கள் மூவரினதும் தற்போதைய இலக்கு தங்களுக்கு வாக்குகளை பெற்றுக் கொள்வதற்காக, 13ஆவது திருத்தச் சட்டம் குறித்து வாக்குறுதி அளிப்பது மாத்திரம் தான்”
+
+◼️
+
+[Data](articles/d473279a.json)
+
+---
+
+### விழித்துக்கொண்டால் தான் சமூகம் பிழைத்துக்கொள்ளும்
+
+*2024-07-21 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189018) · `ta`
+
+காத்தான்குடியில் நடைபெற்ற முஸ்லிம் காங்கிரஸின் பேராளர் மாநாட்டில் கட்சியோடும் தலைமையோடும் இனிமேல் பிணக்கில்லாது பயணிப்பது என்ற தீர்மானம் எடுக்கப்பட்டுள்ளது. அதனை பேராளர்கள் முன்னிலையில் சத்தியவாக்காக தந்திருக்கின்றோம். அதை செயற்படுத்தினால் தான் இந்த கட்சியை வீரியத்துடன் வாழவைக்க முடியும் என்று ரவூப் ஹக்கீம் ஆவேசமாக கருத்துக்களை வெளிப்படுத்தினார்.
+
+◼️
+
+[Data](articles/ba937c0b.json)
+
+---
+
+### போர்க்குற்ற குற்றச்சாட்டுகள் பொய்யா?
+
+*2024-07-21 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189014) · `ta`
+
+“ஐ.நா. அறிக்கையின்படி இறுதிப் போரின் போது படுகொலை செய்யப்பட்ட 40 ஆயிரம் பொதுமக்களின் புதை குழிகள் எங்கே என்று கேள்வி எழுப்பும் சரத் பொன்சேகாவுக்காக எல்லாவற்றையும் தேடிப் பிடிப்பது கடினமானதல்ல. ஆனால் அவற்றை கண்டுபிடித்து அகழ்ந்தெடுப்பது மாத்திரம் பிரச்சினைக்கு தீர்வை தந்து விடுமா?”
+
+◼️
+
+[Data](articles/8341eb56.json)
+
+---
+
+### அரசியல் சமூகமாக வளரும் புலம்பெயர் தமிழர்கள்
+
+*2024-07-21 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189016) · `ta`
+
+இந்திய மாதிரி என்பது அரைகுறைச்சமஷ்டி தான். இந்திய ஆட்சி முறை சமாதான காலங்களில் சமஷ்டி ஆட்சி முறை போல தெரியும். நெருக்கடியான காலங்களில் ஒற்றையாட்சி முறை போலத் தெரியும் எனினும் அழுத்தங்கள் பலமாக வளரின் சமஷ்டி தீர்வு நோக்கி இந்தியாவும் நகரலாம்.
+
+◼️
+
+[Data](articles/cefb4ecb.json)
+
+---
+
+### ஜனாதிபதியின் கடைசி உத்தி
+
+*2024-07-21 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/189005) · `ta`
+
+சஜித்துக்கு தவறான வழியில் இருந்து பணம் வருகிறது என்றால், அதனைக் கண்டுபிடிக்காமல் இருப்பது ரணில் விக்கிரமசிங்கவின் நிர்வாகத்தின் தவறு. ஐ.தே.க.வினரும், பண்டாநாயக்கர்களும் இணைந்து செயற்பட்ட  போதும், அவர்கள் ஒருபோதும் இணைந்து தேர்தலில் போட்டியிட்டதில்லை. விட்டுக் கொடுத்ததும் இல்லை
+
+◼️
+
+[Data](articles/41c8cd3a.json)
+
+---
+
+### Ranil - proposal to presidential election
 
 *2024-07-21 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199059) · `si`
 
-ඉදිරි ජනාධිපතිවරණයට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් විය යුතු බවට වන යෝජනාව අද (21) පස්වරුවේ පැවති  “එක්ව ජය ගමු - අපි ගම්පහ” ජන හමුවේ දී ඉදිරිපත්කර තිබුණි.
+Ranil Wickremesinghe's nomination for the upcoming presidential election was proposed today, supported unanimously by attendees at a rally led by Minister Prasanna Ranatunga in the Gampaha District.
 
-ජනාධිපති මාධ්‍ය අංශය පැවසුවේ ගම්පහ දිස්ත්‍රික් ජනතාව වෙනුවෙන් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා විසින් එම යෝජනාව ඉදිරිපත් කළ බවයි.
+🟩
 
-එම රැලියේ සිටි සියලුදෙනා දෑත්  ඔසවා එම යෝජනාව ඒකමතිකව සම්මත කර ගනු ලැබූ බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+The proposal that Ranil Wickremesinghe should be presented in the next presidential election today (21) this afternoon.
+
+The Presidential Media Unit said that Minister Prasanna Ranatunga was presented to the Gampaha District people.
+
+The Presidential Media Unit said that all in the rally was lifted and passed unanimously passed.
 
 ◼️
 
 [Data](articles/dca83f83.json)
+
+[Extended Data](ext_articles/dca83f83.ext.json)
+
+---
+
+### “சர்வஜன வாக்கெடுப்புக்கு வழிவகுக்கும் திருத்தம் வேண்டாம்”
+
+*2024-07-21 18:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்புக்கு-வழிவகுக்கும்-திருத்தம்-வேண்டாம்/175-340772) · `ta`
+
+சர்வஜன வாக்கெடுப்புக்கு வழிவகுக்கும் வகையில் எந்தவொரு திருத்தத்தையும் இந்த வேளையில் கொண்டு வர வேண்டாம் என ஜனாதிபதி தலைமையிலான அரசாங்கத்திடம் கோரிக்கை விடுப்பதாக சுதந்திரமானதும் நியாயமானதுமான தேர்தல்களுக்கான மக்கள் செயற்பாடு (பஃப்ரல்)  அமைப்பு தெரிவித்துள்ளது.
+
+நாடு பொருளாதார நெருக்கடிக்கு முகங்கொடுத்து பத்து பில்லியன் ரூபாவை செலவிட்டு சர்வஜன வாக்கெடுப்பை நடத்தினால் அது நிதிக் குற்றமாகும் என அதன் நிறைவேற்றுப் பணிப்பாளர்  ரோஹன ஹெட்டியாராச்சி தெரிவித்தார்.
+
+உள்ளுராட்சி மன்றத் தேர்தல்கள் பணமில்லை எனக் கூறி ஒத்திவைக்கப்பட்டுள்ள வேளையில் சர்வஜன வாக்கெடுப்புக்கு வழிவகுக்கும் திருத்தங்களை அரசாங்கம் முன்வைப்பதை ஏற்றுக்கொள்ள முடியாது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+உள்ளுராட்சி மன்றத் தேர்தலைத் தவிர்த்துள்ள அரசாங்கம், தனது சொந்த அதிகாரத்தின் பிழைப்புக்காக எவ்வாறு செயற்படுகின்றது என்பதை இது காட்டுவதாகவும்  .ஹெட்டியாராச்சி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3e162e1b.json)
 
 ---
 
@@ -1013,6 +1181,28 @@ A curfew ordered late on Friday has been extended to 3 p.m. (0900 GMT) on Sunday
 [Data](articles/a80f8576.json)
 
 [Extended Data](ext_articles/a80f8576.ext.json)
+
+---
+
+### පළාත් පාලන මැතිවරණය පැවැත්වුවා නම් තවමත් ලංකාවේ ඉරණම ඛේදනීයයි
+
+*2024-07-21 11:26:10* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-පැවැත්වුවා-නම්-තවමත්-ලංකාවේ-ඉරණම-ඛේදනීයයි/11-410888) · `si`
+
+ආර්ථිකය ගොඩනැඟීම පසෙකලා එදා පළාත් පාලන මැතිවරණය සඳහා මුදල් වැය කළා නම් අදවන විට මේ රට ඛේදනීය තත්ත්වයකට පත්වීම වැළැක්විය නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+
+මැතිවරණයට වඩා මුදල් වෙන් කිරීමේදී එදා ප්‍රමුඛත්වය දිය යුතු කාරණා ගණනාවක් තිබු බව සඳහන් කළ ජනාධිපතිවරයා අභියෝග හමුවේ වුවත් මේ වන විට රටේ ආර්ථිකය ශක්තිමත් පදනමක් ඔස්සේ ඉදිරියට ගෙන ඒමට හැකි වී තිබෙන බව ද පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේ ශ්‍රී ජයවර්ධනපුර, මොනාර්ක් ඉම්පීරියල් හෝටලයේදී පැවති පළාත් පාලන ආයතනවල හිටපු ප්‍රධානීන් ගේ හමුවට එක්වෙමිනි.
+
+දිවයින පුරා සිටින පළාත් පාලන නියෝජිතයින් විසින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන් සිදු කරන ලද ඉල්ලීම අනුව මෙම හමුව සංවිධානය කර තිබිණ.
+
+මෙහිදී අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේ ද පැවසීය,
+
+මීට වසර දෙකකට පෙර මම රට බාර ගන්නා අවස්ථාව වන විට රට අර්බුද ගණනාවකට මුහුණ පා සිටියා. එදා ආර්ථික කඩා වැටීමක් පමණක් නොව, නීතිය හා දේශපාලනයද කඩා වැටීමට ලක්ව තිබුණා. නමුත් මේ ඡන්දෙදී පක්ෂ කඩා වැටීමකුත් සිදුව තිබෙනවා.
+
+...
+
+[Data](articles/6b576346.json)
 
 ---
 
@@ -2055,251 +2245,5 @@ Roshan Bamberadeniya, Co-Founder and CEO of Sales Capital expressed gratitude to
 [Data](articles/17d5d8ff.json)
 
 [Extended Data](ext_articles/17d5d8ff.ext.json)
-
----
-
-### Amazon College awarded leading educational company of the year at BWIA ceremony
-
-*2024-07-21 04:07:00* · [`islandlk`](http://island.lk/amazon-college-awarded-leading-educational-company-of-the-year-at-bwia-ceremony/) · `en`
-
-Amazon College Private Limited was honored as the Leading Company of the Year in the Educational Institute/Services category (Medium-Gold) at the Business World International Awards. The award ceremony, organized by the Business World International Organization, recently took place at the Taj Samudra Hotel in Colombo. The recognition underscores their commitment to providing innovative, timely, and cost-effective education, offering globally accredited certificates within accelerated timeframes. Amazon College offers a diverse array of study programs, including diploma, higher national diploma, degree, top-up, masters, and PhD programmes.
-
-Prime Health Herbal Products honoured for innovation in cancer control
-
-Sales Capital and Prudentia Infinity unveil their modern office in Colombo 05
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/a0c50b6e.json)
-
-[Extended Data](ext_articles/a0c50b6e.ext.json)
-
----
-
-### My Family’s “Black July” Experience: A Personal Memoir.
-
-*2024-07-21 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84405) · `en`
-
-The anti-Tamil pogrom of July 1983 is an unforgettable chapter in the post-independence history of Sri Lanka.  The catastrophic events of that dark month  drastically affected  the lives of large numbers of Tamils in Sri Lanka.
-
-As a Sri Lankan Tamil journalist, Black July did have an effect on me in both personal and professional capacities. Furthermore my family – like thousands of other Tamil families – was also affected and displaced during those turbulent times.
-
-Although I have been writing  extensively about Black July in the past, I did not write about those happenings from a personal perspective  for many,many years.
-
-I  refrained for a long time  from writing about the impact of Black July on our family for two reasons. Firstly I was spared the full blast of that violence because I was not in Colombo then. I was on assignment to cover the Tamil United Liberation Front (TULF) party convention in Mannar.
-
-...
-
-[Data](articles/e547085f.json)
-
-[Extended Data](ext_articles/e547085f.ext.json)
-
----
-
-### Republicans put on show of unity behind Trump after assassination attempt
-
-*2024-07-21 02:04:00* · [`islandlk`](http://island.lk/republicans-put-on-show-of-unity-behind-trump-after-assassination-attempt/) · `en`
-
-The Republican National Convention was held as scheduled from Monday, July 15, in spite of the assassination attempt of Donald Trump the previous Saturday, at a campaign rally in Butler, Pennsylvania. He escaped with minor injuries, but the iconic picture of Trump defiantly doing a fist pump, his bloody ear and face prominent with Old Glory fluttering in the background, conveyed an image that will go down in history – the courageous warrior, fighting for the country he loves, despite the excruciating pain he has suffered all his life with bone spurs.
-
-The shooter, a 20-year-old registered Republican, described as “a very quiet young white man” was a poor marksman. Two inches to the left would have changed the history of the most powerful nation in the world. As Senator Tim Scott said at the Convention, “On Saturday, the Devil came to Pennsylvania with a rifle, but OUR AMERICAN LION GOT UP AND ROOOOARED!
-
-...
-
-[Data](articles/65066ef1.json)
-
-[Extended Data](ext_articles/65066ef1.ext.json)
-
----
-
-### Failure to find a political solution is a bigger shame than Black July
-
-*2024-07-21 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84410) · `en`
-
-After the death of veteran Tamil political leader Rajavarothayam Sampanthan recently, a communist leader from Tamil Nadu contacted me and asked about the remarkable role the late leader played in Sri Lankan Tamil politics.
-
-I began by recounting Sampanthan’s contributions to the negotiations that led to the signing of the Indo-Lanka Peace Accord after the 1983 Black July anti-Tamil pogrom. He immediately interrupted and asked me what happened in July 1983. I was very much disappointed that there was a Leftist leader in neighbouring Tamil Nadu who did not know that the brutal ethnic violence against Tamils all over the country led to the civil war that lasted almost three decades.
-
-He is not too young to know what happened in Sri Lanka at that time. I wondered if he had not even considered why Sri Lankan Tamil refugees had been staying in Tamil Nadu camps for more than four decades.
-
-...
-
-[Data](articles/c8468f6e.json)
-
-[Extended Data](ext_articles/c8468f6e.ext.json)
-
----
-
-### How Tikiri ducked a match-making attempt
-
-*2024-07-21 00:51:00* · [`islandlk`](http://island.lk/how-tikiri-ducked-a-match-making-attempt/) · `en`
-
-As far back as the early As far back as the early 1950’s, I was boarded at an exclusive and expensive boarding house at Karlsruhe Gardens, Borella, where all facilities were provided – attached bathroom, wardrobe, tables etc for two occupants. My roommate was Tikiri Ekneligoda, a good looking Kandyan of my age, belonging to the Kandyan aristocracy. One day he told me that his father wanted to meet his roommate.
-
-On a Saturday morning weeks later, his father appeared, He was an imposing figure, sporting a Kaiser mustache and during our conversation he inquired from where I hailed and also my name. I said that I am from a village upcountry, called Karahandungala, near Nawalapitiya and my name was Sirimal. On hearing this his facial expression changed and I knew he had heard a name sounding like ‘Sirimala’ identified with a low caste.
-
-...
-
-[Data](articles/4f250661.json)
-
-[Extended Data](ext_articles/4f250661.ext.json)
-
----
-
-### Merrill J. Fernando:A Friendship Remembered
-
-*2024-07-21 00:51:00* · [`islandlk`](http://island.lk/merrill-j-fernandoa-friendship-remembered/) · `en`
-
-Speech made at an event marking the first anniversary of the passing of Mr. Merrill. J. Fernando on July 17
-
-My earliest recollections of Merrill are of his consulting me at the Ratnam Private Hospital when I was a young and energetic surgeon. Although he consulted doctors in Singapore, UK and Australia, he always came back to me for a second opinion. Our friendship grew with mutual admiration for each other’s work.
-
-I did not realize that he had another doctor at home until one day he called me to say that one of his sons has read on the Internet of the side effects of a drug that I had prescribed, and asked me what I thought he should do. I replied “Merrill, it takes 10 to 15 years to become a good doctor but it takes only 10 to 15 seconds to become an Internet doctor”! He roared with laughter. That was the side of Merrill who loved a good joke and even better, a repartee.
-
-...
-
-[Data](articles/83086d25.json)
-
-[Extended Data](ext_articles/83086d25.ext.json)
-
----
-
-### My aunt, the Veda Menike and herbal medicine
-
-*2024-07-21 00:20:00* · [`islandlk`](http://island.lk/my-aunt-the-veda-menike-and-herbal-medicine/) · `en`
-
-Ceylon’s native medicinal practitioners did not all come from a single social class anymore than did her astrologers. I can remember that, in my childhood days, a man named Punchi Rala, who cultivated a paddy field owned by my family, prescribed medicines for the commoner ailments. On the other hand, there was the Veda Menike, a female relative of mine, the daughter of an Adigar, who apart from being a competent ayurvedic doctor, had a good knowledge of Pali and Sanskrit and was at home with ola manuscripts.
-
-Living in Kurunegala town at the beginning of the 20th century, we also had a family doctor who came with his shiny instruments in a buggy cart. There were, as far as I can remember, two motor cars in Kurunegala at the time. Neither the doctor or any member of my family possessed one.
-
-...
-
-[Data](articles/5cc9a52d.json)
-
-[Extended Data](ext_articles/5cc9a52d.ext.json)
-
----
-
-### ARTI or Peradeniya University? – career dilemmas of a young man
-
-*2024-07-21 00:20:00* · [`islandlk`](http://island.lk/arti-or-peradeniya-university-career-dilemmas-of-a-young-man/) · `en`
-
-In 1971, after the failed Marxist uprising against the state, the government introduced the rule that anyone applying for a government job should get a report (a ‘chit’) from the local political agent of the government. This rule especially applied to young men and women, as the government distrusted the youth because of their involvement in the insurrection.
-
-Soon after graduating from the University of Peradeniya in 1972, I applied for a vacancy at the Agrarian Research and Training Institute (ARTI) for a research and training officer (rural sociology). I visited the political agent, who lived in Hendala, to get a chit. The agent was an Ayurvedic doctor who was also a justice of the peace and a member of the Town Council (He was known as ‘Member Mahatmaya.’). He cordially received me in the verandah of his small house. He was in a sarong without a shirt or a vest. A heavy leather belt with a large buckle was around his belly over the sarong. A small towel covered his shoulders.
-
-...
-
-[Data](articles/671b9a9b.json)
-
-[Extended Data](ext_articles/671b9a9b.ext.json)
-
----
-
-### 2024-07-20 (Saturday)
-
-### Jafna Kings to final
-
-*2024-07-20 23:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199032) · `si`
-
-Jafna Kings qualified for the Lanka Premier League final after scoring 187/7 in 20 overs, led by Kusal Mendis' 105. Candy Falcons, despite a strong start, fell short at 186/9, with Andre Flower contributing 38 and Fabian Allan taking four wickets.
-
-🟩
-
-JAFna Kings were able to qualify for the final of the Lanka Premier League.
-
-Candy Falcons were defeated by one sign in the second end.
-
-The leader of candy falcons, won the toss and invited him to bat first.
-
-Accordingly, Jatna Kengs Group scored 187 runs for the loss of 07 wickets at the end of 20 overs.
-
-Kusal Mendis, who played a precious innings for Japna Kugs, scored 105 runs.
-
-Chasing a target of 188 runs, Candy Falcation group was able to accumulate 186 runs at the end of 20 overs.
-
-Andre Flower scored 38 runs for Candy Falcons.
-
-Fabian Alan took four wickets for Jarffna Kugs and Vijayakan, Vijayakan and Vijayakan took three wickets.
-
-◼️
-
-[Data](articles/a4e32dfc.json)
-
-[Extended Data](ext_articles/a4e32dfc.ext.json)
-
----
-
-### ‘Leopards, people and everything…’
-
-*2024-07-20 23:06:00* · [`islandlk`](http://island.lk/leopards-people-and-everything/) · `en`
-
-As we approach Sri Lanka Leopard Day on August 1, the WNPS is delighted to welcome Dr. Jeannine Stephanie McManus, a global expert in human-wildlife conflict mitigation, to share her insights on fostering human-leopard coexistence in Sri Lanka. The Sri Lankan leopard, found both inside and outside protected areas, faces increasing challenges that threaten its survival. Dr. McManus’s expertise offers valuable perspectives on addressing these issues.
-
-Dr. McManus is affiliated with the Landmark Foundation, a conservation organization in South Africa, that promotes and facilitates conservation land uses. The leopard is central to the Landmark Foundation owing to its iconic status as the last remaining top predator naturally occurring in South African mountain ranges.
-
-...
-
-[Data](articles/930f5f6e.json)
-
-[Extended Data](ext_articles/930f5f6e.ext.json)
-
----
-
-### MY DAYS WITH DR.MARY RUTNAM AND ROBIN RUTNAM
-
-*2024-07-20 22:47:00* · [`islandlk`](http://island.lk/my-days-with-dr-mary-rutnam-and-robin-rutnam/) · `en`
-
-For the younger generation that may not know of Dr. Mary H. Rutnam, she was a Canadian missionary doctor, who came to Ceylon on her marriage to a Ceylonese missionary educator, Mr. S.C.K. Rutnam. She was born as Mary Irwin, in Ontario, Canada (1873-1962). She had a medical degree from Canada, but opted to work as a medical missionary in Ceylon. Later, after the mission did not approve of her marriage to a native Ceylonese, she ceased to be a missionary worker and settled into a medical practice in Colombo. Her patients were mainly women, mainly Muslim women who preferred to have a female doctor. Although she was white and foreign-born, it was remarkable that she was able to bypass the white-colonial structure in Ceylon and identify directly with its native people.
-
-...
-
-[Data](articles/c41ead8c.json)
-
-[Extended Data](ext_articles/c41ead8c.ext.json)
-
----
-
-### THE FAILURE OF TEACHING RELIGION IN SCHOOLS
-
-*2024-07-20 22:47:00* · [`islandlk`](http://island.lk/the-failure-of-teaching-religion-in-schools/) · `en`
-
-To quote. “Religion should be the motor of life, the central heating plant of personality, the faith that gives joy to activity, hope to struggle, dignity to humility and zest to living.” Upliftment is the keynote. Yet Religion has been the cause of the most appalling bloodshed and strife . The most horrendous wars have been fought in the name of religion and rivers of blood have flowed while idiots quarreled over the words of god-like men who must have been appalled by the distortion of their messages to humanity. So let us agree that religion DIVIDES and most certainly does not UNITE.
-
-I am at a loss, therefore, to understand, WHY our Education Planners insist on religion being taught in schools? Religion continues to be a divider even in our little island. In schools that contain pupils of all faiths, students are split up whenever it is time for that period in religion. Language is already a divisive factor yet we purposely add yet another subject to compound the folly.
-
-...
-
-[Data](articles/ce2001d2.json)
-
-[Extended Data](ext_articles/ce2001d2.ext.json)
-
----
-
-### Sri Lanka tourism has potential to grow - former Australian PM
-
-*2024-07-20 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100656/sri-lanka-tourism-has-potential-to-grow-former-australian-pm) · `en`
-
-Former Australian Prime Minister Scott Morrison commended Sri Lanka’s tourism industry, highlighting that it has great potential to grow with what the island nation can offer to visiting guests, especially Sri Lankan cuisines.
-
-The visiting former Australian Prime Minister made these comments while participating in an event held in Mount Lavinia.
-
-Upon arrival with his spouse Jenny, Scott Morrison, who is fond of Sri Lankan cuisines, showcased his cooking by cooking a mud crab curry and a chicken curry, which are two of his favourite Sri Lankan curry dishes made using Sri Lankan spices.
-
-The former Australian Premier was also accompanied by the Australian Deputy High Commissioner in Colombo, Lalita Kapur.
-
-Morrison arrived in Sri Lanka for a vacation on July 17 and is expected to stay in the island nation until July 25.
-
-During his visit, the former Australian PM also attended the Sri Lanka Human Capital Summit 2024 held on Thursday (18) as the Guest of Honour
-
-◼️
-
-[Data](articles/a36ec482.json)
-
-[Extended Data](ext_articles/a36ec482.ext.json)
 
 ---

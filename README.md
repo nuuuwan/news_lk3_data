@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 08:35:30**
+As of **2024-07-21 08:55:07**
 
 ## Newspaper Stats
 
-*Scraped **36,322** Articles*
+*Scraped **36,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,87 @@ adaderanalk | 4,198
 tamilmirrorlk | 4,423
 dailymirrorlk | 4,733
 virakesarilk | 5,679
-adaderanasinhalalk | 6,087
+adaderanasinhalalk | 6,088
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,312 (100.0%) of 36,322 articles have been extended.
+36,317 (100.0%) of 36,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### ඊශ්‍රායලය තවත් රටකට පහරදෙයි
+### Israel attacks another country
 
 *2024-07-21 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199036) · `si`
 
-ඊශ්‍රායලය තවත් රටකට ගුවන් ප්‍රහාර එල්ලකළ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Israel has launched air strikes on another country, targeting the port of Hodeida. The attack comes in response to a previous strike by Hamas on October 7, escalating tensions between the two nations.
 
-එහි සඳහන් වන්නේ යේමන යේ හූති කැරළිකරුවන් ගේ පාලනයේ පවතින හොඩේයිඩා වරාය ට එසේ ගුවන් ප්‍රහාර එල්ලකර ඇති බවයි.
+🟩
 
-එම ප්‍රහාරය එල්ලකර ඇත්තේ මීට දින දෙකකට පෙර හූති කැරළිකරුවන් විසින් ඊශ්‍රායලයේ ටෙල් අවිව් නගරයට ඩ්‍රෝන ප්‍රහාරයක් එල්ල කිරීමට ප්‍රතිචාර වශයෙන් බව සඳහන් ය.
+International media reports that Israel has launched air strikes in another country.
 
-ඒ අනුව ඊශ්‍රායලය විසින් ඔක්තෝබර් 7 වනදා හමාස් ප්‍රහාරයෙන් පසුව පලස්තීනය, ලෙබනනය, ඉරානය සහ යේමනයේ ඉලක්ක වෙත ගුවන් ප්‍රහාර එල්ලකර තිබේ.
+It states that the Huddyy of Yaymana Yemana has been launched to the port of the Hokaida.
+
+The attack was launched that two days ago, hoothy rebels responded to the Tel Aviv in Israel.
+
+Accordingly, Israel has launched airstrikes after the Hamas attack on October 7.
 
 ◼️
 
 [Data](articles/0d648800.json)
 
+[Extended Data](ext_articles/0d648800.ext.json)
+
 ---
 
-### ’தேர்தலை நடத்தியிருந்தால் தலைவிதி மோசமாகியிருக்கும்’
+### ජීවිත බිලිගත් මාරක අනතුරු
+
+*2024-07-21 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199034) · `si`
+
+ගෙවී ගිය පැය 24ක කාලය තුළදී ප්‍රදේශ කිහිපය සිදුවූ රිය අනතුරුවලින් 11 හැවිරිදි දැරියක් ඇතුළු පුද්ගලයින් සිව් දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එම අනතුර ඊයේ වාර්තා වී තිබුණේ, මැදවච්චිය, කැකිරාව, අනුරාධපුරය සහ පයාගල යන පොලිස්වසම් වලින්ය.
+
+මැදවච්චිය පොලිස් වසමේ ඒ-09 මාර්ගයේ 144වන කිලෝමීටර් කණුව ආසන්නයේදී ත්‍රිරෝද රථයක් සහ ඉන්ධන පිරවූ බවුසර් රථයක් මුහුණුට මුහුණ ගැටී සිදුවූ අනතුරකින් 11 හැවිරිදි දැරියක් ජීවිතක්ෂයට පත්ව ඇත.
+
+මේ අතර කැකිරාව - ගනේවල්පොළ මාර්ගයේ උසාවි හන්දිය ප්‍රදේශයේදී ට්‍රැක්ටර් රථයක් මාර්ගය අයිනේ තිබූ බෝක්කු කණුවක ගැටී පෙරළීමෙන් අනතුරක් සිදුව තිබුණි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ රියදුරු කැකිරාව රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+මේ අතර අනුරාධපුර - රඹෑව මාර්ගයේ පුලියන්කුලම ප්‍රදේශයේදී ලොරි රථයක්, පාර මාරුවීමට ගිය පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
+
+එම අනතුරින් බරපතළ තුවාල ලැබූ එම පුද්ගලයා රෝහල් ගත කිරීමෙන් පසු මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, පුලියන්කුලම ප්‍රදේශයේ පදිංචිව සිටි 65 හැවිරිදි පුද්ගලයෙකි.
+
+...
+
+[Data](articles/6e700b45.json)
+
+---
+
+### If the election is held, the fate will be worse
 
 *2024-07-21 06:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-நடத்தியிருந்தால்-தலைவிதி-மோசமாகியிருக்கும்/175-340735) · `ta`
 
-பொருளாதாரத்தைக் கட்டியெழுப்புவதை விட்டுவிட்டு, அன்று உள்ளூராட்சி மன்றத் தேர்தலுக்கு பணத்தை செலவிட்டிருந்தால், இன்று நாடு மிக மோசமான அவல நிலைக்கு தள்ளப்பட்டிருக்கும் எனவும் நிதி ஒதுக்கீட்டின்போது, அன்று தேர்தலை விட பல்வேறு விடயங்களுக்கு முன்னுரிமை வழங்க வேண்டியிருந்தது என்றும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+In a meeting of ex-local government leaders, President Ranil Wickremesinghe highlighted that prioritizing other issues over the election could have been necessary due to the country's current situation.
 
-ஸ்ரீ ஜயவர்தனபுர மொனார்க் இம்பீரியல் ஹோட்டலில் நேற்று நடைபெற்ற உள்ளூராட்சி மன்ற முன்னாள் தலைவர்கள் சந்திப்பில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாடளாவிய ரீதியில் உள்ள உள்ளூராட்சி மன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் விடுத்த கோரிக்கைக்கு அமைய இந்த சந்திப்பு ஏற்பாடு செய்யப்பட்டிருந்தது. (a)
+President Ranil Wickremesinghe said that the country would have been forced today and had to give priority to various issues more than the election.
+
+The President was speaking at a meeting of former Local Government Leaders at the Monark Imperial Hotel yesterday.
+
+The meeting was organized on the request of President Ranil Wickremesinghe from the country's local councilors across the country.. (A)
 
 ◼️
 
 [Data](articles/fc17e1fa.json)
+
+[Extended Data](ext_articles/fc17e1fa.ext.json)
 
 ---
 
@@ -270,6 +308,8 @@ Dr. McManus is affiliated with the Landmark Foundation, a conservation organizat
 
 [Data](articles/930f5f6e.json)
 
+[Extended Data](ext_articles/930f5f6e.ext.json)
+
 ---
 
 ### MY DAYS WITH DR.MARY RUTNAM AND ROBIN RUTNAM
@@ -281,6 +321,8 @@ For the younger generation that may not know of Dr. Mary H. Rutnam, she was a Ca
 ...
 
 [Data](articles/c41ead8c.json)
+
+[Extended Data](ext_articles/c41ead8c.ext.json)
 
 ---
 
@@ -295,6 +337,8 @@ I am at a loss, therefore, to understand, WHY our Education Planners insist on r
 ...
 
 [Data](articles/ce2001d2.json)
+
+[Extended Data](ext_articles/ce2001d2.ext.json)
 
 ---
 
@@ -2339,23 +2383,5 @@ At times, in the West-borne areas of the central hills and in the North, North, 
 [Data](articles/9962fcbe.json)
 
 [Extended Data](ext_articles/9962fcbe.ext.json)
-
----
-
-### Government may enforce price controls if concessions not passed to consumers – Trade, Commerce and Food Security Minister
-
-*2024-07-20 04:28:00* · [`islandlk`](http://island.lk/government-may-enforce-price-controls-if-concessions-not-passed-to-consumers-trade-commerce-and-food-security-minister/) · `en`
-
-Minister of Trade, Commerce, and Food Security Nalin Fernando stated that if the business community fails to pass on government-provided concessions to consumers, price controls will need to be implemented for certain goods. He also announced that proposals to amend the Consumer Act are planned to be submitted to Parliament within the next two weeks.
-
-Minister Fernando made these remarks during a news conference held at the Presidential Media Center on Friday (19) under the theme “Collective Path to a Stable Country.”
-
-“The crisis of the past few years has finally been resolved, thanks to the exceptional leadership of President Ranil Wickremesinghe. Our government implemented numerous programs to achieve this success, and the people are now reaping the benefits.
-
-...
-
-[Data](articles/796fd1e8.json)
-
-[Extended Data](ext_articles/796fd1e8.ext.json)
 
 ---

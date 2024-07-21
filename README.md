@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 05:05:39**
+As of **2024-07-22 05:20:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,463 (100.0%) of 36,465 articles have been extended.
+36,465 (100.0%) of 36,465 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -150,37 +150,55 @@ Biden plans to serve out the remainder of his term in office, which ends at noon
 
 ---
 
-### ’தமிழ்த் தேசிய உணர்ச்சி என் மாணவனுக்கு இல்லை’
+### My student is not a Tamil National Emotion
 
 *2024-07-22 00:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்த்-தேசிய-உணர்ச்சி-என்-மாணவனுக்கு-இல்லை/175-340796) · `ta`
 
-தமிழரசுக் கட்சியில் இருக்கிற என்னுடைய அருமை மாணவன் பலவிதமான தகைமைகளைக் கொண்டிருந்தாலும் தமிழ்த் தேசிய உணர்ச்சி அவருக்கு இல்லை. அவர் எல்லாவற்றையும் மூளையினால் பார்ப்பாரே ஒழிய உணர்வினாலோ உணர்ச்சியினாலோ பார்க்க கூடியவர் அல்லர் என தமிழ் மக்கள் கூட்டணியின் செயலாளர் நாயகமும் பாராளுமன்ற உறுப்பினருமான சி.வி.விக்கினேஸ்வரன் தெரிவித்தார்.
+Despite his qualifications, a student in the Tamil party lacks Tamil nationality, according to CV Vigneswaran. He emphasized the importance of seeing things through the lens of Tamil nationalism, hinting at a focus on national identity over individual qualifications.
 
-தமிழ் மக்கள் கூட்டணியின் தேசிய மகாநாட்டிற்கு தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் சிறிதரனை அழைத்திருக்கிற நிலைமையில் எதிர்காலத்தில் அவருடன் சேர்ந்து பயணிப்பதற்கு சாத்தியங்கள் இருக்கிறதா என ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே விக்கினேஸ்வரன் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-யாழில் சனிக்கிழமை(20 ) நடைபெற்ற ஊடக சந்திப்பின் போது அவர் மேலும் தெரிவித்ததாவது..
+My dear student in the Tamil party has a variety of qualifications, but he does not have a Tamil nationality. "He is not the one who can see everything from the brain and feels," said CV Vigneswaran, Secretary -General of the Tamil People's Alliance and Member of Parliament.
 
-தமிழ்தேசிய கட்சிகள் என்ற முறையிலும் தமிழ்த் தேசிய உணர்வுகளை கொண்டவர்கள் என்ற முறையிலும் எங்களுக்கும் சிறிதரனுக்கும் இடையில் நெருங்கிய தொடர்பு இருக்கின்றது.
+Responding to a question raised by journalists, Wickremesinghewaran said this to the question of whether there is a possibility of traveling with him in the future, with the TNA parliamentarian Sridharan has invited the National Conference of the Tamil People's Alliance.
+
+He added during a media briefing held in Jaffna on Saturday (20).
+
+There is a close connection between us and Sridharan in the manner of Tamil nationalist parties and people with Tamil nationalism.
+
+In this way, my dear student has a variety of qualifications, but he does not have a Tamil nationality. He is not able to see everything from the brain and the sensation.
+
+We expect Sridharan to become the leader of the TNA. We welcome the same.
 
 ...
 
 [Data](articles/c9b82592.json)
 
+[Extended Data](ext_articles/c9b82592.ext.json)
+
 ---
 
-### ’24க்கு  24 சமுதாய பல்கலைக்கழகங்கள்’
+### 24 Community Universities
 
 *2024-07-22 00:08:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24க்கு-24-சமுதாய-பல்கலைக்கழகங்கள்/175-340795) · `ta`
 
-அறிவை மையமாகக் கொண்ட பொருளாதாரத்தை கட்டியெழுப்ப, கற்றோர் நிறைந்த புத்திஜீவிகள் சமூகத்தை எமது உருவாக்க வேண்டிய தேவை காணப்படுகிறது. இதற்கு எமது நாட்டில் 24 மாவட்டங்களிலும் 24 திறந்த சமுதாய பல்கலைக்கழகங்களை ஆரம்பிக்க வேண்டும். இலங்கையில் ஏற்கெனவே திறந்த பல்கலைக்கழகங்கள் அமைந்து காணப்படுகின்றன என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+To foster a knowledge-based economy, establishing 24 open community universities across 24 districts is proposed. These institutions aim to democratize higher education, enhancing opportunities for learners nationwide. The initiative, part of the Universal Information Technology Program, emphasizes lifelong learning and skill development, promoting economic growth and social inclusion. Led by Opposition Leader Sajith Premadasa, this venture seeks to bridge the gap between urban and rural areas, offering new educational pathways and fostering a motivated, skilled workforce.
 
-இதில் ஒரு மாணவராக, திறந்த சமுதாய பல்கலைக்கழகங்களை மாவட்ட மட்டங்களில் நிறுவி, உயர் கல்விக்கான பிரவேசத்தை அதிகரிக்க வேண்டும் என கருதுகிறேன். இதன் காரணமாக கற்றறிந்த புத்திஜீவிகள் சமூகத்தில் அதிகரிக்கும் வாய்ப்பு ஏற்படும் என்றும் தெரிவித்துள்ளார்.
+🟩
 
-பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ்,  கண்டி, உடுநுவர, தவுல்கல, வெலிகல்ல உடு அலுதெனிய மகா வித்தியாலயத்திற்கு வழங்கி வைக்கும் நிகழ்வு ஜூலை 21 ஆம் திகதி இடம்பெற்றது. இந்நிகழ்வில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+To build a knowledge -based economy, we need to create a community of learners. For this we need to start 24 open community universities in 24 districts in our country. Opposition leader Sajith Premadasa said that there are already open universities in Sri Lanka.
+
+As a student, I think open community universities should be established at district levels and enhance the entry of higher education. He said that this would increase the opportunity to increase in the community.
+
+Under the Universal Information Technology Program, Kandy, Udunuwara, Taulkala, Weligalala Udu Aludeniya Maha Vidyalaya was held on July 21st.. He said this while addressing the event.
+
+Educated intellectuals, scholars and expertise will develop more. This will create a generation of higher education, with higher education, skills, and salaries.. This can promote a lifetime learning process.
 
 ...
 
 [Data](articles/3114ee7e.json)
+
+[Extended Data](ext_articles/3114ee7e.ext.json)
 
 ---
 

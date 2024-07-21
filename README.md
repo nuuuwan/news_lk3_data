@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 14:20:09**
+As of **2024-07-21 14:35:39**
 
 ## Newspaper Stats
 
-*Scraped **36,376** Articles*
+*Scraped **36,383** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 319
+dbsjeyarajcom | 320
 colombotelegraphcom | 339
 bbccomsinhala | 356
 newsfirstlk | 363
@@ -16,55 +16,141 @@ islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,278
-adaderanalk | 4,207
-tamilmirrorlk | 4,431
+adaderanalk | 4,208
+tamilmirrorlk | 4,433
 dailymirrorlk | 4,733
-virakesarilk | 5,688
-adaderanasinhalalk | 6,103
+virakesarilk | 5,690
+adaderanasinhalalk | 6,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,373 (100.0%) of 36,376 articles have been extended.
+36,376 (100.0%) of 36,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### LPL ෆයිනල් බලන්න එනවා නම් මේ ගැනත් දැනුම්වත් වන්න
+### பாரம்பரிய வீட்டில் தீ விபத்து
+
+*2024-07-21 14:17:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரம்பரிய-வீட்டில்-தீ-விபத்து/175-340759) · `ta`
+
+வரலாற்றுச் சிறப்புமிக்க ஸ்ரீ கதிர்காமம் ஆலய வளாகத்தில் தலைவர் கபு வசிக்கும் பாரம்பரிய வீட்டின் மேல் தளத்தில் ஏற்பட்ட தீயினால் மாடிப்பகுதி  முற்றாக எரிந்து நாசமாகியுள்ளதாக கண்டி தலைமையக பொலிஸார் தெரிவிக்கின்றனர்.
+
+தீ விபத்தினால் 150 ஆண்டுகளுக்கும் மேலான பழமையான வீடு பாரிய சேதத்திற்கு உள்ளாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+கண்டி மாநகர தீயணைப்பு பிரிவினர், பொலிஸார் மற்றும் மக்கள் இணைந்து தீ கட்டுக்குள் கொண்டு வந்துள்ளதோடு சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கண்டி தலைமையக பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/6f5a4951.json)
+
+---
+
+### Two major associates of “Kanjipani Imran” arrested
+
+*2024-07-21 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100666/two-major-associates-of-kanjipani-imran-arrested) · `en`
+
+The Police Special Task Force (STF) has arrested two individuals who operate the drug network of notorious drug trafficker and criminal gang leader infamously known as “Kanjipani Imran”.
+
+The duo had been arrested during a special raid carried out in the Ragama area.
+
+During the time of the arrest, suspects were in possession of over 10g of heroin and more than 7g of crystal methamphetamine – commonly known as ‘Ice’, the police said.
+
+The arrested suspects have been identified to be aged between 28-29 years, according to police.
+
+Police said that the arrested individuals had been engaging in drug trafficking activities under the direction of ‘Selvakumar Ranjith’ who has been leading the drug network in the country affiliated with the drug trafficker and notorious criminal “Kanjipani Imran” who is currently hiding overseas.
+
+◼️
+
+[Data](articles/0828662d.json)
+
+---
+
+### 22 ගැන ඇත්ත කතාව ඇමති සුසිල් කියයි
+
+*2024-07-21 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199051) · `si`
+
+22වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන යෝජනාව එළැඹෙන පාර්ලිමේන්තු සැසිවාරයේ න්‍යායපත්‍රයට ඇතුළත් කර නොමැති බව සභානායක අමාත්‍ය සුසිල් ප්‍රේමජයන්ත් මහතා පවසයි.
+
+සභානායකවරයා අවධාරණය කර සිටියේ, 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන යෝජනාවෙන් ජනාධිපතිවරණයට බලපෑමක් නොවන බවය.
+
+සභානායකවරයා - ලබන සුමානේ න්‍යාය පත්‍රය මම ඊයේ හැදුවා, ඉතින් ඒකේ නැහැනේ
+
+ප්‍රශ්නය - ඒ කියන්නේ මැතිවරණයක් ප්‍රකාශයට පත්කළාට පස්සේ වත් එන එකක් නැද්ද?
+
+සභානායකවරයා - එහෙම ආවා කියලා දින වකවානු ගත්තොත් ඒකේ තියෙන්නේ සැකහැර දැනගැනීමක් පමණයි. ඉන් එහා මැතිවරණයට බලපෑමක් වෙන්නේ නැහැ. ඒක විවිධ කණ්ඩායම් සහ හරියට කියවපු නැති අය කරන ප්‍රකාශයක් විතරයි.
+
+◼️
+
+[Data](articles/70c399a4.json)
+
+---
+
+### 32 பற்களுடன் பிறந்த குழந்தை (காணொளி)
+
+*2024-07-21 14:05:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/32-பற்களுடன்-பிறந்த-குழந்தை-காணொளி/50-340758) · `ta`
+
+பொதுவாக குழந்தைகள் பிறக்கும் போது பல் இருக்காது. குழந்தை வளரும் போது பற்களும் வளர ஆரம்பிக்கும். சராசரியாக ஒரு நபருக்கு 32 பற்கள் வெளிவர 21 வருடங்கள் ஆகும். பற்களின் வளர்ச்சியில் பல்வேறு காரணங்கள் முக்கிய பங்கு வகிக்கின்றன.
+
+இந்நிலையில், அமெரிக்காவின் டெக்சாஸ் மாகாணத்தை சேர்ந்த பெண் ஒருவருக்கு குழந்தை பிறக்கும் போதே முழுமையாக 32 பற்களுடன் பிறந்துள்ளது. இந்த புகைப்படம் மற்றும் வீடியோ இணையத்தில் வைரலாகி வருகிறது. அதில் ஒரு பெண், தனது பெண் குழந்தையின் 32 பற்கள் கொண்ட வீடியோவை பகிர்ந்துள்ளார்.        View this post on Instagram            A post shared by Nika Diwa (@nika.diwa)
+
+அரிய நோய் பாதிப்பு காரணமாக பிறக்கும் போதே 32 பற்கள் இருந்ததாகவும், விழிப்புணர்வு ஏற்படுத்தவே வீடியோவை பகிர்ந்ததாகவும் குழந்தையின் தாய் தெரிவித்துள்ளார்.
+
+பிறக்கும் போதே இவ்வாறு பற்களுடன் பிறக்கும் குழந்தைகளின் பிரச்சினையை நேட்டல் டீத் என்று சொல்வார்கள். நீண்ட காலமாக இந்த நேட்டல் பற்கள் பிரச்சனையுடன் பிறந்த குழந்தைகளுக்கு 4 முன் பற்கள், தாடையில் 4 முதல் 6 பற்கள் மற்றும் பலவற்றின் எடுத்துக்காட்டுகள் உள்ளன.
+
+◼️
+
+[Data](articles/db401392.json)
+
+---
+
+### If LPL Final is coming, it is also known
 
 *2024-07-21 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199050) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ අවසන් මහා තරගය අද (21) කොළඹ ඛෙත්තාරාම ජාත්‍යන්තර ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+The Lanka Premier League finals are today at Colombo International Stadium. Gates open at 5:30 pm, with drone displays after the first innings. Visitors should park near Apple Estate and Sri Sudarmarama Mawatha.
 
-මේ අතර සංවිධායකින් පවසන්නේ නරඹන්නන් සඳහා ක්‍රීඩා පිටියේ ගේට්ටු සවස 5.30ට විවෘත කරන බවයි.
+🟩
 
-මාළිගාවත්ත, පන්සල් මාවත වසා දැමෙන අතර ක්‍රීඩාංගණයට පැමිණෙන වාහන දොස්තර බබාපුල්ලේ මාවත භාවිත කළ යුතුය.
+The finals of the Lanka Premier League will be held today (21st) at the neighboring in Colombo International Stadium in Colombo.
 
-නරඹන්නන්ට සිය වාහන ඇපල් වත්ත සහ ශ්‍රී සුදර්මාරාම මාවත යන ප්‍රදේශවල නවතා තැබිය හැකිය.
+Meanwhile, the organizing says that the players' gates will be opened at 5.30 pm.
 
-මෙම තරගයේ පළමු ඉනිම නිමාවූ පසු ඩ්‍රෝන යානා 500ක පමණ සහභාගීත්වයෙන් විශේෂ සංදර්ශනයක් පැවැත්වීමට නියමිතය.
+The temple path will be closed and the aircraft is used to be used at the stadium.
+
+Visitors can parked their vehicles to the Apple Estate and Sri Sudarmarama Mawatha.
+
+After the first innings of the match, a special display will be held with the participation of about 500 drones.
 
 ◼️
 
 [Data](articles/e0ebc722.json)
 
+[Extended Data](ext_articles/e0ebc722.ext.json)
+
 ---
 
-### கஞ்சிபானின் சகாக்கள் மூவர் கைது
+### Three of Kanjiban's colleagues arrested
 
 *2024-07-21 13:53:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிபானின்-சகாக்கள்-மூவர்-கைது/175-340756) · `ta`
 
-ஒழுங்கமைக்கப்பட்ட குற்றவாளியும் போதைப்பொருள் கடத்தல்காரரும் வெளிநாட்டில் இருந்து போதைப்பொருள் கடத்தலுக்கு தலைமை தாங்கிய பெண் ஒருவரையும் இரண்டு பேரையும் பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகள் கைது செய்துள்ளனர். இவர்கள், பாதாள உலகக் கோஷ்டியைச் சேர்ந்த  கஞ்சிபானி இம்ரானின் சகாக்கள் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+Kanjibani Imran's associates, including three women aged 24, 28, and another unnamed, were arrested by police STF for alleged involvement in international drug trafficking. The arrests took place in Ragama, Welisara, and Wellampitiya.
 
-ராகம, வெலிசர மற்றும் வெல்லம்பிட்டிய பிரதேசங்களில் வசிக்கும் 24 மற்றும் 28 வயதுடைய பெண்ணொருவரும் இருவருமே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-வெளிநாட்டில் உள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளியும் போதைப்பொருள் கடத்தல்காரனுமான கஞ்சிபானி இம்ரானினால் கடத்தப்படும் போதைப்பொருள் கடத்தலை  .செல்வகுமார் ரஞ்சித் என்பவர் இந்த நாட்டில் வழிநடத்தி வந்துள்ளார் என்பது தெரியவந்துள்ளது.
+Police Special Task Force (STF) officers arrested a woman and two women who led an organized criminal and drug trafficker from abroad.. Investigations have been found that they are the colleagues of Kanjibani Imran of the underworld.
+
+A 24 and 28 -year -old woman living in Ragama, Welisara and Wellampitiya areas has been arrested.
+
+Drug trafficking abducted by Kanjipani Imran, an organized criminal and drug trafficker abroad.
 
 ◼️
 
 [Data](articles/8e3f51ba.json)
+
+[Extended Data](ext_articles/8e3f51ba.ext.json)
 
 ---
 
@@ -141,6 +227,30 @@ Speaking to the media, the public minister said that the electoral election woul
 [Data](articles/30a7f0a5.json)
 
 [Extended Data](ext_articles/30a7f0a5.ext.json)
+
+---
+
+### நிபந்தனையின்றி முட்டுக்கொடுக்க அவதிப்படும் முஸ்லிம் கட்சிகள்
+
+*2024-07-21 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/188995) · `ta`
+
+முஸ்லிம்களுக்கான அரசியலில் இந்த போக்கை காண முடியாதுள்ளது. முஸ்லிம் காங்கிரஸ், மக்கள் காங்கிரஸ், தேசிய காங்கிரஸ் மற்றும் இதர முஸ்லிம் கட்சிகளும் அணிகளும் அடுத்த தேர்தலை எதிர்கொள்வது பற்றி தமக்கிடையே உரையாடல்களை நடத்தவில்லை. குறைந்தபட்சம், ஒவ்வொரு முஸ்லிம் கட்சியும் அணியும் தங்களது உறுப்பினர்களிடையே தமது வாக்காளர்களிடையே கூட கலந்துரையாடல்களை மேற்கொள்ளவில்லை.
+
+◼️
+
+[Data](articles/8ba56bf1.json)
+
+---
+
+### ஒரு துப்பாக்கிச் சூட்டு சம்பவமும் சதிமுயற்சி கோட்பாடுகளும்
+
+*2024-07-21 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188993) · `ta`
+
+மக்களால் தெரிவு செய்யப்பட்ட அரசாங்கத்தைத் தாண்டி அதிகாரத்தைப் பிரயோகிப்பதாக இருப்பதால் நிழல் அரசாங்கம் ஜனநாயகத்திற்கு முரணானதாக பார்க்கப்படுகிறது. அமெரிக்காவைப் பொறுத்தவரையில், ஜனாதிபதிமார் படுகொலை செய்யப்படுவதும், அவர்கள் மீது படுகொலை முயற்சிகள் கட்டவிழ்த்து விடப்படுவதும் புதிது அல்ல. கேள்விக்கு சரியான விடை கிடைக்காத சகல சந்தர்ப்பங்களிலும் சதிக் கோட்பாடுகள் என்ற பெயரில் கதைகள் கூறப்படும். சதிக் கோட்பாட்டுக் கதைகளை அரசியல் ஆயுதங்களாகவும் பாவிக்கலாம் என்பது அமெரிக்க வரலாற்றில் இருந்து நாம் கற்றுக்கொள்ள முடிந்த பாடம்.
+
+◼️
+
+[Data](articles/9288f53c.json)
 
 ---
 
@@ -694,19 +804,25 @@ Bogawantalawa Police Station Superintendent Sukat says the arrested persons will
 
 ---
 
-### மாணிக்க கற்கள் அகழ்வில் ஈடுபட்ட 11 பேர் கைது
+### 11 arrested for engaging in gemstone excavations
 
 *2024-07-21 10:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணிக்க-கற்கள்-அகழ்வில்-ஈடுபட்ட-11-பேர்-கைது/76-340743) · `ta`
 
-சட்ட விரோதமாக பொகவந்தலாவ பகுதியில் ராணி காடு தோட்ட  மற்றும்  காசல்ரீ நீர் தேக்கத்திற்க்கு நீர் வழங்கும் மாஎலிய வனப் பகுதியில் மாணிக்க கற்கள் அகழ்வில் ஈடுபட்டு வந்த 11 பேர் கைது செய்யப்பட்டுள்ளதோடு உபகரணங்களும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+Eleven individuals were arrested for illegally supplying water to a plantation and reservoir in Sri Lanka's Bogawantalawa region. The arrests occurred during a police operation on Sunday morning, with suspects expected to face charges in court.
 
-இச் சம்பவம் ஞாயிற்றுக்கிழமை (21) காலை பொகவந்தலாவ பொலிஸார் மற்றும் அதிரடி படையினர் இணைந்து மேற்கொண்ட சுற்றி வளைப்பின் போது கைது இடம்பெற்றுள்ளது.
+🟩
 
-கைது செய்யப்பட்டவர்கள் ஹட்டன் நீதிமன்றத்தில் ஆஜர் படுத்தப்படவுள்ளதாக பொகவந்தலாவ பொலிஸ் நிலைய பொறுப்பதிகாரி சுகத் தெரிவித்துள்ளார்.
+Eleven people have been arrested in the Maelian forest area who illegally supplied water to the queen forest plantation and Kasalree water reservoir in the Bogawantalawa area.
+
+The incident took place on Sunday morning (21) during a roundup of Bogawantalawa Police and Action Soldiers.
+
+Bogawantalawa Police Station Superintendent Sukat says the arrested persons will be produced before Hatton Court.
 
 ◼️
 
 [Data](articles/cb76124a.json)
+
+[Extended Data](ext_articles/cb76124a.ext.json)
 
 ---
 
@@ -1403,6 +1519,24 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/a0c50b6e.json)
 
 [Extended Data](ext_articles/a0c50b6e.ext.json)
+
+---
+
+### My Family’s “Black July” Experience: A Personal Memoir.
+
+*2024-07-21 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84405) · `en`
+
+The anti-Tamil pogrom of July 1983 is an unforgettable chapter in the post-independence history of Sri Lanka.  The catastrophic events of that dark month  drastically affected  the lives of large numbers of Tamils in Sri Lanka.
+
+As a Sri Lankan Tamil journalist, Black July did have an effect on me in both personal and professional capacities. Furthermore my family – like thousands of other Tamil families – was also affected and displaced during those turbulent times.
+
+Although I have been writing  extensively about Black July in the past, I did not write about those happenings from a personal perspective  for many,many years.
+
+I  refrained for a long time  from writing about the impact of Black July on our family for two reasons. Firstly I was spared the full blast of that violence because I was not in Colombo then. I was on assignment to cover the Tamil United Liberation Front (TULF) party convention in Mannar.
+
+...
+
+[Data](articles/e547085f.json)
 
 ---
 
@@ -2163,171 +2297,5 @@ No information has been received regarding the whereabouts of the missing fisher
 [Data](articles/4ca86927.json)
 
 [Extended Data](ext_articles/4ca86927.ext.json)
-
----
-
-### What is the status of Sri Lankans on the riot earth?
-
-*2024-07-20 16:17:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலவர-பூமியிலுள்ள-இலங்கையர்களின்-நிலை-என்ன/175-340715) · `ta`
-
-The Sri Lankan government has ensured the safety of its students in countries experiencing unrest, highlighting efforts such as the High Commissioner's visit to meet student needs and address concerns with university administrations.
-
-🟩
-
-The Ministry of External Affairs has said that steps have been taken to ensure the safety of Sri Lankan students staying in the country due to the unrest in the country.
-
-The Ministry has pointed out that about 50 Sri Lankan students are studying in 03 universities in the country.
-
-The Sri Lankan High Commissioner in Bangladesh met with students and visited the needs of the university administration on the safety of the students.. Remble
-
-◼️
-
-[Data](articles/33614b4c.json)
-
-[Extended Data](ext_articles/33614b4c.ext.json)
-
----
-
-### Three-wheeler and fuel bowse
-
-*2024-07-20 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199020) · `si`
-
-In an accident on the Kandy-Jaffna A9 road, four people were hospitalized after their three-wheeler collided with another, spilling fuel into a nearby paddy field. The fuel is now being transferred from one container to another at the Anuradhapura Teaching Hospital.
-
-🟩
-
-Four persons have been admitted to the Anuradhapura Teaching Hospital with a bowl of fuel and three-wheeler collided with a three-wheeler.
-
-The accident occurred today (20) at the Kandy-Jaffna A9 road in Ikiriyagolle area.
-
-The three-wheeler has taken place in the three wheeler and the bowl carrying the fuel has fell into a nearby paddy.
-
-Ada Derana reporter said that the fuel in that fuel to another bowl is currently being transferred.
-
-◼️
-
-[Data](articles/1bf2f888.json)
-
-[Extended Data](ext_articles/1bf2f888.ext.json)
-
----
-
-### The presidential election is good for the Tamil people - CV Vigneswaran
-
-*2024-07-20 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/188949) · `ta`
-
-CV Vigneswaran argues that postponing the presidential election benefits the Tamil community and the nation as a whole. He highlights potential instability due to no candidate securing over 50% votes, which could exacerbate existing economic crises and lead to significant election-related spending affecting the economy. He calls for unity among parties to advocate for a one-year delay in the election to ensure political stability and economic recovery.
-
-🟩
-
-Parliamentarian CV Wigneswaran says that the postponement of the presidential election is beneficial to the Tamil people.
-
-He said this during a media briefing held in Jaffna today (20).
-
-The postponement of the presidential election is beneficial to the whole country. Especially for the Tamils.
-
-As far as the presidential election is concerned, no one can get more than 50 percent votes. So they will try to get the votes of the minority people.
-
-At the same time, when no one gets more than 50 percent votes in the presidential election, the country will be without political stability.
-
-There are already economic crises in the country. If there is no political stability, the country will face the worst economic setbacks.
-
-In addition, there will be a situation where large funds will be spent on the election. That too will affect the country's economy.
-
-Therefore, all parties should come together and make a demand for a one -year presidential election.
-
-◼️
-
-[Data](articles/182438a5.json)
-
-[Extended Data](ext_articles/182438a5.ext.json)
-
----
-
-### Yall. Missing the four -year -old who went from Point Pedro
-
-*2024-07-20 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/188945) · `ta`
-
-Four fishermen from Jaffna's Point Pedro, along with others from Valvettithurai, Mulliyan, Kalmunai, and Trincomalee, went missing after setting sail on July 7th. Initially expected back in five days, their families filed a complaint after 12 days without return. The police have alerted the Navy and Marines, who are now investigating the disappearance.
-
-🟩
-
-It is reported that 4 fishermen from the Jaffna Point Pedro area have not returned to the shore for more than 12 days.
-
-The 04 fishermen from Valvettithurai, Mulliyan, Kalmunai and Trincomalee were also traveling in a boat on the 07th.
-
-The four who went to the business should be back in the shore within 5 days. However, relatives of the fishermen have lodged a complaint at the Point Pedro Police Station that they have not returned to shore for 12 days.
-
-According to the complaint, the Point Pedro Police have informed the Navy and the Marines are conducting investigations.
-
-◼️
-
-[Data](articles/59a6b7f7.json)
-
-[Extended Data](ext_articles/59a6b7f7.ext.json)
-
----
-
-### Ali Sabri Bail for MP
-
-*2024-07-20 15:46:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-சப்ரி-எம்-பிக்கு-பிணை/175-340714) · `ta`
-
-Mr. Ali Sabri Rahim, a Puttalam District Parliamentarian, has been granted bail for an unspecified amount.
-
-🟩
-
-Puttalam District Parliamentarian Mr. Ali Sabri Rahim has been ordered to be released on bail of Rs.
-
-◼️
-
-[Data](articles/701d2471.json)
-
-[Extended Data](ext_articles/701d2471.ext.json)
-
----
-
-### Two fishing boats missing in sea
-
-*2024-07-20 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199017) · `si`
-
-Two fishing boats with eight fishermen onboard have gone missing from harbors in Jaffna and Hambantota. The director general of fisheries, Susantha Kahawatte, confirmed the disappearance of the vessels which set sail on July 7th. Search efforts involving various parties, including the navy, are underway to locate the missing fishermen.
-
-🟩
-
-The Fisheries Department says two fishermen carrying six fishermen have disappeared from Jaffna and Hambantota Fisheries Harbor.
-
-The Fisheries Director General Susantha Kahawatte said that two vessels departed for fishing on the 7th have been reported missing.
-
-Four Indian fishermen have been present at the Thandudent fishing vessel leaving the Fisheries Harbor, Jaffna, Point Peter.
-
-Two widely fishermen who left the Hambantota Fisheries Harbor have been leaving the Fisheries Harbor.
-
-Mr. Susantha Kahawatte said that no information has been reported regarding the fishermen, and they have been informed of all parties including the Navy to search.
-
-◼️
-
-[Data](articles/af85487f.json)
-
-[Extended Data](ext_articles/af85487f.ext.json)
-
----
-
-### Jayampathy Wickramaratne PC, responds to President on constitutional article 83
-
-*2024-07-20 15:46:00* · [`economynextcom`](https://economynext.com/jayampathy-wickramaratne-pc-responds-to-president-on-constitutional-article-83-173033/) · `en`
-
-ECONOMYNEXT – Jayampathy Wickramaratne, President’s Counsel had responded to a statement made by President Ranil Wickremesinghe that Article 83 (b) of the constitution which has reference to a six year term was left alone not due to any ‘lapse’ on his part.
-
-A Cabinet sub-committee headed by Premier Wickremesinghe was appointed to oversee the Nineteenth Amendment process.
-
-The changes to the Constitution, were made by a team of legal officers of which he was member, overseen by a Cabinet sub-committee headed by then Prime Minister Ranil Wickremesinghe.
-
-“Presidential candidate Maithripala Sirisena signed a memorandum of understanding with a group of 49 political parties and organisations headed by the Venerable Maduluwawe Sobitha Nayaka Thero at Viharamaha Devi Park, in which he pledged to abolish the Executive Presidency altogether,” Wickramaratne explained.
-
-...
-
-[Data](articles/b0cdccc6.json)
-
-[Extended Data](ext_articles/b0cdccc6.ext.json)
 
 ---

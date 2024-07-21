@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 20:54:31**
+As of **2024-07-21 21:05:29**
 
 ## Newspaper Stats
 
-*Scraped **36,433** Articles*
+*Scraped **36,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,075
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,287
-adaderanalk | 4,214
+adaderanalk | 4,215
 tamilmirrorlk | 4,437
 dailymirrorlk | 4,733
 virakesarilk | 5,707
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,115
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,432 (100.0%) of 36,433 articles have been extended.
+36,433 (100.0%) of 36,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### Sri Lanka records over 1 million tourist arrivals so far in 2024
+
+*2024-07-21 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100675/sri-lanka-records-over-1-million-tourist-arrivals-so-far-in-2024) · `en`
+
+The total number of tourist arrivals to Sri Lanka during the period elapsed this year, as of 18 July 2024, stands at a remarkable 1,019,642.
+
+According to the latest data released by the Sri Lanka Tourism Development Authority (SLTDA), 43,083 tourists have arrived in Sri Lanka during the first week of July while 42,343 arrived during the second week of the month.
+
+Meanwhile, 23,967 arrivals were recorded during the first four days of the third week of July.
+
+A total of 27,574 Indian tourists have visited Sri Lanka up to the 18 July, accounting for 25.2% of all tourist arrivals, marking the highest contribution from any single country.
+
+Significant numbers of tourists also arrived from the United Kingdom, China, Germany, and the Netherlands, according to the SLTDA.
+
+◼️
+
+[Data](articles/b11883c7.json)
+
+---
 
 ### There is no place for referendum before the presidential election -Rahana Hettiarachchi
 
@@ -524,23 +544,35 @@ The proposal was then unanimously approved by all those in attendance with a sho
 
 ---
 
-### ක්ලබ් වසන්ත ඝාතනයේ ප්‍රධාන සැකකරුවන් දෙදෙනා ඉක්මනින් අත්අඩංගුවට ගන්නවා
+### The two main suspects of the club spring murder soon arrest
 
 *2024-07-21 17:31:30* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-ප්‍රධාන-සැකකරුවන්-දෙදෙනා-ඉක්මනින්-අත්අඩංගුවට-ගන්නවා/11-410892) · `si`
 
-මෑතකදි අතුරුගිරිය වෙඩි තැබීමකින් ඝාතනයට නුවරඑළිය ප්‍රදේශයෙන් ව්‍යාපාර ආරම්භ කළ ක්ලබ් වසන්ත නොහොත් සුරේන්ද්‍ර වසන්ත පෙරේරාගේ ඝාතනය හා සම්බන්ධ සෙසු සැකකරුවන් සියල්ල අත්අඩංගුවට  ගෙන අවසන් ප්‍රධාන සැකකරුවන් දෙදෙනා ඉතාම කෙටි කාලයකින් අත්අඩංගු කිරීමට කටයුතු කරන බව එක්සත් මහජන පක්ෂයේ නායක සහ මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පැවසිය.
+Main suspects in the Club Wasantha murder case, including Suresrantra Perera, were quickly apprehended. Minister Tiran Alles highlighted the importance of maintaining law and order, addressing drug issues, and fostering a positive youth community during his speech at the Nuwara Eliya District Conference of the United People's Party. He emphasized the need for responsible leadership and the fight against corruption, appealing to the public to support their efforts towards national development.
 
-අමාත්‍ය ටිරාන් අලස් මහතා ඒ බැව් කියා සිටියේ එක්සත් මහජන පක්ෂයේ නුවරඑළිය දිස්ත්‍රික් සමුළුව (21) දින නුවරඑළිය නව නගර ශාලාවේදී පැවැති අවස්තාවට සහභාගි වෙමිණි.
+🟩
 
-"රටේ හිටපු ජනාධිපතිවරයා ප්‍රමුඛ එවකට හිටපු ආණ්ඩුව රට අස්ථාවර කරලා තනතුරු වලින් ඉල්ලා අස්වුනාට පස්සේ රට වැටිලා තිබුණු අවස්ථාවක තමයි අපිට භාරධුර වගකීමක් ලැබුණේ.
+Club Wasantha alias, Suresrandra, Surendra, Surendra, Surendra, Surendra, Surendra, Suresantra Perera, the other suspects were arrested in a short period of time.
 
-ජනාධිපතිවරයා වශයෙන් රනිල් වික්‍රමසිංහ මහතා රටේ ආර්ථික ස්ථාවර කරනකොට රටේ ආරක්ෂාව ගැන ඉතාම වගකීම් සහගතව ක්‍රියා කරන්න ඕනි.
+Minister Tiran Alles was in the event of the Nuwara Eliya District Conference of the United People's Party (21) at the Negombo New Town Hall.
 
-අරගල වගේ නොයෙකුත් ක්‍රියාකාරකම් ඔස්සේ නීතිය සම්පූර්ණ විනාශ වෙලා තිබ්බ වෙලාවක අපිට ඕන උනේ නීතිය හා සාමය ස්ථාපනය කරන්න.
+"When the former President of the country was sentenced to the resignation of the country, we received a responsibility when the country was infected.
+
+As the President, Ranil Wickremesinghe has to act very responsible for the protection of the country as the President of the country.
+
+When the law was destroyed by various activities like struggles, we wanted to install law and order.
+
+The majority opposed the majority of the choices, so that there was more accepted, so we could do.
+
+When the President resisted economic problems, we could strengthen the security.
+
+The biggest challenge is that he will continue to destroy the youth and the youth of the country and create a good youth community.
 
 ...
 
 [Data](articles/a3d5e8e4.json)
+
+[Extended Data](ext_articles/a3d5e8e4.ext.json)
 
 ---
 
@@ -2283,33 +2315,5 @@ It is noteworthy that Haundi rebels carried out an unmanned air strike on the Is
 [Data](articles/b6b433d0.json)
 
 [Extended Data](ext_articles/b6b433d0.ext.json)
-
----
-
-### The farmers in Matale are replaced by migrants instead of
-
-*2024-07-21 07:51:07* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-ගොවිහු-රැසක්-වී-වෙනුවට-බඩඉරිගු-වවයි/11-410880) · `si`
-
-In Matale, farmers are being replaced by migrants, and instead of focusing on paddy cultivation, they're growing inter-crops and short-term crops like vegetables due to anticipated rain conditions. This shift is evident across various parts of the district, including Naule, Pallepola, Laggala, and Wilgamuwa, with crops like mulatum thriving in Naula and Aranganggala.
-
-🟩
-
-Farmers' organizations say that many inter-crops have been cultivated in several areas instead of paddy cultivation in Matale District.
-
-Farmers have cultivated by-crops in anticipation of rain condition and short term crops.
-
-In addition to vegetables, the equipment of several parts of the Matale district have been cultivated and farmers say they are now well in good condition.
-
-A number of cultivation crops in the production and the near future have been found in several local secretaries.
-
-In addition to paddy cultivation, the cultivated crops can be seen in Naule, Pallepola, Laggala and Wilgamuwa.
-
-Pictured here is the mulatum cultivated in Naula and Aranganggala.
-
-◼️
-
-[Data](articles/d59c3e93.json)
-
-[Extended Data](ext_articles/d59c3e93.ext.json)
 
 ---

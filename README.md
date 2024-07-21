@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 02:53:09**
+As of **2024-07-22 03:05:42**
 
 ## Newspaper Stats
 
-*Scraped **36,460** Articles*
+*Scraped **36,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,289
 adaderanalk | 4,218
-tamilmirrorlk | 4,440
+tamilmirrorlk | 4,441
 dailymirrorlk | 4,733
 virakesarilk | 5,713
 adaderanasinhalalk | 6,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,459 (100.0%) of 36,460 articles have been extended.
+36,460 (100.0%) of 36,461 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -173,6 +173,22 @@ The woman, who was arrested on Saturday (20), has been handed over to the Pallek
 ---
 
 ### 2024-07-21 (Sunday)
+
+### சாவகச்சேரி வைத்தியசாலை பிரச்சினைகளை ஆராய ழு நியமனம்
+
+*2024-07-21 23:58:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாவகச்சேரி-வைத்தியசாலை-பிரச்சினைகளை-ஆராய-ழு-நியமனம்/175-340792) · `ta`
+
+அமைச்சர் டக்ளஸ் தேவானந்தா தலைமையில் சாவகச்சேரி ஆதார வைத்தியசாலையின் பிரச்சினைகள் தொடர்பான ஆக்கபூர்வமான கலந்துரையாடல் ஞாயிற்றுக்கிழமை (21) முன்னெடுக்கப்பட்டது.
+
+வைத்தியர் அர்சுனாவினால் முன்வைக்கப்பட்ட குற்றச்சாட்டுக்கள் தொடர்பாகவும் அதற்கான தீர்வு தொடர்பாகவும், அவர் மீது சுமத்தப்பட்ட குற்றச்சாட்டுக்கள் தொடர்பாகவும், வைத்தியர் அர்சுனாவை மீண்டும் சாவகச்சேரி வைத்திய சாலைக்கு வைத்திய அத்தியட்சகராக நியமிப்பதற்கான ஏற்பாடுகள் தொடர்பாக இதன்போது ஆராயப்பட்டது.
+
+குறித்த கலந்துரையாடலில் கலந்துகொண்ட சமூக மட்ட அமைப்பினர், சாவகச்சேரி ஆதார வைத்தியசாலையில் உள்ள குறைபாடுகள் என வைத்தியர் அர்ச்சுனா முன்வைத்த குற்றச்சாட்டுகள் உட்பட 16 குற்றச்சாட்டுகளை எழுத்துமூலம் அமைச்சர் டக்ளஸ் தேவானந்தாவிடம் வழங்கினர்.
+
+...
+
+[Data](articles/26d54622.json)
+
+---
 
 ### Jevna Kings became the fourth time champion
 
@@ -355,6 +371,8 @@ The problem for Sri Lanka was that the money so borrowed was not reinvested in p
 ...
 
 [Data](articles/92aa026d.json)
+
+[Extended Data](ext_articles/92aa026d.ext.json)
 
 ---
 
@@ -2257,35 +2275,5 @@ Furthermore, the Finance State Minister expressed that before emerging from the 
 [Data](articles/abe81424.json)
 
 [Extended Data](ext_articles/abe81424.ext.json)
-
----
-
-### Suspect arrested for assassination
-
-*2024-07-21 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199044) · `si`
-
-A suspect linked to shootings in Kalutara and Katukurunda was arrested by the Southern Province Crime Division. The victim, aged 32 from Avissawella, Maniagama, was killed by two unknown individuals on a motorcycle. Two more suspects were detained as part of the ongoing investigation.
-
-🟩
-
-A suspect has been arrested in connection with a shot of a shot in Kalutara and Katukurunda.
-
-The suspect was arrested by the Southern Province Southern Crime Division yesterday (20) in Athurugiriya.
-
-The victim is a 32 year old resident of Avissawella, Maniagama.
-
-The suspect was arrested, the police said.
-
-The suspect has been tipped at the Kalutara South Police Station, police said.
-
-Two unidentified persons who came in a motorbike have been shot dead by two unidentified persons from the Katukurunda, Kalutara on the night last night.
-
-Meanwhile, two other suspects have been arrested in connection with the crime and Kalutara South Police are conducting further investigations.
-
-◼️
-
-[Data](articles/1e0d5067.json)
-
-[Extended Data](ext_articles/1e0d5067.ext.json)
 
 ---

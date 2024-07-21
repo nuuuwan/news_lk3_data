@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 13:20:21**
+As of **2024-07-21 13:35:41**
 
 ## Newspaper Stats
 
-*Scraped **36,369** Articles*
+*Scraped **36,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,207
 tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
 virakesarilk | 5,688
-adaderanasinhalalk | 6,099
+adaderanasinhalalk | 6,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,368 (100.0%) of 36,369 articles have been extended.
+36,369 (100.0%) of 36,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### IMF දූත පිරිසක් ලංකාවට
+
+*2024-07-21 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199047) · `si`
+
+ශ්‍රී ලංකා ආර්ථිකයේ ප්‍රගතිය සහ ඉදිරියේදී ගත යුතු ක්‍රියාමාර්ග සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත කණ්ඩායමක් ලබන සතියේ දිවයිනට පැමිණෙන බව මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ,  ආර්ථිකයේ වර්ධනයට බාධාවක් නොවන අයුරින් එළැඹෙන මැතිවරණ සමය ගෙවී යනු ඇතැයි අපේක්ෂා කරන බවය.
+
+...
+
+[Data](articles/30a7f0a5.json)
+
+---
 
 ### IMF delegation to arrive in Sri Lanka next week to review economic progress
 
@@ -47,6 +61,8 @@ Semasinghe further stated: “Our expectation is to maintain the current stabili
 ...
 
 [Data](articles/5855239a.json)
+
+[Extended Data](ext_articles/5855239a.ext.json)
 
 ---
 
@@ -2339,29 +2355,5 @@ Astronauts Neil Armstrong and Edwin Aldrin, who departed through the 'Apollo -11
 [Data](articles/4b588f73.json)
 
 [Extended Data](ext_articles/4b588f73.ext.json)
-
----
-
-### The girl who left the baby with her husband in Jaffna
-
-*2024-07-20 14:09:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-குழந்தையை-கணவனுடன்-விட்டுவிட்டு-காதலுடன்-ஓடிய-பெண்/71-340713) · `ta`
-
-In Jaffna, a woman abandoned her toddler with her husband and fled with a fake boyfriend. Her husband filed a complaint leading to their arrest. The court ordered them held for 14 days.
-
-🟩
-
-The court has ordered the abandonment of her two -and -a -half -year -old woman and left the city with a fake boyfriend.
-
-A family woman who lived with her husband and her child in the area of ​​the Jaffna police station had left the city a few days ago.
-
-A complaint was lodged at the Jaffna Police Station by husband. According to the complaint, the police arrested the woman and her boyfriend, the young man.
-
-Following the trial of the two men, the Jaffna Magistrate's Court has ordered the detainees to be detained for 14 days following a court hearing.R
-
-◼️
-
-[Data](articles/6400ade5.json)
-
-[Extended Data](ext_articles/6400ade5.ext.json)
 
 ---

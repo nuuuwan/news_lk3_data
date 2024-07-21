@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 18:25:15**
+As of **2024-07-21 18:36:32**
 
 ## Newspaper Stats
 
-*Scraped **36,407** Articles*
+*Scraped **36,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,63 @@ adaderanalk | 4,213
 tamilmirrorlk | 4,435
 dailymirrorlk | 4,733
 virakesarilk | 5,694
-adaderanasinhalalk | 6,111
+adaderanasinhalalk | 6,112
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,404 (100.0%) of 36,407 articles have been extended.
+36,407 (100.0%) of 36,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### ක්ලබ් වසන්ත ඝාතන විමර්ශන වල අලුත්ම තත්ත්වය
+### ජනාධිපතිවරණයට රනිල් - යෝජනාව ප්‍රසන්නගෙන්
+
+*2024-07-21 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199059) · `si`
+
+ඉදිරි ජනාධිපතිවරණයට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් විය යුතු බවට වන යෝජනාව අද (21) පස්වරුවේ පැවති  “එක්ව ජය ගමු - අපි ගම්පහ” ජන හමුවේ දී ඉදිරිපත්කර තිබුණි.
+
+ජනාධිපති මාධ්‍ය අංශය පැවසුවේ ගම්පහ දිස්ත්‍රික් ජනතාව වෙනුවෙන් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා විසින් එම යෝජනාව ඉදිරිපත් කළ බවයි.
+
+එම රැලියේ සිටි සියලුදෙනා දෑත්  ඔසවා එම යෝජනාව ඒකමතිකව සම්මත කර ගනු ලැබූ බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+
+◼️
+
+[Data](articles/dca83f83.json)
+
+---
+
+### The latest situation in club spring murders
 
 *2024-07-21 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199058) · `si`
 
-ක්ලබ් වසන්ත ඝාතන සිද්ධිය සම්බන්ධයෙන් විමර්ශනය සිදුකරන පොලිස නිලධාරීන් විසින් වැලිගම මිරිස්ස ප්‍රදේශයේදී ඊයේ (20) විසිඑක් හැවිරිදි කාන්තාවක් ව අත්අඩංගුවට ගත්තේය.
+Police arrested suspects linked to the Club Spring murders, including a woman whose bus was allegedly used in the plot. The woman was detained for questioning after being produced in court. Authorities are searching for the bus and investigating the conspiracy behind the murders.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ ක්ලබ් වසන්ත ඝාතනය සැලසුම් කිරීම සඳහා යොදාගත් බස් රථයක් මෙම කාන්තාව ගේ නමින් ලියාපදිංචි කර ඇති බවයි.
+🟩
 
-එබැවින් මෙම කාන්තාවත් එම ඝාතන කුමන්ත්‍රණය තුළ සිටින්නේද යන්න විමර්ශනය සඳහා ඇයව අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+Police officers arrested the Club Spring murder incident and arrested the police officers yesterday (20) at Mirissa.
 
-ඇයව පැය 48ක් රඳවාගෙන ප්‍රශ්න කිරීමට පොලීසිය කළ ඉල්ලීමට කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය අවසර දී තිබුණි.
+Police Media Spokesperson DIG'sary DIG's latter brother said that a bus used for planning the killing of club spring is registered in the name of the woman.
 
-"බස් රථය මෙතෙක් හම්බවෙලා නෑ. සඟවලා ඇත්තේ. ඒ සම්බන්ධයෙන් සොයනවා.."
+Therefore, she was arrested and produced before the court to investigate the woman and the murder conspiracy.
 
-පොලිස් මාධ්‍ය ප්‍රකාශකවරයා තවදුරටත් පැවසුවේ ක්ලබ් වසන්ත ඝාතනය සැලසුම් කර ස්ථානයට ද මෙම කාන්තාව ගොස් ඇති බවට තොරතුරු ඇති බවයි.
+The Kaduwela Magistrate's Court had allowed her to hold her for 48 hours and questioned.
 
-එසේම මෙම බස් රථය මිලදී ගෙන ඇත්තේ මෙම මනුෂ්‍ය ඝාතනය සඳහාම යන්න මේ වනවිට හෙළිවී ඇති බව ඔහු පැවසීය.
+"The bus has not yet been available. Hidden. Looking for it .. "
 
-...
+The Police Media Spokesperson further stated that the woman had gone to the place of planning of the Club Wasantha.
+
+He also said that the bus had been purchased to go to the killing of the people.
+
+The club was shot dead by two unidentified gunmen at the center in Athurugiriya on July 08.
+
+◼️
 
 [Data](articles/ccd5ce4c.json)
+
+[Extended Data](ext_articles/ccd5ce4c.ext.json)
 
 ---
 
@@ -124,27 +148,39 @@ He was released on two physical bail worth Rs 10 lakh each and the Negombo Magis
 
 ---
 
-### குழப்பத்தை தூண்டும் உத்தியா?
+### Do you want to trigger confusion?
 
 *2024-07-21 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188998) · `ta`
 
-“சாவகச்சேரியில் மருத்துவர்  பிரச்சினைகளை ஊடகங்களின் ஊடாக வெளிக்கொண்டு வந்த போது, மக்கள் அவருக்கு பின்னால் திரளும் நிலை ஏற்பட்டது. ஆனால் இன்று அவரைக் கேள்வி எழுப்புகின்ற நிலைமை உருவாகி இருக்கிறது”
+People initially supported the doctor facing issues in Chavakachcheri, but now the situation is causing concern.
+
+🟩
+
+“When the doctor's problems in Chavakachcheri revealed through the media, people gathered behind him. But today the situation is being raised. ”
 
 ◼️
 
 [Data](articles/6fb08440.json)
 
+[Extended Data](ext_articles/6fb08440.ext.json)
+
 ---
 
-### மலையகத்துக்கான  வாக்குறுதிகளுக்கு  என்னவாயிற்று?
+### What happened to the promises of the hill country?
 
 *2024-07-21 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189001) · `ta`
 
-அரசியல் அனுபவங்கள் இல்லாத இளம் வயது அமைச்சரை ஜனாதிபதி ரணில் தனது அரசியல் இராஜதந்திரங்களுக்காக பயன்படுத்திக்கொள்கின்றாரா என்ற சந்தேகங்களும் எழுகின்றன. ஜீவன் அமைச்சராக பதவியேற்ற நாளிலிருந்து மலையக சமூகத்துக்காக ஜனாதிபதி வாக்குறுதியளித்த மலையகபல்கலைக்கழகம், காணிஉரிமை, தொழிலாளர் சம்பள விவகாரம் இவை அனைத்துமே இழுபறி நிலைக்குச் சென்றுள்ளன.
+Doubts persist over President Ranil's use of a seasoned young minister for political diplomacy, questioning the fulfillment of hill country promises.
+
+🟩
+
+There are also doubts about whether President Ranil is using a young minister with political experiences for his political diplomacy. The University of the Hon.
 
 ◼️
 
 [Data](articles/77d31a79.json)
+
+[Extended Data](ext_articles/77d31a79.ext.json)
 
 ---
 
@@ -2265,33 +2301,5 @@ During his visit, the former Australian PM also attended the Sri Lanka Human Cap
 [Data](articles/a36ec482.json)
 
 [Extended Data](ext_articles/a36ec482.ext.json)
-
----
-
-### Sri Lankan women's group wins the first of Asia Cup
-
-*2024-07-20 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199031) · `si`
-
-In the Asia Cup Women's Cricket Tournament, Sri Lanka's women team secured their first victory against Bangladesh. Led by Chamari Atapattu, the team chased down Bangladesh's score of 111 runs, losing only 2 wickets. Key contributors included Daishiya Pravamani and Eager Priyadarshani with two wickets each, and Hersha Madhava with 33 runs. The match ended with Sri Lanka achieving the target in 17 overs, marking a significant win for the team.
-
-🟩
-
-Chamari Atapattu played its first winning wins in the Asia Cup Women's Cricket Tournament today (20).
-
-Bangladesh women scored 111 runs for the loss of 8 wickets in their allotted 20 overs.
-
-Daishiya Pravamani and Eager Priyadarshani took two wickets each.
-
-Leader Chamari Gunaratne and Simphasha Gunaratne were able to provide a success of the Sri Lanka women's group to chase 112 runs.
-
-Chamari Atapattu scored 12 runs while Sri Lanka Women's Women's Girls won 51 runs. Hersha Madhava scored 33 runs.
-
-So Sri Lanka women won the winning limit at the end of 17 wickets in the end of 17 overs.
-
-◼️
-
-[Data](articles/148e031c.json)
-
-[Extended Data](ext_articles/148e031c.ext.json)
 
 ---

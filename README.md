@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 03:20:07**
+As of **2024-07-22 03:36:14**
 
 ## Newspaper Stats
 
-*Scraped **36,461** Articles*
+*Scraped **36,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,289
 adaderanalk | 4,218
-tamilmirrorlk | 4,441
+tamilmirrorlk | 4,442
 dailymirrorlk | 4,733
 virakesarilk | 5,713
 adaderanasinhalalk | 6,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,461 (100.0%) of 36,461 articles have been extended.
+36,461 (100.0%) of 36,462 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -169,6 +169,24 @@ The woman, who was arrested on Saturday (20), has been handed over to the Pallek
 [Data](articles/c5a0febe.json)
 
 [Extended Data](ext_articles/c5a0febe.ext.json)
+
+---
+
+### ரணத்தை ஏற்படுத்தும் வீதியாக மாறிய ஏ-9 வீதி
+
+*2024-07-22 00:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணத்தை-ஏற்படுத்தும்-வீதியாக-மாறிய-ஏ-9-வீதி/175-340793) · `ta`
+
+யாழ்ப்பாணம் அரியாலை சந்தி, ஏ-9 வீதியில் நீண்ட தூரத்துக்கு மண் கொட்டப்பட்டு காணப்படுவதால் பயணிகள் மிகுந்த சிரமத்தின் மத்தியிலும் பயத்தின் மத்தியிலும் பயணத்தை மேற்கொள்கின்றனர்.
+
+குறித்த வீதியில் மண் கொட்டப்பட்டு காணப்படுகின்றது. சனிக்கிழமை (20) இரவே இவ்வாறு மண் கொட்டப்பட்டுள்ளது. மண் கடத்தல்காரர்களை பொலிஸார் துரத்தியவேளை அவர்கள் வீதியில் மண்ணை கொட்டிவிட்டு சென்றிருக்கலாம் என சந்தேகிக்கப்படுகிறது.
+
+குறித்த வீதியில் வளைவு காணப்படுவதுடன் அந்த வளைவில் ஏற்கெனவே விபத்துக்கள் இடம்பெற்றும் உள்ளன. இந்நிலையில் கொட்டப்பட்டுள்ள மண்ணினால் மேலும் விபத்துக்குகள் ஏற்படுவதற்கான சந்தர்ப்பங்கள் அதிகம் உள்ளன. இதனால் மரணம் கூட சம்பவிக்கக்கூடும் என மக்கள் அச்சம் வெளியிட்டுள்ளனர்.
+
+குறித்த மண்ணை அகற்றுவதற்கு நல்லூர் பிரதேச சபையோ அல்லது வீதி அபிவிருத்தி அதிகாரசபையோ இதுவரை எந்தவிதமான நடவடிக்கைகளும் எடுக்கவில்லை. எனவே, கொட்டிக்கிடக்கும் மண்ணை வீதியில் இருந்து அகற்றி பாதுகாப்பான போக்குவரத்துக்கு வழிசமைக்குமாறு மக்கள் கேட்டுக் கொள்கின்றனர்.
+
+◼️
+
+[Data](articles/baea14b9.json)
 
 ---
 
@@ -2265,25 +2283,5 @@ In an occultation, one celestial body passes in front of another, blocking its v
 [Data](articles/6fbed152.json)
 
 [Extended Data](ext_articles/6fbed152.ext.json)
-
----
-
-### Govt. manages budget deficit independently after implementing new Central Bank Act - Semasinghe
-
-*2024-07-21 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100660/govt-manages-budget-deficit-independently-after-implementing-new-central-bank-act-semasinghe) · `en`
-
-The government manages the budget deficit independently with the implementation of a new Central Bank Act, State Minister of Finance Shehan Semasinghe says.
-
-Posting on ‘X’ (formerly Twitter), Semasinghe stated that in the first six months of 2024, the government repaid Rs 129 billion more than it borrowed through treasury bonds and bills.
-
-“During this period, the government borrowed a total of Rs 4,852 billion through these instruments but repaid Rs 4,981 billion by rolling over the same instruments. Therefore, it’s important to highlight the net borrowing rather than the gross borrowing”, he added.
-
-Furthermore, the Finance State Minister expressed that before emerging from the economic crisis, the government relied on central bank financing, which led to an inflation rate as high as 70% and that however, with the implementation of a new central bank act, the government now manages the budget deficit independently.
-
-◼️
-
-[Data](articles/abe81424.json)
-
-[Extended Data](ext_articles/abe81424.ext.json)
 
 ---

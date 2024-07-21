@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 01:35:43**
+As of **2024-07-22 01:54:43**
 
 ## Newspaper Stats
 
-*Scraped **36,453** Articles*
+*Scraped **36,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 356
 newsfirstlk | 363
 islandlk | 2,075
 economynextcom | 2,173
-dailyftlk | 2,315
+dailyftlk | 2,320
 adalk | 3,289
 adaderanalk | 4,218
 tamilmirrorlk | 4,439
@@ -26,11 +26,101 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,452 (100.0%) of 36,453 articles have been extended.
+36,453 (100.0%) of 36,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### ‘Shell’ lubricants dealer N M Distributors gets enjoining orders preventing alleged illegal operation of competitor biz set up by employees
+
+*2024-07-22 01:28:42* · [`dailyftlk`](https://www.ft.lk/business/Shell-lubricants-dealer-N-M-Distributors-gets-enjoining-orders-preventing-alleged-illegal-operation-of-competitor-biz-set-up-by-employees/34-764569) · `en`
+
+The plaintiff, N M Distributors Ltd., has instituted legal proceedings in respect of various defendants, including two employees of the plaintiff and two illegal competitive businesses that had been set up by the employees during the course of employment.
+
+The plaintiff’s position, as set out in its plaint, is that they are importers of various lubricants and oils for motoring and industrial purposes including the world-renowned ‘Shell’ brand. However, two current employees of the plaintiff, the first defendant and his relative, the second defendant, had set up two illegal competing businesses to the plaintiff company during the course of employment with the plaintiff, despite being bound by confidentiality, non-compete and non-disclosure clauses in their contracts of employment.
+
+...
+
+[Data](articles/c1cb91e5.json)
+
+---
+
+### Scope Cinemas Brings IMAX®️ to Sri Lanka Sparking Cinematic Revolution
+
+*2024-07-22 01:28:09* · [`dailyftlk`](https://www.ft.lk/business/Scope-Cinemas-Brings-IMAX-to-Sri-Lanka-Sparking-Cinematic-Revolution/34-764568) · `en`
+
+Scope Cinemas is set to revolutionise cinema experiences in Sri Lanka with the opening of its new IMAX®️ Theatre at Havelock City Mall on the 26th of July 2024. This eagerly anticipated launch promises to bring an unparalleled level of audio-visual immersion for Sri Lankan moviegoers, marking a milestone moment for entertainment in the country. IMAX®️ is renowned globally for its cutting-edge technology and unique film presentation capabilities.
+
+Accordingly, the IMAX®️ Theatre at Scope Cinemas Multiplex – Havelock City will feature IMAX®️ with Laser – a next-gen laser projection system – delivering the most advanced theatre experience to date. This tech will be coupled with IMAX®️ Precision Sound for breath-taking audio and IMAX®️ Immersion by Design seating, with stadium-style seating for clear viewing at every seat. All of this makes for the most immersive cinematic theatre experience in the world today.
+
+...
+
+[Data](articles/676fe161.json)
+
+---
+
+### President says future of Sri Lanka will not be shaped by political agendas
+
+*2024-07-22 01:25:58* · [`dailyftlk`](https://www.ft.lk/news/President-says-future-of-Sri-Lanka-will-not-be-shaped-by-political-agendas/56-764567) · `en`
+
+Speaking at “Together we win – We are Gampaha” rally, stresses political agendas must align with the country’s needs
+
+Invites Sajith Premadasa and Anura Kumara Dissanayake to join the national effort
+
+Recalls crises of two years ago and lists salient achievements since then
+
+Reiterates his dedication to the nation, and how he worked selflessly for the country’s betterment, not personal gain
+
+The people of the Gampaha District yesterday decisively endorsed Ranil Wickremesinghe for re-election as President in the upcoming Presidential election, said the President’s Media Division in a statement.
+
+It said over 250 Gampaha local Government representatives, along with 26 SLPP Ministers and MPs, pledged their strong support for the President at the “Together we win – We are Gampaha” rally in Kadawatha.
+
+...
+
+[Data](articles/cc78c28a.json)
+
+---
+
+### SJB to unveil program to rebuild SL next week
+
+*2024-07-22 01:23:30* · [`dailyftlk`](https://www.ft.lk/news/SJB-to-unveil-program-to-rebuild-SL-next-week/56-764566) · `en`
+
+SJB MP S.M. Marikkar says it is vital for all Presidential candidates to disclose economic and debt repayment plans to citizens
+
+Assures an SJB Govt. will convene international donor conference, attract more investments, increase manufacturing and export revenue, and seek new market opportunities
+
+Challenges NPP, SLPP, and President Ranil Wickremesinghe to reveal plans for SL
+
+Claims groups abroad who worked to elect Gotabaya Rajapaksa are now backing AKD
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar emphasised the critical need for all Presidential candidates to disclose their economic and debt repayment plans to the public before the upcoming elections.
+
+...
+
+[Data](articles/9f57fb07.json)
+
+---
+
+### Semasinghe says SL’s debt repayment higher than borrowing in 1H
+
+*2024-07-22 01:21:37* · [`dailyftlk`](https://www.ft.lk/news/Semasinghe-says-SL-s-debt-repayment-higher-than-borrowing-in-1H/56-764565) · `en`
+
+State Minister of Finance Shehan Semasinghe yesterday announced that the Government successfully paid off a debt of Rs. 129 billion in the first six months of 2024.
+
+The repayment surpasses the amount of debt acquired through Treasury Bonds and Treasury Bills during the same period.
+
+According to him, between January and June 2024, the Government obtained a total of Rs. 4,852 billion in debt through these financial instruments. However, it managed to repay Rs. 4,981 billion, demonstrating a commitment to fiscal responsibility.
+
+Semasinghe stressed that public focus often lies on the debt incurred, but it is crucial to recognise the Government’s efforts in repaying these loans and net borrowing.
+
+He highlighted that, prior to the economic crisis, the Central Bank had the ability to print money as required, which led to an inflation rate as high as 70%.
+
+...
+
+[Data](articles/c52272ef.json)
+
+---
 
 ### US President Joe Biden drops out of 2024 presidential race, endorses Kamala Harris
 
@@ -146,25 +236,31 @@ Although it is my intention to re -contest the election, he has decided to quit 
 
 ---
 
-### இலங்கை மாணவர்கள் பாதுகாப்பாக உள்ளனர்
+### Sri Lankan students are safe
 
 *2024-07-21 23:42:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மாணவர்கள்-பாதுகாப்பாக-உள்ளனர்/175-340790) · `ta`
 
-பங்களாதேஷில் ஏற்பட்டுள்ள மோதல் நிலைமை காரணமாக அந்நாட்டில் உள்ள இலங்கை மாணவர்களின் பாதுகாப்பு தொடர்பில் விசேட கவனம் செலுத்தப்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of External Affairs assures the safety of over 50 Sri Lankan students studying in Bangladesh, despite ongoing conflict. The Bangladesh High Commission has communicated with them and their families, offering guidance and support. Students who wish to return home will receive assistance.
 
-இலங்கை மாணவர்கள் 50-இற்கும் மேற்பட்டோர் பங்களாதேஷில் மூன்று பல்கலைக்கழகங்களில் கல்விகற்பதாக அமைச்சு குறிப்பிட்டுள்ளது.
+🟩
 
-மாணவர்கள் மற்றும் அவர்களின் பெற்றோர்களுடன் தொடர்புகொண்டு தேவையான அறிவுறுத்தல்களை வழங்க இலங்கைக்கான பங்களாதேஷ் உயர்ஸ்தானிகராலயம் நடவடிக்கை எடுத்துள்ளது.
+The Ministry of External Affairs has said that special attention has been paid to the safety of Sri Lankan students in the country due to the conflict in Bangladesh.
 
-இதேவேளை, பங்களாதேஷில் நிலவும் குழப்ப நிலைமை காரணமாக இதுவரையில் இலங்கை மாணவர்களின் பாதுகாப்பிற்கு அச்சுறுத்தல் ஏற்படவில்லை என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+More than 50 Sri Lankan students are educated in three universities in Bangladesh.
 
-குறித்த மாணவர்கள் நாடு திரும்ப விரும்பினால், அதற்கான வசதிகள் செய்துகொடுக்கப்படும் என அமைச்சு குறிப்பிட்டுள்ளது.
+The Bangladesh High Commission for Sri Lanka has taken steps to communicate with students and their parents and provide the necessary instructions.
 
-பங்களாதேஷில் கடந்த 20 நாட்களாக போராட்டம் முன்னெடுக்கப்பட்டுள்ள நிலையில்,  நிலைமை தொடர்ந்தும் மோசமடைந்துள்ளதால் பங்களாதேஷ் முழுவதும் ஊரடங்கு சட்டம் பிறப்பிக்கப்பட்டுள்ளது.
+Meanwhile, the Ministry of External Affairs has said that the security of Sri Lankan students has not been threatened due to the situation in Bangladesh.
+
+The Ministry said that if the students would like to return to the country, the facilities would be provided.
+
+With the struggle in Bangladesh for the past 20 days, the curfew has been enacted throughout Bangladesh as the situation has worsened.
 
 ◼️
 
 [Data](articles/91ee9ff9.json)
+
+[Extended Data](ext_articles/91ee9ff9.ext.json)
 
 ---
 
@@ -2195,123 +2291,5 @@ In addition, there will be a situation where large funds will be spent on the el
 [Data](articles/6a9f9b19.json)
 
 [Extended Data](ext_articles/6a9f9b19.ext.json)
-
----
-
-### Lorry burns on the coir
-
-*2024-07-21 10:44:26* · [`adalk`](https://www.ada.lk/picture_story/විදුලි-රැහැනේ-පැටලි-කොහුබත්-ලොරි-ගිනිබත්-වෙයි/10-410886) · `si`
-
-A lorry carrying coir caught fire near Udappuwa, destroying both the vehicle and its cargo. The incident occurred while the lorry was en route from Kanamulla to Vertive Racing via Herotu Ravaya. A nearby power supply wire also suffered damage due to the blaze. Despite efforts to extinguish the fire, the lorry and coir stocks were completely lost.
-
-🟩
-
-Udappuwa Police say that the lorry and coir was completely destroyed by a large lorry burning of coir.
-
-The lorry that the lorry from the Kanamulla-road to the Vertive Racing to the Herotu Ravaya, which was traveling from the Kanamulla is the main road from the Kanamulla is to the warehouse from the Kanamulla is to the warehouse.
-
-The wire of a power supply to a house was burned with the lorry, with the heavy height of height.
-
-However, the lorry has come to the pierce wires, but the fire has not been completely spreading with the fire.
-
-However, the lorry driver and the assistant say that the lorry has been removed from the lorry and rescue lives.
-
-The core businessman says that the stock of coir and the lorry is completely destroyed due to the fire.
-
-Vasabas with the fire had tried to saving the lorry and coir, but it says it has been failed.
-
-◼️
-
-[Data](articles/42af8bf4.json)
-
-[Extended Data](ext_articles/42af8bf4.ext.json)
-
----
-
-### The submissions of four, including Maui and Sreedharan;The reason for the retreat is unknown - Sumanthiran
-
-*2024-07-21 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/188978) · `ta`
-
-A case filed by the Sri Lankan Tamil State Party's new administration has reached its conclusion, with the reasons for the retreat remaining unknown. Despite actions to close the case, submissions from four individuals, including Senathirajah and Sreedharan, were missing, leading to an 11-day postponement. The decision to end the case was made at a Central Executive Committee meeting, with plans for submissions during a political meeting in Vavuniya. However, the four individuals failed to submit their documents, causing the delay.
-
-🟩
-
-The Maui has reached the end of the case filed by the Sri Lankan Tamil State Party's new administration.. Four's submissions, including Senathirajah and Sivagnanam Sreedharan. The spokesman of the party and the Jaffna spokesman said that the reasons for it were unknown. District Parliamentarian President MA Sumanthiran said.
-
-The case has been postponed for 11 days on the 19th, even though the party level has taken action to end the case against the new administration of the Sri Lankan Tamil state party.. In this case, Sumanthiran commented on the above.
-
-At our Central Executive Committee meeting, it was decided to end the case against the party's administrative choice. Thereafter, the measures were taken.
-
-Subsequently, it was decided that the opponents would submit their submissions during the political high -level meeting in Vavuniya on the 14th and the drafts were shared with other opponents.
-
-...
-
-[Data](articles/5920f5fe.json)
-
-[Extended Data](ext_articles/5920f5fe.ext.json)
-
----
-
-### A young girl arrested for killing of club spring
-
-*2024-07-21 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199042) · `si`
-
-A 21-year-old girl was arrested for her suspected involvement in the Club Spring shooting incident, which occurred during the opening of a tattoo center.
-
-🟩
-
-The 21-year-old girl was arrested on suspicion of connecting the club spring murder.
-
-At the time of opening a Tatu Center, two shooters shot the Club Spring.
-
-◼️
-
-[Data](articles/1006cee9.json)
-
-[Extended Data](ext_articles/1006cee9.ext.json)
-
----
-
-### 12 arrested for engaging in gemstone excavations
-
-*2024-07-21 10:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணிக்க-கற்கள்-அகழ்வில்-ஈடுபட்ட-12-பேர்-கைது/76-340743) · `ta`
-
-Twelve individuals were arrested for illegal gem mining and supplying water to a plantation and reservoir in Sri Lanka's Bogawantalawa region. The arrests occurred during a police operation on Sunday, with suspects set to appear in court.
-
-🟩
-
-12 persons have been arrested for excavating gems in the Maelian forest area that illegally supplied water to the queen forest plantation and Kasalri water reservoir in the Bogawantalawa area.
-
-The incident took place on Sunday morning (21) during a roundup of Bogawantalawa Police and Action Soldiers.
-
-Bogawantalawa Police Station Superintendent Sukat says the arrested persons will be produced before Hatton Court.
-
-◼️
-
-[Data](articles/55bab51e.json)
-
-[Extended Data](ext_articles/55bab51e.ext.json)
-
----
-
-### 11 arrested for engaging in gemstone excavations
-
-*2024-07-21 10:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணிக்க-கற்கள்-அகழ்வில்-ஈடுபட்ட-11-பேர்-கைது/76-340743) · `ta`
-
-Eleven individuals were arrested for illegally supplying water to a plantation and reservoir in Sri Lanka's Bogawantalawa region. The arrests occurred during a police operation on Sunday morning, with suspects expected to face charges in court.
-
-🟩
-
-Eleven people have been arrested in the Maelian forest area who illegally supplied water to the queen forest plantation and Kasalree water reservoir in the Bogawantalawa area.
-
-The incident took place on Sunday morning (21) during a roundup of Bogawantalawa Police and Action Soldiers.
-
-Bogawantalawa Police Station Superintendent Sukat says the arrested persons will be produced before Hatton Court.
-
-◼️
-
-[Data](articles/cb76124a.json)
-
-[Extended Data](ext_articles/cb76124a.ext.json)
 
 ---

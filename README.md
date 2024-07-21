@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 13:54:45**
+As of **2024-07-21 14:05:41**
 
 ## Newspaper Stats
 
-*Scraped **36,372** Articles*
+*Scraped **36,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,207
 tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
 virakesarilk | 5,688
-adaderanasinhalalk | 6,101
+adaderanasinhalalk | 6,102
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,370 (100.0%) of 36,372 articles have been extended.
+36,370 (100.0%) of 36,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### ලබන සතියේ රෑට අහසේ ලොකු වෙනසක්
+
+*2024-07-21 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199049) · `si`
+
+සෙනසුරු, චන්ද්‍රයාගෙන් මුවාවීමේ සංසිද්ධිය ජූලි 24 වනදා ශ්‍රී ලාංකිකයන්ට දර්ශනය වනු ඇති බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
+
+මෙය දුර්ලභ තාරකා විද්‍යාත්මක සිදුවීමක් බවත් ජූලි 24 මධ්‍යම රාත්‍රියෙන් පසුව ජූලි 25 වනදා පෙරවරු 00.40ට පමණ සඳ දෙස බැලීමෙන් එම සංසිද්ධිය පියවි ඇසින් නිරීක්ෂණය කළ හැකි බව එම මධ්‍යස්ථානය සඳහන් කරයි
+
+එම සංසිද්ධිය දුරේක්ෂයක් හෝ දුරදක්නයක් ආධාරයෙන් වඩාත් හොඳින් නිරීක්ෂණය කිරීමට හැකිවෙයි.
+
+එක් ආකාශ වස්තුවක් තවත් ආකාශ වස්තුවක් ඉදිරියෙන් ගමන් කිරීම නිසා එහි දර්ශනය අවහිර වීමෙන් මෙවන් සංසිද්ධියක් සිදුවේ.
+
+චන්ද්‍රයා, සෙනසුරු ග්‍රහලෝකය ඉදිරියෙන් ගමන් කරන විට එය පෘථිවියට නොපෙනී ගොස්, ආසන්න වශයෙන් පැය එකයි මිනිත්තු විස්සක් පමණ චන්ද්‍රයාගෙන් වැසී පවතියි.
+
+නැවත වරක් මෙවැනි සංසිද්ධිය ශ්‍රී ලංකාවාසීන්ට දර්ශනය වන්නේ 2037 අප්‍රේල් 24 වනදා බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
+
+ශ්‍රී ලංකා විවිධ ප්‍රදේශවලට එම සිදුවීම දර්ශනය වන වේලාවන් සුළු වශයෙන් වෙනස් වන අතර එම වේලාවන් පහතින් දැක්වෙයි.
+
+◼️
+
+[Data](articles/405c050e.json)
+
+---
 
 ### KPI ගේ ගෝලයින් දෙදෙනෙක්ව කොටුකර ගනියි
 
@@ -2327,25 +2351,5 @@ He said that although the president and parliamentary term were proposed to be r
 [Data](articles/db168bab.json)
 
 [Extended Data](ext_articles/db168bab.ext.json)
-
----
-
-### Trump speaks to Zelensky, pledges to ‘end the war’ with Russia
-
-*2024-07-20 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100650/trump-speaks-to-zelensky-pledges-to-end-the-war-with-russia) · `en`
-
-US Republican presidential candidate Donald Trump said Friday he had spoken by telephone with Ukraine leader Volodymyr Zelensky, and pledged to end the European country’s war with Russia.
-
-“I appreciate President Zelensky for reaching out because I, as your next President of the United States, will bring peace to the world and end the war that has cost so many lives and devastated countless innocent families,” Trump said in a post on his Truth Social platform.
-
-“Both sides will be able to come together and negotiate a deal that ends the violence and paves a path forward to prosperity.”
-
-The United States has provided tens of billions of dollars in military assistance for Kyiv since Russia launched its full-scale invasion of Ukraine in February 2022 -- though a Trump victory in the November election would put Washington’s continued support into question.
-
-...
-
-[Data](articles/9d371c55.json)
-
-[Extended Data](ext_articles/9d371c55.ext.json)
 
 ---

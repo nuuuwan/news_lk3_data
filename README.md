@@ -1,56 +1,140 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 11:55:46**
+As of **2024-07-21 12:09:00**
 
 ## Newspaper Stats
 
-*Scraped **36,354** Articles*
+*Scraped **36,361** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 319
-colombotelegraphcom | 338
-bbccomsinhala | 355
+colombotelegraphcom | 339
+bbccomsinhala | 356
 newsfirstlk | 363
 islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,276
 adaderanalk | 4,204
-tamilmirrorlk | 4,427
+tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
-virakesarilk | 5,682
+virakesarilk | 5,685
 adaderanasinhalalk | 6,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,348 (100.0%) of 36,354 articles have been extended.
+36,354 (100.0%) of 36,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### බොරු කියා නිවසින් ගිය සස්මික ට අත්වූ ඉරණම
+### ’’விகமனிக ஹரசர’’ நிகழ்ச்சி ஆரம்பிப்பு
+
+*2024-07-21 11:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விகமனிக-ஹரசர-நிகழ்ச்சி-ஆரம்பிப்பு/175-340748) · `ta`
+
+இலங்கையின் பொருளாதாரத்திற்கு புலம்பெயர் தொழிலாளர்களின் பங்களிப்பைப் பாராட்டி நாடளாவிய ரீதியில் ஏற்பாடு செய்யப்பட்டுள்ள "விகமனிக ஹரசர" நிகழ்ச்சியின் முதல் கட்டம் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் சற்று முன்னர் குருணாகல் சத்தியவாதி விளையாட்டரங்கில் ஆரம்பித்து வைக்கப்பட்டது.
+
+புலம்பெயர் தொழிலாளர்களை தொழில்முனைவோராக மாற்றும் நோக்கில் சுயதொழில் தொடங்குவதற்கு தலா 50,000 ரூபாய் வீதம் வழங்கி  வைக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3268d833.json)
+
+---
+
+### மாகாண சபை முறைமை எமது தேர்தல் விஞ்ஞாபனத்தில் உள்ளது - யாழ். வணிகர் கழகத்துடனான சந்திப்பில் தேசிய மக்கள் சக்தி
+
+*2024-07-21 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188975) · `ta`
+
+அரசியலமைப்பில் காணப்படுகின்ற மாகாண சபை முறைமையை மீண்டும் முன்னெடுப்பதற்கு ஆட்சிப்பொறுப்பையேற்று சொற்பகாலத்துக்குள் நடவடிக்கைகளை முன்னெடுப்போம். எமது தேர்தல் விஞ்ஞாபனத்திலும் அம்முறைமை உள்ளடக்கப்பட்டுள்ளது என்று தேசிய மக்கள் சக்தி தெரிவித்துள்ளது.
+
+யாழ்.வணிகர் கழகத்துக்கும் தேசிய மக்கள் சக்திக்கும் இடையிலான சந்திப்பு யாழ்ப்பாணத்தில் நடைபெற்றபோதே மேற்கண்ட விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+குறித்த சந்திப்பு தொடர்பில் தேசிய மக்கள் சக்தியின் பிரசார செயலாளர் விஜித ஹேரத் தெரிவித்துள்ளதாவதுரூபவ் யாழ்.வணிகர் கழகத்துடனான சந்தப்பின்போது, நாம் எமது பொருளாதாரக் கொள்கைகளை வெளிப்படுத்தினோம்.
+
+விசேடமாக நாட்டின் பொருளாதார நிலைமைகளை மேம்படுத்தல் உள்நாட்டு உற்பத்திகளை அதிகரித்தல், அனைவரையும் பொருளாதார மீள்கட்டியெழும்பும் செயற்றிட்டத்தில் பங்காளிகளாக்குதல் உள்ளிட்டவற்றை மையப்படுத்திய தேசிய மக்கள் சக்தியின் நிலைப்பாடுகளை தெளிவுபடுத்தினோம்.அதனையடுத்து தேசிய இனப்பிரச்சினை சம்பந்தமான உரையாடல்கள் நடைபெற்றன. தேசிய இனப்பிரச்சினை தொடர்பான எமது நிலைப்பாட்டை வெளிப்படுத்தினோம்.
+
+...
+
+[Data](articles/06ea75ca.json)
+
+---
+
+### அசங்க அபேகுணசேகர கைது
+
+*2024-07-21 11:44:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசங்க-அபேகுணசேகர-கைது/175-340747) · `ta`
+
+தேசிய பாதுகாப்பு கற்கை நிறுவகத்தின் முன்னாள் பணிப்பாளர் அசங்க அபேகுணசேகர கைது செய்யப்பட்டுள்ளார்.
+
+கட்டுநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து அவர் ஞாயிற்றுக்கிழமை (21) காலை கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+அவருக்கு எதிரான வழக்கு தொடர்பாக உள்நாட்டு இறைவரித் திணைக்களத்தினால் பிடியாணை பிறப்பிக்கப்பட்டதைத் தொடர்ந்து பொலிஸார் அவரை வருகை முனையத்தில் தடுத்து வைத்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/69621bdc.json)
+
+---
+
+### ரணில் பதவியேற்று இன்றுடன் ஈராண்டு நிறைவு  -  ஜனாதிபதி வேட்பாளராவதை அறிவிக்கவும் தீர்மானம்
+
+*2024-07-21 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188973) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பதவியேற்று இன்று (21) ஞாயிற்றுக்கிழமையுடன் ஈராண்டுகள் நிறைவடைந்துள்ளது. இவ்வாறானதொரு நிலையில் உத்தேச ஜனாதிபதி தேர்தலில் பொது வேட்பாளராக போட்டியிட உள்ளமையை  இம்மாதம் 31ஆம் திகதிக்கு முன்னர் அறிவிப்பதற்கு ரணில் விக்கிரமசிங்க தீர்மானித்துள்ளார். பல  கட்சிகள் ஒன்றிணைந்து உருவாக்கப்பட்டுள்ள அரசியல் கூட்டணியில் பொதுவான சின்னத்தில், பொது வேட்பாளராக 2024 ஜனாதிபதி தேர்தலில் போட்டியிடவுள்ளார்.
+
+2019ஆம் ஆண்டில் ஏற்பட்ட ஆட்சி மாற்றத்தை தொடர்ந்து இலங்கை வரலாறு காணாத அரசியல் மற்றும் பொருளாதார பெரும் நெருக்கடிக்களை எதிர்கொண்டது. இந்த நெருக்கடிகள் அதிகாரபூர்வமற்ற ஆட்சி மாற்றத்துக்கும் காரணமாகியது என்பது மறுக்க இயலாது. மக்கள் ஆணையால் தெரிவு செய்யப்பட்ட அப்போதைய ஜனாதிபதியான கோட்டாபய ராஜபக்ஷ, வன்முறை மிக்க மக்கள் போராட்டங்களை எதிர்கொள்ள முடியாது நாட்டை விட்டு தப்பித்துச் சென்றார்.
+
+...
+
+[Data](articles/2c4df39d.json)
+
+---
+
+### தமிழ் மக்கள் கூட்டணியின்  தேசிய மாநாடு இன்று
+
+*2024-07-21 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188987) · `ta`
+
+தமிழ் மக்கள் கூட்டணியின் முதலாவது தேசிய மாநாடு இன்று ஞாயிற்றுக்கிழமை (21) பிற்பகல் 3 மணிக்கு தந்தை செல்வா கலையரங்கில் நடைபெறவுள்ளது.
+
+கட்சியின் செயலாளர் நாயகம் சி.வி.விக்னேஸ்வரன் தலைமையில் நடைபெறும் இந்த மாநாட்டில் பிரதம அதிதியாக இலங்கை தமிழ் அரசுக் கட்சியின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் பங்கேற்கவுள்ளார்.
+
+அத்துடன் பேராசிரியர் கே.ரி.கணேசலிங்கம் சிறப்பு விருந்தினர் உரையாற்றவுள்ளதோடு மாநாட்டில் தீர்மானங்களும் நிறைவேற்றப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4d1cb7b4.json)
+
+---
+
+### The fate of the mashicon that lies
 
 *2024-07-21 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199045) · `si`
 
-කරන්දෙනිය මහා විද්‍යාලයේ ඉගෙනුම ලබන සිසුවෙක් හික්කඩුව ගඟේ දියනැමට ගොස් දියේ ගිලි මිය ගොස් ඇති බව හික්කඩුව පොලීසිය පවසයි.
+A 16-year-old student from Elpitiya drowned in the Hikkaduwa River while bathing with friends. The incident occurred after they left home to attend a dance event. The body was discovered near the Hikkaduwa Railway Bridge the next day.
 
-මියගොස් ඇත්තේ සස්මික සුදම් නම් ඇල්පිටිය ප්‍රදේශයේ පදිංචිව සිටි 16 හැවිරිදි සිසුවෙකි.
+🟩
 
-දන්සැල්වලට යන බව දෙමව්පියන්ට පවසා ඊයේ (20) සවස මිතුරන් සමඟ නිවසින් පිටව ගොස් ඇති බව ඔහුගේ පියා පැවසීය.
+A student of Karandeniya Maha Vidyalaya has died in the Hikkaduwa River to break down in Hikkaduwa River.
 
-9 දෙනෙකු දිය නෑමට හික්කඩුව ගඟට ගොස් ඇති අතර සවස 5.30ට පමණ 5 දෙනෙකු දියේ ගිලී තිබුණි.
+The victim was a 16 year old student, a 16 year old resident of Elpitiya, Elpitiya.
 
-සස්මික දියේ ගිලී අතුරුදන් වීම හේතුවෙන් පොලිස් ජීවිතාරක්ෂකයන් සහ ප්‍රදේශවාසින් එක්ව ඊයේ රාත්‍රීවන තෙක් සෝදිසි කිරීමි කර තිබුණි.
+Parents said to parents that they were going to dansals and left home yesterday evening.
 
-පොලීසිය පැවසුවේ අද (21) උදෑසන හික්කඩුව දුම්රිය පාලම අසල හික්කඩුව ග⁣ඟේ තිබිය දී සිසුවාගේ සිරුර හමුවූ බවයි.
+Nine had gone to the Hikkaduwa River to bath and 5 at 5.30 pm.
+
+The disappearances were scrutinized in collaboration with the disappearance of the roster.
+
+The police said that the student was found in the Hikkaduwa Railway Bridge this morning (21).
 
 ◼️
 
 [Data](articles/e0004983.json)
+
+[Extended Data](ext_articles/e0004983.ext.json)
 
 ---
 
@@ -70,25 +154,33 @@ A curfew ordered late on Friday has been extended to 3 p.m. (0900 GMT) on Sunday
 
 [Data](articles/a80f8576.json)
 
+[Extended Data](ext_articles/a80f8576.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தல் : செப்டம்பர் 21இல் வாக்களிப்பு?
+### Presidential Election: Voting on September 21?
 
 *2024-07-21 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188988) · `ta`
 
-ஜனாதிபதி தேர்தல் வாக்களிப்பு  செப்டம்பர் 21ம் திகதி நடைபெறலாம் என சண்டே டைம்ஸ் தெரிவித்துள்ளது.
+The Sunday Times reported that the presidential election might be held between September 21 and October 12, based on statements from the Election Commission and Commissioner General of Elections Saman Sri Ratnayake. The latter expressed concern over potential interference in the electoral process.
 
-ஜனாதிபதி தேர்தலிற்கான வேட்பு மனுக்கள் ஆகஸ்ட்மாத நடுப்பகுதியில் ஏற்றுக்கொள்ளப்படும் என தெரிவித்துள்ள சண்டேடைம்ஸ் உறுதியான திகதி இந்த வாரம் வெளியாகும் என தேர்தல் ஆணையக வட்டாரங்கள் தெரிவித்துள்ளன என செய்தி வெளியிட்டுள்ளது.
+🟩
 
-முன்னர் ஒக்டோபர் 5ம் திகதிமுதல் 12ம் திகதிக்குள் ஜனாதிபதி தேர்தல் நடைபெறலாம் என தெரிவிக்கப்பட்டுள்ள போதிலும் தேர்தல்கள் செப்டம்பர் மாதம் நடைபெறலாம் என தெரியவருவதாக சண்டே டைம்ஸ் தெரிவித்துள்ளது.
+The Sunday Times said the presidential election would be held on September 21.
 
-தேர்தல் திகதி அறிவிக்கப்பட்டு 16 முதல் 21நாட்களிற்குள் வேட்புமனுக்கள் பெறப்படவேண்டும்,28 முதல் 42 நாட்களிற்குள்தேர்தல் நடைபெறவேண்டும் என இதன் மூலம் தேர்தலை நடத்துவதற்கு தேர்தல் ஆணையகத்திற்கு 63 நாட்களை வழங்க முடியும் என சண்டே டைம்ஸ் தெரிவித்துள்ளது.
+The Election Commission sources said that the presidential elections for the presidential election will be accepted in the mid -August of August.
 
-இதேவேளை அரசியல் கட்சிகள் முன்கூட்டியே தேர்தலைநடத்துமாறு வேண்டுகோள் விடுக்ககூடாது இது தேர்தல் நடவடிக்கைகளில் தலையிடும் செயலாக பார்க்கப்படலாம் என தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்கதெரிவித்துள்ளார்.
+The Sunday Times reports that the presidential election may be held from October 5 to 12, but the elections are likely to be held in September.
+
+The Sunday Times said that the election date was announced within 16 to 21 days, and that the election should be given to the Election Commission for 63 days to hold elections within 28 to 42 days.
+
+Meanwhile, the Commissioner General of Elections Saman Sri Ratnayake said that this could be seen as an interference in the election process.
 
 ◼️
 
 [Data](articles/57f56e39.json)
+
+[Extended Data](ext_articles/57f56e39.ext.json)
 
 ---
 
@@ -402,6 +494,8 @@ The CEB has to collect money to pay for generation and keep the utility going he
 
 [Data](articles/412e3f79.json)
 
+[Extended Data](ext_articles/412e3f79.ext.json)
+
 ---
 
 ### Showers expected in parts of the island
@@ -545,6 +639,8 @@ Recently appointed President To Lam was appointed to oversee the work of the Gen
 ...
 
 [Data](articles/3ef04641.json)
+
+[Extended Data](ext_articles/3ef04641.ext.json)
 
 ---
 
@@ -873,6 +969,28 @@ In addition, a memorial stamp was published in the event of handing over student
 [Data](articles/f382a4b0.json)
 
 [Extended Data](ext_articles/f382a4b0.ext.json)
+
+---
+
+### රනිල් ජනපති වී වසර 2යි : පාර්ලිමේන්තුවේ පනත් 90ක් සම්මතයි
+
+*2024-07-21 05:46:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpd9mn79lx9o) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ ශ්‍රී ලංකාවේ අටවැනි විධායක ජනාධිපතිවරයා ලෙස තේරී පත්වී අදට (ජූලි 21) දෙවසරක කාලයක් සම්පූර්ණ වේ. ඇතැමුන් ඔහු ‘රනිල් රාජපක්ෂ’ ලෙස හඳුන්වයි. තවත් සමහරෙක් ඔහුට 'පිං ජනපති' ලෙස ද විවේචන කරති.
+
+අනුප්‍රාප්තික ජනාධිපතිවරයා ලෙස රනිල් වික්‍රමසිංහ එම ධුරය භාර ගන්නා අවස්ථාවේ රටේ පැවතියේ ඉතාම අභියෝගාත්මක කාල වකවානුවක් බව නොරහසකි.
+
+ඒ වන විටත් ගාලු මුවදොර පිටියේ මෙන්ම දිවයිනේ ඇතැම්  ප්‍රදේශවල මහජනතාව සිස්ටම් ‘චේන්ජ්’ එකක් අවශ්‍ය බව පවසමින් විරෝධතා හා උද්ඝෝෂණ කරමින් කඳවුරු බැඳ සිටියහ.
+
+ජනාධිපති ධුරයට පත්වීමට පෙර රනිල් වික්‍රමසිංහ ගෝඨාභය රාජපක්ෂ රජයේ අගමැතිවරයා ලෙස කටයුතු කරමින් සිටියේය.
+
+ඒ අගමැති මහින්ද රාජපක්ෂ ප්‍රමුඛ ආණ්ඩුව ජනතා විරෝධය හමුවේ ඉල්ලා අස්වීම හේතුවෙනි.
+
+2022 වසරේ මැයි මස 16 වැනිදා ජාතිය අමතමින් එවකට අගමැතිවරයා ලෙස රනිල් වික්‍රමසිංහ කියා සිටියේ තමන් භාර ගනු ලැබුවේ අනතුරුදායක අභියෝගයක් බවය.
+
+...
+
+[Data](articles/7331e9f5.json)
 
 ---
 
@@ -2072,6 +2190,8 @@ The central bank still had a negative position of about 821 million dollars by M
 
 [Data](articles/150f6623.json)
 
+[Extended Data](ext_articles/150f6623.ext.json)
+
 ---
 
 ### Sri Lanka banking system foreign assets positive in May, collects $6.7bn since rate hike: analysis
@@ -2217,143 +2337,5 @@ His press release points out that the government has decided not to take the pro
 [Data](articles/5ffadfc5.json)
 
 [Extended Data](ext_articles/5ffadfc5.ext.json)
-
----
-
-### Massive fire on Sir Lanka-bound ship carrying hazardous cargo off Goa
-
-*2024-07-20 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100648/massive-fire-on-sir-lanka-bound-ship-carrying-hazardous-cargo-off-goa) · `en`
-
-A massive fire erupted on a container cargo merchant vessel about 102 nautical miles south west of Goa on Friday. The vessel was on way from Gujarat’s Mundra to Sri Lankan capital Colombo, the Indian Coast Guard (ICG) said in a statement.
-
-On receiving the information, the Indian Coast Guard diverted the ship to proceed to the distressed vessel with maximum speed. Also, a Dornier aircraft took off for aerial assessment.
-
-According to the statement by Coast Guard, the ship is carrying Maritime Dangerous Goods (IMDG) cargo and explosions have been occurring on front part of the merchant vessel.
-
-The Indian Coast Guard ship arrived in the area and is carrying out fire-fighting operation despite rough sea and inclement weather conditions, the statement added.
-
-The panic-stricken crew has been reassured of the safety by the Indian Coast Guard ship. As per the statement, two ICG ships sailed with dispatch from Goa to augment firefighting efforts.
-
-...
-
-[Data](articles/15927154.json)
-
-[Extended Data](ext_articles/15927154.ext.json)
-
----
-
-### Massive fire on Sri Lanka-bound ship carrying hazardous cargo off Goa
-
-*2024-07-20 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100648/massive-fire-on-sri-lanka-bound-ship-carrying-hazardous-cargo-off-goa) · `en`
-
-A massive fire erupted on a container cargo merchant vessel about 102 nautical miles south west of Goa on Friday. The vessel was on way from Gujarat’s Mundra to Sri Lankan capital Colombo, the Indian Coast Guard (ICG) said in a statement.
-
-On receiving the information, the Indian Coast Guard diverted the ship to proceed to the distressed vessel with maximum speed. Also, a Dornier aircraft took off for aerial assessment.
-
-According to the statement by Coast Guard, the ship is carrying Maritime Dangerous Goods (IMDG) cargo and explosions have been occurring on front part of the merchant vessel.
-
-The Indian Coast Guard ship arrived in the area and is carrying out fire-fighting operation despite rough sea and inclement weather conditions, the statement added.
-
-The panic-stricken crew has been reassured of the safety by the Indian Coast Guard ship. As per the statement, two ICG ships sailed with dispatch from Goa to augment firefighting efforts.
-
-...
-
-[Data](articles/20f0a674.json)
-
-[Extended Data](ext_articles/20f0a674.ext.json)
-
----
-
-### 22 Why should it be brought to the source of the law?Sumanthiran question
-
-*2024-07-20 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188924) · `ta`
-
-MA Sumanthiran questions the urgency of the 22nd Constitutional Amendment, arguing it confuses voters and disrupts the constitutional process, especially concerning presidential elections and universal suffrage. He suggests it might be seen as granting excessive powers to the President and unnecessary during the current term.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian MA Sumanthiran has questioned why the 22nd Amendment to the Constitution is now needed.
-
-He questioned the need to bring the bill to the present, and in his view, it is confusing the voters.
-
-He added that it would be troubled by holding the presidential election at the end of the five years, according to the constitution.
-
-Sumanthiran said that if the 22nd Amendment was passed with two -thirds of the parliament, it would be confused as the election of the Constitution would be given to the President.
-
-He said that it is not necessary to conduct a universal payment as this has not been made in the current president's tenure.
-
-◼️
-
-[Data](articles/5cb2e898.json)
-
-[Extended Data](ext_articles/5cb2e898.ext.json)
-
----
-
-### Daughter refusing to exam: Mother who made a disaster
-
-*2024-07-20 12:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பரீட்சையை-மறுத்த-மகள்-விபரீத-முடிவெடுத்த-தாய்/71-340712) · `ta`
-
-A tragic incident occurred when a mother, refusing to attend the GCE Ordinary Level Examination in Jaffna, influenced her daughter to also skip it. This led to the daughter's hospitalization due to frustration. Despite being transferred to the Jaffna Bodhana Hospital for further care, she passed away.
-
-🟩
-
-The mother refused to go to the exam in Jaffna and the mother made a wrong decision.
-
-The GCE Ordinary Level Examination was held on the 10th of last month. As the daughter refused to go, the mother was frustrated and saved her life and was admitted to the Tellippalai Base Hospital for treatment.
-
-He was transferred to the Jaffna Bodhana Hospital for further treatment and died on Friday.R
-
-◼️
-
-[Data](articles/7e1332c0.json)
-
-[Extended Data](ext_articles/7e1332c0.ext.json)
-
----
-
-### Daughter who refuses to go to exam
-
-*2024-07-20 12:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பரீட்சைக்கு-செல்ல-மறுத்த-மகள்-யாழில்-தாய்-தற்கொலை/71-340712) · `ta`
-
-A daughter's refusal to attend an exam led to her mother's death. The mother, refusing to take the GCE Ordinary Level Examination in Jaffna, became ill and was hospitalized. Despite being transferred for further care, she passed away.
-
-🟩
-
-The mother refused to go to the exam in Jaffna and the mother made a wrong decision.
-
-The GCE Ordinary Level Examination was held on the 10th of last month. As the daughter refused to go, the mother was frustrated and saved her life and was admitted to the Tellippalai Base Hospital for treatment.
-
-He was transferred to the Jaffna Bodhana Hospital for further treatment and died on Friday.R
-
-◼️
-
-[Data](articles/e0f6d448.json)
-
-[Extended Data](ext_articles/e0f6d448.ext.json)
-
----
-
-### Family girl who abandoned the baby in Jaffna;In the description of the woman and the lover
-
-*2024-07-20 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/188931) · `ta`
-
-A woman from Jaffna, living with her husband and child near the police station, recently left the city with her boyfriend. Her husband filed a complaint leading to their arrest. The Jaffna Magistrate's Court, after a hearing, ordered them held for 14 days.
-
-🟩
-
-The court has ordered the abandonment of her two -and -a -half -year -old baby girl and her boyfriend who left the city with her boyfriend.
-
-A family woman who lived with her husband and her child in the area of ​​the Jaffna police station had left the city a few days ago.
-
-A complaint was lodged at the Jaffna Police Station by husband. According to the complaint, the police arrested the woman and her boyfriend.
-
-Following the trial of the two men, the Jaffna Magistrate's Court has ordered the detainees to be detained for 14 days following a court hearing.
-
-◼️
-
-[Data](articles/aace322b.json)
-
-[Extended Data](ext_articles/aace322b.ext.json)
 
 ---

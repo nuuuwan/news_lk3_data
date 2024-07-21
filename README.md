@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 23:35:53**
+As of **2024-07-21 23:55:10**
 
 ## Newspaper Stats
 
-*Scraped **36,442** Articles*
+*Scraped **36,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 339
 bbccomsinhala | 356
 newsfirstlk | 363
 islandlk | 2,075
-economynextcom | 2,172
+economynextcom | 2,173
 dailyftlk | 2,314
 adalk | 3,289
 adaderanalk | 4,217
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,441 (100.0%) of 36,442 articles have been extended.
+36,442 (100.0%) of 36,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### LPL ශූරතාවය යාපනය ට
+### LPL championship in Jaffna
 
 *2024-07-21 23:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199065) · `si`
 
-5 වැනි ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ ශූරතාවය දිනා ගැනීමට ජැෆ්නා කිංග්ස් කණ්ඩායම සමත්විය.
+In the 5th Lanka Premier League Championship, Jaffna Kings emerged victorious. Charith won the toss and chose to field first. Despite losing six wickets, the opposing team managed 184 runs in just 20 overs. The chase started poorly for Jaffna, losing their first wicket on the first ball. However, Kusal Mendis and Raleyy Rouuso turned the game around, leading Jaffna to victory.
 
-තරගයේ කාසියේ වාසිය චරිත් අසලංක දිනාගත් අතර පළමුව පන්දුවට පහරදීමට ඔහු ගෝල් කණ්ඩායම ට ආරාධනා කළේය.
+🟩
 
-ඒ අනුව ගෝල් කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 184ක් රැස්කළේය.
+Jarfna Kings won the 5th Lanka Premier League Championship.
 
-ලකුණු 185ක ඉලක්කයක් හඹා යෑම ඇරඹූ ජැෆ්නා කණ්ඩායමේ පළමු කඩුල්ල පළමු පන්දුවට ම දැවී ගියේය.
+Charith won the toss and invited him to the team first to bat first.
 
-නමුත් අනතුරුව පිටියේ එක්වූ කුසල් මෙන්ඩිස් සහ රයිලි රූසෝ ජැෆ්නා කණ්ඩායම ජයග්‍රහණය සඳහා ගෙන ගියහ.
+Accordingly, the village scored 184 runs for the loss of 6 wickets in the loss of 6 overs.
+
+The first wicket of the Japhna, which began to chase 185 runs, was bowled out for the first ball.
+
+But then Kusal Mendis and Raleyy Rouuso Japna took the team to win.
 
 ◼️
 
 [Data](articles/459e2a22.json)
+
+[Extended Data](ext_articles/459e2a22.ext.json)
 
 ---
 
@@ -1172,6 +1178,30 @@ The 21-year-old was arrested by police this morning in connection with the incid
 
 ---
 
+### Sri Lanka coconut price hit 17-month high at auction
+
+*2024-07-21 14:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-price-hit-17-month-high-at-auction-173104/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut prices rose 2.3 percent from 82,616 rupees to 84,592 per 1,000 nuts at an auction on July 18, data from the Coconut Development Authority shows.
+
+The auction prices are now at levels not seen since March 2023.
+
+The highest price was 90,200 down from 95,600 for 1000 nuts while the lowest was 76,700 up from 74,100.
+
+A total of 399,773 coconuts were offered at the auction and 352,055 were sold.
+
+Wholesale prices were 95 to 105 rupees for large nuts and 85 to 90 rupees for small nuts on July 11.
+
+Farmgate prices in Kurunegala were 77,000 – 82,000 per 1,000 nuts.
+
+Coconut shells were 32,000 – 33,000 rupees per metric ton. (Colombo/July21/2024)
+
+◼️
+
+[Data](articles/6bffad20.json)
+
+---
+
 ### Traditional house fire
 
 *2024-07-21 14:17:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரம்பரிய-வீட்டில்-தீ-விபத்து/175-340759) · `ta`
@@ -2281,27 +2311,5 @@ According to the welfare beneficiaries, the Welfare Board of Benefits will be up
 [Data](articles/29c17b3c.json)
 
 [Extended Data](ext_articles/29c17b3c.ext.json)
-
----
-
-### Parliament gathered from June 26 to 26
-
-*2024-07-21 09:30:03* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-ලබන-23-සිට--26-දක්වා-රැස්වෙයි/11-410884) · `si`
-
-Parliament convened from June 26 to 26, focusing on the second readings of the Fiscal Management and Economic Translation Bills. Debates included the Civil Troubles Code Amendment and the Judicial Organizations Act. The session also featured discussions on AI technology and national security impacts. Notably, the parliament extended its hours for debates and allocated specific times for questioning and church adjournment debates.
-
-🟩
-
-The second reading of the Fiscal Management and Economic Translation Bills has been decided in the Committee on Parliamentary Business Mahinda Mahinda Yapa Abeywardena on the 25th of this month.
-
-Accordingly, the Parliament will meet up to 23 to 26 and will be allocated for questions expected from 9.30 am to 10 am from 9.30 am to 10.30 am. The Civil Trouble Code (Amendment) (Reading) (Second Reading) (Second Reading) (Reading) Bill and the Judicial Organizations Act will be debated under 5:00 pm.The motion is to be debated at the time of the House of Opposition to 5:00 pm to 4 pm.
-
-Wednesday 24th July 12:00 am From 9.30 am to 10:00 am to 10:00 am(AI technology) The church adjournment debate is to be held regarding the impact of national security, all religions and the country's culture.
-
-...
-
-[Data](articles/5390566b.json)
-
-[Extended Data](ext_articles/5390566b.ext.json)
 
 ---

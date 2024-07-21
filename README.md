@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 06:05:10**
+As of **2024-07-21 06:41:00**
 
 ## Newspaper Stats
 
-*Scraped **36,304** Articles*
+*Scraped **36,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,35 @@ adaderanalk | 4,198
 tamilmirrorlk | 4,420
 dailymirrorlk | 4,733
 virakesarilk | 5,679
-adaderanasinhalalk | 6,085
+adaderanasinhalalk | 6,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,304 (100.0%) of 36,304 articles have been extended.
+36,304 (100.0%) of 36,305 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-21 (Sunday)
+
+### අද කාලගුණය
+
+*2024-07-21 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199033) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (21) දිනයේ වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් බලාපොරොත්තුවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/6b9f1f50.json)
+
+---
 
 ### 2024-07-20 (Saturday)
 
@@ -2377,27 +2397,5 @@ However, despite this new system being launched yesterday, a large number of peo
 [Data](articles/7e8fcc34.json)
 
 [Extended Data](ext_articles/7e8fcc34.ext.json)
-
----
-
-### 52 pilgrims injured in Muttur accident
-
-*2024-07-20 00:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூதூர்-விபத்தில்-52-யாத்திரிகர்கள்-காயம்/175-340705) · `ta`
-
-In a crash near Muttur, 52 pilgrims were hurt as their bus from Jaffna to Kadirgamam overturned. Of 59 passengers, 52 were taken to Muttur hospital, including two with severe hand injuries.
-
-🟩
-
-52 pilgrims were injured when a bus carrying pilgrims from Jaffna to Kadirgamam crashed into a road in Muttur area.
-
-Of the 59 people who were traveling in the bus during the accident, 52 were injured and admitted to the Muttur hospital.
-
-Hospital sources have pointed out that 50 people were injured and two were severely injured in their hands.
-
-◼️
-
-[Data](articles/94485bb9.json)
-
-[Extended Data](ext_articles/94485bb9.ext.json)
 
 ---

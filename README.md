@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 10:54:15**
+As of **2024-07-21 11:05:57**
 
 ## Newspaper Stats
 
-*Scraped **36,336** Articles*
+*Scraped **36,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 2,169
 dailyftlk | 2,314
 adalk | 3,274
 adaderanalk | 4,201
-tamilmirrorlk | 4,424
+tamilmirrorlk | 4,427
 dailymirrorlk | 4,733
 virakesarilk | 5,679
-adaderanasinhalalk | 6,094
+adaderanasinhalalk | 6,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,335 (100.0%) of 36,336 articles have been extended.
+36,336 (100.0%) of 36,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### ට්‍රම්ප් ට වෙඩි තැබීමට පෙර වෙඩික්කරු කළ දේ හෙළිවෙයි
+
+*2024-07-21 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199043) · `si`
+
+අමෙරිකානු ජනාධිපති අපේක්ෂක, හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ට වෙඩි තැබූ වෙඩික්කරු වෙඩි තැබීමට සුදුසුම ස්ථානය හඳුනා ගැනීම සඳහා ඩ්‍රෝන යානාවක් උපයෝගී කරගෙන ඇති බව විමර්ශකයින් පවසයි.
+
+පසුගිය ජූලි 13 වනදා පෙන්සිල්වේනියාවේ මැතිවරණ රැලියක් අමතමින් සිටියදී තෝමස් මැතිව්ස් කෲක්ස් නම් 20 හැවිරිදි තරුණයෙක් ට්‍රම්ප් ට වෙඩි තැබීය.
+
+ඉන් ට්‍රම්ප් ගේ දකුණු කන සිදුරු වූ අතර වෙඩි වැදී ඔහුගේ රැලියට පැමිණ සිටි 50 හැවිරිදි පුද්ගලයෙක් මියගියේය.
+
+◼️
+
+[Data](articles/fdad0e84.json)
+
+---
+
+### ஜனாதிபதி தேர்தலை பிற்போடுவது நல்லது
+
+*2024-07-21 10:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதி-தேர்தலை-பிற்போடுவது-நல்லது/71-340744) · `ta`
+
+ஜனாதிபதித் தேர்தலை பிற்போடுவது தமிழ் மக்களுக்கு நன்மை பயக்கும் என பாராளுமன்ற உறுப்பினர் சி. வி. விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+
+“ஜனாதிபதித் தேர்தலை பிற்போடுவது முழு நாட்டுக்கும் நன்மை பயக்கும். அதிலும் குறிப்பாக தமிழர்களுக்கு நன்மையே.
+
+இந்த ஜனாதிபதித் தேர்தலை பொறுத்த வரைக்கும் வேட்பாளர் எவரும் 50 வீதத்துக்கும் அதிகமான வாக்குகளைப் பெற முடியாத நிலைமை காணப்படுகிறது. அதனால், அவர்கள் சிறுபான்மையின மக்களின் வாக்குகளைப் பெற முனைப்பு காட்டுவார்கள்.
+
+அதேநேரம், ஜனாதிபதித் தேர்தலில் எவரும் 50 வீதத்துக்கும் அதிகமான வாக்குகளைப் பெறாத நிலைமை ஏற்படும் போது நாட்டில் அரசியல் ஸ்திரத்தன்மை இல்லாமல் போகும்.
+
+ஏற்கனவே நாட்டில் பொருளாதார நெருக்கடிகள் காணப்படுகின்றன. இந்த நிலையில் அரசியல் ஸ்திரத்தன்மை இல்லாது போனால் நாடு மிக மோசமான பொருளாதாரப் பின்னடைவுகளைச் சந்திக்க நேரிடும்.
+
+அத்துடன், தேர்தலுக்காக பெருமளவான நிதிகள் செலவழிக்கப்பட வேண்டிய நிலைமையும் ஏற்படும். அதுவும் நாட்டின் பொருளாதாரத்தைப் பாதிக்கும்”.
+
+◼️
+
+[Data](articles/6a9f9b19.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතන සිද්ධියට තරුණියක් අත්අඩංගුවට
+
+*2024-07-21 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199042) · `si`
+
+ක්ලබ් වසන්ත ඝාතන සිද්ධියට සම්බන්ධ බවට සැකපිට 21 හැවිරිදි තරුණියක් ව අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+පසු ගිය 08 වනදා ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමේ අවස්ථාවකට සහභාගී වී සිටියදී වෙඩික්කරුවන් දෙදෙනෙකු විසින් ක්ලබ් වසන්තව වෙඩි තබා ඝාතනය කළේය.
+
+◼️
+
+[Data](articles/1006cee9.json)
+
+---
+
+### மாணிக்க கற்கள் அகழ்வில் ஈடுபட்ட 12 பேர் கைது
+
+*2024-07-21 10:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணிக்க-கற்கள்-அகழ்வில்-ஈடுபட்ட-12-பேர்-கைது/76-340743) · `ta`
+
+சட்ட விரோதமாக பொகவந்தலாவ பகுதியில் ராணி காடு தோட்ட  மற்றும்  காசல்ரீ நீர் தேக்கத்திற்க்கு நீர் வழங்கும் மாஎலிய வனப் பகுதியில் மாணிக்க கற்கள் அகழ்வில் ஈடுபட்டு வந்த 12 பேர் கைது செய்யப்பட்டுள்ளதோடு உபகரணங்களும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+இச் சம்பவம் ஞாயிற்றுக்கிழமை (21) காலை பொகவந்தலாவ பொலிஸார் மற்றும் அதிரடி படையினர் இணைந்து மேற்கொண்ட சுற்றி வளைப்பின் போது கைது இடம்பெற்றுள்ளது.
+
+கைது செய்யப்பட்டவர்கள் ஹட்டன் நீதிமன்றத்தில் ஆஜர் படுத்தப்படவுள்ளதாக பொகவந்தலாவ பொலிஸ் நிலைய பொறுப்பதிகாரி சுகத் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/55bab51e.json)
+
+---
 
 ### 21-year-old female arrested over ‘Club Wasantha’ murder
 
@@ -38,9 +106,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Police have arrested a 21-year-old female on suspicion of being linked to the killing of ‘Club Wasantha’ at Athurugiriya recently.
 
-◼️
+On July 09, police arrested seven suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place, resulting in the deaths of ‘Club Wasantha’ and another person and wounded four others. The other arrested individuals were suspected to have aided and abetted in the shooting incident.
+
+During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
+
+Meanwhile, measures have been taken to provide special protection to the owner of the tattoo studio in question, as per a court order, since there are accomplices of the criminal figure infamously known as “Loku Patee,” who is suspected to be involved in the incident, detained in the prison.
+
+...
 
 [Data](articles/a3baa97b.json)
+
+[Extended Data](ext_articles/a3baa97b.ext.json)
+
+---
+
+### பெண் உட்பட 16 பேர் அதிரடியாக கைது
+
+*2024-07-21 10:26:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-உட்பட-16-பேர்-அதிரடியாக-கைது/175-340741) · `ta`
+
+ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களில் ஈடுபட்டதாகக் கூறப்படும் ஒரு பெண் உட்பட மொத்தம் 16 சந்தேக நபர்களை கொழும்பு குற்றப்பிரிவு (CCD) கைது செய்துள்ளது.
+
+பாதாள உலகத்துடன் தொடர்புடைய சந்தேகத்தின் பேரில் 24 வயதுடைய பெண் ஒருவரை கொழும்பு 15 இல் சிசிடி ஆரம்பத்தில் தடுத்து வைத்ததாக பொலிஸார் தெரிவித்தனர். பின்னர், திட்டமிட்ட குற்றச் செயல்களில் அவருக்கு உதவிய குற்றச்சாட்டின் பேரில் மேலும் 15 பேர் கைது செய்யப்பட்டனர்
+
+◼️
+
+[Data](articles/c3dd3b87.json)
 
 ---
 
@@ -2245,129 +2335,5 @@ Gunawardena assured that there are no plans to postpone the elections, as certai
 [Data](articles/b6a0f987.json)
 
 [Extended Data](ext_articles/b6a0f987.ext.json)
-
----
-
-### Maintains the three-wheeler career - President
-
-*2024-07-20 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199008) · `si`
-
-President Ranil Wickremesinghe emphasizes the need for professional regulations for three-wheeler drivers, highlighting the importance of stability and economic recovery. He suggests collaboration with relevant associations to develop these rules, ensuring welfare and considering the transition to electric vehicles, learning from global experiments.
-
-🟩
-
-President Ranil Wickremesinghe says that there should be professional rules when maintaining a three-wheeler career.
-
-He was speaking at a meeting with professional three-wheeler and transportation representatives yesterday (19).
-
-The profession has been handed over to the President where a professional three-wheeler drivers are handed over to the President.
-
-...
-
-[Data](articles/631a5155.json)
-
-[Extended Data](ext_articles/631a5155.ext.json)
-
----
-
-### Red alarm regarding heavy winds, sea rage
-
-*2024-07-20 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/188915) · `ta`
-
-A severe weather warning has been issued for the Arabian Sea and Bay of Bengal due to strong winds and rough seas caused by the southwest monsoon. Winds may reach 70-80 km/h. The navy and fishermen are urged to avoid red-marked sea areas and return to shore or seek safety. Future forecasts from the Department of Meteorology should be closely monitored.
-
-🟩
-
-The Department of Meteorology has issued a warning of strong winds and sea rage in the Arabian Sea and the Bay of Bengal.
-
-Due to the southwest monsoon condition in the operating condition, strong winds can blow at speeds of 70 to 80 km / h in the Arabian Sea (10 w - 20 w) and (55kg - 74k) and the Bay of Bengal.
-
-Therefore, the naval and fishermen are advised not to go to the sea areas of the red color in the map below.
-
-Those in the waters are advised to return to the shores immediately or go to safe areas.
-
-The Navy and Fisheries Communities are being asked to look closely to the future predictions published by the Department of Meteorology.
-
-◼️
-
-[Data](articles/77799a20.json)
-
-[Extended Data](ext_articles/77799a20.ext.json)
-
----
-
-### Murder cricketer;The main suspect arrested
-
-*2024-07-20 10:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-வீரர்-கொலை-பிரதான-சந்தேகநபர்-கைது/175-340708) · `ta`
-
-The main suspect in the murder of Dhammika Niroshan, a young Sri Lankan cricketer, was arrested with drugs. Three suspects were identified, with one caught in Balapitiya. The motive might be linked to an international agreement.
-
-🟩
-
-The main gunman was arrested by the Galle District Crime Unit yesterday evening in connection with the shooting of Dhammika Niroshan, who was the captain of the Sri Lankan youth cricket team under the age of 19 2002.
-
-The Criminal Investigation Division said that three suspects had been identified to kill Dhammika Niroshana and the other two had been identified.
-
-The 48 -year -old suspect was arrested in the Randombe area of ​​Balapitiya with 2,800 milligrams of ice.
-
-Officials of the Elpitiya Criminal Investigation Department have also discovered the clothes worn by the shooters.
-
-Police suspect that the murder may have been based on the agreement obtained from abroad.
-
-The suspect has been produced before the Palapitiya Magistrate's Court and kept in detention until August 3. Remble
-
-◼️
-
-[Data](articles/f1045245.json)
-
-[Extended Data](ext_articles/f1045245.ext.json)
-
----
-
-### New constitutional amendment a ‘necessary revision’: Sri Lanka President
-
-*2024-07-20 09:57:00* · [`economynextcom`](https://economynext.com/new-constitutional-amendment-a-necessary-revision-sri-lanka-president-172980/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President has said a proposed amendment to the country’s constitution was a ‘necessary revision’, which would not result in a postponement of elections.
-
-“In 2015, we proposed a new constitutional amendment,” President Wickremesinghe was quoted as saying during a ceremony to open a court complex in Beligaha, Galle on Friday.
-
-“Typically, I would have assigned this task to K N Choksy, a lawyer.
-
-“However, since he had passed away, the responsibility fell to lawyer Jayampathi Wickramaratne. He was unable to make the necessary revisions. This oversight is regrettable, and I apologize to the nation for it.”
-
-President’s Counsel Wickramaratne has explained that the leaving out Section 83 (b) of the constitution was a not an “oversight” but it was a result of instructions received from the then administration to avoid making changes that required a referendum.
-
-...
-
-[Data](articles/1c05d1e8.json)
-
-[Extended Data](ext_articles/1c05d1e8.ext.json)
-
----
-
-### Boat fire off Haiti kills at least 40 migrants, UN says
-
-*2024-07-20 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100640/boat-fire-off-haiti-kills-at-least-40-migrants-un-says) · `en`
-
-At least 40 migrants have died after the boat they were travelling in caught fire off the northern coast of Haiti, a United Nations agency says.
-
-The International Organisation for Migration (IOM) says 41 others were rescued by the Haitian Coast Guard.
-
-The vessel was travelling from Cap-Haitien to the Turks and Caicos Islands, more than 220km (137 miles) away, the IOM said.
-
-The exact cause of the fire is not yet clear, but a local official told Reuters that people on the boat were lighting candles in a ritual to ask for safe passage, leading gasoline-filled drums to catch fire.
-
-The injured are receiving care provided by the IOM, and 11 of them were taken to the nearest hospital, the agency said.
-
-Tens of thousands of people flee Haiti every year, escaping poverty, lawlessness and gang violence at home.
-
-Rival armed groups took control of the capital, Port-au-Prince, earlier this year, forcing Prime Minister Ariel Henry to resign weeks later.
-
-...
-
-[Data](articles/d6bbeb36.json)
-
-[Extended Data](ext_articles/d6bbeb36.ext.json)
 
 ---

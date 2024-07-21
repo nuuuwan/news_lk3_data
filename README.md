@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 17:56:17**
+As of **2024-07-21 18:13:52**
 
 ## Newspaper Stats
 
-*Scraped **36,403** Articles*
+*Scraped **36,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,074
 economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,282
-adaderanalk | 4,212
+adaderanalk | 4,213
 tamilmirrorlk | 4,435
 dailymirrorlk | 4,733
 virakesarilk | 5,692
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,401 (100.0%) of 36,403 articles have been extended.
+36,403 (100.0%) of 36,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### Proposal for Ranil to contest Presidential Election approved at ‘Ekwa Jayagamu’ Gampaha rally
+
+*2024-07-21 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100672/proposal-for-ranil-to-contest-presidential-election-approved-at-ekwa-jayagamu-gampaha-rally) · `en`
+
+During the ‘Ekwa Jayagamu’ rally held in Gampaha today (21), Minister Prasanna Ranatunga proposed that President Ranil Wickremesinghe must contest the next Presidential Election.
+
+The proposal was then unanimously approved by all those in attendance with a show of hands, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/a5aea163.json)
+
+---
 
 ### A tragic story recorded by aranayaka
 
@@ -64,17 +78,23 @@ However, when she asked her not to house his son's body, she said that the son's
 
 ---
 
-### அசங்கவுக்கு பிணை
+### Bail
 
 *2024-07-21 17:11:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/அசங்கவுக்கு-பிணை/95-340769) · `ta`
 
-கட்டுநாயக்க விமான நிலையத்தில் கைது செய்யப்பட்ட  அசங்க அபேகுணசேகரவை, நீர்கொழும்பு நீதவான் ரக்கிதா அபேசிங்கவின் முன்னிலையில், ஞாயிற்றுக்கிழமை (21) மாலை கட்டுநாயக்க விமான நிலைய பொலிஸாரால் ஆஜர்படுத்தப்பட்டார்.
+Asanga Abeygunasekara, arrested at Katunayake airport, was released on two physical bails of Rs 10 lakh each. He must appear before the Colombo Magistrate's Court on August 9 as per orders from Negombo Magistrate Rakita Abeysinghe.
 
-தலா 10 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணையில் அவர் விடுவிக்கப்பட்டதுடன், எதிர்வரும் ஓகஸ்ட் மாதம் 9ஆம் திகதி கொழும்பு நீதவான் நீதிமன்றில் ஆஜராகுமாறு அசங்க அபேகுணசேகரவுக்கு நீர்கொழும்பு நீதவான்  உத்தரவிட்டுள்ளார்.
+🟩
+
+Asanga Abeygunasekara, who was arrested at the Katunayake airport, was produced before the Katunayake airport police in the presence of Negombo Magistrate Rakita Abeysinghe on Sunday evening.
+
+He was released on two physical bail worth Rs 10 lakh each and the Negombo Magistrate has ordered Asanga Abeygunasekara to appear before the Colombo Magistrate's Court on August 9.
 
 ◼️
 
 [Data](articles/15cb1560.json)
+
+[Extended Data](ext_articles/15cb1560.ext.json)
 
 ---
 
@@ -1538,23 +1558,33 @@ The port login expressway, which was opened on September 27, 2019, is 5.3 kilome
 
 ---
 
-### හම්බන්තොට කීරි සම්බා වගාව සාර්ථකයි
+### Kerai Samba Cultivation of Hambantota is successful
 
 *2024-07-21 08:37:59* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-කීරි-සම්බා-වගාව-සාර්ථකයි/11-410882) · `si`
 
-වී අලෙවි මණ්ඩලය ,හම්බන්තොට දිස්ත්‍රික්කයේ නියාමණ ව්‍යාපෘතියක් ලෙස ආරම්භ කළ කුඹුරු අක්කර 500ක කීරි සම්බා වගා කිරීමේ ව්‍යාපෘතියේ අස්වනු නෙලීම ආරම්භ විය.
+In Hambantota, the Paddy Marketing Board initiated a project to cultivate Key Samba seed paddy across 500 acres, aiming to boost production amid rising rice prices. This initiative, which began in Athunakolapelewawewa, Alutukasawa, marked the first time this variety was grown in the region. Farmers received funding support, leading to a successful harvest. The Minister of Agriculture, Mahinda Amaraweera, directed the purchase of the entire harvest, emphasizing the need to address the national Key Samba deficit.
 
-කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ සහභාගිත්වයෙන් මෙම අස්වනු නෙලීමේ වැඩසටහන අගුනකොළපැලැස්ස අලුත්වැව කුඹුරුයායේ දී සිදු කෙරිනි.
+🟩
 
-වෙළෙඳපළේ අනෙකුත් සහල් මිල ගණන් පහළ මට්ටමක පැවතුන ද කීරි සම්බා සහල් මිල ඉහළ යාම නිසා කීරි සම්බා බිත්තර වී නිෂ්පාදනය ඉහළ නැංවීම මෙම ව්‍යාපෘතියේ අරමුණ විය.
+The harvesting of 500 acres of paddy lands commenced as the Paddy Marketing Board as a definitive project in the Hambantota district.
 
-වී අලෙවි මණ්ඩලය විසින් මෙම ව්‍යාපෘතිය ආරම්භ කළ අතර ගොවි බාරකාර අරමුදලේ මුල්‍ය ප්‍රතිපාදන යොදාගනිමින් ගොවින් 300කට අක්කර 500ක වගා කිරීම සඳහා කිරි සම්බා බීජ වී හා අනෙකුත් කෘෂි යෙදවුම් නොමිලයේ ලබා දීමට පියවර ගත්තේය.
+The Harvesting Program was held at the Athunakolapelewawewa in Alutukasawa.
 
-ඒ අනුව එම අක්කර 500 කීරි සම්බා වී වගාව මේ වනවිට ඉතාමත් සාර්ථක වී තිබේ. කීරි සම්බා හම්බන්තොට දිස්ත්‍රික්කයේ මෙතෙක් වගා නොකරන අතර පළමුවරට පසුගිය මහ කන්නයේ අක්කර 100ක වගා කළ අතර ඉන් ඉහළ අස්වැන්නක් ලබා ගැනීමට හැකිවිය.
+The project aims to enhance the manufacture of Key Sambaba seed paddy, due to the increase in the price of rice prices of the market.
+
+The Paddy Marketing Board (Paddy Marketing Board) commenced the project and the farmer's funds have been provided to 500 acres of Rs. 300 acres of farmers.
+
+Accordingly, the 500 acres of Kir-samba paddy cultivation have been very successful. The Key Samba is not cultivated in the Hambantota district, and the first three acres were cultivated in 100 acres of the Maha Season.
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera instructed the Chairman Buddhika Iddamalgoda to purchase the 500st of 500 paddy harvest.
+
+Accordingly, the paddy stocks of paddy will be commenced in the next few days under the price of Rs.
 
 ...
 
 [Data](articles/cc3c6b79.json)
+
+[Extended Data](ext_articles/cc3c6b79.ext.json)
 
 ---
 
@@ -2277,23 +2307,5 @@ The Hatton New Railway Station and the Market Complex, which was completed in 20
 [Data](articles/13545509.json)
 
 [Extended Data](ext_articles/13545509.ext.json)
-
----
-
-### Prisoner
-
-*2024-07-20 21:25:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதியின்-முகத்தை-வெட்டிய-கைதி/175-340720) · `ta`
-
-In a shocking incident at Matara Prison, one inmate severely injured another by cutting his face on April 20th.
-
-🟩
-
-A prisoner at Matara Prison has cut down another prisoner's face today (20).
-
-◼️
-
-[Data](articles/7be1e387.json)
-
-[Extended Data](ext_articles/7be1e387.ext.json)
 
 ---

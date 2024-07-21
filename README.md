@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 21:20:14**
+As of **2024-07-21 21:35:59**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,115
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,434 (100.0%) of 36,435 articles have been extended.
+36,435 (100.0%) of 36,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### சவால்களை எதிர்கொள்வதற்கான தலைமைத்துவத்தை தெரிவு செய்வதற்கு மக்கள் சரியான தீர்மானங்களை எடுக்க வேண்டும் - ஸ்கொட் மொரிசன்
+### People should make the right decisions to choose the leadership to face the challenges - Scott Morrison
 
 *2024-07-21 20:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/189035) · `ta`
 
-பொருளாதார நெருக்கடிக்குப் பின்னர் கடந்த இரண்டு வருடங்களில் இலங்கையில் ஸ்திரத்தன்மையை மீண்டும் கொண்டு வருவதற்காக மேற்கொள்ளப்பட்டு வரும் பணிகள் உண்மையிலேயே அசாதாரணமானவை. இது போன்ற எதிர்கால சவால்களை இனிவரும் காலங்களிலும் எதிர்கொள்வதற்கான தலைமைத்துவத்தைத் தெரிவு செய்வதற்கு எதிர்வரும் மாதங்களில் மக்கள் சரியான தீர்மானங்களை எடுக்க வேண்டும் என்று அவுஸ்திரேலியாவின் முன்னாள் பிரதமரும் நிதி அமைச்சருமான ஸ்கொட் மொரிசன் தெரிவித்தார்.
+Scott Morrison emphasizes the importance of choosing the right leadership to navigate future challenges, highlighting the unique efforts towards stability in post-crisis Sri Lanka. He underscores the strength of the Australian-Sri Lankan relationship and encourages Sri Lankans to make crucial decisions for their nation's democratic future, supported by a strong economy and international partnerships.
 
-கொழும்பில் அண்மையில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-கடந்த காலங்களில் நான் சில சந்தர்ப்பங்களில் இங்கு வந்திருக்கிறேன். அந்த காலகட்டத்துடன் ஒப்பிடுகையில் பல மாற்றங்கள் ஏற்பட்டுள்ளன.  அவ்வாறு சில ஆண்டுகளுக்கு முன்னர் திருகோணமலை துறைமுகத்துக்கு விஜயம் செய்திருந்த போது அது உலகிலேயே சிறந்த துறைமுகம் எனத் தெரிவிக்கப்பட்டது.
+The work being carried out to bring about stability in Sri Lanka over the past two years after the economic crisis is truly unusual. Former Australia's Prime Minister and Finance Minister Scott Morrison said people should make the right decisions in the coming months to elect leadership to face such future challenges in the future.
+
+Speaking at a recent event in Colombo, he said this.
+
+In the past I have come here in some cases. There have been many changes compared to that period.When he visited the port of Trincomalee a few years ago, it was reported that it was the best port in the world.
+
+Another reason I came to Sri Lanka was to strengthen the unity with Sri Lankans. Sri Lankans are the best friends of Australia. There is amazing people's relationship between Sri Lanka and Australia. Even if it is real. We have a huge confidence in Sri Lanka.
 
 ...
 
 [Data](articles/010a9f52.json)
+
+[Extended Data](ext_articles/010a9f52.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 02:35:24**
+As of **2024-07-22 02:53:09**
 
 ## Newspaper Stats
 
-*Scraped **36,459** Articles*
+*Scraped **36,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 356
 newsfirstlk | 363
 islandlk | 2,075
 economynextcom | 2,173
-dailyftlk | 2,320
+dailyftlk | 2,321
 adalk | 3,289
 adaderanalk | 4,218
 tamilmirrorlk | 4,440
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,458 (100.0%) of 36,459 articles have been extended.
+36,459 (100.0%) of 36,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -198,19 +198,25 @@ Riley Roussev scored 105 runs in 52 balls and Kusal Mendis scored 72 runs.
 
 ---
 
-### மட்டக்களப்பில் மதபோதகர் கைது
+### Religious arrest in Batticaloa
 
 *2024-07-21 23:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-மதபோதகர்-கைது/175-340791) · `ta`
 
-சம்மாந்துறை நீதவான் நீதிமன்றத்தில் 7 பிடிவிறாந்து பிறப்பிக்கப்பட்ட தலைமறைவாகி இருந்த மதபோதகர் ஒருவரை ஞாயிற்றுக்கிழமை (21) மட்டக்களப்பில் வைத்து கைது செய்துள்ளதாக மட்டு தலைமையக பொலிஸார் தெரிவித்தனர்.
+In Batticaloa, a seven-year-old ritual practitioner was arrested on Sunday after being charged with sending money abroad while preaching in a Thevalayam. The arrest came after he failed to appear in court, where he faced seven charges.
 
-மட்டு. தலைமையக பொலிஸ் பிரிவிலுள்ள தேவலாயம் ஒன்றில் மத போதகராக செயற்பட்ட இவர்,  வெளிநாடு அனுப்புவதாகக்கூறி  பணமோசடி செய்தார் என்றக் குற்றச்சாட்டின் கீழ் சம்மாந்துறை நீதவான் நீதிமன்றில் வழக்கு தாக்குதல் செய்யப்பட்டிருந்தது.
+🟩
 
-இந்த வழக்கிற்கு குறித்த மதபோதகர் ஆஜராகாமல் தலைமறைவாகி வந்துள்ளார். அவருக்கு எதிராக நீதிமன்றத்தால் 7 பிடிவிறாந்துகள் பிறப்பிக்கப்பட்டிருந்தன. இந்நிலையில் மட்டக்களப்பு தலைமையக பொலிஸாருக்கு  கிடைத்த தகவலுக்கு அமைய தேவாலயத்துக்கு அருகில் வைத்து பொலிஸார், ஞாயிற்றுக்கிழமை (21) பிற்பகல் 2 மணியளவில் அவரை கைது செய்தனர்
+A seven -year -old ritual who had been granted a seven -year -old in the Samanthurai Magistrate's Court had been arrested in Batticaloa on Sunday (21), police headquarters police said.
+
+Bore. The case was attacked at the Samanthurai Magistrate's Court on charges of sending money abroad as a religious preacher in a Thevalayam in the Headquarters Police Division.
+
+The clergyman has not appeared in the case. There were 7 stubbornness issued by the court against him. According to information received by the Batticaloa Headquarters Police, the police arrested him near the church at around 2 pm on Sunday (21) at 2 pm.
 
 ◼️
 
 [Data](articles/12b63efc.json)
+
+[Extended Data](ext_articles/12b63efc.ext.json)
 
 ---
 
@@ -335,6 +341,20 @@ Expresses shock over disrespect and violation of women’s rights still happenin
 [Data](articles/a858539b.json)
 
 [Extended Data](ext_articles/a858539b.ext.json)
+
+---
+
+### Child’s guide to debt and debt restructuring: Part III
+
+*2024-07-21 23:22:44* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-debt-and-debt-restructuring-Part-III/4-764544) · `en`
+
+In the last four years from 2020 to 2023, their consumption has been so high that the level of dissaving happened to be about 6% of GDP. Therefore, the Government has been an eater of private sector savings
+
+The problem for Sri Lanka was that the money so borrowed was not reinvested in projects that would generate a sufficient foreign exchange earning to service this debt. In April 2022, the country did not have enough foreign exchange balances to service the debt forcing it to suspend the servicing of loans received from individual countries, called bilateral lenders, and from commercial lenders, mainly those who had invested in the international sovereign bonds or ISBs issued by the Government
+
+...
+
+[Data](articles/92aa026d.json)
 
 ---
 
@@ -2267,27 +2287,5 @@ Meanwhile, two other suspects have been arrested in connection with the crime an
 [Data](articles/1e0d5067.json)
 
 [Extended Data](ext_articles/1e0d5067.ext.json)
-
----
-
-### The shooter reveals before shooting at Trump
-
-*2024-07-21 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199043) · `si`
-
-A drone helped a 20-year-old shooter find the perfect spot to target former President Donald Trump during a rally in Pennsylvania on July 13, resulting in the death of a 50-year-old man.
-
-🟩
-
-Investigators say that a drone has been used to identify the best location to shoot at the US presidential candidate, former President Donald Trump.
-
-The 20-year-old youth was shot at Trump, while addressing a rally in Pennsylvania on July 13.
-
-It was Trump's right eating holes and a 50-year-old man who was shot dead in his rally.
-
-◼️
-
-[Data](articles/fdad0e84.json)
-
-[Extended Data](ext_articles/fdad0e84.ext.json)
 
 ---

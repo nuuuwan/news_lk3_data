@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 09:20:13**
+As of **2024-07-21 09:35:41**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,091
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,325 (100.0%) of 36,328 articles have been extended.
+36,328 (100.0%) of 36,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
 
-### පළාත් පාලන නාමයෝජනා ගැන ජනපති ගන්න යන තීරණය
+### President to make local government nomination
 
 *2024-07-21 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199038) · `si`
 
-පළාත් පාලන ඡන්ද විමසීම සඳහා ඉදිරිපත් වී සිටින අපේක්ෂකයින්ගේ නාමයෝජනා අවලංගු කිරීම කෙරෙහි අවධානය යොමුව ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe addresses concerns over candidate cancellations for Local Government Elections, stating elections cannot be delayed beyond a year. He emphasizes the importance of national unity and economic growth, highlighting the need for a clear vision akin to successful nations like Singapore and Japan. Wickremesinghe discusses the challenges of unemployment and poverty, pledging action through economic programs and women's empowerment initiatives. He supports MP Sumanthiran's resolution for provincial council reforms and encourages the JVP's reconciliation efforts, expressing confidence in their success.
 
-නාමයෝජනා භාර දී වසරක් ගතවීමෙන් පසු නැවත ඡන්දය විමසීම පැවැත්විය නොහැකි බවත් නව අපේක්ෂකයින්ට ද අවස්ථාව ලබාදීමේ අරමුණින් එම පියවර ගැනීමට නියමිත බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-කෙසේවෙතත් ඒ සම්බන්ධයෙන් ඉදිරියේ දී නීතිපතිවරයා සමග සාකච්ඡා කර තීරණයකට එළැඹෙන බව ද පළාත් පාලන ආයතනවල හිටපු ප්‍රධානීන් ගේ හමුවට එක්වෙමිනි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+President Ranil Wickremesinghe says that attention has been paid to the cancellation of candidates who are contesting for the Local Government Elections.
 
-ආර්ථිකය ගොඩනැඟීම පසෙකලා නියමිත පරිදි පළාත් පාලන ඡන්ද විමසීම සඳහා මුදල් වැයකළේ නම් අද වනවිට මේ රට ඛේදනීය තත්ත්වයකට පත්වීම වැළැක්විය නොහැකිව තිබූ බව ජනාධිපතිවරයා පැවසීය.
+The President also said that the election cannot be held after a year in nomination after a year.
+
+However, President Ranil Wickremesinghe added that the decision to discuss with the Attorney General at the future.
+
+The President said that if the country was finished in order to build the economy, the country was not able to prevent tragedy today.
 
 ...
 
 [Data](articles/eed9b795.json)
+
+[Extended Data](ext_articles/eed9b795.ext.json)
 
 ---
 
@@ -146,21 +152,27 @@ The spokesperson of the Trade and Commerce said that the sale of animals is also
 
 ---
 
-### මොලපු ඔයෙන් නිමවූ පෝදා විනෝදය
+### Molasses are the finished to finish
 
 *2024-07-21 07:29:34* · [`adalk`](https://www.ada.lk/breaking_news/මොලපු-ඔයෙන්-නිමවූ-පෝදා-විනෝදය/11-410878) · `si`
 
-හික්කඩුව, තොටගමුව පාලම අසල මුහුදට ගලා බසින මොලපු ඔයේ ඊයේ (20)  සවස දිය නාමින් සිටියදී දියවැලකට හසුව ගසාගෙන ගිය  දරුවන් තිදෙනෙකුගෙන් එක් දරුවෙකු දියේ ගිලී තවමත් අතුරුදන් වී ඇතැයි මීටියාගොඩ පොලිසිය කියයි.
+A 16-year-old boy drowned near the Thargamuwa Bridge while playing in the sea. Nine children from Elpitiya were affected during the Esala Perahera festival, with two rescued. The missing child remains unaccounted for as of today.
 
-මෙසේ  අතුරුදහන් ව ඇත්තේ  වයස අවුරුදු 16 ක් වූ ඇල්පිටිය කරුනාතිලක පෙදෙසේ  පදිංචි ශම්මික සුදත් කුමාර නැමති  දරුවෙක් බව පොලීසිය කියයි.
+🟩
 
-ඇසළ පොහෝදා ඇල්පිටිය ප්‍රදේශයේ සිට විනෝදයට පැමිණ ඇති  දරුවන් 09 දෙනෙකු  ඊයේ සවස මොලපු ඔයේ දිය නා ඇති අතර එයින් දියවැලට හසුවූ දරුවන් තිදෙනාගෙන් දරුවන් දෙදෙනෙකු ජීවිතාරක්ෂක නිලධාරීන් ,ප්‍රදේශවාසීන් හා පොලීසිය එක්ව නිරුපද්‍රිතව බේරාගත් බව පොලීසිය පැවසීය.
+One child drowned in a diabetry while he was blowing into the sea near the Thargamuwa Bridge, Meetiyagoda Police said.
 
-අතුරුදන් දරුවා අද (21) උදෑසන වන විටත් සොයාගැනීමට නොහැකි බවත් ඔහු සොයා තවදුරටත්  මෙහෙයුම් ක්‍රියාත්මක  කර ඇතැයි   පොලීසිය කියයි.
+According to police, Shamika Sudath Kumara, a resident of Elpitiya, Elpitiya, was 16 years old.
+
+Nine children who have come to the Esala Poyah have been diagnosed from Elpitiya, and two children have been rescued by the hospital, residents and residents of the area.
+
+Police say that the missing child cannot be found today (21), police said.
 
 ◼️
 
 [Data](articles/f30a74ae.json)
+
+[Extended Data](ext_articles/f30a74ae.ext.json)
 
 ---
 
@@ -198,17 +210,23 @@ A motorbike has been confronted with a motorcycle to shift the road to Payagala 
 
 ---
 
-### ’ஜனாதிபதித் தேர்தலை பிற்போடுவதே சிறந்தது’
+### It is best to regulate the presidential election
 
 *2024-07-21 06:10:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-பிற்போடுவதே-சிறந்தது/175-340736) · `ta`
 
-ஜனாதிபதித் தேர்தலைப் பிற்போடுவது சிறந்த விடயமாகும் என்று தமிழ் மக்கள் தேசியக் கூட்டணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான சி.வி.விக்னேஸ்வரன் மீண்டும் தெரிவித்தார்.
+CV Wigneswaran advocates postponing the presidential election, arguing its outcome won't impact Sri Lanka's economic stability.
 
-ஜனாதிபதித் தேர்தலைப் பிற்போடுவதால் நாட்டின் பொருளாதார ஸ்திரத்தன்மைக்கு எவ்வித பாதிப்பும் ஏற்படாது என்றும் அவர் சுட்டிக்காட்டினார். (a)
+🟩
+
+CV Wigneswaran, the leader of the Tamil People's National Alliance and Member of Parliament, has repeatedly said that it is a good thing to postpone the presidential election.
+
+He pointed out that the presidential election would not be affected by the economic stability of the country. (A)
 
 ◼️
 
 [Data](articles/b114bf9e.json)
+
+[Extended Data](ext_articles/b114bf9e.ext.json)
 
 ---
 

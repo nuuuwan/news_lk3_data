@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 11:35:48**
+As of **2024-07-21 11:55:46**
 
 ## Newspaper Stats
 
-*Scraped **36,348** Articles*
+*Scraped **36,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,84 @@ colombotelegraphcom | 338
 bbccomsinhala | 355
 newsfirstlk | 363
 islandlk | 2,073
-economynextcom | 2,169
+economynextcom | 2,172
 dailyftlk | 2,314
 adalk | 3,276
-adaderanalk | 4,203
+adaderanalk | 4,204
 tamilmirrorlk | 4,427
 dailymirrorlk | 4,733
-virakesarilk | 5,681
-adaderanasinhalalk | 6,097
+virakesarilk | 5,682
+adaderanasinhalalk | 6,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,344 (100.0%) of 36,348 articles have been extended.
+36,348 (100.0%) of 36,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-21 (Sunday)
+
+### බොරු කියා නිවසින් ගිය සස්මික ට අත්වූ ඉරණම
+
+*2024-07-21 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199045) · `si`
+
+කරන්දෙනිය මහා විද්‍යාලයේ ඉගෙනුම ලබන සිසුවෙක් හික්කඩුව ගඟේ දියනැමට ගොස් දියේ ගිලි මිය ගොස් ඇති බව හික්කඩුව පොලීසිය පවසයි.
+
+මියගොස් ඇත්තේ සස්මික සුදම් නම් ඇල්පිටිය ප්‍රදේශයේ පදිංචිව සිටි 16 හැවිරිදි සිසුවෙකි.
+
+දන්සැල්වලට යන බව දෙමව්පියන්ට පවසා ඊයේ (20) සවස මිතුරන් සමඟ නිවසින් පිටව ගොස් ඇති බව ඔහුගේ පියා පැවසීය.
+
+9 දෙනෙකු දිය නෑමට හික්කඩුව ගඟට ගොස් ඇති අතර සවස 5.30ට පමණ 5 දෙනෙකු දියේ ගිලී තිබුණි.
+
+සස්මික දියේ ගිලී අතුරුදන් වීම හේතුවෙන් පොලිස් ජීවිතාරක්ෂකයන් සහ ප්‍රදේශවාසින් එක්ව ඊයේ රාත්‍රීවන තෙක් සෝදිසි කිරීමි කර තිබුණි.
+
+පොලීසිය පැවසුවේ අද (21) උදෑසන හික්කඩුව දුම්රිය පාලම අසල හික්කඩුව ග⁣ඟේ තිබිය දී සිසුවාගේ සිරුර හමුවූ බවයි.
+
+◼️
+
+[Data](articles/e0004983.json)
+
+---
+
+### Bangladesh extends curfew ahead of court hearing on controversial job quotas
+
+*2024-07-21 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100662/bangladesh-extends-curfew-ahead-of-court-hearing-on-controversial-job-quotas) · `en`
+
+Bangladesh extended a curfew on Sunday to control violent student-led protests that have killed at least 114 people, as authorities braced for a Supreme Court hearing later in the day on government job quotas that sparked the anger.
+
+Soldiers have been on patrol on the streets of capital Dhaka, the centre of the demonstrations that spiralled into clashes between protesters and security forces.
+
+Internet and text message services in Bangladesh have been suspended since Thursday, cutting the nation off as police cracked down on protesters who defied a ban on public gatherings.
+
+A curfew ordered late on Friday has been extended to 3 p.m. (0900 GMT) on Sunday, until after the Supreme Court hearing, and will continue for an “uncertain time” following a two-hour break for people to gather supplies, local media reported.
+
+...
+
+[Data](articles/a80f8576.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் : செப்டம்பர் 21இல் வாக்களிப்பு?
+
+*2024-07-21 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/188988) · `ta`
+
+ஜனாதிபதி தேர்தல் வாக்களிப்பு  செப்டம்பர் 21ம் திகதி நடைபெறலாம் என சண்டே டைம்ஸ் தெரிவித்துள்ளது.
+
+ஜனாதிபதி தேர்தலிற்கான வேட்பு மனுக்கள் ஆகஸ்ட்மாத நடுப்பகுதியில் ஏற்றுக்கொள்ளப்படும் என தெரிவித்துள்ள சண்டேடைம்ஸ் உறுதியான திகதி இந்த வாரம் வெளியாகும் என தேர்தல் ஆணையக வட்டாரங்கள் தெரிவித்துள்ளன என செய்தி வெளியிட்டுள்ளது.
+
+முன்னர் ஒக்டோபர் 5ம் திகதிமுதல் 12ம் திகதிக்குள் ஜனாதிபதி தேர்தல் நடைபெறலாம் என தெரிவிக்கப்பட்டுள்ள போதிலும் தேர்தல்கள் செப்டம்பர் மாதம் நடைபெறலாம் என தெரியவருவதாக சண்டே டைம்ஸ் தெரிவித்துள்ளது.
+
+தேர்தல் திகதி அறிவிக்கப்பட்டு 16 முதல் 21நாட்களிற்குள் வேட்புமனுக்கள் பெறப்படவேண்டும்,28 முதல் 42 நாட்களிற்குள்தேர்தல் நடைபெறவேண்டும் என இதன் மூலம் தேர்தலை நடத்துவதற்கு தேர்தல் ஆணையகத்திற்கு 63 நாட்களை வழங்க முடியும் என சண்டே டைம்ஸ் தெரிவித்துள்ளது.
+
+இதேவேளை அரசியல் கட்சிகள் முன்கூட்டியே தேர்தலைநடத்துமாறு வேண்டுகோள் விடுக்ககூடாது இது தேர்தல் நடவடிக்கைகளில் தலையிடும் செயலாக பார்க்கப்படலாம் என தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்கதெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/57f56e39.json)
+
+---
 
 ### Sri Lanka to witness rare lunar occultation of Saturn next week
 
@@ -47,6 +107,8 @@ In an occultation, one celestial body passes in front of another, blocking its v
 ...
 
 [Data](articles/6fbed152.json)
+
+[Extended Data](ext_articles/6fbed152.ext.json)
 
 ---
 
@@ -66,29 +128,37 @@ Furthermore, the Finance State Minister expressed that before emerging from the 
 
 [Data](articles/abe81424.json)
 
+[Extended Data](ext_articles/abe81424.ext.json)
+
 ---
 
-### ඝාතනයකට උදව්කළ සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested for assassination
 
 *2024-07-21 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199044) · `si`
 
-කළුතර, කටුකුරුන්ද ප්‍රදේශයේදී වෙඩිතබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+A suspect linked to shootings in Kalutara and Katukurunda was arrested by the Southern Province Crime Division. The victim, aged 32 from Avissawella, Maniagama, was killed by two unknown individuals on a motorcycle. Two more suspects were detained as part of the ongoing investigation.
 
-බස්නාහිර පළාත් දකුණු අපරාධ කොට්ඨාසය විසින් ඊයේ (20) එම සැකකරු අත්අඩංගුවට ගෙන තිබුණේ අතුරුගිරිය නගරයේදීය.
+🟩
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, මානියම්ගම, අවිස්සාවෙල්ල ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකි.
+A suspect has been arrested in connection with a shot of a shot in Kalutara and Katukurunda.
 
-මෙම සැකකරු මෙලස අත්අඩංගුවට ගෙන අත්තේ, අදාළ ඝාතනය සිදුකිරීම සඳහා කුමන්ත්‍රණයක කිරීම හා ආධාර අනුබලදීම යන කරුණු සම්බන්ධයෙන් බව පොලීසිය පවසයි.
+The suspect was arrested by the Southern Province Southern Crime Division yesterday (20) in Athurugiriya.
 
-සැකකරු කළුතර දකුණ පොලිස් ස්ථානය වෙත ඉරිපත් කර ඇති බව පොලීසිය පවසයි.
+The victim is a 32 year old resident of Avissawella, Maniagama.
 
-පසුගිය මැයි මස 20 වනදා රාත්‍රී කාලයේදී කළුතර, කටුකුරුන්ද ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් නිවසක සිටි පුද්ගලයෙකු වෙඩි තබා ඝාතනය කර පළාගොස් තිබුණි.
+The suspect was arrested, the police said.
 
-මේ අතර මෙම අපරාධය සම්බන්ධයෙන් තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර කළුතර දකුණ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The suspect has been tipped at the Kalutara South Police Station, police said.
+
+Two unidentified persons who came in a motorbike have been shot dead by two unidentified persons from the Katukurunda, Kalutara on the night last night.
+
+Meanwhile, two other suspects have been arrested in connection with the crime and Kalutara South Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1e0d5067.json)
+
+[Extended Data](ext_articles/1e0d5067.ext.json)
 
 ---
 
@@ -314,6 +384,26 @@ Fifty-year-old Trump supporter has also served as a US military soldier.
 
 ---
 
+### Sri Lanka has about 12,000 disconnected power customers a day: Minister
+
+*2024-07-21 10:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-has-about-12000-disconnected-power-customers-a-day-minister-173091/) · `en`
+
+ECONOMYNEXT – Sri Lanka has on average about 12,000 electricity customers who are without electricity after being disconnected for not paying bills, and not a million or hundreds of thousands as claimed, Power Minister Kanchana Wijesekera said.
+
+“There was a picture painted that one million electricity customers were in the dark,” Minister Wijesekera said.
+
+“But when a connection is disconnected a person will get the connection back in a day or two. Sometimes in an hour two.There has never been a case where hundreds of thousands of houses (laksha ganan) being in the dark.
+
+“I checked recently how many customers were in the dark after being disconnected. On average it is less than 12,000 daily.
+
+The CEB has to collect money to pay for generation and keep the utility going he said.
+
+...
+
+[Data](articles/412e3f79.json)
+
+---
+
 ### Showers expected in parts of the island
 
 *2024-07-21 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100657/showers-expected-in-parts-of-the-island) · `en`
@@ -438,6 +528,26 @@ The victim was a group of residents of the area in Araywa, a pilgrimage to a pil
 
 ---
 
+### Vietnam mourns Communist Party chief Nguyen Phu Trong
+
+*2024-07-21 08:51:00* · [`economynextcom`](https://economynext.com/vietnam-mourns-communist-party-chief-nguyen-phu-trong-173087/) · `en`
+
+ECONOMYNEXT – Vietnam has declared three days mourning and conferred the highest honor of the nation on late General Secretary of the Communist Party, Nguyen Phu Trong who passed away at the age of 80.
+
+The Party leader “breathed his last at 1:38pm on July 19” at the Central Military Hospital 108 in Hanoi, “despite wholehearted treatment and care from the Party, State, leading medical experts and his family, due to old age and severe illness,” a government statement said.
+
+A day earlier, the Politburo awarded a Gold Star Order, the highest honor of the state given to “individuals with great and exceptionally outstanding contributions to the revolutionary cause of the Party and the nation.”
+
+The post of General Secretary of the Party is widely considered to the be most powerful in the country.
+
+Recently appointed President To Lam was appointed to oversee the work of the General Secretary.
+
+...
+
+[Data](articles/3ef04641.json)
+
+---
+
 ### Israel attacks another country
 
 *2024-07-21 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199036) · `si`
@@ -462,21 +572,29 @@ Accordingly, Israel has launched airstrikes after the Hamas attack on October 7.
 
 ---
 
-### බංකොළොත් ව්‍යාපාර සම්බන්ධව කටයුතු කිරීමට නව පනතක්
+### New bill to deal with bankruptcy
 
 *2024-07-21 08:13:49* · [`adalk`](https://www.ada.lk/breaking_news/බංකොළොත්-ව්‍යාපාර-සම්බන්ධව-කටයුතු-කිරීමට-නව-පනතක්/11-410881) · `si`
 
-තාවකාලිකව අත්හිටුවා තිබෙන පරාටේ නීතිය දිගුකලක් පවත්වාගෙන යාමට නොහැකි බවත්, එබැවින් බංකොළොත් ව්‍යාපාර සම්බන්ධව කටයුතු කිරීමට නව පනත් කෙටුම්පතක් හඳුන්වාදීමට කටයුතු කරනු ලබන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced a new bill aimed at addressing bankruptcy, emphasizing support for micro, small, and medium-sized enterprises (MSMEs). He introduced the Enterprise Sri Lanka institution to assist MSMEs and discussed the bill with the Federation of Ceylon Micro, Small, and Medium Scale Entrepreneurs. The President also mentioned plans to meet with an International Monetary Fund delegation to discuss financial aid for MSMEs.
 
-යෝජිත නව පනත් කෙටුම්පත මඟින් ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් ලබාගෙන ඇති ණය ප්‍රතිව්‍යුහගතකරණය පිළිබඳව ද විධිවිධාන අන්තර්ගත වන බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් වෙත අවශ්‍ය ආධාර සහ උපකාර ලබාදීම සඳහා “එන්ටර්ප්‍රයිස් ශ්‍රී ලංකා” නමින් නව ආයතනයක් බිහිකරනු ලබන බව සඳහන් කළ ජනාධිපතිවරයා මෙරට ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් දිරිගැන්වීම වෙනුවෙන් රජය කැපවී සිටින බව ද පැවසීය.
+President Ranil Wickremesinghe said that the temporarily suspended the temporarily suspended is not possible to maintain a new bill to act in bankruptcy.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ ලංකා ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින්ගේ සම්මේලනය (Ceylon Federation of MSME) විසින් කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී  සංවිධානය කර තිබූ “ශ්‍රී ලංකාවේ ක්ෂුද්‍ර, කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායක ජවයෙන් ආර්ථිකය පණගන්වන තීරණාත්මක ඇරඹුම” යන වැඩසටහනට එක්වෙමිනි.
+The proposed New Bill also includes the restructuring of debt obtained micro, small and medium scale entrepreneurs.
+
+The President has said that the President has made a new institution called Enterprise Sri Lanka to provide assistance and assistance to providing necessary assistance and assistance to providing necessary assistance and assistance to providing necessary assistance and assistance to microfinance and medium scale entrepreneurs.
+
+President Ranil Wickremesinghe has expressed these views by the Ceylon Micro-Small and Medium Small Entrepreneurship in the Bandaranaike Memorial International Conference Hall.Addressing the program.
+
+The President said that a copy of the new Act is already drafted to the Federation of Ceylon Micro, Small and Medium Scale Entrepreneurs.
 
 ...
 
 [Data](articles/a4297f1b.json)
+
+[Extended Data](ext_articles/a4297f1b.ext.json)
 
 ---
 
@@ -1940,6 +2058,24 @@ Following the trial of the two men, the Jaffna Magistrate's Court has ordered th
 
 ### Sri Lanka banking system foreign assets positive in May, collects $6.7bn since rate hike: analysis
 
+*2024-07-20 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-foreign-assets-positive-in-may-collects-6-7bn-since-rate-hike-analysis-173011/) · `en`
+
+ECONOMYNEXT – Net foreign assets of Sri Lanka’s banking system turned positive in May 2024, official data showed, amid a steady reduction in the negative reserve position of the central bank helped by the current interest rate structure and domestic credit.
+
+In May the combined net foreign assets position of commercial banks and the central bank was about 311 million US dollars by May, up from a negative 178 million US dollars a month earlier, central bank data show.
+
+It was made up of positive 1.9 billion US dollar foreign assets position in overseas banking units and a negative 811-million-dollar position which gave a positive NFA position of about 1.13 billion US dollars for banks.
+
+The central bank still had a negative position of about 821 million dollars by May, down from a negative 4.5 billion US dollars at the peak of the last currency crises triggered by deploying liquidity tools (printing money) to cut rates.
+
+...
+
+[Data](articles/150f6623.json)
+
+---
+
+### Sri Lanka banking system foreign assets positive in May, collects $6.7bn since rate hike: analysis
+
 *2024-07-20 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-foreign-assets-turn-positive-in-may-analysis-173011/) · `en`
 
 ECONOMYNEXT – Net foreign assets of Sri Lanka’s banking system turned positive in May 2024, official data showed, amid a steady reduction in the negative reserve position of the central bank helped by the current interest rate structure and domestic credit.
@@ -2219,143 +2355,5 @@ Following the trial of the two men, the Jaffna Magistrate's Court has ordered th
 [Data](articles/aace322b.json)
 
 [Extended Data](ext_articles/aace322b.ext.json)
-
----
-
-### Unidentified  body found floating in Diyawanna Lake
-
-*2024-07-20 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100646/unidentified-body-found-floating-in-diyawanna-lake) · `en`
-
-An unidentified body has been found floating in the Diyawanna Lake this morning (20).
-
-The body was spotted by a passerby near the jogging track on the Japan-Sri Lanka Friendship Road, who then informed Talangama Police regarding the matter.
-
-The identity of the deceased is yet to be confirmed while he is believed to be around 60 to 65 years old, the police said.
-
-Talangama Police together with the Mirihana SOCO Unit are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/1592701f.json)
-
-[Extended Data](ext_articles/1592701f.ext.json)
-
----
-
-### Authorities on alert about Sri Lankan students in Bangladesh amid deadly protests
-
-*2024-07-20 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/100645/authorities-on-alert-about-sri-lankan-students-in-bangladesh-amid-deadly-protests) · `en`
-
-Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya says that the Bangladesh High Commission in India is on alert about the Sri Lankan students in Bangladesh, amid violent protests.
-
-Meanwhile, around 300 Indian students have returned home from Bangladesh after the student-youth agitation against the announcement of reservation in government jobs gained strength.
-
-Authorities in Bangladesh have imposed a nationwide curfew after this week’s rioting in the capital Dhaka left around 104 dead and nearly 2500 people seriously injured. Police fire was the cause of more than half of the deaths reported so far this week, as per reports.
-
-On Friday, Bangladeshi student protesters stormed a prison and freed hundreds of inmates as police struggled to quell unrest, with huge rallies in the capital Dhaka despite a police ban on public gatherings.
-
-The clashes have also not been confined to Dhaka, with 26 districts reporting incidents.
-
-...
-
-[Data](articles/8fdcb2a9.json)
-
-[Extended Data](ext_articles/8fdcb2a9.ext.json)
-
----
-
-### Jewelry money theft at the hospital
-
-*2024-07-20 12:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூளாய்-வைத்தியசாலையில்-நகைகள்-பணம்-திருட்டு/71-340711) · `ta`
-
-In a security breach at Jaffna-Moon Hospital, thieves stole jewelry and cash worth 55,500 rupees from nine locked boxes belonging to staff. The incident occurred after the staff had secured their valuables in the vault before starting work. Investigations are underway following a complaint filed at the Vaddukoddai police station.
-
-🟩
-
-Jewelry and money of patient care staff at the Jaffna - Moon Hospital has been robbed.
-
-There are 09 boxes in the room to keep their belongings safe at the time of duty at the hospital.
-
-As usual, yesterday's employees locked their belongings into the vault and went to their duties.
-
-When the duty was over, the boxes were broken and the employees were looted with two -quarters of jewelery and 55 thousand 500 rupees.
-
-Police are conducting investigations as a complaint has been lodged at the Vaddukoddai police station by the victims.R
-
-◼️
-
-[Data](articles/4f4a626b.json)
-
-[Extended Data](ext_articles/4f4a626b.ext.json)
-
----
-
-### Bangladesh Violence: 105 killed;Curfew
-
-*2024-07-20 12:11:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேச-வன்முறை-105-பேர்-பலி-ஊரடங்கு-அமல்/50-340710) · `ta`
-
-In Bangladesh, student protests over job quota reforms escalated, leading to 105 deaths and over 1500 injuries. A nationwide curfew was imposed, along with military deployment, as authorities used tear gas and rubber bullets to quell the unrest. All gatherings were banned in Dhaka, marking a state of emergency.
-
-🟩
-
-In Bangladesh, 105 people have been killed and more than 1,500 injured in the violence of students on the reservation reform in government employment.
-
-The country was issued a nationwide order on Friday after the struggle intensified. The government has also ordered the army to maintain peace in the country.
-
-Security forces and police used tear gas and rubber bomb to control the violence caused by the struggle.
-
-Banned for all meetings on Friday in Dhaka. In this backdrop, curfew has been issued. Remble
-
-◼️
-
-[Data](articles/1fbc1dc2.json)
-
-[Extended Data](ext_articles/1fbc1dc2.ext.json)
-
----
-
-### Fire in the boat that was traveling in the Haiti Sea;40 migrants killed
-
-*2024-07-20 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/188917) · `ta`
-
-A tragic fire on a migrant boat in the Haiti Sea resulted in the deaths of at least 40 people. The UN International Organization for Migration (IOM) reports 41 survivors rescued by the Haitian Coast Guard. The cause remains unclear, though it may involve fuel containers. Injured individuals are receiving treatment, with 11 hospitalized.
-
-🟩
-
-At least 40 immigrants have been killed in a boat that traveled in Haidi's northern seas, the United Nations International Organization for Migration.
-
-The International Organization for Migration has reported that 41 more people aboard the boat have been safely rescued by the Heidi Coast Guard.
-
-The exact cause of the fire is not yet clear, but a local official told a foreign news service that the boatmen were burnt in the refueling containers when they prayed that they had to travel safely.
-
-Those who were injured in the fire were being treated by the International Organization for the Diaspora and 11 people have been taken to the nearest hospital for further treatment, the organization said.
-
-◼️
-
-[Data](articles/92aecba5.json)
-
-[Extended Data](ext_articles/92aecba5.ext.json)
-
----
-
-### University non-academic staff will report to duty from Monday – UGC Chairman
-
-*2024-07-20 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100644/university-non-academic-staff-will-report-to-duty-from-monday-ugc-chairman) · `en`
-
-The Chairman of the University Grants Commission (UGC) Senior Professor Sampath Amaratunge says that the Treasury has allocated Rs. 4.2 billion to pay the arrears of university non-academic staff salaries.
-
-Addressing an event held at the Ruhuna University, the UGC Chairman assured that the non-academic staff who have been on strike for 75 days will report back for duty from next Monday.
-
-Speaking further, the UGC Chairman said: “The non-academic staff who have been on strike for 75 days will report back for duty from next Monday. The President intervened to provide a solution to their salary disparity. The President should be thanked for that.
-
-“I believe that if we can take our country to a state where there are no strikes. That is the development of the country”, he added.
-
-The event, which was held on Friday (19), was also attended by President Ranil Wickremesinghe and Southern Province Governor Lakshman Yapa Abeywardena.
-
-◼️
-
-[Data](articles/87f11adb.json)
-
-[Extended Data](ext_articles/87f11adb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-21 12:52:47**
+As of **2024-07-21 13:05:25**
 
 ## Newspaper Stats
 
-*Scraped **36,367** Articles*
+*Scraped **36,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,073
 economynextcom | 2,172
 dailyftlk | 2,314
-adalk | 3,276
+adalk | 3,277
 adaderanalk | 4,206
 tamilmirrorlk | 4,429
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,099
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,366 (100.0%) of 36,367 articles have been extended.
+36,367 (100.0%) of 36,368 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ However, it is reported that a discussion pertaining to the matter is scheduled 
 ◼️
 
 [Data](articles/227478fe.json)
+
+[Extended Data](ext_articles/227478fe.ext.json)
 
 ---
 
@@ -317,6 +319,24 @@ A curfew ordered late on Friday has been extended to 3 p.m. (0900 GMT) on Sunday
 [Data](articles/a80f8576.json)
 
 [Extended Data](ext_articles/a80f8576.ext.json)
+
+---
+
+### හිටපු අමාත්‍ය ඔසි අබේගුණසේකරගේ පුතා අල්ලයි
+
+*2024-07-21 11:20:29* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍ය-ඔසි-අබේගුණසේකරගේ-පුතා-අල්ලයි/11-410887) · `si`
+
+දේශීය ආදායම් දෙපාර්තමේන්තුව මගින් පනවා තිබූ නඩු කටයුත්තකට අදාළව කොළඹ මහේස්ත්‍රාත් අධිකරණය මගින් පනවා තිබූ ගුවන් ගමන් තහනමක් යටතේ ශ්‍රී ලංකාවට 07/21 දින අලුයම පැමිණෙමින් සිටි අසංක අබේගුණසේකර නැමැති පුද්ගලයා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ ආගමන විගමන නිලධාරීන් විසින් අත් අඩංගුවට ගෙන කටුනායක ගුවන් තොටුපොළ පොලිසිය වෙත භාර දී තිබේ .
+
+ගෝනවල , කොහොල් විල පාරේ පදිංචි  අසංක අබේගුණසේකර මහතා  හිටපු ආරක්ෂක අමාත්‍යාංශයේ අධ්‍යක්ෂ ජනරාල්වරයෙකු වන අතර හිටපු අමාත්‍ය ඔසී අබේගුණසේකර මහතාගේ පුත්‍රයෙකු බව ද සදහන් වේ .
+
+දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් කොළඹ මහේස්ත්‍රාත් අධිකරණයේ පනවා ඇති 81491/22 දරන නඩු කටයුත්තට අදාළව මෙම ගුවන් ගමන් තහනම පනවා තිබූ බව කටුනායක ගුවන් තොටුපොළ පොලිසියේ ප්‍රකාශකවරයෙකු පැවසීය .
+
+07/21 දින අලුයම 03.19 ට දෝහා සිට කටාර් ගුවන් සේවයේ කිව්.ආර්.- 658 දරන ගුවන් යානයෙන් මොහු කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙමින් සිටියදී ආගමන විගමන නිලධාරීන් විසින් මුළින්ම අත් අඩංගුවට ගෙන තිබේ .
+
+...
+
+[Data](articles/62bff2cc.json)
 
 ---
 
@@ -2339,25 +2359,5 @@ Following the trial of the two men, the Jaffna Magistrate's Court has ordered th
 [Data](articles/fa18079d.json)
 
 [Extended Data](ext_articles/fa18079d.ext.json)
-
----
-
-### Sri Lanka banking system foreign assets positive in May, collects $6.7bn since rate hike: analysis
-
-*2024-07-20 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-foreign-assets-positive-in-may-collects-6-7bn-since-rate-hike-analysis-173011/) · `en`
-
-ECONOMYNEXT – Net foreign assets of Sri Lanka’s banking system turned positive in May 2024, official data showed, amid a steady reduction in the negative reserve position of the central bank helped by the current interest rate structure and domestic credit.
-
-In May the combined net foreign assets position of commercial banks and the central bank was about 311 million US dollars by May, up from a negative 178 million US dollars a month earlier, central bank data show.
-
-It was made up of positive 1.9 billion US dollar foreign assets position in overseas banking units and a negative 811-million-dollar position which gave a positive NFA position of about 1.13 billion US dollars for banks.
-
-The central bank still had a negative position of about 821 million dollars by May, down from a negative 4.5 billion US dollars at the peak of the last currency crises triggered by deploying liquidity tools (printing money) to cut rates.
-
-...
-
-[Data](articles/150f6623.json)
-
-[Extended Data](ext_articles/150f6623.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 02:20:21**
+As of **2024-07-22 02:35:24**
 
 ## Newspaper Stats
 
-*Scraped **36,458** Articles*
+*Scraped **36,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,173
 dailyftlk | 2,320
 adalk | 3,289
 adaderanalk | 4,218
-tamilmirrorlk | 4,439
+tamilmirrorlk | 4,440
 dailymirrorlk | 4,733
 virakesarilk | 5,713
 adaderanasinhalalk | 6,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,458 (100.0%) of 36,458 articles have been extended.
+36,458 (100.0%) of 36,459 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -195,6 +195,22 @@ Riley Roussev scored 105 runs in 52 balls and Kusal Mendis scored 72 runs.
 [Data](articles/153efa7d.json)
 
 [Extended Data](ext_articles/153efa7d.ext.json)
+
+---
+
+### மட்டக்களப்பில் மதபோதகர் கைது
+
+*2024-07-21 23:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-மதபோதகர்-கைது/175-340791) · `ta`
+
+சம்மாந்துறை நீதவான் நீதிமன்றத்தில் 7 பிடிவிறாந்து பிறப்பிக்கப்பட்ட தலைமறைவாகி இருந்த மதபோதகர் ஒருவரை ஞாயிற்றுக்கிழமை (21) மட்டக்களப்பில் வைத்து கைது செய்துள்ளதாக மட்டு தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+மட்டு. தலைமையக பொலிஸ் பிரிவிலுள்ள தேவலாயம் ஒன்றில் மத போதகராக செயற்பட்ட இவர்,  வெளிநாடு அனுப்புவதாகக்கூறி  பணமோசடி செய்தார் என்றக் குற்றச்சாட்டின் கீழ் சம்மாந்துறை நீதவான் நீதிமன்றில் வழக்கு தாக்குதல் செய்யப்பட்டிருந்தது.
+
+இந்த வழக்கிற்கு குறித்த மதபோதகர் ஆஜராகாமல் தலைமறைவாகி வந்துள்ளார். அவருக்கு எதிராக நீதிமன்றத்தால் 7 பிடிவிறாந்துகள் பிறப்பிக்கப்பட்டிருந்தன. இந்நிலையில் மட்டக்களப்பு தலைமையக பொலிஸாருக்கு  கிடைத்த தகவலுக்கு அமைய தேவாலயத்துக்கு அருகில் வைத்து பொலிஸார், ஞாயிற்றுக்கிழமை (21) பிற்பகல் 2 மணியளவில் அவரை கைது செய்தனர்
+
+◼️
+
+[Data](articles/12b63efc.json)
 
 ---
 
@@ -2273,33 +2289,5 @@ It was Trump's right eating holes and a 50-year-old man who was shot dead in his
 [Data](articles/fdad0e84.json)
 
 [Extended Data](ext_articles/fdad0e84.ext.json)
-
----
-
-### It is good to postpone the presidential election
-
-*2024-07-21 10:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதி-தேர்தலை-பிற்போடுவது-நல்லது/71-340744) · `ta`
-
-Postponing the presidential election could benefit the entire nation, especially the Tamil community, by preventing a scenario where no candidate secures over 50% of the vote, which might lead to political instability and worsen the existing economic crisis. This move would also avoid significant electoral expenses that could further strain the economy.
-
-🟩
-
-Parliamentarian C says that the presidential election is beneficial to the Tamil people. V.. Wigneswaran said.
-
-“The postponement of the presidential election is beneficial to the whole country. Especially for the Tamils.
-
-As for this presidential election, no candidate can get more than 50 percent of the votes. So they will try to get the votes of the minority people.
-
-At the same time, when no one gets more than 50 percent of the votes in the presidential election, the political stability in the country will be left.
-
-There are already economic crises in the country. If there is no political stability, the country will face the worst economic setbacks.
-
-In addition, there will be a situation where large funds will be spent on the election. That too will affect the country's economy ”.
-
-◼️
-
-[Data](articles/6a9f9b19.json)
-
-[Extended Data](ext_articles/6a9f9b19.ext.json)
 
 ---

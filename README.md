@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 22:08:51**
+As of **2024-07-22 22:20:10**
 
 ## Newspaper Stats
 
-*Scraped **36,622** Articles*
+*Scraped **36,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,247
 tamilmirrorlk | 4,470
 dailymirrorlk | 4,733
 virakesarilk | 5,740
-adaderanasinhalalk | 6,148
+adaderanasinhalalk | 6,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,621 (100.0%) of 36,622 articles have been extended.
+36,622 (100.0%) of 36,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### ඡන්ද අල්ලස් දඩය රුපියල් මිලියනය දක්වා ඉහළ නංවන්න යෝජනාවක්
+
+*2024-07-22 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199098) · `si`
+
+මැතිවරණයකදී අල්ලස් දීමේ වරදකට පනවනු ලබන දඩ මුදල රුපියල් 500යේ සිට රුපියල් ලක්ෂ 10ක් දක්වා ඉහළ දැමීමට අපරාධ නඩු විධාන සංග්‍රහය සංශෝධනය කිරීමේ පනත් කෙටුම්පතින් යෝජනා කර තිබේ.
+
+අපරාධ නඩු විධාන සංග්‍රහයේ සඳහන් දඩ මුදල් වර්තමාන මුදල් අගය මත පදනම්ව වැඩි කිරීමට හැකි වන පරිදි එම පනත සංශෝධනය කිරීමට රජය තීරණය කර ඇති අතර ඊට අදාළ පනත් කෙටුම්පත අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ නියමය පරිදි මේ වනවිට ගැසට් කර ඇති බව සඳහන්ය.
+
+ඒ අනුව ඡන්ද විමසීමක් සම්බන්ධයෙන් අල්ලස් ලබාදීමක දී මෙතෙක් පැවති රුපියල් 500යේ දඩ මුදල රුපියල් මිලියනය දක්වා ඉහළ දැමීමට සහ සංග්‍රහ කිරීමෙන් අල්ලස් ලබාදීමකදී රුපියල් දෙසීයක් වූ දඩ මුදල රුපියල් 750,000ක් දක්වා ඉහළ දැමීමට අදාළ සංශෝධනයෙන්, යෝජනා කර තිබේ.
+
+ඡන්ද විමසීමක දී අයුතු බලපෑම් සිදුකිරීමක් සම්බන්ධයෙන් වන වරදකට පැවති රුපියල් 500ක දඩය රුපියල් ලක්ෂයක් දක්වා ඉහළ දැමීමට යෝජනා කර ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/1151b605.json)
+
+---
 
 ### Teachers’ and principals’ issues to be addressed within this week – Edu. Minister
 
@@ -49,6 +67,8 @@ However, Minister Premajayantha stated that the trade union action will not hind
 ◼️
 
 [Data](articles/9d0a1e1e.json)
+
+[Extended Data](ext_articles/9d0a1e1e.ext.json)
 
 ---
 
@@ -2361,29 +2381,5 @@ For decades, regimes have perpetuated impunity, showing no signs of change. Ther
 [Data](articles/f41ad055.json)
 
 [Extended Data](ext_articles/f41ad055.ext.json)
-
----
-
-### Emergency health in the state of Kerala
-
-*2024-07-22 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199075) · `si`
-
-Kerala faces an emergency health crisis due to the Niha Virus, which has claimed one life and affected 60 others. Health Minister Visena urges healthcare workers to wear protective gear and advises the public to seek hospital care promptly.
-
-🟩
-
-County health authorities have acted in announcing an emergency health in Kerala, India.
-
-A 14-year-old boy was killed after he was infected with the Niha Virus.
-
-The Minister of Health Visena has said that 60 others have identified the disease, according to international media reports.
-
-The people call for health sectors to wear the deer to hospitals to get rid of virus infection and to see the sick.
-
-◼️
-
-[Data](articles/51e6b43d.json)
-
-[Extended Data](ext_articles/51e6b43d.ext.json)
 
 ---

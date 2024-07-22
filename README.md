@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 15:35:43**
+As of **2024-07-22 15:54:39**
 
 ## Newspaper Stats
 
-*Scraped **36,575** Articles*
+*Scraped **36,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,301
-adaderanalk | 4,236
+adaderanalk | 4,237
 tamilmirrorlk | 4,465
 dailymirrorlk | 4,733
 virakesarilk | 5,730
@@ -26,63 +26,105 @@ adaderanasinhalalk | 6,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,569 (100.0%) of 36,575 articles have been extended.
+36,575 (100.0%) of 36,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### උද්ධමනය ඉහළට
+### Two youths arrested after man found murdered inside cultivation hut
+
+*2024-07-22 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100696/two-youths-arrested-after-man-found-murdered-inside-cultivation-hut-) · `en`
+
+A person has been found murdered inside a hut erected near a cultivation land in the Kukulkatuwa area of Hambegamuwa.
+
+The body was discovered, following information received by Hambegamuwa Police last morning (21).
+
+The deceased, a 51-year-old male resident of Mathugama in Mahagama, who had come to Kukulkatuwa to engage in cultivation activities, had reportedly been attacked with a sharp weapon inside the hut.
+
+It has been revealed that the victim had been stabbed to death with a sharp weapon after an argument that had stemmed while consuming alcohol in the hut with two other individuals had escalated.
+
+Two suspects, aged 25 and 27 years, have been arrested on suspicion of committing the murder while police stated that the suspects are also residents of the Hambegamuwa area.
+
+◼️
+
+[Data](articles/636074d3.json)
+
+---
+
+### Inflation up
 
 *2024-07-22 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199087) · `si`
 
-ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් 2024 ජූනි මාසය සඳහා ශ්‍රී ලංකාවේ ජාතික පාරිභෝගික මිල දර්ශකය සහ මාසික පාරිභෝගික උද්ධමනය ප්‍රකාශයට පත් කර තිබේ.
+Inflation rose from 1.6% in May 2024 to 2.4% in June 2024, with food prices increasing from 1.9% to 2.7%.
 
-ඒ අනුව 2024 මැයි මාසයේ දී 1.6%ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 ජූනි මාසය සඳහා 2.4%ක් දක්වා වැඩි වී ඇත.
+🟩
 
-2024 මැයි මාසයේ දී 0.5% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජූනි මාසයේ දී 1.9%ක් දක්වා වැඩි වී තිබේ.
+The Department of Census and Statistics have published the National Customer Price Index and Monthly Consumer Inflation for June 2024.
 
-එමෙන්ම, 2024 මැයි මාසයේ දී 2.4% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජූනි මාසයේ දී 2.7% ක් දක්වා වැඩි වී ඇත.
+Accordingly, the country's inflation recorded to 1.6% in May 2024 to 2.4% for June 2024.
+
+In May 2024, the point in the food category of food recorded in May 2024 increased to 1.9% in June, 2024.
+
+Also, the no-2.4% of food in May 2024 has increased to 2.7% in June, 2024.
 
 ◼️
 
 [Data](articles/b6a5cd10.json)
 
+[Extended Data](ext_articles/b6a5cd10.ext.json)
+
 ---
 
-### க்ளப் வசந்த கொலை : 6 பேருக்கு விளக்கமறியல்
+### Glop Spring Murder: 6 people explanation
 
 *2024-07-22 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189091) · `ta`
 
-க்ளப் வசந்த என்றழைக்கப்படும் சுரேந்திர வசந்த பெரேரா மற்றும் பலர் மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டமை தொடர்பில் கைது செய்யப்பட்ட சந்தேகநபர்களில் 6 பேர் எதிர்வரும் 26ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Six suspects linked to the shooting of Surendra Vasantha Perera and others at a tattoo shop are remanded until April 26th. The main suspect, identified as Clap Vasantha, will face charges related to the incident where he and Nayana Vasula Wijesuriya died in a gunfight. Additionally, four others, including the wives of a singer and a club owner, were injured.
 
-சந்தேகநபர்கள்  இன்று திங்கட்கிழமை (22) காலை கடுவலை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-சம்பவத்தின் பிரதான சந்தேகநபரான பச்சை குத்தும் நிலைய உரிமையாளரிடம் இன்றைய தினம் பிற்பகல் நீதிமன்றத்தில் வாக்குமூலம் பதிவு செய்யப்படவுள்ளது.
+Six suspects arrested in connection with the shooting of Surendra Vasantha Perera and others known as Klup Vasantha have been remanded until the 26th of this month.
 
-கடந்த ஜூலை மாதம் 8ஆம் திகதி அத்துருகிரிய சந்தியில் பச்சை குத்தும் நிலைய திறப்பு விழாவில்  மேற்கொள்ளப்பட்ட துப்பாக்கிப் பிரயோகத்தில் க்ளப் வசந்த மற்றும் நயன வசுல விஜேசூரிய என்ற 37 வயதான நபர் ஆகியோர் உயிரிழந்தனர்.
+The order was issued when the suspects were produced before the Kaduwela Magistrate's Court this morning.
 
-துப்பாக்கி பிரயோகத்தில் பாடகி கே.சுஜீவா மற்றும் க்ளப் வசந்தவின் மனைவி உள்ளிட்ட நால்வர் காயமடைந்தனர்.
+The main suspect in the incident is to be filed in court this afternoon to the owner of the tattoo.
+
+The 37 -year -old man named Clap Vasantha and Nayana Vasula Wijesuriya died in a gunfight at the Tattoo Punching Station at the Athurugiriya junction on July 8.
+
+Four people, including the wife of singer K. Sajeewa and the wife of the club Vasantha, were injured in the shooting.
 
 ◼️
 
 [Data](articles/06d814a7.json)
 
+[Extended Data](ext_articles/06d814a7.ext.json)
+
 ---
 
-### கீர்த்தி சுரேஷ் கர்ஜிக்கும் 'இந்தி தெரியாது போய்யா..'
+### Keerthi Suresh Karji 'Do not know Hindi ..'
 
 *2024-07-22 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189093) · `ta`
 
-இந்திய திரையுலகின் பான் இந்திய நட்சத்திர அந்தஸ்தை பெற்றிருக்கும் நடிகையும், தேசிய விருது பெற்ற நடிகையுமான கீர்த்தி சுரேஷ் கதையின் நாயகியாக நடித்திருக்கும் 'ரகு தாத்தா' எனும் திரைப்படத்தின் இசை வெளியிடப்பட்டிருக்கிறது.‌
+"Keerthi Suresh stars in 'Raghu Grandpa,' directed by Suman Kumar, with music by Yamini Yagnamoorthy. The film, produced by Vijay Grakandur under Hombale Films, features a star-studded cast including S.. Bhaskar, Ravindra Vijay, and Anand Sami. Despite reports of Keerthi's late arrival, the music launch was highlighted by director Suman Kumar's comments on the film's content, clarifying it's not about Hindi imposition but humorously addresses societal issues."
 
-அறிமுக இயக்குநர் சுமன் குமார் இயக்கத்தில் உருவாகி இருக்கும் 'ரகு தாத்தா' எனும் திரைப்படத்தில் கீர்த்தி சுரேஷ், எம். எஸ். பாஸ்கர், ரவீந்திர விஜய், ஆனந்த் சாமி, தேவதர்ஷினி, ராஜீவ் ரவீந்திரநாதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். யாமினி  யக்ஞமூர்த்தி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார்.
+🟩
 
-எள்ளல் மற்றும் நையாண்டி பாணிலான நகைச்சுவை வகைமை திரைப்படமாக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஹோம்பாலே ஃபிலிம்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் விஜய் கிரகந்தூர் தயாரித்திருக்கிறார்.
+The music of the film 'Raghu Grandpa' starring Keerthi Suresh, a national award -winning actress, has been released.
+
+Keerthi Suresh, M, directed by debutant director Suman Kumar in the film 'Raghu Grandpa'. S.. Bhaskar, Ravindra Vijay, Anand Sami, Devadarshini, Rajiv Raveendranathan and many others have been cast. The film, which has been recorded by Yamini Yagnamoorthy, has composed the film.
+
+The film is being produced by Vijay Grakandur on behalf of Hombale Films.
+
+The film's music launch, which will be released on August 15, was held at the star hotel in Chennai.. Actress Keerthi Suresh, composer Shaun Roldton and director Suman Kumar were also present.
+
+It is noteworthy that Keerthi Suresh has earned the dissatisfaction of reporters about two hours late, like other Bollywood and Tollywood stars.
 
 ...
 
 [Data](articles/98c968c2.json)
+
+[Extended Data](ext_articles/98c968c2.ext.json)
 
 ---
 
@@ -112,33 +154,47 @@ Most of the companies were financially poorly, as a large amount of fertilizer c
 
 ---
 
-### வரலாறு : "தனித்தமிழ் ராஜ்யமே மானத்தோடு வாழ வழி" - 1968இல் முழக்கம்
+### History: "The way to live with the Kingdom of Tamil Nadu" - the slogan in 1968
 
 *2024-07-22 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189086) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளரை நிறுத்துவது பற்றி பேச்சு தற்போது சூடுபிடித்துள்ளது.
+In 1968, the slogan "The way to live with the Kingdom of Tamil Nadu" highlighted life under the Tamil Nadu kingdom. Currently, discussions are intense regarding the halt of the Tamil general candidate in the upcoming presidential election.
+
+🟩
+
+Talks about stopping the Tamil general candidate in the presidential election are now hot.
 
 ◼️
 
 [Data](articles/1a1bb11d.json)
 
+[Extended Data](ext_articles/1a1bb11d.ext.json)
+
 ---
 
-### உதயநிதி ஸ்டாலினுக்கு துணை முதல்வர் பதவி கொடுப்பதா..? - எடப்பாடி பழனிச்சாமி கேள்வி.
+### Will Udayanidhi Stalin give the deputy chief minister ..?- Edappadi Palanisamy question.
 
 *2024-07-22 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189089) · `ta`
 
-'திமுக ஒரு குடும்பக் கட்சி. திமுக நடத்துவது குடும்ப ஆட்சி. கருணாநிதி பேரன் - ஸ்டாலின் மகன் - என்பதால் உதயநிதி ஸ்டாலினுக்கு துணை முதலமைச்சர் பதவி கொடுப்பதா?'  என தமிழக சட்டப்பேரவை எதிர்க்கட்சித் தலைவரும், அதிமுக பொதுச் செயலாளருமான எடப்பாடி கே பழனிச்சாமி வினா எழுப்பி இருக்கிறார்.
+Edappadi Palanisamy questions if Udayanidhi Stalin, Karunanidhi's grandson and Stalin's son, will be appointed as Tamil Nadu's Deputy Chief Minister due to DMK being a family party. He criticizes the decline in "mother restaurants" under the DMK regime and the rise in murders and drug use, suggesting these issues indicate poor governance. Despite having experienced ministers, Palanisamy implies nepotism might lead to Udayanidhi's appointment without merit.
 
-'' திமுக ஆட்சியில் அம்மா உணவகங்களின் எண்ணிக்கை குறைந்து வருகிறது. சென்னையில் அம்மா ஆட்சியில் தொடங்கப்பட்ட 400க்கும் மேற்பட்ட அம்மா உணவகங்களில், 19 உணவகங்களை திமுக  ஆட்சியில் முடி விட்டனர். இதனால் திமுக அரசு மீது மக்களுக்கு வெறுப்பும், அதிருப்தியும் ஏற்பட்டுள்ளது. எனவேதான் அம்மா உணவகத்திற்கு சென்று முதல்வர் ஆய்வு செய்துள்ளார்.‌
+🟩
 
-தமிழகத்தில் 200 நாட்களில் 595 கொலைகள் நடந்துள்ளன. கஞ்சா, போதை பொருட்கள் நடமாட்டம் அதிகரித்துள்ளது. கஞ்சா விற்பனையை தடுக்காவிட்டால் மாணவர்கள் இளைஞர்கள் சீரழிவார்கள்.
+'DMK is a family party. Thermology. Karunanidhi's grandson - the son of Stalin - is Udayanidhi Stalin's appointment as Deputy Chief Minister? 'Opposition leader and AIADMK general secretary Edappadi K Palanisamy has raised the question.
 
-திமுகவில் பல ஆண்டுகளாக உழைத்தவர்களும், அனுபவமிக்க அமைச்சர்களும் உள்ளனர். ஆனால் குடும்ப கட்சியான திமுகவில் அவர்களுக்கு எல்லாம் துணை முதல்வர் பதவி கிடைக்காது.
+“The number of mother restaurants in the DMK regime is declining. Over 400 mother restaurants started in Chennai's Mother's Mother's Rule. This has caused people to disgust and dissatisfaction with the DMK government. This is why the mother went to the restaurant and inspected the Chief Minister.
 
-...
+There have been 595 murders in 200 days in Tamil Nadu. Increased cannabis and drugs. Students will degrade young people if they do not prevent cannabis sales.
+
+There are workers and experienced ministers for many years in DMK. But in the family party, DMK will not get the post of Deputy Chief Minister.
+
+Udayanidhi only qualifies Karunanidhi's grandson - Stalin's son. Does he give him the post of Deputy Chief Minister?He has said.
+
+◼️
 
 [Data](articles/92bd3982.json)
+
+[Extended Data](ext_articles/92bd3982.ext.json)
 
 ---
 
@@ -222,21 +278,29 @@ Minister Jeevan Thondaman, Minister Jeevan Thondaman and the suspects were infor
 
 ---
 
-### சாய்ந்தமருது கொலை சம்பவம் ; தலைமறைவான பிரதான  சந்தேக நபர் உட்பட ஐவர் கைது
+### The murder of the Sainthamarudu;Five arrests including main suspects
 
 *2024-07-22 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189087) · `ta`
 
-தனது மாமனாரை தாக்கி கொலை செய்ததாக குற்றஞ்சாட்டப்பட்ட பிரதான  சந்தேக நபர் உட்பட ஐவர் தலைமறைவாகி இருந்த நிலையில் நேற்று ஞாயிற்றுக்கிழமை (21) இரவு  கைது செய்யப்பட்டுள்ளனர்.
+Five individuals, including the primary suspect accused of murdering his father-in-law, were apprehended. The crime occurred in the Ampara district's Bolivarian Village Division-09. The victim's body was sent to the Ampara General Hospital for examination. The main suspect, known for drug use and previous disputes, was detained along with four others. They will face charges at the Kalmunai Magistrate's Court.
 
-அம்பாறை மாவட்டம் சாய்ந்தமருது பொலிஸ் பிரிவிற்குட்பட்ட பொலிவேரியன் கிராமம் பிரிவு-09 பகுதியில் உள்ள வீடு ஒன்றில் ஞாயிற்றுக்கிழமை அதிகாலை  குறித்த சம்பவம் இடம்பெற்றுள்ளதுடன், குறித்த சம்பவத்தில்  தாக்குதலுக்கு உள்ளாகி 62 வயதுடய  மீராசாயிப் சின்னராசா என்பவர் மரணமடைந்திருந்தார்.
+🟩
 
-இவ்வாறு மரணமடைந்தவரின் சடலம் கல்முனை அஷ்ரப் ஞாபகார்த்த வைத்தியசாலையில் வைக்கப்பட்ட பின்னர் மேலதிக விசாரணைக்காக அம்பாறை பொது வைத்தியசாலைக்கு பிரேத பரிசோதனைக்காக எடுத்துச்செல்லப்பட்டு விசாரணைகளின் பின்னர் உறவினர்களிடம்  இரவு கையளிக்கப்பட்டுள்ளது.
+Five persons, including the main suspect who allegedly assaulted and murdered his father -in -law, were arrested on Sunday night (21).
 
-அத்துடன், சம்பவ இடத்திற்கு கல்முனை நீதிமன்ற பதில் நீதிவான் அப்துல் ரசீட் முஹம்மது கலீல்  சென்று விசாரணகைளை மேற்கொண்டார்.
+The incident took place in a house in the Bolivarian Village Division-09 area of ​​the Ampara district, which was attacked on Sunday morning.
+
+The body of the deceased has been taken to the Ampara General Hospital for further inquiries for further inquiries after further inquiries.
+
+In addition, Kalmunai Court Response Justice Abdul Rasheed Muhammad Khalil went to the inquiry.
+
+The main suspect, who was accused of assassinating and assassinating his father -in -law, was arrested from Valaichenai area in Batticaloa district and four other suspects from Sainthamaruthu area.. It is noteworthy that the main suspect, the main suspect who had been involved in a dispute with his uncle, was addicted to drug addiction and was summoned to two other charges at the Sainthamaruthu Police Station.
 
 ...
 
 [Data](articles/8708c96c.json)
+
+[Extended Data](ext_articles/8708c96c.ext.json)
 
 ---
 
@@ -2239,21 +2303,5 @@ The plaintiff’s position, as set out in its plaint, is that they are importers
 [Data](articles/c1cb91e5.json)
 
 [Extended Data](ext_articles/c1cb91e5.ext.json)
-
----
-
-### Scope Cinemas Brings IMAX®️ to Sri Lanka Sparking Cinematic Revolution
-
-*2024-07-22 01:28:09* · [`dailyftlk`](https://www.ft.lk/business/Scope-Cinemas-Brings-IMAX-to-Sri-Lanka-Sparking-Cinematic-Revolution/34-764568) · `en`
-
-Scope Cinemas is set to revolutionise cinema experiences in Sri Lanka with the opening of its new IMAX®️ Theatre at Havelock City Mall on the 26th of July 2024. This eagerly anticipated launch promises to bring an unparalleled level of audio-visual immersion for Sri Lankan moviegoers, marking a milestone moment for entertainment in the country. IMAX®️ is renowned globally for its cutting-edge technology and unique film presentation capabilities.
-
-Accordingly, the IMAX®️ Theatre at Scope Cinemas Multiplex – Havelock City will feature IMAX®️ with Laser – a next-gen laser projection system – delivering the most advanced theatre experience to date. This tech will be coupled with IMAX®️ Precision Sound for breath-taking audio and IMAX®️ Immersion by Design seating, with stadium-style seating for clear viewing at every seat. All of this makes for the most immersive cinematic theatre experience in the world today.
-
-...
-
-[Data](articles/676fe161.json)
-
-[Extended Data](ext_articles/676fe161.ext.json)
 
 ---

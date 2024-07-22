@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 16:20:21**
+As of **2024-07-22 16:35:41**
 
 ## Newspaper Stats
 
-*Scraped **36,586** Articles*
+*Scraped **36,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,301
-adaderanalk | 4,241
+adalk | 3,302
+adaderanalk | 4,242
 tamilmirrorlk | 4,466
 dailymirrorlk | 4,733
 virakesarilk | 5,731
@@ -26,25 +26,55 @@ adaderanasinhalalk | 6,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,580 (100.0%) of 36,586 articles have been extended.
+36,585 (100.0%) of 36,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### සංවර්ධන නිලධාරීන් ගුරු සේවයට අන්තර් ග්‍රහණය කරගැනීම ගැන අධිකරණ තීන්දුවක්
+### Sri Lanka’s inflation rises to 2.4% in June 2024
+
+*2024-07-22 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100700/sri-lankas-inflation-rises-to-24-in-june-2024) · `en`
+
+The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 2.4% in June 2024, compared to 1.6% in May 2024, according to the latest data released by the Department of Census and Statistics.
+
+Meanwhile, food inflation has increased to 1.9% in June 2024 compared to 0.5% in May 2024 and the Year-on-Year inflation of the non-food group increased to 2.7% in June 2024 from 2.4% in May 2024.
+
+The contribution of food commodities to inflation was 0.85% in June 2024 compared to the month of June in 2023.
+
+The NCPI for all items for the month of May 2024 is 206.3 and it records a decrease of 1.9 in index points compared to April 2024.
+
+◼️
+
+[Data](articles/730ed036.json)
+
+---
+
+### Judicial decision on intercepting development officers to the teacher service
 
 *2024-07-22 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199089) · `si`
 
-රජයේ පාසල්වල දැනටමත් ගුරුවරුන් ලෙස සේවයේ නියුක්තව සිටින සියලුම සංවර්ධන නිලධාරීන් ගුරු සේවයට අන්තර්ග්‍රහණය කරගන්නා ලෙස ඉල්ලා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් අද (22) ශ්‍රේෂ්ඨාධිකරණය හමුවේ සමථයකට පත් කෙරුණි.
+The Supreme Court today dismissed petitions from development officers seeking recognition as teachers, citing potential violation of government school policies. The case was heard by a three-judge panel, including Justice AHMD Evath. Additional Solicitor General Viraj Dayaratne argued against the petitions, emphasizing the need for adherence to established eligibility criteria. Following this, the court upheld its decision to deny the petitions, affirming the fundamental rights of government schools' management over hiring practices.
 
-මෙම පෙත්සම් ඒ.එච්.එම්.ඩී.නවාස්, අචල වෙංගප්පූලි සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ අද සලකා බැලුණි.
+🟩
 
-අදාළ පෙත්සම් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳ වූ අවස්ථාවේදී කරුණු දැක්වූ නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විරාජ් දයාරත්න මහතා මේ වන විට ගුරු සේවයේ නිරත වී සිටින සංවර්ධන නිලධාරින් 25,000කට අධික පිරිසක් විශේෂ සම්මුඛ පරීක්ෂණයකට භාජනය කොට සුදුසුකම් සපුරාලන අය ගුරු සේවයට අන්තර්ග්‍රහණය කර ගැනීමට තීරණය කර ඇතැයි කියා සිටියේය.
+Petitions were settled before the Supreme Court today (22) the Fundamental Rights of the Government Schools.
 
-...
+These petitions were considered before AHMD Evath and the Supreme Court Judge Bench, which has a three-member Supreme Court Bench.
+
+Additional Solicitor General Viraj Dayaratne, who is speaking to the Attorney General today, has decided to interview the Attorney General today and is determined to intervene and absorb the eligibility criteria.Said.
+
+Accordingly, the recruitment to the Cabinet paper to be recruited to the Cabinet paper to be sent to the Cabinet paper to be sent to the Cabinet paper and obtaining the relevant Cabinet paper for national schools.Additional Solicitor General said he was.
+
+After notion, the court decided to pass the petitions.
+
+The fundamental rights petitions have been filed by a group of development officers demanding a ruling that they have a verdict of violating their basic human rights.
+
+◼️
 
 [Data](articles/d41fdf25.json)
+
+[Extended Data](ext_articles/d41fdf25.ext.json)
 
 ---
 
@@ -70,21 +100,29 @@ Hosts Sri Lanka commenced their Asia Cup tournament with a dominating seven-wick
 
 [Data](articles/ce6b4ce0.json)
 
+[Extended Data](ext_articles/ce6b4ce0.ext.json)
+
 ---
 
-### தேநீர் கடையில் கசிப்பு
+### Leakage at the tea shop
 
 *2024-07-22 15:56:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேநீர்-கடையில்-கசிப்பு/76-340837) · `ta`
 
-ஹோட்டல் ஒன்றில் தேநீர் மற்றும் குளிர்பானம் விற்பனை செய்கின்ற போர்வையில், கசிப்பு விற்பனையில் ஈடுபட்ட ஹோட்டல் உரிமையாளர் மற்றும் ஊழியர் ஒருவரை 8 கசிப்பு போத்தல்களுடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A hotel owner and employee were arrested for allegedly diluting tea in refrigerated bottles, tricking customers into paying full price for watered-down tea. The scam lasted months, affecting daily customers and store workers.
 
-சந்தேகம் ஏற்படாத வகையில் குளிர்ப்பான போத்தல்களில் கசிப்புவினை பொதி செய்து வைத்துள்ளதாகவும் ஹோட்டல் கவுண்டரில் பணம் செலுத்திய பின்னர் , ஊழியர்களால் டீ கப்பில் கசிப்பூவை ஊற்றி கொடுப்பதாகவும் பொலிஸாருக்கு தகவல் கிடைத்துள்ளது.
+🟩
 
-சில காலமாக இடம்பெற்று வரும் இந்த வியாபாரத்தில், சந்தையில் வேலை செய்யும் நாட்டாமிகள், கடைகளில் வேலை செய்யும் ஊழியர்கள் ஆகியோர் தினசரி வாடிக்கையாளர்கள் எனவும், அதிகாலை 5.00 மணி முதல் இந்த வியாபாரம் இடம்பெற்று வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+Police said a hotel owner and employee who was involved in leaks was arrested with 8 leaks.
+
+The police have been informed that the leakage has been poured into the refrigerated bottles and that after paying the money at the hotel counter, the employees pour the tea cup into the tea cup.
+
+The business, which has been going on for some time, is the daily customers of the marketplace and the stores working in the stores and the business is being held from 5.00 am, police said.
 
 ◼️
 
 [Data](articles/ab19fc58.json)
+
+[Extended Data](ext_articles/ab19fc58.ext.json)
 
 ---
 
@@ -103,6 +141,8 @@ The government has allocated Rs. 1,600 million for this purpose, and accordingly
 ...
 
 [Data](articles/9143d26f.json)
+
+[Extended Data](ext_articles/9143d26f.ext.json)
 
 ---
 
@@ -539,6 +579,22 @@ There were no reports of violence or protests on Monday morning and media said c
 [Data](articles/61b3952f.json)
 
 [Extended Data](ext_articles/61b3952f.ext.json)
+
+---
+
+### ඇමති ජීවන්ට වරෙන්තු
+
+*2024-07-22 13:25:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ජීවන්ට-වරෙන්තු/11-410910) · `si`
+
+ලංකා කම්කරු කොන්ග්‍රසයේ මහ ලේකම් සහ වතු යටිතල පහසුකම් හා ජල ප්‍රවාහන අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා ඇතුළු සැකකරුවන් කිහිපදෙනෙකු අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කරන ලෙසට නුවරඑලිය වැඩ බලන මහෙස්ත්‍රාත් ජයමිනී අඹගහවත්ත මහතා විසින් නුවරඑලිය පොලිසියට නියෝග කර ඇත.
+
+පසුගිය මැයි (30) දින අමාත්‍ය ජීවන් තොන්ඩමන් මහතා ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවන් පිරිසක් කැලණි වැලි සමාගම යටතේ පාලනය වන නුවරඑලිය පීඩෘ තේ කර්මාන්ත ශාලාවට බලහත්කාරයෙන් ඇතුළු වීමේ සිද්ධිය සම්බන්ධයෙන් නුවරඑලිය පොලිසිය විසින් නුවරඑලිය මහෙස්ත්‍රාත් අධිකරණය හමුවේ (22) දින කරුණු වාර්තා කල අවස්තාවේ මහෙස්ත්‍රාත්වරයා විසින් එම නියෝගය කල බවයි වතු සමාගම වෙනුවෙන් අධිකරණය හමුවේ කරුණු වාර්තා කල ජ්‍යෙෂ්ඨ නීතිඥ පාලිත සුහසිංහ මහතා කියා සිටියේ.
+
+2024.05.30 දින කැලණි වැලි වතු සමාගමට අයත් නුවරඑලිය පීඩෘ තේ කර්මාන්ත ශාලාව තුලට අමාත්‍යවරයා ඇතුළු ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවන් පිරිසක් බලහත්කාරයෙන් ඇතුළු වී දණ්ඩ නීති සංග්‍රහයට පටහැනිව කටයුතු කරමින් ක්‍රියාකිරිම සම්බන්ධයෙන් නුවරඑලිය පොලිසිය මගින් අධිකරණය හමුවේ කරුණු වාර්තා කර තිබුණි.
+
+...
+
+[Data](articles/8aaa87c9.json)
 
 ---
 
@@ -1480,6 +1536,8 @@ The challenges public spaces face in contemporary times are a subject of ongoing
 
 [Data](articles/dea7bc46.json)
 
+[Extended Data](ext_articles/dea7bc46.ext.json)
+
 ---
 
 ### 41 Years To Black July – Our Voices Towards Meaningful Reconciliation
@@ -2255,57 +2313,5 @@ In other parts of the island, a rainy weather is expected to be mainly.
 [Data](articles/04319461.json)
 
 [Extended Data](ext_articles/04319461.ext.json)
-
----
-
-### Biden drops out of Presidential race, endorses Harris
-
-*2024-07-22 05:13:00* · [`economynextcom`](https://economynext.com/biden-drops-out-of-presidential-race-endorses-harris-173107/) · `en`
-
-ECONOMYNEXT – US President Joe Biden has ended his re-election campaign and also endorsed Vice-President Kamala Harris for the nomination after rising calls by fellow democrats to drop out.
-
-“My fellow Democrats, I have decided not to accept the nomination and to focus all my energies on my duties as President for the remainder of my term,” Biden said in a post on X.com (twitter).
-
-“My very first decision as the party nominee in 2020 was to pick Kamala Harris as my Vice President. And it’s been the best decision I’ve made.
-
-“Today I want to offer my full support and endorsement for Kamala to be the nominee of our party this year.”
-
-President Biden has come under increasing pressure to drop out over concerns over cognitive impairments following a public debate with Donald Trump and subsequent public appearances.
-
-Donald Trump concluded what was widely agreed to be a successful convention.
-
-Some democrats are calling for an ‘open process’ to select a new candidate.
-
-...
-
-[Data](articles/8166e06e.json)
-
-[Extended Data](ext_articles/8166e06e.ext.json)
-
----
-
-### 'I'm telling me the mobile supermarket. I have taken about 300 kilograms of weight. '
-
-*2024-07-22 02:18:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw0y10d2ne3o) · `si`
-
-Veson, a resident of Pilimatalawa, Kandy, operates a mobile supermarket, transporting around 300 kg of goods daily over 30 miles to sell various items. He emphasizes the importance of hard work and not becoming a burden to his family and nation, expressing hope that future generations will do better.
-
-🟩
-
-Nothing here contains no of the Four Health Head, '' There is everything from two securities. ''
-
-'I'm telling me the mobile supermarket. I have taken about 300 kilograms of weight. '
-
-Veson, a resident of Pilimatalawa, Kandy, is a person who is carrying out the carcasses in the body.
-
-He says about 300 types of goods and he is traveling about 30 miles a day to sell them.
-
-'' There's everything from the two and the patriads and securities. I don't want to be a debtor to my children and the country. No one can help anyone. My only hope, see children better than me, "he told BBC Sinhala.
-
-◼️
-
-[Data](articles/6d91d58b.json)
-
-[Extended Data](ext_articles/6d91d58b.ext.json)
 
 ---

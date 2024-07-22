@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 00:52:54**
+As of **2024-07-23 01:05:21**
 
 ## Newspaper Stats
 
-*Scraped **36,642** Articles*
+*Scraped **36,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,084
 economynextcom | 2,191
-dailyftlk | 2,324
+dailyftlk | 2,329
 adalk | 3,311
 adaderanalk | 4,248
 tamilmirrorlk | 4,471
@@ -26,11 +26,87 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,642 (100.0%) of 36,642 articles have been extended.
+36,642 (100.0%) of 36,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### Local investors at risk: REPA criticises new tariff rates for rooftop solar projects
+
+*2024-07-23 00:40:30* · [`dailyftlk`](https://www.ft.lk/business/Local-investors-at-risk-REPA-criticises-new-tariff-rates-for-rooftop-solar-projects/34-764611) · `en`
+
+REPA Vice President Suresh Galanga, Chairman Darshana Liyanasekara, and Treasurer Chanaka Jayawardena
+
+The Renewable Energy Protectors’ Association (REPA) recently held a media briefing to voice concerns over the Government’s decision to reduce tariff rates for new rooftop solar and renewable energy projects, effective from 1 July.
+
+REPA and other groups warned that this move could deter local investors and hinder the growth of the renewable energy sector. They emphasised the importance of energy supply for economic development and urged the Government to support sustainable energy initiatives.
+
+...
+
+[Data](articles/e0613415.json)
+
+---
+
+### CMA Sri Lanka’s National Management Accounting Conference kicks off tomorrow
+
+*2024-07-23 00:38:32* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-s-National-Management-Accounting-Conference-kicks-off-tomorrow/34-764610) · `en`
+
+Key experts to share insights to “Navigating Stability towards Dynamic Growth”
+
+The Institute of Certified Management Accountants of Sri Lanka (CMA) will be holding its 20th annual flagship event, the CMA National Management Accounting Conference 2024, on the theme ‘Navigating Stability towards Dynamic Growth’ from 24 and 25 July at the Shangri-La Colombo.
+
+CMA Sri Lanka, established in 1999 and inaugurated in June 2000, was incorporated by Act of Parliament No. 23 of 2009 as the National Professional Management Accounting Institution in Sri Lanka.
+
+The conference theme, ‘Navigating Stability towards Dynamic Growth,’ reflects their collective pursuit of excellence in management accounting practices to achieve near-term priorities, recover from the economic crisis, and restore economic stability and debt sustainability. In the medium term, the country will need to address the structural weaknesses that led to the economic crisis and build a strong foundation for robust and inclusive growth.
+
+...
+
+[Data](articles/467877db.json)
+
+---
+
+### Megakem Engineering expands with new showrooms and launches Megakem Megalistic Super 540
+
+*2024-07-23 00:36:03* · [`dailyftlk`](https://www.ft.lk/business/Megakem-Engineering-expands-with-new-showrooms-and-launches-Megakem-Megalistic-Super-540/34-764609) · `en`
+
+Megakem Engineering Ltd. has expanded their business by opening two new showrooms under the “Megakem” brand. The new showroom in Gampaha and the rebranded showroom in Rajagiriya are significant milestones in the company’s growth strategy. In addition, Megakem has introduced its newly rebranded waterproofing solution; Megakem Megalistic Super 540. Lauded for its superior quality and performance, this product is endorsed with the tagline, “Most Recommended Waterproofing Product by Engineers,” setting new industry benchmarks. The grand opening events were graced by Group Chairman Ashoka Siriwardena, alongside the Board of Directors, management team, employees, and esteemed distributors. These milestones underscore Megakem Engineering’s unwavering commitment to innovation, quality, and customer satisfaction.
+
+◼️
+
+[Data](articles/187dfb4d.json)
+
+---
+
+### Alpha Fire Services PLC emerges as key player in Sri Lanka’s fire protection sector, eyes expansion into Maldives
+
+*2024-07-23 00:32:04* · [`dailyftlk`](https://www.ft.lk/business/Alpha-Fire-Services-PLC-emerges-as-key-player-in-Sri-Lanka-s-fire-protection-sector-eyes-expansion-into-Maldives/34-764608) · `en`
+
+Alpha Fire Services PLC, pioneers in the fire protection and detection industry in Sri Lanka since 1989, marks yet another successful financial year 2023/24, with a plethora of Government and private sector development projects under their belt, including major contracts with leading exporters.
+
+Alpha Fire Services PLC solidifies its position as the preferred fire protection and detection partner in Sri Lanka.
+
+Alpha Fire Services PLC Director Samud Gunasekara highlights the company’s impressive performance, with a reported revenue of Rs. 326 million for the financial year 2023/24. The company has many large scale confirmed orders for the financial year 2024/25 demonstrating readiness to tackle large-scale fire contracting jobs across South Asia. Multinationals and Sri Lankan Corporations alike favour Alpha Fire Services PLC for their exemplary track record and expert technical team, setting their sights on expansion into the Maldivian market in the current financial year.
+
+◼️
+
+[Data](articles/4c31b19b.json)
+
+---
+
+### Telco and banking leaders in strategic partnership to empower SMEs
+
+*2024-07-23 00:19:50* · [`dailyftlk`](https://www.ft.lk/business/Telco-and-banking-leaders-in-strategic-partnership-to-empower-SMEs/34-764605) · `en`
+
+Top from left:  Dialog Axiata PLC Product Manager – Digital SME Sundar Ganeshan, Chief Manager – Digital SME Sameera Wijerathne, Databox Technologies CEO Prabath Perera, Commercial Bank of Ceylon PLC Assistant General Manager of Personal Banking III/SME Sivasubramaniam Ganeshan, Dialog Axiata PLC Head – ICT and Platform Business Viranga Seneviratne, Group Chief Enterprise Officer Navin Pieris and Commercial Bank of Ceylon PLC Chief Manager – SME Banking Mohan Fernando
+
+Bottom from left: GlobalLinker Co-founder and CEO Sameer Valki, Dialog Axiata PLC Head – ICT and Platform Business Viranga Seneviratne, Databox Technologies CEO Prabath Perera and Commercial Bank of Ceylon PLC Assistant General Manager of Personal Banking III/SME Sivasubramaniam Ganeshan
+
+...
+
+[Data](articles/68ef6cdd.json)
+
+---
 
 ### Seminar on incorporating anti-corruption policies to corporates
 
@@ -2249,123 +2325,5 @@ The suspects have fled the morning where the suspects were shooting and fled. Po
 [Data](articles/e027c391.json)
 
 [Extended Data](ext_articles/e027c391.ext.json)
-
----
-
-### May make unintelligent decisions
-
-*2024-07-22 11:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல்யமற்ற-தீர்மானங்களை-எடுக்க-நேரிடும்/175-340821) · `ta`
-
-Sagala Ratnayake emphasizes the importance of proactive measures against floods and dengue to prevent costly crises. He highlights the financial efficiency of preventing dengue compared to treating it and stresses the need for unpopular but necessary decisions for long-term benefits. He also advocates for the use of AI in disaster prediction and calls for leadership from the Disaster Management Center and Red Cross Association.
-
-🟩
-
-Sagala Ratnayake, a senior adviser to the National Security and Presidential Committee, said that the decision to curb floods and dengue spread, as it took unwell and rescued the country from economic crisis.
-
-He pointed out that dengue will not spread so much if they do their duties as a nation.
-
-Sagala Ratnayake, the President of the President of the President and the President of the President, said that the National Security Council on the inauguration of the Flood Risk and Dengue Eradication Campaign held by the Sri Lanka Red Cross - Colombo Branch at the Taj Samudra Hotel in Colombo recently said.
-
-“In the event of a disaster, the government, various organizations and countries have to spend a large amount of money. If we take steps to alleviate it before the flood conditions, we can save more money than we spend in the flood situation.
-
-...
-
-[Data](articles/4698496e.json)
-
-[Extended Data](ext_articles/4698496e.ext.json)
-
----
-
-### Sri Lanka, Poland discuss worker deal
-
-*2024-07-22 11:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-poland-discuss-worker-deal-173197/) · `en`
-
-ECONOMYNEXT – Poland will consider Sri Lankan workers in specific sectors through a government to government (G2G) agreement for employment, Sri Lanka’s Minister of Foreign Affairs has said.
-
-“Poland to look at Sri Lankan workers in targeted sectors through a G2G agreement for employment,” M U M Ali Sabry said on X (twitter).
-
-Sabry, who is on an official visit to Poland, met Poland’s Minister of Foreign Affairs Radosław Sikorski.
-
-“Visa facilitations to be eased too as I conclude a successful visit to Poland. I thank my counterpart Radosław Sikorski for proposing this novel initiative at my request.”
-
-Sri Lanka is looking to strengthen ties with Poland and other Central European countries in the EU.
-
-Sabry said bilateral discussions covered diverse sectors of interest including “engagement in ports and connectivity, visa facilitation and labour, education, tourism, people  to people ties”.
-
-This is the first time in 20 years a Sri Lankan Foreign Minister visited Poland.
-
-...
-
-[Data](articles/a19dd586.json)
-
-[Extended Data](ext_articles/a19dd586.ext.json)
-
----
-
-### Poland eyes Sri Lankan workers, plans to ease visa facilitations
-
-*2024-07-22 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100689/poland-eyes-sri-lankan-workers-plans-to-ease-visa-facilitations) · `en`
-
-Poland plans to look at Sri Lankan workers in targeted sectors through a G2G agreement for employment, Sri Lanka’s Minister of Foreign Affairs Ali Sabry PC said.
-
-Furthermore, he highlighted that visa facilitations for Sri Lankans to enter Poland will also be eased.
-
-Posting on ‘X’ as he concluded a successful visit to Poland, Sabry expressed gratitude to his counterpart Radosław Sikorski for proposing this novel initiative at his request.
-
-Sri Lanka’s Foreign Minister Sabry had engaged in an official visit to Romania and Poland.
-
-◼️
-
-[Data](articles/d0bedcce.json)
-
-[Extended Data](ext_articles/d0bedcce.ext.json)
-
----
-
-### Dead body found in Vulky - Two arrested
-
-*2024-07-22 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199079) · `si`
-
-A dead body discovered in Hambegamuwa, identified as a 51-year-old man from Matugama, was found seated. A tip led police to the scene. The victim died after a heated argument escalated into violence involving three individuals. Two suspects, aged 25 and 27, were arrested, while another is suspected of murder.
-
-🟩
-
-A corpse found in a sitting in Hambegamuwa - Poultry area has been found.
-
-The police said that the body was found on a tip off received by the Hambagamuwa Police yesterday (21).
-
-The deceased has been identified as 51-year-old man from the Matugama area from Mahagama.
-
-It has been revealed that a heated argument was attacked with a heated weapon with two other people.
-
-Two-year-old ages, 25, have been arrested by the police and 27-year-old ages suspected to kill the murder.
-
-◼️
-
-[Data](articles/029e7edc.json)
-
-[Extended Data](ext_articles/029e7edc.ext.json)
-
----
-
-### Mother and two children killed in a quarry
-
-*2024-07-22 11:38:33* · [`adalk`](https://www.ada.lk/breaking_news/ගල්වලක-ගිලී-මවක්-සහ-දරුවන්-දෙදෙනෙකු-මරුට/11-410905) · `si`
-
-A tragic incident occurred in Kawantississapura, Tissamaharama, where a 32-year-old mother and her two children, aged 14 and 9, were found dead in a garden. The mother's body was discovered on March 21st, and the police are investigating the case.
-
-🟩
-
-Tissamaharama Police said that a mother and two children were killed in a garden in Kawantississapura, Tissamaharama.
-
-The deceased has been identified as 32-year-old mother and two children, a 14-year-old mother and 9 afternoon.
-
-The mother's body was recovered yesterday (21) and Tissamaharama police are conducting further investigations.
-
-◼️
-
-[Data](articles/5c900c01.json)
-
-[Extended Data](ext_articles/5c900c01.ext.json)
 
 ---

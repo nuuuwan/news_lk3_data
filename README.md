@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 15:54:39**
+As of **2024-07-22 16:07:39**
 
 ## Newspaper Stats
 
-*Scraped **36,576** Articles*
+*Scraped **36,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,301
-adaderanalk | 4,237
+adaderanalk | 4,239
 tamilmirrorlk | 4,465
 dailymirrorlk | 4,733
-virakesarilk | 5,730
-adaderanasinhalalk | 6,138
+virakesarilk | 5,731
+adaderanasinhalalk | 6,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,575 (100.0%) of 36,576 articles have been extended.
+36,576 (100.0%) of 36,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### Govt settled Rs. 29,000 million owed to fertilizer company loans - Agri Minister
+
+*2024-07-22 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100698/govt-settled-rs-29000-million-owed-to-fertilizer-company-loans-agri-minister) · `en`
+
+Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, has announced that the government has settled all outstanding payments amounting to Rs. 29,000 million that were owed to private fertilizer companies for the purchase of fertilizers over several years.
+
+The minister made this statement during a discussion held today (22) at the Ministry of Agriculture and Plantation Industries, focusing on the progress of the Youth Agri-Entrepreneurship Village Programme.
+
+Efforts are now underway to develop 160 villages across the island as the Youth Agri-Entrepreneurship Villages, with the aim of increasing food production, raising the income level of farmers, and attracting the youth to agricultural activities.
+
+The government has allocated Rs. 1,600 million for this purpose, and accordingly, each village will be provided Rs. 10 million under the first phase of project.
+
+...
+
+[Data](articles/dabe2135.json)
+
+---
+
+### චමරිගෙන් ශතකයක්
+
+*2024-07-22 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199088) · `si`
+
+ආසියානු කුසලාන කාන්තා ක්‍රීකට් තරගාවලියේ ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ මලයාසියානු කාන්තා කණ්ඩායම අතර තරගය මේ වනවිට දඹුල්ලේ පැවැත්වෙයි.
+
+පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කාන්තා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 04ක් දැවී ලකුණු 184ක් රැස් කර ගැනීම සමත්විය.
+
+එම තරගයේ දී ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ නායිකා චමරි අතපත්තු නොදැවී ලකුණු 119ක් රැස් කිරීමට සමත් වූවාය.
+
+ඇය එම ශතකය රැස් කර තිබුණේ හතරේ පහර 14ක් සහ හයේ පහර 7ක් එල්ල කරමිනි.
+
+එය අසියානු කුසලාන කාන්තා 20යි 20 ක්‍රිකට් තරගයක රැස්කළ පළමු ශතකයද වෙයි.
+
+◼️
+
+[Data](articles/c4b90ec1.json)
+
+---
+
+### 'நாற்பது  வயது குழந்தை நகுல்' -  'வாஸ்கோடகாமா' பட இயக்குநர் ஆர் ஜி கே
+
+*2024-07-22 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189095) · `ta`
+
+'நடிகர் நகுல் -நாற்பது வயது குழந்தை' என 'வாஸ்கோடகாமா' பட இயக்குநர் ஆர் ஜி கே தெரிவித்திருக்கிறார்.
+
+அறிமுக இயக்குநர் ஆர் ஜி கே இயக்கத்தில் உருவாகி இருக்கும் 'வாஸ்கோடகாமா' எனும் திரைப்படத்தில் நகுல், அர்த்தனா பினு, கே. எஸ். ரவிக்குமார், ஆனந்தராஜ், முனிஸ் காந்த், வம்சி கிருஷ்ணா, பிரேம் குமார், மன்சூர் அலி கான், ரெடின் கிங்ஸ்லி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+என். எஸ். சதீஷ்குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு என். வி. அருண் இசையமைத்திருக்கிறார். டார்க் ஹியுமர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை 5656 புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் டத்தோ பி. சுபாஷ்கரன் தயாரித்திருக்கிறார்.
+
+எதிர்வரும் ஓகஸ்ட் மாதம் இரண்டாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் இந்த திரைப்படத்தின் இசை மற்றும் முன்னோட்ட வெளியிட்டு விழா சென்னையில் சிறப்பாக நடைபெற்றது. இதன் போது பட குழுவினருடன் இயக்குநர் கே. எஸ். ரவிக்குமார்- அறிவழகன்- நடிகர் சாந்தனு பாக்யராஜ்- ஜெகன் ஆகியோர் சிறப்பு அதிதிகளாக பங்கு பற்றினர்.
+
+...
+
+[Data](articles/f9e356e2.json)
+
+---
+
+### Presidential Election: Tamil parties to nominate common candidate
+
+*2024-07-22 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100697/presidential-election-tamil-parties-to-nominate-common-candidate) · `en`
+
+Several Tamil political parties and a group of civil society representatives have reached an agreement to nominate a common candidate for the forthcoming Presidential Election.
+
+Accordingly, seven Tamil political parties including the Tamil People’s Alliance and seven civil society representatives have signed this agreement in Jaffna this morning (22).
+
+The signatories include C. V. Vigneswaran of Tamil People’s Alliance, Selvam Adaikkalanathan of Tamil Eelam Liberation Organization (TELO), D. Siddharthan of People’s Liberation Organisation Tamil Eelam (PLOTE), Srikantha of Tamil National Party and Suresh Premachandran of Eelam People’s Revolutionary Liberation Front (EPRLF).
+
+◼️
+
+[Data](articles/322df998.json)
+
+---
 
 ### Two youths arrested after man found murdered inside cultivation hut
 
@@ -49,6 +121,8 @@ Two suspects, aged 25 and 27 years, have been arrested on suspicion of committin
 ◼️
 
 [Data](articles/636074d3.json)
+
+[Extended Data](ext_articles/636074d3.ext.json)
 
 ---
 
@@ -222,7 +296,13 @@ He also assured the Postal Department is committed to the safe exchange of all p
 
 *2024-07-22 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100694/court-orders-arrest-of-minister-jeevan-thondaman-) · `en`
 
-The Nuwara Eliya Magistrate’s Court has ordered the police to arrest Minister of Plantation and Water Supply Jeevan Thondaman and to produce him before the court.
+The Nuwara-Eliya Magistrate’s Court has ordered the police to arrest the General Secretary of Ceylon Workers’ Congress (CWC), Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman and to produce him before the court.
+
+This order has been issued after Nuwara-Eliya Police reported facts to the court today (22), regarding the incident where the CWC General Secretary had allegedly stormed into the Pedro Tea Factory, controlled under Kelani Valley Plantations PLC, along with a group of his supporters on May 30, 2024.
+
+Ada Derana reporter said that although the police had informed the accused involved in the incident including Minister Thondaman, in writing, to appear before the court today (22), they had failed to do so.
+
+Therefore, the Nuwara-Eliya Acting Magistrate has ordered the police to arrest the suspects including the Minister and to produce them before the court.
 
 ◼️
 
@@ -2227,81 +2307,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/3e91fc21.json)
 
 [Extended Data](ext_articles/3e91fc21.ext.json)
-
----
-
-### Hirdaramani Group invests Rs.10 billion in new textile plant, ‘Mihila Tex’
-
-*2024-07-22 01:39:00* · [`islandlk`](http://island.lk/hirdaramani-group-invests-rs-10-billion-in-new-textile-plant-mihila-tex/) · `en`
-
-Hirdaramani Group, recently announced its latest milestone in advancing sustainable apparel production with a Rs.10 billion investment in a cutting-edge new textile mill, ‘Mihila Tex’ in Pannala, Sri Lanka.
-
-This state-of-the-art facility will play a pivotal role in reshaping the future of the apparel industry and bolstering Sri Lanka’s position as a sustainable manufacturing hub. The Group will collaborate with Hengda Textiles in this venture, a leading global textile manufacturer and technical partner renowned for its innovation and commitment to sustainability.
-
-‘Mihila Tex’ is part of the Hirdaramani Group’s long-term strategy to strategically grow its apparel business in Sri Lanka and strengthen its local value chain to minimise the extensive outflow of foreign exchange for raw material imports, while providing optimised apparel solutions to its customers worldwide.
-
-Key highlights of the joint venture and ‘Mihila Tex’ in Pannala include:
-
-...
-
-[Data](articles/77233b52.json)
-
-[Extended Data](ext_articles/77233b52.ext.json)
-
----
-
-### Advocata calls for SOE reforms without delay
-
-*2024-07-22 01:39:00* · [`islandlk`](http://island.lk/advocata-calls-for-soe-reforms-without-delay/) · `en`
-
-The  Advocata Institute held a  press briefing titled “Unlocking Economic Potential: Why Debt Restructuring Alone Won’t Suffice Without SOE Reforms” on the 17th of July,2024  at the BMICH.
-
-The event brought together key speakers Shihar Aneez (Senior Financial Journalist), Rehana Thowfeek (Research Consultant to Advocata Institute), and Dhananath Fernando (CEO of Advocata Institute) to address the critical need for transparency and reforms in Sri Lanka’s State-Owned Enterprises (SOEs).
-
-...
-
-[Data](articles/bdc840f7.json)
-
-[Extended Data](ext_articles/bdc840f7.ext.json)
-
----
-
-### Jevna Kings became the fourth time champion
-
-*2024-07-22 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189039) · `ta`
-
-Jevna Kings clinched the Champions title for the fourth time in the Fifth Lanka Premier League finale, defeating Colombo. Despite losing one wicket in 15.4 overs, they scored 185 runs, thanks to Riley Roussev's 105 runs off 52 balls and Kusal Mendis' 72 runs.
-
-🟩
-
-Jevna Kings won the Champions title for the fourth time in the final of the Fifth Lanka Premier League chapter.
-
-Colombo r. In the final of the final match, the first match was held in the final match of the match.
-
-In reply, Jevna Kings lost one wicket in 15.4 overs and scored 185 runs.
-
-Riley Roussev scored 105 runs in 52 balls and Kusal Mendis scored 72 runs.
-
-◼️
-
-[Data](articles/153efa7d.json)
-
-[Extended Data](ext_articles/153efa7d.ext.json)
-
----
-
-### ‘Shell’ lubricants dealer N M Distributors gets enjoining orders preventing alleged illegal operation of competitor biz set up by employees
-
-*2024-07-22 01:28:42* · [`dailyftlk`](https://www.ft.lk/business/Shell-lubricants-dealer-N-M-Distributors-gets-enjoining-orders-preventing-alleged-illegal-operation-of-competitor-biz-set-up-by-employees/34-764569) · `en`
-
-The plaintiff, N M Distributors Ltd., has instituted legal proceedings in respect of various defendants, including two employees of the plaintiff and two illegal competitive businesses that had been set up by the employees during the course of employment.
-
-The plaintiff’s position, as set out in its plaint, is that they are importers of various lubricants and oils for motoring and industrial purposes including the world-renowned ‘Shell’ brand. However, two current employees of the plaintiff, the first defendant and his relative, the second defendant, had set up two illegal competing businesses to the plaintiff company during the course of employment with the plaintiff, despite being bound by confidentiality, non-compete and non-disclosure clauses in their contracts of employment.
-
-...
-
-[Data](articles/c1cb91e5.json)
-
-[Extended Data](ext_articles/c1cb91e5.ext.json)
 
 ---

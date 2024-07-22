@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 20:20:13**
+As of **2024-07-22 20:35:50**
 
 ## Newspaper Stats
 
-*Scraped **36,615** Articles*
+*Scraped **36,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ dbsjeyarajcom | 321
 colombotelegraphcom | 345
 bbccomsinhala | 357
 newsfirstlk | 363
-islandlk | 2,083
+islandlk | 2,084
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,307
+adalk | 3,308
 adaderanalk | 4,246
 tamilmirrorlk | 4,469
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,615 (100.0%) of 36,615 articles have been extended.
+36,615 (100.0%) of 36,617 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -155,6 +155,24 @@ Basically, those who are entitled to demanding peak autonomy. In addition, the S
 [Data](articles/faddec86.json)
 
 [Extended Data](ext_articles/faddec86.ext.json)
+
+---
+
+### අයි.එම්.එෆ්. සමග දැනටමත් සාකච්ඡා ආරම්භ කළා
+
+*2024-07-22 18:26:58* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-දැනටමත්-සාකච්ඡා-ආරම්භ-කළා/11-410916) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමග මේ වන විටත් සාකච්ඡා ආරම්භ කොට ඇති බවත් එහිදී ජනතාවගේ පැත්තෙන් මානුෂීය එකඟතාවයන්ට යා යුතුව තිබෙන බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි .
+
+ඒ මහතා ඊයේ (21) මහනුවරට පැමිණ ශ්‍රී දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මාධ්‍ය හමුවේ වැඩිදුරටත් අවධාරණය කර සිටියේ ජනතාව මත පටවා තිබෙන අසීමිත බදු බරෙන් ඔවුන් මුදවාගත යුතුව තිබෙන බවත් ඒ සම්බන්ධයෙන් ජාත්‍යන්තර මූල්‍ය අරමුදල සමග මේ වන විටත් සාකච්ඡා ආරම්භ කොට ඇති බවයි .
+
+ජනතාව විඳින අසීමිත පීඩාවන් තේරුම් ගැනීමට පාලකයන්ට සහ කම්පනය තිබිය යුතු බවත් පැවසූ ප්‍රේමදාස මහතා වත්මන් පාලකයන් කටයුතු කරනු ලබන්නේ සහ කම්පනයක් නොමැති පුද්ගලයන් ලෙසද පැවසීය .
+
+විසි දෙවන ව්‍යවස්ථා සංශෝධනයට අදාළ ගැසට් පත්‍රය ගණන් නොගන්නා බව පැවසූ විපක්ෂ නායකවරයා බොරු වැඩ වලට අනවශ්‍ය ප්‍රචාර ලබා නොදෙන ලෙසද ඉල්ලා සිටියේය . කවුරුන් කෙසේ පැවසුවද ජනාධිපතිවරණය අනිවාර්යෙන් පවත්වන බව අවධාරණය කළ ඒ මහතා 24 පැයේ දින 365පුරා ජනතා සේවයට කැපවී සිටින තමන්ට මැතිවරණ අලුත් දෙයක් නොවන බවද පැවසීය .
+
+...
+
+[Data](articles/7d187209.json)
 
 ---
 
@@ -2331,27 +2349,5 @@ I'm here to assist with programming and technical tasks. Could you please provid
 [Data](articles/6c7e1831.json)
 
 [Extended Data](ext_articles/6c7e1831.ext.json)
-
----
-
-### Suspects including Tatuj Malli
-
-*2024-07-22 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199074) · `si`
-
-Seven suspects, including Tatuj Malli, involved in the KTB spring incident in Athurugiriya have been remanded and brought to the Kaduwela Magistrate's Court under heavy security. The incident resulted in four injuries, including popular singer K. Aljewa.
-
-🟩
-
-According to our correspondent, the seven suspects who have been remanded in the case of KTB spring in Athurugiriya have been brought to court.
-
-It is reported that the suspects of the Tatu Center and the suspects were taken to the Kaduwela Magistrate's Court at the center of heavy security guards.
-
-Four were injured in the shooting by the shooting carried out on July 08 and the popular singer K. Aljewa was among them.
-
-◼️
-
-[Data](articles/3c2a6035.json)
-
-[Extended Data](ext_articles/3c2a6035.ext.json)
 
 ---

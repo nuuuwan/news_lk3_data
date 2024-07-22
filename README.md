@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 22:35:49**
+As of **2024-07-22 22:54:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,623 (100.0%) of 36,625 articles have been extended.
+36,625 (100.0%) of 36,625 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Premadasa underscored the urgent need for a national programme to eradicate chil
 ...
 
 [Data](articles/5c3a732a.json)
+
+[Extended Data](ext_articles/5c3a732a.ext.json)
 
 ---
 
@@ -260,19 +262,25 @@ The President made this announcement during the “Abhiman- 2024” event held y
 
 ---
 
-### ගුරුපත්වීම් 16,000ක් ලබාදී ගුරු හිඟය විසඳුවා
+### The shortage of teacher was resolved by 16,000 teachers
 
 *2024-07-22 19:15:14* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුපත්වීම්-16-000ක්-ලබාදී-ගුරු-හිඟය-විසඳුවා/11-410918) · `si`
 
-ආර්ථික දුෂ්කරතා හමුවේ වුවත් ජාතික මට්ටමින් සහ පළාත් මට්ටමින් ගුරු පත්වීම් 16,000ක ප්‍රමාණයක් ලබා දෙමින් ගුරු හිඟයට විසඳුම් ලබාදීමට රජය සමත් වූ බව බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+In response to the nationwide teacher shortage, the Sri Lankan government recruited 16,000 teachers, addressing both national and provincial needs amidst economic challenges. This move was part of broader efforts to recover from the COVID-19 pandemic under the leadership of President Ranil Wickremesinghe. Additionally, the government secured funding for school uniforms and textbooks for 2025, expanded lunch programs to all schools benefiting 1.7 million students, and resumed development work at the University of Sarani. Efforts are also underway to resolve professional issues for teachers, with support from the Public Service Commission and plans to digitize schools with the help of the Asian Development Bank.
 
-ජනතාව ඉතිහාසයේ දුෂ්කරම තත්ත්වයට මුහුණ දී සිටියදී කිසිවෙකු රට ගොඩ ගැනීමේ වගකීම භාරනොගත් පසුබිමක ජනාධිපති රනිල් වික්‍රමසිංහ ප්‍රමුඛ ආණ්ඩුව රටේ වගකීම භාරගෙන වසර දෙකක් තුළ රට යථා තත්ත්වයට ගෙන ඒමට කටයුතු කළ බවත් ඒ සම්බන්ධව වන මතාකාවර්ජනයක් මේ මොහොතේ අත්‍යාවශ්‍ය බවත් අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (22) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Minister of Education Susil Premajayantha said that the government was able to address the shortage of 16,000 teachers at national level and provincial level, despite economic hardship.
+
+The Minister said that the government was taken to restore the country in two years and was essential for the country's responsibility for the face of the country when the people were in the face of the difficulty in the history of the country.
+
+Minister of Education Susil Premajayantha made this statement participating at a press conference held at the Presidential Media Center today (22).
 
 ...
 
 [Data](articles/f32bbab3.json)
+
+[Extended Data](ext_articles/f32bbab3.ext.json)
 
 ---
 

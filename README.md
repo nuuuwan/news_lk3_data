@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 01:20:22**
+As of **2024-07-23 01:35:53**
 
 ## Newspaper Stats
 
-*Scraped **36,648** Articles*
+*Scraped **36,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,084
 economynextcom | 2,191
-dailyftlk | 2,329
+dailyftlk | 2,336
 adalk | 3,311
 adaderanalk | 4,248
 tamilmirrorlk | 4,472
@@ -26,27 +26,155 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,647 (100.0%) of 36,648 articles have been extended.
+36,648 (100.0%) of 36,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### பிரசாரத்தை ஆரம்பித்தார் கமலா ஹரிஸ்
+### PAFFREL slams Govt. attempt to utilise public funds to retain power
+
+*2024-07-23 01:19:03* · [`dailyftlk`](https://www.ft.lk/news/PAFFREL-slams-Govt-attempt-to-utilise-public-funds-to-retain-power/56-764623) · `en`
+
+PAFFREL Executive Director Rohana Hettiarachchi urges Govt. to refrain from introducing any amendments that would necessitate a referendum
+
+Questions why Govt. is attempting to introduce an amendment that would require a referendum costing Rs. 10 b if the economic crisis is ongoing
+
+Says unacceptable for Govt. to propose amendments leading to a referendum when LG polls were postponed due to lack of funds
+
+Clarifies 22A cannot delay elections or necessitate a referendum before the Presidential poll
+
+People’s Action for Free and Fair Elections (PAFFREL) Executive Director Rohana Hettiarachchi has accused the Government of attempting to use public funds to maintain its hold on power amidst the ongoing economic crisis.
+
+...
+
+[Data](articles/f59ac341.json)
+
+---
+
+### Tamil groups sign MoU to field common Presidential candidate
+
+*2024-07-23 01:17:11* · [`dailyftlk`](https://www.ft.lk/news/Tamil-groups-sign-MoU-to-field-common-Presidential-candidate/56-764622) · `en`
+
+Several North and East-based Tamil political parties and civil society organisations have agreed to nominate a common Tamil candidate for the upcoming Presidential election.
+
+A related Memorandum of Understanding (MoU) was also signed in Jaffna yesterday to formalise this agreement, according to sources.
+
+The agreement was signed by the Tamil Eelam Liberation Organization (TELO) led by MP  Selvam Adaikkalanathan, People’s Liberation Organisation of Tamil Eelam (PLOTE) led by MP Dharmalingam Siddharthan, Tamil United Political Front (TUPF), led by MP C.V. Vigneswaran, Tamil National Party led by Attorney-At-Law N. Sri Kantha and Eelam People’s Revolutionary Liberation Front (EPRLF) led by former MP Suresh Premachandran.
+
+The Tamil People’s Maha Sabha, which inclu-des various Tamil civil organisations, has also signed the agreement.
+
+...
+
+[Data](articles/e1f14c51.json)
+
+---
+
+### AKD calls on Japan’s State Minister of Foreign Affairs
+
+*2024-07-23 01:16:44* · [`dailyftlk`](https://www.ft.lk/news/AKD-calls-on-Japan-s-State-Minister-of-Foreign-Affairs/56-764621) · `en`
+
+National People’s Power (NPP) leader Anura Kumara Dissanayake held a meeting with Japan’s State Minister of Foreign Affairs Tsuge Yoshifumi yesterday. The NPP said Dissanayake, who is currently on tour in Japan and Tsuge discussed the current economic and political situation in Sri Lanka, the long-term friendship between the two countries, and future steps in diplomatic and economic relations while special attention was also given to the upcoming Presidential election. The State Minister had also extended his best wishes to Dissanayake on his visit to Japan.
+
+◼️
+
+[Data](articles/258ba499.json)
+
+---
+
+### SJB submits three letters to ECSL on misuse of State resources for election campaigning
+
+*2024-07-23 01:15:21* · [`dailyftlk`](https://www.ft.lk/news/SJB-submits-three-letters-to-ECSL-on-misuse-of-State-resources-for-election-campaigning/56-764620) · `en`
+
+SJB says police have become politicised and are conducting community policing meetings presided over by the President as an election propaganda tactics
+
+Expressed opposition to entrepreneurship and employment fairs being conducted by Labour and Foreign Employment Ministry
+
+Says they are being used as election propaganda events and lacks any transparency
+
+Notes development activities are being carried out across the country in a way that promotes regional political party leaders aligned with Govt. in preparation for the upcoming elections
+
+...
+
+[Data](articles/f55f2220.json)
+
+---
+
+### Chevron to donate $ 35,000 to Sri Lanka Red Cross Society for well-cleaning program in flood-affected districts
+
+*2024-07-23 01:12:45* · [`dailyftlk`](https://www.ft.lk/news/Chevron-to-donate-35-000-to-Sri-Lanka-Red-Cross-Society-for-well-cleaning-program-in-flood-affected-districts/56-764619) · `en`
+
+From left: SLRCS Director Branch Development Kumari Kotalawala, Senior Vice President Jagath Abeysinghe, Director General Dr. Mahesh Gunasekara, Chevron Lubricants Lanka Managing Director/CEO Bertram Paul, Head of Marketing Tehan Samarasinha and SLRCS Dr. Sidhhartha Nanayakkara
+
+Chevron Lubricants Lanka PLC (CLLP) announced yesterday its intention to donate
+
+$ 35,000 to the Sri Lanka Red Cross Society (SLRCS) as flood relief, specifically towards the cleaning of 1,500 wells in the Colombo and Matara districts, considering the devastation caused by floods during the first week of June 2024.
+
+The project aims to directly benefit 1,500 families (approximately 7,500 individuals) in the flood-affected districts. Priority will be given to the most vulnerable populations, including children, the elderly, and individuals with compromised health conditions in Colombo and Matara districts.
+
+...
+
+[Data](articles/5ec3fdcd.json)
+
+---
+
+### Refrigerated trucks from UNICEF supported by Japan to boost immunisation services
+
+*2024-07-23 01:10:52* · [`dailyftlk`](https://www.ft.lk/news/Refrigerated-trucks-from-UNICEF-supported-by-Japan-to-boost-immunisation-services/56-764618) · `en`
+
+Health Minister Dr. Ramesh Pathirana, Japanese Ambassador Mizukoshi Hideaki, Health Secretary Dr. Palitha Mahipala, and Acting UNICEF Representative Begoña Arellano joined the handover ceremony of nine refrigerated trucks, procured by UNICEF via funding from the Government of Japan
+
+The Health Ministry has received nine refrigerated trucks procured by UNICEF with, funding from the Government of Japan to further improve the delivery system of vaccines to all children, across Sri Lanka.
+
+The trucks were handed over by Ambassador of Japan Mizukoshi Hideaki and Acting UNICEF Representative Begoña Arellano to Health Minister Dr. Ramesh Pathirana.
+
+Dr. Pathirana said: “I welcome the support of the Government of Japan and UNICEF to further strengthen immunisation, which is a key pillar of Sri Lanka’s healthcare system. These refrigerated trucks will boost the ability of the Health Ministry to transport vaccines in a safe and timely manner.”
+
+...
+
+[Data](articles/4d6ec0a1.json)
+
+---
+
+### CareStation’s “Inspire and Ignite” event uplifts community with education, recognition
+
+*2024-07-23 01:09:01* · [`dailyftlk`](https://www.ft.lk/news/CareStation-s-Inspire-and-Ignite-event-uplifts-community-with-education-recognition/56-764617) · `en`
+
+CareStation, a prominent Sri Lankan non-profit, celebrated its achievements and dedication to helping underprivileged communities at its successful “Inspire and Ignite: An Evening of Impact” event held at Icon Hyatt in Dehiwala.
+
+It brought together community leaders, philanthropists, and volunteers united by a common goal: to make a positive difference.
+
+CareStation, co-founded by Razni Razick and Khalib Cassim, is a registered non-political and non-religious organisation with a dedicated team of over 368 volunteers across 22 districts. The evening served as a testament to their remarkable impact throughout Sri Lanka.
+
+Two significant milestones marked the night: the relaunch of CareStation’s website and the inauguration of a new free educational centre for underprivileged children.
+
+...
+
+[Data](articles/1b3cfc94.json)
+
+---
+
+### Kamala Haris started the campaign
 
 *2024-07-23 00:43:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரசாரத்தை-ஆரம்பித்தார்-கமலா-ஹரிஸ்/50-340858) · `ta`
 
-ஜனநாயகக் கட்சியை ஓரணியாகத் திரட்டி அமெரிக்க ஜனாதிபதித் தேர்தலில் டொனால்ட் டிரம்பை தோற்கடித்து, வீழ்த்திக் காட்டுவோம் என அமெரிக்கத் துணை ஜனாதிபதி கமலா ஹரிஸ் சூளுரைத்துள்ளார்.
+Kamala Harris, the US Vice President, has launched her presidential campaign against Donald Trump, focusing on women's contraceptive rights and protecting democracy.
 
-அமெரிக்க ஜனாதிபதித் தேர்தலில் ஜனநாயகக் கட்சியின் வேட்பாளராகப் போட்டியிட்ட ஜோ பைடன் விலகியதுடன், கமலா ஹரிஸை முன்னிறுத்தினார்.
+🟩
 
-இதனைத் தொடர்ந்து , ஜனாதிபதி வேட்பாளராக கமலா ஹரிஸ் தனது பிரசாரத்தைத் தொடங்கியுள்ளார்.
+US Vice President Kamala Haris has called for Donald Trump to defeat the Democratic Party and defeat Donald Trump.
 
-பெண்களின் கருத்தடை உரிமை, ஜனநாயகத்தை ட்ரம்பிடமிருந்து காப்பது உள்ளிட்டவற்றை முன்னிலைப்படுத்தி பிரசாரம் செய்ய கமலா திட்டமிட்டுள்ளார். (a)
+Joe Bidan, who contested the Democratic candidate in the US presidential election, resigned and presented Kamala Haris.
+
+Following this, Kamala Haris has started her campaign as the presidential candidate.
+
+Kamala plans to promote women's contraceptive rights and protect democracy from Trump. (A)
 
 ◼️
 
 [Data](articles/78c720a3.json)
+
+[Extended Data](ext_articles/78c720a3.ext.json)
 
 ---
 
@@ -2171,165 +2299,5 @@ On Thursday, the government said it had dropped plans to sell a minority stake o
 [Data](articles/111fc185.json)
 
 [Extended Data](ext_articles/111fc185.ext.json)
-
----
-
-### Pinwatta OIC threatened with death by Dubai drug dealer
-
-*2024-07-22 12:18:00* · [`adalk`](https://www.ada.lk/breaking_news/පින්වත්ත-OIC-ට-ඩුබායි-මත්කුඩු-ජාවාරම්කරුවෙකුගෙන්-මරණ-තර්ජන/11-410909) · `si`
-
-A Dubai-based drug dealer threatened the OIC of Panadura police over the phone. The OIC, along with three others, was arrested for drug possession. Senior officers deny receiving any threat reports, emphasizing the need to protect the Inspector General of Police.
-
-🟩
-
-Panadura Police sources said that the OIC of Panadurai police OIC has been threatened by a strong drug dealer in Dubai state.
-
-The Pinwatta OIC Chief Inspector of Police is said to have been threatened by telephones.
-
-It is said that the disciple of a powerful drug dealer in Sri Lanka has been threatened.
-
-According to police sources, three others, including a sister and three others, have been arrested by the Pinwatta OIC with drugs.
-
-Despite senior police officers Panadura inquired about the incident, they stated that they have not reported regarding such a threat.
-
-However, he said that the focus of senior officials should be paid to the risk of the main Inspector General of Police, an officer who performs duties.
-
-◼️
-
-[Data](articles/9689838f.json)
-
-[Extended Data](ext_articles/9689838f.ext.json)
-
----
-
-### Woman arrested for drug trafficking targeting schoolchildren
-
-*2024-07-22 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100690/woman-arrested-for-drug-trafficking-targeting-schoolchildren) · `en`
-
-The Police Special Task Force (STF) has arrested a woman involved in trafficking intoxicating pills targeting schoolchildren.
-
-The arrest was made during a special raid carried out based on a tip-off received by the officers of Gonahena Police STF camp, the police said.
-
-The 44-year-old woman, a resident of the Webada area, was in the possession of 230 intoxicating pills intended for sale to schoolchildren at the time of the arrest, according to police.
-
-The suspect has been handed over to the Kadawatha Police for further investigation.
-
-◼️
-
-[Data](articles/478458a9.json)
-
-[Extended Data](ext_articles/478458a9.ext.json)
-
----
-
-### Many celebrities in America support Kamala Haris
-
-*2024-07-22 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189072) · `ta`
-
-Celebrities like Jamie Lee Curtis and Barbra Streisand support Kamala Harris, highlighting her reliability and dedication to women's and minorities' rights. Joe Biden, former VP, also backs Harris, appreciating her contributions during divisive times in the U.S., while Oscar-winner Streisand thanks him for safeguarding democracy.
-
-🟩
-
-Kamala Haris has expressed his support for Kamala Haris as Kamala Haris has expressed his desire to quit Jobitin from the US presidential election.
-
-Actress Jami Lee Hadris says Haris is reliable and is deeply tested by people.
-
-He said that when the United States has faced a national divide for the rights of women and non -whites, he said.
-
-This is the world of women that you live in it.
-
-Joe Baiton, who quit the comedian on the X site, has posted as Legent.
-
-Oscar -winning actress Barbara Straisand has said that we should be grateful to Joo Baidan for protecting our democracy.
-
-◼️
-
-[Data](articles/412d5b27.json)
-
-[Extended Data](ext_articles/412d5b27.ext.json)
-
----
-
-### The government is not coming because the government has no two-thirds power, a referendum
-
-*2024-07-22 12:11:30* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-තුනෙන්-දෙකේ-බලයක්-නැති-නිසා-ජනමත-විචාරණයක්-එන්නේ-නෑ/11-410908) · `si`
-
-Vijitha Herath, MP and National Executive Secretary, stated that due to the lack of two-thirds power in the government, the 22nd Amendment needed for a referendum cannot be passed. This situation prevents any referendum from taking place, affecting decisions like setting the date for the Presidential election and nomination submission.
-
-🟩
-
-The National Executive Committee of the National Executive Committee of the National Executive Secretary, MP Vijitha Herath has said that no referendum is not passed by the 22nd Amendment.
-
-Maskeliya Youth Meeting in Kusakeiya Estate People under the theme. Speaking to the media at the ceremony, Vijitha Herath said so.
-
-"The government has no two-thirds power today. 22 The parliament cannot be adopted. That means no referendum. Their efforts do not work. So there is no doubt. By next week, the date on the date of the Presidential election and the date to submit nominations. Definition is definitely presidential vote. None of these people do not have any alms. "
-
-◼️
-
-[Data](articles/49e1e604.json)
-
-[Extended Data](ext_articles/49e1e604.ext.json)
-
----
-
-### 75 lakhs of rupees for youth in Jaffna - three persons including two women
-
-*2024-07-22 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189068) · `ta`
-
-In Jaffna, three individuals, including two women, were arrested for allegedly defrauding others out of 75 lakh rupees and facilitating their overseas travel. The arrests followed complaints about money laundering and deception. Those detained come from various locations: Manipay, Kattankudi, Kalutara, and Dehiwala.
-
-🟩
-
-Three women, including two women, have been arrested for allegedly sending them overseas to Jaffna youth.
-
-Jaffna police have arrested three persons, who are investigating the complaint filed by three persons who have been deceived by the money laundering for those who have been sent abroad.
-
-Police have arrested a woman from Manipayi, a man from Kattankudi area and a resident of Kalutara, who is currently living in Kalutara, and a man from Jaffna who is currently living in Dehiwala.
-
-◼️
-
-[Data](articles/c80d0e1d.json)
-
-[Extended Data](ext_articles/c80d0e1d.ext.json)
-
----
-
-### Sri Lanka receives Japan-funded refrigerated trucks for vaccine delivery via UNICEF
-
-*2024-07-22 11:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-receives-japan-funded-refrigerated-trucks-for-vaccine-delivery-via-unicef-173258/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s ministry of health has received nine refrigerated trucks procured by the United Nation’s Children’s Fund (UNICEF) with funding from the government of Japan to improve delivery of vaccines to all children.
-
-UNICEF said in a statement that the trucks were ceremoniously handed over to Health Minister Ramesh Pathirana by Ambassador of Japan to Sri Lanka Mizukoshi Hideaki and Acting UNICEF Representative in Sri Lanka Begoña Arellano.
-
-The trucks are part of a total contribution of 3 million US dollars from Japan that funded cold chain equipment, including large, walk-in cold rooms to store vaccines at safe temperatures, portable vaccine carriers and temperature monitors, which have already been handed over to the Ministry of Health intermittently from 2021 to date, UNICEF said.
-
-...
-
-[Data](articles/bda412cd.json)
-
-[Extended Data](ext_articles/bda412cd.ext.json)
-
----
-
-### Working to scholarship children unfairly
-
-*2024-07-22 11:57:38* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-අකුරට-වැඩ-කිරීමෙන්-ශිෂ්‍යත්ව-ළමුන්ට-අසාධාරණයක්/11-410907) · `si`
-
-Parents argue that students preparing for scholarships should also support teachers' salary protests. Despite teaching extra hours for exams, including after-school sessions in the Kelaniya Education Zone, many schools participate. The Principal notes that despite similar efforts from unions, there's been no progress due to lack of union involvement.
-
-🟩
-
-Parents say that the students who are ready to contest to the letter to the letter to the scholarship protestor to resolve the salaries of the teacher's salaries.
-
-Although they have been teaching the scholarship examination to the Scholarship Examination, even for about two hours after school hours in the Kelaniya Education Zone, many schools have been involved in the scholarship examination.
-
-The Principal that the trade unions that are not in advanced by the trade unions that they have done the same duties in these two weeks and have no effect on the trade unions.Chairman of the Service Association Sunil Premathilaka said
-
-◼️
-
-[Data](articles/c0922c19.json)
-
-[Extended Data](ext_articles/c0922c19.ext.json)
 
 ---

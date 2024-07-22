@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 15:07:00**
+As of **2024-07-22 15:20:25**
 
 ## Newspaper Stats
 
-*Scraped **36,565** Articles*
+*Scraped **36,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,300
+adalk | 3,301
 adaderanalk | 4,236
 tamilmirrorlk | 4,465
 dailymirrorlk | 4,733
 virakesarilk | 5,725
-adaderanasinhalalk | 6,134
+adaderanasinhalalk | 6,137
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,563 (100.0%) of 36,565 articles have been extended.
+36,565 (100.0%) of 36,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### රුපියල් මිලියන 29,000ක ණය රජය ගෙවා දමයි
+
+*2024-07-22 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199086) · `si`
+
+වසර ගණනාවක් පොහොර මිලදී ගැනීම වෙනුවෙන් පුද්ගලික පොහොර සමාගම්වලට නොගෙවා තිබු රුපියල් මිලියන 29,000ක හිඟ ණය මුදල් සියල්ල  රජය විසින්  මේ වනවිට ගෙවා අවසන් කර ඇතැයි කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+
+තරුණ කෘෂි ව්‍යවසායකත්ව ගම්මාන වැඩ සටහනෙහි ප්‍රගතිය සම්බන්ධව අද (22) කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ දී පැවති සාකච්ඡාවක් අමතමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+ආහාර නිෂ්පාදනය ඉහළ නැංවීම, ගොවි ජනතාවගේ ආදායම් මට්ටම ඉහළ නැංවීම හා තරුණ ප්‍රජාව කෘෂිකර්මාන්තයට ආකර්ශනය කරගැනීම ඉලක්ක කරමින් තරුණ කෘෂි ව්‍යවසායකත්ව ගම්මාන වශයෙන් දිවයිනේ ගම්මාන 160ක් සංවර්ධනය කිරීමට මේ වනවිට කටයුතු යොදා ඇත.
+
+මේ සඳහා රජය විසින් වෙන් කර ඇති මුදල රුපියල් මිලියන 1600කි. ඒ අනුව එක ගම්මානයකට පළමු අදියර යටතේ රුපියල් මිලියන 10ක් මුදලක් බැගින් ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා ලබා දී තිබේ.
+
+රුපියල් මිලියන 29,000ක් වැනි අති විශාල මුදලක් පොහොර සමාගම්වලට හිඟ මුදල් වශයෙන් ගෙවීමට තිබු නිසා බොහෝ සමාගම් මුල්‍යමය වශයෙන් දුර්වල තත්ත්වයකට මුහුණ දෙමින් සිටියේය.
+
+◼️
+
+[Data](articles/dffe765e.json)
+
+---
 
 ### Postal Dept. ready for upcoming Presidential Election - Deputy Postmaster General
 
@@ -48,6 +68,8 @@ He also assured the Postal Department is committed to the safe exchange of all p
 
 [Data](articles/42f5b2fa.json)
 
+[Extended Data](ext_articles/42f5b2fa.ext.json)
+
 ---
 
 ### Court orders arrest of Minister Jeevan Thondaman
@@ -59,6 +81,40 @@ The Nuwara Eliya Magistrate’s Court has ordered the police to arrest Minister 
 ◼️
 
 [Data](articles/3e69db04.json)
+
+[Extended Data](ext_articles/3e69db04.ext.json)
+
+---
+
+### ද්‍රවිඩ පක්ෂවලින් පොදු අපේක්ෂකයෙක් ?
+
+*2024-07-22 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199084) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා පොදු අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට ද්‍රවිඩ දේශපාලන පක්ෂ කිහිපයක් සහ සිවිල් සංවිධාන කිහිපයක් එකඟ වී තිබේ.
+
+අප වාර්තාකරු පැවසුවේ ද්‍රවිඩ දේශපාලන පක්ෂ 7ක් සහ සිවිල් සංවිධාන 7ක් ඒ සඳහා වූ එකඟතාවයට අත්සන් තැබූ බවයි.
+
+◼️
+
+[Data](articles/0159f681.json)
+
+---
+
+### තොණ්ඩමන් ව අත්අඩංගුවට ගන්නැයි අධිකරණ නියෝගයක්
+
+*2024-07-22 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199083) · `si`
+
+ලංකා කම්කරු කොංග්‍රසයේ මහ ලේකම් සහ වතු යටිතල පහසුකම් හා ජල ප්‍රවාහන අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා ඇතුළු සැකකරුවන් කිහිපදෙනෙකු අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කරන ලෙසට නුවරඑළිය වැඩබලන මහෙස්ත්‍රාත් ජයමිණී අඹගහවත්ත මහතා විසින් නුවරඑළිය පොලීසියට නියෝග කර ඇත.
+
+පසුගිය මැයි (30) දින අමාත්‍ය ජීවන් තොන්ඩමන් මහතා ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවන් පිරිසක් කැලණි වැලි සමාගම යටතේ පාලනය වන නුවරඑළියේ තේ කර්මාන්ත ශාලාවකට බලහත්කාරයෙන් ඇතුළු වීමේ සිද්ධිය සම්බන්ධයෙන් නුවරඑළිය පොලීසිය විසින් අධිකරණය හමුවේ අද (22) කරුණු වාර්තා කළේය.
+
+එම අවස්ථාවේ දී මහෙස්ත්‍රාත්වරයා විසින් මෙම නියෝගය නිකුත් කර ඇත.
+
+මැයි 30 වන දින කැලණි වැලි වතු සමාගමට අයත් නුවරඑළියේ තේ කර්මාන්ත ශාලාව තුළට අමාත්‍යවරයා ඇතුළු ලංකා කම්කරු කොංග්‍රසයේ ආධාරකරුවන් පිරිසක් බලහත්කාරයෙන් ඇතුළු වී දණ්ඩ නීති සංග්‍රහයට පටහැනිව කටයුතු කරමින් ක්‍රියාකිරීම සම්බන්ධයෙන් නුවරඑළිය පොලීසිය මඟින් අධිකරණය හමුවේ කරුණු වාර්තා කර තිබුණි.
+
+...
+
+[Data](articles/bd3f937f.json)
 
 ---
 
@@ -435,6 +491,22 @@ Oscar -winning actress Barbara Straisand has said that we should be grateful to 
 [Data](articles/412d5b27.json)
 
 [Extended Data](ext_articles/412d5b27.ext.json)
+
+---
+
+### ආණ්ඩුවට තුනෙන් දෙකේ බලයක් නැති නිසා ජනමත විචාරණයක් එන්නේ නෑ
+
+*2024-07-22 12:11:30* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-තුනෙන්-දෙකේ-බලයක්-නැති-නිසා-ජනමත-විචාරණයක්-එන්නේ-නෑ/11-410908) · `si`
+
+22 වන ව්‍යවස්ථා සංශෝධනය ගැන කිසිදු දෙගිඩියාවක් තියා ගත යුතු නොමැති බවත්, එය පාර්ලිමේන්තුවේ තුනෙන් දෙකක බලයකින් සම්මත වෙන්නේ නැති බවත්, ඒ අනුව ජනමත විචාරණයක් නොඑන බවත් ජාතික ජනබලවේගයේ ජාතික විධායක සභික, පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතා (21) දා පස්වරුවේ මස්කෙළියේදී පැවසීය.
+
+“පුනරුදයට රටම එකට” යන තේමාව යටතේ මස්කෙළිය වතු ජනතාව දැණුම්වත් කරමින් මලෛයගම් ජනතා සභා ජන  හමුව මස්කෙළිය පී.එම්.ඩී. උත්සව ශාලාවේදී පැවති අවස්ථාවේදී මාධ්‍ය වෙත අදහස් දක්වමින් විජිත හේරත් මහතා එසේ පැවසීය.
+
+“අද වෙනකොට ආණ්ඩුවට තුනෙන් දෙකක බලයක් නෑ. 22 පාර්ලිමේන්තුවට දැම්මට සම්මත කර ගන්න බෑ. ඒ කියන්නේ ජනමත විචාරණයක් එන්නේ නෑ. ඒ අයගේ උත්සාහයෙන් වැඩක් වෙන්නේ නෑ. ඒ නිසා කිසිදු දෙගිඩියාවක් තියාගත යුතු නෑ. ලබන සතිය වෙනකොට මැතිවරණ කොමිෂම ජනාධිපති ඡන්දය තියන දිනය හා නාම යෝජනා භාරදිය යුතු දිනය ප්‍රකාශයට පත් කරනවා. අනිවාර්යෙන් නියමිත පරිදි ජනාධිපති ඡන්දය එනවා. මේ අය දාන වෙට්ටු එකක්වත් හරියන්නේ නෑ.”
+
+◼️
+
+[Data](articles/49e1e604.json)
 
 ---
 
@@ -2185,107 +2257,5 @@ a) A Bill for the amendment or for the repeal and replacement of or which is inc
 [Data](articles/4a96d74c.json)
 
 [Extended Data](ext_articles/4a96d74c.ext.json)
-
----
-
-### US President Joe Biden drops out of 2024 presidential race, endorses Kamala Harris
-
-*2024-07-22 00:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100678/us-president-joe-biden-drops-out-of-2024-presidential-race-endorses-kamala-harris) · `en`
-
-President Joe Biden dropped out of the 2024 race for the White House on Sunday, ending his bid for reelection following a disastrous debate with Donald Trump that raised doubts about his fitness for office just four months before the election.
-
-The decision comes after escalating pressure from Biden’s Democratic allies to step aside following the June 27 debate, in which the 81-year-old president trailed off, often gave nonsensical answers and failed to call out the former president’s many falsehoods. Biden endorsed Vice President Kamala Harris to take on Trump, and encouraged his party to united behind her.
-
-Biden plans to serve out the remainder of his term in office, which ends at noon ET on Jan. 20, 2025.
-
-...
-
-[Data](articles/00255bb3.json)
-
-[Extended Data](ext_articles/00255bb3.ext.json)
-
----
-
-### For the fourth time in LPL, the King of Mudisuda was Jevna Kings;Riley Roov, Kusal Mendis lightened the victory
-
-*2024-07-22 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189041) · `ta`
-
-In the fifth Lanka Premier League (LPL), Jevna Kings clinched victory against Colombo by 9 wickets, marking the fourth time Jevna Kings has won the title. Key contributions came from Riley Rousseau, who scored an unbeaten century and half-century, and Kusal Mendis, sharing a record-breaking partnership of 185 runs. Despite facing an early setback with Bethum Nissank losing the first ball, Rousseau and Mendis stabilized the innings, with Rousseau making 106 off 53 balls and Mendis contributing 72 off 40 balls. Earlier, Goal Marvels, batting first, managed 184 runs in 20 overs, with notable performances from Tim Seebird and Panuka Rajapaksa. Fernando and Jason Behreve led the bowling attack for Jevna Kings, securing the win. The champions received a cash prize of Rs 3 crore 35 lakh.
-
-🟩
-
-Jevna Kings became the fourth time King Jevna Kings, who won the Fifth Lanka Premier League chapter by 9 wickets by 9 wickets.
-
-Riley Rousseau's accumulation of unbeaten century and half a century in Kusal Mendis made Jevna Kings's victory.
-
-Colombo r. Jevna Kings lost only 185 runs in 15.4 overs and lost 185 runs in 15.4 overs.
-
-Jevna Kings faced a severe crisis as Bethum Nissank lost the first ball.
-
-However, Riley Roussev and Kusal Mendis both played the best wicket and shared 185 runs in the second wicket, which made Jeevna Kings' victory.
-
-In the history of the Sri Lanka Premier League, this link was recorded as the best link for all wickets.
-
-Railie Roussev faced 53 balls and scored 106 runs without losing 9 fours and 7 sixes, while Kusal Mendis scored 72 off 40 balls, including 8 pounds and 2 sixes.
-
-Earlier, Goal Marvels, who was first invited to bat, scored 184 runs for the loss of 6 wickets in 20 overs.
-
-...
-
-[Data](articles/e55b5f1d.json)
-
-[Extended Data](ext_articles/e55b5f1d.ext.json)
-
----
-
-### My student is not a Tamil National Emotion
-
-*2024-07-22 00:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்த்-தேசிய-உணர்ச்சி-என்-மாணவனுக்கு-இல்லை/175-340796) · `ta`
-
-Despite his qualifications, a student in the Tamil party lacks Tamil nationality, according to CV Vigneswaran. He emphasized the importance of seeing things through the lens of Tamil nationalism, hinting at a focus on national identity over individual qualifications.
-
-🟩
-
-My dear student in the Tamil party has a variety of qualifications, but he does not have a Tamil nationality. "He is not the one who can see everything from the brain and feels," said CV Vigneswaran, Secretary -General of the Tamil People's Alliance and Member of Parliament.
-
-Responding to a question raised by journalists, Wickremesinghewaran said this to the question of whether there is a possibility of traveling with him in the future, with the TNA parliamentarian Sridharan has invited the National Conference of the Tamil People's Alliance.
-
-He added during a media briefing held in Jaffna on Saturday (20).
-
-There is a close connection between us and Sridharan in the manner of Tamil nationalist parties and people with Tamil nationalism.
-
-In this way, my dear student has a variety of qualifications, but he does not have a Tamil nationality. He is not able to see everything from the brain and the sensation.
-
-We expect Sridharan to become the leader of the TNA. We welcome the same.
-
-...
-
-[Data](articles/c9b82592.json)
-
-[Extended Data](ext_articles/c9b82592.ext.json)
-
----
-
-### 24 Community Universities
-
-*2024-07-22 00:08:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24க்கு-24-சமுதாய-பல்கலைக்கழகங்கள்/175-340795) · `ta`
-
-To foster a knowledge-based economy, establishing 24 open community universities across 24 districts is proposed. These institutions aim to democratize higher education, enhancing opportunities for learners nationwide. The initiative, part of the Universal Information Technology Program, emphasizes lifelong learning and skill development, promoting economic growth and social inclusion. Led by Opposition Leader Sajith Premadasa, this venture seeks to bridge the gap between urban and rural areas, offering new educational pathways and fostering a motivated, skilled workforce.
-
-🟩
-
-To build a knowledge -based economy, we need to create a community of learners. For this we need to start 24 open community universities in 24 districts in our country. Opposition leader Sajith Premadasa said that there are already open universities in Sri Lanka.
-
-As a student, I think open community universities should be established at district levels and enhance the entry of higher education. He said that this would increase the opportunity to increase in the community.
-
-Under the Universal Information Technology Program, Kandy, Udunuwara, Taulkala, Weligalala Udu Aludeniya Maha Vidyalaya was held on July 21st.. He said this while addressing the event.
-
-Educated intellectuals, scholars and expertise will develop more. This will create a generation of higher education, with higher education, skills, and salaries.. This can promote a lifetime learning process.
-
-...
-
-[Data](articles/3114ee7e.json)
-
-[Extended Data](ext_articles/3114ee7e.ext.json)
 
 ---

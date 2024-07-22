@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 13:05:27**
+As of **2024-07-22 13:20:23**
 
 ## Newspaper Stats
 
-*Scraped **36,547** Articles*
+*Scraped **36,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,232
 tamilmirrorlk | 4,462
 dailymirrorlk | 4,733
 virakesarilk | 5,719
-adaderanasinhalalk | 6,131
+adaderanasinhalalk | 6,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,547 (100.0%) of 36,547 articles have been extended.
+36,547 (100.0%) of 36,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### පවිත්‍රා ගේ ගැසට්ටුවට එරෙහි පෙත්සම විභාගයට
+
+*2024-07-22 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199080) · `si`
+
+මන්නාරම වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයෙන් කොටසක් රක්ෂිත භාවයෙන් මුදාහරිමින් වනජීවී අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය විසින් නිකුත්කළ ගැසට් නිවේදනයක් බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (22) අවසර ලබාදුන්නේය.
+
+පරිසර යුක්ති කේන්ද්‍රය ඇතුළු පිරිසක් විසින් ඉදිරිපත්කළ මෙම මූලික අයිතිවාසිකම් පෙත්සම සලකාබැලීමෙන් අනතුරුව ප්‍රීති පද්මන් සූරසේන සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+ඉන් අනතුරුව පෙත්සම් විභාගය නොවැම්බර් මස 12 වනදා පැවැත්වීමට ද අධිකරණය දින නියම කළේය.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ රක්ෂිත වනාන්තර කලාපයක් ලෙස නම්කර තිබෙන වෙඩිතලතිව් රක්ෂිත කලාපයෙන් අක්කර දෙදහස් පන්සීයකට ආසන්න භූමි ප්‍රමාණයක් ඉස්සන් වගාවට යැයි සඳහන් කරමින් රක්ෂිත භාවයෙන් මුදාහැරීම සඳහා වනජීවී විෂයභාර අමාත්‍යවරිය විසින් ගැසට් නිවේදනයක් නිකුත් කර ඇති බවයි.
+
+...
+
+[Data](articles/b5053c83.json)
+
+---
 
 ### Sri Lanka elections: president to announce decision in due course, invites rivals
 
@@ -2249,27 +2267,5 @@ However, the trade unions led by Ven. Ulapane Sumangala Thero have refused to pa
 [Data](articles/bbcba4c0.json)
 
 [Extended Data](ext_articles/bbcba4c0.ext.json)
-
----
-
-### We expect the Commission to announce the day of nominations within this week- SM Marikar
-
-*2024-07-21 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189036) · `ta`
-
-SM Marikar anticipates the Election Commission will reveal nomination dates this week, unimpeded by government delays. Candidates must outline repayment strategies for loans and propose income growth plans, focusing on reducing taxes and stabilizing commodity prices.
-
-🟩
-
-The Election Commission has been given the authority to carry out it without any restrictions, despite the government's efforts in various ways to delay the presidential election.. United People's Power MP SM Marikar said that the Commission expects the Commission to announce the day for nominations within this week.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Sunday (21).
-
-The Election Commission has been given the authority to carry out it without any restrictions, despite the government's efforts in various ways to delay the presidential election.. Accordingly, the Commission has announced that it will announce the date of nominations this week. It can be announced on Tuesday -Fridays, except for the election law.
-
-...
-
-[Data](articles/04f3b26f.json)
-
-[Extended Data](ext_articles/04f3b26f.ext.json)
 
 ---

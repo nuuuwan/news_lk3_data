@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 05:20:05**
+As of **2024-07-22 05:38:15**
 
 ## Newspaper Stats
 
-*Scraped **36,465** Articles*
+*Scraped **36,469** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 321
-colombotelegraphcom | 339
+colombotelegraphcom | 340
 bbccomsinhala | 356
 newsfirstlk | 363
 islandlk | 2,075
@@ -19,18 +19,62 @@ adalk | 3,289
 adaderanalk | 4,218
 tamilmirrorlk | 4,445
 dailymirrorlk | 4,733
-virakesarilk | 5,713
+virakesarilk | 5,716
 adaderanasinhalalk | 6,119
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,465 (100.0%) of 36,465 articles have been extended.
+36,465 (100.0%) of 36,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### அரசியல் நிகழ்ச்சி நிரலுக்கு ஏற்ப நாட்டின் எதிர்காலத்தை வடிவமைக்க ஒருபோதும் இடமளிக்க முடியாது - ஜனாதிபதி
+
+*2024-07-22 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/189043) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்க, வேட்பாளராக நிறுத்தப்பட வேண்டும் என்ற அமைச்சர் பிரசன்ன ரணதுங்கவின் முன்மொழிவை, கம்பஹா மாவட்ட மக்கள் ஏகமனதாக வழிமொழிந்தனர்.
+
+அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள் 26 பேர் உட்பட 250 முன்னாள் உள்ளூராட்சி உறுப்பினர்கள் உட்பட பல்லாயிரக்கணக்கான மக்கள் இக்கூட்டத்தில் பங்கேற்றனர்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்க மீண்டும் ஜனாதிபதியாக போட்டியிட வேண்டும் என்ற முன்மொழிவை கம்பஹா மாவட்ட மக்கள் ஏகமனதாக உறுதிப்படுத்தினர்.
+
+அரசியல் நிகழ்ச்சி நிரல்களுக்கு ஏற்ப நாட்டின் எதிர்காலத்தை வடிவமைக்க தாம் ஒருபோதும் இடமளிக்கப் போவதில்லை எனவும், நாட்டின் நிகழ்ச்சி நிரலுக்கு அமையவே அரசியலை உருவாக்க வேண்டும் எனவும் வலியுறுத்திய ஜனாதிபதி ரணில் விக்ரமசிங்க, சஜித் பிரேமதாச, அநுரகுமார திஸாநாயக்க ஆகியோரை இப்பயணத்தில் இணையுமாறு அழைப்பு விடுத்தார்.
+
+“ஒன்றாக வெல்வோம் – நாம் கம்பஹா ” என்ற தொனிப்பொருளில் ஞாயிற்றுக்கிழமை (21) கடவத்தை பஸ் நிலைய வளாகத்தில் நடைபெற்ற பொதுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/02425851.json)
+
+---
+
+### Jevna Kings became the fourth time champion
+
+*2024-07-22 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189039) · `ta`
+
+Jevna Kings clinched the Champions title for the fourth time in the Fifth Lanka Premier League finale, defeating Colombo. Despite losing one wicket in 15.4 overs, they scored 185 runs, thanks to Riley Roussev's 105 runs off 52 balls and Kusal Mendis' 72 runs.
+
+🟩
+
+Jevna Kings won the Champions title for the fourth time in the final of the Fifth Lanka Premier League chapter.
+
+Colombo r. In the final of the final match, the first match was held in the final match of the match.
+
+In reply, Jevna Kings lost one wicket in 15.4 overs and scored 185 runs.
+
+Riley Roussev scored 105 runs in 52 balls and Kusal Mendis scored 72 runs.
+
+◼️
+
+[Data](articles/153efa7d.json)
+
+[Extended Data](ext_articles/153efa7d.ext.json)
+
+---
 
 ### ‘Shell’ lubricants dealer N M Distributors gets enjoining orders preventing alleged illegal operation of competitor biz set up by employees
 
@@ -132,6 +176,28 @@ He highlighted that, prior to the economic crisis, the Central Bank had the abil
 
 ---
 
+### புளியங்கூடல் கோவில் நகைகள் மீட்பு; உதவி குருக்கள் கைது
+
+*2024-07-22 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189042) · `ta`
+
+யாழ்ப்பாணம், புளியங்கூடல் முத்து விநாயகர் கோவில் நகைகளைக் கொள்ளையிட்ட குற்றச்சாட்டில் 28 வயதான உதவிக் குருக்கள் யாழ்ப்பாணம் மாவட்ட விசேட குற்றத்தடுப்புப் பிரிவுப் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+ஆலயத்தினுள் பாதுகாப்புப் பெட்டகத்தில் வைக்கப்பட்டிருந்த 62 பவுண் நகைகள் மற்றும் 8 லட்சம் ரூபா பணம் என்பன காணாமல் போயிருந்தன.
+
+முறைப்பாட்டின் பிரகாரம் பொலிஸார் விசாரணைகளை முன்னெடுத்து வந்த நிலையில், ஆலயப் பெட்டகம் உடைக்கப்படாது, போலிச் சாவிகளைகளைப் பயன்படுத்தி நகைகள், பணம் என்பன கொள்ளையிடப்பட்டுள்ளமையை பொலிஸார் கண்டறிந்தனர்.
+
+அதனை தொடர்ந்து பொலிஸார் ஆலய மகோற்சவ காலத்தில் ஆலயத்தில் பணியாற்றிய 28 வயதான உதவி குருக்களை கைது செய்து விசாரணைகளை முன்னெடுத்தனர்.
+
+கைது செய்யப்பட்ட நபரிடம் முன்னெடுக்கப்பட்ட விசாரணைகளில் 40 பவுண் நகைகள் மீட்கப்பட்டுள்ளன. ஏனைய நகைகள் வங்கியில் அடகு வைக்கப்பட்டுள்ளமை கண்டறியப்பட்டுள்ளது.
+
+சந்தேகநபரை தொடர்ந்தும் பொலிஸார் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்து வருகின்றனர்
+
+...
+
+[Data](articles/ff71ab51.json)
+
+---
+
 ### US President Joe Biden drops out of 2024 presidential race, endorses Kamala Harris
 
 *2024-07-22 00:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100678/us-president-joe-biden-drops-out-of-2024-presidential-race-endorses-kamala-harris) · `en`
@@ -147,6 +213,26 @@ Biden plans to serve out the remainder of his term in office, which ends at noon
 [Data](articles/00255bb3.json)
 
 [Extended Data](ext_articles/00255bb3.ext.json)
+
+---
+
+### LPLஇல் நான்காவது தடவையாக முடிசூடா மன்னனானது ஜெவ்னா கிங்ஸ்; வெற்றியை ரைலி ரூவோவ், குசல் மெண்டிஸ் இலகுவாக்கினர்
+
+*2024-07-22 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189041) · `ta`
+
+ஐந்தாவது லங்கா பிறீமியர் லீக் அத்தியாயத்தின் இறுதிப் போட்டியில் கோல் மார்வல்ஸ் அணியை 9 விக்கெட்களால் மிக இலகுவாக வெற்றி கொண்ட ஜெவ்னா கிங்ஸ்  நான்காவது தடவையாக முடிசூடா மன்னனானது.
+
+ரைலி ரூசோவ் குவித்த ஆட்டம் இழக்காத அபார சதம், குசல் மெண்டிஸ் குவித்த ஆட்டம் இழக்காத அரைச் சதம் என்பன ஜெவ்னா கிங்ஸின் வெற்றியை இலகுவாக்கின.
+
+கொழும்பு ஆர். பிரேமதாச சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (21) இரவு நடைபெற்ற LPL இறுதிப் போட்டியில் கோல் மார்வல்ஸ் அணியினால் நிர்ணயிக்கப்பட்ட 184 ஓட்டங்கள் என்ற சற்று கடினமான வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய ஜெவ்னா கிங்ஸ் 15.4 ஓவர்களில் ஒரு விக்கெட்டை மாத்திரம் இழந்து 185 ஓட்டங்களைப் பெற்று மிக இலகுவாக வெற்றியீட்டியது.
+
+பெத்தும் நிஸ்ஸன்க முதல் பந்திலேயே ஆட்டம் இழந்ததால் ஜெவ்னா கிங்ஸ் பலத்த நெருக்கடியை எதிர்கொண்டது.
+
+ஆனால், ரைலி ரூசோவ், குசல் மெண்டிஸ் ஆகிய இருவரும் மிகச் சிறப்பாகத் துடுப்பெடுத்தாடி பிரிக்கப்படாத இரண்டாவது விக்கெட்டில் சாதனைமிகு 185 ஓட்டங்களைப் பகிர்ந்து ஜெவ்னா கிங்ஸின் வெற்றியை இலகுவாக்கினர்.
+
+...
+
+[Data](articles/e55b5f1d.json)
 
 ---
 
@@ -297,30 +383,6 @@ It was also decided at the meeting that a development committee comprising 15 me
 [Data](articles/26d54622.json)
 
 [Extended Data](ext_articles/26d54622.ext.json)
-
----
-
-### Jevna Kings became the fourth time champion
-
-*2024-07-21 23:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189039) · `ta`
-
-Jevna Kings clinched the Champions title for the fourth time in the Fifth Lanka Premier League finale, defeating Colombo. Despite losing one wicket in 15.4 overs, they scored 185 runs, thanks to Riley Roussev's 105 runs off 52 balls and Kusal Mendis' 72 runs.
-
-🟩
-
-Jevna Kings won the Champions title for the fourth time in the final of the Fifth Lanka Premier League chapter.
-
-Colombo r. In the final of the final match, the first match was held in the final match of the match.
-
-In reply, Jevna Kings lost one wicket in 15.4 overs and scored 185 runs.
-
-Riley Roussev scored 105 runs in 52 balls and Kusal Mendis scored 72 runs.
-
-◼️
-
-[Data](articles/153efa7d.json)
-
-[Extended Data](ext_articles/153efa7d.ext.json)
 
 ---
 
@@ -2215,81 +2277,5 @@ It is also worth noting that Professor KR Ganesalingam will address a special gu
 [Data](articles/4d1cb7b4.json)
 
 [Extended Data](ext_articles/4d1cb7b4.ext.json)
-
----
-
-### The fate of the mashicon that lies
-
-*2024-07-21 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199045) · `si`
-
-A 16-year-old student from Elpitiya drowned in the Hikkaduwa River while bathing with friends. The incident occurred after they left home to attend a dance event. The body was discovered near the Hikkaduwa Railway Bridge the next day.
-
-🟩
-
-A student of Karandeniya Maha Vidyalaya has died in the Hikkaduwa River to break down in Hikkaduwa River.
-
-The victim was a 16 year old student, a 16 year old resident of Elpitiya, Elpitiya.
-
-Parents said to parents that they were going to dansals and left home yesterday evening.
-
-Nine had gone to the Hikkaduwa River to bath and 5 at 5.30 pm.
-
-The disappearances were scrutinized in collaboration with the disappearance of the roster.
-
-The police said that the student was found in the Hikkaduwa Railway Bridge this morning (21).
-
-◼️
-
-[Data](articles/e0004983.json)
-
-[Extended Data](ext_articles/e0004983.ext.json)
-
----
-
-### Bangladesh extends curfew ahead of court hearing on controversial job quotas
-
-*2024-07-21 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100662/bangladesh-extends-curfew-ahead-of-court-hearing-on-controversial-job-quotas) · `en`
-
-Bangladesh extended a curfew on Sunday to control violent student-led protests that have killed at least 114 people, as authorities braced for a Supreme Court hearing later in the day on government job quotas that sparked the anger.
-
-Soldiers have been on patrol on the streets of capital Dhaka, the centre of the demonstrations that spiralled into clashes between protesters and security forces.
-
-Internet and text message services in Bangladesh have been suspended since Thursday, cutting the nation off as police cracked down on protesters who defied a ban on public gatherings.
-
-A curfew ordered late on Friday has been extended to 3 p.m. (0900 GMT) on Sunday, until after the Supreme Court hearing, and will continue for an “uncertain time” following a two-hour break for people to gather supplies, local media reported.
-
-...
-
-[Data](articles/a80f8576.json)
-
-[Extended Data](ext_articles/a80f8576.ext.json)
-
----
-
-### If the local government election was held, Sri Lanka's fate was still tragic
-
-*2024-07-21 11:26:10* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-පැවැත්වුවා-නම්-තවමත්-ලංකාවේ-ඉරණම-ඛේදනීයයි/11-410888) · `si`
-
-In a speech addressing foreign heads of local authorities, Sri Lankan President Ranil Wickremesinghe highlighted the country's financial constraints, stating that allocating resources for local government elections was not feasible amidst pressing national priorities such as importing essential goods like drugs and fuel. He emphasized the challenges faced since assuming office, including economic collapse and political instability, and outlined efforts to stabilize the economy and provide relief to citizens through initiatives like distributing rice and offering housing rights. Despite opposition claims and internal disputes, Wickremesinghe expressed confidence in the government's ability to navigate these challenges and urged unity towards a shared vision for Sri Lanka's future, focusing on employment creation, poverty reduction, and women's empowerment.
-
-🟩
-
-President Ranil Wickremesinghe said that if the country had spent money for the local government election, President Ranil Wickremesinghe said.
-
-The President said that although the president had had a number of factors that should be allocated more than the election, he was able to proceed with the economy of the country.
-
-President Ranil Wickremesinghe expressed his views to the Foreign Heads of Local Authorial in Sri Jayewardenepura, Sri Jayawardenapura and Monarch Imperial Hotel.
-
-The meeting was organized following the request made by the local government representatives island wide.
-
-President Ranil Wickremesinghe further said,
-
-By the time I was accepting the country two years ago, the country was in a number of crises. Law and politics were not only a crash but also. However, the party's centers have also taken place.
-
-...
-
-[Data](articles/6b576346.json)
-
-[Extended Data](ext_articles/6b576346.ext.json)
 
 ---

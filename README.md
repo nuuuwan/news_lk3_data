@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 03:20:23**
+As of **2024-07-23 03:35:45**
 
 ## Newspaper Stats
 
@@ -31,6 +31,32 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### 455 697 applications in the second phase of 455 697 applications without bank accounts
+
+*2024-07-23 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/189121) · `ta`
+
+The second phase of the Aswesa Project received 4,55,697 applications, with the review process nearing completion by the end of this month. Despite selecting 18,54,518 beneficiaries in the first phase, around 2 lakh lacked necessary documents, hindering allowance disbursement. The project aims to assist low-income individuals, allocating financial aid based on categories like poverty level and age, with officers collecting data from applicant homes. Challenges include beneficiaries lacking bank accounts and national identity cards, affecting approximately 2.35 lakh individuals' ability to receive funds.
+
+🟩
+
+4 lakhs 55 697 applications have been received in the second phase. Welfare Benefits Council Chairman Jayantha Wijeratne said that the process of reviewing them is expected to be completed by the end of this month.
+
+Jayantha Wijeratne said that although 18 lakhs 54 518 beneficiaries were selected in the first phase, about 2 lakh beneficiaries were unable to obtain their allowances due to lack of national identity cards and bank accounts.
+
+He further stated at a press conference held at the Presidential Media Center on Monday (22).
+
+More than 34 million applications for the first phase of the Aswesa Project were eligible for 1,854,518 benefits to benefit. Of them, 30 percent of the low -income earners were given financial assistance under 4 categories.
+
+5000 rupees for beneficiaries in the affected category and Rs.. This section was initially given only until last March. But in view of the current economic status, it has been decided to pay a allowance of Rs.
+
+...
+
+[Data](articles/a68a5362.json)
+
+[Extended Data](ext_articles/a68a5362.ext.json)
+
+---
 
 ### PAFFREL slams Govt. attempt to utilise public funds to retain power
 
@@ -687,32 +713,6 @@ The Kasippu has been conducting the racket for a long time in the central market
 [Data](articles/0ce49847.json)
 
 [Extended Data](ext_articles/0ce49847.ext.json)
-
----
-
-### 455 697 applications in the second phase of 455 697 applications without bank accounts
-
-*2024-07-22 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/189121) · `ta`
-
-The second phase of the Aswesa Project received 4,55,697 applications, with the review process nearing completion by the end of this month. Despite selecting 18,54,518 beneficiaries in the first phase, around 2 lakh lacked necessary documents, hindering allowance disbursement. The project aims to assist low-income individuals, allocating financial aid based on categories like poverty level and age, with officers collecting data from applicant homes. Challenges include beneficiaries lacking bank accounts and national identity cards, affecting approximately 2.35 lakh individuals' ability to receive funds.
-
-🟩
-
-4 lakhs 55 697 applications have been received in the second phase. Welfare Benefits Council Chairman Jayantha Wijeratne said that the process of reviewing them is expected to be completed by the end of this month.
-
-Jayantha Wijeratne said that although 18 lakhs 54 518 beneficiaries were selected in the first phase, about 2 lakh beneficiaries were unable to obtain their allowances due to lack of national identity cards and bank accounts.
-
-He further stated at a press conference held at the Presidential Media Center on Monday (22).
-
-More than 34 million applications for the first phase of the Aswesa Project were eligible for 1,854,518 benefits to benefit. Of them, 30 percent of the low -income earners were given financial assistance under 4 categories.
-
-5000 rupees for beneficiaries in the affected category and Rs.. This section was initially given only until last March. But in view of the current economic status, it has been decided to pay a allowance of Rs.
-
-...
-
-[Data](articles/a68a5362.json)
-
-[Extended Data](ext_articles/a68a5362.ext.json)
 
 ---
 

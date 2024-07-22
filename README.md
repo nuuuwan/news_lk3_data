@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 06:25:49**
+As of **2024-07-22 05:38:15**
 
 ## Newspaper Stats
 
-*Scraped **36,477** Articles*
+*Scraped **36,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 321
 colombotelegraphcom | 340
 bbccomsinhala | 356
 newsfirstlk | 363
-islandlk | 2,083
+islandlk | 2,075
 economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,289
@@ -26,149 +26,29 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,466 (100.0%) of 36,477 articles have been extended.
+36,465 (100.0%) of 36,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### Agcelerator demo-day unveils innovative agribusiness solutions
-
-*2024-07-22 01:58:00* · [`islandlk`](http://island.lk/agcelerator-demo-day-unveils-innovative-agribusiness-solutions/) · `en`
-
-The Sri Lanka Agripreneurs’ Forum, in collaboration with the United States Agency for International Development (USAID) through its CATALYZE Sri Lanka Private Sector Development (PSD) Activity recently hosted a successful Agcelerator Demo-Day at TRACE Expert City.
-
-The event showcased the innovative spirit and entrepreneurial drive of individuals passionate about agriculture and innovation, and 60 leading investors, funding agencies, and companies joined the event to witness these inspiring pitches.
-
-The highlight of the Demo-Day was the pitch competition, where 10 finalists presented their business ideas to potential investors and agribusiness enthusiasts. These finalists had undergone extensive training through bootcamps guided by expert mentors in the industry, supported by continuous guidance from the Sri Lanka Agripreneurs’ Forum.
-
-CoinCeylon & Intersect MBO launch South Asia’s First Community Hub in Sri Lanka
-
-...
-
-[Data](articles/a7a831f0.json)
-
----
-
-### Dr. Hayeshika Fernando recognised at Business World International Awards and 10th APLA Conference
-
-*2024-07-22 01:58:00* · [`islandlk`](http://island.lk/dr-hayeshika-fernando-recognised-at-business-world-international-awards-and-10th-apla-conference/) · `en`
-
-Dr. Hayeshika Fernando, Sri Lankas market leading online tutor for Grade Five Scholarship Examination students, was recently awarded as the Most Popular Scholarship Lecturer at the Business World International Awards. Organized by the Business World International Organization, the award ceremony was recently held at the Taj Samudra Hotel in Colombo. In addition, she was also honored by the All Island Professional Lecturers Association (APLA) during its 10th biannual conference. President Ranil Wickremesinghe, who graced the conference, presented the award, recognizing her significant service towards improving education in Sri Lanka.
-
-...
-
-[Data](articles/cdccb2b9.json)
-
----
-
-### Sanasa Life Insurance becomes official insurance partner of Ananda Walk 2024
-
-*2024-07-22 01:58:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-becomes-official-insurance-partner-of-ananda-walk-2024/) · `en`
-
-Sanasa Life Insurance has become part of Ananda Walk 2024. A collaborated event, together with the past and present pupils of Ananda College, Ananda Walk 2024 stands out as a successfully celebrated event.
-
-The objective of sponsoring this event is based on Sanasa Life Insurance’s commitment to fostering education and sports within the country. Sanasa Life Insurance takes its commitment towards social responsibility very seriously. Commenting on the organization’s focus on fostering better futures for the youth of Sri Lanka, Ivan Nicholas, Chief Executive Officer said “As a forerunner in the field of insurance, Sanasa Life Insurance is proud to play a pivotal part in youth development of this country. Our outreach extends beyond event sponsorship. It includes our corporate ethics and ethical practices as an organization geared to support activities that enrich the mind, body, and spirit of the younger generations of this country”.
-
-...
-
-[Data](articles/d887622d.json)
-
----
-
-### Never allow the future of the country to be shaped in accordance with the political agenda - the president
+### அரசியல் நிகழ்ச்சி நிரலுக்கு ஏற்ப நாட்டின் எதிர்காலத்தை வடிவமைக்க ஒருபோதும் இடமளிக்க முடியாது - ஜனாதிபதி
 
 *2024-07-22 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/189043) · `ta`
 
-It seems like you've shared a detailed narrative focused on political discourse surrounding the potential candidacy of Ranil Wickremesinghe for the upcoming presidential election in Sri Lanka, emphasizing his leadership during a challenging economic period and calling for unity and support for his campaign. How can I assist you further with this information? Are you looking for analysis, summary, or perhaps need assistance with another task related to this topic?
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்ரமசிங்க, வேட்பாளராக நிறுத்தப்பட வேண்டும் என்ற அமைச்சர் பிரசன்ன ரணதுங்கவின் முன்மொழிவை, கம்பஹா மாவட்ட மக்கள் ஏகமனதாக வழிமொழிந்தனர்.
 
-🟩
+அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள் 26 பேர் உட்பட 250 முன்னாள் உள்ளூராட்சி உறுப்பினர்கள் உட்பட பல்லாயிரக்கணக்கான மக்கள் இக்கூட்டத்தில் பங்கேற்றனர்.
 
-The people of the Gampaha district unanimously proposed the proposal of Minister Prasanna Ranatunga to field President Ranil Wickremesinghe as a candidate in the upcoming presidential election.
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்க மீண்டும் ஜனாதிபதியாக போட்டியிட வேண்டும் என்ற முன்மொழிவை கம்பஹா மாவட்ட மக்கள் ஏகமனதாக உறுதிப்படுத்தினர்.
 
-Tens of thousands of people, including 250 former local members, participated in the meeting.
+அரசியல் நிகழ்ச்சி நிரல்களுக்கு ஏற்ப நாட்டின் எதிர்காலத்தை வடிவமைக்க தாம் ஒருபோதும் இடமளிக்கப் போவதில்லை எனவும், நாட்டின் நிகழ்ச்சி நிரலுக்கு அமையவே அரசியலை உருவாக்க வேண்டும் எனவும் வலியுறுத்திய ஜனாதிபதி ரணில் விக்ரமசிங்க, சஜித் பிரேமதாச, அநுரகுமார திஸாநாயக்க ஆகியோரை இப்பயணத்தில் இணையுமாறு அழைப்பு விடுத்தார்.
 
-The people of the Gampaha district unanimously confirmed the proposal that Ranil Wickremesinghe should re -contest the upcoming presidential election.
-
-President Ranil Wickremesinghe, Sajith Premadasa and Anurakumara Dissanayake called on the journey, demanding that he would never be allowed to design the country's future in accordance with political agendas.
-
-President Ranil Wickremesinghe said this while addressing a public meeting held at the Kadawatha Bus Stand Complex on Sunday (21) under the theme "Let's win - Nam Gampaha".
+“ஒன்றாக வெல்வோம் – நாம் கம்பஹா ” என்ற தொனிப்பொருளில் ஞாயிற்றுக்கிழமை (21) கடவத்தை பஸ் நிலைய வளாகத்தில் நடைபெற்ற பொதுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
 
 ...
 
 [Data](articles/02425851.json)
-
-[Extended Data](ext_articles/02425851.ext.json)
-
----
-
-### A new bill introduced to address bankrupt businesses
-
-*2024-07-22 01:39:00* · [`islandlk`](http://island.lk/a-new-bill-introduced-to-address-bankrupt-businesses/) · `en`
-
-A new institution named “Enterprise Sri Lanka” has been established to empower micro, small, and medium enterprises. President Ranil Wickremesinghe said recently.He stated that it is not feasible to indefinitely maintain the temporarily suspended Parate law. Consequently, a new bill will be introduced to address bankrupt businesses.
-
-The President also mentioned that the proposed bill includes provisions for restructuring loans taken by Micro, Small and Medium Enterprises (MSME).
-
-Additionally, a new institution named “Enterprise Sri Lanka” will be established to provide necessary support and assistance to Micro, Small and Medium-Scale Entrepreneurs. The President emphasized that the government is committed to encouraging and empowering these entrepreneurs in Sri Lanka.
-
-...
-
-[Data](articles/24a66cd9.json)
-
----
-
-### SriLankan Airlines restores Internet booking services following global outage
-
-*2024-07-22 01:39:00* · [`islandlk`](http://island.lk/srilankan-airlines-restores-internet-booking-services-following-global-outage/) · `en`
-
-SriLankan Airlines’ internet booking services have been fully restored following the recent global outage of third-party service providers that affected the airline’s online booking services.
-
-“We understand that this may have impacted the experience of some of our passengers, and we sincerely apologize for any inconvenience caused.”
-
-“For any further assistance with existing or new bookings, please contact our Global Contact Centre at +94 19733 1979. We deeply appreciate our customers’ understanding during this time,” SriLankan Arlines said issuing a press release.
-
-Hirdaramani Group invests Rs.10 billion in new textile plant, ‘Mihila Tex’
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/3e91fc21.json)
-
----
-
-### Hirdaramani Group invests Rs.10 billion in new textile plant, ‘Mihila Tex’
-
-*2024-07-22 01:39:00* · [`islandlk`](http://island.lk/hirdaramani-group-invests-rs-10-billion-in-new-textile-plant-mihila-tex/) · `en`
-
-Hirdaramani Group, recently announced its latest milestone in advancing sustainable apparel production with a Rs.10 billion investment in a cutting-edge new textile mill, ‘Mihila Tex’ in Pannala, Sri Lanka.
-
-This state-of-the-art facility will play a pivotal role in reshaping the future of the apparel industry and bolstering Sri Lanka’s position as a sustainable manufacturing hub. The Group will collaborate with Hengda Textiles in this venture, a leading global textile manufacturer and technical partner renowned for its innovation and commitment to sustainability.
-
-‘Mihila Tex’ is part of the Hirdaramani Group’s long-term strategy to strategically grow its apparel business in Sri Lanka and strengthen its local value chain to minimise the extensive outflow of foreign exchange for raw material imports, while providing optimised apparel solutions to its customers worldwide.
-
-Key highlights of the joint venture and ‘Mihila Tex’ in Pannala include:
-
-...
-
-[Data](articles/77233b52.json)
-
----
-
-### Advocata calls for SOE reforms without delay
-
-*2024-07-22 01:39:00* · [`islandlk`](http://island.lk/advocata-calls-for-soe-reforms-without-delay/) · `en`
-
-The  Advocata Institute held a  press briefing titled “Unlocking Economic Potential: Why Debt Restructuring Alone Won’t Suffice Without SOE Reforms” on the 17th of July,2024  at the BMICH.
-
-The event brought together key speakers Shihar Aneez (Senior Financial Journalist), Rehana Thowfeek (Research Consultant to Advocata Institute), and Dhananath Fernando (CEO of Advocata Institute) to address the critical need for transparency and reforms in Sri Lanka’s State-Owned Enterprises (SOEs).
-
-...
-
-[Data](articles/bdc840f7.json)
 
 ---
 
@@ -2235,5 +2115,167 @@ President Wickremesinghe made these remarks while attending a meeting with forme
 [Data](articles/29402240.json)
 
 [Extended Data](ext_articles/29402240.ext.json)
+
+---
+
+### A gaza meets a viral variety of viral
+
+*2024-07-21 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199046) · `si`
+
+The World Health Organization (WHO) reports a rapidly spreading polio virus variant, VDPV2, discovered in Gaza through waste samples. This poses a significant risk to Palestinians, especially in Khan Yunis and Beit Hanoun areas where six samples were found. Immediate action is needed to contain this outbreak.
+
+🟩
+
+The World Health Organization says that a variety of polio virus that can be infected with a very fast-rapidly infected with Gaza
+
+The viral variety was found in waste samples obtained from Gaza.
+
+If the virus is infected, those people are likely to be found.
+
+The World Health Organization and Gaza said that the Palestinians face a huge risk.
+
+The pollio virus is identified as VDPV2 and has found six samples obtained from 6 samples taken from Khan Unice and Da al-waa.
+
+◼️
+
+[Data](articles/6d1e29c3.json)
+
+[Extended Data](ext_articles/6d1e29c3.ext.json)
+
+---
+
+### The Central Committee will decide on the post of Leadership of Parliament - Sumanthiran
+
+*2024-07-21 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/188982) · `ta`
+
+The Central Committee will decide on the leadership of the Tamil Nadu Parliamentary Committee of the Sri Lanka Party, with MA Sumanthiran continuing his role until then. The demand for the position of Relo's leader and Vanni district parliamentarian Selvam Adakkalanathan arose due to the vacancy of the Chairman post. A high-level meeting of the Tamil National Party (TNA) led to a consensus that the central executive should convene to make a decision. Despite being announced, the Central Executive Committee meeting scheduled for the 14th in Vavuniya has been postponed. Meanwhile, Sumanthiran suggested sharing the parliamentary committee leadership with Sreedharan, but this idea was not adopted.
+
+🟩
+
+The party's spokesman and the party spokesman said that my usual role will continue until the decision is taken, as the party has to take a decision on the leadership of the Tamil Nadu Parliamentary Committee of the Sri Lanka Party.. District Parliamentarian MA Sumanthiran said.
+
+The vacuum of the post of Chairman of the Tamil Nadu State Party Parliamentary Committee. In this backdrop, the demand was made to provide the position of Relo's leader and Vanni district parliamentarian Selvam Adakkalanathan.
+
+In this context, Sumanthiran said that the Tamil National Party (TNA) in Parliament, Relo and Plot, said that the TNA was in response to the Tamil party.. This was followed by a political high -level meeting of the TNA.
+
+At the same time, the consensus that the Relo and Plot, which acts as the Democratic Tamil National Alliance (TNA), cannot give up the post, it was agreed that the central executive would convene and decide on it.. This issue has been announced for Relo and Plot.
+
+...
+
+[Data](articles/808733f3.json)
+
+[Extended Data](ext_articles/808733f3.ext.json)
+
+---
+
+### Initially inauguration
+
+*2024-07-21 11:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விகமனிக-ஹரசர-நிகழ்ச்சி-ஆரம்பிப்பு/175-340748) · `ta`
+
+The inaugural phase of the "Vikamanika Harasara" event, aimed at transforming diaspora workers into entrepreneurs through self-employment grants, was launched at the Kurunegala Satyavadi Stadium under President Ranil Wickremesinghe's leadership.
+
+🟩
+
+The first phase of the "Vikamanika Harasara" event organized by the nationwide "Vikamanika Harasara" event was inaugurated at the Kurunegala Satyavadi Stadium, headed by President Ranil Wickremesinghe.
+
+It is noteworthy that 50,000 rupees each to start self -employment in order to convert diaspora workers into entrepreneurs.
+
+◼️
+
+[Data](articles/3268d833.json)
+
+[Extended Data](ext_articles/3268d833.ext.json)
+
+---
+
+### The Provincial Council system is in our election manifesto - Jaffna. National People's Power at Meeting with Merchant Club
+
+*2024-07-21 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/188975) · `ta`
+
+The National People's Power, in a meeting with the Jaffna Vidyalaya Association, discussed plans to amend the Constitution to strengthen the Provincial Council system, as outlined in their election manifesto. They emphasized their commitment to improving the economy, increasing domestic production, and addressing the national ethnic issue through constitutional reform. The party also responded to the Merchants' Association's call for parliamentary action on the 13th Amendment, indicating willingness to discuss further.
+
+🟩
+
+We will take action within a short time to rule the provincial council system in the Constitution. The National People's Power said that our election manifesto included that.
+
+The above issue was revealed when a meeting between the Jaffna Vidyalaya Association and the National People's Power was held in Jaffna.
+
+Commenting on the meeting, the National People's Power Campaign Secretary Vijitha Herath said, "We have revealed our economic policies during the marriage with the Jaffna Varikar Association.
+
+Increase the country's economic conditions, increase domestic products and make partners in the economic reconstruction project, clearly clarified the positions of the National People's Power.. We have expressed our position on the national ethnic problem.
+
+In particular, we will take steps to reign the Provincial Council system in the Constitution within a short time.
+
+...
+
+[Data](articles/06ea75ca.json)
+
+[Extended Data](ext_articles/06ea75ca.ext.json)
+
+---
+
+### Arrest
+
+*2024-07-21 11:44:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசங்க-அபேகுணசேகர-கைது/175-340747) · `ta`
+
+Asanga Abeygunasekera, former director of the National Security Study Institute, was arrested at Katunayake International Airport. The arrest came as he was about to leave the country, linked to a case involving the Internal Revenue Department.
+
+🟩
+
+Former Director of the National Security Study Institute Asanga Abeygunasekera has been arrested.
+
+He was arrested at the Katunayake International Airport on Sunday morning.
+
+It is noteworthy that the police detained him on the verge of attendant following the case of the Internal Revenue Department in connection with the case against him.
+
+◼️
+
+[Data](articles/69621bdc.json)
+
+[Extended Data](ext_articles/69621bdc.ext.json)
+
+---
+
+### Ranil has been sworn in today
+
+*2024-07-21 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/188973) · `ta`
+
+Ranil Wickremesinghe, sworn in as President of Sri Lanka, plans to run in the 2024 presidential election as a common candidate. Following the 2019 regime change, Sri Lanka experienced significant political and economic crises. Despite these challenges, Wickremesinghe's United National Party maintained its presence in parliament. His appointment as President came amid widespread anti-state protests and calls for the resignation of the previous rulers. The decision to appoint Wickremesinghe was seen as a move to prevent further escalation of the crisis, with support from both Mahinda and Gotabhaya Rajapaksa.
+
+🟩
+
+President Ranil Wickremesinghe has been sworn in today (21) on Sunday (21). Ranil Wickremesinghe has decided to announce before the 31st of this month that he will contest the proposed presidential election as a common candidate.. He will contest the 2024 presidential election as a common candidate in the general symbol of the political coalition that has been formed by many parties.
+
+Following the regime change in 2019, Sri Lanka faced unprecedented political and economic crises. It is undeniable that these crises have also caused the unofficial regime change. Gotabhaya Rajapakse, the then president, elected by the people's mandate, escaped the country could not face violent people's struggles.
+
+Amidst these political turmoil. The United National Party (UNP) lost only one national seat in the parliamentary elections in Sri Lanka in 2020.
+
+...
+
+[Data](articles/2c4df39d.json)
+
+[Extended Data](ext_articles/2c4df39d.ext.json)
+
+---
+
+### National Conference of the Tamil People's Alliance today
+
+*2024-07-21 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/188987) · `ta`
+
+The first National Conference of the Tamil People's Alliance takes place today at 3 pm at the Father Selva Gallery, chaired by party secretary CV Wigneswaran. Key figures including District Parliamentarian Sivagnanam Sreedharan and special guest Professor KR Ganesalingam will attend, where resolutions will be discussed.
+
+🟩
+
+The first National Conference of the Tamil People's Alliance will be held today (21) at 3 pm at the Father Selva Gallery.
+
+The conference will be chaired by the party's secretary CV Wigneswaran as the chief guest at the Jaffna Tamil Nadu Party.. District Parliamentarian Sivagnanam Sreedharan will participate.
+
+It is also worth noting that Professor KR Ganesalingam will address a special guest and resolutions will be passed at the conference.
+
+◼️
+
+[Data](articles/4d1cb7b4.json)
+
+[Extended Data](ext_articles/4d1cb7b4.ext.json)
 
 ---

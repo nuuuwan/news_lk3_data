@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 21:06:18**
+As of **2024-07-22 21:20:34**
 
 ## Newspaper Stats
 
-*Scraped **36,619** Articles*
+*Scraped **36,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,084
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,308
+adalk | 3,309
 adaderanalk | 4,246
 tamilmirrorlk | 4,469
 dailymirrorlk | 4,733
@@ -26,31 +26,43 @@ adaderanasinhalalk | 6,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,618 (100.0%) of 36,619 articles have been extended.
+36,619 (100.0%) of 36,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### ගායන ශිල්පිනී කේ.සුජීවාගෙන් ප්‍රකාශයක් ගනී
+### Singing is a statement from K.sewa
 
 *2024-07-22 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199097) · `si`
 
-වසන්ත සුරේන්ද්‍ර පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනයට අදාළව අත්අඩංගුවට ගැනුණු ටැටූ මධ්‍යස්ථානයේ හිමිකරු වන දුලාන් සන්ජුල කඩුවෙල මහෙස්ත්‍රාත්වරිය හමුවේ අද (22) මිනිත්තු 40ක රහස් ප්‍රකාශයක් ලබාදී තිබේ.
+In a case related to the murder of Wasantha Surendra Perera, eight suspects were arrested and remanded until August 5th. The suspects include the owner of the TATO Center and seven others. A 40-minute secret statement was given by one of the suspects. The Athurugiriya Police investigated the incident, which involved shooting incidents and injuries to singing craftsmen.
 
-ඒ ඔහු ඇතුළු සිද්ධියට අදාළව අත්අඩංගුවට ගැනුණු සැකකරුවන් අටදෙනා අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදීය.
+🟩
 
-කෙසේවෙතත් සැකකරුවන් අටදෙනාම අගෝස්තු පස්වැනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කඩුවෙල මහෙස්ත්‍රාත් චානිමා විජේබණ්ඩාර මහත්මිය අද (22) පස්වරුවේ නියෝග කළේය.
+A 40-minute secret statement of the Tatun Sanjula Magulah, who was arrested in connection with the murder of the Wasantha Surendra Perera, has been arrested by the Tatun Sanjula Magulastathevatha today (22).
 
-අතුරුගිරිය ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමේ අවස්ථාවකට සහභාගී වූ සුරේන්ද්‍ර වසන්ත හෙවත්  ''ක්ලබ් වසන්ත'' ඇතුළු දෙදෙනෙකු වෙඩිතබා ඝාතනය කෙරුණේ ජූලි 08 වැනිදාය.
+It was when the eight suspects were produced before court.
 
-සිද්ධියට අදාළව එම ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇතුළු සැකකරුවන් හත්දෙනෙකු අතුරුගිරිය පොලිසිය මඟින් අත්අඩංගුවට ගෙන කඩුවෙල මහේස්ත්‍රාත් අධිකරණයට පසුගිය 10 වැනිදා ඉදිරිපත් කිරීමෙන් අනතුරුව අද දිනය දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+However, Kaduwela Magistrate Chanaima Wijebandra ordered that the eight suspects to be remanded until August 5 pm today (22).
 
-ඒ අනුව සැකකරුවන් අද යළිත් කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණි.
+Sadhndra Wasantha, Wasantha, Wasantha, Wasantha, was shot and killed.
+
+The TATO Center owned by the TATO Center and seven suspects were arrested by the Athurugiriya Police and the Kaduwela Magistrate's Court on the 10th.
+
+The suspects were produced before the Kaduwela Magistrate's Court today.
+
+The 21-year-old suspect, who was arrested in the Athurugiriya Police, was arrested and detained on detention orders.
+
+The rules were called in the presence of Kaduwela Magistrate Chanama Wijebandra.
+
+The Athurugiriya Police were produced before the court on the occasion.
 
 ...
 
 [Data](articles/02f09638.json)
+
+[Extended Data](ext_articles/02f09638.ext.json)
 
 ---
 
@@ -183,6 +195,20 @@ No one believes that the country can recover from the economic crisis. But I bel
 [Data](articles/8543dcfb.json)
 
 [Extended Data](ext_articles/8543dcfb.ext.json)
+
+---
+
+### ඉන්දීය කණ්ඩායම එයි
+
+*2024-07-22 18:39:38* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-කණ්ඩායම-එයි/9-410917) · `si`
+
+ශ්‍රී ලංකාවට පැවැත්වීමට නියමිත සීමිත පන්දුවාර ක්‍රිකට් තරගාවලියකට එක්වීම වෙනුවෙන් ඉන්දීය කණ්ඩායම අද පස්වරුවේ දිවයිනට පැමිණියේය. ඉන්දීය කණ්ඩායමේ නායකත්වය සූර්ය කුමාර් යාදව් පත්කර තිබේ.
+
+මෙම තරගාවලිය ඉන්දීය කණ්ඩායමේ නව පුහුණුකරු ගෞතම් ගාම්භීර්ගේ මෙන්ම ශ්‍රී ලංකා නව තාවකාලික පුහුණුකරු සනත් ජයසූරියගේ පළමු තරගාවලියද වෙයි.
+
+◼️
+
+[Data](articles/5683a652.json)
 
 ---
 
@@ -2357,29 +2383,5 @@ In equities, Colombo’s All Share Price Index opened 2.21 points lower at 11,72
 [Data](articles/4f89b8d8.json)
 
 [Extended Data](ext_articles/4f89b8d8.ext.json)
-
----
-
-### Three arrested for alleged money laundering
-
-*2024-07-22 10:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பண-மோசடியில்-ஈடுபட்ட-மூவர்-கைது/71-340809) · `ta`
-
-Three women and one man were arrested in Sri Lanka for allegedly facilitating a young man's overseas travel through financial support. The arrests followed a complaint about money being sent to individuals claiming to be abroad. Detainees, including a woman from Manipay, a man from Kattankudi, a Kalutara resident, and another from Jaffna now in Dehiwala, are under investigation.
-
-🟩
-
-Three women, including two women, have been arrested for allegedly sending a young man from Jaffna abroad.
-
-Based on a complaint filed by the trio by giving money to those who claimed to be abroad, the Jaffna police have arrested three persons.
-
-Police have arrested a woman from Manipayi, a man from Kattankudi area and a resident of Kalutara, who is currently living in Kalutara, and a man from Jaffna who is currently living in Dehiwala.
-
-It is noteworthy that the detainees are carrying out investigations at the police station.
-
-◼️
-
-[Data](articles/48c3cfff.json)
-
-[Extended Data](ext_articles/48c3cfff.ext.json)
 
 ---

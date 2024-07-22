@@ -1,36 +1,110 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 16:07:39**
+As of **2024-07-22 16:20:21**
 
 ## Newspaper Stats
 
-*Scraped **36,580** Articles*
+*Scraped **36,586** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 321
-colombotelegraphcom | 343
+colombotelegraphcom | 345
 bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,301
-adaderanalk | 4,239
-tamilmirrorlk | 4,465
+adaderanalk | 4,241
+tamilmirrorlk | 4,466
 dailymirrorlk | 4,733
 virakesarilk | 5,731
-adaderanasinhalalk | 6,139
+adaderanasinhalalk | 6,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,576 (100.0%) of 36,580 articles have been extended.
+36,580 (100.0%) of 36,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### සංවර්ධන නිලධාරීන් ගුරු සේවයට අන්තර් ග්‍රහණය කරගැනීම ගැන අධිකරණ තීන්දුවක්
+
+*2024-07-22 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199089) · `si`
+
+රජයේ පාසල්වල දැනටමත් ගුරුවරුන් ලෙස සේවයේ නියුක්තව සිටින සියලුම සංවර්ධන නිලධාරීන් ගුරු සේවයට අන්තර්ග්‍රහණය කරගන්නා ලෙස ඉල්ලා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් අද (22) ශ්‍රේෂ්ඨාධිකරණය හමුවේ සමථයකට පත් කෙරුණි.
+
+මෙම පෙත්සම් ඒ.එච්.එම්.ඩී.නවාස්, අචල වෙංගප්පූලි සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ අද සලකා බැලුණි.
+
+අදාළ පෙත්සම් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳ වූ අවස්ථාවේදී කරුණු දැක්වූ නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විරාජ් දයාරත්න මහතා මේ වන විට ගුරු සේවයේ නිරත වී සිටින සංවර්ධන නිලධාරින් 25,000කට අධික පිරිසක් විශේෂ සම්මුඛ පරීක්ෂණයකට භාජනය කොට සුදුසුකම් සපුරාලන අය ගුරු සේවයට අන්තර්ග්‍රහණය කර ගැනීමට තීරණය කර ඇතැයි කියා සිටියේය.
+
+...
+
+[Data](articles/d41fdf25.json)
+
+---
+
+### Chamari smashes first-ever century in Women’s T20 Asia Cup history
+
+*2024-07-22 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100699/chamari-smashes-first-ever-century-in-womens-t20-asia-cup-history-) · `en`
+
+Sri Lanka’s captain Chamari Athapaththu scored the first-ever century in the history of the Women’s Twenty-20 Asia Cup.
+
+This is the Sri Lankan all-rounder’s third century in T20 internationals.
+
+Opener Athapaththu smashed an unbeaten 119 runs with 14 boundaries and 7 sixes in just 69 deliveries. She remained not out as Sri Lanka reached 184/4 at the end of 20 overs.
+
+Having won the toss against Malaysia this afternoon (22), Sri Lanka captain Athapaththu elected to bat first with a semi-final spot in the women’s Asia Cup well within their sight.
+
+Chasing the 184 set by Sri Lanka, this is a must-win for Malaysia, who were beaten convincingly by Thailand in their opening fixture.
+
+The ACC Women’s Asia Cup cricket tournament kicked off on Friday (19) at the Rangiri Dambulla International Cricket Stadium.
+
+Hosts Sri Lanka commenced their Asia Cup tournament with a dominating seven-wicket victory over Bangladesh Women on Saturday (20).
+
+...
+
+[Data](articles/ce6b4ce0.json)
+
+---
+
+### தேநீர் கடையில் கசிப்பு
+
+*2024-07-22 15:56:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேநீர்-கடையில்-கசிப்பு/76-340837) · `ta`
+
+ஹோட்டல் ஒன்றில் தேநீர் மற்றும் குளிர்பானம் விற்பனை செய்கின்ற போர்வையில், கசிப்பு விற்பனையில் ஈடுபட்ட ஹோட்டல் உரிமையாளர் மற்றும் ஊழியர் ஒருவரை 8 கசிப்பு போத்தல்களுடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகம் ஏற்படாத வகையில் குளிர்ப்பான போத்தல்களில் கசிப்புவினை பொதி செய்து வைத்துள்ளதாகவும் ஹோட்டல் கவுண்டரில் பணம் செலுத்திய பின்னர் , ஊழியர்களால் டீ கப்பில் கசிப்பூவை ஊற்றி கொடுப்பதாகவும் பொலிஸாருக்கு தகவல் கிடைத்துள்ளது.
+
+சில காலமாக இடம்பெற்று வரும் இந்த வியாபாரத்தில், சந்தையில் வேலை செய்யும் நாட்டாமிகள், கடைகளில் வேலை செய்யும் ஊழியர்கள் ஆகியோர் தினசரி வாடிக்கையாளர்கள் எனவும், அதிகாலை 5.00 மணி முதல் இந்த வியாபாரம் இடம்பெற்று வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ab19fc58.json)
+
+---
+
+### Govt settled Rs. 29,000 million owed to fertilizer companies - Agri Minister
+
+*2024-07-22 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100698/govt-settled-rs-29000-million-owed-to-fertilizer-companies-agri-minister) · `en`
+
+Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, has announced that the government has settled all outstanding payments amounting to Rs. 29,000 million that were owed to private fertilizer companies for the purchase of fertilizers over several years.
+
+The minister made this statement during a discussion held today (22) at the Ministry of Agriculture and Plantation Industries, focusing on the progress of the Youth Agri-Entrepreneurship Village Programme.
+
+Efforts are now underway to develop 160 villages across the island as the Youth Agri-Entrepreneurship Villages, with the aim of increasing food production, raising the income level of farmers, and attracting the youth to agricultural activities.
+
+The government has allocated Rs. 1,600 million for this purpose, and accordingly, each village will be provided Rs. 10 million under the first phase of project.
+
+...
+
+[Data](articles/9143d26f.json)
+
+---
 
 ### Govt settled Rs. 29,000 million owed to fertilizer company loans - Agri Minister
 
@@ -48,43 +122,59 @@ The government has allocated Rs. 1,600 million for this purpose, and accordingly
 
 [Data](articles/dabe2135.json)
 
+[Extended Data](ext_articles/dabe2135.ext.json)
+
 ---
 
-### චමරිගෙන් ශතකයක්
+### Chamari century
 
 *2024-07-22 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199088) · `si`
 
-ආසියානු කුසලාන කාන්තා ක්‍රීකට් තරගාවලියේ ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ මලයාසියානු කාන්තා කණ්ඩායම අතර තරගය මේ වනවිට දඹුල්ලේ පැවැත්වෙයි.
+In the Asian Trophy Women's Cricket Tournament, the Sri Lanka Women's team scored 184 runs against Malaysia, with Chamari Atapattu leading the charge. Batting first, she made history by scoring the first century in the tournament, contributing 119 runs with 14 fours and seven sixes.
 
-පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කාන්තා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 04ක් දැවී ලකුණු 184ක් රැස් කර ගැනීම සමත්විය.
+🟩
 
-එම තරගයේ දී ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ නායිකා චමරි අතපත්තු නොදැවී ලකුණු 119ක් රැස් කිරීමට සමත් වූවාය.
+The match between the Sri Lanka Women's Group and Malaysian women's team in the Asian Trophy Women's Cricket Tournament will be held at Dambulla.
 
-ඇය එම ශතකය රැස් කර තිබුණේ හතරේ පහර 14ක් සහ හයේ පහර 7ක් එල්ල කරමිනි.
+Batting first, the Sri Lanka women's group scored 184 runs for the loss of 04 wickets at the end of 20 overs.
 
-එය අසියානු කුසලාන කාන්තා 20යි 20 ක්‍රිකට් තරගයක රැස්කළ පළමු ශතකයද වෙයි.
+Leader of the Sri Lanka Women's group leader Chamari Atapattu scored 119 runs.
+
+She had scored the century with 14 fours and seven sixes.
+
+It is the first century, who gathered in the Asian Cup Women and 20 cricket match.
 
 ◼️
 
 [Data](articles/c4b90ec1.json)
 
+[Extended Data](ext_articles/c4b90ec1.ext.json)
+
 ---
 
-### 'நாற்பது  வயது குழந்தை நகுல்' -  'வாஸ்கோடகாமா' பட இயக்குநர் ஆர் ஜி கே
+### 'Forty -year -old baby Nakul' - 'Vaskotakama' film director RGK
 
 *2024-07-22 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189095) · `ta`
 
-'நடிகர் நகுல் -நாற்பது வயது குழந்தை' என 'வாஸ்கோடகாமா' பட இயக்குநர் ஆர் ஜி கே தெரிவித்திருக்கிறார்.
+"RGK directs 'Vasotakama,' featuring Nakul, Arthana Binu, and others. The film, initially three hours long, was trimmed to two hours for audience convenience. It focuses on four characters, all of whom are in prison. Shooting wrapped in 41 days, staying within budget."
 
-அறிமுக இயக்குநர் ஆர் ஜி கே இயக்கத்தில் உருவாகி இருக்கும் 'வாஸ்கோடகாமா' எனும் திரைப்படத்தில் நகுல், அர்த்தனா பினு, கே. எஸ். ரவிக்குமார், ஆனந்தராஜ், முனிஸ் காந்த், வம்சி கிருஷ்ணா, பிரேம் குமார், மன்சூர் அலி கான், ரெடின் கிங்ஸ்லி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-என். எஸ். சதீஷ்குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு என். வி. அருண் இசையமைத்திருக்கிறார். டார்க் ஹியுமர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை 5656 புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் டத்தோ பி. சுபாஷ்கரன் தயாரித்திருக்கிறார்.
+'Vasotakama' film director RGK has said that 'actor Nakul -Nakul -fifth year old child'.
 
-எதிர்வரும் ஓகஸ்ட் மாதம் இரண்டாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் இந்த திரைப்படத்தின் இசை மற்றும் முன்னோட்ட வெளியிட்டு விழா சென்னையில் சிறப்பாக நடைபெற்றது. இதன் போது பட குழுவினருடன் இயக்குநர் கே. எஸ். ரவிக்குமார்- அறிவழகன்- நடிகர் சாந்தனு பாக்யராஜ்- ஜெகன் ஆகியோர் சிறப்பு அதிதிகளாக பங்கு பற்றினர்.
+Nakul, Arthana Binu, K.. S.. Ravikumar, Anandaraj, Munis Kant, Vamsi Krishna, Prem Kumar, Mansoor Ali Khan, Redin Kingsley and many others have been cast.
+
+My. S.. Sathishkumar's cinematography. V.. Arun has composed the music. Producer Dato B is the producer of 5656 Productions Company. Produced by Subhashkaran.
+
+The music and preview of the film will be held in Chennai on the second day of August.. Director K.. S.. Ravikumar- intellectual- actor Shantanu Bhagyaraj and Jegan participated as special guests.
+
+Speaking at the event, director RGK said, “Actor Nakul is a forty -year -old child. It is easy to run with him. There are more than forty actors in the movie. The shooting of the movie 41 days was completed. We have completed the work of the film within the budget made by the producer for the film.
 
 ...
 
 [Data](articles/f9e356e2.json)
+
+[Extended Data](ext_articles/f9e356e2.ext.json)
 
 ---
 
@@ -101,6 +191,8 @@ The signatories include C. V. Vigneswaran of Tamil People’s Alliance, Selvam A
 ◼️
 
 [Data](articles/322df998.json)
+
+[Extended Data](ext_articles/322df998.ext.json)
 
 ---
 
@@ -1378,6 +1470,32 @@ The shooting has been used for shooting and the police said the sholder had fled
 
 ---
 
+### The Encroachment Of Public Space’ By Our ‘Oligarchy’ Rulers & The Dissolution Of Democracy
+
+*2024-07-22 10:23:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-encroachment-of-public-space-by-our-oligarchy-rulers-the-dissolution-of-democracy/) · `en`
+
+The challenges public spaces face in contemporary times are a subject of ongoing discussion in developed and developing countries. Defining key terms and making specific distinctions is essential to engage meaningfully in this debate. Generally, ‘public space’ refers to areas that are open and accessible to everyone, such as roads, pavements, public squares, parks, beaches, and sections of government buildings like libraries that are open to the public.
+
+...
+
+[Data](articles/dea7bc46.json)
+
+---
+
+### 41 Years To Black July – Our Voices Towards Meaningful Reconciliation
+
+*2024-07-22 10:15:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/41-years-to-black-july-our-voices-towards-meaningful-reconciliation/) · `en`
+
+In Sri Lanka, fear is pervasive. Suppression of media and fundamental rights of people and repression of human rights defenders foster a climate of fear, silencing victims, and inhibiting reconciliation. Political and criminal interests threaten the justice system, putting lives at risk for exposing the truth.
+
+For decades, regimes have perpetuated impunity, showing no signs of change. There have been no credible, independent investigations into major violent events like insurrections, the Black July pogrom, the proscription of the JVP, or the Easter bombings. Investigations are often obstructed, cases against perpetrators dismissed, and genuine investigators silenced or exiled. Allegations against intelligence and security agencies underscore the need for transparent and independent investigations with international involvement.
+
+...
+
+[Data](articles/f41ad055.json)
+
+---
+
 ### Emergency health in the state of Kerala
 
 *2024-07-22 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199075) · `si`
@@ -2189,123 +2307,5 @@ He says about 300 types of goods and he is traveling about 30 miles a day to sel
 [Data](articles/6d91d58b.json)
 
 [Extended Data](ext_articles/6d91d58b.ext.json)
-
----
-
-### Agcelerator demo-day unveils innovative agribusiness solutions
-
-*2024-07-22 01:58:00* · [`islandlk`](http://island.lk/agcelerator-demo-day-unveils-innovative-agribusiness-solutions/) · `en`
-
-The Sri Lanka Agripreneurs’ Forum, in collaboration with the United States Agency for International Development (USAID) through its CATALYZE Sri Lanka Private Sector Development (PSD) Activity recently hosted a successful Agcelerator Demo-Day at TRACE Expert City.
-
-The event showcased the innovative spirit and entrepreneurial drive of individuals passionate about agriculture and innovation, and 60 leading investors, funding agencies, and companies joined the event to witness these inspiring pitches.
-
-The highlight of the Demo-Day was the pitch competition, where 10 finalists presented their business ideas to potential investors and agribusiness enthusiasts. These finalists had undergone extensive training through bootcamps guided by expert mentors in the industry, supported by continuous guidance from the Sri Lanka Agripreneurs’ Forum.
-
-CoinCeylon & Intersect MBO launch South Asia’s First Community Hub in Sri Lanka
-
-...
-
-[Data](articles/a7a831f0.json)
-
-[Extended Data](ext_articles/a7a831f0.ext.json)
-
----
-
-### Dr. Hayeshika Fernando recognised at Business World International Awards and 10th APLA Conference
-
-*2024-07-22 01:58:00* · [`islandlk`](http://island.lk/dr-hayeshika-fernando-recognised-at-business-world-international-awards-and-10th-apla-conference/) · `en`
-
-Dr. Hayeshika Fernando, Sri Lankas market leading online tutor for Grade Five Scholarship Examination students, was recently awarded as the Most Popular Scholarship Lecturer at the Business World International Awards. Organized by the Business World International Organization, the award ceremony was recently held at the Taj Samudra Hotel in Colombo. In addition, she was also honored by the All Island Professional Lecturers Association (APLA) during its 10th biannual conference. President Ranil Wickremesinghe, who graced the conference, presented the award, recognizing her significant service towards improving education in Sri Lanka.
-
-...
-
-[Data](articles/cdccb2b9.json)
-
-[Extended Data](ext_articles/cdccb2b9.ext.json)
-
----
-
-### Sanasa Life Insurance becomes official insurance partner of Ananda Walk 2024
-
-*2024-07-22 01:58:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-becomes-official-insurance-partner-of-ananda-walk-2024/) · `en`
-
-Sanasa Life Insurance has become part of Ananda Walk 2024. A collaborated event, together with the past and present pupils of Ananda College, Ananda Walk 2024 stands out as a successfully celebrated event.
-
-The objective of sponsoring this event is based on Sanasa Life Insurance’s commitment to fostering education and sports within the country. Sanasa Life Insurance takes its commitment towards social responsibility very seriously. Commenting on the organization’s focus on fostering better futures for the youth of Sri Lanka, Ivan Nicholas, Chief Executive Officer said “As a forerunner in the field of insurance, Sanasa Life Insurance is proud to play a pivotal part in youth development of this country. Our outreach extends beyond event sponsorship. It includes our corporate ethics and ethical practices as an organization geared to support activities that enrich the mind, body, and spirit of the younger generations of this country”.
-
-...
-
-[Data](articles/d887622d.json)
-
-[Extended Data](ext_articles/d887622d.ext.json)
-
----
-
-### Never allow the future of the country to be shaped in accordance with the political agenda - the president
-
-*2024-07-22 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/189043) · `ta`
-
-It seems like you've shared a detailed narrative focused on political discourse surrounding the potential candidacy of Ranil Wickremesinghe for the upcoming presidential election in Sri Lanka, emphasizing his leadership during a challenging economic period and calling for unity and support for his campaign. How can I assist you further with this information? Are you looking for analysis, summary, or perhaps need assistance with another task related to this topic?
-
-🟩
-
-The people of the Gampaha district unanimously proposed the proposal of Minister Prasanna Ranatunga to field President Ranil Wickremesinghe as a candidate in the upcoming presidential election.
-
-Tens of thousands of people, including 250 former local members, participated in the meeting.
-
-The people of the Gampaha district unanimously confirmed the proposal that Ranil Wickremesinghe should re -contest the upcoming presidential election.
-
-President Ranil Wickremesinghe, Sajith Premadasa and Anurakumara Dissanayake called on the journey, demanding that he would never be allowed to design the country's future in accordance with political agendas.
-
-President Ranil Wickremesinghe said this while addressing a public meeting held at the Kadawatha Bus Stand Complex on Sunday (21) under the theme "Let's win - Nam Gampaha".
-
-...
-
-[Data](articles/02425851.json)
-
-[Extended Data](ext_articles/02425851.ext.json)
-
----
-
-### A new bill introduced to address bankrupt businesses
-
-*2024-07-22 01:39:00* · [`islandlk`](http://island.lk/a-new-bill-introduced-to-address-bankrupt-businesses/) · `en`
-
-A new institution named “Enterprise Sri Lanka” has been established to empower micro, small, and medium enterprises. President Ranil Wickremesinghe said recently.He stated that it is not feasible to indefinitely maintain the temporarily suspended Parate law. Consequently, a new bill will be introduced to address bankrupt businesses.
-
-The President also mentioned that the proposed bill includes provisions for restructuring loans taken by Micro, Small and Medium Enterprises (MSME).
-
-Additionally, a new institution named “Enterprise Sri Lanka” will be established to provide necessary support and assistance to Micro, Small and Medium-Scale Entrepreneurs. The President emphasized that the government is committed to encouraging and empowering these entrepreneurs in Sri Lanka.
-
-...
-
-[Data](articles/24a66cd9.json)
-
-[Extended Data](ext_articles/24a66cd9.ext.json)
-
----
-
-### SriLankan Airlines restores Internet booking services following global outage
-
-*2024-07-22 01:39:00* · [`islandlk`](http://island.lk/srilankan-airlines-restores-internet-booking-services-following-global-outage/) · `en`
-
-SriLankan Airlines’ internet booking services have been fully restored following the recent global outage of third-party service providers that affected the airline’s online booking services.
-
-“We understand that this may have impacted the experience of some of our passengers, and we sincerely apologize for any inconvenience caused.”
-
-“For any further assistance with existing or new bookings, please contact our Global Contact Centre at +94 19733 1979. We deeply appreciate our customers’ understanding during this time,” SriLankan Arlines said issuing a press release.
-
-Hirdaramani Group invests Rs.10 billion in new textile plant, ‘Mihila Tex’
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/3e91fc21.json)
-
-[Extended Data](ext_articles/3e91fc21.ext.json)
 
 ---

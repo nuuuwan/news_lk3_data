@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 15:20:25**
+As of **2024-07-22 15:35:43**
 
 ## Newspaper Stats
 
-*Scraped **36,569** Articles*
+*Scraped **36,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,126 @@ adalk | 3,301
 adaderanalk | 4,236
 tamilmirrorlk | 4,465
 dailymirrorlk | 4,733
-virakesarilk | 5,725
-adaderanasinhalalk | 6,137
+virakesarilk | 5,730
+adaderanasinhalalk | 6,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,565 (100.0%) of 36,569 articles have been extended.
+36,569 (100.0%) of 36,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### රුපියල් මිලියන 29,000ක ණය රජය ගෙවා දමයි
+### උද්ධමනය ඉහළට
+
+*2024-07-22 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199087) · `si`
+
+ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් 2024 ජූනි මාසය සඳහා ශ්‍රී ලංකාවේ ජාතික පාරිභෝගික මිල දර්ශකය සහ මාසික පාරිභෝගික උද්ධමනය ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව 2024 මැයි මාසයේ දී 1.6%ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 ජූනි මාසය සඳහා 2.4%ක් දක්වා වැඩි වී ඇත.
+
+2024 මැයි මාසයේ දී 0.5% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජූනි මාසයේ දී 1.9%ක් දක්වා වැඩි වී තිබේ.
+
+එමෙන්ම, 2024 මැයි මාසයේ දී 2.4% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජූනි මාසයේ දී 2.7% ක් දක්වා වැඩි වී ඇත.
+
+◼️
+
+[Data](articles/b6a5cd10.json)
+
+---
+
+### க்ளப் வசந்த கொலை : 6 பேருக்கு விளக்கமறியல்
+
+*2024-07-22 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189091) · `ta`
+
+க்ளப் வசந்த என்றழைக்கப்படும் சுரேந்திர வசந்த பெரேரா மற்றும் பலர் மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டமை தொடர்பில் கைது செய்யப்பட்ட சந்தேகநபர்களில் 6 பேர் எதிர்வரும் 26ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள்  இன்று திங்கட்கிழமை (22) காலை கடுவலை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+சம்பவத்தின் பிரதான சந்தேகநபரான பச்சை குத்தும் நிலைய உரிமையாளரிடம் இன்றைய தினம் பிற்பகல் நீதிமன்றத்தில் வாக்குமூலம் பதிவு செய்யப்படவுள்ளது.
+
+கடந்த ஜூலை மாதம் 8ஆம் திகதி அத்துருகிரிய சந்தியில் பச்சை குத்தும் நிலைய திறப்பு விழாவில்  மேற்கொள்ளப்பட்ட துப்பாக்கிப் பிரயோகத்தில் க்ளப் வசந்த மற்றும் நயன வசுல விஜேசூரிய என்ற 37 வயதான நபர் ஆகியோர் உயிரிழந்தனர்.
+
+துப்பாக்கி பிரயோகத்தில் பாடகி கே.சுஜீவா மற்றும் க்ளப் வசந்தவின் மனைவி உள்ளிட்ட நால்வர் காயமடைந்தனர்.
+
+◼️
+
+[Data](articles/06d814a7.json)
+
+---
+
+### கீர்த்தி சுரேஷ் கர்ஜிக்கும் 'இந்தி தெரியாது போய்யா..'
+
+*2024-07-22 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189093) · `ta`
+
+இந்திய திரையுலகின் பான் இந்திய நட்சத்திர அந்தஸ்தை பெற்றிருக்கும் நடிகையும், தேசிய விருது பெற்ற நடிகையுமான கீர்த்தி சுரேஷ் கதையின் நாயகியாக நடித்திருக்கும் 'ரகு தாத்தா' எனும் திரைப்படத்தின் இசை வெளியிடப்பட்டிருக்கிறது.‌
+
+அறிமுக இயக்குநர் சுமன் குமார் இயக்கத்தில் உருவாகி இருக்கும் 'ரகு தாத்தா' எனும் திரைப்படத்தில் கீர்த்தி சுரேஷ், எம். எஸ். பாஸ்கர், ரவீந்திர விஜய், ஆனந்த் சாமி, தேவதர்ஷினி, ராஜீவ் ரவீந்திரநாதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். யாமினி  யக்ஞமூர்த்தி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார்.
+
+எள்ளல் மற்றும் நையாண்டி பாணிலான நகைச்சுவை வகைமை திரைப்படமாக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஹோம்பாலே ஃபிலிம்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் விஜய் கிரகந்தூர் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/98c968c2.json)
+
+---
+
+### 29,000 million loans will be paid
 
 *2024-07-22 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199086) · `si`
 
-වසර ගණනාවක් පොහොර මිලදී ගැනීම වෙනුවෙන් පුද්ගලික පොහොර සමාගම්වලට නොගෙවා තිබු රුපියල් මිලියන 29,000ක හිඟ ණය මුදල් සියල්ල  රජය විසින්  මේ වනවිට ගෙවා අවසන් කර ඇතැයි කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+The Sri Lankan government, under Minister Mahinda Amaraweera, has completed allocating Rs. 1600 million for the Young Agri Entrepreneurial Village Program, aiming to boost food production, farmer incomes, and attract investments to 160 villages across the island. This initiative follows a meeting at the Ministry of Agriculture and Plantation Industries, highlighting the government's commitment to supporting agri-entrepreneurs despite financial challenges faced by many companies, including fertilizer suppliers.
 
-තරුණ කෘෂි ව්‍යවසායකත්ව ගම්මාන වැඩ සටහනෙහි ප්‍රගතිය සම්බන්ධව අද (22) කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ දී පැවති සාකච්ඡාවක් අමතමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+🟩
 
-ආහාර නිෂ්පාදනය ඉහළ නැංවීම, ගොවි ජනතාවගේ ආදායම් මට්ටම ඉහළ නැංවීම හා තරුණ ප්‍රජාව කෘෂිකර්මාන්තයට ආකර්ශනය කරගැනීම ඉලක්ක කරමින් තරුණ කෘෂි ව්‍යවසායකත්ව ගම්මාන වශයෙන් දිවයිනේ ගම්මාන 160ක් සංවර්ධනය කිරීමට මේ වනවිට කටයුතු යොදා ඇත.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that the government has completed all Rs.
 
-මේ සඳහා රජය විසින් වෙන් කර ඇති මුදල රුපියල් මිලියන 1600කි. ඒ අනුව එක ගම්මානයකට පළමු අදියර යටතේ රුපියල් මිලියන 10ක් මුදලක් බැගින් ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා ලබා දී තිබේ.
+He was speaking at a meeting held at the Ministry of Agriculture and Plantation Industries today (22) regarding the progress of the Young Agri Entrepreneurial Village Program.
 
-රුපියල් මිලියන 29,000ක් වැනි අති විශාල මුදලක් පොහොර සමාගම්වලට හිඟ මුදල් වශයෙන් ගෙවීමට තිබු නිසා බොහෝ සමාගම් මුල්‍යමය වශයෙන් දුර්වල තත්ත්වයකට මුහුණ දෙමින් සිටියේය.
+Increasing food production, increasing the income level of the farmers and improve the income level and attracting the income level and attract 160 villages in the island.
+
+The government allocated Rs. 1600 million for this purpose. Accordingly, one village has been provided with the implementation of projects of Rs.
+
+Most of the companies were financially poorly, as a large amount of fertilizer companies were paid a large amount of fertilizer companies.
 
 ◼️
 
 [Data](articles/dffe765e.json)
+
+[Extended Data](ext_articles/dffe765e.ext.json)
+
+---
+
+### வரலாறு : "தனித்தமிழ் ராஜ்யமே மானத்தோடு வாழ வழி" - 1968இல் முழக்கம்
+
+*2024-07-22 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189086) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளரை நிறுத்துவது பற்றி பேச்சு தற்போது சூடுபிடித்துள்ளது.
+
+◼️
+
+[Data](articles/1a1bb11d.json)
+
+---
+
+### உதயநிதி ஸ்டாலினுக்கு துணை முதல்வர் பதவி கொடுப்பதா..? - எடப்பாடி பழனிச்சாமி கேள்வி.
+
+*2024-07-22 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189089) · `ta`
+
+'திமுக ஒரு குடும்பக் கட்சி. திமுக நடத்துவது குடும்ப ஆட்சி. கருணாநிதி பேரன் - ஸ்டாலின் மகன் - என்பதால் உதயநிதி ஸ்டாலினுக்கு துணை முதலமைச்சர் பதவி கொடுப்பதா?'  என தமிழக சட்டப்பேரவை எதிர்க்கட்சித் தலைவரும், அதிமுக பொதுச் செயலாளருமான எடப்பாடி கே பழனிச்சாமி வினா எழுப்பி இருக்கிறார்.
+
+'' திமுக ஆட்சியில் அம்மா உணவகங்களின் எண்ணிக்கை குறைந்து வருகிறது. சென்னையில் அம்மா ஆட்சியில் தொடங்கப்பட்ட 400க்கும் மேற்பட்ட அம்மா உணவகங்களில், 19 உணவகங்களை திமுக  ஆட்சியில் முடி விட்டனர். இதனால் திமுக அரசு மீது மக்களுக்கு வெறுப்பும், அதிருப்தியும் ஏற்பட்டுள்ளது. எனவேதான் அம்மா உணவகத்திற்கு சென்று முதல்வர் ஆய்வு செய்துள்ளார்.‌
+
+தமிழகத்தில் 200 நாட்களில் 595 கொலைகள் நடந்துள்ளன. கஞ்சா, போதை பொருட்கள் நடமாட்டம் அதிகரித்துள்ளது. கஞ்சா விற்பனையை தடுக்காவிட்டால் மாணவர்கள் இளைஞர்கள் சீரழிவார்கள்.
+
+திமுகவில் பல ஆண்டுகளாக உழைத்தவர்களும், அனுபவமிக்க அமைச்சர்களும் உள்ளனர். ஆனால் குடும்ப கட்சியான திமுகவில் அவர்களுக்கு எல்லாம் துணை முதல்வர் பதவி கிடைக்காது.
+
+...
+
+[Data](articles/92bd3982.json)
 
 ---
 
@@ -86,35 +176,67 @@ The Nuwara Eliya Magistrate’s Court has ordered the police to arrest Minister 
 
 ---
 
-### ද්‍රවිඩ පක්ෂවලින් පොදු අපේක්ෂකයෙක් ?
+### Common Candidate from the Tamil Party?
 
 *2024-07-22 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199084) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා පොදු අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට ද්‍රවිඩ දේශපාලන පක්ෂ කිහිපයක් සහ සිවිල් සංවිධාන කිහිපයක් එකඟ වී තිබේ.
+Several Tamil political parties and civil organizations have united to field a joint candidate for the upcoming presidential election, with seven parties and seven organizations signing the agreement.
 
-අප වාර්තාකරු පැවසුවේ ද්‍රවිඩ දේශපාලන පක්ෂ 7ක් සහ සිවිල් සංවිධාන 7ක් ඒ සඳහා වූ එකඟතාවයට අත්සන් තැබූ බවයි.
+🟩
+
+Several Tamil political parties and several civilian organizations have agreed to make a common candidate for the next presidential election.
+
+Our correspondent said that seven Tamil political parties and seven civil organizations have been signed.
 
 ◼️
 
 [Data](articles/0159f681.json)
 
+[Extended Data](ext_articles/0159f681.ext.json)
+
 ---
 
-### තොණ්ඩමන් ව අත්අඩංගුවට ගන්නැයි අධිකරණ නියෝගයක්
+### Court order to arrest Tho Thondman
 
 *2024-07-22 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199083) · `si`
 
-ලංකා කම්කරු කොංග්‍රසයේ මහ ලේකම් සහ වතු යටිතල පහසුකම් හා ජල ප්‍රවාහන අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා ඇතුළු සැකකරුවන් කිහිපදෙනෙකු අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කරන ලෙසට නුවරඑළිය වැඩබලන මහෙස්ත්‍රාත් ජයමිණී අඹගහවත්ත මහතා විසින් නුවරඑළිය පොලීසියට නියෝග කර ඇත.
+Nuwara Eliya Magistrate Jayamgalle Ambagahawatta ordered the police to arrest several suspects linked to the Ceylon Workers Congress and its supporters over a case involving the Kelani Valley Company. The magistrate acted after receiving reports from the Nuwara Eliya Police about the arrival of the Ceylon Workers' Code at the Nuwara Eliya Tea Factory. Despite Minister Jeevan Thondaman and other suspects being informed to appear in court, their lawyers represented them instead.
 
-පසුගිය මැයි (30) දින අමාත්‍ය ජීවන් තොන්ඩමන් මහතා ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවන් පිරිසක් කැලණි වැලි සමාගම යටතේ පාලනය වන නුවරඑළියේ තේ කර්මාන්ත ශාලාවකට බලහත්කාරයෙන් ඇතුළු වීමේ සිද්ධිය සම්බන්ධයෙන් නුවරඑළිය පොලීසිය විසින් අධිකරණය හමුවේ අද (22) කරුණු වාර්තා කළේය.
+🟩
 
-එම අවස්ථාවේ දී මහෙස්ත්‍රාත්වරයා විසින් මෙම නියෝගය නිකුත් කර ඇත.
+Nuwara Eliya Acting Magistrate Jayamgalle Ambagahawatta has ordered the Nuwara Eliya Police to arrest several suspects and several suspects of the Ceylon Workers Congress.
 
-මැයි 30 වන දින කැලණි වැලි වතු සමාගමට අයත් නුවරඑළියේ තේ කර්මාන්ත ශාලාව තුළට අමාත්‍යවරයා ඇතුළු ලංකා කම්කරු කොංග්‍රසයේ ආධාරකරුවන් පිරිසක් බලහත්කාරයෙන් ඇතුළු වී දණ්ඩ නීති සංග්‍රහයට පටහැනිව කටයුතු කරමින් ක්‍රියාකිරීම සම්බන්ධයෙන් නුවරඑළිය පොලීසිය මඟින් අධිකරණය හමුවේ කරුණු වාර්තා කර තිබුණි.
+The Nuwara Eliya Police have reportedly reported the case with the labor of the Ceylon Workers Congress, a group of supporters of the Ceylon Workers Congress under Kelani Valley Company.
+
+The Magistrate issued the order at the time.
+
+The Nuwara Eliya Police had reported before the Nuwara Eliya Police regarding the arrival of the Ceylon Workers' Code in the Nuwara Eliya Tea Factory of the Nuwara Eliya Tea Factory of the Kelani Vandandeline.
+
+Minister Jeevan Thondaman, Minister Jeevan Thondaman and the suspects were informed to contest today, but the lawyers appeared for the estate firm were presented in the court.
+
+◼️
+
+[Data](articles/bd3f937f.json)
+
+[Extended Data](ext_articles/bd3f937f.ext.json)
+
+---
+
+### சாய்ந்தமருது கொலை சம்பவம் ; தலைமறைவான பிரதான  சந்தேக நபர் உட்பட ஐவர் கைது
+
+*2024-07-22 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189087) · `ta`
+
+தனது மாமனாரை தாக்கி கொலை செய்ததாக குற்றஞ்சாட்டப்பட்ட பிரதான  சந்தேக நபர் உட்பட ஐவர் தலைமறைவாகி இருந்த நிலையில் நேற்று ஞாயிற்றுக்கிழமை (21) இரவு  கைது செய்யப்பட்டுள்ளனர்.
+
+அம்பாறை மாவட்டம் சாய்ந்தமருது பொலிஸ் பிரிவிற்குட்பட்ட பொலிவேரியன் கிராமம் பிரிவு-09 பகுதியில் உள்ள வீடு ஒன்றில் ஞாயிற்றுக்கிழமை அதிகாலை  குறித்த சம்பவம் இடம்பெற்றுள்ளதுடன், குறித்த சம்பவத்தில்  தாக்குதலுக்கு உள்ளாகி 62 வயதுடய  மீராசாயிப் சின்னராசா என்பவர் மரணமடைந்திருந்தார்.
+
+இவ்வாறு மரணமடைந்தவரின் சடலம் கல்முனை அஷ்ரப் ஞாபகார்த்த வைத்தியசாலையில் வைக்கப்பட்ட பின்னர் மேலதிக விசாரணைக்காக அம்பாறை பொது வைத்தியசாலைக்கு பிரேத பரிசோதனைக்காக எடுத்துச்செல்லப்பட்டு விசாரணைகளின் பின்னர் உறவினர்களிடம்  இரவு கையளிக்கப்பட்டுள்ளது.
+
+அத்துடன், சம்பவ இடத்திற்கு கல்முனை நீதிமன்ற பதில் நீதிவான் அப்துல் ரசீட் முஹம்மது கலீல்  சென்று விசாரணகைளை மேற்கொண்டார்.
 
 ...
 
-[Data](articles/bd3f937f.json)
+[Data](articles/8708c96c.json)
 
 ---
 
@@ -494,19 +616,25 @@ Oscar -winning actress Barbara Straisand has said that we should be grateful to 
 
 ---
 
-### ආණ්ඩුවට තුනෙන් දෙකේ බලයක් නැති නිසා ජනමත විචාරණයක් එන්නේ නෑ
+### The government is not coming because the government has no two-thirds power, a referendum
 
 *2024-07-22 12:11:30* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-තුනෙන්-දෙකේ-බලයක්-නැති-නිසා-ජනමත-විචාරණයක්-එන්නේ-නෑ/11-410908) · `si`
 
-22 වන ව්‍යවස්ථා සංශෝධනය ගැන කිසිදු දෙගිඩියාවක් තියා ගත යුතු නොමැති බවත්, එය පාර්ලිමේන්තුවේ තුනෙන් දෙකක බලයකින් සම්මත වෙන්නේ නැති බවත්, ඒ අනුව ජනමත විචාරණයක් නොඑන බවත් ජාතික ජනබලවේගයේ ජාතික විධායක සභික, පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතා (21) දා පස්වරුවේ මස්කෙළියේදී පැවසීය.
+Vijitha Herath, MP and National Executive Secretary, stated that due to the lack of two-thirds power in the government, the 22nd Amendment needed for a referendum cannot be passed. This situation prevents any referendum from taking place, affecting decisions like setting the date for the Presidential election and nomination submission.
 
-“පුනරුදයට රටම එකට” යන තේමාව යටතේ මස්කෙළිය වතු ජනතාව දැණුම්වත් කරමින් මලෛයගම් ජනතා සභා ජන  හමුව මස්කෙළිය පී.එම්.ඩී. උත්සව ශාලාවේදී පැවති අවස්ථාවේදී මාධ්‍ය වෙත අදහස් දක්වමින් විජිත හේරත් මහතා එසේ පැවසීය.
+🟩
 
-“අද වෙනකොට ආණ්ඩුවට තුනෙන් දෙකක බලයක් නෑ. 22 පාර්ලිමේන්තුවට දැම්මට සම්මත කර ගන්න බෑ. ඒ කියන්නේ ජනමත විචාරණයක් එන්නේ නෑ. ඒ අයගේ උත්සාහයෙන් වැඩක් වෙන්නේ නෑ. ඒ නිසා කිසිදු දෙගිඩියාවක් තියාගත යුතු නෑ. ලබන සතිය වෙනකොට මැතිවරණ කොමිෂම ජනාධිපති ඡන්දය තියන දිනය හා නාම යෝජනා භාරදිය යුතු දිනය ප්‍රකාශයට පත් කරනවා. අනිවාර්යෙන් නියමිත පරිදි ජනාධිපති ඡන්දය එනවා. මේ අය දාන වෙට්ටු එකක්වත් හරියන්නේ නෑ.”
+The National Executive Committee of the National Executive Committee of the National Executive Secretary, MP Vijitha Herath has said that no referendum is not passed by the 22nd Amendment.
+
+Maskeliya Youth Meeting in Kusakeiya Estate People under the theme. Speaking to the media at the ceremony, Vijitha Herath said so.
+
+"The government has no two-thirds power today. 22 The parliament cannot be adopted. That means no referendum. Their efforts do not work. So there is no doubt. By next week, the date on the date of the Presidential election and the date to submit nominations. Definition is definitely presidential vote. None of these people do not have any alms. "
 
 ◼️
 
 [Data](articles/49e1e604.json)
+
+[Extended Data](ext_articles/49e1e604.ext.json)
 
 ---
 
@@ -2127,135 +2255,5 @@ Accordingly, the IMAX®️ Theatre at Scope Cinemas Multiplex – Havelock City 
 [Data](articles/676fe161.json)
 
 [Extended Data](ext_articles/676fe161.ext.json)
-
----
-
-### President says future of Sri Lanka will not be shaped by political agendas
-
-*2024-07-22 01:25:58* · [`dailyftlk`](https://www.ft.lk/news/President-says-future-of-Sri-Lanka-will-not-be-shaped-by-political-agendas/56-764567) · `en`
-
-Speaking at “Together we win – We are Gampaha” rally, stresses political agendas must align with the country’s needs
-
-Invites Sajith Premadasa and Anura Kumara Dissanayake to join the national effort
-
-Recalls crises of two years ago and lists salient achievements since then
-
-Reiterates his dedication to the nation, and how he worked selflessly for the country’s betterment, not personal gain
-
-The people of the Gampaha District yesterday decisively endorsed Ranil Wickremesinghe for re-election as President in the upcoming Presidential election, said the President’s Media Division in a statement.
-
-It said over 250 Gampaha local Government representatives, along with 26 SLPP Ministers and MPs, pledged their strong support for the President at the “Together we win – We are Gampaha” rally in Kadawatha.
-
-...
-
-[Data](articles/cc78c28a.json)
-
-[Extended Data](ext_articles/cc78c28a.ext.json)
-
----
-
-### SJB to unveil program to rebuild SL next week
-
-*2024-07-22 01:23:30* · [`dailyftlk`](https://www.ft.lk/news/SJB-to-unveil-program-to-rebuild-SL-next-week/56-764566) · `en`
-
-SJB MP S.M. Marikkar says it is vital for all Presidential candidates to disclose economic and debt repayment plans to citizens
-
-Assures an SJB Govt. will convene international donor conference, attract more investments, increase manufacturing and export revenue, and seek new market opportunities
-
-Challenges NPP, SLPP, and President Ranil Wickremesinghe to reveal plans for SL
-
-Claims groups abroad who worked to elect Gotabaya Rajapaksa are now backing AKD
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar emphasised the critical need for all Presidential candidates to disclose their economic and debt repayment plans to the public before the upcoming elections.
-
-...
-
-[Data](articles/9f57fb07.json)
-
-[Extended Data](ext_articles/9f57fb07.ext.json)
-
----
-
-### Semasinghe says SL’s debt repayment higher than borrowing in 1H
-
-*2024-07-22 01:21:37* · [`dailyftlk`](https://www.ft.lk/news/Semasinghe-says-SL-s-debt-repayment-higher-than-borrowing-in-1H/56-764565) · `en`
-
-State Minister of Finance Shehan Semasinghe yesterday announced that the Government successfully paid off a debt of Rs. 129 billion in the first six months of 2024.
-
-The repayment surpasses the amount of debt acquired through Treasury Bonds and Treasury Bills during the same period.
-
-According to him, between January and June 2024, the Government obtained a total of Rs. 4,852 billion in debt through these financial instruments. However, it managed to repay Rs. 4,981 billion, demonstrating a commitment to fiscal responsibility.
-
-Semasinghe stressed that public focus often lies on the debt incurred, but it is crucial to recognise the Government’s efforts in repaying these loans and net borrowing.
-
-He highlighted that, prior to the economic crisis, the Central Bank had the ability to print money as required, which led to an inflation rate as high as 70%.
-
-...
-
-[Data](articles/c52272ef.json)
-
-[Extended Data](ext_articles/c52272ef.ext.json)
-
----
-
-### Recovery of Puliyankudal Temple Jewelry;Arrest by assistant priests
-
-*2024-07-22 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189042) · `ta`
-
-Assistant priests, aged 28, arrested for stealing jewelry from Jaffna and Puliyankudal temples. They used fake keys to rob 62 pounds of jewelry and 8 lakh rupees. During investigation, 40 pounds of jewelry were recovered, and more found in a bank. Community protests led to their arrest, with joyous relief upon recovery of part of the stolen items.
-
-🟩
-
-The 28 -year -old assistant priests have been arrested by the Special Crime Unit of the Jaffna District for allegedly robbing jewelery at the Jaffna and Puliyankudal Muthu Vinayakar Temple.
-
-Inside the temple, 62 pounds of jewelery and 8 lakh rupees were missing.
-
-As the police were carrying out investigations, the police found that the temple would not be broken and the police found that jewelery and money had been robbed using fake keys.
-
-Subsequently, the police arrested the 28 -year -old assistant priests who worked at the temple during the temple festival.
-
-Investigations carried out by the arrested person have recovered 40 pounds of jewelery. Other jewelery has been found in the bank.
-
-Police continue to investigate the suspect at the police station
-
-At the same time, the people of the area staged a protest last week demanding the immediate arrest of the culprits in the temple.
-
-...
-
-[Data](articles/ff71ab51.json)
-
-[Extended Data](ext_articles/ff71ab51.ext.json)
-
----
-
-### Sacrificing Universities For Political Pandering: The Troubling Case Of The Proposed NEPF
-
-*2024-07-22 00:23:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sacrificing-universities-for-political-pandering-the-troubling-case-of-the-proposed-nepf/) · `en`
-
-...
-
-[Data](articles/173024f5.json)
-
-[Extended Data](ext_articles/173024f5.ext.json)
-
----
-
-### Sri Lanka Caught In A Constitutional Quagmire
-
-*2024-07-22 00:16:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-caught-in-a-constitutional-quagmire/) · `en`
-
-The looming Presidential election to be soon followed by the General Election of the Parliament has lead to confused conjectures creating a rumpus never experienced before. The issue is centered around the controversy on the term of office of the President and the period of continuity of the parliament once elected.
-
-Already two parties have gone before the Supreme Court invoking determination on the consistency with the Constitution of repealing and replacing of Article 30, under the 19th Amendment to the Constitution, certified on 15th May, 2015.
-
-Leaving the argumentation part to the more qualified legal profession I intend to set out below the issues concerning the matter about which there is a growing strong dispute debated in public and the media.
-
-a) A Bill for the amendment or for the repeal and replacement of or which is inconsistent with any of the provisions of Articles 1, 2, 3, 6, 7, 8, 9, 10 and 11 or of this Article, and
-
-...
-
-[Data](articles/4a96d74c.json)
-
-[Extended Data](ext_articles/4a96d74c.ext.json)
 
 ---

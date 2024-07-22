@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 11:35:53**
+As of **2024-07-22 11:55:33**
 
 ## Newspaper Stats
 
-*Scraped **36,524** Articles*
+*Scraped **36,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ colombotelegraphcom | 343
 bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,083
-economynextcom | 2,173
+economynextcom | 2,178
 dailyftlk | 2,321
-adalk | 3,294
+adalk | 3,295
 adaderanalk | 4,228
 tamilmirrorlk | 4,460
 dailymirrorlk | 4,733
 virakesarilk | 5,719
-adaderanasinhalalk | 6,129
+adaderanasinhalalk | 6,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,523 (100.0%) of 36,524 articles have been extended.
+36,524 (100.0%) of 36,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### පාසල් ළමුන් ඉලක්ක කරගත් මත්කරල් ජාවාරමක්
+
+*2024-07-22 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199078) · `si`
+
+පාසල් ළමුන් ඉලක්ක කරගනිමින මත්කරල් ජාවාරමේ යෙදී සිටි කාන්තාවක් පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+විශේෂ කාර්ය බළකාය ගෝනහේන කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව ඊයේ (21) දින කඩවත පොලිස් වසමේ අංක 338/5/බි, ගෝනහේන, වෑබඩ ලිපිනයේ දී අදාළ වැටලීම සිදුකර ඇත.
+
+එහි දී පාසල් ළමුන් ඉලක්ක කර අලෙවි කිරීම සඳහා‍ මත්කරල් 230ක් සන්තකයේ තබාගෙන සිටි වෑබඩ ප්‍රදේශයේ පදිංචි වයස අවුරුදු 44ක කාන්තාවක් ජංගම දුරකථනයක්ද සමග අත්අඩංගුවට ගැනීමට විශේෂ බළකා නිලධාරින් සමත්වුණි.
+
+වැඩිදුර විමර්ශන සඳහා සැකකාරියව කඩවත පොලිස් ස්ථානය වෙත භාරදී තිබේ.
+
+◼️
+
+[Data](articles/bd06b22b.json)
+
+---
 
 ### Colombo HC orders release of Ven. Gnanasara Thero on bail
 
@@ -42,7 +60,9 @@ This order was issued by Colombo High Court judge Adithya Patabendige this morni
 
 On July 18, 2024, the Court of Appeal granted bail for Ven. Galagodaaththe Gnanasara Thero, who had been sentenced to four years of rigorous imprisonment for making defamatory comments on Islam at Kuragala, until the hearing of the revision petition filed by him.
 
-◼️
+Accordingly, the Thero was ordered to be released on a monetary bail of Rs 50,000 and two surety bail of Rs 500,000 each. Additionally, the Appeals Court imposed an overseas travel ban on Ven. Galagodaaththe Gnanasara Thero and ordered the Colombo High Court to communicate that to the Immigration and Emigration Controller.
+
+...
 
 [Data](articles/39cc0278.json)
 
@@ -106,6 +126,26 @@ Gnanasara Thera had been convicted of two accusations at a press conference held
 
 ---
 
+### Sri Lanka to start another agency to deal with currency crisis fallout
+
+*2024-07-22 10:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-another-agency-to-deal-with-currency-crisis-fallout-173204/) · `en`
+
+ECONOMYNET – Sri Lanka will set up a new agency to help bankrupt micro-small and medium enterprises, President Ranil Wickremesinghe said as bad loans mounted in banks and many small enterprises closed down after the worst currency crisis created by the central bank.
+
+A new institution named “Enterprise Sri Lanka” will be established to provide necessary support and assistance to Micro, Small and Medium-Scale Entrepreneurs, the President had told a forum over the weekend.
+
+The government has already intervened in suspending parate action, a type of foreclosure.
+
+Since it was not possible to depend on parate suspension indefinitely a new institution named “Enterprise Sri Lanka” will be   established to provide necessary support and assistance to Micro,
+
+Classical economists Steve Hanke and Robert Higgs calls the tendency for governments to create a raft of new agencies as well as engage in new interventions, after an economic crisis is triggered ‘the law of the ratchet.
+
+...
+
+[Data](articles/f4e66ce8.json)
+
+---
+
 ### Alert issued in India after boy dies from high risk Nipah virus
 
 *2024-07-22 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100687/alert-issued-in-india-after-boy-dies-from-high-risk-nipah-virus) · `en`
@@ -129,6 +169,20 @@ The WHO has described the virus as a priority pathogen by the WHO because of its
 [Data](articles/fd3a5843.json)
 
 [Extended Data](ext_articles/fd3a5843.ext.json)
+
+---
+
+### හිරුණිකාට සහනයක්
+
+*2024-07-22 10:42:35* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-සහනයක්/11-410901) · `si`
+
+හිරුණිකා ප්‍රේමචන්ද්‍ර විසින් ඉදිරිපත් කළ ඇප ඉල්ලීම සළකා බැලීමෙන් අනතුරුව බරපතළ වැඩසහිත වසර තුනක සිරදඬුවම් නියම වී සිටින ඇය ඇප මත මුදා හරින ලෙස කොළඹ මහාධිකරණය නියෝග කර තිබෙනවා.
+
+2015 වසරේ දෙසැම්බර් 21 වනදා දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ තරුණයකු ඩිෆෙන්ඩර් රථයකින් පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තබා පහරදීම ඇතුළු චෝදනා 18කට වරදකාරිය කෙරුණු හිරුණිකා ප්‍රේමචන්ද්‍රට කොළඹ මහාධිකරණය විසින් බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් පසුගියදා නියම කර තිබුණා.
+
+◼️
+
+[Data](articles/bc213e24.json)
 
 ---
 
@@ -247,6 +301,30 @@ Colombo High Court Judge Amal Ranarajah has ordered Hirunika Premachandra to be 
 [Data](articles/fa89675d.json)
 
 [Extended Data](ext_articles/fa89675d.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 303.15/30 to US dollar
+
+*2024-07-22 10:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-15-30-to-us-dollar-173185/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.15/30 to the US dollar on Monday, dealers said. Bond yields were broadly steady, they said and stocks were down 0.02 percent.
+
+In the secondary market, yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.45/50 percent, from 10.40/55 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.55/70 percent, up from 11.50/65 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.75/80 percent, from 11.70/85 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.00/15 percent, up from 12.00/10 percent.
+
+In equities, Colombo’s All Share Price Index opened 2.21 points lower at 11,724, while the S&P SL20 of more liquid stocks opened down at 0.08 percent or 2.68 points to 3,426.
+
+◼️
+
+[Data](articles/4f89b8d8.json)
 
 ---
 
@@ -650,6 +728,22 @@ Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the
 
 ---
 
+### Sri Lanka net foreign debt falls in 2023, despite borrowing US$1.5bn for budget
+
+*2024-07-22 08:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-net-debt-falls-in-2023-despite-borrowing-us1-5bn-for-budget-173142/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central government’s net foreign debt fell to 36.3 billion US dollars in 2023, from 37.5 billion dollars in 2022, despite the government borrowing 1.57 billion US dollars to finance the budget deficit, official data shows.
+
+When a reserve collecting central bank does not print money to enforce its policy rate or the average weighted call money rates or the 7 day rate or any other rate targeted by term reverse repo auctions, there are no forex shortages, allowing foreign debt to be repaid with rupee revenues.
+
+In 2023, the government borrowed 1.52 billion US dollars to finance its deficit, mostly supported by loans from the International Monetary Fund and budget support loans from the Asian Development Bank and World Bank.
+
+...
+
+[Data](articles/6f6fd573.json)
+
+---
+
 ### Final decision on importation today
 
 *2024-07-22 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199071) · `si`
@@ -812,21 +906,27 @@ At the recent election -related direct argument, Donald Trump was unable to answ
 
 ---
 
-### பைடன்  விலகினார்
+### Baidan quit
 
 *2024-07-22 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைடன்-விலகினார்/50-340799) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலுக்கான போட்டியில் இருந்து விலகுவதாக, தற்போதைய ஜனாதிபதி ஜோ பைடன் அறிவித்துள்ள நிலையில், இந்திய வம்சாவளியான கமலா ஹாரிஸ் ஜனநாயக கட்சி சார்பில் ஜனாதிபதி வேட்பாளராக விரைவில் அறிவிக்கப்படவுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Joe Biden withdraws from re-election due to health concerns, paving the way for Vice President Kamala Harris to lead the Democratic ticket against former President Donald Trump, who is set to run for the Republicans.
 
-அமெரிக்க ஜனாதிபதி பதவிக்கான தேர்தல், நவ.,5ஆம் திகதி நடக்கவுள்ளது. இந்த தேர்தலில், குடியரசு கட்சி சார்பில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப், 78, வேட்பாளராக அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டுள்ளார்.
+🟩
 
-ஜனநாயக கட்சி சார்பில் தற்போதைய ஜனாதிபதி ஜோ பைடன், 81, போட்டியிடவுள்ளதாக அறிவிக்கப்பட்டது. சிகாகோவில், அடுத்த மாதம், 19 - 22ல் நடக்கும் கட்சியின் மாநாட்டில் அவர் முறைப்படி ஜனாதிபதி வேட்பாளராக அறிவிக்கப்படுவார் என, தெரிவிக்கப்பட்டிருந்தது.
+International media reports that the current President of the United States, Kamala Harris Democratic Party, will soon be announced as the presidential candidate, as current President Joe Bidan has announced his withdrawal from the US presidential election.
 
-சமீபத்தில் நடந்த தேர்தல் தொடர்பான நேரடி வாத நிகழ்ச்சியில், டொனால்ட் டிரம்ப் கேள்விகளுக்கு பதிலளிக்க முடியாமல், ஜோ பைடன் திணறினார். இதைத் தொடர்ந்து, ஜனாதிபதி வேட்பாளரை மாற்ற வேண்டும் என, அவருடைய கட்சியில் பலரும் குரல் கொடுக்கத் துவங்கினர்.
+Elections for US President. Former President Donald Trump, 78, has been officially announced on behalf of the Republican Party.
+
+It was announced that current President Joe Biden, 81, will contest on behalf of the Democratic Party. In Chicago, it was announced that he would formally be declared the presidential candidate at the party's party conference next month.
+
+At the recent election -related direct argument, Donald Trump was unable to answer the questions, Joe Bidan was struggling. Following this, many of his party began to voice their voice to replace the presidential candidate.
 
 ...
 
 [Data](articles/e2076192.json)
+
+[Extended Data](ext_articles/e2076192.ext.json)
 
 ---
 
@@ -879,6 +979,30 @@ In other parts of the island, a rainy weather is expected to be mainly.
 [Data](articles/04319461.json)
 
 [Extended Data](ext_articles/04319461.ext.json)
+
+---
+
+### Biden drops out of Presidential race, endorses Harris
+
+*2024-07-22 05:13:00* · [`economynextcom`](https://economynext.com/biden-drops-out-of-presidential-race-endorses-harris-173107/) · `en`
+
+ECONOMYNEXT – US President Joe Biden has ended his re-election campaign and also endorsed Vice-President Kamala Harris for the nomination after rising calls by fellow democrats to drop out.
+
+“My fellow Democrats, I have decided not to accept the nomination and to focus all my energies on my duties as President for the remainder of my term,” Biden said in a post on X.com (twitter).
+
+“My very first decision as the party nominee in 2020 was to pick Kamala Harris as my Vice President. And it’s been the best decision I’ve made.
+
+“Today I want to offer my full support and endorsement for Kamala to be the nominee of our party this year.”
+
+President Biden has come under increasing pressure to drop out over concerns over cognitive impairments following a public debate with Donald Trump and subsequent public appearances.
+
+Donald Trump concluded what was widely agreed to be a successful convention.
+
+Some democrats are calling for an ‘open process’ to select a new candidate.
+
+...
+
+[Data](articles/8166e06e.json)
 
 ---
 
@@ -2163,135 +2287,5 @@ He said that under a government's government, the Passover attack would be ensur
 [Data](articles/886ee85b.json)
 
 [Extended Data](ext_articles/886ee85b.ext.json)
-
----
-
-### Electricity tariffs have declined;Water fees are also to be restructured;Ranil Wickremesinghe's rule should continue - M. Rameshwaran MP
-
-*2024-07-21 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189031) · `ta`
-
-MP Maruthabandi Rameshwaran supports continuing President Ranil Wickremesinghe's rule, citing economic improvements including lower electricity and water costs. He highlights infrastructure developments like the Nuwara Eliya road project as evidence of progress.
-
-🟩
-
-Maruthabandi Rameshwaran, CWC and Nuwara Eliya district parliamentarian, said that the current President Ranil Wickremesinghe's regime should continue and the people of the country have realized that the economy of Sri Lanka is to travel towards development.
-
-The main road leading to Nuwara Eliya via Punduloya to Nuwara Eliya, which has been a hill and pit for several years, has been deployed under the 1000 km road development project of 2024 at a cost of 130 million rupees.Plantation Infrastructure Development Minister Jeevan Thondaman and Nuwara Eliya District Parliamentarian Maruthapandi Rameshwaran were opened on Sunday (20).
-
-Speaking at the event, Parliamentarian Rameshwaran added that he added.
-
-...
-
-[Data](articles/59fd6d2c.json)
-
-[Extended Data](ext_articles/59fd6d2c.ext.json)
-
----
-
-### Three disciples arrested
-
-*2024-07-21 18:32:40* · [`adalk`](https://www.ada.lk/breaking_news/කංජිපානිගේ-ගෝලයන්-තුනක්-අල්ලයි/11-410894) · `si`
-
-In a major crackdown on drug trafficking, three individuals were arrested in Welisara by a team led by a female officer. The suspects, aged 28 and 26, were part of a larger operation involving 33 people. During their arrest, 10 grams of heroin, 47,000.00 in cash, and two mobile phones were seized. The suspects admitted to being part of a significant drug-dealing network. They are now in custody at the Great Resources and Ragama Police Stations, with ongoing investigations led by SSP Jayasunda Jayasundara and others.
-
-🟩
-
-A woman and two persons have been arrested by a woman and two of the ice with thirty-three persons, claiming that the country's drug trafficking was carried out abroad.
-
-The arrest was a resident of Welisara (28) and a resident of Welisara Resident (26) and 24) and (24).
-
-Special Task Force Police Inspector SDPN in the Gonahana Camp at Gonnahena. Deshapriya and Sub Inspector RPSty. The suspects were arrested on two special search operations carried out by two teams of women and other officers in the Ragama Police Division.
-
-There are 10 grams of heroin, a resident of Welisara, a resident of Welisara, a resident of Welisara.47,000.00 and two mobile phones were taken into police custody, a resident of the area was able to be taken into custody, 03 ml of ice.
-
-The arrested suspects have revealed that a large scaley drug dealer and organized criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal.
-
-...
-
-[Data](articles/b6a4ee75.json)
-
-[Extended Data](ext_articles/b6a4ee75.ext.json)
-
----
-
-### Ranil to: Resolution in Gampaha
-
-*2024-07-21 18:30:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/ரணில்-வேண்டும்-கம்பஹாவில்-தீர்மானம்/95-340773) · `ta`
-
-At a public meeting titled "We will win the Gampaha - Nam Gampaha," attendees unanimously proposed that President Ranil Wickremesinghe run in the upcoming presidential election. Minister Prasanna Ranatunga, representing the Gampaha district, presented this motion, which was accepted by a show of hands. This event took place near the Kadawatha bus stand on Sunday (21).
-
-🟩
-
-The proposal that President Ranil Wickremesinghe should contest the upcoming presidential election was unanimously passed at a public meeting "We will win the Gampaha - Nam Gampaha".
-
-Minister of Urban Development and Housing Prasanna Ranatunga presented the motion on behalf of the people of Gampaha district and unanimously accepted the proposal by raising their hands.. The public meeting will be held on Sunday (21) near the Kadawatha bus stand.
-
-◼️
-
-[Data](articles/e6481659.json)
-
-[Extended Data](ext_articles/e6481659.ext.json)
-
----
-
-### Buddhism that plucks myths: Part 04
-
-*2024-07-21 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189027) · `ta`
-
-"All identified archaeological sites in North and East are considered historical myths of Buddhism."
-
-🟩
-
-'All areas that have been identified as archaeological areas in the North and East are the historical myths of Buddhism and occupied.'
-
-◼️
-
-[Data](articles/a8901eb1.json)
-
-[Extended Data](ext_articles/a8901eb1.ext.json)
-
----
-
-### New chapter of the Department of Homeland
-
-*2024-07-21 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189025) · `ta`
-
-The Department of Homeland Security requires the Commissioner to make certain information available electronically, especially related to financial transactions, based on specific criteria.
-
-🟩
-
-"The Commissioner must provide access to such information on such information on the basis of such information on the electronic form or to be imposed on such information on financial transactions.
-
-◼️
-
-[Data](articles/b829f817.json)
-
-[Extended Data](ext_articles/b829f817.ext.json)
-
----
-
-### Russia is the fourth economic force in the world
-
-*2024-07-21 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189023) · `ta`
-
-In early June, the World Bank ranked Russia as the fourth-largest economy globally based on PPP, surpassing Germany due to cheaper gas and political instability. Russia's economic growth, initially lagging, surged post-Ukraine invasion, aiming for global dominance. Despite challenges, including sanctions and a shift towards militarization, Russia's economy boomed, with the World Bank tripling its growth forecast to 3.2%. However, Russia still trails India and China in size, with the shadow economy potentially underestimating its true GDP.
-
-🟩
-
-According to the World Bank's data, published in early June, the Russian economy has become the fourth developed country in the world based on Purchase- Power and Balance (PPP).
-
-According to PNE report last August, Russia has already behind Germany to become the fifth largest economy. The cheapest Russian gas was cut off, and German has now been stagnant and suffered from recent political events and fell to sixth place in the World Bank rankings.
-
-Purchase-Power-Balance (PPP) and Gross National Production Measurement is preferred by many economists. This is because it takes into account the difference between local prices and nominal prices.
-
-The World Bank has upgraded Russia's ranking after reviewing its data. And Russia says that Japan has actually overtaken Japan in 2021 and has since retained the fourth place since.
-
-Its earlier calculations were based on 2017 data, but these are now updated to reflect 2021 statistics.
-
-...
-
-[Data](articles/f2e4dfd0.json)
-
-[Extended Data](ext_articles/f2e4dfd0.ext.json)
 
 ---

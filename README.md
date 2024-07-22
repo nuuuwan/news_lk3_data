@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 14:55:21**
+As of **2024-07-22 15:07:00**
 
 ## Newspaper Stats
 
-*Scraped **36,563** Articles*
+*Scraped **36,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,300
-adaderanalk | 4,234
+adaderanalk | 4,236
 tamilmirrorlk | 4,465
 dailymirrorlk | 4,733
 virakesarilk | 5,725
@@ -26,23 +26,59 @@ adaderanasinhalalk | 6,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,562 (100.0%) of 36,563 articles have been extended.
+36,563 (100.0%) of 36,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### விசேட வர்த்தமானியில் வெளியீடு
+### Postal Dept. ready for upcoming Presidential Election - Deputy Postmaster General
+
+*2024-07-22 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100695/postal-dept-ready-for-upcoming-presidential-election-deputy-postmaster-general) · `en`
+
+Deputy Postmaster General Rajitha Ranasinghe stated that the Department of Posts is fully prepared to commence its work related to the upcoming presidential election as soon as the Election Commission announces the date of the poll.
+
+Speaking at a press conference held today (22), Mr. Ranasinghe emphasized that all necessary arrangements are in place to ensure a smooth electoral process.
+
+Furthermore, the Deputy Postmaster General elaborated on the department’s role in postal voting and the distribution of official election notices. He highlighted that the Postal Department has deployed a workforce of 8,000 dedicated employees to ensure the efficient distribution of official election notice to every household.
+
+He also assured the Postal Department is committed to the safe exchange of all postal voting materials.
+
+◼️
+
+[Data](articles/42f5b2fa.json)
+
+---
+
+### Court orders arrest of Minister Jeevan Thondaman
+
+*2024-07-22 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100694/court-orders-arrest-of-minister-jeevan-thondaman-) · `en`
+
+The Nuwara Eliya Magistrate’s Court has ordered the police to arrest Minister of Plantation and Water Supply Jeevan Thondaman and to produce him before the court.
+
+◼️
+
+[Data](articles/3e69db04.json)
+
+---
+
+### Issue at the Special Gazette
 
 *2024-07-22 14:18:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வர்த்தமானியில்-வெளியீடு/175-340832) · `ta`
 
-தேர்தலின் காலத்தில் இலஞ்சம் கொடுக்க முயற்சிப்பவர்களுக்கு சுமார் ரூ.500ல் இருந்து ரூ.10 இலட்சம் அபராதம் விதிக்க  பரிந்துரைக்கப்பட்டுள்ளது.
+A fine ranging from Rs. 500 was proposed and published in the Special Gazette, signed by Justice Minister Dr. Vijayadasa Rajapaksa.
 
-குறித்த அபராதம் நீதி அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஷவின் கையொப்பத்துடன் வர்த்தமானியில் வெளியிடப்பட்டுள்ளமை குறிப்பிடப்பட்டுள்ளது,
+🟩
+
+It has been recommended to pay a fine of Rs. 500 to Rs.
+
+The fine has been released in the Gazette with the signature of the Minister of Justice Dr. Vijayadasa Rajapaksa.
 
 ◼️
 
 [Data](articles/01c68dfa.json)
+
+[Extended Data](ext_articles/01c68dfa.ext.json)
 
 ---
 
@@ -2251,43 +2287,5 @@ Educated intellectuals, scholars and expertise will develop more. This will crea
 [Data](articles/3114ee7e.json)
 
 [Extended Data](ext_articles/3114ee7e.ext.json)
-
----
-
-### Child’s Guide To Debt & Debt Restructuring: Part III
-
-*2024-07-22 00:07:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-debt-debt-restructuring-part-iii/) · `en`
-
-Aseni, whiz kid in economics, and her grandfather, Sarath Mahatthaya, an ex-official of the Finance Ministry, are having an interactive dialogue on issues relating to debt and debt restructuring, two topics of immense current interest. They have discussed two matters relating to debt restructuring, total foreign debt and its impact on the country’s indebtedness and the domestic debt optimisation. They continue their discussion.
-
-Aseni: Sri Lanka has increased its foreign borrowing during the post-independence period. For instance, its foreign borrowing at independence in 1948 was a pittance at 4% of GDP. But the total country borrowing at $ 62 billion in December 2023 amounted to 74% of GDP. It is a well-known fact that in ancient times when the country was ruled by Lankan kings, there was no borrowing from abroad to build giant tanks like Parakrama Samudra or pagodas like Rathnamali Maha Seya. How did those kings perform those miracles?
-
-...
-
-[Data](articles/01c01393.json)
-
-[Extended Data](ext_articles/01c01393.ext.json)
-
----
-
-### Woman arrested in a prison detainee
-
-*2024-07-22 00:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189040) · `ta`
-
-A 38-year-old woman from Kengalla, arrested at Pallekela Thumbara Bogambara Prison, was found with 2080mg of heroin. She has a history of drug-related offenses. Handovered to Pallekela police for further investigation.
-
-🟩
-
-2080 milligrams of heroin has been found by a woman in the Pallekela Thumbara Bogambara Prison in connection with the drug -related case.
-
-Investigations have revealed that the 38 -year -old woman, who was arrested on suspicion, is from Kengalla and that she has several cases regarding the drug.
-
-The woman, who was arrested on Saturday (20), has been handed over to the Pallekela police for further investigations.
-
-◼️
-
-[Data](articles/c5a0febe.json)
-
-[Extended Data](ext_articles/c5a0febe.ext.json)
 
 ---

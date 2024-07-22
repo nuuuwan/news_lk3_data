@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 12:35:36**
+As of **2024-07-22 12:54:00**
 
 ## Newspaper Stats
 
-*Scraped **36,543** Articles*
+*Scraped **36,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 343
 bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,083
-economynextcom | 2,181
+economynextcom | 2,183
 dailyftlk | 2,321
-adalk | 3,298
-adaderanalk | 4,231
+adalk | 3,299
+adaderanalk | 4,232
 tamilmirrorlk | 4,462
 dailymirrorlk | 4,733
 virakesarilk | 5,719
@@ -26,11 +26,67 @@ adaderanasinhalalk | 6,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,541 (100.0%) of 36,543 articles have been extended.
+36,543 (100.0%) of 36,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### Sri Lanka elections: president to announce decision in due course, invites rivals
+
+*2024-07-22 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-elections-president-to-announce-decision-in-due-course-invites-rivals-173268/) · `en`
+
+ECONOMYNEXT — President Ranil Wickremesinghe has said he will respond to invitations to contest the 2024 presidential election in due course, while also inviting his opposition rivals to join his efforts develop Sri Lanka.
+
+Speaking at a rally in Gampaha on Sunday July 21, Wickremesinghe said politics should align with the country’s needs.
+
+“The future of our country cannot be determined solely by political agendas. I will not allow that. Politics should align with the country’s needs; otherwise, our country has no future. We must advance as a proud nation, making meaningful changes rather than issuing false promises. The country’s progress should not be driven by political agendas, but by a shared vision for national development. I invite Sajith Premadasa and Anura Dissanayake to join us in this effort. Let’s embark on this journey together,” he said.
+
+...
+
+[Data](articles/95a1d538.json)
+
+---
+
+### SriLankan Airlines still seeks foreign partner – report
+
+*2024-07-22 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100691/srilankan-airlines-still-seeks-foreign-partner-report) · `en`
+
+While Sri Lanka has scrapped plans to sell a stake in its national carrier, SriLankan Airlines, after foreign offers it sought didn’t meet up to expectations, government officials say they are pursuing an alternate route which still includes attracting investors to the debt-ridden airline.
+
+“We are looking at an alternate proposal which would still be under the previous plan to invite investors. It’s sensitive at the moment but we hope to announce the new plan in two to three weeks,” said a source close to the negotiating team.
+
+On Thursday, the government said it had dropped plans to sell a minority stake of 49 per cent of SriLankan Airlines, after none of the bidding entities that expressed interest in it was deemed “worthy”.
+
+“Instead, the airline will undergo restructuring under an alternate plan,” stated Sri Lankan minister of ports, shipping and aviation Nimal Siripala de Silva. However, he did not share what the alternate proposal was.
+
+...
+
+[Data](articles/111fc185.json)
+
+---
+
+### පින්වත්ත OIC ට ඩුබායි මත්කුඩු ජාවාරම්කරුවෙකුගෙන් මරණ තර්ජන
+
+*2024-07-22 12:18:00* · [`adalk`](https://www.ada.lk/breaking_news/පින්වත්ත-OIC-ට-ඩුබායි-මත්කුඩු-ජාවාරම්කරුවෙකුගෙන්-මරණ-තර්ජන/11-410909) · `si`
+
+පානදුර, පින්වත්ත පොලිසියේ ස්ථානාධිපති වරයාට ඩුබායි රාජ්‍යයේ සැගව සිටින ප්‍රබල මත්කුඩු ජාවාරම්කරුවෙක් විසින් මරණ තර්ජන එල්ලකර ඇති බව පානදුර පොලිස් ආරංචි මාර්ග සදහන් කරයි.
+
+පින්වත්ත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පත්ම නන්දන මහතා ට මෙසේ දුරකථන මගින් මරණ තර්ජන සිදුකර ඇති බව සදහන් වේ.
+
+ලංකාවේ ප්‍රබල මත්කුඩු ජාවාරම්කරුවෙකුගේ ගෝලයෙකු විසින් මෙසේ තර්ජනය කර ඇති බව පැවසේ.
+
+මරණ තර්ජන එල්ලකර ඇති සැකකරුගේ අනියම් බිරිද, සොහොයුරියක ඇතුළු තිදෙනෙකු  මත්කුඩු සමග මීට මාස කිහිපයකට පෙර  පින්වත්ත ස්ථානාධිපති වරයා විසින් අත්අඩංගුවට ගෙන ඇති බව පොලිස් ආරංචි මාර්ග සදහන් කරයි.
+
+සිද්ධිය සම්බන්ධයෙන් පානදුර ජේෂ්ඨ පොලිස් නිළධාරින් කිහිප දෙනෙක්  ගෙන් විමසීමක් කලද ඔවුන් සදහන් කලේ එවැනි මරණ තර්ජනයක් සම්බන්ධයෙන් වාර්තාවී නොමැති බවයි.
+
+කෙසේ නමුත් ඉතා අවංකව රාජකාරි ඉටුකරන නිළධාරියෙක් වන ප්‍රධාන පොලිස් පරීක්ෂක වරයාගේ ජීවත අවධානම සම්බන්ධයෙන් ජේෂ්ඨ නිළධාරින්ගේ අවධානය යොමුකල යුතු බවද පොලිස් අභ්‍යන්තර ආරංචි මාර්ග සදහන් කරයි.
+
+◼️
+
+[Data](articles/9689838f.json)
+
+---
 
 ### Woman arrested for drug trafficking targeting schoolchildren
 
@@ -48,21 +104,45 @@ The suspect has been handed over to the Kadawatha Police for further investigati
 
 [Data](articles/478458a9.json)
 
+[Extended Data](ext_articles/478458a9.ext.json)
+
 ---
 
-### මිද්දේණියේ වෙඩි තැබිමක්
+### Sri Lanka receives Japan-funded refrigerated trucks for vaccine delivery via UNICEF
+
+*2024-07-22 11:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-receives-japan-funded-refrigerated-trucks-for-vaccine-delivery-via-unicef-173258/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s ministry of health has received nine refrigerated trucks procured by the United Nation’s Children’s Fund (UNICEF) with funding from the government of Japan to improve delivery of vaccines to all children.
+
+UNICEF said in a statement that the trucks were ceremoniously handed over to Health Minister Ramesh Pathirana by Ambassador of Japan to Sri Lanka Mizukoshi Hideaki and Acting UNICEF Representative in Sri Lanka Begoña Arellano.
+
+The trucks are part of a total contribution of 3 million US dollars from Japan that funded cold chain equipment, including large, walk-in cold rooms to store vaccines at safe temperatures, portable vaccine carriers and temperature monitors, which have already been handed over to the Ministry of Health intermittently from 2021 to date, UNICEF said.
+
+...
+
+[Data](articles/bda412cd.json)
+
+---
+
+### Shooting of the Minectory
 
 *2024-07-22 11:53:15* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දේණියේ-වෙඩි-තැබිමක්/11-410906) · `si`
 
-මිද්දෙණිය ගල්පොත්තායාය ජුලම්පිටිය මාර්ගයේ 06 කණුව ප්‍රදේශයේදී යතුරුපැදියකින් ගමන් කරමින් සිටි යුවළකට ඊයේ (21) රාත්‍රි වෙඩි තබා පලාගොස් ඇතැයි මිද්දේණිය පොලීසය කියයි. වෙඩි තැබිමෙන් යතුරු පැදිකරු තුවාල ලබා ඇති අතර, යතුරු පැදිය පෙරළීමෙන් යතුරු පැදියේ පසු පසු ගමන් ගත් කාන්තාව තුවාල ලබා මිද්දේණිය රෝහලට ඇතුලත් කර වැඩිදුර ප්‍රතීකාර සදහා ඇඹ්ලිපිටිය රෝහල වෙත මාරු කර යවා තිබේ.
+A shooting incident occurred yesterday at Point, resulting in two fatalities and one injury. The victims, a 42-year-old man and a 40-year-old woman, were targeted while closing their shop and heading home on a motorcycle. The assailants escaped, and the police are investigating.
 
-වෙඩි වැදිමෙන් තුවාල ලැබු පිරිමි පුද්ගලයා වයස අවුරුදු 42ක් වන අතර,කාන්තාව වයස අවුරුදු 40 ක් වන පුලම්පිටිය ප්‍රදේශයේ පදිංචි අඹුසැමි යුවලකී. තුවාලකරුවන් ඔවුන්ගේ වෙළදසැල වසා දමා යතුරු පැදියෙන් නිවසට යමින් සිටියදී මෙම වෙඩි වැදිම සිදුව තිබේ.
+🟩
 
-සැකකරුවන් වෙඩි තැබිමට රෑගෙන එන ලද මෙරට නිෂ්පාදිත ගිනි අවිය වෙඩි තැබිම සිදු කළ ස්ථානයේ දමා පලා ගොස් ඇත.සැකකරුවන් පැමිණි ආකාරය සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය කියයි. මිද්දේණිය පොලීසිය වැඩිදුර විමර්ශණ සිදු කරනු ලබයි.
+Miners today say that a couple shot dead yesterday (21) at Point. The motorcyclist was injured and the motorcyclist was injured and the motorcyclist was injured and admitted to the Minedandama hospital for further chance.
+
+The man who was injured in a shooting was 42 years old and a woman aged 40 years old. The injured were shooting while closing their shop and heading to the motorcycle.
+
+The suspects have fled the morning where the suspects were shooting and fled. Police say that information has been revealed so far.. The Minedegama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/e027c391.json)
+
+[Extended Data](ext_articles/e027c391.ext.json)
 
 ---
 
@@ -356,13 +436,11 @@ Gnanasara Thera had been convicted of two accusations at a press conference held
 
 ECONOMYNET – Sri Lanka will set up a new agency to help bankrupt micro-small and medium enterprises, President Ranil Wickremesinghe said as bad loans mounted in banks and many small enterprises closed down after the worst currency crisis created by the central bank.
 
-A new institution named “Enterprise Sri Lanka” will be established to provide necessary support and assistance to Micro, Small and Medium-Scale Entrepreneurs, the President had told a forum over the weekend.
+A new institution named “Enterprise Sri Lanka” will be established to provide necessary support and assistance to micro, small and medium-scale entrepreneurs, the President had told a forum over the weekend.
 
 The government has already intervened in suspending parate action, a type of foreclosure.
 
-Since it was not possible to depend on parate suspension indefinitely a new institution named “Enterprise Sri Lanka” will be   established to provide necessary support and assistance to Micro,
-
-Classical economists Steve Hanke and Robert Higgs calls the tendency for governments to create a raft of new agencies as well as engage in new interventions, after an economic crisis is triggered ‘the law of the ratchet.
+Since it was not possible to depend on parate suspension indefinitely, a new institution named “Enterprise Sri Lanka” will be established to provide necessary support and assistance to micro, small and medium-scale entrepreneurs.
 
 ...
 
@@ -2181,95 +2259,5 @@ The Election Commission has been given the authority to carry out it without any
 [Data](articles/04f3b26f.json)
 
 [Extended Data](ext_articles/04f3b26f.ext.json)
-
----
-
-### Target received at Jaffna
-
-*2024-07-21 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199063) · `si`
-
-In the Lanka Premier League finals, Gawle Marvels face Jire Kings at Colombomarama International Stadium. Batting first, the village made 184/6 in 6 overs, led by Bhanuka Rajapaksa's 82 off 34 balls. Jire Kings chose to field after winning the toss.
-
-🟩
-
-The final match of the Lanka Premier League will be held between the Gawle Marvels and Jire Kings team at the Colombomarama International Stadium in Colombo.
-
-Batting first, the village scored 184 runs for the loss of 6 wickets in the loss of 6 overs.
-
-Bhanuka Rajapaksa scored 82 runs off 34 balls.
-
-Jatna Kings, won the toss and the team, decided to bowl first.
-
-◼️
-
-[Data](articles/cc2a9fa9.json)
-
-[Extended Data](ext_articles/cc2a9fa9.ext.json)
-
----
-
-### People should make the right decisions to choose the leadership to face the challenges - Scott Morrison
-
-*2024-07-21 20:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/189035) · `ta`
-
-Scott Morrison emphasizes the importance of choosing the right leadership to navigate future challenges, highlighting the unique efforts towards stability in post-crisis Sri Lanka. He underscores the strength of the Australian-Sri Lankan relationship and encourages Sri Lankans to make crucial decisions for their nation's democratic future, supported by a strong economy and international partnerships.
-
-🟩
-
-The work being carried out to bring about stability in Sri Lanka over the past two years after the economic crisis is truly unusual. Former Australia's Prime Minister and Finance Minister Scott Morrison said people should make the right decisions in the coming months to elect leadership to face such future challenges in the future.
-
-Speaking at a recent event in Colombo, he said this.
-
-In the past I have come here in some cases. There have been many changes compared to that period.When he visited the port of Trincomalee a few years ago, it was reported that it was the best port in the world.
-
-Another reason I came to Sri Lanka was to strengthen the unity with Sri Lankans. Sri Lankans are the best friends of Australia. There is amazing people's relationship between Sri Lanka and Australia. Even if it is real. We have a huge confidence in Sri Lanka.
-
-...
-
-[Data](articles/010a9f52.json)
-
-[Extended Data](ext_articles/010a9f52.ext.json)
-
----
-
-### Sri Lanka records over 1 million tourist arrivals so far in 2024
-
-*2024-07-21 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100675/sri-lanka-records-over-1-million-tourist-arrivals-so-far-in-2024) · `en`
-
-The total number of tourist arrivals to Sri Lanka during the period elapsed this year, as of 18 July 2024, stands at a remarkable 1,019,642.
-
-According to the latest data released by the Sri Lanka Tourism Development Authority (SLTDA), 43,083 tourists have arrived in Sri Lanka during the first week of July while 42,343 arrived during the second week of the month.
-
-Meanwhile, 23,967 arrivals were recorded during the first four days of the third week of July.
-
-A total of 27,574 Indian tourists have visited Sri Lanka up to the 18 July, accounting for 25.2% of all tourist arrivals, marking the highest contribution from any single country.
-
-Significant numbers of tourists also arrived from the United Kingdom, China, Germany, and the Netherlands, according to the SLTDA.
-
-◼️
-
-[Data](articles/b11883c7.json)
-
-[Extended Data](ext_articles/b11883c7.ext.json)
-
----
-
-### There is no place for referendum before the presidential election -Rahana Hettiarachchi
-
-*2024-07-21 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189034) · `ta`
-
-Rahana Hettiarachchi, the Executive Director, clarified that the 22nd Amendment to the Constitution does not necessitate a referendum before the upcoming presidential election. Despite public concerns, he assured that the process remains unchanged, with the Election Commission expected to announce the election date soon, likely before the end of September.
-
-🟩
-
-Following the government's release of the 22nd Amendment to the Constitution, there is suspicion among the people whether they will have to go to a referendum before the presidential election. However, the Executive Director of the February, the Executive Director of the February, said that there was no place to back the presidential election through the constitutional amendment or to go to the referendum before the presidential election.
-
-He was speaking at a press conference held in Colombo on Sunday (21) on the 22nd Amendment to the Constitution.
-
-...
-
-[Data](articles/aa972a17.json)
-
-[Extended Data](ext_articles/aa972a17.ext.json)
 
 ---

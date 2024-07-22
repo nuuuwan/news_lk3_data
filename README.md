@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 09:20:31**
+As of **2024-07-22 09:35:47**
 
 ## Newspaper Stats
 
-*Scraped **36,495** Articles*
+*Scraped **36,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,291
 adaderanalk | 4,222
-tamilmirrorlk | 4,448
+tamilmirrorlk | 4,449
 dailymirrorlk | 4,733
-virakesarilk | 5,717
+virakesarilk | 5,719
 adaderanasinhalalk | 6,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,491 (100.0%) of 36,495 articles have been extended.
+36,495 (100.0%) of 36,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### நீர் நிரம்பிய கற்குழிக்குள் மூழ்கி தாயும் இரண்டு பிள்ளைகளும் உயிரிழப்பு!
+
+*2024-07-22 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189047) · `ta`
+
+அம்பாந்தோட்டை, திஸ்ஸமஹாராம காவந்திஸ்ஸ புர பகுதியில் நீர் நிரம்பிய கற்குழிக்குள் மூழ்கி தாய் மற்றும் இரண்டு பிள்ளைகள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தாயும் இரண்டு பிள்ளைகளும் நேற்று ஞாயிற்றுக்கிழமை (21) பிற்பகல்  நீராடச் சென்ற போது இந்த சம்பவம்  இடம்பெற்றுள்ளது.
+
+32 வயதுடைய தாய், 14 வயது மற்றும் 9 வயதுடைய இரண்டு சிறுவர்களே இவ்வாறு உயிரிழந்துள்ளனர்.
+
+தாயின் சடலம் நேற்றையதினம் இரவு கண்டெடுக்கப்பட்டதோடு, இரு பிள்ளைகளின் சடலங்களை தேடும் நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a2baa240.json)
+
+---
+
+### இவ் வருடத்தின் இதுவைரையான காலப்பகுதியில் 10 இலட்சம் சுற்றுலா பயணிகள் வருகை
+
+*2024-07-22 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189046) · `ta`
+
+இந்த வருடம் ஜனவரி முதலாம் திகதி  முதல் ஜூலை மாதம் 18 ஆம் திகதி வரை நாட்டிற்கு 1,019,642  சுற்றுலா பயணிகள் வருகை தந்துள்ளனர்.
+
+அதன்படி, ஜூலை மாதம் முதல் வாரத்தில் 43,083 பேரும், இரண்டாம் வாராத்தில் 42,343 பேரும்,  மூன்றாவது வாரத்தின் முதல் நான்கு நாட்களில் 23,967 பேரும் வருகை தந்துள்ளதாக  சுற்றுலா அபிவிருத்தி அதிகாரசபை வெளியிட்டுள்ள  தரவுகளில் குறிப்பிடப்பட்டுள்ளது.
+
+இதேவேளை, ஜூலை மாதம் மூன்றாவது வாரத்தின் முதல் நான்கு நாட்களில் 23,967 பேர் வருகை தந்துள்ளனர்.
+
+ஜூலை 18 ஆம் திகதி வரையான காலப்பகுதியில் 27,574 இந்திய சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர். இது நாட்டிற்கு வருகை தந்த மொத்த சுற்றுலாப் பயணிகளின் வருகையில் 25.2 சதவீதம் ஆகும்.
+
+பிரித்தானியா,சீனா, ஜேர்மனி மற்றும் நெதர்லாந்து ஆகிய நாடுகளிலிருந்தும் குறிப்பிடத்தக்க எண்ணிக்கையிலான சுற்றுலாப் பயணிகள் வருகை தந்துள்ளதாக சுற்றுலா அபிவிருத்தி அதிகாரசபை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/685c46c6.json)
+
+---
 
 ### Advisory issued over strong winds and rough seas
 
@@ -50,6 +88,8 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 [Data](articles/909961d7.json)
 
+[Extended Data](ext_articles/909961d7.ext.json)
+
 ---
 
 ### Teachers and principals launch ‘work-to-rule’ campaign
@@ -68,6 +108,8 @@ However, the Convenor of the National Collective Against Teachers’ & Principal
 
 [Data](articles/4afbbb2b.json)
 
+[Extended Data](ext_articles/4afbbb2b.ext.json)
+
 ---
 
 ### Showers expected in parts of the country
@@ -83,6 +125,8 @@ Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the
 ◼️
 
 [Data](articles/2aa0031a.json)
+
+[Extended Data](ext_articles/2aa0031a.ext.json)
 
 ---
 
@@ -123,6 +167,8 @@ It is reported that the mother and her two children had gone to bathe in this wa
 ◼️
 
 [Data](articles/dbe192bd.json)
+
+[Extended Data](ext_articles/dbe192bd.ext.json)
 
 ---
 
@@ -825,6 +871,24 @@ Our government, which is participating in the Tamil Progressive Alliance, will s
 [Data](articles/ff9d7f06.json)
 
 [Extended Data](ext_articles/ff9d7f06.ext.json)
+
+---
+
+### மரணத்தை ஏற்படுத்தும் வீதியாக மாறிய ஏ-9 வீதி
+
+*2024-07-22 00:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணத்தை-ஏற்படுத்தும்-வீதியாக-மாறிய-ஏ-9-வீதி/175-340793) · `ta`
+
+யாழ்ப்பாணம் அரியாலை சந்தி, ஏ-9 வீதியில் நீண்ட தூரத்துக்கு மண் கொட்டப்பட்டு காணப்படுவதால் பயணிகள் மிகுந்த சிரமத்தின் மத்தியிலும் பயத்தின் மத்தியிலும் பயணத்தை மேற்கொள்கின்றனர்.
+
+குறித்த வீதியில் மண் கொட்டப்பட்டு காணப்படுகின்றது. சனிக்கிழமை (20) இரவே இவ்வாறு மண் கொட்டப்பட்டுள்ளது. மண் கடத்தல்காரர்களை பொலிஸார் துரத்தியவேளை அவர்கள் வீதியில் மண்ணை கொட்டிவிட்டு சென்றிருக்கலாம் என சந்தேகிக்கப்படுகிறது.
+
+குறித்த வீதியில் வளைவு காணப்படுவதுடன் அந்த வளைவில் ஏற்கெனவே விபத்துக்கள் இடம்பெற்றும் உள்ளன. இந்நிலையில் கொட்டப்பட்டுள்ள மண்ணினால் மேலும் விபத்துக்குகள் ஏற்படுவதற்கான சந்தர்ப்பங்கள் அதிகம் உள்ளன. இதனால் மரணம் கூட சம்பவிக்கக்கூடும் என மக்கள் அச்சம் வெளியிட்டுள்ளனர்.
+
+குறித்த மண்ணை அகற்றுவதற்கு நல்லூர் பிரதேச சபையோ அல்லது வீதி அபிவிருத்தி அதிகாரசபையோ இதுவரை எந்தவிதமான நடவடிக்கைகளும் எடுக்கவில்லை. எனவே, கொட்டிக்கிடக்கும் மண்ணை வீதியில் இருந்து அகற்றி பாதுகாப்பான போக்குவரத்துக்கு வழிசமைக்குமாறு மக்கள் கேட்டுக் கொள்கின்றனர்.
+
+◼️
+
+[Data](articles/0eb791e0.json)
 
 ---
 
@@ -2203,69 +2267,5 @@ The curfew has been imposed today and the streets of Dhaka, the capital.
 [Data](articles/0a5ff975.json)
 
 [Extended Data](ext_articles/0a5ff975.ext.json)
-
----
-
-### Special privilege to overseas workers
-
-*2024-07-21 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199053) · `si`
-
-At the "Migama" program launch, President Ranil Wickremesinghe announced plans for migrant workers to contribute to Sri Lanka's economy post-retirement. He praised their role in generating foreign exchange and expressed gratitude towards them. The initiative aims to assess their impact on the economy, particularly in the North Western Province.
-
-🟩
-
-President Ranil Wickremesinghe said that once the workers expires of their service, they would build a living environment after returning to Sri Lanka.
-
-The President also thanked the country's economy to the country's economy, who gave them foreign exchange to the country.
-
-President Ranil Wickremesinghe was speaking at the inauguration of the "Migama" program at the Independent Ground of Kurunegala this morning.
-
-Migrant workers have been established in the North Western Province, which has been organized to evaluate the contribution to the Sri Lanka economy.
-
-The President also offered Rs.
-
-◼️
-
-[Data](articles/4cb90e82.json)
-
-[Extended Data](ext_articles/4cb90e82.ext.json)
-
----
-
-### Bangladesh’s top court scales back ‘discriminatory’ job quota system after deadly protests
-
-*2024-07-21 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100668/bangladeshs-top-court-scales-back-discriminatory-job-quota-system-after-deadly-protests) · `en`
-
-Bangladesh’s top court on Sunday scaled back a controversial quota system for government job applicants after it led to nationwide unrest and deadly clashes between police and protesters that have killed scores of people.
-
-The Supreme Court in its verdict ordered 93% of the government jobs to be allocated on a merit-based system, leaving the remaining 7% for relatives of veterans who fought in Bangladesh’s war of independence in 1971 and other categories. Earlier, the system reserved 30% of such jobs to the relatives of war veterans.
-
-...
-
-[Data](articles/b01dfeb4.json)
-
-[Extended Data](ext_articles/b01dfeb4.ext.json)
-
----
-
-### Club Wasantha murder: The court order was arrested
-
-*2024-07-21 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199052) · `si`
-
-A 21-year-old girl was arrested in connection with the Club Wasantha murder and brought before the Kaduwela Magistrate's Court. The court allowed her detention for 48 hours for questioning. She was apprehended by the Western Province South Criminal Division.
-
-🟩
-
-The 21-year-old girl arrested in connection with the club spring murder was presented to the Kaduwela Kaduwela Magistrate.
-
-The court granted permission to hold the girl 48 hours and questioned to interrogate the court.
-
-The suspect was arrested by the Western Province South Criminal Division.
-
-◼️
-
-[Data](articles/16b5b374.json)
-
-[Extended Data](ext_articles/16b5b374.ext.json)
 
 ---

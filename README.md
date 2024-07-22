@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 07:51:14**
+As of **2024-07-22 08:15:11**
 
 ## Newspaper Stats
 
-*Scraped **36,484** Articles*
+*Scraped **36,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 4,218
 tamilmirrorlk | 4,447
 dailymirrorlk | 4,733
 virakesarilk | 5,716
-adaderanasinhalalk | 6,121
+adaderanasinhalalk | 6,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,481 (100.0%) of 36,484 articles have been extended.
+36,484 (100.0%) of 36,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### තිස්සමහාරාමයේ ඛේදවාචකය
+### ගුරු - විදුහල්පතිවරු අකුරට වැඩ
+
+*2024-07-22 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199070) · `si`
+
+ගුරු-විදුහල්පතිවරු අද (22)  සිට සති දෙකක කාලයක් අකුරට වැඩ කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කරන බව ගුරු සහ විදුහල්පති සංගම් පවසයි.
+
+ඒ අනුව අද සිට පළාත් අධ්‍යාපන හා කලාප අධ්‍යාපන කාර්යාල නියම කරන වැඩමුළු, තත්ත්ව කව මෙන් ම පුහුණු වැඩසටහන්වලට සහභාගී නොවන බව ඔවුන් පවසයි.
+
+ඉදිරි දෙසතිය තුළ පන්ති කාමරවල ඉගැන්වීමේ කටයුතුවලට පමණක් සම්බන්ධ වන අතර සියලු බාහිර කටයුතුවලින් ඉවත් වන බව ශ්‍රී ලංකා ජාතික විදුහල්පති සංගමයේ ප්‍රධාන ලේකම් පරාක්‍රම වික්‍රමසිංහ මහතා පැවසුවේය.
+
+කෙසේවෙතත් දේශපාලන ව්‍යාපාර ශක්තිමත් කර ගැනීමේ අරමුණින් සැලසුම්කර ඇති වෘත්තීය සමිති ක්‍රියාමාර්ගය සඳහා සහාය නොදක්වන බව ගුරු-විදුහල්පති එකමුතුවේ කැඳවුම්කරු පූජ්‍ය උලපනේ සුමංගල හිමි සඳහන් කළහ.
+
+◼️
+
+[Data](articles/71b2b73c.json)
+
+---
+
+### The tragedy of Tissamaharama
 
 *2024-07-22 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199069) · `si`
 
-තිස්සමහාරාම කාවන්තිස්ස පුර ප්‍රදේශයේ ගල්වලක ගිිලී මව සහ දරුවන් දෙදෙනෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+In Tissamaharama, a greenery enthusiast and three family members tragically drowned while bathing in a quarry. The victims included a 32-year-old mother and her two sons, aged 2 and 9 years. Their bodies were discovered after a search operation initiated by local police.
 
-තිස්සමහාරාම පොලීසිය පැවසුවේ මවගේ සිරුර ඊයේ (21) රාත්‍රියේම සොයාගෙන ඇති අතර දරුවන් දෙදෙනාගේ සිරුරු සොයා මෙහෙයුම් කටයුතු සිදුකරන බවයි.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ 32 හැවිරිදි මව සහ 14 වැහිරිදි සහ 9 හැවිරිදි පිරිමි ළමුන් දෙදෙනෙකි.
+Tissamaharama, a quarry greeneur and two children died in Kavantississa Pura area.
 
-ඊයේ පස්වරුවේ මව සහ දරුවන් දෙදෙනා මෙම ගල් වලේ දිය නෑමට ගොස් ඇති බව වාර්තා වේ.
+Tissamaharama Police said that the mother's body was found yesterday (21) and the two children find operations.
+
+The deceased has been identified as 32 year old mother and two and 9-year-old boy.
+
+It is reported that the mother and two children had been bathing in the stone last evening.
 
 ◼️
 
 [Data](articles/88589fd8.json)
+
+[Extended Data](ext_articles/88589fd8.ext.json)
 
 ---
 
@@ -74,45 +98,57 @@ At the recent election -related direct argument, Donald Trump was unable to answ
 
 ---
 
-### பைபடன்  விலகினார்:
+### Bypitan quit:
 
 *2024-07-22 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைபடன்-விலகினார்/50-340799) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலுக்கான போட்டியில் இருந்து விலகுவதாக, தற்போதைய ஜனாதிபதி ஜோ பைடன் அறிவித்துள்ள நிலையில், இந்திய வம்சாவளியான கமலா ஹாரிஸ் ஜனநாயக கட்சி சார்பில் ஜனாதிபதி வேட்பாளராக விரைவில் அறிவிக்கப்படவுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Joe Biden withdraws from the 2024 US presidential race, paving the way for Kamala Harris to run as the Democratic candidate. Donald Trump is confirmed as the Republican candidate.
 
-அமெரிக்க ஜனாதிபதி பதவிக்கான தேர்தல், நவ.,5ஆம் திகதி நடக்கவுள்ளது. இந்த தேர்தலில், குடியரசு கட்சி சார்பில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப், 78, வேட்பாளராக அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டுள்ளார்.
+🟩
 
-ஜனநாயக கட்சி சார்பில் தற்போதைய ஜனாதிபதி ஜோ பைடன், 81, போட்டியிடவுள்ளதாக அறிவிக்கப்பட்டது. சிகாகோவில், அடுத்த மாதம், 19 - 22ல் நடக்கும் கட்சியின் மாநாட்டில் அவர் முறைப்படி ஜனாதிபதி வேட்பாளராக அறிவிக்கப்படுவார் என, தெரிவிக்கப்பட்டிருந்தது.
+International media reports that the current President of the United States, Kamala Harris Democratic Party, will soon be announced as the presidential candidate, as current President Joe Bidan has announced his withdrawal from the US presidential election.
 
-சமீபத்தில் நடந்த தேர்தல் தொடர்பான நேரடி வாத நிகழ்ச்சியில், டொனால்ட் டிரம்ப் கேள்விகளுக்கு பதிலளிக்க முடியாமல், ஜோ பைடன் திணறினார். இதைத் தொடர்ந்து, ஜனாதிபதி வேட்பாளரை மாற்ற வேண்டும் என, அவருடைய கட்சியில் பலரும் குரல் கொடுக்கத் துவங்கினர்.
+Elections for US President. Former President Donald Trump, 78, has been officially announced on behalf of the Republican Party.
+
+It was announced that current President Joe Biden, 81, will contest on behalf of the Democratic Party. In Chicago, it was announced that he would formally be declared the presidential candidate at the party's party conference next month.
+
+At the recent election -related direct argument, Donald Trump was unable to answer the questions, Joe Bidan was struggling. Following this, many of his party began to voice their voice to replace the presidential candidate.
 
 ...
 
 [Data](articles/76f8824c.json)
 
+[Extended Data](ext_articles/76f8824c.ext.json)
+
 ---
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### A red announcement from the weather
 
 *2024-07-22 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199067) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+A severe weather warning has been issued for the Thagudali Fisheries and Naval Community operating in the Arabian Sea and Bay of Bengal, focusing on wind speeds between 10 and 20 Northern Latitude and the eastern bay sea area. The southwest monsoon is causing rough seas, prompting immediate landings. Showers are expected in the Western and Sabaragamuwa provinces, along with heavy rain across the island, potentially leading to strong winds in certain areas.
 
-අරාබි මුහුද ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුද ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාව ගේ විශේෂ අවධානය සඳහා මෙම නිවේදනය නිකුත් කර ඇත.
+🟩
 
-සක්‍රීය නිරිත දිග මෝසම් කාලගුණය නිසා මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 10ත් 18ත් සහ නැගෙනහිර දේශාංශ 55 සහ 75 ත් අතර මුහුදු ප්‍රදේශවල ) සහ බෙංගාල බොක්ක මුහුද ප්‍රදේශයේ (උතුරු අක්ෂාංශ 15ත් 20ත් සහ නැගෙනහිර දේශාංශ 84 සහ 91 ත් අතර මුහුද ප්‍රදේශවල )ඉතා ද සුළං ( පැ.කි.මී. 70-80) පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව දැනුම් දී තිබේ.
+Eighty winds and sea have issued a warning red announcement on floor.
 
-මෙම මුහුද ප්‍රදේශ වල ධීවර කටයුතුවල යෙදී සිටින පිරිස වහාම ගොඩ බිම ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙසට දන්වා ඇත.
+The announcement has been issued for the special focus of the Thagudali Fisheries and Naval Community which is working in the Arabian Sea and the Bay of Bengal.
 
-එමෙන්ම කාලගුණ විද්‍යා දෙපාර්තමේතුව විසින් ඉදිරයේ දී නිකුත් කරන නිවේදන සම්බන්ධයෙන් අවධානයෙන් සිටින ලෙසට ධීවර සහ නාවික ප්‍රජාවට දන්වා තිබේ.
+Winds (in areas between 10 and 20 Northern Licks) and the eastern bay sea area (between 7 and 20 Northern latitude) due to active southwest monsoon (55th latitude in the area).K. 70-80) The sea areas may exist and have been informed that the sea can be very rough.
 
-මේ අතර, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව දැනුම් දී තිබේ.
+The crowd in the sea has been immediately landed at the ground.
 
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් බලාපොරොත්තුවේ.
+The Department of Meteorology also informed the fisheries and the community to look into the announcements issued by the unleashed announcements.
+
+Meanwhile, there is a few showers in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
+
+In other parts of the island, a rainy weather is expected to be mainly.
 
 ...
 
 [Data](articles/04319461.json)
+
+[Extended Data](ext_articles/04319461.ext.json)
 
 ---
 
@@ -2245,25 +2281,5 @@ It is said that it is revealed that it is revealed that the drug was conducting 
 [Data](articles/bfda02c3.json)
 
 [Extended Data](ext_articles/bfda02c3.ext.json)
-
----
-
-### IMF delegation to visit Sri Lanka
-
-*2024-07-21 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199047) · `si`
-
-An IMF delegation will visit Sri Lanka next week to assess the country's economic progress and discuss potential actions. State Minister Shehan Semasinghe emphasizes the importance of economic growth, despite electoral elections, aiming for a stable 3.5% GDP growth rate this year, surpassing initial forecasts of 2-3%. This comes after a significant contraction from 7.8% growth in 2022 to 3.5%, highlighting the government's efforts to stabilize the economy.
-
-🟩
-
-State Minister Shehan Semasinghe says that the International Monetary Fund delegation is coming to the island next week to discuss the progress of the Sri Lankan economy and action.
-
-Speaking to the media, the public minister said that the electoral election would be paid to the growth of the economy.
-
-...
-
-[Data](articles/30a7f0a5.json)
-
-[Extended Data](ext_articles/30a7f0a5.ext.json)
 
 ---

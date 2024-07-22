@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 21:20:34**
+As of **2024-07-22 21:36:01**
 
 ## Newspaper Stats
 
-*Scraped **36,620** Articles*
+*Scraped **36,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,309
 adaderanalk | 4,246
-tamilmirrorlk | 4,469
+tamilmirrorlk | 4,470
 dailymirrorlk | 4,733
 virakesarilk | 5,740
 adaderanasinhalalk | 6,148
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,619 (100.0%) of 36,620 articles have been extended.
+36,620 (100.0%) of 36,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### பதவி நீக்காவிட்டால் தொழிற்சங்க நடவடிக்கை - GMOA எச்சரிக்கை
+
+*2024-07-22 21:20:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-நீக்காவிட்டால்-தொழிற்சங்க-நடவடிக்கை-GMOA-எச்சரிக்கை/175-340843) · `ta`
+
+தேசிய கண் வைத்தியசாலையின் பதில் பணிப்பாளரை அந்த பதவியிலிருந்து நீக்கப்படாவிட்டால் நாளை (23) காலை 8 மணிமுதல் தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படும் என அரச மருத்துவ அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+
+குறித்த வைத்தியரின் ஏற்றுக் கொள்ள முடியாத செயற்பாடுகள் காரணமாக அவரை பதவி நீக்குமாறு கோருவதாக அரச மருத்துவ அதிகாரிகள் சங்கம் விடுத்துள்ள அறிக்கை ஒன்றில் குறிப்பிடப்பட்டுள்ளது.
+
+அத்துடன் தேசிய கண் வைத்தியசாலையின் செயற்பாடுகளைச் சுமுகமாக முன்கொண்டு செல்வதற்காக, பொருத்தமான ஒருவர் அங்குப் பணிப்பாளராக நியமிக்கப்பட வேண்டும் எனவும் அரச மருத்துவ அதிகாரிகள் சங்கம் வலியுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/8d9d6bbe.json)
+
+---
 
 ### Singing is a statement from K.sewa
 
@@ -198,17 +214,23 @@ No one believes that the country can recover from the economic crisis. But I bel
 
 ---
 
-### ඉන්දීය කණ්ඩායම එයි
+### Indian team will come
 
 *2024-07-22 18:39:38* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-කණ්ඩායම-එයි/9-410917) · `si`
 
-ශ්‍රී ලංකාවට පැවැත්වීමට නියමිත සීමිත පන්දුවාර ක්‍රිකට් තරගාවලියකට එක්වීම වෙනුවෙන් ඉන්දීය කණ්ඩායම අද පස්වරුවේ දිවයිනට පැමිණියේය. ඉන්දීය කණ්ඩායමේ නායකත්වය සූර්ය කුමාර් යාදව් පත්කර තිබේ.
+The Indian cricket team, led by Sun Kumar Yadav, arrived in Sri Lanka today for a limited-overs series. This marks the debut of Gautam Gambhir as India's coach and Sanath Jayasuriya as Sri Lanka's temporary coach.
 
-මෙම තරගාවලිය ඉන්දීය කණ්ඩායමේ නව පුහුණුකරු ගෞතම් ගාම්භීර්ගේ මෙන්ම ශ්‍රී ලංකා නව තාවකාලික පුහුණුකරු සනත් ජයසූරියගේ පළමු තරගාවලියද වෙයි.
+🟩
+
+Indian team arrived in Sri Lanka this afternoon to join Sri Lanka a limited-odd cricket tournament to be held. The captaincy of the Indian team has been appointed Sun Kumar Yadav.
+
+The tournament is the first tournament of Gautam Gambhir's new coach and Sri Lanka's new temporary coach Sanath Jayasuriya.
 
 ◼️
 
 [Data](articles/5683a652.json)
+
+[Extended Data](ext_articles/5683a652.ext.json)
 
 ---
 
@@ -2357,31 +2379,5 @@ Colombo High Court Judge Amal Ranarajah has ordered Hirunika Premachandra to be 
 [Data](articles/fa89675d.json)
 
 [Extended Data](ext_articles/fa89675d.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 303.15/30 to US dollar
-
-*2024-07-22 10:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-15-30-to-us-dollar-173185/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.15/30 to the US dollar on Monday, dealers said. Bond yields were broadly steady, they said and stocks were down 0.02 percent.
-
-In the secondary market, yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.45/50 percent, from 10.40/55 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.55/70 percent, up from 11.50/65 percent.
-
-A bond maturing on 01.05.2028 was quoted at 11.75/80 percent, from 11.70/85 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.00/15 percent, up from 12.00/10 percent.
-
-In equities, Colombo’s All Share Price Index opened 2.21 points lower at 11,724, while the S&P SL20 of more liquid stocks opened down at 0.08 percent or 2.68 points to 3,426.
-
-◼️
-
-[Data](articles/4f89b8d8.json)
-
-[Extended Data](ext_articles/4f89b8d8.ext.json)
 
 ---

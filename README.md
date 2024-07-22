@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 16:35:41**
+As of **2024-07-22 16:52:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,585 (100.0%) of 36,588 articles have been extended.
+36,588 (100.0%) of 36,588 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The NCPI for all items for the month of May 2024 is 206.3 and it records a decre
 ◼️
 
 [Data](articles/730ed036.json)
+
+[Extended Data](ext_articles/730ed036.ext.json)
 
 ---
 
@@ -582,19 +584,29 @@ There were no reports of violence or protests on Monday morning and media said c
 
 ---
 
-### ඇමති ජීවන්ට වරෙන්තු
+### Warrants of ministers
 
 *2024-07-22 13:25:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ජීවන්ට-වරෙන්තු/11-410910) · `si`
 
-ලංකා කම්කරු කොන්ග්‍රසයේ මහ ලේකම් සහ වතු යටිතල පහසුකම් හා ජල ප්‍රවාහන අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා ඇතුළු සැකකරුවන් කිහිපදෙනෙකු අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කරන ලෙසට නුවරඑලිය වැඩ බලන මහෙස්ත්‍රාත් ජයමිනී අඹගහවත්ත මහතා විසින් නුවරඑලිය පොලිසියට නියෝග කර ඇත.
+Jayamini Ambagahawatta and several Ceylon Workers Congress members are to be arrested and tried for offenses under the Penal Code, as reported by the Nuwara Eliya Police. Minister Jeevan Thondaman and others from the Kelani Weldala Plantation face similar charges. Despite legal efforts to prevent this, the suspects have been presented to court.
 
-පසුගිය මැයි (30) දින අමාත්‍ය ජීවන් තොන්ඩමන් මහතා ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවන් පිරිසක් කැලණි වැලි සමාගම යටතේ පාලනය වන නුවරඑලිය පීඩෘ තේ කර්මාන්ත ශාලාවට බලහත්කාරයෙන් ඇතුළු වීමේ සිද්ධිය සම්බන්ධයෙන් නුවරඑලිය පොලිසිය විසින් නුවරඑලිය මහෙස්ත්‍රාත් අධිකරණය හමුවේ (22) දින කරුණු වාර්තා කල අවස්තාවේ මහෙස්ත්‍රාත්වරයා විසින් එම නියෝගය කල බවයි වතු සමාගම වෙනුවෙන් අධිකරණය හමුවේ කරුණු වාර්තා කල ජ්‍යෙෂ්ඨ නීතිඥ පාලිත සුහසිංහ මහතා කියා සිටියේ.
+🟩
 
-2024.05.30 දින කැලණි වැලි වතු සමාගමට අයත් නුවරඑලිය පීඩෘ තේ කර්මාන්ත ශාලාව තුලට අමාත්‍යවරයා ඇතුළු ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවන් පිරිසක් බලහත්කාරයෙන් ඇතුළු වී දණ්ඩ නීති සංග්‍රහයට පටහැනිව කටයුතු කරමින් ක්‍රියාකිරිම සම්බන්ධයෙන් නුවරඑලිය පොලිසිය මගින් අධිකරණය හමුවේ කරුණු වාර්තා කර තිබුණි.
+Videological Memorial Jayamini Ambagahawatta has been ordered to be arrested and produced before the courts and several suspects of the Ceylon Workers Congress.
 
-...
+Minister Jeevan Thondaman on May 30 (30), Hon.Senior Attorney-at-Law Palitha Suzhaasinghe said he was reported before court on behalf of the estate company.
+
+The Nuwara Eliya Police had reportedly reported the case with action against the Penal Code, including the Minister of Kelani Weldala Plantation.
+
+The Attorneys-at-Forms of the Nuwara Eliya were in writing to the courts (22), but the suspects were presented to the court.
+
+Attorneys-at-Law Palikaragoda, Senior Attorney Palika Subasinghe and Sure Gayan appeared in court on behalf of Kelani Weli Estate Company.
+
+◼️
 
 [Data](articles/8aaa87c9.json)
+
+[Extended Data](ext_articles/8aaa87c9.ext.json)
 
 ---
 
@@ -1551,6 +1563,8 @@ For decades, regimes have perpetuated impunity, showing no signs of change. Ther
 ...
 
 [Data](articles/f41ad055.json)
+
+[Extended Data](ext_articles/f41ad055.ext.json)
 
 ---
 

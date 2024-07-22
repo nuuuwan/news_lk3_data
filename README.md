@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 00:35:46**
+As of **2024-07-23 00:52:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,639 (100.0%) of 36,642 articles have been extended.
+36,642 (100.0%) of 36,642 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ By 1 October all listed companies are mandated by the listing rules of the Colom
 ...
 
 [Data](articles/0627b2a6.json)
+
+[Extended Data](ext_articles/0627b2a6.ext.json)
 
 ---
 
@@ -336,6 +338,8 @@ Dissimilarities in dress and manner aside, they share more commonalities than us
 
 [Data](articles/5a2ce6ed.json)
 
+[Extended Data](ext_articles/5a2ce6ed.ext.json)
+
 ---
 
 ### Without bank account, 135,000 Sri Lanka’s Aswesuma beneficiaries can’t receive funds
@@ -403,6 +407,8 @@ The integration of digital technologies into education is no longer a luxury but
 ...
 
 [Data](articles/993dd886.json)
+
+[Extended Data](ext_articles/993dd886.ext.json)
 
 ---
 

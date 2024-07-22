@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 18:27:45**
+As of **2024-07-22 18:37:59**
 
 ## Newspaper Stats
 
-*Scraped **36,599** Articles*
+*Scraped **36,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,304
+adalk | 3,305
 adaderanalk | 4,245
 tamilmirrorlk | 4,469
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,599 (100.0%) of 36,599 articles have been extended.
+36,599 (100.0%) of 36,600 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -739,6 +739,22 @@ The fine has been released in the Gazette with the signature of the Minister of 
 [Data](articles/01c68dfa.json)
 
 [Extended Data](ext_articles/01c68dfa.ext.json)
+
+---
+
+### 22 වන සංශෝධනය උසාවියේත් පාර්ලිමේන්තුවේත් පරදවනවා
+
+*2024-07-22 14:13:27* · [`adalk`](https://www.ada.lk/breaking_news/22-වන-සංශෝධනය-උසාවියේත්-පාර්ලිමේන්තුවේත්-පරදවනවා/11-410912) · `si`
+
+රට ව්‍යාකූල කිරීමේ තවත් තුරුම්පුවක් ලෙස ආණ්ඩුව ගෙනැවිත් ඇති 22 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පරාජය කිරීමට කටයුතු කරන බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+
+ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.07.22) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි.
+
+"රට ව්‍යාකූල කිරීමේ තවත් තුරුම්පුවක් ලෙස ආණ්ඩුව 22 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ගෙනැවිත් තිබෙනවා.  ඒකට හේතුව ලෙස ආණ්ඩුව කියන්නේ “19 වන සංශෝධනය සිදු කිරීමේ දී 83(ආ) වගන්තිය සංශෝධනය කරන්න අමතක වුණා.  අනේ අපිට ඒකට සමා වෙන්න.  දැන් ඒ වරද නිවැරදි කරන්න 22 වන සංශෝධනය ගේනවා” කියලයි.  නමුත් ඒක පට්ටපල් බොරුවක්.  ජනාධිපතිගේ ධූර කාලය කියන ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 30(2) වගන්තිය සංශෝධනය කලාම ධූර කාලය 6 සිට 5 දක්වා අඩු වුණා.  ඒ නිසා 83(ආ) වගන්තියේ සය වසරක් ඉක්මවා කියන වගන්තිය වෙනස් කළත් එකයි නැතත් එකයි.  ඒකෙන් ජනාධිපතිගේ ධූර කාලයට කිසිම බලපෑමක් නෑ.  ඒක අවස්ථා ගණනාවක දී ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරලා තිබෙනවා.
+
+...
+
+[Data](articles/05eb9554.json)
 
 ---
 
@@ -2305,23 +2321,5 @@ In 2023, the government borrowed 1.52 billion US dollars to finance its deficit,
 [Data](articles/6f6fd573.json)
 
 [Extended Data](ext_articles/6f6fd573.ext.json)
-
----
-
-### Sri Lanka net foreign debt falls in 2023, despite borrowing US$1.5bn for budget
-
-*2024-07-22 08:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-net-foreign-debt-falls-in-2023-despite-borrowing-us1-5bn-for-budget-173142/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central government’s net foreign debt fell to 36.3 billion US dollars in 2023, from 37.5 billion dollars in 2022, despite the government borrowing 1.57 billion US dollars to finance the budget deficit, official data shows.
-
-When a reserve collecting central bank does not print money to enforce its policy rate or the average weighted call money rates or the 7 day rate or any other rate targeted by term reverse repo auctions, there are no forex shortages, allowing foreign debt to be repaid with rupee revenues.
-
-In 2023, the government borrowed 1.52 billion US dollars to finance its deficit, mostly supported by loans from the International Monetary Fund and budget support loans from the Asian Development Bank and World Bank.
-
-...
-
-[Data](articles/7b9be56d.json)
-
-[Extended Data](ext_articles/7b9be56d.ext.json)
 
 ---

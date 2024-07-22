@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 17:20:41**
+As of **2024-07-22 17:35:58**
 
 ## Newspaper Stats
 
-*Scraped **36,591** Articles*
+*Scraped **36,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,303
-adaderanalk | 4,243
-tamilmirrorlk | 4,466
+adaderanalk | 4,245
+tamilmirrorlk | 4,467
 dailymirrorlk | 4,733
 virakesarilk | 5,731
-adaderanasinhalalk | 6,141
+adaderanasinhalalk | 6,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,590 (100.0%) of 36,591 articles have been extended.
+36,591 (100.0%) of 36,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### ‘Club Wasantha’ murder: Tattoo studio owner makes confidential statement to court
+
+*2024-07-22 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100705/club-wasantha-murder-tattoo-studio-owner-makes-confidential-statement-to-court) · `en`
+
+The owner of the tattoo studio in Athurugiriya has made a confidential statement before the Kaduwela Magistrate over the recent shooting and killing of two individuals including Surendra Wasantha Perera alias ‘Club Wasantha’.
+
+◼️
+
+[Data](articles/0bf4fbde.json)
+
+---
+
+### Petitions on integrating school dev. officers into teaching service settled
+
+*2024-07-22 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100704/petitions-on-integrating-school-dev-officers-into-teaching-service-settled-) · `en`
+
+The Fundamental Rights (FR) petitions filed seeking the integration of all development officers, who are already employed in government schools, into the teaching service, have been settled before the Supreme Court.
+
+The relevant petitions were taken up for consideration before the three-member Supreme Court judge bench comprising Justices A.H.M.D. Nawaz, Achala Wengappuli and Shiran Gooneratne today (22).
+
+Additional Solicitor General Viraj Dayaratne, who appeared on behalf of the Attorney General, pointed out before the court that it has been decided to interview the school development officers and integrate over 25,000 of them, who meet the required qualifications, into the teaching service.
+
+He further informed the court that the recruitments will be carried out subject to a maximum age limit of 40 years for national schools and 45 years for provincial schools.
+
+...
+
+[Data](articles/e3b094fb.json)
+
+---
+
+### ආසියානු කුසලානයේ තවත් ජයක් ශ්‍රී ලංකා කාන්තා කණ්ඩායමට
+
+*2024-07-22 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199092) · `si`
+
+ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ දෙවන ජය වාර්තා කිරීමට චමරි අතපත්තු ප්‍රමුඛ ශ්‍රී ලංකා කාන්තා කණ්ඩායම අද (22) සමත් විය.
+
+රංගිරි දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවති එම තරගයේ කාසියේ වාසිය දිනා පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කාන්තා කණ්ඩායම නියමිත පන්දුවාර 20දී කඩුලු 4ක් දැවී ලකුණු 184ක් රැස්කළේය.
+
+එහිදී ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ නායිකා චමරි අතපත්තු නොදැවී ලකුණු 119ක් රැස්කිරීමට සමත් වූවාය.
+
+ඇය එම ශතකය රැස් කර තිබුණේ හතරේ පහර 14ක් සහ හයේ පහර 7ක් එල්ල කරමිනි.
+
+එය අසියානු කුසලාන කාන්තා 20යි 20 ක්‍රිකට් තරගයක රැස්කළ පළමු ශතකයද වෙයි.
+
+ලකුණු  185ක ජයග්‍රාහී ඉලක්කයක් හඹා යාමට පිටියට පිවිසි මලයාසියානු කාන්තා කණ්ඩායම පන්දුවාර 19යි පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී රැස් කර ගත්තේ ලකුණු 40ක් පමණි.
+
+◼️
+
+[Data](articles/1f9b87d9.json)
+
+---
+
+### விஜய் ஆண்டனியுடன் செல்ஃபி எடுக்க 30,000 ரூபாய்
+
+*2024-07-22 17:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-ஆண்டனியுடன்-செல்ஃபி-எடுக்க-30-000-ரூபாய்/175-340840) · `ta`
+
+செப்டெம்பர் 7ஆம் திகதி சுகததாச உள்ளகரங்கில் நடைபெற உள்ள விஜய் ஆண்டனியின் இசை நிகழ்ச்சியின் முன்னேற்பாடாக ஞாயிற்றுக்கிழமை (21) அன்று One Galle Face வணிக வளாகத்தில் ஊடகவியலாளர் சந்திப்பொன்று ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+இதன் போது குறித்த இசை நிகழ்ச்சியின் promo வெளியிடப்பட்டதுடன் இசை நிகழ்ச்சியில் கலந்துகொள்வதற்காக 30,000 ரூபாய் பெறுமதியுடைய நுழைவுச்சீட்டுகளை கொள்வனவு செய்வோர்களுக்கு விஜய் ஆண்டனியுடன்  (செல்ஃபி) புகைப்படம் எடுக்க வாய்ப்பு வழங்கப்பட்டது.
+
+மேலும் ,இந்த இசை நிகழ்ச்சியில் கலந்துகொள்வதற்காக 5000 ரூபாய் முதல் 30,000 ரூபாய் வரை நுழைவுச்சீட்டுகள் விற்றபனைக்கு உள்ளமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/2402f447.json)
+
+---
 
 ### Vidataltivu reserve: SC grants leave to proceed with petition against Wildlife Minister’s gazette
 
@@ -47,6 +115,8 @@ On June 27, the Supreme Court issued an interim order preventing the implementat
 ...
 
 [Data](articles/c9259a3e.json)
+
+[Extended Data](ext_articles/c9259a3e.ext.json)
 
 ---
 
@@ -2227,101 +2297,5 @@ The President paid 50,000 rupees each to start self -employment recommended by d
 [Data](articles/cb6e91de.json)
 
 [Extended Data](ext_articles/cb6e91de.ext.json)
-
----
-
-### Teacher - Principal
-
-*2024-07-22 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199070) · `si`
-
-Teachers and principals in Sri Lanka will start a two-week trade union action from April 22, affecting workshops and training programs. The Chief Secretary of the Sri Lanka National Principal Association and NSF have expressed concern over this decision.
-
-🟩
-
-Teacher and Principals Union said that the teacher-principal will commence a trade union action for two weeks from today (22).
-
-Accordingly, workshops on provincial and zonal education in provincial education and zonal education will not participate in training programs, quality circles.
-
-The Chief Secretary of the Sri Lanka National Principal (NSB) of the Sri Lanka National Principal Association, the Chief Secretary of the Sri Lanka National Principal (NSF) is associated with teaching activities in the future.
-
-However, the convener of the Teacher-Principal's convener, Ven.
-
-◼️
-
-[Data](articles/71b2b73c.json)
-
-[Extended Data](ext_articles/71b2b73c.ext.json)
-
----
-
-### The tragedy of Tissamaharama
-
-*2024-07-22 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199069) · `si`
-
-In Tissamaharama, a greenery enthusiast and three family members tragically drowned while bathing in a quarry. The victims included a 32-year-old mother and her two sons, aged 2 and 9 years. Their bodies were discovered after a search operation initiated by local police.
-
-🟩
-
-Tissamaharama, a quarry greeneur and two children died in Kavantississa Pura area.
-
-Tissamaharama Police said that the mother's body was found yesterday (21) and the two children find operations.
-
-The deceased has been identified as 32 year old mother and two and 9-year-old boy.
-
-It is reported that the mother and two children had been bathing in the stone last evening.
-
-◼️
-
-[Data](articles/88589fd8.json)
-
-[Extended Data](ext_articles/88589fd8.ext.json)
-
----
-
-### Kamala Harris inside Joe Baitan outside?
-
-*2024-07-22 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெளியே-ஜோ-பைபடன்-உள்ளே-கமலா-ஹாரிஸ்/50-340799) · `ta`
-
-Kamala Harris is expected to run for President after Joe Biden withdraws from the race due to health concerns. Donald Trump represents the Republicans. This development follows Biden's struggle during a debate and increasing calls within his party for a change.
-
-🟩
-
-International media reports that the current President of the United States, Kamala Harris Democratic Party, will soon be announced as the presidential candidate, as current President Joe Bidan has announced his withdrawal from the US presidential election.
-
-Elections for US President. Former President Donald Trump, 78, has been officially announced on behalf of the Republican Party.
-
-It was announced that current President Joe Biden, 81, will contest on behalf of the Democratic Party. In Chicago, it was announced that he would formally be declared the presidential candidate at the party's party conference next month.
-
-At the recent election -related direct argument, Donald Trump was unable to answer the questions, Joe Bidan was struggling. Following this, many of his party began to voice their voice to replace the presidential candidate.
-
-...
-
-[Data](articles/75f766ab.json)
-
-[Extended Data](ext_articles/75f766ab.ext.json)
-
----
-
-### Bypitan quit:
-
-*2024-07-22 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைபடன்-விலகினார்/50-340799) · `ta`
-
-Joe Biden withdraws from the 2024 US presidential race, paving the way for Kamala Harris to run as the Democratic candidate. Donald Trump is confirmed as the Republican candidate.
-
-🟩
-
-International media reports that the current President of the United States, Kamala Harris Democratic Party, will soon be announced as the presidential candidate, as current President Joe Bidan has announced his withdrawal from the US presidential election.
-
-Elections for US President. Former President Donald Trump, 78, has been officially announced on behalf of the Republican Party.
-
-It was announced that current President Joe Biden, 81, will contest on behalf of the Democratic Party. In Chicago, it was announced that he would formally be declared the presidential candidate at the party's party conference next month.
-
-At the recent election -related direct argument, Donald Trump was unable to answer the questions, Joe Bidan was struggling. Following this, many of his party began to voice their voice to replace the presidential candidate.
-
-...
-
-[Data](articles/76f8824c.json)
-
-[Extended Data](ext_articles/76f8824c.ext.json)
 
 ---

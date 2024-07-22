@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 17:56:35**
+As of **2024-07-22 18:15:43**
 
 ## Newspaper Stats
 
-*Scraped **36,598** Articles*
+*Scraped **36,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,304
 adaderanalk | 4,245
-tamilmirrorlk | 4,468
+tamilmirrorlk | 4,469
 dailymirrorlk | 4,733
 virakesarilk | 5,731
 adaderanasinhalalk | 6,143
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,595 (100.0%) of 36,598 articles have been extended.
+36,598 (100.0%) of 36,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### ටැටු හිමිකරුගෙන් අධිකරණයට රහස් ප්‍රකාශයක්
+### Secret statement to the tutor owner
 
 *2024-07-22 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199093) · `si`
 
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය සම්බන්ධයෙන් අතුරුගිරිය ටැටූ ආයතනයේ හිමිකරු කඩුවෙල මහෙස්ත්‍රාත්වරයා හමුවේ රහස් ප්‍රකාශයක් ලබා දී තිබේ.
+A confidential statement was shared from the Athurugiriya Magistrate to the Kaduwela Magistrate. Lawyer Nuwan Jayawardena sought to submit a secret statement on behalf of his client, Sanja Sanjaya. The magistrate, Chrishage Wijebandra, agreed to facilitate this post-daylight, contingent upon the secretary's consent. Consequently, the case was re-heard post-daylight, and the suspects, including Dulan Sanjaya, were remanded until August 5th.
 
-අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව සැකකාර දුලාන් සංජය වෙනුවෙන් පෙනී සිටි නීතිඥ නුවන් ජයවර්ධන මහතා තම සේවා දායකයා සඳහා රහස් ප්‍රකාශයක් ලබාදීමට අවශ්‍ය බව අධිකරණය හමුවේ පවසා සිටියේය.
+🟩
 
-එහිදී මහෙස්ත්‍රාත් චාණිමා විජේබණ්ඩාර මහත්මිය රහස් ප්‍රකාශයක් ලබාදීමේ දී අධිකරණය තුළ පවතින තත්ත්වයන් පිළිබඳව සැකකරු දැනුවත් කළ අතර එම තත්ත්වයන් මත රහස් ප්‍රකාශය ලබාදීමට එකඟ වන්නේ නම් දහවල් දිවා විවේකයෙන් පසු සැකකරුගේ රහස් ප්‍රකාශය ලබා දීමට හැකි බව දන්වා සිටියාය.
+The owner of the Athurugiriya Magistrate has been given a secret statement to the Kaduwela Magistrate.
 
-ඒ අනුව අදාළ නඩුව අද දින අධිකරණයේ දිවා විවේකයෙන් පසු යළි විභාගයට ගත් අතර එහිදී සැකකරු අදාළ රහස් ප්‍රකාශය ලබාදී තිබේ.
+Attorney at the court, lawyer Nuwan Jayawardena, who appeared to the Sanja Sanjaya, wanted to give a secret statement for his client.
 
-ඒ අනුව දුලාන් සංජය ඇතුළු සැකකරුවන් 8 දෙනා අගෝස්තු මස 5 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කළේය.
+Magistrate Chrishage Wijebandra was informed of a secret statement and had agreed to provide the secretary of the court after daylight if they agree to give the secret statement on the afternoon.
+
+Accordingly, the case has been recastred after daylight rest in court today and the suspect has been given the secret statement.
+
+Accordingly, the courts ordered the three suspects including Dulan Sanjaya till August 5.
 
 ◼️
 
 [Data](articles/7af2d6dd.json)
+
+[Extended Data](ext_articles/7af2d6dd.ext.json)
 
 ---
 
@@ -136,9 +142,29 @@ It is also worth noting that tickets for the concert for Rs 5000 to Rs 30,000 fo
 
 ---
 
-### விஜய் ஆண்டனியுடன் செல்ஃபிக்கு ரூ.30,000
+### 30,000 for selfie with Vijay Antony
 
 *2024-07-22 17:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-ஆண்டனியுடன்-செல்ஃபிக்கு-ரூ-30-000/175-340840) · `ta`
+
+Vijay Antony's concert promo revealed; attendees buying Rs 30,000 tickets get a selfie chance with him.
+
+🟩
+
+A press conference was held on Sunday (21) at the One Galle Face Commercial Complex as a leading event of Vijay Antony's concert to be held on September 7 at Sugathadasa in Colombo.
+
+The PROMO of the concert was released and the opportunity to photograph Vijay Antony (Selfie) for the buyers of Rs 30,000 worth of tickets to attend the concert.
+
+◼️
+
+[Data](articles/67bd68dc.json)
+
+[Extended Data](ext_articles/67bd68dc.ext.json)
+
+---
+
+### விஜய் ஆண்டனியுடனான செல்ஃபிக்கு ரூ.30,000
+
+*2024-07-22 17:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-ஆண்டனியுடனான-செல்ஃபிக்கு-ரூ-30-000/175-340840) · `ta`
 
 கொழும்பு சுகததாச உள்ளகரங்கில் செப்டெம்பர் 7ஆம் திகதி  நடைபெற உள்ள விஜய் ஆண்டனியின் இசை நிகழ்ச்சியின் முன்னேற்பாடாக  One Galle Face வணிக வளாகத்தில் ஊடகவியலாளர் சந்திப்பொன்று ஞாயிற்றுக்கிழமை (21) நடத்தப்பட்டது.
 
@@ -146,7 +172,7 @@ It is also worth noting that tickets for the concert for Rs 5000 to Rs 30,000 fo
 
 ◼️
 
-[Data](articles/67bd68dc.json)
+[Data](articles/f771e025.json)
 
 ---
 
@@ -1174,19 +1200,25 @@ The trucks are part of a total contribution of 3 million US dollars from Japan t
 
 ---
 
-### ගුරු විදුහල්පති අකුරට වැඩ කිරීමෙන් ශිෂ්‍යත්ව ළමුන්ට අසාධාරණයක්
+### Working to scholarship children unfairly
 
 *2024-07-22 11:57:38* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පති-අකුරට-වැඩ-කිරීමෙන්-ශිෂ්‍යත්ව-ළමුන්ට-අසාධාරණයක්/11-410907) · `si`
 
-ගුරු විදුහල්පති වැටුප් ඇතුළු අනෙකුත් වෘත්තීය ගැටලුවලට විසඳුම් ලබාදෙන ලෙස ඉල්ලමින් අද (22) සිට ආරම්භ කර ඇති අකුරට වැඩ කිරීමේ විරෝධතා ව්‍යාපාරය නිසා මෙවර ශිෂ්‍යත්ව විභාගයට ඉදිරිපත්වීමට සූදානම් වන සිසුන්ට බලවත් අසාධාරණයක් සිදුව ඇතැයි දෙමව්පියෝ පවසති.
+Parents argue that students preparing for scholarships should also support teachers' salary protests. Despite teaching extra hours for exams, including after-school sessions in the Kelaniya Education Zone, many schools participate. The Principal notes that despite similar efforts from unions, there's been no progress due to lack of union involvement.
 
-කැලණිය අධ්‍යාපන කලාපයේ බොහෝ පාසල්වල පාසල් වේලාවෙන් පසුව පැය දෙකක පමණ කාලයක් ශිෂ්‍යත්ව පංතියේ දරුවන්ට ශිෂ්‍යත්ව විභාගයට අතිරේක පංති පවත්වමින්  ඉගැන්වීම් කටයුතු සිදු කලත් මෙම අකුරට වැඩකිරීමේ විරෝධතා ව්‍යාපාරය හේතුවෙන් බොහෝ පාසල්වල එම අතිරේක පන්ති නොපවත්වන බවත් ශිෂ්‍යත්ව විභාගයට තව ඇත්තේ මාස දෙකකටත් අඩු කාලයක් බවත්දෙමව්පියෝ පවසති.
+🟩
 
-මෙම සති දෙක තුළ ගුරු විදුහල්පති වරු අදාළ රාජකාරී කටයුතු පමණක් ඉටකරන බැවින් අතිරේක වැඩ නොකරන බවත්, අපගේ වෘත්තීය සමිතිවලට පරිභාහිරව සිටි න ඇතැමුන් ඒ ඒ වෘත්තීය සමිතිවලට අනුගතව කටයුතු කරන බවත් ඒ අනුව ඇතැමුන් අතිරේක පංති පවත්වන බවත් ඒ සදහා අපගේ වෘත්තීය සමිතිවල කිසිදු බලපෑමක් නොමැති බවත් විදුහල්පති සේවා සංගමයේ සභාපති සුනිල් ප්‍රේමතිලක මහතා පැවසීය
+Parents say that the students who are ready to contest to the letter to the letter to the scholarship protestor to resolve the salaries of the teacher's salaries.
+
+Although they have been teaching the scholarship examination to the Scholarship Examination, even for about two hours after school hours in the Kelaniya Education Zone, many schools have been involved in the scholarship examination.
+
+The Principal that the trade unions that are not in advanced by the trade unions that they have done the same duties in these two weeks and have no effect on the trade unions.Chairman of the Service Association Sunil Premathilaka said
 
 ◼️
 
 [Data](articles/c0922c19.json)
+
+[Extended Data](ext_articles/c0922c19.ext.json)
 
 ---
 
@@ -2279,29 +2311,5 @@ In 2023, the government borrowed 1.52 billion US dollars to finance its deficit,
 [Data](articles/7b9be56d.json)
 
 [Extended Data](ext_articles/7b9be56d.ext.json)
-
----
-
-### Final decision on importation today
-
-*2024-07-22 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199071) · `si`
-
-Egg prices may decrease as the government plans to re-import eggs to Sri Lanka, addressing concerns raised by the Egg Manufacturers' Association and its president, RM Sarath Ratnayake.
-
-🟩
-
-The egg manufacturers' association says that an egg will be released to the market today (22).
-
-The President of the Association RM Sarath Ratnayake said that steps will be taken to reduce the price of eggs in the future.
-
-However, it is reported that the government has decided to import eggs back to Sri Lanka to control the price of eggs.
-
-In a query, Derana Trade Minister Nalin Fernando, he said that the decision of importing eggs again in this regard is the decision of importing eggs.
-
-◼️
-
-[Data](articles/ccbcd999.json)
-
-[Extended Data](ext_articles/ccbcd999.ext.json)
 
 ---

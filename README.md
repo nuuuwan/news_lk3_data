@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 20:06:38**
+As of **2024-07-22 20:20:13**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 6,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,607 (100.0%) of 36,615 articles have been extended.
+36,615 (100.0%) of 36,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### තේ වෙනුවට කසිප්පු විකිණු මහනුවර හෝටලය
+### Kandy Hotel where the Kasippu Sale Inspector
 
 *2024-07-22 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199095) · `si`
 
-මහනුවර මධ්‍යම වෙළෙඳපොළේ හෝටලයක කාලයක් පුරා සිදුකළ කසිප්පු ජාවාරමක තොරතුරු අනාවරණය කර ගැනීමට මහනුවර කොට්ඨාස අපරාධ විමර්ශන ඒකකය අද (22) සමත් විය.
+In Kandy, a hotel near the Central Market was raided by the Kandy Division Criminal Investigation Unit, uncovering a Kasippu racket. Two individuals were arrested with eight bottles of Kasippu. The owner and an ex-Special Forces soldier employed at the hotel were also detained. Investigations suggest the operation targeted foreign tourists, offering them alcohol in dollar amounts. The police plan to dismantle similar operations nationwide, starting with the central market area in Kandy.
 
-එම වැටලීමේ දී කසිප්පු බෝතල් 08ක් සමඟ පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-හෝටලයේ හිමිකරු සහ සේවකයෙකු එලෙස අත්අඩංගුවට ගෙන ඇති අතර සේවකයා කලක් යුද හමුදාවේ විශේෂ බළකායේ සේවයේ නිරතව සිට විශ්‍රාම ලැබූ අයෙකු බව පොලිස් පරීක්ෂණවලින් හෙළිව ඇත.
+The Kandy Division Criminal Investigation Unit (KSEP) Criminal Investigation Unit (22) was revealed to the disclosure of a Kasippu racket over a period of time in a hotel in the Kandy Central Market.
 
-කිසිවෙකුට සැක නොසිතෙන පරිදි රට බීම බෝතල්වලට කසිප්පු දමා කාලයක් තිස්සේ සැකකරුවන් මෙම ජාවාරම සිදුකරගෙන ගොස් ඇති බවට අනාවරණය වී තිබේ.
+Two persons arrested with eight bottles of Kasippu during that raid.
 
-එමෙන්ම ගැනුම්කරුවෙකු පැමිණි විට හෝටලයේ තේ හදන ස්ථානයේ ඇති අඬු කෝප්පයකට දමා කසිප්පු ලබා දී තිබෙන බවත් දෛනිකව එම ස්ථානයේ කිසිප්පු බෝතල් 10ක් පමණ මේ ආකාරයට අලෙවි කර තිබෙන බවත් පොලීසිය පවසයි.
+Police investigations have revealed that the owner and an employee of the hotel had been arrested and the employee had retired from the Special Forces of the Army.
 
-මේ අතර මහනුවර මධ්‍යම වෙළෙඳපොළට පැමිණෙන ලොරි රථවලට භාණ්ඩ පැටවීම හා බෑම සිදුකරන නාට්ටාමිවරුන් මෙම ස්ථානයෙන් කසිප්පු පානය පෙරවරු 5.00ට පමණ ආරම්භ කරන බව වාර්තා වී ඇත.
+It has been revealed that the suspects have been conducted for a long time to doubt the country to drink in dollars.
 
-...
+The police say that when a buyer arrives at the tea building at the hotel, police said.
+
+Meanwhile, the Kasippu dismantling of the Nattamas will be launched at around 5.00 am at the station of lorries in the middle of the country.
+
+It has been revealed that Rs.
+
+The Kasippu has been conducting the racket for a long time in the central market in Kandy which is visible in Kandy.
+
+◼️
 
 [Data](articles/0ce49847.json)
+
+[Extended Data](ext_articles/0ce49847.ext.json)
 
 ---
 
@@ -172,19 +182,25 @@ The Southwest Asian Director, its deputy director, has also participated in the 
 
 ---
 
-### අනුර හා ජපාන විදේශ රාජ්‍ය ඇමති අතර හමුවක්
+### Anura and Japan Foreign State Minister meets
 
 *2024-07-22 18:10:18* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-ජපාන-විදේශ-රාජ්‍ය-ඇමති-අතර-හමුවක්/11-410914) · `si`
 
-මේ වන විට ජපානයේ සංචාරයක නිරත ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක සහෝදරයා සහ ජපානයේ විදේශ කටයුතු පිළිබඳ රාජ්‍ය අමාත්‍ය TSUGE Yoshifumi මහතා අතර හමුවක් එම අමාත්‍යාංශයේදී අද (22දා) දින පස්වරුවේ සිදු විය.
+Comrade Anura Kumara Dissanayake met with Japan's Foreign Minister TSUSHIFMUI, discussing long-term friendship, economic and political situations in Sri Lanka, and future steps in diplomatic and economic relations. The meeting included discussions on strengthening ties between the two nations, with the presence of the Minister of External Affairs and officials from both countries' committees.
 
-මේ වන විට ශ්‍රී ලංකාවේ පවතින ආර්ථික හා දේශපාලන තත්වය පිළිබඳවත් දෙරට අතර දිගුකාලීන මිත්‍රත්වය පිළිබඳවත්  රාජ්‍යතාන්ත්‍රික සහ ආර්ථික සබඳතාවන්හි ඉදිරි පියවර පිළිබඳවත් මෙහිදී සාකච්ඡා කරන ලද අතර එළඹෙන ජනාධිපතිවරණය පිළිබඳව මෙහිදී විශේෂ අවධානයක් යොමු විය. විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා විසින් අනුර කුමාර දිසානායක සහෝදරයාගේ ජපාන සංචාරය පිළිබඳව සුබපැතුම් එක් කිරීමටද මෙහිදී කටයුතු කර තිබිණි.
+🟩
 
-මෙම සාකච්ඡාව සඳහා අග්නිදිග සහ නිරිතදිග ආසියානු කටයුතු දෙපාර්තමේන්තුවේ නිරිතදිග ආසියානු අංශයේ අධ්‍යක්ෂ Tsutsumi Taro මහතා සහ එම අංශයේ නියෝජ්‍ය අධ්‍යක්ෂ IWASE Kiichiro මහතා ඇතුළු නිලධාරි පිරිසක්ද ජාතික ජන බලවේගයේ ජපාන කමිටුවේ සාමාජිකයින් කිහිපදෙනෙක්ද එක්ව සිටියහ.
+Comrade Anura Kumara Dissanayake, Comrade Anura Kumara Dissanayake and Japan's Foreign Minister TSUSHIFMUI took place this afternoon at the Ministry (22).
+
+The two countries have discussed long-term friendship between the economic and political situation in Sri Lanka and the next step in diplomatic and economic relations with the two countries.. The Minister of External Affairs was also present on the Japanese visit to the Japanese visit to Sri Dissanayake.
+
+The Director of Southwest Asian Division of the Southeastern and Southwest Asian Affairs Department and several members of the Japanese Committee of the National Institute were also present.
 
 ◼️
 
 [Data](articles/5360cc89.json)
+
+[Extended Data](ext_articles/5360cc89.ext.json)
 
 ---
 
@@ -276,33 +292,47 @@ He further informed the court that the recruitments will be carried out subject 
 
 ---
 
-### ஜனாதிபதி தேர்தலுக்கு தபால் திணைக்களம் தயார் - பிரதி தபால் மா அதிபர்
+### Post Office Ready for Presidential Election - Deputy Post Office
 
 *2024-07-22 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189103) · `ta`
 
-தேர்தல்கள் ஆணைக்குழுவினால் தேர்தல் திகதி அறிவிக்கப்பட்டவுடன் ஜனாதிபதி தேர்தலுக்கான பணிகளை ஆரம்பிக்க தபால் திணைக்களம் முழுமையாக தயாராக உள்ளதாக பிரதி தபால் மா அதிபர் ராஜித ரணசிங்க தெரிவித்துள்ளார்.
+The postal department is ready for the upcoming Presidential election, with 8,000 workers set to distribute voter cards nationwide. All necessary preparations are in place for a smooth electoral process, including the handling of postal vote documents.
 
-சுமூகமான தேர்தல் நடைமுறையை உறுதிப்படுத்த தேவையான அனைத்து ஏற்பாடுகளும் தயார் நிலையில் உள்ளது. அனைத்து வீடுகளுக்கும் உத்தியோகபூர்வ வாக்காளர் அட்டைகளை விநியோகிக்க 8,000 தொழிலாளர்கள் நியமிக்கப்பட்டுள்ளார்கள்.
+🟩
 
-தபால் வாக்குகள் தொடர்பான அனைத்து ஆவணங்களையும் பாதுகாப்பான முறையில் பரிமாற்றுவதற்கு தபால் திணைக்களங்கள் கடமைப்பட்டுள்ளதாக  பிரதி தபால் மா அதிபர் மேலும் சுட்டிக்காட்டியுள்ளார்.
+Deputy Chief Minister Rajitha Ranasinghe says that the postal department is fully prepared to commence the Presidential election after the election date is announced by the Elections Commission.
+
+All necessary arrangements are ready to ensure the smooth electoral process. 8,000 workers have been assigned to distribute official voter cards to all homes.
+
+The Deputy Inspector General has further pointed out that the Postal Department is obliged to transfer all the documents relating to the postal votes.
 
 ◼️
 
 [Data](articles/60a64632.json)
 
+[Extended Data](ext_articles/60a64632.ext.json)
+
 ---
 
-### இளசுகளின் ஓயாத உச்சரிப்பில் இடம் பிடித்த 'மக்கா மிஷி'
+### 'Makkah Mishi' in the unintended pronunciation of young
 
 *2024-07-22 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189097) · `ta`
 
-இசையமைப்பாளர் ஹாரிஸ் ஜெயராஜ் இசையில், ஜெயம் ரவி நடிப்பில் தயாராகி இருக்கும் 'பிரதர்' எனும் திரைப்படத்தில் இடம்பெற்ற 'மக்கா மிஷி' எனும் முதல் பாடலும், பெப்பியான அந்த பாடலுக்கான நடனமும், பாடல் வரிகளும் இன்றைய இணைய தலைமுறையினரின் 'ரீல்ஸ்' உள்ளிட்ட சமூக வலைதள பக்கங்களில் அவர்களின் திறமையை வெளிப்படுத்த வாய்ப்பளித்திருக்கிறது.
+"Makkah Mishi," from Harris Jayaraj's soundtrack in Brother, featuring Jayam Ravi, went viral on social media platforms like TikTok. Director M. Rajesh's upcoming film, featuring Briyanka Arul Mohan, Bhumika Chawla, and others, also features music by Harris Jayaraj. The film's first look and songs, including "What is your Saitla Falta Falta Vachikinu" by popular YouTuber Bal Dappa, received over a million views, indicating its popularity among various age groups.
 
-இயக்குநர் எம். ராஜேஷ் இயக்கத்தில் உருவாகி இருக்கும் 'பிரதர்' எனும் திரைப்படத்தில் ஜெயம் ரவி, பிரியங்கா அருள் மோகன், பூமிகா சாவ்லா, வி டிவி கணேஷ், நட்டி என்கிற நட்ராஜ், ராவ் ரமேஷ், அச்யுத் குமார், சரண்யா பொன்வண்ணன், சீதா, சதீஷ் கிருஷ்ணன், எம். எஸ். பாஸ்கர், சுரேஷ் சக்கரவர்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். விவேகானந்த் சந்தோஷம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹாரிஸ் ஜெயராஜ் இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை ஸ்க்ரீன் சீன் என்டர்டெய்ன்மென்ட் நிறுவனம் தயாரித்திருக்கிறது.
+🟩
+
+In the music of composer Harris Jayaraj, the first song 'Makka Mishi' featured in the film 'Brother', which is starring in Jayam Ravi, has given them the opportunity to showcase their skills on social networks, including the 'reels' of today's internet generation.
+
+Director M. Rajesh's upcoming film 'Briyanka Arul Mohan, Bhumika Chawla, V TV Ganesh. S.. Bhaskar, Suresh Chakraborty and many others have played. Harris Jayaraj has composed the film, which has been recorded by Vivekanand Santosh.. The film was produced by Screen Sean Entertainment.
+
+With the release of the first look of the film, the song 'What is your Saitla Falta Falta Vachikinu' and the song that starts with the song and the dance video for the song.The song has been written and sung by famous YouTube Bal Dappa. This song will be in the stanza
 
 ...
 
 [Data](articles/b7f567e8.json)
+
+[Extended Data](ext_articles/b7f567e8.ext.json)
 
 ---
 
@@ -396,21 +426,29 @@ The PROMO of the concert was released and the opportunity to photograph Vijay An
 
 ---
 
-### 'வீராயி மக்கள்' படத்தின் இசை வெளியீடு
+### The music release of the movie 'Veerai Nam'
 
 *2024-07-22 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189100) · `ta`
 
-புதுமுக நடிகர் சுரேஷ் நந்தா கதையின் நாயகனாக நடித்திருக்கும் 'வீராயி மக்கள்' எனும்  திரைப்படத்தின் இசை வெளியீடு சென்னையில் சிறப்பாக நடைபெற்றது.
+The music release of "Veerai Nivas," featuring newcomer Suresh Nanda and directed by Nagaraj Ramamurthy, took place in Chennai. The film, which also stars Nandana, Marimuthu, Deepa Shankar, among others, is set against the backdrop of rural Tamil Nadu. Composed by the "Emperor of Deepan" and produced by Suresh Nanda, it highlights the significance of joint families. Nagaraj, who acted in his second film after a seven-year hiatus, emphasized its emotional appeal.
 
-அறிமுக இயக்குநர் நாகராஜ் இயக்கத்தில் உருவாகி இருக்கும் 'வீராயி மக்கள்' எனும் திரைப்படத்தில் சுரேஷ் நந்தா, எழுத்தாளரும், நடிகருமான வேல. ராமமூர்த்தி, நந்தனா, மறைந்த நடிகர் மாரிமுத்து, தீபா ஷங்கர், ரமா, செந்தி குமாரி, பாண்டி அக்கா, ஜெரால்ட் மில்டன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-எம். சீனிவாசன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு தீபன் சக்கரவர்த்தி இசையமைத்திருக்கிறார். தமிழகத்தின் தென் பகுதி கிராமிய மக்களின் வாழ்வியலை யதார்த்தமாக பதிவு செய்திருக்கும் இந்த திரைப்படத்தை ஏ வைட் ஸ்கிரீன் ஃபிலிம்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் என். சுரேஷ் நந்தா தயாரித்திருக்கிறார்.
+The music release of the movie 'Veerai Nivas', starring newcomer Suresh Nanda, was held in Chennai.
 
-விரைவில் படமாளிகையில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் இசை வெளியீடு சென்னையில் நடைபெற்றது. இதன் போது இயக்குநர்கள் பேரரசு, ராம் சங்கையா, கோகுல், நடிகர் ரவி மரியா ஆகியோர் சிறப்பு அதிதிகளாக பங்கு பற்றினர்.
+Suresh Nanda, a writer and actor in the film 'Veerai Nivasi' directed by debutant director Nagaraj.. Ramamurthy, Nandana, late actor Marimuthu, Deepa Shankar, Rama, Senthi Kumari, Pandi aka, Gerald Milton and many others have been cast.
+
+M.. The film has been composed by the Emperor of Deepan. The film has been realistically recorded by the rural population of the southern part of Tamil Nadu on behalf of the producer N.. Produced by Suresh Nanda.
+
+The music release of the film will be released in Chennai soon. Directors Empire, Ram Sangaya, Gokul and actor Ravi Maria participated in the event.
+
+Director Nagaraj said, “This creation- originated from the life I lived. The film was only seven years after directing the first film.. I decided to act as the hero of the story.
 
 ...
 
 [Data](articles/2a3738cd.json)
+
+[Extended Data](ext_articles/2a3738cd.ext.json)
 
 ---
 
@@ -458,59 +496,81 @@ On June 27, the Supreme Court issued an interim order preventing the implementat
 
 ---
 
-### அஜித் குமார் நடிக்கும் 'விடாமுயற்சி' அப்டேட்
+### Ajith Kumar starring 'perseverance' update
 
 *2024-07-22 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189106) · `ta`
 
-திரைப்படத்துறையில் தயாரிப்பாளர்களின் நலன்களை காப்பதில் முன்னணி வகிக்கும் நட்சத்திர நடிகர் அஜித்குமார் நடிப்பில் தயாராகி வரும் 'விடா முயற்சி' எனும் திரைப்படத்தினை பற்றிய புதிய தகவல்களை படக்குழுவினர் பிரத்யேக புகைப்படத்துடன் தெரிவித்துள்ளனர்.
+Ajith Kumar stars in "Vida Tri," directed by Mahri Thirumeni, with filming wrapping up in Azerbaijan. The team also announced the start of "Diligence" shooting, set to conclude in ten days, aiming for an October 31 release.
 
-இயக்குநரும், நடிகருமான மகிழ் திருமேனி இயக்கத்தில் உருவாகி வரும் 'விடா முயற்சி' எனும் திரைப்படத்தில் அஜித் குமார் கதையின் நாயகனாக நடித்து வருகிறார். இந்த திரைப்படத்தின் இறுதி கட்ட படப்பிடிப்பு அஜர்பைஜான் நாட்டில் நடைபெற்று வந்தது.
+🟩
 
-இந்நிலையில் அஜர்பைஜான் நாட்டில் நடைபெற்று வந்த படப்பிடிப்பு நிறைவடைந்து இருப்பதாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் தெரிவித்துள்ளனர்.
+The film crew has made a new information about the film 'Vida Tri', which is being prepared by star actor Ajit Kumar, who is leading the film industry's interests.
 
-இதைத்தொடர்ந்து ஹைதராபாத்தில் நிர்மாணிக்கப்பட்டுள்ள பிரம்மாண்டமான அரங்கத்தில் 'விடாமுயற்சி' படத்தின் படப்பிடிப்பு தொடர்ந்து நடைபெறுகிறது. பத்து நாட்கள் நடைபெறும் இப் படபிடிப்புடன் 'விடாமுயற்சி' படத்தின் ஒட்டுமொத்த படப்பிடிப்பும் முழுமையாக நிறைவடையும் என படக் குழுவினர் தெரிவித்திருக்கிறார்கள்.
+Ajith Kumar is playing the hero of the story in the film 'Vida Athiyam' directed by director and actor Mahri Thirumeni.. The final phase of the film was taking place in Azerbaijan.
 
-...
+In this case, the film crew posted a special photo that the shooting in Azerbaijan was completed.
+
+Following this, the shooting of 'Derivyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy. The film crew has said that the entire shooting of 'Diligence' will be completed with the film, which will take place for ten days.
+
+Due to this, the film is expected to be released on October 31, as planned, and the official announcement is expected to be released after the shooting is completed.
+
+◼️
 
 [Data](articles/acd96c1f.json)
 
+[Extended Data](ext_articles/acd96c1f.ext.json)
+
 ---
 
-### சர்வதேச விருதை வென்ற 'பராரி '
+### 'Barari' won the International Award
 
 *2024-07-22 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189110) · `ta`
 
-'தோழர் வெங்கடேசன்' எனும் படத்தின் மூலம் தமிழ் ரசிகர்களிடத்தில் அறிமுகமாகி, பிரபலமான நடிகர் ஹரி சங்கர் கதையின் நாயகனாக நடித்திருக்கும் 'பராரி' எனும் திரைப்படம், ஹுஸ்டன் நகரில் நடைபெற்ற சர்வதேச திரைப்பட விழாவில் சிறந்த வெளிநாட்டு திரைப்படத்திற்கான விருதை வென்றிருக்கிறது.
+"Parari," featuring Comrade Venkatesan's story, won the Best Foreign Film Award at Houston's International Film Festival. Directed by Ezhil Periyavadi, it stars Hari Shankar, Sangeetha, and others, with music by Shawn Roldan and production by Gala Films Pvt. Ltd. This achievement brings recognition to the Tamil film industry.
 
-அறிமுக இயக்குநர் எழில் பெரியவேடி இயக்கத்தில் உருவாகி இருக்கும் 'பராரி' எனும் திரைப்படத்தில் ஹரி சங்கர் , சங்கீதா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-ஸ்ரீதர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை காலா பிலிம்ஸ் பிரைவேட் லிமிடெட் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் ஹரி சங்கர் தயாரித்திருக்கிறார்.‌ இந்தத் திரைப்படத்தை இயக்குநர் ராஜு முருகன் வழங்குகிறார்.
+'Parari', starring the hero of the story of 'Comrade Venkatesan', has won the Best Foreign Film Award at the International Film Festival in Houston.
 
-விரைவில் பட மாளிகையில் வெளியாகவிருக்கும் 'பராரி' திரைப்படம் 57 ஆவது வேர்ல்ட் ஃபெஸ்ட் ஹுஸ்டன்  ரெமி விருதிற்கான சர்வதேச திரைப்பட விழாவில், சிறந்த வெளிநாட்டு திரைப்படத்திற்கான வெண்கல பதக்கத்தை வென்றிருக்கிறது.
+Hari Shankar, Sangeetha and many others have starred in the film 'Parari' which is being directed by the debut director Ezhil Periyavadi.
 
-...
+Shawn Roldan has composed the film, which has been recorded by Sridhar. The film was produced by producer Hari Shankar on behalf of Gala Films Pvt. Limited.
+
+The 57th World Fest Huston Remy Award for the Best Foreign Film Film Film Festival has won a bronze medal for the best foreign film.
+
+Trend is expected to be welcomed among fans and filmmakers as the film will be worth the Tamil film industry if the award is won by the Tamil film festival.
+
+◼️
 
 [Data](articles/e618363c.json)
 
+[Extended Data](ext_articles/e618363c.ext.json)
+
 ---
 
-### மின்சார சபை அலுவலகத்திற்குள் புகுந்த  கல்தோட்ட பகுதி மக்கள்
+### The people of Kaldota area entered the office of the Electricity Board
 
 *2024-07-22 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189108) · `ta`
 
-பலாங்கொடை கல்தோட்ட பகுதியில் அமைந்துள்ள மின்சார சபை அலுவலகத்தை ரஜவக பகுதிக்கு இடம் மாற்றுவதாக கிடைத்த தகவலுக்கு அமைய கல்தோட்ட மற்றும் அதனை அன்மித்த பகுதிகளில் உள்ள மக்கள் இன்று திங்கட்கிழமை (22) கல்தோட்ட மின்சார சபை அலுவலகத்திற்குள் புகுந்தனர்.
+Hundreds of Kaldota residents stormed the local Electricity Board office on Monday, leading to a confrontation with police. The incident occurred after the board announced plans to relocate due to operating on state-owned agricultural land without proper facilities. Residents argue against the move, citing lack of transparency and potential misuse of funds.
 
-நூற்றுக்கணக்கான பொது மக்கள் மின்சார சபை அலுவலகத்திற்கு புகுந்தமையால் கல்தோட்ட பொலிஸாருக்கும்  பொது மக்களுக்கும் இடையில் வாக்குவாதம் இடம்பெற்றது.
+🟩
 
-பொது மக்கள் அலுவலகம் உள்ளே சென்றதும் அங்கு  தலைமை அதிகாரி இல்லாததால் அங்கு கடமையில் இருந்த பெண் அதிகாரி பயந்து ஒழிந்ததை அவதானிக்க முடிந்தது.
+According to reports that the Electricity Board office located in the Kaldota area in Balangoda, the people of Kaldota and it were entered into the Kaldota Electricity Board (CEB) office on Monday (22).
 
-தலைமை அதிகாரி அலுவலகத்திற்கு வந்த பின் அங்கு சென்ற நான்கு பேரை குறித்த அதிகாரியுடன் கலந்துரையாட  வாய்ப்பளித்துள்ளார்கள்.
+Hundreds of civilians entered the office of the Electricity Board, there was an argument between the Kaldota police and the public.
 
-கலந்துரையாடலின் போது மின்சார சபை அலுவலக தலைமை அதிகாரி குறித்த அலுவலகத்தில் போதிய வசதிகள் இல்லை என்பதனால் இதனை வேறொரு பகுதிக்கு எடுத்து செல்வதாக தெரிவித்ததுடன், தற்போது இருக்கும் அலுவலகத்தில் எமக்கு தேவையான வசதிகளை பெற்று தந்தால் இடமாற்றம் செய்யாமல் இங்கு இருப்பதாக தெரிவித்தார்.
+When the public office went inside, the female officer on the duty of the duties was frightened because there was no chief officer.
+
+After arriving at the office of the chief officer, the four men who went there were given the opportunity to discuss with the officer.
+
+During the discussion, the office of the Chief Minister of the Electricity Board said that the office of the office of the office of the Electricity Board said that it would take it to another area and that the present office we need the necessary facilities.
 
 ...
 
 [Data](articles/a3bc732d.json)
+
+[Extended Data](ext_articles/a3bc732d.ext.json)
 
 ---
 

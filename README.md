@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 01:05:21**
+As of **2024-07-23 01:20:22**
 
 ## Newspaper Stats
 
-*Scraped **36,647** Articles*
+*Scraped **36,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,191
 dailyftlk | 2,329
 adalk | 3,311
 adaderanalk | 4,248
-tamilmirrorlk | 4,471
+tamilmirrorlk | 4,472
 dailymirrorlk | 4,733
 virakesarilk | 5,745
 adaderanasinhalalk | 6,149
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,642 (100.0%) of 36,647 articles have been extended.
+36,647 (100.0%) of 36,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### பிரசாரத்தை ஆரம்பித்தார் கமலா ஹரிஸ்
+
+*2024-07-23 00:43:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரசாரத்தை-ஆரம்பித்தார்-கமலா-ஹரிஸ்/50-340858) · `ta`
+
+ஜனநாயகக் கட்சியை ஓரணியாகத் திரட்டி அமெரிக்க ஜனாதிபதித் தேர்தலில் டொனால்ட் டிரம்பை தோற்கடித்து, வீழ்த்திக் காட்டுவோம் என அமெரிக்கத் துணை ஜனாதிபதி கமலா ஹரிஸ் சூளுரைத்துள்ளார்.
+
+அமெரிக்க ஜனாதிபதித் தேர்தலில் ஜனநாயகக் கட்சியின் வேட்பாளராகப் போட்டியிட்ட ஜோ பைடன் விலகியதுடன், கமலா ஹரிஸை முன்னிறுத்தினார்.
+
+இதனைத் தொடர்ந்து , ஜனாதிபதி வேட்பாளராக கமலா ஹரிஸ் தனது பிரசாரத்தைத் தொடங்கியுள்ளார்.
+
+பெண்களின் கருத்தடை உரிமை, ஜனநாயகத்தை ட்ரம்பிடமிருந்து காப்பது உள்ளிட்டவற்றை முன்னிலைப்படுத்தி பிரசாரம் செய்ய கமலா திட்டமிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/78c720a3.json)
+
+---
 
 ### Local investors at risk: REPA criticises new tariff rates for rooftop solar projects
 
@@ -45,6 +63,8 @@ REPA and other groups warned that this move could deter local investors and hind
 ...
 
 [Data](articles/e0613415.json)
+
+[Extended Data](ext_articles/e0613415.ext.json)
 
 ---
 
@@ -64,6 +84,8 @@ The conference theme, ‘Navigating Stability towards Dynamic Growth,’ reflect
 
 [Data](articles/467877db.json)
 
+[Extended Data](ext_articles/467877db.ext.json)
+
 ---
 
 ### Megakem Engineering expands with new showrooms and launches Megakem Megalistic Super 540
@@ -75,6 +97,8 @@ Megakem Engineering Ltd. has expanded their business by opening two new showroom
 ◼️
 
 [Data](articles/187dfb4d.json)
+
+[Extended Data](ext_articles/187dfb4d.ext.json)
 
 ---
 
@@ -92,6 +116,8 @@ Alpha Fire Services PLC Director Samud Gunasekara highlights the company’s imp
 
 [Data](articles/4c31b19b.json)
 
+[Extended Data](ext_articles/4c31b19b.ext.json)
+
 ---
 
 ### Telco and banking leaders in strategic partnership to empower SMEs
@@ -105,6 +131,8 @@ Bottom from left: GlobalLinker Co-founder and CEO Sameer Valki, Dialog Axiata PL
 ...
 
 [Data](articles/68ef6cdd.json)
+
+[Extended Data](ext_articles/68ef6cdd.ext.json)
 
 ---
 
@@ -2303,27 +2331,5 @@ The Principal that the trade unions that are not in advanced by the trade unions
 [Data](articles/c0922c19.json)
 
 [Extended Data](ext_articles/c0922c19.ext.json)
-
----
-
-### Shooting of the Minectory
-
-*2024-07-22 11:53:15* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දේණියේ-වෙඩි-තැබිමක්/11-410906) · `si`
-
-A shooting incident occurred yesterday at Point, resulting in two fatalities and one injury. The victims, a 42-year-old man and a 40-year-old woman, were targeted while closing their shop and heading home on a motorcycle. The assailants escaped, and the police are investigating.
-
-🟩
-
-Miners today say that a couple shot dead yesterday (21) at Point. The motorcyclist was injured and the motorcyclist was injured and the motorcyclist was injured and admitted to the Minedandama hospital for further chance.
-
-The man who was injured in a shooting was 42 years old and a woman aged 40 years old. The injured were shooting while closing their shop and heading to the motorcycle.
-
-The suspects have fled the morning where the suspects were shooting and fled. Police say that information has been revealed so far.. The Minedegama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/e027c391.json)
-
-[Extended Data](ext_articles/e027c391.ext.json)
 
 ---

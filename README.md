@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 23:36:07**
+As of **2024-07-22 23:57:44**
 
 ## Newspaper Stats
 
-*Scraped **36,631** Articles*
+*Scraped **36,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 345
 bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,084
-economynextcom | 2,184
+economynextcom | 2,191
 dailyftlk | 2,321
 adalk | 3,311
 adaderanalk | 4,248
@@ -26,47 +26,63 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,626 (100.0%) of 36,631 articles have been extended.
+36,631 (100.0%) of 36,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### ஜனாதிபதி தேர்தல் தொடர்பில் ரணில் அதிரடி
+### Ranil Action on Presidential Elections
 
 *2024-07-22 23:01:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-தொடர்பில்-ரணில்-அதிரடி/175-340857) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கு பாதீட்டில் பணம் ஒதுக்கப்பட்டதால், ஜனாதிபதித் தேர்தல் கண்டிப்பாக நடத்தப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe confirms the upcoming presidential election, funded and supported by PA members, including former President Mahinda Rajapakse. Despite considering postponement, he assures the election will proceed.
 
-அரசாங்கத்தை நடத்துவதற்கு ஆதரவளித்த முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ உட்பட, ஸ்ரீலங்கா பொதுஜன பெரமுன உறுப்பினர்களுக்கு நன்றி தெரிவிப்பதாகவும் தன்போது ஸ்ரீ குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதித் தேர்தலை ஒத்திவைக்க தாம் தயாராகி வருவதாக எதிர்க்கட்சிகள் தெரிவிக்கின்ற போதிலும், ஜனாதிபதித் தேர்தலைக் கண்டிப்பாக நடத்துவேன் எனவும் அவர் குறிப்பிட்டுள்ளார்.  R
+President Ranil Wickremesinghe has said that the presidential election will definitely be held as money has been allocated for the presidential election.
+
+Sri Lanka also thanked the Sri Lankan PA members, including former President Mahinda Rajapakse, who supported the government.
+
+He said that he is preparing to postpone the presidential election, but he will definitely hold the presidential election.R
 
 ◼️
 
 [Data](articles/aa7043bd.json)
 
+[Extended Data](ext_articles/aa7043bd.ext.json)
+
 ---
 
-### இலங்கையில் சுமார் 2000க்கும் மேற்பட்டவர்களை பலிகொள்ளக்கூடிய மிகவும் பயங்கரமான தாக்குதல் குறித்து ஷேக் ஒருவர் 2014ம் ஆண்டு எச்சரிக்கை விடுத்தார் – ஞானசார தேரர்
+### Sheikh warned in 2014 about the most horrific attack that could kill more than 2000 people in Sri Lanka - Gnanasara Thera
 
 *2024-07-22 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/189126) · `ta`
 
-இலங்கையில் சுமார் 2000க்கும் மேற்பட்டவர்களை பலிகொள்ளக்கூடிய மிகவும் பயங்கரமான தாக்குதல் குறித்து ஷேக் ஒருவர் 2014ம் ஆண்டு எச்சரிக்கை விடுத்தார் என பொதுபல சேனாவின் பொதுசெயலாளர் ஞானசார தேரர் எச்சரித்துள்ளார்.
+In 2014, Sheikh warned of a potential horrific attack in Sri Lanka that could claim over 2000 lives, fearing it would be blamed on Muslims. He urged informing the defense secretary about the threat from Islamic extremists influenced by international terror groups, despite facing accusations of extremism.
 
-2014 ஜூன் மாதம் 20ம் திகதி ஷேக் ஒருவர்; பயங்கரவாத தாக்குதல் திட்;டங்கள் குறித்த தகவல்களை எனக்குதெரிவித்தார்.
+🟩
 
-தங்களால் இந்ததாக்குதல் குறித்து தெரிவிக்க முடியாததால் எங்களை அது குறித்து நாட்டிற்கு தெரியப்படுத்துமாறு அவர் கேட்டுக்கொண்டார்.
+The General Secretary of the Bodu Bala Sena Gnanasara Thera has warned that a Sheikh warned in 2014 about the most horrific attack that could sacrifice more than 2000 people in Sri Lanka.
 
-தாங்கள் விடயங்களை பகிரங்கப்படுத்தினால் தீவிரவாதிகள் என குற்றம்சாட்டப்பட்டு கைதுசெய்யப்படுவார்கள் என அவர் அச்சம்கொண்டிருந்தார்.
+Sheikh was one of June 20, 2014;He informed me about the terrorist attack.
 
-சர்வதேச பயங்கரவாத அமைப்புகளின் செல்வாக்கு காரணமாக இஸ்லாமிய தீவிரவாதிகள் மிகவும் பயங்கரமான தாக்குதலொன்றை ஆசியாவில் மேற்கொள்வதற்கு இலங்கையை தெரிவு செய்துள்ளனர் என அவ்வேளை பாதுகாப்பு செயலாளராகயிருந்த கோட்டாபய ராஜபக்சவிடம் தெரிவிக்குமாறு அந்த ஷேக்  என்னை கேட்டுக்கொண்டார்.
+He urged us to inform the country as they could not report this attack.
 
-அந்த தாக்குதல் இஸ்லாத்திற்கு அவமரியாதை ஏற்படுத்தும் விதத்தில் காணப்படும் என அவர் தெரிவித்திருந்தார்.
+He feared that if they made the issues, they would be accused of being extremists.
 
-...
+The Sheikh asked me to inform Gotabhaya Rajapakse, the defense secretary, that Islamic extremists have chosen Sri Lanka to carry out a terrible attack in Asia due to the influence of international terrorist organizations.
+
+He said the attack would be a disgrace to Islam.
+
+He said that more than 2000 people will be killed by these attacks targeting Sri Lankan major religions.
+
+Despite the fact that there are severe reactions, we have no choice but to inform the Secretary of Defense. This is followed by many politicians who have blamed us.
+
+◼️
 
 [Data](articles/b3a5d1fb.json)
+
+[Extended Data](ext_articles/b3a5d1fb.ext.json)
 
 ---
 
@@ -116,37 +132,51 @@ In a ballot, the criminal procedure code was proposed to increase Rs. 300 to Rs.
 
 ---
 
-### விவசாய நவீனமயமாக்கல் திட்டத்தின் கீழ் வட்டியில்லா கடன் வழங்கும் செயல்முறை தொடர்பான புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடப்பட்டது
+### A Memorandum of Understanding (MoU) on the process of lending interest free lending under the Agricultural Modernization Program
 
 *2024-07-22 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189124) · `ta`
 
-விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் கீழ் முதல் கட்டமாக விவசாய தொழில் முயற்சியாளர்கள் மற்றும் விவசாயிகளுக்கு வட்டியில்லாக் கடன்களை வழங்கும் செயல்முறை தொடர்பான புரிந்துணர்வு ஒப்பந்தம் திங்கட்கிழமை (22) ஜனாதிபதி அலுவலகத்தில் கையெழுத்திடப்பட்டது.
+An MoU was signed to provide interest-free loans to farmers and agri-entrepreneurs, with the first phase allocating funds to 75 Divisional Secretariats for modernization projects. The government covers 70%, while beneficiaries contribute 30%. Loans are disbursed through selected banks, with a maximum repayment period of 5 years. This initiative aims to boost productivity and transition towards manufacturing projects, marking a significant step towards achieving long-term agricultural development goals.
 
-முதல் கட்டத்தில், இந்த வேலைத்திட்டத்திற்கு பங்களிப்பை வழங்கும் இலங்கை வங்கி, பிரதேச அபிவிருத்தி வங்கி ஆகியவற்றுடன், விவசாய, பெருந்தோட்ட கைத்தொழில் அமைச்சின் செயலாளர் ஜானக தர்மகீர்த்தி இந்த புரிந்துணர்வு ஒப்பந்தங்களில் கைச்சாத்திட்டார்.. இதன்படி எதிர்காலத்தில் மக்கள் வங்கியுடனும் ஒப்பந்தம் கைச்சாத்திடப்பட உள்ளது.
+🟩
 
-விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் முதற்கட்டமாக முன்னோடித் திட்டங்களை நடைமுறைப்படுத்த தெரிவு செய்யப்பட்ட 26 பிரதேச செயலகங்களில் விவசாய நவீனமயமாக்கல் நிலையங்கள் ஊடாக வேலைத் திட்டங்களை நடைமுறைப்படுத்த தலா 25 மில்லியன் ரூபா வீதம் 650 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. இரண்டாம் கட்டமாக 10 மில்லியன் ரூபா பெறுமதியான விவசாய நவீனமயமாக்கல் திட்டங்களை நடைமுறைப்படுத்த 75 பிரதேச செயலகங்கள் அடையாளம் காணப்பட்டுள்ளன.
+A Memorandum of Understanding (MoU) on the process of providing interest -free loans to agricultural entrepreneurs and farmers was signed on Monday (22).
+
+In the first phase, the Secretary to the Ministry of Agriculture and Plantation Industries, Janaka Dharmakirthi, signed these Memorandum of Understanding (MoU) along with the Bank of Ceylon and the Divisional Development Bank that contributes to this program.. Accordingly, the contract with the people's bank is to be signed in the future.
+
+The first phase of the Agricultural Modernization Program has been allocated Rs.. In the second phase, 75 Divisional Secretariats have been identified to implement agricultural modernization projects worth 10 million rupees.
+
+When implementing agricultural modernization programs in the Divisional Secretariats, agricultural entrepreneurs and farmers contribute to more than 30% of the cost of the program and the remaining 70% of the government's contribution.
 
 ...
 
 [Data](articles/d2e3353b.json)
 
+[Extended Data](ext_articles/d2e3353b.ext.json)
+
 ---
 
-### இந்து சமுத்திரத்தின் சுதந்திரம் மற்றும் பிராந்திய நாடுகளின் இறையாண்மைக்காக அவுஸ்திரேலியாவின் அர்ப்பணிப்பை முன்னாள் பிரதமர் ஸ்கொட் மொரிசன் வலியுறுத்தினார்!
+### Former Prime Minister Scott Morrison emphasized Australia's commitment to the independence of the Indian Ocean and the sovereignty of the regional countries!
 
 *2024-07-22 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189123) · `ta`
 
-இந்து சமுத்திரத்தின் ஊடான பயணத்தை உறுதிப்படுத்தவும், பிராந்திய நாடுகளின் இறையாண்மையைப் பாதுகாப்பதற்கும் ஆதரவளிக்க அவுஸ்திரேலியா அர்ப்பணிப்புடன் இருப்பதாக அவுஸ்திரேலியாவின் முன்னாள் பிரதமர் ஸ்கொட் மொரிசன் தெரிவித்துள்ளார்.
+Scott Morrison highlighted Australia's dedication to supporting the sovereignty of Indian Ocean region countries amidst geopolitical tensions, emphasizing the strategic importance of the area. He discussed the economic impacts of COVID-19 and the need for governments to consider geopolitical risks in economic decisions. Morrison also touched on the challenges faced by smaller nations and the importance of regional cooperation, mentioning the influence of organizations like AUKUS, BRICS, and Quad.
 
-அண்மையில் கொழும்பு தாஜ் சமுத்திரா ஹோட்டலில் Geopolitical Cartographer” இனால் ஏற்பாடு செய்யப்பட்ட சொற்பொழிவில் கலந்து கொண்டு “அவுஸ்திரேலியாவும் இந்து சமுத்திரமும்” என்ற தலைப்பில் சிறப்புரை ஆற்றிய போதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+🟩
 
-இந்து சமுத்திரப் பிராந்தியத்தில் உள்ள நாடுகள் தமது தேசிய நலன்களுக்கு முன்னுரிமை வழங்க வேண்டும் எனவும், பலவந்தமாக அல்லது தமது இறையாண்மையில் சிக்கலை ஏற்படுத்தக்கூடிய ஏற்பாடுகளைத் தவிர்க்க வேண்டும் எனவும் ஸ்கொட் மொரிசன் சுட்டிக்காட்டினார்.
+Former Australia's former Prime Minister Scott Morrison has said that Australia is dedicated to support the journey through the Indian Ocean and protect the sovereignty of the regional countries.
 
-புவிசார் அரசியல் அழுத்தங்களுக்கு முன்னால் சிறிய மற்றும் அபிவிருத்தி அடைந்துவரும் நாடுகளுக்கு ஆதரவளிப்பதில் இந்து சமுத்திரம் மற்றும் அவுஸ்திரேலியாவின் பங்களிப்பின் மூலோபாய முக்கியத்துவத்தை அவுஸ்திரேலியாவின் முன்னாள் பிரதமர் ஸ்கொட் மொரிசன் தனது உரையில் வலியுறுத்தினார்.
+He made this statement while participating in a lecture organized by the Geopolitical Cartographer at the Taj Samudra Hotel in Colombo and made a special speech titled "Australia and the Indian Ocean".
+
+Scott Morrison pointed out that countries in the Indian Ocean region should prioritize their national interests and avoid arrangements that can be forcibly or their sovereignty.
+
+In his speech, Australia's former Prime Minister Scott Morrison emphasized the strategic importance of the Indian Ocean and Australia's contribution to small and developed countries before geopolitical tensions.
 
 ...
 
 [Data](articles/b4efda99.json)
+
+[Extended Data](ext_articles/b4efda99.ext.json)
 
 ---
 
@@ -172,23 +202,31 @@ However, Minister Premajayantha stated that the trade union action will not hind
 
 ---
 
-### வரலாற்று சிறப்புமிக்க கதிர்காமம் புனிதஸ்தலத்தில் சமய நிகழ்வுகளில் சாகல ரத்நாயக்க
+### Sakala Ratnayake at the Historical Kadirgamam Holy Sea
 
 *2024-07-22 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189122) · `ta`
 
-வரலாற்றுச் சிறப்பு மிக்க கதிர்காமம் ஆலய வருடாந்த மகோற்சவத்தின் இறுதிநாள் எசல மஹா பெரஹரா ஞாயிற்றுக்கிழமை (21) வீதி உலா வந்தது.
+Sagala Ratnayake, a senior advisor to the National Security, visited the Kadirgamam Temple on its final day, receiving blessings from the Dhaminda Nayaka chariot and attending religious events. He also participated in the Holy Kalasam ceremony alongside former President Mahinda Rajapaksa. Other attendees included Minister Shasheendra Rajapaksa and Tishan Gunasekera.
 
-ஜனாதிபதி பணிக்குழாம் பிரதானியும், தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகருமான சாகல ரத்நாயக்க ஞாயிற்றுக்கிழமை (21) பிற்பகல் கதிர்காமம் ஆலயத்திற்குச் சென்று சமய வழிபாடுகளில் ஈடுபட்டு ஆசிர்வாதங்களைப் பெற்றுக்கொண்டார்.
+🟩
 
-வரலாற்றுச் சிறப்புமிக்க கதிர்காம விகாரைக்குச் சென்ற சாகல ரத்நாயக்க முதலில் கிரிவெஹர விகாரை பீடாதிபதி வண. கொபவக்க தம்மிந்த நாயக்க தேரைச் சந்தித்து ஆசிகளைப் பெற்றுக்கொண்டார்.
+The last day of the annual Kadirgamam Temple, the Esala Maha Perahara was on Sunday (21).
 
-பின்னர் விகாரையில் நடைபெற்ற சமய நிகழ்வுகளில் கலந்து கொண்டு கதிர்காமம் சமன் மகா தேவாலயம் உள்ளிட்ட தேவாலயங்களுக்குச் சென்று ஆசிர்வாதம் பெற்றுக்கொண்டார்.
+Sagala Ratnayake, the President of the President of the President and the Senior Advisor to the National Security, visited the Kadirgamam temple on Sunday (21) afternoon and received blessings.
 
-கதிர்காம ஆலயத்தின் வருடாந்த எசல மஹா பெரஹரா உற்சவத்தின் இறுதி நாளான ஞாயிற்றுக்கிழமை (21) கிரிவெஹர விகாரையின் விகாராதிபதி கொபவக தம்மிந்த தேரரின் அனுசாசனைக்கு அமைய சிங்கராஜா ஹஸ்திராஜா யானையின் மீது புனித கலசம், முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ மற்றும் சாகல ரத்நாயக்க ஆகியோரின் தலைமையில் வைக்கப்பட்டது.
+Sagala Ratnayake who went to the historic Kadirgama Vihara first. Kopavaka met Dhaminda Nayaka chariot and got blessings.
 
-...
+He then attended the religious events at Vihara and went to churches including the Kadirgamam Saman Maha Church.
+
+The Holy Kalasam, former President Mahinda Rajapaksa and Sagala Ratnayaka were held on the last day of the annual Esala Maha Perahara festival of the Kadirgama Temple, on Sunday (21), the Vikavaka, the Vikavaka Thera of the Girivehara Vihara.
+
+Minister of State Shasheendra Rajapaksa, Kadirgamam Maha Church Basnayaka Land Tishan Gunasekera and many others participated in the event.
+
+◼️
 
 [Data](articles/cfda5cca.json)
+
+[Extended Data](ext_articles/cfda5cca.ext.json)
 
 ---
 
@@ -245,6 +283,26 @@ The Athurugiriya Police were produced before the court on the occasion.
 [Data](articles/02f09638.json)
 
 [Extended Data](ext_articles/02f09638.ext.json)
+
+---
+
+### Without bank account, 135,000 Sri Lanka’s Aswesuma beneficiaries can’t receive funds
+
+*2024-07-22 20:14:00* · [`economynextcom`](https://economynext.com/without-bank-account-135000-sri-lankas-aswesuma-beneficiaries-cant-receive-funds-173345/) · `en`
+
+ECONOMYNEXT – More than 135,000 Sri Lanka’s Aswesuma poverty alleviation beneficiaries cannot receive their monthly dues due to lack of bank accounts, a top government official said.
+
+Despite the government has approved 1.8 million households as the Aswesuma beneficiaries from the last year’s applicants still around 200,000 beneficiaries have not received any benefits, the official said.
+
+Aswesuma benefits are channeled only through a formal banking channel to selected beneficiary to prevent all elements of corruptions, government officials say.
+
+“Around 135,000 people out of these 200,000 people have not opened bank accounts and we are unable to deposit their money,” Jayantha Wijerathne, the Chairman of Welfare Benefits Board, told EconomyNext on Monday (22).
+
+“Some people may have taken loans and failed to repay the dues. Some are unable to open a new account because of their credit (CRIB) scores,” he said.
+
+...
+
+[Data](articles/df01bf15.json)
 
 ---
 
@@ -500,6 +558,46 @@ The Opposition Leader emphasized that there is an unveiling electricity annual d
 
 ---
 
+### Duplicate NIC numbers delay Sri Lanka’s Aswesuma beneficiaries receiving payment: official
+
+*2024-07-22 18:20:00* · [`economynextcom`](https://economynext.com/duplicate-nic-numbers-delay-sri-lankas-aswesuma-beneficiaries-receiving-payment-official-173325/) · `en`
+
+ECONOMYNEXT – Thousands of Sri Lanka’s Aswesuma poverty alleviation beneficiaries face delay in receiving funds due to duplication of their national identity card (NIC) numbers, a top government official said.
+
+Despite the government approving 1.8 million households as Aswesuma beneficiaries from last year’s applicants, still around 200,000 beneficiaries have not received any benefits, the official said.
+
+“When you include their details into the system, it shows two people have the same national identity card numbers,” Jayantha Wijerathne, Chairman of the Welfare Benefits Board, told EconomyNext on Monday (22).
+
+“This may be due to manual production of the identity cards in the past. When there is duplication of NIC numbers, the system rejects the beneficiaries from being paid.”
+
+“Now we have informed these duplicate identity cardholders via text messages and to rectify this issue. Once this is sorted, we will pay them the full amount with effect from July last year.”
+
+...
+
+[Data](articles/53fdafdc.json)
+
+---
+
+### Sri Lanka cultivates hybrid durian for export
+
+*2024-07-22 18:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-cultivates-hybrid-durian-for-export-173319/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to cultivate 20,000 durian plants of two hybrid varieties for export purposes, the country’s Minister of Agriculture Mahinda Amaraweera said.
+
+“Arrangements have been made to cultivate two varieties of hybrid durians, Ambathanna and Kasun, which produce high yields in a short period of time,” Amaraweera said on Meta (Facebook).
+
+“Both of these durian varieties do not grow as large as other dominant durian trees and grow to heights of 8 to 12 feet, but are two of the most productive varieties. Because of this, it is possible to cultivate even in an ordinary land,” Amaraweera said.
+
+According to Sri Lanka’s Export Development Board, fruits produced in Sri Lanka are mainly exported to the UAE, India and Maldives.
+
+Said to have been introduced to the island by the Portuguese initially, several new types were introduced later. The fruit with a unique odour is now being grown commercially on small scale in various regions. (Colombo/Jul22/2024)
+
+◼️
+
+[Data](articles/26993b1b.json)
+
+---
+
 ### Japan Foreign Minister meets Anura
 
 *2024-07-22 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199094) · `si`
@@ -565,6 +663,54 @@ Sri Lanka's team's youngest bowler, 15 crowd, scored 3 wickets in 4 overs.
 [Data](articles/62c4cf0a.json)
 
 [Extended Data](ext_articles/62c4cf0a.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 304.00/20 to US dollar
+
+*2024-07-22 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-00-20-to-us-dollar-173321/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.00/20 to the US dollar on Monday, from 303.55/65 to the US dollar on Friday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 10.40/50 percent, down from 10.40/55 percent.
+
+A bond maturing on 15.12.2027 closed at 11.60/70 percent, up from 11.50/65 percent.
+
+A bond maturing on 01.05.2028 closed at 11.80/90 percent, up from 11.70/85 percent.
+
+A bond maturing on 15.09.2029 closed stable at 12.00/10 percent.
+
+A bond maturing on 01.10.2032 closed at 12.30/50 percent. (Colombo/Jul22/2024)
+
+◼️
+
+[Data](articles/fd073c44.json)
+
+---
+
+### Sri Lanka stocks close down, Hayleys sees continued interest
+
+*2024-07-22 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-hayleys-sees-continued-interest-173315/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 1.60 percent, or 187.25 points, at 11,539; while the more liquid S&P SL20 Index closed down 2.11 percent, or 72.32 points, at 3,356.
+
+Turnover was 678 million, one of the lowest recorded this year.
+
+Hayleys Plc contributed Rs92mn to the turnover, and the share closed down at 100.00.
+
+“Hayleys has been one of the companies that has seen continuous interest,” Softlogic Stockbrokers said.
+
+“After news of the extension of the vehicle import ban, conversely, we saw some buying interest in companies with exposure to vehicles.
+
+Buying interest was seen in People’s Leasing & Finance Plc (down at 12.00), Vallibel Finance Plc (down at 40.90), LOLC Finance Plc (flat at 6.00) and Lanka IOC Plc (down at 118.00).
+
+“It could be that investors think once the ban is reversed there could be gains on the long term horizon. It could be bargain hunting.”
+
+...
+
+[Data](articles/e4dba589.json)
 
 ---
 
@@ -992,6 +1138,24 @@ The fundamental rights petitions have been filed by a group of development offic
 
 ---
 
+### Sri Lanka’s Dipped Products opens marketing office in India
+
+*2024-07-22 16:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-opens-marketing-office-in-india-173278/) · `en`
+
+ECONOMYNEXT – Sri Lanka based glove maker Dipped Products Plc said it has opened a market office in Mumbai, India as part of efforts to strengthen in presence in key markets.
+
+India is growing at a Compound Annual Growth Rate (CAGR) for GDP of 7.5 percent and is the world’s fourth largest economy.
+
+“The Indian market has consistently demonstrated resilient growth, and with the opening of our 7th marketing arm in Mumbai – joining our existing offices in Italy, Poland, France, the Middle East, Thailand, and Sri Lanka – we are now ideally positioned to serve this market,” DPL Managing Director Pushpika Janadheera said.
+
+“While previously we primarily served markets in North America and the Europe, since the COVID-pandemic, we have also started to secure valuable opportunities in India and many other regions, including the Middle-East, South America and Australia.”
+
+...
+
+[Data](articles/0652c82b.json)
+
+---
+
 ### Chamari smashes first-ever century in Women’s T20 Asia Cup history
 
 *2024-07-22 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100699/chamari-smashes-first-ever-century-in-womens-t20-asia-cup-history-) · `en`
@@ -1271,6 +1435,22 @@ Most of the companies were financially poorly, as a large amount of fertilizer c
 [Data](articles/dffe765e.json)
 
 [Extended Data](ext_articles/dffe765e.ext.json)
+
+---
+
+### After India, China helps Sri Lanka’s smart classroom concept ahead of polls
+
+*2024-07-22 14:57:00* · [`economynextcom`](https://economynext.com/after-india-china-helps-sri-lankas-smart-classroom-concept-ahead-of-polls-173294/) · `en`
+
+ECONOMYNEXT – China has come forward to grant 1,000 smart boards to Sri Lankan schools across the country, Education Minister Susil Premajayantha said, two weeks after an Indian grant project distributed the digital equipment for establishing 200 smart classrooms with 2,200 smart tablets in the Southern Province.
+
+President Ranil Wickremesinghe’s government has fast tracked digitization of the education sector along with planned teacher training for the latest technology-based education system, amid opposition leader Sajith Premadasa’s move to grant smart classrooms for schools ahead of presidential polls later this year.
+
+“Digitization of education sector is one of the reforms we have planned. We have already started it. Accordingly, there will be 1,250 clusters established. All the school systems will be included in these 1,250 clusters; one cluster will consist of 8-10 schools,” Minister Premajayantha told reporters at a news briefing in Colombo.
+
+...
+
+[Data](articles/624a9720.json)
 
 ---
 
@@ -2203,179 +2383,5 @@ The suspect has been handed over to the Kadawatha Police Station.
 [Data](articles/bd06b22b.json)
 
 [Extended Data](ext_articles/bd06b22b.ext.json)
-
----
-
-### Hand Gomb Rescue in Kattankudi: Army and Special Task Force
-
-*2024-07-22 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189059) · `ta`
-
-In Kattankudi, a handgun was discovered after a house explosion, leading to a search involving the police and Special Task Force. A hand grenade was initially spotted near a school road, prompting the police to seek court permission for recovery. Following this, a bomb attack occurred at another nearby house, and subsequent searches were conducted around the area where the handgun was found.
-
-🟩
-
-Kattankudy police said that a handgun was found on Sunday evening (21) night (21) night after a bombing of a house near a house near a house near Poonchimunai in Kattankudi.
-
-The public who observed a hand grenade near a drain in front of a house on the Mukheedin Zoom School Road, also known as the Green Housing Scheme at Poonchimunai.
-
-Subsequently, the police went to the scene and took steps to obtain court permission to recover the handle and the Special Task Force was invited.
-
-Meanwhile, a bomb attack on the house near the house recovered on Monday night
-
-Meanwhile, police have carried out search operations at homes near the handbags recovered from Monday (22) morning.
-
-◼️
-
-[Data](articles/25ed176e.json)
-
-[Extended Data](ext_articles/25ed176e.ext.json)
-
----
-
-### Two injured in shooting in Middeniya
-
-*2024-07-22 11:11:22* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙනියේ-වෙඩි-තැබිමකින්-යුවලකට-තුවාල/11-410904) · `si`
-
-A shooting in Middeniya resulted in two injuries: a 42-year-old male and a 40-year-old female from Badamitiya. The incident occurred as they closed their shop and headed home on a motorcycle. The suspects fled the scene early in the morning. Both victims were initially treated at the Minedead hospital before being transferred to the Minedandama Hospital for further care.
-
-🟩
-
-The Miner the Metadaya Police claimed that a couple shot dead yesterday (21) at Point in Point area on the sixth area of ​​the Middeniya.
-
-The motorcyclist was injured and the motorcyclist was injured and the motorcyclist was injured and admitted to the Minedead hospital and transferred to the Minedandama Hospital for further treatment.
-
-The man who was injured in the shooting was 42 years old and a woman residing in the Badamitiya, aged 40.
-
-The injured had taken place when the injured were closing their shop and heading to the motorcycle. The suspects have fled the morning where the suspects were shooting and fled. Police say that information has been revealed so far.. The Minedegama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/cc931a0e.json)
-
-[Extended Data](ext_articles/cc931a0e.ext.json)
-
----
-
-### Colombo HC orders release of Ven. Gnanasara Thero on bail
-
-*2024-07-22 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/100688/colombo-hc-orders-release-of-ven-gnanasara-thero-on-bail) · `en`
-
-The Colombo High Court has ordered Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero to be released on bail, as per a recent order issued by the Court of Appeal.
-
-This order was issued by Colombo High Court judge Adithya Patabendige this morning (22), Ada Derana reporter said.
-
-On July 18, 2024, the Court of Appeal granted bail for Ven. Galagodaaththe Gnanasara Thero, who had been sentenced to four years of rigorous imprisonment for making defamatory comments on Islam at Kuragala, until the hearing of the revision petition filed by him.
-
-Accordingly, the Thero was ordered to be released on a monetary bail of Rs 50,000 and two surety bail of Rs 500,000 each. Additionally, the Appeals Court imposed an overseas travel ban on Ven. Galagodaaththe Gnanasara Thero and ordered the Colombo High Court to communicate that to the Immigration and Emigration Controller.
-
-...
-
-[Data](articles/39cc0278.json)
-
-[Extended Data](ext_articles/39cc0278.ext.json)
-
----
-
-### A shortage of litro gas
-
-*2024-07-22 11:04:56* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-හිඟයක්/11-410903) · `si`
-
-In Hatton, Litro Gas faces a crisis with dealers and consumers affected. Dealers report severe issues, including confiscation of empty cylinders and delays in refills. Many outlets have closed, impacting supply and distribution.
-
-🟩
-
-Litro Gaze dealers and consumers claim that they have been severely imposed due to the main cities of Hatton.
-
-The gas delegates claim that the gas delegation has emerged on the basis of the demand for delegation and distribution of gazs.
-
-The dealers stated that even the empty gas cylinders of their marketing agencies have been taken by the company and that the gas full of gas cylinders were not given a few weeks.
-
-We have noted how a number of gas outlets in Hatton has been closed down in the city of Handton under the loss of Litro.
-
-◼️
-
-[Data](articles/4bf2d21b.json)
-
-[Extended Data](ext_articles/4bf2d21b.ext.json)
-
----
-
-### Woman killed
-
-*2024-07-22 11:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரப்பலாகாயில்-தாக்கியதில்-பெண்-பலி/175-340816) · `ta`
-
-A 25-year-old man is arrested for allegedly killing a 79-year-old woman, HC Azilin, in a personal dispute. The victim's daughter-in-law was also assaulted. The suspect, after hitting the woman, took her to the hospital where she died. Investigations continue.
-
-🟩
-
-Mulchiripura police said that a 25 -year -old man has been arrested for allegedly assaulting a woman who has been assaulted by a 79 -year -old woman due to a personal dispute.
-
-HC Azilin, the mother of four children, has been assassinated in the village surrounding Malchirpura.
-
-The magistrate's inquiry and autopsy have been arrested and the suspect in connection with the death has been arrested.
-
-Investigations have revealed that the suspect had caught the woman's head and hit the woman's head in a personal dispute between the two families and that the woman was killed when she was taken to the hospital.
-
-◼️
-
-[Data](articles/8e81a400.json)
-
-[Extended Data](ext_articles/8e81a400.ext.json)
-
----
-
-### Woman killed
-
-*2024-07-22 11:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரப்பலாகாயால்-தாக்கியதில்-பெண்-பலி/175-340816) · `ta`
-
-A 25-year-old man was arrested for allegedly killing a 79-year-old woman, HC Azilin, in a personal dispute. The incident occurred in Mulchiripura, where the woman was assaulted and later died in hospital. Investigations led to the arrest of the suspect after an autopsy confirmed the cause of death.
-
-🟩
-
-Mulchiripura police said that a 25 -year -old man was arrested for allegedly assaulting and murdering a 79 -year -old woman due to a personal dispute.
-
-HC Azilin, the mother of four children, has been assassinated in the village surrounding Malchirpura.
-
-The magistrate's investigation and autopsy has been arrested and the suspect in connection with the death has been arrested.
-
-Investigations have revealed that the suspect had caught the woman's head and hit the woman's head in a personal dispute between the two families and that the woman was killed when she was taken to the hospital.
-
-◼️
-
-[Data](articles/e9af91ee.json)
-
-[Extended Data](ext_articles/e9af91ee.ext.json)
-
----
-
-### Colombo High Court order on Galagoda Palace
-
-*2024-07-22 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199077) · `si`
-
-The Colombo High Court appointed a judge who rejected Gnanasara Thera's bail request, ordering him to remain in custody until the final verdict. Thera appealed this decision to the Court of Appeal, which granted him release on a revenue bail, but also imposed restrictions on his movement.
-
-🟩
-
-The Colombo High Court today (Colombo High Court) appointed General Secretary Ven.
-
-The Colombo High Court Judge Adal Pabennege gave the order.
-
-After sentenced to prison, Gnanasara Thera presented a appeal to the Court of Appeal against it.
-
-The Colombo High Court Judge Adaddani has recently rejected the bail of Gnanasara to demanding the releasing hearing on bail until the last decision was executed.
-
-According to the High Court order, the Court of Appeal was released on a revenue bail of Rs.
-
-In addition, the Court of Appeal was ordered to babin his traveling travel was ordered to inform the ruling and the ruling.
-
-According to the Court of Appeal, he was released on bail by the Colombo High Court today (22).
-
-Gnanasara Thera had been convicted of two accusations at a press conference held in Colombo in 2016 and had been convicted of the religious reconciliation and interrupted the religious reconciliation.
-
-◼️
-
-[Data](articles/254514df.json)
-
-[Extended Data](ext_articles/254514df.ext.json)
 
 ---

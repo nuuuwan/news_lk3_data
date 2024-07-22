@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 23:06:18**
+As of **2024-07-22 23:20:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,625 (100.0%) of 36,626 articles have been extended.
+36,626 (100.0%) of 36,626 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -246,19 +246,27 @@ More than 34 million applications for the first phase of the Aswesa Project were
 
 ---
 
-### කෘෂි නවීකරණ වැඩසටහන යටතේ පොලී රහිත ණය
+### Interest-free loans under agricultural modernization program
 
 *2024-07-22 19:20:20* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂි-නවීකරණ-වැඩසටහන-යටතේ-පොලී-රහිත-ණය/11-410919) · `si`
 
-කෘෂිකර්ම නවීකරණ වැඩසටහනෙහි පළමු අදියර යටතේ කෘෂි ව්‍යවසායකයින් සහ ගොවීන් සඳහා පොලී රහිත ණය ලබාදීමේ ක්‍රියාව ලියට අදාළ අවබෝධතා ගිවිසුමට අත්සන් තැබීම අද (22) ජනාධිපති කාර්යාලයේදී සිදු විය.
+The Agriculture Navinna Program's first phase includes interest-free loans worth Rs. 650 million for agro-modernization projects across 75 divisions. Banks like Bank of Ceylon, People's Bank, and Regional Development Bank will provide these loans, with government contributions reviewed post-implementation. The loan tenure ranges from six months to five years, depending on the project and borrower type, aiming to boost agriculture through entrepreneur and farmer investments.
 
-පළමු අදියරේදී මෙම වැඩසටහන සඳහා දායකත්වය ලබා දෙන ලංකා බැංකුව සහ ප්‍රාදේශීය සංවර්ධන බැංකුව සහ කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශ ලේකම් ජානක ධර්මකීර්ති මහතා විසින් එම අවබෝධතා ගිවිසුම්වලට අත්සන් තැබීය.. ඒ අනුව ඉදිරියේ දී මහජන බැංකුව සමඟද ගිවිසුම් අත්සන් කිරීමට නියමිතය.
+🟩
 
-කෘෂි නවීකරණ වැඩසටහනෙහි පළමු අදියරයේ දී නියමු ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා තෝරාගත් ප්‍රාදේශීය ලේකම් කොට්ඨාස 26හි කෘෂි නවීකරණ කේන්ද්‍රස්ථාන හරහා ව්‍යාපෘති ක්‍රියාත්මක කිරීමට රුපියල් මිලියන 25 බැගින් රුපියල් මිලියන 650 ක මුදලක් වෙන් කර ඇති අතර, දෙවන අදියරයේදී රුපියල් මිලියන 10ක කෘෂිකර්ම නවීකරණ ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා ප්‍රාදේශීය ලේකම් කොට්ඨාස 75ක් හඳුනාගෙන ඇත.
+Under the first phase of the Agriculture Navinna Program, the Understanding agreement was signed at the Presidential Secretariat today (22).
+
+Bank of Ceylon and Regional Development Bank and the Secretary of the Ministry of Agriculture and the Secretary of the Ministry of Agriculture and Plantation Industries Janaka Dharmakerthi was signed by the Secretary of the Ministry of Agriculture and Plantation Industries.. Accordingly, agreements will be signed with People's Bank.
+
+Rs. 650 million has been allocated Rs.75 divisions have been identified.
+
+In the implementation of agro-modernization projects in the Divisional Secretariat, the Agricultural entrepreneurs and farmers will contribute to over 70% of the remaining 70%.
 
 ...
 
 [Data](articles/50973fb3.json)
+
+[Extended Data](ext_articles/50973fb3.ext.json)
 
 ---
 

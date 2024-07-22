@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 07:29:47**
+As of **2024-07-22 07:51:14**
 
 ## Newspaper Stats
 
-*Scraped **36,481** Articles*
+*Scraped **36,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,66 @@ economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,289
 adaderanalk | 4,218
-tamilmirrorlk | 4,446
+tamilmirrorlk | 4,447
 dailymirrorlk | 4,733
 virakesarilk | 5,716
-adaderanasinhalalk | 6,119
+adaderanasinhalalk | 6,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,480 (100.0%) of 36,481 articles have been extended.
+36,481 (100.0%) of 36,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### வெளியே ஜோ பைபடன்  உள்ளே கமலா ஹாரிஸ்?
+### තිස්සමහාරාමයේ ඛේදවාචකය
+
+*2024-07-22 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199069) · `si`
+
+තිස්සමහාරාම කාවන්තිස්ස පුර ප්‍රදේශයේ ගල්වලක ගිිලී මව සහ දරුවන් දෙදෙනෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+තිස්සමහාරාම පොලීසිය පැවසුවේ මවගේ සිරුර ඊයේ (21) රාත්‍රියේම සොයාගෙන ඇති අතර දරුවන් දෙදෙනාගේ සිරුරු සොයා මෙහෙයුම් කටයුතු සිදුකරන බවයි.
+
+මෙලෙස මියගොස් ඇත්තේ 32 හැවිරිදි මව සහ 14 වැහිරිදි සහ 9 හැවිරිදි පිරිමි ළමුන් දෙදෙනෙකි.
+
+ඊයේ පස්වරුවේ මව සහ දරුවන් දෙදෙනා මෙම ගල් වලේ දිය නෑමට ගොස් ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/88589fd8.json)
+
+---
+
+### Kamala Harris inside Joe Baitan outside?
 
 *2024-07-22 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெளியே-ஜோ-பைபடன்-உள்ளே-கமலா-ஹாரிஸ்/50-340799) · `ta`
+
+Kamala Harris is expected to run for President after Joe Biden withdraws from the race due to health concerns. Donald Trump represents the Republicans. This development follows Biden's struggle during a debate and increasing calls within his party for a change.
+
+🟩
+
+International media reports that the current President of the United States, Kamala Harris Democratic Party, will soon be announced as the presidential candidate, as current President Joe Bidan has announced his withdrawal from the US presidential election.
+
+Elections for US President. Former President Donald Trump, 78, has been officially announced on behalf of the Republican Party.
+
+It was announced that current President Joe Biden, 81, will contest on behalf of the Democratic Party. In Chicago, it was announced that he would formally be declared the presidential candidate at the party's party conference next month.
+
+At the recent election -related direct argument, Donald Trump was unable to answer the questions, Joe Bidan was struggling. Following this, many of his party began to voice their voice to replace the presidential candidate.
+
+...
+
+[Data](articles/75f766ab.json)
+
+[Extended Data](ext_articles/75f766ab.ext.json)
+
+---
+
+### பைபடன்  விலகினார்:
+
+*2024-07-22 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைபடன்-விலகினார்/50-340799) · `ta`
 
 அமெரிக்க ஜனாதிபதி தேர்தலுக்கான போட்டியில் இருந்து விலகுவதாக, தற்போதைய ஜனாதிபதி ஜோ பைடன் அறிவித்துள்ள நிலையில், இந்திய வம்சாவளியான கமலா ஹாரிஸ் ஜனநாயக கட்சி சார்பில் ஜனாதிபதி வேட்பாளராக விரைவில் அறிவிக்கப்படவுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
 
@@ -46,7 +88,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/75f766ab.json)
+[Data](articles/76f8824c.json)
+
+---
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-07-22 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199067) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+අරාබි මුහුද ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුද ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාව ගේ විශේෂ අවධානය සඳහා මෙම නිවේදනය නිකුත් කර ඇත.
+
+සක්‍රීය නිරිත දිග මෝසම් කාලගුණය නිසා මුහුදු ප්‍රදේශයේ (උතුරු අක්ෂාංශ 10ත් 18ත් සහ නැගෙනහිර දේශාංශ 55 සහ 75 ත් අතර මුහුදු ප්‍රදේශවල ) සහ බෙංගාල බොක්ක මුහුද ප්‍රදේශයේ (උතුරු අක්ෂාංශ 15ත් 20ත් සහ නැගෙනහිර දේශාංශ 84 සහ 91 ත් අතර මුහුද ප්‍රදේශවල )ඉතා ද සුළං ( පැ.කි.මී. 70-80) පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව දැනුම් දී තිබේ.
+
+මෙම මුහුද ප්‍රදේශ වල ධීවර කටයුතුවල යෙදී සිටින පිරිස වහාම ගොඩ බිම ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙසට දන්වා ඇත.
+
+එමෙන්ම කාලගුණ විද්‍යා දෙපාර්තමේතුව විසින් ඉදිරයේ දී නිකුත් කරන නිවේදන සම්බන්ධයෙන් අවධානයෙන් සිටින ලෙසට ධීවර සහ නාවික ප්‍රජාවට දන්වා තිබේ.
+
+මේ අතර, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව දැනුම් දී තිබේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් බලාපොරොත්තුවේ.
+
+...
+
+[Data](articles/04319461.json)
 
 ---
 
@@ -2199,61 +2265,5 @@ Speaking to the media, the public minister said that the electoral election woul
 [Data](articles/30a7f0a5.json)
 
 [Extended Data](ext_articles/30a7f0a5.ext.json)
-
----
-
-### Muslim parties that suffer unconditionally
-
-*2024-07-21 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/188995) · `ta`
-
-Muslim political parties lack internal dialogue, hindering unity and effective policy-making.
-
-🟩
-
-This course is not found in the politics of Muslims. Muslim Congress, People's Congress, National Congress and other Muslim parties and teams do not hold conversations between themselves. At least, every Muslim party did not have discussions among their members even among their members.
-
-◼️
-
-[Data](articles/8ba56bf1.json)
-
-[Extended Data](ext_articles/8ba56bf1.ext.json)
-
----
-
-### A shooting incident and conspiracy theories
-
-*2024-07-21 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/188993) · `ta`
-
-Conspiracy theories often arise when official explanations lack clarity, especially regarding incidents like shootings. They suggest a "shadow government" operates outside democratic norms, using power secretly. This concept isn't new in U.S. history; it's been linked to events such as presidential assassinations. These theories serve as political tools, highlighting the potential misuse of conspiracy narratives.
-
-🟩
-
-The shadow government is seen as contrary to democracy because of the exercise of power beyond the selected government. As far as the United States is concerned, the assassination of the president and the unleashing of assassinations on them is not new. In all cases where there is no proper answer to the question, stories are told in the name of conspiracy. The lesson we can learn from American history is that conspiracy can be used as political weapons.
-
-◼️
-
-[Data](articles/9288f53c.json)
-
-[Extended Data](ext_articles/9288f53c.ext.json)
-
----
-
-### IMF delegation to arrive in Sri Lanka next week to review economic progress
-
-*2024-07-21 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100665/imf-delegation-to-arrive-in-sri-lanka-next-week-to-review-economic-progress-) · `en`
-
-State Minister of Finance Shehan Semasinghe stated that a delegation of the International Monetary Fund (IMF) will arrive in Sri Lanka next week to review the country’s economic progress.
-
-Speaking to the Media, the State Minister emphasized that following the completion of second review to release the third tranche of the IMF bailout package, the country must prepare for the third review.
-
-However, he said that the discussions to be held with the IMF delegation next week is not related to the third review, but to focus on the country’s economic progress and future actions to be taken to strengthen the economy.
-
-Semasinghe further stated: “Our expectation is to maintain the current stability and economic growth rate of 5.1% in the first quarter of this year throughout the year. Most forecasts expect 2% growth in the economy this year. But we expect it to be maintained between 3% and 3.5% this year.”
-
-...
-
-[Data](articles/5855239a.json)
-
-[Extended Data](ext_articles/5855239a.ext.json)
 
 ---

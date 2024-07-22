@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 18:37:59**
+As of **2024-07-22 18:54:55**
 
 ## Newspaper Stats
 
-*Scraped **36,600** Articles*
+*Scraped **36,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,305
+adalk | 3,306
 adaderanalk | 4,245
 tamilmirrorlk | 4,469
 dailymirrorlk | 4,733
 virakesarilk | 5,731
-adaderanasinhalalk | 6,143
+adaderanasinhalalk | 6,145
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,599 (100.0%) of 36,600 articles have been extended.
+36,600 (100.0%) of 36,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### ජපාන විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා සහ අනුර අතර හමුවක්
+
+*2024-07-22 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199094) · `si`
+
+ජපානයේ සංචාරයක නිරත ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා එරට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය TSUGE YOSHIFUMI මුණගැසී සාකච්ඡා පවත්වා තිබේ.
+
+දෙරට අතර දිගුකාලීන මිත්‍රත්වය සහ රාජ්‍යතාන්ත්‍රික හා ආර්ථික සබඳතාවල ඉදිරි පියවර පිළිබඳ එහිදී සාකච්ඡා කර ඇති බව සඳහන්ය.
+
+ශ්‍රී ලංකාවේ ආර්ථික හා දේශපාලන තත්ත්වය, දෙරට අතර දිගුකාලීන මිත්‍රත්වය සහ රාජ්‍යතාන්ත්‍රික හා ආර්ථික සබඳතාවල ඉදිරි පියවර පිළිබඳ එහිදී සාකච්ඡා කර ඇති බව සඳහන්ය.
+
+සාකච්ඡාව සඳහා අග්නිදිග සහ නිරිතදිග ආසියානු කටයුතු දෙපාර්තමේන්තුවේ නිරිතදිග ආසියානු අධ්‍යක්ෂ, එහි නියෝජ්‍ය අධ්‍යක්ෂ ඇතුළු නියෝජිතයින් පිරිසක් ද එක්ව තිබේ.
+
+◼️
+
+[Data](articles/418e6e56.json)
+
+---
+
+### චමරිගේ වාර්තා ගත ශතකයෙන් ලංකාව දෙවැනි ජයත් ලබයි
+
+*2024-07-22 17:58:26* · [`adalk`](https://www.ada.lk/sports/චමරිගේ-වාර්තා-ගත-ශතකයෙන්-ලංකාව-දෙවැනි-ජයත්-ලබයි/9-410913) · `si`
+
+කාන්තා ආසියානු කුසලාන විස්සයි20 තරගාවලියකදී ක්‍රීඩිකාවක් වාර්තා කළ පළමු ශතකයට හිමිකම් කිමට ශ්‍රී ලංකා නායිකා චමරි අතපත්තු අද සමත්වූවාය. ඒ මැලේසියා කණ්ඩායමට එරෙහිව පන්දු 69කදී වේගවත් ලකුණු 119ක් රැස්කමිනි.එය චමරිගේ තෙවැනි විස්සයි20 ශතකයද විය.
+
+චමරිගේ ශතකයත සමගින් ශ්‍රී ලංකාව පන්දුවාර 20 අවසානයේදී කඩුලු 4ට ලකුණු 184ක් රැස්කිරීමට සමත්විය. පිළිතුරු ඉනිම ක්‍රීඩා කළ මැලේසියා කණ්ඩායමට සියලු දෙනා දැවී රැස් කළ හැකිවූයේ ලකුණු 40ක් පමණි.
+
+ශ්‍රී ලංකා කණ්ඩායමේ ලාබාලම පන්දු යවන්නිය වන 15 හැවැරිදි ශෂිනි ගිම්හානි පන්දුවාර 4කදී ලකුනු 9ට කඩුලු 3ක් දවා ගැනීමට සමත්වූවාය.
+
+◼️
+
+[Data](articles/62c4cf0a.json)
+
+---
 
 ### Secret statement to the tutor owner
 
@@ -185,6 +219,22 @@ The PROMO of the concert was released and the opportunity to photograph Vijay An
 [Data](articles/f771e025.json)
 
 [Extended Data](ext_articles/f771e025.ext.json)
+
+---
+
+### පාන්වලට පාලන මිලක් ?
+
+*2024-07-22 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199091) · `si`
+
+බේකරි හිමියන් විසින් පාන් මිල අඩු නොකළහොත් පාන් සඳහා පාලන මිලක් හඳුන්වාදෙන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පවසයි.
+
+බේකරි හිමියන් විසින් පාන් මිල අඩු නොකළහොත් පාන් සඳහා පාලන මිලක් හඳුන්වාදෙන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පවසයි.
+
+අද (22) මාධ්‍ය වෙත අදහස් දක්වමින් වෙළෙඳ අමාත්‍යවරයා පවසා සිටියේ, බේකරි හිමියන් විසින් ඉදිරි දින දෙක තුළ පාන් මිල අඩු නොකළහොත් එම පාලන මිල හඳුන්වා දෙන බවය.
+
+...
+
+[Data](articles/5ea9b9c9.json)
 
 ---
 
@@ -742,19 +792,25 @@ The fine has been released in the Gazette with the signature of the Minister of 
 
 ---
 
-### 22 වන සංශෝධනය උසාවියේත් පාර්ලිමේන්තුවේත් පරදවනවා
+### The 22nd amendment defeated in court and Parliament
 
 *2024-07-22 14:13:27* · [`adalk`](https://www.ada.lk/breaking_news/22-වන-සංශෝධනය-උසාවියේත්-පාර්ලිමේන්තුවේත්-පරදවනවා/11-410912) · `si`
 
-රට ව්‍යාකූල කිරීමේ තවත් තුරුම්පුවක් ලෙස ආණ්ඩුව ගෙනැවිත් ඇති 22 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පරාජය කිරීමට කටයුතු කරන බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+The 22nd amendment faced legal challenges and criticism from the opposition, led by Purger Gammanpila, who accused the government of using it to confuse the country. He highlighted issues with the amendment process, including the lack of a referendum for significant changes, which he argued undermines the people's sovereignty. The opposition aims to challenge the amendment in court and through parliamentary debate, arguing it represents a threat to democratic principles and the separation of powers.
 
-ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.07.22) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි.
+🟩
 
-"රට ව්‍යාකූල කිරීමේ තවත් තුරුම්පුවක් ලෙස ආණ්ඩුව 22 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ගෙනැවිත් තිබෙනවා.  ඒකට හේතුව ලෙස ආණ්ඩුව කියන්නේ “19 වන සංශෝධනය සිදු කිරීමේ දී 83(ආ) වගන්තිය සංශෝධනය කරන්න අමතක වුණා.  අනේ අපිට ඒකට සමා වෙන්න.  දැන් ඒ වරද නිවැරදි කරන්න 22 වන සංශෝධනය ගේනවා” කියලයි.  නමුත් ඒක පට්ටපල් බොරුවක්.  ජනාධිපතිගේ ධූර කාලය කියන ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 30(2) වගන්තිය සංශෝධනය කලාම ධූර කාලය 6 සිට 5 දක්වා අඩු වුණා.  ඒ නිසා 83(ආ) වගන්තියේ සය වසරක් ඉක්මවා කියන වගන්තිය වෙනස් කළත් එකයි නැතත් එකයි.  ඒකෙන් ජනාධිපතිගේ ධූර කාලයට කිසිම බලපෑමක් නෑ.  ඒක අවස්ථා ගණනාවක දී ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරලා තිබෙනවා.
+Leader of Purger Gammanpila says that the 22nd constitution brought to the government as another truck of confusing the country is the Leader of the JHU.
+
+He was speaking at a press conference held at the JHU today (2024.07.22).
+
+"The government has been brought to the 22nd constitution as another truck to confuse the country. As a revision of the 19th Amendment, we forgot to revise the 19th Amendment. Now correct thatThe forestright revision is being brought. "But that's a sticking lie. Therefore, the term of Article 30 (2) of the Constitution was a revision of Article.. It has no effect on the presidential term. In many occasions, the Supreme Court has established.
 
 ...
 
 [Data](articles/05eb9554.json)
+
+[Extended Data](ext_articles/05eb9554.ext.json)
 
 ---
 
@@ -2265,61 +2321,5 @@ Naval and fishing communities are also requested to be attentive to future forec
 [Data](articles/909961d7.json)
 
 [Extended Data](ext_articles/909961d7.ext.json)
-
----
-
-### Teachers and principals launch ‘work-to-rule’ campaign
-
-*2024-07-22 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100681/teachers-and-principals-launch-work-to-rule-campaign) · `en`
-
-The Teacher-Principal Trade Unions have decided to launch a ‘work-to-rule’ campaign for two weeks starting from today (22).
-
-Accordingly, the unions say that they will not participate in the workshops, any external professional activities and training programmes prescribed by the provincial and zonal education offices from today.
-
-The General Secretary of the National Association of Principals, Parakrama Weerasinghe said, that in the next two weeks they will only be involved in teaching activities in the classrooms and will withdraw from all external activities.
-
-However, the Convenor of the National Collective Against Teachers’ & Principals’ Salary Disparities Ven. Ulapane Sumangala Thero said that they do not support the union action planned with the aim of strengthening political movements.
-
-◼️
-
-[Data](articles/4afbbb2b.json)
-
-[Extended Data](ext_articles/4afbbb2b.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-07-22 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100680/showers-expected-in-parts-of-the-country) · `en`
-
-A few showers may occur in Western and Sabaragamuwa provinces and in Galle and Matara districts, says the Department of Meteorology.
-
-Strong winds of about 50-55kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the island, it said.
-
-◼️
-
-[Data](articles/2aa0031a.json)
-
-[Extended Data](ext_articles/2aa0031a.ext.json)
-
----
-
-### Sri Lanka net foreign debt falls in 2023, despite borrowing US$1.5bn for budget
-
-*2024-07-22 08:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-net-debt-falls-in-2023-despite-borrowing-us1-5bn-for-budget-173142/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central government’s net foreign debt fell to 36.3 billion US dollars in 2023, from 37.5 billion dollars in 2022, despite the government borrowing 1.57 billion US dollars to finance the budget deficit, official data shows.
-
-When a reserve collecting central bank does not print money to enforce its policy rate or the average weighted call money rates or the 7 day rate or any other rate targeted by term reverse repo auctions, there are no forex shortages, allowing foreign debt to be repaid with rupee revenues.
-
-In 2023, the government borrowed 1.52 billion US dollars to finance its deficit, mostly supported by loans from the International Monetary Fund and budget support loans from the Asian Development Bank and World Bank.
-
-...
-
-[Data](articles/6f6fd573.json)
-
-[Extended Data](ext_articles/6f6fd573.ext.json)
 
 ---

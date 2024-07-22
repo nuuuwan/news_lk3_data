@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 17:05:24**
+As of **2024-07-22 17:20:41**
 
 ## Newspaper Stats
 
-*Scraped **36,590** Articles*
+*Scraped **36,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,303
-adaderanalk | 4,242
+adaderanalk | 4,243
 tamilmirrorlk | 4,466
 dailymirrorlk | 4,733
 virakesarilk | 5,731
@@ -26,27 +26,55 @@ adaderanasinhalalk | 6,141
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,588 (100.0%) of 36,590 articles have been extended.
+36,590 (100.0%) of 36,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### ඉන්දීය ක්‍රිකට් කණ්ඩායම දිවයිනට
+### Vidataltivu reserve: SC grants leave to proceed with petition against Wildlife Minister’s gazette
+
+*2024-07-22 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100702/vidataltivu-reserve-sc-grants-leave-to-proceed-with-petition-against-wildlife-ministers-gazette) · `en`
+
+The Supreme Court today (22) granted leave to proceed with the Fundamental Rights petition filed seeking to invalidate the Gazette notification issued by Wildlife Minister Pavithra Wanniarachchi, which de-gazetted a section of the Wedithalathivu (Vidataltivu) Nature Reserve in Wilpattu to allocate it for a prawn farm project.
+
+A Supreme Court judge bench, consisting of Justices Preethi Padman Surasena and Shiran Gooneratne, has issued this order after considering the petition submitted by several environmental groups including the Center for Environmental Justice (CEJ).
+
+Accordingly, the FR petition has been fixed for hearing on November 12, 2024.
+
+On June 27, the Supreme Court issued an interim order preventing the implementation of the said Gazette notification issued by the Wildlife Minister.
+
+...
+
+[Data](articles/c9259a3e.json)
+
+---
+
+### Indian cricket team to arrive
 
 *2024-07-22 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199090) · `si`
 
-ශ්‍රී ලංකාවේ පැවැත්වෙන තරග තුන බැගින් සමන්විත එක්දින සහ විස්සයි විස්ස ක්‍රිකට් තරගාවලි දෙකක් සඳහා සහභාගී වීමට ඉන්දීය ජාතික ක්‍රිකට් කණ්ඩායම විශේෂ ගුවන් යානයකින් අද (22) පස්වරුවේ කටුනායක ගුවන්තොටුපොළ වෙත පැමිණියහ.
+The Indian cricket team landed in Sri Lanka for two tournaments: James and Twenty20. They'll play at the Pallekele International Cricket Stadium in Kandy and the Balatharama International Cricket Stadium in Colombo. Matches start at various times, including early mornings. The team includes players and officials from Mumbai, India, and the USA.
 
-මුලින්ම විස්සයි විස්ස ක්‍රිකට් තරග 03කින් සමන්විත ක්‍රිකට් තරගාවලිය එළැඹෙන 27, 28 සහ 30 යන දිනවලදී රාත්‍රී 07ට මහනුවර පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වීමට නියමිතය.
+🟩
 
-ඉන්පසුව කොළඹ කෙත්තාරාම ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී අගෝස්තු 2, 4 සහ 7 යන දින තුන තුළ පස්වරු 02.30ට එක්දින සීමිත ඕවර් 50 ක්‍රිකට් තරගාවලිය ආරම්භ වීමට නියමිතය.
+The Indian national cricket team arrived at the Katunayake airport this afternoon to attend two James and Twenty20 cricket tournaments in Sri Lanka.
 
-මෙම ක්‍රිකට් තරගාවලි සඳහා සහභාගී වීමට ඉන්දීය ජාතික ක්‍රිකට් කණ්ඩායමේ ක්‍රීඩකයින් 25 දෙනෙකු සහ නිලධාරීන් 10 දෙනෙකු ඉන්දියාවේ මුම්බායි  නුවර සිට විස්තාරා ගුවන් සේවයේ යු.කේ.- 6107 දරන විශේෂ ගුවන් යානයෙන් අද පස්වරු 03.54ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+The first three cricketers cricket team will commence at the Pallekele International Cricket Stadium in Kandy at 07, 28 and 30.
+
+In the Season 2, 4 and 7 of the 4th August 2, 4 and 7 will commence at 02.30 am at the ODI of August 2, 4 and 7 at the Balatharama International Cricket Stadium in Colombo.
+
+India's national cricket team and 10 officials from Mumbai, India, USA, has arrived at the Katunayake airport at the Katunayake airport.
+
+The Indian national cricket team arrived at the Katunayake airport this afternoon to attend two James and Twenty20 cricket tournaments in Sri Lanka.
+
+The first three cricketers cricket team will commence at the Pallekele International Cricket Stadium in Kandy at 07, 28 and 30.
 
 ...
 
 [Data](articles/4706dbfc.json)
+
+[Extended Data](ext_articles/4706dbfc.ext.json)
 
 ---
 
@@ -602,21 +630,29 @@ There were no reports of violence or protests on Monday morning and media said c
 
 ---
 
-### රටේ ඉදිරි න්‍යාය පත්‍රය සකස් කරන්නේ දේශපාලනඥයන් නොවෙයි
+### The future agenda is not being prepared
 
 *2024-07-22 13:35:43* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ඉදිරි-න්‍යාය-පත්‍රය-සකස්-කරන්නේ-දේශපාලනඥයන්-නොවෙයි/11-410911) · `si`
 
-මැද පෙරදිග රටවල් ඇතුළු ශ්‍රී ලාංකික ශ්‍රමිකයන් යොමු කෙරෙන රටවල සංචාරකයන් මෙරටට ගෙන්වා ගැනීමේ නව ව්‍යාපාර අවස්ථා සඳහා විදේශ රැකියා නියෝජිත ආයතන අවධානය යොමු කරන්නේ නම් සංචාරක අමාත්‍යාංශය හරහා ඔවුන්ට අවශ්‍ය පහසුකම් සලසාදිය හැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe discussed facilitating new business opportunities for Sri Lankan workers in the Middle East and converting the country into an export economy. He highlighted the importance of skill enhancement programs for overseas workers and collaboration with the Ministry of Tourism to expand businesses. The President also mentioned the government's support for exporting food to these countries, emphasizing the need for flexibility and preparation for the future without being confined to one place.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කුරුණෑගල එපිටොම් හෝටල් පරිශ්‍රයේ ඊයේ (21) පැවති “අභිමන් 2024” උත්සවයට එක්වෙමිනි .
+🟩
 
-මෙරට ආර්ථිකය වෙනුවෙන් පුළුල් දායකත්වයක් ලබාදෙන විදේශ රැකියා නියෝජිත ආයතන අගයමින් සහතික පත් හා සමරු තිළිණ ප්‍රදානය කිරීම මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සිදු විය.
+President Ranil Wickremesinghe said that they could facilitate the Ministry of Traveling Agency for new business opportunities in countries, including Sri Lankan workers in the Middle East.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+The President was speaking at a ceremony held at the Epitom Hotel premises in Kurunegala yesterday (21).
+
+President Ranil Wickremesinghe was awarded the Certificate and Souvenirs towards the Sri Lankan economy.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+I have to thank you at this time of accepting the presidency and complete two years. If you do not earn money to the country, you will not be able to bring it to this situation today. Two years ago we were in difficulty. No one believed that the country would be able to build the country from the economic crisis. But I believed that this country could be recovered with the people. Unlike other countries, we have ended this work before two years.
 
 ...
 
 [Data](articles/d977a323.json)
+
+[Extended Data](ext_articles/d977a323.ext.json)
 
 ---
 
@@ -2287,29 +2323,5 @@ At the recent election -related direct argument, Donald Trump was unable to answ
 [Data](articles/76f8824c.json)
 
 [Extended Data](ext_articles/76f8824c.ext.json)
-
----
-
-### Baidan quit
-
-*2024-07-22 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பைடன்-விலகினார்/50-340799) · `ta`
-
-Joe Biden withdraws from re-election due to health concerns, paving the way for Vice President Kamala Harris to lead the Democratic ticket against former President Donald Trump, who is set to run for the Republicans.
-
-🟩
-
-International media reports that the current President of the United States, Kamala Harris Democratic Party, will soon be announced as the presidential candidate, as current President Joe Bidan has announced his withdrawal from the US presidential election.
-
-Elections for US President. Former President Donald Trump, 78, has been officially announced on behalf of the Republican Party.
-
-It was announced that current President Joe Biden, 81, will contest on behalf of the Democratic Party. In Chicago, it was announced that he would formally be declared the presidential candidate at the party's party conference next month.
-
-At the recent election -related direct argument, Donald Trump was unable to answer the questions, Joe Bidan was struggling. Following this, many of his party began to voice their voice to replace the presidential candidate.
-
-...
-
-[Data](articles/e2076192.json)
-
-[Extended Data](ext_articles/e2076192.ext.json)
 
 ---

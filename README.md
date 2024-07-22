@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 14:35:58**
+As of **2024-07-22 14:55:21**
 
 ## Newspaper Stats
 
-*Scraped **36,562** Articles*
+*Scraped **36,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,300
 adaderanalk | 4,234
-tamilmirrorlk | 4,464
+tamilmirrorlk | 4,465
 dailymirrorlk | 4,733
 virakesarilk | 5,725
 adaderanasinhalalk | 6,134
@@ -26,29 +26,49 @@ adaderanasinhalalk | 6,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,561 (100.0%) of 36,562 articles have been extended.
+36,562 (100.0%) of 36,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### මැතිවරණ  දිනය ප්‍රකාශයට පත්කළ වහාම අදාළ කටයුතු ආරම්භ කරනවා -නියෝජ්‍ය තැපැල්පති
+### விசேட வர்த்தமானியில் வெளியீடு
+
+*2024-07-22 14:18:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வர்த்தமானியில்-வெளியீடு/175-340832) · `ta`
+
+தேர்தலின் காலத்தில் இலஞ்சம் கொடுக்க முயற்சிப்பவர்களுக்கு சுமார் ரூ.500ல் இருந்து ரூ.10 இலட்சம் அபராதம் விதிக்க  பரிந்துரைக்கப்பட்டுள்ளது.
+
+குறித்த அபராதம் நீதி அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஷவின் கையொப்பத்துடன் வர்த்தமானியில் வெளியிடப்பட்டுள்ளமை குறிப்பிடப்பட்டுள்ளது,
+
+◼️
+
+[Data](articles/01c68dfa.json)
+
+---
+
+### Proceedings begin to immediately after declaration of election day
 
 *2024-07-22 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199082) · `si`
 
-මැතිවරණ කොමිෂන් සභාව විසින් ජනාධිපතිවරණය පැවැත්වෙන දිනය ප්‍රකාශයට පත්කළ වහාම ජනාධිපතිවරණයට අදාළ තැපැල් දෙපාර්තමේන්තුවේ කටයුතු ආරම්භ කරන බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා පවසයි.
+Following the election day announcement, the Postal Department will start its operations immediately. Prepared for all tasks, it will distribute official ballots through 8,000 employees nationwide. Additionally, it will ensure the security of documents required for postal voting.
 
-ඒ සඳහා වන සියලු කටයුතු මේ වන විට සූදානම් කර ඇති බව අද (22) පැවති මාධ්‍ය හමුවක දී නියෝජ්‍ය තැපැල්පතිවරයා පැවසුවේය.
+🟩
 
-තැපැල් ඡන්ද හා නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරීමේ කටයුතු පිළිබඳව ද නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා මෙහිදී පැහැදිලි කළේය.
+Deputy Postal Rajitha Jayarawardena says that the post of Postal Department will commence the activities related to the presidential election immediately after announcing the Presidential Election Commission.
 
-එහිදී ඔහු පැවසුවේ, නිල ඡන්ද දැන්වීම් පත්‍රිකාව සියලුම නිවාසවලට බෙදාහැරීම සඳහා 8,000ක සේවක පිරිසක් යොදා ගැනීමට සැලසුම් කර ඇති බවය.
+The Deputy Postandus said that all activities have been prepared nowadays.
 
-එමෙන්ම තැපැල් ඡන්ද සඳහා අදාළ සියලුම ලිපි ලේඛන ආරක්ෂිත හුවමාරු කිරීම සඳහා ද තැපැල් දෙපාර්තමේන්තු බැඳී සිටින බවද ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+Deputy Post Policy Rajitha Ranasinghe explained on the distribution of postal ballot and official ballot papers.
+
+He said that he plans to use 8,000 employees of 8,000 to distribute the official ballot papers to all houses.
+
+He also said that the postal departments of the Postal Departments are also bound to secure all relevant documents for postal voting.
 
 ◼️
 
 [Data](articles/9051486e.json)
+
+[Extended Data](ext_articles/9051486e.ext.json)
 
 ---
 
@@ -2269,29 +2289,5 @@ The woman, who was arrested on Saturday (20), has been handed over to the Pallek
 [Data](articles/c5a0febe.json)
 
 [Extended Data](ext_articles/c5a0febe.ext.json)
-
----
-
-### Lands in the Housing Scheme
-
-*2024-07-22 00:04:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணிகள்-தராமையால்-வீட்டுத்-திட்டத்தில்-தடை/175-340794) · `ta`
-
-The Indian High Commissioner informed the Tamil Progressive Alliance about delays in the fourth phase of the Indian Housing Scheme due to land shortages. The scheme aims to construct 1,300 houses at a cost of 375 million rupees. The alliance discussed ongoing issues, including land rights and Indian support for Sri Lanka's economic development. They assured the commissioner of completing 10,000 housing units despite previous delays. Additionally, they addressed concerns over land rights for hill plantation communities, referencing historical events like the British colonization. The alliance also presented a six-point alternative document to President Ranil Wickremesinghe and the Indian side regarding these matters.
-
-🟩
-
-Indian High Commissioner Santosh Ja told the Tamil Progressive Alliance delegation that there has been a delay in constructing the houses due to the lack of land for the construction of houses.
-
-The fourth phase of the Indian Housing Scheme, which was launched in the name of the Bharat-Sri Lankan Plantation Housing Project, has been in the midst of the construction of 1,300 houses at a cost of about 375 million rupees.
-
-In the meantime, the Tamil Progressive Alliance (TNA), headed by MPs Velu Kumar and Udaya Kumar, the Indian High Commissioner Santosh Jaw, headed by MPs Velu Kumar and Udaya Kumar, today's political situation, Indian assistance for Sri Lankan economic developmentThere is a discussion.
-
-Our government, which is participating in the Tamil Progressive Alliance, will soon be formed. We have assured the Indian High Commissioner Santosh Ja that we will do a total of 10,000 housing work as we have been delays, as well as goodwill in 2015-2019.
-
-...
-
-[Data](articles/ff9d7f06.json)
-
-[Extended Data](ext_articles/ff9d7f06.ext.json)
 
 ---

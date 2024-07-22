@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 13:55:50**
+As of **2024-07-22 14:08:54**
 
 ## Newspaper Stats
 
-*Scraped **36,560** Articles*
+*Scraped **36,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,300
-adaderanalk | 4,233
+adaderanalk | 4,234
 tamilmirrorlk | 4,464
 dailymirrorlk | 4,733
 virakesarilk | 5,725
@@ -26,27 +26,51 @@ adaderanasinhalalk | 6,133
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,555 (100.0%) of 36,560 articles have been extended.
+36,560 (100.0%) of 36,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### இரகசியத்தை கக்க ‘டெட்டூ’ துலானுக்கு அனுமதி
+### Bangladesh calm a day after top court scrapped some job quotas
+
+*2024-07-22 13:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100693/bangladesh-calm-a-day-after-top-court-scrapped-some-job-quotas) · `en`
+
+Bangladesh appeared calm on Monday amid a curfew, but widespread disruption of telecoms prevailed a day after the Supreme Court scrapped some quotas for government jobs that sparked protests this month that killed scores.
+
+Clashes between protesters and security forces killed at least 139 people across the South Asian nation after the high court last month reinstated job reservations removed by Prime Minister Sheikh Hasina’s government in 2018.
+
+On Sunday, however, the Supreme Court ordered that 93% of government jobs should be allocated on the basis of merit, against earlier quotas of 56% for groups such as families of freedom fighters, women, and people from underdeveloped areas.
+
+There were no reports of violence or protests on Monday morning and media said curfew would be relaxed for three hours in the afternoon, extended from two hours the previous day, so that people could buy essentials.
+
+...
+
+[Data](articles/61b3952f.json)
+
+---
+
+### Allow the tetu telephone to the secret
 
 *2024-07-22 13:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரகசியத்தை-கக்க-டெட்டூ-துலானுக்கு-அனுமதி/175-340829) · `ta`
 
-அத்துருகிரிய பச்சை (டெட்டூ) குத்தும் மையத்தில் வைத்து கொல்லப்பட்ட ‘கிளப் வசந்த’ என்ற சுரேந்திர வசந்த பெரேராவின் படுகொலை தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள பச்சை குத்தும் நிலையத்தின் உரிமையாளர் துலான் சஞ்சய் இன்று (22) நீதிமன்றில் இரகசியம் ஒன்றை வெளியிடவுள்ளதாக தெரிவித்தார்.
+Dulan Sanjay, accused in the murder of Surendra Vasantha Perera at a piercing center, will appear in court today. His attorney seeks to present a sealed affidavit containing confidential information. The magistrate agrees to review this document post-lunch, indicating its potential significance in the case.
 
-சந்தேகநபர் துலான் சஞ்சய் சார்பில் ஆஜரான சட்டத்தரணி நுவான் ஜயவர்தன, தனது கட்சிக்காரரிடம் இரகசிய வாக்குமூலமொன்றை வழங்க விரும்புவதாக நீதிமன்றில் அறிவித்தார்.
+🟩
 
-அங்கு நீதவான் திருமதி சனிமா விஜேபண்டார, சந்தேக நபரிடம் இரகசிய வாக்குமூலமொன்றை வழங்கும் போது நீதிமன்றில் உள்ள நிபந்தனைகளை தெரிவித்ததுடன், அந்த நிபந்தனைகளின் அடிப்படையில் இரகசிய வாக்குமூலத்தை வழங்க இணங்கினால், பிற்பகல் இடைவேளையின் பின்னர் சந்தேகநபரின் இரகசிய வாக்குமூலத்தை வழங்க முடியும் எனவும் தெரிவித்தார்.
+Tulan Sanjay, the owner of the tattoo, will be released in court today (22) in connection with the assassination of Surendra Vasantha Perera, a club Vasantha Perera, who was killed at the Athurugiriya Green (Tetu) piercing center.
 
-இதன்படி இன்று (22) நீதிமன்ற பகல் இடைவேளையின் பின்னர் குறித்த வழக்கு மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்படவுள்ளது.
+Attorney -at -law Nuwan Jayawardena, appearing on behalf of the suspect Dulan Sanjay, announced in court that he wanted to give his party a secret affidavit.
+
+Magistrate Mrs. Sanima Wijebandara said that when he issued a secret affidavit to the suspect, he said that if they comply with the confidential confession on the basis of those conditions, he would be able to submit the suspect's secret affidavit after the afternoon break.
+
+Accordingly, the case will be taken up for hearing after the court -day break today (22).
 
 ◼️
 
 [Data](articles/f12179b9.json)
+
+[Extended Data](ext_articles/f12179b9.ext.json)
 
 ---
 
@@ -69,6 +93,8 @@ Police said that a locally-manufactured firearm had been used in the shooting an
 ◼️
 
 [Data](articles/17192a99.json)
+
+[Extended Data](ext_articles/17192a99.ext.json)
 
 ---
 
@@ -126,17 +152,25 @@ Sustainable Fitch: SPO Provided for Commercial Bank of Ceylon PLC’s Sustainabl
 
 [Data](articles/eb8fb462.json)
 
+[Extended Data](ext_articles/eb8fb462.ext.json)
+
 ---
 
-### நிர்வாணமான நிலையில் சடலம் மீட்பு
+### The corpse recovery in the naked position
 
 *2024-07-22 13:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமான-நிலையில்-சடலம்-மீட்பு/175-340827) · `ta`
 
-கந்தானை பகுதியில் மர்மமான முறையில் உயிரிழந்த இனந்தெரியாத நபரின் நிர்வாண சடலத்தை கந்தானை பொலிஸார் மீட்டுள்ளனர்.
+In Kandana, police found a nude body of an unknown individual, death cause unclear.
+
+🟩
+
+Kandana police have recovered the naked body of an unidentified person who died mysteriously in Kandana.
 
 ◼️
 
 [Data](articles/0bf79add.json)
+
+[Extended Data](ext_articles/0bf79add.ext.json)
 
 ---
 
@@ -634,21 +668,27 @@ Meanwhile, police have carried out search operations at homes near the handbags 
 
 ---
 
-### මිද්දෙනියේ වෙඩි තැබිමකින් යුවලකට තුවාල
+### Two injured in shooting in Middeniya
 
 *2024-07-22 11:11:22* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙනියේ-වෙඩි-තැබිමකින්-යුවලකට-තුවාල/11-410904) · `si`
 
-මිද්දෙණිය ගල්පොත්තායාය ජුලම්පිටිය මාර්ගයේ 06 කණුව ප්‍රදේශයේදී යතුරුපැදියකින් ගමන් කරමින් සිටි යුවළකට ඊයේ (21) රාත්‍රි වෙඩි තබා පලාගොස් ඇතැයි මිද්දේණිය පොලීසය කියයි.
+A shooting in Middeniya resulted in two injuries: a 42-year-old male and a 40-year-old female from Badamitiya. The incident occurred as they closed their shop and headed home on a motorcycle. The suspects fled the scene early in the morning. Both victims were initially treated at the Minedead hospital before being transferred to the Minedandama Hospital for further care.
 
-වෙඩි තැබිමෙන් යතුරු පැදිකරු  තුවාල ලබා ඇති අතර, යතුරු පැදිය පෙරළීමෙන් යතුරු පැදියේ පසු පස ගමන් ගත් කාන්තාව තුවාල ලබා මිද්දේණිය රෝහලට ඇතුලත් කර වැඩිදුර ප්‍රතීකාර සදහා ඇඹ්ලිපිටිය රෝහල වෙත මාරු කර යවා තිබේ.
+🟩
 
-වෙඩි වැදිමෙන් තුවාල  ලැබු පිරිමි පුද්ගලයා වයස අවුරුදු 42  ක් වන අතර,කාන්තාව වයස අවුරුදු 40 ක් වන පුලම්පිටිය ප්‍රදේශයේ පදිංචි අඹුසැමි යුවලකී.
+The Miner the Metadaya Police claimed that a couple shot dead yesterday (21) at Point in Point area on the sixth area of ​​the Middeniya.
 
-තුවාලකරුවන් ඔවුන්ගේ වෙළදසැල වසා දමා යතුරු පැදියෙන් නිවසට යමින් සිටියදී මෙම  වෙඩි වැදිම සිදුව තිබේ. සැකකරුවන් වෙඩි තැබිමට රෑගෙන  එන ලද මෙරට නිෂ්පාදිත ගිනි අවිය වෙඩි තැබිම සිදු කළ ස්ථානයේ දමා පලා ගොස් ඇත.සැකකරුවන් පැමිණි ආකාරය සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය කියයි. මිද්දේණිය පොලීසිය වැඩිදුර විමර්ශණ සිදු කරනු ලබයි.
+The motorcyclist was injured and the motorcyclist was injured and the motorcyclist was injured and admitted to the Minedead hospital and transferred to the Minedandama Hospital for further treatment.
+
+The man who was injured in the shooting was 42 years old and a woman residing in the Badamitiya, aged 40.
+
+The injured had taken place when the injured were closing their shop and heading to the motorcycle. The suspects have fled the morning where the suspects were shooting and fled. Police say that information has been revealed so far.. The Minedegama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/cc931a0e.json)
+
+[Extended Data](ext_articles/cc931a0e.ext.json)
 
 ---
 
@@ -2255,29 +2295,5 @@ Neither the Nallur Pradeshiya Sabha or the Road Development Authority has taken 
 [Data](articles/0eb791e0.json)
 
 [Extended Data](ext_articles/0eb791e0.ext.json)
-
----
-
-### A-9 Street
-
-*2024-07-22 00:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணத்தை-ஏற்படுத்தும்-வீதியாக-மாறிய-ஏ-9-வீதி/175-340793) · `ta`
-
-In Jaffna, travelers face danger due to mudslides blocking the A-9 road at Ariyalai junction. Soil was dumped, possibly by smugglers fleeing from the police. This has led to accidents and fears of fatalities. Despite efforts to clear the debris, no action has been taken by local authorities, leading to calls for immediate intervention to ensure safe travel.
-
-🟩
-
-Travelers are traveling in the midst of great difficulty and fear as the mudslides are being dumped on the Ariyalai junction in Jaffna and A-9 road.
-
-The road is poured into the road. The soil is poured on Saturday (20) night. It is suspected that the police chased the soil smugglers and they may have poured the soil on the street.
-
-The road is on the road and the ramp already occurred. In this case, there are more casualties that cause more accidents. People have expressed fears that death may also occur.
-
-Neither the Nallur Pradeshiya Sabha or the Road Development Authority has taken any action to remove the soil. Therefore, people are urging people to remove the soil from the road and make way for safe transport.
-
-◼️
-
-[Data](articles/baea14b9.json)
-
-[Extended Data](ext_articles/baea14b9.ext.json)
 
 ---

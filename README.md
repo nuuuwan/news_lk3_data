@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 13:35:52**
+As of **2024-07-22 13:55:50**
 
 ## Newspaper Stats
 
-*Scraped **36,555** Articles*
+*Scraped **36,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 343
 bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,083
-economynextcom | 2,183
+economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,299
-adaderanalk | 4,232
-tamilmirrorlk | 4,462
+adalk | 3,300
+adaderanalk | 4,233
+tamilmirrorlk | 4,464
 dailymirrorlk | 4,733
 virakesarilk | 5,725
 adaderanasinhalalk | 6,133
@@ -26,45 +26,135 @@ adaderanasinhalalk | 6,133
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,548 (100.0%) of 36,555 articles have been extended.
+36,555 (100.0%) of 36,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### බයිඩන් ට වඩා හැරිස් පරාජය කිරීම පහසුයි - ට්‍රම්ප්
+### இரகசியத்தை கக்க ‘டெட்டூ’ துலானுக்கு அனுமதி
+
+*2024-07-22 13:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரகசியத்தை-கக்க-டெட்டூ-துலானுக்கு-அனுமதி/175-340829) · `ta`
+
+அத்துருகிரிய பச்சை (டெட்டூ) குத்தும் மையத்தில் வைத்து கொல்லப்பட்ட ‘கிளப் வசந்த’ என்ற சுரேந்திர வசந்த பெரேராவின் படுகொலை தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள பச்சை குத்தும் நிலையத்தின் உரிமையாளர் துலான் சஞ்சய் இன்று (22) நீதிமன்றில் இரகசியம் ஒன்றை வெளியிடவுள்ளதாக தெரிவித்தார்.
+
+சந்தேகநபர் துலான் சஞ்சய் சார்பில் ஆஜரான சட்டத்தரணி நுவான் ஜயவர்தன, தனது கட்சிக்காரரிடம் இரகசிய வாக்குமூலமொன்றை வழங்க விரும்புவதாக நீதிமன்றில் அறிவித்தார்.
+
+அங்கு நீதவான் திருமதி சனிமா விஜேபண்டார, சந்தேக நபரிடம் இரகசிய வாக்குமூலமொன்றை வழங்கும் போது நீதிமன்றில் உள்ள நிபந்தனைகளை தெரிவித்ததுடன், அந்த நிபந்தனைகளின் அடிப்படையில் இரகசிய வாக்குமூலத்தை வழங்க இணங்கினால், பிற்பகல் இடைவேளையின் பின்னர் சந்தேகநபரின் இரகசிய வாக்குமூலத்தை வழங்க முடியும் எனவும் தெரிவித்தார்.
+
+இதன்படி இன்று (22) நீதிமன்ற பகல் இடைவேளையின் பின்னர் குறித்த வழக்கு மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்படவுள்ளது.
+
+◼️
+
+[Data](articles/f12179b9.json)
+
+---
+
+### Husband and wife injured in shooting at Middeniya
+
+*2024-07-22 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100692/husband-and-wife-injured-in-shooting-at-middeniya) · `en`
+
+Two individuals including a female have been injured in a shooting carried out in the Galpoththayaya- Julampitiya road in Middeniya last night (21).
+
+Police said that the shooting incident took place at around 10.00 p.m. targeting a Pradeshiya Sabha candidate of the Sri Lanka Freedom Party (SLFP).
+
+The incident occured as the victim was returning home with his wife on a motorcycle after closing their shop, the police mentioned.
+
+The 42-year-old man has sustained a gunshot wound, while his wife has also sustained injuries after the motorcycle on which they were travelling, fell over.
+
+They have been admitted to the Middeniya Hospital for treatment. The wife of the victim has been transferred to Embilipitiya District General Hospital for further treatment.
+
+Police said that a locally-manufactured firearm had been used in the shooting and that the shooter had left the firearm at the scene before fleeing.
+
+◼️
+
+[Data](articles/17192a99.json)
+
+---
+
+### It's easy to beat Harris more than biden - Trump
 
 *2024-07-22 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199081) · `si`
 
-එළැඹෙන අමෙරිකානු ජනාධිපතිවරණයේදී තමාට පහසුවෙන් ඩිමොක්‍රටික් පක්ෂයේ කමලා හැරිස් ව පරාජය කළ හැකිවෙතැයි රිපබ්ලිකන් පක්ෂ අපේක්ෂක ඩොනල්ඩ් ට්‍රම්ප් පවසයි.
+Donald Trump claims he can easily defeat both Biden and Harris in the upcoming UK presidential election, suggesting Harris is easier to beat than Biden. Despite facing criticism and a fall during a debate, President Biden denies any intention to withdraw from the race. Meanwhile, Kamala Harris, backed by former presidents Bill Clinton and Barack Obama, prepares for her candidacy, with the Democratic Party's funds reaching Rs. 27 million. The party must select its next vice-presidential candidate post-Harris's nomination.
 
-ඔහු පවසන්නේ බයිඩන් ට වඩා පවසුවෙන් හැරිස් ව පරාජය කළ හැකි බවයි.
+🟩
 
-ඩිමොක්‍රොටික් පක්ෂය නියෝජනය කරමින් අමෙරිකාවේ මීලඟ ජනාධිපතිවරණයට ඉදිරිපත්විමට සූදානම්වී සිටියේ වත්මන් අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ය.
+Republican Donald Trump says that he can easily defeat the Democratic Party of the UK presidential election.
 
-කෙසේ නමුත් 81 හැවිරිදි ජනාධිපතිවරයාගේ වයස්ගතභාවය සහ සෞඛ්‍ය මෙන්ම මතකය සම්බන්ධව විවිධ පාර්ශ්ව ප්‍රශ්නකිරීමත් සමඟ ඔහුගේ අපේක්ෂකත්වය පිළිබඳව එම පක්ෂය තුළම ප්‍රබල විරෝධයක් ගොඩනැගුණි.
+He says that more than Biden, Harris can be defeated.
 
-මෙම විරෝධය තීව්‍ර වූයේ පසුගිය ජුනි මාසයේදී පැවැති පළමු ජනාධිපතිවරණ විවාදයෙන් අනතුරුවය.
+The current President of the United States was preparing to contest the Democotic Party.
 
-එහිදී රිපබ්ලිකන් පක්ෂ ජනාධිපතිවරණ අපේක්ෂකයා වන හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් හමුවේ ජනාධිපති බයිඩන් පෙන්වූයේ දුර්වල වාග් විලාශයකි.
+However, with the agency of the 81-year-old president, the 81-year-old president was questioned by a strong opposition to his candidacy.
 
-එමෙන්ම ඊට පෙරත් අවස්ථා රැසකදී ජනාධිපතිවරයා බිම ඇදවැටුණු අතර, විවිධ හැසිරීම් පෙන්නුම් කරමින් මෙන්ම වචන පටලවා ගනිමින් ලැජ්ජාවටද පත්වුණි.
+The protest intensified after the first president debate in June last June.
+
+The President Biden showed a weak vocabulary in front of the Republican-party candidate, Donald Trump.
+
+The President also fell down on the ground and was embarrassed by a variety of behaviors, showing various behaviors and confusing words.
+
+However, President Biden refused to charged the accusations and denied that he could be removed from the presidential election.
+
+Even so, even the former Speaker Nancy Polonie was a member of the former Speaker Nancy as a decision to be taken by him.
 
 ...
 
 [Data](articles/6323233c.json)
 
+[Extended Data](ext_articles/6323233c.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Fitch gives ‘good’ SPO for sustainable bond framework of Sri Lanka’s Combank
+
+*2024-07-22 13:14:00* · [`economynextcom`](https://economynext.com/fitch-gives-good-spo-for-sustainable-bond-framework-of-sri-lankas-combank-173264/) · `en`
+
+ECONOMYNEXT – Sustainable Fitch-Singapore said it has given its second-party opinion on Commercial Bank of Ceylon PLC’s (CBC) sustainable bond framework as ‘Good’.
+
+“We consider transactions under the sustainable bond framework to be fully aligned with the ICMA Green Bond Principles, Social Bond Principles and the Sustainability Bond Guidelines. Our Second-Party Opinion is that the alignment is ‘Good’.”
+
+Sri Lanka’s Commercial Bank gets Sustainable Fitch opinion to sell green bonds
+
+A Sustainable Fitch ESG Score or Rating is an assessment of the Environmental, Social and Governance qualities of financial instruments, Green, Social and Sustainability (GSS) frameworks and/or entities.
+
+It is not a credit rating, Sustainable Fitch, a separate division of Fitch Group said.
+
+Sustainable Fitch: SPO Provided for Commercial Bank of Ceylon PLC’s Sustainable Bond Framework
+
+...
+
+[Data](articles/eb8fb462.json)
+
+---
+
+### நிர்வாணமான நிலையில் சடலம் மீட்பு
+
+*2024-07-22 13:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமான-நிலையில்-சடலம்-மீட்பு/175-340827) · `ta`
+
+கந்தானை பகுதியில் மர்மமான முறையில் உயிரிழந்த இனந்தெரியாத நபரின் நிர்வாண சடலத்தை கந்தானை பொலிஸார் மீட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/0bf79add.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-07-22 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189078) · `ta`
 
-இன்று திங்கட்கிழமை (ஜூலை 22) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 298.8995 ரூபாவாகவும், விற்பனை விலை 308.1989 ரூபாவாகவும் பதிவாகியுள்ளது.
+The US dollar rose from 298.8995 to 308.1989 rupees according to the Central Bank's latest update on July 22.
+
+🟩
+
+The US dollar purchasing price was 298.8995 rupees and the sales price were Rs 308.1989 based on a currency exchange rate released by the Central Bank on Monday (July 22).
 
 ◼️
 
 [Data](articles/ec602f15.json)
+
+[Extended Data](ext_articles/ec602f15.ext.json)
 
 ---
 
@@ -208,41 +298,53 @@ The suspect has been handed over to the Kadawatha Police for further investigati
 
 ---
 
-### அமெரிக்காவின் பல பிரபலங்கள் கமலா ஹரிசிற்கு ஆதரவு
+### Many celebrities in America support Kamala Haris
 
 *2024-07-22 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189072) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தல் போட்டியிலிருந்து  ஜோபைடன் விலகி கமலா ஹரிஸ் போட்டியிடவேண்டும் என விருப்பம் வெளியிட்டுள்ள நிலையில் அமெரிக்காவின் பல பிரபலங்கள்  கமலா ஹரிசிற்கு ஆதரவு வெளியி;;ட்டுள்ளனர்.
+Celebrities like Jamie Lee Curtis and Barbra Streisand support Kamala Harris, highlighting her reliability and dedication to women's and minorities' rights. Joe Biden, former VP, also backs Harris, appreciating her contributions during divisive times in the U.S., while Oscar-winner Streisand thanks him for safeguarding democracy.
 
-ஹரிஸ் நம்பகரமானவர் ஆழமாக மக்களால் பரிசோதிக்கப்பட்டவர் என நடிகை ஜேமி லீ ஹேட்ரிஸ் தெரிவித்துள்ளார்.
+🟩
 
-பெண்கள் மற்றும் வெள்ளையர் அல்லாதவர்களின் உரிமைகளிற்காக வலுவான விதத்தில் குரல்கொடுப்பவர் அமெரிக்கா தேசிய ரீதியில் பெரும் பிளவை சந்தித்துள்ள தருணத்தில் அவரது செய்தி அமெரிக்காவிற்கு நம்பிக்கையை ஐக்கியத்தை அளிக்கும் ஒன்று என அவர் தெரிவித்துள்ளார்.
+Kamala Haris has expressed his support for Kamala Haris as Kamala Haris has expressed his desire to quit Jobitin from the US presidential election.
 
-இது பெண்களின் உலகம் நீங்கள் அதில் வாழ்வது அதிஸ்டம் என பாடகர் கட்டி பெரி இன்ஸ்டாவில் பதிவிட்டுள்ளார்.
+Actress Jami Lee Hadris says Haris is reliable and is deeply tested by people.
 
-எக்ஸ் தளத்தில் நகைச்சுவை நடிகர் போட்டியிலிருந்து விலகும் ஜோ பைடனின் முடிவு குறித்து லெஜென்ட் என பதிவிட்டுள்ளார்.
+He said that when the United States has faced a national divide for the rights of women and non -whites, he said.
 
-எங்கள் ஜனநாயகத்தை காப்பாற்றியமைக்காகஜோ பைடனிற்கு நாங்கள் நன்றியுடையவர்களாக விளங்கவேண்டும் என ஒஸ்கர் வென்ற நடிகை பார்பரா ஸ்டிரெய்ஸான்ட் தெரிவித்துள்ளார்.
+This is the world of women that you live in it.
+
+Joe Baiton, who quit the comedian on the X site, has posted as Legent.
+
+Oscar -winning actress Barbara Straisand has said that we should be grateful to Joo Baidan for protecting our democracy.
 
 ◼️
 
 [Data](articles/412d5b27.json)
 
+[Extended Data](ext_articles/412d5b27.ext.json)
+
 ---
 
-### யாழில் இளைஞர்களிடம் 75 இலட்சம் ரூபா மோசடி - இரு பெண்கள் உள்ளிட்ட மூவர் கைது!
+### 75 lakhs of rupees for youth in Jaffna - three persons including two women
 
 *2024-07-22 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189068) · `ta`
 
-யாழ்ப்பாணத்தை சேர்ந்த இளைஞர்களிடம் வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக கூறி பெருந்தொகையான பண மோசடியில் ஈடுபட்ட குற்றச்சாட்டில் இரு பெண்கள் உட்பட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+In Jaffna, three individuals, including two women, were arrested for allegedly defrauding others out of 75 lakh rupees and facilitating their overseas travel. The arrests followed complaints about money laundering and deception. Those detained come from various locations: Manipay, Kattankudi, Kalutara, and Dehiwala.
 
-வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக கூறியவர்களை நம்பி பணத்தினை கொடுத்து ஏமாந்த மூவர் வழங்கிய முறைப்பாட்டின் அடிப்படையில், விசாரணைகளை முன்னெடுத்த யாழ்ப்பாண பொலிஸார் மூவரை கைது செய்துள்ளனர்
+🟩
 
-மானிப்பாய் பகுதியை சேர்ந்த பெண்ணொருவரை 10 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும், காத்தான்குடி பகுதியை சேர்ந்தவரும் தற்போது களுத்துறை பகுதியில் வசித்து வரும் பெண்ணொருவரை 25 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும் , யாழ்ப்பாணத்தை சேர்ந்தவரும் தற்போது தெஹிவளையில் வசித்து வரும் நபரொருவரை 40 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும் பொலிஸார் கைது செய்துள்ளனர்.
+Three women, including two women, have been arrested for allegedly sending them overseas to Jaffna youth.
+
+Jaffna police have arrested three persons, who are investigating the complaint filed by three persons who have been deceived by the money laundering for those who have been sent abroad.
+
+Police have arrested a woman from Manipayi, a man from Kattankudi area and a resident of Kalutara, who is currently living in Kalutara, and a man from Jaffna who is currently living in Dehiwala.
 
 ◼️
 
 [Data](articles/c80d0e1d.json)
+
+[Extended Data](ext_articles/c80d0e1d.ext.json)
 
 ---
 
@@ -422,47 +524,63 @@ Speaking at a political rally in Gampaha on Sunday July 21, Wickremesinghe said 
 
 ---
 
-### இலான் மஸ்க் அடுத்த மாதம் இலங்கை வருகிறார் ?
+### Ilan Musk arrives in Sri Lanka next month?
 
 *2024-07-22 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189053) · `ta`
 
-ஸ்டார்லிங் செயற்கைக்கோள் இணையசேவையை ஆரம்பிப்பதற்காக அடுத்த மாதம் இலான் மஸ்க் இலங்கைக்கு வருகை தரவுள்ளதாக தகவல் வெளியாகியுள்ளது.
+Elon Musk is set to visit Sri Lanka next month to launch the Starling Satellite Service, marking a significant step in the country's digital infrastructure. The government has expedited the process for service permits, amending telecom laws to accommodate Starling Company's internet service provision. This move indicates a forward-thinking approach to enhancing connectivity within the nation.
 
-இலங்கையில் செய்மதி தொழில்நுட்பத்தின் ஊடாக இணைய வசதி சேவையை வழங்க ஸ்டார்லிங் நிறுவனத்திற்கு அரசாங்கம் அனுமதியை வழங்கியுள்ளது.
+🟩
 
-இந்நிலையில், தற்போதுள்ள தொலைத்தொடர்பு பரிவர்த்தனைச் சட்டத்தில் திருத்தம் கொண்டு வரப்பட்டு, எதிர்காலத்தில் சேவை அனுமதிப்பத்திரம் வழங்க அரசாங்கம் செயல்முறையை துரிதப்படுத்தியுள்ளது.
+It is reported that Ilan Musk will visit Sri Lanka next month to launch the Starling Satellite Service.
 
-இது தொடர்பில் தொலைத்தொடர்பு ஒழுங்குமுறை ஆணைக்குழுவின் பணிப்பாளர் நாயகமாக மதுஷங்க திஸாநாயக்க ஆங்கில ஊடகமொன்றுக்கு தெரிவித்துள்ளதாவது,
+The government has granted permission to Starling Company to provide internet service through the technology in Sri Lanka.
 
-இலங்கைக்கு இலான் மஸ்க் ஆகஸ்ட் மாதம் விஜயம் மேற்கொள்வார். அவர் ஸ்டார்லிங் இணையசேவை அறிமுகப்படுத்தியதன் பின்னர் இந்த சேவையை செயல்படுத்த மூன்று வாரங்கள் ஆகும். ஸ்டார்லிங்கிற்கு புதிய சட்டத்தின் கீழ் சேவை வழங்குநர்களின் உரிமம் வழங்கப்படும் என தெரிவித்துள்ளார்.
+In this case, the government has accelerated the process of providing service permits in the future by amendment to the existing telecommunications transaction law.
+
+Madhushanga Dissanayake has told an English media as the Director General of the Telecommunication Regulatory Commission.
+
+Ilan Musk will visit Sri Lanka in August. It will take three weeks to implement this service after he introduced Starling Internet Service. Starling will be given a license of service providers under the new law.
 
 ◼️
 
 [Data](articles/9b404656.json)
 
+[Extended Data](ext_articles/9b404656.ext.json)
+
 ---
 
-### இஸ்ரேலின் தாக்குதலில் ஒரு காலை இழந்த பெண் ஊடகவியலாளர் ஒலிம்பிக் சுடரை ஏந்தினார்- ஊடகவியலாளர்களை பாதுகாக்கவேண்டும் என்ற செய்தியை தெரிவிக்க விரும்புவதாக கருத்து
+### A female journalist who lost a leg in Israel's attack was carrying the Olympic flame- she wanted to make a message that journalists should be protected.
 
 *2024-07-22 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189062) · `ta`
 
-இஸ்ரேல் லெபனான் மீது தாக்குதல் மேற்கொண்டவேளை காயமடைந்த பெண் பத்திரிகையாளர் ஒருவர் பிரான்ஸ் தலைநகரில் ஒலிம்பிக் சுடரை ஏந்திச்சென்றுள்ளார்.
+A journalist injured in Israel's attack on Lebanon carried the Olympic flame in Paris, highlighting the need to protect journalists. This act remembered colleagues killed or injured during conflicts, including those in South Lebanon and Gaza. The event, attended by thousands, underscored the risks journalists face, with calls for better protection and condemnation of attacks on media personnel.
 
-ஊடகப்பணியின் போது கொல்லப்பட்ட காயமடைந்த பத்திரிகையாளர்கள் நினைவாக  அவர் ஒலிம்பிக் சுடரை ஏந்திச்சென்றுள்ளார்.
+🟩
 
-ஒலிம்பிக் போட்டிகள் 26ம் திகதி உத்தியோகபூர்வமாக ஆரம்பிப்பதற்கு பிரான்ஸ் முழுவதிலும் பல்வேறு துறைகளை சார்ந்த பத்தாயிரம் பேர் ஒலிம்பிக் சுடரை ஏந்திச்செல்கின்றனர்.
+A woman journalist who was injured when Israeli was attacked by Lebanon has carried the Olympic flame in the French capital.
 
-2023ம் ஆண்டு ஒக்டோபர் 13ம் திகதி லெபனான் மீது  இஸ்ரேல் மேற்கொண்ட தாக்குதலில் காயமடைந்தவர்களில் ஒருவர் ஏஎவ்பியின் கிறிஸ்டினா அசி.
+He carries the Olympic flame in memory of journalists who were killed during the media work.
 
-இஸ்ரேல் லெபனான் எல்லையில் இஸ்ரேலிய படையினருக்கும் ஹெஸ்புல்லா அமைப்பினருக்கும் இடையிலான மோதல் குறித்து செய்தி சேகரித்துக்கொண்டிருந்தவேளை இவர் காயமடைந்தார்.
+Tens of thousands of people from all over France are carrying the Olympic flame to start the Olympic Games on the 26th.
 
-இஸ்ரேலின் தாக்குதல் காரணமாக ரொய்ட்டரின் வீடியோ ஊடகவியலாளர் இசாம் அப்டெல்லா கொல்லப்பட்டார், அல்ஜசீராவின் ஊடகவியலாளர்கள்காயமடைந்தனர்.
+AVP's Christina Azi was one of the injured in the Israeli attack on Lebanon on October 13, 2023.
 
-நவம்பரில் ஊடகவியலாளர்கள் மீது தென் லெபனானில் இஸ்ரேல் மேற்கொண்ட ஆளில்லா விமான தாக்குதலில் அல்மயாடின் வலையமைப்பை சேர்ந்த இரண்டு ஊடகவியலாளர்கள் கொல்லப்பட்டனர்.
+He was injured while gathering news about the clash between Israeli soldiers and the Hesbullah on the Israeli Lebanon border.
+
+Royter's video journalist Isam Abdella was killed due to Israel's attack, and Al Jazeera's journalists were injured.
+
+In November, two journalists from the Almayadin network were killed in an unmanned air strike in South Lebanon in South Lebanon.
+
+In this case, on Sunday, the suburb of the prize, Vinsenez, carried the Olympic flame at the Asi wheelchair.
+
+AVP's video journalist Dylan Kolinz, who was injured in the Israeli attack, has joined him.
 
 ...
 
 [Data](articles/8eaed7bb.json)
+
+[Extended Data](ext_articles/8eaed7bb.ext.json)
 
 ---
 
@@ -490,21 +608,47 @@ The suspect has been handed over to the Kadawatha Police Station.
 
 ---
 
-### காத்தான்குடியில் கைக்குண்டு மீட்பு : இராணுவம், விசேட அதிரடிப் படையினர் விசாரணை
+### Hand Gomb Rescue in Kattankudi: Army and Special Task Force
 
 *2024-07-22 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189059) · `ta`
 
-காத்தான்குடியில் பூநொச்சிமுனையில் குண்டுத் தாக்குதலுக்கு இலக்கான வீடு ஒன்றுக்கு அருகிலுள்ள வீடு ஒன்றின் முன்பாக உள்ள வடிகான் பகுதியில் கைவிடப்பட்ட நிலையில் கைக்குண்டு ஒன்றை நேற்று ஞாயிற்றுக்கிழமை மாலை (21) இரவு காணப்பட்டதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+In Kattankudi, a handgun was discovered after a house explosion, leading to a search involving the police and Special Task Force. A hand grenade was initially spotted near a school road, prompting the police to seek court permission for recovery. Following this, a bomb attack occurred at another nearby house, and subsequent searches were conducted around the area where the handgun was found.
 
-பூநொச்சிமுனையில் பச்சை வீட்டுத்திட்டம் என அழைக்கப்படும் முகைதீன் ஜூம்ஆ பள்ளி வீதியில் வீடு ஒன்றின் முன்னால் உள்ள வடிகானுக்கு அருகில் கைக்குண்டு ஒன்று கிடப்பதை அவதானித்த பொதுமக்கள் பொலிஸாருக்கு அறிவித்தனர்.
+🟩
 
-இதனையடுத்து பொலிஸார் சம்பவ இடத்துக்கு சென்று குறித்த கைக்குண்டை மீட்பதற்கு நீதிமன்ற அனுமதியை பெறுவதற்கான நடவடிக்கையை முன்னெடுத்ததுடன் விசேட அதிரடிப்படையின் குண்டு செயலிழக்கும் பிரிவினர் அழைக்கப்பட்டனர்.
+Kattankudy police said that a handgun was found on Sunday evening (21) night (21) night after a bombing of a house near a house near a house near Poonchimunai in Kattankudi.
 
-இதேவேளை இந்த கைக்குண்டு மீட்கப்பட்ட வீட்டுக்கு அருகிலுள்ள வீட்டின் மீது கடந்த 15 ஆம் திகதி திங்கட்கிழமை இரவு இனந்தெரியாதோரால் குண்டு வீச்சு தாக்குதல் மேற்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது
+The public who observed a hand grenade near a drain in front of a house on the Mukheedin Zoom School Road, also known as the Green Housing Scheme at Poonchimunai.
 
-...
+Subsequently, the police went to the scene and took steps to obtain court permission to recover the handle and the Special Task Force was invited.
+
+Meanwhile, a bomb attack on the house near the house recovered on Monday night
+
+Meanwhile, police have carried out search operations at homes near the handbags recovered from Monday (22) morning.
+
+◼️
 
 [Data](articles/25ed176e.json)
+
+[Extended Data](ext_articles/25ed176e.ext.json)
+
+---
+
+### මිද්දෙනියේ වෙඩි තැබිමකින් යුවලකට තුවාල
+
+*2024-07-22 11:11:22* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙනියේ-වෙඩි-තැබිමකින්-යුවලකට-තුවාල/11-410904) · `si`
+
+මිද්දෙණිය ගල්පොත්තායාය ජුලම්පිටිය මාර්ගයේ 06 කණුව ප්‍රදේශයේදී යතුරුපැදියකින් ගමන් කරමින් සිටි යුවළකට ඊයේ (21) රාත්‍රි වෙඩි තබා පලාගොස් ඇතැයි මිද්දේණිය පොලීසය කියයි.
+
+වෙඩි තැබිමෙන් යතුරු පැදිකරු  තුවාල ලබා ඇති අතර, යතුරු පැදිය පෙරළීමෙන් යතුරු පැදියේ පසු පස ගමන් ගත් කාන්තාව තුවාල ලබා මිද්දේණිය රෝහලට ඇතුලත් කර වැඩිදුර ප්‍රතීකාර සදහා ඇඹ්ලිපිටිය රෝහල වෙත මාරු කර යවා තිබේ.
+
+වෙඩි වැදිමෙන් තුවාල  ලැබු පිරිමි පුද්ගලයා වයස අවුරුදු 42  ක් වන අතර,කාන්තාව වයස අවුරුදු 40 ක් වන පුලම්පිටිය ප්‍රදේශයේ පදිංචි අඹුසැමි යුවලකී.
+
+තුවාලකරුවන් ඔවුන්ගේ වෙළදසැල වසා දමා යතුරු පැදියෙන් නිවසට යමින් සිටියදී මෙම  වෙඩි වැදිම සිදුව තිබේ. සැකකරුවන් වෙඩි තැබිමට රෑගෙන  එන ලද මෙරට නිෂ්පාදිත ගිනි අවිය වෙඩි තැබිම සිදු කළ ස්ථානයේ දමා පලා ගොස් ඇත.සැකකරුවන් පැමිණි ආකාරය සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය කියයි. මිද්දේණිය පොලීසිය වැඩිදුර විමර්ශණ සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/cc931a0e.json)
 
 ---
 
@@ -2135,131 +2279,5 @@ Neither the Nallur Pradeshiya Sabha or the Road Development Authority has taken 
 [Data](articles/baea14b9.json)
 
 [Extended Data](ext_articles/baea14b9.ext.json)
-
----
-
-### 2024-07-21 (Sunday)
-
-### Chavakachcheri Hospital Problem
-
-*2024-07-21 23:58:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாவகச்சேரி-வைத்தியசாலை-பிரச்சினைகளை-ஆராய-ழு-நியமனம்/175-340792) · `ta`
-
-A meeting addressed concerns about Chavakachcheri Resource Hospital, including allegations against Dr. Arsuna and his appointment as Medical Superintendent. Community groups presented 16 allegations, sparking a detailed discussion. Minister Douglas Devananda promised to address broader issues with health officials, while plans for a development committee and regular discussions with hospital management were agreed upon. Key figures from health services and patient welfare associations attended.
-
-🟩
-
-A constructive discussion on the issues of the Chavakachcheri Resource Hospital headed by Minister Douglas Devananda was held on Sunday (21).
-
-The allegations leveled by Dr. Arsuna, the solution and the allegations leveled against him, and the arrangements for the appointment of Dr. Arsuna as the Medical Superintendent of the Chavakachcheri Medical Road.
-
-The community level organizations participated in the discussion and wrote 16 allegations, including the allegations made by Dr. Archana as the shortcomings at the Chavakachcheri Hospital.
-
-There was a detailed discussion on each allegation. The Minister said that he would provide a decisive response to the Minister of Health Ramesh Pathirana and President Ranil Wickremesinghe on other issues as he was not a departmental minister.
-
-It was also decided at the meeting that a development committee comprising 15 members should be selected and a monthly discussion should be held with the hospital administration.
-
-...
-
-[Data](articles/26d54622.json)
-
-[Extended Data](ext_articles/26d54622.ext.json)
-
----
-
-### Religious arrest in Batticaloa
-
-*2024-07-21 23:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-மதபோதகர்-கைது/175-340791) · `ta`
-
-In Batticaloa, a seven-year-old ritual practitioner was arrested on Sunday after being charged with sending money abroad while preaching in a Thevalayam. The arrest came after he failed to appear in court, where he faced seven charges.
-
-🟩
-
-A seven -year -old ritual who had been granted a seven -year -old in the Samanthurai Magistrate's Court had been arrested in Batticaloa on Sunday (21), police headquarters police said.
-
-Bore. The case was attacked at the Samanthurai Magistrate's Court on charges of sending money abroad as a religious preacher in a Thevalayam in the Headquarters Police Division.
-
-The clergyman has not appeared in the case. There were 7 stubbornness issued by the court against him. According to information received by the Batticaloa Headquarters Police, the police arrested him near the church at around 2 pm on Sunday (21) at 2 pm.
-
-◼️
-
-[Data](articles/12b63efc.json)
-
-[Extended Data](ext_articles/12b63efc.ext.json)
-
----
-
-### Bideen head name to more opinion
-
-*2024-07-21 23:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199066) · `si`
-
-US President Joe Biden announces he won't run for re-election, citing concern for the party and country. His decision was shared via social media.
-
-🟩
-
-US President Jooring Joe Biden says he will not contest the presidential election.
-
-He said he had taken that decision to think about the party and the country.
-
-The US President has announced his decision through its social media.
-
-◼️
-
-[Data](articles/ea375ee6.json)
-
-[Extended Data](ext_articles/ea375ee6.ext.json)
-
----
-
-### Joe Biden quit US presidential election
-
-*2024-07-21 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189038) · `ta`
-
-Joe Biden has withdrawn from the US presidential race, citing the well-being of his party and the nation. This decision comes ahead of the upcoming election in four months. The Democratic Party had previously faced challenges during a debate with Donald Trump in June. Despite expressing a desire to run again, Biden chose to step aside for the good of the party and country, committing to serve out his term as president.
-
-🟩
-
-He has announced that this decision has been taken in view of the welfare of my party and the country.
-
-The announcement has been made as the American people will vote in the White House in four months.
-
-It is noteworthy that the Democratic Party has put pressure on Jobitin's stumbling block during a debate with Donald Trump in June.
-
-In a letter posted on social media, Joe Bidan stated that it was a great honor to take over as US president in his lifetime.
-
-Although it is my intention to re -contest the election, he has decided to quit the contest with the interests of the party and the country and decide to fulfill the duty of being president during my remaining period.
-
-◼️
-
-[Data](articles/f2d74eae.json)
-
-[Extended Data](ext_articles/f2d74eae.ext.json)
-
----
-
-### Sri Lankan students are safe
-
-*2024-07-21 23:42:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மாணவர்கள்-பாதுகாப்பாக-உள்ளனர்/175-340790) · `ta`
-
-The Ministry of External Affairs assures the safety of over 50 Sri Lankan students studying in Bangladesh, despite ongoing conflict. The Bangladesh High Commission has communicated with them and their families, offering guidance and support. Students who wish to return home will receive assistance.
-
-🟩
-
-The Ministry of External Affairs has said that special attention has been paid to the safety of Sri Lankan students in the country due to the conflict in Bangladesh.
-
-More than 50 Sri Lankan students are educated in three universities in Bangladesh.
-
-The Bangladesh High Commission for Sri Lanka has taken steps to communicate with students and their parents and provide the necessary instructions.
-
-Meanwhile, the Ministry of External Affairs has said that the security of Sri Lankan students has not been threatened due to the situation in Bangladesh.
-
-The Ministry said that if the students would like to return to the country, the facilities would be provided.
-
-With the struggle in Bangladesh for the past 20 days, the curfew has been enacted throughout Bangladesh as the situation has worsened.
-
-◼️
-
-[Data](articles/91ee9ff9.json)
-
-[Extended Data](ext_articles/91ee9ff9.ext.json)
 
 ---

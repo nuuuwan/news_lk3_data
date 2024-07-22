@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 00:20:28**
+As of **2024-07-23 00:35:46**
 
 ## Newspaper Stats
 
-*Scraped **36,639** Articles*
+*Scraped **36,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,084
 economynextcom | 2,191
-dailyftlk | 2,321
+dailyftlk | 2,324
 adalk | 3,311
 adaderanalk | 4,248
 tamilmirrorlk | 4,471
@@ -26,27 +26,47 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,638 (100.0%) of 36,639 articles have been extended.
+36,639 (100.0%) of 36,642 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-07-23 (Tuesday)
+
+### Seminar on incorporating anti-corruption policies to corporates
+
+*2024-07-23 00:16:34* · [`dailyftlk`](https://www.ft.lk/business/Seminar-on-incorporating-anti-corruption-policies-to-corporates/34-764604) · `en`
+
+By 1 October all listed companies are mandated by the listing rules of the Colombo Stock Exchange (CSE) to have its policies described which includes anti-corruption policies disclosed and published on its website.
+
+...
+
+[Data](articles/0627b2a6.json)
+
+---
+
 ### 2024-07-22 (Monday)
 
-### சிரமங்கள் இருந்த போதிலும் 16,000 ஆசிரியர்களை நியமித்து ஆசிரியர் பற்றாக்குறை தீர்க்கப்பட்டுள்ளது - கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த
+### Despite the difficulties, the shortage of teachers has been resolved by appointing 16,000 teachers - Education Minister Susil Premjayantha
 
 *2024-07-22 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189127) · `ta`
 
-பொருளாதார நெருக்கடிகளுக்கு மத்தியிலும் தேசிய மற்றும் மாகாண மட்டத்தில் 16,000 ஆசிரியர் நியமனங்களை வழங்கி ஆசிரியர் பற்றாக்குறைக்கு அரசாங்கம் தீர்வை வழங்கியுள்ளதாக கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+Facing an economic crisis, the Sri Lankan government, led by President Ranil Wickremesinghe, has addressed the teacher shortage by appointing 16,000 teachers nationwide. The Education Minister highlighted the government's efforts to stabilize the country within two years, including providing 100% school uniforms for 2025 through Chinese aid and commencing textbook distribution. Additionally, the government is working on resolving teacher professional issues and increasing salaries, as well as digitizing schools with 2,700 Smart Boards and receiving $400 million from the Asian Development Bank for teacher training.
 
-வரலாற்றில் மிகவும் கடினமான நிலைக்கு மக்கள் முகம்கொடுத்த போது நாட்டை மீட்கும் பொறுப்பை எவரும் ஏற்காத நிலையில், ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கம் நாட்டைப் பொறுப்பேற்றதுடன், இரண்டு வருடங்களில் மீட்டெடுக்கவும் செயற்பட்டதாகக் குறிப்பிட்ட அமைச்சர், அதனை நினைத்துப் பார்ப்பது இந்த தருணத்தில் அவசியமானது என்றும் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (22) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த இதனைத் தெரிவித்தார்.
+Education Minister Susil Premajayantha said that the government has given a solution to the shortage of teachers by giving 16,000 teacher appointments at the national and provincial level despite the economic crisis.
 
-கொவிட் தொற்று மற்றும் நாட்டில் ஏற்பட்ட போராட்டத்துடன், இந்த நாட்டில் உள்ள ஏனைய எல்லா துறைகளைப் போலவே, கல்வித் துறையும் பாரிய நெருக்கடியை சந்தித்தது. வீழ்ந்த நாட்டை மீட்கும் பொறுப்பை வேறு யாரும் பொறுப்பேற்காத நிலையில், ரணில் விக்ரமசிங்க தலைமையிலான எமது அரசாங்கம் அந்த பொறுப்பை ஏற்றுக்கொண்டது.
+The Minister said that the government led by President Ranil Wickremesinghe had taken over the country and redeeming the country in two years, while no one accepted the responsibility of restoring the country when the people were very difficult in history.
+
+Minister of Education Susil Premjayantha made this statement at a media briefing held at the Presidential Media Center on Monday (22).
+
+Like all the other sectors in this country, with the infection and the struggle in the country, the education sector suffered a massive crisis. While no one else is responsible for the rescue of the fallen country, our government led by Ranil Wickremesinghe took the responsibility.
 
 ...
 
 [Data](articles/017d8e80.json)
+
+[Extended Data](ext_articles/017d8e80.ext.json)
 
 ---
 
@@ -304,6 +324,20 @@ The Athurugiriya Police were produced before the court on the occasion.
 
 ---
 
+### Two men, one culture, same result
+
+*2024-07-22 20:28:51* · [`dailyftlk`](https://www.ft.lk/columns/Two-men-one-culture-same-result/4-764594) · `en`
+
+Today while an impoverished nation stands marooned on a shore of despair, the duo remains unrepentant and unperturbed
+
+Dissimilarities in dress and manner aside, they share more commonalities than usually recognised. Methods could vary, the goal is the same, power by any means. Power is not something new to them, for nearly 25 years now, they have headed alternate governments, if not directly, by proxy. They want more, a craving that cannot apparently be gratified. Going on their record, neither deserves power. Economically as well as socially, the country is on its knees today, hopeless, its institutions in shambles; surely in these 25 years, something could have been done to avoid this plight or in the very least, forewarned the country of the impending disaster
+
+...
+
+[Data](articles/5a2ce6ed.json)
+
+---
+
 ### Without bank account, 135,000 Sri Lanka’s Aswesuma beneficiaries can’t receive funds
 
 *2024-07-22 20:14:00* · [`economynextcom`](https://economynext.com/without-bank-account-135000-sri-lankas-aswesuma-beneficiaries-cant-receive-funds-173345/) · `en`
@@ -355,6 +389,20 @@ Meanwhile, the Citizenship Alliance (UPFA) was protesting in front of the Electi
 [Data](articles/6fa0d4d0.json)
 
 [Extended Data](ext_articles/6fa0d4d0.ext.json)
+
+---
+
+### Embracing digital technologies in education: Path forward for developing countries
+
+*2024-07-22 19:57:50* · [`dailyftlk`](https://www.ft.lk/columns/Embracing-digital-technologies-in-education-Path-forward-for-developing-countries/4-764587) · `en`
+
+Updating the curriculum to include digital literacy as a core component is vital
+
+The integration of digital technologies into education is no longer a luxury but a necessity for modern educational systems. This is particularly true for developing countries, where the potential for digital tools to bridge gaps in access and quality is immense. By strategically adopting these technologies, developing nations can revolutionise their educational landscapes, making learning more accessible, engaging, and effective. Here, we outline key recommendations to guide this transformation.
+
+...
+
+[Data](articles/993dd886.json)
 
 ---
 
@@ -2313,83 +2361,5 @@ The mother's body was recovered yesterday (21) and Tissamaharama police are cond
 [Data](articles/5c900c01.json)
 
 [Extended Data](ext_articles/5c900c01.ext.json)
-
----
-
-### Sri Lanka to announce completion of debt restructuring soon: president
-
-*2024-07-22 11:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-announce-completion-of-debt-restructuring-soon-president-173205/) · `en`
-
-ECONOMYNEXT — Sri Lanka is set to announce the successful completion of the island nation’s debt restructuring programme soon, according to President Ranil Wickremesinghe.
-
-Speaking at a political rally in Gampaha on Sunday July 21, Wickremesinghe said the announcement will be made in the coming days.
-
-“Our country was devastated by political turmoil, but Sri Lanka has the potential to thrive with pride. We must progress. We were on the brink of bankruptcy, but by making tough decisions, we advanced the economy. Without implementing this programme, we risk falling back into crisis. Despite seeking support from the opposition, we received none. Instead, they opposed our efforts. I worked not for personal gain but for the country’s benefit. However, neither the Samagi Jana Balawegaya (SJB) nor the Janatha Vimukthi Peramuna (JVP) provided the necessary support. While travelling around the world, they urge not to support us.
-
-...
-
-[Data](articles/d490afe1.json)
-
-[Extended Data](ext_articles/d490afe1.ext.json)
-
----
-
-### Ilan Musk arrives in Sri Lanka next month?
-
-*2024-07-22 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189053) · `ta`
-
-Elon Musk is set to visit Sri Lanka next month to launch the Starling Satellite Service, marking a significant step in the country's digital infrastructure. The government has expedited the process for service permits, amending telecom laws to accommodate Starling Company's internet service provision. This move indicates a forward-thinking approach to enhancing connectivity within the nation.
-
-🟩
-
-It is reported that Ilan Musk will visit Sri Lanka next month to launch the Starling Satellite Service.
-
-The government has granted permission to Starling Company to provide internet service through the technology in Sri Lanka.
-
-In this case, the government has accelerated the process of providing service permits in the future by amendment to the existing telecommunications transaction law.
-
-Madhushanga Dissanayake has told an English media as the Director General of the Telecommunication Regulatory Commission.
-
-Ilan Musk will visit Sri Lanka in August. It will take three weeks to implement this service after he introduced Starling Internet Service. Starling will be given a license of service providers under the new law.
-
-◼️
-
-[Data](articles/9b404656.json)
-
-[Extended Data](ext_articles/9b404656.ext.json)
-
----
-
-### A female journalist who lost a leg in Israel's attack was carrying the Olympic flame- she wanted to make a message that journalists should be protected.
-
-*2024-07-22 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189062) · `ta`
-
-A journalist injured in Israel's attack on Lebanon carried the Olympic flame in Paris, highlighting the need to protect journalists. This act remembered colleagues killed or injured during conflicts, including those in South Lebanon and Gaza. The event, attended by thousands, underscored the risks journalists face, with calls for better protection and condemnation of attacks on media personnel.
-
-🟩
-
-A woman journalist who was injured when Israeli was attacked by Lebanon has carried the Olympic flame in the French capital.
-
-He carries the Olympic flame in memory of journalists who were killed during the media work.
-
-Tens of thousands of people from all over France are carrying the Olympic flame to start the Olympic Games on the 26th.
-
-AVP's Christina Azi was one of the injured in the Israeli attack on Lebanon on October 13, 2023.
-
-He was injured while gathering news about the clash between Israeli soldiers and the Hesbullah on the Israeli Lebanon border.
-
-Royter's video journalist Isam Abdella was killed due to Israel's attack, and Al Jazeera's journalists were injured.
-
-In November, two journalists from the Almayadin network were killed in an unmanned air strike in South Lebanon in South Lebanon.
-
-In this case, on Sunday, the suburb of the prize, Vinsenez, carried the Olympic flame at the Asi wheelchair.
-
-AVP's video journalist Dylan Kolinz, who was injured in the Israeli attack, has joined him.
-
-...
-
-[Data](articles/8eaed7bb.json)
-
-[Extended Data](ext_articles/8eaed7bb.ext.json)
 
 ---

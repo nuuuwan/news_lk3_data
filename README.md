@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 10:07:20**
+As of **2024-07-22 10:20:22**
 
 ## Newspaper Stats
 
-*Scraped **36,508** Articles*
+*Scraped **36,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,292
 adaderanalk | 4,224
-tamilmirrorlk | 4,453
+tamilmirrorlk | 4,454
 dailymirrorlk | 4,733
 virakesarilk | 5,719
 adaderanasinhalalk | 6,126
@@ -26,25 +26,41 @@ adaderanasinhalalk | 6,126
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,500 (100.0%) of 36,508 articles have been extended.
+36,508 (100.0%) of 36,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### ටැටූ මල්ලි ඇතුළු සැකකරුවන් අධිකරණය ට
+### இன்றைய சிந்தனைக்குரிய கேலிச்சித்திரம்
+
+*2024-07-22 09:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனை-சித்திரம்/62-340807) · `ta`
+
+◼️
+
+[Data](articles/5159544f.json)
+
+---
+
+### Suspects including Tatuj Malli
 
 *2024-07-22 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199074) · `si`
 
-අතුරුගිරිය ටැටූ මධ්‍යස්ථානයක් තුළදී ක්ලබ් වසන්ත ඇතුළු දෙදෙනකුව වෙඩිතබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින සැකකරුවන් 7 දෙනා අධිකරණය වෙත රැගෙන ආ බව අප වාර්තාකරු පවසයි.
+Seven suspects, including Tatuj Malli, involved in the KTB spring incident in Athurugiriya have been remanded and brought to the Kaduwela Magistrate's Court under heavy security. The incident resulted in four injuries, including popular singer K. Aljewa.
 
-එම ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇතුළු සැකකරුවන් දැඩි ආරක්ෂක රැකවල් මධ්‍යයේ කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන ආ බව වාර්තා වෙයි.
+🟩
 
-ජූලි 08 වනදා සිදුකළ එම වෙඩිතැබීමෙන් තවත් සිව් දෙනෙක් තුවාල ලැබූ අතර ජනප්‍රිය ගායන ශිල්පිනී කේ. සුජීවා ද ඒ අතර වූවාය.
+According to our correspondent, the seven suspects who have been remanded in the case of KTB spring in Athurugiriya have been brought to court.
+
+It is reported that the suspects of the Tatu Center and the suspects were taken to the Kaduwela Magistrate's Court at the center of heavy security guards.
+
+Four were injured in the shooting by the shooting carried out on July 08 and the popular singer K. Aljewa was among them.
 
 ◼️
 
 [Data](articles/3c2a6035.json)
+
+[Extended Data](ext_articles/3c2a6035.ext.json)
 
 ---
 
@@ -54,65 +70,91 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Former Member of Parliament Hirunika Premachandra has been ordered to be released on bail by the Colombo High Court.
 
-Colombo High Court Judge Amal Ranaraja has issued this order today (22), when the appeal filed by her attorneys was taken up for consideration.
+Colombo High Court Judge Amal Ranaraja has issued this order today (22), when the bail application filed by her attorneys was taken up for consideration.
 
-◼️
+Colombo High Court Judge Amal Ranaraja issued this order following the objections raised by the Attorney General’s Department against the relevant bail application on July 11.
+
+Former MP Hirunika Premachandra filed an appeal with the Appeals Court, requesting to invalidate the recent verdict issued by the Colombo High Court sentencing her to three years of rigorous imprisonment and seeking her acquittal from the case.
+
+Accordingly, Premachandra’s lawyers also filed a bail application before the Colombo High Court requesting to release her on bail, since an appeal has been filed against the relevant verdict.
+
+...
 
 [Data](articles/f63ab47e.json)
 
+[Extended Data](ext_articles/f63ab47e.ext.json)
+
 ---
 
-### தாய் மற்றும் இரு பிள்ளைகளை பலியெடுத்த குழி
+### The pit of the mother and the two children
 
 *2024-07-22 09:44:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-மற்றும்-இரு-பிள்ளைகளை-பலியெடுத்த-குழி/175-340806) · `ta`
 
-ஹம்பாந்தோட்டை, திஸ்ஸமஹாராம காவந்திஸ்ஸ புர பகுதியில் நீர் நிரம்பிய கற்குழிக்குள் மூழ்கி தாய் மற்றும் இரண்டு பிள்ளைகள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A family of three drowned in a water-filled area in Tissamaharama, Hambantota. The 32-year-old mother and her two sons, aged 14 and 9, perished. Their bodies were recovered, with the children's still being searched for.
 
-சம்பவத்தில் தாயும் இரண்டு பிள்ளைகளும் நேற்று (21) பிற்பகல்  நீராடச் சென்ற போது இந்த சம்பவம்  இடம்பெற்றுள்ளது.
+🟩
 
-32 வயதுடைய தாய், 14 வயது மற்றும் 9 வயதுடைய இரண்டு சிறுவர்களே இவ்வாறு உயிரிழந்துள்ளனர்.
+The mother and two children have died after drowning in a water -filled tract in Tissamaharama Kavandisa Pur, Hambantota, police said.
 
-தாயின் சடலம் நேற்றையதினம் இரவு கண்டெடுக்கப்பட்டதோடு, இரு பிள்ளைகளின் சடலங்களை தேடும் நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர். R
+The incident took place when the mother and two children went to the water yesterday afternoon.
+
+The 32 -year -old mother, two boys aged 14 and 9, died.
+
+The mother's body was found last night and the police said that the bodies of the two children were being searched.. Remble
 
 ◼️
 
 [Data](articles/ed2ca7f4.json)
 
+[Extended Data](ext_articles/ed2ca7f4.ext.json)
+
 ---
 
-### හිරුණිකා ට ඇප
+### Hirunika released on bail
 
 *2024-07-22 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199073) · `si`
 
-බරපතළ වැඩසහිත වසර තුනක සිරදඬුවම් නියම වී සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇප මත මුදා හරින ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+Hirunika Premachandran, a former MP, was sentenced to three years in prison but granted bail by the Colombo High Court, presided over by Judge Amal Ranarajah. The sentence followed her conviction on three charges related to an abduction case from December 21, 2015.
 
-කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
+🟩
 
-2015 වසරේ දෙසැම්බර් 21 වනදා දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ අමිල ප්‍රියංක නැමති තරුණයකු කළු පැහැති ඩිෆෙන්ඩර් රථයකින් පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තබා පහරදීම ඇතුළු චෝදනා 18කට වරදකාරිය කෙරුණු හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට කොළඹ මහාධිකරණය විසින් බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් හා රුපියල් තුන් ලක්ෂ හැටදහසක දඩයක්ද නියම කරනු ලැබීය.
+The Colombo High Court prescribed former MP Hirunika Premacharandra who was sentenced to three years in prison.
 
-එම දඬුවම්වලට එරෙහිව හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇපෑලක් ඉදිරිපත්කර ඇති බැවින් ඇයව ඇප මත මුදාහරින ලෙස ඇයගේ නීතිඥවරු විසින් කළ ඇප ඉල්ලීමකට අනුව මෙම තීන්දුව ප්‍රකාශයට පත් කෙරුණි.
+Colombo High Court Judge Amal Ranarajah gave the verdict.
+
+Ms. Hirunika Premachandra who served in a black Defender, who was abducted by a black Defender, was sentenced to three accusations, who were abducted by a black defender in December 21, 2015 and also a fine of Rs.Received.
+
+The verdict was published on a bail request made by her lawyers to release her on bail against these punishments.
 
 ◼️
 
 [Data](articles/99452904.json)
 
+[Extended Data](ext_articles/99452904.ext.json)
+
 ---
 
-### முட்டை இறக்குமதி குறித்து இன்று இறுதி முடிவு
+### Today's end result on egg imports
 
 *2024-07-22 09:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-இறக்குமதி-குறித்து-இன்று-இறுதி-முடிவு/175-340804) · `ta`
 
-இன்று (22) முதல் முட்டையொன்று சந்தையில் 42 ரூபாய்க்கு விற்பனை செய்யப்படும் என முட்டை உற்பத்தியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+Egg prices rose to Rs 42 due to shortages, but the government plans to import more eggs to stabilize prices. The Egg Manufacturers' Association aims to lower costs, with details expected from Commerce Minister Nalin Fernando.
 
-எதிர்காலத்தில் முட்டையின் விலையை மேலும் குறைக்க நடவடிக்கை எடுக்கப்படும் என சங்கத்தின் தலைவர் ஆர்.எம்.சரத் ரத்நாயக்க தெரிவித்தார்.
+🟩
 
-எவ்வாறாயினும், முட்டையின் விலையை கட்டுப்படுத்தும் வகையில் எதிர்காலத்தில் மீண்டும் முட்டையை இறக்குமதி செய்ய அரசாங்கம் தீர்மானித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+The egg manufacturers' association said that an egg will be sold in the market for Rs 42 today (22).
 
-இலங்கைக்கு மீண்டும் முட்டைகளை இறக்குமதி செய்வதற்கான தீர்மானம் இன்று அறிவிக்கப்பட உள்ளதாக  வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ குறிப்பிட்டுள்ளார்.
+Association President RM Sarath Ratnayake said steps would be taken to reduce the price of eggs in the future.
+
+However, it is reported that the government has decided to import the egg again in the future to curb the price of eggs.
+
+Commerce Minister Nalin Fernando has stated that the decision to re -import eggs to Sri Lanka is to be announced today.
 
 ◼️
 
 [Data](articles/d187615b.json)
+
+[Extended Data](ext_articles/d187615b.ext.json)
 
 ---
 
@@ -168,33 +210,45 @@ When inquired by Ada Derana, Trade Minister Nalin Fernando revealed that the dec
 
 ---
 
-### ஆசிரியர்களும் அதிபர்களும் சட்டப்படி வேலை
+### Teachers and principals work legally
 
 *2024-07-22 09:32:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்களும்-அதிபர்களும்-சட்டப்படி-வேலை/175-340803) · `ta`
 
-இன்று (22) முதல் இரண்டு வாரங்களுக்கு ஆசிரியர்கள் மற்றும் அதிபர்கள் தொழிற்சங்க நடவடிக்கையை ஆரம்பிக்கவுள்ளதாக ஆசிரியர்கள் மற்றும் அதிபர்கள் சங்கங்கள் தெரிவிக்கின்றன.
+Teachers and principals in Sri Lanka have initiated trade union actions, refusing to attend workshops and training as part of their protest. They will focus on classroom teaching but won't support political movements related to this action.
 
-அதன்படி, இன்று முதல் மாகாண கல்வி மற்றும் பிராந்திய கல்வி அலுவலகங்களால் பரிந்துரைக்கப்படும் செயலமர்வுகள் மற்றும் பயிற்சி நிகழ்ச்சிகளில் பங்கேற்க மாட்டோம் என்று அவர்கள் கூறுகின்றனர்.
+🟩
 
-எதிர்வரும் பதினைந்து நாட்களில் வகுப்பறைகளில் கற்பித்தல் நடவடிக்கைகளில் மாத்திரம் ஈடுபடவுள்ளதாகவும், சகல வெளி நடவடிக்கைகளில் இருந்தும் விலகிக் கொள்வதாகவும் இலங்கை தேசிய அதிபர்கள் சங்கத்தின் பொதுச் செயலாளர் பராக்கிரம விக்கிரமசிங்க தெரிவித்தார்.
+Teachers and Principals' Associations report that teachers and principals will begin trade union action for the first two weeks for the first two weeks.
 
-எவ்வாறாயினும், அரசியல் இயக்கங்களை வலுப்படுத்தும் நோக்கில் திட்டமிடப்பட்டுள்ள தொழிற்சங்க நடவடிக்கைக்கு தாம் ஆதரவளிக்கவில்லை என ஆசிரியர் - அதிபர் ஒன்றியத்தின் ஒருங்கிணைப்பாளர் உலப்பனே சுமங்கல தேரர் தெரிவித்துள்ளார்.
+Accordingly, they say they will not participate in workshops and training programs recommended by Provincial Education and Regional Education Offices from today.
+
+Parakrama Wickremesinghe, General Secretary of the Sri Lanka National Principals Association, said that he would only engage in teaching activities in the classrooms in the coming fifteen days and would withdraw from all external activities.
+
+However, he did not support the trade union action planned to strengthen political movements, said Ulappane Sumangala Thera, Coordinator of the Teacher -Chancellor Union.
 
 ◼️
 
 [Data](articles/2f0dd780.json)
 
+[Extended Data](ext_articles/2f0dd780.ext.json)
+
 ---
 
-### ஓகஸ்ட் இறுதியில் வருகிறார் எலன் மஸ்க்
+### Ellen Musk arrives at the end of August
 
 *2024-07-22 09:29:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓகஸ்ட்-இறுதியில்-வருகிறார்-எலன்-மஸ்க்/175-340802) · `ta`
 
-எலோன் மஸ்க் தனது Starlink செயற்கைக்கோள் அடிப்படையிலான இணைய சேவையை இலங்கையில் தொடங்குவதற்கு அடுத்த மாதம் இலங்கை வரவுள்ளதாக அதிகாரி ஒருவர்  தெரிவித்தார்.
+Elon Musk is set to visit Sri Lanka next month to introduce Starlink, his satellite internet service.
+
+🟩
+
+An official said that Elon Musk will come to Sri Lanka next month to launch his starlink satellite internet service in Sri Lanka.
 
 ◼️
 
 [Data](articles/3f19d209.json)
+
+[Extended Data](ext_articles/3f19d209.ext.json)
 
 ---
 
@@ -1564,21 +1618,27 @@ Whenever the Sinhalese nation understands the moral struggles and aspirations we
 
 ---
 
-### බැඳුම්කර සහ භාණ්ඩාගාර බිල්පත් වලින් ගත් ණයට වඩා මුදලක් ණය ගෙවා දැමීමට වැය කළා
+### Bonds and Treasury bills were spent to pay the loan than the loan
 
 *2024-07-21 19:26:44* · [`adalk`](https://www.ada.lk/breaking_news/බැඳුම්කර-සහ-භාණ්ඩාගාර-බිල්පත්-වලින්-ගත්-ණයට-වඩා-මුදලක්-ණය-ගෙවා-දැමීමට-වැය-කළා/11-410898) · `si`
 
-මෙම වසරේ පළමු මාස 06 තුළ බැඳුම්කර සහ භාණ්ඩාගාර බිල්පත් මගින් ලබා ගත් ණය ප්‍රමාණයට වඩා රුපියල් බිලියන 129ක ණය මුදලක් රජය ගෙවා දැමීමට සමත්ව ඇතැයි මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ප්‍රකාශ කළේය.
+In the first half of the year, Sri Lanka's government repaid Rs. 129 billion in loans, totaling Rs. 4981 billion against borrowed funds of Rs. 4852 billion. Finance Minister Shehan Semasinghe highlighted the need for borrowing and debt repayment amidst a general election campaign, influenced by the New Central Bank Act.
 
-ඔහු පෙන්වා දුන්නේ අදාළ කාලය තුළ රජය බැ﻿ඳුම්කර සහ භාණ්ඩාගාර බිලපත් මගින් ලබා ගත් සමස්ත ණය ප්‍රමාණය රුපියල් බිලියන 4852ක් වන අතර, එම කාලය තුළ ගෙවා දමා ඇති ණය ප්‍රමාණයේ වටිනාකම රුපියල් බිලියන 4981ක් වන බවයි.
+🟩
 
-ඒ අනුව ණය ලබා ගැනීම පිළිබඳ සංඛ්‍යාලේඛන පමණක් සියලු පාර්ශ්ව විසින් විමසා සිටියද ණය ගෙවා දැමීමද රජය නිසි පරිදි සිදු කරමින් පවතින බවද ඔහු පැවසීය.
+Finance Minister Shehan Semasinghe said that the government has paid a loan of Rs. 129 billion over the first six months of this year.
 
-මේ අතර නව මහ බැංකු පනත සම්මත කරමින් ප්‍රතිසංස්කරණ වැඩසටහන ක්‍රියාත්මක කිරීම හේතුවෙන් රජයද සාමාන්‍ය ව්‍යාපාරයක් පවත්වාගෙන යන ආකාරයට ණය ගැනීම සහ ණය ගෙවීම සිදු කළ යුතු බව රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පෙන්වා දුන්නේය.
+He pointed out that the total loan obtained by the government and the Treasury Issues obtained during the period was Rs. 4852 billion and the amount of loans paid during the period was Rs. 4981 billion.
+
+Accordingly, the statistics on loans only, but the government is conducting the government to pay off debt.
+
+Meanwhile, the public minister also pointed out that the government should borrow and debt should be paid as the government is also running a general campaign due to the implementation of the New Central Bank Act.
 
 ◼️
 
 [Data](articles/912877a5.json)
+
+[Extended Data](ext_articles/912877a5.ext.json)
 
 ---
 
@@ -2217,23 +2277,5 @@ He was released on two physical bail worth Rs 10 lakh each and the Negombo Magis
 [Data](articles/15cb1560.json)
 
 [Extended Data](ext_articles/15cb1560.ext.json)
-
----
-
-### Do you want to trigger confusion?
-
-*2024-07-21 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/188998) · `ta`
-
-People initially supported the doctor facing issues in Chavakachcheri, but now the situation is causing concern.
-
-🟩
-
-“When the doctor's problems in Chavakachcheri revealed through the media, people gathered behind him. But today the situation is being raised. ”
-
-◼️
-
-[Data](articles/6fb08440.json)
-
-[Extended Data](ext_articles/6fb08440.ext.json)
 
 ---

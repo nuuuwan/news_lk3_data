@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 22:54:11**
+As of **2024-07-22 23:06:18**
 
 ## Newspaper Stats
 
-*Scraped **36,625** Articles*
+*Scraped **36,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,084
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,310
+adalk | 3,311
 adaderanalk | 4,248
 tamilmirrorlk | 4,470
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,625 (100.0%) of 36,625 articles have been extended.
+36,625 (100.0%) of 36,626 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -243,6 +243,22 @@ More than 34 million applications for the first phase of the Aswesa Project were
 [Data](articles/a68a5362.json)
 
 [Extended Data](ext_articles/a68a5362.ext.json)
+
+---
+
+### කෘෂි නවීකරණ වැඩසටහන යටතේ පොලී රහිත ණය
+
+*2024-07-22 19:20:20* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂි-නවීකරණ-වැඩසටහන-යටතේ-පොලී-රහිත-ණය/11-410919) · `si`
+
+කෘෂිකර්ම නවීකරණ වැඩසටහනෙහි පළමු අදියර යටතේ කෘෂි ව්‍යවසායකයින් සහ ගොවීන් සඳහා පොලී රහිත ණය ලබාදීමේ ක්‍රියාව ලියට අදාළ අවබෝධතා ගිවිසුමට අත්සන් තැබීම අද (22) ජනාධිපති කාර්යාලයේදී සිදු විය.
+
+පළමු අදියරේදී මෙම වැඩසටහන සඳහා දායකත්වය ලබා දෙන ලංකා බැංකුව සහ ප්‍රාදේශීය සංවර්ධන බැංකුව සහ කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශ ලේකම් ජානක ධර්මකීර්ති මහතා විසින් එම අවබෝධතා ගිවිසුම්වලට අත්සන් තැබීය.. ඒ අනුව ඉදිරියේ දී මහජන බැංකුව සමඟද ගිවිසුම් අත්සන් කිරීමට නියමිතය.
+
+කෘෂි නවීකරණ වැඩසටහනෙහි පළමු අදියරයේ දී නියමු ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා තෝරාගත් ප්‍රාදේශීය ලේකම් කොට්ඨාස 26හි කෘෂි නවීකරණ කේන්ද්‍රස්ථාන හරහා ව්‍යාපෘති ක්‍රියාත්මක කිරීමට රුපියල් මිලියන 25 බැගින් රුපියල් මිලියන 650 ක මුදලක් වෙන් කර ඇති අතර, දෙවන අදියරයේදී රුපියල් මිලියන 10ක කෘෂිකර්ම නවීකරණ ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා ප්‍රාදේශීය ලේකම් කොට්ඨාස 75ක් හඳුනාගෙන ඇත.
+
+...
+
+[Data](articles/50973fb3.json)
 
 ---
 
@@ -2373,33 +2389,5 @@ The suspects are aged 33, 20, 19, 18, and 16 and are residents of the Sainthamar
 [Data](articles/44fc3ac9.json)
 
 [Extended Data](ext_articles/44fc3ac9.ext.json)
-
----
-
-### Shooting a couple shot
-
-*2024-07-22 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199076) · `si`
-
-In a shooting incident near the Midadeniya police division, a 42-year-old man and his wife were targeted. The victim, an SLFP Pradeshiya Sabha candidate, was shot while riding a motorcycle with his wife. Both were hospitalized; the wife was later moved to another hospital for further care. The shooter fled the scene.
-
-🟩
-
-A shooting was shot at the Midadeniya police division - Julampathitiya road at around 10 pm yesterday.
-
-Its goal was in the SLFP Pradeshiya Sabha Pradeshiya Sabha candidate.
-
-The shooting was carried out while he was shooting with his wife with his wife closing his wife.
-
-The 42-year-old men were shot and his wife was injured due to the rolling of the motorcycle.
-
-Both have been admitted to the Middeniya hospital. The wife was later transferred to Embilipitiya Hospital for further treatment.
-
-The shooting has been used for shooting and the police said the sholder had fled the place.
-
-◼️
-
-[Data](articles/af9831b9.json)
-
-[Extended Data](ext_articles/af9831b9.ext.json)
 
 ---

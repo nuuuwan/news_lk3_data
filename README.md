@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 08:35:51**
+As of **2024-07-22 08:54:53**
 
 ## Newspaper Stats
 
-*Scraped **36,486** Articles*
+*Scraped **36,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,218
 tamilmirrorlk | 4,447
 dailymirrorlk | 4,733
 virakesarilk | 5,716
-adaderanasinhalalk | 6,122
+adaderanasinhalalk | 6,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,485 (100.0%) of 36,486 articles have been extended.
+36,486 (100.0%) of 36,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### බිත්තර ආනයනය ගැන අවසන් තීරණය අද
+
+*2024-07-22 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199071) · `si`
+
+බිත්තරයක් අද (22) සිට රුපියල් 42කට වෙළෙඳපොළට නිකුත් කරන බව බිත්තර නිෂ්පාදකයින්ගේ සංගමය පවසයි.
+
+ඉදිරියේ දී බිත්තර මිල තවදුරටත් අඩු කිරීමට පියවර ගන්නා බව එම සංගමයේ සභාපති ආර්.එම් සරත් රත්නායක මහතා පැවසුවේය.
+
+කෙසේවෙතත් බිත්තර මිල පාලනය කිරීම සඳහා ඉදිරියේ දී යළි බිත්තර මෙරටට  ආනයනය කිරීමට රජය තීරණය කර බව වාර්තා වේ.
+
+ඒ සම්බන්ධයෙන් අද දෙරණ වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතාගෙන් සිදුකළ විමසීමක දී ඔහු සඳහන් කළේ මෙරටට යළි බිත්තර ආනයනය කිරීම පිළිබඳව තීරණය අද දිනයේ දී දැනුම් දීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/ccbcd999.json)
+
+---
 
 ### Teacher - Principal
 
@@ -158,23 +176,29 @@ In other parts of the island, a rainy weather is expected to be mainly.
 
 ---
 
-### 'මට කියන්නේ ජංගම සුපර්මාර්කට් එක කියලා. කිලෝ 50ක් බර ජාති 300ක් විතර මම ගෙනියනවා.'
+### 'I'm telling me the mobile supermarket. I have taken about 300 kilograms of weight. '
 
 *2024-07-22 02:18:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw0y10d2ne3o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ඉදිකට්ට, පා පිස්ස, සෙරප්පු දෙකේ ඉඳලා හැම දෙයක්ම තියෙනවා.''
+Veson, a resident of Pilimatalawa, Kandy, operates a mobile supermarket, transporting around 300 kg of goods daily over 30 miles to sell various items. He emphasizes the importance of hard work and not becoming a burden to his family and nation, expressing hope that future generations will do better.
 
-'මට කියන්නේ ජංගම සුපර්මාර්කට් එක කියලා. කිලෝ 50ක් බර ජාති 300ක් විතර මම ගෙනියනවා.'
+🟩
 
-මහනුවර පිළිමතලාවේ පදිංචි වින්සන් ජගත් කිලෝ ගණනක් බර භාණ්ඩ ශරීරයේ එල්ලාගෙන ජංගම වෙළඳාමේ නිරත වන පුද්ගලයකි.
+Nothing here contains no of the Four Health Head, '' There is everything from two securities. ''
 
-භාණ්ඩ වර්ග 300ක් පමණ ඔහු සතු වෙන අතර ඒවා අලෙවි කිරීමට දිනකට කිලෝමීටර් 30 පමණ ගමන් කරන බව ඔහු පවසයි.
+'I'm telling me the mobile supermarket. I have taken about 300 kilograms of weight. '
 
-''ඉදිකට්ට, පා පිස්සා, සෙරප්පු දෙකේ ඉඳලා හැම දෙයක්ම තියෙනවා. මගේ දරුවන්ට, රටට ණයකාරයෙක් වෙන්න මම කැමති නෑ. කාටවත් අතපාන්නෙත් නෑ. මගේ එකම බලාපොරොත්තුව මටත් වඩා හොඳට දරුවෝ ඉන්නවා දකින්න'' යනුවෙන් ඔහු BBC සිංහල වෙත පැවසුවේය.
+Veson, a resident of Pilimatalawa, Kandy, is a person who is carrying out the carcasses in the body.
+
+He says about 300 types of goods and he is traveling about 30 miles a day to sell them.
+
+'' There's everything from the two and the patriads and securities. I don't want to be a debtor to my children and the country. No one can help anyone. My only hope, see children better than me, "he told BBC Sinhala.
 
 ◼️
 
 [Data](articles/6d91d58b.json)
+
+[Extended Data](ext_articles/6d91d58b.ext.json)
 
 ---
 
@@ -2251,35 +2275,5 @@ Drug trafficking abducted by Kanjipani Imran, an organized criminal and drug tra
 [Data](articles/8e3f51ba.json)
 
 [Extended Data](ext_articles/8e3f51ba.ext.json)
-
----
-
-### A big change in the sky next week
-
-*2024-07-21 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199049) · `si`
-
-Next week, a unique astronomical event will occur where the moon will be visible near Saturn early on July 24th, as seen from Sri Lanka. This phenomenon, best viewed through a telescope, occurs when one celestial body obstructs the view of another due to their relative positions. It's a rare sight expected to repeat in 2037, according to the Arthur C Clarke Center.
-
-🟩
-
-The Arthur C Clark Center says that Saturday and mond will appear to Sri Lankans on July 24.
-
-This is a rare astronomical event that the moon can be observed at around July 24 am, the center that the phenomenon could be observed at around July 24 am.
-
-The phenomenon is best observed with a telescope or aid of a wide.
-
-One celestial object is blocked by blooming its vision because of another celestial object.
-
-When the Moon is heading the front of the planet, it goes on to the Earth and is close to the Earth, approximately twenty-hour moon.
-
-Again again, such a phenomenon is appeared to Sri Lanka on the 24th of 2037, "says Arthur C. Clark Center.
-
-Time will be different from the various parts of Sri Lanka and the times are below.
-
-◼️
-
-[Data](articles/405c050e.json)
-
-[Extended Data](ext_articles/405c050e.ext.json)
 
 ---

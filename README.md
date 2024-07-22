@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 12:20:22**
+As of **2024-07-22 12:35:36**
 
 ## Newspaper Stats
 
-*Scraped **36,541** Articles*
+*Scraped **36,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,181
 dailyftlk | 2,321
-adalk | 3,297
-adaderanalk | 4,230
+adalk | 3,298
+adaderanalk | 4,231
 tamilmirrorlk | 4,462
 dailymirrorlk | 4,733
 virakesarilk | 5,719
@@ -26,11 +26,45 @@ adaderanasinhalalk | 6,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,536 (100.0%) of 36,541 articles have been extended.
+36,541 (100.0%) of 36,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### Woman arrested for drug trafficking targeting schoolchildren
+
+*2024-07-22 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100690/woman-arrested-for-drug-trafficking-targeting-schoolchildren) · `en`
+
+The Police Special Task Force (STF) has arrested a woman involved in trafficking intoxicating pills targeting schoolchildren.
+
+The arrest was made during a special raid carried out based on a tip-off received by the officers of Gonahena Police STF camp, the police said.
+
+The 44-year-old woman, a resident of the Webada area, was in the possession of 230 intoxicating pills intended for sale to schoolchildren at the time of the arrest, according to police.
+
+The suspect has been handed over to the Kadawatha Police for further investigation.
+
+◼️
+
+[Data](articles/478458a9.json)
+
+---
+
+### මිද්දේණියේ වෙඩි තැබිමක්
+
+*2024-07-22 11:53:15* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දේණියේ-වෙඩි-තැබිමක්/11-410906) · `si`
+
+මිද්දෙණිය ගල්පොත්තායාය ජුලම්පිටිය මාර්ගයේ 06 කණුව ප්‍රදේශයේදී යතුරුපැදියකින් ගමන් කරමින් සිටි යුවළකට ඊයේ (21) රාත්‍රි වෙඩි තබා පලාගොස් ඇතැයි මිද්දේණිය පොලීසය කියයි. වෙඩි තැබිමෙන් යතුරු පැදිකරු තුවාල ලබා ඇති අතර, යතුරු පැදිය පෙරළීමෙන් යතුරු පැදියේ පසු පසු ගමන් ගත් කාන්තාව තුවාල ලබා මිද්දේණිය රෝහලට ඇතුලත් කර වැඩිදුර ප්‍රතීකාර සදහා ඇඹ්ලිපිටිය රෝහල වෙත මාරු කර යවා තිබේ.
+
+වෙඩි වැදිමෙන් තුවාල ලැබු පිරිමි පුද්ගලයා වයස අවුරුදු 42ක් වන අතර,කාන්තාව වයස අවුරුදු 40 ක් වන පුලම්පිටිය ප්‍රදේශයේ පදිංචි අඹුසැමි යුවලකී. තුවාලකරුවන් ඔවුන්ගේ වෙළදසැල වසා දමා යතුරු පැදියෙන් නිවසට යමින් සිටියදී මෙම වෙඩි වැදිම සිදුව තිබේ.
+
+සැකකරුවන් වෙඩි තැබිමට රෑගෙන එන ලද මෙරට නිෂ්පාදිත ගිනි අවිය වෙඩි තැබිම සිදු කළ ස්ථානයේ දමා පලා ගොස් ඇත.සැකකරුවන් පැමිණි ආකාරය සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය කියයි. මිද්දේණිය පොලීසිය වැඩිදුර විමර්ශණ සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/e027c391.json)
+
+---
 
 ### May make unintelligent decisions
 
@@ -77,6 +111,8 @@ This is the first time in 20 years a Sri Lankan Foreign Minister visited Poland.
 ...
 
 [Data](articles/a19dd586.json)
+
+[Extended Data](ext_articles/a19dd586.ext.json)
 
 ---
 
@@ -126,19 +162,25 @@ Two-year-old ages, 25, have been arrested by the police and 27-year-old ages sus
 
 ---
 
-### ගල්වලක ගිලී මවක් සහ දරුවන් දෙදෙනෙකු මරුට
+### Mother and two children killed in a quarry
 
 *2024-07-22 11:38:33* · [`adalk`](https://www.ada.lk/breaking_news/ගල්වලක-ගිලී-මවක්-සහ-දරුවන්-දෙදෙනෙකු-මරුට/11-410905) · `si`
 
-තිස්සමහාරාම කාවන්තිස්ස පුර ප්‍රදේශයේ ගල්වළක ගිලී මවක් සහ දරුවන් දෙදෙනෙකු මියගොස් ඇති බව තිස්සමහාරාම පොලීසිය කියයි.
+A tragic incident occurred in Kawantississapura, Tissamaharama, where a 32-year-old mother and her two children, aged 14 and 9, were found dead in a garden. The mother's body was discovered on March 21st, and the police are investigating the case.
 
-මෙලෙස මියගොස් ඇත්තේ 32 හැවිරිදි මවක් සහ 14 හැවිරිදි සහ 9 හැවිරිදි පිරිමි ළමුන් දෙදෙනෙකි.ඊයේ පස්වරුවේ මව සහ දරුවන් දෙදෙනා මෙම ගල්වළේ දිය නෑමට ගොස් ඇති බව පොලීසියට වැඩිදුර විමර්ශනයන්හි දී හෙළි වී ඇත.
+🟩
 
-මවගේ සිරුර ඊයේ (21) දින සොයාගෙන ඇති අතර දරුවන් දෙදෙනාගේ සිරුරු සොයා තිස්සමහාරාම පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+Tissamaharama Police said that a mother and two children were killed in a garden in Kawantississapura, Tissamaharama.
+
+The deceased has been identified as 32-year-old mother and two children, a 14-year-old mother and 9 afternoon.
+
+The mother's body was recovered yesterday (21) and Tissamaharama police are conducting further investigations.
 
 ◼️
 
 [Data](articles/5c900c01.json)
+
+[Extended Data](ext_articles/5c900c01.ext.json)
 
 ---
 
@@ -155,6 +197,8 @@ Speaking at a political rally in Gampaha on Sunday July 21, Wickremesinghe said 
 ...
 
 [Data](articles/d490afe1.json)
+
+[Extended Data](ext_articles/d490afe1.ext.json)
 
 ---
 
@@ -202,21 +246,27 @@ Accordingly, the Thero was ordered to be released on a monetary bail of Rs 50,00
 
 ---
 
-### ලිට්‍රෝ ගෑස් හිඟයක්
+### A shortage of litro gas
 
 *2024-07-22 11:04:56* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-හිඟයක්/11-410903) · `si`
 
-හැටන් ඇතුළු වතු ආශ්‍රිත ප්‍රධාන නගර වල දින කිහිපයක සිට ලිට්‍රෝ ගෘහස්ථ ගැස් හිගයක් පැවතිම හේතුවෙන් තමන් දැඩි ලෙස පිඩාවට පත් වි ඇති බව ලිට්‍රෝ ගැස් අලෙවි නියෝජිතයන් සහ පාරිභෝගිකයන් කියා සිටියි.
+In Hatton, Litro Gas faces a crisis with dealers and consumers affected. Dealers report severe issues, including confiscation of empty cylinders and delays in refills. Many outlets have closed, impacting supply and distribution.
 
-මාසයක පමණ කාලයක සිට ලිට්‍රෝ ගැස් සමාගම විසින් අලෙවි නියෝජිතයන්ට ඉල්ලුමට සරිලන ගැස් තොග නිකුත් නොකිරිම සහ නියමිත කාල සටහන අනුව ගැස් තොග බෙදා නොහැරිම මත මෙම ගෑස් හිගය මතු වි ඇති බවයි හැටන් ප්‍රදේශයේ ගෑස් අලෙවි නියෝජතියන් කියා සිටින්නේ.
+🟩
 
-තම අලෙවි නියොජිත ආයතන සතු හිස් ගෑස් සිලින්ඩර් පවා ආයතනය විසින් රැගෙන ගිය බවත්, එම හිස් ගෑස් සිලින්ඩර් වලට අදාල ගෑස් පිරවු සිලින්ඩර් සති කිහිපයක සිට ලබා නොදුන් බවයි අලෙවි නියෝජිතයන් කියා සිටියේ.
+Litro Gaze dealers and consumers claim that they have been severely imposed due to the main cities of Hatton.
 
-ලිට්‍රෝ ගෑස් නොලැබිම හමුවේ හැටන් නගරයේ ගෑස් අලෙවිසැල් කිහිපයක් වසා දමා ඇති අයුරු අප කැමරාවේ සටහන් විය.
+The gas delegates claim that the gas delegation has emerged on the basis of the demand for delegation and distribution of gazs.
+
+The dealers stated that even the empty gas cylinders of their marketing agencies have been taken by the company and that the gas full of gas cylinders were not given a few weeks.
+
+We have noted how a number of gas outlets in Hatton has been closed down in the city of Handton under the loss of Litro.
 
 ◼️
 
 [Data](articles/4bf2d21b.json)
+
+[Extended Data](ext_articles/4bf2d21b.ext.json)
 
 ---
 
@@ -943,6 +993,8 @@ In 2023, the government borrowed 1.52 billion US dollars to finance its deficit,
 ...
 
 [Data](articles/7b9be56d.json)
+
+[Extended Data](ext_articles/7b9be56d.ext.json)
 
 ---
 
@@ -2219,51 +2271,5 @@ He was speaking at a press conference held in Colombo on Sunday (21) on the 22nd
 [Data](articles/aa972a17.json)
 
 [Extended Data](ext_articles/aa972a17.ext.json)
-
----
-
-### We have paid a loan of 129 billion rupees in six months - Sehan Semasinghe
-
-*2024-07-21 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189033) · `ta`
-
-Finance Minister Xihan Semasinghe announced that a loan of 129 billion rupees was fully repaid within six months, alongside a total repayment of 4981 billion rupees. This action reduced the national debt from 4852 billion rupees to its current level. Amidst economic challenges, the government utilized funds from the Central Bank to manage the situation, leading to a decline in inflation due to new laws regulating currency printing.
-
-🟩
-
-Finance Minister Xihan Semasinghe has stated that the loan of Rs 129 billion has been repaired than the loan obtained through the Treasury and Bailouts in the six months from 2024.
-
-4981 billion rupees has been repaid during that time, with the total debt of 4852 billion rupees from 2024 to six months from 2024.
-
-Amid the economic impact of the state administration, the government has been deployed in the state of affairs. The government has found that the necessary currency through the Central Bank has been increased by the Central Bank before the economic impact.
-
-Currency printing has been defined as the new central bank law has been enacted. Therefore, inflation has declined.
-
-◼️
-
-[Data](articles/c5524aff.json)
-
-[Extended Data](ext_articles/c5524aff.ext.json)
-
----
-
-### Childbirther of Mahamodara Maternal Hospital down
-
-*2024-07-21 19:59:03* · [`adalk`](https://www.ada.lk/breaking_news/මහමෝදර-මාතෘ-රෝහලේ-දරු-උපත්-ශීඝ්‍රයෙන්-පහළට/11-410900) · `si`
-
-Since its inception in 1914, the Mahamodara Maternity Hospital has seen a significant decline in childbirths from 10,366 in January 2019 to 3,303 in the first half of 2024. This drop is attributed to the economic crisis, affecting 8,333 births in 2022. The hospital, now known as the Sri Lanka Friendship Hospital after merging with Karapitiya Hospital on March 27th, faces challenges under the leadership of Director K.A. Somaratne.
-
-🟩
-
-The number of childbirth of the Mahamodara Maternity Hospital, which was started in 1914, has fallen rapidly from 2019 to the year 2019.
-
-10,366 children born in Mahamodara maternity hospital in January 2019 and the number of children who were born to 7,337 have fallen to 7,337 from the end of the year 2023. There are 3,303 children born at the first six months in the first six months of 2024.
-
-The economic crisis affected a profound effect on the 8,333 children born of the Mahamodara Maternity Hospital in 2022. Mahamodara Maternity Hospital is attached to Karapitiya Hospital on 27th March and is currently named as the Mahamodara Hospital as Sri Lanka Friendship Hospital. The German Sri Lanka Friendship Hospital, the Director of the German Sri Lanka Friendship Hospital K.A. K.A.. Says Mr. Somaratne.
-
-◼️
-
-[Data](articles/2d23450c.json)
-
-[Extended Data](ext_articles/2d23450c.ext.json)
 
 ---

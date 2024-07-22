@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 18:54:55**
+As of **2024-07-22 19:05:35**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 6,145
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,600 (100.0%) of 36,603 articles have been extended.
+36,603 (100.0%) of 36,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### ජපාන විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා සහ අනුර අතර හමුවක්
+### Japan Foreign Minister meets Anura
 
 *2024-07-22 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199094) · `si`
 
-ජපානයේ සංචාරයක නිරත ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා එරට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය TSUGE YOSHIFUMI මුණගැසී සාකච්ඡා පවත්වා තිබේ.
+Japanese Foreign Minister Tsuge Yoshifui met with Anura, leader of Sri Lanka's National JVP, discussing long-term diplomatic and economic ties. The meeting highlighted the importance of mutual support amidst Sri Lanka's current economic and political challenges.
 
-දෙරට අතර දිගුකාලීන මිත්‍රත්වය සහ රාජ්‍යතාන්ත්‍රික හා ආර්ථික සබඳතාවල ඉදිරි පියවර පිළිබඳ එහිදී සාකච්ඡා කර ඇති බව සඳහන්ය.
+🟩
 
-ශ්‍රී ලංකාවේ ආර්ථික හා දේශපාලන තත්ත්වය, දෙරට අතර දිගුකාලීන මිත්‍රත්වය සහ රාජ්‍යතාන්ත්‍රික හා ආර්ථික සබඳතාවල ඉදිරි පියවර පිළිබඳ එහිදී සාකච්ඡා කර ඇති බව සඳහන්ය.
+Leader of the National JVP to visit Japan and met the Minister of External Affairs TSUGE YOSHIFUIFUI.
 
-සාකච්ඡාව සඳහා අග්නිදිග සහ නිරිතදිග ආසියානු කටයුතු දෙපාර්තමේන්තුවේ නිරිතදිග ආසියානු අධ්‍යක්ෂ, එහි නියෝජ්‍ය අධ්‍යක්ෂ ඇතුළු නියෝජිතයින් පිරිසක් ද එක්ව තිබේ.
+The two countries have discussed a continuous friendship and diplomatic and economic relations.
+
+It is reported that the economic and political situation in Sri Lanka have been discussed in long-term friendship and diplomatic and economic relations between the two countries.
+
+The Southwest Asian Director, its deputy director, has also participated in the discussion.
 
 ◼️
 
 [Data](articles/418e6e56.json)
 
+[Extended Data](ext_articles/418e6e56.ext.json)
+
 ---
 
-### චමරිගේ වාර්තා ගත ශතකයෙන් ලංකාව දෙවැනි ජයත් ලබයි
+### Sri Lanka wins second winning century in Chamari
 
 *2024-07-22 17:58:26* · [`adalk`](https://www.ada.lk/sports/චමරිගේ-වාර්තා-ගත-ශතකයෙන්-ලංකාව-දෙවැනි-ජයත්-ලබයි/9-410913) · `si`
 
-කාන්තා ආසියානු කුසලාන විස්සයි20 තරගාවලියකදී ක්‍රීඩිකාවක් වාර්තා කළ පළමු ශතකයට හිමිකම් කිමට ශ්‍රී ලංකා නායිකා චමරි අතපත්තු අද සමත්වූවාය. ඒ මැලේසියා කණ්ඩායමට එරෙහිව පන්දු 69කදී වේගවත් ලකුණු 119ක් රැස්කමිනි.එය චමරිගේ තෙවැනි විස්සයි20 ශතකයද විය.
+In the Women's Asia T20 tournament, Sri Lanka, led by Chamari Atapattu, achieved a historic win with a score of 184/4 against Malaysia, who could only manage 40 runs. The highlight was the performance of the team's youngest bowler, a 15-year-old, who took 3 wickets in 4 overs.
 
-චමරිගේ ශතකයත සමගින් ශ්‍රී ලංකාව පන්දුවාර 20 අවසානයේදී කඩුලු 4ට ලකුණු 184ක් රැස්කිරීමට සමත්විය. පිළිතුරු ඉනිම ක්‍රීඩා කළ මැලේසියා කණ්ඩායමට සියලු දෙනා දැවී රැස් කළ හැකිවූයේ ලකුණු 40ක් පමණි.
+🟩
 
-ශ්‍රී ලංකා කණ්ඩායමේ ලාබාලම පන්දු යවන්නිය වන 15 හැවැරිදි ශෂිනි ගිම්හානි පන්දුවාර 4කදී ලකුනු 9ට කඩුලු 3ක් දවා ගැනීමට සමත්වූවාය.
+Sri Lanka leadership Chamari Atapattu today celebrated a player in a women's Asia T20 tournament. The Malaysia was 119 runs in 69 balls.
+
+Sri Lanka scored 184 runs for 4 wickets. In reply, Malaysia won only 40 runs.
+
+Sri Lanka's team's youngest bowler, 15 crowd, scored 3 wickets in 4 overs.
 
 ◼️
 
 [Data](articles/62c4cf0a.json)
+
+[Extended Data](ext_articles/62c4cf0a.ext.json)
 
 ---
 
@@ -222,19 +234,27 @@ The PROMO of the concert was released and the opportunity to photograph Vijay An
 
 ---
 
-### පාන්වලට පාලන මිලක් ?
+### Control price to bread?
 
 *2024-07-22 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199091) · `si`
 
-බේකරි හිමියන් විසින් පාන් මිල අඩු නොකළහොත් පාන් සඳහා පාලන මිලක් හඳුන්වාදෙන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පවසයි.
+Nalin Fernando warns that if bread prices aren't lowered by bakers within two days, a price control measure will be implemented. He urges bakers to reduce prices, especially for essential bread types, to ensure affordability for the public.
 
-බේකරි හිමියන් විසින් පාන් මිල අඩු නොකළහොත් පාන් සඳහා පාලන මිලක් හඳුන්වාදෙන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පවසයි.
+🟩
 
-අද (22) මාධ්‍ය වෙත අදහස් දක්වමින් වෙළෙඳ අමාත්‍යවරයා පවසා සිටියේ, බේකරි හිමියන් විසින් ඉදිරි දින දෙක තුළ පාන් මිල අඩු නොකළහොත් එම පාලන මිල හඳුන්වා දෙන බවය.
+The commercial prices of the Trade Nalin Fernando says that if bread prices are not reduced by baked owners, the price is introduced to bread.
 
-...
+The commercial prices of the Trade Nalin Fernando says that if bread prices are not reduced by baked owners, the price is introduced to bread.
+
+Speaking to the media this morning (22), the commemoration said that if bread prices were not reduced in the next two days, the price of control was introduced.
+
+"I found bakery owners. There he said bread and other bakery products. They asked for a few days. I made clear them clearly, I would give three days if I would definitely go to the judgment if they would not judge the price of three days. Especially there is a lot of bread nationals today. All these bread takes the same one. This is a big problem. So I told them that if the sandwich bread or a normal bread, or a normal bread. The people of the country will be able to afford to the people of the country with 450 grams bread. "
+
+◼️
 
 [Data](articles/5ea9b9c9.json)
+
+[Extended Data](ext_articles/5ea9b9c9.ext.json)
 
 ---
 

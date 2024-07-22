@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 07:02:07**
+As of **2024-07-22 07:29:47**
 
 ## Newspaper Stats
 
-*Scraped **36,480** Articles*
+*Scraped **36,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,289
 adaderanalk | 4,218
-tamilmirrorlk | 4,445
+tamilmirrorlk | 4,446
 dailymirrorlk | 4,733
 virakesarilk | 5,716
 adaderanasinhalalk | 6,119
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,119
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,477 (100.0%) of 36,480 articles have been extended.
+36,480 (100.0%) of 36,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### வெளியே ஜோ பைபடன்  உள்ளே கமலா ஹாரிஸ்?
+
+*2024-07-22 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெளியே-ஜோ-பைபடன்-உள்ளே-கமலா-ஹாரிஸ்/50-340799) · `ta`
+
+அமெரிக்க ஜனாதிபதி தேர்தலுக்கான போட்டியில் இருந்து விலகுவதாக, தற்போதைய ஜனாதிபதி ஜோ பைடன் அறிவித்துள்ள நிலையில், இந்திய வம்சாவளியான கமலா ஹாரிஸ் ஜனநாயக கட்சி சார்பில் ஜனாதிபதி வேட்பாளராக விரைவில் அறிவிக்கப்படவுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+அமெரிக்க ஜனாதிபதி பதவிக்கான தேர்தல், நவ.,5ஆம் திகதி நடக்கவுள்ளது. இந்த தேர்தலில், குடியரசு கட்சி சார்பில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப், 78, வேட்பாளராக அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டுள்ளார்.
+
+ஜனநாயக கட்சி சார்பில் தற்போதைய ஜனாதிபதி ஜோ பைடன், 81, போட்டியிடவுள்ளதாக அறிவிக்கப்பட்டது. சிகாகோவில், அடுத்த மாதம், 19 - 22ல் நடக்கும் கட்சியின் மாநாட்டில் அவர் முறைப்படி ஜனாதிபதி வேட்பாளராக அறிவிக்கப்படுவார் என, தெரிவிக்கப்பட்டிருந்தது.
+
+சமீபத்தில் நடந்த தேர்தல் தொடர்பான நேரடி வாத நிகழ்ச்சியில், டொனால்ட் டிரம்ப் கேள்விகளுக்கு பதிலளிக்க முடியாமல், ஜோ பைடன் திணறினார். இதைத் தொடர்ந்து, ஜனாதிபதி வேட்பாளரை மாற்ற வேண்டும் என, அவருடைய கட்சியில் பலரும் குரல் கொடுக்கத் துவங்கினர்.
+
+...
+
+[Data](articles/75f766ab.json)
+
+---
 
 ### Agcelerator demo-day unveils innovative agribusiness solutions
 
@@ -348,6 +366,8 @@ At the same time, the people of the area staged a protest last week demanding th
 
 [Data](articles/173024f5.json)
 
+[Extended Data](ext_articles/173024f5.ext.json)
+
 ---
 
 ### Sri Lanka Caught In A Constitutional Quagmire
@@ -365,6 +385,8 @@ a) A Bill for the amendment or for the repeal and replacement of or which is inc
 ...
 
 [Data](articles/4a96d74c.json)
+
+[Extended Data](ext_articles/4a96d74c.ext.json)
 
 ---
 
@@ -481,6 +503,8 @@ Aseni: Sri Lanka has increased its foreign borrowing during the post-independenc
 ...
 
 [Data](articles/01c01393.json)
+
+[Extended Data](ext_articles/01c01393.ext.json)
 
 ---
 
@@ -2231,25 +2255,5 @@ Semasinghe further stated: “Our expectation is to maintain the current stabili
 [Data](articles/5855239a.json)
 
 [Extended Data](ext_articles/5855239a.ext.json)
-
----
-
-### Govt. eyes import of eggs again?
-
-*2024-07-21 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100664/govt-eyes-import-of-eggs-again) · `en`
-
-The Ministry of Trade states that the government is once again focusing on the import of eggs.
-
-When inquired by Ada Derana, a spokesperson of the ministry said that this decision comes in response to local egg producers maintaining consistently high prices.
-
-Furthermore, the spokesman highlighted that local producers are deliberately limiting the number of eggs released to the market to keep prices elevated. Additionally, he mentioned that these producers have resorted to selling animals for meat to control egg production further and maintain high prices.
-
-However, it is reported that a discussion pertaining to the matter is scheduled to be held tomorrow (22), where further measures will be considered to address the ongoing issue.
-
-◼️
-
-[Data](articles/227478fe.json)
-
-[Extended Data](ext_articles/227478fe.ext.json)
 
 ---

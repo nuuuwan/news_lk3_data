@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 08:15:11**
+As of **2024-07-22 08:24:41**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,484 (100.0%) of 36,485 articles have been extended.
+36,485 (100.0%) of 36,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### ගුරු - විදුහල්පතිවරු අකුරට වැඩ
+### Teacher - Principal
 
 *2024-07-22 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199070) · `si`
 
-ගුරු-විදුහල්පතිවරු අද (22)  සිට සති දෙකක කාලයක් අකුරට වැඩ කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කරන බව ගුරු සහ විදුහල්පති සංගම් පවසයි.
+Teachers and principals in Sri Lanka will start a two-week trade union action from April 22, affecting workshops and training programs. The Chief Secretary of the Sri Lanka National Principal Association and NSF have expressed concern over this decision.
 
-ඒ අනුව අද සිට පළාත් අධ්‍යාපන හා කලාප අධ්‍යාපන කාර්යාල නියම කරන වැඩමුළු, තත්ත්ව කව මෙන් ම පුහුණු වැඩසටහන්වලට සහභාගී නොවන බව ඔවුන් පවසයි.
+🟩
 
-ඉදිරි දෙසතිය තුළ පන්ති කාමරවල ඉගැන්වීමේ කටයුතුවලට පමණක් සම්බන්ධ වන අතර සියලු බාහිර කටයුතුවලින් ඉවත් වන බව ශ්‍රී ලංකා ජාතික විදුහල්පති සංගමයේ ප්‍රධාන ලේකම් පරාක්‍රම වික්‍රමසිංහ මහතා පැවසුවේය.
+Teacher and Principals Union said that the teacher-principal will commence a trade union action for two weeks from today (22).
 
-කෙසේවෙතත් දේශපාලන ව්‍යාපාර ශක්තිමත් කර ගැනීමේ අරමුණින් සැලසුම්කර ඇති වෘත්තීය සමිති ක්‍රියාමාර්ගය සඳහා සහාය නොදක්වන බව ගුරු-විදුහල්පති එකමුතුවේ කැඳවුම්කරු පූජ්‍ය උලපනේ සුමංගල හිමි සඳහන් කළහ.
+Accordingly, workshops on provincial and zonal education in provincial education and zonal education will not participate in training programs, quality circles.
+
+The Chief Secretary of the Sri Lanka National Principal (NSB) of the Sri Lanka National Principal Association, the Chief Secretary of the Sri Lanka National Principal (NSF) is associated with teaching activities in the future.
+
+However, the convener of the Teacher-Principal's convener, Ven.
 
 ◼️
 
 [Data](articles/71b2b73c.json)
+
+[Extended Data](ext_articles/71b2b73c.ext.json)
 
 ---
 

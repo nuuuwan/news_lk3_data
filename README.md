@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 09:54:43**
+As of **2024-07-22 10:07:20**
 
 ## Newspaper Stats
 
-*Scraped **36,500** Articles*
+*Scraped **36,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,136 @@ newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,173
 dailyftlk | 2,321
-adalk | 3,291
-adaderanalk | 4,223
-tamilmirrorlk | 4,449
+adalk | 3,292
+adaderanalk | 4,224
+tamilmirrorlk | 4,453
 dailymirrorlk | 4,733
 virakesarilk | 5,719
-adaderanasinhalalk | 6,124
+adaderanasinhalalk | 6,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,498 (100.0%) of 36,500 articles have been extended.
+36,500 (100.0%) of 36,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### බැනාගේ පොලු පහරින් මාමණ්ඩියට දිවි අහිමි වෙයි
+### ටැටූ මල්ලි ඇතුළු සැකකරුවන් අධිකරණය ට
+
+*2024-07-22 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199074) · `si`
+
+අතුරුගිරිය ටැටූ මධ්‍යස්ථානයක් තුළදී ක්ලබ් වසන්ත ඇතුළු දෙදෙනකුව වෙඩිතබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින සැකකරුවන් 7 දෙනා අධිකරණය වෙත රැගෙන ආ බව අප වාර්තාකරු පවසයි.
+
+එම ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇතුළු සැකකරුවන් දැඩි ආරක්ෂක රැකවල් මධ්‍යයේ කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන ආ බව වාර්තා වෙයි.
+
+ජූලි 08 වනදා සිදුකළ එම වෙඩිතැබීමෙන් තවත් සිව් දෙනෙක් තුවාල ලැබූ අතර ජනප්‍රිය ගායන ශිල්පිනී කේ. සුජීවා ද ඒ අතර වූවාය.
+
+◼️
+
+[Data](articles/3c2a6035.json)
+
+---
+
+### Hirunika Premachandra granted bail
+
+*2024-07-22 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100684/hirunika-premachandra-granted-bail) · `en`
+
+Former Member of Parliament Hirunika Premachandra has been ordered to be released on bail by the Colombo High Court.
+
+Colombo High Court Judge Amal Ranaraja has issued this order today (22), when the appeal filed by her attorneys was taken up for consideration.
+
+◼️
+
+[Data](articles/f63ab47e.json)
+
+---
+
+### தாய் மற்றும் இரு பிள்ளைகளை பலியெடுத்த குழி
+
+*2024-07-22 09:44:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-மற்றும்-இரு-பிள்ளைகளை-பலியெடுத்த-குழி/175-340806) · `ta`
+
+ஹம்பாந்தோட்டை, திஸ்ஸமஹாராம காவந்திஸ்ஸ புர பகுதியில் நீர் நிரம்பிய கற்குழிக்குள் மூழ்கி தாய் மற்றும் இரண்டு பிள்ளைகள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சம்பவத்தில் தாயும் இரண்டு பிள்ளைகளும் நேற்று (21) பிற்பகல்  நீராடச் சென்ற போது இந்த சம்பவம்  இடம்பெற்றுள்ளது.
+
+32 வயதுடைய தாய், 14 வயது மற்றும் 9 வயதுடைய இரண்டு சிறுவர்களே இவ்வாறு உயிரிழந்துள்ளனர்.
+
+தாயின் சடலம் நேற்றையதினம் இரவு கண்டெடுக்கப்பட்டதோடு, இரு பிள்ளைகளின் சடலங்களை தேடும் நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/ed2ca7f4.json)
+
+---
+
+### හිරුණිකා ට ඇප
+
+*2024-07-22 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199073) · `si`
+
+බරපතළ වැඩසහිත වසර තුනක සිරදඬුවම් නියම වී සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇප මත මුදා හරින ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+
+කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
+
+2015 වසරේ දෙසැම්බර් 21 වනදා දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ අමිල ප්‍රියංක නැමති තරුණයකු කළු පැහැති ඩිෆෙන්ඩර් රථයකින් පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තබා පහරදීම ඇතුළු චෝදනා 18කට වරදකාරිය කෙරුණු හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට කොළඹ මහාධිකරණය විසින් බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් හා රුපියල් තුන් ලක්ෂ හැටදහසක දඩයක්ද නියම කරනු ලැබීය.
+
+එම දඬුවම්වලට එරෙහිව හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ඇපෑලක් ඉදිරිපත්කර ඇති බැවින් ඇයව ඇප මත මුදාහරින ලෙස ඇයගේ නීතිඥවරු විසින් කළ ඇප ඉල්ලීමකට අනුව මෙම තීන්දුව ප්‍රකාශයට පත් කෙරුණි.
+
+◼️
+
+[Data](articles/99452904.json)
+
+---
+
+### முட்டை இறக்குமதி குறித்து இன்று இறுதி முடிவு
+
+*2024-07-22 09:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-இறக்குமதி-குறித்து-இன்று-இறுதி-முடிவு/175-340804) · `ta`
+
+இன்று (22) முதல் முட்டையொன்று சந்தையில் 42 ரூபாய்க்கு விற்பனை செய்யப்படும் என முட்டை உற்பத்தியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+எதிர்காலத்தில் முட்டையின் விலையை மேலும் குறைக்க நடவடிக்கை எடுக்கப்படும் என சங்கத்தின் தலைவர் ஆர்.எம்.சரத் ரத்நாயக்க தெரிவித்தார்.
+
+எவ்வாறாயினும், முட்டையின் விலையை கட்டுப்படுத்தும் வகையில் எதிர்காலத்தில் மீண்டும் முட்டையை இறக்குமதி செய்ய அரசாங்கம் தீர்மானித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இலங்கைக்கு மீண்டும் முட்டைகளை இறக்குமதி செய்வதற்கான தீர்மானம் இன்று அறிவிக்கப்பட உள்ளதாக  வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d187615b.json)
+
+---
+
+### Banaa's poles losing survivors
 
 *2024-07-22 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199072) · `si`
 
-සයින්දමරුදු 09 ප්‍රදේශයේ දී යකඩ පොල්ලකින් පහර දී පුද්ගලයෙකු ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+In Sanda, a 66-year-old man was assaulted with an iron rod, leading to his death. The incident occurred when the victim's estranged husband, whose divorce case is pending, tried to enter their home. The victim's father-in-law confronted him and was subsequently attacked with an iron rod. Police have arrested the husband and four others involved in the crime, all residents of Sanda, Trincomalee, ranging from ages 16 to 33.
 
-මෙලෙස මියගොස් ඇත්තේ 66 හැවිරිදි එම ප්‍රදේශයේ ම පදිංචිව සිටි පුද්ගලයෙකි.
+🟩
 
-මෙම පුද්ගලයාගේ දියණිය ඇයගේ ස්වාමිපුරුෂයාගෙන් වසර 08 කට පෙර වෙන් වී තිබු අතර ඒ සම්බන්ධයෙන් නඩුවක් විභාග වෙමින් පවතී.
+Police say that a person has been assaulted with an iron rod in Sanda, Sanda, 09.
 
-එලෙස නඩුවක් විභාග වෙමින් පැවතිය ද ඇයගේ සැමියා ඊයේ (21) අළුයම කාලයේ අනවසරයෙන් නිවසේ තාප්පයෙන් පැන නිවසට ඇතුළුවීමට උත්සාහ කර ඇත.
+The victim was a 66 year old resident of the same area.
 
-එම අවස්ථාවේ දී දියණියගේ පියා විසින් මෙම පුද්ගලයාව නිවසින් එළියට තල්ලු කර මාර්ගය දෙසට ගමන් කර තිබේ.
+The victim's daughter was separated by her husband eight years ago and a case is pending.
 
-එහිදී එකවරම මෙම පුද්ගලයා විසින් දියණියගේ පියාට යකඩ පොල්ලකින් පහර දී ඇත.
+Despite the fact that a case is being heard, her husband has attempted to enter the house in the house of the house yesterday (21).
 
-ඝාතනය සිදුකළ දියණියගේ ස්වාමිපුරුෂයා සහ අනුබල දුන් තවත් පුද්ගලයන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+At that time, the father of daughter had pushed this person out of the house and headed the way.
 
-සැකකරුවන් අවුරුදු 33, 20, 19, 18, 16, යන වයස්වල පසුවන සයින්දමරුදු ප්‍රදේශයේම පදිංචිකරුවන් බව සඳහන් වේ.
+At once, this person has been attacked by the daughter's father with an iron stick.
+
+Police have arrested the husband of the murder and four others who supported the murder.
+
+The suspects are residents of the Sanda, Trincomalee area, aged 33, 20, 18, 16.
 
 ◼️
 
 [Data](articles/2e19f1d6.json)
+
+[Extended Data](ext_articles/2e19f1d6.ext.json)
 
 ---
 
@@ -73,6 +163,38 @@ When inquired by Ada Derana, Trade Minister Nalin Fernando revealed that the dec
 ◼️
 
 [Data](articles/b1eabb09.json)
+
+[Extended Data](ext_articles/b1eabb09.ext.json)
+
+---
+
+### ஆசிரியர்களும் அதிபர்களும் சட்டப்படி வேலை
+
+*2024-07-22 09:32:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்களும்-அதிபர்களும்-சட்டப்படி-வேலை/175-340803) · `ta`
+
+இன்று (22) முதல் இரண்டு வாரங்களுக்கு ஆசிரியர்கள் மற்றும் அதிபர்கள் தொழிற்சங்க நடவடிக்கையை ஆரம்பிக்கவுள்ளதாக ஆசிரியர்கள் மற்றும் அதிபர்கள் சங்கங்கள் தெரிவிக்கின்றன.
+
+அதன்படி, இன்று முதல் மாகாண கல்வி மற்றும் பிராந்திய கல்வி அலுவலகங்களால் பரிந்துரைக்கப்படும் செயலமர்வுகள் மற்றும் பயிற்சி நிகழ்ச்சிகளில் பங்கேற்க மாட்டோம் என்று அவர்கள் கூறுகின்றனர்.
+
+எதிர்வரும் பதினைந்து நாட்களில் வகுப்பறைகளில் கற்பித்தல் நடவடிக்கைகளில் மாத்திரம் ஈடுபடவுள்ளதாகவும், சகல வெளி நடவடிக்கைகளில் இருந்தும் விலகிக் கொள்வதாகவும் இலங்கை தேசிய அதிபர்கள் சங்கத்தின் பொதுச் செயலாளர் பராக்கிரம விக்கிரமசிங்க தெரிவித்தார்.
+
+எவ்வாறாயினும், அரசியல் இயக்கங்களை வலுப்படுத்தும் நோக்கில் திட்டமிடப்பட்டுள்ள தொழிற்சங்க நடவடிக்கைக்கு தாம் ஆதரவளிக்கவில்லை என ஆசிரியர் - அதிபர் ஒன்றியத்தின் ஒருங்கிணைப்பாளர் உலப்பனே சுமங்கல தேரர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2f0dd780.json)
+
+---
+
+### ஓகஸ்ட் இறுதியில் வருகிறார் எலன் மஸ்க்
+
+*2024-07-22 09:29:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓகஸ்ட்-இறுதியில்-வருகிறார்-எலன்-மஸ்க்/175-340802) · `ta`
+
+எலோன் மஸ்க் தனது Starlink செயற்கைக்கோள் அடிப்படையிலான இணைய சேவையை இலங்கையில் தொடங்குவதற்கு அடுத்த மாதம் இலங்கை வரவுள்ளதாக அதிகாரி ஒருவர்  தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3f19d209.json)
 
 ---
 
@@ -1442,6 +1564,24 @@ Whenever the Sinhalese nation understands the moral struggles and aspirations we
 
 ---
 
+### බැඳුම්කර සහ භාණ්ඩාගාර බිල්පත් වලින් ගත් ණයට වඩා මුදලක් ණය ගෙවා දැමීමට වැය කළා
+
+*2024-07-21 19:26:44* · [`adalk`](https://www.ada.lk/breaking_news/බැඳුම්කර-සහ-භාණ්ඩාගාර-බිල්පත්-වලින්-ගත්-ණයට-වඩා-මුදලක්-ණය-ගෙවා-දැමීමට-වැය-කළා/11-410898) · `si`
+
+මෙම වසරේ පළමු මාස 06 තුළ බැඳුම්කර සහ භාණ්ඩාගාර බිල්පත් මගින් ලබා ගත් ණය ප්‍රමාණයට වඩා රුපියල් බිලියන 129ක ණය මුදලක් රජය ගෙවා දැමීමට සමත්ව ඇතැයි මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා ප්‍රකාශ කළේය.
+
+ඔහු පෙන්වා දුන්නේ අදාළ කාලය තුළ රජය බැ﻿ඳුම්කර සහ භාණ්ඩාගාර බිලපත් මගින් ලබා ගත් සමස්ත ණය ප්‍රමාණය රුපියල් බිලියන 4852ක් වන අතර, එම කාලය තුළ ගෙවා දමා ඇති ණය ප්‍රමාණයේ වටිනාකම රුපියල් බිලියන 4981ක් වන බවයි.
+
+ඒ අනුව ණය ලබා ගැනීම පිළිබඳ සංඛ්‍යාලේඛන පමණක් සියලු පාර්ශ්ව විසින් විමසා සිටියද ණය ගෙවා දැමීමද රජය නිසි පරිදි සිදු කරමින් පවතින බවද ඔහු පැවසීය.
+
+මේ අතර නව මහ බැංකු පනත සම්මත කරමින් ප්‍රතිසංස්කරණ වැඩසටහන ක්‍රියාත්මක කිරීම හේතුවෙන් රජයද සාමාන්‍ය ව්‍යාපාරයක් පවත්වාගෙන යන ආකාරයට ණය ගැනීම සහ ණය ගෙවීම සිදු කළ යුතු බව රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පෙන්වා දුන්නේය.
+
+◼️
+
+[Data](articles/912877a5.json)
+
+---
+
 ### Jarffna Kings team
 
 *2024-07-21 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199062) · `si`
@@ -2095,191 +2235,5 @@ People initially supported the doctor facing issues in Chavakachcheri, but now t
 [Data](articles/6fb08440.json)
 
 [Extended Data](ext_articles/6fb08440.ext.json)
-
----
-
-### What happened to the promises of the hill country?
-
-*2024-07-21 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189001) · `ta`
-
-Doubts persist over President Ranil's use of a seasoned young minister for political diplomacy, questioning the fulfillment of hill country promises.
-
-🟩
-
-There are also doubts about whether President Ranil is using a young minister with political experiences for his political diplomacy. The University of the Hon.
-
-◼️
-
-[Data](articles/77d31a79.json)
-
-[Extended Data](ext_articles/77d31a79.ext.json)
-
----
-
-### Migrant workers to start self-employment. 50 000
-
-*2024-07-21 16:57:32* · [`adalk`](https://www.ada.lk/breaking_news/විගමනික-ශ්‍රමිකයන්ට-ස්වයං-රැකියා-ඇරඹීමට-රු--50-000ක්/11-410889) · `si`
-
-President Ranil Wickremesinghe announced the completion of migrant worker repatriation and praised their contributions during the economic crisis. He inaugurated the "Migama" program aimed at supporting self-employment among returning workers, emphasizing the importance of their remittances to the economy. The President highlighted the need for policy support to protect migrant workers' rights and encouraged them to utilize opportunities for a new life upon return. He also discussed the challenges faced by the economy and the importance of increasing foreign exchange reserves, advocating for formal training for foreign employment and promoting an export economy.
-
-🟩
-
-President Ranil Wickremesinghe said that after the expulsions of migrant workers will be completed and returned to the country.
-
-The President also thanked the country's economy to the country's economy, who gave the country's contribution to the last economic crisis.
-
-President Ranil Wickremesinghe was speaking at the inauguration of the "Migama" program at the Independent Ground of Kurunegala this morning.
-
-Migrant workers have been established in the North Western Province, which was organized by the All-wide range of "wide-island-wide" to the Sri Lankan economy.
-
-The President also offered Rs.
-
-The President did not forget to ensure the necessary policies to ensure the procurement of the migrant and society and ensure the necessary policies, to ensure the rights of migrant workers.
-
-Addressing the House, President Ranil Wickremesinghe further added:
-
-...
-
-[Data](articles/b1989618.json)
-
-[Extended Data](ext_articles/b1989618.ext.json)
-
----
-
-### A terrible accident on the southern highway
-
-*2024-07-21 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199056) · `si`
-
-A tragic car crash occurred on the South Expressway, involving two vehicles.
-
-🟩
-
-Two cars have collided along the South Expressway, police said.
-
-◼️
-
-[Data](articles/718f4825.json)
-
-[Extended Data](ext_articles/718f4825.ext.json)
-
----
-
-### Bangladesh Court of Judgment to provide employment based on eligibility for students' demonstrations
-
-*2024-07-21 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189015) · `ta`
-
-The Bangladesh High Court has overturned the previous allocation system, reducing job quotas for freedom fighters' families to 5% and allocating 2% to minorities, while emphasizing merit-based hiring for students protesting since 1971. This decision followed widespread protests against the earlier 30% quota for freedom fighters' kin, leading to renewed demonstrations over the allocation of jobs among various groups.
-
-🟩
-
-The High Court of Bangladesh has canceled the allocation system in the state of affairs in Bangladesh.
-
-Students staged protests against several parties, including the families of freedom fighters, 30 percent of government employment.
-
-The Supreme Court has announced that only five percent can be allocated to the families of the freedom fighters.
-
-The court has ordered the allocation of five percent to the families of former freedom fighters and 2 percent to the minority community.
-
-Students who have been requested to abandon the allocation of government employment in the country since 1971 have been given employment based on quality.
-
-In 1971, the practice of allocating thousands of state work for a special group, including the children of the freedom struggle, is found in Bangladesh.
-
-It is noteworthy that under this method, women of women and minority ethnic groups are allocated in the state.
-
-There were fierce demonstrations following the suspension of the process in 2018.
-
-...
-
-[Data](articles/ee0d0a55.json)
-
-[Extended Data](ext_articles/ee0d0a55.ext.json)
-
----
-
-### The student complained to the police that the teacher had attacked himself
-
-*2024-07-21 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189009) · `ta`
-
-A student filed a complaint at Kopay police station, alleging that her teacher assaulted himself after failing to complete homework. The police confirmed the incident, stating the teacher claimed he attacked himself due to this failure.
-
-🟩
-
-A complaint has been lodged at the Kopay police station by a schoolgirl saying that the teacher has fiercely assaulted himself as he failed to submit his hand.
-
-It is said that a student of an educated student at a school in Kopay area has lodged a complaint.
-
-The police said that the teacher had complained that he had attacked him because he failed to submit the hand of the lesson.
-
-◼️
-
-[Data](articles/7cc43dda.json)
-
-[Extended Data](ext_articles/7cc43dda.ext.json)
-
----
-
-### 226 years in prison for double murder
-
-*2024-07-21 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199055) · `si`
-
-A man received a 226-year sentence for murdering two women, including recording one death. He was also convicted of sexual abuse and tampering with evidence, adding 28 more years to his term.
-
-🟩
-
-Alaska court has ordered a man sentenced to 226 years in prison for the murder of Alaska Descent.
-
-The man had bully a woman to die and he had also taken steps to video.
-
-If Brian Smith, Kathleen Smith, was sentenced to 99 years in prison regarding the assassination of Katleen Henry and Veronica Aboochuk against the man.
-
-The other 28 years of imprisonment was given in charge of sexual abuse and change evidence.
-
-Brian Stephen Smith, a South African, was later taken US citizenship.
-
-◼️
-
-[Data](articles/f1bfd2af.json)
-
-[Extended Data](ext_articles/f1bfd2af.ext.json)
-
----
-
-### One lane of Southern Expressway blocked for traffic
-
-*2024-07-21 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100670/one-lane-of-southern-expressway-blocked-for-traffic) · `en`
-
-The lane towards Colombo on the Southern Expressway has temporarily been blocked for traffic due to two cars colliding between Baddegama and Pinnaduwa, injuring 5 persons, the Expressway Police said.
-
-The accident took place around 03.30 p.m. this evening (21), between Baddegama and Pinnaduwa interchanges causing injuries to five persons in total.
-
-As a car traveling towards Colombo had skidded off the road and collided with the protective railing before hitting another car coming from behind it, police said.
-
-The injured individuals have been admitted to Baddegama and Karapitiya Hospitals for treatment. Among the injured are a 13-year-old boy and two females, the police said.
-
-Police said that the injured individuals are residents of Athurugiriya and Mathugama areas, and had faced this incident while returning from Kataragama.
-
-◼️
-
-[Data](articles/1693ddb6.json)
-
-[Extended Data](ext_articles/1693ddb6.ext.json)
-
----
-
-### President affirms support for expatriate workers to live with dignity upon return
-
-*2024-07-21 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100669/president-affirms-support-for-expatriate-workers-to-live-with-dignity-upon-return) · `en`
-
-President Ranil Wickremesinghe announced plans to ensure returning migrant workers can live with dignity after completing their service abroad. He thanked these workers for their vital contributions of foreign exchange during the recent economic crisis, acknowledging their crucial role in advancing the country’s economy.
-
-The President made these remarks while addressing the inauguration ceremony of the “Wigamanika Harasara” initiative, held today (21) at the Sathyawadi Ground in Kurunegala. This initiative aims to recognize the impact of migrant workers on the Sri Lankan economy.
-
-To assess the contribution of migrant workers to Sri Lanka’s economy, the “Wigamanika Harasara” program was launched across the country, beginning in the North West Province. Approximately 5,000 migrants from the Kurunegala, Puttalam, Anuradhapura, Matale, and Kegalle districts participated in this initiative.
-
-...
-
-[Data](articles/a263132c.json)
-
-[Extended Data](ext_articles/a263132c.ext.json)
 
 ---

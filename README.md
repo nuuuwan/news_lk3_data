@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 11:55:33**
+As of **2024-07-22 12:09:21**
 
 ## Newspaper Stats
 
-*Scraped **36,531** Articles*
+*Scraped **36,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,97 @@ islandlk | 2,083
 economynextcom | 2,178
 dailyftlk | 2,321
 adalk | 3,295
-adaderanalk | 4,228
-tamilmirrorlk | 4,460
+adaderanalk | 4,230
+tamilmirrorlk | 4,462
 dailymirrorlk | 4,733
 virakesarilk | 5,719
-adaderanasinhalalk | 6,130
+adaderanasinhalalk | 6,131
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,524 (100.0%) of 36,531 articles have been extended.
+36,531 (100.0%) of 36,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### පාසල් ළමුන් ඉලක්ක කරගත් මත්කරල් ජාවාරමක්
+### பிரபல்யமற்ற தீர்மானங்களை எடுக்க நேரிடும்
+
+*2024-07-22 11:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல்யமற்ற-தீர்மானங்களை-எடுக்க-நேரிடும்/175-340821) · `ta`
+
+பிரபல்யமற்ற தீர்மானங்களை எடுத்து நாட்டை பொருளாதார நெருக்கடியில் இருந்து மீட்டது போன்றே, வெள்ளம் மற்றும் டெங்கு பரவலைக் கட்டுப்படுத்துவதற்கான முடிவுகளையும் எடுக்க வேண்டும் என்றும், அதன் பிரதிபலன்கள் இன்னும் சில வருடங்களில் தெரியும் எனவும் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+நாட்டு மக்கள் என்ற வகையில் தமது கடமைகளை சரியாக செய்தால் டெங்கு நோய் இந்தளவுக்கு பரவாது எனவும் அவர் சுட்டிக்காட்டியுள்ளார்.
+
+அண்மையில் கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் நடைபெற்ற இலங்கை செஞ்சிலுவைச் சங்கம் – கொழும்புக் கிளையால் நடத்தப்படும் வெள்ள அபாயங்கள் மற்றும் டெங்கு ஒழிப்பு பிரச்சாரத்தின் ஆரம்ப நிகழ்வில் பங்குபற்றிய தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க இதனைத் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/4698496e.json)
+
+---
+
+### Poland eyes Sri Lankan workers, plans to ease visa facilitations
+
+*2024-07-22 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100689/poland-eyes-sri-lankan-workers-plans-to-ease-visa-facilitations) · `en`
+
+Poland plans to look at Sri Lankan workers in targeted sectors through a G2G agreement for employment, Sri Lanka’s Minister of Foreign Affairs Ali Sabry PC said.
+
+Furthermore, he highlighted that visa facilitations for Sri Lankans to enter Poland will also be eased.
+
+Posting on ‘X’ as he concluded a successful visit to Poland, Sabry expressed gratitude to his counterpart Radosław Sikorski for proposing this novel initiative at his request.
+
+Sri Lanka’s Foreign Minister Sabry had engaged in an official visit to Romania and Poland.
+
+◼️
+
+[Data](articles/d0bedcce.json)
+
+---
+
+### වාඩියක මළ සිරුරක් - තරුණයින් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-07-22 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199079) · `si`
+
+හම්බෙගමුව - කුකුල්කටුව ප්‍රදේශයේ හේනක සකසා තිබූ වාඩියක් තුළ තිබී පුද්ගල මළ සිරුරක් හමුවී තිබේ.
+
+පොලීසිය පැවසුවේ ඊයේ (21) උදෑසන හම්බෙගමුව පොලීසියට ලද තොරතුරක් මත සිදුකළ විමර්ශනයක දී එම සිරුර හමුවූ බවයි.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 51 හැවිරිදි මහගම, මතුගම ප්‍රදේශයේ සිට පැමිණ හම්බෙගමුව - කුකුල්කටුව ප්‍රදේශයේ වගා කටයුතු සිදුකරමින් සිටි පුද්ගලයෙකි.
+
+මෙම පුද්ගලයා තවත් දෙදෙනෙකු සමග එම වාඩියේ මත්පැන් පානය කරමින් සිට ඇති අතර එහිදී ඇති වූ බහින්බස් වීමක් දුරදිග යාමෙන් පසු තියුණූ ආයුධයකින් පහර දී මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී තිබේ.
+
+ඝාතනය සිදුකළ බවට සැකපිට 25 හැවිරිදි සහ 27 හැවිරිදි වයස්වල පසුවන පුද්ගලයින් දෙදෙනෙක් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/029e7edc.json)
+
+---
+
+### Drinking racket targeting school children
 
 *2024-07-22 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199078) · `si`
 
-පාසල් ළමුන් ඉලක්ක කරගනිමින මත්කරල් ජාවාරමේ යෙදී සිටි කාන්තාවක් පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A woman involved in a drinking racket targeting schoolchildren was arrested by the Police Special Task Force in Sri Lanka. The operation took place in the Gonahena camp, where she allegedly supplied alcohol to minors. A 44-year-old local from the Webada area was detained for her involvement. She has been transferred to the Kadawatha Police Station for further investigation.
 
-විශේෂ කාර්ය බළකාය ගෝනහේන කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව ඊයේ (21) දින කඩවත පොලිස් වසමේ අංක 338/5/බි, ගෝනහේන, වෑබඩ ලිපිනයේ දී අදාළ වැටලීම සිදුකර ඇත.
+🟩
 
-එහි දී පාසල් ළමුන් ඉලක්ක කර අලෙවි කිරීම සඳහා‍ මත්කරල් 230ක් සන්තකයේ තබාගෙන සිටි වෑබඩ ප්‍රදේශයේ පදිංචි වයස අවුරුදු 44ක කාන්තාවක් ජංගම දුරකථනයක්ද සමග අත්අඩංගුවට ගැනීමට විශේෂ බළකා නිලධාරින් සමත්වුණි.
+Police Special Task Force officials have arrested a woman who was racket aimed at school children.
 
-වැඩිදුර විමර්ශන සඳහා සැකකාරියව කඩවත පොලිස් ස්ථානය වෙත භාරදී තිබේ.
+The Special Task Force has been carried out by the Gonahena camp at Ganehena.
+
+A 44-year official resident of the Webada area of ​​the 230 alcohol to marke school children with a mobile official was arrested.
+
+The suspect has been handed over to the Kadawatha Police Station.
 
 ◼️
 
 [Data](articles/bd06b22b.json)
+
+[Extended Data](ext_articles/bd06b22b.ext.json)
 
 ---
 
@@ -91,6 +151,24 @@ Investigations have revealed that the suspect had caught the woman's head and hi
 [Data](articles/8e81a400.json)
 
 [Extended Data](ext_articles/8e81a400.ext.json)
+
+---
+
+### ஈரப்பலாகாயால் தாக்கியதில் பெண் பலி
+
+*2024-07-22 11:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரப்பலாகாயால்-தாக்கியதில்-பெண்-பலி/175-340816) · `ta`
+
+தனிப்பட்ட தகராறு காரணமாக 79 வயதுடைய பெண் ஒருவரின் தலையில் ஈரப்பலாகாயால் தாக்கி கொலை செய்த 25 வயதுடைய நபர் கைது செய்யப்பட்டுள்ளதாக மல்சிறிபுர பொலிஸார் தெரிவித்தனர்.
+
+மல்சிரபுரவை சுற்றியுள்ள கிராமத்தில் வசித்து   நான்கு பிள்ளைகளின் தாயான எச்.சி.அசிலின் என்பவர் படுகொலை செய்யப்பட்டுள்ளார்.
+
+இக்கொலை தொடர்பான நீதவான் விசாரணையும் பிரேத பரிசோதனையும் மேற்கொள்ளப்பட்டு மரணத்துடன் தொடர்புடைய சந்தேகநபரான இளைஞன் கைது செய்யப்பட்டுள்ளதாகவும்,  கொலைக்கு பயன்படுத்தப்பட்ட ஈரப்பலாகாயை கைப்பற்றி மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+இரு குடும்பங்களுக்கு இடையில் ஏற்பட்ட தனிப்பட்ட தகராறில் சந்தேகநபர் பெண்ணின் கையில் இருந்த ஈரப்பலாகாயை  பிடுங்கி, அப்பெண்ணின் தலையில் தாக்கியுள்ளதாக விசாரணையில் தெரியவந்துள்ளதாகவும், வைத்தியசாலைக்கு கொண்டு சென்ற போது பெண் உயிரிழந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/e9af91ee.json)
 
 ---
 
@@ -144,6 +222,8 @@ Classical economists Steve Hanke and Robert Higgs calls the tendency for governm
 
 [Data](articles/f4e66ce8.json)
 
+[Extended Data](ext_articles/f4e66ce8.ext.json)
+
 ---
 
 ### Alert issued in India after boy dies from high risk Nipah virus
@@ -172,17 +252,23 @@ The WHO has described the virus as a priority pathogen by the WHO because of its
 
 ---
 
-### හිරුණිකාට සහනයක්
+### Relieved to Hirunika
 
 *2024-07-22 10:42:35* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකාට-සහනයක්/11-410901) · `si`
 
-හිරුණිකා ප්‍රේමචන්ද්‍ර විසින් ඉදිරිපත් කළ ඇප ඉල්ලීම සළකා බැලීමෙන් අනතුරුව බරපතළ වැඩසහිත වසර තුනක සිරදඬුවම් නියම වී සිටින ඇය ඇප මත මුදා හරින ලෙස කොළඹ මහාධිකරණය නියෝග කර තිබෙනවා.
+Hirunika Premachandra was granted bail by the Colombo High Court, which had previously sentenced her to death.
 
-2015 වසරේ දෙසැම්බර් 21 වනදා දෙමටගොඩ ප්‍රදේශයේ වෙළෙඳසැලක සේවය කළ තරුණයකු ඩිෆෙන්ඩර් රථයකින් පැහැරගෙන ගොස් අයුතු ලෙස සිරකර තබා පහරදීම ඇතුළු චෝදනා 18කට වරදකාරිය කෙරුණු හිරුණිකා ප්‍රේමචන්ද්‍රට කොළඹ මහාධිකරණය විසින් බරපතළ වැඩසහිත වසර තුනක සිර දඬුවම් පසුගියදා නියම කර තිබුණා.
+🟩
+
+The Colombo High Court has ordered that she was released on bail after considering the bail of Hirunika Premachandra.
+
+The Colombo High Court recently was sentenced to death by the Colombo High Court.
 
 ◼️
 
 [Data](articles/bc213e24.json)
+
+[Extended Data](ext_articles/bc213e24.ext.json)
 
 ---
 
@@ -325,6 +411,8 @@ In equities, Colombo’s All Share Price Index opened 2.21 points lower at 11,72
 ◼️
 
 [Data](articles/4f89b8d8.json)
+
+[Extended Data](ext_articles/4f89b8d8.ext.json)
 
 ---
 
@@ -742,6 +830,8 @@ In 2023, the government borrowed 1.52 billion US dollars to finance its deficit,
 
 [Data](articles/6f6fd573.json)
 
+[Extended Data](ext_articles/6f6fd573.ext.json)
+
 ---
 
 ### Final decision on importation today
@@ -783,6 +873,22 @@ It is reported that the mother and her two children had gone to bathe in this wa
 [Data](articles/dbe192bd.json)
 
 [Extended Data](ext_articles/dbe192bd.ext.json)
+
+---
+
+### Woman and two children drown in abandoned water-filled quarry
+
+*2024-07-22 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100679/woman-and-two-children-drown-in-abandoned-water-filled-quarry) · `en`
+
+A 32-year-old woman and her two daughters, aged 9 and 14, have drowned in an abandoned water-filled quarry at Kawanthissapura, Tissamaharama.
+
+The woman’s body has been recovered, and a search is underway to recover the bodies of the two daughters, according to the police.
+
+It is reported that the mother and her two children had gone to bathe in this water-filled quarry last evening (21).
+
+◼️
+
+[Data](articles/fc5d7905.json)
 
 ---
 
@@ -1003,6 +1109,8 @@ Some democrats are calling for an ‘open process’ to select a new candidate.
 ...
 
 [Data](articles/8166e06e.json)
+
+[Extended Data](ext_articles/8166e06e.ext.json)
 
 ---
 
@@ -2163,129 +2271,5 @@ In response to this, a spokesman for the Sri Lanka Environmental Protection Auth
 [Data](articles/df0a2b64.json)
 
 [Extended Data](ext_articles/df0a2b64.ext.json)
-
----
-
-### President invites the victim and Sajith
-
-*2024-07-21 19:18:02* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-හා-සජිත්ට-ජනපතිගෙන්-ආරාධනාවක්/11-410897) · `si`
-
-President Ranil Wickremesinghe, addressing a crowd in Gampaha, emphasizes the importance of national unity and progress over political agendas. He invites opposition leaders Sajith Premadasa and Anura Kumara Dissanayake to join his efforts to rebuild the country, highlighting achievements like agricultural modernization and educational reforms. He stresses the need for a future driven by the needs of the nation, not politicians' agendas, and calls for collective action to avoid repeating past mistakes.
-
-🟩
-
-Never allow the future of the country by political agenda
-
-Sajith Premadasa and Anura Kumara Dissanayake invites Sajith Premadasa to join the journey.
-
-Two years ago, I accepted a country where there was no government.
-
-Let us take a good future for building a good future - "We win the winning -" We will call on the masses in Gampaha.
-
-He said that he would invite Sajith Premadasa and Anura Kumara Dissanayake said that he would not allow the future of the country according to the political agenda of the country.
-
-President Ranil Wickremesinghe made this statement at the Kadawatha bus stand today (21) at Kadawatha today.
-
-The President was warmly welcomed in the Gampaha District to educate the public on government program and the public.
-
-Minister Prasanna Ranatunga should be presented by President Ranil Wickremesinghe to come forward to the next presidential election.The proposal was lifted unanimously, lifting heavy hands.
-
-...
-
-[Data](articles/c7468a60.json)
-
-[Extended Data](ext_articles/c7468a60.ext.json)
-
----
-
-### President joins 26 ministers and MPs in Pohoth
-
-*2024-07-21 19:04:41* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මැති-ඇමතිවරු-26ක්-කඩවත-ජනපතිගේ-ජයගමු-රැළියට-එක්වෙති/11-410896) · `si`
-
-President Ranil Wickremesinghe met with over 250 local government delegates and 26 ministers in Pohottuwa, preparing for the upcoming presidential election in Kadawatha.
-
-🟩
-
-President Ranil Wickremesinghe should join President Ranil Wickremesinghe to be presented to the next presidential election in KadawathaPresident states the media unit.
-
-More than 250 local government delegates, along with 26 local government representatives, joined the President with 26 ministers in Povett.
-
-◼️
-
-[Data](articles/b8efb465.json)
-
-[Extended Data](ext_articles/b8efb465.ext.json)
-
----
-
-### Former INSS Director Asanka Abeygunasekara granted bail
-
-*2024-07-21 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100674/former-inss-director-asanka-abeygunasekara-granted-bail) · `en`
-
-The former Director General of the Institute of National Security Studies of Sri Lanka (INSS) Asanka Abeygunasekara, who was arrested this morning (21), has been granted bail after being produced before the court.
-
-Thus, the Negombo Magistrate Rakhitha Abeysinghe has ordered the suspect to be released on two surety bail of Rs 1 million each.
-
-Furthermore, the magistrate ordered Abeygunasekara to appear before the Colombo Magistrate’s Court on August 09, 2024, Ada Derana reporter said.
-
-The former INSS Director General was arrested this morning at the Bandaranaike International Airport (BIA) in Katunayake upon arrival from overseas. There was a pending open warrant over a case filed by the Inland Revenue Department (IRD) against Abeygunasekara, according to police.
-
-◼️
-
-[Data](articles/173af16c.json)
-
-[Extended Data](ext_articles/173af16c.ext.json)
-
----
-
-### Suspect remanded again
-
-*2024-07-21 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199060) · `si`
-
-The main suspect in the Police Emergency Complex case has been remanded until August 02. The suspect stole a friend's SIM card and made a call using it. Despite having no direct link to the phone's registered owner, the investigation led to the arrest and remand of both the caller and the phone's owner.
-
-🟩
-
-The main suspect in the Police Emergency Complex has been remanded until August 02.
-
-The suspect had been given a friend's mobile phone number on the 2nd, with the objective of making a suitability.
-
-The suspect in the Ginigathena has been revealed to his mobile, stolen a friend's Simcoad and has taken the call.
-
-It was revealed that he had no direct link to the registered owner of the telephone number and interrogation.
-
-Accordingly, the owner of the phone has been established on the phone's number on the phone, used to obtain the call.
-
-The owner of the person who was calling on the incident and the owner of the telephone symptoms were arrested and remanded after submitting to the court.
-
-◼️
-
-[Data](articles/c4169cd6.json)
-
-[Extended Data](ext_articles/c4169cd6.ext.json)
-
----
-
-### Did the 700 lakhs for foreign travel?Anura arrives in Sri Lanka
-
-*2024-07-21 18:38:55* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ගමන්-සඳහා-ලක්ෂ 700-ගියාද--අනුර-ලංකාවට-ඇවිත්-උත්තර-දෙනවලු/11-410895) · `si`
-
-Anura Kumara Dissanayake, leader of the National Zoology, discussed the use of government funds for foreign travel, stating it wasn't government money but rather national resources. He highlighted the importance of engaging with the global community, especially skilled youth in countries like Japan, to boost Sri Lanka's economy. He criticized the spending on his visit, suggesting it could have been better allocated domestically.
-
-🟩
-
-Leader of National Zoology Anura Kumara Dissanayake said that the cost of Rs.. He also said that the national atorian has been spent on the government money is not government money.
-
-Anura Kumara Dissanayake made this observation at a meeting held at Japan yesterday (21). Leader of the National Power Anura Kumara Dissanayake said that the prospect of the compress is a country that can be done with any country in the world, said the leader of the National Jones.
-
-He said that under a government's government, the Passover attack would be ensured that the Passover attack is being made again and that such a disaster would be taken back to the law.. He was responding to a question raised by a woman who was involved in the public.
-
-"In Japan, we are being held on the last last-end foreign Sri Lankan. Japan used the final meeting of calling Sri Lankans abroad because a large group of people who could engage in our economy in our country are in Japan.
-
-...
-
-[Data](articles/886ee85b.json)
-
-[Extended Data](ext_articles/886ee85b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 09:35:47**
+As of **2024-07-22 09:54:43**
 
 ## Newspaper Stats
 
-*Scraped **36,498** Articles*
+*Scraped **36,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,113 @@ islandlk | 2,083
 economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,291
-adaderanalk | 4,222
+adaderanalk | 4,223
 tamilmirrorlk | 4,449
 dailymirrorlk | 4,733
 virakesarilk | 5,719
-adaderanasinhalalk | 6,123
+adaderanasinhalalk | 6,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,495 (100.0%) of 36,498 articles have been extended.
+36,498 (100.0%) of 36,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### நீர் நிரம்பிய கற்குழிக்குள் மூழ்கி தாயும் இரண்டு பிள்ளைகளும் உயிரிழப்பு!
+### බැනාගේ පොලු පහරින් මාමණ්ඩියට දිවි අහිමි වෙයි
+
+*2024-07-22 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199072) · `si`
+
+සයින්දමරුදු 09 ප්‍රදේශයේ දී යකඩ පොල්ලකින් පහර දී පුද්ගලයෙකු ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ 66 හැවිරිදි එම ප්‍රදේශයේ ම පදිංචිව සිටි පුද්ගලයෙකි.
+
+මෙම පුද්ගලයාගේ දියණිය ඇයගේ ස්වාමිපුරුෂයාගෙන් වසර 08 කට පෙර වෙන් වී තිබු අතර ඒ සම්බන්ධයෙන් නඩුවක් විභාග වෙමින් පවතී.
+
+එලෙස නඩුවක් විභාග වෙමින් පැවතිය ද ඇයගේ සැමියා ඊයේ (21) අළුයම කාලයේ අනවසරයෙන් නිවසේ තාප්පයෙන් පැන නිවසට ඇතුළුවීමට උත්සාහ කර ඇත.
+
+එම අවස්ථාවේ දී දියණියගේ පියා විසින් මෙම පුද්ගලයාව නිවසින් එළියට තල්ලු කර මාර්ගය දෙසට ගමන් කර තිබේ.
+
+එහිදී එකවරම මෙම පුද්ගලයා විසින් දියණියගේ පියාට යකඩ පොල්ලකින් පහර දී ඇත.
+
+ඝාතනය සිදුකළ දියණියගේ ස්වාමිපුරුෂයා සහ අනුබල දුන් තවත් පුද්ගලයන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් අවුරුදු 33, 20, 19, 18, 16, යන වයස්වල පසුවන සයින්දමරුදු ප්‍රදේශයේම පදිංචිකරුවන් බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/2e19f1d6.json)
+
+---
+
+### Egg prices likely to drop as govt mulls importing again
+
+*2024-07-22 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100683/egg-prices-likely-to-drop-as-govt-mulls-importing-again) · `en`
+
+According to the All Ceylon Egg Producers Association, eggs will be released to the market at the price of Rs. 42 per egg starting from today (22).
+
+President of the association, R.M. Sarath Ratnayake said that steps will be taken to further reduce the price of eggs in the near future.
+
+However, it has been reported that the government plans to import eggs once again in the future to control the prices.
+
+When inquired by Ada Derana, Trade Minister Nalin Fernando revealed that the decision regarding importing eggs to Sri Lanka again is expected to be announced today (22).
+
+◼️
+
+[Data](articles/b1eabb09.json)
+
+---
+
+### Mother and two children die after drowning in a water -filled foot!
 
 *2024-07-22 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189047) · `ta`
 
-அம்பாந்தோட்டை, திஸ்ஸமஹாராம காவந்திஸ்ஸ புர பகுதியில் நீர் நிரம்பிய கற்குழிக்குள் மூழ்கி தாய் மற்றும் இரண்டு பிள்ளைகள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A family tragedy occurred in Tissamaharama Kavandisa Pur, Hambantota, where a mother and her two sons drowned in a water-filled area. The incident happened during an afternoon visit to the site. The mother, aged 32, and her sons, aged 14 and 9, lost their lives. Their bodies are still being recovered.
 
-தாயும் இரண்டு பிள்ளைகளும் நேற்று ஞாயிற்றுக்கிழமை (21) பிற்பகல்  நீராடச் சென்ற போது இந்த சம்பவம்  இடம்பெற்றுள்ளது.
+🟩
 
-32 வயதுடைய தாய், 14 வயது மற்றும் 9 வயதுடைய இரண்டு சிறுவர்களே இவ்வாறு உயிரிழந்துள்ளனர்.
+The mother and two children have died after drowning in a water -filled tract in Tissamaharama Kavandisa Pur, Hambantota, police said.
 
-தாயின் சடலம் நேற்றையதினம் இரவு கண்டெடுக்கப்பட்டதோடு, இரு பிள்ளைகளின் சடலங்களை தேடும் நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+The incident took place when the mother and two children went to the water yesterday (21) afternoon.
+
+The 32 -year -old mother, two boys aged 14 and 9, died.
+
+The mother's body was found last night and the bodies of the two children were being searched, police said.
 
 ◼️
 
 [Data](articles/a2baa240.json)
 
+[Extended Data](ext_articles/a2baa240.ext.json)
+
 ---
 
-### இவ் வருடத்தின் இதுவைரையான காலப்பகுதியில் 10 இலட்சம் சுற்றுலா பயணிகள் வருகை
+### 10 lakh tourists visit this year during this period
 
 *2024-07-22 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189046) · `ta`
 
-இந்த வருடம் ஜனவரி முதலாம் திகதி  முதல் ஜூலை மாதம் 18 ஆம் திகதி வரை நாட்டிற்கு 1,019,642  சுற்றுலா பயணிகள் வருகை தந்துள்ளனர்.
+From January 1 to July 18, 1,019,642 tourists visited the country, including 27,574 Indians (25.2% of total). The highest weekly count was 43,083 in the first week of July. Significant visitors included tourists from Britain, China, Germany, and the Netherlands.
 
-அதன்படி, ஜூலை மாதம் முதல் வாரத்தில் 43,083 பேரும், இரண்டாம் வாராத்தில் 42,343 பேரும்,  மூன்றாவது வாரத்தின் முதல் நான்கு நாட்களில் 23,967 பேரும் வருகை தந்துள்ளதாக  சுற்றுலா அபிவிருத்தி அதிகாரசபை வெளியிட்டுள்ள  தரவுகளில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இதேவேளை, ஜூலை மாதம் மூன்றாவது வாரத்தின் முதல் நான்கு நாட்களில் 23,967 பேர் வருகை தந்துள்ளனர்.
+From January 1 to July 18 this year, 1,019,642 tourists have visited the country.
 
-ஜூலை 18 ஆம் திகதி வரையான காலப்பகுதியில் 27,574 இந்திய சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர். இது நாட்டிற்கு வருகை தந்த மொத்த சுற்றுலாப் பயணிகளின் வருகையில் 25.2 சதவீதம் ஆகும்.
+According to data issued by the Tourism Development Authority, 43,083 in the first week of July, 42,343 in the second week and 23,967 in the first four days of the third week.
 
-பிரித்தானியா,சீனா, ஜேர்மனி மற்றும் நெதர்லாந்து ஆகிய நாடுகளிலிருந்தும் குறிப்பிடத்தக்க எண்ணிக்கையிலான சுற்றுலாப் பயணிகள் வருகை தந்துள்ளதாக சுற்றுலா அபிவிருத்தி அதிகாரசபை தெரிவித்துள்ளது.
+Meanwhile, 23,967 people arrived in the first four days of the third week of July.
+
+27,574 Indian tourists visited the period until July 18. This is 25.2 per cent of the total tourist arrivals who visit the country.
+
+A significant number of tourists from Britain, China, Germany and the Netherlands have been visited, the Tourism Development Authority said.
 
 ◼️
 
 [Data](articles/685c46c6.json)
+
+[Extended Data](ext_articles/685c46c6.ext.json)
 
 ---
 
@@ -874,21 +930,27 @@ Our government, which is participating in the Tamil Progressive Alliance, will s
 
 ---
 
-### மரணத்தை ஏற்படுத்தும் வீதியாக மாறிய ஏ-9 வீதி
+### A-9 Street
 
 *2024-07-22 00:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணத்தை-ஏற்படுத்தும்-வீதியாக-மாறிய-ஏ-9-வீதி/175-340793) · `ta`
 
-யாழ்ப்பாணம் அரியாலை சந்தி, ஏ-9 வீதியில் நீண்ட தூரத்துக்கு மண் கொட்டப்பட்டு காணப்படுவதால் பயணிகள் மிகுந்த சிரமத்தின் மத்தியிலும் பயத்தின் மத்தியிலும் பயணத்தை மேற்கொள்கின்றனர்.
+In Jaffna, travelers face danger due to mudslides blocking the A-9 road at Ariyalai junction. Soil was dumped, possibly by smugglers fleeing from the police, causing accidents and fears of fatalities. Authorities like the Nallur Pradeshiya Sabha and the Road Development Authority haven't acted yet, leading locals to call for immediate cleanup to ensure safe travel.
 
-குறித்த வீதியில் மண் கொட்டப்பட்டு காணப்படுகின்றது. சனிக்கிழமை (20) இரவே இவ்வாறு மண் கொட்டப்பட்டுள்ளது. மண் கடத்தல்காரர்களை பொலிஸார் துரத்தியவேளை அவர்கள் வீதியில் மண்ணை கொட்டிவிட்டு சென்றிருக்கலாம் என சந்தேகிக்கப்படுகிறது.
+🟩
 
-குறித்த வீதியில் வளைவு காணப்படுவதுடன் அந்த வளைவில் ஏற்கெனவே விபத்துக்கள் இடம்பெற்றும் உள்ளன. இந்நிலையில் கொட்டப்பட்டுள்ள மண்ணினால் மேலும் விபத்துக்குகள் ஏற்படுவதற்கான சந்தர்ப்பங்கள் அதிகம் உள்ளன. இதனால் மரணம் கூட சம்பவிக்கக்கூடும் என மக்கள் அச்சம் வெளியிட்டுள்ளனர்.
+Travelers are traveling in the midst of great difficulty and fear as the mudslides are being dumped on the Ariyalai junction in Jaffna and A-9 road.
 
-குறித்த மண்ணை அகற்றுவதற்கு நல்லூர் பிரதேச சபையோ அல்லது வீதி அபிவிருத்தி அதிகாரசபையோ இதுவரை எந்தவிதமான நடவடிக்கைகளும் எடுக்கவில்லை. எனவே, கொட்டிக்கிடக்கும் மண்ணை வீதியில் இருந்து அகற்றி பாதுகாப்பான போக்குவரத்துக்கு வழிசமைக்குமாறு மக்கள் கேட்டுக் கொள்கின்றனர்.
+The road is poured into the road. The soil is poured on Saturday (20) night. It is suspected that the police chased the soil smugglers and they may have poured the soil on the street.
+
+The road is on the road and the ramp already occurred. In this case, there are more casualties that cause more accidents. People have expressed fears that death may also occur.
+
+Neither the Nallur Pradeshiya Sabha or the Road Development Authority has taken any action to remove the soil. Therefore, people are urging people to remove the soil from the road and make way for safe transport.
 
 ◼️
 
 [Data](articles/0eb791e0.json)
+
+[Extended Data](ext_articles/0eb791e0.ext.json)
 
 ---
 
@@ -2219,53 +2281,5 @@ To assess the contribution of migrant workers to Sri Lanka’s economy, the “W
 [Data](articles/a263132c.json)
 
 [Extended Data](ext_articles/a263132c.ext.json)
-
----
-
-### Club spring murder;Detention guard
-
-*2024-07-21 15:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-வசந்த-கொலை-யுவதிக்கு-தடுப்பு-காவல்/175-340762) · `ta`
-
-Yuvati, a 21-year-old, was arrested for aiding in the Club Spring murder and appeared before a magistrate. The court granted police 48 hours to investigate her involvement in the death of Club Vasantha.
-
-🟩
-
-21 -year -old Yuvati, who was arrested in connection with the club spring murder, was presented in the presence of the Kaduwela response Magistrate on Sunday (21).
-
-The court has allowed the police to investigate the girl for 48 hours.
-
-Police said that he was arrested on charges of assisting the murder of the club Vasantha by the Southern Provincial Crime Branch of the Western Province.
-
-◼️
-
-[Data](articles/b76d447b.json)
-
-[Extended Data](ext_articles/b76d447b.ext.json)
-
----
-
-### Court order to work in Bangladesh in Bangladesh
-
-*2024-07-21 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199054) · `si`
-
-In Bangladesh, tensions escalated after a court ruling requiring 30% of government positions to be filled by freedom fighters' descendants. Reports indicate violence, with international outlets like BBC confirming deaths. The decision also emphasizes merit-based hiring, limiting familial job allocations to 5%. A curfew was imposed in Dhaka amidst the unrest.
-
-🟩
-
-Bangladesh was an aggressive situation over the past few days due to a court order that 30% of government jobs should be given to the freedom struggle.
-
-International media reports that many of them have been killed.
-
-BBC reported that 100 of them died.
-
-It indicates that 93% of government jobs should be given on qualifications. It is said that the members of the family should be given only 5% of the government jobs.
-
-The curfew has been imposed today and the streets of Dhaka, the capital.
-
-◼️
-
-[Data](articles/0a5ff975.json)
-
-[Extended Data](ext_articles/0a5ff975.ext.json)
 
 ---

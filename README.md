@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 21:55:12**
+As of **2024-07-22 22:08:51**
 
 ## Newspaper Stats
 
-*Scraped **36,621** Articles*
+*Scraped **36,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,084
 economynextcom | 2,184
 dailyftlk | 2,321
 adalk | 3,309
-adaderanalk | 4,246
+adaderanalk | 4,247
 tamilmirrorlk | 4,470
 dailymirrorlk | 4,733
 virakesarilk | 5,740
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,621 (100.0%) of 36,621 articles have been extended.
+36,621 (100.0%) of 36,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### Teachers’ and principals’ issues to be addressed within this week – Edu. Minister
+
+*2024-07-22 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/100707/teachers-and-principals-issues-to-be-addressed-within-this-week-edu-minister) · `en`
+
+Minister of Education Susil Premajayantha assures that the issues raised by teacher-principal trade unions will be addressed within this week.
+
+Several teacher-principal trade unions launched a two-week-long work-to-rule campaign starting today (22) in protest of the government’s inaction in resolving teacher-principal salary discrepancies.
+
+Accordingly, teachers and principals claimed that they will not fulfil any professional commitments beyond their usual academic activities.
+
+Meanwhile, the Convenor of the National Collective Against Teachers’ & Principals’ Salary Disparities Ven. Ulapane Sumangala Thero said that they do not support the union action planned with the aim of strengthening political movements.
+
+However, Minister Premajayantha stated that the trade union action will not hinder academic activities in schools.
+
+◼️
+
+[Data](articles/9d0a1e1e.json)
+
+---
 
 ### Trade union action if not dismissed - GMOA Warning
 
@@ -2365,25 +2385,5 @@ The people call for health sectors to wear the deer to hospitals to get rid of v
 [Data](articles/51e6b43d.json)
 
 [Extended Data](ext_articles/51e6b43d.ext.json)
-
----
-
-### Bail for Hirunika
-
-*2024-07-22 10:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவுக்கு-பிணை/175-340810) · `ta`
-
-The Colombo High Court granted bail to former MP Hirunika Premachandra, sentenced to three years for her role in the 2015 abduction. She must pay Rs 2 million in cash and provide two sureties of Rs 500,000 each, along with adhering to a travel ban.
-
-🟩
-
-The Colombo High Court on Thursday (22) granted bail to former MP Hirunika Premachandra, who was sentenced to three years in prison in connection with the 2015 abduction.
-
-Colombo High Court Judge Amal Ranarajah has ordered Hirunika Premachandra to be released on cash bail of Rs 2000. 50 thousand rupees in cash and two bodies worth Rs 500,000 lakh. In addition, the accused was imposed on a travel ban.
-
-◼️
-
-[Data](articles/fa89675d.json)
-
-[Extended Data](ext_articles/fa89675d.ext.json)
 
 ---

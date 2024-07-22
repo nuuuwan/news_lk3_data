@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 13:20:23**
+As of **2024-07-22 13:35:52**
 
 ## Newspaper Stats
 
-*Scraped **36,548** Articles*
+*Scraped **36,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,106 @@ adalk | 3,299
 adaderanalk | 4,232
 tamilmirrorlk | 4,462
 dailymirrorlk | 4,733
-virakesarilk | 5,719
-adaderanasinhalalk | 6,132
+virakesarilk | 5,725
+adaderanasinhalalk | 6,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,547 (100.0%) of 36,548 articles have been extended.
+36,548 (100.0%) of 36,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### පවිත්‍රා ගේ ගැසට්ටුවට එරෙහි පෙත්සම විභාගයට
+### බයිඩන් ට වඩා හැරිස් පරාජය කිරීම පහසුයි - ට්‍රම්ප්
 
-*2024-07-22 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199080) · `si`
+*2024-07-22 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199081) · `si`
 
-මන්නාරම වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයෙන් කොටසක් රක්ෂිත භාවයෙන් මුදාහරිමින් වනජීවී අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය විසින් නිකුත්කළ ගැසට් නිවේදනයක් බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (22) අවසර ලබාදුන්නේය.
+එළැඹෙන අමෙරිකානු ජනාධිපතිවරණයේදී තමාට පහසුවෙන් ඩිමොක්‍රටික් පක්ෂයේ කමලා හැරිස් ව පරාජය කළ හැකිවෙතැයි රිපබ්ලිකන් පක්ෂ අපේක්ෂක ඩොනල්ඩ් ට්‍රම්ප් පවසයි.
 
-පරිසර යුක්ති කේන්ද්‍රය ඇතුළු පිරිසක් විසින් ඉදිරිපත්කළ මෙම මූලික අයිතිවාසිකම් පෙත්සම සලකාබැලීමෙන් අනතුරුව ප්‍රීති පද්මන් සූරසේන සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+ඔහු පවසන්නේ බයිඩන් ට වඩා පවසුවෙන් හැරිස් ව පරාජය කළ හැකි බවයි.
 
-ඉන් අනතුරුව පෙත්සම් විභාගය නොවැම්බර් මස 12 වනදා පැවැත්වීමට ද අධිකරණය දින නියම කළේය.
+ඩිමොක්‍රොටික් පක්ෂය නියෝජනය කරමින් අමෙරිකාවේ මීලඟ ජනාධිපතිවරණයට ඉදිරිපත්විමට සූදානම්වී සිටියේ වත්මන් අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ය.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ රක්ෂිත වනාන්තර කලාපයක් ලෙස නම්කර තිබෙන වෙඩිතලතිව් රක්ෂිත කලාපයෙන් අක්කර දෙදහස් පන්සීයකට ආසන්න භූමි ප්‍රමාණයක් ඉස්සන් වගාවට යැයි සඳහන් කරමින් රක්ෂිත භාවයෙන් මුදාහැරීම සඳහා වනජීවී විෂයභාර අමාත්‍යවරිය විසින් ගැසට් නිවේදනයක් නිකුත් කර ඇති බවයි.
+කෙසේ නමුත් 81 හැවිරිදි ජනාධිපතිවරයාගේ වයස්ගතභාවය සහ සෞඛ්‍ය මෙන්ම මතකය සම්බන්ධව විවිධ පාර්ශ්ව ප්‍රශ්නකිරීමත් සමඟ ඔහුගේ අපේක්ෂකත්වය පිළිබඳව එම පක්ෂය තුළම ප්‍රබල විරෝධයක් ගොඩනැගුණි.
+
+මෙම විරෝධය තීව්‍ර වූයේ පසුගිය ජුනි මාසයේදී පැවැති පළමු ජනාධිපතිවරණ විවාදයෙන් අනතුරුවය.
+
+එහිදී රිපබ්ලිකන් පක්ෂ ජනාධිපතිවරණ අපේක්ෂකයා වන හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් හමුවේ ජනාධිපති බයිඩන් පෙන්වූයේ දුර්වල වාග් විලාශයකි.
+
+එමෙන්ම ඊට පෙරත් අවස්ථා රැසකදී ජනාධිපතිවරයා බිම ඇදවැටුණු අතර, විවිධ හැසිරීම් පෙන්නුම් කරමින් මෙන්ම වචන පටලවා ගනිමින් ලැජ්ජාවටද පත්වුණි.
 
 ...
 
+[Data](articles/6323233c.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-22 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189078) · `ta`
+
+இன்று திங்கட்கிழமை (ஜூலை 22) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 298.8995 ரூபாவாகவும், விற்பனை விலை 308.1989 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/ec602f15.json)
+
+---
+
+### Petition against Pavithra's gazettes to be heard
+
+*2024-07-22 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199080) · `si`
+
+The Supreme Court has agreed to hear a petition challenging a gazette notification by the Minister of Public that releases the Shriman Cultivation from the Vedithalthivu Reserve Zone. The petition, filed by Ms. Pavithravan Wanniarachchi and supported by the Center and others, argues that this action violates wildlife protection laws and threatens local biodiversity. The court will examine the petition on November 12.
+
+🟩
+
+The Supreme Court today granted permission to hear a fundamental rights petition filed by Ms. Pavithravan Wanniarachchi, who was released by Ms. Pavithravan Wanniarachchi.
+
+The fundamental rights petition, which was presented by the Center and a group of people, issued the order by a Supreme Court panel of Supreme Court and Shiran Gunaratne.
+
+The court ordered the Petition Examination on November 12.
+
+The petitioners claim that the Minister of Public has issued a gazette notification to release the Shriman Cultivation from the Vedithalthivu Reserve Zone, designated as a reserve monastery.
+
+The gazette notification stated that the Petitions referred to the provisions of the Wildlife and Flora Ordinance and that the migration birds and hydrologicals enter the forest zone.
+
+Petitioners call on the Supreme Court to issue a gazette notification order to issue a gazette notification order since the biodiversity of the area is also influenced by biodiversity.
+
+◼️
+
 [Data](articles/b5053c83.json)
+
+[Extended Data](ext_articles/b5053c83.ext.json)
+
+---
+
+### Russia is the fourth economic force in the world
+
+*2024-07-22 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189023) · `ta`
+
+In early June, the World Bank ranked Russia as the fourth-largest economy globally based on PPP, surpassing Germany due to cheaper gas and political instability. Russia's economic growth, initially lagging, surged post-Ukraine invasion, aiming for global dominance. Despite challenges, including sanctions and a shift towards militarization, Russia's economy boomed, with the World Bank tripling its growth forecast to 3.2%. However, Russia still trails India and China in size, with the shadow economy potentially underestimating its true GDP.
+
+🟩
+
+According to the World Bank's data, published in early June, the Russian economy has become the fourth developed country in the world based on Purchase- Power and Balance (PPP).
+
+According to PNE report last August, Russia has already behind Germany to become the fifth largest economy. The cheapest Russian gas was cut off, and German has now been stagnant and suffered from recent political events and fell to sixth place in the World Bank rankings.
+
+Purchase-Power-Balance (PPP) and Gross National Production Measurement is preferred by many economists. This is because it takes into account the difference between local prices and nominal prices.
+
+The World Bank has upgraded Russia's ranking after reviewing its data. And Russia says that Japan has actually overtaken Japan in 2021 and has since retained the fourth place since.
+
+Its earlier calculations were based on 2017 data, but these are now updated to reflect 2021 statistics.
+
+...
+
+[Data](articles/f2e4dfd0.json)
+
+[Extended Data](ext_articles/f2e4dfd0.ext.json)
 
 ---
 
@@ -133,6 +205,44 @@ The suspect has been handed over to the Kadawatha Police for further investigati
 [Data](articles/478458a9.json)
 
 [Extended Data](ext_articles/478458a9.ext.json)
+
+---
+
+### அமெரிக்காவின் பல பிரபலங்கள் கமலா ஹரிசிற்கு ஆதரவு
+
+*2024-07-22 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189072) · `ta`
+
+அமெரிக்க ஜனாதிபதி தேர்தல் போட்டியிலிருந்து  ஜோபைடன் விலகி கமலா ஹரிஸ் போட்டியிடவேண்டும் என விருப்பம் வெளியிட்டுள்ள நிலையில் அமெரிக்காவின் பல பிரபலங்கள்  கமலா ஹரிசிற்கு ஆதரவு வெளியி;;ட்டுள்ளனர்.
+
+ஹரிஸ் நம்பகரமானவர் ஆழமாக மக்களால் பரிசோதிக்கப்பட்டவர் என நடிகை ஜேமி லீ ஹேட்ரிஸ் தெரிவித்துள்ளார்.
+
+பெண்கள் மற்றும் வெள்ளையர் அல்லாதவர்களின் உரிமைகளிற்காக வலுவான விதத்தில் குரல்கொடுப்பவர் அமெரிக்கா தேசிய ரீதியில் பெரும் பிளவை சந்தித்துள்ள தருணத்தில் அவரது செய்தி அமெரிக்காவிற்கு நம்பிக்கையை ஐக்கியத்தை அளிக்கும் ஒன்று என அவர் தெரிவித்துள்ளார்.
+
+இது பெண்களின் உலகம் நீங்கள் அதில் வாழ்வது அதிஸ்டம் என பாடகர் கட்டி பெரி இன்ஸ்டாவில் பதிவிட்டுள்ளார்.
+
+எக்ஸ் தளத்தில் நகைச்சுவை நடிகர் போட்டியிலிருந்து விலகும் ஜோ பைடனின் முடிவு குறித்து லெஜென்ட் என பதிவிட்டுள்ளார்.
+
+எங்கள் ஜனநாயகத்தை காப்பாற்றியமைக்காகஜோ பைடனிற்கு நாங்கள் நன்றியுடையவர்களாக விளங்கவேண்டும் என ஒஸ்கர் வென்ற நடிகை பார்பரா ஸ்டிரெய்ஸான்ட் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/412d5b27.json)
+
+---
+
+### யாழில் இளைஞர்களிடம் 75 இலட்சம் ரூபா மோசடி - இரு பெண்கள் உள்ளிட்ட மூவர் கைது!
+
+*2024-07-22 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189068) · `ta`
+
+யாழ்ப்பாணத்தை சேர்ந்த இளைஞர்களிடம் வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக கூறி பெருந்தொகையான பண மோசடியில் ஈடுபட்ட குற்றச்சாட்டில் இரு பெண்கள் உட்பட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக கூறியவர்களை நம்பி பணத்தினை கொடுத்து ஏமாந்த மூவர் வழங்கிய முறைப்பாட்டின் அடிப்படையில், விசாரணைகளை முன்னெடுத்த யாழ்ப்பாண பொலிஸார் மூவரை கைது செய்துள்ளனர்
+
+மானிப்பாய் பகுதியை சேர்ந்த பெண்ணொருவரை 10 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும், காத்தான்குடி பகுதியை சேர்ந்தவரும் தற்போது களுத்துறை பகுதியில் வசித்து வரும் பெண்ணொருவரை 25 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும் , யாழ்ப்பாணத்தை சேர்ந்தவரும் தற்போது தெஹிவளையில் வசித்து வரும் நபரொருவரை 40 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும் பொலிஸார் கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/c80d0e1d.json)
 
 ---
 
@@ -312,6 +422,50 @@ Speaking at a political rally in Gampaha on Sunday July 21, Wickremesinghe said 
 
 ---
 
+### இலான் மஸ்க் அடுத்த மாதம் இலங்கை வருகிறார் ?
+
+*2024-07-22 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189053) · `ta`
+
+ஸ்டார்லிங் செயற்கைக்கோள் இணையசேவையை ஆரம்பிப்பதற்காக அடுத்த மாதம் இலான் மஸ்க் இலங்கைக்கு வருகை தரவுள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+இலங்கையில் செய்மதி தொழில்நுட்பத்தின் ஊடாக இணைய வசதி சேவையை வழங்க ஸ்டார்லிங் நிறுவனத்திற்கு அரசாங்கம் அனுமதியை வழங்கியுள்ளது.
+
+இந்நிலையில், தற்போதுள்ள தொலைத்தொடர்பு பரிவர்த்தனைச் சட்டத்தில் திருத்தம் கொண்டு வரப்பட்டு, எதிர்காலத்தில் சேவை அனுமதிப்பத்திரம் வழங்க அரசாங்கம் செயல்முறையை துரிதப்படுத்தியுள்ளது.
+
+இது தொடர்பில் தொலைத்தொடர்பு ஒழுங்குமுறை ஆணைக்குழுவின் பணிப்பாளர் நாயகமாக மதுஷங்க திஸாநாயக்க ஆங்கில ஊடகமொன்றுக்கு தெரிவித்துள்ளதாவது,
+
+இலங்கைக்கு இலான் மஸ்க் ஆகஸ்ட் மாதம் விஜயம் மேற்கொள்வார். அவர் ஸ்டார்லிங் இணையசேவை அறிமுகப்படுத்தியதன் பின்னர் இந்த சேவையை செயல்படுத்த மூன்று வாரங்கள் ஆகும். ஸ்டார்லிங்கிற்கு புதிய சட்டத்தின் கீழ் சேவை வழங்குநர்களின் உரிமம் வழங்கப்படும் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9b404656.json)
+
+---
+
+### இஸ்ரேலின் தாக்குதலில் ஒரு காலை இழந்த பெண் ஊடகவியலாளர் ஒலிம்பிக் சுடரை ஏந்தினார்- ஊடகவியலாளர்களை பாதுகாக்கவேண்டும் என்ற செய்தியை தெரிவிக்க விரும்புவதாக கருத்து
+
+*2024-07-22 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189062) · `ta`
+
+இஸ்ரேல் லெபனான் மீது தாக்குதல் மேற்கொண்டவேளை காயமடைந்த பெண் பத்திரிகையாளர் ஒருவர் பிரான்ஸ் தலைநகரில் ஒலிம்பிக் சுடரை ஏந்திச்சென்றுள்ளார்.
+
+ஊடகப்பணியின் போது கொல்லப்பட்ட காயமடைந்த பத்திரிகையாளர்கள் நினைவாக  அவர் ஒலிம்பிக் சுடரை ஏந்திச்சென்றுள்ளார்.
+
+ஒலிம்பிக் போட்டிகள் 26ம் திகதி உத்தியோகபூர்வமாக ஆரம்பிப்பதற்கு பிரான்ஸ் முழுவதிலும் பல்வேறு துறைகளை சார்ந்த பத்தாயிரம் பேர் ஒலிம்பிக் சுடரை ஏந்திச்செல்கின்றனர்.
+
+2023ம் ஆண்டு ஒக்டோபர் 13ம் திகதி லெபனான் மீது  இஸ்ரேல் மேற்கொண்ட தாக்குதலில் காயமடைந்தவர்களில் ஒருவர் ஏஎவ்பியின் கிறிஸ்டினா அசி.
+
+இஸ்ரேல் லெபனான் எல்லையில் இஸ்ரேலிய படையினருக்கும் ஹெஸ்புல்லா அமைப்பினருக்கும் இடையிலான மோதல் குறித்து செய்தி சேகரித்துக்கொண்டிருந்தவேளை இவர் காயமடைந்தார்.
+
+இஸ்ரேலின் தாக்குதல் காரணமாக ரொய்ட்டரின் வீடியோ ஊடகவியலாளர் இசாம் அப்டெல்லா கொல்லப்பட்டார், அல்ஜசீராவின் ஊடகவியலாளர்கள்காயமடைந்தனர்.
+
+நவம்பரில் ஊடகவியலாளர்கள் மீது தென் லெபனானில் இஸ்ரேல் மேற்கொண்ட ஆளில்லா விமான தாக்குதலில் அல்மயாடின் வலையமைப்பை சேர்ந்த இரண்டு ஊடகவியலாளர்கள் கொல்லப்பட்டனர்.
+
+...
+
+[Data](articles/8eaed7bb.json)
+
+---
+
 ### Drinking racket targeting school children
 
 *2024-07-22 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199078) · `si`
@@ -333,6 +487,24 @@ The suspect has been handed over to the Kadawatha Police Station.
 [Data](articles/bd06b22b.json)
 
 [Extended Data](ext_articles/bd06b22b.ext.json)
+
+---
+
+### காத்தான்குடியில் கைக்குண்டு மீட்பு : இராணுவம், விசேட அதிரடிப் படையினர் விசாரணை
+
+*2024-07-22 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189059) · `ta`
+
+காத்தான்குடியில் பூநொச்சிமுனையில் குண்டுத் தாக்குதலுக்கு இலக்கான வீடு ஒன்றுக்கு அருகிலுள்ள வீடு ஒன்றின் முன்பாக உள்ள வடிகான் பகுதியில் கைவிடப்பட்ட நிலையில் கைக்குண்டு ஒன்றை நேற்று ஞாயிற்றுக்கிழமை மாலை (21) இரவு காணப்பட்டதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+
+பூநொச்சிமுனையில் பச்சை வீட்டுத்திட்டம் என அழைக்கப்படும் முகைதீன் ஜூம்ஆ பள்ளி வீதியில் வீடு ஒன்றின் முன்னால் உள்ள வடிகானுக்கு அருகில் கைக்குண்டு ஒன்று கிடப்பதை அவதானித்த பொதுமக்கள் பொலிஸாருக்கு அறிவித்தனர்.
+
+இதனையடுத்து பொலிஸார் சம்பவ இடத்துக்கு சென்று குறித்த கைக்குண்டை மீட்பதற்கு நீதிமன்ற அனுமதியை பெறுவதற்கான நடவடிக்கையை முன்னெடுத்ததுடன் விசேட அதிரடிப்படையின் குண்டு செயலிழக்கும் பிரிவினர் அழைக்கப்பட்டனர்.
+
+இதேவேளை இந்த கைக்குண்டு மீட்கப்பட்ட வீட்டுக்கு அருகிலுள்ள வீட்டின் மீது கடந்த 15 ஆம் திகதி திங்கட்கிழமை இரவு இனந்தெரியாதோரால் குண்டு வீச்சு தாக்குதல் மேற்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது
+
+...
+
+[Data](articles/25ed176e.json)
 
 ---
 
@@ -2089,183 +2261,5 @@ With the struggle in Bangladesh for the past 20 days, the curfew has been enacte
 [Data](articles/91ee9ff9.json)
 
 [Extended Data](ext_articles/91ee9ff9.ext.json)
-
----
-
-### Anandakumar was happy with Senthil's request
-
-*2024-07-21 23:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்திலின்-கோரிக்கையால்-ஆனந்தமடைந்தார்-ஆனந்தகுமார்/175-340789) · `ta`
-
-Senthil Thondaman, leader of the Ceylon Workers Congress and Eastern Province Governor, supports the President's decision to grant plantation workers an interim allowance of 5,000 rupees pending a final settlement. This decision follows a demand from the United National Party's Ratnapura district organizer. Despite concerns over delays due to legal challenges from plantation companies, Anandakumar expresses optimism, emphasizing the commitment to increasing salaries and welcoming the interim measure.
-
-🟩
-
-Senthil Thondaman, the leader of the Ceylon Workers Congress and the Governor of the Eastern Province, said that a three -member committee member of the United National Party, Ratnapura district organizer, said that the President's decision was fair.
-
-Anandakumar said, "The President is confident that the government will take action to fulfill the demand that the government should pay 5 thousand rupees as an interim allowance for plantation workers," Anandakumar said.
-
-Although the decision has been made to pay Rs.
-
-Therefore, the CWC leader has made a demand for plantation workers to be paid 5 thousand rupees as an interim allowance until a day of 700 rupees.. Subbaiah Anandakumar welcomed this and issued a statement.
-
-“Plantation workers are committed to the salary increase as president. That is why he came to Kotagala on May Day and published the good news to the workers.
-
-...
-
-[Data](articles/3d3e1a7d.json)
-
-[Extended Data](ext_articles/3d3e1a7d.ext.json)
-
----
-
-### The Colombo Plan marks 73 years with a difference
-
-*2024-07-21 23:35:00* · [`dailyftlk`](https://www.ft.lk/opinion/The-Colombo-Plan-marks-73-years-with-a-difference/14-764546) · `en`
-
-When I first learned about this initiative, I was truly appalled to learn that such disrespect and violation of women’s rights is still happening in so many cultures in various parts of the world, causing morbidities and even deaths. I’m talking about the myths and stigma being perpetuated surrounding a purely normal physiological cycle women experience every month—the female menstrual cycle or monthly period. The concerns I want to highlight are not limited to ‘period poverty’
-
-Marks with launch of Training of Trainers (ToT) on Dignified Menstruation (DM)
-
-Secretary-General Dr. Benjamin P. Reyes speaks on challenges and the way forward on dignified menstruation
-
-Expresses shock over disrespect and violation of women’s rights still happening in the world
-
-1 July 2024 marked the 73rd anniversary of The Colombo Plan and was commemorated on 4 July 2024 with great enthusiasm at the Sheraton Hotel, Colombo.
-
-...
-
-[Data](articles/a858539b.json)
-
-[Extended Data](ext_articles/a858539b.ext.json)
-
----
-
-### Child’s guide to debt and debt restructuring: Part III
-
-*2024-07-21 23:22:44* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-debt-and-debt-restructuring-Part-III/4-764544) · `en`
-
-In the last four years from 2020 to 2023, their consumption has been so high that the level of dissaving happened to be about 6% of GDP. Therefore, the Government has been an eater of private sector savings
-
-The problem for Sri Lanka was that the money so borrowed was not reinvested in projects that would generate a sufficient foreign exchange earning to service this debt. In April 2022, the country did not have enough foreign exchange balances to service the debt forcing it to suspend the servicing of loans received from individual countries, called bilateral lenders, and from commercial lenders, mainly those who had invested in the international sovereign bonds or ISBs issued by the Government
-
-...
-
-[Data](articles/92aa026d.json)
-
-[Extended Data](ext_articles/92aa026d.ext.json)
-
----
-
-### LPL championship in Jaffna
-
-*2024-07-21 23:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199065) · `si`
-
-In the 5th Lanka Premier League Championship, Jaffna Kings emerged victorious. Charith won the toss and chose to field first. Despite losing six wickets, the opposing team managed 184 runs in just 20 overs. The chase started poorly for Jaffna, losing their first wicket on the first ball. However, Kusal Mendis and Raleyy Rouuso turned the game around, leading Jaffna to victory.
-
-🟩
-
-Jarfna Kings won the 5th Lanka Premier League Championship.
-
-Charith won the toss and invited him to the team first to bat first.
-
-Accordingly, the village scored 184 runs for the loss of 6 wickets in the loss of 6 overs.
-
-The first wicket of the Japhna, which began to chase 185 runs, was bowled out for the first ball.
-
-But then Kusal Mendis and Raleyy Rouuso Japna took the team to win.
-
-◼️
-
-[Data](articles/459e2a22.json)
-
-[Extended Data](ext_articles/459e2a22.ext.json)
-
----
-
-### Israel shoots down missile fired from Yemen after striking Houthis
-
-*2024-07-21 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100677/israel-shoots-down-missile-fired-from-yemen-after-striking-houthis) · `en`
-
-Israel said it shot down a missile launched from Yemen on Sunday and the Yemeni Houthi movement said it had fired several missiles at the Israeli city of Eilat after Israel’s first public strike against the Iran-aligned group a day earlier.
-
-The Houthis have launched missiles and drones at Israel and disrupted global trade through the Red Sea in response to Israel’s assault on Gaza, further destabilising the Middle East as war in the Palestinian enclave rages on after nine months.
-
-Israel says the Houthis have launched 200 attacks against it since the Gaza war began, many of them intercepted and most of them not deadly.
-
-But a rare Houthi drone strike on Friday hit Tel Aviv and killed one person, prompting Israel to announce its first strikes against the group on Saturday. The strikes by warplanes hit near the Yemeni port of Hodeidah and killed six people, local medics said.
-
-The Houthi movement, known formally as Ansar Allah, said on Sunday it would continue to attack Israel in response.
-
-...
-
-[Data](articles/3caf7011.json)
-
-[Extended Data](ext_articles/3caf7011.ext.json)
-
----
-
-### Politics should be prepared as per the agenda of the country - President
-
-*2024-07-21 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199064) · `si`
-
-President Ranil Wickremesinghe stresses the importance of aligning politics with national goals rather than personal agendas. He invites opposition leaders Sajith Premadasa and Anura Kumara Dissanayake to collaborate, emphasizing the need for unity and progress. He outlines ambitious plans for economic growth and digitalization in education, vowing not to allow political maneuvering to derail the country's future.
-
-🟩
-
-President Ranil Wickremesinghe emphasizes that he should not be allowed to adjust the future of the country by political agenda.
-
-He said he would invite Sajith Premadasa and Anura Kumara Dissanayake to join the journey.
-
-He was speaking at Kadawatha today afternoon, "we win the Gampaha" mass rally.
-
-"We carry this revolution to build a good future for young people. It is to be a revolution that is taking this for you. It should be carried forward. We have presented economic translation law to Parliament. In another 20 years, our Gross Domestic Products are to be increased five times. An extensive modern has already been implemented in education. The country will digitize universities and digs universities.
-
-...
-
-[Data](articles/13d72862.json)
-
-[Extended Data](ext_articles/13d72862.ext.json)
-
----
-
-### I am the only one who knows the 19th Amendment - Maithripala Sirisena
-
-*2024-07-21 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189037) · `ta`
-
-Maithripala Sirisena highlights his unique knowledge of the 19th Amendment, emphasizing its importance over the 18th Amendment's restoration of presidential powers. He argues against the necessity of a referendum to shorten the president's term, contrasting with his predecessor's stance. Despite agreements to abolish the presidential system and reduce the presidency to five years, these changes were not implemented, leading to discussions on constitutional amendments and the balance of power between the executive and other branches of government.
-
-🟩
-
-Although I am currently widely talked about the 19th Amendment of the Constitution, I am only known to know it. There is no need for a referendum to reduce the president's tenure. Former President Maithripala Sirisena said it was essential to hold a referendum if it increased.
-
-He further stated that he was speaking to the media on Sunday (21) in Polonnaruwa.
-
-The 19th Amendment of the Constitution is now widely talked about. I am the only one who knows well in the 19th Amendment. The contract signed when I was a common candidate was stated that the presidential system should be completely abolished. On the contrary, the tenure of President Maithripala Sirisena has not been reduced from 6 years to 5 years.
-
-...
-
-[Data](articles/70b21c42.json)
-
-[Extended Data](ext_articles/70b21c42.ext.json)
-
----
-
-### Teachers and principals to launch ‘work-to-rule’ campaign from tomorrow
-
-*2024-07-21 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100676/teachers-and-principals-to-launch-work-to-rule-campaign-from-tomorrow) · `en`
-
-The Ceylon Teachers’ Union (CTU) revealed plans to launch a ‘work-to-rule’ campaign from tomorrow (22) protesting against the government’s inaction to resolve the teacher-principal wage disparities.
-
-Accordingly, the CTU has decided engage in a work-to-rule campaign for a period of two weeks, commencing from tomorrow, in protest of the government’s lack of efforts to resolve their wage disparities.
-
-The trade union leaders stated that accordingly, teachers and principals will not engage in any external professional activities including extra teaching hours after the scheduled school hours.
-
-However, the trade unions led by Ven. Ulapane Sumangala Thero have refused to participate in the ‘work-to-rule’ campaign commencing tomorrow.
-
-...
-
-[Data](articles/bbcba4c0.json)
-
-[Extended Data](ext_articles/bbcba4c0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 16:52:51**
+As of **2024-07-22 17:05:24**
 
 ## Newspaper Stats
 
-*Scraped **36,588** Articles*
+*Scraped **36,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,302
+adalk | 3,303
 adaderanalk | 4,242
 tamilmirrorlk | 4,466
 dailymirrorlk | 4,733
 virakesarilk | 5,731
-adaderanasinhalalk | 6,140
+adaderanasinhalalk | 6,141
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,588 (100.0%) of 36,588 articles have been extended.
+36,588 (100.0%) of 36,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### ඉන්දීය ක්‍රිකට් කණ්ඩායම දිවයිනට
+
+*2024-07-22 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199090) · `si`
+
+ශ්‍රී ලංකාවේ පැවැත්වෙන තරග තුන බැගින් සමන්විත එක්දින සහ විස්සයි විස්ස ක්‍රිකට් තරගාවලි දෙකක් සඳහා සහභාගී වීමට ඉන්දීය ජාතික ක්‍රිකට් කණ්ඩායම විශේෂ ගුවන් යානයකින් අද (22) පස්වරුවේ කටුනායක ගුවන්තොටුපොළ වෙත පැමිණියහ.
+
+මුලින්ම විස්සයි විස්ස ක්‍රිකට් තරග 03කින් සමන්විත ක්‍රිකට් තරගාවලිය එළැඹෙන 27, 28 සහ 30 යන දිනවලදී රාත්‍රී 07ට මහනුවර පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වීමට නියමිතය.
+
+ඉන්පසුව කොළඹ කෙත්තාරාම ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී අගෝස්තු 2, 4 සහ 7 යන දින තුන තුළ පස්වරු 02.30ට එක්දින සීමිත ඕවර් 50 ක්‍රිකට් තරගාවලිය ආරම්භ වීමට නියමිතය.
+
+මෙම ක්‍රිකට් තරගාවලි සඳහා සහභාගී වීමට ඉන්දීය ජාතික ක්‍රිකට් කණ්ඩායමේ ක්‍රීඩකයින් 25 දෙනෙකු සහ නිලධාරීන් 10 දෙනෙකු ඉන්දියාවේ මුම්බායි  නුවර සිට විස්තාරා ගුවන් සේවයේ යු.කේ.- 6107 දරන විශේෂ ගුවන් යානයෙන් අද පස්වරු 03.54ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+...
+
+[Data](articles/4706dbfc.json)
+
+---
 
 ### Sri Lanka’s inflation rises to 2.4% in June 2024
 
@@ -581,6 +599,24 @@ There were no reports of violence or protests on Monday morning and media said c
 [Data](articles/61b3952f.json)
 
 [Extended Data](ext_articles/61b3952f.ext.json)
+
+---
+
+### රටේ ඉදිරි න්‍යාය පත්‍රය සකස් කරන්නේ දේශපාලනඥයන් නොවෙයි
+
+*2024-07-22 13:35:43* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ඉදිරි-න්‍යාය-පත්‍රය-සකස්-කරන්නේ-දේශපාලනඥයන්-නොවෙයි/11-410911) · `si`
+
+මැද පෙරදිග රටවල් ඇතුළු ශ්‍රී ලාංකික ශ්‍රමිකයන් යොමු කෙරෙන රටවල සංචාරකයන් මෙරටට ගෙන්වා ගැනීමේ නව ව්‍යාපාර අවස්ථා සඳහා විදේශ රැකියා නියෝජිත ආයතන අවධානය යොමු කරන්නේ නම් සංචාරක අමාත්‍යාංශය හරහා ඔවුන්ට අවශ්‍ය පහසුකම් සලසාදිය හැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කුරුණෑගල එපිටොම් හෝටල් පරිශ්‍රයේ ඊයේ (21) පැවති “අභිමන් 2024” උත්සවයට එක්වෙමිනි .
+
+මෙරට ආර්ථිකය වෙනුවෙන් පුළුල් දායකත්වයක් ලබාදෙන විදේශ රැකියා නියෝජිත ආයතන අගයමින් සහතික පත් හා සමරු තිළිණ ප්‍රදානය කිරීම මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සිදු විය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+
+...
+
+[Data](articles/d977a323.json)
 
 ---
 
@@ -2275,57 +2311,5 @@ At the recent election -related direct argument, Donald Trump was unable to answ
 [Data](articles/e2076192.json)
 
 [Extended Data](ext_articles/e2076192.ext.json)
-
----
-
-### US presidential election - Democratic Party's new candidate
-
-*2024-07-22 06:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189044) · `ta`
-
-Kamala Harris, former VP, is now the Democratic candidate for president, replacing Joe Biden who left the party. This move comes after Biden's departure from the race, signaling a shift in leadership within the Democratic Party ahead of the upcoming US presidential election.
-
-🟩
-
-Vice President Kamala Harisin has announced as the Democratic candidate of Jobitin, who has quit the Democratic Party in the US presidential election.
-
-"I want to give my full support and approval for Kamala as our party's candidate this year," said Bite on Twitter.
-
-"It will be the time for the Democrats to come together and defeat Trump," he said.
-
-◼️
-
-[Data](articles/53e94300.json)
-
-[Extended Data](ext_articles/53e94300.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-07-22 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199067) · `si`
-
-A severe weather warning has been issued for the Thagudali Fisheries and Naval Community operating in the Arabian Sea and Bay of Bengal, focusing on wind speeds between 10 and 20 Northern Latitude and the eastern bay sea area. The southwest monsoon is causing rough seas, prompting immediate landings. Showers are expected in the Western and Sabaragamuwa provinces, along with heavy rain across the island, potentially leading to strong winds in certain areas.
-
-🟩
-
-Eighty winds and sea have issued a warning red announcement on floor.
-
-The announcement has been issued for the special focus of the Thagudali Fisheries and Naval Community which is working in the Arabian Sea and the Bay of Bengal.
-
-Winds (in areas between 10 and 20 Northern Licks) and the eastern bay sea area (between 7 and 20 Northern latitude) due to active southwest monsoon (55th latitude in the area).K. 70-80) The sea areas may exist and have been informed that the sea can be very rough.
-
-The crowd in the sea has been immediately landed at the ground.
-
-The Department of Meteorology also informed the fisheries and the community to look into the announcements issued by the unleashed announcements.
-
-Meanwhile, there is a few showers in the Western and Sabaragamuwa provinces and in the Galle and Matara districts.
-
-In other parts of the island, a rainy weather is expected to be mainly.
-
-...
-
-[Data](articles/04319461.json)
-
-[Extended Data](ext_articles/04319461.ext.json)
 
 ---

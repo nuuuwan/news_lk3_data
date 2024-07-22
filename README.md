@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 12:54:00**
+As of **2024-07-22 13:05:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,543 (100.0%) of 36,547 articles have been extended.
+36,547 (100.0%) of 36,547 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Speaking at a rally in Gampaha on Sunday July 21, Wickremesinghe said politics s
 
 [Data](articles/95a1d538.json)
 
+[Extended Data](ext_articles/95a1d538.ext.json)
+
 ---
 
 ### SriLankan Airlines still seeks foreign partner – report
@@ -64,27 +66,35 @@ On Thursday, the government said it had dropped plans to sell a minority stake o
 
 [Data](articles/111fc185.json)
 
+[Extended Data](ext_articles/111fc185.ext.json)
+
 ---
 
-### පින්වත්ත OIC ට ඩුබායි මත්කුඩු ජාවාරම්කරුවෙකුගෙන් මරණ තර්ජන
+### Pinwatta OIC threatened with death by Dubai drug dealer
 
 *2024-07-22 12:18:00* · [`adalk`](https://www.ada.lk/breaking_news/පින්වත්ත-OIC-ට-ඩුබායි-මත්කුඩු-ජාවාරම්කරුවෙකුගෙන්-මරණ-තර්ජන/11-410909) · `si`
 
-පානදුර, පින්වත්ත පොලිසියේ ස්ථානාධිපති වරයාට ඩුබායි රාජ්‍යයේ සැගව සිටින ප්‍රබල මත්කුඩු ජාවාරම්කරුවෙක් විසින් මරණ තර්ජන එල්ලකර ඇති බව පානදුර පොලිස් ආරංචි මාර්ග සදහන් කරයි.
+A Dubai-based drug dealer threatened the OIC of Panadura police over the phone. The OIC, along with three others, was arrested for drug possession. Senior officers deny receiving any threat reports, emphasizing the need to protect the Inspector General of Police.
 
-පින්වත්ත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පත්ම නන්දන මහතා ට මෙසේ දුරකථන මගින් මරණ තර්ජන සිදුකර ඇති බව සදහන් වේ.
+🟩
 
-ලංකාවේ ප්‍රබල මත්කුඩු ජාවාරම්කරුවෙකුගේ ගෝලයෙකු විසින් මෙසේ තර්ජනය කර ඇති බව පැවසේ.
+Panadura Police sources said that the OIC of Panadurai police OIC has been threatened by a strong drug dealer in Dubai state.
 
-මරණ තර්ජන එල්ලකර ඇති සැකකරුගේ අනියම් බිරිද, සොහොයුරියක ඇතුළු තිදෙනෙකු  මත්කුඩු සමග මීට මාස කිහිපයකට පෙර  පින්වත්ත ස්ථානාධිපති වරයා විසින් අත්අඩංගුවට ගෙන ඇති බව පොලිස් ආරංචි මාර්ග සදහන් කරයි.
+The Pinwatta OIC Chief Inspector of Police is said to have been threatened by telephones.
 
-සිද්ධිය සම්බන්ධයෙන් පානදුර ජේෂ්ඨ පොලිස් නිළධාරින් කිහිප දෙනෙක්  ගෙන් විමසීමක් කලද ඔවුන් සදහන් කලේ එවැනි මරණ තර්ජනයක් සම්බන්ධයෙන් වාර්තාවී නොමැති බවයි.
+It is said that the disciple of a powerful drug dealer in Sri Lanka has been threatened.
 
-කෙසේ නමුත් ඉතා අවංකව රාජකාරි ඉටුකරන නිළධාරියෙක් වන ප්‍රධාන පොලිස් පරීක්ෂක වරයාගේ ජීවත අවධානම සම්බන්ධයෙන් ජේෂ්ඨ නිළධාරින්ගේ අවධානය යොමුකල යුතු බවද පොලිස් අභ්‍යන්තර ආරංචි මාර්ග සදහන් කරයි.
+According to police sources, three others, including a sister and three others, have been arrested by the Pinwatta OIC with drugs.
+
+Despite senior police officers Panadura inquired about the incident, they stated that they have not reported regarding such a threat.
+
+However, he said that the focus of senior officials should be paid to the risk of the main Inspector General of Police, an officer who performs duties.
 
 ◼️
 
 [Data](articles/9689838f.json)
+
+[Extended Data](ext_articles/9689838f.ext.json)
 
 ---
 
@@ -121,6 +131,8 @@ The trucks are part of a total contribution of 3 million US dollars from Japan t
 ...
 
 [Data](articles/bda412cd.json)
+
+[Extended Data](ext_articles/bda412cd.ext.json)
 
 ---
 

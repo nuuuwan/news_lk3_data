@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 08:24:41**
+As of **2024-07-22 08:35:51**
 
 ## Newspaper Stats
 
-*Scraped **36,485** Articles*
+*Scraped **36,486** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 321
 colombotelegraphcom | 343
-bbccomsinhala | 356
+bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,173
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,485 (100.0%) of 36,485 articles have been extended.
+36,485 (100.0%) of 36,486 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -155,6 +155,26 @@ In other parts of the island, a rainy weather is expected to be mainly.
 [Data](articles/04319461.json)
 
 [Extended Data](ext_articles/04319461.ext.json)
+
+---
+
+### 'මට කියන්නේ ජංගම සුපර්මාර්කට් එක කියලා. කිලෝ 50ක් බර ජාති 300ක් විතර මම ගෙනියනවා.'
+
+*2024-07-22 02:18:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw0y10d2ne3o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ඉදිකට්ට, පා පිස්ස, සෙරප්පු දෙකේ ඉඳලා හැම දෙයක්ම තියෙනවා.''
+
+'මට කියන්නේ ජංගම සුපර්මාර්කට් එක කියලා. කිලෝ 50ක් බර ජාති 300ක් විතර මම ගෙනියනවා.'
+
+මහනුවර පිළිමතලාවේ පදිංචි වින්සන් ජගත් කිලෝ ගණනක් බර භාණ්ඩ ශරීරයේ එල්ලාගෙන ජංගම වෙළඳාමේ නිරත වන පුද්ගලයකි.
+
+භාණ්ඩ වර්ග 300ක් පමණ ඔහු සතු වෙන අතර ඒවා අලෙවි කිරීමට දිනකට කිලෝමීටර් 30 පමණ ගමන් කරන බව ඔහු පවසයි.
+
+''ඉදිකට්ට, පා පිස්සා, සෙරප්පු දෙකේ ඉඳලා හැම දෙයක්ම තියෙනවා. මගේ දරුවන්ට, රටට ණයකාරයෙක් වෙන්න මම කැමති නෑ. කාටවත් අතපාන්නෙත් නෑ. මගේ එකම බලාපොරොත්තුව මටත් වඩා හොඳට දරුවෝ ඉන්නවා දකින්න'' යනුවෙන් ඔහු BBC සිංහල වෙත පැවසුවේය.
+
+◼️
+
+[Data](articles/6d91d58b.json)
 
 ---
 
@@ -2261,31 +2281,5 @@ Time will be different from the various parts of Sri Lanka and the times are bel
 [Data](articles/405c050e.json)
 
 [Extended Data](ext_articles/405c050e.ext.json)
-
----
-
-### KPI's disciples are copied with two
-
-*2024-07-21 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199048) · `si`
-
-In a raid in Ragama, two individuals linked to drug dealer Kankiphani Imran were arrested. Over 10 grams of heroin were found on them, indicating involvement in drug trafficking under Imran's guidance as part of a larger network.
-
-🟩
-
-Two persons have been arrested by an organized criminal and a drug dealer Kankiphani Imran.
-
-The suspects were arrested during a raid carried out in the Ragama area in the Ragama area.
-
-At the time of his arrest, more than 10 grams of heroin were found in their possession and 10 g drugs.
-
-It is revealed that the arrested suspects and 26-year-old persons.
-
-It is said that it is revealed that it is revealed that the drug was conducting drug trafficking from the guidance of the country's drug network of an organized criminal and drug dealer Kanjiphani Imran.
-
-◼️
-
-[Data](articles/bfda02c3.json)
-
-[Extended Data](ext_articles/bfda02c3.ext.json)
 
 ---

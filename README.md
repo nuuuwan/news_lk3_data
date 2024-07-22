@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 19:54:16**
+As of **2024-07-22 20:06:38**
 
 ## Newspaper Stats
 
-*Scraped **36,613** Articles*
+*Scraped **36,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,68 @@ newsfirstlk | 363
 islandlk | 2,083
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,306
+adalk | 3,307
 adaderanalk | 4,246
 tamilmirrorlk | 4,469
 dailymirrorlk | 4,733
 virakesarilk | 5,740
-adaderanasinhalalk | 6,145
+adaderanasinhalalk | 6,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,603 (100.0%) of 36,613 articles have been extended.
+36,607 (100.0%) of 36,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### அஸ்வெசும இரண்டாம் கட்டத்தில் 455 697 விண்ணப்பங்கள் தேசிய அடையாள அட்டை, வங்கி கணக்குகள் இன்றி 2 இலட்சம் பயனாளிகள் - நலன்புரி நன்மைகள் சபையின் தலைவர்
+### තේ වෙනුවට කසිප්පු විකිණු මහනුවර හෝටලය
+
+*2024-07-22 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199095) · `si`
+
+මහනුවර මධ්‍යම වෙළෙඳපොළේ හෝටලයක කාලයක් පුරා සිදුකළ කසිප්පු ජාවාරමක තොරතුරු අනාවරණය කර ගැනීමට මහනුවර කොට්ඨාස අපරාධ විමර්ශන ඒකකය අද (22) සමත් විය.
+
+එම වැටලීමේ දී කසිප්පු බෝතල් 08ක් සමඟ පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+හෝටලයේ හිමිකරු සහ සේවකයෙකු එලෙස අත්අඩංගුවට ගෙන ඇති අතර සේවකයා කලක් යුද හමුදාවේ විශේෂ බළකායේ සේවයේ නිරතව සිට විශ්‍රාම ලැබූ අයෙකු බව පොලිස් පරීක්ෂණවලින් හෙළිව ඇත.
+
+කිසිවෙකුට සැක නොසිතෙන පරිදි රට බීම බෝතල්වලට කසිප්පු දමා කාලයක් තිස්සේ සැකකරුවන් මෙම ජාවාරම සිදුකරගෙන ගොස් ඇති බවට අනාවරණය වී තිබේ.
+
+එමෙන්ම ගැනුම්කරුවෙකු පැමිණි විට හෝටලයේ තේ හදන ස්ථානයේ ඇති අඬු කෝප්පයකට දමා කසිප්පු ලබා දී තිබෙන බවත් දෛනිකව එම ස්ථානයේ කිසිප්පු බෝතල් 10ක් පමණ මේ ආකාරයට අලෙවි කර තිබෙන බවත් පොලීසිය පවසයි.
+
+මේ අතර මහනුවර මධ්‍යම වෙළෙඳපොළට පැමිණෙන ලොරි රථවලට භාණ්ඩ පැටවීම හා බෑම සිදුකරන නාට්ටාමිවරුන් මෙම ස්ථානයෙන් කසිප්පු පානය පෙරවරු 5.00ට පමණ ආරම්භ කරන බව වාර්තා වී ඇත.
+
+...
+
+[Data](articles/0ce49847.json)
+
+---
+
+### 455 697 applications in the second phase of 455 697 applications without bank accounts
 
 *2024-07-22 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/189121) · `ta`
 
-அஸ்வெசும இரண்டாம் கட்டத்தில் பயனைப் பெற்றுப் பெற்றுக் கொள்வதற்காக 4 இலட்சத்து 55 697 விண்ணப்பங்கள் கிடைக்கப் பெற்றுள்ளன. அவற்றை மீளாய்வு செய்யும் பணிகளை இம்மாத இறுதிக்குள் நிறைவு செய்ய எதிர்பார்க்கப்படுவதாக நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்தார்.
+The second phase of the Aswesa Project received 4,55,697 applications, with the review process nearing completion by the end of this month. Despite selecting 18,54,518 beneficiaries in the first phase, around 2 lakh lacked necessary documents, hindering allowance disbursement. The project aims to assist low-income individuals, allocating financial aid based on categories like poverty level and age, with officers collecting data from applicant homes. Challenges include beneficiaries lacking bank accounts and national identity cards, affecting approximately 2.35 lakh individuals' ability to receive funds.
 
-முதலாம் கட்டத்தில் 18 இலட்சத்து 54 518 பயனாளிகள் தெரிவு செய்யப்பட்ட போதிலும், அவர்களில் சுமார் 2 இலட்சம் பயனாளிகள் தேசிய அடையாள அட்டை இன்மை மற்றும் வங்கி கணக்குகளை ஆரம்பிக்க முடியாமையால் தமக்கான கொடுப்பனவைப் பெற்றுக் கொள்ள முடியாமல் இருப்பதாகவும் ஜயந்த விஜேரத்ன தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (22) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+4 lakhs 55 697 applications have been received in the second phase. Welfare Benefits Council Chairman Jayantha Wijeratne said that the process of reviewing them is expected to be completed by the end of this month.
 
-அஸ்வெசும திட்டத்தில் முதற்கட்டத்திற்காக 34 மில்லியனுக்கும் அதிகமான விண்ணப்பங்கள் பெறப்பட்டு அவற்றுள் 1,854,518 பயனாளர்கள் நன்மைகளைப் பெறத் தகுதி பெற்றிருந்தன. அவர்களில் குறைந்த வருமானம் பெறுபவர்களில் 30 சதவீதமானோருக்கு 4 வகைகளின் கீழ் நிதி உதவி வழங்கப்பட்டது.
+Jayantha Wijeratne said that although 18 lakhs 54 518 beneficiaries were selected in the first phase, about 2 lakh beneficiaries were unable to obtain their allowances due to lack of national identity cards and bank accounts.
+
+He further stated at a press conference held at the Presidential Media Center on Monday (22).
+
+More than 34 million applications for the first phase of the Aswesa Project were eligible for 1,854,518 benefits to benefit. Of them, 30 percent of the low -income earners were given financial assistance under 4 categories.
+
+5000 rupees for beneficiaries in the affected category and Rs.. This section was initially given only until last March. But in view of the current economic status, it has been decided to pay a allowance of Rs.
 
 ...
 
 [Data](articles/a68a5362.json)
+
+[Extended Data](ext_articles/a68a5362.ext.json)
 
 ---
 
@@ -62,41 +92,59 @@ The President made this announcement during the “Abhiman- 2024” event held y
 
 [Data](articles/987d5b7f.json)
 
+[Extended Data](ext_articles/987d5b7f.ext.json)
+
 ---
 
-### சுற்றுலா வர்த்தகத்தை மேம்படுத்துவதில் இணையுமாறு வெளிநாட்டு வேலைவாய்ப்பு முகவர் நிறுவனங்களுக்கு ஜனாதிபதி அழைப்பு
+### President invites foreign employment agencies to join the tourism trade
 
 *2024-07-22 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189120) · `ta`
 
-மத்திய கிழக்கு நாடுகள் உட்பட இலங்கைத் தொழிலாளர்கள் அனுப்பப்படும் நாடுகளின் சுற்றுலாப் பயணிகளை இந்நாட்டுக்கு வரவழைக்கும் புதிய வர்த்தக வாய்ப்புகள் குறித்து வெளிநாட்டு வேலைவாய்ப்பு முகவர் நிலையங்கள் கவனம் செலுத்தினால், அவர்களுக்குத் தேவையான வசதிகளை சுற்றுலா அமைச்சின் ஊடாக வழங்க முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+At the "Abhiman 2024" event, President Ranil Wickremesinghe invited foreign employment agencies to leverage their networks to boost Sri Lanka's tourism sector by attracting tourists from countries where Sri Lankans work, especially in the Middle East. He praised their contributions to the economy and urged them to collaborate with the Ministry of Tourism to expand their industry. The President also highlighted the importance of developing the skills of overseas Sri Lankans and creating better employment opportunities for them. He expressed optimism about the country's economic recovery, noting the significant role foreign employment agencies play in sending remittances back home, which helped stabilize the economy despite challenges.
 
-குருணாகல் எபிடோம் ஹோட்டல் வளாகத்தில் ஞாயிற்றுக்கிழமை (21) இடம்பெற்ற "அபிமன் 2024"  நிகழ்வில் ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+🟩
 
-நாட்டின் பொருளாதாரத்திற்கு பாரிய பங்களிப்பை வழங்கும் வெளிநாட்டு வேலை வாய்ப்பு முகவர் நிறுவனங்களைப் பாராட்டி சான்றிதழ்கள் மற்றும் நினைவுப் பரிசுகளை ஜனாதிபதி ரணில் விக்கிரமசிங்க இதன்போது வழங்கி வைத்தார்.
+President Ranil Wickremesinghe said that if foreign employment agencies focus on new business opportunities that will bring tourists from countries sent to Sri Lankan workers, including the Middle East, they can provide the necessary facilities through the Ministry of Tourism.
 
-“ஜனாதிபதியாக பதவியேற்று இரண்டாண்டு நிறைவடையும் இச்சந்தர்ப்பத்தில் நான் உங்களுக்கு நன்றி தெரிவிக்க விரும்புகிறேன். அன்று நீங்கள் நாட்டுக்காக பணம் ஈட்டவில்லை என்றால், இன்று நாட்டை இந்த நிலைக்கு கொண்டு வர முடியாது. இரண்டு ஆண்டுகளுக்கு முன்பு நாங்கள் ஒரு கடினமான சூழ்நிலையில் இருந்தோம்.
+The President made this statement at the "Abhiman 2024" event held at the Epitom Hotel Complex on Kurunegala on Sunday (21).
+
+President Ranil Wickremesinghe presented certificates and souvenirs to the foreign employment agencies that contribute to the country's economy.
+
+“I would like to thank you on this occasion for two years after taking office as president. If you have not made money for the country that day, the country cannot be brought to this level today. We were in a difficult situation two years ago.
+
+No one believes that the country can recover from the economic crisis. But I believed that this country could be redeemed with people. Unlike other countries, we rescued the country two years ago.
 
 ...
 
 [Data](articles/8543dcfb.json)
 
+[Extended Data](ext_articles/8543dcfb.ext.json)
+
 ---
 
-### "தமிழ்த் தேசியப் பொதுக்கட்டமைப்பு" : புரிந்துணர்வு உடன்படிக்கையில் 9 அம்சங்கள் வலியுறுத்தல்!
+### "Tamil National Alliance": 9 aspects of Memorandum of Understanding
 
 *2024-07-22 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189119) · `ta`
 
-தமிழ்த் தேசிய கட்சிகள், தமிழ் மக்கள் பொதுச்சபை ஆகிய இரு தரப்பினரின் இணைவில், உருவாக்கப்படும் இக்கட்டமைப்பு "தமிழ்த் தேசியப் பொதுக்கட்டமைப்பு" என அழைக்கப்படும் என உடன்படிக்கையில் இரு தரப்பினரும் கைச்சாத்திட்டுள்ளனர்.
+The Tamil National Alliance (TNA), a collaboration between the Tamil National Party and the Tamil People's General Assembly, aims to unite the Tamil nation through a common candidate in Sri Lanka's 2024 state elections. This MoU emphasizes self-determination for Eelam Tamils, criticizes the Sri Lankan government's handling of Tamil issues, and outlines the TNA's commitment to addressing discrimination and seeking political solutions. The alliance plans to engage in public advocacy and ensure equal participation across its structures.
 
-தமிழ்த் தேசியக் கட்சிகள் - தமிழ் மக்கள் பொதுச் சபை ஆகியவற்றுக்கிடையிலான புரிந்துணர்வு உடன்படிக்கை ,யாழ்ப்பாணம் தந்தை செல்வா கலையரங்கில் இன்றைய தினம் திங்கட்கிழமை கைச்சாத்திடப்பட்டுள்ளது.
+🟩
 
-அதில் குறிப்பிடப்பட்டுள்ள விடயமாவது, தமிழ்த் தேசியக் கட்சிகள் - தமிழ் மக்கள் பொதுச் சபை ஆகியவற்றுக்கிடையிலான புரிந்துணர்வு உடன்படிக்கை 9 அம்சங்கள் வலியுறுத்தப்பட்டுள்ளது.
+Both sides have signed an agreement that the system will be called the "Tamil National Alliance", which is being created by the Tamil National Party and the Tamil People's General Assembly.
 
-ஈழத்தமிழ் மக்கள் இலங்கைத்தீவின் வடக்கு கிழக்கில் தமக்கென ஒரு மரபு வழித் தாயகத்தைக் கொண்ட, வரலாற்றுக்கு முற்பட்ட காலத்திலிருந்து வடக்கு கிழக்கு உள்ளடங்கலாக இலங்கைத் தீவில் வாழும் தேசிய இனம் என்ற அடிப்படையில், சுயநிர்ணய உரிமையைக் கொண்டவர்கள்.
+A Memorandum of Understanding (MoU) between Tamil National Parties and Tamil People's General Assembly was signed today at the Father Selva Gallery of Jaffna.
+
+The Memorandum of Understanding (MoU) between the Tamil National Parties and the Tamil People's General Assembly has been emphasized.
+
+The Eelam Tamil people have a self -determination on the basis of the nationality of the North and East, which has a traditional homeland in the North and East of the island of Sri Lanka.
+
+Basically, those who are entitled to demanding peak autonomy. In addition, the Sri Lankan government is continuously carrying out ethnicity in Sri Lanka, in various ways, with the aim of distorting the unique national presence of the Tamil people, which have long history and prosperity of international law.
 
 ...
 
 [Data](articles/faddec86.json)
+
+[Extended Data](ext_articles/faddec86.ext.json)
 
 ---
 
@@ -121,6 +169,22 @@ The Southwest Asian Director, its deputy director, has also participated in the 
 [Data](articles/418e6e56.json)
 
 [Extended Data](ext_articles/418e6e56.ext.json)
+
+---
+
+### අනුර හා ජපාන විදේශ රාජ්‍ය ඇමති අතර හමුවක්
+
+*2024-07-22 18:10:18* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-ජපාන-විදේශ-රාජ්‍ය-ඇමති-අතර-හමුවක්/11-410914) · `si`
+
+මේ වන විට ජපානයේ සංචාරයක නිරත ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක සහෝදරයා සහ ජපානයේ විදේශ කටයුතු පිළිබඳ රාජ්‍ය අමාත්‍ය TSUGE Yoshifumi මහතා අතර හමුවක් එම අමාත්‍යාංශයේදී අද (22දා) දින පස්වරුවේ සිදු විය.
+
+මේ වන විට ශ්‍රී ලංකාවේ පවතින ආර්ථික හා දේශපාලන තත්වය පිළිබඳවත් දෙරට අතර දිගුකාලීන මිත්‍රත්වය පිළිබඳවත්  රාජ්‍යතාන්ත්‍රික සහ ආර්ථික සබඳතාවන්හි ඉදිරි පියවර පිළිබඳවත් මෙහිදී සාකච්ඡා කරන ලද අතර එළඹෙන ජනාධිපතිවරණය පිළිබඳව මෙහිදී විශේෂ අවධානයක් යොමු විය. විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා විසින් අනුර කුමාර දිසානායක සහෝදරයාගේ ජපාන සංචාරය පිළිබඳව සුබපැතුම් එක් කිරීමටද මෙහිදී කටයුතු කර තිබිණි.
+
+මෙම සාකච්ඡාව සඳහා අග්නිදිග සහ නිරිතදිග ආසියානු කටයුතු දෙපාර්තමේන්තුවේ නිරිතදිග ආසියානු අංශයේ අධ්‍යක්ෂ Tsutsumi Taro මහතා සහ එම අංශයේ නියෝජ්‍ය අධ්‍යක්ෂ IWASE Kiichiro මහතා ඇතුළු නිලධාරි පිරිසක්ද ජාතික ජන බලවේගයේ ජපාන කමිටුවේ සාමාජිකයින් කිහිපදෙනෙක්ද එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/5360cc89.json)
 
 ---
 
@@ -2229,51 +2293,5 @@ Four were injured in the shooting by the shooting carried out on July 08 and the
 [Data](articles/3c2a6035.json)
 
 [Extended Data](ext_articles/3c2a6035.ext.json)
-
----
-
-### Hirunika Premachandra granted bail
-
-*2024-07-22 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100684/hirunika-premachandra-granted-bail) · `en`
-
-Former Member of Parliament Hirunika Premachandra has been ordered to be released on bail by the Colombo High Court.
-
-Colombo High Court Judge Amal Ranaraja has issued this order today (22), when the bail application filed by her attorneys was taken up for consideration.
-
-Colombo High Court Judge Amal Ranaraja issued this order following the objections raised by the Attorney General’s Department against the relevant bail application on July 11.
-
-Former MP Hirunika Premachandra filed an appeal with the Appeals Court, requesting to invalidate the recent verdict issued by the Colombo High Court sentencing her to three years of rigorous imprisonment and seeking her acquittal from the case.
-
-Accordingly, Premachandra’s lawyers also filed a bail application before the Colombo High Court requesting to release her on bail, since an appeal has been filed against the relevant verdict.
-
-...
-
-[Data](articles/f63ab47e.json)
-
-[Extended Data](ext_articles/f63ab47e.ext.json)
-
----
-
-### Mother. Pitch
-
-*2024-07-22 09:44:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-இரு-பிள்ளைகளை-பலியெடுத்த-குழி/175-340806) · `ta`
-
-A family of three drowned in a water-filled area in Tissamaharama, Hambantota. The mother, 32, and her two sons, aged 14 and 9, perished. Their bodies were recovered; the children's remains are still being located.
-
-🟩
-
-The mother and two children have died after drowning in a water -filled tract in Tissamaharama Kavandisa Pur, Hambantota, police said.
-
-The incident took place when the mother and two children went to the water yesterday afternoon.
-
-The 32 -year -old mother, two boys aged 14 and 9, died.
-
-The mother's body was found last night and the police said that the bodies of the two children were being searched.. Remble
-
-◼️
-
-[Data](articles/900f236b.json)
-
-[Extended Data](ext_articles/900f236b.ext.json)
 
 ---

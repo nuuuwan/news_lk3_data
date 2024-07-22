@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 14:21:04**
+As of **2024-07-22 14:35:58**
 
 ## Newspaper Stats
 
-*Scraped **36,561** Articles*
+*Scraped **36,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,234
 tamilmirrorlk | 4,464
 dailymirrorlk | 4,733
 virakesarilk | 5,725
-adaderanasinhalalk | 6,133
+adaderanasinhalalk | 6,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,561 (100.0%) of 36,561 articles have been extended.
+36,561 (100.0%) of 36,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### මැතිවරණ  දිනය ප්‍රකාශයට පත්කළ වහාම අදාළ කටයුතු ආරම්භ කරනවා -නියෝජ්‍ය තැපැල්පති
+
+*2024-07-22 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199082) · `si`
+
+මැතිවරණ කොමිෂන් සභාව විසින් ජනාධිපතිවරණය පැවැත්වෙන දිනය ප්‍රකාශයට පත්කළ වහාම ජනාධිපතිවරණයට අදාළ තැපැල් දෙපාර්තමේන්තුවේ කටයුතු ආරම්භ කරන බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා පවසයි.
+
+ඒ සඳහා වන සියලු කටයුතු මේ වන විට සූදානම් කර ඇති බව අද (22) පැවති මාධ්‍ය හමුවක දී නියෝජ්‍ය තැපැල්පතිවරයා පැවසුවේය.
+
+තැපැල් ඡන්ද හා නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරීමේ කටයුතු පිළිබඳව ද නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා මෙහිදී පැහැදිලි කළේය.
+
+එහිදී ඔහු පැවසුවේ, නිල ඡන්ද දැන්වීම් පත්‍රිකාව සියලුම නිවාසවලට බෙදාහැරීම සඳහා 8,000ක සේවක පිරිසක් යොදා ගැනීමට සැලසුම් කර ඇති බවය.
+
+එමෙන්ම තැපැල් ඡන්ද සඳහා අදාළ සියලුම ලිපි ලේඛන ආරක්ෂිත හුවමාරු කිරීම සඳහා ද තැපැල් දෙපාර්තමේන්තු බැඳී සිටින බවද ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/9051486e.json)
+
+---
 
 ### Bangladesh calm a day after top court scrapped some job quotas
 
@@ -2273,29 +2293,5 @@ Our government, which is participating in the Tamil Progressive Alliance, will s
 [Data](articles/ff9d7f06.json)
 
 [Extended Data](ext_articles/ff9d7f06.ext.json)
-
----
-
-### A-9 Street
-
-*2024-07-22 00:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணத்தை-ஏற்படுத்தும்-வீதியாக-மாறிய-ஏ-9-வீதி/175-340793) · `ta`
-
-In Jaffna, travelers face danger due to mudslides blocking the A-9 road at Ariyalai junction. Soil was dumped, possibly by smugglers fleeing from the police, causing accidents and fears of fatalities. Authorities like the Nallur Pradeshiya Sabha and the Road Development Authority haven't acted yet, leading locals to call for immediate cleanup to ensure safe travel.
-
-🟩
-
-Travelers are traveling in the midst of great difficulty and fear as the mudslides are being dumped on the Ariyalai junction in Jaffna and A-9 road.
-
-The road is poured into the road. The soil is poured on Saturday (20) night. It is suspected that the police chased the soil smugglers and they may have poured the soil on the street.
-
-The road is on the road and the ramp already occurred. In this case, there are more casualties that cause more accidents. People have expressed fears that death may also occur.
-
-Neither the Nallur Pradeshiya Sabha or the Road Development Authority has taken any action to remove the soil. Therefore, people are urging people to remove the soil from the road and make way for safe transport.
-
-◼️
-
-[Data](articles/0eb791e0.json)
-
-[Extended Data](ext_articles/0eb791e0.ext.json)
 
 ---

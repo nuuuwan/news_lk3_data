@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 10:35:46**
+As of **2024-07-22 10:54:47**
 
 ## Newspaper Stats
 
-*Scraped **36,509** Articles*
+*Scraped **36,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,135 @@ islandlk | 2,083
 economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,292
-adaderanalk | 4,224
-tamilmirrorlk | 4,454
+adaderanalk | 4,226
+tamilmirrorlk | 4,457
 dailymirrorlk | 4,733
 virakesarilk | 5,719
-adaderanasinhalalk | 6,126
+adaderanasinhalalk | 6,128
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,509 (100.0%) of 36,509 articles have been extended.
+36,509 (100.0%) of 36,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### ‘Club Wasantha’ murder: Suspects produced before court
+
+*2024-07-22 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100686/club-wasantha-murder-suspects-produced-before-court) · `en`
+
+The seven suspects who were arrested and remanded in connection with the shooting and killing of two persons including Surendra Wasantha Perera alias ‘Club Wasantha’ in Athurigiriya, have been produced before court today.
+
+Ada Derana reporter said that the suspects, including the owner of the tattoo studio where the shooting took place, were brought to the Kaduwela Magistrate’s Court under tight security this morning.
+
+Two persons including ‘Club Wasantha’ were killed while four other including popular singer K. Sujeewa were left injured in the shooting on July 08.
+
+◼️
+
+[Data](articles/d35f453d.json)
+
+---
+
+### Man clubbed to death by son-in-law in Sainthamaruthu
+
+*2024-07-22 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100685/man-clubbed-to-death-by-son-in-law-in-sainthamaruthu) · `en`
+
+A 66-year-old person has been attacked to death with a metal rod in the Sainthamaruthu area yesterday (21), the police said.
+
+The daughter of the deceased had separated from her husband 08 years ago while there is an ongoing court case with regard to that.
+
+Despite the court case, her husband had attempted to unlawfully enter their house in the early hours of yesterday by jumping over the wall.
+
+At that time, the father of the suspect’s wife had intervened by pushing him out of the house.
+
+It was then that the daughter’s husband had allegedly attacked his father-in-law with a metal rod.
+
+The victim who was critically injured from the incident has succumbed to injuries upon admission to the hospital, the police said.
+
+Police have arrested the husband of the victim’s daughter who committed the murder and four other persons who aided him.
+
+The suspects are aged 33, 20, 19, 18, and 16 and are residents of the Sainthamaruthu area.
+
+◼️
+
+[Data](articles/44fc3ac9.json)
+
+---
+
+### අඹු සැමි යුවලකට වෙඩි ප්‍රහාරයක්
+
+*2024-07-22 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199076) · `si`
+
+මිද්දෙණිය පොලිස් වසමේ ගල්පොත්තයාය - ජුලම්පිටිය මාර්ගයේදී ඊයේ (21) රාත්‍රී 10ට පමණ වෙඩි තැබීමක් සිදුකර තිබේ.
+
+එහි ඉලක්කය වී තිබුණේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ  ප්‍රාදේශිය සභා අපේක්ෂකයෙ කි.
+
+ඔහු සිය වෙළෙඳසැල වසා බිරිඳ සමග යතුරුපැදියෙන් නිවාස බලා ගමන්කරමින් සිටියදී මෙම වෙඩි තැබීම සිදුකර ඇත.
+
+එහිදී 42 හැවිරිදි පිරිමි පුද්ගලයාට වෙඩි වැදී ඇති අතර ඔහුගේ බිරිඳ ට තුවාල සිදුවී ඇත්තේ යතුරුපැදිය පෙරළීම හේතුවෙනි.
+
+දෙදෙනාම ප්‍රතිකාර සඳහා මිද්දෙණිය රෝහලට ඇතුළුකර තිබේ. පසුව බිරිඳ ව වැඩිදුර ප්‍රතිකාර සඳහා ඇඹිලිපිටිය රෝහලට මාරුකර යැවිණි.
+
+වෙඩි තැබීම සඳහා මෙරට නිෂ්පාදිත ගිනි අවියක් යොදාගෙන ඇති අතර පොලීසිය පැවසුවේ වෙඩික්කරු එය එම ස්ථානයේ දමා පළාගොස් ඇති බවයි.
+
+◼️
+
+[Data](articles/af9831b9.json)
+
+---
+
+### කේරළ ප්‍රාන්තයේ හදිසි සෞඛ්‍ය තත්ත්වයක්
+
+*2024-07-22 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199075) · `si`
+
+ඉන්දියාවේ කේරළ ප්‍රාන්තය තුළ හදිසි සෞඛ්‍ය තත්ත්වයක් නිවේදනය කිරීමට ප්‍රාන්ත සෞඛ්‍ය බලධාරීන් කටයුතු කර තිබේ.
+
+ඒ නිපා වෛරසය ආසාදනය වීමෙන් 14 හැවිරිදි පිරිමි දරුවෙක් ජීවිතක්ෂයට පත්වීමෙන් අනතුරුව ය.
+
+එසේම මෙම රෝගය වැළදුණු තවත් 60 දෙනෙක් හඳුනාගෙන ඇති බව කේරළ සෞඛ්‍ය අමාත්‍ය වීනා ජෝර්ජ් පවසා ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+වෛරස ආසාදනයෙන් මිදීම සඳහා මුව ආවරණ පළඳින ලෙසත් ලෙඩුන් බැලීම සඳහා රෝහල් වලට යෑමෙන් වළකින ලෙසත් ජනතාවගෙන් සෞඛ්‍ය අංශ ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/51e6b43d.json)
+
+---
+
+### ஹிருணிகாவுக்கு பிணை
+
+*2024-07-22 10:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவுக்கு-பிணை/175-340810) · `ta`
+
+2015 ஆம் ஆண்டு கடத்தப்பட்ட சம்பவம் தொடர்பில் மூன்று வருட சிறைத்தண்டனை விதிக்கப்பட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவிற்கு கொழும்பு மேல் நீதிமன்றம், வியாழக்கிழமை (22) பிணை வழங்கியுள்ளது.
+
+ஹிருணிகா பிரேமச்சந்திரவை 2000 ரூபாய் ரொக்கப் பிணையில் விடுவிக்க கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா உத்தரவிட்டுள்ளார். 50ஆயிரம் ரூபாய் ரொக்க பணம் மற்றும், 500,000 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப்பிணைகளில் விடுவிக்கப்பட்டுள்ளார். அத்துடன், குற்றம் சாட்டப்பட்டவருக்கு பயணத் தடையும் விதிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/fa89675d.json)
+
+---
+
+### பண மோசடியில் ஈடுபட்ட மூவர் கைது
+
+*2024-07-22 10:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பண-மோசடியில்-ஈடுபட்ட-மூவர்-கைது/71-340809) · `ta`
+
+யாழ்ப்பாணத்தை சேர்ந்த இளையோரை வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக கூறி பெருந்தொகையான பண மோசடியில் ஈடுபட்ட குற்றச்சாட்டில் இரு பெண்கள் உட்பட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+வெளிநாடு அனுப்பி வைப்பதாக கூறியவர்களை நம்பி பணத்தினை கொடுத்து ஏமார்ந்த மூவர் வழங்கிய முறைப்பாட்டின் அடிப்படையில், விசாரணைகளை முன்னெடுத்த யாழ்ப்பாண பொலிஸார் மூவரை கைது செய்துள்ளனர்.
+
+மானிப்பாய் பகுதியை சேர்ந்த பெண்ணொருவரை 10 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும், காத்தான்குடி பகுதியை சேர்ந்தவரும் தற்போது களுத்துறை பகுதியில் வசித்து வரும் பெண்ணொருவரை 25 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும் , யாழ்ப்பாணத்தை சேர்ந்தவரும் தற்போது தெஹிவளையில் வசித்து வரும் நபரொருவரை 40 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும் பொலிஸார் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்டவர்களை பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/48c3cfff.json)
+
+---
 
 ### Today's thoughtful caricature
 
@@ -45,6 +159,16 @@ I'm here to assist with programming and technical tasks. Could you please provid
 [Data](articles/5159544f.json)
 
 [Extended Data](ext_articles/5159544f.ext.json)
+
+---
+
+### இன்றைய சிந்தனைக்குரிய கேலிச்சித்திரம்
+
+*2024-07-22 09:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/62-340807) · `ta`
+
+◼️
+
+[Data](articles/6c7e1831.json)
 
 ---
 
@@ -2103,185 +2227,5 @@ Hettiarachchi said the government, which has avoided the local government electi
 [Data](articles/3e162e1b.json)
 
 [Extended Data](ext_articles/3e162e1b.ext.json)
-
----
-
-### Fire at the traditional house of the mainstream of Kataragama Devalaya in Kandy
-
-*2024-07-21 18:11:52* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-කතරගම-දේවාලයේ-ප්‍රධාන-කපුමහතාගේ-පාරම්පරික-නිවසේ-ගින්නක්/11-410893) · `si`
-
-A major fire broke out at the traditional house of the Kataragama Devalaya in Kandy, destroying the main cotton building. The blaze started around 2:30 am on 21st and caused significant damage. Firefighters, police, and locals worked together to extinguish it.
-
-🟩
-
-Kandy headquarters says that the main fire has been destroyed due to a fire at the high-floor of the traditional house where the main cotton was living in the historic Sri Kataragama Devalaya in Kandy.
-
-It is reported that the fire has been severely damaged in the construction of the fire at 2.30 am today (21).
-
-The Kandy Municipal Fire Brigade, the police and the masses, had taken steps to turn off the fire.
-
-◼️
-
-[Data](articles/3a1936b3.json)
-
-[Extended Data](ext_articles/3a1936b3.ext.json)
-
----
-
-### The latest situation in club spring murders
-
-*2024-07-21 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199058) · `si`
-
-Police arrested suspects linked to the Club Spring murders, including a woman whose bus was allegedly used in the plot. The woman was detained for questioning after being produced in court. Authorities are searching for the bus and investigating the conspiracy behind the murders.
-
-🟩
-
-Police officers arrested the Club Spring murder incident and arrested the police officers yesterday (20) at Mirissa.
-
-Police Media Spokesperson DIG'sary DIG's latter brother said that a bus used for planning the killing of club spring is registered in the name of the woman.
-
-Therefore, she was arrested and produced before the court to investigate the woman and the murder conspiracy.
-
-The Kaduwela Magistrate's Court had allowed her to hold her for 48 hours and questioned.
-
-"The bus has not yet been available. Hidden. Looking for it .. "
-
-The Police Media Spokesperson further stated that the woman had gone to the place of planning of the Club Wasantha.
-
-He also said that the bus had been purchased to go to the killing of the people.
-
-The club was shot dead by two unidentified gunmen at the center in Athurugiriya on July 08.
-
-◼️
-
-[Data](articles/ccd5ce4c.json)
-
-[Extended Data](ext_articles/ccd5ce4c.ext.json)
-
----
-
-### Proposal for Ranil to contest Presidential Election approved at ‘Ekwa Jayagamu’ Gampaha rally
-
-*2024-07-21 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100672/proposal-for-ranil-to-contest-presidential-election-approved-at-ekwa-jayagamu-gampaha-rally) · `en`
-
-During the ‘Ekwa Jayagamu’ rally held in Gampaha today (21), Minister Prasanna Ranatunga proposed that President Ranil Wickremesinghe must contest the next Presidential Election.
-
-The proposal was then unanimously approved by all those in attendance with a show of hands, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/a5aea163.json)
-
-[Extended Data](ext_articles/a5aea163.ext.json)
-
----
-
-### The two main suspects of the club spring murder soon arrest
-
-*2024-07-21 17:31:30* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතනයේ-ප්‍රධාන-සැකකරුවන්-දෙදෙනා-ඉක්මනින්-අත්අඩංගුවට-ගන්නවා/11-410892) · `si`
-
-Main suspects in the Club Wasantha murder case, including Suresrantra Perera, were quickly apprehended. Minister Tiran Alles highlighted the importance of maintaining law and order, addressing drug issues, and fostering a positive youth community during his speech at the Nuwara Eliya District Conference of the United People's Party. He emphasized the need for responsible leadership and the fight against corruption, appealing to the public to support their efforts towards national development.
-
-🟩
-
-Club Wasantha alias, Suresrandra, Surendra, Surendra, Surendra, Surendra, Surendra, Suresantra Perera, the other suspects were arrested in a short period of time.
-
-Minister Tiran Alles was in the event of the Nuwara Eliya District Conference of the United People's Party (21) at the Negombo New Town Hall.
-
-"When the former President of the country was sentenced to the resignation of the country, we received a responsibility when the country was infected.
-
-As the President, Ranil Wickremesinghe has to act very responsible for the protection of the country as the President of the country.
-
-When the law was destroyed by various activities like struggles, we wanted to install law and order.
-
-The majority opposed the majority of the choices, so that there was more accepted, so we could do.
-
-When the President resisted economic problems, we could strengthen the security.
-
-The biggest challenge is that he will continue to destroy the youth and the youth of the country and create a good youth community.
-
-...
-
-[Data](articles/a3d5e8e4.json)
-
-[Extended Data](ext_articles/a3d5e8e4.ext.json)
-
----
-
-### A tragic story recorded by aranayaka
-
-*2024-07-21 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199057) · `si`
-
-In Mawanella Aranayaka, a nine-year-old boy named Kavinda Dinesh passed away due to heart issues. Despite being hospitalized and transferred to Kandy, Peradeniya Hospital, his body remained unclaimed for 17 days because his birth certificate wasn't available. His mother, facing abandonment from her husband and financial struggles, couldn't retrieve his remains due to cultural and economic barriers.
-
-🟩
-
-Mawanella Aranayaka area reports
-
-The nine-year-old son, Kavinda Dinesh, a resident of a house of Aranayaka, a resident of a house in the colony of the colonians died on the 4th.
-
-Dinesh's mother, 32 year old organiser Jayamani said his son was diagnosed with heart, and later visited the hospital clinic.
-
-He was taken to the Mawanella Base Hospital as the son of son was intensified on the 4th.
-
-With the severe escalation of the condition, the child was transferred to Kandy, Peradeniya Hospital.
-
-But his body has not been provided with the child's custody of the hospital for 17 days. The child's birth certificate was not produced at the hospital.
-
-When asked about the death of Dinesh's mother, she said his husband had left her husband and that Dinesh son, as well as his two daughters, was unable to obtain birth certificates.
-
-However, when she asked her not to house his son's body, she said that the son's body was not preaching home again, as his son died.
-
-...
-
-[Data](articles/1eb3610a.json)
-
-[Extended Data](ext_articles/1eb3610a.ext.json)
-
----
-
-### Two hospitalized at the South Expressway
-
-*2024-07-21 17:15:32* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයේ-අනතුරින්-පහක්-රෝහලට/11-410890) · `si`
-
-A collision between two cars on the South Expressway resulted in five injuries and closure of the road. The incident occurred near Matara to Colombo, causing significant disruption. Victims are treated at Karapitiya Hospital, and further investigations are ongoing.
-
-🟩
-
-The Expressway Police say that the 5 people were injured and hospitalized that two cars collided with two cars.
-
-The vehicle had reached the road to the road with the car in the center of Matara to Colombo with the fall of the car.Mentions
-
-The road has been completely closed and the road to Colombo has run out of the road and driven the road and opened vehicles and opened vehicles
-
-The accident had been severely disrupted the road to Colombo, and the safe fence of the Expressway has been incurred, police said
-
-The injured have been admitted to the Karapitiya Hospital. Southern Expressway Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a8e323d2.json)
-
-[Extended Data](ext_articles/a8e323d2.ext.json)
-
----
-
-### Bail
-
-*2024-07-21 17:11:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/அசங்கவுக்கு-பிணை/95-340769) · `ta`
-
-Asanga Abeygunasekara, arrested at Katunayake airport, was released on two physical bails of Rs 10 lakh each. He must appear before the Colombo Magistrate's Court on August 9 as per orders from Negombo Magistrate Rakita Abeysinghe.
-
-🟩
-
-Asanga Abeygunasekara, who was arrested at the Katunayake airport, was produced before the Katunayake airport police in the presence of Negombo Magistrate Rakita Abeysinghe on Sunday evening.
-
-He was released on two physical bail worth Rs 10 lakh each and the Negombo Magistrate has ordered Asanga Abeygunasekara to appear before the Colombo Magistrate's Court on August 9.
-
-◼️
-
-[Data](articles/15cb1560.json)
-
-[Extended Data](ext_articles/15cb1560.ext.json)
 
 ---

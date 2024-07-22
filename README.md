@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 10:54:47**
+As of **2024-07-22 11:07:45**
 
 ## Newspaper Stats
 
-*Scraped **36,516** Articles*
+*Scraped **36,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,083
 economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,292
-adaderanalk | 4,226
+adaderanalk | 4,227
 tamilmirrorlk | 4,457
 dailymirrorlk | 4,733
 virakesarilk | 5,719
@@ -26,11 +26,35 @@ adaderanasinhalalk | 6,128
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,509 (100.0%) of 36,516 articles have been extended.
+36,516 (100.0%) of 36,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
+
+### Alert issued in India after boy dies from high risk Nipah virus
+
+*2024-07-22 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100687/alert-issued-in-india-after-boy-dies-from-high-risk-nipah-virus) · `en`
+
+Health authorities in India’s Kerala state have issued an alert after a 14-year-old boy died of the Nipah virus.
+
+According to the state’s health minister, an additional 60 people have been identified as being in the high-risk category of having the disease.
+
+Kerala Health Minister Veena George said the boy was from the town of Pandikkad and that those who came into contact with him have been isolated and tested.
+
+People in the area have been asked to take precautions such as wearing masks in public areas and refraining from visiting people in hospital.
+
+The Nipah virus infection is a “zoonotic illness” transmitted from animals like pigs and fruit bats to humans, according to the World Health Organization (WHO).
+
+It can also be transmitted through contaminated food and through contact with an infected person.
+
+The WHO has described the virus as a priority pathogen by the WHO because of its potential to trigger an epidemic.
+
+...
+
+[Data](articles/fd3a5843.json)
+
+---
 
 ### ‘Club Wasantha’ murder: Suspects produced before court
 
@@ -45,6 +69,8 @@ Two persons including ‘Club Wasantha’ were killed while four other including
 ◼️
 
 [Data](articles/d35f453d.json)
+
+[Extended Data](ext_articles/d35f453d.ext.json)
 
 ---
 
@@ -72,77 +98,103 @@ The suspects are aged 33, 20, 19, 18, and 16 and are residents of the Sainthamar
 
 [Data](articles/44fc3ac9.json)
 
+[Extended Data](ext_articles/44fc3ac9.ext.json)
+
 ---
 
-### අඹු සැමි යුවලකට වෙඩි ප්‍රහාරයක්
+### Shooting a couple shot
 
 *2024-07-22 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199076) · `si`
 
-මිද්දෙණිය පොලිස් වසමේ ගල්පොත්තයාය - ජුලම්පිටිය මාර්ගයේදී ඊයේ (21) රාත්‍රී 10ට පමණ වෙඩි තැබීමක් සිදුකර තිබේ.
+In a shooting incident near the Midadeniya police division, a 42-year-old man and his wife were targeted. The victim, an SLFP Pradeshiya Sabha candidate, was shot while riding a motorcycle with his wife. Both were hospitalized; the wife was later moved to another hospital for further care. The shooter fled the scene.
 
-එහි ඉලක්කය වී තිබුණේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ  ප්‍රාදේශිය සභා අපේක්ෂකයෙ කි.
+🟩
 
-ඔහු සිය වෙළෙඳසැල වසා බිරිඳ සමග යතුරුපැදියෙන් නිවාස බලා ගමන්කරමින් සිටියදී මෙම වෙඩි තැබීම සිදුකර ඇත.
+A shooting was shot at the Midadeniya police division - Julampathitiya road at around 10 pm yesterday.
 
-එහිදී 42 හැවිරිදි පිරිමි පුද්ගලයාට වෙඩි වැදී ඇති අතර ඔහුගේ බිරිඳ ට තුවාල සිදුවී ඇත්තේ යතුරුපැදිය පෙරළීම හේතුවෙනි.
+Its goal was in the SLFP Pradeshiya Sabha Pradeshiya Sabha candidate.
 
-දෙදෙනාම ප්‍රතිකාර සඳහා මිද්දෙණිය රෝහලට ඇතුළුකර තිබේ. පසුව බිරිඳ ව වැඩිදුර ප්‍රතිකාර සඳහා ඇඹිලිපිටිය රෝහලට මාරුකර යැවිණි.
+The shooting was carried out while he was shooting with his wife with his wife closing his wife.
 
-වෙඩි තැබීම සඳහා මෙරට නිෂ්පාදිත ගිනි අවියක් යොදාගෙන ඇති අතර පොලීසිය පැවසුවේ වෙඩික්කරු එය එම ස්ථානයේ දමා පළාගොස් ඇති බවයි.
+The 42-year-old men were shot and his wife was injured due to the rolling of the motorcycle.
+
+Both have been admitted to the Middeniya hospital. The wife was later transferred to Embilipitiya Hospital for further treatment.
+
+The shooting has been used for shooting and the police said the sholder had fled the place.
 
 ◼️
 
 [Data](articles/af9831b9.json)
 
+[Extended Data](ext_articles/af9831b9.ext.json)
+
 ---
 
-### කේරළ ප්‍රාන්තයේ හදිසි සෞඛ්‍ය තත්ත්වයක්
+### Emergency health in the state of Kerala
 
 *2024-07-22 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199075) · `si`
 
-ඉන්දියාවේ කේරළ ප්‍රාන්තය තුළ හදිසි සෞඛ්‍ය තත්ත්වයක් නිවේදනය කිරීමට ප්‍රාන්ත සෞඛ්‍ය බලධාරීන් කටයුතු කර තිබේ.
+Kerala faces an emergency health crisis due to the Niha Virus, which has claimed one life and affected 60 others. Health Minister Visena urges healthcare workers to wear protective gear and advises the public to seek hospital care promptly.
 
-ඒ නිපා වෛරසය ආසාදනය වීමෙන් 14 හැවිරිදි පිරිමි දරුවෙක් ජීවිතක්ෂයට පත්වීමෙන් අනතුරුව ය.
+🟩
 
-එසේම මෙම රෝගය වැළදුණු තවත් 60 දෙනෙක් හඳුනාගෙන ඇති බව කේරළ සෞඛ්‍ය අමාත්‍ය වීනා ජෝර්ජ් පවසා ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+County health authorities have acted in announcing an emergency health in Kerala, India.
 
-වෛරස ආසාදනයෙන් මිදීම සඳහා මුව ආවරණ පළඳින ලෙසත් ලෙඩුන් බැලීම සඳහා රෝහල් වලට යෑමෙන් වළකින ලෙසත් ජනතාවගෙන් සෞඛ්‍ය අංශ ඉල්ලා සිටියි.
+A 14-year-old boy was killed after he was infected with the Niha Virus.
+
+The Minister of Health Visena has said that 60 others have identified the disease, according to international media reports.
+
+The people call for health sectors to wear the deer to hospitals to get rid of virus infection and to see the sick.
 
 ◼️
 
 [Data](articles/51e6b43d.json)
 
+[Extended Data](ext_articles/51e6b43d.ext.json)
+
 ---
 
-### ஹிருணிகாவுக்கு பிணை
+### Bail for Hirunika
 
 *2024-07-22 10:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவுக்கு-பிணை/175-340810) · `ta`
 
-2015 ஆம் ஆண்டு கடத்தப்பட்ட சம்பவம் தொடர்பில் மூன்று வருட சிறைத்தண்டனை விதிக்கப்பட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவிற்கு கொழும்பு மேல் நீதிமன்றம், வியாழக்கிழமை (22) பிணை வழங்கியுள்ளது.
+The Colombo High Court granted bail to former MP Hirunika Premachandra, sentenced to three years for her role in the 2015 abduction. She must pay Rs 2 million in cash and provide two sureties of Rs 500,000 each, along with adhering to a travel ban.
 
-ஹிருணிகா பிரேமச்சந்திரவை 2000 ரூபாய் ரொக்கப் பிணையில் விடுவிக்க கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா உத்தரவிட்டுள்ளார். 50ஆயிரம் ரூபாய் ரொக்க பணம் மற்றும், 500,000 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப்பிணைகளில் விடுவிக்கப்பட்டுள்ளார். அத்துடன், குற்றம் சாட்டப்பட்டவருக்கு பயணத் தடையும் விதிக்கப்பட்டது.
+🟩
+
+The Colombo High Court on Thursday (22) granted bail to former MP Hirunika Premachandra, who was sentenced to three years in prison in connection with the 2015 abduction.
+
+Colombo High Court Judge Amal Ranarajah has ordered Hirunika Premachandra to be released on cash bail of Rs 2000. 50 thousand rupees in cash and two bodies worth Rs 500,000 lakh. In addition, the accused was imposed on a travel ban.
 
 ◼️
 
 [Data](articles/fa89675d.json)
 
+[Extended Data](ext_articles/fa89675d.ext.json)
+
 ---
 
-### பண மோசடியில் ஈடுபட்ட மூவர் கைது
+### Three arrested for alleged money laundering
 
 *2024-07-22 10:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பண-மோசடியில்-ஈடுபட்ட-மூவர்-கைது/71-340809) · `ta`
 
-யாழ்ப்பாணத்தை சேர்ந்த இளையோரை வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக கூறி பெருந்தொகையான பண மோசடியில் ஈடுபட்ட குற்றச்சாட்டில் இரு பெண்கள் உட்பட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+Three women and one man were arrested in Sri Lanka for allegedly facilitating a young man's overseas travel through financial support. The arrests followed a complaint about money being sent to individuals claiming to be abroad. Detainees, including a woman from Manipay, a man from Kattankudi, a Kalutara resident, and another from Jaffna now in Dehiwala, are under investigation.
 
-வெளிநாடு அனுப்பி வைப்பதாக கூறியவர்களை நம்பி பணத்தினை கொடுத்து ஏமார்ந்த மூவர் வழங்கிய முறைப்பாட்டின் அடிப்படையில், விசாரணைகளை முன்னெடுத்த யாழ்ப்பாண பொலிஸார் மூவரை கைது செய்துள்ளனர்.
+🟩
 
-மானிப்பாய் பகுதியை சேர்ந்த பெண்ணொருவரை 10 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும், காத்தான்குடி பகுதியை சேர்ந்தவரும் தற்போது களுத்துறை பகுதியில் வசித்து வரும் பெண்ணொருவரை 25 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும் , யாழ்ப்பாணத்தை சேர்ந்தவரும் தற்போது தெஹிவளையில் வசித்து வரும் நபரொருவரை 40 இலட்ச ரூபாய் மோசடி செய்த குற்றச்சாட்டிலும் பொலிஸார் கைது செய்துள்ளனர்.
+Three women, including two women, have been arrested for allegedly sending a young man from Jaffna abroad.
 
-கைது செய்யப்பட்டவர்களை பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+Based on a complaint filed by the trio by giving money to those who claimed to be abroad, the Jaffna police have arrested three persons.
+
+Police have arrested a woman from Manipayi, a man from Kattankudi area and a resident of Kalutara, who is currently living in Kalutara, and a man from Jaffna who is currently living in Dehiwala.
+
+It is noteworthy that the detainees are carrying out investigations at the police station.
 
 ◼️
 
 [Data](articles/48c3cfff.json)
+
+[Extended Data](ext_articles/48c3cfff.ext.json)
 
 ---
 
@@ -162,13 +214,19 @@ I'm here to assist with programming and technical tasks. Could you please provid
 
 ---
 
-### இன்றைய சிந்தனைக்குரிய கேலிச்சித்திரம்
+### Today's thoughtful caricature
 
 *2024-07-22 09:58:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/62-340807) · `ta`
+
+I'm here to assist with programming and technical tasks. Could you please provide more details or clarify what specific information or assistance you need?
+
+🟩
 
 ◼️
 
 [Data](articles/6c7e1831.json)
+
+[Extended Data](ext_articles/6c7e1831.ext.json)
 
 ---
 
@@ -2203,29 +2261,5 @@ The Presidential Media Unit said that all in the rally was lifted and passed una
 [Data](articles/dca83f83.json)
 
 [Extended Data](ext_articles/dca83f83.ext.json)
-
----
-
-### “Do not amend the referendum”
-
-*2024-07-21 18:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்புக்கு-வழிவகுக்கும்-திருத்தம்-வேண்டாம்/175-340772) · `ta`
-
-The People's Function for Independent and Fair Elections warns against amending the referendum, citing potential misuse of funds as a financial crime amidst an economic crisis. The group criticizes the government for avoiding local government elections, suggesting it prioritizes maintaining its power over democratic processes.
-
-🟩
-
-The People's Function for Independent and Fair Elections has said that the President -led government has asked the President not to bring any amendments to the referendum.
-
-The Executive Director Rohana Hettiarachchi said that if the country spends ten billion rupees in the face of the economic crisis, it is a financial crime.
-
-He also said that the government would not accept amendments to the referendum when the local government elections were postponed.
-
-Hettiarachchi said the government, which has avoided the local government elections, is showing how it works for the survival of its own power.
-
-◼️
-
-[Data](articles/3e162e1b.json)
-
-[Extended Data](ext_articles/3e162e1b.ext.json)
 
 ---

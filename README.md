@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 18:15:43**
+As of **2024-07-22 18:27:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,143
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,598 (100.0%) of 36,599 articles have been extended.
+36,599 (100.0%) of 36,599 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,9 +62,15 @@ Accordingly, the courts ordered the three suspects including Dulan Sanjaya till 
 
 *2024-07-22 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100705/club-wasantha-murder-tattoo-studio-owner-makes-confidential-statement-to-court) · `en`
 
-The owner of the tattoo studio in Athurugiriya has made a confidential statement before the Kaduwela Magistrate over the recent shooting and killing of two individuals including Surendra Wasantha Perera alias ‘Club Wasantha’.
+Dulan Sanjula, the owner of the tattoo studio in Athurugiriya, has made a confidential statement before the Kaduwela Magistrate over the recent shooting and killing of two individuals including Surendra Wasantha Perera alias ‘Club Wasantha’.
 
-◼️
+Meanwhile, the seven suspects including Dulan Sanjula have been ordered to be remanded further until August 5, 2024.
+
+The suspect, who was arrested in connection with the incident, had requested permission to make a confidential statement to the Kaduwela Magistrate. He made this request when the seven suspects arrested in relation to the incident were produced before the court on July 10.
+
+However, the Kaduwela Magistrate had advised the suspect in question to rethink the decision and make the request again during an upcoming court date.
+
+...
 
 [Data](articles/0bf4fbde.json)
 
@@ -162,17 +168,23 @@ The PROMO of the concert was released and the opportunity to photograph Vijay An
 
 ---
 
-### விஜய் ஆண்டனியுடனான செல்ஃபிக்கு ரூ.30,000
+### Rs 30,000 for selfie with Vijay Antony
 
 *2024-07-22 17:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-ஆண்டனியுடனான-செல்ஃபிக்கு-ரூ-30-000/175-340840) · `ta`
 
-கொழும்பு சுகததாச உள்ளகரங்கில் செப்டெம்பர் 7ஆம் திகதி  நடைபெற உள்ள விஜய் ஆண்டனியின் இசை நிகழ்ச்சியின் முன்னேற்பாடாக  One Galle Face வணிக வளாகத்தில் ஊடகவியலாளர் சந்திப்பொன்று ஞாயிற்றுக்கிழமை (21) நடத்தப்பட்டது.
+Vijay Antony's concert promo revealed a unique offer: fans buying Rs 30,000 tickets get a selfie with him. The announcement was made during a media briefing at One Galle Face Business Complex, ahead of the concert scheduled for September 7 at Sugathadasa, Colombo.
 
-குறித்த இசை நிகழ்ச்சியின் promo வெளியிடப்பட்டதுடன் இசை நிகழ்ச்சியில் கலந்துகொள்வதற்காக 30,000 ரூபாய் பெறுமதியுடைய நுழைவுச்சீட்டுகளை கொள்வனவு செய்வோர்களுக்கு விஜய் ஆண்டனியுடன்  (செல்ஃபி) புகைப்படம் எடுக்க வாய்ப்பு வழங்கப்பட்டது.
+🟩
+
+A media briefing was held on Sunday (21) at the One Galle Face Business Complex as a leading event of Vijay Antony's concert to be held on September 7 at Sugathadasa in Colombo.
+
+The PROMO of the concert was released and the opportunity to photograph Vijay Antony (Selfie) for the buyers of Rs 30,000 worth of tickets to attend the concert.
 
 ◼️
 
 [Data](articles/f771e025.json)
+
+[Extended Data](ext_articles/f771e025.ext.json)
 
 ---
 

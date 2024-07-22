@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 09:06:48**
+As of **2024-07-22 09:20:31**
 
 ## Newspaper Stats
 
-*Scraped **36,491** Articles*
+*Scraped **36,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,083
 economynextcom | 2,173
 dailyftlk | 2,321
 adalk | 3,291
-adaderanalk | 4,218
+adaderanalk | 4,222
 tamilmirrorlk | 4,448
 dailymirrorlk | 4,733
 virakesarilk | 5,717
@@ -26,43 +26,127 @@ adaderanasinhalalk | 6,123
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,486 (100.0%) of 36,491 articles have been extended.
+36,491 (100.0%) of 36,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### බිත්තර ආනයනය ගැන අවසන් තීරණය අද
+### Advisory issued over strong winds and rough seas
+
+*2024-07-22 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/100682/-advisory-issued-over-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ warning for strong winds and rough seas for naval and multi-day fishermen communities in the Arabian Sea and Bay of Bengal.
+
+As per the warning, very strong winds of 70-80 kmph, and very rough seas are likely over Arabian Sea area (in sea areas bounded by (10N - 18N) and (55E – 75E)) and Bay of Bengal (in sea areas bounded by (15N - 20N) and (84E – 91E)) due to the active south-west monsoonal condition.
+
+Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ color on the map below until further notice.
+
+Those who are out at aforementioned sea regions are advised to return to coasts or moved safer areas immediately.
+
+Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/909961d7.json)
+
+---
+
+### Teachers and principals launch ‘work-to-rule’ campaign
+
+*2024-07-22 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100681/teachers-and-principals-launch-work-to-rule-campaign) · `en`
+
+The Teacher-Principal Trade Unions have decided to launch a ‘work-to-rule’ campaign for two weeks starting from today (22).
+
+Accordingly, the unions say that they will not participate in the workshops, any external professional activities and training programmes prescribed by the provincial and zonal education offices from today.
+
+The General Secretary of the National Association of Principals, Parakrama Weerasinghe said, that in the next two weeks they will only be involved in teaching activities in the classrooms and will withdraw from all external activities.
+
+However, the Convenor of the National Collective Against Teachers’ & Principals’ Salary Disparities Ven. Ulapane Sumangala Thero said that they do not support the union action planned with the aim of strengthening political movements.
+
+◼️
+
+[Data](articles/4afbbb2b.json)
+
+---
+
+### Showers expected in parts of the country
+
+*2024-07-22 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100680/showers-expected-in-parts-of-the-country) · `en`
+
+A few showers may occur in Western and Sabaragamuwa provinces and in Galle and Matara districts, says the Department of Meteorology.
+
+Strong winds of about 50-55kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds of about 30-40kmph can be expected at times elsewhere in the island, it said.
+
+◼️
+
+[Data](articles/2aa0031a.json)
+
+---
+
+### Final decision on importation today
 
 *2024-07-22 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199071) · `si`
 
-බිත්තරයක් අද (22) සිට රුපියල් 42කට වෙළෙඳපොළට නිකුත් කරන බව බිත්තර නිෂ්පාදකයින්ගේ සංගමය පවසයි.
+Egg prices may decrease as the government plans to re-import eggs to Sri Lanka, addressing concerns raised by the Egg Manufacturers' Association and its president, RM Sarath Ratnayake.
 
-ඉදිරියේ දී බිත්තර මිල තවදුරටත් අඩු කිරීමට පියවර ගන්නා බව එම සංගමයේ සභාපති ආර්.එම් සරත් රත්නායක මහතා පැවසුවේය.
+🟩
 
-කෙසේවෙතත් බිත්තර මිල පාලනය කිරීම සඳහා ඉදිරියේ දී යළි බිත්තර මෙරටට  ආනයනය කිරීමට රජය තීරණය කර බව වාර්තා වේ.
+The egg manufacturers' association says that an egg will be released to the market today (22).
 
-ඒ සම්බන්ධයෙන් අද දෙරණ වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතාගෙන් සිදුකළ විමසීමක දී ඔහු සඳහන් කළේ මෙරටට යළි බිත්තර ආනයනය කිරීම පිළිබඳව තීරණය අද දිනයේ දී දැනුම් දීමට නියමිත බවය.
+The President of the Association RM Sarath Ratnayake said that steps will be taken to reduce the price of eggs in the future.
+
+However, it is reported that the government has decided to import eggs back to Sri Lanka to control the price of eggs.
+
+In a query, Derana Trade Minister Nalin Fernando, he said that the decision of importing eggs again in this regard is the decision of importing eggs.
 
 ◼️
 
 [Data](articles/ccbcd999.json)
 
+[Extended Data](ext_articles/ccbcd999.ext.json)
+
 ---
 
-### ’புலம்பெயர் தொழிலாளர்களுக்கு கௌரவம் வழங்கப்படும்’
+### Woman and two sons drown in abandoned water-filled quarry
+
+*2024-07-22 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/100679/woman-and-two-sons-drown-in-abandoned-water-filled-quarry) · `en`
+
+A 32-year-old woman and her two sons, aged 9 and 14, have drowned in an abandoned water-filled quarry at Kawanthissapura, Tissamaharama.
+
+The woman’s body has been recovered, and a search is underway to recover the bodies of the two boys, according to the police.
+
+It is reported that the mother and her two children had gone to bathe in this water-filled quarry last evening (21).
+
+◼️
+
+[Data](articles/dbe192bd.json)
+
+---
+
+### Democratic workers are honored
 
 *2024-07-22 08:03:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலம்பெயர்-தொழிலாளர்களுக்கு-கௌரவம்-வழங்கப்படும்/175-340800) · `ta`
 
-புலம்பெயர் தொழிலாளர்கள் தமது சேவைக் காலத்தை முடித்துக் கொண்டு நாடு திரும்பிய பின்னர் கௌரவமாக வாழக்கூடிய சூழல் உருவாக்கப்படும் எனவும்  கடந்த பொருளாதார நெருக்கடியின்போது நாட்டிற்கு அந்நியச் செலாவணியை ஈட்டித்தந்த அவர்களின் பங்களிப்புக்கு நன்றி என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Wickremesinghe thanked diaspora workers for their contributions during Sri Lanka's economic crisis, promising them a dignified return. He inaugurated the 'Vikamanika Harasara' event, honoring their economic impact, especially in the Northwest Province. The initiative includes financial support for starting self-employment, aiming to foster entrepreneurship among returning workers.
 
-குருணாகல் சத்தியவாதி விளையாட்டரங்கில் நேற்று இடம்பெற்ற 'விகமனிக ஹரசர' நிகழ்ச்சியின் ஆரம்ப நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-இலங்கையின் பொருளாதாரத்திற்கு புலம்பெயர் தொழிலாளர்களின் பங்களிப்பை பாராட்டுவதற்காக, நாடு முழுவதும் ஏற்பாடு செய்யப்பட்ட 'விகமனிக ஹரசர' நிகழ்ச்சி வடமேற்கு மாகாணத்தில் ஆரம்பிக்கப்பட்டதுடன், இதில் குருணாகல், புத்தளம், அனுராதபுரம், மாத்தளை, கேகாலை ஆகிய மாவட்டங்களைச் சேர்ந்த புலம்பெயர் தொழிலாளர்கள் சுமார் 5,000 பேர் கலந்துகொண்டனர்.
+President Ranil Wickremesinghe said that the diaspora workers will be able to live in a dignified environment after their return to their service, and thank the country for their contribution to the country during the last economic crisis.
 
-...
+The President said this while addressing the inauguration of the 'Vikamanika Harasara' event at the Satyavadi Stadium in Kurunegala yesterday.
+
+The 'Vikamanika Harasara' program organized by the country was launched in the Northwest Province to commemorate the contribution of the diaspora workers to the economy of Sri Lanka, with about 5,000 diaspora workers from Kurunegala, Puttalam, Anuradhapura, Matale and Kegalle districts.
+
+The President paid 50,000 rupees each to start self -employment recommended by diaspora workers to create entrepreneurs under the Welfare Assistance Scheme of the Sri Lanka Foreign Employment Bureau.. (A)
+
+◼️
 
 [Data](articles/cb6e91de.json)
+
+[Extended Data](ext_articles/cb6e91de.ext.json)
 
 ---
 
@@ -162,19 +246,25 @@ At the recent election -related direct argument, Donald Trump was unable to answ
 
 ---
 
-### அமெரிக்க ஜனாதிபதி தேர்தல் - ஜனநாயக கட்சியின் புதிய வேட்பாளராக கமலா ஹரிஸினை அறிவித்தார் பைடன்
+### US presidential election - Democratic Party's new candidate
 
 *2024-07-22 06:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189044) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலில் ஜனநாயக கட்சியின் சார்பில் போட்டியிடுவதிலிருந்து விலகியுள்ள ஜோபைடன் ஜனநாயக கட்சியின் வேட்பாளராக துணை ஜனாதிபதி கமலா ஹரிசினை அறிவித்துள்ளார்.
+Kamala Harris, former VP, is now the Democratic candidate for president, replacing Joe Biden who left the party. This move comes after Biden's departure from the race, signaling a shift in leadership within the Democratic Party ahead of the upcoming US presidential election.
 
-இந்த வருடம் எங்கள் கட்சியின் வேட்பாளராக கமலா வருவதற்கு நான் எனது முழு ஆதரவையும் ஒப்புதலையும் வழங்கவிரும்புகின்றேன் என டுவிட்டரில் பைடன் தெரிவித்துள்ளார்.
+🟩
 
-ஜனநாயக கட்சியினரே ஒன்றிணைந்து டிரம்பினை தோற்கடிக்கவேண்டிய நேரம் இது இதனை செய்வோம் என அவர் தெரிவித்துள்ளார்.
+Vice President Kamala Harisin has announced as the Democratic candidate of Jobitin, who has quit the Democratic Party in the US presidential election.
+
+"I want to give my full support and approval for Kamala as our party's candidate this year," said Bite on Twitter.
+
+"It will be the time for the Democrats to come together and defeat Trump," he said.
 
 ◼️
 
 [Data](articles/53e94300.json)
+
+[Extended Data](ext_articles/53e94300.ext.json)
 
 ---
 
@@ -1276,27 +1366,35 @@ In response to this, a spokesman for the Sri Lanka Environmental Protection Auth
 
 ---
 
-### අනුරට හා සජිත්ට ජනපතිගෙන් ආරාධනාවක්
+### President invites the victim and Sajith
 
 *2024-07-21 19:18:02* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-හා-සජිත්ට-ජනපතිගෙන්-ආරාධනාවක්/11-410897) · `si`
 
-රටේ අනාගතය දේශපාලන න්‍යාය පත්‍ර අනුව සකස් කිරීමට කිසිවිටෙකත් ඉඩ දෙන්නේ නැහැ
+President Ranil Wickremesinghe, addressing a crowd in Gampaha, emphasizes the importance of national unity and progress over political agendas. He invites opposition leaders Sajith Premadasa and Anura Kumara Dissanayake to join his efforts to rebuild the country, highlighting achievements like agricultural modernization and educational reforms. He stresses the need for a future driven by the needs of the nation, not politicians' agendas, and calls for collective action to avoid repeating past mistakes.
 
-එම ගමනට එක්වන ලෙස සජිත් ප්‍රේමදාස මහතාට සහ අනුර කුමාර දිසානායක මහතාට ආරාධනා කරනවා.
+🟩
 
-මීට වසර දෙකකට පෙර මම භාරගත්තේ ආර්ථිකයක්, ආණ්ඩුවක් නොතිබූ රටක්.
+Never allow the future of the country by political agenda
 
-තරුණ පරපුරට හොඳ අනාගතයක් ගොඩනඟා දීම වෙනුවෙන් එම ගමන ඉදිරියටම ගෙන යනවා – “එක්ව ජය ගමු – අපි ගම්පහ” ජන හමුව අමතමින් ජනපති පවසයි.
+Sajith Premadasa and Anura Kumara Dissanayake invites Sajith Premadasa to join the journey.
 
-රටේ අනාගතය දේශපාල න්‍යාය පත්‍ර අනුව සකස් කිරීමට තමා කිසිවිටෙකත් ඉඩ නොතබන බවත්, රටේ න්‍යාය පත්‍රය අනුව දේශපාලනය සකස් විය යුතු බවත් අවධාරණය කළජනාධිපති රනිල් වික්‍රමසිංහ මහතා එම ගමනට එක්වන ලෙස තමා සජිත් ප්‍රේමදාස මහතාට සහ අනුර කුමාර දිසානායක මහතාට ආරාධනා කරන බවද පැවසීය.
+Two years ago, I accepted a country where there was no government.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ කඩවත බස් නැවතුම්පොළ අසළදී අද (21) පස්වරුවේ පැවති “එක්ව ජය ගමු – අපි ගම්පහ” ජන රැළිය අමතමිනි.
+Let us take a good future for building a good future - "We win the winning -" We will call on the masses in Gampaha.
 
-රජයේ වැඩපිළිවෙළ සහ ඉදිරි ගමන් මග සම්බන්ධයෙන් ජනතාව දැනුවත් කිරීම සඳහා පැවති මෙම ජන හමුවට ගම්පහ දිස්ත්‍රික්කයේ අතිවිශාල ජනතාවක් එක්ව සිටි අතර රජයේ වැඩපිළිවෙළට එම ජනතාවගේ සහාය පළ කරමින් ඔවුන් මෙහිදී උණුසුම් ලෙස ජනාධිපතිවරයාව පිළිගනු ලැබීය.
+He said that he would invite Sajith Premadasa and Anura Kumara Dissanayake said that he would not allow the future of the country according to the political agenda of the country.
+
+President Ranil Wickremesinghe made this statement at the Kadawatha bus stand today (21) at Kadawatha today.
+
+The President was warmly welcomed in the Gampaha District to educate the public on government program and the public.
+
+Minister Prasanna Ranatunga should be presented by President Ranil Wickremesinghe to come forward to the next presidential election.The proposal was lifted unanimously, lifting heavy hands.
 
 ...
 
 [Data](articles/c7468a60.json)
+
+[Extended Data](ext_articles/c7468a60.ext.json)
 
 ---
 
@@ -1368,19 +1466,27 @@ The owner of the person who was calling on the incident and the owner of the tel
 
 ---
 
-### විදෙස් ගමන් සඳහා ලක්ෂ 700 ගියාද? අනුර ලංකාවට ඇවිත් උත්තර දෙනවලු
+### Did the 700 lakhs for foreign travel?Anura arrives in Sri Lanka
 
 *2024-07-21 18:38:55* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ගමන්-සඳහා-ලක්ෂ 700-ගියාද--අනුර-ලංකාවට-ඇවිත්-උත්තර-දෙනවලු/11-410895) · `si`
 
-තමන්ගේ විදෙස් සංචාර සඳහා ලක්ෂ 700ක් වැය වූ බව අයෙක් ප්‍රකාශ කර තිබූ බවත්, ආපසු ශ්‍රී ලංකාවට ගොස් දවස් කිහිපයකින් සියලු විදේශ සංචාර සඳහා වැය වූ වියදම් ජනතාවට ඉදිරිපත් කරන්න බලාපොරොත්තු වන බවත් ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පැවසීය. ජාතික ජනබලවේගය වැයකර තිබෙන්නේ රජයේ මුදල් නොවන බවට සහතිකයක් දෙන බව ද ඔහු ප්‍රකාශ කළේය.
+Anura Kumara Dissanayake, leader of the National Zoology, discussed the use of government funds for foreign travel, stating it wasn't government money but rather national resources. He highlighted the importance of engaging with the global community, especially skilled youth in countries like Japan, to boost Sri Lanka's economy. He criticized the spending on his visit, suggesting it could have been better allocated domestically.
 
-අනුර කුමාර දිසානායක මහතා මේ බව පැවසුවේ ඊයේ (21දා) ජපානයේ සුකුබා හි පැවති ජනහමුවක් අමතමිනි. මාලිමාවේ අපේක්ෂාව ලෝකයේ ඕනෑම රටක් සමග කරට කර යා හැකි රටක් නිර්මාණය කිරීම බව ද ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සඳහන් කළේය.
+🟩
 
-ජාතික ජන බලවේගයේ ආණ්ඩුවක් යටතේ පාස්කු ප්‍රහාරයේ සියලු තොරතුරු හෙළිකර ගන්න බවත්, නැවත එවැනි ව්‍යසනයක් සිදු නොවීමට වගබලා ගන්නා බවත්, මේ සඳහා වගකිව යුතු කවර හෝ තරාතිරම්වල අය නීතියට ඉදිරියට ගෙන යාමේ වගකීම බාර ගන්න බවත් ඔහු ප්‍රකාශ කළේය. ජනහමුව සඳහා සහභාගි වී සිටි කාන්තාවක් යොමු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් දිසානායක මහතා මේ බව සඳහන් කළේය.
+Leader of National Zoology Anura Kumara Dissanayake said that the cost of Rs.. He also said that the national atorian has been spent on the government money is not government money.
+
+Anura Kumara Dissanayake made this observation at a meeting held at Japan yesterday (21). Leader of the National Power Anura Kumara Dissanayake said that the prospect of the compress is a country that can be done with any country in the world, said the leader of the National Jones.
+
+He said that under a government's government, the Passover attack would be ensured that the Passover attack is being made again and that such a disaster would be taken back to the law.. He was responding to a question raised by a woman who was involved in the public.
+
+"In Japan, we are being held on the last last-end foreign Sri Lankan. Japan used the final meeting of calling Sri Lankans abroad because a large group of people who could engage in our economy in our country are in Japan.
 
 ...
 
 [Data](articles/886ee85b.json)
+
+[Extended Data](ext_articles/886ee85b.ext.json)
 
 ---
 
@@ -2161,93 +2267,5 @@ The suspect was arrested by the Western Province South Criminal Division.
 [Data](articles/16b5b374.json)
 
 [Extended Data](ext_articles/16b5b374.ext.json)
-
----
-
-### Detention orders issued against 21-year-old female arrested over ‘Club Wasantha’ murder
-
-*2024-07-21 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100667/detention-orders-issued-against-21-year-old-female-arrested-over-club-wasantha-murder) · `en`
-
-Police have secured detention orders against the 21-year-old female arrested on suspicion of being linked to the killing of ‘Club Wasantha’ at Athurugiriya recently.
-
-Thus, the Kaduwela Magistrate’s Court has issued a 48-hour detention order to interrogate the suspect, after she was produced before the court.
-
-The 21-year-old was arrested by police this morning in connection with the incident.
-
-◼️
-
-[Data](articles/fb3db01a.json)
-
-[Extended Data](ext_articles/fb3db01a.ext.json)
-
----
-
-### Sri Lanka coconut price hit 17-month high at auction
-
-*2024-07-21 14:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-price-hit-17-month-high-at-auction-173104/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s average coconut prices rose 2.3 percent from 82,616 rupees to 84,592 per 1,000 nuts at an auction on July 18, data from the Coconut Development Authority shows.
-
-The auction prices are now at levels not seen since March 2023.
-
-The highest price was 90,200 down from 95,600 for 1000 nuts while the lowest was 76,700 up from 74,100.
-
-A total of 399,773 coconuts were offered at the auction and 352,055 were sold.
-
-Wholesale prices were 95 to 105 rupees for large nuts and 85 to 90 rupees for small nuts on July 11.
-
-Farmgate prices in Kurunegala were 77,000 – 82,000 per 1,000 nuts.
-
-Coconut shells were 32,000 – 33,000 rupees per metric ton. (Colombo/July21/2024)
-
-◼️
-
-[Data](articles/6bffad20.json)
-
-[Extended Data](ext_articles/6bffad20.ext.json)
-
----
-
-### Traditional house fire
-
-*2024-07-21 14:17:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரம்பரிய-வீட்டில்-தீ-விபத்து/175-340759) · `ta`
-
-A fire devastated the top floor of a historic, over 150-year-old house in Kandy, destroying its staircase. The blaze, which originated from the residence of the Kadir Kadirgamam Temple's leader, has caused significant damage. Emergency responders including the Kandy Municipal Fire Unit and police are investigating the cause.
-
-🟩
-
-The Kandy headquarters police say that the staircase has been completely destroyed due to a fire that broke out on the top floor of the traditional house where the leader of the Kadir Kadirgamam Temple, the leader of the Kadirgamam temple complex.
-
-More than 150 years old home has been reported to have been damaged by the fire.
-
-The Kandy Municipal Fire Unit, the police and the people have been brought under fire and further investigations into the incident are being carried out by the Kandy Headquarters.
-
-◼️
-
-[Data](articles/6f5a4951.json)
-
-[Extended Data](ext_articles/6f5a4951.ext.json)
-
----
-
-### Two major associates of “Kanjipani Imran” arrested
-
-*2024-07-21 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100666/two-major-associates-of-kanjipani-imran-arrested) · `en`
-
-The Police Special Task Force (STF) has arrested two individuals who operate the drug network of notorious drug trafficker and criminal gang leader infamously known as “Kanjipani Imran”.
-
-The duo had been arrested during a special raid carried out in the Ragama area.
-
-During the time of the arrest, suspects were in possession of over 10g of heroin and more than 7g of crystal methamphetamine – commonly known as ‘Ice’, the police said.
-
-The arrested suspects have been identified to be aged between 28-29 years, according to police.
-
-Police said that the arrested individuals had been engaging in drug trafficking activities under the direction of ‘Selvakumar Ranjith’ who has been leading the drug network in the country affiliated with the drug trafficker and notorious criminal “Kanjipani Imran” who is currently hiding overseas.
-
-◼️
-
-[Data](articles/0828662d.json)
-
-[Extended Data](ext_articles/0828662d.ext.json)
 
 ---

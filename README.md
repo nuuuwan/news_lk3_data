@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 01:35:53**
+As of **2024-07-23 01:55:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,648 (100.0%) of 36,655 articles have been extended.
+36,655 (100.0%) of 36,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ People’s Action for Free and Fair Elections (PAFFREL) Executive Director Rohan
 
 [Data](articles/f59ac341.json)
 
+[Extended Data](ext_articles/f59ac341.ext.json)
+
 ---
 
 ### Tamil groups sign MoU to field common Presidential candidate
@@ -68,6 +70,8 @@ The Tamil People’s Maha Sabha, which inclu-des various Tamil civil organisatio
 
 [Data](articles/e1f14c51.json)
 
+[Extended Data](ext_articles/e1f14c51.ext.json)
+
 ---
 
 ### AKD calls on Japan’s State Minister of Foreign Affairs
@@ -79,6 +83,8 @@ National People’s Power (NPP) leader Anura Kumara Dissanayake held a meeting w
 ◼️
 
 [Data](articles/258ba499.json)
+
+[Extended Data](ext_articles/258ba499.ext.json)
 
 ---
 
@@ -98,6 +104,8 @@ Notes development activities are being carried out across the country in a way t
 
 [Data](articles/f55f2220.json)
 
+[Extended Data](ext_articles/f55f2220.ext.json)
+
 ---
 
 ### Chevron to donate $ 35,000 to Sri Lanka Red Cross Society for well-cleaning program in flood-affected districts
@@ -115,6 +123,8 @@ The project aims to directly benefit 1,500 families (approximately 7,500 individ
 ...
 
 [Data](articles/5ec3fdcd.json)
+
+[Extended Data](ext_articles/5ec3fdcd.ext.json)
 
 ---
 
@@ -134,6 +144,8 @@ Dr. Pathirana said: “I welcome the support of the Government of Japan and UNIC
 
 [Data](articles/4d6ec0a1.json)
 
+[Extended Data](ext_articles/4d6ec0a1.ext.json)
+
 ---
 
 ### CareStation’s “Inspire and Ignite” event uplifts community with education, recognition
@@ -151,6 +163,8 @@ Two significant milestones marked the night: the relaunch of CareStation’s web
 ...
 
 [Data](articles/1b3cfc94.json)
+
+[Extended Data](ext_articles/1b3cfc94.ext.json)
 
 ---
 

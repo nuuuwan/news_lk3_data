@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 21:36:01**
+As of **2024-07-22 21:55:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,620 (100.0%) of 36,621 articles have been extended.
+36,621 (100.0%) of 36,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### பதவி நீக்காவிட்டால் தொழிற்சங்க நடவடிக்கை - GMOA எச்சரிக்கை
+### Trade union action if not dismissed - GMOA Warning
 
 *2024-07-22 21:20:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-நீக்காவிட்டால்-தொழிற்சங்க-நடவடிக்கை-GMOA-எச்சரிக்கை/175-340843) · `ta`
 
-தேசிய கண் வைத்தியசாலையின் பதில் பணிப்பாளரை அந்த பதவியிலிருந்து நீக்கப்படாவிட்டால் நாளை (23) காலை 8 மணிமுதல் தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படும் என அரச மருத்துவ அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+State Medical Officers' Association threatens strike if the director of the National Eye Hospital isn't replaced due to misconduct, urging for a more competent leader to enhance hospital operations.
 
-குறித்த வைத்தியரின் ஏற்றுக் கொள்ள முடியாத செயற்பாடுகள் காரணமாக அவரை பதவி நீக்குமாறு கோருவதாக அரச மருத்துவ அதிகாரிகள் சங்கம் விடுத்துள்ள அறிக்கை ஒன்றில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-அத்துடன் தேசிய கண் வைத்தியசாலையின் செயற்பாடுகளைச் சுமுகமாக முன்கொண்டு செல்வதற்காக, பொருத்தமான ஒருவர் அங்குப் பணிப்பாளராக நியமிக்கப்பட வேண்டும் எனவும் அரச மருத்துவ அதிகாரிகள் சங்கம் வலியுறுத்தியுள்ளது. R
+If the Director of the National Eye Hospital is not removed from the post, the trade union action will be taken from 8 am tomorrow (23), the State Medical Officers Association said.
+
+In a statement issued by the State Medical Officers Association, the State Medical Officers' Association said it was demanding the dismissal due to the unacceptable activities of the doctor.
+
+The State Medical Officers' Association has urged the appointment of a suitable person to be appointed there to improve the activities of the National Eye Hospital.. Remble
 
 ◼️
 
 [Data](articles/8d9d6bbe.json)
+
+[Extended Data](ext_articles/8d9d6bbe.ext.json)
 
 ---
 

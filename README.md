@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-22 22:20:10**
+As of **2024-07-22 22:35:49**
 
 ## Newspaper Stats
 
-*Scraped **36,623** Articles*
+*Scraped **36,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,084
 economynextcom | 2,184
 dailyftlk | 2,321
-adalk | 3,309
-adaderanalk | 4,247
+adalk | 3,310
+adaderanalk | 4,248
 tamilmirrorlk | 4,470
 dailymirrorlk | 4,733
 virakesarilk | 5,740
@@ -26,27 +26,53 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,622 (100.0%) of 36,623 articles have been extended.
+36,623 (100.0%) of 36,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-22 (Monday)
 
-### ඡන්ද අල්ලස් දඩය රුපියල් මිලියනය දක්වා ඉහළ නංවන්න යෝජනාවක්
+### ‘25% of children in poverty’: Sajith reveals plans for eradicating child poverty
 
-*2024-07-22 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199098) · `si`
+*2024-07-22 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100709/25-of-children-in-poverty-sajith-reveals-plans-for-eradicating-child-poverty) · `en`
 
-මැතිවරණයකදී අල්ලස් දීමේ වරදකට පනවනු ලබන දඩ මුදල රුපියල් 500යේ සිට රුපියල් ලක්ෂ 10ක් දක්වා ඉහළ දැමීමට අපරාධ නඩු විධාන සංග්‍රහය සංශෝධනය කිරීමේ පනත් කෙටුම්පතින් යෝජනා කර තිබේ.
+Leader of the Opposition Sajith Premadasa states that as severe economic challenges hit the nation, 25% of the child population is suffering from child poverty, highlighting the need for the initiation of a national programme to eradicate child poverty.
 
-අපරාධ නඩු විධාන සංග්‍රහයේ සඳහන් දඩ මුදල් වර්තමාන මුදල් අගය මත පදනම්ව වැඩි කිරීමට හැකි වන පරිදි එම පනත සංශෝධනය කිරීමට රජය තීරණය කර ඇති අතර ඊට අදාළ පනත් කෙටුම්පත අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ නියමය පරිදි මේ වනවිට ගැසට් කර ඇති බව සඳහන්ය.
+“In a situation where the country is grappling with a scarcity of rupees and dollars, 25% of the child population is suffering from poverty, we cannot stay idle,” he said.
 
-ඒ අනුව ඡන්ද විමසීමක් සම්බන්ධයෙන් අල්ලස් ලබාදීමක දී මෙතෙක් පැවති රුපියල් 500යේ දඩ මුදල රුපියල් මිලියනය දක්වා ඉහළ දැමීමට සහ සංග්‍රහ කිරීමෙන් අල්ලස් ලබාදීමකදී රුපියල් දෙසීයක් වූ දඩ මුදල රුපියල් 750,000ක් දක්වා ඉහළ දැමීමට අදාළ සංශෝධනයෙන්, යෝජනා කර තිබේ.
+Premadasa underscored the urgent need for a national programme to eradicate child poverty, emphasizing the multifaceted impact of economic hardship on children.
 
-ඡන්ද විමසීමක දී අයුතු බලපෑම් සිදුකිරීමක් සම්බන්ධයෙන් වන වරදකට පැවති රුපියල් 500ක දඩය රුපියල් ලක්ෂයක් දක්වා ඉහළ දැමීමට යෝජනා කර ඇති බව සඳහන්ය.
+“Children are unable to attend school due to their economic difficulties. As a result, they do not receive a proper education, fail their examinations, and subsequently struggle to secure jobs. This failure to earn an income perpetuates the vicious cycle of child poverty,” he explained.
 
 ...
 
+[Data](articles/5c3a732a.json)
+
+---
+
+### Proposal to increase the bribe priceline to Rs
+
+*2024-07-22 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199098) · `si`
+
+The government plans to raise fines under the Criminal Procedure Code from Rs. 500 to a higher amount, as part of a proposed amendment. This decision follows a vote where increasing the fine from Rs. 300 to Rs. 500 was considered.
+
+🟩
+
+The Criminal Procedure Code revision bill to increase the fines for bribery at Rs. 500 to Rs.
+
+The government has decided to amend the bill to increase the fines in the Criminal Procedure Code.
+
+Accordingly, the revision has been proposed to increase a sum of Rs.
+
+The fine of Rs. 500 has been proposed to increase the fine of Rs.
+
+In a ballot, the criminal procedure code was proposed to increase Rs. 300 to Rs.
+
+◼️
+
 [Data](articles/1151b605.json)
+
+[Extended Data](ext_articles/1151b605.ext.json)
 
 ---
 
@@ -231,6 +257,22 @@ The President made this announcement during the “Abhiman- 2024” event held y
 [Data](articles/987d5b7f.json)
 
 [Extended Data](ext_articles/987d5b7f.ext.json)
+
+---
+
+### ගුරුපත්වීම් 16,000ක් ලබාදී ගුරු හිඟය විසඳුවා
+
+*2024-07-22 19:15:14* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුපත්වීම්-16-000ක්-ලබාදී-ගුරු-හිඟය-විසඳුවා/11-410918) · `si`
+
+ආර්ථික දුෂ්කරතා හමුවේ වුවත් ජාතික මට්ටමින් සහ පළාත් මට්ටමින් ගුරු පත්වීම් 16,000ක ප්‍රමාණයක් ලබා දෙමින් ගුරු හිඟයට විසඳුම් ලබාදීමට රජය සමත් වූ බව බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+ජනතාව ඉතිහාසයේ දුෂ්කරම තත්ත්වයට මුහුණ දී සිටියදී කිසිවෙකු රට ගොඩ ගැනීමේ වගකීම භාරනොගත් පසුබිමක ජනාධිපති රනිල් වික්‍රමසිංහ ප්‍රමුඛ ආණ්ඩුව රටේ වගකීම භාරගෙන වසර දෙකක් තුළ රට යථා තත්ත්වයට ගෙන ඒමට කටයුතු කළ බවත් ඒ සම්බන්ධව වන මතාකාවර්ජනයක් මේ මොහොතේ අත්‍යාවශ්‍ය බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (22) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+...
+
+[Data](articles/f32bbab3.json)
 
 ---
 
@@ -2351,35 +2393,5 @@ The shooting has been used for shooting and the police said the sholder had fled
 [Data](articles/af9831b9.json)
 
 [Extended Data](ext_articles/af9831b9.ext.json)
-
----
-
-### The Encroachment Of Public Space’ By Our ‘Oligarchy’ Rulers & The Dissolution Of Democracy
-
-*2024-07-22 10:23:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-encroachment-of-public-space-by-our-oligarchy-rulers-the-dissolution-of-democracy/) · `en`
-
-The challenges public spaces face in contemporary times are a subject of ongoing discussion in developed and developing countries. Defining key terms and making specific distinctions is essential to engage meaningfully in this debate. Generally, ‘public space’ refers to areas that are open and accessible to everyone, such as roads, pavements, public squares, parks, beaches, and sections of government buildings like libraries that are open to the public.
-
-...
-
-[Data](articles/dea7bc46.json)
-
-[Extended Data](ext_articles/dea7bc46.ext.json)
-
----
-
-### 41 Years To Black July – Our Voices Towards Meaningful Reconciliation
-
-*2024-07-22 10:15:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/41-years-to-black-july-our-voices-towards-meaningful-reconciliation/) · `en`
-
-In Sri Lanka, fear is pervasive. Suppression of media and fundamental rights of people and repression of human rights defenders foster a climate of fear, silencing victims, and inhibiting reconciliation. Political and criminal interests threaten the justice system, putting lives at risk for exposing the truth.
-
-For decades, regimes have perpetuated impunity, showing no signs of change. There have been no credible, independent investigations into major violent events like insurrections, the Black July pogrom, the proscription of the JVP, or the Easter bombings. Investigations are often obstructed, cases against perpetrators dismissed, and genuine investigators silenced or exiled. Allegations against intelligence and security agencies underscore the need for transparent and independent investigations with international involvement.
-
-...
-
-[Data](articles/f41ad055.json)
-
-[Extended Data](ext_articles/f41ad055.ext.json)
 
 ---

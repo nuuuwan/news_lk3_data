@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 05:06:02**
+As of **2024-07-24 05:20:43**
 
 ## Newspaper Stats
 
@@ -26,115 +26,157 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,854 (100.0%) of 36,860 articles have been extended.
+36,860 (100.0%) of 36,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### எதிர்வரும் ஜனாதிபதித் தேர்தலில், நாட்டை வீழ்ச்சியில் இருந்து மீட்டெடுத்த ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கே மக்களின் பெரும்பான்மையான ஆதரவு கிடைக்கும் - சாமர சம்பத் தசநாயக்க
+### In the upcoming presidential election
 
 *2024-07-24 04:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189222) · `ta`
 
-வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டெடுத்த ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு எதிர்வரும் ஜனாதிபதித் தேர்தலில் மக்கள் ஆதரவளிக்கத் தயாராக இருப்பதாக ஆரம்பக் கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க தெரிவித்தார்.
+President Ranil Wickremesinghe, having steered Sri Lanka through its worst economic crisis, vows to continue supporting the nation ahead of the upcoming presidential election. Ministers emphasize unity and economic development, highlighting Wickremesinghe's swift recovery efforts and the potential for increased government revenue through tax amendments. Despite initial public resistance, expected benefits from these changes are anticipated to garner support for Wickremesinghe, with voters focusing on policy rather than party affiliation.
 
-நாட்டின் பொருளாதாரத்தை மேலும் அபிவிருத்தி செய்வதற்கு அனைத்து தரப்பினரும் ஒன்றிணைந்து செயற்பட வேண்டும் எனவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (23) நடைபெற்ற  ஊடகவியலாளர் மாநாட்டில்  கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே ஆரம்ப கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe, who has recovered the country from the worst economic crisis in history, said that he was ready to support the people in the upcoming presidential election.
 
-“வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடிக்குள் தள்ளப்பட்ட நாடு  ஜனாதிபதி  ரணில் விக்ரமசிங்கவின் கீழ் இரண்டு வருடங்கள் என்ற குறுகிய காலத்திற்குள் மீட்கப்பட்டுள்ளது. அதற்கிணங்க எமது அமைச்சின் கீழுள்ள நிறுவனங்கள் நட்டமடையும்  நிலையை தவிர்த்து இலாபம் ஈட்டும் நிலைக்கு வந்துள்ளன.
+The Minister of State pointed out that all parties should work together to further develop the country's economy.
+
+The Minister of Inaugural Industry Samara Sampath Dasanayake made this statement while attending a press conference held at the Presidential Media Center on Tuesday (23).
+
+“The country, which has been hit by the worst economic crisis in history, has been rescued within a short period of two years under President Ranil Wickremesinghe.. Accordingly, the corporations under our ministry have come to a profit, avoiding a loss.
+
+Other countries that face severe economic crises in the world have not reached economic stability in such a short time. While maintaining this stability, all parties must work with dedication to further develop the economy.
 
 ...
 
 [Data](articles/1ffde80f.json)
 
+[Extended Data](ext_articles/1ffde80f.ext.json)
+
 ---
 
-### ஜனாதிபதி நிதியத்தின் புலமைப் பரிசில்கள் பிரிவேனா மற்றும் பிக்குணி மாணவர்களுக்கு ஜனாதிபதி தலைமையில் வழங்கப்படும்
+### Scholarships of the President's Fund will be presented to the President
 
 *2024-07-24 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189221) · `ta`
 
-3000 பிக்கு மாணவர்களுக்கு புலமைப்பரிசில் வழங்கும் நிகழ்வு புதன்கிழமை (24) பிற்பகல் 3.00 மணிக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் அலரி மாளிகையில் நடைபெறவுள்ளது.
+The President's Fund will award scholarships to deserving students across Sri Lanka, marking a unique initiative by President Ranil Wickremesinghe. The ceremony, held at the Alari House, will distribute funds to students from the Pandena and Pikkuni Educational Institutes, focusing on those appearing for the GCE Advanced Level Examinations. This nationwide program, funded annually with about 300 million rupees from the Presidential Fund, aims to support over 106,000 students for 24 months, ensuring educational opportunities for all who need it.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் எண்ணக் கருவின்படி செயற்படுத்தப்படும் பிரிவேனா மற்றும்  பிக்குணி கல்வி நிறுவனங்களில் கல்வி கற்கும் பிக்குகள் மற்றும் சாதாரண மாணவர்களுக்காக ஜனாதிபதி நிதியத்தினால் புலமைப்பரிசில் வழங்கும் திட்டத்தின் கீழ் இந்தப் புலமைப் பரிசில் வழங்கப்படுகிறது.
+🟩
 
-இதுவரை காலமும் பிரிவேன்களில் கற்கும் பிக்கு மாணவர்களை ஊக்குவிக்கும் புலமைப்பரிசில் திட்டங்கள் எதுவும் செயற்படுத்தப்படவில்லை என்பதோடு ஜனாதிபதியின் பணிப்புரையின் கீழ் நாடளாவிய ரீதியில் இந்த புலமைப்பரிசில் திட்டம் செயற்படுத்தப்படுவது விசேட அம்சமாகும்.
+The event will be held at the Alari House, headed by President Ranil Wickremesinghe at 3.00 pm on Wednesday (24) at 3.00 pm.
+
+The scholarship is awarded under the President's Fund Program for the Scholarship of the President's Fund for the Pandena and the Pikkuni Educational Institutes, which are implemented according to the idea of ​​President Ranil Wickremesinghe.
+
+It is a special feature that no scholarship programs have been implemented by the President of the President and the implementation of this scholarship program nationwide under the president's directives.
+
+Scholarships will be given to the students, bikkas and ordinary students who appear for the GCE Advanced Level Examination or the GCE Advanced Level Examination or the GCE Advanced Level Examination.. Each student's bank account will be deposited at Rs.
+
+In the coming days, the installment will be deposited directly in the bank account of other students who are not invited to the scholarship event.
 
 ...
 
 [Data](articles/444585c8.json)
 
+[Extended Data](ext_articles/444585c8.ext.json)
+
 ---
 
-### யாழில் நடைபெற்ற கறுப்பு யூலை நினைவேந்தல்!
+### Black Yule in Jaffna
 
 *2024-07-24 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189220) · `ta`
 
-கறுப்பு யூலை நினைவேந்தல் யாழில் செவ்வாய்க்கிழமை மாலை (23) அனுஷ்டிக்கப்பட்டது. இதன்போது படுகொலை செய்ஞப்பட்டவர்களுக்கு சுடரேற்றி அஞ்சலி செலுத்தப்பட்டது.
+On Tuesday, Jaffna marked Black Yule with a memorial led by the Tamil National People's Front. Firefighters honored victims, lighting a public flame amidst attendees including Deepan Dilisan and Vasuki Sudhakaran.
 
-தமிழ்த் தேசிய மக்கள் முன்னணியின் ஏற்பாட்டில் யாழ். முற்றவெளி மைதானம் முன்பாக செவ்வாய்க்கிழமை (23) மாலை இவ் நினைவேந்தல் நடைபெற்றது.
+🟩
 
-இதன்போது நினைவேந்தல் பொதுச் சுடர் ஏற்றப்பட்டு ஏனையவர்களும் சுடர் ஏற்றி அஞ்சலி செலுத்தியிருந்தனர்.
+Black Yule was celebrated in Jaffna on Tuesday evening (23). The firefighters paid tribute to the murdered.
 
-இந் நிகழ்வில் கட்சியின் யாழ் மாவட்ட அமைப்பாளர் தீபன் திலீசன், மகளீர் அணித் தலைவி வாசுகி சுதாகரன் உள்ளிட்ட பலரும் கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+Jaffna organized by the Tamil National People's Front. The memorial was held on Tuesday evening (23) in front of the courtyard.
+
+During this time, the public flame was lit and others paid homage.
+
+The event was attended by the party's Jaffna district organizer Deepan Dilisan and the women's team leader Vasuki Sudhakaran and many others.
 
 ◼️
 
 [Data](articles/34e0d47d.json)
 
+[Extended Data](ext_articles/34e0d47d.ext.json)
+
 ---
 
-### 2019 முதல் இவ்வருட ஜூன் மாதம் வரை  4,74,142 பேர் வெளிநாட்டு வேலை வாய்ப்புகளுக்காக சென்றுள்ளனர் - மனுஷ நாணயக்கார
+### From 2019 to June 2019, 4,74,142 people have gone for foreign jobs - Manusha Nanayakkara
 
 *2024-07-24 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/189219) · `ta`
 
-2019 ஆம் ஆண்டு தொடக்கம் கடந்த ஜூன் மாதம் வரை 4,74, 142 பேர் வெளிநாட்டு வேலை வாய்ப்புகளுக்கு சென்றுள்ளனர்.  அவர்களில் 3 இலட்சத்து 1198 பேர் வீட்டுப் பணிப்பெண்களாக தொழில் புரிகின்றனர் என தொழில் மற்றும் வெளிநாட்டு வேலை வாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார  தெரிவித்தார்.
+From 2019 to June 2020, 474,142 Sri Lankans sought foreign employment, including 311,198 domestic workers, 362,943 trained professionals, and 1,119,900 others. Labor Minister Manusha Nanayakkara highlighted government efforts to ensure their safety, offering insurance, problem-solving officers, and secure accommodations, minimizing issues faced abroad.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) ராஜிகா விக்ரமசிங்க எழுப்பிய கேள்வி யொன்றுக்குப் பதிலளிக்கும் போதே அமைச்சர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-2019 ஆம் ஆண்டு தொடக்கம் கடந்த ஜூன் மாதம் வரை 4,74, 142 பேர் வெளிநாட்டு வேலை வாய்ப்புகளுக்கு சென்றுள்ளனர்.  அவர்களில் 3 இலட்சத்து 1198 பேர் வீட்டுப் பணிப்பெண்களாக தொழில் புரிகின்றனர். அத்துடன் 3 லட்சத்து 62 ஆயிரத்து 943 பேர் பயிற்சி பெற்றவர்களாகவும் ஒரு இலட்சத்து 1199 பேர் பேர் பயிற்சி பெறாத நிலையிலும் வெளிநாடுகளுக்கு சென்றுள்ளனர். அவர்களின் நலன்புரி செயற்பாடுகள் தொடர்பில் அனைத்து நடவடிக்கைகளையும் வெளிநாட்டு வேலை வாய்ப்பு பணியகம் மேற்கொண்டு வருகிறது.
+From 2019 to June, 4,74 and 142 people have gone to foreign employment opportunities.The Minister of Labor and Foreign Employment, Manusha Nanayakkara, said that 3 of them are employed as housewives.
+
+The Minister said this while responding to a question raised by Rajika Wickremasinghe on Tuesday (23) in Parliament.
+
+From 2019 to June, 4,74 and 142 people have gone to foreign employment opportunities.Of them, 3 lakh 1198 are home maids. In addition, 3 lakhs 62 thousand 943 trained and one million 1199 people have gone abroad.. The Bureau of Foreign Employment is taking all measures on their welfare activities.
 
 ...
 
 [Data](articles/7ce2117f.json)
 
+[Extended Data](ext_articles/7ce2117f.ext.json)
+
 ---
 
-### சட்டவிரோத மணல் அகழ்வில் ஈடுபட்ட மூன்று உழவியந்திரங்கள் மற்றும் நான்கு பேர் கைது
+### Three plowers and four arrested for engaging in illegal sand mining
 
 *2024-07-24 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/189218) · `ta`
 
-சட்டவிரோத மணல் அகழ்வில் ஈடுபட்ட மூன்று உழவியந்திரங்கள் மற்றும் நான்கு பேர் கைது செய்யப்பட்டுள்ளனர்.
+Seven individuals, including three farmers and four others, have been arrested for illegal sand mining activities near the Koramati River in Sri Lanka. The Kilinochchi Police Special Task Force, acting on confidential intelligence, apprehended the suspects and turned them over to the Ramanathapuram Police Station. Authorities plan to prosecute the detainees.
 
-கிளிநொச்சி இராமநாதபுரம் பொலிஸ் பிரிவுக்குட்பட்ட கோரமோட்டை ஆற்றில் சட்டவிரோதமாக மணல் அகழ்வு இடம்பெறுவதாக கிளிநொச்சி பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலையடுத்து சுற்றி வளைப்பு மேற்கொள்ளப்பட்டது.
+🟩
 
-இதன்போது மணல் அகழ்வில் ஈடுபட்ட மூன்று உழவியந்திரங்களுடன் நான்கு சந்தேக நபர்களை பொலிஸ் விசேட அதிரடிப்படையினர் கைது செய்து இராமநாதபுரம் பொலிஸ் நிலையத்தில் ஒப்படைத்தனர்.
+Three farmers and four have been arrested for engaging in illegal sand excavation.
 
-குறித்த சந்தேக நபர்களை நீதிமன்றில் முற்படுத்த நடவடிக்கை மேற்கொள்ளவுள்ளதாக இராமநாதபுரம் பொலிசார் தெரிவித்தனர்.
+The Kilinochchi Police Special Task Force (STF) has been surrounded by secret information available to the Kilinochchi River illegal sand excavation in the Koramati River under the Kilinochchi Ramanathapuram police division.
+
+Four suspects were arrested by the Special Task Force and handed over to the Ramanathapuram Police Station.
+
+Ramanathapuram police said that steps will be taken to bring the suspects in court.
 
 ◼️
 
 [Data](articles/e1a329af.json)
 
+[Extended Data](ext_articles/e1a329af.ext.json)
+
 ---
 
-### ’படுகொலை செய்ய சதி’
+### Conspiracy to assassinate
 
 *2024-07-24 02:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படுகொலை-செய்ய-சதி/175-340924) · `ta`
 
-என்னை படுகொலை செய்வதற்கு இராஜாங்க அமைச்சர் ஒருவர் சதி செய்வதாக இணையத்தள செய்தித் சேவை ஒன்றில் வெளிநாட்டு புலனாய்வு அமைப்பை மேற்கோள் காட்டி வெளியிடப்பட்டுள்ள செய்தி தொடர்பில் சபாநாயகர் நடவடிக்கை எடுக்க வேண்டும் என இலங்கைத்தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. இரா.சாணக்கியன் வலியுறுத்தினார்.
+Ira Sanakian, a Batticaloa District MP, alleges a conspiracy to assassinate him, citing a report from a foreign intelligence agency. He has addressed this in Parliament and written to the Speaker and the Inspector General of Police about it. The Minister of State has previously been implicated in other political violence incidents, leading Sanakian to call for swift action from the Speaker.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23)  சிறப்புரிமைமீறல் பிரச்சினையை முன்வைத்தே இவ்வாறு வலியுறுத்திய இரா..சாணக்கியன் மேலும் பேசுகையில்,
+🟩
 
-என்னை படுகொலை செய்வதற்கு இராஜாங்க அமைச்சர் ஒருவர் சதி செய்வதை வெளிநாட்டு புலனாய்வுப்பிரிவொன்று கண்டுபிடித்துள்ளதாக  இணையத்தள செய்தித் சேவை கடந்த 20 ஆம் திகதி செய்தி ஒன்றை வெளியிட்டுள்ளது.
+The Batticaloa District MP of the Batticaloa District of the Sri Lanka Tamil Nadu Party should take action in connection with the news that the Speaker of the Foreign Intelligence Agency quoted in a website service that a diplomatic minister was conspiring to assassinate me.. Ira Sanakian stressed.
 
-இந்த விடயம் தொடர்பில் நான் சபாநாயகருக்கும் பொலிஸ்மா அதிபருக்கும் எழுத்து மூலம் அறிவித்துள்ளேன்.
+Speaking further, Ira Sanakiyan stressed the issue on Tuesday (23) in Parliament.
 
-இதில் என்னை படுகொலை செய்வதற்கு சதி செய்வதாக   கூறப்பட்டுள்ள இராஜாங்க அமைச்சர் ஏற்கெனவே எம்.பி., படுகொலை மற்றும் உயிர்த்த ஞாயிறு தாக்குதலுடன் தொடர்பு பட்டவர் எனக்குற்றம் சாட்டப்பட்டவர். எனவே இந்த செய்தி தொடர்பில் உரிய நடவடிக்கைகளை எடுக்குமாறு சபாநாயகரிடம் வலியுறுத்துகின்றேன் என்றார்.
+The Internet news service has issued a news report on the 20th that a foreign intelligence unit has found a conspiracy to assassinate me.
+
+I have written in writing to the Speaker and the Inspector General of Police on this issue.
+
+The Minister of State has already been accused of involvement in the assassination of the MP, the MP, and the alive Sunday attack.. Therefore, I urge the Speaker to take appropriate action in this regard.
 
 ◼️
 
 [Data](articles/0c68c090.json)
+
+[Extended Data](ext_articles/0c68c090.ext.json)
 
 ---
 

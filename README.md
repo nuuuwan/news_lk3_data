@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 15:54:23**
+As of **2024-07-23 16:07:19**
 
 ## Newspaper Stats
 
-*Scraped **36,779** Articles*
+*Scraped **36,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,324
+adalk | 3,325
 adaderanalk | 4,262
 tamilmirrorlk | 4,507
 dailymirrorlk | 4,733
 virakesarilk | 5,762
-adaderanasinhalalk | 6,175
+adaderanasinhalalk | 6,176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,777 (100.0%) of 36,779 articles have been extended.
+36,779 (100.0%) of 36,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### ශ්‍රීලනිප අර්බුදයට අදාළ තවත් නඩුවක නියෝගයක් හෙට
+
+*2024-07-23 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199127) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා විසින් ඉදිරිපත් කර ඇති පැමිණිල්ලට මැදිහත්වීමට අවසර දෙන ලෙස අමාත්‍ය ලසන්ත අලගියවන්න මහතා විසින් කළ ඉල්ලීම සම්බන්ධයෙන් තීරණයක් ලබා දෙන තුරු එම නඩුවේ තීන්දුව ප්‍රකාශයට පත් කිරීම අත්හිටුවන්නේ ද? නැද්ද? යන නියෝගය හෙට (24) දින ප්‍රකාශයට පත් කරන බව කොළඹ දිසා අධිකරණය අද (23) නියෝග කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහලේකම් ලෙස කටයුතු කළ තමාට  එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට එම පක්ෂය ගනු ලැබූ තීරණයට එරෙහිව දයාසිරි ජයසේකර මහතා විසින් එම පැමිණිල්ල ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/c7c62f02.json)
+
+---
 
 ### Public proposals called to address public sector salary discrepancies
 
@@ -51,6 +65,8 @@ The President has instructed the committee to submit its recommendations report 
 ◼️
 
 [Data](articles/26a101b6.json)
+
+[Extended Data](ext_articles/26a101b6.ext.json)
 
 ---
 
@@ -597,6 +613,22 @@ They were then handcuffed to the Kalutara South in a three-wheeler and brought t
 [Data](articles/3fef4c9e.json)
 
 [Extended Data](ext_articles/3fef4c9e.ext.json)
+
+---
+
+### රාජ්‍ය සේවයේ වැටුප් විෂමතා සෙවීමට පත් කළ කමිටුව යෝජනා කැඳවීම අරඹයි
+
+*2024-07-23 13:09:27* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-වැටුප්-විෂමතා-සෙවීමට-පත්-කළ-කමිටුව-යෝජනා-කැඳවීම-අරඹයි/11-410936) · `si`
+
+රාජ්‍ය සේවයේ වැටුප් විෂමතාවන් සම්බන්ධයෙන් කටයුතු කිරීම සඳහා පත්කරන ලද විශේෂඥ කමිටුව වෙත වැටුප් හා දීමනා සංශෝධන සඳහා යෝජනා කැඳවීම ඇරඹේ.
+
+අදාළ අයදුම් පත්‍රය ජනාධිපති කාර්යාලයේ නිල වෙබ් අඩවිය වන www.presidentsoffice.gov.lk මඟින් බාගත කර ගත හැකි අතර සියළු යෝජනා MS Word හි font 12 – Iskoola Pota අකුරු මඟින් සකස් කොට එහි PDF ආකෘතියෙහි මෘදු පිටපතක් පමණක් saec@presidentsoffice.lk යන විද්‍යුත් තැපැල් ලිපිනයට 2024-08-09 දිනට හෝ එදිනට පෙර යොමු කළ යුතුය.
+
+යෝජනා කරන තනතුර හැර වෙනත් තනතුරු සඳහා ද යෝජනා ගෙන එන්නේ නම් වෙන වෙනම ආකෘති පත්‍ර සම්පූර්ණ කොට ඒ සඳහා වන සාධාරණීකරණ වාර්තා ජනාධිපති කාර්යාලයේ නිල වෙබ් අඩවිය වන www.presidentsoffice.gov.lk මඟින් බාගත කර ගන්නා ඇමුණුම් 01 ආකෘතියට අනුව සම්පූර්ණ කළ යුතු වේ.
+
+...
+
+[Data](articles/c3a07a82.json)
 
 ---
 
@@ -1570,19 +1602,25 @@ The plantation community of our country has a history of over 200 years in our c
 
 ---
 
-### ජනාධිපති සන්නද්ධ හමුදා කැඳවයි
+### President summoned armed forces
 
 *2024-07-23 10:08:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-410929) · `si`
 
-දිවයිනේ පරිපාලන දිස්ත්‍රික්ක විසි පහේම මහජන සාමය පවත්වාගෙන යාම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඊයේ (22) සිට ක්‍රියාත්මක වන පරිදි  යුධ ,ගුවන් සහ නාවික යන සන්නද්ධ හමුදාවල සියලුම සාමාජිකයන්  කැඳවා ඇත.
+President Ranil Wickremesinghe summoned all branches of the military, including Aviation, Air, and Navasena, to uphold law and order across 25 administrative districts. Specifically, the armed forces will be deployed in 14 districts around Colombo and Kalutara, as well as 11 other internal districts, following a gazette notification issued on February 22.
 
-ඒ අනුව කොළඹ ,ගම්පහ සහ කලුතර ඇතුළු මුහුද ආශ්‍රිත දිස්ත්‍රික්ක 14 ක හා ඒවාට යාබද  දේශීය ජල තීරයන්වල සහ අභ්‍යන්තර දිස්ත්‍රික්ක 11 ක මහජන සාමය පවත්වාගෙන යාමට මෙලෙස සන්නද්ධ හමුදා කැඳවා තිබේ.
+🟩
 
-මෙම කැඳවීම පිළිබඳව අති විශේෂ ගැසට් නිවේදනය ඊයේ (22) දින නිකුත් කෙරිණි .
+All members of the Aviation, Air and Navasena has been called by President Ranil Wickremesinghe yesterday (22) to maintain the twenty-five administrative districts of the country.
+
+Accordingly, armed forces have been called to maintain public order in 14 districts of Colombo and Kalutara districts and 11 internal districts.
+
+The Gazette notification of the call was released yesterday (22).
 
 ◼️
 
 [Data](articles/0979789d.json)
+
+[Extended Data](ext_articles/0979789d.ext.json)
 
 ---
 
@@ -2395,53 +2433,5 @@ More than 34 million applications for the first phase of the Aswesa Project were
 [Data](articles/a68a5362.json)
 
 [Extended Data](ext_articles/a68a5362.ext.json)
-
----
-
-### The Survey of Aswesum is completed on July 31st
-
-*2024-07-23 01:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-கணக்கெடுப்பு-ஜூலை-31-ஆம்-திகதி-நிறைவு/175-340862) · `ta`
-
-The "Aswesum" survey concluded on July 31, alongside the second phase of the "Ashemus" Welfare Program. Applications for families missed the deadline but received about 454,924 applications starting from February. The Welfare Benefits Board Chairman, Jayantha Wijeratne, announced the start of the application survey during a media briefing at the Presidential Media Center.
-
-🟩
-
-The second phase of the 'Ashemus' Welfare Program is scheduled to be completed by July 31.
-
-In addition, families who failed to apply for the scheme were requested last February and received about 454,924 applications.
-
-Chairman of the Welfare Benefits Board Jayantha Wijeratne said that the survey on those applications has already begun.
-
-He said this at a special media briefing held at the Presidential Media Center yesterday afternoon. (A)
-
-◼️
-
-[Data](articles/810d2878.json)
-
-[Extended Data](ext_articles/810d2878.ext.json)
-
----
-
-### July 31 closes
-
-*2024-07-23 01:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-ஜூலை-31-நிறைவு/175-340862) · `ta`
-
-The 'Ashemus' Welfare Program's second phase aims to conclude by July 31, following 454,924 applications from families since February. The Welfare Benefits Board Chairman, Jayantha Wijeratne, announced the start of a survey on these applications during a media briefing at the Presidential Media Center.
-
-🟩
-
-The second phase of the 'Ashemus' Welfare Program is scheduled to be completed by July 31.
-
-In addition, families who failed to apply for the scheme were requested last February and received about 454,924 applications.
-
-Chairman of the Welfare Benefits Board Jayantha Wijeratne said that the survey on those applications has already begun.
-
-He said this at a special media briefing held at the Presidential Media Center yesterday afternoon. (A)
-
-◼️
-
-[Data](articles/aea36ac5.json)
-
-[Extended Data](ext_articles/aea36ac5.ext.json)
 
 ---

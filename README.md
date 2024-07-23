@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 16:35:49**
+As of **2024-07-23 16:53:24**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,177
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,786 (100.0%) of 36,788 articles have been extended.
+36,788 (100.0%) of 36,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### බැංකුවල රන් භාණ්ඩ උකසට තැබූ අයට සහන
+### Relief to those who put the gold items in banks
 
 *2024-07-23 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199128) · `si`
 
-මහජනතාවට පොලී සහනාධාරයක් මහා භාණ්ඩාගාරය විසින් සලසාදීම සඳහා යෝග්‍ය වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට මුදල් අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ කැබිනට් යෝජනාවට අමාත්‍ය මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
+President Ranil Wickremesinghe, as Finance Minister, approved a plan to offer annual interest subsidies up to 10% through Labu Banks, benefiting individuals storing gold items in banks.
 
-තනි පුද්ගල පදනම මත 2024 ජුනි මස 30 හෝ ඊට පෙර බලපත්‍ර ලාබී බැංකු මගින් ලබාගත් රුපියල් 100,000 නොඉක්මවන උකස් අත්තිකාරම් සඳහා වාර්ෂිකව 10%ක උපරිමයකට යටත්ව මෙම පොලී සහනාධාරය ලබාදීමට වැඩපිළිවෙළක් සකස් කිරීමට නියමිතය.
+🟩
+
+The Cabinet proposal presented by President Ranil Wickremesinghe has been approved by President Ranil Wickremesinghe as the Minister of Finance to implement an appropriate program to providing an interest subsidy to the public by the Treasury.
+
+The interest subsidy is to be provided annually subject to a maximum of 10% annually to a maximum of 10% annually by Labi Banks on a single person basis.
 
 ◼️
 
 [Data](articles/b7213566.json)
+
+[Extended Data](ext_articles/b7213566.ext.json)
 
 ---
 
@@ -1732,21 +1738,27 @@ The plantation community of our country has a history of over 200 years in our c
 
 ---
 
-### මාර්ග කාපට් කිරිම හා කොන්ක්‍රීට් කිරීම වෙනුවෙන් රජය ගෙවිය යුතු මුදල රු. බිලියන 120
+### The government to pay for road carpeting and concrete. 120 billion
 
 *2024-07-23 10:16:17* · [`adalk`](https://www.ada.lk/breaking_news/මාර්ග-කාපට්-කිරිම-හා-කොන්ක්‍රීට්-කිරීම-වෙනුවෙන්-රජය-ගෙවිය-යුතු-මුදල-රු--බිලියන-120/11-410930) · `si`
 
-මහා මාර්ග කාපට් කිරීම හා අතුරු මාර්ග කොන්ක්‍රීට් කිරීම සඳහා 2023 වසරේ සිට මේ දක්වා කොන්ත්‍රාත්කරුවන් වෙත ලැබිය යුතු රුපියල් බිලියන 120 ක් රජය මෙතෙක් නොගෙවීම නිසා කොන්ත්‍රත්කරුවන් දැඩි අපහසුතාවයකට පත්ව ඇතැයි ශ්‍රී ලංකා ඉදිකිරීම් සංගමය පවසයි .
+The Sri Lanka Construction Association (SLBFE) has complained about the government's delay in paying for road construction projects, totaling 120 billion rupees. This payment is crucial for nearly two million contractors who have completed work on highways, carpeting, and temporary roads. The association's secretary, Kugadas, highlighted the urgency of disbursing funds to support workers post-completion. A letter from Kugadas was sent to the President, copied to the relevant authorities, emphasizing the need for prompt action.
 
-මහා මාර්ග කාපට් කිරීම හා අතුරු මාර්ග කොන්ක්‍රීට් කිරීම සඳහා දෙදහකට ආසන්න කොන්ත්‍රත්කරුවන් වෙත මෙම මුදල ලබාදිය යුතු බව ශ්‍රී ලංකා ඉදිකිරීම් සංගමයේ ලේකම් කුගදාස් ප්‍රකාශ් මහතා පැවසීය.
+🟩
 
-වැඩ අවසන් වූ පසු මුදල් ලබා ගැනීමේ අරමුණින් මෙම කොන්ත්‍රාත්කරුවන් බැංකුවලට ණය වී ඇති අතර ඊට අමතරව කම්කරුවන් සඳහා වැටුප් ගෙවීම යන්ත්‍ර සූත්‍ර කූලී  ණය පදනම මත ලබා ගැනීම,ණය පදනම මත අමුද්‍රව්‍ය ලබා ගැනීම සඳහා මුදල් ගෙවීමට මේ නිසා ගැටළුවක් වී ඇති බව ශ්‍රී ලංකා ඉදිකිරීම් සංගමයේ ලේකම් කුගදාස් ප්‍රකාශ මහතාගේ අත්සනින් ජනාධිපතිවරයා යැවූ වෙත යැවූ ලිපියක සඳහන් වේ.
+The Sri Lanka Construction Association (SLBFE) says the government has been severely inconvenienced due to the government, since the government has not paid Rs.
 
-ජනාධිපතිවරයා වෙත යවූ ලිපියේ පිටපත් විෂය භාර අමාත්‍යවරයා වෙත සහ මහා භාණ්ඩාගාරය වෙතද යවා ඇති බව ලේකම් කුගදාස් ප්‍රකාශ් මහතා වැඩිදුරටත් පැවසීය.
+The Secretary of the Sri Lanka Construction Association Kugadas Association Kavadas Association Secretary Kavadhas said that this amount should be provided to nearly two and nearly two million contractors to concrete high road carpeting and interim roads.
+
+The Secretary of the Sri Lanka Construction Association is a problem with the purpose of obtaining the money for workers after the work is completed.A letter sent to the President to send the President with the signature of Kugadas.
+
+The President has sent copies of the letter to the President and the Treasury in charge of the subject and the Treasury.
 
 ◼️
 
 [Data](articles/761dd770.json)
+
+[Extended Data](ext_articles/761dd770.ext.json)
 
 ---
 

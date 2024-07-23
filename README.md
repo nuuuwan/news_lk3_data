@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 09:54:53**
+As of **2024-07-23 10:06:47**
 
 ## Newspaper Stats
 
@@ -26,107 +26,145 @@ adaderanasinhalalk | 6,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,688 (100.0%) of 36,693 articles have been extended.
+36,693 (100.0%) of 36,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### மீனவர்களின் படகு சேதம்: உயிர் தப்பிய  மீனவர்கள்
+### Fishermen's boat damage: fishermen survived
 
 *2024-07-23 09:33:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களின்-படகு-சேதம்-உயிர்-தப்பிய-மீனவர்கள்/175-340866) · `ta`
 
-இராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து மீன்பிடிக்கச் சென்ற இரண்டு விசைப்படகு களையும் அதிலிருந்த 9 மீனவர்களையும் எல்லை தாண்டி மீன்பிடித்ததாக இலங்கை கடற்படை கைது செய்து காங்கேசன்துறை கடற்படை முகாமிற்கு அழைத்துச் சென்றுள்ளனர்.
+In a maritime incident near Sri Lanka, fishermen faced legal trouble when their boat was intercepted by the Sri Lankan navy for alleged border crossing. Despite the navy's aggressive actions, including chasing and arresting fishermen, some managed to escape unharmed. The situation escalated due to the cancellation of fishing permits caused by a tornado, leading to a large-scale fishing operation from Rameswaram port. The navy's actions have sparked concerns among the fishing community, with further investigations pending.
 
-மேலும் நடுக்கடலில் மீன் பிடித்து கொண்டிருந்த  மீன்பிடி விசைப் படகு  மீது இலங்கை கடற்படை ரோந்து கப்பல் மோதியதில் படகின் பின் பகுதி சேதம் அடைந்து படகில் இருந்த மீனவர்கள் அதிர்ஷ்டவசமாக உயிர் தப்பி கரை சேர்ந்துள்ளனர்.
+🟩
 
-இராமநாதபுரம் கடல் பகுதியில் கடந்த ஐந்து நாட்களாக வீசி வந்த சூறைக்காற்று காரணமாக மீனவர்களுக்கு மீன்பிடி அனுமதி சீட்டு ரத்து செய்யப்பட்டிருந்த நிலையில் திங்கட்கிழமை (22) கடல் இயல்பு நிலைக்கு திரும்பியதையடுத்து இராமேஸ்வரம் மீன்பிடித் துறைமுகத்திலிருந்து மீன்பிடி அனுமதி சீட்டு பெற்று 430 விசைப்படகுகளில் ஆயிரக்கணக்கான  மீனவர்கள் மீன்பிடிக்க கடலுக்கு சென்றனர்.
+The Sri Lankan navy has arrested two fishermen and nine fishermen from the Rameswaram fishing port and taken to the Kankesanthurai Naval Base for allegedly crossing the border.
+
+The fishermen in the boat were fortunately escaped by the Sri Lankan navy patrol vessel crashed into a fishing boat that was fishing in the middle of the sea.
+
+Thousands of fishermen went to fishing in 430 boats from Rameswaram fishing port on Monday (22) as the fishing permit was canceled due to a tornado that had been thrown into the Ramanathapuram Sea.
+
+Accordingly, the Sri Lankan navy patrolled Rameswaram and Selvakumar, who was fishing in the area at around 2 am on Monday (23) at around 2 am, was arrested by the Sri Lankan navy.All the fishermen were taken to the coastal camp and thereafter they were handed over to the Jaffna Fisheries Department.
+
+Fisheries officials have said that the fishermen will be produced at the Kayts Court after the investigation.
 
 ...
 
 [Data](articles/a12a3bd9.json)
 
+[Extended Data](ext_articles/a12a3bd9.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-07-23 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199110) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු සභාවාරය ආරම්භ කර තිබේ.
+The Parliamentary Session, patronized by the Deputy Speaker, commenced today and will continue until the 26th. Key topics include debating the Civil Nupada Code Amendment and the impact of AI technology on national security and religion, presented by Madura Withanage. Additionally, the session will address the Fiscal Management and Economic Translation Bills through a second reading debate.
 
-අද (23) සිට ලබන 26 වනදා දක්වා පාර්ලිමේන්තුව රැස්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-ඒ අනුව අද දිනයේ සිවිල් නඩුවිධාන සංග්‍රහය සංශෝධන පනත් කෙටුම්පත දෙවැනිවර කියවීම සහ අධිකරණ සංවිධාන පනත යටතේ නියෝග ද්විත්වයක් විවාදයට ගැනීමට නියමිතය.
+The Parliamentary Session has been launched under the patronage of the Deputy Speaker.
 
-අනතුරුව විපක්ෂය විසින් ගෙන එනු ලබන සභාව කල්තබන අවස්ථාවේ යෝජනාව විවාදයට ගැනීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+The Parliament will meet from today (23) to the 26th of this month, the Parliament Communication Department said.
 
-හෙට (24) දිනයේ පාර්ලිමේන්තු මන්ත්‍රී මධුර විතානගේ මහතා විසින් ගෙන එනු ලබන "කෘතිම බුද්ධිය භාවිත කිරීමේ තාක්ෂණය මගින් ජාතික ආරක්ෂාව, සියලු ආගම් සහ රටේ සංස්කෘතිය කෙරෙහි ඇති කරන බලපෑම" පිළිබඳව සභාව කල්තැබීමේ විවාදය පැවැත්වීමට නියමිතය.
+Accordingly, the Civil Nupada Code Amendment Day Amendment Day today is to be debated by reading the second reading and the judicial organization.
 
-අනිද්දා (25) රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදය පැවැත්වීමට  නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පවසයි.
+The proposal will be debated in the event of the Opposition, which is being taken by the opposition.
 
-...
+"The" artificial intelligence technology brought by Parliamentarian Madura Withanage tomorrow (24) "is to be held in the impact of national security, all religions and the country's effects.
+
+The Second Reading Debate is scheduled to be held the second reading of Fiscal Management and Economic Translation Bills.
+
+It has been decided that the issues seeking verbal answers to the date and the contents of the presence and the church is not considered in advance.
+
+◼️
 
 [Data](articles/b1a24428.json)
 
+[Extended Data](ext_articles/b1a24428.ext.json)
+
 ---
 
-### கல்வி அமைச்சின் முக்கிய அறிவிப்பு
+### The main notice of the Ministry of Education
 
 *2024-07-23 09:30:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சின்-முக்கிய-அறிவிப்பு/175-340865) · `ta`
 
-அடுத்த ஆண்டுக்கான பாடசாலை பாடப் புத்தகங்களை பிரதேச களஞ்சியசாலைகளுக்கு விநியோகிக்கும் பணிகள் இன்று முதல் ஆரம்பிக்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+The Ministry of Education announced today that textbook distribution for schools will commence soon. Additionally, the Chinese government has pledged to provide 100% of school uniforms for 2025. The Education Minister made this announcement during a media briefing at the Presidential Media Center.
 
-அதேநேரம் பாடசாலை மாணவர்களுக்கு 2025ஆம் ஆண்டுக்கான பாடசாலை சீருடைகளை 100 வீதம் வழங்குவதாக சீன அரசாங்கம் கல்வி அமைச்சுக்கு உறுதிப்படுத்தியுள்ளது.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கல்வி அமைச்சர் இதை குறிப்பிட்டார். R
+Education Minister Susil Premajayantha said that the supply of school textbooks for next year to the area will be launched from today.
+
+At the same time, the Chinese government has confirmed to the Ministry of Education that the school students are providing 100 percent of school uniforms for 2025.
+
+The Minister of Education participated in a media briefing held at the Presidential Media Center.. Remble
 
 ◼️
 
 [Data](articles/7342b4c8.json)
 
+[Extended Data](ext_articles/7342b4c8.ext.json)
+
 ---
 
-### අක්ෂි රෝහලේ වෛද්‍යවරුන් වර්ජනයකට සැරසෙයි
+### Doctors in Eye Hospital prepares to strike
 
 *2024-07-23 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199108) · `si`
 
-ජාතික අක්ෂි රෝහලේ වැඩබලන අධ්‍යක්ෂකවරයා ඉවත් නොකළහොත් වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වන බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+Doctors at Eye Hospital threaten strike over director's removal, citing lack of adherence to health guidelines by the acting director. GMOA calls for action if changes aren't made by 8 am, indicating a potential escalation in labor unrest.
 
-එම සංගමයේ මාධ්‍ය ප්‍රකාශක වෛද්‍ය චමිල් විජේසිංහ මහතා පැවසුවේ, අද (23) පෙරවරු 8ට පෙර වැඩබලන අධ්‍යක්ෂකවරයා ඉවත් කරන ලෙස බලධාරීන්ගෙන් ඉල්ලීමක් කර ඇති බවය.
+🟩
 
-"අක්ෂි රෝහල තුළ දැඩි නොසන්සුන්කාරී තත්ත්වයක් මේ වනවිට ඇතිව තිබෙනවා. කිසිසේත්ම ඔහුගේ තනතුරට ගැලපෙන ආකාරයට නෙමෙයි මේ පුද්ගලයා හැසිරෙන්නේ. ඒ නිසා දිගින් දිගටම මේ ගැන දැනුවත් කළා. නමුත් අපිට පේන්නේ නෑ සෞඛ්‍ය ලේකම් ලබාදුන් විධි විධාන හා මාර්ගෝපදේශ ක්‍රියාත්මක කරන බවක් බලධාරීන්. මෙයට විසඳුමක් උදේ 8 වෙද්දි ලබාදුන්නේ නැත්නම් මේ වනවිට තිබෙන තත්ත්වය සමාලෝචනය කර අපිට සිදුවෙනවා වෘත්තීය ක්‍රියාමාර්ගයකට යන්න."
+The Government Medical Officers Association (GMOA) is engaged in a trade union action if the acting director of the National Eye Hospital is removed.
+
+The association spokesman Dr. Chamil Wijesinghe said that the authorities have requested the removal of the acting director today (23).
+
+"There is now a severe tense situation in the eye hospital. This person does not fit his position. So continued to make it informed about this. But we cannot see the authorities that are implementing the provisions and guidelines given by Health Secretary. If this is not given a solution at 8 am, we have to review the situation and go to a professional program. "
 
 ◼️
 
 [Data](articles/16cbcdda.json)
 
+[Extended Data](ext_articles/16cbcdda.ext.json)
+
 ---
 
-### මාරක අනතුරු කිහිපයක් - සිව්දෙනෙකුට දිවි අහිමිවෙයි
+### Four suspensions have passed away
 
 *2024-07-23 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199109) · `si`
 
-දිවයින පුරා සිදුවූ රිය අනතුරු කිහිපයකින් කාන්තාවන් දෙදෙනෙකු ඇතුළු පුද්ගලයින් 04 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In separate incidents across Sri Lanka, four fatalities occurred: a 38-year-old man in Galkulama, a 58-year-old in Veyangoda, a 39-year-old woman in Ahungalla, and a 65-year-old woman in Matale. Accidents happened in Thirappane, Veyangoda, Ahungalla, and Matale. Investigations are ongoing.
 
-ඊයේ (22) එම අනතුර සිදුව තිබුණේ, තිරප්පනේ, වේයන්ගොඩ, අහුංගල්ල සහ මාතලේ යන පොලිස් වසම්වලය.
+🟩
 
-ඒ-09 ප්‍රධාන මාර්ගයේ ගල්කුලම ප්‍රදේශයේදී වාහනයක ගැටී පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Four persons including two including two women in several of the accidents islandwide have died.
 
-එලෙස ජීවිතක්ෂයට පත්ව තිබුණේ කැදෑව, අනුරාධපුර ප්‍රදේශයේ පදිංචිව සිටි 38 හැවිරිදි පුද්ගලයෙකි.
+The accident occurred yesterday (22), the accident occurred in Thirappane, Veyangoda, Ahungalla and Matale.
 
-රිය අනතුර සිදුකර පළාගිය වාහනය අත්අඩංගුවට ගැනීම සඳහා තිරප්පනේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+A man was killed and killed in a vehicle along the Galkulama area on the main road.
 
-මේ අතර වේයන්ගොඩ, නයිවල - උඩුගම්පොළ මාර්ගයේ බංගලාවත්ත ප්‍රදේශයේදී යතුරුපැදියක් සුනඛයෙකුගේ ගැටීමෙන් අනතුරක් සිදුව තිබුණි.
+The victim was a 38 year old resident of Anuradhapura.
 
-අනතුරින් බරපතළ තුවලා ලැබූ යතරුපැදිකරු 58 හැවිරිදි ගම්පහ රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+The Thirappane Police are conducting further investigations to arrest the vehicle.
 
-මේ අතර ගාල්ල - කොළඹ ප්‍රධාන මාර්ගයේ අහුංගල්ල නැලිකන්දට හැරෙන හන්දිය අසලදී බස් රථයක් ත්‍රීරෝද රථයක මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් 39 හැවිරිදි කාන්තාවක් මියගොස් තිබේ.
+Meanwhile, a motorbike was reported in Bangalawatta area on Veyangoda, Niwela and Udugampola road.
 
-මේ අතර ඕවිලිකන්ද - මාතලේ මාර්ගයේ වැලිහින්න 06 කණුව ප්‍රදේශයේදී බස් රථයකට යටවී කාන්තාවක් ජීවිතක්ෂයට පත්ව ඇත.
+The 58-year-old was rushed to the Gampaha Hospital.
+
+Meanwhile, a 39-year-old woman was killed in a three-wheeler near the face of a three-wheeler near the Ahungalla Kurinda Junction on the Galle-Colombo main road.
+
+Meanwhile, a woman was killed in a bus during the Weli in Vevilakanda-Matale road.
+
+A bus towards Halgolla to Halgolla, a passenger lady on the bus was brought back on the road to the bus and traveled by the bus to the bus.
 
 ...
 
 [Data](articles/2dee486e.json)
+
+[Extended Data](ext_articles/2dee486e.ext.json)
 
 ---
 

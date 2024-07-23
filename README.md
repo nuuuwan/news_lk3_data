@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 15:05:33**
+As of **2024-07-23 15:35:46**
 
 ## Newspaper Stats
 
-*Scraped **36,769** Articles*
+*Scraped **36,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,62 +15,164 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,321
+adalk | 3,323
 adaderanalk | 4,261
-tamilmirrorlk | 4,505
+tamilmirrorlk | 4,507
 dailymirrorlk | 4,733
-virakesarilk | 5,759
-adaderanasinhalalk | 6,174
+virakesarilk | 5,762
+adaderanasinhalalk | 6,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,766 (100.0%) of 36,769 articles have been extended.
+36,773 (100.0%) of 36,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### பாராளுமன்றத்தில் வைத்தியர் அர்ச்சுனா
+### திருகோணமலை நகராட்சி மன்ற செயலாளரின் இடமாற்றம் தொடர்பான மனு மீது விசாரணை
 
-*2024-07-23 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189174) · `ta`
+*2024-07-23 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189179) · `ta`
 
-யாழ்ப்பாணம் சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் பதில் வைத்திய அத்தியட்சகரான அர்ச்சுனா இராமநாதன் இன்று செவ்வாய்க்கிழமை (23) பாராளுமன்றுக்கு சென்றுள்ளார்.
+திருகோணமலை நகராட்சி மன்ற செயலாளரின் இடமாற்றம் தொடர்பாக திருகோணமலை மேல் நீதிமன்றில் தாக்கல் செய்யப்பட்டிருந்த எழுத்தாணை மனுமீதான வழக்கு விசாரணை இன்று செவ்வாய்க்கிழமை (23) மேல் நீதிமன்ற நீதிபதி என்.எம்.எம்.அப்துல்லாவின் முன்னிலையில் விசாரணைக்காக எடுத்துக் கொள்ளப்பட்டது.
 
-இது தொடர்பாக வைத்தியர் வைத்தியர் அர்ச்சுனா உத்தியோகபூர்வ பேஸ்புக் பக்கத்தில் பதிவொன்றை இட்டுள்ளார்.
+குறித்த மனுவை வெள்ளையன் இராஜசேகர் சார்பாக பதிவுசெய்யப்பட்ட சிரேஷ்ட சட்டத்தரணி அனீப் லெப்பை தாக்கல் செய்திருந்தார். இதன்போது குறித்த இடமாற்றமானது சட்டரீதியற்ற முறையிலும் பழிவாங்கும் வகையில் இடம்பெற்றிருப்பதாகவும், இது நேர்மையாக பணியாற்றிவந்த அரச ஊழியருக்கு இழைக்கப்பட்ட அநீதி எனவும் குறித்த இடமாற்றத்தை இரத்துச் செய்யுமாறு கோரி மனுதாரர் சார்பாக தனது சமர்ப்பணங்களை முன்வைத்தார்.
 
-இந்தப் பெரும் சுமையை எனது சின்ன கைகளில் சுமத்தி அழகு பார்க்கும் எனது இனிய தமிழ் மக்களுக்கு எனது மனமார்ந்த நன்றிகள்.
-
-உங்களுடைய இந்த நம்பிக்கையை இந்த கணத்தில் நான் பிழையான வழியில் அவமதிப்பேன் என்றால் எனது வீரம் செறிந்த தமிழினத்திற்கு மிகப்பெரிய துரோகி நானாகத்தான் இருப்பேன்.
-
-இந்த உன்னதமான பணியை எனக்குத் தந்த எனதருமை தமிழ் சொந்தங்கள் இந்த வீர போராட்டத்திலே தங்களையே ஆகுதியாக்கி கொண்ட அண்ணா மார்கள், அக்கா மார்கள், தம்பிகள், தங்கைகள் அனைவருக்கும் என்னால் செய்யக்கூடிய ஒரே ஒரு நன்றி கடன் இது மட்டுமே.
+இதன்போது இரு தரப்பு வாதங்களையும் கவனத்தில் எடுத்துக் கொண்ட நீதிபதி எதிர்வரும் ஆகஸ்ட் மாதம் 8ஆம் திகதி குறித்த வழக்கினை அழைக்க திகதியிட்டதுடன், எதிராளிகளாக பெயர் குறிப்பிடப்பட்டுள்ள உரிய தரப்பினரை குறித்த திகதியில் நீதிமன்றில் முன்னிலையாகுமாறும் அழைப்பாணை விடுத்திருந்தார்.
 
 ...
 
-[Data](articles/f1615016.json)
+[Data](articles/f11c9928.json)
 
 ---
 
-### கோட்டாபய 2022 இல் மாலைதீவிற்கு தப்பிச்சசெல்வதற்கு இலங்கை விமானப்படையே உதவியது - விமானப்படை தகவல்
+### பிரான்ஸில் இடம்பெற்ற பிரசிடென்ட் கிளப் மாநாட்டில் பிரகாசித்த AIA இன் செயற்திறனாளர்கள்!
+
+*2024-07-23 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189173) · `ta`
+
+பிரான்சின் கேன்ஸ் நகரில் நடைபெற்ற பிரமாண்டமான AIA பிரசிடென்ட் கிளப் மாநாட்டில் இலங்கையைப் பிரதிநிதித்துவப்படுத்தும் விதமாகக் கலந்து கொண்ட AIA இன்சூரன்ஸின் சிறந்த வெல்த் பிளானர்களுக்கு கலந்து கொண்டனர்.
+
+இந்த மாநாடானது பொதுவாக உலகெங்கிலும் உள்ள மிகவும் கவர்ச்சியான இடங்களிலேயே நடைபெற்று வருகின்றது. தொடர்ச்சியாக 12 ஆவது வருடமாகவும் இடம்பெறும் இந்நிகழ்வில் இலங்கையின் பங்கேற்பானது உலகளாவிய நிகழ்வில் AIA ஸ்ரீலங்காவின் சிறப்பான நிலையினை வெளிப்படுத்தியிருந்தது.
+
+இந்த வருடம் பிரான்சில் இடம்பெற்ற மாநாடானது தொழில்சார் வளர்ச்சி மற்றும் அங்கீகாரத்துடன் உலகின் மிகவும் பரபரப்பான நகரம் ஒன்றின் துடிப்பான ஆற்றலை ஒருங்கிணைத்து ஒரு செழுமையான அனுபவத்தினையே இதில் கலந்து சிறப்பித்தவர்களுக்கு வழங்கியிருந்தது.
+
+...
+
+[Data](articles/be33cdf8.json)
+
+---
+
+### மொட்டுத் தலைவர்கள் 12 பேர் இரகசிய பேச்சு
+
+*2024-07-23 15:06:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுத்-தலைவர்கள்-12-பேர்-இரகசிய-பேச்சு/175-340893) · `ta`
+
+ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவைத் தவிர வேறு வேட்பாளர்கள் நிறுத்தப்பட்டால் அதனை எதிர்த்து ஜனாதிபதிக்கு ஆதரவளிக்க ஸ்ரீலங்கா பொதுஜன பெரமுனவின் 12 மாவட்ட தலைவர்கள் தீர்மானித்துள்ளதாக அரசியல் வட்டாரத் தகவல்கள் தெரிவிக்கின்றன.
+
+இது தொடர்பான விசேட கலந்துரையாடல் கொழும்பு மலலசேகர மாவத்தையில் உள்ள இராஜாங்க அமைச்சர் ஒருவரின் இல்லத்தில்  திங்கட்கிழமை (22) இரவு இடம்பெற்றதாக அந்த தகவல்கள் தெரிவிக்கின்றன.
+
+கட்சி வேறு வேட்பாளரை நியமித்தால், பெரும்பான்மைக் கருத்துக்கு எதிராகச் சென்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவைத் தெரிவிக்க அவர்கள் தீர்மானித்துள்ளனர் என்றும் அறியமுடிகின்றது.
+
+ரணில் விக்கிரமசிங்கவின் தேர்தல் பிரசாரத்தை நடைமுறைப்படுத்துவதற்கு தேவையான அமைப்பு ரீதியான செயற்பாடுகளை மாவட்ட மட்டத்தில் அந்த சபை உறுப்பினர்களுடன் தொடர்பு கொண்டு முன்னெடுப்பதற்கும் தீர்மானிக்கப்பட்டுள்ளதாக அரசியல் வட்டாரங்கள் மேலும் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/722eddb1.json)
+
+---
+
+### HNB Finance இன் "ஊக்குவிக்கும் அபிவிருத்தி நிதி கல்வியறிவு பட்டறை" குருநாகல் மற்றும் கேகாலையில்
+
+*2024-07-23 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189176) · `ta`
+
+இலங்கையின் முன்னணி நிதி நிறுவனங்களில் ஒன்றான HNB Finance PLC, இந்த வருடத்தின் மூன்றாவது மற்றும் நான்காவது பயிற்சிப் பட்டறை நிகழ்ச்சித் திட்டங்களை குருநாகல் மற்றும் கேகாலை மாவட்டங்களை மையமாகக் கொண்டு அண்மையில் நடத்தியது.
+
+இதனூடாக நுண் மற்றும் சிறிய அளவிலான தொழில்முனைவோருக்கு நிதியறிவை மேம்படுத்துவதே பிரதான நோக்கமாகும்.
+
+HNB Finance இன் நிறுவன சமூகப் பொறுப்புணர்வு அணுகுமுறையின் கீழ் கடந்த சில வருடங்களாக நாட்டின் பல்வேறு மாகாணங்களில் ஏற்பாடு செய்யப்பட்ட நிகழ்ச்சிகளின் மூலம் ஆயிரத்துக்கும் மேற்பட்ட நுண் மற்றும் சிறிய அளவிலான தொழில்முயற்சியாளர்களின் நிதி அறிவை மேம்படுத்த முடிந்துள்ளது.
+
+HNB Financeஇன் திறன் அபிவிருத்தித் துறைத் தலைவர் அனுர உடவத்த, இந்தத் தொடர் நிதியறிவு நிகழ்ச்சிகளை நடத்தினார், இதில் நுண் மற்றும் சிறிய அளவிலான தொழில்முனைவோர் வணிகக் கணக்கு பராமரிப்பு, கடன் நிர்வகிப்பு, இலாபத்தின் ஒரு பகுதியை மீள் முதலீடு செய்தல், வணிக செலவு நிர்வகிப்பு மற்றும் புதிய கண்டுபிடிப்புகள் பற்றி அறிந்து கொண்டனர்.
+
+...
+
+[Data](articles/68fe0885.json)
+
+---
+
+### Doctor Archana in Parliament
+
+*2024-07-23 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189174) · `ta`
+
+Dr. Archana Ramanathan, a former staff member of the Jaffna Chavakachcheri Resource Hospital, expressed gratitude towards her Tamil community during a visit to Parliament. She emphasized her commitment to their cause, assuring them of her dedication and urging them not to lose hope.
+
+🟩
+
+Archana Ramanathan, a former respondent of the Jaffna Chavakachcheri Resource Hospital, visited Parliament today (23).
+
+The doctor Archana posted a post on the official Facebook page.
+
+My heartfelt thanks to my good Tamil people who look at this great burden in my hands.
+
+If I would insult this hope of yours in this moment, I would be the biggest traitor to my heroic Tamils.
+
+This is the only thanksgiving loan that I can do to all the Anna Mars, aka Mars, Smaments and Sisters who have made themselves in this heroic struggle.
+
+I am posting this post, saying that I have always been dedicated to the struggle of my people today, saying that I will know that you will be the most important time for the future, saying that you will die your hopeful son and die.. We will meet again.
+
+◼️
+
+[Data](articles/f1615016.json)
+
+[Extended Data](ext_articles/f1615016.ext.json)
+
+---
+
+### New Decision on Online Act
+
+*2024-07-23 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199126) · `si`
+
+The Cabinet approved changes to the Online Schemes Act on 12.02.2012 to enhance its security.
+
+🟩
+
+The Cabinet Meeting was approved by the Cabinet Meeting on 12.02.2012 to edit the security of the Online Schemes Act.
+
+The proposal made by Hon.
+
+◼️
+
+[Data](articles/15d15230.json)
+
+[Extended Data](ext_articles/15d15230.ext.json)
+
+---
+
+### Sri Lanka Air Force helped to escape the Maldives in 2022 - Air Force information
 
 *2024-07-23 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189169) · `ta`
 
-அரகலய நாட்களின் போது  கோட்டாபயராஜபக்ச மாலைதீவிற்கு தப்பிச்செல்வதற்கு இலங்கை விமானப்படையின் விமானமும்  நிதியும்  பயன்படுத்தப்பட்டமை தகவல்அறியும் உரிமை சட்டத்தின் மூலம் தெரியவந்துள்ளது.
+In 2022, the Sri Lanka Air Force aided the evacuation from the Maldives during the Arakala protests. This included transporting Gotabhaya Rajapaksa to the Maldives on July 13, 2022, using Air Force resources funded through the Treasury Defense Ministry. The Air Force stated that as the president leads the country's armed forces, such measures are standard practice, without detailing fuel usage for presidential transport due to security reasons.
 
-2022 ஜூலை13ம் திகதி கோட்டாபய ராஜபக்ச இலங்கை விமானப்படை விமானம் மூலமே மாலைதீவிற்கு தப்பிச்சென்றுள்ளார்.
+🟩
 
-அரகலய போராட்டத்தின் போது  ஆர்ப்பாட்டக்காரர்களும் பொதுமக்களும்  ஜனாதிபதி மாளிகையை ஜூலை 2022 9ம் திகதி ஆக்கிரமித்ததை தொடர்ந்து அடுத்த சில நாட்களில் கோட்டாபய மாலைதீவிற்கு தப்பிச்சென்றார்.
+The Right to Information Act has revealed that the Sri Lanka Air Force aircraft and funds were used to escape the Maldives during the Arakala days.
 
-இலங்கை விமானப்படையின் விமானத்தை பயன்படுத்தியே அவர் மாலைதீவிற்கு சென்றார்,திறைசேரி பாதுகாப்பு அமைச்சின் ஊடாக இலங்கை விமானப்படைக்கு வழங்கப்பட்ட நிதி இதற்கு பயன்படுத்தப்பட்டது என இலங்கை விமானப்படை தெரிவித்துள்ளது.
+On July 13, 2022, Gotabhaya Rajapaksa fled to the Maldives by the Sri Lanka Air Force plane.
 
-ஜனாதிபதியே நாட்டின் தலைவர் முப்படைகளின் தலைவர் என்பதால் இந்த நடவடிக்கைகளை முன்னெடுத்ததாக இலங்கை விமானப்படை தெரிவித்துள்ளது.
+During the Arakalai protest, the demonstrators and the public escaped to the Gotabhaya Maldives in the next few days following the occupation of the Presidential Palace on July 9, 2022.
 
-தற்போதுள்ள ஏற்பாட்டின் படி ஜனாதிபதியின் போக்குவரத்திற்கான எரிபொருள் பயன்பாட்டை நாங்கள் கணக்கிடவில்லை எனஇலங்கை விமானப்படை தெரிவித்துள்ளது.
+He went to the Maldives using the Air Force aircraft, and the funds provided to the Sri Lanka Air Force through the Treasury Defense Ministry were used, the Sri Lanka Air Force said.
+
+The Sri Lankan Air Force has said that the President has carried out these measures as the president is the leader of the country's armed forces.
+
+According to the existing arrangement, we are not calculating the use of fuel for the president's transport, the Sri Lanka Air Force said.
 
 ...
 
 [Data](articles/4f40e677.json)
+
+[Extended Data](ext_articles/4f40e677.ext.json)
 
 ---
 
@@ -96,19 +198,25 @@ The 49 -year -old army soldier from Kurunegala and three men between the ages of
 
 ---
 
-### அம்பாறையில் மர ஆலையில் தீ விபத்து
+### Fire at a wooden plant in Amparai
 
 *2024-07-23 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189168) · `ta`
 
-அம்பாறை மாவட்ட காரைதீவு பிரதேச சபை நிர்வாக எல்லைக்குட்பட்ட மாளிகைக்காடு பிரதேசத்திலுள்ள மர ஆலையொன்றில் ஏற்பட்ட தீ விபத்தில், மரம் அறுக்கும் ஆலை தீப்பற்றியதுடன் மரங்களும் எரிந்து சாம்பலாகியுள்ளது.
+A fire erupted at a timber plantation in Amparai's Malikaikkadu region, likely due to soil erosion, causing no injuries. Firefighters from Kalmunai Municipal Council and the National Water Supply and Drainage Board assisted in extinguishing it.
 
-நேற்று திங்கட்கிழமை (22) மாலை குறித்த மர ஆலையில் தீ பரவியதுடன், பிரதேசவாசிகள், கல்முனை மாநகர சபையின் தீயணைப்பு வாகனங்கள், தேசிய நீர் வழங்கல் வடிகாலமைப்பு சபையின் உதவியுடன் தீ கட்டுப்பாட்டுக்குள் கொண்டு வரப்பட்டுள்ளது.
+🟩
 
-இத்தீ விபத்து மின்கசிவு காரணமாக ஏற்பட்டிருக்கலாம் எனவும், இதன் போது உயிர்ச்சேதம் ஏதும் ஏற்படவில்லை எனவும் தெரிய வருகின்றது.
+A fire broke out in a tree plant in the Malikaikkadu area of ​​the Ampara District Karadivu Pradeshiya Sabha.
+
+The fire broke out in the wood plant on Monday (22) evening and the firefighters of the Kalmunai Municipal Council, with the help of the National Water Supply and Drainage Board.
+
+It has been revealed that the accident may have been caused by the erosion and that there was no casualties.
 
 ◼️
 
 [Data](articles/8c633696.json)
+
+[Extended Data](ext_articles/8c633696.ext.json)
 
 ---
 
@@ -155,6 +263,32 @@ Police are conducting further investigations into whether the deceased was trave
 [Data](articles/7efea5bb.json)
 
 [Extended Data](ext_articles/7efea5bb.ext.json)
+
+---
+
+### A - Bad with injuries on 9 road
+
+*2024-07-23 13:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதியில்-காயங்களுடன்-சடலம்/175-340889) · `ta`
+
+A man's body was found on the Kandy-Jaipanam A-9 road between km 122 and 123, showing signs of severe injuries. Identified as 38-year-old Suraveera from Anuradhapura, he was the father of two and worked at a hotel in Mulchiripura. The police are investigating how he died, whether it was due to being hit by a vehicle or dying within one on the road.
+
+🟩
+
+A body of a man has been recovered on the Kandy -Jaipanam A -9 road, police said.
+
+Drappana Police Domain Kalkulam Km.  122,க்கும் 123க்கும் இடைப்பட்ட வீதியில் பலத்த காயங்களுக்குள்ளான நிலையில் உயிரிழந்த நபரின் சடலம் திங்கட்கிழமை (23) கண்டெடுக்கப்பட்டுள்ளதாக திரப்பன பொலிஸார் தெரிவித்தனர்.
+
+The deceased was the elderly Suraveera of Anuradhapura, Mihintale and Kedeva area, and the 38 -year -old has been identified as the father of two children, police said.
+
+Police suspect that the deceased was working at a hotel in Mulchiripura area and was on his way home after night.
+
+Police are conducting further investigations into whether the deceased was traveling in a road and died from the vehicle or died with a vehicle on the road.
+
+◼️
+
+[Data](articles/955e5109.json)
+
+[Extended Data](ext_articles/955e5109.ext.json)
 
 ---
 
@@ -471,6 +605,34 @@ Accordingly, the police have begun testing CCTV camera in the area.
 [Data](articles/9c0dc44a.json)
 
 [Extended Data](ext_articles/9c0dc44a.ext.json)
+
+---
+
+### A rare case of the favor of Saturn is tomorrow
+
+*2024-07-23 12:58:34* · [`adalk`](https://www.ada.lk/breaking_news/සෙනසුරු-චන්ද්‍රයාගෙන්-මුවාවීමේ-විරලම-සිද්ධියක්-හෙට/11-410935) · `si`
+
+Tomorrow, the Arthur C Clarke Institute of Modern Technology in Sri Lanka opens its largest telescope to the public for a rare astronomical event involving Saturn and the moon. Starting after midnight, viewers can witness this phenomenon from anywhere within Sri Lanka, as long as the sky is clear. The event, visible from approximately 00:50 to 3:00 am on July 25, 2024, offers a unique opportunity to observe Saturn closely. For specific viewing times and more details, visit the ACCIMT website.
+
+🟩
+
+Professor Chandana Jayaratne says that the Arthur C Clark Institute of Modern Technology and the largest acCimt telescope in Sri Lanka will open July 24 to the public.
+
+The ACCIMT telescope is open to the general public to watch the constraint phenomenon to the mond tomorrow after midnight tomorrow.
+
+On July 25, July 25, July 25, July 25, July 25, on July 25, 2024, 2024. Started at around 00:50. In. 2.10 To see the semi-covered view to Sri Lankans.
+
+The Moon is the second largest planet Saturn, which is the 2nd largest planet Saturn, starts for a million and 1 hour over the middle of the night and starts to reap the finest Saturn.
+
+These hours are different from Sri Lanka's place to place in Sri Lanka and specified times are shown on the ACCIMT website.
+
+The event can be observed to monitor Satur SC Clark to the public until 4 pm to 3.00 pm, although this event can be observed from the house from the house.Have been provided with.
+
+...
+
+[Data](articles/d372ec16.json)
+
+[Extended Data](ext_articles/d372ec16.ext.json)
 
 ---
 
@@ -1356,6 +1518,30 @@ The plantation community of our country has a history of over 200 years in our c
 
 ---
 
+### Penalties be up
+
+*2024-07-23 10:04:25* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-වැරදි-කීහිපයක--දඩ-මුදල්-ඉහලට/11-410928) · `si`
+
+A proposed amendment to Sri Lanka's Criminal Procedure Code aims to increase fines, including penalties for bribery related to elections. The draft, signed by Hon. Dr. Wijayadasa Rajapaksa, seeks to enhance financial penalties under the act originally enacted in 1979.
+
+🟩
+
+The Bill for the Criminal Procedure Code has been proposed to increase the fines, including bribes, which are bribed by a election.
+
+Accordingly, the draft will increase the fump of Rs.
+
+The fine of Rs.
+
+The Bill to revise the Criminal Procedure Code Act No. 15 of 1979, the Bill is gazetted with the signature of Hon. Dr. Wijayadasa Rajapaksa.
+
+◼️
+
+[Data](articles/9169193b.json)
+
+[Extended Data](ext_articles/9169193b.ext.json)
+
+---
+
 ### A shooting of an adult sear centers in Croatia
 
 *2024-07-23 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199111) · `si`
@@ -2233,167 +2419,5 @@ The first phase of the Agricultural Modernization Program has been allocated Rs.
 [Data](articles/264d3515.json)
 
 [Extended Data](ext_articles/264d3515.ext.json)
-
----
-
-### Interest free loan in agricultural modernization program
-
-*2024-07-23 01:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாய-நவீனமயமாக்கல்-திட்டத்தில்-வட்டியில்லா-கடன்/175-340860) · `ta`
-
-An MoU was signed to provide interest-free loans to agri-entrepreneurs and farmers through the Bank of Ceylon and Divisional Development Bank, with plans to include the People's Bank. The initial phase focuses on 75 Divisional Secretariats for projects valued at 10 million rupees.
-
-🟩
-
-The Memorandum of Understanding (MoU) on the process of providing interest -free loans to agricultural entrepreneurs and farmers under the agricultural modernization program was signed yesterday.
-
-In the first phase, the Secretary to the Ministry of Agriculture and Plantation Industries, Janaka Dharmakirti, signed these Memorandum of Understanding (MoU) along with the Bank of Ceylon and the Divisional Development Bank, which contributes to this program.. Accordingly, the contract with the people's bank is to be signed in the future.
-
-The first phase of the Agricultural Modernization Program has been allocated Rs.. In the second phase, 75 Divisional Secretariats have been identified to implement agricultural modernization projects worth 10 million rupees.. (A)
-
-◼️
-
-[Data](articles/a7b0e868.json)
-
-[Extended Data](ext_articles/a7b0e868.ext.json)
-
----
-
-### PAFFREL slams Govt. attempt to utilise public funds to retain power
-
-*2024-07-23 01:19:03* · [`dailyftlk`](https://www.ft.lk/news/PAFFREL-slams-Govt-attempt-to-utilise-public-funds-to-retain-power/56-764623) · `en`
-
-PAFFREL Executive Director Rohana Hettiarachchi urges Govt. to refrain from introducing any amendments that would necessitate a referendum
-
-Questions why Govt. is attempting to introduce an amendment that would require a referendum costing Rs. 10 b if the economic crisis is ongoing
-
-Says unacceptable for Govt. to propose amendments leading to a referendum when LG polls were postponed due to lack of funds
-
-Clarifies 22A cannot delay elections or necessitate a referendum before the Presidential poll
-
-People’s Action for Free and Fair Elections (PAFFREL) Executive Director Rohana Hettiarachchi has accused the Government of attempting to use public funds to maintain its hold on power amidst the ongoing economic crisis.
-
-...
-
-[Data](articles/f59ac341.json)
-
-[Extended Data](ext_articles/f59ac341.ext.json)
-
----
-
-### Tamil groups sign MoU to field common Presidential candidate
-
-*2024-07-23 01:17:11* · [`dailyftlk`](https://www.ft.lk/news/Tamil-groups-sign-MoU-to-field-common-Presidential-candidate/56-764622) · `en`
-
-Several North and East-based Tamil political parties and civil society organisations have agreed to nominate a common Tamil candidate for the upcoming Presidential election.
-
-A related Memorandum of Understanding (MoU) was also signed in Jaffna yesterday to formalise this agreement, according to sources.
-
-The agreement was signed by the Tamil Eelam Liberation Organization (TELO) led by MP  Selvam Adaikkalanathan, People’s Liberation Organisation of Tamil Eelam (PLOTE) led by MP Dharmalingam Siddharthan, Tamil United Political Front (TUPF), led by MP C.V. Vigneswaran, Tamil National Party led by Attorney-At-Law N. Sri Kantha and Eelam People’s Revolutionary Liberation Front (EPRLF) led by former MP Suresh Premachandran.
-
-The Tamil People’s Maha Sabha, which inclu-des various Tamil civil organisations, has also signed the agreement.
-
-...
-
-[Data](articles/e1f14c51.json)
-
-[Extended Data](ext_articles/e1f14c51.ext.json)
-
----
-
-### AKD calls on Japan’s State Minister of Foreign Affairs
-
-*2024-07-23 01:16:44* · [`dailyftlk`](https://www.ft.lk/news/AKD-calls-on-Japan-s-State-Minister-of-Foreign-Affairs/56-764621) · `en`
-
-National People’s Power (NPP) leader Anura Kumara Dissanayake held a meeting with Japan’s State Minister of Foreign Affairs Tsuge Yoshifumi yesterday. The NPP said Dissanayake, who is currently on tour in Japan and Tsuge discussed the current economic and political situation in Sri Lanka, the long-term friendship between the two countries, and future steps in diplomatic and economic relations while special attention was also given to the upcoming Presidential election. The State Minister had also extended his best wishes to Dissanayake on his visit to Japan.
-
-◼️
-
-[Data](articles/258ba499.json)
-
-[Extended Data](ext_articles/258ba499.ext.json)
-
----
-
-### SJB submits three letters to ECSL on misuse of State resources for election campaigning
-
-*2024-07-23 01:15:21* · [`dailyftlk`](https://www.ft.lk/news/SJB-submits-three-letters-to-ECSL-on-misuse-of-State-resources-for-election-campaigning/56-764620) · `en`
-
-SJB says police have become politicised and are conducting community policing meetings presided over by the President as an election propaganda tactics
-
-Expressed opposition to entrepreneurship and employment fairs being conducted by Labour and Foreign Employment Ministry
-
-Says they are being used as election propaganda events and lacks any transparency
-
-Notes development activities are being carried out across the country in a way that promotes regional political party leaders aligned with Govt. in preparation for the upcoming elections
-
-...
-
-[Data](articles/f55f2220.json)
-
-[Extended Data](ext_articles/f55f2220.ext.json)
-
----
-
-### President's invitation to join the tourist business
-
-*2024-07-23 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-வர்த்தகத்தில்-இணையுமாறு-ஜனாதிபதி-அழைப்பு/175-340859) · `ta`
-
-At the 'Abhiman 2024' event, President Ranil Wickremesinghe encouraged foreign employment agencies to explore tourism-related businesses, promising support from the Ministry of Tourism. He recognized agencies contributing to Sri Lanka's economy with certificates and souvenirs.
-
-🟩
-
-President Ranil Wickremesinghe said that if foreign employment agencies focus on new business opportunities that would bring tourists from countries sent to Sri Lankan workers, including the Middle East, they would be able to provide the necessary facilities through the Ministry of Tourism.
-
-The President said this at the 'Abhiman 2024' event at the Epitom Hotel Complex in Kurunegala yesterday.
-
-The President presented certificates and souvenirs in appreciation of foreign employment agencies that contribute to the country's economy. (A)
-
-◼️
-
-[Data](articles/6ecc7495.json)
-
-[Extended Data](ext_articles/6ecc7495.ext.json)
-
----
-
-### Invite to join the tourist business
-
-*2024-07-23 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-வர்த்தகத்தில்-இணையுமாறு-அழைப்பு/175-340859) · `ta`
-
-At the 'Abhiman 2024' event, President Ranil Wickremesinghe encouraged foreign employment agencies to explore tourism-related business opportunities, promising support from the Ministry of Tourism. He recognized agencies contributing to Sri Lanka's economy with certificates and souvenirs.
-
-🟩
-
-President Ranil Wickremesinghe said that if foreign employment agencies focus on new business opportunities that would bring tourists from countries sent to Sri Lankan workers, including the Middle East, they would be able to provide the necessary facilities through the Ministry of Tourism.
-
-The President said this at the 'Abhiman 2024' event at the Epitom Hotel Complex in Kurunegala yesterday.
-
-The President presented certificates and souvenirs in appreciation of foreign employment agencies that contribute to the country's economy. (A)
-
-◼️
-
-[Data](articles/99b65120.json)
-
-[Extended Data](ext_articles/99b65120.ext.json)
-
----
-
-### Chevron to donate $ 35,000 to Sri Lanka Red Cross Society for well-cleaning program in flood-affected districts
-
-*2024-07-23 01:12:45* · [`dailyftlk`](https://www.ft.lk/news/Chevron-to-donate-35-000-to-Sri-Lanka-Red-Cross-Society-for-well-cleaning-program-in-flood-affected-districts/56-764619) · `en`
-
-From left: SLRCS Director Branch Development Kumari Kotalawala, Senior Vice President Jagath Abeysinghe, Director General Dr. Mahesh Gunasekara, Chevron Lubricants Lanka Managing Director/CEO Bertram Paul, Head of Marketing Tehan Samarasinha and SLRCS Dr. Sidhhartha Nanayakkara
-
-Chevron Lubricants Lanka PLC (CLLP) announced yesterday its intention to donate
-
-$ 35,000 to the Sri Lanka Red Cross Society (SLRCS) as flood relief, specifically towards the cleaning of 1,500 wells in the Colombo and Matara districts, considering the devastation caused by floods during the first week of June 2024.
-
-The project aims to directly benefit 1,500 families (approximately 7,500 individuals) in the flood-affected districts. Priority will be given to the most vulnerable populations, including children, the elderly, and individuals with compromised health conditions in Colombo and Matara districts.
-
-...
-
-[Data](articles/5ec3fdcd.json)
-
-[Extended Data](ext_articles/5ec3fdcd.ext.json)
 
 ---

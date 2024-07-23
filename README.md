@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 10:06:47**
+As of **2024-07-23 10:20:24**
 
 ## Newspaper Stats
 
-*Scraped **36,693** Articles*
+*Scraped **36,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,191
 dailyftlk | 2,336
-adalk | 3,313
-adaderanalk | 4,251
-tamilmirrorlk | 4,480
+adalk | 3,314
+adaderanalk | 4,252
+tamilmirrorlk | 4,481
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,160
+adaderanasinhalalk | 6,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,693 (100.0%) of 36,693 articles have been extended.
+36,693 (100.0%) of 36,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### ක්‍රොඒෂියාවේ වැඩිහිටි සුරැකුම් මධ්‍යස්ථානයක වෙඩි තැබීමක්
+
+*2024-07-23 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199111) · `si`
+
+ක්‍රොඒෂියාවේ වැඩිහිටි සුරැකුම් මධ්‍යස්ථානයක සිදුවූ වෙඩිතැබීමකින් පුද්ගලයින් 6 දෙනෙකු මියගොස් තිබේ.
+
+නැගෙනහිර දරුවාර් නගරයේ පිහිටි සුරැකුම් මධ්‍යස්ථානයකට පැමිණි තුවක්කුකරුවෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+වෙඩිවැදීමෙන් තවත් පුද්ගලයින් පිරිසක් තුවාල ලබා ඇති අතර ඉන් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බව සඳහන්ය.
+
+වෙඩිතැබීම සිදුකළ සැකකරු පළාගොස් ආපන ශාලාවක රැඳී සිටියදී එරට පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර කුමන හේතුවක් මත මෙම වෙඩිතැබීම සිදුකළේ ද යන්න මෙතෙක් අනාවරණය වී නොමැති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/ce89759a.json)
+
+---
+
+### தாய் வயலுக்கு சென்ற வேலை, தந்தையால் பாலியல் வன்கொடுமை
+
+*2024-07-23 09:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாய்-வயலுக்கு-சென்ற-வேலை-தந்தையால்-பாலியல்-வன்கொடுமை/76-340867) · `ta`
+
+பசறை வெல்கொல்ல பிரதேசத்தில் 10 வயதுடைய சிறுமி ஒருவரை பாலியல் வன்கொடுமை செய்த குற்றச்சாட்டில் அவரது தந்தை திங்கட்கிழமை (22) இரவு கைது செய்யப்பட்டதாக பசறைபொலிஸார் தெரிவித்தனர்.
+
+இரண்டு பிள்ளைகளின் தந்தையான , பதுளை பிரதேசத்தில் உள்ள நிறுவனமொன்றில் அலுவலக உதவியாளராக கடமையாற்றும் 45 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+இரண்டு மூன்று நாட்களாக , பாதிக்கப்பட்ட சிறுமியின் நடத்தையில் மாற்றம் ஏற்பட்டுள்ளதை அவதானித்த அவரது தாயார் சிறுமியிடம் விசாரித்த போது , வெள்ளிக்கிழமை (19) அன்று தாய் வயல் வேலைக்கு சென்றிருந்த போது தந்தையால் தனக்கு நேர்ந்த கொடுமையை பற்றி கூறியுள்ளார் .
+
+இது தொடர்பில் , தாய் பசறை பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டின் பிரகாரம் சந்தேகநபரான தந்தையை கைது செய்யப்பட்டுள்ளதுடன் பாதிக்கப்பட்ட சிறுமி பசறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு மருத்துவ பரிசோதனைக்காக பதுளை போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+மேலும் , சந்தேக நபரை பசறை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர் .
+
+◼️
+
+[Data](articles/aee9e981.json)
+
+---
+
+### MoU inked for interest-free loans under agri modernization program
+
+*2024-07-23 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100713/mou-inked-for-interest-free-loans-under-agri-modernization-program) · `en`
+
+The signing of the Memorandum of Understanding (MoU) for the provision of interest-free loans to agribusiness entrepreneurs and farmers under the first phase of the Agriculture Modernization Program took place on Monday (22) at the Presidential Secretariat.
+
+The MoUs were signed between the Bank of Ceylon, the Regional Development Bank who are the key contributors to the initial phase and Secretary to the Ministry of Agriculture and Plantation Industry Janaka Dharmakeerthi. Accordingly, MoU with the People’s Bank are expected to be signed in the near future.
+
+In this first phase, Rs. 650 million have been allocated to implement projects through agricultural modernization centres in 26 Divisional Secretariat Divisions selected for pilot projects, with a total of 75 DS divisions identified.
+
+...
+
+[Data](articles/dc0f7564.json)
+
+---
 
 ### Fishermen's boat damage: fishermen survived
 
@@ -1358,6 +1412,24 @@ The integration of digital technologies into education is no longer a luxury but
 
 ---
 
+### පොහොට්ටුවේ මන්ත්‍රී පිරිසක් රනිල්ට විරුද්ධයි ධම්මිකට කැමතියි
+
+*2024-07-22 19:45:27* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මන්ත්‍රී-පිරිසක්-රනිල්ට-විරුද්ධයි-ධම්මිකට-කැමතියි/11-410922) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් පිරිසක් හා පොදුජන තරුණ පෙරමුණ රනිල් වික්‍රමසිංහ මහතාට සහය ලබානො​දීමට තීරණය කිරීමට නියමිත බව වාර්තා වේ.
+
+එම මන්ත්‍රී කණ්ඩායමේ මතය වී ඇත්තේ පොදුජන පෙරමුණ රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීමෙන් පොදුජන පෙරමුණේ ස්ථාවර ඡන්ද පදනම බිදී යා හැකි බවයි. මේ පිළිබදව සාකච්ඡාවක් ඊයේ (22දා) දිනයේ ද නෙළුම් මාවත පොදුජන පෙරමුණ කාර්යාලයේ දී පවත්වා ඇත.
+
+එම පිරිසෙහි ඉල්ලීම වී ඇත්තේ පොදුජන පෙරමුණෙන් අපේක්ෂකයෙක් ඉදිරිපත් කළ යුතු බවයි. ඒ සදහා ව්‍යවසායක , පා.ම ධම්මික පෙරේරා මහතාගේ නම යෝජනා කර ඇත.
+
+පොදුජන පෙරමුණේ ඇතැම් අමාත්‍යවරුන් රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීම පිළිදව පොදුජන පෙරමුණේ පාක්ෂිකයන් කලකිරීමට පත්ව ඇතැයි යන නිරීක්ෂණය මත පදනම්ව පොදුජන පෙරමුණේ මන්ත්‍රී කණ්ඩායමක් විසින් මෙම යෝජනාව ඉදිරිපත් කර ඇති බව ද වාර්තා විය.
+
+◼️
+
+[Data](articles/ff86b55a.json)
+
+---
+
 ### Teacher appointments to all development officers employed
 
 *2024-07-22 19:39:06* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-සේවයේ-නියුතු-සියලුම-සංවර්ධන-නිලධාරීන්ට-ගුරු-පත්වීම්/11-410921) · `si`
@@ -2217,93 +2289,5 @@ India is growing at a Compound Annual Growth Rate (CAGR) for GDP of 7.5 percent 
 [Data](articles/0652c82b.json)
 
 [Extended Data](ext_articles/0652c82b.ext.json)
-
----
-
-### Chamari smashes first-ever century in Women’s T20 Asia Cup history
-
-*2024-07-22 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100699/chamari-smashes-first-ever-century-in-womens-t20-asia-cup-history-) · `en`
-
-Sri Lanka’s captain Chamari Athapaththu scored the first-ever century in the history of the Women’s Twenty-20 Asia Cup.
-
-This is the Sri Lankan all-rounder’s third century in T20 internationals.
-
-Opener Athapaththu smashed an unbeaten 119 runs with 14 boundaries and 7 sixes in just 69 deliveries. She remained not out as Sri Lanka reached 184/4 at the end of 20 overs.
-
-Having won the toss against Malaysia this afternoon (22), Sri Lanka captain Athapaththu elected to bat first with a semi-final spot in the women’s Asia Cup well within their sight.
-
-Chasing the 184 set by Sri Lanka, this is a must-win for Malaysia, who were beaten convincingly by Thailand in their opening fixture.
-
-The ACC Women’s Asia Cup cricket tournament kicked off on Friday (19) at the Rangiri Dambulla International Cricket Stadium.
-
-Hosts Sri Lanka commenced their Asia Cup tournament with a dominating seven-wicket victory over Bangladesh Women on Saturday (20).
-
-...
-
-[Data](articles/ce6b4ce0.json)
-
-[Extended Data](ext_articles/ce6b4ce0.ext.json)
-
----
-
-### Leakage at the tea shop
-
-*2024-07-22 15:56:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேநீர்-கடையில்-கசிப்பு/76-340837) · `ta`
-
-A hotel owner and employee were arrested for allegedly diluting tea in refrigerated bottles, tricking customers into paying full price for watered-down tea. The scam lasted months, affecting daily customers and store workers.
-
-🟩
-
-Police said a hotel owner and employee who was involved in leaks was arrested with 8 leaks.
-
-The police have been informed that the leakage has been poured into the refrigerated bottles and that after paying the money at the hotel counter, the employees pour the tea cup into the tea cup.
-
-The business, which has been going on for some time, is the daily customers of the marketplace and the stores working in the stores and the business is being held from 5.00 am, police said.
-
-◼️
-
-[Data](articles/ab19fc58.json)
-
-[Extended Data](ext_articles/ab19fc58.ext.json)
-
----
-
-### Govt settled Rs. 29,000 million owed to fertilizer companies - Agri Minister
-
-*2024-07-22 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100698/govt-settled-rs-29000-million-owed-to-fertilizer-companies-agri-minister) · `en`
-
-Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, has announced that the government has settled all outstanding payments amounting to Rs. 29,000 million that were owed to private fertilizer companies for the purchase of fertilizers over several years.
-
-The minister made this statement during a discussion held today (22) at the Ministry of Agriculture and Plantation Industries, focusing on the progress of the Youth Agri-Entrepreneurship Village Programme.
-
-Efforts are now underway to develop 160 villages across the island as the Youth Agri-Entrepreneurship Villages, with the aim of increasing food production, raising the income level of farmers, and attracting the youth to agricultural activities.
-
-The government has allocated Rs. 1,600 million for this purpose, and accordingly, each village will be provided Rs. 10 million under the first phase of project.
-
-...
-
-[Data](articles/9143d26f.json)
-
-[Extended Data](ext_articles/9143d26f.ext.json)
-
----
-
-### Govt settled Rs. 29,000 million owed to fertilizer company loans - Agri Minister
-
-*2024-07-22 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100698/govt-settled-rs-29000-million-owed-to-fertilizer-company-loans-agri-minister) · `en`
-
-Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, has announced that the government has settled all outstanding payments amounting to Rs. 29,000 million that were owed to private fertilizer companies for the purchase of fertilizers over several years.
-
-The minister made this statement during a discussion held today (22) at the Ministry of Agriculture and Plantation Industries, focusing on the progress of the Youth Agri-Entrepreneurship Village Programme.
-
-Efforts are now underway to develop 160 villages across the island as the Youth Agri-Entrepreneurship Villages, with the aim of increasing food production, raising the income level of farmers, and attracting the youth to agricultural activities.
-
-The government has allocated Rs. 1,600 million for this purpose, and accordingly, each village will be provided Rs. 10 million under the first phase of project.
-
-...
-
-[Data](articles/dabe2135.json)
-
-[Extended Data](ext_articles/dabe2135.ext.json)
 
 ---

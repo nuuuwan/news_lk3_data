@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 19:35:43**
+As of **2024-07-23 19:54:09**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,810 (100.0%) of 36,821 articles have been extended.
+36,819 (100.0%) of 36,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### மருத்துவர் இராமநாதன் அர்சுணா பேராதனை வைத்தியசாலைக்கு மருத்துவ அதிகாரியாக மாற்றம்!
+### Doctor Ramanathan Arsuna becomes a medical officer to Peradeniya Hospital
 
 *2024-07-23 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189213) · `ta`
 
-யாழ்ப்பாணம் சாவகச்சேரி ஆதார வைத்தியசாலையின் வைத்திய அத்தியட்சகராகவிருந்த மருத்துவர் இராமநாதன் அர்சுனா இன்றிலிருந் பேராதனை வைத்தியசாலயின் மருத்துவ அதிகாரியாக தரமிறக்கப்பட்டுள்ளார்.
+Dr. Ramanathan Arsuna, previously the Medical Superintendent of Chavakachcheri Resource Hospital, has been appointed as the medical officer of Peradeniya Hospital. His appointment comes amid allegations of administrative issues and doctor shortages under his leadership at Chavakachcheri. Despite public frustration and ongoing investigations into his actions, Dr. Arsuna's move to Peradeniya has raised questions about accountability and transparency in Sri Lanka's healthcare system.
 
-அண்மை நாட்களாக சாவகச்சேரி ஆதார வைத்திய சாலையின் வைத்திய அத்தியட்சகராக இருந்து மருத்துவர்களது குறைபாடுகள் தொடர்பாகவும், நிர்வாக சீர்கேடுகள் தொடர்பாகவும் பல்வேறு தகவல்களை வெளிக்கொணர்ந்திருந்தார். இந்நிலையில் குறித்த விடயங்கள் தொடர்பில் எந்தவித விசாரணைகள் மேற்கொள்ளப்படாத நிலையில் இந்நியமனம் வழங்கப்பட்டுள்ளது.
+🟩
 
-சாவகச்சேரி ஆதார வைத்தியசாலைக்கு அத்தியட்சகராக இராமநாதன் அர்சுனா நியமிக்கப்பட்டிருந்த நிலையில் பல்வேறு சேவைகளை இலகுபடுத்தியும், வசதிகளை ஏற்படுத்தியும் கொடுத்திருந்த நிலையில் பிரதேச மக்களின் மனங்களில் இடம்பிடித்திருந்த நிலையில் பேராதனை மருத்துவ மனைக்கு தற்காலிக நியமனம் வழங்கப்பட்டமையால் மக்கள் பெரும் ஏமாற்றமடைந்துள்ளனர்.
+Dr. Ramanathan Arsuna, the Medical Superintendent of the Chavakachcheri Resource Hospital in Jaffna, has been appointed as the medical officer of the Peradeniya Hospital today.
+
+In recent days, he has been the Medical Superintendent of the Chavakachcheri Medical Road and has revealed various information on doctors' shortcomings and administrative disorders.. In this case, the issue has been issued as no inquiries have been made.
+
+Ramanathan Arsuna has been appointed as the Superintendent of Chavakachcheri Resource Hospital and the people have been frustrated by the appointment of the Peradeniya Hospital as the Medical Center has been appointed as the people of the area have been placed in the minds of the people of the area.
+
+In this regard, the doctor, Ramanathan Azuna, has stolen its medical administration and became a medical officer at the Peradeniya Teaching Hospital.. The department investigation is yet to be over.
 
 ...
 
 [Data](articles/08eba975.json)
+
+[Extended Data](ext_articles/08eba975.ext.json)
 
 ---
 
@@ -67,6 +75,8 @@ Nanayakkara said that the government only receives 0.001 percent of complaints w
 ◼️
 
 [Data](articles/e168905e.json)
+
+[Extended Data](ext_articles/e168905e.ext.json)
 
 ---
 
@@ -212,6 +222,8 @@ The   Organisation of Islamic Cooperation (OIC) which includes Islamic states 
 
 [Data](articles/bd514e08.json)
 
+[Extended Data](ext_articles/bd514e08.ext.json)
+
 ---
 
 ### Election Comm. to meet Thursday to decide prez poll date
@@ -322,6 +334,8 @@ Sri Lanka’s Department of Immigration had awarded a visa issuing monopoly to I
 
 [Data](articles/e4333cae.json)
 
+[Extended Data](ext_articles/e4333cae.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 303.70/80 to US dollar
@@ -343,6 +357,8 @@ A bond maturing on 01.12.2031 closed at 12.40/50 percent. (Colombo/Jul23/2024)
 ◼️
 
 [Data](articles/b18008a5.json)
+
+[Extended Data](ext_articles/b18008a5.ext.json)
 
 ---
 
@@ -389,6 +405,8 @@ Foreign buying interest was seen in Commercial Bank of Ceylon Plc (up at 95.80),
 ...
 
 [Data](articles/c662357a.json)
+
+[Extended Data](ext_articles/c662357a.ext.json)
 
 ---
 
@@ -480,21 +498,29 @@ Accordingly, the Bill prepared by the lawyer has been approved by the Attorney G
 
 ---
 
-### பங்களாதேஷில் இலங்கையர்களுக்கு எந்தவித பாதிப்பும் கிடையாது - அமைச்சர் மனுஷ
+### Sri Lankans have no impact on Bangladesh - Minister Manusha
 
 *2024-07-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/189197) · `ta`
 
-பங்களாதேஷில் நிலவும் நெருக்கடி நிலை காரணமாக அங்குள்ள இலங்கையர்களுக்கு எந்தவித பாதிப்பும் கிடையாது. தேவை ஏற்படும் பட்சத்தில் அவர்களை நாட்டுக்கு அழைத்துவரவும் நடவடிக்கை எடுக்கப்பட்டுள்ளது என தொழில் மற்றும் வெளிநாட்டு வேலை வாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+Sri Lanka's Minister Manusha Nanayakkara stated that due to the crisis in Bangladesh, Sri Lankans there have minimal influence. He assured that measures are in place to repatriate them if necessary. Currently, 2,835 Sri Lankans are involved in vocational training in Bangladesh, but the exact number of students isn't known. The government remains vigilant through the Sri Lankan Ambassador and is prepared to act swiftly if the situation worsens, ensuring the safety of its citizens abroad.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) வாய்மூல விடைக்கான வினாக்கள் வேளையில் ராஜிகா விக்கிரமசிங்க எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+🟩
 
-பங்களாதேஷில் 2,835 இலங்கையர்கள் தொழில் மற்றும் தொழிற் பயிற்சிகளில் ஈடுபட்டுள்ளதுடன், அங்கு கல்வி நடவடிக்கைகளுக்காக சென்றுள்ள இலங்கை மாணவர்களின் எண்ணிக்கை தொடர்பில் சரியான எண்ணிக்கையை உடனடியாக தெரிவிக்க முடியாது.
+Due to the prevailing crisis in Bangladesh, the Sri Lankans have no impact. The Minister of Labor and Foreign Placement, Manusha Nanayakkara said that steps have been taken to bring them to the country if needed.
 
-எவ்வாறெனினும், அந்த நாட்டிலுள்ள இலங்கை தூதுவருடன் தொடர்புகளை ஏற்படுத்திக்கொண்டு அங்குள்ள நிலவரம் தொடர்பாக கேட்டறிந்து வருகிறோம். அவர் வழங்கிய தகவல்களின்படி இலங்கையர்கள் எவருக்கும் எந்தவித பாதிப்பும் கிடையாது.
+He said this while responding to a question raised by Rajika Wickremesinghe at the time of the oral response in Parliament on Tuesday (23).
+
+In Bangladesh, 2,835 Sri Lankans are engaged in vocational and vocational training and cannot immediately report the number of Sri Lankan students who have gone for educational activities.
+
+However, we are aware of the situation in the country with contact with the Sri Lankan Ambassador in the country.. According to the information he provided, no Sri Lankans have no impact.
+
+If the Sri Lankans in Bangladesh are affected, the government will take immediate steps to bring them back to the country.. Proper action will be taken with the Ministry of External Affairs on their security.
 
 ...
 
 [Data](articles/64395e48.json)
+
+[Extended Data](ext_articles/64395e48.ext.json)
 
 ---
 
@@ -515,6 +541,8 @@ Considering the circumstances, “licensed banks have recognized the necessity o
 ◼️
 
 [Data](articles/c8ab0355.json)
+
+[Extended Data](ext_articles/c8ab0355.ext.json)
 
 ---
 
@@ -623,6 +651,8 @@ The 143 perch island located on the southwest Beira Lake was transferred to the 
 ...
 
 [Data](articles/63007201.json)
+
+[Extended Data](ext_articles/63007201.ext.json)
 
 ---
 

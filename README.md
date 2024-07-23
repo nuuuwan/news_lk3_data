@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 07:49:24**
+As of **2024-07-23 08:24:42**
 
 ## Newspaper Stats
 
-*Scraped **36,678** Articles*
+*Scraped **36,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,140 @@ economynextcom | 2,191
 dailyftlk | 2,336
 adalk | 3,312
 adaderanalk | 4,250
-tamilmirrorlk | 4,474
+tamilmirrorlk | 4,475
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,153
+adaderanasinhalalk | 6,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,667 (100.0%) of 36,678 articles have been extended.
+36,680 (100.0%) of 36,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### ඉඩම් නිලධාරියා අල්ලස් ගද්දී මාට්ටු
+### නාඳුනන කාන්තා මළ සිරුරක්
+
+*2024-07-23 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199106) · `si`
+
+ඊයේ (22) උදෑසන පයාගල වෙරළ තීරයේ කාන්තාවක් වැටී සිටින බවට පයාගල පොලීසියට ලද පණිවුඩයක් ලැබී තිබුණි.
+
+පසුව පොලීසිය අදාළ ස්ථානයට ගොස් එම කාන්තාව නාගොඩ රෝහලට ඇතුළත් කිරීමේදී මියගොස් සිටි බවට වාර්තා වෙයි.
+
+මරණකාරියගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර ඇය වයස අවුරුදු 60ත් 70ත් පමණ උස අඩි 05ක පමණ වන තළෙලු සිහින් සිරුරක් හිමි කාන්තාවක් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/4de04faf.json)
+
+---
+
+### 20.3 percent of the population has no drinking water
+
+*2024-07-23 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199105) · `si`
+
+A survey reveals that 20.3% of the country's indoor population lacks basic drinking water, with 16.1% relying on insecure wells. Approximately one-third of households do not have safe drinking water services. While two-thirds of urban residents and a quarter of rural ones use safe water, 3.1% of the estate population does. Over 70% use improved water sources, but 6.3% lack basic sanitation, and 0.1% use open-air facilities. Additionally, 84.9% use water-sealed toilets.
+
+🟩
+
+It has been revealed that 20.3% of the country's indoor population has no basic drinking water.
+
+According to a survey conducted by the Department of Census and Statistics, reports say.
+
+It has also been revealed that the main drinking water source of 16.1% of the country's indoor population has become insecure well.
+
+According to a survey conducted by the Department of Census and Statistics, the Department of Census and Statistics have to obtain a safe drinking water service in the premises of approximately one-third of the domestic population.
+
+Two-thirds of two-thirds of the population in urban areas and a quarter of the rural population use safe drinking water, and 3.1% of the estate population uses only 3.1% of safe drinking water.
+
+It is also reported that the use of improved sources of the premises of more than 70% of the country's indoor population are used.
+
+...
+
+[Data](articles/7e7a5b77.json)
+
+[Extended Data](ext_articles/7e7a5b77.ext.json)
+
+---
+
+### Notice on school text books
+
+*2024-07-23 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199104) · `si`
+
+School textbooks for next year start today, as per the Ministry of Education. The Chinese government will supply all school uniforms next year. Teachers will receive delayed allowances, and the government is addressing teacher career issues.
+
+🟩
+
+The school text books next year will commence today (23), the Ministry of Education said.
+
+The ministry shows that the Chinese government has agreed to provide all school uniforms next year.
+
+Meanwhile, Minister of Education Susil Premajayantha says that teachers will be provided with the delay.
+
+The Minister pointed out that the government has taken steps to review teacher career problems and resolve them.
+
+◼️
+
+[Data](articles/e340a03c.json)
+
+[Extended Data](ext_articles/e340a03c.ext.json)
+
+---
+
+### Land officer arrested
 
 *2024-07-23 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199103) · `si`
 
-ඉඩම් ඔප්පුවක් පිළියෙල කිරීමට ව්‍යාපාරිකයකුගෙන් රුපියල් ලක්ෂ 02ක අල්ලසක් ලබා ගත් කැකිරාව ප්‍රාදේශීය ලේකම් කාර්යාලයේ ඉඩම් නිලධාරියකු අල්ලස් නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A land officer from Kekirawa Divisional Secretariat was arrested by the Bribery Commission after a businessman reported him for soliciting a Rs. 500,000 bribe for construction approval. The officer was remanded until August 2nd by the Kekirawa Magistrate's Office.
 
-කැකිරාව ප්‍රදේශයේ ව්‍යාපාරිකයෙකු විසින් අල්ලස් නිලධාරීන්ට කර තිබූ පැමිණීල්ලකට අනුව සිදුකළ වැටලීමකදී සැකකාර ඉඩම් නිලධාරීයා අත්අඩංගුවට ගත් බව අල්ලස් කොමිසම පැවසුවේය.
+🟩
 
-ඉඩම් ඔප්පුවක් සැකසීම සඳහා සැකකාර ඉඩම් නිලධාරියා විසින් කැකිරාව ප්‍රදේශයේ ව්‍යාපාරිකයාගෙන් රුපියල් ලක්ෂ 05ක අල්ලස් මුදලක් ඉල්ලා තිබූ අතර එයින් රුපියල් ලක්ෂ දෙකක මුදලක් ඊයේ (22) දිනයේ අදාළ ඉඩම් නිලධාරියා විසින් ලබා ගත් අවස්ථාවේ දී අල්ලස් කොමිසම විසින් මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+A land officer of the Kekirawa Divisional Secretariat has been arrested by the Bribery officer who obtained a bribe of Rs.
 
-අත්අඩංගුවට ගත් සැකකරු කැකිරාව මහෙස්ත්‍රාත් අධීකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව අගෝස්තු මස 02 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+The Bribery commission said that the Land Officer was arrested following a raid conducted by a businessman in Kekirawa according to a complaint conducted by the bribery.
+
+The suspect land officer asked for a bribe of Rs. 500,000 to the construction of Rs.
+
+The suspect was produced by the Kekirawa Magistrate's Office and remanded until August 02.
 
 ◼️
 
 [Data](articles/bdb91b62.json)
 
+[Extended Data](ext_articles/bdb91b62.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය ගැන ජනපතිගෙන් යළිත් සහතිකයක්
+### President guarantees on presidential election
 
 *2024-07-23 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199102) · `si`
 
-අයවැයෙන් මුදල් වෙන්කර ඇත්තේ ජනාධිපතිවරණයට පමණක් බැවින් අනිවාර්යයෙන් ජනාධිපතිවරණය පවත්වන බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහතිකයක් ලබා දී තිබේ.
+President Ranil Wickremesinghe has assured that the upcoming presidential election will proceed as scheduled, despite challenges. He thanked the Sri Lanka Podujana Peramuna, led by former President Mahinda Rajapaksa, for their support over two years. Wickremesinghe emphasized that postponing the election is not an option, referencing the hardships already faced. Meanwhile, MP Dayasiri Jayasekara noted that the dissolution of Parliament, as declared by the Elections Commission, makes the 22nd constitutional amendment unnecessary.
 
-ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේ දී ජනාධිපතිවරයා විසින් මෙම සහතිකය ලබාදී ඇති බව වාර්තා වේ.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීම ඊයේ (22) පස්වරුවේ පවත්වා ඇති අතර එහිදී වසර දෙකක කාලයක් ආණ්ඩුව පවත්වාගෙන යාමට ලබාදුන් සහයෝගය සම්බන්ධයෙන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ප්‍රමුඛ ශ්‍රී ලංකා පොදුජන පෙරමුණට ජනාධිපතිවරයා සිය ස්තූතිය පළකර තිබේ.
+President Ranil Wickremesinghe has been given a certificate that the presidential election is being held.
 
-ජනාධිපතිවරණය කල් දැමීමට තමන් උත්සහ දරණ බවට විපක්ෂය කුමන මත පළකළ ද අනිවාර්යයෙන් ජනාධිපතිවරණය පවත්වන අතර මේ වසර තුළ පාර්ලිමේන්තු මැතිවරණයක් පැවැත්වීමට ප්‍රතිපාදන නොමැති බව ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දී ඇති බව වාර්තා වේ.
+The President has issued this certificate at the Government Member of Parliament.
 
-පසුගිය සමය ඉතා දුෂ්කර කාලයක් වූ බව පැවසූ ජනාධිපතිවරයා මේ වන විට එම දුෂ්කර කාලය ගෙවා දමා ඇති බව ද ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේ දී වැඩිදුරටත් ප්‍රකාශ කර තිබේ.
+President Ranil Wickremesinghe was headed by President Ranil Wickremesinghe yesterday (22nd) The President thanked the Sri Lanka Campa Karan Rajapaksa Front led by former President Mahinda Rajapaksa for the support of the government for two years.
 
-...
+President Ranil Wickremesinghe has said that the presidential election is inevitable, which is inevitable that he will be held to postpone the presidential election.
+
+The President said that the last time the last time was a very difficult time, the President has said that the hard time has already been paid the difficult time.
+
+Meanwhile, MP Dayasiri Jayasekara says that the President has been able to dissolve the Parliament as declared by the Elections Commission (EPL).
+
+The 22nd constitutional amendment was no need to bring in this case, he said.
+
+◼️
 
 [Data](articles/9c54fedf.json)
+
+[Extended Data](ext_articles/9c54fedf.ext.json)
 
 ---
 
@@ -79,6 +163,8 @@ The body of a 33-year-old person, stabbed to death with sharp weapons, has been 
 ◼️
 
 [Data](articles/550ab291.json)
+
+[Extended Data](ext_articles/550ab291.ext.json)
 
 ---
 
@@ -96,25 +182,33 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 
 [Data](articles/151b969d.json)
 
+[Extended Data](ext_articles/151b969d.ext.json)
+
 ---
 
-### කොළඹ 7 ත්‍රිවිල් රථයක් තුළ කපා කොටා ඝාතනය කළ සිරුරක්
+### Colombo 7 a body of death
 
 *2024-07-23 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199101) · `si`
 
-කොළඹ වෝඩ් පෙදෙසේ නවතා තිබූ ත්‍රිරෝද රථයක් තුළ තිබී තියුණු ආයුධවලින් පහරදී ඝාතනය කළ පුද්ගලයෙකුගේ මළ සිරුරක් හමුවී තිබේ.
+A 33-year-old man was found dead in a three-wheeler near Colombo's National Dental Hospital early on March 23rd. The vehicle, registered under the Department of Motor Traffic, belonged to a resident of Middeniya. The driver, upon inquiry, stated that he had picked up the victim, also aged 33, named Hylor, from a location known as Colombo 7.
 
-පොලීසිය සඳහන් කළේ එලෙස මියගොස් ඇත්තේ අවුරුදු 33ක පමණ පුද්ගලයෙකු බවය.
+🟩
 
-අද (23) අලුයම 1ට පමණ කුරුඳුවත්ත පොලීසියට 119 දුරකථන අංකයට ලද පණිවුඩයක් මත ජාතික දන්ත රෝහල අසල දී අදාළ ත්‍රීරෝද රථය සොයා ගෙන තිබුණි.
+The body of a person who was killed in a three-wheeler in Ward Place, had found a body of a person who was killed and killed.
 
-පසුව අදාළ ත්‍රීරෝද රථය සම්බන්ධයෙන් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවෙන් සිදුකළ සොයා බැලීමේ දී එය මිද්දෙණිය ප්‍රදේශයේ පදිංචිකරුවෙකුගේ බවට අනාවරණය වී තිබේ.
+Police said that it was about 33 years old.
 
-එම පුද්ගලයාගෙන් කරුණු විමසීමේ දී ඔහු පවසා ඇත්තේ, ත්‍රීරෝද රථය තම මස්සිනා වන 33 හැවිරිදි අයෙකුට හයර් දිවීම සඳහා ලබා දී ඇති බවය.
+The three-wheeler was found near the National Dental Hospital at around 1 am today (23).
+
+Later, it was revealed that the three-wheeler was conducted by the Department of Motor Traffic and was revealed that a resident of Middeniya.
+
+Inquiring the matter from the man, he has said that the three-wheeler had been given the three-year-old-one 33-year-old Hylor.
 
 ◼️
 
 [Data](articles/069f5074.json)
+
+[Extended Data](ext_articles/069f5074.ext.json)
 
 ---
 
@@ -174,19 +268,41 @@ More than 34 million applications for the first phase of the Aswesa Project were
 
 ---
 
-### விவசாய நவீனமயமாக்கல் திட்டத்தில் வட்டியில்லா கடன்
+### 16,000 ஆசிரியர்கள் நியமனம்
+
+*2024-07-23 01:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-000-ஆசிரியர்கள்-நியமனம்/175-340861) · `ta`
+
+பொருளாதார நெருக்கடிகளுக்கு மத்தியிலும் தேசிய மற்றும் மாகாண மட்டத்தில் 16,000 ஆசிரியர் நியமனங்களை வழங்கி ஆசிரியர் பற்றாக்குறைக்கு அரசாங்கம் தீர்வை வழங்கியுள்ளதாக  கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில,
+
+பல்கலைக்கழகங்களில் வெளிநாட்டு உதவியின் கீழ் ஆரம்பிக்கப்பட்டு கடந்த காலத்தில் நிறுத்தப்பட்ட அபிவிருத்தி பணிகளும் மீண்டும் ஆரம்பிக்கப்பட்டுள்ளன. இது பல்கலைக்கழக கட்டமைப்புக்கும் நிர்மாணத் துறைக்கும் மிகவும் முக்கியமானது என்பதைக் கூற வேண்டும்.
+
+...
+
+[Data](articles/7d7b6f3e.json)
+
+---
+
+### Interest free loan in agricultural modernization program
 
 *2024-07-23 01:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாய-நவீனமயமாக்கல்-திட்டத்தில்-வட்டியில்லா-கடன்/175-340860) · `ta`
 
-விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் கீழ் முதல் கட்டமாக விவசாய தொழில் முயற்சியாளர்கள் மற்றும் விவசாயிகளுக்கு வட்டியில்லாக் கடன்களை வழங்கும் செயல்முறை தொடர்பான புரிந்துணர்வு ஒப்பந்தம் நேற்று ஜனாதிபதி அலுவலகத்தில் கையெழுத்திடப்பட்டது.
+An MoU was signed to provide interest-free loans to agri-entrepreneurs and farmers through the Bank of Ceylon and Divisional Development Bank, with plans to include the People's Bank. The initial phase focuses on 75 Divisional Secretariats for projects valued at 10 million rupees.
 
-முதல் கட்டத்தில், இந்த வேலைத்திட்டத்திற்கு பங்களிப்பை வழங்கும் இலங்கை வங்கி, பிரதேச அபிவிருத்தி வங்கி ஆகியவற்றுடன், விவசாய, பெருந்தோட்ட கைத்தொழில் அமைச்சின் செயலாளர் ஜானக தர்மகீர்த்தி இந்த புரிந்துணர்வு ஒப்பந்தங்களில் கைச்சாத்திட்டார். இதன்படி எதிர்காலத்தில் மக்கள் வங்கியுடனும் ஒப்பந்தம் கைச்சாத்திடப்பட உள்ளது.
+🟩
 
-விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் முதற்கட்டமாக முன்னோடித் திட்டங்களை நடைமுறைப்படுத்த தெரிவு செய்யப்பட்ட 26 பிரதேச செயலகங்களில் விவசாய நவீனமயமாக்கல் நிலையங்கள் ஊடாக வேலைத் திட்டங்களை நடைமுறைப்படுத்த தலா 25 மில்லியன் ரூபா வீதம் 650 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. இரண்டாம் கட்டமாக 10 மில்லியன் ரூபா பெறுமதியான விவசாய நவீனமயமாக்கல் திட்டங்களை நடைமுறைப்படுத்த 75 பிரதேச செயலகங்கள் அடையாளம் காணப்பட்டுள்ளன. (a)
+The Memorandum of Understanding (MoU) on the process of providing interest -free loans to agricultural entrepreneurs and farmers under the agricultural modernization program was signed yesterday.
+
+In the first phase, the Secretary to the Ministry of Agriculture and Plantation Industries, Janaka Dharmakirti, signed these Memorandum of Understanding (MoU) along with the Bank of Ceylon and the Divisional Development Bank, which contributes to this program.. Accordingly, the contract with the people's bank is to be signed in the future.
+
+The first phase of the Agricultural Modernization Program has been allocated Rs.. In the second phase, 75 Divisional Secretariats have been identified to implement agricultural modernization projects worth 10 million rupees.. (A)
 
 ◼️
 
 [Data](articles/a7b0e868.json)
+
+[Extended Data](ext_articles/a7b0e868.ext.json)
 
 ---
 
@@ -266,19 +382,25 @@ Notes development activities are being carried out across the country in a way t
 
 ---
 
-### சுற்றுலா வர்த்தகத்தில் இணையுமாறு ஜனாதிபதி அழைப்பு
+### President's invitation to join the tourist business
 
 *2024-07-23 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-வர்த்தகத்தில்-இணையுமாறு-ஜனாதிபதி-அழைப்பு/175-340859) · `ta`
 
-மத்திய கிழக்கு நாடுகள் உட்பட இலங்கைத் தொழிலாளர்கள் அனுப்பப்படும் நாடுகளின் சுற்றுலாப் பயணிகளை இந்நாட்டுக்கு வரவழைக்கும் புதிய வர்த்தக வாய்ப்புகள் குறித்து வெளிநாட்டு வேலைவாய்ப்பு முகவர் நிலையங்கள் கவனம் செலுத்தினால், அவர்களுக்குத் தேவையான வசதிகளை சுற்றுலா அமைச்சின் ஊடாக வழங்க முடியும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+At the 'Abhiman 2024' event, President Ranil Wickremesinghe encouraged foreign employment agencies to explore tourism-related businesses, promising support from the Ministry of Tourism. He recognized agencies contributing to Sri Lanka's economy with certificates and souvenirs.
 
-குருணாகல் எபிடோம் ஹோட்டல் வளாகத்தில் நேற்று முன்தினம் இடம்பெற்ற 'அபிமன் 2024' நிகழ்வில் ஜனாதிபதி இவ்வாறு  குறிப்பிட்டார்.
+🟩
 
-நாட்டின் பொருளாதாரத்திற்கு பாரிய பங்களிப்பை வழங்கும் வெளிநாட்டு வேலை வாய்ப்பு முகவர் நிறுவனங்களைப் பாராட்டி சான்றிதழ்கள் மற்றும் நினைவுப் பரிசுகளை ஜனாதிபதி இதன்போது வழங்கி வைத்தார். (a)
+President Ranil Wickremesinghe said that if foreign employment agencies focus on new business opportunities that would bring tourists from countries sent to Sri Lankan workers, including the Middle East, they would be able to provide the necessary facilities through the Ministry of Tourism.
+
+The President said this at the 'Abhiman 2024' event at the Epitom Hotel Complex in Kurunegala yesterday.
+
+The President presented certificates and souvenirs in appreciation of foreign employment agencies that contribute to the country's economy. (A)
 
 ◼️
 
 [Data](articles/6ecc7495.json)
+
+[Extended Data](ext_articles/6ecc7495.ext.json)
 
 ---
 
@@ -972,25 +1094,35 @@ The integration of digital technologies into education is no longer a luxury but
 
 ---
 
-### ගුරු සේවයේ නියුතු සියලුම සංවර්ධන නිලධාරීන්ට ගුරු පත්වීම්
+### Teacher appointments to all development officers employed
 
 *2024-07-22 19:39:06* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-සේවයේ-නියුතු-සියලුම-සංවර්ධන-නිලධාරීන්ට-ගුරු-පත්වීම්/11-410921) · `si`
 
-දැනට ගුරු සේවයේ නියුතු සියලුම සංවර්ධන නිලධාරී න් ගුරුවරුන් වශයෙන් ගුරු සේවයට අන්තර්ග්‍රහණය කරන බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+The Attorney General informed the Supreme Court that a teacher, already engaged in teaching, would be officially appointed to a development officer position. This decision followed negotiations and interviews, with the education minister involved. The process aimed to address concerns raised in a petition seeking better employment opportunities for graduates.
 
-නීතිපති වෙනුවෙන් පෙනී සිටි  අතිරේක සොලිසිටර් ජෙනරාල් ජනාධිපති නීතිඥ විරාජ් දයාරත්න මහතා මෙසේ දැනුම් දුන්නේ මේ සම්බන්ධයෙන් සංවර්ධන නිලධාරීන් පිරිසක් ගොනුකොට තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් සලකා බැලූ අවස්ථාවේදීය.
+🟩
 
-දෙපාර්ශවය අතර ඇතිකරගත් සමථයක් අනුව නීතිපතිවරයා විසින් මෙම දැනුම්දිම සිදුකෙරිණි.
+The Attorney General informed the Supreme Court that the teacher is already absorbed into the teacher's work as teachers.
 
-මෙම පෙත්සම ්‍රේෂ්ඨාධිකරණ විනිසුවරුන්වන දිලිප් නවාස් ශිරාන් ගුණරත්න  සහ අචල වෙංගප්පුලි යන මහත්වරුන්ගෙන් සමන්විත  ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ සලකා බැලීණි.
+Additional Solicitor General President's Counsel Viraj Dayaratne appearing on behalf of the Attorney General, said:
 
-වසර ගණනාවක් ගුරු සේවයේ සිටි තමන් ගුරු සේවයට අන්තර්ග්‍රහණය නොකිරීමෙන් තම මූලික අයිතිවාසියක් කඩවන ලදැයි සඳහන් කර මින් සංවර්ධන නිලධාරීන් පිරිසක් විසින් මෙම පෙත්සම  ශ්‍රේෂ්ඨාධිකරණ  ගොනු කරනු ලැබ ඇත.
+The notice was carried out by the Attorney General by a resolution between the two parties.
 
-මෙම පෙත්සමේ වගුත්තරකරුවන් වශයෙන් අධ්‍යාපන අමාත්‍යවරයා ඇතුළු පිරිසක් නම් කරනු ලැබ සිටිති.
+The petition was considered in the face of Manicus Dilip Naaz Shiran Gunaratne and Achala Weelani.
+
+The petition has filed the Supreme Court to file a fundamental movement for many years without investigating the teaching in the teaching work.
+
+The Minister of Education has been nominated as the tables of this petition.
+
+Additional Solicitor General of the Attorney General Viraj Dayaratne, who appeared on behalf of the Attorney General at the courts, has decided to absorb the teacher after conducting an interview with an interview.
+
+The decision was taken with the impeachment conditions made by both parties and the Cabinet of Ministers should obtain the approval.
 
 ...
 
 [Data](articles/97758a96.json)
+
+[Extended Data](ext_articles/97758a96.ext.json)
 
 ---
 
@@ -2137,91 +2269,5 @@ Udayanidhi only qualifies Karunanidhi's grandson - Stalin's son. Does he give hi
 [Data](articles/92bd3982.json)
 
 [Extended Data](ext_articles/92bd3982.ext.json)
-
----
-
-### Postal Dept. ready for upcoming Presidential Election - Deputy Postmaster General
-
-*2024-07-22 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100695/postal-dept-ready-for-upcoming-presidential-election-deputy-postmaster-general) · `en`
-
-Deputy Postmaster General Rajitha Ranasinghe stated that the Department of Posts is fully prepared to commence its work related to the upcoming presidential election as soon as the Election Commission announces the date of the poll.
-
-Speaking at a press conference held today (22), Mr. Ranasinghe emphasized that all necessary arrangements are in place to ensure a smooth electoral process.
-
-Furthermore, the Deputy Postmaster General elaborated on the department’s role in postal voting and the distribution of official election notices. He highlighted that the Postal Department has deployed a workforce of 8,000 dedicated employees to ensure the efficient distribution of official election notice to every household.
-
-He also assured the Postal Department is committed to the safe exchange of all postal voting materials.
-
-◼️
-
-[Data](articles/42f5b2fa.json)
-
-[Extended Data](ext_articles/42f5b2fa.ext.json)
-
----
-
-### Court orders arrest of Minister Jeevan Thondaman
-
-*2024-07-22 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100694/court-orders-arrest-of-minister-jeevan-thondaman-) · `en`
-
-The Nuwara-Eliya Magistrate’s Court has ordered the police to arrest the General Secretary of Ceylon Workers’ Congress (CWC), Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman and to produce him before the court.
-
-This order has been issued after Nuwara-Eliya Police reported facts to the court today (22), regarding the incident where the CWC General Secretary had allegedly stormed into the Pedro Tea Factory, controlled under Kelani Valley Plantations PLC, along with a group of his supporters on May 30, 2024.
-
-Ada Derana reporter said that although the police had informed the accused involved in the incident including Minister Thondaman, in writing, to appear before the court today (22), they had failed to do so.
-
-Therefore, the Nuwara-Eliya Acting Magistrate has ordered the police to arrest the suspects including the Minister and to produce them before the court.
-
-◼️
-
-[Data](articles/3e69db04.json)
-
-[Extended Data](ext_articles/3e69db04.ext.json)
-
----
-
-### Common Candidate from the Tamil Party?
-
-*2024-07-22 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199084) · `si`
-
-Several Tamil political parties and civil organizations have united to field a joint candidate for the upcoming presidential election, with seven parties and seven organizations signing the agreement.
-
-🟩
-
-Several Tamil political parties and several civilian organizations have agreed to make a common candidate for the next presidential election.
-
-Our correspondent said that seven Tamil political parties and seven civil organizations have been signed.
-
-◼️
-
-[Data](articles/0159f681.json)
-
-[Extended Data](ext_articles/0159f681.ext.json)
-
----
-
-### Court order to arrest Tho Thondman
-
-*2024-07-22 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199083) · `si`
-
-Nuwara Eliya Magistrate Jayamgalle Ambagahawatta ordered the police to arrest several suspects linked to the Ceylon Workers Congress and its supporters over a case involving the Kelani Valley Company. The magistrate acted after receiving reports from the Nuwara Eliya Police about the arrival of the Ceylon Workers' Code at the Nuwara Eliya Tea Factory. Despite Minister Jeevan Thondaman and other suspects being informed to appear in court, their lawyers represented them instead.
-
-🟩
-
-Nuwara Eliya Acting Magistrate Jayamgalle Ambagahawatta has ordered the Nuwara Eliya Police to arrest several suspects and several suspects of the Ceylon Workers Congress.
-
-The Nuwara Eliya Police have reportedly reported the case with the labor of the Ceylon Workers Congress, a group of supporters of the Ceylon Workers Congress under Kelani Valley Company.
-
-The Magistrate issued the order at the time.
-
-The Nuwara Eliya Police had reported before the Nuwara Eliya Police regarding the arrival of the Ceylon Workers' Code in the Nuwara Eliya Tea Factory of the Nuwara Eliya Tea Factory of the Kelani Vandandeline.
-
-Minister Jeevan Thondaman, Minister Jeevan Thondaman and the suspects were informed to contest today, but the lawyers appeared for the estate firm were presented in the court.
-
-◼️
-
-[Data](articles/bd3f937f.json)
-
-[Extended Data](ext_articles/bd3f937f.ext.json)
 
 ---

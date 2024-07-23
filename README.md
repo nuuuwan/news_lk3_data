@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 05:38:15**
+As of **2024-07-23 06:02:31**
 
 ## Newspaper Stats
 
-*Scraped **36,655** Articles*
+*Scraped **36,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 321
 colombotelegraphcom | 345
 bbccomsinhala | 357
 newsfirstlk | 363
-islandlk | 2,084
+islandlk | 2,096
 economynextcom | 2,191
 dailyftlk | 2,336
 adalk | 3,311
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,655 (100.0%) of 36,655 articles have been extended.
+36,655 (100.0%) of 36,667 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -398,6 +398,32 @@ Despite the fact that there are severe reactions, we have no choice but to infor
 
 ---
 
+### Action time for JPal
+
+*2024-07-22 22:27:00* · [`islandlk`](http://island.lk/action-time-for-jpal/) · `en`
+
+Although he is known as JPal, his real name is Janaka Palapathwala and he is back in the scene after a two-week tour of the US.
+
+JPal will be seen in action at ‘Down Memory Lane’ at Atelier Kandy, on Saturday 27th July.
+
+The evening will bring into the limelight some of the most loved oldies of Jim Reeves, Elvis Presley, Engelbert, Niel Diamond, Tom Jones and many others.
+
+JPal will also be featured at ‘Sing Along with JPal’, organized by the Sri Lanka America Society, on Saturday 10th August, at the Grand Oriental Hotel. He will be backed by the band Genesis.
+
+JPal says he also manages bands performing at the Lounge at Cinnamon Lakeside.
+
+State but not public universities, private but not universities: What do we have in Sri Lanka?
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/3b001952.json)
+
+---
+
 ### ‘25% of children in poverty’: Sajith reveals plans for eradicating child poverty
 
 *2024-07-22 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100709/25-of-children-in-poverty-sajith-reveals-plans-for-eradicating-child-poverty) · `en`
@@ -444,6 +470,20 @@ In a ballot, the criminal procedure code was proposed to increase Rs. 300 to Rs.
 
 ---
 
+### Sri Lanka on path to establish Environment Management Effectiveness Tracking System
+
+*2024-07-22 22:04:00* · [`islandlk`](http://island.lk/sri-lanka-on-path-to-establish-environment-management-effectiveness-tracking-system/) · `en`
+
+Takes steps to strengthen sustainability of Blue–Green Ecosystems through science and information sharing
+
+The Presidential Secretariat Support Unit, in collaboration with the Climate Change Office of the Presidential Secretariat and the Ministry of Environment, successfully held the inaugural consultation for the Sri Lankan Environment Management Effectiveness Tracking System (SL EMETS) at the Hilton, Colombo on June 24, 2024. The event brought together key stakeholders, scientists, and policymakers to discuss the value and design of this groundbreaking national-level environmental management approach and the system.
+
+...
+
+[Data](articles/d87bc43a.json)
+
+---
+
 ### A Memorandum of Understanding (MoU) on the process of lending interest free lending under the Agricultural Modernization Program
 
 *2024-07-22 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189124) · `ta`
@@ -468,6 +508,20 @@ When implementing agricultural modernization programs in the Divisional Secretar
 
 ---
 
+### Cable Solutions IPO opens today
+
+*2024-07-22 21:58:00* · [`islandlk`](http://island.lk/cable-solutions-ipo-opens-today/) · `en`
+
+The initial public offering (IPO) of shares of Sri Lanka’s leading integrated manufacturer of specialized cables, Cable Solutions Limited, will open today, 23rd of July 2024, at 09.00am.
+
+Managed by Asia Securities Advisors (Private) Limited, the issue will see a total of 80,786,600 ordinary voting shares of the company offered to the public, through a combination of an offer for subscription of 14,666,600 new ordinary voting shares and an offer for sale of 66,120,000 existing ordinary voting shares. The shares are on offer at a price of LKR 7.50/- per share. The IPO is priced at a 27% discount to the discounted cashflow valuation of LKR 10.3 per share conducted by the independent valuer KPMG.
+
+...
+
+[Data](articles/3437cd00.json)
+
+---
+
 ### Former Prime Minister Scott Morrison emphasized Australia's commitment to the independence of the Indian Ocean and the sovereignty of the regional countries!
 
 *2024-07-22 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189123) · `ta`
@@ -489,6 +543,38 @@ In his speech, Australia's former Prime Minister Scott Morrison emphasized the s
 [Data](articles/b4efda99.json)
 
 [Extended Data](ext_articles/b4efda99.ext.json)
+
+---
+
+### Ramani Gomes, President, Inner Wheel Club, Colombo Central
+
+*2024-07-22 21:53:00* · [`islandlk`](http://island.lk/ramani-gomes-president-inner-wheel-club-colombo-central/) · `en`
+
+Inner Wheel Club of Colombo Central held its installation ceremony for the newly elected President of the Club Ms. Ramani Gomes for the year 2024/2025 at the Automobile Association of Ceylon(AAC) Auditorium on 17th July.
+
+Sri Lanka on path to establish Environment Management Effectiveness Tracking System
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/807e170a.json)
+
+---
+
+### Parliament dissolution jitters send share market into bearish sulk
+
+*2024-07-22 21:51:00* · [`islandlk`](http://island.lk/parliament-dissolution-jitters-send-share-market-into-bearish-sulk/) · `en`
+
+The stock market yesterday was extremely bearish due to speculation on a possible dissolution of parliament and the impact it would have on the country, particularly since it would lead to policy inconsistency, stock market analysts said.
+
+Amid those developments both indices moved downwards. The All Share Price Index went down by 165 points, while S and P SL20 declined by 61.4 points. Turnover stood at Rs 678 million with one crossing. The crossing was reported in Hayleys, which crossed 200,000 shares to the tune of Rs 20 million; its shares traded at Rs 100.
+
+...
+
+[Data](articles/32a01b39.json)
 
 ---
 
@@ -665,6 +751,22 @@ Meanwhile, the Citizenship Alliance (UPFA) was protesting in front of the Electi
 [Data](articles/6fa0d4d0.json)
 
 [Extended Data](ext_articles/6fa0d4d0.ext.json)
+
+---
+
+### MOU signed for interest-free loans under Agricultural Modernization Program
+
+*2024-07-22 20:02:00* · [`islandlk`](http://island.lk/mou-signed-for-interest-free-loans-under-agricultural-modernization-program/) · `en`
+
+The signing of the Memorandum of Understanding (MoU) for the provision of interest-free loans to agribusiness entrepreneurs and farmers under the first phase of the Agriculture Modernization Program took place today (22) at the Presidential Secretariat.
+
+The MoUs were signed between the Bank of Ceylon, the Regional Development Bank who are the key contributors to the initial phase and Secretary to the Ministry of Agriculture and Plantation Industry Janaka Dharmakeerthi. Accordingly, MoU with the People’s Bank are expected to be signed in the near future.
+
+In this first phase, Rs. 650 million has been allocated to implement projects through agricultural modernization centres in 26 Divisional Secretariat Divisions selected for the pilot projects. [a total of 75 DS divisions identified]
+
+...
+
+[Data](articles/ea44a469.json)
 
 ---
 
@@ -2185,133 +2287,5 @@ Sustainable Fitch: SPO Provided for Commercial Bank of Ceylon PLC’s Sustainabl
 [Data](articles/eb8fb462.json)
 
 [Extended Data](ext_articles/eb8fb462.ext.json)
-
----
-
-### The corpse recovery in the naked position
-
-*2024-07-22 13:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமான-நிலையில்-சடலம்-மீட்பு/175-340827) · `ta`
-
-In Kandana, police found a nude body of an unknown individual, death cause unclear.
-
-🟩
-
-Kandana police have recovered the naked body of an unidentified person who died mysteriously in Kandana.
-
-◼️
-
-[Data](articles/0bf79add.json)
-
-[Extended Data](ext_articles/0bf79add.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-22 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189078) · `ta`
-
-The US dollar rose from 298.8995 to 308.1989 rupees according to the Central Bank's latest update on July 22.
-
-🟩
-
-The US dollar purchasing price was 298.8995 rupees and the sales price were Rs 308.1989 based on a currency exchange rate released by the Central Bank on Monday (July 22).
-
-◼️
-
-[Data](articles/ec602f15.json)
-
-[Extended Data](ext_articles/ec602f15.ext.json)
-
----
-
-### Petition against Pavithra's gazettes to be heard
-
-*2024-07-22 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199080) · `si`
-
-The Supreme Court has agreed to hear a petition challenging a gazette notification by the Minister of Public that releases the Shriman Cultivation from the Vedithalthivu Reserve Zone. The petition, filed by Ms. Pavithravan Wanniarachchi and supported by the Center and others, argues that this action violates wildlife protection laws and threatens local biodiversity. The court will examine the petition on November 12.
-
-🟩
-
-The Supreme Court today granted permission to hear a fundamental rights petition filed by Ms. Pavithravan Wanniarachchi, who was released by Ms. Pavithravan Wanniarachchi.
-
-The fundamental rights petition, which was presented by the Center and a group of people, issued the order by a Supreme Court panel of Supreme Court and Shiran Gunaratne.
-
-The court ordered the Petition Examination on November 12.
-
-The petitioners claim that the Minister of Public has issued a gazette notification to release the Shriman Cultivation from the Vedithalthivu Reserve Zone, designated as a reserve monastery.
-
-The gazette notification stated that the Petitions referred to the provisions of the Wildlife and Flora Ordinance and that the migration birds and hydrologicals enter the forest zone.
-
-Petitioners call on the Supreme Court to issue a gazette notification order to issue a gazette notification order since the biodiversity of the area is also influenced by biodiversity.
-
-◼️
-
-[Data](articles/b5053c83.json)
-
-[Extended Data](ext_articles/b5053c83.ext.json)
-
----
-
-### Russia is the fourth economic force in the world
-
-*2024-07-22 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189023) · `ta`
-
-In early June, the World Bank ranked Russia as the fourth-largest economy globally based on PPP, surpassing Germany due to cheaper gas and political instability. Russia's economic growth, initially lagging, surged post-Ukraine invasion, aiming for global dominance. Despite challenges, including sanctions and a shift towards militarization, Russia's economy boomed, with the World Bank tripling its growth forecast to 3.2%. However, Russia still trails India and China in size, with the shadow economy potentially underestimating its true GDP.
-
-🟩
-
-According to the World Bank's data, published in early June, the Russian economy has become the fourth developed country in the world based on Purchase- Power and Balance (PPP).
-
-According to PNE report last August, Russia has already behind Germany to become the fifth largest economy. The cheapest Russian gas was cut off, and German has now been stagnant and suffered from recent political events and fell to sixth place in the World Bank rankings.
-
-Purchase-Power-Balance (PPP) and Gross National Production Measurement is preferred by many economists. This is because it takes into account the difference between local prices and nominal prices.
-
-The World Bank has upgraded Russia's ranking after reviewing its data. And Russia says that Japan has actually overtaken Japan in 2021 and has since retained the fourth place since.
-
-Its earlier calculations were based on 2017 data, but these are now updated to reflect 2021 statistics.
-
-...
-
-[Data](articles/f2e4dfd0.json)
-
-[Extended Data](ext_articles/f2e4dfd0.ext.json)
-
----
-
-### Sri Lanka elections: president to announce decision in due course, invites rivals
-
-*2024-07-22 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-elections-president-to-announce-decision-in-due-course-invites-rivals-173268/) · `en`
-
-ECONOMYNEXT — President Ranil Wickremesinghe has said he will respond to invitations to contest the 2024 presidential election in due course, while also inviting his opposition rivals to join his efforts develop Sri Lanka.
-
-Speaking at a rally in Gampaha on Sunday July 21, Wickremesinghe said politics should align with the country’s needs.
-
-“The future of our country cannot be determined solely by political agendas. I will not allow that. Politics should align with the country’s needs; otherwise, our country has no future. We must advance as a proud nation, making meaningful changes rather than issuing false promises. The country’s progress should not be driven by political agendas, but by a shared vision for national development. I invite Sajith Premadasa and Anura Dissanayake to join us in this effort. Let’s embark on this journey together,” he said.
-
-...
-
-[Data](articles/95a1d538.json)
-
-[Extended Data](ext_articles/95a1d538.ext.json)
-
----
-
-### SriLankan Airlines still seeks foreign partner – report
-
-*2024-07-22 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/100691/srilankan-airlines-still-seeks-foreign-partner-report) · `en`
-
-While Sri Lanka has scrapped plans to sell a stake in its national carrier, SriLankan Airlines, after foreign offers it sought didn’t meet up to expectations, government officials say they are pursuing an alternate route which still includes attracting investors to the debt-ridden airline.
-
-“We are looking at an alternate proposal which would still be under the previous plan to invite investors. It’s sensitive at the moment but we hope to announce the new plan in two to three weeks,” said a source close to the negotiating team.
-
-On Thursday, the government said it had dropped plans to sell a minority stake of 49 per cent of SriLankan Airlines, after none of the bidding entities that expressed interest in it was deemed “worthy”.
-
-“Instead, the airline will undergo restructuring under an alternate plan,” stated Sri Lankan minister of ports, shipping and aviation Nimal Siripala de Silva. However, he did not share what the alternate proposal was.
-
-...
-
-[Data](articles/111fc185.json)
-
-[Extended Data](ext_articles/111fc185.ext.json)
 
 ---

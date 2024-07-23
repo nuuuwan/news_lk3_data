@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 13:20:14**
+As of **2024-07-23 13:36:02**
 
 ## Newspaper Stats
 
-*Scraped **36,735** Articles*
+*Scraped **36,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,98 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,317
-adaderanalk | 4,258
+adalk | 3,318
+adaderanalk | 4,259
 tamilmirrorlk | 4,498
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,169
+adaderanasinhalalk | 6,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,734 (100.0%) of 36,735 articles have been extended.
+36,735 (100.0%) of 36,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### කොළඹ හතේ ඝාතනය ගැන අලුත් කතාවක්
+### Govt. to apologize for COVID-19 compulsory cremation policy; new legislation to let families choose
+
+*2024-07-23 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100720/govt-to-apologize-for-covid-19-compulsory-cremation-policy-new-legislation-to-let-families-choose) · `en`
+
+The Cabinet of Ministers has approved the proposal that the government should apologize to the sections of society affected by the compulsory cremation policy enforced in Sri Lanka during the COVID-19 pandemic.
+
+Speaking during the Cabinet Press Conference held this afternoon (23), Cabinet Spokesman Minister Bandula Gunawardena stated that according to the guidelines published by the Ministry of Health on the clinical management of COVID-19, cremation was recommended as the method of disposal of the bodies of those who died of the virus.
+
+Accordingly, 276 Muslim victims of COVID-19 have been cremated, and later in February 2021, burials have been allowed for such persons with strict restrictions, he added.
+
+...
+
+[Data](articles/7f7f0963.json)
+
+---
+
+### මැර පොලිස් ප්‍රහාරයෙන් රේගු නිලධාරියා රෝහලට
+
+*2024-07-23 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199121) · `si`
+
+කළුතර වෙරළ සංරක්ෂණ වැඩසටහනකට සහභාගී වූ රේගු නිලධාරියෙකු, සිවිල් ඇඳුමින් සැරසුණ කළුතර දකුණ පොලීසියේ නිලධාරින් සිව්දෙනෙකු විසින් පසුගියදා අත්අඩංගුවට ගැණුනි.
+
+පහරකෑමට ලක්වූ රේගු නිලධාරියා මේ වනවිට කළුතර ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබයි.
+
+රේගු දෙපාර්තමේන්තුවේ පරිපාලන නිලධාරියෙකු වන වීරවර්ණ ප්‍රේමරත්න මහතා පෙරේදා දිනයේදී කළුතර වෙරළේ සංරක්ෂණ කටයුත්තක් නිරීක්ෂණය කිරීමට ගොස් තිබුණි.
+
+එම නිරීක්ෂණයෙන් අනතුරුව සිය නිවස වෙත යාමට සඳහා තමන්  කළුතර දුම්රිය ස්ථානයට එන අතරවාරයේදී සිවිල් ඇඳුමින් සැරසුණ පුද්ගලයින් සිව්දෙනෙක් දැඩි ස්වරයෙන් ප්‍රශ්න කරමින් තමාගේ අනන්‍යතාව විමසූ බවය.
+
+නමුත් රේගු නිලධාරියාගේ ජාතික හැඳුනුම්පත දින කිහිපයකට පෙර අස්ථානගතවීම හේතුවෙන් එය ඉදිරිපත් කිරීමට ඔහු අපොහොසත් වී තිබුණි.
+
+එම අවස්ථාවේදී සිවිල් ඇඳුමින් සැරසුණ පුද්ගලයින් රේගු නිලධාරියාට පහර දී තිබුණේ ඔවුන් කළුතර පොලිසියේ නිලධාරින් බව පවසමින්ය.
+
+පොලිස් අනන්‍යතාව තහවුරු කිරීම සඳහා ඔවුන්ගේ හැඳුනුම්පතක්ද රේගු නිලධාරියා විසින් ඉල්ලා සිටි නමුත් ඒ කිසිවක් ඔවුන් රේගු නිලධාරියාට ඉදිරිපත් කර නැත.
+
+...
+
+[Data](articles/3fef4c9e.json)
+
+---
+
+### New story about Colombo 7's assassination
 
 *2024-07-23 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199120) · `si`
 
-කොළඹ වෝඩ් පෙදෙසේ නවතා තිබූ ත්‍රිරෝද රථයක තිබී තියුණු ආයුධවලින් පහරදී ඝාතනය කරන ලද පුද්ගලයෙකුගේ මළ සිරුරක් පොලීසිය සොයා ගත්තේය.
+A man, identified as 33-year-old Chaminda Kumara from Godakawela, was found dead in a three-wheeler near the National Dental Center in Colombo's Ward Place. The vehicle, registered to a Middeniya resident, was being investigated. Kumara, who worked in aluminum and drove a taxi, lived in Athurugiriya. He suffered two sharp weapon wounds to his chest and neck. The motive behind the murder remains unknown, prompting police to examine CCTV footage and continue their investigation with several teams involved.
 
-අද (23) අලුයම 1ට පමණ 119 පොලිස් හදිසි ඇමතුම් අංකයට ලද තොරතුරකට අනුව වෝඩ් පෙදෙසේ පිහිටි ජාතික දන්ත රෝහල අසල නවතා තිබූ ත්‍රිරෝද රථයක තිබී එම මළ සිරුර කුරුඳුවත්ත පොලීසිය මඟින් සොයා ගනු ලැබීය.
+🟩
 
-පසුව ත්‍රිරෝද රථය සම්බන්ධයෙන් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව මඟින් සිදුකළ සොයාබැලීමේදී අනාවරණ වී ඇත්තේ, එය මිද්දෙණිය ප්‍රදේශයේ පදිංචිකරුවකුට අයත් එකක් බවය.
+Police found a body of a person who was killed in a three-wheeler in Ward Place, Colombo.
 
-ත්‍රිරෝද රථය තම මස්සිනාට කූලී ගමන් යෑම සඳහා ලබා දී ඇති බව, එම පුද්ගලයාගෙන් සිදුකළ විමසීමේදී ඔහු පවසා ඇත.
+The body was found in a three-wheeler near the National Dental Center in Ward Place today (23) at around 1 am.
 
-ඒ අනුව පොලීසිය වැඩිදුරටත් සිදුකළ විමර්ශනවලදී අනාවරණ වී ඇත්තේ, ඝාතනයට ලක් වූ පුද්ගලයා 33න් හැවිරිදි චමින්ද කුමාර නම් ගොඩකවෙල ප්‍රදේශයේ පදිංචිකරුවකු බවය.
+Later, the investigation by the Department of Motor Traffic has been revealed that it belongs to a resident of Middeniya.
 
-දිවා කාලයේදී ඇලුමීනියම් ආශ්‍රිත රැකියාවක නිරතව ඇති ඔහු රාත්‍රී කාලයේදී කුලී රථ ධාවනය කරන අයෙකු බව පොලීසිය සඳහන් කළේය.
+Investigating the three-wheeler has been given to cool to cool to cool, he has said.
 
-ඔහු අතුරුගිරිය ප්‍රදේශයේ කුලී නිවසක රැඳී සිට ඇති බවත් පොලීසිය පැවසීය.
+Investigations have revealed that the murdered person was further revealed that the victim was a 33-year-old Chaminda Kumara, a resident of Godakawela.
+
+He is engaged in aluminum during the day and he is a taxi-run.
+
+He had stayed in a rented house in Athurugiriya.
+
+Two injuries caused by sharp weapons of the chest and neck of the murdered person have seen two injuries.
+
+The police also has no doubts due to the falls near his body seat.
+
+However, the cause of the murder and the cause of the killing has not been revealed.
+
+Accordingly, the police have begun testing CCTV camera in the area.
 
 ...
 
 [Data](articles/9c0dc44a.json)
+
+[Extended Data](ext_articles/9c0dc44a.ext.json)
 
 ---
 
@@ -156,7 +210,13 @@ The Deputy Speaker of the Parliament Ajith Rajapaksa announced the House that in
 
 The announcement was made during the ongoing Parliamentary proceeding today (23).
 
-◼️
+On July 09, the Sri Lanka Telecommunications (Amendment) Bill was passed in Parliament with amendments.
+
+Under the new telecommunications bill, Sri Lanka will introduce a new license category that will allow ‘Starlink’ service to enter the country’s telecommunications space as a licensed service provider, as earlier stated by State Minister of Technology Kanaka Herath.
+
+The initiative of integrating the global ‘Starlink’ network with Sri Lanka is said to be aimed at addressing the Wi-Fi connectivity issues, particularly in areas outside Colombo.
+
+...
 
 [Data](articles/c8ac76c6.json)
 
@@ -511,6 +571,24 @@ Moreover, inflation in non -food category has risen from 2.4 percent to 2.7 perc
 [Data](articles/a4316128.json)
 
 [Extended Data](ext_articles/a4316128.ext.json)
+
+---
+
+### ජනපතිවරණයට පොදු අපේක්ෂකයෙක්
+
+*2024-07-23 10:46:26* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-පොදු-අපේක්ෂකයෙක්/11-410933) · `si`
+
+ඉදිරියේදී පැවත්වීමට නියමිත ජනාධිපතිවරණය වෙනුවෙන් පොදු අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට ද්‍රවිඩ දේශපාලන පක්ෂ කිහිපයක් සහ සිවිල් සංවිධාන කිහිපයක් විසින් ඒකඟ වී ඊයේ(22දා) ගිවිසුමකට අත්සන් කිරීම සිදුවිය.
+
+යාපනය සෙල්වා අනුස්මරණ ශාලාවේදී ඊයේ(22දා) උදෑසන දෙමළ දේශපාලන පක්ෂ නායකයන්ගේ සහභාගිත්වයෙන් මෙය සිදු විය.
+
+උතුරු පළාත් හිටපු ප්‍රධාන අමත්‍ය සී.වී.විග්නේශ්වරන්ගේ දෙමළ ජනතා සන්ධානය, ඊ. පී. අර්. ඒල්. ඒෆ්. පක්ෂය, ප්ලොට්, ටෙලෝ, ආදී වශයෙන් පක්ෂ 7 ක් මෙලෙස ගිවිසුම්ගතව ජනාධිපතිවරණය වෙනුවෙන් පොදු අපෙක්ෂකයෙකු ඉදිරිපත් කරන බවට නිවේදනය කඑන ලදි.
+
+නාමයෝජන ලබාදීමෙන් පසුව පොදු අපේක්ෂකයා කවුරුන්දැයි  නිවේදනය කිරීමට පියවර ගන්නා බවත්, ගිවිසුමෙන් අනතුරුව පචාරක කමිටුව, මැතිවරණ ප්‍රතිපත්ති ප්‍රකාශය ඇතුළු දේශපාලනික ක්‍රියකාරකම් සිදුකිරීමට අදාළ පක්ෂ විසින් පියවර ගන්නා බවටද මෙහිදී ප්‍රකාශ කෙරිණ.
+
+◼️
+
+[Data](articles/5d7f6a63.json)
 
 ---
 
@@ -2239,61 +2317,5 @@ Meanwhile, the Citizenship Alliance (UPFA) was protesting in front of the Electi
 [Data](articles/6fa0d4d0.json)
 
 [Extended Data](ext_articles/6fa0d4d0.ext.json)
-
----
-
-### Inflation up
-
-*2024-07-22 20:06:11* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-410924) · `si`
-
-Inflation rose from 1.6% in May 2024 to 2.4% in June 2024. Food prices increased from 0.5% to 1.9%, while non-food items went from 2.4% to 2.7%.
-
-🟩
-
-Inflation, which was 1.6% in May 2024, increased to 2.4% for June 2024.
-
-In May 2024, the point in which the food category recorded was 0.5% increased to 1.9% in June, 2024.
-
-In May 2024, the non-food no-2.4% of food increased to 2.7% in June, 2024.
-
-◼️
-
-[Data](articles/51c51f1e.json)
-
-[Extended Data](ext_articles/51c51f1e.ext.json)
-
----
-
-### MOU signed for interest-free loans under Agricultural Modernization Program
-
-*2024-07-22 20:02:00* · [`islandlk`](http://island.lk/mou-signed-for-interest-free-loans-under-agricultural-modernization-program/) · `en`
-
-The signing of the Memorandum of Understanding (MoU) for the provision of interest-free loans to agribusiness entrepreneurs and farmers under the first phase of the Agriculture Modernization Program took place today (22) at the Presidential Secretariat.
-
-The MoUs were signed between the Bank of Ceylon, the Regional Development Bank who are the key contributors to the initial phase and Secretary to the Ministry of Agriculture and Plantation Industry Janaka Dharmakeerthi. Accordingly, MoU with the People’s Bank are expected to be signed in the near future.
-
-In this first phase, Rs. 650 million has been allocated to implement projects through agricultural modernization centres in 26 Divisional Secretariat Divisions selected for the pilot projects. [a total of 75 DS divisions identified]
-
-...
-
-[Data](articles/ea44a469.json)
-
-[Extended Data](ext_articles/ea44a469.ext.json)
-
----
-
-### Embracing digital technologies in education: Path forward for developing countries
-
-*2024-07-22 19:57:50* · [`dailyftlk`](https://www.ft.lk/columns/Embracing-digital-technologies-in-education-Path-forward-for-developing-countries/4-764587) · `en`
-
-Updating the curriculum to include digital literacy as a core component is vital
-
-The integration of digital technologies into education is no longer a luxury but a necessity for modern educational systems. This is particularly true for developing countries, where the potential for digital tools to bridge gaps in access and quality is immense. By strategically adopting these technologies, developing nations can revolutionise their educational landscapes, making learning more accessible, engaging, and effective. Here, we outline key recommendations to guide this transformation.
-
-...
-
-[Data](articles/993dd886.json)
-
-[Extended Data](ext_articles/993dd886.ext.json)
 
 ---

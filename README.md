@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 22:36:06**
+As of **2024-07-23 22:54:00**
 
 ## Newspaper Stats
 
-*Scraped **36,841** Articles*
+*Scraped **36,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,338
-adaderanalk | 4,267
+adaderanalk | 4,268
 tamilmirrorlk | 4,512
 dailymirrorlk | 4,733
 virakesarilk | 5,779
@@ -26,25 +26,51 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,838 (100.0%) of 36,841 articles have been extended.
+36,841 (100.0%) of 36,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### අතුරු තහනම් නියෝග 2ක්
+### Nine Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-07-23 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100730/nine-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+A total of nine Indian fishermen have been arrested along with two trawlers while poaching in Sri Lankan waters off the Delft Island, Jaffna.
+
+The interception was made while the Sri Lanka Navy and Coast Guard conducted a special operation to chase away Indian trawlers poaching in Sri Lankan waters in the wee hours of today (23).
+
+The Northern Naval Command had deployed Fast Attack Craft of the Coast Guard to chase away a cluster of Indian trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters off the Delft Island.
+
+The operation resulted in the seizure of 02 Indian trawlers and apprehension of 09 Indian fishermen who continued to remain in Sri Lankan waters.
+
+The seized trawlers together with Indian fishermen were brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, the navy said.
+
+...
+
+[Data](articles/c94d18eb.json)
+
+---
+
+### Interim toback orders
 
 *2024-07-23 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199138) · `si`
 
-ලංකා විදුලිබල මණ්ඩලයේ අතිරේක සාමාන්‍යාධිකාරී තනතුරේ වැඩ ආවරණය කිරීම සඳහා ඉංජිනේරු ඩබ්ලිව්. ජයරත්න මහතා පත් කිරීමට ගනු ලැබූ  තීරණය ‍ක්‍රියාත්මකවීම වළක්වාලමින් අභියාචනාධිකරණය විසින් අද (23) අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+The Court of Appeal granted an interim injunction stopping the appointment of Jayaratne as per a decision made by Engineer W. This was due to objections raised over disregarding seniority in the selection process for the position of Additional General Manager. The injunction allows time for a petition filed by Mr. Wanniarachchi and others to be heard.
 
-පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා ඉදිරිපත් කළ කරුණු සලකාබැලූ අධිකරණය විසින් මෙම නියෝගය නිකුත් කළ අතර මෙම පෙත්සම් විභාගය අවසන් වන තෙක් අතිරේක සාමාන්‍යාධිකාරි ධුරයට වෙනත් අයකු පත් කිරීම වළක්වාලමින් තවත් අතුරු තහනම් නියෝගයක්ද නිකුත් කෙරුණි.
+🟩
 
-අතිරේක සාමාන්‍යාධිකාරී ධුරය සඳහා පත්වීම් සිදු කිරීමේදී ජ්‍යේෂ්ඨත්වය නොසලකා කටයුතු කිරීමට එරෙහිව ඉංජීනේරු ටී.ඒ. වන්නිආරච්චි මහතා ඇතුළු පිරිසක් ගොනුකර තිබූ පෙත්සමක්  විභාග කිරීමට අවසර දෙමින් අභියාචනාධිකරණ විනිසුරු ලෆාර් තාහීර් මහතා විසින් මෙම අතුරු තහනම් නියෝගය නිකුත් කර ඇත.
+Engineer W. The Court of Appeal has issued an interim injunction today (23) by preventing the implementation of the decision taken to appoint Jayaratne.
+
+The court issued the order issued by the President's Counsel Faizer Mustapha who appeared on behalf of the petitioner.
+
+Engineering is TAs against ignoring seniority when appointing appointments for additional General Manager. The interim injunction has issued the interim injunction, permits to hear a petition filed by Mr. Wanniarachchi and several others.
 
 ◼️
 
 [Data](articles/75acb6df.json)
+
+[Extended Data](ext_articles/75acb6df.ext.json)
 
 ---
 
@@ -70,25 +96,33 @@ Meanwhile, Bhutan, the largest recipient of the annual allocation under the MEA,
 
 ---
 
-### இலங்கையில் இடம்பெற்ற மனித உரிமைமீறல்கள் மற்றும் துஸ்பிரயோகங்கள் குறித்து பொறுப்புக்கூறவேண்டும் என கனடா தொடர்ந்தும் வேண்டுகோள் விடுக்கும் - கறுப்பு ஜூலை குறித்த அறிக்கையில் கனடா பிரதமர்
+### Canada will continue to request responsible for human rights and abuses in Sri Lanka - Canada Prime Minister
 
 *2024-07-23 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189216) · `ta`
 
-இலங்கையில் பாதிக்கப்படக்கூடிய சமூகங்களிற்கு எதிரான மனித உரிமைமீறல்கள் மற்றும் துஸ்பிரயோகங்கள் குறித்து பொறுப்புக்கூறவேண்டும் என கனடா தொடர்ந்தும் வேண்டுகோள் விடுக்கும் என கனடா பிரதமர்ஜஸ்டின் ட்ரூடோ   தெரிவித்துள்ளார்.
+Canada's PM Justin Trudeau reaffirmed Canada's commitment to addressing human rights abuses in Sri Lanka, particularly affecting vulnerable communities. This stance was highlighted during the commemoration of the 41st anniversary of Black July, a tragic event that marked the beginning of attacks on Tamil civilians in Colombo, leading to thousands of deaths and displacements. The Canadian Parliament recognized May 18, 2022, as a day of Tamil genocide, showing solidarity with the global Tamil community. Trudeau emphasized Canada's role as a defender of human rights and its efforts to support Tamil refugees post-Black July, welcoming 1,800 Tamils to rebuild their lives there.
 
-கறுப்;பு ஜூலையின் 41 வது வருடத்தை குறிக்கும் விதத்தில் வெளியிட்டுள்ள அறிக்கையில் இதனை தெரிவித்துள்ள அவர் மேலும்  குறிப்பிட்டுள்ளதாவது-
+🟩
 
-41வருடங்களிற்கு முன்னர் இன்றைய தினம் இலங்கையின் கொழும்பில் தமிழ் பொதுமக்கள் வர்த்தக நிலையங்களை இலக்குவைத்து தாக்குதல்கள் ஆரம்பமாகின.
+Canada's Prime Minister Just Trudeau has said that Canada will continue to appeal to human rights and abuses against vulnerable communities in Sri Lanka.
 
-ஆயிரக்கணக்கான அப்பாவிகளின் உயிர்கள் இழக்கப்பட்டன,மேலும் பல தமிழர்கள் காயமடைந்தனர், பாலியல் வன்முறைகளிற்கு இலக்கானார்கள்,நாட்டிலிருந்து தப்பியோட நிர்ப்பந்திக்கப்பட்டார்கள்.
+He said this in a statement issued in a statement referring to the 41st year of the Black July.
 
-கறுப்பு ஜூலை எனப்படும் தமிழர்களிற்கு எதிரான இனக்கலவரம்,பதற்றங்களை அதிகரித்தது. அது பின்னர் தசாப்தகால ஆயுதமோதலாக பரிணமித்தது.
+41 years ago, today's attacks on Tamil civilians in Colombo, Sri Lanka, began attacks.
 
-2022 மே18ம் திகதியை தமிழர் இனப்படுகொலை நினைவேந்தல் தினமாக அங்கீகரிக்கும் தீர்மானத்தை கனடாவின் நாடாளுமன்றம் ஏற்றுக்கொண்டதுநிறைவேற்றியது.
+The lives of thousands of innocents were lost, and many Tamils ​​were injured, became aimed at sexual violence, and forced to flee from the country.
+
+The ethnic conflict against Tamils ​​known as Black July increased tensions. It later evolved into decades of weapons.
+
+The Canada's parliament accepted the resolution of May 18, 2022 as a day of Tamil genocide.
+
+It expresses Canada's commitment to express unity with the Tamils ​​and the Tamil community of the world around the world to commemorate the victims and survivors of these meaningless violence.
 
 ...
 
 [Data](articles/ac51ec85.json)
+
+[Extended Data](ext_articles/ac51ec85.ext.json)
 
 ---
 
@@ -386,31 +420,39 @@ Nanayakkara said that the government only receives 0.001 percent of complaints w
 
 ---
 
-### පොහොට්ටුව නිවැරදි මොහොතේදී හරි තීන්දුව ගනීවි
+### The homile will make the right moment at the right moment
 
 *2024-07-23 18:59:04* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-නිවැරදි-මොහොතේදී-හරි-තීන්දුව-ගනීවි/11-410947) · `si`
 
-වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට වසර දෙකකට පෙර ජනාධිපති ධුරය භාර නොගත්තේ නම් අපිට සිදු වන්නේත් අමරකීර්ති මන්ත්‍රීතුමාට සිදු වූ දේම බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Minister Prasanna Ranatunga suggests that the timing of political decisions is crucial, emphasizing that the current situation would remain unchanged even without President Ranil Wickremesinghe's leadership. He reiterates the importance of making the right choices at the right moments, highlighting his commitment to the party's principles and the leadership of President Wickremesinghe.
 
-පොහොට්ටුව නිවැරැදි මොහොතේදී හරි තීන්දුව ගනු ඇතැයි තමන්ට තවමත් විශ්වාස බවද ඇමතිවරයා වැඩිදුරටත් පෙන්වා දෙයි. ‍
+🟩
 
-නෙළුම් මාවත කාර්යාලයේදී අද (23) දින පැවැති සාකච්ඡාවට සහභාගීවීමෙන් පසුව මාධ්‍යවේදීන් හමුවේ අදහස් පළ කරමින් ඇමතිවරයා මේ බව සඳහන් කළේය.
+The Minister of Urportunity Prasanna Ranatunga says that if the current President Ranil Wickremesinghe did not accept the presidency two years ago, the Amarakarerthi was the same.
 
-එහිදී මාධ්‍යවේදීන් පළ කළ ප්‍රශ්න ඇමතිවරයා ලබා දුන් පිළිතුරු මෙසේය,
+The Minister further indicates that the polose will still make the right at the right moment. ‍
 
-ප්‍රශ්නය - ඔබතුමාලා දෙන්නා ඉන්නේ මත දෙකක. අපිට හරි මතය කියන්න?
+The Minister made these comments on journalists following the discussion held at the Nelum Mawatha office today (23).
 
-පිළිතුර - මගේ මතය කියලා ඉවරයිනේ. මට අලුතින් කියන්න දෙයක් නෑනේ. මම වෙනස් කරලා නෑ.
+The answers given by the Minister of Questions and
 
-ප්‍රශ්නය - තිස්සකුට්ටිආරච්චි මහත්තයා කියන්නේ පොහොට්ටුවෙන් කවුරු හරි ඕනි කියලා.
+Q. You two are on the basis of. Tell us the right thing?
 
-පිළිතුර - ඒක හරි. අපි දෙගොල්ලොම කියන්නේ හොඳ අපේක්ෂකයෙක් දෙන්න කියලා.
+A. It's my opinion. I don't have anything new. I haven't changed.
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා - මේ භූමියේ ඒක අහන්න එපා. එළියෙදි ඇහුවොත් මම ඒකට උත්තරය දෙන්නම්. මේ මහත්තයාගෙන් අහන්න මෙයා තමයි දවසේ නායකයා.
+Q. Mr. Tissakututiarachchi says he needs to rush.
+
+A. That's right. We both call a good candidate.
+
+Urban Development and Housing Prasanna Ranatunga - Don't ask this land. If you ask, I'll give you the answer. He is the leader of the day.
+
+Q. Winning the candidate who can win. You didn't say at the party office now on the road.
 
 ...
 
 [Data](articles/15873282.json)
+
+[Extended Data](ext_articles/15873282.ext.json)
 
 ---
 
@@ -2399,29 +2441,5 @@ Microsoft founder Bill Gates is accompanied by a Death of Blue Screen Computer, 
 [Data](articles/24046baa.json)
 
 [Extended Data](ext_articles/24046baa.ext.json)
-
----
-
-### This is the best video in AI: Elon (video)
-
-*2024-07-23 11:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/AI-ல்-இது-தான்-சிறந்த-வீடியோ-எலான்-காணொளி/50-340878) · `ta`
-
-Elon Musk's AI video, featuring world leaders and celebrities, including Donald Trump, Obama, Mark Zuckerberg, and others, is hailed as the best AI video yet. It showcases advanced technology and includes humorous elements like Bill Gates with a "death" blue screen computer, highlighting Microsoft's issues.
-
-🟩
-
-Elon Musk's video posted on its X site is spreading the Internet as the best video of AI video that has come out so far.
-
-In the fashion show, world political leaders and celebrities are walking differently.
-
-Also, Donald Trump, Donald Trump, Wheel Chair, Obama, Mark Zuckerberg, Narendra Modi, Kamala Horse, Sena President Gi Jinping, North Korean President Kim Jong Un, Russian President, European Political Leaders.
-
-Microsoft founder Bill Gates is accompanied by a Death of Blue Screen Computer, which has finally teased the recent Microsoft mess.
-
-◼️
-
-[Data](articles/2b3cb498.json)
-
-[Extended Data](ext_articles/2b3cb498.ext.json)
 
 ---

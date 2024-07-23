@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 08:55:07**
+As of **2024-07-23 09:08:51**
 
 ## Newspaper Stats
 
-*Scraped **36,684** Articles*
+*Scraped **36,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,191
 dailyftlk | 2,336
-adalk | 3,312
-adaderanalk | 4,250
-tamilmirrorlk | 4,476
+adalk | 3,313
+adaderanalk | 4,251
+tamilmirrorlk | 4,478
 dailymirrorlk | 4,733
 virakesarilk | 5,745
 adaderanasinhalalk | 6,157
@@ -26,27 +26,69 @@ adaderanasinhalalk | 6,157
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,683 (100.0%) of 36,684 articles have been extended.
+36,684 (100.0%) of 36,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### கொழும்பில் பரபரப்பான பகுதியில் சடலம் ஒன்று மீட்பு
+### அடுத்த 24 மணிநேரத்திற்கு சிவப்பு எச்சரிக்கை
+
+*2024-07-23 08:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரத்திற்கு-சிவப்பு-எச்சரிக்கை/175-340864) · `ta`
+
+பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+
+இன்று அதிகாலை 3.00 மணிக்கு வெளியிடப்பட்ட இந்த அறிவிப்பு அடுத்த 24 மணிநேரத்திற்கு செல்லுபடியாகும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+அரபிக்கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் செயற்படும் பல நாள் மீன்பிடி மற்றும் கடற்தொழிலாளர் சமூகம் இது தொடர்பில் அக்கறையுடன் இருக்குமாறு அந்த அறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதேவேளை, மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பலதடவைகள் மழை பெய்யும்என எதிர்பார்க்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/b06abea0.json)
+
+---
+
+### Sri Lanka’s squad for India series; Charith Asalanka named captain
+
+*2024-07-23 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100712/sri-lankas-squad-for-india-series-charith-asalanka-named-captain) · `en`
+
+Sports Minister Harin Fernando has approved the 16-member squad for Sri Lanka’s home series against India.
+
+Charith Asalanka has been named Captain of the squad which also includes Kusal Janith Perera, Dinesh Chandimal and Chamindu Wickremesinghe
+
+India’s tour of Sri Lanka will kickstart with a three-match T20I series followed by a three-match ODI series.
+
+The T20I series will be played at the Pallekele Stadium on July 27, 28 and 30 while the ODI series will be held on August 2, 4 and 7 at the R Premadasa Stadium in Colombo.
+
+◼️
+
+[Data](articles/765e0d76.json)
+
+---
+
+### A corpse rescue in a hectic area in Colombo
 
 *2024-07-23 08:36:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-பரபரப்பான-பகுதியில்-சடலம்-ஒன்று-மீட்பு/175-340863) · `ta`
 
-கொழும்பு, வார்ட் பிளேஸில் நிறுத்தி வைக்கப்பட்டிருந்த முச்சக்கரவண்டிக்குள் கூரிய ஆயுதங்களால் தாக்கப்பட்ட 33 வயது மதிக்கத்தக்க நபரின் சடலம் ஒன்று கண்டு பிடிக்கப்பட்டுள்ளது.
+In Colombo, a 33-year-old man was found dead in a three-wheeler near the National Dental Hospital after being attacked with sharp weapons. The vehicle, rented out to another man from Mitteniya, was discovered by the Karuwathottam police. Investigations show the three-wheeler belonged to a man from Mitteniya, who claimed it was rented to his brother-in-law.
 
-இன்று (23) அதிகாலை 1 மணியளவில் கருவாத்தோட்டம் பொலிஸாருக்கு மற்றும் 119க்கு கிடைத்த தகவல் ஒன்றின் அடிப்படையில் தேசிய பல் வைத்தியசாலைக்கு அருகில் குறித்த முச்சக்கரவண்டி கண்டுபிடிக்கப்பட்டுள்ளது.
+🟩
 
-பின்னர் குறித்த முச்சக்கரவண்டி தொடர்பில் மோட்டார் போக்குவரத்து திணைக்களம் நடத்திய விசாரணையில் அது மித்தெனிய பிரதேசத்தை சேர்ந்த ஒருவருடையது என தெரியவந்துள்ளது.
+The body of a 33 -year -old man who was attacked by sharp weapons in a three -wheeler parked in the Ward Place, Colombo has been found.
 
-குறித்த நபரிடம் வினவியபோது, ​​முச்சக்கரவண்டியை 33 வயதுடைய தனது மைத்துனருக்கு வாடகைக்கு செலுத்த வழங்கியதாக அவர் தெரிவித்தார்.
+The three -wheeler was found near the National Dental Hospital on the basis of information received by the Karuwathottam police and 119 at around 1 am today (23).
+
+Investigations conducted by the Department of Motor Transport in connection with the three -wheeler have revealed that it belongs to a man from Mitteniya.
+
+When asked the man, he said that the three -wheeler was given the rent to his 33 -year -old brother -in -law.
 
 ◼️
 
 [Data](articles/df587837.json)
+
+[Extended Data](ext_articles/df587837.ext.json)
 
 ---
 
@@ -200,7 +242,13 @@ The 22nd constitutional amendment was no need to bring in this case, he said.
 
 *2024-07-23 06:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100711/youth-found-stabbed-to-death-inside-three-wheeler-at-ward-place) · `en`
 
-The body of a 33-year-old person, stabbed to death with sharp weapons, has been found inside a parked three-wheeler at Ward Place in Colombo, police said.
+The body of person stabbed to death with sharp weapons has been found inside a parked three-wheeler at Ward Place in Colombo, police said.
+
+The three-wheeler in question was found parked in front of the National Dental Hospital in Ward Place, based on information received by Cinnamon Gardens Police at around 1.00 a.m. today (23).
+
+Police had later inquired from the Department of Motor Traffic regarding the three-wheeler and uncovered that it was registered under the name of a resident of Middeniya.
+
+The owner of the three-wheeler has stated that he had given the vehicle to his 33-year-old brother-in-law who is a taxi driver.
 
 ◼️
 
@@ -307,6 +355,24 @@ More than 34 million applications for the first phase of the Aswesa Project were
 [Data](articles/a68a5362.json)
 
 [Extended Data](ext_articles/a68a5362.ext.json)
+
+---
+
+### ‘அஸ்வெசும’ கணக்கெடுப்பு ஜூலை 31 ஆம் திகதி நிறைவு
+
+*2024-07-23 01:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-கணக்கெடுப்பு-ஜூலை-31-ஆம்-திகதி-நிறைவு/175-340862) · `ta`
+
+‘அஸ்வெசும’ நலன்புரி திட்டத்தின் இரண்டாம் கட்டம் தொடர்பான கணக்கெடுப்பை ஜூலை 31 ஆம் திகதிக்குள் நிறைவு செய்ய திட்டமிடப்பட்டுள்ளது.
+
+மேலும், முதற்கட்டமாக இத்திட்டத்திற்கு விண்ணப்பிக்கத் தவறிய குடும்பங்களுக்கு, கடந்த பெப்ரவரி மாதம் விண்ணப்பங்கள் கோரப்பட்டு, சுமார் 454,924 விண்ணப்பங்கள் பெறப்பட்டுள்ளன.
+
+அந்த விண்ணப்பங்கள் தொடர்பான கணக்கெடுப்பு பணிகள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளதாக நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று பிற்பகல் இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் அவர் இவ்வாறு தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/810d2878.json)
 
 ---
 
@@ -1203,6 +1269,28 @@ The Kasippu has been conducting the racket for a long time in the central market
 [Data](articles/0ce49847.json)
 
 [Extended Data](ext_articles/0ce49847.ext.json)
+
+---
+
+### අනිවාර්යයෙන්ම ජනපතිවරණය පවත්වනවා
+
+*2024-07-22 19:32:44* · [`adalk`](https://www.ada.lk/breaking_news/අනිවාර්යයෙන්ම-ජනපතිවරණය-පවත්වනවා/11-410920) · `si`
+
+අයවැයෙන් මුදල් වෙන් කළේ ජනාධිපතිවරණයට පමණක් බැවින් අනිවාර්යයෙන්ම ජනාධිපතිවරණය පවත්වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ (22දා) ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායමට සහතිකවී තිබේ.
+
+ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (22දා) පස්වරුවේ ජනාධිපති මන්දිරයේදී රැස්වූ අවස්ථාවේදී ජනාධිපතිවරයා මේ බව සඳහන් කර ඇත.
+
+එහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් පවසා ඇත්තේ ආණ්ඩුව පවත්වාගෙන යාමට ලබාදුන් සහයෝගය සම්බන්ධයෙන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඇතුළු ශ්‍රී ලංකා පොදුජන පෙරමුණට ස්තූතිවන්ත වන බවයි.
+
+තමන් ජනාධිපතිවරණය කල්දැමීමට සූදානම් වන බවට විපක්ෂ මත පළ කළද තමා අනිවාර්යයෙන්ම ජනාධිපතිවරණය පවත්වන බවද සදහන් කළේය.
+
+පසුගිය සමය ඉතාම දුෂ්කර කාලයක් වූ බවත් පැවසූ ජනාධිපතිවරයා මේවනවිට රට එම දුෂ්කර කාලය ගෙවා දමා ඇති බවද පැවසීය.
+
+තම රජය වැඩකර රටට පෙන්වා දුන් බවත් විපක්ෂ ඇතුළු අනෙක් කණ්ඩායම් තවමත් කතා පවත්වමින් සිටින බවද ජනාධිපතිවරයා මෙහිදී පවසා තිබේ.
+
+◼️
+
+[Data](articles/6fa9d681.json)
 
 ---
 
@@ -2177,101 +2265,5 @@ Also, the no-2.4% of food in May 2024 has increased to 2.7% in June, 2024.
 [Data](articles/b6a5cd10.json)
 
 [Extended Data](ext_articles/b6a5cd10.ext.json)
-
----
-
-### Glop Spring Murder: 6 people explanation
-
-*2024-07-22 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189091) · `ta`
-
-Six suspects linked to the shooting of Surendra Vasantha Perera and others at a tattoo shop are remanded until April 26th. The main suspect, identified as Clap Vasantha, will face charges related to the incident where he and Nayana Vasula Wijesuriya died in a gunfight. Additionally, four others, including the wives of a singer and a club owner, were injured.
-
-🟩
-
-Six suspects arrested in connection with the shooting of Surendra Vasantha Perera and others known as Klup Vasantha have been remanded until the 26th of this month.
-
-The order was issued when the suspects were produced before the Kaduwela Magistrate's Court this morning.
-
-The main suspect in the incident is to be filed in court this afternoon to the owner of the tattoo.
-
-The 37 -year -old man named Clap Vasantha and Nayana Vasula Wijesuriya died in a gunfight at the Tattoo Punching Station at the Athurugiriya junction on July 8.
-
-Four people, including the wife of singer K. Sajeewa and the wife of the club Vasantha, were injured in the shooting.
-
-◼️
-
-[Data](articles/06d814a7.json)
-
-[Extended Data](ext_articles/06d814a7.ext.json)
-
----
-
-### Keerthi Suresh Karji 'Do not know Hindi ..'
-
-*2024-07-22 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189093) · `ta`
-
-"Keerthi Suresh stars in 'Raghu Grandpa,' directed by Suman Kumar, with music by Yamini Yagnamoorthy. The film, produced by Vijay Grakandur under Hombale Films, features a star-studded cast including S.. Bhaskar, Ravindra Vijay, and Anand Sami. Despite reports of Keerthi's late arrival, the music launch was highlighted by director Suman Kumar's comments on the film's content, clarifying it's not about Hindi imposition but humorously addresses societal issues."
-
-🟩
-
-The music of the film 'Raghu Grandpa' starring Keerthi Suresh, a national award -winning actress, has been released.
-
-Keerthi Suresh, M, directed by debutant director Suman Kumar in the film 'Raghu Grandpa'. S.. Bhaskar, Ravindra Vijay, Anand Sami, Devadarshini, Rajiv Raveendranathan and many others have been cast. The film, which has been recorded by Yamini Yagnamoorthy, has composed the film.
-
-The film is being produced by Vijay Grakandur on behalf of Hombale Films.
-
-The film's music launch, which will be released on August 15, was held at the star hotel in Chennai.. Actress Keerthi Suresh, composer Shaun Roldton and director Suman Kumar were also present.
-
-It is noteworthy that Keerthi Suresh has earned the dissatisfaction of reporters about two hours late, like other Bollywood and Tollywood stars.
-
-...
-
-[Data](articles/98c968c2.json)
-
-[Extended Data](ext_articles/98c968c2.ext.json)
-
----
-
-### 29,000 million loans will be paid
-
-*2024-07-22 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199086) · `si`
-
-The Sri Lankan government, under Minister Mahinda Amaraweera, has completed allocating Rs. 1600 million for the Young Agri Entrepreneurial Village Program, aiming to boost food production, farmer incomes, and attract investments to 160 villages across the island. This initiative follows a meeting at the Ministry of Agriculture and Plantation Industries, highlighting the government's commitment to supporting agri-entrepreneurs despite financial challenges faced by many companies, including fertilizer suppliers.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that the government has completed all Rs.
-
-He was speaking at a meeting held at the Ministry of Agriculture and Plantation Industries today (22) regarding the progress of the Young Agri Entrepreneurial Village Program.
-
-Increasing food production, increasing the income level of the farmers and improve the income level and attracting the income level and attract 160 villages in the island.
-
-The government allocated Rs. 1600 million for this purpose. Accordingly, one village has been provided with the implementation of projects of Rs.
-
-Most of the companies were financially poorly, as a large amount of fertilizer companies were paid a large amount of fertilizer companies.
-
-◼️
-
-[Data](articles/dffe765e.json)
-
-[Extended Data](ext_articles/dffe765e.ext.json)
-
----
-
-### After India, China helps Sri Lanka’s smart classroom concept ahead of polls
-
-*2024-07-22 14:57:00* · [`economynextcom`](https://economynext.com/after-india-china-helps-sri-lankas-smart-classroom-concept-ahead-of-polls-173294/) · `en`
-
-ECONOMYNEXT – China has come forward to grant 1,000 smart boards to Sri Lankan schools across the country, Education Minister Susil Premajayantha said, two weeks after an Indian grant project distributed the digital equipment for establishing 200 smart classrooms with 2,200 smart tablets in the Southern Province.
-
-President Ranil Wickremesinghe’s government has fast tracked digitization of the education sector along with planned teacher training for the latest technology-based education system, amid opposition leader Sajith Premadasa’s move to grant smart classrooms for schools ahead of presidential polls later this year.
-
-“Digitization of education sector is one of the reforms we have planned. We have already started it. Accordingly, there will be 1,250 clusters established. All the school systems will be included in these 1,250 clusters; one cluster will consist of 8-10 schools,” Minister Premajayantha told reporters at a news briefing in Colombo.
-
-...
-
-[Data](articles/624a9720.json)
-
-[Extended Data](ext_articles/624a9720.ext.json)
 
 ---

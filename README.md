@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 16:07:19**
+As of **2024-07-23 16:20:23**
 
 ## Newspaper Stats
 
-*Scraped **36,781** Articles*
+*Scraped **36,786** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 322
-colombotelegraphcom | 347
+colombotelegraphcom | 348
 bbccomsinhala | 358
 newsfirstlk | 363
 islandlk | 2,096
@@ -17,32 +17,98 @@ economynextcom | 2,194
 dailyftlk | 2,336
 adalk | 3,325
 adaderanalk | 4,262
-tamilmirrorlk | 4,507
+tamilmirrorlk | 4,508
 dailymirrorlk | 4,733
-virakesarilk | 5,762
+virakesarilk | 5,765
 adaderanasinhalalk | 6,176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,779 (100.0%) of 36,781 articles have been extended.
+36,781 (100.0%) of 36,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### ශ්‍රීලනිප අර්බුදයට අදාළ තවත් නඩුවක නියෝගයක් හෙට
+### யாழ். மாவட்ட காணாமல் ஆக்கப்பட்டோரின் உறவினரின் சங்கத்தின் புதிய நிர்வாகம்
+
+*2024-07-23 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189187) · `ta`
+
+வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் யாழ். மாவட்ட சங்கத்தின் புதிய நிர்வாக தெரிவு இன்று செவ்வாய்க்கிழமை (23) இடம்பெற்றது.
+
+யாழ்ப்பாணம் பிரதான வீதியில் உள்ள கலைத்தூது மண்டபத்தில் இடம்பெற்ற நிர்வாக தெரிவில் செயலாளராக நி.மேரி ரஞ்சினியும், தலைவைராக சிவபாதம் இளங்கோதையும், உப தலைவராக சு. கஜேந்திரனும் உப செயலாளராக புஸ்பலதாவும், பொருளாளராக விஜயபாமாவும் ஏக மனதாக தெரிவு செய்யப்பட்டனர்.
+
+வலிந்து காணாமல் ஆக்கப்பட்டோருக்கு நீதி கோரி தொடரும் பயணத்தினை தொடர்ந்தும் தாம் முன்னெடுத்து செல்ல உள்ளதாகவும், தம் மீது சர்வதேச நாடுங்கள் கரிசனை கொண்டு, தமக்கான நீதியினை பெற்று தர வேண்டும் என புதிய தலைவராக தெரிவு செய்யப்பட்ட சி.இளங்கோதை தெரிவித்தார்.
+
+◼️
+
+[Data](articles/75822e2c.json)
+
+---
+
+### Another case pertaining to the SLFP crisis tomorrow
 
 *2024-07-23 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199127) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා විසින් ඉදිරිපත් කර ඇති පැමිණිල්ලට මැදිහත්වීමට අවසර දෙන ලෙස අමාත්‍ය ලසන්ත අලගියවන්න මහතා විසින් කළ ඉල්ලීම සම්බන්ධයෙන් තීරණයක් ලබා දෙන තුරු එම නඩුවේ තීන්දුව ප්‍රකාශයට පත් කිරීම අත්හිටුවන්නේ ද? නැද්ද? යන නියෝගය හෙට (24) දින ප්‍රකාශයට පත් කරන බව කොළඹ දිසා අධිකරණය අද (23) නියෝග කළේය.
+Minister Lasantha Alagawanna faces suspension pending his intervention in a complaint by MP Dayasiri Jayasekara regarding disciplinary action against himself as SLFP General Secretary. The Colombo District Court issued this order.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහලේකම් ලෙස කටයුතු කළ තමාට  එරෙහිව විනය ක්‍රියාමාර්ග ගැනීමට එම පක්ෂය ගනු ලැබූ තීරණයට එරෙහිව දයාසිරි ජයසේකර මහතා විසින් එම පැමිණිල්ල ඉදිරිපත් කර තිබුණි.
+🟩
+
+Does the decision of Minister Lasantha Alagawanna to be suspended until the decision made by Minister Lasantha Alagawanna to intervene to intervene in the complaint made by MP Dayasiri Jayasekara?Not?The Colombo District Court today (23) ordered the Colombo District Court today.
+
+Dayasiri Jayasekera had lodged a complaint with the decision taken by the party to take disciplinary action against himself as the General Secretary of the SLFP.
 
 ◼️
 
 [Data](articles/c7c62f02.json)
+
+[Extended Data](ext_articles/c7c62f02.ext.json)
+
+---
+
+### சா/த பெறுபேறு: அதிரடி அறிவிப்பு வெளியானது
+
+*2024-07-23 15:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பெறுபேறு-அதிரடி-அறிவிப்பு-வெளியானது/175-340896) · `ta`
+
+நடைபெற்ற 2023/2024 கல்விப் பொதுத் தராதரப் பரீட்சை பெறுபேறுகளை செப்டெம்பர் மாதம் வழங்க பரீட்சை திணைக்களம் தயாராக இருப்பதாக கல்வி அமைச்சர் கலாநிதி சுசில் பிரேம ஜயந்த ஹோமாகமவில் செவ்வாய்க்கிழமை (23)  இடம்பெற்ற நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போ​து தெரிவித்தார்.
+
+◼️
+
+[Data](articles/48c177de.json)
+
+---
+
+### ரணிலுக்காக போராட மொட்டுக் கட்சியின் 12 மாவட்டங்களின்  தலைவர்கள் - ரகசிய கூட்டத்தில் முடிவு
+
+*2024-07-23 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189182) · `ta`
+
+தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவைத் தவிர வேறு ஒருவரை ஜனாதிபதித் தேர்தலில் நிறுத்தினால் அதற்கு எதிராக செயற்பட ஸ்ரீலங்கா பொதுஜன பெரமுனவின் 12 மாவட்டங்களின் தலைவர்கள் தீர்மானித்துள்ளதாக அரசியல் வட்டாரத் தகவல்கள் தெரிவிக்கின்றன.
+
+இது தொடர்பான விசேட கலந்துரையாடலொன்று நேற்று திங்கட்கிழமை (22) இரவு கொழும்பு மலலசேகர மாவத்தையில் உள்ள இராஜாங்க அமைச்சர் ஒருவரின் இல்லத்தில் இடம்பெற்றது.
+
+பெரும்பான்மையினரின் கருத்துக்கு எதிராக சென்று கட்சி வேறு வேட்பாளரை நியமித்தால் தற்போதைய ஜனாதிபதி  ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்க தீர்மானித்துள்ளதாக அங்கு அவர்கள் முடிவு செய்தனர்.
+
+அதற்காக அவர்கள் தற்போது பாராளுமன்றத்தை பிரதிநிதித்துவப்படுத்தும் ஏறக்குறைய 75  மொட்டுக் கட்சி பாராளுமன்ற உறுப்பினர்களின் ஆதரவை பெற்றுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/8ee6399e.json)
+
+---
+
+### திருகோணமலை நகராட்சி மன்ற செயலாளரின் இடமாற்றம் தொடர்பாக எழுத்தாணை மனுமீதான வழக்கு விசாரணை
+
+*2024-07-23 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189177) · `ta`
+
+திருகோணமலை நகராட்சி மன்ற செயலாளரின் இடமாற்றம் தொடர்பாக திருகோணமலை மேல் நீதிமன்றில் தாக்கல் செய்யப்பட்டிருந்த எழுத்தாணை மனுமீதான வழக்கு விசாரணை இன்று செவ்வாய்க்கிழமை (23) மேல் நீதிமன்ற நீதிபதி என்.எம்.எம். அப்துல்லா அவர்களின் முன்னிலையில் விசாரணைக்காக எடுத்துக் கொள்ளப்பட்டது.
+
+குறித்த மனுவை வெள்ளையன் இராஜசேகர் சார்பாக பதிவுசெய்யப்பட்ட சிரேஷ்ட சட்டத்தரணி அனீப் லெப்பை தாக்கல் செய்திருந்தார். இதன்போது குறித்த இடமாற்றமானது சட்டரீதியற்ற முறையிலும் பழிவாங்கும் வகையில் இடம்பெற்றிருப்பதாகவும், இது நேர்மையாக பணியாற்றிவந்த அரச ஊழியருக்கு இழைக்கப்பட்ட அநீதி எனவும் குறித்த இடமாற்றத்தை இரத்துச் செய்யுமாறு கோரி மனுதாரர் சார்பாக தனது சமர்ப்பணங்களை முன்வைத்தார். இதன்போது இரு தரப்பு வாதங்களையும் கவனத்தில் எடுத்துக் கொண்ட நீதிபதி எதிர்வரும் ஆகஸ்ட் மாதம் 8ஆம் திகதி குறித்த வழக்கினை அழைக்க திகதியிட்டதுடன் எதிராளிகளாக பெயர் குறிப்பிடப்பட்டுள்ள உரிய தரப்பினரை குறித்த திகதியில் நீதிமன்றில் முன்னிலையாகுமாறும் அழைப்பாணை விடுத்திருந்தார்.
+
+...
+
+[Data](articles/331a70d5.json)
 
 ---
 
@@ -616,19 +682,27 @@ They were then handcuffed to the Kalutara South in a three-wheeler and brought t
 
 ---
 
-### රාජ්‍ය සේවයේ වැටුප් විෂමතා සෙවීමට පත් කළ කමිටුව යෝජනා කැඳවීම අරඹයි
+### Committee appointed to find salary anomalies in the public service begins proposals
 
 *2024-07-23 13:09:27* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-වැටුප්-විෂමතා-සෙවීමට-පත්-කළ-කමිටුව-යෝජනා-කැඳවීම-අරඹයි/11-410936) · `si`
 
-රාජ්‍ය සේවයේ වැටුප් විෂමතාවන් සම්බන්ධයෙන් කටයුතු කිරීම සඳහා පත්කරන ලද විශේෂඥ කමිටුව වෙත වැටුප් හා දීමනා සංශෝධන සඳහා යෝජනා කැඳවීම ඇරඹේ.
+A committee tasked with identifying salary discrepancies in the public sector has started accepting proposals. Interested parties can download the application form from www.presidentsoffice.gov.lk and submit it via email or WhatsApp within two weeks. Proposals must adhere to the guidelines available on the President's official website. Soft copies are acceptable; however, hard copies can also be sent to the Presidential Secretariat if necessary.
 
-අදාළ අයදුම් පත්‍රය ජනාධිපති කාර්යාලයේ නිල වෙබ් අඩවිය වන www.presidentsoffice.gov.lk මඟින් බාගත කර ගත හැකි අතර සියළු යෝජනා MS Word හි font 12 – Iskoola Pota අකුරු මඟින් සකස් කොට එහි PDF ආකෘතියෙහි මෘදු පිටපතක් පමණක් saec@presidentsoffice.lk යන විද්‍යුත් තැපැල් ලිපිනයට 2024-08-09 දිනට හෝ එදිනට පෙර යොමු කළ යුතුය.
+🟩
 
-යෝජනා කරන තනතුර හැර වෙනත් තනතුරු සඳහා ද යෝජනා ගෙන එන්නේ නම් වෙන වෙනම ආකෘති පත්‍ර සම්පූර්ණ කොට ඒ සඳහා වන සාධාරණීකරණ වාර්තා ජනාධිපති කාර්යාලයේ නිල වෙබ් අඩවිය වන www.presidentsoffice.gov.lk මඟින් බාගත කර ගන්නා ඇමුණුම් 01 ආකෘතියට අනුව සම්පූර්ණ කළ යුතු වේ.
+Salaries of Salaries and Allowance to the Specialist Committee appointed to deal with anomalies in the public service begins.
+
+Relevant application form can be downloaded by www.presidentsoffice.gov.lk and soft copy of the MS Word 12 - iskoola Pota fonts, the soft mails of the MS WordThe address should be referred to the same day or day.
+
+If the proposals are being brought to any posts other than the post-proposal, the facts of the President's official website should be completed in accordance with the number of Annex 01, www.presidentsoffice.gov.lk.
+
+Providing soft copies of the relevant information is sufficient and only if it is necessary to give a rigid copy, "Special Experts, the Presidential Secretariat, the Presidential Secretariat, Galle Face, Colombo 01" address 2024-08Can be brought to the date or hand by registered post or by previous date.
 
 ...
 
 [Data](articles/c3a07a82.json)
+
+[Extended Data](ext_articles/c3a07a82.ext.json)
 
 ---
 
@@ -1478,6 +1552,18 @@ R. Sampanthan MP, the accredited Tamil political leader for the last fifteen yea
 
 ---
 
+### Ranil As The Pohottuwa Presidential Candidate
+
+*2024-07-23 10:27:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-as-the-pohottuwa-presidential-candidate/) · `en`
+
+President Ranil Wickremesinghe (RW) was appointed to that position through the votes of the Sri Lanka Podujana Peramuna (Pohottuwa) MPs in Parliament in a situation where the restoration of law and order was the main issue at hand. He has fulfilled that task exceptionally well. His task was made easier because the so called aragalaya sought only the removal of President Gotabaya Rajapaksa from power. When President Gotabaya resigned, large segments of the aragalaya crowds simply melted away. The UNP’s own activists in the aragalaya, the foreign funded NGOs, the Tamil and Muslim groups, the Christian and Catholic groups all left the Galle Face protest site. Hence only a residual group of activists remained at Galle Face to be chased away by President Wickremasinghe within hours of being sworn into office.
+
+...
+
+[Data](articles/7781a481.json)
+
+---
+
 ### Politicians at Urumaya public meetings
 
 *2024-07-23 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189139) · `ta`
@@ -2305,133 +2391,5 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 [Data](articles/151b969d.json)
 
 [Extended Data](ext_articles/151b969d.ext.json)
-
----
-
-### Colombo 7 a body of death
-
-*2024-07-23 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199101) · `si`
-
-A 33-year-old man was found dead in a three-wheeler near Colombo's National Dental Hospital early on March 23rd. The vehicle, registered under the Department of Motor Traffic, belonged to a resident of Middeniya. The driver, upon inquiry, stated that he had picked up the victim, also aged 33, named Hylor, from a location known as Colombo 7.
-
-🟩
-
-The body of a person who was killed in a three-wheeler in Ward Place, had found a body of a person who was killed and killed.
-
-Police said that it was about 33 years old.
-
-The three-wheeler was found near the National Dental Hospital at around 1 am today (23).
-
-Later, it was revealed that the three-wheeler was conducted by the Department of Motor Traffic and was revealed that a resident of Middeniya.
-
-Inquiring the matter from the man, he has said that the three-wheeler had been given the three-year-old-one 33-year-old Hylor.
-
-◼️
-
-[Data](articles/069f5074.json)
-
-[Extended Data](ext_articles/069f5074.ext.json)
-
----
-
-### Be careful - a red announcement from the weather
-
-*2024-07-23 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199100) · `si`
-
-A critical weather warning was issued by the Meteorology Department at 3:00 am, affecting the Bay of Bengal region and several districts including Kandy, Nuwara Eliya, Galle, Matara, and possibly the North Western province. It warns of strong winds ranging from 30-55 mph, especially in the western-central hill regions and the northern provinces.
-
-🟩
-
-The Department of Meteorology was issued by the Met Department of the Meteorology.
-
-The Meteorology Department states that the announcement was issued at 3.00 am this morning.
-
-The announcement states that the multi-day fishing and naval community acting in the Bay of Bay of Bengal.
-
-Meanwhile, the Met Department forecasts the Kandy, Nuwara Eliya, Galle and Matara districts to the Western and Sabaragamuwa provinces.
-
-The department states that the North Western province is possible.
-
-Meanwhile, in the West-backed areas of the central hills and in the North, North, North Central and North Western provinces is now at times.. Strong winds are about 50-55.
-
-From time to time in the rest of the island.. The Met Department further stated that strong winds can occur 30-40 times.
-
-◼️
-
-[Data](articles/6a143285.json)
-
-[Extended Data](ext_articles/6a143285.ext.json)
-
----
-
-### Lankan film industry, a victim of the black jule
-
-*2024-07-23 05:36:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjm94ve8pwno) · `si`
-
-In 1983, the Sri Lankan film industry suffered significant losses during the "Black July" violence, which targeted Tamil communities. Thousands died, and properties worth billions were destroyed. Notably affected were individuals like Sivadason, now in Canada, who worked at Vijaya Studios. His home and workplace were devastated, with valuable equipment and films lost. This event marked a profound setback for Sri Lankan cinema, leading many Tamil film professionals to leave the country.
-
-🟩
-
-"We caught Glauses, which were blown to pieces, which were put into pieces that were put into pieces, and shedding the used Nettevis.. What's in our house has taken all, but I didn't come so sad. "
-
-Forty-four years ago, it was a victim of violence against the Tamil people who were gathered in July a year ago. Sivadason was in the country's film industry and was reported in the film industry in the country's film industry.
-
-Thousands of people were killed in notorious polls called "Black July", which began on July 23, 1983 and the property, including billions, was burned.
-
-Meanwhile, the Tamil people, who were involved in the film industry were also laboratories under the cinema as well as Tamil ownership. The destruction of Sri Lankan cinema was a loss.
-
-Sivadasan, who is currently living in Canada, has been employed as the main controller of the Vijaya Studios in Wattala.
-
-...
-
-[Data](articles/8cb5581b.json)
-
-[Extended Data](ext_articles/8cb5581b.ext.json)
-
----
-
-### My Family’s “Black July” Experience: A Personal Memoir.
-
-*2024-07-23 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84405) · `en`
-
-The anti-Tamil pogrom of July 1983 is an unforgettable chapter in the post-independence history of Sri Lanka.  The catastrophic events of that dark month  drastically affected  the lives of large numbers of Tamils in Sri Lanka.
-
-As a Sri Lankan Tamil journalist, Black July did have an effect on me in both personal and professional capacities. Furthermore my family – like thousands of other Tamil families – was also affected and displaced during those turbulent times.
-
-Although I have been writing  extensively about Black July in the past, I did not write about those happenings from a personal perspective  for many,many years.
-
-I  refrained for a long time  from writing about the impact of Black July on our family for two reasons. Firstly I was spared the full blast of that violence because I was not in Colombo then. I was on assignment to cover the Tamil United Liberation Front (TULF) party convention in Mannar.
-
-...
-
-[Data](articles/e547085f.json)
-
-[Extended Data](ext_articles/e547085f.ext.json)
-
----
-
-### 455 697 applications in the second phase of 455 697 applications without bank accounts
-
-*2024-07-23 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/189121) · `ta`
-
-The second phase of the Aswesa Project received 4,55,697 applications, with the review process nearing completion by the end of this month. Despite selecting 18,54,518 beneficiaries in the first phase, around 2 lakh lacked necessary documents, hindering allowance disbursement. The project aims to assist low-income individuals, allocating financial aid based on categories like poverty level and age, with officers collecting data from applicant homes. Challenges include beneficiaries lacking bank accounts and national identity cards, affecting approximately 2.35 lakh individuals' ability to receive funds.
-
-🟩
-
-4 lakhs 55 697 applications have been received in the second phase. Welfare Benefits Council Chairman Jayantha Wijeratne said that the process of reviewing them is expected to be completed by the end of this month.
-
-Jayantha Wijeratne said that although 18 lakhs 54 518 beneficiaries were selected in the first phase, about 2 lakh beneficiaries were unable to obtain their allowances due to lack of national identity cards and bank accounts.
-
-He further stated at a press conference held at the Presidential Media Center on Monday (22).
-
-More than 34 million applications for the first phase of the Aswesa Project were eligible for 1,854,518 benefits to benefit. Of them, 30 percent of the low -income earners were given financial assistance under 4 categories.
-
-5000 rupees for beneficiaries in the affected category and Rs.. This section was initially given only until last March. But in view of the current economic status, it has been decided to pay a allowance of Rs.
-
-...
-
-[Data](articles/a68a5362.json)
-
-[Extended Data](ext_articles/a68a5362.ext.json)
 
 ---

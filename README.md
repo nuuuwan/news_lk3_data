@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 11:20:08**
+As of **2024-07-23 11:36:02**
 
 ## Newspaper Stats
 
-*Scraped **36,703** Articles*
+*Scraped **36,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,191
 dailyftlk | 2,336
 adalk | 3,315
 adaderanalk | 4,254
-tamilmirrorlk | 4,482
+tamilmirrorlk | 4,484
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,163
+adaderanasinhalalk | 6,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,702 (100.0%) of 36,703 articles have been extended.
+36,703 (100.0%) of 36,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### කරාතේ ශූරයා දිවයිනට
+
+*2024-07-23 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199115) · `si`
+
+දකුණු ආසියාතික හා ආසියාතික කරාතේ ශූරතා තරගාවලියේ වයස අවුරුදු 16/17 කාණ්ඩයේ පිරිමි කුම්තේ ඉසව්ව නියෝජනය කළ අම්බලන්ගොඩ ගා/ශ්‍රී දේවානන්ද විද්‍යාලයේ ඩබ්ලිව්. බාසුරු විරාජිත ද සිල්වා ක්‍රීඩකයා තරගයේ තුන්වන ස්ථානය හිමි කර ගනිමින් ලෝකඩ පදක්කමක් දිනා ගැනීමට සමත්ව තිබේ.
+
+ලක් මාතාවට ගෞරවයක් ලබා දෙමින් ලෝකඩ පදක්කම දිනූ බාසුරු ඊයේ (22) සවස කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළින් දිවයිනට පැමිණියේය.
+
+දකුණු ආසියාතික හා ආසියාතික කරාතේ ශූරතා තරගාවලිය පසුගිය ජූලි 17 වන දින සිට 21 වන දින දක්වා භූතානයේදී පැවැත්වුණි.
+
+2024 ශ්‍රී ලංකා කරාතේ දෝ සම්මේලනය මඟින් පවත්වන ලද විවෘත කරාතේ ශූරතා තරගාවලියේ වයස අවුරුදු 16/17 කාණ්ඩයේ කුම්තේ ඉසව්වේ රන් පදක්කම හිමි කර ගැනීමට බාසුරු විරාජිතට හැකි වී තිබුණි.
+
+එම ජයග්‍රහණය සමඟ ඔහුට ශ්‍රී ලංකා කරාතේ පුහුණු සංචිතයට ඇතුළත් වීමට සහ ශ්‍රී ලංකා කරාතේ ජාතික කණ්ඩායම නියෝජනය කිරීමට ද අවස්ථාව හිමිව තිබේ.
+
+◼️
+
+[Data](articles/8f5c3191.json)
+
+---
+
+### කේ. සුජීවා රෝහලෙන් පිටව යයි
+
+*2024-07-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199114) · `si`
+
+වෙඩි ප්‍රහාරයකට ලක්ව කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටි ගායන ශිල්පිණී කේ.සුජීවා මහත්මිය රෝහලෙන් පිටව ගොස් තිබේ.
+
+පසුගිය 8 වන දින අතුරුගිරිය ප්‍රදේශයේ ටැටූ ආයතනයක් විවෘත කිරීමට පැමිණි අවස්ථාවේ නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු සිදුකළ වෙඩි ප්‍රහාරයකින් සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකු මියගියේය.
+
+එහිදි ගායන ශිල්පිණී කේ. සුජීවා ඇතුළු සිව්දෙනෙකු තුවාල ලැබු අතර ඔවුන් ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට සහ කළුබෝවිල ශික්ෂණ රෝහලට ඇතුළත් කෙරුණි.
+
+එහිදි කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටි කේ. සූජීවාගේ සැත්කම් කිහිපයකින් අනතුරුව මුදල් ගෙවා ප්‍රතිකාර කිරීම් සිදුකරනු ලබන වාට්ටුවක ප්‍රතිකාර ලැබු අතර මේ වන විට ඇය රෝහලෙන් පිටව ගොස් ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/4f9bda7f.json)
+
+---
 
 ### High cost for alcoholic beverages and tobacco
 
@@ -80,51 +118,27 @@ Furthermore, he had said: “There is a very tense situation in the eye hospital
 
 ---
 
-### අක්ෂි රෝහලේ වෛද්‍ය වර්ජනය අවසන්
+### The medical strike at the Eye Hospital
 
 *2024-07-23 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199113) · `si`
 
-ජාතික අක්ෂි රෝහලේ වෛද්‍යවරුන් විසින් ආරම්භ කර තිබූ වැඩවර්ජනය මේ වනවිට අවසන් කර තිබේ.
+Doctors at the National Eye Hospital went on strike from the 8th, demanding the removal of the acting director. The strike ended with the government agreeing to their demand.
 
-රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ ප්‍රධාන ලේකම් වෛද්‍ය ප්‍රභාත් සුගතදාස මහතා සඳහන් කර සිටියේ, ජාතික අක්ෂි රෝහලේ වැඩබලන අධ්‍යක්ෂකවරයා ඉවත් කිරීමට රජය තීරණය කර ඇති බැවින් වැඩවර්ජනය අවසන් කළ බවය.
+🟩
 
-ජාතික අක්ෂි රෝහලේ වැඩබලන අධ්‍යක්ෂකවරයා ඉවත් නොකිරීමට විරෝධය පළ කරමින් අද උදෑසන 8 සිට අක්ෂි රෝහලේ වෛද්‍යවරු වැඩවර්ජනය ආරම්භ කර තිබුණි.
+The strike commenced by the doctors of the National Eye Hospital has already been completed.
 
-ඒ අනුව අක්ෂි රෝහලේ හදිසි ප්‍රතිකාර සේවා හැර අනෙකුත් සියලු ප්‍රතිකාර කටයුතු අඬාල වුණි.
+The General Secretary of the Government Medical Officers Association Dr. Prabhath Sugathaasa said the government has decided to remove the acting director of the National Eye Hospital.
+
+The doctors of the Eye Hospital have launched a strike since the 8th of this morning.
+
+Accordingly, the Eye Hospital has cried all other treatments.
 
 ◼️
 
 [Data](articles/e54abbfc.json)
 
----
-
-### Republicans put on show of unity behind Trump after assassination attempt
-
-*2024-07-23 10:38:00* · [`islandlk`](http://island.lk/republicans-put-on-show-of-unity-behind-trump-after-assassination-attempt/) · `en`
-
-The Republican National Convention was held as scheduled from Monday, July 15, in spite of the assassination attempt of Donald Trump the previous Saturday, at a campaign rally in Butler, Pennsylvania. He escaped with minor injuries, but the iconic picture of Trump defiantly doing a fist pump, his bloody ear and face prominent with Old Glory fluttering in the background, conveyed an image that will go down in history – the courageous warrior, fighting for the country he loves, despite the excruciating pain he has suffered all his life with bone spurs.
-
-The shooter, a 20-year-old registered Republican, described as “a very quiet young white man” was a poor marksman. Two inches to the left would have changed the history of the most powerful nation in the world. As Senator Tim Scott said at the Convention, “On Saturday, the Devil came to Pennsylvania with a rifle, but OUR AMERICAN LION GOT UP AND ROOOOARED!
-
-...
-
-[Data](articles/65066ef1.json)
-
-[Extended Data](ext_articles/65066ef1.ext.json)
-
----
-
-### Tamil Leader Sampanthan: Last of a Generation Leaves without Succession
-
-*2024-07-23 10:37:00* · [`islandlk`](http://island.lk/tamil-leader-sampanthan-last-of-a-generation-leaves-without-succession/) · `en`
-
-R. Sampanthan MP, the accredited Tamil political leader for the last fifteen years, passed away on June 30, 2024. I am late in writing this obituary. There have been many commentaries on Sampanthan’s life and politics, including Sanjana Hattotuwa’s excellent cross-sectional summary (in Groundviews) of the commentaries on the late parliamentarian and political leader. Along with citing Meera Srinivasan and Narendra Modi, Dr. Hattotuwa presents what he calls “snapshots from a divided country.” Most of them are from social media, ranging from the laudatory, through critical but not disrespectful, to obscenely insulting commentaries. The last category of comments appeared in Sinhala on Facebook and Twitter. They say more about the social media than the message and should not be taken as representative of the broader Sinhalese society. Mr. Sampanthan would have been the first to emphasize that.
-
-...
-
-[Data](articles/82e6397c.json)
-
-[Extended Data](ext_articles/82e6397c.ext.json)
+[Extended Data](ext_articles/e54abbfc.ext.json)
 
 ---
 

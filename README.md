@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 15:35:46**
+As of **2024-07-23 15:54:23**
 
 ## Newspaper Stats
 
-*Scraped **36,777** Articles*
+*Scraped **36,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,323
-adaderanalk | 4,261
+adalk | 3,324
+adaderanalk | 4,262
 tamilmirrorlk | 4,507
 dailymirrorlk | 4,733
 virakesarilk | 5,762
@@ -26,77 +26,129 @@ adaderanasinhalalk | 6,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,773 (100.0%) of 36,777 articles have been extended.
+36,777 (100.0%) of 36,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### திருகோணமலை நகராட்சி மன்ற செயலாளரின் இடமாற்றம் தொடர்பான மனு மீது விசாரணை
+### Public proposals called to address public sector salary discrepancies
 
-*2024-07-23 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189179) · `ta`
+*2024-07-23 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100723/public-proposals-called-to-address-public-sector-salary-discrepancies) · `en`
 
-திருகோணமலை நகராட்சி மன்ற செயலாளரின் இடமாற்றம் தொடர்பாக திருகோணமலை மேல் நீதிமன்றில் தாக்கல் செய்யப்பட்டிருந்த எழுத்தாணை மனுமீதான வழக்கு விசாரணை இன்று செவ்வாய்க்கிழமை (23) மேல் நீதிமன்ற நீதிபதி என்.எம்.எம்.அப்துல்லாவின் முன்னிலையில் விசாரணைக்காக எடுத்துக் கொள்ளப்பட்டது.
+The committee tasked with addressing salary discrepancies in the public sector has begun accepting suggestions for updating salary benefits.
 
-குறித்த மனுவை வெள்ளையன் இராஜசேகர் சார்பாக பதிவுசெய்யப்பட்ட சிரேஷ்ட சட்டத்தரணி அனீப் லெப்பை தாக்கல் செய்திருந்தார். இதன்போது குறித்த இடமாற்றமானது சட்டரீதியற்ற முறையிலும் பழிவாங்கும் வகையில் இடம்பெற்றிருப்பதாகவும், இது நேர்மையாக பணியாற்றிவந்த அரச ஊழியருக்கு இழைக்கப்பட்ட அநீதி எனவும் குறித்த இடமாற்றத்தை இரத்துச் செய்யுமாறு கோரி மனுதாரர் சார்பாக தனது சமர்ப்பணங்களை முன்வைத்தார்.
+Accordingly, the proposals for revising the salary allowances will be accepted by the committee, the President’s Media Division (PMD) said.
 
-இதன்போது இரு தரப்பு வாதங்களையும் கவனத்தில் எடுத்துக் கொண்ட நீதிபதி எதிர்வரும் ஆகஸ்ட் மாதம் 8ஆம் திகதி குறித்த வழக்கினை அழைக்க திகதியிட்டதுடன், எதிராளிகளாக பெயர் குறிப்பிடப்பட்டுள்ள உரிய தரப்பினரை குறித்த திகதியில் நீதிமன்றில் முன்னிலையாகுமாறும் அழைப்பாணை விடுத்திருந்தார்.
+Interested parties can access the application form on the official website of the President’s Office via http://presidentsoffice.gov.lk.
 
-...
+However, the PMD stated that all proposals must be submitted in PDF format via email to saec@presidentsoffice.lk by August 9, 2024.
 
-[Data](articles/f11c9928.json)
+President Ranil Wickremesinghe recently appointed a committee to address salary discrepancies in the public sector.
+
+The President has instructed the committee to submit its recommendations report within three months, the PMD reported.
+
+◼️
+
+[Data](articles/26a101b6.json)
 
 ---
 
-### பிரான்ஸில் இடம்பெற்ற பிரசிடென்ட் கிளப் மாநாட்டில் பிரகாசித்த AIA இன் செயற்திறனாளர்கள்!
+### Investigating a petition on transfer of Municipal Council Secretary Trincomalee
+
+*2024-07-23 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189179) · `ta`
+
+A petition against the transfer of Trincomalee Municipal Secretary was heard in court, with allegations of illegality and revenge. The case will be reviewed further on August 8th.
+
+🟩
+
+The case filed by the Trincomalee Municipal Secretary in the Trincomalee Municipal Council was taken up for hearing on Tuesday (23) in the presence of High Court Judge NMM Abdullah.
+
+Senior Attorney -at -Law Anim Lepp, who was registered on behalf of the white Rajasekhar. He presented his submissions on behalf of the petitioner demanding the cancellation of the transfer, saying that the transfer was an illegal and revenge and the injustice inflicted on an honest public servant.
+
+Taking note of the two sides, the judge summoned the case on August 8 and summoned the court to appear in court on the date of the relevant parties.
+
+The letter was issued on the day of 24.06.2024 that the Kuchchaveli Pradeshiya Sabha was transferred on the instructions of the Governor of the Eastern Province, who was the Secretary to the Eastern Provincial Council.
+
+◼️
+
+[Data](articles/f11c9928.json)
+
+[Extended Data](ext_articles/f11c9928.ext.json)
+
+---
+
+### AIA's performances at the President's Club Conference in France!
 
 *2024-07-23 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189173) · `ta`
 
-பிரான்சின் கேன்ஸ் நகரில் நடைபெற்ற பிரமாண்டமான AIA பிரசிடென்ட் கிளப் மாநாட்டில் இலங்கையைப் பிரதிநிதித்துவப்படுத்தும் விதமாகக் கலந்து கொண்ட AIA இன்சூரன்ஸின் சிறந்த வெல்த் பிளானர்களுக்கு கலந்து கொண்டனர்.
+AIA Insurance, representing Sri Lanka, showcased its top performers at the prestigious AIA President's Club conference in Cannes, France. This annual event, now in its 12th year, features professionals from around the globe, offering opportunities for growth and networking. Notable attendees included a group of Sri Lankan professionals and senior management from AIA Sri Lanka, highlighting the company's commitment to excellence on the international stage.
 
-இந்த மாநாடானது பொதுவாக உலகெங்கிலும் உள்ள மிகவும் கவர்ச்சியான இடங்களிலேயே நடைபெற்று வருகின்றது. தொடர்ச்சியாக 12 ஆவது வருடமாகவும் இடம்பெறும் இந்நிகழ்வில் இலங்கையின் பங்கேற்பானது உலகளாவிய நிகழ்வில் AIA ஸ்ரீலங்காவின் சிறப்பான நிலையினை வெளிப்படுத்தியிருந்தது.
+🟩
 
-இந்த வருடம் பிரான்சில் இடம்பெற்ற மாநாடானது தொழில்சார் வளர்ச்சி மற்றும் அங்கீகாரத்துடன் உலகின் மிகவும் பரபரப்பான நகரம் ஒன்றின் துடிப்பான ஆற்றலை ஒருங்கிணைத்து ஒரு செழுமையான அனுபவத்தினையே இதில் கலந்து சிறப்பித்தவர்களுக்கு வழங்கியிருந்தது.
+AIA Insurance attended the Best Wealth Plans, who represented Sri Lanka at a massive AIA President's Club conference in Cannes, France.
+
+This conference is usually held in the most attractive places around the world. Sri Lanka's participation in the event, which will be held for the 12th consecutive year, has revealed AIA Sri Lanka's best in the global event.
+
+This year's conference in France, with professional development and recognition, coordinated the vibrant energy of the world's most hectic city and gave them a rich experience.
+
+A group of Sri Lankan professionals, including the managers of the 12 best Wealth Plans and Wealth Plans, were unique in the event, including Sanjeevani Somatna, K Bron, BA Ruwini Chaturangika, W. A. ​​Osaka, Ajith Fernando. Gamini, Krishan Dasanayake, SS Priyantha Dias, Vinol Priyasenarat and Kumari in Hindu were also present.
 
 ...
 
 [Data](articles/be33cdf8.json)
 
+[Extended Data](ext_articles/be33cdf8.ext.json)
+
 ---
 
-### மொட்டுத் தலைவர்கள் 12 பேர் இரகசிய பேச்சு
+### The head of the shafts 12 secret talk
 
 *2024-07-23 15:06:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுத்-தலைவர்கள்-12-பேர்-இரகசிய-பேச்சு/175-340893) · `ta`
 
-ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவைத் தவிர வேறு வேட்பாளர்கள் நிறுத்தப்பட்டால் அதனை எதிர்த்து ஜனாதிபதிக்கு ஆதரவளிக்க ஸ்ரீலங்கா பொதுஜன பெரமுனவின் 12 மாவட்ட தலைவர்கள் தீர்மானித்துள்ளதாக அரசியல் வட்டாரத் தகவல்கள் தெரிவிக்கின்றன.
+Sri Lanka's PA district leaders plan to back President Ranil Wickremesinghe in the upcoming presidential election, even if he isn't nominated by his party. This decision was made during a meeting at a diplomat's home in Colombo. They've also agreed to organize his campaign at the district level.
 
-இது தொடர்பான விசேட கலந்துரையாடல் கொழும்பு மலலசேகர மாவத்தையில் உள்ள இராஜாங்க அமைச்சர் ஒருவரின் இல்லத்தில்  திங்கட்கிழமை (22) இரவு இடம்பெற்றதாக அந்த தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-கட்சி வேறு வேட்பாளரை நியமித்தால், பெரும்பான்மைக் கருத்துக்கு எதிராகச் சென்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவைத் தெரிவிக்க அவர்கள் தீர்மானித்துள்ளனர் என்றும் அறியமுடிகின்றது.
+Political sources say that the 12 district leaders of the Sri Lanka PA have decided to support the President if the candidates are forced to field other than President Ranil Wickremesinghe in the presidential election.
 
-ரணில் விக்கிரமசிங்கவின் தேர்தல் பிரசாரத்தை நடைமுறைப்படுத்துவதற்கு தேவையான அமைப்பு ரீதியான செயற்பாடுகளை மாவட்ட மட்டத்தில் அந்த சபை உறுப்பினர்களுடன் தொடர்பு கொண்டு முன்னெடுப்பதற்கும் தீர்மானிக்கப்பட்டுள்ளதாக அரசியல் வட்டாரங்கள் மேலும் தெரிவிக்கின்றன.
+A special discussion was held on Monday night at the residence of a diplomatic minister in Malalasekara Mawatha, Colombo.
+
+If the party nominates a different candidate, it is also known that they have decided to go against the majority and support President Ranil Wickremesinghe.
+
+Political sources further stated that it has been decided to carry out the necessary organizations to implement Ranil Wickremesinghe's election campaign with the members of the council at the district level.
 
 ◼️
 
 [Data](articles/722eddb1.json)
 
+[Extended Data](ext_articles/722eddb1.ext.json)
+
 ---
 
-### HNB Finance இன் "ஊக்குவிக்கும் அபிவிருத்தி நிதி கல்வியறிவு பட்டறை" குருநாகல் மற்றும் கேகாலையில்
+### HNB Finance's "Promotion Development Financial Literacy Workshop" in Kurunegala and Kegalle
 
 *2024-07-23 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189176) · `ta`
 
-இலங்கையின் முன்னணி நிதி நிறுவனங்களில் ஒன்றான HNB Finance PLC, இந்த வருடத்தின் மூன்றாவது மற்றும் நான்காவது பயிற்சிப் பட்டறை நிகழ்ச்சித் திட்டங்களை குருநாகல் மற்றும் கேகாலை மாவட்டங்களை மையமாகக் கொண்டு அண்மையில் நடத்தியது.
+HNB Finance PLC held its third and fourth workshops of the year in Kurunegala and Kegalle, aiming to boost funding for micro and small entrepreneurs through its Institute Social Responsibility initiative. Led by Anura Udwatta from the Skills Development Department, over 300 entrepreneurs learned about business accounting, loan management, profit sharing, reinvestment, cost management, and innovation. Participants received gifts for creative ideas and a "Financial Knowledge" manual, enhancing their financial literacy.
 
-இதனூடாக நுண் மற்றும் சிறிய அளவிலான தொழில்முனைவோருக்கு நிதியறிவை மேம்படுத்துவதே பிரதான நோக்கமாகும்.
+🟩
 
-HNB Finance இன் நிறுவன சமூகப் பொறுப்புணர்வு அணுகுமுறையின் கீழ் கடந்த சில வருடங்களாக நாட்டின் பல்வேறு மாகாணங்களில் ஏற்பாடு செய்யப்பட்ட நிகழ்ச்சிகளின் மூலம் ஆயிரத்துக்கும் மேற்பட்ட நுண் மற்றும் சிறிய அளவிலான தொழில்முயற்சியாளர்களின் நிதி அறிவை மேம்படுத்த முடிந்துள்ளது.
+HNB Finance PLC, one of Sri Lanka's leading financial institutions, recently conducted the third and fourth workshop of this year with the event of the Kurunegala and Kegalle districts.
 
-HNB Financeஇன் திறன் அபிவிருத்தித் துறைத் தலைவர் அனுர உடவத்த, இந்தத் தொடர் நிதியறிவு நிகழ்ச்சிகளை நடத்தினார், இதில் நுண் மற்றும் சிறிய அளவிலான தொழில்முனைவோர் வணிகக் கணக்கு பராமரிப்பு, கடன் நிர்வகிப்பு, இலாபத்தின் ஒரு பகுதியை மீள் முதலீடு செய்தல், வணிக செலவு நிர்வகிப்பு மற்றும் புதிய கண்டுபிடிப்புகள் பற்றி அறிந்து கொண்டனர்.
+The main objective is to improve funding for micro and small entrepreneurs.
+
+Under the HNB Finance's Institute Social Responsibility approach, the events have been organized in various provinces in various provinces of the country for the past few years.
+
+HNB Finance's Skills Development Department, Anura Udwatta, hosted these series of financial events, in which the micro and small -scale entrepreneurs learned about business accounting, loan management, a portion of the profit, re -investment, business cost management and new innovations.
+
+More than 300 entrepreneurs attended two recent events. HNB Finance has also organized gifts to the entrepreneurs who presented the most creative ideas among the entrepreneurs who participated in these events.
 
 ...
 
 [Data](articles/68fe0885.json)
+
+[Extended Data](ext_articles/68fe0885.ext.json)
 
 ---
 
@@ -1518,6 +1570,22 @@ The plantation community of our country has a history of over 200 years in our c
 
 ---
 
+### ජනාධිපති සන්නද්ධ හමුදා කැඳවයි
+
+*2024-07-23 10:08:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-410929) · `si`
+
+දිවයිනේ පරිපාලන දිස්ත්‍රික්ක විසි පහේම මහජන සාමය පවත්වාගෙන යාම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඊයේ (22) සිට ක්‍රියාත්මක වන පරිදි  යුධ ,ගුවන් සහ නාවික යන සන්නද්ධ හමුදාවල සියලුම සාමාජිකයන්  කැඳවා ඇත.
+
+ඒ අනුව කොළඹ ,ගම්පහ සහ කලුතර ඇතුළු මුහුද ආශ්‍රිත දිස්ත්‍රික්ක 14 ක හා ඒවාට යාබද  දේශීය ජල තීරයන්වල සහ අභ්‍යන්තර දිස්ත්‍රික්ක 11 ක මහජන සාමය පවත්වාගෙන යාමට මෙලෙස සන්නද්ධ හමුදා කැඳවා තිබේ.
+
+මෙම කැඳවීම පිළිබඳව අති විශේෂ ගැසට් නිවේදනය ඊයේ (22) දින නිකුත් කෙරිණි .
+
+◼️
+
+[Data](articles/0979789d.json)
+
+---
+
 ### Penalties be up
 
 *2024-07-23 10:04:25* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-වැරදි-කීහිපයක--දඩ-මුදල්-ඉහලට/11-410928) · `si`
@@ -2375,49 +2443,5 @@ He said this at a special media briefing held at the Presidential Media Center y
 [Data](articles/aea36ac5.json)
 
 [Extended Data](ext_articles/aea36ac5.ext.json)
-
----
-
-### Appoint 16,000 teachers
-
-*2024-07-23 01:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-000-ஆசிரியர்கள்-நியமனம்/175-340861) · `ta`
-
-Despite an economic crisis, Sri Lanka's Education Minister announced 16,000 new teacher appointments nationwide and resumed development projects funded by foreign aid in universities. The government also aims to resolve teacher professional issues, potentially leading to immediate salary increases.
-
-🟩
-
-Education Minister Susil Premajayantha said that the government has given a solution to the shortage of teachers by giving 16,000 teacher appointments at the national and provincial level despite the economic crisis.
-
-Education Minister Susil Premjayantha said this at a media briefing held at the Presidential Media Center yesterday. He is further,
-
-Development work that has been launched under foreign assistance in universities has been resumed. It must be said that this is very important to the university structure and the construction sector.
-
-...
-
-[Data](articles/7d7b6f3e.json)
-
-[Extended Data](ext_articles/7d7b6f3e.ext.json)
-
----
-
-### Interest free credit for agriculture
-
-*2024-07-23 01:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயத்திற்கு-வட்டியில்லா-கடன்/175-340860) · `ta`
-
-An MoU was signed to provide interest-free loans to agri-entrepreneurs and farmers as part of an agricultural modernization program. The initial phase saw the involvement of the Ministry of Agriculture, Bank of Ceylon, and Divisional Development Bank, with plans to also involve the People's Bank. This program aims to allocate funds for modernizing agriculture, starting with 75 Divisional Secretariats for projects valued at 10 million rupees.
-
-🟩
-
-The Memorandum of Understanding (MoU) on the process of providing interest -free loans to agricultural entrepreneurs and farmers under the agricultural modernization program was signed yesterday.
-
-In the first phase, the Secretary to the Ministry of Agriculture and Plantation Industries, Janaka Dharmakirti, signed these Memorandum of Understanding (MoU) along with the Bank of Ceylon and the Divisional Development Bank, which contributes to this program.. Accordingly, the contract with the people's bank is to be signed in the future.
-
-The first phase of the Agricultural Modernization Program has been allocated Rs.. In the second phase, 75 Divisional Secretariats have been identified to implement agricultural modernization projects worth 10 million rupees.. (A)
-
-◼️
-
-[Data](articles/264d3515.json)
-
-[Extended Data](ext_articles/264d3515.ext.json)
 
 ---

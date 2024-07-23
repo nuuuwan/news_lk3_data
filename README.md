@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 21:55:51**
+As of **2024-07-23 22:09:21**
 
 ## Newspaper Stats
 
-*Scraped **36,834** Articles*
+*Scraped **36,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
-adalk | 3,336
+adalk | 3,337
 adaderanalk | 4,266
 tamilmirrorlk | 4,511
 dailymirrorlk | 4,733
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,833 (100.0%) of 36,834 articles have been extended.
+36,834 (100.0%) of 36,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### කොළඹ වෝඩ් පෙදෙස ඝාතනය ගැන තවත් තොරතුරු
+### More information on Ward Place in Colombo
 
 *2024-07-23 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199136) · `si`
 
-කොළඹ වෝඩ් පෙදෙසේ නවතා තිබූ ත්‍රීරෝද රථයක තිබී තියුණු ආයුධවලින් පහරදී ඝාතනය කළ පුද්ගල මළසිරුරක් අද (23) අලුයම පොලීසිය විසින් සොයාගනු ලැබීය.
+In Colombo, Ward Place saw a fatal incident where a person died in a three-wheeler accident. Two suspects involved in the murder case were later discovered fleeing in another three-wheeler.
 
-විමර්ශනවලදී අනාවරණවී ඇත්තේ තවත් ත්‍රීරෝද රථයකින් පැමිණි දෙදෙනෙක් මෙම ඝාතනය සිදුකර පළාගොස් ඇති බවය.
+🟩
+
+A person who was killed in a three-wheeler in Ward Place, Colombo was found this morning.
+
+Investigations revealed that two were revealed in another three-wheeler and had fled the murder.
 
 ◼️
 
 [Data](articles/afd68d09.json)
+
+[Extended Data](ext_articles/afd68d09.ext.json)
 
 ---
 
@@ -363,6 +369,22 @@ It is noteworthy that the rescue personnel are continuing to rescue people affec
 [Data](articles/dd27e41c.json)
 
 [Extended Data](ext_articles/dd27e41c.ext.json)
+
+---
+
+### වර්ජනවලදී විදෙස් සංචාරකයන් සඳහා හෝ විශේෂ දුම්රියක් යෙදවීමට උපදෙස්
+
+*2024-07-23 18:29:36* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනවලදී-විදෙස්-සංචාරකයන්-සඳහා-හෝ-විශේෂ-දුම්රියක්-යෙදවීමට-උපදෙස්/11-410945) · `si`
+
+විවෘත සහ වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව වසරකට අධික කාලයක් තුළ රාජ්‍ය ආයතනවලට කැඳවීම් සිදුකර ලබා දුන් නිර්දේශ ක්‍රියාත්මක කිරීම මෙන්ම විවෘත සහ වගකීමෙන් යුතු මහජන සේවයක් ලබා දීමට අදාළ අංක 27/2023 දරන රාජ්‍ය පරිපාලන චක්‍රලේඛයට අනුව කටයුතු කිරීම සෑම රාජ්‍ය ආයතනයකම වගකීමක් බව එම කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී  ජගත් කුමාර සුමිත්‍රාරච්චි මහතා පසුගියදා අවධාරණය කළේය.
+
+විවෘත සහ වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදී කාරක සභා සභාපතිවරයා මේ බව පැවසීය.
+
+රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු , පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය, අධ්‍යාපන අමාත්‍යාංශය, බස්නාහිර පළාත් සභාව, ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශය, ජනමාධ්‍ය අමාත්‍යාංශය සහ මැතිවරණ කොමිෂන් සභාව යන ආයතනවලට ලබා දී ඇති නිර්දේශ ක්‍රියාත්මක කිරීමේ ප්‍රගතිය පිළිබඳව විමර්ශනය සදහා එම ආයතනවල ඉහළ නිලධාරීන් මෙම කාරක සභාවට කැඳවා තිබිණි.
+
+...
+
+[Data](articles/252df15c.json)
 
 ---
 
@@ -2389,29 +2411,5 @@ In May, Fitch Ratings Lanka Ltd assigned a ‘BBB+(lka)’ rating for the compan
 [Data](articles/10070004.json)
 
 [Extended Data](ext_articles/10070004.ext.json)
-
----
-
-### K. The Sujeewa leaves the hospital
-
-*2024-07-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199114) · `si`
-
-Sujeewa, a cartoonist from Sri Lanka known as "Sinoler," was hospitalized after an attack by unidentified gunmen during the opening of a tuk-tuk service in Athurugiriya. He and four others were injured and admitted to Colombo National and Kalubowila hospitals. Following surgery, his treatment continued, funded by well-wishers.
-
-🟩
-
-The Sinoler Cartoonist Ceylon Hospital receiving treatment at the Colombo National Hospital has left the hospital.
-
-At the time of the opening of a tatgal institution in Athurugiriya, two unidentified gunmen, was shot dead.
-
-The singing of the singing. Four Sujeewa and four others were injured and admitted to the Colombo National Hospital and the Kalubowila Teaching Hospital.
-
-K. of Colombo National Hospital. After several surgeries of Sujeewa, they were treated at a wel being paid and the treatment of the hospital.
-
-◼️
-
-[Data](articles/4f9bda7f.json)
-
-[Extended Data](ext_articles/4f9bda7f.ext.json)
 
 ---

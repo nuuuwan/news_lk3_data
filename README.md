@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 10:54:13**
+As of **2024-07-23 11:06:35**
 
 ## Newspaper Stats
 
-*Scraped **36,699** Articles*
+*Scraped **36,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,191
 dailyftlk | 2,336
-adalk | 3,314
-adaderanalk | 4,253
-tamilmirrorlk | 4,481
+adalk | 3,315
+adaderanalk | 4,254
+tamilmirrorlk | 4,482
 dailymirrorlk | 4,733
 virakesarilk | 5,745
 adaderanasinhalalk | 6,162
@@ -26,11 +26,81 @@ adaderanasinhalalk | 6,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,697 (100.0%) of 36,699 articles have been extended.
+36,697 (100.0%) of 36,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### மதுபானங்கள் மற்றும் புகையிலைக்கு அதிக செலவு
+
+*2024-07-23 10:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானங்கள்-மற்றும்-புகையிலைக்கு-அதிக-செலவு/175-340873) · `ta`
+
+தேசிய நுகர்வோர் விலைச் சுட்டெண்ணின்படி மே மாதத்தில் பதிவாகியிருந்த 1.6 சதவீதத்திலிருந்து ஜூன் மாதத்தில் இலங்கையின் பணவீக்கம் 2.4 சதவீதமாக அதிகரித்துள்ள நிலையில், போக்குவரத்து, மதுபானங்கள் மற்றும் புகையிலைக்கு அதிக செலவு செய்ய நிர்ப்பந்திக்கப்பட்டதாகத் தெரிகிறது.
+
+இந்த காலகட்டத்தில் போக்குவரத்து வகை பணவீக்கம் 6.9 சதவீதத்தில் இருந்து 7.5 சதவீதமாக அதிகரித்துள்ளது,
+
+அதேவேளை,  ஹோட்டல்கள் மற்றும் உணவகங்கள் பிரிவில் 4.9 சதவீதத்தில் இருந்து 4.3 சதவீதமாக குறைந்துள்ளது.
+
+மதுபானங்கள் மற்றும் புகையிலை வகைகளில் பணவீக்கம் 26.6 சதவீதத்தில் இருந்து 27. 1 சதவீதமாக உயர்ந்துள்ளது.
+
+மே மாதத்தில் 0.5 சதவீதமாக இருந்த உணவு வகை பணவீக்கம் ஜூன் மாதத்தில் 1.9 சதவீதமாக உயர்ந்துள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+
+மேலும், உணவு அல்லாத பிரிவில் பணவீக்கம் 2.4 சதவீதத்தில் இருந்து 2.7 சதவீதமாக உயர்ந்துள்ளது. இருப்பினும், இந்த காலகட்டத்தில் தண்ணீர், மின்சாரம் மற்றும் எரிவாயு செலவு குறைந்துள்ளது
+
+◼️
+
+[Data](articles/4b86df5d.json)
+
+---
+
+### New Director appointed to Eye Hospital after doctors threaten to strike
+
+*2024-07-23 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100715/new-director-appointed-to-eye-hospital-after-doctors-threaten-to-strike) · `en`
+
+A new Director has been appointed to the National Eye Hospital, following the warnings from doctors that they would resort to a strike action demanding the removal of the Acting Director of the hospital from his position.
+
+The Government Medical Officers’ Association (GMOA) had previously stated that they would launch a trade union action protesting against the Acting Director of National Eye Hospital.
+
+Media Spokesman of the association Dr Chamil Wijesinghe said that they made a request to the relevant authorities this morning (23) to oust the Acting Director from his position.
+
+Furthermore, he had said: “There is a very tense situation in the eye hospital. This person [the Acting Director] does not behave in a way that suits his position at all.”
+
+◼️
+
+[Data](articles/8155347d.json)
+
+---
+
+### Republicans put on show of unity behind Trump after assassination attempt
+
+*2024-07-23 10:38:00* · [`islandlk`](http://island.lk/republicans-put-on-show-of-unity-behind-trump-after-assassination-attempt/) · `en`
+
+The Republican National Convention was held as scheduled from Monday, July 15, in spite of the assassination attempt of Donald Trump the previous Saturday, at a campaign rally in Butler, Pennsylvania. He escaped with minor injuries, but the iconic picture of Trump defiantly doing a fist pump, his bloody ear and face prominent with Old Glory fluttering in the background, conveyed an image that will go down in history – the courageous warrior, fighting for the country he loves, despite the excruciating pain he has suffered all his life with bone spurs.
+
+The shooter, a 20-year-old registered Republican, described as “a very quiet young white man” was a poor marksman. Two inches to the left would have changed the history of the most powerful nation in the world. As Senator Tim Scott said at the Convention, “On Saturday, the Devil came to Pennsylvania with a rifle, but OUR AMERICAN LION GOT UP AND ROOOOARED!
+
+...
+
+[Data](articles/65066ef1.json)
+
+[Extended Data](ext_articles/65066ef1.ext.json)
+
+---
+
+### Tamil Leader Sampanthan: Last of a Generation Leaves without Succession
+
+*2024-07-23 10:37:00* · [`islandlk`](http://island.lk/tamil-leader-sampanthan-last-of-a-generation-leaves-without-succession/) · `en`
+
+R. Sampanthan MP, the accredited Tamil political leader for the last fifteen years, passed away on June 30, 2024. I am late in writing this obituary. There have been many commentaries on Sampanthan’s life and politics, including Sanjana Hattotuwa’s excellent cross-sectional summary (in Groundviews) of the commentaries on the late parliamentarian and political leader. Along with citing Meera Srinivasan and Narendra Modi, Dr. Hattotuwa presents what he calls “snapshots from a divided country.” Most of them are from social media, ranging from the laudatory, through critical but not disrespectful, to obscenely insulting commentaries. The last category of comments appeared in Sinhala on Facebook and Twitter. They say more about the social media than the message and should not be taken as representative of the broader Sinhalese society. Mr. Sampanthan would have been the first to emphasize that.
+
+...
+
+[Data](articles/82e6397c.json)
+
+[Extended Data](ext_articles/82e6397c.ext.json)
+
+---
 
 ### දස හැවිරිදි දියණිය දූෂණය කළ පියා අත්අඩංගුවට
 
@@ -1470,6 +1540,22 @@ The integration of digital technologies into education is no longer a luxury but
 
 ---
 
+### රාජපක්ෂවරුන්ගේ හෙවනැල්ලවත් වැටෙන තැනක ඉන්නේ නෑ
+
+*2024-07-22 19:52:22* · [`adalk`](https://www.ada.lk/breaking_news/රාජපක්ෂවරුන්ගේ-හෙවනැල්ලවත්-වැටෙන-තැනක-ඉන්නේ-නෑ/11-410923) · `si`
+
+කිසිම වේදිකාවකට නැගීමේ සූදානමක් තමන්ට නැති බවත්,තම ඉදිරි සැලසුම් තිබෙන්නේ ජනාධිපතිවරණයට අදාළව බවත් පාර්ලිමේන්තු මන්ත්රීන ෆීල්ඩ්  මාර්ෂල්  සරත් ෆොන්සේකා මහතා කැලණිය තොරණ හන්දියේ පැවති උත්සවයකට සහභාගි වෙමින් මාධ්යමවේදීන් ඉදිරියේ පැවසීය.
+
+"අතීතයේත් ජනමත විචාරණ පවත්වලා තියෙනවා. සෑම දේශපාලන පක්ෂයක්ම ජයගැනීම සඳහා එක එක උප්පර වැට්ටි  දානවා.  නමුත් ජනාධිපතිතුමා, මැතිවරණ කොමසාරිස් තුමා, ඇතුළු සියලු දෙනා ප්‍රකාශ කරලා තිබෙනවා මේ මැතිවරණය අනිවාර්යයෙන්ම තියෙනවා කියලා. මේ පිළිබඳව දොඩව දොඩවා කාලය ගත කරන්න අවශ්‍යම නැහැ.
+
+ව්‍යවස්ථාවේ එක තැනක තිබෙනවා අවුරුදු පහක් කියල. තව තැනක තියෙනවා අවුරුදු හයක් බව. ඒක නිවැරදි විය යුතුයි . ඒකෙන් මැතිවරණයට බලපෑමක් නැහැ කියලා මැතිවරණ කොමසාරිස්තුමාත් කියලා තිබෙනවා.  ඒ නිසා සහයෝගය  දුන්නට අවුලක් නෑ .මට කවුරුවත් බලපෑම් කරලා නෑ. මේ වෙලාවේ පළවෙනිව එන්න ඕනා ජනාධිපතිවරණයයි. ඒ නිසා ඉස්සෙල්ලා ජනාධිපතිවරණය තිබිය යුතුයි කියා මම හිතනවා .
+
+...
+
+[Data](articles/5bb0876f.json)
+
+---
+
 ### A member of the Pohot against Ranil Dhammika
 
 *2024-07-22 19:45:27* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මන්ත්‍රී-පිරිසක්-රනිල්ට-විරුද්ධයි-ධම්මිකට-කැමතියි/11-410922) · `si`
@@ -2179,131 +2265,5 @@ On June 27, the Supreme Court issued an interim order preventing the implementat
 [Data](articles/c9259a3e.json)
 
 [Extended Data](ext_articles/c9259a3e.ext.json)
-
----
-
-### Ajith Kumar starring 'perseverance' update
-
-*2024-07-22 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189106) · `ta`
-
-Ajith Kumar stars in "Vida Tri," directed by Mahri Thirumeni, with filming wrapping up in Azerbaijan. The team also announced the start of "Diligence" shooting, set to conclude in ten days, aiming for an October 31 release.
-
-🟩
-
-The film crew has made a new information about the film 'Vida Tri', which is being prepared by star actor Ajit Kumar, who is leading the film industry's interests.
-
-Ajith Kumar is playing the hero of the story in the film 'Vida Athiyam' directed by director and actor Mahri Thirumeni.. The final phase of the film was taking place in Azerbaijan.
-
-In this case, the film crew posted a special photo that the shooting in Azerbaijan was completed.
-
-Following this, the shooting of 'Derivyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy. The film crew has said that the entire shooting of 'Diligence' will be completed with the film, which will take place for ten days.
-
-Due to this, the film is expected to be released on October 31, as planned, and the official announcement is expected to be released after the shooting is completed.
-
-◼️
-
-[Data](articles/acd96c1f.json)
-
-[Extended Data](ext_articles/acd96c1f.ext.json)
-
----
-
-### 'Barari' won the International Award
-
-*2024-07-22 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189110) · `ta`
-
-"Parari," featuring Comrade Venkatesan's story, won the Best Foreign Film Award at Houston's International Film Festival. Directed by Ezhil Periyavadi, it stars Hari Shankar, Sangeetha, and others, with music by Shawn Roldan and production by Gala Films Pvt. Ltd. This achievement brings recognition to the Tamil film industry.
-
-🟩
-
-'Parari', starring the hero of the story of 'Comrade Venkatesan', has won the Best Foreign Film Award at the International Film Festival in Houston.
-
-Hari Shankar, Sangeetha and many others have starred in the film 'Parari' which is being directed by the debut director Ezhil Periyavadi.
-
-Shawn Roldan has composed the film, which has been recorded by Sridhar. The film was produced by producer Hari Shankar on behalf of Gala Films Pvt. Limited.
-
-The 57th World Fest Huston Remy Award for the Best Foreign Film Film Film Festival has won a bronze medal for the best foreign film.
-
-Trend is expected to be welcomed among fans and filmmakers as the film will be worth the Tamil film industry if the award is won by the Tamil film festival.
-
-◼️
-
-[Data](articles/e618363c.json)
-
-[Extended Data](ext_articles/e618363c.ext.json)
-
----
-
-### The people of Kaldota area entered the office of the Electricity Board
-
-*2024-07-22 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189108) · `ta`
-
-Hundreds of Kaldota residents stormed the local Electricity Board office on Monday, leading to a confrontation with police. The incident occurred after the board announced plans to relocate due to operating on state-owned agricultural land without proper facilities. Residents argue against the move, citing lack of transparency and potential misuse of funds.
-
-🟩
-
-According to reports that the Electricity Board office located in the Kaldota area in Balangoda, the people of Kaldota and it were entered into the Kaldota Electricity Board (CEB) office on Monday (22).
-
-Hundreds of civilians entered the office of the Electricity Board, there was an argument between the Kaldota police and the public.
-
-When the public office went inside, the female officer on the duty of the duties was frightened because there was no chief officer.
-
-After arriving at the office of the chief officer, the four men who went there were given the opportunity to discuss with the officer.
-
-During the discussion, the office of the Chief Minister of the Electricity Board said that the office of the office of the office of the Electricity Board said that it would take it to another area and that the present office we need the necessary facilities.
-
-...
-
-[Data](articles/a3bc732d.json)
-
-[Extended Data](ext_articles/a3bc732d.ext.json)
-
----
-
-### Indian cricket team to arrive
-
-*2024-07-22 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199090) · `si`
-
-The Indian cricket team landed in Sri Lanka for two tournaments: James and Twenty20. They'll play at the Pallekele International Cricket Stadium in Kandy and the Balatharama International Cricket Stadium in Colombo. Matches start at various times, including early mornings. The team includes players and officials from Mumbai, India, and the USA.
-
-🟩
-
-The Indian national cricket team arrived at the Katunayake airport this afternoon to attend two James and Twenty20 cricket tournaments in Sri Lanka.
-
-The first three cricketers cricket team will commence at the Pallekele International Cricket Stadium in Kandy at 07, 28 and 30.
-
-In the Season 2, 4 and 7 of the 4th August 2, 4 and 7 will commence at 02.30 am at the ODI of August 2, 4 and 7 at the Balatharama International Cricket Stadium in Colombo.
-
-India's national cricket team and 10 officials from Mumbai, India, USA, has arrived at the Katunayake airport at the Katunayake airport.
-
-The Indian national cricket team arrived at the Katunayake airport this afternoon to attend two James and Twenty20 cricket tournaments in Sri Lanka.
-
-The first three cricketers cricket team will commence at the Pallekele International Cricket Stadium in Kandy at 07, 28 and 30.
-
-...
-
-[Data](articles/4706dbfc.json)
-
-[Extended Data](ext_articles/4706dbfc.ext.json)
-
----
-
-### Sri Lanka’s inflation rises to 2.4% in June 2024
-
-*2024-07-22 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100700/sri-lankas-inflation-rises-to-24-in-june-2024) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 2.4% in June 2024, compared to 1.6% in May 2024, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has increased to 1.9% in June 2024 compared to 0.5% in May 2024 and the Year-on-Year inflation of the non-food group increased to 2.7% in June 2024 from 2.4% in May 2024.
-
-The contribution of food commodities to inflation was 0.85% in June 2024 compared to the month of June in 2023.
-
-The NCPI for all items for the month of May 2024 is 206.3 and it records a decrease of 1.9 in index points compared to April 2024.
-
-◼️
-
-[Data](articles/730ed036.json)
-
-[Extended Data](ext_articles/730ed036.ext.json)
 
 ---

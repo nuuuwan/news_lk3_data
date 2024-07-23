@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 06:02:31**
+As of **2024-07-23 07:01:59**
 
 ## Newspaper Stats
 
-*Scraped **36,667** Articles*
+*Scraped **36,670** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 321
-colombotelegraphcom | 345
+colombotelegraphcom | 347
 bbccomsinhala | 357
 newsfirstlk | 363
 islandlk | 2,096
@@ -20,17 +20,41 @@ adaderanalk | 4,248
 tamilmirrorlk | 4,472
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,149
+adaderanasinhalalk | 6,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,655 (100.0%) of 36,667 articles have been extended.
+36,663 (100.0%) of 36,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### සැලකිලිමත් වන්න - කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-07-23 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199100) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+
+අද උදෑසන 3.00ට නිකුත්කරන ලද එම නිවේදනය ඉදිරි පැය 24 සඳහා වලංගු බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එම නිවේදනයේ දැක්වෙන්නේ අරබි මුහුදු ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාව සඳ﻿හා සැලකිලිමත් වන ලෙසය.
+
+මේ අතර බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල අද (23) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+
+මේ අතර මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/6a143285.json)
+
+---
 
 ### 455 697 applications in the second phase of 455 697 applications without bank accounts
 
@@ -256,6 +280,16 @@ The conference theme, ‘Navigating Stability towards Dynamic Growth,’ reflect
 
 ---
 
+### Event Invitation: Book Launch On Peradiniya University Politics By Rajasinghe Bandara
+
+*2024-07-23 00:36:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/event-invitation-book-launch-on-peradiniya-university-politics-by-rajasinghe-bandara/) · `en`
+
+◼️
+
+[Data](articles/f8b02b13.json)
+
+---
+
 ### Megakem Engineering expands with new showrooms and launches Megakem Megalistic Super 540
 
 *2024-07-23 00:36:03* · [`dailyftlk`](https://www.ft.lk/business/Megakem-Engineering-expands-with-new-showrooms-and-launches-Megakem-Megalistic-Super-540/34-764609) · `en`
@@ -285,6 +319,18 @@ Alpha Fire Services PLC Director Samud Gunasekara highlights the company’s imp
 [Data](articles/4c31b19b.json)
 
 [Extended Data](ext_articles/4c31b19b.ext.json)
+
+---
+
+### Pandemic Chronicles: When Beliefs Trump Science
+
+*2024-07-23 00:26:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/pandemic-chronicles-when-beliefs-trump-science/) · `en`
+
+As I sat down at the lunch table recently, the guest across from me asked what I did for a living. After I responded, she and her neighbor revealed that they were alternative medicine specialists. Then she winked and remarked, “we see myocarditis left and right.” “ Here we go again,” I thought to myself. I also pondered how challenging it is to diagnose myocarditis — an inflammation of the heart muscle often thought to be caused by COVID vaccines much more frequently than it actually is — even for a cardiologist. But that’s a discussion for another day.
+
+...
+
+[Data](articles/430f4a80.json)
 
 ---
 
@@ -422,6 +468,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/3b001952.json)
 
+[Extended Data](ext_articles/3b001952.ext.json)
+
 ---
 
 ### ‘25% of children in poverty’: Sajith reveals plans for eradicating child poverty
@@ -482,6 +530,8 @@ The Presidential Secretariat Support Unit, in collaboration with the Climate Cha
 
 [Data](articles/d87bc43a.json)
 
+[Extended Data](ext_articles/d87bc43a.ext.json)
+
 ---
 
 ### A Memorandum of Understanding (MoU) on the process of lending interest free lending under the Agricultural Modernization Program
@@ -519,6 +569,8 @@ Managed by Asia Securities Advisors (Private) Limited, the issue will see a tota
 ...
 
 [Data](articles/3437cd00.json)
+
+[Extended Data](ext_articles/3437cd00.ext.json)
 
 ---
 
@@ -562,6 +614,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/807e170a.json)
 
+[Extended Data](ext_articles/807e170a.ext.json)
+
 ---
 
 ### Parliament dissolution jitters send share market into bearish sulk
@@ -575,6 +629,8 @@ Amid those developments both indices moved downwards. The All Share Price Index 
 ...
 
 [Data](articles/32a01b39.json)
+
+[Extended Data](ext_articles/32a01b39.ext.json)
 
 ---
 
@@ -767,6 +823,8 @@ In this first phase, Rs. 650 million has been allocated to implement projects th
 ...
 
 [Data](articles/ea44a469.json)
+
+[Extended Data](ext_articles/ea44a469.ext.json)
 
 ---
 
@@ -2205,87 +2263,5 @@ Accordingly, the case will be taken up for hearing after the court -day break to
 [Data](articles/f12179b9.json)
 
 [Extended Data](ext_articles/f12179b9.ext.json)
-
----
-
-### Husband and wife injured in shooting at Middeniya
-
-*2024-07-22 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100692/husband-and-wife-injured-in-shooting-at-middeniya) · `en`
-
-Two individuals including a female have been injured in a shooting carried out in the Galpoththayaya- Julampitiya road in Middeniya last night (21).
-
-Police said that the shooting incident took place at around 10.00 p.m. targeting a Pradeshiya Sabha candidate of the Sri Lanka Freedom Party (SLFP).
-
-The incident occured as the victim was returning home with his wife on a motorcycle after closing their shop, the police mentioned.
-
-The 42-year-old man has sustained a gunshot wound, while his wife has also sustained injuries after the motorcycle on which they were travelling, fell over.
-
-They have been admitted to the Middeniya Hospital for treatment. The wife of the victim has been transferred to Embilipitiya District General Hospital for further treatment.
-
-Police said that a locally-manufactured firearm had been used in the shooting and that the shooter had left the firearm at the scene before fleeing.
-
-◼️
-
-[Data](articles/17192a99.json)
-
-[Extended Data](ext_articles/17192a99.ext.json)
-
----
-
-### It's easy to beat Harris more than biden - Trump
-
-*2024-07-22 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199081) · `si`
-
-Donald Trump claims he can easily defeat both Biden and Harris in the upcoming UK presidential election, suggesting Harris is easier to beat than Biden. Despite facing criticism and a fall during a debate, President Biden denies any intention to withdraw from the race. Meanwhile, Kamala Harris, backed by former presidents Bill Clinton and Barack Obama, prepares for her candidacy, with the Democratic Party's funds reaching Rs. 27 million. The party must select its next vice-presidential candidate post-Harris's nomination.
-
-🟩
-
-Republican Donald Trump says that he can easily defeat the Democratic Party of the UK presidential election.
-
-He says that more than Biden, Harris can be defeated.
-
-The current President of the United States was preparing to contest the Democotic Party.
-
-However, with the agency of the 81-year-old president, the 81-year-old president was questioned by a strong opposition to his candidacy.
-
-The protest intensified after the first president debate in June last June.
-
-The President Biden showed a weak vocabulary in front of the Republican-party candidate, Donald Trump.
-
-The President also fell down on the ground and was embarrassed by a variety of behaviors, showing various behaviors and confusing words.
-
-However, President Biden refused to charged the accusations and denied that he could be removed from the presidential election.
-
-Even so, even the former Speaker Nancy Polonie was a member of the former Speaker Nancy as a decision to be taken by him.
-
-...
-
-[Data](articles/6323233c.json)
-
-[Extended Data](ext_articles/6323233c.ext.json)
-
----
-
-### Fitch gives ‘good’ SPO for sustainable bond framework of Sri Lanka’s Combank
-
-*2024-07-22 13:14:00* · [`economynextcom`](https://economynext.com/fitch-gives-good-spo-for-sustainable-bond-framework-of-sri-lankas-combank-173264/) · `en`
-
-ECONOMYNEXT – Sustainable Fitch-Singapore said it has given its second-party opinion on Commercial Bank of Ceylon PLC’s (CBC) sustainable bond framework as ‘Good’.
-
-“We consider transactions under the sustainable bond framework to be fully aligned with the ICMA Green Bond Principles, Social Bond Principles and the Sustainability Bond Guidelines. Our Second-Party Opinion is that the alignment is ‘Good’.”
-
-Sri Lanka’s Commercial Bank gets Sustainable Fitch opinion to sell green bonds
-
-A Sustainable Fitch ESG Score or Rating is an assessment of the Environmental, Social and Governance qualities of financial instruments, Green, Social and Sustainability (GSS) frameworks and/or entities.
-
-It is not a credit rating, Sustainable Fitch, a separate division of Fitch Group said.
-
-Sustainable Fitch: SPO Provided for Commercial Bank of Ceylon PLC’s Sustainable Bond Framework
-
-...
-
-[Data](articles/eb8fb462.json)
-
-[Extended Data](ext_articles/eb8fb462.ext.json)
 
 ---

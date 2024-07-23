@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 04:35:44**
+As of **2024-07-24 04:54:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,853 (100.0%) of 36,854 articles have been extended.
+36,854 (100.0%) of 36,854 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,21 +58,29 @@ It was discussed that if you eliminate the painful process on the thumb, more mo
 
 ---
 
-### ’பாடங்களை நீக்குவது முட்டாள்தனம்’
+### Removing the subjects is stupid
 
 *2024-07-24 02:06:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடங்களை-நீக்குவது-முட்டாள்தனம்/175-340922) · `ta`
 
-முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தின்படி தகவல் மற்றும் தொடர்பாடல்  தொழில்நுட்பம், அழகியல் பாடங்களை நீக்குவது முட்டாள்தனமான செயல் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa criticized the proposed educational reform in Sri Lanka for excluding Information and Communication Technology and Aesthetics from the curriculum, calling such decisions "stupid" and detrimental to Sri Lanka's digital aspirations.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23)  விசேட கூற்றை முன்வைத்தே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-2006 ஆம் ஆண்டில், கல்விப் பொதுத் தராதர சாதாரண தரப் பாடத்திட்டத்தில் சேர்க்கப்பட்ட தகவல் மற்றும் தொடர்பாடல்  தொழில்நுட்பம் என்ற பாடம், முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தில் பரீட்சை திணைக்களத்தால் மதிப்பிடப்பட்ட 7 முக்கிய பாடங்களுக்குள் உள்ளடக்கப்படவில்லை. இலங்கையை டிஜிட்டல் இலங்கையாக உருவாக்கும் நோக்கில் செயற்படும் இவ்வேளையில், இவ்வாறான முட்டாள்தனமான முடிவுகளை எடுக்கக் கூடாது
+Opposition Leader Sajith Premadasa said that the elimination of information and communication technology and aesthetics under the proposed educational reform was a stupid act.
 
-முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தின்படி, தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பம் என்ற பாடத்தை கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சைகளுக்கான பாடங்களில் ஒன்றாக அதனை உள்ளடக்குவதில்லை என தீர்மானித்துள்ளனர்
+Speaking on Tuesday (23) in Parliament, he said.
+
+In 2006, the Lesson of Information and Communication Technology included in the GCE Ordinary Classical Curriculum, which is not included in the 7 key subjects estimated by the Department of Examination in the proposed educational reform.. Such stupid decisions should not be made in the event that Sri Lanka is aimed at making Sri Lanka as a digital Sri Lankan
+
+According to the proposed educational reform, the subject of information and communication technology is decided not to include it as one of the subjects for the GCE Ordinary Level Examinations of Education
+
+In this case, the changing technology era must include the lesson of Information and Communication Technology for the GCE Ordinary Level Examination.
 
 ...
 
 [Data](articles/cf107b5b.json)
+
+[Extended Data](ext_articles/cf107b5b.ext.json)
 
 ---
 

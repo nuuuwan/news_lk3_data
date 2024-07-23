@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 21:35:51**
+As of **2024-07-23 21:55:51**
 
 ## Newspaper Stats
 
-*Scraped **36,833** Articles*
+*Scraped **36,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,266
 tamilmirrorlk | 4,511
 dailymirrorlk | 4,733
 virakesarilk | 5,778
-adaderanasinhalalk | 6,182
+adaderanasinhalalk | 6,183
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,833 (100.0%) of 36,833 articles have been extended.
+36,833 (100.0%) of 36,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### කොළඹ වෝඩ් පෙදෙස ඝාතනය ගැන තවත් තොරතුරු
+
+*2024-07-23 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199136) · `si`
+
+කොළඹ වෝඩ් පෙදෙසේ නවතා තිබූ ත්‍රීරෝද රථයක තිබී තියුණු ආයුධවලින් පහරදී ඝාතනය කළ පුද්ගල මළසිරුරක් අද (23) අලුයම පොලීසිය විසින් සොයාගනු ලැබීය.
+
+විමර්ශනවලදී අනාවරණවී ඇත්තේ තවත් ත්‍රීරෝද රථයකින් පැමිණි දෙදෙනෙක් මෙම ඝාතනය සිදුකර පළාගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/afd68d09.json)
+
+---
 
 ### The government given to the doctor Arjuna ...
 
@@ -2399,31 +2413,5 @@ K. of Colombo National Hospital. After several surgeries of Sujeewa, they were t
 [Data](articles/4f9bda7f.json)
 
 [Extended Data](ext_articles/4f9bda7f.ext.json)
-
----
-
-### Shooting at Elder House in Croatia;6 people killed
-
-*2024-07-23 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/189141) · `ta`
-
-In Croatia, a former soldier shot six people, including his mother, at an elderly care home. The victims ranged from 80 to 90 years old. The shooter, known as a former army warrior, used an unregistered gun before fleeing but was later arrested.
-
-🟩
-
-Six people, including her mother, were killed in a shooting carried out by a former soldier at an elder house in the southern Central European country of Croatia.
-
-The casualties are often between the ages of 80 and 90. Officials said the mother of a former soldier had been living in the elderly home for 10 years.
-
-Former army warrior who arrived at the Mudiyah residence in Darua on Monday. Of these, five people who were staying at the house and a house worker died. Apart from this, many were injured.
-
-The former army soldier fled the scene. However, the police arrested him at a nearby restaurant. Officials said that an unregistered gun was seized from him.
-
-The local media reported that the shooting was a former soldier and that he was born in 1973 in Croatia in 1991-95.
-
-◼️
-
-[Data](articles/f2d51c11.json)
-
-[Extended Data](ext_articles/f2d51c11.ext.json)
 
 ---

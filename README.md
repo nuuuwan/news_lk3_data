@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 23:35:52**
+As of **2024-07-23 23:55:28**
 
 ## Newspaper Stats
 
-*Scraped **36,844** Articles*
+*Scraped **36,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
-adalk | 3,339
+adalk | 3,340
 adaderanalk | 4,269
 tamilmirrorlk | 4,512
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,843 (100.0%) of 36,844 articles have been extended.
+36,844 (100.0%) of 36,845 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,30 @@ Engineering is TAs against ignoring seniority when appointing appointments for a
 [Data](articles/75acb6df.json)
 
 [Extended Data](ext_articles/75acb6df.ext.json)
+
+---
+
+### Remembering for those who died in the black riotsEmphasize the ensuring justice and accountability for the affected Tamils
+
+*2024-07-23 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189214) · `ta`
+
+The "Black July" riots against Tamils in 1983 marked a tragic turning point in Tamil history, with no justice or accountability achieved despite 41 years passing. A commemorative event highlighted ongoing threats to Tamil safety and peace, emphasizing the need for justice and accountability. Participants called for an end to such violence, referencing specific incidents like the burning of the Jaffna Library and the massacre at Welikada Prison. The event underscored the persistent struggle for justice and the right to live safely among the Tamil community.
+
+🟩
+
+Civil Social Publications at a commemorative event in Colombo yesterday pointed out that the black riots against Tamils ​​have been held for 41 years, and that the justice for the affected people is still not being established and the threat of the Tamils ​​is still unable to live safely and peacefully.
+
+The 'Black July' riots unleashed against the Tamil people in July 1983 have passed 41 years (23).. No justice and accountability has been confirmed on these riots that have had the most impact on the Tamils ​​and the major turns in the history of Tamil history.
+
+In this backdrop, the North -South Brotherhood was organized by the Northern and Southern Brotherhood on Tuesday in the roundabout of the 'Black July' in front of Colombo and Borella in the area.
+
+Representatives of the North and Southern Brotherhood Organization, civil society activists and lawyers, who were present at the event, carried the posts of 'Let's forget the genocide against the Tamils' and 'Justice for Genocide'.
+
+...
+
+[Data](articles/3b488282.json)
+
+[Extended Data](ext_articles/3b488282.ext.json)
 
 ---
 
@@ -346,30 +370,6 @@ Although the complaints sent by those companies are sent by the Speaker, the app
 
 ---
 
-### Remembering for those who died in the black riotsEmphasize the ensuring justice and accountability for the affected Tamils
-
-*2024-07-23 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189214) · `ta`
-
-The "Black July" riots against Tamils in 1983 marked a tragic turning point in Tamil history, with no justice or accountability achieved despite 41 years passing. A commemorative event highlighted ongoing threats to Tamil safety and peace, emphasizing the need for justice and accountability. Participants called for an end to such violence, referencing specific incidents like the burning of the Jaffna Library and the massacre at Welikada Prison. The event underscored the persistent struggle for justice and the right to live safely among the Tamil community.
-
-🟩
-
-Civil Social Publications at a commemorative event in Colombo yesterday pointed out that the black riots against Tamils ​​have been held for 41 years, and that the justice for the affected people is still not being established and the threat of the Tamils ​​is still unable to live safely and peacefully.
-
-The 'Black July' riots unleashed against the Tamil people in July 1983 have passed 41 years (23).. No justice and accountability has been confirmed on these riots that have had the most impact on the Tamils ​​and the major turns in the history of Tamil history.
-
-In this backdrop, the North -South Brotherhood was organized by the Northern and Southern Brotherhood on Tuesday in the roundabout of the 'Black July' in front of Colombo and Borella in the area.
-
-Representatives of the North and Southern Brotherhood Organization, civil society activists and lawyers, who were present at the event, carried the posts of 'Let's forget the genocide against the Tamils' and 'Justice for Genocide'.
-
-...
-
-[Data](articles/3b488282.json)
-
-[Extended Data](ext_articles/3b488282.ext.json)
-
----
-
 ### US ship in the United States to Colombo
 
 *2024-07-23 19:25:33* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-යුද-නැවක්-කොළඹට/10-410950) · `si`
@@ -391,6 +391,24 @@ The 'USS Michael Murphy' is to visit several areas in the island's importance to
 [Data](articles/d79f7e8c.json)
 
 [Extended Data](ext_articles/d79f7e8c.ext.json)
+
+---
+
+### ඉදිරි මාස කිහිපයේදී ජනතාවට විශාල සහන ලැබෙනවා
+
+*2024-07-23 19:19:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-මාස-කිහිපයේදී-ජනතාවට-විශාල-සහන-ලැබෙනවා/11-410949) · `si`
+
+ඉදිරි මාස කිහිපය තුළ මේ රටේ ජනතාවට විශාල වශයෙන් සහන ලැබෙන බවත් විශේෂයෙන්ම ආර්ථිකය ශක්තිමත් කරන ප්‍රතිපත්තිවල ප්‍රතිඵල ලැබෙමින් පවතින්නේ දැන් බවත් වෙළඳ, වානිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පැවසීය.
+
+අමාත්‍යවරයා මේ  බව පැවසුවේ අද (23) ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවති වැඩසටහනකට එක්වෙමින් මාධ්‍යවේදීන් නැගූ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමිනි.
+
+බිත්තර නිෂ්පාදනය අඩු නම් අනිවාර්යෙන්ම බිත්තර ආනයනය කරන්න සිදු වන බවත් එසේ නොවන්නේ නම් නිෂ්පාදකයා තම නිෂ්පාදන නියම මිලට ලබා දී පාරිභෝගිතයා ආරක්ෂා කිරීමට කටයුතු කළ යුතු බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+ආහාර සුරක්ෂිතතාව පිළිබඳ වගකීමක් තමා සතු වන බැවින් බිත්තර නිෂ්පාදනය සම්බන්ධයෙන් ප්‍රශ්නයක් පැවති නිසා ඊට මැදිහත් වී විසඳුම් සෙවූ බවත් අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/0420d215.json)
 
 ---
 
@@ -418,21 +436,29 @@ In this regard, the doctor, Ramanathan Azuna, has stolen its medical administrat
 
 ---
 
-### කටාර් රැකියා පෙන්වා මුදල් වංචාකළ කත අල්ලයි
+### Sister arrested for defrauding Qatar's jobs
 
 *2024-07-23 19:07:24* · [`adalk`](https://www.ada.lk/breaking_news/කටාර්-රැකියා-පෙන්වා-මුදල්-වංචාකළ-කත-අල්ලයි/11-410948) · `si`
 
-ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව කටාර් රාජ්‍යයේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අද දින (7/23) අත්අඩංගුවට ගන්නා ලදී.
+A woman from Ja-Ela, Sri Lanka, was arrested for fraudulently obtaining money meant for overseas jobs through the Sri Lankan Foreign Employment Bureau. She was caught after returning to the country without securing any job abroad. The Special Investigation Division is handling the case, and she will be presented before the Welisara Magistrate's Court. The SLBFE advises potential foreign workers to use legitimate job agencies and provides information via its website and hotline.
 
-ජාඇල ප්‍රදේශයේ පදිංචි කාන්තාවක් විසින් කටාර් රාජ්‍යයේ රැකියා ලබාදීම සඳහා එක් අයෙකුගෙන් රුපියල් ලක්ෂ 10 බැගින් පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ 30ක මුදලක් ලබාගෙන විදෙස්ගත කර තිබේ. නමුත් එරටදී පොරොන්දු වූ පරිදි රැකියා හිමිනොවීම හේතුවෙන්, යළි දිවයිනට පැමිණ කාර්යාංශය වෙත පැමිණිලි කරන ලදී.
+🟩
 
-ඒ අනුව ක්‍රියාත්මක වූ විමර්ශන නිළධාරීන් විසින් අදාල කාන්තාව ප්‍රකාශ සටහන් කරගැනීම සඳහා අද දින (7/23) කාර්යාංශය වෙත කැඳවූ අතර, ප්‍රකාශ සටහන් කරගැනීමෙන් අනතුරුව එම කාන්තාව විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+A woman who cheated the Sri Lankan Foreign Employment Bureau was arrested by the Special Investigation Division of Sri Lanka (SLBFE) (7/23).
 
-අත්අඩංගුවට ගත් සැකකාරිය, කාර්යාංශයේ වලංගු අනුමැතියක් නොමැතිව විදේශ රැකියා සඳහා තැනැත්තන් යොමුකිරීමට මුදල් අයකිරීම හා වංචා කිරීම යන චෝදනාව යටතේ අද දින වැලිසර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+A woman living in Ja-Ela has obtained Rs.. However, due to the non-job jobs, he returned to the island and complained to the Bureau.
 
-...
+Investigations officers were taken to the Bureau today (7/233) to the Bureau today (7/23) to record statements.
+
+The arrested suspect is to be produced before the Welisara Magistrate's Court today.
+
+To find a foreign employment or a person to obtain a foreign employment or a valid job agency, the Bureau at www.slbfe.lk www.slbfe.lkThe Bureau urges foreign employment seekers to obtain information by contacting or the 1989 hotline number.
+
+◼️
 
 [Data](articles/164a105c.json)
+
+[Extended Data](ext_articles/164a105c.ext.json)
 
 ---
 
@@ -2405,31 +2431,5 @@ Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasu
 [Data](articles/ae466e6d.json)
 
 [Extended Data](ext_articles/ae466e6d.ext.json)
-
----
-
-### Happy news for those who mortgage jewelry
-
-*2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகளை-அடகு-வைத்தோருக்கு-மகிழ்ச்சியான-செய்தி/175-340879) · `ta`
-
-In response to the economic crisis, the government has approved an interest subsidy scheme for those who have mortgaged jewelry in banks. This move aims to support low-income individuals, with the subsidy capping interest rates at 10% per annum for such loans.
-
-🟩
-
-The Cabinet has approved relief to those who have mortgaged gold jewelery in banks.
-
-The recent severe economic crisis in the country has affected all the sectors of the economy directly and indirectly, resulting in a rapid increase in gold mortgage.
-
-The sum of the mortgage advance, which was about 210 billion rupees in 2019, increased by 172% by March 2024 to 571 billion rupees.
-
-Considering the situation, the licensed banks have been found to provide relief to low -income low -income persons.
-
-Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasury to implement a maximum of 10%per annum for mortgage advances from the individual based on individuals from licensed banks on or earlier.. The Money Scheme, Economic Development and National Policy Minister has been approved by the President.
-
-◼️
-
-[Data](articles/b794f0be.json)
-
-[Extended Data](ext_articles/b794f0be.ext.json)
 
 ---

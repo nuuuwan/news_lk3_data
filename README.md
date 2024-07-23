@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 04:06:27**
+As of **2024-07-24 04:20:59**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,851 (100.0%) of 36,853 articles have been extended.
+36,853 (100.0%) of 36,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### ஜனாதிபதி தேர்தலில் Tactile Ballot Paper
+### TACTILE BALLOT PAPER in the presidential election
 
 *2024-07-24 02:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-Tactile-Ballot-Paper/175-340923) · `ta`
 
-ஜனாதிபதி தேர்தலில் முதன்முறையாக விழிப்புலனற்ற சமூகத்தினருக்காக விசேட தொட்டுணரக்கூடிய வாக்குச் சீட்டு (Tactile Ballot Paper) அறிமுகப்படுத்தப்படவுள்ளதாக  தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்தார்.
+For the first time in a presidential election, tactile ballot papers will be introduced for visually impaired voters. The Elections Commissioner highlighted improvements such as eliminating finger painting for voter identification, saving resources, and introducing new sign language vocabulary for the deaf community. These changes aim to enhance accessibility and inclusivity in elections.
 
-வெளிப்படையான மற்றும் பொறுப்புக்கூற வேண்டிய அரசாங்கமொன்று பற்றிய துறைசார் மேற்பார்வைக் குழு அதன் தலைவர் பாராளுமன்ற உறுப்பினர் ஜகத்குமார சுமத்திராரச்சி தலைமையில் கூடியபோதோ அதில் அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தேர்தல்களின் போது அடையாளம் உறுதிப்படுத்தப்பட்டிருப்பதைக் குறிக்கும் வகையில் விரல்களில் வர்ணம் பூசுவது அநாவசியமானது என்ற குழுவின் முன்னைய அறிவுறுத்தல் குறித்தும் இக்குழுவில்  கவனம்செலுத்தப்பட்டது.
+Elections Commissioner Saman Sri Ratnayake said that for the first time in the presidential election, the Tactile Ballot Paper will be introduced for the unwavering community.
 
-இதற்கு அமைய விரல்களில் பூசப்படும் வர்ணங்களை இறக்குமதி செய்வதைஇரத்துச் செய்வது குறித்த அமைச்சரவைப் பத்திரம் சமர்ப்பிக்கப்பட்டதாகவும், இதனை இந்தச் சந்தர்ப்பத்தில் நடைமுறைப்படுத்தாதிருக்க அமைச்சரவை தீர்மானித்திருப்பதாகவும் தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்தார்.
+He said this when a departmental supervisory committee on transparent and responsible government was chaired by its chairman Jagadkumara Sumatrachchi.
+
+The committee also focused on the previous instructions of the committee that it was unnecessary to paint the fingers to indicate that the identity was confirmed during elections.
+
+The Commissioner General of Elections Saman Sri Ratnayake said that the Cabinet paper was submitted on the importation of paints on the fingers and that the Cabinet has decided not to implement this.
+
+It was discussed that if you eliminate the painful process on the thumb, more money, time and labor will be restored. Accordingly, the Chairman of the Committee advised the Commissioner General of Elections to submit all proposals on the election amendment.
 
 ...
 
 [Data](articles/6f2b7571.json)
+
+[Extended Data](ext_articles/6f2b7571.ext.json)
 
 ---
 
@@ -375,6 +383,8 @@ I will apply, for the benefit of the sick, all measures [that] are required, avo
 ...
 
 [Data](articles/fe22bbd5.json)
+
+[Extended Data](ext_articles/fe22bbd5.ext.json)
 
 ---
 

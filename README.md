@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 10:35:43**
+As of **2024-07-23 10:54:13**
 
 ## Newspaper Stats
 
-*Scraped **36,697** Articles*
+*Scraped **36,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,113 @@ islandlk | 2,096
 economynextcom | 2,191
 dailyftlk | 2,336
 adalk | 3,314
-adaderanalk | 4,252
+adaderanalk | 4,253
 tamilmirrorlk | 4,481
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,161
+adaderanasinhalalk | 6,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,693 (100.0%) of 36,697 articles have been extended.
+36,697 (100.0%) of 36,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### ක්‍රොඒෂියාවේ වැඩිහිටි සුරැකුම් මධ්‍යස්ථානයක වෙඩි තැබීමක්
+### දස හැවිරිදි දියණිය දූෂණය කළ පියා අත්අඩංගුවට
+
+*2024-07-23 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199112) · `si`
+
+දස හැවිරිදි බාල වයස්කාර දියණියට ලිංගික අතවර සිදුකළ බව කියන සිද්ධියක් සම්බන්ධයෙන් එම දියණියගේ පියා ඊයේ (22) දින රාත්‍රියේ අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස පොලිස් අත්අඩංගුවට ගෙන ඇත්තේ 45 හැවිරිදි වැල්ගොල්ල, පස්සර ප්‍රදේශයේ පදිංචි දෙදරු පියෙකි.
+
+සිද්ධියට මුහුණ දී ඇති දැරිය දින දෙක තුනක සිට හැසිරීම් රටාවේ වෙනසක් පෙන්නුම් කර තිබුණි.
+
+එම වෙනස පිළිබඳව දැරියගේ මව විසින් වීමසීමේ දී පසුගිය 19 වන දින මව කුඹුරේ වැඩට ගිය අවස්ථාවේ දී පියා විසින් තමාට සිදුකළ අතවරය පිළිබඳව දැරිය මවට පවසා ඇතැයි පොලීසිය පවසයි.
+
+මව විසින් පස්සර පොලිස් ස්ථානයට ඉදිරිපත් කළ පැමිණිල්ලකට අනුව පොලීසිය විසින් සැකකාර පියා අත්අඩංගුවට ගෙන තිබුණි.
+
+සිද්ධියට මුහුණදුන් දැරිය පස්සර මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වෛද්‍ය පරීක්ෂණයක් සඳහා බදුල්ල ශික්ෂණ රෝහලට මාරුකර යැවීමට කටයුතු කළ බවද පොලීසිය සඳහන් කළේය.
+
+අත්අඩංගුවට ගත් සැකකරු පස්සර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/22ab2b02.json)
+
+---
+
+### Gunman kills 6 people including his mother at nursing home in Croatia
+
+*2024-07-23 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100714/gunman-kills-6-people-including-his-mother-at-nursing-home-in-croatia) · `en`
+
+A gunman entered a nursing home in a quiet Croatian town on Monday and opened fire, killing six people including his mother, officials said. The dead were mostly in their 80s and 90s, the prime minister said.
+
+The national police chief, Nikola Milina, said five people died immediately and another died in a hospital. Five were residents and one was an employee. At least six other people were wounded, four seriously.
+
+The suspect fled but police caught him in a cafe near the facility in the town of Daruvar, Milina said. Authorities were investigating the motive behind the attack.
+
+N1 regional television reported that the suspect was born in 1973 and was a former policeman who took part in the 1991-95 war in Croatia and was decorated as a war veteran. Officials said he was known to police after causing several incidents in the past.
+
+Officials said the suspect’s mother had lived in the nursing home for 10 years.
+
+...
+
+[Data](articles/272d8fb6.json)
+
+---
+
+### A shooting of an adult sear centers in Croatia
 
 *2024-07-23 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199111) · `si`
 
-ක්‍රොඒෂියාවේ වැඩිහිටි සුරැකුම් මධ්‍යස්ථානයක සිදුවූ වෙඩිතැබීමකින් පුද්ගලයින් 6 දෙනෙකු මියගොස් තිබේ.
+In Croatia, six died and others were critically injured in a shooting at an adult entertainment center. The shooter, apprehended shortly after, is under investigation.
 
-නැගෙනහිර දරුවාර් නගරයේ පිහිටි සුරැකුම් මධ්‍යස්ථානයකට පැමිණි තුවක්කුකරුවෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-වෙඩිවැදීමෙන් තවත් පුද්ගලයින් පිරිසක් තුවාල ලබා ඇති අතර ඉන් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බව සඳහන්ය.
+Six people were killed in a shooting at an adult securitimate center in Croatia.
 
-වෙඩිතැබීම සිදුකළ සැකකරු පළාගොස් ආපන ශාලාවක රැඳී සිටියදී එරට පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර කුමන හේතුවක් මත මෙම වෙඩිතැබීම සිදුකළේ ද යන්න මෙතෙක් අනාවරණය වී නොමැති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the shooting has been carried out by a gun to a securities center in the East Children's City.
+
+Another group of other persons were injured in shoot and two of them are in critical condition.
+
+The shooting suspect has been arrested and arrested while he was arrested by the police while staying in a catering and the shooting was yet to be ascertained.
 
 ◼️
 
 [Data](articles/ce89759a.json)
 
+[Extended Data](ext_articles/ce89759a.ext.json)
+
 ---
 
-### தாய் வயலுக்கு சென்ற வேலை, தந்தையால் பாலியல் வன்கொடுமை
+### The job that went to the mother field, the father was sexually abused
 
 *2024-07-23 09:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாய்-வயலுக்கு-சென்ற-வேலை-தந்தையால்-பாலியல்-வன்கொடுமை/76-340867) · `ta`
 
-பசறை வெல்கொல்ல பிரதேசத்தில் 10 வயதுடைய சிறுமி ஒருவரை பாலியல் வன்கொடுமை செய்த குற்றச்சாட்டில் அவரது தந்தை திங்கட்கிழமை (22) இரவு கைது செய்யப்பட்டதாக பசறைபொலிஸார் தெரிவித்தனர்.
+A father, employed as an office assistant, was arrested for allegedly raping a 10-year-old girl in Pasarai Welkola. The incident led to a change in the victim's behavior, prompting inquiries from her mother. The suspect faces charges and will appear in court, while the victim is undergoing a medical exam at the Badulla Teaching Hospital.
 
-இரண்டு பிள்ளைகளின் தந்தையான , பதுளை பிரதேசத்தில் உள்ள நிறுவனமொன்றில் அலுவலக உதவியாளராக கடமையாற்றும் 45 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-இரண்டு மூன்று நாட்களாக , பாதிக்கப்பட்ட சிறுமியின் நடத்தையில் மாற்றம் ஏற்பட்டுள்ளதை அவதானித்த அவரது தாயார் சிறுமியிடம் விசாரித்த போது , வெள்ளிக்கிழமை (19) அன்று தாய் வயல் வேலைக்கு சென்றிருந்த போது தந்தையால் தனக்கு நேர்ந்த கொடுமையை பற்றி கூறியுள்ளார் .
+Pasarapisar said that her father was arrested on Monday night for allegedly raping a 10 -year -old girl in Pasarai Welkola area.
 
-இது தொடர்பில் , தாய் பசறை பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டின் பிரகாரம் சந்தேகநபரான தந்தையை கைது செய்யப்பட்டுள்ளதுடன் பாதிக்கப்பட்ட சிறுமி பசறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு மருத்துவ பரிசோதனைக்காக பதுளை போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+A 45 -year -old man has been arrested as an office assistant at a company in Badulla, the father of two children.
 
-மேலும் , சந்தேக நபரை பசறை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர் .
+When her mother inquired about the change in the behavior of the victim for two to three days, the girl was asked about the cruelty of her mother when she went to work on Friday (19).
+
+According to the complaint lodged at the mother's police station, the suspect has been arrested and the victim has been admitted to the Badulla Teaching Hospital for medical examination.
+
+The suspect is to be produced before the Magistrate's Court, police said.
 
 ◼️
 
 [Data](articles/aee9e981.json)
+
+[Extended Data](ext_articles/aee9e981.ext.json)
 
 ---
 
@@ -83,6 +139,8 @@ In this first phase, Rs. 650 million have been allocated to implement projects t
 ...
 
 [Data](articles/dc0f7564.json)
+
+[Extended Data](ext_articles/dc0f7564.ext.json)
 
 ---
 
@@ -1412,21 +1470,27 @@ The integration of digital technologies into education is no longer a luxury but
 
 ---
 
-### පොහොට්ටුවේ මන්ත්‍රී පිරිසක් රනිල්ට විරුද්ධයි ධම්මිකට කැමතියි
+### A member of the Pohot against Ranil Dhammika
 
 *2024-07-22 19:45:27* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මන්ත්‍රී-පිරිසක්-රනිල්ට-විරුද්ධයි-ධම්මිකට-කැමතියි/11-410922) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් පිරිසක් හා පොදුජන තරුණ පෙරමුණ රනිල් වික්‍රමසිංහ මහතාට සහය ලබානො​දීමට තීරණය කිරීමට නියමිත බව වාර්තා වේ.
+Sri Lanka General Front MPs, including Ranil Wickremesinghe, are set to receive assistance. An opinion suggests focusing on the General Manager's consistent electoral support. A meeting was held to discuss this, with entrepreneur Dhammika Perera's name being proposed for a request related to the CEB.
 
-එම මන්ත්‍රී කණ්ඩායමේ මතය වී ඇත්තේ පොදුජන පෙරමුණ රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීමෙන් පොදුජන පෙරමුණේ ස්ථාවර ඡන්ද පදනම බිදී යා හැකි බවයි. මේ පිළිබදව සාකච්ඡාවක් ඊයේ (22දා) දිනයේ ද නෙළුම් මාවත පොදුජන පෙරමුණ කාර්යාලයේ දී පවත්වා ඇත.
+🟩
 
-එම පිරිසෙහි ඉල්ලීම වී ඇත්තේ පොදුජන පෙරමුණෙන් අපේක්ෂකයෙක් ඉදිරිපත් කළ යුතු බවයි. ඒ සදහා ව්‍යවසායක , පා.ම ධම්මික පෙරේරා මහතාගේ නම යෝජනා කර ඇත.
+It is reported that the Sri Lanka General Front MPs and the General Front Ranil Wickremesinghe are to be assisted.
 
-පොදුජන පෙරමුණේ ඇතැම් අමාත්‍යවරුන් රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීම පිළිදව පොදුජන පෙරමුණේ පාක්ෂිකයන් කලකිරීමට පත්ව ඇතැයි යන නිරීක්ෂණය මත පදනම්ව පොදුජන පෙරමුණේ මන්ත්‍රී කණ්ඩායමක් විසින් මෙම යෝජනාව ඉදිරිපත් කර ඇති බව ද වාර්තා විය.
+The MP's opinion is that the General Manager General Manager, the consistent electoral base of the General Manager. A discussion was held yesterday (22) at Nelum Mawatha, General Secretariat.
+
+The request was the request of the CA.. The name of the entrepreneurship, MP Dhammika Perera has been proposed.
+
+It was also reported that the proposal was presented by a team of MPs in the General Secretary of the CEB depending on the inspection that some ministers of the CE CHANGESS
 
 ◼️
 
 [Data](articles/ff86b55a.json)
+
+[Extended Data](ext_articles/ff86b55a.ext.json)
 
 ---
 
@@ -2241,53 +2305,5 @@ The NCPI for all items for the month of May 2024 is 206.3 and it records a decre
 [Data](articles/730ed036.json)
 
 [Extended Data](ext_articles/730ed036.ext.json)
-
----
-
-### Judicial decision on intercepting development officers to the teacher service
-
-*2024-07-22 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199089) · `si`
-
-The Supreme Court today dismissed petitions from development officers seeking recognition as teachers, citing potential violation of government school policies. The case was heard by a three-judge panel, including Justice AHMD Evath. Additional Solicitor General Viraj Dayaratne argued against the petitions, emphasizing the need for adherence to established eligibility criteria. Following this, the court upheld its decision to deny the petitions, affirming the fundamental rights of government schools' management over hiring practices.
-
-🟩
-
-Petitions were settled before the Supreme Court today (22) the Fundamental Rights of the Government Schools.
-
-These petitions were considered before AHMD Evath and the Supreme Court Judge Bench, which has a three-member Supreme Court Bench.
-
-Additional Solicitor General Viraj Dayaratne, who is speaking to the Attorney General today, has decided to interview the Attorney General today and is determined to intervene and absorb the eligibility criteria.Said.
-
-Accordingly, the recruitment to the Cabinet paper to be recruited to the Cabinet paper to be sent to the Cabinet paper to be sent to the Cabinet paper and obtaining the relevant Cabinet paper for national schools.Additional Solicitor General said he was.
-
-After notion, the court decided to pass the petitions.
-
-The fundamental rights petitions have been filed by a group of development officers demanding a ruling that they have a verdict of violating their basic human rights.
-
-◼️
-
-[Data](articles/d41fdf25.json)
-
-[Extended Data](ext_articles/d41fdf25.ext.json)
-
----
-
-### Sri Lanka’s Dipped Products opens marketing office in India
-
-*2024-07-22 16:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dipped-products-opens-marketing-office-in-india-173278/) · `en`
-
-ECONOMYNEXT – Sri Lanka based glove maker Dipped Products Plc said it has opened a market office in Mumbai, India as part of efforts to strengthen in presence in key markets.
-
-India is growing at a Compound Annual Growth Rate (CAGR) for GDP of 7.5 percent and is the world’s fourth largest economy.
-
-“The Indian market has consistently demonstrated resilient growth, and with the opening of our 7th marketing arm in Mumbai – joining our existing offices in Italy, Poland, France, the Middle East, Thailand, and Sri Lanka – we are now ideally positioned to serve this market,” DPL Managing Director Pushpika Janadheera said.
-
-“While previously we primarily served markets in North America and the Europe, since the COVID-pandemic, we have also started to secure valuable opportunities in India and many other regions, including the Middle-East, South America and Australia.”
-
-...
-
-[Data](articles/0652c82b.json)
-
-[Extended Data](ext_articles/0652c82b.ext.json)
 
 ---

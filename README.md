@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 16:53:24**
+As of **2024-07-23 17:06:04**
 
 ## Newspaper Stats
 
-*Scraped **36,788** Articles*
+*Scraped **36,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,326
+adalk | 3,328
 adaderanalk | 4,262
 tamilmirrorlk | 4,508
 dailymirrorlk | 4,733
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,177
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,788 (100.0%) of 36,788 articles have been extended.
+36,788 (100.0%) of 36,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### දෙමාපියන් නමින් කෝටි ගනණක් වටිනා තම නිවෙස් දේපල දන්දුන් තරුණ වෛද්‍ය යුවලක්
+
+*2024-07-23 16:34:30* · [`adalk`](https://www.ada.lk/breaking_news/දෙමාපියන්-නමින්-කෝටි-ගනණක්-වටිනා-තම-නිවෙස්-දේපල-දන්දුන්-තරුණ-වෛද්‍ය-යුවලක්/11-410938) · `si`
+
+එංගලන්තයේ ධච් ආයුර්වේද ආයතනයේ හා  මාලඹේ ධච් ආයුර්වේද රෝහලේ අධ්‍යක්ෂක වෛද්‍ය චන්න ජිනසේන මහතාට හා එහි අධ්‍යක්ෂිකා වෛද්‍ය ධනුෂ්කා ග්‍රේරෝ මහත්මියට අයත් පන්නිපිටිය පැලැන්වත්ත ඉදි ගහදෙණිය පාරේ පිහිටි පර්චස් දහයක භූමිය සහ අංග සම්පූර්ණ දෙමහල් නිවස සසුනට පූජා කිරීමේ ආදර්ශමත් පින්කමක් පේරාදෙණිය ශ්‍රී සුබෝධාරාම ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානාධිපති විශ්ව කීර්ති ශ්‍රී ධර්ම විශාරද මහෝපාධ්‍යාය පණ්ඩිතාචාර්ය අති පූජ්‍ය වත්තේගම ශ්‍රී ධම්මාවාස  ශ්‍රී ලංකා උඩරට අමරපුර නිකායේ ශාසන ජෝතික පාර්ශ්වයේ මහා නායක හිමිපාණන් වහන්සේගේ ප්‍රධානත්වයෙන් ඉකුත් ඇසළ පුර පසළොස්වක පෝය දා සිදු කෙරිණි.
+
+වෛද්‍ය චන්න ජිනසේන මහතාගේ මියගිය ඒ.ජී.ජිනසේන පියාගේ ගුණානුස්මරණය කරමින් සසුනට පූජා කළ එම ස්ථානය පන්නිපිටිය පැලැන්වත්ත ශ්‍රී ජිනසේනාරාම ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානය ලෙස නම්කර තිබේ.
+
+...
+
+[Data](articles/fc589839.json)
+
+---
 
 ### Relief to those who put the gold items in banks
 
@@ -583,6 +597,24 @@ The outstanding amount of mortgage advances, which was around 210 billion rupees
 [Data](articles/46e09558.json)
 
 [Extended Data](ext_articles/46e09558.ext.json)
+
+---
+
+### දිනන්න පුළුවන් අපේක්ෂකයෙක් දානවා - නාමල්ට තව කල් තියෙනවා
+
+*2024-07-23 13:41:33* · [`adalk`](https://www.ada.lk/breaking_news/දිනන්න-පුළුවන්-අපේක්ෂකයෙක්-දානවා---නාමල්ට-තව-කල්-තියෙනවා/11-410937) · `si`
+
+ජනපති මැතිවරණය පැවැත්වෙනු ඇති බවත් ඒ සඳහා පොදුජන පෙරමුණෙන් ඉදිරිපත් කරන අපේක්ෂකයා තවමත් තීරණය කර නොමැති බවත් හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පැවැසීය.
+
+පොදුජන පෙරමුණේ පක්ෂ මූලස්ථානයේ පැවැති වැඩසටහනකින් අනතුරුව මාධය යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසිය.
+
+පක්ෂය විසින් දිනන අපේක්ෂකයෙක් ඉදිරිපත් කරනු ඇති බවද ඔහු පැවැසිය. ධම්මික පෙරේරා මහතාගේ නමද සලකා බලමින් තිබෙන බවද ඔහු කීය.
+
+කෙසේ වෙතත් නාමල් රාජපක්ෂ මහතාට තව කාලය තිබෙන බවත් ඔහු පැවැසිය.
+
+◼️
+
+[Data](articles/af254a46.json)
 
 ---
 
@@ -2373,59 +2405,5 @@ The Minister pointed out that the government has taken steps to review teacher c
 [Data](articles/e340a03c.json)
 
 [Extended Data](ext_articles/e340a03c.ext.json)
-
----
-
-### Land officer arrested
-
-*2024-07-23 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199103) · `si`
-
-A land officer from Kekirawa Divisional Secretariat was arrested by the Bribery Commission after a businessman reported him for soliciting a Rs. 500,000 bribe for construction approval. The officer was remanded until August 2nd by the Kekirawa Magistrate's Office.
-
-🟩
-
-A land officer of the Kekirawa Divisional Secretariat has been arrested by the Bribery officer who obtained a bribe of Rs.
-
-The Bribery commission said that the Land Officer was arrested following a raid conducted by a businessman in Kekirawa according to a complaint conducted by the bribery.
-
-The suspect land officer asked for a bribe of Rs. 500,000 to the construction of Rs.
-
-The suspect was produced by the Kekirawa Magistrate's Office and remanded until August 02.
-
-◼️
-
-[Data](articles/bdb91b62.json)
-
-[Extended Data](ext_articles/bdb91b62.ext.json)
-
----
-
-### President guarantees on presidential election
-
-*2024-07-23 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199102) · `si`
-
-President Ranil Wickremesinghe has assured that the upcoming presidential election will proceed as scheduled, despite challenges. He thanked the Sri Lanka Podujana Peramuna, led by former President Mahinda Rajapaksa, for their support over two years. Wickremesinghe emphasized that postponing the election is not an option, referencing the hardships already faced. Meanwhile, MP Dayasiri Jayasekara noted that the dissolution of Parliament, as declared by the Elections Commission, makes the 22nd constitutional amendment unnecessary.
-
-🟩
-
-President Ranil Wickremesinghe has been given a certificate that the presidential election is being held.
-
-The President has issued this certificate at the Government Member of Parliament.
-
-President Ranil Wickremesinghe was headed by President Ranil Wickremesinghe yesterday (22nd) The President thanked the Sri Lanka Campa Karan Rajapaksa Front led by former President Mahinda Rajapaksa for the support of the government for two years.
-
-President Ranil Wickremesinghe has said that the presidential election is inevitable, which is inevitable that he will be held to postpone the presidential election.
-
-The President said that the last time the last time was a very difficult time, the President has said that the hard time has already been paid the difficult time.
-
-Meanwhile, MP Dayasiri Jayasekara says that the President has been able to dissolve the Parliament as declared by the Elections Commission (EPL).
-
-The 22nd constitutional amendment was no need to bring in this case, he said.
-
-◼️
-
-[Data](articles/9c54fedf.json)
-
-[Extended Data](ext_articles/9c54fedf.ext.json)
 
 ---

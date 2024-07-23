@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 21:20:56**
+As of **2024-07-23 21:35:51**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 6,182
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,831 (100.0%) of 36,833 articles have been extended.
+36,833 (100.0%) of 36,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### வைத்தியர் அர்ஜூனாவுக்கு அரசாங்கம் கொடுத்த அடி...
+### The government given to the doctor Arjuna ...
 
 *2024-07-23 21:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனாவுக்கு-அரசாங்கம்-கொடுத்த-அடி/71-340903) · `ta`
 
-யாழ்ப்பாணம் - சாவகச்சேரி ஆதார வைத்தியசாலையின் வைத்திய அத்தியட்சகராக இருந்த மருத்துவர் இராமநாதன் அர்சுனா இன்றிலிருந்து பேராதனை வைத்தியசாலையின் மருத்துவ அதிகாரியாக தரமிறக்கப்பட்டுள்ளார்.
+Dr. Ramanathan Arsuna, previously the medical superintendent of the Chavakachcheri Hospital, has been appointed to the Peradeniya Teaching Hospital amidst ongoing investigations into his tenure. His appointment comes amid criticism of his handling of administrative issues and allegations of corruption within the hospital system. Despite these challenges, Dr. Arsuna continues to face scrutiny from both internal and external bodies, including human rights organizations.
 
-அண்மை நாட்களாக சாவகச்சேரி ஆதார வைத்தியசாலையின் வைத்திய அத்தியட்சகராக இருந்து மருத்துவர்களது குறைபாடுகள் தொடர்பாகவும், நிர்வாக சீர்கேடுகள் தொடர்பாகவும் பல்வேறு தகவல்களை வெளிக்கொணர்ந்திருந்தார்.
+🟩
 
-இந்நிலையில் குறித்த விடயங்கள் தொடர்பில் எந்தவித விசாரணைகள் மேற்கொள்ளப்படாத நிலையில் இந்நியமனம் வழங்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Dr. Ramanathan Arsuna, the medical superintendent of the Jaffna - Chavakachcheri Resource Hospital, has been appointed as the medical officer of the Peradeniya Hospital.
 
-சுகாதார அமைச்சு தனது மருத்துவ நிர்வாகத்தை பறித்து, பேராதனை போதனா வைத்தியசாலைக்கு வைத்திய அதிகாரியாக தரமிறக்கியுள்ளது, சுகாதார அமைச்சின் குறைபாடுகளை வெளிப்படையாக விவாதித்த ஒருவருக்கு இது முறையான தண்டனையாக நான் கருதுகிறேன். திணைக்கள விசாரணை இன்னும் முடிவடையவில்லை.
+In recent days, he has been the Medical Superintendent of the Chavakachcheri Hospital and has revealed various information on doctors' shortcomings and administrative disorders.
 
-இதேவேளை இரத்தம் தோய்ந்த உள்நாட்டு யுத்தம் முடிவடைந்துளநிலையிலும் எமது மக்கள் போராடி வருகின்றனர்.
+It is reported that no inquiries have been made on the matter.
 
-சர்வதேச மட்ட அமைப்பின் மனித உரிமை மீறல் விசாரணைக்கு தேவையான அதே கடிதத்தில் கலாநிதி லால் பனாபிட்டிய கையொப்பமிட்டுள்ளார்.
+The Ministry of Health has seized its medical administration and appointed as a medical officer to the Peradeniya Teaching Hospital.. The department investigation is yet to be over.
 
-...
+At the same time, our people are struggling in the end of the bloody civil war.
+
+Dr. Lal Panabitiya signed the same letter for the International Level Organization's Human Rights Investigation Investigation.
+
+All the corrupt persons are hiding what they are doing, but the truth -speaking people are punished. Remble
+
+◼️
 
 [Data](articles/ab40625a.json)
+
+[Extended Data](ext_articles/ab40625a.ext.json)
 
 ---
 
@@ -344,21 +352,29 @@ It is noteworthy that the rescue personnel are continuing to rescue people affec
 
 ---
 
-### ලංවිම අතිරේක සාමාන්‍යාධිකාරී ධුරයේ වැඩ ආවරණය කිරීමට කළ පත්කිරීම අත්හිටුවයි
+### CEB suspends appointment to cover the office of additional General Manager
 
 *2024-07-23 18:24:54* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-අතිරේක-සාමාන්‍යාධිකාරී-ධුරයේ-වැඩ-ආවරණය-කිරීමට-කළ-පත්කිරීම-අත්හිටුවයි/11-410944) · `si`
 
-ලංකා විදුලි බල මණ්ඩලයේ අතිරේක සාමාන්‍යාධිකාරී ධුරයේ වැඩ ආවරණය කිරීමට විදුලි ඉන්ජිනේරු ඩබ්ලිව්. ජයරත්න මහතා පත් කිරීමට ගත් තීරණය ක්‍රියාත්මක කිරීම අත්හිටුවමින් අභියාචනාධිකරණය අද (23) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+The Court of Appeal has temporarily halted the appointment of Jayaratne as an additional General Manager at the Ceylon Electricity Board due to lack of exceptional circumstances. The injunction affects the decision made by the Board of Directors, including Engineer Wanninayake Jayaratne and others. Respondents have been ordered to reply by September 3rd. President's Counsel Faizer Mustapha represents the petitioners, seeking to overturn the appointment decision.
 
-ජෙයෂ්ඨත්වය නොසලකා අතිරේක සාමාන්‍යාධිකාරී ධුරයේ වැඩ ආවරණය කිරීම සඳහා කළ පත් කිරීම නීතීවිරෝධී බව සඳහන් කරමින් විදුලි බල මණ්ඩලයේ විදුලි ඉන්ජිනේරුවරයකු ඇතු`ථ තිදෙනෙකු ගොනු කර තිබු පෙත්සමක් සළකා බැලීමෙන් අනතුරුව එලෙස නියම කළ අභියාචනාධිකරණය පෙත්සම් විභාගය අවසන් වන තෙක් අදාළ ධූරයට  වෙනත් අයකු පත් කිරීම වළකාලන අතුරු තහනම් නියෝගයක්ද නිකුත් කළේය.
+🟩
 
-පෙත්සම සැප්තැම්බර් 03 වැනිදා විභාගයට ගැනීමට දින නියම කළ අධිකරණය පෙත්සම සම්බන්ධයෙන් කරුණු දැක්වීමට නියම කරමින් වගඋත්තරකරුවන්ට නොසීසි නිකුත් කළේය.අභියාචනාධිකරණ විනිසුරු ලෆාර් තාහීර් මහතා හමුවේ පෙත්සම සලකා බැලීණි.
+Electrical Engineering Walk General Manager. The Court of Appeal today issued an interim injunction today, suspending the implementation of the decision to appoint Jayaratne.
 
-ඉංජිනේරු ටී.ඒ. වන්නිආරච්චි මහතා ඇතුළු තිදෙනෙකු ගොනුකර ඇති පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් ලංකා විදුලිබල මණ්ඩලය, එහි සභාපතිවරයා එහි අධ්‍යක්ෂ මණ්ඩලය, ඉංජිනේරු ඩබ්ලිව්. ජයරත්න මහතා ඇතුළු පිරිසක් නම් කර ඇත.
+Appointment of a Petroleum of Electricity engineer who has been appointed to cover the office of additional General Manager without exceptional.Also issued an order.
+
+The respondents were issued to respond to the petition on the petition on September 3, the respondents were issued notice.
+
+Engineering TA. Ceylon Electricity Board as respondents, the Board of Directors, the Board of Directors, Engineer, Wannah. Jayaratne and several others were named.
+
+Inseganyarus Wickrevii W. The appointment of Petitioners who have decided to appoint Jayaratne have decided to be decided to appoint Jayaratne.
 
 ...
 
 [Data](articles/29dc4ce5.json)
+
+[Extended Data](ext_articles/29dc4ce5.ext.json)
 
 ---
 

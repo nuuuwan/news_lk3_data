@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 18:27:11**
+As of **2024-07-23 18:38:35**
 
 ## Newspaper Stats
 
-*Scraped **36,801** Articles*
+*Scraped **36,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 2,097
 economynextcom | 2,194
 dailyftlk | 2,336
 adalk | 3,331
-adaderanalk | 4,264
-tamilmirrorlk | 4,508
+adaderanalk | 4,265
+tamilmirrorlk | 4,509
 dailymirrorlk | 4,733
-virakesarilk | 5,768
+virakesarilk | 5,769
 adaderanasinhalalk | 6,179
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,798 (100.0%) of 36,801 articles have been extended.
+36,801 (100.0%) of 36,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### எத்தியோப்பிய மண்சரிவின்  பலி எண்ணிக்கை அதிகரிப்பு
+
+*2024-07-23 18:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எத்தியோப்பிய-மண்சரிவின்-பலி-எண்ணிக்கை-அதிகரிப்பு/50-340901) · `ta`
+
+எத்தியோப்பியாவில் ஏற்பட்ட நிலச்சரிவில் சிக்கி 50 பேர் உயிரிழந்துள்ளதாகத் தெரிவித்த நிலையில், தற்போது பலி எண்ணிக்கை 157ஆக உயர்வடைந்துள்ளது.
+
+எத்தியோப்பியா கெஞ்சோ சாச்சா கோஸ்டி மாவட்டத்தில் கோபா மண்டலத்தில் பெய்த கடும் மழை காரணமாகவே நிலச்சரிவு ஏற்பட்டுள்ளது.
+
+மேலும், மண்சரிவில் சிக்கியுள்ளவர்களை மீட்கும் பணி தொடர்ந்து வருவதாக கோபா மண்டல தகவல் தொடர்பு அலுவலகத்தின் தலைவர் கூறியுள்ளார்.
+
+இந்நிலையில் நிலச்சரிவினால் பாதிக்கப்பட்ட மக்களை மீட்கும் பணிகளில் மீட்புப் படையினர் தொடர்ந்து ஈடுபட்டு வருகின்றமை குறிப்பிடத்தக்கது.S
+
+◼️
+
+[Data](articles/4d71d958.json)
+
+---
+
+### 2024 ஐசிசி ரி20 உலகக் கிண்ணம் தொடர்பாக ஆராய்ந்து அறிக்கை சமர்ப்பிக்க மூவர் கொண்ட குழு நியமனம்
+
+*2024-07-23 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189209) · `ta`
+
+ஐக்கிய அமெரிக்காவிலும் மேற்கிந்தியத் தீவுகளிலும் கூட்டாக அரங்கேற்றப்பட்ட 2024 ரி20 உலகக் கிண்ணப் போட்டி தொடர்பாக மீளாய்வு செய்யப்படும் என்று சர்வதேச கிரிக்கெட் பேரவை (ICC) உறுதி செய்துள்ளது.
+
+இந்த மீளாய்வை மேற்பார்வை செய்து அறிக்கை சமர்ப்பிக்கும் பொருட்டு ரொஜர் டூஸ், லோசன் நாயுடு, இம்ரான் கவாஜா ஆகிய மூன்று பணிப்பாளர்களை கொண்ட குழுவை சர்வதேச கிரிக்கெட் பேரவை நியமித்துள்ளது.
+
+அமெரிக்காவில் நடைபெற்ற போட்டிகளின் போது செலவிடப்பட்ட தொகை மற்றும் கரிபியன் தீவுகளில் நடைபெற்ற போட்டிகளின்போது ஏற்பாடுகளில் நிலவிய குறைபாடுகள் ஆகியன தொடர்பாக விமர்சனங்கள் எழுப்பப்பட்டிருந்தன.
+
+இந்நிலையில், கொழும்பில் ஜூலை 19ஆம் திகதியிலிருந்து 22ஆம் திகதிவரை நடைபெற்ற ஐசிசி வருடாந்த மாநாட்டின்போது இந்தக் குழுவை நியமிக்க தீர்மானிக்கப்பட்டது.
+
+அத்துடன் 2030இல் நடைபெறவுள்ள மகளிர் ரி20 உலகக் கிண்ணத்தில் பங்குபற்றும் அணிகளின் எண்ணிக்கையை 16ஆக அதிகரிப்பதற்கான அங்கீகாரத்தையும் ஐசிசி இந்தக் கூட்டத்தின்போது வழங்கியது.
+
+...
+
+[Data](articles/3c0743ae.json)
+
+---
+
+### Election Comm. to meet Thursday to decide prez poll date
+
+*2024-07-23 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100727/election-comm-to-meet-thursday-to-decide-prez-poll-date) · `en`
+
+The National Election Commission is reportedly scheduled to meet on Thursday (25), in order to discuss regarding the holding of the upcoming Presidential Election.
+
+The discussions will be preliminarily focused on deciding the date for the 2024 Presidential Election and following that, the election date will be announced.
+
+However, a spokesperson from the Election Commission stated that the Gazette notification related to announcing the Presidential Poll will be published before this weekend.
+
+◼️
+
+[Data](articles/3fd88609.json)
+
+---
 
 ### Electoral Commission meeting Thursday
 
@@ -124,35 +178,49 @@ Mora Peces is among a growing number of people sounding the alarm as the archipe
 
 ---
 
-### தேசிய குறைந்த பட்ட வேதன சட்ட திருத்தத்துக்கு சட்டமா அதிபர் ஒப்புதல்
+### Attorney -at -Law Amendment
 
 *2024-07-23 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189198) · `ta`
 
-வேலையாளர்களின் தேசிய குறைந்தபட்ச வேதனச் சட்டத்தில் மேற்கொள்ளப்பட்ட திருத்தங்களுக்கு சட்டமா அதிபர் திணைக்களம் ஒப்புதல் அளித்துள்ளது. அதனை வர்த்தமானியில் வெளியிடுவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Attorney General's Department has approved amendments to the National Minimum Wage Act of 2016, increasing wages for private sector workers. These changes were ratified by the Cabinet and will be published in the Gazette.
 
-தனியார் துறை வேலையாளர்களின் தேசிய குறைந்தபட்ச வேதனத்தை 17 500 ரூபா வரைக்கும், தேசிய குறைந்த பட்ச நாட்சம்பளத்தினை  700 ரூபா வரை அதிகரிக்கக்கூடிய வகையில் 2016ஆம் ஆண்டின் 3 ஆம் இலக்க வேலையாளர்களின் தேசிய குறைந்தபட்ச வேதனச் சட்டத்தைத் திருத்தம் செய்வதற்கு 2024-03-25 திகதிய அமைச்சரவை கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+🟩
 
-அதற்கமைய, சட்ட வரைஞரால் தயாரிக்கப்பட்டுள்ள திருத்த சட்ட வரைபுக்கு சட்டமா அதிபரின் ஒப்புதல் கிடைக்கப் பெற்றுள்ளது. மேற்குறித்த சட்டமூலத்தை அரச வர்த்தமானியில் வெளியிடுவதற்கும், பின்னர் பாராளுமன்றத்துக்கு அங்கீகாரத்துக்காக சமர்ப்பிப்பதற்கும் தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Attorney General's Department has approved the amendments to the National Minimum Page. The Cabinet has approved it to publish it in the Gazette.
+
+The Cabinet meeting has been approved at the Cabinet meeting on 2024-03-25 to amend the National Minimum Page Act of 2016 to increase the national minimum pain of private sector workers up to Rs.
+
+Accordingly, the approval of the Attorney General has been obtained for the amendment legal map prepared by the legal draft. The Cabinet has approved the proposal submitted by the Minister of Labor and Foreign Employment to publish the Western Bill in the State Gazette and subsequently submit to Parliament.
 
 ◼️
 
 [Data](articles/ea240a22.json)
 
+[Extended Data](ext_articles/ea240a22.ext.json)
+
 ---
 
-### நிகழ்நிலைக் காப்புச் சட்டத்தைத்தில் திருத்தம் மேற்கொள்ள அமைச்சரவை அங்கீகாரம்
+### Cabinet approval for amendment to the presentation backup Act
 
 *2024-07-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/189199) · `ta`
 
-நிகழ்நிலைக் காப்புச் சட்டமூலம் தொடர்பாக உயர்நீதிமன்றத்தால் வழங்கப்பட்டுள்ள தீர்மானத்திற்கிணங்க, குறித்த சட்டமூலம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட பின்னர், 2024 ஆம் ஆண்டின் 09 ஆம் இலக்க நிகழ்நிலைக் காப்புச் சட்டம் தற்போது வலுவுடையதாக உள்ளது.
+The Cabinet approved amendments to the Backup Act No. 9 of 2024 after its passage in Parliament, aligning with the Supreme Court's decision. Despite proposed changes being discussed, they couldn't be included in the final bill due to the legislative process. The Attorney General endorsed the bill, which was then published in the State Gazette following Cabinet approval.
 
-குறித்த சட்டமூலத்தை பாராளுமன்றத்தில் நிறைவேற்றுவதற்கு முன்னர் துறைசார் நிபுணர்கள் சட்டமூலத்தின் ஒருசில பிரிவுகள் பற்றிய திருத்தங்கள் முன்மொழியப்பட்டிருப்பினும், குழுநிலை விவாதத்தின் போது அவ்வாறான திருத்தங்களை சட்டமூலத்தில் உட்சேர்த்துக் கொள்வதற்கு இயலுமை கிட்டவில்லை.
+🟩
 
-அதற்கமைய, குறித்த திருத்தங்களை உள்ளடக்கி 2024 ஆம் ஆண்டின் 9 ஆம் இலக்க நிகழ்நிலைக் காப்புச் சட்டத்தைத் திருத்தம் செய்வதற்கு சட்டமூலமொன்றைத் தயாரிப்பதற்காக 2024.02.12 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+After the Bill was passed in Parliament in accordance with the Supreme Court's decision on the Backup Bill, the Ceremony Act No. 9 of 2024 is now strong.
 
-...
+Although amendments to a few sections of the Bill have been proposed before the Parliament passed the Bill, it is not possible to enroll such amendments during the group debate.
+
+Accordingly, the Cabinet meeting held on 2024.02.12 has been approved at the Cabinet on 2024.02.12 to amend the Backup Act No. 9 of 2024, including the amendments.
+
+Accordingly, the Bill prepared by the lawyer has been approved by the Attorney General. The Cabinet has approved the proposal submitted by the Minister of Public Safety to publish the Bill in the State Gazette and subsequently submitted parliamentary approval.
+
+◼️
 
 [Data](articles/5f36f291.json)
+
+[Extended Data](ext_articles/5f36f291.ext.json)
 
 ---
 
@@ -174,23 +242,29 @@ Jayasekara had filed the relevant complaint before the Colombo District Court, c
 
 ---
 
-### ஆலயத்திற்கு சென்றவர் சடலமாக மீட்பு - மட்டக்களப்பில் சம்பவம்
+### Recovery of a man who went to the temple
 
 *2024-07-23 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189196) · `ta`
 
-மட்டக்களப்பு, கொக்கட்டிச்சோலை பொலிஸ் பிரிவிலுள்ள தாந்தாமலை காட்டுப் பகுதியில் இருந்து நபர் ஒருவரின் சடலம் இன்று செவ்வாய்கிழமை (23) மீட்கப்பட்டுள்ளதாக கொக்கட்டிச்சோலை பொலிஸார் தெரிவித்துள்ளனர்.
+A man named Selvanayagam Linges, 39, from Selvapuram, was found dead in the Dandamalai forest near Kokkattichcholai, Batticaloa. He had gone missing while visiting the Murugan Temple with his family. The police discovered his body based on reports and conducted an autopsy at the Batticaloa Teaching Hospital.
 
-39ம் கிராமம், செல்வாபுரத்தைச் சேர்ந்த ஆறு பிள்ளைகளின் தந்தையான செல்வநாயகம் லிங்கேஸ் என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டவராவார்.
+🟩
 
-கடந்த ஞாயிறுக்கிழமை தனது வீட்டிலிருந்து தாத்தாமலை முருகன் ஆலயத்திற்கு சென்றவர் வீடு திரும்பாத நிலையில் குடும்பத்தினர் ஆலயத்தை அண்டிய பகுதியில் அவரை தேடிக் கொண்டிருந்தனர்.
+The body of a person from the Dandamalai forest area of ​​the Kokkattichcholai police division in Batticaloa has been recovered today (23), Kokkatichcholai police said.
 
-இந்நிலையில் கால்நடைகளை பராமாரிப்பதற்கு சென்று ஒருவர் காட்டின் மலைப் பகுதியில் சடலம் ஒன்று காணப்பட்டதாக தகவல் வழங்கியதன் அடிப்படையில் பொலிஸார் சடலத்தை மீட்டுள்ளனர்.
+Selvanayagam Linges, the father of six children from Selvapuram, 39, was the recovery.
 
-கொக்கட்டிச்சோலை பொலிஸாரின் பணிப்புரைக்கு அமைவாக, மட்டக்களப்பு போதனா வைத்தியசாலையில் திடீர் மரண விசாரணை அதிகாரி தம்பிப்பிள்ளை தவக்குமார் சம்பவ இடத்திற்கு சென்று சடலத்தை பார்வையிட்ட பின் உடற்கூற்றுப் பரிசோதனைக்குட்படுத் துமாறு  சட்ட வைத்திய அதிகாரிக்கு தெரிவித்தார்
+The family was looking for him in the neighborhood of the temple last Sunday to the grandfather's Murugan Temple from his home.
+
+Police have recovered the body on the basis of reports that a body was found in the forest of the forest.
+
+In accordance with the directory of the Kokkadichcholai police, the sudden death investigator at the Batticaloa Teaching Hospital, Thambipillai Dhakumar, went to the scene and told the legal officer to conduct an anatomical examination after visiting the body.
 
 ◼️
 
 [Data](articles/d3a2f343.json)
+
+[Extended Data](ext_articles/d3a2f343.ext.json)
 
 ---
 
@@ -2321,85 +2395,5 @@ It has been decided that the issues seeking verbal answers to the date and the c
 [Data](articles/b1a24428.json)
 
 [Extended Data](ext_articles/b1a24428.ext.json)
-
----
-
-### The main notice of the Ministry of Education
-
-*2024-07-23 09:30:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சின்-முக்கிய-அறிவிப்பு/175-340865) · `ta`
-
-The Ministry of Education announced today that textbook distribution for schools will commence soon. Additionally, the Chinese government has pledged to provide 100% of school uniforms for 2025. The Education Minister made this announcement during a media briefing at the Presidential Media Center.
-
-🟩
-
-Education Minister Susil Premajayantha said that the supply of school textbooks for next year to the area will be launched from today.
-
-At the same time, the Chinese government has confirmed to the Ministry of Education that the school students are providing 100 percent of school uniforms for 2025.
-
-The Minister of Education participated in a media briefing held at the Presidential Media Center.. Remble
-
-◼️
-
-[Data](articles/7342b4c8.json)
-
-[Extended Data](ext_articles/7342b4c8.ext.json)
-
----
-
-### Doctors in Eye Hospital prepares to strike
-
-*2024-07-23 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199108) · `si`
-
-Doctors at Eye Hospital threaten strike over director's removal, citing lack of adherence to health guidelines by the acting director. GMOA calls for action if changes aren't made by 8 am, indicating a potential escalation in labor unrest.
-
-🟩
-
-The Government Medical Officers Association (GMOA) is engaged in a trade union action if the acting director of the National Eye Hospital is removed.
-
-The association spokesman Dr. Chamil Wijesinghe said that the authorities have requested the removal of the acting director today (23).
-
-"There is now a severe tense situation in the eye hospital. This person does not fit his position. So continued to make it informed about this. But we cannot see the authorities that are implementing the provisions and guidelines given by Health Secretary. If this is not given a solution at 8 am, we have to review the situation and go to a professional program. "
-
-◼️
-
-[Data](articles/16cbcdda.json)
-
-[Extended Data](ext_articles/16cbcdda.ext.json)
-
----
-
-### Four suspensions have passed away
-
-*2024-07-23 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199109) · `si`
-
-In separate incidents across Sri Lanka, four fatalities occurred: a 38-year-old man in Galkulama, a 58-year-old in Veyangoda, a 39-year-old woman in Ahungalla, and a 65-year-old woman in Matale. Accidents happened in Thirappane, Veyangoda, Ahungalla, and Matale. Investigations are ongoing.
-
-🟩
-
-Four persons including two including two women in several of the accidents islandwide have died.
-
-The accident occurred yesterday (22), the accident occurred in Thirappane, Veyangoda, Ahungalla and Matale.
-
-A man was killed and killed in a vehicle along the Galkulama area on the main road.
-
-The victim was a 38 year old resident of Anuradhapura.
-
-The Thirappane Police are conducting further investigations to arrest the vehicle.
-
-Meanwhile, a motorbike was reported in Bangalawatta area on Veyangoda, Niwela and Udugampola road.
-
-The 58-year-old was rushed to the Gampaha Hospital.
-
-Meanwhile, a 39-year-old woman was killed in a three-wheeler near the face of a three-wheeler near the Ahungalla Kurinda Junction on the Galle-Colombo main road.
-
-Meanwhile, a woman was killed in a bus during the Weli in Vevilakanda-Matale road.
-
-A bus towards Halgolla to Halgolla, a passenger lady on the bus was brought back on the road to the bus and traveled by the bus to the bus.
-
-...
-
-[Data](articles/2dee486e.json)
-
-[Extended Data](ext_articles/2dee486e.ext.json)
 
 ---

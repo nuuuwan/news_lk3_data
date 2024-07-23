@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 19:54:09**
+As of **2024-07-23 20:06:23**
 
 ## Newspaper Stats
 
-*Scraped **36,821** Articles*
+*Scraped **36,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
-adalk | 3,332
+adalk | 3,334
 adaderanalk | 4,265
 tamilmirrorlk | 4,510
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,819 (100.0%) of 36,821 articles have been extended.
+36,821 (100.0%) of 36,823 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -176,6 +176,22 @@ It is noteworthy that the rescue personnel are continuing to rescue people affec
 
 ---
 
+### කාරණා දෙකකට ඇමති විජයදාස සමාව ඉල්ලයි
+
+*2024-07-23 18:19:09* · [`adalk`](https://www.ada.lk/breaking_news/කාරණා-දෙකකට-ඇමති-විජයදාස-සමාව-ඉල්ලයි/11-410943) · `si`
+
+කෝවිඩ් සමයේ මුස්ලිම් ජනතාවගේ මෘත දේහ ආදාහනය කිරීමට ගත් තීරණය පිළිබඳව මුස්ලීම් ජනතාවගෙන් සහ වසර 41ට පෙර කලු ජූලිය අවස්ථාවේ මෙරට දෙමළ ජනතාවට සිදුවූ සිද්ධීන් පිළිබඳව සමාව අයැද සිටින බව අධිකරණ, බන්ධනාගාර කටයුතු  හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේදී අද (23දා) ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සඳහන් කළේය. එහිදී වැඩිදුරටත් අමාත්‍ය විජයදාස රාජපක්ෂ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"අද දිනය  කැලැන්ඩරයට එකතුවෙලා තියෙන්නේ ඉතිහාසයේ කලු පැල්ලමක් එකතු වුණු කළු ජූලිය දිනය විදියට. ඊයේ දිනයේදී අපි කැබිනට් මණ්ඩලයට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කළා මමත්, විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතාත්, ඒ වගේම අමාත්‍ය තොන්ඩමන් මහතාත්. කෝවිඩ් කාලයේ ඉස්ලාම් භක්තික ජනතාවගේ මරණ ආදාහනය කිරීමේදී අනුගමනය කළ බලහත්කාර ප්‍රතිපත්තිය පිළිබඳ. ඒ පිළිබඳ පූර්ණ විද්‍යාත්මක පරීක්ෂණයක් කරලා ජල සම්පත් අමාත්‍යාංශයෙන් දීපු වාර්තාව පදනම් කරගෙන අපි ඒක ඉදිරිපත් කළේ.
+
+...
+
+[Data](articles/d9ef27cb.json)
+
+---
+
 ### 2024 ICC T20 World Cup
 
 *2024-07-23 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189209) · `ta`
@@ -223,6 +239,22 @@ The   Organisation of Islamic Cooperation (OIC) which includes Islamic states 
 [Data](articles/bd514e08.json)
 
 [Extended Data](ext_articles/bd514e08.ext.json)
+
+---
+
+### අනුලා සෑයේ කැණීම්වලට මිහින්තලා රජමහා විහාරාධිපතිගේ දැඩි විරෝධයක්
+
+*2024-07-23 18:05:43* · [`adalk`](https://www.ada.lk/breaking_news/අනුලා-සෑයේ-කැණීම්වලට-මිහින්තලා-රජමහා-විහාරාධිපතිගේ-දැඩි-විරෝධයක්/11-410942) · `si`
+
+මල්වතු මහා විහාර පාර්ශවයට අයත් මිහින්තලේ අනුලා සෑයේ කැනීම් කටයුතු සිදුකිරීම සඳහා මල්වතු මහනාහිමියන් දැනුවත් නොකර පුරාවිද්‍යා දෙපාර්තමේන්තුව විසින් වෙනත් පාර්ශවයක් සමග ගිවිසුමකට එළඹීම සම්බන්ධයෙන් මිහින්තලා රජ රජමහා විහාරාධිපති පූජ්‍ය වලවා හැංගුණවැවේ ධම්මරතන හිමියන්ගේ දැඩි විරෝධයක් එල්ල වී තිබේ .
+
+අනුලා තෙරණියන්ගේ ධාතුන්වහන්සේලා තැන්පත් කොට මීට වසර දෙදහසකටත් පෙර ඉදිකොට ඇති අනුලා මහා සෑයේ සිදුකෙරෙන එම කැණීම් කටයුතු සම්බන්ධයෙන් වලවාහැංගුනවැවේ ධම්මරතන හිමියන් විසින් මල්වතු මහනාහිමියන් දැනුවත් කිරීමෙන් අනතුරුව ඒ සම්බන්ධයෙන් කරුණු විමසීම සඳහා පුරාවිද්‍යා අධ්‍යක්ෂ ජනරාල්වරයා මල්වතු මහනාහිමියන් විසින්කැඳවා තිබූ අතර එම අවස්ථාවට මිහින්තලා රජමහා විහාරාධිපති හිමියන්ද සහභාගිවී සිටියහ .
+
+එහිදී පූජ්‍ය වලවාහැංගුනවැවේ ධම්මරතන හිමියන්පවසා සිටියේ පුරාවිද්‍යා දෙපාර්තමේන්තුව නාගානන්ද ජාත්‍යන්තර බෞද්ධ ආයතනය සමඟ ගිවිසුමකට එළැඹෙමින් මෙහි සංරක්ෂණ කටයුතු ආරම්භ කොට ඇති බවත් එම සංරක්ෂණ කටයුතුවලට මුදල් ලැබෙන්නේ කෙසේදැයි කිසිවෙකුත් නොදන්නා බවත් දැනට රුපියල් මිලියන 300ක මුදලක් වැය වී තිබෙන බව පවසන බවත්ය .
+
+...
+
+[Data](articles/a33d96cd.json)
 
 ---
 
@@ -1024,6 +1056,8 @@ The fault-based divorce system and grounds for divorce were enacted in 1907 and 
 
 [Data](articles/2472b09b.json)
 
+[Extended Data](ext_articles/2472b09b.ext.json)
+
 ---
 
 ### Cabinet approval to gazette revised Online Safety Bill
@@ -1533,6 +1567,8 @@ The move came after President Ranil Wickremesinghe met Musk in the sideline the 
 ...
 
 [Data](articles/c93ef73c.json)
+
+[Extended Data](ext_articles/c93ef73c.ext.json)
 
 ---
 
@@ -2331,63 +2367,5 @@ President Ranil Wickremesinghe (RW) was appointed to that position through the v
 [Data](articles/7781a481.json)
 
 [Extended Data](ext_articles/7781a481.ext.json)
-
----
-
-### Politicians at Urumaya public meetings
-
-*2024-07-23 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189139) · `ta`
-
-The Elections Commission plans to request the Urumaya and Jayakamoosree organizations in Sri Lanka to exclude politicians from their upcoming public meetings, ahead of the impending election announcements. Despite lacking authority to enforce this, the commission aims to communicate its stance through a letter to the President's Secretary, highlighting the need for transparency and neutrality in public gatherings.
-
-🟩
-
-The Elections Commission will appeal to the Urumaya and Jayakamoosree Sri Lanka without politicians.
-
-The Elections Commission will appeal to stop the involvement of politicians in events such as the Urumaya, as the announcement of the elections will be released soon.
-
-President Ranil Wickremesinghe, who is expected to contest the presidential election, has used public meetings such as the Urumaya, and accuses the public of the public.
-
-Elections Commission Chairman RMAL Ratnayake says that they have no authority to impose restrictions on politicians participating in such events so far as the Election Commission has not yet announced the presidential election.
-
-However, the Elections Commission has decided to send a letter to the President's Secretary Samanratnayake to hold public meetings such as the Urumaya.
-
-"We will ask for these public meetings without the participation of politicians," he said.
-
-◼️
-
-[Data](articles/972e505f.json)
-
-[Extended Data](ext_articles/972e505f.ext.json)
-
----
-
-### Father arrested for raping ten-year-old daughter
-
-*2024-07-23 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199112) · `si`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-The father of the daughter was arrested by the daughter yesterday on an incident that had been sexually abused for the ten-year-old daughter.
-
-Police have arrested the 45 year old residents of a resident of Passara.
-
-The girl who had faced the incident had shown a change in behavior from two or three days.
-
-The girl has told the mother at the mother of the mother of the mother of the mother of the mother of the mother of the 19th when he went to work by the mother of the girl on the 19th.
-
-According to a complaint lodged by the mother, the police had arrested the suspect.
-
-The girl faced at Passara Base Hospital after being admitted to the Passara Base Hospital and was transferred to the Badulla Teaching Hospital for a medical examination.
-
-The suspect is to be produced before the Passara Magistrate's Court.
-
-◼️
-
-[Data](articles/22ab2b02.json)
-
-[Extended Data](ext_articles/22ab2b02.ext.json)
 
 ---

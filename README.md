@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 19:20:23**
+As of **2024-07-23 19:35:43**
 
 ## Newspaper Stats
 
-*Scraped **36,810** Articles*
+*Scraped **36,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,56 +13,108 @@ colombotelegraphcom | 348
 bbccomsinhala | 358
 newsfirstlk | 363
 islandlk | 2,097
-economynextcom | 2,194
+economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,332
 adaderanalk | 4,265
 tamilmirrorlk | 4,510
 dailymirrorlk | 4,733
-virakesarilk | 5,772
+virakesarilk | 5,774
 adaderanasinhalalk | 6,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,804 (100.0%) of 36,810 articles have been extended.
+36,810 (100.0%) of 36,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### සිවිල් නඩු විධාන සංග්‍රහය පනත් කෙටුම්පත සංශෝධන සහිතව සම්මත කෙරේ
+### மருத்துவர் இராமநாதன் அர்சுணா பேராதனை வைத்தியசாலைக்கு மருத்துவ அதிகாரியாக மாற்றம்!
+
+*2024-07-23 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189213) · `ta`
+
+யாழ்ப்பாணம் சாவகச்சேரி ஆதார வைத்தியசாலையின் வைத்திய அத்தியட்சகராகவிருந்த மருத்துவர் இராமநாதன் அர்சுனா இன்றிலிருந் பேராதனை வைத்தியசாலயின் மருத்துவ அதிகாரியாக தரமிறக்கப்பட்டுள்ளார்.
+
+அண்மை நாட்களாக சாவகச்சேரி ஆதார வைத்திய சாலையின் வைத்திய அத்தியட்சகராக இருந்து மருத்துவர்களது குறைபாடுகள் தொடர்பாகவும், நிர்வாக சீர்கேடுகள் தொடர்பாகவும் பல்வேறு தகவல்களை வெளிக்கொணர்ந்திருந்தார். இந்நிலையில் குறித்த விடயங்கள் தொடர்பில் எந்தவித விசாரணைகள் மேற்கொள்ளப்படாத நிலையில் இந்நியமனம் வழங்கப்பட்டுள்ளது.
+
+சாவகச்சேரி ஆதார வைத்தியசாலைக்கு அத்தியட்சகராக இராமநாதன் அர்சுனா நியமிக்கப்பட்டிருந்த நிலையில் பல்வேறு சேவைகளை இலகுபடுத்தியும், வசதிகளை ஏற்படுத்தியும் கொடுத்திருந்த நிலையில் பிரதேச மக்களின் மனங்களில் இடம்பிடித்திருந்த நிலையில் பேராதனை மருத்துவ மனைக்கு தற்காலிக நியமனம் வழங்கப்பட்டமையால் மக்கள் பெரும் ஏமாற்றமடைந்துள்ளனர்.
+
+...
+
+[Data](articles/08eba975.json)
+
+---
+
+### Sri Lanka to introduce digital program for foreign workers facing problems
+
+*2024-07-23 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-introduce-digital-program-for-foreign-workers-facing-problems-173438/) · `en`
+
+ECONOMYNEXT – Sri Lanka will introduce a digital program via smart phones for migrant workers to report any concerns while employed abroad, Minister of Labor and Foreign Employment Manusha Nanayakkara said.
+
+“We will have a digital program that is accessible from their smart mobile phones where domestic workers can notify us if they have not got their salary or if they have fallen into some trouble,” Nanayakkara said in parliament on Tuesday.
+
+Sri Lanka has sent 301,000 domestic workers and 360,000 skilled workers abroad, Nanayakkara said.
+
+Several workers, especially domestic workers, face abuse at the hands of foreign employers.
+
+Nanayakkara said that the government only receives 0.001 percent of complaints with regard to abuse.
+
+“We can only act on complaints received from people who go through legal channels. We are educating those who go through the Foreign Employment Bureau on how to escalate complaints.” (Colombo/Jul23/2024)
+
+◼️
+
+[Data](articles/e168905e.json)
+
+---
+
+### Civil Procedure Code is passed with amendments
 
 *2024-07-23 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199133) · `si`
 
-සිවිල් නඩු විධාන සංග්‍රහය (සංශෝධන) පනත් කෙටුම්පත අද (23) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව සංශෝධන සහිතව සම්මත කෙරුණි.
+The Civil Procedure Code Amendment Bill was passed without a vote in parliament, concluding a day-long debate. The bill aims to amend specific clauses of the Civil Procedure Code, as proposed by Justice Minister Wijedasa Rajapakse. Additionally, parliament approved orders related to judicial organization published in specialized gazettes.
 
-පනත් කෙටුම්පත දෙවන වන කියවීමේ විවාදය අද (23) පෙරවරු 10.30 සිට පස්වරු 5.30 දක්වා පැවැත්වූ අතර ඉන් පසු එළැඹි කාරකසභා අවස්ථාවේදී පනත් කෙටුම්පතට සංශෝධන ඉදිරිපත් කෙරිණි.
+🟩
 
-(101 වන අධිකාරය වූ) සිවිල් නඩු විධාන සංග්‍රහයේ වගන්ති සංශෝධනය කිරීම සඳහා අධිකර‍ණ, බන්ධනාගාර කටයුතු හා ආ‍ණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා විසින් උක්ත පනත් කෙටුම්පත 2024 මැයි 13 දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදි.
+The Civil Procedure Code (Amendment) Bill was passed today with amendment without a voting in parliament today.
 
-මේ අතර අධිකරණ සංවිධාන පනත යටතේ අංක 2360/22 සහ 2371/13 දරන අතිවිශේෂ ගැසට් පත්‍රවල පළ කරනු ලැබූ නියෝග සඳහා ද අද පාර්ලිමේන්තුවේ අනුමතිය හිමිවිය.
+The second reading debate was held from 10.30 am to 5.30 pm today (23).
+
+The above Judgment and Constitutional Reforms Minister Wijedasa Rajapakse was presented to Parliament on 13th Mayor to amend the clauses of the Civil Procedure Code (101st) Civil Procedure Code.
+
+Meanwhile, the approval of the parliament was also approved by Parliament for orders published in specialized gazettes under the Judicial Organization Act No. 2360/22 and 2371/13.
 
 ◼️
 
 [Data](articles/8d735bc9.json)
 
+[Extended Data](ext_articles/8d735bc9.ext.json)
+
 ---
 
-### ஓரங்கட்டப்பட்டு மருவி வரும் கலைஞர்களின் கலைநிகழ்வுகளும் உரையாடலும் மட்டக்களப்பில் இடம் பெற்றது
+### The artistic events and conversations of the artists who are marginalized
 
 *2024-07-23 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189212) · `ta`
 
-கிழக்கின் அகல் இளையோர் மற்றும் விழுது நிறுவனம் இணைந்து நடாத்தும் "ஓரங்கட்டப்பட்டு மருவி கலைஞர்களின் வெளிக்கொணர்வதற்கான கலை நிகழ்வும், உரையாடல்களும் மட்டக்களப்பில் செவ்வாய்க்கிழமை (23) நடைபெற்றது.
+An art event in Batticaloa celebrated Eastern culture, focusing on revivalist creations and challenges faced by local artists. The event highlighted the importance of recognizing the community and its contributions through music, particularly Nadar Songs. It aimed to foster understanding among ethnic groups, emphasizing the role of art in bridging communities.
 
-மட்டக்களப்பு சுவாமி விபுலானந்த அழகியற்  கற்கை நிறுவகத்தில் விழுது நிகழ்ச்சி திட்ட அதிகாரி திருமதி இந்துமதி ஹரிகரதா மோதரன் தலைமையில்  நடைபெற்ற இந்நிகழ்வுக்கு கிழக்கு பல்கலைக்கழக துணைவேந்தர் வல்லிபுரம் கனகசிங்கம், பிரதம அதிதியாக கலந்து கொண்டார்.
+🟩
 
-விழுது அமைப்பின் சிரேஷ்ட உத்தியோகத்தர் பாலசிங்கம் முரளிதரனின் வரவேற்புடன் ஆரம்பமான இவ்நிகழ்ச்சியில் கிழக்கின் அகல் இளைஞர் குழுவினரின் இரு தசாப்த கால பயணம், மறுமலர்ச்சி நாட்டுக்கூத்து படைப்பு, ஓரங்கட்டப்பட்டு மருவிவரும் கலைஞர்களின் சவால்களும் சமூகத்தில் அவர்களுக்கான அங்கீகாரங்களும் என்னும் தலைப்புக்களின் நிகழ்வுகளும் இடம்பெற்றதுடன் நாட்டார் பாடல்கள், பாறை இசை, ஆதிவாசிகளின் பாரம்பரிய கலை படைப்புக்களும் நடைபெற்றது.
+The art event and conversations of the East were held in Batticaloa on Tuesday (23).
 
-...
+Eastern University Vice Chancellor Vallipuram Kanagasingham was the chief guest at the event, chaired by Mrs. Indumathi Harikara Motharan at the Batticaloa Swami Vipulananda Institute.
+
+The event was inaugurated with the welcome of Balasingham Muralitharan, the Senior Officer of the Vidyuttu Organization, with the topic of the two decades of the East, the revivalist creation, the challenges of the revival artists, the recognition of the community and the music of the Nadar Songs and the role of the role of the role.
+
+It is noteworthy that the Vidyalaya organization has been working on the construction of ethnic groups and mutual relationships in the region.
+
+◼️
 
 [Data](articles/adc5ac4e.json)
+
+[Extended Data](ext_articles/adc5ac4e.ext.json)
 
 ---
 
@@ -90,21 +142,27 @@ It is noteworthy that the rescue personnel are continuing to rescue people affec
 
 ---
 
-### எத்தியோப்பிய மண்சரிவில் பலியானோர் எண்ணிக்கை அதிகரிப்பு
+### Increase in the number of victims of Ethiopian landslides
 
 *2024-07-23 18:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எத்தியோப்பிய-மண்சரிவில்-பலியானோர்-எண்ணிக்கை-அதிகரிப்பு/50-340901) · `ta`
 
-எத்தியோப்பியாவில் ஏற்பட்ட நிலச்சரிவில் சிக்கி 50 பேர் உயிரிழந்துள்ளதாகத் தெரிவித்த நிலையில், தற்போது பலி எண்ணிக்கை 157ஆக உயர்வடைந்துள்ளது.
+Heavy rains in Ethiopia's Copa Zone triggered landslides, killing 157, including 50 in the Kenjo Sacha Costi district. Rescue efforts continue amidst the disaster.
 
-எத்தியோப்பியா கெஞ்சோ சாச்சா கோஸ்டி மாவட்டத்தில் கோபா மண்டலத்தில் பெய்த கடும் மழை காரணமாகவே நிலச்சரிவு ஏற்பட்டுள்ளது.
+🟩
 
-மேலும், மண்சரிவில் சிக்கியுள்ளவர்களை மீட்கும் பணி தொடர்ந்து வருவதாக கோபா மண்டல தகவல் தொடர்பு அலுவலகத்தின் தலைவர் கூறியுள்ளார்.
+The number of casualties has risen to 157 as 50 people have been killed in a landslide in Ethiopia.
 
-இந்நிலையில் நிலச்சரிவினால் பாதிக்கப்பட்ட மக்களை மீட்கும் பணிகளில் மீட்புப் படையினர் தொடர்ந்து ஈடுபட்டு வருகின்றமை குறிப்பிடத்தக்கது.S
+Landslides have been caused by heavy rains in the Copa Zone in Ethiopia Kenjo Sacha Costi district.
+
+The head of the Copa Regional Communications Office has said that the rescue of the victims of the landslide is continuing.
+
+It is noteworthy that the rescue personnel are continuing to rescue people affected by landslides.
 
 ◼️
 
 [Data](articles/dd27e41c.json)
+
+[Extended Data](ext_articles/dd27e41c.ext.json)
 
 ---
 
@@ -138,6 +196,24 @@ Only 10 teams will participate in the Women's T20 World Cup in Bangladesh this y
 
 ---
 
+### Sri Lanka cabinet approves apology from Muslims for COVID-19 cremation ahead of election
+
+*2024-07-23 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-apology-from-muslims-for-covid-19-cremation-ahead-of-election-173449/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers approved a proposal to tender apology for the grievance caused for ethnic minority Muslims due to the cremation of bodies during the Covid-19 pandemic, Foreign Minister Ali Sabry said.
+
+The move comes ahead of the upcoming presidential poll in which Muslim votes are likely to become crucial for all candidates.
+
+The government of former President Gotabaya Rajapaksa led by current ruling party Sri Lanka Podujana Peremuna (SLPP) forced Muslims and Christians to cremate the dead bodies of those who died of Covid-19 in 2020.
+
+The   Organisation of Islamic Cooperation (OIC) which includes Islamic states globally raised the forced cremations issue at the 46th United Nations Human Rights Council (UNHRC) in February 2021 after the SLPP government rejected repeated requests by local and global Islamic bodies.
+
+...
+
+[Data](articles/bd514e08.json)
+
+---
+
 ### Election Comm. to meet Thursday to decide prez poll date
 
 *2024-07-23 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100727/election-comm-to-meet-thursday-to-decide-prez-poll-date) · `en`
@@ -156,21 +232,27 @@ However, a spokesperson from the Election Commission stated that the Gazette not
 
 ---
 
-### මෙන්ඩිස්ගේ ස්ථානය තහවුරුයි - චමිඳු වික්‍රමසිංහට අවස්ථාව
+### The location of Mendis is confirmed - Chamin Wickramasinghe
 
 *2024-07-23 17:45:19* · [`adalk`](https://www.ada.lk/sports/මෙන්ඩිස්ගේ-ස්ථානය-තහවුරුයි---චමිඳු-වික්‍රමසිංහට-අවස්ථාව/9-410940) · `si`
 
-ලංකා ප්‍රිමියර් ලීග තරගාවලියේදී දක්ෂතා දැක්වූ ක්‍රීඩකයන් කිහිප දෙනෙකුම ඉන්දියාව සමගින් පැවැත්වෙන විස්සයි20 තරගාවලියට එක් කිරීමට ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව කටයුතු කර තිබේ.
+The location of Mendis is confirmed, and several players including newcomers like Chamindu Wickremasinghe and senior players Dinesh Chandimal, Kusal Janith Perera have been added to the Lanka Premier League Tournament. Charith has been appointed as the new Sri Lankan team captain, while Kusal Mendis will participate separately. The squad includes Charith Asalanka (Captain), Dinesh Chandimal, Kusal Mendis, Kusal Mendis, Kusal Mendis, Danushka Gunathilaka, Dasun Shanaka, Dushmantha Chameera, and Binura Fernando.
 
-ඒ අනුව නවක ක්‍රීඩක චමිඳු වික්‍රමසිංහ, අවිශ්ක ප්‍රනාන්දු ජ්‍යෙෂ්ඨ ක්‍රීඩකයන් වන දිනේෂ් චන්දිමාල් හා කුසල් ජනිත් පෙරේරාද තරගාවලිය වෙනුවෙන් නම් කර තිබේ.
+🟩
 
-ශ්‍රී ලංකා කණ්ඩායමේ නව නායකයා ලෙස චරිත් අසලංක නම් කර තිබේ. කුසල් මෙන්ඩිස්ටද කණ්ඩායමේ ස්ථානය වෙන්ව තිබේ.
+The Sri Lanka Cricket Selection Committee has taken steps to add several players in the Lanka Premier Leag Tournament.
 
-ශ්‍රී ලංකා සංචිතය - චරිත් අසලංක (නායක), පැතුම් නිශ්ශංක, කුසල් මෙන්ඩිස්, කුසල් ජනිත් පෙරේරා, අවිශ්ක ප්‍රනාන්දු, දිනේෂ් චන්දිමාල්, කමිඳු මෙන්ඩිස්, දසුන් ශානක, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, චමිඳු වික්‍රමසිංහ, මතීෂ පතිරණ, ණුවන් තුෂාර, දුනිත් වෙල්ලාලගේ, දුෂ්මන්ත චමීර, බිනුර ප්‍රනාන්දු
+Accordingly, newly players Chamindu Wickremasinghe, Anthemist Fernando Senior Players Dinesh Chandimal and Kusal Janith Perera also designate the tournament.
+
+Charith has been named as the new leader of the Sri Lankan team. Kusal Mendis too is separate.
+
+Sri Lanka squad - Charith Solutions (Leader), Dineskita Mendandha, Kusal Mendandha, Kusal Mendandha, Kusal Mendanda, Donish Weleluwala'sDushhamah Chameera, Binura Fernando
 
 ◼️
 
 [Data](articles/29e298b4.json)
+
+[Extended Data](ext_articles/29e298b4.ext.json)
 
 ---
 
@@ -224,6 +306,46 @@ It has also been decided to carry out the necessary organizations to implement t
 
 ---
 
+### Fireworks erupt in parliament over Sri Lanka’s VFS Global controversy
+
+*2024-07-23 17:28:00* · [`economynextcom`](https://economynext.com/fireworks-erupt-in-parliament-over-sri-lankas-vfs-global-controversy-173423/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliament erupted in heated debate after government legislators raised a privilege issue against Committee on Public Finance Chair Harsha de Silva, who last week tabled report on a controversial visa deal with the IVS-GBS–VFS Global, consortium.
+
+Justice Minister Wijedasa Rajapaksa questioned the propriety of raising a privilege issue against a Committee chairman, who was acting under powers derived from the Constitution, saying it amounted to challenging the Speaker himself.
+
+Related Sri Lanka visa deal with IVS-VFS be cancelled or revised, forensic audited: COPF Chief
+
+Sri Lanka’s Department of Immigration had awarded a visa issuing monopoly to IVS-GBS-VFS Global without tender which was charging 25 dollars per visa compared to an earlier 1 dollar by Mobitel, and it should be terminated or revised, de Silva said presenting a report earlier this month.
+
+...
+
+[Data](articles/e4333cae.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 303.70/80 to US dollar
+
+*2024-07-23 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-70-80-to-us-dollar-173426/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.70/80 to the US dollar on Tuesday, from 304.00/20 to the US dollar on Monday, dealers said, while bond yields were broadly stable.
+
+A bond maturing on 15.12.2026 closed stable at 10.40/50 percent.
+
+A bond maturing on 15.12.2027 closed at 11.55/65 percent, down from 11.60/70 percent.
+
+A bond maturing on 01.05.2028 closed stable at 11.80/90 percent.
+
+A bond maturing on 15.09.2029 closed at 12.05/15 percent, at 12.00/10 percent.
+
+A bond maturing on 01.12.2031 closed at 12.40/50 percent. (Colombo/Jul23/2024)
+
+◼️
+
+[Data](articles/b18008a5.json)
+
+---
+
 ### Sri Lankans gold medals at Bali International Championship
 
 *2024-07-23 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199130) · `si`
@@ -243,6 +365,30 @@ The competitors were present at the 13th Bali International singing.
 [Data](articles/7e9a3f44.json)
 
 [Extended Data](ext_articles/7e9a3f44.ext.json)
+
+---
+
+### Sri Lanka stocks close up, activity levels subdued
+
+*2024-07-23 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-activity-levels-subdued-173424/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up marginally on Tuesday, ahead of the central bank’s policy rate announcement on Wednesday.
+
+The broader All Share Index closed up 0.50 percent, or 57.36 points, at 11,597; while the more liquid S&P SL20 Index closed up 0.62 percent, or 20.78 points, at 3,377.
+
+Dialog Axiata Plc, the top contributor to the turnover, brought in Rs37mn to the turnover, and the share closed up at 9.40.
+
+“Dialog saw some foreign selling in the day,” Softlogic Stockbrokers said. “It was a very very slow day, and activity levels were subdued, trade volumes were low.”
+
+National Development Bank Plc which was the second biggest contributor to turnover, closed up at 71.00.
+
+There was also limited foreign activity, with the day recording a net foreign outflow of 26 million rupees.
+
+Foreign buying interest was seen in Commercial Bank of Ceylon Plc (up at 95.80), and Industrial Asphalts (Ceylon) Plc (flat at 0.30), “But these were negligible amounts”.
+
+...
+
+[Data](articles/c662357a.json)
 
 ---
 
@@ -288,19 +434,25 @@ Accordingly, the approval of the Attorney General has been obtained for the amen
 
 ---
 
-### க.பொ.த.சாதாரண தர பரீட்சையில் தொழில்நுட்பம், அழகியல் பாடங்களை நீக்குவது முட்டாள்தனமான செயல் - சஜித்
+### Deleting Technology and Aesthetic subjects in GCE Advanced Level Examination - Sajith
 
 *2024-07-23 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189192) · `ta`
 
-முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தின்படி தகவல் மற்றும் தொடர்பாடல்  தொழில்நுட்பம், அழகியல் பாடங்களை நீக்குவது முட்டாள்தனமான செயல் என  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa criticizes the removal of ICT and aesthetics from the GCE curriculum, calling it a "stupid" decision. He argues that excluding these subjects undermines Sri Lanka's digital aspirations and lacks foresight in the tech-driven era.
 
-2006 ஆம் ஆண்டில், கல்விப் பொதுத் தராதர சாதாரண தரப் பாடத்திட்டத்தில் சேர்க்கப்பட்ட தகவல் மற்றும் தொடர்பாடல்  தொழில்நுட்பம் என்ற பாடம், முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தில் பரீட்சை திணைக்களத்தால் மதிப்பிடப்பட்ட 7 முக்கிய பாடங்களுக்குள் உள்ளடக்கப்படவில்லை. இலங்கையை டிஜிட்டல் இலங்கையாக உருவாக்கும் நோக்கில் செயற்படும் இவ்வேளையில், இவ்வாறான முட்டாள்தனமான முடிவுகளை எடுக்கக் கூடாது
+🟩
 
-முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தின்படி, தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பம் என்ற பாடத்தை கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சைக்கான பாடங்களில் ஒன்றாக அதனை உள்ளடக்குவதில்லை என தீர்மானித்துள்ளனர்
+Opposition Leader Sajith Premadasa said that the elimination of information and communication technology and aesthetics under the proposed educational reform was a stupid act.
+
+In 2006, the Lesson of Information and Communication Technology included in the GCE Ordinary Classical Curriculum, which is not included in the 7 key subjects estimated by the Department of Examination in the proposed educational reform.. Such stupid decisions should not be made in the event that Sri Lanka is aimed at making Sri Lanka as a digital Sri Lankan
+
+According to the proposed educational reform, the lesson of information and communication technology is decided not to include it as one of the subjects for the GCE Ordinary Level Examination.
 
 ...
 
 [Data](articles/913c49d0.json)
+
+[Extended Data](ext_articles/913c49d0.ext.json)
 
 ---
 
@@ -325,6 +477,44 @@ Accordingly, the Bill prepared by the lawyer has been approved by the Attorney G
 [Data](articles/5f36f291.json)
 
 [Extended Data](ext_articles/5f36f291.ext.json)
+
+---
+
+### பங்களாதேஷில் இலங்கையர்களுக்கு எந்தவித பாதிப்பும் கிடையாது - அமைச்சர் மனுஷ
+
+*2024-07-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/189197) · `ta`
+
+பங்களாதேஷில் நிலவும் நெருக்கடி நிலை காரணமாக அங்குள்ள இலங்கையர்களுக்கு எந்தவித பாதிப்பும் கிடையாது. தேவை ஏற்படும் பட்சத்தில் அவர்களை நாட்டுக்கு அழைத்துவரவும் நடவடிக்கை எடுக்கப்பட்டுள்ளது என தொழில் மற்றும் வெளிநாட்டு வேலை வாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) வாய்மூல விடைக்கான வினாக்கள் வேளையில் ராஜிகா விக்கிரமசிங்க எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+
+பங்களாதேஷில் 2,835 இலங்கையர்கள் தொழில் மற்றும் தொழிற் பயிற்சிகளில் ஈடுபட்டுள்ளதுடன், அங்கு கல்வி நடவடிக்கைகளுக்காக சென்றுள்ள இலங்கை மாணவர்களின் எண்ணிக்கை தொடர்பில் சரியான எண்ணிக்கையை உடனடியாக தெரிவிக்க முடியாது.
+
+எவ்வாறெனினும், அந்த நாட்டிலுள்ள இலங்கை தூதுவருடன் தொடர்புகளை ஏற்படுத்திக்கொண்டு அங்குள்ள நிலவரம் தொடர்பாக கேட்டறிந்து வருகிறோம். அவர் வழங்கிய தகவல்களின்படி இலங்கையர்கள் எவருக்கும் எந்தவித பாதிப்பும் கிடையாது.
+
+...
+
+[Data](articles/64395e48.json)
+
+---
+
+### Sri Lanka to provide interest relief for those who pawned gold
+
+*2024-07-23 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-provide-interest-relief-for-those-who-pawned-gold-173419/) · `en`
+
+ECONOMYNEXT – Sri Lanka will implement a programme to provide interest relief to those who pawned gold in licensed commercial banks during the economic crisis, Cabinet spokesman minister Bandula Gunawardena said.
+
+The Cabinet has approved a proposal by the President to implement a programme to grant an interest relief by the Treasury subject to a maximum of an annual 10 percent for pawn advances under 100,000 rupees that were obtained from licensed banks on or before June 30, 2024 on individual basis.
+
+“As a result of the economic crisis, pawning of gold jewellery, which is a common practice, accelerated,” Gunawardena told reporters on Tuesday.
+
+“Pawn advances arrears of 210 billion rupees in 2019 increased to 571 billion rupees by March 2024, a growth of 172 percent.”
+
+Considering the circumstances, “licensed banks have recognized the necessity of granting relief to low income
+
+◼️
+
+[Data](articles/c8ab0355.json)
 
 ---
 
@@ -415,6 +605,24 @@ The interest subsidy is to be provided annually subject to a maximum of 10% annu
 [Data](articles/b7213566.json)
 
 [Extended Data](ext_articles/b7213566.ext.json)
+
+---
+
+### Sri Lanka to lease Beira Lake island to Gangarama Temple for tourist venture
+
+*2024-07-23 15:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-beira-lake-island-to-gangarama-temple-for-tourist-venture-173412/) · `en`
+
+ECONOMYNEXT – Bird Island, located on the Beira Lake in Sri Lanka’s financial district is to be leased to the Sri Jinarathana Vocational Technical Training Centre on a 50-year long term lease basis, Cabinet spokesman minister Bandula Gunawardena said.
+
+“Bird Island will be developed as a tourist attraction,” Gunawardena told reporters on Tuesday.
+
+A request was made by the Chief Incumbent of the Gangarama Temple to use the land to be developed as a tourist attraction place focusing cultural heritage, a cabinet statement said.
+
+The 143 perch island located on the southwest Beira Lake was transferred to the Urban Development Authority as a part of Colombo City Development Plan under the Beira lake Restoration Project in 2000.
+
+...
+
+[Data](articles/63007201.json)
 
 ---
 
@@ -768,6 +976,26 @@ It has been revealed that the accident may have been caused by the erosion and t
 
 ---
 
+### Sri Lanka to introduce bill enabling no-fault divorce: Justice minister
+
+*2024-07-23 14:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-introduce-bill-enabling-no-fault-divorce-justice-minister-173393/) · `en`
+
+ECONOMYNEXT – Sri Lanka has drafted a bill to bring about no-fault divorce, the country’s Minister of Justice Wijeyadasa Rajapakshe said.
+
+“We have made a new bill to introduce no-fault divorce,” Rajapaksha said in parliament on Tuesday (23) explaining some of the salient features of a new bill that would include electronic means – email and Whatsapp – of handing over summons.
+
+At present, Sri Lanka’s divorce law is governed by the Marriage Registration Ordinance and is a fault-based divorce and is only possible on grounds of adultery, malicious desertion or incurable impotence.
+
+The fault-based divorce system and grounds for divorce were enacted in 1907 and are still used in cases of non-customary divorce.
+
+“Instead of waiting years for the divorce, if it is proved that there has been an irretrievable marriage breakdown, court can rule on the matter.” (Colombo/Jul23/2024)
+
+◼️
+
+[Data](articles/2472b09b.json)
+
+---
+
 ### Cabinet approval to gazette revised Online Safety Bill
 
 *2024-07-23 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100722/cabinet-approval-to-gazette-revised-online-safety-bill) · `en`
@@ -996,21 +1224,29 @@ Accordingly, the Elections Commission said that the auction invitation has been 
 
 ---
 
-### ஜனாதிபதி தேர்தல் நடத்துவதற்கு எந்த தடையையும்  ஏற்படுத்தப்போவதில்லை - அரசாங்கம் உறுதி
+### There is no barrier to hold presidential election - government guarantees
 
 *2024-07-23 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189157) · `ta`
 
-ஜனாதிபதி தேர்தல் உரிய காலத்தில் நடக்கும். தேர்தல் நடத்தப்படுவதை அரசாங்கம் எந்தவகையிலும் தடைகளை ஏற்படுத்தப்போவதில்லை. அதேநேரம் பாராளுமன்றத்தை கலைப்பதற்கு தற்போது எந்த தேவையும் இல்லை என பொதுநிர்வாக, உள்நாட்டலுவல்கள் மாகாணசபைகள் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்தார்.
+The government assures a timely presidential election without obstacles, dismissing dissolution rumors. Minister Janaka Wakumbura confirms the Election Commission's authority and funding, ensuring the vote will proceed as scheduled.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) நிலையியற் கட்டளை 27 இன் 2கீழ் எதிர்க்கட்சி உறுப்பினர் அத்துரலியே ரத்தன தேரர் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-அத்துரலியே ரத்தன தேரர் தனது கேள்வியில், ஜனாதிபதி தேர்தலை பிற்போடுவதற்கு நடவடிக்கை எடுக்கப்படுவதாக மக்கள் மத்தியில் சந்தேகம் எழுந்துள்ளது.
+The presidential election will take place in a timely manner. The government is not going to put any obstacles in the election. At the same time, there is no need to dissolve parliament, said Minister of State for Home Affairs and Provincial Councils, Janaka Wakumbura.
 
-அரசியலமைப்பின் 22ஆம் திருத்தத்தை ஜனாதிபதி கையில் எடுத்துள்ளதாலே இந்த சந்தேகம் எழுந்துள்ளது. அதேபோன்று ஜனாதிபதி தேர்தலுக்கு முன்னர் பாராளுமன்றத்தை கலைப்பதற்கு அரசாங்கம் நடவடிக்கை எடுத்திருக்கிறதா என்றார்.
+In response to a question raised by Opposition Member Athuraliye Ratana Thera under the Standing Ordinance of Parliament on Tuesday (23) in Parliament.
+
+In his question, Athuraliye Ratana Thera said that there is suspicion among the people that steps are being taken to regulate the presidential election.
+
+This suspicion has arisen because the President has taken up the 22nd Amendment to the Constitution. He said the government has taken steps to dissolve parliament before the presidential election.
+
+The government is not going to put any obstacles to the presidential election. We will definitely hold the presidential election. The Election Commission has been given the authority on the 17th of this month.
 
 ...
 
 [Data](articles/448e4a28.json)
+
+[Extended Data](ext_articles/448e4a28.ext.json)
 
 ---
 
@@ -1247,6 +1483,26 @@ The event can be observed to monitor Satur SC Clark to the public until 4 pm to 
 [Data](articles/d372ec16.json)
 
 [Extended Data](ext_articles/d372ec16.ext.json)
+
+---
+
+### Sri Lanka Telecom Act changes certified by speaker
+
+*2024-07-23 12:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-act-changes-certified-by-speaker-173382/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Deputy Speaker Ajith Rajapaksa has endorsed the certificate on the “Sri Lanka Telecommunications (Amendment)” Bill, a parliament statement said.
+
+The amendment of the Telecommunications Regulatory Commission (TRC) Act will accommodate the Starlink satellite system founded by billionaire head of SpaceX and Tesla Elon Musk.
+
+“In terms of the provisions of Article 79 of the Constitution of the Democratic Socialist Republic of Sri Lanka, the Hon. Speaker has endorsed the certificates on the Bills titled “Sri Lanka Telecommunications (Amendment)” on 17 July 2024.”
+
+The island nation granted preliminary approval for Starlink to provide satellite-based internet services in the country, following a formal public consultation process.
+
+The move came after President Ranil Wickremesinghe met Musk in the sideline the 10th World Water Forum in Indonesia two months ago.
+
+...
+
+[Data](articles/c93ef73c.json)
 
 ---
 
@@ -2103,265 +2359,5 @@ The suspect is to be produced before the Passara Magistrate's Court.
 [Data](articles/22ab2b02.json)
 
 [Extended Data](ext_articles/22ab2b02.ext.json)
-
----
-
-### Mill owners who dispensate farmers
-
-*2024-07-23 10:20:31* · [`adalk`](https://www.ada.lk/breaking_news/ගොවීන්ගේ-දහදියට-වි-මෝල්-හිමියෝ-අඩුම-ලංසු-තියති/11-410931) · `si`
-
-Farmers struggle with high costs for machinery and labor, impacting their ability to harvest crops efficiently. Organizations offer limited support amidst financial challenges.
-
-🟩
-
-Harvesting of vacant harvest these days is being made these days
-
-The farmers' organizations are being carried out at Rs.Says that there is no.
-
-They are also not sufficient for the high cost of the employee towers and machines for harvesting and machines.
-
-◼️
-
-[Data](articles/77145dc7.json)
-
-[Extended Data](ext_articles/77145dc7.ext.json)
-
----
-
-### Gunman kills 6 people including his mother at nursing home in Croatia
-
-*2024-07-23 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100714/gunman-kills-6-people-including-his-mother-at-nursing-home-in-croatia) · `en`
-
-A gunman entered a nursing home in a quiet Croatian town on Monday and opened fire, killing six people including his mother, officials said. The dead were mostly in their 80s and 90s, the prime minister said.
-
-The national police chief, Nikola Milina, said five people died immediately and another died in a hospital. Five were residents and one was an employee. At least six other people were wounded, four seriously.
-
-The suspect fled but police caught him in a cafe near the facility in the town of Daruvar, Milina said. Authorities were investigating the motive behind the attack.
-
-N1 regional television reported that the suspect was born in 1973 and was a former policeman who took part in the 1991-95 war in Croatia and was decorated as a war veteran. Officials said he was known to police after causing several incidents in the past.
-
-Officials said the suspect’s mother had lived in the nursing home for 10 years.
-
-...
-
-[Data](articles/272d8fb6.json)
-
-[Extended Data](ext_articles/272d8fb6.ext.json)
-
----
-
-### Yall. Violence in Cotton - trio injury
-
-*2024-07-23 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/189138) · `ta`
-
-In Point Pedro, Jaffna, a violent incident resulted in two deaths from knife wounds and one person injured by an iron rod, with all three victims hospitalized.
-
-🟩
-
-Three persons have been admitted to the Point Pedro Base Hospital after being injured in a violent incident in Point Pedro, Jaffna.
-
-Two of the injured three were killed in a knife cut. The other man was injured in an iron rod.
-
-◼️
-
-[Data](articles/5227fd0c.json)
-
-[Extended Data](ext_articles/5227fd0c.ext.json)
-
----
-
-### Home and Land Rights for plantation workers will definitely be given in our government: Sajith Premadasa
-
-*2024-07-23 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189135) · `ta`
-
-Sajith Premadasa promises land and dignity for plantation workers, highlighting the importance of including economic, social, and cultural rights in the constitution alongside political and civil rights. He criticizes the violation of Muslim rights during COVID-19 and advocates for a comprehensive constitution protecting all aspects of life.
-
-🟩
-
-The united government will give them the right to live a dignified life in the people of the people of the people of our country, without giving them a place of political and state -owned barren lands, homeless and state -owned barren lands, but a small tea garden in the land, and the people of the people of the country.Opposition Leader Sajith Premadasa said.
-
-Under the Universal Information Technology Program, smart classroom equipment and dictionaries worth Rs.. Opposition leader Sajith Premadasa said this while addressing the event.
-
-Meanwhile, one lakh rupees was provided to the School Development Fund.
-
-The plantation community of our country has a history of over 200 years in our country. Ranasinghe Premadasa played a major role in the work of giving citizenship to the plantation people. When talking about citizenship, landless citizenship is useless. They have the right to live in their own land and home. The opposition leader said this is their fundamental right.
-
-...
-
-[Data](articles/59ee7da6.json)
-
-[Extended Data](ext_articles/59ee7da6.ext.json)
-
----
-
-### The government to pay for road carpeting and concrete. 120 billion
-
-*2024-07-23 10:16:17* · [`adalk`](https://www.ada.lk/breaking_news/මාර්ග-කාපට්-කිරිම-හා-කොන්ක්‍රීට්-කිරීම-වෙනුවෙන්-රජය-ගෙවිය-යුතු-මුදල-රු--බිලියන-120/11-410930) · `si`
-
-The Sri Lanka Construction Association (SLBFE) has complained about the government's delay in paying for road construction projects, totaling 120 billion rupees. This payment is crucial for nearly two million contractors who have completed work on highways, carpeting, and temporary roads. The association's secretary, Kugadas, highlighted the urgency of disbursing funds to support workers post-completion. A letter from Kugadas was sent to the President, copied to the relevant authorities, emphasizing the need for prompt action.
-
-🟩
-
-The Sri Lanka Construction Association (SLBFE) says the government has been severely inconvenienced due to the government, since the government has not paid Rs.
-
-The Secretary of the Sri Lanka Construction Association Kugadas Association Kavadas Association Secretary Kavadhas said that this amount should be provided to nearly two and nearly two million contractors to concrete high road carpeting and interim roads.
-
-The Secretary of the Sri Lanka Construction Association is a problem with the purpose of obtaining the money for workers after the work is completed.A letter sent to the President to send the President with the signature of Kugadas.
-
-The President has sent copies of the letter to the President and the Treasury in charge of the subject and the Treasury.
-
-◼️
-
-[Data](articles/761dd770.json)
-
-[Extended Data](ext_articles/761dd770.ext.json)
-
----
-
-### President summoned armed forces
-
-*2024-07-23 10:08:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-410929) · `si`
-
-President Ranil Wickremesinghe summoned all branches of the military, including Aviation, Air, and Navasena, to uphold law and order across 25 administrative districts. Specifically, the armed forces will be deployed in 14 districts around Colombo and Kalutara, as well as 11 other internal districts, following a gazette notification issued on February 22.
-
-🟩
-
-All members of the Aviation, Air and Navasena has been called by President Ranil Wickremesinghe yesterday (22) to maintain the twenty-five administrative districts of the country.
-
-Accordingly, armed forces have been called to maintain public order in 14 districts of Colombo and Kalutara districts and 11 internal districts.
-
-The Gazette notification of the call was released yesterday (22).
-
-◼️
-
-[Data](articles/0979789d.json)
-
-[Extended Data](ext_articles/0979789d.ext.json)
-
----
-
-### Penalties be up
-
-*2024-07-23 10:04:25* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-වැරදි-කීහිපයක--දඩ-මුදල්-ඉහලට/11-410928) · `si`
-
-A proposed amendment to Sri Lanka's Criminal Procedure Code aims to increase fines, including penalties for bribery related to elections. The draft, signed by Hon. Dr. Wijayadasa Rajapaksa, seeks to enhance financial penalties under the act originally enacted in 1979.
-
-🟩
-
-The Bill for the Criminal Procedure Code has been proposed to increase the fines, including bribes, which are bribed by a election.
-
-Accordingly, the draft will increase the fump of Rs.
-
-The fine of Rs.
-
-The Bill to revise the Criminal Procedure Code Act No. 15 of 1979, the Bill is gazetted with the signature of Hon. Dr. Wijayadasa Rajapaksa.
-
-◼️
-
-[Data](articles/9169193b.json)
-
-[Extended Data](ext_articles/9169193b.ext.json)
-
----
-
-### A shooting of an adult sear centers in Croatia
-
-*2024-07-23 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199111) · `si`
-
-In Croatia, six died and others were critically injured in a shooting at an adult entertainment center. The shooter, apprehended shortly after, is under investigation.
-
-🟩
-
-Six people were killed in a shooting at an adult securitimate center in Croatia.
-
-Foreign media reports that the shooting has been carried out by a gun to a securities center in the East Children's City.
-
-Another group of other persons were injured in shoot and two of them are in critical condition.
-
-The shooting suspect has been arrested and arrested while he was arrested by the police while staying in a catering and the shooting was yet to be ascertained.
-
-◼️
-
-[Data](articles/ce89759a.json)
-
-[Extended Data](ext_articles/ce89759a.ext.json)
-
----
-
-### The election commission launches work
-
-*2024-07-23 09:59:45* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමිෂම-වැඩ-අරඹයි/11-410927) · `si`
-
-The Elections Commission has initiated the procurement process for election materials like pens, booths, and polling stations. Bids opened on August 2 through a national competitive system aim to ensure transparency and efficiency in the upcoming elections.
-
-🟩
-
-The Elections Commission has taken steps to buy stationery and other related stationery for an election.
-
-According to the Elections Commission, the bid call for bidding is commenced today to buy outsiders to use the posts to use the voting to use the voting in the election, including bidders, pens, cubications, and cubicated polls.
-
-Steps have also been taken to open the bids taken to the national competitive system on August 2.
-
-◼️
-
-[Data](articles/7492d8a1.json)
-
-[Extended Data](ext_articles/7492d8a1.ext.json)
-
----
-
-### The second phase of the revenue ends on July 31
-
-*2024-07-23 09:56:20* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-දෙවැනි-අදියරේ-සංගනයය-ජුලි-31-දායින්-අවසන්/11-410926) · `si`
-
-The second phase of a revenue program and census completion are set for July 31. Chairman Jayantha Wijeratne announced 454,924 applications processed for families missing data, highlighting the use of IMMS software for census data collection. Officials will verify family information at the Grama Seva Division level, overseen by a census supervisory officer in each Divisional Secretariat. The Census Officer monitors detailed information at the Grama Niladhari Division level, with final reports evaluated by a Selection Committee. The program's first phase saw 34 lakh applications, with 1.85 million qualifying for benefits totaling Rs. 58.5 billion. A new mobile app with photo and voice recording features has also been launched.
-
-🟩
-
-The census is expected to be completed by July 31st.
-
-The Welfare Board Chairman Jayantha Wijeratne said that about 454,924 applications had been redeemed for the number of families who had missed families..
-
-He was speaking at a special press conference held at the Presidential Media Center yesterday.
-
-He pointed out that the highest number of applications have been forwarded at district level and that all these application will collect information on the Census are done through the IMMS software.
-
-He said that the officials were appointed to the house for each Grama Seva Division and inspect the family information from the family.
-
-He said a census supervisory officer has been appointed in every Divisional Secretariat to monitor and evaluate the census process.
-
-According to Mr. Heroes, the Census Officer can monitor the full information at the Grama Niladhari Division level.At the end of the census, information reports are monitored by Selection Committee.
-
-...
-
-[Data](articles/013d3042.json)
-
-[Extended Data](ext_articles/013d3042.ext.json)
-
----
-
-### The job that went to the mother field, the father was sexually abused
-
-*2024-07-23 09:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாய்-வயலுக்கு-சென்ற-வேலை-தந்தையால்-பாலியல்-வன்கொடுமை/76-340867) · `ta`
-
-A father, employed as an office assistant, was arrested for allegedly raping a 10-year-old girl in Pasarai Welkola. The incident led to a change in the victim's behavior, prompting inquiries from her mother. The suspect faces charges and will appear in court, while the victim is undergoing a medical exam at the Badulla Teaching Hospital.
-
-🟩
-
-Pasarapisar said that her father was arrested on Monday night for allegedly raping a 10 -year -old girl in Pasarai Welkola area.
-
-A 45 -year -old man has been arrested as an office assistant at a company in Badulla, the father of two children.
-
-When her mother inquired about the change in the behavior of the victim for two to three days, the girl was asked about the cruelty of her mother when she went to work on Friday (19).
-
-According to the complaint lodged at the mother's police station, the suspect has been arrested and the victim has been admitted to the Badulla Teaching Hospital for medical examination.
-
-The suspect is to be produced before the Magistrate's Court, police said.
-
-◼️
-
-[Data](articles/aee9e981.json)
-
-[Extended Data](ext_articles/aee9e981.ext.json)
 
 ---

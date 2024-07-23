@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 02:54:51**
+As of **2024-07-24 03:05:34**
 
 ## Newspaper Stats
 
-*Scraped **36,849** Articles*
+*Scraped **36,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,340
 adaderanalk | 4,269
-tamilmirrorlk | 4,515
+tamilmirrorlk | 4,516
 dailymirrorlk | 4,733
 virakesarilk | 5,780
 adaderanasinhalalk | 6,185
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,849 (100.0%) of 36,849 articles have been extended.
+36,849 (100.0%) of 36,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### ’பங்களாதேஷில் பத்திரமாய் உள்ளனர்’
+
+*2024-07-24 01:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பங்களாதேஷில்-பத்திரமாய்-உள்ளனர்/175-340920) · `ta`
+
+பங்களாதேஷில் நிலவும் நெருக்கடி நிலை காரணமாக அங்குள்ள இலங்கையர்களுக்கு எந்தவித பாதிப்பும் ஏற்படவில்லை.  பாதிப்புகள் ஏற்படும் நிலை காணப்பட்டால் அவர்களை உடனடியாக நாட்டுக்கு அழைத்து வரும் நடவடிக்கைகளை அரசாங்கம் மேற்கொள்ளும் என தொழில் மற்றும் வெளிநாட்டு வேலை வாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+
+பாராளுமன்றத்தில்   செவ்வாய்க்கிழமை (23)  வாய்மூல விடை க்கான வினா நேரத்தில் அரச தரப்பு எம்.பி. யான  ராஜிகா விக்கிரமசிங்க எழுப்பிய கேள்விக்குப் பதிலளிக்கும் போதே  இவ்வாறு தெரிவித்தார்
+
+பங்களாதேஷில் 2835 இலங்கையர்கள் தொழில் மற்றும் தொழிற் பயிற்சிகளில் ஈடுபட்டுள்ளனர்.அங்கு கல்வி நடவடிக்கைகளுக்காக சென்றுள்ள இலங்கை மாணவர்களின் சரியான எண்ணிக்கையை உடனடியாக தெரிவிக்க முடியாதுள்ளது.
+
+எவ்வாறெனினும் அந்த நாட்டிலுள்ள இலங்கை தூதுவருடன் தொடர்புகளை ஏற்படுத்தியுள்ளோம்.அவர் வழங்கிய தகவல்களின்படி இலங்கையர்கள் எவருக்கும் எந்தவித பாதிப்பும் ஏற்படவில்லை என்றார்.
+
+◼️
+
+[Data](articles/de152790.json)
+
+---
 
 ### JVP
 
@@ -2401,27 +2419,5 @@ Rival factions Hamas and Fatah met in China in April to discuss reconciliation e
 [Data](articles/b5605958.json)
 
 [Extended Data](ext_articles/b5605958.ext.json)
-
----
-
-### Speaker endorses certificate on Sri Lanka Telecom Amendment Bill
-
-*2024-07-23 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100719/speaker-endorses-certificate-on-sri-lanka-telecom-amendment-bill-) · `en`
-
-The Deputy Speaker of the Parliament Ajith Rajapaksa announced the House that in terms of the provisions of Article 79 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Speaker Mahinda Yapa Abeywardena has endorsed the certificates on the Bills titled “Sri Lanka Telecommunications (Amendment)” and “Shaili Educational Foundation (Incorporation).”
-
-The announcement was made during the ongoing Parliamentary proceeding today (23).
-
-On July 09, the Sri Lanka Telecommunications (Amendment) Bill was passed in Parliament with amendments.
-
-Under the new telecommunications bill, Sri Lanka will introduce a new license category that will allow ‘Starlink’ service to enter the country’s telecommunications space as a licensed service provider, as earlier stated by State Minister of Technology Kanaka Herath.
-
-The initiative of integrating the global ‘Starlink’ network with Sri Lanka is said to be aimed at addressing the Wi-Fi connectivity issues, particularly in areas outside Colombo.
-
-...
-
-[Data](articles/c8ac76c6.json)
-
-[Extended Data](ext_articles/c8ac76c6.ext.json)
 
 ---

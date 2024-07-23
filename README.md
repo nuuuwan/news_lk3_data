@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 11:36:02**
+As of **2024-07-23 11:55:41**
 
 ## Newspaper Stats
 
-*Scraped **36,707** Articles*
+*Scraped **36,714** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 321
 colombotelegraphcom | 347
-bbccomsinhala | 357
+bbccomsinhala | 358
 newsfirstlk | 363
 islandlk | 2,096
-economynextcom | 2,191
+economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,315
-adaderanalk | 4,254
+adalk | 3,316
+adaderanalk | 4,256
 tamilmirrorlk | 4,484
 dailymirrorlk | 4,733
 virakesarilk | 5,745
@@ -26,47 +26,115 @@ adaderanasinhalalk | 6,165
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,703 (100.0%) of 36,707 articles have been extended.
+36,707 (100.0%) of 36,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### කරාතේ ශූරයා දිවයිනට
+### Over 20% of Sri Lankan household population lack basic drinking water facilities - survey
+
+*2024-07-23 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/100717/over-20-of-sri-lankan-household-population-lack-basic-drinking-water-facilities-survey) · `en`
+
+A recent survey carried out by the Department of Census and Statistics (DCS) on Household Drinking Water Quality has found that 20.3% of the household population in Sri Lanka lacked even basic drinking water facilities.
+
+It has also been revealed that the main source of drinking water for 16.1% of the household population in the country were unprotected wells.
+
+Furthermore, the key findings of the survey has revealed that only around one third of the household population, which is 33.4%, had access to a safely managed drinking water source located on the premises, consistently available whenever needed, and free from faecal (Ecoli) contamination.
+
+Meanwhile, 2 in 3 (68.6%) people in the urban sector and nearly 1 in 4 (28.2%) people in the rural sector use safely managed drinking water sources, while only 3.1 % reported from the estate sector, as per the survey findings.
+
+...
+
+[Data](articles/39d50c19.json)
+
+---
+
+### Govt. eyes collecting PET plastic bottles for recycling
+
+*2024-07-23 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100716/govt-eyes-collecting-pet-plastic-bottles-for-recycling) · `en`
+
+The Sectoral Oversight Committee (SOC) on Environment, Natural Resources and Sustainable Development has drawn its attention to the process of collecting PET plastic bottles for the purpose for recycling, based on QR code.
+
+This was considered when the Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development met in Parliament recently under the Chairmanship of MP Ajith Mannapperuma, the Parliamentary Communications Department said.
+
+The Committee Chair stated that although 450,000 tons of plastic are imported into the country each year, only 50,000 tons are collected for recycling and a large amount of plastic is burnt in the open environment in the country.
+
+...
+
+[Data](articles/55e8bc80.json)
+
+---
+
+### Champion to visit the country
 
 *2024-07-23 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199115) · `si`
 
-දකුණු ආසියාතික හා ආසියාතික කරාතේ ශූරතා තරගාවලියේ වයස අවුරුදු 16/17 කාණ්ඩයේ පිරිමි කුම්තේ ඉසව්ව නියෝජනය කළ අම්බලන්ගොඩ ගා/ශ්‍රී දේවානන්ද විද්‍යාලයේ ඩබ්ලිව්. බාසුරු විරාජිත ද සිල්වා ක්‍රීඩකයා තරගයේ තුන්වන ස්ථානය හිමි කර ගනිමින් ලෝකඩ පදක්කමක් දිනා ගැනීමට සමත්ව තිබේ.
+Basuru-Vaginya de Silva, a 16/17-year-old from Sri Devananda College, won a bronze medal in the South Asian and Asiatic Karate Championship in Bhutan. This achievement qualified him for the Sri Lanka Karatra Training Pool, potentially representing the national team.
 
-ලක් මාතාවට ගෞරවයක් ලබා දෙමින් ලෝකඩ පදක්කම දිනූ බාසුරු ඊයේ (22) සවස කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළින් දිවයිනට පැමිණියේය.
+🟩
 
-දකුණු ආසියාතික හා ආසියාතික කරාතේ ශූරතා තරගාවලිය පසුගිය ජූලි 17 වන දින සිට 21 වන දින දක්වා භූතානයේදී පැවැත්වුණි.
+Winning the South Asian and Asiatic Karate Championship, Ambalangoda G / Sri Devananda College, aged 16/17. The Basuru-Vaginya de Silva has won a bronze medal by securing the third place in the match.
 
-2024 ශ්‍රී ලංකා කරාතේ දෝ සම්මේලනය මඟින් පවත්වන ලද විවෘත කරාතේ ශූරතා තරගාවලියේ වයස අවුරුදු 16/17 කාණ්ඩයේ කුම්තේ ඉසව්වේ රන් පදක්කම හිමි කර ගැනීමට බාසුරු විරාජිතට හැකි වී තිබුණි.
+The Bronze Medality, who won the bronze medal, arrived in Sri Lanka yesterday evening.
 
-එම ජයග්‍රහණය සමඟ ඔහුට ශ්‍රී ලංකා කරාතේ පුහුණු සංචිතයට ඇතුළත් වීමට සහ ශ්‍රී ලංකා කරාතේ ජාතික කණ්ඩායම නියෝජනය කිරීමට ද අවස්ථාව හිමිව තිබේ.
+The South Asian and Asiatic Karate Championship was held in Bhutan from 17 July to 21st July.
+
+The Gold Medal was able to win the gold medal in the Open Karate Championship tournament conducted by the Sri Lanka Karatra Do Federation.
+
+With that victory, he had the opportunity to enter the Sri Lanka Karatra Training Pool and represent the Sri Lanka Karate National Team.
 
 ◼️
 
 [Data](articles/8f5c3191.json)
 
+[Extended Data](ext_articles/8f5c3191.ext.json)
+
 ---
 
-### කේ. සුජීවා රෝහලෙන් පිටව යයි
+### Sri Lanka’s Windforce commissions 389kWp solar power project in Zanzibar
+
+*2024-07-23 11:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-commissions-389kwp-solar-power-project-in-zanzibar-173368/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s WindForce Plc said it has commissioned a 389kWp ground mount off-grid solar power project in Zanzibar.
+
+“This “demonstrates our commitment to advancing renewable energy solutions, promoting sustainable development, and reducing our carbon footprint,” the company said in a stock exchange filing.
+
+The entire project involved the engineering design, procurement, installation, testing, and commissioning of a 389kWp ground mount off-grid solar power project in Zanzibar.
+
+The project was initially announced on November 9, 2023, and was completed on July 15, with an extended timeline due to delays in development of the required infrastructure from the client’s end, Windforce said.
+
+WindForce has a total of 12 solar plants across the globe, located in Pakistan, Uganda and Ukraine.
+
+In May, Fitch Ratings Lanka Ltd assigned a ‘BBB+(lka)’ rating for the company with stable outlook.(Colombo/Jul23/2024)
+
+◼️
+
+[Data](articles/10070004.json)
+
+---
+
+### K. The Sujeewa leaves the hospital
 
 *2024-07-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199114) · `si`
 
-වෙඩි ප්‍රහාරයකට ලක්ව කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටි ගායන ශිල්පිණී කේ.සුජීවා මහත්මිය රෝහලෙන් පිටව ගොස් තිබේ.
+Sujeewa, a cartoonist from Sri Lanka known as "Sinoler," was hospitalized after an attack by unidentified gunmen during the opening of a tuk-tuk service in Athurugiriya. He and four others were injured and admitted to Colombo National and Kalubowila hospitals. Following surgery, his treatment continued, funded by well-wishers.
 
-පසුගිය 8 වන දින අතුරුගිරිය ප්‍රදේශයේ ටැටූ ආයතනයක් විවෘත කිරීමට පැමිණි අවස්ථාවේ නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු සිදුකළ වෙඩි ප්‍රහාරයකින් සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකු මියගියේය.
+🟩
 
-එහිදි ගායන ශිල්පිණී කේ. සුජීවා ඇතුළු සිව්දෙනෙකු තුවාල ලැබු අතර ඔවුන් ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට සහ කළුබෝවිල ශික්ෂණ රෝහලට ඇතුළත් කෙරුණි.
+The Sinoler Cartoonist Ceylon Hospital receiving treatment at the Colombo National Hospital has left the hospital.
 
-එහිදි කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටි කේ. සූජීවාගේ සැත්කම් කිහිපයකින් අනතුරුව මුදල් ගෙවා ප්‍රතිකාර කිරීම් සිදුකරනු ලබන වාට්ටුවක ප්‍රතිකාර ලැබු අතර මේ වන විට ඇය රෝහලෙන් පිටව ගොස් ඇති බව වාර්තා වේ.
+At the time of the opening of a tatgal institution in Athurugiriya, two unidentified gunmen, was shot dead.
+
+The singing of the singing. Four Sujeewa and four others were injured and admitted to the Colombo National Hospital and the Kalubowila Teaching Hospital.
+
+K. of Colombo National Hospital. After several surgeries of Sujeewa, they were treated at a wel being paid and the treatment of the hospital.
 
 ◼️
 
 [Data](articles/4f9bda7f.json)
+
+[Extended Data](ext_articles/4f9bda7f.ext.json)
 
 ---
 
@@ -259,6 +327,30 @@ In this first phase, Rs. 650 million have been allocated to implement projects t
 [Data](articles/dc0f7564.json)
 
 [Extended Data](ext_articles/dc0f7564.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 303.90/304.10 to US dollar
+
+*2024-07-23 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-90-304-10-to-us-dollar-173358/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.90/304.10 to the US dollar on Tuesday, dealers said. Bond yields were broadly steady, they said and stocks opened up 0.10 percent.
+
+In the secondary market, yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.45/50 percent, up from 10.40/50 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.55/65 percent, down from 11.60/70 percent.
+
+A bond maturing on 01.07.2028 was quoted at 11.78/83 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 12.00/10 percent.
+
+In equities, Colombo’s All Share Price Index opened 12.07 points higher at 11,551, while the S&P SL20 of more liquid stocks opened up at 0.350 percent or 11.68 points to 3,368.
+
+◼️
+
+[Data](articles/dbd75324.json)
 
 ---
 
@@ -506,6 +598,28 @@ The identity of the deceased has not yet been established, police said.
 
 ---
 
+### Sri Lanka to pay rooftop solar higher than Adani wind rate
+
+*2024-07-23 07:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-pay-rooftop-solar-higher-than-adani-wind-rate-173349/) · `en`
+
+ECONOMYNEXT – Sri Lanka will pay 27 rupees a unit for rooftop solar electricity from July 2024, which is good enough for solar operators to install and also make a profit, Power Minister Kanchana Wijeskera has said.
+
+The Energy Ministry and Ceylon Electricity Board raised the price paid to rooftop solar to 37 rupees for a 20 year contract when the rupee depreciated steeply and interest rates were high and global solar panel prices were also high.
+
+Rooftop solar was paid 22 rupees for 8 years and about 16 rupees for the balance period in feed in tariffs before the currency crisis, he said.
+
+To encourage rooftop solar the rooftop solar price was then raised to 37 rupees during the recent currency crisis.
+
+“The price was supposed to be revised every three months based on economic parameters,” Minister Wijesekera said.
+
+“Now we see world solar panel prices have fallen steeply, the dollar rate has fallen, and interest rates have fallen.”
+
+...
+
+[Data](articles/1f4384a4.json)
+
+---
+
 ### 20.3 percent of the population has no drinking water
 
 *2024-07-23 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199105) · `si`
@@ -703,6 +817,26 @@ From time to time in the rest of the island.. The Met Department further stated 
 [Data](articles/6a143285.json)
 
 [Extended Data](ext_articles/6a143285.ext.json)
+
+---
+
+### කළු ජූලියේ ගොදුරක් වු ලාංකීය සිනමා කර්මාන්තය
+
+*2024-07-23 05:36:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjm94ve8pwno) · `si`
+
+“අපි නෙගට්විස් අල්ලන්නේ ග්ලවුස් දාලා, එහෙම පාවිච්චි කරපු නෙගට්විස් කෑලි කෑලිවලට කඩලා බිම දාලා තියෙනකොට විශාල දුකක් ඇති වුණා. අපේ ගෙදර තියෙන දේවල් ඔක්කෝම අරන් ගිහිල්ලා ඒත් මට මේ තරම් දුක්ක ආවේ නැහැ.”
+
+හතලිස් එක් වසරකට ඉහත දී ජූලි මාසය අඳුරු කරමින් ඉතිහාසයට කළු පැල්ලමක් එකතු කළ දෙමළ ජනයාට එරෙහි ප්‍රචණ්ඩ ක්‍රියා ගැන එහි ගොදුරක් වු වී. සිවදාසන් ලෙසින් මෙරට සිනමා කර්මාන්තයේ කා අතරත් ප්‍රකට වෛරමුත්තු සිවදාසන් බීබීසී සිංහල සේවය හා අතීත ආවර්ජනයකට එක්විය.
+
+1983 වර්ෂයේ ජුලි 23 දින ආරම්භ වී දින ගණනක් තිස්සේ ඇවිලුණු “කළු ජුලිය” නමින් කුප්‍රකට වර්ගවාදි සංහාරයෙන් දෙමළ වැසියන් දහස් ගණනක් ඝාතනය කෙරුණු අතර කෝටි ගණනක නිවාස ඇතුලු දේපළ ගිනිබත් විය.
+
+ඒ අතර සිනමා කර්මාන්තයට සම්බන්ධ වී කටයුතු කළ දෙමළ ජනයා, සිනමා ශාලා මෙන්ම දෙමළ හිමිකාරිත්වය යටතේ තිබු රසායනාගාර ද විය. එම විනාශයෙන් ලාංකීය සිනමාවට වුයේ ගැණිය නොහැකි පාඩුවකි.
+
+දැනට කැනඩාවේ වෙසෙන සිවදාසන් එවක දී හැඳල, වත්තල පිහිටි විජය චිත්‍රාගාරයේ ප්‍රධාන පාලක වශයෙන් රැකියාවේ නිරත වී ඇත.
+
+...
+
+[Data](articles/8cb5581b.json)
 
 ---
 
@@ -1554,6 +1688,22 @@ Meanwhile, the Citizenship Alliance (UPFA) was protesting in front of the Electi
 
 ---
 
+### උද්ධමනය ඉහළට
+
+*2024-07-22 20:06:11* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-410924) · `si`
+
+2024 මැයි මාසයේ දී 1.6% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 ජූනි මාසය සඳහා 2.4% ක් දක්වා වැඩි වී තිබේ.
+
+20244 මැයි මාසයේ දී 0.5% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජූනි මාසයේ දී   1.9% ක් දක්වා වැඩි වී ඇත.
+
+2024 මැයි මාසයේ දී 2.4% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජූනි මාසයේ දී 2.7% ක් දක්වා වැඩි වී තිබේ.
+
+◼️
+
+[Data](articles/51c51f1e.json)
+
+---
+
 ### MOU signed for interest-free loans under Agricultural Modernization Program
 
 *2024-07-22 20:02:00* · [`islandlk`](http://island.lk/mou-signed-for-interest-free-loans-under-agricultural-modernization-program/) · `en`
@@ -2139,167 +2289,5 @@ The Deputy Inspector General has further pointed out that the Postal Department 
 [Data](articles/60a64632.json)
 
 [Extended Data](ext_articles/60a64632.ext.json)
-
----
-
-### 'Makkah Mishi' in the unintended pronunciation of young
-
-*2024-07-22 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189097) · `ta`
-
-"Makkah Mishi," from Harris Jayaraj's soundtrack in Brother, featuring Jayam Ravi, went viral on social media platforms like TikTok. Director M. Rajesh's upcoming film, featuring Briyanka Arul Mohan, Bhumika Chawla, and others, also features music by Harris Jayaraj. The film's first look and songs, including "What is your Saitla Falta Falta Vachikinu" by popular YouTuber Bal Dappa, received over a million views, indicating its popularity among various age groups.
-
-🟩
-
-In the music of composer Harris Jayaraj, the first song 'Makka Mishi' featured in the film 'Brother', which is starring in Jayam Ravi, has given them the opportunity to showcase their skills on social networks, including the 'reels' of today's internet generation.
-
-Director M. Rajesh's upcoming film 'Briyanka Arul Mohan, Bhumika Chawla, V TV Ganesh. S.. Bhaskar, Suresh Chakraborty and many others have played. Harris Jayaraj has composed the film, which has been recorded by Vivekanand Santosh.. The film was produced by Screen Sean Entertainment.
-
-With the release of the first look of the film, the song 'What is your Saitla Falta Falta Vachikinu' and the song that starts with the song and the dance video for the song.The song has been written and sung by famous YouTube Bal Dappa. This song will be in the stanza
-
-...
-
-[Data](articles/b7f567e8.json)
-
-[Extended Data](ext_articles/b7f567e8.ext.json)
-
----
-
-### Sri Lanka women's group beat another win
-
-*2024-07-22 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199092) · `si`
-
-In the Asia Cup Women's Cricket Tournament, Sri Lanka's women team secured their second victory, led by Chamari Atapattu, who scored 119 runs not out, including the tournament's first century with 14 fours and seven sixes. The Sri Lankan team made 184 runs in 20 overs, while Malaysia fell short chasing 185 runs in 19 overs.
-
-🟩
-
-Chamari Atapattu won the Sri Lanka Women's Team (22) to report the second win by the Asia Cup Women's Cricket Tournament.
-
-The Sri Lanka women's group scored 184 runs for the loss of 4 wickets in their allotted 20 overs.
-
-Leader of the Sri Lanka Women's group leader Chamari Atapattu scored 119 not out.
-
-She had scored the century with 14 fours and seven sixes.
-
-It is the first century, who gathered in the Asian Cup Women and 20 cricket match.
-
-The Malaysian women were elected to chase 185 runs in a winning target and last 40 runs for the loss of 19 overs.
-
-◼️
-
-[Data](articles/1f9b87d9.json)
-
-[Extended Data](ext_articles/1f9b87d9.ext.json)
-
----
-
-### 30,000 rupees to take selfie with Vijay Antony
-
-*2024-07-22 17:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-ஆண்டனியுடன்-செல்ஃபி-எடுக்க-30-000-ரூபாய்/175-340840) · `ta`
-
-Vijay Antony's concert promo revealed a unique offer: fans who buy a ticket priced between 5,000 and 30,000 rupees get a chance to take a selfie with him. This special perk was announced during a media briefing at the One Galle Face Business Complex, highlighting the event's exclusivity and the high demand for VIP experiences.
-
-🟩
-
-A media briefing was organized at the One Galle Face Business Complex on Sunday (21st) as the concert of Vijay Antony's concert to be held in Sugathadasa on September 7.
-
-The PROMO of the concert was released and the opportunity to photograph Vijay Antony (Selfie) for the buyers of Rs 30,000 to attend the concert.
-
-It is also worth noting that tickets for the concert for Rs 5000 to Rs 30,000 for attending the concert.
-
-◼️
-
-[Data](articles/2402f447.json)
-
-[Extended Data](ext_articles/2402f447.ext.json)
-
----
-
-### 30,000 for selfie with Vijay Antony
-
-*2024-07-22 17:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-ஆண்டனியுடன்-செல்ஃபிக்கு-ரூ-30-000/175-340840) · `ta`
-
-Vijay Antony's concert promo revealed; attendees buying Rs 30,000 tickets get a selfie chance with him.
-
-🟩
-
-A press conference was held on Sunday (21) at the One Galle Face Commercial Complex as a leading event of Vijay Antony's concert to be held on September 7 at Sugathadasa in Colombo.
-
-The PROMO of the concert was released and the opportunity to photograph Vijay Antony (Selfie) for the buyers of Rs 30,000 worth of tickets to attend the concert.
-
-◼️
-
-[Data](articles/67bd68dc.json)
-
-[Extended Data](ext_articles/67bd68dc.ext.json)
-
----
-
-### Rs 30,000 for selfie with Vijay Antony
-
-*2024-07-22 17:10:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-ஆண்டனியுடனான-செல்ஃபிக்கு-ரூ-30-000/175-340840) · `ta`
-
-Vijay Antony's concert promo revealed a unique offer: fans buying Rs 30,000 tickets get a selfie with him. The announcement was made during a media briefing at One Galle Face Business Complex, ahead of the concert scheduled for September 7 at Sugathadasa, Colombo.
-
-🟩
-
-A media briefing was held on Sunday (21) at the One Galle Face Business Complex as a leading event of Vijay Antony's concert to be held on September 7 at Sugathadasa in Colombo.
-
-The PROMO of the concert was released and the opportunity to photograph Vijay Antony (Selfie) for the buyers of Rs 30,000 worth of tickets to attend the concert.
-
-◼️
-
-[Data](articles/f771e025.json)
-
-[Extended Data](ext_articles/f771e025.ext.json)
-
----
-
-### The music release of the movie 'Veerai Nam'
-
-*2024-07-22 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189100) · `ta`
-
-The music release of "Veerai Nivas," featuring newcomer Suresh Nanda and directed by Nagaraj Ramamurthy, took place in Chennai. The film, which also stars Nandana, Marimuthu, Deepa Shankar, among others, is set against the backdrop of rural Tamil Nadu. Composed by the "Emperor of Deepan" and produced by Suresh Nanda, it highlights the significance of joint families. Nagaraj, who acted in his second film after a seven-year hiatus, emphasized its emotional appeal.
-
-🟩
-
-The music release of the movie 'Veerai Nivas', starring newcomer Suresh Nanda, was held in Chennai.
-
-Suresh Nanda, a writer and actor in the film 'Veerai Nivasi' directed by debutant director Nagaraj.. Ramamurthy, Nandana, late actor Marimuthu, Deepa Shankar, Rama, Senthi Kumari, Pandi aka, Gerald Milton and many others have been cast.
-
-M.. The film has been composed by the Emperor of Deepan. The film has been realistically recorded by the rural population of the southern part of Tamil Nadu on behalf of the producer N.. Produced by Suresh Nanda.
-
-The music release of the film will be released in Chennai soon. Directors Empire, Ram Sangaya, Gokul and actor Ravi Maria participated in the event.
-
-Director Nagaraj said, “This creation- originated from the life I lived. The film was only seven years after directing the first film.. I decided to act as the hero of the story.
-
-...
-
-[Data](articles/2a3738cd.json)
-
-[Extended Data](ext_articles/2a3738cd.ext.json)
-
----
-
-### Control price to bread?
-
-*2024-07-22 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199091) · `si`
-
-Nalin Fernando warns that if bread prices aren't lowered by bakers within two days, a price control measure will be implemented. He urges bakers to reduce prices, especially for essential bread types, to ensure affordability for the public.
-
-🟩
-
-The commercial prices of the Trade Nalin Fernando says that if bread prices are not reduced by baked owners, the price is introduced to bread.
-
-The commercial prices of the Trade Nalin Fernando says that if bread prices are not reduced by baked owners, the price is introduced to bread.
-
-Speaking to the media this morning (22), the commemoration said that if bread prices were not reduced in the next two days, the price of control was introduced.
-
-"I found bakery owners. There he said bread and other bakery products. They asked for a few days. I made clear them clearly, I would give three days if I would definitely go to the judgment if they would not judge the price of three days. Especially there is a lot of bread nationals today. All these bread takes the same one. This is a big problem. So I told them that if the sandwich bread or a normal bread, or a normal bread. The people of the country will be able to afford to the people of the country with 450 grams bread. "
-
-◼️
-
-[Data](articles/5ea9b9c9.json)
-
-[Extended Data](ext_articles/5ea9b9c9.ext.json)
 
 ---

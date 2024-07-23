@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 02:20:40**
+As of **2024-07-24 02:35:46**
 
 ## Newspaper Stats
 
-*Scraped **36,848** Articles*
+*Scraped **36,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,340
 adaderanalk | 4,269
-tamilmirrorlk | 4,514
+tamilmirrorlk | 4,515
 dailymirrorlk | 4,733
 virakesarilk | 5,780
 adaderanasinhalalk | 6,185
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,847 (100.0%) of 36,848 articles have been extended.
+36,848 (100.0%) of 36,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### ’ஜே .வி.பி, தூண்டி விட்டு வீதிக்கு இறக்குகின்றனர்’
+
+*2024-07-24 01:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-வி-பி-தூண்டி-விட்டு-வீதிக்கு-இறக்குகின்றனர்/175-340919) · `ta`
+
+தொழிற்சங்கத்தினரை ஜே .வி.பியினர்  தூண்டி வீதிக்கிறக்குகின்றனர் அதனால் தொழிலுக்கு ஆபத்து ஏற்படும்  ஊழியர்களிடமிருந்து ஜே. வி.பி.சட்டத்தரணிகள் பணம் உழைகின்றனர் என  மின்சக்தி  மற்றும்  வலு சக்தி  அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) இடம்பெற்ற   வாய்மூல விடைக்கான வினா நேரத்தின் போது பிரேம்நாத் சி.தொலவத்தே எம்.பி எழுப்பிய முன்வைத்த கேள்விகளுக்கு பதிலளிக்கும் போதே இவ்வாறுத்தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+புதிய மின்சார சபை சட்டத்தை  நிறைவேற்றினால் மின்கட்டமைப்பு துறையின் சகல கட்டமைப்புக்களும் தனியார் மயப்படுத்தப்படும் என்று கூறிக் கொண்டு கடந்த ஜனவரி மாதம் அரசியல் நோக்கங்களை முன்னிலைப்படுத்தி மின்சார சபை தொழிற்சங்கத்தினர் பணிப்புறக்கணிப்பு போராட்டங்களிலும்,தொழிற்சங்க நடவடிக்கைகளிலும் இறங்கினார்கள்.
+
+மின்சார சேவை அத்தியாவசிய சேவையாக பிரகடனப்படுத்தப்பட்டுள்ள நிலையில் மின் விநியோகம் மற்றும் பொது சேவைக்கு பாதிப்பு ஏற்படாத வகையில் தொழிற்சங்க நடவடிக்கையில் ஈடுபடுங்கள் என்று அறிவுறுத்தினோம் என்றார்
+
+...
+
+[Data](articles/d806220d.json)
+
+---
 
 ### MP who remembers the black July
 
@@ -56,17 +74,27 @@ I am worried in this congregation that the lands and cultural identities of the 
 
 ---
 
-### சிறைக்கைதிகள் நிர்வாணமாக சோதனைக்குட்படுத்தப்படுகிறார்கள் - ரோஹன பண்டார
+### Prisoners are nude tested - Rohana Bandara
 
 *2024-07-24 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189217) · `ta`
 
-நீதிமன்ற விசாரணைக்கு சென்று சிறைக்கு திரும்பும் ஆண் மற்றும் பெண் கைதிகள் நிர்வாணமாக சோதனைக்குட்படுத்தப்படுகிறார்கள் என எதிரணியின் உறுப்பினர் ரோஹன பண்டார குறிப்பிட்ட கருத்துக்கு நீதி மற்றும் சிறைச்சாலைகள் அலுவல்கள் அமைச்சர் விஜயதாஸ ராஜபக்ஷ கடும் எதிர்ப்பை வெளிப்படுத்தினார்.
+In a parliamentary debate, Opposition member Rohana Bandara criticized the practice of nude checks on returning prisoners, highlighting psychological impacts and poor conditions. Minister Vijayadasa Rajapaksa responded strongly, denying allegations of misconduct and emphasizing the need for evidence before taking action. The discussion touched upon broader issues including the state of prisons and the country's economic crisis.
 
-பாதிக்கப்பட்ட கைதி மற்றும் முறையற்ற வகையில் செயற்பட்ட அதிகாரியின் பெயர் விபரங்களை தாருங்கள் என அமைச்சர் கோரிய போது விபரங்களை வழங்க முடியாது என ரோஹன பண்டார குறிப்பிட்டார். அவ்வாறாயின் நீங்கள் பொய்யுரைக்கின்றீர்கள், கீழ்த்தரமாக நடந்துக் கொள்ள வேண்டாம் என நீதியமைச்சர் கடுமையாக சாடினார்.
+🟩
+
+Minister of Justice and Prison Affairs, Vijayadasa Rajapakse, expressed his strong opposition to the opposition member Rohana Bandara, that the male and female prisoners who return to jail are being checked naked.
+
+Rohana Bandara said that when the Minister demanded that the victim's prisoner and the improper acting officer be given details. If so, you are lying down and the Justice Minister vehemently said that you should not behave subversively.
+
+Opposition member Rohana Bandara, speaking at the debate on the Civil Operations Act (Amendment) Bill in Parliament on Tuesday (23). Prison staff without doctors and nurses carry out the prisoners improperly and improperly tests.
+
+When checking the rectal area of ​​the prisoners, the self -esteem and psychology of the prisoners will be affected.. He said that prison staff were also affected by lack of facilities.
 
 ...
 
 [Data](articles/2847ef20.json)
+
+[Extended Data](ext_articles/2847ef20.ext.json)
 
 ---
 
@@ -2387,35 +2415,5 @@ The initiative of integrating the global ‘Starlink’ network with Sri Lanka i
 [Data](articles/c8ac76c6.json)
 
 [Extended Data](ext_articles/c8ac76c6.ext.json)
-
----
-
-### Kelani workers workshop
-
-*2024-07-23 11:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/களனிவெளி-தொழிலாளர்கள்-பணிபுறக்கணிப்பு/76-340880) · `ta`
-
-Workers at the Kelaniya External Plantation Management Institute in Nuwara Eliya boycotted work due to unpaid salaries and in protest against the company's actions against Minister Jeevan Thondaman. They resumed work in various plantations including Laverzilip, Naspy, Munblan, Magastota, Scrap, and Nuwara Eliya Division, as well as Edinburo, Classo, Adivan, and Kalaniweli areas. Support came from Rathalla top divisional workers and bank workers under the Halees Plantation Administration and Bank Oya.
-
-🟩
-
-In all plantations of the Kelaniya External Plantation Management Institute in Nuwara Eliya district, workers have been deployed on Tuesday morning (23) in the process of dismantling their usual tea industry.
-
-Workers who have been involved in the work boycott of the workforce on Tuesday (23) in this workshop for two main reasons.
-
-The Kelaniya Company, which refuses to pay a salary of 1700 rupees, is admitted to the stomach of the company.
-
-Workers said that the work was being made, denouncing the company's action against Minister Jeevan Thondaman, who denounced the bike.
-
-Thus, under the Nuwara Eliya Peedru Garden, under the Kelaniya Plantation Management Institute, Laverzilip, Naspy,
-
-Workers have been deployed in the gardens of Munblan, Magastota and Scrap and Nuwara Eliya Division.
-
-Similarly, workers from the Edinburo, Classo, Adivan, and the upper division of the Kalaniweli Plantation Management Administration in the Nanuoya area
-
-...
-
-[Data](articles/b94bfacc.json)
-
-[Extended Data](ext_articles/b94bfacc.ext.json)
 
 ---

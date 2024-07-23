@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 08:24:42**
+As of **2024-07-23 08:35:38**
 
 ## Newspaper Stats
 
-*Scraped **36,682** Articles*
+*Scraped **36,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,49 @@ adaderanalk | 4,250
 tamilmirrorlk | 4,475
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,156
+adaderanasinhalalk | 6,157
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,680 (100.0%) of 36,682 articles have been extended.
+36,682 (100.0%) of 36,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### නාඳුනන කාන්තා මළ සිරුරක්
+### ශ්‍රී ලංකා සංචිතයට ක්‍රීඩා ඇමතිගේ අනුමැතිය
+
+*2024-07-23 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199107) · `si`
+
+ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ශ්‍රී ලංකා සංචාරය සඳහා ක්‍රීඩකයින් 16 දෙනෙකුගෙන් යුත් සංචිතයට ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතාගේ අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/874abc35.json)
+
+---
+
+### Unknown female body found
 
 *2024-07-23 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199106) · `si`
 
-ඊයේ (22) උදෑසන පයාගල වෙරළ තීරයේ කාන්තාවක් වැටී සිටින බවට පයාගල පොලීසියට ලද පණිවුඩයක් ලැබී තිබුණි.
+A female body was discovered near Payagala coast, leading to her immediate transport to Nagoda hospital. Her identity remains unknown.
 
-පසුව පොලීසිය අදාළ ස්ථානයට ගොස් එම කාන්තාව නාගොඩ රෝහලට ඇතුළත් කිරීමේදී මියගොස් සිටි බවට වාර්තා වෙයි.
+🟩
 
-මරණකාරියගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර ඇය වයස අවුරුදු 60ත් 70ත් පමණ උස අඩි 05ක පමණ වන තළෙලු සිහින් සිරුරක් හිමි කාන්තාවක් බව පොලීසිය පවසයි.
+The Payagala Police received a message from the Payagala coast yesterday morning.
+
+The police went to the relevant location and reported that the woman was rushed to the Nagoda hospital.
+
+The identity of the deceased has not yet been established, police said.
 
 ◼️
 
 [Data](articles/4de04faf.json)
+
+[Extended Data](ext_articles/4de04faf.ext.json)
 
 ---
 
@@ -268,19 +286,25 @@ More than 34 million applications for the first phase of the Aswesa Project were
 
 ---
 
-### 16,000 ஆசிரியர்கள் நியமனம்
+### Appoint 16,000 teachers
 
 *2024-07-23 01:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-000-ஆசிரியர்கள்-நியமனம்/175-340861) · `ta`
 
-பொருளாதார நெருக்கடிகளுக்கு மத்தியிலும் தேசிய மற்றும் மாகாண மட்டத்தில் 16,000 ஆசிரியர் நியமனங்களை வழங்கி ஆசிரியர் பற்றாக்குறைக்கு அரசாங்கம் தீர்வை வழங்கியுள்ளதாக  கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+Despite an economic crisis, Sri Lanka's Education Minister announced 16,000 new teacher appointments nationwide and resumed development projects funded by foreign aid in universities. The government also aims to resolve teacher professional issues, potentially leading to immediate salary increases.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கல்வி அமைச்சர் சுசில் பிரேம்ஜயந்த மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில,
+🟩
 
-பல்கலைக்கழகங்களில் வெளிநாட்டு உதவியின் கீழ் ஆரம்பிக்கப்பட்டு கடந்த காலத்தில் நிறுத்தப்பட்ட அபிவிருத்தி பணிகளும் மீண்டும் ஆரம்பிக்கப்பட்டுள்ளன. இது பல்கலைக்கழக கட்டமைப்புக்கும் நிர்மாணத் துறைக்கும் மிகவும் முக்கியமானது என்பதைக் கூற வேண்டும்.
+Education Minister Susil Premajayantha said that the government has given a solution to the shortage of teachers by giving 16,000 teacher appointments at the national and provincial level despite the economic crisis.
+
+Education Minister Susil Premjayantha said this at a media briefing held at the Presidential Media Center yesterday. He is further,
+
+Development work that has been launched under foreign assistance in universities has been resumed. It must be said that this is very important to the university structure and the construction sector.
 
 ...
 
 [Data](articles/7d7b6f3e.json)
+
+[Extended Data](ext_articles/7d7b6f3e.ext.json)
 
 ---
 
@@ -2243,31 +2267,5 @@ Talks about stopping the Tamil general candidate in the presidential election ar
 [Data](articles/1a1bb11d.json)
 
 [Extended Data](ext_articles/1a1bb11d.ext.json)
-
----
-
-### Will Udayanidhi Stalin give the deputy chief minister ..?- Edappadi Palanisamy question.
-
-*2024-07-22 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189089) · `ta`
-
-Edappadi Palanisamy questions if Udayanidhi Stalin, Karunanidhi's grandson and Stalin's son, will be appointed as Tamil Nadu's Deputy Chief Minister due to DMK being a family party. He criticizes the decline in "mother restaurants" under the DMK regime and the rise in murders and drug use, suggesting these issues indicate poor governance. Despite having experienced ministers, Palanisamy implies nepotism might lead to Udayanidhi's appointment without merit.
-
-🟩
-
-'DMK is a family party. Thermology. Karunanidhi's grandson - the son of Stalin - is Udayanidhi Stalin's appointment as Deputy Chief Minister? 'Opposition leader and AIADMK general secretary Edappadi K Palanisamy has raised the question.
-
-“The number of mother restaurants in the DMK regime is declining. Over 400 mother restaurants started in Chennai's Mother's Mother's Rule. This has caused people to disgust and dissatisfaction with the DMK government. This is why the mother went to the restaurant and inspected the Chief Minister.
-
-There have been 595 murders in 200 days in Tamil Nadu. Increased cannabis and drugs. Students will degrade young people if they do not prevent cannabis sales.
-
-There are workers and experienced ministers for many years in DMK. But in the family party, DMK will not get the post of Deputy Chief Minister.
-
-Udayanidhi only qualifies Karunanidhi's grandson - Stalin's son. Does he give him the post of Deputy Chief Minister?He has said.
-
-◼️
-
-[Data](articles/92bd3982.json)
-
-[Extended Data](ext_articles/92bd3982.ext.json)
 
 ---

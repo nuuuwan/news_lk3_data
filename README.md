@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 23:20:26**
+As of **2024-07-23 23:35:52**
 
 ## Newspaper Stats
 
-*Scraped **36,843** Articles*
+*Scraped **36,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
-adalk | 3,338
+adalk | 3,339
 adaderanalk | 4,269
 tamilmirrorlk | 4,512
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,843 (100.0%) of 36,843 articles have been extended.
+36,843 (100.0%) of 36,844 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -415,6 +415,24 @@ In this regard, the doctor, Ramanathan Azuna, has stolen its medical administrat
 [Data](articles/08eba975.json)
 
 [Extended Data](ext_articles/08eba975.ext.json)
+
+---
+
+### කටාර් රැකියා පෙන්වා මුදල් වංචාකළ කත අල්ලයි
+
+*2024-07-23 19:07:24* · [`adalk`](https://www.ada.lk/breaking_news/කටාර්-රැකියා-පෙන්වා-මුදල්-වංචාකළ-කත-අල්ලයි/11-410948) · `si`
+
+ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව කටාර් රාජ්‍යයේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අද දින (7/23) අත්අඩංගුවට ගන්නා ලදී.
+
+ජාඇල ප්‍රදේශයේ පදිංචි කාන්තාවක් විසින් කටාර් රාජ්‍යයේ රැකියා ලබාදීම සඳහා එක් අයෙකුගෙන් රුපියල් ලක්ෂ 10 බැගින් පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ 30ක මුදලක් ලබාගෙන විදෙස්ගත කර තිබේ. නමුත් එරටදී පොරොන්දු වූ පරිදි රැකියා හිමිනොවීම හේතුවෙන්, යළි දිවයිනට පැමිණ කාර්යාංශය වෙත පැමිණිලි කරන ලදී.
+
+ඒ අනුව ක්‍රියාත්මක වූ විමර්ශන නිළධාරීන් විසින් අදාල කාන්තාව ප්‍රකාශ සටහන් කරගැනීම සඳහා අද දින (7/23) කාර්යාංශය වෙත කැඳවූ අතර, ප්‍රකාශ සටහන් කරගැනීමෙන් අනතුරුව එම කාන්තාව විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+
+අත්අඩංගුවට ගත් සැකකාරිය, කාර්යාංශයේ වලංගු අනුමැතියක් නොමැතිව විදේශ රැකියා සඳහා තැනැත්තන් යොමුකිරීමට මුදල් අයකිරීම හා වංචා කිරීම යන චෝදනාව යටතේ අද දින වැලිසර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+...
+
+[Data](articles/164a105c.json)
 
 ---
 
@@ -2413,31 +2431,5 @@ Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasu
 [Data](articles/b794f0be.json)
 
 [Extended Data](ext_articles/b794f0be.ext.json)
-
----
-
-### Jewelry?: Then happy
-
-*2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகள்-அடகிலா-அப்போது-மகிழ்ச்சிதான்/175-340879) · `ta`
-
-In response to the economic crisis, the Cabinet approved relief measures for those who had mortgaged gold jewelry in banks, increasing the mortgage advance significantly. To aid low-income individuals, an interest subsidy of up to 10% per annum for such loans was introduced, effective from June 30, 2024.
-
-🟩
-
-The Cabinet has approved relief to those who have mortgaged gold jewelery in banks.
-
-The recent severe economic crisis in the country has affected all the sectors of the economy directly and indirectly, resulting in a rapid increase in gold mortgage.
-
-The sum of the mortgage advance, which was about 210 billion rupees in 2019, increased by 172% by March 2024 to 571 billion rupees.
-
-Considering the situation, the licensed banks have been found to provide relief to low -income low -income persons.
-
-Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasury to implement a maximum of 10%per annum for mortgage advances from the individual based on individuals from licensed banks on or earlier.. The Money Scheme, Economic Development and National Policy Minister has been approved by the President.
-
-◼️
-
-[Data](articles/b8959216.json)
-
-[Extended Data](ext_articles/b8959216.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 03:20:25**
+As of **2024-07-24 03:35:57**
 
 ## Newspaper Stats
 
-*Scraped **36,850** Articles*
+*Scraped **36,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,340
 adaderanalk | 4,269
-tamilmirrorlk | 4,516
+tamilmirrorlk | 4,517
 dailymirrorlk | 4,733
 virakesarilk | 5,780
 adaderanasinhalalk | 6,185
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,850 (100.0%) of 36,850 articles have been extended.
+36,850 (100.0%) of 36,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### தேர்தல்கள் கூட்டணி ஓகஸ்ட் 8 கைச்சாத்து
+
+*2024-07-24 02:01:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-கூட்டணி-ஓகஸ்ட்-8-கைச்சாத்து/175-340921) · `ta`
+
+அடுத்த தேர்தல்களை இலக்காகக் கொண்டு ஐக்கிய மக்கள் சக்தி தலைமையிலான புதிய ஐக்கிய மக்கள் கூட்டணி எதிர்வரும் ஆகஸ்ட் மாதம்  8 ஆம் திகதி கைச்சாத்தப்படும் என ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்தும பண்டார  தெரிவித்தார்.
+
+சிங்கள, தமிழ், முஸ்லிம், பர்கர் என சகல சமூகங்களையும் சேர்ந்த தரப்பினரை இணைத்துக் கொண்டு இக்கூட்டணியை அமைப்போம். இக்கூட்டணியில் சிங்கள, தமிழ்,முஸ்லிம் பர்கர் என்ற சகோதர சமூகங்களின் கட்சிகளும் எம்மோடு கைகோர்க்கவுள்ளனர். அவ்வாறு 30 க்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்கள் அன்றைய தினம் எம்மோடு கைகோர்க்கவுள்ளனர்.
+
+இந்நாட்டிலுள்ள சகல இனத்தவர்களையும் சகல மதத்தவர்களையும் இணைத்துக் கொண்டே டி.எஸ்.சேனாநாயக்க   1946 ஆம் ஆண்டு ஐக்கிய தேசியக் கட்சியை ஸ்தாபித்தார். இன்று சஜித் பிரேமதாச   ஐக்கிய மக்கள் சக்தியின் தலைவராக இந்நாட்டிலுள்ள சகல இனத்தவர்களையும் சகல தரப்பினரையும் இணைத்துக் கொண்டு இந்த கூட்டணியை ஸ்தாபிப்பார்.
+
+...
+
+[Data](articles/c452bf59.json)
+
+---
 
 ### The model is safe in Bangladesh
 
@@ -2405,25 +2421,5 @@ However, the Foreign Minister also responded to the response of the Polish Exter
 [Data](articles/b6ac710a.json)
 
 [Extended Data](ext_articles/b6ac710a.ext.json)
-
----
-
-### Palestinian factions sign declaration to end divisions after talks in China
-
-*2024-07-23 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100718/palestinian-factions-sign-declaration-to-end-divisions-after-talks-in-china) · `en`
-
-Various Palestinian factions have agreed to end their divisions and strengthen Palestinian unity by signing the Beijing Declaration on Tuesday morning in China, according to Chinese state media.
-
-The declaration was signed at the closing ceremony of a reconciliation dialogue among the factions held in Beijing from July 21-23, state broadcaster CCTV said.
-
-A total of 14 Palestinian factions including the leaders of rival groups Fatah and Hamas also met with the media, with China’s Foreign Minister Wang Yi present, CGTN said in a social media post.
-
-Rival factions Hamas and Fatah met in China in April to discuss reconciliation efforts to end around 17 years of disputes.
-
-◼️
-
-[Data](articles/b5605958.json)
-
-[Extended Data](ext_articles/b5605958.ext.json)
 
 ---

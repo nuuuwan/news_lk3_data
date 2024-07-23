@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 01:20:12**
+As of **2024-07-24 01:35:56**
 
 ## Newspaper Stats
 
-*Scraped **36,845** Articles*
+*Scraped **36,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,340
 adaderanalk | 4,269
-tamilmirrorlk | 4,512
+tamilmirrorlk | 4,513
 dailymirrorlk | 4,733
 virakesarilk | 5,779
 adaderanasinhalalk | 6,185
@@ -26,9 +26,27 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,845 (100.0%) of 36,845 articles have been extended.
+36,845 (100.0%) of 36,846 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-24 (Wednesday)
+
+### மாகாணசபை தேர்தல் தீர்ப்பு வருகிறது
+
+*2024-07-24 00:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாணசபை-தேர்தல்-தீர்ப்பு-வருகிறது/175-340917) · `ta`
+
+மாகாணசபை தேர்தல் தொடர்பில் நீதிமன்ற தீர்ப்பு மிக விரைவில் கிடைக்கும் . நீதிமன்ற தீர்ப்பின் பிரகாரம் செயற்பட நாங்கள் தயாராக இருக்கிறோம் என பொதுநிர்வாக, உள்நாட்டலுவல்கள் மாகாண சபைகள் இராஜாங்க அமைச்சர் ஜானக்க வக்கும்புர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23)  அத்துரலியே ரத்தன தேரர். எழுப்பிய கேள்விக்கு பதிலளிக்கும்போதே இவ்வாறுத்தெரிவித்தார்.
+
+மாகாணசபை தேர்தல் தொடர்பில் நான்கு வழக்குகள் விசாரணையில் இருக்கின்றன. சுமந்திரன் எம்.பி.சபையில் முன்வைத்துள்ள  பிரேரணைக்கு அமைய விகிதாசார (பழைய) முறையில்  தேர்தலை நடத்த நாங்களும் ஆதரவளிப்போம். எனினும் மாகாணசபை தேர்தல் தொடர்பில் நீதிமன்ற தீர்ப்பு மிக விரைவில் கிடைக்கும் . நீதிமன்ற தீர்ப்பின் பிரகாரம் செயற்பட நாங்கள் தயாராக இருக்கிறோம் என்றார்.
+
+◼️
+
+[Data](articles/fd355588.json)
+
+---
 
 ### 2024-07-23 (Tuesday)
 
@@ -2413,31 +2431,5 @@ Meanwhile, Club Vasantha's wife continues to receive treatment at the intensive 
 [Data](articles/14aada05.json)
 
 [Extended Data](ext_articles/14aada05.ext.json)
-
----
-
-### Jewelry?: Then happy
-
-*2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகள்-அடகா-அப்போது-மகிழ்ச்சிதான்/175-340879) · `ta`
-
-In response to the economic crisis, the Cabinet approved relief measures for those who had mortgaged gold jewelry in banks, increasing the mortgage advance significantly. To help low-income individuals, an interest subsidy of up to 10% per annum for such loans will be implemented starting June 30, 2024.
-
-🟩
-
-The Cabinet has approved relief to those who have mortgaged gold jewelery in banks.
-
-The recent severe economic crisis in the country has affected all the sectors of the economy directly and indirectly, resulting in a rapid increase in gold mortgage.
-
-The sum of the mortgage advance, which was about 210 billion rupees in 2019, increased by 172% by March 2024 to 571 billion rupees.
-
-Considering the situation, the licensed banks have been found to provide relief to low -income low -income persons.
-
-Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasury to implement a maximum of 10%per annum for mortgage advances from the individual based on individuals from licensed banks on or earlier.. The Money Scheme, Economic Development and National Policy Minister has been approved by the President.
-
-◼️
-
-[Data](articles/ae466e6d.json)
-
-[Extended Data](ext_articles/ae466e6d.ext.json)
 
 ---

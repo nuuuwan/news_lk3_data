@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 22:09:21**
+As of **2024-07-23 22:20:40**
 
 ## Newspaper Stats
 
-*Scraped **36,835** Articles*
+*Scraped **36,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,337
-adaderanalk | 4,266
-tamilmirrorlk | 4,511
+adaderanalk | 4,267
+tamilmirrorlk | 4,512
 dailymirrorlk | 4,733
 virakesarilk | 5,778
-adaderanasinhalalk | 6,183
+adaderanasinhalalk | 6,184
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,834 (100.0%) of 36,835 articles have been extended.
+36,835 (100.0%) of 36,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### Sri Lanka gets more funds under India’s 2024-25 Budget allocation for MEA
+
+*2024-07-23 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100729/sri-lanka-gets-more-funds-under-indias-2024-25-budget-allocation-for-mea-) · `en`
+
+India-funded projects in the neighbourhood received the bulk of the allocation for the Ministry of External Affairs (MEA) under the Union Budget presented by Indian Finance Minister Nirmala Sitharaman on Tuesday.
+
+Sri Lanka, which has a number of India-funded projects, has received 2450 million Indian rupees (INR), an improvement of INR 950 million over last year’s funding of INR 1500 million, according to The Hindu.
+
+Nepal secured an allocation of INR 7000 million, which is a jump of INR 1500 million from previous year’s allocation of INR 5500 million.
+
+Seychelles, which had an allocation of INR 100 million, has also received a boost in funding with the infusion of INR 300 million.
+
+Meanwhile, Bhutan, the largest recipient of the annual allocation under the MEA, has seen a dip in funding by INR 3320.2 million. Total funding for Bhutan this year stands at INR 20,685.6 million.
+
+...
+
+[Data](articles/2f25404e.json)
+
+---
+
+### ට්‍රම්ප් ට වෙඩිතැබීම - වරදක් සිදුවූ බව චීට්ල් පිළිගනී
+
+*2024-07-23 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199137) · `si`
+
+අමෙරිකාවේ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඉලක්ක කර වෙඩිතැබීමේ සිද්ධිය වළක්වා ගැනීමට නොහැකිවීම රහස් ඔත්තු සේවාවල වරදක් බවට රහස් ඔත්තු ප්‍රධානී චීට්ල් පිළිගෙන තිබේ.
+
+අමෙරිකානු කොංග්‍රසය හමුවේ අදහස් පළ කළ ඇය පැවසුවේ දශක ගණනාවක් තුළදී සිදුවූ බරපතළ දෝෂය මෙය වන බැවින් ඒ සම්බන්ධ සියලු වගකීම තමන් භාරගන්නා බවය.
+
+එහිදී රිපබ්ලිකන් මෙන්ම ඩිමොක්‍රටික් පක්ෂ දෙකේම නීති සම්පාදකයින්, ඇය වහාම ධුරයෙන් ඉල්ලා අස්විය යුතු බවට බලකර තිබුණි.
+
+◼️
+
+[Data](articles/8536add5.json)
+
+---
 
 ### More information on Ward Place in Colombo
 
@@ -49,6 +85,26 @@ Investigations revealed that two were revealed in another three-wheeler and had 
 [Data](articles/afd68d09.json)
 
 [Extended Data](ext_articles/afd68d09.ext.json)
+
+---
+
+### கொலை செய்துவிட்டு நாட்டை விட்டு தப்பி ஓடியவர் கைது
+
+*2024-07-23 21:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலை-செய்துவிட்டு-நாட்டை-விட்டு-தப்பி-ஓடியவர்-கைது/175-340904) · `ta`
+
+டுபாய் அரசால் கைது செய்யப்பட்டு குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகளால் இலங்கைக்கு அழைத்து வரப்பட்ட சந்தேகநபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில் பல அதிர்ச்சித் தகவல்கள் வெளிவந்துள்ளன.
+
+நுகேகொட, ஜம்புகஸ்முல்ல பிரதேசத்தில் வசிக்கும் 45 வயதுடைய வர்த்தகர் ஒருவரே டுபாயில் இருந்து நாட்டுக்கு அழைத்து வரப்பட்டுள்ளார்.
+
+விசாரணைகளின் போது இவர், நபர் ஒருவரை சுட்டுக் கொன்றுவிட்டு, கொலைக்கு பயன்படுத்திய துப்பாக்கியை நுகேகொட பகுதியில் புதைத்து விட்டு டுபாய்க்கு தப்பிச் சென்று தலைமறைவாகியுள்ளதாக தெரியவந்துள்ளது.
+
+இவருடைய வாக்குமூலத்தின் அடிப்படையில் கொலைக்கு பயன்படுத்தப்பட்ட துப்பாக்கி  புதைத்து வைக்கப்பட்டிருந்த நிலையில் குற்றப்புலனாய்வு பிரிவினரால் மீட்கப்பட்டுள்ளது.
+
+டுபாய் அரசினால் பிறப்பிக்கப்பட்ட சிவப்பு பிடியாணையின் பேரில் டுபாய் பொலிஸாரால் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார். அதன்படி குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் குழு டுபாய் சென்று சந்தேக நபரை கடந்த 12ஆம் திகதி இலங்கைக்கு அழைத்து வந்துள்ளனர்.
+
+...
+
+[Data](articles/4db7a0ee.json)
 
 ---
 
@@ -372,19 +428,25 @@ It is noteworthy that the rescue personnel are continuing to rescue people affec
 
 ---
 
-### වර්ජනවලදී විදෙස් සංචාරකයන් සඳහා හෝ විශේෂ දුම්රියක් යෙදවීමට උපදෙස්
+### Tips for foreign tourists or special train at strikes
 
 *2024-07-23 18:29:36* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනවලදී-විදෙස්-සංචාරකයන්-සඳහා-හෝ-විශේෂ-දුම්රියක්-යෙදවීමට-උපදෙස්/11-410945) · `si`
 
-විවෘත සහ වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව වසරකට අධික කාලයක් තුළ රාජ්‍ය ආයතනවලට කැඳවීම් සිදුකර ලබා දුන් නිර්දේශ ක්‍රියාත්මක කිරීම මෙන්ම විවෘත සහ වගකීමෙන් යුතු මහජන සේවයක් ලබා දීමට අදාළ අංක 27/2023 දරන රාජ්‍ය පරිපාලන චක්‍රලේඛයට අනුව කටයුතු කිරීම සෑම රාජ්‍ය ආයතනයකම වගකීමක් බව එම කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී  ජගත් කුමාර සුමිත්‍රාරච්චි මහතා පසුගියදා අවධාරණය කළේය.
+Government agencies must implement recommendations for transparency and efficiency within a year. A committee highlighted the importance of public institutions adhering to these guidelines. The Elections Commission discussed removing body coloring for voters, saving resources, and improving accessibility for disabled voters through new sign language vocabularies. The Ministry of Education was tasked with educating principals and authorities, while the Registrar General's Office needs to simplify obtaining life certificates. The committee also urged for a fair pricing system to reduce fuel costs and operate special trains during railway strikes to support the tourism industry.
 
-විවෘත සහ වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදී කාරක සභා සභාපතිවරයා මේ බව පැවසීය.
+🟩
 
-රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු , පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය, අධ්‍යාපන අමාත්‍යාංශය, බස්නාහිර පළාත් සභාව, ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශය, ජනමාධ්‍ය අමාත්‍යාංශය සහ මැතිවරණ කොමිෂන් සභාව යන ආයතනවලට ලබා දී ඇති නිර්දේශ ක්‍රියාත්මක කිරීමේ ප්‍රගතිය පිළිබඳව විමර්ශනය සදහා එම ආයතනවල ඉහළ නිලධාරීන් මෙම කාරක සභාවට කැඳවා තිබිණි.
+The agency is the responsibility of every government agency to implement the recommendations of an open and responsible government to proceed to public institutions within a year as well as to provide the recommendations given to public institutions within a year.Chairman of the Council Jagath Kumara Sumithrachchi recently emphasized.
+
+The Chairman of the Committee Chairman, the Chairman of the Committee was made by the Sectoral Oversight Committee on an open and responsible government.
+
+The Committee on the Committee on the Ministry of Education, Ministry of Education, Ministry of Education, Ministry of Education, Ministry of Education and the Ministry of Transport and the Ministry of Health and the Elections Commission.It was called.
 
 ...
 
 [Data](articles/252df15c.json)
+
+[Extended Data](ext_articles/252df15c.ext.json)
 
 ---
 
@@ -2343,73 +2405,5 @@ Meanwhile, 2 in 3 (68.6%) people in the urban sector and nearly 1 in 4 (28.2%) p
 [Data](articles/39d50c19.json)
 
 [Extended Data](ext_articles/39d50c19.ext.json)
-
----
-
-### Govt. eyes collecting PET plastic bottles for recycling
-
-*2024-07-23 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100716/govt-eyes-collecting-pet-plastic-bottles-for-recycling) · `en`
-
-The Sectoral Oversight Committee (SOC) on Environment, Natural Resources and Sustainable Development has drawn its attention to the process of collecting PET plastic bottles for the purpose for recycling, based on QR code.
-
-This was considered when the Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development met in Parliament recently under the Chairmanship of MP Ajith Mannapperuma, the Parliamentary Communications Department said.
-
-The Committee Chair stated that although 450,000 tons of plastic are imported into the country each year, only 50,000 tons are collected for recycling and a large amount of plastic is burnt in the open environment in the country.
-
-...
-
-[Data](articles/55e8bc80.json)
-
-[Extended Data](ext_articles/55e8bc80.ext.json)
-
----
-
-### Champion to visit the country
-
-*2024-07-23 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199115) · `si`
-
-Basuru-Vaginya de Silva, a 16/17-year-old from Sri Devananda College, won a bronze medal in the South Asian and Asiatic Karate Championship in Bhutan. This achievement qualified him for the Sri Lanka Karatra Training Pool, potentially representing the national team.
-
-🟩
-
-Winning the South Asian and Asiatic Karate Championship, Ambalangoda G / Sri Devananda College, aged 16/17. The Basuru-Vaginya de Silva has won a bronze medal by securing the third place in the match.
-
-The Bronze Medality, who won the bronze medal, arrived in Sri Lanka yesterday evening.
-
-The South Asian and Asiatic Karate Championship was held in Bhutan from 17 July to 21st July.
-
-The Gold Medal was able to win the gold medal in the Open Karate Championship tournament conducted by the Sri Lanka Karatra Do Federation.
-
-With that victory, he had the opportunity to enter the Sri Lanka Karatra Training Pool and represent the Sri Lanka Karate National Team.
-
-◼️
-
-[Data](articles/8f5c3191.json)
-
-[Extended Data](ext_articles/8f5c3191.ext.json)
-
----
-
-### Sri Lanka’s Windforce commissions 389kWp solar power project in Zanzibar
-
-*2024-07-23 11:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-commissions-389kwp-solar-power-project-in-zanzibar-173368/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s WindForce Plc said it has commissioned a 389kWp ground mount off-grid solar power project in Zanzibar.
-
-“This “demonstrates our commitment to advancing renewable energy solutions, promoting sustainable development, and reducing our carbon footprint,” the company said in a stock exchange filing.
-
-The entire project involved the engineering design, procurement, installation, testing, and commissioning of a 389kWp ground mount off-grid solar power project in Zanzibar.
-
-The project was initially announced on November 9, 2023, and was completed on July 15, with an extended timeline due to delays in development of the required infrastructure from the client’s end, Windforce said.
-
-WindForce has a total of 12 solar plants across the globe, located in Pakistan, Uganda and Ukraine.
-
-In May, Fitch Ratings Lanka Ltd assigned a ‘BBB+(lka)’ rating for the company with stable outlook.(Colombo/Jul23/2024)
-
-◼️
-
-[Data](articles/10070004.json)
-
-[Extended Data](ext_articles/10070004.ext.json)
 
 ---

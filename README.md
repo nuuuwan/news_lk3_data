@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 02:05:30**
+As of **2024-07-24 02:20:40**
 
 ## Newspaper Stats
 
-*Scraped **36,847** Articles*
+*Scraped **36,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 3,340
 adaderanalk | 4,269
 tamilmirrorlk | 4,514
 dailymirrorlk | 4,733
-virakesarilk | 5,779
+virakesarilk | 5,780
 adaderanasinhalalk | 6,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,847 (100.0%) of 36,847 articles have been extended.
+36,847 (100.0%) of 36,848 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,20 @@ I am worried in this congregation that the lands and cultural identities of the 
 [Data](articles/70edc4b3.json)
 
 [Extended Data](ext_articles/70edc4b3.ext.json)
+
+---
+
+### சிறைக்கைதிகள் நிர்வாணமாக சோதனைக்குட்படுத்தப்படுகிறார்கள் - ரோஹன பண்டார
+
+*2024-07-24 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189217) · `ta`
+
+நீதிமன்ற விசாரணைக்கு சென்று சிறைக்கு திரும்பும் ஆண் மற்றும் பெண் கைதிகள் நிர்வாணமாக சோதனைக்குட்படுத்தப்படுகிறார்கள் என எதிரணியின் உறுப்பினர் ரோஹன பண்டார குறிப்பிட்ட கருத்துக்கு நீதி மற்றும் சிறைச்சாலைகள் அலுவல்கள் அமைச்சர் விஜயதாஸ ராஜபக்ஷ கடும் எதிர்ப்பை வெளிப்படுத்தினார்.
+
+பாதிக்கப்பட்ட கைதி மற்றும் முறையற்ற வகையில் செயற்பட்ட அதிகாரியின் பெயர் விபரங்களை தாருங்கள் என அமைச்சர் கோரிய போது விபரங்களை வழங்க முடியாது என ரோஹன பண்டார குறிப்பிட்டார். அவ்வாறாயின் நீங்கள் பொய்யுரைக்கின்றீர்கள், கீழ்த்தரமாக நடந்துக் கொள்ள வேண்டாம் என நீதியமைச்சர் கடுமையாக சாடினார்.
+
+...
+
+[Data](articles/2847ef20.json)
 
 ---
 
@@ -2403,37 +2417,5 @@ Similarly, workers from the Edinburo, Classo, Adivan, and the upper division of 
 [Data](articles/b94bfacc.json)
 
 [Extended Data](ext_articles/b94bfacc.ext.json)
-
----
-
-### Task
-
-*2024-07-23 11:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவனுக்காக-பணிபுறக்கணிப்பு/76-340880) · `ta`
-
-In the Nuwara Eliya district, workers at the Kelaniya External Plantation Management Institute began dismantling operations due to unpaid salaries and the company's actions against Minister Jeevan Thondaman. This includes workers from various locations like Peedru Garden, Laverzilip, Naspy, Munblan, Magastota, Scrap, Nuwara Eliya Division, Edinburo, Classo, Adivan, Kalaniweli, and others. Support comes from Rathalla top divisional workers and bank workers under the Halees Plantation Administration and Bank Oya.
-
-🟩
-
-In all plantations belonging to the Kelaniya External Plantation Management Institute in Nuwara Eliya district, workers have been deployed on Tuesday morning (23) in the process of dismantling their usual tea industry.
-
-Workers landed on Tuesday (23) in this workshop for two main reasons.
-
-The Kelaniya Company, which refuses to pay a salary of Rs.
-
-Workers said that the work was being made, condemning the fact that the company had taken action against Minister Jeevan Thondaman and arrest him.
-
-Thus, under the Nuwara Eliya Peedru Garden, under the Kelaniya Plantation Management Institute, Laverzilip, Naspy,
-
-Workers have been deployed in the gardens of Munblan, Magastota and Scrap and Nuwara Eliya Division.
-
-Similarly, workers from the Edinburo, Classo, Adivan, and the upper division of the Kalaniweli Plantation Management Administration in the Nanuoya area
-
-Workers from the upper and lower sect gardens are also working in the workplace.
-
-...
-
-[Data](articles/cbceb92f.json)
-
-[Extended Data](ext_articles/cbceb92f.ext.json)
 
 ---

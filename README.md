@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 19:05:28**
+As of **2024-07-23 19:20:23**
 
 ## Newspaper Stats
 
-*Scraped **36,804** Articles*
+*Scraped **36,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 2,097
 economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,331
+adalk | 3,332
 adaderanalk | 4,265
-tamilmirrorlk | 4,509
+tamilmirrorlk | 4,510
 dailymirrorlk | 4,733
-virakesarilk | 5,769
-adaderanasinhalalk | 6,179
+virakesarilk | 5,772
+adaderanasinhalalk | 6,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,804 (100.0%) of 36,804 articles have been extended.
+36,804 (100.0%) of 36,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### සිවිල් නඩු විධාන සංග්‍රහය පනත් කෙටුම්පත සංශෝධන සහිතව සම්මත කෙරේ
+
+*2024-07-23 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199133) · `si`
+
+සිවිල් නඩු විධාන සංග්‍රහය (සංශෝධන) පනත් කෙටුම්පත අද (23) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමකින් තොරව සංශෝධන සහිතව සම්මත කෙරුණි.
+
+පනත් කෙටුම්පත දෙවන වන කියවීමේ විවාදය අද (23) පෙරවරු 10.30 සිට පස්වරු 5.30 දක්වා පැවැත්වූ අතර ඉන් පසු එළැඹි කාරකසභා අවස්ථාවේදී පනත් කෙටුම්පතට සංශෝධන ඉදිරිපත් කෙරිණි.
+
+(101 වන අධිකාරය වූ) සිවිල් නඩු විධාන සංග්‍රහයේ වගන්ති සංශෝධනය කිරීම සඳහා අධිකර‍ණ, බන්ධනාගාර කටයුතු හා ආ‍ණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා විසින් උක්ත පනත් කෙටුම්පත 2024 මැයි 13 දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදි.
+
+මේ අතර අධිකරණ සංවිධාන පනත යටතේ අංක 2360/22 සහ 2371/13 දරන අතිවිශේෂ ගැසට් පත්‍රවල පළ කරනු ලැබූ නියෝග සඳහා ද අද පාර්ලිමේන්තුවේ අනුමතිය හිමිවිය.
+
+◼️
+
+[Data](articles/8d735bc9.json)
+
+---
+
+### ஓரங்கட்டப்பட்டு மருவி வரும் கலைஞர்களின் கலைநிகழ்வுகளும் உரையாடலும் மட்டக்களப்பில் இடம் பெற்றது
+
+*2024-07-23 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189212) · `ta`
+
+கிழக்கின் அகல் இளையோர் மற்றும் விழுது நிறுவனம் இணைந்து நடாத்தும் "ஓரங்கட்டப்பட்டு மருவி கலைஞர்களின் வெளிக்கொணர்வதற்கான கலை நிகழ்வும், உரையாடல்களும் மட்டக்களப்பில் செவ்வாய்க்கிழமை (23) நடைபெற்றது.
+
+மட்டக்களப்பு சுவாமி விபுலானந்த அழகியற்  கற்கை நிறுவகத்தில் விழுது நிகழ்ச்சி திட்ட அதிகாரி திருமதி இந்துமதி ஹரிகரதா மோதரன் தலைமையில்  நடைபெற்ற இந்நிகழ்வுக்கு கிழக்கு பல்கலைக்கழக துணைவேந்தர் வல்லிபுரம் கனகசிங்கம், பிரதம அதிதியாக கலந்து கொண்டார்.
+
+விழுது அமைப்பின் சிரேஷ்ட உத்தியோகத்தர் பாலசிங்கம் முரளிதரனின் வரவேற்புடன் ஆரம்பமான இவ்நிகழ்ச்சியில் கிழக்கின் அகல் இளைஞர் குழுவினரின் இரு தசாப்த கால பயணம், மறுமலர்ச்சி நாட்டுக்கூத்து படைப்பு, ஓரங்கட்டப்பட்டு மருவிவரும் கலைஞர்களின் சவால்களும் சமூகத்தில் அவர்களுக்கான அங்கீகாரங்களும் என்னும் தலைப்புக்களின் நிகழ்வுகளும் இடம்பெற்றதுடன் நாட்டார் பாடல்கள், பாறை இசை, ஆதிவாசிகளின் பாரம்பரிய கலை படைப்புக்களும் நடைபெற்றது.
+
+...
+
+[Data](articles/adc5ac4e.json)
+
+---
 
 ### Increase in the number of Ethiopian landslides
 
@@ -53,6 +87,24 @@ It is noteworthy that the rescue personnel are continuing to rescue people affec
 [Data](articles/4d71d958.json)
 
 [Extended Data](ext_articles/4d71d958.ext.json)
+
+---
+
+### எத்தியோப்பிய மண்சரிவில் பலியானோர் எண்ணிக்கை அதிகரிப்பு
+
+*2024-07-23 18:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எத்தியோப்பிய-மண்சரிவில்-பலியானோர்-எண்ணிக்கை-அதிகரிப்பு/50-340901) · `ta`
+
+எத்தியோப்பியாவில் ஏற்பட்ட நிலச்சரிவில் சிக்கி 50 பேர் உயிரிழந்துள்ளதாகத் தெரிவித்த நிலையில், தற்போது பலி எண்ணிக்கை 157ஆக உயர்வடைந்துள்ளது.
+
+எத்தியோப்பியா கெஞ்சோ சாச்சா கோஸ்டி மாவட்டத்தில் கோபா மண்டலத்தில் பெய்த கடும் மழை காரணமாகவே நிலச்சரிவு ஏற்பட்டுள்ளது.
+
+மேலும், மண்சரிவில் சிக்கியுள்ளவர்களை மீட்கும் பணி தொடர்ந்து வருவதாக கோபா மண்டல தகவல் தொடர்பு அலுவலகத்தின் தலைவர் கூறியுள்ளார்.
+
+இந்நிலையில் நிலச்சரிவினால் பாதிக்கப்பட்ட மக்களை மீட்கும் பணிகளில் மீட்புப் படையினர் தொடர்ந்து ஈடுபட்டு வருகின்றமை குறிப்பிடத்தக்கது.S
+
+◼️
+
+[Data](articles/dd27e41c.json)
 
 ---
 
@@ -101,6 +153,24 @@ However, a spokesperson from the Election Commission stated that the Gazette not
 [Data](articles/3fd88609.json)
 
 [Extended Data](ext_articles/3fd88609.ext.json)
+
+---
+
+### මෙන්ඩිස්ගේ ස්ථානය තහවුරුයි - චමිඳු වික්‍රමසිංහට අවස්ථාව
+
+*2024-07-23 17:45:19* · [`adalk`](https://www.ada.lk/sports/මෙන්ඩිස්ගේ-ස්ථානය-තහවුරුයි---චමිඳු-වික්‍රමසිංහට-අවස්ථාව/9-410940) · `si`
+
+ලංකා ප්‍රිමියර් ලීග තරගාවලියේදී දක්ෂතා දැක්වූ ක්‍රීඩකයන් කිහිප දෙනෙකුම ඉන්දියාව සමගින් පැවැත්වෙන විස්සයි20 තරගාවලියට එක් කිරීමට ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව කටයුතු කර තිබේ.
+
+ඒ අනුව නවක ක්‍රීඩක චමිඳු වික්‍රමසිංහ, අවිශ්ක ප්‍රනාන්දු ජ්‍යෙෂ්ඨ ක්‍රීඩකයන් වන දිනේෂ් චන්දිමාල් හා කුසල් ජනිත් පෙරේරාද තරගාවලිය වෙනුවෙන් නම් කර තිබේ.
+
+ශ්‍රී ලංකා කණ්ඩායමේ නව නායකයා ලෙස චරිත් අසලංක නම් කර තිබේ. කුසල් මෙන්ඩිස්ටද කණ්ඩායමේ ස්ථානය වෙන්ව තිබේ.
+
+ශ්‍රී ලංකා සංචිතය - චරිත් අසලංක (නායක), පැතුම් නිශ්ශංක, කුසල් මෙන්ඩිස්, කුසල් ජනිත් පෙරේරා, අවිශ්ක ප්‍රනාන්දු, දිනේෂ් චන්දිමාල්, කමිඳු මෙන්ඩිස්, දසුන් ශානක, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, චමිඳු වික්‍රමසිංහ, මතීෂ පතිරණ, ණුවන් තුෂාර, දුනිත් වෙල්ලාලගේ, දුෂ්මන්ත චමීර, බිනුර ප්‍රනාන්දු
+
+◼️
+
+[Data](articles/29e298b4.json)
 
 ---
 
@@ -215,6 +285,22 @@ Accordingly, the approval of the Attorney General has been obtained for the amen
 [Data](articles/ea240a22.json)
 
 [Extended Data](ext_articles/ea240a22.ext.json)
+
+---
+
+### க.பொ.த.சாதாரண தர பரீட்சையில் தொழில்நுட்பம், அழகியல் பாடங்களை நீக்குவது முட்டாள்தனமான செயல் - சஜித்
+
+*2024-07-23 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189192) · `ta`
+
+முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தின்படி தகவல் மற்றும் தொடர்பாடல்  தொழில்நுட்பம், அழகியல் பாடங்களை நீக்குவது முட்டாள்தனமான செயல் என  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+2006 ஆம் ஆண்டில், கல்விப் பொதுத் தராதர சாதாரண தரப் பாடத்திட்டத்தில் சேர்க்கப்பட்ட தகவல் மற்றும் தொடர்பாடல்  தொழில்நுட்பம் என்ற பாடம், முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தில் பரீட்சை திணைக்களத்தால் மதிப்பிடப்பட்ட 7 முக்கிய பாடங்களுக்குள் உள்ளடக்கப்படவில்லை. இலங்கையை டிஜிட்டல் இலங்கையாக உருவாக்கும் நோக்கில் செயற்படும் இவ்வேளையில், இவ்வாறான முட்டாள்தனமான முடிவுகளை எடுக்கக் கூடாது
+
+முன்மொழியப்பட்டுள்ள கல்விச் சீர்திருத்தத்தின்படி, தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பம் என்ற பாடத்தை கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சைக்கான பாடங்களில் ஒன்றாக அதனை உள்ளடக்குவதில்லை என தீர்மானித்துள்ளனர்
+
+...
+
+[Data](articles/913c49d0.json)
 
 ---
 
@@ -907,6 +993,24 @@ Accordingly, the Elections Commission said that the auction invitation has been 
 [Data](articles/f4992140.json)
 
 [Extended Data](ext_articles/f4992140.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் நடத்துவதற்கு எந்த தடையையும்  ஏற்படுத்தப்போவதில்லை - அரசாங்கம் உறுதி
+
+*2024-07-23 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189157) · `ta`
+
+ஜனாதிபதி தேர்தல் உரிய காலத்தில் நடக்கும். தேர்தல் நடத்தப்படுவதை அரசாங்கம் எந்தவகையிலும் தடைகளை ஏற்படுத்தப்போவதில்லை. அதேநேரம் பாராளுமன்றத்தை கலைப்பதற்கு தற்போது எந்த தேவையும் இல்லை என பொதுநிர்வாக, உள்நாட்டலுவல்கள் மாகாணசபைகள் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) நிலையியற் கட்டளை 27 இன் 2கீழ் எதிர்க்கட்சி உறுப்பினர் அத்துரலியே ரத்தன தேரர் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+அத்துரலியே ரத்தன தேரர் தனது கேள்வியில், ஜனாதிபதி தேர்தலை பிற்போடுவதற்கு நடவடிக்கை எடுக்கப்படுவதாக மக்கள் மத்தியில் சந்தேகம் எழுந்துள்ளது.
+
+அரசியலமைப்பின் 22ஆம் திருத்தத்தை ஜனாதிபதி கையில் எடுத்துள்ளதாலே இந்த சந்தேகம் எழுந்துள்ளது. அதேபோன்று ஜனாதிபதி தேர்தலுக்கு முன்னர் பாராளுமன்றத்தை கலைப்பதற்கு அரசாங்கம் நடவடிக்கை எடுத்திருக்கிறதா என்றார்.
+
+...
+
+[Data](articles/448e4a28.json)
 
 ---
 
@@ -2259,159 +2363,5 @@ The suspect is to be produced before the Magistrate's Court, police said.
 [Data](articles/aee9e981.json)
 
 [Extended Data](ext_articles/aee9e981.ext.json)
-
----
-
-### In the Thai field: the father of the daughter of the daughter
-
-*2024-07-23 09:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாய்-வயலில்-மகளை-வன்புணர்ந்த-தந்தை/76-340867) · `ta`
-
-A 45-year-old man, employed as an office assistant in Badulla, was arrested on suspicion of raping a 10-year-old girl from the Pasarai Welkola area. The incident came to light after the victim's mother noticed changes in her behavior. The suspect will face charges in court.
-
-🟩
-
-Pasarapisar said that her father was arrested on Monday night for allegedly raping a 10 -year -old girl in Pasarai Welkola area.
-
-The 45 -year -old man has been arrested as an office assistant at a company in Badulla, the father of two children.
-
-When her mother inquired about the change in the behavior of the victim's girl for two to three days, the girl was asked about the cruelty of her mother when she went to work on Friday (19).
-
-According to the complaint lodged at the mother's police station, the suspect has been arrested and the victim has been admitted to the Badulla Teaching Hospital for medical examination.
-
-The suspect is to be produced before the Magistrate's Court, police said.
-
-◼️
-
-[Data](articles/d51e889e.json)
-
-[Extended Data](ext_articles/d51e889e.ext.json)
-
----
-
-### MoU inked for interest-free loans under agri modernization program
-
-*2024-07-23 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100713/mou-inked-for-interest-free-loans-under-agri-modernization-program) · `en`
-
-The signing of the Memorandum of Understanding (MoU) for the provision of interest-free loans to agribusiness entrepreneurs and farmers under the first phase of the Agriculture Modernization Program took place on Monday (22) at the Presidential Secretariat.
-
-The MoUs were signed between the Bank of Ceylon, the Regional Development Bank who are the key contributors to the initial phase and Secretary to the Ministry of Agriculture and Plantation Industry Janaka Dharmakeerthi. Accordingly, MoU with the People’s Bank are expected to be signed in the near future.
-
-In this first phase, Rs. 650 million have been allocated to implement projects through agricultural modernization centres in 26 Divisional Secretariat Divisions selected for pilot projects, with a total of 75 DS divisions identified.
-
-...
-
-[Data](articles/dc0f7564.json)
-
-[Extended Data](ext_articles/dc0f7564.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 303.90/304.10 to US dollar
-
-*2024-07-23 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-90-304-10-to-us-dollar-173358/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.90/304.10 to the US dollar on Tuesday, dealers said. Bond yields were broadly steady, they said and stocks opened up 0.10 percent.
-
-In the secondary market, yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.45/50 percent, up from 10.40/50 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.55/65 percent, down from 11.60/70 percent.
-
-A bond maturing on 01.07.2028 was quoted at 11.78/83 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 12.00/10 percent.
-
-In equities, Colombo’s All Share Price Index opened 12.07 points higher at 11,551, while the S&P SL20 of more liquid stocks opened up at 0.350 percent or 11.68 points to 3,368.
-
-◼️
-
-[Data](articles/dbd75324.json)
-
-[Extended Data](ext_articles/dbd75324.ext.json)
-
----
-
-### Father arrested for sexually abusing a 10 -year -old daughter
-
-*2024-07-23 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189131) · `ta`
-
-A 45-year-old father was arrested for allegedly sexually abusing his 10-year-old daughter. The incident was reported by the child's mother, who found her daughter in distress. The girl has been hospitalized and will be transferred for further treatment. Police are investigating, and the suspect will appear in court.
-
-🟩
-
-A father was arrested on Tuesday (23) for allegedly sexually abusing his 10 -year -old daughter, Pasarai police said.
-
-A man from the 45 -year -old Pasarai Welkola area has been arrested, police said.
-
-The man's wife has lodged a complaint at the police station that the man had been sexually abused by his 10 -year -old daughter when his wife went to the field.
-
-When she came home, the mother complained that her father had told her that her father had done her when she asked her daughter.
-
-The girl has been admitted to the hospital and will be transferred to the Badulla General Hospital for further treatment, a hospital official said.
-
-Passara police said that after being investigated by the suspect, the Pasarai Magistrate's Court is taking steps to appear in court.
-
-◼️
-
-[Data](articles/92ad2491.json)
-
-[Extended Data](ext_articles/92ad2491.ext.json)
-
----
-
-### Fishermen's boat damage: fishermen survived
-
-*2024-07-23 09:33:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களின்-படகு-சேதம்-உயிர்-தப்பிய-மீனவர்கள்/175-340866) · `ta`
-
-In a maritime incident near Sri Lanka, fishermen faced legal trouble when their boat was intercepted by the Sri Lankan navy for alleged border crossing. Despite the navy's aggressive actions, including chasing and arresting fishermen, some managed to escape unharmed. The situation escalated due to the cancellation of fishing permits caused by a tornado, leading to a large-scale fishing operation from Rameswaram port. The navy's actions have sparked concerns among the fishing community, with further investigations pending.
-
-🟩
-
-The Sri Lankan navy has arrested two fishermen and nine fishermen from the Rameswaram fishing port and taken to the Kankesanthurai Naval Base for allegedly crossing the border.
-
-The fishermen in the boat were fortunately escaped by the Sri Lankan navy patrol vessel crashed into a fishing boat that was fishing in the middle of the sea.
-
-Thousands of fishermen went to fishing in 430 boats from Rameswaram fishing port on Monday (22) as the fishing permit was canceled due to a tornado that had been thrown into the Ramanathapuram Sea.
-
-Accordingly, the Sri Lankan navy patrolled Rameswaram and Selvakumar, who was fishing in the area at around 2 am on Monday (23) at around 2 am, was arrested by the Sri Lankan navy.All the fishermen were taken to the coastal camp and thereafter they were handed over to the Jaffna Fisheries Department.
-
-Fisheries officials have said that the fishermen will be produced at the Kayts Court after the investigation.
-
-...
-
-[Data](articles/a12a3bd9.json)
-
-[Extended Data](ext_articles/a12a3bd9.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-07-23 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199110) · `si`
-
-The Parliamentary Session, patronized by the Deputy Speaker, commenced today and will continue until the 26th. Key topics include debating the Civil Nupada Code Amendment and the impact of AI technology on national security and religion, presented by Madura Withanage. Additionally, the session will address the Fiscal Management and Economic Translation Bills through a second reading debate.
-
-🟩
-
-The Parliamentary Session has been launched under the patronage of the Deputy Speaker.
-
-The Parliament will meet from today (23) to the 26th of this month, the Parliament Communication Department said.
-
-Accordingly, the Civil Nupada Code Amendment Day Amendment Day today is to be debated by reading the second reading and the judicial organization.
-
-The proposal will be debated in the event of the Opposition, which is being taken by the opposition.
-
-"The" artificial intelligence technology brought by Parliamentarian Madura Withanage tomorrow (24) "is to be held in the impact of national security, all religions and the country's effects.
-
-The Second Reading Debate is scheduled to be held the second reading of Fiscal Management and Economic Translation Bills.
-
-It has been decided that the issues seeking verbal answers to the date and the contents of the presence and the church is not considered in advance.
-
-◼️
-
-[Data](articles/b1a24428.json)
-
-[Extended Data](ext_articles/b1a24428.ext.json)
 
 ---

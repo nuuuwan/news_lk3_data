@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 20:20:47**
+As of **2024-07-23 20:35:46**
 
 ## Newspaper Stats
 
-*Scraped **36,825** Articles*
+*Scraped **36,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,335
-adaderanalk | 4,265
+adaderanalk | 4,266
 tamilmirrorlk | 4,510
 dailymirrorlk | 4,733
 virakesarilk | 5,774
@@ -26,45 +26,77 @@ adaderanasinhalalk | 6,181
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,823 (100.0%) of 36,825 articles have been extended.
+36,825 (100.0%) of 36,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### තවත් පිරමීඩ ජාවාරමකට පුද්ගලයන් 5500ක් හසු වෙයි
+### President to grant scholarships for lay students at Piriven and Seelamatha educational institutions
 
-*2024-07-23 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199134) · `si`
+*2024-07-23 20:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100728/president-to-grant-scholarships-for-lay-students-at-piriven-and-seelamatha-educational-institutions) · `en`
 
-පිරමීඩ ජාවාරමක් හරහා රුපියල් කෝටි 350ක මුදලක් වංචා කළ කාන්තාවක් ඇතුළු තිදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ.
+Under the “Presidential Scholarship Program” initiated as a concept of President Ranil Wickremesinghe, approximately 3,000 out of 5,000 scholarships will be awarded to lay students, student monks, and Sheela Matha in Piriven and Sheela Mata educational institutions.
 
-Ride To Three Freedom Sri Lanka නොහොත් R3F යන යෙදුම මගින් ඩිජිටල් මුදල් භාවිතය හරහා සිදුකරන පිරමීඩ ජාවාරමකින් සිදුකරන මුල්‍ය වංචාවක් පිළිබඳව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය අපරාධ විමර්ශන ඒකකයට පැමිණිලි රැසක් ලැබී තිබුණි.
+The ceremony is taking place tomorrow (24) at 3:00 pm at the Temple Tress under the patronage of President Wickremesinghe, the President’s Media Division (PMD) said.
 
-R3F යෙදුම හරහා විශාල වශයෙන් මුදල් උපයාගත හැකි බවට ජාවාරම්කරුවන් සමාජ මාධ්‍ය ඔස්සේ විවිධ ප්‍රචාර සිදුකර තිබූ අතර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් සිදුකළ විමර්ශනවලදී අනාවරණ වී තිබුණේ ජවාරමට පුද්ගලයන් 5,500ක් පමණ හසුවී ඇති බවය.
-
-මේ හරහා ගිණුම් 31,000ක් පමණ සකස් කර ඇති අතර පාරිභෝගිකයන්ට ජාවාරම්කරුවන් පවසා ඇත්තේ, ආයෝජනය කරන මුදල මෙන්  සිව්ගුණයක් මාස 10කදී උපයාගත හැකි අතර දෛනිකව 1%ක ලාභාංශයක් ලබාගත හැකි බවටය.
-
-මෙම ජාවාරම මගින් තමන් රුපියල් කෝටි 350ක පමණ මුදලක් වංචා කළ බව ප්‍රශ්න කිරීම් හමුවේ සැකකරුවන් අනාවරණ කර තිබුණි.
+This marks the first scholarship program of its kind for lay clergy students in Piriven. The initiative extends financial support to student monks studying up to the Piriven (Ordinary Level) and lay students up to the G.C.E. (Ordinary Level), providing them with Rs. 9,000 initially and Rs. 3,000 monthly for 12 months.
 
 ...
 
-[Data](articles/ffc24f25.json)
+[Data](articles/a731f581.json)
 
 ---
 
-### ඇමෙරිකාවේ යුද නැවක් කොළඹට
+### 5500 people caught another pyramid racket
+
+*2024-07-23 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199134) · `si`
+
+A woman led three arrests in a pyramid scheme investigation, involving the R3F app promoted on social media. The Financial Criminal Investigation Unit received complaints about financial fraud, revealing that around 5,500 people were deceived, with potential losses exceeding Rs. 350 billion.
+
+🟩
+
+Three criminal investigations have been arrested by a woman who cheated on a pyramid racket.
+
+The Financial Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit has received several complaints regarding the financial fraudulent commitment made by the Ride To Three Freedom Sri Lanka.
+
+The racketeers have propagated via social media that the R3F app can earn a large amount of money through the Criminal Investigations Department, investigations were revealed that about 5,500 people had been caught by the JAMARA.
+
+The racketeers have been prepared for about 31,000 accounts and earn the excavation of the money.
+
+The suspects had revealed that the racket had defrauded Rs. 350 billion.
+
+The suspects have said that more than Rs.
+
+◼️
+
+[Data](articles/ffc24f25.json)
+
+[Extended Data](ext_articles/ffc24f25.ext.json)
+
+---
+
+### US ship in the United States to Colombo
 
 *2024-07-23 19:25:33* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-යුද-නැවක්-කොළඹට/10-410950) · `si`
 
-ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Michael Murphy’ නෞකාව නිල සංචාරයක් සඳහා අද දින (2024 ජුලි 23) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායන්ට අනුකූලව පිළිගැනීමට කටයුතු කෙරිණි.
+The USS Michael Murphy, a US Navy guided missile destroyer, arrived at the Port of Colombo, Sri Lanka, on July 23. The visit includes meetings with Sri Lanka Navy officials and touring significant locations on the island.
 
-මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke class of guided missile destroyers වර්ගයට අයත් ‘USS Michael Murphy’ නෞකාව, දිගින් මීටර් එකසිය පනස් පහක් (155) හා නැව් මුළුව තුන්සීය විසි තුනක ගෙන් (323) සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Jonathan B. Greenwald කටයුතු කරනු ලබයි.
+🟩
 
-එමෙන්ම, ‘USS Michael Murphy’ නෞකාවේ අණදෙන නිලධාරී Commander Jonathan B. Greenwald සහ බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් චින්තක කුමාරසිංහ අතර නිල හමුවක් අද දින (2024 ජුලි 23) බටහිර නාවික විධාන මූලස්ථානයේදී පැවැත්වීමට කටයුතු කෙරුණු අතර, එම අවස්ථාව සනිටුහන් කරමින් දෙපාර්ශවය අතර සමරු තිළිණ හුවමාරුවක්ද සිදුකෙරිණි.
+The US Navy's US Navy, the US Navy, arrived at the Port of Colombo (July 23) to the Port of Sri Lanka, and the Sri Lanka Navy was diagnosed with the Navy Traditions.
 
-...
+Aroigh Burke Class of Arleigh Burke Class of Guided Missilers, the 'USS Michael Murphy' from the GUIDED MISSILE DESTROYERS, the 'USS Michael Murphy' is one hundred and fifty-five meters long (323), Commander Jonathan as Commander Commanding Officer. Greenwald works.
+
+Also, 'USS Michael Murphy' commander Commanding Officer Commander Jonathan B. Commander of the Greenwald and Western Naval Order, Rear Admiral Chinthaka Kumarasinghe was held at the West Naval Order today (July 23).
+
+The 'USS Michael Murphy' is to visit several areas in the island's importance to visit important places in the island.
+
+◼️
 
 [Data](articles/d79f7e8c.json)
+
+[Extended Data](ext_articles/d79f7e8c.ext.json)
 
 ---
 
@@ -2373,31 +2405,5 @@ The shooter, a 20-year-old registered Republican, described as “a very quiet y
 [Data](articles/65066ef1.json)
 
 [Extended Data](ext_articles/65066ef1.ext.json)
-
----
-
-### 4.5 million tons of plastic per year imports, but recycling 50,000 tonnes
-
-*2024-07-23 10:37:49* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-ප්ලාස්ටික්-ටොන්-ලක්ෂ-4-5ක්-ආනයනය-කළත්-ප්‍රතිචක්‍රීකරණය-වෙන්නේ-ටොන්-50-000යි/11-410932) · `si`
-
-Sri Lanka imports 4.5 million tons of plastic annually, recycling only 50,000 tonnes. The Sectoral Oversight Committee on Environment, chaired by Ajith Mannapperuma, focuses on plastic waste management. It's noted that while 1,200 metric tons of plastic are recycled monthly, 900 tons are improperly disposed of. The main obstacle to increasing recycling is the lack of interest in collecting plastic bottles. Proposals for improving plastic recycling, including deposit schemes for PET bottles, were insufficiently advertised. The committee recommends legalizing these proposals and extending the submission deadline to August 27th. The Ministry of Environment will investigate international recycling practices for PET bottles.
-
-🟩
-
-Based on the QR code, PET plastic bottles were noticated with the sectoral oversion committee on the environment, natural resources and sustain development.
-
-The sectoral Oversight Committee on Environment, Natural Resources and Susar Development Ajith Mannapperuma was also present at the Chairman of Parliament.
-
-The Chairman of the Committee Hon.
-
-This is the most focused on plastic and that about 1,200 metric tons of mine per month is recycling to the environment, and the remaining 900 tons are buried in the open environment.He said he was sabotized in the soil.
-
-It was also revealed that the main reason for the largest reason for not adding plastic bottles is not interested in collecting them.
-
-...
-
-[Data](articles/0a8127c0.json)
-
-[Extended Data](ext_articles/0a8127c0.ext.json)
 
 ---

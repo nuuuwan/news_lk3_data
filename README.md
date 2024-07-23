@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 01:35:56**
+As of **2024-07-24 01:54:36**
 
 ## Newspaper Stats
 
-*Scraped **36,846** Articles*
+*Scraped **36,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,340
 adaderanalk | 4,269
-tamilmirrorlk | 4,513
+tamilmirrorlk | 4,514
 dailymirrorlk | 4,733
 virakesarilk | 5,779
 adaderanasinhalalk | 6,185
@@ -26,25 +26,49 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,845 (100.0%) of 36,846 articles have been extended.
+36,846 (100.0%) of 36,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### மாகாணசபை தேர்தல் தீர்ப்பு வருகிறது
+### கறுப்பு ஜூலையை சபையில் நினைவு கூர்ந்த எம்.பி
+
+*2024-07-24 01:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கறுப்பு-ஜூலையை-சபையில்-நினைவு-கூர்ந்த-எம்-பி/175-340918) · `ta`
+
+இலங்கையில் தமிழ் மக்களுக்கு எதிராக நடத்தப்பட்ட கறுப்பு ஜூலைக் கலவரத்தின் 41 ஆவது ஆண்டு நிறைவை தமிழ் தேசியக்கூட்டமைப்பின் வன்னிமாவட்ட எம்.பி. யான சார்ள்ஸ் நிர்மலநாதன் சபையில் நினைவு கூர்ந்தார்
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) இடம்பெற்ற குடியியல் நடவடிக்கை முறை சட்டக்கோவை திருத்த சட்டமூல விவாதத்தில் உரையாற்றும்போதே  கறுப்பு ஜூலைக் கலவரத்தை நினைவு கூர்ந்த அவர் மேலும் பேசுகையில்,
+
+இன்று (23) ஜூலைக் கலவரத்தின்  41 ஆவது ஆண்டு தினம் .1983 ஆம் ஆண்டு ஜூலை மாதம் 23 ஆம் திகதி இலங்கையின் சகல பகுதிகளிலும் தமிழர்கள் மீது தொடர்ந்து 3 தினங்கள் காட்டேறித்தனமான் தாக்குதல்கள் நடத்தப்பட்டன . அவ்வாறு தாக்குதல்கள் நடத்தப்பட்டு இன்றுடன் 41 வருடங்கள் ஆகிவிட்டன. ஆனால் இன்னும் தமிழர்களுக்கு நீதி கிடைக்கவில்லை.
+
+தற்போது தமிழர்களுக்கு இருந்த நிலங்களும் ,கலாசார அடையாளங்களும் பறிபோய்க்கொண்டிருக்கின்றன என்பதனை இந்த சபையில் கவலையுடன் பதிவு செய்கின்றேன் என்றார்.
+
+◼️
+
+[Data](articles/70edc4b3.json)
+
+---
+
+### The provincial council election is coming
 
 *2024-07-24 00:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாணசபை-தேர்தல்-தீர்ப்பு-வருகிறது/175-340917) · `ta`
 
-மாகாணசபை தேர்தல் தொடர்பில் நீதிமன்ற தீர்ப்பு மிக விரைவில் கிடைக்கும் . நீதிமன்ற தீர்ப்பின் பிரகாரம் செயற்பட நாங்கள் தயாராக இருக்கிறோம் என பொதுநிர்வாக, உள்நாட்டலுவல்கள் மாகாண சபைகள் இராஜாங்க அமைச்சர் ஜானக்க வக்கும்புர தெரிவித்தார்.
+The upcoming provincial council election is eagerly awaited, with four related cases under investigation. The court's decision will soon be out, and authorities are prepared to act accordingly.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23)  அத்துரலியே ரத்தன தேரர். எழுப்பிய கேள்விக்கு பதிலளிக்கும்போதே இவ்வாறுத்தெரிவித்தார்.
+🟩
 
-மாகாணசபை தேர்தல் தொடர்பில் நான்கு வழக்குகள் விசாரணையில் இருக்கின்றன. சுமந்திரன் எம்.பி.சபையில் முன்வைத்துள்ள  பிரேரணைக்கு அமைய விகிதாசார (பழைய) முறையில்  தேர்தலை நடத்த நாங்களும் ஆதரவளிப்போம். எனினும் மாகாணசபை தேர்தல் தொடர்பில் நீதிமன்ற தீர்ப்பு மிக விரைவில் கிடைக்கும் . நீதிமன்ற தீர்ப்பின் பிரகாரம் செயற்பட நாங்கள் தயாராக இருக்கிறோம் என்றார்.
+The court verdict on provincial council election will be available very soon. Minister of State for Home Affairs, Janaka Wakumbura, said that we are ready to act as per the court ruling.
+
+Athuraliye Ratana Thera on Tuesday (23) in Parliament. He responded to the question raised.
+
+Four cases are under investigation regarding the provincial council election. We will also support the proportional (old) election in the MPs put forward by Sumanthiran. However, the court verdict on the provincial council election will be available very soon. We are ready to act according to the court ruling.
 
 ◼️
 
 [Data](articles/fd355588.json)
+
+[Extended Data](ext_articles/fd355588.ext.json)
 
 ---
 
@@ -2405,31 +2429,5 @@ Workers from the upper and lower sect gardens are also working in the workplace.
 [Data](articles/cbceb92f.json)
 
 [Extended Data](ext_articles/cbceb92f.ext.json)
-
----
-
-### Singer Sujeeva recovered and left the hospital
-
-*2024-07-23 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189148) · `ta`
-
-Singer K. Sujeeva, recovering from a shooting in Athurugiriya, has been discharged from Colombo National Hospital. The incident also resulted in the death of Clap Vasantha and Nayana Vasula Wijesuriya, and injuries to four others, including Sujeeva's wife and Club Vasantha's wife.
-
-🟩
-
-Popular singer K. Sujeeva, who was treated at the Colombo National Hospital, was injured in a shooting in Athurugiriya and left the hospital.
-
-Clap Vasantha and Nayana Vasula Wijesuriya, a 37 -year -old man, died in a gunfight at Athurugiriya on July 8.
-
-Four people, including the wife of singer K. Sajeewa and the wife of the club Vasantha, were injured in the shooting incident.
-
-Hospital sources said that Sujeeva had initially been treated in the intensive care unit (ICU) and left the Sujeeva hospital on the basis of medical advice after the healing of leg injuries.
-
-Meanwhile, Club Vasantha's wife continues to receive treatment at the intensive care unit of the South Teaching Hospital in Colombo.
-
-◼️
-
-[Data](articles/14aada05.json)
-
-[Extended Data](ext_articles/14aada05.ext.json)
 
 ---

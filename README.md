@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 14:20:19**
+As of **2024-07-23 14:36:00**
 
 ## Newspaper Stats
 
-*Scraped **36,762** Articles*
+*Scraped **36,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,320
+adalk | 3,321
 adaderanalk | 4,261
-tamilmirrorlk | 4,502
+tamilmirrorlk | 4,504
 dailymirrorlk | 4,733
 virakesarilk | 5,756
 adaderanasinhalalk | 6,174
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,174
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,759 (100.0%) of 36,762 articles have been extended.
+36,762 (100.0%) of 36,765 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,57 @@ Therefore, approval of the Cabinet of Ministers was granted at their meeting hel
 
 [Data](articles/a85d835e.json)
 
+[Extended Data](ext_articles/a85d835e.ext.json)
+
 ---
 
-### කොවිඩ් මළ සිරුරු ආදාහනය කළාට රජය සමාව අයදී
+### ஏ - 9 வீதியில் காயங்களுடன் சடலம் மீட்பு
+
+*2024-07-23 13:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதியில்-காயங்களுடன்-சடலம்-மீட்பு/175-340889) · `ta`
+
+கண்டி -யாழ்ப்பாணம் ஏ - 9 வீதியில் கடுங்காயங்களுடன் ஆண்ணொருவரின் சடலமொன்று மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+திரப்பனை பொலிஸ் டொமைன் கல்குளம் கி.மீ.  122,க்கும் 123க்கும் இடைப்பட்ட வீதியில் பலத்த காயங்களுக்குள்ளான நிலையில் உயிரிழந்த நபரின் சடலம் திங்கட்கிழமை (23) கண்டெடுக்கப்பட்டுள்ளதாக திரப்பன பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் அனுராதபுரம், மிஹிந்தலை, கெதேவ பிரதேசத்தைச் சேர்ந்த முதியன்சேலா சுரவீர என்பவர் என்றும் 38 வயதான இவர் இரண்டு பிள்ளைகளின் தந்தையென அடையாளம் காணப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+உயிரிழந்தவர் மல்சிறிபுர பிரதேசத்தில் உள்ள ஹோட்டல் ஒன்றில் பணிபுரிபவர் எனவும், இரவு வேலை முடிந்து வீட்டிற்கு சென்று கொண்டிருந்த வேளையில் இவ்வனர்த்தம் இடம்பெற்றுள்ளதாக பொலிஸார் சந்தேகிக்கின்றனர்.
+
+உயிரிழந்தவர் வீதியில் பயணித்த வாகனத்தில் ஏறி பயணித்தபோது வாகனத்தில் இருந்து தவறி விழுந்து உயிரிழந்தாரா அல்லது வீதியில் பயணித்த வாகனத்துடன் மோதி உயிரிழந்தாரா என்பது தொடர்பில் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/7efea5bb.json)
+
+---
+
+### The government apologizes for the cremated of the covard bodies
 
 *2024-07-23 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199125) · `si`
 
-COVID-19 වසංගතය අතරතුර ශ්‍රී ලංකාව තුළ බලාත්මක කරන ලද අනිවාර්ය ආදාහන ප්‍රතිපත්තිය සම්බන්ධව රජය සමාව අයැදීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+During the COVID-19 pandemic, Sri Lanka implemented a mandatory cremation policy for all deceased individuals, including Muslims, despite cultural preferences. This decision was made due to concerns over the spread of the virus through traditional burials. The government later collaborated with the University of Sri Jayewardenepura to test various sites, including hospitals and quarantine centers, for the presence of the virus in water sources, finding none. Additionally, a Chinese-Sri Lanka research center was established to further investigate the virus's impact, confirming that neither cremation nor burial practices were responsible for its transmission.
 
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යතුමා, විදේශ කටයුතු අමාත්‍යතුමා සහ ජලසම්පාදන සහ වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යතුමා ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+🟩
 
-COVID-19හි සායනික කළමනාකරණය පිළිබඳ සෞඛ්‍ය අමාත්‍යාංශය විසින් ප්‍රකාශයට පත් කරන ලද මාර්ගෝපදේශවල සඳහන් පරිදි, වෛරසයට ගොදුරු වී මියගිය තැනැත්තන්ගේ මෘතදේහ බැහැර කිරීමේ ක්‍රමවේදය ලෙස ආදාහනය නිර්දේශ කරනු ලැබ තිබුණි.
+The government has approved the procedure for the compulsory creation policy in Sri Lanka during the COVID-19 plague.
 
-ඒ අනුව, COVID-19ට ගොදුරු වූ මුස්ලිම් ජාතික පුද්ගලයින් 276 දෙනෙකුගේ මෘතදේහ ආදාහනය කර ඇති අතර, පසුව 2021 පෙබරවාරි මාසයේදී එවැනි පුද්ගලයින් සඳහා දැඩි සීමාවන් සහිතව භූමදානය කිරීමට අවසර ලබා දී ඇත.
+The Hon.
 
-...
+Cremation was recommended as the methodology to dismiss the body of the deceased persons who died in the survivors of the Ministry of Health at Covid-19 clinical management.
+
+Accordingly, 276 Muslim people who have been in Covid-19 have been created in permission to burn them with severe boundaries in February 2021.
+
+With the help of the University of Sri Jayewardenepura in July, 2021, the Ministry of Water Supply, hospitals, hospitals, quarantine centers, and other potential sectors have been identified to identify the Sars-COV-2 virus in Colombo.
+
+It has been revealed that the study has no virus in the surface water.
+
+In March 2024, the Chinese-Sri Lanka Integrated Research and Demonstration Center has been completed by the Ministry of Water Supply and Estate Infrastructure Development.The source has been confirmed that the source is not the burial burre.
+
+◼️
 
 [Data](articles/1011231e.json)
+
+[Extended Data](ext_articles/1011231e.ext.json)
 
 ---
 
@@ -85,6 +119,20 @@ Minister Mahinda Amaraweera said that he was speaking at a meeting of the ruling
 [Data](articles/23328fac.json)
 
 [Extended Data](ext_articles/23328fac.ext.json)
+
+---
+
+### ஆளும் கட்சி கூட்டத்தில் வழங்கப்பட்ட வாக்குறுதி
+
+*2024-07-23 13:50:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளும்-கட்சி-கூட்டத்தில்-வழங்கப்பட்ட-வாக்குறுதி/175-340888) · `ta`
+
+வரவு - செலவுத் திட்டத்தில் ஜனாதிபதித் தேர்தலுக்கு மாத்திரம் பணம் ஒதுக்கப்பட்டுள்ளதால், திட்டமிட்டபடி ஜனாதிபதித் தேர்தல் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க மீண்டும் உறுதியளித்துள்ளார்.
+
+நேற்று பிற்பகல் நடைபெற்ற ஆளும் கட்சி எம்.பி.க்கள் குழுக் கூட்டத்திலேயே அவர் இதனைக் கூறியதாக அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/5e793ab2.json)
 
 ---
 
@@ -125,6 +173,8 @@ The outstanding amount of mortgage advances, which was around 210 billion rupees
 ...
 
 [Data](articles/46e09558.json)
+
+[Extended Data](ext_articles/46e09558.ext.json)
 
 ---
 
@@ -347,6 +397,22 @@ The US dollar purchasing price was 299.2958 rupees and the sales price were Rs 3
 [Data](articles/cede1bee.json)
 
 [Extended Data](ext_articles/cede1bee.ext.json)
+
+---
+
+### සංචාරකයින් සදහා රෝහල් 04 ක ගෙවන වාට්ටු
+
+*2024-07-23 12:17:33* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරකයින්-සදහා-රෝහල්-04-ක-ගෙවන-වාට්ටු/11-410934) · `si`
+
+සංචාරක අමාත්‍යාංශය, ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය (SLTDA)  සහ සෞඛ්‍ය අමාත්‍යාංශය එක්ව මෙරට සංචාරක ක්ෂේත්‍රය ශක්තිමත් කරමින් විදෙස් සංචාරකයින්ගේ සෞඛ්‍යමය ආරක්ෂාව සැළසීම අරමුණු කරගෙන සෞඛ්‍ය පහසුකම් අවම ප්‍රදේශවල සෞඛ්‍ය පහසුකම් වැඩිදියුණු කිරීමට අදාලව අබෝධතා ගිවිසුමක් අත්සන් කිරීම ඊයේ (22)  කොළඹ “ගොල්ෆේස්” හෝටලයේ “ජුබිලි” ශාලා‌‌වේ දී සිදු විය.
+
+මෙම ගිවිසුම් ගතවීමේ අවස්ථාවට සෞඛ්‍ය හා කාර්මාන්ත අමාත්‍ය වෛද්‍ය වෛද්‍ය රමේෂ් පතිරණ සහ සංචාරක හා ඉඩම් අමාත්‍ය හරීන් ප්‍රනාන්දු යන මහත්වරුන් එක්ව සිටියහ.
+
+මෙරට සංචාරයේ නිරත වන විදෙස් සංචාරකයින්ට ලබාදෙනු ලබන සෞඛ්‍ය පහසුකම් ඉහළ නැංවීම අරමූණු කරගෙන ක්‍රියාත්මක කිරීමට යෝජිත මෙම වැඩපිළි‌වෙළ යටතේ සෞඛ්‍ය අමාත්‍යාංශයේ සහාය ඇතිව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය (SLTDA)  විසින් අවම සෞඛ්‍ය පහසුකම් සහිත රෝහල් 04 කට මූල්‍ය පහසුකම් සපයා සංචාරකයින්ට ඔබින සුවපහසු ගෙවන වාට්ටු ස්ථාපිත කිරීමට අදාලව ගිවිසුම් ගතවීම මෙහිදී සිදු විය.
+
+...
+
+[Data](articles/244266f5.json)
 
 ---
 
@@ -1932,19 +1998,23 @@ Sivadasan, who is currently living in Canada, has been employed as the main cont
 
 ---
 
-### கறுப்பு ஜூலையில் ‘ ஒரு பத்திரிகையாளர் குடும்பத்தின் அனுபவம்
+### My Family’s “Black July” Experience: A Personal Memoir.
 
-*2024-07-23 03:50:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84414) · `en`
+*2024-07-23 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84405) · `en`
 
-1983 ஜூலையில் தமிழ் மக்களுக்கு எதிராக கட்டவிழ்த்துவிடப்பட்ட கொடூரமான வன்முறை சுதந்திரத்துக்கு பின்னரான இலங்கையின் வரலாற்றில் மறக்கமுடியாத ஒரு அத்தியாயம். அந்த இருண்ட மாதத்தின் பெருங்கேடான நிகழ்வுகள் இலங்கையில் பெரும் எண்ணிக்கையிலான தமிழர்களின் வாழ்வை கடுமையாகப் பாதித்தன.
+The anti-Tamil pogrom of July 1983 is an unforgettable chapter in the post-independence history of Sri Lanka.  The catastrophic events of that dark month  drastically affected  the lives of large numbers of Tamils in Sri Lanka.
 
-இலங்கையின் ஒரு தமிழ்ப் பத்திரிகையாளன்  என்ற வகையில், கறுப்பு ஜூலை என்னை தனிப்பட்ட முறையிலும் தொழில்சார் அடிப்படையிலும் பாதித்தது. மேலும், ஆயிரக்கணக்கான ஏனைய தமிழ்க் குடும்பங்களைப் போன்று எனது குடும்பமும் கொந்தளிப்பான அந்த நாட்களில் பாதிக்கப்பட்டு இடம்பெயர்ந்தது.
+As a Sri Lankan Tamil journalist, Black July did have an effect on me in both personal and professional capacities. Furthermore my family – like thousands of other Tamil families – was also affected and displaced during those turbulent times.
+
+Although I have been writing  extensively about Black July in the past, I did not write about those happenings from a personal perspective  for many,many years.
+
+I  refrained for a long time  from writing about the impact of Black July on our family for two reasons. Firstly I was spared the full blast of that violence because I was not in Colombo then. I was on assignment to cover the Tamil United Liberation Front (TULF) party convention in Mannar.
 
 ...
 
-[Data](articles/281f4a17.json)
+[Data](articles/e547085f.json)
 
-[Extended Data](ext_articles/281f4a17.ext.json)
+[Extended Data](ext_articles/e547085f.ext.json)
 
 ---
 
@@ -2228,6 +2298,22 @@ The project aims to directly benefit 1,500 families (approximately 7,500 individ
 
 ---
 
+### கறுப்பு ஜூலையில் ‘ ஒரு  தமிழ்ப்  பத்திரிகையாளர்   குடும்பத்தின் அனுபவம்
+
+*2024-07-23 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84414) · `en`
+
+1983 ஜூலையில் தமிழ் மக்களுக்கு எதிராக கட்டவிழ்த்துவிடப்பட்ட கொடூரமான வன்முறை சுதந்திரத்துக்கு பின்னரான இலங்கையின் வரலாற்றில் மறக்கமுடியாத ஒரு அத்தியாயம். அந்த இருண்ட மாதத்தின் பெருங்கேடான நிகழ்வுகள் இலங்கையில் பெரும் எண்ணிக்கையிலான தமிழர்களின் வாழ்வை கடுமையாகப் பாதித்தன.
+
+இலங்கையின் ஒரு தமிழ்ப் பத்திரிகையாளன்  என்ற வகையில், கறுப்பு ஜூலை என்னை தனிப்பட்ட முறையிலும் தொழில்சார் அடிப்படையிலும் பாதித்தது. மேலும், ஆயிரக்கணக்கான ஏனைய தமிழ்க் குடும்பங்களைப் போன்று எனது குடும்பமும் கொந்தளிப்பான அந்த நாட்களில் பாதிக்கப்பட்டு இடம்பெயர்ந்தது.
+
+...
+
+[Data](articles/281f4a17.json)
+
+[Extended Data](ext_articles/281f4a17.ext.json)
+
+---
+
 ### Refrigerated trucks from UNICEF supported by Japan to boost immunisation services
 
 *2024-07-23 01:10:52* · [`dailyftlk`](https://www.ft.lk/news/Refrigerated-trucks-from-UNICEF-supported-by-Japan-to-boost-immunisation-services/56-764618) · `en`
@@ -2289,69 +2375,5 @@ Kamala plans to promote women's contraceptive rights and protect democracy from 
 [Data](articles/78c720a3.json)
 
 [Extended Data](ext_articles/78c720a3.ext.json)
-
----
-
-### Local investors at risk: REPA criticises new tariff rates for rooftop solar projects
-
-*2024-07-23 00:40:30* · [`dailyftlk`](https://www.ft.lk/business/Local-investors-at-risk-REPA-criticises-new-tariff-rates-for-rooftop-solar-projects/34-764611) · `en`
-
-REPA Vice President Suresh Galanga, Chairman Darshana Liyanasekara, and Treasurer Chanaka Jayawardena
-
-The Renewable Energy Protectors’ Association (REPA) recently held a media briefing to voice concerns over the Government’s decision to reduce tariff rates for new rooftop solar and renewable energy projects, effective from 1 July.
-
-REPA and other groups warned that this move could deter local investors and hinder the growth of the renewable energy sector. They emphasised the importance of energy supply for economic development and urged the Government to support sustainable energy initiatives.
-
-...
-
-[Data](articles/e0613415.json)
-
-[Extended Data](ext_articles/e0613415.ext.json)
-
----
-
-### CMA Sri Lanka’s National Management Accounting Conference kicks off tomorrow
-
-*2024-07-23 00:38:32* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-s-National-Management-Accounting-Conference-kicks-off-tomorrow/34-764610) · `en`
-
-Key experts to share insights to “Navigating Stability towards Dynamic Growth”
-
-The Institute of Certified Management Accountants of Sri Lanka (CMA) will be holding its 20th annual flagship event, the CMA National Management Accounting Conference 2024, on the theme ‘Navigating Stability towards Dynamic Growth’ from 24 and 25 July at the Shangri-La Colombo.
-
-CMA Sri Lanka, established in 1999 and inaugurated in June 2000, was incorporated by Act of Parliament No. 23 of 2009 as the National Professional Management Accounting Institution in Sri Lanka.
-
-The conference theme, ‘Navigating Stability towards Dynamic Growth,’ reflects their collective pursuit of excellence in management accounting practices to achieve near-term priorities, recover from the economic crisis, and restore economic stability and debt sustainability. In the medium term, the country will need to address the structural weaknesses that led to the economic crisis and build a strong foundation for robust and inclusive growth.
-
-...
-
-[Data](articles/467877db.json)
-
-[Extended Data](ext_articles/467877db.ext.json)
-
----
-
-### Event Invitation: Book Launch On Peradiniya University Politics By Rajasinghe Bandara
-
-*2024-07-23 00:36:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/event-invitation-book-launch-on-peradiniya-university-politics-by-rajasinghe-bandara/) · `en`
-
-◼️
-
-[Data](articles/f8b02b13.json)
-
-[Extended Data](ext_articles/f8b02b13.ext.json)
-
----
-
-### Megakem Engineering expands with new showrooms and launches Megakem Megalistic Super 540
-
-*2024-07-23 00:36:03* · [`dailyftlk`](https://www.ft.lk/business/Megakem-Engineering-expands-with-new-showrooms-and-launches-Megakem-Megalistic-Super-540/34-764609) · `en`
-
-Megakem Engineering Ltd. has expanded their business by opening two new showrooms under the “Megakem” brand. The new showroom in Gampaha and the rebranded showroom in Rajagiriya are significant milestones in the company’s growth strategy. In addition, Megakem has introduced its newly rebranded waterproofing solution; Megakem Megalistic Super 540. Lauded for its superior quality and performance, this product is endorsed with the tagline, “Most Recommended Waterproofing Product by Engineers,” setting new industry benchmarks. The grand opening events were graced by Group Chairman Ashoka Siriwardena, alongside the Board of Directors, management team, employees, and esteemed distributors. These milestones underscore Megakem Engineering’s unwavering commitment to innovation, quality, and customer satisfaction.
-
-◼️
-
-[Data](articles/187dfb4d.json)
-
-[Extended Data](ext_articles/187dfb4d.ext.json)
 
 ---

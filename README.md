@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 07:01:59**
+As of **2024-07-23 07:28:02**
 
 ## Newspaper Stats
 
-*Scraped **36,670** Articles*
+*Scraped **36,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,096
 economynextcom | 2,191
 dailyftlk | 2,336
 adalk | 3,311
-adaderanalk | 4,248
-tamilmirrorlk | 4,472
+adaderanalk | 4,250
+tamilmirrorlk | 4,473
 dailymirrorlk | 4,733
 virakesarilk | 5,745
 adaderanasinhalalk | 6,150
@@ -26,33 +26,67 @@ adaderanasinhalalk | 6,150
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,663 (100.0%) of 36,670 articles have been extended.
+36,667 (100.0%) of 36,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### සැලකිලිමත් වන්න - කාලගුණයෙන් රතු නිවේදනයක්
+### Youth found stabbed to death inside three-wheeler at Ward Place
+
+*2024-07-23 06:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100711/youth-found-stabbed-to-death-inside-three-wheeler-at-ward-place) · `en`
+
+The body of a 33-year-old person, stabbed to death with sharp weapons, has been found inside a parked three-wheeler at Ward Place in Colombo, police said.
+
+◼️
+
+[Data](articles/550ab291.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-07-23 06:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100710/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Strong winds of about 50-55 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/151b969d.json)
+
+---
+
+### Be careful - a red announcement from the weather
 
 *2024-07-23 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199100) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+A critical weather warning was issued by the Meteorology Department at 3:00 am, affecting the Bay of Bengal region and several districts including Kandy, Nuwara Eliya, Galle, Matara, and possibly the North Western province. It warns of strong winds ranging from 30-55 mph, especially in the western-central hill regions and the northern provinces.
 
-අද උදෑසන 3.00ට නිකුත්කරන ලද එම නිවේදනය ඉදිරි පැය 24 සඳහා වලංගු බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-එම නිවේදනයේ දැක්වෙන්නේ අරබි මුහුදු ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාව සඳ﻿හා සැලකිලිමත් වන ලෙසය.
+The Department of Meteorology was issued by the Met Department of the Meteorology.
 
-මේ අතර බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල අද (23) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department states that the announcement was issued at 3.00 am this morning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+The announcement states that the multi-day fishing and naval community acting in the Bay of Bay of Bengal.
 
-මේ අතර මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවේ.
+Meanwhile, the Met Department forecasts the Kandy, Nuwara Eliya, Galle and Matara districts to the Western and Sabaragamuwa provinces.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+The department states that the North Western province is possible.
+
+Meanwhile, in the West-backed areas of the central hills and in the North, North, North Central and North Western provinces is now at times.. Strong winds are about 50-55.
+
+From time to time in the rest of the island.. The Met Department further stated that strong winds can occur 30-40 times.
 
 ◼️
 
 [Data](articles/6a143285.json)
+
+[Extended Data](ext_articles/6a143285.ext.json)
 
 ---
 
@@ -155,6 +189,22 @@ Notes development activities are being carried out across the country in a way t
 [Data](articles/f55f2220.json)
 
 [Extended Data](ext_articles/f55f2220.ext.json)
+
+---
+
+### சுற்றுலா வர்த்தகத்தில் இணையுமாறு ஜனாதிபதி அழைப்பு
+
+*2024-07-23 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-வர்த்தகத்தில்-இணையுமாறு-ஜனாதிபதி-அழைப்பு/175-340859) · `ta`
+
+மத்திய கிழக்கு நாடுகள் உட்பட இலங்கைத் தொழிலாளர்கள் அனுப்பப்படும் நாடுகளின் சுற்றுலாப் பயணிகளை இந்நாட்டுக்கு வரவழைக்கும் புதிய வர்த்தக வாய்ப்புகள் குறித்து வெளிநாட்டு வேலைவாய்ப்பு முகவர் நிலையங்கள் கவனம் செலுத்தினால், அவர்களுக்குத் தேவையான வசதிகளை சுற்றுலா அமைச்சின் ஊடாக வழங்க முடியும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+குருணாகல் எபிடோம் ஹோட்டல் வளாகத்தில் நேற்று முன்தினம் இடம்பெற்ற 'அபிமன் 2024' நிகழ்வில் ஜனாதிபதி இவ்வாறு  குறிப்பிட்டார்.
+
+நாட்டின் பொருளாதாரத்திற்கு பாரிய பங்களிப்பை வழங்கும் வெளிநாட்டு வேலை வாய்ப்பு முகவர் நிறுவனங்களைப் பாராட்டி சான்றிதழ்கள் மற்றும் நினைவுப் பரிசுகளை ஜனாதிபதி இதன்போது வழங்கி வைத்தார். (a)
+
+◼️
+
+[Data](articles/6ecc7495.json)
 
 ---
 
@@ -288,6 +338,8 @@ The conference theme, ‘Navigating Stability towards Dynamic Growth,’ reflect
 
 [Data](articles/f8b02b13.json)
 
+[Extended Data](ext_articles/f8b02b13.ext.json)
+
 ---
 
 ### Megakem Engineering expands with new showrooms and launches Megakem Megalistic Super 540
@@ -331,6 +383,8 @@ As I sat down at the lunch table recently, the guest across from me asked what I
 ...
 
 [Data](articles/430f4a80.json)
+
+[Extended Data](ext_articles/430f4a80.ext.json)
 
 ---
 
@@ -2187,81 +2241,5 @@ There were no reports of violence or protests on Monday morning and media said c
 [Data](articles/61b3952f.json)
 
 [Extended Data](ext_articles/61b3952f.ext.json)
-
----
-
-### The future agenda is not being prepared
-
-*2024-07-22 13:35:43* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ඉදිරි-න්‍යාය-පත්‍රය-සකස්-කරන්නේ-දේශපාලනඥයන්-නොවෙයි/11-410911) · `si`
-
-President Ranil Wickremesinghe discussed facilitating new business opportunities for Sri Lankan workers in the Middle East and converting the country into an export economy. He highlighted the importance of skill enhancement programs for overseas workers and collaboration with the Ministry of Tourism to expand businesses. The President also mentioned the government's support for exporting food to these countries, emphasizing the need for flexibility and preparation for the future without being confined to one place.
-
-🟩
-
-President Ranil Wickremesinghe said that they could facilitate the Ministry of Traveling Agency for new business opportunities in countries, including Sri Lankan workers in the Middle East.
-
-The President was speaking at a ceremony held at the Epitom Hotel premises in Kurunegala yesterday (21).
-
-President Ranil Wickremesinghe was awarded the Certificate and Souvenirs towards the Sri Lankan economy.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-I have to thank you at this time of accepting the presidency and complete two years. If you do not earn money to the country, you will not be able to bring it to this situation today. Two years ago we were in difficulty. No one believed that the country would be able to build the country from the economic crisis. But I believed that this country could be recovered with the people. Unlike other countries, we have ended this work before two years.
-
-...
-
-[Data](articles/d977a323.json)
-
-[Extended Data](ext_articles/d977a323.ext.json)
-
----
-
-### Warrants of ministers
-
-*2024-07-22 13:25:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ජීවන්ට-වරෙන්තු/11-410910) · `si`
-
-Jayamini Ambagahawatta and several Ceylon Workers Congress members are to be arrested and tried for offenses under the Penal Code, as reported by the Nuwara Eliya Police. Minister Jeevan Thondaman and others from the Kelani Weldala Plantation face similar charges. Despite legal efforts to prevent this, the suspects have been presented to court.
-
-🟩
-
-Videological Memorial Jayamini Ambagahawatta has been ordered to be arrested and produced before the courts and several suspects of the Ceylon Workers Congress.
-
-Minister Jeevan Thondaman on May 30 (30), Hon.Senior Attorney-at-Law Palitha Suzhaasinghe said he was reported before court on behalf of the estate company.
-
-The Nuwara Eliya Police had reportedly reported the case with action against the Penal Code, including the Minister of Kelani Weldala Plantation.
-
-The Attorneys-at-Forms of the Nuwara Eliya were in writing to the courts (22), but the suspects were presented to the court.
-
-Attorneys-at-Law Palikaragoda, Senior Attorney Palika Subasinghe and Sure Gayan appeared in court on behalf of Kelani Weli Estate Company.
-
-◼️
-
-[Data](articles/8aaa87c9.json)
-
-[Extended Data](ext_articles/8aaa87c9.ext.json)
-
----
-
-### Allow the tetu telephone to the secret
-
-*2024-07-22 13:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரகசியத்தை-கக்க-டெட்டூ-துலானுக்கு-அனுமதி/175-340829) · `ta`
-
-Dulan Sanjay, accused in the murder of Surendra Vasantha Perera at a piercing center, will appear in court today. His attorney seeks to present a sealed affidavit containing confidential information. The magistrate agrees to review this document post-lunch, indicating its potential significance in the case.
-
-🟩
-
-Tulan Sanjay, the owner of the tattoo, will be released in court today (22) in connection with the assassination of Surendra Vasantha Perera, a club Vasantha Perera, who was killed at the Athurugiriya Green (Tetu) piercing center.
-
-Attorney -at -law Nuwan Jayawardena, appearing on behalf of the suspect Dulan Sanjay, announced in court that he wanted to give his party a secret affidavit.
-
-Magistrate Mrs. Sanima Wijebandara said that when he issued a secret affidavit to the suspect, he said that if they comply with the confidential confession on the basis of those conditions, he would be able to submit the suspect's secret affidavit after the afternoon break.
-
-Accordingly, the case will be taken up for hearing after the court -day break today (22).
-
-◼️
-
-[Data](articles/f12179b9.json)
-
-[Extended Data](ext_articles/f12179b9.ext.json)
 
 ---

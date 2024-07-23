@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 12:20:24**
+As of **2024-07-23 12:35:57**
 
 ## Newspaper Stats
 
-*Scraped **36,724** Articles*
+*Scraped **36,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,194
 dailyftlk | 2,336
 adalk | 3,317
 adaderanalk | 4,258
-tamilmirrorlk | 4,488
+tamilmirrorlk | 4,489
 dailymirrorlk | 4,733
 virakesarilk | 5,745
 adaderanasinhalalk | 6,168
@@ -26,45 +26,75 @@ adaderanasinhalalk | 6,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,718 (100.0%) of 36,724 articles have been extended.
+36,724 (100.0%) of 36,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### ඉතියෝපියාවේ ඛේදවාචකයක් - ජීවිත 50ක් අහිමි වෙයි
+### கொரோனா உடல்களை எரிப்பு:  மன்னிப்பு கேட்டது அரசாங்கம்
+
+*2024-07-23 12:09:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொரோனா-உடல்களை-எரிப்பு-மன்னிப்பு-கேட்டது-அரசாங்கம்/175-340882) · `ta`
+
+கொவிட்-19, தொற்றுநோய்களின் போது இலங்கையில் நடைமுறைப்படுத்தப்பட்ட கட்டாய தகனம் கொள்கை தொடர்பாக மன்னிப்பு கோருவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+கொவிட்-19 இன் மருத்துவ மேலாண்மை குறித்து சுகாதார அமைச்சகம் வெளியிட்டுள்ள வழிகாட்டுதல்களின்படி, வைரஸால் இறந்தவர்களின் உடல்களை அப்புறப்படுத்தும் முறையாக தகனம் செய்ய பரிந்துரைக்கப்பட்டது.
+
+அதன்படி, கொவிட்-19 நோயால் பாதிக்கப்பட்ட 276 முஸ்லிம்களின் உடல்கள் தகனம் செய்யப்பட்டன, பின்னர் பெப்ரவரி 2021 இல், கடுமையான கட்டுப்பாடுகளுடன் அத்தகைய நபர்களுக்கு அடக்கம் செய்யப்பட்டது.
+
+ஜூலை 2021 இல், ஸ்ரீ ஜெயரவதனாபுர பல்கலைக்கழகத்தின் ஆதரவுடன், அப்போதைய நீர் வழங்கல் அமைச்சகம், கொழும்பு, கண்டி ஆகிய நீர்வாழ் சூழல்களில் SARS-CoV-2 வைரஸைக் கண்டறியும் ஆய்வைத் தொடங்கியது, ஆற்று நீர், மருத்துவமனைகளில் இருந்து வெளியேற்றப்படும் கழிவு நீர், தனிமைப்படுத்தப்பட்ட மையங்கள் மற்றும் பிற சாத்தியமான பகுதிகள். மேற்பரப்பான நீரில் வைரஸ் இல்லை என ஆய்வில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/0af3c96f.json)
+
+---
+
+### An tragedy in Ethiopia - Losing 50 lives
 
 *2024-07-23 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199119) · `si`
 
-ඉතියෝපියාවේ සිදුවූ නායයෑම් හේතුවෙන් පුද්ගලයින් 50 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In Ethiopia, heavy rainfall caused landslides killing 50 people and injuring others in the Gofa region over the weekend. Relief efforts are underway to assist those affected.
 
-පසුගිය 21 වන ඉරිදා සහ ඊයේ (22) දිනයන්හි ගෝෆා ප්‍රදේශයට බලපෑ අධික වර්ෂාපතන තත්ත්වය සමඟ සිදුවූ නායයෑම්වලින් එම මරණ වාර්තා වූ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-එමෙන්ම තවත් පුද්ගලයින් පිරිසක් ද තුවාල ලබා රෝහල් ගත කර තිබේ.
+50 people were killed in landslides in Ethiopia.
 
-නායයෑම්වලින් පීඩාවට පත් පුද්ගලයින් මුදා ගැනීම සඳහා මේ වන විට සහන කණ්ඩායම් කටයුතු කරමින් සිටින බව ද විදෙස් මාධ්‍ය වැඩිදුරටත් පවසයි.
+Foreign media reports that these deaths were reported from the landslides with the heavy rainfall of the gofa area on Sunday and yesterday (22).
+
+Other people have also been hospitalized.
+
+The relief teams are currently working to liberate landslides.
 
 ◼️
 
 [Data](articles/dc874b7b.json)
 
+[Extended Data](ext_articles/dc874b7b.ext.json)
+
 ---
 
-### ශ්‍රී ලාංකිකයින්ට පෝලන්තයේ රැකියා වරම්
+### Sri Lankans employed in Poland
 
 *2024-07-23 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199118) · `si`
 
-ශ්‍රී ලාංකික ශ්‍රමිකයින් සඳහා ඉලක්ක ගත ක්ෂේත්‍රවල රැකියා ලබාදීම සම්බන්ධයෙන් පෝලන්තයේ අවධානය යොමුව ඇති බව විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා පවසයි.
+During a visit to Poland, Foreign Minister Ali Sabri discussed enhancing employment opportunities for Sri Lankan workers. He mentioned a "X" account process aimed at facilitating Sri Lankans' entry into Poland. The visit addressed concerns raised by the Polish External Affairs Minister, highlighting efforts to improve conditions for Sri Lankan laborers in Poland.
 
-පෝලන්තයේ සංචාරයක නිරතවීමෙන් අනතුරුව සිය "X" ගිණුමේ සටහනක් තබමින් විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා ඒ බව කියා සිටියා.
+🟩
 
-එමෙන්ම ශ්‍රී ලාංකිකයින්ට පෝලන්තයට ඇතුළුවීමට වීසා පහසුකම් ලිහිල් කිරීමට ද එම සංචාරයේ දී අවධානය යොමුව තිබේ.
+Foreign Minister Ali Sabri says Poland is focusing on providing employment opportunities for Sri Lankan workers.
 
-කෙසේවෙතත් සිය ඉල්ලීම් සම්බන්ධයෙන් පෝලන්ත විදේශ කටයුතු අමාත්‍යවරයාගේ ප්‍රතිචාරයන්ට ස්තූතිය පළ කරන බව ද විදේශ අමාත්‍යවරයා සිය "X" ගිණුමේ සටහනක් තබමින් වැඩිදුරටත් සඳහන් කර තිබේ.
+Foreign Minister Ali Sabri said that after conducting a "X" account after being on a visit to Poland, he said that.
+
+The visit also focuses on the visit to Sri Lankans to enter Poland.
+
+However, the Foreign Minister also responded to the response of the Polish External Affairs Minister regarding his demands.
 
 ◼️
 
 [Data](articles/b6ac710a.json)
+
+[Extended Data](ext_articles/b6ac710a.ext.json)
 
 ---
 
@@ -84,6 +114,8 @@ Rival factions Hamas and Fatah met in China in April to discuss reconciliation e
 
 [Data](articles/b5605958.json)
 
+[Extended Data](ext_articles/b5605958.ext.json)
+
 ---
 
 ### Speaker endorses certificate on Sri Lanka Telecom Amendment Bill
@@ -98,25 +130,37 @@ The announcement was made during the ongoing Parliamentary proceeding today (23)
 
 [Data](articles/c8ac76c6.json)
 
+[Extended Data](ext_articles/c8ac76c6.ext.json)
+
 ---
 
-### களனிவெளி தொழிலாளர்கள் பணிபுறக்கணிப்பு
+### Kelani workers workshop
 
 *2024-07-23 11:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/களனிவெளி-தொழிலாளர்கள்-பணிபுறக்கணிப்பு/76-340880) · `ta`
 
-நுவரெலியா மாவட்டத்தில் இயங்கும் களனி வெளி பெருந்தோட்ட முகாமைத்துவ நிறுவனத்திற்குறிய அனைத்து பெருந்தோட்டங்களிலும் தொழிலாளாளர்கள் தமது வழமையான தேயிலை தொழிலை ஸ்தம்பித்தப்படுத்தி பணிபுறக்கணிப்பில் செவ்வாய்க்கிழமை (23) காலை ஈடுப்பட்டுள்ளனர்.
+Workers at the Kelaniya External Plantation Management Institute in Nuwara Eliya boycotted work due to unpaid salaries and in protest against the company's actions against Minister Jeevan Thondaman. They resumed work in various plantations including Laverzilip, Naspy, Munblan, Magastota, Scrap, and Nuwara Eliya Division, as well as Edinburo, Classo, Adivan, and Kalaniweli areas. Support came from Rathalla top divisional workers and bank workers under the Halees Plantation Administration and Bank Oya.
 
-இரண்டு முக்கிய காரணங்களை முன் வைத்து இந்த பணிப்புறக்கணிப்பில் செவ்வாய் கிழமை(23)  முதல் களம் இறங்கியுள்ளதாக பணி புறக்கணிப்பில்  ஈடுப்பட்டுள்ள தொழிலாளர்கள் தெரிவிக்கின்றனர்.
+🟩
 
-1700 ரூபாய் சம்பளத்தை தர மறுக்கும்  களனிவெளி கம்பனி தொழிலாளர்கள் அடி வயிற்றில் அடித்து அடாவடி போக்கை கடைப்பிடிப்பதாகவும்,
+In all plantations of the Kelaniya External Plantation Management Institute in Nuwara Eliya district, workers have been deployed on Tuesday morning (23) in the process of dismantling their usual tea industry.
 
-இத்தகைய அடாவடி பைக்கை கண்டித்த அமைச்சர் ஜீவன் தொண்டமான் மீது நீதி மன்ற நடவடிக்கை எடுத்து அவரை கைது செய்ய இந்த கம்பனி நடவடிக்கை எடுத்ததை கண்டித்தும் இந்த பணிபுறக்கணிப்பு செய்யப்படுவதாக தொழிலாளர்கள் தெரிவித்தனர்.
+Workers who have been involved in the work boycott of the workforce on Tuesday (23) in this workshop for two main reasons.
 
-அந்த வகையில் களனிவெளி பெருந்தோட்ட முகாமைத்துவ நிறுவனத்தின் கீழ் இயங்கும் நுவரெலியா பீட்று தோட்டத்திற்கு கீழ் இயங்கும் பீட்று,லவர்சிலீப்,நேஸ்பி,
+The Kelaniya Company, which refuses to pay a salary of 1700 rupees, is admitted to the stomach of the company.
+
+Workers said that the work was being made, denouncing the company's action against Minister Jeevan Thondaman, who denounced the bike.
+
+Thus, under the Nuwara Eliya Peedru Garden, under the Kelaniya Plantation Management Institute, Laverzilip, Naspy,
+
+Workers have been deployed in the gardens of Munblan, Magastota and Scrap and Nuwara Eliya Division.
+
+Similarly, workers from the Edinburo, Classo, Adivan, and the upper division of the Kalaniweli Plantation Management Administration in the Nanuoya area
 
 ...
 
 [Data](articles/b94bfacc.json)
+
+[Extended Data](ext_articles/b94bfacc.ext.json)
 
 ---
 
@@ -170,17 +214,23 @@ Microsoft founder Bill Gates is accompanied by a Death of Blue Screen Computer, 
 
 ---
 
-### ජනාධිපතිවරණය වළක්වන්නැයි ඉල්ලූ නීතිඥයා අධිකරණයට මුදල් ගෙවයි
+### The lawyer who requested to prevent the presidential election
 
 *2024-07-23 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199117) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය ජනමත විචාරණයකින් සම්මත කරන තුරු ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කළ පෙත්සම නිෂ්ප්‍රභ කිරීමෙන් අනතුරුව ගෙවීමට නියම කළ රුපියල් ලක්ෂ 05ක නඩු ගාස්තුව නිතීඥ අරුණ ලක්සිරි මහතා විසින් ගෙවා තිබේ.
+Lawyer Athika Luna Laksiri, who sought to halt the presidential election, paid her charges of Rs. to the Supreme Court on March 23rd.
 
-එම ගෙවීම නීතිඥ ලක්සිරි මහතා විසින් අද (23) පෙරවරුවේ ශ්‍රේෂ්ඨාධිකරණ කාර්යාලයට ගෙවා ඇත.
+🟩
+
+The 19th Amendment to the Constitution was issued by the Athika Luna Laksiri has paid the charges of Rs.
+
+Attorney Laksiri has paid the Supreme Court today (23).
 
 ◼️
 
 [Data](articles/0bfee5b8.json)
+
+[Extended Data](ext_articles/0bfee5b8.ext.json)
 
 ---
 
@@ -2235,31 +2285,5 @@ The tournament is the first tournament of Gautam Gambhir's new coach and Sri Lan
 [Data](articles/5683a652.json)
 
 [Extended Data](ext_articles/5683a652.ext.json)
-
----
-
-### "Tamil National Alliance": 9 aspects of Memorandum of Understanding
-
-*2024-07-22 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189119) · `ta`
-
-The Tamil National Alliance (TNA), a collaboration between the Tamil National Party and the Tamil People's General Assembly, aims to unite the Tamil nation through a common candidate in Sri Lanka's 2024 state elections. This MoU emphasizes self-determination for Eelam Tamils, criticizes the Sri Lankan government's handling of Tamil issues, and outlines the TNA's commitment to addressing discrimination and seeking political solutions. The alliance plans to engage in public advocacy and ensure equal participation across its structures.
-
-🟩
-
-Both sides have signed an agreement that the system will be called the "Tamil National Alliance", which is being created by the Tamil National Party and the Tamil People's General Assembly.
-
-A Memorandum of Understanding (MoU) between Tamil National Parties and Tamil People's General Assembly was signed today at the Father Selva Gallery of Jaffna.
-
-The Memorandum of Understanding (MoU) between the Tamil National Parties and the Tamil People's General Assembly has been emphasized.
-
-The Eelam Tamil people have a self -determination on the basis of the nationality of the North and East, which has a traditional homeland in the North and East of the island of Sri Lanka.
-
-Basically, those who are entitled to demanding peak autonomy. In addition, the Sri Lankan government is continuously carrying out ethnicity in Sri Lanka, in various ways, with the aim of distorting the unique national presence of the Tamil people, which have long history and prosperity of international law.
-
-...
-
-[Data](articles/faddec86.json)
-
-[Extended Data](ext_articles/faddec86.ext.json)
 
 ---

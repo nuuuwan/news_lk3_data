@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 17:06:04**
+As of **2024-07-23 17:20:33**
 
 ## Newspaper Stats
 
-*Scraped **36,790** Articles*
+*Scraped **36,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
 adalk | 3,328
-adaderanalk | 4,262
+adaderanalk | 4,263
 tamilmirrorlk | 4,508
 dailymirrorlk | 4,733
 virakesarilk | 5,765
@@ -26,23 +26,51 @@ adaderanasinhalalk | 6,177
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,788 (100.0%) of 36,790 articles have been extended.
+36,790 (100.0%) of 36,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### දෙමාපියන් නමින් කෝටි ගනණක් වටිනා තම නිවෙස් දේපල දන්දුන් තරුණ වෛද්‍ය යුවලක්
+### SLFP internal crisis: Another court decision pending for tomorrow
+
+*2024-07-23 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100725/slfp-internal-crisis-another-court-decision-pending-for-tomorrow) · `en`
+
+The Colombo District Court ordered the decision on whether or not to suspend the declaring of the verdict of the plaint filed by MP Dayasiri Jayasekara until a decision is taken related to Lasantha Alagiyawanna’s request to intervene in the plaint, to be communicated tomorrow (24).
+
+This order was issued when the relevant plaint was called before the court today (23).
+
+Jayasekara had filed the relevant complaint before the Colombo District Court, challenging the decision taken by the Sri Lanka Freedom Party (SLFP) to expel him as the party’s General Secretary and a letter directed by the party’s then chairman Maithripala Sirisena asking Jayasekara to provide excuses to defend himself against a disciplinary inquiry.
+
+◼️
+
+[Data](articles/35bd8dac.json)
+
+---
+
+### A young medicine of their homes worth the parents of their homes worth the parents
 
 *2024-07-23 16:34:30* · [`adalk`](https://www.ada.lk/breaking_news/දෙමාපියන්-නමින්-කෝටි-ගනණක්-වටිනා-තම-නිවෙස්-දේපල-දන්දුන්-තරුණ-වෛද්‍ය-යුවලක්/11-410938) · `si`
 
-එංගලන්තයේ ධච් ආයුර්වේද ආයතනයේ හා  මාලඹේ ධච් ආයුර්වේද රෝහලේ අධ්‍යක්ෂක වෛද්‍ය චන්න ජිනසේන මහතාට හා එහි අධ්‍යක්ෂිකා වෛද්‍ය ධනුෂ්කා ග්‍රේරෝ මහත්මියට අයත් පන්නිපිටිය පැලැන්වත්ත ඉදි ගහදෙණිය පාරේ පිහිටි පර්චස් දහයක භූමිය සහ අංග සම්පූර්ණ දෙමහල් නිවස සසුනට පූජා කිරීමේ ආදර්ශමත් පින්කමක් පේරාදෙණිය ශ්‍රී සුබෝධාරාම ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානාධිපති විශ්ව කීර්ති ශ්‍රී ධර්ම විශාරද මහෝපාධ්‍යාය පණ්ඩිතාචාර්ය අති පූජ්‍ය වත්තේගම ශ්‍රී ධම්මාවාස  ශ්‍රී ලංකා උඩරට අමරපුර නිකායේ ශාසන ජෝතික පාර්ශ්වයේ මහා නායක හිමිපාණන් වහන්සේගේ ප්‍රධානත්වයෙන් ඉකුත් ඇසළ පුර පසළොස්වක පෝය දා සිදු කෙරිණි.
+The text mentions several individuals and locations related to Buddhism and Ayurvedic medicine in Sri Lanka. It includes references to Dr. Chanchka, Dr. Danushka, and Dr. Channasena, along with various centers such as the International Buddhist Center and the Ayurvedic Hospital. The narrative also touches upon events and contributions to Buddhism and Ayurvedic practices.
 
-වෛද්‍ය චන්න ජිනසේන මහතාගේ මියගිය ඒ.ජී.ජිනසේන පියාගේ ගුණානුස්මරණය කරමින් සසුනට පූජා කළ එම ස්ථානය පන්නිපිටිය පැලැන්වත්ත ශ්‍රී ජිනසේනාරාම ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානය ලෙස නම්කර තිබේ.
+🟩
 
-...
+Peradeniya International Center for Dr. Chanchka Sri Sedhima International Buddhist Centers of Peranwatta, Panadeniya Road, Paladishka Road, Director of the Ayurvedic Hospital, England and its director Dr. Danushka Road, Paladhuka Road, Paladhuka Road, Palandeniya Road, Paladhuka Road, University of Peradeniya.Pandakawa Sri Lanka, Ven. Ven. Udarata Amarapura Sri Lanka (ADA) was held on the Pioneer Piyawala Piyawala Esala
+
+The Sri Jinasharanarama International Buddhist Center, Pannata, the Sri Jinasharama International Buddhist Center, has been named as the International Buddhist Center, Pannipitiya.
+
+Dr. Channasena has been presented to the Maha Nayaka Deed of Dr. Channasena, Minister of Julers' Panditha Ven
+
+The Dr. Mediathari, Ven. Medirigiriya Sasana Thera, Medirigiriya, Ven. Medirigiriya, Ven.
+
+In addition, Dr. Chanissena's wife, Dr. Danushka Green, was reportedly known as a number of billions of death in Kamburuwana, Matara.. (I J)
+
+◼️
 
 [Data](articles/fc589839.json)
+
+[Extended Data](ext_articles/fc589839.ext.json)
 
 ---
 
@@ -600,21 +628,27 @@ The outstanding amount of mortgage advances, which was around 210 billion rupees
 
 ---
 
-### දිනන්න පුළුවන් අපේක්ෂකයෙක් දානවා - නාමල්ට තව කල් තියෙනවා
+### Namal has a candidate that can win
 
 *2024-07-23 13:41:33* · [`adalk`](https://www.ada.lk/breaking_news/දිනන්න-පුළුවන්-අපේක්ෂකයෙක්-දානවා---නාමල්ට-තව-කල්-තියෙනවා/11-410937) · `si`
 
-ජනපති මැතිවරණය පැවැත්වෙනු ඇති බවත් ඒ සඳහා පොදුජන පෙරමුණෙන් ඉදිරිපත් කරන අපේක්ෂකයා තවමත් තීරණය කර නොමැති බවත් හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පැවැසීය.
+Mahinda Rajapaksa confirmed an upcoming presidential election, noting the candidate from the CEB hasn't been finalized. He mentioned a party-selected candidate and considered Dhammika Perera, but highlighted Namal Rajapaksa as a potential contender.
 
-පොදුජන පෙරමුණේ පක්ෂ මූලස්ථානයේ පැවැති වැඩසටහනකින් අනතුරුව මාධය යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසිය.
+🟩
 
-පක්ෂය විසින් දිනන අපේක්ෂකයෙක් ඉදිරිපත් කරනු ඇති බවද ඔහු පැවැසිය. ධම්මික පෙරේරා මහතාගේ නමද සලකා බලමින් තිබෙන බවද ඔහු කීය.
+Former President Mahinda Rajapaksa said that the president's election will be held and the candidate presented by the CEB has not yet decided.
 
-කෙසේ වෙතත් නාමල් රාජපක්ෂ මහතාට තව කාලය තිබෙන බවත් ඔහු පැවැසිය.
+He was responding to a program at the party headquarters at the party headquarters of the General Assembly.
+
+He also said that a candidate won by the party will be presented. He also said that Mr. Dhammika Perera is also considered.
+
+However, he said that Namal Rajapaksa had another time.
 
 ◼️
 
 [Data](articles/af254a46.json)
+
+[Extended Data](ext_articles/af254a46.ext.json)
 
 ---
 
@@ -2381,29 +2415,5 @@ It is also reported that the use of improved sources of the premises of more tha
 [Data](articles/7e7a5b77.json)
 
 [Extended Data](ext_articles/7e7a5b77.ext.json)
-
----
-
-### Notice on school text books
-
-*2024-07-23 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199104) · `si`
-
-School textbooks for next year start today, as per the Ministry of Education. The Chinese government will supply all school uniforms next year. Teachers will receive delayed allowances, and the government is addressing teacher career issues.
-
-🟩
-
-The school text books next year will commence today (23), the Ministry of Education said.
-
-The ministry shows that the Chinese government has agreed to provide all school uniforms next year.
-
-Meanwhile, Minister of Education Susil Premajayantha says that teachers will be provided with the delay.
-
-The Minister pointed out that the government has taken steps to review teacher career problems and resolve them.
-
-◼️
-
-[Data](articles/e340a03c.json)
-
-[Extended Data](ext_articles/e340a03c.ext.json)
 
 ---

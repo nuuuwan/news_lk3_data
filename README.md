@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 03:35:57**
+As of **2024-07-24 03:54:32**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,850 (100.0%) of 36,851 articles have been extended.
+36,851 (100.0%) of 36,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### தேர்தல்கள் கூட்டணி ஓகஸ்ட் 8 கைச்சாத்து
+### Elections Alliance August 8
 
 *2024-07-24 02:01:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-கூட்டணி-ஓகஸ்ட்-8-கைச்சாத்து/175-340921) · `ta`
 
-அடுத்த தேர்தல்களை இலக்காகக் கொண்டு ஐக்கிய மக்கள் சக்தி தலைமையிலான புதிய ஐக்கிய மக்கள் கூட்டணி எதிர்வரும் ஆகஸ்ட் மாதம்  8 ஆம் திகதி கைச்சாத்தப்படும் என ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்தும பண்டார  தெரிவித்தார்.
+The United People's Power-led United People's Alliance (UPFA), set to sign on August 8, aims to unite all Sri Lanka's communities, including Sinhala, Tamil, Muslim, and Burgher, under one coalition. This move follows in the footsteps of TS Senanayake's United National Party, which sought national unity across religions. Led by Sajith Premadasa, the UPFA plans to address the nation's economic challenges, uphold the rule of law, and combat corruption, attracting leaders committed to these causes.
 
-சிங்கள, தமிழ், முஸ்லிம், பர்கர் என சகல சமூகங்களையும் சேர்ந்த தரப்பினரை இணைத்துக் கொண்டு இக்கூட்டணியை அமைப்போம். இக்கூட்டணியில் சிங்கள, தமிழ்,முஸ்லிம் பர்கர் என்ற சகோதர சமூகங்களின் கட்சிகளும் எம்மோடு கைகோர்க்கவுள்ளனர். அவ்வாறு 30 க்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்கள் அன்றைய தினம் எம்மோடு கைகோர்க்கவுள்ளனர்.
+🟩
 
-இந்நாட்டிலுள்ள சகல இனத்தவர்களையும் சகல மதத்தவர்களையும் இணைத்துக் கொண்டே டி.எஸ்.சேனாநாயக்க   1946 ஆம் ஆண்டு ஐக்கிய தேசியக் கட்சியை ஸ்தாபித்தார். இன்று சஜித் பிரேமதாச   ஐக்கிய மக்கள் சக்தியின் தலைவராக இந்நாட்டிலுள்ள சகல இனத்தவர்களையும் சகல தரப்பினரையும் இணைத்துக் கொண்டு இந்த கூட்டணியை ஸ்தாபிப்பார்.
+The United People's Power -led new United People's Alliance (UPFA) will sign the next election on August 8, said United People's Power Secretary and Member of Parliament Ranjith Mathuma Bandara.
 
-...
+We will form this coalition by incorporating all communities from all communities - Sinhala, Tamil, Muslim and Burger.. The parties of the Sinhala, Tamil and Muslim Burger will join hands in this coalition.. More than 30 MPs will join hands that day.
+
+TS Senanayake founded the United National Party in 1946 to combine all the people and all religions of the country.. Today, Sajith Premadasa will be the leader of the United People's Power and establish this alliance with all the people and all parties in the country.
+
+We will sign in Colombo on August 8. We will make our policy -making in response to the economic issue that the country is facing, the fall in the rule of law and the values.. Many leaders who think about corrupt country will join the coalition.
+
+◼️
 
 [Data](articles/c452bf59.json)
+
+[Extended Data](ext_articles/c452bf59.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 18:38:35**
+As of **2024-07-23 18:54:51**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 6,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,801 (100.0%) of 36,804 articles have been extended.
+36,804 (100.0%) of 36,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### எத்தியோப்பிய மண்சரிவின்  பலி எண்ணிக்கை அதிகரிப்பு
+### Increase in the number of Ethiopian landslides
 
 *2024-07-23 18:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எத்தியோப்பிய-மண்சரிவின்-பலி-எண்ணிக்கை-அதிகரிப்பு/50-340901) · `ta`
 
-எத்தியோப்பியாவில் ஏற்பட்ட நிலச்சரிவில் சிக்கி 50 பேர் உயிரிழந்துள்ளதாகத் தெரிவித்த நிலையில், தற்போது பலி எண்ணிக்கை 157ஆக உயர்வடைந்துள்ளது.
+Heavy rains in Ethiopia's Copa Zone triggered landslides, causing 157 deaths including 50 from one incident. Rescue efforts continue in the Kenjo Sacha Costi district.
 
-எத்தியோப்பியா கெஞ்சோ சாச்சா கோஸ்டி மாவட்டத்தில் கோபா மண்டலத்தில் பெய்த கடும் மழை காரணமாகவே நிலச்சரிவு ஏற்பட்டுள்ளது.
+🟩
 
-மேலும், மண்சரிவில் சிக்கியுள்ளவர்களை மீட்கும் பணி தொடர்ந்து வருவதாக கோபா மண்டல தகவல் தொடர்பு அலுவலகத்தின் தலைவர் கூறியுள்ளார்.
+The number of casualties has risen to 157 as 50 people have been killed in a landslide in Ethiopia.
 
-இந்நிலையில் நிலச்சரிவினால் பாதிக்கப்பட்ட மக்களை மீட்கும் பணிகளில் மீட்புப் படையினர் தொடர்ந்து ஈடுபட்டு வருகின்றமை குறிப்பிடத்தக்கது.S
+Landslides have been caused by heavy rains in the Copa Zone in Ethiopia Kenjo Sacha Costi district.
+
+The head of the Copa Regional Communications Office has said that the rescue of the victims of the landslide is continuing.
+
+It is noteworthy that the rescue personnel are continuing to rescue people affected by landslides.
 
 ◼️
 
 [Data](articles/4d71d958.json)
 
+[Extended Data](ext_articles/4d71d958.ext.json)
+
 ---
 
-### 2024 ஐசிசி ரி20 உலகக் கிண்ணம் தொடர்பாக ஆராய்ந்து அறிக்கை சமர்ப்பிக்க மூவர் கொண்ட குழு நியமனம்
+### 2024 ICC T20 World Cup
 
 *2024-07-23 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189209) · `ta`
 
-ஐக்கிய அமெரிக்காவிலும் மேற்கிந்தியத் தீவுகளிலும் கூட்டாக அரங்கேற்றப்பட்ட 2024 ரி20 உலகக் கிண்ணப் போட்டி தொடர்பாக மீளாய்வு செய்யப்படும் என்று சர்வதேச கிரிக்கெட் பேரவை (ICC) உறுதி செய்துள்ளது.
+The 2024 T20 World Cup review will take place in the U.S. and West Indies under directors Roger Dus, Losan Naidu, and Imran Khawaja. Criticisms about spending and Caribbean Island issues led to this decision, made at the ICC conference in Colombo. The Women's T20 World Cup in 2030 will see more teams, increasing from 8 in 2009 to 10 in 2016 and staying at 10 for Bangladesh 2023. By 2026, the T20 World Cup will involve 12 teams, including qualifiers from Africa, Europe, the U.S., Asia, and East Asia Pacific. The ICC also granted co-status to the U.S. Cricket Company and Cricket Chile.
 
-இந்த மீளாய்வை மேற்பார்வை செய்து அறிக்கை சமர்ப்பிக்கும் பொருட்டு ரொஜர் டூஸ், லோசன் நாயுடு, இம்ரான் கவாஜா ஆகிய மூன்று பணிப்பாளர்களை கொண்ட குழுவை சர்வதேச கிரிக்கெட் பேரவை நியமித்துள்ளது.
+🟩
 
-அமெரிக்காவில் நடைபெற்ற போட்டிகளின் போது செலவிடப்பட்ட தொகை மற்றும் கரிபியன் தீவுகளில் நடைபெற்ற போட்டிகளின்போது ஏற்பாடுகளில் நிலவிய குறைபாடுகள் ஆகியன தொடர்பாக விமர்சனங்கள் எழுப்பப்பட்டிருந்தன.
+The International Cricket Council (ICC) has confirmed that the 2024 T20 World Cup will be reviewed in the United States and the West Indies.
 
-இந்நிலையில், கொழும்பில் ஜூலை 19ஆம் திகதியிலிருந்து 22ஆம் திகதிவரை நடைபெற்ற ஐசிசி வருடாந்த மாநாட்டின்போது இந்தக் குழுவை நியமிக்க தீர்மானிக்கப்பட்டது.
+The International Cricket Council (ICC) has appointed a team of three directors - Roger Dus, Losan Naidu and Imran Khawaja, to supervise and submit the report.
 
-அத்துடன் 2030இல் நடைபெறவுள்ள மகளிர் ரி20 உலகக் கிண்ணத்தில் பங்குபற்றும் அணிகளின் எண்ணிக்கையை 16ஆக அதிகரிப்பதற்கான அங்கீகாரத்தையும் ஐசிசி இந்தக் கூட்டத்தின்போது வழங்கியது.
+Criticism has been raised over the amount of money spent during competitions in the United States and the shortcomings in the Caribbean Islands.
+
+In this case, it was decided to appoint the committee during the ICC annual conference held in Colombo from July 19 to 22.
+
+During the meeting, the ICC also approved the increase in the number of teams that participate in the Women's T20 World Cup in 2030.
+
+Eight teams participated in the 2009 R20 World Cup competition, and the number rose to 10 in 2016.
+
+Only 10 teams will participate in the Women's T20 World Cup in Bangladesh this year.
 
 ...
 
 [Data](articles/3c0743ae.json)
+
+[Extended Data](ext_articles/3c0743ae.ext.json)
 
 ---
 
@@ -83,6 +99,8 @@ However, a spokesperson from the Election Commission stated that the Gazette not
 ◼️
 
 [Data](articles/3fd88609.json)
+
+[Extended Data](ext_articles/3fd88609.ext.json)
 
 ---
 

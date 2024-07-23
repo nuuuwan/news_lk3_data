@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 08:04:07**
+As of **2024-07-23 07:49:24**
 
 ## Newspaper Stats
 
-*Scraped **36,680** Articles*
+*Scraped **36,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,17 @@ adaderanalk | 4,250
 tamilmirrorlk | 4,474
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,155
+adaderanasinhalalk | 6,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,673 (100.0%) of 36,680 articles have been extended.
+36,667 (100.0%) of 36,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
-
-### ජනගහනයෙන් සියයට 20.3කට පානීය ජලය නෑ
-
-*2024-07-23 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199105) · `si`
-
-මෙරට ගෘහස්ථ ජනගහනයෙන් 20.3%කට මූලික පානීය ජල පහසුකම් නොමැති බවට අනාවරණය වී තිබේ.
-
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව සිදුකළ සමීක්ෂණයකට අනුව මේ බව අනාවරණය වී ඇති බව වාර්තා වේ.
-
-එමෙන්ම මෙරට ගෘහස්ථ ජනගහනයෙන් 16.1%කගේ ප්‍රධාන පානීය ජල මූලාශ්‍රය වී ඇත්තේ අනාරක්ෂිත ළිඳ බව ද අනාවරණය වී තිබේ.
-
-මෙරට ජනතාව භාවිත කරන පානීය ජලය සම්බන්ධයෙන් ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව සිදුකළ සමීක්ෂණයකට අනුව ආසන්න වශයෙන් ගෘහස්ත ජනගහනයෙන් තුනෙන් එකකට සිය පරිශ්‍ර තුළ ආරක්ෂිතව පානීය ජල සේවාවක් ලබාගත හැකි බව අනාවරණය වී ඇත.
-
-නාගරික ප්‍රදේශවල ජනගහනයෙන් තුනෙන් දෙකක් සහ ග්‍රාමීය ජනගහනයෙන් හතරෙන් එකක් ආරක්ෂිත පානීය ජලය භාවිත කරන අතර වතු ජනගහණයෙන් 3.1%ක් පමණක් ආරක්ෂිත පානීය ජලය භාවිත කරන බව එම සමීක්ෂණයෙන් අනාවරණය වී තිබේ.
-
-එමෙන්ම මෙරට ගෘහස්ථ ජනගහනයෙන් 70%කට වැඩි පිරිසකගේ පරිශ්‍රවල වැඩිදියුණු කළ මූලාශ්‍ර යොදා ගනිමින් පානීය ජලය භාවිත කරන බව වාර්තා වේ.
-
-මේ අතර මෙරට ජනගහනයෙන් 6.3%ක් මූලික සනීපාරක්ෂක සේවා භාවිත නොකරන අතර ගෘහස්ථ ජනගහනයෙන් 0.1%ක් පමණ එළිමහනේ මළපහ කරන බවට ද අදාළ සමීක්ෂණයෙන් අනාවරණය වී තිබේ.
-
-...
-
-[Data](articles/7e7a5b77.json)
-
----
-
-### පාසල් පෙළ පොත් ගැන දැනුම්දීමක්
-
-*2024-07-23 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199104) · `si`
-
-ලබන වර්ෂයට අදාළ පාසල් පෙළපොත් අද (23) දිනයේ ප්‍රාදේශීය ගබඩාවලට නිකුත් කිරීම ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
-
-එම අමාත්‍යංශය පෙන්වා දෙන්නේ, ලබන වර්ෂයට අදාළ පාසල් නිල ඇඳුම් සියල්ල චීන රජය විසින් සැපයීමට එකඟතාව පළකර ඇති බවය.
-
-මේ අතර ගුරු වැටුප් වර්ධක ප්‍රමාදයකින් තොරව ලබාදීමට කටයුතු කරන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
-
-අමාත්‍යවරයා පෙන්වා දෙන්නේ, ගුරු වෘත්තීය ගැටලු සමාලෝචනය කර ඒවා නිරාකරණය කිරීමට ද රජය මේ වන විට පියවර ගෙන ඇති බවය.
-
-◼️
-
-[Data](articles/e340a03c.json)
-
----
 
 ### ඉඩම් නිලධාරියා අල්ලස් ගද්දී මාට්ටු
 
@@ -122,8 +80,6 @@ The body of a 33-year-old person, stabbed to death with sharp weapons, has been 
 
 [Data](articles/550ab291.json)
 
-[Extended Data](ext_articles/550ab291.ext.json)
-
 ---
 
 ### Several spells of showers expected in parts of the island
@@ -139,8 +95,6 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 ◼️
 
 [Data](articles/151b969d.json)
-
-[Extended Data](ext_articles/151b969d.ext.json)
 
 ---
 
@@ -312,25 +266,19 @@ Notes development activities are being carried out across the country in a way t
 
 ---
 
-### President's invitation to join the tourist business
+### சுற்றுலா வர்த்தகத்தில் இணையுமாறு ஜனாதிபதி அழைப்பு
 
 *2024-07-23 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-வர்த்தகத்தில்-இணையுமாறு-ஜனாதிபதி-அழைப்பு/175-340859) · `ta`
 
-At the 'Abhiman 2024' event, President Ranil Wickremesinghe encouraged foreign employment agencies to explore tourism-related businesses, promising support from the Ministry of Tourism. He recognized agencies contributing to Sri Lanka's economy with certificates and souvenirs.
+மத்திய கிழக்கு நாடுகள் உட்பட இலங்கைத் தொழிலாளர்கள் அனுப்பப்படும் நாடுகளின் சுற்றுலாப் பயணிகளை இந்நாட்டுக்கு வரவழைக்கும் புதிய வர்த்தக வாய்ப்புகள் குறித்து வெளிநாட்டு வேலைவாய்ப்பு முகவர் நிலையங்கள் கவனம் செலுத்தினால், அவர்களுக்குத் தேவையான வசதிகளை சுற்றுலா அமைச்சின் ஊடாக வழங்க முடியும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
 
-🟩
+குருணாகல் எபிடோம் ஹோட்டல் வளாகத்தில் நேற்று முன்தினம் இடம்பெற்ற 'அபிமன் 2024' நிகழ்வில் ஜனாதிபதி இவ்வாறு  குறிப்பிட்டார்.
 
-President Ranil Wickremesinghe said that if foreign employment agencies focus on new business opportunities that would bring tourists from countries sent to Sri Lankan workers, including the Middle East, they would be able to provide the necessary facilities through the Ministry of Tourism.
-
-The President said this at the 'Abhiman 2024' event at the Epitom Hotel Complex in Kurunegala yesterday.
-
-The President presented certificates and souvenirs in appreciation of foreign employment agencies that contribute to the country's economy. (A)
+நாட்டின் பொருளாதாரத்திற்கு பாரிய பங்களிப்பை வழங்கும் வெளிநாட்டு வேலை வாய்ப்பு முகவர் நிறுவனங்களைப் பாராட்டி சான்றிதழ்கள் மற்றும் நினைவுப் பரிசுகளை ஜனாதிபதி இதன்போது வழங்கி வைத்தார். (a)
 
 ◼️
 
 [Data](articles/6ecc7495.json)
-
-[Extended Data](ext_articles/6ecc7495.ext.json)
 
 ---
 
@@ -2229,5 +2177,51 @@ Therefore, the Nuwara-Eliya Acting Magistrate has ordered the police to arrest t
 [Data](articles/3e69db04.json)
 
 [Extended Data](ext_articles/3e69db04.ext.json)
+
+---
+
+### Common Candidate from the Tamil Party?
+
+*2024-07-22 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199084) · `si`
+
+Several Tamil political parties and civil organizations have united to field a joint candidate for the upcoming presidential election, with seven parties and seven organizations signing the agreement.
+
+🟩
+
+Several Tamil political parties and several civilian organizations have agreed to make a common candidate for the next presidential election.
+
+Our correspondent said that seven Tamil political parties and seven civil organizations have been signed.
+
+◼️
+
+[Data](articles/0159f681.json)
+
+[Extended Data](ext_articles/0159f681.ext.json)
+
+---
+
+### Court order to arrest Tho Thondman
+
+*2024-07-22 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199083) · `si`
+
+Nuwara Eliya Magistrate Jayamgalle Ambagahawatta ordered the police to arrest several suspects linked to the Ceylon Workers Congress and its supporters over a case involving the Kelani Valley Company. The magistrate acted after receiving reports from the Nuwara Eliya Police about the arrival of the Ceylon Workers' Code at the Nuwara Eliya Tea Factory. Despite Minister Jeevan Thondaman and other suspects being informed to appear in court, their lawyers represented them instead.
+
+🟩
+
+Nuwara Eliya Acting Magistrate Jayamgalle Ambagahawatta has ordered the Nuwara Eliya Police to arrest several suspects and several suspects of the Ceylon Workers Congress.
+
+The Nuwara Eliya Police have reportedly reported the case with the labor of the Ceylon Workers Congress, a group of supporters of the Ceylon Workers Congress under Kelani Valley Company.
+
+The Magistrate issued the order at the time.
+
+The Nuwara Eliya Police had reported before the Nuwara Eliya Police regarding the arrival of the Ceylon Workers' Code in the Nuwara Eliya Tea Factory of the Nuwara Eliya Tea Factory of the Kelani Vandandeline.
+
+Minister Jeevan Thondaman, Minister Jeevan Thondaman and the suspects were informed to contest today, but the lawyers appeared for the estate firm were presented in the court.
+
+◼️
+
+[Data](articles/bd3f937f.json)
+
+[Extended Data](ext_articles/bd3f937f.ext.json)
 
 ---

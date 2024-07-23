@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 17:20:33**
+As of **2024-07-23 17:36:10**
 
 ## Newspaper Stats
 
-*Scraped **36,791** Articles*
+*Scraped **36,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
 adalk | 3,328
-adaderanalk | 4,263
+adaderanalk | 4,264
 tamilmirrorlk | 4,508
 dailymirrorlk | 4,733
 virakesarilk | 5,765
-adaderanasinhalalk | 6,177
+adaderanasinhalalk | 6,178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,790 (100.0%) of 36,791 articles have been extended.
+36,791 (100.0%) of 36,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### බාලි ජාත්‍යන්තර ගායන උළෙලේදී ශ්‍රී ලාංකිකයින්ට රන් පදක්කම්
+
+*2024-07-23 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199130) · `si`
+
+ශ්‍රී ලංකා Soul Sounds ඇකඩමියේ තරුණ ගායන තරගකරුවන් 25 දෙනෙකු බාලි ජාත්‍යන්තර ගායන (Choir) උළෙලේදී රන් පදක්කම් 17ක් සහ රිදී පදක්කම් 8ක් දිනා තිබේ.
+
+සංගීතවේදී සෞන්දරී ඩේවිඩ් රොද්‍රිගෝ සහ ගායන පුහුණුකරුවන් වන ශිවන්ති සුබ්‍රමනියම් සහ ෂෙනුක් විජේසිංහ විසින් ඔවුන් පුහුණු කර තිබුණි.
+
+13 වැනි බාලි ජාත්‍යන්තර ගායන උළෙලේදී ළමා ඒකල සහ යොවුන් ඒකල අංශ සඳහා එම තරගකරුවන් ඉදිරිපත් වී ඇත.
+
+◼️
+
+[Data](articles/7e9a3f44.json)
+
+---
+
+### Thousands of migrant kids reach Canary Islands alone; officials seek Spain’s help
+
+*2024-07-23 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100726/thousands-of-migrant-kids-reach-canary-islands-alone-officials-seek-spains-help) · `en`
+
+The children sometimes won’t stop crying. Health workers dealing with migrants arriving on Spain’s Canary Islands try to understand if the tears are from illness, injury or, as is often the case, from pure shock.
+
+One young Senegalese boy who disembarked recently kept fainting every few minutes, troubling doctors who couldn’t determine the cause. Other migrants finally explained: the boy had witnessed both parents die during the arduous boat voyage from West Africa. Their bodies were thrown overboard into the Atlantic Ocean.
+
+“There’s no medicine for that,” said Inmaculada Mora Peces, a 54-year-old emergency doctor who treats migrants arriving on the island of El Hierro.
+
+Mora Peces is among a growing number of people sounding the alarm as the archipelago struggles to deal with thousands of teenagers and children traveling alone to the European Union territory from Senegal, Mali, and other African nations, fleeing poverty, conflict and instability.
+
+...
+
+[Data](articles/f6974de4.json)
+
+---
 
 ### SLFP internal crisis: Another court decision pending for tomorrow
 
@@ -45,6 +79,8 @@ Jayasekara had filed the relevant complaint before the Colombo District Court, c
 ◼️
 
 [Data](articles/35bd8dac.json)
+
+[Extended Data](ext_articles/35bd8dac.ext.json)
 
 ---
 
@@ -2363,57 +2399,5 @@ The identity of the deceased has not yet been established, police said.
 [Data](articles/4de04faf.json)
 
 [Extended Data](ext_articles/4de04faf.ext.json)
-
----
-
-### Sri Lanka to pay rooftop solar higher than Adani wind rate
-
-*2024-07-23 07:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-pay-rooftop-solar-higher-than-adani-wind-rate-173349/) · `en`
-
-ECONOMYNEXT – Sri Lanka will pay 27 rupees a unit for rooftop solar electricity from July 2024, which is good enough for solar operators to install and also make a profit, Power Minister Kanchana Wijeskera has said.
-
-The Energy Ministry and Ceylon Electricity Board raised the price paid to rooftop solar to 37 rupees for a 20 year contract when the rupee depreciated steeply and interest rates were high and global solar panel prices were also high.
-
-Rooftop solar was paid 22 rupees for 8 years and about 16 rupees for the balance period in feed in tariffs before the currency crisis, he said.
-
-To encourage rooftop solar the rooftop solar price was then raised to 37 rupees during the recent currency crisis.
-
-“The price was supposed to be revised every three months based on economic parameters,” Minister Wijesekera said.
-
-“Now we see world solar panel prices have fallen steeply, the dollar rate has fallen, and interest rates have fallen.”
-
-...
-
-[Data](articles/1f4384a4.json)
-
-[Extended Data](ext_articles/1f4384a4.ext.json)
-
----
-
-### 20.3 percent of the population has no drinking water
-
-*2024-07-23 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199105) · `si`
-
-A survey reveals that 20.3% of the country's indoor population lacks basic drinking water, with 16.1% relying on insecure wells. Approximately one-third of households do not have safe drinking water services. While two-thirds of urban residents and a quarter of rural ones use safe water, 3.1% of the estate population does. Over 70% use improved water sources, but 6.3% lack basic sanitation, and 0.1% use open-air facilities. Additionally, 84.9% use water-sealed toilets.
-
-🟩
-
-It has been revealed that 20.3% of the country's indoor population has no basic drinking water.
-
-According to a survey conducted by the Department of Census and Statistics, reports say.
-
-It has also been revealed that the main drinking water source of 16.1% of the country's indoor population has become insecure well.
-
-According to a survey conducted by the Department of Census and Statistics, the Department of Census and Statistics have to obtain a safe drinking water service in the premises of approximately one-third of the domestic population.
-
-Two-thirds of two-thirds of the population in urban areas and a quarter of the rural population use safe drinking water, and 3.1% of the estate population uses only 3.1% of safe drinking water.
-
-It is also reported that the use of improved sources of the premises of more than 70% of the country's indoor population are used.
-
-...
-
-[Data](articles/7e7a5b77.json)
-
-[Extended Data](ext_articles/7e7a5b77.ext.json)
 
 ---

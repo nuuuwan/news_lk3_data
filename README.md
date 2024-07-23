@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 23:55:28**
+As of **2024-07-24 00:08:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,844 (100.0%) of 36,845 articles have been extended.
+36,845 (100.0%) of 36,845 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -394,21 +394,29 @@ The 'USS Michael Murphy' is to visit several areas in the island's importance to
 
 ---
 
-### ඉදිරි මාස කිහිපයේදී ජනතාවට විශාල සහන ලැබෙනවා
+### In the next few months, the people get big relief
 
 *2024-07-23 19:19:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-මාස-කිහිපයේදී-ජනතාවට-විශාල-සහන-ලැබෙනවා/11-410949) · `si`
 
-ඉදිරි මාස කිහිපය තුළ මේ රටේ ජනතාවට විශාල වශයෙන් සහන ලැබෙන බවත් විශේෂයෙන්ම ආර්ථිකය ශක්තිමත් කරන ප්‍රතිපත්තිවල ප්‍රතිඵල ලැබෙමින් පවතින්නේ දැන් බවත් වෙළඳ, වානිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පැවසීය.
+Minister Nalin Fernando announced economic policy benefits coming soon, emphasizing efforts to stabilize egg prices and address gas shortages. He highlighted his focus on food security and promised swift action on unresolved issues.
 
-අමාත්‍යවරයා මේ  බව පැවසුවේ අද (23) ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවති වැඩසටහනකට එක්වෙමින් මාධ්‍යවේදීන් නැගූ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමිනි.
+🟩
 
-බිත්තර නිෂ්පාදනය අඩු නම් අනිවාර්යෙන්ම බිත්තර ආනයනය කරන්න සිදු වන බවත් එසේ නොවන්නේ නම් නිෂ්පාදකයා තම නිෂ්පාදන නියම මිලට ලබා දී පාරිභෝගිතයා ආරක්ෂා කිරීමට කටයුතු කළ යුතු බවත් අමාත්‍යවරයා සඳහන් කළේය.
+In the next few months, the people of this country are concessionary and the results of the policies that strengthen the economy are now, Minister Nalin Fernando said.
 
-ආහාර සුරක්ෂිතතාව පිළිබඳ වගකීමක් තමා සතු වන බැවින් බිත්තර නිෂ්පාදනය සම්බන්ධයෙන් ප්‍රශ්නයක් පැවති නිසා ඊට මැදිහත් වී විසඳුම් සෙවූ බවත් අමාත්‍යවරයා පැවසීය.
+The Minister made this statement participating at a program held at the Gampaha District Secretariat today (23), addressing a question raised by journalists.
 
-...
+The Minister said that if the lower egg production would be reduced, the manufacturer should arrange to protect his products at the right price of the consumer.
+
+The Minister said that he had a responsibility regarding food security, and he had a problem with egg production, the minister said.
+
+Furthermore, the Minister has said that the company has a gas lack of gas in the market, the company has a gas company, and the company will discuss the customer with the company, and to take immediate action if the company cannot be resolved tomorrow.He added that action will be taken.
+
+◼️
 
 [Data](articles/0420d215.json)
+
+[Extended Data](ext_articles/0420d215.ext.json)
 
 ---
 

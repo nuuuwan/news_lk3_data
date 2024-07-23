@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 09:08:51**
+As of **2024-07-23 09:20:23**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,157
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,684 (100.0%) of 36,688 articles have been extended.
+36,688 (100.0%) of 36,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### அடுத்த 24 மணிநேரத்திற்கு சிவப்பு எச்சரிக்கை
+### Red alert for the next 24 hours
 
 *2024-07-23 08:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரத்திற்கு-சிவப்பு-எச்சரிக்கை/175-340864) · `ta`
 
-பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+A red weather warning for strong winds and sea turbulence is in effect for the next 24 hours, affecting the Arabian Sea and Bay of Bengal. This has raised concerns among the fisheries and fishermen's community. Additionally, rainfall is forecasted for several provinces and districts including Western, Sabaragamuwa, North Western, Kandy, Nuwara Eliya, Galle, and Matara.
 
-இன்று அதிகாலை 3.00 மணிக்கு வெளியிடப்பட்ட இந்த அறிவிப்பு அடுத்த 24 மணிநேரத்திற்கு செல்லுபடியாகும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-அரபிக்கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் செயற்படும் பல நாள் மீன்பிடி மற்றும் கடற்தொழிலாளர் சமூகம் இது தொடர்பில் அக்கறையுடன் இருக்குமாறு அந்த அறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+The Department of Meteorology has issued a red warning on strong winds and sea turbulence.
 
-இதேவேளை, மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பலதடவைகள் மழை பெய்யும்என எதிர்பார்க்கப்படுகின்றது. R
+The announcement, which was released at 3.00 am today, will be valid for the next 24 hours, the department said.
+
+The announcement that the Fisheries and Fishermen's community is concerned about this on the Arabian Sea and the Bay of Bengal.
+
+Meanwhile, rainfall is expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.. Remble
 
 ◼️
 
 [Data](articles/b06abea0.json)
+
+[Extended Data](ext_articles/b06abea0.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ The T20I series will be played at the Pallekele Stadium on July 27, 28 and 30 wh
 ◼️
 
 [Data](articles/765e0d76.json)
+
+[Extended Data](ext_articles/765e0d76.ext.json)
 
 ---
 
@@ -358,21 +366,27 @@ More than 34 million applications for the first phase of the Aswesa Project were
 
 ---
 
-### ‘அஸ்வெசும’ கணக்கெடுப்பு ஜூலை 31 ஆம் திகதி நிறைவு
+### The Survey of Aswesum is completed on July 31st
 
 *2024-07-23 01:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-கணக்கெடுப்பு-ஜூலை-31-ஆம்-திகதி-நிறைவு/175-340862) · `ta`
 
-‘அஸ்வெசும’ நலன்புரி திட்டத்தின் இரண்டாம் கட்டம் தொடர்பான கணக்கெடுப்பை ஜூலை 31 ஆம் திகதிக்குள் நிறைவு செய்ய திட்டமிடப்பட்டுள்ளது.
+The "Aswesum" survey concluded on July 31, alongside the second phase of the "Ashemus" Welfare Program. Applications for families missed the deadline but received about 454,924 applications starting from February. The Welfare Benefits Board Chairman, Jayantha Wijeratne, announced the start of the application survey during a media briefing at the Presidential Media Center.
 
-மேலும், முதற்கட்டமாக இத்திட்டத்திற்கு விண்ணப்பிக்கத் தவறிய குடும்பங்களுக்கு, கடந்த பெப்ரவரி மாதம் விண்ணப்பங்கள் கோரப்பட்டு, சுமார் 454,924 விண்ணப்பங்கள் பெறப்பட்டுள்ளன.
+🟩
 
-அந்த விண்ணப்பங்கள் தொடர்பான கணக்கெடுப்பு பணிகள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளதாக நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்தார்.
+The second phase of the 'Ashemus' Welfare Program is scheduled to be completed by July 31.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று பிற்பகல் இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் அவர் இவ்வாறு தெரிவித்தார். (a)
+In addition, families who failed to apply for the scheme were requested last February and received about 454,924 applications.
+
+Chairman of the Welfare Benefits Board Jayantha Wijeratne said that the survey on those applications has already begun.
+
+He said this at a special media briefing held at the Presidential Media Center yesterday afternoon. (A)
 
 ◼️
 
 [Data](articles/810d2878.json)
+
+[Extended Data](ext_articles/810d2878.ext.json)
 
 ---
 
@@ -1272,25 +1286,31 @@ The Kasippu has been conducting the racket for a long time in the central market
 
 ---
 
-### අනිවාර්යයෙන්ම ජනපතිවරණය පවත්වනවා
+### Definitely the presidential election
 
 *2024-07-22 19:32:44* · [`adalk`](https://www.ada.lk/breaking_news/අනිවාර්යයෙන්ම-ජනපතිවරණය-පවත්වනවා/11-410920) · `si`
 
-අයවැයෙන් මුදල් වෙන් කළේ ජනාධිපතිවරණයට පමණක් බැවින් අනිවාර්යයෙන්ම ජනාධිපතිවරණය පවත්වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ (22දා) ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායමට සහතිකවී තිබේ.
+President Ranil Wickremesinghe confirmed funds allocation for the upcoming presidential election, assuring its conduct despite challenges. He thanked former President Mahinda Rajapaksa and the Sri Lanka Crown Front for government support, emphasizing readiness to proceed with the election despite difficulties. The President highlighted the tough period the country has endured, stating his government's efforts to address issues while opposition and other groups continue to voice concerns.
 
-ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (22දා) පස්වරුවේ ජනාධිපති මන්දිරයේදී රැස්වූ අවස්ථාවේදී ජනාධිපතිවරයා මේ බව සඳහන් කර ඇත.
+🟩
 
-එහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් පවසා ඇත්තේ ආණ්ඩුව පවත්වාගෙන යාමට ලබාදුන් සහයෝගය සම්බන්ධයෙන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඇතුළු ශ්‍රී ලංකා පොදුජන පෙරමුණට ස්තූතිවන්ත වන බවයි.
+President Ranil Wickremesinghe assured the ruling party group yesterday (22) that the money was allocated for the presidential election.
 
-තමන් ජනාධිපතිවරණය කල්දැමීමට සූදානම් වන බවට විපක්ෂ මත පළ කළද තමා අනිවාර්යයෙන්ම ජනාධිපතිවරණය පවත්වන බවද සදහන් කළේය.
+The President was speaking at the Presidential Board of Government Member of Parliament yesterday (22) at the President's House.
 
-පසුගිය සමය ඉතාම දුෂ්කර කාලයක් වූ බවත් පැවසූ ජනාධිපතිවරයා මේවනවිට රට එම දුෂ්කර කාලය ගෙවා දමා ඇති බවද පැවසීය.
+President Ranil Wickremesinghe added that former President Mahinda Rajapaksa and the Sri Lanka Crown Front are thankful for the support of the government.
 
-තම රජය වැඩකර රටට පෙන්වා දුන් බවත් විපක්ෂ ඇතුළු අනෙක් කණ්ඩායම් තවමත් කතා පවත්වමින් සිටින බවද ජනාධිපතිවරයා මෙහිදී පවසා තිබේ.
+He said he would definitely hold the Presidential Election even if he was ready to postpone the presidential election.
+
+The last season was a very difficult time and the President said that the country had already paid the difficult time.
+
+The President has said that his government has pointed to the country and the opposition and other groups are still speaking.
 
 ◼️
 
 [Data](articles/6fa9d681.json)
+
+[Extended Data](ext_articles/6fa9d681.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 22:54:00**
+As of **2024-07-23 23:06:10**
 
 ## Newspaper Stats
 
-*Scraped **36,842** Articles*
+*Scraped **36,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,338
-adaderanalk | 4,268
+adaderanalk | 4,269
 tamilmirrorlk | 4,512
 dailymirrorlk | 4,733
 virakesarilk | 5,779
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,841 (100.0%) of 36,842 articles have been extended.
+36,842 (100.0%) of 36,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### US Secret Service director resigns over Trump assassination attempt
+
+*2024-07-23 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100731/us-secret-service-director-resigns-over-trump-assassination-attempt) · `en`
+
+(AP) — The director of the Secret Service said Tuesday she’s resigning following the assassination attempt against ex-President Donald Trump that unleashed intensifying outcry about how the agency tasked with protecting current and former presidents could fail in its core mission.
+
+Kimberly Cheatle, who had served as Secret Service director since August 2022, had been facing growing calls to resign and several investigations into how the shooter was able to get so close to the Republican presidential nominee at an outdoor campaign rally in Pennsylvania.
+
+“I take full responsibility for the security lapse,” she said in an email to staff, obtained by The Associated Press. “In light of recent events, it is with a heavy heart that I have made the difficult decision to step down as your director.”
+
+...
+
+[Data](articles/fb8fe058.json)
+
+---
 
 ### Nine Indian fishermen arrested for poaching in Sri Lankan waters
 
@@ -49,6 +65,8 @@ The seized trawlers together with Indian fishermen were brought to the Kankesant
 ...
 
 [Data](articles/c94d18eb.json)
+
+[Extended Data](ext_articles/c94d18eb.ext.json)
 
 ---
 
@@ -81,6 +99,8 @@ Engineering is TAs against ignoring seniority when appointing appointments for a
 India-funded projects in the neighbourhood received the bulk of the allocation for the Ministry of External Affairs (MEA) under the Union Budget presented by Indian Finance Minister Nirmala Sitharaman on Tuesday.
 
 Sri Lanka, which has a number of India-funded projects, has received 2450 million Indian rupees (INR), an improvement of INR 950 million over last year’s funding of INR 1500 million, according to The Hindu.
+
+India had bailed out Sri Lanka when its economy crashed and has provided grants and a line of credit worth $4 billion.
 
 Nepal secured an allocation of INR 7000 million, which is a jump of INR 1500 million from previous year’s allocation of INR 5500 million.
 
@@ -2417,29 +2437,5 @@ Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasu
 [Data](articles/b8959216.json)
 
 [Extended Data](ext_articles/b8959216.ext.json)
-
----
-
-### This is the best video in AI: Elon Musk (Video)
-
-*2024-07-23 11:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/AI-ல்-இது-தான்-சிறந்த-வீடியோ-எலான்-மஸ்க்-காணொளி/50-340878) · `ta`
-
-Elon Musk's AI video features world leaders and celebrities in a unique fashion show, including Donald Trump, Obama, Mark Zuckerberg, and more. It also humorously addresses tech issues like Microsoft's blue screen death.
-
-🟩
-
-Elon Musk's video posted on its X site is spreading the Internet as the best video of AI video that has come out so far.
-
-In the fashion show in the video, world political leaders and celebrities are walking differently in laughter. Hi -Time War And I Fashion Show Pig.Thviter.Kama/Raw Sk ௪ Au
-
-Also, Donald Trump, Donald Trump, Wheel Chair, Obama, Mark Zuckerberg, Narendra Modi, Kamala Horse, Sena President Gi Jinping, North Korean President Kim Jong Un, Russian President, European Political Leaders.
-
-Microsoft founder Bill Gates is accompanied by a Death of Blue Screen Computer, which has finally teased the recent Microsoft mess.
-
-◼️
-
-[Data](articles/24046baa.json)
-
-[Extended Data](ext_articles/24046baa.ext.json)
 
 ---

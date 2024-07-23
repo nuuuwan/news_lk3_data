@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 11:55:41**
+As of **2024-07-23 12:08:53**
 
 ## Newspaper Stats
 
-*Scraped **36,714** Articles*
+*Scraped **36,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
-adalk | 3,316
+adalk | 3,317
 adaderanalk | 4,256
-tamilmirrorlk | 4,484
+tamilmirrorlk | 4,487
 dailymirrorlk | 4,733
 virakesarilk | 5,745
 adaderanasinhalalk | 6,165
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,165
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,707 (100.0%) of 36,714 articles have been extended.
+36,714 (100.0%) of 36,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### நகைகளை அடகு வைத்தோருக்கு மகிழ்ச்சியான செய்தி
+
+*2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகளை-அடகு-வைத்தோருக்கு-மகிழ்ச்சியான-செய்தி/175-340879) · `ta`
+
+வங்கிகளில் தங்க நகைகளை அடகு வைத்துள்ளவர்களுக்கு நிவாரணம் வழங்க அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
+
+நாட்டில் சமீபகாலமாக நிலவி வரும் கடுமையான பொருளாதார நெருக்கடியானது பொருளாதாரத்தின் அனைத்து துறைகளையும் நேரடியாகவும் மறைமுகமாகவும் பாதித்துள்ளதுடன், இதன் விளைவாக தங்கப் பொருட்களை அடமானம் வைப்பது வேகமாக அதிகரித்துள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
+
+2019 ஆம் ஆண்டில் சுமார் 210 பில்லியன் ரூபாவாக இருந்த அடமான முன்பணங்களின் நிலுவைத் தொகை, மார்ச் 2024 க்குள் 172% அதிகரித்து 571 பில்லியன் ரூபாயாக அதிகரித்துள்ளது என்றும் அரசாங்கம் கூறுகிறது.
+
+அந்த நிலையைக் கருத்தில் கொண்டு, உரிமம் பெற்ற வங்கிகளில் அடமான முன்பணம் பெற்ற குறைந்த வருமானம் பெறும் நபர்களுக்கு நிவாரணம் வழங்க வேண்டிய அவசியம் கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/b794f0be.json)
+
+---
+
+### AI ல் இது தான் சிறந்த வீடியோ : எலான் மஸ்க் (காணொளி)
+
+*2024-07-23 11:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/AI-ல்-இது-தான்-சிறந்த-வீடியோ-எலான்-மஸ்க்-காணொளி/50-340878) · `ta`
+
+இதுவரை வெளி வந்த ஏஐ காணொளிகளில் சிறந்த காணொளி இதுதான் என எலான் மஸ்க் தனது எக்ஸ் தளத்தில் பதிவிட்டுள்ள காணொளி இணையத்தைக் பரவி வருகிறது.
+
+குறித்த காணொளியில் பேஷன் ஷோவில் உலக அரசியல் தலைவர்கள் மற்றும் பிரபலங்கள் ஒவ்வொருவராக சிரிப்பூட்டும் வித்தியாசமான முறையில் நடந்து வருகின்றனர். High time for an AI fashion show pic.twitter.com/ra6cHQ4AAu— Elon Musk (@elonmusk) July 22, 2024
+
+மேலும், கைதி உடையில் டொனால்டு டிரம்ப்பும், சக்கர நாற்காலியில் ஜோ பைடனும், ஒபாமா, மார்க் ஸுகர்பெர்க், நரேந்திர மோடி, கமலா ஹார்ஸ், ஸேனா அதிபர் ஜி ஜிங்பிங், வட கொரிய அதிபர் கிம் ஜாங் உன், ரஷிய அதிபர் புதின், ஐரோப்பிய அரசியல் தலைவர்கள், போப் ஆண்டவர் என அனைவரும் வரிசையாக நடந்து வருகின்றனர்.
+
+இறுதியாக சமீபத்தில் நடந்த மைக்ரோசாப் குளறுபடியை கிண்டலடிக்கும் வகையில், கையில் டெத் ஆப் புளூ ஸ்க்ரீன் கணினியுடன் மைக்ரோசாப் நிறுவனர் பில் கேட்ஸ் இதில் இடம்பிடித்துள்ளார்.
+
+◼️
+
+[Data](articles/24046baa.json)
+
+---
 
 ### Over 20% of Sri Lankan household population lack basic drinking water facilities - survey
 
@@ -48,6 +84,8 @@ Meanwhile, 2 in 3 (68.6%) people in the urban sector and nearly 1 in 4 (28.2%) p
 
 [Data](articles/39d50c19.json)
 
+[Extended Data](ext_articles/39d50c19.ext.json)
+
 ---
 
 ### Govt. eyes collecting PET plastic bottles for recycling
@@ -63,6 +101,8 @@ The Committee Chair stated that although 450,000 tons of plastic are imported in
 ...
 
 [Data](articles/55e8bc80.json)
+
+[Extended Data](ext_articles/55e8bc80.ext.json)
 
 ---
 
@@ -111,6 +151,8 @@ In May, Fitch Ratings Lanka Ltd assigned a ‘BBB+(lka)’ rating for the compan
 ◼️
 
 [Data](articles/10070004.json)
+
+[Extended Data](ext_articles/10070004.ext.json)
 
 ---
 
@@ -352,6 +394,8 @@ In equities, Colombo’s All Share Price Index opened 12.07 points higher at 11,
 
 [Data](articles/dbd75324.json)
 
+[Extended Data](ext_articles/dbd75324.ext.json)
+
 ---
 
 ### Fishermen's boat damage: fishermen survived
@@ -490,6 +534,24 @@ A bus towards Halgolla to Halgolla, a passenger lady on the bus was brought back
 
 ---
 
+### 24 மணிநேரத்திற்கு சிவப்பு எச்சரிக்கை
+
+*2024-07-23 08:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்திற்கு-சிவப்பு-எச்சரிக்கை/175-340864) · `ta`
+
+பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+
+இன்று அதிகாலை 3.00 மணிக்கு வெளியிடப்பட்ட இந்த அறிவிப்பு அடுத்த 24 மணிநேரத்திற்கு செல்லுபடியாகும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+அரபிக்கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் செயற்படும் பல நாள் மீன்பிடி மற்றும் கடற்தொழிலாளர் சமூகம் இது தொடர்பில் அக்கறையுடன் இருக்குமாறு அந்த அறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதேவேளை, மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பலதடவைகள் மழை பெய்யும்என எதிர்பார்க்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/5a872d07.json)
+
+---
+
 ### Red alert for the next 24 hours
 
 *2024-07-23 08:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரத்திற்கு-சிவப்பு-எச்சரிக்கை/175-340864) · `ta`
@@ -617,6 +679,8 @@ To encourage rooftop solar the rooftop solar price was then raised to 37 rupees 
 ...
 
 [Data](articles/1f4384a4.json)
+
+[Extended Data](ext_articles/1f4384a4.ext.json)
 
 ---
 
@@ -820,23 +884,29 @@ From time to time in the rest of the island.. The Met Department further stated 
 
 ---
 
-### කළු ජූලියේ ගොදුරක් වු ලාංකීය සිනමා කර්මාන්තය
+### Lankan film industry, a victim of the black jule
 
 *2024-07-23 05:36:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjm94ve8pwno) · `si`
 
-“අපි නෙගට්විස් අල්ලන්නේ ග්ලවුස් දාලා, එහෙම පාවිච්චි කරපු නෙගට්විස් කෑලි කෑලිවලට කඩලා බිම දාලා තියෙනකොට විශාල දුකක් ඇති වුණා. අපේ ගෙදර තියෙන දේවල් ඔක්කෝම අරන් ගිහිල්ලා ඒත් මට මේ තරම් දුක්ක ආවේ නැහැ.”
+In 1983, the Sri Lankan film industry suffered significant losses during the "Black July" violence, which targeted Tamil communities. Thousands died, and properties worth billions were destroyed. Notably affected were individuals like Sivadason, now in Canada, who worked at Vijaya Studios. His home and workplace were devastated, with valuable equipment and films lost. This event marked a profound setback for Sri Lankan cinema, leading many Tamil film professionals to leave the country.
 
-හතලිස් එක් වසරකට ඉහත දී ජූලි මාසය අඳුරු කරමින් ඉතිහාසයට කළු පැල්ලමක් එකතු කළ දෙමළ ජනයාට එරෙහි ප්‍රචණ්ඩ ක්‍රියා ගැන එහි ගොදුරක් වු වී. සිවදාසන් ලෙසින් මෙරට සිනමා කර්මාන්තයේ කා අතරත් ප්‍රකට වෛරමුත්තු සිවදාසන් බීබීසී සිංහල සේවය හා අතීත ආවර්ජනයකට එක්විය.
+🟩
 
-1983 වර්ෂයේ ජුලි 23 දින ආරම්භ වී දින ගණනක් තිස්සේ ඇවිලුණු “කළු ජුලිය” නමින් කුප්‍රකට වර්ගවාදි සංහාරයෙන් දෙමළ වැසියන් දහස් ගණනක් ඝාතනය කෙරුණු අතර කෝටි ගණනක නිවාස ඇතුලු දේපළ ගිනිබත් විය.
+"We caught Glauses, which were blown to pieces, which were put into pieces that were put into pieces, and shedding the used Nettevis.. What's in our house has taken all, but I didn't come so sad. "
 
-ඒ අතර සිනමා කර්මාන්තයට සම්බන්ධ වී කටයුතු කළ දෙමළ ජනයා, සිනමා ශාලා මෙන්ම දෙමළ හිමිකාරිත්වය යටතේ තිබු රසායනාගාර ද විය. එම විනාශයෙන් ලාංකීය සිනමාවට වුයේ ගැණිය නොහැකි පාඩුවකි.
+Forty-four years ago, it was a victim of violence against the Tamil people who were gathered in July a year ago. Sivadason was in the country's film industry and was reported in the film industry in the country's film industry.
 
-දැනට කැනඩාවේ වෙසෙන සිවදාසන් එවක දී හැඳල, වත්තල පිහිටි විජය චිත්‍රාගාරයේ ප්‍රධාන පාලක වශයෙන් රැකියාවේ නිරත වී ඇත.
+Thousands of people were killed in notorious polls called "Black July", which began on July 23, 1983 and the property, including billions, was burned.
+
+Meanwhile, the Tamil people, who were involved in the film industry were also laboratories under the cinema as well as Tamil ownership. The destruction of Sri Lankan cinema was a loss.
+
+Sivadasan, who is currently living in Canada, has been employed as the main controller of the Vijaya Studios in Wattala.
 
 ...
 
 [Data](articles/8cb5581b.json)
+
+[Extended Data](ext_articles/8cb5581b.ext.json)
 
 ---
 
@@ -1656,6 +1726,22 @@ Aswesuma benefits are channeled only through a formal banking channel to selecte
 
 ---
 
+### අමු මිරිස් කිලෝව රු. 1000යි දෙහි කිලෝව රු. 1000යි
+
+*2024-07-22 20:12:54* · [`adalk`](https://www.ada.lk/breaking_news/අමු-මිරිස්-කිලෝව-රු--1000යි-දෙහි-කිලෝව-රු--1000යි/11-410925) · `si`
+
+ඇතැම් ප්‍ර දේශවල ඊයේ (22) දිනයේදි අමු මිරිස් කිලෝවක සිල්ලර මිල  රුපි දහස (1000) ඉක්මවා ගොස් තිබු අතර  දෙහි කිලෝවක මිලත් රුපියල් දහසක් (1000) කට ආසන්න මිලක් ගෙන තිබෙන අතර මාලු මිරිස් කිලෝවක සිල්ලර මිල  රුපියල් 900 දක්වාත් බෝංචි කිලෝවක සිල්ලර මිල රුපියල් 800 ඉහල ගොස් තිබුණි.
+
+මිට අමතරව දේශිය අර්තාපල් කිලෝවක සිල්ලර මිල  රුපියල් 560 දක්වා ඉහල ගොස් තිබෙන අතර ඊට සාපෙක්ෂව විදේශ රටවලින් ගෙන්වන අර්තාපල් කිලෝවක සිල්ලර මිල රුපියල් 300 දක්වා ඉහල ගොස් තිබෙන අතර පදුගිය දිනවල විදේශ රටවලින් ගෙන්වන ලද අර්තාපල් කිලෝවක සිල්ලර මිල රුපියල් 180 ත් රුපියල් 200 අතර මිල පැවතිණි.
+
+මුරුංගා කිලෝවක සිල්ලර මිල රුපියල් 800 ත් දහසත් 1000 මිලක් ගෙන තිබෙන අතර බිට් රූට් හා ලිස්  හා තක්කාලි කිලෝවක සිල්ලර මිල රුපියල් 600 දක්වාත් කැරට් කිලෝවක සිල්ලර මිල රුපියල් 480 ත් රුපියල් 500 දක්වාත්  ගෝවා කිලෝවක සිල්ලර මිල  රුපි 500 දක්වාක් ඉහල ගොස් තිබේ.
+
+...
+
+[Data](articles/4edbf199.json)
+
+---
+
 ### Will the presidential election day 21st September?28?
 
 *2024-07-22 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199096) · `si`
@@ -1688,19 +1774,25 @@ Meanwhile, the Citizenship Alliance (UPFA) was protesting in front of the Electi
 
 ---
 
-### උද්ධමනය ඉහළට
+### Inflation up
 
 *2024-07-22 20:06:11* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-410924) · `si`
 
-2024 මැයි මාසයේ දී 1.6% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 ජූනි මාසය සඳහා 2.4% ක් දක්වා වැඩි වී තිබේ.
+Inflation rose from 1.6% in May 2024 to 2.4% in June 2024. Food prices increased from 0.5% to 1.9%, while non-food items went from 2.4% to 2.7%.
 
-20244 මැයි මාසයේ දී 0.5% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජූනි මාසයේ දී   1.9% ක් දක්වා වැඩි වී ඇත.
+🟩
 
-2024 මැයි මාසයේ දී 2.4% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 ජූනි මාසයේ දී 2.7% ක් දක්වා වැඩි වී තිබේ.
+Inflation, which was 1.6% in May 2024, increased to 2.4% for June 2024.
+
+In May 2024, the point in which the food category recorded was 0.5% increased to 1.9% in June, 2024.
+
+In May 2024, the non-food no-2.4% of food increased to 2.7% in June, 2024.
 
 ◼️
 
 [Data](articles/51c51f1e.json)
+
+[Extended Data](ext_articles/51c51f1e.ext.json)
 
 ---
 
@@ -2201,93 +2293,5 @@ Buying interest was seen in People’s Leasing & Finance Plc (down at 12.00), Va
 [Data](articles/e4dba589.json)
 
 [Extended Data](ext_articles/e4dba589.ext.json)
-
----
-
-### Secret statement to the tutor owner
-
-*2024-07-22 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199093) · `si`
-
-A confidential statement was shared from the Athurugiriya Magistrate to the Kaduwela Magistrate. Lawyer Nuwan Jayawardena sought to submit a secret statement on behalf of his client, Sanja Sanjaya. The magistrate, Chrishage Wijebandra, agreed to facilitate this post-daylight, contingent upon the secretary's consent. Consequently, the case was re-heard post-daylight, and the suspects, including Dulan Sanjaya, were remanded until August 5th.
-
-🟩
-
-The owner of the Athurugiriya Magistrate has been given a secret statement to the Kaduwela Magistrate.
-
-Attorney at the court, lawyer Nuwan Jayawardena, who appeared to the Sanja Sanjaya, wanted to give a secret statement for his client.
-
-Magistrate Chrishage Wijebandra was informed of a secret statement and had agreed to provide the secretary of the court after daylight if they agree to give the secret statement on the afternoon.
-
-Accordingly, the case has been recastred after daylight rest in court today and the suspect has been given the secret statement.
-
-Accordingly, the courts ordered the three suspects including Dulan Sanjaya till August 5.
-
-◼️
-
-[Data](articles/7af2d6dd.json)
-
-[Extended Data](ext_articles/7af2d6dd.ext.json)
-
----
-
-### ‘Club Wasantha’ murder: Tattoo studio owner makes confidential statement to court
-
-*2024-07-22 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100705/club-wasantha-murder-tattoo-studio-owner-makes-confidential-statement-to-court) · `en`
-
-Dulan Sanjula, the owner of the tattoo studio in Athurugiriya, has made a confidential statement before the Kaduwela Magistrate over the recent shooting and killing of two individuals including Surendra Wasantha Perera alias ‘Club Wasantha’.
-
-Meanwhile, the seven suspects including Dulan Sanjula have been ordered to be remanded further until August 5, 2024.
-
-The suspect, who was arrested in connection with the incident, had requested permission to make a confidential statement to the Kaduwela Magistrate. He made this request when the seven suspects arrested in relation to the incident were produced before the court on July 10.
-
-However, the Kaduwela Magistrate had advised the suspect in question to rethink the decision and make the request again during an upcoming court date.
-
-...
-
-[Data](articles/0bf4fbde.json)
-
-[Extended Data](ext_articles/0bf4fbde.ext.json)
-
----
-
-### Petitions on integrating school dev. officers into teaching service settled
-
-*2024-07-22 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/100704/petitions-on-integrating-school-dev-officers-into-teaching-service-settled-) · `en`
-
-The Fundamental Rights (FR) petitions filed seeking the integration of all development officers, who are already employed in government schools, into the teaching service, have been settled before the Supreme Court.
-
-The relevant petitions were taken up for consideration before the three-member Supreme Court judge bench comprising Justices A.H.M.D. Nawaz, Achala Wengappuli and Shiran Gooneratne today (22).
-
-Additional Solicitor General Viraj Dayaratne, who appeared on behalf of the Attorney General, pointed out before the court that it has been decided to interview the school development officers and integrate over 25,000 of them, who meet the required qualifications, into the teaching service.
-
-He further informed the court that the recruitments will be carried out subject to a maximum age limit of 40 years for national schools and 45 years for provincial schools.
-
-...
-
-[Data](articles/e3b094fb.json)
-
-[Extended Data](ext_articles/e3b094fb.ext.json)
-
----
-
-### Post Office Ready for Presidential Election - Deputy Post Office
-
-*2024-07-22 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189103) · `ta`
-
-The postal department is ready for the upcoming Presidential election, with 8,000 workers set to distribute voter cards nationwide. All necessary preparations are in place for a smooth electoral process, including the handling of postal vote documents.
-
-🟩
-
-Deputy Chief Minister Rajitha Ranasinghe says that the postal department is fully prepared to commence the Presidential election after the election date is announced by the Elections Commission.
-
-All necessary arrangements are ready to ensure the smooth electoral process. 8,000 workers have been assigned to distribute official voter cards to all homes.
-
-The Deputy Inspector General has further pointed out that the Postal Department is obliged to transfer all the documents relating to the postal votes.
-
-◼️
-
-[Data](articles/60a64632.json)
-
-[Extended Data](ext_articles/60a64632.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 04:54:53**
+As of **2024-07-24 05:06:02**
 
 ## Newspaper Stats
 
-*Scraped **36,854** Articles*
+*Scraped **36,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,126 @@ economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,340
 adaderanalk | 4,269
-tamilmirrorlk | 4,519
+tamilmirrorlk | 4,520
 dailymirrorlk | 4,733
-virakesarilk | 5,780
+virakesarilk | 5,785
 adaderanasinhalalk | 6,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,854 (100.0%) of 36,854 articles have been extended.
+36,854 (100.0%) of 36,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### எதிர்வரும் ஜனாதிபதித் தேர்தலில், நாட்டை வீழ்ச்சியில் இருந்து மீட்டெடுத்த ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கே மக்களின் பெரும்பான்மையான ஆதரவு கிடைக்கும் - சாமர சம்பத் தசநாயக்க
+
+*2024-07-24 04:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189222) · `ta`
+
+வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டெடுத்த ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு எதிர்வரும் ஜனாதிபதித் தேர்தலில் மக்கள் ஆதரவளிக்கத் தயாராக இருப்பதாக ஆரம்பக் கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க தெரிவித்தார்.
+
+நாட்டின் பொருளாதாரத்தை மேலும் அபிவிருத்தி செய்வதற்கு அனைத்து தரப்பினரும் ஒன்றிணைந்து செயற்பட வேண்டும் எனவும் இராஜாங்க அமைச்சர் சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (23) நடைபெற்ற  ஊடகவியலாளர் மாநாட்டில்  கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே ஆரம்ப கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க இதனைக் குறிப்பிட்டார்.
+
+“வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடிக்குள் தள்ளப்பட்ட நாடு  ஜனாதிபதி  ரணில் விக்ரமசிங்கவின் கீழ் இரண்டு வருடங்கள் என்ற குறுகிய காலத்திற்குள் மீட்கப்பட்டுள்ளது. அதற்கிணங்க எமது அமைச்சின் கீழுள்ள நிறுவனங்கள் நட்டமடையும்  நிலையை தவிர்த்து இலாபம் ஈட்டும் நிலைக்கு வந்துள்ளன.
+
+...
+
+[Data](articles/1ffde80f.json)
+
+---
+
+### ஜனாதிபதி நிதியத்தின் புலமைப் பரிசில்கள் பிரிவேனா மற்றும் பிக்குணி மாணவர்களுக்கு ஜனாதிபதி தலைமையில் வழங்கப்படும்
+
+*2024-07-24 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189221) · `ta`
+
+3000 பிக்கு மாணவர்களுக்கு புலமைப்பரிசில் வழங்கும் நிகழ்வு புதன்கிழமை (24) பிற்பகல் 3.00 மணிக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் அலரி மாளிகையில் நடைபெறவுள்ளது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் எண்ணக் கருவின்படி செயற்படுத்தப்படும் பிரிவேனா மற்றும்  பிக்குணி கல்வி நிறுவனங்களில் கல்வி கற்கும் பிக்குகள் மற்றும் சாதாரண மாணவர்களுக்காக ஜனாதிபதி நிதியத்தினால் புலமைப்பரிசில் வழங்கும் திட்டத்தின் கீழ் இந்தப் புலமைப் பரிசில் வழங்கப்படுகிறது.
+
+இதுவரை காலமும் பிரிவேன்களில் கற்கும் பிக்கு மாணவர்களை ஊக்குவிக்கும் புலமைப்பரிசில் திட்டங்கள் எதுவும் செயற்படுத்தப்படவில்லை என்பதோடு ஜனாதிபதியின் பணிப்புரையின் கீழ் நாடளாவிய ரீதியில் இந்த புலமைப்பரிசில் திட்டம் செயற்படுத்தப்படுவது விசேட அம்சமாகும்.
+
+...
+
+[Data](articles/444585c8.json)
+
+---
+
+### யாழில் நடைபெற்ற கறுப்பு யூலை நினைவேந்தல்!
+
+*2024-07-24 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189220) · `ta`
+
+கறுப்பு யூலை நினைவேந்தல் யாழில் செவ்வாய்க்கிழமை மாலை (23) அனுஷ்டிக்கப்பட்டது. இதன்போது படுகொலை செய்ஞப்பட்டவர்களுக்கு சுடரேற்றி அஞ்சலி செலுத்தப்பட்டது.
+
+தமிழ்த் தேசிய மக்கள் முன்னணியின் ஏற்பாட்டில் யாழ். முற்றவெளி மைதானம் முன்பாக செவ்வாய்க்கிழமை (23) மாலை இவ் நினைவேந்தல் நடைபெற்றது.
+
+இதன்போது நினைவேந்தல் பொதுச் சுடர் ஏற்றப்பட்டு ஏனையவர்களும் சுடர் ஏற்றி அஞ்சலி செலுத்தியிருந்தனர்.
+
+இந் நிகழ்வில் கட்சியின் யாழ் மாவட்ட அமைப்பாளர் தீபன் திலீசன், மகளீர் அணித் தலைவி வாசுகி சுதாகரன் உள்ளிட்ட பலரும் கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/34e0d47d.json)
+
+---
+
+### 2019 முதல் இவ்வருட ஜூன் மாதம் வரை  4,74,142 பேர் வெளிநாட்டு வேலை வாய்ப்புகளுக்காக சென்றுள்ளனர் - மனுஷ நாணயக்கார
+
+*2024-07-24 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/189219) · `ta`
+
+2019 ஆம் ஆண்டு தொடக்கம் கடந்த ஜூன் மாதம் வரை 4,74, 142 பேர் வெளிநாட்டு வேலை வாய்ப்புகளுக்கு சென்றுள்ளனர்.  அவர்களில் 3 இலட்சத்து 1198 பேர் வீட்டுப் பணிப்பெண்களாக தொழில் புரிகின்றனர் என தொழில் மற்றும் வெளிநாட்டு வேலை வாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) ராஜிகா விக்ரமசிங்க எழுப்பிய கேள்வி யொன்றுக்குப் பதிலளிக்கும் போதே அமைச்சர் இவ்வாறு தெரிவித்தார்.
+
+2019 ஆம் ஆண்டு தொடக்கம் கடந்த ஜூன் மாதம் வரை 4,74, 142 பேர் வெளிநாட்டு வேலை வாய்ப்புகளுக்கு சென்றுள்ளனர்.  அவர்களில் 3 இலட்சத்து 1198 பேர் வீட்டுப் பணிப்பெண்களாக தொழில் புரிகின்றனர். அத்துடன் 3 லட்சத்து 62 ஆயிரத்து 943 பேர் பயிற்சி பெற்றவர்களாகவும் ஒரு இலட்சத்து 1199 பேர் பேர் பயிற்சி பெறாத நிலையிலும் வெளிநாடுகளுக்கு சென்றுள்ளனர். அவர்களின் நலன்புரி செயற்பாடுகள் தொடர்பில் அனைத்து நடவடிக்கைகளையும் வெளிநாட்டு வேலை வாய்ப்பு பணியகம் மேற்கொண்டு வருகிறது.
+
+...
+
+[Data](articles/7ce2117f.json)
+
+---
+
+### சட்டவிரோத மணல் அகழ்வில் ஈடுபட்ட மூன்று உழவியந்திரங்கள் மற்றும் நான்கு பேர் கைது
+
+*2024-07-24 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/189218) · `ta`
+
+சட்டவிரோத மணல் அகழ்வில் ஈடுபட்ட மூன்று உழவியந்திரங்கள் மற்றும் நான்கு பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+கிளிநொச்சி இராமநாதபுரம் பொலிஸ் பிரிவுக்குட்பட்ட கோரமோட்டை ஆற்றில் சட்டவிரோதமாக மணல் அகழ்வு இடம்பெறுவதாக கிளிநொச்சி பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலையடுத்து சுற்றி வளைப்பு மேற்கொள்ளப்பட்டது.
+
+இதன்போது மணல் அகழ்வில் ஈடுபட்ட மூன்று உழவியந்திரங்களுடன் நான்கு சந்தேக நபர்களை பொலிஸ் விசேட அதிரடிப்படையினர் கைது செய்து இராமநாதபுரம் பொலிஸ் நிலையத்தில் ஒப்படைத்தனர்.
+
+குறித்த சந்தேக நபர்களை நீதிமன்றில் முற்படுத்த நடவடிக்கை மேற்கொள்ளவுள்ளதாக இராமநாதபுரம் பொலிசார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/e1a329af.json)
+
+---
+
+### ’படுகொலை செய்ய சதி’
+
+*2024-07-24 02:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படுகொலை-செய்ய-சதி/175-340924) · `ta`
+
+என்னை படுகொலை செய்வதற்கு இராஜாங்க அமைச்சர் ஒருவர் சதி செய்வதாக இணையத்தள செய்தித் சேவை ஒன்றில் வெளிநாட்டு புலனாய்வு அமைப்பை மேற்கோள் காட்டி வெளியிடப்பட்டுள்ள செய்தி தொடர்பில் சபாநாயகர் நடவடிக்கை எடுக்க வேண்டும் என இலங்கைத்தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. இரா.சாணக்கியன் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23)  சிறப்புரிமைமீறல் பிரச்சினையை முன்வைத்தே இவ்வாறு வலியுறுத்திய இரா..சாணக்கியன் மேலும் பேசுகையில்,
+
+என்னை படுகொலை செய்வதற்கு இராஜாங்க அமைச்சர் ஒருவர் சதி செய்வதை வெளிநாட்டு புலனாய்வுப்பிரிவொன்று கண்டுபிடித்துள்ளதாக  இணையத்தள செய்தித் சேவை கடந்த 20 ஆம் திகதி செய்தி ஒன்றை வெளியிட்டுள்ளது.
+
+இந்த விடயம் தொடர்பில் நான் சபாநாயகருக்கும் பொலிஸ்மா அதிபருக்கும் எழுத்து மூலம் அறிவித்துள்ளேன்.
+
+இதில் என்னை படுகொலை செய்வதற்கு சதி செய்வதாக   கூறப்பட்டுள்ள இராஜாங்க அமைச்சர் ஏற்கெனவே எம்.பி., படுகொலை மற்றும் உயிர்த்த ஞாயிறு தாக்குதலுடன் தொடர்பு பட்டவர் எனக்குற்றம் சாட்டப்பட்டவர். எனவே இந்த செய்தி தொடர்பில் உரிய நடவடிக்கைகளை எடுக்குமாறு சபாநாயகரிடம் வலியுறுத்துகின்றேன் என்றார்.
+
+◼️
+
+[Data](articles/0c68c090.json)
+
+---
 
 ### TACTILE BALLOT PAPER in the presidential election
 
@@ -2271,159 +2377,5 @@ As the power service has been declared as an essential service, we mentioned tha
 [Data](articles/7bb3dfc3.json)
 
 [Extended Data](ext_articles/7bb3dfc3.ext.json)
-
----
-
-### New story about Colombo 7's assassination
-
-*2024-07-23 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199120) · `si`
-
-A man, identified as 33-year-old Chaminda Kumara from Godakawela, was found dead in a three-wheeler near the National Dental Center in Colombo's Ward Place. The vehicle, registered to a Middeniya resident, was being investigated. Kumara, who worked in aluminum and drove a taxi, lived in Athurugiriya. He suffered two sharp weapon wounds to his chest and neck. The motive behind the murder remains unknown, prompting police to examine CCTV footage and continue their investigation with several teams involved.
-
-🟩
-
-Police found a body of a person who was killed in a three-wheeler in Ward Place, Colombo.
-
-The body was found in a three-wheeler near the National Dental Center in Ward Place today (23) at around 1 am.
-
-Later, the investigation by the Department of Motor Traffic has been revealed that it belongs to a resident of Middeniya.
-
-Investigating the three-wheeler has been given to cool to cool to cool, he has said.
-
-Investigations have revealed that the murdered person was further revealed that the victim was a 33-year-old Chaminda Kumara, a resident of Godakawela.
-
-He is engaged in aluminum during the day and he is a taxi-run.
-
-He had stayed in a rented house in Athurugiriya.
-
-Two injuries caused by sharp weapons of the chest and neck of the murdered person have seen two injuries.
-
-The police also has no doubts due to the falls near his body seat.
-
-However, the cause of the murder and the cause of the killing has not been revealed.
-
-Accordingly, the police have begun testing CCTV camera in the area.
-
-...
-
-[Data](articles/9c0dc44a.json)
-
-[Extended Data](ext_articles/9c0dc44a.ext.json)
-
----
-
-### A rare case of the favor of Saturn is tomorrow
-
-*2024-07-23 12:58:34* · [`adalk`](https://www.ada.lk/breaking_news/සෙනසුරු-චන්ද්‍රයාගෙන්-මුවාවීමේ-විරලම-සිද්ධියක්-හෙට/11-410935) · `si`
-
-Tomorrow, the Arthur C Clarke Institute of Modern Technology in Sri Lanka opens its largest telescope to the public for a rare astronomical event involving Saturn and the moon. Starting after midnight, viewers can witness this phenomenon from anywhere within Sri Lanka, as long as the sky is clear. The event, visible from approximately 00:50 to 3:00 am on July 25, 2024, offers a unique opportunity to observe Saturn closely. For specific viewing times and more details, visit the ACCIMT website.
-
-🟩
-
-Professor Chandana Jayaratne says that the Arthur C Clark Institute of Modern Technology and the largest acCimt telescope in Sri Lanka will open July 24 to the public.
-
-The ACCIMT telescope is open to the general public to watch the constraint phenomenon to the mond tomorrow after midnight tomorrow.
-
-On July 25, July 25, July 25, July 25, July 25, on July 25, 2024, 2024. Started at around 00:50. In. 2.10 To see the semi-covered view to Sri Lankans.
-
-The Moon is the second largest planet Saturn, which is the 2nd largest planet Saturn, starts for a million and 1 hour over the middle of the night and starts to reap the finest Saturn.
-
-These hours are different from Sri Lanka's place to place in Sri Lanka and specified times are shown on the ACCIMT website.
-
-The event can be observed to monitor Satur SC Clark to the public until 4 pm to 3.00 pm, although this event can be observed from the house from the house.Have been provided with.
-
-...
-
-[Data](articles/d372ec16.json)
-
-[Extended Data](ext_articles/d372ec16.ext.json)
-
----
-
-### Sri Lanka Telecom Act changes certified by speaker
-
-*2024-07-23 12:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-act-changes-certified-by-speaker-173382/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Deputy Speaker Ajith Rajapaksa has endorsed the certificate on the “Sri Lanka Telecommunications (Amendment)” Bill, a parliament statement said.
-
-The amendment of the Telecommunications Regulatory Commission (TRC) Act will accommodate the Starlink satellite system founded by billionaire head of SpaceX and Tesla Elon Musk.
-
-“In terms of the provisions of Article 79 of the Constitution of the Democratic Socialist Republic of Sri Lanka, the Hon. Speaker has endorsed the certificates on the Bills titled “Sri Lanka Telecommunications (Amendment)” on 17 July 2024.”
-
-The island nation granted preliminary approval for Starlink to provide satellite-based internet services in the country, following a formal public consultation process.
-
-The move came after President Ranil Wickremesinghe met Musk in the sideline the 10th World Water Forum in Indonesia two months ago.
-
-...
-
-[Data](articles/c93ef73c.json)
-
-[Extended Data](ext_articles/c93ef73c.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-23 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189154) · `ta`
-
-On July 23, the US dollar bought 299.2958 rupees and sold for 308.5447 rupees.
-
-🟩
-
-The US dollar purchasing price was 299.2958 rupees and the sales price were Rs 308.5447 on Tuesday (July 23).
-
-◼️
-
-[Data](articles/cede1bee.json)
-
-[Extended Data](ext_articles/cede1bee.ext.json)
-
----
-
-### Four hospitals paid to tourists
-
-*2024-07-23 12:17:33* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරකයින්-සදහා-රෝහල්-04-ක-ගෙවන-වාට්ටු/11-410934) · `si`
-
-Four hospitals in Sri Lanka—Dambulla, Bandarawela, Pottumarama, and Tissamaharama—are set to receive upgrades. The initiative involves the Ministries of Health, Tourism, Buddha Sasana, Religious & Cultural Affairs, Urban Development & Housing, and Wildlife. Ministers Dr. Ramesh Pathirana and Harin Fernando attended the agreement signing, aiming to enhance healthcare services for tourists and locals alike.
-
-🟩
-
-Ministry of Tourism, Sri Lanka Tourism Development Authority (SLTDA) and the Ministry of Health strengthens the health facilities of the health facilities in health facilities to improve the health facilities of the health facilities.The Jubilee was held at the hall.
-
-Health and Industry, Minister of Health, Minister of Health and Industry, Dr. Ramesh Pathirana and Minister of Tourism and Land and Minister Harin Fernando were present at the occasion.
-
-Sri Lanka Tourism Development Authority (SLTDA) has to implement the health facilities provided to the health facilities and the Ministry of Health (SLTDA) with the assistance of the Ministry of Health with minimal health care authority.Agreement took place here.
-
-Dambulla, Bandarawela, Pottumarama hospitals will be developed by Dambulla, Bandarawela, Dambulla, Bandarawela, Dambulla, Bandarawela, Dambulla, Bandarawela and Tissamaharama hospitals.
-
-...
-
-[Data](articles/244266f5.json)
-
-[Extended Data](ext_articles/244266f5.ext.json)
-
----
-
-### Corona bodies: government apologized
-
-*2024-07-23 12:09:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொரோனா-உடல்களை-எரிப்பு-மன்னிப்பு-கேட்டது-அரசாங்கம்/175-340882) · `ta`
-
-Sri Lanka's government has apologized for mandating cremation of COVID-19 victims, affecting Muslim communities. This policy changed after studies showed no virus transmission through water sources like groundwater and sewage.
-
-🟩
-
-The Cabinet has approved the apology for the compulsory cremation implemented in Sri Lanka during the infection.
-
-According to the guidelines issued by the Ministry of Health on the Medical Management of the Kovit-19, it was recommended to cremate the bodies of the deceased by the virus.
-
-Accordingly, the bodies of 276 Muslims who were suffering from Kovit-19 were cremated, and on February 2021, such people were buried with strict restrictions.
-
-In July 2021, with the support of Sri Jayaradanapura University, the then Ministry of Water Supply and Kandy began a study of SARS-COV-2 viruses in the aquatic environment, wastewater, isolated centers and other potential areas.. The study revealed that there was no virus in the surface of the surface.
-
-...
-
-[Data](articles/0af3c96f.json)
-
-[Extended Data](ext_articles/0af3c96f.ext.json)
 
 ---

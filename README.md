@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 12:08:53**
+As of **2024-07-23 12:20:24**
 
 ## Newspaper Stats
 
-*Scraped **36,718** Articles*
+*Scraped **36,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,171 @@ islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
 adalk | 3,317
-adaderanalk | 4,256
-tamilmirrorlk | 4,487
+adaderanalk | 4,258
+tamilmirrorlk | 4,488
 dailymirrorlk | 4,733
 virakesarilk | 5,745
-adaderanasinhalalk | 6,165
+adaderanasinhalalk | 6,168
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,714 (100.0%) of 36,718 articles have been extended.
+36,718 (100.0%) of 36,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### நகைகளை அடகு வைத்தோருக்கு மகிழ்ச்சியான செய்தி
+### ඉතියෝපියාවේ ඛේදවාචකයක් - ජීවිත 50ක් අහිමි වෙයි
 
-*2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகளை-அடகு-வைத்தோருக்கு-மகிழ்ச்சியான-செய்தி/175-340879) · `ta`
+*2024-07-23 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199119) · `si`
 
-வங்கிகளில் தங்க நகைகளை அடகு வைத்துள்ளவர்களுக்கு நிவாரணம் வழங்க அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
+ඉතියෝපියාවේ සිදුවූ නායයෑම් හේතුවෙන් පුද්ගලයින් 50 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
 
-நாட்டில் சமீபகாலமாக நிலவி வரும் கடுமையான பொருளாதார நெருக்கடியானது பொருளாதாரத்தின் அனைத்து துறைகளையும் நேரடியாகவும் மறைமுகமாகவும் பாதித்துள்ளதுடன், இதன் விளைவாக தங்கப் பொருட்களை அடமானம் வைப்பது வேகமாக அதிகரித்துள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
+පසුගිය 21 වන ඉරිදා සහ ඊයේ (22) දිනයන්හි ගෝෆා ප්‍රදේශයට බලපෑ අධික වර්ෂාපතන තත්ත්වය සමඟ සිදුවූ නායයෑම්වලින් එම මරණ වාර්තා වූ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
 
-2019 ஆம் ஆண்டில் சுமார் 210 பில்லியன் ரூபாவாக இருந்த அடமான முன்பணங்களின் நிலுவைத் தொகை, மார்ச் 2024 க்குள் 172% அதிகரித்து 571 பில்லியன் ரூபாயாக அதிகரித்துள்ளது என்றும் அரசாங்கம் கூறுகிறது.
+එමෙන්ම තවත් පුද්ගලයින් පිරිසක් ද තුවාල ලබා රෝහල් ගත කර තිබේ.
 
-அந்த நிலையைக் கருத்தில் கொண்டு, உரிமம் பெற்ற வங்கிகளில் அடமான முன்பணம் பெற்ற குறைந்த வருமானம் பெறும் நபர்களுக்கு நிவாரணம் வழங்க வேண்டிய அவசியம் கண்டறியப்பட்டுள்ளது.
+නායයෑම්වලින් පීඩාවට පත් පුද්ගලයින් මුදා ගැනීම සඳහා මේ වන විට සහන කණ්ඩායම් කටයුතු කරමින් සිටින බව ද විදෙස් මාධ්‍ය වැඩිදුරටත් පවසයි.
 
-...
+◼️
 
-[Data](articles/b794f0be.json)
+[Data](articles/dc874b7b.json)
 
 ---
 
-### AI ல் இது தான் சிறந்த வீடியோ : எலான் மஸ்க் (காணொளி)
+### ශ්‍රී ලාංකිකයින්ට පෝලන්තයේ රැකියා වරම්
+
+*2024-07-23 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199118) · `si`
+
+ශ්‍රී ලාංකික ශ්‍රමිකයින් සඳහා ඉලක්ක ගත ක්ෂේත්‍රවල රැකියා ලබාදීම සම්බන්ධයෙන් පෝලන්තයේ අවධානය යොමුව ඇති බව විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා පවසයි.
+
+පෝලන්තයේ සංචාරයක නිරතවීමෙන් අනතුරුව සිය "X" ගිණුමේ සටහනක් තබමින් විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා ඒ බව කියා සිටියා.
+
+එමෙන්ම ශ්‍රී ලාංකිකයින්ට පෝලන්තයට ඇතුළුවීමට වීසා පහසුකම් ලිහිල් කිරීමට ද එම සංචාරයේ දී අවධානය යොමුව තිබේ.
+
+කෙසේවෙතත් සිය ඉල්ලීම් සම්බන්ධයෙන් පෝලන්ත විදේශ කටයුතු අමාත්‍යවරයාගේ ප්‍රතිචාරයන්ට ස්තූතිය පළ කරන බව ද විදේශ අමාත්‍යවරයා සිය "X" ගිණුමේ සටහනක් තබමින් වැඩිදුරටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/b6ac710a.json)
+
+---
+
+### Palestinian factions sign declaration to end divisions after talks in China
+
+*2024-07-23 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100718/palestinian-factions-sign-declaration-to-end-divisions-after-talks-in-china) · `en`
+
+Various Palestinian factions have agreed to end their divisions and strengthen Palestinian unity by signing the Beijing Declaration on Tuesday morning in China, according to Chinese state media.
+
+The declaration was signed at the closing ceremony of a reconciliation dialogue among the factions held in Beijing from July 21-23, state broadcaster CCTV said.
+
+A total of 14 Palestinian factions including the leaders of rival groups Fatah and Hamas also met with the media, with China’s Foreign Minister Wang Yi present, CGTN said in a social media post.
+
+Rival factions Hamas and Fatah met in China in April to discuss reconciliation efforts to end around 17 years of disputes.
+
+◼️
+
+[Data](articles/b5605958.json)
+
+---
+
+### Speaker endorses certificate on Sri Lanka Telecom Amendment Bill
+
+*2024-07-23 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100719/speaker-endorses-certificate-on-sri-lanka-telecom-amendment-bill-) · `en`
+
+The Deputy Speaker of the Parliament Ajith Rajapaksa announced the House that in terms of the provisions of Article 79 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Speaker Mahinda Yapa Abeywardena has endorsed the certificates on the Bills titled “Sri Lanka Telecommunications (Amendment)” and “Shaili Educational Foundation (Incorporation).”
+
+The announcement was made during the ongoing Parliamentary proceeding today (23).
+
+◼️
+
+[Data](articles/c8ac76c6.json)
+
+---
+
+### களனிவெளி தொழிலாளர்கள் பணிபுறக்கணிப்பு
+
+*2024-07-23 11:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/களனிவெளி-தொழிலாளர்கள்-பணிபுறக்கணிப்பு/76-340880) · `ta`
+
+நுவரெலியா மாவட்டத்தில் இயங்கும் களனி வெளி பெருந்தோட்ட முகாமைத்துவ நிறுவனத்திற்குறிய அனைத்து பெருந்தோட்டங்களிலும் தொழிலாளாளர்கள் தமது வழமையான தேயிலை தொழிலை ஸ்தம்பித்தப்படுத்தி பணிபுறக்கணிப்பில் செவ்வாய்க்கிழமை (23) காலை ஈடுப்பட்டுள்ளனர்.
+
+இரண்டு முக்கிய காரணங்களை முன் வைத்து இந்த பணிப்புறக்கணிப்பில் செவ்வாய் கிழமை(23)  முதல் களம் இறங்கியுள்ளதாக பணி புறக்கணிப்பில்  ஈடுப்பட்டுள்ள தொழிலாளர்கள் தெரிவிக்கின்றனர்.
+
+1700 ரூபாய் சம்பளத்தை தர மறுக்கும்  களனிவெளி கம்பனி தொழிலாளர்கள் அடி வயிற்றில் அடித்து அடாவடி போக்கை கடைப்பிடிப்பதாகவும்,
+
+இத்தகைய அடாவடி பைக்கை கண்டித்த அமைச்சர் ஜீவன் தொண்டமான் மீது நீதி மன்ற நடவடிக்கை எடுத்து அவரை கைது செய்ய இந்த கம்பனி நடவடிக்கை எடுத்ததை கண்டித்தும் இந்த பணிபுறக்கணிப்பு செய்யப்படுவதாக தொழிலாளர்கள் தெரிவித்தனர்.
+
+அந்த வகையில் களனிவெளி பெருந்தோட்ட முகாமைத்துவ நிறுவனத்தின் கீழ் இயங்கும் நுவரெலியா பீட்று தோட்டத்திற்கு கீழ் இயங்கும் பீட்று,லவர்சிலீப்,நேஸ்பி,
+
+...
+
+[Data](articles/b94bfacc.json)
+
+---
+
+### Happy news for those who mortgage jewelry
+
+*2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகளை-அடகு-வைத்தோருக்கு-மகிழ்ச்சியான-செய்தி/175-340879) · `ta`
+
+In response to the economic crisis, the government has approved an interest subsidy scheme for those who have mortgaged jewelry in banks. This move aims to support low-income individuals, with the subsidy capping interest rates at 10% per annum for such loans.
+
+🟩
+
+The Cabinet has approved relief to those who have mortgaged gold jewelery in banks.
+
+The recent severe economic crisis in the country has affected all the sectors of the economy directly and indirectly, resulting in a rapid increase in gold mortgage.
+
+The sum of the mortgage advance, which was about 210 billion rupees in 2019, increased by 172% by March 2024 to 571 billion rupees.
+
+Considering the situation, the licensed banks have been found to provide relief to low -income low -income persons.
+
+Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasury to implement a maximum of 10%per annum for mortgage advances from the individual based on individuals from licensed banks on or earlier.. The Money Scheme, Economic Development and National Policy Minister has been approved by the President.
+
+◼️
+
+[Data](articles/b794f0be.json)
+
+[Extended Data](ext_articles/b794f0be.ext.json)
+
+---
+
+### This is the best video in AI: Elon Musk (Video)
 
 *2024-07-23 11:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/AI-ல்-இது-தான்-சிறந்த-வீடியோ-எலான்-மஸ்க்-காணொளி/50-340878) · `ta`
 
-இதுவரை வெளி வந்த ஏஐ காணொளிகளில் சிறந்த காணொளி இதுதான் என எலான் மஸ்க் தனது எக்ஸ் தளத்தில் பதிவிட்டுள்ள காணொளி இணையத்தைக் பரவி வருகிறது.
+Elon Musk's AI video features world leaders and celebrities in a unique fashion show, including Donald Trump, Obama, Mark Zuckerberg, and more. It also humorously addresses tech issues like Microsoft's blue screen death.
 
-குறித்த காணொளியில் பேஷன் ஷோவில் உலக அரசியல் தலைவர்கள் மற்றும் பிரபலங்கள் ஒவ்வொருவராக சிரிப்பூட்டும் வித்தியாசமான முறையில் நடந்து வருகின்றனர். High time for an AI fashion show pic.twitter.com/ra6cHQ4AAu— Elon Musk (@elonmusk) July 22, 2024
+🟩
 
-மேலும், கைதி உடையில் டொனால்டு டிரம்ப்பும், சக்கர நாற்காலியில் ஜோ பைடனும், ஒபாமா, மார்க் ஸுகர்பெர்க், நரேந்திர மோடி, கமலா ஹார்ஸ், ஸேனா அதிபர் ஜி ஜிங்பிங், வட கொரிய அதிபர் கிம் ஜாங் உன், ரஷிய அதிபர் புதின், ஐரோப்பிய அரசியல் தலைவர்கள், போப் ஆண்டவர் என அனைவரும் வரிசையாக நடந்து வருகின்றனர்.
+Elon Musk's video posted on its X site is spreading the Internet as the best video of AI video that has come out so far.
 
-இறுதியாக சமீபத்தில் நடந்த மைக்ரோசாப் குளறுபடியை கிண்டலடிக்கும் வகையில், கையில் டெத் ஆப் புளூ ஸ்க்ரீன் கணினியுடன் மைக்ரோசாப் நிறுவனர் பில் கேட்ஸ் இதில் இடம்பிடித்துள்ளார்.
+In the fashion show in the video, world political leaders and celebrities are walking differently in laughter. Hi -Time War And I Fashion Show Pig.Thviter.Kama/Raw Sk ௪ Au
+
+Also, Donald Trump, Donald Trump, Wheel Chair, Obama, Mark Zuckerberg, Narendra Modi, Kamala Horse, Sena President Gi Jinping, North Korean President Kim Jong Un, Russian President, European Political Leaders.
+
+Microsoft founder Bill Gates is accompanied by a Death of Blue Screen Computer, which has finally teased the recent Microsoft mess.
 
 ◼️
 
 [Data](articles/24046baa.json)
+
+[Extended Data](ext_articles/24046baa.ext.json)
+
+---
+
+### ජනාධිපතිවරණය වළක්වන්නැයි ඉල්ලූ නීතිඥයා අධිකරණයට මුදල් ගෙවයි
+
+*2024-07-23 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199117) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 19 වන සංශෝධනය ජනමත විචාරණයකින් සම්මත කරන තුරු ජනාධිපතිවරණය පැවැත්වීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනු කළ පෙත්සම නිෂ්ප්‍රභ කිරීමෙන් අනතුරුව ගෙවීමට නියම කළ රුපියල් ලක්ෂ 05ක නඩු ගාස්තුව නිතීඥ අරුණ ලක්සිරි මහතා විසින් ගෙවා තිබේ.
+
+එම ගෙවීම නීතිඥ ලක්සිරි මහතා විසින් අද (23) පෙරවරුවේ ශ්‍රේෂ්ඨාධිකරණ කාර්යාලයට ගෙවා ඇත.
+
+◼️
+
+[Data](articles/0bfee5b8.json)
 
 ---
 
@@ -249,6 +365,36 @@ Accordingly, the Eye Hospital has cried all other treatments.
 [Data](articles/e54abbfc.json)
 
 [Extended Data](ext_articles/e54abbfc.ext.json)
+
+---
+
+### Republicans put on show of unity behind Trump after assassination attempt
+
+*2024-07-23 10:38:00* · [`islandlk`](http://island.lk/republicans-put-on-show-of-unity-behind-trump-after-assassination-attempt/) · `en`
+
+The Republican National Convention was held as scheduled from Monday, July 15, in spite of the assassination attempt of Donald Trump the previous Saturday, at a campaign rally in Butler, Pennsylvania. He escaped with minor injuries, but the iconic picture of Trump defiantly doing a fist pump, his bloody ear and face prominent with Old Glory fluttering in the background, conveyed an image that will go down in history – the courageous warrior, fighting for the country he loves, despite the excruciating pain he has suffered all his life with bone spurs.
+
+The shooter, a 20-year-old registered Republican, described as “a very quiet young white man” was a poor marksman. Two inches to the left would have changed the history of the most powerful nation in the world. As Senator Tim Scott said at the Convention, “On Saturday, the Devil came to Pennsylvania with a rifle, but OUR AMERICAN LION GOT UP AND ROOOOARED!
+
+...
+
+[Data](articles/65066ef1.json)
+
+[Extended Data](ext_articles/65066ef1.ext.json)
+
+---
+
+### Tamil Leader Sampanthan: Last of a Generation Leaves without Succession
+
+*2024-07-23 10:37:00* · [`islandlk`](http://island.lk/tamil-leader-sampanthan-last-of-a-generation-leaves-without-succession/) · `en`
+
+R. Sampanthan MP, the accredited Tamil political leader for the last fifteen years, passed away on June 30, 2024. I am late in writing this obituary. There have been many commentaries on Sampanthan’s life and politics, including Sanjana Hattotuwa’s excellent cross-sectional summary (in Groundviews) of the commentaries on the late parliamentarian and political leader. Along with citing Meera Srinivasan and Narendra Modi, Dr. Hattotuwa presents what he calls “snapshots from a divided country.” Most of them are from social media, ranging from the laudatory, through critical but not disrespectful, to obscenely insulting commentaries. The last category of comments appeared in Sinhala on Facebook and Twitter. They say more about the social media than the message and should not be taken as representative of the broader Sinhalese society. Mr. Sampanthan would have been the first to emphasize that.
+
+...
+
+[Data](articles/82e6397c.json)
+
+[Extended Data](ext_articles/82e6397c.ext.json)
 
 ---
 
@@ -534,21 +680,27 @@ A bus towards Halgolla to Halgolla, a passenger lady on the bus was brought back
 
 ---
 
-### 24 மணிநேரத்திற்கு சிவப்பு எச்சரிக்கை
+### Red alert for 24 hours
 
 *2024-07-23 08:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்திற்கு-சிவப்பு-எச்சரிக்கை/175-340864) · `ta`
 
-பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+A red weather warning for strong winds and sea turbulence has been issued by the Department of Meteorology, effective for the next 24 hours from 3:00 am today. This alert concerns the Arabian Sea and Bay of Bengal, affecting the fisheries and fishermen's community. Additionally, rainfall is predicted in several provinces and districts including Western, Sabaragamuwa, North Western, Kandy, Nuwara Eliya, Galle, and Matara.
 
-இன்று அதிகாலை 3.00 மணிக்கு வெளியிடப்பட்ட இந்த அறிவிப்பு அடுத்த 24 மணிநேரத்திற்கு செல்லுபடியாகும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-அரபிக்கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் செயற்படும் பல நாள் மீன்பிடி மற்றும் கடற்தொழிலாளர் சமூகம் இது தொடர்பில் அக்கறையுடன் இருக்குமாறு அந்த அறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+The Department of Meteorology has issued a red warning on strong winds and sea turbulence.
 
-இதேவேளை, மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பலதடவைகள் மழை பெய்யும்என எதிர்பார்க்கப்படுகின்றது. R
+The announcement, which was released at 3.00 am today, will be valid for the next 24 hours, the department said.
+
+The announcement that the Fisheries and Fishermen's community is concerned about this on the Arabian Sea and the Bay of Bengal.
+
+Meanwhile, rainfall is expected in the Western, Sabaragamuwa and North Western Provinces and Kandy, Nuwara Eliya, Galle and Matara districts.. Remble
 
 ◼️
 
 [Data](articles/5a872d07.json)
+
+[Extended Data](ext_articles/5a872d07.ext.json)
 
 ---
 
@@ -1726,19 +1878,27 @@ Aswesuma benefits are channeled only through a formal banking channel to selecte
 
 ---
 
-### අමු මිරිස් කිලෝව රු. 1000යි දෙහි කිලෝව රු. 1000යි
+### Raw chilli costs Rs. 1000 and the kilogram of Rs. 1000
 
 *2024-07-22 20:12:54* · [`adalk`](https://www.ada.lk/breaking_news/අමු-මිරිස්-කිලෝව-රු--1000යි-දෙහි-කිලෝව-රු--1000යි/11-410925) · `si`
 
-ඇතැම් ප්‍ර දේශවල ඊයේ (22) දිනයේදි අමු මිරිස් කිලෝවක සිල්ලර මිල  රුපි දහස (1000) ඉක්මවා ගොස් තිබු අතර  දෙහි කිලෝවක මිලත් රුපියල් දහසක් (1000) කට ආසන්න මිලක් ගෙන තිබෙන අතර මාලු මිරිස් කිලෝවක සිල්ලර මිල  රුපියල් 900 දක්වාත් බෝංචි කිලෝවක සිල්ලර මිල රුපියල් 800 ඉහල ගොස් තිබුණි.
+Raw chilli prices rose from Rs. 1000/kg to Rs. 1100/kg, exceeding the price of a kg of potatoes and murga, which also increased.
 
-මිට අමතරව දේශිය අර්තාපල් කිලෝවක සිල්ලර මිල  රුපියල් 560 දක්වා ඉහල ගොස් තිබෙන අතර ඊට සාපෙක්ෂව විදේශ රටවලින් ගෙන්වන අර්තාපල් කිලෝවක සිල්ලර මිල රුපියල් 300 දක්වා ඉහල ගොස් තිබෙන අතර පදුගිය දිනවල විදේශ රටවලින් ගෙන්වන ලද අර්තාපල් කිලෝවක සිල්ලර මිල රුපියල් 180 ත් රුපියල් 200 අතර මිල පැවතිණි.
+🟩
 
-මුරුංගා කිලෝවක සිල්ලර මිල රුපියල් 800 ත් දහසත් 1000 මිලක් ගෙන තිබෙන අතර බිට් රූට් හා ලිස්  හා තක්කාලි කිලෝවක සිල්ලර මිල රුපියල් 600 දක්වාත් කැරට් කිලෝවක සිල්ලර මිල රුපියල් 480 ත් රුපියල් 500 දක්වාත්  ගෝවා කිලෝවක සිල්ලර මිල  රුපි 500 දක්වාක් ඉහල ගොස් තිබේ.
+Retail retail of a kilo of raw chillies have exceeded a kilogram of raw chillies yesterday (22), and the price of a kilogram of kilogram of Rs. 900 for Rs.Had risen.
 
-...
+In addition, the retail price of a kilo of local potatoes has risen to Rs.
+
+The retail price of a kilo of murga has been purchased Rs. 800 and Rs.
+
+The retail price of a kilogram of kilogram to Rs.
+
+◼️
 
 [Data](articles/4edbf199.json)
+
+[Extended Data](ext_articles/4edbf199.ext.json)
 
 ---
 
@@ -2101,197 +2261,5 @@ Basically, those who are entitled to demanding peak autonomy. In addition, the S
 [Data](articles/faddec86.json)
 
 [Extended Data](ext_articles/faddec86.ext.json)
-
----
-
-### IMF. Already started discussions with
-
-*2024-07-22 18:26:58* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-දැනටමත්-සාකච්ඡා-ආරම්භ-කළා/11-410916) · `si`
-
-Sajith Premadasa, the Opposition Leader, criticizes the current government for its handling of humanitarian issues and the economy. He highlights the plight of the malnourished population and calls for urgent action on electricity development. Premadasa emphasizes the need for the government to address the people's suffering and avoid unnecessary propaganda.
-
-🟩
-
-Opposition Leader Sajith Premadasa says that the International Monetary Fund has already begun and the humanitarian agreements should be gone.
-
-After paying homage to Kandy, the media said that the Sri Dalada Maligawa had been hostile to the Sri Dalada Made.
-
-Premadasa should have the rulers and shock to understand the unlimited distresses of the people and said that the present rulers were active and non-shock.
-
-The Opposition Leader who said that the gazette not calculated for the twenty second constitutional amendment also asked not to propagate unnecessary propaganda. He said the presidential election was inevitable and said that he was not new to the public to serve in 24-hour.
-
-The Opposition Leader who emphasized the ambition of the masses of 220 lakhs of people's virtue of malnourished.
-
-The Opposition Leader emphasized that there is an unveiling electricity annual development periods in the country.
-
-◼️
-
-[Data](articles/7d187209.json)
-
-[Extended Data](ext_articles/7d187209.ext.json)
-
----
-
-### Duplicate NIC numbers delay Sri Lanka’s Aswesuma beneficiaries receiving payment: official
-
-*2024-07-22 18:20:00* · [`economynextcom`](https://economynext.com/duplicate-nic-numbers-delay-sri-lankas-aswesuma-beneficiaries-receiving-payment-official-173325/) · `en`
-
-ECONOMYNEXT – Thousands of Sri Lanka’s Aswesuma poverty alleviation beneficiaries face delay in receiving funds due to duplication of their national identity card (NIC) numbers, a top government official said.
-
-Despite the government approving 1.8 million households as Aswesuma beneficiaries from last year’s applicants, still around 200,000 beneficiaries have not received any benefits, the official said.
-
-“When you include their details into the system, it shows two people have the same national identity card numbers,” Jayantha Wijerathne, Chairman of the Welfare Benefits Board, told EconomyNext on Monday (22).
-
-“This may be due to manual production of the identity cards in the past. When there is duplication of NIC numbers, the system rejects the beneficiaries from being paid.”
-
-“Now we have informed these duplicate identity cardholders via text messages and to rectify this issue. Once this is sorted, we will pay them the full amount with effect from July last year.”
-
-...
-
-[Data](articles/53fdafdc.json)
-
-[Extended Data](ext_articles/53fdafdc.ext.json)
-
----
-
-### Sri Lanka cultivates hybrid durian for export
-
-*2024-07-22 18:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-cultivates-hybrid-durian-for-export-173319/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to cultivate 20,000 durian plants of two hybrid varieties for export purposes, the country’s Minister of Agriculture Mahinda Amaraweera said.
-
-“Arrangements have been made to cultivate two varieties of hybrid durians, Ambathanna and Kasun, which produce high yields in a short period of time,” Amaraweera said on Meta (Facebook).
-
-“Both of these durian varieties do not grow as large as other dominant durian trees and grow to heights of 8 to 12 feet, but are two of the most productive varieties. Because of this, it is possible to cultivate even in an ordinary land,” Amaraweera said.
-
-According to Sri Lanka’s Export Development Board, fruits produced in Sri Lanka are mainly exported to the UAE, India and Maldives.
-
-Said to have been introduced to the island by the Portuguese initially, several new types were introduced later. The fruit with a unique odour is now being grown commercially on small scale in various regions. (Colombo/Jul22/2024)
-
-◼️
-
-[Data](articles/26993b1b.json)
-
-[Extended Data](ext_articles/26993b1b.ext.json)
-
----
-
-### Japan Foreign Minister meets Anura
-
-*2024-07-22 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199094) · `si`
-
-Japanese Foreign Minister Tsuge Yoshifui met with Anura, leader of Sri Lanka's National JVP, discussing long-term diplomatic and economic ties. The meeting highlighted the importance of mutual support amidst Sri Lanka's current economic and political challenges.
-
-🟩
-
-Leader of the National JVP to visit Japan and met the Minister of External Affairs TSUGE YOSHIFUIFUI.
-
-The two countries have discussed a continuous friendship and diplomatic and economic relations.
-
-It is reported that the economic and political situation in Sri Lanka have been discussed in long-term friendship and diplomatic and economic relations between the two countries.
-
-The Southwest Asian Director, its deputy director, has also participated in the discussion.
-
-◼️
-
-[Data](articles/418e6e56.json)
-
-[Extended Data](ext_articles/418e6e56.ext.json)
-
----
-
-### Anura and Japan Foreign State Minister meets
-
-*2024-07-22 18:10:18* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-ජපාන-විදේශ-රාජ්‍ය-ඇමති-අතර-හමුවක්/11-410914) · `si`
-
-Comrade Anura Kumara Dissanayake met with Japan's Foreign Minister TSUSHIFMUI, discussing long-term friendship, economic and political situations in Sri Lanka, and future steps in diplomatic and economic relations. The meeting included discussions on strengthening ties between the two nations, with the presence of the Minister of External Affairs and officials from both countries' committees.
-
-🟩
-
-Comrade Anura Kumara Dissanayake, Comrade Anura Kumara Dissanayake and Japan's Foreign Minister TSUSHIFMUI took place this afternoon at the Ministry (22).
-
-The two countries have discussed long-term friendship between the economic and political situation in Sri Lanka and the next step in diplomatic and economic relations with the two countries.. The Minister of External Affairs was also present on the Japanese visit to the Japanese visit to Sri Dissanayake.
-
-The Director of Southwest Asian Division of the Southeastern and Southwest Asian Affairs Department and several members of the Japanese Committee of the National Institute were also present.
-
-◼️
-
-[Data](articles/5360cc89.json)
-
-[Extended Data](ext_articles/5360cc89.ext.json)
-
----
-
-### Sri Lanka wins second winning century in Chamari
-
-*2024-07-22 17:58:26* · [`adalk`](https://www.ada.lk/sports/චමරිගේ-වාර්තා-ගත-ශතකයෙන්-ලංකාව-දෙවැනි-ජයත්-ලබයි/9-410913) · `si`
-
-In the Women's Asia T20 tournament, Sri Lanka, led by Chamari Atapattu, achieved a historic win with a score of 184/4 against Malaysia, who could only manage 40 runs. The highlight was the performance of the team's youngest bowler, a 15-year-old, who took 3 wickets in 4 overs.
-
-🟩
-
-Sri Lanka leadership Chamari Atapattu today celebrated a player in a women's Asia T20 tournament. The Malaysia was 119 runs in 69 balls.
-
-Sri Lanka scored 184 runs for 4 wickets. In reply, Malaysia won only 40 runs.
-
-Sri Lanka's team's youngest bowler, 15 crowd, scored 3 wickets in 4 overs.
-
-◼️
-
-[Data](articles/62c4cf0a.json)
-
-[Extended Data](ext_articles/62c4cf0a.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 304.00/20 to US dollar
-
-*2024-07-22 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-00-20-to-us-dollar-173321/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.00/20 to the US dollar on Monday, from 303.55/65 to the US dollar on Friday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 10.40/50 percent, down from 10.40/55 percent.
-
-A bond maturing on 15.12.2027 closed at 11.60/70 percent, up from 11.50/65 percent.
-
-A bond maturing on 01.05.2028 closed at 11.80/90 percent, up from 11.70/85 percent.
-
-A bond maturing on 15.09.2029 closed stable at 12.00/10 percent.
-
-A bond maturing on 01.10.2032 closed at 12.30/50 percent. (Colombo/Jul22/2024)
-
-◼️
-
-[Data](articles/fd073c44.json)
-
-[Extended Data](ext_articles/fd073c44.ext.json)
-
----
-
-### Sri Lanka stocks close down, Hayleys sees continued interest
-
-*2024-07-22 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-hayleys-sees-continued-interest-173315/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 1.60 percent, or 187.25 points, at 11,539; while the more liquid S&P SL20 Index closed down 2.11 percent, or 72.32 points, at 3,356.
-
-Turnover was 678 million, one of the lowest recorded this year.
-
-Hayleys Plc contributed Rs92mn to the turnover, and the share closed down at 100.00.
-
-“Hayleys has been one of the companies that has seen continuous interest,” Softlogic Stockbrokers said.
-
-“After news of the extension of the vehicle import ban, conversely, we saw some buying interest in companies with exposure to vehicles.
-
-Buying interest was seen in People’s Leasing & Finance Plc (down at 12.00), Vallibel Finance Plc (down at 40.90), LOLC Finance Plc (flat at 6.00) and Lanka IOC Plc (down at 118.00).
-
-“It could be that investors think once the ban is reversed there could be gains on the long term horizon. It could be bargain hunting.”
-
-...
-
-[Data](articles/e4dba589.json)
-
-[Extended Data](ext_articles/e4dba589.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 14:08:48**
+As of **2024-07-23 14:20:19**
 
 ## Newspaper Stats
 
-*Scraped **36,759** Articles*
+*Scraped **36,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,115 @@ islandlk | 2,096
 economynextcom | 2,194
 dailyftlk | 2,336
 adalk | 3,320
-adaderanalk | 4,259
+adaderanalk | 4,261
 tamilmirrorlk | 4,502
 dailymirrorlk | 4,733
 virakesarilk | 5,756
-adaderanasinhalalk | 6,173
+adaderanasinhalalk | 6,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,755 (100.0%) of 36,759 articles have been extended.
+36,759 (100.0%) of 36,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
 
-### ஆளும் கட்சி எம்.பி.க்கள் கூட்டத்தில் வழங்கப்பட்ட வாக்குறுதி
+### Cabinet approval to gazette revised Online Safety Bill
+
+*2024-07-23 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100722/cabinet-approval-to-gazette-revised-online-safety-bill) · `en`
+
+The Cabinet of Ministers has granted approval to publish the revised Online Safety Bill in the government gazette and to table it in Parliament.
+
+In line with the decision given by the Supreme Court on the draft bill on the security of online methods known as ‘Online Safety Bill’, and subsequent to being passed in Parliament, the Security of Online Methods Act No. 9 of 2024 is now in operation, the Department of Government Information (DGI) said.
+
+Before the bill was passed in the Parliament, the experts in the field have expressed their concerns for amendments of certain sections in the bill, yet there was no possibility to include such amendment proposals in the bill at the committee stage, it added.
+
+Therefore, approval of the Cabinet of Ministers was granted at their meeting held on February 12, 2024 to prepare a draft bill to amend the Security of Online Methods Act No. 9 of 2024 with the said amendments.
+
+...
+
+[Data](articles/a85d835e.json)
+
+---
+
+### කොවිඩ් මළ සිරුරු ආදාහනය කළාට රජය සමාව අයදී
+
+*2024-07-23 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199125) · `si`
+
+COVID-19 වසංගතය අතරතුර ශ්‍රී ලංකාව තුළ බලාත්මක කරන ලද අනිවාර්ය ආදාහන ප්‍රතිපත්තිය සම්බන්ධව රජය සමාව අයැදීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යතුමා, විදේශ කටයුතු අමාත්‍යතුමා සහ ජලසම්පාදන සහ වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යතුමා ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+
+COVID-19හි සායනික කළමනාකරණය පිළිබඳ සෞඛ්‍ය අමාත්‍යාංශය විසින් ප්‍රකාශයට පත් කරන ලද මාර්ගෝපදේශවල සඳහන් පරිදි, වෛරසයට ගොදුරු වී මියගිය තැනැත්තන්ගේ මෘතදේහ බැහැර කිරීමේ ක්‍රමවේදය ලෙස ආදාහනය නිර්දේශ කරනු ලැබ තිබුණි.
+
+ඒ අනුව, COVID-19ට ගොදුරු වූ මුස්ලිම් ජාතික පුද්ගලයින් 276 දෙනෙකුගේ මෘතදේහ ආදාහනය කර ඇති අතර, පසුව 2021 පෙබරවාරි මාසයේදී එවැනි පුද්ගලයින් සඳහා දැඩි සීමාවන් සහිතව භූමදානය කිරීමට අවසර ලබා දී ඇත.
+
+...
+
+[Data](articles/1011231e.json)
+
+---
+
+### Promise made at the meeting of the ruling party MPs
 
 *2024-07-23 13:50:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளும்-கட்சி-எம்-பி-க்கள்-கூட்டத்தில்-வழங்கப்பட்ட-வாக்குறுதி/175-340888) · `ta`
 
-வரவு - செலவுத் திட்டத்தில் ஜனாதிபதித் தேர்தலுக்கு மாத்திரம் பணம் ஒதுக்கப்பட்டுள்ளதால், திட்டமிட்டபடி ஜனாதிபதித் தேர்தல் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க மீண்டும் உறுதியளித்துள்ளார்.
+At a meeting of ruling party MPs, President Ranil Wickremesinghe confirmed the scheduled presidential election, emphasizing its inclusion in the budget. Minister Mahinda Amaraweera also attended, reinforcing the commitment to holding the election as planned.
 
-நேற்று பிற்பகல் நடைபெற்ற ஆளும் கட்சி எம்.பி.க்கள் குழுக் கூட்டத்திலேயே அவர் இதனைக் கூறியதாக அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+🟩
+
+President Ranil Wickremesinghe has reiterated that the presidential election will be held as planned as the presidential election is allocated in the budget.
+
+Minister Mahinda Amaraweera said that he was speaking at a meeting of the ruling party MPs held yesterday afternoon.
 
 ◼️
 
 [Data](articles/23328fac.json)
 
+[Extended Data](ext_articles/23328fac.ext.json)
+
 ---
 
-### ரூ.5 இலட்சத்தை செலுத்தினார் சட்டத்தரணி
+### The lawyer paid Rs 5 lakh
 
 *2024-07-23 13:49:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-5-இலட்சத்தை-செலுத்தினார்-சட்டத்தரணி/175-340887) · `ta`
 
-ஜனாதிபதி தேர்தல் நடத்தப்படுவதற்கு எதிராக அடிப்படை உரிமை மீறல் மனுவை தாக்கல் செய்த சட்டத்தரணி அனுர லக்சிறியின் மனுவை தள்ளுபடி செய்த உயர் நீதிமன்றம் சட்டச் செலவுகளுக்காக 500,000 ரூபாயை செலுத்துமாறு உத்தரவிட்டிருந்தது.
+High Court dismissed Anura Lakshiri's petition against the presidential election, citing lack of legal evidence. The court ordered Lakshiri to pay Rs 500,000 for legal expenses, which he complied with.
 
-அரசியலமைப்பின் 19ஆவது திருத்தம் தொடர்பில் சர்வஜன வாக்கெடுப்பு நடத்தப்படாமல் ஜனாதிபதித் தேர்தலை நடத்தக் கூடாது என சட்டத்தரணி அருண லக்சிறி தனது மனுவில் கோரியிருந்தார்.
+🟩
 
-பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, நீதியரசர்களான அர்ஜுன ஒபேசேகர, பிரியந்த பெர்னாண்டோ ஆகியோர் அடங்கிய உயர் நீதிமன்ற மூவரடங்கிய நீதியர்சர்கள்  குழாம் மனுவை ஜூலை 15 அன்று,  தள்ளுபடி செய்தது.
+The High Court has dismissed the petition of Attorney -at -Law Anura Lakshiri, who filed a fundamental rights violation petition against the presidential election, ordered the payment of Rs 500,000 for legal expenses.
 
-இந்த மனுவைத் தொடர சட்டப்பூர்வ ஆதாரம் இல்லை என்று கூறி மனுவை தள்ளுபடி செய்ய உயர் நீதிமன்றம்  மனுதாரருக்கு 500,000 ரூபாய் வழக்குச் செலவு கட்டணத்தை செலுத்துமாறு உத்தரவிட்டிருந்தது. அந்த தொகையையே மனுதாரரான சட்டத்தரணி அருண லக்சிறி, நீதிமன்றத்தில் செவ்வாய்க்கிழழை (23) செலுத்தினார்.
+Attorney Aruna Lakshiri had demanded that the presidential election should not be held without a referendum on the 19th Amendment to the Constitution.
+
+On July 15, a panel of judges of the High Court comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeeskera and Priyantha Fernando dismissed the petition on July 15.
+
+The High Court has ordered the petitioner to pay a cost of Rs 500,000 to dismiss the petition claiming that there is no legal evidence to pursue the petition.. Attorney -at -law Aruna Laksiri, the petitioner, paid the court on Tuesday (23).
 
 ◼️
 
 [Data](articles/27ce5fe7.json)
+
+[Extended Data](ext_articles/27ce5fe7.ext.json)
+
+---
+
+### Govt. to provide interest relief for pawned gold jewelery in banks
+
+*2024-07-23 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100721/govt-to-provide-interest-relief-for-pawned-gold-jewelery-in-banks) · `en`
+
+The Cabinet of Ministers has green lighted a proposal to provide relief to the people who have pawned gold jewelery in banks.
+
+Publishing the Cabinet decisions taken at the yesterday’s (22) Cabinet meeting, the Cabinet Office announced that the severe economic crisis in the country during the recent past has directly and indirectly affected all sectors of the economy, and as a result, the pawning of gold has increased rapidly.
+
+The outstanding amount of mortgage advances, which was around 210 billion rupees in 2019, has shown a growth of 172% to around Rs 571 billion by March 2024. In view of that situation, the need to provide relief to low-income individuals who have obtained mortgage advances from licensed banks has been identified, it added.
+
+...
+
+[Data](articles/46e09558.json)
 
 ---
 
@@ -570,21 +634,29 @@ Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasu
 
 ---
 
-### நகைகள் அடகிலா? : அப்போது மகிழ்ச்சிதான்
+### Jewelry?: Then happy
 
 *2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகள்-அடகிலா-அப்போது-மகிழ்ச்சிதான்/175-340879) · `ta`
 
-வங்கிகளில் தங்க நகைகளை அடகு வைத்துள்ளவர்களுக்கு நிவாரணம் வழங்க அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
+In response to the economic crisis, the Cabinet approved relief measures for those who had mortgaged gold jewelry in banks, increasing the mortgage advance significantly. To aid low-income individuals, an interest subsidy of up to 10% per annum for such loans was introduced, effective from June 30, 2024.
 
-நாட்டில் சமீபகாலமாக நிலவி வரும் கடுமையான பொருளாதார நெருக்கடியானது பொருளாதாரத்தின் அனைத்து துறைகளையும் நேரடியாகவும் மறைமுகமாகவும் பாதித்துள்ளதுடன், இதன் விளைவாக தங்கப் பொருட்களை அடமானம் வைப்பது வேகமாக அதிகரித்துள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
+🟩
 
-2019 ஆம் ஆண்டில் சுமார் 210 பில்லியன் ரூபாவாக இருந்த அடமான முன்பணங்களின் நிலுவைத் தொகை, மார்ச் 2024 க்குள் 172% அதிகரித்து 571 பில்லியன் ரூபாயாக அதிகரித்துள்ளது என்றும் அரசாங்கம் கூறுகிறது.
+The Cabinet has approved relief to those who have mortgaged gold jewelery in banks.
 
-அந்த நிலையைக் கருத்தில் கொண்டு, உரிமம் பெற்ற வங்கிகளில் அடமான முன்பணம் பெற்ற குறைந்த வருமானம் பெறும் நபர்களுக்கு நிவாரணம் வழங்க வேண்டிய அவசியம் கண்டறியப்பட்டுள்ளது.
+The recent severe economic crisis in the country has affected all the sectors of the economy directly and indirectly, resulting in a rapid increase in gold mortgage.
 
-...
+The sum of the mortgage advance, which was about 210 billion rupees in 2019, increased by 172% by March 2024 to 571 billion rupees.
+
+Considering the situation, the licensed banks have been found to provide relief to low -income low -income persons.
+
+Accordingly, on June 30, 2024, the interest subsidy will be issued to the Treasury to implement a maximum of 10%per annum for mortgage advances from the individual based on individuals from licensed banks on or earlier.. The Money Scheme, Economic Development and National Policy Minister has been approved by the President.
+
+◼️
 
 [Data](articles/b8959216.json)
+
+[Extended Data](ext_articles/b8959216.ext.json)
 
 ---
 
@@ -1872,6 +1944,8 @@ Sivadasan, who is currently living in Canada, has been employed as the main cont
 
 [Data](articles/281f4a17.json)
 
+[Extended Data](ext_articles/281f4a17.ext.json)
+
 ---
 
 ### 455 697 applications in the second phase of 455 697 applications without bank accounts
@@ -2279,53 +2353,5 @@ Megakem Engineering Ltd. has expanded their business by opening two new showroom
 [Data](articles/187dfb4d.json)
 
 [Extended Data](ext_articles/187dfb4d.ext.json)
-
----
-
-### Alpha Fire Services PLC emerges as key player in Sri Lanka’s fire protection sector, eyes expansion into Maldives
-
-*2024-07-23 00:32:04* · [`dailyftlk`](https://www.ft.lk/business/Alpha-Fire-Services-PLC-emerges-as-key-player-in-Sri-Lanka-s-fire-protection-sector-eyes-expansion-into-Maldives/34-764608) · `en`
-
-Alpha Fire Services PLC, pioneers in the fire protection and detection industry in Sri Lanka since 1989, marks yet another successful financial year 2023/24, with a plethora of Government and private sector development projects under their belt, including major contracts with leading exporters.
-
-Alpha Fire Services PLC solidifies its position as the preferred fire protection and detection partner in Sri Lanka.
-
-Alpha Fire Services PLC Director Samud Gunasekara highlights the company’s impressive performance, with a reported revenue of Rs. 326 million for the financial year 2023/24. The company has many large scale confirmed orders for the financial year 2024/25 demonstrating readiness to tackle large-scale fire contracting jobs across South Asia. Multinationals and Sri Lankan Corporations alike favour Alpha Fire Services PLC for their exemplary track record and expert technical team, setting their sights on expansion into the Maldivian market in the current financial year.
-
-◼️
-
-[Data](articles/4c31b19b.json)
-
-[Extended Data](ext_articles/4c31b19b.ext.json)
-
----
-
-### Pandemic Chronicles: When Beliefs Trump Science
-
-*2024-07-23 00:26:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/pandemic-chronicles-when-beliefs-trump-science/) · `en`
-
-As I sat down at the lunch table recently, the guest across from me asked what I did for a living. After I responded, she and her neighbor revealed that they were alternative medicine specialists. Then she winked and remarked, “we see myocarditis left and right.” “ Here we go again,” I thought to myself. I also pondered how challenging it is to diagnose myocarditis — an inflammation of the heart muscle often thought to be caused by COVID vaccines much more frequently than it actually is — even for a cardiologist. But that’s a discussion for another day.
-
-...
-
-[Data](articles/430f4a80.json)
-
-[Extended Data](ext_articles/430f4a80.ext.json)
-
----
-
-### Telco and banking leaders in strategic partnership to empower SMEs
-
-*2024-07-23 00:19:50* · [`dailyftlk`](https://www.ft.lk/business/Telco-and-banking-leaders-in-strategic-partnership-to-empower-SMEs/34-764605) · `en`
-
-Top from left:  Dialog Axiata PLC Product Manager – Digital SME Sundar Ganeshan, Chief Manager – Digital SME Sameera Wijerathne, Databox Technologies CEO Prabath Perera, Commercial Bank of Ceylon PLC Assistant General Manager of Personal Banking III/SME Sivasubramaniam Ganeshan, Dialog Axiata PLC Head – ICT and Platform Business Viranga Seneviratne, Group Chief Enterprise Officer Navin Pieris and Commercial Bank of Ceylon PLC Chief Manager – SME Banking Mohan Fernando
-
-Bottom from left: GlobalLinker Co-founder and CEO Sameer Valki, Dialog Axiata PLC Head – ICT and Platform Business Viranga Seneviratne, Databox Technologies CEO Prabath Perera and Commercial Bank of Ceylon PLC Assistant General Manager of Personal Banking III/SME Sivasubramaniam Ganeshan
-
-...
-
-[Data](articles/68ef6cdd.json)
-
-[Extended Data](ext_articles/68ef6cdd.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 23:06:10**
+As of **2024-07-23 23:20:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,842 (100.0%) of 36,843 articles have been extended.
+36,843 (100.0%) of 36,843 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Kimberly Cheatle, who had served as Secret Service director since August 2022, h
 ...
 
 [Data](articles/fb8fe058.json)
+
+[Extended Data](ext_articles/fb8fe058.ext.json)
 
 ---
 

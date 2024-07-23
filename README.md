@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 03:54:32**
+As of **2024-07-24 04:06:27**
 
 ## Newspaper Stats
 
-*Scraped **36,851** Articles*
+*Scraped **36,853** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 322
-colombotelegraphcom | 348
+colombotelegraphcom | 349
 bbccomsinhala | 358
 newsfirstlk | 363
 islandlk | 2,097
@@ -17,7 +17,7 @@ economynextcom | 2,203
 dailyftlk | 2,336
 adalk | 3,340
 adaderanalk | 4,269
-tamilmirrorlk | 4,517
+tamilmirrorlk | 4,518
 dailymirrorlk | 4,733
 virakesarilk | 5,780
 adaderanasinhalalk | 6,185
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,851 (100.0%) of 36,851 articles have been extended.
+36,851 (100.0%) of 36,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### ஜனாதிபதி தேர்தலில் Tactile Ballot Paper
+
+*2024-07-24 02:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-Tactile-Ballot-Paper/175-340923) · `ta`
+
+ஜனாதிபதி தேர்தலில் முதன்முறையாக விழிப்புலனற்ற சமூகத்தினருக்காக விசேட தொட்டுணரக்கூடிய வாக்குச் சீட்டு (Tactile Ballot Paper) அறிமுகப்படுத்தப்படவுள்ளதாக  தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்தார்.
+
+வெளிப்படையான மற்றும் பொறுப்புக்கூற வேண்டிய அரசாங்கமொன்று பற்றிய துறைசார் மேற்பார்வைக் குழு அதன் தலைவர் பாராளுமன்ற உறுப்பினர் ஜகத்குமார சுமத்திராரச்சி தலைமையில் கூடியபோதோ அதில் அவர் இவ்வாறு தெரிவித்தார்.
+
+தேர்தல்களின் போது அடையாளம் உறுதிப்படுத்தப்பட்டிருப்பதைக் குறிக்கும் வகையில் விரல்களில் வர்ணம் பூசுவது அநாவசியமானது என்ற குழுவின் முன்னைய அறிவுறுத்தல் குறித்தும் இக்குழுவில்  கவனம்செலுத்தப்பட்டது.
+
+இதற்கு அமைய விரல்களில் பூசப்படும் வர்ணங்களை இறக்குமதி செய்வதைஇரத்துச் செய்வது குறித்த அமைச்சரவைப் பத்திரம் சமர்ப்பிக்கப்பட்டதாகவும், இதனை இந்தச் சந்தர்ப்பத்தில் நடைமுறைப்படுத்தாதிருக்க அமைச்சரவை தீர்மானித்திருப்பதாகவும் தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்தார்.
+
+...
+
+[Data](articles/6f2b7571.json)
+
+---
 
 ### Elections Alliance August 8
 
@@ -337,6 +355,26 @@ At the same time, lawmakers of the Republican and both Democratic parties had fo
 [Data](articles/8536add5.json)
 
 [Extended Data](ext_articles/8536add5.ext.json)
+
+---
+
+### Chavakachcheri Hospital Saga: The Tip Of The Iceberg Of A Broken & Outdated Health System
+
+*2024-07-23 21:49:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/chavakachcheri-hospital-saga-the-tip-of-the-iceberg-of-a-broken-outdated-health-system/) · `en`
+
+Most Sri Lankans, if not all who have social media access, by now know that there is a city in the Northern Province called Chavakachcheri, and that there are allegations and misdeeds in multiple areas in the base hospital.
+
+I am writing this as a medical professional educated and trained in Sri Lanka currently practice in North America. I am presenting this as two-part series with the second part focus on suggestions for change. I am going to start with the oath we take before going into the practice.
+
+I swear to fulfill, to the best of my ability and judgment, this covenant:
+
+I will respect the hard-won scientific gains of those physicians in whose steps I walk, and gladly share such knowledge as is mine with those who are to follow.
+
+I will apply, for the benefit of the sick, all measures [that] are required, avoiding those twin traps of overtreatment and therapeutic nihilism.
+
+...
+
+[Data](articles/fe22bbd5.json)
 
 ---
 
@@ -2375,59 +2413,5 @@ The relief teams are currently working to liberate landslides.
 [Data](articles/dc874b7b.json)
 
 [Extended Data](ext_articles/dc874b7b.ext.json)
-
----
-
-### I have taken action in my legal career in my legal career
-
-*2024-07-23 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189151) · `ta`
-
-In her first post-election speech, Vice President Kamala Harris highlighted her experience as a criminal lawyer, particularly in handling cases against criminals ranging from those committing crimes against women to fraudsters and cheats. She expressed readiness to apply this experience against Donald Trump, emphasizing her strategy to counter his tactics based on her past confrontations with various criminals.
-
-🟩
-
-Vice President Kamala Haris, who is expected to contest the US presidential election on behalf of the Democratic Party, has recalled his past actions as a criminal lawyer and has recalled Trump's court cases.
-
-Kamala Haris said this in his first speech after Jobiton's leaving election.
-
-He is pleased to have gained the broader support of the Democrats to contest the presidential election.
-
-He said he was ready to use his past as a criminal lawyer against Trump.
-
-He has outlined that his propaganda strategy can be found on the basis of the opposite.
-
-Kamala Haris said that I was confronted with all kinds of criminals, I was against them- crimes against women, abusing women, fraudsters who had suffered greatly to consumers, and cheaters for their benefits.
-
-Kamala Haris said I know how to deal with people like Donald Trump.
-
-◼️
-
-[Data](articles/7c7b83b2.json)
-
-[Extended Data](ext_articles/7c7b83b2.ext.json)
-
----
-
-### Sri Lankans employed in Poland
-
-*2024-07-23 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199118) · `si`
-
-During a visit to Poland, Foreign Minister Ali Sabri discussed enhancing employment opportunities for Sri Lankan workers. He mentioned a "X" account process aimed at facilitating Sri Lankans' entry into Poland. The visit addressed concerns raised by the Polish External Affairs Minister, highlighting efforts to improve conditions for Sri Lankan laborers in Poland.
-
-🟩
-
-Foreign Minister Ali Sabri says Poland is focusing on providing employment opportunities for Sri Lankan workers.
-
-Foreign Minister Ali Sabri said that after conducting a "X" account after being on a visit to Poland, he said that.
-
-The visit also focuses on the visit to Sri Lankans to enter Poland.
-
-However, the Foreign Minister also responded to the response of the Polish External Affairs Minister regarding his demands.
-
-◼️
-
-[Data](articles/b6ac710a.json)
-
-[Extended Data](ext_articles/b6ac710a.ext.json)
 
 ---

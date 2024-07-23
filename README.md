@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 12:53:50**
+As of **2024-07-23 13:05:21**
 
 ## Newspaper Stats
 
-*Scraped **36,725** Articles*
+*Scraped **36,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,194
 dailyftlk | 2,336
 adalk | 3,317
 adaderanalk | 4,258
-tamilmirrorlk | 4,489
+tamilmirrorlk | 4,498
 dailymirrorlk | 4,733
 virakesarilk | 5,745
 adaderanasinhalalk | 6,168
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,725 (100.0%) of 36,725 articles have been extended.
+36,725 (100.0%) of 36,734 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -170,6 +170,46 @@ Similarly, workers from the Edinburo, Classo, Adivan, and the upper division of 
 
 ---
 
+### ஜீவனுக்காக பணிபுறக்கணிப்பு
+
+*2024-07-23 11:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவனுக்காக-பணிபுறக்கணிப்பு/76-340880) · `ta`
+
+நுவரெலியா மாவட்டத்தில் இயங்கும் களனி வெளி பெருந்தோட்ட முகாமைத்துவ நிறுவனத்துக்கு சொந்தமான அனைத்து பெருந்தோட்டங்களிலும் தொழிலாளாளர்கள் தமது வழமையான தேயிலை தொழிலை ஸ்தம்பித்தப்படுத்தி பணிபுறக்கணிப்பில் செவ்வாய்க்கிழமை (23) காலை ஈடுப்பட்டுள்ளனர்.
+
+இரண்டு முக்கிய காரணங்களை முன் வைத்து இந்த பணிப்புறக்கணிப்பில் செவ்வாய் கிழமை(23)   தொழிலாளர்கள் இறங்கியுள்ளனர்.
+
+1,700 ரூபாய் சம்பளத்தை தர மறுக்கும்  களனிவெளி கம்பனி தொழிலாளர்கள் அடி வயிற்றில் அடித்து அடாவடி போக்கை கடைப்பிடிப்பதாகவும்,
+
+இத்தகைய அடாவடியை கண்டித்த அமைச்சர் ஜீவன் தொண்டமான் மீது நீதிமன்ற நடவடிக்கை எடுத்து அவரை கைது செய்ய இந்த கம்பனி நடவடிக்கை எடுத்ததை கண்டித்தும் இந்த பணிபுறக்கணிப்பு செய்யப்படுவதாக தொழிலாளர்கள் தெரிவித்தனர்.
+
+அந்த வகையில் களனிவெளி பெருந்தோட்ட முகாமைத்துவ நிறுவனத்தின் கீழ் இயங்கும் நுவரெலியா பீட்று தோட்டத்திற்கு கீழ் இயங்கும் பீட்று,லவர்சிலீப்,நேஸ்பி,
+
+மூன்பிளேன், மாகாஸ்தோட்ட,ஸ்கிராப் ஆகிய தோட்டங்களுடன் ஒலிபண்ட் மற்றும் நுவரெலியா டிவிஷன் ஆகிய தோட்டங்களிலும் தொழிலாளர்கள் பணி புறக்கணிப்பில் ஈடுப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/cbceb92f.json)
+
+---
+
+### நகைகள் அடகா? : அப்போது மகிழ்ச்சிதான்
+
+*2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகள்-அடகா-அப்போது-மகிழ்ச்சிதான்/175-340879) · `ta`
+
+வங்கிகளில் தங்க நகைகளை அடகு வைத்துள்ளவர்களுக்கு நிவாரணம் வழங்க அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
+
+நாட்டில் சமீபகாலமாக நிலவி வரும் கடுமையான பொருளாதார நெருக்கடியானது பொருளாதாரத்தின் அனைத்து துறைகளையும் நேரடியாகவும் மறைமுகமாகவும் பாதித்துள்ளதுடன், இதன் விளைவாக தங்கப் பொருட்களை அடமானம் வைப்பது வேகமாக அதிகரித்துள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
+
+2019 ஆம் ஆண்டில் சுமார் 210 பில்லியன் ரூபாவாக இருந்த அடமான முன்பணங்களின் நிலுவைத் தொகை, மார்ச் 2024 க்குள் 172% அதிகரித்து 571 பில்லியன் ரூபாயாக அதிகரித்துள்ளது என்றும் அரசாங்கம் கூறுகிறது.
+
+அந்த நிலையைக் கருத்தில் கொண்டு, உரிமம் பெற்ற வங்கிகளில் அடமான முன்பணம் பெற்ற குறைந்த வருமானம் பெறும் நபர்களுக்கு நிவாரணம் வழங்க வேண்டிய அவசியம் கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/ae466e6d.json)
+
+---
+
 ### Happy news for those who mortgage jewelry
 
 *2024-07-23 11:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நகைகளை-அடகு-வைத்தோருக்கு-மகிழ்ச்சியான-செய்தி/175-340879) · `ta`
@@ -217,6 +257,24 @@ Microsoft founder Bill Gates is accompanied by a Death of Blue Screen Computer, 
 [Data](articles/24046baa.json)
 
 [Extended Data](ext_articles/24046baa.ext.json)
+
+---
+
+### AI ல் இது தான் சிறந்த வீடியோ : எலான் (காணொளி)
+
+*2024-07-23 11:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/AI-ல்-இது-தான்-சிறந்த-வீடியோ-எலான்-காணொளி/50-340878) · `ta`
+
+இதுவரை வெளி வந்த ஏஐ காணொளிகளில் சிறந்த காணொளி இதுதான் என எலான் மஸ்க் தனது எக்ஸ் தளத்தில் பதிவிட்டுள்ள காணொளி இணையத்தைக் பரவி வருகிறது.
+
+குறித்த காணொளியில் பேஷன் ஷோவில் உலக அரசியல் தலைவர்கள் மற்றும் பிரபலங்கள் ஒவ்வொருவராக சிரிப்பூட்டும் வித்தியாசமான முறையில் நடந்து வருகின்றனர்.
+
+மேலும், கைதி உடையில் டொனால்டு டிரம்ப்பும், சக்கர நாற்காலியில் ஜோ பைடனும், ஒபாமா, மார்க் ஸுகர்பெர்க், நரேந்திர மோடி, கமலா ஹார்ஸ், ஸேனா அதிபர் ஜி ஜிங்பிங், வட கொரிய அதிபர் கிம் ஜாங் உன், ரஷிய அதிபர் புதின், ஐரோப்பிய அரசியல் தலைவர்கள், போப் ஆண்டவர் என அனைவரும் வரிசையாக நடந்து வருகின்றனர்.
+
+இறுதியாக சமீபத்தில் நடந்த மைக்ரோசாப் குளறுபடியை கிண்டலடிக்கும் வகையில், கையில் டெத் ஆப் புளூ ஸ்க்ரீன் கணினியுடன் மைக்ரோசாப் நிறுவனர் பில் கேட்ஸ் இதில் இடம்பிடித்துள்ளார்.
+
+◼️
+
+[Data](articles/2b3cb498.json)
 
 ---
 
@@ -377,6 +435,28 @@ Moreover, inflation in non -food category has risen from 2.4 percent to 2.7 perc
 [Data](articles/4b86df5d.json)
 
 [Extended Data](ext_articles/4b86df5d.ext.json)
+
+---
+
+### மது, புகையிலைக்கு அதிக செலவு
+
+*2024-07-23 10:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-புகையிலைக்கு-அதிக-செலவு/175-340873) · `ta`
+
+தேசிய நுகர்வோர் விலைச் சுட்டெண்ணின்படி மே மாதத்தில் பதிவாகியிருந்த 1.6 சதவீதத்திலிருந்து ஜூன் மாதத்தில் இலங்கையின் பணவீக்கம் 2.4 சதவீதமாக அதிகரித்துள்ள நிலையில், போக்குவரத்து, மதுபானங்கள் மற்றும் புகையிலைக்கு அதிக செலவு செய்ய நிர்ப்பந்திக்கப்பட்டதாகத் தெரிகிறது.
+
+இந்த காலகட்டத்தில் போக்குவரத்து வகை பணவீக்கம் 6.9 சதவீதத்தில் இருந்து 7.5 சதவீதமாக அதிகரித்துள்ளது,
+
+அதேவேளை,  ஹோட்டல்கள் மற்றும் உணவகங்கள் பிரிவில் 4.9 சதவீதத்தில் இருந்து 4.3 சதவீதமாக குறைந்துள்ளது.
+
+மதுபானங்கள் மற்றும் புகையிலை வகைகளில் பணவீக்கம் 26.6 சதவீதத்தில் இருந்து 27. 1 சதவீதமாக உயர்ந்துள்ளது.
+
+மே மாதத்தில் 0.5 சதவீதமாக இருந்த உணவு வகை பணவீக்கம் ஜூன் மாதத்தில் 1.9 சதவீதமாக உயர்ந்துள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+
+மேலும், உணவு அல்லாத பிரிவில் பணவீக்கம் 2.4 சதவீதத்தில் இருந்து 2.7 சதவீதமாக உயர்ந்துள்ளது. இருப்பினும், இந்த காலகட்டத்தில் தண்ணீர், மின்சாரம் மற்றும் எரிவாயு செலவு குறைந்துள்ளது
+
+◼️
+
+[Data](articles/a4316128.json)
 
 ---
 
@@ -553,6 +633,26 @@ The suspect is to be produced before the Magistrate's Court, police said.
 [Data](articles/aee9e981.json)
 
 [Extended Data](ext_articles/aee9e981.ext.json)
+
+---
+
+### தாய் வயலில்: மகளை வன்புணர்ந்த தந்தை
+
+*2024-07-23 09:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாய்-வயலில்-மகளை-வன்புணர்ந்த-தந்தை/76-340867) · `ta`
+
+பசறை வெல்கொல்ல பிரதேசத்தில் 10 வயதுடைய சிறுமி ஒருவரை பாலியல் வன்கொடுமை செய்த குற்றச்சாட்டில் அவரது தந்தை திங்கட்கிழமை (22) இரவு கைது செய்யப்பட்டதாக பசறைபொலிஸார் தெரிவித்தனர்.
+
+இரண்டு பிள்ளைகளின் தந்தையான , பதுளை பிரதேசத்தில் உள்ள நிறுவனமொன்றில் அலுவலக உதவியாளராக கடமையாற்றும் 45 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+இரண்டு மூன்று நாட்களாக , பாதிக்கப்பட்ட சிறுமியின் நடத்தையில் மாற்றம் ஏற்பட்டுள்ளதை அவதானித்த அவரது தாயார் சிறுமியிடம் விசாரித்த போது , வெள்ளிக்கிழமை (19) அன்று தாய் வயல் வேலைக்கு சென்றிருந்த போது தந்தையால் தனக்கு நேர்ந்த கொடுமையை பற்றி கூறியுள்ளார் .
+
+இது தொடர்பில் , தாய் பசறை பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டின் பிரகாரம் சந்தேகநபரான தந்தையை கைது செய்யப்பட்டுள்ளதுடன் பாதிக்கப்பட்ட சிறுமி பசறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு மருத்துவ பரிசோதனைக்காக பதுளை போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+மேலும் , சந்தேக நபரை பசறை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர் .
+
+◼️
+
+[Data](articles/d51e889e.json)
 
 ---
 
@@ -801,6 +901,24 @@ The T20I series will be played at the Pallekele Stadium on July 27, 28 and 30 wh
 [Data](articles/765e0d76.json)
 
 [Extended Data](ext_articles/765e0d76.ext.json)
+
+---
+
+### கொழும்பில் பரபரப்பான பகுதியில் சடலம் மீட்பு
+
+*2024-07-23 08:36:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-பரபரப்பான-பகுதியில்-சடலம்-மீட்பு/175-340863) · `ta`
+
+கொழும்பு, வார்ட் பிளேஸில் நிறுத்தி வைக்கப்பட்டிருந்த முச்சக்கரவண்டிக்குள் கூரிய ஆயுதங்களால் தாக்கப்பட்ட 33 வயது மதிக்கத்தக்க நபரின் சடலம் ஒன்று கண்டு பிடிக்கப்பட்டுள்ளது.
+
+இன்று (23) அதிகாலை 1 மணியளவில் கருவாத்தோட்டம் பொலிஸாருக்கு மற்றும் 119க்கு கிடைத்த தகவல் ஒன்றின் அடிப்படையில் தேசிய பல் வைத்தியசாலைக்கு அருகில் குறித்த முச்சக்கரவண்டி கண்டுபிடிக்கப்பட்டுள்ளது.
+
+பின்னர் குறித்த முச்சக்கரவண்டி தொடர்பில் மோட்டார் போக்குவரத்து திணைக்களம் நடத்திய விசாரணையில் அது மித்தெனிய பிரதேசத்தை சேர்ந்த ஒருவருடையது என தெரியவந்துள்ளது.
+
+குறித்த நபரிடம் வினவியபோது, ​​முச்சக்கரவண்டியை 33 வயதுடைய தனது மைத்துனருக்கு வாடகைக்கு செலுத்த வழங்கியதாக அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/740c922a.json)
 
 ---
 
@@ -1168,6 +1286,24 @@ He said this at a special media briefing held at the Presidential Media Center y
 
 ---
 
+### ‘அஸ்வெசும’ ஜூலை 31 நிறைவு
+
+*2024-07-23 01:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-ஜூலை-31-நிறைவு/175-340862) · `ta`
+
+‘அஸ்வெசும’ நலன்புரி திட்டத்தின் இரண்டாம் கட்டம் தொடர்பான கணக்கெடுப்பை ஜூலை 31 ஆம் திகதிக்குள் நிறைவு செய்ய திட்டமிடப்பட்டுள்ளது.
+
+மேலும், முதற்கட்டமாக இத்திட்டத்திற்கு விண்ணப்பிக்கத் தவறிய குடும்பங்களுக்கு, கடந்த பெப்ரவரி மாதம் விண்ணப்பங்கள் கோரப்பட்டு, சுமார் 454,924 விண்ணப்பங்கள் பெறப்பட்டுள்ளன.
+
+அந்த விண்ணப்பங்கள் தொடர்பான கணக்கெடுப்பு பணிகள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளதாக நலன்புரி நன்மைகள் சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று பிற்பகல் இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் அவர் இவ்வாறு தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/aea36ac5.json)
+
+---
+
 ### Appoint 16,000 teachers
 
 *2024-07-23 01:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-000-ஆசிரியர்கள்-நியமனம்/175-340861) · `ta`
@@ -1187,6 +1323,22 @@ Development work that has been launched under foreign assistance in universities
 [Data](articles/7d7b6f3e.json)
 
 [Extended Data](ext_articles/7d7b6f3e.ext.json)
+
+---
+
+### விவசாயத்திற்கு வட்டியில்லா கடன்
+
+*2024-07-23 01:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயத்திற்கு-வட்டியில்லா-கடன்/175-340860) · `ta`
+
+விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் கீழ் முதல் கட்டமாக விவசாய தொழில் முயற்சியாளர்கள் மற்றும் விவசாயிகளுக்கு வட்டியில்லாக் கடன்களை வழங்கும் செயல்முறை தொடர்பான புரிந்துணர்வு ஒப்பந்தம் நேற்று ஜனாதிபதி அலுவலகத்தில் கையெழுத்திடப்பட்டது.
+
+முதல் கட்டத்தில், இந்த வேலைத்திட்டத்திற்கு பங்களிப்பை வழங்கும் இலங்கை வங்கி, பிரதேச அபிவிருத்தி வங்கி ஆகியவற்றுடன், விவசாய, பெருந்தோட்ட கைத்தொழில் அமைச்சின் செயலாளர் ஜானக தர்மகீர்த்தி இந்த புரிந்துணர்வு ஒப்பந்தங்களில் கைச்சாத்திட்டார். இதன்படி எதிர்காலத்தில் மக்கள் வங்கியுடனும் ஒப்பந்தம் கைச்சாத்திடப்பட உள்ளது.
+
+விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் முதற்கட்டமாக முன்னோடித் திட்டங்களை நடைமுறைப்படுத்த தெரிவு செய்யப்பட்ட 26 பிரதேச செயலகங்களில் விவசாய நவீனமயமாக்கல் நிலையங்கள் ஊடாக வேலைத் திட்டங்களை நடைமுறைப்படுத்த தலா 25 மில்லியன் ரூபா வீதம் 650 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. இரண்டாம் கட்டமாக 10 மில்லியன் ரூபா பெறுமதியான விவசாய நவீனமயமாக்கல் திட்டங்களை நடைமுறைப்படுத்த 75 பிரதேச செயலகங்கள் அடையாளம் காணப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/264d3515.json)
 
 ---
 
@@ -1307,6 +1459,22 @@ The President presented certificates and souvenirs in appreciation of foreign em
 [Data](articles/6ecc7495.json)
 
 [Extended Data](ext_articles/6ecc7495.ext.json)
+
+---
+
+### சுற்றுலா வர்த்தகத்தில் இணையுமாறு அழைப்பு
+
+*2024-07-23 01:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-வர்த்தகத்தில்-இணையுமாறு-அழைப்பு/175-340859) · `ta`
+
+மத்திய கிழக்கு நாடுகள் உட்பட இலங்கைத் தொழிலாளர்கள் அனுப்பப்படும் நாடுகளின் சுற்றுலாப் பயணிகளை இந்நாட்டுக்கு வரவழைக்கும் புதிய வர்த்தக வாய்ப்புகள் குறித்து வெளிநாட்டு வேலைவாய்ப்பு முகவர் நிலையங்கள் கவனம் செலுத்தினால், அவர்களுக்குத் தேவையான வசதிகளை சுற்றுலா அமைச்சின் ஊடாக வழங்க முடியும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+குருணாகல் எபிடோம் ஹோட்டல் வளாகத்தில் நேற்று முன்தினம் இடம்பெற்ற 'அபிமன் 2024' நிகழ்வில் ஜனாதிபதி இவ்வாறு  குறிப்பிட்டார்.
+
+நாட்டின் பொருளாதாரத்திற்கு பாரிய பங்களிப்பை வழங்கும் வெளிநாட்டு வேலை வாய்ப்பு முகவர் நிறுவனங்களைப் பாராட்டி சான்றிதழ்கள் மற்றும் நினைவுப் பரிசுகளை ஜனாதிபதி இதன்போது வழங்கி வைத்தார். (a)
+
+◼️
+
+[Data](articles/99b65120.json)
 
 ---
 
@@ -2067,229 +2235,5 @@ No one has profitable proposal that the parliamentary election was brought befor
 [Data](articles/5bb0876f.json)
 
 [Extended Data](ext_articles/5bb0876f.ext.json)
-
----
-
-### A member of the Pohot against Ranil Dhammika
-
-*2024-07-22 19:45:27* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-මන්ත්‍රී-පිරිසක්-රනිල්ට-විරුද්ධයි-ධම්මිකට-කැමතියි/11-410922) · `si`
-
-Sri Lanka General Front MPs, including Ranil Wickremesinghe, are set to receive assistance. An opinion suggests focusing on the General Manager's consistent electoral support. A meeting was held to discuss this, with entrepreneur Dhammika Perera's name being proposed for a request related to the CEB.
-
-🟩
-
-It is reported that the Sri Lanka General Front MPs and the General Front Ranil Wickremesinghe are to be assisted.
-
-The MP's opinion is that the General Manager General Manager, the consistent electoral base of the General Manager. A discussion was held yesterday (22) at Nelum Mawatha, General Secretariat.
-
-The request was the request of the CA.. The name of the entrepreneurship, MP Dhammika Perera has been proposed.
-
-It was also reported that the proposal was presented by a team of MPs in the General Secretary of the CEB depending on the inspection that some ministers of the CE CHANGESS
-
-◼️
-
-[Data](articles/ff86b55a.json)
-
-[Extended Data](ext_articles/ff86b55a.ext.json)
-
----
-
-### Teacher appointments to all development officers employed
-
-*2024-07-22 19:39:06* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-සේවයේ-නියුතු-සියලුම-සංවර්ධන-නිලධාරීන්ට-ගුරු-පත්වීම්/11-410921) · `si`
-
-The Attorney General informed the Supreme Court that a teacher, already engaged in teaching, would be officially appointed to a development officer position. This decision followed negotiations and interviews, with the education minister involved. The process aimed to address concerns raised in a petition seeking better employment opportunities for graduates.
-
-🟩
-
-The Attorney General informed the Supreme Court that the teacher is already absorbed into the teacher's work as teachers.
-
-Additional Solicitor General President's Counsel Viraj Dayaratne appearing on behalf of the Attorney General, said:
-
-The notice was carried out by the Attorney General by a resolution between the two parties.
-
-The petition was considered in the face of Manicus Dilip Naaz Shiran Gunaratne and Achala Weelani.
-
-The petition has filed the Supreme Court to file a fundamental movement for many years without investigating the teaching in the teaching work.
-
-The Minister of Education has been nominated as the tables of this petition.
-
-Additional Solicitor General of the Attorney General Viraj Dayaratne, who appeared on behalf of the Attorney General at the courts, has decided to absorb the teacher after conducting an interview with an interview.
-
-The decision was taken with the impeachment conditions made by both parties and the Cabinet of Ministers should obtain the approval.
-
-...
-
-[Data](articles/97758a96.json)
-
-[Extended Data](ext_articles/97758a96.ext.json)
-
----
-
-### Kandy Hotel where the Kasippu Sale Inspector
-
-*2024-07-22 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199095) · `si`
-
-In Kandy, a hotel near the Central Market was raided by the Kandy Division Criminal Investigation Unit, uncovering a Kasippu racket. Two individuals were arrested with eight bottles of Kasippu. The owner and an ex-Special Forces soldier employed at the hotel were also detained. Investigations suggest the operation targeted foreign tourists, offering them alcohol in dollar amounts. The police plan to dismantle similar operations nationwide, starting with the central market area in Kandy.
-
-🟩
-
-The Kandy Division Criminal Investigation Unit (KSEP) Criminal Investigation Unit (22) was revealed to the disclosure of a Kasippu racket over a period of time in a hotel in the Kandy Central Market.
-
-Two persons arrested with eight bottles of Kasippu during that raid.
-
-Police investigations have revealed that the owner and an employee of the hotel had been arrested and the employee had retired from the Special Forces of the Army.
-
-It has been revealed that the suspects have been conducted for a long time to doubt the country to drink in dollars.
-
-The police say that when a buyer arrives at the tea building at the hotel, police said.
-
-Meanwhile, the Kasippu dismantling of the Nattamas will be launched at around 5.00 am at the station of lorries in the middle of the country.
-
-It has been revealed that Rs.
-
-The Kasippu has been conducting the racket for a long time in the central market in Kandy which is visible in Kandy.
-
-◼️
-
-[Data](articles/0ce49847.json)
-
-[Extended Data](ext_articles/0ce49847.ext.json)
-
----
-
-### Definitely the presidential election
-
-*2024-07-22 19:32:44* · [`adalk`](https://www.ada.lk/breaking_news/අනිවාර්යයෙන්ම-ජනපතිවරණය-පවත්වනවා/11-410920) · `si`
-
-President Ranil Wickremesinghe confirmed funds allocation for the upcoming presidential election, assuring its conduct despite challenges. He thanked former President Mahinda Rajapaksa and the Sri Lanka Crown Front for government support, emphasizing readiness to proceed with the election despite difficulties. The President highlighted the tough period the country has endured, stating his government's efforts to address issues while opposition and other groups continue to voice concerns.
-
-🟩
-
-President Ranil Wickremesinghe assured the ruling party group yesterday (22) that the money was allocated for the presidential election.
-
-The President was speaking at the Presidential Board of Government Member of Parliament yesterday (22) at the President's House.
-
-President Ranil Wickremesinghe added that former President Mahinda Rajapaksa and the Sri Lanka Crown Front are thankful for the support of the government.
-
-He said he would definitely hold the Presidential Election even if he was ready to postpone the presidential election.
-
-The last season was a very difficult time and the President said that the country had already paid the difficult time.
-
-The President has said that his government has pointed to the country and the opposition and other groups are still speaking.
-
-◼️
-
-[Data](articles/6fa9d681.json)
-
-[Extended Data](ext_articles/6fa9d681.ext.json)
-
----
-
-### Interest-free loans under agricultural modernization program
-
-*2024-07-22 19:20:20* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂි-නවීකරණ-වැඩසටහන-යටතේ-පොලී-රහිත-ණය/11-410919) · `si`
-
-The Agriculture Navinna Program's first phase includes interest-free loans worth Rs. 650 million for agro-modernization projects across 75 divisions. Banks like Bank of Ceylon, People's Bank, and Regional Development Bank will provide these loans, with government contributions reviewed post-implementation. The loan tenure ranges from six months to five years, depending on the project and borrower type, aiming to boost agriculture through entrepreneur and farmer investments.
-
-🟩
-
-Under the first phase of the Agriculture Navinna Program, the Understanding agreement was signed at the Presidential Secretariat today (22).
-
-Bank of Ceylon and Regional Development Bank and the Secretary of the Ministry of Agriculture and the Secretary of the Ministry of Agriculture and Plantation Industries Janaka Dharmakerthi was signed by the Secretary of the Ministry of Agriculture and Plantation Industries.. Accordingly, agreements will be signed with People's Bank.
-
-Rs. 650 million has been allocated Rs.75 divisions have been identified.
-
-In the implementation of agro-modernization projects in the Divisional Secretariat, the Agricultural entrepreneurs and farmers will contribute to over 70% of the remaining 70%.
-
-...
-
-[Data](articles/50973fb3.json)
-
-[Extended Data](ext_articles/50973fb3.ext.json)
-
----
-
-### President invites foreign employment agencies to collaborate in expanding tourism industry
-
-*2024-07-22 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100706/president-invites-foreign-employment-agencies-to-collaborate-in-expanding-tourism-industry) · `en`
-
-President Ranil Wickremesinghe stated that if foreign employment agencies focus on attracting tourists to Sri Lanka from the countries where they supply labour, including the Middle Eastern countries, the Ministry of Tourism will provide the necessary facilities.
-
-The President made this announcement during the “Abhiman- 2024” event held yesterday (21) at the Epitome Hotel, Kurunegala. During the event, President Wickremesinghe also presented certificates and commemorative gifts to foreign employment agencies that significantly contribute to the country’s economy.
-
-...
-
-[Data](articles/987d5b7f.json)
-
-[Extended Data](ext_articles/987d5b7f.ext.json)
-
----
-
-### The shortage of teacher was resolved by 16,000 teachers
-
-*2024-07-22 19:15:14* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුපත්වීම්-16-000ක්-ලබාදී-ගුරු-හිඟය-විසඳුවා/11-410918) · `si`
-
-In response to the nationwide teacher shortage, the Sri Lankan government recruited 16,000 teachers, addressing both national and provincial needs amidst economic challenges. This move was part of broader efforts to recover from the COVID-19 pandemic under the leadership of President Ranil Wickremesinghe. Additionally, the government secured funding for school uniforms and textbooks for 2025, expanded lunch programs to all schools benefiting 1.7 million students, and resumed development work at the University of Sarani. Efforts are also underway to resolve professional issues for teachers, with support from the Public Service Commission and plans to digitize schools with the help of the Asian Development Bank.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the government was able to address the shortage of 16,000 teachers at national level and provincial level, despite economic hardship.
-
-The Minister said that the government was taken to restore the country in two years and was essential for the country's responsibility for the face of the country when the people were in the face of the difficulty in the history of the country.
-
-Minister of Education Susil Premajayantha made this statement participating at a press conference held at the Presidential Media Center today (22).
-
-...
-
-[Data](articles/f32bbab3.json)
-
-[Extended Data](ext_articles/f32bbab3.ext.json)
-
----
-
-### President invites foreign employment agencies to join the tourism trade
-
-*2024-07-22 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189120) · `ta`
-
-At the "Abhiman 2024" event, President Ranil Wickremesinghe invited foreign employment agencies to leverage their networks to boost Sri Lanka's tourism sector by attracting tourists from countries where Sri Lankans work, especially in the Middle East. He praised their contributions to the economy and urged them to collaborate with the Ministry of Tourism to expand their industry. The President also highlighted the importance of developing the skills of overseas Sri Lankans and creating better employment opportunities for them. He expressed optimism about the country's economic recovery, noting the significant role foreign employment agencies play in sending remittances back home, which helped stabilize the economy despite challenges.
-
-🟩
-
-President Ranil Wickremesinghe said that if foreign employment agencies focus on new business opportunities that will bring tourists from countries sent to Sri Lankan workers, including the Middle East, they can provide the necessary facilities through the Ministry of Tourism.
-
-The President made this statement at the "Abhiman 2024" event held at the Epitom Hotel Complex on Kurunegala on Sunday (21).
-
-President Ranil Wickremesinghe presented certificates and souvenirs to the foreign employment agencies that contribute to the country's economy.
-
-“I would like to thank you on this occasion for two years after taking office as president. If you have not made money for the country that day, the country cannot be brought to this level today. We were in a difficult situation two years ago.
-
-No one believes that the country can recover from the economic crisis. But I believed that this country could be redeemed with people. Unlike other countries, we rescued the country two years ago.
-
-...
-
-[Data](articles/8543dcfb.json)
-
-[Extended Data](ext_articles/8543dcfb.ext.json)
-
----
-
-### Indian team will come
-
-*2024-07-22 18:39:38* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-කණ්ඩායම-එයි/9-410917) · `si`
-
-The Indian cricket team, led by Sun Kumar Yadav, arrived in Sri Lanka today for a limited-overs series. This marks the debut of Gautam Gambhir as India's coach and Sanath Jayasuriya as Sri Lanka's temporary coach.
-
-🟩
-
-Indian team arrived in Sri Lanka this afternoon to join Sri Lanka a limited-odd cricket tournament to be held. The captaincy of the Indian team has been appointed Sun Kumar Yadav.
-
-The tournament is the first tournament of Gautam Gambhir's new coach and Sri Lanka's new temporary coach Sanath Jayasuriya.
-
-◼️
-
-[Data](articles/5683a652.json)
-
-[Extended Data](ext_articles/5683a652.ext.json)
 
 ---

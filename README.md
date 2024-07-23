@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-23 20:06:23**
+As of **2024-07-23 20:20:47**
 
 ## Newspaper Stats
 
-*Scraped **36,823** Articles*
+*Scraped **36,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 2,097
 economynextcom | 2,203
 dailyftlk | 2,336
-adalk | 3,334
+adalk | 3,335
 adaderanalk | 4,265
 tamilmirrorlk | 4,510
 dailymirrorlk | 4,733
 virakesarilk | 5,774
-adaderanasinhalalk | 6,180
+adaderanasinhalalk | 6,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,821 (100.0%) of 36,823 articles have been extended.
+36,823 (100.0%) of 36,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-23 (Tuesday)
+
+### තවත් පිරමීඩ ජාවාරමකට පුද්ගලයන් 5500ක් හසු වෙයි
+
+*2024-07-23 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199134) · `si`
+
+පිරමීඩ ජාවාරමක් හරහා රුපියල් කෝටි 350ක මුදලක් වංචා කළ කාන්තාවක් ඇතුළු තිදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+Ride To Three Freedom Sri Lanka නොහොත් R3F යන යෙදුම මගින් ඩිජිටල් මුදල් භාවිතය හරහා සිදුකරන පිරමීඩ ජාවාරමකින් සිදුකරන මුල්‍ය වංචාවක් පිළිබඳව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය අපරාධ විමර්ශන ඒකකයට පැමිණිලි රැසක් ලැබී තිබුණි.
+
+R3F යෙදුම හරහා විශාල වශයෙන් මුදල් උපයාගත හැකි බවට ජාවාරම්කරුවන් සමාජ මාධ්‍ය ඔස්සේ විවිධ ප්‍රචාර සිදුකර තිබූ අතර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් සිදුකළ විමර්ශනවලදී අනාවරණ වී තිබුණේ ජවාරමට පුද්ගලයන් 5,500ක් පමණ හසුවී ඇති බවය.
+
+මේ හරහා ගිණුම් 31,000ක් පමණ සකස් කර ඇති අතර පාරිභෝගිකයන්ට ජාවාරම්කරුවන් පවසා ඇත්තේ, ආයෝජනය කරන මුදල මෙන්  සිව්ගුණයක් මාස 10කදී උපයාගත හැකි අතර දෛනිකව 1%ක ලාභාංශයක් ලබාගත හැකි බවටය.
+
+මෙම ජාවාරම මගින් තමන් රුපියල් කෝටි 350ක පමණ මුදලක් වංචා කළ බව ප්‍රශ්න කිරීම් හමුවේ සැකකරුවන් අනාවරණ කර තිබුණි.
+
+...
+
+[Data](articles/ffc24f25.json)
+
+---
+
+### ඇමෙරිකාවේ යුද නැවක් කොළඹට
+
+*2024-07-23 19:25:33* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-යුද-නැවක්-කොළඹට/10-410950) · `si`
+
+ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Michael Murphy’ නෞකාව නිල සංචාරයක් සඳහා අද දින (2024 ජුලි 23) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායන්ට අනුකූලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke class of guided missile destroyers වර්ගයට අයත් ‘USS Michael Murphy’ නෞකාව, දිගින් මීටර් එකසිය පනස් පහක් (155) හා නැව් මුළුව තුන්සීය විසි තුනක ගෙන් (323) සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Jonathan B. Greenwald කටයුතු කරනු ලබයි.
+
+එමෙන්ම, ‘USS Michael Murphy’ නෞකාවේ අණදෙන නිලධාරී Commander Jonathan B. Greenwald සහ බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් චින්තක කුමාරසිංහ අතර නිල හමුවක් අද දින (2024 ජුලි 23) බටහිර නාවික විධාන මූලස්ථානයේදී පැවැත්වීමට කටයුතු කෙරුණු අතර, එම අවස්ථාව සනිටුහන් කරමින් දෙපාර්ශවය අතර සමරු තිළිණ හුවමාරුවක්ද සිදුකෙරිණි.
+
+...
+
+[Data](articles/d79f7e8c.json)
+
+---
 
 ### Doctor Ramanathan Arsuna becomes a medical officer to Peradeniya Hospital
 
@@ -176,19 +212,27 @@ It is noteworthy that the rescue personnel are continuing to rescue people affec
 
 ---
 
-### කාරණා දෙකකට ඇමති විජයදාස සමාව ඉල්ලයි
+### Minister Wijayadasa apologized to two matters
 
 *2024-07-23 18:19:09* · [`adalk`](https://www.ada.lk/breaking_news/කාරණා-දෙකකට-ඇමති-විජයදාස-සමාව-ඉල්ලයි/11-410943) · `si`
 
-කෝවිඩ් සමයේ මුස්ලිම් ජනතාවගේ මෘත දේහ ආදාහනය කිරීමට ගත් තීරණය පිළිබඳව මුස්ලීම් ජනතාවගෙන් සහ වසර 41ට පෙර කලු ජූලිය අවස්ථාවේ මෙරට දෙමළ ජනතාවට සිදුවූ සිද්ධීන් පිළිබඳව සමාව අයැද සිටින බව අධිකරණ, බන්ධනාගාර කටයුතු  හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවසීය.
+Minister Wijayadasa Rajapaksa, in Parliament, apologized for the forced cremations of Muslims during the 1983 Black July riots, stating he and other ministers had submitted a proposal to apologize to the Muslim community. He expressed regret over the incident, emphasizing his responsibility as a law minister to acknowledge the wrongs of the past.
 
-පාර්ලිමේන්තුවේදී අද (23දා) ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සඳහන් කළේය. එහිදී වැඩිදුරටත් අමාත්‍ය විජයදාස රාජපක්ෂ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+🟩
 
-"අද දිනය  කැලැන්ඩරයට එකතුවෙලා තියෙන්නේ ඉතිහාසයේ කලු පැල්ලමක් එකතු වුණු කළු ජූලිය දිනය විදියට. ඊයේ දිනයේදී අපි කැබිනට් මණ්ඩලයට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කළා මමත්, විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතාත්, ඒ වගේම අමාත්‍ය තොන්ඩමන් මහතාත්. කෝවිඩ් කාලයේ ඉස්ලාම් භක්තික ජනතාවගේ මරණ ආදාහනය කිරීමේදී අනුගමනය කළ බලහත්කාර ප්‍රතිපත්තිය පිළිබඳ. ඒ පිළිබඳ පූර්ණ විද්‍යාත්මක පරීක්ෂණයක් කරලා ජල සම්පත් අමාත්‍යාංශයෙන් දීපු වාර්තාව පදනම් කරගෙන අපි ඒක ඉදිරිපත් කළේ.
+Minister of Justice and Constitutional Reforms, Minister Wijayadasa Rajapaksa said that the decision to cremation of the mosques of the Muslim in the crowd during the cities of the Muslim July 41 years ago.
+
+He made this statement in Parliament today (23).. The Minister Wijayadasa Rajapakse said:
+
+"Today's clailand has joined the Black July day, which was collected in history. We presented a cabinet paper yesterday and I and Minister of External Affairs Ali Sabri and Minister Tandaraman. On the forced policy adopted in the death cremation of the people of the Islamic people during the covard. We submitted it based on the report from the Ministry of Water Resources by the Ministry of Water Resources.
+
+We submit a proposal to apologize to the cabinet to apologize to the cabinet to the Cabinet of Islamic. We express regret all people. Although we are not responsible for it, we have not taken the position of that government, but we are expressing our regret about what happened at the time.
 
 ...
 
 [Data](articles/d9ef27cb.json)
+
+[Extended Data](ext_articles/d9ef27cb.ext.json)
 
 ---
 
@@ -242,19 +286,35 @@ The   Organisation of Islamic Cooperation (OIC) which includes Islamic states 
 
 ---
 
-### අනුලා සෑයේ කැණීම්වලට මිහින්තලා රජමහා විහාරාධිපතිගේ දැඩි විරෝධයක්
+### Mihintaila Raja Maha Viharaya a heavy protester to the excavation of Anula
 
 *2024-07-23 18:05:43* · [`adalk`](https://www.ada.lk/breaking_news/අනුලා-සෑයේ-කැණීම්වලට-මිහින්තලා-රජමහා-විහාරාධිපතිගේ-දැඩි-විරෝධයක්/11-410942) · `si`
 
-මල්වතු මහා විහාර පාර්ශවයට අයත් මිහින්තලේ අනුලා සෑයේ කැනීම් කටයුතු සිදුකිරීම සඳහා මල්වතු මහනාහිමියන් දැනුවත් නොකර පුරාවිද්‍යා දෙපාර්තමේන්තුව විසින් වෙනත් පාර්ශවයක් සමග ගිවිසුමකට එළඹීම සම්බන්ධයෙන් මිහින්තලා රජ රජමහා විහාරාධිපති පූජ්‍ය වලවා හැංගුණවැවේ ධම්මරතන හිමියන්ගේ දැඩි විරෝධයක් එල්ල වී තිබේ .
+Mihintale Raja Maha Viharaya opposed the excavation of Anula, involving the Chief Incumbent of the Department of Archaeological, Dhammaratana Thero, who denied any financial irregularities. The issue was reported to the President and the Director General of Archaeology. Despite concerns about adhering to traditional procedures, the Director General, Thusitha Mendis, stated that transferring an archaeological reserve site wasn't possible without cabinet approval for research and conservation work.
 
-අනුලා තෙරණියන්ගේ ධාතුන්වහන්සේලා තැන්පත් කොට මීට වසර දෙදහසකටත් පෙර ඉදිකොට ඇති අනුලා මහා සෑයේ සිදුකෙරෙන එම කැණීම් කටයුතු සම්බන්ධයෙන් වලවාහැංගුනවැවේ ධම්මරතන හිමියන් විසින් මල්වතු මහනාහිමියන් දැනුවත් කිරීමෙන් අනතුරුව ඒ සම්බන්ධයෙන් කරුණු විමසීම සඳහා පුරාවිද්‍යා අධ්‍යක්ෂ ජනරාල්වරයා මල්වතු මහනාහිමියන් විසින්කැඳවා තිබූ අතර එම අවස්ථාවට මිහින්තලා රජමහා විහාරාධිපති හිමියන්ද සහභාගිවී සිටියහ .
+🟩
 
-එහිදී පූජ්‍ය වලවාහැංගුනවැවේ ධම්මරතන හිමියන්පවසා සිටියේ පුරාවිද්‍යා දෙපාර්තමේන්තුව නාගානන්ද ජාත්‍යන්තර බෞද්ධ ආයතනය සමඟ ගිවිසුමකට එළැඹෙමින් මෙහි සංරක්ෂණ කටයුතු ආරම්භ කොට ඇති බවත් එම සංරක්ෂණ කටයුතුවලට මුදල් ලැබෙන්නේ කෙසේදැයි කිසිවෙකුත් නොදන්නා බවත් දැනට රුපියල් මිලියන 300ක මුදලක් වැය වී තිබෙන බව පවසන බවත්ය .
+The Chief Incumbent of the Department of Archaeological, Ven.
 
-...
+The Miwanthi Raja Maha Viharaya was also taken by the Mihintale Raja Maha Viharaya to consult the Miwanthi Rajamaha Viharaya.
+
+Dhammaratana Thero, Ven.
+
+He said that he had no audit regarding money.
+
+As a result, the Mahalanayake Thera has informed the President and the Director General of Archeology.
+
+Mihintala, Mihintala, said that the activities of the white nationals have been handed over to the Department of Archeology, but the work should be done in accordance with the procedure of the Sasani tradition.
+
+The Director General of Archeology Thusitha Mendis said that the Director General of Archeology was not able to transfer an archaeological reserve site.
+
+The agreement to carry out research and conservation work at the relevant places is also done by taking advice on a cabinet paper.
+
+◼️
 
 [Data](articles/a33d96cd.json)
+
+[Extended Data](ext_articles/a33d96cd.ext.json)
 
 ---
 
@@ -2339,33 +2399,5 @@ It was also revealed that the main reason for the largest reason for not adding 
 [Data](articles/0a8127c0.json)
 
 [Extended Data](ext_articles/0a8127c0.ext.json)
-
----
-
-### Tamil Leader Sampanthan: Last of a Generation Leaves without Succession
-
-*2024-07-23 10:37:00* · [`islandlk`](http://island.lk/tamil-leader-sampanthan-last-of-a-generation-leaves-without-succession/) · `en`
-
-R. Sampanthan MP, the accredited Tamil political leader for the last fifteen years, passed away on June 30, 2024. I am late in writing this obituary. There have been many commentaries on Sampanthan’s life and politics, including Sanjana Hattotuwa’s excellent cross-sectional summary (in Groundviews) of the commentaries on the late parliamentarian and political leader. Along with citing Meera Srinivasan and Narendra Modi, Dr. Hattotuwa presents what he calls “snapshots from a divided country.” Most of them are from social media, ranging from the laudatory, through critical but not disrespectful, to obscenely insulting commentaries. The last category of comments appeared in Sinhala on Facebook and Twitter. They say more about the social media than the message and should not be taken as representative of the broader Sinhalese society. Mr. Sampanthan would have been the first to emphasize that.
-
-...
-
-[Data](articles/82e6397c.json)
-
-[Extended Data](ext_articles/82e6397c.ext.json)
-
----
-
-### Ranil As The Pohottuwa Presidential Candidate
-
-*2024-07-23 10:27:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-as-the-pohottuwa-presidential-candidate/) · `en`
-
-President Ranil Wickremesinghe (RW) was appointed to that position through the votes of the Sri Lanka Podujana Peramuna (Pohottuwa) MPs in Parliament in a situation where the restoration of law and order was the main issue at hand. He has fulfilled that task exceptionally well. His task was made easier because the so called aragalaya sought only the removal of President Gotabaya Rajapaksa from power. When President Gotabaya resigned, large segments of the aragalaya crowds simply melted away. The UNP’s own activists in the aragalaya, the foreign funded NGOs, the Tamil and Muslim groups, the Christian and Catholic groups all left the Galle Face protest site. Hence only a residual group of activists remained at Galle Face to be chased away by President Wickremasinghe within hours of being sworn into office.
-
-...
-
-[Data](articles/7781a481.json)
-
-[Extended Data](ext_articles/7781a481.ext.json)
 
 ---

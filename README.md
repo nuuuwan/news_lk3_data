@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 10:35:43**
+As of **2024-07-24 10:54:22**
 
 ## Newspaper Stats
 
-*Scraped **36,928** Articles*
+*Scraped **36,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,203
 dailyftlk | 2,358
-adalk | 3,346
+adalk | 3,347
 adaderanalk | 4,277
-tamilmirrorlk | 4,529
+tamilmirrorlk | 4,530
 dailymirrorlk | 4,733
 virakesarilk | 5,785
 adaderanasinhalalk | 6,197
@@ -26,25 +26,49 @@ adaderanasinhalalk | 6,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,927 (100.0%) of 36,928 articles have been extended.
+36,928 (100.0%) of 36,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### රාජ්‍ය හා පෞද්ගලික කර්මාන්ත ශාලාවල සෞඛ්‍ය අවදානමක්
+### விபத்தில் ஒருவர் பாலி, மூவர் காயம்
+
+*2024-07-24 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஒருவர்-பாலி-மூவர்-காயம்/175-340939) · `ta`
+
+ஹம்பாந்தோட்டை - சூரிய வெவ 100 அடி வீதியில் மோட்டார் சைக்கிள் ஒன்றும் கடற்படைக்கு சொந்தமான கெப் ரக வாகனமொன்றும் நேருக்கு நேர் மோதியதில் ஒருவர் உயிரிழந்துள்ளார்.
+
+விபத்தில் மேலும் மூவர் காயமடைந்து ஹம்பாந்தோட்டை மாவட்ட ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக ஹம்பாந்தோட்டை பொலிஸார் தெரிவித்தனர்.
+
+மேலும் , உயிரிழந்தவர்கள் மற்றும் காயமடைந்தவர்கள் ஹம்பாந்தோட்டை மான்ஜ்ஜாவ பிரதேசத்தை சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c4e029da.json)
+
+---
+
+### Health risk at public and private factories
 
 *2024-07-24 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199151) · `si`
 
-රාජ්‍ය ආයතන සහ පෞද්ගලික කර්මාන්ත ශාලාවල ඩෙංගු මදුරු කීට ඝනත්වය ශීඝ්‍ර ලෙස ඉහළ ගොස් ඇති බව කීට විද්‍යා සමීක්ෂණ නිලධාරීන්ගේ සංගමය පවසයි.
+Dengue cases are rising, especially around government institutions and private factories due to higher mosquito densities. The chairman of a company has announced plans to conduct specialized surveys in high-risk areas and deploy 60 state repression officers to tackle the issue.
 
-එහි සභාපති නජිත් සුමනසේන මහතා සඳහන් කළේ, දැඩි අවදාම් සහිත බවට හඳුනාගත් ප්‍රදේශවලට විශේෂ කීට විද්‍යා සමීක්ෂණ සිදුකිරීමට පියවර ගන්නා බවය.
+🟩
 
-"මේ වනවිට රට පුරා ඩෙංගු රෝගීන් ව්‍යාප්ත වෙමින් පවතිනවා. රෝගීන් සංඛ්‍යාව මේ වෙද්දි 30,500ක් විතර ලංකාවෙන්ම වාර්තා වෙලා තියෙනවා. දොළොස්දෙනෙක් විතර මේ වෙද්දි මිය ගිහින් තියෙනවා. සමීක්ෂණ දත්ත අනුව නිවාස ආශ්‍රිත මදුරු ඝනත්වයට වඩා රාජ්‍ය ආයතන රාජ්‍ය නොවන ව්‍යාපාරික, කර්මාන්ත ශාලා වැනි පොදු ස්ථානවල ඩෙංගු මදුරු කීටයින් බහුලට බවට හඳුනාගෙන තියෙනවා. එම ප්‍රදේශවල 22, 23 හා 24 දින තුනේ විශේෂ කීට විද්‍යා සමීක්ෂණ වැඩසටහනක් ක්‍රියාත්මක කළා. ඒ අනුව අපි හඳුනාගත්තා වැඩිම මදුරු කීටයින් බෝවෙන රාජ්‍ය ආයතනය එහෙම නැත්නම් පොදු ස්ථාන හඳුනාගෙන ඒවා මර්දනය කිරීම සිකුරාදා සහ සෙනසුරාදා දිනයන්හි සිදුකරනවා."
+The dengue mosquito lagoon has increased the dengue density of the dengue mosquitoes in government institutions and private factories.
 
-...
+Chairman of the company Njith Sumanassana said that steps will be taken to conduct specialist surveys to areas identified as severe avenues.
+
+"Dengue patients are spread throughout the country at present. The number of patients has been reported from the country about 30,500. About twelve people have died. According to survey data, the dengue mosquito larvae in public places such as state institutions such as state organizations, industries, industries, are more commonplace than home-based mosquito density. A special entomological survey program of three areas in these areas. Accordingly, we have identified the highest mosquito larvae in the infectious state agency, or the suppression on Saturdays. "
+
+The Nagith Sumanasena said that 60 state repressive officers have already been deployed in these vulnerabilities.
+
+◼️
 
 [Data](articles/c731cbd5.json)
+
+[Extended Data](ext_articles/c731cbd5.ext.json)
 
 ---
 
@@ -67,6 +91,18 @@ The suspect was a 32 year old resident of Piliyandala, a 32 year old resident of
 [Data](articles/1fd14b5d.json)
 
 [Extended Data](ext_articles/1fd14b5d.ext.json)
+
+---
+
+### දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයේ කටයුතු කිරීම වළක්වාලමින් තහනම් නියෝගයක්
+
+*2024-07-24 10:01:04* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකෝන්-මහතා-පොලිස්පති-ධුරයේ-කටයුතු-කිරීම-වළක්වාලමින්-තහනම්-නියෝගයක්/11-410957) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ. ඔහු පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අති ඉදිරිපත් කර ඇි මූලික අයිතිවාසිකම් පෙත්සම් 09 ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/61b18403.json)
 
 ---
 
@@ -116,13 +152,19 @@ The Supreme Court has issued the order to investigate fundamental rights violati
 
 *2024-07-24 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100739/interim-order-issued-against-deshabandu-functioning-as-igp) · `en`
 
-The Supreme Court has issued an interim order preventing Deshabandu Tennakoon from functioning as the Inspector General of Police (IGP).
+The Supreme Court today issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the Inspector General of Police (IGP).
 
-The Supreme Court issued this order after granting leave to proceed with the nine petitions filed by several parties including Cardinal Malcolm Ranjith challenging the decision to appoint Tennakoon as the IGP.
+The Supreme Court issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging the decision to appoint Tennakoon as the IGP.
 
 The petitioners had sought an interim order restraining Deshabandu Tennakoon from discharging the duties and functioning in the office of IGP.
 
-◼️
+The fundamental rights (FR) petitions filed challenging the appointment of Deshabandu Tennakoon as IGP were taken up once again today (24).
+
+The Supreme Court on July 18 concluded considering the FR petitions filed challenging the appointment of Tennakoon as the IGP.
+
+Accordingly, the court had then announced that the decision as to whether or not the petitions will be taken up for hearing will be delivered today (24).
+
+...
 
 [Data](articles/ac534e9b.json)
 
@@ -2213,51 +2255,5 @@ Meanwhile, the approval of the parliament was also approved by Parliament for or
 [Data](articles/8d735bc9.json)
 
 [Extended Data](ext_articles/8d735bc9.ext.json)
-
----
-
-### The artistic events and conversations of the artists who are marginalized
-
-*2024-07-23 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189212) · `ta`
-
-An art event in Batticaloa celebrated Eastern culture, focusing on revivalist creations and challenges faced by local artists. The event highlighted the importance of recognizing the community and its contributions through music, particularly Nadar Songs. It aimed to foster understanding among ethnic groups, emphasizing the role of art in bridging communities.
-
-🟩
-
-The art event and conversations of the East were held in Batticaloa on Tuesday (23).
-
-Eastern University Vice Chancellor Vallipuram Kanagasingham was the chief guest at the event, chaired by Mrs. Indumathi Harikara Motharan at the Batticaloa Swami Vipulananda Institute.
-
-The event was inaugurated with the welcome of Balasingham Muralitharan, the Senior Officer of the Vidyuttu Organization, with the topic of the two decades of the East, the revivalist creation, the challenges of the revival artists, the recognition of the community and the music of the Nadar Songs and the role of the role of the role.
-
-It is noteworthy that the Vidyalaya organization has been working on the construction of ethnic groups and mutual relationships in the region.
-
-◼️
-
-[Data](articles/adc5ac4e.json)
-
-[Extended Data](ext_articles/adc5ac4e.ext.json)
-
----
-
-### Rs. Rs. 160,000 Treasury Bills auction
-
-*2024-07-23 18:33:58* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--160-000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-410946) · `si`
-
-The Central Bank of Sri Lanka is holding a Treasury Bill auction for Rs. 240 million, with payments due on July 26.
-
-🟩
-
-The Central Bank of Sri Lanka has taken measures to hold a Treasury bill auction of Rs. 240 million.
-
-The Central Bank says that the Treasury bills of Rs.
-
-The Treasury bill issuance and payment of payments will be made on July 26.
-
-◼️
-
-[Data](articles/47650429.json)
-
-[Extended Data](ext_articles/47650429.ext.json)
 
 ---

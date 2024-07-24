@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 09:20:34**
+As of **2024-07-24 09:35:33**
 
 ## Newspaper Stats
 
-*Scraped **36,910** Articles*
+*Scraped **36,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,97 @@ bbccomsinhala | 359
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,203
-dailyftlk | 2,356
-adalk | 3,342
-adaderanalk | 4,274
-tamilmirrorlk | 4,525
+dailyftlk | 2,358
+adalk | 3,343
+adaderanalk | 4,275
+tamilmirrorlk | 4,527
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,192
+adaderanasinhalalk | 6,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,909 (100.0%) of 36,910 articles have been extended.
+36,910 (100.0%) of 36,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### 1,700 ரூபாய் சம்பள அதிகரிப்பு தொடர்பான வர்த்தமானி ரத்து
+
+*2024-07-24 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பள-அதிகரிப்பு-தொடர்பான-வர்த்தமானி-ரத்து/175-340931) · `ta`
+
+தோட்டத் தொழிலாளர்களுக்கான 1,700  ரூபாய் சம்பள அதிகரிப்புக்கான வர்த்தமானி அறிவித்தலை தொழில் அமைச்சு இரத்துச் செய்து வர்த்தமானி அறிவித்தல் ஒன்று வெளியிடப்பட்டுள்ளது.
+
+இதன்படி, பெருந்தோட்டத் தொழிலாளர்களின் நாளாந்த சம்பளமான 1700 ரூபாவை சம்பளச் சபையின் ஊடாக வழங்குவதற்கு பணிப்புரை வழங்கப்பட்டுள்ளதாக தொழில் அமைச்சு அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/2d395bd7.json)
+
+---
+
+### ஆள்மாறாட்டம் - யாழில் சட்டத்தரணி கைது
+
+*2024-07-24 09:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆள்மாறாட்டம்-யாழில்-சட்டத்தரணி-கைது/71-340930) · `ta`
+
+ஆள்மாறாட்டம் தொடர்பான வழக்கில் யாழ்ப்பாணம் - உடுவில் பகுதியைச் சேர்ந்த சட்டத்தரணியொருவர் நேற்று கைது செய்யப்பட்டார்.
+
+யாழ்ப்பாணம் பிராந்திய விசேட குற்ற விசாரணைப் பிரிவு பொலிஸாரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+கைதான சட்டத்தரணி சாவகச்சேரி நீதவான் நீதிமன்றத்தில் முற்படுத்தப்பட்டநிலையில் 10 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணையில் விடுவிக்கப்பட்டார்.
+
+அத்துடன் சட்டத்தரணியின் அலுவலகத்தில் இருந்த மூன்று கணிணிகளையும் பகுப்பாய்வு விசாரணைக்குட்படுத்த நீதிமன்றம் உத்தரவிட்டது.
+
+இத்தாலியைச் சேர்ந்த பெண்ணொருவர், யாழ்ப்பாணத்துக்குத் திரும்பி விவாகரத்துக்கு விண்ணப்பிக்கச் சென்றபோது, அவர் ஏற்கனவே விவாகரத்துப் பெற்றுள்ளார் என்று தரவுகள் வெளிக்காட்டியுள்ளன.
+
+அந்தப் பெண் அதுவரை விவாகரத்துக்கு விண்ணப்பிக்காத நிலையில், இது தொடர்பில் பொலிஸாரிடம் முறையிட்டுள்ளார்.
+
+பொலிஸ் விசாரணைகளில், உடுவில் பகுதியில் உள்ள சட்டத்தரணியொருவர் கனிஷ்ட சட்டத்தரணிகள் மூலமாக ஆள்மாறாட்டம் செய்து , மேற்படி தம்பதியர்கள் விவாகரத்துப் பெற்றுக்கொள்வதாக நீதிமன்ற நடவடிக்கைகள் முன்னெடுக்கப்பட்டமை தெரியவந்தது.
+
+...
+
+[Data](articles/147df7ef.json)
+
+---
+
+### සෞඛ්‍ය අමාත්‍යාංශයේ දුෂණ විමර්ශන නිලධාරීන් 27කගේ තැන් මාරුවෙයි
+
+*2024-07-24 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199147) · `si`
+
+සෞඛ්‍ය අමාත්‍යාංශයේ දූෂණ විමර්ශන අංශයේ නිලධාරීන් 27 දෙනෙකුට ස්ථාන මාරුවීම් ලබාදීමට පියවර ගෙන ඇති බව සෞඛ්‍ය වෘත්තීයවේදීන්ගේ විද්වත් සංගමය පවසයි.
+
+එහි සභාපති රවී කුමුදේශ් මහතා පවසන්නේ, මෙම තත්ත්වය තොරතුරු සැඟවීමේ උත්සහායක් බවට සැකයක් පවතින බවය.
+
+"සෞඛ්‍ය සේවයේ විතරක් නෙමෙයි රාජ්‍ය සේවය තුළත් දුෂණ වංචා රැසක් තියෙනවා හෙළිදරව් කිරීමට නිලධාරීන්ට නොහැකි වෙලා තියෙනවා. නීතිය පැහැදිලි වෙන්න ඕනේ. අද අපි මේක ගැන කතා කරනකොට සෞඛ්‍ය අමාත්‍යාංශයේ විමර්ශන අංශයේ 30 දෙනාගේ 27ක් මාරු කරලා. එක්කෝ එයාලව මාරු කරලා තියෙන්නේ එයාලගෙන් වැරදි වෙච්ච බව සෞඛ්‍ය ලේකම්වරයා පිළිගත්ත නිසා වෙන්න ඕනේ. එහෙම නම් ඒ අයට දඬුවමක් තියෙන්න ඕනේ. එහෙම නැත්නම් පහුගිය තොරතුරු දන්න අයව මාරු කරලා හොයා ගන්න බැරි තත්ත්වයක් උදා කරනවා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට. මේ අමාත්‍යාංශයේ 27ක් මාරු කිරීම තුළ තොරතුරු සැඟවීමේ අවශ්‍යතාවයක් තිබිය යුතුයි."
+
+◼️
+
+[Data](articles/a03155ed.json)
+
+---
+
+### ‘Red’ alert issued over strong winds and rough seas
+
+*2024-07-24 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100737/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ colour advisory for strong winds and rough seas for naval and multi-day fishermen communities in the Arabian Sea and Bay of Bengal.
+
+As per the warning, very strong winds of about 70-80 kmph, and very rough seas are likely over the Arabian Sea area (in sea areas bounded by 10N - 23N and 55E – 72E) and Bay of Bengal (in sea areas bounded by 13N - 21N and 87E – 93E) due to the active south-west monsoonal condition.
+
+Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ colour on the map below, until further notice.
+
+Those who are out at aforementioned sea regions are advised to return to coasts or move to safer areas immediately.
+
+Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/7f370f72.json)
+
+---
 
 ### O/L exam results to be released in September
 
@@ -156,7 +230,13 @@ Accordingly, the Ministry of Labor has announced that Rs.
 
 *2024-07-24 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100733/gazette-increasing-daily-wage-of-plantation-workers-cancelled) · `en`
 
-The Labour Ministry has issued a Gazette cancelling the previous Gazette notification issued increasing the daily wage of plantation workers to Rs. 1,700 and directing the payments to be made through the Wages Board.
+The Labour Ministry has issued a new Gazette cancelling the previous Gazette notification which had been issued increasing the daily wage of plantation workers to Rs. 1,700.
+
+Meanwhile, the new Gazette has been issued directing the payments to be made through the Wages Board.
+
+The Minister of Labor had previously issued a Gazette notification setting the minimum daily wage of a plantation worker at Rs. 1,350, together with an allowance of Rs. 300 and another allowance of Rs. 80.
+
+However, 21 plantation companies including Agarapatana Plantations Ltd., had filed a petition seeking a writ order invalidating the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers.
 
 ◼️
 
@@ -312,6 +392,20 @@ Two years ago, Sri Lanka was in a complete state of anarchy. The nation was unde
 
 ---
 
+### Ranil Wickremesinghe: the pragmatic leadership during challenging times
+
+*2024-07-24 05:47:01* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/4-764663) · `en`
+
+No political leader has been subjected to vilification and character assassination like RW in the history of this country
+
+Two years ago, Sri Lanka was in a complete state of anarchy. The nation was undergoing its worst economic and political crisis in its contemporary history. People died while they were languishing in long queues to buy fuel, powdered milk, gas cylinders, and various other essentials. Schools and universities were not functioning, and the future of the youth and children appeared bleak. The first half of 2022 was one of the most unfortunate periods in the history of the island, characterised by despair, grief, and severe turmoil, which nobody in the country even wants to recall.
+
+...
+
+[Data](articles/c0f5964c.json)
+
+---
+
 ### Critical points for COPF review of proposed enactment of the Economic Transformation Bill
 
 *2024-07-24 05:44:17* · [`dailyftlk`](https://www.ft.lk/columns/Critical-points-for-COPF-review-of-proposed-enactment-of-the-Economic-Transformation-Bill/4-764662) · `en`
@@ -383,6 +477,22 @@ Washington Exa-miner’s report by Brady Knox that US Vice President and Democra
 [Data](articles/41bfa4fa.json)
 
 [Extended Data](ext_articles/41bfa4fa.ext.json)
+
+---
+
+### Soul Sounds Academy Triumphs at 13th Bali International Choir Festival 2024
+
+*2024-07-24 05:14:53* · [`dailyftlk`](https://www.ft.lk/front-page/Soul-Sounds-Academy-Triumphs-at-13th-Bali-International-Choir-Festival-2024/44-764657) · `en`
+
+Twenty-five young soloists from Sri Lanka’s Soul Sounds Academy excelled at the 13th Bali International Choir Festival 2024, winning 17 gold medals and 8 silver medals in the solo categories.
+
+Competing in both Children’s Solo and Youth Solo categories, these talented performers showcased their exceptional skills. Their success was achieved under the expert guidance of renowned musician Soundarie David Rodrigo, along with vocal trainers Shivanthi Subramaniam and Shenuk Wijesinghe, who ensured their performances were outstanding.
+
+Soul Sounds Academy is committed to nurturing young talent, providing numerous opportunities for these young artists to perform on local and international stages. The academy takes immense pride in celebrating the achievements of all its medallists and their remarkable journey so far.
+
+◼️
+
+[Data](articles/044e4994.json)
 
 ---
 
@@ -1648,6 +1758,22 @@ Although the complaints sent by those companies are sent by the Speaker, the app
 
 ---
 
+### පාසල් පෙළපොත් ගබඩාවට නිකුත් කරයි
+
+*2024-07-23 19:31:43* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පෙළපොත්-ගබඩාවට-නිකුත්-කරයි/11-410951) · `si`
+
+2025 වර්ෂයට අදාළ පාසල් පෙළපොත් ඊයේ (23දා) දිනයේදී ප්‍රාදේශීය ගබඩාවලට නිකුත් කිරීම ආරම්භ කළ බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+එමෙන්ම ලබන වර්ෂයට අදාළ පාසල් නිලඇඳුම් සියල්ල චීන රජය විසින් සැපයීමට එකඟතාව පළකර ඇති බවද අමාත්‍යාංශය ප්‍රකාශ කරයි.
+
+ගුරු වැටුප් වර්ධක ප්‍රමාදයකින් තොරව ලබාදීමට කටයුතු කරන බවත්ගුරු වෘත්තීය ගැටලු සමාලෝචනය කර ඒවා නිරාකරණය කිරීමටද රජය මේ වන විට පියවර ගෙන ඇති බවත් අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි. දුෂ්කරතා හමුවේ වුවත් ගුරුපත්වීම් 16,000ක් ලබා දී ඇති බවද අමාත්‍යවරයා ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/ab842893.json)
+
+---
+
 ### US ship in the United States to Colombo
 
 *2024-07-23 19:25:33* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-යුද-නැවක්-කොළඹට/10-410950) · `si`
@@ -1856,19 +1982,25 @@ It is noteworthy that the Vidyalaya organization has been working on the constru
 
 ---
 
-### රු. මි. 160,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක්
+### Rs. Rs. 160,000 Treasury Bills auction
 
 *2024-07-23 18:33:58* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--160-000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-410946) · `si`
 
-රුපියල්  මිලියන 160,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් ජූලි 24 දා පැවැත්වීමට ශ්‍රී ලංකා මහ බැංකුව කටයුතු යොදා තිබේ.
+The Central Bank of Sri Lanka is holding a Treasury Bill auction for Rs. 240 million, with payments due on July 26.
 
-මෙහිදී දින 91 න් කල් පිරෙන රුපියල් මිලියන 45000 ක  භාණ්ඩාගාර බිල්පත් ද දින 182 න් කල් පිරෙන රුපියල් මිලියන 45000 ක භාණ්ඩාගාර බිල්පත්ද දින 364 න් කල් පිරෙන රුපියල් මිලියන 70000 ක  භාණ්ඩාගාර බිල්පත්ද නිකුත් කරන බව මහ බැංකුව පවසයි.
+🟩
 
-මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා මුදල් ගෙවීමේ කටයුතු ජූලි 26 දා සිදුකිරීමට නියමිතය.
+The Central Bank of Sri Lanka has taken measures to hold a Treasury bill auction of Rs. 240 million.
+
+The Central Bank says that the Treasury bills of Rs.
+
+The Treasury bill issuance and payment of payments will be made on July 26.
 
 ◼️
 
 [Data](articles/47650429.json)
+
+[Extended Data](ext_articles/47650429.ext.json)
 
 ---
 
@@ -2137,165 +2269,5 @@ However, a spokesman for the Election Commission stated that the gazette is issu
 [Data](articles/b3821e6a.json)
 
 [Extended Data](ext_articles/b3821e6a.ext.json)
-
----
-
-### Years of buds at a secret meeting for Ranil
-
-*2024-07-23 17:33:41* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-දිස්ත්‍රීක්-නායකයෝ-12-ක්-රනිල්-වෙනුවෙන්-රහසිගත-හමුවක/11-410939) · `si`
-
-Leaders from 12 districts of the Sri Lanka Public Front plan to oppose the upcoming presidential election, as discussed in a meeting led by a State Minister in Colombo. The decision supports Ranil Wickremesinghe, despite him not aligning with the majority view within the UNP. This move is backed by around 75 parliamentary members, aiming to organize a district-level election campaign for Wickremesinghe.
-
-🟩
-
-According to political sources, the leaders of 12 districts of the Sri Lanka Public Front have decided to take action against the presidential election.
-
-According to the sources, a special discussion held at the house of a State Minister at Malalasekera Mawatha, Colombo yesterday.
-
-If the party has been decided by the UNP, Ranil Wickremesinghe, who is named after the UNP is named outside the majority views.
-
-According to the sources, they have been supported by nearly 75 buds representing parliament.
-
-It has also been decided to carry out the necessary organizations to implement the election campaign to implement Ranil Wickremesinghe's election campaign in the district level.
-
-◼️
-
-[Data](articles/2fde0280.json)
-
-[Extended Data](ext_articles/2fde0280.ext.json)
-
----
-
-### Fireworks erupt in parliament over Sri Lanka’s VFS Global controversy
-
-*2024-07-23 17:28:00* · [`economynextcom`](https://economynext.com/fireworks-erupt-in-parliament-over-sri-lankas-vfs-global-controversy-173423/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s parliament erupted in heated debate after government legislators raised a privilege issue against Committee on Public Finance Chair Harsha de Silva, who last week tabled report on a controversial visa deal with the IVS-GBS–VFS Global, consortium.
-
-Justice Minister Wijedasa Rajapaksa questioned the propriety of raising a privilege issue against a Committee chairman, who was acting under powers derived from the Constitution, saying it amounted to challenging the Speaker himself.
-
-Related Sri Lanka visa deal with IVS-VFS be cancelled or revised, forensic audited: COPF Chief
-
-Sri Lanka’s Department of Immigration had awarded a visa issuing monopoly to IVS-GBS-VFS Global without tender which was charging 25 dollars per visa compared to an earlier 1 dollar by Mobitel, and it should be terminated or revised, de Silva said presenting a report earlier this month.
-
-...
-
-[Data](articles/e4333cae.json)
-
-[Extended Data](ext_articles/e4333cae.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 303.70/80 to US dollar
-
-*2024-07-23 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-70-80-to-us-dollar-173426/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.70/80 to the US dollar on Tuesday, from 304.00/20 to the US dollar on Monday, dealers said, while bond yields were broadly stable.
-
-A bond maturing on 15.12.2026 closed stable at 10.40/50 percent.
-
-A bond maturing on 15.12.2027 closed at 11.55/65 percent, down from 11.60/70 percent.
-
-A bond maturing on 01.05.2028 closed stable at 11.80/90 percent.
-
-A bond maturing on 15.09.2029 closed at 12.05/15 percent, at 12.00/10 percent.
-
-A bond maturing on 01.12.2031 closed at 12.40/50 percent. (Colombo/Jul23/2024)
-
-◼️
-
-[Data](articles/b18008a5.json)
-
-[Extended Data](ext_articles/b18008a5.ext.json)
-
----
-
-### Sri Lankans gold medals at Bali International Championship
-
-*2024-07-23 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199130) · `si`
-
-At the 13th Bali International Singing Competition, 25 young singers from Sri Lanka's Soul Sounds Academy won 17 gold and 8 silver medals under the guidance of trainers Shivanthi Subramaniam and Shivik Wijesinghe.
-
-🟩
-
-25 young singing competitors of the Sri Lanka Soul Sounds of the Academy have won 17 gold medals (CHOIR) and eight silver medals.
-
-They were trained by Shivanthi Subramaniam and Shivik Wijesinghe, music in music.
-
-The competitors were present at the 13th Bali International singing.
-
-◼️
-
-[Data](articles/7e9a3f44.json)
-
-[Extended Data](ext_articles/7e9a3f44.ext.json)
-
----
-
-### Sri Lanka stocks close up, activity levels subdued
-
-*2024-07-23 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-activity-levels-subdued-173424/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up marginally on Tuesday, ahead of the central bank’s policy rate announcement on Wednesday.
-
-The broader All Share Index closed up 0.50 percent, or 57.36 points, at 11,597; while the more liquid S&P SL20 Index closed up 0.62 percent, or 20.78 points, at 3,377.
-
-Dialog Axiata Plc, the top contributor to the turnover, brought in Rs37mn to the turnover, and the share closed up at 9.40.
-
-“Dialog saw some foreign selling in the day,” Softlogic Stockbrokers said. “It was a very very slow day, and activity levels were subdued, trade volumes were low.”
-
-National Development Bank Plc which was the second biggest contributor to turnover, closed up at 71.00.
-
-There was also limited foreign activity, with the day recording a net foreign outflow of 26 million rupees.
-
-Foreign buying interest was seen in Commercial Bank of Ceylon Plc (up at 95.80), and Industrial Asphalts (Ceylon) Plc (flat at 0.30), “But these were negligible amounts”.
-
-...
-
-[Data](articles/c662357a.json)
-
-[Extended Data](ext_articles/c662357a.ext.json)
-
----
-
-### New law should be introduced against companies that violate the human rights of plantation people: Vadivel Suresh
-
-*2024-07-23 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189201) · `ta`
-
-Vadivel Suresh advocates for a new law to protect plantation workers' rights, highlighting violations by 22 companies across 11 districts. He calls for equal treatment under the law and urges the government to enforce the President's orders regarding fair wages and peaceful living conditions for plantation communities.
-
-🟩
-
-11 districts in the country are found in plantations. All those lands manage 22 companies. However, the companies are managing in violation of the human rights of the plantation people. Vadivel Suresh said a new law should be established against this.
-
-He was speaking at a debate on regulations under the Justice Department Act on Tuesday (23) in Parliament.
-
-All the common laws for other communities in the country should be paid to the upstate community as well as the salary of labor for them. Plantation companies are scratched despite the president's order. Plantation companies have gone to court against the salary increase, and now the salary increase has been issued.. I see it as one of the worlds that are nowhere to be held in the world. This is an injustice that has happened to the people of the hill country.
-
-...
-
-[Data](articles/21d0622e.json)
-
-[Extended Data](ext_articles/21d0622e.ext.json)
-
----
-
-### Thousands of migrant kids reach Canary Islands alone; officials seek Spain’s help
-
-*2024-07-23 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100726/thousands-of-migrant-kids-reach-canary-islands-alone-officials-seek-spains-help) · `en`
-
-The children sometimes won’t stop crying. Health workers dealing with migrants arriving on Spain’s Canary Islands try to understand if the tears are from illness, injury or, as is often the case, from pure shock.
-
-One young Senegalese boy who disembarked recently kept fainting every few minutes, troubling doctors who couldn’t determine the cause. Other migrants finally explained: the boy had witnessed both parents die during the arduous boat voyage from West Africa. Their bodies were thrown overboard into the Atlantic Ocean.
-
-“There’s no medicine for that,” said Inmaculada Mora Peces, a 54-year-old emergency doctor who treats migrants arriving on the island of El Hierro.
-
-Mora Peces is among a growing number of people sounding the alarm as the archipelago struggles to deal with thousands of teenagers and children traveling alone to the European Union territory from Senegal, Mali, and other African nations, fleeing poverty, conflict and instability.
-
-...
-
-[Data](articles/f6974de4.json)
-
-[Extended Data](ext_articles/f6974de4.ext.json)
 
 ---

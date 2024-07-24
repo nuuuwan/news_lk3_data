@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 03:20:29**
+As of **2024-07-25 03:35:42**
 
 ## Newspaper Stats
 
-*Scraped **37,067** Articles*
+*Scraped **37,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,220
 dailyftlk | 2,358
 adalk | 3,366
 adaderanalk | 4,290
-tamilmirrorlk | 4,558
+tamilmirrorlk | 4,559
 dailymirrorlk | 4,733
 virakesarilk | 5,816
 adaderanasinhalalk | 6,222
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,067 (100.0%) of 37,067 articles have been extended.
+37,067 (100.0%) of 37,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### ’மொட்டுவின் முட்டு இன்றேல் ரணில் அவுட்’
+
+*2024-07-25 01:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-முட்டு-இன்றேல்-ரணில்-அவுட்/175-340985) · `ta`
+
+ஶ்ரீலங்கா பொதுஜன பெரமுனவின் ஆதரவு கிடைக்காவிட்டால் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்க போட்டியிட மாட்டார் என்று ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் துஷார இந்துநில் தெரிவித்தார்.
+
+இதேவேளை ஜனாதிபதியுடன் ஐக்கிய மக்கள் சக்தியில் இருந்து சரத் பொன்சேகா மற்றும் ராஜித சேனாரட்னவை தவிர வேறு எவரும் இணைய மாட்டார்கள் என்றும் அவர் குறிப்பிட்டுள்ளார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) நடைபெற்ற செயற்கை நுண்ணறிவு தொழில்நுட்பம் தொடர்பான சபை ஒத்திவைப்புவேளை விவாதத்தில் உரையாற்றும் போதே துஷார இந்துநில்  இவ்வாறு கூறினார்.
+
+செயற்கை நுண்ணறிவு தொழில்நுட்பத்தில் நாங்கள் உலக நாடுகளிடையே பின்னடைவிலேயே இருக்கின்றோம். வளங்கள் வரையறுக்கப்பட்டுள்ள எம்மைப் போன்ற நாடுகளில் இவ்வாறான தொழில்நுட்பங்களை பயன்படுத்த வேண்டும் என்பதனை ஏற்றுக்கொள்ள வேண்டும். நாங்கள் உலக நாடுகளுடன் தொழில்நுட்பத்தில் முன்னேற்றமடைய வேண்டும்.
+
+...
+
+[Data](articles/7bb0dc71.json)
+
+---
 
 ### Arrested 250 fishermen;Action is needed
 
@@ -2379,39 +2397,5 @@ The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu in 
 [Data](articles/f8f3309b.json)
 
 [Extended Data](ext_articles/f8f3309b.ext.json)
-
----
-
-### Asia Trophy 2024: What Sri Lanka Women's Team has ever been performed?
-
-*2024-07-24 11:56:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1342lg1ylgo) · `si`
-
-The Sri Lanka Women's Cricket Team is performing exceptionally well in the 2024 Asian Cup Women's Cricket Tournament. They lead their group with four bonus points after winning their first two matches convincingly. Their captain, Chamari Atapattu, has been a standout performer, scoring 119 runs off 69 balls in one match, including seven sixes and 14 fours, setting a high score for the tournament. The team also features young talent like 15-year-old Shasini Shihani, who has taken three wickets in nine overs. If they win their upcoming matches against Thailand and possibly Pakistan, they could qualify for the Asia Cup final for the sixth consecutive year.
-
-🟩
-
-Asia Trophy 2024: What Sri Lanka Women's Team has ever been performed?
-
-The first round of the 2024 Asian Cup Women's Cricket Tournament in Sri Lanka has reached the final stage. The final match will be held against Thailand women's team today (July 24).
-
-The final of the Asian Cup Women's Women's Tournament will be held on July 26 and the final.
-
-This year's Asian Cup Women's Cricket Tournament, held at the Dambulla International Cricket Stadium, has been fully visible.
-
-Sri Lanka is currently in front of the group with four bonus points.
-
-In this year, the Sri Lankan women's women succeeded as easy of their first two matches, bringing a major challenge to rival groups.
-
-Sri Lanka were able to win a seven wicket win in the first match with the Bangladesh women.
-
-The second match of Sri Lanka women participated in the Malaysian group, Sri Lanka women's team won 144 runs in the match.
-
-The Sri Lanka Women's Cricket Team was among the Victory of the Sri Lanka Women's World Twenty20 match.
-
-...
-
-[Data](articles/1fb801d5.json)
-
-[Extended Data](ext_articles/1fb801d5.ext.json)
 
 ---

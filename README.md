@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 16:20:35**
+As of **2024-07-24 16:35:31**
 
 ## Newspaper Stats
 
-*Scraped **37,005** Articles*
+*Scraped **37,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,84 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,213
 dailyftlk | 2,358
-adalk | 3,355
+adalk | 3,356
 adaderanalk | 4,284
-tamilmirrorlk | 4,547
+tamilmirrorlk | 4,549
 dailymirrorlk | 4,733
 virakesarilk | 5,805
-adaderanasinhalalk | 6,208
+adaderanasinhalalk | 6,209
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,002 (100.0%) of 37,005 articles have been extended.
+37,005 (100.0%) of 37,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### அரசுக்கு சொந்தமான 1600 நிறுவனங்களின் நிலையான சொத்துக்கள் குறித்து முறைப்படி விசாரணை நடத்த நடவடிக்கை - அமைச்சர் சியம்பலாபிட்டிய
+### ඉන්දියාව රන් සහ රිදී ආනයන බදු පහත දමයි
+
+*2024-07-24 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199163) · `si`
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගේ නව සන්ධාන රජය සිය මංගල අයවැය ඊයේ (24) ඉදිරිපත් කළේය.
+
+නව රජයේ අයවැය ඉදිරිපත් කරමින් ඉන්දීය මුදල් අමාත්‍යවරිය වන නිර්මලා සීතාරාමන් ප්‍රකාශ කළේ, මෙම අයවැය මගින් රැකියා නියුක්තිය සහ පුහුණුව, කුඩා ව්‍යාපාර සහ මධ්‍යම පන්තිය පිළිබඳ විශේෂ අවධානයක් යොමුකළ බවය.
+
+මෙම අයවැය මගින් ඉදිරිපත් කෙරුණු ආර්ථික ප්‍රතිපත්ති රාමුව මීළඟ පරම්පරාවේ ප්‍රතිසංස්කරණ සඳහා පදනම සකසන බවත් ඇය කියා සිටියාය.
+
+ඒ අනුව මෙවර ඉන්දීය අයවැයෙන් ගනු ලැබූ විශේෂ පියවරක් වන්නේ රන් සහ රිදී ආනයන බදු පහත දැමීමය.
+
+ලෝකයේ දෙවැනි විශාලතම රන් පාරිභෝජකයා වන ඉන්දියාව මේ පියවර ගෙන තිබෙන්නේ, නීතිවිරෝධී ලෙස ඉන්දියාවට රන් ගෙනඒම නතර කිරීමේ පියවරක් ලෙසය.
+
+රන් සහ රිදී සඳහා ඉන්දියාව පනවා තිබූ 15%ක ආනයන බදු 6% දක්වා කැපී පෙනෙන ලෙස අඩු කිරීම ඉන්දියාවේ රන් සඳහා ඉල්ලුම ඉහළ යාමට හේතුවක් විය හැකි බව වාර්තා වෙයි.
+
+මේ නිසා දැනටමත් ඉන්දියාවේ රන් මිල අඩුවී ඇති අතර ගෝලීය වෙළෙඳපොළේ රන් මිල ඉහළයාමක් දක්නට ලැබෙයි.
+
+◼️
+
+[Data](articles/44f322de.json)
+
+---
+
+### முஸ்லிம் எம்.பி.க்கள் மன்னிப்பு கேட்கவேண்டும்
+
+*2024-07-24 16:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-எம்-பி-க்கள்-மன்னிப்பு-கேட்கவேண்டும்/175-340958) · `ta`
+
+கொரோனா தொற்றினால் உயிரிழந்த முஸ்லிம்களின் ஜனாஸாக்கள் எரிக்கப்பட்டமைக்கு  அரசு முஸ்லிம்களிடம் மன்னிப்புக்கேட்டது தொடர்பில்  பேசப்பட்டது என்று இலங்கை தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. யான இரா.சாணக்கியன், பாராளுமன்றத்தில், புதன்கிழமை (24) தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) விசேட கூற்றை முன்வத்து உரையாற்றிய போ​தே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+அந்த நேரத்தில் 20 ஆவது அரசியலமைப்புத் திருத்தத்திற்கு ஆதரவளித்து அரசை பாதுகாத்த முஸ்லிம் எம்.பி.க்களும் முஸ்லிம் மக்களிடம் மன்னிப்புக்கோர வேண்டும் ,அவ்வாறு ஆதரவளித்தவர்கள் இன்று அதனைப்பற்றி இந்த சபையில் பேசுவது வேடிக்கையானது என்றார்.
+
+◼️
+
+[Data](articles/986e0766.json)
+
+---
+
+### Minister Siyambalapitiya
 
 *2024-07-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189276) · `ta`
 
-அரச சொத்துக்கள் முகாமைத்துவ சட்டத்தின் ஊடாக இலங்கையிலுள்ள அனைத்து அரச நிறுவனங்களின் சொத்துக்களையும் விசாரணை செய்து முறையான முகாமைத்துவத்தின் கீழ் கொண்டு வருவதற்கு தயார் என நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார். 1600க்கும் மேற்பட்ட அரசாங்கத்திற்கு சொந்தமான நிறுவனங்கள் உள்ளதாகவும், அவற்றின் சொத்துக்கள் சரியான முறையில் நிர்வகிக்கப்படவில்லை எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
+Finance Minister Dr. Ranjith Siyambalapitiya announced readiness to audit and manage over 1,600 state-owned companies' assets, including 91,000 vehicles, emphasizing sustainability and efficiency. The Cabinet approved his proposal, aiming to enhance the economy through better asset management and legal reforms conducive to exports and foreign investments.
 
-அந்த நிறுவனங்களில் சுமார் 91,000 வாகனங்கள் இருப்பதாகவும் நிலையான சொத்துக்கள் தொடர்பில் அதிக கவனம் செலுத்தி அவற்றை முறையாக முகாமைத்துவம் செய்து மக்களுக்கு பயனுள்ள சேவையை வழங்க அரசாங்கம் தயாராக இருப்பதாகவும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நிதியமைச்சர் என்ற வகையில் முன்வைக்கப்பட்ட இது தொடர்பான சட்டமூலத்திற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+Finance Minister Dr. Ranjith Siyambalapitiya said that he is ready to investigate the assets of all state institutions in Sri Lanka through the Management Act and bring it under proper management.. The Minister pointed out that more than 1600 government -owned companies have and their assets have not been properly managed.
+
+The Minister said that there are about 91,000 vehicles in the companies and that the government is ready to provide more attention to the sustainable assets and manage them properly.
+
+The Cabinet has approved the bill, which was put forward as the Finance Minister by President Ranil Wickremesinghe.
+
+Meanwhile, the debate on the Economic Change Bill, which has previously been submitted to Parliament, will be discussed tomorrow (25). The Minister pointed out that many measures have been taken to improve the quality of life of the people.
 
 ...
 
 [Data](articles/d39a17a4.json)
+
+[Extended Data](ext_articles/d39a17a4.ext.json)
 
 ---
 
@@ -72,39 +120,73 @@ Accordingly, the President is expected to take immediate attention to the Presid
 
 ---
 
-### அகதிமுகாமின் உள்ளேயிருந்து ஒரு திகில் கதை - 1983 ஜூலை கலவரத்தை நேரில் பார்த்த ஒருவரின் நாட்குறிப்பு
+### A horror story from the inside of the refugee - the diary of someone who witnessed the July 1983 riots
 
 *2024-07-24 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189273) · `ta`
 
-1983ம் ஆண்டு ஜூலை மாதம்  27ம் திகதி   ஐந்தரை மணி -இரத்மலானை விமானப்படையின் அகதிமுகாமில் இருக்கும் நான் நாற்குறிப்பொன்றை எழுத தீர்மானித்தேன்.
+In July 1983, the author, a witness to the horrific Tamil-Sinhalese riots, begins documenting their experiences in a refugee camp. They recount witnessing violence, including the killing of 13 Tamils in Jaffna, which sparked widespread retaliation. The diary details the chaos and fear experienced during the riots, highlighting the brutal attacks and the desperate search for safety.
 
-திங்கட்கிழமை 25ம் அதிகாலை திகதிமுதல் கட்டவிழ்த்துவிடப்பட்டுள்ள எதிர்பாராத வன்முறைகாரணமாக வீடுகளை இழந்த ஆயிரக்கணக்கான தமிழர்கள் அதிர்ச்சியிலும் விரக்தியிலும் சிக்குண்டிருப்பதை பார்த்த பின்னரே ,நான்நடந்த சம்பவங்களை நாற்குறிப்பில் பதிவு செய்ய தீர்மானித்தேன்.
+🟩
 
-பலர் தங்கள் அன்புக்குரியவர்களை இழந்திருந்தனர்,பலர் சிங்களகாட்டுமிராண்டிகளால் கொல்லப்பட்டனர்.ஈவிரக்கமற்ற சிங்களவர்களிடம் பல இளம் பெண்கள் தங்களை இழந்திருந்தனர்.
+On July 27, 1983, I decided to write a quarter at the refugee of the Air Force Air Force.
 
-சிங்களபௌத்தர்கள் என தங்களை அழைத்துக்கொள்ளும் மக்கள் செய்யும் அட்டுழியங்களை நாகரீக உலகிற்கு என்றோ ஒருநாள் நானோ அல்லது வேறு யாரோ கொண்டு செல்ல முடியும் என்ற உறுதியான நம்பிக்கையுடன் இந்த நாட்குறிப்பை நான் ஆரம்பிக்கின்றேன்.
+It was only after I saw thousands of Tamils ​​who lost their homes as an unexpected violence that had been unleashed on the morning of Monday 25th, and I decided to record the events in the quarter.
 
-அதன் பின்னர் இந்த முகாமில் இடம்பெற்ற விடயங்கள்  குறித்தும் இரத்மலான விமானநிலையத்தில் தஞ்சமடைவதற்கு முன்னர் எனது தனிப்பட்ட அனுபவங்கள் குறித்தும்  நான் தெரிவிக்கப்போகின்றேன்.
+Many people lost their loved ones, and many were killed by Sinhalese.
+
+I begin this diary with the firm belief that someday the people who call themselves Sinhalese Buddhists can someday be carried to the civilized world or somebody.
+
+I am going to inform you about the things that took place at this camp and my personal experiences before sheltering at the Ratmalana Airport.
+
+I am going to share their experiences with other refugees in this camp.
+
+I went to my office in Maharagama. I went to the bus station on the road.
+
+About 30 people were attacking a person a short distance from where I was standing.
 
 ...
 
 [Data](articles/c8d7a1c7.json)
 
+[Extended Data](ext_articles/c8d7a1c7.ext.json)
+
 ---
 
-### கறுப்பு ஜூலை 41வது ஆண்டு நினைவாக மட்டக்களப்பில் கவன ஈர்ப்பு போராட்டம்!
+### இன்றிரவு சனி மறையும்
+
+*2024-07-24 15:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிரவு-சனி-மறையும்/175-340957) · `ta`
+
+சூரிய குடும்பத்தில் வளையங்களை கொண்ட மிக அழகான கோளாக கருதப்படும் சனி புதன்கிழமை (24) இரவு வானில் இருந்து மறையவுள்ளது என தகவல் வௌியாகியுள்ளது.
+
+சனி,  சந்திரனுக்கு மறைவதால் இவ்வாறு ஏற்படும் எனவும் இது ஒரு வகையில் 'சனி கிரகணம்' போன்றதுடன் இது மிக அரிதான சம்பவம் எனவும் வானியலாளர்கள் ​தெரிவித்துள்ளனர்.
+
+இந்த நிகழ்வை புதன்கிழமை (24) நள்ளிரவு 12.50 மணி முதல் அதிகாலை 2.10 மணி வரை இலங்கையர்கள் காண முடியும் என ஆர்தர் சி கிளார்க் நிறுவனம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e7867188.json)
+
+---
+
+### Black July 41st anniversary in Batticaloa
 
 *2024-07-24 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189272) · `ta`
 
-காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் கவன ஈர்ப்பு போராட்டம் இன்று புதன்கிழமை (24/07/2024) மட்டக்களப்பு காந்திப் பூங்காவில் நடைபெற்றது.
+Protests marking the 41st anniversary of Black July were held at Gandhi Park in Batticaloa, organized by families of missing persons. They demanded an international probe into the fate of their loved ones, urging answers about those taken during the conflict.
 
-கறுப்பு ஜூலை 41, வது ஆண்டு நினைவாக இந்த கவன ஈர்ப்பு போராட்டத்தை வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் ஏற்பாட்டில் முன்னெடுத்திருந்தனர்.
+🟩
 
-கையில் ஒப்படைத்த எமது பிள்ளைகளுக்கு என்ன நடந்தது, காணாமல் ஆக்கப்பட்ட எமது உறவுகளுக்கு என்ன நடந்தது, என்பதை கண்டறிய சர்வதேச விசாரணை வேண்டும் எனக் கூறி போரட்டத்தை முன்னெடுத்தனர்.
+The protests of the missing persons were held today (24/07/2024) at the Gandhi Park in Batticaloa.
+
+In honor of the Black July 41, the protest was launched in the arrangement of relatives of the missing persons.
+
+They launched the struggle, demanding an international investigation to find out what happened to our children who handed over and what happened to our missing relations.
 
 ◼️
 
 [Data](articles/96b9eaed.json)
+
+[Extended Data](ext_articles/96b9eaed.ext.json)
 
 ---
 
@@ -1202,6 +1284,22 @@ In equities, Colombo’s All Share Price Index opened 25.70 points higher at 11,
 
 ---
 
+### ඉන්දු  - ලංකා විස්සයි20 තරගාවලියේදි රු. 10000ක ටිකට් පතක්
+
+*2024-07-24 11:12:00* · [`adalk`](https://www.ada.lk/sports/ඉන්දු----ලංකා-විස්සයි20-තරගාවලියේදි-රු--10000ක-ටිකට්-පතක්/9-410964) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වීමට විස්සයි-20 සහ එක්දින තරඟාවලියේ ප්‍රවේශ පත්‍ර ඔන්ලයින් ක්‍රමයට මිලදී ගැනීමේ අවස්ථාව ක්‍රීඩාලෝලීන් හට හිමිව තිබේ.
+
+ඒ අනුව https://mycricket.com.lk/slcb-ticketing-frontend-ticketing-platform-ui/home වෙබ් පිටුව ඔස්සේ ප්‍රවේශ පත්‍ර මිලදී ගත හැකි බව ශ්‍රී ලංකා ක්‍රිකට් අයාතනය පවසයි.
+
+දෙරට අතර විස්සයි-20 තරඟාවලිය ලබන 27 වනදා ආරම්භ වීමට නියමිත අතර දෙවන සහ තෙවන තරඟ පිළිවෙලින් ලබන 28 සහ 30 වන දින පැවැත්වීමට නියමිතයි. එක්දින තරඟාවලිය අගෝස්තු මස 2 වනදා ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/f2329685.json)
+
+---
+
 ### Divorce for those who are not in the country;Lawyer arrested in Jaffna
 
 *2024-07-24 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189230) · `ta`
@@ -2243,107 +2341,5 @@ President's Counsel Romesh de Silva, who pointed out that the Constitutional Cou
 [Data](articles/f595f458.json)
 
 [Extended Data](ext_articles/f595f458.ext.json)
-
----
-
-### Sri Lanka prepares anti-corruption agenda backed by IMF report
-
-*2024-07-24 07:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-prepares-anti-corruption-agenda-backed-by-imf-report-173464/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved a ‘National Anti-Corruption Agenda’ which is also also incorporates findings of a technical assistance report by the International Monetary Fund, a government statement said.
-
-Under the plan, Sri Lanka’s Anti-bribery law would be revised in line with the United Nations Convention Against Corruption and a Financial Action Task Force.
-
-Several key measures identified in an IMF governance diagnosis report will be incorporated.
-
-A new management plant for the Employees Provident Fund would be prepared and the State Owned Enterprise Reform policy would be implemented.
-
-These include developing a anti-corruption plan for 2025-2029, amending the National Audit Act, introducing measures to act against money laundering and proceeds of crime, strengthening provision to file cases against corruption.
-
-The 2007 Companies Act would be change to strengthen provisions on beneficial ownership.
-
-...
-
-[Data](articles/acce9e66.json)
-
-[Extended Data](ext_articles/acce9e66.ext.json)
-
----
-
-### Two more suspects arrested over ‘Club Wasantha’ murder
-
-*2024-07-24 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100732/two-more-suspects-arrested-over-club-wasantha-murder) · `en`
-
-Sri Lanka Police said that two more suspects have been arrested for allegedly aiding and abetting the gunmen involved in the shooting and killing of two individuals including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’.
-
-The suspects, who had allegedly helped the killers to escape, have been arrested in the Athurugiriya and Battaramulla areas, police said.
-
-Police had also arrested a 21-year-old female on Sunday (21) on suspicion of being connected to the killing of ‘Club Wasantha’ at Athurugiriya recently.
-
-Police had previously arrested eight suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
-
-During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
-
-...
-
-[Data](articles/d34b3ffd.json)
-
-[Extended Data](ext_articles/d34b3ffd.ext.json)
-
----
-
-### Two suspects arrested in Club Wasantha murder
-
-*2024-07-24 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199141) · `si`
-
-Two suspects, aged 26 and 36, were arrested for the murder of two individuals at Club Spring. They were apprehended by police from the Western Province Southern Province and are being investigated by the Western Province North Provincial Crimes Division and Athurugiriya Police. The suspects were linked to a T-56 firearm incident in Athurugiriya and had connections to an organized criminal group overseas via WhatsApp.
-
-🟩
-
-Two suspects have been arrested for the shooting of kills of two, including Club Spring.
-
-Police said that the suspects were arrested by the Western Province Southern Province officials.
-
-Two shot dead in T-56 Firearcuits were killed in a T-56 Firearculogies in Athurugiriya Police Division.
-
-Two suspects were arrested and submitted to the Athurugiriya Police in Athurugiriya and Battaramulla yesterday (23).
-
-One of the suspects were taken from a van to the Wellethhota area from Korathota area from the Koratatoal area.The bus was taken by bus through the highway from bus and the bus was hidden in the Sella Kataragama area.
-
-It has been revealed that the suspect had joined the WhatsApp with an organized criminal in a foreign country during the period.
-
-The suspects were 26-year-old and 36-year-old residents of Welipeni and Ahinlla.
-
-Western Province North Provincial Crimes Division and Athurugiriya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/88ef5181.json)
-
-[Extended Data](ext_articles/88ef5181.ext.json)
-
----
-
-### Next 24 Hours Be Care
-
-*2024-07-24 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199139) · `si`
-
-Strong winds and rough seas expected due to southwest monsoon over the next 24 hours. The Department of Meteorology warns against sailing in affected areas, advising caution especially for fishermen and naval communities.
-
-🟩
-
-The Department of Meteorology has issued a warning red announcement of the strong winds and the sea.
-
-The announcement issued at 3 am today (24) is effective for the next 24 hours.
-
-The southwest monsoon weather can remain strong in the Sea area and the sea is very rough.
-
-The fishermen and the naval community informed the fishermen and the community not to be sailed until the red area of ​​the above map.
-
-◼️
-
-[Data](articles/8ed94363.json)
-
-[Extended Data](ext_articles/8ed94363.ext.json)
 
 ---

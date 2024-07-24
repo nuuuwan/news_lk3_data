@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 20:20:34**
+As of **2024-07-24 20:35:54**
 
 ## Newspaper Stats
 
-*Scraped **37,042** Articles*
+*Scraped **37,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,107
 economynextcom | 2,220
 dailyftlk | 2,358
 adalk | 3,360
-adaderanalk | 4,288
-tamilmirrorlk | 4,550
+adaderanalk | 4,289
+tamilmirrorlk | 4,551
 dailymirrorlk | 4,733
 virakesarilk | 5,812
 adaderanasinhalalk | 6,217
@@ -26,25 +26,61 @@ adaderanasinhalalk | 6,217
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,041 (100.0%) of 37,042 articles have been extended.
+37,042 (100.0%) of 37,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### විශ්‍රාමිකයන්ට රු 3000ක විශේෂ මාසික දීමනාවක්
+### அவசர அமைச்சரவை கூட்டத்தில் நடந்தது என்ன?
+
+*2024-07-24 20:15:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-அமைச்சரவை-கூட்டத்தில்-நடந்தது-என்ன/175-340965) · `ta`
+
+ஜனாதிபதி தலைமையில் இன்று மாலை (24) அவசரமா கூடிய அமைச்சரவை கூட்டத்தில் எடுக்கப்பட்ட தீர்மானம் தொடர்பில் தகவல் வெளியாகி உள்ளது.
+
+அதன்படி, பொலிஸ் மா அதிபர் தொடர்பான உயர் நீதிமன்றத்தின் தீர்ப்பின் சட்ட அம்சங்களை ஆழமாக ஆராய்ந்து எதிர்வரும் இரண்டு நாட்களுக்குள் அமைச்சரவையின் முடிவை அறிவிப்பதற்கு  இதில் தீர்மானிக்கப்பட்டுள்ளது.
+
+தேஷபந்து தென்னகோன் பொலிஸ் மா அதிபராக கடமையாற்றுவதைத் தடுக்கும் இடைக்கால உத்தரவை உயர் நீதிமன்றம் இன்று பிறப்பித்துள்ளது.
+
+இதன்படி, இந்த இடைக்கால உத்தரவின் போது சட்டத்திற்கு அமைய பொலிஸ் மா அதிபர் பதவிக்கு பொருத்தமான நபரை நியமிக்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதிக்கு உயர் நீதிமன்றம் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/405f71db.json)
+
+---
+
+### Cabinet approves special monthly allowance for pensioners
+
+*2024-07-24 20:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100753/cabinet-approves-special-monthly-allowance-for-pensioners) · `en`
+
+The Cabinet of Ministers has granted approval to provide a special monthly allowance of Rs. 3,000 to pensioners starting from September 2024 until their salary anomalies are fully addressed, according to Minister Susil Premajayantha.
+
+◼️
+
+[Data](articles/064fb878.json)
+
+---
+
+### Special monthly allowance of Rs. 3,000 per pensioners
 
 *2024-07-24 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199172) · `si`
 
-රාජ්‍ය සේවයේ විශ්‍රාමිකයන් සඳහා රුපියල් 3000ක විශේෂ මාසික දීමනාවක් ලබාදීමට අද (24) රැස්වූ කැබිනට් මණ්ඩලයේදී අනුමත කළ බව අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+In a move aimed at addressing salary discrepancies, Sri Lanka's Minister Susil Premajayantha announced a special monthly allowance of Rs. 3,000 for public sector pensioners, effective from April 2024 until September 2024. This decision follows the appointment of a committee tasked with resolving these anomalies across all sectors. Approximately 700,000 individuals stand to benefit from this initiative.
 
-ඒ අනුව මෙම විශේෂ මාසික දීමනාව 2024 සැප්තැම්බර් මස සිට වැටුප් විෂමතා නිවැරදි කරන තෙක් ගෙවීමට නියමිතය.
+🟩
 
-"රාජ්‍ය සේවයේ වැටුප් විෂමතා සම්බන්ධයෙන් වෙනම කමිටුවක් පත් කරලා තිබෙනවා. සෑම ක්ෂේත්‍රයකම තිබෙන වැටුප් විෂමතා එකවර විසඳන්න තමයි කමිටුව පත් කළේ. ඒ අතරතුර ඒ කමිටුවේම අදහසක් අනුව තමයි මේ කටයුතු සම්පූර්ණ වෙනකම් විශ්‍රාමිකයන්ට සැප්තැම්බර් මාසයේ සිට රුපියල් 3000ක දීමනාවක් දෙන්න තීරණය කළේ. ලක්ෂ 7කට විතර ඒ ප්‍රතිලාභය ලැබෙනවා."
+Minister Susil Premajayantha said at the Cabinet that the summit was given to the pensioners of the public service today (24) was approved.
+
+Accordingly, this special monthly allowance is due until September 2024 until the correction of salary anomalies will be corrected.
+
+"A separate committee has been appointed regarding salary anomalies. The committee was appointed to solve the salary anomalies in every field at once. In the meantime, the committee's views was decided to give a sum of Rs. 3,000 to pensioners until the completion of these activities. About 700,000 people benefit. "
 
 ◼️
 
 [Data](articles/a2aa1b73.json)
+
+[Extended Data](ext_articles/a2aa1b73.ext.json)
 
 ---
 
@@ -2331,69 +2367,5 @@ The suspects have been arrested in connection with the attempt to have a banned 
 [Data](articles/245f8fd1.json)
 
 [Extended Data](ext_articles/245f8fd1.ext.json)
-
----
-
-### Threat to devotees, including the priest of the Steam Temple
-
-*2024-07-24 10:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராவியடிப்-ஆலய-பூசகர்-உள்ளிட்ட-பக்தர்களுக்கு-அச்சுறுத்தல்/175-340936) · `ta`
-
-The Semmalai Nirvadi Pillaiyar Temple in Mullaitivu faces threats from police, military, and archaeological departments ahead of its Pongal festival on January 24th. The priest denies rumors of the statue being worth billions, clarifying it's a place of devotion, not profit. He assures the community that the festival will proceed as planned despite the interference.
-
-🟩
-
-The annual Pongal festival of the old Semmalai Nirvadi Pillaiyar Temple, Mullaitivu, is scheduled to be held on Wednesday (24).
-
-The temple has been threatened by the police, military and archaeological department on Tuesday (23).
-
-“While we were carrying out Pongal worship, the police, military and archaeological department officials conducted inquiries.
-
-When asked about it, we have spread a rumor story that we are dedicated to the statue of Lord Shiva and it is worth billions of rupees.
-
-We do not know how to say this rumor, we are not guided by the temple.. I convey to all people that his grace is present.
-
-There will be no other kind of situation to perform any statue. I would like to make it known as the priest of the temple.
-
-He also said that the Pongal festival will be held on Tuesday (24).
-
-It is noteworthy that many people from the South have spread rumors on this issue.
-
-◼️
-
-[Data](articles/14e2ad0a.json)
-
-[Extended Data](ext_articles/14e2ad0a.ext.json)
-
----
-
-### Threatening to the sapling temple priest
-
-*2024-07-24 10:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராவியடிப்-ஆலய-பூசகருக்கு-அச்சுறுத்தல்/175-340936) · `ta`
-
-During the Pongal festival preparations at the Semmalai Nirvadi Pillaiyar Temple in Mullaitivu, the temple faced threats from police, military, and archaeological departments. The priest responded by spreading rumors about the statue's value, emphasizing its religious significance and the absence of any plans to alter it. Despite the threats, the festival is set to proceed on Wednesday, with support from locals and rumors circulating among the community.
-
-🟩
-
-The annual Pongal festival of the old Semmalai Nirvadi Pillaiyar Temple, Mullaitivu, is scheduled to be held on Wednesday (24).
-
-It was reported that the temple was threatened by the police, military and archaeological department on Tuesday (23).
-
-“While we were carrying out Pongal worship, the police, military and archaeological department officials conducted inquiries.
-
-When asked about it, we have spread a rumor story that we are dedicated to the statue of Lord Shiva and it is worth billions of rupees.
-
-We do not know how to say this rumor, we are not guided by the temple.. I convey to all people that his grace is present.
-
-There will be no other kind of situation to make any statue. I would like to make it known as the priest of the temple.
-
-He also said that the Pongal festival will be held on Tuesday (24).
-
-It is noteworthy that many people from the South have spread rumors on this issue.
-
-◼️
-
-[Data](articles/ec84501d.json)
-
-[Extended Data](ext_articles/ec84501d.ext.json)
 
 ---

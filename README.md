@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 07:27:54**
+As of **2024-07-24 07:49:16**
 
 ## Newspaper Stats
 
-*Scraped **36,893** Articles*
+*Scraped **36,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ adaderanalk | 4,269
 tamilmirrorlk | 4,522
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,186
+adaderanasinhalalk | 6,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,869 (99.9%) of 36,893 articles have been extended.
+36,869 (99.9%) of 36,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### සා පෙළ ප්‍රතිඵල ගැන දැනුම්දීමක්
+
+*2024-07-24 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199143) · `si`
+
+2023 වසරේ අපොස සාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵල එළැඹෙන සැප්තැම්බර් මාසයේ දී නිකුත් කිරීමට නියමිත බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා පැවසීය.
+
+මේ වනවිට උත්තරපත්‍ර පරීක්ෂා කිරීමේ ප්‍රායෝගික පරීක්ෂණ අවසන් සතියේ ඇති බවත්, උත්තරපත්‍ර පරීක්ෂා කර අවසන් බැවින් විභාග දෙපාර්තමේන්තුවට සැප්තැම්බර් වන විට ප්‍රතිඵල ලබාදිය හැකි බවත් අමාත්‍යවරයා ﻿සඳහන් කළේය.
+
+2025 ජනවාරි සහ පෙබරවාරි යන මාස දෙක ඇතුළත මීළඟ සාමාන්‍ය පෙළ පැවැත්වීමට කටයුතු යොදා ඇති බව ද අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/f368b694.json)
+
+---
+
+### දේශබන්දුගේ පත්වීමට එරෙහි පෙත්සම් සලකා බැලීම අද
+
+*2024-07-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199142) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස පත් කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් අද (24) යළි සලකා බැලීමට නියමිතව තිබේ.
+
+එහි දී අදාළ පෙත්සම් විභාගයට ගැනීමට අවසර දෙන්නේ ද? නැද්ද? යන නියෝගය අද ප්‍රකාශයට පත්කරන බව ශ්‍රේෂ්ඨාධිකරණය පසුගිය දා ප්‍රකාශයට පත් කළේය.
+
+එමෙන්ම දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස කටයුතු කිරීම වළක්වාලන අතුරු තහනම් නියෝගයක් නිකුත් කරන්නේ ද යන්න අද ප්‍රකාශයට පත්කිරීමට නියමිත බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසුවේය.
+
+මැල්කම් කාදිනල් රංජිත් හිමිපාණන් ඇතුළු පිරිසක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබේ.
+
+පොලිස්පතිවරයා ලෙස දේශබන්දු තෙන්නකෝන් මහතා පත්කිරීම බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනුකර තිබෙන අදාළ මූලික අයිතිවාසිකම් පෙත්සම් පසුගිය දා ශ්‍රේෂ්ඨාධිකරණය හමුවේ සලකා බැලුණි.
+
+යසන්ත කෝදාගොඩ, අචල වෙංගප්පූලි සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගේ සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් සලකා බැලීම සිදුවුණි.
+
+...
+
+[Data](articles/f595f458.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතනයේ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-07-24 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199141) · `si`
+
+ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකුට මරු කැඳවූ වෙඩිතැබීමට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ බස්නාහිර පළාත් දකුණ අපාරාධ කොට්ඨාසයේ නිලධාරීන් විසින් එම සැකකරුවන් අත්අඩංගුවට ගත් බවය.
+
+පසුගිය ජූලි 8 වනදා අතුරුගිරිය පොලිස් වසමේ ටැටූ මධ්‍යස්ථානයක් තුළ දී ටී 56 ගිනිඅවිවලින් වෙඩිතබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කර තිබූ අතර එම වෙඩිතැබීමෙන් තවත් සිව්දෙනෙකු බරපතළ තුවාල ලැබීය.
+
+එම සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකිරීමේ දී ඊයේ (23) සවස අතුරුගිරිය හා බත්තරමුල්ල ප්‍රදේශවලදී එම අපරාධයට අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන අතුරුගිරිය පොලීසිය වෙත ඉදිරිපත් කර තිබේ.
+
+...
+
+[Data](articles/88ef5181.json)
+
+---
 
 ### ඉදිරි පැය 24 සැලකිලිමත් වන්න
 
@@ -2169,77 +2225,5 @@ Minister of Education, Dr. Susil Prema Jayantha, said that the Department of Exa
 [Data](articles/48c177de.json)
 
 [Extended Data](ext_articles/48c177de.ext.json)
-
----
-
-### Leaders of 12 districts of the Mottu Party to fight for Ranil
-
-*2024-07-23 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189182) · `ta`
-
-Leaders from 12 districts of the Sri Lanka PA have pledged to oppose President Ranil Wickremesinghe unless he halts the presidential election. A meeting was held to discuss supporting him only if his party fields a different candidate against the majority. They reportedly have the backing of about 75 parliamentarians. Plans are underway to organize Wickremesinghe's election campaign with local leaders and parliamentarians.
-
-🟩
-
-Political sources say that the leaders of the 12 districts of the Sri Lanka PA have decided to act against the present President Ranil Wickremesinghe if they stop the presidential election.
-
-A special discussion was held last Monday (22) at the residence of a diplomatic minister in Malalasekara Mawatha, Colombo.
-
-They decided to support the current President Ranil Wickremesinghe if the party nominated a different candidate against the majority.
-
-According to reports, they are currently receiving the support of nearly 75 parliamentarians who represent parliament.
-
-Political sources further stated that it has been decided to carry out the necessary organizations to implement Ranil Wickremesinghe's election campaign with the leaders of the local bodies and parliamentarians at the district level.
-
-◼️
-
-[Data](articles/8ee6399e.json)
-
-[Extended Data](ext_articles/8ee6399e.ext.json)
-
----
-
-### Trincomalee Municipal Secretary
-
-*2024-07-23 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189177) · `ta`
-
-A High Court Judge heard a case against Trincomalee Municipal Secretary Abdullah, accused of illegal transfer as revenge against an honest public servant. Senior Attorney Anim Lepp represented the petitioner, Rajasekhar, demanding cancellation of the transfer. The judge noted both arguments and scheduled the next hearing for August 8, requiring all relevant parties to attend.
-
-🟩
-
-High Court Judge NMMMMMMMMMS today (23) today (23). The presence of Abdullah was taken for trial.
-
-Senior Attorney -at -Law Anim Lepp, who was registered on behalf of the white Rajasekhar. He presented his submissions on behalf of the petitioner demanding the cancellation of the transfer, saying that the transfer was an illegal and revenge and the injustice inflicted on an honest public servant.. Taking note of the two sides, the judge summoned the case on August 8 and summoned the opponents to appear before the court on the date of the relevant parties.
-
-The letter was issued to the Kuchchaveli Pradeshiya Sabha on the instructions of the Hon.
-
-◼️
-
-[Data](articles/331a70d5.json)
-
-[Extended Data](ext_articles/331a70d5.ext.json)
-
----
-
-### Public proposals called to address public sector salary discrepancies
-
-*2024-07-23 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100723/public-proposals-called-to-address-public-sector-salary-discrepancies) · `en`
-
-The committee tasked with addressing salary discrepancies in the public sector has begun accepting suggestions for updating salary benefits.
-
-Accordingly, the proposals for revising the salary allowances will be accepted by the committee, the President’s Media Division (PMD) said.
-
-Interested parties can access the application form on the official website of the President’s Office via http://presidentsoffice.gov.lk.
-
-However, the PMD stated that all proposals must be submitted in PDF format via email to saec@presidentsoffice.lk by August 9, 2024.
-
-President Ranil Wickremesinghe recently appointed a committee to address salary discrepancies in the public sector.
-
-The President has instructed the committee to submit its recommendations report within three months, the PMD reported.
-
-◼️
-
-[Data](articles/26a101b6.json)
-
-[Extended Data](ext_articles/26a101b6.ext.json)
 
 ---

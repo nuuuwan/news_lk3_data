@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 12:53:32**
+As of **2024-07-24 13:05:37**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,965 (100.0%) of 36,969 articles have been extended.
+36,969 (100.0%) of 36,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### නේපාලයේ ගුවන් යානයක් කඩා වැටෙයි
+### Aircraft collapses in Nepal
 
 *2024-07-24 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199155) · `si`
 
-නේපාලයේ කත්මණ්ඩු නුවරදී ගුවන් යානයක් කඩා වැටී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+An aircraft crashed in Kathmandu, Nepal, killing 19 passengers, including one from Sayura. The incident occurred near the tourist city, and recovery efforts are underway.
 
-සයුරා ගුවන් සේවයට අයත් ගුවන් යානයක් එසේ කඩා වැටී ඇති අතර එහි මගීන් 19 දෙනෙකු සිටි බව වාර්තා විය.
+🟩
 
-එම ගුවන්යානය සංචාරක පුරවරයක් ලෙස ප්‍රකට Pokhara බලා යෑමට ගුවන්ගත කරන අවස්ථාවේදී කඩා වැටී තිබුණි.
+International media reports that an aircraft collapsed in Kathmandu, Nepal.
 
-මියගිය 5 දෙනෙකුගේ සිරුරු හමුවී ඇති අතර සහන කණ්ඩායම් යානය කඩා වැටුණු ස්ථානයේ  අරඹා තිබේ.
+One of the few passengers from Sayura has crashed and 19 passengers.
+
+The plane had collapsed at the time of the airplane as a tourist city.
+
+The bodies of the deceased have been found and the relief teams have begun in the collapse.
 
 ◼️
 
 [Data](articles/a318c923.json)
+
+[Extended Data](ext_articles/a318c923.ext.json)
 
 ---
 
@@ -74,25 +80,39 @@ But it has been plagued by poor safety due to insufficient training and maintena
 
 [Data](articles/e93f9cf8.json)
 
+[Extended Data](ext_articles/e93f9cf8.ext.json)
+
 ---
 
-### மாணவியை பாலியல் துஷ்பிரயோகம் செய்த காதலன்
+### Lover who sexually abused the student
 
 *2024-07-24 12:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவியை-பாலியல்-துஷ்பிரயோகம்-செய்த-காதலன்/76-340949) · `ta`
 
-புத்தள பிரதேசத்தில் 15 வயதுடைய மாணவியை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில் அவரது காதலனை, பொலிஸார் கைது செய்த சம்பவம் செவ்வாய்க்கிழமை (23) இடம்பெற்றுள்ளது.
+A 23-year-old male student was sexually assaulted by his 23-year-old lover in Puttala. The incident occurred when the victim visited the perpetrator's home, leading to the perpetrator's arrest and the victim's hospitalization for medical examination.
 
-11 ஆம் வகுப்பில் கல்வி கற்கும் குறித்த மாணவியின் தாய் புத்தள , கட்டுகஹகல்கே பகுதியைச் சேர்ந்த 23 வயதுடைய இளைஞர் ஒருவரின் வீட்டுக்குச் சென்று தனது மகளை அவருக்குத் திருமணம் செய்து வைக்க முன்வந்துள்ளார்.
+🟩
 
-அப்போது, ​​இளைஞரின் பெற்றோரும் அதற்கு சம்மதித்து , மாணவியை அவரது படிப்பு முடித்து உரிய வயது வரும் வரை காத்திருக்குமாறு கூறியுள்ளனர் .
+The incident took place on Tuesday (23) on charges of sexually abusing a 15 -year -old student in Puttala area.
 
-இந்நிலையில் குறித்த இளைஞனுக்கும் , மாணவிக்கும் இடையே காதல் ஏற்பட்டுள்ளதுடன் இருவரும் இவர்களுடைய வீடுகளுக்கு செல்வது வழக்கமாகக் கொண்டுள்ளனர் .
+The mother of a 23 -year -old youth from Katugahagkeke, who is studying in 11th grade, has gone to the house of a 23 -year -old youth.
 
-கடந்த ஏப்ரல் 10ம் திகதி குறித்த மாணவி வழக்கம் போல் அந்த இளைஞனின் வீட்டிற்கு சென்றுள்ளார். அதன்போது இளைஞன் மாணவியை அறைக்கு அழைத்துச் சென்று பாலியல் துஷ்பிரயோகம் செய்துள்ளதுடன் அதற்கு பின்னரும் இருவரும் பல தடவைகள் இவ்வாறு நடந்துக்கொண்டுள்ளனர் .
+At the time, the younger parents agreed to it and told the student to wait till the adult.
 
-...
+In this case, there is a love between the young man and the student and it is customary for both to go to their homes.
+
+On April 10, the student went to the young man's house as usual. The youth has taken the student to the room and sexually abused and both have been repeatedly behaved.
+
+Later, the young man left the student and came to the police station with her mother and lodged a complaint.
+
+The suspect has been arrested by the Puttala police and the student has been admitted to the Moneragala District General Hospital for medical examination.
+
+Puttala police said that steps have been taken to bring the suspect to the Magistrate's Court.
+
+◼️
 
 [Data](articles/b1ab32eb.json)
+
+[Extended Data](ext_articles/b1ab32eb.ext.json)
 
 ---
 
@@ -162,17 +182,23 @@ In this case, the accident occurred when the plane crashed into the runway.
 
 ---
 
-### 19 பேருடன் பயணித்த விமானம்  விபத்துக்கு உள்ளானது
+### The plane crashed with 19 people
 
 *2024-07-24 12:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/19-பேருடன்-பயணித்த-விமானம்-விபத்துக்கு-உள்ளானது/50-340947) · `ta`
 
-காத்மண்டுவில் உள்ள திரிபுவன் சர்வதேச விமான நிலையத்தில் சவுரியா ஏர்லைன்ஸ் விமானமே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+A Sauriya Airlines flight crashed at Kathmandu's Tribhuvan International Airport, killing all 19 onboard. The accident happened as the plane collided with the runway.
 
-இந்நிலையில், விமானம் புறப்படும்போது ஓடுதளத்தில் கட்டுப்பாட்டை இழந்து மோதிய நிலையிலேயே விபத்து நேர்ந்ததாகத் தெரிவிக்கப்பட்டுள்ளது.S
+🟩
+
+The Sauriya Airlines flight at the Tribhuvan International Airport in Kathmandu crashed.
+
+In this case, the accident occurred when the plane crashed into the runway.
 
 ◼️
 
 [Data](articles/d65b5fbb.json)
+
+[Extended Data](ext_articles/d65b5fbb.ext.json)
 
 ---
 

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 10:54:22**
+As of **2024-07-24 11:06:24**
 
 ## Newspaper Stats
 
-*Scraped **36,930** Articles*
+*Scraped **36,934** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 322
 colombotelegraphcom | 349
-bbccomsinhala | 359
+bbccomsinhala | 360
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,203
 dailyftlk | 2,358
-adalk | 3,347
+adalk | 3,349
 adaderanalk | 4,277
-tamilmirrorlk | 4,530
+tamilmirrorlk | 4,531
 dailymirrorlk | 4,733
 virakesarilk | 5,785
 adaderanasinhalalk | 6,197
@@ -26,15 +26,53 @@ adaderanasinhalalk | 6,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,928 (100.0%) of 36,930 articles have been extended.
+36,930 (100.0%) of 36,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### விபத்தில் ஒருவர் பாலி, மூவர் காயம்
+### ජනපතිවරණය සැප්තැම්බර්  - මහ මැතිවරණයක් නෑ
+
+*2024-07-24 10:50:02* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්තැම්බර්----මහ-මැතිවරණයක්-නෑ/11-410962) · `si`
+
+2024 ඔක්තෝබර් මස 17වැනිදාට පෙර නව ජනාධිපතිවරයෙක් පත්කර ගැනීමට සැප්තැම්බර් මාසයේදී ජනාධිපතිවරණය පැවැත්වෙන බවත් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූලව පැවැත්වීමට නියමිත ජනාධිපතිවරණය ව්‍යවස්ථාවට අනුකූලව පවත්වන බවත් මහාමාර්ග, ජනමාධ්‍ය අමාත්‍ය කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමිනි.
+
+ජනාධිපතිවරණය සඳහා අවශ්‍ය මුදල් වන රුපියල් බිලියන 10ක් අයවැය ලේඛණයෙන්ම වෙන් කර ඇති බව කී අමාත්‍යවරයා , මැතිවරණ 02 ක් පැවැත්වීමට මුදල් නොමැති බවත් කිසිදු පාර්ලිමේන්තු මැතිවරණයක් මේ වර්ෂය තුලදී නොපැවැත්වෙන බවත් පාර්ලිමේන්තුව මෙම වසරේදී විසුරවා නොහරින බවත් කීය.
+
+◼️
+
+[Data](articles/8b4bc842.json)
+
+---
+
+### One person in an accident Bali, trio injured
 
 *2024-07-24 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஒருவர்-பாலி-மூவர்-காயம்/175-340939) · `ta`
+
+A fatal motorcycle crash occurred in Bali, involving a navy-owned vehicle, resulting in one death and three injuries. The victims hailed from the Hambantota Manjjawa area, all treated at the Hambantota District Hospital.
+
+🟩
+
+Hambantota - One person was killed when a motorcycle and a navy -owned keb vehicle collided head -on.
+
+Three more injured in the accident and admitted to the Hambantota District Hospital, Hambantota police said.
+
+In addition, the victims and the injured were from the Hambantota Manjjawa area, police said.
+
+◼️
+
+[Data](articles/c4e029da.json)
+
+[Extended Data](ext_articles/c4e029da.ext.json)
+
+---
+
+### விபத்தில் ஒருவர் பலி, மூவர் காயம்
+
+*2024-07-24 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஒருவர்-பலி-மூவர்-காயம்/175-340939) · `ta`
 
 ஹம்பாந்தோட்டை - சூரிய வெவ 100 அடி வீதியில் மோட்டார் சைக்கிள் ஒன்றும் கடற்படைக்கு சொந்தமான கெப் ரக வாகனமொன்றும் நேருக்கு நேர் மோதியதில் ஒருவர் உயிரிழந்துள்ளார்.
 
@@ -44,7 +82,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/c4e029da.json)
+[Data](articles/dcb5297b.json)
+
+---
+
+### අත්අඩංගුවට ගත් සැකකරුවෙකු  මුදා ගැනීමට පොලිස් නිලධාරීන්ට මරණීය තර්ජනය කරල
+
+*2024-07-24 10:21:41* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-සැකකරුවෙකු--මුදා-ගැනීමට-පොලිස්-නිලධාරීන්ට-මරණීය-තර්ජනය-කරල/11-410959) · `si`
+
+කොළඹ ගෑන්ඩ්පාස්  ස්ටේට් පාර ලිපිනයේදී අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට ගත් සැකකරුවෙකු  මුදා ගැනීමට   පොලිස් නිලධාරීන් ට පිහියක් අමෝරා මරණීය තර්ජනය කර සැකකරු රැගෙන යාමට උත්සාහ කළ පුද්ගලයෙකු අත්අඩංගුවට ගත් බව ග්‍රෑන්ඩ්පාස්  පොලිසිය කියයි
+
+ග්‍රෑන්ඩ්පාස්  පොලිසියට අනුයුක්ත උප පොලිස් පරීක්ෂක ජීවන්ත නිලධාරියා ඇතුළු පොලිස් නිලධාරීන් කීප දෙනෙකු ලද තොරතුරක් අනුව එම නිවස වටලා මත්ද්‍රව්‍ය  සමග සැකකරු අත්අඩංගුවට ගැනීමෙන් අනතුරුව එම සැකකරු පොලිස් නිලධාරීන්ට ප්‍රතිවිරෝධය පාමින් රාජකාරියට බාධා කර කර පලායාමට උත්සාහ කර ඇති අතර එම අවස්ථාවේදී සැකකරුගේ සහෝදරයා වන සැකකරු පිහියක් රැගෙන එම ස්ථානයට පැමිණ උප පොලිස් පරීක්ෂකවරයාට මරණ තර්ජනය කර අත්අඩංගුවට ගත් සැකකරු රැගෙන යාමට  උත්සාහ දැරූ බව පොලිසිය සඳහන් කරයි
+
+පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කිරීම තහනම් පීහියක් ළඟ තබා ගැනීම, සාපරාදී බිය ගැන්වීම නීත්‍යානුකූලව, අත්අඩංගුවේ සිටින සැකකරුවකු මුදාගැනීමට තැත් කිරීම සම්බන්ධයෙන් එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත
+
+26,හා38 හැවිරිදි  සැකකාර සහෝදරයන් දෙදෙනා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය
+
+◼️
+
+[Data](articles/245f8fd1.json)
 
 ---
 
@@ -94,15 +150,21 @@ The suspect was a 32 year old resident of Piliyandala, a 32 year old resident of
 
 ---
 
-### දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයේ කටයුතු කිරීම වළක්වාලමින් තහනම් නියෝගයක්
+### Deshabandu Tennakoon prevented the post of IGP
 
 *2024-07-24 10:01:04* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකෝන්-මහතා-පොලිස්පති-ධුරයේ-කටයුතු-කිරීම-වළක්වාලමින්-තහනම්-නියෝගයක්/11-410957) · `si`
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ. ඔහු පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අති ඉදිරිපත් කර ඇි මූලික අයිතිවාසිකම් පෙත්සම් 09 ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කරනු ලැබීය.
+The Supreme Court issued an interim injunction, preventing Deshabandu Tennakoon from serving as Inspector General of Police (IGP). This decision allows the President to appoint someone else as IGP.
+
+🟩
+
+The Supreme Court has issued a interim injunction preventing Deshabandu Tennakoon from working as IGP. The Supreme Court issued the Supreme Court that allows the appointment order to issue a powerful decision to issue the President to appoint the President as an IGP.
 
 ◼️
 
 [Data](articles/61b18403.json)
+
+[Extended Data](ext_articles/61b18403.ext.json)
 
 ---
 
@@ -1067,6 +1129,26 @@ Despite the Bill’s enactment, experts in the field raised concerns and propose
 [Data](articles/46c66c55.json)
 
 [Extended Data](ext_articles/46c66c55.ext.json)
+
+---
+
+### දේශබන්දු තෙන්නකෝන් පොලිස්පති ධූරයේ කටයුතු කිරීම වළක්වාලමින් අතුරු නියෝගයක්
+
+*2024-07-24 04:58:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp38d3788nmo) · `si`
+
+දේශබන්දු තෙන්නකෝන් පොලිස්පති ධූරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අද (ජුලි 24 වැනිදා) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+ඒ අනුව මෙම අතුරු තහනම් නියෝගය ක්‍රියාත්මක වන කාලසීමාව තුළ  පොලිස්පති තනතුර සඳහා නීතියට අනුකූලව සුදුසු අයෙකු නම් කිරීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය විසින් ජනාධිපතිවරයාට නියම කරනු ලැබීය.
+
+යසන්ත කෝදාගොඩ, අචල වෙංගප්පූලි සහ මහින්ද සමයවර්ධන යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝග ප්‍රකාශයට පත් කළේය.
+
+දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා කාදිනල් අති උතුම් මැල්කම් රංජිත් හිමිපාණන් ඇතුළු පාර්ශවකරුවන් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 9 ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+තීන්දුව ප්‍රකාශයට පත්කළමින් ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සභාපති විනිසුරු යසන්ත කෝදාගොඩ සඳහන් කළේ මෙම පෙත්සම් විභාගයේ දී පෙත්සම්කරුවන් විසින් අධිකරණය හමුවේ ප්‍රබල නඩු නිමිත්තක් තහවුරු කිරීමට සමත් වී තිබෙන බව ය.
+
+...
+
+[Data](articles/964e6b10.json)
 
 ---
 
@@ -2145,115 +2227,5 @@ In this regard, the doctor, Ramanathan Azuna, has stolen its medical administrat
 [Data](articles/08eba975.json)
 
 [Extended Data](ext_articles/08eba975.ext.json)
-
----
-
-### Sister arrested for defrauding Qatar's jobs
-
-*2024-07-23 19:07:24* · [`adalk`](https://www.ada.lk/breaking_news/කටාර්-රැකියා-පෙන්වා-මුදල්-වංචාකළ-කත-අල්ලයි/11-410948) · `si`
-
-A woman from Ja-Ela, Sri Lanka, was arrested for fraudulently obtaining money meant for overseas jobs through the Sri Lankan Foreign Employment Bureau. She was caught after returning to the country without securing any job abroad. The Special Investigation Division is handling the case, and she will be presented before the Welisara Magistrate's Court. The SLBFE advises potential foreign workers to use legitimate job agencies and provides information via its website and hotline.
-
-🟩
-
-A woman who cheated the Sri Lankan Foreign Employment Bureau was arrested by the Special Investigation Division of Sri Lanka (SLBFE) (7/23).
-
-A woman living in Ja-Ela has obtained Rs.. However, due to the non-job jobs, he returned to the island and complained to the Bureau.
-
-Investigations officers were taken to the Bureau today (7/233) to the Bureau today (7/23) to record statements.
-
-The arrested suspect is to be produced before the Welisara Magistrate's Court today.
-
-To find a foreign employment or a person to obtain a foreign employment or a valid job agency, the Bureau at www.slbfe.lk www.slbfe.lkThe Bureau urges foreign employment seekers to obtain information by contacting or the 1989 hotline number.
-
-◼️
-
-[Data](articles/164a105c.json)
-
-[Extended Data](ext_articles/164a105c.ext.json)
-
----
-
-### Sri Lanka to introduce digital program for foreign workers facing problems
-
-*2024-07-23 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-introduce-digital-program-for-foreign-workers-facing-problems-173438/) · `en`
-
-ECONOMYNEXT – Sri Lanka will introduce a digital program via smart phones for migrant workers to report any concerns while employed abroad, Minister of Labor and Foreign Employment Manusha Nanayakkara said.
-
-“We will have a digital program that is accessible from their smart mobile phones where domestic workers can notify us if they have not got their salary or if they have fallen into some trouble,” Nanayakkara said in parliament on Tuesday.
-
-Sri Lanka has sent 301,000 domestic workers and 360,000 skilled workers abroad, Nanayakkara said.
-
-Several workers, especially domestic workers, face abuse at the hands of foreign employers.
-
-Nanayakkara said that the government only receives 0.001 percent of complaints with regard to abuse.
-
-“We can only act on complaints received from people who go through legal channels. We are educating those who go through the Foreign Employment Bureau on how to escalate complaints.” (Colombo/Jul23/2024)
-
-◼️
-
-[Data](articles/e168905e.json)
-
-[Extended Data](ext_articles/e168905e.ext.json)
-
----
-
-### The homile will make the right moment at the right moment
-
-*2024-07-23 18:59:04* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-නිවැරදි-මොහොතේදී-හරි-තීන්දුව-ගනීවි/11-410947) · `si`
-
-Minister Prasanna Ranatunga suggests that the timing of political decisions is crucial, emphasizing that the current situation would remain unchanged even without President Ranil Wickremesinghe's leadership. He reiterates the importance of making the right choices at the right moments, highlighting his commitment to the party's principles and the leadership of President Wickremesinghe.
-
-🟩
-
-The Minister of Urportunity Prasanna Ranatunga says that if the current President Ranil Wickremesinghe did not accept the presidency two years ago, the Amarakarerthi was the same.
-
-The Minister further indicates that the polose will still make the right at the right moment. ‍
-
-The Minister made these comments on journalists following the discussion held at the Nelum Mawatha office today (23).
-
-The answers given by the Minister of Questions and
-
-Q. You two are on the basis of. Tell us the right thing?
-
-A. It's my opinion. I don't have anything new. I haven't changed.
-
-Q. Mr. Tissakututiarachchi says he needs to rush.
-
-A. That's right. We both call a good candidate.
-
-Urban Development and Housing Prasanna Ranatunga - Don't ask this land. If you ask, I'll give you the answer. He is the leader of the day.
-
-Q. Winning the candidate who can win. You didn't say at the party office now on the road.
-
-...
-
-[Data](articles/15873282.json)
-
-[Extended Data](ext_articles/15873282.ext.json)
-
----
-
-### Civil Procedure Code is passed with amendments
-
-*2024-07-23 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199133) · `si`
-
-The Civil Procedure Code Amendment Bill was passed without a vote in parliament, concluding a day-long debate. The bill aims to amend specific clauses of the Civil Procedure Code, as proposed by Justice Minister Wijedasa Rajapakse. Additionally, parliament approved orders related to judicial organization published in specialized gazettes.
-
-🟩
-
-The Civil Procedure Code (Amendment) Bill was passed today with amendment without a voting in parliament today.
-
-The second reading debate was held from 10.30 am to 5.30 pm today (23).
-
-The above Judgment and Constitutional Reforms Minister Wijedasa Rajapakse was presented to Parliament on 13th Mayor to amend the clauses of the Civil Procedure Code (101st) Civil Procedure Code.
-
-Meanwhile, the approval of the parliament was also approved by Parliament for orders published in specialized gazettes under the Judicial Organization Act No. 2360/22 and 2371/13.
-
-◼️
-
-[Data](articles/8d735bc9.json)
-
-[Extended Data](ext_articles/8d735bc9.ext.json)
 
 ---

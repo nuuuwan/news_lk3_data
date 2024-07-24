@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 20:55:10**
+As of **2024-07-24 21:06:25**
 
 ## Newspaper Stats
 
-*Scraped **37,044** Articles*
+*Scraped **37,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,289
 tamilmirrorlk | 4,551
 dailymirrorlk | 4,733
 virakesarilk | 5,812
-adaderanasinhalalk | 6,217
+adaderanasinhalalk | 6,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,044 (100.0%) of 37,044 articles have been extended.
+37,044 (100.0%) of 37,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### චමීර වෙනුවට අසිත
+
+*2024-07-24 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199173) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ ඉන්දිය කණ්ඩායම සම﻿ග පැවැත්වෙන විස්සයි විස්ස ක්‍රිකට් තරගාවලිය ජුලි මස 27 වනදා ඇරඹෙයි.
+
+ඒ අනුව ආබාධ තත්ත්වයක් හේතුවෙන් සංචිතයෙන් ඉවත් කෙරුණු දුෂ්මන්ත චමීර වෙනුවට අසිත ප්‍රනාන්දු සංචිතයට කැඳවා තිබේ.
+
+◼️
+
+[Data](articles/6717b6fa.json)
+
+---
 
 ### What happened at the Emergency Cabinet meeting?
 
@@ -2351,29 +2365,5 @@ The Minister also stated that arrangements have been made to conduct the GCE Ord
 [Data](articles/f3ac5438.json)
 
 [Extended Data](ext_articles/f3ac5438.ext.json)
-
----
-
-### Police officers threatened to liberate suspect
-
-*2024-07-24 10:21:41* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-සැකකරුවෙකු--මුදා-ගැනීමට-පොලිස්-නිලධාරීන්ට-මරණීය-තර්ජනය-කරල/11-410959) · `si`
-
-In Colombo, police surrounded a suspect linked to drug offenses. The suspect, along with his brother, attempted to escape but were cornered. The suspect threatened police with violence. Both, aged 26 and 38, will face charges in court.
-
-🟩
-
-The Grandpass police say that a man who has tried to carry the suspect and carry a man who was trying to carry the suspect in the address address of Colombo Gavas Stote road address.
-
-The suspect, including several police officers including the Grandpass Police, the suspect has been surrounded by the abuse with the drug with the narcotics and has attempted to flee the suspect, and the suspect's brother, the brother of the suspect, has taken a knife at the time.Police said that the suspect had threatened to carry the suspect and threatened to death and threatened to death.
-
-The suspects have been arrested in connection with the attempt to have a banned fever at the duties of the police
-
-26, and 38 year old suspects are to be produced before courts
-
-◼️
-
-[Data](articles/245f8fd1.json)
-
-[Extended Data](ext_articles/245f8fd1.ext.json)
 
 ---

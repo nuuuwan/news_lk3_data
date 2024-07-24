@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 14:08:39**
+As of **2024-07-24 13:55:06**
 
 ## Newspaper Stats
 
-*Scraped **36,979** Articles*
+*Scraped **36,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,17 @@ adaderanalk | 4,282
 tamilmirrorlk | 4,544
 dailymirrorlk | 4,733
 virakesarilk | 5,795
-adaderanasinhalalk | 6,206
+adaderanasinhalalk | 6,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,974 (100.0%) of 36,979 articles have been extended.
+36,974 (100.0%) of 36,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
-
-### රුසියානු බුද්ධි අංශ නිලධාරියාට බෝම්බ ප්‍රහාරයක්
-
-*2024-07-24 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199160) · `si`
-
-රුසියානු හමුදාවේ බුද්ධි අංශ නිලධාරියෙක් ඉලක්ක කර කාර් බෝම්බ ප්‍රහාරයක් එල්ලකර තිබේ.
-
-අද (24) උතුරු මොස්කව් ප්‍රදේශයේදී එම ප්‍රහාරය එල්ලකර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
-
-එම බුද්ධි අංශ නිලධාරියා සිය බිරිඳ සමග ඔහුගේ මෝටර් රථයට නැගීමෙන් අනතුරු එම බෝම්බර පුපුරා ගොස් තිබේ.
-
-එම පිපිරීම හේතුවෙන් එම නිලධාරියාගේ පාදවලට දැඩි ලෙස හානි සිදුවී ඇති බව වාර්තා විය.
-
-◼️
-
-[Data](articles/4ce62fe4.json)
-
----
-
-### ක්ලබ් වසන්ත ඝාතන කොන්ත්‍රාත්තුව ගැන අලුත්ම හෝඩුවාව
-
-*2024-07-24 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199159) · `si`
-
-සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනය කිරීමෙන් අනතුරුව වෙඩික්කරුවන්ට ප්‍රවාහන පහසුකම් සැලසූ වෑන් රථයේ රියදුරු හා බස් රථයේ රියදුරු බස්නාහිර දකුණ අපරාධ කොට්ඨාසය මඟින් අත්අඩංගුවට ගත්තේය.
-
-සැකකරුවන් දෙදෙනා අද (24) කඩුවෙල මහේස්‍ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
-
-අතුරුගිරියේ ටැටූ මධ්‍යස්ථානයක් විවෘත කිරීමට ගිය සුරේන්ද්‍ර වසන්ත පෙරේරා හෙවත් ක්ලබ් වසන්ත හා තවත් අයෙක් වෙඩිතබා ඝාතනය කෙරුණේ පසුගිය 8 වනදාය.
-
-එහිදී ජනප්‍රිය ගායන ශිල්පිනී කේ. සුජීවා ඇතුළු සිව්දෙනෙකුට බරපතළ තුවාල සිදුවුණි.
-
-සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකළ බස්නාහිර දකුණ අපරාධ කොට්ඨාසය විසින් තවත් සැකකරුවන් දෙදෙනෙකු ඊයේ (23) සවස අතුරුගිරිය හා බත්තරමුල්ල ප්‍රදේශවලදී අත්අඩංගුවට ගනු ලැබීය.
-
-ඉන් එක් සැකකරුවකු වෙඩික්කරුවන් සහ ඔවුන් පැමිණි මෝටර් රථයේ රියදුරුවරයාට පළායාම සඳහා සහාය වූ අයෙකි.
-
-වෙඩික්කරුවන් දෙදෙනා සහ ඔවුන් පැමිණි කාර් රථයේ රියදුරුවරයා කොරතොට ප්‍රදේශයන් වෑන් රථයකට නංවාගෙන වැලිහිඳ ප්‍රදේශය දක්වා ගොස් එහිදී බස් රථයකට නංවාඇත්තේ ඔහු විසින් බවය පොලීසිය පැවසුවේය.
-
-...
-
-[Data](articles/1dffdb72.json)
-
----
 
 ### නේපාලය සලිත කළ බිහිසුණු ගුවන් යානා අනතුර
 
@@ -2255,5 +2213,51 @@ In the coming days, the installment will be deposited directly in the bank accou
 [Data](articles/444585c8.json)
 
 [Extended Data](ext_articles/444585c8.ext.json)
+
+---
+
+### Black Yule in Jaffna
+
+*2024-07-24 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189220) · `ta`
+
+On Tuesday, Jaffna marked Black Yule with a memorial led by the Tamil National People's Front. Firefighters honored victims, lighting a public flame amidst attendees including Deepan Dilisan and Vasuki Sudhakaran.
+
+🟩
+
+Black Yule was celebrated in Jaffna on Tuesday evening (23). The firefighters paid tribute to the murdered.
+
+Jaffna organized by the Tamil National People's Front. The memorial was held on Tuesday evening (23) in front of the courtyard.
+
+During this time, the public flame was lit and others paid homage.
+
+The event was attended by the party's Jaffna district organizer Deepan Dilisan and the women's team leader Vasuki Sudhakaran and many others.
+
+◼️
+
+[Data](articles/34e0d47d.json)
+
+[Extended Data](ext_articles/34e0d47d.ext.json)
+
+---
+
+### From 2019 to June 2019, 4,74,142 people have gone for foreign jobs - Manusha Nanayakkara
+
+*2024-07-24 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/189219) · `ta`
+
+From 2019 to June 2020, 474,142 Sri Lankans sought foreign employment, including 311,198 domestic workers, 362,943 trained professionals, and 1,119,900 others. Labor Minister Manusha Nanayakkara highlighted government efforts to ensure their safety, offering insurance, problem-solving officers, and secure accommodations, minimizing issues faced abroad.
+
+🟩
+
+From 2019 to June, 4,74 and 142 people have gone to foreign employment opportunities.The Minister of Labor and Foreign Employment, Manusha Nanayakkara, said that 3 of them are employed as housewives.
+
+The Minister said this while responding to a question raised by Rajika Wickremasinghe on Tuesday (23) in Parliament.
+
+From 2019 to June, 4,74 and 142 people have gone to foreign employment opportunities.Of them, 3 lakh 1198 are home maids. In addition, 3 lakhs 62 thousand 943 trained and one million 1199 people have gone abroad.. The Bureau of Foreign Employment is taking all measures on their welfare activities.
+
+...
+
+[Data](articles/7ce2117f.json)
+
+[Extended Data](ext_articles/7ce2117f.ext.json)
 
 ---

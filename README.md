@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 18:55:29**
+As of **2024-07-24 19:06:13**
 
 ## Newspaper Stats
 
-*Scraped **37,024** Articles*
+*Scraped **37,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,213
 dailyftlk | 2,358
-adalk | 3,357
+adalk | 3,359
 adaderanalk | 4,288
 tamilmirrorlk | 4,550
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,024 (100.0%) of 37,024 articles have been extended.
+37,024 (100.0%) of 37,026 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,7 +46,7 @@ The Supreme Court had also ordered the President to name a suitable person for t
 
 Accordingly, a special cabinet meeting was called this evening at the Presidential Secretariat in Colombo, chaired by President Ranil Wickramasinghe.
 
-◼️
+...
 
 [Data](articles/8fb170cc.json)
 
@@ -236,11 +236,9 @@ Accordingly, the Cabinet meeting is reportedly currently underway at the Preside
 
 The Japanese government today officially announced the release of funds for the resumption of development projects undertaken in Sri Lanka.
 
-A special press conference to officially announce the release of funds for restarting the projects, following the signing the agreement with the Official Creditors Committee, was held today (24 ) at the Auditorium of the Ministry of Finance.
+A special press conference to officially announce the release of funds for restarting the projects was held today (24) at the Auditorium of the Ministry of Finance.
 
-The press conference was attended by Mr. Misukoshi Hideyaki, Ambassador of Japan, Mr. Tetsuya Yamada, Head of JICA Sri Lanka Office, and Mr. Mahinda Siriwardena, Secretary of the Ministry of Finance.
-
-A Japanese delegation visiting Sri Lanka recently had lauded the successful completion of the country’s debt restructuring process, noting that it has paved the way for the resumption of Japanese Official Development Assistance (ODA) projects.
+The official announcement of Dr. TANAKA Akihiko, President of Japan International Cooperation Agency (JICA) on the resumption of the disbursement was handed over to Mr. K.M. Mahinda Siriwardana, Secretary to the Treasury and the Ministry of Finance, Economic Stabilization and National Policies, by Ms. IDE Yuri, Senior Representative of the JICA Sri Lanka Office.
 
 ...
 
@@ -692,6 +690,22 @@ A firefighter who was working on the fire has been admitted to the hospital due 
 
 ---
 
+### සමරිසි පනතට දැඩි අප්‍රසාදය පළකරමින් මහ නාහිමිවරු ජනපතිට ලියති
+
+*2024-07-24 14:02:34* · [`adalk`](https://www.ada.lk/breaking_news/සමරිසි-පනතට-දැඩි-අප්‍රසාදය-පළකරමින්-මහ-නාහිමිවරු-ජනපතිට-ලියති/11-410968) · `si`
+
+සමාජ පරිහානියට හේතුවන සදාචාර විරෝධී යෝජිත සමරිසි පනත් කෙටුම්පත සම්බන්ධයෙන් ත්‍රෛනිකායික මහනාහිමිවරුන්ගේ දැඩි අප්‍රසාදය පළ කරමින් ත්‍රෛනිකායික මහනාහිමිවරුන්ගේ අත්සනින් යුතුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලිපියක් යොමු කොට තිබේ .
+
+මල්වතු පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ සේ සිද්ධාර්ථ මහා නා හිමියන් අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඤාණරතන මහා නා හිමියන් අමරපුර මහා සංඝ සභාවේ මහානායක අතිපූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති ශ්‍රී ලංකා රාමඤ්ඤ නිකායේ මහානායක අතිපූජ්‍ය මකුලෑවේ ශ්‍රී විමලාභීධාන මහා නා හිමියන් යන මහනාහිමිවරුන්ගේ අත්සනින් යුතුව යොමු කොට ඇති එම ලිපියේ මෙසේ සඳහන්ය .
+
+රටේ සංස්කෘතික අනන්‍යතාවයන් , ඓතිහාසික උරුමය හා චිරාගත සද්චාරිත්‍රයන් නොසලකා පටු අත්තනෝමතික මත පදනම්ව රාජ්‍ය පාලනයෙහිලා යමක් උත්සාහ කරන්නේ කරන්නේනම් එය රාජ්‍ය ආරාජික වීමට මෙන්ම සමාජ බිඳවැටීමට බලපාන බව චක්කවත්ති සිහනාද සූත්‍රයේ දී තථාගතයන් වහන්සේ පැහැදිලි කර ඇත .
+
+...
+
+[Data](articles/1c6e4b6b.json)
+
+---
+
 ### Bomb attack on the Russian intelligence officer
 
 *2024-07-24 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199160) · `si`
@@ -1055,6 +1069,22 @@ But it has been plagued by poor safety due to insufficient training and maintena
 [Data](articles/e93f9cf8.json)
 
 [Extended Data](ext_articles/e93f9cf8.ext.json)
+
+---
+
+### චීනය නිසා ලංකාවට රු.බිලියන 6ක් ඉතුරු වෙයි
+
+*2024-07-24 12:29:36* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-නිසා-ලංකාවට-රු-බිලියන-6ක්-ඉතුරු-වෙයි/11-410966) · `si`
+
+පසුගිය 2019-2021 වර්ෂවල පැවති කොවිඩ් 19 ව්‍යසනය, අරගලය හා වෘත්තීය ක්‍රියාමාර්ග මෙන් ම ආර්ථික පසුබැස්ම නිසා අහිමි වූ සියලු පාසල් අධ්‍යයන කටයුතු 2025 වර්ෂය වන විට යාවත්කාලීන කර අවසන් කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+
+ඒ වෙනුවෙන් පසුගිය වසර දෙකක කාලය පුරා අධ්‍යාපන ක්ෂේත්‍රයේ සියලු දෙනා කළ සුවිශාල කැපවීම පිළිබඳ බොහෝ දෙනකුට අවබෝධයක් නොමැති බවත් විදුලිය, ඉන්ධන අද අවශ්‍ය පමණ ඇති නිසා රට යථා තත්වයට පත් වෙමින් පවතින අවස්ථාවක එම වෙහෙසකර මතකයන් බොහෝ දෙනෙකුගෙන් ගිලිහී යමින් පවතින බවත් අමාත්‍යවරයා වැඩිදුරටත් පැවසී ය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ ප්‍රාදේශීය මධ්‍යස්ථාන වෙත පෙළපොත් බෙදාහැරීමේ සමාරම්භක වැඩසටහනට ඊයේ සහභාගී වෙමින් පිටිපන ප්‍රධාන ගබඩා සංකීර්ණයේ දී ය. රජයෙන් පාසල් සිසු සිසුවියන්ට නොමිලේ දෙනු ලබන පෙළපොත් ඉදිරි 2025 වර්ෂයේ දීත් නිසි කලට අඛණ්ඩ ව ලබා දීමේ අරමුණින් එම ඉදිරි වර්ෂයට අදාළ පෙළපොත් බෙදා හැරීමේ කටයුතු අද දින මෙසේ ඇරඹුණ බව ද සුසිල් ප්‍රේමජයන්ත මහතා මෙහි දී කියා සිටියේ ය.
+
+...
+
+[Data](articles/b99b6930.json)
 
 ---
 
@@ -2319,45 +2349,5 @@ The suspects were residents of 26-year-old and 36-year-old Criminal Division and
 [Data](articles/7d701870.json)
 
 [Extended Data](ext_articles/7d701870.ext.json)
-
----
-
-### Gazette on the salary increase of Rs 1,700
-
-*2024-07-24 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பள-அதிகரிப்பு-தொடர்பான-வர்த்தமானி-ரத்து/175-340931) · `ta`
-
-The Ministry of Labor has canceled a previous notification about a Rs 1,700 salary increase for plantation workers. Instead, it directs payment through the Payment Board.
-
-🟩
-
-A Gazette Notification has been issued by the Ministry of Labor for cancellation of the Gazette Notification for a salary increase of Rs 1,700 for plantation workers.
-
-Accordingly, the Ministry of Labor has issued a directive to pay the daily salary of plantation workers through the Payment Board.. Remble
-
-◼️
-
-[Data](articles/2d395bd7.json)
-
-[Extended Data](ext_articles/2d395bd7.ext.json)
-
----
-
-### Rs 1,700 Gazette canceled
-
-*2024-07-24 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ1-700-வர்த்தமானி-ரத்து/175-340931) · `ta`
-
-The Ministry of Labor has canceled a previous notification about a Rs 1,700 salary increase for plantation workers. Instead, it now directs payment through the Payment Board.
-
-🟩
-
-A Gazette Notification has been issued by the Ministry of Labor for cancellation of the Gazette Notification for a salary increase of Rs 1,700 for plantation workers.
-
-Accordingly, the Ministry of Labor has issued a directive to pay the daily salary of plantation workers through the Payment Board.. Remble
-
-◼️
-
-[Data](articles/58ff67b7.json)
-
-[Extended Data](ext_articles/58ff67b7.ext.json)
 
 ---

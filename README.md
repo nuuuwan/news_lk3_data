@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 15:20:18**
+As of **2024-07-24 15:35:53**
 
 ## Newspaper Stats
 
-*Scraped **36,988** Articles*
+*Scraped **36,991** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 322
-colombotelegraphcom | 349
+colombotelegraphcom | 350
 bbccomsinhala | 360
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,207
 dailyftlk | 2,358
 adalk | 3,354
-adaderanalk | 4,282
-tamilmirrorlk | 4,545
+adaderanalk | 4,283
+tamilmirrorlk | 4,546
 dailymirrorlk | 4,733
 virakesarilk | 5,802
 adaderanasinhalalk | 6,206
@@ -26,27 +26,55 @@ adaderanasinhalalk | 6,206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,985 (100.0%) of 36,988 articles have been extended.
+36,988 (100.0%) of 36,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### 1,700 ரூபா சம்பள அதிகரிப்பு வர்த்தமானி இரத்து : அரசாங்கத்தின் உண்மை நிலைப்பாடு என்ன ? - வேலுகுமார் சபையில் கேள்வி
+### Court defers decision on Dayasiri’s plaint
+
+*2024-07-24 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100745/court-defers-decision-on-dayasiris-plaint) · `en`
+
+The Colombo District Court announced that its decision in relation to the interim injunction requested through the plaint filed by former SLFP General Secretary Dayasiri Jayasekara, seeking an order suspending the charge sheet issued initiating disciplinary action against him during Maithripala Sirisena’s tenure as SLFP chairman, will be delivered on July 31.
+
+Meanwhile, the Treasurer of the Sri Lanka Freedom Party (SLFP) Minister Lasantha Alagiyawanna had requested the court yesterday (23) through a petition of intervention to permit him to intervene in this case.
+
+Announcing his decision in this regard, the District Judge stated that they have the right to intervene in this case.
+
+Accordingly, the District Judge, who granted time to file objections related to this case, also ordered that the case be recalled again on July 31.
+
+◼️
+
+[Data](articles/b500a27e.json)
+
+---
+
+### 1,700 rupees salary increase gazette canceled: What is the true position of the government?- Question in Velukumar congregation
 
 *2024-07-24 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189269) · `ta`
 
-பெருந்தோட்ட மக்களின் 1,700 ரூபா சம்பள அதிகரிப்பு தொடர்பில் வெளியிடப்பட்ட வர்த்தமானி இரத்துச் செய்யப்பட்டுள்ளது. ஆகவே பெருந்தோட்ட மக்களின் சம்பள விவகாரத்தில்  அரசாங்கத்தின் உண்மை நிலைப்பாடு என்ன என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் வேலுகுமார் சபையில் கேள்வியெழுப்பினார்.
+The government's plan to increase plantation workers' salaries by 1,700 rupees was canceled after plantation companies challenged it in court. Despite the cancellation, the Prime Minister stated they could still raise wages, highlighting ongoing economic challenges faced by plantation workers.
 
-பாராளுமன்றத்தில் இன்று புதன்கிழமை (24) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை  முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பெருந்தோட்ட மக்களின் சம்பளத்தை 1700 ரூபாவாக அதிகரிப்பதாக ஜனாதிபதி  கடந்த மே மாதம் 01 ஆம் திகதி  குறிப்பிட்டார். அதனைத் தொடர்ந்து அதிவிசேட வர்த்தமானி வெளியிடப்பட்டது.இந்த வர்த்தமானி கடந்த மே மாதம் 21 ஆம் திகதி திருத்தம் செய்யப்பட்டது.
+The gazette released on a salary increase of 1,700 rupees of plantation people has been canceled. The United People's Power MP Velukumar questioned the council of the government's true position on the salary issue of the plantation people.
 
-இவ்வாறான நிலையில் கடந்த 10 ஆம் திகதி சம்பள அதிகரிப்பு விவகாரம்  தொடர்பில் வெளியிடப்பட்ட சகல  வர்த்தமானிகளும் இரத்து செய்யப்பட்டுள்ளன.பெருந்தோட்ட மக்களின் சம்பள விவகாரம் தொடர்பில் அரசாங்கத்தின் உண்மையான நிலைப்பாடு என்ன?
+He was speaking at a special statement during a session held in Parliament today (24).
 
-...
+On May 1, the President said that the salaries of the plantation people would be increased to 1700 rupees.. The gazette was later released on May 21.
+
+In this case, all the gazette issued on the issue of a salary increase on the 10th of this month has been canceled.
+
+The salary affair of plantation people who have been economically affected continues. So mention the government's position.
+
+Prasanna Ranatunga, the prime minister of the ruling party, said, "We are in a position to increase the salaries of plantation people. The plantation companies went to court against the increase.
+
+◼️
 
 [Data](articles/a06940f8.json)
+
+[Extended Data](ext_articles/a06940f8.ext.json)
 
 ---
 
@@ -74,33 +102,49 @@ Do they both get trapped inside a pipe now and go that way?Dushara questioned in
 
 ---
 
-### அதிபரை மாற்றுமாறு கோரி ஆர்பாட்டம்!
+### Demonstration demanding change
 
 *2024-07-24 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189265) · `ta`
 
-வவுனியா ஶ்ரீ இராமபுரம் திருஞானசம்பந்தர் வித்தியாலத்தின் அதிபரை மாற்றுமாறு கோரி பெற்றோர்களால் ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+Parents protested outside Thirughanasambandar Vidyalaya in Vavuniya, demanding the removal of the Chancellor due to declining student numbers and lack of communication about school issues. They argue that without changes, the school may close, impacting foreign aid and support for underprivileged students.
 
-இன்று புதன்கிழமை (24) பாடசாலையின் காலை பிரார்த்தனை முடிவடைந்த பின்னர் குறித்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டிருந்தது.
+🟩
 
-எமது பாடசாலை கல்விநிலையில் வீழ்ச்சி நிலையினை கண்டுள்ளது. பாடசாலையில் நடைபெறும் வேலைத்திட்டங்கள் தொடர்பான கணக்கறிக்கைகள் எவையும் சமர்பிக்கப்படவில்லை. அங்கு நடைபெறும் சம்பவங்கள் தொடர்பாக பெற்றோர்களிற்கு அறிவித்து கலந்துரையாடும் நடவடிக்கையினையும் அவர் முன்னெடுப்பதில்லை.
+A demonstration was held by parents demanding the replacement of the Chancellor of the Thirughanasambandar Vidyalaya in Vavuniya.
 
-இவ்வாறானா காரணங்களால் பாடசாலையில் மாணவர்களின் எண்ணிக்கை குறைந்துகொண்டு போகும் நிலை ஏற்ப்பட்டுள்ளது. இந்தநிலைமை தொடர்ந்தால் பாடசாலையினை இழுத்து மூடவேண்டிய நிலைமையே ஏற்படும். எனவே உடனடியாக அவரை மாற்றித்தருமாறு உரிய அதிகாரிகளிடம் கேட்டுக்கொள்கின்றோம் என்றனர்.
+The demonstration was held after the morning prayer of the school on Wednesday (24).
 
-...
+Our school has seen a fall in education. No accounting for school programs. He does not take action to inform parents about the incidents there.
+
+Due to these reasons, the number of students in the school is decreasing. If this situation continues, the school will have to be closed. So we are asking the relevant authorities to replace him immediately.
+
+Especially when we have received the help of foreigners, we have made the needs of the students' education, and we have expanded the need for poor students.. The accounting is submitted and it has been accepted by all.
+
+The administration of the school cannot be conducted as a few people say. He said that if some parents are working properly on their children, we will not have to conflict with students in school.
+
+◼️
 
 [Data](articles/cc8e118e.json)
 
+[Extended Data](ext_articles/cc8e118e.ext.json)
+
 ---
 
-### வரலாறு : 'கறுப்பு ஜூலை' வன்செயல்களில் காணாமல்போனோர் 700 பேர்; கொல்லப்பட்டோர் 300 பேர்! - 1984 வீரகேசரியில்....
+### History: 700 missing in 'Black July' Violence;300 killed!- 1984 Veerakesari ....
 
 *2024-07-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189261) · `ta`
 
-1983ஆம் ஆண்டு ஜூலை மாதம் இடம்பெற்ற இனக்கலவரத்தின்போது 700 பேர் காணாமல்போனதாகவும் 300 பேர் கொல்லப்பட்டதாகவும் தகவலொன்று வெளியிடப்பட்டது.
+In July 1983, also known as Black July, 700 people went missing and 300 were killed in a genocide, as reported by Veerakesari in 1984.
+
+🟩
+
+It was reported that 700 people were missing and 300 were killed during the genocide in July 1983.
 
 ◼️
 
 [Data](articles/2cb4df5c.json)
+
+[Extended Data](ext_articles/2cb4df5c.ext.json)
 
 ---
 
@@ -1430,6 +1474,20 @@ The Supreme Court has issued the order to investigate fundamental rights violati
 
 ---
 
+### If AKD Is Going To Be Another Political Leader?
+
+*2024-07-24 09:48:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/if-akd-is-going-to-be-another-political-leader/) · `en`
+
+The major argument of this article is to discuss whether Anura Kumara Dissanayake’s political path is suitable for the socio-political recovery in Sri Lanka. Apparently, he seems to be a possible candidate for the forthcoming presidential election because of his long-term political experiences as a member of Janatha Vimukthi Peramuna. But is it enough to be a leader of this fallen land? This land is at present going through different crises. It is in chaos. There is no point in becoming a microphone-political-leader who addresses people with heavy arguments. That is an outdated tradition, which has no sense at all.
+
+It is so easy to speak with so many rosy words and please people with different tongues. The majority of citizens of this land are fond of jokes but never listen to concrete discussions that lead to being better countrymen. Most of the people live in an illusion. Myths are the way of life that they deserve always. This is Sri Lanka!
+
+...
+
+[Data](articles/49a03e36.json)
+
+---
+
 ### Interim order issued against Deshabandu functioning as IGP
 
 *2024-07-24 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100739/interim-order-issued-against-deshabandu-functioning-as-igp) · `en`
@@ -1627,6 +1685,30 @@ Subsequently, the police have carried out a raid by the police a few weeks ago a
 [Data](articles/147df7ef.json)
 
 [Extended Data](ext_articles/147df7ef.ext.json)
+
+---
+
+### ஆள்மாறாட்டிய சட்டத்தரணி யாழில் கைது
+
+*2024-07-24 09:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆள்மாறாட்டிய-சட்டத்தரணி-யாழில்-கைது/71-340930) · `ta`
+
+ஆள்மாறாட்டம் தொடர்பான வழக்கில் யாழ்ப்பாணம் - உடுவில் பகுதியைச் சேர்ந்த சட்டத்தரணியொருவர் நேற்று கைது செய்யப்பட்டார்.
+
+யாழ்ப்பாணம் பிராந்திய விசேட குற்ற விசாரணைப் பிரிவு பொலிஸாரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+கைதான சட்டத்தரணி சாவகச்சேரி நீதவான் நீதிமன்றத்தில் முற்படுத்தப்பட்டநிலையில் 10 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணையில் விடுவிக்கப்பட்டார்.
+
+அத்துடன் சட்டத்தரணியின் அலுவலகத்தில் இருந்த மூன்று கணிணிகளையும் பகுப்பாய்வு விசாரணைக்குட்படுத்த நீதிமன்றம் உத்தரவிட்டது.
+
+இத்தாலியைச் சேர்ந்த பெண்ணொருவர், யாழ்ப்பாணத்துக்குத் திரும்பி விவாகரத்துக்கு விண்ணப்பிக்கச் சென்றபோது, அவர் ஏற்கனவே விவாகரத்துப் பெற்றுள்ளார் என்று தரவுகள் வெளிக்காட்டியுள்ளன.
+
+அந்தப் பெண் அதுவரை விவாகரத்துக்கு விண்ணப்பிக்காத நிலையில், இது தொடர்பில் பொலிஸாரிடம் முறையிட்டுள்ளார்.
+
+பொலிஸ் விசாரணைகளில், உடுவில் பகுதியில் உள்ள சட்டத்தரணியொருவர் கனிஷ்ட சட்டத்தரணிகள் மூலமாக ஆள்மாறாட்டம் செய்து , மேற்படி தம்பதியர்கள் விவாகரத்துப் பெற்றுக்கொள்வதாக நீதிமன்ற நடவடிக்கைகள் முன்னெடுக்கப்பட்டமை தெரியவந்தது.
+
+...
+
+[Data](articles/800d084f.json)
 
 ---
 
@@ -2225,63 +2307,5 @@ On 29 April, the Cabinet discussed the proposal to establish the ‘National Fil
 [Data](articles/b329abf8.json)
 
 [Extended Data](ext_articles/b329abf8.ext.json)
-
----
-
-### CPA Australia and Daily FT forum presents insights to digitalisation, AI, and future of business
-
-*2024-07-24 05:11:29* · [`dailyftlk`](https://www.ft.lk/business/CPA-Australia-and-Daily-FT-forum-presents-insights-to-digitalisation-AI-and-future-of-business/34-764651) · `en`
-
-CPA Australia, one of the world’s largest professional accounting organisations in partnership with Daily FT, yesterday hosted a thought leadership forum at the ITC Ratnadipa Hotel, Colombo.
-
-The event was titled “Digitalisation, AI, and the Future of Business” and was attended by over 100 C-suite executives, senior professionals, and other revered guests.
-
-The event opened with a welcome address by CPA Australia President, Board Chair, and John Curtin University Distinguished Professor Dale Pinto, who spoke extensively about technologies such as Artificial Intelligence’s (AI) impact on businesses and opportunities brought to the accounting industry.
-
-...
-
-[Data](articles/27795cd5.json)
-
-[Extended Data](ext_articles/27795cd5.ext.json)
-
----
-
-### Cabinet nod to gazette and table proposed State Asset Management Bill
-
-*2024-07-24 05:08:32* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-gazette-and-table-proposed-State-Asset-Management-Bill/34-764650) · `en`
-
-The Cabinet of Ministers on Monday approved proposal forwarded by the President in his capacity as the Finance, Economic Stabilisation and National Policies Minister to publish the draft Bill on State Asset Management in the Government gazette notification and submit the same in Parliament for approval.
-
-The move comes following the clearance received by the Attorney General to the draft prepared by the Legal Draftsman.
-
-On 17 October 2022, Cabinet approved identifying movable or immovable non-finance assets that a State institution fully owns, transferred, acquired, divested or borne by or utilised and to prepare a national assets register while updating it from time to time and to introduce a law on State assets management including provisions for confirming the receipts of proper benefits of those assets to the State institutions.
-
-...
-
-[Data](articles/c5c214a9.json)
-
-[Extended Data](ext_articles/c5c214a9.ext.json)
-
----
-
-### Cabinet clears amendments to expedite tax appeal process
-
-*2024-07-24 05:08:20* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-amendments-to-expedite-tax-appeal-process/34-764649) · `en`
-
-The Cabinet of Ministers on Monday approved expediting the tax appeal process, addressing delays that have hindered the collection of Rs. 73 billion in taxes.
-
-Recognising the need for a more efficient process, the Cabinet instructed the Legal Draftsman to prepare a draft that will expedite and formalise the tax appeal process.
-
-The proposal, presented by President Ranil Wickremesinghe in his capacity as the Finance, Economic Stabilisation and National Policies Minister aims to introduce amendments to the Inland Revenue Act No. 24 of 2017.
-
-These amendments are expected to reduce delays and improve the Government’s ability to collect taxes in a timely manner.
-
-Under current provisions, taxpayers who are dissatisfied with a decision by the Inland Revenue Department can appeal to the Commissioner General of Inland Revenue, who must issue a decision within two years.
-
-...
-
-[Data](articles/29ac37f2.json)
-
-[Extended Data](ext_articles/29ac37f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 18:27:18**
+As of **2024-07-24 18:38:16**
 
 ## Newspaper Stats
 
-*Scraped **37,023** Articles*
+*Scraped **37,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,107
 economynextcom | 2,213
 dailyftlk | 2,358
 adalk | 3,357
-adaderanalk | 4,287
+adaderanalk | 4,288
 tamilmirrorlk | 4,550
 dailymirrorlk | 4,733
 virakesarilk | 5,805
@@ -26,21 +26,47 @@ adaderanasinhalalk | 6,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,022 (100.0%) of 37,023 articles have been extended.
+37,023 (100.0%) of 37,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### පොලිස්පතිගේ අතුරු තහනම පිළිබඳ කැබිනට්ටුවෙන් හදිසි තීරණයක්
+### Cabinet takes decision following Supreme Court order on IGP
+
+*2024-07-24 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100752/cabinet-takes-decision-following-supreme-court-order-on-igp) · `en`
+
+The Cabinet of Ministers, which convened an urgent meeting today, has decided to announce its response to the decision of the Supreme Court regarding the Inspector General of Police (IGP) within the next two days after studying in depth the legal aspects of the matter.
+
+The Supreme Court today (24) issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
+
+The Supreme Court issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
+
+The Supreme Court had also ordered the President to name a suitable person for the position of IGP, for the duration of the interim order being enforced against Deshabandu Tennakoon.
+
+Accordingly, a special cabinet meeting was called this evening at the Presidential Secretariat in Colombo, chaired by President Ranil Wickramasinghe.
+
+◼️
+
+[Data](articles/8fb170cc.json)
+
+---
+
+### Sudden decision on IGP's interim ban
 
 *2024-07-24 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199171) · `si`
 
-පොලිස්පතිවරයා සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය දුන් තීන්දුවේ නීතිමය කරුණු සම්බන්ධයෙන් ගැඹුරින් අධ්‍යයනය කර ඉදිරි දින දෙක තුළදී ඇමති මණ්ඩලයේ ප්‍රතිචාරය ප්‍රකාශ කිරීම⁣ට අද (24) ජනාධිපති ප්‍රධානත්වයෙන් රැස්වූ අමාත්‍ය මණ්ඩලය තීරණය කර තිබේ.
+Cabinet meets after President's call to address Supreme Court's ruling on IGP's interim ban.
+
+🟩
+
+The Cabinet of Ministers has decided to meet the Presidential Declaration on the Supreme Court's decision on the IGP.
 
 ◼️
 
 [Data](articles/ebdf5ba1.json)
+
+[Extended Data](ext_articles/ebdf5ba1.ext.json)
 
 ---
 
@@ -2331,37 +2357,5 @@ Accordingly, the Ministry of Labor has issued a directive to pay the daily salar
 [Data](articles/58ff67b7.json)
 
 [Extended Data](ext_articles/58ff67b7.ext.json)
-
----
-
-### Impersonation - lawyer arrested in Jaffna
-
-*2024-07-24 09:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆள்மாறாட்டம்-யாழில்-சட்டத்தரணி-கைது/71-340930) · `ta`
-
-In Jaffna, a lawyer was arrested for impersonation, allegedly duping an Italian woman into believing her divorce wasn't finalized. The lawyer, released on bail, faces investigation over fraudulent activities involving three office computers.
-
-🟩
-
-A lawyer from Jaffna - Uduvil area was arrested yesterday in connection with the impersonation.
-
-The arrest was carried out by the Jaffna Regional Special Crime Investigation Division.
-
-Attorney -at -Law Chavakachcheri Magistrate's Court was released on two physical bail worth Rs 10 lakh.
-
-The court also ordered the analysis of all three computers in the lawyer's office.
-
-When a woman from Italy returned to Jaffna and applied for a divorce, data revealed that she was already divorced.
-
-The woman has not yet applied for a divorce, and has appealed to the police.
-
-Police investigations revealed that a lawyer in Uduvil area was impersonating the junior lawyers and that the couple were divorced.
-
-Subsequently, the police have carried out a raid by the police a few weeks ago at the lawyer's office.. Remble
-
-◼️
-
-[Data](articles/147df7ef.json)
-
-[Extended Data](ext_articles/147df7ef.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 16:35:31**
+As of **2024-07-24 16:52:52**
 
 ## Newspaper Stats
 
-*Scraped **37,009** Articles*
+*Scraped **37,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,107 @@ islandlk | 2,107
 economynextcom | 2,213
 dailyftlk | 2,358
 adalk | 3,356
-adaderanalk | 4,284
+adaderanalk | 4,286
 tamilmirrorlk | 4,549
 dailymirrorlk | 4,733
 virakesarilk | 5,805
-adaderanasinhalalk | 6,209
+adaderanasinhalalk | 6,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,005 (100.0%) of 37,009 articles have been extended.
+37,009 (100.0%) of 37,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### ඉන්දියාව රන් සහ රිදී ආනයන බදු පහත දමයි
+### President Ranil convenes urgent Cabinet meeting
+
+*2024-07-24 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100748/president-ranil-convenes-urgent-cabinet-meeting) · `en`
+
+President Ranil Wickremesinghe has convened an urgent meeting of the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/a47e2c3a.json)
+
+---
+
+### Japan officially announces release of funds to resume projects in Sri Lanka
+
+*2024-07-24 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100747/japan-officially-announces-release-of-funds-to-resume-projects-in-sri-lanka) · `en`
+
+The Japanese government today officially announced the release of funds for the resumption of development projects undertaken in Sri Lanka.
+
+◼️
+
+[Data](articles/94d5b3a7.json)
+
+---
+
+### ජනපති හදිසි කැබිනට් රැස්වීමක් කැඳවයි
+
+*2024-07-24 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199164) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අද (24) හදිසි කැබිනට් රැස්වීමක් කැඳවා ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/896418a4.json)
+
+---
+
+### India declines taxes on gold and silver
 
 *2024-07-24 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199163) · `si`
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගේ නව සන්ධාන රජය සිය මංගල අයවැය ඊයේ (24) ඉදිරිපත් කළේය.
+India's new government reduces gold and silver import taxes to curb illegal imports, aiming to support employment, small businesses, and the middle class while preparing for future economic reforms. This move, expected to lower domestic gold prices, follows India's status as the world's second-largest gold consumer.
 
-නව රජයේ අයවැය ඉදිරිපත් කරමින් ඉන්දීය මුදල් අමාත්‍යවරිය වන නිර්මලා සීතාරාමන් ප්‍රකාශ කළේ, මෙම අයවැය මගින් රැකියා නියුක්තිය සහ පුහුණුව, කුඩා ව්‍යාපාර සහ මධ්‍යම පන්තිය පිළිබඳ විශේෂ අවධානයක් යොමුකළ බවය.
+🟩
 
-මෙම අයවැය මගින් ඉදිරිපත් කෙරුණු ආර්ථික ප්‍රතිපත්ති රාමුව මීළඟ පරම්පරාවේ ප්‍රතිසංස්කරණ සඳහා පදනම සකසන බවත් ඇය කියා සිටියාය.
+Indian Prime Minister Narendra Modi's new UPFA government presented his wedding budget yesterday (24).
 
-ඒ අනුව මෙවර ඉන්දීය අයවැයෙන් ගනු ලැබූ විශේෂ පියවරක් වන්නේ රන් සහ රිදී ආනයන බදු පහත දැමීමය.
+The Minister of Finance, Minister of India, presenting the new government budget, stated that this Budget has paid special attention to employment and training, small business and middle class.
 
-ලෝකයේ දෙවැනි විශාලතම රන් පාරිභෝජකයා වන ඉන්දියාව මේ පියවර ගෙන තිබෙන්නේ, නීතිවිරෝධී ලෙස ඉන්දියාවට රන් ගෙනඒම නතර කිරීමේ පියවරක් ලෙසය.
+She said that the Economic Policy Framework presented by this Budget was prepared for the next generation reforms.
 
-රන් සහ රිදී සඳහා ඉන්දියාව පනවා තිබූ 15%ක ආනයන බදු 6% දක්වා කැපී පෙනෙන ලෙස අඩු කිරීම ඉන්දියාවේ රන් සඳහා ඉල්ලුම ඉහළ යාමට හේතුවක් විය හැකි බව වාර්තා වෙයි.
+Accordingly, this year's budget is the decline in gold and silver imports.
 
-මේ නිසා දැනටමත් ඉන්දියාවේ රන් මිල අඩුවී ඇති අතර ගෝලීය වෙළෙඳපොළේ රන් මිල ඉහළයාමක් දක්නට ලැබෙයි.
+The second largest golden consumer in the world, India, India, has taken this step as a measure of stopping gold to India illegally.
+
+It is reported that India can increase the 15% import tax on India to 6% import tax on the gold and silver.
+
+As a result, gold prices in India have already decreased and gold prices are high in the global market.
 
 ◼️
 
 [Data](articles/44f322de.json)
 
+[Extended Data](ext_articles/44f322de.ext.json)
+
 ---
 
-### முஸ்லிம் எம்.பி.க்கள் மன்னிப்பு கேட்கவேண்டும்
+### Muslim MPs should apologize
 
 *2024-07-24 16:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-எம்-பி-க்கள்-மன்னிப்பு-கேட்கவேண்டும்/175-340958) · `ta`
 
-கொரோனா தொற்றினால் உயிரிழந்த முஸ்லிம்களின் ஜனாஸாக்கள் எரிக்கப்பட்டமைக்கு  அரசு முஸ்லிம்களிடம் மன்னிப்புக்கேட்டது தொடர்பில்  பேசப்பட்டது என்று இலங்கை தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. யான இரா.சாணக்கியன், பாராளுமன்றத்தில், புதன்கிழமை (24) தெரிவித்தார்.
+Muslim MPs in Sri Lanka's Parliament are urged to apologize for supporting the 20th Amendment, which was controversial among Muslims. The call comes from a TNA MP, highlighting the need for accountability and reflection on past political decisions.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) விசேட கூற்றை முன்வத்து உரையாற்றிய போ​தே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-அந்த நேரத்தில் 20 ஆவது அரசியலமைப்புத் திருத்தத்திற்கு ஆதரவளித்து அரசை பாதுகாத்த முஸ்லிம் எம்.பி.க்களும் முஸ்லிம் மக்களிடம் மன்னிப்புக்கோர வேண்டும் ,அவ்வாறு ஆதரவளித்தவர்கள் இன்று அதனைப்பற்றி இந்த சபையில் பேசுவது வேடிக்கையானது என்றார்.
+Batticaloa district MP of the Sri Lanka Tamil National Party (TNA). In the Parliament, he said in Parliament on Wednesday (24).
+
+Speaking on Wednesday (24) in Parliament, he said this.
+
+The Muslim MPs who defended the 20th Amendment at the time and defended the state should apologize to the Muslims, and it is funny that those who supported it today are talking about it.
 
 ◼️
 
 [Data](articles/986e0766.json)
+
+[Extended Data](ext_articles/986e0766.ext.json)
 
 ---
 
@@ -152,19 +200,25 @@ About 30 people were attacking a person a short distance from where I was standi
 
 ---
 
-### இன்றிரவு சனி மறையும்
+### Saturn disappears tonight
 
 *2024-07-24 15:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிரவு-சனி-மறையும்/175-340957) · `ta`
 
-சூரிய குடும்பத்தில் வளையங்களை கொண்ட மிக அழகான கோளாக கருதப்படும் சனி புதன்கிழமை (24) இரவு வானில் இருந்து மறையவுள்ளது என தகவல் வௌியாகியுள்ளது.
+Tonight, Saturn, dubbed the most beautiful planet, will disappear alongside the Moon in a rare event visible to Sri Lankans from 12:50 am to 2:10 am. This phenomenon, announced by Arthur C Clarke, is a celestial treat not to be missed.
 
-சனி,  சந்திரனுக்கு மறைவதால் இவ்வாறு ஏற்படும் எனவும் இது ஒரு வகையில் 'சனி கிரகணம்' போன்றதுடன் இது மிக அரிதான சம்பவம் எனவும் வானியலாளர்கள் ​தெரிவித்துள்ளனர்.
+🟩
 
-இந்த நிகழ்வை புதன்கிழமை (24) நள்ளிரவு 12.50 மணி முதல் அதிகாலை 2.10 மணி வரை இலங்கையர்கள் காண முடியும் என ஆர்தர் சி கிளார்க் நிறுவனம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+It is reported that Saturn is considered the most beautiful planet in the solar system on Wednesday (24) night.
+
+Astronomers have said that this is a rare incident as Saturn and the Moon are a rare incident.
+
+The event will be seen by Sri Lankans from 12.50 am to 2.10 am on Wednesday (24), according to a statement issued by Arthur C Clark.
 
 ◼️
 
 [Data](articles/e7867188.json)
+
+[Extended Data](ext_articles/e7867188.ext.json)
 
 ---
 
@@ -1284,19 +1338,25 @@ In equities, Colombo’s All Share Price Index opened 25.70 points higher at 11,
 
 ---
 
-### ඉන්දු  - ලංකා විස්සයි20 තරගාවලියේදි රු. 10000ක ටිකට් පතක්
+### Rs. 20 Amount of Indo-Lanka Twenty20 tour. 10000 ticket
 
 *2024-07-24 11:12:00* · [`adalk`](https://www.ada.lk/sports/ඉන්දු----ලංකා-විස්සයි20-තරගාවලියේදි-රු--10000ක-ටිකට්-පතක්/9-410964) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වීමට විස්සයි-20 සහ එක්දින තරඟාවලියේ ප්‍රවේශ පත්‍ර ඔන්ලයින් ක්‍රමයට මිලදී ගැනීමේ අවස්ථාව ක්‍රීඩාලෝලීන් හට හිමිව තිබේ.
+Tickets for the Indo-Lanka Twenty20 series, starting from July 27, and One-day matches from August 2, are available for Rs. 20 each. Migrants can purchase through the UTSLCRICKET platform.
 
-ඒ අනුව https://mycricket.com.lk/slcb-ticketing-frontend-ticketing-platform-ui/home වෙබ් පිටුව ඔස්සේ ප්‍රවේශ පත්‍ර මිලදී ගත හැකි බව ශ්‍රී ලංකා ක්‍රිකට් අයාතනය පවසයි.
+🟩
 
-දෙරට අතර විස්සයි-20 තරඟාවලිය ලබන 27 වනදා ආරම්භ වීමට නියමිත අතර දෙවන සහ තෙවන තරඟ පිළිවෙලින් ලබන 28 සහ 30 වන දින පැවැත්වීමට නියමිතයි. එක්දින තරඟාවලිය අගෝස්තු මස 2 වනදා ආරම්භ වීමට නියමිතය.
+Migrant has the opportunity to buy tickets of the Twenty20 and ODIs to hold between Sri Lanka and India.
+
+According to the UTSLCRICKET.com.lk.lkTtikketing-Frontend-TICKETING -TICKETING -TICKETING-PLATFORMEBILE'S USP.
+
+The Twenty20 Tournament between the two countries will commence on the 27th and the second and third competitions will be held on the 28th and 30th of next month. The One-day tournament will commence on August 2.
 
 ◼️
 
 [Data](articles/f2329685.json)
+
+[Extended Data](ext_articles/f2329685.ext.json)
 
 ---
 
@@ -2271,75 +2331,5 @@ However, 21 plantation companies including Agarapatana Plantations Ltd., had fil
 [Data](articles/c1bdb904.json)
 
 [Extended Data](ext_articles/c1bdb904.ext.json)
-
----
-
-### Notice on the results of the GCE O / L
-
-*2024-07-24 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199143) · `si`
-
-The GCE Ordinary Level exam results will be released in September 2023, after finalizing the answers from the last week. The next exam will take place in January and February.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the GCE Ordinary Level examination will be issued in September 2023, said Minister of Education Susil Premajayantha said.
-
-The Minister stated that the results of the last week to check the answers have already been finalized and the number of Examinations Department will be able to bring results as of September.
-
-The Minister said that the next Ordinary Level will be held within the two months of January and February.
-
-◼️
-
-[Data](articles/f368b694.json)
-
-[Extended Data](ext_articles/f368b694.ext.json)
-
----
-
-### Sri Lanka central bank policy lending rate cut 25bp to 9.25-pct
-
-*2024-07-24 07:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-policy-lending-rate-cut-25bp-to-9-25-pct-173466/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has cut the rate at which it is lending ‘printed money’ to banks by 25 basis points to 9.25 percent and the rate at which excess money is taken to 8.25 percent, in a July monetary policy decision.
-
-“The Board arrived at this decision following a careful assessment of the current and expected macroeconomic developments and possible risks and uncertainties on the domestic and global fronts with a view to maintaining inflation at the targeted level of 5 per cent over the medium term, while enabling the economy to reach its full capacity,” the central bank said in a monetary policy statement.
-
-“In arriving at this decision, the Board considered the need to signal the continuation of the eased monetary policy stance, thereby inducing a further reduction in market lending rates to support economic activity, amidst a benign inflation outlook.
-
-...
-
-[Data](articles/2b21f1bd.json)
-
-[Extended Data](ext_articles/2b21f1bd.ext.json)
-
----
-
-### Petitions against Chapter of Deshabandu today consider today
-
-*2024-07-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199142) · `si`
-
-Today, 24 petitions were filed against the Chapter of Deshabandu, including one by Malcolm Cardinal Ranjith. The Supreme Court is set to review them, possibly influenced by the recent announcement regarding an order. The case involves an interim injunction and the appointment of Deshabandu Tennakoon, with legal arguments presented by President's Counsel Romesh de Silva and Additional Solicitor General Nerin Pulle.
-
-🟩
-
-Petitions filed today (24) is due to be reviewed today (24).
-
-Is it possible to take the petitions to the examination?Not?The Supreme Court recently announced that the order would be announced today.
-
-The Ada Derana is to be announced whether the interim injunction will prevent the interim injunction preventing Deshabandu Tennakoon.
-
-These petitions have been submitted by Malcolm Cardinal Ranjith.
-
-The appointment of the fundamental rights petitions filed by the Supreme Court recently considered the fundamental rights petitions filed by the Inspector General of Plantless Relief.
-
-The petitions took place before the Supreme Court judge with Yasantha Kodagoda, Achala Vennapple and Mahinda Samayawardena.
-
-President's Counsel Romesh de Silva, who pointed out that the Constitutional Council is an independent institution outside the executive and the legislature, and requested the courts without the examination.
-
-...
-
-[Data](articles/f595f458.json)
-
-[Extended Data](ext_articles/f595f458.ext.json)
 
 ---

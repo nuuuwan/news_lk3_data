@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 04:54:43**
+As of **2024-07-25 05:05:37**
 
 ## Newspaper Stats
 
-*Scraped **37,077** Articles*
+*Scraped **37,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,183 @@ bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,220
-dailyftlk | 2,364
+dailyftlk | 2,370
 adalk | 3,366
 adaderanalk | 4,290
 tamilmirrorlk | 4,562
 dailymirrorlk | 4,733
-virakesarilk | 5,816
+virakesarilk | 5,820
 adaderanasinhalalk | 6,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,077 (100.0%) of 37,077 articles have been extended.
+37,077 (100.0%) of 37,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### WNPS lecture on “Leopards” tomorrow by South African ecologist
+
+*2024-07-25 04:56:04* · [`dailyftlk`](https://www.ft.lk/news/WNPS-lecture-on-Leopards-tomorrow-by-South-African-ecologist/56-764732) · `en`
+
+The Wildlife and Nature Protection Society (WNPS) will hold its monthly lecture tomorrow on the theme “Leopards, people, and everything…” by South African ecologist, researcher, and conservationist Dr. Jeannine Stephanie McManus at 6 p.m. at the Jasmine Hall, BMICH.
+
+The lecture and the topic comes ahead of Sri Lanka Leopard Day which falls on 1 August.
+
+WNPS said Dr. McManus, a global expert in human-wildlife conflict mitigation, will share her insights on fostering human-leopard coexistence in Sri Lanka. The Sri Lankan leopard, found both inside and outside protected areas, faces increasing challenges that threaten its survival. Dr. McManus’s expertise offers valuable perspectives on addressing these issues.
+
+...
+
+[Data](articles/92d9eff0.json)
+
+---
+
+### Sri Lanka Retailers’ Association hosts 7th Annual General Meeting
+
+*2024-07-25 04:51:16* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Retailers-Association-hosts-7th-Annual-General-Meeting/34-764731) · `en`
+
+...
+
+[Data](articles/88a9d9e7.json)
+
+---
+
+### Kapruka Holdings announces two new appointments to its Board of Directors
+
+*2024-07-25 04:50:33* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-Holdings-announces-two-new-appointments-to-its-Board-of-Directors/34-764730) · `en`
+
+Kapruka Holdings PLC has announced the appointment of Dr. D.B.S. Chamara Bandara and Lakshman Abeysekera as Independent Non-Executive Directors to the Board of the Company.
+
+Dr. D.B.S. Chamara Bandara a distinguished senior chartered accountant with over two decades of experience in financial management, accounting, corporate tax, secretarial practice, audits, and business consulting. Currently, Dr. Bandara is the founder of Corporate Doctors Ltd., and S B Corporate (Chartered Accountants). Before establishing his own companies, Dr. Bandara gained extensive experience in industries such as building construction and engineering, hotels, and garments. In his current role as Founder/CEO of Corporate Doctors and SCB Corporate, he is responsible for business sustainability, people management, strategic planning, handling customer complaints, maintaining service quality, and ensuring client satisfaction.
+
+...
+
+[Data](articles/4a83343a.json)
+
+---
+
+### OPA to hold 37th Annual Conference from 26-27 August
+
+*2024-07-25 04:46:57* · [`dailyftlk`](https://www.ft.lk/business/OPA-to-hold-37th-Annual-Conference-from-26-27-August/34-764729) · `en`
+
+From left: Vice President and Convener of  the 37th Annual Conference Committee Jayantha Gallehewa, OPA President Sarath Gamage, and President-elect and the 37th Annual Conference Committee Chairman Sujeewa Lal Dahanayake
+
+The flagship event of the Organisation of Professional Associations of Sri Lanka (OPA), the 37th Annual Conference, will take place on the 26 and 27 August at the Shangri-La Hotel, Colombo.
+
+OPA was established in 1975 and is the apex body of 52 member associations encompassing 34 professions such as Law, Medicine, Engineering, Accountancy, Supply Chain Management, Architecture, and Banking. With a combined strength of over 60,000 members, the OPA is a platform for the professionals of the country to provide their collective expertise on matters of national importance and to work for the development of the professions.
+
+...
+
+[Data](articles/097bada8.json)
+
+---
+
+### Hayleys Fentons secures Gold at National Business Excellence Awards
+
+*2024-07-25 04:43:43* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-secures-Gold-at-National-Business-Excellence-Awards/34-764728) · `en`
+
+Subsidiary, Nex-Gen Engineering Studio wins Gold award in small business category and ‘Runner Up’ in ‘Other Services’ sector
+
+Building on a century of engineering excellence, Hayleys Fentons scored a triple win at the National Business Excellence Awards 2024.
+
+Showcasing its enduring legacy and innovative approach to engineering, the team once again became the winner in its highly competitive infrastructure and utilities sector in the extra-large category. Nex-Gen Engineering Studio, an emerging subsidiary solely dedicated to providing design visualisation solutions within Hayleys Fentons, also became the ‘Gold Award Winner’ in the small business category and was even awarded the ‘Runner-up’ title in the ‘Other Services’ sector.
+
+The National Business Excellence Awards, held annually by the National Chamber of Commerce in Sri Lanka, serve as a platform to honour businesses that have made significant contributions to the economic development of the country.
+
+...
+
+[Data](articles/a7a813ef.json)
+
+---
+
+### தற்போதைய விவசாய நவீனமயமாக்கல் திட்டத்தில் விவசாயிகளை தொடர்ந்தும் அரசியல் கையாட்களாக மாற்ற முடியாது - மஹிந்த அமரவீர
+
+*2024-07-25 04:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/189308) · `ta`
+
+உள்நாட்டு விவசாயத்தை ஊக்குவிப்பதற்காக தற்போதைய அரசாங்கத்தினால் ஆரம்பிக்கப்பட்டுள்ள திட்டமிடப்பட்ட விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் காரணமாக இனிமேல்  விவசாயிகளை அரசியல் கையாட்களாக்க முடியாது என கமத்தொழில் மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+
+சிறு மற்றும் பெரும்போகத்துடன் இணைந்ததாக பயறை பயிரிட்டு 18,828 மெற்றிக் தொன் அறுவடையை பெறும் வேலைத்திட்டம் நடைமுறைப்படுத்தப்பட்டுள்ளதாகவும் இதன் கீழ் ஒரு விவசாயிக்கு ஹெக்டெயாருக்கு 25 கிலோ விதைப் பயறு வழங்கப்படும் எனவும் அமைச்சர் குறிப்பிட்டார்.
+
+2023 ஆம் ஆண்டு வெற்றிகரமாக முன்னெடுக்கப்பட்ட வேலைத்திட்டத்தின் ஊடாக நெல் விளைச்சலின் மூலம் சுமார் 03 மில்லியன் மெற்றிக் தொன் அரிசியை உற்பத்தி செய்ய முடிந்துள்ளதாகவும், இதன் மூலம் நாட்டில் மேலதிக அரிசித் தொகையைப் பேணமுடிந்துள்ளதாகவும், இந்நாட்டு நெல் உற்பத்தி 4.5 மில்லியன் மெட்ரிக் தொன் என்றும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (24) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் மஹிந்த அமரவீர இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/f96edb4b.json)
+
+---
+
+### பொலிஸ்மா அதிபரின் பதவி நிறுத்தம் தேர்தலைப் பாதிக்காது சட்டம் தெளிவாகக் கூறுகிறது - எம்.ஏ.சுமந்திரன்
+
+*2024-07-25 04:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189307) · `ta`
+
+பொலிஸ் மா அதிபர் பதிவி இடைநிறுத்த பட்டாலும் ஜனாதிபதி தேர்தலை நடாத்தும் அதிகாரம் தேர்தல் ஆணைக்குழுவிற்கு உள்ளதாக ஜனாதிபதி சட்டத்தரணி பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+புதன்கிழமை (24) யாழ் வர்த்தக சங்கத்தில் இடம்பெற்ற கலந்துரையாடலை தொடர்ந்து ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார் .
+
+இது தொடர்பாக 9 மனுக்கள் தாக்கல் செய்யப்பட்டு பல நாட்கள் விவாதம் செய்யபட்டு இந்த வழக்கினை கொண்டு செல்வதற்கு அனுமதியினை வழங்குகின்ற அதே நேரத்தில் ஜனாதிபதியினாலே  நியமனம் பெற்ற பொலிஸ்மா அதிபருடைய நியமனம் சட்டபூர்வமானதாக இல்லை என்ற காரணத்தினாலே தேசபந்து தென்னக்கோன் என்ற பொலிஸ்மா அதிபரை அந்த பதவியில் இருந்து இடைநிறுத்தி உச்ச நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இந்த உத்தரவு வந்த பின் அமைச்சரவை அவசர அவசரமாக கூடி ஜனாதிபதி தேர்தலை இடைநிறுத்தம் ஏற்பாடுகள் இடம்பெற்று வருவதான  செய்தி எங்களுக்கு கிட்டியிருக்கின்றது.
+
+ஒரு நிரந்தர பொலிஸ் மா அதிபர் இல்லாத நிலையில் ஜனாதிபதி தேர்தல் நடாத்த முடியாது என்ற கருத்து நிலவுவதாக நாம் அறிகின்றோம்.
+
+...
+
+[Data](articles/cd3f177d.json)
+
+---
+
+### ஆசிரியர் பற்றாக்குறையை கண்டித்து பெற்றோர்கள் ஆசிரியர்கள் வலயக்கல்வி பணிமனை முன்பாக ஆர்ப்பாட்டம்
+
+*2024-07-25 04:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189306) · `ta`
+
+வவுனியா தெற்கு வலயத்திற்குட்பட்ட 22 சிங்கள பாடசாலைகளில் நிலவும் ஆசிரியர் பற்றாக்குறையினால் மாணவர்களின் கற்றல் செயல்பாடுகளை முன்னெடுக்க சிரமமான நிலை காணப்படுவதாக தெரிவித்து வவுனியா தெற்கு வலயத்திற்குட்பட்ட 22 சிங்கள பாடசாலை ஆசிரியர்கள் மற்றும் பெற்றோர்கள் இணைந்து வவுனியா தெற்கு வலயக்கல்வி பணிமனைக்கு முன்பாக புதன்கிழமை (24) ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+ஆர்ப்பாட்டத்தின் போது ஆசிரியர்களை நியமிக்க கோரியும் மாணவர்களின் கல்வி பாதிக்கப்படாத வகையில் செயல்படக் கோரியும் பதாகைகளை தங்கி இருந்தனர்.
+
+சுமார் ஒரு மணி நேரமாக இடம் பெற்ற இந்த ஆர்ப்பாட்டத்தில் பல பெற்றோர்கள் கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1cb0c9a6.json)
+
+---
+
+### விசேட அறிவிப்பை வெளியிடவுள்ள அமைச்சர் விஜேதாச?
+
+*2024-07-25 03:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189305) · `ta`
+
+நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜேதாச ராஜபக்ஷ வியாழக்கிழமை (25) விசேட அறிவிப்பொன்றை வெளியிடவுள்ளதாக தெரிவிக்கப்படுகிறது. ஜனாதிபதித் தேர்தலில் களமிறங்குவதற்காக அமைச்சு பதவியை இராஜிநாமா செய்வது தொடர்பிலேயே அவரது விசேட அறிவித்தலில் தெரிவிக்கப்படும் என எதிர்பார்க்கப்படுகிறது.
+
+இது தொடர்பில் அமைச்சர் விஜேதாச ராஜபக்ஷவை தொடர்பு கொண்டு வினவிய போது, புன்னகையுடன், 'அது எனக்கு தெரியாது.' என்று பதிலளித்தார். அத்தோடு நேற்று கூட்டப்பட்ட விசேட அமைச்சரவை கூட்டத்திலும் அவர் பங்கேற்றிருக்கவில்லை. தவிர்க்க முடியாத காரணத்தால் தான் விசேட அமைச்சரவை கூட்டத்தில் பங்கேற்கவில்லை என்றும் அமைச்சர் தெரிவித்தார்.
+
+அமைச்சர் விஜேதாச ராஜபக்ஷ கடந்த சில மாதங்களாக தான் ஜனாதிபதித் தேர்தலில் போட்டியிடவுள்ளதாக தெரிவித்து வருகின்றார். அதற்காக அவர் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுடன் இணைந்து அரசியல் நடவடிக்கைகளிலும் ஈடுபட்டு வருகின்றார். முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவும் தமது வேட்பாளர் விஜேதாச ராஜபக்ஷ என்பதை பகிரங்கமாவே தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/4d25eca6.json)
+
+---
+
+### Ranil’s Tamil Nadu obsession, comparative Anura-Sajith progressivisms, and North-East solutions
+
+*2024-07-25 03:56:29* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-Tamil-Nadu-obsession-comparative-Anura-Sajith-progressivisms-and-North-East-solutions/4-764712) · `en`
+
+“…key growth drivers along with greater integration with giant and prospering neighbour India. With regard to the latter, he [Wickremesinghe] singled out land connectivity between Sri Lanka and burgeoning South India as a critical development.”
+
+Whatever the outcome, a Kamala Harris presidential run will have a powerful positive impact on the consciousness of Asian (especially South Asian) women and girls, and on women and girls of colour throughout the world, thereby acting as a progressive factor in history.
+
+I hope Vice-President Harris picks Senator Bernie Sanders as her running-mate because Republican JD Vance is a formidable aspirant Veep with a compelling story. The US Democratic party establishment will probably block Bernie, though he is faring very well in public opinion polls.
+
+...
+
+[Data](articles/a3a8ace1.json)
+
+---
 
 ### SOERU and insulation it provides against bad privatisations
 
@@ -70,9 +230,9 @@ The Sinhala South and its leaders cannot for a moment leave all responsibility w
 
 Successive regimes unsuccessfully tried to bury what happened during the war – Pic by Shehan Gunasekara
 
-In Sri Lanka, fear is pervasive. Suppression of media and fundamental rights of people and repression of human rights defenders foster a climate of fear, silencing victims, and inhibiting reconciliation. Political and criminal interests threaten the justice system, putting lives at risk for exposing the truth.
+A reconciled society respects and champions the rights of all citizens. Identifying issues that need to be addressed when working towards reconciliation becomes crucial. Achieving a just, equitable society requires equal life opportunities for all, regardless of anyone’s background.Effective reconciliation demands enlightened leaders addressing past crimes and rights violations. It transcends political classes, requiring genuine commitment
 
-For decades, regimes have perpetuated impunity, showing no signs of change. There have been no credible, independent investigations into major violent events like insurrections, the Black July pogrom, the proscription of the JVP, or the Easter bombings. Investigations are often obstructed, cases against perpetrators dismissed, and genuine investigators silenced or exiled. Allegations against intelligence and security agencies underscore the need for transparent and independent investigations with international involvement.
+In Sri Lanka, fear is pervasive. Suppression of media and fundamental rights of people and repression of human rights defenders foster a climate of fear, silencing victims, and inhibiting reconciliation. Political and criminal interests threaten the justice system, putting lives at risk for exposing the truth.
 
 ...
 
@@ -2137,255 +2297,5 @@ The Indian team has arrived in the island and will commence the T20 to hold on t
 [Data](articles/c22c88e4.json)
 
 [Extended Data](ext_articles/c22c88e4.ext.json)
-
----
-
-### Sri Lanka presidential candidate cash deposits not updated in 43 years: MP
-
-*2024-07-24 12:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-candidate-cash-deposits-not-updated-in-43-years-mp-173570/) · `en`
-
-ECONOMYNEXT — The cash deposits Sri Lanka’s presidential candidates are required to pay have not been revised in 43 years, opposition MP Dullas Alahapperuma said, calling for a significant increase in order to save money and to prevent proxy candidates.
-
-Alahapperuma told parliament on Wednesday July 24 that, as per the Presidential Elections Act No. 15 of 1981, a candidate nominated by a recognised political party has to deposit only 50,000 rupees while an independent candidate, or a candidate nominated by any other party or by an elector, must pay only 75,000 rupees.
-
-The MP said the cabinet of former president Gotabaya Rajapaksa had approved an amendment to the act to increase these amounts.
-
-“The election commission proposed that this be increased to 2.5 million rupees for political parties and 3 million for independent candidates. This was a pertinent proposal. There were 35 candidates who contested the last election,” he said.
-
-...
-
-[Data](articles/7dc2c883.json)
-
-[Extended Data](ext_articles/7dc2c883.ext.json)
-
----
-
-### Indian tournament losing the Indian tournament
-
-*2024-07-24 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199156) · `si`
-
-In a cricket series between India and Sri Lanka, Sri Lanka's fast bowler Dushmantha Chameera suffered a loss. The Indian team is participating in three ODIs and as many T20s in Sri Lanka.
-
-🟩
-
-Sri Lanka's fast bowler Dushaminha Chameera has lost the tournament with India.
-
-The Indian team is currently in Sri Lanka to attend three ODIs and 20 ODIs.
-
-◼️
-
-[Data](articles/12267613.json)
-
-[Extended Data](ext_articles/12267613.ext.json)
-
----
-
-### Firing in Mullaithivu
-
-*2024-07-24 12:54:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-துப்பாக்கிச்-சூடு/72-340950) · `ta`
-
-In Mullaitivu, a farmer and Kamakara Organization secretary was killed early Wednesday morning. The incident occurred while he was waiting for a policeman, having spent the night outdoors after harvesting crops. The victim, identified as Selvaya Krishnaraja, 42, was later hospitalized in Kilinochchi. Residents suggest the motive behind the shooting could be related to disputes over illegal sand mining.
-
-🟩
-
-A farmer and a secretary of the Kamakara Organization, who was waiting for a policeman on the road, which was harvested in the Mullaitivu district, was shot dead on Wednesday morning.
-
-The secretary of the Kamakara Organization has been admitted to the Kilinochchi District Hospital for further treatment.
-
-He was sleeping on the streets as he was harvested and dried on the street after he was waiting for the night.
-
-He was shot dead by unidentified persons at around 3.00 am on Wednesday (24).
-
-The secretary of the Kamakara Organization of Kamakarakulam, 42, Selvaya Krishnaraja, who was admitted to the Mallavi Apostle, has been transferred to the Kilinochchi District Medical Center for further treatment.
-
-Residents have said that he is the secretary of the Education Kamakara Organization and that the shooting has been held due to the competition in the illegal sand excavation.
-
-◼️
-
-[Data](articles/e5729f89.json)
-
-[Extended Data](ext_articles/e5729f89.ext.json)
-
----
-
-### Sri Lanka deaf driver license project to be expanded islandwide
-
-*2024-07-24 12:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-deaf-driver-license-project-to-be-expanded-islandwide-173565/) · `en`
-
-ECONOMYNEXT – A pilot project that allowed hearing-impaired persons to obtain light-vehicle driving licenses has been successful and will be rolled out island-wide, Sri Lanka’s Motor Traffic Department said.
-
-The project was implemented in the Gampaha District initially where 50 licenses were provided to drivers who qualified.
-
-The project was expanded to the Kurunegala District, where 150 drivers obtained licences. The drivers were given a probation period.
-
-“Actually, this was a very successful project. It has been almost a year and we haven’t received a single complaint yet,” Motor Traffic Department Commissioner – Driving Licence Wasantha Ariyarathna told reporters on Wednesday.
-
-The issuance of driver’s licenses to hearing impaired persons will be done on a bi-annual renewal basis.
-
-◼️
-
-[Data](articles/b9f5e53e.json)
-
-[Extended Data](ext_articles/b9f5e53e.ext.json)
-
----
-
-### Aircraft collapses in Nepal
-
-*2024-07-24 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199155) · `si`
-
-An aircraft crashed in Kathmandu, Nepal, killing 19 passengers, including one from Sayura. The incident occurred near the tourist city, and recovery efforts are underway.
-
-🟩
-
-International media reports that an aircraft collapsed in Kathmandu, Nepal.
-
-One of the few passengers from Sayura has crashed and 19 passengers.
-
-The plane had collapsed at the time of the airplane as a tourist city.
-
-The bodies of the deceased have been found and the relief teams have begun in the collapse.
-
-◼️
-
-[Data](articles/a318c923.json)
-
-[Extended Data](ext_articles/a318c923.ext.json)
-
----
-
-### Plane crashes on takeoff in Kathmandu with 19 aboard
-
-*2024-07-24 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100744/plane-crashes-on-takeoff-in-kathmandu-with-19-aboard) · `en`
-
-A plane crashed during takeoff in Nepal’s capital Kathmandu on Wednesday morning with 19 people aboard, the Kathmandu Post newspaper reported citing an airport official.
-
-The newspaper said the Saurya Airlines plane crashed at around 11.00am (0515 GMT) with police and firefighters engaged in rescue efforts.
-
-“Nineteen people, including aircrew, were aboard,” the paper reported, quoting airport spokesperson Premnath Thakur.
-
-News portal Khabarhub reported that the airplane had caught fire and was “releasing a significant plume of smoke.”
-
-The flight was en route to Pokhara, an important tourism hub in the Himalayan republic.
-
-Saurya Airlines exclusively flies Bombardier CRJ 200 jets, according to its website.
-
-Nepal’s air industry has boomed in recent years, carrying goods and people between hard-to-reach areas as well as foreign trekkers and climbers.
-
-But it has been plagued by poor safety due to insufficient training and maintenance.
-
-...
-
-[Data](articles/e93f9cf8.json)
-
-[Extended Data](ext_articles/e93f9cf8.ext.json)
-
----
-
-### China remains Rs. 6 billion to Sri Lanka
-
-*2024-07-24 12:29:36* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-නිසා-ලංකාවට-රු-බිලියන-6ක්-ඉතුරු-වෙයි/11-410966) · `si`
-
-In response to the Covid-19 pandemic and subsequent economic challenges, China has pledged Rs. 6 billion to support Sri Lanka's education sector. The Minister of Education highlighted the struggles faced during 2019-2021, including loss of educational progress and the inability to fulfill major commitments. However, efforts are underway to recover and improve the situation, with textbook distributions planned for free provision to students. Additionally, updates to the Ordinary Level and Scholarship Examination schedules for early 2025 were announced, alongside the appointment of 2,300 teachers to address shortages. The government also aims to fill remaining vacancies and ensure the provision of school uniforms for 2024.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha said that the Covod 19 disaster, struggle and professional measures in the past 2019-2021, as well as all school acquisition lost due to the equal economic retrial.
-
-The Minister further stated that many of the largest commitment to the education sector in the past two years have not been able to understand and that many tireless memories are being recovered today.
-
-The Minister was speaking at the inauguration of the distribution program to the inauguration program to the local centers yesterday at the main warehouse complex. Susil Premajayantha said that the distribution of the textbooks will be launched today with the objective of providing free of charge for school children.
-
-The Minister said that all the surveyors of the Surveyors have increased by the Ordinary Level and Ordinary Level Scholarship Examination.. He said that in the first two months of 2025, the exam schedule and other exam will be updated.
-
-...
-
-[Data](articles/b99b6930.json)
-
-[Extended Data](ext_articles/b99b6930.ext.json)
-
----
-
-### The student who spoke about
-
-*2024-07-24 12:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பந்தம்-பேசிய-மாணவியை-வன்புணர்ந்த-காதலன்/76-340949) · `ta`
-
-A 15-year-old student was allegedly sexually abused by her 23-year-old boyfriend in Puttala. The incident led to his arrest, followed by the victim being hospitalized for medical examination. Both parties involved had a romantic relationship, and the abuse occurred during one of their visits. The suspect was later brought before the Magistrate's Court.
-
-🟩
-
-The incident took place in the Puttala area on Tuesday (23) that the police arrested her boyfriend on charges of sexually abusing a 15 -year -old student.
-
-The mother of a 23 -year -old youth from Katugahagkeke, who is studying in 11th grade, has gone to the house of a 23 -year -old youth.
-
-At the time, the younger parents agreed to it and told the student to wait till the adult.
-
-In this case, there is a love between the young man and the student and it is customary for both to go to their homes.
-
-On April 10, the student went to the young man's house as usual. The youth has taken the student to the room and sexually abused and both have been repeatedly behaved.
-
-Later, the young man left the student and came to the police station with her mother and lodged a complaint.
-
-The suspect has been arrested by the Puttala police and the student has been admitted to the Moneragala District General Hospital for medical examination.
-
-...
-
-[Data](articles/a4b1ffef.json)
-
-[Extended Data](ext_articles/a4b1ffef.ext.json)
-
----
-
-### Lover who sexually abused the student
-
-*2024-07-24 12:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாணவியை-பாலியல்-துஷ்பிரயோகம்-செய்த-காதலன்/76-340949) · `ta`
-
-A 23-year-old male student was sexually assaulted by his 23-year-old lover in Puttala. The incident occurred when the victim visited the perpetrator's home, leading to the perpetrator's arrest and the victim's hospitalization for medical examination.
-
-🟩
-
-The incident took place on Tuesday (23) on charges of sexually abusing a 15 -year -old student in Puttala area.
-
-The mother of a 23 -year -old youth from Katugahagkeke, who is studying in 11th grade, has gone to the house of a 23 -year -old youth.
-
-At the time, the younger parents agreed to it and told the student to wait till the adult.
-
-In this case, there is a love between the young man and the student and it is customary for both to go to their homes.
-
-On April 10, the student went to the young man's house as usual. The youth has taken the student to the room and sexually abused and both have been repeatedly behaved.
-
-Later, the young man left the student and came to the police station with her mother and lodged a complaint.
-
-The suspect has been arrested by the Puttala police and the student has been admitted to the Moneragala District General Hospital for medical examination.
-
-Puttala police said that steps have been taken to bring the suspect to the Magistrate's Court.
-
-◼️
-
-[Data](articles/b1ab32eb.json)
-
-[Extended Data](ext_articles/b1ab32eb.ext.json)
-
----
-
-### Sri Lanka election commission to announce poll date before weekend
-
-*2024-07-24 12:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-commission-to-announce-poll-date-before-weekend-173559/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s Election Commission will announce the date of the election before the end of this week, commission chairman R M L Ratnayake told a private news network.
-
-Ratnayake told the privately owned NewsFirst Wednesday July 24 morning that the gazette notification in this regard would be published before the weekend.
-
-“As I stated before, we will announce the date before the end of this week. There is no backtracking at all. We have selected a date that is nearest and most suitable after September 17 for the election,” he said.
-
-Ratnayake told the media at a press conference on July 16 that the commission will publish the notice announcing nomination and election dates before the end of July.
-
-“Our first task is to publish the notice on the election. From the day the notice is published, nominations have to be accepted between 16 and 21 days. The election should be held within four to six weeks of from the day of accepting nominations,” said Ratnayake.
-
-...
-
-[Data](articles/a542385a.json)
-
-[Extended Data](ext_articles/a542385a.ext.json)
 
 ---

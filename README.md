@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 03:54:20**
+As of **2024-07-25 04:06:17**
 
 ## Newspaper Stats
 
-*Scraped **37,072** Articles*
+*Scraped **37,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,220
-dailyftlk | 2,362
+dailyftlk | 2,364
 adalk | 3,366
 adaderanalk | 4,290
-tamilmirrorlk | 4,559
+tamilmirrorlk | 4,561
 dailymirrorlk | 4,733
 virakesarilk | 5,816
 adaderanasinhalalk | 6,222
@@ -26,11 +26,39 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,068 (100.0%) of 37,072 articles have been extended.
+37,071 (100.0%) of 37,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### SOERU and insulation it provides against bad privatisations
+
+*2024-07-25 03:49:02* · [`dailyftlk`](https://www.ft.lk/opinion/SOERU-and-insulation-it-provides-against-bad-privatisations/14-764710) · `en`
+
+For decades, Sri Lanka’s SOEs have been plagued by inefficiency, corruption, and a lack of transparency. Apart from the burden on the public purse, the consequences for citizens have included substandard medicines to exploding gas cylinders. Over the past 20 years vested interests have mushroomed around SOEs.
+
+The opposition to privatisation in Sri Lanka stems from a mixture of ideology and vested interests. On the ideological front, there’s a lingering sentiment, rooted in post-independence nationalism, that views state ownership as a bulwark against foreign exploitation. This perspective sees SOEs not just as economic entities, but as symbols of national sovereignty and social welfare, regardless of how well these entities actually serve the purpose for which they were set up.
+
+...
+
+[Data](articles/84d8e83c.json)
+
+---
+
+### Forty-one years after ‘83 July do prez candidates have answers for “TNQ”?
+
+*2024-07-25 03:44:00* · [`dailyftlk`](https://www.ft.lk/columns/Forty-one-years-after-83-July-do-prez-candidates-have-answers-for-TNQ/4-764708) · `en`
+
+The continuing lack of a political leadership in the Sinhala South that accepts the Tamil and Muslim people as equals and as citizens with equal rights and dignity, is what denies a decent political solution to the TNQ
+
+The Sinhala South and its leaders cannot for a moment leave all responsibility with Tamil leaders for all these sectarian and extremist developments that make solutions more and more difficult. Political leaders in Sinhala South even now avoid discussing political answers to post-war issues in North-East and for their long-standing issue of sharing political power. Everything belted out on Southern Sinhala political platforms are issues for Sinhala-Buddhist consumption, no different to Sinhala-Buddhist politics of Black July, 41 years ago. No political leader in the South can be heard here in the South saying his or her political party would negotiate power sharing for Sri Lanka with Tamil and Muslim political parties
+
+...
+
+[Data](articles/da9131b1.json)
+
+---
 
 ### 41 years to Black July: Our voices towards meaningful reconciliation
 
@@ -45,6 +73,8 @@ For decades, regimes have perpetuated impunity, showing no signs of change. Ther
 ...
 
 [Data](articles/e1c7448f.json)
+
+[Extended Data](ext_articles/e1c7448f.ext.json)
 
 ---
 
@@ -62,6 +92,8 @@ Sri Lanka’s official minimum wage edged to just Rs. 17,500 ($ 59) in March thi
 
 [Data](articles/bbe15ea9.json)
 
+[Extended Data](ext_articles/bbe15ea9.ext.json)
+
 ---
 
 ### Jackfruit revolution: rising king of global plant-based alternatives
@@ -78,6 +110,8 @@ Native to Southeast Asia and boasting the title of the largest tree-borne fruit 
 
 [Data](articles/d70a0918.json)
 
+[Extended Data](ext_articles/d70a0918.ext.json)
+
 ---
 
 ### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka physical and digital connectivity dialogue
@@ -93,6 +127,22 @@ The roundtable discussion on “Bridging Borders: Enhancing Connectivity between
 ...
 
 [Data](articles/8bda487e.json)
+
+---
+
+### வர்த்தமானி வாபஸூக்கு வருந்தினார் வடிவேல்
+
+*2024-07-25 01:19:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானி-வாபஸூக்கு-வருந்தினார்-வடிவேல்/175-340986) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு 1,700 ரூபாய் சம்பளம் நாளாந்த சம்பளமாக வழங்கப்பட வேண்டும் என தொழில் அமைச்சு  வெளியிட்டிருந்த  வர்த்தமானி அறிவித்தல் வாபஸ் பெறப்பட்டுள்ளமை வருத்தமளிக்கிறது என இலங்கை தேசிய தோட்ட தொழிலாளர் சங்க பொது செயலாளரும் ,ஜனாதிபதியின் சிரேஸ்ட ஆலோசகருமான பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+
+தோட்டத் தொழிலாளர்களுக்கு 1,700 ரூபாய் சம்பளம் வழங்கப்பட வேண்டுமென தொழில் அமைச்சு இரண்டு வர்த்தமானி அறிவித்தல்களை வெளியிட்டிருந்தது. இருந்த போதிலும் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தல்களை சவாலுக்கு உட்படுத்தப்பட்டு பெருந்தோட்ட நிறுவனங்கள் நீதிமன்றத்தில் வழக்கு தொடர்ந்திருந்தனர்.
+
+இந்நிலையில் தொழில் அமைச்சினால் வெளியிடப்பட்டிருந்த 1,700 ரூபாய் நாளாந்த சம்பளம் தொடர்பான வர்த்தமானி வழக்கின் இரண்டாம் விசாரணையை நடத்திய உயர் நீதிமன்றம் வர்த்தமானிக்கு எதிராக இடைக்கால தடை உத்தரவை  அண்மையில் பிறப்பித்திருந்தது.
+
+◼️
+
+[Data](articles/e1126c4f.json)
 
 ---
 
@@ -167,6 +217,22 @@ Although he was born into a comfortable family. He learned in the field of engin
 [Data](articles/5366a135.json)
 
 [Extended Data](ext_articles/5366a135.ext.json)
+
+---
+
+### ’மன்னிப்பு தீர்வாகாது’
+
+*2024-07-25 00:54:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மன்னிப்பு-தீர்வாகாது/150-340983) · `ta`
+
+தமிழர்களுக்கு எதிரான கறுப்பு ஜூலை படுகொலைகள் நடந்து 41 வருடங்களின் பின்னர் அமைச்சர் ஒருவரால் தற்போது சொல்லப்பட்ட மன்னிப்பு என்ற வார்த்தை எந்த வகையிலும் தமிழருக்கு தீர்வாக அமைந்துவிடாது என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எஸ்.சிறீதரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) நடைபெற்ற செயற்கை நுண்ணறிவு தொழில்நுட்பம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+ஈழ விடுதலைப் போராட்ட வரலாற்றில் 70களின் பிற்பகுதியில் 1980 களின் ஆரம்பத்தில் பல்வேறுபட்ட விடுதலை இயக்கங்கள் உருவாகியிருந்தன. அவ்வாறான இயக்கங்களின் வரலாற்றில் தமிழீழ இராணுவம் எனும் கட்டமைப்பை உருவாக்கி ஈழ விடுதலைப் போராட்டத்தின் முன்னோடியாக இருந்த ஒருவரான தம்பாபிள்ளை மகேஸ்வரனை இந்த சபையில் நினைவில் கொள்கின்றேன்.
+
+...
+
+[Data](articles/cba99d62.json)
 
 ---
 
@@ -2291,95 +2357,5 @@ At the Sri Lanka Bureau of Labor and Foreign Employment, Minister of Labor and F
 [Data](articles/e20b8184.json)
 
 [Extended Data](ext_articles/e20b8184.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-24 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189250) · `ta`
-
-The US dollar's buying rate was 299.0799 rupees, while its selling rate was 308.3906 rupees as per the Central Bank's latest update on July 24.
-
-🟩
-
-The US dollar purchasing price was 299.0799 rupees and the sales price were Rs 308.3906 based on the currency exchange rate released by the Central Bank on Wednesday (July 24).
-
-◼️
-
-[Data](articles/4a6841c0.json)
-
-[Extended Data](ext_articles/4a6841c0.ext.json)
-
----
-
-### 41 years ago, the Sinhala Buddhist chauvinist policies responsible for the Black July are the cause of the military occupation of today- Pearl.
-
-*2024-07-24 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189249) · `ta`
-
-In 1983, the Sinhala Buddhist majority's policies sparked the Black July massacre, leading to ongoing military occupation and economic exclusion of Tamils in Sri Lanka. The event, commemorated by the Pearl Organization alongside global Tamils, highlights the enduring impact of Sinhalaism on Tamil rights and safety. Despite calls for reconciliation and accountability, including at the UN Human Rights Council, little has changed for Tamils, who face continued marginalization and lack of justice. The organization advocates for international support and self-determination for the Tamil people.
-
-🟩
-
-The Sri Lankan government has said that the same Sinhala Buddhist majority policy is due to the Sri Lankan government's land grabbing military occupation and economically exclusion, the same Sinhala Buddhist policy that has led to the riots.
-
-To commemorate the 41st anniversary of the Black July, the Pearl Organization is joining Tamils ​​around the world to commemorate the victims of the planned massacre against Tamils ​​today.
-
-Moreover, Sinhalaism, which is responsible for violence, is trying to investigate how to influence the current events, as well as the Tamil nation.
-
-After the independence of 1948, Sinhala Buddhist chauvinism was rapidly rooted in the structure of Sri Lanka.
-
-The abolition of the rights of Tamils ​​and national communal rhetoric led to many anti -Tamil massacres.
-
-Black July is one of the most ruthless horrible massacre that took place before the war.
-
-...
-
-[Data](articles/fe090164.json)
-
-[Extended Data](ext_articles/fe090164.ext.json)
-
----
-
-### The plane that was traveling with 19 people fell down and crashed
-
-*2024-07-24 12:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/19-பேருடன்-பயணித்த-விமானம்-கீழே-விழுந்து-விபத்து/50-340947) · `ta`
-
-A Sauriya Airlines flight from Kathmandu's Tribhuvan International Airport crashed into the runway, killing all 19 onboard.
-
-🟩
-
-The Sauriya Airlines flight at the Tribhuvan International Airport in Kathmandu crashed.
-
-In this case, the accident occurred when the plane crashed into the runway.
-
-◼️
-
-[Data](articles/6be50943.json)
-
-[Extended Data](ext_articles/6be50943.ext.json)
-
----
-
-### 18 killed in plane crash
-
-*2024-07-24 12:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமானம்-விழுந்து-நொறுக்கியதில்-18-பேர்-பலி/50-340947) · `ta`
-
-A plane crash at Kathmandu airport killed 18 of its 19 passengers, including crew. The Sauriya Airlines flight caught fire upon impact but was quickly extinguished by firefighters. The sole survivor, the pilot, is hospitalized.
-
-🟩
-
-The plane with 19 people from Nepal's Kathmandu airport crashed into the runway within a few seconds.
-
-It seems that 18 passengers were killed in the aircraft fire. The pilot of the plane crashed has been taken to the hospital for treatment.
-
-The crash flight belongs to Sauriya Airlines Company. The accident occurred when the flight departed from Kathmandu to Pokara on Wednesday morning.
-
-Fire was burned in the plane after the accident occurred. It was extinguished by firefighters at the airport. The guards and firefighters are constantly working on the rescue.
-
-◼️
-
-[Data](articles/8031596b.json)
-
-[Extended Data](ext_articles/8031596b.ext.json)
 
 ---

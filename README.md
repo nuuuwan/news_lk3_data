@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 08:35:46**
+As of **2024-07-24 08:54:56**
 
 ## Newspaper Stats
 
-*Scraped **36,904** Articles*
+*Scraped **36,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 2,203
 dailyftlk | 2,356
 adalk | 3,341
 adaderanalk | 4,272
-tamilmirrorlk | 4,523
+tamilmirrorlk | 4,525
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,191
+adaderanasinhalalk | 6,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,903 (100.0%) of 36,904 articles have been extended.
+36,903 (100.0%) of 36,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### අධිවේගයේ මාරක අනතුරක්
+
+*2024-07-24 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199145) · `si`
+
+අද (24) අලුයම දක්ෂිණ අධිවේගයේ සිදුවු අනතුරකින් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+අධිවේගී මාර්ගයේ 174.2 ආර් ස්ථානයේ දී මත්තල සිට කොළඹ දෙසට ධාවනය වූ ලොරි රථයක් ඉදිරියෙන් ධාවනය වූ තවත් ලොරියක පිටුපසින් ගැටී අනතුරක් සිදුව තිබුණි.
+
+අනතුරින් පිටුපස ලොරි රථයේ රියදුරු, රිය සහායක සහ ඉදිරියෙන් ධාවනය කළ ලොරියේ රිය සහායකයා තුවාල ලබා තංගල්ල රෝහලට ඇතුළත් කිරීමේ දී පිටුපස ලොරියේ රිය සහායකයා මියගොස් ඇත.
+
+◼️
+
+[Data](articles/341167b0.json)
+
+---
 
 ### මහ බැංකු පොලී අනුපාත තවත් පහළට
 
@@ -744,6 +760,24 @@ Ramanathapuram police said that steps will be taken to bring the suspects in cou
 
 ---
 
+### ’ஜனாதிபதிக்கே மக்களின் பெரும்பான்மை ஆதரவு’
+
+*2024-07-24 03:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கே-மக்களின்-பெரும்பான்மை-ஆதரவு/175-340927) · `ta`
+
+வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டெடுத்த ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு எதிர்வரும் ஜனாதிபதித் தேர்தலில் மக்கள் ஆதரவளிக்கத் தயாராக இருக்கின்றனர் என ஆரம்பக் கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடிக்குள் தள்ளப்பட்ட நாடு ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கீழ் இரண்டு வருடங்கள் என்ற குறுகிய காலத்திற்குள் மீட்கப்பட்டுள்ளது. அதற்கிணங்க எமது அமைச்சின் கீழுள்ள நிறுவனங்கள் நட்டமடையும் நிலையை தவிர்த்து இலாபம் ஈட்டும் நிலைக்கு வந்துள்ளன.
+
+உலகில் கடுமையான பொருளாதார நெருக்கடிகளை எதிர்கொண்டுள்ள ஏனைய நாடுகள் இவ்வளவு குறுகிய காலத்தில் பொருளாதார ஸ்திரத்தன்மையை எட்டவில்லை. இந்த ஸ்திரத்தன்மையை பேணுகின்ற அதேவேளை பொருளாதாரத்தை மேலும் அபிவிருத்தி செய்வதற்கு அனைத்து தரப்பினரும் அர்ப்பணிப்புடன் செயற்பட வேண்டும்.
+
+...
+
+[Data](articles/e740a935.json)
+
+---
+
 ### Scholarship Prize for Bikhini Students
 
 *2024-07-24 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்குணி-மாணவர்களுக்கு-புலமைப்-பரிசில்/175-340926) · `ta`
@@ -763,6 +797,22 @@ No scholarship programs have been implemented by the Scholarship Program to enco
 [Data](articles/33bea2bf.json)
 
 [Extended Data](ext_articles/33bea2bf.ext.json)
+
+---
+
+### பிக்குணிகளுக்கு புலமைப் பரிசில்
+
+*2024-07-24 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்குணிகளுக்கு-புலமைப்-பரிசில்/175-340926) · `ta`
+
+3000  பிக்குணிகளுக்கு புலமைப்பரிசில் வழங்கும் நிகழ்வு இன்று பிற்பகல் 3.00 மணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் அலரி மாளிகையில் நடைபெறவுள்ளது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக் கருவின்படி செயற்படுத்தப்படும் பிரிவேனா மற்றும் பிக்குணி கல்வி நிறுவனங்களில் கல்வி கற்கும் பிக்குகள் மற்றும் சாதாரண மாணவர்களுக்காக ஜனாதிபதி நிதியத்தினால் புலமைப்பரிசில் வழங்கும் திட்டத்தின் கீழ் இந்தப் புலமைப் பரிசில் வழங்கப்படுகிறது.
+
+இதுவரை காலமும் பிரிவேன்களில் கற்கும் பிக்கு மாணவர்களை ஊக்குவிக்கும் புலமைப்பரிசில் திட்டங்கள் எதுவும் செயற்படுத்தப்படவில்லை என்பதோடு ஜனாதிபதியின் பணிப்புரையின் கீழ் நாடளாவிய ரீதியில் இந்த புலமைப்பரிசில் திட்டம் செயற்படுத்தப்படுவது விசேட அம்சமாகும். (a)
+
+◼️
+
+[Data](articles/72b63275.json)
 
 ---
 
@@ -2229,77 +2279,5 @@ According to the proposed educational reform, the lesson of information and comm
 [Data](articles/913c49d0.json)
 
 [Extended Data](ext_articles/913c49d0.ext.json)
-
----
-
-### Cabinet approval for amendment to the presentation backup Act
-
-*2024-07-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/189199) · `ta`
-
-The Cabinet approved amendments to the Backup Act No. 9 of 2024 after its passage in Parliament, aligning with the Supreme Court's decision. Despite proposed changes being discussed, they couldn't be included in the final bill due to the legislative process. The Attorney General endorsed the bill, which was then published in the State Gazette following Cabinet approval.
-
-🟩
-
-After the Bill was passed in Parliament in accordance with the Supreme Court's decision on the Backup Bill, the Ceremony Act No. 9 of 2024 is now strong.
-
-Although amendments to a few sections of the Bill have been proposed before the Parliament passed the Bill, it is not possible to enroll such amendments during the group debate.
-
-Accordingly, the Cabinet meeting held on 2024.02.12 has been approved at the Cabinet on 2024.02.12 to amend the Backup Act No. 9 of 2024, including the amendments.
-
-Accordingly, the Bill prepared by the lawyer has been approved by the Attorney General. The Cabinet has approved the proposal submitted by the Minister of Public Safety to publish the Bill in the State Gazette and subsequently submitted parliamentary approval.
-
-◼️
-
-[Data](articles/5f36f291.json)
-
-[Extended Data](ext_articles/5f36f291.ext.json)
-
----
-
-### Sri Lankans have no impact on Bangladesh - Minister Manusha
-
-*2024-07-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/189197) · `ta`
-
-Sri Lanka's Minister Manusha Nanayakkara stated that due to the crisis in Bangladesh, Sri Lankans there have minimal influence. He assured that measures are in place to repatriate them if necessary. Currently, 2,835 Sri Lankans are involved in vocational training in Bangladesh, but the exact number of students isn't known. The government remains vigilant through the Sri Lankan Ambassador and is prepared to act swiftly if the situation worsens, ensuring the safety of its citizens abroad.
-
-🟩
-
-Due to the prevailing crisis in Bangladesh, the Sri Lankans have no impact. The Minister of Labor and Foreign Placement, Manusha Nanayakkara said that steps have been taken to bring them to the country if needed.
-
-He said this while responding to a question raised by Rajika Wickremesinghe at the time of the oral response in Parliament on Tuesday (23).
-
-In Bangladesh, 2,835 Sri Lankans are engaged in vocational and vocational training and cannot immediately report the number of Sri Lankan students who have gone for educational activities.
-
-However, we are aware of the situation in the country with contact with the Sri Lankan Ambassador in the country.. According to the information he provided, no Sri Lankans have no impact.
-
-If the Sri Lankans in Bangladesh are affected, the government will take immediate steps to bring them back to the country.. Proper action will be taken with the Ministry of External Affairs on their security.
-
-...
-
-[Data](articles/64395e48.json)
-
-[Extended Data](ext_articles/64395e48.ext.json)
-
----
-
-### Sri Lanka to provide interest relief for those who pawned gold
-
-*2024-07-23 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-provide-interest-relief-for-those-who-pawned-gold-173419/) · `en`
-
-ECONOMYNEXT – Sri Lanka will implement a programme to provide interest relief to those who pawned gold in licensed commercial banks during the economic crisis, Cabinet spokesman minister Bandula Gunawardena said.
-
-The Cabinet has approved a proposal by the President to implement a programme to grant an interest relief by the Treasury subject to a maximum of an annual 10 percent for pawn advances under 100,000 rupees that were obtained from licensed banks on or before June 30, 2024 on individual basis.
-
-“As a result of the economic crisis, pawning of gold jewellery, which is a common practice, accelerated,” Gunawardena told reporters on Tuesday.
-
-“Pawn advances arrears of 210 billion rupees in 2019 increased to 571 billion rupees by March 2024, a growth of 172 percent.”
-
-Considering the circumstances, “licensed banks have recognized the necessity of granting relief to low income
-
-◼️
-
-[Data](articles/c8ab0355.json)
-
-[Extended Data](ext_articles/c8ab0355.ext.json)
 
 ---

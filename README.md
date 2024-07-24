@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 15:05:27**
+As of **2024-07-24 15:20:18**
 
 ## Newspaper Stats
 
-*Scraped **36,985** Articles*
+*Scraped **36,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,88 @@ adalk | 3,354
 adaderanalk | 4,282
 tamilmirrorlk | 4,545
 dailymirrorlk | 4,733
-virakesarilk | 5,799
+virakesarilk | 5,802
 adaderanasinhalalk | 6,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,984 (100.0%) of 36,985 articles have been extended.
+36,985 (100.0%) of 36,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### இரண்டு கறுப்பு ஆடுகள் அம்பலம்
+### 1,700 ரூபா சம்பள அதிகரிப்பு வர்த்தமானி இரத்து : அரசாங்கத்தின் உண்மை நிலைப்பாடு என்ன ? - வேலுகுமார் சபையில் கேள்வி
+
+*2024-07-24 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189269) · `ta`
+
+பெருந்தோட்ட மக்களின் 1,700 ரூபா சம்பள அதிகரிப்பு தொடர்பில் வெளியிடப்பட்ட வர்த்தமானி இரத்துச் செய்யப்பட்டுள்ளது. ஆகவே பெருந்தோட்ட மக்களின் சம்பள விவகாரத்தில்  அரசாங்கத்தின் உண்மை நிலைப்பாடு என்ன என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் வேலுகுமார் சபையில் கேள்வியெழுப்பினார்.
+
+பாராளுமன்றத்தில் இன்று புதன்கிழமை (24) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை  முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பெருந்தோட்ட மக்களின் சம்பளத்தை 1700 ரூபாவாக அதிகரிப்பதாக ஜனாதிபதி  கடந்த மே மாதம் 01 ஆம் திகதி  குறிப்பிட்டார். அதனைத் தொடர்ந்து அதிவிசேட வர்த்தமானி வெளியிடப்பட்டது.இந்த வர்த்தமானி கடந்த மே மாதம் 21 ஆம் திகதி திருத்தம் செய்யப்பட்டது.
+
+இவ்வாறான நிலையில் கடந்த 10 ஆம் திகதி சம்பள அதிகரிப்பு விவகாரம்  தொடர்பில் வெளியிடப்பட்ட சகல  வர்த்தமானிகளும் இரத்து செய்யப்பட்டுள்ளன.பெருந்தோட்ட மக்களின் சம்பள விவகாரம் தொடர்பில் அரசாங்கத்தின் உண்மையான நிலைப்பாடு என்ன?
+
+...
+
+[Data](articles/a06940f8.json)
+
+---
+
+### Two black goats exposed
 
 *2024-07-24 14:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-கறுப்பு-ஆடுகள்-அம்பலம்/175-340954) · `ta`
 
-ஐக்கிய மக்கள் சக்தியில் இருந்து ரணிலுக்கு ஆதரவளிக்கும் இருவரின் பெயர்களை குருநாகல் மாவட்ட பாராளுமன்ற உறுப்பினர்  துஷார இந்துனில் பாராளுமன்றத்தில் அம்பலப்படுத்தினார்.
+Dushara Hindu revealed two Ranil Wickremesinghe supporters aren't part of the United People's Power party. He also mentioned that only Rajitha Senaratne supports Sarath Fonseka among them. Dushara humorously suggested they might end up in a pipe due to their political stance.
 
-சரத் பொன்சேகாவும் ராஜித சேனாரத்ன மட்டுமே ரணிலுக்கு ஆதரவாளிப்பார்கள் என்றும் அவர் தெரிவித்தார்.
+🟩
 
-அவ்விருவரும் ஐக்கிய மக்கள் சக்தியின் நீரோட்டத்தைச் சேர்ந்தவர்கள் அல்லர்  எனக் கூறிய துஷார இந்துனில், நாம் நினைப்பதை போல அவர்கள் சிந்திப்பதில்லை என்றார்.
+Kurunegala District Parliamentarian Dushara Hindu exposed the names of the two supporters of Ranil from the United People's Power.
 
-அவர்கள் இருவரும் இப்போது ஒரு குழாயின் உள்ளே மாட்டிக்கொண்டு அந்த வழியில் செல்கிறார்களா? என்றும்  துஷாரா இந்துனில் கேள்வி எழுப்பினார்.
+He also said that Sarath Fonseka also supported Ranil only Rajitha Senaratne.
+
+In the Hindu Hindu, Dushara said that they were not belonging to the stream of the United People's Power.
+
+Do they both get trapped inside a pipe now and go that way?Dushara questioned in the Hindu.
 
 ◼️
 
 [Data](articles/8e2d2c47.json)
+
+[Extended Data](ext_articles/8e2d2c47.ext.json)
+
+---
+
+### அதிபரை மாற்றுமாறு கோரி ஆர்பாட்டம்!
+
+*2024-07-24 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189265) · `ta`
+
+வவுனியா ஶ்ரீ இராமபுரம் திருஞானசம்பந்தர் வித்தியாலத்தின் அதிபரை மாற்றுமாறு கோரி பெற்றோர்களால் ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+
+இன்று புதன்கிழமை (24) பாடசாலையின் காலை பிரார்த்தனை முடிவடைந்த பின்னர் குறித்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டிருந்தது.
+
+எமது பாடசாலை கல்விநிலையில் வீழ்ச்சி நிலையினை கண்டுள்ளது. பாடசாலையில் நடைபெறும் வேலைத்திட்டங்கள் தொடர்பான கணக்கறிக்கைகள் எவையும் சமர்பிக்கப்படவில்லை. அங்கு நடைபெறும் சம்பவங்கள் தொடர்பாக பெற்றோர்களிற்கு அறிவித்து கலந்துரையாடும் நடவடிக்கையினையும் அவர் முன்னெடுப்பதில்லை.
+
+இவ்வாறானா காரணங்களால் பாடசாலையில் மாணவர்களின் எண்ணிக்கை குறைந்துகொண்டு போகும் நிலை ஏற்ப்பட்டுள்ளது. இந்தநிலைமை தொடர்ந்தால் பாடசாலையினை இழுத்து மூடவேண்டிய நிலைமையே ஏற்படும். எனவே உடனடியாக அவரை மாற்றித்தருமாறு உரிய அதிகாரிகளிடம் கேட்டுக்கொள்கின்றோம் என்றனர்.
+
+...
+
+[Data](articles/cc8e118e.json)
+
+---
+
+### வரலாறு : 'கறுப்பு ஜூலை' வன்செயல்களில் காணாமல்போனோர் 700 பேர்; கொல்லப்பட்டோர் 300 பேர்! - 1984 வீரகேசரியில்....
+
+*2024-07-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189261) · `ta`
+
+1983ஆம் ஆண்டு ஜூலை மாதம் இடம்பெற்ற இனக்கலவரத்தின்போது 700 பேர் காணாமல்போனதாகவும் 300 பேர் கொல்லப்பட்டதாகவும் தகவலொன்று வெளியிடப்பட்டது.
+
+◼️
+
+[Data](articles/2cb4df5c.json)
 
 ---
 
@@ -165,6 +219,10 @@ The suspects along the Wellassan Expressway from the Welwellagama area were arre
 ### Investigation into 3 suspects arrested with ice drug
 
 *2024-07-24 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189259) · `ta`
+
+Kalmunai Special Task Force arrested three suspects aged 21, 26, and 28 with varying amounts of ice drugs. Further investigation is ongoing. One suspect had prior legal issues related to drug consumption and sale.
+
+🟩
 
 The Kalmunai Special Task Force said that further investigations are being carried out in connection with the three suspects arrested with ice drugs.
 
@@ -2225,67 +2283,5 @@ Under current provisions, taxpayers who are dissatisfied with a decision by the 
 [Data](articles/29ac37f2.json)
 
 [Extended Data](ext_articles/29ac37f2.ext.json)
-
----
-
-### Cabinet approves tabling Port City Economic Commission order in Parliament
-
-*2024-07-24 05:08:06* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-tabling-Port-City-Economic-Commission-order-in-Parliament/34-764648) · `en`
-
-The Cabinet of Ministers on Monday approved presenting the order published under section 53 of the Colombo City Economic Commission No. 11 of 2021, as stated in the extraordinary gazette No. 2383/34 dated 9 May 2024 in Parliament for approval.
-
-On 29 April 2024, the Cabinet decided to nominate China Harbour Engineering Company (Lanka) Ltd., as a secondary enterprise with strategic importance. This designation was formalised through a Government gazette.
-
-The decision underscores the significant role of China Harbour Engineering Company (Lanka), in the economic landscape of Colombo.
-
-The strategic importance designation is anticipated to facilitate smoother operations and potentially provide certain privileges or considerations under the Colombo City Economic Commission framework, fostering a more conducive environment for large-scale investment and development initiatives.
-
-...
-
-[Data](articles/ac50a380.json)
-
-[Extended Data](ext_articles/ac50a380.ext.json)
-
----
-
-### Rs. 300 m boost for handloom industry to empower women and youth
-
-*2024-07-24 05:07:51* · [`dailyftlk`](https://www.ft.lk/business/Rs-300-m-boost-for-handloom-industry-to-empower-women-and-youth/34-764647) · `en`
-
-The Cabinet of Ministers on Monday approved the implementation of a comprehensive development program for the handloom industry, aimed at empowering women and youth.
-
-The initiative comes with a significant allocation of Rs. 300 million from the 2024 Budget.
-
-“This program addresses several key challenges faced by handloom industrialists, including a lack of entrepreneurial skills, insufficient and environmentally friendly infrastructure, the need for high-quality products that meet market demands and inadequate marketing facilities,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-Noting that a combined project proposal was prepared to tackle these issues, he said the recommendations of the Department of National Planning have been incorporated into the plan.
-
-...
-
-[Data](articles/22fb42e5.json)
-
-[Extended Data](ext_articles/22fb42e5.ext.json)
-
----
-
-### Government apologises for compulsory COVID-19 cremations; plans new burial laws
-
-*2024-07-24 05:07:13* · [`dailyftlk`](https://www.ft.lk/news/Government-apologises-for-compulsory-COVID-19-cremations-plans-new-burial-laws/56-764646) · `en`
-
-In a significant move, the Cabinet of Ministers on Monday approved making a public apology to communities affected by the compulsory cremation policy enacted during the COVID-19 pandemic and instructed Legal Draftsman to prepare a Bill for the introduction of new burial law.
-
-“The decisions follow recent studies and comes amid efforts to prevent future conflicts regarding the disposal of bodies,” Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said at the post-Cabinet meeting media briefing.
-
-He said firstly, the Government will make a public apology and will announce practical measures later.
-
-“It is a formal apology from the Government to all communities affected by the compulsory cremation at a policy level,” he explained.
-
-During the height of the COVID-19 pandemic, the Health Ministry recommended cremation as the method for disposing of bodies of those who died from the virus.
-
-...
-
-[Data](articles/f3265aac.json)
-
-[Extended Data](ext_articles/f3265aac.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 16:07:42**
+As of **2024-07-24 16:20:35**
 
 ## Newspaper Stats
 
-*Scraped **37,002** Articles*
+*Scraped **37,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,92 @@ adalk | 3,355
 adaderanalk | 4,284
 tamilmirrorlk | 4,547
 dailymirrorlk | 4,733
-virakesarilk | 5,802
+virakesarilk | 5,805
 adaderanasinhalalk | 6,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,996 (100.0%) of 37,002 articles have been extended.
+37,002 (100.0%) of 37,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### සමරිසි පනත් කෙටුම්පතට ත්‍රෛනිකායික මහානායක හිමිවරුන්ගේ විරෝධය
+### அரசுக்கு சொந்தமான 1600 நிறுவனங்களின் நிலையான சொத்துக்கள் குறித்து முறைப்படி விசாரணை நடத்த நடவடிக்கை - அமைச்சர் சியம்பலாபிட்டிய
+
+*2024-07-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189276) · `ta`
+
+அரச சொத்துக்கள் முகாமைத்துவ சட்டத்தின் ஊடாக இலங்கையிலுள்ள அனைத்து அரச நிறுவனங்களின் சொத்துக்களையும் விசாரணை செய்து முறையான முகாமைத்துவத்தின் கீழ் கொண்டு வருவதற்கு தயார் என நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார். 1600க்கும் மேற்பட்ட அரசாங்கத்திற்கு சொந்தமான நிறுவனங்கள் உள்ளதாகவும், அவற்றின் சொத்துக்கள் சரியான முறையில் நிர்வகிக்கப்படவில்லை எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
+
+அந்த நிறுவனங்களில் சுமார் 91,000 வாகனங்கள் இருப்பதாகவும் நிலையான சொத்துக்கள் தொடர்பில் அதிக கவனம் செலுத்தி அவற்றை முறையாக முகாமைத்துவம் செய்து மக்களுக்கு பயனுள்ள சேவையை வழங்க அரசாங்கம் தயாராக இருப்பதாகவும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நிதியமைச்சர் என்ற வகையில் முன்வைக்கப்பட்ட இது தொடர்பான சட்டமூலத்திற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+...
+
+[Data](articles/d39a17a4.json)
+
+---
+
+### Triitary Mahanayaka Theros protest against the Samarawansa Bill
 
 *2024-07-24 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199162) · `si`
 
-යෝජිත සමරිසි පනත් කෙටුම්පත සම්බන්ධයෙන් ත්‍රෛනිකායික මහානායක හිමිවරුන් විසින් ජනාධිපතිවරයා වෙත ලිපියක් යොමු කර තිබේ.
+The Triitary Mahanayaka Theros protested the Samarawansa Bill, calling it a symbol of societal decline. They urged the President to address the issue, highlighting its potential to exacerbate social problems.
 
-එහි දැක්වෙන්නේ යෝජිත සමරිසි පනත් කෙටුම්පත සමාජ පරිහානියට හේතුවන සදාචාර විරෝධී එකක් බවය.
+🟩
 
-පටු අත්තනෝමතික මත පදනම්ව රාජ්‍ය පාලනයෙහිලා යමක් උත්හාස දරන්නේ නම් එය රාජ්‍ය අරාජික වීමට මෙන්ම සමාජ බිඳ වැටීමට බලපාන බව චක්කවත්ති සීහනාද සූත්‍රයේ දී තථාගතයන් වහන්සේ පැහැදිලි කර ඇති බවද ඉන් පෙන්වා දී තිබේ.
+The Thirkala Mahanayaka Mahanayaka Thera has written to the President regarding the proposed Simerichere Summinal Bill.
 
-ඒ අනුව ඉන් වැඩිදුරටත් පෙන්වා දෙන්නේ මෙම අප්‍රතිකාරී, සදාචාර විරෝධී පනත් කෙටුම්පත සම්බන්ධයෙන් ජනාධිපතිවරයා කඩිනම් අවධානය යොමුකර අවශ්‍යය පියවර ගනු ඇතැයි අපේක්ෂා කරන බවය.
+It states that the proposed Summinal Bill is an unicode of failure to social decline.
+
+It has also shown that if something is rise in the country's arbitrary, it has shown that it has shown that the focus has been explained in the formula and the social collapse.
+
+Accordingly, the President is expected to take immediate attention to the President to address the attention of this disagreement bill.
 
 ◼️
 
 [Data](articles/86105322.json)
+
+[Extended Data](ext_articles/86105322.ext.json)
+
+---
+
+### அகதிமுகாமின் உள்ளேயிருந்து ஒரு திகில் கதை - 1983 ஜூலை கலவரத்தை நேரில் பார்த்த ஒருவரின் நாட்குறிப்பு
+
+*2024-07-24 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189273) · `ta`
+
+1983ம் ஆண்டு ஜூலை மாதம்  27ம் திகதி   ஐந்தரை மணி -இரத்மலானை விமானப்படையின் அகதிமுகாமில் இருக்கும் நான் நாற்குறிப்பொன்றை எழுத தீர்மானித்தேன்.
+
+திங்கட்கிழமை 25ம் அதிகாலை திகதிமுதல் கட்டவிழ்த்துவிடப்பட்டுள்ள எதிர்பாராத வன்முறைகாரணமாக வீடுகளை இழந்த ஆயிரக்கணக்கான தமிழர்கள் அதிர்ச்சியிலும் விரக்தியிலும் சிக்குண்டிருப்பதை பார்த்த பின்னரே ,நான்நடந்த சம்பவங்களை நாற்குறிப்பில் பதிவு செய்ய தீர்மானித்தேன்.
+
+பலர் தங்கள் அன்புக்குரியவர்களை இழந்திருந்தனர்,பலர் சிங்களகாட்டுமிராண்டிகளால் கொல்லப்பட்டனர்.ஈவிரக்கமற்ற சிங்களவர்களிடம் பல இளம் பெண்கள் தங்களை இழந்திருந்தனர்.
+
+சிங்களபௌத்தர்கள் என தங்களை அழைத்துக்கொள்ளும் மக்கள் செய்யும் அட்டுழியங்களை நாகரீக உலகிற்கு என்றோ ஒருநாள் நானோ அல்லது வேறு யாரோ கொண்டு செல்ல முடியும் என்ற உறுதியான நம்பிக்கையுடன் இந்த நாட்குறிப்பை நான் ஆரம்பிக்கின்றேன்.
+
+அதன் பின்னர் இந்த முகாமில் இடம்பெற்ற விடயங்கள்  குறித்தும் இரத்மலான விமானநிலையத்தில் தஞ்சமடைவதற்கு முன்னர் எனது தனிப்பட்ட அனுபவங்கள் குறித்தும்  நான் தெரிவிக்கப்போகின்றேன்.
+
+...
+
+[Data](articles/c8d7a1c7.json)
+
+---
+
+### கறுப்பு ஜூலை 41வது ஆண்டு நினைவாக மட்டக்களப்பில் கவன ஈர்ப்பு போராட்டம்!
+
+*2024-07-24 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189272) · `ta`
+
+காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் கவன ஈர்ப்பு போராட்டம் இன்று புதன்கிழமை (24/07/2024) மட்டக்களப்பு காந்திப் பூங்காவில் நடைபெற்றது.
+
+கறுப்பு ஜூலை 41, வது ஆண்டு நினைவாக இந்த கவன ஈர்ப்பு போராட்டத்தை வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் ஏற்பாட்டில் முன்னெடுத்திருந்தனர்.
+
+கையில் ஒப்படைத்த எமது பிள்ளைகளுக்கு என்ன நடந்தது, காணாமல் ஆக்கப்பட்ட எமது உறவுகளுக்கு என்ன நடந்தது, என்பதை கண்டறிய சர்வதேச விசாரணை வேண்டும் எனக் கூறி போரட்டத்தை முன்னெடுத்தனர்.
+
+◼️
+
+[Data](articles/96b9eaed.json)
 
 ---
 
@@ -538,6 +596,8 @@ The MP said the cabinet of former president Gotabaya Rajapaksa had approved an a
 
 [Data](articles/7dc2c883.json)
 
+[Extended Data](ext_articles/7dc2c883.ext.json)
+
 ---
 
 ### Indian tournament losing the Indian tournament
@@ -605,6 +665,8 @@ The issuance of driver’s licenses to hearing impaired persons will be done on 
 ◼️
 
 [Data](articles/b9f5e53e.json)
+
+[Extended Data](ext_articles/b9f5e53e.ext.json)
 
 ---
 
@@ -739,6 +801,8 @@ Ratnayake told the media at a press conference on July 16 that the commission wi
 ...
 
 [Data](articles/a542385a.json)
+
+[Extended Data](ext_articles/a542385a.ext.json)
 
 ---
 
@@ -915,6 +979,8 @@ The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu in 
 ...
 
 [Data](articles/f8f3309b.json)
+
+[Extended Data](ext_articles/f8f3309b.ext.json)
 
 ---
 
@@ -2279,57 +2345,5 @@ The fishermen and the naval community informed the fishermen and the community n
 [Data](articles/8ed94363.json)
 
 [Extended Data](ext_articles/8ed94363.ext.json)
-
----
-
-### Ranil Wickremesinghe: the pragmatic leadership during challenging times
-
-*2024-07-24 05:47:01* · [`dailyftlk`](https://www.ft.lk/opinion/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/14-764663) · `en`
-
-No political leader has been subjected to vilification and character assassination like RW in the history of this country
-
-Two years ago, Sri Lanka was in a complete state of anarchy. The nation was undergoing its worst economic and political crisis in its contemporary history. People died while they were languishing in long queues to buy fuel, powdered milk, gas cylinders, and various other essentials. Schools and universities were not functioning, and the future of the youth and children appeared bleak. The first half of 2022 was one of the most unfortunate periods in the history of the island, characterised by despair, grief, and severe turmoil, which nobody in the country even wants to recall.
-
-...
-
-[Data](articles/b9cdaf71.json)
-
-[Extended Data](ext_articles/b9cdaf71.ext.json)
-
----
-
-### Ranil Wickremesinghe: the pragmatic leadership during challenging times
-
-*2024-07-24 05:47:01* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/4-764663) · `en`
-
-No political leader has been subjected to vilification and character assassination like RW in the history of this country
-
-Two years ago, Sri Lanka was in a complete state of anarchy. The nation was undergoing its worst economic and political crisis in its contemporary history. People died while they were languishing in long queues to buy fuel, powdered milk, gas cylinders, and various other essentials. Schools and universities were not functioning, and the future of the youth and children appeared bleak. The first half of 2022 was one of the most unfortunate periods in the history of the island, characterised by despair, grief, and severe turmoil, which nobody in the country even wants to recall.
-
-...
-
-[Data](articles/c0f5964c.json)
-
-[Extended Data](ext_articles/c0f5964c.ext.json)
-
----
-
-### Critical points for COPF review of proposed enactment of the Economic Transformation Bill
-
-*2024-07-24 05:44:17* · [`dailyftlk`](https://www.ft.lk/columns/Critical-points-for-COPF-review-of-proposed-enactment-of-the-Economic-Transformation-Bill/4-764662) · `en`
-
-The enactment of the Bill in its current form, will ‘not’ be capable of delivering consistent and sustainable growth along with the creation of new livelihood options for most of the citizens whilst enhancing their disposable incomes
-
-This submission is made in the long-term sustainable interests of Sri Lanka and all its people; and sets out some critical aspects to be considered by COPF, prior to proceeding with the enactment of the proposed Economic Transformation Bill:
-
-1. Sri Lanka’s best option for inclusive growth requires a mixed bag of reforms to enhance new investments and tradable goods share of growth whilst assuring the bottom 40% of the segment of society have income enhancement for livelihood support,
-
-Beginning with political stability, policy consistency, ease of doing business, improved factor productivity, good governance, safe and corruption-free destination with property rights and effective dispute resolution mechanisms,
-
-...
-
-[Data](articles/33357d67.json)
-
-[Extended Data](ext_articles/33357d67.ext.json)
 
 ---

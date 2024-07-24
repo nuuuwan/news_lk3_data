@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 20:35:54**
+As of **2024-07-24 20:55:10**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,217
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,042 (100.0%) of 37,044 articles have been extended.
+37,044 (100.0%) of 37,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### அவசர அமைச்சரவை கூட்டத்தில் நடந்தது என்ன?
+### What happened at the Emergency Cabinet meeting?
 
 *2024-07-24 20:15:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-அமைச்சரவை-கூட்டத்தில்-நடந்தது-என்ன/175-340965) · `ta`
 
-ஜனாதிபதி தலைமையில் இன்று மாலை (24) அவசரமா கூடிய அமைச்சரவை கூட்டத்தில் எடுக்கப்பட்ட தீர்மானம் தொடர்பில் தகவல் வெளியாகி உள்ளது.
+At today's emergency cabinet meeting, chaired by the President, decisions were made to review the legality of the High Court's ruling on the Inspector General of Police and to announce the cabinet's stance within two days. Additionally, the Supreme Court issued an interim order preventing Deshabandu from continuing as Chief Minister of the Tennakoon Police and directed the President to appoint an interim Inspector General of Police.
 
-அதன்படி, பொலிஸ் மா அதிபர் தொடர்பான உயர் நீதிமன்றத்தின் தீர்ப்பின் சட்ட அம்சங்களை ஆழமாக ஆராய்ந்து எதிர்வரும் இரண்டு நாட்களுக்குள் அமைச்சரவையின் முடிவை அறிவிப்பதற்கு  இதில் தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-தேஷபந்து தென்னகோன் பொலிஸ் மா அதிபராக கடமையாற்றுவதைத் தடுக்கும் இடைக்கால உத்தரவை உயர் நீதிமன்றம் இன்று பிறப்பித்துள்ளது.
+Information has been revealed regarding the decision taken at a cabinet meeting headed by the President today (24).
 
-இதன்படி, இந்த இடைக்கால உத்தரவின் போது சட்டத்திற்கு அமைய பொலிஸ் மா அதிபர் பதவிக்கு பொருத்தமான நபரை நியமிக்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதிக்கு உயர் நீதிமன்றம் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது. R
+Accordingly, it has been decided to analyze the legal aspects of the High Court's decision on the Inspector General of Police and announce the decision of the Cabinet within the next two days.
+
+The Supreme Court today issued an interim order to prevent Deshabandu from serving as the Chief Minister of the Tennakoon Police.
+
+Accordingly, the Supreme Court has ordered the President to take steps to appoint the appropriate person for the post of Inspector General of Police during the interim order.. Remble
 
 ◼️
 
 [Data](articles/405f71db.json)
+
+[Extended Data](ext_articles/405f71db.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ The Cabinet of Ministers has granted approval to provide a special monthly allow
 ◼️
 
 [Data](articles/064fb878.json)
+
+[Extended Data](ext_articles/064fb878.ext.json)
 
 ---
 

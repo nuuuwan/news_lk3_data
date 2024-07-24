@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 05:05:37**
+As of **2024-07-25 05:20:13**
 
 ## Newspaper Stats
 
-*Scraped **37,087** Articles*
+*Scraped **37,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,220
-dailyftlk | 2,370
+dailyftlk | 2,371
 adalk | 3,366
 adaderanalk | 4,290
 tamilmirrorlk | 4,562
@@ -26,11 +26,33 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,077 (100.0%) of 37,087 articles have been extended.
+37,083 (100.0%) of 37,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### Sajith demands immediate compensation for enforced COVID-19 cremations
+
+*2024-07-25 04:58:00* · [`dailyftlk`](https://www.ft.lk/news/Sajith-demands-immediate-compensation-for-enforced-COVID-19-cremations/56-764733) · `en`
+
+Opposition leader Sajith Premadasa welcomes Cabinet’s decision to issue an apology but says an apology alone is insufficient
+
+Criticises former President Gotabhaya Rajapaksa’s Cabinet Ministers for supporting the policy
+
+Calls for a thorough investigation into the decision-making process and naming of those responsible
+
+Emphasises importance of transparency and accountability to ensure justice for the affected Muslim community
+
+Opposition leader Sajith Premadasa has welcomed the Cabinet’s decision to issue an apology for the mandatory cremation of COVID-19 victims during the pandemic. However, he emphasised that an apology alone is insufficient and proposed that compensation be paid to those affected by the controversial decision.
+
+Speaking in Parliament yesterday Premadasa said, “You cannot get away by tendering an apology. Compensation should be paid to those who were affected.”
+
+...
+
+[Data](articles/18d72a64.json)
+
+---
 
 ### WNPS lecture on “Leopards” tomorrow by South African ecologist
 
@@ -46,6 +68,8 @@ WNPS said Dr. McManus, a global expert in human-wildlife conflict mitigation, wi
 
 [Data](articles/92d9eff0.json)
 
+[Extended Data](ext_articles/92d9eff0.ext.json)
+
 ---
 
 ### Sri Lanka Retailers’ Association hosts 7th Annual General Meeting
@@ -55,6 +79,8 @@ WNPS said Dr. McManus, a global expert in human-wildlife conflict mitigation, wi
 ...
 
 [Data](articles/88a9d9e7.json)
+
+[Extended Data](ext_articles/88a9d9e7.ext.json)
 
 ---
 
@@ -69,6 +95,8 @@ Dr. D.B.S. Chamara Bandara a distinguished senior chartered accountant with over
 ...
 
 [Data](articles/4a83343a.json)
+
+[Extended Data](ext_articles/4a83343a.ext.json)
 
 ---
 
@@ -85,6 +113,8 @@ OPA was established in 1975 and is the apex body of 52 member associations encom
 ...
 
 [Data](articles/097bada8.json)
+
+[Extended Data](ext_articles/097bada8.ext.json)
 
 ---
 
@@ -104,23 +134,33 @@ The National Business Excellence Awards, held annually by the National Chamber o
 
 [Data](articles/a7a813ef.json)
 
+[Extended Data](ext_articles/a7a813ef.ext.json)
+
 ---
 
-### தற்போதைய விவசாய நவீனமயமாக்கல் திட்டத்தில் விவசாயிகளை தொடர்ந்தும் அரசியல் கையாட்களாக மாற்ற முடியாது - மஹிந்த அமரவீர
+### Farmers cannot continue to be politically manipulated in the current agricultural modernization program - Mahinda Amaraweera
 
 *2024-07-25 04:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/189308) · `ta`
 
-உள்நாட்டு விவசாயத்தை ஊக்குவிப்பதற்காக தற்போதைய அரசாங்கத்தினால் ஆரம்பிக்கப்பட்டுள்ள திட்டமிடப்பட்ட விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் காரணமாக இனிமேல்  விவசாயிகளை அரசியல் கையாட்களாக்க முடியாது என கமத்தொழில் மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+Mahinda Amaraweera, Minister of State for Industry and Plantation Industries, announced an agricultural modernization program aimed at promoting domestic agriculture and preventing political manipulation of farmers. The initiative includes distributing 25 kg of seed pulses to each farmer and aims to produce 18,828 metric tons of harvest. Despite challenges like the fertilizer crisis in 2021 leading to insufficient rice supply, the government increased domestic paddy production in 2022 and 2023, achieving 3 million metric tonnes of rice production in 2023. The program also focuses on introducing new agricultural technologies to enhance crop yields and plans to double paddy yields in selected regions within five years. Additionally, the government is launching a lentil cultivation program, offering free seed pulses, and expects to produce 18,828 metric tonnes of lentils.
 
-சிறு மற்றும் பெரும்போகத்துடன் இணைந்ததாக பயறை பயிரிட்டு 18,828 மெற்றிக் தொன் அறுவடையை பெறும் வேலைத்திட்டம் நடைமுறைப்படுத்தப்பட்டுள்ளதாகவும் இதன் கீழ் ஒரு விவசாயிக்கு ஹெக்டெயாருக்கு 25 கிலோ விதைப் பயறு வழங்கப்படும் எனவும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-2023 ஆம் ஆண்டு வெற்றிகரமாக முன்னெடுக்கப்பட்ட வேலைத்திட்டத்தின் ஊடாக நெல் விளைச்சலின் மூலம் சுமார் 03 மில்லியன் மெற்றிக் தொன் அரிசியை உற்பத்தி செய்ய முடிந்துள்ளதாகவும், இதன் மூலம் நாட்டில் மேலதிக அரிசித் தொகையைப் பேணமுடிந்துள்ளதாகவும், இந்நாட்டு நெல் உற்பத்தி 4.5 மில்லியன் மெட்ரிக் தொன் என்றும் அமைச்சர் குறிப்பிட்டார்.
+Minister of State for Industry and Plantation Industries Mahinda Amaraweera said that due to the planned agricultural modernization program launched by the current government to promote domestic agriculture, farmers can no longer be politicized.
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (24) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் மஹிந்த அமரவீர இதனைத் தெரிவித்தார்.
+The Minister said that the program of cultivating 18,828 metric tons of harvest has been implemented and a farmer will be given 25 kg of seed pulses to a farmer.
+
+The Minister said that about 03 million metric tonnes of rice was produced by paddy yields through the successful program of 2023 and thereby maintaining additional rice in the country.
+
+Minister Mahinda Amaraweera made this statement at a media briefing held at the Presidential Media Center on Wednesday (24).
+
+“Paddy production was banned due to the majority of fertilizer crisis in 2021. So in 2022, there was not enough rice for the consumption of the people of this country. Some said at media meetings that the price of a kilo of rice would exceed 500 rupees.
 
 ...
 
 [Data](articles/f96edb4b.json)
+
+[Extended Data](ext_articles/f96edb4b.ext.json)
 
 ---
 
@@ -2277,25 +2317,5 @@ US intelligence chief Kimbali Chetal has resigned from his post.
 [Data](articles/2bf20ab3.json)
 
 [Extended Data](ext_articles/2bf20ab3.ext.json)
-
----
-
-### Steamed injury before commences the Indian tournament
-
-*2024-07-24 13:07:17* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-තරගාවලිය-ආරම්භ-කිරීමටත්-පෙරම-දුෂ්මන්ත-ආබාධයකට/9-410967) · `si`
-
-India faces setback as Sri Lanka's top spinner is out due to illness ahead of their upcoming T20 series starting on the 27th.
-
-🟩
-
-Little finance tournament has been lost to India with Sri Lanka's spending bowler. He was caused by a disorder.
-
-The Indian team has arrived in the island and will commence the T20 to hold on the 27th of this month.
-
-◼️
-
-[Data](articles/c22c88e4.json)
-
-[Extended Data](ext_articles/c22c88e4.ext.json)
 
 ---

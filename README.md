@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 08:17:24**
+As of **2024-07-24 08:25:12**
 
 ## Newspaper Stats
 
-*Scraped **36,902** Articles*
+*Scraped **36,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 4,272
 tamilmirrorlk | 4,523
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,189
+adaderanasinhalalk | 6,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,892 (100.0%) of 36,902 articles have been extended.
+36,892 (100.0%) of 36,903 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,20 @@ In arriving at this decision, the Board considered the need to signal the contin
 ...
 
 [Data](articles/1d706d69.json)
+
+---
+
+### වතු කම්කරු වැටුප් වැඩි කිරීමේ ගැසට්ටුව අවලංගු කෙරේ
+
+*2024-07-24 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199144) · `si`
+
+වතු කම්කරු දෛනික වැටුප ඉහළ නංවමින් නිකුත් කර තිබූ ගැසට් නිවේදනය අවලංගු කරමින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව රු 1,700 වතු කම්කරු දෛනික වැටුප් වැඩිවීම පඩිපාලක සභාව හරහා ගෙවීමට උපදෙස් ලබාදී ඇතැයි කම්කරු අමාත්‍යාංශය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/118c7e83.json)
 
 ---
 
@@ -2255,31 +2269,5 @@ Jayasekara had filed the relevant complaint before the Colombo District Court, c
 [Data](articles/35bd8dac.json)
 
 [Extended Data](ext_articles/35bd8dac.ext.json)
-
----
-
-### Recovery of a man who went to the temple
-
-*2024-07-23 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189196) · `ta`
-
-A man named Selvanayagam Linges, 39, from Selvapuram, was found dead in the Dandamalai forest near Kokkattichcholai, Batticaloa. He had gone missing while visiting the Murugan Temple with his family. The police discovered his body based on reports and conducted an autopsy at the Batticaloa Teaching Hospital.
-
-🟩
-
-The body of a person from the Dandamalai forest area of ​​the Kokkattichcholai police division in Batticaloa has been recovered today (23), Kokkatichcholai police said.
-
-Selvanayagam Linges, the father of six children from Selvapuram, 39, was the recovery.
-
-The family was looking for him in the neighborhood of the temple last Sunday to the grandfather's Murugan Temple from his home.
-
-Police have recovered the body on the basis of reports that a body was found in the forest of the forest.
-
-In accordance with the directory of the Kokkadichcholai police, the sudden death investigator at the Batticaloa Teaching Hospital, Thambipillai Dhakumar, went to the scene and told the legal officer to conduct an anatomical examination after visiting the body.
-
-◼️
-
-[Data](articles/d3a2f343.json)
-
-[Extended Data](ext_articles/d3a2f343.ext.json)
 
 ---

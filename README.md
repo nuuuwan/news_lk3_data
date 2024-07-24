@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 19:06:13**
+As of **2024-07-24 19:20:46**
 
 ## Newspaper Stats
 
-*Scraped **37,026** Articles*
+*Scraped **37,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 350
 bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,107
-economynextcom | 2,213
+economynextcom | 2,220
 dailyftlk | 2,358
 adalk | 3,359
 adaderanalk | 4,288
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,024 (100.0%) of 37,026 articles have been extended.
+37,026 (100.0%) of 37,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### Sri Lanka SEC inks deal with Maldives for Colombo cross listings
+
+*2024-07-24 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-inks-deal-with-maldives-for-colombo-cross-listings-173650/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Securities and Exchange Commission said it had inked a deal with the capital market regulator in Maldives to allow cross listings of companies in Colombo.
+
+The agreement with the Capital Market Development Authority of Maldives (CMDA) primarily covers secondary listings by Maldivian companies on the Colombo Stock exchange (CSE), and extends to mutual collaboration, capacity building assistance and regulatory information exchanges between the two capital market regulators to ensure compliance with laws and regulations across both jurisdictions.
+
+“Maldivian companies can benefit significantly from listing on the CSE, by embracing best practices of listed companies in Sri Lanka, access a wider pool of investors, leverage on our capital market infrastructure and achieve more accurate valuations for their stocks given the liquidity challenges at home,” SEC Chairman Faizal Salieh said.
+
+...
+
+[Data](articles/c836ed48.json)
+
+---
 
 ### Cabinet takes decision following Supreme Court order on IGP
 
@@ -54,6 +70,24 @@ Accordingly, a special cabinet meeting was called this evening at the Presidenti
 
 ---
 
+### Japan decides on immediate disbursement of suspended Sri Lanka loans
+
+*2024-07-24 18:13:00* · [`economynextcom`](https://economynext.com/japan-decides-on-immediate-disbursement-of-suspended-sri-lanka-loans-173625/) · `en`
+
+ECONOMYEXT – Japan has decided to make immediate disbursements of suspended loans, making it the first country to do so after Sri Lanka reached an agreement to restructure official debt, Ambassador Mizukoshi Hideaki said.
+
+Yuri ide, Senior Representative of the Japan International Corporation Agency Sri Lanka office said the decision was taken by Japan to make immediate disbursement instead of waiting for new agreement to be singed in line with the debt restructure.
+
+The decision to make immediate disbursements was showed the confidence in Sri Lanka’s economy and it will also support cashflows and interest rates, Treasury Secretary Mahinda Siriwardana said.
+
+Director General of External Resources Ajith Abeysekera said the move will result in the immediate disbursement of 75 million dollars of pending contractor bills in the next few week.
+
+...
+
+[Data](articles/2f06bb32.json)
+
+---
+
 ### Sudden decision on IGP's interim ban
 
 *2024-07-24 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199171) · `si`
@@ -69,6 +103,46 @@ The Cabinet of Ministers has decided to meet the Presidential Declaration on the
 [Data](articles/ebdf5ba1.json)
 
 [Extended Data](ext_articles/ebdf5ba1.ext.json)
+
+---
+
+### Sri Lanka’s canceled Japan-funded LRT could be “possible future project”: Japanese envoy
+
+*2024-07-24 18:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-canceled-japan-funded-lrt-could-be-possible-future-project-japanese-envoy-173629/) · `en`
+
+ECONOMYNEXT – A $1.5 billion worth Light Rail Transit (LRT) project unilaterally cancelled by former Sri Lanka leader Gotabaya Rajapaksa could be considered a new possible future project, Japanese Ambassador to Sri Lanka Mizukoshi Hideaki said.
+
+Japan on Wednesday announced the resumption of 11 suspended projects in Sri Lanka after the island nation defaulted on sovereign debts and declared bankruptcy in April 2022.
+
+Sri Lanka has repeatedly requested the Japanese government to resume the LRT project, but the Japanese government has yet to commit to the project.
+
+“It was not an existing project when the projects were suspended,” Ambassador Hideaki told EconomyNext.
+
+“It needs to be considered carefully. We have to monitor the situation of the implementation of ongoing projects. Then we need to consider the economic indicators of Sri Lanka and the profitability of the project and if there are Japanese and Sri Lanka contractors to implement the project.”
+
+...
+
+[Data](articles/db52cbdf.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 303.55/65 to US dollar, bond yields down
+
+*2024-07-24 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-55-65-to-us-dollar-bond-yields-down-173630/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.55/65 to the US dollar on Wednesday, from 303.70/80 to the US dollar on Tuesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.30/45 percent, down from 10.40/50 percent.
+
+A bond maturing on 15.12.2027 closed at 11.60/70 percent, down from 11.55/65 percent.
+
+A bond maturing on 01.05.2028 closed at 11.75/85 percent, down from 11.80/90 percent.
+
+A bond maturing on 15.09.2029 closed at 12.02/12 percent, down from 12.05/15 percent. (Colombo/Jul24/2024)
+
+◼️
+
+[Data](articles/141a4602.json)
 
 ---
 
@@ -111,6 +185,24 @@ Accordingly, the Magistrate ordered the two suspects to be remanded.
 [Data](articles/2935e1dd.json)
 
 [Extended Data](ext_articles/2935e1dd.ext.json)
+
+---
+
+### Fitch confirms ‘A-(lka)’ domestic rating of DFCC Bank Plc
+
+*2024-07-24 17:21:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-dfcc-bank-plc-173610/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it was confirming an A-(lka) rating on Sri Lanka’s DFCC Bank Plc with a stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
+
+Fitch said it expected the country’s stabilising economic conditions to support DFCC’s ability to generate and defend business volumes, “but the bank’s predominant exposure to the persisting domestic OE risks constrains its business profile.”
+
+DFCC’s net loans in total assets inched up to 56.9% by end-1Q24 from 54.1% in 2023, reversing a contracting trend since 2021 (74.9%), reflecting early signs of lending resumption, the rating agency said.
+
+Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-based DFCC Bank PLC’s (DFCC) National Long-Term Rating at ‘A-(lka)’. The Outlook is Stable. Fitch has also affirmed DFCC’s senior and subordinated debt ratings of ‘A-(lka)’ and ‘BBB(lka)’, respectively.
+
+...
+
+[Data](articles/c0d72e22.json)
 
 ---
 
@@ -161,6 +253,28 @@ After considering the submitted by the two sides, the judges were then issued th
 [Data](articles/175d048f.json)
 
 [Extended Data](ext_articles/175d048f.ext.json)
+
+---
+
+### Sri Lanka stocks pick up a bit, after policy rate cut
+
+*2024-07-24 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-pick-up-a-bit-after-policy-rate-cut-173606/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up marginally on Wednesday, after the central bank’s policy rate announcement earlier in the day.
+
+The broader All Share Index closed up 0.90 percent, or 104.45 points, at 11,701; while the more liquid S&P SL20 Index closed up 1.35 percent, or 45.40 points, at 3,414.
+
+“Since there is an inverse relationship with the policy rate, the downward revision, or the downward trend in the rate made the ASPI more attractive,” Softlogic Stockbrokers said. “But it was still a low turnover day, trade volumes were low.”
+
+Foreign activity was limited again with the day recording a net foreign outflow of 28 million rupees.
+
+Foreign buying interest was seen in Three Acre Farms Plc (up at 306.00), Haycarb Plc (up at 79.50), and Tokyo Cement Company (Lanka) Plc non-voting (flat at 42.00).
+
+Foreign selling was seen on Hatton National Bank Plc non-voting (up at 149.75), John Keells Holdings Plc (up at 193.25), and Bairaha Farms Plc (flat at 165.00).
+
+...
+
+[Data](articles/f940c0fb.json)
 
 ---
 
@@ -263,6 +377,20 @@ It is reported that President Ranil Wickremesinghe has been summoned by an emerg
 [Data](articles/896418a4.json)
 
 [Extended Data](ext_articles/896418a4.ext.json)
+
+---
+
+### Sri Lanka to have special cabinet meeting
+
+*2024-07-24 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-special-cabinet-meeting-173596/) · `en`
+
+ECONOMYNEXT – Sri Lanka is to hold a special cabinet meeting on Wednesday sources said.
+
+The move comes after the Supreme Court gave an interim order suspending the police chief’s appointment. (Colombo/Jul24/2024)
+
+◼️
+
+[Data](articles/3c54ea2b.json)
 
 ---
 
@@ -690,19 +818,27 @@ A firefighter who was working on the fire has been admitted to the hospital due 
 
 ---
 
-### සමරිසි පනතට දැඩි අප්‍රසාදය පළකරමින් මහ නාහිමිවරු ජනපතිට ලියති
+### Commonwealth displeased to the Samarisi Act
 
 *2024-07-24 14:02:34* · [`adalk`](https://www.ada.lk/breaking_news/සමරිසි-පනතට-දැඩි-අප්‍රසාදය-පළකරමින්-මහ-නාහිමිවරු-ජනපතිට-ලියති/11-410968) · `si`
 
-සමාජ පරිහානියට හේතුවන සදාචාර විරෝධී යෝජිත සමරිසි පනත් කෙටුම්පත සම්බන්ධයෙන් ත්‍රෛනිකායික මහනාහිමිවරුන්ගේ දැඩි අප්‍රසාදය පළ කරමින් ත්‍රෛනිකායික මහනාහිමිවරුන්ගේ අත්සනින් යුතුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ලිපියක් යොමු කොට තිබේ .
+President Wickremesinghe opposes the Samarisi Act, citing concerns over social decline and cultural identity preservation. The Most Venerable Uyangoda Maha Sangha expresses support for maintaining Sri Lanka's rich cultural heritage, emphasizing the importance of unity and respect for all cultures. The act is criticized for potentially threatening social security and cultural diversity, with calls for greater understanding and protection of cultural rights.
 
-මල්වතු පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ සේ සිද්ධාර්ථ මහා නා හිමියන් අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඤාණරතන මහා නා හිමියන් අමරපුර මහා සංඝ සභාවේ මහානායක අතිපූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති ශ්‍රී ලංකා රාමඤ්ඤ නිකායේ මහානායක අතිපූජ්‍ය මකුලෑවේ ශ්‍රී විමලාභීධාන මහා නා හිමියන් යන මහනාහිමිවරුන්ගේ අත්සනින් යුතුව යොමු කොට ඇති එම ලිපියේ මෙසේ සඳහන්ය .
+🟩
 
-රටේ සංස්කෘතික අනන්‍යතාවයන් , ඓතිහාසික උරුමය හා චිරාගත සද්චාරිත්‍රයන් නොසලකා පටු අත්තනෝමතික මත පදනම්ව රාජ්‍ය පාලනයෙහිලා යමක් උත්සාහ කරන්නේ කරන්නේනම් එය රාජ්‍ය ආරාජික වීමට මෙන්ම සමාජ බිඳවැටීමට බලපාන බව චක්කවත්ති සිහනාද සූත්‍රයේ දී තථාගතයන් වහන්සේ පැහැදිලි කර ඇත .
+President Ranil Wickremesinghe has written to President Ranil Wickremesinghe with the objection of the Trincomalee Proposed Suminians of the Proposed Summinists of Social Decline.
+
+The Most Venerable Uyangoda Maha Sangha in the Mahanaanayake of the Asgiriya Chairmanara, Mahanaathena Maithpura Maha Sangha, Mahanaanayake of the Mahanaanayake of the Asgiriya Chairmana, Mahanaanayake, General Visharaya, Mahanaanayake, is the Mananayake of the Mahanayaka Makulapaya Mahanaanayake of the Mahanaanayake of the Mahanaanayake of the Mahanaanayake of the Mahanaanayake of Sri Lanka Mahanayake Sri Lanka Maja Nikiri Mahanaan.The article states:
+
+Chatkathawatta Sanati, the Sinhalese, has explained that if the country's cultural identities are based on narrow arctacy, as the historical heritage and chiriwa.
+
+Foreign Cultural Heritage, who prefers as Dharmaadine, says great cultural inheritance. The massive culture of the Sri Lankan culture is based on the dynasty word, ethonce, and the four-time objects.
 
 ...
 
 [Data](articles/1c6e4b6b.json)
+
+[Extended Data](ext_articles/1c6e4b6b.ext.json)
 
 ---
 
@@ -1072,19 +1208,27 @@ But it has been plagued by poor safety due to insufficient training and maintena
 
 ---
 
-### චීනය නිසා ලංකාවට රු.බිලියන 6ක් ඉතුරු වෙයි
+### China remains Rs. 6 billion to Sri Lanka
 
 *2024-07-24 12:29:36* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-නිසා-ලංකාවට-රු-බිලියන-6ක්-ඉතුරු-වෙයි/11-410966) · `si`
 
-පසුගිය 2019-2021 වර්ෂවල පැවති කොවිඩ් 19 ව්‍යසනය, අරගලය හා වෘත්තීය ක්‍රියාමාර්ග මෙන් ම ආර්ථික පසුබැස්ම නිසා අහිමි වූ සියලු පාසල් අධ්‍යයන කටයුතු 2025 වර්ෂය වන විට යාවත්කාලීන කර අවසන් කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+In response to the Covid-19 pandemic and subsequent economic challenges, China has pledged Rs. 6 billion to support Sri Lanka's education sector. The Minister of Education highlighted the struggles faced during 2019-2021, including loss of educational progress and the inability to fulfill major commitments. However, efforts are underway to recover and improve the situation, with textbook distributions planned for free provision to students. Additionally, updates to the Ordinary Level and Scholarship Examination schedules for early 2025 were announced, alongside the appointment of 2,300 teachers to address shortages. The government also aims to fill remaining vacancies and ensure the provision of school uniforms for 2024.
 
-ඒ වෙනුවෙන් පසුගිය වසර දෙකක කාලය පුරා අධ්‍යාපන ක්ෂේත්‍රයේ සියලු දෙනා කළ සුවිශාල කැපවීම පිළිබඳ බොහෝ දෙනකුට අවබෝධයක් නොමැති බවත් විදුලිය, ඉන්ධන අද අවශ්‍ය පමණ ඇති නිසා රට යථා තත්වයට පත් වෙමින් පවතින අවස්ථාවක එම වෙහෙසකර මතකයන් බොහෝ දෙනෙකුගෙන් ගිලිහී යමින් පවතින බවත් අමාත්‍යවරයා වැඩිදුරටත් පැවසී ය.
+🟩
 
-අමාත්‍යවරයා මේ බව පැවසුවේ ප්‍රාදේශීය මධ්‍යස්ථාන වෙත පෙළපොත් බෙදාහැරීමේ සමාරම්භක වැඩසටහනට ඊයේ සහභාගී වෙමින් පිටිපන ප්‍රධාන ගබඩා සංකීර්ණයේ දී ය. රජයෙන් පාසල් සිසු සිසුවියන්ට නොමිලේ දෙනු ලබන පෙළපොත් ඉදිරි 2025 වර්ෂයේ දීත් නිසි කලට අඛණ්ඩ ව ලබා දීමේ අරමුණින් එම ඉදිරි වර්ෂයට අදාළ පෙළපොත් බෙදා හැරීමේ කටයුතු අද දින මෙසේ ඇරඹුණ බව ද සුසිල් ප්‍රේමජයන්ත මහතා මෙහි දී කියා සිටියේ ය.
+Minister of Education Dr. Susil Premajayantha said that the Covod 19 disaster, struggle and professional measures in the past 2019-2021, as well as all school acquisition lost due to the equal economic retrial.
+
+The Minister further stated that many of the largest commitment to the education sector in the past two years have not been able to understand and that many tireless memories are being recovered today.
+
+The Minister was speaking at the inauguration of the distribution program to the inauguration program to the local centers yesterday at the main warehouse complex. Susil Premajayantha said that the distribution of the textbooks will be launched today with the objective of providing free of charge for school children.
+
+The Minister said that all the surveyors of the Surveyors have increased by the Ordinary Level and Ordinary Level Scholarship Examination.. He said that in the first two months of 2025, the exam schedule and other exam will be updated.
 
 ...
 
 [Data](articles/b99b6930.json)
+
+[Extended Data](ext_articles/b99b6930.ext.json)
 
 ---
 
@@ -2205,149 +2349,5 @@ The Supreme Court has issued the order to investigate fundamental rights violati
 [Data](articles/f7e11666.json)
 
 [Extended Data](ext_articles/f7e11666.ext.json)
-
----
-
-### If AKD Is Going To Be Another Political Leader?
-
-*2024-07-24 09:48:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/if-akd-is-going-to-be-another-political-leader/) · `en`
-
-The major argument of this article is to discuss whether Anura Kumara Dissanayake’s political path is suitable for the socio-political recovery in Sri Lanka. Apparently, he seems to be a possible candidate for the forthcoming presidential election because of his long-term political experiences as a member of Janatha Vimukthi Peramuna. But is it enough to be a leader of this fallen land? This land is at present going through different crises. It is in chaos. There is no point in becoming a microphone-political-leader who addresses people with heavy arguments. That is an outdated tradition, which has no sense at all.
-
-It is so easy to speak with so many rosy words and please people with different tongues. The majority of citizens of this land are fond of jokes but never listen to concrete discussions that lead to being better countrymen. Most of the people live in an illusion. Myths are the way of life that they deserve always. This is Sri Lanka!
-
-...
-
-[Data](articles/49a03e36.json)
-
-[Extended Data](ext_articles/49a03e36.ext.json)
-
----
-
-### Interim order issued against Deshabandu functioning as IGP
-
-*2024-07-24 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100739/interim-order-issued-against-deshabandu-functioning-as-igp) · `en`
-
-The Supreme Court today issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the Inspector General of Police (IGP).
-
-The Supreme Court issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging the decision to appoint Tennakoon as the IGP.
-
-The Supreme Court also ordered the President to name a suitable person for the post of IGP, for the duration of the interim order being enforced against Deshabandu Tennakoon, Ada Derana reporter said.
-
-The fundamental rights (FR) petitions filed challenging the appointment of Deshabandu Tennakoon as IGP were taken up once again today (24). The petitioners had sought an interim order restraining Deshabandu Tennakoon from discharging the duties and functioning in the office of IGP.
-
-The Supreme Court on July 18 concluded considering the FR petitions filed challenging the appointment of Tennakoon as the IGP.
-
-...
-
-[Data](articles/ac534e9b.json)
-
-[Extended Data](ext_articles/ac534e9b.ext.json)
-
----
-
-### Interim Order from preventing the IGP
-
-*2024-07-24 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199150) · `si`
-
-The Supreme Court has temporarily blocked Deshabandu Tennakoon from serving as Inspector General of Police (IGP), pending further orders. This decision was made at the request of Cardinal Malcolm Ranjith, who sought legal intervention against the appointment of Deshabandu as IGP by the President.
-
-🟩
-
-The Supreme Court has issued a interim injunction with Deshabandu Tennakoon from working as IGP.
-
-The Supreme Court issued the Supreme Court in charge of the Fitly Cardinal Malcolm Ranjith, the Fitly Cardinal Malcolm Ranjith, the Fitly Cardinal Malcolm Ranjith, who has been submitted to the appointment order to appoint the President to appoint President Deshabandu as IGP.
-
-◼️
-
-[Data](articles/96a03281.json)
-
-[Extended Data](ext_articles/96a03281.ext.json)
-
----
-
-### Egg prices back to the forest
-
-*2024-07-24 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199149) · `si`
-
-Minister Nalin Fernando announces plans to lower egg prices due to upcoming festivities. He warns of re-importing eggs if prices aren't reduced voluntarily, aiming to support cake manufacturers and ensure affordability for consumers.
-
-🟩
-
-Minister Nalin Fernando says that the retail price of an egg is to be reduced to Rs.
-
-He says that if the festive season does not take steps to reduce the price, steps will be taken to import eggs again.
-
-"Eggs reduced by Rs. 6. I also take reports from the Consumer Authority. Continuing to import egg at least 40 rupees. Because the festive season begins December. Cake manufacturers take a lot of eggs. If they have less eggs, they must have to import eggs. Or you have to give the consumers or eggs in the price. "
-
-◼️
-
-[Data](articles/bfb7531a.json)
-
-[Extended Data](ext_articles/bfb7531a.ext.json)
-
----
-
-### Decision on petitions challenging IGP’s appointment expected today
-
-*2024-07-24 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100738/decision-on-petitions-challenging-igps-appointment-expected-today) · `en`
-
-The fundamental rights (FR) petitions filed challenging the appointment of Deshabandu Tennakoon as the Inspector General of Police (IGP) are slated to be taken up for consideration once again today (24).
-
-The Supreme Court on July 18 concluded considering the FR petitions filed challenging the appointment of Tennakoon as the IGP.
-
-Accordingly, the court had then announced that the decision as to whether or not the petitions will be taken up for hearing will be delivered today (24).
-
-The court is also expected to announce today as to whether an interim order will be issued preventing Deshabandu Tennakoon from functioning as the IGP.
-
-A three-member bench had previously taken up for consideration the eight petitions put forward by several parties including the Archbishop of Colombo Cardinal Malcolm Ranjith, Prof. Savitri Gunasekara, former MP Hirunika Premachandra and several others.
-
-...
-
-[Data](articles/1dda843b.json)
-
-[Extended Data](ext_articles/1dda843b.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-07-24 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199148) · `si`
-
-The Parliamentary Council has started its operations under the leadership of the Deputy Speaker, marking the beginning of its legislative duties.
-
-🟩
-
-The Deputy Speaker has commenced the activities of the Hon.
-
-◼️
-
-[Data](articles/06fb54e2.json)
-
-[Extended Data](ext_articles/06fb54e2.ext.json)
-
----
-
-### Two suspects arrested for criminal of club spring murder
-
-*2024-07-24 09:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතන-සිද්ධියේ--අපරාධයට-අනුබල-දුන්-සැකකරුවන්-දෙදෙනෙකු-අත්අඩංගුවට/11-410956) · `si`
-
-Two suspects, aged 26 and 36, were arrested in Athurugiriya for the Club Spring murder. They were found driving vehicles from various locations before abandoning them. The older suspect is a married man from Welikanda, Ahungalla. Further investigations are ongoing.
-
-🟩
-
-Two suspects arrested in Athurugiriya Police Division in Athurugiriya police area and two suspects were arrested and submitted to the Athurugiriya Police yesterday (23) at Athurugiriya and Battaramulla areas yesterday (23).Has been done.
-
-Suspect's vehicle driver and the car taken from a van from Korathota to the Weligawatte area and the other suspecters and the car of the car of the driver from Welihinda Highway from Welimithala ExpressThe bus was taken from a bus from bus and abandoned the bus to the Sellakataragama area and abandoned the bus.
-
-The driver of the arrested is a 36 year old resident of Welikanda, Ahungalla, a woman who is married to a cousin named big patient in the event.Have been revealed.
-
-The suspects were residents of 26-year-old and 36-year-old Criminal Division and Athurugiriya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/7d701870.json)
-
-[Extended Data](ext_articles/7d701870.ext.json)
 
 ---

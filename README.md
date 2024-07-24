@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 09:54:54**
+As of **2024-07-24 10:06:31**
 
 ## Newspaper Stats
 
-*Scraped **36,919** Articles*
+*Scraped **36,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,87 @@ adaderanalk | 4,275
 tamilmirrorlk | 4,527
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,194
+adaderanasinhalalk | 6,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,916 (100.0%) of 36,919 articles have been extended.
+36,919 (100.0%) of 36,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### දේශබන්දුට පොලිස්පති ලෙස කටයුතු කිරීම වළක්වාලමින් අතුරු නියෝගයක්
+
+*2024-07-24 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199150) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අති උතුම් කාදිනල් මැල්කම් රංජිත් හිමිපාණන් ඇතුළු පාර්ශව කරුවන් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 09 ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/96a03281.json)
+
+---
+
+### බිත්තර මිල යළි කරළියට
+
+*2024-07-24 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199149) · `si`
+
+බිත්තරයක සිල්ලර මිල රුපියල් 40ක් දක්වා අඩු කිරීමට හැකියාව පවතින බව නලින් ප්‍රනාන්දු අමාත්‍යවරයා පවසයි.
+
+ඔහු පවසන්නේ උත්සව සමයේ බිත්තර නිෂ්පාදකයින් මිල අඩු කිරීමට පියවර නොගන්නේ නම් යළිත් ඉන්දියාවෙන් බිත්තර ආනයනය කිරීමට පියවර ගන්නා බවය.
+
+"රුපියල් 6කින් එක පාරටම බිත්තර අඩුවෙලා. මම ඒ ගැනත් පාරිභෝගික අධිකාරියෙන් වාර්තා ගන්නවා. දිගින් දිගටම බලනවා අනිවාර්යයෙන්ම බිත්තරේ රුපියල් 40කටවත් ලබාදෙන්න බැරි නම් ආනයනය කරන්න වෙනවා. මොකද උත්සව සමය ආරම්භ වෙනවා දෙසැම්බර්. කේක් නිෂ්පාදකයෝ බිත්තර විශාල ප්‍රමාණයක් ගන්නවා. මෙයාලට බිත්තර අඩු නම් අනිවාර්යයෙන්ම බිත්තර ආනයනය කරන්න වෙනවා. එහෙම නැත්නම් පාරිභෝගිකයින්ට හරි මිලට බිත්තර දීලා ඔවුන්ව ආරක්ෂා කරන්න ඕනේ."
+
+◼️
+
+[Data](articles/bfb7531a.json)
+
+---
+
+### Parliamentary Council begins
 
 *2024-07-24 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199148) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+The Parliamentary Council has started its operations under the leadership of the Deputy Speaker, marking the beginning of its legislative duties.
+
+🟩
+
+The Deputy Speaker has commenced the activities of the Hon.
 
 ◼️
 
 [Data](articles/06fb54e2.json)
 
+[Extended Data](ext_articles/06fb54e2.ext.json)
+
 ---
 
-### ක්ලබ් වසන්ත ඝාතන සිද්ධියේ  අපරාධයට අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට
+### Two suspects arrested for criminal of club spring murder
 
 *2024-07-24 09:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතන-සිද්ධියේ--අපරාධයට-අනුබල-දුන්-සැකකරුවන්-දෙදෙනෙකු-අත්අඩංගුවට/11-410956) · `si`
 
-පසුගිය ජූලි 8 වනදා අතුරුගිරිය පොලිස් වසමේ ටැටූ මධ්‍යස්ථානයක් තුළ දී ටී56 ගිනිඅවිවලින් වෙඩිතබා ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකු ඝාතනය කර  තවත් සිව්දෙනෙකු බරපතළ තුවාල සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකිරීමේ දී ඊයේ (23) සවස අතුරුගිරිය හා බත්තරමුල්ල ප්‍රදේශවලදී එම අපරාධයට අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන අතුරුගිරිය පොලීසිය වෙත ඉදිරිපත් කර තිබේ.
+Two suspects, aged 26 and 36, were arrested in Athurugiriya for the Club Spring murder. They were found driving vehicles from various locations before abandoning them. The older suspect is a married man from Welikanda, Ahungalla. Further investigations are ongoing.
 
-සැකකරුවෙක් වෙඩික්කරුවන් හා ඔවුන් පැමිණි කාර් රථයේ රියදුරු කොරතොට ප්‍රදේශයේ සිට වැලිහිඳ ප්‍රදේශය දක්වා වෑන් රථයකින් රැගෙන ගොස් බස් රථයකට නංවා එම වෑන් රථය බුලත්සිංහල ප්‍රදේශයට රැගෙන ගොස් සඟවන ලද වෑන් රථ රියදුරු වන අතර, අනෙක් සැකකරු ඉන් අනතුරුව වෙඩික්කරුවන් සහ කාර් රථයේ රියදුරු වැලිහිඳ ප්‍රදේශයේ සිට දක්ෂිණ අධිවේගය හරහා දික්වැල්ල ප්‍රදේශය දක්වා බස් රථයකින් රැගෙන ගොස් එම බස් රථය සෙල්ලකතරගම ප්‍රදේශයට රැගෙන ගොස් අතහැර දමා සැඟව සිටි බස් රථයේ රියැදුරු මෙලෙස අත්අඩංගුවට පත්ව ඇත.
+🟩
 
-...
+Two suspects arrested in Athurugiriya Police Division in Athurugiriya police area and two suspects were arrested and submitted to the Athurugiriya Police yesterday (23) at Athurugiriya and Battaramulla areas yesterday (23).Has been done.
+
+Suspect's vehicle driver and the car taken from a van from Korathota to the Weligawatte area and the other suspecters and the car of the car of the driver from Welihinda Highway from Welimithala ExpressThe bus was taken from a bus from bus and abandoned the bus to the Sellakataragama area and abandoned the bus.
+
+The driver of the arrested is a 36 year old resident of Welikanda, Ahungalla, a woman who is married to a cousin named big patient in the event.Have been revealed.
+
+The suspects were residents of 26-year-old and 36-year-old Criminal Division and Athurugiriya Police are conducting further investigations.
+
+◼️
 
 [Data](articles/7d701870.json)
+
+[Extended Data](ext_articles/7d701870.ext.json)
 
 ---
 
@@ -1810,19 +1856,25 @@ Although the complaints sent by those companies are sent by the Speaker, the app
 
 ---
 
-### පාසල් පෙළපොත් ගබඩාවට නිකුත් කරයි
+### The school text releases to the store
 
 *2024-07-23 19:31:43* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-පෙළපොත්-ගබඩාවට-නිකුත්-කරයි/11-410951) · `si`
 
-2025 වර්ෂයට අදාළ පාසල් පෙළපොත් ඊයේ (23දා) දිනයේදී ප්‍රාදේශීය ගබඩාවලට නිකුත් කිරීම ආරම්භ කළ බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+School textbooks for 2025 were delivered to local warehouses yesterday. The Chinese government will supply school uniforms to all schools next year. Education Minister Susil Premajayantha announced progress in resolving teacher employment issues, with 16,000 teachers supported despite challenges.
 
-එමෙන්ම ලබන වර්ෂයට අදාළ පාසල් නිලඇඳුම් සියල්ල චීන රජය විසින් සැපයීමට එකඟතාව පළකර ඇති බවද අමාත්‍යාංශය ප්‍රකාශ කරයි.
+🟩
 
-ගුරු වැටුප් වර්ධක ප්‍රමාදයකින් තොරව ලබාදීමට කටයුතු කරන බවත්ගුරු වෘත්තීය ගැටලු සමාලෝචනය කර ඒවා නිරාකරණය කිරීමටද රජය මේ වන විට පියවර ගෙන ඇති බවත් අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි. දුෂ්කරතා හමුවේ වුවත් ගුරුපත්වීම් 16,000ක් ලබා දී ඇති බවද අමාත්‍යවරයා ප්‍රකාශ කළේය.
+The school text books of the year 2025 has been released to the local warehouses yesterday (23).
+
+The Ministry further stated that the Chinese government has agreed to provide all schools that have been provided with all school uniforms next year.
+
+Minister of Education Susil Premajayantha says that the government has taken steps to review and resolve the teachers' occupations.. The Minister said that 16,000 teachers have been provided, despite difficulties.
 
 ◼️
 
 [Data](articles/ab842893.json)
+
+[Extended Data](ext_articles/ab842893.ext.json)
 
 ---
 
@@ -2223,55 +2275,5 @@ The   Organisation of Islamic Cooperation (OIC) which includes Islamic states 
 [Data](articles/bd514e08.json)
 
 [Extended Data](ext_articles/bd514e08.ext.json)
-
----
-
-### Mihintaila Raja Maha Viharaya a heavy protester to the excavation of Anula
-
-*2024-07-23 18:05:43* · [`adalk`](https://www.ada.lk/breaking_news/අනුලා-සෑයේ-කැණීම්වලට-මිහින්තලා-රජමහා-විහාරාධිපතිගේ-දැඩි-විරෝධයක්/11-410942) · `si`
-
-Mihintale Raja Maha Viharaya opposed the excavation of Anula, involving the Chief Incumbent of the Department of Archaeological, Dhammaratana Thero, who denied any financial irregularities. The issue was reported to the President and the Director General of Archaeology. Despite concerns about adhering to traditional procedures, the Director General, Thusitha Mendis, stated that transferring an archaeological reserve site wasn't possible without cabinet approval for research and conservation work.
-
-🟩
-
-The Chief Incumbent of the Department of Archaeological, Ven.
-
-The Miwanthi Raja Maha Viharaya was also taken by the Mihintale Raja Maha Viharaya to consult the Miwanthi Rajamaha Viharaya.
-
-Dhammaratana Thero, Ven.
-
-He said that he had no audit regarding money.
-
-As a result, the Mahalanayake Thera has informed the President and the Director General of Archeology.
-
-Mihintala, Mihintala, said that the activities of the white nationals have been handed over to the Department of Archeology, but the work should be done in accordance with the procedure of the Sasani tradition.
-
-The Director General of Archeology Thusitha Mendis said that the Director General of Archeology was not able to transfer an archaeological reserve site.
-
-The agreement to carry out research and conservation work at the relevant places is also done by taking advice on a cabinet paper.
-
-◼️
-
-[Data](articles/a33d96cd.json)
-
-[Extended Data](ext_articles/a33d96cd.ext.json)
-
----
-
-### Election Comm. to meet Thursday to decide prez poll date
-
-*2024-07-23 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100727/election-comm-to-meet-thursday-to-decide-prez-poll-date) · `en`
-
-The National Election Commission is reportedly scheduled to meet on Thursday (25), in order to discuss regarding the holding of the upcoming Presidential Election.
-
-The discussions will be preliminarily focused on deciding the date for the 2024 Presidential Election and following that, the election date will be announced.
-
-However, a spokesperson from the Election Commission stated that the Gazette notification related to announcing the Presidential Poll will be published before this weekend.
-
-◼️
-
-[Data](articles/3fd88609.json)
-
-[Extended Data](ext_articles/3fd88609.ext.json)
 
 ---

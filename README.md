@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 06:03:13**
+As of **2024-07-24 06:24:58**
 
 ## Newspaper Stats
 
-*Scraped **36,890** Articles*
+*Scraped **36,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,203
 dailyftlk | 2,356
 adalk | 3,340
 adaderanalk | 4,269
-tamilmirrorlk | 4,520
+tamilmirrorlk | 4,522
 dailymirrorlk | 4,733
 virakesarilk | 5,785
 adaderanasinhalalk | 6,185
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,860 (99.9%) of 36,890 articles have been extended.
+36,860 (99.9%) of 36,892 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -506,6 +506,20 @@ Ramanathapuram police said that steps will be taken to bring the suspects in cou
 
 ---
 
+### ஜப்பான் இராஜாங்க அமைச்சர் - அனுர சந்திப்பு
+
+*2024-07-24 02:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-இராஜாங்க-அமைச்சர்-அனுர-சந்திப்பு/175-340925) · `ta`
+
+ஜப்பானுக்கு விஜயம் மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க, அந்த நாட்டின் வெளிவிவகார இராஜாங்க அமைச்சரை சந்தித்துள்ளார்.
+
+இருநாடுகளுக்கும் இடையிலான நீண்ட கால நட்புறவு, தூதரக மற்றும் பொருளாதார உறவுகளின் அடுத்தகட்ட நடவடிக்கை தொடர்பில் இதன்போது கலந்துரையாடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/9d106223.json)
+
+---
+
 ### Conspiracy to assassinate
 
 *2024-07-24 02:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படுகொலை-செய்ய-சதி/175-340924) · `ta`
@@ -529,6 +543,26 @@ The Minister of State has already been accused of involvement in the assassinati
 [Data](articles/0c68c090.json)
 
 [Extended Data](ext_articles/0c68c090.ext.json)
+
+---
+
+### ’என்னை படுகொலை செய்ய சதி’
+
+*2024-07-24 02:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-படுகொலை-செய்ய-சதி/175-340924) · `ta`
+
+என்னை படுகொலை செய்வதற்கு இராஜாங்க அமைச்சர் ஒருவர் சதி செய்வதாக இணையத்தள செய்தித் சேவை ஒன்றில் வெளிநாட்டு புலனாய்வு அமைப்பை மேற்கோள் காட்டி வெளியிடப்பட்டுள்ள செய்தி தொடர்பில் சபாநாயகர் நடவடிக்கை எடுக்க வேண்டும் என இலங்கைத்தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. இரா.சாணக்கியன் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23)  சிறப்புரிமைமீறல் பிரச்சினையை முன்வைத்தே இவ்வாறு வலியுறுத்திய இரா..சாணக்கியன் மேலும் பேசுகையில்,
+
+என்னை படுகொலை செய்வதற்கு இராஜாங்க அமைச்சர் ஒருவர் சதி செய்வதை வெளிநாட்டு புலனாய்வுப்பிரிவொன்று கண்டுபிடித்துள்ளதாக  இணையத்தள செய்தித் சேவை கடந்த 20 ஆம் திகதி செய்தி ஒன்றை வெளியிட்டுள்ளது.
+
+இந்த விடயம் தொடர்பில் நான் சபாநாயகருக்கும் பொலிஸ்மா அதிபருக்கும் எழுத்து மூலம் அறிவித்துள்ளேன்.
+
+இதில் என்னை படுகொலை செய்வதற்கு சதி செய்வதாக   கூறப்பட்டுள்ள இராஜாங்க அமைச்சர் ஏற்கெனவே எம்.பி., படுகொலை மற்றும் உயிர்த்த ஞாயிறு தாக்குதலுடன் தொடர்பு பட்டவர் எனக்குற்றம் சாட்டப்பட்டவர். எனவே இந்த செய்தி தொடர்பில் உரிய நடவடிக்கைகளை எடுக்குமாறு சபாநாயகரிடம் வலியுறுத்துகின்றேன் என்றார்.
+
+◼️
+
+[Data](articles/fd88aa1a.json)
 
 ---
 
@@ -2195,53 +2229,5 @@ The letter was issued on the day of 24.06.2024 that the Kuchchaveli Pradeshiya S
 [Data](articles/f11c9928.json)
 
 [Extended Data](ext_articles/f11c9928.ext.json)
-
----
-
-### AIA's performances at the President's Club Conference in France!
-
-*2024-07-23 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189173) · `ta`
-
-AIA Insurance, representing Sri Lanka, showcased its top performers at the prestigious AIA President's Club conference in Cannes, France. This annual event, now in its 12th year, features professionals from around the globe, offering opportunities for growth and networking. Notable attendees included a group of Sri Lankan professionals and senior management from AIA Sri Lanka, highlighting the company's commitment to excellence on the international stage.
-
-🟩
-
-AIA Insurance attended the Best Wealth Plans, who represented Sri Lanka at a massive AIA President's Club conference in Cannes, France.
-
-This conference is usually held in the most attractive places around the world. Sri Lanka's participation in the event, which will be held for the 12th consecutive year, has revealed AIA Sri Lanka's best in the global event.
-
-This year's conference in France, with professional development and recognition, coordinated the vibrant energy of the world's most hectic city and gave them a rich experience.
-
-A group of Sri Lankan professionals, including the managers of the 12 best Wealth Plans and Wealth Plans, were unique in the event, including Sanjeevani Somatna, K Bron, BA Ruwini Chaturangika, W. A. ​​Osaka, Ajith Fernando. Gamini, Krishan Dasanayake, SS Priyantha Dias, Vinol Priyasenarat and Kumari in Hindu were also present.
-
-...
-
-[Data](articles/be33cdf8.json)
-
-[Extended Data](ext_articles/be33cdf8.ext.json)
-
----
-
-### The head of the shafts 12 secret talk
-
-*2024-07-23 15:06:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுத்-தலைவர்கள்-12-பேர்-இரகசிய-பேச்சு/175-340893) · `ta`
-
-Sri Lanka's PA district leaders plan to back President Ranil Wickremesinghe in the upcoming presidential election, even if he isn't nominated by his party. This decision was made during a meeting at a diplomat's home in Colombo. They've also agreed to organize his campaign at the district level.
-
-🟩
-
-Political sources say that the 12 district leaders of the Sri Lanka PA have decided to support the President if the candidates are forced to field other than President Ranil Wickremesinghe in the presidential election.
-
-A special discussion was held on Monday night at the residence of a diplomatic minister in Malalasekara Mawatha, Colombo.
-
-If the party nominates a different candidate, it is also known that they have decided to go against the majority and support President Ranil Wickremesinghe.
-
-Political sources further stated that it has been decided to carry out the necessary organizations to implement Ranil Wickremesinghe's election campaign with the members of the council at the district level.
-
-◼️
-
-[Data](articles/722eddb1.json)
-
-[Extended Data](ext_articles/722eddb1.ext.json)
 
 ---

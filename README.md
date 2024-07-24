@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 05:38:10**
+As of **2024-07-24 06:03:13**
 
 ## Newspaper Stats
 
-*Scraped **36,860** Articles*
+*Scraped **36,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ dbsjeyarajcom | 322
 colombotelegraphcom | 349
 bbccomsinhala | 358
 newsfirstlk | 363
-islandlk | 2,097
+islandlk | 2,107
 economynextcom | 2,203
-dailyftlk | 2,336
+dailyftlk | 2,356
 adalk | 3,340
 adaderanalk | 4,269
 tamilmirrorlk | 4,520
@@ -26,11 +26,363 @@ adaderanasinhalalk | 6,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,860 (100.0%) of 36,860 articles have been extended.
+36,860 (99.9%) of 36,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### Ranil Wickremesinghe: the pragmatic leadership during challenging times
+
+*2024-07-24 05:47:01* · [`dailyftlk`](https://www.ft.lk/opinion/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/14-764663) · `en`
+
+No political leader has been subjected to vilification and character assassination like RW in the history of this country
+
+Two years ago, Sri Lanka was in a complete state of anarchy. The nation was undergoing its worst economic and political crisis in its contemporary history. People died while they were languishing in long queues to buy fuel, powdered milk, gas cylinders, and various other essentials. Schools and universities were not functioning, and the future of the youth and children appeared bleak. The first half of 2022 was one of the most unfortunate periods in the history of the island, characterised by despair, grief, and severe turmoil, which nobody in the country even wants to recall.
+
+...
+
+[Data](articles/b9cdaf71.json)
+
+---
+
+### Critical points for COPF review of proposed enactment of the Economic Transformation Bill
+
+*2024-07-24 05:44:17* · [`dailyftlk`](https://www.ft.lk/columns/Critical-points-for-COPF-review-of-proposed-enactment-of-the-Economic-Transformation-Bill/4-764662) · `en`
+
+The enactment of the Bill in its current form, will ‘not’ be capable of delivering consistent and sustainable growth along with the creation of new livelihood options for most of the citizens whilst enhancing their disposable incomes
+
+This submission is made in the long-term sustainable interests of Sri Lanka and all its people; and sets out some critical aspects to be considered by COPF, prior to proceeding with the enactment of the proposed Economic Transformation Bill:
+
+1. Sri Lanka’s best option for inclusive growth requires a mixed bag of reforms to enhance new investments and tradable goods share of growth whilst assuring the bottom 40% of the segment of society have income enhancement for livelihood support,
+
+Beginning with political stability, policy consistency, ease of doing business, improved factor productivity, good governance, safe and corruption-free destination with property rights and effective dispute resolution mechanisms,
+
+...
+
+[Data](articles/33357d67.json)
+
+---
+
+### Operation Yukthiya, trade union action, and the stability state in Sri Lanka
+
+*2024-07-24 05:31:57* · [`dailyftlk`](https://www.ft.lk/columns/Operation-Yukthiya-trade-union-action-and-the-stability-state-in-Sri-Lanka/4-764661) · `en`
+
+This highly-publicised law and order operation was viewed by critics as an attempt to gain political mileage by the President and privileges by relevant ministers and public officials
+
+On Monday, 8 July, a local businessman, Surendra Wasantha Perera alias Club Wasantha, was murdered by two gunmen. The incident brought the issue of law and order to the forefront of the public discourse and news cycle. These developments have imparted more purchase for the ‘Yukthiya’ operation, a war on drugs spearheaded by Minister of Public Affairs Tiran Alles.
+
+Minister Alles had promised a few days before, at the Uva Provincial Community Police Committee members’ empowerment workshop “A Law-Abiding Country” at Wellawaya, that he would ensure Sri Lanka is free of drugs and the underworld by December 2025, under the leadership of President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/d20c4fab.json)
+
+---
+
+### Sri Lanka caught in a constitutional quagmire
+
+*2024-07-24 05:24:30* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-caught-in-a-constitutional-quagmire/4-764660) · `en`
+
+Substitution of the words, “to over five years” replacing “to over six years” is yet another amendment replacing the original provision giving an entirely different version amounting to a complete change
+
+The looming Presidential election to be soon followed by the General Election of the Parliament has led to confused conjectures creating a rumpus never experienced before. The issue is centred on the controversy over the term of office of the President and the period of continuity of the Parliament once elected.
+
+Already two parties have gone before the Supreme Court invoking determination on the consistency with the Constitution of repealing and replacing Article 30, under the 19th Amendment to the Constitution, certified on 15 May, 2015.
+
+Leaving the argumentation part to the more qualified legal profession I intend to set out below the issues concerning the matter about which there is a growing strong dispute debated in public and the media.
+
+...
+
+[Data](articles/03a23b26.json)
+
+---
+
+### US Vice President Kamala Harris not attending Israeli PM’s address to US Congress is ‘welcome news’
+
+*2024-07-24 05:20:59* · [`dailyftlk`](https://www.ft.lk/columns/US-Vice-President-Kamala-Harris-not-attending-Israeli-PM-s-address-to-US-Congress-is-welcome-news/4-764659) · `en`
+
+US Vice President and Democratic Party presidential candidate Kamala Harris
+
+Washington Exa-miner’s report by Brady Knox that US Vice President and Democratic Party presidential candidate Kamala Harris will not attend Israeli Prime Minister Benjamin Netanyahu’s address to the American Congress scheduled for today, Wednesday 24 July, would be welcome news to progressive thinking people throughout the world, particularly in the context of last Friday’s (19 July 2024) sweeping advisory opinion of the International Court of Justice (ICJ) unequivocally asserting that 57 years of Israeli occupation of Palestinian lands captured then and thereafter as “unlawful”, that Israel should rapidly end its unlawful occupation of ‘Palestinian Territory’, evacuate all settlers from the occupied territory, make reparation for the damages caused and declaring that all States remain under “obligation not to render aid or assistance” for any Israeli presence in the ‘Occupied Palestinian Territory’.
+
+...
+
+[Data](articles/41bfa4fa.json)
+
+---
+
+### Soul Sounds Academy Triumphs at 13th Bali International Choir Festival 2024
+
+*2024-07-24 05:14:53* · [`dailyftlk`](https://www.ft.lk/news/Soul-Sounds-Academy-Triumphs-at-13th-Bali-International-Choir-Festival-2024/56-764657) · `en`
+
+Twenty-five young soloists from Sri Lanka’s Soul Sounds Academy excelled at the 13th Bali International Choir Festival 2024, winning 17 gold medals and 8 silver medals in the solo categories.
+
+Competing in both Children’s Solo and Youth Solo categories, these talented performers showcased their exceptional skills. Their success was achieved under the expert guidance of renowned musician Soundarie David Rodrigo, along with vocal trainers Shivanthi Subramaniam and Shenuk Wijesinghe, who ensured their performances were outstanding.
+
+Soul Sounds Academy is committed to nurturing young talent, providing numerous opportunities for these young artists to perform on local and international stages. The academy takes immense pride in celebrating the achievements of all its medallists and their remarkable journey so far.
+
+◼️
+
+[Data](articles/4ec9464a.json)
+
+---
+
+### Committee begins accepting proposals for public sector salary revisions
+
+*2024-07-24 05:14:07* · [`dailyftlk`](https://www.ft.lk/news/Committee-begins-accepting-proposals-for-public-sector-salary-revisions/56-764656) · `en`
+
+The committee tasked with addressing salary discrepancies in the public sector has started accepting suggestions for updating salary benefits, according to the President's Media Division (PMD).
+
+This initiative aims to address and rectify long-standing salary issues within the sector.
+
+Proposals for revising salary allowances can now be submitted to the committee.
+
+President Ranil Wickremesinghe recently appointed this committee to address the salary discrepancies. The President has mandated the committee to submit its recommendations report within three months, underscoring the urgency and importance of this task.
+
+The PMD encourages all relevant stakeholders to contribute their suggestions, ensuring a comprehensive review and equitable revision of public sector salaries.
+
+Interested parties can access the application form from the official website of the Presidential Secretariat at
+
+...
+
+[Data](articles/ae4cdd48.json)
+
+---
+
+### Bird Island in Beira Lake to be leased to Sri Jinarathana Vocational Technical Training Centre to boost tourism
+
+*2024-07-24 05:13:53* · [`dailyftlk`](https://www.ft.lk/news/Bird-Island-in-Beira-Lake-to-be-leased-to-Sri-Jinarathana-Vocational-Technical-Training-Centre-to-boost-tourism/56-764655) · `en`
+
+The Cabinet of Ministers on Monday approved the lease of Bird Island, situated on Beira Lake to the Sri Jinarathana Vocational Technical Training Centre for a 50-year term.
+
+“The island will be developed into a tourist attraction,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+The lease request was made by the Chief Incumbent of the Gangarama Temple, with plans to enhance the island as a cultural heritage site aimed at attracting tourists. Bird Island, spanning 143 perches on the southwest part of Beira Lake, was initially transferred to the Urban Development Authority in 2000 as part of the Colombo City Development Plan under the Beira Lake Restoration Project.
+
+Gunawardena said the lease terms are based on the value determined by the Chief Assessor of the Government.
+
+“This development is expected to contribute to the cultural and tourist appeal of Colombo, further enhancing the city’s vibrant landscape,” he added.
+
+...
+
+[Data](articles/6106ca2f.json)
+
+---
+
+### Cabinet nod to adopt comprehensive National Anti-Corruption Agenda
+
+*2024-07-24 05:13:22* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-adopt-comprehensive-National-Anti-Corruption-Agenda/56-764654) · `en`
+
+The Cabinet of Ministers on Monday approved the adoption of the anti-corruption agenda as the national agenda for the Government, directing all authorities to adhere to this comprehensive framework.
+
+Since the Government took office in July 2022, it has prioritised improving governance, eradicating corruption, restoring State finances, ensuring credit sustainability and revitalising the economy.
+
+The foundation of the National Agenda for Anti-Corruption was established through the enactment of the Anti-Corruption Act No. 9 of 2023. This Act consolidates the Anti-Corruption Act (Authority 26), the Bribery and Corruption Commission Act No. 19 of 1994 and the Assets and Liabilities Statement No. 1 of 1975, aligning with international standards such as the United Nations Convention on Anti-Corruption and the Financial Action Task Force guidelines.
+
+...
+
+[Data](articles/d379263c.json)
+
+---
+
+### Govt. to implement national social protection policy
+
+*2024-07-24 05:12:27* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-implement-national-social-protection-policy/56-764653) · `en`
+
+The Cabinet of Ministers on Monday approved a new national social protection policy aimed at enhancing the effectiveness and coherence of the social protection system.
+
+The proposal, presented by President Ranil Wickremesinghe in his capacity as Finance, Economic Stabilisation and National Policy Minister seeks to address inefficiencies and fragmented efforts that have hindered the country’s social protection initiatives and national development.
+
+“The Finance, Economic Stabilisation and National Policy Ministry identified the need for a coordinated national policy to provide strategic guidance and ensure the participation of all relevant stakeholders. The newly formulated policy aims to develop a properly coordinated and coherent approach to social protection,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
+
+...
+
+[Data](articles/998e8bb1.json)
+
+---
+
+### ‘Films Sri Lanka’ to boost local cinema industry
+
+*2024-07-24 05:12:13* · [`dailyftlk`](https://www.ft.lk/news/Films-Sri-Lanka-to-boost-local-cinema-industry/56-764652) · `en`
+
+In a bid to elevate the local film industry, the Cabinet of Ministers on Monday approved instructing the Legal Draftsman to prepare the necessary legislation for the establishment of ‘Films Sri Lanka’, to boost industry capabilities.
+
+“The new institute will focus on regulatory activities and facilitate the transition of the local film industry onto digital platforms, aiming to bring Sri Lankan cinema to the international stage,” Cabinet Co-Spokesman and Mass Media Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+On 29 April, the Cabinet discussed the proposal to establish the ‘National Film Development Commission’ aiming to create a new institutional framework that shifts the National Film Corporation’s focus from business activities to regulatory functions, providing greater opportunities for digital platform integration and enhancing the global reach of Sri Lankan cinema.
+
+...
+
+[Data](articles/b329abf8.json)
+
+---
+
+### CPA Australia and Daily FT forum presents insights to digitalisation, AI, and future of business
+
+*2024-07-24 05:11:29* · [`dailyftlk`](https://www.ft.lk/business/CPA-Australia-and-Daily-FT-forum-presents-insights-to-digitalisation-AI-and-future-of-business/34-764651) · `en`
+
+CPA Australia, one of the world’s largest professional accounting organisations in partnership with Daily FT, yesterday hosted a thought leadership forum at the ITC Ratnadipa Hotel, Colombo.
+
+The event was titled “Digitalisation, AI, and the Future of Business” and was attended by over 100 C-suite executives, senior professionals, and other revered guests.
+
+The event opened with a welcome address by CPA Australia President, Board Chair, and John Curtin University Distinguished Professor Dale Pinto, who spoke extensively about technologies such as Artificial Intelligence’s (AI) impact on businesses and opportunities brought to the accounting industry.
+
+...
+
+[Data](articles/27795cd5.json)
+
+---
+
+### Cabinet nod to gazette and table proposed State Asset Management Bill
+
+*2024-07-24 05:08:32* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-gazette-and-table-proposed-State-Asset-Management-Bill/34-764650) · `en`
+
+The Cabinet of Ministers on Monday approved proposal forwarded by the President in his capacity as the Finance, Economic Stabilisation and National Policies Minister to publish the draft Bill on State Asset Management in the Government gazette notification and submit the same in Parliament for approval.
+
+The move comes following the clearance received by the Attorney General to the draft prepared by the Legal Draftsman.
+
+On 17 October 2022, Cabinet approved identifying movable or immovable non-finance assets that a State institution fully owns, transferred, acquired, divested or borne by or utilised and to prepare a national assets register while updating it from time to time and to introduce a law on State assets management including provisions for confirming the receipts of proper benefits of those assets to the State institutions.
+
+...
+
+[Data](articles/c5c214a9.json)
+
+---
+
+### Cabinet clears amendments to expedite tax appeal process
+
+*2024-07-24 05:08:20* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-amendments-to-expedite-tax-appeal-process/34-764649) · `en`
+
+The Cabinet of Ministers on Monday approved expediting the tax appeal process, addressing delays that have hindered the collection of Rs. 73 billion in taxes.
+
+Recognising the need for a more efficient process, the Cabinet instructed the Legal Draftsman to prepare a draft that will expedite and formalise the tax appeal process.
+
+The proposal, presented by President Ranil Wickremesinghe in his capacity as the Finance, Economic Stabilisation and National Policies Minister aims to introduce amendments to the Inland Revenue Act No. 24 of 2017.
+
+These amendments are expected to reduce delays and improve the Government’s ability to collect taxes in a timely manner.
+
+Under current provisions, taxpayers who are dissatisfied with a decision by the Inland Revenue Department can appeal to the Commissioner General of Inland Revenue, who must issue a decision within two years.
+
+...
+
+[Data](articles/29ac37f2.json)
+
+---
+
+### Cabinet approves tabling Port City Economic Commission order in Parliament
+
+*2024-07-24 05:08:06* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-tabling-Port-City-Economic-Commission-order-in-Parliament/34-764648) · `en`
+
+The Cabinet of Ministers on Monday approved presenting the order published under section 53 of the Colombo City Economic Commission No. 11 of 2021, as stated in the extraordinary gazette No. 2383/34 dated 9 May 2024 in Parliament for approval.
+
+On 29 April 2024, the Cabinet decided to nominate China Harbour Engineering Company (Lanka) Ltd., as a secondary enterprise with strategic importance. This designation was formalised through a Government gazette.
+
+The decision underscores the significant role of China Harbour Engineering Company (Lanka), in the economic landscape of Colombo.
+
+The strategic importance designation is anticipated to facilitate smoother operations and potentially provide certain privileges or considerations under the Colombo City Economic Commission framework, fostering a more conducive environment for large-scale investment and development initiatives.
+
+...
+
+[Data](articles/ac50a380.json)
+
+---
+
+### Rs. 300 m boost for handloom industry to empower women and youth
+
+*2024-07-24 05:07:51* · [`dailyftlk`](https://www.ft.lk/business/Rs-300-m-boost-for-handloom-industry-to-empower-women-and-youth/34-764647) · `en`
+
+The Cabinet of Ministers on Monday approved the implementation of a comprehensive development program for the handloom industry, aimed at empowering women and youth.
+
+The initiative comes with a significant allocation of Rs. 300 million from the 2024 Budget.
+
+“This program addresses several key challenges faced by handloom industrialists, including a lack of entrepreneurial skills, insufficient and environmentally friendly infrastructure, the need for high-quality products that meet market demands and inadequate marketing facilities,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
+
+Noting that a combined project proposal was prepared to tackle these issues, he said the recommendations of the Department of National Planning have been incorporated into the plan.
+
+...
+
+[Data](articles/22fb42e5.json)
+
+---
+
+### Government apologises for compulsory COVID-19 cremations; plans new burial laws
+
+*2024-07-24 05:07:13* · [`dailyftlk`](https://www.ft.lk/news/Government-apologises-for-compulsory-COVID-19-cremations-plans-new-burial-laws/56-764646) · `en`
+
+In a significant move, the Cabinet of Ministers on Monday approved making a public apology to communities affected by the compulsory cremation policy enacted during the COVID-19 pandemic and instructed Legal Draftsman to prepare a Bill for the introduction of new burial law.
+
+“The decisions follow recent studies and comes amid efforts to prevent future conflicts regarding the disposal of bodies,” Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said at the post-Cabinet meeting media briefing.
+
+He said firstly, the Government will make a public apology and will announce practical measures later.
+
+“It is a formal apology from the Government to all communities affected by the compulsory cremation at a policy level,” he explained.
+
+During the height of the COVID-19 pandemic, the Health Ministry recommended cremation as the method for disposing of bodies of those who died from the virus.
+
+...
+
+[Data](articles/f3265aac.json)
+
+---
+
+### Samagi Jana Sandhanaya to launch on 8 August
+
+*2024-07-24 05:06:06* · [`dailyftlk`](https://www.ft.lk/news/Samagi-Jana-Sandhanaya-to-launch-on-8-August/56-764645) · `en`
+
+SJB General Secretary Ranjith Madduma Bandara announces party will form alliance with political parties that hold significant number of seats to face upcoming Presidential election
+
+Says SJS, broad political alliance will address all the country’s pressing issue
+
+Notes SJB leader Sajith Premadasa’s Presidential candidacy will be confirmed on the day
+
+The Samagi Jana Sandhanaya (SJS), a broad political alliance led by the Samagi Jana Balawegaya (SJB) is set to be unveiled on 8 August, the party announced yesterday.
+
+Addressing a press conference in Colombo, SJB General Secretary Ranjith Madduma Bandara announced that the SJB will form an alliance with political parties that hold a significant number of seats in Parliament to face the upcoming Presidential election.
+
+Madduma Bandara said the SJB will join hands with Sinhala, Tamil, Muslim, Burgher and all other communities to form the SJS.
+
+...
+
+[Data](articles/f677d8d7.json)
+
+---
+
+### Shanakiyan calls for inquiry into news report on plot to assassinate him
+
+*2024-07-24 05:05:00* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-calls-for-inquiry-into-news-report-on-plot-to-assassinate-him/56-764644) · `en`
+
+Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam has called on Speaker Mahinda Yapa Abeywardena to take necessary action regarding a news report alleging that MP Sivanesathurai Chandrakanthan is involved in a plot to assassinate him.
+
+The news report had been published on the Lanka-e-news website on 20 July. It claimed that a Foreign Intelligence Service had uncovered a plot by Chandrakanthan better known as Pillayan to assassinate Rasamanickam.
+
+Speaking in Parliament yesterday Rasamanickam urged the Parliament to conduct an inquiry into the report by the news website. He noted a current Member of Parliament who is also a State Minister had been identified as involved in the plot. Rasamanickam also highlighted that the said MP has been previously accused of murder and even linked to the 2019 Easter attacks.
+
+...
+
+[Data](articles/e50c8660.json)
+
+---
+
+### Cabinet nod to gazette and table revised  Online Safety Bill for Parliament approval
+
+*2024-07-24 05:03:58* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-gazette-and-table-revised-Online-Safety-Bill-for-Parliament-approval/56-764643) · `en`
+
+The Cabinet of Ministers on Monday approved publishing the draft Bill on amended Online Safety Act No. 9 of 2024 in the Government gazette notification and present the same in Parliament for approval.
+
+“The draft Bill prepared by the Legal Draftsman received clearance from the Attorney General,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+He said the move aims to address the concerns raised by experts and ensure that the legislation effectively secures online methods while considering expert input.
+
+Following the Supreme Court’s decision on the draft Bill concerning the security of online methods and its subsequent passage in Parliament, the Online Safety Act No. 9 of 2024 is now in operation.
+
+Despite the Bill’s enactment, experts in the field raised concerns and proposed amendments to certain sections of the Bill. However, these amendments could not be incorporated during the committee stage of the legislative process.
+
+...
+
+[Data](articles/46c66c55.json)
+
+---
 
 ### In the upcoming presidential election
 
@@ -393,6 +745,82 @@ Kimberly Cheatle, who had served as Secret Service director since August 2022, h
 [Data](articles/fb8fe058.json)
 
 [Extended Data](ext_articles/fb8fe058.ext.json)
+
+---
+
+### Tri-Zen adds value to residents’ lifestyles by offering inhouse laundry and healthcare services
+
+*2024-07-23 22:45:00* · [`islandlk`](http://island.lk/tri-zen-adds-value-to-residents-lifestyles-by-offering-inhouse-laundry-and-healthcare-services/) · `en`
+
+TRI-ZEN by John Keells Properties (JKP) has delighted its residents by adding Laundry and Healthcare services to its portfolio of value-added services. The laundry services provider – Laundroplus (Pvt) Ltd and healthcare service provider – Sitrek Home Nursing and Swift Care (Pvt) Ltd have joined hands with TRI-ZEN to offer unprecedented convenience to apartment owners of TRI-ZEN.
+
+The MoU was signed between John Keells Properties and Laundroplus (Pvt) Ltd on 20th May 2024. Laundroplus is engaged in the business of providing top of the line laundry services including washing, drying, folding, pressing and dry cleaning.
+
+...
+
+[Data](articles/9a342ecf.json)
+
+---
+
+### ComBank’s Green Bond framework receives milestone SPO from Sustainable Fitch
+
+*2024-07-23 22:45:00* · [`islandlk`](http://island.lk/combanks-green-bond-framework-receives-milestone-spo-from-sustainable-fitch/) · `en`
+
+The Commercial Bank of Ceylon has received a globally – recognised Second-Party Opinion (SPO) for the Bank’s Sustainable Bond Framework from Sustainable Fitch, the Fitch Solutions company that provides Environmental, Social and Governance (ESG) related ratings.
+
+The SPO is a third-party validation aligned with the International Capital Markets Association (ICMA) Green Bond Principles 2021. Receipt of the SPO enables the Bank to raise finance for environmental and social projects, including those that support gender equity and equality.
+
+Upon announcing and publishing the SPO, Sustainable Fitch said: “We consider transactions under the sustainable bond framework to be fully aligned with the ICMA Green Bond Principles 2021, Social Bond Principles 2023 and the Sustainability Bond Guidelines 2021. Our Second-Party Opinion is that the alignment is ‘Good’.”
+
+...
+
+[Data](articles/a1b19bdc.json)
+
+---
+
+### Global tea confab to kick-off tomorrow in Colombo
+
+*2024-07-23 22:42:00* · [`islandlk`](http://island.lk/global-tea-confab-to-kick-off-tomorrow-in-colombo/) · `en`
+
+President Ranil Wickremesinghe will deliver the keynote address at the prestigious Colombo International Tea Convention (CITC) in Colombo tomorrow where more than 300 global leaders converge, each a pivotal figure in every stage of the tea value chain.
+
+The CITC delves deep into the heart of one of the world’s most beloved beverages. CITC promises unparalleled opportunities for learning, networking and experiencing tea like never before.
+
+The Island Financial Island learns that CITC decision-makers from across the globe will gather to engage in critical conversations that shape the future of tea. ‘From producers and exporters to traders and retailers, the Convention provides a platform where every facet of the tea industry is represented. It’s more than just a conference; it’s a nexus of ideas, innovations, and collaborations aimed at driving the industry forward, tea industry sources said.
+
+...
+
+[Data](articles/e732adf4.json)
+
+---
+
+### Sustainable Development Council of Sri Lanka joins hands with Global Alliance for a Sustainable Planet
+
+*2024-07-23 22:40:00* · [`islandlk`](http://island.lk/sustainable-development-council-of-sri-lanka-joins-hands-with-global-alliance-for-a-sustainable-planet/) · `en`
+
+On 08th July, Sustainable Development Council of Sri Lanka (SDCSL) entered into a partnership with Global Alliance for a Sustainable Planet (GASP), a US based public organization that catalyses virtuous partnerships of diverse stakeholders including governments, international organizations, entrepreneurs, earth champions, and global investors to tackle contemporary development challenges such as climate change, poverty etc.
+
+The Memorandum of Understanding was signed between Satya Tripathi, Secretary General of GASP (former UN Assistant Secretary General and Head of UN Environment Management Group) and Ms. Chamindry Saparamadu, Director General of SDCSL.
+
+...
+
+[Data](articles/b81a7954.json)
+
+---
+
+### Five negative share trading sessions lead to bargain-hunting
+
+*2024-07-23 22:39:00* · [`islandlk`](http://island.lk/five-negative-share-trading-sessions-lead-to-bargain-hunting/) · `en`
+
+The stock market yesterday got off to a slow start but later turned positive following the experiencing of five negative trading sessions. As a result bargain hunters were active while major investors adopted a wait- and- see stance, market analysts said.
+
+Both indices moved upwards. The All- Share Price Index went up by 57.36 points while the S and P SL20 rose by 20.78 points. Turnover stood at Rs 540 million minus crossings.
+
+In the retail market companies that mainly contributed to the turnover were; Dialog Axiata Rs 38 million (four million shares traded), NDB Rs 33 million (473,000 shares traded), JKH Rs 23 million (125,000 shares traded), Hayley’s Rs 22.8 million (228,000 shares traded), HNB Rs 20.9 million (111,000 shares traded) and CTC Rs 18 million (14570 shares traded). During the day 55 million share volumes changed hands in 6834 transactions.
+
+...
+
+[Data](articles/1e433fb4.json)
 
 ---
 
@@ -1396,6 +1824,20 @@ Accordingly, the approval of the Attorney General has been obtained for the amen
 
 ---
 
+### Women and youth engaged in the handloom industry to be economically empowered
+
+*2024-07-23 17:06:00* · [`islandlk`](http://island.lk/women-and-youth-engaged-in-the-handloom-industry-to-be-economically-empowered/) · `en`
+
+Rs 300 Million of provisions has been allocated by the 2024 budget to the Ministry of Industries to implement special programme for the empowerment of women and youth who engaged in the jobs in the handloom industry. Accordingly, combined project proposal has been prepared in order to resolve the problems encountered by the industrialist such as lack of entrepreneurial skills, lack of environment friendly and sufficient infrastructure, lack of quality products that fulfill the market demand and insufficient marketing facilities and the recommendations of the Department of National Planning has been received for the said proposal.
+
+Accordingly, the Cabinet of Ministers has approved the proposal presented by the Minister of Industries to implement the development programmes which are identified by the said project proposal, by the institutes, the National Enterprise Development Authority, Department of Handloom, Lanka Salu Sala Limited and National Design Center
+
+...
+
+[Data](articles/3ff42b2f.json)
+
+---
+
 ### Deleting Technology and Aesthetic subjects in GCE Advanced Level Examination - Sajith
 
 *2024-07-23 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189192) · `ta`
@@ -1801,623 +2243,5 @@ Political sources further stated that it has been decided to carry out the neces
 [Data](articles/722eddb1.json)
 
 [Extended Data](ext_articles/722eddb1.ext.json)
-
----
-
-### HNB Finance's "Promotion Development Financial Literacy Workshop" in Kurunegala and Kegalle
-
-*2024-07-23 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189176) · `ta`
-
-HNB Finance PLC held its third and fourth workshops of the year in Kurunegala and Kegalle, aiming to boost funding for micro and small entrepreneurs through its Institute Social Responsibility initiative. Led by Anura Udwatta from the Skills Development Department, over 300 entrepreneurs learned about business accounting, loan management, profit sharing, reinvestment, cost management, and innovation. Participants received gifts for creative ideas and a "Financial Knowledge" manual, enhancing their financial literacy.
-
-🟩
-
-HNB Finance PLC, one of Sri Lanka's leading financial institutions, recently conducted the third and fourth workshop of this year with the event of the Kurunegala and Kegalle districts.
-
-The main objective is to improve funding for micro and small entrepreneurs.
-
-Under the HNB Finance's Institute Social Responsibility approach, the events have been organized in various provinces in various provinces of the country for the past few years.
-
-HNB Finance's Skills Development Department, Anura Udwatta, hosted these series of financial events, in which the micro and small -scale entrepreneurs learned about business accounting, loan management, a portion of the profit, re -investment, business cost management and new innovations.
-
-More than 300 entrepreneurs attended two recent events. HNB Finance has also organized gifts to the entrepreneurs who presented the most creative ideas among the entrepreneurs who participated in these events.
-
-...
-
-[Data](articles/68fe0885.json)
-
-[Extended Data](ext_articles/68fe0885.ext.json)
-
----
-
-### Doctor Archana in Parliament
-
-*2024-07-23 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189174) · `ta`
-
-Dr. Archana Ramanathan, a former staff member of the Jaffna Chavakachcheri Resource Hospital, expressed gratitude towards her Tamil community during a visit to Parliament. She emphasized her commitment to their cause, assuring them of her dedication and urging them not to lose hope.
-
-🟩
-
-Archana Ramanathan, a former respondent of the Jaffna Chavakachcheri Resource Hospital, visited Parliament today (23).
-
-The doctor Archana posted a post on the official Facebook page.
-
-My heartfelt thanks to my good Tamil people who look at this great burden in my hands.
-
-If I would insult this hope of yours in this moment, I would be the biggest traitor to my heroic Tamils.
-
-This is the only thanksgiving loan that I can do to all the Anna Mars, aka Mars, Smaments and Sisters who have made themselves in this heroic struggle.
-
-I am posting this post, saying that I have always been dedicated to the struggle of my people today, saying that I will know that you will be the most important time for the future, saying that you will die your hopeful son and die.. We will meet again.
-
-◼️
-
-[Data](articles/f1615016.json)
-
-[Extended Data](ext_articles/f1615016.ext.json)
-
----
-
-### New Decision on Online Act
-
-*2024-07-23 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199126) · `si`
-
-The Cabinet approved changes to the Online Schemes Act on 12.02.2012 to enhance its security.
-
-🟩
-
-The Cabinet Meeting was approved by the Cabinet Meeting on 12.02.2012 to edit the security of the Online Schemes Act.
-
-The proposal made by Hon.
-
-◼️
-
-[Data](articles/15d15230.json)
-
-[Extended Data](ext_articles/15d15230.ext.json)
-
----
-
-### Sri Lanka Air Force helped to escape the Maldives in 2022 - Air Force information
-
-*2024-07-23 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189169) · `ta`
-
-In 2022, the Sri Lanka Air Force aided the evacuation from the Maldives during the Arakala protests. This included transporting Gotabhaya Rajapaksa to the Maldives on July 13, 2022, using Air Force resources funded through the Treasury Defense Ministry. The Air Force stated that as the president leads the country's armed forces, such measures are standard practice, without detailing fuel usage for presidential transport due to security reasons.
-
-🟩
-
-The Right to Information Act has revealed that the Sri Lanka Air Force aircraft and funds were used to escape the Maldives during the Arakala days.
-
-On July 13, 2022, Gotabhaya Rajapaksa fled to the Maldives by the Sri Lanka Air Force plane.
-
-During the Arakalai protest, the demonstrators and the public escaped to the Gotabhaya Maldives in the next few days following the occupation of the Presidential Palace on July 9, 2022.
-
-He went to the Maldives using the Air Force aircraft, and the funds provided to the Sri Lanka Air Force through the Treasury Defense Ministry were used, the Sri Lanka Air Force said.
-
-The Sri Lankan Air Force has said that the President has carried out these measures as the president is the leader of the country's armed forces.
-
-According to the existing arrangement, we are not calculating the use of fuel for the president's transport, the Sri Lanka Air Force said.
-
-...
-
-[Data](articles/4f40e677.json)
-
-[Extended Data](ext_articles/4f40e677.ext.json)
-
----
-
-### Three arrested with a soldier in search of gold
-
-*2024-07-23 14:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலி-தங்கம்-தேடிய-சிப்பாயுடன்-மூவர்-கைது/175-340890) · `ta`
-
-In a joint operation, the Special Task Force arrested four individuals, including a soldier, for allegedly hiding wartime gold. Using advanced detection equipment, they were caught in Mannar, with one suspect found in possession of a laptop. The arrests were recommended by the Mannar Camp Commander and approved by Inspector General of Police, Roy Sumanawardena.
-
-🟩
-
-Three persons, including a soldier, have been arrested by the Special Task Force, using a special scanner machine to detect weapons and gold suspected of being buried during the war during the war.
-
-The Special Task Force (STF) has been arrested by the Special Task Force in the Mannar Police Department, which is under the recommendation of the Mannar Camp Commander's Inspector General of Police, Roy Sumanawardena.
-
-The 49 -year -old army soldier from Kurunegala and three men between the ages of 29 and 62, who live in Vavuniya, Anuradhapura and Kaduwela areas, have been arrested with a laptop and handed over to the Mannar police.
-
-◼️
-
-[Data](articles/80c66386.json)
-
-[Extended Data](ext_articles/80c66386.ext.json)
-
----
-
-### Fire at a wooden plant in Amparai
-
-*2024-07-23 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189168) · `ta`
-
-A fire erupted at a timber plantation in Amparai's Malikaikkadu region, likely due to soil erosion, causing no injuries. Firefighters from Kalmunai Municipal Council and the National Water Supply and Drainage Board assisted in extinguishing it.
-
-🟩
-
-A fire broke out in a tree plant in the Malikaikkadu area of ​​the Ampara District Karadivu Pradeshiya Sabha.
-
-The fire broke out in the wood plant on Monday (22) evening and the firefighters of the Kalmunai Municipal Council, with the help of the National Water Supply and Drainage Board.
-
-It has been revealed that the accident may have been caused by the erosion and that there was no casualties.
-
-◼️
-
-[Data](articles/8c633696.json)
-
-[Extended Data](ext_articles/8c633696.ext.json)
-
----
-
-### Sri Lanka to introduce bill enabling no-fault divorce: Justice minister
-
-*2024-07-23 14:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-introduce-bill-enabling-no-fault-divorce-justice-minister-173393/) · `en`
-
-ECONOMYNEXT – Sri Lanka has drafted a bill to bring about no-fault divorce, the country’s Minister of Justice Wijeyadasa Rajapakshe said.
-
-“We have made a new bill to introduce no-fault divorce,” Rajapaksha said in parliament on Tuesday (23) explaining some of the salient features of a new bill that would include electronic means – email and Whatsapp – of handing over summons.
-
-At present, Sri Lanka’s divorce law is governed by the Marriage Registration Ordinance and is a fault-based divorce and is only possible on grounds of adultery, malicious desertion or incurable impotence.
-
-The fault-based divorce system and grounds for divorce were enacted in 1907 and are still used in cases of non-customary divorce.
-
-“Instead of waiting years for the divorce, if it is proved that there has been an irretrievable marriage breakdown, court can rule on the matter.” (Colombo/Jul23/2024)
-
-◼️
-
-[Data](articles/2472b09b.json)
-
-[Extended Data](ext_articles/2472b09b.ext.json)
-
----
-
-### Cabinet approval to gazette revised Online Safety Bill
-
-*2024-07-23 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100722/cabinet-approval-to-gazette-revised-online-safety-bill) · `en`
-
-The Cabinet of Ministers has granted approval to publish the revised Online Safety Bill in the government gazette and to table it in Parliament.
-
-In line with the decision given by the Supreme Court on the draft bill on the security of online methods known as ‘Online Safety Bill’, and subsequent to being passed in Parliament, the Security of Online Methods Act No. 9 of 2024 is now in operation, the Department of Government Information (DGI) said.
-
-Before the bill was passed in the Parliament, the experts in the field have expressed their concerns for amendments of certain sections in the bill, yet there was no possibility to include such amendment proposals in the bill at the committee stage, it added.
-
-Therefore, approval of the Cabinet of Ministers was granted at their meeting held on February 12, 2024 to prepare a draft bill to amend the Security of Online Methods Act No. 9 of 2024 with the said amendments.
-
-...
-
-[Data](articles/a85d835e.json)
-
-[Extended Data](ext_articles/a85d835e.ext.json)
-
----
-
-### A - Correct recovery with wounds on 9 road
-
-*2024-07-23 13:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதியில்-காயங்களுடன்-சடலம்-மீட்பு/175-340889) · `ta`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-A body of a man has been recovered on the Kandy -Jaipanam A -9 road, police said.
-
-Drappana Police Domain Kalkulam Km.  122,க்கும் 123க்கும் இடைப்பட்ட வீதியில் பலத்த காயங்களுக்குள்ளான நிலையில் உயிரிழந்த நபரின் சடலம் திங்கட்கிழமை (23) கண்டெடுக்கப்பட்டுள்ளதாக திரப்பன பொலிஸார் தெரிவித்தனர்.
-
-The deceased was the elderly Suraveera of Anuradhapura, Mihintale and Kedeva area, and the 38 -year -old was identified as the father of two children, police said.
-
-Police suspect that the deceased was working at a hotel in Mulchiripura area and was on his way home after night.
-
-Police are conducting further investigations into whether the deceased was traveling in a road and died from the vehicle or died with a vehicle on the road.
-
-◼️
-
-[Data](articles/7efea5bb.json)
-
-[Extended Data](ext_articles/7efea5bb.ext.json)
-
----
-
-### A - Bad with injuries on 9 road
-
-*2024-07-23 13:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏ-9-வீதியில்-காயங்களுடன்-சடலம்/175-340889) · `ta`
-
-A man's body was found on the Kandy-Jaipanam A-9 road between km 122 and 123, showing signs of severe injuries. Identified as 38-year-old Suraveera from Anuradhapura, he was the father of two and worked at a hotel in Mulchiripura. The police are investigating how he died, whether it was due to being hit by a vehicle or dying within one on the road.
-
-🟩
-
-A body of a man has been recovered on the Kandy -Jaipanam A -9 road, police said.
-
-Drappana Police Domain Kalkulam Km.  122,க்கும் 123க்கும் இடைப்பட்ட வீதியில் பலத்த காயங்களுக்குள்ளான நிலையில் உயிரிழந்த நபரின் சடலம் திங்கட்கிழமை (23) கண்டெடுக்கப்பட்டுள்ளதாக திரப்பன பொலிஸார் தெரிவித்தனர்.
-
-The deceased was the elderly Suraveera of Anuradhapura, Mihintale and Kedeva area, and the 38 -year -old has been identified as the father of two children, police said.
-
-Police suspect that the deceased was working at a hotel in Mulchiripura area and was on his way home after night.
-
-Police are conducting further investigations into whether the deceased was traveling in a road and died from the vehicle or died with a vehicle on the road.
-
-◼️
-
-[Data](articles/955e5109.json)
-
-[Extended Data](ext_articles/955e5109.ext.json)
-
----
-
-### The government apologizes for the cremated of the covard bodies
-
-*2024-07-23 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199125) · `si`
-
-During the COVID-19 pandemic, Sri Lanka implemented a mandatory cremation policy for all deceased individuals, including Muslims, despite cultural preferences. This decision was made due to concerns over the spread of the virus through traditional burials. The government later collaborated with the University of Sri Jayewardenepura to test various sites, including hospitals and quarantine centers, for the presence of the virus in water sources, finding none. Additionally, a Chinese-Sri Lanka research center was established to further investigate the virus's impact, confirming that neither cremation nor burial practices were responsible for its transmission.
-
-🟩
-
-The government has approved the procedure for the compulsory creation policy in Sri Lanka during the COVID-19 plague.
-
-The Hon.
-
-Cremation was recommended as the methodology to dismiss the body of the deceased persons who died in the survivors of the Ministry of Health at Covid-19 clinical management.
-
-Accordingly, 276 Muslim people who have been in Covid-19 have been created in permission to burn them with severe boundaries in February 2021.
-
-With the help of the University of Sri Jayewardenepura in July, 2021, the Ministry of Water Supply, hospitals, hospitals, quarantine centers, and other potential sectors have been identified to identify the Sars-COV-2 virus in Colombo.
-
-It has been revealed that the study has no virus in the surface water.
-
-In March 2024, the Chinese-Sri Lanka Integrated Research and Demonstration Center has been completed by the Ministry of Water Supply and Estate Infrastructure Development.The source has been confirmed that the source is not the burial burre.
-
-◼️
-
-[Data](articles/1011231e.json)
-
-[Extended Data](ext_articles/1011231e.ext.json)
-
----
-
-### Promise made at the meeting of the ruling party MPs
-
-*2024-07-23 13:50:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளும்-கட்சி-எம்-பி-க்கள்-கூட்டத்தில்-வழங்கப்பட்ட-வாக்குறுதி/175-340888) · `ta`
-
-At a meeting of ruling party MPs, President Ranil Wickremesinghe confirmed the scheduled presidential election, emphasizing its inclusion in the budget. Minister Mahinda Amaraweera also attended, reinforcing the commitment to holding the election as planned.
-
-🟩
-
-President Ranil Wickremesinghe has reiterated that the presidential election will be held as planned as the presidential election is allocated in the budget.
-
-Minister Mahinda Amaraweera said that he was speaking at a meeting of the ruling party MPs held yesterday afternoon.
-
-◼️
-
-[Data](articles/23328fac.json)
-
-[Extended Data](ext_articles/23328fac.ext.json)
-
----
-
-### Promise made at the ruling party meeting
-
-*2024-07-23 13:50:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளும்-கட்சி-கூட்டத்தில்-வழங்கப்பட்ட-வாக்குறுதி/175-340888) · `ta`
-
-At a ruling party meeting, President Ranil Wickremesinghe confirmed the scheduled presidential election, emphasizing its inclusion in the budget. Minister Mahinda Amaraweera also attended, reinforcing the commitment to hold the election as planned.
-
-🟩
-
-President Ranil Wickremesinghe has reiterated that the presidential election will be held as planned as only the presidential election has been allocated in the budget.
-
-Minister Mahinda Amaraweera said that he was speaking at a meeting of the ruling party MPs held yesterday afternoon.
-
-◼️
-
-[Data](articles/5e793ab2.json)
-
-[Extended Data](ext_articles/5e793ab2.ext.json)
-
----
-
-### The lawyer paid Rs 5 lakh
-
-*2024-07-23 13:49:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-5-இலட்சத்தை-செலுத்தினார்-சட்டத்தரணி/175-340887) · `ta`
-
-High Court dismissed Anura Lakshiri's petition against the presidential election, citing lack of legal evidence. The court ordered Lakshiri to pay Rs 500,000 for legal expenses, which he complied with.
-
-🟩
-
-The High Court has dismissed the petition of Attorney -at -Law Anura Lakshiri, who filed a fundamental rights violation petition against the presidential election, ordered the payment of Rs 500,000 for legal expenses.
-
-Attorney Aruna Lakshiri had demanded that the presidential election should not be held without a referendum on the 19th Amendment to the Constitution.
-
-On July 15, a panel of judges of the High Court comprising Chief Justice Jayantha Jayasuriya, Justices Arjuna Obeeskera and Priyantha Fernando dismissed the petition on July 15.
-
-The High Court has ordered the petitioner to pay a cost of Rs 500,000 to dismiss the petition claiming that there is no legal evidence to pursue the petition.. Attorney -at -law Aruna Laksiri, the petitioner, paid the court on Tuesday (23).
-
-◼️
-
-[Data](articles/27ce5fe7.json)
-
-[Extended Data](ext_articles/27ce5fe7.ext.json)
-
----
-
-### Govt. to provide interest relief for pawned gold jewelery in banks
-
-*2024-07-23 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100721/govt-to-provide-interest-relief-for-pawned-gold-jewelery-in-banks) · `en`
-
-The Cabinet of Ministers has green lighted a proposal to provide relief to the people who have pawned gold jewelery in banks.
-
-Publishing the Cabinet decisions taken at the yesterday’s (22) Cabinet meeting, the Cabinet Office announced that the severe economic crisis in the country during the recent past has directly and indirectly affected all sectors of the economy, and as a result, the pawning of gold has increased rapidly.
-
-The outstanding amount of mortgage advances, which was around 210 billion rupees in 2019, has shown a growth of 172% to around Rs 571 billion by March 2024. In view of that situation, the need to provide relief to low-income individuals who have obtained mortgage advances from licensed banks has been identified, it added.
-
-...
-
-[Data](articles/46e09558.json)
-
-[Extended Data](ext_articles/46e09558.ext.json)
-
----
-
-### Namal has a candidate that can win
-
-*2024-07-23 13:41:33* · [`adalk`](https://www.ada.lk/breaking_news/දිනන්න-පුළුවන්-අපේක්ෂකයෙක්-දානවා---නාමල්ට-තව-කල්-තියෙනවා/11-410937) · `si`
-
-Mahinda Rajapaksa confirmed an upcoming presidential election, noting the candidate from the CEB hasn't been finalized. He mentioned a party-selected candidate and considered Dhammika Perera, but highlighted Namal Rajapaksa as a potential contender.
-
-🟩
-
-Former President Mahinda Rajapaksa said that the president's election will be held and the candidate presented by the CEB has not yet decided.
-
-He was responding to a program at the party headquarters at the party headquarters of the General Assembly.
-
-He also said that a candidate won by the party will be presented. He also said that Mr. Dhammika Perera is also considered.
-
-However, he said that Namal Rajapaksa had another time.
-
-◼️
-
-[Data](articles/af254a46.json)
-
-[Extended Data](ext_articles/af254a46.ext.json)
-
----
-
-### The Elections Commission started the tasks
-
-*2024-07-23 13:32:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிகளை-ஆரம்பித்தது-தேர்தல்கள்-ஆணைக்குழு/175-340886) · `ta`
-
-The Elections Commission has initiated procurement for electoral materials, including special ink used in ballots. They've issued an auction notice for purchasing pens, pencils, and carbon paper, essential for voter reference during elections.
-
-🟩
-
-The Elections Commission has taken steps to immediately procure the written items, including immortal ink, including the immortal ink.
-
-Accordingly, the Elections Commission said that the auction invitation has been issued today for the purchase of writing products including the immortal ink and pen, pencil and carbon paper that the voters used to refer to their voting during the election.
-
-◼️
-
-[Data](articles/f4992140.json)
-
-[Extended Data](ext_articles/f4992140.ext.json)
-
----
-
-### There is no barrier to hold presidential election - government guarantees
-
-*2024-07-23 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189157) · `ta`
-
-The government assures a timely presidential election without obstacles, dismissing dissolution rumors. Minister Janaka Wakumbura confirms the Election Commission's authority and funding, ensuring the vote will proceed as scheduled.
-
-🟩
-
-The presidential election will take place in a timely manner. The government is not going to put any obstacles in the election. At the same time, there is no need to dissolve parliament, said Minister of State for Home Affairs and Provincial Councils, Janaka Wakumbura.
-
-In response to a question raised by Opposition Member Athuraliye Ratana Thera under the Standing Ordinance of Parliament on Tuesday (23) in Parliament.
-
-In his question, Athuraliye Ratana Thera said that there is suspicion among the people that steps are being taken to regulate the presidential election.
-
-This suspicion has arisen because the President has taken up the 22nd Amendment to the Constitution. He said the government has taken steps to dissolve parliament before the presidential election.
-
-The government is not going to put any obstacles to the presidential election. We will definitely hold the presidential election. The Election Commission has been given the authority on the 17th of this month.
-
-...
-
-[Data](articles/448e4a28.json)
-
-[Extended Data](ext_articles/448e4a28.ext.json)
-
----
-
-### Police shooting a black woman in US
-
-*2024-07-23 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199124) · `si`
-
-A black woman in Illinois was fatally shot by police after calling them about an intruder. The incident was captured on video by another officer's bodycam, showing the tragic event unfold.
-
-🟩
-
-The videos of a black woman shot dead in Illinois, the Black woman shot dead.
-
-The woman has called the police to the police, claiming that a person had entered his home, and she was shot dead by a police officer who was responding to it.
-
-The relevant scenes were recorded by the camera held at the coat of the other police officer who had come home.
-
-◼️
-
-[Data](articles/d145a0ca.json)
-
-[Extended Data](ext_articles/d145a0ca.ext.json)
-
----
-
-### Salary Anomalies are called on salary anomalies
-
-*2024-07-23 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199123) · `si`
-
-Salary anomalies are addressed by a specialist committee. Proposals for salary amendments are submitted via email to sac@preside.lk by August 9th.
-
-🟩
-
-Salage is called to the Specialist Committee appointed to deal with disparity of salary anomalies.
-
-The proposals for amending the salary allowances will be accepted here, said the Presidential Media Unit.
-
-Application Forus The Application Form:
-
-However, the soft copy of the PDF format should be forwarded to sac@preside.lk.
-
-The proposals should be referred to the 9th of August, the media unit added.
-
-◼️
-
-[Data](articles/b3505ad4.json)
-
-[Extended Data](ext_articles/b3505ad4.ext.json)
-
----
-
-### Saturn hides tomorrow
-
-*2024-07-23 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199122) · `si`
-
-Tomorrow night, Saturn will align closely with the Moon, making it invisible from Earth due to its brightness being overshadowed. This rare celestial event will be visible to Sri Lankans, offering them a chance to observe Saturn with the naked eye, a sight last seen in 2037.
-
-🟩
-
-The Sri Lankans will be able to monitor the conviction of the phenomenon tomorrow (24) in midnight.
-
-This phenomenon, which is a rare event, appears to the people of Sri Lanka in 2037.
-
-Saturn, a solar system's giant planet, is coming in midnight tomorrow.
-
-Accordingly, when the Moon is in front of the planet Saturn, it is not visible to the earth and is close to the moon.
-
-Sri Lankans get the opportunity to watch the naked eye, which is a sparse event.
-
-◼️
-
-[Data](articles/91ee4e6f.json)
-
-[Extended Data](ext_articles/91ee4e6f.ext.json)
-
----
-
-### Govt. to apologize for COVID-19 compulsory cremation policy; new legislation to let families choose
-
-*2024-07-23 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/100720/govt-to-apologize-for-covid-19-compulsory-cremation-policy-new-legislation-to-let-families-choose) · `en`
-
-The Cabinet of Ministers has approved the proposal that the government should apologize to the sections of society affected by the compulsory cremation policy enforced in Sri Lanka during the COVID-19 pandemic.
-
-Speaking during the Cabinet Press Conference held this afternoon (23), Cabinet Spokesman Minister Bandula Gunawardena stated that according to the guidelines published by the Ministry of Health on the clinical management of COVID-19, cremation was recommended as the method of disposal of the bodies of those who died of the virus.
-
-Accordingly, 276 Muslim victims of COVID-19 have been cremated, and later in February 2021, burials have been allowed for such persons with strict restrictions, he added.
-
-...
-
-[Data](articles/7f7f0963.json)
-
-[Extended Data](ext_articles/7f7f0963.ext.json)
-
----
-
-### Customs officer hospitalized on thug police
-
-*2024-07-23 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199121) · `si`
-
-A customs officer in Kalutara was assaulted by four civilians, leading to his hospitalization. The incident occurred when the officer, Weeraverti Premaratne, was unable to produce his National Identity Card upon request. He was taken to the Kalutara South police station, interrogated, and later released on bail. The police have not commented on the legality of the arrest and assault.
-
-🟩
-
-Four officials of the Kalutara South South Police, a customs officer in Kalutara, was arrested recently.
-
-The customs officer who was assaulted is currently receiving treatment at the Kalutara Teaching Hospital.
-
-Weeraverti Premaratne, an Administrative Officer of the Customs Department, had gone to observe a conservation work on the Kalutara Beach on Monday.
-
-After that monitor, he asked Kalutara railway station to their home, and four of four civilian dressed people asked his identity.
-
-But the Customs officer's National Identity Card had failed to present it a few days ago.
-
-At that time, the Customs officer had assaulted the customs officer at the Kalutara Police.
-
-The Customs officer asked them to verify the police identity, but none of them were submitted to the customs officer.
-
-They were then handcuffed to the Kalutara South in a three-wheeler and brought to the Kalutara South police station with a three-wheeler.
-
-...
-
-[Data](articles/3fef4c9e.json)
-
-[Extended Data](ext_articles/3fef4c9e.ext.json)
-
----
-
-### Committee appointed to find salary anomalies in the public service begins proposals
-
-*2024-07-23 13:09:27* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-වැටුප්-විෂමතා-සෙවීමට-පත්-කළ-කමිටුව-යෝජනා-කැඳවීම-අරඹයි/11-410936) · `si`
-
-A committee tasked with identifying salary discrepancies in the public sector has started accepting proposals. Interested parties can download the application form from www.presidentsoffice.gov.lk and submit it via email or WhatsApp within two weeks. Proposals must adhere to the guidelines available on the President's official website. Soft copies are acceptable; however, hard copies can also be sent to the Presidential Secretariat if necessary.
-
-🟩
-
-Salaries of Salaries and Allowance to the Specialist Committee appointed to deal with anomalies in the public service begins.
-
-Relevant application form can be downloaded by www.presidentsoffice.gov.lk and soft copy of the MS Word 12 - iskoola Pota fonts, the soft mails of the MS WordThe address should be referred to the same day or day.
-
-If the proposals are being brought to any posts other than the post-proposal, the facts of the President's official website should be completed in accordance with the number of Annex 01, www.presidentsoffice.gov.lk.
-
-Providing soft copies of the relevant information is sufficient and only if it is necessary to give a rigid copy, "Special Experts, the Presidential Secretariat, the Presidential Secretariat, Galle Face, Colombo 01" address 2024-08Can be brought to the date or hand by registered post or by previous date.
-
-...
-
-[Data](articles/c3a07a82.json)
-
-[Extended Data](ext_articles/c3a07a82.ext.json)
-
----
-
-### Parents demonstrated in front of school denouncing teacher shortage
-
-*2024-07-23 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189160) · `ta`
-
-Parents protested outside Vavuniya Ulukkulam Sri Sumana Vidyalaya due to a teacher shortage, demanding immediate hiring to ensure student education isn't affected. The demonstration lasted over an hour with many participants.
-
-🟩
-
-Parents protested in front of the school, saying that there was a shortage of teachers at the Vavuniya Ulukkulam Sri Sumana Vidyalaya and that there were insufficient learning activities for the students.
-
-During the demonstration on Tuesday morning (23), the banners were staying demanding the appointment of teachers and the education of the students to be unaffected.
-
-It is noteworthy that many parents participated in the demonstration for about one and a half hours.
-
-◼️
-
-[Data](articles/9d5bb6a0.json)
-
-[Extended Data](ext_articles/9d5bb6a0.ext.json)
-
----
-
-### JVP for short political purpose. The unions are unloaded to the street - Kanchana
-
-*2024-07-23 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189152) · `ta`
-
-Kanjana Wijesekera, Minister of Electricity, addressed Parliament about the JVP's involvement in labor disputes over the proposed privatization of the Electricity Board. Despite protests and strikes by unions in 2022, the board remains state-owned after four years. The JVP's lawyer, Sunil, allegedly received a service fee related to this issue.
-
-🟩
-
-The Minister of Electricity and Power of Electricity and Power, Kanjana Wijesekera said that the JVP's lawyer Sunil has received a service fee of Rs.
-
-During the session in Parliament on Tuesday (23), the ruling party member Premnath C. Thelawatte responded in response to the questions posed during the Questionnaire Questionnaire.
-
-In 2022, the power plant was amended in accordance with the government's policy decision to revise the electricity.
-
-Last January, the Electricity Board's trade unions engaged in workforce protests and trade union activities, promoting political objectives, saying that all the structures of the electricity sector would be privatized if the new Electricity Board Act was passed.
-
-As the power service has been declared as an essential service, we mentioned that the power supply and the public service should not affect the union.
-
-...
-
-[Data](articles/7bb3dfc3.json)
-
-[Extended Data](ext_articles/7bb3dfc3.ext.json)
 
 ---

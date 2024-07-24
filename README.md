@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 09:35:33**
+As of **2024-07-24 09:54:54**
 
 ## Newspaper Stats
 
-*Scraped **36,917** Articles*
+*Scraped **36,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,74 +15,120 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,203
 dailyftlk | 2,358
-adalk | 3,343
+adalk | 3,344
 adaderanalk | 4,275
 tamilmirrorlk | 4,527
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,193
+adaderanasinhalalk | 6,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,910 (100.0%) of 36,917 articles have been extended.
+36,916 (100.0%) of 36,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### 1,700 ரூபாய் சம்பள அதிகரிப்பு தொடர்பான வர்த்தமானி ரத்து
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-07-24 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199148) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/06fb54e2.json)
+
+---
+
+### ක්ලබ් වසන්ත ඝාතන සිද්ධියේ  අපරාධයට අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට
+
+*2024-07-24 09:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලබ්-වසන්ත-ඝාතන-සිද්ධියේ--අපරාධයට-අනුබල-දුන්-සැකකරුවන්-දෙදෙනෙකු-අත්අඩංගුවට/11-410956) · `si`
+
+පසුගිය ජූලි 8 වනදා අතුරුගිරිය පොලිස් වසමේ ටැටූ මධ්‍යස්ථානයක් තුළ දී ටී56 ගිනිඅවිවලින් වෙඩිතබා ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකු ඝාතනය කර  තවත් සිව්දෙනෙකු බරපතළ තුවාල සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකිරීමේ දී ඊයේ (23) සවස අතුරුගිරිය හා බත්තරමුල්ල ප්‍රදේශවලදී එම අපරාධයට අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන අතුරුගිරිය පොලීසිය වෙත ඉදිරිපත් කර තිබේ.
+
+සැකකරුවෙක් වෙඩික්කරුවන් හා ඔවුන් පැමිණි කාර් රථයේ රියදුරු කොරතොට ප්‍රදේශයේ සිට වැලිහිඳ ප්‍රදේශය දක්වා වෑන් රථයකින් රැගෙන ගොස් බස් රථයකට නංවා එම වෑන් රථය බුලත්සිංහල ප්‍රදේශයට රැගෙන ගොස් සඟවන ලද වෑන් රථ රියදුරු වන අතර, අනෙක් සැකකරු ඉන් අනතුරුව වෙඩික්කරුවන් සහ කාර් රථයේ රියදුරු වැලිහිඳ ප්‍රදේශයේ සිට දක්ෂිණ අධිවේගය හරහා දික්වැල්ල ප්‍රදේශය දක්වා බස් රථයකින් රැගෙන ගොස් එම බස් රථය සෙල්ලකතරගම ප්‍රදේශයට රැගෙන ගොස් අතහැර දමා සැඟව සිටි බස් රථයේ රියැදුරු මෙලෙස අත්අඩංගුවට පත්ව ඇත.
+
+...
+
+[Data](articles/7d701870.json)
+
+---
+
+### Gazette on the salary increase of Rs 1,700
 
 *2024-07-24 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பள-அதிகரிப்பு-தொடர்பான-வர்த்தமானி-ரத்து/175-340931) · `ta`
 
-தோட்டத் தொழிலாளர்களுக்கான 1,700  ரூபாய் சம்பள அதிகரிப்புக்கான வர்த்தமானி அறிவித்தலை தொழில் அமைச்சு இரத்துச் செய்து வர்த்தமானி அறிவித்தல் ஒன்று வெளியிடப்பட்டுள்ளது.
+The Ministry of Labor has canceled a previous notification about a Rs 1,700 salary increase for plantation workers. Instead, it directs payment through the Payment Board.
 
-இதன்படி, பெருந்தோட்டத் தொழிலாளர்களின் நாளாந்த சம்பளமான 1700 ரூபாவை சம்பளச் சபையின் ஊடாக வழங்குவதற்கு பணிப்புரை வழங்கப்பட்டுள்ளதாக தொழில் அமைச்சு அறிவித்துள்ளது. R
+🟩
+
+A Gazette Notification has been issued by the Ministry of Labor for cancellation of the Gazette Notification for a salary increase of Rs 1,700 for plantation workers.
+
+Accordingly, the Ministry of Labor has issued a directive to pay the daily salary of plantation workers through the Payment Board.. Remble
 
 ◼️
 
 [Data](articles/2d395bd7.json)
 
+[Extended Data](ext_articles/2d395bd7.ext.json)
+
 ---
 
-### ஆள்மாறாட்டம் - யாழில் சட்டத்தரணி கைது
+### Impersonation - lawyer arrested in Jaffna
 
 *2024-07-24 09:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆள்மாறாட்டம்-யாழில்-சட்டத்தரணி-கைது/71-340930) · `ta`
 
-ஆள்மாறாட்டம் தொடர்பான வழக்கில் யாழ்ப்பாணம் - உடுவில் பகுதியைச் சேர்ந்த சட்டத்தரணியொருவர் நேற்று கைது செய்யப்பட்டார்.
+In Jaffna, a lawyer was arrested for impersonation, allegedly duping an Italian woman into believing her divorce wasn't finalized. The lawyer, released on bail, faces investigation over fraudulent activities involving three office computers.
 
-யாழ்ப்பாணம் பிராந்திய விசேட குற்ற விசாரணைப் பிரிவு பொலிஸாரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+🟩
 
-கைதான சட்டத்தரணி சாவகச்சேரி நீதவான் நீதிமன்றத்தில் முற்படுத்தப்பட்டநிலையில் 10 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணையில் விடுவிக்கப்பட்டார்.
+A lawyer from Jaffna - Uduvil area was arrested yesterday in connection with the impersonation.
 
-அத்துடன் சட்டத்தரணியின் அலுவலகத்தில் இருந்த மூன்று கணிணிகளையும் பகுப்பாய்வு விசாரணைக்குட்படுத்த நீதிமன்றம் உத்தரவிட்டது.
+The arrest was carried out by the Jaffna Regional Special Crime Investigation Division.
 
-இத்தாலியைச் சேர்ந்த பெண்ணொருவர், யாழ்ப்பாணத்துக்குத் திரும்பி விவாகரத்துக்கு விண்ணப்பிக்கச் சென்றபோது, அவர் ஏற்கனவே விவாகரத்துப் பெற்றுள்ளார் என்று தரவுகள் வெளிக்காட்டியுள்ளன.
+Attorney -at -Law Chavakachcheri Magistrate's Court was released on two physical bail worth Rs 10 lakh.
 
-அந்தப் பெண் அதுவரை விவாகரத்துக்கு விண்ணப்பிக்காத நிலையில், இது தொடர்பில் பொலிஸாரிடம் முறையிட்டுள்ளார்.
+The court also ordered the analysis of all three computers in the lawyer's office.
 
-பொலிஸ் விசாரணைகளில், உடுவில் பகுதியில் உள்ள சட்டத்தரணியொருவர் கனிஷ்ட சட்டத்தரணிகள் மூலமாக ஆள்மாறாட்டம் செய்து , மேற்படி தம்பதியர்கள் விவாகரத்துப் பெற்றுக்கொள்வதாக நீதிமன்ற நடவடிக்கைகள் முன்னெடுக்கப்பட்டமை தெரியவந்தது.
+When a woman from Italy returned to Jaffna and applied for a divorce, data revealed that she was already divorced.
 
-...
+The woman has not yet applied for a divorce, and has appealed to the police.
+
+Police investigations revealed that a lawyer in Uduvil area was impersonating the junior lawyers and that the couple were divorced.
+
+Subsequently, the police have carried out a raid by the police a few weeks ago at the lawyer's office.. Remble
+
+◼️
 
 [Data](articles/147df7ef.json)
 
+[Extended Data](ext_articles/147df7ef.ext.json)
+
 ---
 
-### සෞඛ්‍ය අමාත්‍යාංශයේ දුෂණ විමර්ශන නිලධාරීන් 27කගේ තැන් මාරුවෙයි
+### 27 the Policy Investigations Officers of the Ministry of Health
 
 *2024-07-24 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199147) · `si`
 
-සෞඛ්‍ය අමාත්‍යාංශයේ දූෂණ විමර්ශන අංශයේ නිලධාරීන් 27 දෙනෙකුට ස්ථාන මාරුවීම් ලබාදීමට පියවර ගෙන ඇති බව සෞඛ්‍ය වෘත්තීයවේදීන්ගේ විද්වත් සංගමය පවසයි.
+The Health Professional Association reports that 27 Ministry of Health officers have been transferred, sparking suspicion of information concealment. Ravi Kudmith, the company's chairman, expresses concern over potential corruption and calls for clarity in the law. He suggests either the Health Secretary deemed these officers at fault and should punish them or there's an issue with the Investigation Department's ability to disclose information, indicating a possible cover-up within the ministry.
 
-එහි සභාපති රවී කුමුදේශ් මහතා පවසන්නේ, මෙම තත්ත්වය තොරතුරු සැඟවීමේ උත්සහායක් බවට සැකයක් පවතින බවය.
+🟩
 
-"සෞඛ්‍ය සේවයේ විතරක් නෙමෙයි රාජ්‍ය සේවය තුළත් දුෂණ වංචා රැසක් තියෙනවා හෙළිදරව් කිරීමට නිලධාරීන්ට නොහැකි වෙලා තියෙනවා. නීතිය පැහැදිලි වෙන්න ඕනේ. අද අපි මේක ගැන කතා කරනකොට සෞඛ්‍ය අමාත්‍යාංශයේ විමර්ශන අංශයේ 30 දෙනාගේ 27ක් මාරු කරලා. එක්කෝ එයාලව මාරු කරලා තියෙන්නේ එයාලගෙන් වැරදි වෙච්ච බව සෞඛ්‍ය ලේකම්වරයා පිළිගත්ත නිසා වෙන්න ඕනේ. එහෙම නම් ඒ අයට දඬුවමක් තියෙන්න ඕනේ. එහෙම නැත්නම් පහුගිය තොරතුරු දන්න අයව මාරු කරලා හොයා ගන්න බැරි තත්ත්වයක් උදා කරනවා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට. මේ අමාත්‍යාංශයේ 27ක් මාරු කිරීම තුළ තොරතුරු සැඟවීමේ අවශ්‍යතාවයක් තිබිය යුතුයි."
+The Health Professional Association (Health Professional Association) says that steps have been made to provide transfers to 27 officers of the Ministry of Health.
+
+The Chairman of the company Ravi Kudmith says this is suspicious that this situation is an attempt to hide information.
+
+"There are also many public services and corruption in the public service and many corruption fraud. The law should be clear. As we talk about this, 27 people have been transferred by the Secretary to the Ministry of Health. Either the Health Secretary believed that they were wrong from them. If so, they must have punished. Or to the Department of Investigations Department provides an unable to change the last information. There should be a need to hide information within 27 this ministry. "
 
 ◼️
 
 [Data](articles/a03155ed.json)
+
+[Extended Data](ext_articles/a03155ed.ext.json)
 
 ---
 
@@ -103,6 +149,8 @@ Naval and fishing communities are also requested to be attentive to future forec
 ◼️
 
 [Data](articles/7f370f72.json)
+
+[Extended Data](ext_articles/7f370f72.ext.json)
 
 ---
 
@@ -404,6 +452,8 @@ Two years ago, Sri Lanka was in a complete state of anarchy. The nation was unde
 
 [Data](articles/c0f5964c.json)
 
+[Extended Data](ext_articles/c0f5964c.ext.json)
+
 ---
 
 ### Critical points for COPF review of proposed enactment of the Economic Transformation Bill
@@ -493,6 +543,8 @@ Soul Sounds Academy is committed to nurturing young talent, providing numerous o
 ◼️
 
 [Data](articles/044e4994.json)
+
+[Extended Data](ext_articles/044e4994.ext.json)
 
 ---
 
@@ -2221,53 +2273,5 @@ However, a spokesperson from the Election Commission stated that the Gazette not
 [Data](articles/3fd88609.json)
 
 [Extended Data](ext_articles/3fd88609.ext.json)
-
----
-
-### The location of Mendis is confirmed - Chamin Wickramasinghe
-
-*2024-07-23 17:45:19* · [`adalk`](https://www.ada.lk/sports/මෙන්ඩිස්ගේ-ස්ථානය-තහවුරුයි---චමිඳු-වික්‍රමසිංහට-අවස්ථාව/9-410940) · `si`
-
-The location of Mendis is confirmed, and several players including newcomers like Chamindu Wickremasinghe and senior players Dinesh Chandimal, Kusal Janith Perera have been added to the Lanka Premier League Tournament. Charith has been appointed as the new Sri Lankan team captain, while Kusal Mendis will participate separately. The squad includes Charith Asalanka (Captain), Dinesh Chandimal, Kusal Mendis, Kusal Mendis, Kusal Mendis, Danushka Gunathilaka, Dasun Shanaka, Dushmantha Chameera, and Binura Fernando.
-
-🟩
-
-The Sri Lanka Cricket Selection Committee has taken steps to add several players in the Lanka Premier Leag Tournament.
-
-Accordingly, newly players Chamindu Wickremasinghe, Anthemist Fernando Senior Players Dinesh Chandimal and Kusal Janith Perera also designate the tournament.
-
-Charith has been named as the new leader of the Sri Lankan team. Kusal Mendis too is separate.
-
-Sri Lanka squad - Charith Solutions (Leader), Dineskita Mendandha, Kusal Mendandha, Kusal Mendandha, Kusal Mendanda, Donish Weleluwala'sDushhamah Chameera, Binura Fernando
-
-◼️
-
-[Data](articles/29e298b4.json)
-
-[Extended Data](ext_articles/29e298b4.ext.json)
-
----
-
-### Electoral Commission meeting Thursday
-
-*2024-07-23 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199131) · `si`
-
-The Elections Commission will hold a crucial meeting on Thursday morning to discuss the political sector, including the decision on the election date. A spokesperson mentioned that the gazette, likely containing key decisions, would be issued over the weekend.
-
-🟩
-
-The Elections Commission meeting focused on the political sector will be held on Thursday.
-
-Sources from the Elections Commission sources said that the meeting will be held on Thursday morning.
-
-The discussion will be held primarily on the decision of the presence and determining its date and the election date will be issued.
-
-However, a spokesman for the Election Commission stated that the gazette is issued before the first time this weekend.
-
-◼️
-
-[Data](articles/b3821e6a.json)
-
-[Extended Data](ext_articles/b3821e6a.ext.json)
 
 ---

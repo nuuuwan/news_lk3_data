@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 19:35:56**
+As of **2024-07-24 19:54:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,033 (100.0%) of 37,034 articles have been extended.
+37,034 (100.0%) of 37,034 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -154,21 +154,27 @@ A bond maturing on 15.09.2029 closed at 12.02/12 percent, down from 12.05/15 per
 
 ---
 
-### ජනපති ලේකම්ගේ චක්‍රලේඛයක් ක්‍රියාත්මක කිරීම ශ්‍රේෂ්ඨාධිකරණය අත්හිටුවයි
+### Supreme Court suspended to implement a circular of the Presidential Secretary
 
 *2024-07-24 17:45:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලේකම්ගේ-චක්‍රලේඛයක්-ක්‍රියාත්මක-කිරීම-ශ්‍රේෂ්ඨාධිකරණය-අත්හිටුවයි/11-410969) · `si`
 
-ග්‍රාමීය සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා ”ප්‍රජා උපේදේශන කමිටු” පිහිටුවීමට සඳහා ජනාධිපති ලේකම්වරයා අප්‍රේල් මස 29 වැනිදා නිකුත් කළ  චක්‍ර ලේඛණය ක්‍රියාත්මක කිරීම අත්හිටුවමින් ශ්‍රේෂ්ඨාධිකරණය අද (24) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+The Supreme Court temporarily halted the implementation of a presidential directive aimed at rural development projects, following a ban issued by the President's Secretary. This action was taken against the backdrop of allegations that the directive could be politically motivated. The court's decision came after considering a petition from the Fatherral Organization and its executive director, Rohana Hettiarachchi, who sought to challenge the directive.
 
-දේශපාලන වාසි ලබා ගැනීමේ අරමුණින් මෙම ව්‍යාපෘති සැළසුම් කර අදාළ කමිටු පිහිටුවන බවට පැමිණිලි කරමින් ෆැපරල් සංවිධානය සහ එහි විධායක අධ්‍යක්ෂ රෝහන හෙට්ටිආරච්චි මහතා ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය අදාළ අතුරු තහනම් නියෝගය නිකුත් කළේය.
+🟩
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන විජිත් මලල්ගොඩ, යසන්ත කෝදාගොඩ  සහ කුමුදුනී  වික්‍රමසිංහ යන  මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක්  හමුවේ පෙත්සම සලකා බැලීණි.
+The Secretary to the President issued a banning injunction today to settle the 'Community Interfair Committees' issued on April 29 to the implementation of rural development projects.
 
-ෆැපරල් සංවිධානය සහ එහි විධායක අධ්‍යක්ෂ රෝහන හෙට්ටිආරච්චි මහතා ගොනු කළ මෙම මූලික අයිතිවාසිකම් පෙත්සමේ වගඋත්තරකරුවන්  වශයෙන්  අගමැති  දිනේෂ් ගුණවර්ධන මහතා ඇතුළු කැබිනට්  මණ්ඩලය සහ නීතිපතිවරයා නම් කර ඇත.
+The Supreme Court issued the interim injunction order which had been planned to be heard by the Fatherral Organization and the Executive Director Rohana Hettiarachchi, who has planned to take political advantage and complaining that the relevant committees will be heard.
+
+The petition was considered by Supreme Court Judge Vijith Malalgoda, Yasantha Kodagoda and Kumuduni Wickremasinghe.
+
+Prime Minister Dinesh Gunawardena and the Attorney General have been named as respondents to the Fatherral Organization and its Executive Director Rohana Hettiarachchi.
 
 ◼️
 
 [Data](articles/ddff0312.json)
+
+[Extended Data](ext_articles/ddff0312.ext.json)
 
 ---
 

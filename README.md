@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 07:02:10**
+As of **2024-07-24 07:27:54**
 
 ## Newspaper Stats
 
-*Scraped **36,892** Articles*
+*Scraped **36,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,269
 tamilmirrorlk | 4,522
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,185
+adaderanasinhalalk | 6,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,862 (99.9%) of 36,892 articles have been extended.
+36,869 (99.9%) of 36,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### ඉදිරි පැය 24 සැලකිලිමත් වන්න
+
+*2024-07-24 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199139) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (24) අලුයම 3ට නිකුත් කර ඇති අදාළ නිවේදනය ඉදිරි පැය 24 සඳහා බලපැවැත්වේ.
+
+සක්‍රීය නිරිතදිග මෝසම් කාලගුණය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශයේ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ ඉතා තද සුළං පැවතිය හැකි අතර මුහුද ඉතා රළු වේ.
+
+ඉහත සිතියමේ රතු වර්ණයෙන් දැක්වෙන මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසට ධීවරයින්ට හා නාවික ප්‍රජාවට දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/8ed94363.json)
+
+---
 
 ### Ranil Wickremesinghe: the pragmatic leadership during challenging times
 
@@ -82,6 +100,8 @@ Minister Alles had promised a few days before, at the Uva Provincial Community P
 
 [Data](articles/d20c4fab.json)
 
+[Extended Data](ext_articles/d20c4fab.ext.json)
+
 ---
 
 ### Sri Lanka caught in a constitutional quagmire
@@ -100,6 +120,8 @@ Leaving the argumentation part to the more qualified legal profession I intend t
 
 [Data](articles/03a23b26.json)
 
+[Extended Data](ext_articles/03a23b26.ext.json)
+
 ---
 
 ### US Vice President Kamala Harris not attending Israeli PM’s address to US Congress is ‘welcome news’
@@ -113,6 +135,8 @@ Washington Exa-miner’s report by Brady Knox that US Vice President and Democra
 ...
 
 [Data](articles/41bfa4fa.json)
+
+[Extended Data](ext_articles/41bfa4fa.ext.json)
 
 ---
 
@@ -129,6 +153,8 @@ Soul Sounds Academy is committed to nurturing young talent, providing numerous o
 ◼️
 
 [Data](articles/4ec9464a.json)
+
+[Extended Data](ext_articles/4ec9464a.ext.json)
 
 ---
 
@@ -152,6 +178,8 @@ Interested parties can access the application form from the official website of 
 
 [Data](articles/ae4cdd48.json)
 
+[Extended Data](ext_articles/ae4cdd48.ext.json)
+
 ---
 
 ### Bird Island in Beira Lake to be leased to Sri Jinarathana Vocational Technical Training Centre to boost tourism
@@ -172,6 +200,8 @@ Gunawardena said the lease terms are based on the value determined by the Chief 
 
 [Data](articles/6106ca2f.json)
 
+[Extended Data](ext_articles/6106ca2f.ext.json)
+
 ---
 
 ### Cabinet nod to adopt comprehensive National Anti-Corruption Agenda
@@ -187,6 +217,8 @@ The foundation of the National Agenda for Anti-Corruption was established throug
 ...
 
 [Data](articles/d379263c.json)
+
+[Extended Data](ext_articles/d379263c.ext.json)
 
 ---
 
@@ -2209,29 +2241,5 @@ The President has instructed the committee to submit its recommendations report 
 [Data](articles/26a101b6.json)
 
 [Extended Data](ext_articles/26a101b6.ext.json)
-
----
-
-### Investigating a petition on transfer of Municipal Council Secretary Trincomalee
-
-*2024-07-23 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189179) · `ta`
-
-A petition against the transfer of Trincomalee Municipal Secretary was heard in court, with allegations of illegality and revenge. The case will be reviewed further on August 8th.
-
-🟩
-
-The case filed by the Trincomalee Municipal Secretary in the Trincomalee Municipal Council was taken up for hearing on Tuesday (23) in the presence of High Court Judge NMM Abdullah.
-
-Senior Attorney -at -Law Anim Lepp, who was registered on behalf of the white Rajasekhar. He presented his submissions on behalf of the petitioner demanding the cancellation of the transfer, saying that the transfer was an illegal and revenge and the injustice inflicted on an honest public servant.
-
-Taking note of the two sides, the judge summoned the case on August 8 and summoned the court to appear in court on the date of the relevant parties.
-
-The letter was issued on the day of 24.06.2024 that the Kuchchaveli Pradeshiya Sabha was transferred on the instructions of the Governor of the Eastern Province, who was the Secretary to the Eastern Provincial Council.
-
-◼️
-
-[Data](articles/f11c9928.json)
-
-[Extended Data](ext_articles/f11c9928.ext.json)
 
 ---

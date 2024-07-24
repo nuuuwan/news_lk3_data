@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 02:05:26**
+As of **2024-07-25 02:20:28**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,063 (100.0%) of 37,064 articles have been extended.
+37,064 (100.0%) of 37,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ’முஸ்லிம்களுக்கு இழப்பீடு வழங்கவும்’
+### Provide compensation to Muslims
 
 *2024-07-25 00:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களுக்கு-இழப்பீடு-வழங்கவும்/175-340981) · `ta`
 
-கொரோனாவால் உயிரிழந்த முஸ்லிம்களின் ஜனாஸாக்கள்  தகனம் செய்த  விடயத்தில் அரசு மன்னிப்புக் கேட்டு பிரச்சினையில் இருந்து தப்பியோ முயற்சிக்கக் கூடாது.ஜனாஸாக்கள்  தகனம் செய்த  விடயத்தில் பாதிக்கப்பட்ட முஸ்லிம் மக்களுக்கு அரசு இழப்பீடு வழங்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச வலியுறுத்தினார்.
+Sajith Premadasa calls for government compensation to Muslims affected by forced cremations, highlighting violations of their religious and cultural rights under Gotabhaya Rajapaksa's cabinet. He criticizes the lack of consideration for advice on the matter and urges transparency from the government regarding its decisions.
 
-பாராளுமன்றத்தில் புதன்கிழமை  (24) விசேட கூற்றை முன்வைத்தே இவ்வாறு வலியுறுத்திய அவர் மேலும்  பேசுகையில்,
+🟩
 
-கொரோனா தொற்று  பறவையை  காலப்பகுதியில் இலங்கையில் முன்னெடுக்கப்பட்ட கட்டாய தகன கொள்கை என்ற தீர்மானத்திற்கு முன்னாள் ஜனாதிபதி கோட்டாபய  ராஜபக்சவின் அமைச்சரவையில் அங்கம் வகிக்கும் அமைச்சர்கள் ஆதரவளித்தனர். இதன் மூலம் முஸ்லிம் மக்களின் சமய, கலாசார உரிமைகள் முற்றாக மீறப்பட்டன. நாட்டில் இனவாதமும் மதவாதமும் முன்னெடுக்கப்பட்டன .
+Opposition Leader Sajith Premadasa has urged the government to pay compensation to the affected Muslim people in the cremation of the Janasas.
+
+He further stressed the special claim in Parliament on Wednesday (24).
+
+Ministers in the cabinet of former President Gotabhaya Rajapakse supported the decision of compulsory burial in Sri Lanka during the period. By this, the religious and cultural rights of the Muslim people were completely violated. Racism and religiousism were carried out in the country.
+
+Gotabhaya Rajapaksa's cabinet made a wrong decision on the issue of burglary targeting Muslims. This resolution was taken based on the report of the person?Who advised on this?What is the reason why the political leadership did not consider this advice?The government should present the reasons for such matters.
 
 ...
 
 [Data](articles/58ebda35.json)
+
+[Extended Data](ext_articles/58ebda35.ext.json)
 
 ---
 

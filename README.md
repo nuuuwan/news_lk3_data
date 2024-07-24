@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 13:20:21**
+As of **2024-07-24 13:36:03**
 
 ## Newspaper Stats
 
-*Scraped **36,969** Articles*
+*Scraped **36,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,207
 dailyftlk | 2,358
 adalk | 3,351
 adaderanalk | 4,282
-tamilmirrorlk | 4,541
+tamilmirrorlk | 4,544
 dailymirrorlk | 4,733
 virakesarilk | 5,795
-adaderanasinhalalk | 6,201
+adaderanasinhalalk | 6,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,969 (100.0%) of 36,969 articles have been extended.
+36,969 (100.0%) of 36,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### අමෙරිකානු ඔත්තු සේවා ප්‍රධානියා ඉල්ලා අස්වෙයි
+
+*2024-07-24 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199157) · `si`
+
+අමෙරිකානු ඔත්තු සේවා ප්‍රධානී කිම්බලී චීටල් තම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+◼️
+
+[Data](articles/2bf20ab3.json)
+
+---
+
+### දුෂ්මන්ත චමීර ට ඉන්දීය තරගාවලිය අහිමිවෙයි
+
+*2024-07-24 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199156) · `si`
+
+ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක දුෂ්මන්ත චමීර ට ඉන්දියාව සමග පැවැත්වෙන තරගාවලිය අහිමිවී තිබේ.
+
+එක්දින තරග 3කට සහ 20යි විස්ස තරග 3කට සහභාගී වීම සඳහා ඉන්දීය කණ්ඩායම මේ වනවිට ශ්‍රී ලංකාවට පැමිණ සිටියි.
+
+◼️
+
+[Data](articles/12267613.json)
+
+---
+
+### முல்லைத்தீவில் துப்பாக்கிச் சூடு
+
+*2024-07-24 12:54:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-துப்பாக்கிச்-சூடு/72-340950) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தில் அறுவடை செய்த நெல்லினை வீதியில் காயப்போட்டு காவல் காத்து உறங்கிக்கொண்டிருந்த விவசாயியும் கமக்கார அமைப்பின் செயலாளருமான குடும்பஸ்தர் ஒருவர் மீது, புதன்கிழமை (24)  அதிகாலை துப்பாக்கிசூடு நடத்தப்பட்டுள்ளது.
+
+இதில் காயமடைந்த கமக்கார அமைப்பின் செயலாளர் மேலதிக சிசிச்சைக்காக கிளிநொச்சி மாவட்ட மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்
+
+தனது நெல்லினை அறுவடை செய்து வீதியில் காயவைத்துவிட்டு இரவு காவல் காத்து வந்துள்ள நிலையில் வீதியோரமாக உறங்கிக்கொண்டிருந்துள்ளார்
+
+புதன்கிழமை (24) அதிகாலை 3.00 மணியளவில் இனம் தெரியாத நபர்களால் இவர் மீது துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+கல்விளான்குளம் பகுதியினை சேர்ந்த கமக்கார அமைப்பின் செயலாளரான 42 அகவையுடைய செல்லையா கிருஸ்ணராஜா என்பவர் படுகாயமடைந்து மல்லாவி ஆதாரமருத்துவமனையில் அனுமதிக்கப்பட்ட நிலையில் மேலதிக சிகிச்சைக்காக கிளிநொச்சி மாவட்ட மருத்துவுமனைக்கு மாற்றப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/e5729f89.json)
+
+---
 
 ### Aircraft collapses in Nepal
 
@@ -81,6 +127,26 @@ But it has been plagued by poor safety due to insufficient training and maintena
 [Data](articles/e93f9cf8.json)
 
 [Extended Data](ext_articles/e93f9cf8.ext.json)
+
+---
+
+### சம்பந்தம் பேசிய மாணவியை வன்புணர்ந்த காதலன்
+
+*2024-07-24 12:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பந்தம்-பேசிய-மாணவியை-வன்புணர்ந்த-காதலன்/76-340949) · `ta`
+
+15 வயதுடைய மாணவியை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில் அவரது காதலனை, பொலிஸார் கைது செய்த சம்பவம் செவ்வாய்க்கிழமை (23) புத்தள பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+11 ஆம் வகுப்பில் கல்வி கற்கும் குறித்த மாணவியின் தாய் புத்தள , கட்டுகஹகல்கே பகுதியைச் சேர்ந்த 23 வயதுடைய இளைஞர் ஒருவரின் வீட்டுக்குச் சென்று தனது மகளை அவருக்குத் திருமணம் செய்து வைக்க முன்வந்துள்ளார்.
+
+அப்போது, ​​இளைஞரின் பெற்றோரும் அதற்கு சம்மதித்து , மாணவியை அவரது படிப்பு முடித்து உரிய வயது வரும் வரை காத்திருக்குமாறு கூறியுள்ளனர் .
+
+இந்நிலையில் குறித்த இளைஞனுக்கும் , மாணவிக்கும் இடையே காதல் ஏற்பட்டுள்ளதுடன் இருவரும் இவர்களுடைய வீடுகளுக்கு செல்வது வழக்கமாகக் கொண்டுள்ளனர் .
+
+கடந்த ஏப்ரல் 10ம் திகதி குறித்த மாணவி வழக்கம் போல் அந்த இளைஞனின் வீட்டிற்கு சென்றுள்ளார். அதன்போது இளைஞன் மாணவியை அறைக்கு அழைத்துச் சென்று பாலியல் துஷ்பிரயோகம் செய்துள்ளதுடன் அதற்கு பின்னரும் இருவரும் பல தடவைகள் இவ்வாறு நடந்துக்கொண்டுள்ளனர் .
+
+...
+
+[Data](articles/a4b1ffef.json)
 
 ---
 
@@ -179,6 +245,24 @@ In this case, the accident occurred when the plane crashed into the runway.
 [Data](articles/6be50943.json)
 
 [Extended Data](ext_articles/6be50943.ext.json)
+
+---
+
+### விமானம்  விழுந்து நொறுக்கியதில் 18 பேர் பலி
+
+*2024-07-24 12:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமானம்-விழுந்து-நொறுக்கியதில்-18-பேர்-பலி/50-340947) · `ta`
+
+நேபாளத்தின் காத்மாண்டு விமான நிலையத்தில் இருந்து 19 பேருடன் புறப்பட்ட விமானம் சில விநாடிகளிலேயே ஓடுபாதையில் விழுந்து நொறுங்கியது.
+
+விமானம் தீப்பற்றி எரிய அதிலிருந்த பயணிகள் 18 பேரும் உயிரிழந்திருப்பதாகத் தெரிகிறது. விபத்தில் சிக்கிய விமானத்தின் விமானி சிகிச்சைக்காக மருத்துவமனைக்கு அழைத்து செல்லப்பட்டுள்ளதாகத் தெரிகிறது.
+
+விபத்துக்குள்ளான விமானம் சௌர்யா ஏர்லைன்ஸ் நிறுவனத்துக்கு சொந்தமானது. காத்மாண்டுவில் இருந்து போக்காராவுக்கு இந்த விமானம்  புதன்கிழமை(24) காலை புறப்பட்ட போது இந்த விபத்து நிகழ்ந்துள்ளது.
+
+விபத்து ஏற்பட்ட உடன் விமானத்தில் தீ பிடித்து எரிந்துள்ளது. அதனை விமான நிலையத்தில் இருந்த தீயணைப்புப் படை வீரர்கள் அணைத்துள்ளனர். தொடர்ந்து காவலர்கள் மற்றும் தீயணைப்புப் படையினர் மீட்புப் பணியில் ஈடுபட்டு வருகின்றனர்.S
+
+◼️
+
+[Data](articles/8031596b.json)
 
 ---
 
@@ -2157,125 +2241,5 @@ No scholarship programs have been implemented by the Scholarship Program to enco
 [Data](articles/33bea2bf.json)
 
 [Extended Data](ext_articles/33bea2bf.ext.json)
-
----
-
-### Scholarship
-
-*2024-07-24 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்குணிகளுக்கு-புலமைப்-பரிசில்/175-340926) · `ta`
-
-The event, led by President Ranil Wickremesinghe at 3:00 pm today, awards scholarships from the President's Fund Program to monks and ordinary students at Parkuna and Pikkuni Educational Institutions. This initiative aims to support students in the sect, marking the first such program by the Scholarship Program.
-
-🟩
-
-The event will be held at the Alari House, headed by President Ranil Wickremesinghe at 3.00 pm today.
-
-The scholarship is awarded under the President's Fund Program for Monks and Ordinary Students in Parkuna and Pikkuni Educational Institutions, according to the impression of President Ranil Wickremesinghe.
-
-No scholarship programs have been implemented by the Scholarship Program to encourage students who have been learning in the sect.. (A)
-
-◼️
-
-[Data](articles/72b63275.json)
-
-[Extended Data](ext_articles/72b63275.ext.json)
-
----
-
-### Minister of State for Japan - Anura meets
-
-*2024-07-24 02:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-இராஜாங்க-அமைச்சர்-அனுர-சந்திப்பு/175-340925) · `ta`
-
-Anura Kumara Dissanayake, National People's Power President of Sri Lanka, met Japan's State Minister of Foreign Affairs during his visit. They discussed enhancing embassy and economic ties, building on their longstanding friendship.
-
-🟩
-
-National People's Power President Anura Kumara Dissanayake, who has visited Japan, has met the State Minister of Foreign Affairs.
-
-The long -term friendship between the two countries has been discussed on the next step of embassy and economic relations.. (A)
-
-◼️
-
-[Data](articles/9d106223.json)
-
-[Extended Data](ext_articles/9d106223.ext.json)
-
----
-
-### Conspiracy to assassinate
-
-*2024-07-24 02:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படுகொலை-செய்ய-சதி/175-340924) · `ta`
-
-Ira Sanakian, a Batticaloa District MP, alleges a conspiracy to assassinate him, citing a report from a foreign intelligence agency. He has addressed this in Parliament and written to the Speaker and the Inspector General of Police about it. The Minister of State has previously been implicated in other political violence incidents, leading Sanakian to call for swift action from the Speaker.
-
-🟩
-
-The Batticaloa District MP of the Batticaloa District of the Sri Lanka Tamil Nadu Party should take action in connection with the news that the Speaker of the Foreign Intelligence Agency quoted in a website service that a diplomatic minister was conspiring to assassinate me.. Ira Sanakian stressed.
-
-Speaking further, Ira Sanakiyan stressed the issue on Tuesday (23) in Parliament.
-
-The Internet news service has issued a news report on the 20th that a foreign intelligence unit has found a conspiracy to assassinate me.
-
-I have written in writing to the Speaker and the Inspector General of Police on this issue.
-
-The Minister of State has already been accused of involvement in the assassination of the MP, the MP, and the alive Sunday attack.. Therefore, I urge the Speaker to take appropriate action in this regard.
-
-◼️
-
-[Data](articles/0c68c090.json)
-
-[Extended Data](ext_articles/0c68c090.ext.json)
-
----
-
-### Conspiracy to assassinate me
-
-*2024-07-24 02:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-படுகொலை-செய்ய-சதி/175-340924) · `ta`
-
-Batticaloa District MP of the Sri Lanka Tamil Nadu Party is concerned about a conspiracy to assassinate them, as reported by a foreign intelligence unit and mentioned by the Speaker of the Foreign Intelligence Agency on a website. The MP, Ira Sanakian, has addressed this in Parliament and written to the Speaker and the Inspector General of Police regarding the matter. The Minister of State has previously been implicated in other political assassinations, leading to calls for swift action from the Speaker.
-
-🟩
-
-The Batticaloa District MP of the Batticaloa District of the Sri Lanka Tamil Nadu Party should take action in connection with the news that the Speaker of the Foreign Intelligence Agency quoted in a website service that a diplomatic minister was conspiring to assassinate me.. Ira Sanakian stressed.
-
-Speaking further, Ira Sanakiyan stressed the issue on Tuesday (23) in Parliament.
-
-The Internet news service has issued a news report on the 20th that a foreign intelligence unit has found a conspiracy to assassinate me.
-
-I have written in writing to the Speaker and the Inspector General of Police on this issue.
-
-The Minister of State has already been accused of involvement in the assassination of the MP, the MP, and the alive Sunday attack.. Therefore, I urge the Speaker to take appropriate action in this regard.
-
-◼️
-
-[Data](articles/fd88aa1a.json)
-
-[Extended Data](ext_articles/fd88aa1a.ext.json)
-
----
-
-### TACTILE BALLOT PAPER in the presidential election
-
-*2024-07-24 02:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-Tactile-Ballot-Paper/175-340923) · `ta`
-
-For the first time in a presidential election, tactile ballot papers will be introduced for visually impaired voters. The Elections Commissioner highlighted improvements such as eliminating finger painting for voter identification, saving resources, and introducing new sign language vocabulary for the deaf community. These changes aim to enhance accessibility and inclusivity in elections.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake said that for the first time in the presidential election, the Tactile Ballot Paper will be introduced for the unwavering community.
-
-He said this when a departmental supervisory committee on transparent and responsible government was chaired by its chairman Jagadkumara Sumatrachchi.
-
-The committee also focused on the previous instructions of the committee that it was unnecessary to paint the fingers to indicate that the identity was confirmed during elections.
-
-The Commissioner General of Elections Saman Sri Ratnayake said that the Cabinet paper was submitted on the importation of paints on the fingers and that the Cabinet has decided not to implement this.
-
-It was discussed that if you eliminate the painful process on the thumb, more money, time and labor will be restored. Accordingly, the Chairman of the Committee advised the Commissioner General of Elections to submit all proposals on the election amendment.
-
-...
-
-[Data](articles/6f2b7571.json)
-
-[Extended Data](ext_articles/6f2b7571.ext.json)
 
 ---

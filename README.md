@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 15:35:53**
+As of **2024-07-24 15:54:57**
 
 ## Newspaper Stats
 
-*Scraped **36,991** Articles*
+*Scraped **37,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,90 @@ colombotelegraphcom | 350
 bbccomsinhala | 360
 newsfirstlk | 363
 islandlk | 2,107
-economynextcom | 2,207
+economynextcom | 2,213
 dailyftlk | 2,358
-adalk | 3,354
-adaderanalk | 4,283
-tamilmirrorlk | 4,546
+adalk | 3,355
+adaderanalk | 4,284
+tamilmirrorlk | 4,547
 dailymirrorlk | 4,733
 virakesarilk | 5,802
-adaderanasinhalalk | 6,206
+adaderanasinhalalk | 6,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,988 (100.0%) of 36,991 articles have been extended.
+36,991 (100.0%) of 37,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### Fitch confirms ‘A-(lka)’ domestic rating of Seylan Bank Plc
+
+*2024-07-24 15:30:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-seylan-bank-plc-173584/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it was confirming a national long-term ‘A-(lka)’rating on Sri Lanka’s Seylan Bank Plc with a stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
+
+Fitch said it expected a modest increase in Seylan’s proportion of net loans to total assets (60.0% at end-1Q24) in the near- to medium-term, as lending resumes, comparable with its peers.
+
+“We expect a modest increase in Seylan’s proportion of net loans to total assets (60.0% at end-1Q24) in the near- to medium-term, as lending resumes, comparable with its peers.”
+
+Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-based Seylan Bank PLC’s (Seylan) National Long-Term Rating at ‘A-(lka)’. The Outlook is Stable. Fitch also affirmed Seylan’s Sri Lankan rupee-denominated outstanding subordinated debt at ‘BBB(lka)’.
+
+...
+
+[Data](articles/acd1041d.json)
+
+---
+
+### බස් රථයක් සොරාගත් අයෙක් අත්අඩංගුවට
+
+*2024-07-24 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199161) · `si`
+
+නවතා තිබූ බස් රථයක් සොරාගෙන යමින් සිටි පුද්ගලයෙකු මොරටුව, රාවතාවත්ත ප්‍රදේශයේදී මොරටුව පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු පානදුර, මිනුවන්පිටිය පොදු සුසාන භූමිය ආසන්නයේදී අදාළ බස් රථය සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/378761fa.json)
+
+---
+
+### Harris bashes Trump over ‘fear and hate’ in debut rally
+
+*2024-07-24 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100746/harris-bashes-trump-over-fear-and-hate-in-debut-rally) · `en`
+
+(Reuters) - U.S. Vice President Kamala Harris assailed Donald Trump on Tuesday at her first campaign rally since replacing President Joe Biden as the Democratic presidential candidate, while a Reuters/Ipsos opinion poll showed her taking a marginal lead over her Republican rival.
+
+In a 17-minute speech, Harris aggressively went after Trump’s vulnerabilities, comparing her background as a former prosecutor to his record as a convicted felon.
+
+Harris ticked through a list of liberal priorities, saying that if elected she would act to expand abortion access, make it easier for workers to join unions and address gun violence, drawing a sharp contrast with Trump, the Republican nominee for president in the Nov. 5 election.
+
+“Donald Trump wants to take our country backward,” she told a cheering crowd of several thousand at West Allis Central High School in a Milwaukee suburb in Wisconsin, a battleground state with a pivotal role in deciding the election outcome.
+
+...
+
+[Data](articles/7d935b7c.json)
+
+---
+
+### AI மூலம் ஊழியர்கள் கண்காணிக்கும் நிறுவனம்
+
+*2024-07-24 15:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/AI-மூலம்-ஊழியர்கள்-கண்காணிக்கும்-நிறுவனம்/57-340956) · `ta`
+
+சூப்பர் மார்க்கெட்டுக்கு வரும் வாடிக்கையாளர்களை ஊழியர்கள் எப்படி அணுகுகிறார்கள் என்பதை கண்காணிக்கும் வகையில் AI உதவியை ஒரு நிறுவனம்.  ஜப்பான் நாட்டில் உள்ள நிறுவனமே இவ்வாறு செய்துள்ளது.
+
+2022-ன் இறுதியில் ஜெனரேட்டிவ் AI  குறித்த பேச்சு உலகளவில் வைரல் ஆனது. அதுவரை டிஜிட்டல் சாதனங்களை பயன்படுத்தும் மக்களிடையே AI இருந்தாலும் அது அதிக அளவில் கவனம் பெறாமல் இருந்தது என்று சொல்லலாம். ஓபன் AI நிறுவனத்தின் ‘சாட்-ஜிபிடி’ வரவு அதனை அப்படியே மாற்றியது.
+
+இந்த ஜெனரேட்டிவ் AI பாட் டிஜிட்டல் பயனர்களின் அதீத வரவேற்பை பெற்றது. டெக்ஸ்ட், படம் போன்றவற்றை பயனர்கள் எளிதில் இதில் பெறலாம். கட்டுரை, கணினி புரோகிராமிங் என அனைத்தையும் இந்த பாட் எழுதி தரும். பாட்டிகள் போல கதையும் சொல்லும். நாம் ப்ராம்ப்ட் செய்யும் படத்தை உருவாக்கி கொடுக்கும் வல்லமையும் இதற்கு உள்ளது.
+
+...
+
+[Data](articles/f3bedba2.json)
+
+---
 
 ### Court defers decision on Dayasiri’s plaint
 
@@ -47,6 +113,8 @@ Accordingly, the District Judge, who granted time to file objections related to 
 ◼️
 
 [Data](articles/b500a27e.json)
+
+[Extended Data](ext_articles/b500a27e.ext.json)
 
 ---
 
@@ -127,6 +195,26 @@ The administration of the school cannot be conducted as a few people say. He sai
 [Data](articles/cc8e118e.json)
 
 [Extended Data](ext_articles/cc8e118e.ext.json)
+
+---
+
+### Fitch confirms ‘A(lka)’ domestic rating of Sampath Bank Plc
+
+*2024-07-24 14:37:00* · [`economynextcom`](https://economynext.com/fitch-confirms-alka-domestic-rating-of-sampath-bank-plc-173579/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it was confirming a national long-term A(lka) rating on Sri Lanka’s Sampath Bank Plc with a stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
+
+The bank had stage 3 loans of nearly 17 percent at end-1Q24 (2023: 16.6 percent).
+
+Fitch expected this ratio to decrease in the near- to medium-term alongside focused recoveries.
+
+“We expect Sampath’s impaired (stage 3) loans ratio to decline gradually in the medium term, due to its recovery efforts, improvements in repayment capacity of borrowers from the stabilisation in economic conditions, and moderate loan book growth.”
+
+The bank also had defaulted sovereign bonds. “Defaulted foreign-currency sovereign bonds, which accounted for 1.9% of assets, had impairments amounting to 52% of its holdings as of end-1Q24.”
+
+...
+
+[Data](articles/ebd1136c.json)
 
 ---
 
@@ -396,6 +484,24 @@ The Indian team has arrived in the island and will commence the T20 to hold on t
 
 ---
 
+### Sri Lanka presidential candidate cash deposits not updated in 43 years: MP
+
+*2024-07-24 12:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-candidate-cash-deposits-not-updated-in-43-years-mp-173570/) · `en`
+
+ECONOMYNEXT — The cash deposits Sri Lanka’s presidential candidates are required to pay have not been revised in 43 years, opposition MP Dullas Alahapperuma said, calling for a significant increase in order to save money and to prevent proxy candidates.
+
+Alahapperuma told parliament on Wednesday July 24 that, as per the Presidential Elections Act No. 15 of 1981, a candidate nominated by a recognised political party has to deposit only 50,000 rupees while an independent candidate, or a candidate nominated by any other party or by an elector, must pay only 75,000 rupees.
+
+The MP said the cabinet of former president Gotabaya Rajapaksa had approved an amendment to the act to increase these amounts.
+
+“The election commission proposed that this be increased to 2.5 million rupees for political parties and 3 million for independent candidates. This was a pertinent proposal. There were 35 candidates who contested the last election,” he said.
+
+...
+
+[Data](articles/7dc2c883.json)
+
+---
+
 ### Indian tournament losing the Indian tournament
 
 *2024-07-24 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199156) · `si`
@@ -441,6 +547,26 @@ Residents have said that he is the secretary of the Education Kamakara Organizat
 [Data](articles/e5729f89.json)
 
 [Extended Data](ext_articles/e5729f89.ext.json)
+
+---
+
+### Sri Lanka deaf driver license project to be expanded islandwide
+
+*2024-07-24 12:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-deaf-driver-license-project-to-be-expanded-islandwide-173565/) · `en`
+
+ECONOMYNEXT – A pilot project that allowed hearing-impaired persons to obtain light-vehicle driving licenses has been successful and will be rolled out island-wide, Sri Lanka’s Motor Traffic Department said.
+
+The project was implemented in the Gampaha District initially where 50 licenses were provided to drivers who qualified.
+
+The project was expanded to the Kurunegala District, where 150 drivers obtained licences. The drivers were given a probation period.
+
+“Actually, this was a very successful project. It has been almost a year and we haven’t received a single complaint yet,” Motor Traffic Department Commissioner – Driving Licence Wasantha Ariyarathna told reporters on Wednesday.
+
+The issuance of driver’s licenses to hearing impaired persons will be done on a bi-annual renewal basis.
+
+◼️
+
+[Data](articles/b9f5e53e.json)
 
 ---
 
@@ -555,6 +681,26 @@ Puttala police said that steps have been taken to bring the suspect to the Magis
 [Data](articles/b1ab32eb.json)
 
 [Extended Data](ext_articles/b1ab32eb.ext.json)
+
+---
+
+### Sri Lanka election commission to announce poll date before weekend
+
+*2024-07-24 12:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-commission-to-announce-poll-date-before-weekend-173559/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s Election Commission will announce the date of the election before the end of this week, commission chairman R M L Ratnayake told a private news network.
+
+Ratnayake told the privately owned NewsFirst Wednesday July 24 morning that the gazette notification in this regard would be published before the weekend.
+
+“As I stated before, we will announce the date before the end of this week. There is no backtracking at all. We have selected a date that is nearest and most suitable after September 17 for the election,” he said.
+
+Ratnayake told the media at a press conference on July 16 that the commission will publish the notice announcing nomination and election dates before the end of July.
+
+“Our first task is to publish the notice on the election. From the day the notice is published, nominations have to be accepted between 16 and 21 days. The election should be held within four to six weeks of from the day of accepting nominations,” said Ratnayake.
+
+...
+
+[Data](articles/a542385a.json)
 
 ---
 
@@ -711,6 +857,26 @@ The arrested person has been ordered to be kept in remand for the next 14 days.
 [Data](articles/8653163e.json)
 
 [Extended Data](ext_articles/8653163e.ext.json)
+
+---
+
+### Supreme Court issues interim order on appointment of Sri Lanka’s police chief: report
+
+*2024-07-24 12:04:00* · [`economynextcom`](https://economynext.com/supreme-court-issues-interim-order-on-appointment-of-sri-lankas-police-chief-report-173553/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s Supreme Court has issued an interim order preventing Deshabandu Tennakoon from serving as Inspector General of Police (IGP), a media report said.
+
+The privately owned Ada Derana news network reported Wednesday July 24 morning that the Supreme Court had made this verdict after granting leave to proceed for nine fundamental rights petitions filed against Tennakoon’s appointment as IGP.
+
+Other reports said the country’s apex court has also ordered President Ranil Wickremesinghe to name a suitable person for the post of IGP during the period the interim order is in effect.
+
+Sri Lanka’s Centre for Policy Alternatives (CPA) was among those who had filed petitions in the Supreme Court challenging the constitutionality of the appointment.
+
+The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu in March against the presidential appointment of Tennakoon, CPA said in a statement on March 13.
+
+...
+
+[Data](articles/f8f3309b.json)
 
 ---
 
@@ -1486,6 +1652,8 @@ It is so easy to speak with so many rosy words and please people with different 
 
 [Data](articles/49a03e36.json)
 
+[Extended Data](ext_articles/49a03e36.ext.json)
+
 ---
 
 ### Interim order issued against Deshabandu functioning as IGP
@@ -1688,27 +1856,35 @@ Subsequently, the police have carried out a raid by the police a few weeks ago a
 
 ---
 
-### ஆள்மாறாட்டிய சட்டத்தரணி யாழில் கைது
+### Impersive lawyer arrested in Jaffna
 
 *2024-07-24 09:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆள்மாறாட்டிய-சட்டத்தரணி-யாழில்-கைது/71-340930) · `ta`
 
-ஆள்மாறாட்டம் தொடர்பான வழக்கில் யாழ்ப்பாணம் - உடுவில் பகுதியைச் சேர்ந்த சட்டத்தரணியொருவர் நேற்று கைது செய்யப்பட்டார்.
+In Jaffna, a lawyer was arrested for impersonation, releasing him on bail after seizing his office computers for analysis. The case involves a woman who discovered her supposed divorce wasn't finalized, leading to police raids and uncovering further fraud.
 
-யாழ்ப்பாணம் பிராந்திய விசேட குற்ற விசாரணைப் பிரிவு பொலிஸாரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+🟩
 
-கைதான சட்டத்தரணி சாவகச்சேரி நீதவான் நீதிமன்றத்தில் முற்படுத்தப்பட்டநிலையில் 10 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணையில் விடுவிக்கப்பட்டார்.
+A lawyer from Jaffna - Uduvil area was arrested yesterday in connection with the impersonation.
 
-அத்துடன் சட்டத்தரணியின் அலுவலகத்தில் இருந்த மூன்று கணிணிகளையும் பகுப்பாய்வு விசாரணைக்குட்படுத்த நீதிமன்றம் உத்தரவிட்டது.
+The arrest was carried out by the Jaffna Regional Special Crime Investigation Division.
 
-இத்தாலியைச் சேர்ந்த பெண்ணொருவர், யாழ்ப்பாணத்துக்குத் திரும்பி விவாகரத்துக்கு விண்ணப்பிக்கச் சென்றபோது, அவர் ஏற்கனவே விவாகரத்துப் பெற்றுள்ளார் என்று தரவுகள் வெளிக்காட்டியுள்ளன.
+Attorney -at -Law Chavakachcheri Magistrate's Court was released on two physical bail worth Rs 10 lakh.
 
-அந்தப் பெண் அதுவரை விவாகரத்துக்கு விண்ணப்பிக்காத நிலையில், இது தொடர்பில் பொலிஸாரிடம் முறையிட்டுள்ளார்.
+The court also ordered the analysis of all three computers in the lawyer's office.
 
-பொலிஸ் விசாரணைகளில், உடுவில் பகுதியில் உள்ள சட்டத்தரணியொருவர் கனிஷ்ட சட்டத்தரணிகள் மூலமாக ஆள்மாறாட்டம் செய்து , மேற்படி தம்பதியர்கள் விவாகரத்துப் பெற்றுக்கொள்வதாக நீதிமன்ற நடவடிக்கைகள் முன்னெடுக்கப்பட்டமை தெரியவந்தது.
+When a woman from Italy returned to Jaffna and applied for a divorce, data revealed that she was already divorced.
 
-...
+The woman has not yet applied for a divorce, and has appealed to the police.
+
+Police investigations revealed that a lawyer in Uduvil area was impersonating the junior lawyers and that the couple were divorced.
+
+Subsequently, the police have carried out a raid by the police a few weeks ago at the lawyer's office.. Remble
+
+◼️
 
 [Data](articles/800d084f.json)
+
+[Extended Data](ext_articles/800d084f.ext.json)
 
 ---
 
@@ -2135,177 +2311,5 @@ Minister Alles had promised a few days before, at the Uva Provincial Community P
 [Data](articles/d20c4fab.json)
 
 [Extended Data](ext_articles/d20c4fab.ext.json)
-
----
-
-### Sri Lanka caught in a constitutional quagmire
-
-*2024-07-24 05:24:30* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-caught-in-a-constitutional-quagmire/4-764660) · `en`
-
-Substitution of the words, “to over five years” replacing “to over six years” is yet another amendment replacing the original provision giving an entirely different version amounting to a complete change
-
-The looming Presidential election to be soon followed by the General Election of the Parliament has led to confused conjectures creating a rumpus never experienced before. The issue is centred on the controversy over the term of office of the President and the period of continuity of the Parliament once elected.
-
-Already two parties have gone before the Supreme Court invoking determination on the consistency with the Constitution of repealing and replacing Article 30, under the 19th Amendment to the Constitution, certified on 15 May, 2015.
-
-Leaving the argumentation part to the more qualified legal profession I intend to set out below the issues concerning the matter about which there is a growing strong dispute debated in public and the media.
-
-...
-
-[Data](articles/03a23b26.json)
-
-[Extended Data](ext_articles/03a23b26.ext.json)
-
----
-
-### US Vice President Kamala Harris not attending Israeli PM’s address to US Congress is ‘welcome news’
-
-*2024-07-24 05:20:59* · [`dailyftlk`](https://www.ft.lk/columns/US-Vice-President-Kamala-Harris-not-attending-Israeli-PM-s-address-to-US-Congress-is-welcome-news/4-764659) · `en`
-
-US Vice President and Democratic Party presidential candidate Kamala Harris
-
-Washington Exa-miner’s report by Brady Knox that US Vice President and Democratic Party presidential candidate Kamala Harris will not attend Israeli Prime Minister Benjamin Netanyahu’s address to the American Congress scheduled for today, Wednesday 24 July, would be welcome news to progressive thinking people throughout the world, particularly in the context of last Friday’s (19 July 2024) sweeping advisory opinion of the International Court of Justice (ICJ) unequivocally asserting that 57 years of Israeli occupation of Palestinian lands captured then and thereafter as “unlawful”, that Israel should rapidly end its unlawful occupation of ‘Palestinian Territory’, evacuate all settlers from the occupied territory, make reparation for the damages caused and declaring that all States remain under “obligation not to render aid or assistance” for any Israeli presence in the ‘Occupied Palestinian Territory’.
-
-...
-
-[Data](articles/41bfa4fa.json)
-
-[Extended Data](ext_articles/41bfa4fa.ext.json)
-
----
-
-### Soul Sounds Academy Triumphs at 13th Bali International Choir Festival 2024
-
-*2024-07-24 05:14:53* · [`dailyftlk`](https://www.ft.lk/front-page/Soul-Sounds-Academy-Triumphs-at-13th-Bali-International-Choir-Festival-2024/44-764657) · `en`
-
-Twenty-five young soloists from Sri Lanka’s Soul Sounds Academy excelled at the 13th Bali International Choir Festival 2024, winning 17 gold medals and 8 silver medals in the solo categories.
-
-Competing in both Children’s Solo and Youth Solo categories, these talented performers showcased their exceptional skills. Their success was achieved under the expert guidance of renowned musician Soundarie David Rodrigo, along with vocal trainers Shivanthi Subramaniam and Shenuk Wijesinghe, who ensured their performances were outstanding.
-
-Soul Sounds Academy is committed to nurturing young talent, providing numerous opportunities for these young artists to perform on local and international stages. The academy takes immense pride in celebrating the achievements of all its medallists and their remarkable journey so far.
-
-◼️
-
-[Data](articles/044e4994.json)
-
-[Extended Data](ext_articles/044e4994.ext.json)
-
----
-
-### Soul Sounds Academy Triumphs at 13th Bali International Choir Festival 2024
-
-*2024-07-24 05:14:53* · [`dailyftlk`](https://www.ft.lk/news/Soul-Sounds-Academy-Triumphs-at-13th-Bali-International-Choir-Festival-2024/56-764657) · `en`
-
-Twenty-five young soloists from Sri Lanka’s Soul Sounds Academy excelled at the 13th Bali International Choir Festival 2024, winning 17 gold medals and 8 silver medals in the solo categories.
-
-Competing in both Children’s Solo and Youth Solo categories, these talented performers showcased their exceptional skills. Their success was achieved under the expert guidance of renowned musician Soundarie David Rodrigo, along with vocal trainers Shivanthi Subramaniam and Shenuk Wijesinghe, who ensured their performances were outstanding.
-
-Soul Sounds Academy is committed to nurturing young talent, providing numerous opportunities for these young artists to perform on local and international stages. The academy takes immense pride in celebrating the achievements of all its medallists and their remarkable journey so far.
-
-◼️
-
-[Data](articles/4ec9464a.json)
-
-[Extended Data](ext_articles/4ec9464a.ext.json)
-
----
-
-### Committee begins accepting proposals for public sector salary revisions
-
-*2024-07-24 05:14:07* · [`dailyftlk`](https://www.ft.lk/news/Committee-begins-accepting-proposals-for-public-sector-salary-revisions/56-764656) · `en`
-
-The committee tasked with addressing salary discrepancies in the public sector has started accepting suggestions for updating salary benefits, according to the President's Media Division (PMD).
-
-This initiative aims to address and rectify long-standing salary issues within the sector.
-
-Proposals for revising salary allowances can now be submitted to the committee.
-
-President Ranil Wickremesinghe recently appointed this committee to address the salary discrepancies. The President has mandated the committee to submit its recommendations report within three months, underscoring the urgency and importance of this task.
-
-The PMD encourages all relevant stakeholders to contribute their suggestions, ensuring a comprehensive review and equitable revision of public sector salaries.
-
-Interested parties can access the application form from the official website of the Presidential Secretariat at
-
-...
-
-[Data](articles/ae4cdd48.json)
-
-[Extended Data](ext_articles/ae4cdd48.ext.json)
-
----
-
-### Bird Island in Beira Lake to be leased to Sri Jinarathana Vocational Technical Training Centre to boost tourism
-
-*2024-07-24 05:13:53* · [`dailyftlk`](https://www.ft.lk/news/Bird-Island-in-Beira-Lake-to-be-leased-to-Sri-Jinarathana-Vocational-Technical-Training-Centre-to-boost-tourism/56-764655) · `en`
-
-The Cabinet of Ministers on Monday approved the lease of Bird Island, situated on Beira Lake to the Sri Jinarathana Vocational Technical Training Centre for a 50-year term.
-
-“The island will be developed into a tourist attraction,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
-
-The lease request was made by the Chief Incumbent of the Gangarama Temple, with plans to enhance the island as a cultural heritage site aimed at attracting tourists. Bird Island, spanning 143 perches on the southwest part of Beira Lake, was initially transferred to the Urban Development Authority in 2000 as part of the Colombo City Development Plan under the Beira Lake Restoration Project.
-
-Gunawardena said the lease terms are based on the value determined by the Chief Assessor of the Government.
-
-“This development is expected to contribute to the cultural and tourist appeal of Colombo, further enhancing the city’s vibrant landscape,” he added.
-
-...
-
-[Data](articles/6106ca2f.json)
-
-[Extended Data](ext_articles/6106ca2f.ext.json)
-
----
-
-### Cabinet nod to adopt comprehensive National Anti-Corruption Agenda
-
-*2024-07-24 05:13:22* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-adopt-comprehensive-National-Anti-Corruption-Agenda/56-764654) · `en`
-
-The Cabinet of Ministers on Monday approved the adoption of the anti-corruption agenda as the national agenda for the Government, directing all authorities to adhere to this comprehensive framework.
-
-Since the Government took office in July 2022, it has prioritised improving governance, eradicating corruption, restoring State finances, ensuring credit sustainability and revitalising the economy.
-
-The foundation of the National Agenda for Anti-Corruption was established through the enactment of the Anti-Corruption Act No. 9 of 2023. This Act consolidates the Anti-Corruption Act (Authority 26), the Bribery and Corruption Commission Act No. 19 of 1994 and the Assets and Liabilities Statement No. 1 of 1975, aligning with international standards such as the United Nations Convention on Anti-Corruption and the Financial Action Task Force guidelines.
-
-...
-
-[Data](articles/d379263c.json)
-
-[Extended Data](ext_articles/d379263c.ext.json)
-
----
-
-### Govt. to implement national social protection policy
-
-*2024-07-24 05:12:27* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-implement-national-social-protection-policy/56-764653) · `en`
-
-The Cabinet of Ministers on Monday approved a new national social protection policy aimed at enhancing the effectiveness and coherence of the social protection system.
-
-The proposal, presented by President Ranil Wickremesinghe in his capacity as Finance, Economic Stabilisation and National Policy Minister seeks to address inefficiencies and fragmented efforts that have hindered the country’s social protection initiatives and national development.
-
-“The Finance, Economic Stabilisation and National Policy Ministry identified the need for a coordinated national policy to provide strategic guidance and ensure the participation of all relevant stakeholders. The newly formulated policy aims to develop a properly coordinated and coherent approach to social protection,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
-
-...
-
-[Data](articles/998e8bb1.json)
-
-[Extended Data](ext_articles/998e8bb1.ext.json)
-
----
-
-### ‘Films Sri Lanka’ to boost local cinema industry
-
-*2024-07-24 05:12:13* · [`dailyftlk`](https://www.ft.lk/news/Films-Sri-Lanka-to-boost-local-cinema-industry/56-764652) · `en`
-
-In a bid to elevate the local film industry, the Cabinet of Ministers on Monday approved instructing the Legal Draftsman to prepare the necessary legislation for the establishment of ‘Films Sri Lanka’, to boost industry capabilities.
-
-“The new institute will focus on regulatory activities and facilitate the transition of the local film industry onto digital platforms, aiming to bring Sri Lankan cinema to the international stage,” Cabinet Co-Spokesman and Mass Media Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing yesterday.
-
-On 29 April, the Cabinet discussed the proposal to establish the ‘National Film Development Commission’ aiming to create a new institutional framework that shifts the National Film Corporation’s focus from business activities to regulatory functions, providing greater opportunities for digital platform integration and enhancing the global reach of Sri Lankan cinema.
-
-...
-
-[Data](articles/b329abf8.json)
-
-[Extended Data](ext_articles/b329abf8.ext.json)
 
 ---

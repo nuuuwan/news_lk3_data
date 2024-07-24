@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 01:35:46**
+As of **2024-07-25 01:55:10**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,062 (100.0%) of 37,063 articles have been extended.
+37,063 (100.0%) of 37,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ’கட்டணத்தை லட்சமாக்கவும்’
+### Limit the tariff
 
 *2024-07-25 00:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டணத்தை-லட்சமாக்கவும்/175-340980) · `ta`
 
-எண்ணிக்கையை  வரையறுக்க கட்டுப்பணத்தை இலட்சமாக்குமாறு எதிரணியின் சுயாதீன எம்.பி.யான   டலஸ் அழகப்பெரும  வலியுறுத்தினார்.
+Dullas Alahapperuma, an opposition MP, called for amending campaign finance limits: 25 lakh for party-affiliated presidential candidates and 30 lakh for independents. This proposal came after the Elections Commission requested former President Gotabhaya Rajapaksa to reduce these limits from 50k to 75k for recognized and independent candidates respectively. However, Chief Minister Susil Premajayantha stated that the proposed amendments could not be implemented in time for the upcoming presidential election.
 
-அங்கீகரிக்கப்பட்ட அரசியல் கட்சியின் ஜனாதிபதி வேட்பாளரின் கட்டுப்பணத்தை 25 இலட்சமாகவும்,சுயாதீன ஜனாதிபதி வேட்பாளரின் கட்டுப்பணத்தை 30 இலட்சமாகவும் திருத்தம் செய்ய வேண்டும் என்றார்.
+🟩
 
-பாராளுமன்றத்தில்  புதன்கிழமை (24) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்தே இவ்வாறு வலியுறுத்திய
+Dullas Alahapperuma, an independent MP of the opposition, urged the control to define the number.
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களுக்கான  கட்டுப்பணத்தை திருத்தம் செய்யுமாறு தேர்தல்கள் ஆணைக்குழு அப்போதைய  ஜனாதிபதி கோட்டாபய  ராஜபக்சவிடம்  கோரிக்கை விடுத்தது.இந்த யோசனைக்கு அமைச்சரவையும்  அங்கீகாரம் வழங்கியுள்ளது.
+He said the control of the recognized political party's presidential candidate should be amended by 25 lakhs and the control of the independent presidential candidate at 30 lakhs.
 
-அங்கீகரிக்கப்பட்ட அரசியல் கட்சி வேட்பாளரிடமிருந்து 50 ஆயிரம் ரூபாய் கட்டுப்பணமும்,சுயாதீன வேட்பாளரிடமிருந்து 75 ஆயிரம் ரூபாவும்  அறவிடப்படுகிறது.
+This is what urged the special claim during the session held in Parliament on Wednesday (24)
+
+The Elections Commission has asked the then President Gotabhaya Rajapaksa to amend the control of the candidates contesting the presidential election.
+
+50 thousand rupees from the recognized political party candidate and 75 thousand rupees from the independent candidate.
+
+35 candidates contested the 2019 presidential election. The control of the candidates other than the two candidates was nationalized.
 
 ...
 
 [Data](articles/e784a49e.json)
+
+[Extended Data](ext_articles/e784a49e.ext.json)
 
 ---
 

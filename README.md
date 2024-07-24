@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 11:06:24**
+As of **2024-07-24 11:20:24**
 
 ## Newspaper Stats
 
-*Scraped **36,934** Articles*
+*Scraped **36,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,83 @@ islandlk | 2,107
 economynextcom | 2,203
 dailyftlk | 2,358
 adalk | 3,349
-adaderanalk | 4,277
+adaderanalk | 4,278
 tamilmirrorlk | 4,531
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,197
+adaderanasinhalalk | 6,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,930 (100.0%) of 36,934 articles have been extended.
+36,934 (100.0%) of 36,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### ජනපතිවරණය සැප්තැම්බර්  - මහ මැතිවරණයක් නෑ
+### දිස්ත්‍රික් ලේකම් කාර්යාලයක ගින්නක්
+
+*2024-07-24 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199152) · `si`
+
+කළුතර දිස්ත්‍රික් ලේකම් කාර්යාලයේ ගින්නක් හටගෙන ඇති බව කළුතර දකුණ පොලීසිය පවසයි.
+
+මහල් හයකින් සමන්විත අදාළ ගොඩනැගිල්ලේ බිම් මහලේ විදුලි පද්ධතිය සම්බන්ධ ස්ථානයෙන් ගින්න හටගෙන ඇති බව පැවසේ.
+
+කළුතර මහ නගර සභාවේ ගිනිනිවන රථ දෙකක් යොදා ගනිමින් මේ වනවිට ගින්න පාලනය කරමින් සිටින බව වාර්තා වේ.
+
+ගොඩනැගිල්ලේ සිටි නිලධාරින් සහ සේවකයින් ඉවත්කරන අයුරු ද දැකගත හැකි වූ බව අප වාර්තාකරු පැවසීය.
+
+මෙම ගින්න විදුලි කාන්දුවක් නිසා හටගෙන ඇති බවට මේ වනවිට තහවුරු කරගෙන ඇති අතර ,බිම් මහලින් හටගත් ගින්න මේ වන විට පාලනය කිරීමට කළුතර නගර සභාවේ ගිනි ඒකකය සමත් වී ඇත.
+
+ගින්න පාලනය කිරීම සඳහා ගිය ගිනිනිවන හමුදා භටයෙකු හුස්ම හිරවීම හේතුවෙන් මේ වනවිට රෝහල් ගතකර තිබේ.
+
+◼️
+
+[Data](articles/59920afc.json)
+
+---
+
+### Minister sounds warning to egg producers over prices
+
+*2024-07-24 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100740/minister-sounds-warning-to-egg-producers-over-prices) · `en`
+
+Minister of Trade Nalin Fernando has stated that it is possible to reduce the retail price of an egg to Rs. 40.
+
+He warned that if egg producers fail to reduce prices for the festive season, the government will once again resort to importing eggs from India.
+
+The minister further stated that the egg prices have suddenly dropped by Rs. 6 and that he will thoroughly look into this by obtaining reports from the Consumer Affairs Authority (CAA).
+
+He expressed concerns stating that if an egg cannot be sold for at least Rs. 40, they would have to import eggs from India. He pointed out that during the festival season in December, cake manufacturers will also be purchasing a large quantity of eggs.
+
+Therefore, he emphasized that if the egg prices are not reduced by then, the government will have to import eggs or ensure customer protection by providing eggs at the correct price.
+
+◼️
+
+[Data](articles/c2f843c0.json)
+
+---
+
+### Presidential election No General Election
 
 *2024-07-24 10:50:02* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්තැම්බර්----මහ-මැතිවරණයක්-නෑ/11-410962) · `si`
 
-2024 ඔක්තෝබර් මස 17වැනිදාට පෙර නව ජනාධිපතිවරයෙක් පත්කර ගැනීමට සැප්තැම්බර් මාසයේදී ජනාධිපතිවරණය පැවැත්වෙන බවත් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූලව පැවැත්වීමට නියමිත ජනාධිපතිවරණය ව්‍යවස්ථාවට අනුකූලව පවත්වන බවත් මහාමාර්ග, ජනමාධ්‍ය අමාත්‍ය කැබිනට් ප්‍රකාශක ආචාර්ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+Clay Gunawardena announced that Sri Lanka's presidential election, scheduled for September 2024, will precede constitutional amendments. This decision was made during a Cabinet meeting, where it was also disclosed that no parliamentary elections will take place this year. The government has allocated funds for both elections.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමිනි.
+🟩
 
-ජනාධිපතිවරණය සඳහා අවශ්‍ය මුදල් වන රුපියල් බිලියන 10ක් අයවැය ලේඛණයෙන්ම වෙන් කර ඇති බව කී අමාත්‍යවරයා , මැතිවරණ 02 ක් පැවැත්වීමට මුදල් නොමැති බවත් කිසිදු පාර්ලිමේන්තු මැතිවරණයක් මේ වර්ෂය තුලදී නොපැවැත්වෙන බවත් පාර්ලිමේන්තුව මෙම වසරේදී විසුරවා නොහරින බවත් කීය.
+Highways, Mass Media Clay Gunawardena says that the presidential election will be held in September 2024 to appoint a new president before the Constitution to be held in accordance with the Constitution.
+
+He was speaking at a press notice of Cabinet decisions held in the Government Information Department.
+
+The Minister said that the president has allocated for the presidential election and the budget has been allocated to the budget and that no parliamentary elections will not be dissolved this year.
 
 ◼️
 
 [Data](articles/8b4bc842.json)
+
+[Extended Data](ext_articles/8b4bc842.ext.json)
 
 ---
 
@@ -70,37 +118,49 @@ In addition, the victims and the injured were from the Hambantota Manjjawa area,
 
 ---
 
-### விபத்தில் ஒருவர் பலி, மூவர் காயம்
+### One killed in accident, trio injured
 
 *2024-07-24 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஒருவர்-பலி-மூவர்-காயம்/175-340939) · `ta`
 
-ஹம்பாந்தோட்டை - சூரிய வெவ 100 அடி வீதியில் மோட்டார் சைக்கிள் ஒன்றும் கடற்படைக்கு சொந்தமான கெப் ரக வாகனமொன்றும் நேருக்கு நேர் மோதியதில் ஒருவர் உயிரிழந்துள்ளார்.
+A fatal crash occurred in Hambantota between a motorcycle and a navy-owned vehicle, resulting in one death and three injuries. All involved were locals from the Hambantota Manjjawa area, treated at the Hambantota District Hospital.
 
-விபத்தில் மேலும் மூவர் காயமடைந்து ஹம்பாந்தோட்டை மாவட்ட ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக ஹம்பாந்தோட்டை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-மேலும் , உயிரிழந்தவர்கள் மற்றும் காயமடைந்தவர்கள் ஹம்பாந்தோட்டை மான்ஜ்ஜாவ பிரதேசத்தை சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர்.
+Hambantota - One person was killed when a motorcycle and a navy -owned keb vehicle collided head -on.
+
+Three more injured in the accident and admitted to the Hambantota District Hospital, Hambantota police said.
+
+In addition, the victims and the injured were from the Hambantota Manjjawa area, police said.
 
 ◼️
 
 [Data](articles/dcb5297b.json)
 
+[Extended Data](ext_articles/dcb5297b.ext.json)
+
 ---
 
-### අත්අඩංගුවට ගත් සැකකරුවෙකු  මුදා ගැනීමට පොලිස් නිලධාරීන්ට මරණීය තර්ජනය කරල
+### Police officers threatened to liberate suspect
 
 *2024-07-24 10:21:41* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-සැකකරුවෙකු--මුදා-ගැනීමට-පොලිස්-නිලධාරීන්ට-මරණීය-තර්ජනය-කරල/11-410959) · `si`
 
-කොළඹ ගෑන්ඩ්පාස්  ස්ටේට් පාර ලිපිනයේදී අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට ගත් සැකකරුවෙකු  මුදා ගැනීමට   පොලිස් නිලධාරීන් ට පිහියක් අමෝරා මරණීය තර්ජනය කර සැකකරු රැගෙන යාමට උත්සාහ කළ පුද්ගලයෙකු අත්අඩංගුවට ගත් බව ග්‍රෑන්ඩ්පාස්  පොලිසිය කියයි
+In Colombo, police surrounded a suspect linked to drug offenses. The suspect, along with his brother, attempted to escape but were cornered. The suspect threatened police with violence. Both, aged 26 and 38, will face charges in court.
 
-ග්‍රෑන්ඩ්පාස්  පොලිසියට අනුයුක්ත උප පොලිස් පරීක්ෂක ජීවන්ත නිලධාරියා ඇතුළු පොලිස් නිලධාරීන් කීප දෙනෙකු ලද තොරතුරක් අනුව එම නිවස වටලා මත්ද්‍රව්‍ය  සමග සැකකරු අත්අඩංගුවට ගැනීමෙන් අනතුරුව එම සැකකරු පොලිස් නිලධාරීන්ට ප්‍රතිවිරෝධය පාමින් රාජකාරියට බාධා කර කර පලායාමට උත්සාහ කර ඇති අතර එම අවස්ථාවේදී සැකකරුගේ සහෝදරයා වන සැකකරු පිහියක් රැගෙන එම ස්ථානයට පැමිණ උප පොලිස් පරීක්ෂකවරයාට මරණ තර්ජනය කර අත්අඩංගුවට ගත් සැකකරු රැගෙන යාමට  උත්සාහ දැරූ බව පොලිසිය සඳහන් කරයි
+🟩
 
-පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කිරීම තහනම් පීහියක් ළඟ තබා ගැනීම, සාපරාදී බිය ගැන්වීම නීත්‍යානුකූලව, අත්අඩංගුවේ සිටින සැකකරුවකු මුදාගැනීමට තැත් කිරීම සම්බන්ධයෙන් එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත
+The Grandpass police say that a man who has tried to carry the suspect and carry a man who was trying to carry the suspect in the address address of Colombo Gavas Stote road address.
 
-26,හා38 හැවිරිදි  සැකකාර සහෝදරයන් දෙදෙනා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය
+The suspect, including several police officers including the Grandpass Police, the suspect has been surrounded by the abuse with the drug with the narcotics and has attempted to flee the suspect, and the suspect's brother, the brother of the suspect, has taken a knife at the time.Police said that the suspect had threatened to carry the suspect and threatened to death and threatened to death.
+
+The suspects have been arrested in connection with the attempt to have a banned fever at the duties of the police
+
+26, and 38 year old suspects are to be produced before courts
 
 ◼️
 
 [Data](articles/245f8fd1.json)
+
+[Extended Data](ext_articles/245f8fd1.ext.json)
 
 ---
 
@@ -1132,23 +1192,31 @@ Despite the Bill’s enactment, experts in the field raised concerns and propose
 
 ---
 
-### දේශබන්දු තෙන්නකෝන් පොලිස්පති ධූරයේ කටයුතු කිරීම වළක්වාලමින් අතුරු නියෝගයක්
+### Deshabandu Tennakoon prevents a interim order from acting as IGP
 
 *2024-07-24 04:58:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp38d3788nmo) · `si`
 
-දේශබන්දු තෙන්නකෝන් පොලිස්පති ධූරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අද (ජුලි 24 වැනිදා) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+Deshabandu Tennakoon blocked an interim order allowing him to appoint the President as IGP, despite Supreme Court directives. The court, led by judges Yasantha Kodagoda, Achala Wijesinghe, and Mahinda Samayawardena, upheld a decision against Tennakoon, President Gotabaya Rajapaksa, and Speaker Mahinda Yapa Abeywardena. A case against them is pending. The judges will reconvene on November 11th.
 
-ඒ අනුව මෙම අතුරු තහනම් නියෝගය ක්‍රියාත්මක වන කාලසීමාව තුළ  පොලිස්පති තනතුර සඳහා නීතියට අනුකූලව සුදුසු අයෙකු නම් කිරීමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය විසින් ජනාධිපතිවරයාට නියම කරනු ලැබීය.
+🟩
 
-යසන්ත කෝදාගොඩ, අචල වෙංගප්පූලි සහ මහින්ද සමයවර්ධන යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝග ප්‍රකාශයට පත් කළේය.
+Deshabandu Tennakoon issued a ban on the Supreme Court today (July 24).
 
-දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා කාදිනල් අති උතුම් මැල්කම් රංජිත් හිමිපාණන් ඇතුළු පාර්ශවකරුවන් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 9 ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+Accordingly, the Supreme Court was appointed to the President to address the Inspector General of Police for the post of Inspector General of Police within the period of action.
 
-තීන්දුව ප්‍රකාශයට පත්කළමින් ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සභාපති විනිසුරු යසන්ත කෝදාගොඩ සඳහන් කළේ මෙම පෙත්සම් විභාගයේ දී පෙත්සම්කරුවන් විසින් අධිකරණය හමුවේ ප්‍රබල නඩු නිමිත්තක් තහවුරු කිරීමට සමත් වී තිබෙන බව ය.
+These orders announced the orders by Yasantha Kodagoda, Achala Vingappoley and Mahinda Samayawardena.
+
+The Supreme Court issued the order from the Supreme Court who was permitting to the appointment of Desirable Malcolm Ranjith to issue Deshabandu Tennakoon to appoint the President as IGP.
+
+The three-member panel of judges Judge Yasantha Kodagoda stated that the petitioners have been confirmed by the petitioners in the Petition.
+
+Accordingly, the Courts Commission has decided to hold a case against the President, Speaker Mahinda Yapa Abeywardena and Deshabandu Tennakoon, who had been named respondents of the petitions.
 
 ...
 
 [Data](articles/964e6b10.json)
+
+[Extended Data](ext_articles/964e6b10.ext.json)
 
 ---
 
@@ -2177,55 +2245,5 @@ The 'USS Michael Murphy' is to visit several areas in the island's importance to
 [Data](articles/d79f7e8c.json)
 
 [Extended Data](ext_articles/d79f7e8c.ext.json)
-
----
-
-### In the next few months, the people get big relief
-
-*2024-07-23 19:19:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-මාස-කිහිපයේදී-ජනතාවට-විශාල-සහන-ලැබෙනවා/11-410949) · `si`
-
-Minister Nalin Fernando announced economic policy benefits coming soon, emphasizing efforts to stabilize egg prices and address gas shortages. He highlighted his focus on food security and promised swift action on unresolved issues.
-
-🟩
-
-In the next few months, the people of this country are concessionary and the results of the policies that strengthen the economy are now, Minister Nalin Fernando said.
-
-The Minister made this statement participating at a program held at the Gampaha District Secretariat today (23), addressing a question raised by journalists.
-
-The Minister said that if the lower egg production would be reduced, the manufacturer should arrange to protect his products at the right price of the consumer.
-
-The Minister said that he had a responsibility regarding food security, and he had a problem with egg production, the minister said.
-
-Furthermore, the Minister has said that the company has a gas lack of gas in the market, the company has a gas company, and the company will discuss the customer with the company, and to take immediate action if the company cannot be resolved tomorrow.He added that action will be taken.
-
-◼️
-
-[Data](articles/0420d215.json)
-
-[Extended Data](ext_articles/0420d215.ext.json)
-
----
-
-### Doctor Ramanathan Arsuna becomes a medical officer to Peradeniya Hospital
-
-*2024-07-23 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189213) · `ta`
-
-Dr. Ramanathan Arsuna, previously the Medical Superintendent of Chavakachcheri Resource Hospital, has been appointed as the medical officer of Peradeniya Hospital. His appointment comes amid allegations of administrative issues and doctor shortages under his leadership at Chavakachcheri. Despite public frustration and ongoing investigations into his actions, Dr. Arsuna's move to Peradeniya has raised questions about accountability and transparency in Sri Lanka's healthcare system.
-
-🟩
-
-Dr. Ramanathan Arsuna, the Medical Superintendent of the Chavakachcheri Resource Hospital in Jaffna, has been appointed as the medical officer of the Peradeniya Hospital today.
-
-In recent days, he has been the Medical Superintendent of the Chavakachcheri Medical Road and has revealed various information on doctors' shortcomings and administrative disorders.. In this case, the issue has been issued as no inquiries have been made.
-
-Ramanathan Arsuna has been appointed as the Superintendent of Chavakachcheri Resource Hospital and the people have been frustrated by the appointment of the Peradeniya Hospital as the Medical Center has been appointed as the people of the area have been placed in the minds of the people of the area.
-
-In this regard, the doctor, Ramanathan Azuna, has stolen its medical administration and became a medical officer at the Peradeniya Teaching Hospital.. The department investigation is yet to be over.
-
-...
-
-[Data](articles/08eba975.json)
-
-[Extended Data](ext_articles/08eba975.ext.json)
 
 ---

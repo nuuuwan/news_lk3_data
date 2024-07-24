@@ -1,204 +1,108 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 08:25:12**
+As of **2024-07-24 07:49:16**
 
 ## Newspaper Stats
 
-*Scraped **36,903** Articles*
+*Scraped **36,896** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 322
 colombotelegraphcom | 349
-bbccomsinhala | 359
+bbccomsinhala | 358
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,203
 dailyftlk | 2,356
-adalk | 3,341
-adaderanalk | 4,272
-tamilmirrorlk | 4,523
+adalk | 3,340
+adaderanalk | 4,269
+tamilmirrorlk | 4,522
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,190
+adaderanasinhalalk | 6,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,892 (100.0%) of 36,903 articles have been extended.
+36,869 (99.9%) of 36,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### Sri Lanka central bank further reduces policy rates
-
-*2024-07-24 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100734/sri-lanka-central-bank-further-reduces-policy-rates) · `en`
-
-The Monetary Policy Board of the Central Bank of Sri Lanka has decided to reduce the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank by 25 basis points (bps) to 8.25 per cent and 9.25 per cent, respectively.
-
-The Board arrived at this decision, at its meeting held on 23 July 2024, following a careful assessment of the current and expected macroeconomic developments and possible risks and uncertainties on the domestic and global fronts with a view to maintaining inflation at the targeted level of 5 per cent over the medium term, while enabling the economy to reach its full capacity.
-
-In arriving at this decision, the Board considered the need to signal the continuation of the eased monetary policy stance, thereby inducing a further reduction in market lending rates to support economic activity, amidst a benign inflation outlook, the central bank said.
-
-...
-
-[Data](articles/1d706d69.json)
-
----
-
-### වතු කම්කරු වැටුප් වැඩි කිරීමේ ගැසට්ටුව අවලංගු කෙරේ
-
-*2024-07-24 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199144) · `si`
-
-වතු කම්කරු දෛනික වැටුප ඉහළ නංවමින් නිකුත් කර තිබූ ගැසට් නිවේදනය අවලංගු කරමින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
-
-ඒ අනුව රු 1,700 වතු කම්කරු දෛනික වැටුප් වැඩිවීම පඩිපාලක සභාව හරහා ගෙවීමට උපදෙස් ලබාදී ඇතැයි කම්කරු අමාත්‍යාංශය නිවේදනය කරයි.
-
-◼️
-
-[Data](articles/118c7e83.json)
-
----
-
-### Gazette increasing daily wage of plantation workers cancelled
-
-*2024-07-24 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100733/gazette-increasing-daily-wage-of-plantation-workers-cancelled) · `en`
-
-The Labour Ministry has issued a Gazette cancelling the previous Gazette notification issued increasing the daily wage of plantation workers to Rs. 1,700 and directing the payments to be made through the Wages Board.
-
-◼️
-
-[Data](articles/c1bdb904.json)
-
----
-
-### Notice on the results of the GCE O / L
+### සා පෙළ ප්‍රතිඵල ගැන දැනුම්දීමක්
 
 *2024-07-24 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199143) · `si`
 
-The GCE Ordinary Level exam results will be released in September 2023, after finalizing the answers from the last week. The next exam will take place in January and February.
+2023 වසරේ අපොස සාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵල එළැඹෙන සැප්තැම්බර් මාසයේ දී නිකුත් කිරීමට නියමිත බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා පැවසීය.
 
-🟩
+මේ වනවිට උත්තරපත්‍ර පරීක්ෂා කිරීමේ ප්‍රායෝගික පරීක්ෂණ අවසන් සතියේ ඇති බවත්, උත්තරපත්‍ර පරීක්ෂා කර අවසන් බැවින් විභාග දෙපාර්තමේන්තුවට සැප්තැම්බර් වන විට ප්‍රතිඵල ලබාදිය හැකි බවත් අමාත්‍යවරයා ﻿සඳහන් කළේය.
 
-Minister of Education Susil Premajayantha said that the GCE Ordinary Level examination will be issued in September 2023, said Minister of Education Susil Premajayantha said.
-
-The Minister stated that the results of the last week to check the answers have already been finalized and the number of Examinations Department will be able to bring results as of September.
-
-The Minister said that the next Ordinary Level will be held within the two months of January and February.
+2025 ජනවාරි සහ පෙබරවාරි යන මාස දෙක ඇතුළත මීළඟ සාමාන්‍ය පෙළ පැවැත්වීමට කටයුතු යොදා ඇති බව ද අමාත්‍යවරයා පැවසීය.
 
 ◼️
 
 [Data](articles/f368b694.json)
 
-[Extended Data](ext_articles/f368b694.ext.json)
-
 ---
 
-### Petitions against Chapter of Deshabandu today consider today
+### දේශබන්දුගේ පත්වීමට එරෙහි පෙත්සම් සලකා බැලීම අද
 
 *2024-07-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199142) · `si`
 
-Today, 24 petitions were filed against the Chapter of Deshabandu, including one by Malcolm Cardinal Ranjith. The Supreme Court is set to review them, possibly influenced by the recent announcement regarding an order. The case involves an interim injunction and the appointment of Deshabandu Tennakoon, with legal arguments presented by President's Counsel Romesh de Silva and Additional Solicitor General Nerin Pulle.
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස පත් කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් අද (24) යළි සලකා බැලීමට නියමිතව තිබේ.
 
-🟩
+එහි දී අදාළ පෙත්සම් විභාගයට ගැනීමට අවසර දෙන්නේ ද? නැද්ද? යන නියෝගය අද ප්‍රකාශයට පත්කරන බව ශ්‍රේෂ්ඨාධිකරණය පසුගිය දා ප්‍රකාශයට පත් කළේය.
 
-Petitions filed today (24) is due to be reviewed today (24).
+එමෙන්ම දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස කටයුතු කිරීම වළක්වාලන අතුරු තහනම් නියෝගයක් නිකුත් කරන්නේ ද යන්න අද ප්‍රකාශයට පත්කිරීමට නියමිත බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසුවේය.
 
-Is it possible to take the petitions to the examination?Not?The Supreme Court recently announced that the order would be announced today.
+මැල්කම් කාදිනල් රංජිත් හිමිපාණන් ඇතුළු පිරිසක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබේ.
 
-The Ada Derana is to be announced whether the interim injunction will prevent the interim injunction preventing Deshabandu Tennakoon.
+පොලිස්පතිවරයා ලෙස දේශබන්දු තෙන්නකෝන් මහතා පත්කිරීම බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනුකර තිබෙන අදාළ මූලික අයිතිවාසිකම් පෙත්සම් පසුගිය දා ශ්‍රේෂ්ඨාධිකරණය හමුවේ සලකා බැලුණි.
 
-These petitions have been submitted by Malcolm Cardinal Ranjith.
-
-The appointment of the fundamental rights petitions filed by the Supreme Court recently considered the fundamental rights petitions filed by the Inspector General of Plantless Relief.
-
-The petitions took place before the Supreme Court judge with Yasantha Kodagoda, Achala Vennapple and Mahinda Samayawardena.
-
-President's Counsel Romesh de Silva, who pointed out that the Constitutional Council is an independent institution outside the executive and the legislature, and requested the courts without the examination.
+යසන්ත කෝදාගොඩ, අචල වෙංගප්පූලි සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගේ සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් සලකා බැලීම සිදුවුණි.
 
 ...
 
 [Data](articles/f595f458.json)
 
-[Extended Data](ext_articles/f595f458.ext.json)
-
 ---
 
-### Two more suspects arrested over ‘Club Wasantha’ murder
-
-*2024-07-24 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100732/two-more-suspects-arrested-over-club-wasantha-murder) · `en`
-
-Sri Lanka Police said that two more suspects have been arrested for allegedly aiding and abetting the gunmen involved in the shooting and killing of two individuals including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’.
-
-The suspects, who had allegedly helped the killers to escape, have been arrested in the Athurugiriya and Battaramulla areas, police said.
-
-Police had also arrested a 21-year-old female on Sunday (21) on suspicion of being connected to the killing of ‘Club Wasantha’ at Athurugiriya recently.
-
-Police had previously arrested eight suspects including the owner of the tattoo studio in Athurugiriya where the shooting incident took place and a 21-year-old female on suspicion of having aided and abetted in the shooting incident.
-
-During the investigations carried out thus far, it has been revealed that the owner of the tattoo studio has received an amount of Rs. 1 million over a period of time.
-
-...
-
-[Data](articles/d34b3ffd.json)
-
----
-
-### Two suspects arrested in Club Wasantha murder
+### ක්ලබ් වසන්ත ඝාතනයේ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
 
 *2024-07-24 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199141) · `si`
 
-Two suspects, aged 26 and 36, were arrested for the murder of two individuals at Club Spring. They were apprehended by police from the Western Province Southern Province and are being investigated by the Western Province North Provincial Crimes Division and Athurugiriya Police. The suspects were linked to a T-56 firearm incident in Athurugiriya and had connections to an organized criminal group overseas via WhatsApp.
+ක්ලබ් වසන්ත ඇතුළු දෙදෙනෙකුට මරු කැඳවූ වෙඩිතැබීමට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
 
-🟩
+පොලීසිය පැවසුවේ බස්නාහිර පළාත් දකුණ අපාරාධ කොට්ඨාසයේ නිලධාරීන් විසින් එම සැකකරුවන් අත්අඩංගුවට ගත් බවය.
 
-Two suspects have been arrested for the shooting of kills of two, including Club Spring.
+පසුගිය ජූලි 8 වනදා අතුරුගිරිය පොලිස් වසමේ ටැටූ මධ්‍යස්ථානයක් තුළ දී ටී 56 ගිනිඅවිවලින් වෙඩිතබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කර තිබූ අතර එම වෙඩිතැබීමෙන් තවත් සිව්දෙනෙකු බරපතළ තුවාල ලැබීය.
 
-Police said that the suspects were arrested by the Western Province Southern Province officials.
+එම සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකිරීමේ දී ඊයේ (23) සවස අතුරුගිරිය හා බත්තරමුල්ල ප්‍රදේශවලදී එම අපරාධයට අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන අතුරුගිරිය පොලීසිය වෙත ඉදිරිපත් කර තිබේ.
 
-Two shot dead in T-56 Firearcuits were killed in a T-56 Firearculogies in Athurugiriya Police Division.
-
-Two suspects were arrested and submitted to the Athurugiriya Police in Athurugiriya and Battaramulla yesterday (23).
-
-One of the suspects were taken from a van to the Wellethhota area from Korathota area from the Koratatoal area.The bus was taken by bus through the highway from bus and the bus was hidden in the Sella Kataragama area.
-
-It has been revealed that the suspect had joined the WhatsApp with an organized criminal in a foreign country during the period.
-
-The suspects were 26-year-old and 36-year-old residents of Welipeni and Ahinlla.
-
-Western Province North Provincial Crimes Division and Athurugiriya Police are conducting further investigations.
-
-◼️
+...
 
 [Data](articles/88ef5181.json)
 
-[Extended Data](ext_articles/88ef5181.ext.json)
-
 ---
 
-### Next 24 Hours Be Care
+### ඉදිරි පැය 24 සැලකිලිමත් වන්න
 
 *2024-07-24 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199139) · `si`
 
-Strong winds and rough seas expected due to southwest monsoon over the next 24 hours. The Department of Meteorology warns against sailing in affected areas, advising caution especially for fishermen and naval communities.
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
 
-🟩
+අද (24) අලුයම 3ට නිකුත් කර ඇති අදාළ නිවේදනය ඉදිරි පැය 24 සඳහා බලපැවැත්වේ.
 
-The Department of Meteorology has issued a warning red announcement of the strong winds and the sea.
+සක්‍රීය නිරිතදිග මෝසම් කාලගුණය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශයේ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ ඉතා තද සුළං පැවතිය හැකි අතර මුහුද ඉතා රළු වේ.
 
-The announcement issued at 3 am today (24) is effective for the next 24 hours.
-
-The southwest monsoon weather can remain strong in the Sea area and the sea is very rough.
-
-The fishermen and the naval community informed the fishermen and the community not to be sailed until the red area of ​​the above map.
+ඉහත සිතියමේ රතු වර්ණයෙන් දැක්වෙන මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසට ධීවරයින්ට හා නාවික ප්‍රජාවට දැනුම් දෙයි.
 
 ◼️
 
 [Data](articles/8ed94363.json)
-
-[Extended Data](ext_articles/8ed94363.ext.json)
 
 ---
 
@@ -388,8 +292,6 @@ The proposal, presented by President Ranil Wickremesinghe in his capacity as Fin
 
 [Data](articles/998e8bb1.json)
 
-[Extended Data](ext_articles/998e8bb1.ext.json)
-
 ---
 
 ### ‘Films Sri Lanka’ to boost local cinema industry
@@ -405,8 +307,6 @@ On 29 April, the Cabinet discussed the proposal to establish the ‘National Fil
 ...
 
 [Data](articles/b329abf8.json)
-
-[Extended Data](ext_articles/b329abf8.ext.json)
 
 ---
 
@@ -424,8 +324,6 @@ The event opened with a welcome address by CPA Australia President, Board Chair,
 
 [Data](articles/27795cd5.json)
 
-[Extended Data](ext_articles/27795cd5.ext.json)
-
 ---
 
 ### Cabinet nod to gazette and table proposed State Asset Management Bill
@@ -441,8 +339,6 @@ On 17 October 2022, Cabinet approved identifying movable or immovable non-financ
 ...
 
 [Data](articles/c5c214a9.json)
-
-[Extended Data](ext_articles/c5c214a9.ext.json)
 
 ---
 
@@ -464,8 +360,6 @@ Under current provisions, taxpayers who are dissatisfied with a decision by the 
 
 [Data](articles/29ac37f2.json)
 
-[Extended Data](ext_articles/29ac37f2.ext.json)
-
 ---
 
 ### Cabinet approves tabling Port City Economic Commission order in Parliament
@@ -484,8 +378,6 @@ The strategic importance designation is anticipated to facilitate smoother opera
 
 [Data](articles/ac50a380.json)
 
-[Extended Data](ext_articles/ac50a380.ext.json)
-
 ---
 
 ### Rs. 300 m boost for handloom industry to empower women and youth
@@ -503,8 +395,6 @@ Noting that a combined project proposal was prepared to tackle these issues, he 
 ...
 
 [Data](articles/22fb42e5.json)
-
-[Extended Data](ext_articles/22fb42e5.ext.json)
 
 ---
 
@@ -525,8 +415,6 @@ During the height of the COVID-19 pandemic, the Health Ministry recommended crem
 ...
 
 [Data](articles/f3265aac.json)
-
-[Extended Data](ext_articles/f3265aac.ext.json)
 
 ---
 
@@ -550,8 +438,6 @@ Madduma Bandara said the SJB will join hands with Sinhala, Tamil, Muslim, Burghe
 
 [Data](articles/f677d8d7.json)
 
-[Extended Data](ext_articles/f677d8d7.ext.json)
-
 ---
 
 ### Shanakiyan calls for inquiry into news report on plot to assassinate him
@@ -567,8 +453,6 @@ Speaking in Parliament yesterday Rasamanickam urged the Parliament to conduct an
 ...
 
 [Data](articles/e50c8660.json)
-
-[Extended Data](ext_articles/e50c8660.ext.json)
 
 ---
 
@@ -589,8 +473,6 @@ Despite the Bill’s enactment, experts in the field raised concerns and propose
 ...
 
 [Data](articles/46c66c55.json)
-
-[Extended Data](ext_articles/46c66c55.ext.json)
 
 ---
 
@@ -716,39 +598,17 @@ Ramanathapuram police said that steps will be taken to bring the suspects in cou
 
 ---
 
-### பிக்குணி மாணவர்களுக்கு புலமைப் பரிசில்
-
-*2024-07-24 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்குணி-மாணவர்களுக்கு-புலமைப்-பரிசில்/175-340926) · `ta`
-
-3000  பிக்கு மாணவர்களுக்கு புலமைப்பரிசில் வழங்கும் நிகழ்வு இன்று பிற்பகல் 3.00 மணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் அலரி மாளிகையில் நடைபெறவுள்ளது.
-
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக் கருவின்படி செயற்படுத்தப்படும் பிரிவேனா மற்றும் பிக்குணி கல்வி நிறுவனங்களில் கல்வி கற்கும் பிக்குகள் மற்றும் சாதாரண மாணவர்களுக்காக ஜனாதிபதி நிதியத்தினால் புலமைப்பரிசில் வழங்கும் திட்டத்தின் கீழ் இந்தப் புலமைப் பரிசில் வழங்கப்படுகிறது.
-
-இதுவரை காலமும் பிரிவேன்களில் கற்கும் பிக்கு மாணவர்களை ஊக்குவிக்கும் புலமைப்பரிசில் திட்டங்கள் எதுவும் செயற்படுத்தப்படவில்லை என்பதோடு ஜனாதிபதியின் பணிப்புரையின் கீழ் நாடளாவிய ரீதியில் இந்த புலமைப்பரிசில் திட்டம் செயற்படுத்தப்படுவது விசேட அம்சமாகும். (a)
-
-◼️
-
-[Data](articles/33bea2bf.json)
-
----
-
-### Minister of State for Japan - Anura meets
+### ஜப்பான் இராஜாங்க அமைச்சர் - அனுர சந்திப்பு
 
 *2024-07-24 02:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-இராஜாங்க-அமைச்சர்-அனுர-சந்திப்பு/175-340925) · `ta`
 
-Anura Kumara Dissanayake, National People's Power President of Sri Lanka, met Japan's State Minister of Foreign Affairs during his visit. They discussed enhancing embassy and economic ties, building on their longstanding friendship.
+ஜப்பானுக்கு விஜயம் மேற்கொண்டுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க, அந்த நாட்டின் வெளிவிவகார இராஜாங்க அமைச்சரை சந்தித்துள்ளார்.
 
-🟩
-
-National People's Power President Anura Kumara Dissanayake, who has visited Japan, has met the State Minister of Foreign Affairs.
-
-The long -term friendship between the two countries has been discussed on the next step of embassy and economic relations.. (A)
+இருநாடுகளுக்கும் இடையிலான நீண்ட கால நட்புறவு, தூதரக மற்றும் பொருளாதார உறவுகளின் அடுத்தகட்ட நடவடிக்கை தொடர்பில் இதன்போது கலந்துரையாடப்பட்டுள்ளது. (a)
 
 ◼️
 
 [Data](articles/9d106223.json)
-
-[Extended Data](ext_articles/9d106223.ext.json)
 
 ---
 
@@ -778,29 +638,23 @@ The Minister of State has already been accused of involvement in the assassinati
 
 ---
 
-### Conspiracy to assassinate me
+### ’என்னை படுகொலை செய்ய சதி’
 
 *2024-07-24 02:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-படுகொலை-செய்ய-சதி/175-340924) · `ta`
 
-Batticaloa District MP of the Sri Lanka Tamil Nadu Party is concerned about a conspiracy to assassinate them, as reported by a foreign intelligence unit and mentioned by the Speaker of the Foreign Intelligence Agency on a website. The MP, Ira Sanakian, has addressed this in Parliament and written to the Speaker and the Inspector General of Police regarding the matter. The Minister of State has previously been implicated in other political assassinations, leading to calls for swift action from the Speaker.
+என்னை படுகொலை செய்வதற்கு இராஜாங்க அமைச்சர் ஒருவர் சதி செய்வதாக இணையத்தள செய்தித் சேவை ஒன்றில் வெளிநாட்டு புலனாய்வு அமைப்பை மேற்கோள் காட்டி வெளியிடப்பட்டுள்ள செய்தி தொடர்பில் சபாநாயகர் நடவடிக்கை எடுக்க வேண்டும் என இலங்கைத்தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. இரா.சாணக்கியன் வலியுறுத்தினார்.
 
-🟩
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23)  சிறப்புரிமைமீறல் பிரச்சினையை முன்வைத்தே இவ்வாறு வலியுறுத்திய இரா..சாணக்கியன் மேலும் பேசுகையில்,
 
-The Batticaloa District MP of the Batticaloa District of the Sri Lanka Tamil Nadu Party should take action in connection with the news that the Speaker of the Foreign Intelligence Agency quoted in a website service that a diplomatic minister was conspiring to assassinate me.. Ira Sanakian stressed.
+என்னை படுகொலை செய்வதற்கு இராஜாங்க அமைச்சர் ஒருவர் சதி செய்வதை வெளிநாட்டு புலனாய்வுப்பிரிவொன்று கண்டுபிடித்துள்ளதாக  இணையத்தள செய்தித் சேவை கடந்த 20 ஆம் திகதி செய்தி ஒன்றை வெளியிட்டுள்ளது.
 
-Speaking further, Ira Sanakiyan stressed the issue on Tuesday (23) in Parliament.
+இந்த விடயம் தொடர்பில் நான் சபாநாயகருக்கும் பொலிஸ்மா அதிபருக்கும் எழுத்து மூலம் அறிவித்துள்ளேன்.
 
-The Internet news service has issued a news report on the 20th that a foreign intelligence unit has found a conspiracy to assassinate me.
-
-I have written in writing to the Speaker and the Inspector General of Police on this issue.
-
-The Minister of State has already been accused of involvement in the assassination of the MP, the MP, and the alive Sunday attack.. Therefore, I urge the Speaker to take appropriate action in this regard.
+இதில் என்னை படுகொலை செய்வதற்கு சதி செய்வதாக   கூறப்பட்டுள்ள இராஜாங்க அமைச்சர் ஏற்கெனவே எம்.பி., படுகொலை மற்றும் உயிர்த்த ஞாயிறு தாக்குதலுடன் தொடர்பு பட்டவர் எனக்குற்றம் சாட்டப்பட்டவர். எனவே இந்த செய்தி தொடர்பில் உரிய நடவடிக்கைகளை எடுக்குமாறு சபாநாயகரிடம் வலியுறுத்துகின்றேன் என்றார்.
 
 ◼️
 
 [Data](articles/fd88aa1a.json)
-
-[Extended Data](ext_articles/fd88aa1a.ext.json)
 
 ---
 
@@ -827,28 +681,6 @@ It was discussed that if you eliminate the painful process on the thumb, more mo
 [Data](articles/6f2b7571.json)
 
 [Extended Data](ext_articles/6f2b7571.ext.json)
-
----
-
-### සා. පෙළ විෂය 6ක් වෙයි ද? පාසල් අධ්‍යාපනයෙන් සෞන්දර්ය බැහැර වෙයි ද? නව ප්‍රතිසංස්කරණ මොනවා ද?
-
-*2024-07-24 02:11:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg73d5y4ero) · `si`
-
-සා. පෙළ විෂය 6ක් වෙයි ද? පාසල් අධ්‍යාපනයෙන් සෞන්දර්ය බැහැර වෙයි ද? නව ප්‍රතිසංස්කරණ මොනවා ද?
-
-"අධ්‍යාපනය යනු ලෝකය වෙනස් කිරීමට භාවිත කළ හැකි වඩාත් බලවත් ම අවිය යි" - නෙල්සන් මැන්ඩෙලා"හෙට මැරෙන බව සිතා ජීවත් වන්න. සදාකාලිකව ජීවත් වන බව සිතා ඉගෙන ගන්න" - මහත්මා ගාන්ධි"වැඩි ම පොළියක් ලැබෙනු ඇත්තේ, අධ්‍යාපනය වෙනුවෙන් කරන ආයෝජනයකිනි" - බෙන්ජමින් ෆ්‍රෑන්ක්ලින්"තිබූ තැනක සොර සතුරන් ගත නොහෙනා - උගත මනා ශිල්පයමයි මතු රැකෙනා" - වදන් කවි පොත
-
-ඉහත සෑම උපුටනයකින් ම අවධාරණය කරනුයේ, අධ්‍යාපනය ලැබීමේ ඇති වැදගතකම පිළිබඳව ය.
-
-වර්තමානය වන විට අධ්‍යාපනය සම්බන්ධයෙන් ලෝකයේ පර්යේෂණ රැසක් සිදු කර ඇති අතර, බොහෝ දියුණු රටවල් දරුවන්ට සුදුසු අධ්‍යාපන ක්‍රම අනුගමනය කරමින් සිටී.
-
-ශ්‍රී ලංකාවේ අධ්‍යාපනය ක්‍රමය සම්බන්ධයෙන් දිගු කාලයක් තිස්සේ විවිධ විවේචන එල්ල වෙමින් තිබේ.
-
-බොහෝවිට ශ්‍රී ලංකාවේ අධ්‍යාපනය ක්‍රමය සම්බන්ධයෙන් එල්ල වන සුලභ චෝදනාවක් වනුයේ, දරුවන්ගේ නිර්මාණශීලීත්වය අගැයීම වෙනුවට ඔවුන්ගේ මතක ශක්තිය මැන බැලෙන අධ්‍යාපන ක්‍රමයක් ක්‍රියාත්මක වන බව ය.
-
-...
-
-[Data](articles/0ec56d10.json)
 
 ---
 
@@ -1054,8 +886,6 @@ The MoU was signed between John Keells Properties and Laundroplus (Pvt) Ltd on 2
 
 [Data](articles/9a342ecf.json)
 
-[Extended Data](ext_articles/9a342ecf.ext.json)
-
 ---
 
 ### ComBank’s Green Bond framework receives milestone SPO from Sustainable Fitch
@@ -1071,8 +901,6 @@ Upon announcing and publishing the SPO, Sustainable Fitch said: “We consider t
 ...
 
 [Data](articles/a1b19bdc.json)
-
-[Extended Data](ext_articles/a1b19bdc.ext.json)
 
 ---
 
@@ -1090,8 +918,6 @@ The Island Financial Island learns that CITC decision-makers from across the glo
 
 [Data](articles/e732adf4.json)
 
-[Extended Data](ext_articles/e732adf4.ext.json)
-
 ---
 
 ### Sustainable Development Council of Sri Lanka joins hands with Global Alliance for a Sustainable Planet
@@ -1105,8 +931,6 @@ The Memorandum of Understanding was signed between Satya Tripathi, Secretary Gen
 ...
 
 [Data](articles/b81a7954.json)
-
-[Extended Data](ext_articles/b81a7954.ext.json)
 
 ---
 
@@ -1123,8 +947,6 @@ In the retail market companies that mainly contributed to the turnover were; Dia
 ...
 
 [Data](articles/1e433fb4.json)
-
-[Extended Data](ext_articles/1e433fb4.ext.json)
 
 ---
 
@@ -1439,22 +1261,6 @@ The suspects have said that more than Rs.
 [Data](articles/ffc24f25.json)
 
 [Extended Data](ext_articles/ffc24f25.ext.json)
-
----
-
-### පොලීසියේ 47කට මාරු
-
-*2024-07-23 20:04:58* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-47කට-මාරු/11-410955) · `si`
-
-ප්‍රධාන පොලිස් පරීක්ෂකවරුන් සහ පොලිස් පරීක්ෂකවරුන් 47දෙනෙකුට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරු කිරීම හා පත්කිරීම් සිදුකර ඇතැයි පොලිස් මූලස්ථානය සඳහන් කරයි.
-
-ඒ අනුව ප්‍රධාන පොලිස් පරීක්ෂකවරුන් 24දෙනෙකුට හා පොලිස් පරීක්ෂකවරුන් 23දෙනෙකු සඳහා එම ස්ථාන මාරු කිරීම් සහ පත්කිරීම් සිදුකර ඇත.
-
-ජාතික පොලිස් කොමිෂන් සභාවේ ලේකම්ගේ 2024.07.22 දිනැති ලිපියේ සඳහන් අනුමැතිය පරිදි එම ස්ථාන මාරු කිරීම් සහ පත්කිරීම් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් වහාම ක්‍රියාත්මක කිරීමට නියෝග කර ඇත.
-
-◼️
-
-[Data](articles/03d7c1cf.json)
 
 ---
 
@@ -2156,8 +1962,6 @@ Accordingly, the Cabinet of Ministers has approved the proposal presented by the
 
 [Data](articles/3ff42b2f.json)
 
-[Extended Data](ext_articles/3ff42b2f.ext.json)
-
 ---
 
 ### Deleting Technology and Aesthetic subjects in GCE Advanced Level Examination - Sajith
@@ -2269,5 +2073,157 @@ Jayasekara had filed the relevant complaint before the Colombo District Court, c
 [Data](articles/35bd8dac.json)
 
 [Extended Data](ext_articles/35bd8dac.ext.json)
+
+---
+
+### Recovery of a man who went to the temple
+
+*2024-07-23 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189196) · `ta`
+
+A man named Selvanayagam Linges, 39, from Selvapuram, was found dead in the Dandamalai forest near Kokkattichcholai, Batticaloa. He had gone missing while visiting the Murugan Temple with his family. The police discovered his body based on reports and conducted an autopsy at the Batticaloa Teaching Hospital.
+
+🟩
+
+The body of a person from the Dandamalai forest area of ​​the Kokkattichcholai police division in Batticaloa has been recovered today (23), Kokkatichcholai police said.
+
+Selvanayagam Linges, the father of six children from Selvapuram, 39, was the recovery.
+
+The family was looking for him in the neighborhood of the temple last Sunday to the grandfather's Murugan Temple from his home.
+
+Police have recovered the body on the basis of reports that a body was found in the forest of the forest.
+
+In accordance with the directory of the Kokkadichcholai police, the sudden death investigator at the Batticaloa Teaching Hospital, Thambipillai Dhakumar, went to the scene and told the legal officer to conduct an anatomical examination after visiting the body.
+
+◼️
+
+[Data](articles/d3a2f343.json)
+
+[Extended Data](ext_articles/d3a2f343.ext.json)
+
+---
+
+### A young medicine of their homes worth the parents of their homes worth the parents
+
+*2024-07-23 16:34:30* · [`adalk`](https://www.ada.lk/breaking_news/දෙමාපියන්-නමින්-කෝටි-ගනණක්-වටිනා-තම-නිවෙස්-දේපල-දන්දුන්-තරුණ-වෛද්‍ය-යුවලක්/11-410938) · `si`
+
+The text mentions several individuals and locations related to Buddhism and Ayurvedic medicine in Sri Lanka. It includes references to Dr. Chanchka, Dr. Danushka, and Dr. Channasena, along with various centers such as the International Buddhist Center and the Ayurvedic Hospital. The narrative also touches upon events and contributions to Buddhism and Ayurvedic practices.
+
+🟩
+
+Peradeniya International Center for Dr. Chanchka Sri Sedhima International Buddhist Centers of Peranwatta, Panadeniya Road, Paladishka Road, Director of the Ayurvedic Hospital, England and its director Dr. Danushka Road, Paladhuka Road, Paladhuka Road, Palandeniya Road, Paladhuka Road, University of Peradeniya.Pandakawa Sri Lanka, Ven. Ven. Udarata Amarapura Sri Lanka (ADA) was held on the Pioneer Piyawala Piyawala Esala
+
+The Sri Jinasharanarama International Buddhist Center, Pannata, the Sri Jinasharama International Buddhist Center, has been named as the International Buddhist Center, Pannipitiya.
+
+Dr. Channasena has been presented to the Maha Nayaka Deed of Dr. Channasena, Minister of Julers' Panditha Ven
+
+The Dr. Mediathari, Ven. Medirigiriya Sasana Thera, Medirigiriya, Ven. Medirigiriya, Ven.
+
+In addition, Dr. Chanissena's wife, Dr. Danushka Green, was reportedly known as a number of billions of death in Kamburuwana, Matara.. (I J)
+
+◼️
+
+[Data](articles/fc589839.json)
+
+[Extended Data](ext_articles/fc589839.ext.json)
+
+---
+
+### Relief to those who put the gold items in banks
+
+*2024-07-23 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199128) · `si`
+
+President Ranil Wickremesinghe, as Finance Minister, approved a plan to offer annual interest subsidies up to 10% through Labu Banks, benefiting individuals storing gold items in banks.
+
+🟩
+
+The Cabinet proposal presented by President Ranil Wickremesinghe has been approved by President Ranil Wickremesinghe as the Minister of Finance to implement an appropriate program to providing an interest subsidy to the public by the Treasury.
+
+The interest subsidy is to be provided annually subject to a maximum of 10% annually to a maximum of 10% annually by Labi Banks on a single person basis.
+
+◼️
+
+[Data](articles/b7213566.json)
+
+[Extended Data](ext_articles/b7213566.ext.json)
+
+---
+
+### Sri Lanka to lease Beira Lake island to Gangarama Temple for tourist venture
+
+*2024-07-23 15:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-beira-lake-island-to-gangarama-temple-for-tourist-venture-173412/) · `en`
+
+ECONOMYNEXT – Bird Island, located on the Beira Lake in Sri Lanka’s financial district is to be leased to the Sri Jinarathana Vocational Technical Training Centre on a 50-year long term lease basis, Cabinet spokesman minister Bandula Gunawardena said.
+
+“Bird Island will be developed as a tourist attraction,” Gunawardena told reporters on Tuesday.
+
+A request was made by the Chief Incumbent of the Gangarama Temple to use the land to be developed as a tourist attraction place focusing cultural heritage, a cabinet statement said.
+
+The 143 perch island located on the southwest Beira Lake was transferred to the Urban Development Authority as a part of Colombo City Development Plan under the Beira lake Restoration Project in 2000.
+
+...
+
+[Data](articles/63007201.json)
+
+[Extended Data](ext_articles/63007201.ext.json)
+
+---
+
+### Yall. The new administration of the relative's association of the district missing
+
+*2024-07-23 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189187) · `ta`
+
+The District Association in Jaffna held elections, electing N. Marie Ranjini as Executive Secretary, Sivapadam Ilangodi as head, Gajendran as Deputy Secretary, and Vijayabama as treasurer. They aim to pursue justice for missing persons, urging international intervention.
+
+🟩
+
+Jaffna. The new executive selection of the District Association took place on Tuesday (23).
+
+N. Marie Ranjini as the Executive Secretary at the Kalathudhudu Hall on the main road in Jaffna and Sivapadam Ilangodi as the head. Gajendran was elected as the Deputy Secretary Puspalata and Vijayabama as the treasurer.
+
+He said that he would continue the journey to seek justice for the missing persons and that the international nations should take their own justice and get their own justice.
+
+◼️
+
+[Data](articles/75822e2c.json)
+
+[Extended Data](ext_articles/75822e2c.ext.json)
+
+---
+
+### Another case pertaining to the SLFP crisis tomorrow
+
+*2024-07-23 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199127) · `si`
+
+Minister Lasantha Alagawanna faces suspension pending his intervention in a complaint by MP Dayasiri Jayasekara regarding disciplinary action against himself as SLFP General Secretary. The Colombo District Court issued this order.
+
+🟩
+
+Does the decision of Minister Lasantha Alagawanna to be suspended until the decision made by Minister Lasantha Alagawanna to intervene to intervene in the complaint made by MP Dayasiri Jayasekara?Not?The Colombo District Court today (23) ordered the Colombo District Court today.
+
+Dayasiri Jayasekera had lodged a complaint with the decision taken by the party to take disciplinary action against himself as the General Secretary of the SLFP.
+
+◼️
+
+[Data](articles/c7c62f02.json)
+
+[Extended Data](ext_articles/c7c62f02.ext.json)
+
+---
+
+### S/The Graduate: Action Notification Released
+
+*2024-07-23 15:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பெறுபேறு-அதிரடி-அறிவிப்பு-வெளியானது/175-340896) · `ta`
+
+Dr. Susil Prema Jayantha announced that the Department of Examinations will release the results of the 2023/2024 Education General Level Examination in September.
+
+🟩
+
+Minister of Education, Dr. Susil Prema Jayantha, said that the Department of Examinations is ready to issue the results of the 2023/2024 Education General Level Examination in September.
+
+◼️
+
+[Data](articles/48c177de.json)
+
+[Extended Data](ext_articles/48c177de.ext.json)
 
 ---

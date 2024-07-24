@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 02:54:11**
+As of **2024-07-25 03:05:28**
 
 ## Newspaper Stats
 
-*Scraped **37,065** Articles*
+*Scraped **37,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,220
 dailyftlk | 2,358
 adalk | 3,366
 adaderanalk | 4,290
-tamilmirrorlk | 4,556
+tamilmirrorlk | 4,558
 dailymirrorlk | 4,733
 virakesarilk | 5,816
 adaderanasinhalalk | 6,222
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,065 (100.0%) of 37,065 articles have been extended.
+37,065 (100.0%) of 37,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### ’250 மீனவர்கள் கைது; நடவடிக்கை தேவை’
+
+*2024-07-25 01:12:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-மீனவர்கள்-கைது-நடவடிக்கை-தேவை/175-340984) · `ta`
+
+இந்த ஆண்டு ஜனவரி முதல் தற்போது ஜூலை 22-ம் நாள் வரை மட்டும் இந்திய மீனவர்கள் 250 பேர் இலங்கைக் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர். கடந்த 10 ஆண்டுகளில், ஆண்டொன்றில் மேற்கொள்ளப்பட்ட மிக அதிகபட்ச கைது எண்ணிக்கை இதுவாகுமென தமிழக முதல்வர் ஸ்டாலின் சுட்டிக்காட்டியுள்ளார்.
+
+“இலங்கைக் கடற்படையினரால் சிறைபிடிக்கப்பட்டுள்ள மீனவர்களையும், அவர்களது மீன்பிடிப் படகுகளையும் உடனடியாக விடுவித்திட நடவடிக்கை எடுக்க வேண்டும்” என்றும் வலியுறுத்தி வெளியுறவு அமைச்சர் ஜெய்சங்கருக்கு கடிதம் எழுதியுள்ளார்
+
+மீனவர்கள் இதுபோன்று அச்சுறுத்தப்படுவதும், கைது செய்யப்படுவதும் மற்றும் அவர்களது மீன்பிடிப் படகுகள், கருவிகள் பறிமுதல் செய்யப்படுவதும் தொடர்ந்து தடையின்றி நடைபெற்று வருகிறது. இதனால் மீனவ மக்கள் மிகுந்த மன உளைச்சலுக்கு ஆளாகியுள்ளனர்.
+
+...
+
+[Data](articles/d7d5bde6.json)
+
+---
 
 ### Exchange apologies will not be solved
 
@@ -53,6 +69,24 @@ Although he was born into a comfortable family. He learned in the field of engin
 [Data](articles/5366a135.json)
 
 [Extended Data](ext_articles/5366a135.ext.json)
+
+---
+
+### யாருக்கு இனி கடிதம் எழுதுவது?
+
+*2024-07-25 00:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-இனி-கடிதம்-எழுதுவது/175-340982) · `ta`
+
+என்னுடைய பாதுகாப்பு தொடர்பில், யாருக்கு இனி நான் கடிதம் எழுதுவது என, இலங்கை தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. யான இரா.சாணக்கியன், பாராளுமன்றத்தில்  கேள்வி எழுப்பினார்
+
+என்னைக்கொல்ல சதி நடப்பதாக தகவல்கள் வெளிவந்துள்ள நிலையில் என்னுடைய பாதுகாப்பு விடயம் தொடர்பாக நான் பொலிஸ்மா அதிபரிடம் செவ்வாய்க்கிழமை (23) கடிதம் கையளித்தேன்  ஆனால் அவர் இன்று புதன்கிழமை (24 ) பதவியில் இருந்து இடைநிறுத்தப்பட்டுள்ளார் .
+
+ஜனாதிபதித் தேர்தலை ஒத்திவைக்கும் முயற்சி பலிக்காது என்பது  ஜனாதிபதியின் விருப்பத்துக்கு அமைய நியமிக்கப்பட்ட பொலிஸ்மா அதிபரின் நியமனத்திற்கு உயர் நீதிமன்றம் இடைக்கால தடைவிதித்ததன் மூலம் உறுதிப்படுத்தப்பட்டுள்ளது என்றார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) விசேட கூற்றை முன்வத்து உரையாற்றிய போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/6888bbd2.json)
 
 ---
 
@@ -2361,53 +2395,5 @@ The Sri Lanka Women's Cricket Team was among the Victory of the Sri Lanka Women'
 [Data](articles/1fb801d5.json)
 
 [Extended Data](ext_articles/1fb801d5.ext.json)
-
----
-
-### Revolver rifle was recovered and handed over to Kalmunai Police
-
-*2024-07-24 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189240) · `ta`
-
-A German-made revolver rifle, discovered buried in a plastic tube on a beach, was turned over to the Kalmunai Police headquarters. The weapon, found with two bullets, remains unconnected to any suspects as investigations continue.
-
-🟩
-
-A rich rifle rifle, which was buried in a plastic tube on the beach, has been recovered and handed over to the Kalmunai headquarters police.
-
-The gun has been found by the players and handed over to the police on Tuesday evening.
-
-The gun is found in the operating system with 2 bullets (Revolveur) and is produced in Germany, police said.
-
-In addition, no suspects have been arrested in connection with the recovered gun and further investigations are being carried out by the Kalmunai headquarters.
-
-◼️
-
-[Data](articles/208c40b8.json)
-
-[Extended Data](ext_articles/208c40b8.ext.json)
-
----
-
-### Dayasiri Jayasekera's decision is postponed
-
-*2024-07-24 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199154) · `si`
-
-Maithripala Sirisena's plan to discipline SLFP Chairman Dayasiri Jayasekera is delayed due to an interim injunction from the Colombo District Court. The court, responding to a request from SLFP Treasurer Lasantha Alagiyawanna, will reconsider its stance on the matter, summoning relevant parties back on March 31st.
-
-🟩
-
-Maithripala Sirisena's decision to issue disciplinary action against the SLFP Chairman and Parliamentarian Dayasiri Jayasekera, the decision of the party, the party's decision, is on the interim injunction orderThe Colombo District Court today (24) ordered the Colombo District Court today.
-
-Sri Lanka Freedom Party Treasury Minister Lasantha Alagiyawanna had requested the court yesterday (23) to intervene in this case.
-
-The District Judge stated that he had to declare his decision, said that they have the right to intervene in this case.
-
-Accordingly, the District Judge issued to file protests in relation to the case was ordered to be summoned back on 31 at 31.
-
-◼️
-
-[Data](articles/6b2cded1.json)
-
-[Extended Data](ext_articles/6b2cded1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 20:06:55**
+As of **2024-07-24 20:20:34**
 
 ## Newspaper Stats
 
-*Scraped **37,041** Articles*
+*Scraped **37,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ adaderanalk | 4,288
 tamilmirrorlk | 4,550
 dailymirrorlk | 4,733
 virakesarilk | 5,812
-adaderanasinhalalk | 6,216
+adaderanasinhalalk | 6,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,034 (100.0%) of 37,041 articles have been extended.
+37,041 (100.0%) of 37,042 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### இலங்கையில் இடைநிறுத்தப்பட்ட 11 அபிவிருத்தித்திட்டங்களை மீள ஆரம்பித்தது ஜப்பான் : திறைசேரியின் செயலாளரிடம் கடிதம் கையளிப்பு
+### විශ්‍රාමිකයන්ට රු 3000ක විශේෂ මාසික දීමනාවක්
+
+*2024-07-24 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199172) · `si`
+
+රාජ්‍ය සේවයේ විශ්‍රාමිකයන් සඳහා රුපියල් 3000ක විශේෂ මාසික දීමනාවක් ලබාදීමට අද (24) රැස්වූ කැබිනට් මණ්ඩලයේදී අනුමත කළ බව අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+ඒ අනුව මෙම විශේෂ මාසික දීමනාව 2024 සැප්තැම්බර් මස සිට වැටුප් විෂමතා නිවැරදි කරන තෙක් ගෙවීමට නියමිතය.
+
+"රාජ්‍ය සේවයේ වැටුප් විෂමතා සම්බන්ධයෙන් වෙනම කමිටුවක් පත් කරලා තිබෙනවා. සෑම ක්ෂේත්‍රයකම තිබෙන වැටුප් විෂමතා එකවර විසඳන්න තමයි කමිටුව පත් කළේ. ඒ අතරතුර ඒ කමිටුවේම අදහසක් අනුව තමයි මේ කටයුතු සම්පූර්ණ වෙනකම් විශ්‍රාමිකයන්ට සැප්තැම්බර් මාසයේ සිට රුපියල් 3000ක දීමනාවක් දෙන්න තීරණය කළේ. ලක්ෂ 7කට විතර ඒ ප්‍රතිලාභය ලැබෙනවා."
+
+◼️
+
+[Data](articles/a2aa1b73.json)
+
+---
+
+### Japan: The letter to the Secretary of the Treasury
 
 *2024-07-24 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189302) · `ta`
 
-இலங்கையில் ஜப்பானின் கடன் திட்டங்களுக்கான பணக்கொடுப்பனவை மீண்டும் தொடங்குவதற்கான அதன் முடிவை உத்தியோகபூர்வமாக அறிவித்தது
+Japan has restarted its yen loan schemes for Sri Lanka, aiming to bolster the island nation's economy post-debt repayment issues. This move was announced during a joint press conference involving the Sri Lankan government, the Japanese Embassy, and JICA, highlighting Japan's commitment to supporting Sri Lanka's economic recovery. Ambassador Mizukoshi Hideaki emphasized Japan's role in facilitating Sri Lanka's debt restructuring and praised the country's ongoing reform efforts. The resumption of these loans is expected to enhance the bilateral relationship and pave the way for Sri Lanka's economic resurgence.
 
-உத்தியோகபூர்வ கடன் வழங்கும் குழுவிற்கும் (OCC) இலங்கைக்கும் இடையிலான புரிந்துணர்வு ஒப்பந்தம் (MOU) கையொப்பமிடப்பட்டதைத் தொடர்ந்தும், கடன் மறுசீரமைப்பு தொடர்பான இருதரப்பு உடன்படிக்கையை விரைவாக முடிப்பதற்கு இலங்கை அரசாங்கம் விருப்பம் தெரிவித்ததைத் தொடர்ந்தும், 2022 ஆம் ஆண்டு இலங்கையின் கடனைத் திருப்பிச் செலுத்தாததிலிருந்து இடைநிறுத்தப்பட்ட ஜப்பானின் நிதியிலான கடன் திட்டங்களுக்கான பணக்கொடுப்பனவை மீண்டும் தொடங்க ஜப்பான் அரசாங்கம் உத்தியோகபூர்வமாக முடிவு செய்துள்ளது.
+🟩
 
-ஜூலை 24 அன்று, இலங்கை அரசாங்கம், ஜப்பான் தூதரகம் மற்றும் ஜப்பான் சர்வதேச ஒத்துழைப்பு முகவர் (JICA) இலங்கை அலுவலகம் ஆகியவை இணைந்து இந்த முடிவை நிதி அமைச்சில் ஆரம்பித்து வைப்பதற்காக கூட்டாக செய்தியாளர் மாநாட்டை நடத்தியது.
+Officially announced its decision to resume money laundering for Japan's loan schemes in Sri Lanka
+
+The Japanese government has resumed the launch of the Japanese Fund Loan Schemes since the lack of repayment of Sri Lanka's debt in 2022, despite the signing of the Memorandum of Understanding (MOU) between Sri Lanka and Sri Lanka, and the Sri Lankan government's desire to complete the bilateral agreement on debt restructuring quickly.
+
+On July 24, the Sri Lankan government, the Japanese Embassy and the Japanese International Cooperation Agency (JICA) office held a joint press conference to launch the decision at the Ministry of Finance.
+
+Ambassador Mizukoshi Hideaki, who congratulated Sri Lanka and OCC on the end of the Memorandum of Understanding (MOU), has made the Japanese government's effort and best contribution to the end of the public debt restructuring as co -chair of the OCC.
 
 ...
 
 [Data](articles/873b02c3.json)
+
+[Extended Data](ext_articles/873b02c3.ext.json)
 
 ---
 
@@ -66,19 +90,27 @@ The agreement with the Capital Market Development Authority of Maldives (CMDA) p
 
 ---
 
-### பழைய செம்மலை நீராவியடி பொங்கல் நிகழ்வில் ஆலய வளாகத்தில் சிவலிங்கம் வைப்பு - வதந்தியை நம்பி நீதிமன்றத்தை நாடிய பொலிஸார்!
+### Sivalingam deposit at the temple premises at the old Semmalai Steam Pongal event
 
 *2024-07-24 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189301) · `ta`
 
-முல்லைத்தீவு பழைய செம்மலை நீராவியடி பிள்ளையார் ஆலய வருடாந்த பொங்கல் நிகழ்வு புதன்கிழமை (24) இடம்பெற்றுவரும் நிலையில் கொக்குளாய் பொலிஸார் இந்த பொங்கல் நிகழ்வுக்கு எதிராக முல்லைத்தீவு நீதிமன்றை நாடியுள்ளனர்.
+The Kokkulai police have filed a case against the Semmalai Uvarayadi Pillaiyar Temple in Mullaitivu over a 17-foot Shivalingam installed there for the Pongal event. The Archaeological Department also raised concerns. The Mullaitivu Magistrate's Court has ordered both parties to comply with its directives regarding the statues. False news about the event has sparked tensions between communities.
 
-தொல்லியல் திணைக்களத்துக்கு கிடைத்த இரகசிய தகவலுக்கு அமைவாக இன்று இடம்பெறும் நீராவியடி பிள்ளையார் ஆலய பொங்கல் நிகழ்வில் ஆலய வளாகத்தில் 17 அடி சிவலிங்கம் ஒன்று நிறுவப்படவுள்ளதாக தகவல் கிடைத்துள்ளதாக இதனை நிறுத்துமாறு கோரி கொக்குளாய் பொலிஸ் நிலையத்தில் தொல்லியல் திணைக்களத்தால் நீராவியடி பிள்ளையார் ஆலய நிர்வாகத்துக்கு எதிராக முறைப்பாடு ஒன்று செய்யப்பட்டுள்ளது.
+🟩
 
-இதனையடுத்து இன்றையதினம் முல்லைத்தீவு நீதவான் நீதிமன்றில் கொக்குளாய் பொலிஸ் நிலைய பொறுப்பதிகாரியால் நீராவியடி பிள்ளையார் ஆலய பூசகர் மற்றும் நிர்வாகத்தினருக்கு எதிராக வழக்கு ஒன்றினை தாக்கல் செய்து குறித்த பொங்கல் நிகழ்வில் புதிதாக சிலைகள் வைப்பதை தடை செய்யுமாறும் புதிய கட்டுமானங்களை செய்வதை தடை செய்யுமாறும் விண்ணப்பம் செய்யப்பட்டுள்ளது.
+The Kokkulai police have sought the Mullaitivu court against the Pongal event as the annual Pongal event of the old Semmalai Uvarayadi Pillaiyar Temple in Mullaitivu is being held on Wednesday (24).
+
+A complaint has been lodged with the Archaeological Department of Archeology by the Archeology Department by the Archeology Department, demanding that a 17 -foot Shivalingam has been established at the temple premises at the Uraviyadi Pillaiyar Temple Pongal event, which is being held today.
+
+Subsequently, the Mullaitivu Magistrate's Court has filed a lawsuit against the Kokkulai Police Station in charge of the Kokkulai Police Station and filed a case against the Pillaiyar temple priest and the administration.
+
+The court has already issued an order on the temple issue and pointed out that the police can take action if the Steam Pillaiyar Temple and the Buddhist Vihara will maintain the new statues and the two sides can not violate the court order.
 
 ...
 
 [Data](articles/e3965c82.json)
+
+[Extended Data](ext_articles/e3965c82.ext.json)
 
 ---
 
@@ -260,57 +292,89 @@ About 30 people were attacking a person a short distance from where I was standi
 
 ---
 
-### தபால் மூல வாக்களிப்புக்கு ஊடகவியலாளர்களுக்கும் அனுமதியளிக்க வேண்டும் - ஊடகத்துறை அமைச்சு
+### Postal voting should also be allowed by journalists - Ministry of Media
 
 *2024-07-24 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189281) · `ta`
 
-ஜனாதிபதித் தேர்தலில் ஊடகவியலாளர்களுக்கும் தபால் மூல வாக்களிப்புக்கு அனுமதி வழங்க வேண்டும்.தேர்தல்கள் ஆணைக்குழு இவ்விடயம் குறித்து விசேட கவனம் செலுத்த வேண்டும் என ஊடகத்துறை இராஜாங்க அமைச்சர் சாந்த பண்டார சபையில்  வலியுறுத்தினார்.
+Minister Santha Bandara advocates for postal voting rights for journalists ahead of the upcoming presidential election, highlighting the need for the Elections Commission to address this issue promptly.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) நடைபெற்ற அமர்வின்போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தல் எதிர்வரும் ஓரிரு மாதங்களில் நடைபெறவுள்ளது.தேர்தல் காலங்களில் ஊடக நிறுவனங்களில் பணிபுரியும் ஊழியர்களுக்கு வாக்குரிமை மறுக்கப்படுகிறது.நாட்டில் 17 பதிவு செய்யப்பட்ட தொலைக்காட்சி சேவைகள் உள்ளன. அதேபோல் 52 வானொலி அலைவரிசை மற்றும் தொலைக்காட்சி சேவைகள் உள்ளன.
+The Minister of State for Media Santha Bandara urged the Elections Commission to pay special attention to the issue.
 
-தேர்தல் காலத்தில் ஊடகவியலாளர்கள் செய்தி அறிக்கை மற்றும் ஒளிபரப்பு பணிகளில் ஈடுபடுவதால் அவர்களுக்கு வாக்களிப்பதற்கான வாய்ப்பு மறுக்கப்படுகிறது. ஆகவே அங்கீகரிக்கப்பட்ட அடையாள அட்டை உள்ள ஊடகவியலாளர்களுக்கு தபால் மூல வாக்களிப்புக்கு அனுமதி வழங்க வேண்டும்.
+He was speaking at a special statement during a session held in Parliament on Wednesday (24).
 
-...
+The presidential election will be held in the next two months.. There are 52 radio bandwidth and television services.
+
+During the election period, journalists are denied the opportunity to vote because they engage in news reports and broadcasting work. Therefore, journalists with approved ID card should be given permission for postal voting.
+
+The Elections Commission should pay special attention to this. We are presenting this idea through Parliament.
+
+◼️
 
 [Data](articles/8f5b6224.json)
 
+[Extended Data](ext_articles/8f5b6224.ext.json)
+
 ---
 
-### தமிழ் மக்களிற்கான சுயாட்சி தீர்விற்காக மக்கள் போராட்ட முன்னணி போராடும் -   -  தமிழர்களை தேசிய இனமாக அங்கீகரித்தல் அவர்களுக்கான சுயாட்சி என்பவை தான் எமது நிலைப்பாடு..  -ரஜீவ்காந்
+### The people's struggle will fight for the autonomy of the Tamil people - our position is the recognition of Tamils ​​as a national race.. -Rajivkan
 
 *2024-07-24 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189289) · `ta`
 
-சுயாட்சியுடன் கூடிய , ஒற்றைய ஆட்சியை நிராகரிக்கி;ன்ற,அலகுகளை உருவாக்குவோம் என்ற வாக்குறுதியோடு,மக்கள் போராட்ட முன்னணி இந்த அரசியல் களத்தில் குதித்திருக்கின்றது என தெரிவித்துள்ள  மக்கள் போராட்ட முன்னணியின் செயற்பாட்டாளர் ராஜ்குமார் ரஜீவ்காந் சுயாட்சிக்காக தொடர்ந்தும் போராடுவோம் எனவும் தெரிவித்துள்ளார்
+Rajkumar Rajeev Khan, a leader of the People's Movement, emphasizes the need for Tamil autonomy, criticizing the oppression faced by Tamils, particularly in the Northeast of Sri Lanka. He highlights the historical injustices, including mass killings and disappearances, and criticizes political hypocrisy towards the Tamil community. The People's Struggle aims to address these issues through political action, advocating for autonomous units and land rights, while also addressing the misuse of archaeology to seize Tamil lands.
 
-அரகலய போராட்ட குழுவான மக்கள் போராட்ட முன்னணியாழ்ப்பாணத்தில் நடத்திய செய்தியாளர் மாநாட்டில் இதனை தெரிவித்துள்ள அவர் மேலும் குறிப்பிட்டுள்ளதாவது
+🟩
 
-வடக்குகிழக்கில் பிறந்து வளர்ந்து வடக்குகிழக்கினது ஒடுக்குமுறைகளை மிக மோசமாக சந்தித்தவன் என்ற வகையிலே எங்களது அரசியல் பிரச்சினைகள்,இன்று வரை தீராமலிருக்கின்றது என்ற வருத்தம் இன்றுவரை எங்களிற்கு இருக்கின்றது.
+Rajkumar Rajeev Khan, the activist of the People's Movement, said that the people's struggle's leading political arena has jumped into this political arena, with the promise of an autonomous, rejecting a single rule and creating units.
 
-குறிப்பாக இன்று கருப்பு ஜூலை தினம்,1983ம் ஆண்டு கொத்துகொத்தாக தமிழ் மக்கள் தலைநகரில் எந்தவிதகரிசனையும் இல்லாமல்,கொல்லப்பட்டிருந்தார்கள்.
+He said this at a press conference held at the Front of the People's Struggle
+
+To this day we have regret that our political issues have been resolved to this day, as they are born in the North East and have been very badly met with the oppression of the North East.
+
+Today, the Tamil people were killed in the capital of 1983, especially in 1983, without any science.
+
+How many thousands of murders, violence and disappearance have been committed against the Tamil people.
+
+At this time, how many parties from the South are coming north, they will say something about what they are going to give to the Tamil people, and they will say something else in the South.
+
+There, Sinhala politicians continue to adhere to racism and the tactic for voting here.
 
 ...
 
 [Data](articles/b4d8e7bf.json)
 
+[Extended Data](ext_articles/b4d8e7bf.ext.json)
+
 ---
 
-### முஸ்லிம்களின் காலில் விழுந்து மன்றாடினாலும் மன்னிக்க முடியாது - இம்ரான் மஹ்ரூப்
+### Even if Muslims fall on their feet, I cannot forgive - Imran Mahroof
 
 *2024-07-24 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189279) · `ta`
 
-கொவிட் தாக்கத்தினால் உயிரிழந்த முஸ்லிம்களின் ஜனாஸாக்கள் பலவந்தமான முறையில் தகனம் செய்யப்பட்டமைக்கு மன்னிப்புக் கோருவது வெறும் கண் துடைப்பாகும்.ஒவ்வொரு முஸ்லிம்களின் காலில் விழுந்து மன்றாடினாலும்  மன்னிக்க முடியாது.எமது மக்கள் மிக தெளிவாக உள்ளார்கள் என  ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் இம்ரான் மஹ்ரூப் தெரிவித்தார்.
+Imran Mahroof, addressing a parliamentary debate, expressed deep resentment over the forced cremations of Muslims who died from COVID-19, highlighting the psychological impact on the community. He criticized the government, particularly ministers Ali Sabri, Vijayadasa Rajapaksa, and Jeevan Thondaman, for approving policies deemed disrespectful to Muslim burial practices. The incident, involving 276 victims, was condemned as a violation of human rights, despite a High Court ruling against such actions. This issue has strained relations between the government and the Muslim community, with the President denying any involvement, further fueling tensions.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24)  இடம்பெற்ற  செயற்கை நுண்ணறிவு தொழில்நுட்பம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கொவிட் பெருந்தொற்று தாக்கத்தில் உயிரிழந்த முஸ்லிம் சமூகத்தின் உடல்கள் பலவந்தமான முறையில் தகனம் செய்யப்பட்டமையால் முஸ்லிம் சமூகத்தின் மனங்கள் பாதிக்கப்பட்டுள்ளன.
+It is a mere eyewitness to apologize for the cremation of the Muslims who died due to the Kovit's impact.
 
-இதற்கு மன்னிப்பு கோரும் வகையில் அமைச்சர்களான அலி சப்ரி,விஜயதாஸ ராஜபக்ஷ மற்றும் ஜீவன் தொண்டமான் ஆகியோர் கூட்டாக சமர்ப்பித்த அமைச்சரவை பத்திரத்துக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளமை தற்போது பரவலாக பேசப்படுகிறது.
+He said this while addressing the debate on the postponement of the Artificial Intelligence Agency on Wednesday (24) in Parliament.
+
+The minds of the Muslim community have been affected by the cremation of the bodies of the Muslim community that died in the influence of the Govt.
+
+It is widely reported that the Cabinet has approved the Cabinet paper submitted jointly by ministers Ali Sabri, Vijayadasa Rajapaksa and Jeevan Thondaman.
+
+All the three ministers submitted by the Cabinet of Cabinet have been the partners of the government that day.
+
+They act to deceive the people in the event of an election. They must understand that the Muslim community is clear.
+
+Of the casualties of the Kovit, 276 Muslims of the Janasas have been forcibly cremated. So the entire Muslims were shed.
 
 ...
 
 [Data](articles/4f0042fd.json)
+
+[Extended Data](ext_articles/4f0042fd.ext.json)
 
 ---
 
@@ -358,21 +422,27 @@ Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-
 
 ---
 
-### கொழும்பு துறைமுகத்தை வந்தடைந்த அமெரிக்க கடற்படைக் கப்பல் மைக்கேல் மர்பி
+### US Navy ship Michael Murphy arrived in Colombo port
 
 *2024-07-24 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189282) · `ta`
 
-அமெரிக்க கடற்படையைச் சேர்ந்த யுஎஸ்எஸ் மைக்கல் மர்பி (USS Michael Murphy) என்ற கப்பல் உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு நேற்று செவ்வாய்க்கிழமை (23) கொழும்பு துறைமுகத்துக்கு வந்துள்ளது.
+The USS Michael Murphy, a 155-meter long anti-missile ship manned by 323 personnel, docked at Colombo's port yesterday under traditional naval greetings from the Sri Lankan navy. The ship's captain, Jonathan B. Greenwald, met with Rear Admiral Cindaka Kumarasinghe at the Western Navy's headquarters.
 
-155 மீற்றர் நீளமுள்ள, இந்த ஏவுகணை எதிர்ப்பு கப்பல் 323 பேர் கொண்ட குழுவினரால் நிர்வகிக்கப்படுகிறது.
+🟩
 
-கொழும்புக்கு வருகை தந்த கப்பலை இலங்கை கடற்படையினர்  பாரம்பரிய கடற்படை மரபுக்களுக்கமைய வரவேற்றனர்.
+USS Michael Murphy, a USS Michael Murphy, arrived at the Port of Colombo yesterday (23).
 
-கப்பலின் கேப்டன் ஜொனாதன் பி. கிரீன்வால்ட் மேற்கு கடற்படை கட்டளை தளபதி ரியர் அட்மிரல் சிந்தக குமாரசிங்கவை மேற்கு கடற்படை கட்டளைத் தலைமையகத்தில் நேற்றைய தினம் சந்தித்துள்ளார்.
+The 155 -meter -long anti -missile ship is managed by a group of 323 people.
+
+Sri Lankan navy welcomed the ship to Colombo according to traditional naval traditions.
+
+The ship's captain Jonathan B. Greenwald Western Navy Commander Rear Admiral Cindaka Kumarasinghe met at the Western Navy's headquarters yesterday.
 
 ◼️
 
 [Data](articles/e5bbc634.json)
+
+[Extended Data](ext_articles/e5bbc634.ext.json)
 
 ---
 
@@ -752,21 +822,29 @@ The suspect was found near Panadura, Minuwanpitiya General Cemetery.
 
 ---
 
-### அட்டுலுகம முஸ்லிம் மக்களின் தியாகத்துக்கு கெளரவமளிக்க வேண்டும் : எதிர்க்கட்சி உறுப்பினர் லலித் எல்லாவல
+### Adulugama should honor the sacrifice of Muslim people: Opposition member Lalith Ellawala
 
 *2024-07-24 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189252) · `ta`
 
-அட்டுலுகம வீதி அபிவிருத்திக்காக  முஸ்லிம் மக்கள் எந்த நட்டஈடும் கோராமல் தங்களின் வீடு, மதில்களை அகற்றி வழங்கியுள்ளபோதும் குறித்த வீதி அபிவிருத்தி இடை நிறுத்தப்பட்டுள்ளது.
+Lalith Ellawala, an opposition member, criticized the suspension of road development in Adulugama despite relocating Muslim residents without compensation. He urged quick development to honor their sacrifice, highlighting the impact on education and pedestrian safety. Minister Prasanna Ranatunga responded, stating the Asian Development Bank had suspended a loan installment due to a proposed rule under the Thousand Kilometer Road Development Program.
 
-அந்த மக்களின் தியாகத்தை கெளரவிக்கும் வகையில் குறித்த வீதியை விரைவாக அபிவிருத்தி செய்ய நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சி உறுப்பினர் லலித் எல்லாவல தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) வாய்மூல விடைக்கான கேள்வி நேரத்தின் போது, தெளிவுபடுத்தலின் பாேதே இவ்வாறு குறிப்பிட்டார்.
+The road development has been suspended even though the Muslim people have been removed from their home and walls without any compensation for the development of Atulugama Road.
 
-அட்டுலுகம விதாகம வீதி அபிவிருத்திக்காக அந்த பிரதேச முஸ்லிம் மக்கள் எந்தவித நட்ட ஈடும் பெற்றுக்கொள்ளாமல் தமது வீடுகளையும் பாதுகாப்பு மதில்களையும் அகற்றி சந்தர்ப்பம் வழங்கியுள்ள நிலையில் தற்போது அந்த வீதியின் இரு மருங்கிலும் வாய்க்கால் கட்டமைப்பு ஏற்படுத்தப்படாமல் வேறுமனே தார் மாத்திரம் இடுவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவே தெரிய வருகிறது. அவ்வாறு இடம்பெறுமானால் இது அந்த பிரதேச முஸ்லிம் மக்கள் மேற்கொண்ட அர்ப்பணிப்புக்கு செய்யும் பாரிய அநீதியாகும்.
+Opposition member Lalith Ellawala said that steps should be taken to quickly develop the road to honor the sacrifice of the people.
+
+During the question of the oral answer in Parliament on Wednesday (24), the Bay of clarification was stated.
+
+It is reported that the Muslim people of the area have been given the opportunity to remove their homes and safety walls for the development of the Atulugama Vidakama Road.. If this happens, this is a huge injustice to the dedication of the Muslim people of the area.
+
+Only the Adulugama Muslim people in Sri Lanka have been able to remove their homes and safety walls and provide us with this opportunity for road development.
 
 ...
 
 [Data](articles/f5d28290.json)
+
+[Extended Data](ext_articles/f5d28290.ext.json)
 
 ---
 
@@ -2317,29 +2395,5 @@ It is noteworthy that many people from the South have spread rumors on this issu
 [Data](articles/ec84501d.json)
 
 [Extended Data](ext_articles/ec84501d.ext.json)
-
----
-
-### Health risk at public and private factories
-
-*2024-07-24 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199151) · `si`
-
-Dengue cases are rising, especially around government institutions and private factories due to higher mosquito densities. The chairman of a company has announced plans to conduct specialized surveys in high-risk areas and deploy 60 state repression officers to tackle the issue.
-
-🟩
-
-The dengue mosquito lagoon has increased the dengue density of the dengue mosquitoes in government institutions and private factories.
-
-Chairman of the company Njith Sumanassana said that steps will be taken to conduct specialist surveys to areas identified as severe avenues.
-
-"Dengue patients are spread throughout the country at present. The number of patients has been reported from the country about 30,500. About twelve people have died. According to survey data, the dengue mosquito larvae in public places such as state institutions such as state organizations, industries, industries, are more commonplace than home-based mosquito density. A special entomological survey program of three areas in these areas. Accordingly, we have identified the highest mosquito larvae in the infectious state agency, or the suppression on Saturdays. "
-
-The Nagith Sumanasena said that 60 state repressive officers have already been deployed in these vulnerabilities.
-
-◼️
-
-[Data](articles/c731cbd5.json)
-
-[Extended Data](ext_articles/c731cbd5.ext.json)
 
 ---

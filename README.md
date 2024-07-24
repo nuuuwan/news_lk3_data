@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 13:55:06**
+As of **2024-07-24 14:20:28**
 
 ## Newspaper Stats
 
-*Scraped **36,977** Articles*
+*Scraped **36,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,102 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,207
 dailyftlk | 2,358
-adalk | 3,353
+adalk | 3,354
 adaderanalk | 4,282
 tamilmirrorlk | 4,544
 dailymirrorlk | 4,733
 virakesarilk | 5,795
-adaderanasinhalalk | 6,204
+adaderanasinhalalk | 6,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,974 (100.0%) of 36,977 articles have been extended.
+36,979 (100.0%) of 36,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### නේපාලය සලිත කළ බිහිසුණු ගුවන් යානා අනතුර
+### Bomb attack on the Russian intelligence officer
+
+*2024-07-24 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199160) · `si`
+
+In North Moscow, a car bomb targeted a Russian army intelligence officer and his wife, causing severe damage to the officer's feet. The incident occurred today (24).
+
+🟩
+
+A car bomb was targeted at the Russian army intelligence officer.
+
+International media reports that the attack was launched in the North Moscow area today (24).
+
+The bomb exploded due to the intelligence officer with his wife.
+
+It was reported that the officer's feet were severely damaged due to the explosion.
+
+◼️
+
+[Data](articles/4ce62fe4.json)
+
+[Extended Data](ext_articles/4ce62fe4.ext.json)
+
+---
+
+### Latest Captain on Club Spring murder
+
+*2024-07-24 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199159) · `si`
+
+In a shocking incident, two suspects linked to the Club Spring murder case have been arrested. The victims included popular singer Karin and four others, with serious injuries reported. The suspects, part of a larger group, were involved in a shooting spree in the Western Province, leading to the arrest of additional individuals in Athurugiriya and Battaramulla. Further details reveal financial involvement by a "big pabi" and a fishing vendor, both providing significant sums of money. Investigations continue under the supervision of DIG Ganga Marapana.
+
+🟩
+
+The driver of the driver and the bus was arrested by the driver and the bus in the Western Province Criminal Division after Surendra Wasantha Perera.
+
+The two suspects are to be produced before the Kaduwela Magistrate's Court today.
+
+Surendra Wasantha Perera, who was a Club Wasantha and another was shotified by the Surendra Wasantha and another.
+
+The popular singer Karin. Four persons including Sujeewa were seriously injured.
+
+Two other suspects were arrested by the Western Province Crimes Division in the Athurugiriya and Battaramulla yesterday (23).
+
+One of the suspects was supporting the shooter and the driver of the car they came.
+
+The two shooters and the car driver they arrived in Korathota and went to the Welimhota to the Welimintom area to the Welihinda.
+
+He was later taken to the Bulathsinhala area and was hidden.
+
+The suspects along the Wellassan Expressway from the Welwellagama area were arrested by the bus.
+
+...
+
+[Data](articles/1dffdb72.json)
+
+[Extended Data](ext_articles/1dffdb72.ext.json)
+
+---
+
+### Nepal's terrible aircraft accident
 
 *2024-07-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199158) · `si`
 
-නේපාලයේ කත්මණ්ඩු අගනුවර අද (23) උදෑසන සිදුවූ ගුවන්යානා අනතුරෙන් 18 දෙනෙක් මියගොස් ඇති බව වාර්තා වෙයි.
+In a tragic aircraft accident in Nepal today, 19 passengers and crew were aboard, heading to Porcula Airport from Porcota Airport. Unfortunately, 18 have lost their lives, with only the pilot surviving. Relief workers confirm this grim toll.
 
-අනතුරට ලක්වන විට එම යානයේ කාර්ය මණ්ඩලයේ 2ක් ඇතුළුව 19 දෙනෙක් ගමන්කරමින් සිටි බව සඳහන් ය.
+🟩
 
-අනෙක් 17 දෙනා වෙනත් ගුවන්යානයක් අලුත්වැඩියා කිරීම සඳහා පොකාරා ගුවන්තොටුපොළ වෙත යමින් සිටි සෞර්යා ගුවන්සේවයේ සේවක පිරිසකි.
+The event was killed in the accident in Nepal today (23).
 
-සහන සේවකයින් පවසන්නේ එම යානයේ සිටි පිරිසෙන් 18 දෙනෙක් මියගොස් ඇති බවත් ගුවන් නියමුවා පමණක් බේරාගෙන ඇති බවත් ය.
+When the accident, 19 people were traveling with two staff of the plane.
+
+The other 17 is attending Porcota Airport, who is traveling to the Porcula Airport.
+
+Relief Employees say 18 people were killed and the pilot had been rescued that 18 people were killed.
 
 ◼️
 
 [Data](articles/751ec3a6.json)
+
+[Extended Data](ext_articles/751ec3a6.ext.json)
 
 ---
 
@@ -65,6 +129,20 @@ US intelligence chief Kimbali Chetal has resigned from his post.
 [Data](articles/2bf20ab3.json)
 
 [Extended Data](ext_articles/2bf20ab3.ext.json)
+
+---
+
+### ඉන්දීය තරගාවලිය ආරම්භ කිරීමටත් පෙරම දුෂ්මන්ත ආබාධයකට
+
+*2024-07-24 13:07:17* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-තරගාවලිය-ආරම්භ-කිරීමටත්-පෙරම-දුෂ්මන්ත-ආබාධයකට/9-410967) · `si`
+
+ශ්‍රි ලංකා වේග පන්දුය යවන ක්‍රිඩක දුෂ්මන්ත චමීරට ඉන්දියාව සමගින් පැවැත්වීමට ඇති සිමිත පන්දුවාර තරගාවලිය අහිමි වී තිබේ. ඒ් ඔහු ආබාධයකට ලක්වීම හේතුවෙනි.
+
+ඉන්දීය කණ්ඩායම මේ වන විට දිවයිනට පැමිණි ඇති අතර ලබන 27 දා පල්ලෙකැලේ පිටියේ පැවැත්වෙන් විස්සයි20 තරගයෙන් තරගාවලිය ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/c22c88e4.json)
 
 ---
 
@@ -774,37 +852,53 @@ The Minister said that the president has allocated for the presidential election
 
 ---
 
-### බහුතර ජනතාවගේ මනාපය රට ගොඩගත් ජනාධිපති රනිල්ට
+### President MahindaIL to recover the country's preference
 
 *2024-07-24 10:46:13* · [`adalk`](https://www.ada.lk/breaking_news/බහුතර-ජනතාවගේ-මනාපය-රට-ගොඩගත්-ජනාධිපති-රනිල්ට/11-410961) · `si`
 
-ඉතිහාසයේ දරුණුතම ආර්ථික ආගාධයට වැටී තිබූ රට වසර දෙකක් වැනි කෙටි කාලයක් තුළ යථා තත්ත්වයට පත්කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එළඹෙන ජනාධිපතිවරණයේ දී සහාය දැක්වීමට පක්ෂ පාට භේදයකින් තොරව ජනතාව සූදානම්ව සිටින බව ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා පැවසීය.
+Chamara Sampath Dasanayake, Minister of Primary Industries, highlights the country's economic recovery under President Ranil Wickremesinghe, noting swift progress despite global economic crises. He addresses concerns over tax amendments but assures benefits will outweigh objections. The government emphasizes support for Wickremesinghe in upcoming elections, urging unity across party lines for continued economic growth.
 
-මෙරට ආර්ථිකය තවදුරටත් වර්ධනය කිරීමට නම් ඒ සඳහා සියලු පාර්ශ්ව එක්ව කැපවිය යුතු බව ද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+🟩
 
-ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Minister of Primary Industries Chamara Sampath Dasanayake said that the people who had restored the country's worst economic grief in the history of history.
 
-ඉතිහාසයේ දරුණුතම ආර්ථික ආගාධයට වැටී ආසාර්ථකව තිබූ රට නව ජනාධිපතිවරයා ලෙස රනිල් වික්‍රමසිංහ මහතා යටතේ වසර දෙකක් වැනි කෙටි කාලයක් තුළ යථා තත්ත්වයට පත් කිරීමට හැකි වුණා. ඒ අනුව යමින් අප අමාත්‍යාංශය ද එතෙක් පැවති පාඩු ලබන තත්ත්වය වලක්වා ගෙන ලාබ ලබන තත්ත්වයට පැමිණ තිබෙනවා.
+The State Minister also pointed out that to further enhance the economy of the country.
+
+Minister of Primary Industries Chamara Sampath Dasanayake addressing the press conference held at the President's Media Center for a 'stable country'.
+
+Ranil Wickremesinghe was able to restore Ranil Wickremesinghe as the new President of Ranil Wickremesinghe as the new President of Ranil Wickremesinghe as the new president. Accordingly, our ministry has also reached the profitable situation.
+
+Other countries in the world who have faced severe economic crises have not made economic stability in such a short time. All parties should commit to it to continue the economy with further strengthening the economy.
 
 ...
 
 [Data](articles/0a20bb2d.json)
 
+[Extended Data](ext_articles/0a20bb2d.ext.json)
+
 ---
 
-### සතුන්ට සිදුවන හානි  ගැන 1992ට කියන්න
+### Tells 1992 about the damage caused to animals
 
 *2024-07-24 10:40:15* · [`adalk`](https://www.ada.lk/breaking_news/සතුන්ට-සිදුවන-හානි--ගැන-1992ට-කියන්න/11-410960) · `si`
 
-කඳුකර කොටියන් ඇතුළු වන සතුන් ඉලක්ක කරගනිමින් අටවන ලද මදු, උඟුල්, තුවක්කු බැදීම්, අනවසර තුවක්කු තබා ගැනීම්, හක්කපටස් ඇටවීම්, විදුලිය යොදා කම්බි රැහැන් ඇදීම් වැනි ක්‍රියා  සම්බන්ධයෙන් හා වන සතුන්ට සිදුවන වෙනත් පීඩාකාරී   හානි පිළිබඳව  දුරකතන අංක 1992 ට අමතා වනජීවී දෙපාර්තුමේන්තුවට  කඩිනමින් දැනුම්දීමට පියවර ගන්නා ලෙස වනජීවී නිලධාරීහු  ජනතාවගෙන් ඉල්ලා සිටිති.
+In 1992, concerns were raised about animal injuries from oppressive hazards like hakkapus bones, wire, and wildlife attacks. Authorities urged quick treatment for injured animals and launched programs to mitigate damage to wildlife and resources. The public, particularly Kandyan Estate Officers, were asked to be vigilant and report incidents promptly.
 
-වන සතෙකුට සිදුව ඇති කුමණ හෝ පීඩාවක් හෝ අකටයුත්තක් එසේ කඩිනමින් දැනුම්දීමෙන් එම සතුන්ට කඩිනමින් ප්‍රතිකාර කිරීමටත් එමගින් ඔවුන්ගේ  ජීවිත අවධානම අවම කර ආරක්ෂාව  ලබාදීමටත්  පියවර ගැනීමට හැකි බවද ඔවුහු කියති.
+🟩
 
-අනවසර ලෙස විදුලිය භාවිතා  කරමින් අදින ලද කම්බිවලට පැටලී වන සතුන් මෙන්ම වටිනා මිනිස් ජීවිත අහිමිවීමේ සිදුවීම් වාර්තාවීම් ඉහළ යමින් පවතින බවත්, ඒ සම්බන්ධයෙන් ජනතාව දැඩි අවධානයෙන් සිටිමින් තොරතුරු ලබාදීම සිදු කළහොත් ඒවා වළක්වා ගැනීමේ හැකියාව ඇති බවද වනජීවී නිලධාරිහු සඳහන් කරති.
+Steps to report on other oppressive hazards, hakkapus bones, hakkaputabs, hakkaps and wire, such as mountain tigers, hakkapus caps, hakkapus peeks, and wire cords and other oppressive damage to wildlife wire.Wildlife officials are requested to take the people.
 
-...
+They claim to treat the animals expeditiously to treat the animals quickly, as a result of an informed of a forestry or aquatic.
+
+The Wildlife Officers say that the reports of disposal of animals and loss of people who have been treated with unauthorized electricity using electricity.
+
+Highly programs implemented on the instructions of the Director General of Wildlife General to reduce the damage to the Kandyan estate and the damage to wildlife resources of wildlife and damaged animals.The people and especially the Kandyan Estate Officers are requested to take immediate awareness to an office.
+
+◼️
 
 [Data](articles/b8bd8056.json)
+
+[Extended Data](ext_articles/b8bd8056.ext.json)
 
 ---
 
@@ -2187,77 +2281,5 @@ Other countries that face severe economic crises in the world have not reached e
 [Data](articles/1ffde80f.json)
 
 [Extended Data](ext_articles/1ffde80f.ext.json)
-
----
-
-### Scholarships of the President's Fund will be presented to the President
-
-*2024-07-24 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189221) · `ta`
-
-The President's Fund will award scholarships to deserving students across Sri Lanka, marking a unique initiative by President Ranil Wickremesinghe. The ceremony, held at the Alari House, will distribute funds to students from the Pandena and Pikkuni Educational Institutes, focusing on those appearing for the GCE Advanced Level Examinations. This nationwide program, funded annually with about 300 million rupees from the Presidential Fund, aims to support over 106,000 students for 24 months, ensuring educational opportunities for all who need it.
-
-🟩
-
-The event will be held at the Alari House, headed by President Ranil Wickremesinghe at 3.00 pm on Wednesday (24) at 3.00 pm.
-
-The scholarship is awarded under the President's Fund Program for the Scholarship of the President's Fund for the Pandena and the Pikkuni Educational Institutes, which are implemented according to the idea of ​​President Ranil Wickremesinghe.
-
-It is a special feature that no scholarship programs have been implemented by the President of the President and the implementation of this scholarship program nationwide under the president's directives.
-
-Scholarships will be given to the students, bikkas and ordinary students who appear for the GCE Advanced Level Examination or the GCE Advanced Level Examination or the GCE Advanced Level Examination.. Each student's bank account will be deposited at Rs.
-
-In the coming days, the installment will be deposited directly in the bank account of other students who are not invited to the scholarship event.
-
-...
-
-[Data](articles/444585c8.json)
-
-[Extended Data](ext_articles/444585c8.ext.json)
-
----
-
-### Black Yule in Jaffna
-
-*2024-07-24 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189220) · `ta`
-
-On Tuesday, Jaffna marked Black Yule with a memorial led by the Tamil National People's Front. Firefighters honored victims, lighting a public flame amidst attendees including Deepan Dilisan and Vasuki Sudhakaran.
-
-🟩
-
-Black Yule was celebrated in Jaffna on Tuesday evening (23). The firefighters paid tribute to the murdered.
-
-Jaffna organized by the Tamil National People's Front. The memorial was held on Tuesday evening (23) in front of the courtyard.
-
-During this time, the public flame was lit and others paid homage.
-
-The event was attended by the party's Jaffna district organizer Deepan Dilisan and the women's team leader Vasuki Sudhakaran and many others.
-
-◼️
-
-[Data](articles/34e0d47d.json)
-
-[Extended Data](ext_articles/34e0d47d.ext.json)
-
----
-
-### From 2019 to June 2019, 4,74,142 people have gone for foreign jobs - Manusha Nanayakkara
-
-*2024-07-24 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/189219) · `ta`
-
-From 2019 to June 2020, 474,142 Sri Lankans sought foreign employment, including 311,198 domestic workers, 362,943 trained professionals, and 1,119,900 others. Labor Minister Manusha Nanayakkara highlighted government efforts to ensure their safety, offering insurance, problem-solving officers, and secure accommodations, minimizing issues faced abroad.
-
-🟩
-
-From 2019 to June, 4,74 and 142 people have gone to foreign employment opportunities.The Minister of Labor and Foreign Employment, Manusha Nanayakkara, said that 3 of them are employed as housewives.
-
-The Minister said this while responding to a question raised by Rajika Wickremasinghe on Tuesday (23) in Parliament.
-
-From 2019 to June, 4,74 and 142 people have gone to foreign employment opportunities.Of them, 3 lakh 1198 are home maids. In addition, 3 lakhs 62 thousand 943 trained and one million 1199 people have gone abroad.. The Bureau of Foreign Employment is taking all measures on their welfare activities.
-
-...
-
-[Data](articles/7ce2117f.json)
-
-[Extended Data](ext_articles/7ce2117f.ext.json)
 
 ---

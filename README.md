@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 02:20:28**
+As of **2024-07-25 02:35:48**
 
 ## Newspaper Stats
 
-*Scraped **37,064** Articles*
+*Scraped **37,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,220
 dailyftlk | 2,358
 adalk | 3,366
 adaderanalk | 4,290
-tamilmirrorlk | 4,555
+tamilmirrorlk | 4,556
 dailymirrorlk | 4,733
 virakesarilk | 5,816
 adaderanasinhalalk | 6,222
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,064 (100.0%) of 37,064 articles have been extended.
+37,064 (100.0%) of 37,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### ’மன்னிப்பு தீர்வாகாது’
+
+*2024-07-25 00:54:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னிப்பு-தீர்வாகாது/175-340983) · `ta`
+
+தமிழர்களுக்கு எதிரான கறுப்பு ஜூலை படுகொலைகள் நடந்து 41 வருடங்களின் பின்னர் அமைச்சர் ஒருவரால் தற்போது சொல்லப்பட்ட மன்னிப்பு என்ற வார்த்தை எந்த வகையிலும் தமிழருக்கு தீர்வாக அமைந்துவிடாது என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எஸ்.சிறீதரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) நடைபெற்ற செயற்கை நுண்ணறிவு தொழில்நுட்பம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+ஈழ விடுதலைப் போராட்ட வரலாற்றில் 70களின் பிற்பகுதியில் 1980 களின் ஆரம்பத்தில் பல்வேறுபட்ட விடுதலை இயக்கங்கள் உருவாகியிருந்தன. அவ்வாறான இயக்கங்களின் வரலாற்றில் தமிழீழ இராணுவம் எனும் கட்டமைப்பை உருவாக்கி ஈழ விடுதலைப் போராட்டத்தின் முன்னோடியாக இருந்த ஒருவரான தம்பாபிள்ளை மகேஸ்வரனை இந்த சபையில் நினைவில் கொள்கின்றேன்.
+
+...
+
+[Data](articles/5366a135.json)
+
+---
 
 ### Provide compensation to Muslims
 
@@ -2385,27 +2401,5 @@ Accordingly, the District Judge issued to file protests in relation to the case 
 [Data](articles/6b2cded1.json)
 
 [Extended Data](ext_articles/6b2cded1.ext.json)
-
----
-
-### Mosquito risk zones identified in govt and private sector institutions
-
-*2024-07-24 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100742/mosquito-risk-zones-identified-in-govt-and-private-sector-institutions-) · `en`
-
-The Government Health Entomology Officers’ Association stated that said that there is a significant increase in dengue mosquito larvae density within government institutions and private factories.
-
-President of the association Najith Sumanasena said that necessary steps will be taken to conduct special entomological surveys in the identified high-risk zones.
-
-He pointed out that the nationwide spread of dengue cases in Sri Lanka, has led to around 30,500 cases being reported so far this year with around twelve deaths.
-
-According to survey data, there is a higher density of mosquitoes notably within the premises of government institutions and various private sector institutions such as factories and businesses, compared to residential areas.
-
-He also stated that in order to address this issue, a special entomological survey programme was conducted on July 22, 23, and 24.
-
-...
-
-[Data](articles/27cba654.json)
-
-[Extended Data](ext_articles/27cba654.ext.json)
 
 ---

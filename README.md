@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 14:20:28**
+As of **2024-07-24 14:35:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,979 (100.0%) of 36,980 articles have been extended.
+36,980 (100.0%) of 36,980 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,17 +132,23 @@ US intelligence chief Kimbali Chetal has resigned from his post.
 
 ---
 
-### ඉන්දීය තරගාවලිය ආරම්භ කිරීමටත් පෙරම දුෂ්මන්ත ආබාධයකට
+### Steamed injury before commences the Indian tournament
 
 *2024-07-24 13:07:17* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-තරගාවලිය-ආරම්භ-කිරීමටත්-පෙරම-දුෂ්මන්ත-ආබාධයකට/9-410967) · `si`
 
-ශ්‍රි ලංකා වේග පන්දුය යවන ක්‍රිඩක දුෂ්මන්ත චමීරට ඉන්දියාව සමගින් පැවැත්වීමට ඇති සිමිත පන්දුවාර තරගාවලිය අහිමි වී තිබේ. ඒ් ඔහු ආබාධයකට ලක්වීම හේතුවෙනි.
+India faces setback as Sri Lanka's top spinner is out due to illness ahead of their upcoming T20 series starting on the 27th.
 
-ඉන්දීය කණ්ඩායම මේ වන විට දිවයිනට පැමිණි ඇති අතර ලබන 27 දා පල්ලෙකැලේ පිටියේ පැවැත්වෙන් විස්සයි20 තරගයෙන් තරගාවලිය ආරම්භ වීමට නියමිතය.
+🟩
+
+Little finance tournament has been lost to India with Sri Lanka's spending bowler. He was caused by a disorder.
+
+The Indian team has arrived in the island and will commence the T20 to hold on the 27th of this month.
 
 ◼️
 
 [Data](articles/c22c88e4.json)
+
+[Extended Data](ext_articles/c22c88e4.ext.json)
 
 ---
 

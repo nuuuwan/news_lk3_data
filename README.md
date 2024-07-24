@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 14:54:42**
+As of **2024-07-24 15:05:27**
 
 ## Newspaper Stats
 
-*Scraped **36,984** Articles*
+*Scraped **36,985** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,207
 dailyftlk | 2,358
 adalk | 3,354
 adaderanalk | 4,282
-tamilmirrorlk | 4,544
+tamilmirrorlk | 4,545
 dailymirrorlk | 4,733
 virakesarilk | 5,799
 adaderanasinhalalk | 6,206
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,980 (100.0%) of 36,984 articles have been extended.
+36,984 (100.0%) of 36,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### இரண்டு கறுப்பு ஆடுகள் அம்பலம்
+
+*2024-07-24 14:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-கறுப்பு-ஆடுகள்-அம்பலம்/175-340954) · `ta`
+
+ஐக்கிய மக்கள் சக்தியில் இருந்து ரணிலுக்கு ஆதரவளிக்கும் இருவரின் பெயர்களை குருநாகல் மாவட்ட பாராளுமன்ற உறுப்பினர்  துஷார இந்துனில் பாராளுமன்றத்தில் அம்பலப்படுத்தினார்.
+
+சரத் பொன்சேகாவும் ராஜித சேனாரத்ன மட்டுமே ரணிலுக்கு ஆதரவாளிப்பார்கள் என்றும் அவர் தெரிவித்தார்.
+
+அவ்விருவரும் ஐக்கிய மக்கள் சக்தியின் நீரோட்டத்தைச் சேர்ந்தவர்கள் அல்லர்  எனக் கூறிய துஷார இந்துனில், நாம் நினைப்பதை போல அவர்கள் சிந்திப்பதில்லை என்றார்.
+
+அவர்கள் இருவரும் இப்போது ஒரு குழாயின் உள்ளே மாட்டிக்கொண்டு அந்த வழியில் செல்கிறார்களா? என்றும்  துஷாரா இந்துனில் கேள்வி எழுப்பினார்.
+
+◼️
+
+[Data](articles/8e2d2c47.json)
+
+---
 
 ### Fire at the Kalutara Divisional Secretariat
 
@@ -80,21 +98,33 @@ It was reported that the officer's feet were severely damaged due to the explosi
 
 ---
 
-### அரசாங்கத்தின் கச்சேரி போன்று செயற்படுகிறது பாராளுமன்றம் - ஐக்கிய மக்கள் சக்தி
+### Parliament - United People's Power
 
 *2024-07-24 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189257) · `ta`
 
-பாராளுமன்றம் நிலையியல் கட்டளைக்கும்,அரசியலமைப்புக்கும் அமைய செயற்படுவதில்லை என்பதை பொலிஸ்மா அதிபருக்கு இடைக்காலத் தடை விதித்து உயர்நீதிமன்றம் சுட்டிக்காட்டியுள்ளது.
+The Supreme Court has issued an interim injunction against the Parliament for acting unconstitutionally, highlighting concerns over the appointment of the Police Inspector General without proper procedure. The court's action suggests a violation of the constitution, with the Speaker's involvement questioned. The situation reflects broader criticisms of parliamentary conduct, suggesting it has devolved into a platform for government propaganda rather than a body dedicated to constitutional governance.
 
-பாராளுமன்றம் வெட்கப்பட வேண்டும்.எங்கும் அரசியல் பாராளுமன்றம் அரசாங்கத்தின் கச்சேரி போல் மாறி விட்டது.தவறுகளை திருத்திக் கொள்ளாவிடின் பாராளுமன்றத்தின் ஜனநாயகம் இல்லாதொழிக்கப்படும் என எதிர்க்கட்சிகளின்  பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல சபையில் வலியுறுத்தினார்.
+🟩
 
-சபாநாயகரின் முறையற்ற கடிதத்தை அடிப்படையாகக் கொண்டே ஜனாதிபதி பொலிஸ்மா அதிபரை நியமித்தார்.சபாநாயகர் அரசியலமைப்பை முழுமையாக மீறிவுள்ளார்.ஆகவே  இவருக்கு எதிராக எடுக்கும் நடவடிக்கை என்ன என்று எதிர்க்கட்சித்  தலைவர்  சஜித் பிரேமதாச கேள்வியெழுப்பினார்.
+The Supreme Court has pointed out that the Police Inspector has issued an interim injunction that the parliament does not act in accordance with the constitution and the constitution.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24)  இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றிய எதிர்க்கட்சித் தலைவர்,
+Parliament should be ashamed. Political parliament has become a concert of the government everywhere.
+
+The President has appointed the Inspector General of Police on the basis of improper letter of the Speaker.
+
+The Leader of the Opposition, speaking at a special claim during the session held in Parliament on Wednesday (24).
+
+The Supreme Court has issued an interim injunction to serve as the Chancellor of the Tennakoon Police. We are not presenting issues based on a person.
+
+I am not talking about the nominees. The Constitution has been fully violated.Speaker Mahinda Rajapaksa has announced a writing to the President.
+
+The Prime Minister is well aware of this.
 
 ...
 
 [Data](articles/9275da70.json)
+
+[Extended Data](ext_articles/9275da70.ext.json)
 
 ---
 
@@ -132,21 +162,23 @@ The suspects along the Wellassan Expressway from the Welwellagama area were arre
 
 ---
 
-### ஐஸ் போதைப்பொருளுடன் கைதான 3 சந்தேக நபர்கள் தொடர்பில் விசாரணை
+### Investigation into 3 suspects arrested with ice drug
 
 *2024-07-24 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189259) · `ta`
 
-ஐஸ் போதைப்பொருளுடன் கைதுசெய்யப்பட்ட 3 சந்தேக நபர்கள் தொடர்பில் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளதாக கல்முனை விசேட அதிரடிப்படையினர் தெரிவித்துள்ளனர்.
+The Kalmunai Special Task Force said that further investigations are being carried out in connection with the three suspects arrested with ice drugs.
 
-அம்பாறை மாவட்டம் கல்முனை புற நகர் பகுதியில் கடந்த திங்கட்கிழமை (22) அதிகாலை ரோந்து நடவடிக்கையில் ஈடுபட்டிருந்த கல்முனை விசேட அதிரடிப்படை முகாம் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ஆர்.ஏ.டி.சி.எஸ்.ரத்நாயக்க தலைமையிலான  அதிகாரிகள் கடற்கரை பகுதிகளில் சந்தேகத்திற்கிடமாக நடமாடிய 3 நபர்களை ஐஸ் போதைப்பொருளுடன் கைதுசெய்ததுடன் கல்முனை தலைமையக பொலிஸாரிடம் சட்ட நடவடிக்கைக்காக ஒப்படைத்தனர்.
+Officers led by Inspector of Police RACS Ratnayake, who were in charge of the Kalmunai Special Task Force, who was on patrol in Kalmunai in Ampara district on Monday (22), arrested three persons who were suspiciously in the coastal area and handed over to the Kalmunai headquarters for legal action..
 
-இவ்வாறு கைதானவர்கள் 21, 26, 28 வயது மதிக்கத்தக்கவர்கள் என்பதுடன் 520 மில்லி கிராம், 980 மில்லி கிராம், 530 மில்லி கிராம், ஐஸ் போதைப்பொருட்கள் சந்தேக நபர்கள் வசம் இருந்து மீட்கப்பட்டுள்ளன.
+The detainees are 21, 26 and 28 years old and 520 millilks, 980 milligrams, 530 milligrams and ice drugs have been rescued from the suspects.
 
-இவ்வாறு கைதுசெய்யப்பட்டவர்களில் ஒருவர் ஏற்கனவே போதைப்பொருள் நுகர்தல் மற்றும் விற்பனை தொடர்பில் சட்ட நடவடிக்கை எடுக்கப்பட்டவர் என்பதும் குறிப்பிடத்தக்கது.
+It is also worth noting that one of the arrested was already legal action on drug consumption and sale.
 
 ◼️
 
 [Data](articles/081d284e.json)
+
+[Extended Data](ext_articles/081d284e.ext.json)
 
 ---
 
@@ -174,39 +206,53 @@ Relief Employees say 18 people were killed and the pilot had been rescued that 1
 
 ---
 
-### ஜீவன் தொண்டமானை கைது செய்ய வேண்டாம் எனக் கோரி தலவாக்கலையில் வேலைநிறுத்தம்
+### Jeevan Thondaman strikes at Talawakelle demanding not arrest
 
 *2024-07-24 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189260) · `ta`
 
-ஹேலீஸ் பெருந்தோட்ட கம்பனியின் கீழ் இயங்கும் தலவாக்கலை பிளான்டேசன் நிர்வாகத்துக்குட்பட்ட பெருந்தோட்ட  தொழிலாளர்கள் இன்று புதன்கிழமை (24) வேலைநிறுத்த போராட்டத்தில் ஈடுபட்டனர்.
+Talawakelle plantation workers struck on 24th against the Kelaniya Company for refusing to pay wages. The company sued their union leader, leading to worker protests across several locations.
 
-தமக்கான நாள் சம்பளமாக 1,700 ரூபாவை வழங்க மறுக்கும் களனிவெளி கம்பனியின் அடாவடித்தனத்தை கண்டித்தும் இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான  ஜீவன் தொண்டமானுக்கு ஆதரவு தெரிவித்தும் இவ்வேலைநிறுத்த போராட்டம் முன்னெடுக்கப்பட்டது.
+🟩
 
-தோட்டக் கம்பனிகள் தமது தொழிற்சங்கத் தலைவரை நீதிமன்றத்திற்கு அழைத்துச் சென்று காரணமின்றி கைது செய்ய ஏற்பாடு செய்துள்ளதாகவும், தமக்கு ஆதரவாக நின்ற தலைவரை அந்தக் குற்றச்சாட்டில் இருந்து நீக்குமாறு தோட்டக் கம்பனிகளிடம் கோரிக்கை விடுப்பதாகவும் வேலைநிறுத்தத்தில் ஈடுபட்டுள்ள தோட்டத் தொழிலாளர்கள் தெரிவிக்கின்றனர்.
+Plantation workers under the Talawakelle Plantation Management under the Halees Plantation Company went on strike today (24).
 
-...
+The strike was launched to condemn the disgust of the Kelaniya Company, which refuses to pay Rs.
+
+The plantation workers have said that the plantation companies have taken their union leader to the court and arrest the arrest of the plantation companies.
+
+The plantation workers from Greate Weston, Vattakoda, Holrud, Pomston, Radhalla, Samarzett, Loki, Gommood, Middleton, Kelsi Maelia and Desport were involved in the workplace yesterday (23).
+
+◼️
 
 [Data](articles/9e065103.json)
 
+[Extended Data](ext_articles/9e065103.ext.json)
+
 ---
 
-### நேபாளத்தில் விமான விபத்து ; 18 பேர் பலி
+### Flight accident in Nepal;18 killed
 
 *2024-07-24 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189255) · `ta`
 
-நேபாளத்தில் 19 பயணிகளுடன் புறப்படத் தயாரான விமானம் ஒன்று இன்று புதன்கிழமை (24) காலை விபத்துக்குள்ளாகியுள்ளது.
+In Nepal, a plane carrying 19 passengers crashed at Kathmandu's Tribhuvan International Airport, killing all onboard except one seriously injured pilot. The aircraft, from Sauriya Airlines, also hit Pokhara resort.
 
-தலைநகர் காத்மண்டுவில் உள்ள திருபவுன் சர்வதேச விமான நிலையத்தில் இந்த விமான விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-இந்த விபத்தில் 18 பேர் உயிரிழந்துள்ளதாக விமான நிலையம் ஊடக அறிக்கையில் தெரிவித்துள்ளது.
+A plane that was ready to depart with 19 passengers in Nepal crashed on Wednesday morning.
 
-பலத்த காயங்களுடன் மீட்கப்பட்ட விமானி, அருகில் உள்ள வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளதாகவும் செய்திகள் வெளியாகியுள்ளன.
+The plane crashed at the Thiruboun International Airport in Kathmandu, the capital.
 
-நேபாளத்தின் சவுர்யா விமான நிறுவனத்திற்கு சொந்தமான அந்த விமானம், பொக்காரா என்ற ரிசார்ட் நகருக்கு புறப்பட்டபோது விபத்துக்குள்ளாகியிருக்கிறது.
+The crash has died in the accident, the airport said in a media report.
+
+The pilot, who was rescued with serious injuries, has been taken to a nearby hospital.
+
+The aircraft, which belongs to Nepal's Sauriya airline, crashed into the resort of Pokkara.
 
 ◼️
 
 [Data](articles/5dc4b5ec.json)
+
+[Extended Data](ext_articles/5dc4b5ec.ext.json)
 
 ---
 
@@ -2241,29 +2287,5 @@ During the height of the COVID-19 pandemic, the Health Ministry recommended crem
 [Data](articles/f3265aac.json)
 
 [Extended Data](ext_articles/f3265aac.ext.json)
-
----
-
-### Samagi Jana Sandhanaya to launch on 8 August
-
-*2024-07-24 05:06:06* · [`dailyftlk`](https://www.ft.lk/news/Samagi-Jana-Sandhanaya-to-launch-on-8-August/56-764645) · `en`
-
-SJB General Secretary Ranjith Madduma Bandara announces party will form alliance with political parties that hold significant number of seats to face upcoming Presidential election
-
-Says SJS, broad political alliance will address all the country’s pressing issue
-
-Notes SJB leader Sajith Premadasa’s Presidential candidacy will be confirmed on the day
-
-The Samagi Jana Sandhanaya (SJS), a broad political alliance led by the Samagi Jana Balawegaya (SJB) is set to be unveiled on 8 August, the party announced yesterday.
-
-Addressing a press conference in Colombo, SJB General Secretary Ranjith Madduma Bandara announced that the SJB will form an alliance with political parties that hold a significant number of seats in Parliament to face the upcoming Presidential election.
-
-Madduma Bandara said the SJB will join hands with Sinhala, Tamil, Muslim, Burgher and all other communities to form the SJS.
-
-...
-
-[Data](articles/f677d8d7.json)
-
-[Extended Data](ext_articles/f677d8d7.ext.json)
 
 ---

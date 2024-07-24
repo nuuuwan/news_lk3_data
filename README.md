@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 17:36:23**
+As of **2024-07-24 17:56:27**
 
 ## Newspaper Stats
 
-*Scraped **37,019** Articles*
+*Scraped **37,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,53 @@ adaderanalk | 4,286
 tamilmirrorlk | 4,550
 dailymirrorlk | 4,733
 virakesarilk | 5,805
-adaderanasinhalalk | 6,214
+adaderanasinhalalk | 6,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,017 (100.0%) of 37,019 articles have been extended.
+37,019 (100.0%) of 37,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### ජපානය නැවත ශ්‍රී ලංකාවේ වැඩ අරඹයි
+### ක්ලබ් වසන්ත ඝාතන සිද්ධියේ රියදුරන් දෙදෙනා රිමාන්ඩ්
+
+*2024-07-24 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199169) · `si`
+
+අතුරුගිරිය නගරයේ ටැටූ මධ්‍යස්ථානයක් තුළදී වෙඩිතබා "ක්ලබ් වසන්ත" නමැත්තා ඇතුළු දෙදෙනකු ඝාතනය කර තවත් සිව් දෙනෙකුට තුවාල සිදුකිරීමේ සිද්ධියේ වෙඩික්කරුවන් ප්‍රවාහනය කළ වෑන් රථයේ සහ බස් රථයේ රියදුරන් ලෙස කටයුතු කළ පුද්ගලයන් දෙදෙනා අද (24) අධිකරණය වෙත ඉදිරිපත් කළේය.
+
+අනතුරුව ඔවුන් දෙදෙනාව අගෝස්තු මස 05 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+සැකකරුවන් අධිකරණය වෙත ඉදිරිපත් කළ අතුරුගිරිය පොලීසියේ නිලධාරීන් මෙම සැකකරුවන් දෙදෙනා පැය 48ක කාලයක් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර ලබාදෙන ලෙස අධිකරණයෙන් ඉල්ලීමක් සිදුකළද විත්තිකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥයන් එම ඉල්ලීමට විරෝධය පළ කරන ලදී.
+
+ඒ අනුව කරුණු සලකා බැලූ මහෙස්ත්‍රාත්වරිය සැකකරුවන් දෙදෙනා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළාය.
+
+◼️
+
+[Data](articles/2935e1dd.json)
+
+---
+
+### Japan starts working in Sri Lanka
 
 *2024-07-24 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199168) · `si`
 
-ශ්‍රී ලංකාව තුළ නවතා තිබූ ව්‍යාපෘති නැවත ආරම්භ කිරීම සඳහා අරමුදල් නිදහස්  කිරීමට කටයුතු කරන බව ජපානය අද (24) නිල වශයෙන් නිවේදනය කළේය.
+Japan resumes projects in Sri Lanka after a pause, as announced by JICA's head Mahinda Siriwardena during a finance ministry briefing.
 
-ඒ සම්බන්ධයෙන් විශේෂ මාධ්‍ය හමුවක් ජපාන තානාපති මිසුකොෂි හිදෙයකි,  JICA ශ්‍රී ලංකා කාර්යාල ප්‍රධානී යමාඩා ටෙට්සුයා සහ මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතාගේ ප්‍රධානත්වයෙන් අද  මුදල් අමාත්‍යාංශයේදී පැවැත්වුණි.
+🟩
+
+Japan (24) was officially announced that they will be released to re-resume projects in Sri Lanka.
+
+A special media briefing has been held at the Ministry of Finance Mahinda Siriwardena, Head of JICA, JICA, JICA, JICA, Sri Lanka.
 
 ◼️
 
 [Data](articles/709cbbc2.json)
+
+[Extended Data](ext_articles/709cbbc2.ext.json)
 
 ---
 
@@ -1048,15 +1072,21 @@ Ratnayake told the media at a press conference on July 16 that the commission wi
 
 ---
 
-### ඊශ්‍රායෙලයේ ඉදිකිරිම් අංශයට ලංකාවෙන් 262ක් යයි
+### 262 from Sri Lanka to be built in Israel's construction
 
 *2024-07-24 12:22:55* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-ඉදිකිරිම්-අංශයට-ලංකාවෙන්-262ක්-යයි/11-410965) · `si`
 
-ඊශ්‍රායලයේ ඉදිකිරීම් අංශයේ රැකියා අවස්ථාවන් හිමිවූ රැකියාලාභීන් 262ක් සඳහා ගුවන් ටිකට්පත් ප්‍රදානය කිරීම කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙන් ‍ඊයේ (23) ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ දී සිදුකරන ලදී. මෙම රැකියාලාභීන් මෙම මස 27 දින සිට 30 දින දක්වා කාලය තුල ඊශ්‍රායලය බලා පිටත්ව යාමට නියමිතයි.
+Sri Lanka's Ministry of Labor announced that 262 workers will travel to Israel for construction jobs between the 27th and 30th of this month.
+
+🟩
+
+At the Sri Lanka Bureau of Labor and Foreign Employment, Minister of Labor and Foreign Employment was chaired by the Sri Lanka Bureau of Labor and Foreign Employment (23).. These jobs will leave for Israel in the 27th to 30th of this month.
 
 ◼️
 
 [Data](articles/e20b8184.json)
+
+[Extended Data](ext_articles/e20b8184.ext.json)
 
 ---
 
@@ -2343,27 +2373,5 @@ The Chairman of the company Ravi Kudmith says this is suspicious that this situa
 [Data](articles/a03155ed.json)
 
 [Extended Data](ext_articles/a03155ed.ext.json)
-
----
-
-### ‘Red’ alert issued over strong winds and rough seas
-
-*2024-07-24 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100737/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ colour advisory for strong winds and rough seas for naval and multi-day fishermen communities in the Arabian Sea and Bay of Bengal.
-
-As per the warning, very strong winds of about 70-80 kmph, and very rough seas are likely over the Arabian Sea area (in sea areas bounded by 10N - 23N and 55E – 72E) and Bay of Bengal (in sea areas bounded by 13N - 21N and 87E – 93E) due to the active south-west monsoonal condition.
-
-Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ colour on the map below, until further notice.
-
-Those who are out at aforementioned sea regions are advised to return to coasts or move to safer areas immediately.
-
-Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/7f370f72.json)
-
-[Extended Data](ext_articles/7f370f72.ext.json)
 
 ---

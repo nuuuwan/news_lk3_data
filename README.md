@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 14:35:44**
+As of **2024-07-24 14:54:42**
 
 ## Newspaper Stats
 
-*Scraped **36,980** Articles*
+*Scraped **36,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 3,354
 adaderanalk | 4,282
 tamilmirrorlk | 4,544
 dailymirrorlk | 4,733
-virakesarilk | 5,795
+virakesarilk | 5,799
 adaderanasinhalalk | 6,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,980 (100.0%) of 36,980 articles have been extended.
+36,980 (100.0%) of 36,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### Fire at the Kalutara Divisional Secretariat
+
+*2024-07-24 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189247) · `ta`
+
+A fire erupted on the ground floor of the six-story Kalutara Divisional Secretariat building on Wednesday, prompting the arrival of two fire trucks from the Kalutara Municipal Council Fire Division. A firefighter suffered suffocation and was hospitalized during the efforts to control the blaze.
+
+🟩
+
+The fire broke out at the Kalutara Divisional Secretariat building on Wednesday (24), police said.
+
+A fire has been reported to have been reported on the ground floor of the six -storey Kalutara Divisional Secretariat building.
+
+The Kalutara Municipal Council Fire Division has sent two fire trucks to extinguish the fire.
+
+A firefighter who was working on the fire has been admitted to the hospital due to suffocation.
+
+◼️
+
+[Data](articles/948e9048.json)
+
+[Extended Data](ext_articles/948e9048.ext.json)
+
+---
 
 ### Bomb attack on the Russian intelligence officer
 
@@ -53,6 +77,24 @@ It was reported that the officer's feet were severely damaged due to the explosi
 [Data](articles/4ce62fe4.json)
 
 [Extended Data](ext_articles/4ce62fe4.ext.json)
+
+---
+
+### அரசாங்கத்தின் கச்சேரி போன்று செயற்படுகிறது பாராளுமன்றம் - ஐக்கிய மக்கள் சக்தி
+
+*2024-07-24 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189257) · `ta`
+
+பாராளுமன்றம் நிலையியல் கட்டளைக்கும்,அரசியலமைப்புக்கும் அமைய செயற்படுவதில்லை என்பதை பொலிஸ்மா அதிபருக்கு இடைக்காலத் தடை விதித்து உயர்நீதிமன்றம் சுட்டிக்காட்டியுள்ளது.
+
+பாராளுமன்றம் வெட்கப்பட வேண்டும்.எங்கும் அரசியல் பாராளுமன்றம் அரசாங்கத்தின் கச்சேரி போல் மாறி விட்டது.தவறுகளை திருத்திக் கொள்ளாவிடின் பாராளுமன்றத்தின் ஜனநாயகம் இல்லாதொழிக்கப்படும் என எதிர்க்கட்சிகளின்  பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல சபையில் வலியுறுத்தினார்.
+
+சபாநாயகரின் முறையற்ற கடிதத்தை அடிப்படையாகக் கொண்டே ஜனாதிபதி பொலிஸ்மா அதிபரை நியமித்தார்.சபாநாயகர் அரசியலமைப்பை முழுமையாக மீறிவுள்ளார்.ஆகவே  இவருக்கு எதிராக எடுக்கும் நடவடிக்கை என்ன என்று எதிர்க்கட்சித்  தலைவர்  சஜித் பிரேமதாச கேள்வியெழுப்பினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24)  இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றிய எதிர்க்கட்சித் தலைவர்,
+
+...
+
+[Data](articles/9275da70.json)
 
 ---
 
@@ -90,6 +132,24 @@ The suspects along the Wellassan Expressway from the Welwellagama area were arre
 
 ---
 
+### ஐஸ் போதைப்பொருளுடன் கைதான 3 சந்தேக நபர்கள் தொடர்பில் விசாரணை
+
+*2024-07-24 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189259) · `ta`
+
+ஐஸ் போதைப்பொருளுடன் கைதுசெய்யப்பட்ட 3 சந்தேக நபர்கள் தொடர்பில் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளதாக கல்முனை விசேட அதிரடிப்படையினர் தெரிவித்துள்ளனர்.
+
+அம்பாறை மாவட்டம் கல்முனை புற நகர் பகுதியில் கடந்த திங்கட்கிழமை (22) அதிகாலை ரோந்து நடவடிக்கையில் ஈடுபட்டிருந்த கல்முனை விசேட அதிரடிப்படை முகாம் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ஆர்.ஏ.டி.சி.எஸ்.ரத்நாயக்க தலைமையிலான  அதிகாரிகள் கடற்கரை பகுதிகளில் சந்தேகத்திற்கிடமாக நடமாடிய 3 நபர்களை ஐஸ் போதைப்பொருளுடன் கைதுசெய்ததுடன் கல்முனை தலைமையக பொலிஸாரிடம் சட்ட நடவடிக்கைக்காக ஒப்படைத்தனர்.
+
+இவ்வாறு கைதானவர்கள் 21, 26, 28 வயது மதிக்கத்தக்கவர்கள் என்பதுடன் 520 மில்லி கிராம், 980 மில்லி கிராம், 530 மில்லி கிராம், ஐஸ் போதைப்பொருட்கள் சந்தேக நபர்கள் வசம் இருந்து மீட்கப்பட்டுள்ளன.
+
+இவ்வாறு கைதுசெய்யப்பட்டவர்களில் ஒருவர் ஏற்கனவே போதைப்பொருள் நுகர்தல் மற்றும் விற்பனை தொடர்பில் சட்ட நடவடிக்கை எடுக்கப்பட்டவர் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/081d284e.json)
+
+---
+
 ### Nepal's terrible aircraft accident
 
 *2024-07-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199158) · `si`
@@ -111,6 +171,42 @@ Relief Employees say 18 people were killed and the pilot had been rescued that 1
 [Data](articles/751ec3a6.json)
 
 [Extended Data](ext_articles/751ec3a6.ext.json)
+
+---
+
+### ஜீவன் தொண்டமானை கைது செய்ய வேண்டாம் எனக் கோரி தலவாக்கலையில் வேலைநிறுத்தம்
+
+*2024-07-24 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189260) · `ta`
+
+ஹேலீஸ் பெருந்தோட்ட கம்பனியின் கீழ் இயங்கும் தலவாக்கலை பிளான்டேசன் நிர்வாகத்துக்குட்பட்ட பெருந்தோட்ட  தொழிலாளர்கள் இன்று புதன்கிழமை (24) வேலைநிறுத்த போராட்டத்தில் ஈடுபட்டனர்.
+
+தமக்கான நாள் சம்பளமாக 1,700 ரூபாவை வழங்க மறுக்கும் களனிவெளி கம்பனியின் அடாவடித்தனத்தை கண்டித்தும் இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான  ஜீவன் தொண்டமானுக்கு ஆதரவு தெரிவித்தும் இவ்வேலைநிறுத்த போராட்டம் முன்னெடுக்கப்பட்டது.
+
+தோட்டக் கம்பனிகள் தமது தொழிற்சங்கத் தலைவரை நீதிமன்றத்திற்கு அழைத்துச் சென்று காரணமின்றி கைது செய்ய ஏற்பாடு செய்துள்ளதாகவும், தமக்கு ஆதரவாக நின்ற தலைவரை அந்தக் குற்றச்சாட்டில் இருந்து நீக்குமாறு தோட்டக் கம்பனிகளிடம் கோரிக்கை விடுப்பதாகவும் வேலைநிறுத்தத்தில் ஈடுபட்டுள்ள தோட்டத் தொழிலாளர்கள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/9e065103.json)
+
+---
+
+### நேபாளத்தில் விமான விபத்து ; 18 பேர் பலி
+
+*2024-07-24 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189255) · `ta`
+
+நேபாளத்தில் 19 பயணிகளுடன் புறப்படத் தயாரான விமானம் ஒன்று இன்று புதன்கிழமை (24) காலை விபத்துக்குள்ளாகியுள்ளது.
+
+தலைநகர் காத்மண்டுவில் உள்ள திருபவுன் சர்வதேச விமான நிலையத்தில் இந்த விமான விபத்து இடம்பெற்றுள்ளது.
+
+இந்த விபத்தில் 18 பேர் உயிரிழந்துள்ளதாக விமான நிலையம் ஊடக அறிக்கையில் தெரிவித்துள்ளது.
+
+பலத்த காயங்களுடன் மீட்கப்பட்ட விமானி, அருகில் உள்ள வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளதாகவும் செய்திகள் வெளியாகியுள்ளன.
+
+நேபாளத்தின் சவுர்யா விமான நிறுவனத்திற்கு சொந்தமான அந்த விமானம், பொக்காரா என்ற ரிசார்ட் நகருக்கு புறப்பட்டபோது விபத்துக்குள்ளாகியிருக்கிறது.
+
+◼️
+
+[Data](articles/5dc4b5ec.json)
 
 ---
 
@@ -515,30 +611,6 @@ Accordingly, the District Judge issued to file protests in relation to the case 
 [Data](articles/6b2cded1.json)
 
 [Extended Data](ext_articles/6b2cded1.ext.json)
-
----
-
-### Fire at the Kalutara Divisional Secretariat
-
-*2024-07-24 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189247) · `ta`
-
-A fire erupted on the ground floor of the six-story Kalutara Divisional Secretariat building on Wednesday, prompting the arrival of two fire trucks from the Kalutara Municipal Council Fire Division. A firefighter suffered suffocation and was hospitalized during the efforts to control the blaze.
-
-🟩
-
-The fire broke out at the Kalutara Divisional Secretariat building on Wednesday (24), police said.
-
-A fire has been reported to have been reported on the ground floor of the six -storey Kalutara Divisional Secretariat building.
-
-The Kalutara Municipal Council Fire Division has sent two fire trucks to extinguish the fire.
-
-A firefighter who was working on the fire has been admitted to the hospital due to suffocation.
-
-◼️
-
-[Data](articles/948e9048.json)
-
-[Extended Data](ext_articles/948e9048.ext.json)
 
 ---
 
@@ -2193,99 +2265,5 @@ Madduma Bandara said the SJB will join hands with Sinhala, Tamil, Muslim, Burghe
 [Data](articles/f677d8d7.json)
 
 [Extended Data](ext_articles/f677d8d7.ext.json)
-
----
-
-### Shanakiyan calls for inquiry into news report on plot to assassinate him
-
-*2024-07-24 05:05:00* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-calls-for-inquiry-into-news-report-on-plot-to-assassinate-him/56-764644) · `en`
-
-Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam has called on Speaker Mahinda Yapa Abeywardena to take necessary action regarding a news report alleging that MP Sivanesathurai Chandrakanthan is involved in a plot to assassinate him.
-
-The news report had been published on the Lanka-e-news website on 20 July. It claimed that a Foreign Intelligence Service had uncovered a plot by Chandrakanthan better known as Pillayan to assassinate Rasamanickam.
-
-Speaking in Parliament yesterday Rasamanickam urged the Parliament to conduct an inquiry into the report by the news website. He noted a current Member of Parliament who is also a State Minister had been identified as involved in the plot. Rasamanickam also highlighted that the said MP has been previously accused of murder and even linked to the 2019 Easter attacks.
-
-...
-
-[Data](articles/e50c8660.json)
-
-[Extended Data](ext_articles/e50c8660.ext.json)
-
----
-
-### Cabinet nod to gazette and table revised  Online Safety Bill for Parliament approval
-
-*2024-07-24 05:03:58* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-gazette-and-table-revised-Online-Safety-Bill-for-Parliament-approval/56-764643) · `en`
-
-The Cabinet of Ministers on Monday approved publishing the draft Bill on amended Online Safety Act No. 9 of 2024 in the Government gazette notification and present the same in Parliament for approval.
-
-“The draft Bill prepared by the Legal Draftsman received clearance from the Attorney General,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
-
-He said the move aims to address the concerns raised by experts and ensure that the legislation effectively secures online methods while considering expert input.
-
-Following the Supreme Court’s decision on the draft Bill concerning the security of online methods and its subsequent passage in Parliament, the Online Safety Act No. 9 of 2024 is now in operation.
-
-Despite the Bill’s enactment, experts in the field raised concerns and proposed amendments to certain sections of the Bill. However, these amendments could not be incorporated during the committee stage of the legislative process.
-
-...
-
-[Data](articles/46c66c55.json)
-
-[Extended Data](ext_articles/46c66c55.ext.json)
-
----
-
-### Deshabandu Tennakoon prevents a interim order from acting as IGP
-
-*2024-07-24 04:58:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp38d3788nmo) · `si`
-
-Deshabandu Tennakoon blocked an interim order allowing him to appoint the President as IGP, despite Supreme Court directives. The court, led by judges Yasantha Kodagoda, Achala Wijesinghe, and Mahinda Samayawardena, upheld a decision against Tennakoon, President Gotabaya Rajapaksa, and Speaker Mahinda Yapa Abeywardena. A case against them is pending. The judges will reconvene on November 11th.
-
-🟩
-
-Deshabandu Tennakoon issued a ban on the Supreme Court today (July 24).
-
-Accordingly, the Supreme Court was appointed to the President to address the Inspector General of Police for the post of Inspector General of Police within the period of action.
-
-These orders announced the orders by Yasantha Kodagoda, Achala Vingappoley and Mahinda Samayawardena.
-
-The Supreme Court issued the order from the Supreme Court who was permitting to the appointment of Desirable Malcolm Ranjith to issue Deshabandu Tennakoon to appoint the President as IGP.
-
-The three-member panel of judges Judge Yasantha Kodagoda stated that the petitioners have been confirmed by the petitioners in the Petition.
-
-Accordingly, the Courts Commission has decided to hold a case against the President, Speaker Mahinda Yapa Abeywardena and Deshabandu Tennakoon, who had been named respondents of the petitions.
-
-...
-
-[Data](articles/964e6b10.json)
-
-[Extended Data](ext_articles/964e6b10.ext.json)
-
----
-
-### In the upcoming presidential election
-
-*2024-07-24 04:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189222) · `ta`
-
-President Ranil Wickremesinghe, having steered Sri Lanka through its worst economic crisis, vows to continue supporting the nation ahead of the upcoming presidential election. Ministers emphasize unity and economic development, highlighting Wickremesinghe's swift recovery efforts and the potential for increased government revenue through tax amendments. Despite initial public resistance, expected benefits from these changes are anticipated to garner support for Wickremesinghe, with voters focusing on policy rather than party affiliation.
-
-🟩
-
-President Ranil Wickremesinghe, who has recovered the country from the worst economic crisis in history, said that he was ready to support the people in the upcoming presidential election.
-
-The Minister of State pointed out that all parties should work together to further develop the country's economy.
-
-The Minister of Inaugural Industry Samara Sampath Dasanayake made this statement while attending a press conference held at the Presidential Media Center on Tuesday (23).
-
-“The country, which has been hit by the worst economic crisis in history, has been rescued within a short period of two years under President Ranil Wickremesinghe.. Accordingly, the corporations under our ministry have come to a profit, avoiding a loss.
-
-Other countries that face severe economic crises in the world have not reached economic stability in such a short time. While maintaining this stability, all parties must work with dedication to further develop the economy.
-
-...
-
-[Data](articles/1ffde80f.json)
-
-[Extended Data](ext_articles/1ffde80f.ext.json)
 
 ---

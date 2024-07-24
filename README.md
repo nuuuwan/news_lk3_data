@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 11:55:36**
+As of **2024-07-24 12:09:13**
 
 ## Newspaper Stats
 
-*Scraped **36,941** Articles*
+*Scraped **36,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,76 @@ colombotelegraphcom | 349
 bbccomsinhala | 360
 newsfirstlk | 363
 islandlk | 2,107
-economynextcom | 2,203
+economynextcom | 2,207
 dailyftlk | 2,358
 adalk | 3,350
-adaderanalk | 4,279
-tamilmirrorlk | 4,534
+adaderanalk | 4,280
+tamilmirrorlk | 4,536
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,198
+adaderanasinhalalk | 6,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,938 (100.0%) of 36,941 articles have been extended.
+36,938 (100.0%) of 36,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### දයාසිරි ජයසේකර ඉදිරිපත් කළ නඩුවක තීරණය කල්යයි
+
+*2024-07-24 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199154) · `si`
+
+මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කළ සමයේ තමන්ට එරෙහිව විනය ක්‍රියාමාර්ග ගනිමින් නිකුත් කර තිබූ චෝදනා පත්‍ර අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා එම පක්ෂයේ හිටපු මහ ලේකම් හා පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා ඉදිරිපත් කර තිබෙන පැමිණිල්ලට අදාළ  අතුරු තහනම් නියෝග පිළිබඳ තීන්දුව ලබන 31 වනදා ප්‍රකාශයට පත් කරන බව කොළඹ දිසා අධිකරණය අද (24) නියෝග කළේය.
+
+මෙම නඩුකරයට මැදිහත් වීමට තමන්ට අවසර දෙන ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික අමාත්‍ය ලසන්ත අලගියවන්න මහතා ඊයේ (23) අධිකරණය වෙතින් ඉල්ලීමක් කර තිබුණි.
+
+මීට අදාළව සිය තීරණය ප්‍රකාශයට පත් කරමින් දිසා විනිසුරුවරයා සඳහන් කළේ, ඔවුන්ට මෙම නඩුකරය සඳහා මැදිහත්වීමට අයිතියක් තිබෙන බවය.
+
+ඒ අනුව මෙම නඩුකරයට අදාළව විරෝධතා ගොනුකිරීමට දින ලබා දුන් දිසා විනිසුරුවරයා නඩුව නැවත ලබන 31 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/6b2cded1.json)
+
+---
+
+### Mosquito risk zones identified in govt and private sector institutions
+
+*2024-07-24 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100742/mosquito-risk-zones-identified-in-govt-and-private-sector-institutions-) · `en`
+
+The Government Health Entomology Officers’ Association stated that said that there is a significant increase in dengue mosquito larvae density within government institutions and private factories.
+
+President of the association Najith Sumanasena said that necessary steps will be taken to conduct special entomological surveys in the identified high-risk zones.
+
+He pointed out that the nationwide spread of dengue cases in Sri Lanka, has led to around 30,500 cases being reported so far this year with around twelve deaths.
+
+According to survey data, there is a higher density of mosquitoes notably within the premises of government institutions and various private sector institutions such as factories and businesses, compared to residential areas.
+
+He also stated that in order to address this issue, a special entomological survey programme was conducted on July 22, 23, and 24.
+
+...
+
+[Data](articles/27cba654.json)
+
+---
+
+### බංග්ලාදේශයේ අන්තර්ජාල සේවය ගැන තීරණයක්
+
+*2024-07-24 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199153) · `si`
+
+අන්තර්ජාල පහසුකම් දින 05ක් තාවකාලිකව වසා දැමීමෙන් පසු ඊයේ (23) සවස සිට යළි තෝරාගත් ප්‍රදේශවලට පමණක් ලබා දීම ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+රජයේ රැකියා සඳහා කෝටා ප්‍රතිසංස්කරණය කිරීම සම්බන්ධයෙන් බංග්ලාදේශය පුරා පැවති විරෝධතා මැඩපැවැත්වීම සඳහා අන්තර්ජාල ප්‍රවේශය සීමාකර තිබුණි.
+
+◼️
+
+[Data](articles/f07b1863.json)
+
+---
 
 ### Fire breaks out at Kalutara Divisional Secretariat
 
@@ -67,6 +119,32 @@ Meanwhile, one of the firefighters who was engaged in dousing the flames has bee
 ◼️
 
 [Data](articles/09a792cc.json)
+
+---
+
+### Sri Lanka rupee trades stronger at 303.60/80 to US dollar, bonds steady despite rate cut
+
+*2024-07-24 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-303-60-80-to-us-dollar-bonds-steady-despite-rate-cut-173545/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 303.60/80 to the US dollar on Wednesday, dealers said. Bond yields were broadly steady, they said, and stocks opened up 0.22 percent.
+
+In the secondary market, treasury bond yields held broadly steady, despite the central bank’s policy rate cut, dealers said.
+
+“Initially they came down, and there was some selling pressure, before they steadied.”
+
+A bond maturing on 15.12.2026 was quoted at 10.30/45 percent, down from 10.40/50 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.62/65 percent, down from 11.55/65 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.70/80 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.00/05 percent, down from 12.00/10 percent.
+
+In equities, Colombo’s All Share Price Index opened 25.70 points higher at 11,622, while the S&P SL20 of more liquid stocks opened up at 1.02 percent or 34.26 points to 3,402.
+
+◼️
+
+[Data](articles/81c59905.json)
 
 ---
 
@@ -346,6 +424,24 @@ The Supreme Court has issued a interim injunction preventing Deshabandu Tennakoo
 
 ---
 
+### Sri Lanka private credit expands Rs74bn in June
+
+*2024-07-24 09:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-expands-rs74bn-in-june-173533/) · `en`
+
+ECONOMYNEXT – Sri Lanka credit from banks to the private borrowers expanded by 74 billion rupees in June to 7,512 billion rupees, after also expanding 61 billion rupees in May, central bank data showed.
+
+When a central bank which does not have a clean float and cuts rates enforced by reverse repo and term reverse repo injection and triggers an external crisis, rates have to be steeply hiked to correct the confidence shock to its note issue (domestic currency).
+
+As rates go up and currency deprecation destroys, purchasing power, business lose customers, stop expanding and try to repay loans.
+
+The contraction in credit stabilizes the currency, but businesses do not make expansion plans until inflation stabilizes and demand recovers.
+
+...
+
+[Data](articles/2e9266fa.json)
+
+---
+
 ### Will be announced before Saturday
 
 *2024-07-24 09:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனிக்கிழமைக்கு-முன்னர்-அறிவிக்கப்படும்/175-340934) · `ta`
@@ -365,6 +461,36 @@ It is said that the meeting of the Commission is to be held on Thursday (25), ex
 [Data](articles/42623ea2.json)
 
 [Extended Data](ext_articles/42623ea2.ext.json)
+
+---
+
+### ’சனி’க்கு முன்னர் அறிவிக்கப்படும்
+
+*2024-07-24 09:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனி-க்கு-முன்னர்-அறிவிக்கப்படும்/175-340934) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான திகதியை சனிக்கிழமை (27)க்கு முன்னர் தேசிய தேர்தல்கள் ஆணைக்குழு அறிவிக்கவுள்ளது.
+
+வெள்ளிக்கிழமை (26) திகதி அறிவிக்கப்படும் என தெரிவிக்கப்பட்டிருந்த நிலையில் குறித்த அறிவிப்பு செவ்வாய்க்கிழமை  (24) வெளியிடப்பட்டுள்ளது.
+
+வியாழன் (25) நடைபெறவிருக்கும் கூட்டம் ஆணைக்குழுவின் வழக்கமான கூட்டமே தவிர தேர்தல் தேதி குறித்து விவாதிக்கும் நோக்கம் இல்லை எனவும் ஜனாதிபதி தேர்தல் அறிவிப்பிற்கான வர்த்தமானி அறிவித்தல் வார இறுதிக்கு முன்னர் வெளியிடப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/79764172.json)
+
+---
+
+### IGPயாக கடமையாற்ற தென்னகோனுக்கு தடை
+
+*2024-07-24 09:54:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/IGPயாக-கடமையாற்ற-தென்னகோனுக்கு-தடை/150-340933) · `ta`
+
+தேசபந்து தென்னகோன் பொலிஸ் மா அதிபராக கடமையாற்றுவதைத் தடுக்கும் வகையில் உயர் நீதிமன்றம் இடைக்கால உத்தரவு பிறப்பித்துள்ளது.
+
+தேசபந்து தென்னகோனை பொலிஸ் மா அதிபராக நியமித்த ஜனாதிபதியின் தீர்மானத்தை இரத்துச் செய்யும் உத்தரவை பிறப்பிக்குமாறு கோரி மேதகு கர்தினால் மல்கம் ரஞ்சித் உள்ளிட்ட தரப்பினரால் சமர்ப்பிக்கப்பட்ட அடிப்படை உரிமை மீறல் மனுக்களை விசாரணைக்கு எடுத்த உயர் நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.R
+
+◼️
+
+[Data](articles/ea1cabad.json)
 
 ---
 
@@ -396,13 +522,11 @@ The Supreme Court today issued an interim order preventing Deshabandu Tennakoon 
 
 The Supreme Court issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging the decision to appoint Tennakoon as the IGP.
 
-The petitioners had sought an interim order restraining Deshabandu Tennakoon from discharging the duties and functioning in the office of IGP.
+The Supreme Court also ordered the President to name a suitable person for the post of IGP, for the duration of the interim order being enforced against Deshabandu Tennakoon, Ada Derana reporter said.
 
-The fundamental rights (FR) petitions filed challenging the appointment of Deshabandu Tennakoon as IGP were taken up once again today (24).
+The fundamental rights (FR) petitions filed challenging the appointment of Deshabandu Tennakoon as IGP were taken up once again today (24). The petitioners had sought an interim order restraining Deshabandu Tennakoon from discharging the duties and functioning in the office of IGP.
 
 The Supreme Court on July 18 concluded considering the FR petitions filed challenging the appointment of Tennakoon as the IGP.
-
-Accordingly, the court had then announced that the decision as to whether or not the petitions will be taken up for hearing will be delivered today (24).
 
 ...
 
@@ -776,6 +900,22 @@ The Minister said that the next Ordinary Level will be held within the two month
 
 ---
 
+### Sri Lanka central bank policy lending rate cut 25bp to 9.25-pct
+
+*2024-07-24 07:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-policy-lending-rate-cut-25bp-to-9-25-pct-173466/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has cut the rate at which it is lending ‘printed money’ to banks by 25 basis points to 9.25 percent and the rate at which excess money is taken to 8.25 percent, in a July monetary policy decision.
+
+“The Board arrived at this decision following a careful assessment of the current and expected macroeconomic developments and possible risks and uncertainties on the domestic and global fronts with a view to maintaining inflation at the targeted level of 5 per cent over the medium term, while enabling the economy to reach its full capacity,” the central bank said in a monetary policy statement.
+
+“In arriving at this decision, the Board considered the need to signal the continuation of the eased monetary policy stance, thereby inducing a further reduction in market lending rates to support economic activity, amidst a benign inflation outlook.
+
+...
+
+[Data](articles/2b21f1bd.json)
+
+---
+
 ### Petitions against Chapter of Deshabandu today consider today
 
 *2024-07-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199142) · `si`
@@ -803,6 +943,28 @@ President's Counsel Romesh de Silva, who pointed out that the Constitutional Cou
 [Data](articles/f595f458.json)
 
 [Extended Data](ext_articles/f595f458.ext.json)
+
+---
+
+### Sri Lanka prepares anti-corruption agenda backed by IMF report
+
+*2024-07-24 07:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-prepares-anti-corruption-agenda-backed-by-imf-report-173464/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved a ‘National Anti-Corruption Agenda’ which is also also incorporates findings of a technical assistance report by the International Monetary Fund, a government statement said.
+
+Under the plan, Sri Lanka’s Anti-bribery law would be revised in line with the United Nations Convention Against Corruption and a Financial Action Task Force.
+
+Several key measures identified in an IMF governance diagnosis report will be incorporated.
+
+A new management plant for the Employees Provident Fund would be prepared and the State Owned Enterprise Reform policy would be implemented.
+
+These include developing a anti-corruption plan for 2025-2029, amending the National Audit Act, introducing measures to act against money laundering and proceeds of crime, strengthening provision to file cases against corruption.
+
+The 2007 Companies Act would be change to strengthen provisions on beneficial ownership.
+
+...
+
+[Data](articles/acce9e66.json)
 
 ---
 
@@ -2023,227 +2185,5 @@ Meanwhile, Bhutan, the largest recipient of the annual allocation under the MEA,
 [Data](articles/2f25404e.json)
 
 [Extended Data](ext_articles/2f25404e.ext.json)
-
----
-
-### Canada will continue to request responsible for human rights and abuses in Sri Lanka - Canada Prime Minister
-
-*2024-07-23 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189216) · `ta`
-
-Canada's PM Justin Trudeau reaffirmed Canada's commitment to addressing human rights abuses in Sri Lanka, particularly affecting vulnerable communities. This stance was highlighted during the commemoration of the 41st anniversary of Black July, a tragic event that marked the beginning of attacks on Tamil civilians in Colombo, leading to thousands of deaths and displacements. The Canadian Parliament recognized May 18, 2022, as a day of Tamil genocide, showing solidarity with the global Tamil community. Trudeau emphasized Canada's role as a defender of human rights and its efforts to support Tamil refugees post-Black July, welcoming 1,800 Tamils to rebuild their lives there.
-
-🟩
-
-Canada's Prime Minister Just Trudeau has said that Canada will continue to appeal to human rights and abuses against vulnerable communities in Sri Lanka.
-
-He said this in a statement issued in a statement referring to the 41st year of the Black July.
-
-41 years ago, today's attacks on Tamil civilians in Colombo, Sri Lanka, began attacks.
-
-The lives of thousands of innocents were lost, and many Tamils ​​were injured, became aimed at sexual violence, and forced to flee from the country.
-
-The ethnic conflict against Tamils ​​known as Black July increased tensions. It later evolved into decades of weapons.
-
-The Canada's parliament accepted the resolution of May 18, 2022 as a day of Tamil genocide.
-
-It expresses Canada's commitment to express unity with the Tamils ​​and the Tamil community of the world around the world to commemorate the victims and survivors of these meaningless violence.
-
-...
-
-[Data](articles/ac51ec85.json)
-
-[Extended Data](ext_articles/ac51ec85.ext.json)
-
----
-
-### Shooting of Trump - Container accepts that a mistake has happened
-
-*2024-07-23 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199137) · `si`
-
-The U.S. intelligence chief admitted a significant error regarding former President Donald Trump. This acknowledgment comes amid intense scrutiny from both Republican and Democratic lawmakers, who have demanded his immediate resignation due to what they describe as a major blunder spanning several years.
-
-🟩
-
-Inability to avoid the former president of the US president of Donald Trump, the main intelligence chief has accepted the chief of intelligence.
-
-She commented on the American Congress, and this is the serious bug of decades in decades.
-
-At the same time, lawmakers of the Republican and both Democratic parties had forced him to resign from office immediately.
-
-◼️
-
-[Data](articles/8536add5.json)
-
-[Extended Data](ext_articles/8536add5.ext.json)
-
----
-
-### Chavakachcheri Hospital Saga: The Tip Of The Iceberg Of A Broken & Outdated Health System
-
-*2024-07-23 21:49:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/chavakachcheri-hospital-saga-the-tip-of-the-iceberg-of-a-broken-outdated-health-system/) · `en`
-
-Most Sri Lankans, if not all who have social media access, by now know that there is a city in the Northern Province called Chavakachcheri, and that there are allegations and misdeeds in multiple areas in the base hospital.
-
-I am writing this as a medical professional educated and trained in Sri Lanka currently practice in North America. I am presenting this as two-part series with the second part focus on suggestions for change. I am going to start with the oath we take before going into the practice.
-
-I swear to fulfill, to the best of my ability and judgment, this covenant:
-
-I will respect the hard-won scientific gains of those physicians in whose steps I walk, and gladly share such knowledge as is mine with those who are to follow.
-
-I will apply, for the benefit of the sick, all measures [that] are required, avoiding those twin traps of overtreatment and therapeutic nihilism.
-
-...
-
-[Data](articles/fe22bbd5.json)
-
-[Extended Data](ext_articles/fe22bbd5.ext.json)
-
----
-
-### More information on Ward Place in Colombo
-
-*2024-07-23 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199136) · `si`
-
-In Colombo, Ward Place saw a fatal incident where a person died in a three-wheeler accident. Two suspects involved in the murder case were later discovered fleeing in another three-wheeler.
-
-🟩
-
-A person who was killed in a three-wheeler in Ward Place, Colombo was found this morning.
-
-Investigations revealed that two were revealed in another three-wheeler and had fled the murder.
-
-◼️
-
-[Data](articles/afd68d09.json)
-
-[Extended Data](ext_articles/afd68d09.ext.json)
-
----
-
-### Arrested
-
-*2024-07-23 21:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலை-செய்துவிட்டு-நாட்டை-விட்டு-தப்பி-ஓடியவர்-கைது/175-340904) · `ta`
-
-A businessman from Sri Lanka was extradited from Dubai to face charges for murdering a man, hiding a weapon, and fleeing the country. The Criminal Investigation Division (CID) in Sri Lanka collaborated with Dubai authorities to apprehend him. He was initially arrested in Dubai and later brought back to Sri Lanka on the 12th. Further investigations are ongoing.
-
-🟩
-
-Many shocking reports have revealed that the suspects were arrested by the Dubai government and brought to Sri Lanka by the Criminal Investigation Department officials.
-
-A 45 -year -old businessman from Jambukasmulla, Nugegoda has been brought from Dubai to the country.
-
-During the investigation, it was revealed that he had shot and killed a man and buried a gun used for murder and fled to Dubai.
-
-Based on his affidavit, the Criminal Investigation Division has been recovered by the Criminal Investigation Division.
-
-The suspect has been arrested by the Dubai police on a red cab. Accordingly, a team of Criminal Investigation Department officials went to Dubai and brought the suspect to Sri Lanka on the 12th.
-
-Officials of the Murder and Organized Criminal Investigation Department of the Criminal Investigation Department have been ordered to be kept in court after the suspect produced in court.
-
-...
-
-[Data](articles/4db7a0ee.json)
-
-[Extended Data](ext_articles/4db7a0ee.ext.json)
-
----
-
-### The government given to the doctor Arjuna ...
-
-*2024-07-23 21:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனாவுக்கு-அரசாங்கம்-கொடுத்த-அடி/71-340903) · `ta`
-
-Dr. Ramanathan Arsuna, previously the medical superintendent of the Chavakachcheri Hospital, has been appointed to the Peradeniya Teaching Hospital amidst ongoing investigations into his tenure. His appointment comes amid criticism of his handling of administrative issues and allegations of corruption within the hospital system. Despite these challenges, Dr. Arsuna continues to face scrutiny from both internal and external bodies, including human rights organizations.
-
-🟩
-
-Dr. Ramanathan Arsuna, the medical superintendent of the Jaffna - Chavakachcheri Resource Hospital, has been appointed as the medical officer of the Peradeniya Hospital.
-
-In recent days, he has been the Medical Superintendent of the Chavakachcheri Hospital and has revealed various information on doctors' shortcomings and administrative disorders.
-
-It is reported that no inquiries have been made on the matter.
-
-The Ministry of Health has seized its medical administration and appointed as a medical officer to the Peradeniya Teaching Hospital.. The department investigation is yet to be over.
-
-At the same time, our people are struggling in the end of the bloody civil war.
-
-Dr. Lal Panabitiya signed the same letter for the International Level Organization's Human Rights Investigation Investigation.
-
-All the corrupt persons are hiding what they are doing, but the truth -speaking people are punished. Remble
-
-◼️
-
-[Data](articles/ab40625a.json)
-
-[Extended Data](ext_articles/ab40625a.ext.json)
-
----
-
-### Election commission on the cost of election
-
-*2024-07-23 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199135) · `si`
-
-Elections Commissioner Saman Sri Ratnayake warns that increasing candidate numbers in the upcoming presidential election could significantly raise costs due to higher printing expenses for ballots.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that if the number of candidates will increase in the presidential election.
-
-He was speaking at a seminar in Colombo yesterday (22), Mr. Saman Sri Ratnayake said this.
-
-"We take the most sum of our election costs to the Department of Postal Department, the Police Department and the Government Press. We drink a post ice ice coffee while we drink a plate. Fucking ours.. But the resident go to Hanimun. But this time is clearly seeing the cost. "
-
-"If the number of candidates will increase this two rows of ballot. We survived the last time and 26 inches. There is 27 inches of this paper. "
-
-◼️
-
-[Data](articles/77666d84.json)
-
-[Extended Data](ext_articles/77666d84.ext.json)
-
----
-
-### President to grant scholarships for lay students at Piriven and Seelamatha educational institutions
-
-*2024-07-23 20:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/100728/president-to-grant-scholarships-for-lay-students-at-piriven-and-seelamatha-educational-institutions) · `en`
-
-Under the “Presidential Scholarship Program” initiated as a concept of President Ranil Wickremesinghe, approximately 3,000 out of 5,000 scholarships will be awarded to lay students, student monks, and Sheela Matha in Piriven and Sheela Mata educational institutions.
-
-The ceremony is taking place tomorrow (24) at 3:00 pm at the Temple Tress under the patronage of President Wickremesinghe, the President’s Media Division (PMD) said.
-
-This marks the first scholarship program of its kind for lay clergy students in Piriven. The initiative extends financial support to student monks studying up to the Piriven (Ordinary Level) and lay students up to the G.C.E. (Ordinary Level), providing them with Rs. 9,000 initially and Rs. 3,000 monthly for 12 months.
-
-...
-
-[Data](articles/a731f581.json)
-
-[Extended Data](ext_articles/a731f581.ext.json)
-
----
-
-### 5500 people caught another pyramid racket
-
-*2024-07-23 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199134) · `si`
-
-A woman led three arrests in a pyramid scheme investigation, involving the R3F app promoted on social media. The Financial Criminal Investigation Unit received complaints about financial fraud, revealing that around 5,500 people were deceived, with potential losses exceeding Rs. 350 billion.
-
-🟩
-
-Three criminal investigations have been arrested by a woman who cheated on a pyramid racket.
-
-The Financial Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit has received several complaints regarding the financial fraudulent commitment made by the Ride To Three Freedom Sri Lanka.
-
-The racketeers have propagated via social media that the R3F app can earn a large amount of money through the Criminal Investigations Department, investigations were revealed that about 5,500 people had been caught by the JAMARA.
-
-The racketeers have been prepared for about 31,000 accounts and earn the excavation of the money.
-
-The suspects had revealed that the racket had defrauded Rs. 350 billion.
-
-The suspects have said that more than Rs.
-
-◼️
-
-[Data](articles/ffc24f25.json)
-
-[Extended Data](ext_articles/ffc24f25.ext.json)
 
 ---

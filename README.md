@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 16:52:52**
+As of **2024-07-24 17:05:38**
 
 ## Newspaper Stats
 
-*Scraped **37,012** Articles*
+*Scraped **37,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,63 @@ adaderanalk | 4,286
 tamilmirrorlk | 4,549
 dailymirrorlk | 4,733
 virakesarilk | 5,805
-adaderanasinhalalk | 6,210
+adaderanasinhalalk | 6,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,009 (100.0%) of 37,012 articles have been extended.
+37,009 (100.0%) of 37,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### ක්‍රිකට් මහත්වරුන්ගේ ක්‍රීඩාවක් බව මතක් කරන්න සනත් කරපු පොඩි දේ
+
+*2024-07-24 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199166) · `si`
+
+තමා වැඩබලන පුහුණුකරු ලෙස පත්වූ පසු ජාතික කණ්ඩායමේ විනය සම්බන්ධයෙන් පොඩි පොඩි වෙනස්කම් කිහිපයක් කළ බව සනත් ජයසූරිය පවසයි.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවැත්වූ මාධ්‍ය හමුවකදී සනත් ජයසූරිය එසේ පැවසුවේ මාධ්‍ය වේදියෙක් ඇසු ප්‍රශ්නයකය පිළිතුරු දෙමිනි.
+
+මාධ්‍යවේදියා - "සනත්, කතාවක් තියෙනවා ඔබ පුහුණුකරු වුණායින් පස්සේ ප්ලේයර්ස්ලගේ කොණ්ඩ කපලා...කරාබු ගැලෙව්වයි කියලා...පච්චත් මකන්න අදහසක් තියෙනවද ?"
+
+සනත් ජයසූරිය - "අපි සාමාන්‍ය දේවල් තමයි කරන්නේ. ඔය කියන තරම්ම දේවල් නොවෙයි. විනය පොඩ්ඩක් බලනවා. මම interim coach කෙනෙක්. මම ඉන්නේ සංචාර දෙකකට යි. මම ඉන්න වෙලාවේ ඒ discipline තියෙන්න ඕනේ. පොඩි ක්‍රිකටර්ස්ලා ලොකු ක්‍රිකටර්ස්ලා දිහා බලනවා. ඒ අය කරන දේවල් ඉගෙන ගන්න කැමතියි. හොඳ දේවල් කළොත් අර හැදීගෙන එන පොඩි අයට හොඳ දෙයක් වෙයි. ඒ පැත්තෙන් බලලා තමයි පොඩි වෙනස්කම් කරන්නේ."
+
+◼️
+
+[Data](articles/dbf94908.json)
+
+---
+
+### ඉන්දියාව iPhone ඇතුළු ස්මාර්ට් ෆෝන් බදු අඩු කරයි
+
+*2024-07-24 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199165) · `si`
+
+නරේන්ද්‍ර මෝදිගේ නව සන්ධාන රජය ඉදිරිපත් කළ මංගල අයවැය මගින් ගෙන ඇති තවත් පියවරක් වන්නේ ස්මාර්ට් ජංගම දුරකථන සහ උපාංගවල ආනයන බදු 20% සිට 15% දක්වා පහත දැමීමය.
+
+මෙම පියවර ඍජුවම අමෙරිකානු ඇපල් අයිෆෝන් ඉන්දියාව තුළ වැඩි වශයෙන් අලෙවි වීමට හේතුවනු ඇති බව විශ්වාස කෙරෙයි.
+
+ඇපල් අයිෆෝන්වල සමස්ත නිෂ්පාදනයෙන් 10%ත් 12%ත් අතර ප්‍රමාණයත් වාර්ෂිකව ඉන්දියාවට ආනයනය කරයි.
+
+මේ නිසා 5%ක බදු කප්පාදුව හේතුවෙන් ඇපල් සමාගමට වාර්ෂිකව අමෙරිකානු ඩොලර් මිලියන 35ත් 50ත් අතර මූල්‍යමය වාසියක් හිමිවෙයි.
+
+ෆොක්ස්කොන් සහ ඉන්දියාවේ ටාටා සමූහය වැනි ආයතන කොන්ත්‍රාත්කරුවන් ලෙස යොදාගනිමින් ඇපල් අයිෆෝන් ඉන්දියාව තුළත් නිෂ්පාදනය කළත්, ඉහළ අන්තයේ (high end) ඇපල් ප්‍රෝ සහ ප්‍රෝ මැක්ස් වැනි ඇපල් දුරකථන මාදිලි ඉන්දියාව තවදුරටත් ආනයනය කරනු ලබයි.
+
+◼️
+
+[Data](articles/9ae497cf.json)
+
+---
 
 ### President Ranil convenes urgent Cabinet meeting
 
 *2024-07-24 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100748/president-ranil-convenes-urgent-cabinet-meeting) · `en`
 
 President Ranil Wickremesinghe has convened an urgent meeting of the Cabinet of Ministers.
+
+Accordingly, the Cabinet meeting is reportedly currently underway at the Presidential Secretariat in Colombo.
 
 ◼️
 
@@ -2291,45 +2331,5 @@ In arriving at this decision, the Board considered the need to signal the contin
 [Data](articles/1d706d69.json)
 
 [Extended Data](ext_articles/1d706d69.ext.json)
-
----
-
-### The gazette of the plantation workers' wages canceled
-
-*2024-07-24 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199144) · `si`
-
-Estate owners rescinded a previous order increasing plantation workers' wages, leading to confusion as the Ministry of Labor had previously supported the wage hike.
-
-🟩
-
-Estates have issued a gazette notification to cancel the gazette notification issued by the estate workers' salary.
-
-Accordingly, the Ministry of Labor has announced that Rs.
-
-◼️
-
-[Data](articles/118c7e83.json)
-
-[Extended Data](ext_articles/118c7e83.ext.json)
-
----
-
-### Gazette increasing daily wage of plantation workers cancelled
-
-*2024-07-24 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100733/gazette-increasing-daily-wage-of-plantation-workers-cancelled) · `en`
-
-The Labour Ministry has issued a new Gazette cancelling the previous Gazette notification which had been issued increasing the daily wage of plantation workers to Rs. 1,700.
-
-Meanwhile, the new Gazette has been issued directing the payments to be made through the Wages Board.
-
-The Minister of Labor had previously issued a Gazette notification setting the minimum daily wage of a plantation worker at Rs. 1,350, together with an allowance of Rs. 300 and another allowance of Rs. 80.
-
-However, 21 plantation companies including Agarapatana Plantations Ltd., had filed a petition seeking a writ order invalidating the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers.
-
-◼️
-
-[Data](articles/c1bdb904.json)
-
-[Extended Data](ext_articles/c1bdb904.ext.json)
 
 ---

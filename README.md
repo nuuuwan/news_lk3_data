@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 17:20:32**
+As of **2024-07-24 17:36:23**
 
 ## Newspaper Stats
 
-*Scraped **37,017** Articles*
+*Scraped **37,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,64 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,213
 dailyftlk | 2,358
-adalk | 3,356
+adalk | 3,357
 adaderanalk | 4,286
 tamilmirrorlk | 4,550
 dailymirrorlk | 4,733
 virakesarilk | 5,805
-adaderanasinhalalk | 6,213
+adaderanasinhalalk | 6,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,014 (100.0%) of 37,017 articles have been extended.
+37,017 (100.0%) of 37,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### ජනාධිපති ලේකම්ගේ චක්‍රලේඛයට එරෙහිව අතුරු තහනමක්
+### ජපානය නැවත ශ්‍රී ලංකාවේ වැඩ අරඹයි
+
+*2024-07-24 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199168) · `si`
+
+ශ්‍රී ලංකාව තුළ නවතා තිබූ ව්‍යාපෘති නැවත ආරම්භ කිරීම සඳහා අරමුදල් නිදහස්  කිරීමට කටයුතු කරන බව ජපානය අද (24) නිල වශයෙන් නිවේදනය කළේය.
+
+ඒ සම්බන්ධයෙන් විශේෂ මාධ්‍ය හමුවක් ජපාන තානාපති මිසුකොෂි හිදෙයකි,  JICA ශ්‍රී ලංකා කාර්යාල ප්‍රධානී යමාඩා ටෙට්සුයා සහ මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතාගේ ප්‍රධානත්වයෙන් අද  මුදල් අමාත්‍යාංශයේදී පැවැත්වුණි.
+
+◼️
+
+[Data](articles/709cbbc2.json)
+
+---
+
+### Interim banned against Secretary to the President's Circular
 
 *2024-07-24 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199167) · `si`
 
-ග්‍රාමීය සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා "ප්‍රජා උපදේශන කමිටු" පිහිටුවීම සම්බන්ධයෙන් ජනාධිපති ලේකම්වරයා විසින් නිකුත් කළ චක්‍රලේඛය ක්‍රියාත්මකවීම අත්හිටුවමින් ශ්‍රේෂ්ඨාධිකරණය අද (24) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+The Supreme Court issued an interim ban on a circular by the Presidential Advisory Committees aimed at rural development projects, citing potential misuse of government funds for political gains. The decision was based on a petition filed by PAFFREL, with Attorney-at-Law Devendra arguing against the allocation of resources for political rather than public benefit. Despite the Additional Solicitor General's request to dismiss the petition, the court granted the interim injunction due to concerns over electoral rights and the timing of the project near elections.
 
-පැෆ්රල් සංවිධානය සහ එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් මෙම විජිත් මලල්ගොඩ, යසන්ත කෝදාගොඩ සහ කුමුදුනී වික්‍රමසිංහ යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් මෙම අතුරු තහනම් නියෝගය නිකුත් කළේය.
+🟩
 
-ඉන් අනතුරුව පෙත්සම් විභාගය නොවැම්බර් මස 05 වනදා පැවැත්වීමට ද නියම කළේය.
+The Supreme Court today issued an interim injury today (24), with the establishment of the circular issued by the Presidential Advisory Committees to implement rural development projects.
 
-පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි නීතිඥ අස්ථික දේවේන්ද්‍ර මහතා අධිකරණය හමුවේ කරුණු දක්වමින් පැවසුවේ විවිධ සංවර්ධන ව්‍යාපෘති ලෙස හුවා දක්වමින් රජයේ මුදල් සහ සම්පත් දේශපාලන අරමුණු වෙනුවෙන් භාවිත  කිරීමක් මෙම ව්‍යාපෘති හරහා සිදු කෙරන බවත් එම ව්‍යාපෘති සම්බන්ධීකරණය සඳහා ප්‍රජා උපදේශන කමිටු  පිහිටුවා ඊට හිටපු ප්‍රාදේශීය සභා සභාපතිවරුන් පත්කිරීමට කටයුතු කර ඇති බවද චෝදනා කර සිටියේය.
+The interim decision was issued by the PAFFREL and its Executive Director Rohana Hettiarachchi.
+
+The petition was then held on November 5.
+
+Attorney-at-Law Devendra, who appeared for the petitioner, he said that the government's funds and resources were conducted for political purposes to coordinate with political counseling.There was a complaint that there was.
+
+The lawyer also requested that the use of government resources instead of using government resources to the public.
+
+Additional Solicitor General's Leisure Solicitor General's Leisure Solicitor General's Leisure Solution Siriwardena appeared in behalf of the respondents, the petition was asked to dismiss the petition without being heard.
+
+After considering the submitted by the two sides, the judges were then issued the interim injunction.
 
 ...
 
 [Data](articles/175d048f.json)
+
+[Extended Data](ext_articles/175d048f.ext.json)
 
 ---
 
@@ -1022,6 +1048,18 @@ Ratnayake told the media at a press conference on July 16 that the commission wi
 
 ---
 
+### ඊශ්‍රායෙලයේ ඉදිකිරිම් අංශයට ලංකාවෙන් 262ක් යයි
+
+*2024-07-24 12:22:55* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-ඉදිකිරිම්-අංශයට-ලංකාවෙන්-262ක්-යයි/11-410965) · `si`
+
+ඊශ්‍රායලයේ ඉදිකිරීම් අංශයේ රැකියා අවස්ථාවන් හිමිවූ රැකියාලාභීන් 262ක් සඳහා ගුවන් ටිකට්පත් ප්‍රදානය කිරීම කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙන් ‍ඊයේ (23) ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ දී සිදුකරන ලදී. මෙම රැකියාලාභීන් මෙම මස 27 දින සිට 30 දින දක්වා කාලය තුල ඊශ්‍රායලය බලා පිටත්ව යාමට නියමිතයි.
+
+◼️
+
+[Data](articles/e20b8184.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-07-24 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189250) · `ta`
@@ -1418,21 +1456,27 @@ In equities, Colombo’s All Share Price Index opened 25.70 points higher at 11,
 
 ---
 
-### මහාවංශය: පේරාදෙණිය විශ්වවිද්‍යාලය සතු පිටපත පමණක් ලෝක උරුමයක් වුණේ ඇයි?
+### Mahavamsa: Why was the copy of the University of Peradeniya only a world heritage?
 
 *2024-07-24 11:13:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51ye50j104o) · `si`
 
-මහාවංශය: පේරාදෙණිය විශ්වවිද්‍යාලය සතු පිටපත පමණක් ලෝක උරුමයක් වුණේ ඇයි?
+The University of Peradeniya's copy of the Mahavamsa became a UNESCO World Heritage site due to its historical significance and exceptional preservation. It was recognized for being a continuous, unbroken copy from the 6th century AD, showcasing the rich history of Sri Lanka and beyond, including periods like the reign of King Dutugemunu and the influence of Tamil rulers. The process took over three years, involving specialists who researched its authenticity and historical value. This copy stands out among many others for its linguistic quality and historical insights, making it a significant cultural asset deserving of global recognition.
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ පුස්තකාලය සතුව ඇති මහාවංශයේ පිටපතක් යුනෙස්කෝ ලෝක උරුමයක් ලෙස නම් කර ඒ සඳහා වන ලෝක උරුම සහතිකය නිකුත් කිරීම සිදුවූයේ ජුලි 17 වන දා පේරාදෙණිය විශ්වවිද්‍යාලයේදීයි. එම සහතිකය යුනෙස්කෝහි අධ්‍යක්ෂක ජනරාල් ඕඩ්රි අසූලේ විසින් පිරිනමන ලදි.
+🟩
 
-මේ පිටපත පමණක් ලෝක උරුමයක් වුණේ ඇයි? මේ විමසා බැලීම ඒ පිළිබඳව ය.
+Mahavamsa: Why was the copy of the University of Peradeniya only a world heritage?
 
-පේරාදෙණිය විශ්වවිද්‍යාලය සතුව ඇති මෙම මහාවංශ පිටපත ලෝක උරුමයක් බවට පත් කරගැනීම සඳහා වසර තුනහමාරකට අධික කාලයක් පුරා පරිශ්‍රමයක් දැරූ බව බීබීසී සිංහල කළ විමසීමක දී පේරාදෙණිය විශ්වවිද්‍යාලයේ උපකුලපති එම්.ඩී. ළමාවංශ පැවසුවේ ය. මුලින් ම ශ්‍රී ලංකාවේ මේ සම්බන්ධයෙන් විශේෂඥ භාවයක් සහිත දොළොස්දෙනෙකුගෙන් සමන්විත කණ්ඩායමක් විසින් පර්යේෂණ කරලා ඒ බව යුනෙස්කෝවට දැනුම් දුන්නා. පසුව ඒ අයත් මේ සම්බන්ධයෙන් පර්යේෂණ කරලා තමයි මේ පිටපත ලෝක උරුමයක් විදිහට නම් කළේ. මේ සම්පූර්ණ ක්‍රියාවලියට වසර තුනහමාරක පමණ කාලයක් ගත වුණා."
+July 17, an UNESCO World Heritage Site, a UNESCO World Heritage Survey is a UNESCO World Heritage Site. The certificate was presented by the Director General of UNESCO.
+
+Why was this copy only a world heritage?This is about this.
+
+Vice Chancellor of the University of Peradeniya, MD has taken over three and a half years to make this Mahavamsa version of the University of Peradeniya to become a world heritage.. Childs said. At first, a group of twelve people with specialist in Sri Lanka informed UNESCO. Later, they were researching this copy as a World Heritage. It took over three and a half years to this entire process. "
 
 ...
 
 [Data](articles/f01a363a.json)
+
+[Extended Data](ext_articles/f01a363a.ext.json)
 
 ---
 
@@ -2216,27 +2260,35 @@ Subsequently, the police have carried out a raid by the police a few weeks ago a
 
 ---
 
-### ஆள்மாறாடிய சட்டத்தரணி யாழில் கைது
+### Arrested in Jaffna
 
 *2024-07-24 09:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆள்மாறாடிய-சட்டத்தரணி-யாழில்-கைது/71-340930) · `ta`
 
-ஆள்மாறாட்டம் தொடர்பான வழக்கில் யாழ்ப்பாணம் - உடுவில் பகுதியைச் சேர்ந்த சட்டத்தரணியொருவர் நேற்று கைது செய்யப்பட்டார்.
+A Jaffna lawyer was arrested for impersonation, released on bail, and his office computers analyzed after a woman discovered her alleged divorce wasn't processed. Investigations revealed he was impersonating junior lawyers.
 
-யாழ்ப்பாணம் பிராந்திய விசேட குற்ற விசாரணைப் பிரிவு பொலிஸாரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+🟩
 
-கைதான சட்டத்தரணி சாவகச்சேரி நீதவான் நீதிமன்றத்தில் முற்படுத்தப்பட்டநிலையில் 10 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணையில் விடுவிக்கப்பட்டார்.
+A lawyer from Jaffna - Uduvil area was arrested yesterday in connection with the impersonation.
 
-அத்துடன் சட்டத்தரணியின் அலுவலகத்தில் இருந்த மூன்று கணிணிகளையும் பகுப்பாய்வு விசாரணைக்குட்படுத்த நீதிமன்றம் உத்தரவிட்டது.
+The arrest was carried out by the Jaffna Regional Special Crime Investigation Division.
 
-இத்தாலியைச் சேர்ந்த பெண்ணொருவர், யாழ்ப்பாணத்துக்குத் திரும்பி விவாகரத்துக்கு விண்ணப்பிக்கச் சென்றபோது, அவர் ஏற்கனவே விவாகரத்துப் பெற்றுள்ளார் என்று தரவுகள் வெளிக்காட்டியுள்ளன.
+Attorney -at -Law Chavakachcheri Magistrate's Court was released on two physical bail worth Rs 10 lakh.
 
-அந்தப் பெண் அதுவரை விவாகரத்துக்கு விண்ணப்பிக்காத நிலையில், இது தொடர்பில் பொலிஸாரிடம் முறையிட்டுள்ளார்.
+The court also ordered the analysis of all three computers in the lawyer's office.
 
-பொலிஸ் விசாரணைகளில், உடுவில் பகுதியில் உள்ள சட்டத்தரணியொருவர் கனிஷ்ட சட்டத்தரணிகள் மூலமாக ஆள்மாறாட்டம் செய்து , மேற்படி தம்பதியர்கள் விவாகரத்துப் பெற்றுக்கொள்வதாக நீதிமன்ற நடவடிக்கைகள் முன்னெடுக்கப்பட்டமை தெரியவந்தது.
+When a woman from Italy returned to Jaffna and applied for a divorce, data revealed that she was already divorced.
 
-...
+The woman has not yet applied for a divorce, and has appealed to the police.
+
+Police investigations revealed that a lawyer in Uduvil area was impersonating the junior lawyers and that the couple were divorced.
+
+Subsequently, the police have carried out a raid by the police a few weeks ago at the lawyer's office.. Remble
+
+◼️
 
 [Data](articles/7a09487e.json)
+
+[Extended Data](ext_articles/7a09487e.ext.json)
 
 ---
 
@@ -2313,43 +2365,5 @@ Naval and fishing communities are also requested to be attentive to future forec
 [Data](articles/7f370f72.json)
 
 [Extended Data](ext_articles/7f370f72.ext.json)
-
----
-
-### O/L exam results to be released in September
-
-*2024-07-24 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100736/ol-exam-results-to-be-released-in-september) · `en`
-
-Minister of Education Susil Premajayantha says that the results of the 2023 G.C.E. Ordinary Level (O/L) Examination will be released in September.
-
-The minister mentioned that the practical tests are now in their final week, and that the checking of answer sheets has been completed.
-
-Consequently, the Department of Examinations can release the results by September, he said.
-
-Additionally, the minister has stated that arrangements have been made to hold the next Ordinary Level Examination within the months of January and February 2025.
-
-◼️
-
-[Data](articles/432fd018.json)
-
-[Extended Data](ext_articles/432fd018.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-07-24 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100735/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
-
-◼️
-
-[Data](articles/66973a3f.json)
-
-[Extended Data](ext_articles/66973a3f.ext.json)
 
 ---

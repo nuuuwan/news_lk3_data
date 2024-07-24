@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 08:25:12**
+As of **2024-07-24 08:35:46**
 
 ## Newspaper Stats
 
-*Scraped **36,903** Articles*
+*Scraped **36,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,272
 tamilmirrorlk | 4,523
 dailymirrorlk | 4,733
 virakesarilk | 5,785
-adaderanasinhalalk | 6,190
+adaderanasinhalalk | 6,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,892 (100.0%) of 36,903 articles have been extended.
+36,903 (100.0%) of 36,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### මහ බැංකු පොලී අනුපාත තවත් පහළට
+
+*2024-07-24 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199146) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව සිය ප්‍රතිපත්ති පොලී අනුපාතිකය තවදුරටත් අඩු කිරීමට තීරණය කර තිබේ.
+
+ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය ඊයේ (23) පැවති රැස්වීමේ දී මෙම තීරණය ගෙන ඇත.
+
+ඒ අනුව මහ බැංකුවේ ප්‍රතිපත්ති පොලී අනුපාතික වන, නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය (SDFR) සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය (SLFR), පිළිවෙළින්, සියයට 8.25 සහ සියයට 9.25 දක්වා පදනම් අංක 25කින් අඩු කිරීමට මුදල් ප්‍රතිපත්ති මණ්ඩලය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/d9ca53ae.json)
+
+---
 
 ### Sri Lanka central bank further reduces policy rates
 
@@ -46,19 +62,27 @@ In arriving at this decision, the Board considered the need to signal the contin
 
 [Data](articles/1d706d69.json)
 
+[Extended Data](ext_articles/1d706d69.ext.json)
+
 ---
 
-### වතු කම්කරු වැටුප් වැඩි කිරීමේ ගැසට්ටුව අවලංගු කෙරේ
+### The gazette of the plantation workers' wages canceled
 
 *2024-07-24 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199144) · `si`
 
-වතු කම්කරු දෛනික වැටුප ඉහළ නංවමින් නිකුත් කර තිබූ ගැසට් නිවේදනය අවලංගු කරමින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+Estate owners rescinded a previous order increasing plantation workers' wages, leading to confusion as the Ministry of Labor had previously supported the wage hike.
 
-ඒ අනුව රු 1,700 වතු කම්කරු දෛනික වැටුප් වැඩිවීම පඩිපාලක සභාව හරහා ගෙවීමට උපදෙස් ලබාදී ඇතැයි කම්කරු අමාත්‍යාංශය නිවේදනය කරයි.
+🟩
+
+Estates have issued a gazette notification to cancel the gazette notification issued by the estate workers' salary.
+
+Accordingly, the Ministry of Labor has announced that Rs.
 
 ◼️
 
 [Data](articles/118c7e83.json)
+
+[Extended Data](ext_articles/118c7e83.ext.json)
 
 ---
 
@@ -71,6 +95,8 @@ The Labour Ministry has issued a Gazette cancelling the previous Gazette notific
 ◼️
 
 [Data](articles/c1bdb904.json)
+
+[Extended Data](ext_articles/c1bdb904.ext.json)
 
 ---
 
@@ -143,6 +169,8 @@ During the investigations carried out thus far, it has been revealed that the ow
 ...
 
 [Data](articles/d34b3ffd.json)
+
+[Extended Data](ext_articles/d34b3ffd.ext.json)
 
 ---
 
@@ -716,19 +744,25 @@ Ramanathapuram police said that steps will be taken to bring the suspects in cou
 
 ---
 
-### பிக்குணி மாணவர்களுக்கு புலமைப் பரிசில்
+### Scholarship Prize for Bikhini Students
 
 *2024-07-24 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்குணி-மாணவர்களுக்கு-புலமைப்-பரிசில்/175-340926) · `ta`
 
-3000  பிக்கு மாணவர்களுக்கு புலமைப்பரிசில் வழங்கும் நிகழ்வு இன்று பிற்பகல் 3.00 மணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் அலரி மாளிகையில் நடைபெறவுள்ளது.
+The event at Alari House, led by President Ranil Wickremesinghe, awards scholarships from the President's Fund to students of Parkuna and Pikkuni Educational Institutions, marking the first such initiative for this group.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக் கருவின்படி செயற்படுத்தப்படும் பிரிவேனா மற்றும் பிக்குணி கல்வி நிறுவனங்களில் கல்வி கற்கும் பிக்குகள் மற்றும் சாதாரண மாணவர்களுக்காக ஜனாதிபதி நிதியத்தினால் புலமைப்பரிசில் வழங்கும் திட்டத்தின் கீழ் இந்தப் புலமைப் பரிசில் வழங்கப்படுகிறது.
+🟩
 
-இதுவரை காலமும் பிரிவேன்களில் கற்கும் பிக்கு மாணவர்களை ஊக்குவிக்கும் புலமைப்பரிசில் திட்டங்கள் எதுவும் செயற்படுத்தப்படவில்லை என்பதோடு ஜனாதிபதியின் பணிப்புரையின் கீழ் நாடளாவிய ரீதியில் இந்த புலமைப்பரிசில் திட்டம் செயற்படுத்தப்படுவது விசேட அம்சமாகும். (a)
+The event will be held at the Alari House, headed by President Ranil Wickremesinghe at 3.00 pm today.
+
+The scholarship is awarded under the President's Fund Program for Monks and Ordinary Students in Parkuna and Pikkuni Educational Institutions, according to the impression of President Ranil Wickremesinghe.
+
+No scholarship programs have been implemented by the Scholarship Program to encourage students who have been learning in the sect.. (A)
 
 ◼️
 
 [Data](articles/33bea2bf.json)
+
+[Extended Data](ext_articles/33bea2bf.ext.json)
 
 ---
 
@@ -830,25 +864,35 @@ It was discussed that if you eliminate the painful process on the thumb, more mo
 
 ---
 
-### සා. පෙළ විෂය 6ක් වෙයි ද? පාසල් අධ්‍යාපනයෙන් සෞන්දර්ය බැහැර වෙයි ද? නව ප්‍රතිසංස්කරණ මොනවා ද?
+### Oh. Will the text be 6 subject?Will aesthetics leave school education?What are the new reforms?
 
 *2024-07-24 02:11:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg73d5y4ero) · `si`
 
-සා. පෙළ විෂය 6ක් වෙයි ද? පාසල් අධ්‍යාපනයෙන් සෞන්දර්ය බැහැර වෙයි ද? නව ප්‍රතිසංස්කරණ මොනවා ද?
+Sri Lanka's education reforms aim to streamline the curriculum, potentially reducing subjects from 13 to 12 and extending schooling to 17 years. These changes include categorizing education into primary (1-5), junior (6-8), and senior (9-12) sectors, introducing school-based assessments, and focusing on practical skills through the STEM approach. Despite concerns about removing aesthetic subjects, the Ministry assures their importance and plans for further study options. Parents generally support the reduction in subjects, citing less academic pressure.
 
-"අධ්‍යාපනය යනු ලෝකය වෙනස් කිරීමට භාවිත කළ හැකි වඩාත් බලවත් ම අවිය යි" - නෙල්සන් මැන්ඩෙලා"හෙට මැරෙන බව සිතා ජීවත් වන්න. සදාකාලිකව ජීවත් වන බව සිතා ඉගෙන ගන්න" - මහත්මා ගාන්ධි"වැඩි ම පොළියක් ලැබෙනු ඇත්තේ, අධ්‍යාපනය වෙනුවෙන් කරන ආයෝජනයකිනි" - බෙන්ජමින් ෆ්‍රෑන්ක්ලින්"තිබූ තැනක සොර සතුරන් ගත නොහෙනා - උගත මනා ශිල්පයමයි මතු රැකෙනා" - වදන් කවි පොත
+🟩
 
-ඉහත සෑම උපුටනයකින් ම අවධාරණය කරනුයේ, අධ්‍යාපනය ලැබීමේ ඇති වැදගතකම පිළිබඳව ය.
+Oh. Will the text be 6 subject?Will aesthetics leave school education?What are the new reforms?
 
-වර්තමානය වන විට අධ්‍යාපනය සම්බන්ධයෙන් ලෝකයේ පර්යේෂණ රැසක් සිදු කර ඇති අතර, බොහෝ දියුණු රටවල් දරුවන්ට සුදුසු අධ්‍යාපන ක්‍රම අනුගමනය කරමින් සිටී.
+"Education is the most powerful weapon that can change the world" - Nelson Mandela, "live in thinking tomorrow. Learn to think of everlasting life "- Mahatma Gandhi will get a large interest in the thief," Benjamin Franklin ", preserves ...
 
-ශ්‍රී ලංකාවේ අධ්‍යාපනය ක්‍රමය සම්බන්ධයෙන් දිගු කාලයක් තිස්සේ විවිධ විවේචන එල්ල වෙමින් තිබේ.
+Each quotation above emphasizes the significance of education.
 
-බොහෝවිට ශ්‍රී ලංකාවේ අධ්‍යාපනය ක්‍රමය සම්බන්ධයෙන් එල්ල වන සුලභ චෝදනාවක් වනුයේ, දරුවන්ගේ නිර්මාණශීලීත්වය අගැයීම වෙනුවට ඔවුන්ගේ මතක ශක්තිය මැන බැලෙන අධ්‍යාපන ක්‍රමයක් ක්‍රියාත්මක වන බව ය.
+Today, many research has been conducted in education, and many developing methods are following the best education methods.
+
+There have been many criticism for a long time regarding the education system in Sri Lanka.
+
+Often, the common accusation of the education system in Sri Lanka is that instead of evaluation of children's creativity, the education system is operating.
+
+A series of proposals to reform the education system in Sri Lanka.
+
+The Ministry of Education states that these new educational reforms will be implemented in the first term of 2025.
 
 ...
 
 [Data](articles/0ec56d10.json)
+
+[Extended Data](ext_articles/0ec56d10.ext.json)
 
 ---
 
@@ -1442,19 +1486,25 @@ The suspects have said that more than Rs.
 
 ---
 
-### පොලීසියේ 47කට මාරු
+### Transfers 47 policemen
 
 *2024-07-23 20:04:58* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-47කට-මාරු/11-410955) · `si`
 
-ප්‍රධාන පොලිස් පරීක්ෂකවරුන් සහ පොලිස් පරීක්ෂකවරුන් 47දෙනෙකුට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරු කිරීම හා පත්කිරීම් සිදුකර ඇතැයි පොලිස් මූලස්ථානය සඳහන් කරයි.
+47 police officers, including 24 Chief Inspectors and 23 Inspectors, were transferred and replaced with new appointees as per orders from the National Police Commission, approved by its Secretary and implemented under the direction of IGP Deshabandu Tennakoon.
 
-ඒ අනුව ප්‍රධාන පොලිස් පරීක්ෂකවරුන් 24දෙනෙකුට හා පොලිස් පරීක්ෂකවරුන් 23දෙනෙකු සඳහා එම ස්ථාන මාරු කිරීම් සහ පත්කිරීම් සිදුකර ඇත.
+🟩
 
-ජාතික පොලිස් කොමිෂන් සභාවේ ලේකම්ගේ 2024.07.22 දිනැති ලිපියේ සඳහන් අනුමැතිය පරිදි එම ස්ථාන මාරු කිරීම් සහ පත්කිරීම් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් වහාම ක්‍රියාත්මක කිරීමට නියෝග කර ඇත.
+47 Chief Inspectors and Inspectors of Police Inspectors have been transferred and appointments have been carried out with immediate effect, police headquarters said.
+
+Accordingly, 24 Chief Inspectors and 23 Inspectors have been appointed.
+
+According to the approval of the Secretary of the National Police Commission, the National Police Commission (NDB) has been ordered to implement the transfer and Appointments to the IGP Deshabandu Tennakoon.
 
 ◼️
 
 [Data](articles/03d7c1cf.json)
+
+[Extended Data](ext_articles/03d7c1cf.ext.json)
 
 ---
 
@@ -2251,23 +2301,5 @@ Considering the circumstances, “licensed banks have recognized the necessity o
 [Data](articles/c8ab0355.json)
 
 [Extended Data](ext_articles/c8ab0355.ext.json)
-
----
-
-### SLFP internal crisis: Another court decision pending for tomorrow
-
-*2024-07-23 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/100725/slfp-internal-crisis-another-court-decision-pending-for-tomorrow) · `en`
-
-The Colombo District Court ordered the decision on whether or not to suspend the declaring of the verdict of the plaint filed by MP Dayasiri Jayasekara until a decision is taken related to Lasantha Alagiyawanna’s request to intervene in the plaint, to be communicated tomorrow (24).
-
-This order was issued when the relevant plaint was called before the court today (23).
-
-Jayasekara had filed the relevant complaint before the Colombo District Court, challenging the decision taken by the Sri Lanka Freedom Party (SLFP) to expel him as the party’s General Secretary and a letter directed by the party’s then chairman Maithripala Sirisena asking Jayasekara to provide excuses to defend himself against a disciplinary inquiry.
-
-◼️
-
-[Data](articles/35bd8dac.json)
-
-[Extended Data](ext_articles/35bd8dac.ext.json)
 
 ---

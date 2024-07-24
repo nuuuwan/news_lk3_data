@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 22:08:22**
+As of **2024-07-24 22:20:37**
 
 ## Newspaper Stats
 
-*Scraped **37,055** Articles*
+*Scraped **37,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,290
 tamilmirrorlk | 4,551
 dailymirrorlk | 4,733
 virakesarilk | 5,814
-adaderanasinhalalk | 6,220
+adaderanasinhalalk | 6,221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,053 (100.0%) of 37,055 articles have been extended.
+37,055 (100.0%) of 37,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### ඡන්ද දෙකටම සූදානම් - මැතිවරණ කොමිසම
+
+*2024-07-24 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199176) · `si`
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කළ ද ජනාධිපතිවරණයේ කටයුතු සඳහා ඉන් බාධාවක් ඇති නොවන බව, මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පැවසීය.
+
+අද (24) කොළඹ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඔහු ප්‍රකාශ කළේ යම් හෙයකින් පාර්ලිමේන්තුව විසුරුවා හැරීමක් සිදුවුවහොත් ජනාධිපතිවරණය සහ මහමැතිවරණය පැවැත්වීමට මැතිවරණ කොමිෂන් සභාවට හැකියාව පවතින බවය.
+
+◼️
+
+[Data](articles/45f9f647.json)
+
+---
 
 ### India slashes import taxes on key metals, smartphones
 
@@ -49,6 +63,8 @@ India has been exploring ways to secure supplies of lithium, a critical raw mate
 ...
 
 [Data](articles/7f6817fe.json)
+
+[Extended Data](ext_articles/7f6817fe.ext.json)
 
 ---
 
@@ -294,19 +310,29 @@ The court has already issued an order on the temple issue and pointed out that t
 
 ---
 
-### අල්ලස් ගත් ග්‍රාම නිලධාරී රිමාන්ඩ්
+### Grama Niladhari remanded for bribery
 
 *2024-07-24 18:18:35* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-ග්‍රාම-නිලධාරී-රිමාන්ඩ්/11-410972) · `si`
 
-උප්පැන්න සහතිකයේ නම වෙනස් කරදීමට සහ නිවාස සංවර්ධන අධිකාරියේ පෝරමයක් පුරවාදීමට රුපියල් 50,000ක් වටිනා මත්පැන් බෝතල් දෙකක් ඉල්ලා පසුව රුපියල් 40,000කඅල්ලසක් ලබා ගත්තේ යැයි කියමින් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ කොළඹ 15 මාදම්පිටිය ග්‍රාම නිලධාරීවරයා ලබන 06වැනිදා තෙක් රක්ෂිත බන්ධනාගාරගතකිරීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (24දා) නියම කළේය.
+A Grama Niladhari in Colombo 15 was arrested for allegedly changing someone's birth certificate and demanding expensive liquor. The arrest came after a complaint filed on the 13th. Despite pleas from the suspect's lawyer for faster investigations, the magistrate ordered the suspect to remain in custody until further notice due to ongoing inquiries.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් කඩිනමින් විමර්ශන කර වහාම අධිකරණයට කරුණු වාර්තා කරන ලෙස අල්ලස් කොමිසමේ නිලධාරීන්ට නියම කළ මහේස්ත්‍රාත්වරයා සිද්ධිය සම්බන්ධයෙනන් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ කොළඹ 15 මාදම්පිටිය ග්‍රාම නිලධාරීවරයා වශයෙන් කටයුතු කළ ප්‍රදීප් පෙරේරා නමැත්තා රිමාන්ඩ් භාරයට පත් කළේය.
+🟩
 
-සිද්ධියට අදාළව කළ විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරිපත් කළ අල්ලස් කොමිසමේ නිලධාරීන් පසුගිය 13වැනිදා අල්ලස ඉල්ලීම පිළිබඳ 14වැනිදා කොමිසමට පැමිණිලි කිරීමෙන් පසු 23වැනිදා කළ වැටලීමකදී සැකකරු අත්අඩංගුවට ගත් බව දැනුම් දුන්නේය.
+Colombo Chief Magistrate Thilina Gamage, who was arrested and produced before the suspect, to be arrested in connection with the suspects to change the name of the birth certificate and demanding two worth of liquor bottles.(24) fixed.
+
+The Magistrate, who was appointed to the Bribery Commission to promptly investigate the case, was taken into custody and was remanded as the Grama Niladhari, Colombo 15, who was arrested.
+
+The officials of the Bribery Commission issued a report on the progress of the investigations into the incident on the 13th after his complaint on the 13th.
+
+Attorney Anton Senanayake appearing on behalf of the suspect Anton Senanayake asked the officials to expedite investigations into the client.
+
+Attorney Anton Senanayake appearing on behalf of the suspect, Mr. Anton Senanayake appearing on behalf of the suspect, the magistrate said that the magistrate had the weaknesses of the officers.
 
 ...
 
 [Data](articles/053ad839.json)
+
+[Extended Data](ext_articles/053ad839.ext.json)
 
 ---
 
@@ -2347,33 +2373,5 @@ The Twenty20 Tournament between the two countries will commence on the 27th and 
 [Data](articles/f2329685.json)
 
 [Extended Data](ext_articles/f2329685.ext.json)
-
----
-
-### Divorce for those who are not in the country;Lawyer arrested in Jaffna
-
-*2024-07-24 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189230) · `ta`
-
-A lawyer in Jaffna was arrested and later released on bail for allegedly facilitating a divorce for a couple living abroad without their presence. The arrest followed an investigation into the lawyer's actions, which included using three computers from his office. The couple, originally from Jaffna but residing in Italy, sought a divorce in Jaffna, leading to the legal proceedings and subsequent arrest.
-
-🟩
-
-A lawyer has been arrested and released on bail after being arrested in court for divorce in Jaffna in the name of a couple living abroad.
-
-The police arrested the lawyer for adding the Uduvil area on Tuesday (23) and ordered the three computers from the lawyer's office to allow the lawyer to go on bail of Rs 10 lakh.
-
-Two people from Jaffna are married and live in Italy. Between them, a few years ago, the two were separated in Italy.
-
-In that case, the husband, who lives in Chavakachcheri, has asked her to take a divorce in Jaffna and take steps to get a divorce.
-
-The sister then sought a lawyer in Jaffna and asked for a divorce in Jaffna.
-
-Subsequently, the lawyer has appointed two of his junior lawyers to appoint a husband and one to a wife, applied for the issue of the Chavakachcheri court, prosecuted the case, and divorced the two who are not in the country.
-
-...
-
-[Data](articles/5041cd51.json)
-
-[Extended Data](ext_articles/5041cd51.ext.json)
 
 ---

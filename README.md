@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 17:56:27**
+As of **2024-07-24 18:14:59**
 
 ## Newspaper Stats
 
-*Scraped **37,020** Articles*
+*Scraped **37,022** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 322
 colombotelegraphcom | 350
-bbccomsinhala | 361
+bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,213
 dailyftlk | 2,358
 adalk | 3,357
-adaderanalk | 4,286
+adaderanalk | 4,287
 tamilmirrorlk | 4,550
 dailymirrorlk | 4,733
 virakesarilk | 5,805
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,019 (100.0%) of 37,020 articles have been extended.
+37,019 (100.0%) of 37,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### Suspect arrested for stealing parked bus
+
+*2024-07-24 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100750/suspect-arrested-for-stealing-parked-bus) · `en`
+
+An individual who was driving a stolen bus has been arrested by the Moratuwa Police in the Rawathawatta area in Mortuwa.
+
+The arrested suspect had allegedly stolen the bus while it had been parked near the Minuwanpitiya public cemetery in Panadura.
+
+The arrestee is a 52-year-old resident of the Minuwanpitiya area.
+
+◼️
+
+[Data](articles/c3f2e784.json)
+
+---
 
 ### ක්ලබ් වසන්ත ඝාතන සිද්ධියේ රියදුරන් දෙදෙනා රිමාන්ඩ්
 
@@ -172,7 +188,13 @@ Accordingly, the Cabinet meeting is reportedly currently underway at the Preside
 
 The Japanese government today officially announced the release of funds for the resumption of development projects undertaken in Sri Lanka.
 
-◼️
+A special press conference to officially announce the release of funds for restarting the projects, following the signing the agreement with the Official Creditors Committee, was held today (24 ) at the Auditorium of the Ministry of Finance.
+
+The press conference was attended by Mr. Misukoshi Hideyaki, Ambassador of Japan, Mr. Tetsuya Yamada, Head of JICA Sri Lanka Office, and Mr. Mahinda Siriwardena, Secretary of the Ministry of Finance.
+
+A Japanese delegation visiting Sri Lanka recently had lauded the successful completion of the country’s debt restructuring process, noting that it has paved the way for the resumption of Japanese Official Development Assistance (ODA) projects.
+
+...
 
 [Data](articles/94d5b3a7.json)
 
@@ -1268,6 +1290,30 @@ The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu in 
 
 ---
 
+### ආසියානු කුසලානය 2024 : ශ්‍රී ලංකා කාන්තා කණ්ඩායම මෙතෙක් දැක්වූ දක්ෂතා මොනවාද ?
+
+*2024-07-24 11:56:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1342lg1ylgo) · `si`
+
+ආසියානු කුසලානය 2024 : ශ්‍රී ලංකා කාන්තා කණ්ඩායම මෙතෙක් දැක්වූ දක්ෂතා මොනවාද ?
+
+ශ්‍රී ලංකාවේ පැවැත්වෙන 2024 ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ පළමු වටයේ තරග මේ වන විට අවසන් අදියරට පැමිණ ඇත. පළමු වටයේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන අවසන් තරගය අද (ජුලි 24 වැනිදා) තායිලන්ත කාන්තා කණ්ඩායමට එරෙහිව පැවැත්වීමට නියමිතය.
+
+ආසියානු කුසලාන කාන්තා තරගාවලියේ අවසන් පුර්ව තරග ජුලි මස 26 වැනිදා සහ අවසන් මහ තරගය ජුලි මස 28 වැනිදාත් පැවැත්වීමට නියමිතව තිබේ.
+
+දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී පැවැත්වෙන මෙවර ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය සම්පුර්ණයෙන්ම නොමිළේ නැරඹීමට ප්‍රේක්ෂකයින්ට අවස්ථාව හිමිකර දී ඇත.
+
+B කාණ්ඩය යටතේ තරග කරන ශ්‍රී ලංකාව මේ වන විට ප්‍රසාද ලකුණු 4ක් ලබා ගනිමින් එම කාණ්ඩයේ පෙරමුණේ පසුවේ.
+
+මෙවර තරගාවලියේදී ශ්‍රී ලංකා කාන්තා කණ්ඩායම තමන් මුහුණ දුන් පළමු තරග දෙකෙන්ම පහසු ජයක් ලැබීමට සමත් වුයේ ප්‍රතිවාදී කණ්ඩායම්වලට ප්‍රබල අභියෝගයක් ගෙන දෙමිනි.
+
+බංගලාදේශ කාන්තා කණ්ඩායම සමග පැවති පළමු තරගයේදී කඩුලු 7ක පහසු ජයග්‍රහණයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+...
+
+[Data](articles/1fb801d5.json)
+
+---
+
 ### Revolver rifle was recovered and handed over to Kalmunai Police
 
 *2024-07-24 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189240) · `ta`
@@ -2319,59 +2365,5 @@ Subsequently, the police have carried out a raid by the police a few weeks ago a
 [Data](articles/7a09487e.json)
 
 [Extended Data](ext_articles/7a09487e.ext.json)
-
----
-
-### Impersive lawyer arrested in Jaffna
-
-*2024-07-24 09:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆள்மாறாட்டிய-சட்டத்தரணி-யாழில்-கைது/71-340930) · `ta`
-
-In Jaffna, a lawyer was arrested for impersonation, releasing him on bail after seizing his office computers for analysis. The case involves a woman who discovered her supposed divorce wasn't finalized, leading to police raids and uncovering further fraud.
-
-🟩
-
-A lawyer from Jaffna - Uduvil area was arrested yesterday in connection with the impersonation.
-
-The arrest was carried out by the Jaffna Regional Special Crime Investigation Division.
-
-Attorney -at -Law Chavakachcheri Magistrate's Court was released on two physical bail worth Rs 10 lakh.
-
-The court also ordered the analysis of all three computers in the lawyer's office.
-
-When a woman from Italy returned to Jaffna and applied for a divorce, data revealed that she was already divorced.
-
-The woman has not yet applied for a divorce, and has appealed to the police.
-
-Police investigations revealed that a lawyer in Uduvil area was impersonating the junior lawyers and that the couple were divorced.
-
-Subsequently, the police have carried out a raid by the police a few weeks ago at the lawyer's office.. Remble
-
-◼️
-
-[Data](articles/800d084f.json)
-
-[Extended Data](ext_articles/800d084f.ext.json)
-
----
-
-### 27 the Policy Investigations Officers of the Ministry of Health
-
-*2024-07-24 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199147) · `si`
-
-The Health Professional Association reports that 27 Ministry of Health officers have been transferred, sparking suspicion of information concealment. Ravi Kudmith, the company's chairman, expresses concern over potential corruption and calls for clarity in the law. He suggests either the Health Secretary deemed these officers at fault and should punish them or there's an issue with the Investigation Department's ability to disclose information, indicating a possible cover-up within the ministry.
-
-🟩
-
-The Health Professional Association (Health Professional Association) says that steps have been made to provide transfers to 27 officers of the Ministry of Health.
-
-The Chairman of the company Ravi Kudmith says this is suspicious that this situation is an attempt to hide information.
-
-"There are also many public services and corruption in the public service and many corruption fraud. The law should be clear. As we talk about this, 27 people have been transferred by the Secretary to the Ministry of Health. Either the Health Secretary believed that they were wrong from them. If so, they must have punished. Or to the Department of Investigations Department provides an unable to change the last information. There should be a need to hide information within 27 this ministry. "
-
-◼️
-
-[Data](articles/a03155ed.json)
-
-[Extended Data](ext_articles/a03155ed.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 03:35:42**
+As of **2024-07-25 03:54:20**
 
 ## Newspaper Stats
 
-*Scraped **37,068** Articles*
+*Scraped **37,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,220
-dailyftlk | 2,358
+dailyftlk | 2,362
 adalk | 3,366
 adaderanalk | 4,290
 tamilmirrorlk | 4,559
@@ -26,27 +26,99 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,067 (100.0%) of 37,068 articles have been extended.
+37,068 (100.0%) of 37,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ’மொட்டுவின் முட்டு இன்றேல் ரணில் அவுட்’
+### 41 years to Black July: Our voices towards meaningful reconciliation
+
+*2024-07-25 03:35:37* · [`dailyftlk`](https://www.ft.lk/columns/41-years-to-Black-July-Our-voices-towards-meaningful-reconciliation/4-764707) · `en`
+
+Successive regimes unsuccessfully tried to bury what happened during the war – Pic by Shehan Gunasekara
+
+In Sri Lanka, fear is pervasive. Suppression of media and fundamental rights of people and repression of human rights defenders foster a climate of fear, silencing victims, and inhibiting reconciliation. Political and criminal interests threaten the justice system, putting lives at risk for exposing the truth.
+
+For decades, regimes have perpetuated impunity, showing no signs of change. There have been no credible, independent investigations into major violent events like insurrections, the Black July pogrom, the proscription of the JVP, or the Easter bombings. Investigations are often obstructed, cases against perpetrators dismissed, and genuine investigators silenced or exiled. Allegations against intelligence and security agencies underscore the need for transparent and independent investigations with international involvement.
+
+...
+
+[Data](articles/e1c7448f.json)
+
+---
+
+### A real minimum wage can set ground for productivity gains
+
+*2024-07-25 03:32:15* · [`dailyftlk`](https://www.ft.lk/opinion/A-real-minimum-wage-can-set-ground-for-productivity-gains/14-764706) · `en`
+
+Then what really is the living wage and how does one establish a common benchmark?
+
+Wages in Sri Lanka have thrown up considerable debate, with local and international activists joining the chorus calling on Government and industries to honour a ‘living wage’.
+
+Sri Lanka’s official minimum wage edged to just Rs. 17,500 ($ 59) in March this year. The ‘living wage’ for urban Sri Lankans in 2022 was listed at Rs. 84,231 ($ 281) by the Global Living Wage Coalition, during a year the country’s headline inflation touched its highest of 73.7% as per the Central Bank. For simpler discourse, let us place that figure now at $ 300.
+
+...
+
+[Data](articles/bbe15ea9.json)
+
+---
+
+### Jackfruit revolution: rising king of global plant-based alternatives
+
+*2024-07-25 03:30:22* · [`dailyftlk`](https://www.ft.lk/opinion/Jackfruit-revolution-rising-king-of-global-plant-based-alternatives/14-764705) · `en`
+
+Meet the jackfruit, a tropical treasure poised to revolutionise the global food industry
+
+Imagine a fruit so versatile it can mimic the taste and texture of pulled pork and shredded chicken, so sustainable it thrives with minimal resources, and so nutritious it’s a powerhouse of vitamins and minerals. Meet the jackfruit, a tropical treasure poised to revolutionise the global food industry.
+
+Native to Southeast Asia and boasting the title of the largest tree-borne fruit on Earth, jackfruit has transcended its Sri Lankan roots to become a global culinary sensation. Introduced to Sri Lanka by Arthur V. Dias, during the British colonial era, when rice scarcity threatened starvation, the jackfruit emerged as a crucial source of sustenance, with its rich carbohydrates and natural fats providing much-needed energy. This lifesaving role later earned the title “Rice Tree”.
+
+...
+
+[Data](articles/d70a0918.json)
+
+---
+
+### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka physical and digital connectivity dialogue
+
+*2024-07-25 03:26:41* · [`dailyftlk`](https://www.ft.lk/opinion/Pathfinder-Foundation-and-Ananta-Aspen-Centre-lead-India-Sri-Lanka-physical-and-digital-connectivity-dialogue/14-764704) · `en`
+
+From left: (above) The Indian Express former National Editor Nirupama Subramanian, Eurasia Group India Practice Head, Hindustan Times former Foreign Editor, and Ananta Aspen Centre Visiting Fellow Pramit Pal Chaudhuri, ICTA CEO Mahesh Perera, and (below) Carnegie, India Director Dr. Rudra Chaudhuri, LIRNEasia Chairperson Prof. Rohan Samarajiva, and Trilegal Partner Rahul Matthan
+
+From left: Pathfinder Foundation Study Group on Envisioning India-Sri Lanka Physical Connectivity Convener and Ministry of Transport and Highways former Secretary Eng. R.W.R. Pemasiri, Pathfinder Foundation Chairman Amb. (Retd.) Bernard Goonetilleke, and Pathfinder Foundation Executive Director Dayaratna Silva
+
+The roundtable discussion on “Bridging Borders: Enhancing Connectivity between India and Sri Lanka” concluded successfully, fostering insightful dialogue and collaborative discussion on strengthening physical and digital connectivity between the two nations.
+
+...
+
+[Data](articles/8bda487e.json)
+
+---
+
+### Ranil Out of the Mottu
 
 *2024-07-25 01:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-முட்டு-இன்றேல்-ரணில்-அவுட்/175-340985) · `ta`
 
-ஶ்ரீலங்கா பொதுஜன பெரமுனவின் ஆதரவு கிடைக்காவிட்டால் ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்க போட்டியிட மாட்டார் என்று ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் துஷார இந்துநில் தெரிவித்தார்.
+Tushara Hindu stated that Ranil Wickremesinghe won't run for presidency without Sri Lanka PA's backing. He also mentioned that only Sarath Fonseka and Rajitha Senaratne from the United People's Power would join the president. The discussion revolved around AI technology adoption in resource-limited countries, economic challenges under previous leaders, and political maneuvers ahead of elections.
 
-இதேவேளை ஜனாதிபதியுடன் ஐக்கிய மக்கள் சக்தியில் இருந்து சரத் பொன்சேகா மற்றும் ராஜித சேனாரட்னவை தவிர வேறு எவரும் இணைய மாட்டார்கள் என்றும் அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) நடைபெற்ற செயற்கை நுண்ணறிவு தொழில்நுட்பம் தொடர்பான சபை ஒத்திவைப்புவேளை விவாதத்தில் உரையாற்றும் போதே துஷார இந்துநில்  இவ்வாறு கூறினார்.
+United People's Power Parliamentarian Tushara Hindu said that Ranil Wickremesinghe would not contest the presidential election if he did not get the support of the Sri Lanka PA.
 
-செயற்கை நுண்ணறிவு தொழில்நுட்பத்தில் நாங்கள் உலக நாடுகளிடையே பின்னடைவிலேயே இருக்கின்றோம். வளங்கள் வரையறுக்கப்பட்டுள்ள எம்மைப் போன்ற நாடுகளில் இவ்வாறான தொழில்நுட்பங்களை பயன்படுத்த வேண்டும் என்பதனை ஏற்றுக்கொள்ள வேண்டும். நாங்கள் உலக நாடுகளுடன் தொழில்நுட்பத்தில் முன்னேற்றமடைய வேண்டும்.
+At the same time, he said that no one other than Sarath Fonseka and Rajitha Senaratne from the United People's Power would join the president.
+
+Dushara Hindu said this while addressing the adjournment debate on the Artificial Intelligence Agency on Wednesday (24) in Parliament.
+
+In artificial intelligence technology we are in the backlash of the world. It must be accepted that such technologies should be used in countries like us that are limited to resources. We need to improve technology with the world.
+
+Our presidents make political promises of time. Previously, the tree climbing conditions continues in search of telecommunication signals for children. In this case, Sajith Premadasa is carrying out programs to create modern classrooms throughout the country.
 
 ...
 
 [Data](articles/7bb0dc71.json)
+
+[Extended Data](ext_articles/7bb0dc71.ext.json)
 
 ---
 
@@ -2309,93 +2381,5 @@ Fire was burned in the plane after the accident occurred. It was extinguished by
 [Data](articles/8031596b.json)
 
 [Extended Data](ext_articles/8031596b.ext.json)
-
----
-
-### The plane crashed with 19 people
-
-*2024-07-24 12:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/19-பேருடன்-பயணித்த-விமானம்-விபத்துக்கு-உள்ளானது/50-340947) · `ta`
-
-A Sauriya Airlines flight crashed at Kathmandu's Tribhuvan International Airport, killing all 19 onboard. The accident happened as the plane collided with the runway.
-
-🟩
-
-The Sauriya Airlines flight at the Tribhuvan International Airport in Kathmandu crashed.
-
-In this case, the accident occurred when the plane crashed into the runway.
-
-◼️
-
-[Data](articles/d65b5fbb.json)
-
-[Extended Data](ext_articles/d65b5fbb.ext.json)
-
----
-
-### Bangladesh partially restores telecommunication services as protests taper off
-
-*2024-07-24 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100743/bangladesh-partially-restores-telecommunication-services-as-protests-taper-off) · `en`
-
-Bangladesh partially restored telecommunication services on Wednesday although Internet connection was slow and social media remained suspended, days after deadly protests against reservations for government jobs killed almost 150 people.
-
-The country has mostly been calm since Sunday when the Supreme Court scaled down reservations for various categories to 7 percent, overruling a high court verdict reinstating a 56 percent quota in government jobs that had been scrapped in 2018.
-
-Prime Minister Sheikh Hasina’s government said on Tuesday that it would heed the Supreme Court ruling.
-
-As demonstrations against the quotas  which included a 30 percent reservation for family members of freedom fighters from the 1971 war of independence from Pakistan  tapered off, the government started easing the curfew imposed last week.
-
-Restrictions will be relaxed for seven hours on Wednesday and offices will also be open from 11 a.m. to 3 p.m., officials said.
-
-...
-
-[Data](articles/6156f9fc.json)
-
-[Extended Data](ext_articles/6156f9fc.ext.json)
-
----
-
-### Yall. Court ordered to remand the person who was intoxicated
-
-*2024-07-24 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189244) · `ta`
-
-A court in Jaffna ordered a man, found drunk, to be remanded for 14 days after he disrupted a family violence hearing.
-
-🟩
-
-The judiciary has ordered the Jaffna court to be interrogated by the man who came to the liquor.
-
-Yall. During the hearing of the family violence in the Magistrate's Court, the person who came to the court came to the bar.
-
-Following the hearing of the man, the court police arrested the man and tried to the court.
-
-The arrested person has been ordered to be kept in remand for the next 14 days.
-
-◼️
-
-[Data](articles/8653163e.json)
-
-[Extended Data](ext_articles/8653163e.ext.json)
-
----
-
-### Supreme Court issues interim order on appointment of Sri Lanka’s police chief: report
-
-*2024-07-24 12:04:00* · [`economynextcom`](https://economynext.com/supreme-court-issues-interim-order-on-appointment-of-sri-lankas-police-chief-report-173553/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s Supreme Court has issued an interim order preventing Deshabandu Tennakoon from serving as Inspector General of Police (IGP), a media report said.
-
-The privately owned Ada Derana news network reported Wednesday July 24 morning that the Supreme Court had made this verdict after granting leave to proceed for nine fundamental rights petitions filed against Tennakoon’s appointment as IGP.
-
-Other reports said the country’s apex court has also ordered President Ranil Wickremesinghe to name a suitable person for the post of IGP during the period the interim order is in effect.
-
-Sri Lanka’s Centre for Policy Alternatives (CPA) was among those who had filed petitions in the Supreme Court challenging the constitutionality of the appointment.
-
-The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu in March against the presidential appointment of Tennakoon, CPA said in a statement on March 13.
-
-...
-
-[Data](articles/f8f3309b.json)
-
-[Extended Data](ext_articles/f8f3309b.ext.json)
 
 ---

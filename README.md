@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 07:49:16**
+As of **2024-07-24 08:04:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,189
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,869 (99.9%) of 36,896 articles have been extended.
+36,879 (100.0%) of 36,896 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,21 +88,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ඉදිරි පැය 24 සැලකිලිමත් වන්න
+### Next 24 Hours Be Care
 
 *2024-07-24 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199139) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Strong winds and rough seas expected due to southwest monsoon over the next 24 hours. The Department of Meteorology warns against sailing in affected areas, advising caution especially for fishermen and naval communities.
 
-අද (24) අලුයම 3ට නිකුත් කර ඇති අදාළ නිවේදනය ඉදිරි පැය 24 සඳහා බලපැවැත්වේ.
+🟩
 
-සක්‍රීය නිරිතදිග මෝසම් කාලගුණය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශයේ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ ඉතා තද සුළං පැවතිය හැකි අතර මුහුද ඉතා රළු වේ.
+The Department of Meteorology has issued a warning red announcement of the strong winds and the sea.
 
-ඉහත සිතියමේ රතු වර්ණයෙන් දැක්වෙන මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසට ධීවරයින්ට හා නාවික ප්‍රජාවට දැනුම් දෙයි.
+The announcement issued at 3 am today (24) is effective for the next 24 hours.
+
+The southwest monsoon weather can remain strong in the Sea area and the sea is very rough.
+
+The fishermen and the naval community informed the fishermen and the community not to be sailed until the red area of ​​the above map.
 
 ◼️
 
 [Data](articles/8ed94363.json)
+
+[Extended Data](ext_articles/8ed94363.ext.json)
 
 ---
 
@@ -292,6 +298,8 @@ The proposal, presented by President Ranil Wickremesinghe in his capacity as Fin
 
 [Data](articles/998e8bb1.json)
 
+[Extended Data](ext_articles/998e8bb1.ext.json)
+
 ---
 
 ### ‘Films Sri Lanka’ to boost local cinema industry
@@ -307,6 +315,8 @@ On 29 April, the Cabinet discussed the proposal to establish the ‘National Fil
 ...
 
 [Data](articles/b329abf8.json)
+
+[Extended Data](ext_articles/b329abf8.ext.json)
 
 ---
 
@@ -324,6 +334,8 @@ The event opened with a welcome address by CPA Australia President, Board Chair,
 
 [Data](articles/27795cd5.json)
 
+[Extended Data](ext_articles/27795cd5.ext.json)
+
 ---
 
 ### Cabinet nod to gazette and table proposed State Asset Management Bill
@@ -339,6 +351,8 @@ On 17 October 2022, Cabinet approved identifying movable or immovable non-financ
 ...
 
 [Data](articles/c5c214a9.json)
+
+[Extended Data](ext_articles/c5c214a9.ext.json)
 
 ---
 
@@ -360,6 +374,8 @@ Under current provisions, taxpayers who are dissatisfied with a decision by the 
 
 [Data](articles/29ac37f2.json)
 
+[Extended Data](ext_articles/29ac37f2.ext.json)
+
 ---
 
 ### Cabinet approves tabling Port City Economic Commission order in Parliament
@@ -378,6 +394,8 @@ The strategic importance designation is anticipated to facilitate smoother opera
 
 [Data](articles/ac50a380.json)
 
+[Extended Data](ext_articles/ac50a380.ext.json)
+
 ---
 
 ### Rs. 300 m boost for handloom industry to empower women and youth
@@ -395,6 +413,8 @@ Noting that a combined project proposal was prepared to tackle these issues, he 
 ...
 
 [Data](articles/22fb42e5.json)
+
+[Extended Data](ext_articles/22fb42e5.ext.json)
 
 ---
 
@@ -415,6 +435,8 @@ During the height of the COVID-19 pandemic, the Health Ministry recommended crem
 ...
 
 [Data](articles/f3265aac.json)
+
+[Extended Data](ext_articles/f3265aac.ext.json)
 
 ---
 
@@ -437,6 +459,8 @@ Madduma Bandara said the SJB will join hands with Sinhala, Tamil, Muslim, Burghe
 ...
 
 [Data](articles/f677d8d7.json)
+
+[Extended Data](ext_articles/f677d8d7.ext.json)
 
 ---
 

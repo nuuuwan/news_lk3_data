@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 02:35:48**
+As of **2024-07-25 02:54:11**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,064 (100.0%) of 37,065 articles have been extended.
+37,065 (100.0%) of 37,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ’மன்னிப்பு தீர்வாகாது’
+### Exchange apologies will not be solved
 
 *2024-07-25 00:54:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னிப்பு-தீர்வாகாது/175-340983) · `ta`
 
-தமிழர்களுக்கு எதிரான கறுப்பு ஜூலை படுகொலைகள் நடந்து 41 வருடங்களின் பின்னர் அமைச்சர் ஒருவரால் தற்போது சொல்லப்பட்ட மன்னிப்பு என்ற வார்த்தை எந்த வகையிலும் தமிழருக்கு தீர்வாக அமைந்துவிடாது என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எஸ்.சிறீதரன் தெரிவித்தார்.
+S. Sreedharan, a TNA parliamentarian, criticized the term "amnesty" as a solution for Tamils affected by the 1983 Black July massacre, emphasizing the need for justice instead. He highlighted the historical context of Tamil resistance movements and the ongoing impact of the genocide, calling for recognition of the atrocities committed against Tamils.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) நடைபெற்ற செயற்கை நுண்ணறிவு தொழில்நுட்பம் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-ஈழ விடுதலைப் போராட்ட வரலாற்றில் 70களின் பிற்பகுதியில் 1980 களின் ஆரம்பத்தில் பல்வேறுபட்ட விடுதலை இயக்கங்கள் உருவாகியிருந்தன. அவ்வாறான இயக்கங்களின் வரலாற்றில் தமிழீழ இராணுவம் எனும் கட்டமைப்பை உருவாக்கி ஈழ விடுதலைப் போராட்டத்தின் முன்னோடியாக இருந்த ஒருவரான தம்பாபிள்ளை மகேஸ்வரனை இந்த சபையில் நினைவில் கொள்கின்றேன்.
+Tamil National Alliance (TNA) parliamentarian S. Sreedharan said that the word 'amnesty' is not a solution to the Tamils ​​in any way after 41 years of the black July massacre against Tamils.
+
+He said this while addressing the debate on the adjournment of the Artificial Intelligence Technology Council held in Parliament on Wednesday (24).
+
+In the history of the Eelam liberation struggle, in the late 70s, a variety of liberation movements were formed in the early 1980s. In this congregation, I remember Tambapillai Maheshwaran, the forerunner of the Eelam Liberation Movement, creating the structure of the Tamil Eelam Army in the history of such movements.
+
+Although he was born into a comfortable family. He learned in the field of engineering in London and renounced his learning and joined him as an Eelam liberation fighter with subconscious tribute.
 
 ...
 
 [Data](articles/5366a135.json)
+
+[Extended Data](ext_articles/5366a135.ext.json)
 
 ---
 

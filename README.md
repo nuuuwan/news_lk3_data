@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 21:35:56**
+As of **2024-07-24 21:55:12**
 
 ## Newspaper Stats
 
-*Scraped **37,049** Articles*
+*Scraped **37,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 3,364
 adaderanalk | 4,289
 tamilmirrorlk | 4,551
 dailymirrorlk | 4,733
-virakesarilk | 5,812
-adaderanasinhalalk | 6,218
+virakesarilk | 5,814
+adaderanasinhalalk | 6,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,049 (100.0%) of 37,049 articles have been extended.
+37,049 (100.0%) of 37,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### මව්බිම රනින් සැරසූ කරාතේ ක්‍රීඩක ක්‍රීඩිකාවෝ
+
+*2024-07-24 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199175) · `si`
+
+භූතානයේ පැවති 8වන දකුණු ආසියානු කරාතේ ශූරතා තරගාවලියේදී පදක්කම් 54ක් දිනා ගැනීමට ශ්‍රී ලංකා ක්‍රීඩක ක්‍රීඩිකාවන් සමත් විය.
+
+ශ්‍රී ලංකාව නියෝජනය කරමින් 63 දෙනෙකුගෙන් යුත් කණ්ඩායමක් ඊට එක්වී තිබුණි.
+
+එහිදී රන් පදක්කම් 5ක්, රිදී පදක්කම් 18ක් සහ ලෝකඩ පදක්කම් 31ක් දිනා ගැනීමට ශ්‍රී ලංකා ක්‍රීඩක ක්‍රීඩිකාවන් සමත් විය.
+
+එය පසුගිය වසරේ ශූරතාවයට සාපේක්ෂව ප්‍රගතියක් ලබා ඇති බව වාර්තා වෙයි.
+
+එමෙන්ම 2025 වසරේ 9වන දකුණු ආසියානු කරාතේ ශූරතාවලිය සඳහා සත්කාරකත්වය ශ්‍රී ලංකාව වෙත ලබාදීමට කළ යෝජනාව ස්ථීර වී ඇත.
+
+◼️
+
+[Data](articles/29876e5e.json)
+
+---
+
+### ශ්‍රී ලංකා ක්‍රීඩිකාවන් අපරාජිතව අවසන් පූර්ව වටයට
+
+*2024-07-24 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199174) · `si`
+
+ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ අපරාජිතව අවසන් පූර්ව වටයට පිවිසීමට අද (24) ශ්‍රී ලංකා ක්‍රිකට් කාන්තා කණ්ඩායම සමත් විය.
+
+ඒ අද පැවැති තරගයෙන් තායිලන්ත කණ්ඩායම කඩුලු 10කින් පරාජය කරමිනි.
+
+එම තරගයේ කාසියේ වාසිය දිනූ තායිලන්ත පිල පළමුවෙන් පන්දුවට පහරදීමට තීරණය කර තිබුණි.
+
+ඒ අනුව තායිලන්තය නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී රැස් කළේ ලකුණු 93ක් පමණි.
+
+ජයග්‍රාහී ලකුණු 94ක ඉලක්කය හඹා ගිය ශ්‍රී ලංකා ක්‍රීඩිකාවන් පන්දුවා 11යි පන්දු 03ක් අවසානයේ කිසිඳු කඩුල්ලක් නොදැවී ලකුණු 94ක් ලබා සිය ජය තහවුරු කළාය.
+
+◼️
+
+[Data](articles/10118915.json)
+
+---
 
 ### Asy instead of Chameera
 
@@ -81,6 +121,8 @@ Accordingly, the Supreme Court has ordered the President to take steps to appoin
 *2024-07-24 20:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100753/cabinet-approves-special-monthly-allowance-for-pensioners) · `en`
 
 The Cabinet of Ministers has granted approval to provide a special monthly allowance of Rs. 3,000 to pensioners starting from September 2024 until their salary anomalies are fully addressed, according to Minister Susil Premajayantha.
+
+“A separate committee has been appointed regarding the salary disparities in the public service. The committee was appointed to solve the salary disparities in all fields at once. In the meantime, according to the committee’s own opinion, it was decided to give an allowance of Rs.3000 rupees to the pensioners from September. About 700,000 people will get that benefit”, said the minister.
 
 ◼️
 
@@ -824,6 +866,24 @@ As a result, gold prices in India have already decreased and gold prices are hig
 
 ---
 
+### சடலங்களை தகனம் செய்தமைக்கு முஸ்லிம்களிடம் மன்னிப்புக் கோரி தப்பிவிட முடியாது  - சஜித்
+
+*2024-07-24 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/189270) · `ta`
+
+கொவிட் தொற்றுக்குள்ளாகி மரணித்த முஸ்லிம் சமூகத்தின் பூதவுடல்கள் தகனம் செய்யப்பட்டமைக்கு மன்னிப்பு கோருவதற்கு அரசாங்கம் எடுத்துள்ள தீர்மானத்தை வரவேட்கிறோம். அத்துடன் மன்னிப்புடன் மாத்திரம் இதில் இருந்து தப்பிக்க அரசாங்கத்துக்கு முடியாது.
+
+இதற்கு காரணமானவர்களின் பெயர்களை வெளிப்படுத்த வேண்டும் என்பதுடன் பாதிக்கப்பட்டவர்களின் குடும்பங்களுக்கு நட்டஈடு வழங்கவும் நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+கொவிட் தொற்றில் மரணித்த முஸ்லிம் பிரஜைகளின் சடலங்களை தகனம் செய்தமைக்கு மன்னிப்பு கோருவதற்கு அரசாங்கம் அமைச்சரவை தீர்மானம் எடுத்திருப்பதை வரவேட்கிறேன். கோத்தாபய ராஜபக்ஷ் அரசாங்கத்தில் முஸ்லிம் மக்களின் மத கலாசாரத்தை சீரழித்து, இனவாத அடிப்படையில் முஸ்லிம் மக்களை இலக்குவைத்தே இந்த தீர்மானத்தை அன்று அமைச்சரவையில் இந்த தீர்மானத்தை எடுத்தனர்.
+
+இதற்கு தற்போது அமைச்சரவையில் இருக்கும் சிலர் ஆதரவளித்தனர். என்றாலும் இந்த நடவடிக்கையை விட்டு விடுவதற்காக தற்போதாவது இடம்பெற்ற சம்பவத்துக்காக மனிப்புகோர எடுத்த தீர்மானத்தை மதிக்கிறேன்.
+
+...
+
+[Data](articles/4b2fd136.json)
+
+---
+
 ### Muslim MPs should apologize
 
 *2024-07-24 16:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-எம்-பி-க்கள்-மன்னிப்பு-கேட்கவேண்டும்/175-340958) · `ta`
@@ -843,6 +903,24 @@ The Muslim MPs who defended the 20th Amendment at the time and defended the stat
 [Data](articles/986e0766.json)
 
 [Extended Data](ext_articles/986e0766.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் கட்டுப்பணத்தை  30 இலட்சமாக அதிகரிக்க  வேண்டும் : டலஸ் அழகப்பெரும
+
+*2024-07-24 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189268) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை திருத்தம் செய்ய வேண்டும்.இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சியின் வேட்பாளரின் கட்டுப்பணத்தை 25 இலட்சமாகவும்,சுயாதீன வேட்பாளரின் கட்டுப்பணத்தை 30 இலட்சமாகவும் திருத்தம் செய்ய வேண்டும். அப்போது தான் போட்டியிடும் வேட்பாளர்களின் எண்ணிக்கை வரையறுக்கப்படும் என எதிரணியின் சுயாதீன உறுப்பினர் டலஸ் அழகப்பெரும சபையில் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை திருத்தம் செய்யுமாறு தேர்தல்கள் ஆணைக்குழு முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷவிடம் கோரிக்கை விடுத்தது.இந்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+1981 ஆம் ஆண்டு 15 ஆம் இலக்க தேர்தல் சட்டத்துக்கு அமைய  அங்கீகரிக்கப்பட்ட அரசியல் கட்சி வேட்பாளரிடமிருந்து 50 ஆயிரம் ரூபா கட்டுப்பணமும்,சுயாதீன வேட்பாளரிடமிருந்து 75 ஆயிரம் ரூபாவும் கட்டுப்பணமும்  அறவிடப்படுகிறது.
+
+...
+
+[Data](articles/a03423de.json)
 
 ---
 
@@ -2279,99 +2357,5 @@ Therefore, he emphasized that if the egg prices are not reduced by then, the gov
 [Data](articles/c2f843c0.json)
 
 [Extended Data](ext_articles/c2f843c0.ext.json)
-
----
-
-### Girl rape: 3 elderly arrested
-
-*2024-07-24 10:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-பலாத்காரம்-3-முதியவர்கள்-கைது/175-340941) · `ta`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-A 13 -year -old girl was raped by 3 elderly people in a village near Jayankondam, Ariyalur district of India.
-
-The girl is said to be a little mentally ill. Since the school holiday on Sunday (21), the mother has gone to work and went to work.
-
-When he returned home, the neighbors said that some people came to his house and to inquire about the girl.. The girl's mother has inquired about this.
-
-Rajendran (age 65), Pannir Selvam (76) and Chinathambi (70) were weeping for allegedly threatening and raping her repeatedly.. Three elderly people have been arrested after the girl's mother reported this to the police.
-
-◼️
-
-[Data](articles/b76b2abc.json)
-
-[Extended Data](ext_articles/b76b2abc.ext.json)
-
----
-
-### A father is the official clothes of the school books
-
-*2024-07-24 10:51:00* · [`adalk`](https://www.ada.lk/breaking_news/පියකු-තම-දරුවාගේ-පාසල්-පොත්-නිල-ඇදුම්-ගිනි-තියල/11-410963) · `si`
-
-A 53-year-old man was arrested after allegedly setting fire to his home, killing himself and his son, while drunk. The incident occurred when he argued with his wife. The extent of the damage is still being assessed.
-
-🟩
-
-A 53-year-old father has been arrested today (24), a 53-year-old father in the house of Siggle Son, Sunday, school uniforms, school uniforms, school uniforms, school uniforms, school uniforms, school uniforms and schools were burned to death.
-
-The suspect had come to drunk at night and had a dispute with his wife, police said.
-
-Police said the loss incurred by this fire was not estimated yet.
-
-◼️
-
-[Data](articles/90d2ab66.json)
-
-[Extended Data](ext_articles/90d2ab66.ext.json)
-
----
-
-### Presidential election No General Election
-
-*2024-07-24 10:50:02* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්තැම්බර්----මහ-මැතිවරණයක්-නෑ/11-410962) · `si`
-
-Clay Gunawardena announced that Sri Lanka's presidential election, scheduled for September 2024, will precede constitutional amendments. This decision was made during a Cabinet meeting, where it was also disclosed that no parliamentary elections will take place this year. The government has allocated funds for both elections.
-
-🟩
-
-Highways, Mass Media Clay Gunawardena says that the presidential election will be held in September 2024 to appoint a new president before the Constitution to be held in accordance with the Constitution.
-
-He was speaking at a press notice of Cabinet decisions held in the Government Information Department.
-
-The Minister said that the president has allocated for the presidential election and the budget has been allocated to the budget and that no parliamentary elections will not be dissolved this year.
-
-◼️
-
-[Data](articles/8b4bc842.json)
-
-[Extended Data](ext_articles/8b4bc842.ext.json)
-
----
-
-### President MahindaIL to recover the country's preference
-
-*2024-07-24 10:46:13* · [`adalk`](https://www.ada.lk/breaking_news/බහුතර-ජනතාවගේ-මනාපය-රට-ගොඩගත්-ජනාධිපති-රනිල්ට/11-410961) · `si`
-
-Chamara Sampath Dasanayake, Minister of Primary Industries, highlights the country's economic recovery under President Ranil Wickremesinghe, noting swift progress despite global economic crises. He addresses concerns over tax amendments but assures benefits will outweigh objections. The government emphasizes support for Wickremesinghe in upcoming elections, urging unity across party lines for continued economic growth.
-
-🟩
-
-Minister of Primary Industries Chamara Sampath Dasanayake said that the people who had restored the country's worst economic grief in the history of history.
-
-The State Minister also pointed out that to further enhance the economy of the country.
-
-Minister of Primary Industries Chamara Sampath Dasanayake addressing the press conference held at the President's Media Center for a 'stable country'.
-
-Ranil Wickremesinghe was able to restore Ranil Wickremesinghe as the new President of Ranil Wickremesinghe as the new President of Ranil Wickremesinghe as the new president. Accordingly, our ministry has also reached the profitable situation.
-
-Other countries in the world who have faced severe economic crises have not made economic stability in such a short time. All parties should commit to it to continue the economy with further strengthening the economy.
-
-...
-
-[Data](articles/0a20bb2d.json)
-
-[Extended Data](ext_articles/0a20bb2d.ext.json)
 
 ---

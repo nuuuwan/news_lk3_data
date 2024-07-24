@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 15:54:57**
+As of **2024-07-24 16:07:42**
 
 ## Newspaper Stats
 
-*Scraped **37,001** Articles*
+*Scraped **37,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,284
 tamilmirrorlk | 4,547
 dailymirrorlk | 4,733
 virakesarilk | 5,802
-adaderanasinhalalk | 6,207
+adaderanasinhalalk | 6,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,991 (100.0%) of 37,001 articles have been extended.
+36,996 (100.0%) of 37,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
+
+### සමරිසි පනත් කෙටුම්පතට ත්‍රෛනිකායික මහානායක හිමිවරුන්ගේ විරෝධය
+
+*2024-07-24 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199162) · `si`
+
+යෝජිත සමරිසි පනත් කෙටුම්පත සම්බන්ධයෙන් ත්‍රෛනිකායික මහානායක හිමිවරුන් විසින් ජනාධිපතිවරයා වෙත ලිපියක් යොමු කර තිබේ.
+
+එහි දැක්වෙන්නේ යෝජිත සමරිසි පනත් කෙටුම්පත සමාජ පරිහානියට හේතුවන සදාචාර විරෝධී එකක් බවය.
+
+පටු අත්තනෝමතික මත පදනම්ව රාජ්‍ය පාලනයෙහිලා යමක් උත්හාස දරන්නේ නම් එය රාජ්‍ය අරාජික වීමට මෙන්ම සමාජ බිඳ වැටීමට බලපාන බව චක්කවත්ති සීහනාද සූත්‍රයේ දී තථාගතයන් වහන්සේ පැහැදිලි කර ඇති බවද ඉන් පෙන්වා දී තිබේ.
+
+ඒ අනුව ඉන් වැඩිදුරටත් පෙන්වා දෙන්නේ මෙම අප්‍රතිකාරී, සදාචාර විරෝධී පනත් කෙටුම්පත සම්බන්ධයෙන් ජනාධිපතිවරයා කඩිනම් අවධානය යොමුකර අවශ්‍යය පියවර ගනු ඇතැයි අපේක්ෂා කරන බවය.
+
+◼️
+
+[Data](articles/86105322.json)
+
+---
 
 ### Fitch confirms ‘A-(lka)’ domestic rating of Seylan Bank Plc
 
@@ -48,19 +66,27 @@ Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-
 
 [Data](articles/acd1041d.json)
 
+[Extended Data](ext_articles/acd1041d.ext.json)
+
 ---
 
-### බස් රථයක් සොරාගත් අයෙක් අත්අඩංගුවට
+### Suspect arrested for stolen bus
 
 *2024-07-24 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199161) · `si`
 
-නවතා තිබූ බස් රථයක් සොරාගෙන යමින් සිටි පුද්ගලයෙකු මොරටුව, රාවතාවත්ත ප්‍රදේශයේදී මොරටුව පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+A suspect was arrested near Panadura after being spotted on a parked bus in Moratuwa.
 
-සැකකරු පානදුර, මිනුවන්පිටිය පොදු සුසාන භූමිය ආසන්නයේදී අදාළ බස් රථය සොයාගෙන ඇත.
+🟩
+
+The Moratuwa Police have arrested a person who was traveling on a parked bus in Moratuwa.
+
+The suspect was found near Panadura, Minuwanpitiya General Cemetery.
 
 ◼️
 
 [Data](articles/378761fa.json)
+
+[Extended Data](ext_articles/378761fa.ext.json)
 
 ---
 
@@ -80,21 +106,31 @@ Harris ticked through a list of liberal priorities, saying that if elected she w
 
 [Data](articles/7d935b7c.json)
 
+[Extended Data](ext_articles/7d935b7c.ext.json)
+
 ---
 
-### AI மூலம் ஊழியர்கள் கண்காணிக்கும் நிறுவனம்
+### The company that monitors staff by AI
 
 *2024-07-24 15:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/AI-மூலம்-ஊழியர்கள்-கண்காணிக்கும்-நிறுவனம்/57-340956) · `ta`
 
-சூப்பர் மார்க்கெட்டுக்கு வரும் வாடிக்கையாளர்களை ஊழியர்கள் எப்படி அணுகுகிறார்கள் என்பதை கண்காணிக்கும் வகையில் AI உதவியை ஒரு நிறுவனம்.  ஜப்பான் நாட்டில் உள்ள நிறுவனமே இவ்வாறு செய்துள்ளது.
+AEON, a Japanese company, pioneered using AI to monitor employee-customer interactions in supermarkets. This initiative gained global attention towards the end of 2022, highlighting the growing impact of AI in enhancing customer service.
 
-2022-ன் இறுதியில் ஜெனரேட்டிவ் AI  குறித்த பேச்சு உலகளவில் வைரல் ஆனது. அதுவரை டிஜிட்டல் சாதனங்களை பயன்படுத்தும் மக்களிடையே AI இருந்தாலும் அது அதிக அளவில் கவனம் பெறாமல் இருந்தது என்று சொல்லலாம். ஓபன் AI நிறுவனத்தின் ‘சாட்-ஜிபிடி’ வரவு அதனை அப்படியே மாற்றியது.
+🟩
 
-இந்த ஜெனரேட்டிவ் AI பாட் டிஜிட்டல் பயனர்களின் அதீத வரவேற்பை பெற்றது. டெக்ஸ்ட், படம் போன்றவற்றை பயனர்கள் எளிதில் இதில் பெறலாம். கட்டுரை, கணினி புரோகிராமிங் என அனைத்தையும் இந்த பாட் எழுதி தரும். பாட்டிகள் போல கதையும் சொல்லும். நாம் ப்ராம்ப்ட் செய்யும் படத்தை உருவாக்கி கொடுக்கும் வல்லமையும் இதற்கு உள்ளது.
+AI is a company to monitor how employees approach customers who come to the supermarket.  ஜப்பான் நாட்டில் உள்ள நிறுவனமே இவ்வாறு செய்துள்ளது.
+
+Talk about generating AI at the end of 2022 became viral worldwide. Until then, AI among people who use digital devices can be said to have not received much attention. Open AI's Chat-GBD telephone budget changed it.
+
+This generating AI Pat Digital has received the highest reception. Users can easily get text, film, etc.. This bot will write all the article, computer programming. Will tell the story as grandmothers. It also has the power to create and create a picture we are propagating.
+
+Google, Meta and Microsoft are all descended on this generating AI Pat Gotha. As a result, we have now placed on our cell phone, on the computer, and the processors used. The best example of that is the Meta AI and Microsoft Co-Filat.
 
 ...
 
 [Data](articles/f3bedba2.json)
+
+[Extended Data](ext_articles/f3bedba2.ext.json)
 
 ---
 
@@ -215,6 +251,8 @@ The bank also had defaulted sovereign bonds. “Defaulted foreign-currency sover
 ...
 
 [Data](articles/ebd1136c.json)
+
+[Extended Data](ext_articles/ebd1136c.ext.json)
 
 ---
 
@@ -2293,23 +2331,5 @@ Beginning with political stability, policy consistency, ease of doing business, 
 [Data](articles/33357d67.json)
 
 [Extended Data](ext_articles/33357d67.ext.json)
-
----
-
-### Operation Yukthiya, trade union action, and the stability state in Sri Lanka
-
-*2024-07-24 05:31:57* · [`dailyftlk`](https://www.ft.lk/columns/Operation-Yukthiya-trade-union-action-and-the-stability-state-in-Sri-Lanka/4-764661) · `en`
-
-This highly-publicised law and order operation was viewed by critics as an attempt to gain political mileage by the President and privileges by relevant ministers and public officials
-
-On Monday, 8 July, a local businessman, Surendra Wasantha Perera alias Club Wasantha, was murdered by two gunmen. The incident brought the issue of law and order to the forefront of the public discourse and news cycle. These developments have imparted more purchase for the ‘Yukthiya’ operation, a war on drugs spearheaded by Minister of Public Affairs Tiran Alles.
-
-Minister Alles had promised a few days before, at the Uva Provincial Community Police Committee members’ empowerment workshop “A Law-Abiding Country” at Wellawaya, that he would ensure Sri Lanka is free of drugs and the underworld by December 2025, under the leadership of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/d20c4fab.json)
-
-[Extended Data](ext_articles/d20c4fab.ext.json)
 
 ---

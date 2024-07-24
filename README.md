@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 09:06:32**
+As of **2024-07-24 09:20:34**
 
 ## Newspaper Stats
 
-*Scraped **36,909** Articles*
+*Scraped **36,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,203
 dailyftlk | 2,356
-adalk | 3,341
+adalk | 3,342
 adaderanalk | 4,274
 tamilmirrorlk | 4,525
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,907 (100.0%) of 36,909 articles have been extended.
+36,909 (100.0%) of 36,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Additionally, the minister has stated that arrangements have been made to hold t
 
 [Data](articles/432fd018.json)
 
+[Extended Data](ext_articles/432fd018.ext.json)
+
 ---
 
 ### Several spells of showers expected in parts of the island
@@ -63,6 +65,8 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 ◼️
 
 [Data](articles/66973a3f.json)
+
+[Extended Data](ext_articles/66973a3f.ext.json)
 
 ---
 
@@ -1852,6 +1856,22 @@ It is noteworthy that the Vidyalaya organization has been working on the constru
 
 ---
 
+### රු. මි. 160,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක්
+
+*2024-07-23 18:33:58* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--160-000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-410946) · `si`
+
+රුපියල්  මිලියන 160,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් ජූලි 24 දා පැවැත්වීමට ශ්‍රී ලංකා මහ බැංකුව කටයුතු යොදා තිබේ.
+
+මෙහිදී දින 91 න් කල් පිරෙන රුපියල් මිලියන 45000 ක  භාණ්ඩාගාර බිල්පත් ද දින 182 න් කල් පිරෙන රුපියල් මිලියන 45000 ක භාණ්ඩාගාර බිල්පත්ද දින 364 න් කල් පිරෙන රුපියල් මිලියන 70000 ක  භාණ්ඩාගාර බිල්පත්ද නිකුත් කරන බව මහ බැංකුව පවසයි.
+
+මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා මුදල් ගෙවීමේ කටයුතු ජූලි 26 දා සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/47650429.json)
+
+---
+
 ### Increase in the number of Ethiopian landslides
 
 *2024-07-23 18:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எத்தியோப்பிய-மண்சரிவின்-பலி-எண்ணிக்கை-அதிகரிப்பு/50-340901) · `ta`
@@ -2277,27 +2297,5 @@ Mora Peces is among a growing number of people sounding the alarm as the archipe
 [Data](articles/f6974de4.json)
 
 [Extended Data](ext_articles/f6974de4.ext.json)
-
----
-
-### Attorney -at -Law Amendment
-
-*2024-07-23 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189198) · `ta`
-
-The Attorney General's Department has approved amendments to the National Minimum Wage Act of 2016, increasing wages for private sector workers. These changes were ratified by the Cabinet and will be published in the Gazette.
-
-🟩
-
-The Attorney General's Department has approved the amendments to the National Minimum Page. The Cabinet has approved it to publish it in the Gazette.
-
-The Cabinet meeting has been approved at the Cabinet meeting on 2024-03-25 to amend the National Minimum Page Act of 2016 to increase the national minimum pain of private sector workers up to Rs.
-
-Accordingly, the approval of the Attorney General has been obtained for the amendment legal map prepared by the legal draft. The Cabinet has approved the proposal submitted by the Minister of Labor and Foreign Employment to publish the Western Bill in the State Gazette and subsequently submit to Parliament.
-
-◼️
-
-[Data](articles/ea240a22.json)
-
-[Extended Data](ext_articles/ea240a22.ext.json)
 
 ---

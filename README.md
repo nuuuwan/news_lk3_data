@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 12:09:13**
+As of **2024-07-24 12:20:31**
 
 ## Newspaper Stats
 
-*Scraped **36,950** Articles*
+*Scraped **36,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,107
 economynextcom | 2,207
 dailyftlk | 2,358
 adalk | 3,350
-adaderanalk | 4,280
-tamilmirrorlk | 4,536
+adaderanalk | 4,281
+tamilmirrorlk | 4,538
 dailymirrorlk | 4,733
 virakesarilk | 5,785
 adaderanasinhalalk | 6,200
@@ -26,27 +26,67 @@ adaderanasinhalalk | 6,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,938 (100.0%) of 36,950 articles have been extended.
+36,950 (100.0%) of 36,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### දයාසිරි ජයසේකර ඉදිරිපත් කළ නඩුවක තීරණය කල්යයි
+### 19 பேருடன் பயணித்த விமானம்  கீழே விழுந்து விபத்து
+
+*2024-07-24 12:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/19-பேருடன்-பயணித்த-விமானம்-கீழே-விழுந்து-விபத்து/50-340947) · `ta`
+
+காத்மண்டுவில் உள்ள திரிபுவன் சர்வதேச விமான நிலையத்தில் சவுரியா ஏர்லைன்ஸ் விமானமே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+
+இந்நிலையில், விமானம் புறப்படும்போது ஓடுதளத்தில் கட்டுப்பாட்டை இழந்து மோதிய நிலையிலேயே விபத்து நேர்ந்ததாகத் தெரிவிக்கப்பட்டுள்ளது.S
+
+◼️
+
+[Data](articles/6be50943.json)
+
+---
+
+### Bangladesh partially restores telecommunication services as protests taper off
+
+*2024-07-24 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100743/bangladesh-partially-restores-telecommunication-services-as-protests-taper-off) · `en`
+
+Bangladesh partially restored telecommunication services on Wednesday although Internet connection was slow and social media remained suspended, days after deadly protests against reservations for government jobs killed almost 150 people.
+
+The country has mostly been calm since Sunday when the Supreme Court scaled down reservations for various categories to 7 percent, overruling a high court verdict reinstating a 56 percent quota in government jobs that had been scrapped in 2018.
+
+Prime Minister Sheikh Hasina’s government said on Tuesday that it would heed the Supreme Court ruling.
+
+As demonstrations against the quotas  which included a 30 percent reservation for family members of freedom fighters from the 1971 war of independence from Pakistan  tapered off, the government started easing the curfew imposed last week.
+
+Restrictions will be relaxed for seven hours on Wednesday and offices will also be open from 11 a.m. to 3 p.m., officials said.
+
+...
+
+[Data](articles/6156f9fc.json)
+
+---
+
+### Dayasiri Jayasekera's decision is postponed
 
 *2024-07-24 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199154) · `si`
 
-මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කළ සමයේ තමන්ට එරෙහිව විනය ක්‍රියාමාර්ග ගනිමින් නිකුත් කර තිබූ චෝදනා පත්‍ර අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා එම පක්ෂයේ හිටපු මහ ලේකම් හා පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා ඉදිරිපත් කර තිබෙන පැමිණිල්ලට අදාළ  අතුරු තහනම් නියෝග පිළිබඳ තීන්දුව ලබන 31 වනදා ප්‍රකාශයට පත් කරන බව කොළඹ දිසා අධිකරණය අද (24) නියෝග කළේය.
+Maithripala Sirisena's plan to discipline SLFP Chairman Dayasiri Jayasekera is delayed due to an interim injunction from the Colombo District Court. The court, responding to a request from SLFP Treasurer Lasantha Alagiyawanna, will reconsider its stance on the matter, summoning relevant parties back on March 31st.
 
-මෙම නඩුකරයට මැදිහත් වීමට තමන්ට අවසර දෙන ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ භාණ්ඩාගාරික අමාත්‍ය ලසන්ත අලගියවන්න මහතා ඊයේ (23) අධිකරණය වෙතින් ඉල්ලීමක් කර තිබුණි.
+🟩
 
-මීට අදාළව සිය තීරණය ප්‍රකාශයට පත් කරමින් දිසා විනිසුරුවරයා සඳහන් කළේ, ඔවුන්ට මෙම නඩුකරය සඳහා මැදිහත්වීමට අයිතියක් තිබෙන බවය.
+Maithripala Sirisena's decision to issue disciplinary action against the SLFP Chairman and Parliamentarian Dayasiri Jayasekera, the decision of the party, the party's decision, is on the interim injunction orderThe Colombo District Court today (24) ordered the Colombo District Court today.
 
-ඒ අනුව මෙම නඩුකරයට අදාළව විරෝධතා ගොනුකිරීමට දින ලබා දුන් දිසා විනිසුරුවරයා නඩුව නැවත ලබන 31 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+Sri Lanka Freedom Party Treasury Minister Lasantha Alagiyawanna had requested the court yesterday (23) to intervene in this case.
+
+The District Judge stated that he had to declare his decision, said that they have the right to intervene in this case.
+
+Accordingly, the District Judge issued to file protests in relation to the case was ordered to be summoned back on 31 at 31.
 
 ◼️
 
 [Data](articles/6b2cded1.json)
+
+[Extended Data](ext_articles/6b2cded1.ext.json)
 
 ---
 
@@ -68,19 +108,27 @@ He also stated that in order to address this issue, a special entomological surv
 
 [Data](articles/27cba654.json)
 
+[Extended Data](ext_articles/27cba654.ext.json)
+
 ---
 
-### බංග්ලාදේශයේ අන්තර්ජාල සේවය ගැන තීරණයක්
+### Decision on Internet Service in Bangladesh
 
 *2024-07-24 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199153) · `si`
 
-අන්තර්ජාල පහසුකම් දින 05ක් තාවකාලිකව වසා දැමීමෙන් පසු ඊයේ (23) සවස සිට යළි තෝරාගත් ප්‍රදේශවලට පමණක් ලබා දීම ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+In Bangladesh, internet services were restored after 5 days of suspension due to protests against government job reforms. The restoration began on March 23rd, aiming to curb further unrest.
 
-රජයේ රැකියා සඳහා කෝටා ප්‍රතිසංස්කරණය කිරීම සම්බන්ධයෙන් බංග්ලාදේශය පුරා පැවති විරෝධතා මැඩපැවැත්වීම සඳහා අන්තර්ජාල ප්‍රවේශය සීමාකර තිබුණි.
+🟩
+
+Foreign media reports that 05 days of internet facilities have been launched only since the temporary areas yesterday (23) from the evening.
+
+Internet access was restricted to curb the protests throughout Bangladesh on the reconstruction of the government jobs.
 
 ◼️
 
 [Data](articles/f07b1863.json)
+
+[Extended Data](ext_articles/f07b1863.ext.json)
 
 ---
 
@@ -104,21 +152,29 @@ Meanwhile, one of the firefighters who was engaged in dousing the flames has bee
 
 [Data](articles/a5c40b10.json)
 
+[Extended Data](ext_articles/a5c40b10.ext.json)
+
 ---
 
-### ஊடகவியலாளர்களுக்கு தபால் மூல வாக்களிப்பு
+### Postal voting for journalists
 
 *2024-07-24 11:23:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்களுக்கு-தபால்-மூல-வாக்களிப்பு/175-340945) · `ta`
 
-ஊடகவியலாளர்களுக்கு தபால் மூல வாக்களிக்கும் உரிமையை வழங்குமாறு ஊடக இராஜாங்க அமைச்சர் சாந்த பண்டார செவ்வாய்க்கிழமை (24) கோரிக்கை விடுத்துள்ளார்.
+Sri Lanka's Media Minister Shantha Bandara proposes postal voting for journalists due to their work schedules, affecting their ability to vote traditionally.
 
-“இலங்கையில் 17 தொலைக்காட்சி அலைவரிசைகளும் 52 வானொலி அலைவரிசைகளும் உள்ளன. இந்த நிறுவனங்களில் பணியாற்றும் ஊடகவியலாளர்கள் கடமையில் ஈடுபட்டுள்ளதால் வாக்களிக்கும் வாய்ப்பு கிடைப்பதில்லை.
+🟩
 
-எனவே ஊடகவியலாளர்களுக்கு தபால் மூல வாக்களிக்கும் உரிமை வழங்கப்பட வேண்டுமென நான் முன்மொழிகிறேன்” என இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
+Media Minister Shantha Bandara on Tuesday (24) requested that journalists be given the right to vote postal voting.
+
+“There are 17 television channels and 52 radio channels in Sri Lanka. Journalists working in these companies are on duty and are not likely to vote.
+
+Therefore, I propose to give journalists the right to vote postal voting, ”the Minister of State said.
 
 ◼️
 
 [Data](articles/09a792cc.json)
+
+[Extended Data](ext_articles/09a792cc.ext.json)
 
 ---
 
@@ -145,6 +201,8 @@ In equities, Colombo’s All Share Price Index opened 25.70 points higher at 11,
 ◼️
 
 [Data](articles/81c59905.json)
+
+[Extended Data](ext_articles/81c59905.ext.json)
 
 ---
 
@@ -222,19 +280,25 @@ Rajendran (age 65), Pannir Selvam (76) and Chinathambi (70) were weeping for all
 
 ---
 
-### පියකු තම දරුවාගේ පාසල් පොත් නිල ඇදුම් ගිනි තියල
+### A father is the official clothes of the school books
 
 *2024-07-24 10:51:00* · [`adalk`](https://www.ada.lk/breaking_news/පියකු-තම-දරුවාගේ-පාසල්-පොත්-නිල-ඇදුම්-ගිනි-තියල/11-410963) · `si`
 
-හිගුරුකඩුව  අලාදුගස්පිටිය ප්‍රදේශයේ නිවසක මව්පියන් අතර ඇතිවූ ආරවුලක් දුරදිග යාමෙන් අනතුරුව සිය 11 හැවිරිදි සිගිති පුතුගේ පාසල් නිල ඇදුම් , පාසල් පෙලපොත් , දහම්පාසල් පොත් ,ඇතුලු නිවසේ දේපලවලට ගිනිතබා විනාශ කලැයි සැකපිට  53 හැවිරිදි පියෙකු අද (24) අත්අඩංගුවට ගත් බව හිගුරුකඩුව පොලිසිය පවසයි .
+A 53-year-old man was arrested after allegedly setting fire to his home, killing himself and his son, while drunk. The incident occurred when he argued with his wife. The extent of the damage is still being assessed.
 
-මෙම සැකකාර පියා බීමතින් රාත්‍රි නිවසට පැමිණ සිය බිරිද සමඟ ආරවුලක් හටගෙන ඇති අතර එය දුරදිග යාමෙන් අනතුරුව මෙසේ මොහු  සිය 11 හැවිරිදි සිගිති  පුතුගේ, පාසල් නිලඇදුම් , පාසල් පෙලපොත් නිවසෙ කෑම  කාමරයට රැගෙන ගොස් නිවසේ තිබූ දේපළ රැසක් සමඟ ගිනිතබා විනාශ කර ඇතැයි ද පොලිසිය සදහන් කළේය .
+🟩
 
-මෙම ගිනිතැබීමෙන්  සිදු වූ අලාභය මෙතෙක් තක්සේරු කර නැතැයි පොලිසිය  පැවසීය .
+A 53-year-old father has been arrested today (24), a 53-year-old father in the house of Siggle Son, Sunday, school uniforms, school uniforms, school uniforms, school uniforms, school uniforms, school uniforms and schools were burned to death.
+
+The suspect had come to drunk at night and had a dispute with his wife, police said.
+
+Police said the loss incurred by this fire was not estimated yet.
 
 ◼️
 
 [Data](articles/90d2ab66.json)
+
+[Extended Data](ext_articles/90d2ab66.ext.json)
 
 ---
 
@@ -440,6 +504,8 @@ The contraction in credit stabilizes the currency, but businesses do not make ex
 
 [Data](articles/2e9266fa.json)
 
+[Extended Data](ext_articles/2e9266fa.ext.json)
+
 ---
 
 ### Will be announced before Saturday
@@ -464,33 +530,45 @@ It is said that the meeting of the Commission is to be held on Thursday (25), ex
 
 ---
 
-### ’சனி’க்கு முன்னர் அறிவிக்கப்படும்
+### The model will be announced before Saturn
 
 *2024-07-24 09:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனி-க்கு-முன்னர்-அறிவிக்கப்படும்/175-340934) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான திகதியை சனிக்கிழமை (27)க்கு முன்னர் தேசிய தேர்தல்கள் ஆணைக்குழு அறிவிக்கவுள்ளது.
+The National Elections Commission will announce the 2024 presidential election date on Saturday, 27th, after a meeting on Thursday, 25th. The Gazette Notification will precede the weekend.
 
-வெள்ளிக்கிழமை (26) திகதி அறிவிக்கப்படும் என தெரிவிக்கப்பட்டிருந்த நிலையில் குறித்த அறிவிப்பு செவ்வாய்க்கிழமை  (24) வெளியிடப்பட்டுள்ளது.
+🟩
 
-வியாழன் (25) நடைபெறவிருக்கும் கூட்டம் ஆணைக்குழுவின் வழக்கமான கூட்டமே தவிர தேர்தல் தேதி குறித்து விவாதிக்கும் நோக்கம் இல்லை எனவும் ஜனாதிபதி தேர்தல் அறிவிப்பிற்கான வர்த்தமானி அறிவித்தல் வார இறுதிக்கு முன்னர் வெளியிடப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+The National Elections Commission will announce the date of the 2024 presidential election on Saturday (27).
+
+The announcement was made on Tuesday (24) as it was announced on Friday (26).
+
+It is said that the meeting of the Commission is to be held on Thursday (25), except for the Commission, and the Gazette Notification for the Presidential Election will be issued before the weekend.
 
 ◼️
 
 [Data](articles/79764172.json)
 
+[Extended Data](ext_articles/79764172.ext.json)
+
 ---
 
-### IGPயாக கடமையாற்ற தென்னகோனுக்கு தடை
+### Tennakoon is banned as IGP
 
 *2024-07-24 09:54:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/IGPயாக-கடமையாற்ற-தென்னகோனுக்கு-தடை/150-340933) · `ta`
 
-தேசபந்து தென்னகோன் பொலிஸ் மா அதிபராக கடமையாற்றுவதைத் தடுக்கும் வகையில் உயர் நீதிமன்றம் இடைக்கால உத்தரவு பிறப்பித்துள்ளது.
+The Supreme Court has temporarily halted the appointment of Tennakoon as the national police chief due to allegations of violating fundamental rights. This action comes after a petition filed by Cardinal Malcolm Ranjith and others seeking to overturn the President's decision on the appointment.
 
-தேசபந்து தென்னகோனை பொலிஸ் மா அதிபராக நியமித்த ஜனாதிபதியின் தீர்மானத்தை இரத்துச் செய்யும் உத்தரவை பிறப்பிக்குமாறு கோரி மேதகு கர்தினால் மல்கம் ரஞ்சித் உள்ளிட்ட தரப்பினரால் சமர்ப்பிக்கப்பட்ட அடிப்படை உரிமை மீறல் மனுக்களை விசாரணைக்கு எடுத்த உயர் நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.R
+🟩
+
+The Supreme Court has issued an interim order to prevent the serving of the Tennakoon Police Chief of the country.
+
+The Supreme Court has issued the order to investigate fundamental rights violations submitted by the parties, including Cardinal Malcolm Ranjith, demanding the cancellation of the President's decision to cancel the President's decision to appoint the police chief of the country.
 
 ◼️
 
 [Data](articles/ea1cabad.json)
+
+[Extended Data](ext_articles/ea1cabad.ext.json)
 
 ---
 
@@ -659,6 +737,20 @@ Accordingly, the Ministry of Labor has issued a directive to pay the daily salar
 [Data](articles/2d395bd7.json)
 
 [Extended Data](ext_articles/2d395bd7.ext.json)
+
+---
+
+### ரூ1,700  வர்த்தமானி ரத்து
+
+*2024-07-24 09:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ1-700-வர்த்தமானி-ரத்து/175-340931) · `ta`
+
+தோட்டத் தொழிலாளர்களுக்கான 1,700  ரூபாய் சம்பள அதிகரிப்புக்கான வர்த்தமானி அறிவித்தலை தொழில் அமைச்சு இரத்துச் செய்து வர்த்தமானி அறிவித்தல் ஒன்று வெளியிடப்பட்டுள்ளது.
+
+இதன்படி, பெருந்தோட்டத் தொழிலாளர்களின் நாளாந்த சம்பளமான 1700 ரூபாவை சம்பளச் சபையின் ஊடாக வழங்குவதற்கு பணிப்புரை வழங்கப்பட்டுள்ளதாக தொழில் அமைச்சு அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/58ff67b7.json)
 
 ---
 
@@ -914,6 +1006,8 @@ ECONOMYNEXT – Sri Lanka’s central bank has cut the rate at which it is lendi
 
 [Data](articles/2b21f1bd.json)
 
+[Extended Data](ext_articles/2b21f1bd.ext.json)
+
 ---
 
 ### Petitions against Chapter of Deshabandu today consider today
@@ -965,6 +1059,8 @@ The 2007 Companies Act would be change to strengthen provisions on beneficial ow
 ...
 
 [Data](articles/acce9e66.json)
+
+[Extended Data](ext_articles/acce9e66.ext.json)
 
 ---
 
@@ -2115,75 +2211,5 @@ The seized trawlers together with Indian fishermen were brought to the Kankesant
 [Data](articles/c94d18eb.json)
 
 [Extended Data](ext_articles/c94d18eb.ext.json)
-
----
-
-### Interim toback orders
-
-*2024-07-23 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199138) · `si`
-
-The Court of Appeal granted an interim injunction stopping the appointment of Jayaratne as per a decision made by Engineer W. This was due to objections raised over disregarding seniority in the selection process for the position of Additional General Manager. The injunction allows time for a petition filed by Mr. Wanniarachchi and others to be heard.
-
-🟩
-
-Engineer W. The Court of Appeal has issued an interim injunction today (23) by preventing the implementation of the decision taken to appoint Jayaratne.
-
-The court issued the order issued by the President's Counsel Faizer Mustapha who appeared on behalf of the petitioner.
-
-Engineering is TAs against ignoring seniority when appointing appointments for additional General Manager. The interim injunction has issued the interim injunction, permits to hear a petition filed by Mr. Wanniarachchi and several others.
-
-◼️
-
-[Data](articles/75acb6df.json)
-
-[Extended Data](ext_articles/75acb6df.ext.json)
-
----
-
-### Remembering for those who died in the black riotsEmphasize the ensuring justice and accountability for the affected Tamils
-
-*2024-07-23 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189214) · `ta`
-
-The "Black July" riots against Tamils in 1983 marked a tragic turning point in Tamil history, with no justice or accountability achieved despite 41 years passing. A commemorative event highlighted ongoing threats to Tamil safety and peace, emphasizing the need for justice and accountability. Participants called for an end to such violence, referencing specific incidents like the burning of the Jaffna Library and the massacre at Welikada Prison. The event underscored the persistent struggle for justice and the right to live safely among the Tamil community.
-
-🟩
-
-Civil Social Publications at a commemorative event in Colombo yesterday pointed out that the black riots against Tamils ​​have been held for 41 years, and that the justice for the affected people is still not being established and the threat of the Tamils ​​is still unable to live safely and peacefully.
-
-The 'Black July' riots unleashed against the Tamil people in July 1983 have passed 41 years (23).. No justice and accountability has been confirmed on these riots that have had the most impact on the Tamils ​​and the major turns in the history of Tamil history.
-
-In this backdrop, the North -South Brotherhood was organized by the Northern and Southern Brotherhood on Tuesday in the roundabout of the 'Black July' in front of Colombo and Borella in the area.
-
-Representatives of the North and Southern Brotherhood Organization, civil society activists and lawyers, who were present at the event, carried the posts of 'Let's forget the genocide against the Tamils' and 'Justice for Genocide'.
-
-...
-
-[Data](articles/3b488282.json)
-
-[Extended Data](ext_articles/3b488282.ext.json)
-
----
-
-### Sri Lanka gets more funds under India’s 2024-25 Budget allocation for MEA
-
-*2024-07-23 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100729/sri-lanka-gets-more-funds-under-indias-2024-25-budget-allocation-for-mea-) · `en`
-
-India-funded projects in the neighbourhood received the bulk of the allocation for the Ministry of External Affairs (MEA) under the Union Budget presented by Indian Finance Minister Nirmala Sitharaman on Tuesday.
-
-Sri Lanka, which has a number of India-funded projects, has received 2450 million Indian rupees (INR), an improvement of INR 950 million over last year’s funding of INR 1500 million, according to The Hindu.
-
-India had bailed out Sri Lanka when its economy crashed and has provided grants and a line of credit worth $4 billion.
-
-Nepal secured an allocation of INR 7000 million, which is a jump of INR 1500 million from previous year’s allocation of INR 5500 million.
-
-Seychelles, which had an allocation of INR 100 million, has also received a boost in funding with the infusion of INR 300 million.
-
-Meanwhile, Bhutan, the largest recipient of the annual allocation under the MEA, has seen a dip in funding by INR 3320.2 million. Total funding for Bhutan this year stands at INR 20,685.6 million.
-
-...
-
-[Data](articles/2f25404e.json)
-
-[Extended Data](ext_articles/2f25404e.ext.json)
 
 ---

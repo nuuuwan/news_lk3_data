@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 03:05:28**
+As of **2024-07-25 03:20:29**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,065 (100.0%) of 37,067 articles have been extended.
+37,067 (100.0%) of 37,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ’250 மீனவர்கள் கைது; நடவடிக்கை தேவை’
+### Arrested 250 fishermen;Action is needed
 
 *2024-07-25 01:12:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-மீனவர்கள்-கைது-நடவடிக்கை-தேவை/175-340984) · `ta`
 
-இந்த ஆண்டு ஜனவரி முதல் தற்போது ஜூலை 22-ம் நாள் வரை மட்டும் இந்திய மீனவர்கள் 250 பேர் இலங்கைக் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர். கடந்த 10 ஆண்டுகளில், ஆண்டொன்றில் மேற்கொள்ளப்பட்ட மிக அதிகபட்ச கைது எண்ணிக்கை இதுவாகுமென தமிழக முதல்வர் ஸ்டாலின் சுட்டிக்காட்டியுள்ளார்.
+250 Indian fishermen were arrested by the Sri Lankan navy from January to July 2023, the highest in a decade. Tamil Nadu CM Stalin and Foreign Minister Jaishankar have called for immediate action to free them and their boats. The fishermen face threats and depression due to constant arrests and loss of equipment. Urgent diplomatic efforts are needed to resolve this issue swiftly.
 
-“இலங்கைக் கடற்படையினரால் சிறைபிடிக்கப்பட்டுள்ள மீனவர்களையும், அவர்களது மீன்பிடிப் படகுகளையும் உடனடியாக விடுவித்திட நடவடிக்கை எடுக்க வேண்டும்” என்றும் வலியுறுத்தி வெளியுறவு அமைச்சர் ஜெய்சங்கருக்கு கடிதம் எழுதியுள்ளார்
+🟩
 
-மீனவர்கள் இதுபோன்று அச்சுறுத்தப்படுவதும், கைது செய்யப்படுவதும் மற்றும் அவர்களது மீன்பிடிப் படகுகள், கருவிகள் பறிமுதல் செய்யப்படுவதும் தொடர்ந்து தடையின்றி நடைபெற்று வருகிறது. இதனால் மீனவ மக்கள் மிகுந்த மன உளைச்சலுக்கு ஆளாகியுள்ளனர்.
+250 Indian fishermen have been arrested by the Sri Lankan navy from January to July 22 this year. Tamil Nadu Chief Minister Stalin pointed out that this is the highest number of arrests in the last 10 years.
 
-...
+Foreign Minister Jaishankar has written to Jaishankar, urging the Sri Lankan navy to take immediate action to release the fishermen and their fishing boats.
+
+The fishermen are being threatened, arresting and their fishing boats and equipment are constantly underway.. The fishermen are very depressed.
+
+Therefore, I urge you to take the necessary embassy efforts to quench the situation and take the necessary steps to quickly release 87 fishermen and 175 boats from Sri Lanka and realize the severity of the problem. ”
+
+◼️
 
 [Data](articles/d7d5bde6.json)
+
+[Extended Data](ext_articles/d7d5bde6.ext.json)
 
 ---
 
@@ -72,21 +80,31 @@ Although he was born into a comfortable family. He learned in the field of engin
 
 ---
 
-### யாருக்கு இனி கடிதம் எழுதுவது?
+### To whom to write the letter anymore?
 
 *2024-07-25 00:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-இனி-கடிதம்-எழுதுவது/175-340982) · `ta`
 
-என்னுடைய பாதுகாப்பு தொடர்பில், யாருக்கு இனி நான் கடிதம் எழுதுவது என, இலங்கை தமிழரசுக்கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. யான இரா.சாணக்கியன், பாராளுமன்றத்தில்  கேள்வி எழுப்பினார்
+In a parliamentary address, an MP raised concerns about a security threat, handing a letter to the police chief. The Supreme Court upheld an injunction against political interference in police appointments, ensuring electoral integrity. Meanwhile, the government apologized for the tragic deaths of Muslims due to COVID-19.
 
-என்னைக்கொல்ல சதி நடப்பதாக தகவல்கள் வெளிவந்துள்ள நிலையில் என்னுடைய பாதுகாப்பு விடயம் தொடர்பாக நான் பொலிஸ்மா அதிபரிடம் செவ்வாய்க்கிழமை (23) கடிதம் கையளித்தேன்  ஆனால் அவர் இன்று புதன்கிழமை (24 ) பதவியில் இருந்து இடைநிறுத்தப்பட்டுள்ளார் .
+🟩
 
-ஜனாதிபதித் தேர்தலை ஒத்திவைக்கும் முயற்சி பலிக்காது என்பது  ஜனாதிபதியின் விருப்பத்துக்கு அமைய நியமிக்கப்பட்ட பொலிஸ்மா அதிபரின் நியமனத்திற்கு உயர் நீதிமன்றம் இடைக்கால தடைவிதித்ததன் மூலம் உறுதிப்படுத்தப்பட்டுள்ளது என்றார்.
+Batticaloa District MP of the Sri Lanka Tamil National Party (TNA). The Ira Sanakiyan questioned in Parliament
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) விசேட கூற்றை முன்வத்து உரையாற்றிய போதே மேற்கண்டவாறு தெரிவித்தார்.
+I have handed over a letter to the Inspector General of Police on Tuesday (23) regarding my security issue as there are reports of a conspiracy.
 
-...
+He said the Supreme Court had confirmed the interim injunction to the appointment of the Inspector General of Police for the President's wishes that the attempt to postpone the presidential election would not be sacrificed.
+
+He said this while addressing a special statement in Parliament on Wednesday (24).
+
+Today, the court has issued an interim injunction to his service regarding the appointment of the Inspector General of Police. This is the case with the Inspector General of Police.
+
+At the same time, the state apologized to the Muslims for the burning of the Muslims who died from the Corona infection.
+
+◼️
 
 [Data](articles/6888bbd2.json)
+
+[Extended Data](ext_articles/6888bbd2.ext.json)
 
 ---
 

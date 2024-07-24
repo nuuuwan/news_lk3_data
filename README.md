@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 18:38:16**
+As of **2024-07-24 18:55:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,023 (100.0%) of 37,024 articles have been extended.
+37,024 (100.0%) of 37,024 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Accordingly, a special cabinet meeting was called this evening at the Presidenti
 ◼️
 
 [Data](articles/8fb170cc.json)
+
+[Extended Data](ext_articles/8fb170cc.ext.json)
 
 ---
 

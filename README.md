@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 08:54:56**
+As of **2024-07-24 09:06:32**
 
 ## Newspaper Stats
 
-*Scraped **36,907** Articles*
+*Scraped **36,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,107
 economynextcom | 2,203
 dailyftlk | 2,356
 adalk | 3,341
-adaderanalk | 4,272
+adaderanalk | 4,274
 tamilmirrorlk | 4,525
 dailymirrorlk | 4,733
 virakesarilk | 5,785
@@ -26,41 +26,87 @@ adaderanasinhalalk | 6,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,903 (100.0%) of 36,907 articles have been extended.
+36,907 (100.0%) of 36,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### අධිවේගයේ මාරක අනතුරක්
+### O/L exam results to be released in September
+
+*2024-07-24 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100736/ol-exam-results-to-be-released-in-september) · `en`
+
+Minister of Education Susil Premajayantha says that the results of the 2023 G.C.E. Ordinary Level (O/L) Examination will be released in September.
+
+The minister mentioned that the practical tests are now in their final week, and that the checking of answer sheets has been completed.
+
+Consequently, the Department of Examinations can release the results by September, he said.
+
+Additionally, the minister has stated that arrangements have been made to hold the next Ordinary Level Examination within the months of January and February 2025.
+
+◼️
+
+[Data](articles/432fd018.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-07-24 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100735/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/66973a3f.json)
+
+---
+
+### A fatal accident on highway
 
 *2024-07-24 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199145) · `si`
 
-අද (24) අලුයම දක්ෂිණ අධිවේගයේ සිදුවු අනතුරකින් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A fatal accident occurred on the Southern Expressway near Mattala, involving two lorries heading towards Colombo. One person died, and both drivers were injured, hospitalized in Tangalle.
 
-අධිවේගී මාර්ගයේ 174.2 ආර් ස්ථානයේ දී මත්තල සිට කොළඹ දෙසට ධාවනය වූ ලොරි රථයක් ඉදිරියෙන් ධාවනය වූ තවත් ලොරියක පිටුපසින් ගැටී අනතුරක් සිදුව තිබුණි.
+🟩
 
-අනතුරින් පිටුපස ලොරි රථයේ රියදුරු, රිය සහායක සහ ඉදිරියෙන් ධාවනය කළ ලොරියේ රිය සහායකයා තුවාල ලබා තංගල්ල රෝහලට ඇතුළත් කිරීමේ දී පිටුපස ලොරියේ රිය සහායකයා මියගොස් ඇත.
+One person was killed in an accident in the Southern Expressway this morning.
+
+At the 174.2 r-highway from Mattala to Colombo, a lorry, which was traveling towards Colombo, had confronted with another lorry.
+
+The lorryworker was injured and admitted to Tangalle Hospital while the lorry driver was injured and admitted to Tangalle.
 
 ◼️
 
 [Data](articles/341167b0.json)
 
+[Extended Data](ext_articles/341167b0.ext.json)
+
 ---
 
-### මහ බැංකු පොලී අනුපාත තවත් පහළට
+### Central Bank interest rates down
 
 *2024-07-24 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199146) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුව සිය ප්‍රතිපත්ති පොලී අනුපාතිකය තවදුරටත් අඩු කිරීමට තීරණය කර තිබේ.
+The Central Bank of Sri Lanka reduced its policy interest rates, including the SDFR by 25%, SLFR by 8.25%, and another rate by 9.25%. This decision was made during a meeting on March 23rd.
 
-ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය ඊයේ (23) පැවති රැස්වීමේ දී මෙම තීරණය ගෙන ඇත.
+🟩
 
-ඒ අනුව මහ බැංකුවේ ප්‍රතිපත්ති පොලී අනුපාතික වන, නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය (SDFR) සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය (SLFR), පිළිවෙළින්, සියයට 8.25 සහ සියයට 9.25 දක්වා පදනම් අංක 25කින් අඩු කිරීමට මුදල් ප්‍රතිපත්ති මණ්ඩලය තීරණය කර තිබේ.
+The Central Bank has decided to further reduce its policy interest rate.
+
+The decision was taken at a meeting held at the Central Bank of Sri Lanka yesterday (23).
+
+Accordingly, the Financial Policy Board has decided to reduce the current bank's policy interest rate (SDFR) and the Permanent Credit Facility (SLFR), respectively, and 25 percent, 8.25 percent and 9.25 percent respectively.
 
 ◼️
 
 [Data](articles/d9ca53ae.json)
+
+[Extended Data](ext_articles/d9ca53ae.ext.json)
 
 ---
 
@@ -760,21 +806,27 @@ Ramanathapuram police said that steps will be taken to bring the suspects in cou
 
 ---
 
-### ’ஜனாதிபதிக்கே மக்களின் பெரும்பான்மை ஆதரவு’
+### Most of the people's support for the president
 
 *2024-07-24 03:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கே-மக்களின்-பெரும்பான்மை-ஆதரவு/175-340927) · `ta`
 
-வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டெடுத்த ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு எதிர்வரும் ஜனாதிபதித் தேர்தலில் மக்கள் ஆதரவளிக்கத் தயாராக இருக்கின்றனர் என ஆரம்பக் கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க தெரிவித்தார்.
+Ranil Wickremesinghe, credited with rescuing Sri Lanka from its worst-ever economic crisis in just two years, enjoys widespread public support ahead of the presidential election. Despite initial tax amendment controversies, the benefits are now evident, leading to a shift in public opinion. Voters are focusing on performance rather than party affiliation, indicating a strong likelihood of Wickremesinghe securing more votes, especially in regions like Badulla.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே இராஜாங்க அமைச்சர் சாமர சம்பத் தசநாயக்க இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடிக்குள் தள்ளப்பட்ட நாடு ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கீழ் இரண்டு வருடங்கள் என்ற குறுகிய காலத்திற்குள் மீட்கப்பட்டுள்ளது. அதற்கிணங்க எமது அமைச்சின் கீழுள்ள நிறுவனங்கள் நட்டமடையும் நிலையை தவிர்த்து இலாபம் ஈட்டும் நிலைக்கு வந்துள்ளன.
+President Ranil Wickremesinghe, who has recovered the country from the worst economic crisis in history, is ready to support people in the upcoming presidential election, said the Minister of Energy and State Minister Samara Sampath Dasanayake.
 
-உலகில் கடுமையான பொருளாதார நெருக்கடிகளை எதிர்கொண்டுள்ள ஏனைய நாடுகள் இவ்வளவு குறுகிய காலத்தில் பொருளாதார ஸ்திரத்தன்மையை எட்டவில்லை. இந்த ஸ்திரத்தன்மையை பேணுகின்ற அதேவேளை பொருளாதாரத்தை மேலும் அபிவிருத்தி செய்வதற்கு அனைத்து தரப்பினரும் அர்ப்பணிப்புடன் செயற்பட வேண்டும்.
+State Minister of State for Media Center. He further stated that
+
+The country, which has been hit by the worst economic crisis in history, has been rescued within a short period of two years under President Ranil Wickremesinghe. Accordingly, the corporations under our ministry have come to a profit, avoiding a loss.
+
+Other countries that face severe economic crises in the world have not reached economic stability in such a short time. While maintaining this stability, all parties must work with dedication to further develop the economy.
 
 ...
 
 [Data](articles/e740a935.json)
+
+[Extended Data](ext_articles/e740a935.ext.json)
 
 ---
 
@@ -800,19 +852,25 @@ No scholarship programs have been implemented by the Scholarship Program to enco
 
 ---
 
-### பிக்குணிகளுக்கு புலமைப் பரிசில்
+### Scholarship
 
 *2024-07-24 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்குணிகளுக்கு-புலமைப்-பரிசில்/175-340926) · `ta`
 
-3000  பிக்குணிகளுக்கு புலமைப்பரிசில் வழங்கும் நிகழ்வு இன்று பிற்பகல் 3.00 மணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் அலரி மாளிகையில் நடைபெறவுள்ளது.
+The event, led by President Ranil Wickremesinghe at 3:00 pm today, awards scholarships from the President's Fund Program to monks and ordinary students at Parkuna and Pikkuni Educational Institutions. This initiative aims to support students in the sect, marking the first such program by the Scholarship Program.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக் கருவின்படி செயற்படுத்தப்படும் பிரிவேனா மற்றும் பிக்குணி கல்வி நிறுவனங்களில் கல்வி கற்கும் பிக்குகள் மற்றும் சாதாரண மாணவர்களுக்காக ஜனாதிபதி நிதியத்தினால் புலமைப்பரிசில் வழங்கும் திட்டத்தின் கீழ் இந்தப் புலமைப் பரிசில் வழங்கப்படுகிறது.
+🟩
 
-இதுவரை காலமும் பிரிவேன்களில் கற்கும் பிக்கு மாணவர்களை ஊக்குவிக்கும் புலமைப்பரிசில் திட்டங்கள் எதுவும் செயற்படுத்தப்படவில்லை என்பதோடு ஜனாதிபதியின் பணிப்புரையின் கீழ் நாடளாவிய ரீதியில் இந்த புலமைப்பரிசில் திட்டம் செயற்படுத்தப்படுவது விசேட அம்சமாகும். (a)
+The event will be held at the Alari House, headed by President Ranil Wickremesinghe at 3.00 pm today.
+
+The scholarship is awarded under the President's Fund Program for Monks and Ordinary Students in Parkuna and Pikkuni Educational Institutions, according to the impression of President Ranil Wickremesinghe.
+
+No scholarship programs have been implemented by the Scholarship Program to encourage students who have been learning in the sect.. (A)
 
 ◼️
 
 [Data](articles/72b63275.json)
+
+[Extended Data](ext_articles/72b63275.ext.json)
 
 ---
 
@@ -2241,43 +2299,5 @@ Accordingly, the approval of the Attorney General has been obtained for the amen
 [Data](articles/ea240a22.json)
 
 [Extended Data](ext_articles/ea240a22.ext.json)
-
----
-
-### Women and youth engaged in the handloom industry to be economically empowered
-
-*2024-07-23 17:06:00* · [`islandlk`](http://island.lk/women-and-youth-engaged-in-the-handloom-industry-to-be-economically-empowered/) · `en`
-
-Rs 300 Million of provisions has been allocated by the 2024 budget to the Ministry of Industries to implement special programme for the empowerment of women and youth who engaged in the jobs in the handloom industry. Accordingly, combined project proposal has been prepared in order to resolve the problems encountered by the industrialist such as lack of entrepreneurial skills, lack of environment friendly and sufficient infrastructure, lack of quality products that fulfill the market demand and insufficient marketing facilities and the recommendations of the Department of National Planning has been received for the said proposal.
-
-Accordingly, the Cabinet of Ministers has approved the proposal presented by the Minister of Industries to implement the development programmes which are identified by the said project proposal, by the institutes, the National Enterprise Development Authority, Department of Handloom, Lanka Salu Sala Limited and National Design Center
-
-...
-
-[Data](articles/3ff42b2f.json)
-
-[Extended Data](ext_articles/3ff42b2f.ext.json)
-
----
-
-### Deleting Technology and Aesthetic subjects in GCE Advanced Level Examination - Sajith
-
-*2024-07-23 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189192) · `ta`
-
-Sajith Premadasa criticizes the removal of ICT and aesthetics from the GCE curriculum, calling it a "stupid" decision. He argues that excluding these subjects undermines Sri Lanka's digital aspirations and lacks foresight in the tech-driven era.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the elimination of information and communication technology and aesthetics under the proposed educational reform was a stupid act.
-
-In 2006, the Lesson of Information and Communication Technology included in the GCE Ordinary Classical Curriculum, which is not included in the 7 key subjects estimated by the Department of Examination in the proposed educational reform.. Such stupid decisions should not be made in the event that Sri Lanka is aimed at making Sri Lanka as a digital Sri Lankan
-
-According to the proposed educational reform, the lesson of information and communication technology is decided not to include it as one of the subjects for the GCE Ordinary Level Examination.
-
-...
-
-[Data](articles/913c49d0.json)
-
-[Extended Data](ext_articles/913c49d0.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 22:54:09**
+As of **2024-07-24 23:05:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,057 (100.0%) of 37,058 articles have been extended.
+37,058 (100.0%) of 37,058 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -342,25 +342,33 @@ The court has already issued an order on the temple issue and pointed out that t
 
 ---
 
-### තාරුණ්‍යයට අවශ්‍ය රැකියා රට තුළම නිර්මාණය කරනවා
+### The younger jobs that need to be created in the country
 
 *2024-07-24 18:33:44* · [`adalk`](https://www.ada.lk/breaking_news/තාරුණ්‍යයට-අවශ්‍ය-රැකියා-රට-තුළම-නිර්මාණය-කරනවා/11-410973) · `si`
 
-මෙරට තරුණ තරුණියන් රැකියා සොයා විදේශගත වීම වෙනුවට එම තරුණ තරුණියන්ට අවශ්‍ය රැකියා රට තුළ නිර්මාණය කිරීමේ ආර්ථික පරිවර්තනය වෙනුවෙන් ඉදිරි වසර 10 තුළ නිසි සැලැස්මක් ඔස්සේ කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasizes the importance of creating new jobs for Sri Lanka's youth through economic transformation, focusing on education, technology, and industrial development. He highlights the need for a comprehensive plan to address unemployment, restore the education system for modern technology, and attract foreign aid and investment. The President also mentions initiatives like the Agricultural Navigation Program and plans for new technology universities, aiming to build a strong economy and ensure a better future for the country's youth.
 
-එසේ නොවුණහොත් අධ්‍යාපනය වෙනුවෙන් විශාල මුදලක් වැය කරමින් රජය සිදු කරන කැපවීමේ ප්‍රතිලාභයක් රටට නොලැබෙන බවද පෙන්වා දුන් ජනාධිපතිවරයා ශ්‍රි ලංකාව ඉදිරියටත් නොදියුණු රටක් නොවිය යුතු බවද අවධාරණය කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ, ගම්පහ බණ්ඩාරනායක විද්‍යාලයේ 106 වන සංවත්සරය නිමිත්තෙන් අද  (24) පැවති උත්සවයට එක්වෙමිනි.
+President Ranil Wickremesinghe said that the youth of the Sri Lankan younger youth is working on a proper plan for the economic transformation of the needs of employment in the country.
 
-නව තාක්ෂණයට ගැලපෙන ආකාරයට අධ්‍යාපන ක්‍රමය ප්‍රතිසංස්කරණය කිරීමට කටයුතු කරන බව මෙහිදී පැවසු ජනාධිපතිවරයා ඒ වෙනුවෙන් අවශ්‍ය ප්‍රතිපාදන වෙන් කරන බවද සඳහන් කළේය.
+Otherwise, the President stressed that the country would not have the commitment benefit of the government, hence the government should not be an underdeveloped country.
 
-ගම්පහ බණ්ඩාරනායක විද්‍යාලය වෙත පැමිණි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විද්‍යාලයීය තූර්ය වාදක කණ්ඩායම විසින් මහත් හරසරින් පිළිගත් අතර විද්‍යාලයේ ශිෂ්‍ය භට බලකාය විසින් ජනාධිපති උත්තමාචාරයක්ද පිරිනමන ලදී.
+President Ranil Wickremesinghe made this statement participating at the 106th anniversary of the Bandaranaike Vidyalaya in Gampaha today.
 
-විද්‍යාලයීය රණවිරු ස්මාරකය වෙත පුෂ්පෝපහාර දැක්වීමට ද ජනාධිපතිවරයා එක් විය.
+The President said that the education system would be restored to suit the new technology.
+
+President Ranil Wickremesinghe arrived at Bandaranaike Vidyalaya, Gampaha and awarded the Presidential Adultery by the school cadet Corps.
+
+The President also joined the College War Heroes monument.
+
+The Presidential elections were opened by the Presidential Educational Technology and Trade Display in line with the 106th anniversary of the Bandaranaike Vidyalaya in Gampaha.
 
 ...
 
 [Data](articles/8f38659d.json)
+
+[Extended Data](ext_articles/8f38659d.ext.json)
 
 ---
 

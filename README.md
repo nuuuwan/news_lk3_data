@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 19:20:46**
+As of **2024-07-24 19:35:56**
 
 ## Newspaper Stats
 
-*Scraped **37,033** Articles*
+*Scraped **37,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,220
 dailyftlk | 2,358
-adalk | 3,359
+adalk | 3,360
 adaderanalk | 4,288
 tamilmirrorlk | 4,550
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,026 (100.0%) of 37,033 articles have been extended.
+37,033 (100.0%) of 37,034 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The agreement with the Capital Market Development Authority of Maldives (CMDA) p
 ...
 
 [Data](articles/c836ed48.json)
+
+[Extended Data](ext_articles/c836ed48.ext.json)
 
 ---
 
@@ -86,6 +88,8 @@ Director General of External Resources Ajith Abeysekera said the move will resul
 
 [Data](articles/2f06bb32.json)
 
+[Extended Data](ext_articles/2f06bb32.ext.json)
+
 ---
 
 ### Sudden decision on IGP's interim ban
@@ -124,6 +128,8 @@ Sri Lanka has repeatedly requested the Japanese government to resume the LRT pro
 
 [Data](articles/db52cbdf.json)
 
+[Extended Data](ext_articles/db52cbdf.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 303.55/65 to US dollar, bond yields down
@@ -143,6 +149,26 @@ A bond maturing on 15.09.2029 closed at 12.02/12 percent, down from 12.05/15 per
 ◼️
 
 [Data](articles/141a4602.json)
+
+[Extended Data](ext_articles/141a4602.ext.json)
+
+---
+
+### ජනපති ලේකම්ගේ චක්‍රලේඛයක් ක්‍රියාත්මක කිරීම ශ්‍රේෂ්ඨාධිකරණය අත්හිටුවයි
+
+*2024-07-24 17:45:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලේකම්ගේ-චක්‍රලේඛයක්-ක්‍රියාත්මක-කිරීම-ශ්‍රේෂ්ඨාධිකරණය-අත්හිටුවයි/11-410969) · `si`
+
+ග්‍රාමීය සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීම සඳහා ”ප්‍රජා උපේදේශන කමිටු” පිහිටුවීමට සඳහා ජනාධිපති ලේකම්වරයා අප්‍රේල් මස 29 වැනිදා නිකුත් කළ  චක්‍ර ලේඛණය ක්‍රියාත්මක කිරීම අත්හිටුවමින් ශ්‍රේෂ්ඨාධිකරණය අද (24) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+දේශපාලන වාසි ලබා ගැනීමේ අරමුණින් මෙම ව්‍යාපෘති සැළසුම් කර අදාළ කමිටු පිහිටුවන බවට පැමිණිලි කරමින් ෆැපරල් සංවිධානය සහ එහි විධායක අධ්‍යක්ෂ රෝහන හෙට්ටිආරච්චි මහතා ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය අදාළ අතුරු තහනම් නියෝගය නිකුත් කළේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන විජිත් මලල්ගොඩ, යසන්ත කෝදාගොඩ  සහ කුමුදුනී  වික්‍රමසිංහ යන  මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක්  හමුවේ පෙත්සම සලකා බැලීණි.
+
+ෆැපරල් සංවිධානය සහ එහි විධායක අධ්‍යක්ෂ රෝහන හෙට්ටිආරච්චි මහතා ගොනු කළ මෙම මූලික අයිතිවාසිකම් පෙත්සමේ වගඋත්තරකරුවන්  වශයෙන්  අගමැති  දිනේෂ් ගුණවර්ධන මහතා ඇතුළු කැබිනට්  මණ්ඩලය සහ නීතිපතිවරයා නම් කර ඇත.
+
+◼️
+
+[Data](articles/ddff0312.json)
 
 ---
 
@@ -203,6 +229,8 @@ Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-
 ...
 
 [Data](articles/c0d72e22.json)
+
+[Extended Data](ext_articles/c0d72e22.ext.json)
 
 ---
 
@@ -275,6 +303,8 @@ Foreign selling was seen on Hatton National Bank Plc non-voting (up at 149.75), 
 ...
 
 [Data](articles/f940c0fb.json)
+
+[Extended Data](ext_articles/f940c0fb.ext.json)
 
 ---
 
@@ -391,6 +421,8 @@ The move comes after the Supreme Court gave an interim order suspending the poli
 ◼️
 
 [Data](articles/3c54ea2b.json)
+
+[Extended Data](ext_articles/3c54ea2b.ext.json)
 
 ---
 
@@ -2329,25 +2361,5 @@ The Supreme Court has issued the order to investigate fundamental rights violati
 [Data](articles/ea1cabad.json)
 
 [Extended Data](ext_articles/ea1cabad.ext.json)
-
----
-
-### Patriot Tennakoon is banned from serving as IGP
-
-*2024-07-24 09:54:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/IGPயாக-கடமையாற்றுவதற்கு-தேசபந்து-தென்னகோனுக்கு-தடை/150-340933) · `ta`
-
-The Supreme Court has temporarily blocked Patriot Tennakoon from becoming the country's IGP due to allegations of fundamental rights violations. This comes after Cardinal Malcolm Ranjith and others petitioned against the President's appointment of Tennakoon as police chief.
-
-🟩
-
-The Supreme Court has issued an interim order to prevent the serving of the Tennakoon Police Chief of the country.
-
-The Supreme Court has issued the order to investigate fundamental rights violations submitted by the parties, including Cardinal Malcolm Ranjith, demanding the cancellation of the President's decision to cancel the President's decision to appoint the police chief of the country.
-
-◼️
-
-[Data](articles/f7e11666.json)
-
-[Extended Data](ext_articles/f7e11666.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 10:06:31**
+As of **2024-07-24 10:20:18**
 
 ## Newspaper Stats
 
-*Scraped **36,921** Articles*
+*Scraped **36,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,203
 dailyftlk | 2,358
-adalk | 3,344
-adaderanalk | 4,275
-tamilmirrorlk | 4,527
+adalk | 3,346
+adaderanalk | 4,277
+tamilmirrorlk | 4,529
 dailymirrorlk | 4,733
 virakesarilk | 5,785
 adaderanasinhalalk | 6,196
@@ -26,39 +26,133 @@ adaderanasinhalalk | 6,196
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,919 (100.0%) of 36,921 articles have been extended.
+36,921 (100.0%) of 36,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### දේශබන්දුට පොලිස්පති ලෙස කටයුතු කිරීම වළක්වාලමින් අතුරු නියෝගයක්
+### විවිධ මත්ද්‍රව්‍ය සහ ජාවාරමෙන් උපයා ගත් මුදල් තොගයක් සමඟ පුද්ගලයකු අත්අඩංගුවට
+
+*2024-07-24 10:05:05* · [`adalk`](https://www.ada.lk/breaking_news/විවිධ-මත්ද්‍රව්‍ය-සහ-ජාවාරමෙන්-උපයා-ගත්-මුදල්-තොගයක්-සමඟ-පුද්ගලයකු-අත්අඩංගුවට/11-410958) · `si`
+
+රුපියල් ලක්ෂ 40 කට ආසන්න   විවිධ මත්ද්‍රව්‍ය සහ ජාවාරමෙන් උපයා ගත් මුදල් තොගයක් සමඟ පුද්ගලයකු මතුගම යට දොළවත්ත ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව කළුතර අපරාධ කොට්ඨාසය කියයි
+
+එම සැකකරු සමඟ හෑෂ් මත්ද්‍රව්‍ය ගෑම් 611 ක් මැන්ඩි මත්ද්‍රව්‍ය ගෑම් 760 ක් මත් මුද්දර 500 ක් හා ජාවාරමෙන් උපයා ගත්  රුපියල් 116,500/= ක මුදලක් පොලිස් භාරයට ගෙන ඇත
+
+අත්අඩංගුවට ගත් සැකකරු පිළියන්දල ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකි සැකකරු වැඩිදුරු විමර්ශන සඳහා මතුගම පොලිසිය වෙත භාරදී ඇත. කළුතර අපරාධ කොට්ඨාසය පරීක්ෂණ  පවත්වයි
+
+◼️
+
+[Data](articles/1fd14b5d.json)
+
+---
+
+### சனிக்கிழமைக்கு முன்னர் அறிவிக்கப்படும்
+
+*2024-07-24 09:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனிக்கிழமைக்கு-முன்னர்-அறிவிக்கப்படும்/175-340934) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதித் தேர்தலுக்கான திகதியை சனிக்கிழமை (27)க்கு முன்னர் தேசிய தேர்தல்கள் ஆணைக்குழு அறிவிக்கவுள்ளது.
+
+வெள்ளிக்கிழமை (26) திகதி அறிவிக்கப்படும் என தெரிவிக்கப்பட்டிருந்த நிலையில் குறித்த அறிவிப்பு செவ்வாய்க்கிழமை  (24) வெளியிடப்பட்டுள்ளது.
+
+வியாழன் (25) நடைபெறவிருக்கும் கூட்டம் ஆணைக்குழுவின் வழக்கமான கூட்டமே தவிர தேர்தல் தேதி குறித்து விவாதிக்கும் நோக்கம் இல்லை எனவும் ஜனாதிபதி தேர்தல் அறிவிப்பிற்கான வர்த்தமானி அறிவித்தல் வார இறுதிக்கு முன்னர் வெளியிடப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/42623ea2.json)
+
+---
+
+### IGPயாக கடமையாற்றுவதற்கு தேசபந்து தென்னகோனுக்கு தடை
+
+*2024-07-24 09:54:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/IGPயாக-கடமையாற்றுவதற்கு-தேசபந்து-தென்னகோனுக்கு-தடை/150-340933) · `ta`
+
+தேசபந்து தென்னகோன் பொலிஸ் மா அதிபராக கடமையாற்றுவதைத் தடுக்கும் வகையில் உயர் நீதிமன்றம் இடைக்கால உத்தரவு பிறப்பித்துள்ளது.
+
+தேசபந்து தென்னகோனை பொலிஸ் மா அதிபராக நியமித்த ஜனாதிபதியின் தீர்மானத்தை இரத்துச் செய்யும் உத்தரவை பிறப்பிக்குமாறு கோரி மேதகு கர்தினால் மல்கம் ரஞ்சித் உள்ளிட்ட தரப்பினரால் சமர்ப்பிக்கப்பட்ட அடிப்படை உரிமை மீறல் மனுக்களை விசாரணைக்கு எடுத்த உயர் நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.R
+
+◼️
+
+[Data](articles/f7e11666.json)
+
+---
+
+### Interim order issued against Deshabandu functioning as IGP
+
+*2024-07-24 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100739/interim-order-issued-against-deshabandu-functioning-as-igp) · `en`
+
+The Supreme Court has issued an interim order preventing Deshabandu Tennakoon from functioning as the Inspector General of Police (IGP).
+
+The Supreme Court issued this order after granting leave to proceed with the nine petitions filed by several parties including Cardinal Malcolm Ranjith challenging the decision to appoint Tennakoon as the IGP.
+
+The petitioners had sought an interim order restraining Deshabandu Tennakoon from discharging the duties and functioning in the office of IGP.
+
+◼️
+
+[Data](articles/ac534e9b.json)
+
+---
+
+### Interim Order from preventing the IGP
 
 *2024-07-24 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199150) · `si`
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+The Supreme Court has temporarily blocked Deshabandu Tennakoon from serving as Inspector General of Police (IGP), pending further orders. This decision was made at the request of Cardinal Malcolm Ranjith, who sought legal intervention against the appointment of Deshabandu as IGP by the President.
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අති උතුම් කාදිනල් මැල්කම් රංජිත් හිමිපාණන් ඇතුළු පාර්ශව කරුවන් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 09 ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කරනු ලැබීය.
+🟩
+
+The Supreme Court has issued a interim injunction with Deshabandu Tennakoon from working as IGP.
+
+The Supreme Court issued the Supreme Court in charge of the Fitly Cardinal Malcolm Ranjith, the Fitly Cardinal Malcolm Ranjith, the Fitly Cardinal Malcolm Ranjith, who has been submitted to the appointment order to appoint the President to appoint President Deshabandu as IGP.
 
 ◼️
 
 [Data](articles/96a03281.json)
 
+[Extended Data](ext_articles/96a03281.ext.json)
+
 ---
 
-### බිත්තර මිල යළි කරළියට
+### Egg prices back to the forest
 
 *2024-07-24 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199149) · `si`
 
-බිත්තරයක සිල්ලර මිල රුපියල් 40ක් දක්වා අඩු කිරීමට හැකියාව පවතින බව නලින් ප්‍රනාන්දු අමාත්‍යවරයා පවසයි.
+Minister Nalin Fernando announces plans to lower egg prices due to upcoming festivities. He warns of re-importing eggs if prices aren't reduced voluntarily, aiming to support cake manufacturers and ensure affordability for consumers.
 
-ඔහු පවසන්නේ උත්සව සමයේ බිත්තර නිෂ්පාදකයින් මිල අඩු කිරීමට පියවර නොගන්නේ නම් යළිත් ඉන්දියාවෙන් බිත්තර ආනයනය කිරීමට පියවර ගන්නා බවය.
+🟩
 
-"රුපියල් 6කින් එක පාරටම බිත්තර අඩුවෙලා. මම ඒ ගැනත් පාරිභෝගික අධිකාරියෙන් වාර්තා ගන්නවා. දිගින් දිගටම බලනවා අනිවාර්යයෙන්ම බිත්තරේ රුපියල් 40කටවත් ලබාදෙන්න බැරි නම් ආනයනය කරන්න වෙනවා. මොකද උත්සව සමය ආරම්භ වෙනවා දෙසැම්බර්. කේක් නිෂ්පාදකයෝ බිත්තර විශාල ප්‍රමාණයක් ගන්නවා. මෙයාලට බිත්තර අඩු නම් අනිවාර්යයෙන්ම බිත්තර ආනයනය කරන්න වෙනවා. එහෙම නැත්නම් පාරිභෝගිකයින්ට හරි මිලට බිත්තර දීලා ඔවුන්ව ආරක්ෂා කරන්න ඕනේ."
+Minister Nalin Fernando says that the retail price of an egg is to be reduced to Rs.
+
+He says that if the festive season does not take steps to reduce the price, steps will be taken to import eggs again.
+
+"Eggs reduced by Rs. 6. I also take reports from the Consumer Authority. Continuing to import egg at least 40 rupees. Because the festive season begins December. Cake manufacturers take a lot of eggs. If they have less eggs, they must have to import eggs. Or you have to give the consumers or eggs in the price. "
 
 ◼️
 
 [Data](articles/bfb7531a.json)
+
+[Extended Data](ext_articles/bfb7531a.ext.json)
+
+---
+
+### Decision on petitions challenging IGP’s appointment expected today
+
+*2024-07-24 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100738/decision-on-petitions-challenging-igps-appointment-expected-today) · `en`
+
+The fundamental rights (FR) petitions filed challenging the appointment of Deshabandu Tennakoon as the Inspector General of Police (IGP) are slated to be taken up for consideration once again today (24).
+
+The Supreme Court on July 18 concluded considering the FR petitions filed challenging the appointment of Tennakoon as the IGP.
+
+Accordingly, the court had then announced that the decision as to whether or not the petitions will be taken up for hearing will be delivered today (24).
+
+The court is also expected to announce today as to whether an interim order will be issued preventing Deshabandu Tennakoon from functioning as the IGP.
+
+A three-member bench had previously taken up for consideration the eight petitions put forward by several parties including the Archbishop of Colombo Cardinal Malcolm Ranjith, Prof. Savitri Gunasekara, former MP Hirunika Premachandra and several others.
+
+...
+
+[Data](articles/1dda843b.json)
 
 ---
 
@@ -1828,6 +1922,22 @@ According to the approval of the Secretary of the National Police Commission, th
 
 ---
 
+### හෙක්ටයාර් 450,138ක වී වගා කරයි
+
+*2024-07-23 19:35:38* · [`adalk`](https://www.ada.lk/breaking_news/හෙක්ටයාර්-450-138ක-වී-වගා-කරයි/11-410952) · `si`
+
+මෙවර යල කන්නයේ වගාකර ඇති හෙක්ටයාර් 61,075ක කීරි සම්බා වගාවෙන් අපේක්ෂිත අස්වැන්නමෙට්‍රික්ටොන් 248,000ක් බව යල කන්නයේ වී වගාවේ ප්‍රගතිය පිළිබඳ පැවති සාකච්ඡාවේදී ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව දැනුම් දුන්නේය.
+
+මීට අමතරව නාඩු (සුදු) හෙක්ටයාර් 263,122ක්, නාඩු (රතු) හෙක්ටයාර් 94,027ක්, සම්බා (සුදු) හෙක්ටයාර් 27,268ක්, සම්බා (රතු) හෙක්ටයාර් 3612.8ක්, සාම්ප්‍රදායික සහල් හෙක්ටයාර් 1034ක් වශයෙන් හෙක්ටයාර් 450,138ක වී වගා කර ඇති බවද එම සාකච්ඡාවේදී අනාවරණය විය.
+
+පසුගිය සමයේ පැවති කීරි සම්බා සහල් හිඟයක් හේතුවෙන් ඒ සඳහා ආදේශක සහල් ආනයනය කිරීමට රජය තීරණය කළ අතර මෙවර යල කන්නයේදී කීරි සම්බා වී වැඩි කුඹුරු ප්‍රමාණයක වගා කිරීමට කෘෂිකර්ම දෙපාර්තමේන්තුව සැලසුම් කරන ලදී.
+
+◼️
+
+[Data](articles/bd696349.json)
+
+---
+
 ### It is necessary to obtain the corporations of the relevant companies to implement the recommendations of groups like Cobb and Copa - Wijeyadasa Rajapaksa
 
 *2024-07-23 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189215) · `ta`
@@ -2129,151 +2239,5 @@ It is noteworthy that the rescue personnel are continuing to rescue people affec
 [Data](articles/4d71d958.json)
 
 [Extended Data](ext_articles/4d71d958.ext.json)
-
----
-
-### Increase in the number of victims of Ethiopian landslides
-
-*2024-07-23 18:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எத்தியோப்பிய-மண்சரிவில்-பலியானோர்-எண்ணிக்கை-அதிகரிப்பு/50-340901) · `ta`
-
-Heavy rains in Ethiopia's Copa Zone triggered landslides, killing 157, including 50 in the Kenjo Sacha Costi district. Rescue efforts continue amidst the disaster.
-
-🟩
-
-The number of casualties has risen to 157 as 50 people have been killed in a landslide in Ethiopia.
-
-Landslides have been caused by heavy rains in the Copa Zone in Ethiopia Kenjo Sacha Costi district.
-
-The head of the Copa Regional Communications Office has said that the rescue of the victims of the landslide is continuing.
-
-It is noteworthy that the rescue personnel are continuing to rescue people affected by landslides.
-
-◼️
-
-[Data](articles/dd27e41c.json)
-
-[Extended Data](ext_articles/dd27e41c.ext.json)
-
----
-
-### Tips for foreign tourists or special train at strikes
-
-*2024-07-23 18:29:36* · [`adalk`](https://www.ada.lk/breaking_news/වර්ජනවලදී-විදෙස්-සංචාරකයන්-සඳහා-හෝ-විශේෂ-දුම්රියක්-යෙදවීමට-උපදෙස්/11-410945) · `si`
-
-Government agencies must implement recommendations for transparency and efficiency within a year. A committee highlighted the importance of public institutions adhering to these guidelines. The Elections Commission discussed removing body coloring for voters, saving resources, and improving accessibility for disabled voters through new sign language vocabularies. The Ministry of Education was tasked with educating principals and authorities, while the Registrar General's Office needs to simplify obtaining life certificates. The committee also urged for a fair pricing system to reduce fuel costs and operate special trains during railway strikes to support the tourism industry.
-
-🟩
-
-The agency is the responsibility of every government agency to implement the recommendations of an open and responsible government to proceed to public institutions within a year as well as to provide the recommendations given to public institutions within a year.Chairman of the Council Jagath Kumara Sumithrachchi recently emphasized.
-
-The Chairman of the Committee Chairman, the Chairman of the Committee was made by the Sectoral Oversight Committee on an open and responsible government.
-
-The Committee on the Committee on the Ministry of Education, Ministry of Education, Ministry of Education, Ministry of Education, Ministry of Education and the Ministry of Transport and the Ministry of Health and the Elections Commission.It was called.
-
-...
-
-[Data](articles/252df15c.json)
-
-[Extended Data](ext_articles/252df15c.ext.json)
-
----
-
-### CEB suspends appointment to cover the office of additional General Manager
-
-*2024-07-23 18:24:54* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-අතිරේක-සාමාන්‍යාධිකාරී-ධුරයේ-වැඩ-ආවරණය-කිරීමට-කළ-පත්කිරීම-අත්හිටුවයි/11-410944) · `si`
-
-The Court of Appeal has temporarily halted the appointment of Jayaratne as an additional General Manager at the Ceylon Electricity Board due to lack of exceptional circumstances. The injunction affects the decision made by the Board of Directors, including Engineer Wanninayake Jayaratne and others. Respondents have been ordered to reply by September 3rd. President's Counsel Faizer Mustapha represents the petitioners, seeking to overturn the appointment decision.
-
-🟩
-
-Electrical Engineering Walk General Manager. The Court of Appeal today issued an interim injunction today, suspending the implementation of the decision to appoint Jayaratne.
-
-Appointment of a Petroleum of Electricity engineer who has been appointed to cover the office of additional General Manager without exceptional.Also issued an order.
-
-The respondents were issued to respond to the petition on the petition on September 3, the respondents were issued notice.
-
-Engineering TA. Ceylon Electricity Board as respondents, the Board of Directors, the Board of Directors, Engineer, Wannah. Jayaratne and several others were named.
-
-Inseganyarus Wickrevii W. The appointment of Petitioners who have decided to appoint Jayaratne have decided to be decided to appoint Jayaratne.
-
-...
-
-[Data](articles/29dc4ce5.json)
-
-[Extended Data](ext_articles/29dc4ce5.ext.json)
-
----
-
-### Minister Wijayadasa apologized to two matters
-
-*2024-07-23 18:19:09* · [`adalk`](https://www.ada.lk/breaking_news/කාරණා-දෙකකට-ඇමති-විජයදාස-සමාව-ඉල්ලයි/11-410943) · `si`
-
-Minister Wijayadasa Rajapaksa, in Parliament, apologized for the forced cremations of Muslims during the 1983 Black July riots, stating he and other ministers had submitted a proposal to apologize to the Muslim community. He expressed regret over the incident, emphasizing his responsibility as a law minister to acknowledge the wrongs of the past.
-
-🟩
-
-Minister of Justice and Constitutional Reforms, Minister Wijayadasa Rajapaksa said that the decision to cremation of the mosques of the Muslim in the crowd during the cities of the Muslim July 41 years ago.
-
-He made this statement in Parliament today (23).. The Minister Wijayadasa Rajapakse said:
-
-"Today's clailand has joined the Black July day, which was collected in history. We presented a cabinet paper yesterday and I and Minister of External Affairs Ali Sabri and Minister Tandaraman. On the forced policy adopted in the death cremation of the people of the Islamic people during the covard. We submitted it based on the report from the Ministry of Water Resources by the Ministry of Water Resources.
-
-We submit a proposal to apologize to the cabinet to apologize to the cabinet to the Cabinet of Islamic. We express regret all people. Although we are not responsible for it, we have not taken the position of that government, but we are expressing our regret about what happened at the time.
-
-...
-
-[Data](articles/d9ef27cb.json)
-
-[Extended Data](ext_articles/d9ef27cb.ext.json)
-
----
-
-### 2024 ICC T20 World Cup
-
-*2024-07-23 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189209) · `ta`
-
-The 2024 T20 World Cup review will take place in the U.S. and West Indies under directors Roger Dus, Losan Naidu, and Imran Khawaja. Criticisms about spending and Caribbean Island issues led to this decision, made at the ICC conference in Colombo. The Women's T20 World Cup in 2030 will see more teams, increasing from 8 in 2009 to 10 in 2016 and staying at 10 for Bangladesh 2023. By 2026, the T20 World Cup will involve 12 teams, including qualifiers from Africa, Europe, the U.S., Asia, and East Asia Pacific. The ICC also granted co-status to the U.S. Cricket Company and Cricket Chile.
-
-🟩
-
-The International Cricket Council (ICC) has confirmed that the 2024 T20 World Cup will be reviewed in the United States and the West Indies.
-
-The International Cricket Council (ICC) has appointed a team of three directors - Roger Dus, Losan Naidu and Imran Khawaja, to supervise and submit the report.
-
-Criticism has been raised over the amount of money spent during competitions in the United States and the shortcomings in the Caribbean Islands.
-
-In this case, it was decided to appoint the committee during the ICC annual conference held in Colombo from July 19 to 22.
-
-During the meeting, the ICC also approved the increase in the number of teams that participate in the Women's T20 World Cup in 2030.
-
-Eight teams participated in the 2009 R20 World Cup competition, and the number rose to 10 in 2016.
-
-Only 10 teams will participate in the Women's T20 World Cup in Bangladesh this year.
-
-...
-
-[Data](articles/3c0743ae.json)
-
-[Extended Data](ext_articles/3c0743ae.ext.json)
-
----
-
-### Sri Lanka cabinet approves apology from Muslims for COVID-19 cremation ahead of election
-
-*2024-07-23 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-apology-from-muslims-for-covid-19-cremation-ahead-of-election-173449/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers approved a proposal to tender apology for the grievance caused for ethnic minority Muslims due to the cremation of bodies during the Covid-19 pandemic, Foreign Minister Ali Sabry said.
-
-The move comes ahead of the upcoming presidential poll in which Muslim votes are likely to become crucial for all candidates.
-
-The government of former President Gotabaya Rajapaksa led by current ruling party Sri Lanka Podujana Peremuna (SLPP) forced Muslims and Christians to cremate the dead bodies of those who died of Covid-19 in 2020.
-
-The   Organisation of Islamic Cooperation (OIC) which includes Islamic states globally raised the forced cremations issue at the 46th United Nations Human Rights Council (UNHRC) in February 2021 after the SLPP government rejected repeated requests by local and global Islamic bodies.
-
-...
-
-[Data](articles/bd514e08.json)
-
-[Extended Data](ext_articles/bd514e08.ext.json)
 
 ---

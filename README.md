@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 22:35:31**
+As of **2024-07-24 22:54:09**
 
 ## Newspaper Stats
 
-*Scraped **37,057** Articles*
+*Scraped **37,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,220
 dailyftlk | 2,358
-adalk | 3,365
+adalk | 3,366
 adaderanalk | 4,290
 tamilmirrorlk | 4,551
 dailymirrorlk | 4,733
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,056 (100.0%) of 37,057 articles have been extended.
+37,057 (100.0%) of 37,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### ඡන්දෙට සහාය දෙන්න නම් නාමල් හිලව්වට අගමැතිකම ඉල්ලයි
+### Namal asks for the prime minister to support the election
 
 *2024-07-24 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199177) · `si`
 
-පක්ෂයෙන් පරිබාහිර අපේක්ෂකයෙකුට ජනාධිපතිවරණයේදී සහාය ලබාදෙන්නේ නම් ඉදිරි ආණ්ඩුවේ අගමැති ධුරය ශ්‍රී ලංකා පොදුජන පෙරමුණට ලැබිය යුතු බව එහි ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa urges the Prime Minister to back an external candidate in the upcoming Presidential election, suggesting this would justify his party, the Sri Lanka Croader's Front, leading the government. This statement came after a meeting involving the Sri Lanka General Front's leaders, including Basil Rajapaksa, who also plans to meet with President Ranil Wickremesinghe.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායකයින් අතර අද (24) පැවති සාකච්ඡාවකින් පසුව මාධ්‍ය වෙත අදහස් පළ කරමින් ඔහු මේ බව කියා සිටියේය.
+🟩
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ විජේරාම මාවතේ පිහිටි නිල නිවසේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායකයින් අද රැස්වී ඉදිරි දේශපාලන තත්ත්වය සහ ජනාධිපතිවරණයට පවතින සූදානම පිළිබඳ සාකච්ඡා කර තිබුණි.
+Namal Rajapaksa says that if the Presidential election supports an outside candidate, the Sri Lanka Croader's Front deserves the Prime Minister of the Government.
 
-එම රැස්වීමට පක්ෂ නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මෙන්ම පොහොට්ටුවේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා ඇතුළු පක්ෂයේ ප්‍රබලයින් පිරිසක් එක්වී තිබේ.
+He was speaking to the media after a discussion held between the leaders of the Sri Lanka General Front today.
 
-මේ අතර පොහොට්ටුවේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අද දිනයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සාකච්ඡාවක් පැවැත්වීමට නියමිතව ඇතැයි ද වාර්තා වෙයි.
+The leaders of the Sri Lanka Civil Appointment was held today at the official residence at the Wijerama Mawatha, former President Mahinda Rajapaksa.
+
+Basil Rajapaksa, the founder of former President Mahinda Rajapaksa and the founder of the Pohottiya has joined the meeting.
+
+Meanwhile, it is reported that Basil Rajapaksa is scheduled to meet with President Ranil Wickremesinghe today, reports say.
 
 ◼️
 
 [Data](articles/d5dfbb8c.json)
+
+[Extended Data](ext_articles/d5dfbb8c.ext.json)
 
 ---
 
@@ -333,6 +339,28 @@ The court has already issued an order on the temple issue and pointed out that t
 [Data](articles/e3965c82.json)
 
 [Extended Data](ext_articles/e3965c82.ext.json)
+
+---
+
+### තාරුණ්‍යයට අවශ්‍ය රැකියා රට තුළම නිර්මාණය කරනවා
+
+*2024-07-24 18:33:44* · [`adalk`](https://www.ada.lk/breaking_news/තාරුණ්‍යයට-අවශ්‍ය-රැකියා-රට-තුළම-නිර්මාණය-කරනවා/11-410973) · `si`
+
+මෙරට තරුණ තරුණියන් රැකියා සොයා විදේශගත වීම වෙනුවට එම තරුණ තරුණියන්ට අවශ්‍ය රැකියා රට තුළ නිර්මාණය කිරීමේ ආර්ථික පරිවර්තනය වෙනුවෙන් ඉදිරි වසර 10 තුළ නිසි සැලැස්මක් ඔස්සේ කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එසේ නොවුණහොත් අධ්‍යාපනය වෙනුවෙන් විශාල මුදලක් වැය කරමින් රජය සිදු කරන කැපවීමේ ප්‍රතිලාභයක් රටට නොලැබෙන බවද පෙන්වා දුන් ජනාධිපතිවරයා ශ්‍රි ලංකාව ඉදිරියටත් නොදියුණු රටක් නොවිය යුතු බවද අවධාරණය කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ, ගම්පහ බණ්ඩාරනායක විද්‍යාලයේ 106 වන සංවත්සරය නිමිත්තෙන් අද  (24) පැවති උත්සවයට එක්වෙමිනි.
+
+නව තාක්ෂණයට ගැලපෙන ආකාරයට අධ්‍යාපන ක්‍රමය ප්‍රතිසංස්කරණය කිරීමට කටයුතු කරන බව මෙහිදී පැවසු ජනාධිපතිවරයා ඒ වෙනුවෙන් අවශ්‍ය ප්‍රතිපාදන වෙන් කරන බවද සඳහන් කළේය.
+
+ගම්පහ බණ්ඩාරනායක විද්‍යාලය වෙත පැමිණි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විද්‍යාලයීය තූර්ය වාදක කණ්ඩායම විසින් මහත් හරසරින් පිළිගත් අතර විද්‍යාලයේ ශිෂ්‍ය භට බලකාය විසින් ජනාධිපති උත්තමාචාරයක්ද පිරිනමන ලදී.
+
+විද්‍යාලයීය රණවිරු ස්මාරකය වෙත පුෂ්පෝපහාර දැක්වීමට ද ජනාධිපතිවරයා එක් විය.
+
+...
+
+[Data](articles/8f38659d.json)
 
 ---
 
@@ -2353,29 +2381,5 @@ In equities, Colombo’s All Share Price Index opened 25.70 points higher at 11,
 [Data](articles/81c59905.json)
 
 [Extended Data](ext_articles/81c59905.ext.json)
-
----
-
-### Mahavamsa: Why was the copy of the University of Peradeniya only a world heritage?
-
-*2024-07-24 11:13:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51ye50j104o) · `si`
-
-The University of Peradeniya's copy of the Mahavamsa became a UNESCO World Heritage site due to its historical significance and exceptional preservation. It was recognized for being a continuous, unbroken copy from the 6th century AD, showcasing the rich history of Sri Lanka and beyond, including periods like the reign of King Dutugemunu and the influence of Tamil rulers. The process took over three years, involving specialists who researched its authenticity and historical value. This copy stands out among many others for its linguistic quality and historical insights, making it a significant cultural asset deserving of global recognition.
-
-🟩
-
-Mahavamsa: Why was the copy of the University of Peradeniya only a world heritage?
-
-July 17, an UNESCO World Heritage Site, a UNESCO World Heritage Survey is a UNESCO World Heritage Site. The certificate was presented by the Director General of UNESCO.
-
-Why was this copy only a world heritage?This is about this.
-
-Vice Chancellor of the University of Peradeniya, MD has taken over three and a half years to make this Mahavamsa version of the University of Peradeniya to become a world heritage.. Childs said. At first, a group of twelve people with specialist in Sri Lanka informed UNESCO. Later, they were researching this copy as a World Heritage. It took over three and a half years to this entire process. "
-
-...
-
-[Data](articles/f01a363a.json)
-
-[Extended Data](ext_articles/f01a363a.ext.json)
 
 ---

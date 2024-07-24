@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 13:36:03**
+As of **2024-07-24 13:55:06**
 
 ## Newspaper Stats
 
-*Scraped **36,974** Articles*
+*Scraped **36,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,66 +15,104 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,207
 dailyftlk | 2,358
-adalk | 3,351
+adalk | 3,353
 adaderanalk | 4,282
 tamilmirrorlk | 4,544
 dailymirrorlk | 4,733
 virakesarilk | 5,795
-adaderanasinhalalk | 6,203
+adaderanasinhalalk | 6,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-36,969 (100.0%) of 36,974 articles have been extended.
+36,974 (100.0%) of 36,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### අමෙරිකානු ඔත්තු සේවා ප්‍රධානියා ඉල්ලා අස්වෙයි
+### නේපාලය සලිත කළ බිහිසුණු ගුවන් යානා අනතුර
+
+*2024-07-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199158) · `si`
+
+නේපාලයේ කත්මණ්ඩු අගනුවර අද (23) උදෑසන සිදුවූ ගුවන්යානා අනතුරෙන් 18 දෙනෙක් මියගොස් ඇති බව වාර්තා වෙයි.
+
+අනතුරට ලක්වන විට එම යානයේ කාර්ය මණ්ඩලයේ 2ක් ඇතුළුව 19 දෙනෙක් ගමන්කරමින් සිටි බව සඳහන් ය.
+
+අනෙක් 17 දෙනා වෙනත් ගුවන්යානයක් අලුත්වැඩියා කිරීම සඳහා පොකාරා ගුවන්තොටුපොළ වෙත යමින් සිටි සෞර්යා ගුවන්සේවයේ සේවක පිරිසකි.
+
+සහන සේවකයින් පවසන්නේ එම යානයේ සිටි පිරිසෙන් 18 දෙනෙක් මියගොස් ඇති බවත් ගුවන් නියමුවා පමණක් බේරාගෙන ඇති බවත් ය.
+
+◼️
+
+[Data](articles/751ec3a6.json)
+
+---
+
+### US intelligence head resigns
 
 *2024-07-24 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199157) · `si`
 
-අමෙරිකානු ඔත්තු සේවා ප්‍රධානී කිම්බලී චීටල් තම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+Kimbali Chetal, US intelligence chief, steps down from her position.
+
+🟩
+
+US intelligence chief Kimbali Chetal has resigned from his post.
 
 ◼️
 
 [Data](articles/2bf20ab3.json)
 
+[Extended Data](ext_articles/2bf20ab3.ext.json)
+
 ---
 
-### දුෂ්මන්ත චමීර ට ඉන්දීය තරගාවලිය අහිමිවෙයි
+### Indian tournament losing the Indian tournament
 
 *2024-07-24 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199156) · `si`
 
-ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක දුෂ්මන්ත චමීර ට ඉන්දියාව සමග පැවැත්වෙන තරගාවලිය අහිමිවී තිබේ.
+In a cricket series between India and Sri Lanka, Sri Lanka's fast bowler Dushmantha Chameera suffered a loss. The Indian team is participating in three ODIs and as many T20s in Sri Lanka.
 
-එක්දින තරග 3කට සහ 20යි විස්ස තරග 3කට සහභාගී වීම සඳහා ඉන්දීය කණ්ඩායම මේ වනවිට ශ්‍රී ලංකාවට පැමිණ සිටියි.
+🟩
+
+Sri Lanka's fast bowler Dushaminha Chameera has lost the tournament with India.
+
+The Indian team is currently in Sri Lanka to attend three ODIs and 20 ODIs.
 
 ◼️
 
 [Data](articles/12267613.json)
 
+[Extended Data](ext_articles/12267613.ext.json)
+
 ---
 
-### முல்லைத்தீவில் துப்பாக்கிச் சூடு
+### Firing in Mullaithivu
 
 *2024-07-24 12:54:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-துப்பாக்கிச்-சூடு/72-340950) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தில் அறுவடை செய்த நெல்லினை வீதியில் காயப்போட்டு காவல் காத்து உறங்கிக்கொண்டிருந்த விவசாயியும் கமக்கார அமைப்பின் செயலாளருமான குடும்பஸ்தர் ஒருவர் மீது, புதன்கிழமை (24)  அதிகாலை துப்பாக்கிசூடு நடத்தப்பட்டுள்ளது.
+In Mullaitivu, a farmer and Kamakara Organization secretary was killed early Wednesday morning. The incident occurred while he was waiting for a policeman, having spent the night outdoors after harvesting crops. The victim, identified as Selvaya Krishnaraja, 42, was later hospitalized in Kilinochchi. Residents suggest the motive behind the shooting could be related to disputes over illegal sand mining.
 
-இதில் காயமடைந்த கமக்கார அமைப்பின் செயலாளர் மேலதிக சிசிச்சைக்காக கிளிநொச்சி மாவட்ட மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்
+🟩
 
-தனது நெல்லினை அறுவடை செய்து வீதியில் காயவைத்துவிட்டு இரவு காவல் காத்து வந்துள்ள நிலையில் வீதியோரமாக உறங்கிக்கொண்டிருந்துள்ளார்
+A farmer and a secretary of the Kamakara Organization, who was waiting for a policeman on the road, which was harvested in the Mullaitivu district, was shot dead on Wednesday morning.
 
-புதன்கிழமை (24) அதிகாலை 3.00 மணியளவில் இனம் தெரியாத நபர்களால் இவர் மீது துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+The secretary of the Kamakara Organization has been admitted to the Kilinochchi District Hospital for further treatment.
 
-கல்விளான்குளம் பகுதியினை சேர்ந்த கமக்கார அமைப்பின் செயலாளரான 42 அகவையுடைய செல்லையா கிருஸ்ணராஜா என்பவர் படுகாயமடைந்து மல்லாவி ஆதாரமருத்துவமனையில் அனுமதிக்கப்பட்ட நிலையில் மேலதிக சிகிச்சைக்காக கிளிநொச்சி மாவட்ட மருத்துவுமனைக்கு மாற்றப்பட்டுள்ளார்.
+He was sleeping on the streets as he was harvested and dried on the street after he was waiting for the night.
 
-...
+He was shot dead by unidentified persons at around 3.00 am on Wednesday (24).
+
+The secretary of the Kamakara Organization of Kamakarakulam, 42, Selvaya Krishnaraja, who was admitted to the Mallavi Apostle, has been transferred to the Kilinochchi District Medical Center for further treatment.
+
+Residents have said that he is the secretary of the Education Kamakara Organization and that the shooting has been held due to the competition in the illegal sand excavation.
+
+◼️
 
 [Data](articles/e5729f89.json)
+
+[Extended Data](ext_articles/e5729f89.ext.json)
 
 ---
 
@@ -130,23 +168,33 @@ But it has been plagued by poor safety due to insufficient training and maintena
 
 ---
 
-### சம்பந்தம் பேசிய மாணவியை வன்புணர்ந்த காதலன்
+### The student who spoke about
 
 *2024-07-24 12:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பந்தம்-பேசிய-மாணவியை-வன்புணர்ந்த-காதலன்/76-340949) · `ta`
 
-15 வயதுடைய மாணவியை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில் அவரது காதலனை, பொலிஸார் கைது செய்த சம்பவம் செவ்வாய்க்கிழமை (23) புத்தள பிரதேசத்தில் இடம்பெற்றுள்ளது.
+A 15-year-old student was allegedly sexually abused by her 23-year-old boyfriend in Puttala. The incident led to his arrest, followed by the victim being hospitalized for medical examination. Both parties involved had a romantic relationship, and the abuse occurred during one of their visits. The suspect was later brought before the Magistrate's Court.
 
-11 ஆம் வகுப்பில் கல்வி கற்கும் குறித்த மாணவியின் தாய் புத்தள , கட்டுகஹகல்கே பகுதியைச் சேர்ந்த 23 வயதுடைய இளைஞர் ஒருவரின் வீட்டுக்குச் சென்று தனது மகளை அவருக்குத் திருமணம் செய்து வைக்க முன்வந்துள்ளார்.
+🟩
 
-அப்போது, ​​இளைஞரின் பெற்றோரும் அதற்கு சம்மதித்து , மாணவியை அவரது படிப்பு முடித்து உரிய வயது வரும் வரை காத்திருக்குமாறு கூறியுள்ளனர் .
+The incident took place in the Puttala area on Tuesday (23) that the police arrested her boyfriend on charges of sexually abusing a 15 -year -old student.
 
-இந்நிலையில் குறித்த இளைஞனுக்கும் , மாணவிக்கும் இடையே காதல் ஏற்பட்டுள்ளதுடன் இருவரும் இவர்களுடைய வீடுகளுக்கு செல்வது வழக்கமாகக் கொண்டுள்ளனர் .
+The mother of a 23 -year -old youth from Katugahagkeke, who is studying in 11th grade, has gone to the house of a 23 -year -old youth.
 
-கடந்த ஏப்ரல் 10ம் திகதி குறித்த மாணவி வழக்கம் போல் அந்த இளைஞனின் வீட்டிற்கு சென்றுள்ளார். அதன்போது இளைஞன் மாணவியை அறைக்கு அழைத்துச் சென்று பாலியல் துஷ்பிரயோகம் செய்துள்ளதுடன் அதற்கு பின்னரும் இருவரும் பல தடவைகள் இவ்வாறு நடந்துக்கொண்டுள்ளனர் .
+At the time, the younger parents agreed to it and told the student to wait till the adult.
+
+In this case, there is a love between the young man and the student and it is customary for both to go to their homes.
+
+On April 10, the student went to the young man's house as usual. The youth has taken the student to the room and sexually abused and both have been repeatedly behaved.
+
+Later, the young man left the student and came to the police station with her mother and lodged a complaint.
+
+The suspect has been arrested by the Puttala police and the student has been admitted to the Moneragala District General Hospital for medical examination.
 
 ...
 
 [Data](articles/a4b1ffef.json)
+
+[Extended Data](ext_articles/a4b1ffef.ext.json)
 
 ---
 
@@ -248,21 +296,27 @@ In this case, the accident occurred when the plane crashed into the runway.
 
 ---
 
-### விமானம்  விழுந்து நொறுக்கியதில் 18 பேர் பலி
+### 18 killed in plane crash
 
 *2024-07-24 12:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமானம்-விழுந்து-நொறுக்கியதில்-18-பேர்-பலி/50-340947) · `ta`
 
-நேபாளத்தின் காத்மாண்டு விமான நிலையத்தில் இருந்து 19 பேருடன் புறப்பட்ட விமானம் சில விநாடிகளிலேயே ஓடுபாதையில் விழுந்து நொறுங்கியது.
+A plane crash at Kathmandu airport killed 18 of its 19 passengers, including crew. The Sauriya Airlines flight caught fire upon impact but was quickly extinguished by firefighters. The sole survivor, the pilot, is hospitalized.
 
-விமானம் தீப்பற்றி எரிய அதிலிருந்த பயணிகள் 18 பேரும் உயிரிழந்திருப்பதாகத் தெரிகிறது. விபத்தில் சிக்கிய விமானத்தின் விமானி சிகிச்சைக்காக மருத்துவமனைக்கு அழைத்து செல்லப்பட்டுள்ளதாகத் தெரிகிறது.
+🟩
 
-விபத்துக்குள்ளான விமானம் சௌர்யா ஏர்லைன்ஸ் நிறுவனத்துக்கு சொந்தமானது. காத்மாண்டுவில் இருந்து போக்காராவுக்கு இந்த விமானம்  புதன்கிழமை(24) காலை புறப்பட்ட போது இந்த விபத்து நிகழ்ந்துள்ளது.
+The plane with 19 people from Nepal's Kathmandu airport crashed into the runway within a few seconds.
 
-விபத்து ஏற்பட்ட உடன் விமானத்தில் தீ பிடித்து எரிந்துள்ளது. அதனை விமான நிலையத்தில் இருந்த தீயணைப்புப் படை வீரர்கள் அணைத்துள்ளனர். தொடர்ந்து காவலர்கள் மற்றும் தீயணைப்புப் படையினர் மீட்புப் பணியில் ஈடுபட்டு வருகின்றனர்.S
+It seems that 18 passengers were killed in the aircraft fire. The pilot of the plane crashed has been taken to the hospital for treatment.
+
+The crash flight belongs to Sauriya Airlines Company. The accident occurred when the flight departed from Kathmandu to Pokara on Wednesday morning.
+
+Fire was burned in the plane after the accident occurred. It was extinguished by firefighters at the airport. The guards and firefighters are constantly working on the rescue.
 
 ◼️
 
 [Data](articles/8031596b.json)
+
+[Extended Data](ext_articles/8031596b.ext.json)
 
 ---
 
@@ -717,6 +771,40 @@ The Minister said that the president has allocated for the presidential election
 [Data](articles/8b4bc842.json)
 
 [Extended Data](ext_articles/8b4bc842.ext.json)
+
+---
+
+### බහුතර ජනතාවගේ මනාපය රට ගොඩගත් ජනාධිපති රනිල්ට
+
+*2024-07-24 10:46:13* · [`adalk`](https://www.ada.lk/breaking_news/බහුතර-ජනතාවගේ-මනාපය-රට-ගොඩගත්-ජනාධිපති-රනිල්ට/11-410961) · `si`
+
+ඉතිහාසයේ දරුණුතම ආර්ථික ආගාධයට වැටී තිබූ රට වසර දෙකක් වැනි කෙටි කාලයක් තුළ යථා තත්ත්වයට පත්කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එළඹෙන ජනාධිපතිවරණයේ දී සහාය දැක්වීමට පක්ෂ පාට භේදයකින් තොරව ජනතාව සූදානම්ව සිටින බව ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා පැවසීය.
+
+මෙරට ආර්ථිකය තවදුරටත් වර්ධනය කිරීමට නම් ඒ සඳහා සියලු පාර්ශ්ව එක්ව කැපවිය යුතු බව ද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+ඉතිහාසයේ දරුණුතම ආර්ථික ආගාධයට වැටී ආසාර්ථකව තිබූ රට නව ජනාධිපතිවරයා ලෙස රනිල් වික්‍රමසිංහ මහතා යටතේ වසර දෙකක් වැනි කෙටි කාලයක් තුළ යථා තත්ත්වයට පත් කිරීමට හැකි වුණා. ඒ අනුව යමින් අප අමාත්‍යාංශය ද එතෙක් පැවති පාඩු ලබන තත්ත්වය වලක්වා ගෙන ලාබ ලබන තත්ත්වයට පැමිණ තිබෙනවා.
+
+...
+
+[Data](articles/0a20bb2d.json)
+
+---
+
+### සතුන්ට සිදුවන හානි  ගැන 1992ට කියන්න
+
+*2024-07-24 10:40:15* · [`adalk`](https://www.ada.lk/breaking_news/සතුන්ට-සිදුවන-හානි--ගැන-1992ට-කියන්න/11-410960) · `si`
+
+කඳුකර කොටියන් ඇතුළු වන සතුන් ඉලක්ක කරගනිමින් අටවන ලද මදු, උඟුල්, තුවක්කු බැදීම්, අනවසර තුවක්කු තබා ගැනීම්, හක්කපටස් ඇටවීම්, විදුලිය යොදා කම්බි රැහැන් ඇදීම් වැනි ක්‍රියා  සම්බන්ධයෙන් හා වන සතුන්ට සිදුවන වෙනත් පීඩාකාරී   හානි පිළිබඳව  දුරකතන අංක 1992 ට අමතා වනජීවී දෙපාර්තුමේන්තුවට  කඩිනමින් දැනුම්දීමට පියවර ගන්නා ලෙස වනජීවී නිලධාරීහු  ජනතාවගෙන් ඉල්ලා සිටිති.
+
+වන සතෙකුට සිදුව ඇති කුමණ හෝ පීඩාවක් හෝ අකටයුත්තක් එසේ කඩිනමින් දැනුම්දීමෙන් එම සතුන්ට කඩිනමින් ප්‍රතිකාර කිරීමටත් එමගින් ඔවුන්ගේ  ජීවිත අවධානම අවම කර ආරක්ෂාව  ලබාදීමටත්  පියවර ගැනීමට හැකි බවද ඔවුහු කියති.
+
+අනවසර ලෙස විදුලිය භාවිතා  කරමින් අදින ලද කම්බිවලට පැටලී වන සතුන් මෙන්ම වටිනා මිනිස් ජීවිත අහිමිවීමේ සිදුවීම් වාර්තාවීම් ඉහළ යමින් පවතින බවත්, ඒ සම්බන්ධයෙන් ජනතාව දැඩි අවධානයෙන් සිටිමින් තොරතුරු ලබාදීම සිදු කළහොත් ඒවා වළක්වා ගැනීමේ හැකියාව ඇති බවද වනජීවී නිලධාරිහු සඳහන් කරති.
+
+...
+
+[Data](articles/b8bd8056.json)
 
 ---
 
@@ -2171,75 +2259,5 @@ From 2019 to June, 4,74 and 142 people have gone to foreign employment opportuni
 [Data](articles/7ce2117f.json)
 
 [Extended Data](ext_articles/7ce2117f.ext.json)
-
----
-
-### Three plowers and four arrested for engaging in illegal sand mining
-
-*2024-07-24 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/189218) · `ta`
-
-Seven individuals, including three farmers and four others, have been arrested for illegal sand mining activities near the Koramati River in Sri Lanka. The Kilinochchi Police Special Task Force, acting on confidential intelligence, apprehended the suspects and turned them over to the Ramanathapuram Police Station. Authorities plan to prosecute the detainees.
-
-🟩
-
-Three farmers and four have been arrested for engaging in illegal sand excavation.
-
-The Kilinochchi Police Special Task Force (STF) has been surrounded by secret information available to the Kilinochchi River illegal sand excavation in the Koramati River under the Kilinochchi Ramanathapuram police division.
-
-Four suspects were arrested by the Special Task Force and handed over to the Ramanathapuram Police Station.
-
-Ramanathapuram police said that steps will be taken to bring the suspects in court.
-
-◼️
-
-[Data](articles/e1a329af.json)
-
-[Extended Data](ext_articles/e1a329af.ext.json)
-
----
-
-### Most of the people's support for the president
-
-*2024-07-24 03:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கே-மக்களின்-பெரும்பான்மை-ஆதரவு/175-340927) · `ta`
-
-Ranil Wickremesinghe, credited with rescuing Sri Lanka from its worst-ever economic crisis in just two years, enjoys widespread public support ahead of the presidential election. Despite initial tax amendment controversies, the benefits are now evident, leading to a shift in public opinion. Voters are focusing on performance rather than party affiliation, indicating a strong likelihood of Wickremesinghe securing more votes, especially in regions like Badulla.
-
-🟩
-
-President Ranil Wickremesinghe, who has recovered the country from the worst economic crisis in history, is ready to support people in the upcoming presidential election, said the Minister of Energy and State Minister Samara Sampath Dasanayake.
-
-State Minister of State for Media Center. He further stated that
-
-The country, which has been hit by the worst economic crisis in history, has been rescued within a short period of two years under President Ranil Wickremesinghe. Accordingly, the corporations under our ministry have come to a profit, avoiding a loss.
-
-Other countries that face severe economic crises in the world have not reached economic stability in such a short time. While maintaining this stability, all parties must work with dedication to further develop the economy.
-
-...
-
-[Data](articles/e740a935.json)
-
-[Extended Data](ext_articles/e740a935.ext.json)
-
----
-
-### Scholarship Prize for Bikhini Students
-
-*2024-07-24 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்குணி-மாணவர்களுக்கு-புலமைப்-பரிசில்/175-340926) · `ta`
-
-The event at Alari House, led by President Ranil Wickremesinghe, awards scholarships from the President's Fund to students of Parkuna and Pikkuni Educational Institutions, marking the first such initiative for this group.
-
-🟩
-
-The event will be held at the Alari House, headed by President Ranil Wickremesinghe at 3.00 pm today.
-
-The scholarship is awarded under the President's Fund Program for Monks and Ordinary Students in Parkuna and Pikkuni Educational Institutions, according to the impression of President Ranil Wickremesinghe.
-
-No scholarship programs have been implemented by the Scholarship Program to encourage students who have been learning in the sect.. (A)
-
-◼️
-
-[Data](articles/33bea2bf.json)
-
-[Extended Data](ext_articles/33bea2bf.ext.json)
 
 ---

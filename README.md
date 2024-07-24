@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 22:20:37**
+As of **2024-07-24 22:35:31**
 
 ## Newspaper Stats
 
-*Scraped **37,056** Articles*
+*Scraped **37,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,55 @@ adaderanalk | 4,290
 tamilmirrorlk | 4,551
 dailymirrorlk | 4,733
 virakesarilk | 5,814
-adaderanasinhalalk | 6,221
+adaderanasinhalalk | 6,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,055 (100.0%) of 37,056 articles have been extended.
+37,056 (100.0%) of 37,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### ඡන්ද දෙකටම සූදානම් - මැතිවරණ කොමිසම
+### ඡන්දෙට සහාය දෙන්න නම් නාමල් හිලව්වට අගමැතිකම ඉල්ලයි
+
+*2024-07-24 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199177) · `si`
+
+පක්ෂයෙන් පරිබාහිර අපේක්ෂකයෙකුට ජනාධිපතිවරණයේදී සහාය ලබාදෙන්නේ නම් ඉදිරි ආණ්ඩුවේ අගමැති ධුරය ශ්‍රී ලංකා පොදුජන පෙරමුණට ලැබිය යුතු බව එහි ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායකයින් අතර අද (24) පැවති සාකච්ඡාවකින් පසුව මාධ්‍ය වෙත අදහස් පළ කරමින් ඔහු මේ බව කියා සිටියේය.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ විජේරාම මාවතේ පිහිටි නිල නිවසේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ නායකයින් අද රැස්වී ඉදිරි දේශපාලන තත්ත්වය සහ ජනාධිපතිවරණයට පවතින සූදානම පිළිබඳ සාකච්ඡා කර තිබුණි.
+
+එම රැස්වීමට පක්ෂ නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මෙන්ම පොහොට්ටුවේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා ඇතුළු පක්ෂයේ ප්‍රබලයින් පිරිසක් එක්වී තිබේ.
+
+මේ අතර පොහොට්ටුවේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අද දිනයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සාකච්ඡාවක් පැවැත්වීමට නියමිතව ඇතැයි ද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/d5dfbb8c.json)
+
+---
+
+### Elections Commission prepares for both votes
 
 *2024-07-24 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199176) · `si`
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කළ ද ජනාධිපතිවරණයේ කටයුතු සඳහා ඉන් බාධාවක් ඇති නොවන බව, මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පැවසීය.
+The Elections Commission is ready for both the presidential and general elections, despite the interim appointment of IGP Deshabandu Tennakoon. Chairman Ratnayake assures readiness for simultaneous polls if Parliament dissolves.
 
-අද (24) කොළඹ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඔහු ප්‍රකාශ කළේ යම් හෙයකින් පාර්ලිමේන්තුව විසුරුවා හැරීමක් සිදුවුවහොත් ජනාධිපතිවරණය සහ මහමැතිවරණය පැවැත්වීමට මැතිවරණ කොමිෂන් සභාවට හැකියාව පවතින බවය.
+🟩
+
+Chairman of the Election Commission, the President of the Election Commission is not obstructed for the presidential election regarding the interim arrival of the IGP Deshabandu Tennakoon.. Mr. Ratnayake said.
+
+At a press conference held in Colombo today, he stated that if Parliament was dissolved in a particular incident, the Elections Commission was able to hold the presidential and general election.
 
 ◼️
 
 [Data](articles/45f9f647.json)
+
+[Extended Data](ext_articles/45f9f647.ext.json)
 
 ---
 
@@ -2351,27 +2377,5 @@ Vice Chancellor of the University of Peradeniya, MD has taken over three and a h
 [Data](articles/f01a363a.json)
 
 [Extended Data](ext_articles/f01a363a.ext.json)
-
----
-
-### Rs. 20 Amount of Indo-Lanka Twenty20 tour. 10000 ticket
-
-*2024-07-24 11:12:00* · [`adalk`](https://www.ada.lk/sports/ඉන්දු----ලංකා-විස්සයි20-තරගාවලියේදි-රු--10000ක-ටිකට්-පතක්/9-410964) · `si`
-
-Tickets for the Indo-Lanka Twenty20 series, starting from July 27, and One-day matches from August 2, are available for Rs. 20 each. Migrants can purchase through the UTSLCRICKET platform.
-
-🟩
-
-Migrant has the opportunity to buy tickets of the Twenty20 and ODIs to hold between Sri Lanka and India.
-
-According to the UTSLCRICKET.com.lk.lkTtikketing-Frontend-TICKETING -TICKETING -TICKETING-PLATFORMEBILE'S USP.
-
-The Twenty20 Tournament between the two countries will commence on the 27th and the second and third competitions will be held on the 28th and 30th of next month. The One-day tournament will commence on August 2.
-
-◼️
-
-[Data](articles/f2329685.json)
-
-[Extended Data](ext_articles/f2329685.ext.json)
 
 ---

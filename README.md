@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 21:55:12**
+As of **2024-07-24 22:08:22**
 
 ## Newspaper Stats
 
-*Scraped **37,053** Articles*
+*Scraped **37,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,220
 dailyftlk | 2,358
-adalk | 3,364
-adaderanalk | 4,289
+adalk | 3,365
+adaderanalk | 4,290
 tamilmirrorlk | 4,551
 dailymirrorlk | 4,733
 virakesarilk | 5,814
@@ -26,49 +26,81 @@ adaderanasinhalalk | 6,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,049 (100.0%) of 37,053 articles have been extended.
+37,053 (100.0%) of 37,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### මව්බිම රනින් සැරසූ කරාතේ ක්‍රීඩක ක්‍රීඩිකාවෝ
+### India slashes import taxes on key metals, smartphones
+
+*2024-07-24 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100754/india-slashes-import-taxes-on-key-metals-smartphones) · `en`
+
+India slashed import duties on gold and silver to 6 percent from 15 percent , a move that industry officials say could boost retail demand and help curtail smuggling in the world’s second-biggest consumer of bullion.
+
+Higher demand for gold from India could boost global prices, which hit a record high this year, although that could widen India’s trade deficit and put pressure on the ailing rupee.
+
+“To enhance domestic value addition in gold and precious metal jewelry, I propose to reduce customs duties of gold and silver to 6 percent ,” Finance Minister Nirmala Sitharaman said in a budget speech on Tuesday.
+
+She also announced an import duty exemption for 25 critical minerals, including lithium.
+
+India has been exploring ways to secure supplies of lithium, a critical raw material used to make electric vehicle batteries.
+
+...
+
+[Data](articles/7f6817fe.json)
+
+---
+
+### Marata athletes dressed in Ranumbima
 
 *2024-07-24 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199175) · `si`
 
-භූතානයේ පැවති 8වන දකුණු ආසියානු කරාතේ ශූරතා තරගාවලියේදී පදක්කම් 54ක් දිනා ගැනීමට ශ්‍රී ලංකා ක්‍රීඩක ක්‍රීඩිකාවන් සමත් විය.
+Sri Lanka's team of 63 athletes won 54 medals at the 8th South Asia Karate Championship in Bhutan, including 5 golds, 18 silvers, and 31 bronzes. This performance was better than last year's. They have also confirmed participation in the 9th championship in 2025.
 
-ශ්‍රී ලංකාව නියෝජනය කරමින් 63 දෙනෙකුගෙන් යුත් කණ්ඩායමක් ඊට එක්වී තිබුණි.
+🟩
 
-එහිදී රන් පදක්කම් 5ක්, රිදී පදක්කම් 18ක් සහ ලෝකඩ පදක්කම් 31ක් දිනා ගැනීමට ශ්‍රී ලංකා ක්‍රීඩක ක්‍රීඩිකාවන් සමත් විය.
+Sri Lankan athletes won 54 medals at the 8th South Asia Karate Championship held in Bhutan.
 
-එය පසුගිය වසරේ ශූරතාවයට සාපේක්ෂව ප්‍රගතියක් ලබා ඇති බව වාර්තා වෙයි.
+A group of 63 members representing Sri Lanka has joined.
 
-එමෙන්ම 2025 වසරේ 9වන දකුණු ආසියානු කරාතේ ශූරතාවලිය සඳහා සත්කාරකත්වය ශ්‍රී ලංකාව වෙත ලබාදීමට කළ යෝජනාව ස්ථීර වී ඇත.
+Sri Lankan athletes won five gold medals, 18 silver medals and 31 bronze medals.
+
+It is reported that it has been made compared to the championship last year.
+
+The proposal to the 9th South Asian Karate Championship of the 9th of the year 2025 has been stable.
 
 ◼️
 
 [Data](articles/29876e5e.json)
 
+[Extended Data](ext_articles/29876e5e.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ක්‍රීඩිකාවන් අපරාජිතව අවසන් පූර්ව වටයට
+### Sri Lankan women in the semi-finals
 
 *2024-07-24 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199174) · `si`
 
-ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ අපරාජිතව අවසන් පූර්ව වටයට පිවිසීමට අද (24) ශ්‍රී ලංකා ක්‍රිකට් කාන්තා කණ්ඩායම සමත් විය.
+In the Asia Cup Women's Cricket Tournament, Sri Lanka's women cricket team advanced to the semi-finals after defeating Thailand by 10 wickets. Despite Thailand scoring 93 runs in 20 overs, Sri Lanka achieved the target of 94 runs in just three balls.
 
-ඒ අද පැවැති තරගයෙන් තායිලන්ත කණ්ඩායම කඩුලු 10කින් පරාජය කරමිනි.
+🟩
 
-එම තරගයේ කාසියේ වාසිය දිනූ තායිලන්ත පිල පළමුවෙන් පන්දුවට පහරදීමට තීරණය කර තිබුණි.
+Sri Lanka Cricket Women's Team (SLC) team to enter the semi-finals of the Asia Cup Women's Cricket Tournament.
 
-ඒ අනුව තායිලන්තය නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී රැස් කළේ ලකුණු 93ක් පමණි.
+Thailand defeated Thailand by 10 wickets in the event.
 
-ජයග්‍රාහී ලකුණු 94ක ඉලක්කය හඹා ගිය ශ්‍රී ලංකා ක්‍රීඩිකාවන් පන්දුවා 11යි පන්දු 03ක් අවසානයේ කිසිඳු කඩුල්ලක් නොදැවී ලකුණු 94ක් ලබා සිය ජය තහවුරු කළාය.
+Thailand won the toss and elected to bat first.
+
+Accordingly, Thailand scored 93 runs for the loss of 7 wickets at the end of 20 overs.
+
+Sri Lanka won the target of 94 runs at the end of 94 runs in three balls.
 
 ◼️
 
 [Data](articles/10118915.json)
+
+[Extended Data](ext_articles/10118915.ext.json)
 
 ---
 
@@ -259,6 +291,22 @@ The court has already issued an order on the temple issue and pointed out that t
 [Data](articles/e3965c82.json)
 
 [Extended Data](ext_articles/e3965c82.ext.json)
+
+---
+
+### අල්ලස් ගත් ග්‍රාම නිලධාරී රිමාන්ඩ්
+
+*2024-07-24 18:18:35* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-ග්‍රාම-නිලධාරී-රිමාන්ඩ්/11-410972) · `si`
+
+උප්පැන්න සහතිකයේ නම වෙනස් කරදීමට සහ නිවාස සංවර්ධන අධිකාරියේ පෝරමයක් පුරවාදීමට රුපියල් 50,000ක් වටිනා මත්පැන් බෝතල් දෙකක් ඉල්ලා පසුව රුපියල් 40,000කඅල්ලසක් ලබා ගත්තේ යැයි කියමින් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ කොළඹ 15 මාදම්පිටිය ග්‍රාම නිලධාරීවරයා ලබන 06වැනිදා තෙක් රක්ෂිත බන්ධනාගාරගතකිරීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (24දා) නියම කළේය.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් කඩිනමින් විමර්ශන කර වහාම අධිකරණයට කරුණු වාර්තා කරන ලෙස අල්ලස් කොමිසමේ නිලධාරීන්ට නියම කළ මහේස්ත්‍රාත්වරයා සිද්ධිය සම්බන්ධයෙනන් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ කොළඹ 15 මාදම්පිටිය ග්‍රාම නිලධාරීවරයා වශයෙන් කටයුතු කළ ප්‍රදීප් පෙරේරා නමැත්තා රිමාන්ඩ් භාරයට පත් කළේය.
+
+සිද්ධියට අදාළව කළ විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරිපත් කළ අල්ලස් කොමිසමේ නිලධාරීන් පසුගිය 13වැනිදා අල්ලස ඉල්ලීම පිළිබඳ 14වැනිදා කොමිසමට පැමිණිලි කිරීමෙන් පසු 23වැනිදා කළ වැටලීමකදී සැකකරු අත්අඩංගුවට ගත් බව දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/053ad839.json)
 
 ---
 
@@ -866,21 +914,29 @@ As a result, gold prices in India have already decreased and gold prices are hig
 
 ---
 
-### சடலங்களை தகனம் செய்தமைக்கு முஸ்லிம்களிடம் மன்னிப்புக் கோரி தப்பிவிட முடியாது  - சஜித்
+### Muslims cannot escape apologizing for cremation - Sajith
 
 *2024-07-24 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/189270) · `ta`
 
-கொவிட் தொற்றுக்குள்ளாகி மரணித்த முஸ்லிம் சமூகத்தின் பூதவுடல்கள் தகனம் செய்யப்பட்டமைக்கு மன்னிப்பு கோருவதற்கு அரசாங்கம் எடுத்துள்ள தீர்மானத்தை வரவேட்கிறோம். அத்துடன் மன்னிப்புடன் மாத்திரம் இதில் இருந்து தப்பிக்க அரசாங்கத்துக்கு முடியாது.
+Sajith Premadasa criticizes the government for its handling of the cremation of Muslims who died from COVID-19, calling for accountability and compensation for affected families. He highlights the need to reveal those responsible and questions the lack of consultation with health experts.
 
-இதற்கு காரணமானவர்களின் பெயர்களை வெளிப்படுத்த வேண்டும் என்பதுடன் பாதிக்கப்பட்டவர்களின் குடும்பங்களுக்கு நட்டஈடு வழங்கவும் நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+🟩
 
-கொவிட் தொற்றில் மரணித்த முஸ்லிம் பிரஜைகளின் சடலங்களை தகனம் செய்தமைக்கு மன்னிப்பு கோருவதற்கு அரசாங்கம் அமைச்சரவை தீர்மானம் எடுத்திருப்பதை வரவேட்கிறேன். கோத்தாபய ராஜபக்ஷ் அரசாங்கத்தில் முஸ்லிம் மக்களின் மத கலாசாரத்தை சீரழித்து, இனவாத அடிப்படையில் முஸ்லிம் மக்களை இலக்குவைத்தே இந்த தீர்மானத்தை அன்று அமைச்சரவையில் இந்த தீர்மானத்தை எடுத்தனர்.
+We welcome the government's decision to apologize for the cremation of the Muslim community who died infected and killed. The government cannot only escape from this.
 
-இதற்கு தற்போது அமைச்சரவையில் இருக்கும் சிலர் ஆதரவளித்தனர். என்றாலும் இந்த நடவடிக்கையை விட்டு விடுவதற்காக தற்போதாவது இடம்பெற்ற சம்பவத்துக்காக மனிப்புகோர எடுத்த தீர்மானத்தை மதிக்கிறேன்.
+Opposition Leader Sajith Premadasa said that the names of those responsible should be revealed and action should be taken to compensate the families of the victims.
+
+I welcome the government's decision to apologize for the cremation of the bodies of Muslim citizens who died in a kovit infection. In the Gotabhaya Rajapakse government, the decision was taken in the Cabinet on the same way that the Muslim people were targeted by the Muslim people on the basis of communalism.
+
+Some people in the Cabinet now supported this. However, I respect the decision taken for the present incident to leave this move.
+
+At the same time, this erroneous decision was made in whose report was to burn the dead in the Kovit infection?Who gave it the Alasis.
 
 ...
 
 [Data](articles/4b2fd136.json)
+
+[Extended Data](ext_articles/4b2fd136.ext.json)
 
 ---
 
@@ -906,21 +962,33 @@ The Muslim MPs who defended the 20th Amendment at the time and defended the stat
 
 ---
 
-### ஜனாதிபதி தேர்தல் கட்டுப்பணத்தை  30 இலட்சமாக அதிகரிக்க  வேண்டும் : டலஸ் அழகப்பெரும
+### The presidential election control should be increased to 30 lakhs:
 
 *2024-07-24 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189268) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை திருத்தம் செய்ய வேண்டும்.இதற்கமைய அங்கீகரிக்கப்பட்ட அரசியல் கட்சியின் வேட்பாளரின் கட்டுப்பணத்தை 25 இலட்சமாகவும்,சுயாதீன வேட்பாளரின் கட்டுப்பணத்தை 30 இலட்சமாகவும் திருத்தம் செய்ய வேண்டும். அப்போது தான் போட்டியிடும் வேட்பாளர்களின் எண்ணிக்கை வரையறுக்கப்படும் என எதிரணியின் சுயாதீன உறுப்பினர் டலஸ் அழகப்பெரும சபையில் வலியுறுத்தினார்.
+Opposition member Dullas Alahapperuma calls for increasing the presidential election control to 30 lakhs, citing a need to define the number of candidates. This follows the Elections Commission's request to amend the control, which currently stands at 50 thousand rupees for party candidates and 75 thousand for independents under the Election Act No. 15, 1981. The commission urges raising the limit to 25 lakhs for both types of candidates. The 2019 election saw 35 candidates, with controls nationalized for all but the top two. The proposed 22nd Amendment to the Political Ceylon Constitution faces delays.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தை திருத்தம் செய்யுமாறு தேர்தல்கள் ஆணைக்குழு முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷவிடம் கோரிக்கை விடுத்தது.இந்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The control of the presidential election must be amended.. The opposition's independent member Dullas Alahapperuma urged the council that the number of candidates contesting would be defined.
 
-1981 ஆம் ஆண்டு 15 ஆம் இலக்க தேர்தல் சட்டத்துக்கு அமைய  அங்கீகரிக்கப்பட்ட அரசியல் கட்சி வேட்பாளரிடமிருந்து 50 ஆயிரம் ரூபா கட்டுப்பணமும்,சுயாதீன வேட்பாளரிடமிருந்து 75 ஆயிரம் ரூபாவும் கட்டுப்பணமும்  அறவிடப்படுகிறது.
+He was speaking at a special statement during a session held in Parliament on Wednesday (24).
+
+The Elections Commission has asked former President Gotabhaya Rajapakse to amend the control of the presidential election.
+
+50 thousand rupees from the authorized political party candidate, according to the Election Act No. 15, 1981, and 75 thousand rupees from the independent candidate.
+
+The Elections Commission urged the amendment of the control of the recognized political party candidate by 25 lakhs and the independent candidate's control.
+
+35 candidates contested the 2019 presidential election. The control of the candidates other than the two candidates was nationalized.
+
+The 22nd Amendment of the Political Ceylon has been urgently introduced.
 
 ...
 
 [Data](articles/a03423de.json)
+
+[Extended Data](ext_articles/a03423de.ext.json)
 
 ---
 
@@ -2307,55 +2375,5 @@ Subsequently, the lawyer has appointed two of his junior lawyers to appoint a hu
 [Data](articles/5041cd51.json)
 
 [Extended Data](ext_articles/5041cd51.ext.json)
-
----
-
-### Fuel at District Secretariat
-
-*2024-07-24 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199152) · `si`
-
-A fire broke out at the Kalutara District Secretariat, starting from the ground floor. It was caused by an electrical leak and is being controlled by the Kalutara Municipal Council. Two firefighters have been hospitalized, one for shortness of breath.
-
-🟩
-
-The Kalutara South Police say a fire has erupted at the Kalutara District Secretariat.
-
-The fire has taken place from the ground floor network of the six storied building.
-
-It is reported that the fire is being managed by two landslides in the Kalutara Municipal Council.
-
-Our correspondent said that how to remove the officers and employees of the building were also found.
-
-The fire has been confirmed that the fire has been caused by an electrical leak and has been able to manage the fire of the Kalutara Municipal Council.
-
-A fireman who went to control the fire has been hospitalized due to shortness of breath.
-
-◼️
-
-[Data](articles/59920afc.json)
-
-[Extended Data](ext_articles/59920afc.ext.json)
-
----
-
-### Minister sounds warning to egg producers over prices
-
-*2024-07-24 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100740/minister-sounds-warning-to-egg-producers-over-prices) · `en`
-
-Minister of Trade Nalin Fernando has stated that it is possible to reduce the retail price of an egg to Rs. 40.
-
-He warned that if egg producers fail to reduce prices for the festive season, the government will once again resort to importing eggs from India.
-
-The minister further stated that the egg prices have suddenly dropped by Rs. 6 and that he will thoroughly look into this by obtaining reports from the Consumer Affairs Authority (CAA).
-
-He expressed concerns stating that if an egg cannot be sold for at least Rs. 40, they would have to import eggs from India. He pointed out that during the festival season in December, cake manufacturers will also be purchasing a large quantity of eggs.
-
-Therefore, he emphasized that if the egg prices are not reduced by then, the government will have to import eggs or ensure customer protection by providing eggs at the correct price.
-
-◼️
-
-[Data](articles/c2f843c0.json)
-
-[Extended Data](ext_articles/c2f843c0.ext.json)
 
 ---

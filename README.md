@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-24 21:06:25**
+As of **2024-07-24 21:20:26**
 
 ## Newspaper Stats
 
-*Scraped **37,045** Articles*
+*Scraped **37,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 2,107
 economynextcom | 2,220
 dailyftlk | 2,358
-adalk | 3,360
+adalk | 3,364
 adaderanalk | 4,289
 tamilmirrorlk | 4,551
 dailymirrorlk | 4,733
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,044 (100.0%) of 37,045 articles have been extended.
+37,045 (100.0%) of 37,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-24 (Wednesday)
 
-### චමීර වෙනුවට අසිත
+### Asy instead of Chameera
 
 *2024-07-24 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199173) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ ඉන්දිය කණ්ඩායම සම﻿ග පැවැත්වෙන විස්සයි විස්ස ක්‍රිකට් තරගාවලිය ජුලි මස 27 වනදා ඇරඹෙයි.
+Due to an issue, Asitha Fernando is replacing Chamara in the Sri Lanka vs India match scheduled for July 27th.
 
-ඒ අනුව ආබාධ තත්ත්වයක් හේතුවෙන් සංචිතයෙන් ඉවත් කෙරුණු දුෂ්මන්ත චමීර වෙනුවට අසිත ප්‍රනාන්දු සංචිතයට කැඳවා තිබේ.
+🟩
+
+The Sri Lankan team and the Indian team will take place on the 27th July.
+
+Accordingly, the Asitha Fernando Reserve has been called on the reserve due to a disorder.
 
 ◼️
 
 [Data](articles/6717b6fa.json)
+
+[Extended Data](ext_articles/6717b6fa.ext.json)
 
 ---
 
@@ -103,6 +109,36 @@ Accordingly, this special monthly allowance is due until September 2024 until th
 [Data](articles/a2aa1b73.json)
 
 [Extended Data](ext_articles/a2aa1b73.ext.json)
+
+---
+
+### පොලිස්පති ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීරණය ගැන අමාත්‍ය මණ්ඩලයෙන් මතයක්
+
+*2024-07-24 20:03:45* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ගැන-ශ්‍රේෂ්ඨාධිකරණයේ-තීරණය-ගැන-අමාත්‍ය-මණ්ඩලයෙන්-මතයක්/11-410980) · `si`
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය ලබා දුන් තීන්දුවේ නීතිමය තත්ත්වය  පිළිබඳව තවදුරටත්  ගැඹුරින් අධ්‍යයනය කර ඉදිරි දින දෙක තුළදී තම මතය ප්‍රකාශ කිරීමට අමාත්‍ය මණ්ඩලය තීරණය කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කොළඹ ජනාධිපති ලේකම් කාර්යාලයේදී මෙම විශේෂ අමාත්‍ය මණ්ඩල රැස්වීම අද (24දා) සවස පැවැත්විණ.
+
+◼️
+
+[Data](articles/14f29f8f.json)
+
+---
+
+### වතු කම්කරු වැටුප වැඩි කළ ගැසට්ටුව ආපසු හරවයි
+
+*2024-07-24 19:43:25* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප-වැඩි-කළ-ගැසට්ටුව-ආපසු-හරවයි/11-410977) · `si`
+
+තේ සහ රබර් වතුකම්කරුවන්ගේ දෛනික අවම වැටුප 1,700ක් බව සඳහන් කරමින් නිකුත් කළ ගැසට් නිවේදනය අවලංගු කර තිබේ.
+
+වතු කම්කරුවන්ගේ දෛනික අවම වැටුප 1,700ක්  දක්වා ඉහළ නැංවීම පිළිබද සඳහන් කරමින් ගැසට් නිවේදනයක් පසුගියදා නිකුත් කෙරිණ. එම ගැසට් නිවේදනය කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේ ලේකම්වරයාගේ අත්සනින් යුතුව නිකුත් කර අැත.
+
+ඒ අනුව රු 1,700ක වතු කම්කරු දෛනික වැටුප් වැඩිවීම පඩිපාලක සභාව හරහා ගෙවීමට උපදෙස් ලබාදී ඇතැයි කම්කරු අමාත්‍යාංශය නිවේදනය කළේය. එ​සේ නමුත් අද දිනයේදී එම ගැසට් නිවේදනය අවලංගු කළ බව රජය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/6c9a169b.json)
 
 ---
 
@@ -273,6 +309,44 @@ A bond maturing on 15.09.2029 closed at 12.02/12 percent, down from 12.05/15 per
 [Data](articles/141a4602.json)
 
 [Extended Data](ext_articles/141a4602.ext.json)
+
+---
+
+### සම්මුඛ පරීක්ෂණයට ගිය තරුණයා දුම්රියේ ගැටී මරුට
+
+*2024-07-24 18:06:41* · [`adalk`](https://www.ada.lk/breaking_news/සම්මුඛ-පරීක්ෂණයට-ගිය-තරුණයා-දුම්රියේ-ගැටී-මරුට/11-410971) · `si`
+
+සම්මුඛ පරීක්ෂණයකට සහභාගි වීම සදහා පියා විසින් පානදුර නගරයට ඇරලවා ගිය තරුණයකු දුම්රියක ගැටී මියගොස් ඇති බව පානදුර දකුණ පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ පානදුර එළුවිල ප්‍රදේශයේ පදිංචිව සිටී ඩබ්ලිව්. කවිදු හසරැල්  නැමැති 22 හැවිරිදි තරුණයෙකු බව පොලිසිය කීය.
+
+මියගොස් ඇති තරුණයා සම්මුඛ පරීක්ෂණයකට සහභාගිවීමට යැයි පවසා නිවසින් පැමිණ සිට ඇති අතර පානදුර සිට මරදාන බලා ධාවනය වන දුම්රියේ ගැටී ඇති බව සදහන් වේ.
+
+මෘතදේහය පශ්චාත් මරණ පරීක්ෂණය සදහා පානදුර මූලික රෝහලට රැගෙන ගොස් තිබේ.
+
+පානදුර මූලස්ථාන පොලිස් පරීක්ෂක (වැබ) ඩබ්ලිව්.ජී. විජේතුංග මහතා ගේ උපදෙස් පරිදි සැරයන් සුනිල් ශාන්ත (65986) පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/d9d2481a.json)
+
+---
+
+### නව විද්‍යුත් වීසා ක්‍රමවේදයට එරෙහිව අමාත්‍යවරුන් කිහිපදෙනෙක් අධිකරණයට
+
+*2024-07-24 17:53:58* · [`adalk`](https://www.ada.lk/breaking_news/නව-විද්‍යුත්-වීසා-ක්‍රමවේදයට-එරෙහිව-අමාත්‍යවරුන්-කිහිපදෙනෙක්-අධිකරණයට/11-410970) · `si`
+
+ගුවන්තොටුපොල ආශ්‍රිතව පිහිටුවීමට නියමිත විද්‍යුත් වීසා ක්‍රමවේදය මගින්  රටේ වැදගත් ආරක්ෂක තොරතුරු ලෝකයට විවෘත වීමේ අවදානමක් ඇති බව සඳහන් කරමින් ශ්‍රේෂ්ඨාධිකරණයේ මූලික අයිතිවාසිකම් පෙත්සම් ගොනු කළ හිටපු අමාත්‍යවරුන් පිරිසක් එම ක්‍රමවේදය අවලංගු කරන නියෝගයක් නිකුත් කරන්නැයි ශ්‍රේෂ්ඨාධිකරණයෙන් ඉල්ලා සිටිති.
+
+හිටපු අමාත්‍යවරුන් වන පාටලී චම්පික රණවක, රාහුෆ් හකීම් සහ පාර්ලිමේන්තු මන්ත්‍රී එම්.ඒ. සුමන්දිරන් යන මහත්වරු ගොනු කළ මෙම මූලික අයිතිවාසිකම් පෙත්සම් වල වගඋත්තකරුවන් වශයෙන් නීතිපතිවරයා නම් කර ඇත.
+
+ගුවන්තොටුපොල ආශ්‍රිතව විද්‍යුත් වීසා ක්‍රමවේදයක් පිහිටුවීමට නියමිත බවත් එම විද්‍යුත් වීසා ක්‍රමවේද හේතුවෙන් රටේ වැදගත් ආරක්ෂක තොරතුරුු ලෝකයට හෙළිවීමේ අවකාශ ඇති බවත් පෙන්වා දෙනන පෙත්සම්කරුවෝ එමඟින් රටේ ආරක්ෂාවට තර්ජනයක් එල්ල විය හැකි බවද පවසති.
+
+මේ තත්වයහේතූවෙන් ජනතාවට දිරියේදී අහිතකර ප්‍රතිඵල වලට මුහුණ දීමට සිදුවිය හැකියැයි පවසන පෙත්සම්කරුවෝ අදාළ ක්‍රමවේදය අවලංගූ කරන නියෝගයක් නිකුත් කරන්නැයයි ඉල්ලා සිටිති.
+
+◼️
+
+[Data](articles/e9e52de5.json)
 
 ---
 
@@ -2275,95 +2349,5 @@ Other countries in the world who have faced severe economic crises have not made
 [Data](articles/0a20bb2d.json)
 
 [Extended Data](ext_articles/0a20bb2d.ext.json)
-
----
-
-### Tells 1992 about the damage caused to animals
-
-*2024-07-24 10:40:15* · [`adalk`](https://www.ada.lk/breaking_news/සතුන්ට-සිදුවන-හානි--ගැන-1992ට-කියන්න/11-410960) · `si`
-
-In 1992, concerns were raised about animal injuries from oppressive hazards like hakkapus bones, wire, and wildlife attacks. Authorities urged quick treatment for injured animals and launched programs to mitigate damage to wildlife and resources. The public, particularly Kandyan Estate Officers, were asked to be vigilant and report incidents promptly.
-
-🟩
-
-Steps to report on other oppressive hazards, hakkapus bones, hakkaputabs, hakkaps and wire, such as mountain tigers, hakkapus caps, hakkapus peeks, and wire cords and other oppressive damage to wildlife wire.Wildlife officials are requested to take the people.
-
-They claim to treat the animals expeditiously to treat the animals quickly, as a result of an informed of a forestry or aquatic.
-
-The Wildlife Officers say that the reports of disposal of animals and loss of people who have been treated with unauthorized electricity using electricity.
-
-Highly programs implemented on the instructions of the Director General of Wildlife General to reduce the damage to the Kandyan estate and the damage to wildlife resources of wildlife and damaged animals.The people and especially the Kandyan Estate Officers are requested to take immediate awareness to an office.
-
-◼️
-
-[Data](articles/b8bd8056.json)
-
-[Extended Data](ext_articles/b8bd8056.ext.json)
-
----
-
-### One person in an accident Bali, trio injured
-
-*2024-07-24 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஒருவர்-பாலி-மூவர்-காயம்/175-340939) · `ta`
-
-A fatal motorcycle crash occurred in Bali, involving a navy-owned vehicle, resulting in one death and three injuries. The victims hailed from the Hambantota Manjjawa area, all treated at the Hambantota District Hospital.
-
-🟩
-
-Hambantota - One person was killed when a motorcycle and a navy -owned keb vehicle collided head -on.
-
-Three more injured in the accident and admitted to the Hambantota District Hospital, Hambantota police said.
-
-In addition, the victims and the injured were from the Hambantota Manjjawa area, police said.
-
-◼️
-
-[Data](articles/c4e029da.json)
-
-[Extended Data](ext_articles/c4e029da.ext.json)
-
----
-
-### One killed in accident, trio injured
-
-*2024-07-24 10:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஒருவர்-பலி-மூவர்-காயம்/175-340939) · `ta`
-
-A fatal crash occurred in Hambantota between a motorcycle and a navy-owned vehicle, resulting in one death and three injuries. All involved were locals from the Hambantota Manjjawa area, treated at the Hambantota District Hospital.
-
-🟩
-
-Hambantota - One person was killed when a motorcycle and a navy -owned keb vehicle collided head -on.
-
-Three more injured in the accident and admitted to the Hambantota District Hospital, Hambantota police said.
-
-In addition, the victims and the injured were from the Hambantota Manjjawa area, police said.
-
-◼️
-
-[Data](articles/dcb5297b.json)
-
-[Extended Data](ext_articles/dcb5297b.ext.json)
-
----
-
-### G.B.. GCE Ordinary Level Examination In September!
-
-*2024-07-24 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189231) · `ta`
-
-The GCE Ordinary Level Examination for 2023 will be out in September, as the exams concluded last week, allowing time for grading. For 2024, it's scheduled for January and February.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the GCE Ordinary Level Examination for 2023 will be released in September.
-
-In the last week of the last week, the exams have been completed. The answer sheets have also been completed. In this case, the results can be released by September, he said.
-
-The Minister also stated that arrangements have been made to conduct the GCE Ordinary Level Examination for 2024 by January and February next year.
-
-◼️
-
-[Data](articles/f3ac5438.json)
-
-[Extended Data](ext_articles/f3ac5438.ext.json)
 
 ---

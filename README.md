@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 03:05:50**
+As of **2024-07-26 03:20:35**
 
 ## Newspaper Stats
 
-*Scraped **37,296** Articles*
+*Scraped **37,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,120
 economynextcom | 2,238
-dailyftlk | 2,385
+dailyftlk | 2,386
 adalk | 3,393
 adaderanalk | 4,313
 tamilmirrorlk | 4,592
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,286 (100.0%) of 37,296 articles have been extended.
+37,294 (100.0%) of 37,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Fitch says lower generation costs support CEB’s tariff cut; no risk to IPP payments
+
+*2024-07-26 03:03:44* · [`dailyftlk`](https://www.ft.lk/opinion/Fitch-says-lower-generation-costs-support-CEB-s-tariff-cut-no-risk-to-IPP-payments/14-764780) · `en`
+
+Fitch Ratings said yesterday Ceylon Electricity Board’s (CEB, BB+(lka)/Stable) cash flow will stay adequate to service debt despite a 22.5% tariff cut from 16 July 2024.
+
+Fitch does not expect the latest cut to affect the Sri Lankan electricity distributor’s payments to independent power producers (IPPs). Lower tariffs are supported by falling generation costs from CEB’s higher mix of hydropower and lower coal prices YoY. Financing costs will also fall amid lower market interest rates, Fitch said.
+
+The Public Utilities Commission of Sri Lanka’s instruction on the 22.5% average tariff cut, made during the regulator’s quarterly tariff review, was larger than the 10% proposed by CEB. However, generation costs have fallen in tandem with the rise in hydropower to 31% of the generation mix in 1H24 (1H23: 23%), while prices of coal, which fuels over 36% of the country’s generation mix, have dropped 32% YoY. Fitch expects thermal coal prices to fall 20% and 10% in 2024 and 2025, respectively.
+
+...
+
+[Data](articles/72e44411.json)
+
+---
 
 ### Overseas Realty records Rs. 3.5 b Profit Before Tax in 1H
 
@@ -45,6 +61,8 @@ The Company Revenue of Rs. 1,340 million at the World Trade Center, Colombo, was
 ...
 
 [Data](articles/73e733b3.json)
+
+[Extended Data](ext_articles/73e733b3.ext.json)
 
 ---
 
@@ -64,6 +82,8 @@ He served as a Partner at KPMG Sri Lanka and Maldives for 33 years. During this 
 
 [Data](articles/5fb2a63b.json)
 
+[Extended Data](ext_articles/5fb2a63b.ext.json)
+
 ---
 
 ### President gets Ministerial Sub-Committee’s report on effective RAMIS system utilisation
@@ -81,6 +101,8 @@ The report, prepared with seven main recommendations, underscores the importance
 ...
 
 [Data](articles/5d8f13a3.json)
+
+[Extended Data](ext_articles/5d8f13a3.ext.json)
 
 ---
 
@@ -100,6 +122,8 @@ The NEDA delegation led by President Perames Vudthitornetiraks and including Dir
 
 [Data](articles/62db6c53.json)
 
+[Extended Data](ext_articles/62db6c53.ext.json)
+
 ---
 
 ### CH17 Loyalty and Quickee.com team up to redefine convenience and rewards
@@ -116,6 +140,8 @@ CH17 Loyalty CEO Jumar Preena said: “By joining forces, we will nearly double 
 
 [Data](articles/db1a5d8a.json)
 
+[Extended Data](ext_articles/db1a5d8a.ext.json)
+
 ---
 
 ### Hela and Authentic Brands Group announce outerwear partnership for Reebok
@@ -131,6 +157,8 @@ Through the partnership, Focus Brands will design, manufacture and distribute Re
 ...
 
 [Data](articles/fd2849ff.json)
+
+[Extended Data](ext_articles/fd2849ff.ext.json)
 
 ---
 
@@ -151,6 +179,8 @@ Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has accused President Rani
 ...
 
 [Data](articles/e3a83153.json)
+
+[Extended Data](ext_articles/e3a83153.ext.json)
 
 ---
 
@@ -173,6 +203,8 @@ He questioned how the decision was made if officials had not based their recomme
 ...
 
 [Data](articles/edf1e2d7.json)
+
+[Extended Data](ext_articles/edf1e2d7.ext.json)
 
 ---
 
@@ -2291,27 +2323,5 @@ The Indian team is currently in Sri Lanka to attend three ODIs and 20 ODIs.
 [Data](articles/69faef03.json)
 
 [Extended Data](ext_articles/69faef03.ext.json)
-
----
-
-### Bideen reveals why the President's candidate
-
-*2024-07-25 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199194) · `si`
-
-Joe Biden dismissed UMCatic candidates due to pressure from Democratic Party leaders like Nancy Pelosi, aiming to maintain party unity and uphold democratic values.
-
-🟩
-
-The US President Joe Biden had taken steps to dismiss the UMCatric parties in the US presidential election.
-
-It is no secret that the pressure was made by the Prime Minister of Democratic Party, including former Speaker Nancy Poulties, which had to leave the candidate.
-
-However, President Biden says he has left the candidate and respecting the unity of the party and the democracy of the country.
-
-◼️
-
-[Data](articles/fd633d64.json)
-
-[Extended Data](ext_articles/fd633d64.ext.json)
 
 ---

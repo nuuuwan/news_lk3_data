@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 15:36:03**
+As of **2024-07-25 15:54:45**
 
 ## Newspaper Stats
 
-*Scraped **37,201** Articles*
+*Scraped **37,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 4,304
 tamilmirrorlk | 4,584
 dailymirrorlk | 4,733
 virakesarilk | 5,838
-adaderanasinhalalk | 6,242
+adaderanasinhalalk | 6,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,201 (100.0%) of 37,201 articles have been extended.
+37,201 (100.0%) of 37,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### හැටන් - කොළඹ ප්‍රධාන මාර්ගයේ යන රියදුරන්ට දැනුම්දීමක්
+
+*2024-07-25 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199200) · `si`
+
+කබුළුමුල්ල රජමහා පත්තිණි දේවාලයේ වාර්ෂික ඇසළ පෙරහැර හේතුවෙන් හැටන් - කොළඹ ප්‍රධාන මාර්ගය රථවාහන ගමනාගමනය සීමා කිරීමට සිදුවන බව පොලීසිය දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/8959f5ec.json)
+
+---
 
 ### A survey reveals about life after the economic crisis
 
@@ -2255,23 +2267,5 @@ The Sinhala South and its leaders cannot for a moment leave all responsibility w
 [Data](articles/da9131b1.json)
 
 [Extended Data](ext_articles/da9131b1.ext.json)
-
----
-
-### 41 years to Black July: Our voices towards meaningful reconciliation
-
-*2024-07-25 03:35:37* · [`dailyftlk`](https://www.ft.lk/columns/41-years-to-Black-July-Our-voices-towards-meaningful-reconciliation/4-764707) · `en`
-
-Successive regimes unsuccessfully tried to bury what happened during the war – Pic by Shehan Gunasekara
-
-A reconciled society respects and champions the rights of all citizens. Identifying issues that need to be addressed when working towards reconciliation becomes crucial. Achieving a just, equitable society requires equal life opportunities for all, regardless of anyone’s background.Effective reconciliation demands enlightened leaders addressing past crimes and rights violations. It transcends political classes, requiring genuine commitment
-
-In Sri Lanka, fear is pervasive. Suppression of media and fundamental rights of people and repression of human rights defenders foster a climate of fear, silencing victims, and inhibiting reconciliation. Political and criminal interests threaten the justice system, putting lives at risk for exposing the truth.
-
-...
-
-[Data](articles/e1c7448f.json)
-
-[Extended Data](ext_articles/e1c7448f.ext.json)
 
 ---

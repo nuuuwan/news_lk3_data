@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 19:35:51**
+As of **2024-07-25 19:54:00**
 
 ## Newspaper Stats
 
@@ -26,59 +26,85 @@ adaderanasinhalalk | 6,250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,231 (100.0%) of 37,234 articles have been extended.
+37,234 (100.0%) of 37,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ජනාධිපතිවරණය පැවැත්වීමේ ගැසට්ටුව හෙට එයි
+### The gazette of presidential election is tomorrow
 
 *2024-07-25 19:11:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-පැවැත්වීමේ-ගැසට්ටුව-හෙට-එයි/11-411004) · `si`
 
-1981 අංක 15 දරන ජනාධිපතිවරයා තෝරාපත්කර ගැනීම පිළිබඳ පනතේ නෛතික විධි විධාන අනුව ජනාධිපතිවරයා තෝරාගැනීම    සඳහා නියමය පලකරන දිනය,නාම යෝජනා භාර ගැනීමේ දිනය හා ස්ථානය සහ චන්ද විමසීමේ දිනය පිළිබඳව දැනුම්දීමේ අති විශේෂ ගැසට් නිවේදනය හෙට( 26) දින ප්‍රකාශයට පත් කිරීමට මැතිවරණ කොමිෂන් සභාව තීරණය කරයි.
+Tomorrow, the Elections Commission will publish the Presidential Gazette Notification, detailing the legal method for parliamentary elections as per Act No. 15 of 1981. This decision was made by the Chairman of the Elections Commission, who also clarified that the commission bears no responsibility for statements made by individuals or parties regarding President Chandu's views.
 
-අද (25)රැස්වූ මැතිවරණ කොමිෂන් සභාව මෙම  තීරණය ගත් බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්.රත්නායක මහතා විසින් මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+🟩
 
-එමෙන්ම ජනාධිපති චන්ද විමසීම පැවැත්වෙන දිනය හා සෙසු ව්‍යවසථාපිත  කාර්යන් පිළිබඳව විවිධ පුද්ගලයන් හා පාර්ශව විසින් ඉදිරිපත් කරනු ලබන ප්‍රකාශ පිළිබඳව මැතිවරණ කොමිෂන් සභාවේ කිසිදු වගකීමක් නොමැති බව එම මාධ්‍ය නිවේදනයේ සඳහන්වේ.
+The Elections Commission decides tomorrow (26) to publish the Presidential Gazette Notification on the Legal Method of the Parliament Act No. 15 of 1981..
+
+The Elections Commission Chairman, the Chairman of the Elections Commission (Elections) has made this decision today.
+
+The press release states that there is no responsibility regarding the statements submitted by various individuals and parties on the date of view of President Chandu.
 
 ◼️
 
 [Data](articles/7dd1e029.json)
 
+[Extended Data](ext_articles/7dd1e029.ext.json)
+
 ---
 
-### බාල බෙහෙත් සිදුවීමේ විශේෂඥ වෛද්‍ය කපිල වික්‍රමනායකට ඇප
+### Dr. Kapila Wickremanayake released on bail in substandard medicine
 
 *2024-07-25 18:43:47* · [`adalk`](https://www.ada.lk/breaking_news/බාල-බෙහෙත්-සිදුවීමේ-විශේෂඥ-වෛද්‍ය-කපිල-වික්‍රමනායකට-ඇප/11-411001) · `si`
 
-බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් මාස 08ක පමණ කාලයක් පුරා රිමාන්ඩ් බාරයේ රඳවා සිටි වෛද්‍ය සැපයුම් අංශයේ හිටපු අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය කපිල වික්‍රමනායක මහතා කොන්දේසි සහිත ඇප මත මුදා හැරීමට මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනි අබේවික්‍රම වීරසිංහ මහත්මියට අද (25) නියම කළාය.
+Dr. Kapila Wickremanayake, implicated in a substandard medicine scandal, was released on bail by Maligawila Magistrate Loku Abeywickrama Weerasinghe. Former Health Minister Keheliya Rambukwella and six others were remanded. The Court of Appeal rejected Dr. Wickremanayake's bail application related to substandard injections. Despite the inability to remand him abroad, he remains under investigation without bail hindering the probe. The case involves investigating documents related to vaccine distribution and the use of 'Emyoglobin' and 'Emimunulabin'. President's Counsel Romesh de Silva and Sarath Jayamanayake represented Dr. Wickremanayake, while the Deputy Solicitor General appeared for the prosecution.
 
-රුපියල් ලක්‍ෂ 50ත් වටිනා ඇපකරුවකුගේ ශරීර ඇපයක් මත කපිල වික්‍රමනායක මහතා මුදාහැරීමටද ඇප තැබීමෙන් අනතුරුව අධිකරණයේ අවසරයකින් තොරව විදේශ ගතවීම තහනම් කළ මහේස්ත්‍රාත්වරිය හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 06 දෙනෙකු ලබන 08 වැනිදා දක්වා රිමාන්ඩ් බාරයට පත් කළාය.
+🟩
 
-තමා රිමාන්ඩ් බාරයටපත් කරමින් මාලිගාකන්ද මහේස්ත්‍රාත්වරිය දුන් නියෝගය ප්‍රතිශෝධනය කරමින් තමාට ඇප නියම කරන්නැයි ඉල්ලා වෛද්‍ය කපිල වික්‍රමනායක මහතා අභියාචනාධිකරණයට ඉදිරිපත් කළ රිට් පෙත්සමක් පිළිගනිමින් අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා දුන් නියෝගයකට අනුව වික්‍රමනායක මහතා මුදාහැරීමට මහේස්ත්‍රාත්වරිය නියම කළාය.
+Maligawila Magistrate Loku Abeywickrama Weerasinghe has appointed Mr. Luchen Abeyewickrama Weerasinghe today (25) to release the conduct of the subordinated drug racket.
+
+Former Health Minister Keheliya Rambukwella and six suspects were remanded until the 8th of this month.
+
+Dr. Kapila Wickramanayaka release Mr. Wickramanayaka release Mr. Wickramanayaka's release of a Rit petition filed by Hon.
+
+Court of Appeal Judge Nissanka Bandula Karunaratne has agreed to the rejection of his bail in connection with substandard humin emman emman emman emnugoulain injections.Mr. Mahendran was declared in the Open Court.
+
+The event was not able to be abroad and had not been able to be remanded against him, he had failed to be released on bail and the respondents had to be released on bail.It is said that the bail order is not a hindrance to investigate.
 
 ...
 
 [Data](articles/0043af4b.json)
 
+[Extended Data](ext_articles/0043af4b.ext.json)
+
 ---
 
-### ஜீவன் அதிரடி அறிவிப்பு
+### Jeevan Action Notification
 
 *2024-07-25 18:27:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவன்-அதிரடி-அறிவிப்பு/76-341030) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும், அமைச்சருமான ஜீவன் தொண்டமான் விசேட அறிக்கையொன்றை ​வியாழக்கிழமை (25) மாலை விடுத்துள்ளார்.
+Jeevan Thondaman, Minister and General Secretary of the Ceylon Workers Congress, issued a statement dismissing three leaders protesting against tea land cultivation in the Nanuoya Udarathalla estate. He urged workers to end their strike against a plantation company, emphasizing the impact on their careers and livelihoods. The Nuwara Eliya District Magistrate's Court ordered the suspects to appear, and Thondaman thanked protesters, promising legal action against the company.
 
-பெருந்தோட்ட கம்பனி ஒன்றின் கீழ் இயங்கும் நானுஓயா உடரதல்ல தோட்டத்தில் கடந்த மே மாதம் தேயிலை காணியில் கோப்பி பயிரிடப்பட்டதை எதிர்த்து தோட்ட முகாமையாளரிடம் வாக்குவாதத்தில் ஈடுபட்ட மூன்று தலைவர்களையும் தோட்ட நிர்வாகம் பதவி நீக்கம் செய்தது.
+🟩
 
-இவ்விடயம் எனது கவனத்திற்கு கொண்டுவரப்பட்டதையடுத்து உடனடியாக நான் களத்திற்கு சென்று நடவடிக்கைகளை மேற்கொண்டதனால் குறிப்பிட்ட தோட்ட முகாமையாளரினால் எனக்கெதிராக வழக்கு தொடரப்பட்டதன் காரணமாக சந்தேக நபர்களை நீதி மன்றத்தில் ஆஜராகுமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றத்தினால் அறிவிக்கப்பட்டுள்ளது.
+Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, issued a special report on Thursday evening.
 
-மேலும், இச்சம்பவம் தொடர்பாக கேள்வியுற்று அனைத்து பொது மக்கள் சார்பாகவும் குறிப்பிட்ட பெருந்தோட்டக் கம்பனிக்கு எதிராக தொடர்ச்சியாக அடையாள வேலை நிறுத்தத்தினை மேற்கொண்டு வருகின்றீர்கள்.
+The plantation administration dismissed three leaders who were arguing with the estate manager in protest of the cultivation of tea land in the Nanuoya Udarathalla estate under a plantation company.
 
-...
+The Nuwara Eliya District Magistrate's Court has announced that the suspects should appear before the court as I went to my notice and immediately went to the field.
+
+In addition, you are continuously on strike against the particular plantation company on behalf of all the public and on behalf of the public.
+
+I urge all to abandon the struggles and go to work from tomorrow (26.07.2024) as their career and livelihood is affected by the strike.
+
+I would like to express my gratitude to all those who have been protesting so far and we will take legal action in the future against the activities of the plantation company that manages the body.
+
+◼️
 
 [Data](articles/824fdac3.json)
+
+[Extended Data](ext_articles/824fdac3.ext.json)
 
 ---
 

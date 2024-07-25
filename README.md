@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 11:56:03**
+As of **2024-07-25 12:09:14**
 
 ## Newspaper Stats
 
-*Scraped **37,158** Articles*
+*Scraped **37,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,372
 adalk | 3,371
-adaderanalk | 4,299
-tamilmirrorlk | 4,579
+adaderanalk | 4,300
+tamilmirrorlk | 4,582
 dailymirrorlk | 4,733
 virakesarilk | 5,824
-adaderanasinhalalk | 6,236
+adaderanasinhalalk | 6,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,158 (100.0%) of 37,158 articles have been extended.
+37,158 (100.0%) of 37,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### Former Director of Medical Supplies Division granted bail
+
+*2024-07-25 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100764/former-director-of-medical-supplies-division-granted-bail) · `en`
+
+The Court of Appeal has ordered the Maligakanda Magistrate’s Court to release on bail the former Director of the Health Ministry’s Medical Supplies Division, Dr. Kapila Wickramanayake, who was in remand custody over the alleged import of ‘substandard’ human intravenous immunoglobulin (IVIG) vials.
+
+The Court of Appeal had issued the order to the Maligakanda Magistrate’s Court to release Dr. Wickramanayake under suitable bail conditions, after considering a writ petition filed by his attorneys.
+
+Wickramanayake was held in remand custody over the alleged substandard immunoglobulin imports case. He had filed the petition through his lawyers, seeking an order that the Maligakanda Magistrate’s Court’s decision to remand him to be declared unlawful and therefore, to release him on bail.
+
+...
+
+[Data](articles/c8a17292.json)
+
+---
+
+### බිහිසුණු අනතුරකින් පසු ජීවිත බේරගන්න දැඩි උත්සාහයක්
+
+*2024-07-25 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199193) · `si`
+
+මොනරාගල සියඹලාණ්ඩුව ප්‍රධාන මාර්ගයේ දොඹගහවෙල පොලිස් බල ප්‍රදේශයට අයත් දොඹගහවෙල ඉන්ධන පිරවුම්හල ආසන්නයේ දී සිදුවු බිහිසුණු අනතුරකින් පුද්ගලයින් දෙදෙනෙක් තුවාල ලබා තිබේ.
+
+බොලෙරෝ වර්ගයේ කැබ් රථයක් සහ යතුරුපැදි ප්‍රවාහනය කරමින් තිබූ ලොරි රථයක් එකිනෙක ගැටීමෙන් එම අනතුර සිදු වී තිබුණි.
+
+අනතුරින් පසු කැබ් රථයේ රියදුරු සහ එහි ගමන් ගත් තවත් පුද්ගලයකු කැබ් රථය තුළ සිරවී සිටි අතර එම පුද්ගලයන් දෙදෙනා බේරාගැනීමට අසල සිටි පිරිස්වලට දැඩි පරිශ්‍රමයක් දැරීමට සිදුවිය.
+
+අනතුරින් තුවාල ලැබූ දෙදෙනා කඩිනමින් මුදවාගෙන මොනරාගල දිස්ත්‍රික් මහ රෝහලට ඇතුළත් කර ඇති අතර එම පුද්ගලයන් දෙදෙනා මහකලුගොල්ල ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පැවසීය.
+
+අනතුර සම්බන්ධයෙන් ලොරි රියදුරු දොඹගහවෙල පොලිස් නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇති අතර සිද්ධිය සම්බන්ධයෙන් දොඹගහවෙල පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/2db67f21.json)
+
+---
+
+### காதலிக்கு வீடியோ எடுத்து காலனுடன் சென்ற காதலன்
+
+*2024-07-25 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலிக்கு-வீடியோ-எடுத்து-காலனுடன்-சென்ற-காதலன்/175-341004) · `ta`
+
+காதலியுடன் ஏற்பட்ட முரண்பாடு காரணமாக இளைஞன் ஒருவன் தன் உயிரை மாய்த்துக் கொண்டுள்ள சம்பவம் புதன்கிழமை (24) இடம்பெற்றுள்ளது.
+
+வாழைச்சேனை , ஓட்டமாவடி பகுதியைச் சேர்ந்த 18 வயது இளைஞன் ஒருவனே இவ்வாறு தன் உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+கொழும்பு, புறக்கோட்டை பகுதியில் உள்ள  வர்த்தக நிலையமொன்றில்  கடைமையாற்றும் குறித்த இளைஞன் தனது காதலிக்கு வீடியோ அழைப்பை எடுத்து தொடர்பில் இருந்த  நிலையிலேயே இவ்வாறு உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளின் போது தெரியவந்துள்ளது.
+
+மேலும் மரணமடைந்த இளைஞனின் உடல் பிரேத பரிசோதனைக்காக கொழும்பு வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை புறக்கோட்டை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/853901ed.json)
+
+---
 
 ### The boyfriend who took the video invitation shook life
 
@@ -268,6 +322,24 @@ According to the police, the suspect has been arrested and further investigation
 
 ---
 
+### மகனை சித்திரவதை செய்த தந்தை கைது
+
+*2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனை-சித்திரவதை-செய்த-தந்தை-கைது/175-340997) · `ta`
+
+தனது மூன்று வயது மகனுக்கு உணவு கொடுக்காமல், தற்கொலை செய்து கொள்வோம் என கூறி சித்திரவதை செய்த தந்தையொருவர் கரந்தெனிய, அனுருத்தகம பிரதேசத்தில் இருந்து புதன்கிழமை (24) இரவு கைது செய்யப்பட்டதாக எல்பிட்டிய பொலிஸார் தெரிவித்தனர் .
+
+குறித்த சிறுவனின் தாய் வெளிநாட்டில் பணிபுரிந்து வரும் நிலையில் , அவர் தனது தாயாருக்கு பணம் அனுப்புவதாலும், கணவனும் பணம் அனுப்பாததாலும் சிறுவனை சித்திரவதை செய்து அதன் காணொளியை மனைவிக்கு அனுப்பியுள்ளார் .
+
+இந்த காணொளியை குறித்த பெண் சமூக வலைதளங்களில் வெளியிட்டு, தனது மூன்று வயது சிறுவனை காப்பாற்றுமாறு பதிவிட்டுள்ளார் .
+
+அதற்கமையவே சந்தேகநபர் கைது செய்யப்பட்டதாகவும் இது தொடர்பிலான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர் .
+
+◼️
+
+[Data](articles/e6a73643.json)
+
+---
+
 ### Tanker with 1,500 tonnes of oil sinks off Philippines
 
 *2024-07-25 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100760/tanker-with-1500-tonnes-of-oil-sinks-off-philippines) · `en`
@@ -347,6 +419,26 @@ In this case, the Chairman of the Ombudsman, who was hearing the case, ordered t
 [Data](articles/b74d4f2f.json)
 
 [Extended Data](ext_articles/b74d4f2f.ext.json)
+
+---
+
+### ஊறுகாய்க்கு  ரூ.35,025 அபராதம்
+
+*2024-07-25 10:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊறுகாய்க்கு-ரூ-35-025-அபராதம்/175-340995) · `ta`
+
+சாப்பாடு பொதியில் ஊறுகாய் வைக்காமையால் ஏற்பட்ட மன உளைச்சலுக்காக தாக்கல் செய்யப்பட்ட வழக்கில், குற்றவாளியாக இனங்கண்ட, ஹோட்டல் உரிமையாளருக்கு ரூ.35,025அபராதம் விதித்து தீர்ப்பளிக்கப்பட்டுள்ளது. அந்த அபராத ​தொகையை 45 நாட்களுக்கு வழங்குமாறும் உத்தரவிடப்பட்டுள்ளது.
+
+விழுப்புரம், வழுதரெட்டியை சேர்ந்தவர் ஆரோக்கியசாமி. அனைத்து நுகர்வோர் பொதுமக்கள் சுற்றுச்சூழல் பொதுநல சங்க மாநில தலைவராக உள்ளார்.
+
+இவர் தன் உறவினரின் நினைவு தினத்தையொட்டி, 25 பேருக்கு அன்னதானம் வழங்குவதற்காக, 2022ஆம் ஆண்டு விழுப்புரம் புதிய பஸ் நிலையம் அருகே உள்ள ஹோட்டலில் பணம் செலுத்தி, 25 பார்சல் சாப்பாடு வாங்கிய நிலையில், அதற்கான ரசீதை தர மறுத்த ஹோட்டல் உரிமையாளர் துண்டு சீட்டில் எழுதி கொடுத்துள்ளார்.
+
+வீட்டிற்கு சென்ற ஆரோக்கியசாமி, உணவு பொட்டலங்களை முதியோருக்கு வழங்கியபோது, அதில் ஊறுகாய் இல்லை. ஹோட்டல் உரிமையாளரிடம் கேட்டபோது, ஊறுகாய் வைக்காதது உறுதியானது.
+
+இதையடுத்து, ஊறுகாய்க்கான 25 ரூபாயை திரும்பக் கேட்டுள்ளார் ஆரோக்கியசாமி. ஆனால், ஹோட்டல் உரிமையாளர் தர மறுத்துவிட்டார்.
+
+...
+
+[Data](articles/ec110e99.json)
 
 ---
 
@@ -2145,119 +2237,5 @@ The meeting was held today (24) at the Presidential Secretariat of President Ran
 [Data](articles/14f29f8f.json)
 
 [Extended Data](ext_articles/14f29f8f.ext.json)
-
----
-
-### A sum of Rs.. 655 has been spent
-
-*2024-07-24 19:59:17* · [`adalk`](https://www.ada.lk/breaking_news/තිබ්බේ-නැති-පළාත්-පාලන-මැතිවරණයට-රු-මි--655ක්-වැය-කරලා/11-410979) · `si`
-
-The National Audit report for the local government election in August 2023 revealed that out of Rs. 655 spent, Rs. 30,000 was unaccounted for, 4% was allocated to departmental work, and 13% was used for unspecified purposes. The audit period covered activities from January 4 to March 19, 2023, concluding before the end of the local authority term.
-
-🟩
-
-The National Audit report issued by the National Audit report issued by the Elections Commission as the Elections Commission for the local government election due to the election costs of the electoral election in August 2023.
-
-The audit report states that the cost of no further expenses of Rs. 30,000. 4% of Rs.Expend and expendes to work in the department.
-
-13% has been spent on other purposes. The term of office of local authorities ended on March 19, 2023 audit that the nomination was displayed on January 4 of 2023.
-
-◼️
-
-[Data](articles/cd87fb48.json)
-
-[Extended Data](ext_articles/cd87fb48.ext.json)
-
----
-
-### A speech about a shortage of drugs
-
-*2024-07-24 19:53:26* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හිඟයක්-ගැන-කථාවක්/11-410978) · `si`
-
-Doctors' union reports a severe drug shortage affecting critical medications like cancer and heart disease treatments. Allegedly, high costs and delayed supplies disrupt healthcare, impacting patients' lives.
-
-🟩
-
-The doctors' trade union alliance of doctors on medical and civil rights have been spent on the purchase of Rs.
-
-Dr. Chamal Sanjeew said that allegedly purchasing drug purchase in the first three months of the year, Dr. Chamal Sanjeewa stated that allegedly purchasing drug purchases.
-
-It is said that the general public is severely distributed, including drugs that provide cancer drugs, heart disease patients.
-
-Specialist Dr. Chamal Sanjeewa said that the purchase of drugs per retail price will cost a large amount of money and overloading drugs.
-
-In the recent past, the suppliers have to pay a large sum of money and have been disrupted due to the default supply of drugs due to the default.
-
-◼️
-
-[Data](articles/cd428a1e.json)
-
-[Extended Data](ext_articles/cd428a1e.ext.json)
-
----
-
-### Estate workers' salary reverses the gazette
-
-*2024-07-24 19:43:25* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප-වැඩි-කළ-ගැසට්ටුව-ආපසු-හරවයි/11-410977) · `si`
-
-A recent gazette notification aimed to raise plantation workers' daily wage to 1,700 was abruptly canceled by the government.
-
-🟩
-
-The gazette notification issued by the daily salary of tea and rubber estate, was 1,700.
-
-A gazette notification was released recently to increase the daily salary of plantation workers to 1,700. The gazette notification is issued with the signature of the Secretary to the Ministry of Labor and Foreign Employment.
-
-Accordingly, the Ministry of Labor announced that the year to Rs.. However, the government announced that the gazette notification was canceled today.
-
-◼️
-
-[Data](articles/6c9a169b.json)
-
-[Extended Data](ext_articles/6c9a169b.ext.json)
-
----
-
-### Fasta and confrontation from September
-
-*2024-07-24 19:39:40* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-ප්‍රතිඵල-සැප්තැම්බර්/11-410976) · `si`
-
-The Department of Examinations (STF) announced its release plan for September, including updates to the examination schedule within the first two months.
-
-🟩
-
-The Department of Examinations (STF) says the Department of Examinations will be released on September.
-
-The Ministry further stated that the average line examination will be updated in the first two months and update the examination schedule.
-
-◼️
-
-[Data](articles/d6964a7a.json)
-
-[Extended Data](ext_articles/d6964a7a.ext.json)
-
----
-
-### Japan: The letter to the Secretary of the Treasury
-
-*2024-07-24 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189302) · `ta`
-
-Japan has restarted its yen loan schemes for Sri Lanka, aiming to bolster the island nation's economy post-debt repayment issues. This move was announced during a joint press conference involving the Sri Lankan government, the Japanese Embassy, and JICA, highlighting Japan's commitment to supporting Sri Lanka's economic recovery. Ambassador Mizukoshi Hideaki emphasized Japan's role in facilitating Sri Lanka's debt restructuring and praised the country's ongoing reform efforts. The resumption of these loans is expected to enhance the bilateral relationship and pave the way for Sri Lanka's economic resurgence.
-
-🟩
-
-Officially announced its decision to resume money laundering for Japan's loan schemes in Sri Lanka
-
-The Japanese government has resumed the launch of the Japanese Fund Loan Schemes since the lack of repayment of Sri Lanka's debt in 2022, despite the signing of the Memorandum of Understanding (MOU) between Sri Lanka and Sri Lanka, and the Sri Lankan government's desire to complete the bilateral agreement on debt restructuring quickly.
-
-On July 24, the Sri Lankan government, the Japanese Embassy and the Japanese International Cooperation Agency (JICA) office held a joint press conference to launch the decision at the Ministry of Finance.
-
-Ambassador Mizukoshi Hideaki, who congratulated Sri Lanka and OCC on the end of the Memorandum of Understanding (MOU), has made the Japanese government's effort and best contribution to the end of the public debt restructuring as co -chair of the OCC.
-
-...
-
-[Data](articles/873b02c3.json)
-
-[Extended Data](ext_articles/873b02c3.ext.json)
 
 ---

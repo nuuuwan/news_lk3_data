@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 22:09:17**
+As of **2024-07-25 22:20:59**
 
 ## Newspaper Stats
 
-*Scraped **37,259** Articles*
+*Scraped **37,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,312
 tamilmirrorlk | 4,588
 dailymirrorlk | 4,733
 virakesarilk | 5,857
-adaderanasinhalalk | 6,254
+adaderanasinhalalk | 6,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,258 (100.0%) of 37,259 articles have been extended.
+37,259 (100.0%) of 37,260 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### පොලිස් නිෂ්කාසන අංශය, බත්තරමුල්ල සුහුරුපායට
+
+*2024-07-25 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199212) · `si`
+
+පොලිස් මූලස්ථානයේ පවත්වාගෙන යනු ලැබූ පොලිස් නිෂ්කාසන අංශය, බත්තරමුල්ල සුහුරුපාය ගොඩනැගිල්ලේ 17 වන මහලේ ස්ථාපිත කර ඇති බව පොලීසිය ජනතාවට දැනුම්දෙයි.
+
+පොලිස් නිෂ්කාසන අයදුම්පත් යොමු කර ඇති අයදුම්කරුවන්ට ඒ සම්බන්ධයෙන් විමසීම් කිරීම සඳහා පෙර පැවති දුරකථන අංක වෙනුවට නව අංක කිහිපයක් හඳුන්වාදී තිබේ.
+
+ස්ථාපිත කරන ලද නව ලිපිනය වන්නේ 17 වන මහල, සුහුරුපාය, බත්තරමුල්ල.
+
+◼️
+
+[Data](articles/ad9894f0.json)
+
+---
 
 ### PM to announce govt’s official stance on IGP issue
 
@@ -356,17 +372,31 @@ The event was not able to be abroad and had not been able to be remanded against
 
 ---
 
-### නාමල්ගෙන් ජනපතිට චෝදනාවක් ’’පක්ෂ කඩන එක එතුමාගේ පුරුද්දක්’’
+### President accuses Namal accused 'parties'
 
 *2024-07-25 18:34:45* · [`adalk`](https://www.ada.lk/opinion/නාමල්ගෙන්-ජනපතිට-චෝදනාවක්-’’පක්ෂ-කඩන-එක-එතුමාගේ-පුරුද්දක්’’/2-411000) · `si`
 
-පක්ෂයක් ලෙස ශ්‍රී ලංකා පොදුජන පෙරමුණ අවංකව රනිල් වික්‍රමසිංහ ජනපතිවරයාට උදවු කළ නමුත්ලා අවාසනයට එයින් ලැබෙන දායාදය වන්නේ පක්ෂය දෙකට කැඩීමේ උත්සාහයක්නම්එ ඔහු ඒ පිළිබඳවත් කල්පනා කල යුතු බව ශ්‍රීලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ පැවසීය ඔහු මේ බව ප්‍රකාශ කළේ අද දින නෙළුම් මාවතේදී මාධ්‍යවේදියකු විසින් යොමුකල ප්‍රශ්නයකට පිලිතුරු දෙමිනි.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ නාමල් රාජපක්ෂ
+In a heated exchange, President Nimal Rajapaksa denies accusations of attempting to split his party, emphasizing his commitment to maintaining unity and making responsible political decisions. He addresses rumors about aligning with opposition leader Ranil Wickremesinghe, stating that any actions were solely for the betterment of the nation's politics, not personal gain. Rajapaksa asserts that his primary focus remains on safeguarding the party's integrity and ensuring its readiness for governance.
 
-ප්‍රශ්නය:ඔබතුමන්ලා දැන් රනිල් මහත්තයට නැවත වරක් උදව් කරන්න හදනවා කියලා කතාවක් තියනවා,ඒක ඇත්තක්ද?
+🟩
+
+The National Organizer of the Sri Lanka Appointment of the Sri Lanka Appointment is an attempt to break the party to the President as a party since the party.Reply by Mr. Nimal Rajapaksa speaking further
+
+Question: "There is a story that you are trying to help Mr. Ranil once again, is that true?
+
+When Mr. Ranil took a decision, he invited the Leader of the Leader of the former Minister.We have not taken steps to embarrass the government's political stability even if we do not suit the government or not even if we do not suit us or the government.. However, we have fulfilled our responsibilities. Let us have a good political decision.
+
+Question: "That is the accusation that you have broken down by you by the party of you two party?
+
+I have noticed that I have seen the president of the president with the president.If we need to break our party into two people, he should also be evident.
+
+Question: Why is that hosting that you are so helped??
 
 ...
 
 [Data](articles/5fcdebf0.json)
+
+[Extended Data](ext_articles/5fcdebf0.ext.json)
 
 ---
 
@@ -2329,29 +2359,5 @@ However, Jayawardena atates that a final decision on whether the bread price wil
 [Data](articles/f0c23758.json)
 
 [Extended Data](ext_articles/f0c23758.ext.json)
-
----
-
-### Arrested father for torture of boy
-
-*2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனை-சித்திரவதை-செய்த-தந்தை-கைது/175-340997) · `ta`
-
-In Karandeniya, a man was arrested for allegedly torturing his three-year-old son to death after the child's mother, who works abroad, stopped sending money to her own mother. The incident was reported on social media, leading to the arrest. Further investigation is ongoing.
-
-🟩
-
-A father who was tortured by his three -year -old son to commit suicide was arrested from Karandeniya, Anuruthagama on Wednesday night, Elpitiya police said.
-
-While the boy's mother is working abroad, she has tortured the boy and sent the boy to his wife because she was sending money to her mother and not sending money.
-
-The woman posted on social networks about the video and posted her three -year -old boy to save her.
-
-According to the police, the suspect has been arrested and further investigations are being carried out.
-
-◼️
-
-[Data](articles/833d84a4.json)
-
-[Extended Data](ext_articles/833d84a4.ext.json)
 
 ---

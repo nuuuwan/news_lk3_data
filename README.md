@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 10:54:26**
+As of **2024-07-25 11:06:16**
 
 ## Newspaper Stats
 
@@ -26,35 +26,47 @@ adaderanasinhalalk | 6,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,142 (100.0%) of 37,149 articles have been extended.
+37,149 (100.0%) of 37,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### විජයදාසත් ජනපති සටනට
+### Wijayaka The President to fight
 
 *2024-07-25 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199192) · `si`
 
-2024 ජනාධිපතිවරණයේ දී අපේක්ෂකයෙක් ලෙස තමා ද ඉදිරිපත් වන බව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+Hon. Minister Wijayadasa Rajapakse announces candidacy for 2024 presidential election.
+
+🟩
+
+The Hon. Minister Wijayadasa Rajapakse says he will be a candidate in the 2024 presidential election.
 
 ◼️
 
 [Data](articles/1493e46c.json)
 
+[Extended Data](ext_articles/1493e46c.ext.json)
+
 ---
 
-### වෛද්‍ය කපිල වික්‍රමනායකට ඇප
+### Dr. Kapila Wickremaniya released on bail
 
 *2024-07-25 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199191) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට රක්ෂිත බන්ධනාගාරගත කර සිටි වෛද්‍ය සැපයුම් අංශයේ හිටපු අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා සුදුසු කොන්දේසි මත මුදා හරින ලෙස අභියාචනාධිකරණය අද (25) මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට නියෝග කළේය.
+Dr. Kapila Wickremaniya was granted bail by the Court of Appeal, which overturned a magistrate's decision regarding her case related to substandard antibody injections. The appeal court acted upon a writ petition filed by Dr. Wickremaniya.
 
-වෛද්‍ය කපිල වික්‍රමනායක මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණයේ එම නියෝගය නිකුත් කළේය.
+🟩
+
+The Court of Appeal today ordered the Maligakanda Magistrate today to release the suburb of the Medical Support Sector Dr. Kapila Wickramanayaka today to release the substandard antibody injection.
+
+The Court of Appeal issued the order after considering a Rit petition filed by Dr. Kapila Wickramanayaka.
 
 ◼️
 
 [Data](articles/557224f2.json)
+
+[Extended Data](ext_articles/557224f2.ext.json)
 
 ---
 
@@ -71,6 +83,8 @@ Scholarships are being offered to student monks studying up to the Piriven (Ordi
 ...
 
 [Data](articles/c34e15d3.json)
+
+[Extended Data](ext_articles/c34e15d3.ext.json)
 
 ---
 
@@ -120,21 +134,27 @@ According to the police, the suspect has been arrested and further investigation
 
 ---
 
-### சிறுவன் சித்திரவதை ; தாய்க்கு காணொளி
+### The boy torture;Video to mother
 
 *2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவன்-சித்திரவதை-தாய்க்கு-காணொளி/175-340997) · `ta`
 
-தனது மூன்று வயது மகனுக்கு உணவு கொடுக்காமல், தற்கொலை செய்து கொள்வோம் என கூறி சித்திரவதை செய்த தந்தையொருவர் கரந்தெனிய, அனுருத்தகம பிரதேசத்தில் இருந்து புதன்கிழமை (24) இரவு கைது செய்யப்பட்டதாக எல்பிட்டிய பொலிஸார் தெரிவித்தனர் .
+In Karandeniya, a man was arrested after allegedly being forced by his three-year-old son to commit suicide, due to the mother's neglect while working abroad. The mother, who preferred sending money to her own mother over supporting her husband, shared a video of the incident on social media, leading to the arrest of the suspect as investigations continue.
 
-குறித்த சிறுவனின் தாய் வெளிநாட்டில் பணிபுரிந்து வரும் நிலையில் , அவர் தனது தாயாருக்கு பணம் அனுப்புவதாலும், கணவனும் பணம் அனுப்பாததாலும் சிறுவனை சித்திரவதை செய்து அதன் காணொளியை மனைவிக்கு அனுப்பியுள்ளார் .
+🟩
 
-இந்த காணொளியை குறித்த பெண் சமூக வலைதளங்களில் வெளியிட்டு, தனது மூன்று வயது சிறுவனை காப்பாற்றுமாறு பதிவிட்டுள்ளார் .
+A father who was tortured by his three -year -old son to commit suicide was arrested from Karandeniya, Anuruthagama on Wednesday night, Elpitiya police said.
 
-அதற்கமையவே சந்தேகநபர் கைது செய்யப்பட்டதாகவும் இது தொடர்பிலான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர் .
+While the boy's mother is working abroad, she has tortured the boy and sent the boy to his wife because she was sending money to her mother and not sending money.
+
+The woman posted on social networks about the video and posted her three -year -old boy to save her.
+
+According to the police, the suspect has been arrested and further investigations are being carried out.
 
 ◼️
 
 [Data](articles/a54e5c99.json)
+
+[Extended Data](ext_articles/a54e5c99.ext.json)
 
 ---
 
@@ -207,6 +227,8 @@ NDB’s risk profil remains tied to the credit and market risk of the sovereign,
 ...
 
 [Data](articles/cc2d8147.json)
+
+[Extended Data](ext_articles/cc2d8147.ext.json)
 
 ---
 
@@ -381,6 +403,8 @@ While authorities have committed to “significantly speed up valid VAT refunds�
 ...
 
 [Data](articles/72ea6f6e.json)
+
+[Extended Data](ext_articles/72ea6f6e.ext.json)
 
 ---
 
@@ -705,6 +729,8 @@ The central bank ended up with over three trillion rupees of domestic assets in 
 ...
 
 [Data](articles/232ae300.json)
+
+[Extended Data](ext_articles/232ae300.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 02:05:29**
+As of **2024-07-26 02:20:42**
 
 ## Newspaper Stats
 
-*Scraped **37,282** Articles*
+*Scraped **37,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,86 @@ adalk | 3,393
 adaderanalk | 4,313
 tamilmirrorlk | 4,591
 dailymirrorlk | 4,733
-virakesarilk | 5,859
+virakesarilk | 5,862
 adaderanasinhalalk | 6,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,281 (100.0%) of 37,282 articles have been extended.
+37,282 (100.0%) of 37,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### ’பதில் பொலிஸ்மா அதிபரை ஏன்? நியமிக்கவில்லை’
+### வி.எப்.எஸ் விசா விவகாரம்: விசா வெளிவள உடன்படிக்கையை சவாலுக்கு உட்படுத்தி சுமந்திரன், ரவூப், சம்பிக்க உயர்நீதிமன்றில் மனுத்தாக்கல்
+
+*2024-07-26 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189391) · `ta`
+
+வி.எப்.எஸ் குளோபல் விசா விநியோக விவகாரம் அண்மையில் கடும் சர்ச்சைக்குரிய பேசுபொருளாகியிருந்த நிலையில், இந்த விசா வெளிவள உடன்படிக்கையை சவாலுக்கு உட்படுத்தி பாராளுமன்ற உறுப்பினர்களான எம்.ஏ.சுமந்திரன், ரவூப் ஹக்கீம், பாட்டலி சம்பிக்க ரணவக்க ஆகியோர் உயர்நீதிமன்றத்தில் தனித்தனியாக 3 அடிப்படை உரிமை மீறல் மனுக்களைத் தாக்கல் செய்துள்ளனர்.
+
+இவ்வாறு தாக்கல் செய்யப்பட்டிருக்கும் மனுவில் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் உள்ளிட்ட அமைச்சரவை அமைச்சர்கள், குடிவரவு - குடியகல்வுத் திணைக்கள அதிகாரி உள்ளடங்கலாக 31 பேர் பிரதிவாதிகளாகப் பெயரிடப்பட்டுள்ளனர்.
+
+இம்மனுக்களில் விசா வெளிவள உடன்படிக்கையின் பிரகாரம் இலங்கைக்கு வருகைதரும் சுற்றுலாப்பயணிகளுக்கு விசா விநியோகிக்கும் பொறுப்பு வி.எப்.எஸ் குளோபல் நிறுவனத்திடம் கையளிக்கப்பட்ட விவகாரத்தில் நிலவும் குழறுபடிகள் மற்றும் சட்டவிரோத நடைமுறைகள் குறித்து விளக்கமளிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/da1442ae.json)
+
+---
+
+### நாட்டை சீரழித்த அனைவரையும் சட்டத்துக்கு முன் நிறுத்துவோம் - சஜித் சபையில் உறுதி
+
+*2024-07-26 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189390) · `ta`
+
+எமது அரசாங்கத்தில் நாட்டை சீரழித்த அனைவரையும் சட்டத்துக்கு முன் கொண்டுவருவதுடன் திருடப்பட்ட அனைத்து பணத்தையும் நாட்டுக்கு கொண்டுவர நடவடிக்கை எடுப்போம். நாட்டை வங்குராேத்து அடையச்செய்தவர்களுடன் இணைந்து நாட்டை கட்டியெழுப்ப முடியாது என்பதாலே நாங்கள் அப்போது நாட்டை பொறுப்பெடுக்க முன்வரவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/68e441a8.json)
+
+---
+
+### பௌத்த தர்மத்தை திரிபுபடுத்தும் 12 நிலையங்கள் நாட்டில் இயங்குகின்றன - தேசிய மரபுரிமைகளை பாதுகாப்பதற்கான பாராளுமன்ற ஒன்றியம்
+
+*2024-07-26 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189389) · `ta`
+
+பௌத்த தர்மம் போன்று நாட்டின் வரலாற்றையும் திரிபுபடுத்தும் 12 நிலையங்கள் இதுவரை நாட்டிற்குள் இயங்கி வருவதாக தேசிய மரபுரிமைகளைப் பாதுகாப்பதற்கான பாராளுமன்ற ஒன்றியத்தில் கலந்துரையாடப்பட்டது. அத்துடன்,பௌத்த மதத்தைத் திரிபுபடுத்தும் 85 பேர் அடையாளம் காணப்பட்டிருப்பதாகவும் இங்கு தெரியவந்தது.
+
+தேசிய மரபுரிமைகளைப் பாதுகாப்பதற்கான பாராளுமன்ற ஒன்றியம் அதன் தலைவர் பாராளுமன்ற உறுப்பினர் ஜயந்த சமரவீர தலைமையில் அண்மையில் கூடியபோது இந்த விடயங்கள் குறித்துக் கலந்துரையாடப்பட்டன.
+
+இக்கூட்டத்தில் சங்கைக்குரிய ஹாகொட விப்பசி தேரர், வணக்கத்துக்குரிய பேராசிரியர் மாவத்தகம பேமானந்த தேரர், சட்டத்தரனி கல்யானந்த தீரனாகம, சட்டத்தரணி ராஜா குணரத்ன, மதுகம செனவிருவன் மற்றும் கலாநிதி வசந்த பண்டார ஆகியோர் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/706cc173.json)
+
+---
+
+### Why is the Inspector General of Police?Not appointed
 
 *2024-07-26 01:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பொலிஸ்மா-அதிபரை-ஏன்-நியமிக்கவில்லை/175-341048) · `ta`
 
-தேசபந்து தென்னக்கோன், பொலிஸ்மா அதிபராக செயற்படுவதற்கு இடைக்கால தடையுத்தரவு விதித்து உயர்நீதிமன்றம் தீர்ப்பளித்துள்ள நிலையில், அந்தப் பதவிக்கு பதில் பொலிஸ்மா அதிபரை நியமிக்க நடவடிக்கை எடுக்காதிருப்பது தொடர்பில் எதிர்க்கட்சிகள் கேள்வியெழுப்பியதால் சபையில் வியாழக்கிழமை (25) சர்ச்சை ஏற்பட்டது.
+Controversy over the appointment of the Inspector General of Police in Sri Lanka led to opposition parties taking action after the Supreme Court upheld a national ban on acting in the role. Minister Susil Premajayantha and Chief Minister Korada Prasanna Ranatunga engaged in debate with the opposition. Opposition Leader Sajith Premadasa emphasized the importance of adhering to the constitution and respecting judicial decisions, highlighting the need for the Cabinet to follow legal procedures. The Constitutional Council, comprising 20 members, has the authority to appoint key officials including the Inspector General of Police, suggesting that the matter should be referred back to this body for resolution.
 
-இதன்போது சபை முதல்வரான அமைச்சர் சுசில் பிரேமஜயந்த மற்றும் ஆளும்கட்சி பிரதம கொரடா பிரசன்ன ரணதுங்க ஆகியோர் எதிர்க்கட்சியினருடன் வாக்குவாதத்திலும் ஈடுபட்டனர்.
+🟩
 
-பாராளுமன்றம் வியாழக்கிழமை (25) முற்பகல் 9.30 மணியளவில் பிரதி சபாநாயகர் ஆஜித் ராஜபக்‌ஷ தலைமையில் கூடியதை தொடர்ந்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் தனது கருத்துக்களை முன்வைத்து உரையாற்றினார்.
+The controversy on Thursday (25) has caused the opposition parties to take action to appoint the Inspector General of Police in response to the post, as the Supreme Court has ruled that the national ban on acting as the Inspector General of Police.
+
+Minister Susil Premajayantha and the ruling party's chief minister Korada Prasanna Ranatunga were also arguing with the opposition.
+
+Opposition Leader Sajith Premadasa addressed his views on the issue of the police chief following the meeting of the Deputy Speaker Ajith Rajapaksa at 9.30 am on Thursday (25).
+
+Democratic system is in Sri Lanka. Power sharing takes place between the three pillars of the law, the executive department and the judiciary. To protect the legalization within this structure. The Constitution should be honored and behaved accordingly. The verdict cannot be questioned, especially if the High Court runs a verdict.
 
 ...
 
 [Data](articles/5fb3e3c7.json)
+
+[Extended Data](ext_articles/5fb3e3c7.ext.json)
 
 ---
 
@@ -2289,71 +2343,5 @@ Wickremabahu Karunaratne was later visited in Sri Lanka and began a academic lif
 [Data](articles/d01a2a79.json)
 
 [Extended Data](ext_articles/d01a2a79.ext.json)
-
----
-
-### Former Director of Medical Supplies Division granted bail
-
-*2024-07-25 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100764/former-director-of-medical-supplies-division-granted-bail) · `en`
-
-The Court of Appeal has ordered the Maligakanda Magistrate’s Court to release on bail the former Director of the Health Ministry’s Medical Supplies Division, Dr. Kapila Wickramanayake, who was in remand custody over the alleged import of ‘substandard’ human intravenous immunoglobulin (IVIG) vials.
-
-The Court of Appeal had issued the order to the Maligakanda Magistrate’s Court to release Dr. Wickramanayake under suitable bail conditions, after considering a writ petition filed by his attorneys.
-
-Wickramanayake was held in remand custody over the alleged substandard immunoglobulin imports case. He had filed the petition through his lawyers, seeking an order that the Maligakanda Magistrate’s Court’s decision to remand him to be declared unlawful and therefore, to release him on bail.
-
-...
-
-[Data](articles/c8a17292.json)
-
-[Extended Data](ext_articles/c8a17292.ext.json)
-
----
-
-### What did 48 MPs meet in two places in Colombo?
-
-*2024-07-25 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189331) · `ta`
-
-48 MPs from the Sri Lankan government gathered in Colombo, meeting at two locations: Colombo Flower Road and a hotel in Talawatugoda. The discussions focused on supporting President Ranil Wickremesinghe, planning for the upcoming presidential election, establishing a political office, and media activities. They also discussed creating a comprehensive support program and informing the public about government projects.
-
-🟩
-
-Political sources said that the Cabinet and the diplomatic ministers representing the government held a special discussion in the support of President Ranil Wickremesinghe on Wednesday (24) in two places in Colombo.
-
-Accordingly, 30 cabinet and diplomatic ministers representing governments have met and discussed at the Colombo Flower Road and 18 members of the government met at a hotel in Talawatugoda.
-
-The report also stated that the two sides have discussed the situation in which the Sri Lanka PA has been given a budget symbol in the upcoming presidential election.
-
-At this moment, the final agreement of the two parties has been sent to the current President Ranil Wickremesinghe to support his support.
-
-According to political sources, both sides are focusing on President Ranil Wickremesinghe's presidential election, setting up a political office, appointing agents at the polling station and carrying out media activities.
-
-...
-
-[Data](articles/ed6d902f.json)
-
-[Extended Data](ext_articles/ed6d902f.ext.json)
-
----
-
-### Payment for those who go to the Passport office in Vavuniya
-
-*2024-07-25 11:37:21* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාව-පාස්පෝට්-කාර්යාලයට-යන්න-ඉන්න-අයට-දැනුම්-දිමක්/11-410985) · `si`
-
-The Vavuniya Regional Office of the Department of Immigration and Emigration will close from August 3 to 15, 2024, due to relocation. Services will resume on August 16, 2024, at the new location.
-
-🟩
-
-The Department of Immigration and Emigration will be the Department of Immigration and Emigration No.
-
-Therefore, the duties of the Regional Office of the Regional Office, which is located at JC 23, Pitarry Road, Vavuniya, Vavuniya, is currently concluded from Friday, August 2, 2024.
-
-Accordingly, the Vavuniya Regional Office of the Vavuniya Regional Office will not provide public services from August 3, 202 to August 15, 2024, and action will be taken to provide public services from August 16, 2024 by the new regional office of the new regional office.The Department of Immigration and Emigration says.
-
-◼️
-
-[Data](articles/c4fc08f8.json)
-
-[Extended Data](ext_articles/c4fc08f8.ext.json)
 
 ---

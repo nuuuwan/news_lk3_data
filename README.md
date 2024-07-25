@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 08:35:39**
+As of **2024-07-25 08:54:49**
 
 ## Newspaper Stats
 
-*Scraped **37,112** Articles*
+*Scraped **37,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,101 @@ islandlk | 2,118
 economynextcom | 2,221
 dailyftlk | 2,371
 adalk | 3,367
-adaderanalk | 4,290
-tamilmirrorlk | 4,564
+adaderanalk | 4,291
+tamilmirrorlk | 4,566
 dailymirrorlk | 4,733
 virakesarilk | 5,820
-adaderanasinhalalk | 6,229
+adaderanasinhalalk | 6,230
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,110 (100.0%) of 37,112 articles have been extended.
+37,112 (100.0%) of 37,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### අවුරුදු 3 දරුවෙකුට දසවධ දුන් පියා අත්අඩංගුවට
+### සරත් ෆොන්සේකා ජනපති සටනට
+
+*2024-07-25 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199186) · `si`
+
+2024 ජනාධිපති අපේක්ෂකත්වය සඳහා තමා ඉදිරිපත් වන බව ෆිල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා පවසයි.
+
+◼️
+
+[Data](articles/6ee16ecb.json)
+
+---
+
+### Dr. Vickramabahu Karunaratne passes away
+
+*2024-07-25 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100755/dr-vickramabahu-karunaratne-passes-away) · `en`
+
+Leader of the Nawa Sama Samaja Party (NSSP), Dr. Vickramabahu Karunaratne has passed away at the age of 81, according to family sources.
+
+◼️
+
+[Data](articles/b7e9b3c2.json)
+
+---
+
+### கலாநிதி விக்கிரமபாகு கருணாரத்ன காலமானார்
+
+*2024-07-25 08:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-விக்கிரமபாகு-கருணாரத்ன-காலமானார்/175-340991) · `ta`
+
+சிரேஸ்ட அரசியல்வாதியும் நவ சம சமாஜ கட்சியின் தலைவருமான கலாநிதி விக்கிரமபாகு கருணாரத்ன தனது 81 வயதில் இன்று காலமானார்.
+
+◼️
+
+[Data](articles/cabe0959.json)
+
+---
+
+### The father arrested for a 3 year old father arrested
 
 *2024-07-25 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199185) · `si`
 
-කුඩා දරුවෙකු කෘෘරත්වයට පත්කළ පියෙක් ඇල්පිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A father in Sri Lanka was arrested after allegedly abusing his 3-year-old child. The incident was reported to the police via an SMS to the 118 emergency number. Investigations showed the man forced the child to kneel and beg for food while his wife worked abroad. The case has sparked outrage on social media.
 
-ඊයේ (24) රාත්‍රී කාලයේ දී ඇල්පිටිය පොලිස් වසමේ අනුරුද්ධගම කරන්දෙණිය ප්‍රදේශයේ අවුරුදු 3යි මාස 6ක කුඩා පිරිමි දරුවෙකුට කෘෘර ලෙස සලකන බවට 118 කෙටි පණිවුඩ මධ්‍යස්ථානයට ආ ඇමතුමක් මත විමර්ශන ආරම්භ කර ඇත.
+🟩
 
-ඒ අනුව ඇල්පිටිය පොලිස් ස්ථානයේ නිලධාරීන් විසින් අවුරුදු 24 ක් වූ කරන්දෙණිය, අනුරුද්ධගම ප්‍රදේශයේ පදිංචි අරක්කැමිවරයෙක් අත්අඩංගුවට ගෙන තිබේ.
+Elpitiya Police have arrested a father who has made a young child to worry.
 
-සැකකරුගේ වයස අවුරුදු 24ක් වන බිරිඳ රැකියාවක් සඳහා විදේශගතව ඇති අතර, සැකකරු සහ එම දරුවා පමණක් නිවසේ සිට ඇත.
+The 118 SMS station has commenced on a call to the 118 SMS center that the 118-month SMS centers had been considered in the Elvinagaluwa area yesterday.
 
-සැකකරු විසින් දරුවාගේ අත් ඔසවා බිම දණ ගස්වා දරුවා විසින් ආහාර ඉල්ලා සිටිමේ දී පරුෂ වචනයෙන් බැණ වැදී ඇති බවත්, දරුවාගේ එක් පාදයක් පාපැදියක ඉදිරිපස රෝදයට යට කරමින් කෘෘරත්වය පත්කර ඇති බවත් පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+Accordingly, a arrackmatiya from the Elpitiya Police Station, Karandeniya, was 24-year-old.
 
-එම සැකකාර පියා මෙලෙස දරුවා කෘෘරත්වයට පත්කිරීමේ වීඩියෝ විදේශගත මවට යොමු කර ඇති බව ද සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+The suspect's 24-year-old wife went abroad for employment, and the suspect and the child were at home.
 
-අදාළ වීඩියෝ පටය සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන බව ද නිරීක්ෂණය වී ඇතැයි පොලීසිය පැවසීය.
+Police investigations have revealed that the suspect was raised by the child and kneeling the child to dweller and bowed the baby in order to demand food.
+
+Investigations have revealed that the suspected father has been sent to the foreign mother of the child to overseas.
+
+It is also observed that the video is circulated on social media.
 
 ◼️
 
 [Data](articles/5e87d9c6.json)
+
+[Extended Data](ext_articles/5e87d9c6.ext.json)
+
+---
+
+### ’இளைஞர்களுக்கான வேலை வாய்ப்பு உருவாக்கப்படும்’
+
+*2024-07-25 08:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களுக்கான-வேலை-வாய்ப்பு-உருவாக்கப்படும்/175-340990) · `ta`
+
+இலங்கை இளைஞர்கள் தொழில் தேடி வெளிநாடுகளுக்கு செல்வதற்கு மாறாக உள் நாட்டிலேயே இளைஞர்களுக்கு தேவையான வேலை வாய்ப்புகளை உருவாக்கும் வகையில் பொருளாதார மாற்றத்தை ஏற்படுத்துவதற்குரிய சரியான திட்டத்தை அடுத்த 10 வருடங்களில் செயற்படுத்துவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+
+கம்பஹா பண்டாரநாயக்க கல்லூரியின் 106 ஆவது ஆண்டு நிறைவை முன்னிட்டு நேற்று இடம்பெற்ற நிகழ்வில் கலந்து கொண்டு உரையாற்றிய போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+இன்று நமது இளைஞர்கள் வேலை தேடி அமெரிக்கா, டுபாய், சிங்கப்பூர் போன்ற நாடுகளுக்கு செல்கின்றனர். அந்த நாடுகளில் உள்ள நிலையை ஏன் இலங்கையில் உருவாக்கப்படவில்லை என்று கேட்க வேண்டும். அடுத்த 10 ஆண்டுகளில், இந்தப் பிரச்சினைக்குத் தீர்வு காண நாம் நம்மை அர்ப்பணிக்க வேண்டும். நாட்டை முன்னேற்றி புதிய வேலை வாய்ப்புகளை உருவாக்க வேண்டும். இல்லையேல் இந்தக் கல்வியால் நாட்டுக்கு எந்தப் பலனும் கிடைக்காது. அப்படியானால், நாம் எப்போதும் வறிய நாடாகவே இருக்க வேண்டியிருக்கும்.
+
+...
+
+[Data](articles/b2579160.json)
 
 ---
 
@@ -601,6 +659,8 @@ Accumulation of severe debt is a global phenomenon. If we think that Ranil and I
 ...
 
 [Data](articles/f4f2c348.json)
+
+[Extended Data](ext_articles/f4f2c348.ext.json)
 
 ---
 
@@ -2203,95 +2263,5 @@ Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-
 [Data](articles/acd1041d.json)
 
 [Extended Data](ext_articles/acd1041d.ext.json)
-
----
-
-### Suspect arrested for stolen bus
-
-*2024-07-24 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199161) · `si`
-
-A suspect was arrested near Panadura after being spotted on a parked bus in Moratuwa.
-
-🟩
-
-The Moratuwa Police have arrested a person who was traveling on a parked bus in Moratuwa.
-
-The suspect was found near Panadura, Minuwanpitiya General Cemetery.
-
-◼️
-
-[Data](articles/378761fa.json)
-
-[Extended Data](ext_articles/378761fa.ext.json)
-
----
-
-### Adulugama should honor the sacrifice of Muslim people: Opposition member Lalith Ellawala
-
-*2024-07-24 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189252) · `ta`
-
-Lalith Ellawala, an opposition member, criticized the suspension of road development in Adulugama despite relocating Muslim residents without compensation. He urged quick development to honor their sacrifice, highlighting the impact on education and pedestrian safety. Minister Prasanna Ranatunga responded, stating the Asian Development Bank had suspended a loan installment due to a proposed rule under the Thousand Kilometer Road Development Program.
-
-🟩
-
-The road development has been suspended even though the Muslim people have been removed from their home and walls without any compensation for the development of Atulugama Road.
-
-Opposition member Lalith Ellawala said that steps should be taken to quickly develop the road to honor the sacrifice of the people.
-
-During the question of the oral answer in Parliament on Wednesday (24), the Bay of clarification was stated.
-
-It is reported that the Muslim people of the area have been given the opportunity to remove their homes and safety walls for the development of the Atulugama Vidakama Road.. If this happens, this is a huge injustice to the dedication of the Muslim people of the area.
-
-Only the Adulugama Muslim people in Sri Lanka have been able to remove their homes and safety walls and provide us with this opportunity for road development.
-
-...
-
-[Data](articles/f5d28290.json)
-
-[Extended Data](ext_articles/f5d28290.ext.json)
-
----
-
-### Harris bashes Trump over ‘fear and hate’ in debut rally
-
-*2024-07-24 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/100746/harris-bashes-trump-over-fear-and-hate-in-debut-rally) · `en`
-
-(Reuters) - U.S. Vice President Kamala Harris assailed Donald Trump on Tuesday at her first campaign rally since replacing President Joe Biden as the Democratic presidential candidate, while a Reuters/Ipsos opinion poll showed her taking a marginal lead over her Republican rival.
-
-In a 17-minute speech, Harris aggressively went after Trump’s vulnerabilities, comparing her background as a former prosecutor to his record as a convicted felon.
-
-Harris ticked through a list of liberal priorities, saying that if elected she would act to expand abortion access, make it easier for workers to join unions and address gun violence, drawing a sharp contrast with Trump, the Republican nominee for president in the Nov. 5 election.
-
-“Donald Trump wants to take our country backward,” she told a cheering crowd of several thousand at West Allis Central High School in a Milwaukee suburb in Wisconsin, a battleground state with a pivotal role in deciding the election outcome.
-
-...
-
-[Data](articles/7d935b7c.json)
-
-[Extended Data](ext_articles/7d935b7c.ext.json)
-
----
-
-### The company that monitors staff by AI
-
-*2024-07-24 15:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/AI-மூலம்-ஊழியர்கள்-கண்காணிக்கும்-நிறுவனம்/57-340956) · `ta`
-
-AEON, a Japanese company, pioneered using AI to monitor employee-customer interactions in supermarkets. This initiative gained global attention towards the end of 2022, highlighting the growing impact of AI in enhancing customer service.
-
-🟩
-
-AI is a company to monitor how employees approach customers who come to the supermarket.  ஜப்பான் நாட்டில் உள்ள நிறுவனமே இவ்வாறு செய்துள்ளது.
-
-Talk about generating AI at the end of 2022 became viral worldwide. Until then, AI among people who use digital devices can be said to have not received much attention. Open AI's Chat-GBD telephone budget changed it.
-
-This generating AI Pat Digital has received the highest reception. Users can easily get text, film, etc.. This bot will write all the article, computer programming. Will tell the story as grandmothers. It also has the power to create and create a picture we are propagating.
-
-Google, Meta and Microsoft are all descended on this generating AI Pat Gotha. As a result, we have now placed on our cell phone, on the computer, and the processors used. The best example of that is the Meta AI and Microsoft Co-Filat.
-
-...
-
-[Data](articles/f3bedba2.json)
-
-[Extended Data](ext_articles/f3bedba2.ext.json)
 
 ---

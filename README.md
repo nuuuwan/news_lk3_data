@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 16:52:38**
+As of **2024-07-25 17:05:34**
 
 ## Newspaper Stats
 
-*Scraped **37,216** Articles*
+*Scraped **37,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,381
-adaderanalk | 4,305
-tamilmirrorlk | 4,584
+adalk | 3,382
+adaderanalk | 4,306
+tamilmirrorlk | 4,585
 dailymirrorlk | 4,733
 virakesarilk | 5,845
 adaderanasinhalalk | 6,245
@@ -26,27 +26,71 @@ adaderanasinhalalk | 6,245
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,214 (100.0%) of 37,216 articles have been extended.
+37,216 (100.0%) of 37,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### සුළි කුණාටුවක් නිසා තායිවානයට දැඩි බලපෑම්
+### “பொலிஸ் மா அதிபர் பதவி வெற்றிடமாக இல்லை”
+
+*2024-07-25 16:48:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-மா-அதிபர்-பதவி-வெற்றிடமாக-இல்லை/175-341025) · `ta`
+
+உயர் நீதிமன்றத்தின் தீர்ப்பினால் பொலிஸ் மா அதிபருக்கு இடைக்கால தடை உத்தரவு வழங்கப்பட்டுள்ளதே தவிர, பொலிஸ் மா அதிபர் பதவி    வெற்றிடமில்லை என ஜனாதிபதிக்கு சட்ட ஆலோசனை கிடைத்துள்ளது.
+
+அரசியலமைப்பின் 21ஆவது திருத்தத்தின் பிரகாரம், பொலிஸ் மா அதிபரின் பதவி வெற்றிடமாக இல்லாத நிலையில், ஜனாதிபதியால் பதில் பொலிஸ் மா அதிபர் ஒருவரை நியமிக்க முடியாது என அரசாங்கத்தின் சிரேஷ்ட அமைச்சர் ஒருவர் தெரிவித்துள்ளார்.
+
+இதன்காரணமாக, சம்பந்தப்பட்ட சட்டப் பிரச்சினை தீர்க்கப்படும் வரை, பொலிஸ் மா அதிபர் பதவி வெற்றிடமாகவே  இருக்கும் என, அரசு வட்டாரங்கள் தெரிவிக்கின்றன.
+
+உயர் நீதிமன்றத்தின் தீர்ப்பின்படி, பொலிஸ் மா அதிபர் தனது கடமைகளை மேற்கொள்வதில் மாத்திரமே தடையாக இருந்ததாக அரசாங்கத்தின் சிரேஷ்ட அமைச்சர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/263f27a4.json)
+
+---
+
+### 22% of Sri Lankan households in debt due to economic crisis - survey
+
+*2024-07-25 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100769/22-of-sri-lankan-households-in-debt-due-to-economic-crisis-survey) · `en`
+
+Approximately 22 percent of household units in Sri Lanka are in debt due to the recent economic crisis, according to Department of Census and Statistics.
+
+The department points out that the average monthly income of 60.5 percent of the total household units have decreased.
+
+The information has been revealed according to the 2023 report of the ‘Household survey on Impact of Economic crisis’.
+
+According to Department of Census and Statistics, 54.9 percent of people aged between 03 and 21 years have been affected by the economic crisis and 93.5 percent of them have adopted strategies to reduce the impact.
+
+Due to the impact of the economic crisis, 14.2 percent of people over the age of 15 years have suffered job loss since March 2022, and it is reported that the percentage of job losses is higher for males compared to female.
+
+...
+
+[Data](articles/7457f61a.json)
+
+---
+
+### Hurricane, severe effects Taiwan
 
 *2024-07-25 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199202) · `si`
 
-උතුරු තායිවානයට බලපා ඇති 'Gaemi' සුළි කුණාටුව නිසා සමහර ප්‍රදේශවල ගංවතුර ඇතිවී ඇති බව වාර්තා වෙයි.
+The 'GAEMI' cyclone has caused severe flooding in parts of North Taiwan, resulting in three deaths and a shipwreck. This is the most devastating hurricane to hit Taiwan in eight years. It is expected to move towards Taiwan and then into China's Fujian Province.
 
-ඉන් තිදෙනෙක් මියගොස් ඇති අතර සුළි කුණාටුව හේතුවෙන් භාණ්ඩ ප්‍රවාහන නෞකාවක් ද දියේ ගිලී ගොස් තිබුණි.
+🟩
 
-වසර 8කින් තායිවානයට බලපෑ දරුණුතම සුළි කුණාටුව මෙය ලෙස සැලකෙයි.
+It is reported that there have been floods in some areas due to the 'GAEMI' cyclone affected by North Taiwan.
 
-තායිවානය හරහා ගොස් එම සුළි කුණාටුව චීනයේ ෆුජිආන් පළාතට ඇතුළු වීමට නියමිතය.
+Three of them were killed and a carrier of carrier had dropped.
+
+This is the worst hurricane that was affected by Taiwan in eight years.
+
+The hurricane is due to enter Taiwan and enter the Fujian Province of China.
 
 ◼️
 
 [Data](articles/a5a05a86.json)
+
+[Extended Data](ext_articles/a5a05a86.ext.json)
 
 ---
 
@@ -61,6 +105,8 @@ The Appeals Court yesterday (24) issued this interim order, effective until Augu
 ◼️
 
 [Data](articles/a1161a19.json)
+
+[Extended Data](ext_articles/a1161a19.ext.json)
 
 ---
 
@@ -129,6 +175,18 @@ Parliament met on Thursday (25) headed by Deputy Speaker. Following the main pro
 [Data](articles/90b36c5d.json)
 
 [Extended Data](ext_articles/90b36c5d.ext.json)
+
+---
+
+### නුවන් තුෂාරට ඉන්දීය තරගාවලිය අහිමි වෙයි
+
+*2024-07-25 15:43:45* · [`adalk`](https://www.ada.lk/breaking_news/නුවන්-තුෂාරට-ඉන්දීය-තරගාවලිය-අහිමි-වෙයි/11-410995) · `si`
+
+ඉන්දියාව සමග පැවැත්වෙන විස්සයි විස්ස තරගාවලියට නම් කළ සංචිතයේ සිටි නුවන් තුෂාර  ආබාධයක් හේතුවෙන් එම තරගාවලියට ක්‍රීඩා නොකරන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි. තරගාවලියට පුහුණුවීම් අතරතුරදී ඔහුගේ වම් මහපට ඇඟිල්ල බිඳී යාම ඊට හේතුවයි. තුෂාරගෙන් හිස්වන කණ්ඩායමේ ස්ථානයට වමත් වේග පන්දු යවන ක්‍රීඩක දිල්ෂාන් මදුශංක කැඳවා ඇත. තරග තුනකින් යුත් ඉන්දු - ශ්‍රී ලංකා විස්සයි20 තරගාවලිය හෙට (27දා) සිට එළඹෙන 30 දා දක්වා පැවැත්වේ.
+
+◼️
+
+[Data](articles/e4eb8713.json)
 
 ---
 
@@ -2263,77 +2321,5 @@ NDB’s risk profil remains tied to the credit and market risk of the sovereign,
 [Data](articles/cc2d8147.json)
 
 [Extended Data](ext_articles/cc2d8147.ext.json)
-
----
-
-### The announcement of the election date will be released on Friday
-
-*2024-07-25 05:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திகதி-அறிவிப்பு-வெள்ளி-வெளியாகும்/175-340987) · `ta`
-
-The Election Commission will announce the presidential election date tomorrow (26) at midnight.
-
-🟩
-
-The Election Commission sources said that the presidential election will be announced tomorrow (26) at midnight.
-
-◼️
-
-[Data](articles/a9ea007e.json)
-
-[Extended Data](ext_articles/a9ea007e.ext.json)
-
----
-
-### Wickremabahu Karunaratne: The famous and obscure information of hidden scientists hidden due to politics
-
-*2024-07-25 05:06:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c728q1pvpy7o) · `si`
-
-Wickremabahu Karunaratne, a Sri Lankan polymath known for both his scientific contributions and political involvement, passed away at 81. Born in Lunugala, he pursued education in electrical engineering, eventually earning a PhD from Cambridge University. His political career began in 1962 with the Ceylon Sama Samaja Party, facing expulsion in 1972. Notably, he played a significant role in the 1983 strike and later represented the Left Front in the 2010 presidential election. Despite his academic achievements and contributions to science, particularly in theoretical physics alongside Stephen Hawking, Karunaratne faced professional setbacks, including losing his lecturing position at Peradeniya University. His legacy in both fields remains influential in Sri Lanka.
-
-🟩
-
-Wickremabahu Karunaratne: The famous and obscure information of hidden scientists hidden due to politics
-
-The 'Bahrabahu', a 'Bahra', is called 'Bahra', is called 'Bahra' as' brand "in the Sri Lankan political field, was heard at the agency not only from politics.
-
-81 year old he passed away while receiving treatment at the Colombo National Hospital.
-
-Professor Wickremabahu Karunaratne is a Sri Lankan with a unique personality in two subjects.
-
-The purpose of this article is also revealed not only his political journey but also about the trajectory of a scientist who was dissolved in the world.
-
-Wickremabahu Karunaratne was born in Lunugala, a remote area from Badulla to 42 kilometers from Badulla. His parents had served in the Lunugala, the teaching profession.
-
-Later, his parents moved to the Matugama area in Kalutara, and Wickremabahu's primary education began with the Ananda Flaude in Matugama.
-
-...
-
-[Data](articles/14df39b5.json)
-
-[Extended Data](ext_articles/14df39b5.ext.json)
-
----
-
-### Sajith demands immediate compensation for enforced COVID-19 cremations
-
-*2024-07-25 04:58:00* · [`dailyftlk`](https://www.ft.lk/news/Sajith-demands-immediate-compensation-for-enforced-COVID-19-cremations/56-764733) · `en`
-
-Opposition leader Sajith Premadasa welcomes Cabinet’s decision to issue an apology but says an apology alone is insufficient
-
-Criticises former President Gotabhaya Rajapaksa’s Cabinet Ministers for supporting the policy
-
-Calls for a thorough investigation into the decision-making process and naming of those responsible
-
-Emphasises importance of transparency and accountability to ensure justice for the affected Muslim community
-
-Opposition leader Sajith Premadasa has welcomed the Cabinet’s decision to issue an apology for the mandatory cremation of COVID-19 victims during the pandemic. However, he emphasised that an apology alone is insufficient and proposed that compensation be paid to those affected by the controversial decision.
-
-Speaking in Parliament yesterday Premadasa said, “You cannot get away by tendering an apology. Compensation should be paid to those who were affected.”
-
-...
-
-[Data](articles/18d72a64.json)
-
-[Extended Data](ext_articles/18d72a64.ext.json)
 
 ---

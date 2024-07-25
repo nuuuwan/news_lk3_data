@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 09:35:56**
+As of **2024-07-25 09:55:27**
 
 ## Newspaper Stats
 
-*Scraped **37,124** Articles*
+*Scraped **37,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,118 @@ adalk | 3,368
 adaderanalk | 4,293
 tamilmirrorlk | 4,568
 dailymirrorlk | 4,733
-virakesarilk | 5,821
-adaderanasinhalalk | 6,230
+virakesarilk | 5,824
+adaderanasinhalalk | 6,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,121 (100.0%) of 37,124 articles have been extended.
+37,124 (100.0%) of 37,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### ஜனாதிபதித் தேர்தல் ; முக்கிய தீர்மானத்திற்காக இன்று கூடுகிறது தேர்தல்கள் ஆணைக்குழு
+
+*2024-07-25 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189314) · `ta`
+
+2024 ஆம் ஆண்டு  ஜனாதிபதித் தேர்தல் தொடர்பில் கலந்துரையாடி தேர்தலுக்கான திகதியை அறிவிப்பதற்காக தேர்தல்கள் ஆணைக்குழு இன்று வியாழக்கிழமை (25) கூடவுள்ளது.
+
+இதேவேளை, இன்னும் ஓரிரு தினங்களில் ஜனாதிபதி தேர்தல் தொடர்பிலான அறிவிப்பை தேர்தல் ஆணைக்குழு வெளியிடும் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8f4b67bd.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-07-25 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199188) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+
+රාජ්‍ය මුල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්ථන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදය අද සිදුකිරීමට නියමිත ව ඇත.
+
+අද පෙරවරු 9.30සිට පස්වරු 5.30 දක්වා ඊට අදාළ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මෙම විවාදය සඳහා වැඩි කාලයක් ලබා දීමේ අරමුණින් අද දින වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සහ සභාව කල්තබන අවස්ථාවේ ප්‍රශ්න සලකා නොබැලීමට ද තීරණය වී තිබේ.
+
+රාජ්‍ය මුල්‍ය කළමනාකරන සහ ආර්ථික පරිවර්ථන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදයෙන් අනතුරුව එය සම්මත කර ගැනීමට බලාපොරොත්තු වන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d66f727f.json)
+
+---
+
+### ඉන්ධන ප්‍රවාහන නෞකාවක් මුහුදේ ගිලෙයි
+
+*2024-07-25 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199187) · `si`
+
+කර්මාන්ත සඳහා යොදාගන්නා ඉන්ධන ලීටර් මිලියන 1.5ක් ප්‍රවාහනය කරමින් තිබූ නෞකාවක් පිලිපීනය ආසන්න මුහුදේ ගිලී ගොස් තිබේ.
+
+ඒ හේතුවෙන් අවට මුහුදු කලාපයේ, විශාල තෙල් පැල්ලම් දක්නට ලැබෙන බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එම නෞකාවේ සිටි කාර්ය මණ්ඩලයේ 17 දෙනාගෙන් 16 දෙනෙකුව නිරුපද්‍රිතව බේරාගැනීමට සහන කණ්ඩායම් සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/ea615979.json)
+
+---
+
+### பஷில் ராஜபக்ஷ ஜனாதிபதியிடம் வலியுறுத்தியுள்ள முக்கிய விடயம் !
+
+*2024-07-25 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189315) · `ta`
+
+இடைக்கால அரசாங்கத்தில் பிரதமர் பதவியை தமது கட்சியான பொதுஜன பெரமுனவுக்கு வழங்க வேண்டும் பஷில் ராஜபக்‌ஷ ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் வலியுறுத்தியுள்ளார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் பொதுஜன பெரமுனவின் ஆதரவு வேண்டுமாயின் இடைக்கால அரசாங்கத்தில் பிரதமர் பதவியை தமது கட்சிக்கு வழங்க வேண்டும் பஷில் ராஜபக்ஷ ஜனாதிபதியிடம் வலியுறுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2f5eac94.json)
+
+---
+
+### Vikramabahu Karunaratne passed away
+
+*2024-07-25 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189311) · `ta`
+
+Dr. Wickramabahu Karunaratne, a prominent figure in Sri Lanka's political landscape, passed away at 81. Known for his long-term involvement in politics, he ran as a presidential candidate in 2010. Alongside Vasudeva Nanayakkara, he co-founded the New Social Equality Party in 1977, leaving a significant legacy in Sri Lankan politics.
+
+🟩
+
+Dr. Wickramabahu Karunaratne, the leader of the Nava Sama Samaja Pakshaya NSSP, has passed away at the age of 81.
+
+Karunaratne became a candidate in the 2010 presidential election. He has a long -term experience in Sri Lankan politics.
+
+In 1977, Vasudeva joined the LSSP, including Vasudeva Nanayakkara, to the establishment of the Navsamasama Party (New Social Equality Party), with other former members of the LSSP, including Nanayakkara.. His contributions on Sri Lankan politics have had a lasting impact.
+
+◼️
+
+[Data](articles/aafe1a3a.json)
+
+[Extended Data](ext_articles/aafe1a3a.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் வேட்பாளராக களமிறங்குவேன் - பீல்ட் மார்ஷல் சரத் பொன்சேகா
+
+*2024-07-25 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/189313) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதி தேர்தலில் களமிறங்குவேன் என முன்னாள் இராணுவத் தளபதியும், பாராளுமன்ற உறுப்பினருமான பீல்ட் மார்ஷல் சரத் பொன்சேகா அறிவித்துள்ளார்.
+
+இதனை அவர் இன்று வியாழக்கிழமை (25) அதிகாலை தனது உத்தியோகபூர்வ எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e6dc2911.json)
+
+---
 
 ### Sarath Fonseka officially announces candidacy for 2024 Presidential Election
 
@@ -60,39 +160,23 @@ In a subsequent post shortly after, he then officially announced that he will be
 
 ---
 
-### அரசு ஊழியர்களுக்கு விசேட விடுமுறை
+### Special holiday for civil servants
 
 *2024-07-25 08:55:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-ஊழியர்களுக்கு-விசேட-விடுமுறை/175-340993) · `ta`
 
-கடந்த மே மற்றும் ஜூன் மாதங்களில் ஏற்பட்ட வெள்ளம், நிலச்சரிவு உள்ளிட்ட காரணங்களால் பணிக்கு வராமுடியாமல் போன அரசு ஊழியர்களுக்கு விசேட விடுமுறை அளிக்க அரசாங்கம் முடிவு செய்துள்ளது.
+Government grants special holidays to civil servants affected by floods and landslides in May-June in specific districts including Colombo, Kalutara, Gampaha, among others.
 
-கொழும்பு, களுத்துறை, கம்பஹா, காலி, மாத்தறை, ஹம்பாந்தோட்டை, புத்தளம், குருநாகல், பொலன்னறுவை, கேகாலை மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் உள்ள அரச அதிகாரிகளுக்கு இந்த விசேட விடுமுறை வழங்கப்படவுள்ளது. R
+🟩
+
+The government has decided to give special holidays to civil servants who have not been able to work due to floods and landslides in May and June.
+
+The special holiday will be given to government officials in the districts of Colombo, Kalutara, Gampaha, Galle, Matara, Hambantota, Puttalam, Kurunegala, Polonnaruwa, Kegalle and Ratnapura districts.. Remble
 
 ◼️
 
 [Data](articles/d7118f7c.json)
 
----
-
-### Vikramabahu Karunaratne passed away
-
-*2024-07-25 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189311) · `ta`
-
-Dr. Wickramabahu Karunaratne, a prominent figure in Sri Lanka's political landscape, passed away at 81. Known for his long-term involvement in politics, he ran as a presidential candidate in 2010. Alongside Vasudeva Nanayakkara, he co-founded the New Social Equality Party in 1977, leaving a significant legacy in Sri Lankan politics.
-
-🟩
-
-Dr. Wickramabahu Karunaratne, the leader of the Nava Sama Samaja Pakshaya NSSP, has passed away at the age of 81.
-
-Karunaratne became a candidate in the 2010 presidential election. He has a long -term experience in Sri Lankan politics.
-
-In 1977, Vasudeva joined the LSSP, including Vasudeva Nanayakkara, to the establishment of the Navsamasama Party (New Social Equality Party), with other former members of the LSSP, including Nanayakkara.. His contributions on Sri Lankan politics have had a lasting impact.
-
-◼️
-
-[Data](articles/aafe1a3a.json)
-
-[Extended Data](ext_articles/aafe1a3a.ext.json)
+[Extended Data](ext_articles/d7118f7c.ext.json)
 
 ---
 
@@ -148,21 +232,27 @@ Leader of the Nawa Sama Samaja Party (NSSP), Dr. Vickramabahu Karunaratne has pa
 
 ---
 
-### ’விவசாயிகளை அரசியல் கையாட்களாக்க முடியாது’
+### Model Farmers cannot be politicized
 
 *2024-07-25 08:20:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளை-அரசியல்-கையாட்களாக்க-முடியாது/175-340992) · `ta`
 
-உள்நாட்டு விவசாயத்தை ஊக்குவிப்பதற்காக தற்போதைய அரசாங்கத்தினால் ஆரம்பிக்கப்பட்டுள்ள திட்டமிடப்பட்ட விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் காரணமாக இனிமேல் விவசாயிகளை அரசியல் கையாட்களாக்க முடியாது என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+Mahinda Amaraweera, Minister of Agriculture, asserts that the government's agricultural modernization program prevents farmers from being politically exploited. He highlights how past farmer issues were turned into political slogans, leading to various struggles. However, with the new program aimed at boosting domestic agriculture, such political manipulation is no longer feasible.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று  நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-கடந்த காலங்களில் விவசாயிகளின் பிரச்சினைகள் அரசியல் கோசங்களாக மாற்றப்பட்டுள்ளன. அது பல்வேறு போராட்டங்களுக்கு அவர்களைத் தூண்டியது.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that due to the planned agricultural modernization program launched by the current government to promote domestic agriculture, farmers can no longer be politically manipulated.
 
-ஆனால், தற்போதைய அரசாங்கம் உள்நாட்டு விவசாயத்தை மேம்படுத்துவதற்காகத் தொடங்கியுள்ள விவசாய நவீனமயமாக்கல் திட்டத்தின் காரணமாக தொடர்ந்தும் விவசாயிகளை அரசியல் கையாட்களாக மாற்ற முடியாது என்றார். (a)
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+The problems of peasants in the past have been converted into political slogans. It inspired them to various struggles.
+
+But the current government cannot continue to make farmers into political manipulation due to the agricultural modernization program that has begun to improve domestic agriculture.. (A)
 
 ◼️
 
 [Data](articles/e46813fb.json)
+
+[Extended Data](ext_articles/e46813fb.ext.json)
 
 ---
 
@@ -377,26 +467,6 @@ The cabinet assigned to the proposal yesterday (24) has been granted approval.
 [Data](articles/bad20a85.json)
 
 [Extended Data](ext_articles/bad20a85.ext.json)
-
----
-
-### Fitch confirms ‘A-(lka)’ domestic rating of Nations Trust Bank Plc
-
-*2024-07-25 06:30:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-nations-trust-bank-plc-173621/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it was confirming an A-(lka) rating on Sri Lanka’s Nations Trust Bank Plc (NTB) with a Stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
-
-NTB’s risk profile remains exposed to the defaulted foreign currency-denominated sovereign bonds (1.8% of assets at end-2023), alongside a further 34.7% of assets in local-currency-denominated government securities, the rating agency said.
-
-“We expect the envisaged loan-book growth to support NTB’s impaired (stage 3) loans ratio improvement over the medium term alongside economic stabilisation, but risks to asset quality are likely as new loans season,” Fitch said.
-
-Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed the National LongTerm Rating of Nations Trust Bank PLC (NTB) at ‘A-(lka)’. The Outlook is Stable. Fitch has also affirmed NTB’s Sri Lankan rupee-denominated outstanding subordinated debt at ‘BBB(lka)’.
-
-...
-
-[Data](articles/46bc8f6b.json)
-
-[Extended Data](ext_articles/46bc8f6b.ext.json)
 
 ---
 
@@ -1532,21 +1602,29 @@ The court has already issued an order on the temple issue and pointed out that t
 
 ---
 
-### ගුරු විදුහල්පතිවරු වෘත්තීය ක්‍රියාමාර්ග දැඩි කිරීමට යයි
+### Teacher principals to be intensifying proceedings
 
 *2024-07-24 18:45:12* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පතිවරු-වෘත්තීය-ක්‍රියාමාර්ග-දැඩි-කිරීමට-යයි/11-410975) · `si`
 
-ගුරු විදුහල්පතිවරුන්ට හා දෙමාපියන්ට ඇති වී තිබෙන ගැටලුවලට ලබන මස 02වන දින වන විට විසඳුම් නොලැබුණහොත් වෘත්තීය ක්‍රියාමාර්ග දැඩි කිරීමට කටයුතු කරන බව ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+The Gururu Pr Schools Union Alliance plans to resolve issues by the 2nd of next month, starting from the 22nd of this month. The Lanka Teachers' Service Association aims to discuss union resolutions, including teacher salaries and school maintenance, despite the subjects of time and holidays being ineligible.
 
-අදාළ ගැටලු විසඳන ලෙස ඉල්ලා මේ මස 22වැනි දින සිට අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයක් ආරම්භ කර තිබෙන බවත් මෙම ක්‍රියාමාර්ගය ලබන මස 02වන දින දක්වා ක්‍රියාත්මක කිරීමට කටයුතු කරන බවද එම සන්ධානයේ සාමාජික ලංකා ගුරු සේවා සංගමයේ ලේකම් ජෝශප් ස්ටාලින් මහතා සඳහන් කළේය.
+🟩
 
-අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගය ආරම්භ කර දින 03ක කාලයක් ගත වී තිබුණත් අදාළ ගැටලු විසඳීම පිළිබඳව වෘත්තීය සමිති සමග බලධාරීන් සාකච්ඡාවක්වත් පවත්වා නොමැති බවත් මෙවර ගැටලු විසඳීමට කටයුතු නොකළහොත් 02වන දිනෙන් පසු වැඩවර්ජන විරෝධතා ඇතුළු වෘත්තීය ක්‍රියාමාර්ග සිදු කිරීමට සැලසුම් කර තිබෙන බවද පැවසීය.
+Gururu Pr Schools Union Alliance states that the problems that have been resolved by the 2nd of next month.
 
-අකුරට වැඩ කිරීම යටතේ පාසල් වේලාවෙන් පසුද, සතිඅන්තයේ දිනවල හා නිවාඩු දිනවලද විෂය පරිබාහිර කටයුතු සිදුනොකරන බවත් වට්ස්ඇප් සමූහ හරහා බලධාරීන් සමග රාජකාරි කටයුතු සිදුකිරීමේ කටයුතුවලින්ද ඉවත්ව සිටින බවද සඳහන් කළේය.
+The Alliance Service Association (UPFA) member Lanka Teachers' Service Association Secretary Joseph Stalin said that the program was initiated from the 22nd of this month.
 
-...
+Although the trade unions have been planned for a period of three days, it has been planned to conduct a discussion with the union resolutions regarding the settlement of the trade union action.
+
+According to the preciting work, the subject of time and holidays, the subject of schools and holidays, said that the subject is not eligible.
+
+The program is demanding the maintenance of the two-thirds under the resolution of teachers' salary anomalies and to maintain a program to maintain a school-maintenance program.
+
+◼️
 
 [Data](articles/562b36ac.json)
+
+[Extended Data](ext_articles/562b36ac.ext.json)
 
 ---
 
@@ -2179,87 +2257,5 @@ Accordingly, the Cabinet meeting is reportedly currently underway at the Preside
 [Data](articles/a47e2c3a.json)
 
 [Extended Data](ext_articles/a47e2c3a.ext.json)
-
----
-
-### Japan officially announces release of funds to resume projects in Sri Lanka
-
-*2024-07-24 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100747/japan-officially-announces-release-of-funds-to-resume-projects-in-sri-lanka) · `en`
-
-The Japanese government today officially announced the release of funds for the resumption of development projects undertaken in Sri Lanka.
-
-A special press conference to officially announce the release of funds for restarting the projects was held today (24) at the Auditorium of the Ministry of Finance.
-
-The official announcement of Dr. TANAKA Akihiko, President of Japan International Cooperation Agency (JICA) on the resumption of the disbursement was handed over to Mr. K.M. Mahinda Siriwardana, Secretary to the Treasury and the Ministry of Finance, Economic Stabilization and National Policies, by Ms. IDE Yuri, Senior Representative of the JICA Sri Lanka Office.
-
-...
-
-[Data](articles/94d5b3a7.json)
-
-[Extended Data](ext_articles/94d5b3a7.ext.json)
-
----
-
-### President summoned emergency cabinet meeting
-
-*2024-07-24 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199164) · `si`
-
-President Ranil Wickremesinghe convened an urgent cabinet meeting on April 24th.
-
-🟩
-
-It is reported that President Ranil Wickremesinghe has been summoned by an emergency cabinet meeting today (24).
-
-◼️
-
-[Data](articles/896418a4.json)
-
-[Extended Data](ext_articles/896418a4.ext.json)
-
----
-
-### Sri Lanka to have special cabinet meeting
-
-*2024-07-24 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-special-cabinet-meeting-173596/) · `en`
-
-ECONOMYNEXT – Sri Lanka is to hold a special cabinet meeting on Wednesday sources said.
-
-The move comes after the Supreme Court gave an interim order suspending the police chief’s appointment. (Colombo/Jul24/2024)
-
-◼️
-
-[Data](articles/3c54ea2b.json)
-
-[Extended Data](ext_articles/3c54ea2b.ext.json)
-
----
-
-### India declines taxes on gold and silver
-
-*2024-07-24 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199163) · `si`
-
-India's new government reduces gold and silver import taxes to curb illegal imports, aiming to support employment, small businesses, and the middle class while preparing for future economic reforms. This move, expected to lower domestic gold prices, follows India's status as the world's second-largest gold consumer.
-
-🟩
-
-Indian Prime Minister Narendra Modi's new UPFA government presented his wedding budget yesterday (24).
-
-The Minister of Finance, Minister of India, presenting the new government budget, stated that this Budget has paid special attention to employment and training, small business and middle class.
-
-She said that the Economic Policy Framework presented by this Budget was prepared for the next generation reforms.
-
-Accordingly, this year's budget is the decline in gold and silver imports.
-
-The second largest golden consumer in the world, India, India, has taken this step as a measure of stopping gold to India illegally.
-
-It is reported that India can increase the 15% import tax on India to 6% import tax on the gold and silver.
-
-As a result, gold prices in India have already decreased and gold prices are high in the global market.
-
-◼️
-
-[Data](articles/44f322de.json)
-
-[Extended Data](ext_articles/44f322de.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 14:20:26**
+As of **2024-07-25 14:35:48**
 
 ## Newspaper Stats
 
-*Scraped **37,193** Articles*
+*Scraped **37,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,224
 dailyftlk | 2,375
 adalk | 3,376
 adaderanalk | 4,302
-tamilmirrorlk | 4,583
+tamilmirrorlk | 4,584
 dailymirrorlk | 4,733
 virakesarilk | 5,836
 adaderanasinhalalk | 6,241
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,241
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,193 (100.0%) of 37,193 articles have been extended.
+37,193 (100.0%) of 37,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### ஜனாதிபதித் தேர்தல்: நாளை வர்த்தமானி
+
+*2024-07-25 14:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-நாளை-வர்த்தமானி/175-341016) · `ta`
+
+2024 ஆம் ஆண்டுக்கான ஜனாதிபதி தேர்தல் நடைபெறும் திகதி நாளை வெள்ளிக்கிழமை (26) அறிவிக்கப்படும் என தேர்தல் ஆணைக்குழு தெரிவத்துள்ளது.
+
+இந்நிலையில், ஜனாதிபதி தேர்தல் வாக்கெடுப்பு திகதி மற்றும் ஏனைய தீர்மானங்கள் குறித்து தனிப்பட்ட தரப்பினர் குறிப்பிடும் கருத்துக்கும், ஆணைக்குழுவுக்கும் எவ்வித தொடர்பும் கிடையாது எனவும் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/5f100156.json)
+
+---
 
 ### Interim banned order for Thilanga
 
@@ -58,7 +72,13 @@ The Court of Appeal issued the order after considering a Rit petition filed by M
 
 The Elections Commission of Sri Lanka says that the Gazette notification regarding the announcement of the Presidential Election date will be published tomorrow (26).
 
-◼️
+Issuing a statement, the Election Commission said that during its meeting which was convened today the members of the commission decided to publish the Extraordinary Gazette notification on July 26, 2024 (Friday) announcing the date of publishing the order for the election of a president, the date and location of accepting nominations for the election and the date of the Presidential Election.
+
+The statement further states that the Election Commission is not responsible for the statements made by various individuals and parties regarding the date of the Presidential Election and other constitutional duties.
+
+The National Election Commission had convene a meeting today (25) to finalize the date for the upcoming Presidential Election and the date for the calling of nominations.
+
+...
 
 [Data](articles/21bf94bb.json)
 
@@ -2205,35 +2225,5 @@ Accumulation of severe debt is a global phenomenon. If we think that Ranil and I
 [Data](articles/f4f2c348.json)
 
 [Extended Data](ext_articles/f4f2c348.ext.json)
-
----
-
-### How is the black money of the sudden bear?
-
-*2024-07-25 01:53:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cldy1p1egx1o) · `si`
-
-Black money, earned from illicit activities like drugs, terrorism, and gambling, poses significant challenges to economies worldwide due to its impact on financial systems and economic stability. Money laundering, a method to legitimize these funds, distorts economic indicators, undermines tax revenues, and creates unfair competition in markets. Countries like Sri Lanka combat this through legislation, including the Prevention of Money Laundering Act (No. 5 of 2006) and the Terrorism (Prevention, Prohibition, Suppression and Control) Act (No. 25 of 2005), imposing hefty fines and long prison sentences for offenders. Despite efforts, the issue remains critical, affecting societal trust and economic growth.
-
-🟩
-
-Media media contained the media over the past to take into custody in line with the operation of the police to suppress the poisonous drug and the underworld.
-
-In this regard, there is more conversation in the recent society with a demonstrate artist Liquetter, Lady Hansalai's assets.
-
-In the money bleeding of black money, the clients and their families are always accused of dealers and their families as Paper in Sri Lanka and the people of Sri Lanka and their families.
-
-In the misuse of social and assets, the black money has a welcomed cash laundering and the influence of the country has been investigating the economy of the country.
-
-The money earned by terrorist activities, drug trafficking, extortion or gaming is the black money. That money is known as black money because they are not legal.
-
-Due to the equipment, not legitimate, it is difficult to be credited to a bank account or legally enabling.
-
-Therefore, money is laundering and it is a serious financial crime.
-
-...
-
-[Data](articles/bcfec243.json)
-
-[Extended Data](ext_articles/bcfec243.ext.json)
 
 ---

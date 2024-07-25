@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 09:06:13**
+As of **2024-07-25 09:20:17**
 
 ## Newspaper Stats
 
-*Scraped **37,119** Articles*
+*Scraped **37,121** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 323
 colombotelegraphcom | 351
-bbccomsinhala | 362
+bbccomsinhala | 363
 newsfirstlk | 363
 islandlk | 2,118
 economynextcom | 2,221
 dailyftlk | 2,372
 adalk | 3,367
-adaderanalk | 4,292
+adaderanalk | 4,293
 tamilmirrorlk | 4,566
 dailymirrorlk | 4,733
 virakesarilk | 5,821
@@ -26,25 +26,57 @@ adaderanasinhalalk | 6,230
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,116 (100.0%) of 37,119 articles have been extended.
+37,119 (100.0%) of 37,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### நவ சமசமாஜ கட்சியின் தலைவர் விக்ரமபாகு கருணாரத்ன காலமானார்
+### Sarath Fonseka officially announces candidacy for 2024 Presidential Election
+
+*2024-07-25 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100757/sarath-fonseka-officially-announces-candidacy-for-2024-presidential-election-) · `en`
+
+Field Marshal Sarath Fonseka today formally announced his candidacy for the upcoming Presidential Election.
+
+Posting on ‘X’ (formerly Twitter), the parliamentarian had said that he will be making a key announcement with regards to the presidential election of Sri Lanka.
+
+“A lot of people have asked me to contest for the presidential election and I am looking forward to accepting the call of the people of Sri Lanka,” he said.
+
+In a subsequent post shortly after, he then officially announced that he will be contesting the 2024 Presidential Election.
+
+“I wish to announce my Presidential Candidacy to the people of Sri Lanka.”
+
+“For 76 years, we have been led by an inept political group that has led us to bankruptcy,” he said, adding that for Sri Lanka to grow, “we need to Crush Corruption”.
+
+“We need to leverage our natural resources to boost income generation.”
+
+“This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election,” he added.
+
+...
+
+[Data](articles/6b611af5.json)
+
+---
+
+### Vikramabahu Karunaratne passed away
 
 *2024-07-25 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189311) · `ta`
 
-நவ சமசமாஜ கட்சியின் (Nava Sama Samaja Pakshaya NSSP) தலைவர் கலாநிதி விக்ரமபாகு கருணாரத்ன தனது 81 ஆவது வயதில் காலமாகியுள்ளார்.
+Dr. Wickramabahu Karunaratne, a prominent figure in Sri Lanka's political landscape, passed away at 81. Known for his long-term involvement in politics, he ran as a presidential candidate in 2010. Alongside Vasudeva Nanayakkara, he co-founded the New Social Equality Party in 1977, leaving a significant legacy in Sri Lankan politics.
 
-கருணாரத்ன 2010 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் வேட்பாளராக களமிறங்கினார். அவர் இலங்கை அரசியலில் நீண்டகால அனுபவம் கொண்டவர்.
+🟩
 
-1977 இல், நவசமசமாஜக் கட்சியை (புதிய சமூக சமத்துவக் கட்சி) ஸ்தாபிப்பதற்காக வாசுதேவ நாணயக்கார உட்பட லங்கா சமசமாஜக் கட்சியின் (LSSP) மற்ற முன்னாள் உறுப்பினர்களுடன் இணைந்து கொண்டார். இலங்கையின் அரசியலில் அவரது பங்களிப்புகள் நீடித்த தாக்கத்தை ஏற்படுத்தியுள்ளன.
+Dr. Wickramabahu Karunaratne, the leader of the Nava Sama Samaja Pakshaya NSSP, has passed away at the age of 81.
+
+Karunaratne became a candidate in the 2010 presidential election. He has a long -term experience in Sri Lankan politics.
+
+In 1977, Vasudeva joined the LSSP, including Vasudeva Nanayakkara, to the establishment of the Navsamasama Party (New Social Equality Party), with other former members of the LSSP, including Nanayakkara.. His contributions on Sri Lankan politics have had a lasting impact.
 
 ◼️
 
 [Data](articles/aafe1a3a.json)
+
+[Extended Data](ext_articles/aafe1a3a.ext.json)
 
 ---
 
@@ -63,6 +95,8 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 ◼️
 
 [Data](articles/1d55dd69.json)
+
+[Extended Data](ext_articles/1d55dd69.ext.json)
 
 ---
 
@@ -412,6 +446,8 @@ WNPS said Dr. McManus, a global expert in human-wildlife conflict mitigation, wi
 
 [Data](articles/3bd6ac78.json)
 
+[Extended Data](ext_articles/3bd6ac78.ext.json)
+
 ---
 
 ### WNPS lecture on “Leopards” tomorrow by South African ecologist
@@ -731,6 +767,24 @@ Accumulation of severe debt is a global phenomenon. If we think that Ranil and I
 [Data](articles/f4f2c348.json)
 
 [Extended Data](ext_articles/f4f2c348.ext.json)
+
+---
+
+### හිටිහැටියේ කෝටිපතියන් බිහි කරන කළු සල්ලි සුදු වෙන්නේ කොහොමද?
+
+*2024-07-25 01:53:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cldy1p1egx1o) · `si`
+
+විෂ මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීමට පොලිසිය ක්‍රියාත්මක කරමින් සිටින යුක්තිය මෙහෙයුමට සමගාමීව නීති විරෝධි ලෙස උපයාගත් ධනය පොලිස් භාරයට ගන්නා ආකාරය සම්බන්ධයෙන් පසුගිය දිනවල දී මාධ්‍ය ඔස්සේ දක්නට ලැබුණි.
+
+මේ සම්බන්ධයෙන් මෑතකාලීන සමාජය තුළ වැඩි කතාබහක් ඇති වුයේ නිරූපණ ශිල්පිනියක වන පියුම් හංසමාලි ගේ වත්කම් සම්බන්ධව ආරම්භ වූ විමර්ශනයත් සමඟම ය.
+
+කළු සල්ලි සුදු කිරීම හෙවත් මුදල් විශුද්ධිකරයේ දී සෑම විටම ජාවාරම්කරුවන්ට මෙන්ම දේශපාලකයන්ට හා ඔවුන්ගේ පවුල්වල උදවියට ද චෝදනා එල්ලවන අතර පැනමා සහ පැන්ඩෝරා පේපර් ලෙස ලෝකය පුරා මුදල් විශුද්ධිකරණයට සම්බන්ධ පුද්ගලයන් ගැන හෙළිදරව් කළ අවස්ථාවේ දී මෙරට දේශපාලකයන් හා ඔවුන්ගේ පවුල්වල අයවලුන් ද ඊට සම්බන්ධ යැයි හෙළි විය.
+
+අයථා ක්‍රමවලින් මුදල් හා වත්කම් ඉපයීම සම්බන්ධව සමාජයේ කතා බහක් ඇති වී තිබෙන මෙවන් මොහොතක කලු සල්ලි සුදු කිරිම හෙවත් මුදල් විශුද්ධිකරණය පිළිබඳව මෙන්ම ඒ හරහා රටේ ආර්ථිකයට වන බලපෑම් සම්බන්ධයෙන් බීබීසි සිංහල සොයා බැලීමක් කළේය.
+
+...
+
+[Data](articles/bcfec243.json)
 
 ---
 
@@ -2221,53 +2275,5 @@ The 22nd Amendment of the Political Ceylon has been urgently introduced.
 [Data](articles/a03423de.json)
 
 [Extended Data](ext_articles/a03423de.ext.json)
-
----
-
-### Minister Siyambalapitiya
-
-*2024-07-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189276) · `ta`
-
-Finance Minister Dr. Ranjith Siyambalapitiya announced readiness to audit and manage over 1,600 state-owned companies' assets, including 91,000 vehicles, emphasizing sustainability and efficiency. The Cabinet approved his proposal, aiming to enhance the economy through better asset management and legal reforms conducive to exports and foreign investments.
-
-🟩
-
-Finance Minister Dr. Ranjith Siyambalapitiya said that he is ready to investigate the assets of all state institutions in Sri Lanka through the Management Act and bring it under proper management.. The Minister pointed out that more than 1600 government -owned companies have and their assets have not been properly managed.
-
-The Minister said that there are about 91,000 vehicles in the companies and that the government is ready to provide more attention to the sustainable assets and manage them properly.
-
-The Cabinet has approved the bill, which was put forward as the Finance Minister by President Ranil Wickremesinghe.
-
-Meanwhile, the debate on the Economic Change Bill, which has previously been submitted to Parliament, will be discussed tomorrow (25). The Minister pointed out that many measures have been taken to improve the quality of life of the people.
-
-...
-
-[Data](articles/d39a17a4.json)
-
-[Extended Data](ext_articles/d39a17a4.ext.json)
-
----
-
-### Triitary Mahanayaka Theros protest against the Samarawansa Bill
-
-*2024-07-24 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199162) · `si`
-
-The Triitary Mahanayaka Theros protested the Samarawansa Bill, calling it a symbol of societal decline. They urged the President to address the issue, highlighting its potential to exacerbate social problems.
-
-🟩
-
-The Thirkala Mahanayaka Mahanayaka Thera has written to the President regarding the proposed Simerichere Summinal Bill.
-
-It states that the proposed Summinal Bill is an unicode of failure to social decline.
-
-It has also shown that if something is rise in the country's arbitrary, it has shown that it has shown that the focus has been explained in the formula and the social collapse.
-
-Accordingly, the President is expected to take immediate attention to the President to address the attention of this disagreement bill.
-
-◼️
-
-[Data](articles/86105322.json)
-
-[Extended Data](ext_articles/86105322.ext.json)
 
 ---

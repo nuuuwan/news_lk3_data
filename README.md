@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 01:20:50**
+As of **2024-07-26 01:36:03**
 
 ## Newspaper Stats
 
-*Scraped **37,278** Articles*
+*Scraped **37,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,238
 dailyftlk | 2,375
 adalk | 3,393
 adaderanalk | 4,313
-tamilmirrorlk | 4,589
+tamilmirrorlk | 4,590
 dailymirrorlk | 4,733
-virakesarilk | 5,857
+virakesarilk | 5,859
 adaderanasinhalalk | 6,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,278 (100.0%) of 37,278 articles have been extended.
+37,278 (100.0%) of 37,281 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-07-26 (Friday)
+
+### ’முஸ்லிம்களின்  வேதனையை குறைத்து மதிப்பிட வேண்டாம்’
+
+*2024-07-26 00:55:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களின்-வேதனையை-குறைத்து-மதிப்பிட-வேண்டாம்/175-341047) · `ta`
+
+ஜனாஸாக்கள் எரிக்கப்பட்ட சம்பவத்துக்காக முஸ்லிம் மக்களிடம் மன்னிப்பு கோரினால் போதுமென அரசு நினைக்கின்றது பாதிக்கப்பட்ட முஸ்லிம்களின்  வேதனையை இந்தளவு குறைத்து மதிப்பிட வேண்டாம். அதற்கான நஷ்டஈடு அரசாங்கத்துக்கு விரைவில் கிடைக்கும் என ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான மரிக்கார்  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில்  உரையாற்றுகைம் போதே  இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்
+
+கொரோனா  தொற்றில் மரணித்த முஸ்லிம் பிரஜைகளின் ஜனாஸாக்களை எந்தவித விஞ்ஞான ரீதியிலான தீர்மானமும் இல்லாமல் எரிப்பதற்கு ராஜபக்ச  அரசாங்கம் நடவடிக்கை எடுத்திருந்தது. அந்த அரசாங்கத்தின் இந்த தீர்மானத்தால் ஒட்டு மொத்த முஸ்லிம் சமூகமும் மிகவும் வேதனை அடைந்தது.  இவ்வாறான நிலையில் அரசாங்கம் வேறுமனே முஸ்லிம் மக்களிடம் மன்னிப்பு கோரி இதில் இருந்து தப்பிக்கொள்ள முடியும் என நினைப்பது   முட்டாள்தனம்.
+
+...
+
+[Data](articles/205dc9ab.json)
+
+---
+
 ### 2024-07-25 (Thursday)
+
+### 2048 ஆம் ஆண்டளவில் தனிநபர் வருமானம் 20,000 டொலராக அதிகரிக்கப்படும் - பந்துல குணவர்தன
+
+*2024-07-25 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189388) · `ta`
+
+2048 ஆம் ஆண்டளவில் தனிநபர் வருமானத்தை 20,000 டொலராக அதிகரிக்கும் . அதற்கான வேலைத்திட்டங்கள் அரசாங்கத்தினால் உருவாக்கப்பட்டுள்ளன.
+
+நாட்டில் பாரிய மாற்றத்தை கொண்டு வருவதற்கான சிறந்த அத்திவாரத்தை இடுவதற்கும் நாட்டை மீண்டும் கட்டியெழுப்புவதற்குமான தேசிய வேலைத் திட்டமாகவே அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலை மாற்றம் சட்டத்தை அரசாங்கம் கொண்டுவந்துள்ளது.
+
+அத்துடன் சர்வதேச நாணய நிதியத்தின் உடன்படிக்கையை மாற்றியமைத்துக்கொண்டு யாருக்கும் அரசாங்கத்தை கொண்டு செல்ல முடியாது  என போக்குவரத்து, ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/294bb8bd.json)
+
+---
 
 ### Death toll from Ethiopia landslide hits 257, could reach 500: UN
 
@@ -91,6 +127,18 @@ The new address is 17th Floor, Suuhappaya, Battaramulla.
 [Data](articles/ad9894f0.json)
 
 [Extended Data](ext_articles/ad9894f0.ext.json)
+
+---
+
+### பொலிஸ் மா அதிபர் தொடர்பான அரசாங்கத்தின் நிலைப்பாடு நாளை பாராளுமன்றத்தில் அறிவிக்கப்படும்
+
+*2024-07-25 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/189387) · `ta`
+
+குறித்த விசேட உரையானது பொலிஸ் மா அதிபர் தொடர்பான உச்ச நீதிமன்றத்தின் தீர்ப்பு தொடர்பில் அரசாங்கத்தின் பதிலைத் தெரிவிக்கும் உரையாக பிரதமரால் அறிவிக்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/89e1e153.json)
 
 ---
 
@@ -2295,71 +2343,5 @@ The lorry driver has been arrested by police officers regarding the accident and
 [Data](articles/2db67f21.json)
 
 [Extended Data](ext_articles/2db67f21.ext.json)
-
----
-
-### Cabinet cannot change the court order on the police chief - Saliyaberis
-
-*2024-07-25 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189332) · `ta`
-
-Saliyabiris, a former attorney, stated that the Cabinet cannot alter a Supreme Court order regarding the Inspector General of Police. The Cabinet plans to probe this matter but cannot change the court's restrictions on the IG's duties pending the outcome of related cases. Violating the court order would constitute contempt of court.
-
-🟩
-
-Former Attorney -at -Law Saliyabiris said the Cabinet could not change the court order on the Inspector General of Police.
-
-It is reported that the Cabinet has decided to investigate the order issued by the Supreme Court on the orders of the Inspector General of Police and the legal issues.
-
-Whatever the Cabinet's decision, the court has restricted his functioning as the Inspector General of Police until the final verdicts of the Patriotic Tennakoon petitions are released.
-
-If any side tries to violate the court order, it will be considered a contempt of court.
-
-◼️
-
-[Data](articles/7a72f660.json)
-
-[Extended Data](ext_articles/7a72f660.ext.json)
-
----
-
-### Pensioners. 3000 allowance
-
-*2024-07-25 11:19:36* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයන්ට-රු--3000ක-දීමනාවක්/11-410983) · `si`
-
-Cabinet approves a special monthly allowance of Rs. 3,000 for each pensioner in public service, valid till September 2024, pending salary anomaly resolution.
-
-🟩
-
-Cabinet approval has been approved by a special monthly allowance of Rs. 3,000 per pensioners in the public service.This decision was taken at a cabinet meeting held yesterday (24th). Accordingly, this special monthly allowance is due until September 2024 until the correction of salary anomalies will be corrected.
-
-◼️
-
-[Data](articles/23d7b4b6.json)
-
-[Extended Data](ext_articles/23d7b4b6.ext.json)
-
----
-
-### The boyfriend who went to the girlfriend and went to the colon
-
-*2024-07-25 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலிக்கு-வீடியோ-எடுத்து-காலனிடன்-சென்ற-காதலன்/175-341004) · `ta`
-
-On Wednesday, an 18-year-old from Ottamavadi, Valaichenai, tragically passed away after a dispute with his girlfriend. The incident occurred while he was on a video call at his job in Pettah, Colombo. His body is now at Colombo Hospital for autopsy, with police continuing their investigation.
-
-🟩
-
-The incident took place on Wednesday (24) that a young man was living his life due to conflict with his girlfriend.
-
-A 18 -year -old youth from Ottamavadi, Valaichenai, has suffered his life.
-
-Initial investigations by the police revealed that the young man who was working at a trade center in Pettah, Colombo, had taken a video call to his girlfriend.
-
-The body of the deceased has been placed at the Colombo Hospital for autopsy and further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/460fdf8e.json)
-
-[Extended Data](ext_articles/460fdf8e.ext.json)
 
 ---

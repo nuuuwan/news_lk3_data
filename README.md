@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 16:37:59**
+As of **2024-07-25 16:52:38**
 
 ## Newspaper Stats
 
-*Scraped **37,214** Articles*
+*Scraped **37,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
 adalk | 3,381
-adaderanalk | 4,304
+adaderanalk | 4,305
 tamilmirrorlk | 4,584
 dailymirrorlk | 4,733
 virakesarilk | 5,845
-adaderanasinhalalk | 6,244
+adaderanasinhalalk | 6,245
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,212 (100.0%) of 37,214 articles have been extended.
+37,214 (100.0%) of 37,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### සුළි කුණාටුවක් නිසා තායිවානයට දැඩි බලපෑම්
+
+*2024-07-25 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199202) · `si`
+
+උතුරු තායිවානයට බලපා ඇති 'Gaemi' සුළි කුණාටුව නිසා සමහර ප්‍රදේශවල ගංවතුර ඇතිවී ඇති බව වාර්තා වෙයි.
+
+ඉන් තිදෙනෙක් මියගොස් ඇති අතර සුළි කුණාටුව හේතුවෙන් භාණ්ඩ ප්‍රවාහන නෞකාවක් ද දියේ ගිලී ගොස් තිබුණි.
+
+වසර 8කින් තායිවානයට බලපෑ දරුණුතම සුළි කුණාටුව මෙය ලෙස සැලකෙයි.
+
+තායිවානය හරහා ගොස් එම සුළි කුණාටුව චීනයේ ෆුජිආන් පළාතට ඇතුළු වීමට නියමිතය.
+
+◼️
+
+[Data](articles/a5a05a86.json)
+
+---
+
+### Appeals Court stays hearing on Thilanga’s plaint against Nimal Siripala
+
+*2024-07-25 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100768/appeals-court-stays-hearing-on-thilangas-plaint-against-nimal-siripala-) · `en`
+
+The Court of Appeal has issued an interim order to the Maligakanda Magistrate’s Court preventing the further hearing of the private plaint filed by the General Secretary of the United People’s Freedom Alliance (UPFA), Thilanga Sumathipala against Minister Nimal Siripala de Silva regarding the issue concerning the head office of the Sri Lanka Freedom Party (SLFP).
+
+The Appeals Court yesterday (24) issued this interim order, effective until August 06, after taking into consideration the writ petition filed by Minister Nimal Siripala de Silva.
+
+◼️
+
+[Data](articles/a1161a19.json)
+
+---
 
 ### Namal says the crisis with Ranil
 
@@ -386,6 +418,10 @@ He also discussed extensive work on the preparation of a broad work on the Presi
 
 *2024-07-25 14:04:51* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයට-රැකවරණය-දෙන්නේ-පාතාලය/11-410993) · `si`
 
+Minister Prasanna Ranatunga accuses the opposition of protecting the underworld, highlighting their opposition to justice and the removal of the IGP. He criticizes their silence on issues like plantation workers' rights, suggesting they prioritize the underworld's interests over national development. The minister also addresses concerns about the government's influence on the judiciary and the issuance of state orders, emphasizing the importance of addressing broader societal issues rather than focusing solely on the IGP's removal.
+
+🟩
+
 The opposition is protected by the Urban Development and Housing Minister Prasanna Ranatunga.
 
 The Minister pointed out that the opposition was strongly opposed to justice, he stresses that the Opposition will appear to remove the IGP.
@@ -704,17 +740,23 @@ Pradeep Yasaratne, Secretary of the Ministry of Public Administration, Home Affa
 
 ---
 
-### හෙට සිට ආයෙත් වැස්ස වැඩි වෙයි
+### Rain back tomorrow
 
 *2024-07-25 12:29:22* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-ආයෙත්-වැස්ස-වැඩි-වෙයි/11-410989) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (26දා) දින් සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Expect heavy rainfall across the southwest island, particularly in the Western, Sabaragamuwa, and North Western provinces, including Nuwara Eliya, Galle, and Matara districts, starting from tomorrow (26).
 
-ඒ අනුව බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් මහ නුවර, නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි
+🟩
+
+The Department of Meteorology says that a rain condition in the southwest part of the island will be expected tomorrow (26).
+
+Thundershowers during the Western, Sabaragamuwa and North Western provinces, in general, Nuwara Eliya, Galle and Matara districts
 
 ◼️
 
 [Data](articles/a499164b.json)
+
+[Extended Data](ext_articles/a499164b.ext.json)
 
 ---
 
@@ -1796,21 +1838,27 @@ He mentioned this on his official X site early Thursday (25).
 
 ---
 
-### ජනාධිපතිවරණයට අදාළ ගැසට් නිවේදනය නිකුත් කිරීම හෙට
+### Issuing gazette notification for presidential election tomorrow
 
 *2024-07-25 09:03:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czk02g1gvdlo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, විවිධ පුද්ගලයින් සහ පාර්ශව විසින් සිදු කරන ප්‍රකාශ පිළිබඳව කිසිඳු වගකීමක් නොමැති බව මැතිවරණ කොමිෂන් සභාව අද නිවේදනය කරන ලදී.
+The Elections Commission will issue a gazette notification for the presidential election tomorrow, stating it bears no responsibility for statements made by individuals or parties.
 
-ජනාධිපතිවරණයට අදාළ ගැසට් නිවේදනය හෙට (ජූලි 26) නිකුත් කිරීමට මැතිවරණ කොමිෂන් සභාව තීරණය කර තිබේ.
+🟩
 
-එසේම ජනාධිපතිවරණ ඡන්ද විමසීම පැවැත්වෙන දිනය සහ සෙසු ව්‍යස්ථාපිත කාර්යයන් පිළිබඳව විවිධ පුද්ගලයින් සහ පාර්ශව විසින් සිදු කරන ප්‍රකාශ පිළිබඳව කිසිඳු වගකීමක් නොමැති බව මැතිවරණ කොමිෂන් සභාව අද නිවේදනය කරන ලදී.
+The Elections Commission (EPL) has announced that there is no responsibility regarding the statements performed by video heads, various individuals and parties.
 
-මේ අතර ජනාධිපතිවරණය සම්බන්ධයෙන් පාර්ශව කිහිපයක් අද දිනයේත් අදහස් පළ කළහ.
+The Elections Commission has decided to issue the gazette notification relevant to the presidential election tomorrow (July 26).
+
+The Elections Commission has announced that there is no responsibility regarding the statements made by various individuals and other statutes on the date of presidential election and other static tasks.
+
+Meanwhile, several parties regarding the presidential election were also commented.
 
 ◼️
 
 [Data](articles/ef980315.json)
+
+[Extended Data](ext_articles/ef980315.ext.json)
 
 ---
 
@@ -2287,41 +2335,5 @@ Speaking in Parliament yesterday Premadasa said, “You cannot get away by tende
 [Data](articles/18d72a64.json)
 
 [Extended Data](ext_articles/18d72a64.ext.json)
-
----
-
-### WNPS lecture on “Leopards” Today by South African ecologist
-
-*2024-07-25 04:56:04* · [`dailyftlk`](https://www.ft.lk/news/WNPS-lecture-on-Leopards-Today-by-South-African-ecologist/56-764732) · `en`
-
-The Wildlife and Nature Protection Society (WNPS) will hold its monthly lecture Today on the theme “Leopards, people, and everything…” by South African ecologist, researcher, and conservationist Dr. Jeannine Stephanie McManus at 6 p.m. at the Jasmine Hall, BMICH.
-
-The lecture and the topic comes ahead of Sri Lanka Leopard Day which falls on 1 August.
-
-WNPS said Dr. McManus, a global expert in human-wildlife conflict mitigation, will share her insights on fostering human-leopard coexistence in Sri Lanka. The Sri Lankan leopard, found both inside and outside protected areas, faces increasing challenges that threaten its survival. Dr. McManus’s expertise offers valuable perspectives on addressing these issues.
-
-...
-
-[Data](articles/3bd6ac78.json)
-
-[Extended Data](ext_articles/3bd6ac78.ext.json)
-
----
-
-### WNPS lecture on “Leopards” tomorrow by South African ecologist
-
-*2024-07-25 04:56:04* · [`dailyftlk`](https://www.ft.lk/news/WNPS-lecture-on-Leopards-tomorrow-by-South-African-ecologist/56-764732) · `en`
-
-The Wildlife and Nature Protection Society (WNPS) will hold its monthly lecture tomorrow on the theme “Leopards, people, and everything…” by South African ecologist, researcher, and conservationist Dr. Jeannine Stephanie McManus at 6 p.m. at the Jasmine Hall, BMICH.
-
-The lecture and the topic comes ahead of Sri Lanka Leopard Day which falls on 1 August.
-
-WNPS said Dr. McManus, a global expert in human-wildlife conflict mitigation, will share her insights on fostering human-leopard coexistence in Sri Lanka. The Sri Lankan leopard, found both inside and outside protected areas, faces increasing challenges that threaten its survival. Dr. McManus’s expertise offers valuable perspectives on addressing these issues.
-
-...
-
-[Data](articles/92d9eff0.json)
-
-[Extended Data](ext_articles/92d9eff0.ext.json)
 
 ---

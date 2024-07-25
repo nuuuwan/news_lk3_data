@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 22:54:08**
+As of **2024-07-25 23:20:33**
 
 ## Newspaper Stats
 
-*Scraped **37,275** Articles*
+*Scraped **37,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ dbsjeyarajcom | 326
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,119
+islandlk | 2,120
 economynextcom | 2,238
 dailyftlk | 2,375
-adalk | 3,392
-adaderanalk | 4,312
+adalk | 3,393
+adaderanalk | 4,313
 tamilmirrorlk | 4,589
 dailymirrorlk | 4,733
 virakesarilk | 5,857
@@ -26,21 +26,49 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,270 (100.0%) of 37,275 articles have been extended.
+37,277 (100.0%) of 37,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### பொலிஸ்மா அதிபர் தொடர்பில் அரசாங்கத்தின் பதில்?
+### Death toll from Ethiopia landslide hits 257, could reach 500: UN
+
+*2024-07-25 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100776/-death-toll-from-ethiopia-landslide-hits-257-could-reach-500-un) · `en`
+
+The death toll from landslides in a remote region of southern Ethiopia has risen to 257, the United Nations said on Thursday, warning that the number of victims could soar to 500.
+
+Rescuers are pressing on with the grim search for bodies and survivors in the stricken locality of Kencho Shacha Gozdi, with crowds of distraught locals digging through a sea of mud often using just their bare hands and shovels.
+
+“The death toll has risen to 257,” as of July 24, the UN’s humanitarian agency OCHA said in statement citing local authorities. “The death toll is expected to rise to up to 500 people.”
+
+OCHA said more than 15,000 people need to be evacuated because of the high risk of further landslides, including at least 1,320 children under the age of five and 5,293 pregnant women or new mothers.
+
+Aid has begun arriving in the isolated, hard-to-reach area, including four trucks of life-saving supplies from the Ethiopian Red Cross Society, it said.
+
+...
+
+[Data](articles/654f5695.json)
+
+[Extended Data](ext_articles/654f5695.ext.json)
+
+---
+
+### Government's response to the Inspector General of Police?
 
 *2024-07-25 22:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-தொடர்பில்-அரசாங்கத்தின்-பதில்/175-341046) · `ta`
 
-குறித்த விசேட உரையானது பொலிஸ்மா அதிபர் தொடர்பான உச்ச நீதிமன்றத்தின் தீர்ப்பு தொடர்பில் அரசாங்கத்தின் பதிலைத் தெரிவிக்கும் உரையாக பிரதமரால் அறிவிக்கப்படவுள்ளது. R
+The Prime Minister will deliver a special address responding to the Supreme Court's ruling on the Inspector General of Police, reflecting the government's stance.
+
+🟩
+
+The special speech will be announced by the Prime Minister as a reply to the government on the Supreme Court's decision on the Inspector General of Police.. Remble
 
 ◼️
 
 [Data](articles/8f6c05b9.json)
+
+[Extended Data](ext_articles/8f6c05b9.ext.json)
 
 ---
 
@@ -411,6 +439,20 @@ Police are conducting investigations by detaining the arrested youth at the Chav
 [Data](articles/026882a7.json)
 
 [Extended Data](ext_articles/026882a7.ext.json)
+
+---
+
+### ෆුගෝ ඔන්ලයින් පිරමීඩ ආයතනයේ මූල්‍ය ලේකම් සරසවි සිසුවියගේ ගිණුමේ ලක්ෂ 150ක මුදල්
+
+*2024-07-25 18:52:39* · [`adalk`](https://www.ada.lk/breaking_news/ෆුගෝ-ඔන්ලයින්-පිරමීඩ-ආයතනයේ-මූල්‍ය-ලේකම්-සරසවි-සිසුවියගේ-ගිණුමේ-ලක්ෂ-150ක-මුදල්/11-411002) · `si`
+
+වැඩි ප්‍රතිලාභයක් ලබා දෙන බවට පවසමින් මෙරට ප්‍රධාන පෙළේ බැංකු 09ක ගිණුම් 55 හරහා රුපියල් කෝටි 30කට අධික මුදල් වංචනිකව ලබාගත් බව කියමින් සැකපිටඅත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ ‘ෆූගෝ ඔන්ලයින්’ පිරමීඩාකාර මූල්‍ය ආයතනයේ ලේකම්වරිය වශයෙන් කටයුතු කරන විශ්ව විද්‍යාල ශිෂ්‍යාවක ලබන 06 වැනිදා දක්වා රිමාන්ඩ් බාරයේ රඳවා තැබීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (25) නියම කළේය.
+
+විශ්ව විද්‍යාල ශිෂ්‍යාවක වන සැකකාරියගේ බැංකු ගිණුමේ රුපියල් කෝටි 1 1/2කට අධික මුදල් ප්‍රමාණයක් තිබු බව කියමින් රහස් පොලිසිය දැක්වු කරුණු පිළිගනිමින් සැකකරිය රිමාන්ඩ් බාරයේ රඳවා තැබීමට මහෙස්ත්‍රාත්වරයා නියම කළේය.
+
+...
+
+[Data](articles/bdd6635e.json)
 
 ---
 
@@ -1940,6 +1982,8 @@ In April 2023, Sri Lanka planned to ship 100,000 toque monkeys to China, however
 
 [Data](articles/66128e3d.json)
 
+[Extended Data](ext_articles/66128e3d.ext.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -2305,53 +2349,5 @@ The body of the deceased has been placed at the Colombo Hospital for autopsy and
 [Data](articles/460fdf8e.json)
 
 [Extended Data](ext_articles/460fdf8e.ext.json)
-
----
-
-### The boyfriend who went with the video of the girlfriend and went with the colon
-
-*2024-07-25 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலிக்கு-வீடியோ-எடுத்து-காலனுடன்-சென்ற-காதலன்/175-341004) · `ta`
-
-In a tragic incident on Wednesday, an 18-year-old from Ottamavadi, Valaichenai, died after a dispute with his girlfriend. The young man, employed at a Pettah trade center, was on a video call with her when the argument escalated. His body is now at Colombo Hospital for autopsy, with police continuing their investigation.
-
-🟩
-
-The incident took place on Wednesday (24) that a young man was living his life due to conflict with his girlfriend.
-
-A 18 -year -old youth from Ottamavadi, Valaichenai, has suffered his life.
-
-Initial investigations by the police revealed that the young man who was working at a trade center in Pettah, Colombo, had taken a video call to his girlfriend.
-
-The body of the deceased has been placed at the Colombo Hospital for autopsy and further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/853901ed.json)
-
-[Extended Data](ext_articles/853901ed.ext.json)
-
----
-
-### The boyfriend who took the video invitation shook life
-
-*2024-07-25 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடியோ-அழைப்பை-எடுத்த-காதலன்-உயிரை-மாய்த்தார்/175-341004) · `ta`
-
-An 18-year-old from Ottamavadi, Valaichenai, tragically lost his life after a dispute with his girlfriend. The incident occurred on Wednesday when he was taking a video call at a shopping center in Pettah, Colombo. His body is now at Colombo Hospital for autopsy as police continue their investigation.
-
-🟩
-
-The incident took place on Wednesday (24) that a young man was living his life due to conflict with his girlfriend.
-
-A 18 -year -old youth from Ottamavadi, Valaichenai, has suffered his life.
-
-Initial investigations by the police revealed that the young man who was working at a shopping center in Pettah, Colombo, had taken a video call to his girlfriend.
-
-The body of the deceased has been placed at the Colombo Hospital for autopsy and further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/df52c549.json)
-
-[Extended Data](ext_articles/df52c549.ext.json)
 
 ---

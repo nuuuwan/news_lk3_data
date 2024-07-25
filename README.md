@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 02:20:42**
+As of **2024-07-26 02:36:01**
 
 ## Newspaper Stats
 
-*Scraped **37,285** Articles*
+*Scraped **37,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,238
 dailyftlk | 2,375
 adalk | 3,393
 adaderanalk | 4,313
-tamilmirrorlk | 4,591
+tamilmirrorlk | 4,592
 dailymirrorlk | 4,733
 virakesarilk | 5,862
 adaderanasinhalalk | 6,255
@@ -26,55 +26,97 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,282 (100.0%) of 37,285 articles have been extended.
+37,285 (100.0%) of 37,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### வி.எப்.எஸ் விசா விவகாரம்: விசா வெளிவள உடன்படிக்கையை சவாலுக்கு உட்படுத்தி சுமந்திரன், ரவூப், சம்பிக்க உயர்நீதிமன்றில் மனுத்தாக்கல்
+### VFS Visa Affairs: Sumanthiran, Rauf, Sampika High Court
 
 *2024-07-26 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189391) · `ta`
 
-வி.எப்.எஸ் குளோபல் விசா விநியோக விவகாரம் அண்மையில் கடும் சர்ச்சைக்குரிய பேசுபொருளாகியிருந்த நிலையில், இந்த விசா வெளிவள உடன்படிக்கையை சவாலுக்கு உட்படுத்தி பாராளுமன்ற உறுப்பினர்களான எம்.ஏ.சுமந்திரன், ரவூப் ஹக்கீம், பாட்டலி சம்பிக்க ரணவக்க ஆகியோர் உயர்நீதிமன்றத்தில் தனித்தனியாக 3 அடிப்படை உரிமை மீறல் மனுக்களைத் தாக்கல் செய்துள்ளனர்.
+MPs Sumanthiran, Rauf Hakeem, and Ranawaka have filed a lawsuit against VFS Global for alleged visa distribution issues, naming several officials and ministers. They argue the process violates national security, tourism safety, and IMF principles, seeking a return to the previous electronic travel system. The controversy surrounds a contract giving VFS Global control over tourist visas, impacting Sri Lanka's economy and tourism.
 
-இவ்வாறு தாக்கல் செய்யப்பட்டிருக்கும் மனுவில் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் உள்ளிட்ட அமைச்சரவை அமைச்சர்கள், குடிவரவு - குடியகல்வுத் திணைக்கள அதிகாரி உள்ளடங்கலாக 31 பேர் பிரதிவாதிகளாகப் பெயரிடப்பட்டுள்ளனர்.
+🟩
 
-இம்மனுக்களில் விசா வெளிவள உடன்படிக்கையின் பிரகாரம் இலங்கைக்கு வருகைதரும் சுற்றுலாப்பயணிகளுக்கு விசா விநியோகிக்கும் பொறுப்பு வி.எப்.எஸ் குளோபல் நிறுவனத்திடம் கையளிக்கப்பட்ட விவகாரத்தில் நிலவும் குழறுபடிகள் மற்றும் சட்டவிரோத நடைமுறைகள் குறித்து விளக்கமளிக்கப்பட்டுள்ளது.
+While the VFS Global Visa Distribution issue has recently been a serious controversial speech, MPs MA Sumanthiran, Rauf Hakeem and Patali Champika Ranawaka have filed 3 fundamental rights violations in the Supreme Court.
+
+In the petition filed, 31 people have been named defendants, including Cabinet Ministers, including Public Security Minister Tran Alles, and the Department of Immigration and Emigration.
+
+According to the Visa Exposure Agreement, the responsibility of distributing visa to tourists visiting Sri Lanka has been explained to the VFS Global Company.
+
+In particular, the petition includes the violation of the purchasing process, the impact of the national security and the security of the tourism, the impact of the tourism sector, the contrary to the principles of the IMF, and the contacts of the Plexstone and Queeni trove.
 
 ...
 
 [Data](articles/da1442ae.json)
 
+[Extended Data](ext_articles/da1442ae.ext.json)
+
 ---
 
-### நாட்டை சீரழித்த அனைவரையும் சட்டத்துக்கு முன் நிறுத்துவோம் - சஜித் சபையில் உறுதி
+### Let us put all those who have degraded the country before the law
 
 *2024-07-26 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189390) · `ta`
 
-எமது அரசாங்கத்தில் நாட்டை சீரழித்த அனைவரையும் சட்டத்துக்கு முன் கொண்டுவருவதுடன் திருடப்பட்ட அனைத்து பணத்தையும் நாட்டுக்கு கொண்டுவர நடவடிக்கை எடுப்போம். நாட்டை வங்குராேத்து அடையச்செய்தவர்களுடன் இணைந்து நாட்டை கட்டியெழுப்ப முடியாது என்பதாலே நாங்கள் அப்போது நாட்டை பொறுப்பெடுக்க முன்வரவில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa criticizes previous governments for failing to address national issues, emphasizing the need for accountability and economic recovery. He promises to tackle corruption, amend laws, and negotiate with the IMF for the nation's benefit, highlighting the United People's Power Coalition as the solution to rebuild the country's economy.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
+
+We will bring all those who have degraded the country in our government and take steps to bring all the money stolen to the country. Opposition Leader Sajith Premadasa said that we did not come forward to take responsibility for the country because they could not build the country with those who have come to the country.
+
+He was speaking at a debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25).
+
+Those who have never bought the country's economy as much as they have never been in history, are currently teaching us Dharma. Before teaching us, they must act according to the quality. They are taking steps to accept the economic challenge and build the country. But who has made this challenge status. Due to the erroneous and stupid resolutions of the Gotabhaya Rajapakse -led government, the country went to the bank.
 
 ...
 
 [Data](articles/68e441a8.json)
 
+[Extended Data](ext_articles/68e441a8.ext.json)
+
 ---
 
-### பௌத்த தர்மத்தை திரிபுபடுத்தும் 12 நிலையங்கள் நாட்டில் இயங்குகின்றன - தேசிய மரபுரிமைகளை பாதுகாப்பதற்கான பாராளுமன்ற ஒன்றியம்
+### There are 12 stations that distort Buddhism- the parliament to protect national heritage
 
 *2024-07-26 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189389) · `ta`
 
-பௌத்த தர்மம் போன்று நாட்டின் வரலாற்றையும் திரிபுபடுத்தும் 12 நிலையங்கள் இதுவரை நாட்டிற்குள் இயங்கி வருவதாக தேசிய மரபுரிமைகளைப் பாதுகாப்பதற்கான பாராளுமன்ற ஒன்றியத்தில் கலந்துரையாடப்பட்டது. அத்துடன்,பௌத்த மதத்தைத் திரிபுபடுத்தும் 85 பேர் அடையாளம் காணப்பட்டிருப்பதாகவும் இங்கு தெரியவந்தது.
+A parliamentary union aims to safeguard national heritage by addressing 12 stations distorting Buddhism and identifying 85 individuals involved. Led by Chairman Jayantha Samaraweera, the meeting highlighted the need for legal changes to prevent unauthorized saffron robe wear and tackle the rise of fake personas spreading distorted Buddhist teachings. Recommendations from the Mahanayaka Thera are anticipated to be presented in Parliament.
 
-தேசிய மரபுரிமைகளைப் பாதுகாப்பதற்கான பாராளுமன்ற ஒன்றியம் அதன் தலைவர் பாராளுமன்ற உறுப்பினர் ஜயந்த சமரவீர தலைமையில் அண்மையில் கூடியபோது இந்த விடயங்கள் குறித்துக் கலந்துரையாடப்பட்டன.
+🟩
 
-இக்கூட்டத்தில் சங்கைக்குரிய ஹாகொட விப்பசி தேரர், வணக்கத்துக்குரிய பேராசிரியர் மாவத்தகம பேமானந்த தேரர், சட்டத்தரனி கல்யானந்த தீரனாகம, சட்டத்தரணி ராஜா குணரத்ன, மதுகம செனவிருவன் மற்றும் கலாநிதி வசந்த பண்டார ஆகியோர் கலந்துகொண்டனர்.
+The parliamentary union to protect national heritage is that 12 stations that distort the history of the country, like Buddhist Dharma, have been operating within the country.. It was also revealed that 85 people who distort Buddhism have been identified.
+
+These issues were discussed when the parliamentary union to protect national heritage was recently met under the leadership of its chairman Jayantha Samaraweera.
+
+The meeting was attended by Hagoda Vipasi Thera, Vedanta Professor Mawathama Pammananda Thera, Attorney Kalyananda Therakama, Attorney Raja Gunaratne, Madhugama Senevuwan and Dr. Vasantha Bandara.
+
+The need to bring legal amendments to it is that the Bikkumar Sangam council does not have the authority to prohibit the wearing of the saffron even if anyone is expelled from the monastic monks, which does not comply with the discipline of the 'Karaka Sangam Sabha'.. As well as with the name of Pikumar
 
 ...
 
 [Data](articles/706cc173.json)
+
+[Extended Data](ext_articles/706cc173.ext.json)
+
+---
+
+### ’பாதாள உலக குழுவினருக்கே அதிக மகிழ்ச்சி’
+
+*2024-07-26 01:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழுவினருக்கே-அதிக-மகிழ்ச்சி/175-341049) · `ta`
+
+பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோனை பதவியிலிருந்து இடைநிறுத்தம் உயர் நீதிமன்றத்தின் தடைஉத்தரவால்  பாதாள உலக குழுவினரே அதிக மகிழ்ச்சியடைந்துள்ளனர் என அரச தரப்பு பிரதம கொறடாவும் அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்தார்.
+
+தடைஉத்தரவால்  பாதாள உலக குழுவினருக்கு அடுத்ததாக எதிர்க்கட்சியினர் மகிழ்ச்சியடைந்துள்ளனர் ஏனெனில் எதிர்க்கட்சிக்கு பாதுகாப்பு வழங்குவது பாதாள உலகக் குழுவேயாகும் என்றார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25) எதிர்க்கட்சிஎம்.பி.க்கள் பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் முன் வைத்த  கருத்துக்களுக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+யுக்திய வேலைத் திட்டத்தின் மூலம் பாதாள உலகக் குழுவை அழி க்கும் நடவடிக்கையே மேற்கொள்ளப்படுகிறது என்பதால் எதிர்க்கட்சியினர் தம்மை பாதுகாக்கும் பாதாள உலகக் குழுவின் ஒழிப்பை பொறுத்துக் கொள்ள முடியாததால்தான்  பொலிஸ் மா அதிபர் நியமனம் தொடர்பில் தொடர்ந்தும் சிக்கல்களை உருவாக்குகின்றனர்
+
+...
+
+[Data](articles/54b8a335.json)
 
 ---
 
@@ -2319,29 +2361,5 @@ In Gyeonggi, a province near Seoul, a balloon caught fire on top of a residentia
 [Data](articles/5e6d808e.json)
 
 [Extended Data](ext_articles/5e6d808e.ext.json)
-
----
-
-### Dr. Wickremabahu Karunaratne retives for his life
-
-*2024-07-25 11:49:50* · [`adalk`](https://www.ada.lk/breaking_news/ආචාර්ය-වික්‍රමබාහු-කරුණාරත්න-දිවි-ගමනට-සමු-දෙයි/11-410986) · `si`
-
-Dr. Wickremabahu Karunaratne, an 81-year-old scholar and political activist from Sri Lanka, has passed away. Born in Labugala on March 8, 1943, he completed his education at Ananda College before obtaining a degree in electrical engineering and a Commonwealth scholarship to study at Cambridge University. His academic career and activism in left politics marked his contributions to society.
-
-🟩
-
-Dr. Wickremabahu Karunaratne has passed away. At the time of his death, he was 81-year-old.
-
-He was born in Labugala on March 8, 1943, he received primary education at Ananda College. He has received secondary education from Ananda College, Colombo.
-
-He was also able to obtain a first-class literature on electrical engineering. He obtained a Commonwealth scrutiny in 1970 to learn at the Cambridge University.
-
-Wickremabahu Karunaratne was later visited in Sri Lanka and began a academic life and he was also a powerful activist in Left politics.
-
-◼️
-
-[Data](articles/d01a2a79.json)
-
-[Extended Data](ext_articles/d01a2a79.ext.json)
 
 ---

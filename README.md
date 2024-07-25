@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 02:54:13**
+As of **2024-07-26 03:05:50**
 
 ## Newspaper Stats
 
-*Scraped **37,286** Articles*
+*Scraped **37,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,120
 economynextcom | 2,238
-dailyftlk | 2,375
+dailyftlk | 2,385
 adalk | 3,393
 adaderanalk | 4,313
 tamilmirrorlk | 4,592
@@ -26,11 +26,189 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,286 (100.0%) of 37,286 articles have been extended.
+37,286 (100.0%) of 37,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Overseas Realty records Rs. 3.5 b Profit Before Tax in 1H
+
+*2024-07-26 02:42:05* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-records-Rs-3-5-b-Profit-Before-Tax-in-1H/34-764770) · `en`
+
+Overseas Realty (Ceylon) PLC said yesterday it has recorded a Group Revenue of Rs. 3,605 million and a Group Profit Before Tax of Rs. 3,519 million for six months ending 30 June.
+
+In a statement the Company said the appreciation of the LKR resulted in a net exchange gain of Rs. 1,134 million compared to Rs. 2,908 million recorded in the corresponding period of last year on foreign currency loans. Net fair value gain recorded from Investment Properties was Rs. 1,160 million compared to the fair value loss of Rs. 33 million in the same period of last year.
+
+The Company Revenue of Rs. 1,340 million at the World Trade Center, Colombo, was 19% higher than the corresponding period of last year, due mainly to higher occupancy and rental rates.
+
+...
+
+[Data](articles/73e733b3.json)
+
+---
+
+### Yohan Perera appointed as Independent Non-Executive Director of Overseas Realty (Ceylon)
+
+*2024-07-26 02:38:51* · [`dailyftlk`](https://www.ft.lk/business/Yohan-Perera-appointed-as-Independent-Non-Executive-Director-of-Overseas-Realty-Ceylon/34-764769) · `en`
+
+Overseas Realty Ceylon PLC has announced the appointment of Yohan Perera as an Independent Non-Executive Director to its Board of Directors.
+
+In compliance with the CSE new listing rules on independent directors, the Company also announced the retirement of Yap Boh Pin, who had distinguishably served on the Board for over 33 years.
+
+Perera is a Chartered Accountant by profession and retired from the position of Managing Partner of KPMG Sri Lanka and Maldives on 31 March 2023. He has over 40 years of experience in audits of conglomerates and listed companies with diversified business interests.
+
+He served as a Partner at KPMG Sri Lanka and Maldives for 33 years. During this period, He also served the Firm as the Head of HR, Risk Management Partner and Chief Operating Officer before he was appointed as the Managing Partner of the Firm. He served on the KPMG Middle East and South Asia Board during his tenure as Managing Partner of the Firm.
+
+...
+
+[Data](articles/5fb2a63b.json)
+
+---
+
+### President gets Ministerial Sub-Committee’s report on effective RAMIS system utilisation
+
+*2024-07-26 02:36:30* · [`dailyftlk`](https://www.ft.lk/business/President-gets-Ministerial-Sub-Committee-s-report-on-effective-RAMIS-system-utilisation/34-764768) · `en`
+
+The report from the Cabinet Sub-Committee appointed to investigate and recommend effective utilisation of the Revenue Administration Management Information System (RAMIS) was recently presented to President Ranil Wickremesinghe.
+
+Finance, Economic Stabilisation, and National Policy Minister Ranil Wickremesinghe, issued Cabinet Memorandum No. 24/0696/604/079 on ‘Revenue Administration Management Information System (RAMIS) - Obtaining Maintenance Services’ dated April 8, 2024. This Cabinet Sub-Committee was appointed following the Cabinet’s decision.
+
+The sub-committee, chaired by Power and Energy Minister Kanchana Wijesekera, included Ministers Tiran Alles and Nalin Fernando as members.
+
+The report, prepared with seven main recommendations, underscores the importance and urgency of effectively utilising the Income Administration Management Information System.
+
+...
+
+[Data](articles/5d8f13a3.json)
+
+---
+
+### Sri Lanka and Thailand sign agreement for public debt management capacity building
+
+*2024-07-26 02:34:40* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-Thailand-sign-agreement-for-public-debt-management-capacity-building/34-764767) · `en`
+
+The Neighbouring Countries Economic Development Cooperation Agency (NEDA) of Thailand and Sri Lanka’s Finance Ministry, Economic Stabilisation and National Policies have signed a Record of Discussion (RoD) to launch a Capacity Building Program for officials attached to forthcoming Public Debt Management Office (PDMO).
+
+This cooperation marks a significant step in strengthening the country’s fiscal framework and enhancing its capacity to manage public debt efficiently.
+
+The agreement was signed in response to an invitation from the Department of External Resources of the Finance Ministry.
+
+The NEDA delegation led by President Perames Vudthitornetiraks and including Director of Policy and Planning Rappipat Promnart and Policy Planning Analyst Wasit Anuntavichien, met with Treasury Secretary Mahinda Siriwardana during their visit to Sri Lanka.
+
+...
+
+[Data](articles/62db6c53.json)
+
+---
+
+### CH17 Loyalty and Quickee.com team up to redefine convenience and rewards
+
+*2024-07-26 02:33:26* · [`dailyftlk`](https://www.ft.lk/business/CH17-Loyalty-and-Quickee-com-team-up-to-redefine-convenience-and-rewards/34-764766) · `en`
+
+EFL 3PL CEO Nishan Hewagamage (left) and CH17 Loyalty CEO Jumar Preena exchange the MOU signed between the two organisations
+
+CH17 Loyalty has announced a strategic partnership with Quickee, the premier food delivery service. This collaboration aims to revolutionise convenience by offering both in-store shopping and speedy and reliable online delivery.
+
+CH17 Loyalty CEO Jumar Preena said: “By joining forces, we will nearly double our merchant base, offering fantastic rewards and freebies that create unmatched online shopping experiences with island-wide coverage. This partnership brings together two strong platforms that specialise in rewards, privileges, and the ease of online shopping. Get ready for fast, efficient, and friendly service like never before.”
+
+...
+
+[Data](articles/db1a5d8a.json)
+
+---
+
+### Hela and Authentic Brands Group announce outerwear partnership for Reebok
+
+*2024-07-26 02:31:26* · [`dailyftlk`](https://www.ft.lk/business/Hela-and-Authentic-Brands-Group-announce-outerwear-partnership-for-Reebok/34-764765) · `en`
+
+Authentic Brands Group (Authentic), a global brand development, marketing, and entertainment platform, today announced a long-term partnership with Focus Brands, the brand licensing division of Hela Apparel Holdings PLC, for Reebok.
+
+Through the partnership, Focus Brands will design, manufacture and distribute Reebok-branded outerwear products across the UK and Europe.
+
+“We look forward to expanding our relationship with Focus Brands and Hela to build Reebok’s presence in the premium, technical outwear category across the UK and Europe,” said Authentic President, Lifestyle – EMEA and India Henry Stupp. “This partnership will elevate the brand’s offerings and bring a fresh, innovative approach to our product lineup, enhancing our appeal to consumers and solidifying our market position.”
+
+...
+
+[Data](articles/fd2849ff.json)
+
+---
+
+### Namal accuses President of attempts to dismantle SLPP
+
+*2024-07-26 02:29:19* · [`dailyftlk`](https://www.ft.lk/news/Namal-accuses-President-of-attempts-to-dismantle-SLPP/56-764764) · `en`
+
+SLPP MP Namal Rajapaksa says party fully supported President and refrained from undermining the Govt.
+
+Says President Ranil Wickremesinghe is facing allegations of attempting to break up other parties as well
+
+Highlights Wickreme-singhe’s history of dismantling various political parties and organisations
+
+Notes SLPP will take an appropriate political decision going forward
+
+Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has accused President Ranil Wickremesinghe of attempting to cause a rift within the SLPP.
+
+...
+
+[Data](articles/e3a83153.json)
+
+---
+
+### Marikkar says Govt. apology over COVID-19 cremations aimed at gaining Muslim vote
+
+*2024-07-26 02:27:53* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-says-Govt-apology-over-COVID-19-cremations-aimed-at-gaining-Muslim-vote/56-764763) · `en`
+
+SJB MP S.M. Marikkar accuses Cabinet of attempting to protect Rajapaksas from accountability for enforced COVID-19 cremations by issuing an apology
+
+Says Govt’s apology was a tactic to shift blame onto officials rather than addressing the true responsibility
+
+Demands Govt. reveal actual wrongdoers, says they should be punished, and victims compensated
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar has accused the Cabinet of trying to shield the Rajapaksa family from accountability over the enforced COVID-19 cremations by issuing an apology to those affected.
+
+Speaking in Parliament yesterday, Marikkar claimed that the Government’s apology was an attempt to shift the blame onto officials rather than addressing the true responsibility for the controversial policy.
+
+He questioned how the decision was made if officials had not based their recommendations on scientific evidence and why Cabinet members did not question the policy at the time.
+
+...
+
+[Data](articles/edf1e2d7.json)
+
+---
+
+### Wijeyadasa and Fonseka announce Presidential bids
+
+*2024-07-26 02:26:06* · [`dailyftlk`](https://www.ft.lk/news/Wijeyadasa-and-Fonseka-announce-Presidential-bids/56-764762) · `en`
+
+Justice Minister Wijeyadasa Rajapakshe and Former Army Commander Field Marshall Sarath Fonseka yesterday officially declared their candidacies for the 2024 Presidential Election.
+
+Holding a special press conference yesterday at the Independence Arcade, Rajapakshe 64 said he has decided to come forward as a candidate for the victory of Sri Lanka and its people. The Minister said the upcoming election was crucial for the nation’s future.
+
+Blaming short-sighted policies for Sri Lanka’s ongoing economic crisis and poverty, Rajapakshe stated that, under his leadership, measures would be taken to resolve issues in several sectors, with a strong focus on development.
+
+Rajapakshe emphasised the need for specialised banks for entrepreneurs, increased efficiency in the State sector, and regulation of the private sector. He highlighted the importance of maintaining good relations with all countries, prioritising neighbours.
+
+...
+
+[Data](articles/fc9f7ba2.json)
+
+---
+
+### Cabinet consideration of SC order on IGP undermines rule of law says YJA
+
+*2024-07-26 02:22:50* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-consideration-of-SC-order-on-IGP-undermines-rule-of-law-says-YJA/56-764761) · `en`
+
+The Young Journalists Association (YJA) a petitioning party against the appointment of Deshabandu Thennakoon as the Inspector General of Police (IGP) has said the decision by the cabinet to review the injunction order against Thennakoon undermines the law and judicial system of Sri Lanka.
+
+Issuing a statement yesterday, the YJA said the Government’s opinion on the matter is unnecessary and said the President must immediately nominate a suitable candidate for the position and submit the nomination to the Constitutional Council as directed by the courts.
+
+The YJA in its petition had maintained that the nomination of Thennakoon was unconstitutional and also questioned his referral to the Constitutional Council and his subsequent appointment as IGP by the President, based on a letter from the Speaker without the due approval of the Constitutional Council.
+
+...
+
+[Data](articles/5bd9ce71.json)
+
+---
 
 ### VFS Visa Affairs: Sumanthiran, Rauf, Sampika High Court
 
@@ -2135,239 +2313,5 @@ However, President Biden says he has left the candidate and respecting the unity
 [Data](articles/fd633d64.json)
 
 [Extended Data](ext_articles/fd633d64.ext.json)
-
----
-
-### Sri Lankan student dies after studying in Mathematiya University
-
-*2024-07-25 13:05:20* · [`adalk`](https://www.ada.lk/breaking_news/කොන්කෝඩියා-සරසවියයේ-ගණිතයෙන්-පශ්චාත්-උපාධිය-හදාරමින්-සිටි-ලාංකික-සිසුවිය-පිළිකාවකින්-මරුට/11-410990) · `si`
-
-A Sri Lankan student, Marisha Wijesinghe, 29, from Mallawapitiya, died recently. She was pursuing a postgraduate degree in abdominal care at Canada University. Her father is an agricultural ministry advisor. Marisha, who also studied at the University of Concordia, Canada, contributed significantly to academic activities before her untimely death. Her remains are at her family home in Mallawapitiya, with funeral services planned in Kurunegala.
-
-🟩
-
-Family Relatives say that the Sri Lankan student who studied the latest postgraduate degree in the University of Canada University.
-
-Datataae is unfortunately after the 29 year old Wolum, a 29 year old resident of Mallawapitiya. Marisha Wijesinghe, a married undergraduate student.
-
-She says she is studying the Canada University's degree in the abdominal care of the abdominal care of the abdomen.. It is said that the girl is receiving treatment for Sri Lanka with her husband in the country. Wedwhile, it was said that the death was.
-
-The Ven.
-
-Her father is an advisor to the Ministry of Agriculture and is a Delivery Advisor.
-
-In order to study a Daughter of the Mathematics, in order to study the Daerote Degree in the Mathematics Division, in the pain of her father, and she has already burned her care.
-
-Emisha entered the University of Concordha, Canada in 2023, Emmassa had reached Sri Lanka in the middle of this year.
-
-...
-
-[Data](articles/9377c77d.json)
-
-[Extended Data](ext_articles/9377c77d.ext.json)
-
----
-
-### Nearly 200mn coconuts damaged by monkeys, squirrels in Sri Lanka: Minister
-
-*2024-07-25 12:52:00* · [`economynextcom`](https://economynext.com/nearly-200mn-coconuts-damaged-by-monkeys-squirrels-in-sri-lanka-minister-173729/) · `en`
-
-ECONOMYNEXT – Around 200 million coconuts are destroyed by toque monkeys and giant squirrels in Sri Lanka, its Minister of Agriculture and Plantation Industries, Mahinda Amaraweera  said.
-
-“We don’t need to do anything if we stop the animals eating… a minimum of 200 million coconuts a year are being destroyed by toque monkeys and giant squirrels,” Amaraweera told reporters on Wednesday.
-
-In April 2023, Sri Lanka planned to ship 100,000 toque monkeys to China, however the government could not go through with the plan due to action from animal rights groups.
-
-“We had the opportunity to send 100,000 toque monkeys abroad but groups came forward, and they still come forward, and these animal rights groups went to court and stopped them. But this [loss] is not borne by them but by the farming community and the overall community in the country,” Amaraweera said.
-
-...
-
-[Data](articles/66128e3d.json)
-
-[Extended Data](ext_articles/66128e3d.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-25 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189341) · `ta`
-
-On July 25, the US dollar bought for 298.9498 rupees and sold for 308.2486 rupees.
-
-🟩
-
-The US dollar purchasing price was 298.9498 rupees and the sales price were Rs 308.2486 on Thursday (July 25).
-
-◼️
-
-[Data](articles/5eac7d8d.json)
-
-[Extended Data](ext_articles/5eac7d8d.ext.json)
-
----
-
-### Conflict with girlfriend;A young man who has lost life!
-
-*2024-07-25 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189338) · `ta`
-
-An 18-year-old from Ottamavadi tragically passed away due to personal issues, possibly related to a conflict with his girlfriend. The incident occurred on Wednesday, leading to an immediate investigation by the police. His body was taken to Colombo Hospital for an autopsy, highlighting the severity of mental health crises. For anyone facing similar situations, support is available through the National Mental Health Number 1926 and other resources like Sumitrao (+94 11 2 682535/+94 11 2 682570) and Ciciziline System (1333).
-
-🟩
-
-It is reported that a young man has died of his life due to the conflict with his girlfriend.
-
-A 18 -year -old youth from Ottamavadi, which belongs to the Valaichenai police division, has suffered his life.
-
-The young man who worked at a business center in the Colombo Pottukottai area made the urgent decision on Wednesday (24).
-
-Initial investigations by the police revealed that she had left his life after taking a video call to the girlfriend.
-
-The body of the deceased has been placed at the Colombo Hospital for autopsy and further investigations are being carried out by the police.
-
-If you or someone you know is in crisis and need help, there are systems to serve freely free.
-
-National Mental Health Number 1926 Sumitrao: +94 11 2 682535/ +94 11 2 682570 Ciciziline System: 1333
-
-◼️
-
-[Data](articles/19882f28.json)
-
-[Extended Data](ext_articles/19882f28.ext.json)
-
----
-
-### Special holidays for public servants who do not work in May and June
-
-*2024-07-25 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189322) · `ta`
-
-The government grants special holidays to civil servants in flood-hit areas (Colombo, Kalutara, etc.) in May and June due to floods, landslides, and transport bans. Pradeep Yasaratne, the Secretary of the Ministry of Public Administration, issues a circular announcing this.
-
-🟩
-
-The government has decided to provide special holidays to civil servants who have been unable to work due to floods and soil cramps in May and June.
-
-Accordingly, this special holiday will be given to state officials in the districts of Colombo, Kalutara, Gampaha, Galle, Matara, Hambantota, Puttalam, Kurunegala, Polonnaruwa, Kegalle and Ratnapura districts.
-
-Due to floods, landslides and traffic ban in these districts, public transport services from their residences have been blocked due to the ban on the victims.
-
-Pradeep Yasaratne, Secretary of the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government, has issued a circular.
-
-◼️
-
-[Data](articles/2280df72.json)
-
-[Extended Data](ext_articles/2280df72.ext.json)
-
----
-
-### Rain back tomorrow
-
-*2024-07-25 12:29:22* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-ආයෙත්-වැස්ස-වැඩි-වෙයි/11-410989) · `si`
-
-Expect heavy rainfall across the southwest island, particularly in the Western, Sabaragamuwa, and North Western provinces, including Nuwara Eliya, Galle, and Matara districts, starting from tomorrow (26).
-
-🟩
-
-The Department of Meteorology says that a rain condition in the southwest part of the island will be expected tomorrow (26).
-
-Thundershowers during the Western, Sabaragamuwa and North Western provinces, in general, Nuwara Eliya, Galle and Matara districts
-
-◼️
-
-[Data](articles/a499164b.json)
-
-[Extended Data](ext_articles/a499164b.ext.json)
-
----
-
-### Vitalization
-
-*2024-07-25 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189335) · `ta`
-
-A university student from Paragada Wella, Kandy, tragically passed away. The student was found unconscious near their home on the evening of the 22nd and succumbed to their injuries on the 23rd. Investigations reveal the student's mother, an assistant principal, and two siblings were absent during the incident. The student had been at home for two months due to non-academic university staff duties. An autopsy by Mr. Kasun Ekanayake, a senior lecturer at the Peradeniya University Medical Faculty, concluded the cause of death as unknown pending further investigation by Death Investigation Officer Senaka Karunaratne.
-
-🟩
-
-A university student from Paragada Wella, Kandy, Kandy, has died of life.
-
-The student was recovered on the morning of the 23rd of the 23rd afternoon, about 100 meters away from home on the 22nd.
-
-Police investigations have revealed that the mother of the deceased student was the assistant principal and that she and the other two children were not at home during the incident.
-
-The student has spent about 2 months at home due to the work of university non -academic staff.
-
-The autopsy of the body was conducted by Mr. Kasun Ekanayake, a senior lecturer of the Peradeniya University Medical Faculty.
-
-Death Investigation Officer Senaka Karunaratne, who is considering witnesses and medical reports, said the death was due to death.
-
-◼️
-
-[Data](articles/d90d8ab6.json)
-
-[Extended Data](ext_articles/d90d8ab6.ext.json)
-
----
-
-### COOs reduce the price of 9 types of goods
-
-*2024-07-25 12:23:10* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-වර්ග-9ක-මිල-අඩුකරයි/11-410988) · `si`
-
-COOs cut prices on 9 goods including milk powder, sugar, rice, and more effective today. Lanka Sathosa also slashes 9 marketing items' costs.
-
-🟩
-
-Lanka Sathosa reduces 9 types of marketing items. These reduced prices work from today.
-
-The price of nine items has been reduced by milk powder, sugar, rice, foreign rice, green gram,. In addition, Karyer Samba Rice is Rs.. 260 has also been able to get through Sathosa.
-
-◼️
-
-[Data](articles/fa090bae.json)
-
-[Extended Data](ext_articles/fa090bae.ext.json)
-
----
-
-### A navalman assaulted
-
-*2024-07-25 12:15:13* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-භටයෙකුට-පහරදිමක්/11-410987) · `si`
-
-Navy lodges complaint against marketing of a patrol vessel in Trincomalee and Konasekara Sea, suspecting marine troop breaches. Trainee Marine Lakshman Chathuranga attacked, hospitalized. Further investigation by Trincomalee harbor police.
-
-🟩
-
-The Navy had lodged a complaint with a marketing of a navy patrol vessel in Trincomalee and Konasekara Sea.
-
-Marines suspicion of a trainee breach of the marine troops who have been deployed to suppress the illegal activities of the sea have been attacked by the heads of the boat and the fishermen.
-
-The Marine Lakshman Chathuranga was admitted to the Trincomalee General Hospital in Nilaveli Naval Base. The Trincomalee harbor police are conducting further investigations
-
-◼️
-
-[Data](articles/3f360fba.json)
-
-[Extended Data](ext_articles/3f360fba.ext.json)
-
----
-
-### North Korea trash balloons disrupt flights in Seoul, cause rooftop fire
-
-*2024-07-25 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100765/north-korea-trash-balloons-disrupt-flights-in-seoul-cause-rooftop-fire) · `en`
-
-North Korea has sent about 500 balloons laden with trash into South Korea’s air space over the past 24 hours, officials in the South said on Thursday, disrupting flights and igniting a fire on the roof of a residential building.
-
-The balloons are part of an ongoing propaganda campaign by Pyongyang against North Korean defectors and activists in the South, who regularly send balloons carrying items such as anti-Pyongyang leaflets medicine, money and USB sticks loaded with K-pop videos and dramas.
-
-A suspected balloon suspended take-offs and landings at Seoul’s Gimpo Airport on Wednesday evening for two hours, an official at the Korea Airports Corporation said.
-
-Balloons have affected traffic at South Korea’s main international airport, Incheon, several times in recent weeks.
-
-In Gyeonggi, a province near Seoul, a balloon caught fire on top of a residential building. Fire fighters extinguished the blaze, an official at the Gyeonggi Northern Fire and Disaster Headquarters said.
-
-...
-
-[Data](articles/5e6d808e.json)
-
-[Extended Data](ext_articles/5e6d808e.ext.json)
 
 ---

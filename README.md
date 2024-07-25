@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 20:35:39**
+As of **2024-07-25 20:54:36**
 
 ## Newspaper Stats
 
-*Scraped **37,240** Articles*
+*Scraped **37,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
 adalk | 3,390
-adaderanalk | 4,310
+adaderanalk | 4,311
 tamilmirrorlk | 4,587
 dailymirrorlk | 4,733
 virakesarilk | 5,845
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,252
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,238 (100.0%) of 37,240 articles have been extended.
+37,240 (100.0%) of 37,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### මැතිවරණ වියදම අඩු කරන අයුරු පැහැදිලි කරයි
+### Explains how to reduce election costs
 
 *2024-07-25 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199209) · `si`
 
-මැතිවරණ වියදම් අඩුකිරීම සඳහා මැතිවරණ කොමිසම විසින් ඉදිරිපත් කරනු ලැබූ කිසිදු යෝජනාවකට මෙතෙක් කැබිනට් අනුමැතිය හිමිවී නැති බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+Election Commissioner Saman Sri Ratnayake states that no proposals to cut election costs have been approved by the Cabinet. Despite summoning commission officials to a government oversight committee, questions remain about cost-saving measures, particularly regarding voting fingerprint technology. The commissioner mentions a proposal related to reducing costs but notes its rejection and the ongoing need for effective solutions.
 
-වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව හමුවට කොමිසමේ නිලධාරීන් කැඳවූ අවස්ථාවේදී ඔහු මෙම අදහස් පළ කළේය.
+🟩
 
-එහිදී වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති ජගත් කුමාර මහතා ප්‍රශ්න කළේ, ඡන්දය භාවිත කිරීමේදී ඇඟිලි පාට කිරීම සඳහා වැය වන වියදම අඩු කරගැනීමට ගෙන ඇති ක්‍රියාමාර්ග මොනවාද යන්නය.
+Elections Commissioner General Saman Sri Ratnayake says that the Cabinet has not received the approval of any proposals made by the Election Cost to reduce election costs.
 
-ඊට පිළිතුරු දුන් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසුවේ, තීන්ත සඳහා රුපියල් ලක්ෂ 85ක පමණ වියදමක් යන බවත් එම වියදම වළක්වා ගත හැකි බවත්ය.
+The Commission officials were summoned when the Commission officials were summoned to the sectoral Oversight Committee on a responsible government.
 
-එමෙන්ම නිලධාරින් 14,000ක් සඳහා දින 3කට වැය වන වියදම් අඩු කළ හැකි බවය.
+Jagath Kumara, Chairman of the Sectoral Oversight Committee, has questioned what measures have been taken to reduce the cost of fingerprus of voting.
+
+The Commissioner General of Elections Saman Sri Ratnayake said that the paint is a cost of Rs.
+
+Also, 14,000 officers can reduce cost costs.
 
 ...
 
 [Data](articles/87f13eb2.json)
+
+[Extended Data](ext_articles/87f13eb2.ext.json)
 
 ---
 
@@ -83,6 +89,22 @@ Police said the shooting had occurred at the Wadullawatte area in Grand pass thi
 [Data](articles/1729b854.json)
 
 [Extended Data](ext_articles/1729b854.ext.json)
+
+---
+
+### Grandpass shooting victim succumbs to injuries
+
+*2024-07-25 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100774/grandpass-shooting-victim-succumbs-to-injuries) · `en`
+
+One person has been injured in a shooting incident at Grandpass in Colombo.
+
+Police said the shooting had occurred at the Wadullawatte area in Grand pass this evening (25).
+
+Police stated that the person who was injured in the Grandpass shooting incident has succumbed to his injuries.
+
+◼️
+
+[Data](articles/ae4dcd1c.json)
 
 ---
 
@@ -134,21 +156,31 @@ The event was not able to be abroad and had not been able to be remanded against
 
 ---
 
-### ’’வேலை நிறுத்தம் வேண்டாம்: வேலைக்கு போங்க’’
+### Do not stop striking: go to work
 
 *2024-07-25 18:27:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேலை-நிறுத்தம்-வேண்டாம்-வேலைக்கு-போங்க/76-341030) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும், அமைச்சருமான ஜீவன் தொண்டமான் விசேட அறிக்கையொன்றை ​வியாழக்கிழமை (25) மாலை விடுத்துள்ளார்.
+Jeevan Thondaman, Minister of the Ceylon Workers Congress, urged workers to end their strike against a plantation company and return to work from July 26, 2024, due to its impact on their livelihoods. The strike was initiated over concerns about tea land cultivation in the Nanuoya Udarathalla estate. Three leaders were dismissed for protesting, and the court ordered them to appear. Thondaman thanked protesters and promised legal action against the company.
 
-பெருந்தோட்ட கம்பனி ஒன்றின் கீழ் இயங்கும் நானுஓயா உடரதல்ல தோட்டத்தில் கடந்த மே மாதம் தேயிலை காணியில் கோப்பி பயிரிடப்பட்டதை எதிர்த்து தோட்ட முகாமையாளரிடம் வாக்குவாதத்தில் ஈடுபட்ட மூன்று தலைவர்களையும் தோட்ட நிர்வாகம் பதவி நீக்கம் செய்தது.
+🟩
 
-இவ்விடயம் எனது கவனத்திற்கு கொண்டுவரப்பட்டதையடுத்து உடனடியாக நான் களத்திற்கு சென்று நடவடிக்கைகளை மேற்கொண்டதனால் குறிப்பிட்ட தோட்ட முகாமையாளரினால் எனக்கெதிராக வழக்கு தொடரப்பட்டதன் காரணமாக சந்தேக நபர்களை நீதி மன்றத்தில் ஆஜராகுமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றத்தினால் அறிவிக்கப்பட்டுள்ளது.
+Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, issued a special report on Thursday evening.
 
-மேலும், இச்சம்பவம் தொடர்பாக கேள்வியுற்று அனைத்து பொது மக்கள் சார்பாகவும் குறிப்பிட்ட பெருந்தோட்டக் கம்பனிக்கு எதிராக தொடர்ச்சியாக அடையாள வேலை நிறுத்தத்தினை மேற்கொண்டு வருகின்றீர்கள்.
+The plantation administration dismissed three leaders who were arguing with the estate manager in protest of the cultivation of tea land in the Nanuoya Udarathalla estate under a plantation company.
 
-...
+The Nuwara Eliya District Magistrate's Court has announced that the suspects should appear before the court as I went to my notice and immediately went to the field.
+
+In addition, you are continuously on strike against the particular plantation company on behalf of all the public and on behalf of the public.
+
+I urge all to abandon the struggles and go to work from tomorrow (26.07.2024) as their career and livelihood is affected by the strike.
+
+I would like to express my gratitude to all those who have been protesting so far and we will take legal action in the future against the activities of the plantation company that manages the body.
+
+◼️
 
 [Data](articles/4f26db7e.json)
+
+[Extended Data](ext_articles/4f26db7e.ext.json)
 
 ---
 
@@ -2315,25 +2347,5 @@ Seventes of the 17 staff in the ship have been able to save 16.
 [Data](articles/ea615979.json)
 
 [Extended Data](ext_articles/ea615979.ext.json)
-
----
-
-### The key thing that Basil Rajapaksa has urged to the president!
-
-*2024-07-25 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189315) · `ta`
-
-Basil Rajapaksa has asked President Ranil Wickremesinghe to appoint him as Prime Minister in the interim government, contingent upon the PA's support.
-
-🟩
-
-Basil Rajapakse has urged President Ranil Wickremesinghe to give the post of Prime Minister the post of Prime Minister in the interim government.
-
-It is noteworthy that Bashil Rajapakse has urged the president to give his party the post of Prime Minister in the interim government if the PA is supported by the PA.
-
-◼️
-
-[Data](articles/2f5eac94.json)
-
-[Extended Data](ext_articles/2f5eac94.ext.json)
 
 ---

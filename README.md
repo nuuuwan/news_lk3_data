@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 07:49:21**
+As of **2024-07-25 08:04:13**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,104 (100.0%) of 37,105 articles have been extended.
+37,105 (100.0%) of 37,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### අවසන් තීරණයට මැතිවරණ කොමිසම අද රැස්වෙයි
+### The Election Commission gains on final decision
 
 *2024-07-25 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199181) · `si`
 
-ජනාධිපතිවරණය පැවැත්වෙන දිනය සහ නාම යෝජනා කැඳවීම සිදුකරන දිනය පිළිබ﻿ඳ අවසන් තීරණය ගැනීම සඳහා මැතිවරණ කොමිෂන් සභාව අද (25) රැස්වීමට නියමිත ව තිබේ.
+The Elections Commission is set to finalize the date for the upcoming presidential election today. The chairman, RMA SL Ratnayake, confirmed that all necessary preparations are complete.
 
-අද පෙරවරුවේ මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතාගේ ප්‍රධානත්වයෙන් මැතිවරණ කොමිසන් සභාව රැස්වීමට නියමිතය.
+🟩
 
-එහිදී ඉදිරි ජනාධිපතිවරණය පැවැත්වෙන දිනය පිළිබඳව කොමිෂන් සභාවේ සාමාජිකයින් අතර අවසන් එකඟතාවයකට පැමිණීමට නියමිත බව වාර්තා වේ.
+The Elections Commission is due to meet today (25) to meet the final decision on the date of calling on the date of calling on the date of the date and nominations.
 
-ජනාධිපතිවරණය පැවැත්වෙන දිනය පිළිබඳව මෙම සති අන්තයට පෙර නිවේදනය කරන බව ඊයේ (24) පැවති මාධ්‍ය හමුවකදී මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතා සඳහන් කළේය.
+The Elections Commission Chairman of the Elections Commission RMA SL Ratnayake is scheduled to meet.
 
-ජනාධිපතිවරණය පැවැත්වීම සඳහා අවශ්‍ය මුලික කටයුතු මේ වන විටත් අවසන් කර ඇති බව මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා එහිදී සඳහන් කළේය.
+It is reported that the Commission is due to come to a final agreement on the next presidential election.
+
+Election at a media briefing yesterday (24) stated that the date on the date of the date on the date of the date of the date of the election.
+
+The Chairman of the Election Committee said that the basic work required for the presidential election have already been completed.
 
 ◼️
 
 [Data](articles/86345805.json)
+
+[Extended Data](ext_articles/86345805.ext.json)
 
 ---
 

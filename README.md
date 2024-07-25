@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 15:20:24**
+As of **2024-07-25 15:36:03**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 6,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,197 (100.0%) of 37,201 articles have been extended.
+37,201 (100.0%) of 37,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ආර්ථික අර්බුදයෙන් පසු ජන ජීවිතය ගැන සමීක්ෂණයකින් හෙළිකරයි
+### A survey reveals about life after the economic crisis
 
 *2024-07-25 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199199) · `si`
 
-‍ආර්ථික අර්බුදය හේතුවෙන් මෙරට ගෘහ ඒකකවලින් සියයට 22ක් ණය වී ඇති බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+A post-economic crisis survey shows 22% of households are in debt, with 60.5% experiencing reduced income. The education sector was hit hard, affecting 54.9%, and 93.5% of those impacted adopted coping strategies. Job losses were significant, especially among males, with 14.2% of 15-year-olds unemployed. Health expenses rose for 91% of respondents, and 81.7% reported difficulty accessing medical care due to financial constraints.
 
-එම දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ සමස්ථ ගෘහ ඒකකවලින් සියයට 60.5කගේ සාමාන්‍ය මාසික ආදායම අඩුවී ඇති බවය.
+🟩
 
-ආර්ථික අර්බුදයේ බලපෑම පිළිබඳව ගෘහ ඒකක සමීක්ෂණයේ 2023 වර්ෂයේ වාර්තාවට අනුව මෙම තොරතුරු අනාවරණය වී තිබේ.
+The Department of Census and Statistics say that 22% of the country's household is owed due to the economic crisis.
 
-ආර්ථික අර්බුදය හේතුවෙන් අවුරුදු 03ත් 21ත් අතර සියයට 54.9ක පුද්ගලයින්ගේ අධ්‍යාපන ක්ෂේත්‍රයට බලපෑම් එල්ලවී ඇති අතර ඉන් සියයට 93.5ක් එම බලපෑම අවම කිරීම සඳහා උපාය මාර්ග අනුගමනය කර ඇති බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+The department points out that the average monthly income of 60.5 percent of the total household is reduced.
 
-ආර්ථික අර්බුදයේ බලපෑම හේතුවෙන් 2022 වර්ෂයේ මාර්තු මාසයේ සිට වයස අවුරුදු 15ට වැඩි පුද්ගලයින්ගෙන් සියයට 14.2කට රැකියා අහිමි වී ඇති අතර ස්ත්‍රීන්ට සාපේක්ෂව පුරුෂයින්ගේ රැකියා අහිමිවීමේ ප්‍රතිශතය ඉහළ බව වාර්තා වෙයි.
+According to the report of the household survey, the year 2023 of the year's domestic survey revealed.
 
-2023 වර්ෂයේදී මෙරට සමස්ථ ගෘහ ඒකකවලින් සියයට 91ක සාමාන්‍ය මාසික වියදම වැඩිවී ඇති අතර සමස්ථ ජන ගහනයෙන් සියයට 7ක් ඔවුන්ගේ සෞඛ්‍ය ප්‍රතිකාර ක්‍රමය වෙනස් කර ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව සිදුකළ සමීක්ෂණයෙන් අනාවරණය වී තිබේ.
+The education sector of 54.9 percent of the economic crisis has been affected by the Department of Census and Strategies that 93.5% of them have followed the strategies.
 
-...
+Due to the influence of the economic crisis, 14.2 percent of the age of 15 has lost their jobs and the percentage of men's job loss in relation to women.
+
+The survey conducted by the Department of Census and Statistics have revealed that the average monthly expenditure of 91 percent in 2023 has increased their health mode.
+
+The majority of 81.7 percent of the treatment of treating treatment has stated that due to the absence of sufficient money.
+
+◼️
 
 [Data](articles/b3bc9bf1.json)
+
+[Extended Data](ext_articles/b3bc9bf1.ext.json)
 
 ---
 
@@ -203,6 +211,8 @@ The National Election Commission had convene a meeting today (25) to finalize th
 ...
 
 [Data](articles/ce1071cc.json)
+
+[Extended Data](ext_articles/ce1071cc.ext.json)
 
 ---
 
@@ -454,33 +464,45 @@ Death Investigation Officer Senaka Karunaratne, who is considering witnesses and
 
 ---
 
-### සතොස භාණ්ඩ වර්ග 9ක මිල අඩුකරයි
+### COOs reduce the price of 9 types of goods
 
 *2024-07-25 12:23:10* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-වර්ග-9ක-මිල-අඩුකරයි/11-410988) · `si`
 
-ලංකා සතොස හරහා අලෙවිකරණ භාණ්ඩ වර්ග 9ක මිල අඩු කිරිම කටයුතු කර තිබේ. මෙම අඩුකළ මිල ගණන් අද සිට ක්‍රියාත්මක වෙයි.
+COOs cut prices on 9 goods including milk powder, sugar, rice, and more effective today. Lanka Sathosa also slashes 9 marketing items' costs.
 
-කිරිපිටි, සීනි, හාල් මැස්සෝ, විදේශීය ලූණු, කැකුළු සහල්, මුං ඇට යනාදි භාණ්ඩ 9ක මිල මෙසේ අඩුකර තිබේ. මීට අමතරව කීරි සම්බා සහල් රජයේ පාලන මිල වන රු. 260ට සතොස හරහා ලබා ගැනීමේ අවස්ථාවද ලැබී තිබේ.
+🟩
+
+Lanka Sathosa reduces 9 types of marketing items. These reduced prices work from today.
+
+The price of nine items has been reduced by milk powder, sugar, rice, foreign rice, green gram,. In addition, Karyer Samba Rice is Rs.. 260 has also been able to get through Sathosa.
 
 ◼️
 
 [Data](articles/fa090bae.json)
 
+[Extended Data](ext_articles/fa090bae.ext.json)
+
 ---
 
-### නාවික හමුදා භටයෙකුට පහරදිමක්
+### A navalman assaulted
 
 *2024-07-25 12:15:13* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-භටයෙකුට-පහරදිමක්/11-410987) · `si`
 
-ත්‍රිකුණාමලය,කෝණේස්වරන් මුහුදේ දී සැක කටයුතු ධීවර යාත්‍රාවක් පරීක්ෂා කිරීමට ගිය නාවික හමුදා මුර යාත්‍රාවක සිටි නාවික භටයකුට පහරදී තුවාල සිදු කිරීමේ සිද්ධියක් සම්බන්ධයෙන් නාවික හමුදාව ඊයේ (24) පැමිණිල්ලක් කළ බව ත්‍රිකුණාමල වරාය පොලීසිය කියයි.
+Navy lodges complaint against marketing of a patrol vessel in Trincomalee and Konasekara Sea, suspecting marine troop breaches. Trainee Marine Lakshman Chathuranga attacked, hospitalized. Further investigation by Trincomalee harbor police.
 
-මුහුදේ නීති විරෝධී ක්‍රියා මැඩ පැවැත්වීම සඳහා යොදවා තිබු මුර සංචාරක යාත්‍රාවක සිටී නාවික භටයන් සැක කටයුතු ධීවර බෝට්ටුවක් පරීක්ෂා කිරීමට යෑමේදී බෝට්ටුවේ දැල්වලට යොදා තිබූ ඊයම් බරු සහ ගල් වලින් එම නාවික භටයන් දෙදෙනෙකුට පහරදී ධිවර බෝට්ටුව පලා ගොස් තිබුණි.
+🟩
 
-නිලාවේලි විජයබා නාවික කඳවුරේ නාවික භට ලක්ෂ්මන් චතුරංග නමැති අය මෙලෙස තුවාල ලබා ත්‍රිකුණාමලය මහ රෝහලේ ප්‍රතිකාර ලබයි .සිද්ධියට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ත්‍රිකුණාමල වරාය පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වාගෙන යයි
+The Navy had lodged a complaint with a marketing of a navy patrol vessel in Trincomalee and Konasekara Sea.
+
+Marines suspicion of a trainee breach of the marine troops who have been deployed to suppress the illegal activities of the sea have been attacked by the heads of the boat and the fishermen.
+
+The Marine Lakshman Chathuranga was admitted to the Trincomalee General Hospital in Nilaveli Naval Base. The Trincomalee harbor police are conducting further investigations
 
 ◼️
 
 [Data](articles/3f360fba.json)
+
+[Extended Data](ext_articles/3f360fba.ext.json)
 
 ---
 

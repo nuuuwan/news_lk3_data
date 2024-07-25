@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 05:38:16**
+As of **2024-07-25 06:02:37**
 
 ## Newspaper Stats
 
-*Scraped **37,088** Articles*
+*Scraped **37,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ dbsjeyarajcom | 322
 colombotelegraphcom | 350
 bbccomsinhala | 362
 newsfirstlk | 363
-islandlk | 2,107
+islandlk | 2,117
 economynextcom | 2,220
 dailyftlk | 2,371
 adalk | 3,366
 adaderanalk | 4,290
-tamilmirrorlk | 4,562
+tamilmirrorlk | 4,563
 dailymirrorlk | 4,733
 virakesarilk | 5,820
 adaderanasinhalalk | 6,222
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,088 (100.0%) of 37,088 articles have been extended.
+37,088 (100.0%) of 37,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### தேர்தல் திகதி அறிவிப்பு வெள்ளி வெளியாகும்
+
+*2024-07-25 05:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திகதி-அறிவிப்பு-வெள்ளி-வெளியாகும்/175-340987) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கான திகதி நாளை (26) நள்ளிரவில் அறிவிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு வட்டாரங்கள் தெரிவித்துள்ளன
+
+◼️
+
+[Data](articles/a9ea007e.json)
+
+---
 
 ### Sajith demands immediate compensation for enforced COVID-19 cremations
 
@@ -676,6 +688,42 @@ The captain of the team, Dadtcha Buddhavong, scored 13 runs and Appissara Swanch
 
 ---
 
+### Keen interest from Kurunegala based SMEs to explore capital-raising opportunities through stock market
+
+*2024-07-24 22:13:00* · [`islandlk`](http://island.lk/keen-interest-from-kurunegala-based-smes-to-explore-capital-raising-opportunities-through-stock-market/) · `en`
+
+The Colombo Stock Exchange (CSE) hosted an issuer forum recently at ‘The Epitome’, Kurunegala, titled “
+
+ඔබේ ව්‍යාපාරයට නව ප්‍රවේශයක්” for business owners in the Wayamba province. The forum provided guidance on exploring effective capital-raising avenues, specifically through listing on the Empower and Diri Savi Boards. These boards cater to SMEs across a wide range of sectors, including agribusinesses, livestock, energy generation, ICT, and tourism-related ventures. Industry experts including CSE representatives led panel discussions and interactive sessions.
+
+Addressing the gathering, Rajeeva Bandaranaike, CEO of CSE, stated, “A listing offers substantial benefits to a company, from raising much needed capital to enhancing its business stature, fostering sound governance, sustainable practices, and enabling wealth creation for shareholders through an IPO or an introduction.”
+
+...
+
+[Data](articles/62f51a6f.json)
+
+---
+
+### Soul Sounds Academy triumphs at 13th Bali International Choir Festival 2024
+
+*2024-07-24 22:12:00* · [`islandlk`](http://island.lk/soul-sounds-academy-triumphs-at-13th-bali-international-choir-festival-2024/) · `en`
+
+Twenty-five young soloists from Sri Lanka’s Soul Sounds Academy excelled at the 13th Bali International Choir Festival 2024, winning 17 gold medals and 8 silver medals in the solo categories.
+
+Competing in both Children’s Solo and Youth Solo categories, these talented performers showcased their exceptional skills. Their success was achieved under the expert guidance of renowned musician Soundarie David Rodrigo, along with vocal trainers Shivanthi Subramaniam and Shenuk Wijesinghe, who ensured their performances were outstanding.
+
+Soul Sounds Academy is committed to nurturing young talent, providing numerous opportunities for these young artists to perform on local and international stages. The academy takes immense pride in celebrating the achievements of all its medalists and their remarkable journey so far.
+
+Sri Lanka’s economy on Y-o-Y growth expansion of 5.3 percent – CBSL Governor
+
+CBSL’s decision on monetary policy rates energizes bourse; indices rise
+
+...
+
+[Data](articles/24331c42.json)
+
+---
+
 ### Namal asks for the prime minister to support the election
 
 *2024-07-24 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199177) · `si`
@@ -699,6 +747,22 @@ Meanwhile, it is reported that Basil Rajapaksa is scheduled to meet with Preside
 [Data](articles/d5dfbb8c.json)
 
 [Extended Data](ext_articles/d5dfbb8c.ext.json)
+
+---
+
+### CBSL’s decision on monetary policy rates energizes bourse; indices rise
+
+*2024-07-24 22:10:00* · [`islandlk`](http://island.lk/cbsls-decision-on-monetary-policy-rates-energizes-bourse-indices-rise/) · `en`
+
+The stock market kicked off on a bullish note yesterday. Buying interest moved up due to the Central Bank’s cutting of monetary policy rates, market analysts said.
+
+Consequently, both indices moved upwards. The All Share Price Index went up by 104.4 points, while the S and P SL20 rose by 45.40 points. Turnover stood at Rs 595 million with one crossing. The crossing was reported in HNB, which crossed 200,000 shares to the tune of Rs 37.4 million; its shares traded at Rs 187.
+
+In the retail market, top six companies that mainly contributed to the turnover were; Access Engineering Rs 49.9 million (2.2 million shares traded), Commercial Credit Rs 43 million (1.1 million shares traded), HNB (Non-Voting) Rs 34.2 million (228,000 shares traded), NDB Rs 30.6 million (426,000 shares traded), TJ Lanka Rs 30 million (749,000 shares traded) and JKH Rs 26.5 million (137,000 shares traded). During the day 20.9 million share volumes changed hands in 6408 transactions.
+
+...
+
+[Data](articles/c37fc1a3.json)
 
 ---
 
@@ -2251,97 +2315,5 @@ It is also worth noting that one of the arrested was already legal action on dru
 [Data](articles/081d284e.json)
 
 [Extended Data](ext_articles/081d284e.ext.json)
-
----
-
-### Nepal's terrible aircraft accident
-
-*2024-07-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199158) · `si`
-
-In a tragic aircraft accident in Nepal today, 19 passengers and crew were aboard, heading to Porcula Airport from Porcota Airport. Unfortunately, 18 have lost their lives, with only the pilot surviving. Relief workers confirm this grim toll.
-
-🟩
-
-The event was killed in the accident in Nepal today (23).
-
-When the accident, 19 people were traveling with two staff of the plane.
-
-The other 17 is attending Porcota Airport, who is traveling to the Porcula Airport.
-
-Relief Employees say 18 people were killed and the pilot had been rescued that 18 people were killed.
-
-◼️
-
-[Data](articles/751ec3a6.json)
-
-[Extended Data](ext_articles/751ec3a6.ext.json)
-
----
-
-### Jeevan Thondaman strikes at Talawakelle demanding not arrest
-
-*2024-07-24 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189260) · `ta`
-
-Talawakelle plantation workers struck on 24th against the Kelaniya Company for refusing to pay wages. The company sued their union leader, leading to worker protests across several locations.
-
-🟩
-
-Plantation workers under the Talawakelle Plantation Management under the Halees Plantation Company went on strike today (24).
-
-The strike was launched to condemn the disgust of the Kelaniya Company, which refuses to pay Rs.
-
-The plantation workers have said that the plantation companies have taken their union leader to the court and arrest the arrest of the plantation companies.
-
-The plantation workers from Greate Weston, Vattakoda, Holrud, Pomston, Radhalla, Samarzett, Loki, Gommood, Middleton, Kelsi Maelia and Desport were involved in the workplace yesterday (23).
-
-◼️
-
-[Data](articles/9e065103.json)
-
-[Extended Data](ext_articles/9e065103.ext.json)
-
----
-
-### Flight accident in Nepal;18 killed
-
-*2024-07-24 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189255) · `ta`
-
-In Nepal, a plane carrying 19 passengers crashed at Kathmandu's Tribhuvan International Airport, killing all onboard except one seriously injured pilot. The aircraft, from Sauriya Airlines, also hit Pokhara resort.
-
-🟩
-
-A plane that was ready to depart with 19 passengers in Nepal crashed on Wednesday morning.
-
-The plane crashed at the Thiruboun International Airport in Kathmandu, the capital.
-
-The crash has died in the accident, the airport said in a media report.
-
-The pilot, who was rescued with serious injuries, has been taken to a nearby hospital.
-
-The aircraft, which belongs to Nepal's Sauriya airline, crashed into the resort of Pokkara.
-
-◼️
-
-[Data](articles/5dc4b5ec.json)
-
-[Extended Data](ext_articles/5dc4b5ec.ext.json)
-
----
-
-### US intelligence head resigns
-
-*2024-07-24 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199157) · `si`
-
-Kimbali Chetal, US intelligence chief, steps down from her position.
-
-🟩
-
-US intelligence chief Kimbali Chetal has resigned from his post.
-
-◼️
-
-[Data](articles/2bf20ab3.json)
-
-[Extended Data](ext_articles/2bf20ab3.ext.json)
 
 ---

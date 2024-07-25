@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 13:05:37**
+As of **2024-07-25 13:20:30**
 
 ## Newspaper Stats
 
-*Scraped **37,178** Articles*
+*Scraped **37,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,301
 tamilmirrorlk | 4,583
 dailymirrorlk | 4,733
 virakesarilk | 5,831
-adaderanasinhalalk | 6,237
+adaderanasinhalalk | 6,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,177 (100.0%) of 37,178 articles have been extended.
+37,178 (100.0%) of 37,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### ජනපති අපේක්ෂකත්වයෙන් ඉවත්වූ හේතුව බයිඩන් හෙළිකරයි
+
+*2024-07-25 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199194) · `si`
+
+2024 අමෙරිකානු ජනාධිපතිවරණයේ ඩිමොක්‍රටික් පක්ෂ අපේක්ෂකත්වයෙන් ඉවත් වීමට අමෙරිකානු ජනාධිපති ජෝ බයිඩන් පසුගියදා පියවර ගෙන තිබුණි.
+
+අපේක්ෂකත්වයෙන් බයිඩන් ඉවත්විය යුතු බවට හිටපු කථානායිකා නැන්සි පොලොසි ඇතුළු ඩිමොක්‍රටික් පක්ෂයේ ප්‍රමුඛයින් පවා මත පළ කිරීමත් සමඟ එල්ල වූ පීඩනය බයිඩන්ගේ එම තීරණයට හේතුවක් වූ බව නොරහසකි.
+
+කෙසේ වුවද තමන් අපේක්ෂකත්වයෙන් ඉවත් වුයේ සිය පක්ෂයේ එක්සත් බව වෙනුවෙන් සහ රටේ ප්‍රජාතන්ත්‍රවාදයට ගරු කරමින් බව ජනපති බයිඩන් පවසයි.
+
+◼️
+
+[Data](articles/fd633d64.json)
+
+---
 
 ### North Korea trash balloons disrupt flights in Seoul, cause rooftop fire
 
@@ -298,21 +314,27 @@ According to political sources, both sides are paying attention to President Ran
 
 ---
 
-### මලල ක්‍රීඩා කණ්ඩායම ඔලිම්පික් තරගාවලියට යයි
+### Athletics team goes to the Olympic Games
 
 *2024-07-25 11:06:10* · [`adalk`](https://www.ada.lk/sports/මලල-ක්‍රීඩා-කණ්ඩායම-ඔලිම්පික්-තරගාවලියට-යයි/9-410982) · `si`
 
-ශ්‍රී ලංකා මළළ ක්‍රීඩා කණ්ඩායම 33 වැනි ඔලිම්පික් ක්‍රීඩා තරගාවලිය සදහා 07/24 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළෙන්  පිටත්ව ගියහ.
+The Sri Lanka Balaya Sports Group departed from Katunayake airport for the 33rd Olympic Games, led by representative Tharushi Karunaratne. The group includes two athletes and six officials, under the guidance of Secretary Saman Kumara Gunawardena. They embarked on their journey on the 6th, marking their participation in the global event.
 
-මෙම ශ්‍රී ලංකා  මළළ ක්‍රීඩා කණ්ඩායම නියෝජනය කරමින්  තරුෂි කරුණාරත්න , දිල්හානි ලේකම්ගේ සහ අරුණ දර්ශන ප්‍රංශය වෙත පිටත්ව යාමට  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+🟩
 
-මේ වනවිට ශ්‍රී ලංකාව නියෝජනය කරමින් මෙම තරගාවලිය සදහා සහභාගී වන මළළ ක්‍රීඩකයින් තිදෙනකු , පිහිනුම් ක්‍රීඩකයින් දෙදෙනෙකු සහ එක් බැඩ්මින්ටන් ක්‍රීඩකයෙකු ද නිලධාරීන් 06 දෙනෙකු ද ප්‍රංශය බලා පිටත්ව ගොස් ඇති බව ශ්‍රී ලංකා මළළ ක්‍රීඩා සංගමයේ ලේකම්  සමන් කුමාර ගුණවර්ධන  මහතා කටුනායක ගුවන් තොටුපොළේ දී පැවසීය .
+The Sri Lanka Balaya Sports Group left the Katunayake airport for the 33rd Olympic Games.
 
-ඔවුන් 07/24 දින රාත්‍රී 09.15 ට දෝහා බලා පිටත්ව ගිය කටාර් ගුවන් සේවයේ කිව්.ආර්.- 657 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගිය අතර ඉන්පසුව එතැන් සිට තවත් වෙනත් ගුවන් යානයකින් ප්‍රංශය බලා පිටත්ව යාමට නියමිතය .
+Tharushi Karunaratne, Tharushi Karunaratne, representing the Sri Lanka Balaya Sports Team, was on the Katunayake airport to leave France.
+
+Sri Lanka Bahliya Sports Association Secretary Saman Kumara Gunawardena said at the Katunayake airport that two hormed and six officers participating in the tournament.
+
+They left the Katunayake airport on the Katunayake airport on the 657-owner of Qatar on the 6th.
 
 ◼️
 
 [Data](articles/69d5e76e.json)
+
+[Extended Data](ext_articles/69d5e76e.ext.json)
 
 ---
 
@@ -2247,39 +2269,5 @@ Grate the cucumber to form a pulp Mix the yoghurt and cucumber pulp to make a pa
 [Data](articles/530e5cdc.json)
 
 [Extended Data](ext_articles/530e5cdc.ext.json)
-
----
-
-### Bangladesh's current champion will meet India by 114 runs
-
-*2024-07-24 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189304) · `ta`
-
-Bangladesh advanced to the finals of the Women's R 20 Asian Cup after defeating Malaysia by 114 runs in the semis. Led by half-centuries from Murshida Khan and Nikar Sultana, Bangladesh made 191/2 in 20 overs. In response, Malaysia was bowled out for 77, with Elsa Hunter top-scoring at 20. Bangladesh will now face India in the final.
-
-🟩
-
-Former Champions Bangladesh won the semi -finals by 114 runs in the women's R 20 Asian Cup cricket match for the B Group held at the Dambulla International Stadium on Wednesday afternoon.
-
-Murshida Khan and team captain Nikar Sultana hit the half -centuries of Bangladesh's lighter victory.
-
-Bangladesh, who decided to bat first in the match against Malaysia, scored 191 runs for the loss of 2 wickets in 20 overs.
-
-Dilara Akhtar (33) and Murshita Kathun scored 65 runs in 46 balls in the opening wicket.
-
-In the second wicket, the Murshida Sultan shared the 89 runs with Nikar Sultana and put the team strong.
-
-Murshida Khan scored 80 runs while team captain Nikar Sultana scored 62 runs and Dilara Akhtar 33 runs.
-
-In reply, Malaysia lost 8 wickets in 20 overs and lost 77 runs.
-
-Elsa Hunter (20), Mahra Isati Ismail (15) and Wen Julia (11) were more than 10 runs.
-
-Bangladesh, who won the match, will oppose the current champion India in the first semi -finals on Friday.
-
-◼️
-
-[Data](articles/1cd3e3b5.json)
-
-[Extended Data](ext_articles/1cd3e3b5.ext.json)
 
 ---

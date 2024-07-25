@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 03:20:35**
+As of **2024-07-26 03:36:37**
 
 ## Newspaper Stats
 
-*Scraped **37,297** Articles*
+*Scraped **37,300** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 326
+dbsjeyarajcom | 327
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,120
 economynextcom | 2,238
-dailyftlk | 2,386
+dailyftlk | 2,388
 adalk | 3,393
 adaderanalk | 4,313
 tamilmirrorlk | 4,592
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,294 (100.0%) of 37,297 articles have been extended.
+37,297 (100.0%) of 37,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Sri Lanka’s next President
+
+*2024-07-26 03:16:30* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-next-President/4-764782) · `en`
+
+A no holds barred critique on credentials of three favourites
+
+There’s a political poster that’s been splashed on the walls of Colombo. Black letters on a yellow background mean that the author or the party cannot be identified. It is obviously a teaser campaign. It comes with a promise, which of course is the bread and butter of all politicians. Apparently, ‘the lie will come to an end,’ and on the 29th, the name of the messiah who will take all Sri Lankans to some yet-to-be-named promised land will be revealed.
+
+This is the season for that kind of thing, so the timing is not bad at all. After all, people are talking about elections these days. They are wondering if elections will be held soon and, if so, whether it would be a presidential or parliamentary election. They talk about candidates, those who have announced their intentions and those who might very soon.
+
+...
+
+[Data](articles/bc4f9458.json)
+
+---
+
+### Resource-rich, policy-poor: Sri Lanka’s flagging growth sectors
+
+*2024-07-26 03:05:55* · [`dailyftlk`](https://www.ft.lk/opinion/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/14-764781) · `en`
+
+Sri Lanka’s agriculture and mineral policies need overhauling along with fresh thinking and national minded leadership
+
+Sri Lanka sits on a wealth of resources, but let it all go to waste. Agriculture was one such historical natural strength in what used to be the ‘Pearl of the Indian Ocean,’ bringing fame and fortune from far and wide. Today, we import rice, coconuts and other agri-commodities – a far cry from former glory. Skewed agricultural policy perpetuated by the lack of political will burns holes in the future potential of an industry and our people.
+
+...
+
+[Data](articles/aea18543.json)
+
+---
 
 ### Fitch says lower generation costs support CEB’s tariff cut; no risk to IPP payments
 
@@ -45,6 +75,8 @@ The Public Utilities Commission of Sri Lanka’s instruction on the 22.5% averag
 ...
 
 [Data](articles/72e44411.json)
+
+[Extended Data](ext_articles/72e44411.ext.json)
 
 ---
 
@@ -224,6 +256,8 @@ Rajapakshe emphasised the need for specialised banks for entrepreneurs, increase
 
 [Data](articles/fc9f7ba2.json)
 
+[Extended Data](ext_articles/fc9f7ba2.ext.json)
+
 ---
 
 ### Cabinet consideration of SC order on IGP undermines rule of law says YJA
@@ -239,6 +273,8 @@ The YJA in its petition had maintained that the nomination of Thennakoon was unc
 ...
 
 [Data](articles/5bd9ce71.json)
+
+[Extended Data](ext_articles/5bd9ce71.ext.json)
 
 ---
 
@@ -2277,51 +2313,5 @@ The Magistrate's Magistrate had submitted this petition to challenge the sentenc
 [Data](articles/eba17369.json)
 
 [Extended Data](ext_articles/eba17369.ext.json)
-
----
-
-### Sri Lanka speaker in China discusses Belt and Road Initiative cooperation
-
-*2024-07-25 13:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-in-china-discusses-belt-and-road-initiative-cooperation-173737/) · `en`
-
-ECONOMYNEXT – Speaker of Parliament Mahinda Yapa Abeywardana has discussed furthering cooperation between Sri Lanka and China while on a visit there this week.
-
-“Discussions focused on enhancing cooperation under the Belt and Road Initiative, particularly in advancing key projects like the Colombo Port City and Hambanthota Port,” a Parliament statement said.
-
-Sri Lanka is a key partner in China’s Belt and Road Initiative (BRI), known in China as the One Belt One Road (OBOR) and sometimes referred to as the New Silk Road, a global infrastructure development strategy adopted by the Chinese government in 2013 to invest in more than 150 countries and international organizations.
-
-The BRI is composed of six urban development land corridors linked by road, rail, energy, and digital infrastructure and the Maritime Silk Road linked by the development of ports.
-
-Abeywardana was in China to attend the 8th China-South Asia Exposition held in Kunming, Yunnan Province.
-
-...
-
-[Data](articles/7295723c.json)
-
-[Extended Data](ext_articles/7295723c.ext.json)
-
----
-
-### Nuwan Thushara also gets injured
-
-*2024-07-25 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199195) · `si`
-
-Sri Lanka cricketer Nuwan Desharu was ruled out of the tournament due to a finger injury, losing a bone during training. The Indian cricket team, currently in Sri Lanka for three ODIs and T20s, will face this setback as Desharu was part of the squad against them.
-
-🟩
-
-Sri Lanka Cricketer Nuwan Desharu has been removed from the tournament due to a disorder when training during training last night (24).
-
-Issuing an announcement, SLC has stated that his finger has had a bone loss.
-
-Meanwhile, Sri Lanka fast bowler was lost to India with India.
-
-The Indian team is currently in Sri Lanka to attend three ODIs and 20 ODIs.
-
-◼️
-
-[Data](articles/69faef03.json)
-
-[Extended Data](ext_articles/69faef03.ext.json)
 
 ---

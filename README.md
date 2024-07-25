@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 17:56:49**
+As of **2024-07-25 18:15:20**
 
 ## Newspaper Stats
 
-*Scraped **37,224** Articles*
+*Scraped **37,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
 adalk | 3,383
-adaderanalk | 4,307
+adaderanalk | 4,308
 tamilmirrorlk | 4,585
 dailymirrorlk | 4,733
 virakesarilk | 5,845
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,248
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,224 (100.0%) of 37,224 articles have been extended.
+37,224 (100.0%) of 37,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### Public Financial Management and Economic Transformation Bills passed in Parliament
+
+*2024-07-25 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100772/public-financial-management-and-economic-transformation-bills-passed-in-parliament) · `en`
+
+The Public Financial Management Bill and the Economic Transformation Bill have been passed in Parliament today (25) with amendments and without a vote.
+
+Amendments were incorporated to the bills during the committee stage and subsequently, the third reading was passed without a vote.
+
+These two bills were presented to Parliament on 22 May 2024.
+
+◼️
+
+[Data](articles/a4f2eb4f.json)
+
+---
 
 ### Cabinet approves the proposal to implement the national agenda of anti-corruption
 
@@ -2303,29 +2319,5 @@ Sri Lanka's six heroes and 6 heroes have qualified for the Olympic Games as the 
 [Data](articles/587d1df3.json)
 
 [Extended Data](ext_articles/587d1df3.ext.json)
-
----
-
-### Another suspicious death in a house
-
-*2024-07-25 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199183) · `si`
-
-A 74-year-old from Pettikuri, Pandathippu, died under mysterious circumstances. The Illyvali Police started investigating after finding the body in his home. The exact cause of death remains unknown, and the body was sent to Jaffna Hospital for autopsy.
-
-🟩
-
-Investigations into the police have commenced investigations into a house in Pandathippuwa area in the Illyvali Police Division.
-
-The deceased has been identified as a 74 year old resident of Pettikuri, Pandathippu area.
-
-The body has been informed of the corridor and informed the police in front of the house to the house of the deceased.
-
-The cause of death is yet to be ascertained and the magazine has taken the corpse to the Jaffna hospital for the post mortem examination.
-
-◼️
-
-[Data](articles/8ebbce7e.json)
-
-[Extended Data](ext_articles/8ebbce7e.ext.json)
 
 ---

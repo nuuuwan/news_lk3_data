@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 21:35:56**
+As of **2024-07-25 21:55:36**
 
 ## Newspaper Stats
 
-*Scraped **37,256** Articles*
+*Scraped **37,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
 adalk | 3,391
-adaderanalk | 4,311
+adaderanalk | 4,312
 tamilmirrorlk | 4,588
 dailymirrorlk | 4,733
 virakesarilk | 5,857
-adaderanasinhalalk | 6,253
+adaderanasinhalalk | 6,254
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,256 (100.0%) of 37,256 articles have been extended.
+37,256 (100.0%) of 37,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### PM to announce govt’s official stance on IGP issue
+
+*2024-07-25 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100775/pm-to-announce-govts-official-stance-on-igp-issue) · `en`
+
+Prime Minister Dinesh Gunawardena will officially inform Parliament of the government’s official position on the Supreme Court decision regarding the post of the Inspector General of Police (IGP), in a special statement tomorrow (26).
+
+◼️
+
+[Data](articles/49647d51.json)
+
+---
+
+### පොලිස්පතිගේ සිද්ධියෙන් පසු ජනපතිට ලැබුණු උපදෙස්
+
+*2024-07-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199211) · `si`
+
+ශ්‍රේෂ්ඨාධිකරණ තීන්දුවෙන් මේ වනවිට පොලිස්පතිවරයාට ලබාදී ඇත්තේ වාරණ නියෝගයක් පමණක් බැවින් පොලිස්පති තනතුර හිස්වී නොමැති බවට ජනාධිපතිවරයාට නීති උපදෙස් ලැබී ඇති බව  ජනාධිපතිවරයාට සම්බන්ධ රජයේ ආරංචි මාර්ග පවසයි.
+
+21 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය අනුව පොලිස්පති ධුරය හිස්ව නොමැති අවස්ථාවක ජනාධිපතිවරයාට වැඩබලන පොලිස්පතිවරයෙක් පත් කිරීමට හැකියාවක් නොමැති අතර එබැවින් අදාළ නීති ගැටලුව විසඳා ගන්නා තුරු පොලිස්පති ධුරය එලෙස තැබෙනු ඇති බව රජයේ ප්‍රකාශකයකු සඳහන් කළේය.
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධූරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය ඊයේ (24) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+ඒ, ඔහු පොලිස්පති ලෙස පත්කිරීම අභියෝගයට ලක්කරමින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ ගොනුකර තිබු මූලික අයිතිවාසිකම් පෙත්සම් 09ක් විභාගයට ගැනීමට තීන්දු කරමිනි.
+
+එසේම පෙත්සම් විභාගය නිමවන තෙක් පොලිස්පති ධුරය සඳහා නීත්‍යනුකූලව සුදුසු පුද්ගලයෙකු පත්කරන ලෙස ද ශ්‍රේෂ්ඨාධිකරණය ජනාධිපතිවරයාට නියම කළේය.
+
+◼️
+
+[Data](articles/d295b2cf.json)
+
+---
 
 ### Government's stand on IGP tomorrow
 
@@ -2323,55 +2355,5 @@ According to the police, the suspect has been arrested and further investigation
 [Data](articles/a54e5c99.json)
 
 [Extended Data](ext_articles/a54e5c99.ext.json)
-
----
-
-### Father arrested for torture
-
-*2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனை-சித்திரவதை-செய்த-தந்தை-கைது/175-340997) · `ta`
-
-A father was arrested after allegedly being forced to attempt suicide by his three-year-old son in Karandeniya, Anuruthagama. The child's mother, who works abroad, reportedly abused him due to financial disputes over money sent to her family. She shared a video online seeking help, leading to the arrest of the suspect for further investigation.
-
-🟩
-
-A father who was tortured by his three -year -old son to commit suicide was arrested from Karandeniya, Anuruthagama on Wednesday night, Elpitiya police said.
-
-While the boy's mother is working abroad, she has tortured the boy and sent the boy to his wife because she was sending money to her mother and not sending money.
-
-The woman posted on social networks about the video and posted her three -year -old boy to save her.
-
-According to the police, the suspect has been arrested and further investigations are being carried out.
-
-◼️
-
-[Data](articles/e6a73643.json)
-
-[Extended Data](ext_articles/e6a73643.ext.json)
-
----
-
-### Tanker with 1,500 tonnes of oil sinks off Philippines
-
-*2024-07-25 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100760/tanker-with-1500-tonnes-of-oil-sinks-off-philippines) · `en`
-
-A tanker carrying close to 1.5 million litres of industrial fuel has capsized and sank off the Philippine capital on Thursday, causing an oil spill, officials say.
-
-Sixteen crew members of the Philippine-flagged MT Terra Nova have been rescued while one remains missing, Transportation Secretary Jaime Bautista said.
-
-Mr Bautista said an oil spill has been detected but strong winds and high waves were hampering the authorities’ response.
-
-The incident comes a day after Typhoon Gaemi intensified seasonal monsoon rains, submerging large swathes of Metro Manila and its suburbs in deep floods.
-
-Gaemi has made landfall in Taiwan, leaving three people killed and wounding hundreds more.
-
-The MT Terra Nova was heading for the central Philippine city of Iloilo when it sank, leaving an oil spill stretching for several kilometres, authorities said.
-
-It “capsized and eventually submerged,” the coast guard said in a report, adding they were investigating whether bad weather was a factor.
-
-...
-
-[Data](articles/6d9a1dbf.json)
-
-[Extended Data](ext_articles/6d9a1dbf.ext.json)
 
 ---

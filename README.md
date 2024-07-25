@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 20:20:35**
+As of **2024-07-25 20:35:39**
 
 ## Newspaper Stats
 
-*Scraped **37,238** Articles*
+*Scraped **37,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,56 @@ economynextcom | 2,224
 dailyftlk | 2,375
 adalk | 3,390
 adaderanalk | 4,310
-tamilmirrorlk | 4,586
+tamilmirrorlk | 4,587
 dailymirrorlk | 4,733
 virakesarilk | 5,845
-adaderanasinhalalk | 6,251
+adaderanasinhalalk | 6,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,234 (100.0%) of 37,238 articles have been extended.
+37,238 (100.0%) of 37,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### කොළඹ වෙඩිතැබීමක්
+### මැතිවරණ වියදම අඩු කරන අයුරු පැහැදිලි කරයි
+
+*2024-07-25 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199209) · `si`
+
+මැතිවරණ වියදම් අඩුකිරීම සඳහා මැතිවරණ කොමිසම විසින් ඉදිරිපත් කරනු ලැබූ කිසිදු යෝජනාවකට මෙතෙක් කැබිනට් අනුමැතිය හිමිවී නැති බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව හමුවට කොමිසමේ නිලධාරීන් කැඳවූ අවස්ථාවේදී ඔහු මෙම අදහස් පළ කළේය.
+
+එහිදී වගකිවයුතු රජයක් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති ජගත් කුමාර මහතා ප්‍රශ්න කළේ, ඡන්දය භාවිත කිරීමේදී ඇඟිලි පාට කිරීම සඳහා වැය වන වියදම අඩු කරගැනීමට ගෙන ඇති ක්‍රියාමාර්ග මොනවාද යන්නය.
+
+ඊට පිළිතුරු දුන් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසුවේ, තීන්ත සඳහා රුපියල් ලක්ෂ 85ක පමණ වියදමක් යන බවත් එම වියදම වළක්වා ගත හැකි බවත්ය.
+
+එමෙන්ම නිලධාරින් 14,000ක් සඳහා දින 3කට වැය වන වියදම් අඩු කළ හැකි බවය.
+
+...
+
+[Data](articles/87f13eb2.json)
+
+---
+
+### Shooting in Colombo
 
 *2024-07-25 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199208) · `si`
 
-පොලීසිය පැවසුවේ අද (25) පස්වරුවේ මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
+Colombo shooting incident occurred this afternoon, according to police reports.
+
+🟩
+
+The police said that the shooting was carried out this afternoon.
 
 ◼️
 
 [Data](articles/56e2cd90.json)
+
+[Extended Data](ext_articles/56e2cd90.ext.json)
 
 ---
 
@@ -55,6 +81,8 @@ Police said the shooting had occurred at the Wadullawatte area in Grand pass thi
 ◼️
 
 [Data](articles/1729b854.json)
+
+[Extended Data](ext_articles/1729b854.ext.json)
 
 ---
 
@@ -106,6 +134,24 @@ The event was not able to be abroad and had not been able to be remanded against
 
 ---
 
+### ’’வேலை நிறுத்தம் வேண்டாம்: வேலைக்கு போங்க’’
+
+*2024-07-25 18:27:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேலை-நிறுத்தம்-வேண்டாம்-வேலைக்கு-போங்க/76-341030) · `ta`
+
+இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும், அமைச்சருமான ஜீவன் தொண்டமான் விசேட அறிக்கையொன்றை ​வியாழக்கிழமை (25) மாலை விடுத்துள்ளார்.
+
+பெருந்தோட்ட கம்பனி ஒன்றின் கீழ் இயங்கும் நானுஓயா உடரதல்ல தோட்டத்தில் கடந்த மே மாதம் தேயிலை காணியில் கோப்பி பயிரிடப்பட்டதை எதிர்த்து தோட்ட முகாமையாளரிடம் வாக்குவாதத்தில் ஈடுபட்ட மூன்று தலைவர்களையும் தோட்ட நிர்வாகம் பதவி நீக்கம் செய்தது.
+
+இவ்விடயம் எனது கவனத்திற்கு கொண்டுவரப்பட்டதையடுத்து உடனடியாக நான் களத்திற்கு சென்று நடவடிக்கைகளை மேற்கொண்டதனால் குறிப்பிட்ட தோட்ட முகாமையாளரினால் எனக்கெதிராக வழக்கு தொடரப்பட்டதன் காரணமாக சந்தேக நபர்களை நீதி மன்றத்தில் ஆஜராகுமாறு நுவரெலியா மாவட்ட நீதவான் நீதிமன்றத்தினால் அறிவிக்கப்பட்டுள்ளது.
+
+மேலும், இச்சம்பவம் தொடர்பாக கேள்வியுற்று அனைத்து பொது மக்கள் சார்பாகவும் குறிப்பிட்ட பெருந்தோட்டக் கம்பனிக்கு எதிராக தொடர்ச்சியாக அடையாள வேலை நிறுத்தத்தினை மேற்கொண்டு வருகின்றீர்கள்.
+
+...
+
+[Data](articles/4f26db7e.json)
+
+---
+
 ### Jeevan Action Notification
 
 *2024-07-25 18:27:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவன்-அதிரடி-அறிவிப்பு/76-341030) · `ta`
@@ -134,35 +180,49 @@ I would like to express my gratitude to all those who have been protesting so fa
 
 ---
 
-### විදෙස්ගමන් වල සියලු තොරතුරු දමා හරීන්ගෙන් අනුරට ලිපියක්
+### A letter from all the information in the foreign overseas
 
 *2024-07-25 18:20:10* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්ගමන්-වල-සියලු-තොරතුරු-දමා-හරීන්ගෙන්-අනුරට-ලිපියක්/11-410999) · `si`
 
-පසුගිය දිනක ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක විසින් හරීන් ප්‍රනාන්දු සහ මනූෂ නානයක්කාරගේ විදෙස් ගමන් සදහා මුදල් වැය වූ ආකාරය හෙළි කරන ලෙස සිදුකළ ප්‍රකාශයට අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා විසින් පිළිතුරු ලබාදී තිබෙනවා.
+In response to Anura Kumara Dissanayake's declaration, Minister Harin Fernando issued a letter denying "baseless" allegations. He emphasized the importance of correcting such statements. The letter also highlighted the achievements of the tourism industry under his leadership, noting significant growth and recognition as one of the world's top tourist destinations. Additionally, it mentioned the sports ministry's efforts to lift the cricket ban imposed on Sri Lanka.
 
-අද දින අනුර කුමාර දිසානායක මහතා වෙත ලිපියක් යොමු කරමින් මේ බව දන්වා තිබෙනවා. එම ලිපිය සමඟ අමාත්‍ය හරීන් ප්‍රනාන්දු මහතාගේ සියලු  විදෙස් ගමන්වල තොරතුරු ද ඉදිරිපත් කර තිබෙනවා.
+🟩
 
-ඒ අනුව පදනම් විරහිතව, අවඥා සහගතව සිදුකරන ලද චෝදනා පිළිකුලෙන් යුතුව හෙලා දකින බව අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා දක්වා තිබෙනවා. එමෙන්ම එම සිදුකරන ලද ප්‍රකාශය අනුර කුමාර දිසානායක මහතා විසින් ම නිවැරදි කළ යුතු බව එම  ලිපියේ තරයේ අවධාරණය කර තිබෙනවා.
+Minister Harin Fernando has responded to the Declaration of the Leader of the National Power Anura Kumara Dissanayake recently.
+
+This has been informed by a letter to Anura Kumara Dissanayake today. The article has also presented information on all foreign travels of Minister Harin Fernando.
+
+Accordingly, Minister Harin Fernando has indicated that baseless and contemptible allegations are disgusting with disgusting. The letter stressed that the statement made by Anura Kumara Dissanayake should be corrected by Anura Kumara Dissanayake.
+
+This article will further understand that the tourism ministry and how the tourism industry is being found in the tourism industry and how the tourism industry is built in Sri Lanka today.. This article shows that the two years have been able to set a history of tourism and the world's best tourist destinations as well as the world's fastest growing tourism industry.
 
 ...
 
 [Data](articles/50b45553.json)
 
+[Extended Data](ext_articles/50b45553.ext.json)
+
 ---
 
-### තවත් වැදගත් පනත් දෙකක් සම්මත වෙයි
+### Two more important bills are passed
 
 *2024-07-25 18:11:40* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වැදගත්-පනත්-දෙකක්-සම්මත-වෙයි/11-410998) · `si`
 
-රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් දෙක ඡන්ද විමසීමකින් තොරව සංශෝධන සහිතව අද (25) පාර්ලිමේන්තුවේදී  සම්මත විය.
+On May 25, 2024, Parliament passed the Fiscal Management and Economic Translation Bills after amendments, avoiding a vote through committee approval during the third reading. These bills, introduced on May 22, 2024, underwent significant changes before final passage.
 
-පනත්කෙටුම්පත් ද්විත්වයෙහි කාරක සභා අවස්ථාවන්හිදී ඊට සංශෝධන එක්වූ අතර අනතුරුව තෙවනවර කියවීම ඡන්ද විමසීමකින් තොරව සම්මත විය.
+🟩
 
-මෙම පනත් කෙටුම්පත් දෙක 2024 මැයි 22 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී
+Fiscal Management and Economic Translation Bills were passed in parliament today (25) with amendments without polling.
+
+The amendments were joined in committees in the billions of bills, and then the third reading passed without a poll.
+
+These two bills were presented to Parliament on May 22, 2024
 
 ◼️
 
 [Data](articles/fd58369d.json)
+
+[Extended Data](ext_articles/fd58369d.ext.json)
 
 ---
 
@@ -2275,47 +2335,5 @@ It is noteworthy that Bashil Rajapakse has urged the president to give his party
 [Data](articles/2f5eac94.json)
 
 [Extended Data](ext_articles/2f5eac94.ext.json)
-
----
-
-### Vikramabahu Karunaratne passed away
-
-*2024-07-25 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189311) · `ta`
-
-Dr. Wickramabahu Karunaratne, a prominent figure in Sri Lanka's political landscape, passed away at 81. Known for his long-term involvement in politics, he ran as a presidential candidate in 2010. Alongside Vasudeva Nanayakkara, he co-founded the New Social Equality Party in 1977, leaving a significant legacy in Sri Lankan politics.
-
-🟩
-
-Dr. Wickramabahu Karunaratne, the leader of the Nava Sama Samaja Pakshaya NSSP, has passed away at the age of 81.
-
-Karunaratne became a candidate in the 2010 presidential election. He has a long -term experience in Sri Lankan politics.
-
-In 1977, Vasudeva joined the LSSP, including Vasudeva Nanayakkara, to the establishment of the Navsamasama Party (New Social Equality Party), with other former members of the LSSP, including Nanayakkara.. His contributions on Sri Lankan politics have had a lasting impact.
-
-◼️
-
-[Data](articles/aafe1a3a.json)
-
-[Extended Data](ext_articles/aafe1a3a.ext.json)
-
----
-
-### Field Marshal Sarath Fonseka
-
-*2024-07-25 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/189313) · `ta`
-
-Field Marshal Sarath Fonseka, former Army Commander and MP, announced his candidacy for the 2024 presidential election on his official website early Thursday.
-
-🟩
-
-Former Army Commander and Member of Parliament Field Marshal Sarath Fonseka has announced that he will field the presidential election in 2024.
-
-He mentioned this on his official X site early Thursday (25).
-
-◼️
-
-[Data](articles/e6dc2911.json)
-
-[Extended Data](ext_articles/e6dc2911.ext.json)
 
 ---

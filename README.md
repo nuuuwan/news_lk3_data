@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 06:02:37**
+As of **2024-07-25 07:02:11**
 
 ## Newspaper Stats
 
-*Scraped **37,099** Articles*
+*Scraped **37,102** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 322
+dbsjeyarajcom | 323
 colombotelegraphcom | 350
 bbccomsinhala | 362
 newsfirstlk | 363
-islandlk | 2,117
+islandlk | 2,118
 economynextcom | 2,220
 dailyftlk | 2,371
 adalk | 3,366
@@ -20,27 +20,51 @@ adaderanalk | 4,290
 tamilmirrorlk | 4,563
 dailymirrorlk | 4,733
 virakesarilk | 5,820
-adaderanasinhalalk | 6,222
+adaderanasinhalalk | 6,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,088 (100.0%) of 37,099 articles have been extended.
+37,094 (100.0%) of 37,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### தேர்தல் திகதி அறிவிப்பு வெள்ளி வெளியாகும்
+### හෙට සිට කාලගුණයේ වෙනසක්
+
+*2024-07-25 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199178) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (26) දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+
+මධ්‍යම  කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50ක පමණ තද සුළං ඇති විය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇති වේ.
+
+◼️
+
+[Data](articles/db7c2e65.json)
+
+---
+
+### The announcement of the election date will be released on Friday
 
 *2024-07-25 05:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திகதி-அறிவிப்பு-வெள்ளி-வெளியாகும்/175-340987) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கான திகதி நாளை (26) நள்ளிரவில் அறிவிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு வட்டாரங்கள் தெரிவித்துள்ளன
+The Election Commission will announce the presidential election date tomorrow (26) at midnight.
+
+🟩
+
+The Election Commission sources said that the presidential election will be announced tomorrow (26) at midnight.
 
 ◼️
 
 [Data](articles/a9ea007e.json)
+
+[Extended Data](ext_articles/a9ea007e.ext.json)
 
 ---
 
@@ -702,6 +726,8 @@ Addressing the gathering, Rajeeva Bandaranaike, CEO of CSE, stated, “A listing
 
 [Data](articles/62f51a6f.json)
 
+[Extended Data](ext_articles/62f51a6f.ext.json)
+
 ---
 
 ### Soul Sounds Academy triumphs at 13th Bali International Choir Festival 2024
@@ -721,6 +747,8 @@ CBSL’s decision on monetary policy rates energizes bourse; indices rise
 ...
 
 [Data](articles/24331c42.json)
+
+[Extended Data](ext_articles/24331c42.ext.json)
 
 ---
 
@@ -750,6 +778,20 @@ Meanwhile, it is reported that Basil Rajapaksa is scheduled to meet with Preside
 
 ---
 
+### Sri Lanka Insurance supports 1100 families in flood-affected areas
+
+*2024-07-24 22:12:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-supports-1100-families-in-flood-affected-areas/) · `en`
+
+Sri Lanka Insurance Life and Sri Lanka Insurance General, in collaboration with The Disaster Management Center, distributed dry ration packs to 1100 families affected by the recent floods in the Gampaha, Ratnapura, and Matara districts. This initiative, conducted on the 9th and 10th of July 2024, underscores the company’s commitment to supporting communities in times of need.
+
+The dry ration packs were distributed through District Secretariats, Divisional Secretariats and religious institutes, ensuring that aid reached the most affected areas efficiently. This act of service exemplifies SLIC’s dedication to social responsibility, as the company consistently engages in initiatives aimed at the betterment of the community.
+
+...
+
+[Data](articles/e36ba40d.json)
+
+---
+
 ### CBSL’s decision on monetary policy rates energizes bourse; indices rise
 
 *2024-07-24 22:10:00* · [`islandlk`](http://island.lk/cbsls-decision-on-monetary-policy-rates-energizes-bourse-indices-rise/) · `en`
@@ -763,6 +805,8 @@ In the retail market, top six companies that mainly contributed to the turnover 
 ...
 
 [Data](articles/c37fc1a3.json)
+
+[Extended Data](ext_articles/c37fc1a3.ext.json)
 
 ---
 
@@ -2257,63 +2301,5 @@ The Prime Minister is well aware of this.
 [Data](articles/9275da70.json)
 
 [Extended Data](ext_articles/9275da70.ext.json)
-
----
-
-### Latest Captain on Club Spring murder
-
-*2024-07-24 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199159) · `si`
-
-In a shocking incident, two suspects linked to the Club Spring murder case have been arrested. The victims included popular singer Karin and four others, with serious injuries reported. The suspects, part of a larger group, were involved in a shooting spree in the Western Province, leading to the arrest of additional individuals in Athurugiriya and Battaramulla. Further details reveal financial involvement by a "big pabi" and a fishing vendor, both providing significant sums of money. Investigations continue under the supervision of DIG Ganga Marapana.
-
-🟩
-
-The driver of the driver and the bus was arrested by the driver and the bus in the Western Province Criminal Division after Surendra Wasantha Perera.
-
-The two suspects are to be produced before the Kaduwela Magistrate's Court today.
-
-Surendra Wasantha Perera, who was a Club Wasantha and another was shotified by the Surendra Wasantha and another.
-
-The popular singer Karin. Four persons including Sujeewa were seriously injured.
-
-Two other suspects were arrested by the Western Province Crimes Division in the Athurugiriya and Battaramulla yesterday (23).
-
-One of the suspects was supporting the shooter and the driver of the car they came.
-
-The two shooters and the car driver they arrived in Korathota and went to the Welimhota to the Welimintom area to the Welihinda.
-
-He was later taken to the Bulathsinhala area and was hidden.
-
-The suspects along the Wellassan Expressway from the Welwellagama area were arrested by the bus.
-
-...
-
-[Data](articles/1dffdb72.json)
-
-[Extended Data](ext_articles/1dffdb72.ext.json)
-
----
-
-### Investigation into 3 suspects arrested with ice drug
-
-*2024-07-24 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189259) · `ta`
-
-Kalmunai Special Task Force arrested three suspects aged 21, 26, and 28 with varying amounts of ice drugs. Further investigation is ongoing. One suspect had prior legal issues related to drug consumption and sale.
-
-🟩
-
-The Kalmunai Special Task Force said that further investigations are being carried out in connection with the three suspects arrested with ice drugs.
-
-Officers led by Inspector of Police RACS Ratnayake, who were in charge of the Kalmunai Special Task Force, who was on patrol in Kalmunai in Ampara district on Monday (22), arrested three persons who were suspiciously in the coastal area and handed over to the Kalmunai headquarters for legal action..
-
-The detainees are 21, 26 and 28 years old and 520 millilks, 980 milligrams, 530 milligrams and ice drugs have been rescued from the suspects.
-
-It is also worth noting that one of the arrested was already legal action on drug consumption and sale.
-
-◼️
-
-[Data](articles/081d284e.json)
-
-[Extended Data](ext_articles/081d284e.ext.json)
 
 ---

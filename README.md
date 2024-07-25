@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 09:55:27**
+As of **2024-07-25 10:08:53**
 
 ## Newspaper Stats
 
-*Scraped **37,129** Articles*
+*Scraped **37,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,87 +12,143 @@ dbsjeyarajcom | 323
 colombotelegraphcom | 351
 bbccomsinhala | 363
 newsfirstlk | 363
-islandlk | 2,118
+islandlk | 2,119
 economynextcom | 2,221
 dailyftlk | 2,372
-adalk | 3,368
+adalk | 3,369
 adaderanalk | 4,293
-tamilmirrorlk | 4,568
+tamilmirrorlk | 4,569
 dailymirrorlk | 4,733
 virakesarilk | 5,824
-adaderanasinhalalk | 6,232
+adaderanasinhalalk | 6,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,124 (100.0%) of 37,129 articles have been extended.
+37,129 (100.0%) of 37,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ஜனாதிபதித் தேர்தல் ; முக்கிய தீர்மானத்திற்காக இன்று கூடுகிறது தேர்தல்கள் ஆணைக்குழு
+### ஜனாதிபதி வேட்பாளராக இறங்கினார் சரத் பொன்சேகா
+
+*2024-07-25 09:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளராக-இறங்கினார்-சரத்-பொன்சேகா/175-340994) · `ta`
+
+76 ஆண்டுகளாக, எங்களை திவாலான நிலைக்கு இட்டுச் சென்ற ஒரு திறமையற்ற அரசியல் குழுவால் நாங்கள் வழிநடத்தப்பட்டோம்.
+
+2024 ஜனாதிபதித் தேர்தலுக்கான இலங்கையின் ஜனாதிபதி வேட்பாளராக இது எனது முறையான மற்றும் உத்தியோகபூர்வ அறிவிப்பு - என்று குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/e90abe1e.json)
+
+---
+
+### අහිතකර දුම් පිටවන වාහන 93ක් අසාදු ලේඛනයට
+
+*2024-07-25 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199189) · `si`
+
+පරිසරයට අහිතකර දුම් පිටවන වාහන 93ක් පමණ මේ වසර තුළ අසාදු ලේඛන ගත කර ඇති බව වායු විමෝචන භාරකාර අරමුදල පවසයි.
+
+එහි අධ්‍යක්ෂ දසුන් ගමගේ මහතා සඳහන් කළේ, මහජනතාවගෙන් ලැබුණු පැමිණිලිවලට අනුව අදාළ වාහන අසාදු ලේඛන ගත කර ඇති බවය.
+
+යම් වාහනයක් අහිතකර ලෙස දුම් පිටකරමින් මාර්ගයේ ධාවනය වන්නේ නම් 070 3500 525 යන වට්ස්ඇප් අංකයට ඡායාරූපයක් හෝ වීඩියෝවක් යොමුකර විස්තර ලබාදෙන ලෙසත් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+"මෝටර් ප්‍රවාහන දෙපාර්තමේන්තුව හඳුන්වා දුන්නා වට්ස්ඇප් දුරකථන අංකයක් ජනතා සහභාගීත්වය තහවුරු කරන්න. අධික දුම් පිටවෙන වාහනයක් යනවා නම් ස්ථානය, වේලාව, දිනය සහ වාහන අංකය සඳහන් කර වට්ස්ඇප් අංකයට ඡායාරූපයක් හෝ වීඩියෝ පටයක් ලබාදෙන්න කියලා. එවිට අදාළ වාහනහිමියන්ට කැඳවීමක් කරනවා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු දිස්ත්‍රික් කාර්යලයකට ගෙනත් පෙන්වන්න කියලා. එතැනදීත් ප්‍රතිචාර නැත්නම් වාහනය අසාදු ලේඛනගත වෙනවා. පසුගිය වසරේ 1800ක් විතර පැමිණිලි ලැබුණා. ඉන් කැඳවීම් කරලා අවසාන වශයෙන් අසාදු ලේඛනගත කළේ 200ක් වගේ. මේ අවුරුද්දේ 517ක් තොරතුරු ලැබිලා තියෙනවා එයින් 93ක් පමණ අසාදු ලේඛන ගත කළා."
+
+◼️
+
+[Data](articles/585334f1.json)
+
+---
+
+### Presidential election;Elections Commission meets today for a major resolution
 
 *2024-07-25 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189314) · `ta`
 
-2024 ஆம் ஆண்டு  ஜனாதிபதித் தேர்தல் தொடர்பில் கலந்துரையாடி தேர்தலுக்கான திகதியை அறிவிப்பதற்காக தேர்தல்கள் ஆணைக்குழு இன்று வியாழக்கிழமை (25) கூடவுள்ளது.
+The Elections Commission will meet today to set the 2024 presidential election date and issue a notification soon.
 
-இதேவேளை, இன்னும் ஓரிரு தினங்களில் ஜனாதிபதி தேர்தல் தொடர்பிலான அறிவிப்பை தேர்தல் ஆணைக்குழு வெளியிடும் என்பது குறிப்பிடத்தக்கது.
+🟩
+
+The Elections Commission will meet today (25) to announce the date of the election in the 2024 presidential election.
+
+Meanwhile, the Election Commission will issue a notification on the presidential election in a couple of days.
 
 ◼️
 
 [Data](articles/8f4b67bd.json)
 
+[Extended Data](ext_articles/8f4b67bd.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-07-25 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199188) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+The Parliamentary Council has started its session under the Deputy Speaker. Today's agenda includes a Second Reading Debate on public finance and economic translation laws, scheduled from 9:30 am to 5:30 pm. The Church has opted not to pose questions during this debate period. Following the debate, State Minister Shehan Semasinghe announced that the second reading bills will be adopted.
 
-රාජ්‍ය මුල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්ථන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදය අද සිදුකිරීමට නියමිත ව ඇත.
+🟩
 
-අද පෙරවරු 9.30සිට පස්වරු 5.30 දක්වා ඊට අදාළ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Deputy Speaker has commenced the activities of the Hon.
 
-මෙම විවාදය සඳහා වැඩි කාලයක් ලබා දීමේ අරමුණින් අද දින වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සහ සභාව කල්තබන අවස්ථාවේ ප්‍රශ්න සලකා නොබැලීමට ද තීරණය වී තිබේ.
+The Second Reading Debate is to be conducted today to date public financial management and economic translations.
 
-රාජ්‍ය මුල්‍ය කළමනාකරන සහ ආර්ථික පරිවර්ථන පනත් කෙටුම්පත් දෙවන වර කියවීමේ විවාදයෙන් අනතුරුව එය සම්මත කර ගැනීමට බලාපොරොත්තු වන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+The debate will be held from 9.30 am to 5.30 pm and 5.30 pm will be held from 9.30 am to 5.30 pm.
+
+The questions expected and the church have decided to do not consider questions today with the inculuation of the debate for the debate.
+
+State Minister of State Shehan Semasinghe said that after the second reading debate on the second reading bills, the second reading bills will be adopted after the second reading bills.
 
 ◼️
 
 [Data](articles/d66f727f.json)
 
+[Extended Data](ext_articles/d66f727f.ext.json)
+
 ---
 
-### ඉන්ධන ප්‍රවාහන නෞකාවක් මුහුදේ ගිලෙයි
+### A fuel carrier sinks in the sea
 
 *2024-07-25 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199187) · `si`
 
-කර්මාන්ත සඳහා යොදාගන්නා ඉන්ධන ලීටර් මිලියන 1.5ක් ප්‍රවාහනය කරමින් තිබූ නෞකාවක් පිලිපීනය ආසන්න මුහුදේ ගිලී ගොස් තිබේ.
+A ship carrying 1.5 million liters of fuel sank off the Philippines, causing significant oil pollution in the area. Despite the disaster, 16 out of 17 crew members were rescued.
 
-ඒ හේතුවෙන් අවට මුහුදු කලාපයේ, විශාල තෙල් පැල්ලම් දක්නට ලැබෙන බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+🟩
 
-එම නෞකාවේ සිටි කාර්ය මණ්ඩලයේ 17 දෙනාගෙන් 16 දෙනෙකුව නිරුපද්‍රිතව බේරාගැනීමට සහන කණ්ඩායම් සමත්ව තිබේ.
+An ship that was transporting 1.5 million liters for industries have been drowned in the Philippines.
+
+As a result, large oil spots in the surrounding sea zone will have large oil stains.
+
+Seventes of the 17 staff in the ship have been able to save 16.
 
 ◼️
 
 [Data](articles/ea615979.json)
 
+[Extended Data](ext_articles/ea615979.ext.json)
+
 ---
 
-### பஷில் ராஜபக்ஷ ஜனாதிபதியிடம் வலியுறுத்தியுள்ள முக்கிய விடயம் !
+### The key thing that Basil Rajapaksa has urged to the president!
 
 *2024-07-25 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189315) · `ta`
 
-இடைக்கால அரசாங்கத்தில் பிரதமர் பதவியை தமது கட்சியான பொதுஜன பெரமுனவுக்கு வழங்க வேண்டும் பஷில் ராஜபக்‌ஷ ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் வலியுறுத்தியுள்ளார்.
+Basil Rajapaksa has asked President Ranil Wickremesinghe to appoint him as Prime Minister in the interim government, contingent upon the PA's support.
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் பொதுஜன பெரமுனவின் ஆதரவு வேண்டுமாயின் இடைக்கால அரசாங்கத்தில் பிரதமர் பதவியை தமது கட்சிக்கு வழங்க வேண்டும் பஷில் ராஜபக்ஷ ஜனாதிபதியிடம் வலியுறுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Basil Rajapakse has urged President Ranil Wickremesinghe to give the post of Prime Minister the post of Prime Minister in the interim government.
+
+It is noteworthy that Bashil Rajapakse has urged the president to give his party the post of Prime Minister in the interim government if the PA is supported by the PA.
 
 ◼️
 
 [Data](articles/2f5eac94.json)
+
+[Extended Data](ext_articles/2f5eac94.ext.json)
 
 ---
 
@@ -118,17 +174,23 @@ In 1977, Vasudeva joined the LSSP, including Vasudeva Nanayakkara, to the establ
 
 ---
 
-### ஜனாதிபதி தேர்தலில் வேட்பாளராக களமிறங்குவேன் - பீல்ட் மார்ஷல் சரத் பொன்சேகா
+### Field Marshal Sarath Fonseka
 
 *2024-07-25 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/189313) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதி தேர்தலில் களமிறங்குவேன் என முன்னாள் இராணுவத் தளபதியும், பாராளுமன்ற உறுப்பினருமான பீல்ட் மார்ஷல் சரத் பொன்சேகா அறிவித்துள்ளார்.
+Field Marshal Sarath Fonseka, former Army Commander and MP, announced his candidacy for the 2024 presidential election on his official website early Thursday.
 
-இதனை அவர் இன்று வியாழக்கிழமை (25) அதிகாலை தனது உத்தியோகபூர்வ எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளார்.
+🟩
+
+Former Army Commander and Member of Parliament Field Marshal Sarath Fonseka has announced that he will field the presidential election in 2024.
+
+He mentioned this on his official X site early Thursday (25).
 
 ◼️
 
 [Data](articles/e6dc2911.json)
+
+[Extended Data](ext_articles/e6dc2911.ext.json)
 
 ---
 
@@ -1156,6 +1218,38 @@ The Chairman of the Commission said that the Election Commission was closely loo
 
 ---
 
+### Cucumber…this week, too
+
+*2024-07-24 23:29:00* · [`islandlk`](http://island.lk/cucumberthis-week-too/) · `en`
+
+Wow! I had lots of interesting comments coming my way regarding my Cucumber Beauty Tips.
+
+Some even mentioned that markets had run out of cucumber! (Lol).
+
+Okay, then you better go searching for cucumber as, this week, too, I’ve got cucumber for you.
+
+You will need 01/4th grated cucumber and 01 tablespoon aloe vera gel or juice.
+
+Grate the cucumber and aloe vera gel and apply the mixture on the face and also on your neck.
+
+Leave it on for 15 minutes and then wash it off with warm water.
+
+(This cucumber face pack will rejuvenate your skin and make it glow.)
+
+You will need 1/4th cucumber and 01 tablespoon almond butter.
+
+Peel the cucumber and cut it into small pieces and then add the almond butter and blend them.
+
+You will need 1/4th cucumber and 02 tablespoons curd/yoghurt (plain).
+
+Grate the cucumber to form a pulp Mix the yoghurt and cucumber pulp to make a paste and apply the paste on your face. Wash off with warm water after 15 minutes.
+
+...
+
+[Data](articles/530e5cdc.json)
+
+---
+
 ### Bangladesh's current champion will meet India by 114 runs
 
 *2024-07-24 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189304) · `ta`
@@ -1533,6 +1627,20 @@ Accordingly, the Ministry of Labor announced that the year to Rs.. However, the 
 [Data](articles/6c9a169b.json)
 
 [Extended Data](ext_articles/6c9a169b.ext.json)
+
+---
+
+### සාපෙළ ප්‍රතිඵල සැප්තැම්බර්
+
+*2024-07-24 19:39:40* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-ප්‍රතිඵල-සැප්තැම්බර්/11-410976) · `si`
+
+ඉකුත් දා පැවති අ.පො.සසාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵල සැප්තැම්බර් මාසය වන නිකුත් කිරීමට විභාග දෙපාර්තමේන්තුව කටයුතු කරමින් පවතින බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+එමෙන්ම2025 වර්ෂයේ දී සාමාන්‍ය පෙළ විභාගය මුල් මාස දෙක තුළ පවත්වා උසස් පෙළ ඇතුළු අනිකුත් විභාග ද කඩිනමින් පවත්වා විභාග කාලසටහන යාවත්කාලීන කරන බව ද අමාත්‍යාංශය සදහන් කරයි.
+
+◼️
+
+[Data](articles/d6964a7a.json)
 
 ---
 
@@ -2167,95 +2275,5 @@ After considering the submitted by the two sides, the judges were then issued th
 [Data](articles/175d048f.json)
 
 [Extended Data](ext_articles/175d048f.ext.json)
-
----
-
-### Sri Lanka stocks pick up a bit, after policy rate cut
-
-*2024-07-24 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-pick-up-a-bit-after-policy-rate-cut-173606/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up marginally on Wednesday, after the central bank’s policy rate announcement earlier in the day.
-
-The broader All Share Index closed up 0.90 percent, or 104.45 points, at 11,701; while the more liquid S&P SL20 Index closed up 1.35 percent, or 45.40 points, at 3,414.
-
-“Since there is an inverse relationship with the policy rate, the downward revision, or the downward trend in the rate made the ASPI more attractive,” Softlogic Stockbrokers said. “But it was still a low turnover day, trade volumes were low.”
-
-Foreign activity was limited again with the day recording a net foreign outflow of 28 million rupees.
-
-Foreign buying interest was seen in Three Acre Farms Plc (up at 306.00), Haycarb Plc (up at 79.50), and Tokyo Cement Company (Lanka) Plc non-voting (flat at 42.00).
-
-Foreign selling was seen on Hatton National Bank Plc non-voting (up at 149.75), John Keells Holdings Plc (up at 193.25), and Bairaha Farms Plc (flat at 165.00).
-
-...
-
-[Data](articles/f940c0fb.json)
-
-[Extended Data](ext_articles/f940c0fb.ext.json)
-
----
-
-### What the little ones whom it was to remind the sport of cricketers
-
-*2024-07-24 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199166) · `si`
-
-Sanath Jayasuriya, as the acting coach of Sri Lanka's national cricket team, emphasized making minor adjustments to improve discipline among players. He highlighted the importance of observing and learning from senior players' practices.
-
-🟩
-
-Sanath Jayasuriya said that he had done several small changes in the discipline of the National Group after he was appointed acting coach.
-
-At a media briefing held by SLC, Sanath Jayasuriya said that a question was heard by a question.
-
-Journalist - "Sanath, a story After you have coached, you cut the clouds ... Is there an idea to delete tatts?"
-
-Sanath Jayasuriya - "We're doing ordinary things. Not as much as you say. Looking for a discipline. I'm a Intemp coach. I'm in two trips. When I am, you have to have that discipe. Small cricketers look at big cricketsla. Would like to learn what they do. If you do good, you will be good. That is what makes little changes. "
-
-◼️
-
-[Data](articles/dbf94908.json)
-
-[Extended Data](ext_articles/dbf94908.ext.json)
-
----
-
-### India decreases the smartphone tax including iPhone
-
-*2024-07-24 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199165) · `si`
-
-India reduced its smartphone tax, benefiting companies like Apple significantly. The tax decrease from 20% to 15% is expected to increase Apple's annual revenue by $35 million due to lower import costs. This move supports local manufacturing but high-end models like the iPhone Pro continue to be imported.
-
-🟩
-
-Another step by the government's wedding budget presented by Narendra Modi's new UPFA, is another step by the government's wedding budget to 20% to 15%.
-
-It is believed that this step is directly sold in India.
-
-Apple is 10% and 12% of Apple's total production annually to India annually.
-
-As a result of the 5% tax cut, Apple receives a financial advantage of US $ 35 million annually.
-
-Although Apple's iPhones, such as Foxcon and Tata Group, is also used in India, the top extremity (high-end telephone models such as Apple Pro and Pro Male are still imported.
-
-◼️
-
-[Data](articles/9ae497cf.json)
-
-[Extended Data](ext_articles/9ae497cf.ext.json)
-
----
-
-### President Ranil convenes urgent Cabinet meeting
-
-*2024-07-24 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100748/president-ranil-convenes-urgent-cabinet-meeting) · `en`
-
-President Ranil Wickremesinghe has convened an urgent meeting of the Cabinet of Ministers.
-
-Accordingly, the Cabinet meeting is reportedly currently underway at the Presidential Secretariat in Colombo.
-
-◼️
-
-[Data](articles/a47e2c3a.json)
-
-[Extended Data](ext_articles/a47e2c3a.ext.json)
 
 ---

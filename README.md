@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 15:05:26**
+As of **2024-07-25 15:20:24**
 
 ## Newspaper Stats
 
-*Scraped **37,197** Articles*
+*Scraped **37,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,76 @@ bbccomsinhala | 364
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,376
-adaderanalk | 4,303
+adalk | 3,378
+adaderanalk | 4,304
 tamilmirrorlk | 4,584
 dailymirrorlk | 4,733
 virakesarilk | 5,838
-adaderanasinhalalk | 6,241
+adaderanasinhalalk | 6,242
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,195 (100.0%) of 37,197 articles have been extended.
+37,197 (100.0%) of 37,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### பிரிட்டனின் மான்செஸ்டர் விமான நிலையத்தில் பாக்கிஸ்தானை சேர்ந்த இளைஞர்களை  காலால் உதைத்து தாக்கிய பொலிஸ் உத்தியோகத்தர்கள் - இனவெறி என கண்டனங்கள்
+### ආර්ථික අර්බුදයෙන් පසු ජන ජීවිතය ගැන සමීක්ෂණයකින් හෙළිකරයි
 
-*2024-07-25 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189350) · `ta`
+*2024-07-25 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199199) · `si`
 
-பிரிட்டனின் மான்செஸ்டர் விமானநிலையத்தில் பொலிஸ்உத்தியோகத்தர்கள்  பாக்கிஸ்தானை சேர்ந்த இளைஞர்களை காலால் தாக்குவதை காண்பிக்கும் வீடியோ வெளியாகியுள்ளது.
+‍ආර්ථික අර්බුදය හේතුවෙන් මෙරට ගෘහ ඒකකවලින් සියයට 22ක් ණය වී ඇති බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
 
-சமூக ஊடகங்களில் பரவலாகிவரும் வீடியோவில் பொலிஸ் உத்தியோகத்தர்ஒருவர் நபர் ஒருவரின் தலையில் காலால் மிதிக்கின்றார்.
+එම දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ සමස්ථ ගෘහ ඒකකවලින් සියයට 60.5කගේ සාමාන්‍ය මාසික ආදායම අඩුවී ඇති බවය.
 
-நபர் ஒருவர் தரையில் காணப்படுவதையும் இரண்டு பொலிஸார் அவரை நோக்கி டேசரை நீட்டுவதையும் காண்பிக்கும் வீடியோவும் வெளியாகியுள்ளது.
+ආර්ථික අර්බුදයේ බලපෑම පිළිබඳව ගෘහ ඒකක සමීක්ෂණයේ 2023 වර්ෂයේ වාර්තාවට අනුව මෙම තොරතුරු අනාවරණය වී තිබේ.
 
-இதன் பின்னர்ஒரு பொலிஸ் உத்தியோகத்தர் நபர் ஒருவரின் முகத்தில்  காலால் மிதிப்பதை வீடியோ காண்பித்துள்ளது.பின்னர் அவர் அந்த நபரின் தலையில் மிதிக்கின்றார்.
+ආර්ථික අර්බුදය හේතුවෙන් අවුරුදු 03ත් 21ත් අතර සියයට 54.9ක පුද්ගලයින්ගේ අධ්‍යාපන ක්ෂේත්‍රයට බලපෑම් එල්ලවී ඇති අතර ඉන් සියයට 93.5ක් එම බලපෑම අවම කිරීම සඳහා උපාය මාර්ග අනුගමනය කර ඇති බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
 
-அதன் பின்னர் அதேவீடியோவில் நபர் ஒருவரை ஒரு பொலிஸ் உத்தியோகத்தர் தரையில் வீழ்த்துவதையும் கைகளை பின்பக்கமாக இழுத்து வைத்திருப்பதையும் ஒருவர் அந்த நபரை காலால் உதைப்பதையும் காணமுடிகின்றது.
+ආර්ථික අර්බුදයේ බලපෑම හේතුවෙන් 2022 වර්ෂයේ මාර්තු මාසයේ සිට වයස අවුරුදු 15ට වැඩි පුද්ගලයින්ගෙන් සියයට 14.2කට රැකියා අහිමි වී ඇති අතර ස්ත්‍රීන්ට සාපේක්ෂව පුරුෂයින්ගේ රැකියා අහිමිවීමේ ප්‍රතිශතය ඉහළ බව වාර්තා වෙයි.
 
-இந்த வீடியோக்கள் வெளியானதை தொடர்ந்து பிரிட்டனில்  பொலிஸார் சரியான அளவில் பலத்தை பயன்படுத்துகின்றார்களாக என்ற கேள்வி எழுந்துள்ளதுடன் சர்ச்சையும் மூண்டுள்ளது.
+2023 වර්ෂයේදී මෙරට සමස්ථ ගෘහ ඒකකවලින් සියයට 91ක සාමාන්‍ය මාසික වියදම වැඩිවී ඇති අතර සමස්ථ ජන ගහනයෙන් සියයට 7ක් ඔවුන්ගේ සෞඛ්‍ය ප්‍රතිකාර ක්‍රමය වෙනස් කර ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව සිදුකළ සමීක්ෂණයෙන් අනාවරණය වී තිබේ.
 
 ...
 
+[Data](articles/b3bc9bf1.json)
+
+---
+
+### Police officers who kicked and assaulted Pakistan youth at Britain's Manchester Airport
+
+*2024-07-25 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189350) · `ta`
+
+Videos circulating on social media show police officers at Manchester Airport, UK, assaulting a Pakistani youth. The footage depicts officers kicking and trampling on the individual, sparking debates about excessive force and potential racial bias. Following the incident, which occurred after an attack on the police where a female officer was injured, one officer involved has been reassigned. This incident has raised concerns over the use of force by British police and allegations of racism.
+
+🟩
+
+A video of police officers at the Manchester Airport in Britain has been released.
+
+In a widespread video on social media, a police officer is trampling on a person's head.
+
+A video of a person is seen on the ground and two policemen stretching towards him.
+
+The video then shown a video of a police officer on the face of a person.
+
+Thereafter, in the same video, a person can see a person falling to the ground and holding his hands behind the back and one kicks the person with the leg.
+
+Following the release of these videos, the question of whether the police in Britain are using the right strength and controversy.
+
+The incidents took place only after the attack on the police, and a female police officer was injured, Manchester police said.
+
+Meanwhile, a police officer found in a particular video has been removed from leading work.
+
+Meanwhile, Dul Babu, a former senior officer of the Metropolitan Police, said that racism was the cause of the attack.
+
+◼️
+
 [Data](articles/80dd137a.json)
+
+[Extended Data](ext_articles/80dd137a.ext.json)
 
 ---
 
@@ -94,17 +128,23 @@ In this case, the Election Commission has said that the Commission has nothing t
 
 ---
 
-### ஜனாதிபதி தேர்தலுக்கான திகதி நாளை அறிவிக்கப்படும் - தேர்தல் ஆணைக்குழு
+### The date of the presidential election will be announced tomorrow - the Election Commission
 
 *2024-07-25 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189348) · `ta`
 
-2024 ஆம் ஆண்டுக்கான ஜனாதிபதி தேர்தல் நடைபெறும் திகதி நாளை வெள்ளிக்கிழமை (26) அறிவிக்கப்படும் என தேர்தல் ஆணைக்குழு தெரிவத்துள்ளது.
+The Election Commission will announce the 2024 presidential election date tomorrow (26). It clarified it had no involvement in comments about the date or other resolutions.
 
-இந்நிலையில், ஜனாதிபதி தேர்தல் வாக்கெடுப்பு திகதி மற்றும் ஏனைய தீர்மானங்கள் குறித்து தனிப்பட்ட தரப்பினர் குறிப்பிடும் கருத்துக்கும், ஆணைக்குழுவுக்கும் எவ்வித தொடர்பும் கிடையாது எனவும் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+🟩
+
+The Election Commission has announced that it will be announced tomorrow (26) on the date of the presidential election for 2024.
+
+In this case, the Election Commission has said that the Commission has nothing to do with the Commission's comment on the presidential election date and other resolutions.
 
 ◼️
 
 [Data](articles/51994398.json)
+
+[Extended Data](ext_articles/51994398.ext.json)
 
 ---
 
@@ -145,6 +185,24 @@ The National Election Commission had convene a meeting today (25) to finalize th
 [Data](articles/21bf94bb.json)
 
 [Extended Data](ext_articles/21bf94bb.ext.json)
+
+---
+
+### Election Commission to announce Presidential Poll date tomorrow
+
+*2024-07-25 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100766/election-commission-to-announce-presidential-poll-date-tomorrow) · `en`
+
+The Elections Commission of Sri Lanka says that the Gazette notification regarding the announcement of the Presidential Election date will be published tomorrow (26).
+
+Issuing a statement, the Election Commission said that during its meeting which was convened today the members of the commission decided to publish the Extraordinary Gazette notification on July 26, 2024 (Friday) announcing the date of publishing the order for the election of a president, the date and location of accepting nominations for the election and the date of the Presidential Election.
+
+The statement further states that the Election Commission is not responsible for the statements made by various individuals and parties regarding the date of the Presidential Election and other constitutional duties.
+
+The National Election Commission had convene a meeting today (25) to finalize the date for the upcoming Presidential Election and the date for the calling of nominations.
+
+...
+
+[Data](articles/ce1071cc.json)
 
 ---
 
@@ -393,6 +451,36 @@ Death Investigation Officer Senaka Karunaratne, who is considering witnesses and
 [Data](articles/d90d8ab6.json)
 
 [Extended Data](ext_articles/d90d8ab6.ext.json)
+
+---
+
+### සතොස භාණ්ඩ වර්ග 9ක මිල අඩුකරයි
+
+*2024-07-25 12:23:10* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-වර්ග-9ක-මිල-අඩුකරයි/11-410988) · `si`
+
+ලංකා සතොස හරහා අලෙවිකරණ භාණ්ඩ වර්ග 9ක මිල අඩු කිරිම කටයුතු කර තිබේ. මෙම අඩුකළ මිල ගණන් අද සිට ක්‍රියාත්මක වෙයි.
+
+කිරිපිටි, සීනි, හාල් මැස්සෝ, විදේශීය ලූණු, කැකුළු සහල්, මුං ඇට යනාදි භාණ්ඩ 9ක මිල මෙසේ අඩුකර තිබේ. මීට අමතරව කීරි සම්බා සහල් රජයේ පාලන මිල වන රු. 260ට සතොස හරහා ලබා ගැනීමේ අවස්ථාවද ලැබී තිබේ.
+
+◼️
+
+[Data](articles/fa090bae.json)
+
+---
+
+### නාවික හමුදා භටයෙකුට පහරදිමක්
+
+*2024-07-25 12:15:13* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-භටයෙකුට-පහරදිමක්/11-410987) · `si`
+
+ත්‍රිකුණාමලය,කෝණේස්වරන් මුහුදේ දී සැක කටයුතු ධීවර යාත්‍රාවක් පරීක්ෂා කිරීමට ගිය නාවික හමුදා මුර යාත්‍රාවක සිටි නාවික භටයකුට පහරදී තුවාල සිදු කිරීමේ සිද්ධියක් සම්බන්ධයෙන් නාවික හමුදාව ඊයේ (24) පැමිණිල්ලක් කළ බව ත්‍රිකුණාමල වරාය පොලීසිය කියයි.
+
+මුහුදේ නීති විරෝධී ක්‍රියා මැඩ පැවැත්වීම සඳහා යොදවා තිබු මුර සංචාරක යාත්‍රාවක සිටී නාවික භටයන් සැක කටයුතු ධීවර බෝට්ටුවක් පරීක්ෂා කිරීමට යෑමේදී බෝට්ටුවේ දැල්වලට යොදා තිබූ ඊයම් බරු සහ ගල් වලින් එම නාවික භටයන් දෙදෙනෙකුට පහරදී ධිවර බෝට්ටුව පලා ගොස් තිබුණි.
+
+නිලාවේලි විජයබා නාවික කඳවුරේ නාවික භට ලක්ෂ්මන් චතුරංග නමැති අය මෙලෙස තුවාල ලබා ත්‍රිකුණාමලය මහ රෝහලේ ප්‍රතිකාර ලබයි .සිද්ධියට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ත්‍රිකුණාමල වරාය පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වාගෙන යයි
+
+◼️
+
+[Data](articles/3f360fba.json)
 
 ---
 
@@ -2163,79 +2251,5 @@ In Sri Lanka, fear is pervasive. Suppression of media and fundamental rights of 
 [Data](articles/e1c7448f.json)
 
 [Extended Data](ext_articles/e1c7448f.ext.json)
-
----
-
-### My Family’s “Black July” Experience: A Personal Memoir.
-
-*2024-07-25 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84405) · `en`
-
-The anti-Tamil pogrom of July 1983 is an unforgettable chapter in the post-independence history of Sri Lanka.  The catastrophic events of that dark month  drastically affected  the lives of large numbers of Tamils in Sri Lanka.
-
-As a Sri Lankan Tamil journalist, Black July did have an effect on me in both personal and professional capacities. Furthermore my family – like thousands of other Tamil families – was also affected and displaced during those turbulent times.
-
-Although I have been writing  extensively about Black July in the past, I did not write about those happenings from a personal perspective  for many,many years.
-
-I  refrained for a long time  from writing about the impact of Black July on our family for two reasons. Firstly I was spared the full blast of that violence because I was not in Colombo then. I was on assignment to cover the Tamil United Liberation Front (TULF) party convention in Mannar.
-
-...
-
-[Data](articles/e547085f.json)
-
-[Extended Data](ext_articles/e547085f.ext.json)
-
----
-
-### A real minimum wage can set ground for productivity gains
-
-*2024-07-25 03:32:15* · [`dailyftlk`](https://www.ft.lk/opinion/A-real-minimum-wage-can-set-ground-for-productivity-gains/14-764706) · `en`
-
-Then what really is the living wage and how does one establish a common benchmark?
-
-Wages in Sri Lanka have thrown up considerable debate, with local and international activists joining the chorus calling on Government and industries to honour a ‘living wage’.
-
-Sri Lanka’s official minimum wage edged to just Rs. 17,500 ($ 59) in March this year. The ‘living wage’ for urban Sri Lankans in 2022 was listed at Rs. 84,231 ($ 281) by the Global Living Wage Coalition, during a year the country’s headline inflation touched its highest of 73.7% as per the Central Bank. For simpler discourse, let us place that figure now at $ 300.
-
-...
-
-[Data](articles/bbe15ea9.json)
-
-[Extended Data](ext_articles/bbe15ea9.ext.json)
-
----
-
-### A real minimum wage can set ground for productivity gains
-
-*2024-07-25 03:32:15* · [`dailyftlk`](https://www.ft.lk/columns/A-real-minimum-wage-can-set-ground-for-productivity-gains/4-764706) · `en`
-
-Then what really is the living wage and how does one establish a common benchmark?
-
-Wages in Sri Lanka have thrown up considerable debate, with local and international activists joining the chorus calling on Government and industries to honour a ‘living wage’.
-
-Sri Lanka’s official minimum wage edged to just Rs. 17,500 ($ 59) in March this year. The ‘living wage’ for urban Sri Lankans in 2022 was listed at Rs. 84,231 ($ 281) by the Global Living Wage Coalition, during a year the country’s headline inflation touched its highest of 73.7% as per the Central Bank. For simpler discourse, let us place that figure now at $ 300.
-
-...
-
-[Data](articles/f200acee.json)
-
-[Extended Data](ext_articles/f200acee.ext.json)
-
----
-
-### Jackfruit revolution: rising king of global plant-based alternatives
-
-*2024-07-25 03:30:22* · [`dailyftlk`](https://www.ft.lk/columns/Jackfruit-revolution-rising-king-of-global-plant-based-alternatives/4-764705) · `en`
-
-Meet the jackfruit, a tropical treasure poised to revolutionise the global food industry
-
-Imagine a fruit so versatile it can mimic the taste and texture of pulled pork and shredded chicken, so sustainable it thrives with minimal resources, and so nutritious it’s a powerhouse of vitamins and minerals. Meet the jackfruit, a tropical treasure poised to revolutionise the global food industry.
-
-Native to Southeast Asia and boasting the title of the largest tree-borne fruit on Earth, jackfruit has transcended its Sri Lankan roots to become a global culinary sensation. Introduced to Sri Lanka by Arthur V. Dias, during the British colonial era, when rice scarcity threatened starvation, the jackfruit emerged as a crucial source of sustenance, with its rich carbohydrates and natural fats providing much-needed energy. This lifesaving role later earned the title “Rice Tree”.
-
-...
-
-[Data](articles/63220f28.json)
-
-[Extended Data](ext_articles/63220f28.ext.json)
 
 ---

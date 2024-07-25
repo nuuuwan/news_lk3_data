@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 13:55:29**
+As of **2024-07-25 14:07:48**
 
 ## Newspaper Stats
 
-*Scraped **37,184** Articles*
+*Scraped **37,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,102 @@ bbccomsinhala | 364
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,375
-adaderanalk | 4,301
+adalk | 3,376
+adaderanalk | 4,302
 tamilmirrorlk | 4,583
 dailymirrorlk | 4,733
-virakesarilk | 5,831
-adaderanasinhalalk | 6,239
+virakesarilk | 5,836
+adaderanasinhalalk | 6,241
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,183 (100.0%) of 37,184 articles have been extended.
+37,184 (100.0%) of 37,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### තිලංගට අතුරු තහනම් නියෝගයක්
+
+*2024-07-25 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199197) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂ කාර්යාලයේ අර්බුදයක් සම්බන්ධයෙන් එක්සත් ජනතා නිදහස් සන්ධානයේ මහ ලේකම් තිලංග සුමතිපාල මහතා විසින් අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාට එරෙහිව ගොනුකර තිබෙන පෞද්ගලික පැමිණිල්ල ඉදිරියට විභාග කිරීම වළක්වාලමින් අභියාචනාධිකරණය විසින් ඊයේ (24) මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම නියෝගය නිකුත් කළ අතර අදාළ අතුරු තහනම් නියෝගය අගෝස්තු මස 06 වනදා බලපැවැත්වෙන බවත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/225ece58.json)
+
+---
+
+### Election Commission to announce Presidential Election date
+
+*2024-07-25 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100766/election-commission-to-announce-presidential-election-date) · `en`
+
+The Elections Commission of Sri Lanka says that the Gazette notification regarding the announcement of the Presidential Election date will be published tomorrow (26).
+
+◼️
+
+[Data](articles/21bf94bb.json)
+
+---
+
+### கைதியால் தாக்கப்பட்டு இரு சிறைச்சாலை அதிகாரிகள் வைத்தியசாலையில் அனுமதி
+
+*2024-07-25 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189328) · `ta`
+
+கண்டி, பல்லேகல  தும்பர சிறைச்சாலையின் கைதியொருவர் இரண்டு சிறைச்சாலை அதிகாரிகளை கடுமையாக தாக்கியுள்ளார்.
+
+தாக்குதலில் பலத்த காயமடைந்த இரு சிறைச்சாலை அதிகாரிகளும் கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+எழுபது வயதுப் பெண்ணின் தலையில் சுத்தியலால் தாக்கி கொலை செய்து தங்க நகைகளை அறுத்துச் சென்றதாக கைதி மீது குற்றம் சுமத்தப்பட்டுள்ளது. இந்நிலையில், தடுத்து வைக்கப்பட்டிருந்த குறித்த கைதி நேற்று புதன்கிழமை (24) காலை மட்டக்களப்பு நீதிமன்றத்திற்கு அழைத்துச் செல்லப்பட்டார்.
+
+இதன்போது, ஹுன்னஸ்கிரிய மற்றும் உடுதும்பர பகுதிக்கு இடையில் சிறைச்சாலை கண்காணிப்பாளர் மற்றும் சார்ஜன்ட் ஆகியோரை கைதி கடுமையாக தாக்கியுள்ளார்.
+
+கைதியின் தாக்குதலில் சிறைச்சாலை கண்காணிப்பாளருக்கு தலையில் பலத்த காயம் ஏற்பட்டதுடன், அவர் கண்டி தேசிய வைத்தியசாலையில் மூன்று மணித்தியாலம் சத்திரசிகிச்சைக்கு உட்படுத்தப்பட்டு அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டுள்ளார்.
+
+தாக்குதலுக்கு உள்ளான மற்றைய அதிகாரியின் நிலைமை கவலைக்கிடமாக இல்லை என வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/f873288c.json)
+
+---
+
+### ජනාධිපතිවරණ දිනය ගැන මැතිවරණ කොමිසමේ අවසන් තීරණය
+
+*2024-07-25 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199196) · `si`
+
+ජනාධිපතිවරණය පැවැත්වෙන දිනය හෙට ප්‍රකාශයට පත් කිරීමට මැතිවරණ කොමිෂන් සභාව තීරණය කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිෂන් සභාව සඳහන් කර ඇත්තේ, එයින් ජනාධිපතිවරයා තෝරාපත් කරගැනීම සඳහා නියමය පළ කරන දිනය, නාමයෝජනා භාරගැනීමේ දිනය හා ස්ථානය සහ ඡන්ද විමසීමේ දිනය පිළිබඳව දැනුම් දීමේ අතිවිශේෂ ගැසට් පත්‍රය හෙට නිකුත් කරන බවය.
+
+එසේම ජනාධිපතිවරණ ඡන්ද විමසීම පැවැත්වෙන දිනය සහ සෙසු ව්‍යවස්ථාපිත කාර්යයන් පිළිබ ඳව විවිධ පුද්ගලයන් හා පාර්ශව විසින් ඉදිරිපත් කරනු ලබන ප්‍රකාශ පිළිබ ඳව මැතිවරණ කොමිෂන් සභාවේ කිසිදු වගකීමක් නොමැති බව ද මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා යොමු කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/021508a3.json)
+
+---
+
+### மருந்து விநியோக பிரிவு முன்னாள் பணிப்பாளருக்கு பிணை
+
+*2024-07-25 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189344) · `ta`
+
+தரமற்ற இம்யூனோகுளோபுலின் (IVIG) மருந்துகளை இறக்குமதி  செய்த குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டிருந்த சுகாதார அமைச்சின் மருத்து விநியோகப் பிரிவின்  முன்னாள் பணிப்பாளர் வைத்தியர் கபில விக்கிரமநாயக்கவை பிணையில் விடுவிக்குமாறு மேன்முறையீட்டு  நீதிமன்றம் மாளிகாகந்த நீதவான் நீதிமன்றத்திற்கு உத்தரவிட்டுள்ளது.
+
+வைத்தியர்  கபில விக்கிரமநாயக்கவின் சார்பில் சட்டத்தரணிகள் தாக்கல் செய்த ரிட் மனுவை பரிசீலித்த மேன்முறையீட்டு நீதிமன்றம், தகுந்த பிணை நிபந்தனைகளின் கீழ் அவரை விடுவிக்குமாறு மாளிகாகந்த நீதவான் நீதிமன்றத்திற்கு உத்தரவு பிறப்பித்துள்ளது.
+
+மாளிகாகந்த நீதவான் நீதிமன்றத்தின் தீர்ப்பை தண்டனையை சவாலுக்குட்படுத்தி தம்மை பிணையில் விடுவிக்குமாறு இந்த மனுவை சமர்ப்பித்திருந்தார்.
+
+◼️
+
+[Data](articles/eba17369.json)
+
+---
 
 ### Nuwan Thushara also gets injured
 
@@ -78,31 +158,83 @@ However, President Biden says he has left the candidate and respecting the unity
 
 ---
 
-### North Korea trash balloons disrupt flights in Seoul, cause rooftop fire
+### කොන්කෝඩියා සරසවියයේ ගණිතයෙන් පශ්චාත් උපාධිය හදාරමින් සිටි ලාංකික සිසුවිය පිළිකාවකින් මරුට
 
-*2024-07-25 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100765/north-korea-trash-balloons-disrupt-flights-in-seoul-cause-rooftop-fire) · `en`
+*2024-07-25 13:05:20* · [`adalk`](https://www.ada.lk/breaking_news/කොන්කෝඩියා-සරසවියයේ-ගණිතයෙන්-පශ්චාත්-උපාධිය-හදාරමින්-සිටි-ලාංකික-සිසුවිය-පිළිකාවකින්-මරුට/11-410990) · `si`
 
-North Korea has sent about 500 balloons laden with trash into South Korea’s air space over the past 24 hours, officials in the South said on Thursday, disrupting flights and igniting a fire on the roof of a residential building.
+කැනඩා කොන්කෝඩියා සරසවියෙ ගණීත අංශයේ දර්ශණපති පශ්චාත් උපාධිය හදාරමින් සිටි ශ්‍රී ලාංකික සිසුවිය දරුණු පිළිකාවකින් බැට කමින් සිටියදී මරණයට පත්ව ඇති බව පවුලේ ඥාතින් පවසයි.
 
-The balloons are part of an ongoing propaganda campaign by Pyongyang against North Korean defectors and activists in the South, who regularly send balloons carrying items such as anti-Pyongyang leaflets medicine, money and USB sticks loaded with K-pop videos and dramas.
+මෙසේ අවාසනාවන්ත ලෙස ජීවිතයෙන් සමුගෙන ඇත්තේ කුරුණෑගල දොරටියාව මල්ලවපිටිය පදිංචිව සිටි 29 හැවිරිදි ඩබ්ලියු.එම්. මාෂා විජේසිංහ නැමති විවාහක උපාධි අපේක්ෂීකා සිසුවියකී.
 
-A suspected balloon suspended take-offs and landings at Seoul’s Gimpo Airport on Wednesday evening for two hours, an official at the Korea Airports Corporation said.
+ඇය කැනඩා කොන්කෝඩියා සරවියෙ තම උපාධිය හදාරමින් සිටින අතර තුරදී  උදරයෙ ඇතිවු  දරුණු  පිළීකාවකින් බැට කමින් වෛද්‍ය ප්‍රතිකාර ලබා ගනිමින් සිටි බවද කියයි. මෙම සිසුවිය තම සැමියා සමග  ශ්‍රී ලංකාවට පැමින  මෙරටදීද පිළිකාව සදහා ප්‍රතිකාර ලබා ගනිමින් සිටි බවද කියයි. එසේ සිටියදි  මෙලෙස මරණයට පත්ව ඇති බව කියයි.
 
-Balloons have affected traffic at South Korea’s main international airport, Incheon, several times in recent weeks.
+වයඹ රාජකිය විද්‍යාලයෙ ආදි ශීෂ්‍යාවක් වන අතර ඇය පේරාදෙණිය සරවියෙ උපාධිධාරි සිසුවියක්ද වෙයි.ඒ සමගම ඇය පේරාදෙණීය සරවියෙ කථීකාචාර්ය වරියක් ලෙස සේවයක කරමින් සිටියදී වැඩි දුර අධ්‍යාපනය හැදැරීම සදහා කැනඩාවට ගොස් ඇති බව කියයි.
 
-In Gyeonggi, a province near Seoul, a balloon caught fire on top of a residential building. Fire fighters extinguished the blaze, an official at the Gyeonggi Northern Fire and Disaster Headquarters said.
+ඇගේ පියා කෘෂීකර්ම අමාත්‍යංශයෙ ජේෂඨ උපදේශකවරයකු ලෙස කටයුතු කරන අතර මව ඉබ්බාගමවු ජාතික පාසලේ කෘෂීකර්ම ආචාර්ය වරියක ලෙස කටයුතු කරති.
 
 ...
 
-[Data](articles/5e6d808e.json)
+[Data](articles/9377c77d.json)
 
-[Extended Data](ext_articles/5e6d808e.ext.json)
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-25 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189341) · `ta`
+
+இன்று வியாழக்கிழமை (ஜூலை 25) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 298.9498 ரூபாவாகவும், விற்பனை விலை 308.2486 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/5eac7d8d.json)
+
+---
+
+### காதலியுடன் முரண்பாடு ; உயிரை மாய்த்துக் கொண்ட இளைஞன்!
+
+*2024-07-25 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189338) · `ta`
+
+காதலியுடன் ஏற்பட்ட முரண்பாடு காரணமாக இளைஞன் ஒருவன் தன் உயிரை மாய்த்துக் கொண்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட ஓட்டமாவடி பகுதியைச் சேர்ந்த 18 வயது இளைஞன் ஒருவனே இவ்வாறு தனது உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+கொழும்பு புறக்கோட்டை பகுதியில் வர்த்தக நிலையமொன்றில் வேலை செய்து வந்த இளைஞனே நேற்று புதன்கிழமை (24) இந்த அவசர முடிவை எடுத்துள்ளார்.
+
+காதலிக்கு வீடியோ அழைப்பை எடுத்து தொடர்பு கொண்ட நிலையில் தனது உயிரை விட்டுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளின் போது தெரிய வந்துள்ளது.
+
+மரணமடைந்த இளைஞனின் உடல் பிரேத பரிசோதனைக்காக கொழும்பு வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை புறக்கோட்டை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+நீங்கள் அல்லது உங்களுக்குத் தெரிந்த ஒருவர் நெருக்கடியில் இருந்தால் மற்றும் உதவி தேவைப்பட்டால், உடனடியாக இலவசமாக சேவை செய்ய அமைப்புகள் உள்ளன.
+
+தேசிய மனநல உதவி எண் 1926சுமித்ரயோ : +94 11 2 682535/+94 11 2 682570 சிசிசிலைன் அமைப்பு : 1333
+
+◼️
+
+[Data](articles/19882f28.json)
+
+---
+
+### மே, ஜூன் மாதங்களில் பணிக்கு சமுகமளிக்காத அரச ஊழியர்களுக்கு விசேட விடுமுறை
+
+*2024-07-25 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189322) · `ta`
+
+கடந்த மே மற்றும் ஜூன் மாதங்களில் ஏற்பட்ட வெள்ளம், மண் சரிவு உள்ளிட்ட காரணங்களால் பணிக்கு சமுகமளிக்க முடியாமல் போன அரசு ஊழியர்களுக்கு விசேட விடுமுறை வழங்க அரசாங்கம் முடிவு செய்துள்ளது.
+
+அதன்படி, கொழும்பு, களுத்துறை, கம்பஹா, காலி, மாத்தறை, அம்பாந்தோட்டை, புத்தளம், குருணாகல், பொலன்னறுவை, கேகாலை மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் உள்ள அரச அதிகாரிகளுக்கு இந்த விசேட விடுமுறை வழங்கப்படவுள்ளது.
+
+இந்த  மாவட்டங்களில் வெள்ளம், மண்சரிவு மற்றும் போக்குவரத்து தடை காரணமாக அவர்கள் வசிக்கும் இடத்திலிருந்து பணியிடத்திற்குச் செல்லும் பொதுப் போக்குவரத்துச் சேவைகள் தடைப்பட்டதால் பணிக்கு சமூகமளிக்க முடியாது பாதிக்கப்பட்டவர்களுக்கு  இந்த விசேட விடுமுறை உரிமை வழங்கப்பட்டுள்ளது.
+
+இது தொடர்பான சுற்றறிக்கையை பொது நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சின் செயலாளர் பிரதீப் யசரத்ன வெளியிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2280df72.json)
 
 ---
 
 ### Vitalization
 
-*2024-07-25 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189335) · `ta`
+*2024-07-25 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189335) · `ta`
 
 A university student from Paragada Wella, Kandy, tragically passed away. The student was found unconscious near their home on the evening of the 22nd and succumbed to their injuries on the 23rd. Investigations reveal the student's mother, an assistant principal, and two siblings were absent during the incident. The student had been at home for two months due to non-academic university staff duties. An autopsy by Mr. Kasun Ekanayake, a senior lecturer at the Peradeniya University Medical Faculty, concluded the cause of death as unknown pending further investigation by Death Investigation Officer Senaka Karunaratne.
 
@@ -125,6 +257,28 @@ Death Investigation Officer Senaka Karunaratne, who is considering witnesses and
 [Data](articles/d90d8ab6.json)
 
 [Extended Data](ext_articles/d90d8ab6.ext.json)
+
+---
+
+### North Korea trash balloons disrupt flights in Seoul, cause rooftop fire
+
+*2024-07-25 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100765/north-korea-trash-balloons-disrupt-flights-in-seoul-cause-rooftop-fire) · `en`
+
+North Korea has sent about 500 balloons laden with trash into South Korea’s air space over the past 24 hours, officials in the South said on Thursday, disrupting flights and igniting a fire on the roof of a residential building.
+
+The balloons are part of an ongoing propaganda campaign by Pyongyang against North Korean defectors and activists in the South, who regularly send balloons carrying items such as anti-Pyongyang leaflets medicine, money and USB sticks loaded with K-pop videos and dramas.
+
+A suspected balloon suspended take-offs and landings at Seoul’s Gimpo Airport on Wednesday evening for two hours, an official at the Korea Airports Corporation said.
+
+Balloons have affected traffic at South Korea’s main international airport, Incheon, several times in recent weeks.
+
+In Gyeonggi, a province near Seoul, a balloon caught fire on top of a residential building. Fire fighters extinguished the blaze, an official at the Gyeonggi Northern Fire and Disaster Headquarters said.
+
+...
+
+[Data](articles/5e6d808e.json)
+
+[Extended Data](ext_articles/5e6d808e.ext.json)
 
 ---
 
@@ -777,26 +931,6 @@ In this case, the Chairman of the Ombudsman, who was hearing the case, ordered t
 [Data](articles/ec110e99.json)
 
 [Extended Data](ext_articles/ec110e99.ext.json)
-
----
-
-### Fitch confirms ‘A-(lka)’ domestic rating of National Development Bank Plc
-
-*2024-07-25 10:00:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-national-development-bank-plc-173646/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it was confirming an A-(lka) rating on Sri Lanka’s National Development Bank Plc with a Stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
-
-Fitch said it expects Sri Lanka’s stabilising macroeconomic environment to support NDB’s ability to generate and defend business volumes, but its business profile remains constrained by risks in the domestic operating environment which are still elevated.
-
-“We expect NDB to benefit from the resumption in lending, albeit modest, thereby leading to an uptick in the share of net loans in total assets (end-1Q24: 57.5%), similar to peers.”
-
-NDB’s risk profil remains tied to the credit and market risk of the sovereign, through its substantial exposure via the defaulted foreign-currency-denominated sovereign bonds (end-2023: 6.5% of assets) and a further 25.6% of assets in rupee-denominated treasury securities, the rating agency said.
-
-...
-
-[Data](articles/cc2d8147.json)
-
-[Extended Data](ext_articles/cc2d8147.ext.json)
 
 ---
 
@@ -1518,6 +1652,26 @@ From time to time in the rest of the island.. Strong winds are about 30-40 times
 
 ---
 
+### Fitch confirms ‘A-(lka)’ domestic rating of National Development Bank Plc
+
+*2024-07-25 06:00:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-national-development-bank-plc-173646/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it was confirming an A-(lka) rating on Sri Lanka’s National Development Bank Plc with a Stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
+
+Fitch said it expects Sri Lanka’s stabilising macroeconomic environment to support NDB’s ability to generate and defend business volumes, but its business profile remains constrained by risks in the domestic operating environment which are still elevated.
+
+“We expect NDB to benefit from the resumption in lending, albeit modest, thereby leading to an uptick in the share of net loans in total assets (end-1Q24: 57.5%), similar to peers.”
+
+NDB’s risk profil remains tied to the credit and market risk of the sovereign, through its substantial exposure via the defaulted foreign-currency-denominated sovereign bonds (end-2023: 6.5% of assets) and a further 25.6% of assets in rupee-denominated treasury securities, the rating agency said.
+
+...
+
+[Data](articles/cc2d8147.json)
+
+[Extended Data](ext_articles/cc2d8147.ext.json)
+
+---
+
 ### The announcement of the election date will be released on Friday
 
 *2024-07-25 05:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-திகதி-அறிவிப்பு-வெள்ளி-வெளியாகும்/175-340987) · `ta`
@@ -2027,229 +2181,5 @@ Therefore, money is laundering and it is a serious financial crime.
 [Data](articles/bcfec243.json)
 
 [Extended Data](ext_articles/bcfec243.ext.json)
-
----
-
-### Vadivel regrets the Gazette withdrawal
-
-*2024-07-25 01:19:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானி-வாபஸூக்கு-வருந்தினார்-வடிவேல்/175-340986) · `ta`
-
-Vadivel expresses regret over the withdrawal of the Gazette Notification regarding a Rs 1,700 salary for plantation workers, despite the Ministry of Labor issuing it amidst legal challenges from plantation companies.
-
-🟩
-
-It is sad that the Gazette Notification issued by the Ministry of Labor has been withdrawn for the salary of Rs.
-
-The Ministry of Labor has issued two gazette notifications to pay a salary of Rs 1,700 for plantation workers. However, the plantation companies were suing the court, challenging the gazette notifications issued.
-
-In this backdrop, the High Court recently issued an interim injunction against the Gazette, which conducted a second hearing of the Gazette case on a daily salary gazette case issued by the Ministry of Labor.
-
-◼️
-
-[Data](articles/e1126c4f.json)
-
-[Extended Data](ext_articles/e1126c4f.ext.json)
-
----
-
-### Ranil Out of the Mottu
-
-*2024-07-25 01:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-முட்டு-இன்றேல்-ரணில்-அவுட்/175-340985) · `ta`
-
-Tushara Hindu stated that Ranil Wickremesinghe won't run for presidency without Sri Lanka PA's backing. He also mentioned that only Sarath Fonseka and Rajitha Senaratne from the United People's Power would join the president. The discussion revolved around AI technology adoption in resource-limited countries, economic challenges under previous leaders, and political maneuvers ahead of elections.
-
-🟩
-
-United People's Power Parliamentarian Tushara Hindu said that Ranil Wickremesinghe would not contest the presidential election if he did not get the support of the Sri Lanka PA.
-
-At the same time, he said that no one other than Sarath Fonseka and Rajitha Senaratne from the United People's Power would join the president.
-
-Dushara Hindu said this while addressing the adjournment debate on the Artificial Intelligence Agency on Wednesday (24) in Parliament.
-
-In artificial intelligence technology we are in the backlash of the world. It must be accepted that such technologies should be used in countries like us that are limited to resources. We need to improve technology with the world.
-
-Our presidents make political promises of time. Previously, the tree climbing conditions continues in search of telecommunication signals for children. In this case, Sajith Premadasa is carrying out programs to create modern classrooms throughout the country.
-
-...
-
-[Data](articles/7bb0dc71.json)
-
-[Extended Data](ext_articles/7bb0dc71.ext.json)
-
----
-
-### Arrested 250 fishermen;Action is needed
-
-*2024-07-25 01:12:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-மீனவர்கள்-கைது-நடவடிக்கை-தேவை/175-340984) · `ta`
-
-250 Indian fishermen were arrested by the Sri Lankan navy from January to July 2023, the highest in a decade. Tamil Nadu CM Stalin and Foreign Minister Jaishankar have called for immediate action to free them and their boats. The fishermen face threats and depression due to constant arrests and loss of equipment. Urgent diplomatic efforts are needed to resolve this issue swiftly.
-
-🟩
-
-250 Indian fishermen have been arrested by the Sri Lankan navy from January to July 22 this year. Tamil Nadu Chief Minister Stalin pointed out that this is the highest number of arrests in the last 10 years.
-
-Foreign Minister Jaishankar has written to Jaishankar, urging the Sri Lankan navy to take immediate action to release the fishermen and their fishing boats.
-
-The fishermen are being threatened, arresting and their fishing boats and equipment are constantly underway.. The fishermen are very depressed.
-
-Therefore, I urge you to take the necessary embassy efforts to quench the situation and take the necessary steps to quickly release 87 fishermen and 175 boats from Sri Lanka and realize the severity of the problem. ”
-
-◼️
-
-[Data](articles/d7d5bde6.json)
-
-[Extended Data](ext_articles/d7d5bde6.ext.json)
-
----
-
-### Exchange apologies will not be solved
-
-*2024-07-25 00:54:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னிப்பு-தீர்வாகாது/175-340983) · `ta`
-
-S. Sreedharan, a TNA parliamentarian, criticized the term "amnesty" as a solution for Tamils affected by the 1983 Black July massacre, emphasizing the need for justice instead. He highlighted the historical context of Tamil resistance movements and the ongoing impact of the genocide, calling for recognition of the atrocities committed against Tamils.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian S. Sreedharan said that the word 'amnesty' is not a solution to the Tamils ​​in any way after 41 years of the black July massacre against Tamils.
-
-He said this while addressing the debate on the adjournment of the Artificial Intelligence Technology Council held in Parliament on Wednesday (24).
-
-In the history of the Eelam liberation struggle, in the late 70s, a variety of liberation movements were formed in the early 1980s. In this congregation, I remember Tambapillai Maheshwaran, the forerunner of the Eelam Liberation Movement, creating the structure of the Tamil Eelam Army in the history of such movements.
-
-Although he was born into a comfortable family. He learned in the field of engineering in London and renounced his learning and joined him as an Eelam liberation fighter with subconscious tribute.
-
-...
-
-[Data](articles/5366a135.json)
-
-[Extended Data](ext_articles/5366a135.ext.json)
-
----
-
-### Exchange apologies will not be solved
-
-*2024-07-25 00:54:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மன்னிப்பு-தீர்வாகாது/150-340983) · `ta`
-
-S. Sreedharan, a TNA parliamentarian, criticized the term "amnesty" as a solution for Tamils post-Black July massacre, emphasizing the need for justice instead. He highlighted the historical context of Tamil resistance and the ongoing struggle for recognition and rights, pointing out the lack of justice for the victims of the 1983 genocide.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian S. Sreedharan said that the word 'amnesty' is not a solution to the Tamils ​​in any way after 41 years of the black July massacre against Tamils.
-
-He said this while addressing the debate on the adjournment of the Artificial Intelligence Technology Council held in Parliament on Wednesday (24).
-
-In the history of the Eelam liberation struggle, in the late 70s, a variety of liberation movements were formed in the early 1980s. In this congregation, I remember Tambapillai Maheshwaran, the forerunner of the Eelam Liberation Movement, creating the structure of the Tamil Eelam Army in the history of such movements.
-
-Although he was born into a comfortable family. He learned in the field of engineering in London and renounced his learning and joined him as an Eelam liberation fighter with subconscious tribute.
-
-...
-
-[Data](articles/cba99d62.json)
-
-[Extended Data](ext_articles/cba99d62.ext.json)
-
----
-
-### Field Marshal Sarath Fonseka Will Contest for President at Forthcoming Election; EX-Army chief says  “This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election” in Message Posted on “X”(twitter)
-
-*2024-07-25 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84431) · `en`
-
-Ex-army chief Sarath Fonseka has announced his intention to contest at Sri Lanka’s upcoming presidential election in a pre-dawn X (twitter) message.“I wish to announce my Presidential Candidacy to the people of Sri Lanka”
-
-“For 76 years, we have been led by an inept political group that has led us to bankruptcy.”
-
-“This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election.
-
-“I invite every Sri Lankan to join me to take Sri Lanka forward.”
-
-The former Army chief said for Sri Lanka to grow, “we need to #CrushCorruption,” and “We need to leverage our natural resources to boost income generation,” echoing the oft-repeated slogans of some other political parties.
-
-Fonseka, Sri Lanka’s first field marshal, unsuccessfully tried to challenge a re-election bid by the then-strongman president Mahinda Rajapakse in 2010.
-
-He was jailed for alleged treason by the previous regime as a result.
-
-...
-
-[Data](articles/730af3d1.json)
-
----
-
-### To whom to write the letter anymore?
-
-*2024-07-25 00:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-இனி-கடிதம்-எழுதுவது/175-340982) · `ta`
-
-In a parliamentary address, an MP raised concerns about a security threat, handing a letter to the police chief. The Supreme Court upheld an injunction against political interference in police appointments, ensuring electoral integrity. Meanwhile, the government apologized for the tragic deaths of Muslims due to COVID-19.
-
-🟩
-
-Batticaloa District MP of the Sri Lanka Tamil National Party (TNA). The Ira Sanakiyan questioned in Parliament
-
-I have handed over a letter to the Inspector General of Police on Tuesday (23) regarding my security issue as there are reports of a conspiracy.
-
-He said the Supreme Court had confirmed the interim injunction to the appointment of the Inspector General of Police for the President's wishes that the attempt to postpone the presidential election would not be sacrificed.
-
-He said this while addressing a special statement in Parliament on Wednesday (24).
-
-Today, the court has issued an interim injunction to his service regarding the appointment of the Inspector General of Police. This is the case with the Inspector General of Police.
-
-At the same time, the state apologized to the Muslims for the burning of the Muslims who died from the Corona infection.
-
-◼️
-
-[Data](articles/6888bbd2.json)
-
-[Extended Data](ext_articles/6888bbd2.ext.json)
-
----
-
-### Provide compensation to Muslims
-
-*2024-07-25 00:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களுக்கு-இழப்பீடு-வழங்கவும்/175-340981) · `ta`
-
-Sajith Premadasa calls for government compensation to Muslims affected by forced cremations, highlighting violations of their religious and cultural rights under Gotabhaya Rajapaksa's cabinet. He criticizes the lack of consideration for advice on the matter and urges transparency from the government regarding its decisions.
-
-🟩
-
-Opposition Leader Sajith Premadasa has urged the government to pay compensation to the affected Muslim people in the cremation of the Janasas.
-
-He further stressed the special claim in Parliament on Wednesday (24).
-
-Ministers in the cabinet of former President Gotabhaya Rajapakse supported the decision of compulsory burial in Sri Lanka during the period. By this, the religious and cultural rights of the Muslim people were completely violated. Racism and religiousism were carried out in the country.
-
-Gotabhaya Rajapaksa's cabinet made a wrong decision on the issue of burglary targeting Muslims. This resolution was taken based on the report of the person?Who advised on this?What is the reason why the political leadership did not consider this advice?The government should present the reasons for such matters.
-
-...
-
-[Data](articles/58ebda35.json)
-
-[Extended Data](ext_articles/58ebda35.ext.json)
-
----
-
-### Justice, Prison Affairs and Constitutional Reforms Minister Wijeyadasa Rajapakshe announced he will Contest for President in the upcoming presidential election; says “I am coming forward as a candidate for the victory of Sri Lanka state and its people,”
-
-*2024-07-25 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84428) · `en`
-
-Sri Lanka’s Justice, Prison Affairs and Constitutional Reforms Minister Wijeyadasa Rajapakshe announced he will be running for president at the upcoming presidential election.
-
-“I am coming forward as a candidate for the victory of Sri Lanka state and its people,” Rajapakshe told reporters at the Independence Arcade on Thursday.
-
-Rajapakshe said short sighted policies led to an economic crisis and poverty.
-
-Announcing his manifesto, the minister said special banks were needed for entrepreneurs, and that the State sector has to be made efficient and the private sector sector has to be regulated.
-
-Friendship has to be maintained with all countries with a priority on neighbors, Rajapakshe said.
-
-He claimed to have already brought a law to strengthen a bribery commission, and that he has signed a cabinet paper on proceeds of crime bill today.
-
-The minister said he has taken steps to bring about national reconciliation.
-
-“There is no bar against being a minister and running for president.”
-
-◼️
-
-[Data](articles/1c2c63c5.json)
-
-[Extended Data](ext_articles/1c2c63c5.ext.json)
 
 ---

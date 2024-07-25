@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 11:20:17**
+As of **2024-07-25 11:36:09**
 
 ## Newspaper Stats
 
-*Scraped **37,153** Articles*
+*Scraped **37,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,224
 dailyftlk | 2,372
 adalk | 3,371
 adaderanalk | 4,299
-tamilmirrorlk | 4,574
+tamilmirrorlk | 4,579
 dailymirrorlk | 4,733
 virakesarilk | 5,824
 adaderanasinhalalk | 6,236
@@ -26,11 +26,77 @@ adaderanasinhalalk | 6,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,149 (100.0%) of 37,153 articles have been extended.
+37,153 (100.0%) of 37,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### வீடியோ அழைப்பை எடுத்த காதலன் உயிரை மாய்த்தார்
+
+*2024-07-25 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடியோ-அழைப்பை-எடுத்த-காதலன்-உயிரை-மாய்த்தார்/175-341004) · `ta`
+
+காதலியுடன் ஏற்பட்ட முரண்பாடு காரணமாக இளைஞன் ஒருவன் தன் உயிரை மாய்த்துக் கொண்டுள்ள சம்பவம் புதன்கிழமை (24) இடம்பெற்றுள்ளது.
+
+வாழைச்சேனை , ஓட்டமாவடி பகுதியைச் சேர்ந்த 18 வயது இளைஞன் ஒருவனே இவ்வாறு தன் உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+கொழும்பு, புறக்கோட்டை பகுதியில் உள்ள  வர்த்தக நிலையமொன்றில்  கடைமையாற்றும் குறித்த இளைஞன் தனது காதலிக்கு வீடியோ அழைப்பை எடுத்து தொடர்பில் இருந்த  நிலையிலேயே இவ்வாறு உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளின் போது தெரிய வந்துள்ளது.
+
+மேலும் மரணமடைந்த இளைஞனின் உடல் பிரேத பரிசோதனைக்காக கொழும்பு வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை புறக்கோட்டை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/df52c549.json)
+
+---
+
+### மொட்டுவில் 48 பேர் ரணிலை ஆதரிக்க பேச்சு
+
+*2024-07-25 11:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவில்-48-பேர்-ரணிலை-ஆதரிக்க-பேச்சு/175-341003) · `ta`
+
+அரசாங்கத்தை பிரதிநிதித்துவப்படுத்தும்  அமைச்சரவை அந்தஸ்துள்ள அமைச்சர்கள், இராஜாங்க அமைச்சர்கள், பின்வரிசை பாராளுமன்ற உறுப்பினர்கள் 48 பேர்,  கொழும்பில் இரண்டு இடங்களில், புதன்கிழமை (24)  சந்தித்து ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்குவது தொடர்பில்  ) விசேட கலந்துரையாடல் ஒன்றை நடத்தியதாக அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இதன்படி, அரசாங்கங்களை பிரதிநிதித்துவப்படுத்தும் அமைச்சர்கள்,  இராஜாங்க அமைச்சர்கள் 30  பேர் கொழும்பு, ப்ளவர் வீதியில் உள்ள இடமொன்றில் சந்தித்து கலந்துரையாடியுள்ளதுடன், அரசாங்கத்தின் பின்வரிசை உறுப்பினர்கள் 18 பேர் தலவத்துகொடையில் உள்ள ஹோட்டல் ஒன்றில் சந்தித்து கலந்துரையாடியுள்ளனர்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஶ்ரீலங்கா பொதுஜன பெரமுன தாமரை மொட்டு  சின்னத்தில் வேட்பாளரை முன்வைத்தால் ஏற்படும் நிலைமை குறித்து இரு தரப்பினரும் விரிவாக கலந்துரையாடியுள்ளதாகவும் அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அத்துடன், இந்த தருணத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு தமது ஆதரவை வழங்குவதே இரு தரப்புகளினதும் இறுதி இணக்கம்.
+
+...
+
+[Data](articles/eb7ed8ea.json)
+
+---
+
+### ஜனாதிபதி தேர்தலில் போட்டியிடும் நீதியமைச்சர்
+
+*2024-07-25 11:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-போட்டியிடும்-நீதியமைச்சர்/175-341002) · `ta`
+
+சற்றுமுன்னர் விசேட ஊடக சந்திப்பில் கலந்து கொண்டு உரையாற்றிய போதே அமைச்சர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/94722519.json)
+
+---
+
+### 2 கஜமுத்துகளுடன் இருவர் கைது
+
+*2024-07-25 10:57:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/2-கஜமுத்துகளுடன்-இருவர்-கைது/94-341001) · `ta`
+
+60 இலட்சம் ரூபாவுக்கு விற்பனை செய்ய தயாராக இருந்த இரண்டு கஜமுத்துகளுடன் நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் விசேட அதிரடிப்படை தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்டுள்ள சந்தேக நபர் கையடக்கத் தொலைபேசி திருத்தும் நிலையமொன்றை நடத்தும் புத்தல, படல்கும்புர பிரதேசத்தைச் சேர்ந்த 29 வயதுடையவர் எனத் தெரிவிக்கப்படுகிறது.
+
+கடற்படையின் புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் குறித்த இரு கும்பல்களும் புத்தளத்திற்கு கொண்டு வரப்பட்டதாகவும் அதன் பின்னரே சந்தேகநபரையும் இரண்டு கும்பலையும் கைது செய்ய முடிந்ததாக பொலிஸ் விசேட அதிரடிப்படையினர் தெரிவித்துள்ளனர்.
+
+பொலிஸ் விசேட அதிரடிப்படையினரால் சந்தேகத்திற்கு இடமில்லாத வகையில் சந்தேக நபரை கைது செய்ய முடிந்தது.
+
+◼️
+
+[Data](articles/a05ab30f.json)
+
+---
 
 ### Wijeyadasa Rajapakshe officially announces presidential candidacy
 
@@ -45,6 +111,8 @@ Earlier today, Field Marshal Sarath Fonseka had also formally announced his cand
 ◼️
 
 [Data](articles/227b1f6d.json)
+
+[Extended Data](ext_articles/227b1f6d.ext.json)
 
 ---
 
@@ -197,6 +265,26 @@ It “capsized and eventually submerged,” the coast guard said in a report, ad
 [Data](articles/6d9a1dbf.json)
 
 [Extended Data](ext_articles/6d9a1dbf.ext.json)
+
+---
+
+### ஊறுகாய்க்கு  ரூ.3,525 அபராதம்
+
+*2024-07-25 10:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊறுகாய்க்கு-ரூ-3-525-அபராதம்/175-340995) · `ta`
+
+சாப்பாடு பொதியில் ஊறுகாய் வைக்காமையால் ஏற்பட்ட மன உளைச்சலுக்காக தாக்கல் செய்யப்பட்ட வழக்கில், குற்றவாளியாக இனங்கண்ட, ஹோட்டல் உரிமையாளருக்கு ரூ.3,525அபராதம் விதித்து தீர்ப்பளிக்கப்பட்டுள்ளது. அந்த அபராத ​தொகையை 45 நாட்களுக்கு வழங்குமாறும் உத்தரவிடப்பட்டுள்ளது.
+
+விழுப்புரம், வழுதரெட்டியை சேர்ந்தவர் ஆரோக்கியசாமி. அனைத்து நுகர்வோர் பொதுமக்கள் சுற்றுச்சூழல் பொதுநல சங்க மாநில தலைவராக உள்ளார்.
+
+இவர் தன் உறவினரின் நினைவு தினத்தையொட்டி, 25 பேருக்கு அன்னதானம் வழங்குவதற்காக, 2022ஆம் ஆண்டு விழுப்புரம் புதிய பஸ் நிலையம் அருகே உள்ள ஹோட்டலில் பணம் செலுத்தி, 25 பார்சல் சாப்பாடு வாங்கிய நிலையில், அதற்கான ரசீதை தர மறுத்த ஹோட்டல் உரிமையாளர் துண்டு சீட்டில் எழுதி கொடுத்துள்ளார்.
+
+வீட்டிற்கு சென்ற ஆரோக்கியசாமி, உணவு பொட்டலங்களை முதியோருக்கு வழங்கியபோது, அதில் ஊறுகாய் இல்லை. ஹோட்டல் உரிமையாளரிடம் கேட்டபோது, ஊறுகாய் வைக்காதது உறுதியானது.
+
+இதையடுத்து, ஊறுகாய்க்கான 25 ரூபாயை திரும்பக் கேட்டுள்ளார் ஆரோக்கியசாமி. ஆனால், ஹோட்டல் உரிமையாளர் தர மறுத்துவிட்டார்.
+
+...
+
+[Data](articles/0d0476ad.json)
 
 ---
 
@@ -936,25 +1024,33 @@ The Election Commission sources said that the presidential election will be anno
 
 ---
 
-### වික්‍රමබාහු කරුණාරත්න: දේශපාලනය නිසා සැඟව ගිය විද්‍යාඥයාගේ ප්‍රකට සහ අප්‍රකට තොරතුරු
+### Wickremabahu Karunaratne: The famous and obscure information of hidden scientists hidden due to politics
 
 *2024-07-25 05:06:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c728q1pvpy7o) · `si`
 
-වික්‍රමබාහු කරුණාරත්න: දේශපාලනය නිසා සැඟව ගිය විද්‍යාඥයාගේ ප්‍රකට සහ අප්‍රකට තොරතුරු
+Wickremabahu Karunaratne, a Sri Lankan polymath known for both his scientific contributions and political involvement, passed away at 81. Born in Lunugala, he pursued education in electrical engineering, eventually earning a PhD from Cambridge University. His political career began in 1962 with the Ceylon Sama Samaja Party, facing expulsion in 1972. Notably, he played a significant role in the 1983 strike and later represented the Left Front in the 2010 presidential election. Despite his academic achievements and contributions to science, particularly in theoretical physics alongside Stephen Hawking, Karunaratne faced professional setbacks, including losing his lecturing position at Peradeniya University. His legacy in both fields remains influential in Sri Lanka.
 
-ශ්‍රී ලංකා දේශපාලන ක්ෂේත්‍රයේ "සන්නාමයක්" ලෙස විද්වතුන් විසින් හඳුන්වනු ලබන 'බාහු' හෙවත් මහාචාර්ය වික්‍රමබාහු කරුණාරත්න දේශපාලනයෙන් පමණක් නොව ජීවිතයෙන් ද සමුගත් පුවත බ්‍රහස්පතින්දා (ජූලි 25) අලුයම් කාලයේදී අසන්නට ලැබිණි.
+🟩
 
-81 හැවිරිදි ඔහු අභාවප්‍රාප්ත වූයේ, කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ය.
+Wickremabahu Karunaratne: The famous and obscure information of hidden scientists hidden due to politics
 
-මහාචාර්ය වික්‍රමබාහු කරුණාරත්න විෂය ක්ෂේත්‍රයන් දෙකක් ඔස්සේ සන්නාම සලකුණු තැබූ සුවිශේෂී පෞරුෂයකට හිමිකම් කී ශ්‍රී ලාංකිකයෙකි.
+The 'Bahrabahu', a 'Bahra', is called 'Bahra', is called 'Bahra' as' brand "in the Sri Lankan political field, was heard at the agency not only from politics.
 
-මේ ලිපියෙහි අරමුණ ඔහුගේ දේශපාලන ගමන්මග පමණක් නොව බොහෝ දෙනෙකු නොදත් ලෝකයේ සම්භාවනාවට පාත්‍ර වූ විද්‍යාඥයෙකුගේ ගමන්මග පිළිබඳව ද යම් අනාවරණයක් කිරීම ය.
+81 year old he passed away while receiving treatment at the Colombo National Hospital.
 
-වික්‍රමබාහු කරුණාරත්න මෙලොව එළිය දුටුවේ, බදුල්ලේ සිට කිලෝමීටර් 42ක් පමණ දුරින් පිහිටි දුෂ්කර ප්‍රදේශයක් වූ ලුණුගලදී ය. ගුරු වෘත්තියේ නිරත වූ ඔහුගේ දෙමාපියන් එවකට සේවය කර තිබුණේ, ලුණුගල ප්‍රදේශයේ ය.
+Professor Wickremabahu Karunaratne is a Sri Lankan with a unique personality in two subjects.
+
+The purpose of this article is also revealed not only his political journey but also about the trajectory of a scientist who was dissolved in the world.
+
+Wickremabahu Karunaratne was born in Lunugala, a remote area from Badulla to 42 kilometers from Badulla. His parents had served in the Lunugala, the teaching profession.
+
+Later, his parents moved to the Matugama area in Kalutara, and Wickremabahu's primary education began with the Ananda Flaude in Matugama.
 
 ...
 
 [Data](articles/14df39b5.json)
+
+[Extended Data](ext_articles/14df39b5.ext.json)
 
 ---
 
@@ -2018,37 +2114,51 @@ The meeting was held today (24) at the Presidential Secretariat of President Ran
 
 ---
 
-### තිබ්බේ නැති පළාත් පාලන මැතිවරණයට රු.මි. 655ක් වැය කරලා
+### A sum of Rs.. 655 has been spent
 
 *2024-07-24 19:59:17* · [`adalk`](https://www.ada.lk/breaking_news/තිබ්බේ-නැති-පළාත්-පාලන-මැතිවරණයට-රු-මි--655ක්-වැය-කරලා/11-410979) · `si`
 
-2023 වර්ෂයේ අගෝස්තු මාසයේ පැවැත්වීමට  තිබූ පළාත් පාලන  මැතිවරණය නොපැවැත්වීම හේතුවෙන් පළාත් පාලන මැතිවරණය සඳහා මැතිවරණ වියදම් ලෙස  රු.655,096,226ක් මැතිවරණ කොමිසන් සභාව විසින් වැය කොට ඇති බව ජාතික විගණන කාර්යාලය මගින් ජූලි මස 22 වන දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+The National Audit report for the local government election in August 2023 revealed that out of Rs. 655 spent, Rs. 30,000 was unaccounted for, 4% was allocated to departmental work, and 13% was used for unspecified purposes. The audit period covered activities from January 4 to March 19, 2023, concluding before the end of the local authority term.
 
-2023 වර්ෂයේ සැප්තැම්බර් මස 30 වැනි දා වන විට රුපියල් එක්කෝටි පනස් නව ලක්ෂ තිස් තුන් දහස් හාරසීය හැත්තෑ 02 ක මුදලක් (15,933,472) තවදුරටත් ගෙවිය යුතු වියදම් ලෙස පැවති බව  එම විගණන වාර්තාවේ සඳහන් වේ. මැතිවරණ වියදමින් 15% ක් අතිකාල  හා නිවාඩු දින වැටුප් සඳහා ද, 23% ක් ලිපි ද්‍රව්‍ය  මිලදී ගැනීමට ද, 7% ක්  ඉන්ධන සඳහා ද, 31% ක් මුද්‍රණ  කටයුතු සඳහා ද, 7%ක්  සංග්‍රහ කටයුතු දීමනා සඳහා ද, 4% ක් පොලිස් දෙපාර්තමේන්තුවේ කටයුතු සඳහාද වියදම් කොට අැත.
+🟩
 
-අනෙකුත් කටයුතු සඳහා 13% ක් වැය කොට ඇත. පළාත් පාලන ආයතනවල ධුර කාලය 2023 මාර්තු මස 19 වැනි දිනෙන් අවසන් වූ අතර අදාළ නාම යෝජනා දැන්වීම 2023 ජනවාරි මස 04 වැනි දින ප්‍රදර්ශනය කර තිබූ බව විගණනය මගින්  අනාවරණය කර තිබිණ.
+The National Audit report issued by the National Audit report issued by the Elections Commission as the Elections Commission for the local government election due to the election costs of the electoral election in August 2023.
+
+The audit report states that the cost of no further expenses of Rs. 30,000. 4% of Rs.Expend and expendes to work in the department.
+
+13% has been spent on other purposes. The term of office of local authorities ended on March 19, 2023 audit that the nomination was displayed on January 4 of 2023.
 
 ◼️
 
 [Data](articles/cd87fb48.json)
 
+[Extended Data](ext_articles/cd87fb48.ext.json)
+
 ---
 
-### ඖෂධ හිඟයක් ගැන කථාවක්
+### A speech about a shortage of drugs
 
 *2024-07-24 19:53:26* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හිඟයක්-ගැන-කථාවක්/11-410978) · `si`
 
-මේ වසරට අවශ්‍ය ඖෂධ මිලදී ගැනීම සඳහා වෙන්කර තිබෙන රුපියල් බිලියන විස්සක මුදලින් තවමත් වියදම් කර තිබෙන්නේ රුපියල් බිලියන හයක මුදලක් පමණක් බවත් මේ වන විට ඖෂධ තුන්සිය පනහකට ආසන්න ප්‍රමාණයක හිඟයක් නිර්මාණය වෙමින්  තිබෙන බවත් වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+Doctors' union reports a severe drug shortage affecting critical medications like cancer and heart disease treatments. Allegedly, high costs and delayed supplies disrupt healthcare, impacting patients' lives.
 
-වර්ෂයේ පළමු මාස තුනට තොග මිලට ඖෂධ මිලදීගැනීම් නිසි ලෙස සිදුකර නොමැති බවත් මේ නිසා සිල්ලර මිලට මිලදී ගැනීම අවස්ථා හත්සිය විස්සක්පමණ සිදුකර තිබෙන බවට වාර්තා වන බවද එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව සඳහන් කළේය.
+🟩
 
-පිළිකා ඖෂධ, හෘදයාබාධ රෝගීන්ට ලබා දෙන ඖෂධ, කුඩා දරුවන්ට ලබාදෙන ඖෂධ ඇතුළු සැලකිය යුතු ඖෂධ ප්‍රමාණයක් ක්‍රමයක් ක්‍රමයෙන් හිඟ වෙමින් තිබෙන බවත් මේ  නිසා සාමාන්‍ය මහජනතාව දැඩි ලෙස පීඩාවට පත්වන බවද පැවසීය.
+The doctors' trade union alliance of doctors on medical and civil rights have been spent on the purchase of Rs.
 
-සාමාන්‍ය තොග මිලට මිලදී ගැනීම වෙනුවට සිල්ලර මිලට ප්‍රාදේශීයව ඖෂධ මිලදී ගැනීමෙන් විශාල මුදල් අවභාවිතාවක් හා අධික මුදලක් වැය වන බව විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා සඳහන් කළේය.
+Dr. Chamal Sanjeew said that allegedly purchasing drug purchase in the first three months of the year, Dr. Chamal Sanjeewa stated that allegedly purchasing drug purchases.
 
-...
+It is said that the general public is severely distributed, including drugs that provide cancer drugs, heart disease patients.
+
+Specialist Dr. Chamal Sanjeewa said that the purchase of drugs per retail price will cost a large amount of money and overloading drugs.
+
+In the recent past, the suppliers have to pay a large sum of money and have been disrupted due to the default supply of drugs due to the default.
+
+◼️
 
 [Data](articles/cd428a1e.json)
+
+[Extended Data](ext_articles/cd428a1e.ext.json)
 
 ---
 
@@ -2115,129 +2225,5 @@ Ambassador Mizukoshi Hideaki, who congratulated Sri Lanka and OCC on the end of 
 [Data](articles/873b02c3.json)
 
 [Extended Data](ext_articles/873b02c3.ext.json)
-
----
-
-### Sri Lanka SEC inks deal with Maldives for Colombo cross listings
-
-*2024-07-24 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-inks-deal-with-maldives-for-colombo-cross-listings-173650/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Securities and Exchange Commission said it had inked a deal with the capital market regulator in Maldives to allow cross listings of companies in Colombo.
-
-The agreement with the Capital Market Development Authority of Maldives (CMDA) primarily covers secondary listings by Maldivian companies on the Colombo Stock exchange (CSE), and extends to mutual collaboration, capacity building assistance and regulatory information exchanges between the two capital market regulators to ensure compliance with laws and regulations across both jurisdictions.
-
-“Maldivian companies can benefit significantly from listing on the CSE, by embracing best practices of listed companies in Sri Lanka, access a wider pool of investors, leverage on our capital market infrastructure and achieve more accurate valuations for their stocks given the liquidity challenges at home,” SEC Chairman Faizal Salieh said.
-
-...
-
-[Data](articles/c836ed48.json)
-
-[Extended Data](ext_articles/c836ed48.ext.json)
-
----
-
-### Sivalingam deposit at the temple premises at the old Semmalai Steam Pongal event
-
-*2024-07-24 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189301) · `ta`
-
-The Kokkulai police have filed a case against the Semmalai Uvarayadi Pillaiyar Temple in Mullaitivu over a 17-foot Shivalingam installed there for the Pongal event. The Archaeological Department also raised concerns. The Mullaitivu Magistrate's Court has ordered both parties to comply with its directives regarding the statues. False news about the event has sparked tensions between communities.
-
-🟩
-
-The Kokkulai police have sought the Mullaitivu court against the Pongal event as the annual Pongal event of the old Semmalai Uvarayadi Pillaiyar Temple in Mullaitivu is being held on Wednesday (24).
-
-A complaint has been lodged with the Archaeological Department of Archeology by the Archeology Department by the Archeology Department, demanding that a 17 -foot Shivalingam has been established at the temple premises at the Uraviyadi Pillaiyar Temple Pongal event, which is being held today.
-
-Subsequently, the Mullaitivu Magistrate's Court has filed a lawsuit against the Kokkulai Police Station in charge of the Kokkulai Police Station and filed a case against the Pillaiyar temple priest and the administration.
-
-The court has already issued an order on the temple issue and pointed out that the police can take action if the Steam Pillaiyar Temple and the Buddhist Vihara will maintain the new statues and the two sides can not violate the court order.
-
-...
-
-[Data](articles/e3965c82.json)
-
-[Extended Data](ext_articles/e3965c82.ext.json)
-
----
-
-### Teacher principals to be intensifying proceedings
-
-*2024-07-24 18:45:12* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පතිවරු-වෘත්තීය-ක්‍රියාමාර්ග-දැඩි-කිරීමට-යයි/11-410975) · `si`
-
-The Gururu Pr Schools Union Alliance plans to resolve issues by the 2nd of next month, starting from the 22nd of this month. The Lanka Teachers' Service Association aims to discuss union resolutions, including teacher salaries and school maintenance, despite the subjects of time and holidays being ineligible.
-
-🟩
-
-Gururu Pr Schools Union Alliance states that the problems that have been resolved by the 2nd of next month.
-
-The Alliance Service Association (UPFA) member Lanka Teachers' Service Association Secretary Joseph Stalin said that the program was initiated from the 22nd of this month.
-
-Although the trade unions have been planned for a period of three days, it has been planned to conduct a discussion with the union resolutions regarding the settlement of the trade union action.
-
-According to the preciting work, the subject of time and holidays, the subject of schools and holidays, said that the subject is not eligible.
-
-The program is demanding the maintenance of the two-thirds under the resolution of teachers' salary anomalies and to maintain a program to maintain a school-maintenance program.
-
-◼️
-
-[Data](articles/562b36ac.json)
-
-[Extended Data](ext_articles/562b36ac.ext.json)
-
----
-
-### A surplus of rice last year
-
-*2024-07-24 18:41:15* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේ-සහල්-අතිරික්තයක්/11-410974) · `si`
-
-In 2023, Sri Lanka experienced a significant rice surplus, producing nearly 3 million metric tons against an annual requirement of 2.4 million. This surplus was attributed to improved local paddy production, partly due to the government's efforts to address the fertilizer crisis of 2021. The Minister of Agriculture highlighted the need for agricultural modernization and the introduction of new technologies to enhance productivity. Plans include increasing the yield per hectare to 9 metric tons and implementing programs to boost green pea production. The government aims to double the harvest in five years and has initiated measures to support farmers, including financial subsidies and reduced fertilizer prices.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the present government could not make political matters in a planned agricultural modernization program to boost local agriculture.
-
-The Minister said that a program to be implemented in Yala and Maha seculations, a program to get 18,828 metric tons of green peas in Yala and Maha seculations.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera made this statement participating in the press conference held at the Presidential Media Center today (24).
-
-The major tonnes of rice in the country were able to produce nearly 3 million metric tons with the record of 2023 and that the rice production of rice was 4.5 million metric tons.
-
-The Minister of Agriculture and Plantation Industries said further said:
-
-...
-
-[Data](articles/45cdf853.json)
-
-[Extended Data](ext_articles/45cdf853.ext.json)
-
----
-
-### The younger jobs that need to be created in the country
-
-*2024-07-24 18:33:44* · [`adalk`](https://www.ada.lk/breaking_news/තාරුණ්‍යයට-අවශ්‍ය-රැකියා-රට-තුළම-නිර්මාණය-කරනවා/11-410973) · `si`
-
-President Ranil Wickremesinghe emphasizes the importance of creating new jobs for Sri Lanka's youth through economic transformation, focusing on education, technology, and industrial development. He highlights the need for a comprehensive plan to address unemployment, restore the education system for modern technology, and attract foreign aid and investment. The President also mentions initiatives like the Agricultural Navigation Program and plans for new technology universities, aiming to build a strong economy and ensure a better future for the country's youth.
-
-🟩
-
-President Ranil Wickremesinghe said that the youth of the Sri Lankan younger youth is working on a proper plan for the economic transformation of the needs of employment in the country.
-
-Otherwise, the President stressed that the country would not have the commitment benefit of the government, hence the government should not be an underdeveloped country.
-
-President Ranil Wickremesinghe made this statement participating at the 106th anniversary of the Bandaranaike Vidyalaya in Gampaha today.
-
-The President said that the education system would be restored to suit the new technology.
-
-President Ranil Wickremesinghe arrived at Bandaranaike Vidyalaya, Gampaha and awarded the Presidential Adultery by the school cadet Corps.
-
-The President also joined the College War Heroes monument.
-
-The Presidential elections were opened by the Presidential Educational Technology and Trade Display in line with the 106th anniversary of the Bandaranaike Vidyalaya in Gampaha.
-
-...
-
-[Data](articles/8f38659d.json)
-
-[Extended Data](ext_articles/8f38659d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 08:04:13**
+As of **2024-07-25 08:25:26**
 
 ## Newspaper Stats
 
-*Scraped **37,105** Articles*
+*Scraped **37,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,106 @@ newsfirstlk | 363
 islandlk | 2,118
 economynextcom | 2,221
 dailyftlk | 2,371
-adalk | 3,366
+adalk | 3,367
 adaderanalk | 4,290
-tamilmirrorlk | 4,563
+tamilmirrorlk | 4,564
 dailymirrorlk | 4,733
 virakesarilk | 5,820
-adaderanasinhalalk | 6,225
+adaderanasinhalalk | 6,228
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,105 (100.0%) of 37,105 articles have been extended.
+37,108 (100.0%) of 37,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### Wickremabahu Karunaratne passes away
+
+*2024-07-25 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199184) · `si`
+
+Dr. Wickremabahu Karunaratne, leader of the New Samaja Party, has passed away.
+
+🟩
+
+Leader of the New Samaja Party Dr. Wickremabahu Karunaratne has passed away.
+
+◼️
+
+[Data](articles/b9bad4ae.json)
+
+[Extended Data](ext_articles/b9bad4ae.ext.json)
+
+---
+
+### ஒலிம்பிக் போட்டி: இலங்கை வீரர்கள் பரிஸ் பயணம்
+
+*2024-07-25 07:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒலிம்பிக்-போட்டி-இலங்கை-வீரர்கள்-பரிஸ்-பயணம்/175-340988) · `ta`
+
+பரிஸ் ஒலிம்பிக் போட்டிகளில் பங்கேற்பதற்காக தருஷி கருணாரத்ன, அருண தர்ஷன மற்றும் நதீஸா தில்ஷானி லேக்கம்கே ஆகிய மூவரும் நேற்றிரவு நாட்டிலிருந்து பரிஸ் நோக்கி புறப்பட்டு சென்றனர்.
+
+பரிஸ் ஒலிம்பிக் போட்டிகள் நாளை ஆரம்பமாகவுள்ள நிலையில், இம்முறை ஒலிம்பிக் போட்டிகளுக்கு இலங்கையின் 6 வீர, வீராங்கனைகள் தகுதி பெற்றுள்ளனர்.  (a)
+
+◼️
+
+[Data](articles/587d1df3.json)
+
+---
+
+### Another suspicious death in a house
+
+*2024-07-25 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199183) · `si`
+
+A 74-year-old from Pettikuri, Pandathippu, died under mysterious circumstances. The Illyvali Police started investigating after finding the body in his home. The exact cause of death remains unknown, and the body was sent to Jaffna Hospital for autopsy.
+
+🟩
+
+Investigations into the police have commenced investigations into a house in Pandathippuwa area in the Illyvali Police Division.
+
+The deceased has been identified as a 74 year old resident of Pettikuri, Pandathippu area.
+
+The body has been informed of the corridor and informed the police in front of the house to the house of the deceased.
+
+The cause of death is yet to be ascertained and the magazine has taken the corpse to the Jaffna hospital for the post mortem examination.
+
+◼️
+
+[Data](articles/8ebbce7e.json)
+
+[Extended Data](ext_articles/8ebbce7e.ext.json)
+
+---
+
+### Deciding on bread price tomorrow
+
+*2024-07-25 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199182) · `si`
+
+The All Ceylon Bakery Owners Association plans to announce a decision on bread price reductions tomorrow. Despite a meeting to discuss this, no final agreement has been reached yet. The Minister of Trade has suggested setting a controlled price if manufacturers don't voluntarily lower bread prices. The association's president aims to finalize the decision tomorrow.
+
+🟩
+
+The All Ceylon Bakery Owners Association says that a statement will be made tomorrow (26) on the reduction of bread prices.
+
+The Chairman NK Jayawardene said that a special discussion was held yesterday (24) on the reduction of bread prices.
+
+However, he was unable to reach a final agreement on the reduction of bread prices, "NKK Jayawardena said.
+
+Minister of Trade Nalin Fernando recently stated that a control price is announced if the manufacturers do not take measures to reduce bread.
+
+Accordingly, the bakery manufacturers have focused on reducing the prices of bakery products including bread.
+
+However, is the price deduction?Not?The All Ceylon Bakery Owners Association President NK Jayawardena stated that he is looking to come to a final decision tomorrow.
+
+◼️
+
+[Data](articles/01b9c9f1.json)
+
+[Extended Data](ext_articles/01b9c9f1.ext.json)
+
+---
 
 ### The Election Commission gains on final decision
 
@@ -1176,6 +1260,24 @@ The court has already issued an order on the temple issue and pointed out that t
 
 ---
 
+### පසුගිය වසරේ සහල් අතිරික්තයක්
+
+*2024-07-24 18:41:15* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේ-සහල්-අතිරික්තයක්/11-410974) · `si`
+
+දේශීය කෘෂිකර්මාන්තය නඟාසිටුවීම වෙනුවෙන් වත්මන් ආණ්ඩුව ආරම්භ කර තිබෙන සැලසුම් සහගත කෘෂි නවීකරණ වැඩ පිළිවෙල හමුවේ ගොවි ජනතාව තවදුරටත් දේශපාලන අතකොලු බවට පත්කර ගැනීමට නොහැකි වී ඇතැයි කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+
+යල හා මහ කන්න ආශ්‍රිතව වෙල් ඉපනැල්ලේ මුං ඇට වගාකර මෙට්‍රික් ටොන් 18,828ක අස්වැන්නක් ලබා ගැනීම සඳහා වන වැඩසටහනක් ක්‍රියාවට නංවා ඇති බවත් ඒ යටතේ එක් ගොවියෙකුට හෙක්ටයාරයක් සඳහා බීජ මුං ඇට කිලෝ ග්‍රෑම් 25ක් ලබාදීමට නියමිත බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (24) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+2023 වසරේ ලැබුණු වාර්තාගත වී අස්වැන්න සමඟ සහල් මෙට්‍රික් ටොන් මිලියන 3කට ආසන්න ප්‍රමාණයක් නිෂ්පාදනය කිරීමට හැකි වූ බවත් ඒ හමුවේ රට තුළ සහල් අතිරික්තයක් පවත්වා ගැනීමට හැකිවී තිබෙන බවත් මෙරට වී නිෂ්පාදනය මෙට්‍රික් ටොන් මිලියන 4.5ක් බවත්අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/45cdf853.json)
+
+---
+
 ### The younger jobs that need to be created in the country
 
 *2024-07-24 18:33:44* · [`adalk`](https://www.ada.lk/breaking_news/තාරුණ්‍යයට-අවශ්‍ය-රැකියා-රට-තුළම-නිර්මාණය-කරනවා/11-410973) · `si`
@@ -2189,121 +2291,5 @@ Prasanna Ranatunga, the prime minister of the ruling party, said, "We are in a p
 [Data](articles/a06940f8.json)
 
 [Extended Data](ext_articles/a06940f8.ext.json)
-
----
-
-### Two black goats exposed
-
-*2024-07-24 14:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-கறுப்பு-ஆடுகள்-அம்பலம்/175-340954) · `ta`
-
-Dushara Hindu revealed two Ranil Wickremesinghe supporters aren't part of the United People's Power party. He also mentioned that only Rajitha Senaratne supports Sarath Fonseka among them. Dushara humorously suggested they might end up in a pipe due to their political stance.
-
-🟩
-
-Kurunegala District Parliamentarian Dushara Hindu exposed the names of the two supporters of Ranil from the United People's Power.
-
-He also said that Sarath Fonseka also supported Ranil only Rajitha Senaratne.
-
-In the Hindu Hindu, Dushara said that they were not belonging to the stream of the United People's Power.
-
-Do they both get trapped inside a pipe now and go that way?Dushara questioned in the Hindu.
-
-◼️
-
-[Data](articles/8e2d2c47.json)
-
-[Extended Data](ext_articles/8e2d2c47.ext.json)
-
----
-
-### Demonstration demanding change
-
-*2024-07-24 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189265) · `ta`
-
-Parents protested outside Thirughanasambandar Vidyalaya in Vavuniya, demanding the removal of the Chancellor due to declining student numbers and lack of communication about school issues. They argue that without changes, the school may close, impacting foreign aid and support for underprivileged students.
-
-🟩
-
-A demonstration was held by parents demanding the replacement of the Chancellor of the Thirughanasambandar Vidyalaya in Vavuniya.
-
-The demonstration was held after the morning prayer of the school on Wednesday (24).
-
-Our school has seen a fall in education. No accounting for school programs. He does not take action to inform parents about the incidents there.
-
-Due to these reasons, the number of students in the school is decreasing. If this situation continues, the school will have to be closed. So we are asking the relevant authorities to replace him immediately.
-
-Especially when we have received the help of foreigners, we have made the needs of the students' education, and we have expanded the need for poor students.. The accounting is submitted and it has been accepted by all.
-
-The administration of the school cannot be conducted as a few people say. He said that if some parents are working properly on their children, we will not have to conflict with students in school.
-
-◼️
-
-[Data](articles/cc8e118e.json)
-
-[Extended Data](ext_articles/cc8e118e.ext.json)
-
----
-
-### Fitch confirms ‘A(lka)’ domestic rating of Sampath Bank Plc
-
-*2024-07-24 14:37:00* · [`economynextcom`](https://economynext.com/fitch-confirms-alka-domestic-rating-of-sampath-bank-plc-173579/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it was confirming a national long-term A(lka) rating on Sri Lanka’s Sampath Bank Plc with a stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
-
-The bank had stage 3 loans of nearly 17 percent at end-1Q24 (2023: 16.6 percent).
-
-Fitch expected this ratio to decrease in the near- to medium-term alongside focused recoveries.
-
-“We expect Sampath’s impaired (stage 3) loans ratio to decline gradually in the medium term, due to its recovery efforts, improvements in repayment capacity of borrowers from the stabilisation in economic conditions, and moderate loan book growth.”
-
-The bank also had defaulted sovereign bonds. “Defaulted foreign-currency sovereign bonds, which accounted for 1.9% of assets, had impairments amounting to 52% of its holdings as of end-1Q24.”
-
-...
-
-[Data](articles/ebd1136c.json)
-
-[Extended Data](ext_articles/ebd1136c.ext.json)
-
----
-
-### History: 700 missing in 'Black July' Violence;300 killed!- 1984 Veerakesari ....
-
-*2024-07-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189261) · `ta`
-
-In July 1983, also known as Black July, 700 people went missing and 300 were killed in a genocide, as reported by Veerakesari in 1984.
-
-🟩
-
-It was reported that 700 people were missing and 300 were killed during the genocide in July 1983.
-
-◼️
-
-[Data](articles/2cb4df5c.json)
-
-[Extended Data](ext_articles/2cb4df5c.ext.json)
-
----
-
-### Fire at the Kalutara Divisional Secretariat
-
-*2024-07-24 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189247) · `ta`
-
-A fire erupted on the ground floor of the six-story Kalutara Divisional Secretariat building on Wednesday, prompting the arrival of two fire trucks from the Kalutara Municipal Council Fire Division. A firefighter suffered suffocation and was hospitalized during the efforts to control the blaze.
-
-🟩
-
-The fire broke out at the Kalutara Divisional Secretariat building on Wednesday (24), police said.
-
-A fire has been reported to have been reported on the ground floor of the six -storey Kalutara Divisional Secretariat building.
-
-The Kalutara Municipal Council Fire Division has sent two fire trucks to extinguish the fire.
-
-A firefighter who was working on the fire has been admitted to the hospital due to suffocation.
-
-◼️
-
-[Data](articles/948e9048.json)
-
-[Extended Data](ext_articles/948e9048.ext.json)
 
 ---

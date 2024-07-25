@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 14:35:48**
+As of **2024-07-25 14:54:45**
 
 ## Newspaper Stats
 
-*Scraped **37,194** Articles*
+*Scraped **37,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
 adalk | 3,376
-adaderanalk | 4,302
+adaderanalk | 4,303
 tamilmirrorlk | 4,584
 dailymirrorlk | 4,733
 virakesarilk | 5,836
@@ -26,23 +26,47 @@ adaderanasinhalalk | 6,241
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,193 (100.0%) of 37,194 articles have been extended.
+37,194 (100.0%) of 37,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ஜனாதிபதித் தேர்தல்: நாளை வர்த்தமானி
+### Two critical in double cab–lorry collision
+
+*2024-07-25 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100767/two-critical-in-double-cablorry-collision) · `en`
+
+Two persons were reportedly critically injured following an accident involving a double cab and a lorry transporting motorcycles near the Dombagahawela Fuel Station on the Monaragala - Siyambalanduwa main road.
+
+The accident had resulted in the cab driver and a passenger being trapped inside the vehicle. Residents in the area had rescued the two trapped individuals following significant efforts while they were then quickly rushed to the Monaragala District General Hospital.
+
+Both injured persons are residents of the Mahakalugolla area, Police said.
+
+The lorry driver has been arrested by Dombagahawela Police who are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/10c1ec4d.json)
+
+---
+
+### Presidential Election: Tomorrow Gazette
 
 *2024-07-25 14:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-நாளை-வர்த்தமானி/175-341016) · `ta`
 
-2024 ஆம் ஆண்டுக்கான ஜனாதிபதி தேர்தல் நடைபெறும் திகதி நாளை வெள்ளிக்கிழமை (26) அறிவிக்கப்படும் என தேர்தல் ஆணைக்குழு தெரிவத்துள்ளது.
+The Election Commission will announce the 2024 presidential election date tomorrow. It denies involvement in party comments regarding the election date and other decisions.
 
-இந்நிலையில், ஜனாதிபதி தேர்தல் வாக்கெடுப்பு திகதி மற்றும் ஏனைய தீர்மானங்கள் குறித்து தனிப்பட்ட தரப்பினர் குறிப்பிடும் கருத்துக்கும், ஆணைக்குழுவுக்கும் எவ்வித தொடர்பும் கிடையாது எனவும் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது. R
+🟩
+
+The Election Commission has announced that it will be announced tomorrow (26) on the date of the presidential election for 2024.
+
+In this case, the Election Commission has said that the Commission has nothing to do with the comments of the individual parties on the date of the presidential election and other resolutions.. Remble
 
 ◼️
 
 [Data](articles/5f100156.json)
+
+[Extended Data](ext_articles/5f100156.ext.json)
 
 ---
 
@@ -2211,19 +2235,5 @@ The roundtable discussion on “Bridging Borders: Enhancing Connectivity between
 [Data](articles/8bda487e.json)
 
 [Extended Data](ext_articles/8bda487e.ext.json)
-
----
-
-### A Paradigm Shift Is Necessary In Solving Debt Crisis
-
-*2024-07-25 02:54:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-paradigm-shift-is-necessary-in-solving-debt-crisis/) · `en`
-
-Accumulation of severe debt is a global phenomenon. If we think that Ranil and IMF can solve our crisis under the proposed plan, we are mistaken. Also, if we think that by being free from corruption we can resolve debt crises, again we are mistaken even though removal of corruption vulnerabilities is essential.
-
-...
-
-[Data](articles/f4f2c348.json)
-
-[Extended Data](ext_articles/f4f2c348.ext.json)
 
 ---

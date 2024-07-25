@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 09:20:17**
+As of **2024-07-25 09:35:56**
 
 ## Newspaper Stats
 
-*Scraped **37,121** Articles*
+*Scraped **37,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 2,118
 economynextcom | 2,221
 dailyftlk | 2,372
-adalk | 3,367
+adalk | 3,368
 adaderanalk | 4,293
-tamilmirrorlk | 4,566
+tamilmirrorlk | 4,568
 dailymirrorlk | 4,733
 virakesarilk | 5,821
 adaderanasinhalalk | 6,230
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,230
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,119 (100.0%) of 37,121 articles have been extended.
+37,121 (100.0%) of 37,124 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,22 @@ In a subsequent post shortly after, he then officially announced that he will be
 ...
 
 [Data](articles/6b611af5.json)
+
+[Extended Data](ext_articles/6b611af5.ext.json)
+
+---
+
+### அரசு ஊழியர்களுக்கு விசேட விடுமுறை
+
+*2024-07-25 08:55:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-ஊழியர்களுக்கு-விசேட-விடுமுறை/175-340993) · `ta`
+
+கடந்த மே மற்றும் ஜூன் மாதங்களில் ஏற்பட்ட வெள்ளம், நிலச்சரிவு உள்ளிட்ட காரணங்களால் பணிக்கு வராமுடியாமல் போன அரசு ஊழியர்களுக்கு விசேட விடுமுறை அளிக்க அரசாங்கம் முடிவு செய்துள்ளது.
+
+கொழும்பு, களுத்துறை, கம்பஹா, காலி, மாத்தறை, ஹம்பாந்தோட்டை, புத்தளம், குருநாகல், பொலன்னறுவை, கேகாலை மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் உள்ள அரச அதிகாரிகளுக்கு இந்த விசேட விடுமுறை வழங்கப்படவுள்ளது. R
+
+◼️
+
+[Data](articles/d7118f7c.json)
 
 ---
 
@@ -129,6 +145,24 @@ Leader of the Nawa Sama Samaja Party (NSSP), Dr. Vickramabahu Karunaratne has pa
 [Data](articles/b7e9b3c2.json)
 
 [Extended Data](ext_articles/b7e9b3c2.ext.json)
+
+---
+
+### ’விவசாயிகளை அரசியல் கையாட்களாக்க முடியாது’
+
+*2024-07-25 08:20:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளை-அரசியல்-கையாட்களாக்க-முடியாது/175-340992) · `ta`
+
+உள்நாட்டு விவசாயத்தை ஊக்குவிப்பதற்காக தற்போதைய அரசாங்கத்தினால் ஆரம்பிக்கப்பட்டுள்ள திட்டமிடப்பட்ட விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் காரணமாக இனிமேல் விவசாயிகளை அரசியல் கையாட்களாக்க முடியாது என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று  நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+கடந்த காலங்களில் விவசாயிகளின் பிரச்சினைகள் அரசியல் கோசங்களாக மாற்றப்பட்டுள்ளன. அது பல்வேறு போராட்டங்களுக்கு அவர்களைத் தூண்டியது.
+
+ஆனால், தற்போதைய அரசாங்கம் உள்நாட்டு விவசாயத்தை மேம்படுத்துவதற்காகத் தொடங்கியுள்ள விவசாய நவீனமயமாக்கல் திட்டத்தின் காரணமாக தொடர்ந்தும் விவசாயிகளை அரசியல் கையாட்களாக மாற்ற முடியாது என்றார். (a)
+
+◼️
+
+[Data](articles/e46813fb.json)
 
 ---
 
@@ -770,21 +804,33 @@ Accumulation of severe debt is a global phenomenon. If we think that Ranil and I
 
 ---
 
-### හිටිහැටියේ කෝටිපතියන් බිහි කරන කළු සල්ලි සුදු වෙන්නේ කොහොමද?
+### How is the black money of the sudden bear?
 
 *2024-07-25 01:53:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cldy1p1egx1o) · `si`
 
-විෂ මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීමට පොලිසිය ක්‍රියාත්මක කරමින් සිටින යුක්තිය මෙහෙයුමට සමගාමීව නීති විරෝධි ලෙස උපයාගත් ධනය පොලිස් භාරයට ගන්නා ආකාරය සම්බන්ධයෙන් පසුගිය දිනවල දී මාධ්‍ය ඔස්සේ දක්නට ලැබුණි.
+Black money, earned from illicit activities like drugs, terrorism, and gambling, poses significant challenges to economies worldwide due to its impact on financial systems and economic stability. Money laundering, a method to legitimize these funds, distorts economic indicators, undermines tax revenues, and creates unfair competition in markets. Countries like Sri Lanka combat this through legislation, including the Prevention of Money Laundering Act (No. 5 of 2006) and the Terrorism (Prevention, Prohibition, Suppression and Control) Act (No. 25 of 2005), imposing hefty fines and long prison sentences for offenders. Despite efforts, the issue remains critical, affecting societal trust and economic growth.
 
-මේ සම්බන්ධයෙන් මෑතකාලීන සමාජය තුළ වැඩි කතාබහක් ඇති වුයේ නිරූපණ ශිල්පිනියක වන පියුම් හංසමාලි ගේ වත්කම් සම්බන්ධව ආරම්භ වූ විමර්ශනයත් සමඟම ය.
+🟩
 
-කළු සල්ලි සුදු කිරීම හෙවත් මුදල් විශුද්ධිකරයේ දී සෑම විටම ජාවාරම්කරුවන්ට මෙන්ම දේශපාලකයන්ට හා ඔවුන්ගේ පවුල්වල උදවියට ද චෝදනා එල්ලවන අතර පැනමා සහ පැන්ඩෝරා පේපර් ලෙස ලෝකය පුරා මුදල් විශුද්ධිකරණයට සම්බන්ධ පුද්ගලයන් ගැන හෙළිදරව් කළ අවස්ථාවේ දී මෙරට දේශපාලකයන් හා ඔවුන්ගේ පවුල්වල අයවලුන් ද ඊට සම්බන්ධ යැයි හෙළි විය.
+Media media contained the media over the past to take into custody in line with the operation of the police to suppress the poisonous drug and the underworld.
 
-අයථා ක්‍රමවලින් මුදල් හා වත්කම් ඉපයීම සම්බන්ධව සමාජයේ කතා බහක් ඇති වී තිබෙන මෙවන් මොහොතක කලු සල්ලි සුදු කිරිම හෙවත් මුදල් විශුද්ධිකරණය පිළිබඳව මෙන්ම ඒ හරහා රටේ ආර්ථිකයට වන බලපෑම් සම්බන්ධයෙන් බීබීසි සිංහල සොයා බැලීමක් කළේය.
+In this regard, there is more conversation in the recent society with a demonstrate artist Liquetter, Lady Hansalai's assets.
+
+In the money bleeding of black money, the clients and their families are always accused of dealers and their families as Paper in Sri Lanka and the people of Sri Lanka and their families.
+
+In the misuse of social and assets, the black money has a welcomed cash laundering and the influence of the country has been investigating the economy of the country.
+
+The money earned by terrorist activities, drug trafficking, extortion or gaming is the black money. That money is known as black money because they are not legal.
+
+Due to the equipment, not legitimate, it is difficult to be credited to a bank account or legally enabling.
+
+Therefore, money is laundering and it is a serious financial crime.
 
 ...
 
 [Data](articles/bcfec243.json)
+
+[Extended Data](ext_articles/bcfec243.ext.json)
 
 ---
 
@@ -1483,6 +1529,24 @@ The court has already issued an order on the temple issue and pointed out that t
 [Data](articles/e3965c82.json)
 
 [Extended Data](ext_articles/e3965c82.ext.json)
+
+---
+
+### ගුරු විදුහල්පතිවරු වෘත්තීය ක්‍රියාමාර්ග දැඩි කිරීමට යයි
+
+*2024-07-24 18:45:12* · [`adalk`](https://www.ada.lk/breaking_news/ගුරු-විදුහල්පතිවරු-වෘත්තීය-ක්‍රියාමාර්ග-දැඩි-කිරීමට-යයි/11-410975) · `si`
+
+ගුරු විදුහල්පතිවරුන්ට හා දෙමාපියන්ට ඇති වී තිබෙන ගැටලුවලට ලබන මස 02වන දින වන විට විසඳුම් නොලැබුණහොත් වෘත්තීය ක්‍රියාමාර්ග දැඩි කිරීමට කටයුතු කරන බව ගුරු විදුහල්පති වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+අදාළ ගැටලු විසඳන ලෙස ඉල්ලා මේ මස 22වැනි දින සිට අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයක් ආරම්භ කර තිබෙන බවත් මෙම ක්‍රියාමාර්ගය ලබන මස 02වන දින දක්වා ක්‍රියාත්මක කිරීමට කටයුතු කරන බවද එම සන්ධානයේ සාමාජික ලංකා ගුරු සේවා සංගමයේ ලේකම් ජෝශප් ස්ටාලින් මහතා සඳහන් කළේය.
+
+අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගය ආරම්භ කර දින 03ක කාලයක් ගත වී තිබුණත් අදාළ ගැටලු විසඳීම පිළිබඳව වෘත්තීය සමිති සමග බලධාරීන් සාකච්ඡාවක්වත් පවත්වා නොමැති බවත් මෙවර ගැටලු විසඳීමට කටයුතු නොකළහොත් 02වන දිනෙන් පසු වැඩවර්ජන විරෝධතා ඇතුළු වෘත්තීය ක්‍රියාමාර්ග සිදු කිරීමට සැලසුම් කර තිබෙන බවද පැවසීය.
+
+අකුරට වැඩ කිරීම යටතේ පාසල් වේලාවෙන් පසුද, සතිඅන්තයේ දිනවල හා නිවාඩු දිනවලද විෂය පරිබාහිර කටයුතු සිදුනොකරන බවත් වට්ස්ඇප් සමූහ හරහා බලධාරීන් සමග රාජකාරි කටයුතු සිදුකිරීමේ කටයුතුවලින්ද ඉවත්ව සිටින බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/562b36ac.json)
 
 ---
 
@@ -2197,83 +2261,5 @@ As a result, gold prices in India have already decreased and gold prices are hig
 [Data](articles/44f322de.json)
 
 [Extended Data](ext_articles/44f322de.ext.json)
-
----
-
-### Muslims cannot escape apologizing for cremation - Sajith
-
-*2024-07-24 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/189270) · `ta`
-
-Sajith Premadasa criticizes the government for its handling of the cremation of Muslims who died from COVID-19, calling for accountability and compensation for affected families. He highlights the need to reveal those responsible and questions the lack of consultation with health experts.
-
-🟩
-
-We welcome the government's decision to apologize for the cremation of the Muslim community who died infected and killed. The government cannot only escape from this.
-
-Opposition Leader Sajith Premadasa said that the names of those responsible should be revealed and action should be taken to compensate the families of the victims.
-
-I welcome the government's decision to apologize for the cremation of the bodies of Muslim citizens who died in a kovit infection. In the Gotabhaya Rajapakse government, the decision was taken in the Cabinet on the same way that the Muslim people were targeted by the Muslim people on the basis of communalism.
-
-Some people in the Cabinet now supported this. However, I respect the decision taken for the present incident to leave this move.
-
-At the same time, this erroneous decision was made in whose report was to burn the dead in the Kovit infection?Who gave it the Alasis.
-
-...
-
-[Data](articles/4b2fd136.json)
-
-[Extended Data](ext_articles/4b2fd136.ext.json)
-
----
-
-### Muslim MPs should apologize
-
-*2024-07-24 16:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-எம்-பி-க்கள்-மன்னிப்பு-கேட்கவேண்டும்/175-340958) · `ta`
-
-Muslim MPs in Sri Lanka's Parliament are urged to apologize for supporting the 20th Amendment, which was controversial among Muslims. The call comes from a TNA MP, highlighting the need for accountability and reflection on past political decisions.
-
-🟩
-
-Batticaloa district MP of the Sri Lanka Tamil National Party (TNA). In the Parliament, he said in Parliament on Wednesday (24).
-
-Speaking on Wednesday (24) in Parliament, he said this.
-
-The Muslim MPs who defended the 20th Amendment at the time and defended the state should apologize to the Muslims, and it is funny that those who supported it today are talking about it.
-
-◼️
-
-[Data](articles/986e0766.json)
-
-[Extended Data](ext_articles/986e0766.ext.json)
-
----
-
-### The presidential election control should be increased to 30 lakhs:
-
-*2024-07-24 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189268) · `ta`
-
-Opposition member Dullas Alahapperuma calls for increasing the presidential election control to 30 lakhs, citing a need to define the number of candidates. This follows the Elections Commission's request to amend the control, which currently stands at 50 thousand rupees for party candidates and 75 thousand for independents under the Election Act No. 15, 1981. The commission urges raising the limit to 25 lakhs for both types of candidates. The 2019 election saw 35 candidates, with controls nationalized for all but the top two. The proposed 22nd Amendment to the Political Ceylon Constitution faces delays.
-
-🟩
-
-The control of the presidential election must be amended.. The opposition's independent member Dullas Alahapperuma urged the council that the number of candidates contesting would be defined.
-
-He was speaking at a special statement during a session held in Parliament on Wednesday (24).
-
-The Elections Commission has asked former President Gotabhaya Rajapakse to amend the control of the presidential election.
-
-50 thousand rupees from the authorized political party candidate, according to the Election Act No. 15, 1981, and 75 thousand rupees from the independent candidate.
-
-The Elections Commission urged the amendment of the control of the recognized political party candidate by 25 lakhs and the independent candidate's control.
-
-35 candidates contested the 2019 presidential election. The control of the candidates other than the two candidates was nationalized.
-
-The 22nd Amendment of the Political Ceylon has been urgently introduced.
-
-...
-
-[Data](articles/a03423de.json)
-
-[Extended Data](ext_articles/a03423de.ext.json)
 
 ---

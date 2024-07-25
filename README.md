@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 13:36:00**
+As of **2024-07-25 13:55:29**
 
 ## Newspaper Stats
 
-*Scraped **37,183** Articles*
+*Scraped **37,184** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 325
+dbsjeyarajcom | 326
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 364
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,179 (100.0%) of 37,183 articles have been extended.
+37,183 (100.0%) of 37,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### නුවන් තුෂාරත් තුවාල ලබයි
+### Nuwan Thushara also gets injured
 
 *2024-07-25 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199195) · `si`
 
-ඊයේ (24) රාත්‍රියේ පුහුණුවීම් අතරතුර පන්දු රැකීමේ දී ඇඟිල්ලක් ආබාධයකට ලක්වීම හේතුවෙන් ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක නුවන් තුෂාර ඉන්දීය තරගාවලියෙන් ඉවත් කර තිබේ.
+Sri Lanka cricketer Nuwan Desharu was ruled out of the tournament due to a finger injury, losing a bone during training. The Indian cricket team, currently in Sri Lanka for three ODIs and T20s, will face this setback as Desharu was part of the squad against them.
 
-නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සඳහන් කර ඇත්තේ ඔහුගේ ඇඟිල්ලේ අස්ථී බිඳීමක් සිදුව ඇති බවය.
+🟩
 
-මේ අතර ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක දුෂ්මන්ත චමීර ට ඉන්දියාව සමග පැවැත්වෙන තරගාවලිය අහිමි වුණි.
+Sri Lanka Cricketer Nuwan Desharu has been removed from the tournament due to a disorder when training during training last night (24).
 
-එක්දින තරග 3කට සහ 20යි විස්ස තරග 3කට සහභාගී වීම සඳහා ඉන්දීය කණ්ඩායම මේ වනවිට ශ්‍රී ලංකාවට පැමිණ සිටියි.
+Issuing an announcement, SLC has stated that his finger has had a bone loss.
+
+Meanwhile, Sri Lanka fast bowler was lost to India with India.
+
+The Indian team is currently in Sri Lanka to attend three ODIs and 20 ODIs.
 
 ◼️
 
 [Data](articles/69faef03.json)
+
+[Extended Data](ext_articles/69faef03.ext.json)
 
 ---
 
@@ -240,15 +246,21 @@ If any side tries to violate the court order, it will be considered a contempt o
 
 ---
 
-### විශ්‍රාමිකයන්ට රු. 3000ක දීමනාවක්
+### Pensioners. 3000 allowance
 
 *2024-07-25 11:19:36* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයන්ට-රු--3000ක-දීමනාවක්/11-410983) · `si`
 
-රාජ්‍ය සේවයේ විශ්‍රාමිකයන් සඳහා රුපියල් 3000ක විශේෂ මාසික දීමනාවක් ලබාදීමට කැබිනට් මණ්ඩල අනුමැතිය හිමිව තිබේ.  ඊයේ (24දා) රැස්වූ කැබිනට් මණ්ඩල රැස්වීමේදී මෙම තීරණය ගෙන ඇත. ඒ අනුව මෙම විශේෂ මාසික දීමනාව 2024 සැප්තැම්බර් මස සිට වැටුප් විෂමතා නිවැරදි කරන තෙක් ගෙවීමට නියමිතය.
+Cabinet approves a special monthly allowance of Rs. 3,000 for each pensioner in public service, valid till September 2024, pending salary anomaly resolution.
+
+🟩
+
+Cabinet approval has been approved by a special monthly allowance of Rs. 3,000 per pensioners in the public service.This decision was taken at a cabinet meeting held yesterday (24th). Accordingly, this special monthly allowance is due until September 2024 until the correction of salary anomalies will be corrected.
 
 ◼️
 
 [Data](articles/23d7b4b6.json)
+
+[Extended Data](ext_articles/23d7b4b6.ext.json)
 
 ---
 
@@ -2138,6 +2150,30 @@ Although he was born into a comfortable family. He learned in the field of engin
 
 ---
 
+### Field Marshal Sarath Fonseka Will Contest for President at Forthcoming Election; EX-Army chief says  “This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election” in Message Posted on “X”(twitter)
+
+*2024-07-25 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84431) · `en`
+
+Ex-army chief Sarath Fonseka has announced his intention to contest at Sri Lanka’s upcoming presidential election in a pre-dawn X (twitter) message.“I wish to announce my Presidential Candidacy to the people of Sri Lanka”
+
+“For 76 years, we have been led by an inept political group that has led us to bankruptcy.”
+
+“This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election.
+
+“I invite every Sri Lankan to join me to take Sri Lanka forward.”
+
+The former Army chief said for Sri Lanka to grow, “we need to #CrushCorruption,” and “We need to leverage our natural resources to boost income generation,” echoing the oft-repeated slogans of some other political parties.
+
+Fonseka, Sri Lanka’s first field marshal, unsuccessfully tried to challenge a re-election bid by the then-strongman president Mahinda Rajapakse in 2010.
+
+He was jailed for alleged treason by the previous regime as a result.
+
+...
+
+[Data](articles/730af3d1.json)
+
+---
+
 ### To whom to write the letter anymore?
 
 *2024-07-25 00:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-இனி-கடிதம்-எழுதுவது/175-340982) · `ta`
@@ -2214,32 +2250,6 @@ The minister said he has taken steps to bring about national reconciliation.
 
 [Data](articles/1c2c63c5.json)
 
----
-
-### Limit the tariff
-
-*2024-07-25 00:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டணத்தை-லட்சமாக்கவும்/175-340980) · `ta`
-
-Dullas Alahapperuma, an opposition MP, called for amending campaign finance limits: 25 lakh for party-affiliated presidential candidates and 30 lakh for independents. This proposal came after the Elections Commission requested former President Gotabhaya Rajapaksa to reduce these limits from 50k to 75k for recognized and independent candidates respectively. However, Chief Minister Susil Premajayantha stated that the proposed amendments could not be implemented in time for the upcoming presidential election.
-
-🟩
-
-Dullas Alahapperuma, an independent MP of the opposition, urged the control to define the number.
-
-He said the control of the recognized political party's presidential candidate should be amended by 25 lakhs and the control of the independent presidential candidate at 30 lakhs.
-
-This is what urged the special claim during the session held in Parliament on Wednesday (24)
-
-The Elections Commission has asked the then President Gotabhaya Rajapaksa to amend the control of the candidates contesting the presidential election.
-
-50 thousand rupees from the recognized political party candidate and 75 thousand rupees from the independent candidate.
-
-35 candidates contested the 2019 presidential election. The control of the candidates other than the two candidates was nationalized.
-
-...
-
-[Data](articles/e784a49e.json)
-
-[Extended Data](ext_articles/e784a49e.ext.json)
+[Extended Data](ext_articles/1c2c63c5.ext.json)
 
 ---

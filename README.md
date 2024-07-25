@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 18:15:20**
+As of **2024-07-25 18:26:40**
 
 ## Newspaper Stats
 
-*Scraped **37,225** Articles*
+*Scraped **37,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ bbccomsinhala | 365
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,383
-adaderanalk | 4,308
+adalk | 3,384
+adaderanalk | 4,309
 tamilmirrorlk | 4,585
 dailymirrorlk | 4,733
 virakesarilk | 5,845
-adaderanasinhalalk | 6,248
+adaderanasinhalalk | 6,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,224 (100.0%) of 37,225 articles have been extended.
+37,225 (100.0%) of 37,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### Ex-Health Minister Keheliya and 5 others further remanded
+
+*2024-07-25 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100773/ex-health-minister-keheliya-and-5-others-further-remanded) · `en`
+
+Former Health Minister Keheliya Rambukwella and 05 other suspects implicated in the alleged importation of substandard immunoglobulin vials have been further remanded until August 08.
+
+The order was issued after the defendants were produced before the Maligakanda Magistrate’s Court today (25).
+
+The former Minister of Health is currently in remand custody in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/48774d81.json)
+
+---
+
+### රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් සම්මත කරයි
+
+*2024-07-25 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199207) · `si`
+
+රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් ඡන්ද විමසීමකින් තොරව සංශෝධන සහිතව අද (25) පාර්ලිමේන්තුවේදී සම්මත කෙරුණි.
+
+පනත් කෙටුම්පත් ද්විත්වයෙහි කාරක සභා අවස්ථාවන් හිදී ඊට සංශෝධන එක්වූ අතර අනතුරුව තෙවනවර කියවීම ඡන්ද විමසීමකින් තොරව සම්මත විය.
+
+මෙම පනත් කෙටුම්පත් දෙක 2024 මැයි 22 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදි.
+
+◼️
+
+[Data](articles/e8f25de3.json)
+
+---
+
+### කෙහෙළිය තවදුරටත් රිමාන්ඩ්
+
+*2024-07-25 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199206) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 06 දෙනෙකු අගෝස්තු 08 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+◼️
+
+[Data](articles/5db3f642.json)
+
+---
 
 ### Public Financial Management and Economic Transformation Bills passed in Parliament
 
@@ -45,6 +93,8 @@ These two bills were presented to Parliament on 22 May 2024.
 ◼️
 
 [Data](articles/a4f2eb4f.json)
+
+[Extended Data](ext_articles/a4f2eb4f.ext.json)
 
 ---
 
@@ -661,6 +711,22 @@ The Court of Appeal issued the order after considering a Rit petition filed by M
 [Data](articles/225ece58.json)
 
 [Extended Data](ext_articles/225ece58.ext.json)
+
+---
+
+### දේශබන්දු තෙන්නකෝන් මහතාට සහාය පළ කරමින් මාතර පොස්ටර් අලවයි
+
+*2024-07-25 13:52:09* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකෝන්-මහතාට-සහාය-පළ-කරමින්-මාතර-පොස්ටර්-අලවයි/11-410991) · `si`
+
+හිටපු පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතාට සහාය පල කරමින් අද (25) උදෑසන වන විට මාතර නගරය පුරා පෝස්ටර් අලවා තිබිණි.
+
+“නීතිඥයන්ට පාතාලයෙන් කෝටි ගණන් මුදල්.පාතාලය ජය ගනී,නීතිඥයින් පාතාලයේ කොන්ත්‍රාත්තුව ඉටු කරයි.අහිංසක අපට කාගේ පිහිටක්ද ? මාතර අපි ඔබ සමගයි” යන වැකි එම පෝස්ටර් වල සදහන් කර තිබුණි.
+
+මීට අමතරව මාතර දිස්ත්‍රික්කයේ මහා සංඝරත්නය ඇතුළු සිවිල් සංවිධාන එක්ව පාතාලයට හා මත්ද්‍රව්‍ය ජාවාරමට එරෙහිව නීතිය තදින් ක්‍රියාත්මක කල දේශබන්ධු තෙන්නකෝන් මහතා ආරක්ෂා කරන්නැයි ඉල්ලා පෙත්සමකට අත්සන් කිරීමට ද සැලසුම් කර තිබුණේය.
+
+◼️
+
+[Data](articles/717cca1b.json)
 
 ---
 
@@ -2237,87 +2303,5 @@ It is also observed that the video is circulated on social media.
 [Data](articles/5e87d9c6.json)
 
 [Extended Data](ext_articles/5e87d9c6.ext.json)
-
----
-
-### Employment for Youth
-
-*2024-07-25 08:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களுக்கான-வேலை-வாய்ப்பு-உருவாக்கப்படும்/175-340990) · `ta`
-
-President Wickremesinghe vows to revitalize Sri Lanka's economy over the next decade to curb youth emigration, comparing the country's potential to nations like the US, Dubai, and Singapore. He emphasizes the need for reforms to enhance the export economy and compete globally, drawing inspiration from Thailand's success in the Theravada Buddhist market. The president stresses the importance of collective effort to shape Sri Lanka's future and resolve business challenges through economic innovation.
-
-🟩
-
-President Ranil Wickremesinghe has promised to implement the right plan to create an economic change in the next 10 years to create employment opportunities for young people in the country rather than go abroad.
-
-The President said this while addressing the 106th anniversary of the Gampaha Bandaranaike College yesterday.As he further stated,
-
-Today our youth goes to countries like the United States, Dubai and Singapore. It is necessary to ask why the status of those countries is not created in Sri Lanka. In the next 10 years, we must dedicate ourselves to solve this problem. To improve the country and create new jobs. Otherwise, this education will not benefit the country. If so, we will always have to be a poor country.
-
-...
-
-[Data](articles/b2579160.json)
-
-[Extended Data](ext_articles/b2579160.ext.json)
-
----
-
-### Sri Lanka central bank to run out Treasury bills in few months
-
-*2024-07-25 08:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-run-out-treasury-bills-in-few-months-173657/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has a “small amount” of Treasury bill left in its balance sheet and the agency will resort to other methods to conduct domestic operations, in the future, Central Bank Governor Nandalal Weerasinghe said.
-
-The central bank’s bill stock will mature in the “next few months,” Assistant Governor Chandranath Amarasekera said.
-
-“We will deal with it when we come to that. We have several tools, we have used in the past, even the statutory reserve ratio to absorb liquidity,” Amarasekera said.
-
-“But right now based on our projections, there could be a gradual reduction in liquidity in the next few months of the year.”
-
-The central bank ended up with over three trillion rupees of domestic assets in the process of injecting liquidity and triggering balance of payments deficits and forex shortages during the last currency crisis.
-
-...
-
-[Data](articles/232ae300.json)
-
-[Extended Data](ext_articles/232ae300.ext.json)
-
----
-
-### Wickremabahu Karunaratne passes away
-
-*2024-07-25 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199184) · `si`
-
-Dr. Wickremabahu Karunaratne, leader of the New Samaja Party, has passed away.
-
-🟩
-
-Leader of the New Samaja Party Dr. Wickremabahu Karunaratne has passed away.
-
-◼️
-
-[Data](articles/b9bad4ae.json)
-
-[Extended Data](ext_articles/b9bad4ae.ext.json)
-
----
-
-### Olympic Games: Sri Lankan players travel to Paris
-
-*2024-07-25 07:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒலிம்பிக்-போட்டி-இலங்கை-வீரர்கள்-பரிஸ்-பயணம்/175-340988) · `ta`
-
-Sri Lankan athletes Tarushi Karunaratne, Aruna Darshana, and Nadeesa Dilshani Lekamke departed for the Paris Olympics, where six of their compatriots will compete, marking the start of the games today.
-
-🟩
-
-Tarushi Karunaratne, Aruna Darshana and Nadeesa Dilshani Lekamke left the country last night to participate in the Paris Olympics.
-
-Sri Lanka's six heroes and 6 heroes have qualified for the Olympic Games as the Paris Olympic Games begin tomorrow.(a)
-
-◼️
-
-[Data](articles/587d1df3.json)
-
-[Extended Data](ext_articles/587d1df3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 12:54:24**
+As of **2024-07-25 13:05:37**
 
 ## Newspaper Stats
 
-*Scraped **37,177** Articles*
+*Scraped **37,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 364
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,373
+adalk | 3,374
 adaderanalk | 4,301
 tamilmirrorlk | 4,583
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,174 (100.0%) of 37,177 articles have been extended.
+37,177 (100.0%) of 37,178 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -200,21 +200,27 @@ If any side tries to violate the court order, it will be considered a contempt o
 
 ---
 
-### காதலிக்கு வீடியோ எடுத்து காலனிடன் சென்ற காதலன்
+### The boyfriend who went to the girlfriend and went to the colon
 
 *2024-07-25 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலிக்கு-வீடியோ-எடுத்து-காலனிடன்-சென்ற-காதலன்/175-341004) · `ta`
 
-காதலியுடன் ஏற்பட்ட முரண்பாடு காரணமாக இளைஞன் ஒருவன் தன் உயிரை மாய்த்துக் கொண்டுள்ள சம்பவம் புதன்கிழமை (24) இடம்பெற்றுள்ளது.
+On Wednesday, an 18-year-old from Ottamavadi, Valaichenai, tragically passed away after a dispute with his girlfriend. The incident occurred while he was on a video call at his job in Pettah, Colombo. His body is now at Colombo Hospital for autopsy, with police continuing their investigation.
 
-வாழைச்சேனை , ஓட்டமாவடி பகுதியைச் சேர்ந்த 18 வயது இளைஞன் ஒருவனே இவ்வாறு தன் உயிரை மாய்த்துக் கொண்டுள்ளார்.
+🟩
 
-கொழும்பு, புறக்கோட்டை பகுதியில் உள்ள  வர்த்தக நிலையமொன்றில்  கடைமையாற்றும் குறித்த இளைஞன் தனது காதலிக்கு வீடியோ அழைப்பை எடுத்து தொடர்பில் இருந்த  நிலையிலேயே இவ்வாறு உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளின் போது தெரியவந்துள்ளது.
+The incident took place on Wednesday (24) that a young man was living his life due to conflict with his girlfriend.
 
-மேலும் மரணமடைந்த இளைஞனின் உடல் பிரேத பரிசோதனைக்காக கொழும்பு வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை புறக்கோட்டை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+A 18 -year -old youth from Ottamavadi, Valaichenai, has suffered his life.
+
+Initial investigations by the police revealed that the young man who was working at a trade center in Pettah, Colombo, had taken a video call to his girlfriend.
+
+The body of the deceased has been placed at the Colombo Hospital for autopsy and further investigations are being carried out by the police.
 
 ◼️
 
 [Data](articles/460fdf8e.json)
+
+[Extended Data](ext_articles/460fdf8e.ext.json)
 
 ---
 
@@ -289,6 +295,24 @@ According to political sources, both sides are paying attention to President Ran
 [Data](articles/eb7ed8ea.json)
 
 [Extended Data](ext_articles/eb7ed8ea.ext.json)
+
+---
+
+### මලල ක්‍රීඩා කණ්ඩායම ඔලිම්පික් තරගාවලියට යයි
+
+*2024-07-25 11:06:10* · [`adalk`](https://www.ada.lk/sports/මලල-ක්‍රීඩා-කණ්ඩායම-ඔලිම්පික්-තරගාවලියට-යයි/9-410982) · `si`
+
+ශ්‍රී ලංකා මළළ ක්‍රීඩා කණ්ඩායම 33 වැනි ඔලිම්පික් ක්‍රීඩා තරගාවලිය සදහා 07/24 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළෙන්  පිටත්ව ගියහ.
+
+මෙම ශ්‍රී ලංකා  මළළ ක්‍රීඩා කණ්ඩායම නියෝජනය කරමින්  තරුෂි කරුණාරත්න , දිල්හානි ලේකම්ගේ සහ අරුණ දර්ශන ප්‍රංශය වෙත පිටත්ව යාමට  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+
+මේ වනවිට ශ්‍රී ලංකාව නියෝජනය කරමින් මෙම තරගාවලිය සදහා සහභාගී වන මළළ ක්‍රීඩකයින් තිදෙනකු , පිහිනුම් ක්‍රීඩකයින් දෙදෙනෙකු සහ එක් බැඩ්මින්ටන් ක්‍රීඩකයෙකු ද නිලධාරීන් 06 දෙනෙකු ද ප්‍රංශය බලා පිටත්ව ගොස් ඇති බව ශ්‍රී ලංකා මළළ ක්‍රීඩා සංගමයේ ලේකම්  සමන් කුමාර ගුණවර්ධන  මහතා කටුනායක ගුවන් තොටුපොළේ දී පැවසීය .
+
+ඔවුන් 07/24 දින රාත්‍රී 09.15 ට දෝහා බලා පිටත්ව ගිය කටාර් ගුවන් සේවයේ කිව්.ආර්.- 657 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගිය අතර ඉන්පසුව එතැන් සිට තවත් වෙනත් ගුවන් යානයකින් ප්‍රංශය බලා පිටත්ව යාමට නියමිතය .
+
+◼️
+
+[Data](articles/69d5e76e.json)
 
 ---
 
@@ -1814,6 +1838,8 @@ Sri Lanka’s official minimum wage edged to just Rs. 17,500 ($ 59) in March thi
 
 [Data](articles/f200acee.json)
 
+[Extended Data](ext_articles/f200acee.ext.json)
+
 ---
 
 ### Jackfruit revolution: rising king of global plant-based alternatives
@@ -1829,6 +1855,8 @@ Native to Southeast Asia and boasting the title of the largest tree-borne fruit 
 ...
 
 [Data](articles/63220f28.json)
+
+[Extended Data](ext_articles/63220f28.ext.json)
 
 ---
 
@@ -2253,33 +2281,5 @@ Bangladesh, who won the match, will oppose the current champion India in the fir
 [Data](articles/1cd3e3b5.json)
 
 [Extended Data](ext_articles/1cd3e3b5.ext.json)
-
----
-
-### Sri Lanka entered the semi -finals as a team that defeated Thailand
-
-*2024-07-24 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/189303) · `ta`
-
-Sri Lanka advanced to the Women's T20 Asian Cup semi-finals after defeating Thailand by 10 wickets in the final group stage match. Led by captain Samari Attapattu's 49 runs, Sri Lanka secured a spot against Pakistan in the semis. Thailand, who chose to bat first, managed 93/7 in 20 overs, with top scorers Dadtcha Buddhavong and Appissara Swanchonrati contributing 13 and 12 runs respectively.
-
-🟩
-
-Sri Lanka won by 10 wickets for Thailand to face Thailand at the last Women's T20 Asian Cup match for the B Group held at the Dambulla International Cricket Stadium on Wednesday (24).
-
-Sri Lanka, which is qualified to play at the end of the semi -final team with this victory, will oppose Pakistan in the second semi -finals on Friday (26).
-
-Sri Lanka won the last league match today with 94 runs in 11.3 overs without the loss of 94 runs.
-
-Team captain Samari Attapattu scored 49 off 35 balls, including 2 pounds and 4 sixes and Vishmi Gunaratne 39 runs.
-
-Earlier, Thailand decided to bat first and scored 93 runs for the loss of 7 wickets in 20 overs.
-
-The captain of the team, Dadtcha Buddhavong, scored 13 runs and Appissara Swanchonrati 12 runs.
-
-◼️
-
-[Data](articles/27589d1a.json)
-
-[Extended Data](ext_articles/27589d1a.ext.json)
 
 ---

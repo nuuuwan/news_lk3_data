@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 04:20:35**
+As of **2024-07-26 04:36:36**
 
 ## Newspaper Stats
 
-*Scraped **37,302** Articles*
+*Scraped **37,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,393
 adaderanalk | 4,313
-tamilmirrorlk | 4,593
+tamilmirrorlk | 4,594
 dailymirrorlk | 4,733
 virakesarilk | 5,862
 adaderanasinhalalk | 6,255
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,302 (100.0%) of 37,302 articles have been extended.
+37,302 (100.0%) of 37,303 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -343,6 +343,22 @@ Those who have never bought the country's economy as much as they have never bee
 [Data](articles/68e441a8.json)
 
 [Extended Data](ext_articles/68e441a8.ext.json)
+
+---
+
+### ’மாமனிதன் கலாநிதி தமிழினம் இழந்தது’
+
+*2024-07-26 01:45:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமனிதன்-கலாநிதி-தமிழினம்-இழந்தது/175-341051) · `ta`
+
+தமிழ் மக்களுக்கு சுயநிர்ணய உரிமை உண்டு.தமிழர்கள் இந்த நாட்டில் தங்களுக்கு உரித்தான தனித் தேசமாக வாழ்வதற்கு உரித்துடையவர்கள் என்று மிகவும் ஆணித்தரமாக சிங்கள மக்கள் மத்தியில் ஒரு படித்த கலாநிதியாக எடுத்துக்கூறிய மாமனிதன் கலாநிதி விக்கிரமபாகு கருணாரத்னவை தமிழினம் இழந்து விட்டதென   தமிழ் தேசியக் கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி. யான எஸ். ஸ்ரீதரன் சபையில் அஞ்சலி செலுத்தினார்
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25)  இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில்  உரையாற்றுகைம் போதே  இவ்வாறு தெரிவித்த அவர்  மேலும் பேசுகையில்,
+
+கலாநிதி விக்கிரமபாகு கருணாரத்ன ஈழத்தமிழர் உரிமை நிலைப்பாட்டில் இறுதிவரை ஒரே கொள்கையுடன் இருந்துவந்த முற்போக்கு அரசியல்வாதி. தமிழர் பிரச்சினைகளில் எப்போதும் ஒரே கொள்கையை கடைப்பிடித்து அது தொடர்பான  போராட்டங்களில் முன்னிலைவகித்தவர் .சிங்கள தேசிய இனத்தில் பிறந்தாலும் இனவாதம் இல்லாத பெருமனிதன் .அவ்வாறான ஒரு நல்மனிதனை இந்த தேசம் இழந்திருக்கின்றது என்றார்.
+
+◼️
+
+[Data](articles/f8024e4a.json)
 
 ---
 
@@ -2289,33 +2305,5 @@ The National Election Commission had convened a meeting today (25) to finalize t
 [Data](articles/ce1071cc.json)
 
 [Extended Data](ext_articles/ce1071cc.ext.json)
-
----
-
-### Two prison officials were admitted to hospital
-
-*2024-07-25 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189328) · `ta`
-
-A prisoner from Pallekela Thumbara Prison in Kandy assaulted two officials, sending them to Kandy National Hospital. The same prisoner, accused of killing a 70-year-old woman with a hammer, was taken to Batticaloa court. Additionally, he attacked a prison superintendent and sergeant, critically injuring the superintendent, who was moved to ICU.
-
-🟩
-
-A prisoner of the Pallekela Thumbara Prison in Kandy has severely assaulted two prison officials.
-
-Two prison officials who were seriously injured in the attack have been admitted to the Kandy National Hospital.
-
-A prisoner has been accused of killing and killing a woman with a hammer on the head of a seventy -year -old woman.. In this case, the detained prisoner was taken to the Batticaloa court on Wednesday morning.
-
-In the meantime, the prisoner has severely beaten the prison superintendent and Sergeant between Hunnaskiriya and Ududumbara.
-
-The prison superintendent suffered a head injury in the prisoner's attack and has been admitted to the Kandy National Hospital for three hours and has been admitted to the Intensive Care Unit.
-
-Hospital sources said the situation of the other officer who was attacked was not worrisome.
-
-◼️
-
-[Data](articles/f873288c.json)
-
-[Extended Data](ext_articles/f873288c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 07:27:57**
+As of **2024-07-25 07:49:21**
 
 ## Newspaper Stats
 
-*Scraped **37,104** Articles*
+*Scraped **37,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,63 @@ adaderanalk | 4,290
 tamilmirrorlk | 4,563
 dailymirrorlk | 4,733
 virakesarilk | 5,820
-adaderanasinhalalk | 6,224
+adaderanasinhalalk | 6,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,102 (100.0%) of 37,104 articles have been extended.
+37,104 (100.0%) of 37,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### රාජ්‍ය සේවකයින්ට හිමිවන විශේෂ නිවාඩුව
+### අවසන් තීරණයට මැතිවරණ කොමිසම අද රැස්වෙයි
+
+*2024-07-25 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199181) · `si`
+
+ජනාධිපතිවරණය පැවැත්වෙන දිනය සහ නාම යෝජනා කැඳවීම සිදුකරන දිනය පිළිබ﻿ඳ අවසන් තීරණය ගැනීම සඳහා මැතිවරණ කොමිෂන් සභාව අද (25) රැස්වීමට නියමිත ව තිබේ.
+
+අද පෙරවරුවේ මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතාගේ ප්‍රධානත්වයෙන් මැතිවරණ කොමිසන් සභාව රැස්වීමට නියමිතය.
+
+එහිදී ඉදිරි ජනාධිපතිවරණය පැවැත්වෙන දිනය පිළිබඳව කොමිෂන් සභාවේ සාමාජිකයින් අතර අවසන් එකඟතාවයකට පැමිණීමට නියමිත බව වාර්තා වේ.
+
+ජනාධිපතිවරණය පැවැත්වෙන දිනය පිළිබඳව මෙම සති අන්තයට පෙර නිවේදනය කරන බව ඊයේ (24) පැවති මාධ්‍ය හමුවකදී මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතා සඳහන් කළේය.
+
+ජනාධිපතිවරණය පැවැත්වීම සඳහා අවශ්‍ය මුලික කටයුතු මේ වන විටත් අවසන් කර ඇති බව මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා එහිදී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/86345805.json)
+
+---
+
+### Special holiday for public servants
 
 *2024-07-25 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199180) · `si`
 
-පසුගිය මැයි සහ ජුනි මාසවල ජල ගැලීම්, ගංවතුර, නායයෑම් හා මාර්ග අවහිරතා හේතුකොට ගෙන සේවයට නොපැමිණි රාජ්‍ය සේවකයින් සඳහා විශේෂ නිවාඩු ලබාදීමට රජය තීරණය කර තිබේ.
+The government grants special leave to public servants in flood-hit areas like Colombo, Kalutara, etc., to reach their workplaces. A circular by Pradeep Yasaratne allows these officials to take time off due to floods, landslides, and road blocks. Additionally, pensioners will receive Rs. 3,000, approved by the cabinet, to help with their financial needs.
 
-කොළඹ, කළුතර, ගම්පහ, ගාල්ල, මාතර, හම්බන්තොට, පුත්තලම, කුරුණෑගල, පොළොන්නරුව, කෑගල්ල හා රත්නපුර යන දිස්ත්‍රික්කවල රාජ්‍ය නිලධාරීන් සඳහා මෙම විශේෂ නිවාඩුව ලබා දීමට නියමිතය.
+🟩
 
-එම දිස්ත්‍රික්කවල ජල ගැලීම්, ගංවතුර, නායයෑම් හා මාර්ග අවහිරතා හේතුවෙන් සිය පදිංචි ස්ථානයේ සිට සේවා ස්ථානය වෙත පොදු ප්‍රවාහන සේවා ඇණහිටීම නිසා සේවයට වාර්තා කිරීමට නොහැකි වු නිලධාරීන්ට සහ අදාළ ව්‍යවසනයන්ගෙන් විපතට පත්වීම හේතුවෙන් හෝ අවතැන් වීම හේතුවෙන් සේවයට වාර්තා කිරීමට නොහැකි වු නිලධාරීන්ට මෙම විශේෂ නිවාඩුව හිමිවනු ඇත.
+The Government has decided to grant special leave to public servants to serve as well as floods, floods, landslides and road blocks in May and June.
 
-ඊට අදාළ චක්‍රලේඛය රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශ ලේකම් ප්‍රදීප් යසරත්න මහතා විසින් නිකුත් කර තිබේ.
+The special holiday is to be given to state officials in Colombo, Kalutara, Gampaha, Galle, Matara, Hambantota, Puttalam, Kurunegala, Kegalle and Ratnapura districts.
 
-මේ අතර රාජ්‍ය සේවයේ විශ්‍රාමිකයින් සඳහා ලබන සැප්තැම්බර් මාසයේ සිට රුපියල් 3,000ක දීමනාවක් ලබා දීමට රජය තීරණය කර තිබේ.
+These special holidays to the officers who were unable to release the public transport from their residence to the workplace, due to flooding, floods, landslides and road blooms in the districts to the service site due to the disruption of public transport from their residence.has.
 
-අදාළ යෝජනාවට ඊයේ (24) දිනයේ රැස්වු කැබිනටි මණ්ඩලය අනුමැතිය ලබා දී ඇති බවයි වාර්තා වන්නේ.
+The relevant circular has been issued by the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government Pradeep Yasaratne.
+
+Meanwhile, the government has decided to grant Rs. 3,000 to the pensioners of the Public Service.
+
+The cabinet assigned to the proposal yesterday (24) has been granted approval.
 
 ...
 
 [Data](articles/bad20a85.json)
+
+[Extended Data](ext_articles/bad20a85.ext.json)
 
 ---
 
@@ -69,6 +95,8 @@ Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed the Nation
 ...
 
 [Data](articles/46bc8f6b.json)
+
+[Extended Data](ext_articles/46bc8f6b.ext.json)
 
 ---
 
@@ -2271,29 +2299,5 @@ A firefighter who was working on the fire has been admitted to the hospital due 
 [Data](articles/948e9048.json)
 
 [Extended Data](ext_articles/948e9048.ext.json)
-
----
-
-### Commonwealth displeased to the Samarisi Act
-
-*2024-07-24 14:02:34* · [`adalk`](https://www.ada.lk/breaking_news/සමරිසි-පනතට-දැඩි-අප්‍රසාදය-පළකරමින්-මහ-නාහිමිවරු-ජනපතිට-ලියති/11-410968) · `si`
-
-President Wickremesinghe opposes the Samarisi Act, citing concerns over social decline and cultural identity preservation. The Most Venerable Uyangoda Maha Sangha expresses support for maintaining Sri Lanka's rich cultural heritage, emphasizing the importance of unity and respect for all cultures. The act is criticized for potentially threatening social security and cultural diversity, with calls for greater understanding and protection of cultural rights.
-
-🟩
-
-President Ranil Wickremesinghe has written to President Ranil Wickremesinghe with the objection of the Trincomalee Proposed Suminians of the Proposed Summinists of Social Decline.
-
-The Most Venerable Uyangoda Maha Sangha in the Mahanaanayake of the Asgiriya Chairmanara, Mahanaathena Maithpura Maha Sangha, Mahanaanayake of the Mahanaanayake of the Asgiriya Chairmana, Mahanaanayake, General Visharaya, Mahanaanayake, is the Mananayake of the Mahanayaka Makulapaya Mahanaanayake of the Mahanaanayake of the Mahanaanayake of the Mahanaanayake of the Mahanaanayake of Sri Lanka Mahanayake Sri Lanka Maja Nikiri Mahanaan.The article states:
-
-Chatkathawatta Sanati, the Sinhalese, has explained that if the country's cultural identities are based on narrow arctacy, as the historical heritage and chiriwa.
-
-Foreign Cultural Heritage, who prefers as Dharmaadine, says great cultural inheritance. The massive culture of the Sri Lankan culture is based on the dynasty word, ethonce, and the four-time objects.
-
-...
-
-[Data](articles/1c6e4b6b.json)
-
-[Extended Data](ext_articles/1c6e4b6b.ext.json)
 
 ---

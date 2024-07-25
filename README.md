@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 05:20:13**
+As of **2024-07-25 05:38:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,083 (100.0%) of 37,088 articles have been extended.
+37,088 (100.0%) of 37,088 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Speaking in Parliament yesterday Premadasa said, “You cannot get away by tende
 ...
 
 [Data](articles/18d72a64.json)
+
+[Extended Data](ext_articles/18d72a64.ext.json)
 
 ---
 
@@ -164,55 +166,77 @@ Minister Mahinda Amaraweera made this statement at a media briefing held at the 
 
 ---
 
-### பொலிஸ்மா அதிபரின் பதவி நிறுத்தம் தேர்தலைப் பாதிக்காது சட்டம் தெளிவாகக் கூறுகிறது - எம்.ஏ.சுமந்திரன்
+### The status of the Inspector General of Police does not affect the election- MA Sumanthiran
 
 *2024-07-25 04:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189307) · `ta`
 
-பொலிஸ் மா அதிபர் பதிவி இடைநிறுத்த பட்டாலும் ஜனாதிபதி தேர்தலை நடாத்தும் அதிகாரம் தேர்தல் ஆணைக்குழுவிற்கு உள்ளதாக ஜனாதிபதி சட்டத்தரணி பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+MA Sumanthiran stated that the Election Commission can conduct the presidential election despite the Inspector General of Police's suspension, as per the Supreme Court's order questioning the legality of the police chief's appointment. He emphasized the need for immediate action by the Election Commission to adhere to constitutional timelines for holding elections.
 
-புதன்கிழமை (24) யாழ் வர்த்தக சங்கத்தில் இடம்பெற்ற கலந்துரையாடலை தொடர்ந்து ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார் .
+🟩
 
-இது தொடர்பாக 9 மனுக்கள் தாக்கல் செய்யப்பட்டு பல நாட்கள் விவாதம் செய்யபட்டு இந்த வழக்கினை கொண்டு செல்வதற்கு அனுமதியினை வழங்குகின்ற அதே நேரத்தில் ஜனாதிபதியினாலே  நியமனம் பெற்ற பொலிஸ்மா அதிபருடைய நியமனம் சட்டபூர்வமானதாக இல்லை என்ற காரணத்தினாலே தேசபந்து தென்னக்கோன் என்ற பொலிஸ்மா அதிபரை அந்த பதவியில் இருந்து இடைநிறுத்தி உச்ச நீதிமன்றம் உத்தரவிட்டுள்ளது.
+President's Attorney MP MA Sumanthiran said that the Election Commission has the authority to hold the presidential election even if the police chief is suspended.
 
-இந்த உத்தரவு வந்த பின் அமைச்சரவை அவசர அவசரமாக கூடி ஜனாதிபதி தேர்தலை இடைநிறுத்தம் ஏற்பாடுகள் இடம்பெற்று வருவதான  செய்தி எங்களுக்கு கிட்டியிருக்கின்றது.
+He was speaking to the media following a discussion held at the Jaffna Trade Association on Wednesday (24).
 
-ஒரு நிரந்தர பொலிஸ் மா அதிபர் இல்லாத நிலையில் ஜனாதிபதி தேர்தல் நடாத்த முடியாது என்ற கருத்து நிலவுவதாக நாம் அறிகின்றோம்.
+The Supreme Court has ordered the suspension of the police chief, the police chief, due to the fact that the appointment of the Inspector General of Police, which was appointed by the President was not legal, was suspended from the post.
+
+After this order, we have reported that the Cabinet has gathered in a hurry to suspend the presidential election.
+
+We know that the presidential election cannot be held in the absence of a permanent police chief.
+
+It is very clear when the presidential election should be held in our constitution.
+
+A presidential election must be held between October 17, October 17.
 
 ...
 
 [Data](articles/cd3f177d.json)
 
+[Extended Data](ext_articles/cd3f177d.ext.json)
+
 ---
 
-### ஆசிரியர் பற்றாக்குறையை கண்டித்து பெற்றோர்கள் ஆசிரியர்கள் வலயக்கல்வி பணிமனை முன்பாக ஆர்ப்பாட்டம்
+### Parents protest in front of teachers in front of the workshop denouncing teacher shortage
 
 *2024-07-25 04:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189306) · `ta`
 
-வவுனியா தெற்கு வலயத்திற்குட்பட்ட 22 சிங்கள பாடசாலைகளில் நிலவும் ஆசிரியர் பற்றாக்குறையினால் மாணவர்களின் கற்றல் செயல்பாடுகளை முன்னெடுக்க சிரமமான நிலை காணப்படுவதாக தெரிவித்து வவுனியா தெற்கு வலயத்திற்குட்பட்ட 22 சிங்கள பாடசாலை ஆசிரியர்கள் மற்றும் பெற்றோர்கள் இணைந்து வவுனியா தெற்கு வலயக்கல்வி பணிமனைக்கு முன்பாக புதன்கிழமை (24) ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+In Vavuniya South Zone, 22 Sinhala school teachers and parents protested outside the Education Workshop on Wednesday, highlighting the challenge of teacher shortages affecting 22 schools. They carried banners urging immediate teacher appointments to ensure student education isn't compromised. The protest lasted about an hour, with significant parent participation.
 
-ஆர்ப்பாட்டத்தின் போது ஆசிரியர்களை நியமிக்க கோரியும் மாணவர்களின் கல்வி பாதிக்கப்படாத வகையில் செயல்படக் கோரியும் பதாகைகளை தங்கி இருந்தனர்.
+🟩
 
-சுமார் ஒரு மணி நேரமாக இடம் பெற்ற இந்த ஆர்ப்பாட்டத்தில் பல பெற்றோர்கள் கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+22 Sinhala school teachers and parents in the Vavuniya South Zone staged a protest on Wednesday (24) in front of the Vavuniya South Zone Education Workshop, saying that the shortage of teachers in 22 Sinhala schools in the Vavuniya South Zone has been difficult to carry out the learning activities.
+
+During the demonstration, banners were staying demanding the appointment of teachers and the education of the students to act so that it was not harmful.
+
+It is noteworthy that many parents participated in the demonstration for about an hour.
 
 ◼️
 
 [Data](articles/1cb0c9a6.json)
 
+[Extended Data](ext_articles/1cb0c9a6.ext.json)
+
 ---
 
-### விசேட அறிவிப்பை வெளியிடவுள்ள அமைச்சர் விஜேதாச?
+### Minister Wijeyadasa to make a special announcement?
 
 *2024-07-25 03:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189305) · `ta`
 
-நீதி, சிறைச்சாலை அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜேதாச ராஜபக்ஷ வியாழக்கிழமை (25) விசேட அறிவிப்பொன்றை வெளியிடவுள்ளதாக தெரிவிக்கப்படுகிறது. ஜனாதிபதித் தேர்தலில் களமிறங்குவதற்காக அமைச்சு பதவியை இராஜிநாமா செய்வது தொடர்பிலேயே அவரது விசேட அறிவித்தலில் தெரிவிக்கப்படும் என எதிர்பார்க்கப்படுகிறது.
+Justice Minister Wijeyadasa Rajapaksa plans to announce his resignation for the upcoming presidential election, possibly involving political activities with former President Maithripala Sirisena. Despite a court injunction, he continues to engage in election-related activities, including opening an election office with Sirisena's presence.
 
-இது தொடர்பில் அமைச்சர் விஜேதாச ராஜபக்ஷவை தொடர்பு கொண்டு வினவிய போது, புன்னகையுடன், 'அது எனக்கு தெரியாது.' என்று பதிலளித்தார். அத்தோடு நேற்று கூட்டப்பட்ட விசேட அமைச்சரவை கூட்டத்திலும் அவர் பங்கேற்றிருக்கவில்லை. தவிர்க்க முடியாத காரணத்தால் தான் விசேட அமைச்சரவை கூட்டத்தில் பங்கேற்கவில்லை என்றும் அமைச்சர் தெரிவித்தார்.
+🟩
 
-அமைச்சர் விஜேதாச ராஜபக்ஷ கடந்த சில மாதங்களாக தான் ஜனாதிபதித் தேர்தலில் போட்டியிடவுள்ளதாக தெரிவித்து வருகின்றார். அதற்காக அவர் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுடன் இணைந்து அரசியல் நடவடிக்கைகளிலும் ஈடுபட்டு வருகின்றார். முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவும் தமது வேட்பாளர் விஜேதாச ராஜபக்ஷ என்பதை பகிரங்கமாவே தெரிவித்துள்ளார்.
+Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapaksa will issue a special announcement on Thursday (25). The resignation of the ministry for the presidential election is expected to be announced in his special announcement.
+
+When contacted by Minister Wijeyadasa Rajapakse in this regard, he smiled and said, "I don't know it."Replied that. He also did not attend the special cabinet meeting held yesterday. The Minister said that he did not attend the Special Cabinet meeting because of the inevitable.
+
+Minister Wijeyadasa Rajapakse has said that he will contest the presidential election for the past few months.. For that, he is engaged in political activities with former President Maithripala Sirisena. Former President Maithripala Sirisena has publicly stated that his candidate is Wijedasa Rajapaksa.
 
 ...
 
 [Data](articles/4d25eca6.json)
+
+[Extended Data](ext_articles/4d25eca6.ext.json)
 
 ---
 
@@ -229,6 +253,8 @@ I hope Vice-President Harris picks Senator Bernie Sanders as her running-mate be
 ...
 
 [Data](articles/a3a8ace1.json)
+
+[Extended Data](ext_articles/a3a8ace1.ext.json)
 
 ---
 

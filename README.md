@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 12:20:22**
+As of **2024-07-25 12:35:53**
 
 ## Newspaper Stats
 
-*Scraped **37,165** Articles*
+*Scraped **37,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,39 +14,87 @@ newsfirstlk | 363
 bbccomsinhala | 364
 islandlk | 2,119
 economynextcom | 2,224
-dailyftlk | 2,372
+dailyftlk | 2,375
 adalk | 3,373
-adaderanalk | 4,300
+adaderanalk | 4,301
 tamilmirrorlk | 4,582
 dailymirrorlk | 4,733
-virakesarilk | 5,824
+virakesarilk | 5,831
 adaderanasinhalalk | 6,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,163 (100.0%) of 37,165 articles have been extended.
+37,165 (100.0%) of 37,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ආචාර්ය වික්‍රමබාහු කරුණාරත්න දිවි ගමනට සමු දෙයි
+### North Korea trash balloons disrupt flights in Seoul, cause rooftop fire
+
+*2024-07-25 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100765/north-korea-trash-balloons-disrupt-flights-in-seoul-cause-rooftop-fire) · `en`
+
+North Korea has sent about 500 balloons laden with trash into South Korea’s air space over the past 24 hours, officials in the South said on Thursday, disrupting flights and igniting a fire on the roof of a residential building.
+
+The balloons are part of an ongoing propaganda campaign by Pyongyang against North Korean defectors and activists in the South, who regularly send balloons carrying items such as anti-Pyongyang leaflets medicine, money and USB sticks loaded with K-pop videos and dramas.
+
+A suspected balloon suspended take-offs and landings at Seoul’s Gimpo Airport on Wednesday evening for two hours, an official at the Korea Airports Corporation said.
+
+Balloons have affected traffic at South Korea’s main international airport, Incheon, several times in recent weeks.
+
+In Gyeonggi, a province near Seoul, a balloon caught fire on top of a residential building. Fire fighters extinguished the blaze, an official at the Gyeonggi Northern Fire and Disaster Headquarters said.
+
+...
+
+[Data](articles/5e6d808e.json)
+
+---
+
+### பல்கலைக்கழக மாணவன் உயிர்மாய்ப்பு
+
+*2024-07-25 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189335) · `ta`
+
+கண்டி, பிலிமத்தலாவை, பரகட வெல்ல பகுதியைச் சேர்ந்த  பல்கலைக்கழக மாணவன் ஒருவன் உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+குறித்த மாணவன் கடந்த 22ஆம் திகதி மதியம் வீட்டில் இருந்து சுமார் 100 மீற்றர் தூரத்தில் உயிரை மாய்த்துக் கொண்டுள்ள நிலையில் 23ஆம் திகதி காலை சடலமாக மீட்கப்பட்டுள்ளார்.
+
+உயிரிழந்த மாணவனின்  தாயார் உதவி அதிபர் எனவும் அவரும் ஏனைய இரு பிள்ளைகளும் சம்பவம் இடம்பெற்ற போது வீட்டில் இல்லை எனவும் பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+பல்கலைக்கழக கல்விசாரா ஊழியர்களின் பணிப்பகிஷ்கரிப்பு காரணமாக இந்த மாணவன் சுமார் 02 மாதங்களை வீட்டிலேயே கழித்துள்ளார்.
+
+பேராதனை பல்கலைக்கழக மருத்துவ பீடத்தின் சிரேஷ்ட விரிவுரையாளர் திரு.கசுன் ஏகநாயக்கவினால் சடலத்தின் பிரேத பரிசோதனை நடத்தப்பட்டுள்ளது.
+
+சாட்சியங்கள் மற்றும் மருத்துவ அறிக்கைகளை கருத்திற்கொண்ட மரண விசாரணை அதிகாரி சேனக கருணாரத்ன உயிரை மாய்த்துக் கொண்டுள்ளதால் மரணம் ஏற்பட்டுள்ளதாக தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d90d8ab6.json)
+
+---
+
+### Dr. Wickremabahu Karunaratne retives for his life
 
 *2024-07-25 11:49:50* · [`adalk`](https://www.ada.lk/breaking_news/ආචාර්ය-වික්‍රමබාහු-කරුණාරත්න-දිවි-ගමනට-සමු-දෙයි/11-410986) · `si`
 
-නව සම සමාජ පක්ෂයේ නායක ආචාර්ය වික්‍රමබාහු කරුණාරත්න මහතා අභාවප්‍රාප්ත වී තිබේ. මිය යන විට ඒ මහතා 81 වන වියේ පසුවිය.ඒ මහතා අද (25) අලුයම අභාවප්‍රාප්ත වී ඇති බව පවුලේ ආරංචිමාර්ග කියයි.
+Dr. Wickremabahu Karunaratne, an 81-year-old scholar and political activist from Sri Lanka, has passed away. Born in Labugala on March 8, 1943, he completed his education at Ananda College before obtaining a degree in electrical engineering and a Commonwealth scholarship to study at Cambridge University. His academic career and activism in left politics marked his contributions to society.
 
-ඔහු 1943 මාර්තු 8 වැනිදා ලුණුගල ප්‍රදේශයේ උපත ලබා ඇති ඒ මහතා  මතුගම ආනන්ද විද්‍යාලයෙන් ප්‍රාථමික අධ්‍යාපනය ලැබීය. ඔහු කොළඹ ආනන්ද විද්‍යාලයෙන් ද්විතීයික අධ්‍යාපනය ලබා ඇත.
+🟩
 
-විදුලි ඉංජිනේරු විද්‍යාව පිළිබඳ පළමු පන්තියේ සාමාර්ථයක් ලබා ගැනීමටද ඔහු සමත් විය. එමෙන්ම ඒ මහතා කේම්බ්‍රිජ් විශ්වවිද්‍යාලයේ ඉගෙනීම සඳහා පොදුරාජ්‍ය මණ්ඩලීය ශිෂ්‍යත්වයක් ලබා 1970 දී ආචාර්ය උපාධියක් ලබා ගත්තේය.
+Dr. Wickremabahu Karunaratne has passed away. At the time of his death, he was 81-year-old.
 
-පසුව වික්‍රමබාහු කරුණාරත්න ශ්‍රී ලංකාවට පැමිණ ශාස්ත්‍රීය ජීවිතයක් ආරම්භ කළ අතර ඔහු වාමාංශික දේශපාලනයේ ද ප්‍රබල ක්‍රියාකාරිකයෙකි.
+He was born in Labugala on March 8, 1943, he received primary education at Ananda College. He has received secondary education from Ananda College, Colombo.
+
+He was also able to obtain a first-class literature on electrical engineering. He obtained a Commonwealth scrutiny in 1970 to learn at the Cambridge University.
+
+Wickremabahu Karunaratne was later visited in Sri Lanka and began a academic life and he was also a powerful activist in Left politics.
 
 ◼️
 
 [Data](articles/d01a2a79.json)
+
+[Extended Data](ext_articles/d01a2a79.ext.json)
 
 ---
 
@@ -65,6 +113,24 @@ Wickramanayake was held in remand custody over the alleged substandard immunoglo
 [Data](articles/c8a17292.json)
 
 [Extended Data](ext_articles/c8a17292.ext.json)
+
+---
+
+### கொழும்பில் இரண்டு இடங்களில் 48 பாராளுமன்ற உறுப்பினர்கள் சந்தித்து கலந்துரையாடியது என்ன?
+
+*2024-07-25 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189331) · `ta`
+
+அரசாங்கத்தை பிரதிநிதித்துவப்படுத்தும் அமைச்சரவை மற்றும் இராஜாங்க அமைச்சர்கள் நேற்று புதன்கிழமை (24) கொழும்பில் இரண்டு இடங்களில் 48 பாராளுமன்ற உறுப்பினர்கள் சந்தித்து ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆதரவு தொடர்பில் விசேட கலந்துரையாடலை நடத்தியதாக அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இதன்படி, அரசாங்கங்களை பிரதிநிதித்துவப்படுத்தும் 30 அமைச்சரவை மற்றும் இராஜாங்க அமைச்சர்கள் கொழும்பு பிளவர் வீதியில் சந்தித்து கலந்துரையாடியுள்ளதுடன், அரசாங்கத்தின் பின்வரிசை உறுப்பினர்கள் 18 பேர் தலவத்துகொடையில் உள்ள ஹோட்டல் ஒன்றில் சந்தித்து கலந்துரையாடியுள்ளனர்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில்  ஸ்ரீ லங்கா பொதுஜன பெரமுனவுக்கு மொட்டுச் சின்னத்தை வழங்கினால் ஏற்படும் நிலைமை குறித்து இரு தரப்பினரும் விரிவாக கலந்துரையாடியுள்ளதாகவும் அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும் இந்த தருணத்தில் தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தமது ஆதரவை வழங்குவதற்கு இரு கட்சிகளின் இறுதி உடன்படிக்கை அனுப்பப்பட்டுள்ளது.
+
+...
+
+[Data](articles/ed6d902f.json)
 
 ---
 
@@ -91,6 +157,24 @@ The lorry driver has been arrested by police officers regarding the accident and
 [Data](articles/2db67f21.json)
 
 [Extended Data](ext_articles/2db67f21.ext.json)
+
+---
+
+### பொலிஸ்மா அதிபர் தொடர்பான நீதிமன்ற உத்தரவை அமைச்சரவை மாற்றமுடியாது - சாலியபீரிஸ்
+
+*2024-07-25 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189332) · `ta`
+
+பொலிஸ்மா அதிபர் தொடர்பான நீதிமன்ற உத்தரவை அமைச்சரவை மாற்றமுடியாது என இலங்கை சட்டத்தரணிகள் சங்கத்தின் முன்னாள் தலைவர் சட்டத்தரணி சாலியபீரிஸ் தெரிவித்துள்ளார்.
+
+பொலிஸ்மா அதிபர் தொடர்பில் உயர்நீதிமன்றம் விடுத்துள்ள உத்தரவு தொடர்பிலும் அது தொடர்பான சட்டவிடயங்கள் தொடர்பிலும் ஆராய்ந்து அடுத்த இரு தினங்களிற்குள் முடிவை தெரிவிப்பதற்கு அமைச்சரவை தீர்மானித்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+
+அமைச்சரவை எவ்வாறான தீர்மானத்தை எடுத்தாலும்,தேசபந்து தென்னக்கோனிற்கு எதிரான மனுக்கள் தொடர்பான இறுதி தீர்ப்புகள் வெளியாகும் வரை அவர் பொலிஸ்மா அதிபராக பணிபுரிவதை  நீதிமன்றம் கட்டுப்படுத்தியுள்ளது.
+
+நீதிமன்றத்தின் உத்தரவை எந்த தரப்பாவது மீற முயன்றால் அது நீதிமன்ற அவமதிப்பாக கருதப்படும்.
+
+◼️
+
+[Data](articles/7a72f660.json)
 
 ---
 
@@ -210,19 +294,65 @@ The suspect was able to arrest the suspect by the Special Task Force.
 
 ---
 
-### සරත් ෆොන්සේකා ජනපති සටනට
+### ஜனாதிபதித் தேர்தலில் களமிறங்கும் விஜயதாச !
+
+*2024-07-25 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/189326) · `ta`
+
+2024 ஆம் ஆண்டு ஜனாதிபதித்தேர்தலில் வேட்பாளராகக் களமிறங்கப்போவதாக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ இன்று வியாழக்கிழமை (25) உத்தியோகபூர்வமாக அறிவித்துள்ளார்.
+
+மக்கள் கூட்டணியின் சார்பில் வேட்பாளராகக் களமிறங்குவதாகவும், சின்னத்தை பின்னர் அறிவிப்பதாகவும் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+இலங்கையினதும், இலங்கை மக்களினதும் வெற்றியை முன்னிறுத்தியே எதிர்வரும் ஜனாதிபதித்தேர்தலில் வேட்பாளராகக் களமிறங்குவதாக விஜயதாஸ ராஜபக்ஷ மேலும் குறிப்பிட்டுள்ளார்.
+
+உங்களது விதியைத் தீர்மானிக்கும் உரிமையை அரசியல்வாதிகளிடம் கையளித்துப் பார்த்துக்கொண்டிருப்பதால் எஞ்சியது துன்பம் மாத்திரமே. உலகம் மாற்றமடைவதைப் பார்ப்பதற்கு விரும்பினால் அம்மாற்றத்தை  உங்களால் மாத்திரமே ஏற்படுத்தமுடியும் என்றும் நீதியமைச்சர் விஜயதாஸ ராஜபக்‌ஷ மக்களுக்கு அறைகூவல் விடுத்துள்ளார்.
+
+இதேவேளை, இம்முறை ஜனாதிபதித் தேர்தலில் வேட்பாளராக களமிறங்கப்போவதாக பீல்ட் மார்சல் சரத்பொன்சேக்காவும் உத்தியோகபூர்வமாக அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/40c44b63.json)
+
+---
+
+### Sarath Fonseka to fight against President
 
 *2024-07-25 10:55:40* · [`adalk`](https://www.ada.lk/breaking_news/සරත්-ෆොන්සේකා-ජනපති-සටනට/11-410981) · `si`
 
-එළැඹෙන ජනපතිවරණය සඳහා තමන්ද අපේක්ෂකයෙක් ලෙස එක්වන බව ෆීල්ඩ් මාෂල් සරත් ෆොන්සේකා මහතා පවසයි. සිය X ගිනුමෙන් නිල නිවේදනයක් කරමින් ඔහු මේ බව පවසයි.
+Field Marshal Sarath Fonseka announced his candidacy for president, criticizing past governments' handling of Sri Lanka's resources and inviting all Sri Lankans to combat corruption.
 
-වසර 76ක් පුරාවට රට පාලනය කළ දේශපාලන පක්ෂ රට බංකොලොත්භාවයට  පත්කල බවත් ශ්‍රී ලංකාවේ ස්වාභාවික සම්පත් ආදායම් උත්පාදනය වෙනුවෙන් යොදා ගත යුතුව ඇති බවත් ඔහු පෙන්වා දෙයි.
+🟩
 
-ශ්‍රි ලංකාව ඉදිරියට ගෙන යාම වෙනුවෙන් සියලු ශ්‍රී ලාංකිකයන්ට තමන් සමග එක්වන ලෙසට ආරාධනා කරන බවත් ඉදිරියට යාමට නම් දූෂණය පිටු දැකිය යුතු බවත් ඔහු වැඩිදුරටත් පවසයි.
+Field Marshal Sarath Fonseka says he will join the presidential election as a candidate. He was speaking at an official announcement from his account.
+
+He pointed out that political parties who ruled the country in 76 years and the natural resources of Sri Lanka should be used for revenue generation.
+
+He added that the Sri Lankans invite all Sri Lankans to join Sri Lanka and see corruption.
 
 ◼️
 
 [Data](articles/8b86e398.json)
+
+[Extended Data](ext_articles/8b86e398.ext.json)
+
+---
+
+### யாழ். நீதிமன்றுக்கு அருகில் வாள் வெட்டு முயற்சி ; 55 நாட்களின் பின் சந்தேகநபர் கைது
+
+*2024-07-25 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189318) · `ta`
+
+யாழ்ப்பாணம் நீதவான் நீதிமன்ற வழக்கு விசாரணைக்கு சென்று விட்டு, வீடு திரும்பியவரை வாளினால் வெட்ட முயன்ற குற்றச்சாட்டில் இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த மே மாதம் 30ஆம் திகதி நீதிமன்றில்  நடைபெற்ற வழக்கு விசாரணைக்கு சென்று விட்டு, வீடு திரும்ப முற்பட்டவரை, நீதிமன்ற கட்டட தொகுதிக்கு அருகில் வைத்து மூவர் அடங்கிய வன்முறை கும்பல் வாளினால் வெட்ட முயன்றுள்ளனர்.
+
+வன்முறை கும்பலில் தாக்குதலில் இருந்து தப்பித்த இளைஞன், நீதிமன்றில் தஞ்சமடைந்துள்ளார். அது தொடர்பில் உடனடியாக நீதவானின் கவனத்திற்கு கொண்டு செல்லப்பட்டதை அடுத்து, தாக்குதல் முயற்சி மேற்கொண்ட மூவரையும் உடனடியாக கைது செய்து நீதிமன்றில் முற்படுத்த மன்று பொலிஸாருக்கு உத்தரவிட்டது.
+
+மூவரையும் கைது செய்வதற்கு பொலிஸார் நடவடிக்கை எடுத்த நிலையில், மூவரும் தலைமறைவாகி இருந்தனர்.
+
+கைதான நபர் யாழில் பல்வேறு இடங்களில் வன்முறை சம்பவங்களில் ஈடுபட்ட குற்றச்சாட்டில் நீதிமன்றில் வழக்குகள் நிலுவையில் உள்ளதாகவும், 04 திறந்த பிடியாணைகள் உள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ae1d34bc.json)
 
 ---
 
@@ -592,6 +722,26 @@ This is my formal and official announcement as the Sri Lankan presidential candi
 
 ---
 
+### பொலிஸ்மா அதிபர் இல்லாமல் தேர்தலா? குழப்பத்தில் தேர்தல் ஆணைக்குழு
+
+*2024-07-25 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189319) · `ta`
+
+தேசபந்து தென்னக்கோன் பொலிஸ்மா அதிபராக செயற்படுவதற்கு நீதிமன்றம் இடைக்காலதடை விதித்துள்ளமை காரணமாக வெள்ளிக்கிழமை ஜனாதிபதி தேர்தலை அறிவித்த பின்னர் அதனை நடத்துவது தொடர்பில் தேர்தல் ஆணைக்குழு குழப்பமான நிலைக்குள் தள்ளப்பட்டுள்ளது.
+
+தேர்தல்களை நடத்துவதற்கு பொலிஸ்திணைக்களம் மிகவும் அவசியமானதாகும்,தேர்தலின் போது தேர்தல் ஆணைக்குழு தனது உத்தரவுகளை நடைமுறைப்படுத்துமாநு பொலிஸ்மா அதிபருக்கு உத்தரவிடும்.
+
+இது குறித்து கருத்து வெளியிட்டுள்ள தேர்தல் ஆணைக்குழுவை சேர்ந்த சிரேஸ்ட அதிகாரியொருவர் தனது ஆணைக்குழு பொலிஸ்மா அதிபர் அல்லது பதில்பொலிஸ்மா அதிபருடன் தொடர்புகொள்ளவேண்டிய தேவைகள் உள்ளதாக தெரிவித்துள்ளார்.
+
+தேர்தல் அறிவிக்கப்பட்டவுடன் பொலிஸ்மா அதிபர் பதவியில் அல்லது பதில் பொலிஸ்மா அதிபர் பதவியில் ஒருவர் காணப்படுவது அவசியம் என அவர் தெரிவித்துள்ளார்.
+
+இல்லாவிட்டால் யாரை தொடர்புகொள்வது என்ற குழப்பநிலைக்குள் நாங்கள் தள்ளப்படலாம் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e8caac0f.json)
+
+---
+
 ### Election Commission to decide on Presidential Poll date today
 
 *2024-07-25 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100759/election-commission-to-decide-on-presidential-poll-date-today) · `en`
@@ -633,6 +783,20 @@ If a vehicle runs a smoker, a photo or video, a photo or video, and the Departme
 [Data](articles/585334f1.json)
 
 [Extended Data](ext_articles/585334f1.ext.json)
+
+---
+
+### வட்டிவீதங்களைக் குறைத்தது மத்திய வங்கி
+
+*2024-07-25 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189317) · `ta`
+
+நாட்டின் பொருளாதாரத்தில் சமகாலத்தில் அவதானிக்கப்பட்ட குறிகாட்டிகளின் அடிப்படையில் வைப்புக்கள் மற்றும் கடன்களுக்கான வட்டிவீதங்களை முறையே 8.25 மற்றும் 9.25 சதவீதமாகக் குறைப்பதற்கு நாணயச்சபை தீர்மானித்திருப்பதாக இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க அறிவித்துள்ளார்.
+
+நாணயச்சபையின் இவ்வாண்டுக்கான 4 ஆவது மீளாய்வுக்கூட்டத்தில் மேற்கொள்ளப்பட்ட தீர்மானங்களை அறிவிக்கும் நோக்கிலான ஊடகவியலாளர் சந்திப்பு நேற்று புதன்கிழமை கொழும்பிலுள்ள மத்திய வங்கியின் கேட்போர்கூடத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது. அதில் கலந்துகொண்டு கருத்து வெளியிடுகையிலேயே ஆளுநர் நந்தலால் வீரசிங்க மேற்குறிப்பிட்ட அறிவிப்பை வெளியிட்டார்.
+
+...
+
+[Data](articles/262453ff.json)
 
 ---
 
@@ -1488,6 +1652,20 @@ I hope Vice-President Harris picks Senator Bernie Sanders as her running-mate be
 
 ### SOERU and insulation it provides against bad privatisations
 
+*2024-07-25 03:49:02* · [`dailyftlk`](https://www.ft.lk/columns/SOERU-and-insulation-it-provides-against-bad-privatisations/4-764710) · `en`
+
+For decades, Sri Lanka’s SOEs have been plagued by inefficiency, corruption, and a lack of transparency. Apart from the burden on the public purse, the consequences for citizens have included substandard medicines to exploding gas cylinders. Over the past 20 years vested interests have mushroomed around SOEs.
+
+The opposition to privatisation in Sri Lanka stems from a mixture of ideology and vested interests. On the ideological front, there’s a lingering sentiment, rooted in post-independence nationalism, that views state ownership as a bulwark against foreign exploitation. This perspective sees SOEs not just as economic entities, but as symbols of national sovereignty and social welfare, regardless of how well these entities actually serve the purpose for which they were set up.
+
+...
+
+[Data](articles/56832b45.json)
+
+---
+
+### SOERU and insulation it provides against bad privatisations
+
 *2024-07-25 03:49:02* · [`dailyftlk`](https://www.ft.lk/opinion/SOERU-and-insulation-it-provides-against-bad-privatisations/14-764710) · `en`
 
 For decades, Sri Lanka’s SOEs have been plagued by inefficiency, corruption, and a lack of transparency. Apart from the burden on the public purse, the consequences for citizens have included substandard medicines to exploding gas cylinders. Over the past 20 years vested interests have mushroomed around SOEs.
@@ -1551,6 +1729,38 @@ Sri Lanka’s official minimum wage edged to just Rs. 17,500 ($ 59) in March thi
 [Data](articles/bbe15ea9.json)
 
 [Extended Data](ext_articles/bbe15ea9.ext.json)
+
+---
+
+### A real minimum wage can set ground for productivity gains
+
+*2024-07-25 03:32:15* · [`dailyftlk`](https://www.ft.lk/columns/A-real-minimum-wage-can-set-ground-for-productivity-gains/4-764706) · `en`
+
+Then what really is the living wage and how does one establish a common benchmark?
+
+Wages in Sri Lanka have thrown up considerable debate, with local and international activists joining the chorus calling on Government and industries to honour a ‘living wage’.
+
+Sri Lanka’s official minimum wage edged to just Rs. 17,500 ($ 59) in March this year. The ‘living wage’ for urban Sri Lankans in 2022 was listed at Rs. 84,231 ($ 281) by the Global Living Wage Coalition, during a year the country’s headline inflation touched its highest of 73.7% as per the Central Bank. For simpler discourse, let us place that figure now at $ 300.
+
+...
+
+[Data](articles/f200acee.json)
+
+---
+
+### Jackfruit revolution: rising king of global plant-based alternatives
+
+*2024-07-25 03:30:22* · [`dailyftlk`](https://www.ft.lk/columns/Jackfruit-revolution-rising-king-of-global-plant-based-alternatives/4-764705) · `en`
+
+Meet the jackfruit, a tropical treasure poised to revolutionise the global food industry
+
+Imagine a fruit so versatile it can mimic the taste and texture of pulled pork and shredded chicken, so sustainable it thrives with minimal resources, and so nutritious it’s a powerhouse of vitamins and minerals. Meet the jackfruit, a tropical treasure poised to revolutionise the global food industry.
+
+Native to Southeast Asia and boasting the title of the largest tree-borne fruit on Earth, jackfruit has transcended its Sri Lankan roots to become a global culinary sensation. Introduced to Sri Lanka by Arthur V. Dias, during the British colonial era, when rice scarcity threatened starvation, the jackfruit emerged as a crucial source of sustenance, with its rich carbohydrates and natural fats providing much-needed energy. This lifesaving role later earned the title “Rice Tree”.
+
+...
+
+[Data](articles/63220f28.json)
 
 ---
 
@@ -2021,241 +2231,5 @@ Addressing the gathering, Rajeeva Bandaranaike, CEO of CSE, stated, “A listing
 [Data](articles/62f51a6f.json)
 
 [Extended Data](ext_articles/62f51a6f.ext.json)
-
----
-
-### Soul Sounds Academy triumphs at 13th Bali International Choir Festival 2024
-
-*2024-07-24 22:12:00* · [`islandlk`](http://island.lk/soul-sounds-academy-triumphs-at-13th-bali-international-choir-festival-2024/) · `en`
-
-Twenty-five young soloists from Sri Lanka’s Soul Sounds Academy excelled at the 13th Bali International Choir Festival 2024, winning 17 gold medals and 8 silver medals in the solo categories.
-
-Competing in both Children’s Solo and Youth Solo categories, these talented performers showcased their exceptional skills. Their success was achieved under the expert guidance of renowned musician Soundarie David Rodrigo, along with vocal trainers Shivanthi Subramaniam and Shenuk Wijesinghe, who ensured their performances were outstanding.
-
-Soul Sounds Academy is committed to nurturing young talent, providing numerous opportunities for these young artists to perform on local and international stages. The academy takes immense pride in celebrating the achievements of all its medalists and their remarkable journey so far.
-
-Sri Lanka’s economy on Y-o-Y growth expansion of 5.3 percent – CBSL Governor
-
-CBSL’s decision on monetary policy rates energizes bourse; indices rise
-
-...
-
-[Data](articles/24331c42.json)
-
-[Extended Data](ext_articles/24331c42.ext.json)
-
----
-
-### Namal asks for the prime minister to support the election
-
-*2024-07-24 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199177) · `si`
-
-Namal Rajapaksa urges the Prime Minister to back an external candidate in the upcoming Presidential election, suggesting this would justify his party, the Sri Lanka Croader's Front, leading the government. This statement came after a meeting involving the Sri Lanka General Front's leaders, including Basil Rajapaksa, who also plans to meet with President Ranil Wickremesinghe.
-
-🟩
-
-Namal Rajapaksa says that if the Presidential election supports an outside candidate, the Sri Lanka Croader's Front deserves the Prime Minister of the Government.
-
-He was speaking to the media after a discussion held between the leaders of the Sri Lanka General Front today.
-
-The leaders of the Sri Lanka Civil Appointment was held today at the official residence at the Wijerama Mawatha, former President Mahinda Rajapaksa.
-
-Basil Rajapaksa, the founder of former President Mahinda Rajapaksa and the founder of the Pohottiya has joined the meeting.
-
-Meanwhile, it is reported that Basil Rajapaksa is scheduled to meet with President Ranil Wickremesinghe today, reports say.
-
-◼️
-
-[Data](articles/d5dfbb8c.json)
-
-[Extended Data](ext_articles/d5dfbb8c.ext.json)
-
----
-
-### Sri Lanka Insurance supports 1100 families in flood-affected areas
-
-*2024-07-24 22:12:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-supports-1100-families-in-flood-affected-areas/) · `en`
-
-Sri Lanka Insurance Life and Sri Lanka Insurance General, in collaboration with The Disaster Management Center, distributed dry ration packs to 1100 families affected by the recent floods in the Gampaha, Ratnapura, and Matara districts. This initiative, conducted on the 9th and 10th of July 2024, underscores the company’s commitment to supporting communities in times of need.
-
-The dry ration packs were distributed through District Secretariats, Divisional Secretariats and religious institutes, ensuring that aid reached the most affected areas efficiently. This act of service exemplifies SLIC’s dedication to social responsibility, as the company consistently engages in initiatives aimed at the betterment of the community.
-
-...
-
-[Data](articles/e36ba40d.json)
-
-[Extended Data](ext_articles/e36ba40d.ext.json)
-
----
-
-### CBSL’s decision on monetary policy rates energizes bourse; indices rise
-
-*2024-07-24 22:10:00* · [`islandlk`](http://island.lk/cbsls-decision-on-monetary-policy-rates-energizes-bourse-indices-rise/) · `en`
-
-The stock market kicked off on a bullish note yesterday. Buying interest moved up due to the Central Bank’s cutting of monetary policy rates, market analysts said.
-
-Consequently, both indices moved upwards. The All Share Price Index went up by 104.4 points, while the S and P SL20 rose by 45.40 points. Turnover stood at Rs 595 million with one crossing. The crossing was reported in HNB, which crossed 200,000 shares to the tune of Rs 37.4 million; its shares traded at Rs 187.
-
-In the retail market, top six companies that mainly contributed to the turnover were; Access Engineering Rs 49.9 million (2.2 million shares traded), Commercial Credit Rs 43 million (1.1 million shares traded), HNB (Non-Voting) Rs 34.2 million (228,000 shares traded), NDB Rs 30.6 million (426,000 shares traded), TJ Lanka Rs 30 million (749,000 shares traded) and JKH Rs 26.5 million (137,000 shares traded). During the day 20.9 million share volumes changed hands in 6408 transactions.
-
-...
-
-[Data](articles/c37fc1a3.json)
-
-[Extended Data](ext_articles/c37fc1a3.ext.json)
-
----
-
-### Elections Commission prepares for both votes
-
-*2024-07-24 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199176) · `si`
-
-The Elections Commission is ready for both the presidential and general elections, despite the interim appointment of IGP Deshabandu Tennakoon. Chairman Ratnayake assures readiness for simultaneous polls if Parliament dissolves.
-
-🟩
-
-Chairman of the Election Commission, the President of the Election Commission is not obstructed for the presidential election regarding the interim arrival of the IGP Deshabandu Tennakoon.. Mr. Ratnayake said.
-
-At a press conference held in Colombo today, he stated that if Parliament was dissolved in a particular incident, the Elections Commission was able to hold the presidential and general election.
-
-◼️
-
-[Data](articles/45f9f647.json)
-
-[Extended Data](ext_articles/45f9f647.ext.json)
-
----
-
-### India slashes import taxes on key metals, smartphones
-
-*2024-07-24 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100754/india-slashes-import-taxes-on-key-metals-smartphones) · `en`
-
-India slashed import duties on gold and silver to 6 percent from 15 percent , a move that industry officials say could boost retail demand and help curtail smuggling in the world’s second-biggest consumer of bullion.
-
-Higher demand for gold from India could boost global prices, which hit a record high this year, although that could widen India’s trade deficit and put pressure on the ailing rupee.
-
-“To enhance domestic value addition in gold and precious metal jewelry, I propose to reduce customs duties of gold and silver to 6 percent ,” Finance Minister Nirmala Sitharaman said in a budget speech on Tuesday.
-
-She also announced an import duty exemption for 25 critical minerals, including lithium.
-
-India has been exploring ways to secure supplies of lithium, a critical raw material used to make electric vehicle batteries.
-
-...
-
-[Data](articles/7f6817fe.json)
-
-[Extended Data](ext_articles/7f6817fe.ext.json)
-
----
-
-### Marata athletes dressed in Ranumbima
-
-*2024-07-24 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199175) · `si`
-
-Sri Lanka's team of 63 athletes won 54 medals at the 8th South Asia Karate Championship in Bhutan, including 5 golds, 18 silvers, and 31 bronzes. This performance was better than last year's. They have also confirmed participation in the 9th championship in 2025.
-
-🟩
-
-Sri Lankan athletes won 54 medals at the 8th South Asia Karate Championship held in Bhutan.
-
-A group of 63 members representing Sri Lanka has joined.
-
-Sri Lankan athletes won five gold medals, 18 silver medals and 31 bronze medals.
-
-It is reported that it has been made compared to the championship last year.
-
-The proposal to the 9th South Asian Karate Championship of the 9th of the year 2025 has been stable.
-
-◼️
-
-[Data](articles/29876e5e.json)
-
-[Extended Data](ext_articles/29876e5e.ext.json)
-
----
-
-### Sri Lankan women in the semi-finals
-
-*2024-07-24 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199174) · `si`
-
-In the Asia Cup Women's Cricket Tournament, Sri Lanka's women cricket team advanced to the semi-finals after defeating Thailand by 10 wickets. Despite Thailand scoring 93 runs in 20 overs, Sri Lanka achieved the target of 94 runs in just three balls.
-
-🟩
-
-Sri Lanka Cricket Women's Team (SLC) team to enter the semi-finals of the Asia Cup Women's Cricket Tournament.
-
-Thailand defeated Thailand by 10 wickets in the event.
-
-Thailand won the toss and elected to bat first.
-
-Accordingly, Thailand scored 93 runs for the loss of 7 wickets at the end of 20 overs.
-
-Sri Lanka won the target of 94 runs at the end of 94 runs in three balls.
-
-◼️
-
-[Data](articles/10118915.json)
-
-[Extended Data](ext_articles/10118915.ext.json)
-
----
-
-### Asy instead of Chameera
-
-*2024-07-24 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199173) · `si`
-
-Due to an issue, Asitha Fernando is replacing Chamara in the Sri Lanka vs India match scheduled for July 27th.
-
-🟩
-
-The Sri Lankan team and the Indian team will take place on the 27th July.
-
-Accordingly, the Asitha Fernando Reserve has been called on the reserve due to a disorder.
-
-◼️
-
-[Data](articles/6717b6fa.json)
-
-[Extended Data](ext_articles/6717b6fa.ext.json)
-
----
-
-### What happened at the Emergency Cabinet meeting?
-
-*2024-07-24 20:15:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-அமைச்சரவை-கூட்டத்தில்-நடந்தது-என்ன/175-340965) · `ta`
-
-At today's emergency cabinet meeting, chaired by the President, decisions were made to review the legality of the High Court's ruling on the Inspector General of Police and to announce the cabinet's stance within two days. Additionally, the Supreme Court issued an interim order preventing Deshabandu from continuing as Chief Minister of the Tennakoon Police and directed the President to appoint an interim Inspector General of Police.
-
-🟩
-
-Information has been revealed regarding the decision taken at a cabinet meeting headed by the President today (24).
-
-Accordingly, it has been decided to analyze the legal aspects of the High Court's decision on the Inspector General of Police and announce the decision of the Cabinet within the next two days.
-
-The Supreme Court today issued an interim order to prevent Deshabandu from serving as the Chief Minister of the Tennakoon Police.
-
-Accordingly, the Supreme Court has ordered the President to take steps to appoint the appropriate person for the post of Inspector General of Police during the interim order.. Remble
-
-◼️
-
-[Data](articles/405f71db.json)
-
-[Extended Data](ext_articles/405f71db.ext.json)
-
----
-
-### Cabinet approves special monthly allowance for pensioners
-
-*2024-07-24 20:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100753/cabinet-approves-special-monthly-allowance-for-pensioners) · `en`
-
-The Cabinet of Ministers has granted approval to provide a special monthly allowance of Rs. 3,000 to pensioners starting from September 2024 until their salary anomalies are fully addressed, according to Minister Susil Premajayantha.
-
-“A separate committee has been appointed regarding the salary disparities in the public service. The committee was appointed to solve the salary disparities in all fields at once. In the meantime, according to the committee’s own opinion, it was decided to give an allowance of Rs.3000 rupees to the pensioners from September. About 700,000 people will get that benefit”, said the minister.
-
-◼️
-
-[Data](articles/064fb878.json)
-
-[Extended Data](ext_articles/064fb878.ext.json)
 
 ---

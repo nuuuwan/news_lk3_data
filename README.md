@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 18:55:08**
+As of **2024-07-25 19:20:31**
 
 ## Newspaper Stats
 
-*Scraped **37,229** Articles*
+*Scraped **37,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,384
+adalk | 3,386
 adaderanalk | 4,309
 tamilmirrorlk | 4,585
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,229 (100.0%) of 37,229 articles have been extended.
+37,231 (100.0%) of 37,231 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,11 +104,39 @@ Amendments were incorporated to the bills during the committee stage and subsequ
 
 These two bills were presented to Parliament on 22 May 2024.
 
-◼️
+The government says the two significant bills are aimed at bolstering the country’s economy.
+
+The “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns, the State Minister of Finance Shehan Semasinghe said recently.
+
+Explaining the bills, he said the “Economic Transformation Law,” is aimed at preventing future economic collapses and that the legislation stems from the vision of President Ranil Wickremesinghe, rather than being proposed by the International Monetary Fund (IMF).
+
+...
 
 [Data](articles/a4f2eb4f.json)
 
 [Extended Data](ext_articles/a4f2eb4f.ext.json)
+
+---
+
+### All the propent of tax exemptions
+
+*2024-07-25 17:50:39* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-බිලියනයට-වැඩි-රාජ්‍ය-ප්‍රසම්පාදන-තොරතුරු-ප්‍රකාශයට---බදු-නිදහස්-කිරීම්-ලබන-සියලු-සමාගම්-ප්‍ර/11-410996) · `si`
+
+The government has approved measures to enhance anti-corruption efforts, including a comprehensive plan funded biannually, amendments to expand the Auditor General's powers, and establishing a reputation scheme for asset disclosure. These reforms aim to increase transparency, strengthen investigations, and recover illicit wealth, with specific attention to public procurement and employee benefits. Additionally, the International Monetary Fund has suggested further improvements to the anti-corruption framework.
+
+🟩
+
+Cabinet approval has been approved by the Cabinet Memorandum to the Cabinet Memorandum of the "National Agency of the Anti-Organization" in the Technical Support Report of the International Monetary Fund..
+
+The National Agest of the anti-Corruption will include a plan of anti-corruption plan for the anti-Corruption Plan, and provide sufficient budget for the action plan every six months and the implementation of the Action Plan for the action plan.It also includes the necessary provisions.
+
+2025 - 2029 The agenda has been admitted to the agenda to create an anti-corruption plan for the time period. The National Agenda also includes amending the National Audit Act No. 19, No. 19, 2018, expanding the legal authority owned by the Auditor General.
+
+...
+
+[Data](articles/6101363b.json)
+
+[Extended Data](ext_articles/6101363b.ext.json)
 
 ---
 
@@ -705,6 +733,34 @@ In this case, the Election Commission has said that the Commission has nothing t
 [Data](articles/51994398.json)
 
 [Extended Data](ext_articles/51994398.ext.json)
+
+---
+
+### A soldier commits suicide in the Kandakaduwa
+
+*2024-07-25 13:57:12* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවේ-සේවය-කළ-හමුදා-සෙබළෙක්-දිවි-නසා-ගනියි/11-410992) · `si`
+
+A soldier from the Agricultural and Livestock Forces Campawa committed suicide by burying himself alive in the cargo base of the Power Board in Kandakaduwa. The incident occurred on the morning of the 25th, and the body was found at Welikanda Hospital. Investigations are ongoing under the leadership of Welikanda Police, with Premathilaka leading the probe.
+
+🟩
+
+Welikanda Police say that the neck has been buried in the camp on the 25th morning of the 25th morning.
+
+The deceased has been identified as attached to the Agricultural and Livestock Forces Campawa. Welikanda Police said that Premathilaka is conducting further investigations.
+
+He is a resident of Welikanda address No. 57 / A Kandakada address.
+
+He has placed his body at the Welikanda Hospital.. When contacted, Rajapaksa said.
+
+Police say that he has committed suicide by buried in the cargo base of the Power Board, the power board.
+
+Investigation into the investigation, Welikanda Acting OIC Inspector RM. SI. A team of police officers including Mr. Rajapaksa
+
+◼️
+
+[Data](articles/6b7f7516.json)
+
+[Extended Data](ext_articles/6b7f7516.ext.json)
 
 ---
 
@@ -2275,53 +2331,5 @@ But the current government cannot continue to make farmers into political manipu
 [Data](articles/e46813fb.json)
 
 [Extended Data](ext_articles/e46813fb.ext.json)
-
----
-
-### Dr. Wickremabahu Karunaratne passed away
-
-*2024-07-25 08:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-விக்கிரமபாகு-கருணாரத்ன-காலமானார்/175-340991) · `ta`
-
-Dr. Wickremabahu Karunaratne, aged 81, a prominent figure from the Nava Sama Samaja Party, has passed away.
-
-🟩
-
-Dr. Wickremabahu Karunaratne, a senior politician and leader of the Nava Sama Samaja Party, passed away today at the age of 81.
-
-◼️
-
-[Data](articles/cabe0959.json)
-
-[Extended Data](ext_articles/cabe0959.ext.json)
-
----
-
-### The father arrested for a 3 year old father arrested
-
-*2024-07-25 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199185) · `si`
-
-A father in Sri Lanka was arrested after allegedly abusing his 3-year-old child. The incident was reported to the police via an SMS to the 118 emergency number. Investigations showed the man forced the child to kneel and beg for food while his wife worked abroad. The case has sparked outrage on social media.
-
-🟩
-
-Elpitiya Police have arrested a father who has made a young child to worry.
-
-The 118 SMS station has commenced on a call to the 118 SMS center that the 118-month SMS centers had been considered in the Elvinagaluwa area yesterday.
-
-Accordingly, a arrackmatiya from the Elpitiya Police Station, Karandeniya, was 24-year-old.
-
-The suspect's 24-year-old wife went abroad for employment, and the suspect and the child were at home.
-
-Police investigations have revealed that the suspect was raised by the child and kneeling the child to dweller and bowed the baby in order to demand food.
-
-Investigations have revealed that the suspected father has been sent to the foreign mother of the child to overseas.
-
-It is also observed that the video is circulated on social media.
-
-◼️
-
-[Data](articles/5e87d9c6.json)
-
-[Extended Data](ext_articles/5e87d9c6.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 02:36:01**
+As of **2024-07-26 02:54:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,285 (100.0%) of 37,286 articles have been extended.
+37,286 (100.0%) of 37,286 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,21 +102,29 @@ The need to bring legal amendments to it is that the Bikkumar Sangam council doe
 
 ---
 
-### ’பாதாள உலக குழுவினருக்கே அதிக மகிழ்ச்சி’
+### Most happy for the underworld group
 
 *2024-07-26 01:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழுவினருக்கே-அதிக-மகிழ்ச்சி/175-341049) · `ta`
 
-பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோனை பதவியிலிருந்து இடைநிறுத்தம் உயர் நீதிமன்றத்தின் தடைஉத்தரவால்  பாதாள உலக குழுவினரே அதிக மகிழ்ச்சியடைந்துள்ளனர் என அரச தரப்பு பிரதம கொறடாவும் அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்தார்.
+Chief Minister Prasanna Ranatunga expressed joy over the Supreme Court's ban, noting it pleased both the underworld group and opposition parties, who benefit from its protection. He addressed concerns raised by opposition MPs regarding the police chief's appointment, emphasizing the government's respect for judicial independence. The court's issuance of interim injunctions, including one on plantation worker salaries and another on local council appointments, was also mentioned, alongside the current ban on the Inspector General of Police.
 
-தடைஉத்தரவால்  பாதாள உலக குழுவினருக்கு அடுத்ததாக எதிர்க்கட்சியினர் மகிழ்ச்சியடைந்துள்ளனர் ஏனெனில் எதிர்க்கட்சிக்கு பாதுகாப்பு வழங்குவது பாதாள உலகக் குழுவேயாகும் என்றார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25) எதிர்க்கட்சிஎம்.பி.க்கள் பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் முன் வைத்த  கருத்துக்களுக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+State Chief Minister and Minister Prasanna Ranatunga said that the underworld of the Supreme Court has been delighted by the Supreme Court's ban.
 
-யுக்திய வேலைத் திட்டத்தின் மூலம் பாதாள உலகக் குழுவை அழி க்கும் நடவடிக்கையே மேற்கொள்ளப்படுகிறது என்பதால் எதிர்க்கட்சியினர் தம்மை பாதுகாக்கும் பாதாள உலகக் குழுவின் ஒழிப்பை பொறுத்துக் கொள்ள முடியாததால்தான்  பொலிஸ் மா அதிபர் நியமனம் தொடர்பில் தொடர்ந்தும் சிக்கல்களை உருவாக்குகின்றனர்
+Opposition parties are happy next to the underworld group because of the ban, because it is the underworld group to provide security to the opposition.
+
+He further stated in response to the comments made by the Opposition MPs in Parliament on Thursday (25) on the issue of the police chief.
+
+Opposition parties continue to create problems with the appointment of the Inspector General of Police because the opposition is unable to tolerate the abolition of the underworld that protects themselves as the underlying program is being destroyed by the underworld program.
+
+The Opposition is trying to create a stand among the people that the president, the cabinet and the government are making efforts to make the court discomfort.
 
 ...
 
 [Data](articles/54b8a335.json)
+
+[Extended Data](ext_articles/54b8a335.ext.json)
 
 ---
 

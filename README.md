@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 10:35:53**
+As of **2024-07-25 10:54:26**
 
 ## Newspaper Stats
 
-*Scraped **37,142** Articles*
+*Scraped **37,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,66 @@ colombotelegraphcom | 351
 bbccomsinhala | 363
 newsfirstlk | 363
 islandlk | 2,119
-economynextcom | 2,221
+economynextcom | 2,224
 dailyftlk | 2,372
 adalk | 3,369
-adaderanalk | 4,297
-tamilmirrorlk | 4,573
+adaderanalk | 4,298
+tamilmirrorlk | 4,574
 dailymirrorlk | 4,733
 virakesarilk | 5,824
-adaderanasinhalalk | 6,234
+adaderanasinhalalk | 6,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,137 (100.0%) of 37,142 articles have been extended.
+37,142 (100.0%) of 37,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### විජයදාසත් ජනපති සටනට
+
+*2024-07-25 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199192) · `si`
+
+2024 ජනාධිපතිවරණයේ දී අපේක්ෂකයෙක් ලෙස තමා ද ඉදිරිපත් වන බව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+◼️
+
+[Data](articles/1493e46c.json)
+
+---
+
+### වෛද්‍ය කපිල වික්‍රමනායකට ඇප
+
+*2024-07-25 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199191) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට රක්ෂිත බන්ධනාගාරගත කර සිටි වෛද්‍ය සැපයුම් අංශයේ හිටපු අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා සුදුසු කොන්දේසි මත මුදා හරින ලෙස අභියාචනාධිකරණය අද (25) මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට නියෝග කළේය.
+
+වෛද්‍ය කපිල වික්‍රමනායක මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණයේ එම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/557224f2.json)
+
+---
+
+### President vows to uphold commitment to Buddhist education despite challenges
+
+*2024-07-25 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100762/-president-vows-to-uphold-commitment-to-buddhist-education-despite-challenges) · `en`
+
+President Ranil Wickremesinghe reaffirmed his unwavering commitment to advancing Buddhist education in Sri Lanka, regardless of the challenges faced.
+
+He made this declaration during a scholarship award ceremony held at Temple Trees today (24th). At the ceremony, 3,000 scholarships were awarded to assist student monks, Seela Mathas at Piriven and Seela Matha Educational Institutions, and lay students across the country. This was part of the “Presidential Scholarship Program” 2024, organized by the President’s Fund under the directives of the President.
+
+Scholarships are being offered to student monks studying up to the Piriven (Ordinary Level), Seela Matha, and lay students studying up to G.C.E. (Ordinary Level). An amount of Rs.9, 000 has been directly credited to the accounts of these students, along with the outstanding instalments and future payments will be made monthly in instalments of Rs.3, 000.
+
+...
+
+[Data](articles/c34e15d3.json)
+
+---
 
 ### Bakery owners to announce decision on price of bread
 
@@ -50,11 +92,37 @@ However, Jayawardena atates that a final decision on whether the bread price wil
 
 [Data](articles/f0c23758.json)
 
+[Extended Data](ext_articles/f0c23758.ext.json)
+
 ---
 
-### சிறுவனை சித்திரவதை செய்த தந்தை கைது
+### Arrested father for torture of boy
 
 *2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனை-சித்திரவதை-செய்த-தந்தை-கைது/175-340997) · `ta`
+
+In Karandeniya, a man was arrested for allegedly torturing his three-year-old son to death after the child's mother, who works abroad, stopped sending money to her own mother. The incident was reported on social media, leading to the arrest. Further investigation is ongoing.
+
+🟩
+
+A father who was tortured by his three -year -old son to commit suicide was arrested from Karandeniya, Anuruthagama on Wednesday night, Elpitiya police said.
+
+While the boy's mother is working abroad, she has tortured the boy and sent the boy to his wife because she was sending money to her mother and not sending money.
+
+The woman posted on social networks about the video and posted her three -year -old boy to save her.
+
+According to the police, the suspect has been arrested and further investigations are being carried out.
+
+◼️
+
+[Data](articles/833d84a4.json)
+
+[Extended Data](ext_articles/833d84a4.ext.json)
+
+---
+
+### சிறுவன் சித்திரவதை ; தாய்க்கு காணொளி
+
+*2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவன்-சித்திரவதை-தாய்க்கு-காணொளி/175-340997) · `ta`
 
 தனது மூன்று வயது மகனுக்கு உணவு கொடுக்காமல், தற்கொலை செய்து கொள்வோம் என கூறி சித்திரவதை செய்த தந்தையொருவர் கரந்தெனிய, அனுருத்தகம பிரதேசத்தில் இருந்து புதன்கிழமை (24) இரவு கைது செய்யப்பட்டதாக எல்பிட்டிய பொலிஸார் தெரிவித்தனர் .
 
@@ -66,7 +134,7 @@ However, Jayawardena atates that a final decision on whether the bread price wil
 
 ◼️
 
-[Data](articles/833d84a4.json)
+[Data](articles/a54e5c99.json)
 
 ---
 
@@ -96,23 +164,49 @@ It “capsized and eventually submerged,” the coast guard said in a report, ad
 
 ---
 
-### ஊறுகாய்க்கு  ரூ.3,525அபராதம்
+### Pickles fined Rs. 3,525
 
 *2024-07-25 10:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊறுகாய்க்கு-ரூ-3-525அபராதம்/175-340995) · `ta`
 
-சாப்பாடு பொதியில் ஊறுகாய் வைக்காமையால் ஏற்பட்ட மன உளைச்சலுக்காக தாக்கல் செய்யப்பட்ட வழக்கில், குற்றவாளியாக இனங்கண்ட, ஹோட்டல் உரிமையாளருக்கு ரூ.3,525அபராதம் விதித்து தீர்ப்பளிக்கப்பட்டுள்ளது. அந்த அபராத ​தொகையை 45 நாட்களுக்கு வழங்குமாறும் உத்தரவிடப்பட்டுள்ளது.
+Hotel owner in Villupuram fined Rs. 3,525 for refusing to pay for 25 pickle parcels. The fine must be paid within 45 days. This incident occurred during a commemoration event for his cousin, where he failed to provide pickles as promised. Despite being asked to repeat the order, he declined, leading to the fine imposed by the Ombudsman Chairman.
 
-விழுப்புரம், வழுதரெட்டியை சேர்ந்தவர் ஆரோக்கியசாமி. அனைத்து நுகர்வோர் பொதுமக்கள் சுற்றுச்சூழல் பொதுநல சங்க மாநில தலைவராக உள்ளார்.
+🟩
 
-இவர் தன் உறவினரின் நினைவு தினத்தையொட்டி, 25 பேருக்கு அன்னதானம் வழங்குவதற்காக, 2022ஆம் ஆண்டு விழுப்புரம் புதிய பஸ் நிலையம் அருகே உள்ள ஹோட்டலில் பணம் செலுத்தி, 25 பார்சல் சாப்பாடு வாங்கிய நிலையில், அதற்கான ரசீதை தர மறுத்த ஹோட்டல் உரிமையாளர் துண்டு சீட்டில் எழுதி கொடுத்துள்ளார்.
+The hotel owner has been fined Rs.. The fine has been ordered to be paid for 45 days.
 
-வீட்டிற்கு சென்ற ஆரோக்கியசாமி, உணவு பொட்டலங்களை முதியோருக்கு வழங்கியபோது, அதில் ஊறுகாய் இல்லை. ஹோட்டல் உரிமையாளரிடம் கேட்டபோது, ஊறுகாய் வைக்காதது உறுதியானது.
+Villupuram. He is the head of the state's public welfare union.
 
-இதையடுத்து, ஊறுகாய்க்கான 25 ரூபாயை திரும்பக் கேட்டுள்ளார் ஆரோக்கியசாமி. ஆனால், ஹோட்டல் உரிமையாளர் தர மறுத்துவிட்டார்.
+On the occasion of his cousin's commemoration, the owner of the hotel, who refused to pay 25 parcels at a hotel near the Villupuram new bus station in 2022, refused to pay the receipt.
+
+When he went home, when he gave food parcels to the elderly, there was no pickle in it. When asked by the hotel owner, it was certain that the pickles were not.
+
+Subsequently, Arugasamy has asked for a repetition of 25 rupees for pickles.. But the hotel owner refused.
+
+In this case, the Chairman of the Ombudsman, who was hearing the case, ordered the hotel owner to pay 3525 rupees, Rs.
+
+◼️
+
+[Data](articles/b74d4f2f.json)
+
+[Extended Data](ext_articles/b74d4f2f.ext.json)
+
+---
+
+### Fitch confirms ‘A-(lka)’ domestic rating of National Development Bank Plc
+
+*2024-07-25 10:00:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-national-development-bank-plc-173646/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it was confirming an A-(lka) rating on Sri Lanka’s National Development Bank Plc with a Stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
+
+Fitch said it expects Sri Lanka’s stabilising macroeconomic environment to support NDB’s ability to generate and defend business volumes, but its business profile remains constrained by risks in the domestic operating environment which are still elevated.
+
+“We expect NDB to benefit from the resumption in lending, albeit modest, thereby leading to an uptick in the share of net loans in total assets (end-1Q24: 57.5%), similar to peers.”
+
+NDB’s risk profil remains tied to the credit and market risk of the sovereign, through its substantial exposure via the defaulted foreign-currency-denominated sovereign bonds (end-2023: 6.5% of assets) and a further 25.6% of assets in rupee-denominated treasury securities, the rating agency said.
 
 ...
 
-[Data](articles/b74d4f2f.json)
+[Data](articles/cc2d8147.json)
 
 ---
 
@@ -144,17 +238,23 @@ Mr. Sagala Ratnayake also said that the keynote address of the Technology Confer
 
 ---
 
-### ஜனாதிபதி வேட்பாளர் பொன்சேகா?
+### Presidential candidate Fonseka?
 
 *2024-07-25 09:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-பொன்சேகா/175-340994) · `ta`
 
-76 ஆண்டுகளாக, எங்களை திவாலான நிலைக்கு இட்டுச் சென்ற ஒரு திறமையற்ற அரசியல் குழுவால் நாங்கள் வழிநடத்தப்பட்டோம்.
+Fonseka announces his candidacy for the 2024 Sri Lankan presidential election, criticizing past leaders for leading the country to bankruptcy over 76 years.
 
-2024 ஜனாதிபதித் தேர்தலுக்கான இலங்கையின் ஜனாதிபதி வேட்பாளராக இது எனது முறையான மற்றும் உத்தியோகபூர்வ அறிவிப்பு - என்று குறிப்பிடப்பட்டுள்ளது. R
+🟩
+
+For 76 years, we were guided by an incapable political group that led us to bankruptcy.
+
+This is my formal and official announcement as the Sri Lankan presidential candidate for the 2024 presidential election -. Remble
 
 ◼️
 
 [Data](articles/34390f29.json)
+
+[Extended Data](ext_articles/34390f29.ext.json)
 
 ---
 
@@ -263,6 +363,24 @@ Meanwhile, the Election Commission will issue a notification on the presidential
 [Data](articles/8f4b67bd.json)
 
 [Extended Data](ext_articles/8f4b67bd.ext.json)
+
+---
+
+### Sri Lanka apparel exporters warn against ending VAT refund scheme
+
+*2024-07-25 09:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-apparel-exporters-warn-against-ending-vat-refund-scheme-173675/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s apparel firms have warned against ending a special value added tax (SVAT)_scheme which avoided upfront payments and protected cashflows from delays in tax refunds by the government.
+
+The SVAT scheme is due to be abolished under International Monetary Fund backed program to streamline the tax system.
+
+While authorities have committed to “significantly speed up valid VAT refunds” the apparel industry say it has not seen measurable improvements on time taken for refunds as yet, according a statement from Sri Lanka’s Joint Apparel Association Forum (JAAF).
+
+“The apparel sector is currently grappling with significant challenges in the global market, which is already being reflected in reduced export figures,” Bandula Fernando, Chairman, Sri Lanka Chamber of Garment Exporters, which represents the SME sector with JAAF said in a statement.
+
+...
+
+[Data](articles/72ea6f6e.json)
 
 ---
 
@@ -567,6 +685,26 @@ Today our youth goes to countries like the United States, Dubai and Singapore. I
 [Data](articles/b2579160.json)
 
 [Extended Data](ext_articles/b2579160.ext.json)
+
+---
+
+### Sri Lanka central bank to run out Treasury bills in few months
+
+*2024-07-25 08:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-run-out-treasury-bills-in-few-months-173657/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has a “small amount” of Treasury bill left in its balance sheet and the agency will resort to other methods to conduct domestic operations, in the future, Central Bank Governor Nandalal Weerasinghe said.
+
+The central bank’s bill stock will mature in the “next few months,” Assistant Governor Chandranath Amarasekera said.
+
+“We will deal with it when we come to that. We have several tools, we have used in the past, even the statutory reserve ratio to absorb liquidity,” Amarasekera said.
+
+“But right now based on our projections, there could be a gradual reduction in liquidity in the next few months of the year.”
+
+The central bank ended up with over three trillion rupees of domestic assets in the process of injecting liquidity and triggering balance of payments deficits and forex shortages during the last currency crisis.
+
+...
+
+[Data](articles/232ae300.json)
 
 ---
 
@@ -1376,21 +1514,27 @@ I asked the former Health Minister to provide a list of the names of the Muslims
 
 ### 2024-07-24 (Wednesday)
 
-### 30 நிகழ்வுகளை நிறுத்தியது தேர்தல் ஆணைக்குழு
+### The Election Commission stopped 30 events
 
 *2024-07-24 23:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/30-நிகழ்வுகளை-நிறுத்தியது-தேர்தல்-ஆணைக்குழு/175-340978) · `ta`
 
-அரசியல் தலையீட்டினால் ஏற்பாடு செய்யப்பட்ட சுமார் 30 நிகழ்வுகள் மற்றும் வேலைத்திட்டங்கள் ஆணைக்குழுவின் உத்தரவால் நிறுத்தப்பட்டதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+The Election Commission suspended 30 political events and halted complaint handling, citing potential disruptions to the upcoming presidential election. The Chairman emphasized the Commission's vigilance against electoral interference, promising swift action post-election announcement.
 
-ஜனாதிபதித் தேர்தல் நடைபெறும் திகதி நெருங்கி வருவதால் ஆணைக்குழு இந்த நடவடிக்கையை எடுத்துள்ளது.
+🟩
 
-ஆணைக்குழுவிற்கு கிடைக்கப்பெற்ற முறைப்பாடுகளின் பிரகாரம் அரசியல் தலையீடுகள் காரணமாக ஏற்பாடு செய்யப்பட்ட வாக்காளர்களுக்கான பொருட்கள் விநியோகம், நியமனங்கள் உள்ளிட்ட பலவேலைத்திட்டங்கள் நிறுத்தப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+The Chairman of the Elections Commission, RMAL Ratnayake, said that about 30 events and programs organized by the political intervention were suspended by the Commission.
 
-இந்த நாட்களில் சுதந்திர தேர்தலுக்கு இடையூறாக நடக்கும் சம்பவங்களை தேர்தல் ஆணையம் உன்னிப்பாக கவனித்து வருவதாக தெரிவித்த ஆணைக்குழுவின் தலைவர், ஜனாதிபதி தேர்தல் தேதி அறிவிக்கப்பட்ட பின்னர் அதிகாரிகள் குழு இதில் கடும் நடவடிக்கை எடுக்க தயாராக இருப்பதாகவும் தெரிவித்தார். R
+The Commission has taken this action as the presidential election is nearing its date.
+
+He added that the complaints received by the Commission have been halted, including the distribution of goods and appointments for voters organized due to political interventions.
+
+The Chairman of the Commission said that the Election Commission was closely looking at the events that would disrupt the independent election, and that a panel of officials would be ready to take stern action after the presidential election date was announced.. Remble
 
 ◼️
 
 [Data](articles/451940d0.json)
+
+[Extended Data](ext_articles/451940d0.ext.json)
 
 ---
 
@@ -2083,173 +2227,5 @@ The Cabinet of Ministers has decided to meet the Presidential Declaration on the
 [Data](articles/ebdf5ba1.json)
 
 [Extended Data](ext_articles/ebdf5ba1.ext.json)
-
----
-
-### Sri Lanka’s canceled Japan-funded LRT could be “possible future project”: Japanese envoy
-
-*2024-07-24 18:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-canceled-japan-funded-lrt-could-be-possible-future-project-japanese-envoy-173629/) · `en`
-
-ECONOMYNEXT – A $1.5 billion worth Light Rail Transit (LRT) project unilaterally cancelled by former Sri Lanka leader Gotabaya Rajapaksa could be considered a new possible future project, Japanese Ambassador to Sri Lanka Mizukoshi Hideaki said.
-
-Japan on Wednesday announced the resumption of 11 suspended projects in Sri Lanka after the island nation defaulted on sovereign debts and declared bankruptcy in April 2022.
-
-Sri Lanka has repeatedly requested the Japanese government to resume the LRT project, but the Japanese government has yet to commit to the project.
-
-“It was not an existing project when the projects were suspended,” Ambassador Hideaki told EconomyNext.
-
-“It needs to be considered carefully. We have to monitor the situation of the implementation of ongoing projects. Then we need to consider the economic indicators of Sri Lanka and the profitability of the project and if there are Japanese and Sri Lanka contractors to implement the project.”
-
-...
-
-[Data](articles/db52cbdf.json)
-
-[Extended Data](ext_articles/db52cbdf.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 303.55/65 to US dollar, bond yields down
-
-*2024-07-24 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-55-65-to-us-dollar-bond-yields-down-173630/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.55/65 to the US dollar on Wednesday, from 303.70/80 to the US dollar on Tuesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.30/45 percent, down from 10.40/50 percent.
-
-A bond maturing on 15.12.2027 closed at 11.60/70 percent, down from 11.55/65 percent.
-
-A bond maturing on 01.05.2028 closed at 11.75/85 percent, down from 11.80/90 percent.
-
-A bond maturing on 15.09.2029 closed at 12.02/12 percent, down from 12.05/15 percent. (Colombo/Jul24/2024)
-
-◼️
-
-[Data](articles/141a4602.json)
-
-[Extended Data](ext_articles/141a4602.ext.json)
-
----
-
-### Youth killed in train accident
-
-*2024-07-24 18:06:41* · [`adalk`](https://www.ada.lk/breaking_news/සම්මුඛ-පරීක්ෂණයට-ගිය-තරුණයා-දුම්රියේ-ගැටී-මරුට/11-410971) · `si`
-
-A 22-year-old man named Kavindu Hasana from Panadura East tragically died after colliding with a train while heading to an interview. His body was sent for a post-mortem examination at the Panadura Base Hospital. The incident occurred near Panadura town, and the police are investigating under the supervision of Inspector Wijetunga.
-
-🟩
-
-The father of Panadura has died after being hit by a train to the Panadura town to attend an interview.
-
-The deceased has been identified as the Panadura East, Panadura. The police said that Kavindu Hasana was a 22 year old youth.
-
-The victim has come to the house, claiming to attend an interview and has collided with the train traveling from Panadura and Maradana.
-
-The body was taken to the Panadura Base Hospital for the post mortem.
-
-Panadura Police Inspector (WB) WG. The Sergeant Sunil St. Sunil St. (65986) are conducting investigations on the instructions of Wijetunga.
-
-◼️
-
-[Data](articles/d9d2481a.json)
-
-[Extended Data](ext_articles/d9d2481a.ext.json)
-
----
-
-### Several ministers to court against new electronic visa
-
-*2024-07-24 17:53:58* · [`adalk`](https://www.ada.lk/breaking_news/නව-විද්‍යුත්-වීසා-ක්‍රමවේදයට-එරෙහිව-අමාත්‍යවරුන්-කිහිපදෙනෙක්-අධිකරණයට/11-410970) · `si`
-
-The Supreme Court has asked for the issuance of fundamental rights petitions regarding concerns over establishing an electronic visa system at airports, potentially compromising national security. Former ministers and the Attorney General are named respondents, with petitioners expressing fears about the system's impact on the country's safety and its potential adverse effects on citizens.
-
-🟩
-
-The Supreme Court has requested the Supreme Court to issue the fundamental rights petitions in the Supreme Court by the electronic vacant security information in the airport to be established in the airport.
-
-Former ministers, Plottalawa Champika Ranawaka, Rahuf Hakeem and Parliamentarian MA. The Attorney General has been named as the respondents of these fundamental rights petitions filed by Sumanthiran.
-
-The petitioners who point out that an electronic visa is to be established in the airport and that the country's most important security information can be threatened with the protection of the country.
-
-The petitors say that the petitors say they can face adverse effects of the people.
-
-◼️
-
-[Data](articles/e9e52de5.json)
-
-[Extended Data](ext_articles/e9e52de5.ext.json)
-
----
-
-### Supreme Court suspended to implement a circular of the Presidential Secretary
-
-*2024-07-24 17:45:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලේකම්ගේ-චක්‍රලේඛයක්-ක්‍රියාත්මක-කිරීම-ශ්‍රේෂ්ඨාධිකරණය-අත්හිටුවයි/11-410969) · `si`
-
-The Supreme Court temporarily halted the implementation of a presidential directive aimed at rural development projects, following a ban issued by the President's Secretary. This action was taken against the backdrop of allegations that the directive could be politically motivated. The court's decision came after considering a petition from the Fatherral Organization and its executive director, Rohana Hettiarachchi, who sought to challenge the directive.
-
-🟩
-
-The Secretary to the President issued a banning injunction today to settle the 'Community Interfair Committees' issued on April 29 to the implementation of rural development projects.
-
-The Supreme Court issued the interim injunction order which had been planned to be heard by the Fatherral Organization and the Executive Director Rohana Hettiarachchi, who has planned to take political advantage and complaining that the relevant committees will be heard.
-
-The petition was considered by Supreme Court Judge Vijith Malalgoda, Yasantha Kodagoda and Kumuduni Wickremasinghe.
-
-Prime Minister Dinesh Gunawardena and the Attorney General have been named as respondents to the Fatherral Organization and its Executive Director Rohana Hettiarachchi.
-
-◼️
-
-[Data](articles/ddff0312.json)
-
-[Extended Data](ext_articles/ddff0312.ext.json)
-
----
-
-### Suspect arrested for stealing parked bus
-
-*2024-07-24 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100750/suspect-arrested-for-stealing-parked-bus) · `en`
-
-An individual who was driving a stolen bus has been arrested by the Moratuwa Police in the Rawathawatta area in Mortuwa.
-
-The arrested suspect had allegedly stolen the bus while it had been parked near the Minuwanpitiya public cemetery in Panadura.
-
-The arrestee is a 52-year-old resident of the Minuwanpitiya area.
-
-◼️
-
-[Data](articles/c3f2e784.json)
-
-[Extended Data](ext_articles/c3f2e784.ext.json)
-
----
-
-### A horror story from the inside of the refugee - the diary of someone who witnessed the July 1983 riots
-
-*2024-07-24 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189273) · `ta`
-
-In July 1983, the author, a witness to the horrific Tamil-Sinhalese riots, begins documenting their experiences in a refugee camp. They recount witnessing violence, including the killing of 13 Tamils in Jaffna, which sparked widespread retaliation. The diary details the chaos and fear experienced during the riots, highlighting the brutal attacks and the desperate search for safety.
-
-🟩
-
-On July 27, 1983, I decided to write a quarter at the refugee of the Air Force Air Force.
-
-It was only after I saw thousands of Tamils ​​who lost their homes as an unexpected violence that had been unleashed on the morning of Monday 25th, and I decided to record the events in the quarter.
-
-Many people lost their loved ones, and many were killed by Sinhalese.
-
-I begin this diary with the firm belief that someday the people who call themselves Sinhalese Buddhists can someday be carried to the civilized world or somebody.
-
-I am going to inform you about the things that took place at this camp and my personal experiences before sheltering at the Ratmalana Airport.
-
-I am going to share their experiences with other refugees in this camp.
-
-I went to my office in Maharagama. I went to the bus station on the road.
-
-About 30 people were attacking a person a short distance from where I was standing.
-
-...
-
-[Data](articles/c8d7a1c7.json)
-
-[Extended Data](ext_articles/c8d7a1c7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 08:04:13**
+As of **2024-07-25 08:17:32**
 
 ## Newspaper Stats
 
-*Scraped **37,105** Articles*
+*Scraped **37,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ adaderanalk | 4,290
 tamilmirrorlk | 4,563
 dailymirrorlk | 4,733
 virakesarilk | 5,820
-adaderanasinhalalk | 6,225
+adaderanasinhalalk | 6,228
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,105 (100.0%) of 37,105 articles have been extended.
+37,105 (100.0%) of 37,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### වික්‍රමබාහු කරුණාරත්න අභාවප්‍රාප්ත වෙයි
+
+*2024-07-25 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199184) · `si`
+
+නව සම සමාජ පක්ෂයේ නායක ආචාර්ය වික්‍රමබාහු කරුණාරත්න මහතා අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/b9bad4ae.json)
+
+---
+
+### නිවසක් තුළ තවත් සැකකටයුතු මරණයක්
+
+*2024-07-25 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199183) · `si`
+
+ඉලවාලි පොලිස් වසමේ පණ්ඩතිරිප්පුව ප්‍රදේශයේ නිවසක පුද්ගලයෙකු මියගොස් ඇතැයි පොලීසියට ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කර තිබේ.
+
+පොලීසිය පැවසුවේ එලෙස මියගොස් ඇත්තේ 74 හැවිරිදි සෙට්ටිකුරිච්චි, පණ්ඩතිරිප්පු ප්‍රදේශයේ පදිංචිකරුවෙකු බවය.
+
+අසල්වාසියෙක් විසින් මියගිය පුද්ගලයාගේ නිවස දෙසින් දැඩි දුර්ගන්ධයක් හමා ඒම හේතුවෙන් පරීක්ෂා කිරීමේ දී මෘත දේහය එම නිවසෙහි ඉදිරිපිට කොරිඩෝවෙහි තිබෙනු දැක පසුව පොලීසිය දැනුවත් කර තිබේ.
+
+මරණයට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර මෘත දේහය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණයෙන් පසු පශ්චාත් මරණ පරීක්ෂණය සඳහා යාපනය රෝහල වෙත මෘත දේහය රැගෙන ගොස් ඇත.
+
+◼️
+
+[Data](articles/8ebbce7e.json)
+
+---
+
+### පාන් මිල ගැන තීරණය හෙට
+
+*2024-07-25 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199182) · `si`
+
+පාන් මිල අඩු කිරීම සම්බන්ධයෙන් හෙට (26) දිනයේ දී ප්‍රකාශයක් සිදුකරන බව සමස්ථ ලංකා බේකරි හිමියන්ගේ සංගමය පවසයි.
+
+එහි සභාපති එන්.කේ ජයවර්ධන මහතා සඳහන් කළේ, පාන් මිල අඩු කිරීම සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් ඊයේ (24) දිනයේ දී පැවති බවය.
+
+එහෙත් පාන් මිල අඩුකිරීම සම්බන්ධයෙන් එහිදී අවසන් එකඟතාවයකට පැමිණීමට නොහැකි වු බව එන්.කේ ජයවර්ධන මහතා සඳහන් කළේය.
+
+පාන් මිල අඩු කිරීමට නිෂ්පාදකයින් පියවර නොගන්නේ නම් පාන් සඳහා පාලන මිලක් ප්‍රකාශයට පත්කරන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පසුගිය දා ප්‍රකාශ කළේය.
+
+ඒ අනුව පාන් ඇතුළු බේකරි නිෂ්පාදනවල මිල ගණන් අඩු කිරීම සම්බන්ධයෙන් බේකරි නිෂ්පාදකයින්ගේ අවධානය යොමුව තිබේ.
+
+කෙසේවෙතත් මිල අඩු කිරීමක් සිදුකරන්නේ ද? නැද්ද? යන්න පිළිබඳව හෙට දිනයේ දී අවසන් තීන්දුවකට පැමිණීමට බලාපොරොත්තු වන බව සමස්ථ ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති එන්.කේ ජයවර්ධන මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/01b9c9f1.json)
+
+---
 
 ### The Election Commission gains on final decision
 
@@ -2241,69 +2293,5 @@ The administration of the school cannot be conducted as a few people say. He sai
 [Data](articles/cc8e118e.json)
 
 [Extended Data](ext_articles/cc8e118e.ext.json)
-
----
-
-### Fitch confirms ‘A(lka)’ domestic rating of Sampath Bank Plc
-
-*2024-07-24 14:37:00* · [`economynextcom`](https://economynext.com/fitch-confirms-alka-domestic-rating-of-sampath-bank-plc-173579/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it was confirming a national long-term A(lka) rating on Sri Lanka’s Sampath Bank Plc with a stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
-
-The bank had stage 3 loans of nearly 17 percent at end-1Q24 (2023: 16.6 percent).
-
-Fitch expected this ratio to decrease in the near- to medium-term alongside focused recoveries.
-
-“We expect Sampath’s impaired (stage 3) loans ratio to decline gradually in the medium term, due to its recovery efforts, improvements in repayment capacity of borrowers from the stabilisation in economic conditions, and moderate loan book growth.”
-
-The bank also had defaulted sovereign bonds. “Defaulted foreign-currency sovereign bonds, which accounted for 1.9% of assets, had impairments amounting to 52% of its holdings as of end-1Q24.”
-
-...
-
-[Data](articles/ebd1136c.json)
-
-[Extended Data](ext_articles/ebd1136c.ext.json)
-
----
-
-### History: 700 missing in 'Black July' Violence;300 killed!- 1984 Veerakesari ....
-
-*2024-07-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189261) · `ta`
-
-In July 1983, also known as Black July, 700 people went missing and 300 were killed in a genocide, as reported by Veerakesari in 1984.
-
-🟩
-
-It was reported that 700 people were missing and 300 were killed during the genocide in July 1983.
-
-◼️
-
-[Data](articles/2cb4df5c.json)
-
-[Extended Data](ext_articles/2cb4df5c.ext.json)
-
----
-
-### Fire at the Kalutara Divisional Secretariat
-
-*2024-07-24 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189247) · `ta`
-
-A fire erupted on the ground floor of the six-story Kalutara Divisional Secretariat building on Wednesday, prompting the arrival of two fire trucks from the Kalutara Municipal Council Fire Division. A firefighter suffered suffocation and was hospitalized during the efforts to control the blaze.
-
-🟩
-
-The fire broke out at the Kalutara Divisional Secretariat building on Wednesday (24), police said.
-
-A fire has been reported to have been reported on the ground floor of the six -storey Kalutara Divisional Secretariat building.
-
-The Kalutara Municipal Council Fire Division has sent two fire trucks to extinguish the fire.
-
-A firefighter who was working on the fire has been admitted to the hospital due to suffocation.
-
-◼️
-
-[Data](articles/948e9048.json)
-
-[Extended Data](ext_articles/948e9048.ext.json)
 
 ---

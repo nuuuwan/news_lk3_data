@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 03:36:37**
+As of **2024-07-26 03:54:16**
 
 ## Newspaper Stats
 
-*Scraped **37,300** Articles*
+*Scraped **37,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,120
 economynextcom | 2,238
-dailyftlk | 2,388
+dailyftlk | 2,389
 adalk | 3,393
 adaderanalk | 4,313
-tamilmirrorlk | 4,592
+tamilmirrorlk | 4,593
 dailymirrorlk | 4,733
 virakesarilk | 5,862
 adaderanasinhalalk | 6,255
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,297 (100.0%) of 37,300 articles have been extended.
+37,299 (100.0%) of 37,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Principles and proposals for political and constitutional reform for democracy: Part I
+
+*2024-07-26 03:24:24* · [`dailyftlk`](https://www.ft.lk/opinion/Principles-and-proposals-for-political-and-constitutional-reform-for-democracy-Part-I/14-764783) · `en`
+
+An agenda for restoring democratic government calls for major changes in the Constitution as well as the system of government
+
+2024 is a year of elections to choose a new President and possibly a new Parliament. In that context, the theme of political and constitutional reforms has once again begun to draw the attention of the citizens, civil society movements and political parties. It is necessary to recognise that any constitutional reform effort should have two main goals. They are (a) restoring the country’s parliamentary democracy and (b) replacing, not just reforming, the existing 1978 Constitution with a new and democratic constitution. A new constitution should also give effect to the democratising hopes of the people of Sri Lanka.
+
+Therefore, an agenda for restoring democratic government calls for major changes in the Constitution as well as the system of government.
+
+...
+
+[Data](articles/b14d1cad.json)
+
+---
 
 ### Sri Lanka’s next President
 
@@ -46,6 +62,8 @@ This is the season for that kind of thing, so the timing is not bad at all. Afte
 
 [Data](articles/bc4f9458.json)
 
+[Extended Data](ext_articles/bc4f9458.ext.json)
+
 ---
 
 ### Resource-rich, policy-poor: Sri Lanka’s flagging growth sectors
@@ -59,6 +77,8 @@ Sri Lanka sits on a wealth of resources, but let it all go to waste. Agriculture
 ...
 
 [Data](articles/aea18543.json)
+
+[Extended Data](ext_articles/aea18543.ext.json)
 
 ---
 
@@ -345,6 +365,24 @@ The need to bring legal amendments to it is that the Bikkumar Sangam council doe
 [Data](articles/706cc173.json)
 
 [Extended Data](ext_articles/706cc173.ext.json)
+
+---
+
+### அமுல்படுத்துவது யார்?
+
+*2024-07-26 01:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமுல்படுத்துவது-யார்/175-341050) · `ta`
+
+பொலிஸ் மா அதிபர் தொடர்பான  நீதிமன்ற தீர்ப்பை யார் நடைமுறைப்படுத்துவது என்பதே தற்போதுள்ள பிரச்சினை. ஆகவே, அந்த தீர்ப்பு  அரசியலமைப்பு பேரவைக்கு சமர்ப்பிக்கப்படவுள்ளதாக சபை முதல்வரும்  அமைச்சருமான  சுசில் பிரேம ஜயந்த  தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை (25)  தேசபந்து தென்னக்கோன் பொலிஸ் மா அதிபராக பணியாற்றுவதை தடை செய்து உயர் நீதிமன்றத்தினால் விடுக்கப்பட்டுள்ள தடையுத்தரவு தொடர்பில்   கருத்து தெரிவிக்கும் போதே   இவ்வாறு  தெரிவித்தார்.
+
+17 ஆவது அரசியலமைப்புத் திருத்தம் ஆரம்பத்தின் போதே அரசியலமைப்பு பேரவை ஆரம்பிக்கப்பட்டது.ஜனாதிபதியின் நிறைவேற்று அதிகாரம் தான் அரசியலமைப்பு பேரவைக்கு வழங்கப்பட்டுள்ளது. நிறைவேற்று அதிகாரத்தின் மாற்றம் 21 ஆவது திருத்தத்தில் 7(அ) வில் காணப்படுகிறது. அதன்படி அரசியலமைப்பு பேரவை நிறைவேற்றுத் துறையின் ஒரு பகுதியே.
+
+அதனால், அது தொடர்பில் அமைச்சரவையில் பேச முடியாது. அது தொடர்பில் கலந்துரையாடினாலும் அமைச்சரவையால் தீர்மானம் எடுக்க முடியாது. சில நியமனங்களை அரசியலமைப்பு பேரவை அனுமதிக்க வேண்டும். பொலிஸ் மா அதிபர் நியமனத்திலும் அது பொருந்தும்.
+
+...
+
+[Data](articles/e5c22c11.json)
 
 ---
 
@@ -2269,49 +2307,5 @@ Hospital sources said the situation of the other officer who was attacked was no
 [Data](articles/f873288c.json)
 
 [Extended Data](ext_articles/f873288c.ext.json)
-
----
-
-### President's final decision on presidential election
-
-*2024-07-25 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199196) · `si`
-
-The Elections Commission will announce the presidential election date tomorrow, including nomination laws, dates, and locations. The Chairman denies responsibility for statements made by the Presidential Election and Statutory Functions.
-
-🟩
-
-The Elections Commission has decided to publish the date on the presidential election tomorrow.
-
-The Elections Commission (EPL) has stated in an announcement to elect the law, nomination date and location and the date of informing the date of nomination.
-
-The Chairman of the Elections Commission, the Chairman of the Election Commission of Elections Commission is not responsible for the statement made by the Presidential Election and Statutory Functions.. Ratnayake has stated in the statement.
-
-◼️
-
-[Data](articles/021508a3.json)
-
-[Extended Data](ext_articles/021508a3.ext.json)
-
----
-
-### Bail to the former Director of Drug Distribution Division
-
-*2024-07-25 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189344) · `ta`
-
-The Court of Appeal has ordered the release of Dr. Kapila Wickramanayake, ex-Director of Health Ministry's Medical Distribution Division, pending trial on charges related to importing non-standard immunoglobulin drugs. The decision comes after considering his writ petition challenging the initial court order.
-
-🟩
-
-The Court of Appeal has ordered the Magistrate's Court to release Dr. Kapila Wickramanayake, the former Director of the Health Ministry's Medical Distribution Division, who was interrogated on charges of importing non -standard immunoglobulin drugs.
-
-The Court of Appeal, considering the writ petition filed by Dr. Kapila Wickramanayake, has ordered the Magistrate's Court to release him under appropriate bail conditions.
-
-The Magistrate's Magistrate had submitted this petition to challenge the sentence of the court and release him on bail.
-
-◼️
-
-[Data](articles/eba17369.json)
-
-[Extended Data](ext_articles/eba17369.ext.json)
 
 ---

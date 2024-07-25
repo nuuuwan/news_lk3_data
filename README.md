@@ -1,50 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 13:20:30**
+As of **2024-07-25 13:36:00**
 
 ## Newspaper Stats
 
-*Scraped **37,179** Articles*
+*Scraped **37,183** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 323
+dbsjeyarajcom | 325
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 364
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,374
+adalk | 3,375
 adaderanalk | 4,301
 tamilmirrorlk | 4,583
 dailymirrorlk | 4,733
 virakesarilk | 5,831
-adaderanasinhalalk | 6,238
+adaderanasinhalalk | 6,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,178 (100.0%) of 37,179 articles have been extended.
+37,179 (100.0%) of 37,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ජනපති අපේක්ෂකත්වයෙන් ඉවත්වූ හේතුව බයිඩන් හෙළිකරයි
+### නුවන් තුෂාරත් තුවාල ලබයි
+
+*2024-07-25 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199195) · `si`
+
+ඊයේ (24) රාත්‍රියේ පුහුණුවීම් අතරතුර පන්දු රැකීමේ දී ඇඟිල්ලක් ආබාධයකට ලක්වීම හේතුවෙන් ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක නුවන් තුෂාර ඉන්දීය තරගාවලියෙන් ඉවත් කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සඳහන් කර ඇත්තේ ඔහුගේ ඇඟිල්ලේ අස්ථී බිඳීමක් සිදුව ඇති බවය.
+
+මේ අතර ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක දුෂ්මන්ත චමීර ට ඉන්දියාව සමග පැවැත්වෙන තරගාවලිය අහිමි වුණි.
+
+එක්දින තරග 3කට සහ 20යි විස්ස තරග 3කට සහභාගී වීම සඳහා ඉන්දීය කණ්ඩායම මේ වනවිට ශ්‍රී ලංකාවට පැමිණ සිටියි.
+
+◼️
+
+[Data](articles/69faef03.json)
+
+---
+
+### Bideen reveals why the President's candidate
 
 *2024-07-25 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199194) · `si`
 
-2024 අමෙරිකානු ජනාධිපතිවරණයේ ඩිමොක්‍රටික් පක්ෂ අපේක්ෂකත්වයෙන් ඉවත් වීමට අමෙරිකානු ජනාධිපති ජෝ බයිඩන් පසුගියදා පියවර ගෙන තිබුණි.
+Joe Biden dismissed UMCatic candidates due to pressure from Democratic Party leaders like Nancy Pelosi, aiming to maintain party unity and uphold democratic values.
 
-අපේක්ෂකත්වයෙන් බයිඩන් ඉවත්විය යුතු බවට හිටපු කථානායිකා නැන්සි පොලොසි ඇතුළු ඩිමොක්‍රටික් පක්ෂයේ ප්‍රමුඛයින් පවා මත පළ කිරීමත් සමඟ එල්ල වූ පීඩනය බයිඩන්ගේ එම තීරණයට හේතුවක් වූ බව නොරහසකි.
+🟩
 
-කෙසේ වුවද තමන් අපේක්ෂකත්වයෙන් ඉවත් වුයේ සිය පක්ෂයේ එක්සත් බව වෙනුවෙන් සහ රටේ ප්‍රජාතන්ත්‍රවාදයට ගරු කරමින් බව ජනපති බයිඩන් පවසයි.
+The US President Joe Biden had taken steps to dismiss the UMCatric parties in the US presidential election.
+
+It is no secret that the pressure was made by the Prime Minister of Democratic Party, including former Speaker Nancy Poulties, which had to leave the candidate.
+
+However, President Biden says he has left the candidate and respecting the unity of the party and the democracy of the country.
 
 ◼️
 
 [Data](articles/fd633d64.json)
+
+[Extended Data](ext_articles/fd633d64.ext.json)
 
 ---
 
@@ -213,6 +237,18 @@ If any side tries to violate the court order, it will be considered a contempt o
 [Data](articles/7a72f660.json)
 
 [Extended Data](ext_articles/7a72f660.ext.json)
+
+---
+
+### විශ්‍රාමිකයන්ට රු. 3000ක දීමනාවක්
+
+*2024-07-25 11:19:36* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයන්ට-රු--3000ක-දීමනාවක්/11-410983) · `si`
+
+රාජ්‍ය සේවයේ විශ්‍රාමිකයන් සඳහා රුපියල් 3000ක විශේෂ මාසික දීමනාවක් ලබාදීමට කැබිනට් මණ්ඩල අනුමැතිය හිමිව තිබේ.  ඊයේ (24දා) රැස්වූ කැබිනට් මණ්ඩල රැස්වීමේදී මෙම තීරණය ගෙන ඇත. ඒ අනුව මෙම විශේෂ මාසික දීමනාව 2024 සැප්තැම්බර් මස සිට වැටුප් විෂමතා නිවැරදි කරන තෙක් ගෙවීමට නියමිතය.
+
+◼️
+
+[Data](articles/23d7b4b6.json)
 
 ---
 
@@ -1828,6 +1864,26 @@ In Sri Lanka, fear is pervasive. Suppression of media and fundamental rights of 
 
 ---
 
+### My Family’s “Black July” Experience: A Personal Memoir.
+
+*2024-07-25 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84405) · `en`
+
+The anti-Tamil pogrom of July 1983 is an unforgettable chapter in the post-independence history of Sri Lanka.  The catastrophic events of that dark month  drastically affected  the lives of large numbers of Tamils in Sri Lanka.
+
+As a Sri Lankan Tamil journalist, Black July did have an effect on me in both personal and professional capacities. Furthermore my family – like thousands of other Tamil families – was also affected and displaced during those turbulent times.
+
+Although I have been writing  extensively about Black July in the past, I did not write about those happenings from a personal perspective  for many,many years.
+
+I  refrained for a long time  from writing about the impact of Black July on our family for two reasons. Firstly I was spared the full blast of that violence because I was not in Colombo then. I was on assignment to cover the Tamil United Liberation Front (TULF) party convention in Mannar.
+
+...
+
+[Data](articles/e547085f.json)
+
+[Extended Data](ext_articles/e547085f.ext.json)
+
+---
+
 ### A real minimum wage can set ground for productivity gains
 
 *2024-07-25 03:32:15* · [`dailyftlk`](https://www.ft.lk/opinion/A-real-minimum-wage-can-set-ground-for-productivity-gains/14-764706) · `en`
@@ -2134,6 +2190,32 @@ Gotabhaya Rajapaksa's cabinet made a wrong decision on the issue of burglary tar
 
 ---
 
+### Justice, Prison Affairs and Constitutional Reforms Minister Wijeyadasa Rajapakshe announced he will Contest for President in the upcoming presidential election; says “I am coming forward as a candidate for the victory of Sri Lanka state and its people,”
+
+*2024-07-25 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84428) · `en`
+
+Sri Lanka’s Justice, Prison Affairs and Constitutional Reforms Minister Wijeyadasa Rajapakshe announced he will be running for president at the upcoming presidential election.
+
+“I am coming forward as a candidate for the victory of Sri Lanka state and its people,” Rajapakshe told reporters at the Independence Arcade on Thursday.
+
+Rajapakshe said short sighted policies led to an economic crisis and poverty.
+
+Announcing his manifesto, the minister said special banks were needed for entrepreneurs, and that the State sector has to be made efficient and the private sector sector has to be regulated.
+
+Friendship has to be maintained with all countries with a priority on neighbors, Rajapakshe said.
+
+He claimed to have already brought a law to strengthen a bribery commission, and that he has signed a cabinet paper on proceeds of crime bill today.
+
+The minister said he has taken steps to bring about national reconciliation.
+
+“There is no bar against being a minister and running for president.”
+
+◼️
+
+[Data](articles/1c2c63c5.json)
+
+---
+
 ### Limit the tariff
 
 *2024-07-25 00:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டணத்தை-லட்சமாக்கவும்/175-340980) · `ta`
@@ -2159,115 +2241,5 @@ The Elections Commission has asked the then President Gotabhaya Rajapaksa to ame
 [Data](articles/e784a49e.json)
 
 [Extended Data](ext_articles/e784a49e.ext.json)
-
----
-
-### Janaasas combustion;Cannot accept the pardon
-
-*2024-07-25 00:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாஸாக்கள்-எரிப்பு-மன்னிப்பை-ஏற்கமுடியாது/175-340979) · `ta`
-
-Muslims in Sri Lanka protest against the cremation of their deceased due to COVID-19, demanding transparency and justice. They reject government apologies aimed at political gain, calling for accountability and compensation. Leaders emphasize the need for naming those responsible and ensuring the Muslim community's rights are protected.
-
-🟩
-
-The Cabinet resolution cannot be accepted for the cremation of the Janasas of the Muslims who died in Corona.The Muslim community will never be disappointed.
-
-The Muslims who died by Corona are also demanding who made the decision to cremate the Janasas.
-
-They said they would not be deceived by the pardon that aims to protect the Rajapaksas in the presidential election and protect the Rajapaksa.
-
-Sri Lanka Muslim Congress leader and MP Rauf Hakeem, who made a special claim in Parliament, said,
-
-I asked the former Health Minister to provide a list of the names of the Muslims who were burned in Corona. He replied, "There is no such information," the move to cover the truth. Therefore, the government should give the list of names of Muslims under cremation. .
-
-...
-
-[Data](articles/0bbe5b0a.json)
-
-[Extended Data](ext_articles/0bbe5b0a.ext.json)
-
----
-
-### 2024-07-24 (Wednesday)
-
-### The Election Commission stopped 30 events
-
-*2024-07-24 23:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/30-நிகழ்வுகளை-நிறுத்தியது-தேர்தல்-ஆணைக்குழு/175-340978) · `ta`
-
-The Election Commission suspended 30 political events and halted complaint handling, citing potential disruptions to the upcoming presidential election. The Chairman emphasized the Commission's vigilance against electoral interference, promising swift action post-election announcement.
-
-🟩
-
-The Chairman of the Elections Commission, RMAL Ratnayake, said that about 30 events and programs organized by the political intervention were suspended by the Commission.
-
-The Commission has taken this action as the presidential election is nearing its date.
-
-He added that the complaints received by the Commission have been halted, including the distribution of goods and appointments for voters organized due to political interventions.
-
-The Chairman of the Commission said that the Election Commission was closely looking at the events that would disrupt the independent election, and that a panel of officials would be ready to take stern action after the presidential election date was announced.. Remble
-
-◼️
-
-[Data](articles/451940d0.json)
-
-[Extended Data](ext_articles/451940d0.ext.json)
-
----
-
-### Nearly Presidential Elections - Election Commission
-
-*2024-07-24 23:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருங்கிவரும்-ஜனாதிபதித்-தேர்தல்-நிறுத்தியது-தேர்தல்-ஆணைக்குழு/175-340978) · `ta`
-
-The Elections Commission suspended over 30 political events and halted complaint handling, citing potential disruptions to the upcoming presidential election. The Chairman emphasized the Commission's vigilance against electoral interference, promising swift action post-election announcement.
-
-🟩
-
-The Chairman of the Elections Commission, RMAL Ratnayake, said that about 30 events and programs organized by the political intervention were suspended by the Commission.
-
-The Commission has taken this action as the presidential election is nearing its date.
-
-He added that the complaints received by the Commission have been halted, including the distribution of goods and appointments for voters organized due to political interventions.
-
-The Chairman of the Commission said that the Election Commission was closely looking at the events that would disrupt the independent election, and that a panel of officials would be ready to take stern action after the presidential election date was announced.. Remble
-
-◼️
-
-[Data](articles/9ef32a52.json)
-
-[Extended Data](ext_articles/9ef32a52.ext.json)
-
----
-
-### Cucumber…this week, too
-
-*2024-07-24 23:29:00* · [`islandlk`](http://island.lk/cucumberthis-week-too/) · `en`
-
-Wow! I had lots of interesting comments coming my way regarding my Cucumber Beauty Tips.
-
-Some even mentioned that markets had run out of cucumber! (Lol).
-
-Okay, then you better go searching for cucumber as, this week, too, I’ve got cucumber for you.
-
-You will need 01/4th grated cucumber and 01 tablespoon aloe vera gel or juice.
-
-Grate the cucumber and aloe vera gel and apply the mixture on the face and also on your neck.
-
-Leave it on for 15 minutes and then wash it off with warm water.
-
-(This cucumber face pack will rejuvenate your skin and make it glow.)
-
-You will need 1/4th cucumber and 01 tablespoon almond butter.
-
-Peel the cucumber and cut it into small pieces and then add the almond butter and blend them.
-
-You will need 1/4th cucumber and 02 tablespoons curd/yoghurt (plain).
-
-Grate the cucumber to form a pulp Mix the yoghurt and cucumber pulp to make a paste and apply the paste on your face. Wash off with warm water after 15 minutes.
-
-...
-
-[Data](articles/530e5cdc.json)
-
-[Extended Data](ext_articles/530e5cdc.ext.json)
 
 ---

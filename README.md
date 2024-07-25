@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 17:05:34**
+As of **2024-07-25 17:20:27**
 
 ## Newspaper Stats
 
-*Scraped **37,219** Articles*
+*Scraped **37,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,95 @@ adaderanalk | 4,306
 tamilmirrorlk | 4,585
 dailymirrorlk | 4,733
 virakesarilk | 5,845
-adaderanasinhalalk | 6,245
+adaderanasinhalalk | 6,248
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,216 (100.0%) of 37,219 articles have been extended.
+37,219 (100.0%) of 37,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### “பொலிஸ் மா அதிபர் பதவி வெற்றிடமாக இல்லை”
+### දූෂණ විරෝධය පිළිබඳ ජාතික න්‍යාය පත්‍රය ක්‍රියාත්මක කිරීමේ යෝජනාවට කැබිනට් අනුමැතිය
+
+*2024-07-25 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199205) · `si`
+
+“දූෂණ විරෝධය පිළිබඳ ජාතික න්‍යාය පත්‍රය” ක්‍රියාත්මක කිරීම සඳහා පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ  සංදේශය සඳහා අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
+
+ජනාධිපති මාධ්‍ය අංශය පවසන්නේ, ජාත්‍යන්තර මූල්‍ය අරමුදලේ පාලන විනිශ්චය තක්සේරුවේ තාක්ෂණික සහාය පිළිබඳ වාර්තාවේ දක්වා ඇති දූෂණ විරෝධය සඳහා වන නෛතික, සංවිධානාත්මක සහ ක්‍රමෝපායික රාමුවට අනුකූලව මෙය ඉදිරිපත් කර ඇති බවය.
+
+දූෂණ විරෝධය පිළිබඳ ජාතික න්‍යාය පත්‍රයට ප්‍රධාන ක්‍රියාකාරි පියවර කිහිපයක් අන්තර්ගත වන අතර 2023 වසරේ සම්මත කරගන්නා ලද දූෂණ විරෝධී පනත පූර්ණ වශයෙන් බලාත්මක කිරීම, ඒ සඳහා ක්‍රියාකාරී සැලැස්මක් සකස් කිරීම, මාස හයකට වරක් එකී ක්‍රියාකාරී සැලැස්මේ ප්‍රගතිය සමාලෝචනය කිරීම සහ ක්‍රියාකාරී සැලැස්මට අවශ්‍ය ප්‍රමාණවත් අයවැය ප්‍රතිපාදන ලබාදීම සඳහා ද අවශ්‍ය විධිවිධාන එහි අන්තර්ගත වෙයි.
+
+...
+
+[Data](articles/55098f38.json)
+
+---
+
+### ගතවූ සති 03 තුළ සංචාරකයින් 127,925ක් ඇවිත්
+
+*2024-07-25 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199204) · `si`
+
+මේ මස ගතවූ සති 03 තුළ සංචාරකයින් 120,000කට අධික පිරිසක් දිවයිනට පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+
+ඒ අනුව එම කාලය තුළ ශ්‍රී ලංකාවට පැමිණ ඇති  සංචාරකයින් සංඛ්‍යාව 127,925කි.
+
+ඉන් වැඩි පිරිසක් ඉන්දීය ජාතිකයින් වන අතර එම සංඛ්‍යාව 30,442ක් වෙයි.
+
+ඊට අමතරව බ්‍රිතාන්‍ය, චීන, ජර්මනි, නෙදර්ලන්තය වැනි රටවලින් ද සංචාරකයින් දිවයිනට පැමිණ තිබේ.
+
+ඒ අනුව මේ වසරේ මේ දක්වා කාලය තුළ සංචාරකයින් 11 ලක්ෂ 38,174 දෙනෙකු දිවයිනට පැමිණ ඇති බවද  ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/919cf14f.json)
+
+---
+
+### “The post of Inspector General of Police is not void"
 
 *2024-07-25 16:48:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-மா-அதிபர்-பதவி-வெற்றிடமாக-இல்லை/175-341025) · `ta`
 
-உயர் நீதிமன்றத்தின் தீர்ப்பினால் பொலிஸ் மா அதிபருக்கு இடைக்கால தடை உத்தரவு வழங்கப்பட்டுள்ளதே தவிர, பொலிஸ் மா அதிபர் பதவி    வெற்றிடமில்லை என ஜனாதிபதிக்கு சட்ட ஆலோசனை கிடைத்துள்ளது.
+The High Court issued an interim injunction against the Inspector General of Police, but it's advised the position isn't vacant due to legal advice received by the President. A senior minister stated, according to the 21st Amendment, the President cannot appoint an Inspector General of Police. Until the legal dispute is settled, the post remains vacant, as per government sources. The Supreme Court ruled that the Inspector General of Police was hindering his duties, as mentioned by the Senior Minister.
 
-அரசியலமைப்பின் 21ஆவது திருத்தத்தின் பிரகாரம், பொலிஸ் மா அதிபரின் பதவி வெற்றிடமாக இல்லாத நிலையில், ஜனாதிபதியால் பதில் பொலிஸ் மா அதிபர் ஒருவரை நியமிக்க முடியாது என அரசாங்கத்தின் சிரேஷ்ட அமைச்சர் ஒருவர் தெரிவித்துள்ளார்.
+🟩
 
-இதன்காரணமாக, சம்பந்தப்பட்ட சட்டப் பிரச்சினை தீர்க்கப்படும் வரை, பொலிஸ் மா அதிபர் பதவி வெற்றிடமாகவே  இருக்கும் என, அரசு வட்டாரங்கள் தெரிவிக்கின்றன.
+The High Court's decision has been given an interim injunction to the Inspector General of Police and the President has received legal advice that the Inspector General of Police is not vacant.
 
-உயர் நீதிமன்றத்தின் தீர்ப்பின்படி, பொலிஸ் மா அதிபர் தனது கடமைகளை மேற்கொள்வதில் மாத்திரமே தடையாக இருந்ததாக அரசாங்கத்தின் சிரேஷ்ட அமைச்சர் தெரிவித்துள்ளார்.
+According to the 21st Amendment to the Constitution, a senior minister of the government has said that the president cannot appoint a Inspector General of Police in response to the president.
+
+For this reason, government sources said that until the relevant legal issue is resolved, the post of Inspector General of Police will remain vacant.
+
+According to the Supreme Court ruling, the Senior Minister of the Government said that the Inspector General of Police was only an obstacle from carrying out his duties.
 
 ◼️
 
 [Data](articles/263f27a4.json)
+
+[Extended Data](ext_articles/263f27a4.ext.json)
+
+---
+
+### නිලන්ත ජයවර්ධන ට එරෙහි පෙත්සමට විරෝධතා ගොනු කිරීමට කල්දෙයි
+
+*2024-07-25 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199203) · `si`
+
+රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන මහතාට එරෙහිව නීතිමය පියවර ගන්නා ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සමට විරෝධතා ගොනු කිරීම සඳහා අභියාචනාධිකරණය නීතිපතිවරයාට කල් ලබාදී තිබේ.
+
+ඒ, පාස්කු ඉරු දින එල්ල කෙරුණු ත්‍රස්ත ප්‍රහාර සිද්ධිය පිළිබඳව කලින්ම බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම සම්බන්ධයෙන් ගොනුකර තිබෙන පෙත්සම පිළිබඳවය.
+
+මෙම පෙත්සම අද (25) අභියාචනාධිකරණ විනිසුරු සෝභිත රාජකරුණා මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ නීතිඥවරිය අධිකරණය හමුවේ ඉල්ලීමක් කරමින් විරෝධතා ගොනු කිරීම සඳහා දිනයක් ලබා දෙන ලෙස ඉල්ලා සිටියාය.
+
+ඒ අනුව, අදාළ විරෝධතා ගොනු කිරීම සඳහා ඔක්තෝම්බර් මස 09 වනදා තෙක් අධිකරණ විසින් කල් ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/47ff13f1.json)
 
 ---
 
@@ -67,6 +129,8 @@ Due to the impact of the economic crisis, 14.2 percent of people over the age of
 ...
 
 [Data](articles/7457f61a.json)
+
+[Extended Data](ext_articles/7457f61a.ext.json)
 
 ---
 
@@ -178,15 +242,21 @@ Parliament met on Thursday (25) headed by Deputy Speaker. Following the main pro
 
 ---
 
-### නුවන් තුෂාරට ඉන්දීය තරගාවලිය අහිමි වෙයි
+### Nuwan Thushara loses Indian competition
 
 *2024-07-25 15:43:45* · [`adalk`](https://www.ada.lk/breaking_news/නුවන්-තුෂාරට-ඉන්දීය-තරගාවලිය-අහිමි-වෙයි/11-410995) · `si`
 
-ඉන්දියාව සමග පැවැත්වෙන විස්සයි විස්ස තරගාවලියට නම් කළ සංචිතයේ සිටි නුවන් තුෂාර  ආබාධයක් හේතුවෙන් එම තරගාවලියට ක්‍රීඩා නොකරන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි. තරගාවලියට පුහුණුවීම් අතරතුරදී ඔහුගේ වම් මහපට ඇඟිල්ල බිඳී යාම ඊට හේතුවයි. තුෂාරගෙන් හිස්වන කණ්ඩායමේ ස්ථානයට වමත් වේග පන්දු යවන ක්‍රීඩක දිල්ෂාන් මදුශංක කැඳවා ඇත. තරග තුනකින් යුත් ඉන්දු - ශ්‍රී ලංකා විස්සයි20 තරගාවලිය හෙට (27දා) සිට එළඹෙන 30 දා දක්වා පැවැත්වේ.
+Nuwan Thushara withdraws from India's T20 due to injury; SLC confirms no village player in squad. Left-arm bowler Dilshan replaces him in the team. Matches scheduled for tomorrow.
+
+🟩
+
+SLC announces that no village will not play play for the tournament in the squad for India's Twenty20.. It is the cause of his left threshold during training in the tournament. Left-bowler Dilshan has been called on left-handed team to the blank group. Three matches will be held tomorrow (27th) to tomorrow.
 
 ◼️
 
 [Data](articles/e4eb8713.json)
+
+[Extended Data](ext_articles/e4eb8713.ext.json)
 
 ---
 
@@ -2249,77 +2319,5 @@ The Chairman of the Election Committee said that the basic work required for the
 [Data](articles/86345805.json)
 
 [Extended Data](ext_articles/86345805.ext.json)
-
----
-
-### Special holiday for public servants
-
-*2024-07-25 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199180) · `si`
-
-The government grants special leave to public servants in flood-hit areas like Colombo, Kalutara, etc., to reach their workplaces. A circular by Pradeep Yasaratne allows these officials to take time off due to floods, landslides, and road blocks. Additionally, pensioners will receive Rs. 3,000, approved by the cabinet, to help with their financial needs.
-
-🟩
-
-The Government has decided to grant special leave to public servants to serve as well as floods, floods, landslides and road blocks in May and June.
-
-The special holiday is to be given to state officials in Colombo, Kalutara, Gampaha, Galle, Matara, Hambantota, Puttalam, Kurunegala, Kegalle and Ratnapura districts.
-
-These special holidays to the officers who were unable to release the public transport from their residence to the workplace, due to flooding, floods, landslides and road blooms in the districts to the service site due to the disruption of public transport from their residence.has.
-
-The relevant circular has been issued by the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government Pradeep Yasaratne.
-
-Meanwhile, the government has decided to grant Rs. 3,000 to the pensioners of the Public Service.
-
-The cabinet assigned to the proposal yesterday (24) has been granted approval.
-
-...
-
-[Data](articles/bad20a85.json)
-
-[Extended Data](ext_articles/bad20a85.ext.json)
-
----
-
-### A change in weather from tomorrow
-
-*2024-07-25 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199178) · `si`
-
-Tomorrow, expect heavy rainfall in the southwest, western, and central hill regions of the island, with wind speeds reaching 50 km/h in some areas. The rest of the island will experience moderate winds of 30-40 km/h.
-
-🟩
-
-Expecting a rain condition in the southwest part of the island will be expected tomorrow (26).
-
-The Department of Meteorology announced several showers in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
-
-At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. There may be about 50 strong winds.
-
-From time to time in the rest of the island.. Strong winds are about 30-40 times.
-
-◼️
-
-[Data](articles/db7c2e65.json)
-
-[Extended Data](ext_articles/db7c2e65.ext.json)
-
----
-
-### Fitch confirms ‘A-(lka)’ domestic rating of National Development Bank Plc
-
-*2024-07-25 06:00:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-national-development-bank-plc-173646/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it was confirming an A-(lka) rating on Sri Lanka’s National Development Bank Plc with a Stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
-
-Fitch said it expects Sri Lanka’s stabilising macroeconomic environment to support NDB’s ability to generate and defend business volumes, but its business profile remains constrained by risks in the domestic operating environment which are still elevated.
-
-“We expect NDB to benefit from the resumption in lending, albeit modest, thereby leading to an uptick in the share of net loans in total assets (end-1Q24: 57.5%), similar to peers.”
-
-NDB’s risk profil remains tied to the credit and market risk of the sovereign, through its substantial exposure via the defaulted foreign-currency-denominated sovereign bonds (end-2023: 6.5% of assets) and a further 25.6% of assets in rupee-denominated treasury securities, the rating agency said.
-
-...
-
-[Data](articles/cc2d8147.json)
-
-[Extended Data](ext_articles/cc2d8147.ext.json)
 
 ---

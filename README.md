@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 21:20:28**
+As of **2024-07-25 21:35:56**
 
 ## Newspaper Stats
 
@@ -26,35 +26,47 @@ adaderanasinhalalk | 6,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,253 (100.0%) of 37,256 articles have been extended.
+37,256 (100.0%) of 37,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### පොලිස්පති ගැන රජයේ ස්ථාවරය හෙට පාර්ලිමේන්තුවේදී කියයි
+### Government's stand on IGP tomorrow
 
 *2024-07-25 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199210) · `si`
 
-පොලිස්පතිවරයා සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය දුන් තීන්දුවට අදාළව රජයේ ප්‍රතිචාරය පළ කරමින් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා හෙට (26) උදෑසන පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකරන බව වාර්තා වෙයි.
+Tomorrow, Prime Minister Dinesh Gunawardena will make a special statement in Parliament regarding the government's stance on the Supreme Court's decision about the Inspector General of Police (IGP).
 
-ඒ අනුව පොලිස්පතිවරයා සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණය දුන් තීන්දුවට අදාළව රජයේ ස්ථාවරය නිල වශයෙන් ප්‍රකාශ වන්නේ අග්‍රාමාත්‍යවරයාගේ මෙම ප්‍රකාශය තුළිනි.
+🟩
+
+Prime Minister Dinesh Gunawardena is said to have a special statement in Parliament tomorrow morning.
+
+Accordingly, the government's position is officially stated in relation to the Supreme Court decision on the IGP.
 
 ◼️
 
 [Data](articles/4bee9045.json)
 
+[Extended Data](ext_articles/4bee9045.ext.json)
+
 ---
 
-### கொழும்பில் துப்பாக்கிச் சூடு ஒருவர் பலி
+### A man killed in Colombo
 
 *2024-07-25 20:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-341043) · `ta`
 
-கொழும்பு, கிராண்பாஸ் பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஓட்டோ சாரதி பலியானார். பெண்ணொருவர் காயமடைந்துள்ளார்
+In Colombo, a man named Otto, who drives for a ride-hailing service, was shot dead in Granpas. A woman was also injured in this incident.
+
+🟩
+
+Otto driver was killed in a shooting incident in Granpas, Colombo. The woman is injured
 
 ◼️
 
 [Data](articles/4496bc30.json)
+
+[Extended Data](ext_articles/4496bc30.ext.json)
 
 ---
 
@@ -566,23 +578,33 @@ People's Bank Chairman Sujeewa Rajapaksa, Chief Executive General Manager Clive 
 
 ---
 
-### ராஜபக்ஷ்வினரை பாதுகாக்கவே முஸ்லிம்களிடம் மன்னிப்புக் கோர அரசாங்கம் தீர்மானித்துள்ளது : மரிக்கார்
+### The government has decided to apologize to Muslims to protect Rajapakse
 
 *2024-07-25 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189368) · `ta`
 
-கொவிட் தொற்றில் மரணித்த முஸ்லிம் பிரஜைகளின் சடலங்களை எரித்த குற்றச்செயலில் இருந்து ராஜபக்ஷ்வினரை பாதுகாத்து அதிகாரிகள் மீது குற்றம் சுமத்தவே தற்போது அமைச்சரவை முஸ்லிம் சமூகத்திடம் மன்னிப்பு கோர தீர்மானித்திருக்கிறது என மரிக்கார் எம்.பி. தெரிவித்தார்.
+In response to accusations of mishandling COVID-19 deaths among Muslims, the government plans to apologize to the Muslim community to deflect criticism aimed at protecting Rajapaksa officials. This move comes after allegations surfaced about the government's decision to cremate Muslim deceased without consent, causing widespread outrage within the community. Critics argue this apology is politically motivated, aiming to secure Muslim votes rather than address the underlying issue of discrimination and lack of proper handling of the deceased. Calls for legal action against those responsible for the mishandling are also being made, highlighting the need for accountability and justice.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-கொவிட் தொற்றில் மரணித்த முஸ்லிம் பிரஜைகளின் சடலங்களை எந்தவித விஞ்ஞான ரீதியிலான தீர்மானமும் இல்லாமல் எரிப்பதற்கு ராஜபக்ஷ் அரசாங்கம் நடவடிக்கை எடுத்திருந்தது.
+Marikkar MP has decided to apologize to the Muslim community now that the Cabinet has been accused of protecting Rajapaksa's bodies from the bodies of Muslim citizens who died in a kovit infection.. Said.
 
-அந்த அரசாங்கத்தின் இந்த தீர்மானத்தால் ஒட்டு மொத்த முஸ்லிம் சமூகமும் மிகவும் வேதனை அடைந்தது. இதனால் பாதிக்கப்பட்ட குடும்பங்கள் இன்னும் அதன் வேதனையை உணர்ந்து வருகின்றனர்.
+He was speaking at a debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25).
 
-இவ்வாறான நிலையில் அரசாங்கம் வேறுமனே முஸ்லிம் மக்களிடம் மன்னிப்பு கோரி இதில் இருந்து தப்பிக்கொள்ள முடியும் என நினைப்பது அரசாங்கத்தின் முட்டாள்தனமான விடயம்.
+The Rajapakse government has taken steps to burn the bodies of Muslim citizens who died in the Kovit infection without any scientific resolution.
+
+The entire Muslim community was very painful by this decision of that government. The affected families are still aware of its pain.
+
+It is a foolish thing for the government to think that the government can escape from the other Muslim people.
+
+The government has suddenly made such a resolution to protect Rajapakse from the crime and blame the authorities.
+
+If the authorities have been given the ally not scientifically to burn the bodies, who made the decision.
 
 ...
 
 [Data](articles/819ecce0.json)
+
+[Extended Data](ext_articles/819ecce0.ext.json)
 
 ---
 

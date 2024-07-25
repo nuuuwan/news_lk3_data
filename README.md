@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 20:06:05**
+As of **2024-07-25 20:20:35**
 
 ## Newspaper Stats
 
-*Scraped **37,234** Articles*
+*Scraped **37,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ bbccomsinhala | 365
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,388
-adaderanalk | 4,309
+adalk | 3,390
+adaderanalk | 4,310
 tamilmirrorlk | 4,586
 dailymirrorlk | 4,733
 virakesarilk | 5,845
-adaderanasinhalalk | 6,250
+adaderanasinhalalk | 6,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,234 (100.0%) of 37,234 articles have been extended.
+37,234 (100.0%) of 37,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### කොළඹ වෙඩිතැබීමක්
+
+*2024-07-25 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199208) · `si`
+
+පොලීසිය පැවසුවේ අද (25) පස්වරුවේ මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/56e2cd90.json)
+
+---
+
+### One person injured in shooting at Grandpass
+
+*2024-07-25 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100774/one-person-injured-in-shooting-at-grandpass) · `en`
+
+One person has been injured in a shooting incident at Grandpass in Colombo.
+
+Police said the shooting had occurred at the Wadullawatte area in Grand pass this evening (25).
+
+◼️
+
+[Data](articles/1729b854.json)
+
+---
 
 ### The gazette of presidential election is tomorrow
 
@@ -105,6 +131,38 @@ I would like to express my gratitude to all those who have been protesting so fa
 [Data](articles/824fdac3.json)
 
 [Extended Data](ext_articles/824fdac3.ext.json)
+
+---
+
+### විදෙස්ගමන් වල සියලු තොරතුරු දමා හරීන්ගෙන් අනුරට ලිපියක්
+
+*2024-07-25 18:20:10* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්ගමන්-වල-සියලු-තොරතුරු-දමා-හරීන්ගෙන්-අනුරට-ලිපියක්/11-410999) · `si`
+
+පසුගිය දිනක ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක විසින් හරීන් ප්‍රනාන්දු සහ මනූෂ නානයක්කාරගේ විදෙස් ගමන් සදහා මුදල් වැය වූ ආකාරය හෙළි කරන ලෙස සිදුකළ ප්‍රකාශයට අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා විසින් පිළිතුරු ලබාදී තිබෙනවා.
+
+අද දින අනුර කුමාර දිසානායක මහතා වෙත ලිපියක් යොමු කරමින් මේ බව දන්වා තිබෙනවා. එම ලිපිය සමඟ අමාත්‍ය හරීන් ප්‍රනාන්දු මහතාගේ සියලු  විදෙස් ගමන්වල තොරතුරු ද ඉදිරිපත් කර තිබෙනවා.
+
+ඒ අනුව පදනම් විරහිතව, අවඥා සහගතව සිදුකරන ලද චෝදනා පිළිකුලෙන් යුතුව හෙලා දකින බව අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා දක්වා තිබෙනවා. එමෙන්ම එම සිදුකරන ලද ප්‍රකාශය අනුර කුමාර දිසානායක මහතා විසින් ම නිවැරදි කළ යුතු බව එම  ලිපියේ තරයේ අවධාරණය කර තිබෙනවා.
+
+...
+
+[Data](articles/50b45553.json)
+
+---
+
+### තවත් වැදගත් පනත් දෙකක් සම්මත වෙයි
+
+*2024-07-25 18:11:40* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වැදගත්-පනත්-දෙකක්-සම්මත-වෙයි/11-410998) · `si`
+
+රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් දෙක ඡන්ද විමසීමකින් තොරව සංශෝධන සහිතව අද (25) පාර්ලිමේන්තුවේදී  සම්මත විය.
+
+පනත්කෙටුම්පත් ද්විත්වයෙහි කාරක සභා අවස්ථාවන්හිදී ඊට සංශෝධන එක්වූ අතර අනතුරුව තෙවනවර කියවීම ඡන්ද විමසීමකින් තොරව සම්මත විය.
+
+මෙම පනත් කෙටුම්පත් දෙක 2024 මැයි 22 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී
+
+◼️
+
+[Data](articles/fd58369d.json)
 
 ---
 
@@ -2259,97 +2317,5 @@ He mentioned this on his official X site early Thursday (25).
 [Data](articles/e6dc2911.json)
 
 [Extended Data](ext_articles/e6dc2911.ext.json)
-
----
-
-### Issuing gazette notification for presidential election tomorrow
-
-*2024-07-25 09:03:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czk02g1gvdlo) · `si`
-
-The Elections Commission will issue a gazette notification for the presidential election tomorrow, stating it bears no responsibility for statements made by individuals or parties.
-
-🟩
-
-The Elections Commission (EPL) has announced that there is no responsibility regarding the statements performed by video heads, various individuals and parties.
-
-The Elections Commission has decided to issue the gazette notification relevant to the presidential election tomorrow (July 26).
-
-The Elections Commission has announced that there is no responsibility regarding the statements made by various individuals and other statutes on the date of presidential election and other static tasks.
-
-Meanwhile, several parties regarding the presidential election were also commented.
-
-◼️
-
-[Data](articles/ef980315.json)
-
-[Extended Data](ext_articles/ef980315.ext.json)
-
----
-
-### Sarath Fonseka officially announces candidacy for 2024 Presidential Election
-
-*2024-07-25 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100757/sarath-fonseka-officially-announces-candidacy-for-2024-presidential-election-) · `en`
-
-Field Marshal Sarath Fonseka today formally announced his candidacy for the upcoming Presidential Election.
-
-Posting on ‘X’ (formerly Twitter), the parliamentarian had said that he will be making a key announcement with regards to the presidential election of Sri Lanka.
-
-“A lot of people have asked me to contest for the presidential election and I am looking forward to accepting the call of the people of Sri Lanka,” he said.
-
-In a subsequent post shortly after, he then officially announced that he will be contesting the 2024 Presidential Election.
-
-“I wish to announce my Presidential Candidacy to the people of Sri Lanka.”
-
-“For 76 years, we have been led by an inept political group that has led us to bankruptcy,” he said, adding that for Sri Lanka to grow, “we need to Crush Corruption”.
-
-“We need to leverage our natural resources to boost income generation.”
-
-“This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election,” he added.
-
-...
-
-[Data](articles/6b611af5.json)
-
-[Extended Data](ext_articles/6b611af5.ext.json)
-
----
-
-### Special holiday for civil servants
-
-*2024-07-25 08:55:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-ஊழியர்களுக்கு-விசேட-விடுமுறை/175-340993) · `ta`
-
-Government grants special holidays to civil servants affected by floods and landslides in May-June in specific districts including Colombo, Kalutara, Gampaha, among others.
-
-🟩
-
-The government has decided to give special holidays to civil servants who have not been able to work due to floods and landslides in May and June.
-
-The special holiday will be given to government officials in the districts of Colombo, Kalutara, Gampaha, Galle, Matara, Hambantota, Puttalam, Kurunegala, Polonnaruwa, Kegalle and Ratnapura districts.. Remble
-
-◼️
-
-[Data](articles/d7118f7c.json)
-
-[Extended Data](ext_articles/d7118f7c.ext.json)
-
----
-
-### Showery conditions expected to enhance in next few days
-
-*2024-07-25 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100756/showery-conditions-expected-to-enhance-in-next-few-days) · `en`
-
-The Meteorology Department says showery conditions are expected to enhance to some extent in the south-western part of the Island from tomorrow (26) in the next few days.
-
-Several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts while a few showers may occur in the North-western province.
-
-Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
-
-◼️
-
-[Data](articles/1d55dd69.json)
-
-[Extended Data](ext_articles/1d55dd69.ext.json)
 
 ---

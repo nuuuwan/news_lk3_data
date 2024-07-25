@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 18:26:40**
+As of **2024-07-25 18:38:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,225 (100.0%) of 37,229 articles have been extended.
+37,229 (100.0%) of 37,229 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,33 +50,47 @@ The arrest came hot on the heels of pressure from civil society activists and he
 
 [Data](articles/48774d81.json)
 
+[Extended Data](ext_articles/48774d81.ext.json)
+
 ---
 
-### රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් සම්මත කරයි
+### Fiscal Management and Economic Translation Bills passed
 
 *2024-07-25 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199207) · `si`
 
-රාජ්‍ය මූල්‍ය කළමනාකරණ සහ ආර්ථික පරිවර්තන පනත් කෙටුම්පත් ඡන්ද විමසීමකින් තොරව සංශෝධන සහිතව අද (25) පාර්ලිමේන්තුවේදී සම්මත කෙරුණි.
+Parliament passed the Fiscal Management and Economic Translation Bills with amendments after committee review, bypassing further changes during the third reading. These bills, introduced on May 22, 2024, now proceed to implementation.
 
-පනත් කෙටුම්පත් ද්විත්වයෙහි කාරක සභා අවස්ථාවන් හිදී ඊට සංශෝධන එක්වූ අතර අනතුරුව තෙවනවර කියවීම ඡන්ද විමසීමකින් තොරව සම්මත විය.
+🟩
 
-මෙම පනත් කෙටුම්පත් දෙක 2024 මැයි 22 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදි.
+Fiscal Management and Economic Translation Bills were passed in parliament today (25) with amendments without amendment.
+
+The amendments were joined in committeements in committeements in the Bills, and then passed the third reading.
+
+These two bills were presented to Parliament on May 22, 2024.
 
 ◼️
 
 [Data](articles/e8f25de3.json)
 
+[Extended Data](ext_articles/e8f25de3.ext.json)
+
 ---
 
-### කෙහෙළිය තවදුරටත් රිමාන්ඩ්
+### Keheliya further remanded
 
 *2024-07-25 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199206) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 06 දෙනෙකු අගෝස්තු 08 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Former Health Minister Keheliya Rambukwella and six others were remanded until August 8th.
+
+🟩
+
+Former Health Minister Keheliya Rambukwella and six suspects have been remanded until August 08.
 
 ◼️
 
 [Data](articles/5db3f642.json)
+
+[Extended Data](ext_articles/5db3f642.ext.json)
 
 ---
 
@@ -714,19 +728,25 @@ The Court of Appeal issued the order after considering a Rit petition filed by M
 
 ---
 
-### දේශබන්දු තෙන්නකෝන් මහතාට සහාය පළ කරමින් මාතර පොස්ටර් අලවයි
+### Matara posters paste in support of Deshabandu Tennakoon
 
 *2024-07-25 13:52:09* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකෝන්-මහතාට-සහාය-පළ-කරමින්-මාතර-පොස්ටර්-අලවයි/11-410991) · `si`
 
-හිටපු පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතාට සහාය පල කරමින් අද (25) උදෑසන වන විට මාතර නගරය පුරා පෝස්ටර් අලවා තිබිණි.
+Posters in Matara today support former IGP Deshabandu Tennakoon, criticizing lawyers linked to the underworld. Civil organizations plan to sign a petition against drug trafficking and uphold the law, involving the Maha Sangha from the Matara district.
 
-“නීතිඥයන්ට පාතාලයෙන් කෝටි ගණන් මුදල්.පාතාලය ජය ගනී,නීතිඥයින් පාතාලයේ කොන්ත්‍රාත්තුව ඉටු කරයි.අහිංසක අපට කාගේ පිහිටක්ද ? මාතර අපි ඔබ සමගයි” යන වැකි එම පෝස්ටර් වල සදහන් කර තිබුණි.
+🟩
 
-මීට අමතරව මාතර දිස්ත්‍රික්කයේ මහා සංඝරත්නය ඇතුළු සිවිල් සංවිධාන එක්ව පාතාලයට හා මත්ද්‍රව්‍ය ජාවාරමට එරෙහිව නීතිය තදින් ක්‍රියාත්මක කල දේශබන්ධු තෙන්නකෝන් මහතා ආරක්ෂා කරන්නැයි ඉල්ලා පෙත්සමකට අත්සන් කිරීමට ද සැලසුම් කර තිබුණේය.
+The former IGP was supported by the posters in Matara today (25), supporting the former IGP.
+
+"Councilor wins billions of lawyers, lawyers carry out the contract of the underworld. Whose help us?We had the same as we were with you in Matara. "
+
+In addition, civil organizations, including the Maha Sangha, Matara district, was planned to sign a petition to protect the law against the underworld and drug trafficking.
 
 ◼️
 
 [Data](articles/717cca1b.json)
+
+[Extended Data](ext_articles/717cca1b.ext.json)
 
 ---
 

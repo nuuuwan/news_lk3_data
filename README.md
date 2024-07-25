@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 03:54:16**
+As of **2024-07-26 04:06:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,299 (100.0%) of 37,302 articles have been extended.
+37,302 (100.0%) of 37,302 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Therefore, an agenda for restoring democratic government calls for major changes
 ...
 
 [Data](articles/b14d1cad.json)
+
+[Extended Data](ext_articles/b14d1cad.ext.json)
 
 ---
 
@@ -368,21 +370,29 @@ The need to bring legal amendments to it is that the Bikkumar Sangam council doe
 
 ---
 
-### அமுல்படுத்துவது யார்?
+### Who is implementing?
 
 *2024-07-26 01:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமுல்படுத்துவது-யார்/175-341050) · `ta`
 
-பொலிஸ் மா அதிபர் தொடர்பான  நீதிமன்ற தீர்ப்பை யார் நடைமுறைப்படுத்துவது என்பதே தற்போதுள்ள பிரச்சினை. ஆகவே, அந்த தீர்ப்பு  அரசியலமைப்பு பேரவைக்கு சமர்ப்பிக்கப்படவுள்ளதாக சபை முதல்வரும்  அமைச்சருமான  சுசில் பிரேம ஜயந்த  தெரிவித்தார்.
+The Chief Minister, Susil Prema Jayantha, announced that the implementation of a court ruling on the Inspector General of Police will be decided by the Constitutional Council, due to the Inspector General's exclusion from the Cabinet's decision-making process under the 17th Constitutional Amendment. This amendment restricts the Constituent Assembly's ability to participate in cabinet discussions, limiting its role to confirming presidential appointments, including the Inspector General. The Speaker of the House, Mahinda Yapa Abeywardena, plans to address the issue upon returning from his foreign trip.
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (25)  தேசபந்து தென்னக்கோன் பொலிஸ் மா அதிபராக பணியாற்றுவதை தடை செய்து உயர் நீதிமன்றத்தினால் விடுக்கப்பட்டுள்ள தடையுத்தரவு தொடர்பில்   கருத்து தெரிவிக்கும் போதே   இவ்வாறு  தெரிவித்தார்.
+🟩
 
-17 ஆவது அரசியலமைப்புத் திருத்தம் ஆரம்பத்தின் போதே அரசியலமைப்பு பேரவை ஆரம்பிக்கப்பட்டது.ஜனாதிபதியின் நிறைவேற்று அதிகாரம் தான் அரசியலமைப்பு பேரவைக்கு வழங்கப்பட்டுள்ளது. நிறைவேற்று அதிகாரத்தின் மாற்றம் 21 ஆவது திருத்தத்தில் 7(அ) வில் காணப்படுகிறது. அதன்படி அரசியலமைப்பு பேரவை நிறைவேற்றுத் துறையின் ஒரு பகுதியே.
+The current issue is who will implement a court ruling on the Inspector General of Police. Therefore, the verdict will be presented to the Constitutional Council, said the chief minister and minister of the council, Susil Prema Jayantha.
 
-அதனால், அது தொடர்பில் அமைச்சரவையில் பேச முடியாது. அது தொடர்பில் கலந்துரையாடினாலும் அமைச்சரவையால் தீர்மானம் எடுக்க முடியாது. சில நியமனங்களை அரசியலமைப்பு பேரவை அனுமதிக்க வேண்டும். பொலிஸ் மா அதிபர் நியமனத்திலும் அது பொருந்தும்.
+He made this comment while commenting on the ban on the Supreme Court on Thursday (25) in Parliament.
+
+The Constituent Assembly was inaugurated at the beginning of the 17th Constitutional Amendment.. The change of executive power is found in 7 (a) in the 21st Amendment. Accordingly, part of the Constituent Assembly Executive Department.
+
+So, it cannot speak in the cabinet. Even if it discusses it, the Cabinet cannot make a decision. Some appointments should be allowed for the Constitutional Council. The same applies to the appointment of the Inspector General of Police.
+
+It is the duty and responsibility of the Constituent Assembly to ensure or confirm anyone who is put forward by the president.
 
 ...
 
 [Data](articles/e5c22c11.json)
+
+[Extended Data](ext_articles/e5c22c11.ext.json)
 
 ---
 

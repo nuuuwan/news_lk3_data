@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 21:55:36**
+As of **2024-07-25 22:09:17**
 
 ## Newspaper Stats
 
-*Scraped **37,258** Articles*
+*Scraped **37,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,391
+adalk | 3,392
 adaderanalk | 4,312
 tamilmirrorlk | 4,588
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,256 (100.0%) of 37,258 articles have been extended.
+37,258 (100.0%) of 37,259 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,25 +42,33 @@ Prime Minister Dinesh Gunawardena will officially inform Parliament of the gover
 
 [Data](articles/49647d51.json)
 
+[Extended Data](ext_articles/49647d51.ext.json)
+
 ---
 
-### පොලිස්පතිගේ සිද්ධියෙන් පසු ජනපතිට ලැබුණු උපදෙස්
+### Tips received after the case of the IGP
 
 *2024-07-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199211) · `si`
 
-ශ්‍රේෂ්ඨාධිකරණ තීන්දුවෙන් මේ වනවිට පොලිස්පතිවරයාට ලබාදී ඇත්තේ වාරණ නියෝගයක් පමණක් බැවින් පොලිස්පති තනතුර හිස්වී නොමැති බවට ජනාධිපතිවරයාට නීති උපදෙස් ලැබී ඇති බව  ජනාධිපතිවරයාට සම්බන්ධ රජයේ ආරංචි මාර්ග පවසයි.
+Following the Supreme Court's decision, the Inspector General of Police's position has been vacated. The President is advised to fill this vacancy temporarily under the 21st Constitutional Amendment. An interim order prevents Deshabandu Tennakoon from serving as IGP, and nine fundamental rights petitions challenge his appointment. The court has directed the President to appoint a legally suitable individual to the IGP post until the petitions are resolved.
 
-21 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය අනුව පොලිස්පති ධුරය හිස්ව නොමැති අවස්ථාවක ජනාධිපතිවරයාට වැඩබලන පොලිස්පතිවරයෙක් පත් කිරීමට හැකියාවක් නොමැති අතර එබැවින් අදාළ නීති ගැටලුව විසඳා ගන්නා තුරු පොලිස්පති ධුරය එලෙස තැබෙනු ඇති බව රජයේ ප්‍රකාශකයකු සඳහන් කළේය.
+🟩
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධූරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය ඊයේ (24) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+The President has given legal advice that the Inspector General of Police have been emptied by the Supreme Court decision.
 
-ඒ, ඔහු පොලිස්පති ලෙස පත්කිරීම අභියෝගයට ලක්කරමින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ ගොනුකර තිබු මූලික අයිතිවාසිකම් පෙත්සම් 09ක් විභාගයට ගැනීමට තීන්දු කරමිනි.
+The government spokesman said that the post of acting to the president will be appointed as the IGP in the absence of the post of IGP according to the 21st Constitutional Amendment.
 
-එසේම පෙත්සම් විභාගය නිමවන තෙක් පොලිස්පති ධුරය සඳහා නීත්‍යනුකූලව සුදුසු පුද්ගලයෙකු පත්කරන ලෙස ද ශ්‍රේෂ්ඨාධිකරණය ජනාධිපතිවරයාට නියම කළේය.
+The Supreme Court issued an interim injunction yesterday (24), preventing Deshabandu Tennakoon from working as IGP.
+
+It was decided to hear 09 fundamental rights petitions filed by the Supreme Court to challenge the appointment of him as IGP.
+
+The Supreme Court also appointed the President to appoint an ideal person legally suitable person to the post of IGP until the completion of the petition.
 
 ◼️
 
 [Data](articles/d295b2cf.json)
+
+[Extended Data](ext_articles/d295b2cf.ext.json)
 
 ---
 
@@ -345,6 +353,20 @@ The event was not able to be abroad and had not been able to be remanded against
 [Data](articles/0043af4b.json)
 
 [Extended Data](ext_articles/0043af4b.ext.json)
+
+---
+
+### නාමල්ගෙන් ජනපතිට චෝදනාවක් ’’පක්ෂ කඩන එක එතුමාගේ පුරුද්දක්’’
+
+*2024-07-25 18:34:45* · [`adalk`](https://www.ada.lk/opinion/නාමල්ගෙන්-ජනපතිට-චෝදනාවක්-’’පක්ෂ-කඩන-එක-එතුමාගේ-පුරුද්දක්’’/2-411000) · `si`
+
+පක්ෂයක් ලෙස ශ්‍රී ලංකා පොදුජන පෙරමුණ අවංකව රනිල් වික්‍රමසිංහ ජනපතිවරයාට උදවු කළ නමුත්ලා අවාසනයට එයින් ලැබෙන දායාදය වන්නේ පක්ෂය දෙකට කැඩීමේ උත්සාහයක්නම්එ ඔහු ඒ පිළිබඳවත් කල්පනා කල යුතු බව ශ්‍රීලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ පැවසීය ඔහු මේ බව ප්‍රකාශ කළේ අද දින නෙළුම් මාවතේදී මාධ්‍යවේදියකු විසින් යොමුකල ප්‍රශ්නයකට පිලිතුරු දෙමිනි.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ නාමල් රාජපක්ෂ
+
+ප්‍රශ්නය:ඔබතුමන්ලා දැන් රනිල් මහත්තයට නැවත වරක් උදව් කරන්න හදනවා කියලා කතාවක් තියනවා,ඒක ඇත්තක්ද?
+
+...
+
+[Data](articles/5fcdebf0.json)
 
 ---
 
@@ -2331,29 +2353,5 @@ According to the police, the suspect has been arrested and further investigation
 [Data](articles/833d84a4.json)
 
 [Extended Data](ext_articles/833d84a4.ext.json)
-
----
-
-### The boy torture;Video to mother
-
-*2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவன்-சித்திரவதை-தாய்க்கு-காணொளி/175-340997) · `ta`
-
-In Karandeniya, a man was arrested after allegedly being forced by his three-year-old son to commit suicide, due to the mother's neglect while working abroad. The mother, who preferred sending money to her own mother over supporting her husband, shared a video of the incident on social media, leading to the arrest of the suspect as investigations continue.
-
-🟩
-
-A father who was tortured by his three -year -old son to commit suicide was arrested from Karandeniya, Anuruthagama on Wednesday night, Elpitiya police said.
-
-While the boy's mother is working abroad, she has tortured the boy and sent the boy to his wife because she was sending money to her mother and not sending money.
-
-The woman posted on social networks about the video and posted her three -year -old boy to save her.
-
-According to the police, the suspect has been arrested and further investigations are being carried out.
-
-◼️
-
-[Data](articles/a54e5c99.json)
-
-[Extended Data](ext_articles/a54e5c99.ext.json)
 
 ---

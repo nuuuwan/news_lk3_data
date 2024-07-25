@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 10:08:53**
+As of **2024-07-25 10:20:37**
 
 ## Newspaper Stats
 
-*Scraped **37,133** Articles*
+*Scraped **37,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,149 @@ islandlk | 2,119
 economynextcom | 2,221
 dailyftlk | 2,372
 adalk | 3,369
-adaderanalk | 4,293
+adaderanalk | 4,296
 tamilmirrorlk | 4,569
 dailymirrorlk | 4,733
 virakesarilk | 5,824
-adaderanasinhalalk | 6,233
+adaderanasinhalalk | 6,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,129 (100.0%) of 37,133 articles have been extended.
+37,133 (100.0%) of 37,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### ஜனாதிபதி வேட்பாளராக இறங்கினார் சரத் பொன்சேகா
+### Tanker with 1,500 tonnes of oil sinks off Philippines
+
+*2024-07-25 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100760/tanker-with-1500-tonnes-of-oil-sinks-off-philippines) · `en`
+
+A tanker carrying close to 1.5 million litres of industrial fuel has capsized and sank off the Philippine capital on Thursday, causing an oil spill, officials say.
+
+Sixteen crew members of the Philippine-flagged MT Terra Nova have been rescued while one remains missing, Transportation Secretary Jaime Bautista said.
+
+Mr Bautista said an oil spill has been detected but strong winds and high waves were hampering the authorities’ response.
+
+The incident comes a day after Typhoon Gaemi intensified seasonal monsoon rains, submerging large swathes of Metro Manila and its suburbs in deep floods.
+
+Gaemi has made landfall in Taiwan, leaving three people killed and wounding hundreds more.
+
+The MT Terra Nova was heading for the central Philippine city of Iloilo when it sank, leaving an oil spill stretching for several kilometres, authorities said.
+
+It “capsized and eventually submerged,” the coast guard said in a report, adding they were investigating whether bad weather was a factor.
+
+...
+
+[Data](articles/6d9a1dbf.json)
+
+---
+
+### බෞද්ධ අධ්‍යාපනය ඉදිරියට ගෙන යා යුතුයි -ජනපති
+
+*2024-07-25 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199190) · `si`
+
+කුමන අභියෝග පැවතිය ද මෙරට බෞද්ධ අධ්‍යාපනය දියුණු කරමින් ඉදිරියට ගෙන යාමේ වගකීම අත්නොහරින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ රටේ ආර්ථිකය ස්ථාවර වීමත් සමග ජනතාවට සහන ලබා දිය යුතු බවය.
+
+පිරිවෙන් හා සීල මාතා අධ්‍යාපන ආයතනවල ඉගෙනුම ලබන ශිෂ්‍ය භික්ෂුන් වහන්සේලා හා සීල මාතාවන් මෙන්ම ගිහි සිසුන් සඳහා ජනාධිපති අරමුදලින් ශිෂ්‍යත්ව ප්‍රදානය කිරීමේ වැඩසටහන යටතේ ගිහි පැවිදි සිසුන් 3,000කට ශිෂ්‍යත්ව ප්‍රදානය වෙනුවෙන් අරලියගහ මන්දිරයේ දී පැවති උත්සවයක් අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+
+මේ අතර ස්ථාවර ආර්ථික ක්‍රමයක් ඔස්සේ රට ඉදිරියට ගෙන යාමට අවශ්‍ය නීති ප්‍රතිසංස්කරණ රැසක් මේ වන විට සිදුකර අවසන් බව ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී, ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සාගල රත්නායක මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ ආණ්ඩු වෙනස්වීමේ දී ප්‍රතිපත්ති වෙනස් වීම අපේ රටේ පවතින ප්‍රධාන ගැටලුවක් බවය.
+
+වරාය පිවිසුම් අධිවේගී මාර්ගය පිළිබදව තාක්ෂණික සම්මන්ත්‍රණයේ ප්‍රධාන දේශනය සිදුකරමින් සාගල රත්නායක මහතා ඉන්දියාව සමග පවතින සබඳතා තවදුරටත් වැඩිදියුණු කරමින් පවතින බව ද සඳහන් කළේය.
+
+◼️
+
+[Data](articles/97e96510.json)
+
+---
+
+### Sarath Fonseka
 
 *2024-07-25 09:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளராக-இறங்கினார்-சரத்-பொன்சேகா/175-340994) · `ta`
 
-76 ஆண்டுகளாக, எங்களை திவாலான நிலைக்கு இட்டுச் சென்ற ஒரு திறமையற்ற அரசியல் குழுவால் நாங்கள் வழிநடத்தப்பட்டோம்.
+Sarath Fonseka announces his candidacy for the 2024 Sri Lankan presidential election, criticizing the current government for leading the country to bankruptcy over 76 years.
 
-2024 ஜனாதிபதித் தேர்தலுக்கான இலங்கையின் ஜனாதிபதி வேட்பாளராக இது எனது முறையான மற்றும் உத்தியோகபூர்வ அறிவிப்பு - என்று குறிப்பிடப்பட்டுள்ளது. R
+🟩
+
+For 76 years, we were guided by an incapable political group that led us to bankruptcy.
+
+This is my formal and official announcement as the Sri Lankan presidential candidate for the 2024 presidential election -. Remble
 
 ◼️
 
 [Data](articles/e90abe1e.json)
 
+[Extended Data](ext_articles/e90abe1e.ext.json)
+
 ---
 
-### අහිතකර දුම් පිටවන වාහන 93ක් අසාදු ලේඛනයට
+### Election Commission to decide on Presidential Poll date today
+
+*2024-07-25 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100759/election-commission-to-decide-on-presidential-poll-date-today) · `en`
+
+The National Election Commission is scheduled to convene a meeting today (25) to finalize the date for the upcoming Presidential Election and the date for the calling of nominations.
+
+The meeting, to be chaired by R.M.A.L. Rathnayake, Chairman of the Election Commission, aims to reach a consensus on these crucial dates.
+
+At a press conference yesterday (24), Rathnayake had stated that the election date would be announced before the weekend.
+
+He also mentioned that the preliminary arrangements for conducting the presidential election have already been completed.
+
+◼️
+
+[Data](articles/f3069e90.json)
+
+---
+
+### 93 unfavorable smoke etc.
 
 *2024-07-25 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199189) · `si`
 
-පරිසරයට අහිතකර දුම් පිටවන වාහන 93ක් පමණ මේ වසර තුළ අසාදු ලේඛන ගත කර ඇති බව වායු විමෝචන භාරකාර අරමුදල පවසයි.
+This year, the Emission Trust Fund reported 93 cases of excessive smoke from vehicles due to public complaints. The Director mentioned that if such issues are documented via photos or videos and reported to the Department of Motor Traffic through WhatsApp, action will be taken against non-responsive vehicles. Last year, there were 1800 complaints, leading to 517 investigations, with 93 resulting in action.
 
-එහි අධ්‍යක්ෂ දසුන් ගමගේ මහතා සඳහන් කළේ, මහජනතාවගෙන් ලැබුණු පැමිණිලිවලට අනුව අදාළ වාහන අසාදු ලේඛන ගත කර ඇති බවය.
+🟩
 
-යම් වාහනයක් අහිතකර ලෙස දුම් පිටකරමින් මාර්ගයේ ධාවනය වන්නේ නම් 070 3500 525 යන වට්ස්ඇප් අංකයට ඡායාරූපයක් හෝ වීඩියෝවක් යොමුකර විස්තර ලබාදෙන ලෙසත් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+About 93 unhealthy smoke etcines have been launched this year, says the Emission Trust Fund.
 
-"මෝටර් ප්‍රවාහන දෙපාර්තමේන්තුව හඳුන්වා දුන්නා වට්ස්ඇප් දුරකථන අංකයක් ජනතා සහභාගීත්වය තහවුරු කරන්න. අධික දුම් පිටවෙන වාහනයක් යනවා නම් ස්ථානය, වේලාව, දිනය සහ වාහන අංකය සඳහන් කර වට්ස්ඇප් අංකයට ඡායාරූපයක් හෝ වීඩියෝ පටයක් ලබාදෙන්න කියලා. එවිට අදාළ වාහනහිමියන්ට කැඳවීමක් කරනවා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු දිස්ත්‍රික් කාර්යලයකට ගෙනත් පෙන්වන්න කියලා. එතැනදීත් ප්‍රතිචාර නැත්නම් වාහනය අසාදු ලේඛනගත වෙනවා. පසුගිය වසරේ 1800ක් විතර පැමිණිලි ලැබුණා. ඉන් කැඳවීම් කරලා අවසාන වශයෙන් අසාදු ලේඛනගත කළේ 200ක් වගේ. මේ අවුරුද්දේ 517ක් තොරතුරු ලැබිලා තියෙනවා එයින් 93ක් පමණ අසාදු ලේඛන ගත කළා."
+Director of the Director Dasu Gamage said that the relevant vehicles were written in terms of the complaints of the public.
+
+If a vehicle runs a smoker, a photo or video, a photo or video, and the Department of Motor Traffic requests the public.
+
+"The Department of Motor Traffic introduced whatsapp phone number participant. If a heavy smoke leaving a car, the time, time, date and vehicle number to give a photo or video to the Whatsapp number. The applicants will be called for the Department of Motor Traffic to the District Division. The vehicle is unconscious if not responding. About 1800 complaints received last year. In the last 200 people, who were invited to be called. The information received 517 this year was written about 93 of them. "
 
 ◼️
 
 [Data](articles/585334f1.json)
+
+[Extended Data](ext_articles/585334f1.ext.json)
+
+---
+
+### Govt employees who were affected by natural disasters granted special leave
+
+*2024-07-25 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100758/govt-employees-who-were-affected-by-natural-disasters-granted-special-leave) · `en`
+
+The government has announced the provision of special leave for government employees who were unable to report to work due to floods, landslides, and road blockages in May and June this year.
+
+This leave applies to officials in the districts of Colombo, Kalutara, Gampaha, Galle, Matara, Hambantota, Puttalam, Kurunegala, Polonnaruwa, Kegalle, and Ratnapura.
+
+Government employees who had faced disruptions in public transport services or were directly affected by natural disasters, resulting in displacement, will be eligible for this special leave.
+
+The circular regarding this leave was issued by the Secretary of the Ministry of Public Administration, Home Affairs, Provincial Councils, and Local Government Pradeep Yasaratne.
+
+Additionally, the government has approved an allowance of Rs. 3,000 for retired government employees starting next September.
+
+This decision was approved during the cabinet meeting held on July 24, 2024.
+
+...
+
+[Data](articles/26c5ae9a.json)
 
 ---
 
@@ -1248,6 +1346,8 @@ Grate the cucumber to form a pulp Mix the yoghurt and cucumber pulp to make a pa
 
 [Data](articles/530e5cdc.json)
 
+[Extended Data](ext_articles/530e5cdc.ext.json)
+
 ---
 
 ### Bangladesh's current champion will meet India by 114 runs
@@ -1630,17 +1730,23 @@ Accordingly, the Ministry of Labor announced that the year to Rs.. However, the 
 
 ---
 
-### සාපෙළ ප්‍රතිඵල සැප්තැම්බර්
+### Fasta and confrontation from September
 
 *2024-07-24 19:39:40* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-ප්‍රතිඵල-සැප්තැම්බර්/11-410976) · `si`
 
-ඉකුත් දා පැවති අ.පො.සසාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵල සැප්තැම්බර් මාසය වන නිකුත් කිරීමට විභාග දෙපාර්තමේන්තුව කටයුතු කරමින් පවතින බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The Department of Examinations (STF) announced its release plan for September, including updates to the examination schedule within the first two months.
 
-එමෙන්ම2025 වර්ෂයේ දී සාමාන්‍ය පෙළ විභාගය මුල් මාස දෙක තුළ පවත්වා උසස් පෙළ ඇතුළු අනිකුත් විභාග ද කඩිනමින් පවත්වා විභාග කාලසටහන යාවත්කාලීන කරන බව ද අමාත්‍යාංශය සදහන් කරයි.
+🟩
+
+The Department of Examinations (STF) says the Department of Examinations will be released on September.
+
+The Ministry further stated that the average line examination will be updated in the first two months and update the examination schedule.
 
 ◼️
 
 [Data](articles/d6964a7a.json)
+
+[Extended Data](ext_articles/d6964a7a.ext.json)
 
 ---
 
@@ -2173,107 +2279,5 @@ Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-
 [Data](articles/c0d72e22.json)
 
 [Extended Data](ext_articles/c0d72e22.ext.json)
-
----
-
-### Colombo politics
-
-*2024-07-24 17:17:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-அரசியலில்-பரபரப்பு-அவசரமாக-கூடுகிறது-அமைச்சரவை/175-340963) · `ta`
-
-Colombo politics is tense with increased security around the Presidential Secretariat due to heavy traffic after the office closure. A powerful cabinet minister has been asked to resign and may support Ranil Wickremesinghe in the upcoming presidential election. The Supreme Court has issued an interim order against the Tennakoon Police Chief amid a pending court case set for release next month, involving allegations of fundamental rights violations by parties including Cardinal Malcolm Ranjith against the President's decisions.
-
-🟩
-
-In the Presidential Secretariat area, security has been strengthened uncontrollably. Since the office is over, there has been heavy traffic congestion in the area.
-
-Political sources say that the president has asked a strong cabinet minister to resign from his post.
-
-It is also reported that the concerned minister will also wish to stand for Ranil Wickremesinghe in the upcoming presidential election.
-
-The verdict of the pending case in court will be released next month.
-
-In this backdrop, the Supreme Court has issued an interim order to prevent the serving of the Tennakoon Police Chief of the country.
-
-The Supreme Court has issued the order to investigate fundamental rights violations submitted by the parties, including Cardinal Malcolm Ranjith, demanding the cancellation of the President's decision by the President
-
-◼️
-
-[Data](articles/285398fd.json)
-
-[Extended Data](ext_articles/285398fd.ext.json)
-
----
-
-### US Navy ship Michael Murphy arrived in Colombo port
-
-*2024-07-24 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189282) · `ta`
-
-The USS Michael Murphy, a 155-meter long anti-missile ship manned by 323 personnel, docked at Colombo's port yesterday under traditional naval greetings from the Sri Lankan navy. The ship's captain, Jonathan B. Greenwald, met with Rear Admiral Cindaka Kumarasinghe at the Western Navy's headquarters.
-
-🟩
-
-USS Michael Murphy, a USS Michael Murphy, arrived at the Port of Colombo yesterday (23).
-
-The 155 -meter -long anti -missile ship is managed by a group of 323 people.
-
-Sri Lankan navy welcomed the ship to Colombo according to traditional naval traditions.
-
-The ship's captain Jonathan B. Greenwald Western Navy Commander Rear Admiral Cindaka Kumarasinghe met at the Western Navy's headquarters yesterday.
-
-◼️
-
-[Data](articles/e5bbc634.json)
-
-[Extended Data](ext_articles/e5bbc634.ext.json)
-
----
-
-### Japan starts working in Sri Lanka
-
-*2024-07-24 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199168) · `si`
-
-Japan resumes projects in Sri Lanka after a pause, as announced by JICA's head Mahinda Siriwardena during a finance ministry briefing.
-
-🟩
-
-Japan (24) was officially announced that they will be released to re-resume projects in Sri Lanka.
-
-A special media briefing has been held at the Ministry of Finance Mahinda Siriwardena, Head of JICA, JICA, JICA, JICA, Sri Lanka.
-
-◼️
-
-[Data](articles/709cbbc2.json)
-
-[Extended Data](ext_articles/709cbbc2.ext.json)
-
----
-
-### Interim banned against Secretary to the President's Circular
-
-*2024-07-24 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199167) · `si`
-
-The Supreme Court issued an interim ban on a circular by the Presidential Advisory Committees aimed at rural development projects, citing potential misuse of government funds for political gains. The decision was based on a petition filed by PAFFREL, with Attorney-at-Law Devendra arguing against the allocation of resources for political rather than public benefit. Despite the Additional Solicitor General's request to dismiss the petition, the court granted the interim injunction due to concerns over electoral rights and the timing of the project near elections.
-
-🟩
-
-The Supreme Court today issued an interim injury today (24), with the establishment of the circular issued by the Presidential Advisory Committees to implement rural development projects.
-
-The interim decision was issued by the PAFFREL and its Executive Director Rohana Hettiarachchi.
-
-The petition was then held on November 5.
-
-Attorney-at-Law Devendra, who appeared for the petitioner, he said that the government's funds and resources were conducted for political purposes to coordinate with political counseling.There was a complaint that there was.
-
-The lawyer also requested that the use of government resources instead of using government resources to the public.
-
-Additional Solicitor General's Leisure Solicitor General's Leisure Solicitor General's Leisure Solution Siriwardena appeared in behalf of the respondents, the petition was asked to dismiss the petition without being heard.
-
-After considering the submitted by the two sides, the judges were then issued the interim injunction.
-
-...
-
-[Data](articles/175d048f.json)
-
-[Extended Data](ext_articles/175d048f.ext.json)
 
 ---

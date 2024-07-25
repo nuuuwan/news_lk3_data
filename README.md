@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 17:20:27**
+As of **2024-07-25 17:36:07**
 
 ## Newspaper Stats
 
-*Scraped **37,222** Articles*
+*Scraped **37,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 365
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,375
-adalk | 3,382
-adaderanalk | 4,306
+adalk | 3,383
+adaderanalk | 4,307
 tamilmirrorlk | 4,585
 dailymirrorlk | 4,733
 virakesarilk | 5,845
@@ -26,45 +26,77 @@ adaderanasinhalalk | 6,248
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,219 (100.0%) of 37,222 articles have been extended.
+37,222 (100.0%) of 37,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### දූෂණ විරෝධය පිළිබඳ ජාතික න්‍යාය පත්‍රය ක්‍රියාත්මක කිරීමේ යෝජනාවට කැබිනට් අනුමැතිය
+### Cabinet approves the proposal to implement the national agenda of anti-corruption
 
 *2024-07-25 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199205) · `si`
 
-“දූෂණ විරෝධය පිළිබඳ ජාතික න්‍යාය පත්‍රය” ක්‍රියාත්මක කිරීම සඳහා පසුගියදා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ  සංදේශය සඳහා අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
+The cabinet has approved a comprehensive anti-corruption agenda for 2025-2029, aiming to enhance transparency, accountability, and financial oversight. This includes updating laws, increasing the Auditor General's powers, establishing a dedicated website for official disclosures, and creating strategies against money laundering and recovering illicit assets. The plan also focuses on public procurement transparency, rehabilitation of public enterprises, and employee benefits. Additionally, it aims to strengthen information rights and aligns with international recommendations for anti-corruption efforts.
 
-ජනාධිපති මාධ්‍ය අංශය පවසන්නේ, ජාත්‍යන්තර මූල්‍ය අරමුදලේ පාලන විනිශ්චය තක්සේරුවේ තාක්ෂණික සහාය පිළිබඳ වාර්තාවේ දක්වා ඇති දූෂණ විරෝධය සඳහා වන නෛතික, සංවිධානාත්මක සහ ක්‍රමෝපායික රාමුවට අනුකූලව මෙය ඉදිරිපත් කර ඇති බවය.
+🟩
 
-දූෂණ විරෝධය පිළිබඳ ජාතික න්‍යාය පත්‍රයට ප්‍රධාන ක්‍රියාකාරි පියවර කිහිපයක් අන්තර්ගත වන අතර 2023 වසරේ සම්මත කරගන්නා ලද දූෂණ විරෝධී පනත පූර්ණ වශයෙන් බලාත්මක කිරීම, ඒ සඳහා ක්‍රියාකාරී සැලැස්මක් සකස් කිරීම, මාස හයකට වරක් එකී ක්‍රියාකාරී සැලැස්මේ ප්‍රගතිය සමාලෝචනය කිරීම සහ ක්‍රියාකාරී සැලැස්මට අවශ්‍ය ප්‍රමාණවත් අයවැය ප්‍රතිපාදන ලබාදීම සඳහා ද අවශ්‍ය විධිවිධාන එහි අන්තර්ගත වෙයි.
+The Hon.
+
+The Presidential Media Unit states that this has been presented in accordance with the legal, organized and strategic framework for anti-corruption and strategic framework for the UK's administration.
+
+The National Agest of the anti-Corruption will include a plan of anti-corruption plan for the anti-Corruption Plan, and provide sufficient budget for the action plan every six months and the implementation of the Action Plan for the action plan.It also includes the necessary provisions.
+
+2025 - 2029 The agenda has been admitted to the agenda to create an anti-corruption plan for the time period. The National Agenda also includes amending the National Audit Act No. 19, No. 19, 2018, expanding the legal authority owned by the Auditor General.
+
+According to the amendments, the full reports of the questions of the questions were tabled in Parliament were proposed to grant permission to the Auditor General to exchange basic or other findings with law enforcement agencies.
 
 ...
 
 [Data](articles/55098f38.json)
 
+[Extended Data](ext_articles/55098f38.ext.json)
+
 ---
 
-### ගතවූ සති 03 තුළ සංචාරකයින් 127,925ක් ඇවිත්
+### Cabinet approval to implement National Agenda for Anti-Corruption
+
+*2024-07-25 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100770/cabinet-approval-to-implement-national-agenda-for-anti-corruption) · `en`
+
+The Cabinet of Ministers has recently approved President Ranil Wickremesinghe’s Cabinet Memorandum to implement the “National Agenda for Anti-Corruption.”
+
+This decision aligns with the legal, organizational, and strategic anti-corruption framework outlined in the International Monetary Fund’s report on governance diagnostics technical assistance support, said President’s Media Division.
+
+The National Anti-Corruption Framework includes several key actions, such as the full implementation of the anti-corruption legislation passed in 2023, the development of an effective action plan, regular progress reviews every six months, and ensuring adequate budget provisions for the action plan. Additionally, the framework calls for the creation of a clear national anti-corruption strategy for the period 2025-2029.
+
+...
+
+[Data](articles/19e98dba.json)
+
+---
+
+### 127,925 tourists arrived in the past three weeks
 
 *2024-07-25 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199204) · `si`
 
-මේ මස ගතවූ සති 03 තුළ සංචාරකයින් 120,000කට අධික පිරිසක් දිවයිනට පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+Over the past three weeks, Sri Lanka welcomed 127,925 tourists, primarily Indians (30,442), along with visitors from Britain, China, Germany, and the Netherlands. This year, the SLTDA reports a total of 38,174 arrivals so far.
 
-ඒ අනුව එම කාලය තුළ ශ්‍රී ලංකාවට පැමිණ ඇති  සංචාරකයින් සංඛ්‍යාව 127,925කි.
+🟩
 
-ඉන් වැඩි පිරිසක් ඉන්දීය ජාතිකයින් වන අතර එම සංඛ්‍යාව 30,442ක් වෙයි.
+More than 120,000 tourists have arrived in the island during the past three weeks, says the Sri Lanka Tourism Development Authority.
 
-ඊට අමතරව බ්‍රිතාන්‍ය, චීන, ජර්මනි, නෙදර්ලන්තය වැනි රටවලින් ද සංචාරකයින් දිවයිනට පැමිණ තිබේ.
+Accordingly, the number of tourist arrivals to Sri Lanka was 127,925.
 
-ඒ අනුව මේ වසරේ මේ දක්වා කාලය තුළ සංචාරකයින් 11 ලක්ෂ 38,174 දෙනෙකු දිවයිනට පැමිණ ඇති බවද  ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කරයි.
+Most of them are Indian nationals and is 30,442.
+
+In addition, tourists from countries such as British, Chinese, German, Germany, Netherlands are also present.
+
+According to the Sri Lanka Tourism Development Authority (SLTDA) states that 38,174 tourists have arrived in the island this year.
 
 ◼️
 
 [Data](articles/919cf14f.json)
+
+[Extended Data](ext_articles/919cf14f.ext.json)
 
 ---
 
@@ -92,23 +124,29 @@ According to the Supreme Court ruling, the Senior Minister of the Government sai
 
 ---
 
-### නිලන්ත ජයවර්ධන ට එරෙහි පෙත්සමට විරෝධතා ගොනු කිරීමට කල්දෙයි
+### Petition against Nilantha Jayawardena will be will be postponed to file protests
 
 *2024-07-25 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199203) · `si`
 
-රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන මහතාට එරෙහිව නීතිමය පියවර ගන්නා ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සමට විරෝධතා ගොනු කිරීම සඳහා අභියාචනාධිකරණය නීතිපතිවරයාට කල් ලබාදී තිබේ.
+The Court of Appeal has granted the Attorney General time until October 9 to file protests against Nilantha Jayawardena, formerly of the Chief Intelligence Service. This follows a petition by terrorists related to the Passover incident, which was discussed in court today.
 
-ඒ, පාස්කු ඉරු දින එල්ල කෙරුණු ත්‍රස්ත ප්‍රහාර සිද්ධිය පිළිබඳව කලින්ම බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම සම්බන්ධයෙන් ගොනුකර තිබෙන පෙත්සම පිළිබඳවය.
+🟩
 
-මෙම පෙත්සම අද (25) අභියාචනාධිකරණ විනිසුරු සෝභිත රාජකරුණා මහතා ඉදිරියේ කැඳවනු ලැබීය.
+The Court of Appeal has paid up to the Attorney General to file protests against the former Chief Intelligence Service to be taken against Nilantha Jayawardena.
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ නීතිඥවරිය අධිකරණය හමුවේ ඉල්ලීමක් කරමින් විරෝධතා ගොනු කිරීම සඳහා දිනයක් ලබා දෙන ලෙස ඉල්ලා සිටියාය.
+That is about the petition filed by the terrorists on the Passover, the terrorist influence on the incident.
 
-ඒ අනුව, අදාළ විරෝධතා ගොනු කිරීම සඳහා ඔක්තෝම්බර් මස 09 වනදා තෙක් අධිකරණ විසින් කල් ලබාදී තිබේ.
+The petition was called before the Court of Appeal this petition today (25) before the Sobhitha Rajakulana.
+
+The State Counsel appearing on behalf of the Attorney General asked to pay a date to file protests.
+
+Accordingly, the Court has previously paid up to October 9 to file the protests.
 
 ◼️
 
 [Data](articles/47ff13f1.json)
+
+[Extended Data](ext_articles/47ff13f1.ext.json)
 
 ---
 
@@ -1045,6 +1083,22 @@ According to political sources, both sides are focusing on President Ranil Wickr
 [Data](articles/ed6d902f.json)
 
 [Extended Data](ext_articles/ed6d902f.ext.json)
+
+---
+
+### වව්නියාව පාස්පෝට් කාර්යාලයට යන්න ඉන්න අයට දැනුම් දිමක්
+
+*2024-07-25 11:37:21* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාව-පාස්පෝට්-කාර්යාලයට-යන්න-ඉන්න-අයට-දැනුම්-දිමක්/11-410985) · `si`
+
+ආගමන හා විගමන දෙපාර්​තමේන්තු​වේ අංක: JC 23, පිටරවුම් පාර, වවුනියාව, යන ස්ථානයේ පිහිටි ප්‍රාදේශීය කාර්යාලය 2024 අගෝස්තු මස 16 වන සිකුරාදා දින ගාමිණි විදුහල ඉදිරිපිට, මන්නාරම පාර, වවුනියාව යන ස්ථානයේ පිහිටි ගොඩනැගිල්ලේ ස්ථාපනය කිරීමට නියමිතය.
+
+එබැවින් අංක :JC 23, පිටරවුම් පාර, වවුනියාව, යන ස්ථානයේ පිහිටි දැනට මහජන සේවාවන් සපයනු ලබන ප්‍රාදේශීය කාර්යාලයේ රාජකාරී කාර්යයන් 2024 අගෝස්තු මස 02 වන සිකුරාදා දින සිට අවසන් කරනු ලැබේ.
+
+ඒ අනුව 2024 අගෝස්තු මස 03 වන දින සිට 2024 අගෝස්තු මස 15 දින දක්වා මෙම දෙපාර්තමේන්තුවේ වවුනියාව ප්‍රාදේශිය කාර්යාලය මගින් මහජන සේවාවන් ලබාදීම සිදු නොවන අතර, ඉහත සඳහන් ස්ථානයේ පිහිටුවනු ලබන නව ප්‍රාදේශීය කාර්යාලය මගින් 2024 අගෝස්තු මස 16 වන දින සිට නැවත මහජන සේවාවන් ලබාදීමට කටයුතු කරනු ලබන බව ආගමන හා විගමන දෙපාර්මේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/c4fc08f8.json)
 
 ---
 
@@ -2265,59 +2319,5 @@ The cause of death is yet to be ascertained and the magazine has taken the corps
 [Data](articles/8ebbce7e.json)
 
 [Extended Data](ext_articles/8ebbce7e.ext.json)
-
----
-
-### Deciding on bread price tomorrow
-
-*2024-07-25 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199182) · `si`
-
-The All Ceylon Bakery Owners Association plans to announce a decision on bread price reductions tomorrow. Despite a meeting to discuss this, no final agreement has been reached yet. The Minister of Trade has suggested setting a controlled price if manufacturers don't voluntarily lower bread prices. The association's president aims to finalize the decision tomorrow.
-
-🟩
-
-The All Ceylon Bakery Owners Association says that a statement will be made tomorrow (26) on the reduction of bread prices.
-
-The Chairman NK Jayawardene said that a special discussion was held yesterday (24) on the reduction of bread prices.
-
-However, he was unable to reach a final agreement on the reduction of bread prices, "NKK Jayawardena said.
-
-Minister of Trade Nalin Fernando recently stated that a control price is announced if the manufacturers do not take measures to reduce bread.
-
-Accordingly, the bakery manufacturers have focused on reducing the prices of bakery products including bread.
-
-However, is the price deduction?Not?The All Ceylon Bakery Owners Association President NK Jayawardena stated that he is looking to come to a final decision tomorrow.
-
-◼️
-
-[Data](articles/01b9c9f1.json)
-
-[Extended Data](ext_articles/01b9c9f1.ext.json)
-
----
-
-### The Election Commission gains on final decision
-
-*2024-07-25 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199181) · `si`
-
-The Elections Commission is set to finalize the date for the upcoming presidential election today. The chairman, RMA SL Ratnayake, confirmed that all necessary preparations are complete.
-
-🟩
-
-The Elections Commission is due to meet today (25) to meet the final decision on the date of calling on the date of calling on the date of the date and nominations.
-
-The Elections Commission Chairman of the Elections Commission RMA SL Ratnayake is scheduled to meet.
-
-It is reported that the Commission is due to come to a final agreement on the next presidential election.
-
-Election at a media briefing yesterday (24) stated that the date on the date of the date on the date of the date of the date of the election.
-
-The Chairman of the Election Committee said that the basic work required for the presidential election have already been completed.
-
-◼️
-
-[Data](articles/86345805.json)
-
-[Extended Data](ext_articles/86345805.ext.json)
 
 ---

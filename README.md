@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 12:09:14**
+As of **2024-07-25 12:20:22**
 
 ## Newspaper Stats
 
-*Scraped **37,163** Articles*
+*Scraped **37,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 364
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,372
-adalk | 3,371
+adalk | 3,373
 adaderanalk | 4,300
 tamilmirrorlk | 4,582
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,158 (100.0%) of 37,163 articles have been extended.
+37,163 (100.0%) of 37,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### ආචාර්ය වික්‍රමබාහු කරුණාරත්න දිවි ගමනට සමු දෙයි
+
+*2024-07-25 11:49:50* · [`adalk`](https://www.ada.lk/breaking_news/ආචාර්ය-වික්‍රමබාහු-කරුණාරත්න-දිවි-ගමනට-සමු-දෙයි/11-410986) · `si`
+
+නව සම සමාජ පක්ෂයේ නායක ආචාර්ය වික්‍රමබාහු කරුණාරත්න මහතා අභාවප්‍රාප්ත වී තිබේ. මිය යන විට ඒ මහතා 81 වන වියේ පසුවිය.ඒ මහතා අද (25) අලුයම අභාවප්‍රාප්ත වී ඇති බව පවුලේ ආරංචිමාර්ග කියයි.
+
+ඔහු 1943 මාර්තු 8 වැනිදා ලුණුගල ප්‍රදේශයේ උපත ලබා ඇති ඒ මහතා  මතුගම ආනන්ද විද්‍යාලයෙන් ප්‍රාථමික අධ්‍යාපනය ලැබීය. ඔහු කොළඹ ආනන්ද විද්‍යාලයෙන් ද්විතීයික අධ්‍යාපනය ලබා ඇත.
+
+විදුලි ඉංජිනේරු විද්‍යාව පිළිබඳ පළමු පන්තියේ සාමාර්ථයක් ලබා ගැනීමටද ඔහු සමත් විය. එමෙන්ම ඒ මහතා කේම්බ්‍රිජ් විශ්වවිද්‍යාලයේ ඉගෙනීම සඳහා පොදුරාජ්‍ය මණ්ඩලීය ශිෂ්‍යත්වයක් ලබා 1970 දී ආචාර්ය උපාධියක් ලබා ගත්තේය.
+
+පසුව වික්‍රමබාහු කරුණාරත්න ශ්‍රී ලංකාවට පැමිණ ශාස්ත්‍රීය ජීවිතයක් ආරම්භ කළ අතර ඔහු වාමාංශික දේශපාලනයේ ද ප්‍රබල ක්‍රියාකාරිකයෙකි.
+
+◼️
+
+[Data](articles/d01a2a79.json)
+
+---
 
 ### Former Director of Medical Supplies Division granted bail
 
@@ -46,43 +64,57 @@ Wickramanayake was held in remand custody over the alleged substandard immunoglo
 
 [Data](articles/c8a17292.json)
 
+[Extended Data](ext_articles/c8a17292.ext.json)
+
 ---
 
-### බිහිසුණු අනතුරකින් පසු ජීවිත බේරගන්න දැඩි උත්සාහයක්
+### Effort to save lives after a terrible accident
 
 *2024-07-25 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199193) · `si`
 
-මොනරාගල සියඹලාණ්ඩුව ප්‍රධාන මාර්ගයේ දොඹගහවෙල පොලිස් බල ප්‍රදේශයට අයත් දොඹගහවෙල ඉන්ධන පිරවුම්හල ආසන්නයේ දී සිදුවු බිහිසුණු අනතුරකින් පුද්ගලයින් දෙදෙනෙක් තුවාල ලබා තිබේ.
+A tragic accident near the Drambagahawela Filling Station involved a lorry hitting a box and a motorcycle, injuring two people. Rescue efforts were challenging due to one victim being trapped in the cab. Both victims were taken to the Moneragala district hospital. The lorry driver was arrested, and further investigations are ongoing by the Dombagahawela Police Station.
 
-බොලෙරෝ වර්ගයේ කැබ් රථයක් සහ යතුරුපැදි ප්‍රවාහනය කරමින් තිබූ ලොරි රථයක් එකිනෙක ගැටීමෙන් එම අනතුර සිදු වී තිබුණි.
+🟩
 
-අනතුරින් පසු කැබ් රථයේ රියදුරු සහ එහි ගමන් ගත් තවත් පුද්ගලයකු කැබ් රථය තුළ සිරවී සිටි අතර එම පුද්ගලයන් දෙදෙනා බේරාගැනීමට අසල සිටි පිරිස්වලට දැඩි පරිශ්‍රමයක් දැරීමට සිදුවිය.
+Two persons were injured in a terrible accident near the Drambagahawela Filling Station in the Dowgahawela Filling Station in the Dowgowalanduwa main road on the Siyambalanduwa main road.
 
-අනතුරින් තුවාල ලැබූ දෙදෙනා කඩිනමින් මුදවාගෙන මොනරාගල දිස්ත්‍රික් මහ රෝහලට ඇතුළත් කර ඇති අතර එම පුද්ගලයන් දෙදෙනා මහකලුගොල්ල ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පැවසීය.
+The accident had occurred when a lorry collided with a box and motorcycle transporting a box.
 
-අනතුර සම්බන්ධයෙන් ලොරි රියදුරු දොඹගහවෙල පොලිස් නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇති අතර සිද්ධිය සම්බන්ධයෙන් දොඹගහවෙල පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+After the accident, another man trapped in the cab and was stuck in the cab and the people near the rescued of the two persons had to attract hardship.
+
+The two injured were rushed to the Moneragala district hospital with immediate residents of the Mahakkalagolla area.
+
+The lorry driver has been arrested by police officers regarding the accident and the officials of the Dombagahawela Police Station is conducting further investigations.
 
 ◼️
 
 [Data](articles/2db67f21.json)
 
+[Extended Data](ext_articles/2db67f21.ext.json)
+
 ---
 
-### காதலிக்கு வீடியோ எடுத்து காலனுடன் சென்ற காதலன்
+### The boyfriend who went with the video of the girlfriend and went with the colon
 
 *2024-07-25 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலிக்கு-வீடியோ-எடுத்து-காலனுடன்-சென்ற-காதலன்/175-341004) · `ta`
 
-காதலியுடன் ஏற்பட்ட முரண்பாடு காரணமாக இளைஞன் ஒருவன் தன் உயிரை மாய்த்துக் கொண்டுள்ள சம்பவம் புதன்கிழமை (24) இடம்பெற்றுள்ளது.
+In a tragic incident on Wednesday, an 18-year-old from Ottamavadi, Valaichenai, died after a dispute with his girlfriend. The young man, employed at a Pettah trade center, was on a video call with her when the argument escalated. His body is now at Colombo Hospital for autopsy, with police continuing their investigation.
 
-வாழைச்சேனை , ஓட்டமாவடி பகுதியைச் சேர்ந்த 18 வயது இளைஞன் ஒருவனே இவ்வாறு தன் உயிரை மாய்த்துக் கொண்டுள்ளார்.
+🟩
 
-கொழும்பு, புறக்கோட்டை பகுதியில் உள்ள  வர்த்தக நிலையமொன்றில்  கடைமையாற்றும் குறித்த இளைஞன் தனது காதலிக்கு வீடியோ அழைப்பை எடுத்து தொடர்பில் இருந்த  நிலையிலேயே இவ்வாறு உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளின் போது தெரியவந்துள்ளது.
+The incident took place on Wednesday (24) that a young man was living his life due to conflict with his girlfriend.
 
-மேலும் மரணமடைந்த இளைஞனின் உடல் பிரேத பரிசோதனைக்காக கொழும்பு வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை புறக்கோட்டை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+A 18 -year -old youth from Ottamavadi, Valaichenai, has suffered his life.
+
+Initial investigations by the police revealed that the young man who was working at a trade center in Pettah, Colombo, had taken a video call to his girlfriend.
+
+The body of the deceased has been placed at the Colombo Hospital for autopsy and further investigations are being carried out by the police.
 
 ◼️
 
 [Data](articles/853901ed.json)
+
+[Extended Data](ext_articles/853901ed.ext.json)
 
 ---
 
@@ -175,6 +207,22 @@ The suspect was able to arrest the suspect by the Special Task Force.
 [Data](articles/a05ab30f.json)
 
 [Extended Data](ext_articles/a05ab30f.ext.json)
+
+---
+
+### සරත් ෆොන්සේකා ජනපති සටනට
+
+*2024-07-25 10:55:40* · [`adalk`](https://www.ada.lk/breaking_news/සරත්-ෆොන්සේකා-ජනපති-සටනට/11-410981) · `si`
+
+එළැඹෙන ජනපතිවරණය සඳහා තමන්ද අපේක්ෂකයෙක් ලෙස එක්වන බව ෆීල්ඩ් මාෂල් සරත් ෆොන්සේකා මහතා පවසයි. සිය X ගිනුමෙන් නිල නිවේදනයක් කරමින් ඔහු මේ බව පවසයි.
+
+වසර 76ක් පුරාවට රට පාලනය කළ දේශපාලන පක්ෂ රට බංකොලොත්භාවයට  පත්කල බවත් ශ්‍රී ලංකාවේ ස්වාභාවික සම්පත් ආදායම් උත්පාදනය වෙනුවෙන් යොදා ගත යුතුව ඇති බවත් ඔහු පෙන්වා දෙයි.
+
+ශ්‍රි ලංකාව ඉදිරියට ගෙන යාම වෙනුවෙන් සියලු ශ්‍රී ලාංකිකයන්ට තමන් සමග එක්වන ලෙසට ආරාධනා කරන බවත් ඉදිරියට යාමට නම් දූෂණය පිටු දැකිය යුතු බවත් ඔහු වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/8b86e398.json)
 
 ---
 
@@ -322,21 +370,27 @@ According to the police, the suspect has been arrested and further investigation
 
 ---
 
-### மகனை சித்திரவதை செய்த தந்தை கைது
+### Father arrested for torture
 
 *2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனை-சித்திரவதை-செய்த-தந்தை-கைது/175-340997) · `ta`
 
-தனது மூன்று வயது மகனுக்கு உணவு கொடுக்காமல், தற்கொலை செய்து கொள்வோம் என கூறி சித்திரவதை செய்த தந்தையொருவர் கரந்தெனிய, அனுருத்தகம பிரதேசத்தில் இருந்து புதன்கிழமை (24) இரவு கைது செய்யப்பட்டதாக எல்பிட்டிய பொலிஸார் தெரிவித்தனர் .
+A father was arrested after allegedly being forced to attempt suicide by his three-year-old son in Karandeniya, Anuruthagama. The child's mother, who works abroad, reportedly abused him due to financial disputes over money sent to her family. She shared a video online seeking help, leading to the arrest of the suspect for further investigation.
 
-குறித்த சிறுவனின் தாய் வெளிநாட்டில் பணிபுரிந்து வரும் நிலையில் , அவர் தனது தாயாருக்கு பணம் அனுப்புவதாலும், கணவனும் பணம் அனுப்பாததாலும் சிறுவனை சித்திரவதை செய்து அதன் காணொளியை மனைவிக்கு அனுப்பியுள்ளார் .
+🟩
 
-இந்த காணொளியை குறித்த பெண் சமூக வலைதளங்களில் வெளியிட்டு, தனது மூன்று வயது சிறுவனை காப்பாற்றுமாறு பதிவிட்டுள்ளார் .
+A father who was tortured by his three -year -old son to commit suicide was arrested from Karandeniya, Anuruthagama on Wednesday night, Elpitiya police said.
 
-அதற்கமையவே சந்தேகநபர் கைது செய்யப்பட்டதாகவும் இது தொடர்பிலான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர் .
+While the boy's mother is working abroad, she has tortured the boy and sent the boy to his wife because she was sending money to her mother and not sending money.
+
+The woman posted on social networks about the video and posted her three -year -old boy to save her.
+
+According to the police, the suspect has been arrested and further investigations are being carried out.
 
 ◼️
 
 [Data](articles/e6a73643.json)
+
+[Extended Data](ext_articles/e6a73643.ext.json)
 
 ---
 
@@ -422,23 +476,31 @@ In this case, the Chairman of the Ombudsman, who was hearing the case, ordered t
 
 ---
 
-### ஊறுகாய்க்கு  ரூ.35,025 அபராதம்
+### Pickles fined Rs. 35,025
 
 *2024-07-25 10:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊறுகாய்க்கு-ரூ-35-025-அபராதம்/175-340995) · `ta`
 
-சாப்பாடு பொதியில் ஊறுகாய் வைக்காமையால் ஏற்பட்ட மன உளைச்சலுக்காக தாக்கல் செய்யப்பட்ட வழக்கில், குற்றவாளியாக இனங்கண்ட, ஹோட்டல் உரிமையாளருக்கு ரூ.35,025அபராதம் விதித்து தீர்ப்பளிக்கப்பட்டுள்ளது. அந்த அபராத ​தொகையை 45 நாட்களுக்கு வழங்குமாறும் உத்தரவிடப்பட்டுள்ளது.
+Hotel owner fined Rs. 35,025 for refusing to pay for 25 pickle parcels. Incident occurred during a commemoration event in Villupuram, where the owner failed to provide pickles as part of meals for the elderly. Despite being asked to repeat the order, the owner refused, leading to the fine imposed by the Ombudsman Chairman.
 
-விழுப்புரம், வழுதரெட்டியை சேர்ந்தவர் ஆரோக்கியசாமி. அனைத்து நுகர்வோர் பொதுமக்கள் சுற்றுச்சூழல் பொதுநல சங்க மாநில தலைவராக உள்ளார்.
+🟩
 
-இவர் தன் உறவினரின் நினைவு தினத்தையொட்டி, 25 பேருக்கு அன்னதானம் வழங்குவதற்காக, 2022ஆம் ஆண்டு விழுப்புரம் புதிய பஸ் நிலையம் அருகே உள்ள ஹோட்டலில் பணம் செலுத்தி, 25 பார்சல் சாப்பாடு வாங்கிய நிலையில், அதற்கான ரசீதை தர மறுத்த ஹோட்டல் உரிமையாளர் துண்டு சீட்டில் எழுதி கொடுத்துள்ளார்.
+The hotel owner has been fined Rs. 35,025. The fine has been ordered to be paid for 45 days.
 
-வீட்டிற்கு சென்ற ஆரோக்கியசாமி, உணவு பொட்டலங்களை முதியோருக்கு வழங்கியபோது, அதில் ஊறுகாய் இல்லை. ஹோட்டல் உரிமையாளரிடம் கேட்டபோது, ஊறுகாய் வைக்காதது உறுதியானது.
+Villupuram. He is the head of the state's public welfare union.
 
-இதையடுத்து, ஊறுகாய்க்கான 25 ரூபாயை திரும்பக் கேட்டுள்ளார் ஆரோக்கியசாமி. ஆனால், ஹோட்டல் உரிமையாளர் தர மறுத்துவிட்டார்.
+On the occasion of his cousin's commemoration, the owner of the hotel, who refused to pay 25 parcels at a hotel near the Villupuram new bus station in 2022, refused to pay the receipt.
 
-...
+When he went home, when he gave food parcels to the elderly, there was no pickle in it. When asked by the hotel owner, it was certain that the pickles were not.
+
+Subsequently, Arugasamy has asked for a repetition of 25 rupees for pickles.. But the hotel owner refused.
+
+In this case, the Chairman of the Ombudsman, who was hearing the case, ordered the hotel owner to pay 3525 rupees, Rs.
+
+◼️
 
 [Data](articles/ec110e99.json)
+
+[Extended Data](ext_articles/ec110e99.ext.json)
 
 ---
 
@@ -2195,47 +2257,5 @@ The Cabinet of Ministers has granted approval to provide a special monthly allow
 [Data](articles/064fb878.json)
 
 [Extended Data](ext_articles/064fb878.ext.json)
-
----
-
-### Special monthly allowance of Rs. 3,000 per pensioners
-
-*2024-07-24 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199172) · `si`
-
-In a move aimed at addressing salary discrepancies, Sri Lanka's Minister Susil Premajayantha announced a special monthly allowance of Rs. 3,000 for public sector pensioners, effective from April 2024 until September 2024. This decision follows the appointment of a committee tasked with resolving these anomalies across all sectors. Approximately 700,000 individuals stand to benefit from this initiative.
-
-🟩
-
-Minister Susil Premajayantha said at the Cabinet that the summit was given to the pensioners of the public service today (24) was approved.
-
-Accordingly, this special monthly allowance is due until September 2024 until the correction of salary anomalies will be corrected.
-
-"A separate committee has been appointed regarding salary anomalies. The committee was appointed to solve the salary anomalies in every field at once. In the meantime, the committee's views was decided to give a sum of Rs. 3,000 to pensioners until the completion of these activities. About 700,000 people benefit. "
-
-◼️
-
-[Data](articles/a2aa1b73.json)
-
-[Extended Data](ext_articles/a2aa1b73.ext.json)
-
----
-
-### Cabinet of Ministers demembers the decision of the Supreme Court about the IGP
-
-*2024-07-24 20:03:45* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ගැන-ශ්‍රේෂ්ඨාධිකරණයේ-තීරණය-ගැන-අමාත්‍ය-මණ්ඩලයෙන්-මතයක්/11-410980) · `si`
-
-The Cabinet of Ministers plans to review the Supreme Court's decision regarding IGP Deshabandu Tennakoon within two days. This decision was made during a meeting held at the Presidential Secretariat under President Ranil Wickremesinghe.
-
-🟩
-
-The Cabinet of Ministers has decided to express their opinion in the next two days to study the legal status by the IGP Deshabandu Tennakoon.
-
-The meeting was held today (24) at the Presidential Secretariat of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/14f29f8f.json)
-
-[Extended Data](ext_articles/14f29f8f.ext.json)
 
 ---

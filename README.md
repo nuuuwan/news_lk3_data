@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 12:35:53**
+As of **2024-07-25 12:54:24**
 
 ## Newspaper Stats
 
-*Scraped **37,176** Articles*
+*Scraped **37,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,224
 dailyftlk | 2,375
 adalk | 3,373
 adaderanalk | 4,301
-tamilmirrorlk | 4,582
+tamilmirrorlk | 4,583
 dailymirrorlk | 4,733
 virakesarilk | 5,831
 adaderanasinhalalk | 6,237
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,165 (100.0%) of 37,176 articles have been extended.
+37,174 (100.0%) of 37,177 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,27 +50,35 @@ In Gyeonggi, a province near Seoul, a balloon caught fire on top of a residentia
 
 [Data](articles/5e6d808e.json)
 
+[Extended Data](ext_articles/5e6d808e.ext.json)
+
 ---
 
-### பல்கலைக்கழக மாணவன் உயிர்மாய்ப்பு
+### Vitalization
 
 *2024-07-25 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189335) · `ta`
 
-கண்டி, பிலிமத்தலாவை, பரகட வெல்ல பகுதியைச் சேர்ந்த  பல்கலைக்கழக மாணவன் ஒருவன் உயிரை மாய்த்துக் கொண்டுள்ளார்.
+A university student from Paragada Wella, Kandy, tragically passed away. The student was found unconscious near their home on the evening of the 22nd and succumbed to their injuries on the 23rd. Investigations reveal the student's mother, an assistant principal, and two siblings were absent during the incident. The student had been at home for two months due to non-academic university staff duties. An autopsy by Mr. Kasun Ekanayake, a senior lecturer at the Peradeniya University Medical Faculty, concluded the cause of death as unknown pending further investigation by Death Investigation Officer Senaka Karunaratne.
 
-குறித்த மாணவன் கடந்த 22ஆம் திகதி மதியம் வீட்டில் இருந்து சுமார் 100 மீற்றர் தூரத்தில் உயிரை மாய்த்துக் கொண்டுள்ள நிலையில் 23ஆம் திகதி காலை சடலமாக மீட்கப்பட்டுள்ளார்.
+🟩
 
-உயிரிழந்த மாணவனின்  தாயார் உதவி அதிபர் எனவும் அவரும் ஏனைய இரு பிள்ளைகளும் சம்பவம் இடம்பெற்ற போது வீட்டில் இல்லை எனவும் பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+A university student from Paragada Wella, Kandy, Kandy, has died of life.
 
-பல்கலைக்கழக கல்விசாரா ஊழியர்களின் பணிப்பகிஷ்கரிப்பு காரணமாக இந்த மாணவன் சுமார் 02 மாதங்களை வீட்டிலேயே கழித்துள்ளார்.
+The student was recovered on the morning of the 23rd of the 23rd afternoon, about 100 meters away from home on the 22nd.
 
-பேராதனை பல்கலைக்கழக மருத்துவ பீடத்தின் சிரேஷ்ட விரிவுரையாளர் திரு.கசுன் ஏகநாயக்கவினால் சடலத்தின் பிரேத பரிசோதனை நடத்தப்பட்டுள்ளது.
+Police investigations have revealed that the mother of the deceased student was the assistant principal and that she and the other two children were not at home during the incident.
 
-சாட்சியங்கள் மற்றும் மருத்துவ அறிக்கைகளை கருத்திற்கொண்ட மரண விசாரணை அதிகாரி சேனக கருணாரத்ன உயிரை மாய்த்துக் கொண்டுள்ளதால் மரணம் ஏற்பட்டுள்ளதாக தெரிவித்துள்ளார்.
+The student has spent about 2 months at home due to the work of university non -academic staff.
+
+The autopsy of the body was conducted by Mr. Kasun Ekanayake, a senior lecturer of the Peradeniya University Medical Faculty.
+
+Death Investigation Officer Senaka Karunaratne, who is considering witnesses and medical reports, said the death was due to death.
 
 ◼️
 
 [Data](articles/d90d8ab6.json)
+
+[Extended Data](ext_articles/d90d8ab6.ext.json)
 
 ---
 
@@ -116,21 +124,29 @@ Wickramanayake was held in remand custody over the alleged substandard immunoglo
 
 ---
 
-### கொழும்பில் இரண்டு இடங்களில் 48 பாராளுமன்ற உறுப்பினர்கள் சந்தித்து கலந்துரையாடியது என்ன?
+### What did 48 MPs meet in two places in Colombo?
 
 *2024-07-25 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189331) · `ta`
 
-அரசாங்கத்தை பிரதிநிதித்துவப்படுத்தும் அமைச்சரவை மற்றும் இராஜாங்க அமைச்சர்கள் நேற்று புதன்கிழமை (24) கொழும்பில் இரண்டு இடங்களில் 48 பாராளுமன்ற உறுப்பினர்கள் சந்தித்து ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆதரவு தொடர்பில் விசேட கலந்துரையாடலை நடத்தியதாக அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+48 MPs from the Sri Lankan government gathered in Colombo, meeting at two locations: Colombo Flower Road and a hotel in Talawatugoda. The discussions focused on supporting President Ranil Wickremesinghe, planning for the upcoming presidential election, establishing a political office, and media activities. They also discussed creating a comprehensive support program and informing the public about government projects.
 
-இதன்படி, அரசாங்கங்களை பிரதிநிதித்துவப்படுத்தும் 30 அமைச்சரவை மற்றும் இராஜாங்க அமைச்சர்கள் கொழும்பு பிளவர் வீதியில் சந்தித்து கலந்துரையாடியுள்ளதுடன், அரசாங்கத்தின் பின்வரிசை உறுப்பினர்கள் 18 பேர் தலவத்துகொடையில் உள்ள ஹோட்டல் ஒன்றில் சந்தித்து கலந்துரையாடியுள்ளனர்.
+🟩
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில்  ஸ்ரீ லங்கா பொதுஜன பெரமுனவுக்கு மொட்டுச் சின்னத்தை வழங்கினால் ஏற்படும் நிலைமை குறித்து இரு தரப்பினரும் விரிவாக கலந்துரையாடியுள்ளதாகவும் அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+Political sources said that the Cabinet and the diplomatic ministers representing the government held a special discussion in the support of President Ranil Wickremesinghe on Wednesday (24) in two places in Colombo.
 
-மேலும் இந்த தருணத்தில் தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தமது ஆதரவை வழங்குவதற்கு இரு கட்சிகளின் இறுதி உடன்படிக்கை அனுப்பப்பட்டுள்ளது.
+Accordingly, 30 cabinet and diplomatic ministers representing governments have met and discussed at the Colombo Flower Road and 18 members of the government met at a hotel in Talawatugoda.
+
+The report also stated that the two sides have discussed the situation in which the Sri Lanka PA has been given a budget symbol in the upcoming presidential election.
+
+At this moment, the final agreement of the two parties has been sent to the current President Ranil Wickremesinghe to support his support.
+
+According to political sources, both sides are focusing on President Ranil Wickremesinghe's presidential election, setting up a political office, appointing agents at the polling station and carrying out media activities.
 
 ...
 
 [Data](articles/ed6d902f.json)
+
+[Extended Data](ext_articles/ed6d902f.ext.json)
 
 ---
 
@@ -160,21 +176,45 @@ The lorry driver has been arrested by police officers regarding the accident and
 
 ---
 
-### பொலிஸ்மா அதிபர் தொடர்பான நீதிமன்ற உத்தரவை அமைச்சரவை மாற்றமுடியாது - சாலியபீரிஸ்
+### Cabinet cannot change the court order on the police chief - Saliyaberis
 
 *2024-07-25 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189332) · `ta`
 
-பொலிஸ்மா அதிபர் தொடர்பான நீதிமன்ற உத்தரவை அமைச்சரவை மாற்றமுடியாது என இலங்கை சட்டத்தரணிகள் சங்கத்தின் முன்னாள் தலைவர் சட்டத்தரணி சாலியபீரிஸ் தெரிவித்துள்ளார்.
+Saliyabiris, a former attorney, stated that the Cabinet cannot alter a Supreme Court order regarding the Inspector General of Police. The Cabinet plans to probe this matter but cannot change the court's restrictions on the IG's duties pending the outcome of related cases. Violating the court order would constitute contempt of court.
 
-பொலிஸ்மா அதிபர் தொடர்பில் உயர்நீதிமன்றம் விடுத்துள்ள உத்தரவு தொடர்பிலும் அது தொடர்பான சட்டவிடயங்கள் தொடர்பிலும் ஆராய்ந்து அடுத்த இரு தினங்களிற்குள் முடிவை தெரிவிப்பதற்கு அமைச்சரவை தீர்மானித்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-அமைச்சரவை எவ்வாறான தீர்மானத்தை எடுத்தாலும்,தேசபந்து தென்னக்கோனிற்கு எதிரான மனுக்கள் தொடர்பான இறுதி தீர்ப்புகள் வெளியாகும் வரை அவர் பொலிஸ்மா அதிபராக பணிபுரிவதை  நீதிமன்றம் கட்டுப்படுத்தியுள்ளது.
+Former Attorney -at -Law Saliyabiris said the Cabinet could not change the court order on the Inspector General of Police.
 
-நீதிமன்றத்தின் உத்தரவை எந்த தரப்பாவது மீற முயன்றால் அது நீதிமன்ற அவமதிப்பாக கருதப்படும்.
+It is reported that the Cabinet has decided to investigate the order issued by the Supreme Court on the orders of the Inspector General of Police and the legal issues.
+
+Whatever the Cabinet's decision, the court has restricted his functioning as the Inspector General of Police until the final verdicts of the Patriotic Tennakoon petitions are released.
+
+If any side tries to violate the court order, it will be considered a contempt of court.
 
 ◼️
 
 [Data](articles/7a72f660.json)
+
+[Extended Data](ext_articles/7a72f660.ext.json)
+
+---
+
+### காதலிக்கு வீடியோ எடுத்து காலனிடன் சென்ற காதலன்
+
+*2024-07-25 11:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலிக்கு-வீடியோ-எடுத்து-காலனிடன்-சென்ற-காதலன்/175-341004) · `ta`
+
+காதலியுடன் ஏற்பட்ட முரண்பாடு காரணமாக இளைஞன் ஒருவன் தன் உயிரை மாய்த்துக் கொண்டுள்ள சம்பவம் புதன்கிழமை (24) இடம்பெற்றுள்ளது.
+
+வாழைச்சேனை , ஓட்டமாவடி பகுதியைச் சேர்ந்த 18 வயது இளைஞன் ஒருவனே இவ்வாறு தன் உயிரை மாய்த்துக் கொண்டுள்ளார்.
+
+கொழும்பு, புறக்கோட்டை பகுதியில் உள்ள  வர்த்தக நிலையமொன்றில்  கடைமையாற்றும் குறித்த இளைஞன் தனது காதலிக்கு வீடியோ அழைப்பை எடுத்து தொடர்பில் இருந்த  நிலையிலேயே இவ்வாறு உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளின் போது தெரியவந்துள்ளது.
+
+மேலும் மரணமடைந்த இளைஞனின் உடல் பிரேத பரிசோதனைக்காக கொழும்பு வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை புறக்கோட்டை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/460fdf8e.json)
 
 ---
 
@@ -294,23 +334,29 @@ The suspect was able to arrest the suspect by the Special Task Force.
 
 ---
 
-### ஜனாதிபதித் தேர்தலில் களமிறங்கும் விஜயதாச !
+### Vijayadasa in the presidential election
 
 *2024-07-25 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/189326) · `ta`
 
-2024 ஆம் ஆண்டு ஜனாதிபதித்தேர்தலில் வேட்பாளராகக் களமிறங்கப்போவதாக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ இன்று வியாழக்கிழமை (25) உத்தியோகபூர்வமாக அறிவித்துள்ளார்.
+Justice Minister Vijayadasa Rajapakse announced his candidacy for the 2024 presidential election, representing the People's Alliance. He emphasized the importance of citizens taking charge of their destiny rather than leaving it to politicians. Meanwhile, Field Marcel Sarath Fonseka also declared his participation in the election.
 
-மக்கள் கூட்டணியின் சார்பில் வேட்பாளராகக் களமிறங்குவதாகவும், சின்னத்தை பின்னர் அறிவிப்பதாகவும் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+🟩
 
-இலங்கையினதும், இலங்கை மக்களினதும் வெற்றியை முன்னிறுத்தியே எதிர்வரும் ஜனாதிபதித்தேர்தலில் வேட்பாளராகக் களமிறங்குவதாக விஜயதாஸ ராஜபக்ஷ மேலும் குறிப்பிட்டுள்ளார்.
+Justice Minister Vijayadasa Rajapakse officially announced on Thursday (25) that he will be a candidate for the 2024 presidential election.
 
-உங்களது விதியைத் தீர்மானிக்கும் உரிமையை அரசியல்வாதிகளிடம் கையளித்துப் பார்த்துக்கொண்டிருப்பதால் எஞ்சியது துன்பம் மாத்திரமே. உலகம் மாற்றமடைவதைப் பார்ப்பதற்கு விரும்பினால் அம்மாற்றத்தை  உங்களால் மாத்திரமே ஏற்படுத்தமுடியும் என்றும் நீதியமைச்சர் விஜயதாஸ ராஜபக்‌ஷ மக்களுக்கு அறைகூவல் விடுத்துள்ளார்.
+Vijayadasa Rajapaksa said he was candidate on behalf of the People's Alliance and announced the symbol later.
 
-இதேவேளை, இம்முறை ஜனாதிபதித் தேர்தலில் வேட்பாளராக களமிறங்கப்போவதாக பீல்ட் மார்சல் சரத்பொன்சேக்காவும் உத்தியோகபூர்வமாக அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Vijayadasa Rajapakse further stated that he will be the candidate of the upcoming presidential election with the success of the Sri Lankan and the Sri Lankan people.
+
+Suffering is the only thing that remains because you are handing over the right to decide your destiny to politicians. Justice Minister Vijayadasa Rajapakse has called on the people that you can only make a change if you want to see the world change.
+
+Meanwhile, Field Marcel Sarath Fonseka has officially announced that he will field the presidential election this time.
 
 ◼️
 
 [Data](articles/40c44b63.json)
+
+[Extended Data](ext_articles/40c44b63.ext.json)
 
 ---
 
@@ -336,23 +382,29 @@ He added that the Sri Lankans invite all Sri Lankans to join Sri Lanka and see c
 
 ---
 
-### யாழ். நீதிமன்றுக்கு அருகில் வாள் வெட்டு முயற்சி ; 55 நாட்களின் பின் சந்தேகநபர் கைது
+### Yall. Try to cut the sword near the court;55 days after the suspect arrested
 
 *2024-07-25 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189318) · `ta`
 
-யாழ்ப்பாணம் நீதவான் நீதிமன்ற வழக்கு விசாரணைக்கு சென்று விட்டு, வீடு திரும்பியவரை வாளினால் வெட்ட முயன்ற குற்றச்சாட்டில் இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A young man was arrested for allegedly attempting to cut off a swordsman near a court. The incident occurred 55 days post-arrest. He had previously sought refuge in the court after escaping a violent mob attack. The three attackers were also arrested upon the magistrate's order. The suspect, known for violent incidents in Jaffna, faces four outstanding cases.
 
-கடந்த மே மாதம் 30ஆம் திகதி நீதிமன்றில்  நடைபெற்ற வழக்கு விசாரணைக்கு சென்று விட்டு, வீடு திரும்ப முற்பட்டவரை, நீதிமன்ற கட்டட தொகுதிக்கு அருகில் வைத்து மூவர் அடங்கிய வன்முறை கும்பல் வாளினால் வெட்ட முயன்றுள்ளனர்.
+🟩
 
-வன்முறை கும்பலில் தாக்குதலில் இருந்து தப்பித்த இளைஞன், நீதிமன்றில் தஞ்சமடைந்துள்ளார். அது தொடர்பில் உடனடியாக நீதவானின் கவனத்திற்கு கொண்டு செல்லப்பட்டதை அடுத்து, தாக்குதல் முயற்சி மேற்கொண்ட மூவரையும் உடனடியாக கைது செய்து நீதிமன்றில் முற்படுத்த மன்று பொலிஸாருக்கு உத்தரவிட்டது.
+A young man has been arrested on charges of trying to cut off a sword man who left the house and returned home.
 
-மூவரையும் கைது செய்வதற்கு பொலிஸார் நடவடிக்கை எடுத்த நிலையில், மூவரும் தலைமறைவாகி இருந்தனர்.
+The case held in court on May 30 last year has left the trial and tried to cut down the violent gang of three persons near the court building.
 
-கைதான நபர் யாழில் பல்வேறு இடங்களில் வன்முறை சம்பவங்களில் ஈடுபட்ட குற்றச்சாட்டில் நீதிமன்றில் வழக்குகள் நிலுவையில் உள்ளதாகவும், 04 திறந்த பிடியாணைகள் உள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+A young man who escaped from attack in violent mob, sought refuge in court. Following the immediate brought to the notice of the magistrate, the three men who attempted the attack were immediately arrested and ordered by the police.
+
+As the police took steps to arrest the three, the trio were in hiding.
+
+Police said that the detainee has been charged in court on charges of violent incidents in various places in Jaffna and has 04 open clutches.
 
 ◼️
 
 [Data](articles/ae1d34bc.json)
+
+[Extended Data](ext_articles/ae1d34bc.ext.json)
 
 ---
 
@@ -722,23 +774,29 @@ This is my formal and official announcement as the Sri Lankan presidential candi
 
 ---
 
-### பொலிஸ்மா அதிபர் இல்லாமல் தேர்தலா? குழப்பத்தில் தேர்தல் ஆணைக்குழு
+### Elections without the Inspector General of Police?Election Commission in chaos
 
 *2024-07-25 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189319) · `ta`
 
-தேசபந்து தென்னக்கோன் பொலிஸ்மா அதிபராக செயற்படுவதற்கு நீதிமன்றம் இடைக்காலதடை விதித்துள்ளமை காரணமாக வெள்ளிக்கிழமை ஜனாதிபதி தேர்தலை அறிவித்த பின்னர் அதனை நடத்துவது தொடர்பில் தேர்தல் ஆணைக்குழு குழப்பமான நிலைக்குள் தள்ளப்பட்டுள்ளது.
+The Election Commission faces uncertainty due to a court injunction affecting its ability to coordinate with the Police Department, crucial for conducting elections. A senior official highlights the need for clear communication channels with the Inspector General of Police or the Chancellor to avoid further confusion.
 
-தேர்தல்களை நடத்துவதற்கு பொலிஸ்திணைக்களம் மிகவும் அவசியமானதாகும்,தேர்தலின் போது தேர்தல் ஆணைக்குழு தனது உத்தரவுகளை நடைமுறைப்படுத்துமாநு பொலிஸ்மா அதிபருக்கு உத்தரவிடும்.
+🟩
 
-இது குறித்து கருத்து வெளியிட்டுள்ள தேர்தல் ஆணைக்குழுவை சேர்ந்த சிரேஸ்ட அதிகாரியொருவர் தனது ஆணைக்குழு பொலிஸ்மா அதிபர் அல்லது பதில்பொலிஸ்மா அதிபருடன் தொடர்புகொள்ளவேண்டிய தேவைகள் உள்ளதாக தெரிவித்துள்ளார்.
+The Election Commission has been in a state of confusion over the presidential election on Friday as the court has issued an interim injunction to act as the Tennakoon Police Principal.
 
-தேர்தல் அறிவிக்கப்பட்டவுடன் பொலிஸ்மா அதிபர் பதவியில் அல்லது பதில் பொலிஸ்மா அதிபர் பதவியில் ஒருவர் காணப்படுவது அவசியம் என அவர் தெரிவித்துள்ளார்.
+The Police Department is essential to hold elections, and the Election Commission will order the Inspector General of Police during the election.
 
-இல்லாவிட்டால் யாரை தொடர்புகொள்வது என்ற குழப்பநிலைக்குள் நாங்கள் தள்ளப்படலாம் என அவர் தெரிவித்துள்ளார்.
+Commenting on this, a senior official from the Election Commission said that there was a need to contact the Inspector General of Police or the Chancellor of the Commission.
+
+He said that once the election was announced, one would be in the post of Inspector General of Police or in response to the post of Inspector General of Police.
+
+Otherwise we may be pushed into the confusion of whom to communicate, ”he said.
 
 ◼️
 
 [Data](articles/e8caac0f.json)
+
+[Extended Data](ext_articles/e8caac0f.ext.json)
 
 ---
 
@@ -786,17 +844,25 @@ If a vehicle runs a smoker, a photo or video, a photo or video, and the Departme
 
 ---
 
-### வட்டிவீதங்களைக் குறைத்தது மத்திய வங்கி
+### Central Bank has reduced interest rates
 
 *2024-07-25 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189317) · `ta`
 
-நாட்டின் பொருளாதாரத்தில் சமகாலத்தில் அவதானிக்கப்பட்ட குறிகாட்டிகளின் அடிப்படையில் வைப்புக்கள் மற்றும் கடன்களுக்கான வட்டிவீதங்களை முறையே 8.25 மற்றும் 9.25 சதவீதமாகக் குறைப்பதற்கு நாணயச்சபை தீர்மானித்திருப்பதாக இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க அறிவித்துள்ளார்.
+The Central Bank of Sri Lanka has lowered deposit and loan interest rates to 8.25% and 9.25% respectively, citing positive economic indicators like lower inflation and domestic growth. The decision was announced during the bank's 4th review meeting, aiming to boost the economy further amidst stable inflation and minimal foreign sector pressure.
 
-நாணயச்சபையின் இவ்வாண்டுக்கான 4 ஆவது மீளாய்வுக்கூட்டத்தில் மேற்கொள்ளப்பட்ட தீர்மானங்களை அறிவிக்கும் நோக்கிலான ஊடகவியலாளர் சந்திப்பு நேற்று புதன்கிழமை கொழும்பிலுள்ள மத்திய வங்கியின் கேட்போர்கூடத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது. அதில் கலந்துகொண்டு கருத்து வெளியிடுகையிலேயே ஆளுநர் நந்தலால் வீரசிங்க மேற்குறிப்பிட்ட அறிவிப்பை வெளியிட்டார்.
+🟩
+
+The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has decided to reduce the interest rate on deposits and loans based on contemporary indicators in the country's economy to 8.25 and 9.25 per cent respectively.
+
+A media briefing was organized at the Central Bank Auditorium in Colombo on Wednesday at the Central Bank's 4th review meeting of the Monetary Council.. Governor Nandalal Weerasinghe made the announcement.
+
+Accordingly, the decline in last month's question and a minimum impact of inflation than the recent tax restructuring, the Monetary Council has decided to reduce policy interest rates by 25 basic points based on factors, including sustainable inflation and minimal foreign sector pressure.. Accordingly, the sub -deposit rate and the subsidiary loan rate have been reduced to 8.25 and 9.25 per cent respectively, and it has been decided to maintain the assignment at a previous 2 per cent level.
 
 ...
 
 [Data](articles/262453ff.json)
+
+[Extended Data](ext_articles/262453ff.ext.json)
 
 ---
 
@@ -1662,6 +1728,8 @@ The opposition to privatisation in Sri Lanka stems from a mixture of ideology an
 
 [Data](articles/56832b45.json)
 
+[Extended Data](ext_articles/56832b45.ext.json)
+
 ---
 
 ### SOERU and insulation it provides against bad privatisations
@@ -2213,23 +2281,5 @@ The captain of the team, Dadtcha Buddhavong, scored 13 runs and Appissara Swanch
 [Data](articles/27589d1a.json)
 
 [Extended Data](ext_articles/27589d1a.ext.json)
-
----
-
-### Keen interest from Kurunegala based SMEs to explore capital-raising opportunities through stock market
-
-*2024-07-24 22:13:00* · [`islandlk`](http://island.lk/keen-interest-from-kurunegala-based-smes-to-explore-capital-raising-opportunities-through-stock-market/) · `en`
-
-The Colombo Stock Exchange (CSE) hosted an issuer forum recently at ‘The Epitome’, Kurunegala, titled “
-
-ඔබේ ව්‍යාපාරයට නව ප්‍රවේශයක්” for business owners in the Wayamba province. The forum provided guidance on exploring effective capital-raising avenues, specifically through listing on the Empower and Diri Savi Boards. These boards cater to SMEs across a wide range of sectors, including agribusinesses, livestock, energy generation, ICT, and tourism-related ventures. Industry experts including CSE representatives led panel discussions and interactive sessions.
-
-Addressing the gathering, Rajeeva Bandaranaike, CEO of CSE, stated, “A listing offers substantial benefits to a company, from raising much needed capital to enhancing its business stature, fostering sound governance, sustainable practices, and enabling wealth creation for shareholders through an IPO or an introduction.”
-
-...
-
-[Data](articles/62f51a6f.json)
-
-[Extended Data](ext_articles/62f51a6f.ext.json)
 
 ---

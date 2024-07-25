@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 22:20:59**
+As of **2024-07-25 22:36:05**
 
 ## Newspaper Stats
 
-*Scraped **37,260** Articles*
+*Scraped **37,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,119
-economynextcom | 2,224
+economynextcom | 2,238
 dailyftlk | 2,375
 adalk | 3,392
 adaderanalk | 4,312
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,259 (100.0%) of 37,260 articles have been extended.
+37,260 (100.0%) of 37,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### පොලිස් නිෂ්කාසන අංශය, බත්තරමුල්ල සුහුරුපායට
+### Police sector sector to Battaramulla
 
 *2024-07-25 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199212) · `si`
 
-පොලිස් මූලස්ථානයේ පවත්වාගෙන යනු ලැබූ පොලිස් නිෂ්කාසන අංශය, බත්තරමුල්ල සුහුරුපාය ගොඩනැගිල්ලේ 17 වන මහලේ ස්ථාපිත කර ඇති බව පොලීසිය ජනතාවට දැනුම්දෙයි.
+The police headquarters in Battaramulla has moved to the 17th floor of Suuhappaya. Applicants with police default applications should use new phone numbers.
 
-පොලිස් නිෂ්කාසන අයදුම්පත් යොමු කර ඇති අයදුම්කරුවන්ට ඒ සම්බන්ධයෙන් විමසීම් කිරීම සඳහා පෙර පැවති දුරකථන අංක වෙනුවට නව අංක කිහිපයක් හඳුන්වාදී තිබේ.
+🟩
 
-ස්ථාපිත කරන ලද නව ලිපිනය වන්නේ 17 වන මහල, සුහුරුපාය, බත්තරමුල්ල.
+The police have been established in the 17th floor of the Police Officers in the Police Headquarters, Battaramulla.
+
+The applicants who have committed police default applications have introduced several new numbers instead of the previous telephone numbers.
+
+The new address is 17th Floor, Suuhappaya, Battaramulla.
 
 ◼️
 
 [Data](articles/ad9894f0.json)
+
+[Extended Data](ext_articles/ad9894f0.ext.json)
 
 ---
 
@@ -54,7 +60,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Prime Minister Dinesh Gunawardena will officially inform Parliament of the government’s official position on the Supreme Court decision regarding the post of the Inspector General of Police (IGP), in a special statement tomorrow (26).
 
-◼️
+The Cabinet of Ministers, which convened an urgent meeting yesterday (24), had decided to announce its response to the decision of the Supreme Court regarding the Inspector General of Police (IGP) within two days after studying in depth the legal aspects of the matter.
+
+The Supreme Court yesterday (24) issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
+
+The Supreme Court had issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
+
+...
 
 [Data](articles/49647d51.json)
 
@@ -260,15 +272,55 @@ Police said the shooting had occurred at the Wadullawatte area in Grand pass thi
 
 UPDATE (8.15 PM): Police stated that the person who was injured in the Grandpass shooting incident has succumbed to his injuries.
 
+The deceased is a 31-year-old male while it is reported that a woman was also injured and hospitalized following the shooting.
+
+They were reportedly traveling in a three-wheeler when an unidentified gunman had fired at them at around 6.00 p.m. today before fleeing the scene.
+
 One person has been injured in a shooting incident at Grandpass in Colombo.
 
-Police said the shooting had occurred at the Wadullawatte area in Grand pass this evening (25).
+Police said the shooting had occurred at the Wadullawatte area in Grandpass this evening (25).
 
 ◼️
 
 [Data](articles/ae4dcd1c.json)
 
 [Extended Data](ext_articles/ae4dcd1c.ext.json)
+
+---
+
+### Sri Lanka passes Public finance bill
+
+*2024-07-25 19:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-passes-public-finance-bill-173832/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliament passed the Public Financial Management and Economic Transformation Bills with amendments on Thursday.
+
+Amendments were incorporated to the bills during the committee stage and subsequently, the third reading was passed without a vote.
+
+These two bills were presented to Parliament on 22 May 2024. (Colombo/Jul25/2025)
+
+◼️
+
+[Data](articles/0b7f62d1.json)
+
+---
+
+### Sri Lanka banks in talks about getting ISBs repaid in rupees: Sources
+
+*2024-07-25 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-in-talks-about-getting-isbs-repaid-in-rupees-sources-173831/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s domestic banks are in talks with the government seeking repayment of their sovereign bonds in rupees, sources said though there are concerns over the likely impact on the exchange rate from such a move.
+
+Out of 12,550 million dollars of sovereign bonds outstanding, about 1,750 million dollars of bonds are held by resident investors, the bulk of which are banks.
+
+When a dollar asset is repaid in rupees, the banks have a negative foreign exchange position against the deposit liabilities called the net open position which has to be covered by purchasing dollars from the market.
+
+By exchanging a rupee security, banks are hoping to reduce or avoid a haircut on the ISB holdings as they did in the case of Sri Lanka Development Bonds.
+
+When Sri Lanka Development Bonds were repaid in rupees without a haircut, the central bank also provided some dollars in August 2023.
+
+...
+
+[Data](articles/4d1d9682.json)
 
 ---
 
@@ -726,6 +778,44 @@ Many of the buses descended from the jeeps to many knives and swords. Sumar was 
 
 ---
 
+### Sri Lanka legislators go to Court against IVS-VFS Global visa deal
+
+*2024-07-25 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-legislators-go-to-court-against-ivs-vfs-global-visa-deal-173801/) · `en`
+
+ECONOMYNEXT – An opposition legislator said he had petitioned Sri Lanka’s Supreme Court against contract given without competitive tender to private consortium involving companies called IVS-GBS and VFS Global.
+
+Opposition legislator Patali Ranawaka said in an x.com (twitter) post that he had filed action in the Supreme Court with fellow parliamentarians M A Sumanthiran and Rauf Hakeem against the Minister of Public Security and the government alleging a scam over the visa deal.
+
+The Committee on Public Finance in Sri Lanka’s parliament in a report has called for the cancellation or amendment of the visa deal which was struck without competitive tender where foreigners are charged between 10 to 25 dollars to issue a visa.
+
+The tourism industry associations have said the website is difficult to navigate compared to an earlier one run by Sri Lanka’s Mobitel for 1 dollar per visa and it is putting off visitors.
+
+...
+
+[Data](articles/6d9e646d.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 303.25/40 to US dollar, bond yields steady
+
+*2024-07-25 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-25-40-to-us-dollar-bond-yields-steady-173795/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.25/40 to the US dollar on Thursday, from 303.55/65 to the US dollar on Wednesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed stable at 10.30/45 percent.
+
+A bond maturing on 15.12.2027 closed stable at 11.60/70 percent.
+
+A bond maturing on 01.05.2028 closed at 11.80/90 percent, up from 11.75/85 percent.
+
+A bond maturing on 15.09.2029 closed at 12.05/10 percent, from 12.02/12 percent. (Colombo/Jul25/2024)
+
+◼️
+
+[Data](articles/de35279f.json)
+
+---
+
 ### Cabinet approves the proposal to implement the national agenda of anti-corruption
 
 *2024-07-25 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199205) · `si`
@@ -898,6 +988,26 @@ Accordingly, the Court has previously paid up to October 9 to file the protests.
 
 ---
 
+### FAO warns of rising avian flu across Asia-Pacific, calls for regional action
+
+*2024-07-25 16:42:00* · [`economynextcom`](https://economynext.com/fao-warns-of-rising-avian-flu-across-asia-pacific-calls-for-regional-action-173786/) · `en`
+
+ECONOMYNEXT – The United Nations Food and Agriculture Organization (FAO) has called for urgent regional efforts to combat a rise in avian influenza cases across the Asia-Pacific region.
+
+The appeal follows a meeting of regional experts in Bangkok, supported by the United States Agency for International Development (USAID) and the Centers for Disease Control and Prevention (CDC).
+
+“Recent developments are alarming. After a prolonged period of minimal human infection, 13 new human cases have been reported in Cambodia, with additional cases in China and Viet Nam since late 2023,” the FAO said in a statement.
+
+“The situation is further complicated by the emergence of a new variant of avian influenza, presenting new challenges for scientists, public health authorities, clinicians and communities alike.”
+
+The FAO said the highly pathogenic avian influenza H5N1 virus has spread more widely geographically than before, reaching as far as South America and Antarctica.
+
+...
+
+[Data](articles/bfedbfa5.json)
+
+---
+
 ### 22% of Sri Lankan households in debt due to economic crisis - survey
 
 *2024-07-25 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100769/22-of-sri-lankan-households-in-debt-due-to-economic-crisis-survey) · `en`
@@ -965,6 +1075,26 @@ The hurricane is due to enter Taiwan and enter the Fujian Province of China.
 [Data](articles/a5a05a86.json)
 
 [Extended Data](ext_articles/a5a05a86.ext.json)
+
+---
+
+### Sri Lanka stocks close down amid election speculation
+
+*2024-07-25 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amid-election-speculation-173781/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, after two candidates announced they would be contesting at Sri Lanka’s upcoming presidential election.
+
+The broader All Share Index closed down 0.52 percent, or 61.09 points, at 11,640; while the more liquid S&P SL20 Index closed down 0.80 percent, or 27.27 points, at 3,386.
+
+“Now that elections are about to be announced, there’s a lot of uncertainty in the market; investors worry about what direction the country will take if the president is changed,” Softlogic Stockbrokers said. “If things change drastically, there could be an impact on fiscal policy and everything.”
+
+Sri Lanka’s Election Commission said it will gazette the day for the polls on Friday.
+
+“Given that we have targets set with this IMF programme, and we have not completed 16 previous programmes, a possible change is viewed negatively. There could be a lot of volatility in the market.”
+
+...
+
+[Data](articles/1c4a0a8e.json)
 
 ---
 
@@ -1134,6 +1264,24 @@ Due to the Annual Esala Perahera of the Kabellamulla Rajamaha Pattalary Devalaya
 
 ---
 
+### Sri Lanka RAMIS should use NIC, find suitable IT partner: Committee
+
+*2024-07-25 15:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-ramis-should-use-nic-find-suitable-it-partner-committee-173753/) · `en`
+
+ECONOMYNEXT – A report on Sri Lanka’s Revenue Administration Management Information System (RAMIS), by a ministerial sub-committee, has made seven key recommendations, including using the national identity card (NIC) for identifying individuals for tax collection purposes.
+
+“Use the National Identity Card (or a future alternative introduced for this purpose) exclusively for identifying individuals for tax collection purposes,” the report on the ‘Effective RAMIS System Utilization’ recommended.
+
+The recommendations included a suggestion to “simplify the tax revenue collection process by developing a user-friendly portal with enhanced user experience (UX) improvements and streamlined online communication.”
+
+The sub-committee, chaired by Minister of Power and Energy Kanchana Wijesekera, presented the report to President Ranil Wickremesinghe at the President’s Office recently.
+
+...
+
+[Data](articles/071a55f6.json)
+
+---
+
 ### Youth arrested for allegedly as a police officer
 
 *2024-07-25 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189334) · `ta`
@@ -1277,6 +1425,24 @@ We are not in the position of talking in the morning and talking about the other
 [Data](articles/27ebaa94.json)
 
 [Extended Data](ext_articles/27ebaa94.ext.json)
+
+---
+
+### Opposition to support Sri Lanka’s new public finance law but not Economic Transformation Bill
+
+*2024-07-25 14:31:00* · [`economynextcom`](https://economynext.com/opposition-to-support-sri-lankas-new-public-finance-law-but-not-economic-transformation-bill-173751/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition party the Samagi Jana Balawegaya (SJB) has expressed conditional support for the Public Finance Management Bill but not for he Economic Transformation Bill, SJB MP Harsha de Silva said.
+
+MP de Silva, who also chairs the parliamentary Committee on Public Finance (COPF) tweeted Thursday July 25 afternoon that the SJB has expressed support for the Public Finance Management Bill but also proposed an amendment to what he called the bill’s “unrealistic” primary expenditure limit.
+
+The SJB’s opposition to the Economic Transformation Bill, he said, was  “not because of ideology but because the forced International Monetary Fund (IMF)  targets” into the bill with weeks to go to Sri Lanka’s presidential election.
+
+COPF, which de Silva chairs, passed the Public Financial Management bill on July 11. The bill, once enacted, would replace the Fiscal Management (Responsibility) Act.
+
+...
+
+[Data](articles/498adc20.json)
 
 ---
 
@@ -1425,6 +1591,26 @@ In this case, the Election Commission has said that the Commission has nothing t
 [Data](articles/51994398.json)
 
 [Extended Data](ext_articles/51994398.ext.json)
+
+---
+
+### Sri Lanka to announce poll date by gazette on 26 July
+
+*2024-07-25 13:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-announce-poll-date-by-gazette-on-26-july-173742/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission will publish a Gazette Extraordinary Notification to announce the date for the Presidential Election and the nomination date on Friday (26), its chairman said.
+
+“The Election Commission, which convened today, has decided to publish the Gazette Extraordinary Notification to announce the date for proclaiming the Presidential Election and the nomination date in accordance with the provisions of the Presidential Elections Act, No. 15 of 1981, which will be declared on the 26th day of July 2024,” R M A L Rathnayake said in a statement.
+
+There has been much speculation about the date of the Presidential Election 2024.
+
+“The Election Commission holds no responsibility for the statements made by various individuals and parties on the day of the presidential poll and other constitutional functions.”
+
+Former army chief Sarath Fonseka and justice minister Wijeyadasa Rajapakshe announced their candidacy earlier on Thursday. (Colombo/Jul25/2024)
+
+◼️
+
+[Data](articles/056a579b.json)
 
 ---
 
@@ -1610,6 +1796,26 @@ The Magistrate's Magistrate had submitted this petition to challenge the sentenc
 
 ---
 
+### Sri Lanka speaker in China discusses Belt and Road Initiative cooperation
+
+*2024-07-25 13:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-in-china-discusses-belt-and-road-initiative-cooperation-173737/) · `en`
+
+ECONOMYNEXT – Speaker of Parliament Mahinda Yapa Abeywardana has discussed furthering cooperation between Sri Lanka and China while on a visit there this week.
+
+“Discussions focused on enhancing cooperation under the Belt and Road Initiative, particularly in advancing key projects like the Colombo Port City and Hambanthota Port,” a Parliament statement said.
+
+Sri Lanka is a key partner in China’s Belt and Road Initiative (BRI), known in China as the One Belt One Road (OBOR) and sometimes referred to as the New Silk Road, a global infrastructure development strategy adopted by the Chinese government in 2013 to invest in more than 150 countries and international organizations.
+
+The BRI is composed of six urban development land corridors linked by road, rail, energy, and digital infrastructure and the Maritime Silk Road linked by the development of ports.
+
+Abeywardana was in China to attend the 8th China-South Asia Exposition held in Kunming, Yunnan Province.
+
+...
+
+[Data](articles/7295723c.json)
+
+---
+
 ### Nuwan Thushara also gets injured
 
 *2024-07-25 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199195) · `si`
@@ -1683,6 +1889,24 @@ Emisha entered the University of Concordha, Canada in 2023, Emmassa had reached 
 [Data](articles/9377c77d.json)
 
 [Extended Data](ext_articles/9377c77d.ext.json)
+
+---
+
+### Nearly 200mn coconuts damaged by monkeys, squirrels in Sri Lanka: Minister
+
+*2024-07-25 12:52:00* · [`economynextcom`](https://economynext.com/nearly-200mn-coconuts-damaged-by-monkeys-squirrels-in-sri-lanka-minister-173729/) · `en`
+
+ECONOMYNEXT – Around 200 million coconuts are destroyed by toque monkeys and giant squirrels in Sri Lanka, its Minister of Agriculture and Plantation Industries, Mahinda Amaraweera  said.
+
+“We don’t need to do anything if we stop the animals eating… a minimum of 200 million coconuts a year are being destroyed by toque monkeys and giant squirrels,” Amaraweera told reporters on Wednesday.
+
+In April 2023, Sri Lanka planned to ship 100,000 toque monkeys to China, however the government could not go through with the plan due to action from animal rights groups.
+
+“We had the opportunity to send 100,000 toque monkeys abroad but groups came forward, and they still come forward, and these animal rights groups went to court and stopped them. But this [loss] is not borne by them but by the farming community and the overall community in the country,” Amaraweera said.
+
+...
+
+[Data](articles/66128e3d.json)
 
 ---
 
@@ -2123,241 +2347,5 @@ According to political sources, both sides are paying attention to President Ran
 [Data](articles/eb7ed8ea.json)
 
 [Extended Data](ext_articles/eb7ed8ea.ext.json)
-
----
-
-### Athletics team goes to the Olympic Games
-
-*2024-07-25 11:06:10* · [`adalk`](https://www.ada.lk/sports/මලල-ක්‍රීඩා-කණ්ඩායම-ඔලිම්පික්-තරගාවලියට-යයි/9-410982) · `si`
-
-The Sri Lanka Balaya Sports Group departed from Katunayake airport for the 33rd Olympic Games, led by representative Tharushi Karunaratne. The group includes two athletes and six officials, under the guidance of Secretary Saman Kumara Gunawardena. They embarked on their journey on the 6th, marking their participation in the global event.
-
-🟩
-
-The Sri Lanka Balaya Sports Group left the Katunayake airport for the 33rd Olympic Games.
-
-Tharushi Karunaratne, Tharushi Karunaratne, representing the Sri Lanka Balaya Sports Team, was on the Katunayake airport to leave France.
-
-Sri Lanka Bahliya Sports Association Secretary Saman Kumara Gunawardena said at the Katunayake airport that two hormed and six officers participating in the tournament.
-
-They left the Katunayake airport on the Katunayake airport on the 657-owner of Qatar on the 6th.
-
-◼️
-
-[Data](articles/69d5e76e.json)
-
-[Extended Data](ext_articles/69d5e76e.ext.json)
-
----
-
-### Presidential election
-
-*2024-07-25 11:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-போட்டியிடும்-நீதியமைச்சர்/175-341002) · `ta`
-
-In a special media briefing, the Minister discussed the upcoming presidential election, emphasizing its importance for the nation's future direction.
-
-🟩
-
-The Minister made this statement while addressing a special media briefing.
-
-◼️
-
-[Data](articles/94722519.json)
-
-[Extended Data](ext_articles/94722519.ext.json)
-
----
-
-### Two arrested with 2 gajamuttu
-
-*2024-07-25 10:57:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/2-கஜமுத்துகளுடன்-இருவர்-கைது/94-341001) · `ta`
-
-A 29-year-old man from Budhala, Budhalkumbura, running a mobile phone repair shop, was arrested by the Special Task Force (STF) for attempting to sell two Gajamutti worth Rs 60 lakhs. The STF acted on intelligence from the Navy's unit, leading to the arrest of the suspect and two gangs in Puttalam.
-
-🟩
-
-The Special Task Force (STF) said that a person has been arrested with two Gajamutti who was ready to sell Rs 60 lakhs.
-
-The arrested suspect is said to be a 29 -year -old from Budhala, Budhalkumbura, who runs a mobile phone repair station.
-
-The two gangs have been brought to Puttalam based on information received by the Intelligence Unit of the Navy and the suspects and two gangs have been arrested only after the police Special Task Force said.
-
-The suspect was able to arrest the suspect by the Special Task Force.
-
-◼️
-
-[Data](articles/a05ab30f.json)
-
-[Extended Data](ext_articles/a05ab30f.ext.json)
-
----
-
-### Vijayadasa in the presidential election
-
-*2024-07-25 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/189326) · `ta`
-
-Justice Minister Vijayadasa Rajapakse announced his candidacy for the 2024 presidential election, representing the People's Alliance. He emphasized the importance of citizens taking charge of their destiny rather than leaving it to politicians. Meanwhile, Field Marcel Sarath Fonseka also declared his participation in the election.
-
-🟩
-
-Justice Minister Vijayadasa Rajapakse officially announced on Thursday (25) that he will be a candidate for the 2024 presidential election.
-
-Vijayadasa Rajapaksa said he was candidate on behalf of the People's Alliance and announced the symbol later.
-
-Vijayadasa Rajapakse further stated that he will be the candidate of the upcoming presidential election with the success of the Sri Lankan and the Sri Lankan people.
-
-Suffering is the only thing that remains because you are handing over the right to decide your destiny to politicians. Justice Minister Vijayadasa Rajapakse has called on the people that you can only make a change if you want to see the world change.
-
-Meanwhile, Field Marcel Sarath Fonseka has officially announced that he will field the presidential election this time.
-
-◼️
-
-[Data](articles/40c44b63.json)
-
-[Extended Data](ext_articles/40c44b63.ext.json)
-
----
-
-### Sarath Fonseka to fight against President
-
-*2024-07-25 10:55:40* · [`adalk`](https://www.ada.lk/breaking_news/සරත්-ෆොන්සේකා-ජනපති-සටනට/11-410981) · `si`
-
-Field Marshal Sarath Fonseka announced his candidacy for president, criticizing past governments' handling of Sri Lanka's resources and inviting all Sri Lankans to combat corruption.
-
-🟩
-
-Field Marshal Sarath Fonseka says he will join the presidential election as a candidate. He was speaking at an official announcement from his account.
-
-He pointed out that political parties who ruled the country in 76 years and the natural resources of Sri Lanka should be used for revenue generation.
-
-He added that the Sri Lankans invite all Sri Lankans to join Sri Lanka and see corruption.
-
-◼️
-
-[Data](articles/8b86e398.json)
-
-[Extended Data](ext_articles/8b86e398.ext.json)
-
----
-
-### Yall. Try to cut the sword near the court;55 days after the suspect arrested
-
-*2024-07-25 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189318) · `ta`
-
-A young man was arrested for allegedly attempting to cut off a swordsman near a court. The incident occurred 55 days post-arrest. He had previously sought refuge in the court after escaping a violent mob attack. The three attackers were also arrested upon the magistrate's order. The suspect, known for violent incidents in Jaffna, faces four outstanding cases.
-
-🟩
-
-A young man has been arrested on charges of trying to cut off a sword man who left the house and returned home.
-
-The case held in court on May 30 last year has left the trial and tried to cut down the violent gang of three persons near the court building.
-
-A young man who escaped from attack in violent mob, sought refuge in court. Following the immediate brought to the notice of the magistrate, the three men who attempted the attack were immediately arrested and ordered by the police.
-
-As the police took steps to arrest the three, the trio were in hiding.
-
-Police said that the detainee has been charged in court on charges of violent incidents in various places in Jaffna and has 04 open clutches.
-
-◼️
-
-[Data](articles/ae1d34bc.json)
-
-[Extended Data](ext_articles/ae1d34bc.ext.json)
-
----
-
-### Wijeyadasa Rajapakshe officially announces presidential candidacy
-
-*2024-07-25 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100763/wijeyadasa-rajapakshe-officially-announces-presidential-candidacy) · `en`
-
-Minister of Justice Wijeyadasa Rajapakshe today officially announced that he will contest the upcoming Presidential Election.
-
-He made this declaration during a special press conference held today (25).
-
-Earlier today, Field Marshal Sarath Fonseka had also formally announced his candidacy for the upcoming Presidential Election.
-
-◼️
-
-[Data](articles/227b1f6d.json)
-
-[Extended Data](ext_articles/227b1f6d.ext.json)
-
----
-
-### Wijayaka The President to fight
-
-*2024-07-25 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199192) · `si`
-
-Hon. Minister Wijayadasa Rajapakse announces candidacy for 2024 presidential election.
-
-🟩
-
-The Hon. Minister Wijayadasa Rajapakse says he will be a candidate in the 2024 presidential election.
-
-◼️
-
-[Data](articles/1493e46c.json)
-
-[Extended Data](ext_articles/1493e46c.ext.json)
-
----
-
-### Dr. Kapila Wickremaniya released on bail
-
-*2024-07-25 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199191) · `si`
-
-Dr. Kapila Wickremaniya was granted bail by the Court of Appeal, which overturned a magistrate's decision regarding her case related to substandard antibody injections. The appeal court acted upon a writ petition filed by Dr. Wickremaniya.
-
-🟩
-
-The Court of Appeal today ordered the Maligakanda Magistrate today to release the suburb of the Medical Support Sector Dr. Kapila Wickramanayaka today to release the substandard antibody injection.
-
-The Court of Appeal issued the order after considering a Rit petition filed by Dr. Kapila Wickramanayaka.
-
-◼️
-
-[Data](articles/557224f2.json)
-
-[Extended Data](ext_articles/557224f2.ext.json)
-
----
-
-### President vows to uphold commitment to Buddhist education despite challenges
-
-*2024-07-25 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100762/-president-vows-to-uphold-commitment-to-buddhist-education-despite-challenges) · `en`
-
-President Ranil Wickremesinghe reaffirmed his unwavering commitment to advancing Buddhist education in Sri Lanka, regardless of the challenges faced.
-
-He made this declaration during a scholarship award ceremony held at Temple Trees yesterday (24). At the ceremony, 3,000 scholarships were awarded to assist student monks, Seela Mathas at Piriven and Seela Matha Educational Institutions, and lay students across the country. This was part of the “Presidential Scholarship Program” 2024, organized by the President’s Fund under the directives of the President.
-
-Scholarships are being offered to student monks studying up to the Piriven (Ordinary Level), Seela Matha, and lay students studying up to G.C.E. (Ordinary Level). An amount of Rs.9, 000 has been directly credited to the accounts of these students, along with the outstanding instalments and future payments will be made monthly in instalments of Rs.3, 000.
-
-...
-
-[Data](articles/c34e15d3.json)
-
-[Extended Data](ext_articles/c34e15d3.ext.json)
-
----
-
-### Bakery owners to announce decision on price of bread
-
-*2024-07-25 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100761/bakery-owners-to-announce-decision-on-price-of-bread) · `en`
-
-The All Ceylon Bakery Owners’ Association (ACBOA) says it will make a announcement tomorrow (26) regarding a potential reduction in the price of bread.
-
-The president of the association, N.K. Jayawardena indicated that a special discussion was held yesterday (24) with regard to reducing the price of bread, but no final agreement was reached.
-
-The consideration of a price reduction follows the recent comments made by Minister of Trade Nalin Fernando, who warned that a control price for bread would be imposed if bakery owners do not take steps to lower prices.
-
-This has prompted bakery owners to direct attention on reducing the prices of bakery products, including bread.
-
-However, Jayawardena atates that a final decision on whether the bread price will be reduced is expected to be made tomorrow (25).
-
-◼️
-
-[Data](articles/f0c23758.json)
-
-[Extended Data](ext_articles/f0c23758.ext.json)
 
 ---

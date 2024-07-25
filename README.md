@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 14:54:45**
+As of **2024-07-25 15:05:26**
 
 ## Newspaper Stats
 
-*Scraped **37,195** Articles*
+*Scraped **37,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 3,376
 adaderanalk | 4,303
 tamilmirrorlk | 4,584
 dailymirrorlk | 4,733
-virakesarilk | 5,836
+virakesarilk | 5,838
 adaderanasinhalalk | 6,241
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,194 (100.0%) of 37,195 articles have been extended.
+37,195 (100.0%) of 37,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### பிரிட்டனின் மான்செஸ்டர் விமான நிலையத்தில் பாக்கிஸ்தானை சேர்ந்த இளைஞர்களை  காலால் உதைத்து தாக்கிய பொலிஸ் உத்தியோகத்தர்கள் - இனவெறி என கண்டனங்கள்
+
+*2024-07-25 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189350) · `ta`
+
+பிரிட்டனின் மான்செஸ்டர் விமானநிலையத்தில் பொலிஸ்உத்தியோகத்தர்கள்  பாக்கிஸ்தானை சேர்ந்த இளைஞர்களை காலால் தாக்குவதை காண்பிக்கும் வீடியோ வெளியாகியுள்ளது.
+
+சமூக ஊடகங்களில் பரவலாகிவரும் வீடியோவில் பொலிஸ் உத்தியோகத்தர்ஒருவர் நபர் ஒருவரின் தலையில் காலால் மிதிக்கின்றார்.
+
+நபர் ஒருவர் தரையில் காணப்படுவதையும் இரண்டு பொலிஸார் அவரை நோக்கி டேசரை நீட்டுவதையும் காண்பிக்கும் வீடியோவும் வெளியாகியுள்ளது.
+
+இதன் பின்னர்ஒரு பொலிஸ் உத்தியோகத்தர் நபர் ஒருவரின் முகத்தில்  காலால் மிதிப்பதை வீடியோ காண்பித்துள்ளது.பின்னர் அவர் அந்த நபரின் தலையில் மிதிக்கின்றார்.
+
+அதன் பின்னர் அதேவீடியோவில் நபர் ஒருவரை ஒரு பொலிஸ் உத்தியோகத்தர் தரையில் வீழ்த்துவதையும் கைகளை பின்பக்கமாக இழுத்து வைத்திருப்பதையும் ஒருவர் அந்த நபரை காலால் உதைப்பதையும் காணமுடிகின்றது.
+
+இந்த வீடியோக்கள் வெளியானதை தொடர்ந்து பிரிட்டனில்  பொலிஸார் சரியான அளவில் பலத்தை பயன்படுத்துகின்றார்களாக என்ற கேள்வி எழுந்துள்ளதுடன் சர்ச்சையும் மூண்டுள்ளது.
+
+...
+
+[Data](articles/80dd137a.json)
+
+---
 
 ### Two critical in double cab–lorry collision
 
@@ -47,6 +69,8 @@ The lorry driver has been arrested by Dombagahawela Police who are conducting fu
 ◼️
 
 [Data](articles/10c1ec4d.json)
+
+[Extended Data](ext_articles/10c1ec4d.ext.json)
 
 ---
 
@@ -67,6 +91,20 @@ In this case, the Election Commission has said that the Commission has nothing t
 [Data](articles/5f100156.json)
 
 [Extended Data](ext_articles/5f100156.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தலுக்கான திகதி நாளை அறிவிக்கப்படும் - தேர்தல் ஆணைக்குழு
+
+*2024-07-25 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189348) · `ta`
+
+2024 ஆம் ஆண்டுக்கான ஜனாதிபதி தேர்தல் நடைபெறும் திகதி நாளை வெள்ளிக்கிழமை (26) அறிவிக்கப்படும் என தேர்தல் ஆணைக்குழு தெரிவத்துள்ளது.
+
+இந்நிலையில், ஜனாதிபதி தேர்தல் வாக்கெடுப்பு திகதி மற்றும் ஏனைய தீர்மானங்கள் குறித்து தனிப்பட்ட தரப்பினர் குறிப்பிடும் கருத்துக்கும், ஆணைக்குழுவுக்கும் எவ்வித தொடர்பும் கிடையாது எனவும் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/51994398.json)
 
 ---
 
@@ -2199,41 +2237,5 @@ Native to Southeast Asia and boasting the title of the largest tree-borne fruit 
 [Data](articles/63220f28.json)
 
 [Extended Data](ext_articles/63220f28.ext.json)
-
----
-
-### Jackfruit revolution: rising king of global plant-based alternatives
-
-*2024-07-25 03:30:22* · [`dailyftlk`](https://www.ft.lk/opinion/Jackfruit-revolution-rising-king-of-global-plant-based-alternatives/14-764705) · `en`
-
-Meet the jackfruit, a tropical treasure poised to revolutionise the global food industry
-
-Imagine a fruit so versatile it can mimic the taste and texture of pulled pork and shredded chicken, so sustainable it thrives with minimal resources, and so nutritious it’s a powerhouse of vitamins and minerals. Meet the jackfruit, a tropical treasure poised to revolutionise the global food industry.
-
-Native to Southeast Asia and boasting the title of the largest tree-borne fruit on Earth, jackfruit has transcended its Sri Lankan roots to become a global culinary sensation. Introduced to Sri Lanka by Arthur V. Dias, during the British colonial era, when rice scarcity threatened starvation, the jackfruit emerged as a crucial source of sustenance, with its rich carbohydrates and natural fats providing much-needed energy. This lifesaving role later earned the title “Rice Tree”.
-
-...
-
-[Data](articles/d70a0918.json)
-
-[Extended Data](ext_articles/d70a0918.ext.json)
-
----
-
-### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka physical and digital connectivity dialogue
-
-*2024-07-25 03:26:41* · [`dailyftlk`](https://www.ft.lk/opinion/Pathfinder-Foundation-and-Ananta-Aspen-Centre-lead-India-Sri-Lanka-physical-and-digital-connectivity-dialogue/14-764704) · `en`
-
-From left: (above) The Indian Express former National Editor Nirupama Subramanian, Eurasia Group India Practice Head, Hindustan Times former Foreign Editor, and Ananta Aspen Centre Visiting Fellow Pramit Pal Chaudhuri, ICTA CEO Mahesh Perera, and (below) Carnegie, India Director Dr. Rudra Chaudhuri, LIRNEasia Chairperson Prof. Rohan Samarajiva, and Trilegal Partner Rahul Matthan
-
-From left: Pathfinder Foundation Study Group on Envisioning India-Sri Lanka Physical Connectivity Convener and Ministry of Transport and Highways former Secretary Eng. R.W.R. Pemasiri, Pathfinder Foundation Chairman Amb. (Retd.) Bernard Goonetilleke, and Pathfinder Foundation Executive Director Dayaratna Silva
-
-The roundtable discussion on “Bridging Borders: Enhancing Connectivity between India and Sri Lanka” concluded successfully, fostering insightful dialogue and collaborative discussion on strengthening physical and digital connectivity between the two nations.
-
-...
-
-[Data](articles/8bda487e.json)
-
-[Extended Data](ext_articles/8bda487e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 07:02:11**
+As of **2024-07-25 07:27:57**
 
 ## Newspaper Stats
 
-*Scraped **37,102** Articles*
+*Scraped **37,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,86 @@ colombotelegraphcom | 350
 bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,118
-economynextcom | 2,220
+economynextcom | 2,221
 dailyftlk | 2,371
 adalk | 3,366
 adaderanalk | 4,290
 tamilmirrorlk | 4,563
 dailymirrorlk | 4,733
 virakesarilk | 5,820
-adaderanasinhalalk | 6,223
+adaderanasinhalalk | 6,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,094 (100.0%) of 37,102 articles have been extended.
+37,102 (100.0%) of 37,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### හෙට සිට කාලගුණයේ වෙනසක්
+### රාජ්‍ය සේවකයින්ට හිමිවන විශේෂ නිවාඩුව
+
+*2024-07-25 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199180) · `si`
+
+පසුගිය මැයි සහ ජුනි මාසවල ජල ගැලීම්, ගංවතුර, නායයෑම් හා මාර්ග අවහිරතා හේතුකොට ගෙන සේවයට නොපැමිණි රාජ්‍ය සේවකයින් සඳහා විශේෂ නිවාඩු ලබාදීමට රජය තීරණය කර තිබේ.
+
+කොළඹ, කළුතර, ගම්පහ, ගාල්ල, මාතර, හම්බන්තොට, පුත්තලම, කුරුණෑගල, පොළොන්නරුව, කෑගල්ල හා රත්නපුර යන දිස්ත්‍රික්කවල රාජ්‍ය නිලධාරීන් සඳහා මෙම විශේෂ නිවාඩුව ලබා දීමට නියමිතය.
+
+එම දිස්ත්‍රික්කවල ජල ගැලීම්, ගංවතුර, නායයෑම් හා මාර්ග අවහිරතා හේතුවෙන් සිය පදිංචි ස්ථානයේ සිට සේවා ස්ථානය වෙත පොදු ප්‍රවාහන සේවා ඇණහිටීම නිසා සේවයට වාර්තා කිරීමට නොහැකි වු නිලධාරීන්ට සහ අදාළ ව්‍යවසනයන්ගෙන් විපතට පත්වීම හේතුවෙන් හෝ අවතැන් වීම හේතුවෙන් සේවයට වාර්තා කිරීමට නොහැකි වු නිලධාරීන්ට මෙම විශේෂ නිවාඩුව හිමිවනු ඇත.
+
+ඊට අදාළ චක්‍රලේඛය රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශ ලේකම් ප්‍රදීප් යසරත්න මහතා විසින් නිකුත් කර තිබේ.
+
+මේ අතර රාජ්‍ය සේවයේ විශ්‍රාමිකයින් සඳහා ලබන සැප්තැම්බර් මාසයේ සිට රුපියල් 3,000ක දීමනාවක් ලබා දීමට රජය තීරණය කර තිබේ.
+
+අදාළ යෝජනාවට ඊයේ (24) දිනයේ රැස්වු කැබිනටි මණ්ඩලය අනුමැතිය ලබා දී ඇති බවයි වාර්තා වන්නේ.
+
+...
+
+[Data](articles/bad20a85.json)
+
+---
+
+### Fitch confirms ‘A-(lka)’ domestic rating of Nations Trust Bank Plc
+
+*2024-07-25 06:30:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-nations-trust-bank-plc-173621/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it was confirming an A-(lka) rating on Sri Lanka’s Nations Trust Bank Plc (NTB) with a Stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
+
+NTB’s risk profile remains exposed to the defaulted foreign currency-denominated sovereign bonds (1.8% of assets at end-2023), alongside a further 34.7% of assets in local-currency-denominated government securities, the rating agency said.
+
+“We expect the envisaged loan-book growth to support NTB’s impaired (stage 3) loans ratio improvement over the medium term alongside economic stabilisation, but risks to asset quality are likely as new loans season,” Fitch said.
+
+Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed the National LongTerm Rating of Nations Trust Bank PLC (NTB) at ‘A-(lka)’. The Outlook is Stable. Fitch has also affirmed NTB’s Sri Lankan rupee-denominated outstanding subordinated debt at ‘BBB(lka)’.
+
+...
+
+[Data](articles/46bc8f6b.json)
+
+---
+
+### A change in weather from tomorrow
 
 *2024-07-25 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199178) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (26) දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වේ.
+Tomorrow, expect heavy rainfall in the southwest, western, and central hill regions of the island, with wind speeds reaching 50 km/h in some areas. The rest of the island will experience moderate winds of 30-40 km/h.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+🟩
 
-මධ්‍යම  කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50ක පමණ තද සුළං ඇති විය හැකිය.
+Expecting a rain condition in the southwest part of the island will be expected tomorrow (26).
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇති වේ.
+The Department of Meteorology announced several showers in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
+
+At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. There may be about 50 strong winds.
+
+From time to time in the rest of the island.. Strong winds are about 30-40 times.
 
 ◼️
 
 [Data](articles/db7c2e65.json)
+
+[Extended Data](ext_articles/db7c2e65.ext.json)
 
 ---
 
@@ -789,6 +835,8 @@ The dry ration packs were distributed through District Secretariats, Divisional 
 ...
 
 [Data](articles/e36ba40d.json)
+
+[Extended Data](ext_articles/e36ba40d.ext.json)
 
 ---
 
@@ -2247,59 +2295,5 @@ Foreign Cultural Heritage, who prefers as Dharmaadine, says great cultural inher
 [Data](articles/1c6e4b6b.json)
 
 [Extended Data](ext_articles/1c6e4b6b.ext.json)
-
----
-
-### Bomb attack on the Russian intelligence officer
-
-*2024-07-24 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199160) · `si`
-
-In North Moscow, a car bomb targeted a Russian army intelligence officer and his wife, causing severe damage to the officer's feet. The incident occurred today (24).
-
-🟩
-
-A car bomb was targeted at the Russian army intelligence officer.
-
-International media reports that the attack was launched in the North Moscow area today (24).
-
-The bomb exploded due to the intelligence officer with his wife.
-
-It was reported that the officer's feet were severely damaged due to the explosion.
-
-◼️
-
-[Data](articles/4ce62fe4.json)
-
-[Extended Data](ext_articles/4ce62fe4.ext.json)
-
----
-
-### Parliament - United People's Power
-
-*2024-07-24 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189257) · `ta`
-
-The Supreme Court has issued an interim injunction against the Parliament for acting unconstitutionally, highlighting concerns over the appointment of the Police Inspector General without proper procedure. The court's action suggests a violation of the constitution, with the Speaker's involvement questioned. The situation reflects broader criticisms of parliamentary conduct, suggesting it has devolved into a platform for government propaganda rather than a body dedicated to constitutional governance.
-
-🟩
-
-The Supreme Court has pointed out that the Police Inspector has issued an interim injunction that the parliament does not act in accordance with the constitution and the constitution.
-
-Parliament should be ashamed. Political parliament has become a concert of the government everywhere.
-
-The President has appointed the Inspector General of Police on the basis of improper letter of the Speaker.
-
-The Leader of the Opposition, speaking at a special claim during the session held in Parliament on Wednesday (24).
-
-The Supreme Court has issued an interim injunction to serve as the Chancellor of the Tennakoon Police. We are not presenting issues based on a person.
-
-I am not talking about the nominees. The Constitution has been fully violated.Speaker Mahinda Rajapaksa has announced a writing to the President.
-
-The Prime Minister is well aware of this.
-
-...
-
-[Data](articles/9275da70.json)
-
-[Extended Data](ext_articles/9275da70.ext.json)
 
 ---

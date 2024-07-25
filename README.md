@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 22:36:05**
+As of **2024-07-25 22:54:08**
 
 ## Newspaper Stats
 
-*Scraped **37,274** Articles*
+*Scraped **37,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,238
 dailyftlk | 2,375
 adalk | 3,392
 adaderanalk | 4,312
-tamilmirrorlk | 4,588
+tamilmirrorlk | 4,589
 dailymirrorlk | 4,733
 virakesarilk | 5,857
 adaderanasinhalalk | 6,255
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,260 (100.0%) of 37,274 articles have been extended.
+37,270 (100.0%) of 37,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### பொலிஸ்மா அதிபர் தொடர்பில் அரசாங்கத்தின் பதில்?
+
+*2024-07-25 22:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-தொடர்பில்-அரசாங்கத்தின்-பதில்/175-341046) · `ta`
+
+குறித்த விசேட உரையானது பொலிஸ்மா அதிபர் தொடர்பான உச்ச நீதிமன்றத்தின் தீர்ப்பு தொடர்பில் அரசாங்கத்தின் பதிலைத் தெரிவிக்கும் உரையாக பிரதமரால் அறிவிக்கப்படவுள்ளது. R
+
+◼️
+
+[Data](articles/8f6c05b9.json)
+
+---
 
 ### Police sector sector to Battaramulla
 
@@ -302,6 +314,8 @@ These two bills were presented to Parliament on 22 May 2024. (Colombo/Jul25/2025
 
 [Data](articles/0b7f62d1.json)
 
+[Extended Data](ext_articles/0b7f62d1.ext.json)
+
 ---
 
 ### Sri Lanka banks in talks about getting ISBs repaid in rupees: Sources
@@ -321,6 +335,8 @@ When Sri Lanka Development Bonds were repaid in rupees without a haircut, the ce
 ...
 
 [Data](articles/4d1d9682.json)
+
+[Extended Data](ext_articles/4d1d9682.ext.json)
 
 ---
 
@@ -794,6 +810,8 @@ The tourism industry associations have said the website is difficult to navigate
 
 [Data](articles/6d9e646d.json)
 
+[Extended Data](ext_articles/6d9e646d.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 303.25/40 to US dollar, bond yields steady
@@ -813,6 +831,8 @@ A bond maturing on 15.09.2029 closed at 12.05/10 percent, from 12.02/12 percent.
 ◼️
 
 [Data](articles/de35279f.json)
+
+[Extended Data](ext_articles/de35279f.ext.json)
 
 ---
 
@@ -1006,6 +1026,8 @@ The FAO said the highly pathogenic avian influenza H5N1 virus has spread more wi
 
 [Data](articles/bfedbfa5.json)
 
+[Extended Data](ext_articles/bfedbfa5.ext.json)
+
 ---
 
 ### 22% of Sri Lankan households in debt due to economic crisis - survey
@@ -1095,6 +1117,8 @@ Sri Lanka’s Election Commission said it will gazette the day for the polls on 
 ...
 
 [Data](articles/1c4a0a8e.json)
+
+[Extended Data](ext_articles/1c4a0a8e.ext.json)
 
 ---
 
@@ -1280,6 +1304,8 @@ The sub-committee, chaired by Minister of Power and Energy Kanchana Wijesekera, 
 
 [Data](articles/071a55f6.json)
 
+[Extended Data](ext_articles/071a55f6.ext.json)
+
 ---
 
 ### Youth arrested for allegedly as a police officer
@@ -1443,6 +1469,8 @@ COPF, which de Silva chairs, passed the Public Financial Management bill on July
 ...
 
 [Data](articles/498adc20.json)
+
+[Extended Data](ext_articles/498adc20.ext.json)
 
 ---
 
@@ -1611,6 +1639,8 @@ Former army chief Sarath Fonseka and justice minister Wijeyadasa Rajapakshe anno
 ◼️
 
 [Data](articles/056a579b.json)
+
+[Extended Data](ext_articles/056a579b.ext.json)
 
 ---
 
@@ -1813,6 +1843,8 @@ Abeywardana was in China to attend the 8th China-South Asia Exposition held in K
 ...
 
 [Data](articles/7295723c.json)
+
+[Extended Data](ext_articles/7295723c.ext.json)
 
 ---
 
@@ -2321,31 +2353,5 @@ The body of the deceased has been placed at the Colombo Hospital for autopsy and
 [Data](articles/df52c549.json)
 
 [Extended Data](ext_articles/df52c549.ext.json)
-
----
-
-### 48 people in Mottu talk to support Ranil
-
-*2024-07-25 11:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவில்-48-பேர்-ரணிலை-ஆதரிக்க-பேச்சு/175-341003) · `ta`
-
-48 ministers, diplomats, and parliamentarians met in Colombo to support President Ranil Wickremesinghe ahead of the upcoming presidential election. Discussions included campaign strategies, appointing voting agents, and informing the public about government initiatives. A comprehensive support program and a communication system were also discussed.
-
-🟩
-
-Political sources say that 48 ministers, diplomatic ministers and following parliamentarians met with the government representing the government on Wednesday (24) in Colombo to support President Ranil Wickremesinghe).
-
-Accordingly, 30 ministers and diplomats representing governments have met and met at a place on Flaver Road, Colombo and 18 members of the government met at a hotel in Talawatukoda.
-
-The report also said that both sides have discussed the situation in the upcoming presidential election if the Sri Lanka PA has presented the candidate at the Lotus Boot.
-
-In addition, the final compliance of both sides is to support President Ranil Wickremesinghe at this moment.
-
-According to political sources, both sides are paying attention to President Ranil Wickremesinghe's presidential election campaign, the establishment of the political office, the appointment of voting agents and the media.
-
-...
-
-[Data](articles/eb7ed8ea.json)
-
-[Extended Data](ext_articles/eb7ed8ea.ext.json)
 
 ---

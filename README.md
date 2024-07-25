@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 10:20:37**
+As of **2024-07-25 10:35:53**
 
 ## Newspaper Stats
 
-*Scraped **37,137** Articles*
+*Scraped **37,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,119
 economynextcom | 2,221
 dailyftlk | 2,372
 adalk | 3,369
-adaderanalk | 4,296
-tamilmirrorlk | 4,569
+adaderanalk | 4,297
+tamilmirrorlk | 4,573
 dailymirrorlk | 4,733
 virakesarilk | 5,824
 adaderanasinhalalk | 6,234
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,133 (100.0%) of 37,137 articles have been extended.
+37,137 (100.0%) of 37,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### Bakery owners to announce decision on price of bread
+
+*2024-07-25 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100761/bakery-owners-to-announce-decision-on-price-of-bread) · `en`
+
+The All Ceylon Bakery Owners’ Association (ACBOA) says it will make a announcement tomorrow (26) regarding a potential reduction in the price of bread.
+
+The president of the association, N.K. Jayawardena indicated that a special discussion was held yesterday (24) with regard to reducing the price of bread, but no final agreement was reached.
+
+The consideration of a price reduction follows the recent comments made by Minister of Trade Nalin Fernando, who warned that a control price for bread would be imposed if bakery owners do not take steps to lower prices.
+
+This has prompted bakery owners to direct attention on reducing the prices of bakery products, including bread.
+
+However, Jayawardena atates that a final decision on whether the bread price will be reduced is expected to be made tomorrow (25).
+
+◼️
+
+[Data](articles/f0c23758.json)
+
+---
+
+### சிறுவனை சித்திரவதை செய்த தந்தை கைது
+
+*2024-07-25 10:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனை-சித்திரவதை-செய்த-தந்தை-கைது/175-340997) · `ta`
+
+தனது மூன்று வயது மகனுக்கு உணவு கொடுக்காமல், தற்கொலை செய்து கொள்வோம் என கூறி சித்திரவதை செய்த தந்தையொருவர் கரந்தெனிய, அனுருத்தகம பிரதேசத்தில் இருந்து புதன்கிழமை (24) இரவு கைது செய்யப்பட்டதாக எல்பிட்டிய பொலிஸார் தெரிவித்தனர் .
+
+குறித்த சிறுவனின் தாய் வெளிநாட்டில் பணிபுரிந்து வரும் நிலையில் , அவர் தனது தாயாருக்கு பணம் அனுப்புவதாலும், கணவனும் பணம் அனுப்பாததாலும் சிறுவனை சித்திரவதை செய்து அதன் காணொளியை மனைவிக்கு அனுப்பியுள்ளார் .
+
+இந்த காணொளியை குறித்த பெண் சமூக வலைதளங்களில் வெளியிட்டு, தனது மூன்று வயது சிறுவனை காப்பாற்றுமாறு பதிவிட்டுள்ளார் .
+
+அதற்கமையவே சந்தேகநபர் கைது செய்யப்பட்டதாகவும் இது தொடர்பிலான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர் .
+
+◼️
+
+[Data](articles/833d84a4.json)
+
+---
 
 ### Tanker with 1,500 tonnes of oil sinks off Philippines
 
@@ -54,27 +92,69 @@ It “capsized and eventually submerged,” the coast guard said in a report, ad
 
 [Data](articles/6d9a1dbf.json)
 
+[Extended Data](ext_articles/6d9a1dbf.ext.json)
+
 ---
 
-### බෞද්ධ අධ්‍යාපනය ඉදිරියට ගෙන යා යුතුයි -ජනපති
+### ஊறுகாய்க்கு  ரூ.3,525அபராதம்
+
+*2024-07-25 10:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊறுகாய்க்கு-ரூ-3-525அபராதம்/175-340995) · `ta`
+
+சாப்பாடு பொதியில் ஊறுகாய் வைக்காமையால் ஏற்பட்ட மன உளைச்சலுக்காக தாக்கல் செய்யப்பட்ட வழக்கில், குற்றவாளியாக இனங்கண்ட, ஹோட்டல் உரிமையாளருக்கு ரூ.3,525அபராதம் விதித்து தீர்ப்பளிக்கப்பட்டுள்ளது. அந்த அபராத ​தொகையை 45 நாட்களுக்கு வழங்குமாறும் உத்தரவிடப்பட்டுள்ளது.
+
+விழுப்புரம், வழுதரெட்டியை சேர்ந்தவர் ஆரோக்கியசாமி. அனைத்து நுகர்வோர் பொதுமக்கள் சுற்றுச்சூழல் பொதுநல சங்க மாநில தலைவராக உள்ளார்.
+
+இவர் தன் உறவினரின் நினைவு தினத்தையொட்டி, 25 பேருக்கு அன்னதானம் வழங்குவதற்காக, 2022ஆம் ஆண்டு விழுப்புரம் புதிய பஸ் நிலையம் அருகே உள்ள ஹோட்டலில் பணம் செலுத்தி, 25 பார்சல் சாப்பாடு வாங்கிய நிலையில், அதற்கான ரசீதை தர மறுத்த ஹோட்டல் உரிமையாளர் துண்டு சீட்டில் எழுதி கொடுத்துள்ளார்.
+
+வீட்டிற்கு சென்ற ஆரோக்கியசாமி, உணவு பொட்டலங்களை முதியோருக்கு வழங்கியபோது, அதில் ஊறுகாய் இல்லை. ஹோட்டல் உரிமையாளரிடம் கேட்டபோது, ஊறுகாய் வைக்காதது உறுதியானது.
+
+இதையடுத்து, ஊறுகாய்க்கான 25 ரூபாயை திரும்பக் கேட்டுள்ளார் ஆரோக்கியசாமி. ஆனால், ஹோட்டல் உரிமையாளர் தர மறுத்துவிட்டார்.
+
+...
+
+[Data](articles/b74d4f2f.json)
+
+---
+
+### Buddhist education should be brought forward - President
 
 *2024-07-25 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199190) · `si`
 
-කුමන අභියෝග පැවතිය ද මෙරට බෞද්ධ අධ්‍යාපනය දියුණු කරමින් ඉදිරියට ගෙන යාමේ වගකීම අත්නොහරින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the importance of developing Buddhist education in Sri Lanka, promising continued support despite economic challenges. He addresses students receiving scholarships, highlighting the government's commitment to educational relief post-stabilization. Sagala Ratnayake, the Presidential Chief of Staff, discusses legislative efforts towards a stable economy and the need for policy changes to address national issues, including enhancing technology collaboration with India.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ රටේ ආර්ථිකය ස්ථාවර වීමත් සමග ජනතාවට සහන ලබා දිය යුතු බවය.
+🟩
 
-පිරිවෙන් හා සීල මාතා අධ්‍යාපන ආයතනවල ඉගෙනුම ලබන ශිෂ්‍ය භික්ෂුන් වහන්සේලා හා සීල මාතාවන් මෙන්ම ගිහි සිසුන් සඳහා ජනාධිපති අරමුදලින් ශිෂ්‍යත්ව ප්‍රදානය කිරීමේ වැඩසටහන යටතේ ගිහි පැවිදි සිසුන් 3,000කට ශිෂ්‍යත්ව ප්‍රදානය වෙනුවෙන් අරලියගහ මන්දිරයේ දී පැවති උත්සවයක් අමතමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+President Ranil Wickremesinghe says that the responsibility of the country will not give up the development of Buddhist education in Sri Lanka.
 
-මේ අතර ස්ථාවර ආර්ථික ක්‍රමයක් ඔස්සේ රට ඉදිරියට ගෙන යාමට අවශ්‍ය නීති ප්‍රතිසංස්කරණ රැසක් මේ වන විට සිදුකර අවසන් බව ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී, ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සාගල රත්නායක මහතා පවසයි.
+The President pointed out that with the stabilization of the country, the people should be given relief.
 
-ඔහු පෙන්වා දෙන්නේ ආණ්ඩු වෙනස්වීමේ දී ප්‍රතිපත්ති වෙනස් වීම අපේ රටේ පවතින ප්‍රධාන ගැටලුවක් බවය.
+President Ranil Wickremesinghe addressing a function at Temple Trees for students of Pirivenas and Sea Scholarships as well as the Presidential Fund Scholarship Students to Granting Scholarships.
 
-වරාය පිවිසුම් අධිවේගී මාර්ගය පිළිබදව තාක්ෂණික සම්මන්ත්‍රණයේ ප්‍රධාන දේශනය සිදුකරමින් සාගල රත්නායක මහතා ඉන්දියාව සමග පවතින සබඳතා තවදුරටත් වැඩිදියුණු කරමින් පවතින බව ද සඳහන් කළේය.
+Meanwhile, Presidential Chief of Staff Head of the President Sagala Ratnayake says that the Presidential Chief of Staff Sagala Ratnayake said that there have been a number of legislation to proceed to the country through a fixed economic system.
+
+He points out that the policy change in the change is a major problem in our country.
+
+Mr. Sagala Ratnayake also said that the keynote address of the Technology Conference on the Port Visit Expressway is further enhanced with India.
 
 ◼️
 
 [Data](articles/97e96510.json)
+
+[Extended Data](ext_articles/97e96510.ext.json)
+
+---
+
+### ஜனாதிபதி வேட்பாளர் பொன்சேகா?
+
+*2024-07-25 09:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-பொன்சேகா/175-340994) · `ta`
+
+76 ஆண்டுகளாக, எங்களை திவாலான நிலைக்கு இட்டுச் சென்ற ஒரு திறமையற்ற அரசியல் குழுவால் நாங்கள் வழிநடத்தப்பட்டோம்.
+
+2024 ஜனாதிபதித் தேர்தலுக்கான இலங்கையின் ஜனாதிபதி வேட்பாளராக இது எனது முறையான மற்றும் உத்தியோகபூர்வ அறிவிப்பு - என்று குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/34390f29.json)
 
 ---
 
@@ -113,6 +193,8 @@ He also mentioned that the preliminary arrangements for conducting the president
 ◼️
 
 [Data](articles/f3069e90.json)
+
+[Extended Data](ext_articles/f3069e90.ext.json)
 
 ---
 
@@ -159,6 +241,8 @@ This decision was approved during the cabinet meeting held on July 24, 2024.
 ...
 
 [Data](articles/26c5ae9a.json)
+
+[Extended Data](ext_articles/26c5ae9a.ext.json)
 
 ---
 
@@ -1292,6 +1376,24 @@ I asked the former Health Minister to provide a list of the names of the Muslims
 
 ### 2024-07-24 (Wednesday)
 
+### 30 நிகழ்வுகளை நிறுத்தியது தேர்தல் ஆணைக்குழு
+
+*2024-07-24 23:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/30-நிகழ்வுகளை-நிறுத்தியது-தேர்தல்-ஆணைக்குழு/175-340978) · `ta`
+
+அரசியல் தலையீட்டினால் ஏற்பாடு செய்யப்பட்ட சுமார் 30 நிகழ்வுகள் மற்றும் வேலைத்திட்டங்கள் ஆணைக்குழுவின் உத்தரவால் நிறுத்தப்பட்டதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தல் நடைபெறும் திகதி நெருங்கி வருவதால் ஆணைக்குழு இந்த நடவடிக்கையை எடுத்துள்ளது.
+
+ஆணைக்குழுவிற்கு கிடைக்கப்பெற்ற முறைப்பாடுகளின் பிரகாரம் அரசியல் தலையீடுகள் காரணமாக ஏற்பாடு செய்யப்பட்ட வாக்காளர்களுக்கான பொருட்கள் விநியோகம், நியமனங்கள் உள்ளிட்ட பலவேலைத்திட்டங்கள் நிறுத்தப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இந்த நாட்களில் சுதந்திர தேர்தலுக்கு இடையூறாக நடக்கும் சம்பவங்களை தேர்தல் ஆணையம் உன்னிப்பாக கவனித்து வருவதாக தெரிவித்த ஆணைக்குழுவின் தலைவர், ஜனாதிபதி தேர்தல் தேதி அறிவிக்கப்பட்ட பின்னர் அதிகாரிகள் குழு இதில் கடும் நடவடிக்கை எடுக்க தயாராக இருப்பதாகவும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/451940d0.json)
+
+---
+
 ### Nearly Presidential Elections - Election Commission
 
 *2024-07-24 23:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருங்கிவரும்-ஜனாதிபதித்-தேர்தல்-நிறுத்தியது-தேர்தல்-ஆணைக்குழு/175-340978) · `ta`
@@ -2149,135 +2251,5 @@ About 30 people were attacking a person a short distance from where I was standi
 [Data](articles/c8d7a1c7.json)
 
 [Extended Data](ext_articles/c8d7a1c7.ext.json)
-
----
-
-### Postal voting should also be allowed by journalists - Ministry of Media
-
-*2024-07-24 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189281) · `ta`
-
-Minister Santha Bandara advocates for postal voting rights for journalists ahead of the upcoming presidential election, highlighting the need for the Elections Commission to address this issue promptly.
-
-🟩
-
-The Minister of State for Media Santha Bandara urged the Elections Commission to pay special attention to the issue.
-
-He was speaking at a special statement during a session held in Parliament on Wednesday (24).
-
-The presidential election will be held in the next two months.. There are 52 radio bandwidth and television services.
-
-During the election period, journalists are denied the opportunity to vote because they engage in news reports and broadcasting work. Therefore, journalists with approved ID card should be given permission for postal voting.
-
-The Elections Commission should pay special attention to this. We are presenting this idea through Parliament.
-
-◼️
-
-[Data](articles/8f5b6224.json)
-
-[Extended Data](ext_articles/8f5b6224.ext.json)
-
----
-
-### The people's struggle will fight for the autonomy of the Tamil people - our position is the recognition of Tamils ​​as a national race.. -Rajivkan
-
-*2024-07-24 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189289) · `ta`
-
-Rajkumar Rajeev Khan, a leader of the People's Movement, emphasizes the need for Tamil autonomy, criticizing the oppression faced by Tamils, particularly in the Northeast of Sri Lanka. He highlights the historical injustices, including mass killings and disappearances, and criticizes political hypocrisy towards the Tamil community. The People's Struggle aims to address these issues through political action, advocating for autonomous units and land rights, while also addressing the misuse of archaeology to seize Tamil lands.
-
-🟩
-
-Rajkumar Rajeev Khan, the activist of the People's Movement, said that the people's struggle's leading political arena has jumped into this political arena, with the promise of an autonomous, rejecting a single rule and creating units.
-
-He said this at a press conference held at the Front of the People's Struggle
-
-To this day we have regret that our political issues have been resolved to this day, as they are born in the North East and have been very badly met with the oppression of the North East.
-
-Today, the Tamil people were killed in the capital of 1983, especially in 1983, without any science.
-
-How many thousands of murders, violence and disappearance have been committed against the Tamil people.
-
-At this time, how many parties from the South are coming north, they will say something about what they are going to give to the Tamil people, and they will say something else in the South.
-
-There, Sinhala politicians continue to adhere to racism and the tactic for voting here.
-
-...
-
-[Data](articles/b4d8e7bf.json)
-
-[Extended Data](ext_articles/b4d8e7bf.ext.json)
-
----
-
-### Even if Muslims fall on their feet, I cannot forgive - Imran Mahroof
-
-*2024-07-24 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189279) · `ta`
-
-Imran Mahroof, addressing a parliamentary debate, expressed deep resentment over the forced cremations of Muslims who died from COVID-19, highlighting the psychological impact on the community. He criticized the government, particularly ministers Ali Sabri, Vijayadasa Rajapaksa, and Jeevan Thondaman, for approving policies deemed disrespectful to Muslim burial practices. The incident, involving 276 victims, was condemned as a violation of human rights, despite a High Court ruling against such actions. This issue has strained relations between the government and the Muslim community, with the President denying any involvement, further fueling tensions.
-
-🟩
-
-It is a mere eyewitness to apologize for the cremation of the Muslims who died due to the Kovit's impact.
-
-He said this while addressing the debate on the postponement of the Artificial Intelligence Agency on Wednesday (24) in Parliament.
-
-The minds of the Muslim community have been affected by the cremation of the bodies of the Muslim community that died in the influence of the Govt.
-
-It is widely reported that the Cabinet has approved the Cabinet paper submitted jointly by ministers Ali Sabri, Vijayadasa Rajapaksa and Jeevan Thondaman.
-
-All the three ministers submitted by the Cabinet of Cabinet have been the partners of the government that day.
-
-They act to deceive the people in the event of an election. They must understand that the Muslim community is clear.
-
-Of the casualties of the Kovit, 276 Muslims of the Janasas have been forcibly cremated. So the entire Muslims were shed.
-
-...
-
-[Data](articles/4f0042fd.json)
-
-[Extended Data](ext_articles/4f0042fd.ext.json)
-
----
-
-### Two drivers remanded in Club Spring murder
-
-*2024-07-24 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199169) · `si`
-
-Two drivers from Vedish Vidyalaya and a bus, arrested for a murder case, were remanded until August 5th by the Kaduwela Magistrate after a protest from their lawyers over a 48-hour detention request.
-
-🟩
-
-The two persons who were transporting as the Vedish Vidyalaya and the bus drivers were presented to the courts today (24).
-
-The Kaduwela Magistrate ordered the court to remand remanded until August 05.
-
-Athurugiriya police officers who were produced before the courts, the court demanded that the two suspects were demanding a 48-hour and the lawyers protested against the accused.
-
-Accordingly, the Magistrate ordered the two suspects to be remanded.
-
-◼️
-
-[Data](articles/2935e1dd.json)
-
-[Extended Data](ext_articles/2935e1dd.ext.json)
-
----
-
-### Fitch confirms ‘A-(lka)’ domestic rating of DFCC Bank Plc
-
-*2024-07-24 17:21:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-dfcc-bank-plc-173610/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it was confirming an A-(lka) rating on Sri Lanka’s DFCC Bank Plc with a stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
-
-Fitch said it expected the country’s stabilising economic conditions to support DFCC’s ability to generate and defend business volumes, “but the bank’s predominant exposure to the persisting domestic OE risks constrains its business profile.”
-
-DFCC’s net loans in total assets inched up to 56.9% by end-1Q24 from 54.1% in 2023, reversing a contracting trend since 2021 (74.9%), reflecting early signs of lending resumption, the rating agency said.
-
-Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-based DFCC Bank PLC’s (DFCC) National Long-Term Rating at ‘A-(lka)’. The Outlook is Stable. Fitch has also affirmed DFCC’s senior and subordinated debt ratings of ‘A-(lka)’ and ‘BBB(lka)’, respectively.
-
-...
-
-[Data](articles/c0d72e22.json)
-
-[Extended Data](ext_articles/c0d72e22.ext.json)
 
 ---

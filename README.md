@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 01:54:25**
+As of **2024-07-26 02:05:29**
 
 ## Newspaper Stats
 
-*Scraped **37,281** Articles*
+*Scraped **37,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,238
 dailyftlk | 2,375
 adalk | 3,393
 adaderanalk | 4,313
-tamilmirrorlk | 4,590
+tamilmirrorlk | 4,591
 dailymirrorlk | 4,733
 virakesarilk | 5,859
 adaderanasinhalalk | 6,255
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,281 (100.0%) of 37,281 articles have been extended.
+37,281 (100.0%) of 37,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### ’பதில் பொலிஸ்மா அதிபரை ஏன்? நியமிக்கவில்லை’
+
+*2024-07-26 01:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பொலிஸ்மா-அதிபரை-ஏன்-நியமிக்கவில்லை/175-341048) · `ta`
+
+தேசபந்து தென்னக்கோன், பொலிஸ்மா அதிபராக செயற்படுவதற்கு இடைக்கால தடையுத்தரவு விதித்து உயர்நீதிமன்றம் தீர்ப்பளித்துள்ள நிலையில், அந்தப் பதவிக்கு பதில் பொலிஸ்மா அதிபரை நியமிக்க நடவடிக்கை எடுக்காதிருப்பது தொடர்பில் எதிர்க்கட்சிகள் கேள்வியெழுப்பியதால் சபையில் வியாழக்கிழமை (25) சர்ச்சை ஏற்பட்டது.
+
+இதன்போது சபை முதல்வரான அமைச்சர் சுசில் பிரேமஜயந்த மற்றும் ஆளும்கட்சி பிரதம கொரடா பிரசன்ன ரணதுங்க ஆகியோர் எதிர்க்கட்சியினருடன் வாக்குவாதத்திலும் ஈடுபட்டனர்.
+
+பாராளுமன்றம் வியாழக்கிழமை (25) முற்பகல் 9.30 மணியளவில் பிரதி சபாநாயகர் ஆஜித் ராஜபக்‌ஷ தலைமையில் கூடியதை தொடர்ந்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பொலிஸ்மா அதிபர் விவகாரம் தொடர்பில் தனது கருத்துக்களை முன்வைத்து உரையாற்றினார்.
+
+...
+
+[Data](articles/5fb3e3c7.json)
+
+---
 
 ### Do not underestimate the pain of Muslims
 
@@ -2339,31 +2355,5 @@ Accordingly, the Vavuniya Regional Office of the Vavuniya Regional Office will n
 [Data](articles/c4fc08f8.json)
 
 [Extended Data](ext_articles/c4fc08f8.ext.json)
-
----
-
-### Effort to save lives after a terrible accident
-
-*2024-07-25 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199193) · `si`
-
-A tragic accident near the Drambagahawela Filling Station involved a lorry hitting a box and a motorcycle, injuring two people. Rescue efforts were challenging due to one victim being trapped in the cab. Both victims were taken to the Moneragala district hospital. The lorry driver was arrested, and further investigations are ongoing by the Dombagahawela Police Station.
-
-🟩
-
-Two persons were injured in a terrible accident near the Drambagahawela Filling Station in the Dowgahawela Filling Station in the Dowgowalanduwa main road on the Siyambalanduwa main road.
-
-The accident had occurred when a lorry collided with a box and motorcycle transporting a box.
-
-After the accident, another man trapped in the cab and was stuck in the cab and the people near the rescued of the two persons had to attract hardship.
-
-The two injured were rushed to the Moneragala district hospital with immediate residents of the Mahakkalagolla area.
-
-The lorry driver has been arrested by police officers regarding the accident and the officials of the Dombagahawela Police Station is conducting further investigations.
-
-◼️
-
-[Data](articles/2db67f21.json)
-
-[Extended Data](ext_articles/2db67f21.ext.json)
 
 ---

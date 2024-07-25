@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 11:06:16**
+As of **2024-07-25 11:20:17**
 
 ## Newspaper Stats
 
-*Scraped **37,149** Articles*
+*Scraped **37,153** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 323
 colombotelegraphcom | 351
-bbccomsinhala | 363
 newsfirstlk | 363
+bbccomsinhala | 364
 islandlk | 2,119
 economynextcom | 2,224
 dailyftlk | 2,372
-adalk | 3,369
-adaderanalk | 4,298
+adalk | 3,371
+adaderanalk | 4,299
 tamilmirrorlk | 4,574
 dailymirrorlk | 4,733
 virakesarilk | 5,824
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,149 (100.0%) of 37,149 articles have been extended.
+37,149 (100.0%) of 37,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### Wijeyadasa Rajapakshe officially announces presidential candidacy
+
+*2024-07-25 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100763/wijeyadasa-rajapakshe-officially-announces-presidential-candidacy) · `en`
+
+Minister of Justice Wijeyadasa Rajapakshe today officially announced that he will contest the upcoming Presidential Election.
+
+He made this declaration during a special press conference held today (25).
+
+Earlier today, Field Marshal Sarath Fonseka had also formally announced his candidacy for the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/227b1f6d.json)
+
+---
 
 ### Wijayaka The President to fight
 
@@ -76,7 +92,7 @@ The Court of Appeal issued the order after considering a Rit petition filed by D
 
 President Ranil Wickremesinghe reaffirmed his unwavering commitment to advancing Buddhist education in Sri Lanka, regardless of the challenges faced.
 
-He made this declaration during a scholarship award ceremony held at Temple Trees today (24th). At the ceremony, 3,000 scholarships were awarded to assist student monks, Seela Mathas at Piriven and Seela Matha Educational Institutions, and lay students across the country. This was part of the “Presidential Scholarship Program” 2024, organized by the President’s Fund under the directives of the President.
+He made this declaration during a scholarship award ceremony held at Temple Trees yesterday (24). At the ceremony, 3,000 scholarships were awarded to assist student monks, Seela Mathas at Piriven and Seela Matha Educational Institutions, and lay students across the country. This was part of the “Presidential Scholarship Program” 2024, organized by the President’s Fund under the directives of the President.
 
 Scholarships are being offered to student monks studying up to the Piriven (Ordinary Level), Seela Matha, and lay students studying up to G.C.E. (Ordinary Level). An amount of Rs.9, 000 has been directly credited to the accounts of these students, along with the outstanding instalments and future payments will be made monthly in instalments of Rs.3, 000.
 
@@ -917,6 +933,28 @@ The Election Commission sources said that the presidential election will be anno
 [Data](articles/a9ea007e.json)
 
 [Extended Data](ext_articles/a9ea007e.ext.json)
+
+---
+
+### වික්‍රමබාහු කරුණාරත්න: දේශපාලනය නිසා සැඟව ගිය විද්‍යාඥයාගේ ප්‍රකට සහ අප්‍රකට තොරතුරු
+
+*2024-07-25 05:06:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c728q1pvpy7o) · `si`
+
+වික්‍රමබාහු කරුණාරත්න: දේශපාලනය නිසා සැඟව ගිය විද්‍යාඥයාගේ ප්‍රකට සහ අප්‍රකට තොරතුරු
+
+ශ්‍රී ලංකා දේශපාලන ක්ෂේත්‍රයේ "සන්නාමයක්" ලෙස විද්වතුන් විසින් හඳුන්වනු ලබන 'බාහු' හෙවත් මහාචාර්ය වික්‍රමබාහු කරුණාරත්න දේශපාලනයෙන් පමණක් නොව ජීවිතයෙන් ද සමුගත් පුවත බ්‍රහස්පතින්දා (ජූලි 25) අලුයම් කාලයේදී අසන්නට ලැබිණි.
+
+81 හැවිරිදි ඔහු අභාවප්‍රාප්ත වූයේ, කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ය.
+
+මහාචාර්ය වික්‍රමබාහු කරුණාරත්න විෂය ක්ෂේත්‍රයන් දෙකක් ඔස්සේ සන්නාම සලකුණු තැබූ සුවිශේෂී පෞරුෂයකට හිමිකම් කී ශ්‍රී ලාංකිකයෙකි.
+
+මේ ලිපියෙහි අරමුණ ඔහුගේ දේශපාලන ගමන්මග පමණක් නොව බොහෝ දෙනෙකු නොදත් ලෝකයේ සම්භාවනාවට පාත්‍ර වූ විද්‍යාඥයෙකුගේ ගමන්මග පිළිබඳව ද යම් අනාවරණයක් කිරීම ය.
+
+වික්‍රමබාහු කරුණාරත්න මෙලොව එළිය දුටුවේ, බදුල්ලේ සිට කිලෝමීටර් 42ක් පමණ දුරින් පිහිටි දුෂ්කර ප්‍රදේශයක් වූ ලුණුගලදී ය. ගුරු වෘත්තියේ නිරත වූ ඔහුගේ දෙමාපියන් එවකට සේවය කර තිබුණේ, ලුණුගල ප්‍රදේශයේ ය.
+
+...
+
+[Data](articles/14df39b5.json)
 
 ---
 
@@ -1980,6 +2018,40 @@ The meeting was held today (24) at the Presidential Secretariat of President Ran
 
 ---
 
+### තිබ්බේ නැති පළාත් පාලන මැතිවරණයට රු.මි. 655ක් වැය කරලා
+
+*2024-07-24 19:59:17* · [`adalk`](https://www.ada.lk/breaking_news/තිබ්බේ-නැති-පළාත්-පාලන-මැතිවරණයට-රු-මි--655ක්-වැය-කරලා/11-410979) · `si`
+
+2023 වර්ෂයේ අගෝස්තු මාසයේ පැවැත්වීමට  තිබූ පළාත් පාලන  මැතිවරණය නොපැවැත්වීම හේතුවෙන් පළාත් පාලන මැතිවරණය සඳහා මැතිවරණ වියදම් ලෙස  රු.655,096,226ක් මැතිවරණ කොමිසන් සභාව විසින් වැය කොට ඇති බව ජාතික විගණන කාර්යාලය මගින් ජූලි මස 22 වන දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+2023 වර්ෂයේ සැප්තැම්බර් මස 30 වැනි දා වන විට රුපියල් එක්කෝටි පනස් නව ලක්ෂ තිස් තුන් දහස් හාරසීය හැත්තෑ 02 ක මුදලක් (15,933,472) තවදුරටත් ගෙවිය යුතු වියදම් ලෙස පැවති බව  එම විගණන වාර්තාවේ සඳහන් වේ. මැතිවරණ වියදමින් 15% ක් අතිකාල  හා නිවාඩු දින වැටුප් සඳහා ද, 23% ක් ලිපි ද්‍රව්‍ය  මිලදී ගැනීමට ද, 7% ක්  ඉන්ධන සඳහා ද, 31% ක් මුද්‍රණ  කටයුතු සඳහා ද, 7%ක්  සංග්‍රහ කටයුතු දීමනා සඳහා ද, 4% ක් පොලිස් දෙපාර්තමේන්තුවේ කටයුතු සඳහාද වියදම් කොට අැත.
+
+අනෙකුත් කටයුතු සඳහා 13% ක් වැය කොට ඇත. පළාත් පාලන ආයතනවල ධුර කාලය 2023 මාර්තු මස 19 වැනි දිනෙන් අවසන් වූ අතර අදාළ නාම යෝජනා දැන්වීම 2023 ජනවාරි මස 04 වැනි දින ප්‍රදර්ශනය කර තිබූ බව විගණනය මගින්  අනාවරණය කර තිබිණ.
+
+◼️
+
+[Data](articles/cd87fb48.json)
+
+---
+
+### ඖෂධ හිඟයක් ගැන කථාවක්
+
+*2024-07-24 19:53:26* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හිඟයක්-ගැන-කථාවක්/11-410978) · `si`
+
+මේ වසරට අවශ්‍ය ඖෂධ මිලදී ගැනීම සඳහා වෙන්කර තිබෙන රුපියල් බිලියන විස්සක මුදලින් තවමත් වියදම් කර තිබෙන්නේ රුපියල් බිලියන හයක මුදලක් පමණක් බවත් මේ වන විට ඖෂධ තුන්සිය පනහකට ආසන්න ප්‍රමාණයක හිඟයක් නිර්මාණය වෙමින්  තිබෙන බවත් වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+වර්ෂයේ පළමු මාස තුනට තොග මිලට ඖෂධ මිලදීගැනීම් නිසි ලෙස සිදුකර නොමැති බවත් මේ නිසා සිල්ලර මිලට මිලදී ගැනීම අවස්ථා හත්සිය විස්සක්පමණ සිදුකර තිබෙන බවට වාර්තා වන බවද එම සංගමයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව සඳහන් කළේය.
+
+පිළිකා ඖෂධ, හෘදයාබාධ රෝගීන්ට ලබා දෙන ඖෂධ, කුඩා දරුවන්ට ලබාදෙන ඖෂධ ඇතුළු සැලකිය යුතු ඖෂධ ප්‍රමාණයක් ක්‍රමයක් ක්‍රමයෙන් හිඟ වෙමින් තිබෙන බවත් මේ  නිසා සාමාන්‍ය මහජනතාව දැඩි ලෙස පීඩාවට පත්වන බවද පැවසීය.
+
+සාමාන්‍ය තොග මිලට මිලදී ගැනීම වෙනුවට සිල්ලර මිලට ප්‍රාදේශීයව ඖෂධ මිලදී ගැනීමෙන් විශාල මුදල් අවභාවිතාවක් හා අධික මුදලක් වැය වන බව විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/cd428a1e.json)
+
+---
+
 ### Estate workers' salary reverses the gazette
 
 *2024-07-24 19:43:25* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප-වැඩි-කළ-ගැසට්ටුව-ආපසු-හරවයි/11-410977) · `si`
@@ -2167,91 +2239,5 @@ The Presidential elections were opened by the Presidential Educational Technolog
 [Data](articles/8f38659d.json)
 
 [Extended Data](ext_articles/8f38659d.ext.json)
-
----
-
-### Grama Niladhari remanded for bribery
-
-*2024-07-24 18:18:35* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-ගත්-ග්‍රාම-නිලධාරී-රිමාන්ඩ්/11-410972) · `si`
-
-A Grama Niladhari in Colombo 15 was arrested for allegedly changing someone's birth certificate and demanding expensive liquor. The arrest came after a complaint filed on the 13th. Despite pleas from the suspect's lawyer for faster investigations, the magistrate ordered the suspect to remain in custody until further notice due to ongoing inquiries.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage, who was arrested and produced before the suspect, to be arrested in connection with the suspects to change the name of the birth certificate and demanding two worth of liquor bottles.(24) fixed.
-
-The Magistrate, who was appointed to the Bribery Commission to promptly investigate the case, was taken into custody and was remanded as the Grama Niladhari, Colombo 15, who was arrested.
-
-The officials of the Bribery Commission issued a report on the progress of the investigations into the incident on the 13th after his complaint on the 13th.
-
-Attorney Anton Senanayake appearing on behalf of the suspect Anton Senanayake asked the officials to expedite investigations into the client.
-
-Attorney Anton Senanayake appearing on behalf of the suspect, Mr. Anton Senanayake appearing on behalf of the suspect, the magistrate said that the magistrate had the weaknesses of the officers.
-
-...
-
-[Data](articles/053ad839.json)
-
-[Extended Data](ext_articles/053ad839.ext.json)
-
----
-
-### Cabinet takes decision following Supreme Court order on IGP
-
-*2024-07-24 18:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100752/cabinet-takes-decision-following-supreme-court-order-on-igp) · `en`
-
-The Cabinet of Ministers, which convened an urgent meeting today, has decided to announce its response to the decision of the Supreme Court regarding the Inspector General of Police (IGP) within the next two days after studying in depth the legal aspects of the matter.
-
-The Supreme Court today (24) issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
-
-The Supreme Court issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
-
-The Supreme Court had also ordered the President to name a suitable person for the position of IGP, for the duration of the interim order being enforced against Deshabandu Tennakoon.
-
-Accordingly, a special cabinet meeting was called this evening at the Presidential Secretariat in Colombo, chaired by President Ranil Wickramasinghe.
-
-...
-
-[Data](articles/8fb170cc.json)
-
-[Extended Data](ext_articles/8fb170cc.ext.json)
-
----
-
-### Japan decides on immediate disbursement of suspended Sri Lanka loans
-
-*2024-07-24 18:13:00* · [`economynextcom`](https://economynext.com/japan-decides-on-immediate-disbursement-of-suspended-sri-lanka-loans-173625/) · `en`
-
-ECONOMYEXT – Japan has decided to make immediate disbursements of suspended loans, making it the first country to do so after Sri Lanka reached an agreement to restructure official debt, Ambassador Mizukoshi Hideaki said.
-
-Yuri ide, Senior Representative of the Japan International Corporation Agency Sri Lanka office said the decision was taken by Japan to make immediate disbursement instead of waiting for new agreement to be singed in line with the debt restructure.
-
-The decision to make immediate disbursements was showed the confidence in Sri Lanka’s economy and it will also support cashflows and interest rates, Treasury Secretary Mahinda Siriwardana said.
-
-Director General of External Resources Ajith Abeysekera said the move will result in the immediate disbursement of 75 million dollars of pending contractor bills in the next few week.
-
-...
-
-[Data](articles/2f06bb32.json)
-
-[Extended Data](ext_articles/2f06bb32.ext.json)
-
----
-
-### Sudden decision on IGP's interim ban
-
-*2024-07-24 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199171) · `si`
-
-Cabinet meets after President's call to address Supreme Court's ruling on IGP's interim ban.
-
-🟩
-
-The Cabinet of Ministers has decided to meet the Presidential Declaration on the Supreme Court's decision on the IGP.
-
-◼️
-
-[Data](articles/ebdf5ba1.json)
-
-[Extended Data](ext_articles/ebdf5ba1.ext.json)
 
 ---

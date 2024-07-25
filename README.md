@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 08:25:26**
+As of **2024-07-25 08:35:39**
 
 ## Newspaper Stats
 
-*Scraped **37,110** Articles*
+*Scraped **37,112** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 323
-colombotelegraphcom | 350
+colombotelegraphcom | 351
 bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,118
@@ -20,17 +20,41 @@ adaderanalk | 4,290
 tamilmirrorlk | 4,564
 dailymirrorlk | 4,733
 virakesarilk | 5,820
-adaderanasinhalalk | 6,228
+adaderanasinhalalk | 6,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,108 (100.0%) of 37,110 articles have been extended.
+37,110 (100.0%) of 37,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
+
+### අවුරුදු 3 දරුවෙකුට දසවධ දුන් පියා අත්අඩංගුවට
+
+*2024-07-25 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199185) · `si`
+
+කුඩා දරුවෙකු කෘෘරත්වයට පත්කළ පියෙක් ඇල්පිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (24) රාත්‍රී කාලයේ දී ඇල්පිටිය පොලිස් වසමේ අනුරුද්ධගම කරන්දෙණිය ප්‍රදේශයේ අවුරුදු 3යි මාස 6ක කුඩා පිරිමි දරුවෙකුට කෘෘර ලෙස සලකන බවට 118 කෙටි පණිවුඩ මධ්‍යස්ථානයට ආ ඇමතුමක් මත විමර්ශන ආරම්භ කර ඇත.
+
+ඒ අනුව ඇල්පිටිය පොලිස් ස්ථානයේ නිලධාරීන් විසින් අවුරුදු 24 ක් වූ කරන්දෙණිය, අනුරුද්ධගම ප්‍රදේශයේ පදිංචි අරක්කැමිවරයෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුගේ වයස අවුරුදු 24ක් වන බිරිඳ රැකියාවක් සඳහා විදේශගතව ඇති අතර, සැකකරු සහ එම දරුවා පමණක් නිවසේ සිට ඇත.
+
+සැකකරු විසින් දරුවාගේ අත් ඔසවා බිම දණ ගස්වා දරුවා විසින් ආහාර ඉල්ලා සිටිමේ දී පරුෂ වචනයෙන් බැණ වැදී ඇති බවත්, දරුවාගේ එක් පාදයක් පාපැදියක ඉදිරිපස රෝදයට යට කරමින් කෘෘරත්වය පත්කර ඇති බවත් පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+එම සැකකාර පියා මෙලෙස දරුවා කෘෘරත්වයට පත්කිරීමේ වීඩියෝ විදේශගත මවට යොමු කර ඇති බව ද සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+
+අදාළ වීඩියෝ පටය සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන බව ද නිරීක්ෂණය වී ඇතැයි පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/5e87d9c6.json)
+
+---
 
 ### Wickremabahu Karunaratne passes away
 
@@ -50,17 +74,23 @@ Leader of the New Samaja Party Dr. Wickremabahu Karunaratne has passed away.
 
 ---
 
-### ஒலிம்பிக் போட்டி: இலங்கை வீரர்கள் பரிஸ் பயணம்
+### Olympic Games: Sri Lankan players travel to Paris
 
 *2024-07-25 07:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒலிம்பிக்-போட்டி-இலங்கை-வீரர்கள்-பரிஸ்-பயணம்/175-340988) · `ta`
 
-பரிஸ் ஒலிம்பிக் போட்டிகளில் பங்கேற்பதற்காக தருஷி கருணாரத்ன, அருண தர்ஷன மற்றும் நதீஸா தில்ஷானி லேக்கம்கே ஆகிய மூவரும் நேற்றிரவு நாட்டிலிருந்து பரிஸ் நோக்கி புறப்பட்டு சென்றனர்.
+Sri Lankan athletes Tarushi Karunaratne, Aruna Darshana, and Nadeesa Dilshani Lekamke departed for the Paris Olympics, where six of their compatriots will compete, marking the start of the games today.
 
-பரிஸ் ஒலிம்பிக் போட்டிகள் நாளை ஆரம்பமாகவுள்ள நிலையில், இம்முறை ஒலிம்பிக் போட்டிகளுக்கு இலங்கையின் 6 வீர, வீராங்கனைகள் தகுதி பெற்றுள்ளனர்.  (a)
+🟩
+
+Tarushi Karunaratne, Aruna Darshana and Nadeesa Dilshani Lekamke left the country last night to participate in the Paris Olympics.
+
+Sri Lanka's six heroes and 6 heroes have qualified for the Olympic Games as the Paris Olympic Games begin tomorrow.(a)
 
 ◼️
 
 [Data](articles/587d1df3.json)
+
+[Extended Data](ext_articles/587d1df3.ext.json)
 
 ---
 
@@ -559,6 +589,18 @@ The roundtable discussion on “Bridging Borders: Enhancing Connectivity between
 [Data](articles/8bda487e.json)
 
 [Extended Data](ext_articles/8bda487e.ext.json)
+
+---
+
+### A Paradigm Shift Is Necessary In Solving Debt Crisis
+
+*2024-07-25 02:54:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-paradigm-shift-is-necessary-in-solving-debt-crisis/) · `en`
+
+Accumulation of severe debt is a global phenomenon. If we think that Ranil and IMF can solve our crisis under the proposed plan, we are mistaken. Also, if we think that by being free from corruption we can resolve debt crises, again we are mistaken even though removal of corruption vulnerabilities is essential.
+
+...
+
+[Data](articles/f4f2c348.json)
 
 ---
 
@@ -1260,21 +1302,29 @@ The court has already issued an order on the temple issue and pointed out that t
 
 ---
 
-### පසුගිය වසරේ සහල් අතිරික්තයක්
+### A surplus of rice last year
 
 *2024-07-24 18:41:15* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-වසරේ-සහල්-අතිරික්තයක්/11-410974) · `si`
 
-දේශීය කෘෂිකර්මාන්තය නඟාසිටුවීම වෙනුවෙන් වත්මන් ආණ්ඩුව ආරම්භ කර තිබෙන සැලසුම් සහගත කෘෂි නවීකරණ වැඩ පිළිවෙල හමුවේ ගොවි ජනතාව තවදුරටත් දේශපාලන අතකොලු බවට පත්කර ගැනීමට නොහැකි වී ඇතැයි කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+In 2023, Sri Lanka experienced a significant rice surplus, producing nearly 3 million metric tons against an annual requirement of 2.4 million. This surplus was attributed to improved local paddy production, partly due to the government's efforts to address the fertilizer crisis of 2021. The Minister of Agriculture highlighted the need for agricultural modernization and the introduction of new technologies to enhance productivity. Plans include increasing the yield per hectare to 9 metric tons and implementing programs to boost green pea production. The government aims to double the harvest in five years and has initiated measures to support farmers, including financial subsidies and reduced fertilizer prices.
 
-යල හා මහ කන්න ආශ්‍රිතව වෙල් ඉපනැල්ලේ මුං ඇට වගාකර මෙට්‍රික් ටොන් 18,828ක අස්වැන්නක් ලබා ගැනීම සඳහා වන වැඩසටහනක් ක්‍රියාවට නංවා ඇති බවත් ඒ යටතේ එක් ගොවියෙකුට හෙක්ටයාරයක් සඳහා බීජ මුං ඇට කිලෝ ග්‍රෑම් 25ක් ලබාදීමට නියමිත බවත් අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (24) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the present government could not make political matters in a planned agricultural modernization program to boost local agriculture.
 
-2023 වසරේ ලැබුණු වාර්තාගත වී අස්වැන්න සමඟ සහල් මෙට්‍රික් ටොන් මිලියන 3කට ආසන්න ප්‍රමාණයක් නිෂ්පාදනය කිරීමට හැකි වූ බවත් ඒ හමුවේ රට තුළ සහල් අතිරික්තයක් පවත්වා ගැනීමට හැකිවී තිබෙන බවත් මෙරට වී නිෂ්පාදනය මෙට්‍රික් ටොන් මිලියන 4.5ක් බවත්අමාත්‍යවරයා සඳහන් කළේය.
+The Minister said that a program to be implemented in Yala and Maha seculations, a program to get 18,828 metric tons of green peas in Yala and Maha seculations.
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera made this statement participating in the press conference held at the Presidential Media Center today (24).
+
+The major tonnes of rice in the country were able to produce nearly 3 million metric tons with the record of 2023 and that the rice production of rice was 4.5 million metric tons.
+
+The Minister of Agriculture and Plantation Industries said further said:
 
 ...
 
 [Data](articles/45cdf853.json)
+
+[Extended Data](ext_articles/45cdf853.ext.json)
 
 ---
 
@@ -2243,53 +2293,5 @@ Google, Meta and Microsoft are all descended on this generating AI Pat Gotha. As
 [Data](articles/f3bedba2.json)
 
 [Extended Data](ext_articles/f3bedba2.ext.json)
-
----
-
-### Court defers decision on Dayasiri’s plaint
-
-*2024-07-24 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100745/court-defers-decision-on-dayasiris-plaint) · `en`
-
-The Colombo District Court announced that its decision in relation to the interim injunction requested through the plaint filed by former SLFP General Secretary Dayasiri Jayasekara, seeking an order suspending the charge sheet issued initiating disciplinary action against him during Maithripala Sirisena’s tenure as SLFP chairman, will be delivered on July 31.
-
-Meanwhile, the Treasurer of the Sri Lanka Freedom Party (SLFP) Minister Lasantha Alagiyawanna had requested the court yesterday (23) through a petition of intervention to permit him to intervene in this case.
-
-Announcing his decision in this regard, the District Judge stated that they have the right to intervene in this case.
-
-Accordingly, the District Judge, who granted time to file objections related to this case, also ordered that the case be recalled again on July 31.
-
-◼️
-
-[Data](articles/b500a27e.json)
-
-[Extended Data](ext_articles/b500a27e.ext.json)
-
----
-
-### 1,700 rupees salary increase gazette canceled: What is the true position of the government?- Question in Velukumar congregation
-
-*2024-07-24 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189269) · `ta`
-
-The government's plan to increase plantation workers' salaries by 1,700 rupees was canceled after plantation companies challenged it in court. Despite the cancellation, the Prime Minister stated they could still raise wages, highlighting ongoing economic challenges faced by plantation workers.
-
-🟩
-
-The gazette released on a salary increase of 1,700 rupees of plantation people has been canceled. The United People's Power MP Velukumar questioned the council of the government's true position on the salary issue of the plantation people.
-
-He was speaking at a special statement during a session held in Parliament today (24).
-
-On May 1, the President said that the salaries of the plantation people would be increased to 1700 rupees.. The gazette was later released on May 21.
-
-In this case, all the gazette issued on the issue of a salary increase on the 10th of this month has been canceled.
-
-The salary affair of plantation people who have been economically affected continues. So mention the government's position.
-
-Prasanna Ranatunga, the prime minister of the ruling party, said, "We are in a position to increase the salaries of plantation people. The plantation companies went to court against the increase.
-
-◼️
-
-[Data](articles/a06940f8.json)
-
-[Extended Data](ext_articles/a06940f8.ext.json)
 
 ---

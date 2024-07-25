@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 01:36:03**
+As of **2024-07-26 01:54:25**
 
 ## Newspaper Stats
 
@@ -26,45 +26,61 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,278 (100.0%) of 37,281 articles have been extended.
+37,281 (100.0%) of 37,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### ’முஸ்லிம்களின்  வேதனையை குறைத்து மதிப்பிட வேண்டாம்’
+### Do not underestimate the pain of Muslims
 
 *2024-07-26 00:55:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களின்-வேதனையை-குறைத்து-மதிப்பிட-வேண்டாம்/175-341047) · `ta`
 
-ஜனாஸாக்கள் எரிக்கப்பட்ட சம்பவத்துக்காக முஸ்லிம் மக்களிடம் மன்னிப்பு கோரினால் போதுமென அரசு நினைக்கின்றது பாதிக்கப்பட்ட முஸ்லிம்களின்  வேதனையை இந்தளவு குறைத்து மதிப்பிட வேண்டாம். அதற்கான நஷ்டஈடு அரசாங்கத்துக்கு விரைவில் கிடைக்கும் என ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான மரிக்கார்  தெரிவித்தார்.
+The government's decision to cremate Muslim COVID victims against religious beliefs sparked outrage. Critics argue it's naive to believe apologies alone can appease the community, suggesting deeper issues need addressing. The move is seen as politically motivated, aiming to secure Muslim votes through superficial gestures. The community's pain and anger underscore the complexity of religious freedom and state policies during crises.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில்  உரையாற்றுகைம் போதே  இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்
+🟩
 
-கொரோனா  தொற்றில் மரணித்த முஸ்லிம் பிரஜைகளின் ஜனாஸாக்களை எந்தவித விஞ்ஞான ரீதியிலான தீர்மானமும் இல்லாமல் எரிப்பதற்கு ராஜபக்ச  அரசாங்கம் நடவடிக்கை எடுத்திருந்தது. அந்த அரசாங்கத்தின் இந்த தீர்மானத்தால் ஒட்டு மொத்த முஸ்லிம் சமூகமும் மிகவும் வேதனை அடைந்தது.  இவ்வாறான நிலையில் அரசாங்கம் வேறுமனே முஸ்லிம் மக்களிடம் மன்னிப்பு கோரி இதில் இருந்து தப்பிக்கொள்ள முடியும் என நினைப்பது   முட்டாள்தனம்.
+The government thinks that it is enough to apologize to the Muslims for the burning of the Janasas.. Marikar, the United People's Power MP, said that the government will get compensation soon.
+
+He said this while addressing the debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25)
+
+The Rajapakse government has taken steps to burn the Janasas of Muslim citizens who died in the Corona infection without any scientific resolution. The entire Muslim community was very upset by this decision of the government.It is foolish to think that the government can escape from the Muslim people to apologize to other Muslims.
+
+The government has suddenly taken a resolution to protect the Rajapaksa from the crime and blame the authorities.. If the authorities had given the Alaration, not scientifically to burn the Janasas, who had taken the decision?
 
 ...
 
 [Data](articles/205dc9ab.json)
 
+[Extended Data](ext_articles/205dc9ab.ext.json)
+
 ---
 
 ### 2024-07-25 (Thursday)
 
-### 2048 ஆம் ஆண்டளவில் தனிநபர் வருமானம் 20,000 டொலராக அதிகரிக்கப்படும் - பந்துல குணவர்தன
+### Personal income will be increased by $ 20,000 by 2048 - Bandula Gunawardena
 
 *2024-07-25 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189388) · `ta`
 
-2048 ஆம் ஆண்டளவில் தனிநபர் வருமானத்தை 20,000 டொலராக அதிகரிக்கும் . அதற்கான வேலைத்திட்டங்கள் அரசாங்கத்தினால் உருவாக்கப்பட்டுள்ளன.
+By 2048, personal income is expected to increase by $20,000 due to government programs aimed at financial management and economic growth. This initiative, part of the State Financial Management and Economic Level Act, aims to prevent bankruptcy and improve living standards nationwide. It emphasizes effective use of both public and private sectors in manufacturing. The government has also agreed not to repay international debts until 2027, requiring future rulers to contribute 2.5% of the country's initial deposit under the economic change law.
 
-நாட்டில் பாரிய மாற்றத்தை கொண்டு வருவதற்கான சிறந்த அத்திவாரத்தை இடுவதற்கும் நாட்டை மீண்டும் கட்டியெழுப்புவதற்குமான தேசிய வேலைத் திட்டமாகவே அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலை மாற்றம் சட்டத்தை அரசாங்கம் கொண்டுவந்துள்ளது.
+🟩
 
-அத்துடன் சர்வதேச நாணய நிதியத்தின் உடன்படிக்கையை மாற்றியமைத்துக்கொண்டு யாருக்கும் அரசாங்கத்தை கொண்டு செல்ல முடியாது  என போக்குவரத்து, ஊடகத்துறை அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்
+Increase personal income by 2048 to $ 20,000. The government has developed the programs.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+The government has introduced the State Financial Management and Economic Level Act as a national program for posting a great foundation for a major change in the country and rebuilding the country.
+
+Transport and Media Minister Bandula Gunawardena said that no one could bring the government to the International Monetary Fund's agreement.
+
+He was speaking at a debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25).
+
+If the financial management, discipline and economic system are not followed based on the issues included in the state financial management and economic change laws, this country will not be able to prevent it from going back to the bankruptcy.. The government's expectation is to take action through this law to improve the livelihood of all the people of the country.
 
 ...
 
 [Data](articles/294bb8bd.json)
+
+[Extended Data](ext_articles/294bb8bd.ext.json)
 
 ---
 
@@ -130,15 +146,21 @@ The new address is 17th Floor, Suuhappaya, Battaramulla.
 
 ---
 
-### பொலிஸ் மா அதிபர் தொடர்பான அரசாங்கத்தின் நிலைப்பாடு நாளை பாராளுமன்றத்தில் அறிவிக்கப்படும்
+### The government's position on the Inspector General of Police will be announced in Parliament tomorrow
 
 *2024-07-25 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/189387) · `ta`
 
-குறித்த விசேட உரையானது பொலிஸ் மா அதிபர் தொடர்பான உச்ச நீதிமன்றத்தின் தீர்ப்பு தொடர்பில் அரசாங்கத்தின் பதிலைத் தெரிவிக்கும் உரையாக பிரதமரால் அறிவிக்கப்படவுள்ளது.
+Tomorrow, Parliament will hear the government's stance on the Inspector General of Police, delivered by the Prime Minister in response to the Supreme Court's ruling.
+
+🟩
+
+The special speech will be announced by the Prime Minister as a response to the government's response to the Supreme Court's decision on the Inspector General of Police.
 
 ◼️
 
 [Data](articles/89e1e153.json)
+
+[Extended Data](ext_articles/89e1e153.ext.json)
 
 ---
 

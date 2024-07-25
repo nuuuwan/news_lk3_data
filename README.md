@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 17:36:07**
+As of **2024-07-25 17:56:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,248
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,222 (100.0%) of 37,224 articles have been extended.
+37,224 (100.0%) of 37,224 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,8 @@ The National Anti-Corruption Framework includes several key actions, such as the
 ...
 
 [Data](articles/19e98dba.json)
+
+[Extended Data](ext_articles/19e98dba.ext.json)
 
 ---
 
@@ -1086,19 +1088,25 @@ According to political sources, both sides are focusing on President Ranil Wickr
 
 ---
 
-### වව්නියාව පාස්පෝට් කාර්යාලයට යන්න ඉන්න අයට දැනුම් දිමක්
+### Payment for those who go to the Passport office in Vavuniya
 
 *2024-07-25 11:37:21* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාව-පාස්පෝට්-කාර්යාලයට-යන්න-ඉන්න-අයට-දැනුම්-දිමක්/11-410985) · `si`
 
-ආගමන හා විගමන දෙපාර්​තමේන්තු​වේ අංක: JC 23, පිටරවුම් පාර, වවුනියාව, යන ස්ථානයේ පිහිටි ප්‍රාදේශීය කාර්යාලය 2024 අගෝස්තු මස 16 වන සිකුරාදා දින ගාමිණි විදුහල ඉදිරිපිට, මන්නාරම පාර, වවුනියාව යන ස්ථානයේ පිහිටි ගොඩනැගිල්ලේ ස්ථාපනය කිරීමට නියමිතය.
+The Vavuniya Regional Office of the Department of Immigration and Emigration will close from August 3 to 15, 2024, due to relocation. Services will resume on August 16, 2024, at the new location.
 
-එබැවින් අංක :JC 23, පිටරවුම් පාර, වවුනියාව, යන ස්ථානයේ පිහිටි දැනට මහජන සේවාවන් සපයනු ලබන ප්‍රාදේශීය කාර්යාලයේ රාජකාරී කාර්යයන් 2024 අගෝස්තු මස 02 වන සිකුරාදා දින සිට අවසන් කරනු ලැබේ.
+🟩
 
-ඒ අනුව 2024 අගෝස්තු මස 03 වන දින සිට 2024 අගෝස්තු මස 15 දින දක්වා මෙම දෙපාර්තමේන්තුවේ වවුනියාව ප්‍රාදේශිය කාර්යාලය මගින් මහජන සේවාවන් ලබාදීම සිදු නොවන අතර, ඉහත සඳහන් ස්ථානයේ පිහිටුවනු ලබන නව ප්‍රාදේශීය කාර්යාලය මගින් 2024 අගෝස්තු මස 16 වන දින සිට නැවත මහජන සේවාවන් ලබාදීමට කටයුතු කරනු ලබන බව ආගමන හා විගමන දෙපාර්මේන්තුව පවසයි.
+The Department of Immigration and Emigration will be the Department of Immigration and Emigration No.
+
+Therefore, the duties of the Regional Office of the Regional Office, which is located at JC 23, Pitarry Road, Vavuniya, Vavuniya, is currently concluded from Friday, August 2, 2024.
+
+Accordingly, the Vavuniya Regional Office of the Vavuniya Regional Office will not provide public services from August 3, 202 to August 15, 2024, and action will be taken to provide public services from August 16, 2024 by the new regional office of the new regional office.The Department of Immigration and Emigration says.
 
 ◼️
 
 [Data](articles/c4fc08f8.json)
+
+[Extended Data](ext_articles/c4fc08f8.ext.json)
 
 ---
 

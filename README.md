@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 23:20:33**
+As of **2024-07-25 23:36:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,277 (100.0%) of 37,278 articles have been extended.
+37,278 (100.0%) of 37,278 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -442,17 +442,29 @@ Police are conducting investigations by detaining the arrested youth at the Chav
 
 ---
 
-### ෆුගෝ ඔන්ලයින් පිරමීඩ ආයතනයේ මූල්‍ය ලේකම් සරසවි සිසුවියගේ ගිණුමේ ලක්ෂ 150ක මුදල්
+### 150 lakhs of financial secretary of Fugo Online Pyramid Institute of Financial Secretary University
 
 *2024-07-25 18:52:39* · [`adalk`](https://www.ada.lk/breaking_news/ෆුගෝ-ඔන්ලයින්-පිරමීඩ-ආයතනයේ-මූල්‍ය-ලේකම්-සරසවි-සිසුවියගේ-ගිණුමේ-ලක්ෂ-150ක-මුදල්/11-411002) · `si`
 
-වැඩි ප්‍රතිලාභයක් ලබා දෙන බවට පවසමින් මෙරට ප්‍රධාන පෙළේ බැංකු 09ක ගිණුම් 55 හරහා රුපියල් කෝටි 30කට අධික මුදල් වංචනිකව ලබාගත් බව කියමින් සැකපිටඅත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ ‘ෆූගෝ ඔන්ලයින්’ පිරමීඩාකාර මූල්‍ය ආයතනයේ ලේකම්වරිය වශයෙන් කටයුතු කරන විශ්ව විද්‍යාල ශිෂ්‍යාවක ලබන 06 වැනිදා දක්වා රිමාන්ඩ් බාරයේ රඳවා තැබීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (25) නියම කළේය.
+The financial secretary of Fugo Online Pyramid Institute was detained by Colombo's Chief Magistrate Thilina Gamage for alleged involvement in financial irregularities, including misuse of funds exceeding half a billion rupees. The arrest followed an investigation initiated by the Criminal Investigation Department (CID) in March after a complaint from the Central Bank about deposit and insurance exposure. The CID also banned two directors from the company. The case involves allegations of accepting large deposits through various banks, with further investigations ongoing.
 
-විශ්ව විද්‍යාල ශිෂ්‍යාවක වන සැකකාරියගේ බැංකු ගිණුමේ රුපියල් කෝටි 1 1/2කට අධික මුදල් ප්‍රමාණයක් තිබු බව කියමින් රහස් පොලිසිය දැක්වු කරුණු පිළිගනිමින් සැකකරිය රිමාන්ඩ් බාරයේ රඳවා තැබීමට මහෙස්ත්‍රාත්වරයා නියම කළේය.
+🟩
+
+Detention of the secretary of 'Fougo Online' pyramidara, 'Fugo Online' pyramidara, 'Fugo Online' pyramidian student, is said to be detained as the Defense Studies of Four Banks.Colombo Chief Magistrate Thilina Gamage prescribed this today (25).
+
+The Magistrate ordered that the CID has been detained in the suspect, claiming that the suspect's bank account had over Rs. 1/2 billion.
+
+The progress report on the investigations of the people and bank accounts of the Ceylon Money Accounts of the People's Money and Bank Accounts have to be inspected by the Ceylon Money and Bank Accounting Company is to be sent to the provision of Rs.The university student who was arrested was produced in court.
+
+The officials of the Criminal Investigation Department (CID) officials commenced the investigation last March following a complaint lodged by the Central Bank's deposit and insurance exposure.
+
+The CID has banned the CID and Erandagi Arachchige Eragineha Arachchige from the directors of the company.
 
 ...
 
 [Data](articles/bdd6635e.json)
+
+[Extended Data](ext_articles/bdd6635e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-25 08:54:49**
+As of **2024-07-25 09:06:13**
 
 ## Newspaper Stats
 
-*Scraped **37,116** Articles*
+*Scraped **37,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,33 +14,73 @@ bbccomsinhala | 362
 newsfirstlk | 363
 islandlk | 2,118
 economynextcom | 2,221
-dailyftlk | 2,371
+dailyftlk | 2,372
 adalk | 3,367
-adaderanalk | 4,291
+adaderanalk | 4,292
 tamilmirrorlk | 4,566
 dailymirrorlk | 4,733
-virakesarilk | 5,820
+virakesarilk | 5,821
 adaderanasinhalalk | 6,230
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,112 (100.0%) of 37,116 articles have been extended.
+37,116 (100.0%) of 37,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-25 (Thursday)
 
-### සරත් ෆොන්සේකා ජනපති සටනට
+### நவ சமசமாஜ கட்சியின் தலைவர் விக்ரமபாகு கருணாரத்ன காலமானார்
+
+*2024-07-25 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189311) · `ta`
+
+நவ சமசமாஜ கட்சியின் (Nava Sama Samaja Pakshaya NSSP) தலைவர் கலாநிதி விக்ரமபாகு கருணாரத்ன தனது 81 ஆவது வயதில் காலமாகியுள்ளார்.
+
+கருணாரத்ன 2010 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் வேட்பாளராக களமிறங்கினார். அவர் இலங்கை அரசியலில் நீண்டகால அனுபவம் கொண்டவர்.
+
+1977 இல், நவசமசமாஜக் கட்சியை (புதிய சமூக சமத்துவக் கட்சி) ஸ்தாபிப்பதற்காக வாசுதேவ நாணயக்கார உட்பட லங்கா சமசமாஜக் கட்சியின் (LSSP) மற்ற முன்னாள் உறுப்பினர்களுடன் இணைந்து கொண்டார். இலங்கையின் அரசியலில் அவரது பங்களிப்புகள் நீடித்த தாக்கத்தை ஏற்படுத்தியுள்ளன.
+
+◼️
+
+[Data](articles/aafe1a3a.json)
+
+---
+
+### Showery conditions expected to enhance in next few days
+
+*2024-07-25 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100756/showery-conditions-expected-to-enhance-in-next-few-days) · `en`
+
+The Meteorology Department says showery conditions are expected to enhance to some extent in the south-western part of the Island from tomorrow (26) in the next few days.
+
+Several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts while a few showers may occur in the North-western province.
+
+Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/1d55dd69.json)
+
+---
+
+### Sarath Fonseka to fight against President
 
 *2024-07-25 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199186) · `si`
 
-2024 ජනාධිපති අපේක්ෂකත්වය සඳහා තමා ඉදිරිපත් වන බව ෆිල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා පවසයි.
+Field Marshal Sarath Fonseka announces his candidacy for the 2024 presidency, vowing to challenge the incumbent leader.
+
+🟩
+
+The 2024 Fild Marshal Sarath Fonseka says he will come forward for presidential candidate.
 
 ◼️
 
 [Data](articles/6ee16ecb.json)
+
+[Extended Data](ext_articles/6ee16ecb.ext.json)
 
 ---
 
@@ -54,17 +94,25 @@ Leader of the Nawa Sama Samaja Party (NSSP), Dr. Vickramabahu Karunaratne has pa
 
 [Data](articles/b7e9b3c2.json)
 
+[Extended Data](ext_articles/b7e9b3c2.ext.json)
+
 ---
 
-### கலாநிதி விக்கிரமபாகு கருணாரத்ன காலமானார்
+### Dr. Wickremabahu Karunaratne passed away
 
 *2024-07-25 08:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-விக்கிரமபாகு-கருணாரத்ன-காலமானார்/175-340991) · `ta`
 
-சிரேஸ்ட அரசியல்வாதியும் நவ சம சமாஜ கட்சியின் தலைவருமான கலாநிதி விக்கிரமபாகு கருணாரத்ன தனது 81 வயதில் இன்று காலமானார்.
+Dr. Wickremabahu Karunaratne, aged 81, a prominent figure from the Nava Sama Samaja Party, has passed away.
+
+🟩
+
+Dr. Wickremabahu Karunaratne, a senior politician and leader of the Nava Sama Samaja Party, passed away today at the age of 81.
 
 ◼️
 
 [Data](articles/cabe0959.json)
+
+[Extended Data](ext_articles/cabe0959.ext.json)
 
 ---
 
@@ -98,19 +146,25 @@ It is also observed that the video is circulated on social media.
 
 ---
 
-### ’இளைஞர்களுக்கான வேலை வாய்ப்பு உருவாக்கப்படும்’
+### Employment for Youth
 
 *2024-07-25 08:15:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களுக்கான-வேலை-வாய்ப்பு-உருவாக்கப்படும்/175-340990) · `ta`
 
-இலங்கை இளைஞர்கள் தொழில் தேடி வெளிநாடுகளுக்கு செல்வதற்கு மாறாக உள் நாட்டிலேயே இளைஞர்களுக்கு தேவையான வேலை வாய்ப்புகளை உருவாக்கும் வகையில் பொருளாதார மாற்றத்தை ஏற்படுத்துவதற்குரிய சரியான திட்டத்தை அடுத்த 10 வருடங்களில் செயற்படுத்துவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+President Wickremesinghe vows to revitalize Sri Lanka's economy over the next decade to curb youth emigration, comparing the country's potential to nations like the US, Dubai, and Singapore. He emphasizes the need for reforms to enhance the export economy and compete globally, drawing inspiration from Thailand's success in the Theravada Buddhist market. The president stresses the importance of collective effort to shape Sri Lanka's future and resolve business challenges through economic innovation.
 
-கம்பஹா பண்டாரநாயக்க கல்லூரியின் 106 ஆவது ஆண்டு நிறைவை முன்னிட்டு நேற்று இடம்பெற்ற நிகழ்வில் கலந்து கொண்டு உரையாற்றிய போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இன்று நமது இளைஞர்கள் வேலை தேடி அமெரிக்கா, டுபாய், சிங்கப்பூர் போன்ற நாடுகளுக்கு செல்கின்றனர். அந்த நாடுகளில் உள்ள நிலையை ஏன் இலங்கையில் உருவாக்கப்படவில்லை என்று கேட்க வேண்டும். அடுத்த 10 ஆண்டுகளில், இந்தப் பிரச்சினைக்குத் தீர்வு காண நாம் நம்மை அர்ப்பணிக்க வேண்டும். நாட்டை முன்னேற்றி புதிய வேலை வாய்ப்புகளை உருவாக்க வேண்டும். இல்லையேல் இந்தக் கல்வியால் நாட்டுக்கு எந்தப் பலனும் கிடைக்காது. அப்படியானால், நாம் எப்போதும் வறிய நாடாகவே இருக்க வேண்டியிருக்கும்.
+President Ranil Wickremesinghe has promised to implement the right plan to create an economic change in the next 10 years to create employment opportunities for young people in the country rather than go abroad.
+
+The President said this while addressing the 106th anniversary of the Gampaha Bandaranaike College yesterday.As he further stated,
+
+Today our youth goes to countries like the United States, Dubai and Singapore. It is necessary to ask why the status of those countries is not created in Sri Lanka. In the next 10 years, we must dedicate ourselves to solve this problem. To improve the country and create new jobs. Otherwise, this education will not benefit the country. If so, we will always have to be a poor country.
 
 ...
 
 [Data](articles/b2579160.json)
+
+[Extended Data](ext_articles/b2579160.ext.json)
 
 ---
 
@@ -341,6 +395,22 @@ Speaking in Parliament yesterday Premadasa said, “You cannot get away by tende
 [Data](articles/18d72a64.json)
 
 [Extended Data](ext_articles/18d72a64.ext.json)
+
+---
+
+### WNPS lecture on “Leopards” Today by South African ecologist
+
+*2024-07-25 04:56:04* · [`dailyftlk`](https://www.ft.lk/news/WNPS-lecture-on-Leopards-Today-by-South-African-ecologist/56-764732) · `en`
+
+The Wildlife and Nature Protection Society (WNPS) will hold its monthly lecture Today on the theme “Leopards, people, and everything…” by South African ecologist, researcher, and conservationist Dr. Jeannine Stephanie McManus at 6 p.m. at the Jasmine Hall, BMICH.
+
+The lecture and the topic comes ahead of Sri Lanka Leopard Day which falls on 1 August.
+
+WNPS said Dr. McManus, a global expert in human-wildlife conflict mitigation, will share her insights on fostering human-leopard coexistence in Sri Lanka. The Sri Lankan leopard, found both inside and outside protected areas, faces increasing challenges that threaten its survival. Dr. McManus’s expertise offers valuable perspectives on addressing these issues.
+
+...
+
+[Data](articles/3bd6ac78.json)
 
 ---
 
@@ -2199,69 +2269,5 @@ Accordingly, the President is expected to take immediate attention to the Presid
 [Data](articles/86105322.json)
 
 [Extended Data](ext_articles/86105322.ext.json)
-
----
-
-### Saturn disappears tonight
-
-*2024-07-24 15:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிரவு-சனி-மறையும்/175-340957) · `ta`
-
-Tonight, Saturn, dubbed the most beautiful planet, will disappear alongside the Moon in a rare event visible to Sri Lankans from 12:50 am to 2:10 am. This phenomenon, announced by Arthur C Clarke, is a celestial treat not to be missed.
-
-🟩
-
-It is reported that Saturn is considered the most beautiful planet in the solar system on Wednesday (24) night.
-
-Astronomers have said that this is a rare incident as Saturn and the Moon are a rare incident.
-
-The event will be seen by Sri Lankans from 12.50 am to 2.10 am on Wednesday (24), according to a statement issued by Arthur C Clark.
-
-◼️
-
-[Data](articles/e7867188.json)
-
-[Extended Data](ext_articles/e7867188.ext.json)
-
----
-
-### Black July 41st anniversary in Batticaloa
-
-*2024-07-24 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189272) · `ta`
-
-Protests marking the 41st anniversary of Black July were held at Gandhi Park in Batticaloa, organized by families of missing persons. They demanded an international probe into the fate of their loved ones, urging answers about those taken during the conflict.
-
-🟩
-
-The protests of the missing persons were held today (24/07/2024) at the Gandhi Park in Batticaloa.
-
-In honor of the Black July 41, the protest was launched in the arrangement of relatives of the missing persons.
-
-They launched the struggle, demanding an international investigation to find out what happened to our children who handed over and what happened to our missing relations.
-
-◼️
-
-[Data](articles/96b9eaed.json)
-
-[Extended Data](ext_articles/96b9eaed.ext.json)
-
----
-
-### Fitch confirms ‘A-(lka)’ domestic rating of Seylan Bank Plc
-
-*2024-07-24 15:30:00* · [`economynextcom`](https://economynext.com/fitch-confirms-a-lka-domestic-rating-of-seylan-bank-plc-173584/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it was confirming a national long-term ‘A-(lka)’rating on Sri Lanka’s Seylan Bank Plc with a stable outlook, amid an improvement in operating environment, indicated by headline macroeconomic indicators.
-
-Fitch said it expected a modest increase in Seylan’s proportion of net loans to total assets (60.0% at end-1Q24) in the near- to medium-term, as lending resumes, comparable with its peers.
-
-“We expect a modest increase in Seylan’s proportion of net loans to total assets (60.0% at end-1Q24) in the near- to medium-term, as lending resumes, comparable with its peers.”
-
-Fitch Ratings – Colombo – 22 Jul 2024: Fitch Ratings has affirmed Sri Lanka-based Seylan Bank PLC’s (Seylan) National Long-Term Rating at ‘A-(lka)’. The Outlook is Stable. Fitch also affirmed Seylan’s Sri Lankan rupee-denominated outstanding subordinated debt at ‘BBB(lka)’.
-
-...
-
-[Data](articles/acd1041d.json)
-
-[Extended Data](ext_articles/acd1041d.ext.json)
 
 ---

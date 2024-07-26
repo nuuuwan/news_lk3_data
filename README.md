@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 12:20:38**
+As of **2024-07-26 12:35:49**
 
 ## Newspaper Stats
 
-*Scraped **37,380** Articles*
+*Scraped **37,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,244
 dailyftlk | 2,389
 adalk | 3,402
 adaderanalk | 4,326
-tamilmirrorlk | 4,606
+tamilmirrorlk | 4,607
 dailymirrorlk | 4,733
 virakesarilk | 5,871
 adaderanasinhalalk | 6,270
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,270
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,371 (100.0%) of 37,380 articles have been extended.
+37,380 (100.0%) of 37,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### ரயிலில் மோதி ஒருவர் உயிரிழப்பு
+
+*2024-07-26 12:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-ஒருவர்-உயிரிழப்பு/175-341070) · `ta`
+
+கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணித்த இரவு அஞ்சல் ரயிலில் மோதி ஒருவர் உயிரிழந்துள்ளதாக எல்ல பொலிஸார் தெரிவித்தனர்.
+
+தெமோதர, கவரவெல பிரிவு என்ற முகவரியில் வசித்து வந்த 26 வயதுடைய ஜெபமாலா மரியஞ்சோதி பெர்ணான்டோ என்ற இளைஞனே உயிரிழந்துள்ளார்.
+
+சடலம் அதே ரயிலில் இருந்து எடுத்துச் செல்லப்பட்டு ஹாலிஎல்ல நிலையத்தில் எல்ல பொலிஸாரிடம் ஒப்படைக்கப்பட்டதாக ரயில்வே திணைக்களத்தின் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d0a28b50.json)
+
+---
 
 ### Hamas leader in West Bank dies in Israeli custody, says Palestinian government body
 
@@ -50,37 +66,53 @@ At least 18 Palestinians have died in Israeli custody since the start of the Gaz
 
 [Data](articles/d600e4ee.json)
 
+[Extended Data](ext_articles/d600e4ee.ext.json)
+
 ---
 
-### දුම්රියේ ගැටී තරුණයෙක් මරුට
+### Youth dies after collision with train
 
 *2024-07-26 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199228) · `si`
 
-කොළඹ කොටුවේ සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ රාත්‍රී තැපැල් දුම්රියේ දෙමෝදර ගවරවෙල ප්‍රදේශයේදී අද (26) උදෑසන ගැටුණු පුද්ගලයෙක් මියගොස් ඇතැයි ඇල්ල පොලීසිය පවසයි.
+A 26-year-old from Dematagoda died after colliding with a train on the Colombo-Badulla route.
 
-එසේ මරණයට පත්ව ඇත්තේ රබර්වත්ත කොටස ගවරවෙල දෙමෝදර ලිපිනයේ පදිංචිව සිටි 26 හැවිරිදි තරුණයෙකි.
+🟩
+
+The Ella also said that a man was killed in the last night-mail from Colombo Fort to Badulla.
+
+The deceased has been identified as a 26 year old resident of the Dem Wwarawela in Dem Wwarawela.
 
 ◼️
 
 [Data](articles/bf001293.json)
 
+[Extended Data](ext_articles/bf001293.ext.json)
+
 ---
 
-### பொலிஸ் மா அதிபர் நியமனம் சட்டபூர்வமானதும் அரசியலமைப்புக்குட்பட்டதுமாகும் : சபாநாயகர்
+### The appointment of the Inspector General of Police is legally and constitutional: Speaker
 
 *2024-07-26 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189418) · `ta`
 
-பொலிஸ் மா அதிபர் விவகாரம் மிகவும் சிக்கலானது. அரசியலமைப்பின் 41 (ஈ) உறுப்புரைக்கமைய என்னால் எடுக்கப்பட்ட பிழையான தீர்மானம் காரணமாக இந்த நிலைமை ஏற்பட்டதாக என்மீது குற்றச்சாட்டுக்கள் முன்வைக்கப்படுவதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்தார்.
+Speaker Mahinda Yapa Abeywardena defended the appointment of the Inspector General of Police as constitutional and correct, despite criticism. He denied allegations of wrongdoing, stating decisions were made in accordance with the constitution. The process involved the approval of both the Constituent Assembly and Parliament, marking an unprecedented move. He suggested that in cases of vacancy, there should be established procedures or judicial intervention, emphasizing that even the President cannot make such appointments unilaterally.
 
-இன்று வெள்ளிக்கிழமை (26) பாராளுமன்றில் பொலிஸ் மா அதிபரின் நியமனம் குறித்து கருத்துத் தெரிவிக்கையிலேயே சபாநாயகர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-நாம் எந்தவொரு தவறான தீர்மானத்தையும் எடுக்கவில்லை. அரசியமைப்பிற்கமைய நியாயமான, சரியான தீர்மானத்தை ஆழமாக சிந்தித்துதான் எடுத்துள்ளோம். உங்களுக்கும் (எதிர்தரப்பினரை விழித்து) ஏனையோருக்கும் அந்த தீர்மானம் தவறாகத் தோன்றலாம். ஆனால் நாம் மனச்சாட்சிக்கமைய சரியான முறையிலேயே அந்த தீர்மானத்தை எடுத்தோம்.
+The police chief affair is very complicated. Speaker Mahinda Yapa Abeywardena said that allegations are being made against me that this situation was due to the wrong decision taken by me.
 
-நான் வீட்டிலிருந்து இந்த தீர்மானத்தை எடுத்தாகக் கூறியமையும் முற்றிலும் பொய்யாகும். 41(ஈ) - 5 உறுப்புரைக்கமையவே எனக்கான வாக்கினை நான் பயன்படுத்தினேன். 41 (சீ) உறுப்புரைக்கமைய அரசியமைப்பு பேரவையின் அனுமதியுடனும் பாராளுமன்றத்தின் அங்கீகாரத்துடனும் பொலிஸ் மா அதிபர் நியமனம் நியாமானது.
+The Speaker said this while commenting on the appointment of the Inspector General of Police in Parliament today (26).
 
-...
+We have not taken any wrong decision. We have taken a reasonable, right resolution of the constitution deeply. That resolution may seem incorrectly for you (awakening the opposition). But we made that decision in the right way.
+
+I have taken this decision from the house and is completely false. 41 (d) - I used the word for me in Article 5. The appointment of the Inspector General of Police with the approval of the Constituent Assembly and the approval of the Parliament was unprecedented.
+
+So there are steps to solve this post in case of vacuum. Or the court must provide a solution for this. He said that even the president could not decide on this.
+
+◼️
 
 [Data](articles/881baffb.json)
+
+[Extended Data](ext_articles/881baffb.ext.json)
 
 ---
 
@@ -114,21 +146,27 @@ While investigating the woman, the head of the Iyyappan temple in Canada had con
 
 ---
 
-### ஜனாதிபதி தேர்தல் வாக்களிப்பிற்கு முன்பாக எவ்வாறன விடயங்கள் அரங்கேறப்போகின்றன என்பதை பிரதமரின் கருத்து வெளிப்படுத்தியுள்ளது - பவானி பொன்சேகா
+### The Prime Minister's comment has revealed what matters are going on before the presidential election - Bhavani Fonseka
 
 *2024-07-26 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189414) · `ta`
 
-பொலிஸ்மா அதிபரின் பதவி வெற்றிடமாகவில்லை பதில் பொலிஸ்மா அதிபரை நியமிக்க முடியாது என பிரதமர் தினேஸ்குணவர்த்தன தெரிவித்திருப்பது ஜனாதிபதி தேர்தலி;ற்கு முன்பாக விடயங்கள் எவ்வாறு அரங்கேறப்போகின்றன என்பதை வெளிப்படுத்தியுள்ளது என மனித உரிமை சட்டத்தரணி பவானி பொன்சேகா தெரிவித்துள்ளார்.
+Bhavani Fonseka, a Human Rights Attorney, criticized Prime Minister Dinesh Gunawardena over his claim that the police chief cannot be appointed by the President's Chief of Staff. She mentioned past precedents where such appointments were made under the President's supervision. Fonseka expressed concern that practicing democracy could be seen as a "forgotten disease" by those seeking to maintain power, highlighting a dispute over the legal authority to appoint the Inspector General of Police.
 
-இலங்கையில் கடந்தகாலங்களில் ஜனாதிபதி தேர்தலை பதில்பொலிஸ்மா அதிபரின் மேற்பார்வையில் நடத்திய முன்னுதாரணங்கள் உள்ளன என அவர் தெரிவித்துள்ளார்.
+🟩
 
-அதிகாரத்தில் தொடர்ந்தும் நீடிப்பதற்காக ஜனநாயகத்தை செயல்இழக்கச்செய்வதில் தொடர்ந்தும் ஈடுபடும் ஒருவருக்கு  ஏற்பட்ட மறதிநோய் என நான் நினைக்கின்றேன் என பவானி பொன்சேகா குறிப்பிட்டுள்ளார்.
+Human Rights Attorney Bhavani Fonseka has said that Prime Minister Dinesh Gunawardena's claim that the police chief cannot appoint the Inspector General of Police.
 
-நடைமுறை சட்ட ஏற்பாடுகளுக்கு அமைய பதில் பொலிஸ்மா அதிபரை நியமிக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது என பிரதமர் தினேஸ் குணவர்த்தன குறிப்பிட்டுள்ளார்.
+He said there were precedent under the supervision of the Chancellor of the President of the President in the past.
+
+Bhavani Fonseka has stated that I think that I am a forgotten disease for someone who continues to practice democracy to continue in power.
+
+Prime Minister Dinesh Gunawardena has stated that the President has no authority to appoint the Inspector General of Police in response to the legal provisions.
 
 ◼️
 
 [Data](articles/4a1e07cc.json)
+
+[Extended Data](ext_articles/4a1e07cc.ext.json)
 
 ---
 
@@ -288,19 +326,25 @@ Meanwhile, President’s Counsel Ronald Perera today placed bonds on behalf of P
 
 ---
 
-### பொலிஸ் கான்ஸ்டபிளுக்கு இலஞ்சம் கொடுக்க முற்பட்ட முச்சக்கர வண்டி சாரதி கைது!
+### Three -wheeler driver arrested for bribing police constable
 
 *2024-07-26 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189395) · `ta`
 
-கறுவாத்தோட்ட போக்குவரத்து பொலிஸ் பிரிவிற்குட்பட்ட பொலிஸ் கான்ஸ்டபிளுக்கு 1000 ரூபா இலஞ்சம் கொடுக்க முற்பட்ட முச்சக்கரவண்டியின் சாரதி ஒருவர் கைதுசெய்யப்பட்டுள்ளதாக கறுவாத்தோட்டம் பொலிஸார் தெரிவித்துள்ளனர்.
+A three-wheeler driver was arrested for trying to bribe a police constable in Cinnamon, Sri Lanka. The incident occurred while the officer was on duty, attempting to report traffic violations. The driver offered 1,000 rupees but was instead taken into custody. He has since been transferred to the Bribery Commission for further investigation.
 
-கறுவாத்தோட்டம் பௌத்தலோக மாவத்தையில் பொலிஸ் கான்ஸ்டபிள் போக்குவரத்து கடமையில் ஈடுபட்டிருந்த போது முச்சக்கரவண்டியை நிறுத்தி போக்குவரத்து விதிமீறல் தொடர்பில் வழக்குப் பதிவு செய்ய  முற்பட்டபோது தண்டப்பணம்   விதிக்க  வேண்டாம் எனக் கூறி 1000 ரூபா  லஞ்சம் கொடுக்க முற்பட்ட சாரதி கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-மேலும்,  சந்தேக நபர் மேலதிக விசாரணைகளுக்காக இலஞ்ச  ஊழல் விசாரணை ஆணைக்குழுவிடம் ஒப்படைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A driver of a three -wheeler has been arrested for attempting to bribe the police constable to the police constable belonging to the Cinnamon Traffic Police Division, the Cinnamon Garden Police said.
+
+The driver of the Cinnamon Garden Buddhist Mawatha has been arrested for attempting to bribe 1000 rupees when the police constable has been on duty and tried to file a case of traffic violations.
+
+In addition, the suspect has been handed over to the Bribery Commission for further investigations, police said.
 
 ◼️
 
 [Data](articles/af4a881f.json)
+
+[Extended Data](ext_articles/af4a881f.ext.json)
 
 ---
 
@@ -324,19 +368,25 @@ Zambada, who is believed to be in his 70s, and Guzman Lopez, who is in his 30s, 
 
 ---
 
-### பொலிஸ்மா அதிபர் விடயத்தில் அரசியலமைப்பு பேரவை தலையிட வேண்டும் - பிரதமர்
+### Constitutional Council intervene on the matter of police chief - Prime Minister
 
 *2024-07-26 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189402) · `ta`
 
-அரசியலமைப்பு பேரவையின் அதிகாரத்தை நீநித்துறை சவாலுக்குட்படுத்த முடியாதென பிரதமர்  தினேஷ் குணவர்தன தெரிவித்தார்.
+The Constitutional Council's authority is unchallengeable according to PM Dinesh Gunawardena. He also suggests the Constituent Assembly should support the High Court's interim injunction against the IGP, despite questioning its legal basis and the acceptability of the Supreme Court's decision.
 
-இதேவேளை, பொலிஸ்மா அதிபருக்கு எதிராக உயர்நீதிமன்றம் பிறப்பித்துள்ள இடைக்கால தடையுத்தரவை வலுவற்றதாக்க அரசியலமைப்பு பேரவை தலையிட வேண்டும்.
+🟩
 
-பொலிஸ்மா அதிபருக்கு எதிராக உயர்நீதிமன்றம் பிறப்பித்துள்ள இடைக்கால தடையுத்தரவில் அடிப்படை சட்டவலு கிடையாது என்றும் ஆகவே உயர்நீதிமன்றத்தின் தீர்ப்பை ஏற்க முடியாதென்றும் பிரதமர் குறிப்பிட்டார்.
+Prime Minister Dinesh Gunawardena said that the power of the Constitutional Council cannot be challenged.
+
+At the same time, the Constituent Assembly should intervene to strengthen the interim injunction issued by the High Court against the Inspector General of Police.
+
+The Prime Minister said that there was no basic law in the interim injunction issued by the High Court against the Inspector General of Police and that the Supreme Court's decision could not be accepted.
 
 ◼️
 
 [Data](articles/a51b8989.json)
+
+[Extended Data](ext_articles/a51b8989.ext.json)
 
 ---
 
@@ -442,23 +492,33 @@ The Prime Minister added that the existing IGP is not empty.
 
 ---
 
-### எத்தியோப்பிய மண்சரிவுகளில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 500 ஆக அதிகரிக்கலாம் - ஐ.நா.
+### The number of casualties trapped in Ethiopian landslides can increase to 500 - UN
 
 *2024-07-26 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189394) · `ta`
 
-இதேவேளை, உயிரிழந்தவர்களின் எண்ணிக்கை 500 ஆக அதிகரிக்கலாம் என ஐக்கிய நாடுகள் சபை வியாழக்கிழமை தெரிவித்துள்ளது.
+Heavy rains in Ethiopia's Kofa Zone triggered landslides, potentially increasing the death toll from 257 to 500. Rescue efforts are ongoing, with over 15,000 needing evacuation, including many children and pregnant women. The UN's humanitarian office reports 12 injuries and at least 125 displacements, but the exact number of missing remains unknown.
 
-பலத்த மழையினால் எத்தியோப்பியாவில் கோஃபா மண்டலத்தின் தொலைதூர மலைப் பகுதியில் ஞாயிற்றுக்கிழமை மாலை மற்றும் திங்கட்கிழமை காலை மண்சரிவுகள் ஏற்பட்டுள்ளன.
+🟩
 
-மண்சரிவுகள் ஏற்பட்ட  கெஞ்சோ ஷாச்சா கோஸ்டி பகுதியில் சடலங்களையும் உயிர்பிழைத்தவர்களையும் மீட்பதற்கு மீட்புப் பணிகள் நடைபெற்று வருகிறது.
+Meanwhile, the number of casualties may increase to 500, the United Nations said on Thursday.
 
-24 ஆம் திகதி வரை  257 பேர் உயிரிழந்துள்ளதாக பதிவாகியுள்ளது. எனினும் உயிரிழந்தவர்களின் எண்ணிக்கை 500 ஆக அதிகரிக்கலாம் என  மனிதாபிமான விவகாரங்களின் ஒருங்கிணைப்புக்கான ஐக்கிய நாடுகளின் அலுவலகம் தெரிவித்துள்ளது.
+Heavy rains occurred on Sunday evening and Monday morning in the remote mountain of Kofa Zone in Ethiopia.
 
-பாதிக்கப்பட்ட பகுதியில் தொடர்ந்து மழை பெய்வதால் மேலும் மண்சரிவு ஏற்பட ஆபத்து இருப்பதால் ஐந்து வயதுக்குட்பட்ட 1,320 குழந்தைகள் , 5,293 கர்ப்பிணிப் பெண்கள் மற்றும் குழந்தை பிரசவித்த தாய்மார்கள் உட்பட 15,000 க்கும் மேற்பட்ட மக்கள் வெளியேற்றப்பட வேண்டும் எனவும் தெரிவித்துள்ளது.
+Rescue work is underway to rescue bodies and survivors in Kenjo Shacha Kosti area of ​​landslides.
 
-...
+257 people have died until the 24th. However, the number of casualties can increase to 500, the United Nations Office for Coordination of Humanitarian Affairs said.
+
+More than 15,000 people, including 1,320 children under the age of five, 5,293 pregnant women and mothers who delivered childbirth, have to be evacuated due to continuous rainfall in the affected area.
+
+The office said that 12 injured were taken to hospitals and at least 125 displaced.The number of missing persons has not yet been calculated.
+
+United Nations President Antonio Gutters expressed his condolences on the disaster.
+
+◼️
 
 [Data](articles/dabd55d8.json)
+
+[Extended Data](ext_articles/dabd55d8.ext.json)
 
 ---
 
@@ -516,21 +576,27 @@ In equities, Colombo’s All Share Price Index opened 3.07 points higher at 11,6
 
 ---
 
-### யாழில் ஊடகவியலாளர் ஒருவர் திடீரென உயிரிழப்பு
+### A journalist dies suddenly in Jaffna
 
 *2024-07-26 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189401) · `ta`
 
-முன்னாள் போராளியும், ஊடகவியலாளரும், வவுனியா பிரஜைகள் குழுவின் ஊடகப் பேச்சாளரும், அரசியல் சமூக செயற்பாட்டாளருமான ஈழம் சேகுவேரா (இசைப்பிரியன்) என அழைக்கப்படும் அ.சேகுவாரா நேற்று வியாழக்கிழமை (16) காலமானார்.
+Eelam Sekuwera (Pasapriyan), a former militant turned journalist and political activist, passed away unexpectedly in Jaffna. He was known for his work as a media spokesman for the Vavuniya Citizens Committee and as an independent journalist, writer, and artist. His sudden death occurred while staying with a friend in Aryakulam, Jaffna, and his body has been sent for anatomical examination at the Jaffna Teaching Hospital.
 
-யாழ்ப்பாணம் ஆரியகுளம் பகுதியில் உள்ள வாடகை வீடொன்றில் நண்பருடன் தங்கியிருந்த வேளை காலை நெஞ்சு வலிப்பதாக நண்பரிடம் கூறி சில நிமிடங்களில் மயங்கி சரிந்து உயிரிழந்துள்ளார்.
+🟩
 
-மரணத்திற்கான காரணம் தெரியவராத நிலையில், உடற்கூற்று பரிசோதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+The former militant, journalist, media spokesman of the Vavuniya Citizens Committee and a political activist, Eelam Sekuwera (Pasapriyan), passed away yesterday (16).
 
-சுயாதீன ஊடகவியலாளராகவும், பத்தி எழுத்தாளராகவும், அரசியல் விமர்சகராகவும், கலைஞனாகவும் பல்துறைகளிலும் பணியாற்றி வந்தவர் என்பது குறிப்பிடத்தக்கது.
+He was staying with a friend in a rented house in Aryakulam, Jaffna, and he died in a few minutes after he was suffering from a friend.
+
+The body has been handed over to the Jaffna Teaching Hospital for anatomical examination.
+
+It is noteworthy that he was an independent journalist, a paragraph writer, a political critic and artist.
 
 ◼️
 
 [Data](articles/f4b929b5.json)
+
+[Extended Data](ext_articles/f4b929b5.ext.json)
 
 ---
 
@@ -576,19 +642,25 @@ Session 1 focused on the transformative potential of Digital Public Infrastructu
 
 ---
 
-### ஜனாதிபதிக்கு அதிகாரம் கிடையாது - பிரதமர் அறிவிப்பு !
+### The president has no authority - the Prime Minister's announcement!
 
 *2024-07-26 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189399) · `ta`
 
-நடைமுறை சட்ட ஏற்பாடுகளுக்கு அமைய பதில் பொலிஸ்மா அதிபரை நியமிக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது என பிரதமர் தினேஷ் குணவர்தன தெரிவித்தார்.
+In a parliamentary address, PM Dinesh Gunawardena stated that the President lacks constitutional power to appoint the Inspector General of Police. He also mentioned that since Ranil Wickremesinghe is the presidential candidate, he cannot appoint a police chief due to constitutional restrictions.
 
-பாராளுமன்றில் இன்று வெள்ளிக்கிழமை (26) விசேட அறிவிப்பொன்றை விடுத்து தெரிவிக்கையிலேயே பிரதமர் தினேஷ் குணவர்தன மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-இதேவேளை, ஜனாதிபதித் தேர்தலுக்கான திகதி தேர்தல் ஆணைக்குழுவால் அறிவிக்கப்பட்டுள்ள நிலையில், ரணில் விக்கிரமசிங்க வேட்பாளராகக் களமிறங்குவாரெனில் அரசியலமைப்பிற்கமைய அவரால் பதில் பொலிஸ்மா அதிபரொருவரை நியமிக்க முடியாதென்றும் பிரதமர் தினேஷ் குணவர்தன குறிப்பிட்டார்.
+Prime Minister Dinesh Gunawardena said the President had no authority to appoint the Inspector General of Police in response to the legal provisions.
+
+Prime Minister Dinesh Gunawardena made this statement in a special announcement in Parliament today (26).
+
+Meanwhile, Prime Minister Dinesh Gunawardena said that as Ranil Wickremesinghe is the candidate of the presidential election, he will not be able to appoint a police chief in response to the constitution.
 
 ◼️
 
 [Data](articles/bb430cac.json)
+
+[Extended Data](ext_articles/bb430cac.ext.json)
 
 ---
 
@@ -2053,29 +2125,5 @@ Also, 14,000 officers can reduce cost costs.
 [Data](articles/87f13eb2.json)
 
 [Extended Data](ext_articles/87f13eb2.ext.json)
-
----
-
-### Two killed in Motor clash
-
-*2024-07-25 20:06:31* · [`adalk`](https://www.ada.lk/breaking_news/ලොරි---මොටර්-රථ-ගැටුමෙන්-දෙදෙනෙක්-මරුට/11-411010) · `si`
-
-A fatal motor accident occurred on the Pitigala-Neniyagama road, resulting in the deaths of Vegetable Vendor Chinthanka Bandarigoda and his father. The collision involved a car and a lorry, both traveling towards Pitigala from Neniyagama. The victims' bodies were transported to Karapitiya Hospital.
-
-🟩
-
-The Pitigala Police say that two persons were injured in the face of a vehicle and a car in the Pitigala - Neniyagama road today (25).
-
-The accident had died, the police said that the Vegetable Vehicle Chinthanka Bandaraigoda and his father.
-
-The victims were relatives of the family of the dead and were transferred to the Karapitiya Hospital, police said.
-
-Police said that a lorry, which was coming from the arrival of the vehicle from Niyagama to Pitigala, a lorry that had come to Niyagama has been involved in this crash.
-
-◼️
-
-[Data](articles/f2020dd6.json)
-
-[Extended Data](ext_articles/f2020dd6.ext.json)
 
 ---

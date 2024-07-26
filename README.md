@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 13:20:20**
+As of **2024-07-26 13:36:05**
 
 ## Newspaper Stats
 
-*Scraped **37,387** Articles*
+*Scraped **37,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,81 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,244
-dailyftlk | 2,389
+dailyftlk | 2,390
 adalk | 3,404
 adaderanalk | 4,327
 tamilmirrorlk | 4,608
 dailymirrorlk | 4,733
-virakesarilk | 5,872
+virakesarilk | 5,875
 adaderanasinhalalk | 6,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,387 (100.0%) of 37,387 articles have been extended.
+37,387 (100.0%) of 37,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### காரினை நிறுத்தி பணம், வாகனப் பதிவுப் புத்தகம் கொள்ளை - பொலிஸ் சார்ஜென்ட் கைது
+
+*2024-07-26 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189416) · `ta`
+
+நீர்கொழும்பு பகுதியில் பயணித்த காரொன்றினை நிறுத்தி 02 இலட்சம் ரூபா பணம் மற்றும் வாகனப் பதிவுப் புத்தகம் ஆகியவற்றை கொள்ளையிட்ட சம்பவம் தொடர்பில் பொலிஸ் சார்ஜென்ட் ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+நீர்கொழும்பு பொலிஸ் அத்தியட்சகர் அலுவலகத்தில் பொலிஸ் விசேட அதிரடிப்படைப் பிரிவில் பணிபுரியும்  பொலிஸ் சார்ஜென்ட் ஒருவரே கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்டவர் வேயங்கொடை பகுதியில் வசிப்பவர் என பொலிஸார் தெரிவித்தனர். இந்தக் கொள்ளை சம்பவம் நீர்கொழும்பு - கொழும்பு வீதியில் இடம்பெற்றுள்ளது.
+
+இது தொடர்பில் பொலிஸாருக்கு கிடைத்த முறைப்பாட்டின்  அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/04c8b6cf.json)
+
+---
+
+### யாழில் வாள் முனையில் மோட்டார் சைக்கிள் கொள்ளை
+
+*2024-07-26 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189428) · `ta`
+
+யாழ்ப்பாணத்தில் வாள் முனையில் மோட்டார் சைக்கிளில் வழிப்பறி செய்யப்பட்டுள்ளதாக கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+கோண்டாவில் வீதியில் இளைஞன் ஒருவர் நேற்று முன்தினம் புதன்கிழமை (24) இரவு மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த வேளை, கோண்டாவில் இந்துக் கல்லூரிக்கு முன்பாக காலை நொண்டியவாறு இளைஞன் ஒருவர் மோட்டார் சைக்கிளை வழி மறித்துள்ளார்.
+
+அதனால் மோட்டார் சைக்கிளில் வந்த இளைஞன் மோட்டார் சைக்கிளை நிறுத்திய வேளை, நொண்டிக் கொண்டிருந்த நபர் தனது உடைமையில் மறைத்து வைத்திருந்த வாளினை எடுத்து மோட்டார் சைக்கிள் ஓட்டுனரை வெட்ட முயன்றுள்ளார்.
+
+அதற்கு இளைஞன் எதிர்ப்பு காண்பிக்க , வீதியின் ஓரத்தில் மறைந்திருந்த மற்றுமொரு இளைஞனும் வாளுடன் வெளியே வந்து இளைஞனை வெட்ட முயன்ற வேளை இளைஞன் அவ்விடத்தில் இருந்து தப்பியோடியுள்ளார்.
+
+அதனை அடுத்து மோட்டார் சைக்கிளை எடுத்துக்கொண்ட தாக்குதலாளிகள் இருவரும் அவ்விடத்தில் இருந்து தப்பி சென்றுள்ளனர்.
+
+சம்பவம் தொடர்பில் பாதிக்கப்பட்ட இளைஞன் கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததை அடுத்து , பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/6ed734b7.json)
+
+---
+
+### நாட்டைக் கட்டியெழுப்ப அனைவரும் ஒன்றிணைந்து செயற்பட வேண்டும் - எதிர்க்கட்சித் தலைவர்
+
+*2024-07-26 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189421) · `ta`
+
+வீழ்ச்சி கண்டுள்ள தாய்நாட்டை கட்டியெழுப்புவதற்கு அனைவரும் ஓர் தாய் தந்தையரின் பிள்ளைகளாக ஒன்றிணைய வேண்டும். சிங்களம், தமிழ், முஸ்லிம், பறங்கியர்கள் என அனைவரும் ஒன்றிணைந்து சமூகத்தில் முரண்பாடுகளை உருவாக்காமல் சமாதானம், நல்லிணக்கம், சகோதரத்துவம் மற்றும் நட்புடன் இணைந்து செயற்பட வேண்டும். இதன் மூலம் நாட்டை கட்டியெழுப்ப வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ், 373 ஆவது கட்டமாக 1,177,000 இலட்சம் ரூபா பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள் மற்றும் அகராதிகள் என்பன கொழும்பு 6, திபிரிகஸ்யாய இந்து மகளிர் கல்லூரிக்கு வழங்கி வைக்கும் நிகழ்வு ஜூலை 24 ஆம் திகதி இடம்பெற்றது.
+
+இதன்போது, பாடசாலை அபிவிருத்தி நிதியத்திற்கு ஒரு இலட்சம் ரூபா நிதியுதவியும் வழங்கி வைக்கப்பட்டது.
+
+இந்நாட்டில் இலவசக் கல்வியில் பாடசாலைகளில் கல்வி கற்கும் பிள்ளைகளை தனது சொந்த பிள்ளைகளாகவே கருதுவதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+...
+
+[Data](articles/056b976d.json)
+
+---
 
 ### Scorn as Bangladesh PM weeps at train station damage
 
@@ -340,7 +398,15 @@ The Speaker of the Parliament Mahinda Yapa Abeywardena has informed the Parliame
 
 He further said that the situation with regard to the IGP cannot be resolved even by the President, and the matter must be sorted out in court if necessary.
 
-◼️
+The Speaker made these comments following the special statement delivered in Parliament by the Prime Minister regarding the Supreme Court decision on the IGP.
+
+Speaking in Parliament this morning (26), PM Dinesh Gunawardena had clarified that the President has no legal provisions at this moment to appoint an Acting IGP.
+
+The Prime Minister also emphasized that the position of the IGP is not vacated presently.
+
+He also stated that the court cannot change the approval granted by the Constitutional Council to appoint the current IGP.
+
+...
 
 [Data](articles/5135490d.json)
 
@@ -1490,6 +1556,20 @@ This is the season for that kind of thing, so the timing is not bad at all. Afte
 
 ### Resource-rich, policy-poor: Sri Lanka’s flagging growth sectors
 
+*2024-07-26 03:05:55* · [`dailyftlk`](https://www.ft.lk/columns/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/4-764781) · `en`
+
+Sri Lanka’s agriculture and mineral policies need overhauling along with fresh thinking and national minded leadership
+
+Sri Lanka sits on a wealth of resources, but let it all go to waste. Agriculture was one such historical natural strength in what used to be the ‘Pearl of the Indian Ocean,’ bringing fame and fortune from far and wide. Today, we import rice, coconuts and other agri-commodities – a far cry from former glory. Skewed agricultural policy perpetuated by the lack of political will burns holes in the future potential of an industry and our people.
+
+...
+
+[Data](articles/3b0c8415.json)
+
+---
+
+### Resource-rich, policy-poor: Sri Lanka’s flagging growth sectors
+
 *2024-07-26 03:05:55* · [`dailyftlk`](https://www.ft.lk/opinion/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/14-764781) · `en`
 
 Sri Lanka’s agriculture and mineral policies need overhauling along with fresh thinking and national minded leadership
@@ -2055,85 +2135,5 @@ If the financial management, discipline and economic system are not followed bas
 [Data](articles/294bb8bd.json)
 
 [Extended Data](ext_articles/294bb8bd.ext.json)
-
----
-
-### Death toll from Ethiopia landslide hits 257, could reach 500: UN
-
-*2024-07-25 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100776/-death-toll-from-ethiopia-landslide-hits-257-could-reach-500-un) · `en`
-
-The death toll from landslides in a remote region of southern Ethiopia has risen to 257, the United Nations said on Thursday, warning that the number of victims could soar to 500.
-
-Rescuers are pressing on with the grim search for bodies and survivors in the stricken locality of Kencho Shacha Gozdi, with crowds of distraught locals digging through a sea of mud often using just their bare hands and shovels.
-
-“The death toll has risen to 257,” as of July 24, the UN’s humanitarian agency OCHA said in statement citing local authorities. “The death toll is expected to rise to up to 500 people.”
-
-OCHA said more than 15,000 people need to be evacuated because of the high risk of further landslides, including at least 1,320 children under the age of five and 5,293 pregnant women or new mothers.
-
-Aid has begun arriving in the isolated, hard-to-reach area, including four trucks of life-saving supplies from the Ethiopian Red Cross Society, it said.
-
-...
-
-[Data](articles/654f5695.json)
-
-[Extended Data](ext_articles/654f5695.ext.json)
-
----
-
-### Government's response to the Inspector General of Police?
-
-*2024-07-25 22:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-தொடர்பில்-அரசாங்கத்தின்-பதில்/175-341046) · `ta`
-
-The Prime Minister will deliver a special address responding to the Supreme Court's ruling on the Inspector General of Police, reflecting the government's stance.
-
-🟩
-
-The special speech will be announced by the Prime Minister as a reply to the government on the Supreme Court's decision on the Inspector General of Police.. Remble
-
-◼️
-
-[Data](articles/8f6c05b9.json)
-
-[Extended Data](ext_articles/8f6c05b9.ext.json)
-
----
-
-### Police sector sector to Battaramulla
-
-*2024-07-25 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199212) · `si`
-
-The police headquarters in Battaramulla has moved to the 17th floor of Suuhappaya. Applicants with police default applications should use new phone numbers.
-
-🟩
-
-The police have been established in the 17th floor of the Police Officers in the Police Headquarters, Battaramulla.
-
-The applicants who have committed police default applications have introduced several new numbers instead of the previous telephone numbers.
-
-The new address is 17th Floor, Suuhappaya, Battaramulla.
-
-◼️
-
-[Data](articles/ad9894f0.json)
-
-[Extended Data](ext_articles/ad9894f0.ext.json)
-
----
-
-### The government's position on the Inspector General of Police will be announced in Parliament tomorrow
-
-*2024-07-25 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/189387) · `ta`
-
-Tomorrow, Parliament will hear the government's stance on the Inspector General of Police, delivered by the Prime Minister in response to the Supreme Court's ruling.
-
-🟩
-
-The special speech will be announced by the Prime Minister as a response to the government's response to the Supreme Court's decision on the Inspector General of Police.
-
-◼️
-
-[Data](articles/89e1e153.json)
-
-[Extended Data](ext_articles/89e1e153.ext.json)
 
 ---

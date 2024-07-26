@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 22:53:24**
+As of **2024-07-26 23:05:31**
 
 ## Newspaper Stats
 
-*Scraped **37,460** Articles*
+*Scraped **37,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 365
 islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
-adalk | 3,411
-adaderanalk | 4,338
+adalk | 3,412
+adaderanalk | 4,339
 tamilmirrorlk | 4,621
 dailymirrorlk | 4,733
 virakesarilk | 5,893
@@ -26,11 +26,33 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,460 (100.0%) of 37,460 articles have been extended.
+37,460 (100.0%) of 37,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Women’s Asia Cup: Sri Lanka beat Pakistan to set up final with India
+
+*2024-07-26 22:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100803/womens-asia-cup-sri-lanka-beat-pakistan-to-set-up-final-with-india) · `en`
+
+Sri Lanka women’s cricket team defeated Pakistan by three wickets in the second semi-final of the Women’s T20 Asia Cup 2024 which was played at Rangiri Dambulla International Stadium on Friday.
+
+The hosts chased down the 141-run target in the last over which was bowled by Pakistan’s skipper Nida Dar.
+
+Sri Lanka needed three off six balls in the last over but Dar’s impressive display made it somewhat difficult for the home side. However, the Pakistani skipper ended up bowling a wide ball which changed the game in the hosts’ favour.
+
+During their chase, Sri Lanka suffered initially as they lost two of their batters Vishmi Gunaratne and Harshitha Samarawickrama and were 19-2 in just four overs.
+
+However, skipper Chamari Athapaththu played a leader’s knock which guided Sri Lanka near to victory. She scored 63 runs on 48 balls with 10 boundaries.
+
+Down the order, Anushka Sanjeewani provided crucial 24 runs and the Islanders chased the target with one ball to spare.
+
+...
+
+[Data](articles/d080ffbf.json)
+
+---
 
 ### Ranil Wickremesinghe, including Ranil Wickremesinghe bail to presidential election
 
@@ -72,13 +94,27 @@ Sri Lanka women's women played today (26) to qualify for the finals of the women
 
 ---
 
+### ජනපතිවරණය ප්‍රකාශිතයි  - රටේම ආරක්ෂාව තහවුරු කරන්න
+
+*2024-07-26 22:09:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-ප්‍රකාශිතයි----රටේම-ආරක්ෂාව-තහවුරු-කරන්න/11-411022) · `si`
+
+එළෙඹෙන ජනාධිපතිවරණය මැතිවරණ කොමසාරිස්වරයා විසින් ප්‍රකාශයට පත් කර ඇති බැවින්, එම කාලය තුල ජනාධිපති අපේක්‍ෂකයන්ගේ, පුරවැසියන්ගේ මෙන්ම සමස්ත රටේම ආරක්‍ෂාව උපරිම අයුරින් තහවුරු කිරීමට අවශ්‍ය සියලු පියවර ගන්නා ලෙස ආරක්‍ෂක රාජ්‍ය අමාත්‍ය ගරු ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මැතිතුමා අද පාර්ලිමේන්තුවේදී ආරක්‍ෂක ප්‍රධානීන්ට උපදෙස් ලබා දුන්නේය.
+
+ආරක්‍ෂක කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව අද (ජුලි 26) පෙරවරුවේ පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී ආරක්‍ෂක රාජ්‍ය අමාත්‍යවරයා විසින් මෙලෙස උපදෙස් ලබා දෙන ලදි. ආරක්‍ෂක මාණ්ඩලික ප්‍රධානී ජෙනරල් ශවේන්ද්‍ර සිල්වා, නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා ඇතුළු ත්‍රිවිධ හමුදාවේ ඉහල පෙළේ නිලධාරීන් පිරිසක් මෙන්ම ආරක්‍ෂක අමාත්‍යාංශයේ සහ ඒ යටතේ ඇති ආයතන ප්‍රධානීන් මෙම කාරක සභා රැස්වීමට කැඳවා තිබිණි.
+
+...
+
+[Data](articles/e3303da0.json)
+
+---
+
 ### ‘No nation supported Sri Lanka like Pakistan during war’ – envoy
 
 *2024-07-26 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100801/no-nation-supported-sri-lanka-like-pakistan-during-war-envoy) · `en`
 
 High Commissioner of Sri Lanka, Ambassador Admiral (R) Ravindra C Wijegunaratne on Friday said the people of Sri Lanka esteemed Pakistan as a friendly country unlike any other nation for its unprecedented support against terrorism.
 
-He was addressing the Institute of Regional Studies (IRS)’s seminar on “Building on Pakistan-Sri Lanka Cooperation” here as the keynote speaker.
+He was addressing the Institute of Regional Studies (IRS)’s seminar on “Building on Pakistan-Sri Lanka Cooperation” in Islamabad as the keynote speaker.
 
 Ambassador Ravindra said Sri Lanka’s Prime Minister and the world’s first female premier Sirimavo Bandaranaike despite her close relationship with her Indian counterpart Indira Gandhi gave safe passage and permission to Pakistan to use its airspace and Colombo air base during its 1971 War.
 
@@ -2267,63 +2303,5 @@ The Prime Minister added that the existing IGP is not empty.
 [Data](articles/05b973a9.json)
 
 [Extended Data](ext_articles/05b973a9.ext.json)
-
----
-
-### The number of casualties trapped in Ethiopian landslides can increase to 500 - UN
-
-*2024-07-26 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189394) · `ta`
-
-Heavy rains in Ethiopia's Kofa Zone triggered landslides, potentially increasing the death toll from 257 to 500. Rescue efforts are ongoing, with over 15,000 needing evacuation, including many children and pregnant women. The UN's humanitarian office reports 12 injuries and at least 125 displacements, but the exact number of missing remains unknown.
-
-🟩
-
-Meanwhile, the number of casualties may increase to 500, the United Nations said on Thursday.
-
-Heavy rains occurred on Sunday evening and Monday morning in the remote mountain of Kofa Zone in Ethiopia.
-
-Rescue work is underway to rescue bodies and survivors in Kenjo Shacha Kosti area of ​​landslides.
-
-257 people have died until the 24th. However, the number of casualties can increase to 500, the United Nations Office for Coordination of Humanitarian Affairs said.
-
-More than 15,000 people, including 1,320 children under the age of five, 5,293 pregnant women and mothers who delivered childbirth, have to be evacuated due to continuous rainfall in the affected area.
-
-The office said that 12 injured were taken to hospitals and at least 125 displaced.The number of missing persons has not yet been calculated.
-
-United Nations President Antonio Gutters expressed his condolences on the disaster.
-
-◼️
-
-[Data](articles/dabd55d8.json)
-
-[Extended Data](ext_articles/dabd55d8.ext.json)
-
----
-
-### Sri Lanka PM says police chief remains in office, seeking intervention from speaker
-
-*2024-07-26 10:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-pm-says-police-chief-remains-in-office-seeking-intervention-from-speaker-173877/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s police chief Deshabandu Tennakoon remains in office, as there are no legal provisions for President Ranil Wickremesinghe to make an acting appointment, Prime Minister Dinesh Gunawardana said.
-
-He also asked the speaker to intervene to invalidate the order.
-
-The Supreme Court gave an order suspending him from his office and suggesting that an acting appointment be made.
-
-Prime Minister Dinesh Gunawardana said there were no legal provisions to do so.
-
-An election had been declared and there the next court hearing is in November after the elections he said.
-
-Prime Minister Gunawardana also maintained that the Constitutional Council which approved the original appointment, was an extension of the parliament as the legislature.
-
-The parliament could not therefore accept a order that was not founded on a legal basis and appeared to be illegal he said.
-
-Gunawardana said he was reminding the speaker to intevene in the matter and invalidate the interim order.
-
-...
-
-[Data](articles/06200ae7.json)
-
-[Extended Data](ext_articles/06200ae7.ext.json)
 
 ---

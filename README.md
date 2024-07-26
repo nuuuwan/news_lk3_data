@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 13:55:10**
+As of **2024-07-26 14:07:43**
 
 ## Newspaper Stats
 
-*Scraped **37,393** Articles*
+*Scraped **37,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,133
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,405
-adaderanalk | 4,327
-tamilmirrorlk | 4,608
+adaderanalk | 4,328
+tamilmirrorlk | 4,609
 dailymirrorlk | 4,733
 virakesarilk | 5,875
 adaderanasinhalalk | 6,272
@@ -26,37 +26,63 @@ adaderanasinhalalk | 6,272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,391 (100.0%) of 37,393 articles have been extended.
+37,393 (100.0%) of 37,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### ග්‍රෑන්ඩ්පාස් ද්විත්ව ඝාතන ගැන තවත් තොරතුරු
+### Sri Lanka and Pakistan to hold 7th round of political consultation
+
+*2024-07-26 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100791/sri-lanka-and-pakistan-to-hold-7th-round-of-political-consultation) · `en`
+
+Foreign Secretary Aruni Wijewardane will lead Sri Lanka’s delegation to the Seventh Round of Bilateral Political Consultations between Sri Lanka and Pakistan, scheduled to be held in Islamabad on 30 July 2024, the Ministry of Foreign Affairs said.
+
+The Seventh Round of Bilateral Political Consultations will be co-chaired by Foreign Secretary Aruni Wijewardane and the Foreign Secretary of Pakistan Muhammad Syrus Sajjad Qazi.
+
+The Consultations are expected to review the current status of the bilateral relations and the progress achieved in areas of cooperation such as economic and trade, defence and security, education, culture, media and sports, consular matters, agriculture as well as technology.
+
+On the sidelines of the Consultations, the Foreign Secretary is scheduled to call on the Deputy Prime Minister and Minister for Foreign Affairs of Pakistan, Muhammad Ishaq Dar, the statement said.
+
+...
+
+[Data](articles/3135418d.json)
+
+---
+
+### More information about Grandpass double murders
 
 *2024-07-26 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199230) · `si`
 
-ග්‍රෑන්ඩ්පාස්, වදුල්ලවත්ත ප්‍රදේශයේදී ඊයේ (25) පස්වරුවේ ඝාතනය කර තිබුණේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත ග්‍රෑන්ඩ්පාස් කුඩු සුනීතා හා ඇයගේ සහායකයාව බව පොලීසිය පවසයි.
+In a tragic incident in the Vadawatta area, a drug trafficker known as Grandpass powder was killed, along with two unidentified gunmen who arrived on a motorcycle. A woman and a three-wheeler driver were seriously injured; the driver later succumbed to his injuries. Police identified one of the victims as Sunitha Sunita, involved in drug-related activities and facing several legal issues. The shooting, believed to be drug-related, occurred with a revolver.
 
-ඊයේ පස්වරු 5.50ට පමණ යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු විසින් වෙඩි ප්‍රහාර එල්ල කර තිබුණි.
+🟩
 
-එහිදී අදාළ කාන්තාව හා ත්‍රීරෝද රථයේ රියදුරු බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කෙරුණි.
+The Grandpass powder of drug trafficker was killed in the Vadawatta area yesterday (25th), police said.
 
-ත්‍රීරෝද රථයේ රියදුරු එම අවස්ථාවේදීම මියගොස් තිබූ බව පසුව පොලීසිය පැවසීය.
+Two unidentified shooters who arrived at a motorcycle around 5.50 pm were shot dead.
 
-වෙඩි ප්‍රහාරයට ලක්වූ කාන්තාව දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී අද (26) අළුයම මියගොස් තිබුණි.
+The woman and the driver of the three-wheeler driver were seriously injured and admitted to the Colombo National Hospital.
 
-පොලීසිය පැවසුවේ එලෙස ඝාතනයට ලක්වී ඇත්තේ, කේ. සුනීතා හෙවත් ග්‍රෑන්ඩ්පාස් කුඩු සුනීතා නම් කාන්තාවක් බවය.
+The driver of the three-wheeler had died at the same time.
 
-ඇය ප්‍රදේශයේ මහා පරිමාණයෙන් මත්ද්‍රව්‍ය ජාවාරම සිදුකර ඇති අතර යුක්තිය මෙහෙයුම ආරම්භවීමත් සමග සැඟව සිට ඇති බව පොලීසිය සඳහන් කළේය.
+The shooting was shot dead and died this morning while receiving treatment at the ICU.
 
-ඇයට එරෙහිව මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් විභාග වන නඩු කිහිපයක් ද ඇති බවද වාර්තා වෙයි.
+Police have been killed, K.. Suneetha is a woman named Sunitha Sunita.
 
-ඇය සමග ත්‍රීරෝද රථයේ රියදුරු ලෙස කටයුතු කළ පුද්ගලයා 31 හැවිරිදි කඹුරුපිටිය ප්‍රදේශයේ පදිංචිකරුවකු වන කේ.ආර්. දර්ශන නමැති ඝාතනයට ලක්වූ කාන්තාවගේ ඥාතියෙකි.
+The police said that she had been conducted in a large scale in the area and was hiding with the opening of justice.
+
+It is also reported that there are several cases pending against her.
+
+The man who served as a three-wheeler driver with her was 31 year old resident of Kamburupitiya, KR. The relative of the victim was a relative of the victim.
+
+Meanwhile, a motorcycle suspected that the two shooters had arrived in the Orugodawatta area was found this morning.
 
 ...
 
 [Data](articles/c434baf8.json)
+
+[Extended Data](ext_articles/c434baf8.ext.json)
 
 ---
 
@@ -81,6 +107,18 @@ The suspect has been arrested in connection with the complaint received by the p
 [Data](articles/04c8b6cf.json)
 
 [Extended Data](ext_articles/04c8b6cf.ext.json)
+
+---
+
+### பதவி விலகுமாறு ரணிலுக்கு சஜித் சவால்
+
+*2024-07-26 13:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-விலகுமாறு-ரணிலுக்கு-சஜித்-சவால்/175-341075) · `ta`
+
+உயர் நீதிமன்ற உத்தரவுக்கு அமைய பதில் பொலிஸ் மா அதிபரை நியமிக்க முடியாவிட்டால் பதவி விலகுமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சவால் விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/28c914b3.json)
 
 ---
 
@@ -186,23 +224,33 @@ In this case, the elephant has been ordered to be released in the wilderness and
 
 ---
 
-### ප්‍රධාන පෙළේ පාසලක විනය භාර ගුරුවරයාට සිසුවෙකු පිහියෙන් අනි
+### Student stabbed a student to the teacher in charge of a leading school
 
 *2024-07-26 12:30:19* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-පෙළේ-පාසලක-විනය-භාර-ගුරුවරයාට-සිසුවෙකු-පිහියෙන්-අනි/11-411018) · `si`
 
-පුත්තලම නගරයෙ ප්‍රධාන පෙලෙ පාසලක ගුරුවරයකුට පාසලේ ප්‍රධාන දොරටුව අසලදී සිසුවකු එල්ල කල  පිහි ප්‍රහාරයකට ලක්ව ප්‍රතිකාර සදහා පුත්තලම මූලික රෝහලට ඇතුලත් කර ඇති බව පුත්තලම මූලස්ථාන පොලිසිය කියයි.
+In Puttalam, a student stabbed a math teacher at the school gate, causing serious injury but no life-threatening conditions. The attacker was apprehended by the police, who are investigating the motive behind the stabbing.
 
-මෙලෙස පිහි ප්‍රහාරයට ලක්ව ඇත්තේ ප්‍රධාන පෙලේ පාසලේ ගණිත විෂය භාර ගුරුවරයා බවත් ඔහු විනය සම්බන්ධව ද පාසලේ කටයුතු කරමින් සිටින අයකු බවද පරික්ෂණ වලදි සනාථ වී තිබේ.
+🟩
 
-පිහි ප්‍රහාරයට ලක්වු ගුරුවරයා කඩිනමින් පාසලේ ගුරුවරුන් විසින් ප්‍රතිකාර සදහා පුත්තලම මූලික රෝහලට ඇතුලත් කිරීමට කටයුතු කර තිබුනී.ගුරුවරයාට මෙම පිහි ප්‍රහාරය එල්ල කර ඇත්තේ එම ප්‍රධාන පෙලේ පාසලේ අපොස උසස් පෙළ ශ්‍රේණි වල අධ්‍යාපනය ලබන සිසුවකු බව කියයි.
+A teacher in the school to the main gateway at the school in Puttalam has been admitted to the Puttalam Base Hospital for treatment at the main gate of the school.
 
-අදාල සිසුවා පාසලට එමින් සිටියදී ගුරුවරයා ප්‍රධාන දොරටුව අසලදී කිසියම් සිදුවිමක් සම්බන්ධව ප්‍රශ්ණ කර ඇති බවත් එහිදි සිසුවා සගවා ගෙන සිටි පිහියක් ඇද එකවර ගුරුවරයාගේ උදරයට එක් පහරක් එක්ක කර ඇති බව කියයි.
+The knives were attacked by mathematics teacher in the major pillage and has confirmed that he is working in the school and is also a school.
 
-එහිදි පිහි පහරට ලක්වු ගුරුවරයා එකවර ඇද වැටි ඇති බවත් සිසුවා පිහියත් රැගෙන එම ස්ථානයෙන් පැන ගොස් තිබු බවද කියයි.
+The teacher had been admitted to the Puttalam Base Hospital for treatment at the school teachers of the school expedited knife.
+
+While the student had been in the school, the student had questioned the teacher's abdomen at the abdomen at the same time.
+
+It is also said that the teacher was hit by the teacher at the same time and said that the student had fled the location.
+
+However, police investigations have commenced that the knives have happened to the student and the teacher.
+
+According to information received, the teacher had been aware and the morning of the student's condolences had been made aware of the morning and the morning of a knife.
 
 ...
 
 [Data](articles/5eb2a4cb.json)
+
+[Extended Data](ext_articles/5eb2a4cb.ext.json)
 
 ---
 
@@ -2103,55 +2151,5 @@ It is the duty and responsibility of the Constituent Assembly to ensure or confi
 [Data](articles/e5c22c11.json)
 
 [Extended Data](ext_articles/e5c22c11.ext.json)
-
----
-
-### Most happy for the underworld group
-
-*2024-07-26 01:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழுவினருக்கே-அதிக-மகிழ்ச்சி/175-341049) · `ta`
-
-Chief Minister Prasanna Ranatunga expressed joy over the Supreme Court's ban, noting it pleased both the underworld group and opposition parties, who benefit from its protection. He addressed concerns raised by opposition MPs regarding the police chief's appointment, emphasizing the government's respect for judicial independence. The court's issuance of interim injunctions, including one on plantation worker salaries and another on local council appointments, was also mentioned, alongside the current ban on the Inspector General of Police.
-
-🟩
-
-State Chief Minister and Minister Prasanna Ranatunga said that the underworld of the Supreme Court has been delighted by the Supreme Court's ban.
-
-Opposition parties are happy next to the underworld group because of the ban, because it is the underworld group to provide security to the opposition.
-
-He further stated in response to the comments made by the Opposition MPs in Parliament on Thursday (25) on the issue of the police chief.
-
-Opposition parties continue to create problems with the appointment of the Inspector General of Police because the opposition is unable to tolerate the abolition of the underworld that protects themselves as the underlying program is being destroyed by the underworld program.
-
-The Opposition is trying to create a stand among the people that the president, the cabinet and the government are making efforts to make the court discomfort.
-
-...
-
-[Data](articles/54b8a335.json)
-
-[Extended Data](ext_articles/54b8a335.ext.json)
-
----
-
-### Why is the Inspector General of Police?Not appointed
-
-*2024-07-26 01:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பொலிஸ்மா-அதிபரை-ஏன்-நியமிக்கவில்லை/175-341048) · `ta`
-
-Controversy over the appointment of the Inspector General of Police in Sri Lanka led to opposition parties taking action after the Supreme Court upheld a national ban on acting in the role. Minister Susil Premajayantha and Chief Minister Korada Prasanna Ranatunga engaged in debate with the opposition. Opposition Leader Sajith Premadasa emphasized the importance of adhering to the constitution and respecting judicial decisions, highlighting the need for the Cabinet to follow legal procedures. The Constitutional Council, comprising 20 members, has the authority to appoint key officials including the Inspector General of Police, suggesting that the matter should be referred back to this body for resolution.
-
-🟩
-
-The controversy on Thursday (25) has caused the opposition parties to take action to appoint the Inspector General of Police in response to the post, as the Supreme Court has ruled that the national ban on acting as the Inspector General of Police.
-
-Minister Susil Premajayantha and the ruling party's chief minister Korada Prasanna Ranatunga were also arguing with the opposition.
-
-Opposition Leader Sajith Premadasa addressed his views on the issue of the police chief following the meeting of the Deputy Speaker Ajith Rajapaksa at 9.30 am on Thursday (25).
-
-Democratic system is in Sri Lanka. Power sharing takes place between the three pillars of the law, the executive department and the judiciary. To protect the legalization within this structure. The Constitution should be honored and behaved accordingly. The verdict cannot be questioned, especially if the High Court runs a verdict.
-
-...
-
-[Data](articles/5fb3e3c7.json)
-
-[Extended Data](ext_articles/5fb3e3c7.ext.json)
 
 ---

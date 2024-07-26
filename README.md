@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 15:35:55**
+As of **2024-07-26 15:54:50**
 
 ## Newspaper Stats
 
-*Scraped **37,410** Articles*
+*Scraped **37,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,406
 adaderanalk | 4,330
-tamilmirrorlk | 4,610
+tamilmirrorlk | 4,611
 dailymirrorlk | 4,733
 virakesarilk | 5,880
-adaderanasinhalalk | 6,277
+adaderanasinhalalk | 6,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,409 (100.0%) of 37,410 articles have been extended.
+37,410 (100.0%) of 37,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### රටේ ආරක්ෂාව තහවුරු කරන්න ආරක්ෂක ප්‍රධානීන්ට උපදෙස්
+
+*2024-07-26 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199236) · `si`
+
+සමස්ත රටේම ආරක්ෂාව තහවුරු කරමින් ඉදිරි ජනාධිපතිවරණය බාධාවකින් තොරව පැවැත්වීම ස﻿ඳහා අවශ්‍ය සියලු පියවර ගන්නා ලෙස ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා ආරක්ෂක ප්‍රධානීන්ට උපදෙස් ලබාදී තිබේ.
+
+ආරක්ෂක කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව අද (26) පෙරවරුවේ පාර්ලිමේන්තුවේ දී රැස්වූ අවස්ථාවේ දී රාජ්‍ය අමාත්‍යවරයා අදාළ උපදෙස් ලබා දී ඇත.
+
+ආරක්ෂක මාණ්ඩලික ප්‍රධානී ජනරාල් ශවේන්ද්‍ර සිල්වා, නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා ඇතුළු ත්‍රිවිධ හමුදාවේ ඉහළ පෙළේ නිලධාරීන් පිරිසක් මෙන්ම ආරක්ෂක අමාත්‍යාංශය සහ ඒ යටතේ ඇති ආයතන ප්‍රධානීහූ මෙම කාරක සභා රැස්වීමට කැඳවා තිබිණි.
+
+එසේම ආණ්ඩුක්‍රම ව්‍යවස්ථාව හා පුරවැසියන්ගේ මුලික අයිතිවාසිකම් ආරක්ෂා වන පරිදි මෙම සියලු කටයුතු සිදුකරන ලෙසත් අමාත්‍යවරයා ඉල්ලීමක් කළේය.
+
+එසෙම පසුගිය වසර දෙකක ඉතාම සංකීර්ණ කාලය තුළ අමාත්‍යාංශයක් ලෙස බරපතළ﻿ තීන්දු තීරණ ගැනීමට සිදුවු බවත් එම කාලය තුළ ජාතික ආරක්ෂාව සහ නීතියේ ආධිපත්‍ය යළි තහවුරු කරමින් රට ස්ථාවර කිරීමට හැකිවවූ බව ද ඒ මහතා වැඩිදුරටත් පෙන්වා දී ඇත.
+
+...
+
+[Data](articles/9c6dc7d2.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலை வரவேற்றது அமெரிக்கா
+
+*2024-07-26 15:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-வரவேற்றது-அமெரிக்கா/175-341080) · `ta`
+
+ஜனாதிபதித் தேர்தல் அறிவிப்பை வரவேற்கும் அதேவேளையில், இலங்கைப் பிரஜைகளுக்கு அவர்களின் எதிர்காலத்தைத் தீர்மானிக்க அதிகாரம் அளிக்கும் சுதந்திரமான மற்றும் நியாயமான தேர்தலை எதிர்பார்ப்பதாக அமெரிக்கா தெரிவித்துள்ளது.
+
+இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜூலி சுங் X தளத்தில் இட்டுள்ள  ஒரு பதிவில், "இலங்கையின் ஜனநாயகத்திற்கான நீண்டகால உறுதிப்பாட்டை உறுதிப்படுத்தும் தேர்தல் ஆணையத்தினால் விடுக்கப்பட்டுள்ள செப்டம்பர் 21 ஜனாதிபதித் தேர்தல் அறிவிப்பை நாங்கள் வரவேற்கிறோம். இலங்கை குடிமக்களை தீர்மானிக்க அதிகாரம் அளிக்கும் சுதந்திரமான மற்றும் நியாயமான தேர்தலை நாங்கள் எதிர்பார்க்கின்றோம் என்றும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/799f0adb.json)
+
+---
 
 ### More details revealed on Grandpass shooting that killed two
 
@@ -49,6 +83,8 @@ It has been reported that five gunshots had been fired at the woman, who has bee
 ...
 
 [Data](articles/e9b5b857.json)
+
+[Extended Data](ext_articles/e9b5b857.ext.json)
 
 ---
 
@@ -2127,43 +2163,5 @@ The report, prepared with seven main recommendations, underscores the importance
 [Data](articles/5d8f13a3.json)
 
 [Extended Data](ext_articles/5d8f13a3.ext.json)
-
----
-
-### Sri Lanka and Thailand sign agreement for public debt management capacity building
-
-*2024-07-26 02:34:40* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-Thailand-sign-agreement-for-public-debt-management-capacity-building/34-764767) · `en`
-
-The Neighbouring Countries Economic Development Cooperation Agency (NEDA) of Thailand and Sri Lanka’s Finance Ministry, Economic Stabilisation and National Policies have signed a Record of Discussion (RoD) to launch a Capacity Building Program for officials attached to forthcoming Public Debt Management Office (PDMO).
-
-This cooperation marks a significant step in strengthening the country’s fiscal framework and enhancing its capacity to manage public debt efficiently.
-
-The agreement was signed in response to an invitation from the Department of External Resources of the Finance Ministry.
-
-The NEDA delegation led by President Perames Vudthitornetiraks and including Director of Policy and Planning Rappipat Promnart and Policy Planning Analyst Wasit Anuntavichien, met with Treasury Secretary Mahinda Siriwardana during their visit to Sri Lanka.
-
-...
-
-[Data](articles/62db6c53.json)
-
-[Extended Data](ext_articles/62db6c53.ext.json)
-
----
-
-### CH17 Loyalty and Quickee.com team up to redefine convenience and rewards
-
-*2024-07-26 02:33:26* · [`dailyftlk`](https://www.ft.lk/business/CH17-Loyalty-and-Quickee-com-team-up-to-redefine-convenience-and-rewards/34-764766) · `en`
-
-EFL 3PL CEO Nishan Hewagamage (left) and CH17 Loyalty CEO Jumar Preena exchange the MOU signed between the two organisations
-
-CH17 Loyalty has announced a strategic partnership with Quickee, the premier food delivery service. This collaboration aims to revolutionise convenience by offering both in-store shopping and speedy and reliable online delivery.
-
-CH17 Loyalty CEO Jumar Preena said: “By joining forces, we will nearly double our merchant base, offering fantastic rewards and freebies that create unmatched online shopping experiences with island-wide coverage. This partnership brings together two strong platforms that specialise in rewards, privileges, and the ease of online shopping. Get ready for fast, efficient, and friendly service like never before.”
-
-...
-
-[Data](articles/db1a5d8a.json)
-
-[Extended Data](ext_articles/db1a5d8a.ext.json)
 
 ---

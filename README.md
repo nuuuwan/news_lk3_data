@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 05:38:16**
+As of **2024-07-26 06:02:24**
 
 ## Newspaper Stats
 
-*Scraped **37,304** Articles*
+*Scraped **37,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 327
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,120
+islandlk | 2,129
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,393
@@ -26,11 +26,55 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,303 (100.0%) of 37,304 articles have been extended.
+37,303 (100.0%) of 37,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka Physical & Digital Connectivity Dialogue
+
+*2024-07-26 05:46:00* · [`islandlk`](http://island.lk/pathfinder-foundation-and-ananta-aspen-centre-lead-india-sri-lanka-physical-digital-connectivity-dialogue/) · `en`
+
+The Roundtable Discussion on “Bridging Borders: Enhancing Connectivity Between India and Sri Lanka,”, concluded successfully, fostering insightful dialogue and collaborative discussion on strengthening physical and digital connectivity between the two nations.
+
+The event commenced with welcome and opening remarks by Amb. (Retd.) Bernard Goonetilleke, Chairman of Pathfinder Foundation, and Ms. Indrani Bagchi, Chief Executive Officer of Ananta Aspen Centre, set the tone for a productive session. The two sessions can be live on the Pathfinder Foundation web or YouTube link, https://rb.gy/11n635
+
+Session 1 focused on the transformative potential of Digital Public Infrastructure (DPI) in driving development across emerging markets, bringing distinguished speakers and discussants to explore how DPI can catalyze economic growth and regional connectivity.
+
+Investors’ presidential or parliamentary poll first quandary checks share trading momentum
+
+...
+
+[Data](articles/3c6537f2.json)
+
+---
+
+### Investors’ presidential or parliamentary poll first quandary checks share trading momentum
+
+*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/investors-presidential-or-parliamentary-poll-first-quandary-checks-share-trading-momentum/) · `en`
+
+Stock market activities were not satisfactory yesterday due to investor uncertainty over whether President Ranil Wickremesinghe would be going for a presidential election or a parliamentary election by dissolving the parliament.
+
+Accordingly, the market was a bit inactive and both indices moved downwards. The All Share Price Index went down by 63.25 points while S and P SL20 declined by 19.24 points.
+
+...
+
+[Data](articles/3b507ac7.json)
+
+---
+
+### Kingslake elevated to Infor’s Gold Partnership status
+
+*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/kingslake-elevated-to-infors-gold-partnership-status/) · `en`
+
+Kingslake, a leading provider of enterprise software solutions, has achieved Gold Partnership status with Infor, a global leader in business cloud software products for industry-specific markets. Achieving this milestone reflects a proven track record of successful implementations and satisfied clients, demonstrating Kingslake’s commitment to maintaining high standards of service delivery. This accomplishment significantly enhances Kingslake’s capacity to implement and service cutting-edge Infor solutions, including Infor WMS and Infor SyteLine ERP, to its customers.
+
+...
+
+[Data](articles/58d5d48e.json)
+
+---
 
 ### Principles and proposals for political and constitutional reform for democracy: Part I
 
@@ -117,6 +161,16 @@ The Company Revenue of Rs. 1,340 million at the World Trade Center, Colombo, was
 [Data](articles/73e733b3.json)
 
 [Extended Data](ext_articles/73e733b3.ext.json)
+
+---
+
+### Monks driven from pillar to post with Mahanayakas pandering to politicians
+
+*2024-07-26 02:42:00* · [`islandlk`](http://island.lk/monks-driven-from-pillar-to-post-with-mahanayakas-pandering-to-politicians/) · `en`
+
+...
+
+[Data](articles/976eb35b.json)
 
 ---
 
@@ -2219,95 +2273,5 @@ Former army chief Sarath Fonseka and justice minister Wijeyadasa Rajapakshe anno
 [Data](articles/056a579b.json)
 
 [Extended Data](ext_articles/056a579b.ext.json)
-
----
-
-### A soldier commits suicide in the Kandakaduwa
-
-*2024-07-25 13:57:12* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවේ-සේවය-කළ-හමුදා-සෙබළෙක්-දිවි-නසා-ගනියි/11-410992) · `si`
-
-A soldier from the Agricultural and Livestock Forces Campawa committed suicide by burying himself alive in the cargo base of the Power Board in Kandakaduwa. The incident occurred on the morning of the 25th, and the body was found at Welikanda Hospital. Investigations are ongoing under the leadership of Welikanda Police, with Premathilaka leading the probe.
-
-🟩
-
-Welikanda Police say that the neck has been buried in the camp on the 25th morning of the 25th morning.
-
-The deceased has been identified as attached to the Agricultural and Livestock Forces Campawa. Welikanda Police said that Premathilaka is conducting further investigations.
-
-He is a resident of Welikanda address No. 57 / A Kandakada address.
-
-He has placed his body at the Welikanda Hospital.. When contacted, Rajapaksa said.
-
-Police say that he has committed suicide by buried in the cargo base of the Power Board, the power board.
-
-Investigation into the investigation, Welikanda Acting OIC Inspector RM. SI. A team of police officers including Mr. Rajapaksa
-
-◼️
-
-[Data](articles/6b7f7516.json)
-
-[Extended Data](ext_articles/6b7f7516.ext.json)
-
----
-
-### Interim banned order for Thilanga
-
-*2024-07-25 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199197) · `si`
-
-The Court of Appeal banned Minister Nimal Siripala from the Maligamanganda Magistrate's office due to a petition filed by him.
-
-🟩
-
-The Court of Appeal has issued a ban to the Maligamanganda Magistrate yesterday (24) by the Chief Secretary of the Sri Lanka Freedom Party's Office against Minister Nimal Siripala.
-
-The Court of Appeal issued the order after considering a Rit petition filed by Minister Nimal Siripala de Silva.
-
-◼️
-
-[Data](articles/225ece58.json)
-
-[Extended Data](ext_articles/225ece58.ext.json)
-
----
-
-### Matara posters paste in support of Deshabandu Tennakoon
-
-*2024-07-25 13:52:09* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකෝන්-මහතාට-සහාය-පළ-කරමින්-මාතර-පොස්ටර්-අලවයි/11-410991) · `si`
-
-Posters in Matara today support former IGP Deshabandu Tennakoon, criticizing lawyers linked to the underworld. Civil organizations plan to sign a petition against drug trafficking and uphold the law, involving the Maha Sangha from the Matara district.
-
-🟩
-
-The former IGP was supported by the posters in Matara today (25), supporting the former IGP.
-
-"Councilor wins billions of lawyers, lawyers carry out the contract of the underworld. Whose help us?We had the same as we were with you in Matara. "
-
-In addition, civil organizations, including the Maha Sangha, Matara district, was planned to sign a petition to protect the law against the underworld and drug trafficking.
-
-◼️
-
-[Data](articles/717cca1b.json)
-
-[Extended Data](ext_articles/717cca1b.ext.json)
-
----
-
-### Election Commission to announce Presidential Election date
-
-*2024-07-25 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100766/election-commission-to-announce-presidential-election-date) · `en`
-
-The Elections Commission of Sri Lanka says that the Gazette notification regarding the announcement of the Presidential Election date will be published tomorrow (26).
-
-Issuing a statement, the Election Commission said that during its meeting which was convened today the members of the commission decided to publish the Extraordinary Gazette notification on July 26, 2024 (Friday) announcing the date of publishing the order for the election of a president, the date and location of accepting nominations for the election and the date of the Presidential Election.
-
-The statement further states that the Election Commission is not responsible for the statements made by various individuals and parties regarding the date of the Presidential Election and other constitutional duties.
-
-The National Election Commission had convene a meeting today (25) to finalize the date for the upcoming Presidential Election and the date for the calling of nominations.
-
-...
-
-[Data](articles/21bf94bb.json)
-
-[Extended Data](ext_articles/21bf94bb.ext.json)
 
 ---

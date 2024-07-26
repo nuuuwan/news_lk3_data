@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 19:05:28**
+As of **2024-07-26 19:20:48**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,433 (100.0%) of 37,434 articles have been extended.
+37,434 (100.0%) of 37,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### කාසියේ වාසිය චමරි ට
+### Chamari to the benefit of the coin
 
 *2024-07-26 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199244) · `si`
 
-කාන්තා ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ දෙවැනි අවසන් පූර්ව තරගය ශ්‍රී ලංකාව සහ පාකිස්තානය අතර පැවැත්වෙයි.
+In the women's Asia Cup, Sri Lanka will face Pakistan in the second semi-final after winning the toss. The first semi-final saw India defeat Bangladesh by 10 wickets.
 
-මෙම විස්සයි විස්ස තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කාන්තා කණ්ඩායම පළමුව පන්දු රැකීමට තීරණය කළේය.
+🟩
 
-මෙහි පළමු අවසන් පූර්ව තරගය ඉන්දියාව සහ බංග්ලාදේශය අතර පැවතිනි.
+The second semi-final in the women's Asia Cup will be held between Sri Lanka and Pakistan.
 
-එම තරගය කඩුලු 10කින් ජය ගැනීමට ඉන්දීය කාන්තා කණ්ඩායම සමත් විය.
+The Sri Lanka Women's group, won the toss and elected to the toss of the Twenty20 match.
+
+The first semi-final was found between India and Bangladesh.
+
+Indian women's team won the match by 10 wickets.
 
 ◼️
 
 [Data](articles/fb4977b9.json)
+
+[Extended Data](ext_articles/fb4977b9.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 16:36:44**
+As of **2024-07-26 16:53:45**
 
 ## Newspaper Stats
 
-*Scraped **37,417** Articles*
+*Scraped **37,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 365
 islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
-adalk | 3,407
-adaderanalk | 4,332
+adalk | 3,408
+adaderanalk | 4,333
 tamilmirrorlk | 4,613
 dailymirrorlk | 4,733
 virakesarilk | 5,880
@@ -26,11 +26,35 @@ adaderanasinhalalk | 6,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,417 (100.0%) of 37,417 articles have been extended.
+37,417 (100.0%) of 37,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Barack and Michelle Obama endorse Kamala Harris in bid for US presidency
+
+*2024-07-26 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100796/-barack-and-michelle-obama-endorse-kamala-harris-in-bid-for-us-presidency) · `en`
+
+Former President Barack Obama and his wife Michelle endorsed Kamala Harris‘ bid for president on Friday in a roughly one-minute long video that captured a private phone call between the couple and the current vice president.
+
+“We called to say Michelle and I couldn’t be prouder to endorse you and to do everything we can to get you through this election and into the Oval Office,” Obama told Harris.
+
+“I am proud of you. This is going to be historic,” the former first lady told Harris.
+
+Talking into a cell phone and cracking a few smiles, Harris expressed her gratitude for the endorsement and their long friendship.
+
+“Thank you both. It means so much. And we’re gonna have some fun with this too,” Harris said.
+
+The campaign said the video was the actual call, not a reenactment.
+
+Harris’s surprise bid against Republican rival Donald Trump continues to gain steam from supporters, donors and politicians less than a week after President Joe Biden bowed out of the race amid slumping poll numbers.
+
+...
+
+[Data](articles/32c2c164.json)
+
+---
 
 ### Two from same family killed in head-on collision
 
@@ -69,6 +93,18 @@ Accordingly, the court ordered to issue notice on the Chairman of the Election C
 [Data](articles/5e124450.json)
 
 [Extended Data](ext_articles/5e124450.ext.json)
+
+---
+
+### 38 ට අඩු කරන්න නැත්නම් පිටරටින් ගේනවා
+
+*2024-07-26 15:42:00* · [`adalk`](https://www.ada.lk/breaking_news/38-ට-අඩු-කරන්න-නැත්නම්-පිටරටින්-ගේනවා/11-411019) · `si`
+
+දේශීය බිත්තර නිශ්පාදකයන් විසින් බිත්තරයක මිල රුපියල් 38/- දක්වා පහත නෙදමන්නේනම් නැවත බිත්තර ආනයනයට කටයුතු කරනබවට වෙළඳ අමාත්‍ය නලින් ප්‍රනාන්දු පවසයි. බිත්තර නිශ්පාදකයින් විසින් විශාල ලාබයක් උපයන බැවින් මෙම තත්වය පාලනය කිරීමට කටයුතු කරන බවට අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/4ae54552.json)
 
 ---
 
@@ -2149,37 +2185,5 @@ Therefore, an agenda for restoring democratic government calls for major changes
 [Data](articles/b14d1cad.json)
 
 [Extended Data](ext_articles/b14d1cad.ext.json)
-
----
-
-### Sri Lanka’s next President
-
-*2024-07-26 03:16:30* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-next-President/4-764782) · `en`
-
-There’s a political poster that’s been splashed on the walls of Colombo. Black letters on a yellow background mean that the author or the party cannot be identified. It is obviously a teaser campaign. It comes with a promise, which of course is the bread and butter of all politicians. Apparently, ‘the lie will come to an end,’ and on the 29th, the name of the messiah who will take all Sri Lankans to some yet-to-be-named promised land will be revealed.
-
-This is the season for that kind of thing, so the timing is not bad at all. After all, people are talking about elections these days. They are wondering if elections will be held soon and, if so, whether it would be a presidential or parliamentary election. They talk about candidates, those who have announced their intentions and those who might very soon.
-
-...
-
-[Data](articles/bc4f9458.json)
-
-[Extended Data](ext_articles/bc4f9458.ext.json)
-
----
-
-### Resource-rich, policy-poor: Sri Lanka’s flagging growth sectors
-
-*2024-07-26 03:05:55* · [`dailyftlk`](https://www.ft.lk/columns/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/4-764781) · `en`
-
-Sri Lanka’s agriculture and mineral policies need overhauling along with fresh thinking and national minded leadership
-
-Sri Lanka sits on a wealth of resources, but let it all go to waste. Agriculture was one such historical natural strength in what used to be the ‘Pearl of the Indian Ocean,’ bringing fame and fortune from far and wide. Today, we import rice, coconuts and other agri-commodities – a far cry from former glory. Skewed agricultural policy perpetuated by the lack of political will burns holes in the future potential of an industry and our people.
-
-...
-
-[Data](articles/3b0c8415.json)
-
-[Extended Data](ext_articles/3b0c8415.ext.json)
 
 ---

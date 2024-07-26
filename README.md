@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 16:53:45**
+As of **2024-07-26 17:05:36**
 
 ## Newspaper Stats
 
-*Scraped **37,419** Articles*
+*Scraped **37,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,408
-adaderanalk | 4,333
-tamilmirrorlk | 4,613
+adaderanalk | 4,334
+tamilmirrorlk | 4,614
 dailymirrorlk | 4,733
-virakesarilk | 5,880
-adaderanasinhalalk | 6,278
+virakesarilk | 5,881
+adaderanasinhalalk | 6,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,417 (100.0%) of 37,419 articles have been extended.
+37,419 (100.0%) of 37,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### ඇප තැන්පත් කළ අපේක්ෂකයින් ගැන කොමිසමෙන් දැනුම්දීමක්
+
+*2024-07-26 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199239) · `si`
+
+2024 ජනාධිපතිවරණය වෙනුවෙන් මේ වනවිට අපේක්ෂකයින් සිව්දෙනෙකු ඇප මුදල් තැන්පත් කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිෂන් සභාව මේ බව දැනුම් දී ඇත.
+
+ඒ අතර ජනාධිපති රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත් සහ ඒ. එස්. පී. ලියනගේ යන අය වේ.
+
+◼️
+
+[Data](articles/a5ada5b6.json)
+
+---
+
+### Sri Lanka’s security chiefs instructed to ensure country’s security ahead of election
+
+*2024-07-26 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100797/sri-lankas-security-chiefs-instructed-to-ensure-countrys-security-ahead-of-election) · `en`
+
+As the upcoming presidential election has been announced by the Election Commission, State Minister of Defence  Premitha Bandara Tennakoon has today (26) instructed the security chiefs to take all necessary measures to ensure the security of the presidential candidates, citizens and the entire country during this election period.
+
+The state minister has given the following instructions when the Ministerial Consultative Committee on Defence met in Parliament this morning (26), the Communication Department said in a statement.
+
+Chief of Defence Staff General Shavendra Silva, Navy Commander Vice Admiral Priyantha Perera and a group of high-level officers of the three-armed forces as well as the heads of the Ministry of Defence and the departments under the ministry were called to this committee meeting.
+
+The state minister has requested that all these activities be carried out in accordance with the Constitution and the protection of the human rights of the citizens.
+
+...
+
+[Data](articles/065b0fcd.json)
+
+---
+
+### රට රැකියා සිහින ‍පෙන් වූ ජාවාරම්කරුවන් 12ක් අත්අඩංගුවට
+
+*2024-07-26 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199238) · `si`
+
+ජූලි මස 22 වන දින සිට අද (26) දක්වා ගතවූ දින 5ක කාලය තුළ විදෙස් රැකියා ජාවාරම් සිදුකළ වංචාකරුවන් 12දෙනෙකු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+කටාර්, නවසීලන්තය, මැලේසියාව, රුමේනියාව හා කැනඩාව යන රටවල රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවන් 05 දෙනෙකු ඇතුළු 12 දෙනෙක් මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව නවසීලන්තයේ රැකියා සඳහා සම්මුඛ පරීක්ෂණ පැවැත්වූ කුරුණෑගල නීති විරෝධි ආයතනයක් ද වටලා ඇති අතර එහි තිබී ජීව දත්ත පත්‍රිකා හා තවත් ලේඛන අඩංගු ලිපිගොනු 108ක්ද නිලධාරීන් විසින් සිය භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/8c333578.json)
+
+---
 
 ### Barack and Michelle Obama endorse Kamala Harris in bid for US presidency
 
@@ -53,6 +103,24 @@ Harris’s surprise bid against Republican rival Donald Trump continues to gain 
 ...
 
 [Data](articles/32c2c164.json)
+
+[Extended Data](ext_articles/32c2c164.ext.json)
+
+---
+
+### கமலா ஹாரிஸுக்கு  ஒபாமா ஆதரவு
+
+*2024-07-26 16:26:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கமலா-ஹாரிஸுக்கு-ஒபாமா-ஆதரவு/50-341081) · `ta`
+
+அமெரிக்க ஜனாதிபதி தேர்தலில், ஜனநாயக கட்சி சார்பில் கமலா ஹாரிஸ் களமிறங்க ஆதரவு தெரிவித்துள்ள முன்னாள் ஜனாதிபதி ஒபாமா, அவர் வெற்றி பெறுவதை உறுதி செய்வோம் எனக் கூறியுள்ளார்.
+
+அமெரிக்க ஜனாதிபதி பதவிக்கான தேர்தல், நவ., 5இல் நடக்க உள்ளது. இதில், குடியரசு கட்சி சார்பில், முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப், 78, போட்டியிடுவது உறுதியாகி உள்ளது. ஆளும் ஜனநாயகக் கட்சி சார்பில், தற்போதைய ஜனாதிபதி ஜோ பைடன், 81, போட்டியிடுவார் என்று அறிவிக்கப்பட்டிருந்தது. கட்சியின் ஜனாதிபதி வேட்பாளரை மாற்ற வேண்டும் என, ஜனநாயக கட்சியைச் சேர்ந்த பலரும் போர்க்கொடி தூக்கினர். இதனால், போட்டியில் இருந்து ஜோ பைடன் விலகினார்.
+
+மேலும், கட்சியின் வேட்பாளராக, துணை ஜனாதிபதி கமலா ஹாரிசை நிறுத்த அவர் ஆதரவு தெரிவித்திருந்தார். அடுத்த மாதம், 19 – 22இல் சிகாகோவில் நடக்கவுள்ள கட்சி மாநாட்டில், ஜனாதிபதி வேட்பாளர் அறிவிக்கப்பட உள்ளார்.
+
+...
+
+[Data](articles/f21cac7e.json)
 
 ---
 
@@ -96,15 +164,21 @@ Accordingly, the court ordered to issue notice on the Chairman of the Election C
 
 ---
 
-### 38 ට අඩු කරන්න නැත්නම් පිටරටින් ගේනවා
+### Will be reduced to 38 or bring abroad
 
 *2024-07-26 15:42:00* · [`adalk`](https://www.ada.lk/breaking_news/38-ට-අඩු-කරන්න-නැත්නම්-පිටරටින්-ගේනවා/11-411019) · `si`
 
-දේශීය බිත්තර නිශ්පාදකයන් විසින් බිත්තරයක මිල රුපියල් 38/- දක්වා පහත නෙදමන්නේනම් නැවත බිත්තර ආනයනයට කටයුතු කරනබවට වෙළඳ අමාත්‍ය නලින් ප්‍රනාන්දු පවසයි. බිත්තර නිශ්පාදකයින් විසින් විශාල ලාබයක් උපයන බැවින් මෙම තත්වය පාලනය කිරීමට කටයුතු කරන බවට අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+Trade Minister Nalin Fernando announced that if local egg prices drop below Rs 38, the government will intervene to stabilize the market, emphasizing the importance of egg products' profitability.
+
+🟩
+
+Minister of Trade Nalin Fernando says that the eggs again will be taken back to the eggs again if the price of local egg products followed down to Rs 38 / -. The Minister added that the situation would be taken to control the situation as egg products earn a large profit.
 
 ◼️
 
 [Data](articles/4ae54552.json)
+
+[Extended Data](ext_articles/4ae54552.ext.json)
 
 ---
 
@@ -154,6 +228,28 @@ In a post posted on the US Ambassador to Sri Lanka, Julie Chung X, “We welcome
 
 ---
 
+### கமலா ஹரிசிற்கு  ஆதரவை வெளியிட்டார் ஒபாமா
+
+*2024-07-26 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189444) · `ta`
+
+அமெரிக்க ஜனாதிபதி தேர்தலில் கமலாஹரிஸ் ஜனநாயக கட்சியின் சார்பில் போட்டியிடுவதற்கு முன்னாள் ஜனாதிபதி பராக்ஒபாமா ஒப்புதல் அளித்துள்ளார்.
+
+பராக் ஒபாமாவின் இந்த ஆதரவு காரணமாக கமலா ஹரிஸ்  அமெரிக்க அரசியலில் தீவிரமாக செயற்படும் ஜனநாக கட்சியின் தலைவர்களில் அனேகமானவர்களின் ஆதரவை பெற்றுள்ளார்.
+
+பில் கிளின்டன் ஹரி கிளின்டன் என ஜனநாயக கட்சியின் முக்கிய தலைவர்கள் உடனடியாக கமலா ஹரிசிற்கு ஆதரவை வெளியிட்ட போதிலும் ஒபாமா ஆதரவை வெளியிடாதது கேள்விகளை எழுப்பியிருந்த நிலையில் ஒபாமா தனது ஆதரவை வெளியிட்டுள்ளார்.
+
+தனது மனைவியுடன் இணைந்து கமலாஹரிசினை தொலைபேசியில் தொடர்புகொண்ட ஒபாமா தனது ஆதரவை வெளியிட்டுள்ளதுடன்  குறித்த வீடியோவையும் வெளியிட்டுள்ளார்.
+
+நான் கமலா குறித்து பெருமிதம் அடைகின்றேன் ,இது வரலாற்று முக்கியத்துவம் வாய்ந்த விடயமாக விளங்கப்போகின்றது என மிச்செல் ஒபாமா தெரிவித்துள்ளார்.
+
+வாகனமொன்றிற்கு அருகில் நின்றபடி பதிலளிக்கும் கமலாஹரிஸ் கடவுளே மிச்செல் ஒபாமா இது எனக்கு மிகப்பெரிய விடயம் என தெரிவிக்கின்றார்.
+
+...
+
+[Data](articles/fa80dcd3.json)
+
+---
+
 ### More details revealed on Grandpass shooting that killed two
 
 *2024-07-26 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100793/more-details-revealed-on-grandpass-shooting-that-killed-two) · `en`
@@ -178,7 +274,7 @@ It has been reported that five gunshots had been fired at the woman, who has bee
 
 ### Land cleaning to set up Vihara at night and night
 
-*2024-07-26 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189442) · `ta`
+*2024-07-26 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189442) · `ta`
 
 In the Illandaikulam area of Trincomalee, tensions rise over land clearing for a Buddhist Vihara at night. Residents, displaced during the war, express concern over the demolition of structures and trees without proper action from state departments. They demand resettlement and question the lack of intervention against environmental damage.
 
@@ -2101,89 +2197,5 @@ The Sri Lanka Retailer’s Association (SLRA) held its 7th Annual General Meetin
 [Data](articles/c876b721.json)
 
 [Extended Data](ext_articles/c876b721.ext.json)
-
----
-
-### Litro Gas Lanka holds Long Service Award ceremony
-
-*2024-07-26 05:46:00* · [`islandlk`](http://island.lk/litro-gas-lanka-holds-long-service-award-ceremony/) · `en`
-
-Litro Gas Lanka Limited, Sri Lanka’s leading LPG provider, celebrated its Long Service Award Ceremony 2024, honoring the dedication and commitment of its employees. The ceremony, held at the recently commissioned state-of-the-art refurbished and upgraded Litro storage and bottling facility in Mabima, was graced by the presence of Chairman & CEO Muditha Peiris and recognized employees for their remarkable service.
-
-The event saw employees who had completed their services from 10 to 30 years at Litro Gas Lanka being felicitated. This celebration aligns with the theme of World LPG Day 2024, “Showcasing and Celebrating the People Behind LPG,” highlighting the vital contributions of these employees who have been instrumental in driving Litro Gas’s success and commitment to energy security, social transformation, and economic growth.
-
-...
-
-[Data](articles/8d955fac.json)
-
-[Extended Data](ext_articles/8d955fac.ext.json)
-
----
-
-### Investors’ presidential or parliamentary poll first quandary checks share trading momentum
-
-*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/investors-presidential-or-parliamentary-poll-first-quandary-checks-share-trading-momentum/) · `en`
-
-Stock market activities were not satisfactory yesterday due to investor uncertainty over whether President Ranil Wickremesinghe would be going for a presidential election or a parliamentary election by dissolving the parliament.
-
-Accordingly, the market was a bit inactive and both indices moved downwards. The All Share Price Index went down by 63.25 points while S and P SL20 declined by 19.24 points.
-
-...
-
-[Data](articles/3b507ac7.json)
-
-[Extended Data](ext_articles/3b507ac7.ext.json)
-
----
-
-### Kingslake elevated to Infor’s Gold Partnership status
-
-*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/kingslake-elevated-to-infors-gold-partnership-status/) · `en`
-
-Kingslake, a leading provider of enterprise software solutions, has achieved Gold Partnership status with Infor, a global leader in business cloud software products for industry-specific markets. Achieving this milestone reflects a proven track record of successful implementations and satisfied clients, demonstrating Kingslake’s commitment to maintaining high standards of service delivery. This accomplishment significantly enhances Kingslake’s capacity to implement and service cutting-edge Infor solutions, including Infor WMS and Infor SyteLine ERP, to its customers.
-
-...
-
-[Data](articles/58d5d48e.json)
-
-[Extended Data](ext_articles/58d5d48e.ext.json)
-
----
-
-### Cable Solutions IPO oversubscribed on opening day
-
-*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/cable-solutions-ipo-oversubscribed-on-opening-day/) · `en`
-
-The Initial Public Offering (IPO) of Cable Solutions Limited, through an offer for subscription of 14,666,600 ordinary voting shares at a price of Rs. 7.50 per share and an offer for sale of 66,120,000 ordinary voting shares at the same price, opened 23rd July 2024 and was oversubscribed on the initial day itself.
-
-The IPO by Cable Solutions Limited received applications exceeding the IPO value, demonstrating strong investor interest. This significant IPO closed at 4.30 pm 23rd July 2024.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/5cda86ce.json)
-
-[Extended Data](ext_articles/5cda86ce.ext.json)
-
----
-
-### Principles and proposals for political and constitutional reform for democracy: Part I
-
-*2024-07-26 03:24:24* · [`dailyftlk`](https://www.ft.lk/opinion/Principles-and-proposals-for-political-and-constitutional-reform-for-democracy-Part-I/14-764783) · `en`
-
-An agenda for restoring democratic government calls for major changes in the Constitution as well as the system of government
-
-2024 is a year of elections to choose a new President and possibly a new Parliament. In that context, the theme of political and constitutional reforms has once again begun to draw the attention of the citizens, civil society movements and political parties. It is necessary to recognise that any constitutional reform effort should have two main goals. They are (a) restoring the country’s parliamentary democracy and (b) replacing, not just reforming, the existing 1978 Constitution with a new and democratic constitution. A new constitution should also give effect to the democratising hopes of the people of Sri Lanka.
-
-Therefore, an agenda for restoring democratic government calls for major changes in the Constitution as well as the system of government.
-
-...
-
-[Data](articles/b14d1cad.json)
-
-[Extended Data](ext_articles/b14d1cad.ext.json)
 
 ---

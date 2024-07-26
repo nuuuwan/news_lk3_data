@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 11:06:58**
+As of **2024-07-26 11:20:37**
 
 ## Newspaper Stats
 
-*Scraped **37,352** Articles*
+*Scraped **37,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,397
-adaderanalk | 4,322
+adaderanalk | 4,324
 tamilmirrorlk | 4,604
 dailymirrorlk | 4,733
 virakesarilk | 5,864
@@ -26,11 +26,41 @@ adaderanasinhalalk | 6,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,352 (100.0%) of 37,352 articles have been extended.
+37,352 (100.0%) of 37,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### SLPP to decide on presidential candidate on Monday
+
+*2024-07-26 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100787/slpp-to-decide-on-presidential-candidate-on-monday) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) will make a decision regarding its candidate for the 2024 Presidential Election on Monday (29 July), party sources told Ada Derana.
+
+◼️
+
+[Data](articles/61b454fb.json)
+
+---
+
+### US arrests Mexican drug lord ‘El Mayo’ and El Chapo’s son in Texas
+
+*2024-07-26 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100786/us-arrests-mexican-drug-lord-el-mayo-and-el-chapos-son-in-texas) · `en`
+
+Mexican drug kingpin Ismael “El Mayo” Zambada and the son of his ex-partner, Joaquin “El Chapo” Guzman, were arrested on Thursday in El Paso, Texas, in a major coup for U.S. authorities that may also reshape the Mexican criminal landscape.
+
+Zambada is one of the most consequential traffickers in Mexico’s history and co-founded the Sinaloa Cartel with El Chapo, who was extradited to the United States in 2017 and is serving a life sentence in a maximum security prison.
+
+Both Zambada and Joaquin Guzman Lopez, the son of El Chapo, face multiple charges in the U.S. for funneling huge quantities of drugs to U.S. streets, including fentanyl, which has surged to become the leading cause of death for Americans between the ages of 18 and 45.
+
+Zambada, who is believed to be in his 70s, and Guzman Lopez, who is in his 30s, were detained after landing in a private plane in the El Paso area, two U.S. officials told Reuters.
+
+...
+
+[Data](articles/f945a055.json)
+
+---
 
 ### Price of bread reduced
 
@@ -114,7 +144,15 @@ Prime Minister Dinesh Gunawardena has clarified that the President has no legal 
 
 Delivering a special statement in Parliament, the Prime Minister also emphasized that the position of the IGP is not vacated presently.
 
-◼️
+He also stated that the court cannot change the approval granted by the Constitutional Council to appoint the current IGP.
+
+“We remind the Speaker and Parliament that the order of the Supreme Court suspending the duties of the IGP should be nullified. We request the Speaker to intervene as soon as possible in this regard,” he said.
+
+The Supreme Court on Wednesday issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
+
+The Supreme Court had issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
+
+...
 
 [Data](articles/fc3abe74.json)
 
@@ -2097,51 +2135,5 @@ Former Health Minister Keheliya Rambukwella and six suspects have been remanded 
 [Data](articles/5db3f642.json)
 
 [Extended Data](ext_articles/5db3f642.ext.json)
-
----
-
-### Public Financial Management and Economic Transformation Bills passed in Parliament
-
-*2024-07-25 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100772/public-financial-management-and-economic-transformation-bills-passed-in-parliament) · `en`
-
-The Public Financial Management Bill and the Economic Transformation Bill have been passed in Parliament today (25) with amendments and without a vote.
-
-Amendments were incorporated to the bills during the committee stage and subsequently, the third reading was passed without a vote.
-
-These two bills were presented to Parliament on 22 May 2024.
-
-The government says the two significant bills are aimed at bolstering the country’s economy.
-
-The “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns, the State Minister of Finance Shehan Semasinghe said recently.
-
-Explaining the bills, he said the “Economic Transformation Law,” is aimed at preventing future economic collapses and that the legislation stems from the vision of President Ranil Wickremesinghe, rather than being proposed by the International Monetary Fund (IMF).
-
-...
-
-[Data](articles/a4f2eb4f.json)
-
-[Extended Data](ext_articles/a4f2eb4f.ext.json)
-
----
-
-### All the propent of tax exemptions
-
-*2024-07-25 17:50:39* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-බිලියනයට-වැඩි-රාජ්‍ය-ප්‍රසම්පාදන-තොරතුරු-ප්‍රකාශයට---බදු-නිදහස්-කිරීම්-ලබන-සියලු-සමාගම්-ප්‍ර/11-410996) · `si`
-
-The government has approved measures to enhance anti-corruption efforts, including a comprehensive plan funded biannually, amendments to expand the Auditor General's powers, and establishing a reputation scheme for asset disclosure. These reforms aim to increase transparency, strengthen investigations, and recover illicit wealth, with specific attention to public procurement and employee benefits. Additionally, the International Monetary Fund has suggested further improvements to the anti-corruption framework.
-
-🟩
-
-Cabinet approval has been approved by the Cabinet Memorandum to the Cabinet Memorandum of the "National Agency of the Anti-Organization" in the Technical Support Report of the International Monetary Fund..
-
-The National Agest of the anti-Corruption will include a plan of anti-corruption plan for the anti-Corruption Plan, and provide sufficient budget for the action plan every six months and the implementation of the Action Plan for the action plan.It also includes the necessary provisions.
-
-2025 - 2029 The agenda has been admitted to the agenda to create an anti-corruption plan for the time period. The National Agenda also includes amending the National Audit Act No. 19, No. 19, 2018, expanding the legal authority owned by the Auditor General.
-
-...
-
-[Data](articles/6101363b.json)
-
-[Extended Data](ext_articles/6101363b.ext.json)
 
 ---

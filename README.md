@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 11:20:37**
+As of **2024-07-26 11:35:56**
 
 ## Newspaper Stats
 
-*Scraped **37,354** Articles*
+*Scraped **37,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
-adalk | 3,397
+adalk | 3,400
 adaderanalk | 4,324
-tamilmirrorlk | 4,604
+tamilmirrorlk | 4,605
 dailymirrorlk | 4,733
 virakesarilk | 5,864
-adaderanasinhalalk | 6,266
+adaderanasinhalalk | 6,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,352 (100.0%) of 37,354 articles have been extended.
+37,354 (100.0%) of 37,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### හමාස් නායකයෙක් මරුට
+
+*2024-07-26 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199226) · `si`
+
+පලස්තීන බටහිර ඉවුරේ හමාස් නායකයා ලෙස කටයුතු කළ මුස්ටාෆා මුහම්මද් අබූ අරා ජීවිතක්ෂයට පත්වී තිබේ.
+
+රොයිටර්ස් පුවත් සේවය වාර්තා කර ඇත්තේ ඔහු ඊශ්‍රායල් හමුදා භාරයේ රෝහලක ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බවයි.
+
+පලස්තීන බලධාරීන් චෝදනා කරන්නේ දකුණු ඊශ්‍රායලයේ සිර කඳවුරක රඳවා සිටි මුස්ටාෆා ට ඔහුගේ රෝගී තත්ත්වය සඳහා නිසි ප්‍රතිකාර ලබා දීමට ඊශ්‍රායල ආරක්ෂක අංශ කටයුතු කර නොමැති බවයි.
+
+ඔක්තෝබර් 07 වනදා ඊශ්‍රායල ඉලක්කර හමාස් සාමාජිකයින් එල්ලකළ ප්‍රහාරයෙන් අනතුරුව මුස්ටාෆා ව අත්අඩංගුවට ගැනුණු.
+
+පසුගිය මාස 10 තුළ පලස්තීන ජාතිකයින් 18 දෙනෙක් ඊශ්‍රායල හමුදා භාරයේ සිටියදී මරණයට පත්ව ඇති බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/9765c5e3.json)
+
+---
+
+### පොහොට්ටුවේ ජනාධිපති අපේක්ෂකයා තීරණය සඳුදා
+
+*2024-07-26 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199225) · `si`
+
+2024 ජනාධිපතිවරණයේ අපේක්ෂකයා පිළිබඳව අවසන් තීරණය එළඹෙන සඳුදා (29) ගන්නා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පක්ෂ ආරංචි මාර්ග පවසයි.
+
+◼️
+
+[Data](articles/43f98555.json)
+
+---
+
+### 10 ரூபாவால் குறைந்தது பாண் விலை
+
+*2024-07-26 10:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ரூபாவால்-குறைந்தது-பாண்-விலை/175-341066) · `ta`
+
+◼️
+
+[Data](articles/ab8ca71b.json)
+
+---
+
+### පාන් ගෙඩියක මිලෙහි වෙනසක්
+
+*2024-07-26 10:55:27* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගෙඩියක-මිලෙහි-වෙනසක්/11-411012) · `si`
+
+අද (26) මධ්‍යම රාත්‍රියේ සිට ග්‍රෑම් 450 පාන් ගෙඩියක මිල රුපියල් 10 කින් මිල අඩු කර ඇති බව සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති  එන්. කේ. ජයවර්ධන මහතා සඳහන් කරයි.
+
+කෙසේ වුවද  අනෙකුත් බේකරි නිෂ්පාදන වල මිල අඩු කිරීමේ හැකියාවක් නොමැති බවද  සඳහන් කර සිටී.
+
+◼️
+
+[Data](articles/013df898.json)
+
+---
 
 ### SLPP to decide on presidential candidate on Monday
 
@@ -41,6 +97,8 @@ The Sri Lanka Podujana Peramuna (SLPP) will make a decision regarding its candid
 ◼️
 
 [Data](articles/61b454fb.json)
+
+[Extended Data](ext_articles/61b454fb.ext.json)
 
 ---
 
@@ -59,6 +117,30 @@ Zambada, who is believed to be in his 70s, and Guzman Lopez, who is in his 30s, 
 ...
 
 [Data](articles/f945a055.json)
+
+[Extended Data](ext_articles/f945a055.ext.json)
+
+---
+
+### වෙඩි වැදීමකින් බරපතල තුවාල ලබා කොළඹ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි කාන්තාවක් මියයයි
+
+*2024-07-26 10:22:00* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදීමකින්-බරපතල-තුවාල-ලබා-කොළඹ-දැඩිසත්කාර-ඒකකයේ-ප්‍රතිකාර-ලබමින්-සිටි-කාන්තාවක්-මියයයි/11-411011) · `si`
+
+ගෑන්ඩ්පාස්  වදුල්ලවත්ත පුරදර සෙවණ මාල් නිවාස සංකීර්ණය ඉදිරිපිට  තීරෝද රථයක් ඉලක්ක කර සිදුකල වෙඩි තැබීමකින් බරපතල තුවාල ලබා කොළඹ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි කාන්තාවද ඊයේ රාත්‍රී මිය ගොස් ඇතැයි  ගෑන්ඩ්පාස්  පොලිසිය කියයි
+
+එලෙස මියගොස් ඇත්තේ ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචි පනස් හය හැවිරිදි කාන්තාවකි
+
+සිද්ධිය වූ අවස්ථාවේදීම මාතර කඹුරුගමුවේ  ප්‍රදේශයේ පදිංචිව සිටි කේ රන්මුතු දර්ශන නමැති 31 හැවිරිදි පුද්ගලයෙකු  මියගියේය
+
+මියගිය කාන්තාව හා ඥාති පුත්‍රයා සමග තීරෝද රථයෙන් බේස් ලයින් මාර්ගයේ සිට වදුල්ලවත්ත ප්‍රදේශය කරා යමින් සිටියදී මෙම වෙඩි ප්‍රහාරය එල්ල වී ඇතැයි පොලිසිය සඳහන් කරයි
+
+වෙඩි ප්‍රහාරය රිවොල්වර  වර්ගයේ ගිනි අවිය කින්  සිදුකර ඇති බවත් පොලිස් නිලධාරියකු පැවසීය
+
+මත්ද්‍රව්‍ය සම්බන්ධයෙන් පොලිසියට ඔත්තු ලබාදීමක් සම්බන්ධයෙන් ඇතිවූ සැකයක් මත මෙම වෙඩි ප්‍රහාරය එල්ල කරන්නට ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය ඝාතනය සිදුකළ සැකකරුවන් සහ ගිනි අවිය සම්බන්ධය මේ වන තෙක් තොරතුරු අනාවරණයේ නැතැයිද පොලිසිය සඳහන් කරයි
+
+◼️
+
+[Data](articles/9e53b86e.json)
 
 ---
 
@@ -1584,6 +1666,26 @@ Police said that a lorry, which was coming from the arrival of the vehicle from 
 
 ---
 
+### ආණ්ඩුවේ මැති ඇමතිවරු 30 ක් රනිල්ට සහය දෙන බව මහින්දගේ මූණටම කියයි
+
+*2024-07-25 19:53:51* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මැති-ඇමතිවරු-30-ක්-රනිල්ට-සහය-දෙන-බව-මහින්දගේ-මූණටම-කියයි/11-411008) · `si`
+
+ආණ්ඩුව නියෝජනය කරන කැබිනට් හා රාජ්‍ය අමාත්‍යවරුන් ඇතුළු මන්ත්‍රීවරුන් 30 දෙනෙකු පමණ ඊයේ (25) පාර්ලිමේන්තුවේදී හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා හමුවී විශේෂ සාකච්ඡාවක් පවත්වා තිබෙන බව දේශපාලන ආරංචි මාර්ග පවසයි.
+
+එහිදී එම මන්ත්‍රීවරුන් පවසා ඇත්තේ ඉදිරි ජනාධිපතිවරණයේදී තමන් ඇතුළු පොදුජන පෙරමුණේ පිරිසක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීමට තීරණය කර ඇති බවයි.
+
+මේ මොහොතේ පක්ෂයේ බහුතරයක් දෙනා වත්මන් ජනාධිපතිවරයාට සහය පළ කිරීමට තීරණය කර ඇති බැවින් පක්ෂයෙන් වෙනත් අපේක්ෂකයකු ඉදිරිපත් කළහොත් එය පක්ෂයේ ඡන්ද පදනම⁣ටහානිවියහැකිබවදඔවුන්හිටපුජනාධිපතිවරයාටපෙන්වාදීතිබේ.
+
+එබැවින් පක්ෂයෙන් වෙනත් අපේක්ෂකයකු ඉදිරිපත් නොකරන ලෙසද ඔව්හු හිටපු ජනාධිපතිවරයාගෙන් ඉල්ලීමක් කර ඇතැයි වාර්තාවේ.
+
+එහිදී හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසා ඇත්තේ තමන්  පක්ෂය සමඟ සාකච්ඡා කර කඩිනමින් තීන්දුවක් ලබා දෙන බවය.
+
+◼️
+
+[Data](articles/f5ff6126.json)
+
+---
+
 ### Shooting in Colombo
 
 *2024-07-25 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199208) · `si`
@@ -2003,137 +2105,5 @@ I would like to express my gratitude to all those who have been protesting so fa
 [Data](articles/824fdac3.json)
 
 [Extended Data](ext_articles/824fdac3.ext.json)
-
----
-
-### A letter from all the information in the foreign overseas
-
-*2024-07-25 18:20:10* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්ගමන්-වල-සියලු-තොරතුරු-දමා-හරීන්ගෙන්-අනුරට-ලිපියක්/11-410999) · `si`
-
-In response to Anura Kumara Dissanayake's declaration, Minister Harin Fernando issued a letter denying "baseless" allegations. He emphasized the importance of correcting such statements. The letter also highlighted the achievements of the tourism industry under his leadership, noting significant growth and recognition as one of the world's top tourist destinations. Additionally, it mentioned the sports ministry's efforts to lift the cricket ban imposed on Sri Lanka.
-
-🟩
-
-Minister Harin Fernando has responded to the Declaration of the Leader of the National Power Anura Kumara Dissanayake recently.
-
-This has been informed by a letter to Anura Kumara Dissanayake today. The article has also presented information on all foreign travels of Minister Harin Fernando.
-
-Accordingly, Minister Harin Fernando has indicated that baseless and contemptible allegations are disgusting with disgusting. The letter stressed that the statement made by Anura Kumara Dissanayake should be corrected by Anura Kumara Dissanayake.
-
-This article will further understand that the tourism ministry and how the tourism industry is being found in the tourism industry and how the tourism industry is built in Sri Lanka today.. This article shows that the two years have been able to set a history of tourism and the world's best tourist destinations as well as the world's fastest growing tourism industry.
-
-...
-
-[Data](articles/50b45553.json)
-
-[Extended Data](ext_articles/50b45553.ext.json)
-
----
-
-### Completion with state financial management and economic status change bills amendments
-
-*2024-07-25 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189380) · `ta`
-
-Parliament passed the State Financial Management and Economic Level Transition Bills with amendments after a debate. The opposition supported the financial management bill but opposed the economic transition bill. Despite objections, both bills were approved without a referendum, led by the Deputy Speaker.
-
-🟩
-
-The debate on the State Financial Management and Economic Level Transition Bill, which was taken up for debate in Parliament on Thursday (25), was passed with amendments.
-
-The state financial management supports the legal source of the opposition with the support of the Economic Level Transition Bill, but some of its strings have been opposed.. In the meantime, the debate took place till 5,30 pm and eventually demanded the permission of the council to be headed by the Deputy Speaker.
-
-We support the Opposition Prime Minister Lakshman Kiriella, the State Finance Management Bill. But we are expressing our opposition to the economic change bill.
-
-Accordingly, the Deputy Speaker informed the House that the two bills were passed with amendments to the House without a referendum.
-
-◼️
-
-[Data](articles/77dd024b.json)
-
-[Extended Data](ext_articles/77dd024b.ext.json)
-
----
-
-### Two more important bills are passed
-
-*2024-07-25 18:11:40* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වැදගත්-පනත්-දෙකක්-සම්මත-වෙයි/11-410998) · `si`
-
-On May 25, 2024, Parliament passed the Fiscal Management and Economic Translation Bills after amendments, avoiding a vote through committee approval during the third reading. These bills, introduced on May 22, 2024, underwent significant changes before final passage.
-
-🟩
-
-Fiscal Management and Economic Translation Bills were passed in parliament today (25) with amendments without polling.
-
-The amendments were joined in committees in the billions of bills, and then the third reading passed without a poll.
-
-These two bills were presented to Parliament on May 22, 2024
-
-◼️
-
-[Data](articles/fd58369d.json)
-
-[Extended Data](ext_articles/fd58369d.ext.json)
-
----
-
-### Ex-Health Minister Keheliya and 5 others further remanded
-
-*2024-07-25 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100773/ex-health-minister-keheliya-and-5-others-further-remanded) · `en`
-
-Former Health Minister Keheliya Rambukwella and 05 other suspects implicated in the alleged importation of substandard immunoglobulin vials have been further remanded until August 08.
-
-The order was issued after the defendants were produced before the Maligakanda Magistrate’s Court today (25).
-
-The former Minister of Health is currently in remand custody in connection with his alleged complicity in the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-...
-
-[Data](articles/48774d81.json)
-
-[Extended Data](ext_articles/48774d81.ext.json)
-
----
-
-### Fiscal Management and Economic Translation Bills passed
-
-*2024-07-25 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199207) · `si`
-
-Parliament passed the Fiscal Management and Economic Translation Bills with amendments after committee review, bypassing further changes during the third reading. These bills, introduced on May 22, 2024, now proceed to implementation.
-
-🟩
-
-Fiscal Management and Economic Translation Bills were passed in parliament today (25) with amendments without amendment.
-
-The amendments were joined in committeements in committeements in the Bills, and then passed the third reading.
-
-These two bills were presented to Parliament on May 22, 2024.
-
-◼️
-
-[Data](articles/e8f25de3.json)
-
-[Extended Data](ext_articles/e8f25de3.ext.json)
-
----
-
-### Keheliya further remanded
-
-*2024-07-25 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199206) · `si`
-
-Former Health Minister Keheliya Rambukwella and six others were remanded until August 8th.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella and six suspects have been remanded until August 08.
-
-◼️
-
-[Data](articles/5db3f642.json)
-
-[Extended Data](ext_articles/5db3f642.ext.json)
 
 ---

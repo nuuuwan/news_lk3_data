@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 23:55:36**
+As of **2024-07-27 00:07:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,462 (100.0%) of 37,470 articles have been extended.
+37,468 (100.0%) of 37,470 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -259,6 +259,8 @@ M. A. Sumanthiran, an ITAK legislator said the part has already had discussions 
 ...
 
 [Data](articles/8c522ab8.json)
+
+[Extended Data](ext_articles/8c522ab8.ext.json)
 
 ---
 
@@ -592,6 +594,8 @@ The election commission said Friday July 26 that Sri Lanka’s presidential elec
 
 [Data](articles/950c7fcc.json)
 
+[Extended Data](ext_articles/950c7fcc.ext.json)
+
 ---
 
 ### Workplace for Defense Department Heads -In amazement
@@ -659,6 +663,8 @@ The SOERU said it acts as an implementing agency and facilitates and coordinates
 ...
 
 [Data](articles/1e2c3333.json)
+
+[Extended Data](ext_articles/1e2c3333.ext.json)
 
 ---
 
@@ -872,6 +878,8 @@ A bond maturing on 01.10.2032 closed at 12.45/60 percent. (Colombo/Jul26/2024)
 
 [Data](articles/1eb8f8b2.json)
 
+[Extended Data](ext_articles/1eb8f8b2.ext.json)
+
 ---
 
 ### Sri Lanka SRU responds to SLT, Hilton sale allegations
@@ -891,6 +899,8 @@ Two of the hotel’s restaurants, its swimming pool, gymnasium and some of its p
 ...
 
 [Data](articles/56d43bb9.json)
+
+[Extended Data](ext_articles/56d43bb9.ext.json)
 
 ---
 
@@ -983,6 +993,8 @@ Ceylon Land & Equity Plc brought in 21 million rupees in total and the share clo
 ...
 
 [Data](articles/ae9885a3.json)
+
+[Extended Data](ext_articles/ae9885a3.ext.json)
 
 ---
 

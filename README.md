@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 18:26:06**
+As of **2024-07-26 18:37:54**
 
 ## Newspaper Stats
 
-*Scraped **37,432** Articles*
+*Scraped **37,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,409
 adaderanalk | 4,336
-tamilmirrorlk | 4,615
+tamilmirrorlk | 4,616
 dailymirrorlk | 4,733
 virakesarilk | 5,881
 adaderanasinhalalk | 6,284
@@ -26,39 +26,67 @@ adaderanasinhalalk | 6,284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,429 (100.0%) of 37,432 articles have been extended.
+37,432 (100.0%) of 37,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### අපි අපේක්ෂකයෙක් ඉදිරිපත් කරන්නේ නෑ - සුමන්තිරන්
+### பாஸ்போட் கந்தோரில் பதற்றம்
+
+*2024-07-26 18:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாஸ்போட்-கந்தோரில்-பதற்றம்/175-341083) · `ta`
+
+பத்தரமுல்ல  குடிவரவு திணைக்களத்தில் பதற்ற்மான நிலமை ஏற்பட்டிருந்தது. பொலிஸார் தலையிட்டு நிலைமையை கட்டுப்பாட்டுக்குள் கொண்டு வந்தனர்.
+
+ஐந்தாவது மாடியில் அமைந்துள்ள குடிவரவு குடியகழ்வுக் கட்டுப்பாட்டாளர் நாயகத்தின் அலுவலகத்திற்குள் இன்று (26) பிற்பகல் சிலர் அத்துமீறி நுழைந்துள்ளனர் இதனை அடுத்தே பதற்றம் நிலவியது
+
+நாளொன்றுக்கு வழங்கப்படும் கடவுச்சீட்டுகளின் எண்ணிக்கையை கட்டுப்படுத்தும் தீர்மானம் தொடர்பில் இன்று காலை முதல் குடிவரவு குடியகழ்வு திணைக்களத்தில் பதற்றமான சூழல் நிலவியது
+
+◼️
+
+[Data](articles/3cae2193.json)
+
+---
+
+### We do not offer a candidate - Sumanthiran
 
 *2024-07-26 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199243) · `si`
 
-ජනාධිපතිවරණය සඳහා ඉලංකෙයි තමිල් අරසු කච්චි (ITAK) අපේක්ෂකයකු ඉදිරිපත් නොකරන බව පවසයි.
+ITAK hasn't nominated a candidate for the presidential election, but TNA parliamentarians will discuss potential candidates.
 
-නමුත් ප්‍රධාන අපේක්ෂකයන් සමඟ ඉදිරියේදී සාකච්ඡා කරන බව දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්තිරන් මහතා වැඩිදුරටත් පැවසීය.
+🟩
+
+It is said that Ilankai Tamil Arasu Kachchu Kachchi (ITAK) is not submitted for the presidential election.
+
+But the Tamil National Alliance (TNA) parliamentar MPs will be discussed with key candidates. it. Mr. Sumanthiran added.
 
 ◼️
 
 [Data](articles/03d76652.json)
 
+[Extended Data](ext_articles/03d76652.ext.json)
+
 ---
 
-### கட்டுப்பணத்தை மறந்துவிட்டு சென்ற தேரர்
+### Ther, who forgot the control
 
 *2024-07-26 17:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-மறந்துவிட்டு-சென்ற-தேரர்/175-341082) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வகையில் கட்டுப்பணம் செலுத்துவதற்காக பத்தரமுல்லை சீலரத்தன தேரர் இன்று (26) தேர்தல்கள் ஆணைக்குழுவிற்கு சென்றிருந்தார்.
+Thera forgot to bring funds for election control but plans to return to the Elections Commission on Monday after leaving them at Battaramullai Viharaya.
 
-எனினும் கட்டுப்பணம் செலுத்துவதற்கான பணத்தை பத்தரமுல்லை விகாரையில் விட்டுவிட்டு வந்ததால் இன்றைய தினம் கட்டுப்பணம் செலுத்தவில்லையென அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-இதனால் எதிர்வரும் திங்கட்கிழமை மீண்டும் தேர்தல்கள் ஆணைக்குழுவிற்கு சென்று தேர்தலுக்கான கட்டுப்பணத்தை செலுத்தவுள்ளதாக பத்தரமுல்லை சீலரத்தன தேரர் குறிப்பிட்டுள்ளார். R
+Thera had visited the Elections Commission today (26) to regulate the presidential election.
+
+However, he noted that the money for the control was left at the Battaramullai Viharaya.
+
+According to Battaramullai Seelarathana Thera, he will go back to the Elections Commission on Monday.. Remble
 
 ◼️
 
 [Data](articles/5ad04f7c.json)
+
+[Extended Data](ext_articles/5ad04f7c.ext.json)
 
 ---
 
@@ -78,21 +106,29 @@ However, the party will hold discussions with the main candidates, he said.
 
 ---
 
-### පොලිස් ලොක්කෙක් ගේ උසස්වීමක් බලරහිත කරමින් නියෝගයක්
+### An order locking a police chief promotion
 
 *2024-07-26 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199242) · `si`
 
-නාගරික රථවාහන කොට්ඨාසයේ අධ්‍යක්ෂ ඩී.එස්.කේ. පුෂ්ප කුමාර මහතා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ධුරයට උසස් කිරීමට ජාතික පොලිස් කොමිසම විසින් ගනු ලැබූ තීරණය බලරහිත කරමින් ශ්‍රේෂ්ඨාධිකරණය නියෝගයක් නිකුත් කර තිබේ.
+The Supreme Court has directed the National Police Commission to promote Mr. Pushpa Kumara to Senior Superintendent of Police, despite objections from 134 Assistant Superintendents and concerns about legality. This decision was made by Justices Survey Surasena, Arjuna, and Yasantha Kodagoda, with the latter two agreeing with the promotion. The court's ruling comes after a lengthy trial and addresses recommendations by Acting Inspector General Wickramaratne, which were criticized for potentially infringing on petitioners' basic human rights.
 
-අදාළ උසස් වීම අභියෝගයට ලක් කරමින් මූලික අයිතිවාසිකම් පෙත්සම් ගොනුකළ සහකාර පොලිස් අධිකාරිවරු 134 දෙනෙකුට නඩු ගාස්තු ගෙවන ලෙසත් ශ්‍රේෂ්ඨාධිකරණය විසින් වගඋත්තරකාර ඩී.එස්.කේ. පුෂ්ප කුමාර මහතාට ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝග කර ඇත.
+🟩
 
-සහකාර පොලිස් අධිකාරී ඩබ්ලිව්. ඒ. සෝමරත්න මහතා ඇතුළු සහකාර පොලිස් අධිකාරීවරු 134 දෙනෙකු ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 06ක් සලකා බැලීමෙන් අනතුරුව අර්ජුන ඔබේසේකර, යසන්ත කෝදාගොඩ යන විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා විසින් මෙම තීන්දුව ප්‍රකාශයට පත්කර තිබේ.
+Director of the Urban Traffic Division. The Supreme Court has issued an order deported to the National Police Commission to promote Mr. Pushpa Kumara to be appointed as the Senior Superintendent of Police.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ, 2020 වසරේ එවක වැඩබලන පොලිස්පති සී.ඩී. වික්‍රමරත්න මහතාගේ නිර්දේශයක් මත ජාතික පොලිස් කොමිසම විසින් වගඋත්තරකාර ඩී. එස්. කේ. පුුෂ්පකුමාර මහතා ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ධුරයට උසස් කිරීමට ගනු ලැබූ තීරණය නීතියට පටහැනි බවය.
+Chairman of the Supreme Court responding to 134 Assistant Superintendents of Assistant Superintendents of the Fundamental Rights Petitions. The Supreme Court has ordered Pushpa Kumara.
+
+Assistant Superintendent W. it. The decision was announced by Supreme Court Judge Survey Surasena with the consent of the Judges Arjuna, Yasantha Kodagoda, with the agreement of the Judges Arjuna Kodagoda.
+
+Petitioners say 2020 acting IGPY CD. The National Police Commission on a recommendation of Mr. Wickramaratne is respondent. S. K. The decision to be promoted to the post of Puebertumara is contrary to the law.
+
+The judge who had a prolonged trial, the judge who had the ability to grant special promotions to the respondents, the promotion is not included in the category.
 
 ...
 
 [Data](articles/60f3ce7d.json)
+
+[Extended Data](ext_articles/60f3ce7d.ext.json)
 
 ---
 
@@ -2221,25 +2257,5 @@ Already 10 permits have been given to those who met the criteria. (Colombo/July2
 [Data](articles/34527584.json)
 
 [Extended Data](ext_articles/34527584.ext.json)
-
----
-
-### 2024 Presidential Election to be held on September 21
-
-*2024-07-26 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100777/2024-presidential-election-to-be-held-on-september-21) · `en`
-
-The Election Commission of Sri Lanka has issued the Gazette notification announcing the date of the 2024 Presidential Election and the date for the accepting of nominations.
-
-Accordingly, the Presidential Election will be held on 21 September, 2024 and Nominations will be accepted on 15 August 2024, according to the Gazette notification.
-
-The Gazette states that the term of the President expires on November 17, 2024 and, that the poll for the election of the President shall be taken not less than one month and not more than two months before the expiration of the term of office of the President in office, as stipulated in Article 31 (3) of the Constitution.
-
-Thereby, the Election Commission declares 15th August 2024 as the date of nomination of candidates for the Election of the President and the office of the Election Commission in Rajagiriya, as the place of nomination of candidates for the said election.
-
-...
-
-[Data](articles/5cee89bf.json)
-
-[Extended Data](ext_articles/5cee89bf.ext.json)
 
 ---

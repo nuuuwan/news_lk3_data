@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 14:54:54**
+As of **2024-07-26 15:05:37**
 
 ## Newspaper Stats
 
-*Scraped **37,401** Articles*
+*Scraped **37,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ dbsjeyarajcom | 327
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,133
+islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,406
 adaderanalk | 4,329
-tamilmirrorlk | 4,609
+tamilmirrorlk | 4,610
 dailymirrorlk | 4,733
 virakesarilk | 5,876
 adaderanasinhalalk | 6,275
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,275
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,401 (100.0%) of 37,401 articles have been extended.
+37,401 (100.0%) of 37,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### சரத் கீர்த்திரத்ன கட்டுப்பணத்தை செலுத்தினர்
+
+*2024-07-26 14:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-கீர்த்திரத்ன-கட்டுப்பணத்தை-செலுத்தினர்/175-341078) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிடுவதற்காக முன்னாள் பாராளுமன்ற உறுப்பினர் சரத் கீர்த்திரத்ன கட்டுப்பணத்தை வௌ்ளிக்கிழமை (26) காலை செலுத்தினார்.
+
+இம்முறை ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கான உறுதிமொழியை சமர்ப்பித்த முதலாவது வேட்பாளர் கடந்த ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிட்டவர்.
+
+◼️
+
+[Data](articles/ae728905.json)
+
+---
 
 ### El Cano arrested for headaches to America
 
@@ -1744,6 +1758,20 @@ The Sri Lanka Retailer’s Association (SLRA) held its 7th Annual General Meetin
 
 ---
 
+### Litro Gas Lanka holds Long Service Award ceremony
+
+*2024-07-26 05:46:00* · [`islandlk`](http://island.lk/litro-gas-lanka-holds-long-service-award-ceremony/) · `en`
+
+Litro Gas Lanka Limited, Sri Lanka’s leading LPG provider, celebrated its Long Service Award Ceremony 2024, honoring the dedication and commitment of its employees. The ceremony, held at the recently commissioned state-of-the-art refurbished and upgraded Litro storage and bottling facility in Mabima, was graced by the presence of Chairman & CEO Muditha Peiris and recognized employees for their remarkable service.
+
+The event saw employees who had completed their services from 10 to 30 years at Litro Gas Lanka being felicitated. This celebration aligns with the theme of World LPG Day 2024, “Showcasing and Celebrating the People Behind LPG,” highlighting the vital contributions of these employees who have been instrumental in driving Litro Gas’s success and commitment to energy security, social transformation, and economic growth.
+
+...
+
+[Data](articles/8d955fac.json)
+
+---
+
 ### Investors’ presidential or parliamentary poll first quandary checks share trading momentum
 
 *2024-07-26 05:45:00* · [`islandlk`](http://island.lk/investors-presidential-or-parliamentary-poll-first-quandary-checks-share-trading-momentum/) · `en`
@@ -2123,51 +2151,5 @@ The YJA in its petition had maintained that the nomination of Thennakoon was unc
 [Data](articles/5bd9ce71.json)
 
 [Extended Data](ext_articles/5bd9ce71.ext.json)
-
----
-
-### Cabinet Sub -Committee Report to the President
-
-*2024-07-26 02:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-உபகுழு-அறிக்கை-ஜனாதிபதியிடம்/175-341054) · `ta`
-
-The Cabinet Subcommittee, chaired by Minister Kanjana Wijesekera, submitted its report to President Ranil Wickremesinghe on enhancing RAMIS usage. The committee, including Ministers Trun Ales and Naleen Fernando, was tasked with making recommendations on improving the Revenue Administrative Management Information System.
-
-🟩
-
-The report of the Cabinet Subcommittee appointed to make recommendations on how to effectively use the Revenue Administrative Management Information System was handed over to President Ranil Wickremesinghe at the Presidential Office.
-
-As Minister of Finance, Economic Services and National Policy, President Ranil Wickremesinghe on April 8, 2024, under the Cabinet paper on 24/0696/604/079 on the Revenue Administrative Management System (RAMIS)Appointed.
-
-Ministers Trun Ales and Naleen Fernando were appointed as members of the sub -committee headed by Minister of Power and Energy Kanjana Wijesekera.. (A)
-
-◼️
-
-[Data](articles/1f3da841.json)
-
-[Extended Data](ext_articles/1f3da841.ext.json)
-
----
-
-### Can't allow the legalization of the model
-
-*2024-07-26 01:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமாக்குவதை-அனுமதிக்க-முடியாது/175-341053) · `ta`
-
-Vijitha Herath opposes IMF conditions, citing potential bankruptcy. The Elections Commission's delay in announcing the presidential election raises public doubt. The 22nd Amendment's presentation also sparks uncertainty. Despite economic challenges, Herath argues against adhering to IMF advice, emphasizing the need for swift election decisions to maintain trust among citizens.
-
-🟩
-
-JVP parliamentarian Vijitha Herath said that the IMF's conditions can never be allowed.
-
-He was speaking at a debate on the Economic Transfer Bill held in Parliament on Thursday (25).
-
-The Elections Commission is reportedly postponing the announcement of the presidential election. Thus people will have doubts about elections. At the same time, the 22nd Amendment is said to be presented in Parliament. As well as more people may have doubts. People are waiting for election soon. We demand that the decisions be made accordingly.
-
-Meanwhile, the agreement with the IMF, the country does not have to act on their condition and advice. He said the country has become bankrupt.
-
-◼️
-
-[Data](articles/cb6484ef.json)
-
-[Extended Data](ext_articles/cb6484ef.ext.json)
 
 ---

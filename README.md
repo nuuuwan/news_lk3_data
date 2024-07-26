@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 09:35:56**
+As of **2024-07-26 09:55:16**
 
 ## Newspaper Stats
 
-*Scraped **37,337** Articles*
+*Scraped **37,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,395
-adaderanalk | 4,318
+adaderanalk | 4,319
 tamilmirrorlk | 4,602
 dailymirrorlk | 4,733
 virakesarilk | 5,862
-adaderanasinhalalk | 6,261
+adaderanasinhalalk | 6,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,330 (100.0%) of 37,337 articles have been extended.
+37,337 (100.0%) of 37,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### අගමැතිගේ විශේෂ ප්‍රකාශය ඇරඹෙයි
+
+*2024-07-26 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199222) · `si`
+
+ඒ අනුව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අද පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකරයි.
+
+◼️
+
+[Data](articles/0de12e8c.json)
+
+---
+
+### Presidential Election: Bonds placed for Ranil to contest as independent candidate
+
+*2024-07-26 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100782/presidential-election-bonds-placed-for-ranil-to-contest-as-independent-candidate) · `en`
+
+President’s Counsel Ronald Perera has placed bonds on behalf of President Ranil Wickremesinghe as an independent candidate for the forthcoming Presidential Election.
+
+He had placed the deposit this morning (26) at the Election Commission Office in Rajagiriya.
+
+The Election Commission announced that the deposit money for the 2024 Presidential Election can be deposited from 8.30 am today (26) until 12 noon on August 14, the day before the calling of nominations for the election.
+
+Accordingly, a candidate nominated by a recognized political party is required to deposit a sum of Rs. 50,000 in legal tender while a candidate nominated by any other political party or by an elector is required to deposit a sum of Rs. 75,000.
+
+Meanwhile, the Election Commission of Sri Lanka today also issued the Gazette notification announcing the date of the 2024 Presidential Election and the date for the accepting of nominations.
+
+...
+
+[Data](articles/0cdea40a.json)
+
+---
+
+### සරත් කීර්තිරත්න ඇප මුදල් තැන්පත් කරයි
+
+*2024-07-26 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199221) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා ඉදිරිපත් වෙන ස්වාධීන අපේක්ෂකයෙකු මේ වනවිට ඇප මුදල් තැන්පත් කර ඇති බව වාර්තා වෙයි.
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී සරත් කීර්තිරත්න මහතා ඉදිරි ජනාධිපතිවරණයේ ස්වාධීන අපේක්ෂකයෙකු ලෙස එලෙස ඇප මුදල් තැන්පත් කර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/b160833c.json)
+
+---
+
+### රනිල් ස්වාධීන අපේක්ෂකයෙකු ලෙස ඇප තැන්පත් කරයි
+
+*2024-07-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199220) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 2024 ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත්වීමට නියමිත බව වාර්තා වෙයි.
+
+ඔහු වෙනුවෙන් ජනාධිපති නීතිඥ රොනල්ඩ් සී. පෙරේරා මහතා ඇප මුදල් තැන්පත් කර තිබේ.
+
+අද (26) පෙරවරුවේ මැතිවරණ කොමිෂන් සභාව වෙත පැමිණි ඔහු රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් ඇප මුදල් තැන්පත් කළ බව වාර්තා විය.
+
+◼️
+
+[Data](articles/7bc52a40.json)
+
+---
 
 ### Woman injured in Grandpass shooting also dies
 
@@ -47,6 +109,8 @@ The woman, who was in critical condition, has succumbed to her injuries this mor
 ◼️
 
 [Data](articles/53493ae3.json)
+
+[Extended Data](ext_articles/53493ae3.ext.json)
 
 ---
 
@@ -68,21 +132,29 @@ Accordingly, the Presidential Election will be held on 21 September, 2024 and No
 
 [Data](articles/b38e890e.json)
 
+[Extended Data](ext_articles/b38e890e.ext.json)
+
 ---
 
-### தேர்தல்கள் ஆணைக்குழுவின் அதிவிசேட வர்த்தமானி அறிவிப்பு
+### Elections Commission's Extraordinary Gazette Notification
 
 *2024-07-26 09:01:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழுவின்-அதிவிசேட-வர்த்தமானி-அறிவிப்பு/175-341062) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கான திகதி அறிவிக்கப்பட்ட நிலையில், தேர்தல்கள் ஆணைக்குழு அதிவிசேட வர்த்தமானி அறிவத்தல் ஒன்றை வௌியிட்டுள்ளது.
+The Election Commission's gazette notification sets the deadline for presidential candidates to submit their nominations by August 14th. Candidates must pay 50,000 rupees if nominated by a political party, or 75,000 rupees if nominated by another party or as an independent voter.
 
-குறித்த வர்த்தமானி அறிவித்தலில் இன்று முதல் எதிர்வரும் ஓகஸ்ட் மாதம் 14 ஆம் திகதி நண்பகல் 12 மணிக்கு இடைப்பட்ட காலப்பகுதியில் ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்கள் தமது கட்டுப்பணத்தை வைப்பிலிட  முடியும் என அறிவிக்கப்பட்டுள்ளது.
+🟩
 
-அதன்படி,   வேட்பாளர் அங்கீகரிக்கப்பட்ட அரசியல் கட்சியொன்றினால் பெயர் குறித்து நியமனம் செய்யப்பட்ட வேட்பாளராயின் 50 ஆயிரம் ரூபாவும், வேறொரு அரசியல் கட்சியினால் அல்லது வாக்காளர் ஒருவரினால் பெயர் குறித்து நியமனம் செய்யப்பட்ட வேட்பாளராயின் 75 ஆயிரம் ரூபாவும் கட்டுப்பணமாக செலுத்தப்பட வேண்டும். R
+With the date of the presidential election, the Election Commission has issued an excellent gazette.
+
+The gazette announcement has been announced that candidates contesting the presidential election will be able to deposit their control over the 14th of August.
+
+Accordingly, the candidate should be paid 50 thousand rupees of the name of the nomination by a political party and 75 thousand rupees of the name of the nomination by another political party or a voter.. Remble
 
 ◼️
 
 [Data](articles/08ca6587.json)
+
+[Extended Data](ext_articles/08ca6587.ext.json)
 
 ---
 
@@ -100,19 +172,27 @@ The relevant Gazette notification issued in this regard states the following:
 
 [Data](articles/18febb58.json)
 
+[Extended Data](ext_articles/18febb58.ext.json)
+
 ---
 
-### பொலிஸ்மா அதிபர் சர்ச்சை குறித்து ஜனாதிபதியின் திடீர் அறிிவிப்பு
+### President's sudden announcement of police chief controversy
 
 *2024-07-26 08:48:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-சர்ச்சை-குறித்து-ஜனாதிபதியின்-திடீர்-அறிிவிப்பு/175-341061) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தல் காலப் பகுதியில் இரண்டு வாரங்களுக்கு ஒரு முறை பதில் பொலிஸ்மா அதிபரை நியமிக்க நேரிடும் போது, அதனை முன்னிலைப்படுத்தி தனக்கு எதிராக தேர்தல் மனுக்கள் தாக்கல் செய்யப்பட்டக்கூடும் என ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு சட்ட ஆலோசனை கிடைத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+President Ranil Wickremesinghe, facing potential election petitions, plans to avoid appointing a police chief during a crucial two-week period before the presidential election. He has informed Speaker Mahinda Yapa Abeywardena of his decision.
 
-இதன்படி, இந்த விடயத்தில் தலையீடு செய்வதை தான் தவிர்த்து கொள்வதாக ஜனாதிபதி ரணில் விக்ரமசிங்க, சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவிற்கு அறிவித்துள்ளார். R
+🟩
+
+It is reported that President Ranil Wickremesinghe has received legal advice that the election petitions may be filed against him when he will appoint a police chief in response to a two -week period in the upcoming presidential election period.
+
+Accordingly, President Ranil Wickremesinghe has informed Speaker Mahinda Yapa Abeywardena that he will avoid the intervention on the issue.. Remble
 
 ◼️
 
 [Data](articles/604b5161.json)
+
+[Extended Data](ext_articles/604b5161.ext.json)
 
 ---
 
@@ -286,6 +366,18 @@ Thereafter the 32-year-old K. G. R. The woman died last night, while the woman w
 
 ---
 
+### Monks driven from pillar to post with Mahanayakas pandering to politicians
+
+*2024-07-26 06:23:00* · [`islandlk`](http://island.lk/monks-driven-from-pillar-to-post-with-mahanayakas-pandering-to-politicians/) · `en`
+
+...
+
+[Data](articles/976eb35b.json)
+
+[Extended Data](ext_articles/976eb35b.ext.json)
+
+---
+
 ### Showers in some parts
 
 *2024-07-26 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199213) · `si`
@@ -394,6 +486,20 @@ Accordingly, the market was a bit inactive and both indices moved downwards. The
 
 ---
 
+### Kingslake elevated to Infor’s Gold Partnership status
+
+*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/kingslake-elevated-to-infors-gold-partnership-status/) · `en`
+
+Kingslake, a leading provider of enterprise software solutions, has achieved Gold Partnership status with Infor, a global leader in business cloud software products for industry-specific markets. Achieving this milestone reflects a proven track record of successful implementations and satisfied clients, demonstrating Kingslake’s commitment to maintaining high standards of service delivery. This accomplishment significantly enhances Kingslake’s capacity to implement and service cutting-edge Infor solutions, including Infor WMS and Infor SyteLine ERP, to its customers.
+
+...
+
+[Data](articles/58d5d48e.json)
+
+[Extended Data](ext_articles/58d5d48e.ext.json)
+
+---
+
 ### Cable Solutions IPO oversubscribed on opening day
 
 *2024-07-26 05:45:00* · [`islandlk`](http://island.lk/cable-solutions-ipo-oversubscribed-on-opening-day/) · `en`
@@ -411,20 +517,6 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/5cda86ce.json)
 
 [Extended Data](ext_articles/5cda86ce.ext.json)
-
----
-
-### Kingslake elevated to Infor’s Gold Partnership status
-
-*2024-07-26 05:42:00* · [`islandlk`](http://island.lk/kingslake-elevated-to-infors-gold-partnership-status/) · `en`
-
-Kingslake, a leading provider of enterprise software solutions, has achieved Gold Partnership status with Infor, a global leader in business cloud software products for industry-specific markets. Achieving this milestone reflects a proven track record of successful implementations and satisfied clients, demonstrating Kingslake’s commitment to maintaining high standards of service delivery. This accomplishment significantly enhances Kingslake’s capacity to implement and service cutting-edge Infor solutions, including Infor WMS and Infor SyteLine ERP, to its customers.
-
-...
-
-[Data](articles/58d5d48e.json)
-
-[Extended Data](ext_articles/58d5d48e.ext.json)
 
 ---
 
@@ -513,18 +605,6 @@ The Company Revenue of Rs. 1,340 million at the World Trade Center, Colombo, was
 [Data](articles/73e733b3.json)
 
 [Extended Data](ext_articles/73e733b3.ext.json)
-
----
-
-### Monks driven from pillar to post with Mahanayakas pandering to politicians
-
-*2024-07-26 02:42:00* · [`islandlk`](http://island.lk/monks-driven-from-pillar-to-post-with-mahanayakas-pandering-to-politicians/) · `en`
-
-...
-
-[Data](articles/976eb35b.json)
-
-[Extended Data](ext_articles/976eb35b.ext.json)
 
 ---
 
@@ -1400,19 +1480,25 @@ When Sri Lanka Development Bonds were repaid in rupees without a haircut, the ce
 
 ---
 
-### මනූෂට හා හරීන්ට එරෙහිව අල්ලස් කොමිෂමට  පැමිණිල්ලක්
+### Complaint to the Bribery Commission against Manusha and Harins
 
 *2024-07-25 19:20:55* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂට-හා-හරීන්ට-එරෙහිව-අල්ලස්-කොමිෂමට--පැමිණිල්ලක්/11-411005) · `si`
 
-ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු හා කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර යන මහත්වරුන්ට එරෙහිව පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ වසන්ත යාපා බණ්ඩාර මහතා විසින් ඊයේ (25දා) පෙරවරුවේ අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇත.
+Harin Fernando and Manusha Nanayakkara, Sri Lanka's Sports and Labor Ministers, have filed a bribery complaint with the Bribery Commission. They are accused of planning to misuse state funds and resources for the upcoming presidential election, including organizing music events with foreign artists.
 
-ඒ ඔවුන් දෙදෙනා ඉදිරි ජනාධිපතිවරණය ඉලක්ක කරගෙන රාජ්‍ය දේපළ සහ මුදල් අනිසි ලෙස වියදම් කරමින් රට පුරා සංගීත සංදර්ශන සහ උත්සව පවත්වමින් අනියමින් මැතිවරණ ප්‍රචාරණ කටයුතු සිදු කරන බවට චෝදනා කරමිනි.
+🟩
 
-අමාත්‍ය හරීන් ප්‍රනාන්දු ඉදිරි ජනාධිපතිවරණය ඉලක්ක කොට ගනිමින් තරුණ සේවා සභාවේ මුදල් නාස්තිකාර ලෙස වියදම් කරමින්, වාර්ෂික සැලැස්මද පසෙක ලා රට පුරා විවිධ සංගීත ප්‍රසංග පවත්වමින්, විදේශ ගායක ගායිකාවන්ට මිලියන ගණන් මුදල් වියදම් කරමින් ඉදිරි මැතිවරණයේදී තම අපේක්ෂකයා ජයග්‍රහණය කරවීමේ මැතිවරණ ප්‍රචාරණ ක්‍රියාවලියක් සිදු කරන බවට මන්ත්‍රීවරයා මෙහිදී චෝදනා කර තිබේ.
+Minister of Sports, Harin Fernando and Labor and Foreign Employment Minister Manusantha Nanayakkara has lodged a complaint with the Bribery or Corruption Commission (25).
+
+They allegedly speaking in the next presidential election and misuse of state property and money misuse of state property and festivals across the country.
+
+Minister Harin Fernando, as a waste of millions of millions of millions of millions of millions of millions of foreign singers, is conducting various musicals at the next election, targeting the next presidential election, conducting various musicals in the next election, spending millions of foreign singers as well as spending millions of foreign singers.Has been accused.
 
 ◼️
 
 [Data](articles/2f794733.json)
+
+[Extended Data](ext_articles/2f794733.ext.json)
 
 ---
 
@@ -1490,21 +1576,27 @@ Police are conducting investigations by detaining the arrested youth at the Chav
 
 ---
 
-### සමරිසි පනතට කාදිනල් හිමිගේත් විරෝධය
+### Cardinal Thera has objected to the Samarisi Act
 
 *2024-07-25 18:59:07* · [`adalk`](https://www.ada.lk/breaking_news/සමරිසි-පනතට-කාදිනල්-හිමිගේත්-විරෝධය/11-411003) · `si`
 
-සමරිසි අයිතිවාසිකම් පනත් කෙටුම්පත සහ කාන්තා අයිතිවාසිකම් පිළිබඳ පනත් කෙටුම්පත වැරදි ක්‍රමවේද අනුගමනය කරමින් ඉදිරිපත් කර ඇති බවත්, ඒ අනුව මේ හරහා සමාජයේ පළමු අත්තිවාරම වන පවුල දෙදරයා යාමට ඉඩ හැරීම රට විනාශ වීමට හේතු විය හැකි බවත් කොළඹ අගරදගුරැ අති උතුම් මැල්කම් කාදිනල් රංජිත් හිමිපානන් පැවැසූහ.
+Cardinal Thera and Archbishop Ranjith oppose the Samarisi Act and related bills, arguing they threaten traditional family structures and societal foundations. They argue these laws, aimed at promoting equality and human rights, are misguided and could lead to societal disruption. The religious leaders emphasize the importance of protecting traditional family values across religions and caution against the potential misuse of these laws to promote practices like abortion, which they view as contrary to their beliefs.
 
-ඒ අනුව මෙම පනත් කෙටුම්පත් සම්මත වීමට ඉඩ ලබා දිය නොහැකි බව අද (25දා) කොළඹ අගරදගුරැ මැදුරේ ජාතික සමගි සඳහා වූ ආගමික සන්ධානය කැඳවා තිබූ මාධ්‍ය හමුකට එක්වෙමින් උන්වහන්සේ මේ බව සඳහන් කළහ.
+🟩
 
-මෙම අවස්ථාවට බෞද්ධ, හින්දු, ඉස්ලාම්, කතෝලික සහ ක්‍රිස්තියානි ආගමිනක නායකයන්ගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+The Colombo Archbimcode Ranjith also said that the first foundation of the family, the first foundation of the society, could lead to the destruction of the family, the first foundation of the society.
 
-"දොලවත්ත මහත්මයා ඉදිරිපත්පත් කළ පනත පිළිබඳ සහ ඒ සමගම රජය විසින් ඉදිරිපත් කරන්න සැලසුම් කර තිබෙන කාන්තා අයිතිවාසිකම් පිළිබඳ පනත යන පනත් දෙකෙන්ම ඒවගේ කරැණු පැහැදිලි කරගෙන යද්දි ඉතාමත් භයානක තත්ත්වයක් ශ්‍රී ලංකාව තුළ නිර්මාණය කරන්නට පියවර තබමින් සිටින බව පෙනී යනවා.
+He was speaking at a press conference for the National Unity for National Unity in Colombo today (25) that these bills cannot be allowed to be passed.
+
+The event was held under the patronage of Buddhist, Hindu, Islam, Catholic and Christianity leaders.
+
+"When Mr. Dolawatta is the one who is planned to be presented by the National Act and the Women's Rights Act and the Women's Rights Act, which is scheduled to be made, it appears to be created in Sri Lanka.
 
 ...
 
 [Data](articles/e4b73cd4.json)
+
+[Extended Data](ext_articles/e4b73cd4.ext.json)
 
 ---
 
@@ -2099,99 +2191,5 @@ According to the Supreme Court ruling, the Senior Minister of the Government sai
 [Data](articles/263f27a4.json)
 
 [Extended Data](ext_articles/263f27a4.ext.json)
-
----
-
-### Petition against Nilantha Jayawardena will be will be postponed to file protests
-
-*2024-07-25 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199203) · `si`
-
-The Court of Appeal has granted the Attorney General time until October 9 to file protests against Nilantha Jayawardena, formerly of the Chief Intelligence Service. This follows a petition by terrorists related to the Passover incident, which was discussed in court today.
-
-🟩
-
-The Court of Appeal has paid up to the Attorney General to file protests against the former Chief Intelligence Service to be taken against Nilantha Jayawardena.
-
-That is about the petition filed by the terrorists on the Passover, the terrorist influence on the incident.
-
-The petition was called before the Court of Appeal this petition today (25) before the Sobhitha Rajakulana.
-
-The State Counsel appearing on behalf of the Attorney General asked to pay a date to file protests.
-
-Accordingly, the Court has previously paid up to October 9 to file the protests.
-
-◼️
-
-[Data](articles/47ff13f1.json)
-
-[Extended Data](ext_articles/47ff13f1.ext.json)
-
----
-
-### FAO warns of rising avian flu across Asia-Pacific, calls for regional action
-
-*2024-07-25 16:42:00* · [`economynextcom`](https://economynext.com/fao-warns-of-rising-avian-flu-across-asia-pacific-calls-for-regional-action-173786/) · `en`
-
-ECONOMYNEXT – The United Nations Food and Agriculture Organization (FAO) has called for urgent regional efforts to combat a rise in avian influenza cases across the Asia-Pacific region.
-
-The appeal follows a meeting of regional experts in Bangkok, supported by the United States Agency for International Development (USAID) and the Centers for Disease Control and Prevention (CDC).
-
-“Recent developments are alarming. After a prolonged period of minimal human infection, 13 new human cases have been reported in Cambodia, with additional cases in China and Viet Nam since late 2023,” the FAO said in a statement.
-
-“The situation is further complicated by the emergence of a new variant of avian influenza, presenting new challenges for scientists, public health authorities, clinicians and communities alike.”
-
-The FAO said the highly pathogenic avian influenza H5N1 virus has spread more widely geographically than before, reaching as far as South America and Antarctica.
-
-...
-
-[Data](articles/bfedbfa5.json)
-
-[Extended Data](ext_articles/bfedbfa5.ext.json)
-
----
-
-### 22% of Sri Lankan households in debt due to economic crisis - survey
-
-*2024-07-25 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100769/22-of-sri-lankan-households-in-debt-due-to-economic-crisis-survey) · `en`
-
-Approximately 22 percent of household units in Sri Lanka are in debt due to the recent economic crisis, according to Department of Census and Statistics.
-
-The department points out that the average monthly income of 60.5 percent of the total household units have decreased.
-
-The information has been revealed according to the 2023 report of the ‘Household survey on Impact of Economic crisis’.
-
-According to Department of Census and Statistics, 54.9 percent of people aged between 03 and 21 years have been affected by the economic crisis and 93.5 percent of them have adopted strategies to reduce the impact.
-
-Due to the impact of the economic crisis, 14.2 percent of people over the age of 15 years have suffered job loss since March 2022, and it is reported that the percentage of job losses is higher for males compared to female.
-
-...
-
-[Data](articles/7457f61a.json)
-
-[Extended Data](ext_articles/7457f61a.ext.json)
-
----
-
-### Opposition is happy with an interim injunction for the Inspector General of Police: Prasanna Ranatunga
-
-*2024-07-25 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189366) · `ta`
-
-Opposition parties criticize the appointment of the Inspector General of Police, Tennakoon, over a strategy plan. They allege the government, led by Prime Minister Korada Prasanna Ranatunga, is trying to undermine the judiciary through the 21st Amendment. The Supreme Court has issued interim injunctions against the government's actions, including ones related to plantation workers and local government councils. However, the opposition focuses on the police chief's appointment, suggesting it's linked to the underworld's influence, highlighting their inability to accept the dissolution of such groups.
-
-🟩
-
-Opposition parties have questioned the appointment from the day of the appointment of the Tennakoon Police Inspector. This is due to the implementation of the strategy plan, ”said the ruling party's prime minister Korada Prasanna Ranatunga.
-
-In response, the opposition, the president, the cabinet and the government are trying to create a position among the people to make efforts to inconvenience the court.
-
-Everyone must clearly understand that the president has brought the 21st Amendment to the Amendment and takes action to independent the court. The cabinet and the government respects it.
-
-Meanwhile, the Supreme Court yesterday issued three interim injunctions. If necessary, it can intervene and stop it by the government. An interim injunction was issued on the Gazette of Plantation Workers and Local Government Council.
-
-...
-
-[Data](articles/3f5bd337.json)
-
-[Extended Data](ext_articles/3f5bd337.ext.json)
 
 ---

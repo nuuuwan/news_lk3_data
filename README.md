@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 01:05:55**
+As of **2024-07-27 01:20:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,485 (100.0%) of 37,491 articles have been extended.
+37,491 (100.0%) of 37,491 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -242,41 +242,55 @@ The three-month initiative aims to enhance skills of sales staff, executives, an
 
 ### 2024-07-26 (Friday)
 
-### கைப்பேசியை திருடிய குற்றச்சாட்டின் கீழ் இருவர் கைது!
+### Two arrested for stealing cell phone
 
 *2024-07-26 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189487) · `ta`
 
-கைப்பேசியை திருடிய ஒருவரும் அதனை வாங்கிய ஒருவரும் 25ஆம் திகதி வெள்ளிக்கிழமை பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two individuals were arrested on July 25th for stealing and selling a cell phone worth Rs 76,000. The theft occurred on July 14th when an officer's phone was stolen from the Kannaditi area. The suspects were identified through CCTV footage and apprehended as they attempted to sell the phone. One suspect resides in the Chavakachcheri area, while the other is from Munga. Both will be brought before the Jaffna court for further proceedings.
 
-யாழ். மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகர்  சூரிய பண்டார அவர்களுக்கு கீழ் இயங்கும், யாழ். மாவட்ட பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலில் அடிப்படையில் 25ஆம் திகதி வெள்ளிக்கிழமை காலை தொலைபேசியுடன் இருவர் கைது  செய்யப்பட்டுள்ளனர்.
+🟩
 
-கன்னாதிட்டி பகுதியில் 14/07/2024 அன்று சமுர்த்தி அலுவலகத்தில் பணிபுரியும் உத்தியோகத்தரது தொலைபேசியானது வீதியில் தவறுதலாக விழுந்த நிலையில் அந்த இடத்தில்  நின்றவர் அதனை எடுத்து சென்றுவிட்டார்.
+A man who stole the cell phone and a buyer has been arrested by the police on Friday 25th.
 
-குறித்த உத்தியோகத்தர் சிறிது தூரம் சென்று பார்த்த பொழுது தொலைபேசியை காணவில்லை. மறுபடியும் அந்த இடத்திற்கு வந்து தேடிய பொழுது தொலைபேசி கிடைக்கவில்லை. பின்னர் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டது.
+Yall. District Senior Superintendent of Police Surya Bandara. Two persons were arrested on Friday morning on the 25th of this morning based on confidential information available to the District Police Intelligence Unit.
 
-இந்நிலையில் யாழ்ப்பாண மாவட்ட பொலிஸ் புலனாய்வு பிரிவினர் cctv  கமரா உதவியுடன் குறித்த நபரை இனம் கண்டனர். அந்தவகையில் குறித்த நபர் வீதியில் நடமாடுவதாக  மாவட்ட பொலிஸ் புலனாய்வு பிரிவினருக்கு தகவல் கிடைக்கப் பெற்றது.
+On 14/07/2024 in the Kannaditi area, the telephone of the officer working in the Samurdhi office fell on the street.
+
+When the officer went a little farther, the phone was missing. When you came back to the place, the phone was not available. The complaint was later lodged at the police station.
+
+In this case, the Jaffna District Police Intelligence Unit found the person with the help of CCTV Camera. The district police intelligence unit received information that the person was walking on the road.
+
+The police arrested him and investigated him. He said that he sold the cell phone to another. The police then arrested the man who bought the cell phone with the cell phone.
 
 ...
 
 [Data](articles/2a5f0b2a.json)
 
+[Extended Data](ext_articles/2a5f0b2a.ext.json)
+
 ---
 
-### வெடுக்குநாறி ஆலய பூசகரிடம் பயங்கரவாத புலனாய்வு பிரிவு விசாரணை
+### Terrorist Investigation Division Investigations
 
 *2024-07-26 23:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189486) · `ta`
 
-வவுனியா வெடுக்குநாறி ஆதி லிங்கேஸ்வரர் ஆலயத்தின் பூசகரான மதிமுகராசாவை பயங்கரவாத புலனாய்வு பிரிவின் வவுனியா அலுவலகத்தினர் விசாரணைக்கு உட்படுத்தியுள்ளனர்.
+The priest of the Adi Lingeshwarar Temple in Vavuniya visited the local Terrorism Intelligence Unit office for questioning regarding the Vedukkunni Temple. This visit comes after the priest was previously arrested and released amid a dispute involving the temple and the police during the Shivaratri celebration.
 
-25ஆம் திகதி வெள்ளிக்கிழமை வவுனியாவில் அமைந்துள்ள பயங்கரவாத புலனாய்வு பிரிவுக்கு வருமாறு கிராம சேவையாளர் ஊடாக விடுக்கப்பட்ட அழைப்பின் பிரகாரம் மதிமுகராசா பயங்கரவாத புலனாய்வு பிரிவின் வவுனியா அலுவலகத்திற்கு சென்று இருந்தார்.
+🟩
 
-அங்கு கடும் விசாரணைகள் இடம் பெற்றதோடு வெடுக்குநாறி ஆலயம் தொடர்பான பல்வேறு விடயங்களும் அவரிடம் வினாவப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+The Vavuniya Office of the Terrorism Intelligence Unit has been investigated by the priest of the Adi Lingeshwarar Temple in Vavuniya.
 
-கடந்த சிவராத்திரி தினத்தில் வெடுக்குநாறி ஆதி லிங்கேஸ்வரர் ஆலயத்தில் பூஜை வழிபாட்டின் போது பொலிசாருக்கும் பொதுமக்களுக்கும் இடையில் பெரும் சர்ச்சை ஏற்பட்ட நிலையில் பொலீசாரால் கைது செய்யப்பட்டு நீதிமன்றத்தால் விடுவிக்கப்பட்டவர்களில் ஆலய பூசகரும் உள்ளடங்கியிருந்தமை குறிப்பிடத்தக்கது.
+On Friday, the 25th, Madhimukarasa had visited the Vavuniya office of the Terrorist Investigation Unit of the Terrorism Intelligence Unit to come to the Terrorist Intelligence Unit located in Vavuniya on Friday the 25th.
+
+It is reported that he was questioned by various issues relating to the Vedukkunni Temple.
+
+It is noteworthy that the temple priest was among those who were arrested by the police and released by the court during a controversy between the police and the public during the worship of the Adi Lingeshwarar Temple at the Adi Lingeshwarar Temple on the last Shivaratri day.
 
 ◼️
 
 [Data](articles/f452bc5e.json)
+
+[Extended Data](ext_articles/f452bc5e.ext.json)
 
 ---
 
@@ -344,19 +358,25 @@ On the sidelines of the consultations, the Foreign Secretary is scheduled to cal
 
 ---
 
-### கிளிநொச்சியிலிருந்து காதலியைப் பார்ப்பதற்கு யாழ். வந்த இளைஞர் வாள் வெட்டுக்கு இலக்கு!
+### Jaffna to see the lover from Kilinochchi. Target for the youth sword cut!
 
 *2024-07-26 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189485) · `ta`
 
-கிளிநொச்சி - ஜெயபுரம் பகுதியில் வசிக்கும் இளைஞர் ஒருவர் யாழ்ப்பாணத்தில் உள்ள காதலியை 25ஆம் திகதி வெள்ளிக்கிழமை பார்க்க வந்த நிலையில் வன்முறை கும்பல் ஒன்றினால் வாள் வெட்டுக்குப் இலக்காகிய நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+A young man from Kilinochchi was attacked with a sword by a gang in Jaffna on Friday, 25th, after being abducted near Kopay. He was later found and treated at the Jaffna Teaching Hospital. Investigations are ongoing by the Chunnakam police.
 
-குறித்த இளைஞர் 25ஆம் திகதி வெள்ளிக்கிழமை யாழ்ப்பாணம் கோப்பாய் பகுதிக்கு வந்த வேளை காலை 11 மணியளவில் கும்பல் ஒன்றினால் கடத்தப்பட்டுள்ளார். இவ்வாறு கடத்தப்பட்ட இளைஞர் சற்று முன்னர் வாள் வெட்டுக்கு இலக்காகிய நிலையில் மானிப்பாய் ஆலடிப்பகுதியில் வீசப்பட்டிருந்தார்.
+🟩
 
-அவரை மீட்ட பொலிசார் யாழ்ப்பாணம் போதானா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதித்துள்ளனர். இந்த தாக்குதல் சம்பவம் குறித்தான மேலதிக விசாரணைகளை சுன்னாகம் பொலிசார் மேற்கொண்டு வருகின்றமை குறிப்பிடத்தக்கது.
+A young man from Kilinochchi - Jayapuram area has been admitted to the Jaffna Teaching Hospital after a violent gang has been targeted by a sword cut by a violent gang on Friday 25th.
+
+The youth was abducted by a gang at 11 am when he arrived at the Kopay area in Jaffna on Friday the 25th.. The young man was thrown into the Aladipai Alady as the youth was targeted for a sword cut.
+
+The police have rescued him for treatment at the Jaffna Bodhana Hospital. It is noteworthy that the Chunnakam police are conducting further investigations into the attack.
 
 ◼️
 
 [Data](articles/42c87e0c.json)
+
+[Extended Data](ext_articles/42c87e0c.ext.json)
 
 ---
 
@@ -388,25 +408,39 @@ If there is one glaring failure of Sri Lanka’s 76 years of democratic experien
 
 [Data](articles/58b2f9cd.json)
 
+[Extended Data](ext_articles/58b2f9cd.ext.json)
+
 ---
 
-### ஒரு பந்து மீதமிருக்க பாகிஸ்தானை வீழ்த்தி இறுதிப் போட்டியில் இந்தியாவை எதிர்த்தாட இலங்கை தகுதிபெற்றது
+### Sri Lanka qualified to oppose India in the final by beating Pakistan in a ball
 
 *2024-07-26 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189484) · `ta`
 
-ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை இரவு மின்னொளியில் நடைபெற்ற மிகவும் பரபரப்பான மகளிர் ரி20 ஆசிய கிண்ண இரண்டாவது அரை இறுதிப் போட்டியில் ஒரு பந்து மீதமிருக்க 3 விக்கெட்களால் இலங்கை வெற்றியீட்டியது.
+In the Women's T20 Asian Cup, Sri Lanka beat Pakistan in the semis to reach the finals against India. Despite a tough start, Sri Lanka's Samari Athapathu and others fought back with crucial partnerships, especially with Athapathu scoring 63 runs. Pakistan, batting first, made 140/4; Gul Perosa and Muniba Ali contributed significantly but fell short. Sadia Iqbal starred with the ball for Sri Lanka, taking 4/16.
 
-இந்த வெற்றியை அடுத்து இந்தியாவுக்கு எதிராக ஞாயிற்றுக்கிழமை (28) இதே விளையாட்டரங்கில் நடைபெறவுள்ள இறுதிப் போட்டியில் விளையாட இலங்கை தகுதிபெற்றுக்கொண்டது.
+🟩
 
-பாகிஸ்தானினால் நிர்ணயிக்கப்பட்ட 141 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை மகளிர் அணி 19.5 ஓவர்களில் 7 விக்கெட்களை இழந்து 141 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+Sri Lanka won by 3 wickets in the second semi -final of the most exciting Women's T20 Asian Cup in the Dambulla International Cricket Stadium on Friday night.
 
-விஷ்மி குணரட்ன (0), ஹர்ஷிதா சமரவிக்ரம (19) ஆகிய இருவரும் ஆட்டம் இழக்க இலங்கை சிறு தடுமாற்றத்தை எதிர்கொண்டது. (19 - 2  விக்.)
+Following this victory, Sri Lanka qualified to play in the same playground on Sunday (28) against India.
 
-எனினும் அணித் தலைவி சமரி அத்தபத்துவும் கவிஷா டில்ஹாரியும் 3ஆவது விக்கெட்டில் 59 ஓட்டங்களைப் பகிர்ந்து அணிக்கு சிறு உற்சாகத்தைக் கொடுத்தனர்.
+The Sri Lankan women's team lost by 7 wickets in 19.5 overs with 141 runs.
+
+Vishmi Gunaratne (0) and Harshita Samarawickrama (19) faced a minor stumbling block to lose the game. (19 - 2 wig.)
+
+However, team captain Samari Athapathu and Kavisha Dilhari shared 59 runs in the 3rd wicket and gave a little excitement to the team.
+
+Meanwhile, wicketkeeper Muniba stump while Athapathu's hind leg. What a strange, Muniba escaped because he did not question.
+
+The highly anticipated Nilakshika Silva lost the game without the flow. (78 - 4 wig.)
+
+However, Samari Athapathu and Anushka Sanjeevani shared 42 runs in the 5th wicket.
 
 ...
 
 [Data](articles/686821f8.json)
+
+[Extended Data](ext_articles/686821f8.ext.json)
 
 ---
 
@@ -880,19 +914,29 @@ The former president of the Sri Lanka Lawyers Association, President of the Sri 
 
 ---
 
-### நிதி இராஜாங்க அமைச்சரின் குற்றச்சாட்டால்  எமது சிறப்புரிமை மீறப்பட்டுள்ளது -கலாநிதி ஹர்ஷ டி சில்வா
+### Our privilege has been violated by the Finance Minister's allegation -Harsha de Silva
 
 *2024-07-26 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189450) · `ta`
 
-வெளிநாட்டு சுற்றுலா பயணிகளுக்கு விசா விநியோகித்தல் விவகாரம் தொடர்பில் அரச நிதி தொடர்பான குழு சமர்ப்பித்த அறிக்கையின் உள்ளடக்கம் பொய்யானது என்று நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க முன்வைத்துள்ள குற்றச்சாட்டை முழுமையாக நிராகரிக்கிறேன்.இவரது குற்றச்சாட்டால் எனது சிறப்புரிமை மீறப்பட்டுள்ளது.ஆகவே உரிய நடவடிக்கைகளை முன்னெடுங்கள் என  அரச நிதி தொடர்பான குழுவின் தலைவர் கலாநிதி ஹர்ஷ டி சில்வா சபாநாயகரிடம் வலியுறுத்தினார்.
+Harsha de Silva rejects Finance Minister Sehan Semasinghe's claim about false statements on visa distribution to foreign tourists, calling it a violation of his privilege. He insists his committee's report complies fully with regulations and demands an investigation into the minister's accusations.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26)  இடம்பெற்ற அமர்வின் போது சிறப்புரிமை மீறல் பிரச்சினையை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-இலங்கைக்கு வருகைத் தரும் வெளிநாட்டு சுற்றுலா பயணிகளுக்கு விசா விநியோகிக்கும் விவகாரம் தொடர்பில் அரச நிதி தொடர்பான குழு பாராளுமன்றத்துக்கு சமர்ப்பித்த அறிக்கை தொடர்பில் நிதி இராஜாங்க அமைச்சர் கடந்த 23 ஆம் திகதி பாராளுமன்றத்தில் விசேட உரையாற்றினார்.குழுவின் உறுப்பினர்களின் அனுமதி இல்லாமல் நான் அறிக்கை சமர்ப்பித்துள்ளதால் குழுவின் 16 உறுப்பினர்களின் சிறப்புரிமை மீறப்பட்டுள்ளதாகவும் அவர் குற்றஞ்சாட்டியுள்ளார்.
+I am completely rejecting the allegation made by the Minister of State for Finance Sehan Semasinghe that the content of the State Finance Committee on the issue of visa distribution to foreign tourists has been false. My charge has been violated by his allegation.
 
-...
+He was speaking at the issue of privilege violation during a session on Friday (26) in Parliament.
+
+The Minister of State for Finance on the 23rd of this month, the Minister of State for Finance on the issue of visa distribution of visa to foreign tourists visiting Sri Lanka.
+
+I do not mention that the report will be submitted to the council in accordance with the Complete Compliance of the Committee.
+
+I completely dismiss the allegations made by the Minister of Finance. I also submit to the council, so I have violated my privilege of the Finance Committee due to the fundamental allegations of the Minister of Finance.
+
+◼️
 
 [Data](articles/5b606ff9.json)
+
+[Extended Data](ext_articles/5b606ff9.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 13:36:05**
+As of **2024-07-26 13:55:10**
 
 ## Newspaper Stats
 
-*Scraped **37,391** Articles*
+*Scraped **37,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,78 +15,126 @@ bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,244
 dailyftlk | 2,390
-adalk | 3,404
+adalk | 3,405
 adaderanalk | 4,327
 tamilmirrorlk | 4,608
 dailymirrorlk | 4,733
 virakesarilk | 5,875
-adaderanasinhalalk | 6,271
+adaderanasinhalalk | 6,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,387 (100.0%) of 37,391 articles have been extended.
+37,391 (100.0%) of 37,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### காரினை நிறுத்தி பணம், வாகனப் பதிவுப் புத்தகம் கொள்ளை - பொலிஸ் சார்ஜென்ட் கைது
+### ග්‍රෑන්ඩ්පාස් ද්විත්ව ඝාතන ගැන තවත් තොරතුරු
+
+*2024-07-26 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199230) · `si`
+
+ග්‍රෑන්ඩ්පාස්, වදුල්ලවත්ත ප්‍රදේශයේදී ඊයේ (25) පස්වරුවේ ඝාතනය කර තිබුණේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත ග්‍රෑන්ඩ්පාස් කුඩු සුනීතා හා ඇයගේ සහායකයාව බව පොලීසිය පවසයි.
+
+ඊයේ පස්වරු 5.50ට පමණ යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු විසින් වෙඩි ප්‍රහාර එල්ල කර තිබුණි.
+
+එහිදී අදාළ කාන්තාව හා ත්‍රීරෝද රථයේ රියදුරු බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කෙරුණි.
+
+ත්‍රීරෝද රථයේ රියදුරු එම අවස්ථාවේදීම මියගොස් තිබූ බව පසුව පොලීසිය පැවසීය.
+
+වෙඩි ප්‍රහාරයට ලක්වූ කාන්තාව දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී අද (26) අළුයම මියගොස් තිබුණි.
+
+පොලීසිය පැවසුවේ එලෙස ඝාතනයට ලක්වී ඇත්තේ, කේ. සුනීතා හෙවත් ග්‍රෑන්ඩ්පාස් කුඩු සුනීතා නම් කාන්තාවක් බවය.
+
+ඇය ප්‍රදේශයේ මහා පරිමාණයෙන් මත්ද්‍රව්‍ය ජාවාරම සිදුකර ඇති අතර යුක්තිය මෙහෙයුම ආරම්භවීමත් සමග සැඟව සිට ඇති බව පොලීසිය සඳහන් කළේය.
+
+ඇයට එරෙහිව මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් විභාග වන නඩු කිහිපයක් ද ඇති බවද වාර්තා වෙයි.
+
+ඇය සමග ත්‍රීරෝද රථයේ රියදුරු ලෙස කටයුතු කළ පුද්ගලයා 31 හැවිරිදි කඹුරුපිටිය ප්‍රදේශයේ පදිංචිකරුවකු වන කේ.ආර්. දර්ශන නමැති ඝාතනයට ලක්වූ කාන්තාවගේ ඥාතියෙකි.
+
+...
+
+[Data](articles/c434baf8.json)
+
+---
+
+### Car stop, Money, vehicle registration book robbery - Police Sergeant arrested
 
 *2024-07-26 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189416) · `ta`
 
-நீர்கொழும்பு பகுதியில் பயணித்த காரொன்றினை நிறுத்தி 02 இலட்சம் ரூபா பணம் மற்றும் வாகனப் பதிவுப் புத்தகம் ஆகியவற்றை கொள்ளையிட்ட சம்பவம் தொடர்பில் பொலிஸ் சார்ஜென்ட் ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A police sergeant from Vayankoda was arrested by the Police Special Task Force for allegedly robbing a vehicle registration book on the Negombo-Colombo road.
 
-நீர்கொழும்பு பொலிஸ் அத்தியட்சகர் அலுவலகத்தில் பொலிஸ் விசேட அதிரடிப்படைப் பிரிவில் பணிபுரியும்  பொலிஸ் சார்ஜென்ட் ஒருவரே கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்டவர் வேயங்கொடை பகுதியில் வசிப்பவர் என பொலிஸார் தெரிவித்தனர். இந்தக் கொள்ளை சம்பவம் நீர்கொழும்பு - கொழும்பு வீதியில் இடம்பெற்றுள்ளது.
+A police sergeant have been arrested in connection with the robbery of Rs.
 
-இது தொடர்பில் பொலிஸாருக்கு கிடைத்த முறைப்பாட்டின்  அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+A police sergeant has been arrested in the Police Special Task Force at the Negombo Police Superintendent's Office.
+
+Police said the arrested was a resident of Vayankoda area. The robbery took place on the Negombo -Colombo road.
+
+The suspect has been arrested in connection with the complaint received by the police.
 
 ◼️
 
 [Data](articles/04c8b6cf.json)
 
+[Extended Data](ext_articles/04c8b6cf.ext.json)
+
 ---
 
-### யாழில் வாள் முனையில் மோட்டார் சைக்கிள் கொள்ளை
+### Motorcycle robbery at the sword tip in Jaffna
 
 *2024-07-26 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189428) · `ta`
 
-யாழ்ப்பாணத்தில் வாள் முனையில் மோட்டார் சைக்கிளில் வழிப்பறி செய்யப்பட்டுள்ளதாக கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+In Jaffna, a motorcycle was robbed at sword point. A young man was attacked while riding; two assailants, armed with swords, stole his bike before fleeing. The incident was reported to the Kopay police station, leading to ongoing investigations.
 
-கோண்டாவில் வீதியில் இளைஞன் ஒருவர் நேற்று முன்தினம் புதன்கிழமை (24) இரவு மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த வேளை, கோண்டாவில் இந்துக் கல்லூரிக்கு முன்பாக காலை நொண்டியவாறு இளைஞன் ஒருவர் மோட்டார் சைக்கிளை வழி மறித்துள்ளார்.
+🟩
 
-அதனால் மோட்டார் சைக்கிளில் வந்த இளைஞன் மோட்டார் சைக்கிளை நிறுத்திய வேளை, நொண்டிக் கொண்டிருந்த நபர் தனது உடைமையில் மறைத்து வைத்திருந்த வாளினை எடுத்து மோட்டார் சைக்கிள் ஓட்டுனரை வெட்ட முயன்றுள்ளார்.
+A complaint has been lodged at the Kopay police station that a motorcycle has been raided at the sword.
 
-அதற்கு இளைஞன் எதிர்ப்பு காண்பிக்க , வீதியின் ஓரத்தில் மறைந்திருந்த மற்றுமொரு இளைஞனும் வாளுடன் வெளியே வந்து இளைஞனை வெட்ட முயன்ற வேளை இளைஞன் அவ்விடத்தில் இருந்து தப்பியோடியுள்ளார்.
+A young man was traveling on a motorcycle on Wednesday night (24) night in Konda.
 
-அதனை அடுத்து மோட்டார் சைக்கிளை எடுத்துக்கொண்ட தாக்குதலாளிகள் இருவரும் அவ்விடத்தில் இருந்து தப்பி சென்றுள்ளனர்.
+So when the young man on the motorcycle stopped the motorcycle, the man who was hiding in his possession took the bucket hidden in his possession and tried to cut the motorcycle driver.
 
-சம்பவம் தொடர்பில் பாதிக்கப்பட்ட இளைஞன் கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததை அடுத்து , பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+To protest the young man, another young man who was hiding along the street came out with the sword and tried to cut the young man.
+
+The two attackers who took the motorcycle then fled the scene.
+
+Police are conducting investigations after lodging a complaint at the Kopay police station.
 
 ◼️
 
 [Data](articles/6ed734b7.json)
 
+[Extended Data](ext_articles/6ed734b7.ext.json)
+
 ---
 
-### நாட்டைக் கட்டியெழுப்ப அனைவரும் ஒன்றிணைந்து செயற்பட வேண்டும் - எதிர்க்கட்சித் தலைவர்
+### Everyone should work together to build the country - the leader of the opposition
 
 *2024-07-26 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189421) · `ta`
 
-வீழ்ச்சி கண்டுள்ள தாய்நாட்டை கட்டியெழுப்புவதற்கு அனைவரும் ஓர் தாய் தந்தையரின் பிள்ளைகளாக ஒன்றிணைய வேண்டும். சிங்களம், தமிழ், முஸ்லிம், பறங்கியர்கள் என அனைவரும் ஒன்றிணைந்து சமூகத்தில் முரண்பாடுகளை உருவாக்காமல் சமாதானம், நல்லிணக்கம், சகோதரத்துவம் மற்றும் நட்புடன் இணைந்து செயற்பட வேண்டும். இதன் மூலம் நாட்டை கட்டியெழுப்ப வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa urges unity among Sinhalese, Tamils, and Muslims for national development, emphasizing education and technology investment. He advocates for peace, reconciliation, and shared responsibility in building the country, highlighting the importance of English and IT labs in schools.
 
-பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ், 373 ஆவது கட்டமாக 1,177,000 இலட்சம் ரூபா பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள் மற்றும் அகராதிகள் என்பன கொழும்பு 6, திபிரிகஸ்யாய இந்து மகளிர் கல்லூரிக்கு வழங்கி வைக்கும் நிகழ்வு ஜூலை 24 ஆம் திகதி இடம்பெற்றது.
+🟩
 
-இதன்போது, பாடசாலை அபிவிருத்தி நிதியத்திற்கு ஒரு இலட்சம் ரூபா நிதியுதவியும் வழங்கி வைக்கப்பட்டது.
+All must unite as the children of a mother -in -law to build a falling homeland. Sinhalese, Tamil, Muslims and flies must work together with peace, reconciliation, brotherhood and friendship without creating conflicts in the community. Opposition leader Sajith Premadasa said that the country should be built.
 
-இந்நாட்டில் இலவசக் கல்வியில் பாடசாலைகளில் கல்வி கற்கும் பிள்ளைகளை தனது சொந்த பிள்ளைகளாகவே கருதுவதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Under the Universal Information Technology Program, smart classroom equipment and dictionaries worth Rs.
 
-...
+Meanwhile, one lakh rupees was provided to the School Development Fund.
+
+Opposition Leader Sajith Premadasa said that children who are educated in schools in this country are considered as their own children.
+
+The Leader of the Opposition said that all schools should install the English Language Laboratory and International Quality Information Technology Laboratory.
+
+◼️
 
 [Data](articles/056b976d.json)
+
+[Extended Data](ext_articles/056b976d.ext.json)
 
 ---
 
@@ -135,6 +183,26 @@ In this case, the elephant has been ordered to be released in the wilderness and
 [Data](articles/92c5f705.json)
 
 [Extended Data](ext_articles/92c5f705.ext.json)
+
+---
+
+### ප්‍රධාන පෙළේ පාසලක විනය භාර ගුරුවරයාට සිසුවෙකු පිහියෙන් අනි
+
+*2024-07-26 12:30:19* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-පෙළේ-පාසලක-විනය-භාර-ගුරුවරයාට-සිසුවෙකු-පිහියෙන්-අනි/11-411018) · `si`
+
+පුත්තලම නගරයෙ ප්‍රධාන පෙලෙ පාසලක ගුරුවරයකුට පාසලේ ප්‍රධාන දොරටුව අසලදී සිසුවකු එල්ල කල  පිහි ප්‍රහාරයකට ලක්ව ප්‍රතිකාර සදහා පුත්තලම මූලික රෝහලට ඇතුලත් කර ඇති බව පුත්තලම මූලස්ථාන පොලිසිය කියයි.
+
+මෙලෙස පිහි ප්‍රහාරයට ලක්ව ඇත්තේ ප්‍රධාන පෙලේ පාසලේ ගණිත විෂය භාර ගුරුවරයා බවත් ඔහු විනය සම්බන්ධව ද පාසලේ කටයුතු කරමින් සිටින අයකු බවද පරික්ෂණ වලදි සනාථ වී තිබේ.
+
+පිහි ප්‍රහාරයට ලක්වු ගුරුවරයා කඩිනමින් පාසලේ ගුරුවරුන් විසින් ප්‍රතිකාර සදහා පුත්තලම මූලික රෝහලට ඇතුලත් කිරීමට කටයුතු කර තිබුනී.ගුරුවරයාට මෙම පිහි ප්‍රහාරය එල්ල කර ඇත්තේ එම ප්‍රධාන පෙලේ පාසලේ අපොස උසස් පෙළ ශ්‍රේණි වල අධ්‍යාපනය ලබන සිසුවකු බව කියයි.
+
+අදාල සිසුවා පාසලට එමින් සිටියදී ගුරුවරයා ප්‍රධාන දොරටුව අසලදී කිසියම් සිදුවිමක් සම්බන්ධව ප්‍රශ්ණ කර ඇති බවත් එහිදි සිසුවා සගවා ගෙන සිටි පිහියක් ඇද එකවර ගුරුවරයාගේ උදරයට එක් පහරක් එක්ක කර ඇති බව කියයි.
+
+එහිදි පිහි පහරට ලක්වු ගුරුවරයා එකවර ඇද වැටි ඇති බවත් සිසුවා පිහියත් රැගෙන එම ස්ථානයෙන් පැන ගොස් තිබු බවද කියයි.
+
+...
+
+[Data](articles/5eb2a4cb.json)
 
 ---
 
@@ -1566,6 +1634,8 @@ Sri Lanka sits on a wealth of resources, but let it all go to waste. Agriculture
 
 [Data](articles/3b0c8415.json)
 
+[Extended Data](ext_articles/3b0c8415.ext.json)
+
 ---
 
 ### Resource-rich, policy-poor: Sri Lanka’s flagging growth sectors
@@ -2083,57 +2153,5 @@ Democratic system is in Sri Lanka. Power sharing takes place between the three p
 [Data](articles/5fb3e3c7.json)
 
 [Extended Data](ext_articles/5fb3e3c7.ext.json)
-
----
-
-### Do not underestimate the pain of Muslims
-
-*2024-07-26 00:55:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களின்-வேதனையை-குறைத்து-மதிப்பிட-வேண்டாம்/175-341047) · `ta`
-
-The government's decision to cremate Muslim COVID victims against religious beliefs sparked outrage. Critics argue it's naive to believe apologies alone can appease the community, suggesting deeper issues need addressing. The move is seen as politically motivated, aiming to secure Muslim votes through superficial gestures. The community's pain and anger underscore the complexity of religious freedom and state policies during crises.
-
-🟩
-
-The government thinks that it is enough to apologize to the Muslims for the burning of the Janasas.. Marikar, the United People's Power MP, said that the government will get compensation soon.
-
-He said this while addressing the debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25)
-
-The Rajapakse government has taken steps to burn the Janasas of Muslim citizens who died in the Corona infection without any scientific resolution. The entire Muslim community was very upset by this decision of the government.It is foolish to think that the government can escape from the Muslim people to apologize to other Muslims.
-
-The government has suddenly taken a resolution to protect the Rajapaksa from the crime and blame the authorities.. If the authorities had given the Alaration, not scientifically to burn the Janasas, who had taken the decision?
-
-...
-
-[Data](articles/205dc9ab.json)
-
-[Extended Data](ext_articles/205dc9ab.ext.json)
-
----
-
-### 2024-07-25 (Thursday)
-
-### Personal income will be increased by $ 20,000 by 2048 - Bandula Gunawardena
-
-*2024-07-25 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189388) · `ta`
-
-By 2048, personal income is expected to increase by $20,000 due to government programs aimed at financial management and economic growth. This initiative, part of the State Financial Management and Economic Level Act, aims to prevent bankruptcy and improve living standards nationwide. It emphasizes effective use of both public and private sectors in manufacturing. The government has also agreed not to repay international debts until 2027, requiring future rulers to contribute 2.5% of the country's initial deposit under the economic change law.
-
-🟩
-
-Increase personal income by 2048 to $ 20,000. The government has developed the programs.
-
-The government has introduced the State Financial Management and Economic Level Act as a national program for posting a great foundation for a major change in the country and rebuilding the country.
-
-Transport and Media Minister Bandula Gunawardena said that no one could bring the government to the International Monetary Fund's agreement.
-
-He was speaking at a debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25).
-
-If the financial management, discipline and economic system are not followed based on the issues included in the state financial management and economic change laws, this country will not be able to prevent it from going back to the bankruptcy.. The government's expectation is to take action through this law to improve the livelihood of all the people of the country.
-
-...
-
-[Data](articles/294bb8bd.json)
-
-[Extended Data](ext_articles/294bb8bd.ext.json)
 
 ---

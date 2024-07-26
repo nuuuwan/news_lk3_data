@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 21:20:32**
+As of **2024-07-26 21:36:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,447 (100.0%) of 37,449 articles have been extended.
+37,449 (100.0%) of 37,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ Meanwhile, the Sri Lanka Cricket Board has said in a statement that Binura is be
 
 [Data](articles/26557fd6.json)
 
+[Extended Data](ext_articles/26557fd6.ext.json)
+
 ---
 
-### தமிழரசு கட்சி வேட்பாளரை நிறுத்தாது
+### TNA does not stop candidate
 
 *2024-07-26 21:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-கட்சி-வேட்பாளரை-நிறுத்தாது/175-341086) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் இலங்கைத் தமிழ் அரசு கட்சி வேட்பாளரை நியமிக்காது என தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+TNA's MA Sumanthiran states the Sri Lankan Tamil government won't nominate a candidate for the upcoming presidential election but plans to discuss with key contenders. Despite this, several Tamil parties and activists have pledged to support a common Tamil candidate.
 
-ஜனாதிபதித் தேர்தலில்  முக்கிய வேட்பாளர்களுடன் பேச்சுவார்த்தை நடத்தும் என்றும் சுமந்திரன் எம்.பி தெரிவித்தார்
+🟩
 
-எவ்வாறாயினும், எதிர்வரும் இலங்கை ஜனாதிபதித் தேர்தலில் பொதுத் தமிழ் வேட்பாளரை நிறுத்துவதற்கு பல தமிழ் அரசியல் கட்சிகள் மற்றும் சிவில் சமூக ஆர்வலர்கள் அண்மையில் ஒப்பந்தத்தில் கைச்சாத்திட்டுள்ளனர்
+Tamil National Alliance (TNA) parliamentarian MA Sumanthiran says that the Sri Lankan Tamil government will not appoint a candidate in the upcoming presidential election.
+
+Sumanthiran MP said he would negotiate with key candidates in the presidential election
+
+However, many Tamil political parties and civil society activists have recently signed an agreement to field a general Tamil candidate in the upcoming Sri Lankan presidential election.
 
 ◼️
 
 [Data](articles/16d0ebf5.json)
+
+[Extended Data](ext_articles/16d0ebf5.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 09:55:16**
+As of **2024-07-26 10:07:56**
 
 ## Newspaper Stats
 
-*Scraped **37,341** Articles*
+*Scraped **37,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,86 @@ bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
-adalk | 3,395
-adaderanalk | 4,319
-tamilmirrorlk | 4,602
+adalk | 3,396
+adaderanalk | 4,320
+tamilmirrorlk | 4,603
 dailymirrorlk | 4,733
-virakesarilk | 5,862
+virakesarilk | 5,864
 adaderanasinhalalk | 6,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,337 (100.0%) of 37,341 articles have been extended.
+37,341 (100.0%) of 37,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### අගමැතිගේ විශේෂ ප්‍රකාශය ඇරඹෙයි
+### Prime Minister delivers special statement in Parliament
+
+*2024-07-26 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100783/prime-minister-delivers-special-statement-in-parliament) · `en`
+
+Prime Minister Dinesh Gunawardena arrived in Parliament this morning (26) shortly after the commencement of the parliamentary session.
+
+Accordingly, the Prime Minister is currently delivering a special statement in the Parliament.
+
+PM Gunawardena is scheduled to officially inform Parliament of the government’s official position on the Supreme Court decision regarding the post of the IGP, in his special statement today (26).
+
+The Cabinet of Ministers, which convened an urgent meeting on Wednesday (24), had decided to announce its response to the decision of the Supreme Court regarding the IGP within two days after studying in depth the legal aspects of the matter.
+
+The Supreme Court on Wednesday issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
+
+...
+
+[Data](articles/9aa74072.json)
+
+---
+
+### நான் விலகி இருக்கிறேன் : சபாநாயகருக்கு ஜனாதிபதி அறிவிப்பு
+
+*2024-07-26 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189398) · `ta`
+
+தேர்தல் காலத்தில் பதில் பொலிஸ்மா அதிபரை நியமித்தால் தனக்கு எதிராக நீதிமன்றத்தில் மனு தாக்கல் செய்யப்படும் என சட்ட ஆலோசனை கிடைத்துள்ளதாகவும், எனவே நான் இந்த விடயத்திலிருந்து விலகி இருப்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு அறிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/4fe3babf.json)
+
+---
+
+### The Prime Minister's special statement begins
 
 *2024-07-26 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199222) · `si`
 
-ඒ අනුව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අද පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදුකරයි.
+In a parliamentary address, Prime Minister Dinesh Gunawardena delivers a special statement.
+
+🟩
+
+Prime Minister Dinesh Gunawardena makes a special statement in parliament today.
 
 ◼️
 
 [Data](articles/0de12e8c.json)
+
+[Extended Data](ext_articles/0de12e8c.ext.json)
+
+---
+
+### கட்டுப்பணத்தை செலுத்தினார் ரணில்
+
+*2024-07-26 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189397) · `ta`
+
+ஜனாதிபதி சட்டத்தரணி ரொனால் சி பெரேரா இன்று வெள்ளிக்கிழமை (26) காலை தேர்தல் ஆணைக்குழுவில் இவ்வாறு கட்டுப்பணத்தை செலுத்தியுள்ளார்.
+
+சுயாதீன வேட்பாளராகவே ரணில் விக்கிரமசிங்க சார்பில் கட்டுப்பணம் செலுத்தப்பட்டுள்ளது. தேர்தல் தொடர்பான வர்த்தமானி அறிவித்தல் இன்றைய தினம் காலை வெளியான நிலையில் முதலாவதாக ரணில் விக்கிரமசிங்க சார்பில் கட்டுப்பணம் செலுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+இதேவேளை, ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தைச் முதலாவது வேட்பாளராக முன்னாள் பிரதியமைச்சர் சரத் கீர்த்திரத்ன செலுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/5b98e105.json)
 
 ---
 
@@ -48,7 +102,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-07-26 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100782/presidential-election-bonds-placed-for-ranil-to-contest-as-independent-candidate) · `en`
 
-President’s Counsel Ronald Perera has placed bonds on behalf of President Ranil Wickremesinghe as an independent candidate for the forthcoming Presidential Election.
+President’s Counsel Ronald Perera has placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate.
 
 He had placed the deposit this morning (26) at the Election Commission Office in Rajagiriya.
 
@@ -62,35 +116,61 @@ Meanwhile, the Election Commission of Sri Lanka today also issued the Gazette no
 
 [Data](articles/0cdea40a.json)
 
+[Extended Data](ext_articles/0cdea40a.ext.json)
+
 ---
 
-### සරත් කීර්තිරත්න ඇප මුදල් තැන්පත් කරයි
+### கட்டுப்பணத்தை செலுத்தினார் ரணில்
+
+*2024-07-26 09:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-செலுத்தினார்-ரணில்/175-341064) · `ta`
+
+இதன்படி, சுயாதீன வேட்பாளராக போட்டியிடும் வகையில், ஜனாதிபதி ரணில் விக்ரமசிங்க சார்பில் கட்டுப்பணம் செலுத்தப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/f657fd8b.json)
+
+---
+
+### Sarath Keerthirana deposits bail
 
 *2024-07-26 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199221) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා ඉදිරිපත් වෙන ස්වාධීන අපේක්ෂකයෙකු මේ වනවිට ඇප මුදල් තැන්පත් කර ඇති බව වාර්තා වෙයි.
+Sarath Keerthirathne, an independent candidate for the upcoming presidential election, has deposited bail.
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී සරත් කීර්තිරත්න මහතා ඉදිරි ජනාධිපතිවරණයේ ස්වාධීන අපේක්ෂකයෙකු ලෙස එලෙස ඇප මුදල් තැන්පත් කර ඇති බව වාර්තා වෙයි.
+🟩
+
+It is reported that an independent candidate who has already deposited a Presidential election for the Presidential election.
+
+Former Parliamentarian Sarath Keerthirathne has deposited such a bail as an independent candidate for the next presidential election.
 
 ◼️
 
 [Data](articles/b160833c.json)
 
+[Extended Data](ext_articles/b160833c.ext.json)
+
 ---
 
-### රනිල් ස්වාධීන අපේක්ෂකයෙකු ලෙස ඇප තැන්පත් කරයි
+### Ranil deposits as an independent candidate
 
 *2024-07-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199220) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 2024 ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත්වීමට නියමිත බව වාර්තා වෙයි.
+Ranil Wickremesinghe, Sri Lanka's President, is set to run as an independent candidate in the 2024 Presidential Election. His counsel, Ronald C. Mr. Perera, submitted funds to the Elections Commission today.
 
-ඔහු වෙනුවෙන් ජනාධිපති නීතිඥ රොනල්ඩ් සී. පෙරේරා මහතා ඇප මුදල් තැන්පත් කර තිබේ.
+🟩
 
-අද (26) පෙරවරුවේ මැතිවරණ කොමිෂන් සභාව වෙත පැමිණි ඔහු රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් ඇප මුදල් තැන්පත් කළ බව වාර්තා විය.
+It is reported that President Ranil Wickremesinghe is scheduled independent candidate for the Presidential Election 2024.
+
+President's Counsel Ronald C. Mr. Perera has deposited money.
+
+He was reported to the Elections Commission this morning.
 
 ◼️
 
 [Data](articles/7bc52a40.json)
+
+[Extended Data](ext_articles/7bc52a40.ext.json)
 
 ---
 
@@ -541,8 +621,6 @@ Therefore, an agenda for restoring democratic government calls for major changes
 ### Sri Lanka’s next President
 
 *2024-07-26 03:16:30* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-next-President/4-764782) · `en`
-
-A no holds barred critique on credentials of three favourites
 
 There’s a political poster that’s been splashed on the walls of Colombo. Black letters on a yellow background mean that the author or the party cannot be identified. It is obviously a teaser campaign. It comes with a promise, which of course is the bread and butter of all politicians. Apparently, ‘the lie will come to an end,’ and on the 29th, the name of the messiah who will take all Sri Lankans to some yet-to-be-named promised land will be revealed.
 
@@ -1480,6 +1558,24 @@ When Sri Lanka Development Bonds were repaid in rupees without a haircut, the ce
 
 ---
 
+### රැකියා විරහිත උපාධිධාරීන් අද කොළඹදී විරෝධතාවක
+
+*2024-07-25 19:26:34* · [`adalk`](https://www.ada.lk/breaking_news/රැකියා-විරහිත-උපාධිධාරීන්-අද-කොළඹදී-විරෝධතාවක/11-411006) · `si`
+
+රැකියා විරහිත සියලුම උපාධිධාරීන්ට රැකියා ලබා දෙන ලෙස ඉල්ලා අද (26දා) කොළඹ කොටුව දුම්රිය පොළ ඉදිරිපිටදී විරෝධතා ව්‍යාපාරයක් පැවැත්වීමට කටයුතු කරන බවද රැකියා විරහිත උපාධිධාරී සංගමය සඳහන් කරයි.
+
+උපාධිධාරීන්ට රැකියා ලබා දෙන ලෙස ඉල්ලා කොටුව දුම්රිය පොළ ඉදිරිපිට ආරම්භ කළ අඛණ්ඩ සත්‍යග්‍රහයට අදට දින 05ක් ගත වී තිබෙන බවද එම සංගමය පෙන්වා දෙයි.
+
+එහෙත් අදාළ ක්‍රියාමාර්ගයට බලධාරීන් මෙතෙක් නිසි ප්‍රතිචාර දැක්වීමට කටයුතු කර නොමැති බවත් මේ නිසා රැකියා විරහිත උපාධිධාරීන් කොළඹට රැස් වී සත්‍යග්‍රහයට සමගාමීව විරෝධතා ව්‍යාපාරය පැවැත්වීමට කටයුතු කරන බවද සඳහන් කරයි.
+
+පසුගිය22වන දිනත් මේ ආකාරයට විරෝධතා ව්‍යාපාරයක් පැවැත් වූ බවත් ඉන්පසුව සත්‍යග්‍රහ ව්‍යාපාරය ආරම්භ කළ බවත් මැතිවරණයක් ප්‍රකාශයට පත් වුවත් මේ මස 30වන දින දක්වා සත්‍යග්‍රහය පැය 24 පුරා අඛණ්ඩව පැවැත්වීමට කටයුතු කරන බවද පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/c4c6fbec.json)
+
+---
+
 ### Complaint to the Bribery Commission against Manusha and Harins
 
 *2024-07-25 19:20:55* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂට-හා-හරීන්ට-එරෙහිව-අල්ලස්-කොමිෂමට--පැමිණිල්ලක්/11-411005) · `si`
@@ -2071,125 +2167,5 @@ According to the amendments, the full reports of the questions of the questions 
 [Data](articles/55098f38.json)
 
 [Extended Data](ext_articles/55098f38.ext.json)
-
----
-
-### Police Chancellor Affairs: Interim injunction is not dismissal - government information
-
-*2024-07-25 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189370) · `ta`
-
-An interim injunction prevents the appointment of a new Inspector General of Police, keeping the current position active until legal issues are resolved. This decision is based on the 21st Amendment to the Constitution, ensuring the post remains filled despite ongoing court cases.
-
-🟩
-
-Only interim injunction has been issued to the Inspector General of Police. Instead of up the post is not void. Therefore, the president cannot appoint the Inspector General of Police, government sources say.
-
-That is, an interim injunction has been issued to the Inspector General of Police in the High Court order. So that post is not void. A senior minister of the government has said that the post of Police Chancellor is a vacuum of the 21st Amendment to the Constitution.
-
-As a result, the post of Inspector General of Police will not be vacated until this legal issue is resolved. The Minister added that the police chief had only been blocked by the police chief to perform his duties on the verdict of the court.
-
-◼️
-
-[Data](articles/54b60dd3.json)
-
-[Extended Data](ext_articles/54b60dd3.ext.json)
-
----
-
-### Cabinet approval to implement National Agenda for Anti-Corruption
-
-*2024-07-25 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100770/cabinet-approval-to-implement-national-agenda-for-anti-corruption) · `en`
-
-The Cabinet of Ministers has recently approved President Ranil Wickremesinghe’s Cabinet Memorandum to implement the “National Agenda for Anti-Corruption.”
-
-This decision aligns with the legal, organizational, and strategic anti-corruption framework outlined in the International Monetary Fund’s report on governance diagnostics technical assistance support, said President’s Media Division.
-
-The National Anti-Corruption Framework includes several key actions, such as the full implementation of the anti-corruption legislation passed in 2023, the development of an effective action plan, regular progress reviews every six months, and ensuring adequate budget provisions for the action plan. Additionally, the framework calls for the creation of a clear national anti-corruption strategy for the period 2025-2029.
-
-...
-
-[Data](articles/19e98dba.json)
-
-[Extended Data](ext_articles/19e98dba.ext.json)
-
----
-
-### Government attempts to sell Hilton Hotel worth $ 120 million to $ 41.05 million - Vijitha Herath
-
-*2024-07-25 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189355) · `ta`
-
-The government plans to sell the Colombo Hilton Hotel, valued at $120 million two years ago, for $41.05 million due to financial difficulties. This decision comes amid criticism over handling of the economy and a bailout scandal. National People's Power Member Vijitha Herath criticizes the government's management, stating it led to the country's current state. The IMF has been involved 16 times, and President Ranil Wickremesinghe addresses the situation, suggesting the bailout scandal contributed to the current issues.
-
-🟩
-
-The government has decided to sell the Colombo Hilton Hotel for $ 41.05 million worth $ 120 million two years ago. If there was no bailout scandal, the country would not have appeared in the country in 2022.
-
-National People's Power Member Vijitha Herath said that those who have put the country into a bankruptcy are talking about getting up from sleep.
-
-He was speaking at a debate on the Economic Transfer Bill and the State Finance Management Bill held in Parliament on Thursday (25).
-
-The International Monetary Fund has received 16 times the cooperation of the International Monetary Fund 16 times.
-
-President Ranil Wickremesinghe concluded the ferry line.
-
-If the bailout scandal had not occurred in 2022, the fuel line would not have appeared.
-
-The government has decided to sell the Hilton Hotel for Hilton Hotel for Bankruptcy. Two years ago, the value of the Hilton Hotel was estimated at $ 120 million.
-
-...
-
-[Data](articles/17defe5d.json)
-
-[Extended Data](ext_articles/17defe5d.ext.json)
-
----
-
-### 127,925 tourists arrived in the past three weeks
-
-*2024-07-25 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199204) · `si`
-
-Over the past three weeks, Sri Lanka welcomed 127,925 tourists, primarily Indians (30,442), along with visitors from Britain, China, Germany, and the Netherlands. This year, the SLTDA reports a total of 38,174 arrivals so far.
-
-🟩
-
-More than 120,000 tourists have arrived in the island during the past three weeks, says the Sri Lanka Tourism Development Authority.
-
-Accordingly, the number of tourist arrivals to Sri Lanka was 127,925.
-
-Most of them are Indian nationals and is 30,442.
-
-In addition, tourists from countries such as British, Chinese, German, Germany, Netherlands are also present.
-
-According to the Sri Lanka Tourism Development Authority (SLTDA) states that 38,174 tourists have arrived in the island this year.
-
-◼️
-
-[Data](articles/919cf14f.json)
-
-[Extended Data](ext_articles/919cf14f.ext.json)
-
----
-
-### “The post of Inspector General of Police is not void"
-
-*2024-07-25 16:48:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-மா-அதிபர்-பதவி-வெற்றிடமாக-இல்லை/175-341025) · `ta`
-
-The High Court issued an interim injunction against the Inspector General of Police, but it's advised the position isn't vacant due to legal advice received by the President. A senior minister stated, according to the 21st Amendment, the President cannot appoint an Inspector General of Police. Until the legal dispute is settled, the post remains vacant, as per government sources. The Supreme Court ruled that the Inspector General of Police was hindering his duties, as mentioned by the Senior Minister.
-
-🟩
-
-The High Court's decision has been given an interim injunction to the Inspector General of Police and the President has received legal advice that the Inspector General of Police is not vacant.
-
-According to the 21st Amendment to the Constitution, a senior minister of the government has said that the president cannot appoint a Inspector General of Police in response to the president.
-
-For this reason, government sources said that until the relevant legal issue is resolved, the post of Inspector General of Police will remain vacant.
-
-According to the Supreme Court ruling, the Senior Minister of the Government said that the Inspector General of Police was only an obstacle from carrying out his duties.
-
-◼️
-
-[Data](articles/263f27a4.json)
-
-[Extended Data](ext_articles/263f27a4.ext.json)
 
 ---

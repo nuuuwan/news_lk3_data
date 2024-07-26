@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 15:54:50**
+As of **2024-07-26 16:07:53**
 
 ## Newspaper Stats
 
-*Scraped **37,412** Articles*
+*Scraped **37,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
-adalk | 3,406
-adaderanalk | 4,330
-tamilmirrorlk | 4,611
+adalk | 3,407
+adaderanalk | 4,331
+tamilmirrorlk | 4,613
 dailymirrorlk | 4,733
 virakesarilk | 5,880
 adaderanasinhalalk | 6,278
@@ -26,43 +26,71 @@ adaderanasinhalalk | 6,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,410 (100.0%) of 37,412 articles have been extended.
+37,412 (100.0%) of 37,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### රටේ ආරක්ෂාව තහවුරු කරන්න ආරක්ෂක ප්‍රධානීන්ට උපදෙස්
+### Voting rights for remand prisoners: Notice issued to EC members, Justice Minister
+
+*2024-07-26 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100794/voting-rights-for-remand-prisoners-notice-issued-to-ec-members-justice-minister) · `en`
+
+The Supreme Court today (26) ordered to issue notice on the Election Commission, the Justice Minister, and several others, to present their facts before the court regarding a petition filed seeking the release of a set of guidelines providing facilities for remand prisoners to vote in elections including the Presidential Election.
+
+The court has issued this order to the attorney of the petitioner, former-prisoner Sudesha Nandimal de Silva, when his petition seeking voting rights for remand prisoners was taken up for consideration today.
+
+Accordingly, the court ordered to issue notice on the Chairman of the Election Commission and its members, Minister of Justice Wijeyadasa Rajapakshe, the Commissioner General of Prisons, and other respondents named in the petition, asking them to appear before the court on August 8.
+
+...
+
+[Data](articles/5e124450.json)
+
+---
+
+### Advice on the security heads to ensure the security of the country
 
 *2024-07-26 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199236) · `si`
 
-සමස්ත රටේම ආරක්ෂාව තහවුරු කරමින් ඉදිරි ජනාධිපතිවරණය බාධාවකින් තොරව පැවැත්වීම ස﻿ඳහා අවශ්‍ය සියලු පියවර ගන්නා ලෙස ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා ආරක්ෂක ප්‍රධානීන්ට උපදෙස් ලබාදී තිබේ.
+Defense Minister Pinhall Tennakoon has urged security officials to bolster national security, emphasizing the protection of constitutional rights and citizen safety. He highlighted the importance of decisive actions taken over the past two years to stabilize the nation through enhanced security measures and adherence to the rule of law. The meeting involved key defense figures, focusing on fortifying the armed forces and addressing ministry concerns.
 
-ආරක්ෂක කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව අද (26) පෙරවරුවේ පාර්ලිමේන්තුවේ දී රැස්වූ අවස්ථාවේ දී රාජ්‍ය අමාත්‍යවරයා අදාළ උපදෙස් ලබා දී ඇත.
+🟩
 
-ආරක්ෂක මාණ්ඩලික ප්‍රධානී ජනරාල් ශවේන්ද්‍ර සිල්වා, නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා ඇතුළු ත්‍රිවිධ හමුදාවේ ඉහළ පෙළේ නිලධාරීන් පිරිසක් මෙන්ම ආරක්ෂක අමාත්‍යාංශය සහ ඒ යටතේ ඇති ආයතන ප්‍රධානීහූ මෙම කාරක සභා රැස්වීමට කැඳවා තිබිණි.
+Defense Minister Pinhall Tennakoon has instructed security heads to take all necessary steps to conduct the protection of the protection of the protection of the protection of the security of the entire country.
 
-එසේම ආණ්ඩුක්‍රම ව්‍යවස්ථාව හා පුරවැසියන්ගේ මුලික අයිතිවාසිකම් ආරක්ෂා වන පරිදි මෙම සියලු කටයුතු සිදුකරන ලෙසත් අමාත්‍යවරයා ඉල්ලීමක් කළේය.
+The State Minister has instructed the Secretary to the Ministry of Defense at parliament this morning (26).
 
-එසෙම පසුගිය වසර දෙකක ඉතාම සංකීර්ණ කාලය තුළ අමාත්‍යාංශයක් ලෙස බරපතළ﻿ තීන්දු තීරණ ගැනීමට සිදුවු බවත් එම කාලය තුළ ජාතික ආරක්ෂාව සහ නීතියේ ආධිපත්‍ය යළි තහවුරු කරමින් රට ස්ථාවර කිරීමට හැකිවවූ බව ද ඒ මහතා වැඩිදුරටත් පෙන්වා දී ඇත.
+The Commissioner General of Defense Staff, General Savendra Silva, and the Head of the Ministry of Defense Admiral Priyantha Perera and the Head of the Ministry of Defense and the Head of the Ministry have been summoned to the meeting.
+
+The Minister also requested all these activities to protect the basic rights of the Constitution and the basic rights of the citizens.
+
+He further stated that during the last two years, the last two years have to make serious decisions as a Ministry in the last two years and has been able to stabilize the country by reorganizing national security and the rule of law.
 
 ...
 
 [Data](articles/9c6dc7d2.json)
 
+[Extended Data](ext_articles/9c6dc7d2.ext.json)
+
 ---
 
-### ஜனாதிபதித் தேர்தலை வரவேற்றது அமெரிக்கா
+### The US welcomed the presidential election
 
 *2024-07-26 15:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-வரவேற்றது-அமெரிக்கா/175-341080) · `ta`
 
-ஜனாதிபதித் தேர்தல் அறிவிப்பை வரவேற்கும் அதேவேளையில், இலங்கைப் பிரஜைகளுக்கு அவர்களின் எதிர்காலத்தைத் தீர்மானிக்க அதிகாரம் அளிக்கும் சுதந்திரமான மற்றும் நியாயமான தேர்தலை எதிர்பார்ப்பதாக அமெரிக்கா தெரிவித்துள்ளது.
+The US welcomes Sri Lanka's upcoming presidential election, emphasizing the need for an independent and fair process that allows citizens to shape their future.
 
-இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜூலி சுங் X தளத்தில் இட்டுள்ள  ஒரு பதிவில், "இலங்கையின் ஜனநாயகத்திற்கான நீண்டகால உறுதிப்பாட்டை உறுதிப்படுத்தும் தேர்தல் ஆணையத்தினால் விடுக்கப்பட்டுள்ள செப்டம்பர் 21 ஜனாதிபதித் தேர்தல் அறிவிப்பை நாங்கள் வரவேற்கிறோம். இலங்கை குடிமக்களை தீர்மானிக்க அதிகாரம் அளிக்கும் சுதந்திரமான மற்றும் நியாயமான தேர்தலை நாங்கள் எதிர்பார்க்கின்றோம் என்றும் குறிப்பிட்டுள்ளார்.
+🟩
+
+While welcoming the presidential election, the US has said it is looking for an independent and fair election that will give Sri Lankan citizens the power to determine their future.
+
+In a post posted on the US Ambassador to Sri Lanka, Julie Chung X, “We welcome the September 21 presidential announcement issued by the Election Commission to ensure the long -term commitment to Sri Lanka's democracy.. "We are looking for an independent and fair election that empowers Sri Lankan citizens."
 
 ◼️
 
 [Data](articles/799f0adb.json)
+
+[Extended Data](ext_articles/799f0adb.ext.json)
 
 ---
 
@@ -454,6 +482,18 @@ The suspect has been arrested in connection with the complaint received by the p
 
 ---
 
+### பதவி விலகுமாறு ரணிலுக்கு சஜித் சவால்
+
+*2024-07-26 13:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பதவி-விலகுமாறு-ரணிலுக்கு-சஜித்-சவால்/150-341075) · `ta`
+
+உயர் நீதிமன்ற உத்தரவுக்கு அமைய பதில் பொலிஸ் மா அதிபரை நியமிக்க முடியாவிட்டால் பதவி விலகுமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சவால் விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/15b74efc.json)
+
+---
+
 ### Sajith challenges Ranil to resign
 
 *2024-07-26 13:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-விலகுமாறு-ரணிலுக்கு-சஜித்-சவால்/175-341075) · `ta`
@@ -667,6 +707,22 @@ A spokesman for the Railway Department said that the body was taken from the sam
 [Data](articles/d0a28b50.json)
 
 [Extended Data](ext_articles/d0a28b50.ext.json)
+
+---
+
+### පොලිස්පති ධුරය හිස්වෙලා නෑ
+
+*2024-07-26 12:07:08* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ධුරය-හිස්වෙලා-නෑ/11-411017) · `si`
+
+වැඩබලන පොලිස්පතිවරයෙක් පත් කිරීමට පවතින නීතිය යටතේ ජනපතිට ප්‍රතිපාදන නොමැති බවත් තවමත් පොලිස්පති ධුරයේ කටයුතු කරන්නේ හිටපු පොලිස්පතිම බවත් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවේදි විශේෂ ප්‍රකාශයක් කරමින් පැවැසිය.
+
+"වැඩබලන පොලිස්පතිවරයෙකු පත් කිරීම සඳහා ජනාධිපතිවරයාට පවතින නීතිය තුළ ප්‍රතිපාදන නොමැත. එබැවින් ජනාධිපතිවරයා විසින් මගේ මිත්‍ර කිරිඇල්ල මන්ත්‍රීතුමා ඒ පැත්තෙන් ඉන්න කොට එකයි, මේ පැත්තෙ ඉන්න කොට එකයි. ප්‍රතිපාදන නොමැති බැවින් ජනාධිපතිවරයා විසින් වැඩබලන පොලිස්පතිවරයා ලෙස වෙන් අයෙකු පත්කරනු ඇතැයි ශ්‍රේෂ්ඨාධිකරණයට අපේක්ෂා කළ නොහැකිය. මේ තත්ත්වය තුළ කියවා බලන්න පොලිස් ආඥා පනත මුල සිට අගට.
+
+කියවීමේ කාලය මම ගන්නෙ නෑ. මම සභාගත කරනවා පොලිස් ආඥා පනත.  දන්නෙ නැත්නම් ගිහිල්ලා කියවන්න. ගිය වාරෙත් අපි මේ ප්‍රශ්නයට මුහුණ දුන්නා කලින් පොලිස්පතිවරයත් සම්බන්ධවත්.
+
+...
+
+[Data](articles/45b07ca9.json)
 
 ---
 
@@ -1770,6 +1826,18 @@ The Olympic focus is that the United States of America is focused on being a 100
 
 ---
 
+### செப்டம்பர் 21 ஜனாதிபதித் தேர்தல்
+
+*2024-07-26 08:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-21-ஜனாதிபதித்-தேர்தல்/175-341059) · `ta`
+
+ஜனாதிபதி தேர்தலை செப்டெம்பர் 21ம் திகதி நடத்த தேர்தல் ஆணைக்குழு முடிவு செய்துள்ளது. ஓகஸ்ட் 15ஆம் தேதி வேட்புமனுக்கள் ஏற்கப்படும் என்று தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது. தேர்தல் திகதிகள் தொடர்பான வர்த்தமானி அறிவித்தலை அரசாங்க அச்சக திணைக்களம் இன்று (26) காலை வெளியிட்டது
+
+◼️
+
+[Data](articles/236236d2.json)
+
+---
+
 ### Sri Lanka evaluating 100 applications to import vehicles for tourism
 
 *2024-07-26 07:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-evaluating-100-applications-to-import-vehicles-for-tourism-173844/) · `en`
@@ -2087,81 +2155,5 @@ Sri Lanka sits on a wealth of resources, but let it all go to waste. Agriculture
 [Data](articles/aea18543.json)
 
 [Extended Data](ext_articles/aea18543.ext.json)
-
----
-
-### Fitch says lower generation costs support CEB’s tariff cut; no risk to IPP payments
-
-*2024-07-26 03:03:44* · [`dailyftlk`](https://www.ft.lk/opinion/Fitch-says-lower-generation-costs-support-CEB-s-tariff-cut-no-risk-to-IPP-payments/14-764780) · `en`
-
-Fitch Ratings said yesterday Ceylon Electricity Board’s (CEB, BB+(lka)/Stable) cash flow will stay adequate to service debt despite a 22.5% tariff cut from 16 July 2024.
-
-Fitch does not expect the latest cut to affect the Sri Lankan electricity distributor’s payments to independent power producers (IPPs). Lower tariffs are supported by falling generation costs from CEB’s higher mix of hydropower and lower coal prices YoY. Financing costs will also fall amid lower market interest rates, Fitch said.
-
-The Public Utilities Commission of Sri Lanka’s instruction on the 22.5% average tariff cut, made during the regulator’s quarterly tariff review, was larger than the 10% proposed by CEB. However, generation costs have fallen in tandem with the rise in hydropower to 31% of the generation mix in 1H24 (1H23: 23%), while prices of coal, which fuels over 36% of the country’s generation mix, have dropped 32% YoY. Fitch expects thermal coal prices to fall 20% and 10% in 2024 and 2025, respectively.
-
-...
-
-[Data](articles/72e44411.json)
-
-[Extended Data](ext_articles/72e44411.ext.json)
-
----
-
-### Overseas Realty records Rs. 3.5 b Profit Before Tax in 1H
-
-*2024-07-26 02:42:05* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-records-Rs-3-5-b-Profit-Before-Tax-in-1H/34-764770) · `en`
-
-Overseas Realty (Ceylon) PLC said yesterday it has recorded a Group Revenue of Rs. 3,605 million and a Group Profit Before Tax of Rs. 3,519 million for six months ending 30 June.
-
-In a statement the Company said the appreciation of the LKR resulted in a net exchange gain of Rs. 1,134 million compared to Rs. 2,908 million recorded in the corresponding period of last year on foreign currency loans. Net fair value gain recorded from Investment Properties was Rs. 1,160 million compared to the fair value loss of Rs. 33 million in the same period of last year.
-
-The Company Revenue of Rs. 1,340 million at the World Trade Center, Colombo, was 19% higher than the corresponding period of last year, due mainly to higher occupancy and rental rates.
-
-...
-
-[Data](articles/73e733b3.json)
-
-[Extended Data](ext_articles/73e733b3.ext.json)
-
----
-
-### Yohan Perera appointed as Independent Non-Executive Director of Overseas Realty (Ceylon)
-
-*2024-07-26 02:38:51* · [`dailyftlk`](https://www.ft.lk/business/Yohan-Perera-appointed-as-Independent-Non-Executive-Director-of-Overseas-Realty-Ceylon/34-764769) · `en`
-
-Overseas Realty Ceylon PLC has announced the appointment of Yohan Perera as an Independent Non-Executive Director to its Board of Directors.
-
-In compliance with the CSE new listing rules on independent directors, the Company also announced the retirement of Yap Boh Pin, who had distinguishably served on the Board for over 33 years.
-
-Perera is a Chartered Accountant by profession and retired from the position of Managing Partner of KPMG Sri Lanka and Maldives on 31 March 2023. He has over 40 years of experience in audits of conglomerates and listed companies with diversified business interests.
-
-He served as a Partner at KPMG Sri Lanka and Maldives for 33 years. During this period, He also served the Firm as the Head of HR, Risk Management Partner and Chief Operating Officer before he was appointed as the Managing Partner of the Firm. He served on the KPMG Middle East and South Asia Board during his tenure as Managing Partner of the Firm.
-
-...
-
-[Data](articles/5fb2a63b.json)
-
-[Extended Data](ext_articles/5fb2a63b.ext.json)
-
----
-
-### President gets Ministerial Sub-Committee’s report on effective RAMIS system utilisation
-
-*2024-07-26 02:36:30* · [`dailyftlk`](https://www.ft.lk/business/President-gets-Ministerial-Sub-Committee-s-report-on-effective-RAMIS-system-utilisation/34-764768) · `en`
-
-The report from the Cabinet Sub-Committee appointed to investigate and recommend effective utilisation of the Revenue Administration Management Information System (RAMIS) was recently presented to President Ranil Wickremesinghe.
-
-Finance, Economic Stabilisation, and National Policy Minister Ranil Wickremesinghe, issued Cabinet Memorandum No. 24/0696/604/079 on ‘Revenue Administration Management Information System (RAMIS) - Obtaining Maintenance Services’ dated April 8, 2024. This Cabinet Sub-Committee was appointed following the Cabinet’s decision.
-
-The sub-committee, chaired by Power and Energy Minister Kanchana Wijesekera, included Ministers Tiran Alles and Nalin Fernando as members.
-
-The report, prepared with seven main recommendations, underscores the importance and urgency of effectively utilising the Income Administration Management Information System.
-
-...
-
-[Data](articles/5d8f13a3.json)
-
-[Extended Data](ext_articles/5d8f13a3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 22:35:59**
+As of **2024-07-26 22:53:24**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,453 (100.0%) of 37,460 articles have been extended.
+37,460 (100.0%) of 37,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### ජනාධිපතිවරණයට රනිල් වික්‍රමසිංහ  ඇතුළු සිවු දෙනෙක් ඇප තැන්පත් කරති
+### Ranil Wickremesinghe, including Ranil Wickremesinghe bail to presidential election
 
 *2024-07-26 22:17:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රනිල්-වික්‍රමසිංහ--ඇතුළු-සිවු-දෙනෙක්-ඇප-තැන්පත්-කරති/11-411023) · `si`
 
-ජනාධිපතිවරණය ප්‍රකාශයට පත් කෙරුණු අද දිනයේදී වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු අපේක්ෂකයින් සිවු දෙනෙකු  ජනාධිපතිවරණය සඳහා තරග වැදීමට  ඇප මුදල් තැන්පත් කළ බව මැතිවරණ කොමිෂන් සභාව මාධ්‍ය නිවේදනයක් නිකුත් කරමින් කියා සිටී.
+Ranil Wickremesinghe, along with three others, has submitted funds to run as independent candidates in the upcoming presidential election. This includes Sarath Keerthirathne and Hithamineala Lakmal Anine El Herath, who represents the Sri Lanka Labor Party.
 
-ඒ අනුව රනිල්  වික්‍රමසිංහ මහතා   සහ සරත් කීර්තිරත්න මහතා ස්වාධීන අපේක්ෂකයන් ලෙස ජනාධිපතිවරණයට තරග කිරීමට   ඇප මුදල් තැන්පත් කර තිබේ.
+🟩
 
-හිටිහාමිනාලාගේ  දොන්   ඕශල ලක්මාල් අනිල්    හේරත් මහතා අභිනව නිවහල් පෙරමුණේ අපේක්ෂකයා වශයෙන්ද ඒ.එස්.පී.ලියනගේ මහතා ශ්‍රී ලංකා කම්කරු පක්ෂයේ අපේක්ෂකයා වශයෙන් ද ඇප මුදල් තැන්පත් කළ බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+Four candidates, including President Ranil Wickremesinghe today, has deposited money to contest for the presidential election today.
+
+Accordingly, Ranil Wickremesinghe and Sarath Keerthirathne have deposited the money to contest the presidential election as independent candidates.
+
+The Elections Commission (EPLA) also stated that Mr. Hithamineala Lakmal Anine El Herath was the candidate of the Sri Lanka Labor Party.
 
 ◼️
 
 [Data](articles/5d0f4927.json)
 
+[Extended Data](ext_articles/5d0f4927.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව අවසන් තරගයට
+### Sri Lanka to contest final
 
 *2024-07-26 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199250) · `si`
 
-කාන්තා ආසියානු කුසලාන 20යි 20 ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගය සඳහා සුදුසුකම් ලබා ගැනීමට ශ්‍රී ලංකා කාන්තා කණ්ඩායම අද (26) සමත් වුණි.
+Sri Lanka's women cricket team qualified for the finals of the Women's Asian Cup 2020 after playing today, March 26th.
+
+🟩
+
+Sri Lanka women's women played today (26) to qualify for the finals of the women's Asian Cup 20 cricketers.
 
 ◼️
 
 [Data](articles/b6cb4d8e.json)
+
+[Extended Data](ext_articles/b6cb4d8e.ext.json)
 
 ---
 
@@ -156,21 +168,31 @@ He said that the election laws were implemented and the state vehicles would not
 
 ---
 
-### தேர்தல் சட்டத்துக்கு எதிராக எவரும் செயற்பட முடியாது புதிய அறிவுறுத்தல் நிரூபம் வெளியிடப்படும் - தேர்தல்கள் ஆணைக்குழு
+### No one can act against election law
 
 *2024-07-26 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189481) · `ta`
 
-அரசியலமைப்பின் ஏற்பாடுகள் மற்றும் 1981 ஆம் ஆண்டு ஜனாதிபதி தேர்தல்கள் சட்டம் என்பனவற்றுக்கு அமைவாகவே நாங்கள் செயற்படுகிறோம். இதனை தவிர்த்து பிற தரப்பினரது அழுத்தங்களுக்கு அடிபணிய போவதில்லை. தேர்தல் சட்டத்தின் ஏற்பாடுகள் வெள்ளிக்கிழமை (26) செயற்படுத்தப்படும்.
+The Elections Commission reaffirms adherence to constitutional and electoral laws, emphasizing no actions against these laws will be tolerated. Preparations for the presidential election, as per the 1981 Presidential Elections Act, commence on Friday, with instructions on election procedures forthcoming. The contesting candidates' financial officers' authority extends until the 14th of this month. A referendum is scheduled for Saturday, addressing concerns previously raised about swift election announcements. The State Press and Postal Departments initiate election-related tasks, ensuring the election process remains unaffected, with the Senior Police Chancellor collaborating with the Commission.
 
-தேர்தல் சட்டத்துக்கு எதிரான செயற்பாடுகளில் எவரும் ஈடுபட முடியாது. தேர்தல் தொடர்பான செயற்திட்டங்கள் மற்றும் சட்ட வழிமுறைகள் தொடர்பான அறிவுறுத்தல்களை வெகுவிரைவில் வெளியிடுவோம் என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.எல்.ரத்நாயக்க தெரிவித்தார்.
+🟩
 
-தேர்தல்கள் ஆணைக்குழுவின் காரியாலயத்தில் வெள்ளிக்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+We are working in accordance with the arrangements of the Constitution and the 1981 Presidential Elections Act. This is not to succumb to the pressures of other sides. Preparations of the Election Act will be implemented on Friday (26).
 
-ஜனாதிபதி தேர்தல் தொடர்பான உத்தியோகபூர்வ அறிவிப்பை வெளியிட்டுள்ளோம்.இதற்கமைய  எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி வாக்கெடுப்பை நடத்துவதற்கும்,எதிர்வரும் மாதம் 15 ஆம் திகதி வேட்பு மனுக்களை பொறுப்பேற்கவும் தீர்மானிக்கப்பட்டுள்ளது.
+No one can engage in activities against the election law. RML Ratnayake, Chairman of the Elections Commission, said that the instructions on the elections and legal procedures will soon be issued.
+
+He was speaking at a media briefing held at the Elections Commission's office on Friday (26).
+
+We have issued an official announcement on the presidential election.
+
+The contesting candidates will be able to control the financial officer of the Elections Commission until the 14th of this month.
+
+Elections Commission not to announce the announcement of the presidential election quickly. That many have questioned in the past. We have currently issued a notification. We have decided to hold a referendum on Saturday for all.
 
 ...
 
 [Data](articles/08dfe83c.json)
+
+[Extended Data](ext_articles/08dfe83c.ext.json)
 
 ---
 
@@ -192,15 +214,21 @@ Meanwhile, the Sri Lanka Cricket Board has said in a statement that Binura is be
 
 ---
 
-### பலத்த பாதுகாப்புக்கு அறிவுறுத்தல்
+### Instruction for strong safety
 
 *2024-07-26 21:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-பாதுகாப்புக்கு-அறிவுறுத்தல்/175-341087) · `ta`
 
-ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டதைத் தொடர்ந்து ஜனாதிபதி வேட்பாளர்கள் மற்றும் பிரஜைகளின் பாதுகாப்பை உறுதிப்படுத்த தேவையான அனைத்து நடவடிக்கைகளையும் அமுல்படுத்துமாறு பாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னகோன் இன்று பாதுகாப்பு அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்
+Defense Minister Premitha Bandara Tennakoon has ordered security forces to take all precautions to protect presidential candidates and citizens amid the upcoming election.
+
+🟩
+
+Defense Minister Premitha Bandara Tennakoon today issued a directive to the security authorities to implement all necessary measures to ensure the safety of the presidential candidates and citizens following the announcement of the presidential election.
 
 ◼️
 
 [Data](articles/5947c201.json)
+
+[Extended Data](ext_articles/5947c201.ext.json)
 
 ---
 
@@ -384,19 +412,25 @@ MP Anura Kumara Dissanayake made this statement regarding the appointment of a a
 
 ---
 
-### கடமைகளை நிறைவேற்றமுடியாவிடின் பதவி விலகி பிரதமர் நிறைவேற்ற இடமளியுங்கள் - சாலிய பீரிஸ் வலியுறுத்தல்
+### If the duties are not fulfilled
 
 *2024-07-26 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189446) · `ta`
 
-பதில் பொலிஸ்மா அதிபரை நியமிப்பதிலிருந்து தான் விலகியிருப்பதாக ஜனாதிபதி அறிவித்திருப்பதானது, அவரால் மாத்திரம் நிறைவேற்றப்படக்கூடிய கடமைகளை அவர் புறக்கணித்துச் செயற்படுவதையே காண்பிக்கிறது. அவரால் அவருக்குரிய கடமைகளை ஈடேற்ற முடியாவிடின், அரசியலமைப்பின் பிரகாரம் தற்காலிகமாகப் பதவி விலகி, அக்கடமைகளை நிறைவேற்றுவதற்கு பிரதமருக்கு இடமளிக்கவேண்டும் என ஜனாதிபதி சட்டத்தரணி சாலிய பீரிஸ் வலியுறுத்தியுள்ளார்.
+In a move seen as ignoring personal responsibilities, President Ranil Wickremesinghe withdrew from appointing an Inspector General of Police. His attorney, Saliya Peiris, called for the Prime Minister to temporarily step down to fulfill duties, highlighting concerns about the President's disregard for constitutional obligations. This decision comes after receiving legal advice that the appointment would face challenges in court. Critics, including the former president of the Sri Lanka Lawyers Association, have criticized the President's lack of maturity and honesty in accepting judicial decisions. The situation raises questions about the President's willingness to engage in national activities, such as distributing lands, which could affect elections.
 
-தேர்தல் பதில் பொலிஸ்மா அதிபரை நியமித்தால் தனக்கு எதிராக நீதிமன்றத்தில் மனுத்தாக்கல் செய்யப்படுமென சட்ட ஆலோசனை கிடைத்திருப்பதாகவும், எனவே இதிலிருந்து தான் விலகியிருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு அறிவித்திருக்கிறார்.
+🟩
 
-இதுகுறித்துக் கடும் அதிருப்தி வெளியிட்டுள்ள இலங்கை சட்டத்தரணிகள் சங்கத்தின் முன்னாள் தலைவர் ஜனாதிபதி சட்டத்தரணி சாலிய பீரிஸ், உயர்நீதிமன்றத்தின் தீர்ப்பை ஏற்றுக்கொள்வதற்கான பக்குவமோ, நேர்மைத்தன்மையோ அற்ற ஜனாதிபதியினால் அதனை மீறுவதற்கு மேற்கொள்ளப்படும் மற்றுமொரு மிகமோசமான முயற்சியே இதுவென சுட்டிக்காட்டியுள்ளார்.
+The president's announcement that he has withdrawn from appointing the Inspector General of Police shows that he is ignoring the obligations that can be fulfilled alone.. President's Attorney Saliya Peiris has urged the Prime Minister to temporarily resign as per the Constitution and fulfill the obligations if he cannot accomplish his obligations.
+
+President Ranil Wickremesinghe has informed Speaker Mahinda Yapa Abeywardena that he has received legal advice that the election response will be appointed in court and therefore he has quit.
+
+The former president of the Sri Lanka Lawyers Association, President of the Sri Lanka Lawyers Association, pointed out that this is another very good attempt to violate it by the President who has no maturity or honesty to accept the verdict of the Supreme Court.
 
 ...
 
 [Data](articles/98aec6e3.json)
+
+[Extended Data](ext_articles/98aec6e3.ext.json)
 
 ---
 
@@ -450,19 +484,27 @@ In addition, the SLFP has not taken any decision to support any candidate who ha
 
 ---
 
-### பாராளுமன்றத்துக்கும் நீதிமன்றத்துக்கும் இடையில் மோதலை ஏற்படுத்த சபாநாயகர் இடமளிக்கக்கூடாது - ரவூப் ஹக்கீம்
+### Speaker should not allow the conflict between the Parliament and the Court - Rauf Hakeem
 
 *2024-07-26 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189464) · `ta`
 
-ஜனாதிபதி தனக்கு தேவையான பொலிஸ்மா அதிபரை வைத்துக்கொண்டு ஏதாவது சதி நடவடிக்கைகளை மேற்கொள்ளவே முயற்சிக்கிறார். அதேபோன்று,  பாராளுமன்றத்துக்கும் நீதிமன்றத்துக்கும் இடையில் மோதலை ஏற்படுத்த முற்படுகிறார்கள்.  அதற்கு நீங்கள் இடமளிக்க வேண்டாம். இதன் பயங்கரமான நிலையை புரிந்துகொண்டு செயற்பட வேண்டும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம் தெரிவித்தார்.
+Rauf Hakeem warns against conflicts between Parliament and Court, urging understanding and action against potential conspiracies by the President to manipulate the police force and create division.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26) பதில் பொலிஸ்மா அதிபர் ஒருவரை நியமிப்பது தொடர்பில் பிரதமரின் விசேட உரைக்கு பதிலளிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-அரசியலமைப்பு பேரவை பாராளுமன்றத்தின் ஒரு பகுதி என்ற கருத்தை பிரதமர் தெரிவிக்கிறார். ஆனால் இந்த சபையில் ஜனாதிபதி இதற்கு முன் ஒரு சந்தர்ப்பத்தில், அரசியலமைப்பு பேரவை நிறைவேற்று துறையின் ஒரு பகுதி என விவாதிட்டிருந்தார். அதனால் தங்களுக்கு தேவையான முறையில் இதற்கு பொருள்கோடல் தெரிவிப்பதை அரசாங்கம் நிறுத்திக்கொள்ள வேண்டும்.
+The president is trying to carry out any conspiracy by keeping the police chancellor he needs. Similarly, they seek to create a conflict between the Parliament and the Court.Do not accommodate for that. Sri Lanka Muslim Congress leader Rauf Hakeem said that it should understand and act.
+
+In response to the Prime Minister's special speech on the appointment of a Inspector General of Police on Friday (26) in Parliament.
+
+The Prime Minister expresses the notion that the Constitutional Council is part of Parliament. But in this council, the president had previously discussed that the Constituent Assembly was part of the Executive Department. Therefore, the government should stop making the objective of it.
+
+Speaker, someone who has appointed all of us to protect all our members. So all of us have the responsibility to protect the Speaker.
 
 ...
 
 [Data](articles/10a40208.json)
+
+[Extended Data](ext_articles/10a40208.ext.json)
 
 ---
 
@@ -836,19 +878,27 @@ An illegal institution was also seized by the officials of the Sri Lanka Bureau 
 
 ---
 
-### දින 5ට විදෙස් රැකියා ජාවාරමුන් 12ක් අල්ලයි
+### 12 day foreign employment rampies arrested
 
 *2024-07-26 16:31:48* · [`adalk`](https://www.ada.lk/breaking_news/දින-5ට-විදෙස්-රැකියා-ජාවාරමුන්-12ක්-අල්ලයි/11-411021) · `si`
 
-2024.07.22 දින සිට අද දින දක්වා (7/26) ගතවූ දින 5 ක කාලය තුළ විදෙස් රැකියා ජාවාරම් සිදුකළ  වංචාකරුවන් දොළොස් දෙනෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Twelve individuals involved in a foreign employment scam, targeting Sri Lankan youth for jobs in countries like Qatar, New Zealand, Malaysia, and Canada, have been arrested. The Sri Lanka Bureau of Foreign Investigations seized documents related to the fraud. Authorities are expanding investigations into such scams, aiming to swiftly prosecute the perpetrators.
 
-කටාර්, නවසීලන්තය, මැලේසියාව, රැමේනියාව හා කැනඩාව යන රටවල රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවන් පස් දෙනෙකු ඇතුළු දොලොස් දෙනෙකු මෙසේ අත්අඩංගුවට ගෙන ඇති අතර, කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව නවසීලන්තයේ රැකියා සඳහා සම්මුඛ පරීක්ෂණ පැවැත්වූ නීතිවිරෝධි ආයතනයක්ද කුරුණෑගල ප්‍රදේශයේදී වැටලීම් කර තිබේ. එහි තිබී ජිව දත්ත පත්‍රිකා හා තවත් ලේඛන අඩංගු ලිපිගොනු 108ක්ද නිළධාරීන් භාරයට ගන්නා ලදී.
+🟩
 
-කාර්යාංශයේ වලංගු රැකියා බලපත්‍රයක් නොමැතිව විදේශ රැකියා සඳහා බඳවාගැනීම හා මුදල් වංචාකිරීම යන චෝදනාවලට අත්අඩංගුවට ගත් සැකකරුවන් අදාළ නීති කෘත්‍යන් සඳහා අධිකරණයන් හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව අධිකරණය මගින් දඩුවම් පමුණුවා තිබේ.
+The Sri Lanka Bureau of Foreign Investigations have arrested twelve of the fraudulent employment racketeers who were conducting foreign employment traffickers from 25.04 (7/66).
 
-...
+There have been five women, including five women who have been provided with jobs in Qatar, New Zealand, Malaysia, Ramania, and Canada.. 108 files containing liquor papers and other documents were taken into custody.
+
+The suspects were taken to the charges of recruiting and cheating money for foreign employment without a valid job license of the Bureau.
+
+Foreign employment frauds have risen to the Sri Lankan youth of foreign employment opportunities. Minister Manu Nanayakkara has instructed the Special Investigation Division of the Bureau to expand its investigation against foreign employment frauds.. Accordingly, the Bureau has taken steps to prosecute the complaints received by the Special Investigation Division expeditiously and prosecute the wrongdoers.
+
+◼️
 
 [Data](articles/07542417.json)
+
+[Extended Data](ext_articles/07542417.ext.json)
 
 ---
 

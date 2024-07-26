@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 11:55:49**
+As of **2024-07-26 12:09:28**
 
 ## Newspaper Stats
 
-*Scraped **37,368** Articles*
+*Scraped **37,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,244
 dailyftlk | 2,389
-adalk | 3,400
+adalk | 3,402
 adaderanalk | 4,325
-tamilmirrorlk | 4,605
+tamilmirrorlk | 4,606
 dailymirrorlk | 4,733
 virakesarilk | 5,864
 adaderanasinhalalk | 6,269
@@ -26,25 +26,49 @@ adaderanasinhalalk | 6,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,360 (100.0%) of 37,368 articles have been extended.
+37,368 (100.0%) of 37,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### පොලිස්පති අවුල යළිත් අධිකරණයටම භාරදෙයි
+### யாழ்.கொள்ளைக்காரி கைது
+
+*2024-07-26 11:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-கொள்ளைக்காரி-கைது/71-341068) · `ta`
+
+யாழ்ப்பாணம் அனலைதீவு பகுதியில் கனேடிய தமிழ் குடும்பம் மீது தாக்குதலை மேற்கொண்டு கொள்ளையடித்த சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபரான பெண்ணொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+அனலைதீவை சேர்ந்த தமிழ் குடும்பம் ஒன்று, கனடாவில் குடியுரிமை பெற்று வந்து அங்கு வசித்து வந்த நிலையில், விடுமுறையை கழிக்க அனலைதீவுக்கு கடந்த வருடம் வந்து தங்கியிருந்துள்ளது.
+
+அந்நிலையில் கடந்த வருடம் பெப்ரவரி மாதம் 23ஆம் திகதி அவர்கள் தங்கியிருந்த வீட்டிற்குள் அத்துமீறி நுழைந்த வன்முறை கும்பல் வாள் வெட்டு தாக்குதலை மேற்கொண்டு , அவர்களிடம் இருந்த வெளிநாட்டு பணம் , நகைகள் , பொருட்கள் , கடவுசீட்டு உள்ளிட்டவற்றை கொள்ளையடித்து சென்றிருந்தது.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த ஊர்காவற்றுறை பொலிஸார் , யாழ்ப்பாணத்தில் இருந்து, பிரத்தியேக படகில் அனலைதீவுக்குச் சென்று தாக்குலை மேற்கொண்டு , கொள்ளையடித்துக்கொண்டு மீள படகில் ஏறி தப்பி சென்றமையை கண்டறிந்தனர்.
+
+...
+
+[Data](articles/7bd85b80.json)
+
+---
+
+### IGP handed over to court again
 
 *2024-07-26 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199227) · `si`
 
-පොලිස්පති ලෙස දේශබන්දු තෙන්නකෝන් මහතාව පත්කිරීම සම්බන්ධයෙන් කථානායක මහින්ද යාපා අබේවර්ධන මහතා අද (26) පාර්ලිමේන්තුවේදී විශේෂ පැහැදිලි කිරීමක් කළේය.
+In Parliament, Speaker Mahinda Yapa Abeywardena defended the appointment of Deshabandu Tennakoon as IGP, calling it a lawful, constitutional move. He stated that the President alone cannot resolve the current issue.
 
-ඔහු එහිදී පැවසුවේ පොලිස්පතිවරයාව පත් කිරීමට ගත් තීරණය නිවැරදි, නිත්‍යානුකූල, ව්‍යවස්ථානුකූල සහ සද්භාවයෙන් ගත් තීරණයක් බවය.
+🟩
 
-දැනට මතුවී ඇති ගැටලුව ජනාධිපතිවරයාටත් විසඳිය නොහැකි බව පැවසූ කථානායකවරයා පෙන්වා දුන්නේ එය අධිකරණය මගින් විසඳිය යුතු බවය.
+Speaker Mahinda Yapa Abeywardena has made a special explanation in Parliament today (26) to appoint Deshabandu Tennakoon as IGP.
+
+He said that the decision to appoint the IGP is a proper, legal, constitutional decision.
+
+The Speaker pointed out that the President cannot solve the problem at present.
 
 ◼️
 
 [Data](articles/765a28e1.json)
+
+[Extended Data](ext_articles/765a28e1.ext.json)
 
 ---
 
@@ -59,6 +83,8 @@ He further said that the situation with regard to the IGP cannot be resolved eve
 ◼️
 
 [Data](articles/5135490d.json)
+
+[Extended Data](ext_articles/5135490d.ext.json)
 
 ---
 
@@ -85,6 +111,18 @@ It is reported that 18 Palestinians have died while in Israel were killed in the
 [Data](articles/9765c5e3.json)
 
 [Extended Data](ext_articles/9765c5e3.ext.json)
+
+---
+
+### ජනාධිපතිවරණය සැප්තැම්බර් 21දා
+
+*2024-07-26 11:17:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සැප්තැම්බර්-21දා/11-411013) · `si`
+
+ජනාධිපතිවරණ ඡන්දය විමසීම ලබන සැප්තැම්බර් මස 21 වැනි දින පවත්වන බව සඳහන් කරමින් මැතිවරණ කොමිෂන් සභාව අති විශේෂ ගැසට් නිවේදනයක් ප්‍රකාශයට පත්කර තිබේ. ජනපති මැතිවරණය වෙනුවෙන් නාමයෝජනා භාර ගැනීම අගෝස්තු 15 වැනිදා සිදු කරන බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+◼️
+
+[Data](articles/10c928e0.json)
 
 ---
 
@@ -302,6 +340,8 @@ Gunawardana said he was reminding the speaker to intevene in the matter and inva
 
 [Data](articles/06200ae7.json)
 
+[Extended Data](ext_articles/06200ae7.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens stronger at 303.05/15 to US dollar, bonds up
@@ -325,6 +365,8 @@ In equities, Colombo’s All Share Price Index opened 3.07 points higher at 11,6
 ◼️
 
 [Data](articles/c3934d91.json)
+
+[Extended Data](ext_articles/c3934d91.ext.json)
 
 ---
 
@@ -385,6 +427,8 @@ Two others declared their candidacy yesterday: retired army chief Sarath Fonseka
 ◼️
 
 [Data](articles/66cb2280.json)
+
+[Extended Data](ext_articles/66cb2280.ext.json)
 
 ---
 
@@ -668,6 +712,8 @@ Although the court has said President Ranil Wickremesinghe can appoint a suitabl
 
 [Data](articles/6743a36c.json)
 
+[Extended Data](ext_articles/6743a36c.ext.json)
+
 ---
 
 ### President Ranil decides not to get involved in IGP issue?
@@ -727,6 +773,8 @@ The broader All Share Index closed down 0.52 percent, or 61.09 points, at 11,640
 ...
 
 [Data](articles/8351792c.json)
+
+[Extended Data](ext_articles/8351792c.ext.json)
 
 ---
 
@@ -793,6 +841,8 @@ Already 10 permits have been given to those who met the criteria. (Colombo/July2
 ◼️
 
 [Data](articles/34527584.json)
+
+[Extended Data](ext_articles/34527584.ext.json)
 
 ---
 
@@ -1850,6 +1900,22 @@ Police said that a lorry, which was coming from the arrival of the vehicle from 
 
 ---
 
+### කැනඩා අගමැතිගේ ප්‍රකාශය ලංකාව ප්‍රතික්ෂේප කරයි
+
+*2024-07-25 20:01:39* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-අගමැතිගේ-ප්‍රකාශය-ලංකාව-ප්‍රතික්ෂේප-කරයි/11-411009) · `si`
+
+ශ්‍රී ලංකාව තුළ ජන සංහාරයක් සිදුව ඇති බවට කැනඩා අග්‍රාමාත්‍ය ජස්ටින් ටෘඩෝ මහතා කළ චෝදනාව ප්‍රතික්ෂේප කරන බව ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශය  නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+මෙම කාරණය සම්බන්ධයෙන් ශ්‍රී ලංකාවේ ස්ථාවරය මීට පෙරද අග්‍රාමාත්‍ය ජස්ටින් ටෘඩෝ මහතා වෙත අවධාරණය කර ඇතැයිද විදේශ අමාත්‍යාංශය පවසයි.
+
+කැනඩාවේ දේශීය  ඡන්ද පදනම සැලකිල්ලට ගෙන කරන මෙම චෝදනා ශ්‍රී ලංකාව සහ කැනඩාව යන දෙඅංශයේම සමගියට සහ වාර්ගික සහජීවනයට හිතකර නොවන බව විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/6dfe923c.json)
+
+---
+
 ### Mahinda says that 30 government ministers are supporting Ranil
 
 *2024-07-25 19:53:51* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මැති-ඇමතිවරු-30-ක්-රනිල්ට-සහය-දෙන-බව-මහින්දගේ-මූණටම-කියයි/11-411008) · `si`
@@ -2015,79 +2081,5 @@ When Sri Lanka Development Bonds were repaid in rupees without a haircut, the ce
 [Data](articles/4d1d9682.json)
 
 [Extended Data](ext_articles/4d1d9682.ext.json)
-
----
-
-### Unemployed graduates protest in Colombo today
-
-*2024-07-25 19:26:34* · [`adalk`](https://www.ada.lk/breaking_news/රැකියා-විරහිත-උපාධිධාරීන්-අද-කොළඹදී-විරෝධතාවක/11-411006) · `si`
-
-Unemployed graduates protested in Colombo today, demanding jobs. The protest, now in its sixth day, began outside the Colombo Fort Railway Station. Despite no response from authorities, the protesters continue their sit-in and plan additional protests.
-
-🟩
-
-The unemployed graduate Association states that a protest will be held in front of Colombo Fort Railway Station today (26) demanding employment to all the unemployed graduates.
-
-The union states that 5 days have passed since the continued satyagraha who started in front of the Fort Railway to provide employment to graduates.
-
-However, it is said that the authorities have not responded to the relevant action so far and the unemployed graduates will be held in Colombo and hold the protest campaign in parallel to the Sathyagraha.
-
-It also pointed out that a protest was held on the 22nd and then the Sathyagraha movement, but it was published in this month.
-
-◼️
-
-[Data](articles/c4c6fbec.json)
-
-[Extended Data](ext_articles/c4c6fbec.ext.json)
-
----
-
-### Complaint to the Bribery Commission against Manusha and Harins
-
-*2024-07-25 19:20:55* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂට-හා-හරීන්ට-එරෙහිව-අල්ලස්-කොමිෂමට--පැමිණිල්ලක්/11-411005) · `si`
-
-Harin Fernando and Manusha Nanayakkara, Sri Lanka's Sports and Labor Ministers, have filed a bribery complaint with the Bribery Commission. They are accused of planning to misuse state funds and resources for the upcoming presidential election, including organizing music events with foreign artists.
-
-🟩
-
-Minister of Sports, Harin Fernando and Labor and Foreign Employment Minister Manusantha Nanayakkara has lodged a complaint with the Bribery or Corruption Commission (25).
-
-They allegedly speaking in the next presidential election and misuse of state property and money misuse of state property and festivals across the country.
-
-Minister Harin Fernando, as a waste of millions of millions of millions of millions of millions of millions of foreign singers, is conducting various musicals at the next election, targeting the next presidential election, conducting various musicals in the next election, spending millions of foreign singers as well as spending millions of foreign singers.Has been accused.
-
-◼️
-
-[Data](articles/2f794733.json)
-
-[Extended Data](ext_articles/2f794733.ext.json)
-
----
-
-### Wickremabahu - Tamil National Alliance (TNA) sympathy
-
-*2024-07-25 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189376) · `ta`
-
-Dr. Wickremabahu, a prominent figure in the Tamil National Alliance (TNA), expressed deep sympathy for the loss of Wickramabahu Karunaratne, highlighting his significant role in advocating for Tamil self-determination and his commitment to the Eelam Tamil rights movement. This statement came during a parliamentary debate on economic transfer and state finance management bills, underscoring the ongoing struggle for Tamil autonomy within Sri Lanka.
-
-🟩
-
-The Tamils ​​have the right to self -determination and the Tamils ​​have lost their respect for the Sinhalese, the best progressive politician, the best progressive politician who has been the one who has to live as a separate nation in this country.Sridharan said.
-
-He was speaking at a debate on the Economic Transfer Bill and the State Finance Management Bill held in Parliament on Thursday (25).
-
-The leader of the Nava Sama Samaja Party, Dr. Wickremabahu, who lived with the best leftist principle in this country, has said goodbye from Karunaratne Karunaratne.
-
-We are deepest sympathy for the demise of Wickramabahu Karunaratne, who has adopted the same position to the end of the Eelam Tamil rights position.
-
-He is the only principle of the Tamil issue and the leading struggles.
-
-The Tamil people have the right to self -determination and the Tamils ​​have lost the best father -in -law of the Sinhalese that the Tamils ​​are entitled to live as a separate nation in this country.
-
-◼️
-
-[Data](articles/6aaf2305.json)
-
-[Extended Data](ext_articles/6aaf2305.ext.json)
 
 ---

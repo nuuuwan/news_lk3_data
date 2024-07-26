@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 00:07:27**
+As of **2024-07-27 00:20:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,468 (100.0%) of 37,470 articles have been extended.
+37,470 (100.0%) of 37,470 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1358,6 +1358,8 @@ Assuming unchanged tariffs and costs for the rest of the year, Fitch said CEB’
 
 [Data](articles/8e91b5e9.json)
 
+[Extended Data](ext_articles/8e91b5e9.ext.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -1511,6 +1513,8 @@ In a gazette issued in the early hours of Friday July 26, the commission said th
 ◼️
 
 [Data](articles/4546a74a.json)
+
+[Extended Data](ext_articles/4546a74a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 12:35:49**
+As of **2024-07-26 12:53:38**
 
 ## Newspaper Stats
 
-*Scraped **37,381** Articles*
+*Scraped **37,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,128 @@ bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,244
 dailyftlk | 2,389
-adalk | 3,402
-adaderanalk | 4,326
-tamilmirrorlk | 4,607
+adalk | 3,404
+adaderanalk | 4,327
+tamilmirrorlk | 4,608
 dailymirrorlk | 4,733
-virakesarilk | 5,871
-adaderanasinhalalk | 6,270
+virakesarilk | 5,872
+adaderanasinhalalk | 6,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,380 (100.0%) of 37,381 articles have been extended.
+37,381 (100.0%) of 37,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### ரயிலில் மோதி ஒருவர் உயிரிழப்பு
+### Scorn as Bangladesh PM weeps at train station damage
+
+*2024-07-26 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100790/scorn-as-bangladesh-pm-weeps-at-train-station-damage) · `en`
+
+Bangladesh’s leader has been accused of crying “crocodile tears” after she was photographed weeping at a train station that was destroyed during anti-government protests.
+
+At leat 150 people have been killed as a result of nationwide clashes between police and university students, with security forces accused of execessive force.
+
+Protesters had been calling for quotas on government jobs to be scrapped.
+
+Online, many accused Ms Hasina of not expressing the same level of sympathy towards those who had died, or their families.
+
+The pictures were taken during Ms Hasina’s visit to a metro rail station in the city of Mirpur on Thursday, where ticket vending machines and the signalling control station were shattered. Ms Hasina was pictured frowning and wiping her tears with tissue paper.
+
+...
+
+[Data](articles/cb1c1473.json)
+
+---
+
+### அக்போ யானையை பிடித்து காட்டுக்குள் விடுவிக்க உத்தரவு
+
+*2024-07-26 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189409) · `ta`
+
+கடந்த  ஒரு வருடத்திற்கும் மேலாக திரப்பனை பகுதியில் சுற்றித்திரியும் அக்போ என அழைக்கப்படும் காட்டு யானையை பிடித்து காட்டுப் பகுதிக்குள் விடுவிக்குமாறு  அநுராதபுரம் வனஜீவராசிகள் பாதுகாப்பு உதவி பணிப்பாளருக்கு அநுராதபுரம் பிரதான நீதவான் நேற்று வியாழக்கிழமை (25) உத்தரவிட்டுள்ளார்.
+
+தனியார் தொலைக்காட்சி சேனலின் ஊழியர் ஒருவர் ட்ரோன் கமரா மூலம் யானையை புகைப்படம் எடுத்ததாக தொடரப்பட்ட வழக்கு நேற்றைய தினம் விசாரணைக்கு  எடுத்துக் கொள்ளப்பட்டது.
+
+இதன் போது, பாதுகாக்கப்பட வேண்டிய யானை பொதுமக்கள் இருக்கும் இடத்தில் விடப்பட்டுள்ளதாகவும், யானையை கிராமங்களுக்குள் சுற்றித் திரிந்து பயிர்களையும் சொத்துக்களையும் அழிக்க அனுமதித்தால் அதன் உயிருக்கு ஆபத்து ஏற்படும் எனவும் பொலிஸார் நீதிமன்றத்தில் தெரிவித்தனர்.
+
+அத்துடன், யானையின்  உயிருக்கோ அல்லது மனித உயிர்களுக்கோ ஏதேனும் ஆபத்து ஏற்படுவதைத் தடுக்க யானையை பிடித்து வனவிலங்கு பாதுகாப்புத் திணைக்களம் காட்டுப்பகுதிக்குள் விடுவிக்குமாறு உத்தரவிடுமாறு பொலிஸ் அதிகாரி நீதிமன்றத்தை கோரினார்.
+
+...
+
+[Data](articles/92c5f705.json)
+
+---
+
+### ஜனாதிபதியால் தீர்க்க முடியாது:சபாநாயகர்
+
+*2024-07-26 12:23:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியால்-தீர்க்க-முடியாது-சபாநாயகர்/175-341072) · `ta`
+
+பொலிஸ் மா அதிபரை நீக்குவதற்கு விசேட நடைமுறையொன்று தேவை எனவும், பொலிஸ் மா அதிபர் தொடர்பான நிலைமையை ஜனாதிபதியால் தீர்க்க முடியாது எனவும், தேவைப்பட்டால் நீதிமன்றில் தீர்த்துக்கொள்ள வேண்டும் எனவும் சபாநாயகரும் அரசியலமைப்பு பேரவையின் தலைவருமான  மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/109ff9f0.json)
+
+---
+
+### අගමැතිනියගේ කිඹුල් කඳුළු
+
+*2024-07-26 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199229) · `si`
+
+පසුගියදා ඇතිවූ විරෝධතා අතරතුර හානියට පත්වූ දුම්රිය ස්ථානයක් නැරඹීමට ගිය බංග්ලාදේශ අගමැතිනි ෂෙයික් හසීනා කඳුළු පිරි දෑසින් එදෙස බලාසිටින ඡායාරූපයක් මේ වනවිට සමාජ මාධ්‍යයේ සංසරණය වෙයි.
+
+ඒ සම්බන්ධයෙන් එරට ජනතාව පවසන්නේ අගමැතිවරිය කිඹුල් කඳුළු හෙළන බවයි.
+
+එරට පැවති උද්ඝෝෂණ හේතුවෙන් 150 දෙනෙක් පමණ මියගිය අතර එම මියගිය අය වෙනුවෙන් අගමැතිවරිය ඒ ආකාරයට කනගාටු නොවූ බව සමහරු පවසති.
+
+එරට රජයේ රැකියාවලින් 30%ක් යුද විරුවන්ගේ ඥාතීන්ට ලබාදිය යුතු බවට ගෙන ආ යෝජනාවට එරෙහිව සිසු උද්ඝෝෂණ ඇතිවිය.
+
+ඒ හේතුවෙන් රටපුරා හදිසි තත්ත්වයක් ඇතිවූ අතර පසුව එරට අධිකරණය මැදිහත්වී රැකියා කෝටාව 7%ක් දක්වා අඩු කළේය.
+
+◼️
+
+[Data](articles/2c60ec28.json)
+
+---
+
+### Dies
 
 *2024-07-26 12:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-ஒருவர்-உயிரிழப்பு/175-341070) · `ta`
 
-கொழும்பு கோட்டையில் இருந்து பதுளை நோக்கி பயணித்த இரவு அஞ்சல் ரயிலில் மோதி ஒருவர் உயிரிழந்துள்ளதாக எல்ல பொலிஸார் தெரிவித்தனர்.
+A tragic accident occurred when a postal train collided, resulting in the death of 26-year-old Jepamala Mariajodi Fernando, a resident of Kavarawela Division, Temodara. The incident took place during his journey from Colombo Fort to Badulla. His body was retrieved from the train and handed over to the police at Hali Ella Station.
 
-தெமோதர, கவரவெல பிரிவு என்ற முகவரியில் வசித்து வந்த 26 வயதுடைய ஜெபமாலா மரியஞ்சோதி பெர்ணான்டோ என்ற இளைஞனே உயிரிழந்துள்ளார்.
+🟩
 
-சடலம் அதே ரயிலில் இருந்து எடுத்துச் செல்லப்பட்டு ஹாலிஎல்ல நிலையத்தில் எல்ல பொலிஸாரிடம் ஒப்படைக்கப்பட்டதாக ரயில்வே திணைக்களத்தின் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+Ella police said that a person who was traveling from Colombo Fort to Badulla was killed when a postal train collided.
+
+A 26 -year -old Jepamala Mariajodi Fernando, a young man, who lives at the Kavarawela Division, Temodara, has died.
+
+A spokesman for the Railway Department said that the body was taken from the same train and handed over to all the police at the Hali Ella Station.
 
 ◼️
 
 [Data](articles/d0a28b50.json)
+
+[Extended Data](ext_articles/d0a28b50.ext.json)
+
+---
+
+### වැඩ බලන පොලිස් මාධ්‍ය ප්‍රකාශක ලෙස රුවන් ගුණසේකර මහතා පත් කරයි
+
+*2024-07-26 12:06:17* · [`adalk`](https://www.ada.lk/breaking_news/වැඩ-බලන-පොලිස්-මාධ්‍ය-ප්‍රකාශක-ලෙස-රුවන්-ගුණසේකර-මහතා-පත්-කරයි/11-411016) · `si`
+
+රුවන් ගුණසේකර මහතා වැඩ බලන පොලිස් මාධ්‍ය ප්‍රකාශකවරයා ලෙස පත්කර ඇත.
+
+පොලිස් මාධ්‍ය ප්‍රකාශකවරයා ලෙස කටයුතු කළ නියෝජ්‍ය පොලිස්පති නිහාල් තල්දුව මහතා පෞද්ගලික අවශ්‍යතාවක් මත  විදෙස්ගත වීම හේතුවෙන් රුවන් ගුණසේකර මහතා මෙම තනතුරට පත්කර ඇත.
+
+තල්දුව මහතා නැවත දිවයිනට පැමිණි පසු නැවත පොලිස් මාධ්‍ය ප්‍රකාශක ලෙස කටයුතු කරන බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/bbc9cb08.json)
 
 ---
 
@@ -143,6 +235,20 @@ While investigating the woman, the head of the Iyyappan temple in Canada had con
 [Data](articles/7bd85b80.json)
 
 [Extended Data](ext_articles/7bd85b80.ext.json)
+
+---
+
+### ජනාධිපතිවරණයට රනිල් මුලින්ම ඇප තියයි
+
+*2024-07-26 11:48:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රනිල්-මුලින්ම-ඇප-තියයි/11-411014) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 2024 ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත්වීමට අදාළව මැතිවරණ කොමිෂන් සභාව වෙත ඇප මුදල් තැන්පත් කර තිබේ. ඔහු වෙනුවෙන් ජනාධිපති නීතිඥ රොනල්ඩ් සී. පෙරේරා මහතා ඇප මුදල් තැන්පත් කළේය.
+
+ජනාධිපතිවරණය සඳහා පළමු ඇප මුදල් තැන්පත් කිරීම සිදු කළේද ජනාධිපති රනිල් වික්‍රමසිංහ මහතායි.
+
+◼️
+
+[Data](articles/0a26b306.json)
 
 ---
 
@@ -1995,135 +2101,5 @@ The special speech will be announced by the Prime Minister as a response to the 
 [Data](articles/89e1e153.json)
 
 [Extended Data](ext_articles/89e1e153.ext.json)
-
----
-
-### PM to announce govt’s official stance on IGP issue
-
-*2024-07-25 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/100775/pm-to-announce-govts-official-stance-on-igp-issue) · `en`
-
-Prime Minister Dinesh Gunawardena will officially inform Parliament of the government’s official position on the Supreme Court decision regarding the post of the Inspector General of Police (IGP), in a special statement tomorrow (26).
-
-The Cabinet of Ministers, which convened an urgent meeting yesterday (24), had decided to announce its response to the decision of the Supreme Court regarding the Inspector General of Police (IGP) within two days after studying in depth the legal aspects of the matter.
-
-The Supreme Court yesterday (24) issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
-
-The Supreme Court had issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
-
-...
-
-[Data](articles/49647d51.json)
-
-[Extended Data](ext_articles/49647d51.ext.json)
-
----
-
-### Tips received after the case of the IGP
-
-*2024-07-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199211) · `si`
-
-Following the Supreme Court's decision, the Inspector General of Police's position has been vacated. The President is advised to fill this vacancy temporarily under the 21st Constitutional Amendment. An interim order prevents Deshabandu Tennakoon from serving as IGP, and nine fundamental rights petitions challenge his appointment. The court has directed the President to appoint a legally suitable individual to the IGP post until the petitions are resolved.
-
-🟩
-
-The President has given legal advice that the Inspector General of Police have been emptied by the Supreme Court decision.
-
-The government spokesman said that the post of acting to the president will be appointed as the IGP in the absence of the post of IGP according to the 21st Constitutional Amendment.
-
-The Supreme Court issued an interim injunction yesterday (24), preventing Deshabandu Tennakoon from working as IGP.
-
-It was decided to hear 09 fundamental rights petitions filed by the Supreme Court to challenge the appointment of him as IGP.
-
-The Supreme Court also appointed the President to appoint an ideal person legally suitable person to the post of IGP until the completion of the petition.
-
-◼️
-
-[Data](articles/d295b2cf.json)
-
-[Extended Data](ext_articles/d295b2cf.ext.json)
-
----
-
-### Government's stand on IGP tomorrow
-
-*2024-07-25 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199210) · `si`
-
-Tomorrow, Prime Minister Dinesh Gunawardena will make a special statement in Parliament regarding the government's stance on the Supreme Court's decision about the Inspector General of Police (IGP).
-
-🟩
-
-Prime Minister Dinesh Gunawardena is said to have a special statement in Parliament tomorrow morning.
-
-Accordingly, the government's position is officially stated in relation to the Supreme Court decision on the IGP.
-
-◼️
-
-[Data](articles/4bee9045.json)
-
-[Extended Data](ext_articles/4bee9045.ext.json)
-
----
-
-### A man killed in Colombo
-
-*2024-07-25 20:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-341043) · `ta`
-
-In Colombo, a man named Otto, who drives for a ride-hailing service, was shot dead in Granpas. A woman was also injured in this incident.
-
-🟩
-
-Otto driver was killed in a shooting incident in Granpas, Colombo. The woman is injured
-
-◼️
-
-[Data](articles/4496bc30.json)
-
-[Extended Data](ext_articles/4496bc30.ext.json)
-
----
-
-### Shooting in Colombo;One kills!
-
-*2024-07-25 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/189386) · `ta`
-
-A shooting in Colombo's Grandpass, Wadullawatte area on Thursday resulted in two injuries and one fatality.
-
-🟩
-
-The shooting incident took place on Thursday (25) in the Grandpass, Wadullawatte area, police said.
-
-Two people were injured and admitted to the hospital, but one of them died, according to Pindik.
-
-◼️
-
-[Data](articles/a606c298.json)
-
-[Extended Data](ext_articles/a606c298.ext.json)
-
----
-
-### Explains how to reduce election costs
-
-*2024-07-25 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199209) · `si`
-
-Election Commissioner Saman Sri Ratnayake states that no proposals to cut election costs have been approved by the Cabinet. Despite summoning commission officials to a government oversight committee, questions remain about cost-saving measures, particularly regarding voting fingerprint technology. The commissioner mentions a proposal related to reducing costs but notes its rejection and the ongoing need for effective solutions.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that the Cabinet has not received the approval of any proposals made by the Election Cost to reduce election costs.
-
-The Commission officials were summoned when the Commission officials were summoned to the sectoral Oversight Committee on a responsible government.
-
-Jagath Kumara, Chairman of the Sectoral Oversight Committee, has questioned what measures have been taken to reduce the cost of fingerprus of voting.
-
-The Commissioner General of Elections Saman Sri Ratnayake said that the paint is a cost of Rs.
-
-Also, 14,000 officers can reduce cost costs.
-
-...
-
-[Data](articles/87f13eb2.json)
-
-[Extended Data](ext_articles/87f13eb2.ext.json)
 
 ---

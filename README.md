@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 16:20:25**
+As of **2024-07-26 16:36:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,416 (100.0%) of 37,417 articles have been extended.
+37,417 (100.0%) of 37,417 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The truck driver has been arrested in relation to the accident by Elpitiya Polic
 ◼️
 
 [Data](articles/17770d76.json)
+
+[Extended Data](ext_articles/17770d76.ext.json)
 
 ---
 

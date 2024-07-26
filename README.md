@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 22:09:14**
+As of **2024-07-26 22:21:14**
 
 ## Newspaper Stats
 
-*Scraped **37,449** Articles*
+*Scraped **37,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,107 @@ islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,409
-adaderanalk | 4,337
-tamilmirrorlk | 4,619
+adaderanalk | 4,338
+tamilmirrorlk | 4,621
 dailymirrorlk | 4,733
-virakesarilk | 5,888
+virakesarilk | 5,893
 adaderanasinhalalk | 6,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,449 (100.0%) of 37,449 articles have been extended.
+37,449 (100.0%) of 37,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### ‘No nation supported Sri Lanka like Pakistan during war’ – envoy
+
+*2024-07-26 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100801/no-nation-supported-sri-lanka-like-pakistan-during-war-envoy) · `en`
+
+High Commissioner of Sri Lanka, Ambassador Admiral (R) Ravindra C Wijegunaratne on Friday said the people of Sri Lanka esteemed Pakistan as a friendly country unlike any other nation for its unprecedented support against terrorism.
+
+He was addressing the Institute of Regional Studies (IRS)’s seminar on “Building on Pakistan-Sri Lanka Cooperation” here as the keynote speaker.
+
+Ambassador Ravindra said Sri Lanka’s Prime Minister and the world’s first female premier Sirimavo Bandaranaike despite her close relationship with her Indian counterpart Indira Gandhi gave safe passage and permission to Pakistan to use its airspace and Colombo air base during its 1971 War.
+
+However, Sri Lank fought thirty years long worst war against the Liberation Tigers of Tamil Eelam (LTTE), he said, adding, “No nation supported us like Pakistan in this war and we have memory like elephants to keep it intact in our minds.”
+
+...
+
+[Data](articles/70f24f2e.json)
+
+---
+
+### பந்துவீச்சில் ரேணுகா, ராதா அபாரம்; பங்களாதேஷை 10 விக்கெட்களால் வென்று இறுதிக்குள் நுழைந்தது இந்தியா
+
+*2024-07-26 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189483) · `ta`
+
+ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை (26) பிற்பகல் நடைபெற்ற மகளிர் ரி20 ஆசிய கிண்ணத்திற்கான முதலாவது அரை இறுதிப் போட்டியில் பங்களாதேஷை 10 விக்கெட்களால் வெற்றிகொண்ட நடப்பு சம்பியன் இந்தியா முதல் அணியாக இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+
+வேகப்பந்து வீச்சாளர் ரேணுகா சிங், சுழல்பந்துவீச்சாளர் ராதா யாதவ் ஆகிய இருவரும் தங்களிடையே 6 விக்கெட்களைப் பகிர்ந்து இந்தியாவின் வெற்றிக்கு அடிகோலினர்.
+
+அவர்கள் இருவரின் பந்துவீச்சுகளின் உதவியுடன் பங்களாதேஷை குறைந்த எண்ணிக்கைக்கு கட்டுப்படுத்திய இந்தியா, தொடர்ச்சியாக துடுப்பாட்டத்தில் அசத்தி வரும் ஆரம்ப வீராங்கனைகளின் உதவியுடன் வெற்றி இலக்கை இலகுவாக கடந்தது.
+
+இந்த வெற்றியுடன் மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் வரலாற்றில் சகல இறுதிப் போட்டிகளிலும் விளையாடுவதை இந்தியா உறுதிசெய்துகொண்டது.
+
+தற்போது நடைபெற்றுவரும் இலங்கை - பாகிஸ்தான் அணிகளுக்கு இடையிலான இரண்டாவது அரை இறுதிப் போட்டியில் வெற்றிபெறும் அணியை ஞாயிற்றுக்கிழமை (28) நடைபெறவுள்ள இறுதிப் போட்டியில் இந்தியா எதிர்தாடும்.
+
+...
+
+[Data](articles/5804ad02.json)
+
+---
+
+### பதில் பொலிஸ்மா அதிபரை நியமிக்க முடியாவிடின் ஜனாதிபதி பதவி விலக வேண்டும் - ஆளும்,எதிர்க்கட்சி கடும் தர்க்கம்
+
+*2024-07-26 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189482) · `ta`
+
+தேசபந்து தென்னகோன் பொலிஸ்மா அதிபராக செயற்படுவதற்கு  உயர்நீதிமன்றம்  இடைக்கால தடையுத்தரவு விதித்துள்ள  நிலையில், பதில் பொலிஸ்மா அதிபர் ஒருவரை நியமிக்க முடியுமா? முடியாதா? என்பது தொடர்பில் ஆளும் மற்றும் எதிர்க்கட்சி கட்சிகளுக்கிடையே ஏற்பட்ட கடும் தர்க்கத்தினால் சபையில் ஒரு மணித்தியாலத்திற்கும் மேலாக அமளி துமளி ஏற்பட்டது.
+
+பொலிஸ்மா அதிபர் பதவி விலக்கப்படவோ, பதவி விலகவோ இல்லையென்றும் இதனால் பதில் பொலிஸ்மா அதிபரை நியமிக்க முடியாது என்று ஆளும் கட்சியினர் கூறியதுடன், உயர்நீதிமன்றத்தின் தீர்ப்புக்கு மதிப்பளித்து பதில் பொலிஸ்மா அதிபரை நியமிக்க நடவடிக்கை எடுக்க வேண்டும் என்று எதிர்க்கட்சியினர் வலியுறுத்தினர்.பதில் பொலிஸ்மா அதிபரை நியமிக்க ஜனாதிபதிக்கு முடியாவிடின் அவர் பதவி விலக வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச குறிப்பிட்ட கருத்துக்கு ஆளும் தரப்பு கடும் எதிர்ப்பை வெளிப்படுத்தியது.
+
+...
+
+[Data](articles/f369d96a.json)
+
+---
+
+### முச்சக்கரவண்டியில் வந்திறங்கினார் மைத்திரி
+
+*2024-07-26 21:47:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கரவண்டியில்-வந்திறங்கினார்-மைத்திரி/175-341088) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தொகுதி அமைப்பாளர்களின் கூட்டம் இன்று (26) அத்துருகிரியவில் உள்ள விஜேதாச ராஜபக்ஷவின் தேர்தல் செயற்பாட்டு அலுவலகத்தில் நடைபெற்றிருந்தது.
+
+இதில், கலந்துகொள்வதற்காக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன முச்சக்கர வண்டியில் அவ்விடத்திற்கு வந்தமை விசேட அம்சமாகும்.
+
+தேர்தல் சட்டங்கள் அமுல்படுத்தப்பட்டுள்ளதால் அந்த சட்டங்களுக்கு மதிப்பளித்து அரச வாகனங்களை பயன்படுத்தாது முச்சக்கரவண்டியில் வந்ததாக தெரிவித்தார். R
+
+◼️
+
+[Data](articles/de984b42.json)
+
+---
+
+### தேர்தல் சட்டத்துக்கு எதிராக எவரும் செயற்பட முடியாது புதிய அறிவுறுத்தல் நிரூபம் வெளியிடப்படும் - தேர்தல்கள் ஆணைக்குழு
+
+*2024-07-26 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189481) · `ta`
+
+அரசியலமைப்பின் ஏற்பாடுகள் மற்றும் 1981 ஆம் ஆண்டு ஜனாதிபதி தேர்தல்கள் சட்டம் என்பனவற்றுக்கு அமைவாகவே நாங்கள் செயற்படுகிறோம். இதனை தவிர்த்து பிற தரப்பினரது அழுத்தங்களுக்கு அடிபணிய போவதில்லை. தேர்தல் சட்டத்தின் ஏற்பாடுகள் வெள்ளிக்கிழமை (26) செயற்படுத்தப்படும்.
+
+தேர்தல் சட்டத்துக்கு எதிரான செயற்பாடுகளில் எவரும் ஈடுபட முடியாது. தேர்தல் தொடர்பான செயற்திட்டங்கள் மற்றும் சட்ட வழிமுறைகள் தொடர்பான அறிவுறுத்தல்களை வெகுவிரைவில் வெளியிடுவோம் என தேர்தல்கள் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+தேர்தல்கள் ஆணைக்குழுவின் காரியாலயத்தில் வெள்ளிக்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி தேர்தல் தொடர்பான உத்தியோகபூர்வ அறிவிப்பை வெளியிட்டுள்ளோம்.இதற்கமைய  எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி வாக்கெடுப்பை நடத்துவதற்கும்,எதிர்வரும் மாதம் 15 ஆம் திகதி வேட்பு மனுக்களை பொறுப்பேற்கவும் தீர்மானிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/08dfe83c.json)
+
+---
 
 ### Ramesh Mendis called up as replacement for Binura Fernando
 
@@ -47,6 +133,18 @@ Meanwhile, the Sri Lanka Cricket Board has said in a statement that Binura is be
 [Data](articles/26557fd6.json)
 
 [Extended Data](ext_articles/26557fd6.ext.json)
+
+---
+
+### பலத்த பாதுகாப்புக்கு அறிவுறுத்தல்
+
+*2024-07-26 21:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-பாதுகாப்புக்கு-அறிவுறுத்தல்/175-341087) · `ta`
+
+ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்டதைத் தொடர்ந்து ஜனாதிபதி வேட்பாளர்கள் மற்றும் பிரஜைகளின் பாதுகாப்பை உறுதிப்படுத்த தேவையான அனைத்து நடவடிக்கைகளையும் அமுல்படுத்துமாறு பாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னகோன் இன்று பாதுகாப்பு அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்
+
+◼️
+
+[Data](articles/5947c201.json)
 
 ---
 
@@ -230,6 +328,22 @@ MP Anura Kumara Dissanayake made this statement regarding the appointment of a a
 
 ---
 
+### கடமைகளை நிறைவேற்றமுடியாவிடின் பதவி விலகி பிரதமர் நிறைவேற்ற இடமளியுங்கள் - சாலிய பீரிஸ் வலியுறுத்தல்
+
+*2024-07-26 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189446) · `ta`
+
+பதில் பொலிஸ்மா அதிபரை நியமிப்பதிலிருந்து தான் விலகியிருப்பதாக ஜனாதிபதி அறிவித்திருப்பதானது, அவரால் மாத்திரம் நிறைவேற்றப்படக்கூடிய கடமைகளை அவர் புறக்கணித்துச் செயற்படுவதையே காண்பிக்கிறது. அவரால் அவருக்குரிய கடமைகளை ஈடேற்ற முடியாவிடின், அரசியலமைப்பின் பிரகாரம் தற்காலிகமாகப் பதவி விலகி, அக்கடமைகளை நிறைவேற்றுவதற்கு பிரதமருக்கு இடமளிக்கவேண்டும் என ஜனாதிபதி சட்டத்தரணி சாலிய பீரிஸ் வலியுறுத்தியுள்ளார்.
+
+தேர்தல் பதில் பொலிஸ்மா அதிபரை நியமித்தால் தனக்கு எதிராக நீதிமன்றத்தில் மனுத்தாக்கல் செய்யப்படுமென சட்ட ஆலோசனை கிடைத்திருப்பதாகவும், எனவே இதிலிருந்து தான் விலகியிருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு அறிவித்திருக்கிறார்.
+
+இதுகுறித்துக் கடும் அதிருப்தி வெளியிட்டுள்ள இலங்கை சட்டத்தரணிகள் சங்கத்தின் முன்னாள் தலைவர் ஜனாதிபதி சட்டத்தரணி சாலிய பீரிஸ், உயர்நீதிமன்றத்தின் தீர்ப்பை ஏற்றுக்கொள்வதற்கான பக்குவமோ, நேர்மைத்தன்மையோ அற்ற ஜனாதிபதியினால் அதனை மீறுவதற்கு மேற்கொள்ளப்படும் மற்றுமொரு மிகமோசமான முயற்சியே இதுவென சுட்டிக்காட்டியுள்ளார்.
+
+...
+
+[Data](articles/98aec6e3.json)
+
+---
+
 ### Police Chancellor Controversy: The President cannot resolve even the problem - Speaker
 
 *2024-07-26 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189451) · `ta`
@@ -277,6 +391,22 @@ In addition, the SLFP has not taken any decision to support any candidate who ha
 [Data](articles/d943e000.json)
 
 [Extended Data](ext_articles/d943e000.ext.json)
+
+---
+
+### பாராளுமன்றத்துக்கும் நீதிமன்றத்துக்கும் இடையில் மோதலை ஏற்படுத்த சபாநாயகர் இடமளிக்கக்கூடாது - ரவூப் ஹக்கீம்
+
+*2024-07-26 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189464) · `ta`
+
+ஜனாதிபதி தனக்கு தேவையான பொலிஸ்மா அதிபரை வைத்துக்கொண்டு ஏதாவது சதி நடவடிக்கைகளை மேற்கொள்ளவே முயற்சிக்கிறார். அதேபோன்று,  பாராளுமன்றத்துக்கும் நீதிமன்றத்துக்கும் இடையில் மோதலை ஏற்படுத்த முற்படுகிறார்கள்.  அதற்கு நீங்கள் இடமளிக்க வேண்டாம். இதன் பயங்கரமான நிலையை புரிந்துகொண்டு செயற்பட வேண்டும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26) பதில் பொலிஸ்மா அதிபர் ஒருவரை நியமிப்பது தொடர்பில் பிரதமரின் விசேட உரைக்கு பதிலளிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+அரசியலமைப்பு பேரவை பாராளுமன்றத்தின் ஒரு பகுதி என்ற கருத்தை பிரதமர் தெரிவிக்கிறார். ஆனால் இந்த சபையில் ஜனாதிபதி இதற்கு முன் ஒரு சந்தர்ப்பத்தில், அரசியலமைப்பு பேரவை நிறைவேற்று துறையின் ஒரு பகுதி என விவாதிட்டிருந்தார். அதனால் தங்களுக்கு தேவையான முறையில் இதற்கு பொருள்கோடல் தெரிவிப்பதை அரசாங்கம் நிறுத்திக்கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/10a40208.json)
 
 ---
 
@@ -2147,167 +2277,5 @@ The Supreme Court had issued this order after granting leave to proceed with the
 [Data](articles/fc3abe74.json)
 
 [Extended Data](ext_articles/fc3abe74.ext.json)
-
----
-
-### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka Physical & Digital Connectivity Dialogue
-
-*2024-07-26 09:58:00* · [`islandlk`](http://island.lk/pathfinder-foundation-and-ananta-aspen-centre-lead-india-sri-lanka-physical-digital-connectivity-dialogue/) · `en`
-
-The Roundtable Discussion on “Bridging Borders: Enhancing Connectivity Between India and Sri Lanka,”, concluded successfully, fostering insightful dialogue and collaborative discussion on strengthening physical and digital connectivity between the two nations.
-
-The event commenced with welcome and opening remarks by Amb. (Retd.) Bernard Goonetilleke, Chairman of Pathfinder Foundation, and Ms. Indrani Bagchi, Chief Executive Officer of Ananta Aspen Centre, set the tone for a productive session. The two sessions can be live on the Pathfinder Foundation web or YouTube link, https://rb.gy/11n635
-
-Session 1 focused on the transformative potential of Digital Public Infrastructure (DPI) in driving development across emerging markets, bringing distinguished speakers and discussants to explore how DPI can catalyze economic growth and regional connectivity.
-
-...
-
-[Data](articles/3c6537f2.json)
-
-[Extended Data](ext_articles/3c6537f2.ext.json)
-
----
-
-### The president has no authority - the Prime Minister's announcement!
-
-*2024-07-26 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189399) · `ta`
-
-In a parliamentary address, PM Dinesh Gunawardena stated that the President lacks constitutional power to appoint the Inspector General of Police. He also mentioned that since Ranil Wickremesinghe is the presidential candidate, he cannot appoint a police chief due to constitutional restrictions.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said the President had no authority to appoint the Inspector General of Police in response to the legal provisions.
-
-Prime Minister Dinesh Gunawardena made this statement in a special announcement in Parliament today (26).
-
-Meanwhile, Prime Minister Dinesh Gunawardena said that as Ranil Wickremesinghe is the candidate of the presidential election, he will not be able to appoint a police chief in response to the constitution.
-
-◼️
-
-[Data](articles/bb430cac.json)
-
-[Extended Data](ext_articles/bb430cac.ext.json)
-
----
-
-### Sri Lanka’s president pays candidate deposit
-
-*2024-07-26 09:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-president-pays-candidate-deposit-173866/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s president Ranil Wickremesinghe has deposited the candidate’s fee for the upcoming presidential election.
-
-The country’s Election Commission announced that the poll will be held on September 21.
-
-Wickremesinghe was the first candidate to pay the deposit. He will be contesting as an independent candidate.
-
-Two others declared their candidacy yesterday: retired army chief Sarath Fonseka, and current justice minister Wijeyadasa Rajapakshe. (Colombo/Jul26/2024)
-
-◼️
-
-[Data](articles/66cb2280.json)
-
-[Extended Data](ext_articles/66cb2280.ext.json)
-
----
-
-### Prime Minister delivers special statement in Parliament
-
-*2024-07-26 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/100783/prime-minister-delivers-special-statement-in-parliament) · `en`
-
-Prime Minister Dinesh Gunawardena arrived in Parliament this morning (26) shortly after the commencement of the parliamentary session.
-
-Accordingly, the Prime Minister is currently delivering a special statement in the Parliament.
-
-PM Gunawardena is scheduled to officially inform Parliament of the government’s official position on the Supreme Court decision regarding the post of the IGP, in his special statement today (26).
-
-The Cabinet of Ministers, which convened an urgent meeting on Wednesday (24), had decided to announce its response to the decision of the Supreme Court regarding the IGP within two days after studying in depth the legal aspects of the matter.
-
-The Supreme Court on Wednesday issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
-
-...
-
-[Data](articles/9aa74072.json)
-
-[Extended Data](ext_articles/9aa74072.ext.json)
-
----
-
-### I'm quit: President's announcement to the Speaker
-
-*2024-07-26 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189398) · `ta`
-
-President Wickremesinghe warns Speaker Abeywardena against appointing the IG of Police during elections, citing potential legal action based on advice.
-
-🟩
-
-President Ranil Wickremesinghe has informed Speaker Mahinda Yapa Abeywardena that he has received legal advice that he will file a petition against him if he appoints the Inspector General of Police during the election.
-
-◼️
-
-[Data](articles/4fe3babf.json)
-
-[Extended Data](ext_articles/4fe3babf.ext.json)
-
----
-
-### The Prime Minister's special statement begins
-
-*2024-07-26 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199222) · `si`
-
-In a parliamentary address, Prime Minister Dinesh Gunawardena delivers a special statement.
-
-🟩
-
-Prime Minister Dinesh Gunawardena makes a special statement in parliament today.
-
-◼️
-
-[Data](articles/0de12e8c.json)
-
-[Extended Data](ext_articles/0de12e8c.ext.json)
-
----
-
-### Ranil paid control
-
-*2024-07-26 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189397) · `ta`
-
-Ranol C Perera, President's Attorney, was appointed by the Election Commission. Ranil Wickremesinghe, running as an independent, received his gazette notification for the election. Sarath Keerthi Ratna, ex-Deputy Minister, is also a candidate in the presidential race.
-
-🟩
-
-President's Attorney Ranol C Perera has been controlled by the Election Commission on Friday morning.
-
-Ranil Wickremesinghe has been controlled as an independent candidate. It is noteworthy that Ranil Wickremesinghe has been controlled on behalf of the first as the gazette notification of the election.
-
-Meanwhile, former Deputy Minister Sarath Keerthi Ratna has given the control of the presidential election as the first candidate.
-
-◼️
-
-[Data](articles/5b98e105.json)
-
-[Extended Data](ext_articles/5b98e105.ext.json)
-
----
-
-### Presidential Election: Bonds placed for Ranil to contest as independent candidate
-
-*2024-07-26 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100782/presidential-election-bonds-placed-for-ranil-to-contest-as-independent-candidate) · `en`
-
-President’s Counsel Ronald Perera has placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate.
-
-He had placed the deposit this morning (26) at the Election Commission Office in Rajagiriya.
-
-The Election Commission announced that the deposit money for the 2024 Presidential Election can be deposited from 8.30 am today (26) until 12 noon on August 14, the day before the calling of nominations for the election.
-
-Accordingly, a candidate nominated by a recognized political party is required to deposit a sum of Rs. 50,000 in legal tender while a candidate nominated by any other political party or by an elector is required to deposit a sum of Rs. 75,000.
-
-Meanwhile, the Election Commission of Sri Lanka today also issued the Gazette notification announcing the date of the 2024 Presidential Election and the date for the accepting of nominations.
-
-...
-
-[Data](articles/0cdea40a.json)
-
-[Extended Data](ext_articles/0cdea40a.ext.json)
 
 ---

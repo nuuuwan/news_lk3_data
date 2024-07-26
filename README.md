@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 17:05:36**
+As of **2024-07-26 17:20:33**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,419 (100.0%) of 37,424 articles have been extended.
+37,424 (100.0%) of 37,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### ඇප තැන්පත් කළ අපේක්ෂකයින් ගැන කොමිසමෙන් දැනුම්දීමක්
+### Commission notification about candidates who were deposited
 
 *2024-07-26 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199239) · `si`
 
-2024 ජනාධිපතිවරණය වෙනුවෙන් මේ වනවිට අපේක්ෂකයින් සිව්දෙනෙකු ඇප මුදල් තැන්පත් කර තිබේ.
+The Elections Commission announced four candidates endorsed by President Ranil Wickremesinghe for the upcoming presidential election: Sarath Keerthirath, Ocehala Herath, and A.S.P. Are Liyanage.
 
-නිවේදනයක් නිකුත් කරමින් මැතිවරණ කොමිෂන් සභාව මේ බව දැනුම් දී ඇත.
+🟩
 
-ඒ අතර ජනාධිපති රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත් සහ ඒ. එස්. පී. ලියනගේ යන අය වේ.
+Four candidates have been backed by the Presidential election.
+
+The Elections Commission (EPL) has informed this announcement.
+
+Meanwhile, President Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath and A. S. P. Are Liyanage.
 
 ◼️
 
 [Data](articles/a5ada5b6.json)
+
+[Extended Data](ext_articles/a5ada5b6.ext.json)
 
 ---
 
@@ -64,21 +70,29 @@ The state minister has requested that all these activities be carried out in acc
 
 [Data](articles/065b0fcd.json)
 
+[Extended Data](ext_articles/065b0fcd.ext.json)
+
 ---
 
-### රට රැකියා සිහින ‍පෙන් වූ ජාවාරම්කරුවන් 12ක් අත්අඩංගුවට
+### 12 racketeers arrested
 
 *2024-07-26 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199238) · `si`
 
-ජූලි මස 22 වන දින සිට අද (26) දක්වා ගතවූ දින 5ක කාලය තුළ විදෙස් රැකියා ජාවාරම් සිදුකළ වංචාකරුවන් 12දෙනෙකු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+In the last 5 days, 12 racketeers, including 5 pregnant women expecting jobs abroad, were arrested by the Sri Lanka Foreign Employment Unit. An illegal employment institution was also seized.
 
-කටාර්, නවසීලන්තය, මැලේසියාව, රුමේනියාව හා කැනඩාව යන රටවල රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවන් 05 දෙනෙකු ඇතුළු 12 දෙනෙක් මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව නවසීලන්තයේ රැකියා සඳහා සම්මුඛ පරීක්ෂණ පැවැත්වූ කුරුණෑගල නීති විරෝධි ආයතනයක් ද වටලා ඇති අතර එහි තිබී ජීව දත්ත පත්‍රිකා හා තවත් ලේඛන අඩංගු ලිපිගොනු 108ක්ද නිලධාරීන් විසින් සිය භාරයට ගෙන තිබේ.
+The Sri Lanka Foreign Employment Bureau has been arrested by the Sri Lanka Foreign Employment Unit of Sri Lanka Bureau of Foreign Employment during the past 5 days.
+
+Twelse, including five women who were expecting jobs in Qatar, New Zealand, Malaysia, Romania and Canada have been arrested.
+
+An illegal institution was also seized by the officials of the Sri Lanka Bureau of Foreign Employment.
 
 ◼️
 
 [Data](articles/8c333578.json)
+
+[Extended Data](ext_articles/8c333578.ext.json)
 
 ---
 
@@ -108,19 +122,27 @@ Harris’s surprise bid against Republican rival Donald Trump continues to gain 
 
 ---
 
-### கமலா ஹாரிஸுக்கு  ஒபாமா ஆதரவு
+### Obama support Kamala Harris
 
 *2024-07-26 16:26:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கமலா-ஹாரிஸுக்கு-ஒபாமா-ஆதரவு/50-341081) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலில், ஜனநாயக கட்சி சார்பில் கமலா ஹாரிஸ் களமிறங்க ஆதரவு தெரிவித்துள்ள முன்னாள் ஜனாதிபதி ஒபாமா, அவர் வெற்றி பெறுவதை உறுதி செய்வோம் எனக் கூறியுள்ளார்.
+Former President Obama endorses Kamala Harris for the Democratic nomination, expressing confidence in her victory against Donald Trump in the upcoming US presidential election.
 
-அமெரிக்க ஜனாதிபதி பதவிக்கான தேர்தல், நவ., 5இல் நடக்க உள்ளது. இதில், குடியரசு கட்சி சார்பில், முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப், 78, போட்டியிடுவது உறுதியாகி உள்ளது. ஆளும் ஜனநாயகக் கட்சி சார்பில், தற்போதைய ஜனாதிபதி ஜோ பைடன், 81, போட்டியிடுவார் என்று அறிவிக்கப்பட்டிருந்தது. கட்சியின் ஜனாதிபதி வேட்பாளரை மாற்ற வேண்டும் என, ஜனநாயக கட்சியைச் சேர்ந்த பலரும் போர்க்கொடி தூக்கினர். இதனால், போட்டியில் இருந்து ஜோ பைடன் விலகினார்.
+🟩
 
-மேலும், கட்சியின் வேட்பாளராக, துணை ஜனாதிபதி கமலா ஹாரிசை நிறுத்த அவர் ஆதரவு தெரிவித்திருந்தார். அடுத்த மாதம், 19 – 22இல் சிகாகோவில் நடக்கவுள்ள கட்சி மாநாட்டில், ஜனாதிபதி வேட்பாளர் அறிவிக்கப்பட உள்ளார்.
+Former President Obama, who has backed Kamala Harris on behalf of the Democratic Party in the US presidential election, has said that he will win.
+
+Elections for US President's position, Nov. 5. In this, on behalf of the Republican Party, former President Donald Trump, 78, is sure to contest. On behalf of the ruling Democratic Party, it was announced that current President Joe Bidan, 81, will contest. Many of the Democratic Party have been warned to replace the party's presidential candidate. Thus, Joe Bidan withdrew from the competition.
+
+Also, as the party's candidate, he supported Vice President Kamala Haris. The presidential candidate is due to be announced at the party conference in Chicago on 19-22 next month.
+
+Many senior leaders of the party have supported Kamala Harris. But former President Barack Obama has not made any comments so far. In this regard, the 'New York Times' has reported.
 
 ...
 
 [Data](articles/f21cac7e.json)
+
+[Extended Data](ext_articles/f21cac7e.ext.json)
 
 ---
 
@@ -228,25 +250,33 @@ In a post posted on the US Ambassador to Sri Lanka, Julie Chung X, “We welcome
 
 ---
 
-### கமலா ஹரிசிற்கு  ஆதரவை வெளியிட்டார் ஒபாமா
+### Obama expressed support for Kamala Haris
 
 *2024-07-26 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189444) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலில் கமலாஹரிஸ் ஜனநாயக கட்சியின் சார்பில் போட்டியிடுவதற்கு முன்னாள் ஜனாதிபதி பராக்ஒபாமா ஒப்புதல் அளித்துள்ளார்.
+Barack Obama endorsed Kamala Harris for the US presidency, boosting her support among Democratic leaders. This endorsement, coupled with Michelle Obama's praise, highlights Harris's potential impact on American politics.
 
-பராக் ஒபாமாவின் இந்த ஆதரவு காரணமாக கமலா ஹரிஸ்  அமெரிக்க அரசியலில் தீவிரமாக செயற்படும் ஜனநாக கட்சியின் தலைவர்களில் அனேகமானவர்களின் ஆதரவை பெற்றுள்ளார்.
+🟩
 
-பில் கிளின்டன் ஹரி கிளின்டன் என ஜனநாயக கட்சியின் முக்கிய தலைவர்கள் உடனடியாக கமலா ஹரிசிற்கு ஆதரவை வெளியிட்ட போதிலும் ஒபாமா ஆதரவை வெளியிடாதது கேள்விகளை எழுப்பியிருந்த நிலையில் ஒபாமா தனது ஆதரவை வெளியிட்டுள்ளார்.
+Former President Barack Obama has approved the US presidential election on behalf of the Kamala Haeris Democratic Party.
 
-தனது மனைவியுடன் இணைந்து கமலாஹரிசினை தொலைபேசியில் தொடர்புகொண்ட ஒபாமா தனது ஆதரவை வெளியிட்டுள்ளதுடன்  குறித்த வீடியோவையும் வெளியிட்டுள்ளார்.
+Due to this support of Barack Obama, Kamala Haris has received the support of many of the leaders of the Janata Party, which is active in American politics.
 
-நான் கமலா குறித்து பெருமிதம் அடைகின்றேன் ,இது வரலாற்று முக்கியத்துவம் வாய்ந்த விடயமாக விளங்கப்போகின்றது என மிச்செல் ஒபாமா தெரிவித்துள்ளார்.
+Obama has expressed his support as Bill Clinton Hari Clinton has immediately expressed his support for Kamala Haris, but Obama has not released support.
 
-வாகனமொன்றிற்கு அருகில் நின்றபடி பதிலளிக்கும் கமலாஹரிஸ் கடவுளே மிச்செல் ஒபாமா இது எனக்கு மிகப்பெரிய விடயம் என தெரிவிக்கின்றார்.
+Obama, along with his wife, telephoned Kamalahari and released his support and released the video.
 
-...
+Michelle Obama said I am proud of Kamala and this is going to be a historic issue.
+
+Michelle Obama, the God of Kamalaharis, who responds to a vehicle, tells me that this is the biggest thing for me.
+
+But, after all, I would like to tell you that the words you have spoken for years and the friendship you have given me more than what I can't reveal. So thank you both
+
+◼️
 
 [Data](articles/fa80dcd3.json)
+
+[Extended Data](ext_articles/fa80dcd3.ext.json)
 
 ---
 

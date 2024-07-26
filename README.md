@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 12:09:28**
+As of **2024-07-26 12:20:38**
 
 ## Newspaper Stats
 
-*Scraped **37,371** Articles*
+*Scraped **37,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,119 @@ islandlk | 2,133
 economynextcom | 2,244
 dailyftlk | 2,389
 adalk | 3,402
-adaderanalk | 4,325
+adaderanalk | 4,326
 tamilmirrorlk | 4,606
 dailymirrorlk | 4,733
-virakesarilk | 5,864
-adaderanasinhalalk | 6,269
+virakesarilk | 5,871
+adaderanasinhalalk | 6,270
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,368 (100.0%) of 37,371 articles have been extended.
+37,371 (100.0%) of 37,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### யாழ்.கொள்ளைக்காரி கைது
+### Hamas leader in West Bank dies in Israeli custody, says Palestinian government body
+
+*2024-07-26 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100789/-hamas-leader-in-west-bank-dies-in-israeli-custody-says-palestinian-government-body) · `en`
+
+A Hamas leader in the West Bank died in Israeli custody after a deterioration in his health condition, a Palestinian governmental body said early on Friday.
+
+Mustafa Muhammad Abu Ara, 63, died after being transferred to a hospital from the Ramon jail in southern Israel, the Palestinian Commission of Detainees Affairs said in a statement.
+
+“Before his arrest, he was suffering from serious health problems and needed intensive medical follow-up. However, from the moment of his arrest, Sheikh Abu Ara, like all prisoners, has faced unprecedented crimes ... since the beginning of the war of extermination.”
+
+Abu Ara, who was arrested in October last year, was subjected to torture and deprived of medical treatment, the Palestinian body said. There was no immediate comment from Israel.
+
+At least 18 Palestinians have died in Israeli custody since the start of the Gaza war on Oct. 7, the Palestinian Prisoners Association said last month.
+
+...
+
+[Data](articles/d600e4ee.json)
+
+---
+
+### දුම්රියේ ගැටී තරුණයෙක් මරුට
+
+*2024-07-26 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199228) · `si`
+
+කොළඹ කොටුවේ සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ රාත්‍රී තැපැල් දුම්රියේ දෙමෝදර ගවරවෙල ප්‍රදේශයේදී අද (26) උදෑසන ගැටුණු පුද්ගලයෙක් මියගොස් ඇතැයි ඇල්ල පොලීසිය පවසයි.
+
+එසේ මරණයට පත්ව ඇත්තේ රබර්වත්ත කොටස ගවරවෙල දෙමෝදර ලිපිනයේ පදිංචිව සිටි 26 හැවිරිදි තරුණයෙකි.
+
+◼️
+
+[Data](articles/bf001293.json)
+
+---
+
+### பொலிஸ் மா அதிபர் நியமனம் சட்டபூர்வமானதும் அரசியலமைப்புக்குட்பட்டதுமாகும் : சபாநாயகர்
+
+*2024-07-26 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189418) · `ta`
+
+பொலிஸ் மா அதிபர் விவகாரம் மிகவும் சிக்கலானது. அரசியலமைப்பின் 41 (ஈ) உறுப்புரைக்கமைய என்னால் எடுக்கப்பட்ட பிழையான தீர்மானம் காரணமாக இந்த நிலைமை ஏற்பட்டதாக என்மீது குற்றச்சாட்டுக்கள் முன்வைக்கப்படுவதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்தார்.
+
+இன்று வெள்ளிக்கிழமை (26) பாராளுமன்றில் பொலிஸ் மா அதிபரின் நியமனம் குறித்து கருத்துத் தெரிவிக்கையிலேயே சபாநாயகர் மேற்கண்டவாறு தெரிவித்தார்.
+
+நாம் எந்தவொரு தவறான தீர்மானத்தையும் எடுக்கவில்லை. அரசியமைப்பிற்கமைய நியாயமான, சரியான தீர்மானத்தை ஆழமாக சிந்தித்துதான் எடுத்துள்ளோம். உங்களுக்கும் (எதிர்தரப்பினரை விழித்து) ஏனையோருக்கும் அந்த தீர்மானம் தவறாகத் தோன்றலாம். ஆனால் நாம் மனச்சாட்சிக்கமைய சரியான முறையிலேயே அந்த தீர்மானத்தை எடுத்தோம்.
+
+நான் வீட்டிலிருந்து இந்த தீர்மானத்தை எடுத்தாகக் கூறியமையும் முற்றிலும் பொய்யாகும். 41(ஈ) - 5 உறுப்புரைக்கமையவே எனக்கான வாக்கினை நான் பயன்படுத்தினேன். 41 (சீ) உறுப்புரைக்கமைய அரசியமைப்பு பேரவையின் அனுமதியுடனும் பாராளுமன்றத்தின் அங்கீகாரத்துடனும் பொலிஸ் மா அதிபர் நியமனம் நியாமானது.
+
+...
+
+[Data](articles/881baffb.json)
+
+---
+
+### Arrested
 
 *2024-07-26 11:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-கொள்ளைக்காரி-கைது/71-341068) · `ta`
 
-யாழ்ப்பாணம் அனலைதீவு பகுதியில் கனேடிய தமிழ் குடும்பம் மீது தாக்குதலை மேற்கொண்டு கொள்ளையடித்த சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபரான பெண்ணொருவர் கைது செய்யப்பட்டுள்ளார்.
+A suspect linked to the robbery of a Canadian Tamil family in Jaffna was arrested after a violent gang attack during their holiday stay. The investigation led to the arrest of three individuals, including a woman accused of orchestrating the crime. Further inquiries revealed the involvement of a temple leader in Canada, who allegedly funded the gang. The woman, with pending criminal cases, was detained for 48 hours for further investigation.
 
-அனலைதீவை சேர்ந்த தமிழ் குடும்பம் ஒன்று, கனடாவில் குடியுரிமை பெற்று வந்து அங்கு வசித்து வந்த நிலையில், விடுமுறையை கழிக்க அனலைதீவுக்கு கடந்த வருடம் வந்து தங்கியிருந்துள்ளது.
+🟩
 
-அந்நிலையில் கடந்த வருடம் பெப்ரவரி மாதம் 23ஆம் திகதி அவர்கள் தங்கியிருந்த வீட்டிற்குள் அத்துமீறி நுழைந்த வன்முறை கும்பல் வாள் வெட்டு தாக்குதலை மேற்கொண்டு , அவர்களிடம் இருந்த வெளிநாட்டு பணம் , நகைகள் , பொருட்கள் , கடவுசீட்டு உள்ளிட்டவற்றை கொள்ளையடித்து சென்றிருந்தது.
+A main suspect in connection with the robbery of a Canadian Tamil family in the Analathivu area in Jaffna has been arrested.
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த ஊர்காவற்றுறை பொலிஸார் , யாழ்ப்பாணத்தில் இருந்து, பிரத்தியேக படகில் அனலைதீவுக்குச் சென்று தாக்குலை மேற்கொண்டு , கொள்ளையடித்துக்கொண்டு மீள படகில் ஏறி தப்பி சென்றமையை கண்டறிந்தனர்.
+A Tamil family from Analadeev had come to Canada and lived in Canada last year to spend the holidays.
+
+In the meantime, on February 23 last year, a violent gang entered the house where they were staying and robbed their foreign money, jewelery, goods and passports.
+
+The Kayts police, who were conducting investigations into the incident, found that from Jaffna, they went to Analytivu on a special boat and found the robbery.
+
+On the basis of intensive investigations, three persons were arrested on suspicion and investigated, and they said that a woman had paid for her and demanded that she hired her and demanded that she had been attacked.
+
+Accordingly, the police have arrested the woman on Wednesday (24) for about a year and a half.
+
+While investigating the woman, the head of the Iyyappan temple in Canada had confessed that he had paid a violent gang to pay for a gang.
 
 ...
 
 [Data](articles/7bd85b80.json)
+
+[Extended Data](ext_articles/7bd85b80.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் வாக்களிப்பிற்கு முன்பாக எவ்வாறன விடயங்கள் அரங்கேறப்போகின்றன என்பதை பிரதமரின் கருத்து வெளிப்படுத்தியுள்ளது - பவானி பொன்சேகா
+
+*2024-07-26 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189414) · `ta`
+
+பொலிஸ்மா அதிபரின் பதவி வெற்றிடமாகவில்லை பதில் பொலிஸ்மா அதிபரை நியமிக்க முடியாது என பிரதமர் தினேஸ்குணவர்த்தன தெரிவித்திருப்பது ஜனாதிபதி தேர்தலி;ற்கு முன்பாக விடயங்கள் எவ்வாறு அரங்கேறப்போகின்றன என்பதை வெளிப்படுத்தியுள்ளது என மனித உரிமை சட்டத்தரணி பவானி பொன்சேகா தெரிவித்துள்ளார்.
+
+இலங்கையில் கடந்தகாலங்களில் ஜனாதிபதி தேர்தலை பதில்பொலிஸ்மா அதிபரின் மேற்பார்வையில் நடத்திய முன்னுதாரணங்கள் உள்ளன என அவர் தெரிவித்துள்ளார்.
+
+அதிகாரத்தில் தொடர்ந்தும் நீடிப்பதற்காக ஜனநாயகத்தை செயல்இழக்கச்செய்வதில் தொடர்ந்தும் ஈடுபடும் ஒருவருக்கு  ஏற்பட்ட மறதிநோய் என நான் நினைக்கின்றேன் என பவானி பொன்சேகா குறிப்பிட்டுள்ளார்.
+
+நடைமுறை சட்ட ஏற்பாடுகளுக்கு அமைய பதில் பொலிஸ்மா அதிபரை நியமிக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது என பிரதமர் தினேஸ் குணவர்த்தன குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4a1e07cc.json)
 
 ---
 
@@ -114,15 +196,21 @@ It is reported that 18 Palestinians have died while in Israel were killed in the
 
 ---
 
-### ජනාධිපතිවරණය සැප්තැම්බර් 21දා
+### Presidential election on September 21
 
 *2024-07-26 11:17:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සැප්තැම්බර්-21දා/11-411013) · `si`
 
-ජනාධිපතිවරණ ඡන්දය විමසීම ලබන සැප්තැම්බර් මස 21 වැනි දින පවත්වන බව සඳහන් කරමින් මැතිවරණ කොමිෂන් සභාව අති විශේෂ ගැසට් නිවේදනයක් ප්‍රකාශයට පත්කර තිබේ. ජනපති මැතිවරණය වෙනුවෙන් නාමයෝජනා භාර ගැනීම අගෝස්තු 15 වැනිදා සිදු කරන බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The presidential election is scheduled for September 21, with candidate nominations opening on August 15, as announced by the Elections Commission.
+
+🟩
+
+The Elections Commission has announced that the presidential election is held on September 21st. The Elections Commission states that the nominations for the president will take place on August 15.
 
 ◼️
 
 [Data](articles/10c928e0.json)
+
+[Extended Data](ext_articles/10c928e0.ext.json)
 
 ---
 
@@ -186,11 +274,33 @@ However, other bakeries are notable of reducing the prices of the products.
 
 The Sri Lanka Podujana Peramuna (SLPP) will make a decision regarding its candidate for the 2024 Presidential Election on Monday (29 July), party sources told Ada Derana.
 
+The Election Commission of Sri Lanka today also issued the Gazette notification announcing the date of the 2024 Presidential Election and the date for the accepting of nominations.
+
+Accordingly, the Presidential Election will be held on 21 September, 2024 and Nominations will be accepted on 15 August 2024, according to the Gazette notification.
+
+Meanwhile, President’s Counsel Ronald Perera today placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate.
+
 ◼️
 
 [Data](articles/61b454fb.json)
 
 [Extended Data](ext_articles/61b454fb.ext.json)
+
+---
+
+### பொலிஸ் கான்ஸ்டபிளுக்கு இலஞ்சம் கொடுக்க முற்பட்ட முச்சக்கர வண்டி சாரதி கைது!
+
+*2024-07-26 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189395) · `ta`
+
+கறுவாத்தோட்ட போக்குவரத்து பொலிஸ் பிரிவிற்குட்பட்ட பொலிஸ் கான்ஸ்டபிளுக்கு 1000 ரூபா இலஞ்சம் கொடுக்க முற்பட்ட முச்சக்கரவண்டியின் சாரதி ஒருவர் கைதுசெய்யப்பட்டுள்ளதாக கறுவாத்தோட்டம் பொலிஸார் தெரிவித்துள்ளனர்.
+
+கறுவாத்தோட்டம் பௌத்தலோக மாவத்தையில் பொலிஸ் கான்ஸ்டபிள் போக்குவரத்து கடமையில் ஈடுபட்டிருந்த போது முச்சக்கரவண்டியை நிறுத்தி போக்குவரத்து விதிமீறல் தொடர்பில் வழக்குப் பதிவு செய்ய  முற்பட்டபோது தண்டப்பணம்   விதிக்க  வேண்டாம் எனக் கூறி 1000 ரூபா  லஞ்சம் கொடுக்க முற்பட்ட சாரதி கைது செய்யப்பட்டுள்ளார்.
+
+மேலும்,  சந்தேக நபர் மேலதிக விசாரணைகளுக்காக இலஞ்ச  ஊழல் விசாரணை ஆணைக்குழுவிடம் ஒப்படைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/af4a881f.json)
 
 ---
 
@@ -211,6 +321,22 @@ Zambada, who is believed to be in his 70s, and Guzman Lopez, who is in his 30s, 
 [Data](articles/f945a055.json)
 
 [Extended Data](ext_articles/f945a055.ext.json)
+
+---
+
+### பொலிஸ்மா அதிபர் விடயத்தில் அரசியலமைப்பு பேரவை தலையிட வேண்டும் - பிரதமர்
+
+*2024-07-26 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189402) · `ta`
+
+அரசியலமைப்பு பேரவையின் அதிகாரத்தை நீநித்துறை சவாலுக்குட்படுத்த முடியாதென பிரதமர்  தினேஷ் குணவர்தன தெரிவித்தார்.
+
+இதேவேளை, பொலிஸ்மா அதிபருக்கு எதிராக உயர்நீதிமன்றம் பிறப்பித்துள்ள இடைக்கால தடையுத்தரவை வலுவற்றதாக்க அரசியலமைப்பு பேரவை தலையிட வேண்டும்.
+
+பொலிஸ்மா அதிபருக்கு எதிராக உயர்நீதிமன்றம் பிறப்பித்துள்ள இடைக்கால தடையுத்தரவில் அடிப்படை சட்டவலு கிடையாது என்றும் ஆகவே உயர்நீதிமன்றத்தின் தீர்ப்பை ஏற்க முடியாதென்றும் பிரதமர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/a51b8989.json)
 
 ---
 
@@ -316,6 +442,26 @@ The Prime Minister added that the existing IGP is not empty.
 
 ---
 
+### எத்தியோப்பிய மண்சரிவுகளில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 500 ஆக அதிகரிக்கலாம் - ஐ.நா.
+
+*2024-07-26 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189394) · `ta`
+
+இதேவேளை, உயிரிழந்தவர்களின் எண்ணிக்கை 500 ஆக அதிகரிக்கலாம் என ஐக்கிய நாடுகள் சபை வியாழக்கிழமை தெரிவித்துள்ளது.
+
+பலத்த மழையினால் எத்தியோப்பியாவில் கோஃபா மண்டலத்தின் தொலைதூர மலைப் பகுதியில் ஞாயிற்றுக்கிழமை மாலை மற்றும் திங்கட்கிழமை காலை மண்சரிவுகள் ஏற்பட்டுள்ளன.
+
+மண்சரிவுகள் ஏற்பட்ட  கெஞ்சோ ஷாச்சா கோஸ்டி பகுதியில் சடலங்களையும் உயிர்பிழைத்தவர்களையும் மீட்பதற்கு மீட்புப் பணிகள் நடைபெற்று வருகிறது.
+
+24 ஆம் திகதி வரை  257 பேர் உயிரிழந்துள்ளதாக பதிவாகியுள்ளது. எனினும் உயிரிழந்தவர்களின் எண்ணிக்கை 500 ஆக அதிகரிக்கலாம் என  மனிதாபிமான விவகாரங்களின் ஒருங்கிணைப்புக்கான ஐக்கிய நாடுகளின் அலுவலகம் தெரிவித்துள்ளது.
+
+பாதிக்கப்பட்ட பகுதியில் தொடர்ந்து மழை பெய்வதால் மேலும் மண்சரிவு ஏற்பட ஆபத்து இருப்பதால் ஐந்து வயதுக்குட்பட்ட 1,320 குழந்தைகள் , 5,293 கர்ப்பிணிப் பெண்கள் மற்றும் குழந்தை பிரசவித்த தாய்மார்கள் உட்பட 15,000 க்கும் மேற்பட்ட மக்கள் வெளியேற்றப்பட வேண்டும் எனவும் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/dabd55d8.json)
+
+---
+
 ### Sri Lanka PM says police chief remains in office, seeking intervention from speaker
 
 *2024-07-26 10:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-pm-says-police-chief-remains-in-office-seeking-intervention-from-speaker-173877/) · `en`
@@ -370,6 +516,24 @@ In equities, Colombo’s All Share Price Index opened 3.07 points higher at 11,6
 
 ---
 
+### யாழில் ஊடகவியலாளர் ஒருவர் திடீரென உயிரிழப்பு
+
+*2024-07-26 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189401) · `ta`
+
+முன்னாள் போராளியும், ஊடகவியலாளரும், வவுனியா பிரஜைகள் குழுவின் ஊடகப் பேச்சாளரும், அரசியல் சமூக செயற்பாட்டாளருமான ஈழம் சேகுவேரா (இசைப்பிரியன்) என அழைக்கப்படும் அ.சேகுவாரா நேற்று வியாழக்கிழமை (16) காலமானார்.
+
+யாழ்ப்பாணம் ஆரியகுளம் பகுதியில் உள்ள வாடகை வீடொன்றில் நண்பருடன் தங்கியிருந்த வேளை காலை நெஞ்சு வலிப்பதாக நண்பரிடம் கூறி சில நிமிடங்களில் மயங்கி சரிந்து உயிரிழந்துள்ளார்.
+
+மரணத்திற்கான காரணம் தெரியவராத நிலையில், உடற்கூற்று பரிசோதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+
+சுயாதீன ஊடகவியலாளராகவும், பத்தி எழுத்தாளராகவும், அரசியல் விமர்சகராகவும், கலைஞனாகவும் பல்துறைகளிலும் பணியாற்றி வந்தவர் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f4b929b5.json)
+
+---
+
 ### President cannot appoint Acting IGP as post is not vacated - PM
 
 *2024-07-26 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100784/president-cannot-appoint-acting-igp-as-post-is-not-vacated-pm) · `en`
@@ -409,6 +573,22 @@ Session 1 focused on the transformative potential of Digital Public Infrastructu
 [Data](articles/3c6537f2.json)
 
 [Extended Data](ext_articles/3c6537f2.ext.json)
+
+---
+
+### ஜனாதிபதிக்கு அதிகாரம் கிடையாது - பிரதமர் அறிவிப்பு !
+
+*2024-07-26 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189399) · `ta`
+
+நடைமுறை சட்ட ஏற்பாடுகளுக்கு அமைய பதில் பொலிஸ்மா அதிபரை நியமிக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது என பிரதமர் தினேஷ் குணவர்தன தெரிவித்தார்.
+
+பாராளுமன்றில் இன்று வெள்ளிக்கிழமை (26) விசேட அறிவிப்பொன்றை விடுத்து தெரிவிக்கையிலேயே பிரதமர் தினேஷ் குணவர்தன மேற்கண்டவாறு தெரிவித்தார்.
+
+இதேவேளை, ஜனாதிபதித் தேர்தலுக்கான திகதி தேர்தல் ஆணைக்குழுவால் அறிவிக்கப்பட்டுள்ள நிலையில், ரணில் விக்கிரமசிங்க வேட்பாளராகக் களமிறங்குவாரெனில் அரசியலமைப்பிற்கமைய அவரால் பதில் பொலிஸ்மா அதிபரொருவரை நியமிக்க முடியாதென்றும் பிரதமர் தினேஷ் குணவர்தன குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/bb430cac.json)
 
 ---
 
@@ -1897,189 +2077,5 @@ Police said that a lorry, which was coming from the arrival of the vehicle from 
 [Data](articles/f2020dd6.json)
 
 [Extended Data](ext_articles/f2020dd6.ext.json)
-
----
-
-### කැනඩා අගමැතිගේ ප්‍රකාශය ලංකාව ප්‍රතික්ෂේප කරයි
-
-*2024-07-25 20:01:39* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-අගමැතිගේ-ප්‍රකාශය-ලංකාව-ප්‍රතික්ෂේප-කරයි/11-411009) · `si`
-
-ශ්‍රී ලංකාව තුළ ජන සංහාරයක් සිදුව ඇති බවට කැනඩා අග්‍රාමාත්‍ය ජස්ටින් ටෘඩෝ මහතා කළ චෝදනාව ප්‍රතික්ෂේප කරන බව ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශය  නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-මෙම කාරණය සම්බන්ධයෙන් ශ්‍රී ලංකාවේ ස්ථාවරය මීට පෙරද අග්‍රාමාත්‍ය ජස්ටින් ටෘඩෝ මහතා වෙත අවධාරණය කර ඇතැයිද විදේශ අමාත්‍යාංශය පවසයි.
-
-කැනඩාවේ දේශීය  ඡන්ද පදනම සැලකිල්ලට ගෙන කරන මෙම චෝදනා ශ්‍රී ලංකාව සහ කැනඩාව යන දෙඅංශයේම සමගියට සහ වාර්ගික සහජීවනයට හිතකර නොවන බව විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
-
-◼️
-
-[Data](articles/6dfe923c.json)
-
----
-
-### Mahinda says that 30 government ministers are supporting Ranil
-
-*2024-07-25 19:53:51* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මැති-ඇමතිවරු-30-ක්-රනිල්ට-සහය-දෙන-බව-මහින්දගේ-මූණටම-කියයි/11-411008) · `si`
-
-Approximately 30 government ministers and representatives have pledged support for President Ranil Wickremesinghe in the upcoming presidential election. This decision was made during a special parliamentary session. The group has urged former President Mahinda Rajapaksa not to nominate another candidate from their party, as the majority now backs Wickremesinghe. Rajapaksa plans to consult with his party before making a final decision.
-
-🟩
-
-About 30 members including the government representing the government have held a special discussion held at Parliament yesterday (25) held a special discussion at the Parliament yesterday (25).
-
-The MPs have said that he has decided to support President Ranil Wickremesinghe in the next presidential election.
-
-If the majority of the party has decided to support the present president at the moment, it can be elected to the party's votes.
-
-Therefore, they have requested the former President not to offer another candidate from the party.
-
-Former President Mahinda Rajapaksa has said that he will discuss with the party and a verdict.
-
-◼️
-
-[Data](articles/f5ff6126.json)
-
-[Extended Data](ext_articles/f5ff6126.ext.json)
-
----
-
-### Shooting in Colombo
-
-*2024-07-25 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199208) · `si`
-
-Colombo shooting incident occurred this afternoon, according to police reports.
-
-🟩
-
-The police said that the shooting was carried out this afternoon.
-
-◼️
-
-[Data](articles/56e2cd90.json)
-
-[Extended Data](ext_articles/56e2cd90.ext.json)
-
----
-
-### Vavuniya High Court has issued a decree of the Vavuniya double murder suspects
-
-*2024-07-25 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189385) · `ta`
-
-Vavuniya High Court Judge Manikavasar Ilancheliyan has ordered explanations from seven suspects in a double murder case involving a husband and wife, who were killed on July 23 last year. The suspects have been in custody since their arrest, with the case ongoing for over a year. A petition related to the case was heard in the Supreme Court, where arguments against bail were made by the State Attorney and SPA Superintendent of Police. The suspects' legal team, led by Senior Attorney Antran Pudanayagam, opposed these arguments. The court has set deadlines for further interrogations, with the main suspect's deadline extended to February 25.
-
-🟩
-
-Vavuniya High Court Judge Manikavasar Ilancheliyan has ordered the explanation of the double murder.
-
-Two husband and wife were killed in the early morning of July 23 last year last year in Vavuniya, Vavuniya.. Seven people have been arrested on suspicion of involvement in the double murder and they have been investigated by the Criminal Investigation Department and have been detained by the Criminal Investigation Department.
-
-The case has been going on for the past one year and the suspects continue to be interrogated. In this case, a case was filed in the Supreme Court in connection with the extension of the V-1390/23 case of Section 296 Command Legislature.
-
-The petition filed under Article 17 of the Legislature was taken up for hearing in the Supreme Court.
-
-...
-
-[Data](articles/10af0cbc.json)
-
-[Extended Data](ext_articles/10af0cbc.ext.json)
-
----
-
-### One person injured in shooting at Grandpass
-
-*2024-07-25 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100774/one-person-injured-in-shooting-at-grandpass) · `en`
-
-One person has been injured in a shooting incident at Grandpass in Colombo.
-
-Police said the shooting had occurred at the Wadullawatte area in Grand pass this evening (25).
-
-◼️
-
-[Data](articles/1729b854.json)
-
-[Extended Data](ext_articles/1729b854.ext.json)
-
----
-
-### Grandpass shooting victim succumbs to injuries
-
-*2024-07-25 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100774/grandpass-shooting-victim-succumbs-to-injuries) · `en`
-
-UPDATE (8.15 PM): Police stated that the person who was injured in the Grandpass shooting incident has succumbed to his injuries.
-
-The deceased is a 31-year-old male while it is reported that a woman was also injured and hospitalized following the shooting.
-
-They were reportedly traveling in a three-wheeler when an unidentified gunman had fired at them at around 6.00 p.m. today before fleeing the scene.
-
-One person has been injured in a shooting incident at Grandpass in Colombo.
-
-Police said the shooting had occurred at the Wadullawatte area in Grandpass this evening (25).
-
-◼️
-
-[Data](articles/ae4dcd1c.json)
-
-[Extended Data](ext_articles/ae4dcd1c.ext.json)
-
----
-
-### Sri Lanka passes Public finance bill
-
-*2024-07-25 19:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-passes-public-finance-bill-173832/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s parliament passed the Public Financial Management and Economic Transformation Bills with amendments on Thursday.
-
-Amendments were incorporated to the bills during the committee stage and subsequently, the third reading was passed without a vote.
-
-These two bills were presented to Parliament on 22 May 2024. (Colombo/Jul25/2025)
-
-◼️
-
-[Data](articles/0b7f62d1.json)
-
-[Extended Data](ext_articles/0b7f62d1.ext.json)
-
----
-
-### Court of Augbo
-
-*2024-07-25 19:32:31* · [`adalk`](https://www.ada.lk/breaking_news/අග්බෝ-ගැන-අධිකරණය-දුන්-නියෝගය/11-411007) · `si`
-
-In a legal case involving the Agbbo in Anuradhapura, the Chief Magistrate ordered the release of the Wildlife Department's Assistant Director and criticized the destruction of the Agbbo by the Court of Augba. The OIC of the Court of Justice highlighted the importance of conserving elections and protecting the Agbo. The Sri Lanka Air Force reported a drone disturbance over Thirappane, leading to the arrest of Thirappane police officers for unauthorized flights.
-
-🟩
-
-The Agbbo, Anuradhapura Chief Magistrate and Additional District Judge Nalaka Sanjeewa Jayasuriya has ordered the Anuradhapura Assistant Director of the Wildlife Department to be released.
-
-The Chief Magistrate ordered the OIC Chief Inspector Ranjith Kumarasinghe, Chief Inspector Ranjith Kumarasinghe made his statement to the court on the instructions of Senior DIG Priyantha Weerasuriya. Thirappane police OIC Chief Inspector Ranjith Kumarasinghe said that Agba had been wandering in different parts of Thirappane.
-
-The OP emphasized that the elections should be conserved.. The OIC of the Court of Justice has been destroyed that the Agbo has been destroyed by the Court of Agbos, which have been tortured by the Agbo, and the Auga of the Court of Augba has been tortured by a year earlier.He said he was possible.
-
-...
-
-[Data](articles/a35dd83f.json)
-
-[Extended Data](ext_articles/a35dd83f.ext.json)
-
----
-
-### Sri Lanka banks in talks about getting ISBs repaid in rupees: Sources
-
-*2024-07-25 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-in-talks-about-getting-isbs-repaid-in-rupees-sources-173831/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s domestic banks are in talks with the government seeking repayment of their sovereign bonds in rupees, sources said though there are concerns over the likely impact on the exchange rate from such a move.
-
-Out of 12,550 million dollars of sovereign bonds outstanding, about 1,750 million dollars of bonds are held by resident investors, the bulk of which are banks.
-
-When a dollar asset is repaid in rupees, the banks have a negative foreign exchange position against the deposit liabilities called the net open position which has to be covered by purchasing dollars from the market.
-
-By exchanging a rupee security, banks are hoping to reduce or avoid a haircut on the ISB holdings as they did in the case of Sri Lanka Development Bonds.
-
-When Sri Lanka Development Bonds were repaid in rupees without a haircut, the central bank also provided some dollars in August 2023.
-
-...
-
-[Data](articles/4d1d9682.json)
-
-[Extended Data](ext_articles/4d1d9682.ext.json)
 
 ---

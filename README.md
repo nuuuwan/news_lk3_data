@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 20:06:00**
+As of **2024-07-26 20:20:37**
 
 ## Newspaper Stats
 
-*Scraped **37,440** Articles*
+*Scraped **37,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,409
 adaderanalk | 4,336
-tamilmirrorlk | 4,616
+tamilmirrorlk | 4,618
 dailymirrorlk | 4,733
 virakesarilk | 5,886
 adaderanasinhalalk | 6,286
@@ -26,25 +26,65 @@ adaderanasinhalalk | 6,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,438 (100.0%) of 37,440 articles have been extended.
+37,440 (100.0%) of 37,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### தமிழ் பொது வேட்பாளர் கருத்தியலை ஆதரிக்கவில்லை -  எம்.ஏ.சுமந்திரன்
+### குடிவரவு மற்றும் குடியகல்வு திணைக்களத்தின் விசேட அறிவிப்பு
+
+*2024-07-26 20:06:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிவரவு-மற்றும்-குடியகல்வு-திணைக்களத்தின்-விசேட-அறிவிப்பு/175-341085) · `ta`
+
+முன்பதிவு செய்யப்பட்ட கடவுச்சீட்டு விண்ணப்பதாரர்கள் மட்டுமே குடிவரவு மற்றும் குடியகல்வு தலைமை அலுவலகம் மற்றும் பிராந்திய அலுவலகங்களுக்குச் செல்ல வேண்டும் என்று அறிவுறுத்தப்பட்டுள்ளது.
+
+பதிவு செய்ததன் பின்னர் முன்னுரிமை முறைமைக்கு அமைவாக கடவுச்சீட்டைப் பெறுவதற்கான வாய்ப்பு வழங்கப்படும், குடிவரவு மற்றும் குடியகல்வு திணைக்களத்தில்  முன்பதிவு செய்யாமல் செல்வதை தவிர்க்குமாறும் திணைக்களம் விடுத்துள்ள அறிவித்தலில் குறிப்பிட்டுள்ளது.
+
+01.01.2025 முதல் அரசாங்கம் இலங்கையர்களுக்கு பாதுகாப்பான புதிய e passport ஐ வழங்க தீர்மானித்துள்ளது.
+
+மேலும் ஜூலை 16 முதல், கடவுச்சீட்டை பெற விண்ணப்பிக்க https://www.immigration.gov.lk/ என்ற இணைப்பின் மூலம் முன்பதிவு செய்யலாம். R
+
+◼️
+
+[Data](articles/2cb10d2d.json)
+
+---
+
+### தமிழரசு கட்சி வேட்பாளரை நிறுத்தாது
+
+*2024-07-26 19:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-கட்சி-வேட்பாளரை-நிறுத்தாது/175-341084) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் இலங்கைத் தமிழ் அரசு கட்சி வேட்பாளரை நியமிக்காது என தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலில்  முக்கிய வேட்பாளர்களுடன் பேச்சுவார்த்தை நடத்தும் என்றும் சுமந்திரன் எம்.பி தெரிவித்தார்
+
+எவ்வாறாயினும், எதிர்வரும் இலங்கை ஜனாதிபதித் தேர்தலில் பொதுத் தமிழ் வேட்பாளரை நிறுத்துவதற்கு பல தமிழ் அரசியல் கட்சிகள் மற்றும் சிவில் சமூக ஆர்வலர்கள் அண்மையில் ஒப்பந்தத்தில் கைச்சாத்திட்டுள்ளனர்
+
+◼️
+
+[Data](articles/cf708f44.json)
+
+---
+
+### Tamil general candidate does not support ideology - MA Sumanthiran
 
 *2024-07-26 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189480) · `ta`
 
-ஜனாதிபதி தேர்தலில், ஒரு சமூகத்தை மாத்திரம் மையப்படுத்தி வேட்பாளர் நிறுத்தப்படக் கூடாது என்ற அடிப்படையில், தமிழ் பொது வேட்பாளர் கருத்தியலை ஆதரிக்கவில்லை என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+MA Sumanthiran, TNA parliamentarian, stated that the Tamil general candidate doesn't align with the TNA's ideology but clarified that the alliance won't obstruct any presidential candidate. He mentioned negotiations with main candidates post-elections.
 
-ஜனாதிபதி தேர்தலில் வேட்பாளர் ஒருவரை நிறுத்தப் போவதில்லை என இலங்கை தமிழரசு கட்சி தீர்மானித்துள்ளதாக அவர் மேலும் தெரிவித்தார்.
+🟩
 
-எனினும் ஜனாதிபதி தேர்தலில் போடியிடும் பிரதான வேட்பாளர்களுடன் எதிர்காலத்தில் பேச்சுவார்த்தைகளில் ஈடுபடவுள்ளதாக பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் தெரிவித்தார்.
+Tamil National Alliance (TNA) parliamentarian MA Sumanthiran has said that the Tamil general candidate did not support the ideology of the candidate in the presidential election.
+
+He added that the Sri Lanka Tamil National Alliance (TNA) has decided not to stop a candidate in the presidential election.
+
+However, MP MA said that the future will be negotiated with the main candidates who will be in the presidential election.. Said Sumanthiran.
 
 ◼️
 
 [Data](articles/27bab66b.json)
+
+[Extended Data](ext_articles/27bab66b.ext.json)
 
 ---
 
@@ -350,21 +390,27 @@ The independent candidates are President Ranil Wickremesinge and former MP Sarat
 
 ---
 
-### மலையக மக்களின் முதன்மை கோரிக்கையாக காணி உரிமை முன்வைக்கப்பட வேண்டும் - வேலு குமார்
+### Land rights should be put forward as the primary demand of the people of the hill country - Velu Kumar
 
 *2024-07-26 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189465) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் மலையக மக்களின் முதன்மை கோரிக்கையாக காணி உரிமை முன்வைக்கப்பட வேண்டும் என கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலு குமார் தெரிவித்துள்ளார்.
+Velu Kumar urges prioritizing land rights for hill country residents in elections, highlighting historical land ownership and government actions perceived as undermining these rights. He calls for a focus on securing land and livelihoods as key electoral demands, advocating for presidential candidates to address this issue directly.
 
-மலையக பெருந்தோட்ட மக்கள் 200 வருடங்கள் கடந்தும் காணி உரிமை அற்றவர்களாகவே உள்ளனர். இன்றைய அரசாங்கம் அதனை மேலும் இழுத்தடிப்பு செய்யும், லயன் அறைகளை கிராமங்களாக பிரகடனப்படுத்தும் அமைச்சரவை பத்திரத்தை முன்வைத்துள்ளது.
+🟩
 
-அதனை சட்டமாக்கவும் முன்னேற்பாடுகளை செய்து வருகின்றது. மலையக மக்களின் காணி உரிமையை முழுமையாக குழி தோண்டி புதைக்கும் செயற்பாடாகவே இது உள்ளது. இதனை முளையிலேயே கிள்ளி எரிய வேண்டும்.
+Kandy district parliamentarian Velu Kumar has said that the land rights should be made as the primary demand of the people of the hill country in the upcoming presidential election.
 
-மாறாக ஜனாதிபதி தேர்தலில் தனி வீட்டுக்கான காணி மற்றும் வாழ்வாதார காணி என்பவற்றை பெற்றுக்கொள்வதை முதன்மையான கோரிக்கையாக முன்வைக்க வேண்டும். அதனை நடைமுறைப்படுத்துவதற்கான வேலை திட்டத்தை ஜனாதிபதி வேட்பாளர்கள் முன்வைக்கும் சூழ்நிலையை உருவாக்க வேண்டும்.
+The people of the hill country have been land ownership over 200 years. The present government has put forward a cabinet bond that will further pull it up and declare Lion's rooms into villages.
+
+It is making progress to make it legal. This is the process of completely burying the land rights of the hill country. This should be burned in the sprout.
+
+On the contrary, the first demand is to obtain land and livelihood land for a separate house in the presidential election. The program to implement it should be created by the presidential candidates.
 
 ◼️
 
 [Data](articles/a370fd88.json)
+
+[Extended Data](ext_articles/a370fd88.ext.json)
 
 ---
 
@@ -2233,45 +2279,5 @@ The relevant Gazette notification issued in this regard states the following:
 [Data](articles/18febb58.json)
 
 [Extended Data](ext_articles/18febb58.ext.json)
-
----
-
-### President's sudden announcement of police chief controversy
-
-*2024-07-26 08:48:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-சர்ச்சை-குறித்து-ஜனாதிபதியின்-திடீர்-அறிிவிப்பு/175-341061) · `ta`
-
-President Ranil Wickremesinghe, facing potential election petitions, plans to avoid appointing a police chief during a crucial two-week period before the presidential election. He has informed Speaker Mahinda Yapa Abeywardena of his decision.
-
-🟩
-
-It is reported that President Ranil Wickremesinghe has received legal advice that the election petitions may be filed against him when he will appoint a police chief in response to a two -week period in the upcoming presidential election period.
-
-Accordingly, President Ranil Wickremesinghe has informed Speaker Mahinda Yapa Abeywardena that he will avoid the intervention on the issue.. Remble
-
-◼️
-
-[Data](articles/604b5161.json)
-
-[Extended Data](ext_articles/604b5161.ext.json)
-
----
-
-### Sri Lanka election announcement triggers unexpected constitutional conundrum
-
-*2024-07-26 08:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-announcement-triggers-unexpected-constitutional-conundrum-173864/) · `en`
-
-ECONOMYNEXT – The formal announcement of the presidential elections on Friday has triggered limitations on the executive that will complicate its uneasy relations with the judiciary and plunge the country into a constitutional conundrum, as an acting police chief was not immediately appointed following a court order.
-
-Incumbent Inspector General, Deshabandu Tennakoon, was barred from exercising the powers of his position by the Supreme Court, which decided to hear nine petitions against his controversial appointment in February.
-
-Election officials said the executive loses its power to make any appointments or even transfer public servants when an election has been called. This restriction could hinder the appointment of an acting police chief.
-
-Although the court has said President Ranil Wickremesinghe can appoint a suitable officer as the Acting Inspector General, no immediate action was taken, and the operation of election law from Friday bars him from doing so.
-
-...
-
-[Data](articles/6743a36c.json)
-
-[Extended Data](ext_articles/6743a36c.ext.json)
 
 ---

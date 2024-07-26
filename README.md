@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 21:05:34**
+As of **2024-07-26 21:20:32**
 
 ## Newspaper Stats
 
-*Scraped **37,447** Articles*
+*Scraped **37,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,409
-adaderanalk | 4,336
-tamilmirrorlk | 4,618
+adaderanalk | 4,337
+tamilmirrorlk | 4,619
 dailymirrorlk | 4,733
 virakesarilk | 5,888
 adaderanasinhalalk | 6,289
@@ -26,11 +26,43 @@ adaderanasinhalalk | 6,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,445 (100.0%) of 37,447 articles have been extended.
+37,447 (100.0%) of 37,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Ramesh Mendis called up as replacement for Binura Fernando
+
+*2024-07-26 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100800/ramesh-mendis-called-up-as-replacement-for-binura-fernando-) · `en`
+
+All-rounder Ramesh Mendis has been called up for the Sri Lanka T20 squad for the series against India.
+
+This decision comes as fast bowler Binura Fernando is suffering from a fever, putting his participation in the upcoming matches in doubt, according to sources.
+
+Meanwhile, the Sri Lanka Cricket Board has said in a statement that Binura is being treated in the hospital.
+
+◼️
+
+[Data](articles/26557fd6.json)
+
+---
+
+### தமிழரசு கட்சி வேட்பாளரை நிறுத்தாது
+
+*2024-07-26 21:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-கட்சி-வேட்பாளரை-நிறுத்தாது/175-341086) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் இலங்கைத் தமிழ் அரசு கட்சி வேட்பாளரை நியமிக்காது என தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலில்  முக்கிய வேட்பாளர்களுடன் பேச்சுவார்த்தை நடத்தும் என்றும் சுமந்திரன் எம்.பி தெரிவித்தார்
+
+எவ்வாறாயினும், எதிர்வரும் இலங்கை ஜனாதிபதித் தேர்தலில் பொதுத் தமிழ் வேட்பாளரை நிறுத்துவதற்கு பல தமிழ் அரசியல் கட்சிகள் மற்றும் சிவில் சமூக ஆர்வலர்கள் அண்மையில் ஒப்பந்தத்தில் கைச்சாத்திட்டுள்ளனர்
+
+◼️
+
+[Data](articles/16d0ebf5.json)
+
+---
 
 ### Ramesh calls instead of importance of Buddha
 
@@ -190,35 +222,53 @@ MP Anura Kumara Dissanayake made this statement regarding the appointment of a a
 
 ---
 
-### பொலிஸ்மா அதிபர் சர்ச்சை : சிக்கலுக்கு ஜனாதிபதியால் கூட தீர்வுகாண முடியாத நிலைமை - சபாநாயகர்
+### Police Chancellor Controversy: The President cannot resolve even the problem - Speaker
 
 *2024-07-26 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189451) · `ta`
 
-பொலிஸ்மா அதிபர் நியமனத்தில் அரசியலமைப்பு பேரவையின் தலைவர் என்ற ரீதியில்  அரசியலமைப்புக்கு அமையவே  செயற்பட்டுள்ளது.முன்வைக்கும் குற்றச்சாட்டுக்களை நிராகரிக்கிறேன்.பொலிஸ்மா அதிபர் விவகாரத்தில் ஏற்பட்டுள்ள சிக்கலுக்கு ஜனாதிபதியால் கூட தீர்வு காண முடியாத நிலை  ஏற்பட்டுள்ளது.பிரச்சினை உள்ளவர்கள் நீதிமன்றத்திடம் ஆலோசனை கோரலாம் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+The controversy over the appointment of the Inspector General of Police involves the President acting within constitutional bounds, despite opposition claims. The Speaker emphasizes that the President followed constitutional procedures and rejects accusations of inability to address police issues. Decisions regarding the police chief's appointment and dismissal must comply with parliamentary approval and the Constitutional Council's advice. The Speaker suggests legal recourse if disputes arise, highlighting the importance of adhering to constitutional processes.
 
-அத்துடன்  பாராளுமன்றத்தின் இணக்கப்பாட்டுடன்  நியமிக்கப்பட்டுள்ள  அதிகாரியின்  பதவியை வெற்றிடமாக்க வேண்டுமானால்  அல்லது பதவியில் இருந்து நீக்குவதாயின்  விசேட வழிமுறைகள் உள்ளன. அதன்படியே  நடவடிக்கைகளை முன்னெடுக்க முடியும் எனவும் சபாநாயகர் குறிப்பிட்டார்.
+🟩
+
+At the appointment of the Inspector General of Police, the President of the Constitutional Council has acted as the leader of the Constitution. I reject the allegations that the president is unable to resolve the problem of the police.
+
+There are special instructions if there is a vacuum or removing the post of the officer appointed with the compliance of Parliament or the removal of the post. The Speaker also stated that actions can be taken accordingly.
+
+The Speaker said in response to the allegations made by the opposition during the logic of the ruling opposition parties following a special speech made by Prime Minister Dinesh Gunawardena on the interim injunction imposed by the High Court on Friday (26) in Parliament.
+
+As the President of the Constitutional Council, the current crises are due
 
 ...
 
 [Data](articles/99ccd678.json)
 
+[Extended Data](ext_articles/99ccd678.ext.json)
+
 ---
 
-### விஜேதாச ராஜபக்ஷ எமது வேட்பாளர் அல்ல  - ஸ்ரீலங்கா சுதந்திர கட்சி
+### Wijedasa Rajapaksa is not our candidate - the Sri Lanka Freedom Party
 
 *2024-07-26 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189455) · `ta`
 
-வேட்பாளரொருவரை களமிறக்கி வெற்றி பெறக் கூடிய நிலையில் ஸ்ரீலங்கா சுதந்திர கட்சி இல்லை என்பதே யதார்த்தமாகும். அதே வேளை சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதற்கும் நாம் தீர்மானிக்கவில்லை. விஜேதாச ராஜபக்ஷவை வேட்பாளராக நாம் முன்னிலைப்படுத்தவுமில்லை என்று சுதந்திர கட்சியின் பொதுச் செயலாளர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+The Sri Lanka Freedom Party (SLFP) has clarified that Wijedasa Rajapaksa is not their candidate for the upcoming elections. They are yet to decide on supporting any specific candidate, including Sajith Premadasa. A special meeting is scheduled to discuss the party's stance and potential candidates. The SLFP emphasizes the importance of making informed decisions for the country and the party's future, highlighting the need for unity and strategic planning.
 
-தேர்தலில் சுதந்திர கட்சி எவ்வாறு செயற்படப் போகிறது என்பது தொடர்பில் இன்று வெள்ளிக்கிழமை (26) முற்பகல் 11 மணிக்கு கொழும்பு, டாலி வீதியில் அமைந்துள்ள கட்சி தலைமையில் விசேட கலந்துரையாடல் இடம்பெறவுள்ளதாகவும் தயாசிறி ஜயசேகர தெரிவித்தார்.
+🟩
 
-ஜனாதிபதித் தேர்தலில் சு.க.வின் தீர்மானம் குறித்து வினவிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+The reality is that there is no Sri Lanka Freedom Party (SLFP) as it can win a candidate. At the same time we do not decide to support Sajith Premadasa. Freedom Party General Secretary Dayasiri Jayasekara said that we will not present Wijeyadasa Rajapaksa as a candidate.
 
-ஸ்ரீலங்கா சுதந்திர கட்சி சார்பில் தேர்தலில் களமிறங்குவதற்கு இதுவரையில் வேட்பாளர் ஒருவர் தெரிவு செய்யப்படவில்லை. யாரை முன்னிலைப்படுத்துவது என்ற தீர்மானத்தை எடுக்க வேண்டியுள்ளது. அமைப்பாளர்கள், தொகுதி அமைப்பாளர்களுக்கு கலந்துரையாடலொன்றுக்கு அழைப்பு விடுத்துள்ளேன். அவர்களுடனும் ஏனைய உறுப்பினர்களுடன் பேசி தீர்மானமொன்றை எடுப்போம்.
+Dayasiri Jayasekara said that a special discussion will be held at Dali Road, Colombo, at 11 am on Friday (26).
+
+He further stated that when he inquired about the SU resolution in the presidential election, he said.
+
+A candidate has not been elected to the Sri Lanka Freedom Party (SLFP). Have to make a decision on whom to highlight. I have invited organizers and volume organizers a discussion. We will talk to them and other members and make a resolution.
+
+In addition, the SLFP has not taken any decision to support any candidate who has announced the election.. We will take a decision on the country and the future of the party.
 
 ...
 
 [Data](articles/d943e000.json)
+
+[Extended Data](ext_articles/d943e000.ext.json)
 
 ---
 
@@ -2251,43 +2301,5 @@ Meanwhile, the Election Commission of Sri Lanka today also issued the Gazette no
 [Data](articles/0cdea40a.json)
 
 [Extended Data](ext_articles/0cdea40a.ext.json)
-
----
-
-### Ranil paid control
-
-*2024-07-26 09:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-செலுத்தினார்-ரணில்/175-341064) · `ta`
-
-President Ranil Wickremesinghe has taken over control to run as an independent candidate.
-
-🟩
-
-Accordingly, the control of President Ranil Wickremesinghe has been paid to contest as an independent candidate.. Remble
-
-◼️
-
-[Data](articles/f657fd8b.json)
-
-[Extended Data](ext_articles/f657fd8b.ext.json)
-
----
-
-### Sarath Keerthirana deposits bail
-
-*2024-07-26 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199221) · `si`
-
-Sarath Keerthirathne, an independent candidate for the upcoming presidential election, has deposited bail.
-
-🟩
-
-It is reported that an independent candidate who has already deposited a Presidential election for the Presidential election.
-
-Former Parliamentarian Sarath Keerthirathne has deposited such a bail as an independent candidate for the next presidential election.
-
-◼️
-
-[Data](articles/b160833c.json)
-
-[Extended Data](ext_articles/b160833c.ext.json)
 
 ---

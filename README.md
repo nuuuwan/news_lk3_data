@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 14:35:53**
+As of **2024-07-26 14:54:54**
 
 ## Newspaper Stats
 
@@ -26,51 +26,67 @@ adaderanasinhalalk | 6,275
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,399 (100.0%) of 37,401 articles have been extended.
+37,401 (100.0%) of 37,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### අමෙරිකාවටත් හිසරදයක් වූ එල් මායෝ අත්අඩංගුවට
+### El Cano arrested for headaches to America
 
 *2024-07-26 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199233) · `si`
 
-නැගෙනහිරින් මෙක්සිකෝ බොක්කේ සිට බටහිරින් පැසිෆික් සාගරය දක්වා දිවෙන අමෙරිකා එක්සත් ජනපදය සහ මෙක්සිකෝව අතර පිහිටි කිලෝමීටර 3,145ක දේශසීමාව දැඩි රැකවල්ලා ආරක්ෂා කිරීමට අමෙරිකාව උත්සාහ කරන හේතුව නීතිවිරෝධී සංක්‍රමණිකයන් පැමිණීම වැලැක්වීම පමණක් නොවෙයි.
+El Cano, a significant figure in Mexican drug trafficking, was arrested for bringing Fentanyl to the U.S., contributing to many American deaths. His arrest, along with others like Ismail Sambada and Leapho Gusman, highlights the ongoing struggle against drug cartels at the U.S.-Mexico border.
 
-නීතිවිරෝධී මත්ද්‍රව්‍ය වැඩි ප්‍රමාණයක් අමෙරිකාවට පැමිණෙන්නේ එම දේශසීමාව හරහා වීමත් ඊට තවත් ප්‍රධාන හේතුවකි.
+🟩
 
-මෙක්සිකෝවේ නීත්‍යානුකූල රජයන්ට අභියෝග කරන්න තරම් ප්‍රබල මත්ද්‍රව්‍ය කල්ලි මෙක්සිකෝවේ ක්‍රියාත්මක වෙයි.
+The United States of America not only prevent the protection of the 3,145 km of the United States of America and Mexico, which runs from the east of the United States and Mexico.
 
-මේ මත්ද්‍රව්‍ය කල්ලිවල පැහැරගැනීම්, අතුරුදන්වීම් වගේ අපරාධ ක්‍රියා නිසා වසරක් පාසා 30,000ක් පමණ මෙක්සිකෝ වැසියන් මිය යන බව අනාවරණය වී තිබේ.
+Most of the illicit drugs come to the United States through the border and another major cause.
 
-මෙක්සිකෝවේ විශාලතම මත්ද්‍රව්‍ය කල්ලිය සිනලෝවා පිහිටුවනු ලැබූ ‘එල් චාපෝ‘ ගුස්මාන් 2017 වසරේදී මෙක්සිකෝව අත්අඩංගුවට ගෙන අමෙරිකාවට පිටුවහල් කළේය.
+Mexico is working in Mexico to challenge legal governments in Mexico.
 
-එහි නඩු විභාගයකින් පස්සේ ‘එල් චාපෝ‘ ට ජීවිතාන්තය දක්වා සිරදඬුවම් නියම කෙරුණේ ඔහු සිදුකළ දැවැන්ත මත්ද්‍රව්‍ය වැරදිවලට ය.
+It has been revealed that there are about 30,000 Mexico to die every year due to the abductions and disappearances of drugs.
 
-එල් චාපෝ එක්ක සිනලෝවා මත්ද්‍රව්‍ය කල්ලිය පිහිට වූ ඔහුගේ සගයා ඉස්මයෙල් සම්බාඩා නැත්නම් ‘එල් මායෝ‘ය.
+In the year 2017, Leapho Gusman was arrested and deported to the United States of America, which was the largest drug gang of Mexico.
+
+After a trial, the 'El Chap' sentenced to life sentenced to death.
+
+Cineloca with the drug gang, Ismail Sambada, or 'El Maole', who founded the drug gang.
+
+He is believed to be the main crisis in the United States, mainly, to bring the Fentanille to bring in drugs to the United States.
+
+It is now revealed that Fennil is mainly due to the deaths of Americans between the ages of 18 and 45.
 
 ...
 
 [Data](articles/6a32e47d.json)
 
+[Extended Data](ext_articles/6a32e47d.ext.json)
+
 ---
 
-### தேர்தல் காலங்களில் முத்துறைகளுக்குள் முரண்பாடு கூடாது - முன்னாள் சபாநாயகர் கரு ஜயசூரிய
+### Do not conflict within the election period - former Speaker Karu Jayasuriya
 
 *2024-07-26 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189439) · `ta`
 
-தேர்தல் காலங்களில் நீதித்துறை, நிறைவேற்றுத்துறை, பாராளுமன்றத்துக்கிடையில் மோதல்களைத் தவிர்ப்பது முக்கியமானது என முன்னாள் சபாநாயகர் கரு ஜயசூரிய தெரிவித்துள்ளார்.
+During the election period, avoiding conflicts among the judiciary, executive, and parliament is crucial for the country's future, according to former Speaker Karu Jayasuriya. Prime Minister Dinesh Gunawardena rejected a court-imposed injunction on the police chief, highlighting the need for unity amidst differing views on the election and police matters.
 
-பொலிஸ்மா அதிபர் தொடர்பில் நீதிமன்றத்தினால் பிறப்பிக்கப்பட்டுள்ள இடைக்கால தடையுத்தரவை ஏற்றுக் கொள்ள முடியாது என பிரதமர் தினேஷ் குணவர்தன இன்று வெள்ளிக்கிழமை (26) காலை பாராளுமன்றத்தில் அறிவித்திருந்தார்.
+🟩
 
-தேர்தல் தொடர்பிலும், பொலிஸ் மா அதிபர் விவகாரம் தொடர்பில் பல தரப்பினராலும் பல்வேறு கருத்துக்கள் முன்வைக்கப்படுகின்ற நிலையிலேயே முன்னாள் சபாநாயகர் கருஜயசூரிய தனது X பக்கத்தில் செய்துள்ள பதிவில் இதனைக் குறிப்பிட்டுள்ளார்.
+Former Speaker Karu Jayasuriya has said that it is important to avoid conflicts between the judiciary, the executive department and the parliament during the election period.
 
-தேர்தல் காலங்களில் நீதித்துறை, நிறைவேற்றுத்துறை, பாராளுமன்றத்துக்கிடையில் மோதல்களைத் தவிர்ப்பது முக்கியம். சுயநலத்தை விட நாட்டின் எதிர்காலம் முக்கியமானது கருஜயசூரிய வலியுறுத்தியுள்ளார்.
+Prime Minister Dinesh Gunawardena announced in Parliament this morning that the interim injunction issued by the court on the police chief cannot be accepted.
+
+Former Speaker Karujayasuriya made this statement on his X -X -X -X -on page as various comments have been made by various parties on the election and the police chief.
+
+It is important to avoid conflicts between the judiciary, the executive department and the parliament during the election period. Karujayasuriya has emphasized that the future of the country is more important than selfishness.
 
 ◼️
 
 [Data](articles/53afdc70.json)
+
+[Extended Data](ext_articles/53afdc70.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 08:54:48**
+As of **2024-07-26 09:06:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,261
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,324 (100.0%) of 37,330 articles have been extended.
+37,330 (100.0%) of 37,330 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,27 @@ The Supreme Court on Wednesday issued an interim order preventing Deshabandu Ten
 
 [Data](articles/3b08256b.json)
 
+[Extended Data](ext_articles/3b08256b.ext.json)
+
 ---
 
-### ජනපතිවරණයේ ඇප මුදල් තැන්පත් කිරීම ගැන දැනුම්දීමක්
+### Notice of deposit of the presidential election
 
 *2024-07-26 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199219) · `si`
 
-ජනාධිපතිවරණය ප්‍රකාශයට පත් කළ අද (26) දිනයේ පෙරවරු 8.30 සිට නාමයෝජනා කැඳවීමේ දිනය වන 2024 අගෝස්තු මස 15 වන දිනට පෙර දිනය වන අගෝස්තු මස 14 වනදා මධ්‍යහ්න 12 දක්වා ජනාධිපතිවරණ අපේක්ෂකයින් සඳහා ඇප මුදල් තැන්පත් කළ හැකි බව මැතිවරණ කොමිෂන් සභාව පවසනවා.
+The Elections Commission announces that deposits for the upcoming presidential election will be accepted on August 14. Candidates must submit their deposits as per the council's guidelines.
 
-ඒ අනුව අපේක්ෂකයා පිළිගත් දේශපාලන පක්ෂයක් විසින් නාමයෝජනා කරනු ලබන අපේක්ෂකයෙකු වන අවස්ථාවක රුපියල් 50,000ක මුදලක් ද, අපේක්ෂකයා වෙනත් යම් දේශපාලන පක්ෂයක් විසින් හෝ ඡන්ද හිමියෙකු විසින් නාමයෝජනා කරන ලද අපේක්ෂකයෙකු වන අවස්ථාවක රුපියල් 75,000ක මුදලක් ද, ඇප මුදල් ලෙස තැන්පත් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+🟩
+
+The Elections Commission states that the date on August 14, on August 14, on August 14, will be deposited from the 14th of August, on August 14, on August 14, on August 14, on August 14, on August 14.
+
+According to the candidate of a deposit of Rs.The Council announced.
 
 ◼️
 
 [Data](articles/14e1a8e2.json)
+
+[Extended Data](ext_articles/14e1a8e2.ext.json)
 
 ---
 
@@ -234,6 +242,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/177df166.json)
 
+[Extended Data](ext_articles/177df166.ext.json)
+
 ---
 
 ### DFCC Bank launches online digital onboarding facility
@@ -246,6 +256,8 @@ A pioneer in digital banking and service delivery, DFCC Bank has rolled out its 
 
 [Data](articles/36a31545.json)
 
+[Extended Data](ext_articles/36a31545.ext.json)
+
 ---
 
 ### Sri Lanka Retailers’ Association hosts 7th Annual General Meeting
@@ -257,6 +269,8 @@ The Sri Lanka Retailer’s Association (SLRA) held its 7th Annual General Meetin
 ...
 
 [Data](articles/c876b721.json)
+
+[Extended Data](ext_articles/c876b721.ext.json)
 
 ---
 
@@ -311,6 +325,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/5cda86ce.json)
+
+[Extended Data](ext_articles/5cda86ce.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 23:05:31**
+As of **2024-07-26 23:20:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,460 (100.0%) of 37,462 articles have been extended.
+37,462 (100.0%) of 37,462 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Down the order, Anushka Sanjeewani provided crucial 24 runs and the Islanders ch
 ...
 
 [Data](articles/d080ffbf.json)
+
+[Extended Data](ext_articles/d080ffbf.ext.json)
 
 ---
 
@@ -94,17 +96,27 @@ Sri Lanka women's women played today (26) to qualify for the finals of the women
 
 ---
 
-### ජනපතිවරණය ප්‍රකාශිතයි  - රටේම ආරක්ෂාව තහවුරු කරන්න
+### Presidentialism is expressed - Confirm the security of the country
 
 *2024-07-26 22:09:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-ප්‍රකාශිතයි----රටේම-ආරක්ෂාව-තහවුරු-කරන්න/11-411022) · `si`
 
-එළෙඹෙන ජනාධිපතිවරණය මැතිවරණ කොමසාරිස්වරයා විසින් ප්‍රකාශයට පත් කර ඇති බැවින්, එම කාලය තුල ජනාධිපති අපේක්‍ෂකයන්ගේ, පුරවැසියන්ගේ මෙන්ම සමස්ත රටේම ආරක්‍ෂාව උපරිම අයුරින් තහවුරු කිරීමට අවශ්‍ය සියලු පියවර ගන්නා ලෙස ආරක්‍ෂක රාජ්‍ය අමාත්‍ය ගරු ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මැතිතුමා අද පාර්ලිමේන්තුවේදී ආරක්‍ෂක ප්‍රධානීන්ට උපදෙස් ලබා දුන්නේය.
+In a parliamentary meeting, the State Minister emphasized the importance of national security and constitutional rights. He highlighted the need to strengthen the armed forces and ensure law enforcement, especially during challenging times. The meeting aimed to bolster defense capabilities and uphold democratic principles.
 
-ආරක්‍ෂක කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව අද (ජුලි 26) පෙරවරුවේ පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී ආරක්‍ෂක රාජ්‍ය අමාත්‍යවරයා විසින් මෙලෙස උපදෙස් ලබා දෙන ලදි. ආරක්‍ෂක මාණ්ඩලික ප්‍රධානී ජෙනරල් ශවේන්ද්‍ර සිල්වා, නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා ඇතුළු ත්‍රිවිධ හමුදාවේ ඉහල පෙළේ නිලධාරීන් පිරිසක් මෙන්ම ආරක්‍ෂක අමාත්‍යාංශයේ සහ ඒ යටතේ ඇති ආයතන ප්‍රධානීන් මෙම කාරක සභා රැස්වීමට කැඳවා තිබිණි.
+🟩
+
+Minister of Definite Hon
+
+The State Minister was instructed by the State Minister at the time of Parliament today (July 26) of the Ministry of Defense.. The Chief of Defense Staff General Shavendra Silva, Navy Commander Vice Admiral Priyantha Perera and the heads of the Defense Ministry and the institutions under the Army have called.
+
+Also, the minister also requested to carry out all these activities to protect the basic rights of the Constitution and the citizens. He also pointed out that during the most complex period of two years, he had to make serious decisions as a Ministry for the last two years and that the country could be strengthened and established national security and the authority of the law.
+
+Therefore, the Hon. Praise Bandara Tennakoon, the Ministry of Defense and all the institutions under the Ministry of Defense and the activities under the purview of the Ministry of Defense and all the institutions under that.
 
 ...
 
 [Data](articles/e3303da0.json)
+
+[Extended Data](ext_articles/e3303da0.ext.json)
 
 ---
 

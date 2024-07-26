@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 10:20:18**
+As of **2024-07-26 10:36:44**
 
 ## Newspaper Stats
 
-*Scraped **37,347** Articles*
+*Scraped **37,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,396
-adaderanalk | 4,321
+adaderanalk | 4,322
 tamilmirrorlk | 4,603
 dailymirrorlk | 4,733
 virakesarilk | 5,864
-adaderanasinhalalk | 6,264
+adaderanasinhalalk | 6,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,346 (100.0%) of 37,347 articles have been extended.
+37,347 (100.0%) of 37,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Price of bread reduced
+
+*2024-07-26 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100785/price-of-bread-reduced) · `en`
+
+The price of a 450g loaf of bread will be reduced by Rs. 10 with effect from midnight today (26), the All-Ceylon Bakery Owners’ Association said.
+
+◼️
+
+[Data](articles/3e7c1551.json)
+
+---
+
+### පාන් මිල අඩුකෙරේ
+
+*2024-07-26 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199224) · `si`
+
+සමස්ත ලංකා බෙකරිහිමියන්ගේ සංගමයේ සභාපති එන්. කේ. ජයවර්ධන මහතා ඒ බව පැවසීය.
+
+◼️
+
+[Data](articles/7d0556b8.json)
+
+---
+
+### ජනපතිට වැඩබලන පොලිස්පතිවරයෙක් පත් කළ හැකිද ?
+
+*2024-07-26 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199223) · `si`
+
+වැඩබලන පොලිස්පතිවරයෙකු පත් කිරීමට ජනාධිපතිවරයාට මේ මොහොතේ නීතිමය ප්‍රතිපාදන නොමැති බව අද (26) පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් කරමින් අගමැති දිනේෂ් ගුණවර්ධන මහතා පැවසීය.
+
+එහිදී අගමැතිවරයා වැඩිදුරටත් සඳහන් කළේ දැනට පවතින පොලිස්පති ධූරය හිස් නොවන බවය.
+
+"පොලිස්පති සම්බන්ධව වැඩ අත්හිටුවා ඇති ශ්‍රේෂ්ඨාධිකරණයේ නියෝගය බලරහිත කළයුතු යැයි කථානායකවරයා සහ පාර්ලිමේන්තුව වෙත සිහිපත් කරනවා.  කථානායකවරයා මේ සම්බන්ධව හැකි ඉක්මණින් මැදිහත් වන ලෙස අපි දන්වා සිටිනවා." යනුවෙන් ද අගමැතිවරයා පැවසීය.
+
+◼️
+
+[Data](articles/05b973a9.json)
+
+---
 
 ### President cannot appoint Acting IGP as post is not vacated - PM
 
@@ -43,6 +83,8 @@ Delivering a special statement in Parliament, the Prime Minister also emphasized
 ◼️
 
 [Data](articles/fc3abe74.json)
+
+[Extended Data](ext_articles/fc3abe74.ext.json)
 
 ---
 
@@ -2105,81 +2147,5 @@ If the authorities have been given the ally not scientifically to burn the bodie
 [Data](articles/819ecce0.json)
 
 [Extended Data](ext_articles/819ecce0.ext.json)
-
----
-
-### Tamil sisters caught in the hands of the quadrs;Army ordered to the Cuddalore
-
-*2024-07-25 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189373) · `ta`
-
-In a tense situation involving Tamil sisters and armed groups, the narrator decides to return home due to danger, witnessing chaos and violence along the way. Soldiers and looters are present, and the narrator's house in Maharagama is targeted, with Tamil homes being identified and attacked. Amidst the turmoil, the narrator witnesses a horrific act where two young girls are brutally murdered, highlighting the extreme violence and fear experienced during this period.
-
-🟩
-
-They shook their hands and shouted at the queen that one of them should kill all Tamils.
-
-I was in the grip of a bitter fear-I decided that it was the best thing to go home soon after thinking for a few minutes.
-
-I decided to go home because it was a very dangerous thing.
-
-9.30 - I started walking towards my house, four kilometers from the Nukegoda junction - people were looting the shops on both sides of the road.
-
-I walked towards it in a distance of relief, but I was shocked, and six seven soldiers were sitting on the top of the jeep.
-
-10.45- I went to my house in Maharagama. Nothing has happened still. When I went into the house, I went to the house.
-
-11.30- I heard great noises outside my house, and the shouting was confused.
-
-Many government -owned jeeps and many buses belonging to the Sri Lanka Transport Board suddenly arrived.
-
-Many of the buses descended from the jeeps to many knives and swords. Sumar was 200 people.
-
-...
-
-[Data](articles/5dadce8e.json)
-
-[Extended Data](ext_articles/5dadce8e.ext.json)
-
----
-
-### Sri Lanka legislators go to Court against IVS-VFS Global visa deal
-
-*2024-07-25 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-legislators-go-to-court-against-ivs-vfs-global-visa-deal-173801/) · `en`
-
-ECONOMYNEXT – An opposition legislator said he had petitioned Sri Lanka’s Supreme Court against contract given without competitive tender to private consortium involving companies called IVS-GBS and VFS Global.
-
-Opposition legislator Patali Ranawaka said in an x.com (twitter) post that he had filed action in the Supreme Court with fellow parliamentarians M A Sumanthiran and Rauf Hakeem against the Minister of Public Security and the government alleging a scam over the visa deal.
-
-The Committee on Public Finance in Sri Lanka’s parliament in a report has called for the cancellation or amendment of the visa deal which was struck without competitive tender where foreigners are charged between 10 to 25 dollars to issue a visa.
-
-The tourism industry associations have said the website is difficult to navigate compared to an earlier one run by Sri Lanka’s Mobitel for 1 dollar per visa and it is putting off visitors.
-
-...
-
-[Data](articles/6d9e646d.json)
-
-[Extended Data](ext_articles/6d9e646d.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 303.25/40 to US dollar, bond yields steady
-
-*2024-07-25 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-25-40-to-us-dollar-bond-yields-steady-173795/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.25/40 to the US dollar on Thursday, from 303.55/65 to the US dollar on Wednesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed stable at 10.30/45 percent.
-
-A bond maturing on 15.12.2027 closed stable at 11.60/70 percent.
-
-A bond maturing on 01.05.2028 closed at 11.80/90 percent, up from 11.75/85 percent.
-
-A bond maturing on 15.09.2029 closed at 12.05/10 percent, from 12.02/12 percent. (Colombo/Jul25/2024)
-
-◼️
-
-[Data](articles/de35279f.json)
-
-[Extended Data](ext_articles/de35279f.ext.json)
 
 ---

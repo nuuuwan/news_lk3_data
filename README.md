@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 23:35:55**
+As of **2024-07-26 23:55:36**
 
 ## Newspaper Stats
 
-*Scraped **37,462** Articles*
+*Scraped **37,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,134
-economynextcom | 2,244
+economynextcom | 2,252
 dailyftlk | 2,390
 adalk | 3,412
 adaderanalk | 4,339
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,462 (100.0%) of 37,462 articles have been extended.
+37,462 (100.0%) of 37,470 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -241,6 +241,24 @@ Elections Commission not to announce the announcement of the presidential electi
 [Data](articles/08dfe83c.json)
 
 [Extended Data](ext_articles/08dfe83c.ext.json)
+
+---
+
+### Sri Lanka’s key Tamil party won’t field candidate; will back one after assessment: MP
+
+*2024-07-26 21:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-key-tamil-party-wont-field-candidate-will-back-one-after-assessment-mp-174033/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s main ethnic Tamil minority party Ilankai Thamil Arasuk Katchi (ITAK) will not field its own candidate for the upcoming September 25 presidential candidate, but it will back the candidate who will have a manifesto that will have a solution for power devolution among many others, the party officials said.
+
+ITAK has a strong say in the island nation’s ethnic Tamil minority dominating North and East where the voters in the past have backed the candidate decided by ITAK-led Tamil National Alliance (TNA).
+
+M. A. Sumanthiran, an ITAK legislator said the part has already had discussions with opposition leader Sajith Premadasa and Marxists Janatha Vimukthi Peremuna (JVP) leader Anura Kumara Dissanayaka.
+
+“President Wickremesinghe has only announced his candidacy today. So will also be discussing with him and we will decide after careful consideration,” Sumanthiran told reporters at a media briefing in Colombo on Friday (25).
+
+...
+
+[Data](articles/8c522ab8.json)
 
 ---
 
@@ -556,6 +574,26 @@ Speaker, someone who has appointed all of us to protect all our members. So all 
 
 ---
 
+### Four candidates place cash deposits for Sri Lanka’s presidential election
+
+*2024-07-26 19:05:00* · [`economynextcom`](https://economynext.com/four-candidates-place-cash-deposits-for-sri-lankas-presidential-election-174027/) · `en`
+
+ECONOMYNEXT — Four presidential candidates have paid their cash deposits for Sri Lanka’s 2024 presidential election, the country’s election commission said.
+
+Former Deputy Minister Sarath Keerthirathne was the first to make his deposit soon after the announcement by the commission that the election would be held on September 21.
+
+He was followed by President Ranil Wickremesinghe, activist Oshala Herath and businessman A S P Liyanage.
+
+With the exception of Liyanage, who is contesting from the SRi Lanka Workers’ Party, all presidential hopefuls so far will face the electorate as independent candidates.
+
+The election commission said Friday July 26 that Sri Lanka’s presidential election will be held on September 21, 2024, with nominations to be accepted till August 15.
+
+...
+
+[Data](articles/950c7fcc.json)
+
+---
+
 ### Workplace for Defense Department Heads -In amazement
 
 *2024-07-26 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189479) · `ta`
@@ -599,6 +637,28 @@ A program to provide smart classroom equipment to schools and sects under the "D
 [Data](articles/59ce9b80.json)
 
 [Extended Data](ext_articles/59ce9b80.ext.json)
+
+---
+
+### Sri Lanka still negotiating with Melwa sale price for Hilton building
+
+*2024-07-26 18:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-still-negotiating-with-melwa-sale-price-for-hilton-building-173976/) · `en`
+
+ECONOMYNEXT – Sri Lanka is still negotiating the price to sell Hotel Developers Lanka Ltd, the owning company of Colombo Hilton with the company that submitted the financial bid, the State-Owned Enterprises Restructuring Unit said.
+
+Though four parties that were pre-qualified, only one Melwa Hotels & Resorts (Pvt) Ltd, submitted an offer, the SRU said earlier in July.
+
+Th negotiations are not yet concluded and the price has not yet been finalized.
+
+Offers and bids are evaluated by two Cabinet appointed committees that are independent of the SOE Restructuring Unit. These are the Special Project Committee, and the Special Cabinet Appointed Negotiation Commitee (SpCANC).
+
+“During the evaluation process, the SpCANC has the mandate to further discuss this offer with the proposer,” the SRU said at the time.
+
+The SOERU said it acts as an implementing agency and facilitates and coordinates the work of the two committees.
+
+...
+
+[Data](articles/1e2c3333.json)
 
 ---
 
@@ -794,6 +854,46 @@ From July 16, you can pre-registration through links to https://www.imimigration
 
 ---
 
+### Sri Lanka rupee closes stronger at 303.10/20 to US dollar
+
+*2024-07-26 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-10-20-to-us-dollar-173994/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 303.10/20 to the US dollar on Friday, from 303.25/40 to the US dollar on Thursday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.40/50 percent, up from 10.30/45 percent.
+
+A bond maturing on 15.12.2027 closed at 11.68/78 percent, up from 11.60/70 percent.
+
+A bond maturing on 15.09.2029 closed at 12.14/18 percent, up from 12.05/10 percent.
+
+A bond maturing on 01.10.2032 closed at 12.45/60 percent. (Colombo/Jul26/2024)
+
+◼️
+
+[Data](articles/1eb8f8b2.json)
+
+---
+
+### Sri Lanka SRU responds to SLT, Hilton sale allegations
+
+*2024-07-26 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-sru-responds-to-slt-hilton-sale-allegations-174018/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s State-Owned Enterprises Restructuring Unit has responded to recent statements about the sale process of Hotel Developers Lanka and SLT.
+
+With respect to the divestitures of Hotel Developers Lanka Ltd and Sri Lanka Telecom PLC, recent newspaper articles and social media content claim that:
+
+1. The divestiture of Hotel Developers Lanka Ltd (HDL, the owning company of the Colombo Hilton) will include 7 acres of land:
+
+This is incorrect. The land involved in the transaction amounts to 4.61 acres and is available for use by HDL on a leasehold basis until 2111. Subject to approval by the Cabinet of Ministers, a further 1.875 acres of land will be made available to HDL on a lease basis until 2111 at a price of Rs 4.4 billion (in addition to the price for HDL).
+
+Two of the hotel’s restaurants, its swimming pool, gymnasium and some of its parking is situated on this land.
+
+...
+
+[Data](articles/56d43bb9.json)
+
+---
+
 ### QR Code for all Money Transactions?
 
 *2024-07-26 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199240) · `si`
@@ -859,6 +959,30 @@ On the contrary, the first demand is to obtain land and livelihood land for a se
 [Data](articles/a370fd88.json)
 
 [Extended Data](ext_articles/a370fd88.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Sanasa trade boosts turnover
+
+*2024-07-26 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-sanasa-trade-boosts-turnover-173990/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed marginally down on Friday, as investors remained wary about the upcoming presidential election.
+
+The broader All Share Index closed down 0.06 percent, or 7.17 points, at 11,633; while the more liquid S&P SL20 Index closed down 0.02 percent, or 0.71 points, at 3,385.
+
+Turnover remained low at 575 million. The CSE has been muted for several weeks now.
+
+“It was a relatively dull day,” Softlogic Stockbrokers said. “The downward momentum continued, albeit somewhat marginally, today.”
+
+Three crossing in the days contributed 31 percent to the day’s turnover. “The largest of these was the Sanasa Development Bank Plc trade which brought in Rs117mn.” It was a local to local transaction. The share closed flat at 31.00.
+
+John Keells Holdings Plc brought in 80 million overall, and the share closed down at 191.25.
+
+Ceylon Land & Equity Plc brought in 21 million rupees in total and the share closed down at 7.40.
+
+...
+
+[Data](articles/ae9885a3.json)
 
 ---
 
@@ -1204,6 +1328,26 @@ People say that the broken school building and state buildings are still sources
 
 ---
 
+### Sri Lanka CEB can cut capex to find cash to pay generators if needed: Fitch
+
+*2024-07-26 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-can-cut-capex-to-find-cash-to-pay-generators-if-needed-fitch-173972/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board can cut capital expenditure to make payments to power producer if required, after the regulator mandated a bigger price cut than was proposed, Fitch Ratings said.
+
+The cut was bigger than was proposed by the CEB, Fitch said.
+
+“The Public Utilities Commission of Sri Lanka’s instruction on the 22.5% average tariff cut, made during the regulator’s quarterly tariff review, was larger than the 10% proposed by CEB,” Fitch said.
+
+Coal prices have dropped 31 percent, over the past year, while hydro power in the generation mix had risen to 31 percent.
+
+Assuming unchanged tariffs and costs for the rest of the year, Fitch said CEB’s earnings before interest, tax, depreciation and amortization (EBITDA) margin will narrow to about 11 percent in 2024, from the 26 percent in 2023 reported in its preliminary accounts.
+
+...
+
+[Data](articles/8e91b5e9.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-07-26 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/189445) · `ta`
@@ -1335,6 +1479,26 @@ Accordingly, the police have been arrested for four months after the incident.
 [Data](articles/5ad66ae7.json)
 
 [Extended Data](ext_articles/5ad66ae7.ext.json)
+
+---
+
+### US welcomes Sri Lanka election announcement
+
+*2024-07-26 14:12:00* · [`economynextcom`](https://economynext.com/us-welcomes-sri-lanka-election-announcement-173966/) · `en`
+
+ECONOMYNEXT – US Ambassador to Sri Lanka Julie Chung has said she ‘welcomed’ the decision to hold Sri Lanka’s presidential election in September.
+
+“We welcome the Election Commission announcement of September 21 presidential elections, affirming Sri Lanka’s longstanding commitment to democracy,” Chung said on X (twitter).
+
+“We look forward to free and fair elections that empower Sri Lankan citizens to determine their future.”
+
+Sri Lanka’s presidential election will be held on September 21, 2024, with nominations to be accepted on  August 15, the Election Commission announced.
+
+In a gazette issued in the early hours of Friday July 26, the commission said the election will be held “not less than one month and not more than two months before the expiration of th eterm of office of the president in office, as stipulated in Article 31(3) of the Constitution”. (Colombo/Colombo26/2024)
+
+◼️
+
+[Data](articles/4546a74a.json)
 
 ---
 
@@ -2149,171 +2313,5 @@ Meanwhile, President’s Counsel Ronald Perera today placed bonds on behalf of P
 [Data](articles/61b454fb.json)
 
 [Extended Data](ext_articles/61b454fb.ext.json)
-
----
-
-### Three -wheeler driver arrested for bribing police constable
-
-*2024-07-26 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189395) · `ta`
-
-A three-wheeler driver was arrested for trying to bribe a police constable in Cinnamon, Sri Lanka. The incident occurred while the officer was on duty, attempting to report traffic violations. The driver offered 1,000 rupees but was instead taken into custody. He has since been transferred to the Bribery Commission for further investigation.
-
-🟩
-
-A driver of a three -wheeler has been arrested for attempting to bribe the police constable to the police constable belonging to the Cinnamon Traffic Police Division, the Cinnamon Garden Police said.
-
-The driver of the Cinnamon Garden Buddhist Mawatha has been arrested for attempting to bribe 1000 rupees when the police constable has been on duty and tried to file a case of traffic violations.
-
-In addition, the suspect has been handed over to the Bribery Commission for further investigations, police said.
-
-◼️
-
-[Data](articles/af4a881f.json)
-
-[Extended Data](ext_articles/af4a881f.ext.json)
-
----
-
-### US arrests Mexican drug lord ‘El Mayo’ and El Chapo’s son in Texas
-
-*2024-07-26 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100786/us-arrests-mexican-drug-lord-el-mayo-and-el-chapos-son-in-texas) · `en`
-
-Mexican drug kingpin Ismael “El Mayo” Zambada and the son of his ex-partner, Joaquin “El Chapo” Guzman, were arrested on Thursday in El Paso, Texas, in a major coup for U.S. authorities that may also reshape the Mexican criminal landscape.
-
-Zambada is one of the most consequential traffickers in Mexico’s history and co-founded the Sinaloa Cartel with El Chapo, who was extradited to the United States in 2017 and is serving a life sentence in a maximum security prison.
-
-Both Zambada and Joaquin Guzman Lopez, the son of El Chapo, face multiple charges in the U.S. for funneling huge quantities of drugs to U.S. streets, including fentanyl, which has surged to become the leading cause of death for Americans between the ages of 18 and 45.
-
-Zambada, who is believed to be in his 70s, and Guzman Lopez, who is in his 30s, were detained after landing in a private plane in the El Paso area, two U.S. officials told Reuters.
-
-...
-
-[Data](articles/f945a055.json)
-
-[Extended Data](ext_articles/f945a055.ext.json)
-
----
-
-### Constitutional Council intervene on the matter of police chief - Prime Minister
-
-*2024-07-26 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189402) · `ta`
-
-The Constitutional Council's authority is unchallengeable according to PM Dinesh Gunawardena. He also suggests the Constituent Assembly should support the High Court's interim injunction against the IGP, despite questioning its legal basis and the acceptability of the Supreme Court's decision.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said that the power of the Constitutional Council cannot be challenged.
-
-At the same time, the Constituent Assembly should intervene to strengthen the interim injunction issued by the High Court against the Inspector General of Police.
-
-The Prime Minister said that there was no basic law in the interim injunction issued by the High Court against the Inspector General of Police and that the Supreme Court's decision could not be accepted.
-
-◼️
-
-[Data](articles/a51b8989.json)
-
-[Extended Data](ext_articles/a51b8989.ext.json)
-
----
-
-### Woman dies after being treated in Colombo strong treatment in a shooting
-
-*2024-07-26 10:22:00* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදීමකින්-බරපතල-තුවාල-ලබා-කොළඹ-දැඩිසත්කාර-ඒකකයේ-ප්‍රතිකාර-ලබමින්-සිටි-කාන්තාවක්-මියයයි/11-411011) · `si`
-
-In Colombo, a 56-year-old woman from Orugodawatta died after being shot near the Sevas Vedellawatte housing complex while undergoing treatment at the University of Colombo. The incident involved her and her nephew, a 31-year-old from Kamburugagamwela, Matara, and was linked to a drug-related police investigation.
-
-🟩
-
-Woman in Colombo, a woman who was receiving treatment at the University of Colombo in front of the Sevas Vadellawatte housing complex in front of the Sevas Vedellawatte housing complex was killed last night
-
-The deceased is fifty-six year old residents of Orugodawatta
-
-A 31 year old resident of Kamburugagamwela, Matara, Matara
-
-Police said that the shooting was on the way to the Vadullawatta area in announced with the deceased woman and the nephew.
-
-A police officer had carried out the shooting of a revolution
-
-The shooting had been launched on suspicion that the shooting had erupted on suspicion of spying in the police regarding drugs.
-
-◼️
-
-[Data](articles/9e53b86e.json)
-
-[Extended Data](ext_articles/9e53b86e.ext.json)
-
----
-
-### Price of bread reduced
-
-*2024-07-26 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100785/price-of-bread-reduced) · `en`
-
-The price of a 450g loaf of bread will be reduced by Rs. 10 with effect from midnight today (26), the All-Ceylon Bakery Owners’ Association said.
-
-◼️
-
-[Data](articles/3e7c1551.json)
-
-[Extended Data](ext_articles/3e7c1551.ext.json)
-
----
-
-### The president is not authorized: the Prime Minister
-
-*2024-07-26 10:19:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அதிகாரம்-இல்லை-பிரதமர்/175-341065) · `ta`
-
-In a parliamentary address, PM Dinesh Gunawardena stated the President lacks constitutional power to appoint the IGP. He also mentioned that if Ranil Wickremesinghe wins the presidency, he cannot appoint a police chief due to constitutional constraints.
-
-🟩
-
-Prime Minister Dinesh Gunawardena issued a special announcement in Parliament today (26) that the president has no authority to appoint the Inspector General of Police in response to the legislation.
-
-Meanwhile, Prime Minister Dinesh Gunawardena has said that if Ranil Wickremesinghe is the candidate of the presidential election, he will not be able to appoint a police chief in response to the constitution.. Remble
-
-◼️
-
-[Data](articles/d569d8a9.json)
-
-[Extended Data](ext_articles/d569d8a9.ext.json)
-
----
-
-### The price of bread is reduced
-
-*2024-07-26 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199224) · `si`
-
-Mr. Jayawardena from the All Ceylon Bread Association announced a reduction in bread prices.
-
-🟩
-
-All Ceylon Becoriion's Association. K. Mr. Jayawardena said that.
-
-◼️
-
-[Data](articles/7d0556b8.json)
-
-[Extended Data](ext_articles/7d0556b8.ext.json)
-
----
-
-### Can the President appoint a acting IGP?
-
-*2024-07-26 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199223) · `si`
-
-In a parliamentary address, Prime Minister Dinesh Gunawardena announced the President's decision to appoint an acting Inspector General of Police (IGP), noting that the current position is not vacant.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said that the President has made a special statement in Parliament today to appoint a acting IGP.
-
-The Prime Minister added that the existing IGP is not empty.
-
-"The Speaker and Parliament Reminder the Speaker and Parliament.  කථානායකවරයා මේ සම්බන්ධව හැකි ඉක්මණින් මැදිහත් වන ලෙස අපි දන්වා සිටිනවා." යනුවෙන් ද අගමැතිවරයා පැවසීය.
-
-◼️
-
-[Data](articles/05b973a9.json)
-
-[Extended Data](ext_articles/05b973a9.ext.json)
 
 ---

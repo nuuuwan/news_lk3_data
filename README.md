@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 14:20:25**
+As of **2024-07-26 14:35:53**
 
 ## Newspaper Stats
 
-*Scraped **37,399** Articles*
+*Scraped **37,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,106 @@ adalk | 3,406
 adaderanalk | 4,329
 tamilmirrorlk | 4,609
 dailymirrorlk | 4,733
-virakesarilk | 5,875
-adaderanasinhalalk | 6,274
+virakesarilk | 5,876
+adaderanasinhalalk | 6,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,395 (100.0%) of 37,399 articles have been extended.
+37,399 (100.0%) of 37,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### ඇමති විජයදාසට නොතීසි
+### අමෙරිකාවටත් හිසරදයක් වූ එල් මායෝ අත්අඩංගුවට
+
+*2024-07-26 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199233) · `si`
+
+නැගෙනහිරින් මෙක්සිකෝ බොක්කේ සිට බටහිරින් පැසිෆික් සාගරය දක්වා දිවෙන අමෙරිකා එක්සත් ජනපදය සහ මෙක්සිකෝව අතර පිහිටි කිලෝමීටර 3,145ක දේශසීමාව දැඩි රැකවල්ලා ආරක්ෂා කිරීමට අමෙරිකාව උත්සාහ කරන හේතුව නීතිවිරෝධී සංක්‍රමණිකයන් පැමිණීම වැලැක්වීම පමණක් නොවෙයි.
+
+නීතිවිරෝධී මත්ද්‍රව්‍ය වැඩි ප්‍රමාණයක් අමෙරිකාවට පැමිණෙන්නේ එම දේශසීමාව හරහා වීමත් ඊට තවත් ප්‍රධාන හේතුවකි.
+
+මෙක්සිකෝවේ නීත්‍යානුකූල රජයන්ට අභියෝග කරන්න තරම් ප්‍රබල මත්ද්‍රව්‍ය කල්ලි මෙක්සිකෝවේ ක්‍රියාත්මක වෙයි.
+
+මේ මත්ද්‍රව්‍ය කල්ලිවල පැහැරගැනීම්, අතුරුදන්වීම් වගේ අපරාධ ක්‍රියා නිසා වසරක් පාසා 30,000ක් පමණ මෙක්සිකෝ වැසියන් මිය යන බව අනාවරණය වී තිබේ.
+
+මෙක්සිකෝවේ විශාලතම මත්ද්‍රව්‍ය කල්ලිය සිනලෝවා පිහිටුවනු ලැබූ ‘එල් චාපෝ‘ ගුස්මාන් 2017 වසරේදී මෙක්සිකෝව අත්අඩංගුවට ගෙන අමෙරිකාවට පිටුවහල් කළේය.
+
+එහි නඩු විභාගයකින් පස්සේ ‘එල් චාපෝ‘ ට ජීවිතාන්තය දක්වා සිරදඬුවම් නියම කෙරුණේ ඔහු සිදුකළ දැවැන්ත මත්ද්‍රව්‍ය වැරදිවලට ය.
+
+එල් චාපෝ එක්ක සිනලෝවා මත්ද්‍රව්‍ය කල්ලිය පිහිට වූ ඔහුගේ සගයා ඉස්මයෙල් සම්බාඩා නැත්නම් ‘එල් මායෝ‘ය.
+
+...
+
+[Data](articles/6a32e47d.json)
+
+---
+
+### தேர்தல் காலங்களில் முத்துறைகளுக்குள் முரண்பாடு கூடாது - முன்னாள் சபாநாயகர் கரு ஜயசூரிய
+
+*2024-07-26 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189439) · `ta`
+
+தேர்தல் காலங்களில் நீதித்துறை, நிறைவேற்றுத்துறை, பாராளுமன்றத்துக்கிடையில் மோதல்களைத் தவிர்ப்பது முக்கியமானது என முன்னாள் சபாநாயகர் கரு ஜயசூரிய தெரிவித்துள்ளார்.
+
+பொலிஸ்மா அதிபர் தொடர்பில் நீதிமன்றத்தினால் பிறப்பிக்கப்பட்டுள்ள இடைக்கால தடையுத்தரவை ஏற்றுக் கொள்ள முடியாது என பிரதமர் தினேஷ் குணவர்தன இன்று வெள்ளிக்கிழமை (26) காலை பாராளுமன்றத்தில் அறிவித்திருந்தார்.
+
+தேர்தல் தொடர்பிலும், பொலிஸ் மா அதிபர் விவகாரம் தொடர்பில் பல தரப்பினராலும் பல்வேறு கருத்துக்கள் முன்வைக்கப்படுகின்ற நிலையிலேயே முன்னாள் சபாநாயகர் கருஜயசூரிய தனது X பக்கத்தில் செய்துள்ள பதிவில் இதனைக் குறிப்பிட்டுள்ளார்.
+
+தேர்தல் காலங்களில் நீதித்துறை, நிறைவேற்றுத்துறை, பாராளுமன்றத்துக்கிடையில் மோதல்களைத் தவிர்ப்பது முக்கியம். சுயநலத்தை விட நாட்டின் எதிர்காலம் முக்கியமானது கருஜயசூரிய வலியுறுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/53afdc70.json)
+
+---
+
+### Minister Wijayaka
 
 *2024-07-26 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199232) · `si`
 
-රිමාන්ඩ් සිරකරුවන්ට ජනාධිපතිවරණය ඇතුළු මැතිවරණයවලදී ඡන්දය ප්‍රකාශ කිරීමට පහසුකම් සලසන මාර්ගෝපදේශ මාලාවක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම සම්බන්ධයෙන් අධිකරණය හමුවේ කරුණු දක්වන ලෙස දැනුම් දෙමින් මැතිවරණ කොමිසම, අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ ඇතුළු පිරිසක් වෙත නොතීසි යවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (26) නියෝග කළේය.
+The Supreme Court has directed the Election Commission to serve notices related to a petition filed by a prisoner regarding voting rights in presidential elections. The petitioner argues that, constitutionally, presumed innocent individuals should have all basic rights, including voting, and that prisoners should be treated equally under the UN Human Rights Charter. Despite being remanded, the petitioner asserts there's no legal bar preventing them from voting. They request the Election Commission to issue guidelines ensuring such individuals' right to vote in future elections.
 
-රිමාන්ඩ් සිරකරුවන්ට ඡන්ද අයිතිය ලබා දෙන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු සිරකරුවකු වන සුදේශ නන්දිමාල් ද සිල්වා මහතා ගොනුකළ පෙත්සමක් කැඳවූ අවස්ථාවේදී ශ්‍රේෂ්ඨාධිකරණය විසින් පෙත්සම්කාර පාර්ශවයේ නීතිඥවරයා වෙත මෙම නියෝගය නිකුත් කළේය.
+🟩
 
-ඒ අනුව අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස නම් කරසිටින මැතිවරණ කොමිසමේ සභාපතිවරයා ඇතුළු සාමාජිකයින්, අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ, බන්ධනාගාර කොමසාරිස් ජෙනරාල් ඇතුළු පිරිසක් වෙත අගෝස්තු මස 08 වනදා මේ සම්බන්ධයෙන් කරුණු දක්වන ලෙස දන්වා නොතීසි යැවීමට පියවර ගන්නා ලෙසත් නියෝග කෙරුණි.
+The Supreme Court today (26) ordered the Election Commission to send notice to the petition to be issued in the court to be issued in the presidential election.
+
+The Supreme Court issued the order to the Attorney at the petitioner when a petition filed by a petition filed by a prisoner who had been sent to Remand Prisoners.
+
+The members of the Elections Commission, Wijayadasa Rajapakse and the Commissioner General of Justice, the Commissioner General of Justice and the Commissioner General of Employees and several others were also ordered to be sent to the post of the petition as respondents in the petition.
+
+The petitioner claims that according to the Constitution, a person will be concluded in the innocence and will be able to enjoy all the basic rights certified by the Constitution.
+
+According to the United Nations Human Rights Charter, the petition has stressed that every prisoner should be treated as a man and all the privileges of the ordinary person.
 
 ...
 
 [Data](articles/25e3a960.json)
 
+[Extended Data](ext_articles/25e3a960.ext.json)
+
 ---
 
-### ප්‍රංශ අධිවේගී දුම්රිය මාර්ග කිහිපයක් ගිනි තබයි
+### Sets set fire to French high-speed railways
 
 *2024-07-26 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199231) · `si`
 
-2024 ඔලිම්පික් උලෙළේ සමාරම්භක උත්සවය ආරම්භවීමට පැය කිහිපයක් තිබියදී ප්‍රංශයේ දුම්රිය මාර්ග කිහිපයක් ගිනිතබා ඇති බව වාර්තා වෙයි.
+Fires across France disrupted the 2024 Olympic Festival and high-speed rail services, affecting over 800,000 passengers from Paris to the west, north, and east.
 
-පැරිසියේ සිට බටහිරට, උතුරට සහ නැගෙනහිරට දිවෙන TGV අධිවේගී දුම්රිය මාර්ගවල එම ගිනි තැබීම් වාර්තා වෙයි.
+🟩
 
-මේ හේතුවෙන් දුම්රිය ගමනාගමන කටයුතු සඳහා විශාල බලපෑමක් එල්ලවී ඇති අතර දුම්රිය මගීන් 800,000ක් පමණ ඉන් අපහසුවට පත්ව ඇත.
+The 2024 Olympic Festival was reported to have a few hours in France.
+
+The fire has been reported from Paris to the West, north and east.
+
+As a result, train services have been affected and about 800,000 train passengers have been difficult.
 
 ◼️
 
 [Data](articles/42fe80e8.json)
+
+[Extended Data](ext_articles/42fe80e8.ext.json)
 
 ---
 
@@ -81,6 +139,8 @@ Transport Minister Patrice Vergriete said in a post on X that he “firmly conde
 ...
 
 [Data](articles/3e8254c8.json)
+
+[Extended Data](ext_articles/3e8254c8.ext.json)
 
 ---
 
@@ -444,19 +504,25 @@ The deceased has been identified as a 26 year old resident of the Dem Wwarawela 
 
 ---
 
-### ජනාධිපතිවරණයට ඇප මුදල් භාර ගැනීම අගෝස්තු 14 දා දක්වා
+### Receiving the Presidential Election to August 14
 
 *2024-07-26 11:56:00* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-ඇප-මුදල්-භාර-ගැනීම-අගෝස්තු-14-දා-දක්වා/11-411015) · `si`
 
-අති විශේෂ ගැසට් නිවේදනය මගින් අද දින  ප්‍රකාශයට පත් කරන ලද සැප්තැම්බර් 21 දින පැවැත්වෙන  ජනාධිපතිවරණයේ නාමයෝජනා බාර ගැනීමේ දිනය වූ අගෝස්තු 15 දිනයට පෙර දිනයේ දහවල් 12.00 ට පෙර අපේක්ෂකයන් විසින් ඇප මුදල් තැන්පත් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+The Elections Commission set the deadline for presidential candidate nominations for August 17, allowing submissions until 5 PM on August 21. The commission also announced that the deposit period for candidates' nomination fees will take place from 8:30 AM to 12:00 PM on August 14 at its office. This information was shared through a special gazette notification, marking it as one of the key announcements regarding the upcoming elections.
 
-ඒ අනුව ජනාධිපතිවරණය සඳහා  පිළිගත් දේශපාලන පක්ෂයක්  විසින් යෝජනා කරන අපේක්ෂකයෙකු වෙනුවෙන් රුපියල් 50000 ක් ද වෙනත් දේශපාලන පක්ෂයක් හෝ චන්ද හිමියෙකු විසින් යෝජනා කරන අපේක්ෂකයෙකු වෙනුවෙන් රුපියල් 75000 ක් ද වශයෙන් ඇප මුදල් තැන්පත් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+🟩
 
-මෙම ඇප මුදල් තැන්පත් කිරීම අද (26 ) සිට  අගෝස්තු 14 දා දහවල් 12.00 ට පෙර කාලය තුළ සතියේ කාර්යාල  දිනවල පෙරවරු 08.30 සිට     පස්වරු 04.15 දක්වාද 14 දා පමණක් පෙරවරු 08.30 සිට දහවල් 12.00 දක්වාද රාජගිරිය මැතිවරණ කොමිෂන් සභා කාර්යාලයේ දී සිදුකළ යුතු බව මේ සම්බන්ධයෙන් අද දින මැතිවරණ කොමිෂන් සභාව මගින් මේ මැතිවරණය සම්බන්ධයෙන්   නිකුත් කළ දෙවන  අති විශේෂ ගැසට් නිවේදනය මගින් ප්‍රකාශයට පත්කර ඇත.
+The Elections Commission announced that the date of accepting the nomination of the Presidential Election to the 21st afternoon before the 17th of August, which was held on the 21st afternoon before the JVP was held on the 21st afternoon.
+
+The Elections Commission states that Rs.
+
+Deposal of this bail will be held from 08.30 am from 08.30 am to 12:00 pm on the 14th to 12 noon at 12 noon at the Elections Commission office.The Elections Commission has been announced by the second most special gazette notification issued in this election.
 
 ◼️
 
 [Data](articles/0783ab60.json)
+
+[Extended Data](ext_articles/0783ab60.ext.json)
 
 ---
 
@@ -2087,51 +2153,5 @@ Meanwhile, the agreement with the IMF, the country does not have to act on their
 [Data](articles/cb6484ef.json)
 
 [Extended Data](ext_articles/cb6484ef.ext.json)
-
----
-
-### VFS Visa Affairs: Sumanthiran, Rauf, Sampika High Court
-
-*2024-07-26 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189391) · `ta`
-
-MPs Sumanthiran, Rauf Hakeem, and Ranawaka have filed a lawsuit against VFS Global for alleged visa distribution issues, naming several officials and ministers. They argue the process violates national security, tourism safety, and IMF principles, seeking a return to the previous electronic travel system. The controversy surrounds a contract giving VFS Global control over tourist visas, impacting Sri Lanka's economy and tourism.
-
-🟩
-
-While the VFS Global Visa Distribution issue has recently been a serious controversial speech, MPs MA Sumanthiran, Rauf Hakeem and Patali Champika Ranawaka have filed 3 fundamental rights violations in the Supreme Court.
-
-In the petition filed, 31 people have been named defendants, including Cabinet Ministers, including Public Security Minister Tran Alles, and the Department of Immigration and Emigration.
-
-According to the Visa Exposure Agreement, the responsibility of distributing visa to tourists visiting Sri Lanka has been explained to the VFS Global Company.
-
-In particular, the petition includes the violation of the purchasing process, the impact of the national security and the security of the tourism, the impact of the tourism sector, the contrary to the principles of the IMF, and the contacts of the Plexstone and Queeni trove.
-
-...
-
-[Data](articles/da1442ae.json)
-
-[Extended Data](ext_articles/da1442ae.ext.json)
-
----
-
-### Let us put all those who have degraded the country before the law
-
-*2024-07-26 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189390) · `ta`
-
-Opposition Leader Sajith Premadasa criticizes previous governments for failing to address national issues, emphasizing the need for accountability and economic recovery. He promises to tackle corruption, amend laws, and negotiate with the IMF for the nation's benefit, highlighting the United People's Power Coalition as the solution to rebuild the country's economy.
-
-🟩
-
-We will bring all those who have degraded the country in our government and take steps to bring all the money stolen to the country. Opposition Leader Sajith Premadasa said that we did not come forward to take responsibility for the country because they could not build the country with those who have come to the country.
-
-He was speaking at a debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25).
-
-Those who have never bought the country's economy as much as they have never been in history, are currently teaching us Dharma. Before teaching us, they must act according to the quality. They are taking steps to accept the economic challenge and build the country. But who has made this challenge status. Due to the erroneous and stupid resolutions of the Gotabhaya Rajapakse -led government, the country went to the bank.
-
-...
-
-[Data](articles/68e441a8.json)
-
-[Extended Data](ext_articles/68e441a8.ext.json)
 
 ---

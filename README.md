@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 08:36:33**
+As of **2024-07-26 08:54:48**
 
 ## Newspaper Stats
 
-*Scraped **37,324** Articles*
+*Scraped **37,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,59 @@ dbsjeyarajcom | 327
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,129
+islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,393
-adaderanalk | 4,314
+adaderanalk | 4,315
 tamilmirrorlk | 4,600
 dailymirrorlk | 4,733
 virakesarilk | 5,862
-adaderanasinhalalk | 6,260
+adaderanasinhalalk | 6,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,324 (100.0%) of 37,324 articles have been extended.
+37,324 (100.0%) of 37,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### President Ranil decides not to get involved in IGP issue?
+
+*2024-07-26 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100778/president-ranil-decides-not-to-get-involved-in-igp-issue) · `en`
+
+Given the upcoming Presidential Election, President Ranil Wickremesinghe has been advised by his legal team that appointing an Acting Inspector General of Police (IGP) every two weeks could lead to election petitions against him.
+
+Consequently, the President has informed the Speaker of Parliament that he will refrain from getting involved in this matter, sources told Ada Derana.
+
+Meanwhile, Prime Minister Dinesh Gunawardena is scheduled to officially inform Parliament of the government’s official position on the Supreme Court decision regarding the post of the IGP, in a special statement today (26).
+
+The Cabinet of Ministers, which convened an urgent meeting on Wednesday (24), had decided to announce its response to the decision of the Supreme Court regarding the IGP within two days after studying in depth the legal aspects of the matter.
+
+The Supreme Court on Wednesday issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
+
+...
+
+[Data](articles/3b08256b.json)
+
+---
+
+### ජනපතිවරණයේ ඇප මුදල් තැන්පත් කිරීම ගැන දැනුම්දීමක්
+
+*2024-07-26 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199219) · `si`
+
+ජනාධිපතිවරණය ප්‍රකාශයට පත් කළ අද (26) දිනයේ පෙරවරු 8.30 සිට නාමයෝජනා කැඳවීමේ දිනය වන 2024 අගෝස්තු මස 15 වන දිනට පෙර දිනය වන අගෝස්තු මස 14 වනදා මධ්‍යහ්න 12 දක්වා ජනාධිපතිවරණ අපේක්ෂකයින් සඳහා ඇප මුදල් තැන්පත් කළ හැකි බව මැතිවරණ කොමිෂන් සභාව පවසනවා.
+
+ඒ අනුව අපේක්ෂකයා පිළිගත් දේශපාලන පක්ෂයක් විසින් නාමයෝජනා කරනු ලබන අපේක්ෂකයෙකු වන අවස්ථාවක රුපියල් 50,000ක මුදලක් ද, අපේක්ෂකයා වෙනත් යම් දේශපාලන පක්ෂයක් විසින් හෝ ඡන්ද හිමියෙකු විසින් නාමයෝජනා කරන ලද අපේක්ෂකයෙකු වන අවස්ථාවක රුපියල් 75,000ක මුදලක් ද, ඇප මුදල් ලෙස තැන්පත් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/14e1a8e2.json)
+
+---
 
 ### President tells the President's stance about IGP crisis
 
@@ -186,6 +220,46 @@ From time to time in the rest of the island.. Strong winds are between 30 and 40
 
 ---
 
+### Janashakthi Life celebrates top performers with exclusive yacht tour
+
+*2024-07-26 06:11:00* · [`islandlk`](http://island.lk/janashakthi-life-celebrates-top-performers-with-exclusive-yacht-tour/) · `en`
+
+Janashakthi Life recognized and celebrated the achievements of its top performers by hosting an exclusive Yacht Tour featuring a scenic sunset cruise. Over 75 high-achieving agents were selected for this special event. The tour also provided an opportunity for Janashakthi Life’s senior management team to connect with their top performers on a personal level.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/177df166.json)
+
+---
+
+### DFCC Bank launches online digital onboarding facility
+
+*2024-07-26 06:11:00* · [`islandlk`](http://island.lk/dfcc-bank-launches-online-digital-onboarding-facility/) · `en`
+
+A pioneer in digital banking and service delivery, DFCC Bank has rolled out its much-awaited network wide 100%-online digital customer onboarding platform. This marks an important milestone on the bank’s digital journey, empowering new customers to open accounts and other facilities online with no reliance on manual or paper-based processes. Accordingly, customers can now enjoy unparalleled ease and convenience, signing up for DFCC Bank’s services from anywhere at any time. There is no longer any need to travel to the bank, stand in queues, fill out paper forms, or wait for accounts to be activated. DFCC Bank now ensures that the entire process is digitised for a friendly, seamless, and virtually instant experience. Customers will also have access to live agent support and assistance during onboarding.
+
+...
+
+[Data](articles/36a31545.json)
+
+---
+
+### Sri Lanka Retailers’ Association hosts 7th Annual General Meeting
+
+*2024-07-26 06:11:00* · [`islandlk`](http://island.lk/sri-lanka-retailers-association-hosts-7th-annual-general-meeting/) · `en`
+
+The Sri Lanka Retailer’s Association (SLRA) held its 7th Annual General Meeting at Hilton Residencies on the 19th of July 2024. Outgoing President Charitha Subasinghe, opened proceedings with his address, during which he stated, “Jan 2023 to Jan 2024 the price increases of products were about 60% higher. This has led to the contraction of the demand by about 27%. If that was the contraction for food the contraction in our other subcategories of non-food retailing would be even more significant.
+
+...
+
+[Data](articles/c876b721.json)
+
+---
+
 ### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka Physical & Digital Connectivity Dialogue
 
 *2024-07-26 05:46:00* · [`islandlk`](http://island.lk/pathfinder-foundation-and-ananta-aspen-centre-lead-india-sri-lanka-physical-digital-connectivity-dialogue/) · `en`
@@ -222,9 +296,27 @@ Accordingly, the market was a bit inactive and both indices moved downwards. The
 
 ---
 
+### Cable Solutions IPO oversubscribed on opening day
+
+*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/cable-solutions-ipo-oversubscribed-on-opening-day/) · `en`
+
+The Initial Public Offering (IPO) of Cable Solutions Limited, through an offer for subscription of 14,666,600 ordinary voting shares at a price of Rs. 7.50 per share and an offer for sale of 66,120,000 ordinary voting shares at the same price, opened 23rd July 2024 and was oversubscribed on the initial day itself.
+
+The IPO by Cable Solutions Limited received applications exceeding the IPO value, demonstrating strong investor interest. This significant IPO closed at 4.30 pm 23rd July 2024.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/5cda86ce.json)
+
+---
+
 ### Kingslake elevated to Infor’s Gold Partnership status
 
-*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/kingslake-elevated-to-infors-gold-partnership-status/) · `en`
+*2024-07-26 05:42:00* · [`islandlk`](http://island.lk/kingslake-elevated-to-infors-gold-partnership-status/) · `en`
 
 Kingslake, a leading provider of enterprise software solutions, has achieved Gold Partnership status with Infor, a global leader in business cloud software products for industry-specific markets. Achieving this milestone reflects a proven track record of successful implementations and satisfied clients, demonstrating Kingslake’s commitment to maintaining high standards of service delivery. This accomplishment significantly enhances Kingslake’s capacity to implement and service cutting-edge Infor solutions, including Infor WMS and Infor SyteLine ERP, to its customers.
 
@@ -2115,143 +2207,5 @@ SLC announces that no village will not play play for the tournament in the squad
 [Data](articles/e4eb8713.json)
 
 [Extended Data](ext_articles/e4eb8713.ext.json)
-
----
-
-### Kurundurmalai affair case is repeatedly installment
-
-*2024-07-25 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189359) · `ta`
-
-The Kurundurmalai case, initially heard on 25th March 2022, involves former Northern Provincial Council members and social activists protesting against court rulings, vegetarian worship restrictions, and land grabbing near Kurundur Mountain. The trial resumed on 16th January 2025 after public demonstrations in September 2022. Participants have also criticized the Mullaitivu police for arresting protesters.
-
-🟩
-
-A case relating to the Kurundurmalai was held on Thursday (25) at the Mullaitivu District Court.
-
-The case of B1053 /2022 has been followed by a series of installments.. Former Northern Provincial Council Member Durairasa Ravikaran and Social activist Ratinarasa Mayuran and former Member of Karaituraipattu Pradeshiya Sabha Chinnarasa Lokeswaran were present.
-
-In this case, the trial debates were held. Subsequently, the case has been reached after a long interval of the case on the 16th of January 2025.
-
-A massive demonstration has been staged by the people of Kumuzhunai area, 2022.09.21, to prevent court rulings, no obstacles to vegetarian worship, and to prevent land grabbing in the nearby areas of Kurundur Mountain.
-
-...
-
-[Data](articles/1baadb38.json)
-
-[Extended Data](ext_articles/1baadb38.ext.json)
-
----
-
-### Kilinochchi District Relationships Struggle
-
-*2024-07-25 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189356) · `ta`
-
-In Kilinochchi District, missing persons' families protested at the Kandaswamy Temple, demanding an international inquiry without compensation, focusing on the recovery of children among the missing.
-
-🟩
-
-Relationships of the Kilinochchi District Missing Persons staged a protest on Thursday (25).
-
-The struggle took place today at 10 am at the Kandaswamy Temple in Kilinochchi.
-
-The need for an international investigation, no compensation, and the children, such as their children, have launched a protest campaign carrying banners.
-
-◼️
-
-[Data](articles/2a6a7a26.json)
-
-[Extended Data](ext_articles/2a6a7a26.ext.json)
-
----
-
-### Notice to drivers on Hatton - Colombo main road
-
-*2024-07-25 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199200) · `si`
-
-Traffic will be limited due to the Annual Esala Perahera at Kabellamulla Rajamaha Vihara.
-
-🟩
-
-Due to the Annual Esala Perahera of the Kabellamulla Rajamaha Pattalary Devalaya, the police are notable to limit traffic traffic.
-
-◼️
-
-[Data](articles/8959f5ec.json)
-
-[Extended Data](ext_articles/8959f5ec.ext.json)
-
----
-
-### Sri Lanka RAMIS should use NIC, find suitable IT partner: Committee
-
-*2024-07-25 15:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-ramis-should-use-nic-find-suitable-it-partner-committee-173753/) · `en`
-
-ECONOMYNEXT – A report on Sri Lanka’s Revenue Administration Management Information System (RAMIS), by a ministerial sub-committee, has made seven key recommendations, including using the national identity card (NIC) for identifying individuals for tax collection purposes.
-
-“Use the National Identity Card (or a future alternative introduced for this purpose) exclusively for identifying individuals for tax collection purposes,” the report on the ‘Effective RAMIS System Utilization’ recommended.
-
-The recommendations included a suggestion to “simplify the tax revenue collection process by developing a user-friendly portal with enhanced user experience (UX) improvements and streamlined online communication.”
-
-The sub-committee, chaired by Minister of Power and Energy Kanchana Wijesekera, presented the report to President Ranil Wickremesinghe at the President’s Office recently.
-
-...
-
-[Data](articles/071a55f6.json)
-
-[Extended Data](ext_articles/071a55f6.ext.json)
-
----
-
-### Youth arrested for allegedly as a police officer
-
-*2024-07-25 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189334) · `ta`
-
-A youth from Jaffna's Ilavalai area was arrested for allegedly accepting Rs 3 lakh to pose as a police officer. The suspect was identified by a complainant, also known to be part of the Police Intelligence Unit, leading to an investigation. The accused was detained at the Jaffna Police Station for further questioning.
-
-🟩
-
-A youth has been arrested on charges of receiving a Rs 3 lakhs of rupees to identify himself as a police officer from Jaffna.
-
-A youth from Jaffna Ilavalai area has been intimidated by a person who has been identified as an officer of the Police Intelligence Unit and has taken a money of Rs.
-
-As the person who paid the money was lodged at the Jaffna Police Station, the police were conducting investigations according to the complaint.
-
-Police have arrested a youth from Ilavalai on Wednesday (24).
-
-Police are conducting investigations by detaining the arrested person at the police station.
-
-◼️
-
-[Data](articles/247d6988.json)
-
-[Extended Data](ext_articles/247d6988.ext.json)
-
----
-
-### Drought in Batticaloa district: Dry ponds, lakes and ponds
-
-*2024-07-25 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189330) · `ta`
-
-Batticaloa faces severe drought, causing ponds, lakes, and rivers to dry up. This affects fishing and farming, leading to economic hardship and health issues among locals. The extreme heat keeps people indoors, exacerbating the situation.
-
-🟩
-
-Ponds, lakes and ponds have been drying up due to severe drought in the Batticaloa district over the past few weeks.. Fishermen and farmers are facing great difficulties.
-
-In most parts of the Batticaloa district, there is a great deal of dry weather conditions in the Batticaloa district.
-
-Due to the drought in their fields, the farmers are suffering from a great deal of agricultural activities.
-
-The district has a more dry weather this time. As a result of this, children and the elderly are facing various inconveniences. It is reported that various diseases have to face.
-
-Due to the excessive heat, people are not coming out.
-
-Fishermen and farmers have been facing various distress as farmers and fishermen have commented on the troubles of the lakes due to the drying of the ponds.
-
-◼️
-
-[Data](articles/04e6f4ee.json)
-
-[Extended Data](ext_articles/04e6f4ee.ext.json)
 
 ---

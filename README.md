@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 08:25:00**
+As of **2024-07-26 08:36:33**
 
 ## Newspaper Stats
 
@@ -26,39 +26,55 @@ adaderanasinhalalk | 6,260
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,321 (100.0%) of 37,324 articles have been extended.
+37,324 (100.0%) of 37,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### පොලිස්පති අර්බුදය ගැන ජනපතිගේ ස්ථාවරය කියයි
+### President tells the President's stance about IGP crisis
 
 *2024-07-26 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199218) · `si`
 
-ඉදිරි ජනාධිපතිවරණ සමය තුළදී සති දෙකකට වරක් වැඩබලන පොලිස්පතිවරයෙකු පත්කිරීමට සිදු වුවහොත් එම කරුණ මත පදනම්ව තමාට මැතිවරණ පෙත්සම් ඉදිරිපත් විය හැකි බවට ජනපති රනිල් වික්‍රමසිංහ මහතා වෙත නීති උපදෙස් ලැබී ඇත.
+President Ranil Wickremesinghe, after receiving legal advice, plans to submit electoral petitions regarding the IGP crisis within two weeks before the next presidential election. He has informed the Speaker that he will not intervene in the matter.
 
-ඒ අනුව තමා මෙම කටයුතුවලට මැදිහත්වීමෙන් වැළකී සිටින බව ජනාධිපතිවරයා විසින් මීට සුළු මොහොතකට පෙර කථානායකවරයා වෙත දැනුම් දී තිබේ.
+🟩
+
+President Ranil Wickremesinghe has received legal advice that he can offer electoral petitions based on the matter within two weeks during the next presidential election.
+
+Accordingly, the President has informed the Speaker a few moments ago that he refrained from the matter.
 
 ◼️
 
 [Data](articles/dae03d1d.json)
 
+[Extended Data](ext_articles/dae03d1d.ext.json)
+
 ---
 
-### இன்று ஆரம்பிக்கிறது பரிஸ் 2024
+### Starts Today Paris 2024
 
 *2024-07-26 08:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இன்று-ஆரம்பிக்கிறது-பரிஸ்-2024/44-341060) · `ta`
 
-பிரெஞ்சுத் தலைநகர் பரிஸில் இன்றிரவு 11 மணிக்கு 33ஆவது கோடை கால ஒலிம்பிக் போட்டிகள் ஆரம்பிக்கின்றன.
+The 33rd Summer Olympic Games kick off in Paris tonight, featuring 10,714 athletes across 32 sports. Highlights include the inaugural boat parade along the Seine River, Sri Lanka's 19th appearance led by Tarushi Karunaratne in the 800-meter race, and strong contenders in the men's 100-meter dash, including Jamaica's Kishane Tomson and Sweden's Armand Duplantis aiming for gold. Other notable events include Kenya's Faith Kipyegon in the women's 1500m and 5000m races, and a rematch between Italy's Gianmarco Tamberi and Qatar's Mutaz Essa Barsham in high jump.
 
-கால்பந்தாட்டம், றக்பி உள்ளிட்ட போட்டிகள் புதன்கிழமையே (24) ஆரம்பித்துள்ளபோதும் 206 தேசங்களின் பங்குபற்றுதலில் 32 வகையான விளையாட்டுக்களிலிருந்து 329 வகைப் போட்டிகளில் 10,714 வீரர்களின் பங்குபற்றுதலுடன் ஆரம்பிக்கின்ற இப்போட்டிகள் அடுத்த மாதம் 11ஆம் திகதி வரை நடைபெறவுள்ளன.
+🟩
 
-முதன்முறையாக அரங்கத்துக்கு வெளியே ஆரம்ப நிகழ்வு இடம்பெறவுள்ளதுடன், ஆறு கிலோ மீற்றர் நீளமான சென் ஆற்றில் படகுகளில் வீரர்கள் அழைத்துச் செல்லப்படவுள்ளனர்.
+The 33rd Summer Olympic Games begin at 11 pm tonight at the French capital of Paris.
+
+The tournament, including football and rugby, will be held on Wednesday (24) and will be held till the 11th of next month with the participation of 10,714 players from 32 types of games in 32 types of games.
+
+For the first time, the opening event will take place outside the stadium and the soldiers will be taken in boats in the six kilometers long Sen River.
+
+Sri Lanka is represented at the Olympics for the 19th time. Tarushi Karunaratne in the 800 -meter race in the Sri Lankan group, which is headed by a spear -bye, Dilhani Legamke Have been featured.
+
+The Olympic focus is that the United States of America is focused on being a 100 -meter run for men. It is thought that Jamaica's Kishane Tomson will be a rival.
 
 ...
 
 [Data](articles/b5742ccf.json)
+
+[Extended Data](ext_articles/b5742ccf.ext.json)
 
 ---
 
@@ -398,19 +414,25 @@ CH17 Loyalty CEO Jumar Preena said: “By joining forces, we will nearly double 
 
 ---
 
-### ‘உறுமய அரசியல் வேலைத்திட்டம் அல்ல’
+### Not a political program
 
 *2024-07-26 02:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-அரசியல்-வேலைத்திட்டம்-அல்ல/175-341056) · `ta`
 
-முழு உரிமையுள்ள காணி உறுதிப் பத்திரம் வழங்கும் ‘உறுமய’ வேலைத் திட்டம் அரசியல் வேலைத்திட்டம் அல்ல. எனவே தேர்தல் காலங்களிலும் இத்திட்டம் தொடர்ந்தும் செயற்படும் என்று சுற்றுலாத்துறை மற்றும் காணி அமைச்சின் செயலாளர் சோமரத்ன விதான பத்திரன தெரிவித்தார்.
+The Secretary of the Ministry of Tourism and Lands assures that the issuance of Urumaya Land Certificates, aimed at benefiting 200,000 individuals over two years, remains unaffected by elections. Over 100,000 applications have been received so far, emphasizing its non-political nature and commitment to service continuity despite electoral periods.
 
-‘இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்’ என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டபோத சுற்றுலாத்துறை மற்றும் காணி அமைச்சின் செயலாளர் சோமரத்ன விதான பத்திரன இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இந்த இரண்டு வருட காலப்பகுதியில் இலங்கை மக்களுக்கான மிக முக்கியமான வேலைத்திட்டமான ‘உறுமய’ காணி உறுதிப்பத்திரங்களை வழங்கும் நிகழ்ச்சித்திட்டம் எமது அமைச்சின் கீழ் முன்னெடுக்கப்பட்டு வருகின்றது. இத்திட்டத்தின் மூலம் இரண்டு ஆண்டுகளில் 20 லட்சம் காணி உறுதிப்பத்திரங்களை வழங்க எதிர்பார்த்துள்ளோம். இதுவரை 100,000 இற்கும் மேற்பட்ட விண்ணப்பங்கள் கிடைத்துள்ளன.
+A full -fledged land certificate is not a political program. The project will continue in the election period, said the Secretary to the Ministry of Tourism and Lands.
+
+Secretary of the Ministry of Tourism and Lands, Somaratne Vidhana Pathirana said this while attending a press conference held at the Presidential Media Center yesterday under the theme of two years of progress and future.. As he further stated,
+
+During this two years, the most important program for the Sri Lankan people, the Urumaya Land Certificate, is being carried out under our Ministry.. We are looking forward to providing 20 lakhs of land certificates in two years through this scheme. So far, more than 100,000 applications have been received.
 
 ...
 
 [Data](articles/b77391bd.json)
+
+[Extended Data](ext_articles/b77391bd.ext.json)
 
 ---
 

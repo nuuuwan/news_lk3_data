@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 17:56:48**
+As of **2024-07-26 18:14:43**
 
 ## Newspaper Stats
 
-*Scraped **37,428** Articles*
+*Scraped **37,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,409
-adaderanalk | 4,335
+adaderanalk | 4,336
 tamilmirrorlk | 4,614
 dailymirrorlk | 4,733
 virakesarilk | 5,881
@@ -26,31 +26,51 @@ adaderanasinhalalk | 6,282
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,426 (100.0%) of 37,428 articles have been extended.
+37,428 (100.0%) of 37,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### ආගමන හා විගමන දෙපාර්තමේන්තුවෙන් විශේෂ නිවේදනයක්
+### ITAK decides not to nominate Presidential Candidate
+
+*2024-07-26 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100799/itak-decides-not-to-nominate-presidential-candidate) · `en`
+
+Tamil National Alliance (TNA) MP M.A. Sumanthiran says that the Ilankai Thamil Arasu Katchchi (ITAK) will not nominate a candidate for the upcoming Presidential Election.
+
+However, the party will hold discussions with the main candidates, he said.
+
+◼️
+
+[Data](articles/ae3031bf.json)
+
+---
+
+### A special announcement from the Department of Immigration and Emigration
 
 *2024-07-26 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199241) · `si`
 
-පූර්ව ලියාපදිංචිය සහිත ගමන් බලපත්‍ර අයදුම්කරුවන් පමණක් ආගමන හා විගමන දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලයට හා ප්‍රාදේශීය කාර්යාල වෙත පැමිණෙන ලෙස ආගමන විගමන දෙපාර්තමේන්තුව දැනුම්දෙයි.
+The Department of Immigration and Emigration announces a new passport application process starting July 16. Applicants must pre-register via https://www.imimigration.gov.lk/. Post-registration, passports will be issued based on a priority system. This initiative aims to provide efficient and safe services to Sri Lankans since January 1, 2013.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ, පූර්ව ලියාපදිංචියකින් තොරව ආගමන හා විගමන දෙපාර්තමේන්තුව වෙත පැමිණීමෙන් වළකින ලෙසය.
+🟩
 
-ලියාපදිංචි වීමෙන් අනතුරුව ගමන් බලපත් ලබාගැනීමේ අවස්ථාව හිමිවන්නේ ප්‍රමුඛතා ක්‍රමවේදයකට අනුකූලව බව ද එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Immigration and Emigration, the Department of Immigration and Emigration will inform the Immigration and Emigration, Head Office of the Immigration and Emigration.
 
-2025.01.01 වන දින සිට රජය විසින් ශ්‍රී ලාංකිකයින් හට කාර්යක්ෂම හා ආරක්ෂාකාරී නව E ගමන් බලපත් ලබාදීම ආරම්භ කිරීමට නියමිතය.
+The department refers to an announcement, the department was imposed by visiting the Immigration and Emigration Department without pre-registration.
 
-ඒ අනුව ගමන් බලපත් අයදුම්කරුවන්ගේ පහසුව සඳහා ගමන් බලපත් අයදුම්කිරීමේ ක්‍රමවේදය පහත දැක්වෙන පරිදි නව ක්‍රමවේදයක් ලෙස ක්‍රියාත්මක වේ.
+The Department announces that after registration, the passports are available in accordance with a priority system.
 
-ජූලි 16 වන දින සිට ගමන් බලපත් අයදුම් කිරීම සඳහා https://www.immigration.gov.lk/ සබැඳිය ඔස්සේ පූර්ව ලියාපදිංචියක් සිදුකළ හැකිය.
+Since 01.01.2013, the government will commence efficient and safe new euters to Sri Lankans.
+
+Accordingly, passports applying for the convenience of candidates as a new system as follows.
+
+From July 16, you can pre-registration through links to https://www.imimigration.gov.lk/.
 
 ◼️
 
 [Data](articles/4d4a5044.json)
+
+[Extended Data](ext_articles/4d4a5044.ext.json)
 
 ---
 
@@ -188,17 +208,27 @@ Harris’s surprise bid against Republican rival Donald Trump continues to gain 
 
 ---
 
-### 2025දී දේශීය ඖෂධ නිශ්පාදනය සියයට 90ක් දක්වා ඉහළට
+### In 2025, local pharmaceutical production increased to 90 percent
 
 *2024-07-26 16:27:47* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-දේශීය-ඖෂධ-නිශ්පාදනය-සියයට-90ක්-දක්වා-ඉහළට/11-411020) · `si`
 
-1963 ඔක්තෝම්බර් මාසයේ දී ආරම්භ කරන ලද ශ්‍රී ලංකා ඖෂධ නිෂ්පාදකයින්ගේ සංගමය - Sri Lanka Pharmaceutical Manufacturers' Association) සිය 61 වන සංවත්සරය සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (25) කොළඹ සිනමන් ලේක් සයිඩ් හෝටලයේදී පවත්වනු ලැබීය.
+In 2025, local pharmaceutical production in Sri Lanka reached 90%, with the Sri Lanka Pharmaceutical Manufacturers' Association (SLPMA) producing over 200 drugs, supplying 20% of local pharmacies and 25% of essential medications to government facilities. The SLPMA, established in 1963, adheres to Western pharmaceutical standards. The Ministry of Health aims to support local manufacturers further, with Nalin Kannangara elected as the new chairman for two years.
 
-1963 ඔක්තෝම්බර් මාසයේදී ආරම්භ කරන ලද ශ්‍රී ලංකා ඖෂධ නිෂ්පාදකයින්ගේ සංගමය (SLPMA) මේ වනවිට බටහිර ඖෂධ නිෂ්පාදන කර්මාන්තයේ ඉහළම ප්‍රමිතින් පවත්වාගෙන යන 100% දේශීය පුද්ගලික ඖෂධ නිෂ්පාදකයින් 23 දෙනෙකුගෙන් සමන්විත වේ. ඔවුන් විවිධ ඖෂධ වර්ග 200 කට වඩා නිෂ්පාදනය කරන අතර, දේශීය ඖෂධ වෙළඳපලින් 20% ක ප්‍රමාණයක් හිමි කර ගෙන සිටී. රජයේ රෝහල්වල සහ සායනවල භාවිතා කරන අත්‍යාවශ්‍ය ඖෂධවලින් ආසන්න වශයෙන් 25% ක් සපයනු ලබන්නේ එම දේශීය නිෂ්පාදකයින් විසිනි.
+🟩
+
+The Sri Lanka Pharmaceutical Manufacture of the Sri Lanka Pharmaceutical Manufacturers' Association (SLI)
+
+The Sri Lankan Pharmaceutical Manufacturers Association (SLPMA) has been established in October 1963 (SLPMA) operating the highest standards of the western pharmaceutical manufacturing industry 100% local standards. They produce more than 200 different drugs and receives 20% of local pharmacies. Approximately 25% of the essential medications of government hospitals and clinics are provided by the local manufacturers.
+
+Speaking at the Member of Health and Industry, Dr. Ramesh Pathirana said that the industrialism of Prof. Senaka Bibile for the development of the industry.He believes he is able.
+
+The Sri Lankan Pharmaceutical Manufacturers Association covers more than 200 medicines and is a major achievement and will be a major achievement and will be a great victory in the year.
 
 ...
 
 [Data](articles/ced84ffb.json)
+
+[Extended Data](ext_articles/ced84ffb.ext.json)
 
 ---
 
@@ -2223,17 +2253,5 @@ Thereafter the 32-year-old K. G. R. The woman died last night, while the woman w
 [Data](articles/ddc6a788.json)
 
 [Extended Data](ext_articles/ddc6a788.ext.json)
-
----
-
-### Monks driven from pillar to post with Mahanayakas pandering to politicians
-
-*2024-07-26 06:23:00* · [`islandlk`](http://island.lk/monks-driven-from-pillar-to-post-with-mahanayakas-pandering-to-politicians/) · `en`
-
-...
-
-[Data](articles/976eb35b.json)
-
-[Extended Data](ext_articles/976eb35b.ext.json)
 
 ---

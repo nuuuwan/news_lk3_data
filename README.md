@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 17:20:33**
+As of **2024-07-26 17:36:13**
 
 ## Newspaper Stats
 
-*Scraped **37,424** Articles*
+*Scraped **37,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,408
-adaderanalk | 4,334
+adaderanalk | 4,335
 tamilmirrorlk | 4,614
 dailymirrorlk | 4,733
 virakesarilk | 5,881
-adaderanasinhalalk | 6,280
+adaderanasinhalalk | 6,281
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,424 (100.0%) of 37,424 articles have been extended.
+37,424 (100.0%) of 37,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### සියලු මුදල් ගනුදෙනු සඳහා QR කේතයක් ?
+
+*2024-07-26 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199240) · `si`
+
+මෙරට ආර්ථිකය නිවැරදි මගකට යොමු කෙරෙන ආර්ථික පරිවර්තන පනත් කෙටුම්පත සම්මත කර ගැනීමට සහාය වූ පාර්ලිමේන්තුවේ සියලු දේශපාලන පක්ෂ වෙත සිය ස්තුතිය පළකරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+එම වැඩපිළිවෙළ අඛණ්ඩව ඉදිරියට ගෙන යාමට එක්වන ලෙස ද සියලු දේශපාලන පක්ෂ වෙත ආරාධනා කරන බව ජනාධිපතිවරයා පවසයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව පැවසුවේ රඹුක්කන පරාක්‍රම මහා විද්‍යාලයේදී අද (26) පැවති උත්සවයට එක්වෙමිනි.
+
+එමෙන්ම ජනාධිපතිවරයා පැවසුවේ අපනයන කේන්ද්‍රීය ඩිජිටල් සහ හරිත ආර්ථිකයක් රට තුළ ගොඩනැඟිමට අවශ්‍ය පරිපාලන සහ ආයතනික ව්‍යුහය ආර්ථික පරිවර්තන පනත් කෙටුම්පත තුළ අන්තර්ගත බවය.
+
+"අද මෙම පාසලට පැමිණෙන විට මම පාසල් ගිය කාලය මට සිහිපත් වුණා. එදා අපට තිබුණේ කළු ලෑල්ල සහ, හුණු කෑල්ල පමණයි. එදා මෙම පහසුකම් තිබුණේ නැහැ. මම පළමුවරට පරිගණකයක් දුටුවේ විශ්වවිද්‍යාල අධ්‍යාපනයත් නිම කිරීමෙන් පසුවයි. අද ඔබට නවීන උපකරණ සහිත සුහුරු පන්ති කාමර ලැබී තිබෙනවා. අද ලෝකය සෑම අංශයකින්ම සීග්‍රයෙන් වෙනස් වෙනවා. අපත් ඒ වෙනසට මුහුණ දීමට අවශ්‍ය දැනුම ලබාගත යුතුයි.
+
+...
+
+[Data](articles/26788cf5.json)
+
+---
+
+### Four candidates place deposits for 2024 Presidential Election
+
+*2024-07-26 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100798/four-candidates-place-deposits-for-2024-presidential-election) · `en`
+
+The Election Commission of Sri Lanka says that deposits have been placed for four candidates within today (26) to contest the 2024 Presidential Election.
+
+This includes two independent candidates and two other candidates from recognized political parties.
+
+The independent candidates are President Ranil Wickremesinge and former MP Sarath Keerthirathne while other two candidates are Oshala Herath from ‘Abhinawa Niwahal Peramuna’ and ASP Liyanage of the Sri Lanka Labour Party.
+
+◼️
+
+[Data](articles/3c1a4f7f.json)
+
+---
 
 ### Commission notification about candidates who were deposited
 
@@ -2199,33 +2235,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/177df166.json)
 
 [Extended Data](ext_articles/177df166.ext.json)
-
----
-
-### DFCC Bank launches online digital onboarding facility
-
-*2024-07-26 06:11:00* · [`islandlk`](http://island.lk/dfcc-bank-launches-online-digital-onboarding-facility/) · `en`
-
-A pioneer in digital banking and service delivery, DFCC Bank has rolled out its much-awaited network wide 100%-online digital customer onboarding platform. This marks an important milestone on the bank’s digital journey, empowering new customers to open accounts and other facilities online with no reliance on manual or paper-based processes. Accordingly, customers can now enjoy unparalleled ease and convenience, signing up for DFCC Bank’s services from anywhere at any time. There is no longer any need to travel to the bank, stand in queues, fill out paper forms, or wait for accounts to be activated. DFCC Bank now ensures that the entire process is digitised for a friendly, seamless, and virtually instant experience. Customers will also have access to live agent support and assistance during onboarding.
-
-...
-
-[Data](articles/36a31545.json)
-
-[Extended Data](ext_articles/36a31545.ext.json)
-
----
-
-### Sri Lanka Retailers’ Association hosts 7th Annual General Meeting
-
-*2024-07-26 06:11:00* · [`islandlk`](http://island.lk/sri-lanka-retailers-association-hosts-7th-annual-general-meeting/) · `en`
-
-The Sri Lanka Retailer’s Association (SLRA) held its 7th Annual General Meeting at Hilton Residencies on the 19th of July 2024. Outgoing President Charitha Subasinghe, opened proceedings with his address, during which he stated, “Jan 2023 to Jan 2024 the price increases of products were about 60% higher. This has led to the contraction of the demand by about 27%. If that was the contraction for food the contraction in our other subcategories of non-food retailing would be even more significant.
-
-...
-
-[Data](articles/c876b721.json)
-
-[Extended Data](ext_articles/c876b721.ext.json)
 
 ---

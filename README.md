@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 20:54:38**
+As of **2024-07-26 21:05:34**
 
 ## Newspaper Stats
 
-*Scraped **37,445** Articles*
+*Scraped **37,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,66 +19,86 @@ adalk | 3,409
 adaderanalk | 4,336
 tamilmirrorlk | 4,618
 dailymirrorlk | 4,733
-virakesarilk | 5,886
+virakesarilk | 5,888
 adaderanasinhalalk | 6,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,442 (100.0%) of 37,445 articles have been extended.
+37,445 (100.0%) of 37,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### බිනුර වෙනුවට රමේෂ් කැඳවයි
+### Ramesh calls instead of importance of Buddha
 
 *2024-07-26 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199248) · `si`
 
-ඉන්දියාව සමග පැවැත්වෙන විස්සයි විස්ස ජාත්‍යන්තර ක්‍රිකට් තරගාවලිය සඳහා සහභාගී වන ශ්‍රී ලංකා සංචිතය සඳහා  තුන් ඉරියව් ක්‍රීඩක රමේෂ් මෙන්ඩිස් ව ද නම්කර තිබේ.
+Ramesh Mendis is selected for Sri Lanka's squad against India in the T20 International Cricket Tournament. Binura Fernando, known as Buddha, faced suspicion due to an incident involving a bamboo, casting doubt over his future match participation.
 
-ඒ එම.සංචිතය ට නම්කර සිටි බිනුර ප්‍රනාන්දු අසනීප වීම හේතුවෙනි.
+🟩
 
-ක්‍රිකට් ආරංචි මාර්ග පැවසුවේ වේගපන්දු යවන ක්‍රීඩක බිනුර ප්‍රනාන්දුට උණ වැළඳී ඇති බවත් ඉදිරි තරග සඳහා ඔහුගේ සහභාගීත්වය සැක සහිත බවත් ය.
+Ramesh Mendis has been named for the Sri Lanka squad that participate in the Twenty20 International Cricket Tournament with India.
+
+Binura Fernando was illustrated by the incident.
+
+According to Cricket sources, fast bowled Buddy Buddha Fernando had a bamboo and that his participation was suspicious for the next matches.
 
 ◼️
 
 [Data](articles/05e729b4.json)
 
+[Extended Data](ext_articles/05e729b4.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ලකුණු 141 ඉලක්කයක්
+### Sri Lanka 141 points
 
 *2024-07-26 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199247) · `si`
 
-කාන්තා ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ දෙවැනි අවසන් පූර්ව තරගය ශ්‍රී ලංකාව සහ පාකිස්තානය අතර අද (26) පැවැත්වෙයි.
+In the women's Asia Cup semi-final, Sri Lanka chose to field first after winning the toss. Despite Pakistan scoring 140/4 in 20 overs, Sri Lanka secured victory with 141 runs.
 
-එහි කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව පාකිස්තානයට ලබා දීමටය.
+🟩
 
-ඒ අනුව පාකිස්තානය නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 4ක් දැවී ලකුණු 140ක් රැස් කළේය.
+The second semi-final in the women's Asia Cup will be held today (26).
 
-තරගය ජයගැනීමට සඳහා ශ්‍රී ලංකා කණ්ඩායමට හිමිවූ ඉලක්කය ලකුණු 141කි.
+Sri Lanka were able to gain advantage of the coin, and they decided to give Pakistan first to bat first.
+
+Accordingly, Pakistan scored 140 runs for the loss of 4 wickets in their allotted 20 overs.
+
+The Sri Lanka team won 141 runs.
 
 ◼️
 
 [Data](articles/03689657.json)
 
+[Extended Data](ext_articles/03689657.ext.json)
+
 ---
 
-### අගමැතිගේ ප්‍රකාශයට නීතිඥ සාමූහිකයේ විරෝධය
+### Attorney General protests against Prime Minister's statement
 
 *2024-07-26 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199246) · `si`
 
-වැඩබලන පොලිස්පතිවරයෙකු පත්කිරීම සම්බන්ධයෙන් අගමැතිවරයා අද (26) පාර්ලිමේන්තුවේ දී සිදුකළ ප්‍රකාශයේ කිසිදු වලංගුතාවයක් නොමැති බව නීතීඥ සාමූහිකයේ ජනාධිපති නීතීඥ සාලිය පීරිස් මහතා පවසයි.
+The Attorney General disputes the Prime Minister's claims about the legality of appointing an acting Inspector General of Police (IGP), arguing that the Supreme Court has the authority to review decisions of the Constitutional Council and the President regarding temporary appointments. The Prime Minister counters, stating that the IGP cannot be removed without due process and that the Supreme Court lacks jurisdiction over the Legislative Council.
 
-ඔහු පවසන්නේ ව්‍යවස්ථාදායක සභාව අධිකරණයේ අභියෝගයට ලක්කළ නොහැකි බවට වන ප්‍රකාශය පදනම් විරහිත බවය.
+🟩
 
-අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වැඩබලන පොලිස්පතිවරයෙකු පත්කිරීම පිළිබඳ අද පාර්ලිමේන්තුවේ දී ප්‍රකාශයක් කරමින් තවදුරටත් මෙලෙස අදහස් පළ කළේය.
+The Prime Minister's Counsel Saliya Peiris says that there is no validity regarding the appointment of a acting imbue today (26).
+
+He says the claim that the legislative council cannot be challenged in court is baseless.
+
+Prime Minister Dinesh Gunawardena made these comments further today.
+
+"Read the Police Ordinance. The IGP is involved in the past time. Therefore, an IGP cannot get caught by such a sudden ear. There are people who are thinking that. Supreme Court or should be followed. There is no legal provision to prohibit the IGP to serve as his post. Therefore, the President cannot be made to prevent the acting work carried out by the IGP to prevent duties in his post. Former IGP is still being called. The post has not been empty. Also parliament is the answer. The Legislative Council cannot be informed by a court. Therefore, the Supreme Court does not have the power to look into the prostitutional council. So the enjoining order is not valid from law. "
 
 ...
 
 [Data](articles/229df899.json)
+
+[Extended Data](ext_articles/229df899.ext.json)
 
 ---
 
@@ -130,7 +150,7 @@ However, many Tamil political parties and civil society activists have recently 
 
 ### Tamil general candidate does not support ideology - MA Sumanthiran
 
-*2024-07-26 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189480) · `ta`
+*2024-07-26 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189480) · `ta`
 
 MA Sumanthiran, TNA parliamentarian, stated that the Tamil general candidate doesn't align with the TNA's ideology but clarified that the alliance won't obstruct any presidential candidate. He mentioned negotiations with main candidates post-elections.
 
@@ -167,6 +187,38 @@ MP Anura Kumara Dissanayake made this statement regarding the appointment of a a
 [Data](articles/75c43853.json)
 
 [Extended Data](ext_articles/75c43853.ext.json)
+
+---
+
+### பொலிஸ்மா அதிபர் சர்ச்சை : சிக்கலுக்கு ஜனாதிபதியால் கூட தீர்வுகாண முடியாத நிலைமை - சபாநாயகர்
+
+*2024-07-26 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189451) · `ta`
+
+பொலிஸ்மா அதிபர் நியமனத்தில் அரசியலமைப்பு பேரவையின் தலைவர் என்ற ரீதியில்  அரசியலமைப்புக்கு அமையவே  செயற்பட்டுள்ளது.முன்வைக்கும் குற்றச்சாட்டுக்களை நிராகரிக்கிறேன்.பொலிஸ்மா அதிபர் விவகாரத்தில் ஏற்பட்டுள்ள சிக்கலுக்கு ஜனாதிபதியால் கூட தீர்வு காண முடியாத நிலை  ஏற்பட்டுள்ளது.பிரச்சினை உள்ளவர்கள் நீதிமன்றத்திடம் ஆலோசனை கோரலாம் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+
+அத்துடன்  பாராளுமன்றத்தின் இணக்கப்பாட்டுடன்  நியமிக்கப்பட்டுள்ள  அதிகாரியின்  பதவியை வெற்றிடமாக்க வேண்டுமானால்  அல்லது பதவியில் இருந்து நீக்குவதாயின்  விசேட வழிமுறைகள் உள்ளன. அதன்படியே  நடவடிக்கைகளை முன்னெடுக்க முடியும் எனவும் சபாநாயகர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/99ccd678.json)
+
+---
+
+### விஜேதாச ராஜபக்ஷ எமது வேட்பாளர் அல்ல  - ஸ்ரீலங்கா சுதந்திர கட்சி
+
+*2024-07-26 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189455) · `ta`
+
+வேட்பாளரொருவரை களமிறக்கி வெற்றி பெறக் கூடிய நிலையில் ஸ்ரீலங்கா சுதந்திர கட்சி இல்லை என்பதே யதார்த்தமாகும். அதே வேளை சஜித் பிரேமதாசவுக்கு ஆதரவளிப்பதற்கும் நாம் தீர்மானிக்கவில்லை. விஜேதாச ராஜபக்ஷவை வேட்பாளராக நாம் முன்னிலைப்படுத்தவுமில்லை என்று சுதந்திர கட்சியின் பொதுச் செயலாளர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+தேர்தலில் சுதந்திர கட்சி எவ்வாறு செயற்படப் போகிறது என்பது தொடர்பில் இன்று வெள்ளிக்கிழமை (26) முற்பகல் 11 மணிக்கு கொழும்பு, டாலி வீதியில் அமைந்துள்ள கட்சி தலைமையில் விசேட கலந்துரையாடல் இடம்பெறவுள்ளதாகவும் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தலில் சு.க.வின் தீர்மானம் குறித்து வினவிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஸ்ரீலங்கா சுதந்திர கட்சி சார்பில் தேர்தலில் களமிறங்குவதற்கு இதுவரையில் வேட்பாளர் ஒருவர் தெரிவு செய்யப்படவில்லை. யாரை முன்னிலைப்படுத்துவது என்ற தீர்மானத்தை எடுக்க வேண்டியுள்ளது. அமைப்பாளர்கள், தொகுதி அமைப்பாளர்களுக்கு கலந்துரையாடலொன்றுக்கு அழைப்பு விடுத்துள்ளேன். அவர்களுடனும் ஏனைய உறுப்பினர்களுடன் பேசி தீர்மானமொன்றை எடுப்போம்.
+
+...
+
+[Data](articles/d943e000.json)
 
 ---
 
@@ -2237,47 +2289,5 @@ Former Parliamentarian Sarath Keerthirathne has deposited such a bail as an inde
 [Data](articles/b160833c.json)
 
 [Extended Data](ext_articles/b160833c.ext.json)
-
----
-
-### Ranil deposits as an independent candidate
-
-*2024-07-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199220) · `si`
-
-Ranil Wickremesinghe, Sri Lanka's President, is set to run as an independent candidate in the 2024 Presidential Election. His counsel, Ronald C. Mr. Perera, submitted funds to the Elections Commission today.
-
-🟩
-
-It is reported that President Ranil Wickremesinghe is scheduled independent candidate for the Presidential Election 2024.
-
-President's Counsel Ronald C. Mr. Perera has deposited money.
-
-He was reported to the Elections Commission this morning.
-
-◼️
-
-[Data](articles/7bc52a40.json)
-
-[Extended Data](ext_articles/7bc52a40.ext.json)
-
----
-
-### Woman injured in Grandpass shooting also dies
-
-*2024-07-26 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100781/woman-injured-in-grandpass-shooting-also-dies) · `en`
-
-The woman who was receiving treatment for injuries following the shooting in front of the ‘Puradara Sevana’ housing complex at Wadullawatte in Grandpass, Colombo, has also succumbed to her injuries in the early hours of today (26).
-
-The shooting occurred had last evening (25), targeting a man and a woman who were reportedly traveling in a three-wheeler.
-
-The 31-year-old man, identified as K.G.R. Darshana, had succumbed to injuries last night.
-
-The woman, who was in critical condition, has succumbed to her injuries this morning while being treated at the Colombo National Hospital.
-
-◼️
-
-[Data](articles/53493ae3.json)
-
-[Extended Data](ext_articles/53493ae3.ext.json)
 
 ---

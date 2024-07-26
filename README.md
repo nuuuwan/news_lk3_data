@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 08:17:28**
+As of **2024-07-26 07:49:12**
 
 ## Newspaper Stats
 
-*Scraped **37,321** Articles*
+*Scraped **37,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,75 +16,21 @@ islandlk | 2,129
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,393
-adaderanalk | 4,314
-tamilmirrorlk | 4,598
+adaderanalk | 4,313
+tamilmirrorlk | 4,597
 dailymirrorlk | 4,733
 virakesarilk | 5,862
-adaderanasinhalalk | 6,259
+adaderanasinhalalk | 6,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,320 (100.0%) of 37,321 articles have been extended.
+37,317 (100.0%) of 37,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
-
-### 2024 Presidential Election to be held on September 21
-
-*2024-07-26 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100777/2024-presidential-election-to-be-held-on-september-21) · `en`
-
-The Election Commission of Sri Lanka has issued the Gazette notification announcing that the date of the 2024 Presidential Election and the date for the accepting of nominations.
-
-Accordingly, the Presidential Election will be held on 21 September, 2024 and Nominations will be accepted on 15 August 2024, according to the Gazette notification.
-
-◼️
-
-[Data](articles/5cee89bf.json)
-
----
-
-### The date of presidential election is announced
-
-*2024-07-26 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199217) · `si`
-
-The Election Commission announces the 2024 presidential election will take place on September 21.
-
-🟩
-
-The 2024 presidential election will be held on September 21, says the Election Commission.
-
-◼️
-
-[Data](articles/e70f4bf3.json)
-
-[Extended Data](ext_articles/e70f4bf3.ext.json)
-
----
-
-### The gazette of the presidential election today today
-
-*2024-07-26 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199216) · `si`
-
-The gazette notification for the 2024 presidential election will be released soon, detailing nomination dates, locations, and the election date. The Elections Commission submitted it to the Government Press before midnight yesterday.
-
-🟩
-
-The gazette notification of the 2024 presidential election is due to be announced in another few hours.
-
-Accordingly, the gazette notification is to be announced by the gazette notification on the date of nominations, location and election date.
-
-A senior spokesman said that the Elections Commission was sent to the Government Press by midnight yesterday (25) to declare the gazette notification.
-
-◼️
-
-[Data](articles/6b6bce63.json)
-
-[Extended Data](ext_articles/6b6bce63.ext.json)
-
----
 
 ### Woman dies after shooting Grandpass
 
@@ -399,34 +345,6 @@ Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has accused President Rani
 [Data](articles/e3a83153.json)
 
 [Extended Data](ext_articles/e3a83153.ext.json)
-
----
-
-### New Progress in Tea Tea Industry
-
-*2024-07-26 02:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலை-கைத்தொழிலில்-புதிய-முன்னேற்றம்-அவசியம்/175-341055) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of planning for Sri Lanka's tea industry to boost exports, during the 'Colombo International Tea Conference'. Organized by the Colombo Tea Traders Association and the Sri Lanka Tea Board, the event featured international experts and showcased local tea manufacturers. The President highlighted the potential for small plantation owners to transition to agricultural trade, including smart farming, and encouraged companies to expand internationally without hindrance from the government, aiming for Sri Lanka to lead the global tea market.
-
-🟩
-
-President Ranil Wickremesinghe said that the Sri Lankan tea industry is not essential in all dimensions to move the country towards the export economy and that a proper plan will be implemented with the state and private sector.
-
-The President said this while addressing the inauguration of the 'Colombo International Tea Conference' which was commenced yesterday at the Chinaman Grand Hotel in Colombo.
-
-The Colombo Tea Traders Association and the Sri Lanka Tea Board have organized a two -day conference on the theme 'Tea - One Life and Life'.
-
-The exhibition of tea manufacturers in Sri Lanka and its related trade is also organized.
-
-Professors, experts, leading trading names and social organizations from many countries such as Sri Lanka, Kenya, China, India, Japan, Britain, the Gulf and the United States participated in the event.
-
-The exhibitions of our tea manufacturers and many of its associated businesses were organized.
-
-...
-
-[Data](articles/a55c3e37.json)
-
-[Extended Data](ext_articles/a55c3e37.ext.json)
 
 ---
 
@@ -2271,5 +2189,99 @@ We are not in the position of talking in the morning and talking about the other
 [Data](articles/27ebaa94.json)
 
 [Extended Data](ext_articles/27ebaa94.ext.json)
+
+---
+
+### Opposition to support Sri Lanka’s new public finance law but not Economic Transformation Bill
+
+*2024-07-25 14:31:00* · [`economynextcom`](https://economynext.com/opposition-to-support-sri-lankas-new-public-finance-law-but-not-economic-transformation-bill-173751/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition party the Samagi Jana Balawegaya (SJB) has expressed conditional support for the Public Finance Management Bill but not for he Economic Transformation Bill, SJB MP Harsha de Silva said.
+
+MP de Silva, who also chairs the parliamentary Committee on Public Finance (COPF) tweeted Thursday July 25 afternoon that the SJB has expressed support for the Public Finance Management Bill but also proposed an amendment to what he called the bill’s “unrealistic” primary expenditure limit.
+
+The SJB’s opposition to the Economic Transformation Bill, he said, was  “not because of ideology but because the forced International Monetary Fund (IMF)  targets” into the bill with weeks to go to Sri Lanka’s presidential election.
+
+COPF, which de Silva chairs, passed the Public Financial Management bill on July 11. The bill, once enacted, would replace the Fiscal Management (Responsibility) Act.
+
+...
+
+[Data](articles/498adc20.json)
+
+[Extended Data](ext_articles/498adc20.ext.json)
+
+---
+
+### Police officers who kicked and assaulted Pakistan youth at Britain's Manchester Airport
+
+*2024-07-25 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189350) · `ta`
+
+Videos circulating on social media show police officers at Manchester Airport, UK, assaulting a Pakistani youth. The footage depicts officers kicking and trampling on the individual, sparking debates about excessive force and potential racial bias. Following the incident, which occurred after an attack on the police where a female officer was injured, one officer involved has been reassigned. This incident has raised concerns over the use of force by British police and allegations of racism.
+
+🟩
+
+A video of police officers at the Manchester Airport in Britain has been released.
+
+In a widespread video on social media, a police officer is trampling on a person's head.
+
+A video of a person is seen on the ground and two policemen stretching towards him.
+
+The video then shown a video of a police officer on the face of a person.
+
+Thereafter, in the same video, a person can see a person falling to the ground and holding his hands behind the back and one kicks the person with the leg.
+
+Following the release of these videos, the question of whether the police in Britain are using the right strength and controversy.
+
+The incidents took place only after the attack on the police, and a female police officer was injured, Manchester police said.
+
+Meanwhile, a police officer found in a particular video has been removed from leading work.
+
+Meanwhile, Dul Babu, a former senior officer of the Metropolitan Police, said that racism was the cause of the attack.
+
+◼️
+
+[Data](articles/80dd137a.json)
+
+[Extended Data](ext_articles/80dd137a.ext.json)
+
+---
+
+### Two critical in double cab–lorry collision
+
+*2024-07-25 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100767/two-critical-in-double-cablorry-collision) · `en`
+
+Two persons were reportedly critically injured following an accident involving a double cab and a lorry transporting motorcycles near the Dombagahawela Fuel Station on the Monaragala - Siyambalanduwa main road.
+
+The accident had resulted in the cab driver and a passenger being trapped inside the vehicle. Residents in the area had rescued the two trapped individuals following significant efforts while they were then quickly rushed to the Monaragala District General Hospital.
+
+Both injured persons are residents of the Mahakalugolla area, Police said.
+
+The lorry driver has been arrested by Dombagahawela Police who are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/10c1ec4d.json)
+
+[Extended Data](ext_articles/10c1ec4d.ext.json)
+
+---
+
+### Presidential Election: Tomorrow Gazette
+
+*2024-07-25 14:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-நாளை-வர்த்தமானி/175-341016) · `ta`
+
+The Election Commission will announce the 2024 presidential election date tomorrow. It denies involvement in party comments regarding the election date and other decisions.
+
+🟩
+
+The Election Commission has announced that it will be announced tomorrow (26) on the date of the presidential election for 2024.
+
+In this case, the Election Commission has said that the Commission has nothing to do with the comments of the individual parties on the date of the presidential election and other resolutions.. Remble
+
+◼️
+
+[Data](articles/5f100156.json)
+
+[Extended Data](ext_articles/5f100156.ext.json)
 
 ---

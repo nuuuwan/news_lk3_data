@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 15:20:38**
+As of **2024-07-26 15:35:55**
 
 ## Newspaper Stats
 
-*Scraped **37,409** Articles*
+*Scraped **37,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,406
-adaderanalk | 4,329
+adaderanalk | 4,330
 tamilmirrorlk | 4,610
 dailymirrorlk | 4,733
 virakesarilk | 5,880
@@ -26,71 +26,121 @@ adaderanasinhalalk | 6,277
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,403 (100.0%) of 37,409 articles have been extended.
+37,409 (100.0%) of 37,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### திருகோணமலை இலந்தைக்குளம் பகுதியில் இரவோடு இரவாக விகாரை அமைக்க காணி துப்புரவு
+### More details revealed on Grandpass shooting that killed two
+
+*2024-07-26 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100793/more-details-revealed-on-grandpass-shooting-that-killed-two) · `en`
+
+Police stated that the two individuals who were killed in the shooting incident in front of the ‘Puradara Sevana’ housing complex at Wadullawatte in Grandpass, Colombo have been identified as a woman known as ‘Grandpass Kudu Suneetha’ and her assistant who were allegedly involved in a large-scale drug racket.
+
+The incident had occurred while they were traveling in a three-wheeler when two unidentified gunmen had fired at them at around 5.50 p.m. last evening (25) before fleeing the scene.
+
+The woman, who was in critical condition, has succumbed to her injuries this morning (26) while being treated at the Colombo National Hospital.
+
+Police later confirmed that the driver of the three-wheeler had died at the scene.
+
+It has been reported that five gunshots had been fired at the woman, who has been identified as K. Suneetha also known as ‘Grandpass Kudu Suneetha’.
+
+...
+
+[Data](articles/e9b5b857.json)
+
+---
+
+### Land cleaning to set up Vihara at night and night
 
 *2024-07-26 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189442) · `ta`
 
-திருகோணமலை குச்சவெளி பிரதேச செயலாளர் பிரிவுக்குட்பட்ட இலந்தைக்குளம் பகுதியில் இரவோடு இரவாக புத்த விகாரை அமைப்பதற்காக காணி துப்பரவு செய்யப்பட்டதால் அப்பகுதியில் பதட்டம் நிலவி வருகின்றது.
+In the Illandaikulam area of Trincomalee, tensions rise over land clearing for a Buddhist Vihara at night. Residents, displaced during the war, express concern over the demolition of structures and trees without proper action from state departments. They demand resettlement and question the lack of intervention against environmental damage.
 
-குச்சவெளி - இலந்தைக்குளம் 5ஆம் கட்டைப்பகுதியில் நேற்று (25) இரவில் இருந்து பௌத்த பிக்கு ஒருவரின் தலைமையில் புத்த விகாரை அமைப்பதற்காக மக்களுடைய காணி துப்பரவு செய்யப்பட்டு வருவதாக அப்பகுதி மக்கள் தெரிவிக்கின்றனர். வயலுக்கு சென்ற மக்களால் குறித்த ஆக்கிரமிப்பு நடவடிக்கை அவதானிக்கப்பட்டு மக்களுக்கு தகவல் வழங்கப்பட்டதையடுத்து இன்று வெள்ளிக்கிழமை (26) குச்சவெளி பிரதேச செயலாளரின் கவனத்திற்கு குறித்த விடயம் கொண்டு வரப்பட்டுள்ளதாகவும் அதனைத் தொடர்ந்து குறித்த நடவடிக்கை தற்காலிகமாக இடை நிறுத்தப்பட்டுள்ளதாகவும் மக்கள் தெரிவிக்கின்றனர்.
+🟩
+
+Tensions have been reported in the area as the land has been cleaned to set up a Buddhist Vihara at night in the Illandaikulam area of ​​the Kuchchaveli Divisional Secretariat Division of Trincomalee.
+
+Residents of Kuchchaveli - Illandaikulam 5th Stadium (25). People have reported that the matter has been brought to the attention of the Kuchchaveli Divisional Secretary today (26) after the occupation of the people who went to the field were observed and the people were suspended.
+
+People who lived in the Illandaikulam area have been displaced in the 1990s and adjoining periods due to the war, and the people are concerned that the area has long been presenting the demand for a resettlement in the area.
+
+People say that the broken school building and state buildings are still sources, including the birth certificate, the death test, the land documents, and the field limits are still immortal.
 
 ...
 
 [Data](articles/813b0d0d.json)
 
+[Extended Data](ext_articles/813b0d0d.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-07-26 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/189445) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஜூலை 26) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 298.7131 ரூபாவாகவும், விற்பனை விலை 307.9537 ரூபாவாகவும் பதிவாகியுள்ளது.
+The USD to INR exchange rate today, July 26, is approximately 298.7131 for purchase and 307.9537 for sale.
+
+🟩
+
+The US dollar purchasing price was 298.7131 rupees and the sales price were Rs 307.9537 based on a currency exchange rate released today (July 26).
 
 ◼️
 
 [Data](articles/49addd1e.json)
 
+[Extended Data](ext_articles/49addd1e.ext.json)
+
 ---
 
-### பொதுத்துறை அதிகாரிகள் 15 பேருக்கு மனிதவள மேம்பாட்டு உதவித்தொகைக்கான ஜப்பானிய புலமைப்பரிசில்
+### Japanese scholarship for Human Resources Development Scholarship for 15 Public Sector Officers
 
 *2024-07-26 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/189443) · `ta`
 
-இலங்கைக்கான ஜப்பான் தூதுவர் மிசுகொஷி ஹிதேகி H. E. MIZUKOSHI Hideaki, மனிதவள மேம்பாட்டு உதவித்தொகைக்கான ஜப்பானிய புலமைப்பரிசில் திட்டத்தின் JDS (the Japanese Grant Aid for Human Resources Development Scholarship) புலமைப்பரிசில் பெறுபவர்களை வழினுப்புவதற்கான வரவேற்பு நிகழ்ச்சியை நடத்தி அடுத்த மாதம் மாணவர்களாக ஜப்பானுக்குச் செல்லும் அவர்களுக்கு தனது மனமார்ந்த வாழ்த்துக்களைத் தெரிவித்தார்.
+The Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki, announced the Human Resources Development Scholarship for 15 public sector officers, aiming to enhance their leadership skills through a 2-year postgraduate or doctoral program in Japan. This initiative, part of the Japanese Scholarship Program for the Human Resources Development Scheme, began in 2010 and has benefited 222 Sri Lankan officials so far. It focuses on areas like policy-making, finance, and development, fostering mutual understanding and bilateral cooperation.
 
-இம்மாதத் தொடக்கத்தில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்த போது எமது வெளிவிவகார அமைச்சருடன் இந்த ஜேடிஎஸ் திட்டத்தில் குறிப்புகள் பரிமாற்றத்தில் கையெழுத்திட்ட வெளியுறவு அமைச்சர் அலி சப்ரி இநிகழ்வில் விருந்தினராக பங்கேற்றார்.
+🟩
 
-இந்த திட்டம் ஜப்பானில் உள்ள பல்வேறு பல்கலைக்கழகங்களில் பொதுத்துறையில் இளம் நிர்வாக அதிகாரிகளுக்கு பயிற்சி அளிப்பதோடு, அந்தந்த துறைகளில் எதிர்கால தலைவர்களாக தகுதிபெறும் வகையில் அவர்களின் அறிவையும் திறமையையும் மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.
+Japanese Ambassador to Sri Lanka. A.. Mizukoshi Hideaki, Japanese Scholarship Program for the Japanese Scholarship Program for Human Resources Development Scheme, congratulated the Japanese students next month to the scholarship recipients of the scholarship.
+
+Foreign Minister Ali Sabri participated in the event with our Foreign Minister who signed a tips on this JDS project while on an official visit to Japan earlier this month.
+
+This program is aimed at training young administrators in various universities in Japan and improving their knowledge and skills to qualify as future leaders in their respective sectors.
+
+Under this scheme, 15 public sector officials will be sent to 2 years postgraduate or doctorate degree. Their research learners include general policy, microscopic, public financial and investment management, industrial development policy and investment promotion and urban and regional development.
 
 ...
 
 [Data](articles/6d1837ef.json)
 
+[Extended Data](ext_articles/6d1837ef.ext.json)
+
 ---
 
-### මාරක අනතුරින් පිය - පුතු දෙදෙනාටම දිවි අහිමිවෙයි
+### Father - Two sons have laid suicide in the fatal accident
 
 *2024-07-26 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199235) · `si`
 
-පිටිගල, මාපලගම මාර්ගයේ මත්තක ප්‍රදේශයේ දී ට්‍රක් රථයක් සහ මෝටර් රථයක් මුහුණට මුහුණ ගැටීමෙන් සිදුවු අනතුරින් එකම පවුලේ පියා සහ පුතු ජීවිතක්ෂයට පත්ව තිබේ.
+In a tragic accident near Mattala, Pitigala, a father and his two sons died. Two women were injured and taken to Elpitiya Base Hospital. The driver of the car involved in the crash, along with the motorcyclist, also suffered minor injuries. The truck driver from Pitigala was arrested.
 
-අනතුරින් කාන්තාවන් දෙදෙනෙකු තුවාල ලබා ඇල්පිටිය මූලික රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+🟩
 
-මෝටර් රථයේ ගමන් කර ඇත්තේ එකම පවුලේ පිරිසක් වන අතර, අනතුරින් මියගිය අය අතර මෝටර් රථය පැදවූ පුද්ගලයා ද වේ.
+The father and son of the same family were killed in the accident in the Mattala area on Pitigala, Mapigala.
 
-අනතුරට මැදිවීමෙන් යතුරුපැදියෙන් මාර්ගයේ ගමන් කරමින් සිටි විදුහල්පතිවරයෙකු ද සුළු තුවාල ලබා ඇල්පිටිය මූලික රෝහල වෙත ඇතුළත් කර තිබුණි.
+Two women were injured and rushed to the Elpitiya Base Hospital, police said.
 
-අනතුර සම්බන්ධයෙන් ට්‍රක් රථ රියදුරු පිටිගල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The car has traveled in the car and is also the person who dropped the car among the victims of the accident.
+
+The motorcyclist was also admitted to the Elpitiya Base Hospital with minor injuries.
+
+The truck driver Pitigala has been arrested by the truck driver.
 
 ◼️
 
 [Data](articles/bdcc4548.json)
+
+[Extended Data](ext_articles/bdcc4548.ext.json)
 
 ---
 
@@ -114,37 +164,49 @@ This time, the first candidate to contest the presidential election was the firs
 
 ---
 
-### ஜனாதிபதித் தேர்தல் : விசேட அறிக்கையை வெளியிட்டது தேர்தல் ஆணைக்குழு
+### Presidential Election: The Election Commission issued a special report
 
 *2024-07-26 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189440) · `ta`
 
-உத்தேச ஜனாதிபதித் தேர்தலில் அங்கீகரிக்கப்பட்ட கட்சி சார்பில் போட்டியிடவுள்ள வேட்பாளர்கள் 50,000 ரூபாவையும், ஏனைய வேட்பாளர்கள் 75,000 ரூபாவவையும் கட்டுப்பணமாக செலுத்த வேண்டும் என்று சுயாதீன தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Candidates for the upcoming presidential election must pay 50,000 rupees (for recognized parties) or 75,000 rupees (others) for nomination fees. Nominations open from 9 pm to 11 am on August 15 at the Election Commission in Rajagiriya, with objections allowed until 11.30 am. All candidates must settle their dues before filing.
 
-செப்டெம்பர் 21ஆம் திகதி ஜனாதிபதித் தேர்தல் இடம்பெறவுள்ள நிலையில் மக்கள் தெரிந்து கொள்வதற்காக இந்த அறிக்கை வெளியிடப்படுகிறது. தேர்தலுக்கான வேட்புமனுக்கள் ஆகஸ்ட் 15ஆம் திகதி முற்பகல் 9 - 11 மணி வரை ராஜகிரியவிலுள்ள தேர்தல் ஆணைக்குழுவில் ஏற்றுக் கொள்ளப்படும்.
+🟩
 
-தாக்கல் செய்யப்படும் வேட்புமனுக்கள் தொடர்பில் அன்றைய தினமே முற்பகல் 9 - 11.30 மணி வரை ஆட்சேபனைகளையும் தெரிவிக்க முடியும். எதிர்தரப்பு வேட்பாளர் அல்லது அவர் சார்பில் வேட்புமனு தாக்கல் செய்யும் நபர்களால் இந்த ஆட்சேபனைகளை முன்வைக்க முடியும்.
+The Independent Elections Commission has said that the candidates who are contesting on the proposed presidential election should pay 50,000 rupees and other candidates 75,000 rupees.
 
-வேட்புமனு தாக்கல் செய்வதற்கு முன்னர் சகல வேட்பாளர்களும் கட்டுப்பணத்தை செலுத்த வேண்டியது அவசியமாகும். அதற்கமைய தேர்தலில் அங்கீகரிக்கப்பட்ட கட்சி சார்பில் போட்டியிடவுள்ள வேட்பாளர்கள் 50,000 ரூபாவையும், ஏனைய வேட்பாளர்கள் 75,000 ரூபாவவையும் கட்டுப்பணமாக செலுத்த வேண்டும்.
+The report is being issued for people to know as the presidential election is scheduled for September 21st.. The nominations for the election will be accepted at the Election Commission in Rajagiriya from 9 pm to 11 am on August 15.
+
+The objections can be reported from 9 to 11.30 am on the same day. These objections can be made by the opposition candidate or the candidates who filed their nomination.
+
+It is necessary for all candidates to pay control before filing nominations. Accordingly, the candidates who are contesting on behalf of the recognized party will have to pay 50,000 rupees and the other candidates will pay control of 75,000 rupees.
 
 ...
 
 [Data](articles/565defd1.json)
 
+[Extended Data](ext_articles/565defd1.ext.json)
+
 ---
 
-### ඉසුරු උදානගේ නැන්දනියගේ නිවස කොල්ලකෑ සැකකරුවෙක් කොටු
+### Suspect arrested with Isuru Udanage aunty
 
 *2024-07-26 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199234) · `si`
 
-හිටපු ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක ඉසුරු උදානගේ නැන්දනිය පදිංචි හෝමාගම දුම්රිය පොළ පාරේ පිහිටි තෙමහල් නිවස පසුගියදා කොල්ලකා තිබුණි.
+Isuru Udanage, a former Sri Lankan cricketer, was involved in an incident where his newly built house was robbed. The suspect, who broke into the three-story property on Homagama Road, was severely injured and caused significant damage to jewelry worth Rs. 72 lakhs. Following the incident, the police arrested the suspect for four months.
 
-එහිදී නිවසට ඇතුළුවූ කොල්ලකරු ඇයට තියුණු ආයුධයකින් පහරදී බරපතළ තුවාල සිදුකර රුපියල් ලක්ෂ 72ක් වටිනා රන් ආභරණ තොගයක් කොල්ලකා තිබූ බව වාර්තා විය.
+🟩
 
-ඒ අනුව සිද්ධියේ සැකකරුවෙකු සිව් මසකට පසු අත්අඩංගුවට ගැනීමට පොලීසියට හැකිවී තිබේ.
+Former Sri Lankan cricketer, Isuru Udanage, Isuru Udayaniyaniya had recently launched the three storied house on Homagama Road.
+
+The robber in the house had been severely wounded and heavy damaged a jewelry worth Rs. 72 lakhs worth Rs.
+
+Accordingly, the police have been arrested for four months after the incident.
 
 ◼️
 
 [Data](articles/5ad66ae7.json)
+
+[Extended Data](ext_articles/5ad66ae7.ext.json)
 
 ---
 
@@ -2103,27 +2165,5 @@ CH17 Loyalty CEO Jumar Preena said: “By joining forces, we will nearly double 
 [Data](articles/db1a5d8a.json)
 
 [Extended Data](ext_articles/db1a5d8a.ext.json)
-
----
-
-### Not a political program
-
-*2024-07-26 02:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-அரசியல்-வேலைத்திட்டம்-அல்ல/175-341056) · `ta`
-
-The Secretary of the Ministry of Tourism and Lands assures that the issuance of Urumaya Land Certificates, aimed at benefiting 200,000 individuals over two years, remains unaffected by elections. Over 100,000 applications have been received so far, emphasizing its non-political nature and commitment to service continuity despite electoral periods.
-
-🟩
-
-A full -fledged land certificate is not a political program. The project will continue in the election period, said the Secretary to the Ministry of Tourism and Lands.
-
-Secretary of the Ministry of Tourism and Lands, Somaratne Vidhana Pathirana said this while attending a press conference held at the Presidential Media Center yesterday under the theme of two years of progress and future.. As he further stated,
-
-During this two years, the most important program for the Sri Lankan people, the Urumaya Land Certificate, is being carried out under our Ministry.. We are looking forward to providing 20 lakhs of land certificates in two years through this scheme. So far, more than 100,000 applications have been received.
-
-...
-
-[Data](articles/b77391bd.json)
-
-[Extended Data](ext_articles/b77391bd.ext.json)
 
 ---

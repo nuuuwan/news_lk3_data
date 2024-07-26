@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 12:53:38**
+As of **2024-07-26 13:05:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,271
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,381 (100.0%) of 37,387 articles have been extended.
+37,387 (100.0%) of 37,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,55 +50,77 @@ The pictures were taken during Ms Hasina’s visit to a metro rail station in th
 
 [Data](articles/cb1c1473.json)
 
+[Extended Data](ext_articles/cb1c1473.ext.json)
+
 ---
 
-### அக்போ யானையை பிடித்து காட்டுக்குள் விடுவிக்க உத்தரவு
+### Order to catch the elephant in the forest
 
 *2024-07-26 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189409) · `ta`
 
-கடந்த  ஒரு வருடத்திற்கும் மேலாக திரப்பனை பகுதியில் சுற்றித்திரியும் அக்போ என அழைக்கப்படும் காட்டு யானையை பிடித்து காட்டுப் பகுதிக்குள் விடுவிக்குமாறு  அநுராதபுரம் வனஜீவராசிகள் பாதுகாப்பு உதவி பணிப்பாளருக்கு அநுராதபுரம் பிரதான நீதவான் நேற்று வியாழக்கிழமை (25) உத்தரவிட்டுள்ளார்.
+Anuradhapura Chief Magistrate ordered the release of a wild elephant named Akbo, trapped for over a year. The decision came after a private TV channel employee was accused of photographing the elephant with a drone. Despite concerns about the elephant damaging crops and properties, the magistrate directed the wildlife department to relocate it safely to prevent harm to both the elephant and humans. The police were also instructed to file charges against the individual who used the drone for photography.
 
-தனியார் தொலைக்காட்சி சேனலின் ஊழியர் ஒருவர் ட்ரோன் கமரா மூலம் யானையை புகைப்படம் எடுத்ததாக தொடரப்பட்ட வழக்கு நேற்றைய தினம் விசாரணைக்கு  எடுத்துக் கொள்ளப்பட்டது.
+🟩
 
-இதன் போது, பாதுகாக்கப்பட வேண்டிய யானை பொதுமக்கள் இருக்கும் இடத்தில் விடப்பட்டுள்ளதாகவும், யானையை கிராமங்களுக்குள் சுற்றித் திரிந்து பயிர்களையும் சொத்துக்களையும் அழிக்க அனுமதித்தால் அதன் உயிருக்கு ஆபத்து ஏற்படும் எனவும் பொலிஸார் நீதிமன்றத்தில் தெரிவித்தனர்.
+The Anuradhapura Chief Magistrate on Thursday (25) has ordered the Anuradhapura Wildlife Protection Assistant Director to release a wild elephant, known as Akbo, which is surrounded by Akbo for more than a year.
 
-அத்துடன், யானையின்  உயிருக்கோ அல்லது மனித உயிர்களுக்கோ ஏதேனும் ஆபத்து ஏற்படுவதைத் தடுக்க யானையை பிடித்து வனவிலங்கு பாதுகாப்புத் திணைக்களம் காட்டுப்பகுதிக்குள் விடுவிக்குமாறு உத்தரவிடுமாறு பொலிஸ் அதிகாரி நீதிமன்றத்தை கோரினார்.
+The case, which was filed by an employee of a private television channel, was taken up for hearing yesterday for allegedly photographing the elephant by a drone camera.
 
-...
+In the meantime, the police told the court that the elephant to be protected and that the elephant would be left in the villages and would be allowed to destroy crops and property.
+
+In addition, the police officer asked the court to order the wildlife department to take up the elephant to prevent any danger to the elephant's life or human life.
+
+In this case, the elephant has been ordered to be released in the wilderness and the police have ordered the police to file a charge sheet against the suspect who used the unmanned camera to photograph the elephant.
+
+◼️
 
 [Data](articles/92c5f705.json)
 
+[Extended Data](ext_articles/92c5f705.ext.json)
+
 ---
 
-### ஜனாதிபதியால் தீர்க்க முடியாது:சபாநாயகர்
+### Cannot be solved by the president: Speaker
 
 *2024-07-26 12:23:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியால்-தீர்க்க-முடியாது-சபாநாயகர்/175-341072) · `ta`
 
-பொலிஸ் மா அதிபரை நீக்குவதற்கு விசேட நடைமுறையொன்று தேவை எனவும், பொலிஸ் மா அதிபர் தொடர்பான நிலைமையை ஜனாதிபதியால் தீர்க்க முடியாது எனவும், தேவைப்பட்டால் நீதிமன்றில் தீர்த்துக்கொள்ள வேண்டும் எனவும் சபாநாயகரும் அரசியலமைப்பு பேரவையின் தலைவருமான  மஹிந்த யாப்பா அபேவர்தன தெரிவித்துள்ளார்.
+Mahinda Yapa Abeywardena, as Speaker and President of the Constitutional Council, stated that a unique process is required to dismiss the Inspector General of Police, emphasizing that the President alone cannot resolve this issue, including any related legal matters.
+
+🟩
+
+Speaker and President of the Constitutional Council, Mahinda Yapa Abeywardena, said that a special procedure is needed to remove the Inspector General of Police and that the President cannot resolve the situation of the Inspector General of Police and resolve the court if necessary.
 
 ◼️
 
 [Data](articles/109ff9f0.json)
 
+[Extended Data](ext_articles/109ff9f0.ext.json)
+
 ---
 
-### අගමැතිනියගේ කිඹුල් කඳුළු
+### Crocodile Tears of the Prime Minister
 
 *2024-07-26 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199229) · `si`
 
-පසුගියදා ඇතිවූ විරෝධතා අතරතුර හානියට පත්වූ දුම්රිය ස්ථානයක් නැරඹීමට ගිය බංග්ලාදේශ අගමැතිනි ෂෙයික් හසීනා කඳුළු පිරි දෑසින් එදෙස බලාසිටින ඡායාරූපයක් මේ වනවිට සමාජ මාධ්‍යයේ සංසරණය වෙයි.
+Critics accuse Bangladesh's PM of insincerity, citing her lack of remorse over protest deaths and nepotism in government job allocations, which has led to a dire economic state and a significant reduction in judicial power.
 
-ඒ සම්බන්ධයෙන් එරට ජනතාව පවසන්නේ අගමැතිවරිය කිඹුල් කඳුළු හෙළන බවයි.
+🟩
 
-එරට පැවති උද්ඝෝෂණ හේතුවෙන් 150 දෙනෙක් පමණ මියගිය අතර එම මියගිය අය වෙනුවෙන් අගමැතිවරිය ඒ ආකාරයට කනගාටු නොවූ බව සමහරු පවසති.
+Bangladesh Prime Minister Shaikh Haseani Tears
 
-එරට රජයේ රැකියාවලින් 30%ක් යුද විරුවන්ගේ ඥාතීන්ට ලබාදිය යුතු බවට ගෙන ආ යෝජනාවට එරෙහිව සිසු උද්ඝෝෂණ ඇතිවිය.
+The people of the country say that the Prime Minister drops crocodile tears.
 
-ඒ හේතුවෙන් රටපුරා හදිසි තත්ත්වයක් ඇතිවූ අතර පසුව එරට අධිකරණය මැදිහත්වී රැකියා කෝටාව 7%ක් දක්වා අඩු කළේය.
+Some 150 people died due to protests, and the Prime Minister did not regret it.
+
+About 30% of the government jobs to the relatives of war heroes and students occurred.
+
+As a result, an urgent situation was in the middle of the country and reduced its inter-judicial court to 7% of the jobs.
 
 ◼️
 
 [Data](articles/2c60ec28.json)
+
+[Extended Data](ext_articles/2c60ec28.ext.json)
 
 ---
 
@@ -124,19 +146,25 @@ A spokesman for the Railway Department said that the body was taken from the sam
 
 ---
 
-### වැඩ බලන පොලිස් මාධ්‍ය ප්‍රකාශක ලෙස රුවන් ගුණසේකර මහතා පත් කරයි
+### Ruwan Gunasekara appointed acting police spokesman
 
 *2024-07-26 12:06:17* · [`adalk`](https://www.ada.lk/breaking_news/වැඩ-බලන-පොලිස්-මාධ්‍ය-ප්‍රකාශක-ලෙස-රුවන්-ගුණසේකර-මහතා-පත්-කරයි/11-411016) · `si`
 
-රුවන් ගුණසේකර මහතා වැඩ බලන පොලිස් මාධ්‍ය ප්‍රකාශකවරයා ලෙස පත්කර ඇත.
+Ruwan Gunasekara is now the acting police spokesman, replacing Nihal Thaluda who will return to his position after being abroad.
 
-පොලිස් මාධ්‍ය ප්‍රකාශකවරයා ලෙස කටයුතු කළ නියෝජ්‍ය පොලිස්පති නිහාල් තල්දුව මහතා පෞද්ගලික අවශ්‍යතාවක් මත  විදෙස්ගත වීම හේතුවෙන් රුවන් ගුණසේකර මහතා මෙම තනතුරට පත්කර ඇත.
+🟩
 
-තල්දුව මහතා නැවත දිවයිනට පැමිණි පසු නැවත පොලිස් මාධ්‍ය ප්‍රකාශක ලෙස කටයුතු කරන බව සඳහන් වේ.
+Ruwan Gunasekara has been appointed as the acting police spokesman.
+
+Ruwan Gunasekera has been appointed as the Police Media Spokesperson Nihal Thaluduwa abroad.
+
+It is reported that Mr. Thaluda returns to the island again, he is said to be a police media spokesman again.
 
 ◼️
 
 [Data](articles/bbc9cb08.json)
+
+[Extended Data](ext_articles/bbc9cb08.ext.json)
 
 ---
 
@@ -238,17 +266,23 @@ While investigating the woman, the head of the Iyyappan temple in Canada had con
 
 ---
 
-### ජනාධිපතිවරණයට රනිල් මුලින්ම ඇප තියයි
+### Ranil first bailed for presidential election
 
 *2024-07-26 11:48:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රනිල්-මුලින්ම-ඇප-තියයි/11-411014) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 2024 ජනාධිපතිවරණය සඳහා ස්වාධීන අපේක්ෂකයෙකු ලෙස ඉදිරිපත්වීමට අදාළව මැතිවරණ කොමිෂන් සභාව වෙත ඇප මුදල් තැන්පත් කර තිබේ. ඔහු වෙනුවෙන් ජනාධිපති නීතිඥ රොනල්ඩ් සී. පෙරේරා මහතා ඇප මුදල් තැන්පත් කළේය.
+President Ranil Wickremesinghe became the first candidate to deposit bail with the Elections Commission for the 2024 Presidential Election, marking his candidacy as an independent. His counsel, Ronald C. Mr. Perera, facilitated this process.
 
-ජනාධිපතිවරණය සඳහා පළමු ඇප මුදල් තැන්පත් කිරීම සිදු කළේද ජනාධිපති රනිල් වික්‍රමසිංහ මහතායි.
+🟩
+
+President Ranil Wickremesinghe has deposited bail to the Elections Commission to contest as an independent candidate for the Presidential Election 2024. President's Counsel Ronald C. Mr. Perera deposited bail.
+
+President Ranil Wickremesinghe was the first bail of the Presidential election.
 
 ◼️
 
 [Data](articles/0a26b306.json)
+
+[Extended Data](ext_articles/0a26b306.ext.json)
 
 ---
 

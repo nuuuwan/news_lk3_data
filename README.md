@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 16:07:53**
+As of **2024-07-26 16:20:25**
 
 ## Newspaper Stats
 
-*Scraped **37,416** Articles*
+*Scraped **37,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
 adalk | 3,407
-adaderanalk | 4,331
+adaderanalk | 4,332
 tamilmirrorlk | 4,613
 dailymirrorlk | 4,733
 virakesarilk | 5,880
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,412 (100.0%) of 37,416 articles have been extended.
+37,416 (100.0%) of 37,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Two from same family killed in head-on collision
+
+*2024-07-26 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100795/two-from-same-family-killed-in-head-on-collision) · `en`
+
+A father and his son have been killed following a head-on collision involving a truck and a car in the Maththaka area on the Pitigala-Mapalagama road.
+
+Police stated that the two other women injured in the accident have been admitted to Elpitiya Base Hospital.
+
+A family of four were traveling in the car at the time of the accident and the driver of the car is also among the deceased.
+
+Meanwhile, a motorcyclist who was travelling in the road has sustained minor injuries from the incident and has also been admitted to the Elpitiya Base Hospital. He is reportedly a school principle.
+
+The truck driver has been arrested in relation to the accident by Elpitiya Police.
+
+◼️
+
+[Data](articles/17770d76.json)
+
+---
 
 ### Voting rights for remand prisoners: Notice issued to EC members, Justice Minister
 
@@ -45,6 +65,8 @@ Accordingly, the court ordered to issue notice on the Chairman of the Election C
 ...
 
 [Data](articles/5e124450.json)
+
+[Extended Data](ext_articles/5e124450.ext.json)
 
 ---
 
@@ -482,15 +504,21 @@ The suspect has been arrested in connection with the complaint received by the p
 
 ---
 
-### பதவி விலகுமாறு ரணிலுக்கு சஜித் சவால்
+### Sajith challenges Ranil to resign
 
 *2024-07-26 13:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பதவி-விலகுமாறு-ரணிலுக்கு-சஜித்-சவால்/150-341075) · `ta`
 
-உயர் நீதிமன்ற உத்தரவுக்கு அமைய பதில் பொலிஸ் மா அதிபரை நியமிக்க முடியாவிட்டால் பதவி விலகுமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சவால் விடுத்துள்ளார்.
+Sajith Premadasa, the opposition leader, demands President Ranil Wickremesinghe's resignation if he fails to comply with a High Court order regarding the appointment of the Inspector General of Police.
+
+🟩
+
+Opposition leader Sajith Premadasa has challenged President Ranil Wickremesinghe to resign if he cannot appoint the Inspector General of Police in response to a High Court order.
 
 ◼️
 
 [Data](articles/15b74efc.json)
+
+[Extended Data](ext_articles/15b74efc.ext.json)
 
 ---
 
@@ -710,19 +738,25 @@ A spokesman for the Railway Department said that the body was taken from the sam
 
 ---
 
-### පොලිස්පති ධුරය හිස්වෙලා නෑ
+### IGP has not empty
 
 *2024-07-26 12:07:08* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ධුරය-හිස්වෙලා-නෑ/11-411017) · `si`
 
-වැඩබලන පොලිස්පතිවරයෙක් පත් කිරීමට පවතින නීතිය යටතේ ජනපතිට ප්‍රතිපාදන නොමැති බවත් තවමත් පොලිස්පති ධුරයේ කටයුතු කරන්නේ හිටපු පොලිස්පතිම බවත් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවේදි විශේෂ ප්‍රකාශයක් කරමින් පැවැසිය.
+Prime Minister Dinesh Gunawardena clarified in Parliament that the President lacks authority to appoint an acting Inspector General of Police (IGP) due to lack of legal provisions. He emphasized the importance of adhering to the Police Ordinance and the need for the Supreme Court to follow existing laws. The PM also highlighted that the position of IGP is not vacant, addressing concerns about the transition process.
 
-"වැඩබලන පොලිස්පතිවරයෙකු පත් කිරීම සඳහා ජනාධිපතිවරයාට පවතින නීතිය තුළ ප්‍රතිපාදන නොමැත. එබැවින් ජනාධිපතිවරයා විසින් මගේ මිත්‍ර කිරිඇල්ල මන්ත්‍රීතුමා ඒ පැත්තෙන් ඉන්න කොට එකයි, මේ පැත්තෙ ඉන්න කොට එකයි. ප්‍රතිපාදන නොමැති බැවින් ජනාධිපතිවරයා විසින් වැඩබලන පොලිස්පතිවරයා ලෙස වෙන් අයෙකු පත්කරනු ඇතැයි ශ්‍රේෂ්ඨාධිකරණයට අපේක්ෂා කළ නොහැකිය. මේ තත්ත්වය තුළ කියවා බලන්න පොලිස් ආඥා පනත මුල සිට අගට.
+🟩
 
-කියවීමේ කාලය මම ගන්නෙ නෑ. මම සභාගත කරනවා පොලිස් ආඥා පනත.  දන්නෙ නැත්නම් ගිහිල්ලා කියවන්න. ගිය වාරෙත් අපි මේ ප්‍රශ්නයට මුහුණ දුන්නා කලින් පොලිස්පතිවරයත් සම්බන්ධවත්.
+Prime Minister Dinesh Gunawardena made a special statement in Parliament that the president had no provisions for the appointment of a acting IGP and the former IGP.
+
+"There is no provision in the law of the president to appoint a acting imbue. Therefore, the only step is by the President on that side by the President on that side by the President. The Supreme Court cannot expect the President that the President will be appointed as acting IGP as there is no provision. Read in this situation to read the Police Ordinance to the end.
+
+I'm not taking reading time. I table the Police Ordinance.Don't know if you don't know. Last time we faced this problem even before the IGP.
 
 ...
 
 [Data](articles/45b07ca9.json)
+
+[Extended Data](ext_articles/45b07ca9.ext.json)
 
 ---
 
@@ -1826,15 +1860,21 @@ The Olympic focus is that the United States of America is focused on being a 100
 
 ---
 
-### செப்டம்பர் 21 ஜனாதிபதித் தேர்தல்
+### September 21 presidential election
 
 *2024-07-26 08:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-21-ஜனாதிபதித்-தேர்தல்/175-341059) · `ta`
 
-ஜனாதிபதி தேர்தலை செப்டெம்பர் 21ம் திகதி நடத்த தேர்தல் ஆணைக்குழு முடிவு செய்துள்ளது. ஓகஸ்ட் 15ஆம் தேதி வேட்புமனுக்கள் ஏற்கப்படும் என்று தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது. தேர்தல் திகதிகள் தொடர்பான வர்த்தமானி அறிவித்தலை அரசாங்க அச்சக திணைக்களம் இன்று (26) காலை வெளியிட்டது
+The Election Commission announced the presidential election will take place on September 21, with nomination acceptance starting from August 15. This was confirmed through a gazette notification issued by the Government Press Department on July 26.
+
+🟩
+
+The Election Commission has decided to hold the presidential election on September 21. The Election Commission said that nominations will be accepted on August 15. The Government Press Department issued a gazette notification on the election dates this morning (26)
 
 ◼️
 
 [Data](articles/236236d2.json)
+
+[Extended Data](ext_articles/236236d2.ext.json)
 
 ---
 
@@ -2139,21 +2179,5 @@ Sri Lanka sits on a wealth of resources, but let it all go to waste. Agriculture
 [Data](articles/3b0c8415.json)
 
 [Extended Data](ext_articles/3b0c8415.ext.json)
-
----
-
-### Resource-rich, policy-poor: Sri Lanka’s flagging growth sectors
-
-*2024-07-26 03:05:55* · [`dailyftlk`](https://www.ft.lk/opinion/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/14-764781) · `en`
-
-Sri Lanka’s agriculture and mineral policies need overhauling along with fresh thinking and national minded leadership
-
-Sri Lanka sits on a wealth of resources, but let it all go to waste. Agriculture was one such historical natural strength in what used to be the ‘Pearl of the Indian Ocean,’ bringing fame and fortune from far and wide. Today, we import rice, coconuts and other agri-commodities – a far cry from former glory. Skewed agricultural policy perpetuated by the lack of political will burns holes in the future potential of an industry and our people.
-
-...
-
-[Data](articles/aea18543.json)
-
-[Extended Data](ext_articles/aea18543.ext.json)
 
 ---

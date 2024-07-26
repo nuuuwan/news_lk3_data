@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 05:21:38**
+As of **2024-07-26 05:38:16**
 
 ## Newspaper Stats
 
-*Scraped **37,303** Articles*
+*Scraped **37,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,393
 adaderanalk | 4,313
-tamilmirrorlk | 4,594
+tamilmirrorlk | 4,595
 dailymirrorlk | 4,733
 virakesarilk | 5,862
 adaderanasinhalalk | 6,255
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,303 (100.0%) of 37,303 articles have been extended.
+37,303 (100.0%) of 37,304 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -297,6 +297,24 @@ The YJA in its petition had maintained that the nomination of Thennakoon was unc
 [Data](articles/5bd9ce71.json)
 
 [Extended Data](ext_articles/5bd9ce71.ext.json)
+
+---
+
+### ’சட்டமாக்குவதை அனுமதிக்க முடியாது’
+
+*2024-07-26 01:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமாக்குவதை-அனுமதிக்க-முடியாது/175-341053) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் நிபந்தனைகளை சட்டமாக்குவதை ஒருபோதும் அனுமதிக்க முடியாது என்று ஜே.வி.பி பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25) நடைபெற்ற பொருளாதார நிலைமாற்றம் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தல் தொடர்பான தீர்மானத்தை அறிவிப்பதை தேர்தல்கள் ஆணைக்குழு ஒத்தி வைத்துள்ளதாக கூறப்படுகின்றது. இவ்வாறாக காலத்தை இழுத்தடிக்கும் போது மக்களுக்கு தேர்தல் தொடர்பில் சந்தேகங்கள் ஏற்படும். அதேவேளை 22ஆவது அரசியலமைப்பு திருத்தம் பாராளுமன்றத்தில் முன்வைக்கப்படவுள்ளதாகவும் கூறப்படுகின்றது. அத்துடன் இன்னும் மக்களுக்கு சந்தேகங்கள் ஏற்படும். மக்கள் விரைவில் தேர்தல் நடக்கும் என்றே காத்திருக்கின்றனர். அதன்படி தீர்மானங்களை எடுக்க வேண்டும் என்று கோரிக்கை விடுகின்றோம்.
+
+இதேவேளை சர்வதேச நாணய நிதியத்தினுடான உடன்படிக்கை, அவர்களின் நிபந்தனை மற்றும் ஆலோசனைக்கமையவே நாடு நடந்துகொள்ள வேண்டும்  என்றில்லை. நாட்டில் வங்குரோத்தடைந்துள்ளது என்றார்.
+
+◼️
+
+[Data](articles/cb6484ef.json)
 
 ---
 
@@ -2291,25 +2309,5 @@ The National Election Commission had convene a meeting today (25) to finalize th
 [Data](articles/21bf94bb.json)
 
 [Extended Data](ext_articles/21bf94bb.ext.json)
-
----
-
-### Election Commission to announce Presidential Poll date tomorrow
-
-*2024-07-25 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100766/election-commission-to-announce-presidential-poll-date-tomorrow) · `en`
-
-The Elections Commission of Sri Lanka says that the Gazette notification regarding the announcement of the Presidential Election date will be published tomorrow (26).
-
-“I hereby inform that the Election Commission, which convened today, has decided to publish the Gazette Extraordinary Notification to announce the date for proclaiming the Presidential Election and the nomination date in accordance with the provisions of the Presidential Elections Act, No. 15 of 1981, which will be declared on the 26th day of July 2024,” the chairman of the commission said.
-
-Furthermore, it is announced that the Election Commission holds no responsibility for the statements made by various individuals and parties on the day of the presidential poll and other constitutional functions, the statement added.
-
-The National Election Commission had convened a meeting today (25) to finalize the date for the upcoming Presidential Election and the date for the calling of nominations.
-
-...
-
-[Data](articles/ce1071cc.json)
-
-[Extended Data](ext_articles/ce1071cc.ext.json)
 
 ---

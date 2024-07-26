@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 20:35:59**
+As of **2024-07-26 20:54:38**
 
 ## Newspaper Stats
 
-*Scraped **37,442** Articles*
+*Scraped **37,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ adaderanalk | 4,336
 tamilmirrorlk | 4,618
 dailymirrorlk | 4,733
 virakesarilk | 5,886
-adaderanasinhalalk | 6,286
+adaderanasinhalalk | 6,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,442 (100.0%) of 37,442 articles have been extended.
+37,442 (100.0%) of 37,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### බිනුර වෙනුවට රමේෂ් කැඳවයි
+
+*2024-07-26 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199248) · `si`
+
+ඉන්දියාව සමග පැවැත්වෙන විස්සයි විස්ස ජාත්‍යන්තර ක්‍රිකට් තරගාවලිය සඳහා සහභාගී වන ශ්‍රී ලංකා සංචිතය සඳහා  තුන් ඉරියව් ක්‍රීඩක රමේෂ් මෙන්ඩිස් ව ද නම්කර තිබේ.
+
+ඒ එම.සංචිතය ට නම්කර සිටි බිනුර ප්‍රනාන්දු අසනීප වීම හේතුවෙනි.
+
+ක්‍රිකට් ආරංචි මාර්ග පැවසුවේ වේගපන්දු යවන ක්‍රීඩක බිනුර ප්‍රනාන්දුට උණ වැළඳී ඇති බවත් ඉදිරි තරග සඳහා ඔහුගේ සහභාගීත්වය සැක සහිත බවත් ය.
+
+◼️
+
+[Data](articles/05e729b4.json)
+
+---
+
+### ශ්‍රී ලංකාවට ලකුණු 141 ඉලක්කයක්
+
+*2024-07-26 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199247) · `si`
+
+කාන්තා ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ දෙවැනි අවසන් පූර්ව තරගය ශ්‍රී ලංකාව සහ පාකිස්තානය අතර අද (26) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව පාකිස්තානයට ලබා දීමටය.
+
+ඒ අනුව පාකිස්තානය නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 4ක් දැවී ලකුණු 140ක් රැස් කළේය.
+
+තරගය ජයගැනීමට සඳහා ශ්‍රී ලංකා කණ්ඩායමට හිමිවූ ඉලක්කය ලකුණු 141කි.
+
+◼️
+
+[Data](articles/03689657.json)
+
+---
+
+### අගමැතිගේ ප්‍රකාශයට නීතිඥ සාමූහිකයේ විරෝධය
+
+*2024-07-26 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199246) · `si`
+
+වැඩබලන පොලිස්පතිවරයෙකු පත්කිරීම සම්බන්ධයෙන් අගමැතිවරයා අද (26) පාර්ලිමේන්තුවේ දී සිදුකළ ප්‍රකාශයේ කිසිදු වලංගුතාවයක් නොමැති බව නීතීඥ සාමූහිකයේ ජනාධිපති නීතීඥ සාලිය පීරිස් මහතා පවසයි.
+
+ඔහු පවසන්නේ ව්‍යවස්ථාදායක සභාව අධිකරණයේ අභියෝගයට ලක්කළ නොහැකි බවට වන ප්‍රකාශය පදනම් විරහිත බවය.
+
+අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වැඩබලන පොලිස්පතිවරයෙකු පත්කිරීම පිළිබඳ අද පාර්ලිමේන්තුවේ දී ප්‍රකාශයක් කරමින් තවදුරටත් මෙලෙස අදහස් පළ කළේය.
+
+...
+
+[Data](articles/229df899.json)
+
+---
 
 ### Special Notice of the Department of Immigration and Emigration
 
@@ -2229,67 +2279,5 @@ The woman, who was in critical condition, has succumbed to her injuries this mor
 [Data](articles/53493ae3.json)
 
 [Extended Data](ext_articles/53493ae3.ext.json)
-
----
-
-### Presidential Poll: Ex-MP places deposit as independent candidate
-
-*2024-07-26 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100780/presidential-poll-ex-mp-places-deposit-as-independent-candidate) · `en`
-
-Former MP Sarath Keerthiratne has placed his deposit as an independent candidate at the upcoming Presidential Election.
-
-The Election Commission announced that the deposit money for the 2024 Presidential Election can be deposited from 8.30 am today (26) until 12 noon on August 14, the day before the calling of nominations for the election.
-
-Accordingly, a candidate nominated by a recognized political party is required to deposit a sum of Rs. 50,000 in legal tender while a candidate nominated by any other political party or by an elector is required to deposit a sum of Rs. 75,000.
-
-Meanwhile, the Election Commission of Sri Lanka today also issued the Gazette notification announcing the date of the 2024 Presidential Election and the date for the accepting of nominations.
-
-Accordingly, the Presidential Election will be held on 21 September, 2024 and Nominations will be accepted on 15 August 2024, according to the Gazette notification.
-
-◼️
-
-[Data](articles/b38e890e.json)
-
-[Extended Data](ext_articles/b38e890e.ext.json)
-
----
-
-### Elections Commission's Extraordinary Gazette Notification
-
-*2024-07-26 09:01:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழுவின்-அதிவிசேட-வர்த்தமானி-அறிவிப்பு/175-341062) · `ta`
-
-The Election Commission's gazette notification sets the deadline for presidential candidates to submit their nominations by August 14th. Candidates must pay 50,000 rupees if nominated by a political party, or 75,000 rupees if nominated by another party or as an independent voter.
-
-🟩
-
-With the date of the presidential election, the Election Commission has issued an excellent gazette.
-
-The gazette announcement has been announced that candidates contesting the presidential election will be able to deposit their control over the 14th of August.
-
-Accordingly, the candidate should be paid 50 thousand rupees of the name of the nomination by a political party and 75 thousand rupees of the name of the nomination by another political party or a voter.. Remble
-
-◼️
-
-[Data](articles/08ca6587.json)
-
-[Extended Data](ext_articles/08ca6587.ext.json)
-
----
-
-### Announcement on accepting election deposits of presidential candidates
-
-*2024-07-26 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100779/announcement-on-accepting-election-deposits-of-presidential-candidates) · `en`
-
-The Election Commission announced that the deposit money for the 2024 Presidential Election can be deposited from 8.30 am today (26), when the presidential election was announced, until 12 noon on August 14, the day before the calling of nominations for the election.
-
-Accordingly, a candidate nominated by a recognized political party is required to deposit a sum of Rs. 50,000 in legal tender while a candidate nominated by any other political party or by an elector is required to deposit a sum of Rs. 75,000.
-
-The relevant Gazette notification issued in this regard states the following:
-
-...
-
-[Data](articles/18febb58.json)
-
-[Extended Data](ext_articles/18febb58.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 09:20:15**
+As of **2024-07-26 09:35:56**
 
 ## Newspaper Stats
 
-*Scraped **37,330** Articles*
+*Scraped **37,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
-adalk | 3,393
-adaderanalk | 4,315
-tamilmirrorlk | 4,600
+adalk | 3,395
+adaderanalk | 4,318
+tamilmirrorlk | 4,602
 dailymirrorlk | 4,733
 virakesarilk | 5,862
 adaderanasinhalalk | 6,261
@@ -26,11 +26,95 @@ adaderanasinhalalk | 6,261
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,330 (100.0%) of 37,330 articles have been extended.
+37,330 (100.0%) of 37,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### Woman injured in Grandpass shooting also dies
+
+*2024-07-26 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100781/woman-injured-in-grandpass-shooting-also-dies) · `en`
+
+The woman who was receiving treatment for injuries following the shooting in front of the ‘Puradara Sevana’ housing complex at Wadullawatte in Grandpass, Colombo, has also succumbed to her injuries in the early hours of today (26).
+
+The shooting occurred had last evening (25), targeting a man and a woman who were reportedly traveling in a three-wheeler.
+
+The 31-year-old man, identified as K.G.R. Darshana, had succumbed to injuries last night.
+
+The woman, who was in critical condition, has succumbed to her injuries this morning while being treated at the Colombo National Hospital.
+
+◼️
+
+[Data](articles/53493ae3.json)
+
+---
+
+### Presidential Poll: Ex-MP places deposit as independent candidate
+
+*2024-07-26 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100780/presidential-poll-ex-mp-places-deposit-as-independent-candidate) · `en`
+
+Former MP Sarath Keerthiratne has placed his deposit as an independent candidate at the upcoming Presidential Election.
+
+The Election Commission announced that the deposit money for the 2024 Presidential Election can be deposited from 8.30 am today (26) until 12 noon on August 14, the day before the calling of nominations for the election.
+
+Accordingly, a candidate nominated by a recognized political party is required to deposit a sum of Rs. 50,000 in legal tender while a candidate nominated by any other political party or by an elector is required to deposit a sum of Rs. 75,000.
+
+Meanwhile, the Election Commission of Sri Lanka today also issued the Gazette notification announcing the date of the 2024 Presidential Election and the date for the accepting of nominations.
+
+Accordingly, the Presidential Election will be held on 21 September, 2024 and Nominations will be accepted on 15 August 2024, according to the Gazette notification.
+
+◼️
+
+[Data](articles/b38e890e.json)
+
+---
+
+### தேர்தல்கள் ஆணைக்குழுவின் அதிவிசேட வர்த்தமானி அறிவிப்பு
+
+*2024-07-26 09:01:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழுவின்-அதிவிசேட-வர்த்தமானி-அறிவிப்பு/175-341062) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கான திகதி அறிவிக்கப்பட்ட நிலையில், தேர்தல்கள் ஆணைக்குழு அதிவிசேட வர்த்தமானி அறிவத்தல் ஒன்றை வௌியிட்டுள்ளது.
+
+குறித்த வர்த்தமானி அறிவித்தலில் இன்று முதல் எதிர்வரும் ஓகஸ்ட் மாதம் 14 ஆம் திகதி நண்பகல் 12 மணிக்கு இடைப்பட்ட காலப்பகுதியில் ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்கள் தமது கட்டுப்பணத்தை வைப்பிலிட  முடியும் என அறிவிக்கப்பட்டுள்ளது.
+
+அதன்படி,   வேட்பாளர் அங்கீகரிக்கப்பட்ட அரசியல் கட்சியொன்றினால் பெயர் குறித்து நியமனம் செய்யப்பட்ட வேட்பாளராயின் 50 ஆயிரம் ரூபாவும், வேறொரு அரசியல் கட்சியினால் அல்லது வாக்காளர் ஒருவரினால் பெயர் குறித்து நியமனம் செய்யப்பட்ட வேட்பாளராயின் 75 ஆயிரம் ரூபாவும் கட்டுப்பணமாக செலுத்தப்பட வேண்டும். R
+
+◼️
+
+[Data](articles/08ca6587.json)
+
+---
+
+### Announcement on accepting election deposits of presidential candidates
+
+*2024-07-26 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/100779/announcement-on-accepting-election-deposits-of-presidential-candidates) · `en`
+
+The Election Commission announced that the deposit money for the 2024 Presidential Election can be deposited from 8.30 am today (26), when the presidential election was announced, until 12 noon on August 14, the day before the calling of nominations for the election.
+
+Accordingly, a candidate nominated by a recognized political party is required to deposit a sum of Rs. 50,000 in legal tender while a candidate nominated by any other political party or by an elector is required to deposit a sum of Rs. 75,000.
+
+The relevant Gazette notification issued in this regard states the following:
+
+...
+
+[Data](articles/18febb58.json)
+
+---
+
+### பொலிஸ்மா அதிபர் சர்ச்சை குறித்து ஜனாதிபதியின் திடீர் அறிிவிப்பு
+
+*2024-07-26 08:48:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-சர்ச்சை-குறித்து-ஜனாதிபதியின்-திடீர்-அறிிவிப்பு/175-341061) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தல் காலப் பகுதியில் இரண்டு வாரங்களுக்கு ஒரு முறை பதில் பொலிஸ்மா அதிபரை நியமிக்க நேரிடும் போது, அதனை முன்னிலைப்படுத்தி தனக்கு எதிராக தேர்தல் மனுக்கள் தாக்கல் செய்யப்பட்டக்கூடும் என ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு சட்ட ஆலோசனை கிடைத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இதன்படி, இந்த விடயத்தில் தலையீடு செய்வதை தான் தவிர்த்து கொள்வதாக ஜனாதிபதி ரணில் விக்ரமசிங்க, சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவிற்கு அறிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/604b5161.json)
+
+---
 
 ### President Ranil decides not to get involved in IGP issue?
 
@@ -1316,6 +1400,22 @@ When Sri Lanka Development Bonds were repaid in rupees without a haircut, the ce
 
 ---
 
+### මනූෂට හා හරීන්ට එරෙහිව අල්ලස් කොමිෂමට  පැමිණිල්ලක්
+
+*2024-07-25 19:20:55* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂට-හා-හරීන්ට-එරෙහිව-අල්ලස්-කොමිෂමට--පැමිණිල්ලක්/11-411005) · `si`
+
+ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරීන් ප්‍රනාන්දු හා කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර යන මහත්වරුන්ට එරෙහිව පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ වසන්ත යාපා බණ්ඩාර මහතා විසින් ඊයේ (25දා) පෙරවරුවේ අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව වෙත පැමිණිල්ලක් ඉදිරිපත් කර ඇත.
+
+ඒ ඔවුන් දෙදෙනා ඉදිරි ජනාධිපතිවරණය ඉලක්ක කරගෙන රාජ්‍ය දේපළ සහ මුදල් අනිසි ලෙස වියදම් කරමින් රට පුරා සංගීත සංදර්ශන සහ උත්සව පවත්වමින් අනියමින් මැතිවරණ ප්‍රචාරණ කටයුතු සිදු කරන බවට චෝදනා කරමිනි.
+
+අමාත්‍ය හරීන් ප්‍රනාන්දු ඉදිරි ජනාධිපතිවරණය ඉලක්ක කොට ගනිමින් තරුණ සේවා සභාවේ මුදල් නාස්තිකාර ලෙස වියදම් කරමින්, වාර්ෂික සැලැස්මද පසෙක ලා රට පුරා විවිධ සංගීත ප්‍රසංග පවත්වමින්, විදේශ ගායක ගායිකාවන්ට මිලියන ගණන් මුදල් වියදම් කරමින් ඉදිරි මැතිවරණයේදී තම අපේක්ෂකයා ජයග්‍රහණය කරවීමේ මැතිවරණ ප්‍රචාරණ ක්‍රියාවලියක් සිදු කරන බවට මන්ත්‍රීවරයා මෙහිදී චෝදනා කර තිබේ.
+
+◼️
+
+[Data](articles/2f794733.json)
+
+---
+
 ### Wickremabahu - Tamil National Alliance (TNA) sympathy
 
 *2024-07-25 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189376) · `ta`
@@ -1387,6 +1487,24 @@ Police are conducting investigations by detaining the arrested youth at the Chav
 [Data](articles/026882a7.json)
 
 [Extended Data](ext_articles/026882a7.ext.json)
+
+---
+
+### සමරිසි පනතට කාදිනල් හිමිගේත් විරෝධය
+
+*2024-07-25 18:59:07* · [`adalk`](https://www.ada.lk/breaking_news/සමරිසි-පනතට-කාදිනල්-හිමිගේත්-විරෝධය/11-411003) · `si`
+
+සමරිසි අයිතිවාසිකම් පනත් කෙටුම්පත සහ කාන්තා අයිතිවාසිකම් පිළිබඳ පනත් කෙටුම්පත වැරදි ක්‍රමවේද අනුගමනය කරමින් ඉදිරිපත් කර ඇති බවත්, ඒ අනුව මේ හරහා සමාජයේ පළමු අත්තිවාරම වන පවුල දෙදරයා යාමට ඉඩ හැරීම රට විනාශ වීමට හේතු විය හැකි බවත් කොළඹ අගරදගුරැ අති උතුම් මැල්කම් කාදිනල් රංජිත් හිමිපානන් පැවැසූහ.
+
+ඒ අනුව මෙම පනත් කෙටුම්පත් සම්මත වීමට ඉඩ ලබා දිය නොහැකි බව අද (25දා) කොළඹ අගරදගුරැ මැදුරේ ජාතික සමගි සඳහා වූ ආගමික සන්ධානය කැඳවා තිබූ මාධ්‍ය හමුකට එක්වෙමින් උන්වහන්සේ මේ බව සඳහන් කළහ.
+
+මෙම අවස්ථාවට බෞද්ධ, හින්දු, ඉස්ලාම්, කතෝලික සහ ක්‍රිස්තියානි ආගමිනක නායකයන්ගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+
+"දොලවත්ත මහත්මයා ඉදිරිපත්පත් කළ පනත පිළිබඳ සහ ඒ සමගම රජය විසින් ඉදිරිපත් කරන්න සැලසුම් කර තිබෙන කාන්තා අයිතිවාසිකම් පිළිබඳ පනත යන පනත් දෙකෙන්ම ඒවගේ කරැණු පැහැදිලි කරගෙන යද්දි ඉතාමත් භයානක තත්ත්වයක් ශ්‍රී ලංකාව තුළ නිර්මාණය කරන්නට පියවර තබමින් සිටින බව පෙනී යනවා.
+
+...
+
+[Data](articles/e4b73cd4.json)
 
 ---
 
@@ -2075,153 +2193,5 @@ Meanwhile, the Supreme Court yesterday issued three interim injunctions. If nece
 [Data](articles/3f5bd337.json)
 
 [Extended Data](ext_articles/3f5bd337.ext.json)
-
----
-
-### Hurricane, severe effects Taiwan
-
-*2024-07-25 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199202) · `si`
-
-The 'GAEMI' cyclone has caused severe flooding in parts of North Taiwan, resulting in three deaths and a shipwreck. This is the most devastating hurricane to hit Taiwan in eight years. It is expected to move towards Taiwan and then into China's Fujian Province.
-
-🟩
-
-It is reported that there have been floods in some areas due to the 'GAEMI' cyclone affected by North Taiwan.
-
-Three of them were killed and a carrier of carrier had dropped.
-
-This is the worst hurricane that was affected by Taiwan in eight years.
-
-The hurricane is due to enter Taiwan and enter the Fujian Province of China.
-
-◼️
-
-[Data](articles/a5a05a86.json)
-
-[Extended Data](ext_articles/a5a05a86.ext.json)
-
----
-
-### Sri Lanka stocks close down amid election speculation
-
-*2024-07-25 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amid-election-speculation-173781/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, after two candidates announced they would be contesting at Sri Lanka’s upcoming presidential election.
-
-The broader All Share Index closed down 0.52 percent, or 61.09 points, at 11,640; while the more liquid S&P SL20 Index closed down 0.80 percent, or 27.27 points, at 3,386.
-
-“Now that elections are about to be announced, there’s a lot of uncertainty in the market; investors worry about what direction the country will take if the president is changed,” Softlogic Stockbrokers said. “If things change drastically, there could be an impact on fiscal policy and everything.”
-
-Sri Lanka’s Election Commission said it will gazette the day for the polls on Friday.
-
-“Given that we have targets set with this IMF programme, and we have not completed 16 previous programmes, a possible change is viewed negatively. There could be a lot of volatility in the market.”
-
-...
-
-[Data](articles/1c4a0a8e.json)
-
-[Extended Data](ext_articles/1c4a0a8e.ext.json)
-
----
-
-### Appeals Court stays hearing on Thilanga’s plaint against Nimal Siripala
-
-*2024-07-25 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100768/appeals-court-stays-hearing-on-thilangas-plaint-against-nimal-siripala-) · `en`
-
-The Court of Appeal has issued an interim order to the Maligakanda Magistrate’s Court preventing the further hearing of the private plaint filed by the General Secretary of the United People’s Freedom Alliance (UPFA), Thilanga Sumathipala against Minister Nimal Siripala de Silva regarding the issue concerning the head office of the Sri Lanka Freedom Party (SLFP).
-
-The Appeals Court yesterday (24) issued this interim order, effective until August 06, after taking into consideration the writ petition filed by Minister Nimal Siripala de Silva.
-
-◼️
-
-[Data](articles/a1161a19.json)
-
-[Extended Data](ext_articles/a1161a19.ext.json)
-
----
-
-### Namal says the crisis with Ranil
-
-*2024-07-25 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199201) · `si`
-
-Namal Rajapaksa, after a party meeting, expressed mixed feelings about supporting Ranil Wickremesinghe due to internal divisions within their party. Despite past disagreements, they acknowledge aiding Wickremesinghe and are open to further discussions regarding government formation. They are also considering other candidates for the presidency before making a final decision.
-
-🟩
-
-Namal Rajapaksa says that the Lega person to support Mr. Ranil Wickremesinghe is divided by the Civil Front.
-
-Namal Rajapaksa made this statement after a meeting held at the party's office today (25).
-
-"We supported Ranil Wickremesinghe. Whatever we do not match, we did nothing. But as a party, we have broken the party in two. So we'll take a political decision. But we sincerely helped Mr. Ranil. He does not do so. To the habit. We know that when we bring him. The UNP broke, the SLFP and the good governance government broke the JVP and broke the LTTE. "
-
-"We are discussing with Ranil Wickremesinghe today. If you come to a place, you are ready to discuss a government. "
-
-"We are discussing everyone who has been announced to the presidential election. Then takes a final decision. "
-
-◼️
-
-[Data](articles/25965838.json)
-
-[Extended Data](ext_articles/25965838.ext.json)
-
----
-
-### Opposition to measure public lands to set up windmills in Mannar Basalai area
-
-*2024-07-25 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189361) · `ta`
-
-Residents of Mannar oppose land measurement for windmill setup, leading to protests and shop closures. Despite police assistance, locals block surveys on public and temple lands, halting government plans.
-
-🟩
-
-The people of the Mannar Divisional Secretariat Division, when the relevant department officials arrived at the area on Thursday morning (25), the people of the area have been suspended to protest the land survey.
-
-The Mannar Island people and public organizations are continuously protesting against the construction of wind farm on the Mannar Island and the construction of the 2nd phase of the wind power generation tower in the Pasalai area.
-
-All the shops in Pasal were closed today to protest the land surveying of the public in the Basal area, as the police were informed that the land was reported to have been reported to have been reported to have been reported to have been reported to have been reported to have been informed by the police to set up land belonging to the Holy Victory Temple and the public.
-
-...
-
-[Data](articles/28abcedc.json)
-
-[Extended Data](ext_articles/28abcedc.ext.json)
-
----
-
-### Answer
-
-*2024-07-25 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189352) · `ta`
-
-Susil Premajayantha, Chief Minister and Minister of the Council, suggested that the appointment of the Inspector General of Police should involve both ruling and opposition parties. This comes amid controversy over the police chief's interim injunction and concerns about the immediate appointment of the Deputy Inspector General of Police. The Constitutional Council's role in appointments and potential legal challenges were also discussed, highlighting the need for the government to act responsibly and avoid delays in implementing court decisions.
-
-🟩
-
-In response, the Chief Minister and Minister of the Council, Susil Premajayantha, said that the appointment of the Inspector General of Police should be carried out among the ruling opposition members.
-
-Parliament met on Thursday (25) headed by Deputy Speaker. Following the main proceedings, the opposition leader Sajith Pratheesa has risen and the police chief has issued an interim injunction, raising suspicion that the Deputy Inspector General of Police. He said steps should be taken to appoint the Deputy Inspector General of Police immediately.
-
-...
-
-[Data](articles/90b36c5d.json)
-
-[Extended Data](ext_articles/90b36c5d.ext.json)
-
----
-
-### Nuwan Thushara loses Indian competition
-
-*2024-07-25 15:43:45* · [`adalk`](https://www.ada.lk/breaking_news/නුවන්-තුෂාරට-ඉන්දීය-තරගාවලිය-අහිමි-වෙයි/11-410995) · `si`
-
-Nuwan Thushara withdraws from India's T20 due to injury; SLC confirms no village player in squad. Left-arm bowler Dilshan replaces him in the team. Matches scheduled for tomorrow.
-
-🟩
-
-SLC announces that no village will not play play for the tournament in the squad for India's Twenty20.. It is the cause of his left threshold during training in the tournament. Left-bowler Dilshan has been called on left-handed team to the blank group. Three matches will be held tomorrow (27th) to tomorrow.
-
-◼️
-
-[Data](articles/e4eb8713.json)
-
-[Extended Data](ext_articles/e4eb8713.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 00:36:02**
+As of **2024-07-27 00:53:13**
 
 ## Newspaper Stats
 
-*Scraped **37,485** Articles*
+*Scraped **37,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,134
 economynextcom | 2,252
-dailyftlk | 2,404
+dailyftlk | 2,405
 adalk | 3,412
 adaderanalk | 4,339
 tamilmirrorlk | 4,622
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,470 (100.0%) of 37,485 articles have been extended.
+37,477 (100.0%) of 37,486 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ President Ranil Wickremesinghe yesterday expressed his belief that it is possibl
 
 [Data](articles/a83dce13.json)
 
+[Extended Data](ext_articles/a83dce13.ext.json)
+
 ---
 
 ### Interim order of Supreme Court and implications
@@ -70,6 +72,8 @@ Deshabandu Thennakoon should promptly comply with the SC order. Orders of higher
 
 [Data](articles/15df6f1c.json)
 
+[Extended Data](ext_articles/15df6f1c.ext.json)
+
 ---
 
 ### SL and Pakistan sign MOU to cooperate in dealing with corruption
@@ -85,6 +89,8 @@ The MOU endeavours strengthening collaborative efforts against corruption and mo
 ◼️
 
 [Data](articles/5d830ac2.json)
+
+[Extended Data](ext_articles/5d830ac2.ext.json)
 
 ---
 
@@ -102,23 +108,31 @@ During the meeting, Minister Dr. Tan expressed Singapore’s strong desire to co
 
 [Data](articles/ca8796ea.json)
 
+[Extended Data](ext_articles/ca8796ea.ext.json)
+
 ---
 
-### முச்சக்கர வண்டி சாரதி கொலை: இருவர் கைது
+### Three -wheeler driver murder: two arrested
 
 *2024-07-27 00:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டி-சாரதி-கொலை-இருவர்-கைது/175-341101) · `ta`
 
-குருந்துவத்தை - வார்ட் பிளேஸ் தேசிய பல் வைத்தியசாலைக்கு முன்பாக முச்சக்கர வண்டி சாரதி ஒருவர் கத்தியால் குத்திக்கொலை செய்யப்பட்டுள்ளதாக கொழும்பு குற்றத்தடுப்பு பிரிவு தெரிவித்துள்ளது
+In a shocking incident, a three-wheeler driver was murdered near Ward Place National Dental Hospital. Two suspects, who fled the scene in a stolen three-wheeler, were later apprehended. Police recovered a knife and drugs used in the crime, which occurred during an attempted cellphone theft at midnight on the 23rd.
 
-இந்த கொலையினை மேற்கொண்ட பின்னர் முச்சக்கரவண்டியுடன் தப்பிச்சென்ற சந்தேகநபர்கள் மூவரில் இருவர் திருடப்பட்ட முச்சக்கர வண்டியுடன் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேகநபர்கள் இருவரில் பிரதான சந்தேகநபரும் அடங்குவதாகவும், கொலைக்கு பயன்படுத்தப்பட்ட கூரிய கத்தி மற்றும் ஐஸ் போதைப்பொருள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+A three -wheeler driver has been stabbed to death in front of Ward Place National Dental Hospital
 
-சந்தேகநபர்களிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, ​​கடந்த 23ஆம் திகதி நள்ளிரவில் கைப்பேசி ஒன்றை திருடுவதற்காக இந்த கொலை மேற்கொள்ளப்பட்டுள்ளதாக தெரியவந்துள்ளது. (a)
+Two suspects who escaped with a three -wheeler after the murder have been arrested with a stolen three -wheeler.
+
+The two suspects were among the main suspects and the police have seized the sharp knife and ice drug used for the murder.
+
+Investigations into the suspects revealed that the murder was carried out to steal a cell phone at midnight on the 23rd.. (A)
 
 ◼️
 
 [Data](articles/8518fd72.json)
+
+[Extended Data](ext_articles/8518fd72.ext.json)
 
 ---
 
@@ -136,6 +150,8 @@ Animal activists from Beragala near Haputale in the Badulla District are charity
 
 [Data](articles/1e4c8dec.json)
 
+[Extended Data](ext_articles/1e4c8dec.ext.json)
+
 ---
 
 ### Prime Minister and Ministers give green light to operationalising Citra 3.0
@@ -147,6 +163,8 @@ Prime Minister Dinesh Gunawardena convened a meeting on Wednesday with the Co-Ch
 ...
 
 [Data](articles/412c02fd.json)
+
+[Extended Data](ext_articles/412c02fd.ext.json)
 
 ---
 
@@ -285,6 +303,20 @@ Democracy today is the dominant principle and practice throughout the world to l
 ...
 
 [Data](articles/b86a2a98.json)
+
+---
+
+### Governance, economy and day of reckoning
+
+*2024-07-26 23:15:52* · [`dailyftlk`](https://www.ft.lk/columns/Governance-economy-and-day-of-reckoning/4-764793) · `en`
+
+The Aragalayists were not a bunch of romantically attached revolutionaries representing any dead leader or outdated theories. Instead, they were eye witnesses to a system of governance which for decades promised one thing but delivered quite another
+
+If there is one glaring failure of Sri Lanka’s 76 years of democratic experience, it is the failure to produce good governance. That was made clear when IMF, after reviewing the economy’s performance over the last two years and under its direction, stressed the importance of serious reforms in governance if the economy were to move forward and achieve sustainable growth. The reasons for bad governance are several to enumerate and discuss here, but they all stem from the one single root – the political preoccupation to subvert Sri Lanka’s democracy into a Sinhala Buddhist supremacist ethnocracy
+
+...
+
+[Data](articles/58b2f9cd.json)
 
 ---
 
@@ -2235,27 +2267,5 @@ I'm not taking reading time. I table the Police Ordinance.Don't know if you don'
 [Data](articles/45b07ca9.json)
 
 [Extended Data](ext_articles/45b07ca9.ext.json)
-
----
-
-### Ruwan Gunasekara appointed acting police spokesman
-
-*2024-07-26 12:06:17* · [`adalk`](https://www.ada.lk/breaking_news/වැඩ-බලන-පොලිස්-මාධ්‍ය-ප්‍රකාශක-ලෙස-රුවන්-ගුණසේකර-මහතා-පත්-කරයි/11-411016) · `si`
-
-Ruwan Gunasekara is now the acting police spokesman, replacing Nihal Thaluda who will return to his position after being abroad.
-
-🟩
-
-Ruwan Gunasekara has been appointed as the acting police spokesman.
-
-Ruwan Gunasekera has been appointed as the Police Media Spokesperson Nihal Thaluduwa abroad.
-
-It is reported that Mr. Thaluda returns to the island again, he is said to be a police media spokesman again.
-
-◼️
-
-[Data](articles/bbc9cb08.json)
-
-[Extended Data](ext_articles/bbc9cb08.ext.json)
 
 ---

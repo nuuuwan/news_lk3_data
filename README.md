@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 18:37:54**
+As of **2024-07-26 18:55:02**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,432 (100.0%) of 37,433 articles have been extended.
+37,433 (100.0%) of 37,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### பாஸ்போட் கந்தோரில் பதற்றம்
+### Tension in phosphot gandor
 
 *2024-07-26 18:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாஸ்போட்-கந்தோரில்-பதற்றம்/175-341083) · `ta`
 
-பத்தரமுல்ல  குடிவரவு திணைக்களத்தில் பதற்ற்மான நிலமை ஏற்பட்டிருந்தது. பொலிஸார் தலையிட்டு நிலைமையை கட்டுப்பாட்டுக்குள் கொண்டு வந்தனர்.
+A tense situation arose in the Immigration Department, escalating when individuals stormed the office on the fifth floor. Police intervention calmed the scene, which had been fraught since morning due to efforts to limit daily passport issuance.
 
-ஐந்தாவது மாடியில் அமைந்துள்ள குடிவரவு குடியகழ்வுக் கட்டுப்பாட்டாளர் நாயகத்தின் அலுவலகத்திற்குள் இன்று (26) பிற்பகல் சிலர் அத்துமீறி நுழைந்துள்ளனர் இதனை அடுத்தே பதற்றம் நிலவியது
+🟩
 
-நாளொன்றுக்கு வழங்கப்படும் கடவுச்சீட்டுகளின் எண்ணிக்கையை கட்டுப்படுத்தும் தீர்மானம் தொடர்பில் இன்று காலை முதல் குடிவரவு குடியகழ்வு திணைக்களத்தில் பதற்றமான சூழல் நிலவியது
+There was a tense situation in the Department of Immigration. The police intervened and brought the situation under control.
+
+Some people have entered the office of the Immigration Control Control Control Control Control Controller on the fifth floor this afternoon.
+
+The Immigration and Emigration Department has been in a tense environment from this morning on the resolution to control the number of passports issued per day.
 
 ◼️
 
 [Data](articles/3cae2193.json)
+
+[Extended Data](ext_articles/3cae2193.ext.json)
 
 ---
 

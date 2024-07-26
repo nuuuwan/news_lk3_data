@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 07:49:12**
+As of **2024-07-26 08:25:00**
 
 ## Newspaper Stats
 
-*Scraped **37,317** Articles*
+*Scraped **37,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ islandlk | 2,129
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,393
-adaderanalk | 4,313
-tamilmirrorlk | 4,597
+adaderanalk | 4,314
+tamilmirrorlk | 4,600
 dailymirrorlk | 4,733
 virakesarilk | 5,862
-adaderanasinhalalk | 6,257
+adaderanasinhalalk | 6,260
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,317 (100.0%) of 37,317 articles have been extended.
+37,321 (100.0%) of 37,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### පොලිස්පති අර්බුදය ගැන ජනපතිගේ ස්ථාවරය කියයි
+
+*2024-07-26 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199218) · `si`
+
+ඉදිරි ජනාධිපතිවරණ සමය තුළදී සති දෙකකට වරක් වැඩබලන පොලිස්පතිවරයෙකු පත්කිරීමට සිදු වුවහොත් එම කරුණ මත පදනම්ව තමාට මැතිවරණ පෙත්සම් ඉදිරිපත් විය හැකි බවට ජනපති රනිල් වික්‍රමසිංහ මහතා වෙත නීති උපදෙස් ලැබී ඇත.
+
+ඒ අනුව තමා මෙම කටයුතුවලට මැදිහත්වීමෙන් වැළකී සිටින බව ජනාධිපතිවරයා විසින් මීට සුළු මොහොතකට පෙර කථානායකවරයා වෙත දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/dae03d1d.json)
+
+---
+
+### இன்று ஆரம்பிக்கிறது பரிஸ் 2024
+
+*2024-07-26 08:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இன்று-ஆரம்பிக்கிறது-பரிஸ்-2024/44-341060) · `ta`
+
+பிரெஞ்சுத் தலைநகர் பரிஸில் இன்றிரவு 11 மணிக்கு 33ஆவது கோடை கால ஒலிம்பிக் போட்டிகள் ஆரம்பிக்கின்றன.
+
+கால்பந்தாட்டம், றக்பி உள்ளிட்ட போட்டிகள் புதன்கிழமையே (24) ஆரம்பித்துள்ளபோதும் 206 தேசங்களின் பங்குபற்றுதலில் 32 வகையான விளையாட்டுக்களிலிருந்து 329 வகைப் போட்டிகளில் 10,714 வீரர்களின் பங்குபற்றுதலுடன் ஆரம்பிக்கின்ற இப்போட்டிகள் அடுத்த மாதம் 11ஆம் திகதி வரை நடைபெறவுள்ளன.
+
+முதன்முறையாக அரங்கத்துக்கு வெளியே ஆரம்ப நிகழ்வு இடம்பெறவுள்ளதுடன், ஆறு கிலோ மீற்றர் நீளமான சென் ஆற்றில் படகுகளில் வீரர்கள் அழைத்துச் செல்லப்படவுள்ளனர்.
+
+...
+
+[Data](articles/b5742ccf.json)
+
+---
+
+### 2024 Presidential Election to be held on September 21
+
+*2024-07-26 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100777/2024-presidential-election-to-be-held-on-september-21) · `en`
+
+The Election Commission of Sri Lanka has issued the Gazette notification announcing the date of the 2024 Presidential Election and the date for the accepting of nominations.
+
+Accordingly, the Presidential Election will be held on 21 September, 2024 and Nominations will be accepted on 15 August 2024, according to the Gazette notification.
+
+The Gazette states that the term of the President expires on November 17, 2024 and, that the poll for the election of the President shall be taken not less than one month and not more than two months before the expiration of the term of office of the President in office, as stipulated in Article 31 (3) of the Constitution.
+
+Thereby, the Election Commission declares 15th August 2024 as the date of nomination of candidates for the Election of the President and the office of the Election Commission in Rajagiriya, as the place of nomination of candidates for the said election.
+
+...
+
+[Data](articles/5cee89bf.json)
+
+[Extended Data](ext_articles/5cee89bf.ext.json)
+
+---
+
+### The date of presidential election is announced
+
+*2024-07-26 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199217) · `si`
+
+The Election Commission announces the 2024 presidential election will take place on September 21.
+
+🟩
+
+The 2024 presidential election will be held on September 21, says the Election Commission.
+
+◼️
+
+[Data](articles/e70f4bf3.json)
+
+[Extended Data](ext_articles/e70f4bf3.ext.json)
+
+---
+
+### The gazette of the presidential election today today
+
+*2024-07-26 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199216) · `si`
+
+The gazette notification for the 2024 presidential election will be released soon, detailing nomination dates, locations, and the election date. The Elections Commission submitted it to the Government Press before midnight yesterday.
+
+🟩
+
+The gazette notification of the 2024 presidential election is due to be announced in another few hours.
+
+Accordingly, the gazette notification is to be announced by the gazette notification on the date of nominations, location and election date.
+
+A senior spokesman said that the Elections Commission was sent to the Government Press by midnight yesterday (25) to declare the gazette notification.
+
+◼️
+
+[Data](articles/6b6bce63.json)
+
+[Extended Data](ext_articles/6b6bce63.ext.json)
+
+---
 
 ### Woman dies after shooting Grandpass
 
@@ -308,6 +398,22 @@ CH17 Loyalty CEO Jumar Preena said: “By joining forces, we will nearly double 
 
 ---
 
+### ‘உறுமய அரசியல் வேலைத்திட்டம் அல்ல’
+
+*2024-07-26 02:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறுமய-அரசியல்-வேலைத்திட்டம்-அல்ல/175-341056) · `ta`
+
+முழு உரிமையுள்ள காணி உறுதிப் பத்திரம் வழங்கும் ‘உறுமய’ வேலைத் திட்டம் அரசியல் வேலைத்திட்டம் அல்ல. எனவே தேர்தல் காலங்களிலும் இத்திட்டம் தொடர்ந்தும் செயற்படும் என்று சுற்றுலாத்துறை மற்றும் காணி அமைச்சின் செயலாளர் சோமரத்ன விதான பத்திரன தெரிவித்தார்.
+
+‘இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்’ என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டபோத சுற்றுலாத்துறை மற்றும் காணி அமைச்சின் செயலாளர் சோமரத்ன விதான பத்திரன இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+இந்த இரண்டு வருட காலப்பகுதியில் இலங்கை மக்களுக்கான மிக முக்கியமான வேலைத்திட்டமான ‘உறுமய’ காணி உறுதிப்பத்திரங்களை வழங்கும் நிகழ்ச்சித்திட்டம் எமது அமைச்சின் கீழ் முன்னெடுக்கப்பட்டு வருகின்றது. இத்திட்டத்தின் மூலம் இரண்டு ஆண்டுகளில் 20 லட்சம் காணி உறுதிப்பத்திரங்களை வழங்க எதிர்பார்த்துள்ளோம். இதுவரை 100,000 இற்கும் மேற்பட்ட விண்ணப்பங்கள் கிடைத்துள்ளன.
+
+...
+
+[Data](articles/b77391bd.json)
+
+---
+
 ### Hela and Authentic Brands Group announce outerwear partnership for Reebok
 
 *2024-07-26 02:31:26* · [`dailyftlk`](https://www.ft.lk/business/Hela-and-Authentic-Brands-Group-announce-outerwear-partnership-for-Reebok/34-764765) · `en`
@@ -345,6 +451,34 @@ Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has accused President Rani
 [Data](articles/e3a83153.json)
 
 [Extended Data](ext_articles/e3a83153.ext.json)
+
+---
+
+### New Progress in Tea Tea Industry
+
+*2024-07-26 02:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலை-கைத்தொழிலில்-புதிய-முன்னேற்றம்-அவசியம்/175-341055) · `ta`
+
+President Ranil Wickremesinghe emphasized the importance of planning for Sri Lanka's tea industry to boost exports, during the 'Colombo International Tea Conference'. Organized by the Colombo Tea Traders Association and the Sri Lanka Tea Board, the event featured international experts and showcased local tea manufacturers. The President highlighted the potential for small plantation owners to transition to agricultural trade, including smart farming, and encouraged companies to expand internationally without hindrance from the government, aiming for Sri Lanka to lead the global tea market.
+
+🟩
+
+President Ranil Wickremesinghe said that the Sri Lankan tea industry is not essential in all dimensions to move the country towards the export economy and that a proper plan will be implemented with the state and private sector.
+
+The President said this while addressing the inauguration of the 'Colombo International Tea Conference' which was commenced yesterday at the Chinaman Grand Hotel in Colombo.
+
+The Colombo Tea Traders Association and the Sri Lanka Tea Board have organized a two -day conference on the theme 'Tea - One Life and Life'.
+
+The exhibition of tea manufacturers in Sri Lanka and its related trade is also organized.
+
+Professors, experts, leading trading names and social organizations from many countries such as Sri Lanka, Kenya, China, India, Japan, Britain, the Gulf and the United States participated in the event.
+
+The exhibitions of our tea manufacturers and many of its associated businesses were organized.
+
+...
+
+[Data](articles/a55c3e37.json)
+
+[Extended Data](ext_articles/a55c3e37.ext.json)
 
 ---
 
@@ -2097,191 +2231,5 @@ Fishermen and farmers have been facing various distress as farmers and fishermen
 [Data](articles/04e6f4ee.json)
 
 [Extended Data](ext_articles/04e6f4ee.ext.json)
-
----
-
-### A survey reveals about life after the economic crisis
-
-*2024-07-25 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199199) · `si`
-
-A post-economic crisis survey shows 22% of households are in debt, with 60.5% experiencing reduced income. The education sector was hit hard, affecting 54.9%, and 93.5% of those impacted adopted coping strategies. Job losses were significant, especially among males, with 14.2% of 15-year-olds unemployed. Health expenses rose for 91% of respondents, and 81.7% reported difficulty accessing medical care due to financial constraints.
-
-🟩
-
-The Department of Census and Statistics say that 22% of the country's household is owed due to the economic crisis.
-
-The department points out that the average monthly income of 60.5 percent of the total household is reduced.
-
-According to the report of the household survey, the year 2023 of the year's domestic survey revealed.
-
-The education sector of 54.9 percent of the economic crisis has been affected by the Department of Census and Strategies that 93.5% of them have followed the strategies.
-
-Due to the influence of the economic crisis, 14.2 percent of the age of 15 has lost their jobs and the percentage of men's job loss in relation to women.
-
-The survey conducted by the Department of Census and Statistics have revealed that the average monthly expenditure of 91 percent in 2023 has increased their health mode.
-
-The majority of 81.7 percent of the treatment of treating treatment has stated that due to the absence of sufficient money.
-
-◼️
-
-[Data](articles/b3bc9bf1.json)
-
-[Extended Data](ext_articles/b3bc9bf1.ext.json)
-
----
-
-### Fuel shipping over the Philippines
-
-*2024-07-25 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189351) · `ta`
-
-A fuel ship, MT Terra Nova, crashed near Manila, spilling about 15 lakh liters of fuel. The incident occurred as it headed to the central city, causing fuel leakage. Rescuers saved 16 out of 17 crew members; four received medical treatment. The Transport Minister announced efforts to find the missing crew member amidst severe weather conditions. This follows a similar incident in 2023, where a ship sank off Oriental Mindoro, affecting local residents with health issues due to the oil spill cleanup.
-
-🟩
-
-A fuel ship crashed near Manila, the capital of the Philippines, on Thursday (25).
-
-Officials said the ship had about 15 lakh liters of fuel.
-
-They further stated that a few kilometers of fuel has caused fuel leakage.
-
-The incident occurred when the ship "MT Terra Nova" was heading towards the central city of the Philippines in the early morning.
-
-16 out of 17 employees on the ship have been rescued. Four people have been given medical treatment.
-
-Transport Minister Jaime Bautista has said that the search for an missing employee is underway and severe wind and tall waves are disrupted.
-
-There are fishermen community in the coastal area of ​​Manila Bay, where the ship sank, and there are shipping routes, commercial complexes and casino hotels.
-
-In 2023, the ship carrying 800,000 liters of fuel sank on the coast of Oriental Mindoro province.
-
-...
-
-[Data](articles/2a739366.json)
-
-[Extended Data](ext_articles/2a739366.ext.json)
-
----
-
-### It is unfair to legalize the projects of the Monetary Fund - Harsha de Silva
-
-*2024-07-25 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189349) · `ta`
-
-Harsha de Silva criticizes legalizing IMF projects via the Economic Transfer Bill due to the short tenure of the current government. He supports the State Financial Management Bill but opposes its implementation by the IMF, citing unrealistic expectations and the government's inability to meet them.
-
-🟩
-
-It is unreasonable for the International Monetary Fund to enlighten the International Monetary Fund through the Economic Transfer Bill because this government will be in office for two more months.
-
-He was speaking at a debate on the Economic Transfer Bill and the State Finance Management Bill held in Parliament on Thursday (25).
-
-We are not opposed to the State Financial Management Bill.
-
-We are not going to oppose everything because of the opposition. We will fully support the bill.
-
-Earlier, the legislation of the state financial responsibility was enacted, but the law was not given the authority.
-
-It is stated that the government's primary expenses of Article 15 of the Bill should be defined as 13 per cent. In any country, the laws that define primary expenses are limited by 20 percent.
-
-We are not in the position of talking in the morning and talking about the other at night. We are expecting a change that people expect.
-
-...
-
-[Data](articles/27ebaa94.json)
-
-[Extended Data](ext_articles/27ebaa94.ext.json)
-
----
-
-### Opposition to support Sri Lanka’s new public finance law but not Economic Transformation Bill
-
-*2024-07-25 14:31:00* · [`economynextcom`](https://economynext.com/opposition-to-support-sri-lankas-new-public-finance-law-but-not-economic-transformation-bill-173751/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition party the Samagi Jana Balawegaya (SJB) has expressed conditional support for the Public Finance Management Bill but not for he Economic Transformation Bill, SJB MP Harsha de Silva said.
-
-MP de Silva, who also chairs the parliamentary Committee on Public Finance (COPF) tweeted Thursday July 25 afternoon that the SJB has expressed support for the Public Finance Management Bill but also proposed an amendment to what he called the bill’s “unrealistic” primary expenditure limit.
-
-The SJB’s opposition to the Economic Transformation Bill, he said, was  “not because of ideology but because the forced International Monetary Fund (IMF)  targets” into the bill with weeks to go to Sri Lanka’s presidential election.
-
-COPF, which de Silva chairs, passed the Public Financial Management bill on July 11. The bill, once enacted, would replace the Fiscal Management (Responsibility) Act.
-
-...
-
-[Data](articles/498adc20.json)
-
-[Extended Data](ext_articles/498adc20.ext.json)
-
----
-
-### Police officers who kicked and assaulted Pakistan youth at Britain's Manchester Airport
-
-*2024-07-25 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189350) · `ta`
-
-Videos circulating on social media show police officers at Manchester Airport, UK, assaulting a Pakistani youth. The footage depicts officers kicking and trampling on the individual, sparking debates about excessive force and potential racial bias. Following the incident, which occurred after an attack on the police where a female officer was injured, one officer involved has been reassigned. This incident has raised concerns over the use of force by British police and allegations of racism.
-
-🟩
-
-A video of police officers at the Manchester Airport in Britain has been released.
-
-In a widespread video on social media, a police officer is trampling on a person's head.
-
-A video of a person is seen on the ground and two policemen stretching towards him.
-
-The video then shown a video of a police officer on the face of a person.
-
-Thereafter, in the same video, a person can see a person falling to the ground and holding his hands behind the back and one kicks the person with the leg.
-
-Following the release of these videos, the question of whether the police in Britain are using the right strength and controversy.
-
-The incidents took place only after the attack on the police, and a female police officer was injured, Manchester police said.
-
-Meanwhile, a police officer found in a particular video has been removed from leading work.
-
-Meanwhile, Dul Babu, a former senior officer of the Metropolitan Police, said that racism was the cause of the attack.
-
-◼️
-
-[Data](articles/80dd137a.json)
-
-[Extended Data](ext_articles/80dd137a.ext.json)
-
----
-
-### Two critical in double cab–lorry collision
-
-*2024-07-25 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/100767/two-critical-in-double-cablorry-collision) · `en`
-
-Two persons were reportedly critically injured following an accident involving a double cab and a lorry transporting motorcycles near the Dombagahawela Fuel Station on the Monaragala - Siyambalanduwa main road.
-
-The accident had resulted in the cab driver and a passenger being trapped inside the vehicle. Residents in the area had rescued the two trapped individuals following significant efforts while they were then quickly rushed to the Monaragala District General Hospital.
-
-Both injured persons are residents of the Mahakalugolla area, Police said.
-
-The lorry driver has been arrested by Dombagahawela Police who are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/10c1ec4d.json)
-
-[Extended Data](ext_articles/10c1ec4d.ext.json)
-
----
-
-### Presidential Election: Tomorrow Gazette
-
-*2024-07-25 14:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தல்-நாளை-வர்த்தமானி/175-341016) · `ta`
-
-The Election Commission will announce the 2024 presidential election date tomorrow. It denies involvement in party comments regarding the election date and other decisions.
-
-🟩
-
-The Election Commission has announced that it will be announced tomorrow (26) on the date of the presidential election for 2024.
-
-In this case, the Election Commission has said that the Commission has nothing to do with the comments of the individual parties on the date of the presidential election and other resolutions.. Remble
-
-◼️
-
-[Data](articles/5f100156.json)
-
-[Extended Data](ext_articles/5f100156.ext.json)
 
 ---

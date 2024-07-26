@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 11:35:56**
+As of **2024-07-26 11:55:49**
 
 ## Newspaper Stats
 
-*Scraped **37,360** Articles*
+*Scraped **37,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,78 +13,132 @@ colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,133
-economynextcom | 2,238
+economynextcom | 2,244
 dailyftlk | 2,389
 adalk | 3,400
-adaderanalk | 4,324
+adaderanalk | 4,325
 tamilmirrorlk | 4,605
 dailymirrorlk | 4,733
 virakesarilk | 5,864
-adaderanasinhalalk | 6,268
+adaderanasinhalalk | 6,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,354 (100.0%) of 37,360 articles have been extended.
+37,360 (100.0%) of 37,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### හමාස් නායකයෙක් මරුට
+### පොලිස්පති අවුල යළිත් අධිකරණයටම භාරදෙයි
+
+*2024-07-26 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199227) · `si`
+
+පොලිස්පති ලෙස දේශබන්දු තෙන්නකෝන් මහතාව පත්කිරීම සම්බන්ධයෙන් කථානායක මහින්ද යාපා අබේවර්ධන මහතා අද (26) පාර්ලිමේන්තුවේදී විශේෂ පැහැදිලි කිරීමක් කළේය.
+
+ඔහු එහිදී පැවසුවේ පොලිස්පතිවරයාව පත් කිරීමට ගත් තීරණය නිවැරදි, නිත්‍යානුකූල, ව්‍යවස්ථානුකූල සහ සද්භාවයෙන් ගත් තීරණයක් බවය.
+
+දැනට මතුවී ඇති ගැටලුව ජනාධිපතිවරයාටත් විසඳිය නොහැකි බව පැවසූ කථානායකවරයා පෙන්වා දුන්නේ එය අධිකරණය මගින් විසඳිය යුතු බවය.
+
+◼️
+
+[Data](articles/765a28e1.json)
+
+---
+
+### Decision to appoint IGP was constitutional - Speaker tells Parliament
+
+*2024-07-26 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100788/decision-to-appoint-igp-was-constitutional-speaker-tells-parliament-) · `en`
+
+The Speaker of the Parliament Mahinda Yapa Abeywardena has informed the Parliament that the decision to appoint the Inspector General of Police (IGP) was correct, legal, constitutional, and made in good faith.
+
+He further said that the situation with regard to the IGP cannot be resolved even by the President, and the matter must be sorted out in court if necessary.
+
+◼️
+
+[Data](articles/5135490d.json)
+
+---
+
+### Hamas leader dies
 
 *2024-07-26 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199226) · `si`
 
-පලස්තීන බටහිර ඉවුරේ හමාස් නායකයා ලෙස කටයුතු කළ මුස්ටාෆා මුහම්මද් අබූ අරා ජීවිතක්ෂයට පත්වී තිබේ.
+Muztafa Muhammad Abu Army, former Hamas leader in the West Bank, died during hospital treatment in Israel, allegedly mistreated by Israeli defense forces. The incident follows a series of attacks targeting Hamas members, resulting in 18 Palestinian deaths over the past 10 months.
 
-රොයිටර්ස් පුවත් සේවය වාර්තා කර ඇත්තේ ඔහු ඊශ්‍රායල් හමුදා භාරයේ රෝහලක ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බවයි.
+🟩
 
-පලස්තීන බලධාරීන් චෝදනා කරන්නේ දකුණු ඊශ්‍රායලයේ සිර කඳවුරක රඳවා සිටි මුස්ටාෆා ට ඔහුගේ රෝගී තත්ත්වය සඳහා නිසි ප්‍රතිකාර ලබා දීමට ඊශ්‍රායල ආරක්ෂක අංශ කටයුතු කර නොමැති බවයි.
+Muztafa Muhammad Abu Army, who served as Hamas leader at the Palestinian West Bank, has been killed.
 
-ඔක්තෝබර් 07 වනදා ඊශ්‍රායල ඉලක්කර හමාස් සාමාජිකයින් එල්ලකළ ප්‍රහාරයෙන් අනතුරුව මුස්ටාෆා ව අත්අඩංගුවට ගැනුණු.
+The Reuters reported that he had died while he was receiving treatment at a hospital in the Israeli.
 
-පසුගිය මාස 10 තුළ පලස්තීන ජාතිකයින් 18 දෙනෙක් ඊශ්‍රායල හමුදා භාරයේ සිටියදී මරණයට පත්ව ඇති බව සඳහන් වෙයි.
+The Palestinian authorities have accused the Israeli defense departments to treat his illness in a prison in South Israeli camp.
+
+The Israeli aimed at 4 October 7 was arrested following the attack on Hamas members.
+
+It is reported that 18 Palestinians have died while in Israel were killed in the past 10 months.
 
 ◼️
 
 [Data](articles/9765c5e3.json)
 
+[Extended Data](ext_articles/9765c5e3.ext.json)
+
 ---
 
-### පොහොට්ටුවේ ජනාධිපති අපේක්ෂකයා තීරණය සඳුදා
+### Presidential candidate for the pove
 
 *2024-07-26 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199225) · `si`
 
-2024 ජනාධිපතිවරණයේ අපේක්ෂකයා පිළිබඳව අවසන් තීරණය එළඹෙන සඳුදා (29) ගන්නා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පක්ෂ ආරංචි මාර්ග පවසයි.
+The final presidential candidate for the People's Victory Party in Sri Lanka will be announced on Monday, as per party sources from the Sri Lanka General Hospital.
+
+🟩
+
+The final decision on the candidate of the Presidential Election will be taken on Monday (29), according to the party sources of the Sri Lanka General Hospital.
 
 ◼️
 
 [Data](articles/43f98555.json)
 
+[Extended Data](ext_articles/43f98555.ext.json)
+
 ---
 
-### 10 ரூபாவால் குறைந்தது பாண் விலை
+### At least the price of the panty by 10 rupees
 
 *2024-07-26 10:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ரூபாவால்-குறைந்தது-பாண்-விலை/175-341066) · `ta`
+
+Increase the price of the panty by at least 10 rupees.
+
+🟩
 
 ◼️
 
 [Data](articles/ab8ca71b.json)
 
+[Extended Data](ext_articles/ab8ca71b.ext.json)
+
 ---
 
-### පාන් ගෙඩියක මිලෙහි වෙනසක්
+### A change in the price of a bread
 
 *2024-07-26 10:55:27* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගෙඩියක-මිලෙහි-වෙනසක්/11-411012) · `si`
 
-අද (26) මධ්‍යම රාත්‍රියේ සිට ග්‍රෑම් 450 පාන් ගෙඩියක මිල රුපියල් 10 කින් මිල අඩු කර ඇති බව සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති  එන්. කේ. ජයවර්ධන මහතා සඳහන් කරයි.
+Despite the All Ceylon Bakery Owners Association not changing bread prices, individual bakeries are lowering product costs.
 
-කෙසේ වුවද  අනෙකුත් බේකරි නිෂ්පාදන වල මිල අඩු කිරීමේ හැකියාවක් නොමැති බවද  සඳහන් කර සිටී.
+🟩
+
+All Ceylon Bakery Owners Association President N. President N. President of All Ceylon Bakery Owners Association. K. He said.
+
+However, other bakeries are notable of reducing the prices of the products.
 
 ◼️
 
 [Data](articles/013df898.json)
+
+[Extended Data](ext_articles/013df898.ext.json)
 
 ---
 
@@ -122,25 +176,31 @@ Zambada, who is believed to be in his 70s, and Guzman Lopez, who is in his 30s, 
 
 ---
 
-### වෙඩි වැදීමකින් බරපතල තුවාල ලබා කොළඹ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි කාන්තාවක් මියයයි
+### Woman dies after being treated in Colombo strong treatment in a shooting
 
 *2024-07-26 10:22:00* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-වැදීමකින්-බරපතල-තුවාල-ලබා-කොළඹ-දැඩිසත්කාර-ඒකකයේ-ප්‍රතිකාර-ලබමින්-සිටි-කාන්තාවක්-මියයයි/11-411011) · `si`
 
-ගෑන්ඩ්පාස්  වදුල්ලවත්ත පුරදර සෙවණ මාල් නිවාස සංකීර්ණය ඉදිරිපිට  තීරෝද රථයක් ඉලක්ක කර සිදුකල වෙඩි තැබීමකින් බරපතල තුවාල ලබා කොළඹ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි කාන්තාවද ඊයේ රාත්‍රී මිය ගොස් ඇතැයි  ගෑන්ඩ්පාස්  පොලිසිය කියයි
+In Colombo, a 56-year-old woman from Orugodawatta died after being shot near the Sevas Vedellawatte housing complex while undergoing treatment at the University of Colombo. The incident involved her and her nephew, a 31-year-old from Kamburugagamwela, Matara, and was linked to a drug-related police investigation.
 
-එලෙස මියගොස් ඇත්තේ ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචි පනස් හය හැවිරිදි කාන්තාවකි
+🟩
 
-සිද්ධිය වූ අවස්ථාවේදීම මාතර කඹුරුගමුවේ  ප්‍රදේශයේ පදිංචිව සිටි කේ රන්මුතු දර්ශන නමැති 31 හැවිරිදි පුද්ගලයෙකු  මියගියේය
+Woman in Colombo, a woman who was receiving treatment at the University of Colombo in front of the Sevas Vadellawatte housing complex in front of the Sevas Vedellawatte housing complex was killed last night
 
-මියගිය කාන්තාව හා ඥාති පුත්‍රයා සමග තීරෝද රථයෙන් බේස් ලයින් මාර්ගයේ සිට වදුල්ලවත්ත ප්‍රදේශය කරා යමින් සිටියදී මෙම වෙඩි ප්‍රහාරය එල්ල වී ඇතැයි පොලිසිය සඳහන් කරයි
+The deceased is fifty-six year old residents of Orugodawatta
 
-වෙඩි ප්‍රහාරය රිවොල්වර  වර්ගයේ ගිනි අවිය කින්  සිදුකර ඇති බවත් පොලිස් නිලධාරියකු පැවසීය
+A 31 year old resident of Kamburugagamwela, Matara, Matara
 
-මත්ද්‍රව්‍ය සම්බන්ධයෙන් පොලිසියට ඔත්තු ලබාදීමක් සම්බන්ධයෙන් ඇතිවූ සැකයක් මත මෙම වෙඩි ප්‍රහාරය එල්ල කරන්නට ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය ඝාතනය සිදුකළ සැකකරුවන් සහ ගිනි අවිය සම්බන්ධය මේ වන තෙක් තොරතුරු අනාවරණයේ නැතැයිද පොලිසිය සඳහන් කරයි
+Police said that the shooting was on the way to the Vadullawatta area in announced with the deceased woman and the nephew.
+
+A police officer had carried out the shooting of a revolution
+
+The shooting had been launched on suspicion that the shooting had erupted on suspicion of spying in the police regarding drugs.
 
 ◼️
 
 [Data](articles/9e53b86e.json)
+
+[Extended Data](ext_articles/9e53b86e.ext.json)
 
 ---
 
@@ -218,6 +278,56 @@ The Prime Minister added that the existing IGP is not empty.
 
 ---
 
+### Sri Lanka PM says police chief remains in office, seeking intervention from speaker
+
+*2024-07-26 10:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-pm-says-police-chief-remains-in-office-seeking-intervention-from-speaker-173877/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s police chief Deshabandu Tennakoon remains in office, as there are no legal provisions for President Ranil Wickremesinghe to make an acting appointment, Prime Minister Dinesh Gunawardana said.
+
+He also asked the speaker to intervene to invalidate the order.
+
+The Supreme Court gave an order suspending him from his office and suggesting that an acting appointment be made.
+
+Prime Minister Dinesh Gunawardana said there were no legal provisions to do so.
+
+An election had been declared and there the next court hearing is in November after the elections he said.
+
+Prime Minister Gunawardana also maintained that the Constitutional Council which approved the original appointment, was an extension of the parliament as the legislature.
+
+The parliament could not therefore accept a order that was not founded on a legal basis and appeared to be illegal he said.
+
+Gunawardana said he was reminding the speaker to intevene in the matter and invalidate the interim order.
+
+...
+
+[Data](articles/06200ae7.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 303.05/15 to US dollar, bonds up
+
+*2024-07-26 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-05-15-to-us-dollar-bonds-up-173888/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 303.05/15 to the US dollar on Friday, dealers said. Bond yields were up, they said, and stocks opened up 0.03 percent.
+
+In the secondary market, treasury bond yields were up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.35/45 percent, up from 10.30/45 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.65/80 percent, up from 11.60/70 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.85/95 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.15/20 percent, up from 12.05/10 percent.
+
+In equities, Colombo’s All Share Price Index opened 3.07 points higher at 11,643, while the S&P SL20 of more liquid stocks opened up at 0.06 percent or 2.17 points to 3,388.
+
+◼️
+
+[Data](articles/c3934d91.json)
+
+---
+
 ### President cannot appoint Acting IGP as post is not vacated - PM
 
 *2024-07-26 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100784/president-cannot-appoint-acting-igp-as-post-is-not-vacated-pm) · `en`
@@ -257,6 +367,24 @@ Session 1 focused on the transformative potential of Digital Public Infrastructu
 [Data](articles/3c6537f2.json)
 
 [Extended Data](ext_articles/3c6537f2.ext.json)
+
+---
+
+### Sri Lanka’s president pays candidate deposit
+
+*2024-07-26 09:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-president-pays-candidate-deposit-173866/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s president Ranil Wickremesinghe has deposited the candidate’s fee for the upcoming presidential election.
+
+The country’s Election Commission announced that the poll will be held on September 21.
+
+Wickremesinghe was the first candidate to pay the deposit. He will be contesting as an independent candidate.
+
+Two others declared their candidacy yesterday: retired army chief Sarath Fonseka, and current justice minister Wijeyadasa Rajapakshe. (Colombo/Jul26/2024)
+
+◼️
+
+[Data](articles/66cb2280.json)
 
 ---
 
@@ -524,6 +652,24 @@ Accordingly, President Ranil Wickremesinghe has informed Speaker Mahinda Yapa Ab
 
 ---
 
+### Sri Lanka election announcement triggers unexpected constitutional conundrum
+
+*2024-07-26 08:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-announcement-triggers-unexpected-constitutional-conundrum-173864/) · `en`
+
+ECONOMYNEXT – The formal announcement of the presidential elections on Friday has triggered limitations on the executive that will complicate its uneasy relations with the judiciary and plunge the country into a constitutional conundrum, as an acting police chief was not immediately appointed following a court order.
+
+Incumbent Inspector General, Deshabandu Tennakoon, was barred from exercising the powers of his position by the Supreme Court, which decided to hear nine petitions against his controversial appointment in February.
+
+Election officials said the executive loses its power to make any appointments or even transfer public servants when an election has been called. This restriction could hinder the appointment of an acting police chief.
+
+Although the court has said President Ranil Wickremesinghe can appoint a suitable officer as the Acting Inspector General, no immediate action was taken, and the operation of election law from Friday bars him from doing so.
+
+...
+
+[Data](articles/6743a36c.json)
+
+---
+
 ### President Ranil decides not to get involved in IGP issue?
 
 *2024-07-26 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100778/president-ranil-decides-not-to-get-involved-in-igp-issue) · `en`
@@ -563,6 +709,24 @@ According to the candidate of a deposit of Rs.The Council announced.
 [Data](articles/14e1a8e2.json)
 
 [Extended Data](ext_articles/14e1a8e2.ext.json)
+
+---
+
+### Sri Lanka’s presidential election scheduled for Sept 21
+
+*2024-07-26 08:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-presidential-election-scheduled-for-sept-21-173847/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s presidential election will be held on September 21, 2024, with nominations to be accepted on  August 15, the Election Commission announced.
+
+In a gazette issued in the early hours of Friday July 26, the commission said the election will be held “not less than one month and not more than two months before the expiration of th eterm of office of the president in office, as stipulated in Article 31(3) of the Constitution”.
+
+The Colombo Stock Exchange closed down on Thursday, after two candidates announced they would be contesting at Sri Lanka’s upcoming presidential election. Former Army Commander Field Marshall Sarath Fonseka and Justice Minister Wijeyadasa announced their candidacy on Thursday July 25.
+
+The broader All Share Index closed down 0.52 percent, or 61.09 points, at 11,640; while the more liquid S&P SL20 Index closed down 0.80 percent, or 27.27 points, at 3,386.
+
+...
+
+[Data](articles/8351792c.json)
 
 ---
 
@@ -609,6 +773,26 @@ The Olympic focus is that the United States of America is focused on being a 100
 [Data](articles/b5742ccf.json)
 
 [Extended Data](ext_articles/b5742ccf.ext.json)
+
+---
+
+### Sri Lanka evaluating 100 applications to import vehicles for tourism
+
+*2024-07-26 07:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-evaluating-100-applications-to-import-vehicles-for-tourism-173844/) · `en`
+
+ECONOMYNEXT – Sri Lanka has received applications to get permits to import around 100 vehicles, Secretary Ministry of Tourism and Lands, Somarathne Vidanapathirana said.
+
+The Cabinet approved the import of vans and buses to help improve the vehicle stock to transport tourists, relaxing a vehicle import ban imposed during currency crisis triggered by aggressive macro-economic policy involving rate and tax cuts.
+
+Some of the vehicles in the sector are 10 to 15 years old, Vidanapathirana, told reporters in Colombo on July 25.
+
+Around 100 applications from eligible tourism operators are now being evaluated, he said.
+
+Already 10 permits have been given to those who met the criteria. (Colombo/July26/2024)
+
+◼️
+
+[Data](articles/34527584.json)
 
 ---
 
@@ -1666,23 +1850,29 @@ Police said that a lorry, which was coming from the arrival of the vehicle from 
 
 ---
 
-### ආණ්ඩුවේ මැති ඇමතිවරු 30 ක් රනිල්ට සහය දෙන බව මහින්දගේ මූණටම කියයි
+### Mahinda says that 30 government ministers are supporting Ranil
 
 *2024-07-25 19:53:51* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මැති-ඇමතිවරු-30-ක්-රනිල්ට-සහය-දෙන-බව-මහින්දගේ-මූණටම-කියයි/11-411008) · `si`
 
-ආණ්ඩුව නියෝජනය කරන කැබිනට් හා රාජ්‍ය අමාත්‍යවරුන් ඇතුළු මන්ත්‍රීවරුන් 30 දෙනෙකු පමණ ඊයේ (25) පාර්ලිමේන්තුවේදී හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා හමුවී විශේෂ සාකච්ඡාවක් පවත්වා තිබෙන බව දේශපාලන ආරංචි මාර්ග පවසයි.
+Approximately 30 government ministers and representatives have pledged support for President Ranil Wickremesinghe in the upcoming presidential election. This decision was made during a special parliamentary session. The group has urged former President Mahinda Rajapaksa not to nominate another candidate from their party, as the majority now backs Wickremesinghe. Rajapaksa plans to consult with his party before making a final decision.
 
-එහිදී එම මන්ත්‍රීවරුන් පවසා ඇත්තේ ඉදිරි ජනාධිපතිවරණයේදී තමන් ඇතුළු පොදුජන පෙරමුණේ පිරිසක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය දැක්වීමට තීරණය කර ඇති බවයි.
+🟩
 
-මේ මොහොතේ පක්ෂයේ බහුතරයක් දෙනා වත්මන් ජනාධිපතිවරයාට සහය පළ කිරීමට තීරණය කර ඇති බැවින් පක්ෂයෙන් වෙනත් අපේක්ෂකයකු ඉදිරිපත් කළහොත් එය පක්ෂයේ ඡන්ද පදනම⁣ටහානිවියහැකිබවදඔවුන්හිටපුජනාධිපතිවරයාටපෙන්වාදීතිබේ.
+About 30 members including the government representing the government have held a special discussion held at Parliament yesterday (25) held a special discussion at the Parliament yesterday (25).
 
-එබැවින් පක්ෂයෙන් වෙනත් අපේක්ෂකයකු ඉදිරිපත් නොකරන ලෙසද ඔව්හු හිටපු ජනාධිපතිවරයාගෙන් ඉල්ලීමක් කර ඇතැයි වාර්තාවේ.
+The MPs have said that he has decided to support President Ranil Wickremesinghe in the next presidential election.
 
-එහිදී හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසා ඇත්තේ තමන්  පක්ෂය සමඟ සාකච්ඡා කර කඩිනමින් තීන්දුවක් ලබා දෙන බවය.
+If the majority of the party has decided to support the present president at the moment, it can be elected to the party's votes.
+
+Therefore, they have requested the former President not to offer another candidate from the party.
+
+Former President Mahinda Rajapaksa has said that he will discuss with the party and a verdict.
 
 ◼️
 
 [Data](articles/f5ff6126.json)
+
+[Extended Data](ext_articles/f5ff6126.ext.json)
 
 ---
 
@@ -1899,211 +2089,5 @@ The Tamil people have the right to self -determination and the Tamils ​​have
 [Data](articles/6aaf2305.json)
 
 [Extended Data](ext_articles/6aaf2305.ext.json)
-
----
-
-### The gazette of presidential election is tomorrow
-
-*2024-07-25 19:11:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-පැවැත්වීමේ-ගැසට්ටුව-හෙට-එයි/11-411004) · `si`
-
-Tomorrow, the Elections Commission will publish the Presidential Gazette Notification, detailing the legal method for parliamentary elections as per Act No. 15 of 1981. This decision was made by the Chairman of the Elections Commission, who also clarified that the commission bears no responsibility for statements made by individuals or parties regarding President Chandu's views.
-
-🟩
-
-The Elections Commission decides tomorrow (26) to publish the Presidential Gazette Notification on the Legal Method of the Parliament Act No. 15 of 1981..
-
-The Elections Commission Chairman, the Chairman of the Elections Commission (Elections) has made this decision today.
-
-The press release states that there is no responsibility regarding the statements submitted by various individuals and parties on the date of view of President Chandu.
-
-◼️
-
-[Data](articles/7dd1e029.json)
-
-[Extended Data](ext_articles/7dd1e029.ext.json)
-
----
-
-### Youth arrested for ammunition on a bus
-
-*2024-07-25 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189384) · `ta`
-
-A 32-year-old man was arrested after police found 1kg of TNR ammunition on a bus from Kodikamam to Jaffna. The arrest came after receiving confidential tips about the presence of ammunition. Investigations continue at the Chavakachcheri police station.
-
-🟩
-
-A young man has been arrested by police for carrying explosives on a private bus coming to Jaffna.
-
-Based on the confidential information received by the police that a young man was carrying ammunition on a bus traveling from Kodikamam to Jaffna on Thursday, the bus was searched.
-
-During that time, 01 kg of ammunition (TNR) has been recovered from the bus. Following this, police have arrested a 32 -year -old youth from Ariyalai.
-
-Police are conducting investigations by detaining the arrested youth at the Chavakachcheri police station.
-
-◼️
-
-[Data](articles/026882a7.json)
-
-[Extended Data](ext_articles/026882a7.ext.json)
-
----
-
-### Cardinal Thera has objected to the Samarisi Act
-
-*2024-07-25 18:59:07* · [`adalk`](https://www.ada.lk/breaking_news/සමරිසි-පනතට-කාදිනල්-හිමිගේත්-විරෝධය/11-411003) · `si`
-
-Cardinal Thera and Archbishop Ranjith oppose the Samarisi Act and related bills, arguing they threaten traditional family structures and societal foundations. They argue these laws, aimed at promoting equality and human rights, are misguided and could lead to societal disruption. The religious leaders emphasize the importance of protecting traditional family values across religions and caution against the potential misuse of these laws to promote practices like abortion, which they view as contrary to their beliefs.
-
-🟩
-
-The Colombo Archbimcode Ranjith also said that the first foundation of the family, the first foundation of the society, could lead to the destruction of the family, the first foundation of the society.
-
-He was speaking at a press conference for the National Unity for National Unity in Colombo today (25) that these bills cannot be allowed to be passed.
-
-The event was held under the patronage of Buddhist, Hindu, Islam, Catholic and Christianity leaders.
-
-"When Mr. Dolawatta is the one who is planned to be presented by the National Act and the Women's Rights Act and the Women's Rights Act, which is scheduled to be made, it appears to be created in Sri Lanka.
-
-...
-
-[Data](articles/e4b73cd4.json)
-
-[Extended Data](ext_articles/e4b73cd4.ext.json)
-
----
-
-### 150 lakhs of financial secretary of Fugo Online Pyramid Institute of Financial Secretary University
-
-*2024-07-25 18:52:39* · [`adalk`](https://www.ada.lk/breaking_news/ෆුගෝ-ඔන්ලයින්-පිරමීඩ-ආයතනයේ-මූල්‍ය-ලේකම්-සරසවි-සිසුවියගේ-ගිණුමේ-ලක්ෂ-150ක-මුදල්/11-411002) · `si`
-
-The financial secretary of Fugo Online Pyramid Institute was detained by Colombo's Chief Magistrate Thilina Gamage for alleged involvement in financial irregularities, including misuse of funds exceeding half a billion rupees. The arrest followed an investigation initiated by the Criminal Investigation Department (CID) in March after a complaint from the Central Bank about deposit and insurance exposure. The CID also banned two directors from the company. The case involves allegations of accepting large deposits through various banks, with further investigations ongoing.
-
-🟩
-
-Detention of the secretary of 'Fougo Online' pyramidara, 'Fugo Online' pyramidara, 'Fugo Online' pyramidian student, is said to be detained as the Defense Studies of Four Banks.Colombo Chief Magistrate Thilina Gamage prescribed this today (25).
-
-The Magistrate ordered that the CID has been detained in the suspect, claiming that the suspect's bank account had over Rs. 1/2 billion.
-
-The progress report on the investigations of the people and bank accounts of the Ceylon Money Accounts of the People's Money and Bank Accounts have to be inspected by the Ceylon Money and Bank Accounting Company is to be sent to the provision of Rs.The university student who was arrested was produced in court.
-
-The officials of the Criminal Investigation Department (CID) officials commenced the investigation last March following a complaint lodged by the Central Bank's deposit and insurance exposure.
-
-The CID has banned the CID and Erandagi Arachchige Eragineha Arachchige from the directors of the company.
-
-...
-
-[Data](articles/bdd6635e.json)
-
-[Extended Data](ext_articles/bdd6635e.ext.json)
-
----
-
-### Dr. Kapila Wickremanayake released on bail in substandard medicine
-
-*2024-07-25 18:43:47* · [`adalk`](https://www.ada.lk/breaking_news/බාල-බෙහෙත්-සිදුවීමේ-විශේෂඥ-වෛද්‍ය-කපිල-වික්‍රමනායකට-ඇප/11-411001) · `si`
-
-Dr. Kapila Wickremanayake, implicated in a substandard medicine scandal, was released on bail by Maligawila Magistrate Loku Abeywickrama Weerasinghe. Former Health Minister Keheliya Rambukwella and six others were remanded. The Court of Appeal rejected Dr. Wickremanayake's bail application related to substandard injections. Despite the inability to remand him abroad, he remains under investigation without bail hindering the probe. The case involves investigating documents related to vaccine distribution and the use of 'Emyoglobin' and 'Emimunulabin'. President's Counsel Romesh de Silva and Sarath Jayamanayake represented Dr. Wickremanayake, while the Deputy Solicitor General appeared for the prosecution.
-
-🟩
-
-Maligawila Magistrate Loku Abeywickrama Weerasinghe has appointed Mr. Luchen Abeyewickrama Weerasinghe today (25) to release the conduct of the subordinated drug racket.
-
-Former Health Minister Keheliya Rambukwella and six suspects were remanded until the 8th of this month.
-
-Dr. Kapila Wickramanayaka release Mr. Wickramanayaka release Mr. Wickramanayaka's release of a Rit petition filed by Hon.
-
-Court of Appeal Judge Nissanka Bandula Karunaratne has agreed to the rejection of his bail in connection with substandard humin emman emman emman emnugoulain injections.Mr. Mahendran was declared in the Open Court.
-
-The event was not able to be abroad and had not been able to be remanded against him, he had failed to be released on bail and the respondents had to be released on bail.It is said that the bail order is not a hindrance to investigate.
-
-...
-
-[Data](articles/0043af4b.json)
-
-[Extended Data](ext_articles/0043af4b.ext.json)
-
----
-
-### President accuses Namal accused 'parties'
-
-*2024-07-25 18:34:45* · [`adalk`](https://www.ada.lk/opinion/නාමල්ගෙන්-ජනපතිට-චෝදනාවක්-’’පක්ෂ-කඩන-එක-එතුමාගේ-පුරුද්දක්’’/2-411000) · `si`
-
-In a heated exchange, President Nimal Rajapaksa denies accusations of attempting to split his party, emphasizing his commitment to maintaining unity and making responsible political decisions. He addresses rumors about aligning with opposition leader Ranil Wickremesinghe, stating that any actions were solely for the betterment of the nation's politics, not personal gain. Rajapaksa asserts that his primary focus remains on safeguarding the party's integrity and ensuring its readiness for governance.
-
-🟩
-
-The National Organizer of the Sri Lanka Appointment of the Sri Lanka Appointment is an attempt to break the party to the President as a party since the party.Reply by Mr. Nimal Rajapaksa speaking further
-
-Question: "There is a story that you are trying to help Mr. Ranil once again, is that true?
-
-When Mr. Ranil took a decision, he invited the Leader of the Leader of the former Minister.We have not taken steps to embarrass the government's political stability even if we do not suit the government or not even if we do not suit us or the government.. However, we have fulfilled our responsibilities. Let us have a good political decision.
-
-Question: "That is the accusation that you have broken down by you by the party of you two party?
-
-I have noticed that I have seen the president of the president with the president.If we need to break our party into two people, he should also be evident.
-
-Question: Why is that hosting that you are so helped??
-
-...
-
-[Data](articles/5fcdebf0.json)
-
-[Extended Data](ext_articles/5fcdebf0.ext.json)
-
----
-
-### Do not stop striking: go to work
-
-*2024-07-25 18:27:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேலை-நிறுத்தம்-வேண்டாம்-வேலைக்கு-போங்க/76-341030) · `ta`
-
-Jeevan Thondaman, Minister of the Ceylon Workers Congress, urged workers to end their strike against a plantation company and return to work from July 26, 2024, due to its impact on their livelihoods. The strike was initiated over concerns about tea land cultivation in the Nanuoya Udarathalla estate. Three leaders were dismissed for protesting, and the court ordered them to appear. Thondaman thanked protesters and promised legal action against the company.
-
-🟩
-
-Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, issued a special report on Thursday evening.
-
-The plantation administration dismissed three leaders who were arguing with the estate manager in protest of the cultivation of tea land in the Nanuoya Udarathalla estate under a plantation company.
-
-The Nuwara Eliya District Magistrate's Court has announced that the suspects should appear before the court as I went to my notice and immediately went to the field.
-
-In addition, you are continuously on strike against the particular plantation company on behalf of all the public and on behalf of the public.
-
-I urge all to abandon the struggles and go to work from tomorrow (26.07.2024) as their career and livelihood is affected by the strike.
-
-I would like to express my gratitude to all those who have been protesting so far and we will take legal action in the future against the activities of the plantation company that manages the body.
-
-◼️
-
-[Data](articles/4f26db7e.json)
-
-[Extended Data](ext_articles/4f26db7e.ext.json)
-
----
-
-### Jeevan Action Notification
-
-*2024-07-25 18:27:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவன்-அதிரடி-அறிவிப்பு/76-341030) · `ta`
-
-Jeevan Thondaman, Minister and General Secretary of the Ceylon Workers Congress, issued a statement dismissing three leaders protesting against tea land cultivation in the Nanuoya Udarathalla estate. He urged workers to end their strike against a plantation company, emphasizing the impact on their careers and livelihoods. The Nuwara Eliya District Magistrate's Court ordered the suspects to appear, and Thondaman thanked protesters, promising legal action against the company.
-
-🟩
-
-Jeevan Thondaman, General Secretary and Minister of the Ceylon Workers Congress, issued a special report on Thursday evening.
-
-The plantation administration dismissed three leaders who were arguing with the estate manager in protest of the cultivation of tea land in the Nanuoya Udarathalla estate under a plantation company.
-
-The Nuwara Eliya District Magistrate's Court has announced that the suspects should appear before the court as I went to my notice and immediately went to the field.
-
-In addition, you are continuously on strike against the particular plantation company on behalf of all the public and on behalf of the public.
-
-I urge all to abandon the struggles and go to work from tomorrow (26.07.2024) as their career and livelihood is affected by the strike.
-
-I would like to express my gratitude to all those who have been protesting so far and we will take legal action in the future against the activities of the plantation company that manages the body.
-
-◼️
-
-[Data](articles/824fdac3.json)
-
-[Extended Data](ext_articles/824fdac3.ext.json)
 
 ---

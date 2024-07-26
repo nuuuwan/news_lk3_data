@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 19:53:53**
+As of **2024-07-26 20:06:00**
 
 ## Newspaper Stats
 
-*Scraped **37,439** Articles*
+*Scraped **37,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,60 +19,98 @@ adalk | 3,409
 adaderanalk | 4,336
 tamilmirrorlk | 4,616
 dailymirrorlk | 4,733
-virakesarilk | 5,885
+virakesarilk | 5,886
 adaderanasinhalalk | 6,286
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,434 (100.0%) of 37,439 articles have been extended.
+37,438 (100.0%) of 37,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### දේශබන්දු ට අනුරගෙන් අභියෝගයක්
+### தமிழ் பொது வேட்பாளர் கருத்தியலை ஆதரிக்கவில்லை -  எம்.ஏ.சுமந்திரன்
+
+*2024-07-26 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189480) · `ta`
+
+ஜனாதிபதி தேர்தலில், ஒரு சமூகத்தை மாத்திரம் மையப்படுத்தி வேட்பாளர் நிறுத்தப்படக் கூடாது என்ற அடிப்படையில், தமிழ் பொது வேட்பாளர் கருத்தியலை ஆதரிக்கவில்லை என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தலில் வேட்பாளர் ஒருவரை நிறுத்தப் போவதில்லை என இலங்கை தமிழரசு கட்சி தீர்மானித்துள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+எனினும் ஜனாதிபதி தேர்தலில் போடியிடும் பிரதான வேட்பாளர்களுடன் எதிர்காலத்தில் பேச்சுவார்த்தைகளில் ஈடுபடவுள்ளதாக பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/27bab66b.json)
+
+---
+
+### Challenge from Anura
 
 *2024-07-26 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199245) · `si`
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ලෙස ඉදිරියේ දී යම්කිසි රාජකාරි කටයුත්තක් සිදුකළහොත් ඒ සම්බන්ධයෙන් අවශ්‍ය නීතිමය පියවර ගන්නා බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake, leader of the National JHD, threatens legal action against the current government for delaying the appointment of an acting Inspector General of Police (IGP), accusing them of creating societal confusion and avoiding elections. He criticizes the lack of transparency in the process and calls for immediate action, while also expressing confidence in the ability of the IGP to handle ongoing issues.
 
-අද (26) පැවති මාධ්‍ය හමුවක දී  වැඩබලන පොලිස්පතිවරයෙකු පත්කිරීම පිළිබඳව අගමැතිවරයා කළ ප්‍රකාශය සම්බන්ධයෙන් අනුර කුමාර දිසානායක මන්ත්‍රීවරයා‍ මේ බව ප්‍රකාශ කළේය.
+🟩
+
+Leader of the National JHD Anura Kumara Dissanayake says that if it is a duties as the IGP, legal action will be taken to take legal action.
+
+MP Anura Kumara Dissanayake made this statement regarding the appointment of a acting IGP in a press conference held today (26).
 
 ...
 
 [Data](articles/75c43853.json)
 
+[Extended Data](ext_articles/75c43853.ext.json)
+
 ---
 
-### நாட்டின் முழுமையான பாதுகாப்பை உறுதிப்படுத்த தேவையான அனைத்து நடவடிக்கைகளையும் மேற்கொள்ள பாதுகாப்புத்துறை பிரதானிகளுக்கு பணிப்புரை - பிரமித்த பண்டார தென்னகோன்
+### Workplace for Defense Department Heads -In amazement
 
 *2024-07-26 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189479) · `ta`
 
-ஜனாதிபதி தேர்தல்  அறிவிக்கப்பட்டுள்ள நிலையில் வேட்பாளர்கள், நாட்டு மக்கள் மற்றும் நாட்டின் முழுமையான பாதுகாப்பை உறுதிப்படுத்த  தேவையான அனைத்து நடவடிக்கைகளையும் மேற்கொள்ள வேண்டும் என பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் அனைத்து பாதுகாப்புத்துறை பிரதானிகளுக்கும் பணிப்புரை விடுத்தார்.
+The Defense Minister has directed all department heads to ensure the nation's security ahead of the upcoming presidential elections. A meeting was held with top military brass, emphasizing the importance of protecting both candidates and citizens. The government has praised its officials' dedication during challenging times, urging continued excellence from all defense-related entities.
 
-பாதுகாப்பு அமைச்சின் ஆலோசனைக் குழு கூட்டம் வெள்ளிக்கிழமை (26) பாராளுமன்றக் கட்டிட தொகுதியில் நடைபெற்றது. இதில் பாதுகாப்புப் படைகளின் ஆளணி பிரதானி ஜெனரல் சவேந்திர சில்வா,கடற்படைத் தளபதி வைஸ் அட்மிரல் பிரியந்த பெரேரா உள்ளிட்ட முப்படைகளின் உயர்மட்ட அதிகாரிகள் மற்றும் பாதுகாப்பு அமைச்சின் கீழ் வரும் அனைத்து நிறுவனங்களினதும் பிரதானிகள் கலந்துகொண்டிருந்தனர்.
+🟩
+
+The Minister of Defense, the Minister of Defense, has issued a directive to all the defense department chiefs that the candidates, the people of the country and the country should take all necessary measures to ensure the full security of the country and the country.
+
+The Advisory Committee Meeting of the Ministry of Defense was held on Friday (26) at the Parliament Building constituency. Chief of the Armed Forces, including the Chief of the Security Forces, General Shavendra Silva, Navy Commander Vice Admiral Priyantha Perera and all the chiefs of all corporations under the Ministry of Defense were present.
+
+Elections Commission has called for the presidential election. In this case, all necessary measures are to be taken to ensure the full security of the candidates, the people and the country.
+
+During the crisis in the country over the past two years, there have been many serious decisions. During those times, the country was able to protect the national security and law and order.
 
 ...
 
 [Data](articles/68c8dcd4.json)
 
+[Extended Data](ext_articles/68c8dcd4.ext.json)
+
 ---
 
-### பொருளாதார பரிமாற்ற சட்டமூலத்தை நிறைவேற்றுவதற்கு ஆதரவளித்த சகல அரசியல் கட்சிகளுக்கும் ஜனாதிபதி நன்றி தெரிவிப்பு
+### President thanks to all political parties who supported the passage of the Economic Transfer Bill
 
 *2024-07-26 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/189478) · `ta`
 
-நாட்டின் பொருளாதாரத்தை சரியான பாதையில் வழிநடத்தும் பொருளாதார பரிமாற்ற சட்டமூலத்தை நிறைவேற்றுவதற்கு ஆதரவளித்த அனைத்து அரசியல் கட்சிகளுக்கும் நன்றி தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, இந்தத் திட்டத்தை தொடர்ந்து முன்னெடுத்துச் செல்வதற்கு ஒன்றிணையுமாறு சகல அரசியல் கட்சிகளுக்கும் அழைப்பு விடுத்தார்.
+President Ranil Wickremesinghe thanked all political parties for supporting the Economic Transfer Bill, crucial for guiding the country's economy. He highlighted its focus on building a digital and green export-based economy, mentioning initiatives like the "Digital Economic Strategy 2030" aimed at digitalizing various sectors, including education. The President also discussed the importance of embracing digital technologies to enhance the country's economy and competitiveness, referencing efforts to introduce QR codes and modernize agriculture and education.
 
-நாட்டில் ஏற்றுமதி சார்ந்த டிஜிட்டல் மற்றும் பசுமைப் பொருளாதாரத்தை கட்டியெழுப்புவதற்கு தேவையான நிர்வாக மற்றும் நிறுவன ரீதியான கட்டமைப்பை இந்த சட்டமூலத்தில் உள்ளடக்கியுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-கல்வி மற்றும் தொழில்நுட்ப அமைச்சுக்கள் இணைந்து செயற்படுத்தும் "டிஜிட்டல் பொருளாதார மூலோபாயம் 2030" வேலைத்திட்டத்தின் கீழ் பாடசாலைகள் மற்றும் பிரிவெனாக்களுக்கு ஸ்மார்ட் வகுப்பறை உபகரணங்களை வழங்கும் நிகழ்வு இன்று (26) ரம்புக்கன பராக்கிரம மகா வித்தியாலயத்தில் நடைபெற்றது. இந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe thanked all the political parties who supported the Economic Transfer Bill that guided the country's economy on the right path and called on all political parties to continue the project.
+
+The President also pointed out that the bill includes the administrative and institutional structure required to build an export -based digital and green economy in the country.
+
+A program to provide smart classroom equipment to schools and sects under the "Digital Economic Strategy 2030" program, which is co -operating in the Ministry of Education and Technology, was held today (26) at the Rambukana Parakrama Maha Vidyalaya.. President Ranil Wickremesinghe made this statement while addressing the event.
 
 ...
 
 [Data](articles/59ce9b80.json)
+
+[Extended Data](ext_articles/59ce9b80.ext.json)
 
 ---
 
@@ -206,25 +244,37 @@ The judge who had a prolonged trial, the judge who had the ability to grant spec
 
 ---
 
-### ஒரே நாளில் இருவர் உயிருடன் எரிக்கப்பட்டதை பார்த்தேன்- 1983 ஜூலை கலவரத்தை நேரில் பார்த்த ஒருவரின் மனதை கலங்கவைக்கும் நாட்குறிப்பு-3
+### I saw two people alive in one day- a diary that disturbed the mind of someone who saw the riots in July 1983
 
 *2024-07-26 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189467) · `ta`
 
-மூத்த சகோதரிக்கு 18 வயதிருக்கும் இளைய சகோதரிக்கு 11 வயதிருக்கும். அவர்களை எனது வீட்டிற்கு அருகில் கொண்டுவந்தார்கள்,காடையர்கள் கும்பல் அவர்களை சூழ்ந்துகொண்டது.அவர்களை என்ன செய்யலாம் என அவர்கள் விவாதித்தார்கள்.
+A disturbing account describes witnessing two young girls, aged 11, being attacked by gang members during riots in July 1983. One girl was stabbed and beheaded, while the other was brutally assaulted before being set on fire. Despite the chaos, the narrator remains safe, observing the events from afar. This incident highlights the brutalities of the time, contrasting the savagery with the narrator's belief that ancient humans were more civilized.
 
-திடீரென ஒருவன் அந்த சிறுமியை தனது கையில்பிடித்து இழுத்து தனது கையிலிருந்த கத்தியால் வெட்ட தொடங்கினான்.நான் மிகுந்த அச்சத்துடன் பார்த்துக்கொண்டிருந்தேன்.
+🟩
 
-அதன் பின்னர் அவள் அந்த காடையர்களின்  பைத்தியக்காரத்தனமான சிரிப்பிற்கு மத்தியில் அவர்களின் காலில் விழுந்து தனது சகோதரியை எதுவும் செய்யவேண்டாம் என மன்றாடினாள்.
+The elder sister is 11 years old and the younger sister is 11 years old. They brought them near my house, and the gangs of the gangs surrounded them. They discussed what they could do.
 
-பின்னர் அங்கிருந்த ஒருவன் கோடாரியை எடுத்து சிறுமியின் தலைiயை கொத்தினான்.மூத்தவள் திகைத்துபோய் பார்த்துக்கொண்டிருந்தாள்.
+Suddenly, a man grabbed the girl in his hand and started cutting with a knife in his hand.
 
-அவளுடைய தங்கை கொல்லப்பட்ட கொடுரமாக கொல்லப்பட்டவேளை அவள் அனுபவித்த அளவிடமுடியாத அச்சம் பயங்கரம் ஆகியவற்றின் கலவையான உணர்வுகள் உதவியற்ற அமைதியற்ற தன்மையின் தெளிவற்ற உணர்வுகளாக மாற்றம்பெற்றன
+Then she fell on their feet amidst the mad laughter of the queen and pleaded with her sister.
 
-ஏறைக்குறைய 20 ஆண்கள் அவளை பாலியல்வன்முறைக்கு உட்படுத்திய பின்னரே ஒருவன் ஏனையவர்களை எச்சரித்தான் . அவளை மூர்க்கத்தனமாக உலுப்பினான்.
+Then a man took the ax and climbed the girl's head.
+
+Her sister was killed as a deadly killing of her sister, and the mixed feelings of the scarce of her, the fagrous feelings of helpless restlessness became
+
+Only 20 men warned of the other after she had been sexually assaulted by her. He shook her out brutally.
+
+She began to scream and fight, and looked around and felt the first time that she was bloody from her body.
+
+Suddenly she tightened her fist, and then surrender to her face.
+
+She left a sigh and fell unconscious. They then poured gasoline on her.
 
 ...
 
 [Data](articles/482a8a3a.json)
+
+[Extended Data](ext_articles/482a8a3a.ext.json)
 
 ---
 
@@ -2223,27 +2273,5 @@ Although the court has said President Ranil Wickremesinghe can appoint a suitabl
 [Data](articles/6743a36c.json)
 
 [Extended Data](ext_articles/6743a36c.ext.json)
-
----
-
-### President Ranil decides not to get involved in IGP issue?
-
-*2024-07-26 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100778/president-ranil-decides-not-to-get-involved-in-igp-issue) · `en`
-
-Given the upcoming Presidential Election, President Ranil Wickremesinghe has been advised by his legal team that appointing an Acting Inspector General of Police (IGP) every two weeks could lead to election petitions against him.
-
-Consequently, the President has informed the Speaker of Parliament that he will refrain from getting involved in this matter, sources told Ada Derana.
-
-Meanwhile, Prime Minister Dinesh Gunawardena is scheduled to officially inform Parliament of the government’s official position on the Supreme Court decision regarding the post of the IGP, in a special statement today (26).
-
-The Cabinet of Ministers, which convened an urgent meeting on Wednesday (24), had decided to announce its response to the decision of the Supreme Court regarding the IGP within two days after studying in depth the legal aspects of the matter.
-
-The Supreme Court on Wednesday issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
-
-...
-
-[Data](articles/3b08256b.json)
-
-[Extended Data](ext_articles/3b08256b.ext.json)
 
 ---

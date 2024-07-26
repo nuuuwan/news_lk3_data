@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 10:07:56**
+As of **2024-07-26 10:20:18**
 
 ## Newspaper Stats
 
-*Scraped **37,346** Articles*
+*Scraped **37,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,396
-adaderanalk | 4,320
+adaderanalk | 4,321
 tamilmirrorlk | 4,603
 dailymirrorlk | 4,733
 virakesarilk | 5,864
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,264
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,341 (100.0%) of 37,346 articles have been extended.
+37,346 (100.0%) of 37,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### President cannot appoint Acting IGP as post is not vacated - PM
+
+*2024-07-26 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100784/president-cannot-appoint-acting-igp-as-post-is-not-vacated-pm) · `en`
+
+Prime Minister Dinesh Gunawardena has clarified that the President has no legal provisions at this moment to appoint an Acting Inspector General of Police (IGP).
+
+Delivering a special statement in Parliament, the Prime Minister also emphasized that the position of the IGP is not vacated presently.
+
+◼️
+
+[Data](articles/fc3abe74.json)
+
+---
 
 ### Prime Minister delivers special statement in Parliament
 
@@ -50,17 +64,25 @@ The Supreme Court on Wednesday issued an interim order preventing Deshabandu Ten
 
 [Data](articles/9aa74072.json)
 
+[Extended Data](ext_articles/9aa74072.ext.json)
+
 ---
 
-### நான் விலகி இருக்கிறேன் : சபாநாயகருக்கு ஜனாதிபதி அறிவிப்பு
+### I'm quit: President's announcement to the Speaker
 
 *2024-07-26 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189398) · `ta`
 
-தேர்தல் காலத்தில் பதில் பொலிஸ்மா அதிபரை நியமித்தால் தனக்கு எதிராக நீதிமன்றத்தில் மனு தாக்கல் செய்யப்படும் என சட்ட ஆலோசனை கிடைத்துள்ளதாகவும், எனவே நான் இந்த விடயத்திலிருந்து விலகி இருப்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு அறிவித்துள்ளார்.
+President Wickremesinghe warns Speaker Abeywardena against appointing the IG of Police during elections, citing potential legal action based on advice.
+
+🟩
+
+President Ranil Wickremesinghe has informed Speaker Mahinda Yapa Abeywardena that he has received legal advice that he will file a petition against him if he appoints the Inspector General of Police during the election.
 
 ◼️
 
 [Data](articles/4fe3babf.json)
+
+[Extended Data](ext_articles/4fe3babf.ext.json)
 
 ---
 
@@ -82,19 +104,25 @@ Prime Minister Dinesh Gunawardena makes a special statement in parliament today.
 
 ---
 
-### கட்டுப்பணத்தை செலுத்தினார் ரணில்
+### Ranil paid control
 
 *2024-07-26 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189397) · `ta`
 
-ஜனாதிபதி சட்டத்தரணி ரொனால் சி பெரேரா இன்று வெள்ளிக்கிழமை (26) காலை தேர்தல் ஆணைக்குழுவில் இவ்வாறு கட்டுப்பணத்தை செலுத்தியுள்ளார்.
+Ranol C Perera, President's Attorney, was appointed by the Election Commission. Ranil Wickremesinghe, running as an independent, received his gazette notification for the election. Sarath Keerthi Ratna, ex-Deputy Minister, is also a candidate in the presidential race.
 
-சுயாதீன வேட்பாளராகவே ரணில் விக்கிரமசிங்க சார்பில் கட்டுப்பணம் செலுத்தப்பட்டுள்ளது. தேர்தல் தொடர்பான வர்த்தமானி அறிவித்தல் இன்றைய தினம் காலை வெளியான நிலையில் முதலாவதாக ரணில் விக்கிரமசிங்க சார்பில் கட்டுப்பணம் செலுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
 
-இதேவேளை, ஜனாதிபதித் தேர்தலுக்கான கட்டுப்பணத்தைச் முதலாவது வேட்பாளராக முன்னாள் பிரதியமைச்சர் சரத் கீர்த்திரத்ன செலுத்தியுள்ளார்.
+President's Attorney Ranol C Perera has been controlled by the Election Commission on Friday morning.
+
+Ranil Wickremesinghe has been controlled as an independent candidate. It is noteworthy that Ranil Wickremesinghe has been controlled on behalf of the first as the gazette notification of the election.
+
+Meanwhile, former Deputy Minister Sarath Keerthi Ratna has given the control of the presidential election as the first candidate.
 
 ◼️
 
 [Data](articles/5b98e105.json)
+
+[Extended Data](ext_articles/5b98e105.ext.json)
 
 ---
 
@@ -120,15 +148,21 @@ Meanwhile, the Election Commission of Sri Lanka today also issued the Gazette no
 
 ---
 
-### கட்டுப்பணத்தை செலுத்தினார் ரணில்
+### Ranil paid control
 
 *2024-07-26 09:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-செலுத்தினார்-ரணில்/175-341064) · `ta`
 
-இதன்படி, சுயாதீன வேட்பாளராக போட்டியிடும் வகையில், ஜனாதிபதி ரணில் விக்ரமசிங்க சார்பில் கட்டுப்பணம் செலுத்தப்பட்டுள்ளது. R
+President Ranil Wickremesinghe has taken over control to run as an independent candidate.
+
+🟩
+
+Accordingly, the control of President Ranil Wickremesinghe has been paid to contest as an independent candidate.. Remble
 
 ◼️
 
 [Data](articles/f657fd8b.json)
+
+[Extended Data](ext_articles/f657fd8b.ext.json)
 
 ---
 
@@ -1558,21 +1592,27 @@ When Sri Lanka Development Bonds were repaid in rupees without a haircut, the ce
 
 ---
 
-### රැකියා විරහිත උපාධිධාරීන් අද කොළඹදී විරෝධතාවක
+### Unemployed graduates protest in Colombo today
 
 *2024-07-25 19:26:34* · [`adalk`](https://www.ada.lk/breaking_news/රැකියා-විරහිත-උපාධිධාරීන්-අද-කොළඹදී-විරෝධතාවක/11-411006) · `si`
 
-රැකියා විරහිත සියලුම උපාධිධාරීන්ට රැකියා ලබා දෙන ලෙස ඉල්ලා අද (26දා) කොළඹ කොටුව දුම්රිය පොළ ඉදිරිපිටදී විරෝධතා ව්‍යාපාරයක් පැවැත්වීමට කටයුතු කරන බවද රැකියා විරහිත උපාධිධාරී සංගමය සඳහන් කරයි.
+Unemployed graduates protested in Colombo today, demanding jobs. The protest, now in its sixth day, began outside the Colombo Fort Railway Station. Despite no response from authorities, the protesters continue their sit-in and plan additional protests.
 
-උපාධිධාරීන්ට රැකියා ලබා දෙන ලෙස ඉල්ලා කොටුව දුම්රිය පොළ ඉදිරිපිට ආරම්භ කළ අඛණ්ඩ සත්‍යග්‍රහයට අදට දින 05ක් ගත වී තිබෙන බවද එම සංගමය පෙන්වා දෙයි.
+🟩
 
-එහෙත් අදාළ ක්‍රියාමාර්ගයට බලධාරීන් මෙතෙක් නිසි ප්‍රතිචාර දැක්වීමට කටයුතු කර නොමැති බවත් මේ නිසා රැකියා විරහිත උපාධිධාරීන් කොළඹට රැස් වී සත්‍යග්‍රහයට සමගාමීව විරෝධතා ව්‍යාපාරය පැවැත්වීමට කටයුතු කරන බවද සඳහන් කරයි.
+The unemployed graduate Association states that a protest will be held in front of Colombo Fort Railway Station today (26) demanding employment to all the unemployed graduates.
 
-පසුගිය22වන දිනත් මේ ආකාරයට විරෝධතා ව්‍යාපාරයක් පැවැත් වූ බවත් ඉන්පසුව සත්‍යග්‍රහ ව්‍යාපාරය ආරම්භ කළ බවත් මැතිවරණයක් ප්‍රකාශයට පත් වුවත් මේ මස 30වන දින දක්වා සත්‍යග්‍රහය පැය 24 පුරා අඛණ්ඩව පැවැත්වීමට කටයුතු කරන බවද පෙන්වා දෙයි.
+The union states that 5 days have passed since the continued satyagraha who started in front of the Fort Railway to provide employment to graduates.
+
+However, it is said that the authorities have not responded to the relevant action so far and the unemployed graduates will be held in Colombo and hold the protest campaign in parallel to the Sathyagraha.
+
+It also pointed out that a protest was held on the 22nd and then the Sathyagraha movement, but it was published in this month.
 
 ◼️
 
 [Data](articles/c4c6fbec.json)
+
+[Extended Data](ext_articles/c4c6fbec.ext.json)
 
 ---
 
@@ -2141,31 +2181,5 @@ A bond maturing on 15.09.2029 closed at 12.05/10 percent, from 12.02/12 percent.
 [Data](articles/de35279f.json)
 
 [Extended Data](ext_articles/de35279f.ext.json)
-
----
-
-### Cabinet approves the proposal to implement the national agenda of anti-corruption
-
-*2024-07-25 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199205) · `si`
-
-The cabinet has approved a comprehensive anti-corruption agenda for 2025-2029, aiming to enhance transparency, accountability, and financial oversight. This includes updating laws, increasing the Auditor General's powers, establishing a dedicated website for official disclosures, and creating strategies against money laundering and recovering illicit assets. The plan also focuses on public procurement transparency, rehabilitation of public enterprises, and employee benefits. Additionally, it aims to strengthen information rights and aligns with international recommendations for anti-corruption efforts.
-
-🟩
-
-The Hon.
-
-The Presidential Media Unit states that this has been presented in accordance with the legal, organized and strategic framework for anti-corruption and strategic framework for the UK's administration.
-
-The National Agest of the anti-Corruption will include a plan of anti-corruption plan for the anti-Corruption Plan, and provide sufficient budget for the action plan every six months and the implementation of the Action Plan for the action plan.It also includes the necessary provisions.
-
-2025 - 2029 The agenda has been admitted to the agenda to create an anti-corruption plan for the time period. The National Agenda also includes amending the National Audit Act No. 19, No. 19, 2018, expanding the legal authority owned by the Auditor General.
-
-According to the amendments, the full reports of the questions of the questions were tabled in Parliament were proposed to grant permission to the Auditor General to exchange basic or other findings with law enforcement agencies.
-
-...
-
-[Data](articles/55098f38.json)
-
-[Extended Data](ext_articles/55098f38.ext.json)
 
 ---

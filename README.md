@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 00:20:35**
+As of **2024-07-27 00:36:02**
 
 ## Newspaper Stats
 
-*Scraped **37,470** Articles*
+*Scraped **37,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,134
 economynextcom | 2,252
-dailyftlk | 2,390
+dailyftlk | 2,404
 adalk | 3,412
 adaderanalk | 4,339
-tamilmirrorlk | 4,621
+tamilmirrorlk | 4,622
 dailymirrorlk | 4,733
 virakesarilk | 5,893
 adaderanasinhalalk | 6,290
@@ -26,11 +26,267 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,470 (100.0%) of 37,470 articles have been extended.
+37,470 (100.0%) of 37,485 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-07-27 (Saturday)
+
+### President envisions modern economy in 10 years, stronger economic ties in advancing SL
+
+*2024-07-27 00:15:52* · [`dailyftlk`](https://www.ft.lk/news/President-envisions-modern-economy-in-10-years-stronger-economic-ties-in-advancing-SL/56-764819) · `en`
+
+Highlights significance of QR codes in financial transactions; need for public awareness about technology
+
+Calls for collective action in advancing economy; extends gratitude to all political parties in Parliament for support in adopting Economic Transformation Bill
+
+Introduces QR code system aimed at empowering over 1 m MSMEs in Kegalle District
+
+Announces Tourism and Lands Ministry is set to develop seven new projects in Rambukkana Divisional Secretariat under Pinnawala Kithulgala Tourism Development Project
+
+Visits construction site of the Kotelawala Defence University at Wagolla Agricultural Training Centre; presents SLS certifications to entrepreneurs
+
+President Ranil Wickremesinghe yesterday expressed his belief that it is possible to establish a modern economy in Sri Lanka within the next 10 years, ensuring that development benefits both urban and rural areas.
+
+...
+
+[Data](articles/a83dce13.json)
+
+---
+
+### Interim order of Supreme Court and implications
+
+*2024-07-27 00:14:22* · [`dailyftlk`](https://www.ft.lk/columns/Interim-order-of-Supreme-Court-and-implications/4-764818) · `en`
+
+So, it is decision time for Deshabandu Thennakoon, and it is decision time for the Government. And, of course, it is decision time for the people of Sri Lanka
+
+Hearing a set of Fundamental Rights petitions filed by several petitioners including Cardinal Malcolm Ranjith, challenging the appointment of Deshabandu Thennakoon to the post of Inspector General of Police by the President of Sri Lanka, the Supreme Court has issued an interim order preventing Deshabandu Thennakoon from performing the duties of Inspector General of Police. It also ordered that a suitable person be appointed (to act in the post of) IGP.
+
+It is a remarkable decision by the Supreme Court. The interim order will apply until the final determination of the FR petitions challenging the appointment of Deshabandu Thennakoon  as ‘IGP’.
+
+Deshabandu Thennakoon should promptly comply with the SC order. Orders of higher judiciary cannot be ignored except on a pain of punishment by way of contempt of court.
+
+...
+
+[Data](articles/15df6f1c.json)
+
+---
+
+### SL and Pakistan sign MOU to cooperate in dealing with corruption
+
+*2024-07-27 00:12:54* · [`dailyftlk`](https://www.ft.lk/news/SL-and-Pakistan-sign-MOU-to-cooperate-in-dealing-with-corruption/56-764817) · `en`
+
+The National Accountability Bureau (NAB), Pakistan and the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), Sri Lanka yesterday signed a MOU on mutual cooperation in criminal matters.
+
+It was signed at the office of the CIABOC, Colombo. The High Commissioner of Pakistan Major General (Retd.) Faheem Ul Aziz HI (M) signed on behalf of the NAB while Director General W.K.D. Wijeratne signed for CIABOC.
+
+The MOU endeavours strengthening collaborative efforts against corruption and money laundering as well as capacity and institutional building between the respective institutions of the two countries.
+
+◼️
+
+[Data](articles/5d830ac2.json)
+
+---
+
+### SL explores more employment opportunities for Lankans in Singapore
+
+*2024-07-27 00:12:22* · [`dailyftlk`](https://www.ft.lk/news/SL-explores-more-employment-opportunities-for-Lankans-in-Singapore/56-764816) · `en`
+
+Sri Lankan High Commissioner to Singapore Senarath Dissanayake met the Singapore Manpower Minister and Trade and Industry Second Minister Dr. Tan See Leng on 18 July and discussed strengthening collaboration in labour-related matters and exploring avenues for expanding job opportunities for Sri Lankan nationals in Singapore.
+
+The discussion primarily focused on emerging employment opportunities for Sri Lankans and issues related to diversifying the employment landscape, particularly on the recruitment of Sri Lankan workers for sectors such as hospitality, healthcare, and manufacturing.
+
+During the meeting, Minister Dr. Tan expressed Singapore’s strong desire to collaborate closely with Sri Lanka and stated that Singapore is constantly on the lookout for skilled and competent workers to support its diverse sectors.
+
+...
+
+[Data](articles/ca8796ea.json)
+
+---
+
+### முச்சக்கர வண்டி சாரதி கொலை: இருவர் கைது
+
+*2024-07-27 00:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டி-சாரதி-கொலை-இருவர்-கைது/175-341101) · `ta`
+
+குருந்துவத்தை - வார்ட் பிளேஸ் தேசிய பல் வைத்தியசாலைக்கு முன்பாக முச்சக்கர வண்டி சாரதி ஒருவர் கத்தியால் குத்திக்கொலை செய்யப்பட்டுள்ளதாக கொழும்பு குற்றத்தடுப்பு பிரிவு தெரிவித்துள்ளது
+
+இந்த கொலையினை மேற்கொண்ட பின்னர் முச்சக்கரவண்டியுடன் தப்பிச்சென்ற சந்தேகநபர்கள் மூவரில் இருவர் திருடப்பட்ட முச்சக்கர வண்டியுடன் கைது செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேகநபர்கள் இருவரில் பிரதான சந்தேகநபரும் அடங்குவதாகவும், கொலைக்கு பயன்படுத்தப்பட்ட கூரிய கத்தி மற்றும் ஐஸ் போதைப்பொருள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+சந்தேகநபர்களிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, ​​கடந்த 23ஆம் திகதி நள்ளிரவில் கைப்பேசி ஒன்றை திருடுவதற்காக இந்த கொலை மேற்கொள்ளப்பட்டுள்ளதாக தெரியவந்துள்ளது. (a)
+
+◼️
+
+[Data](articles/8518fd72.json)
+
+---
+
+### Animal activists help tackle local street dog numbers
+
+*2024-07-27 00:11:51* · [`dailyftlk`](https://www.ft.lk/news/Animal-activists-help-tackle-local-street-dog-numbers/56-764815) · `en`
+
+Prof. Mark Saunders helping a suffering street dog during his Sri Lanka charity walk on 15 April 2023. Initial charity money: The inaugural clinic was paid for by the charity money raised by Prof. Saunders in walking the length of Sri Lanka from Dondra Head to Point Pedro in March-April 2023; a task supported by his wife Chitra Jayasinghe. This walk was 480 miles long, had 39,600 feet of ascent, and took 35 days to complete. It is the first time that an end-to-end walk of Sri Lanka has been achieved to our knowledge.
+
+The animal activists and veterinarians who enabled the first Beragala dog clinic on 29 July 2023. The three activists are (from left) Marie Chothrani, Shamini Rathnayake, and Chitra Jayasinghe. The five veterinarians are dressed in blue with the chief veterinarian wearing light blue tunic.
+
+Animal activists from Beragala near Haputale in the Badulla District are charity-funding clinics to reduce the number of suffering street dogs in their local area.
+
+...
+
+[Data](articles/1e4c8dec.json)
+
+---
+
+### Prime Minister and Ministers give green light to operationalising Citra 3.0
+
+*2024-07-27 00:10:17* · [`dailyftlk`](https://www.ft.lk/business/Prime-Minister-and-Ministers-give-green-light-to-operationalising-Citra-3-0/34-764814) · `en`
+
+Prime Minister Dinesh Gunawardena convened a meeting on Wednesday with the Co-Chairs of the Citra Social Innovation Lab Governance Board, Secretary to the Prime Minister Anura Dissanayake, and United Nations Development Program (UNDP) in Sri Lanka Resident Representative Azusa Kubota, together with State Minister of Finance Shehan Semasinghe, State Minister of Technology Kanaka Herath, Technology Ministry Secretary Dr. Dharmasri Kumaratunga, Public Administration Ministry Additional Secretary M. L. Gammampila, and representatives from the Education, Finance and Planning, Public Administration, and Technology Ministries on operationalising Citra 3.0.
+
+...
+
+[Data](articles/412c02fd.json)
+
+---
+
+### National sustainability standard for Ceylon tea soon
+
+*2024-07-27 00:08:51* · [`dailyftlk`](https://www.ft.lk/business/National-sustainability-standard-for-Ceylon-tea-soon/34-764813) · `en`
+
+Agriculture and Plantation Industries Minister Mahinda Amaraweera on Thursday unveiled ambitious plans to establish a comprehensive National Sustainability Standard for Ceylon Tea by the end of 2024.
+
+This was announced during the opening session of the two-day
+
+Industry experts, leading brands, and social organisations from numerous countries, including Kenya, China, India, Japan, the UK, the Gulf countries, and the US, gathered at the convention, representing the entire global tea value chain from crop to cup.
+
+He said the landmark initiative aims to solidify the country’s position in the global tea industry, whilst addressing pressing challenges like climate change, enhancing the welfare of plantation workers and smallholder farmers.
+
+Amaraweera stressed that the new sustainability standard marks a significant milestone for Sri Lanka’s tea sector, setting the stage for a regenerative agriculture model focused on low-carbon tea production.
+
+...
+
+[Data](articles/2c0bd2a1.json)
+
+---
+
+### “SANASA Way Forward (SANASA Idiriya)” latest phase held in Jaffna
+
+*2024-07-27 00:07:44* · [`dailyftlk`](https://www.ft.lk/business/SANASA-Way-Forward-SANASA-Idiriya-latest-phase-held-in-Jaffna/34-764812) · `en`
+
+Another phase of the “SANASA Way Forward” program series, conceived by the leader of the SANASA Group Dr. P.A. Kiriwandeniya, was successfully held on 18 and 19 July at the Tilko Hotel in Jaffna.
+
+The event was attended by representatives from all the political parties in the area. The chief guest, Parliamentarian Angajan Ramanathan, along with public and private sector representatives, participated in the proceedings.
+
+On the first day, politicians, civil servants, and private sector stakeholders were introduced to the concept of “SANASA Way Forward”. The second day focused on informing the general public, a crucial group for driving a productive economy, about the initiative. Approximately 500 SANASA members and non-members attended the event, where Dr. Kiriwandeniya provided a detailed introduction to the structure of “SANASA Way Forward”.
+
+...
+
+[Data](articles/b92bcc6f.json)
+
+---
+
+### Boost for Sri Lankan products at Charoen Pokphand Group Global Sourcing Expo 2024 in Thailand
+
+*2024-07-27 00:06:54* · [`dailyftlk`](https://www.ft.lk/business/Boost-for-Sri-Lankan-products-at-Charoen-Pokphand-Group-Global-Sourcing-Expo-2024-in-Thailand/34-764811) · `en`
+
+With a view of expanding Sri Lanka’s export basket to Thailand, the Embassy and Permanent Mission of Sri Lanka in Bangkok introduced the National Crafts Council of Sri Lanka and prominent Sri Lankan businessmen to the CP Group which, owns renowned retail chains, Lotus’s, Macro, and Seven Eleven in Thailand.
+
+The CP Group Global Sourcing Expo was held at the Renaissance Bangkok Ratchaprasong Hotel, providing a dynamic platform for international business people and food producers to network, showcase their products, and negotiate business deals with CP Foods and CP Group partners, including leading restaurant operators, hotels, and food service businesses both domestically and internationally. The event aimed to provide Thai people with the opportunity to access high-quality food from around the world and promote Thailand as a world food centre.
+
+...
+
+[Data](articles/d82c17a2.json)
+
+---
+
+### Serendib Flour Mills invests in employee development promoting culture of continuous learning
+
+*2024-07-27 00:06:08* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-invests-in-employee-development-promoting-culture-of-continuous-learning/34-764810) · `en`
+
+Serendib Flour Mills (SFML) has launched a robust employee development program, demonstrating commitment to nurturing employee growth across all departments and promoting a culture of continuous learning.
+
+The three-month initiative aims to enhance skills of sales staff, executives, and middle management across various other departments through a series of workshops, training sessions, mentoring, and online resources. The program focuses on crucial areas such as leadership skills, strategic thinking, team performance, and achieving organisational goals. Offering customised training tailored to enhance leadership and strategic capabilities, Serendib Flour Mills is investing in its workforce’s future and the company’s long-term success. The training program is being conducted by the prestigious Trainers PIM Alumni Association from the Postgraduate Institute of Management, University of Sri Jayewardenepura, ensuring high-quality instruction and relevant industry insights.
+
+...
+
+[Data](articles/9ce1232d.json)
+
+---
+
 ### 2024-07-26 (Friday)
+
+### Eran accuses PM of attempting to cause conflict between Executive and Judiciary
+
+*2024-07-26 23:49:00* · [`dailyftlk`](https://www.ft.lk/news/Eran-accuses-PM-of-attempting-to-cause-conflict-between-Executive-and-Judiciary/56-764800) · `en`
+
+SJB MP Eran Wickramaratne says PM’s statement refusing to accept SC order on IGP appointment is affront to other Police officers
+
+Accuses PM of attempting to mislead country and Parliament by interpreting certain constitutional articles indirectly
+
+Says Parliament has neither authority nor qualification to comment on SC order
+
+Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne has accused Prime Minister Dinesh Gunawardena of attempting to cause conflict between the Executive and Judiciary.
+
+Addressing a press conference in Colombo yesterday, Wickramaratne said the statement by Gunawardena refusing to accept the Supreme Court injunction order against IGP Deshabandu Thennakoon from functioning in the post is an insult to other officers of the Sri Lanka Police.
+
+Wickramaratne said the Prime Minister made a special statement in Parliament, attempting to mislead the country and Parliament by providing a wrong interpretation of several articles of the Constitution.
+
+...
+
+[Data](articles/755ec82e.json)
+
+---
+
+### Bakery owners slash bread prices by Rs. 10 after Trade Minister’s ultimatum
+
+*2024-07-26 23:47:37* · [`dailyftlk`](https://www.ft.lk/news/Bakery-owners-slash-bread-prices-by-Rs-10-after-Trade-Minister-s-ultimatum/56-764799) · `en`
+
+The All Ceylon Bakery Owners’ Association yesterday announced that the price of a 450g loaf of bread is reduced by Rs. 10 effective from last night.
+
+The decision follows Trade Minister Nalin Fernando’s ultimatum to bakery owners earlier this week, urging them to lower their prices.
+
+Minister Fernando emphasised that the directive was clearly communicated to bakery owners, warning that non-compliance would lead to repercussions.
+
+He stated that it was unfair for consumers to pay higher prices for bread, prompting the Government to take action to ensure affordability.
+
+◼️
+
+[Data](articles/b8da1905.json)
+
+---
+
+### SL-Pakistan seventh round of bilateral political consultations in Islamabad
+
+*2024-07-26 23:47:29* · [`dailyftlk`](https://www.ft.lk/news/SL-Pakistan-seventh-round-of-bilateral-political-consultations-in-Islamabad/56-764798) · `en`
+
+Foreign Secretary Aruni Wijewardane will lead Sri Lanka’s delegation to the seventh round of bilateral political consultations between Sri Lanka and Pakistan scheduled to be held in Islamabad on 30 July.
+
+The seventh round of bilateral political consultations will be co-chaired by Wijewardane and Pakistan Foreign Secretary Muhammad Syrus Sajjad Qazi.
+
+The consultations are expected to review the current status of the bilateral relations and the progress achieved in areas of cooperation such as economic and trade, defence and security, education, culture, media and sports, consular matters, agriculture, as well as technology.
+
+On the sidelines of the consultations, the Foreign Secretary is scheduled to call on the Deputy Prime Minister and Pakistan Foreign Affairs Minister Mohammad Ishaq Dar.
+
+...
+
+[Data](articles/adb6f8a7.json)
+
+---
+
+### Democracy should be about ethics, morality and social values, not just regime changes
+
+*2024-07-26 23:20:10* · [`dailyftlk`](https://www.ft.lk/columns/Democracy-should-be-about-ethics-morality-and-social-values-not-just-regime-changes/4-764794) · `en`
+
+No doubt many are questioning the moral and ethical values of politicians in general and the limitless price they will pay to achieve their ultimate objective, power
+
+Democracy today is the dominant principle and practice throughout the world to legitimate political power through the choices expressed by people and yet its relationship to moral and ethical values and traditions does not seem to be an integral part of democracies. Moral and ethical theories are universal theories, whether they are on account of religious faiths or otherwise as they based on basic human values of kindness, compassion, fraternity and a sense of the wellbeing of a community rather than the individual. This thinking appears to be in contradiction of how people think and act when it comes to what is generally understood and practiced as democracy
+
+...
+
+[Data](articles/b86a2a98.json)
+
+---
 
 ### Women’s Asia Cup: Sri Lanka beat Pakistan to set up final with India
 
@@ -2001,333 +2257,5 @@ It is reported that Mr. Thaluda returns to the island again, he is said to be a 
 [Data](articles/bbc9cb08.json)
 
 [Extended Data](ext_articles/bbc9cb08.ext.json)
-
----
-
-### Hamas leader in West Bank dies in Israeli custody, says Palestinian government body
-
-*2024-07-26 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100789/-hamas-leader-in-west-bank-dies-in-israeli-custody-says-palestinian-government-body) · `en`
-
-A Hamas leader in the West Bank died in Israeli custody after a deterioration in his health condition, a Palestinian governmental body said early on Friday.
-
-Mustafa Muhammad Abu Ara, 63, died after being transferred to a hospital from the Ramon jail in southern Israel, the Palestinian Commission of Detainees Affairs said in a statement.
-
-“Before his arrest, he was suffering from serious health problems and needed intensive medical follow-up. However, from the moment of his arrest, Sheikh Abu Ara, like all prisoners, has faced unprecedented crimes ... since the beginning of the war of extermination.”
-
-Abu Ara, who was arrested in October last year, was subjected to torture and deprived of medical treatment, the Palestinian body said. There was no immediate comment from Israel.
-
-At least 18 Palestinians have died in Israeli custody since the start of the Gaza war on Oct. 7, the Palestinian Prisoners Association said last month.
-
-...
-
-[Data](articles/d600e4ee.json)
-
-[Extended Data](ext_articles/d600e4ee.ext.json)
-
----
-
-### Youth dies after collision with train
-
-*2024-07-26 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199228) · `si`
-
-A 26-year-old from Dematagoda died after colliding with a train on the Colombo-Badulla route.
-
-🟩
-
-The Ella also said that a man was killed in the last night-mail from Colombo Fort to Badulla.
-
-The deceased has been identified as a 26 year old resident of the Dem Wwarawela in Dem Wwarawela.
-
-◼️
-
-[Data](articles/bf001293.json)
-
-[Extended Data](ext_articles/bf001293.ext.json)
-
----
-
-### Receiving the Presidential Election to August 14
-
-*2024-07-26 11:56:00* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-ඇප-මුදල්-භාර-ගැනීම-අගෝස්තු-14-දා-දක්වා/11-411015) · `si`
-
-The Elections Commission set the deadline for presidential candidate nominations for August 17, allowing submissions until 5 PM on August 21. The commission also announced that the deposit period for candidates' nomination fees will take place from 8:30 AM to 12:00 PM on August 14 at its office. This information was shared through a special gazette notification, marking it as one of the key announcements regarding the upcoming elections.
-
-🟩
-
-The Elections Commission announced that the date of accepting the nomination of the Presidential Election to the 21st afternoon before the 17th of August, which was held on the 21st afternoon before the JVP was held on the 21st afternoon.
-
-The Elections Commission states that Rs.
-
-Deposal of this bail will be held from 08.30 am from 08.30 am to 12:00 pm on the 14th to 12 noon at 12 noon at the Elections Commission office.The Elections Commission has been announced by the second most special gazette notification issued in this election.
-
-◼️
-
-[Data](articles/0783ab60.json)
-
-[Extended Data](ext_articles/0783ab60.ext.json)
-
----
-
-### The appointment of the Inspector General of Police is legally and constitutional: Speaker
-
-*2024-07-26 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189418) · `ta`
-
-Speaker Mahinda Yapa Abeywardena defended the appointment of the Inspector General of Police as constitutional and correct, despite criticism. He denied allegations of wrongdoing, stating decisions were made in accordance with the constitution. The process involved the approval of both the Constituent Assembly and Parliament, marking an unprecedented move. He suggested that in cases of vacancy, there should be established procedures or judicial intervention, emphasizing that even the President cannot make such appointments unilaterally.
-
-🟩
-
-The police chief affair is very complicated. Speaker Mahinda Yapa Abeywardena said that allegations are being made against me that this situation was due to the wrong decision taken by me.
-
-The Speaker said this while commenting on the appointment of the Inspector General of Police in Parliament today (26).
-
-We have not taken any wrong decision. We have taken a reasonable, right resolution of the constitution deeply. That resolution may seem incorrectly for you (awakening the opposition). But we made that decision in the right way.
-
-I have taken this decision from the house and is completely false. 41 (d) - I used the word for me in Article 5. The appointment of the Inspector General of Police with the approval of the Constituent Assembly and the approval of the Parliament was unprecedented.
-
-So there are steps to solve this post in case of vacuum. Or the court must provide a solution for this. He said that even the president could not decide on this.
-
-◼️
-
-[Data](articles/881baffb.json)
-
-[Extended Data](ext_articles/881baffb.ext.json)
-
----
-
-### Arrested
-
-*2024-07-26 11:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-கொள்ளைக்காரி-கைது/71-341068) · `ta`
-
-A suspect linked to the robbery of a Canadian Tamil family in Jaffna was arrested after a violent gang attack during their holiday stay. The investigation led to the arrest of three individuals, including a woman accused of orchestrating the crime. Further inquiries revealed the involvement of a temple leader in Canada, who allegedly funded the gang. The woman, with pending criminal cases, was detained for 48 hours for further investigation.
-
-🟩
-
-A main suspect in connection with the robbery of a Canadian Tamil family in the Analathivu area in Jaffna has been arrested.
-
-A Tamil family from Analadeev had come to Canada and lived in Canada last year to spend the holidays.
-
-In the meantime, on February 23 last year, a violent gang entered the house where they were staying and robbed their foreign money, jewelery, goods and passports.
-
-The Kayts police, who were conducting investigations into the incident, found that from Jaffna, they went to Analytivu on a special boat and found the robbery.
-
-On the basis of intensive investigations, three persons were arrested on suspicion and investigated, and they said that a woman had paid for her and demanded that she hired her and demanded that she had been attacked.
-
-Accordingly, the police have arrested the woman on Wednesday (24) for about a year and a half.
-
-While investigating the woman, the head of the Iyyappan temple in Canada had confessed that he had paid a violent gang to pay for a gang.
-
-...
-
-[Data](articles/7bd85b80.json)
-
-[Extended Data](ext_articles/7bd85b80.ext.json)
-
----
-
-### Ranil first bailed for presidential election
-
-*2024-07-26 11:48:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රනිල්-මුලින්ම-ඇප-තියයි/11-411014) · `si`
-
-President Ranil Wickremesinghe became the first candidate to deposit bail with the Elections Commission for the 2024 Presidential Election, marking his candidacy as an independent. His counsel, Ronald C. Mr. Perera, facilitated this process.
-
-🟩
-
-President Ranil Wickremesinghe has deposited bail to the Elections Commission to contest as an independent candidate for the Presidential Election 2024. President's Counsel Ronald C. Mr. Perera deposited bail.
-
-President Ranil Wickremesinghe was the first bail of the Presidential election.
-
-◼️
-
-[Data](articles/0a26b306.json)
-
-[Extended Data](ext_articles/0a26b306.ext.json)
-
----
-
-### The Prime Minister's comment has revealed what matters are going on before the presidential election - Bhavani Fonseka
-
-*2024-07-26 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189414) · `ta`
-
-Bhavani Fonseka, a Human Rights Attorney, criticized Prime Minister Dinesh Gunawardena over his claim that the police chief cannot be appointed by the President's Chief of Staff. She mentioned past precedents where such appointments were made under the President's supervision. Fonseka expressed concern that practicing democracy could be seen as a "forgotten disease" by those seeking to maintain power, highlighting a dispute over the legal authority to appoint the Inspector General of Police.
-
-🟩
-
-Human Rights Attorney Bhavani Fonseka has said that Prime Minister Dinesh Gunawardena's claim that the police chief cannot appoint the Inspector General of Police.
-
-He said there were precedent under the supervision of the Chancellor of the President of the President in the past.
-
-Bhavani Fonseka has stated that I think that I am a forgotten disease for someone who continues to practice democracy to continue in power.
-
-Prime Minister Dinesh Gunawardena has stated that the President has no authority to appoint the Inspector General of Police in response to the legal provisions.
-
-◼️
-
-[Data](articles/4a1e07cc.json)
-
-[Extended Data](ext_articles/4a1e07cc.ext.json)
-
----
-
-### IGP handed over to court again
-
-*2024-07-26 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199227) · `si`
-
-In Parliament, Speaker Mahinda Yapa Abeywardena defended the appointment of Deshabandu Tennakoon as IGP, calling it a lawful, constitutional move. He stated that the President alone cannot resolve the current issue.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena has made a special explanation in Parliament today (26) to appoint Deshabandu Tennakoon as IGP.
-
-He said that the decision to appoint the IGP is a proper, legal, constitutional decision.
-
-The Speaker pointed out that the President cannot solve the problem at present.
-
-◼️
-
-[Data](articles/765a28e1.json)
-
-[Extended Data](ext_articles/765a28e1.ext.json)
-
----
-
-### Decision to appoint IGP was constitutional - Speaker tells Parliament
-
-*2024-07-26 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100788/decision-to-appoint-igp-was-constitutional-speaker-tells-parliament-) · `en`
-
-The Speaker of the Parliament Mahinda Yapa Abeywardena has informed the Parliament that the decision to appoint the Inspector General of Police (IGP) was correct, legal, constitutional, and made in good faith.
-
-He further said that the situation with regard to the IGP cannot be resolved even by the President, and the matter must be sorted out in court if necessary.
-
-The Speaker made these comments following the special statement delivered in Parliament by the Prime Minister regarding the Supreme Court decision on the IGP.
-
-Speaking in Parliament this morning (26), PM Dinesh Gunawardena had clarified that the President has no legal provisions at this moment to appoint an Acting IGP.
-
-The Prime Minister also emphasized that the position of the IGP is not vacated presently.
-
-He also stated that the court cannot change the approval granted by the Constitutional Council to appoint the current IGP.
-
-...
-
-[Data](articles/5135490d.json)
-
-[Extended Data](ext_articles/5135490d.ext.json)
-
----
-
-### Hamas leader dies
-
-*2024-07-26 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199226) · `si`
-
-Muztafa Muhammad Abu Army, former Hamas leader in the West Bank, died during hospital treatment in Israel, allegedly mistreated by Israeli defense forces. The incident follows a series of attacks targeting Hamas members, resulting in 18 Palestinian deaths over the past 10 months.
-
-🟩
-
-Muztafa Muhammad Abu Army, who served as Hamas leader at the Palestinian West Bank, has been killed.
-
-The Reuters reported that he had died while he was receiving treatment at a hospital in the Israeli.
-
-The Palestinian authorities have accused the Israeli defense departments to treat his illness in a prison in South Israeli camp.
-
-The Israeli aimed at 4 October 7 was arrested following the attack on Hamas members.
-
-It is reported that 18 Palestinians have died while in Israel were killed in the past 10 months.
-
-◼️
-
-[Data](articles/9765c5e3.json)
-
-[Extended Data](ext_articles/9765c5e3.ext.json)
-
----
-
-### Presidential election on September 21
-
-*2024-07-26 11:17:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණය-සැප්තැම්බර්-21දා/11-411013) · `si`
-
-The presidential election is scheduled for September 21, with candidate nominations opening on August 15, as announced by the Elections Commission.
-
-🟩
-
-The Elections Commission has announced that the presidential election is held on September 21st. The Elections Commission states that the nominations for the president will take place on August 15.
-
-◼️
-
-[Data](articles/10c928e0.json)
-
-[Extended Data](ext_articles/10c928e0.ext.json)
-
----
-
-### Presidential candidate for the pove
-
-*2024-07-26 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199225) · `si`
-
-The final presidential candidate for the People's Victory Party in Sri Lanka will be announced on Monday, as per party sources from the Sri Lanka General Hospital.
-
-🟩
-
-The final decision on the candidate of the Presidential Election will be taken on Monday (29), according to the party sources of the Sri Lanka General Hospital.
-
-◼️
-
-[Data](articles/43f98555.json)
-
-[Extended Data](ext_articles/43f98555.ext.json)
-
----
-
-### At least the price of the panty by 10 rupees
-
-*2024-07-26 10:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ரூபாவால்-குறைந்தது-பாண்-விலை/175-341066) · `ta`
-
-Increase the price of the panty by at least 10 rupees.
-
-🟩
-
-◼️
-
-[Data](articles/ab8ca71b.json)
-
-[Extended Data](ext_articles/ab8ca71b.ext.json)
-
----
-
-### A change in the price of a bread
-
-*2024-07-26 10:55:27* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-ගෙඩියක-මිලෙහි-වෙනසක්/11-411012) · `si`
-
-Despite the All Ceylon Bakery Owners Association not changing bread prices, individual bakeries are lowering product costs.
-
-🟩
-
-All Ceylon Bakery Owners Association President N. President N. President of All Ceylon Bakery Owners Association. K. He said.
-
-However, other bakeries are notable of reducing the prices of the products.
-
-◼️
-
-[Data](articles/013df898.json)
-
-[Extended Data](ext_articles/013df898.ext.json)
-
----
-
-### SLPP to decide on presidential candidate on Monday
-
-*2024-07-26 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100787/slpp-to-decide-on-presidential-candidate-on-monday) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) will make a decision regarding its candidate for the 2024 Presidential Election on Monday (29 July), party sources told Ada Derana.
-
-The Election Commission of Sri Lanka today also issued the Gazette notification announcing the date of the 2024 Presidential Election and the date for the accepting of nominations.
-
-Accordingly, the Presidential Election will be held on 21 September, 2024 and Nominations will be accepted on 15 August 2024, according to the Gazette notification.
-
-Meanwhile, President’s Counsel Ronald Perera today placed bonds on behalf of President Ranil Wickremesinghe to contest the forthcoming Presidential Election as an independent candidate.
-
-◼️
-
-[Data](articles/61b454fb.json)
-
-[Extended Data](ext_articles/61b454fb.ext.json)
 
 ---

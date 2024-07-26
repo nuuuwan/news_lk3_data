@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 10:36:44**
+As of **2024-07-26 10:54:37**
 
 ## Newspaper Stats
 
-*Scraped **37,350** Articles*
+*Scraped **37,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,238
 dailyftlk | 2,389
-adalk | 3,396
+adalk | 3,397
 adaderanalk | 4,322
-tamilmirrorlk | 4,603
+tamilmirrorlk | 4,604
 dailymirrorlk | 4,733
 virakesarilk | 5,864
 adaderanasinhalalk | 6,266
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,347 (100.0%) of 37,350 articles have been extended.
+37,350 (100.0%) of 37,352 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,33 +42,61 @@ The price of a 450g loaf of bread will be reduced by Rs. 10 with effect from mid
 
 [Data](articles/3e7c1551.json)
 
+[Extended Data](ext_articles/3e7c1551.ext.json)
+
 ---
 
-### පාන් මිල අඩුකෙරේ
+### ஜனாதிபதிக்கு அதிகாரம் இல்லை: பிரதமர்
+
+*2024-07-26 10:19:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அதிகாரம்-இல்லை-பிரதமர்/175-341065) · `ta`
+
+நடைமுறை சட்ட ஏற்பாடுகளுக்கு அமைய பதில் பொலிஸ்மா அதிபரை நியமிக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது என பிரதமர் தினேஷ் குணவர்தன இன்று (26) பாராளுமன்றில் விசேட அறிவிப்பொன்றை விடுத்து இதை தெரிவித்தார்.
+
+இதேவேளை, ஜனாதிபதித் தேர்தலுக்கான திகதி தேர்தல் ஆணைக்குழுவால் அறிவிக்கப்பட்டுள்ள நிலையில், ரணில் விக்ரமசிங்க வேட்பாளராகக் களமிறங்குவாரெனில் அரசியலமைப்பிற்கமைய அவரால் பதில் பொலிஸ்மா அதிபரொருவரை நியமிக்க முடியாதென்றும் பிரதமர் தினேஷ் குணவர்தன குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/d569d8a9.json)
+
+---
+
+### The price of bread is reduced
 
 *2024-07-26 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199224) · `si`
 
-සමස්ත ලංකා බෙකරිහිමියන්ගේ සංගමයේ සභාපති එන්. කේ. ජයවර්ධන මහතා ඒ බව පැවසීය.
+Mr. Jayawardena from the All Ceylon Bread Association announced a reduction in bread prices.
+
+🟩
+
+All Ceylon Becoriion's Association. K. Mr. Jayawardena said that.
 
 ◼️
 
 [Data](articles/7d0556b8.json)
 
+[Extended Data](ext_articles/7d0556b8.ext.json)
+
 ---
 
-### ජනපතිට වැඩබලන පොලිස්පතිවරයෙක් පත් කළ හැකිද ?
+### Can the President appoint a acting IGP?
 
 *2024-07-26 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199223) · `si`
 
-වැඩබලන පොලිස්පතිවරයෙකු පත් කිරීමට ජනාධිපතිවරයාට මේ මොහොතේ නීතිමය ප්‍රතිපාදන නොමැති බව අද (26) පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් කරමින් අගමැති දිනේෂ් ගුණවර්ධන මහතා පැවසීය.
+In a parliamentary address, Prime Minister Dinesh Gunawardena announced the President's decision to appoint an acting Inspector General of Police (IGP), noting that the current position is not vacant.
 
-එහිදී අගමැතිවරයා වැඩිදුරටත් සඳහන් කළේ දැනට පවතින පොලිස්පති ධූරය හිස් නොවන බවය.
+🟩
 
-"පොලිස්පති සම්බන්ධව වැඩ අත්හිටුවා ඇති ශ්‍රේෂ්ඨාධිකරණයේ නියෝගය බලරහිත කළයුතු යැයි කථානායකවරයා සහ පාර්ලිමේන්තුව වෙත සිහිපත් කරනවා.  කථානායකවරයා මේ සම්බන්ධව හැකි ඉක්මණින් මැදිහත් වන ලෙස අපි දන්වා සිටිනවා." යනුවෙන් ද අගමැතිවරයා පැවසීය.
+Prime Minister Dinesh Gunawardena said that the President has made a special statement in Parliament today to appoint a acting IGP.
+
+The Prime Minister added that the existing IGP is not empty.
+
+"The Speaker and Parliament Reminder the Speaker and Parliament.  කථානායකවරයා මේ සම්බන්ධව හැකි ඉක්මණින් මැදිහත් වන ලෙස අපි දන්වා සිටිනවා." යනුවෙන් ද අගමැතිවරයා පැවසීය.
 
 ◼️
 
 [Data](articles/05b973a9.json)
+
+[Extended Data](ext_articles/05b973a9.ext.json)
 
 ---
 
@@ -85,6 +113,24 @@ Delivering a special statement in Parliament, the Prime Minister also emphasized
 [Data](articles/fc3abe74.json)
 
 [Extended Data](ext_articles/fc3abe74.ext.json)
+
+---
+
+### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka Physical & Digital Connectivity Dialogue
+
+*2024-07-26 09:58:00* · [`islandlk`](http://island.lk/pathfinder-foundation-and-ananta-aspen-centre-lead-india-sri-lanka-physical-digital-connectivity-dialogue/) · `en`
+
+The Roundtable Discussion on “Bridging Borders: Enhancing Connectivity Between India and Sri Lanka,”, concluded successfully, fostering insightful dialogue and collaborative discussion on strengthening physical and digital connectivity between the two nations.
+
+The event commenced with welcome and opening remarks by Amb. (Retd.) Bernard Goonetilleke, Chairman of Pathfinder Foundation, and Ms. Indrani Bagchi, Chief Executive Officer of Ananta Aspen Centre, set the tone for a productive session. The two sessions can be live on the Pathfinder Foundation web or YouTube link, https://rb.gy/11n635
+
+Session 1 focused on the transformative potential of Digital Public Infrastructure (DPI) in driving development across emerging markets, bringing distinguished speakers and discussants to explore how DPI can catalyze economic growth and regional connectivity.
+
+...
+
+[Data](articles/3c6537f2.json)
+
+[Extended Data](ext_articles/3c6537f2.ext.json)
 
 ---
 
@@ -603,26 +649,6 @@ The Sri Lanka Retailer’s Association (SLRA) held its 7th Annual General Meetin
 [Data](articles/c876b721.json)
 
 [Extended Data](ext_articles/c876b721.ext.json)
-
----
-
-### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka Physical & Digital Connectivity Dialogue
-
-*2024-07-26 05:46:00* · [`islandlk`](http://island.lk/pathfinder-foundation-and-ananta-aspen-centre-lead-india-sri-lanka-physical-digital-connectivity-dialogue/) · `en`
-
-The Roundtable Discussion on “Bridging Borders: Enhancing Connectivity Between India and Sri Lanka,”, concluded successfully, fostering insightful dialogue and collaborative discussion on strengthening physical and digital connectivity between the two nations.
-
-The event commenced with welcome and opening remarks by Amb. (Retd.) Bernard Goonetilleke, Chairman of Pathfinder Foundation, and Ms. Indrani Bagchi, Chief Executive Officer of Ananta Aspen Centre, set the tone for a productive session. The two sessions can be live on the Pathfinder Foundation web or YouTube link, https://rb.gy/11n635
-
-Session 1 focused on the transformative potential of Digital Public Infrastructure (DPI) in driving development across emerging markets, bringing distinguished speakers and discussants to explore how DPI can catalyze economic growth and regional connectivity.
-
-Sri Lanka’s economy on Y-o-Y growth expansion of 5.3 percent – CBSL Governor
-
-...
-
-[Data](articles/3c6537f2.json)
-
-[Extended Data](ext_articles/3c6537f2.ext.json)
 
 ---
 
@@ -1612,6 +1638,20 @@ These two bills were presented to Parliament on 22 May 2024. (Colombo/Jul25/2025
 
 ---
 
+### අග්බෝ ගැන අධිකරණය දුන් නියෝගය
+
+*2024-07-25 19:32:31* · [`adalk`](https://www.ada.lk/breaking_news/අග්බෝ-ගැන-අධිකරණය-දුන්-නියෝගය/11-411007) · `si`
+
+වසරකට අධික කාලයක් තිරප්පනේ පොලිස් වසම තුළ සැරිසරමින් සිටින පිරිපුන් දළ යුගලකින් සමන්විත අග්බෝ ඇතා නොපමාව ආරක්ෂිතව සුදුසු වනාන්තරයකට මුදා හැර සංරක්ෂණය කරන ලෙස අනුරාධපුර ප්‍රධාන මහේස්ත්‍රාත් සහ අතිරේක දිසා විනිසුරු නාලක සංජීව ජයසූරිය මහතා වනජීවී දෙපාර්තමේන්තුවේ අනුරාධපුර සහකාර අධ්‍යක්ෂවරයාට නියෝග කළේය.
+
+ප්‍රධාන මහේස්ත්‍රාත්වරයා මෙසේ නියෝග කළේ උතුරු මැද දිසාව භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ උපදෙස් මත තිරප්පනේ පොලීසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රංජිත් කුමාරසිංහ මහතා අධිකරණයට කළ කරුණු දැක්වීමක් සැලකිල්ලට ගනිමිනි. මේ සම්බන්ධයෙන් අධිකරණයට කරුණු  දක්වමින් තිරප්පනේ පොලීසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රංජිත් කුමාරසිංහ මහතා පැවසුවේ අග්බෝ ඇතා දැනට වසරකට අධික කාලයක සිට තිරප්පනේ ප්‍රදේශයේ විවිධ තැන්වල සැරිසරමින් සිටින බවයි.
+
+...
+
+[Data](articles/a35dd83f.json)
+
+---
+
 ### Sri Lanka banks in talks about getting ISBs repaid in rupees: Sources
 
 *2024-07-25 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-in-talks-about-getting-isbs-repaid-in-rupees-sources-173831/) · `en`
@@ -2089,63 +2129,5 @@ The National Agest of the anti-Corruption will include a plan of anti-corruption
 [Data](articles/6101363b.json)
 
 [Extended Data](ext_articles/6101363b.ext.json)
-
----
-
-### The 63rd Anniversary of the People's Bank celebrated with the Events
-
-*2024-07-25 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189374) · `ta`
-
-To celebrate its 63rd anniversary, the People's Bank hosted several events including religious ceremonies led by the Buddhist, Hindu, Muslim, and Christian societies, honoring founders, employees past and present, and organizing a blood donation camp.
-
-🟩
-
-People's Bank started on July 01, and now sixty -three years have passed. As a result, various events were organized at the People's Bank headquarters.
-
-The event was held on the 05th and 6th of July by the Buddhist Society of the People's Bank.
-
-The first day of the first night was a recitation of the recitation and the next day a donation was held with sixty -three Mahanayakas.
-
-It is noteworthy that the Hindu Association of the People's Bank, the Muslim Association and the Christian Society also organized religious events.
-
-During these religious events, the country, the people, the customers, the leaders who were the forerunners of the establishment of the People's Bank, were worshiped for the past and the present employees.
-
-People's Bank Chairman Sujeewa Rajapaksa, Chief Executive General Manager Clive Fonseka, bank employees and retired employees were also present.
-
-...
-
-[Data](articles/97bc068c.json)
-
-[Extended Data](ext_articles/97bc068c.ext.json)
-
----
-
-### The government has decided to apologize to Muslims to protect Rajapakse
-
-*2024-07-25 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189368) · `ta`
-
-In response to accusations of mishandling COVID-19 deaths among Muslims, the government plans to apologize to the Muslim community to deflect criticism aimed at protecting Rajapaksa officials. This move comes after allegations surfaced about the government's decision to cremate Muslim deceased without consent, causing widespread outrage within the community. Critics argue this apology is politically motivated, aiming to secure Muslim votes rather than address the underlying issue of discrimination and lack of proper handling of the deceased. Calls for legal action against those responsible for the mishandling are also being made, highlighting the need for accountability and justice.
-
-🟩
-
-Marikkar MP has decided to apologize to the Muslim community now that the Cabinet has been accused of protecting Rajapaksa's bodies from the bodies of Muslim citizens who died in a kovit infection.. Said.
-
-He was speaking at a debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25).
-
-The Rajapakse government has taken steps to burn the bodies of Muslim citizens who died in the Kovit infection without any scientific resolution.
-
-The entire Muslim community was very painful by this decision of that government. The affected families are still aware of its pain.
-
-It is a foolish thing for the government to think that the government can escape from the other Muslim people.
-
-The government has suddenly made such a resolution to protect Rajapakse from the crime and blame the authorities.
-
-If the authorities have been given the ally not scientifically to burn the bodies, who made the decision.
-
-...
-
-[Data](articles/819ecce0.json)
-
-[Extended Data](ext_articles/819ecce0.ext.json)
 
 ---

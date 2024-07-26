@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 15:05:37**
+As of **2024-07-26 15:20:38**
 
 ## Newspaper Stats
 
-*Scraped **37,403** Articles*
+*Scraped **37,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,132 @@ adalk | 3,406
 adaderanalk | 4,329
 tamilmirrorlk | 4,610
 dailymirrorlk | 4,733
-virakesarilk | 5,876
-adaderanasinhalalk | 6,275
+virakesarilk | 5,880
+adaderanasinhalalk | 6,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,401 (100.0%) of 37,403 articles have been extended.
+37,403 (100.0%) of 37,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### சரத் கீர்த்திரத்ன கட்டுப்பணத்தை செலுத்தினர்
+### திருகோணமலை இலந்தைக்குளம் பகுதியில் இரவோடு இரவாக விகாரை அமைக்க காணி துப்புரவு
+
+*2024-07-26 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189442) · `ta`
+
+திருகோணமலை குச்சவெளி பிரதேச செயலாளர் பிரிவுக்குட்பட்ட இலந்தைக்குளம் பகுதியில் இரவோடு இரவாக புத்த விகாரை அமைப்பதற்காக காணி துப்பரவு செய்யப்பட்டதால் அப்பகுதியில் பதட்டம் நிலவி வருகின்றது.
+
+குச்சவெளி - இலந்தைக்குளம் 5ஆம் கட்டைப்பகுதியில் நேற்று (25) இரவில் இருந்து பௌத்த பிக்கு ஒருவரின் தலைமையில் புத்த விகாரை அமைப்பதற்காக மக்களுடைய காணி துப்பரவு செய்யப்பட்டு வருவதாக அப்பகுதி மக்கள் தெரிவிக்கின்றனர். வயலுக்கு சென்ற மக்களால் குறித்த ஆக்கிரமிப்பு நடவடிக்கை அவதானிக்கப்பட்டு மக்களுக்கு தகவல் வழங்கப்பட்டதையடுத்து இன்று வெள்ளிக்கிழமை (26) குச்சவெளி பிரதேச செயலாளரின் கவனத்திற்கு குறித்த விடயம் கொண்டு வரப்பட்டுள்ளதாகவும் அதனைத் தொடர்ந்து குறித்த நடவடிக்கை தற்காலிகமாக இடை நிறுத்தப்பட்டுள்ளதாகவும் மக்கள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/813b0d0d.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-26 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/189445) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஜூலை 26) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 298.7131 ரூபாவாகவும், விற்பனை விலை 307.9537 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/49addd1e.json)
+
+---
+
+### பொதுத்துறை அதிகாரிகள் 15 பேருக்கு மனிதவள மேம்பாட்டு உதவித்தொகைக்கான ஜப்பானிய புலமைப்பரிசில்
+
+*2024-07-26 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/189443) · `ta`
+
+இலங்கைக்கான ஜப்பான் தூதுவர் மிசுகொஷி ஹிதேகி H. E. MIZUKOSHI Hideaki, மனிதவள மேம்பாட்டு உதவித்தொகைக்கான ஜப்பானிய புலமைப்பரிசில் திட்டத்தின் JDS (the Japanese Grant Aid for Human Resources Development Scholarship) புலமைப்பரிசில் பெறுபவர்களை வழினுப்புவதற்கான வரவேற்பு நிகழ்ச்சியை நடத்தி அடுத்த மாதம் மாணவர்களாக ஜப்பானுக்குச் செல்லும் அவர்களுக்கு தனது மனமார்ந்த வாழ்த்துக்களைத் தெரிவித்தார்.
+
+இம்மாதத் தொடக்கத்தில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்த போது எமது வெளிவிவகார அமைச்சருடன் இந்த ஜேடிஎஸ் திட்டத்தில் குறிப்புகள் பரிமாற்றத்தில் கையெழுத்திட்ட வெளியுறவு அமைச்சர் அலி சப்ரி இநிகழ்வில் விருந்தினராக பங்கேற்றார்.
+
+இந்த திட்டம் ஜப்பானில் உள்ள பல்வேறு பல்கலைக்கழகங்களில் பொதுத்துறையில் இளம் நிர்வாக அதிகாரிகளுக்கு பயிற்சி அளிப்பதோடு, அந்தந்த துறைகளில் எதிர்கால தலைவர்களாக தகுதிபெறும் வகையில் அவர்களின் அறிவையும் திறமையையும் மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.
+
+...
+
+[Data](articles/6d1837ef.json)
+
+---
+
+### මාරක අනතුරින් පිය - පුතු දෙදෙනාටම දිවි අහිමිවෙයි
+
+*2024-07-26 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199235) · `si`
+
+පිටිගල, මාපලගම මාර්ගයේ මත්තක ප්‍රදේශයේ දී ට්‍රක් රථයක් සහ මෝටර් රථයක් මුහුණට මුහුණ ගැටීමෙන් සිදුවු අනතුරින් එකම පවුලේ පියා සහ පුතු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අනතුරින් කාන්තාවන් දෙදෙනෙකු තුවාල ලබා ඇල්පිටිය මූලික රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+
+මෝටර් රථයේ ගමන් කර ඇත්තේ එකම පවුලේ පිරිසක් වන අතර, අනතුරින් මියගිය අය අතර මෝටර් රථය පැදවූ පුද්ගලයා ද වේ.
+
+අනතුරට මැදිවීමෙන් යතුරුපැදියෙන් මාර්ගයේ ගමන් කරමින් සිටි විදුහල්පතිවරයෙකු ද සුළු තුවාල ලබා ඇල්පිටිය මූලික රෝහල වෙත ඇතුළත් කර තිබුණි.
+
+අනතුර සම්බන්ධයෙන් ට්‍රක් රථ රියදුරු පිටිගල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/bdcc4548.json)
+
+---
+
+### Sarath Keerthi Ratna paid control
 
 *2024-07-26 14:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-கீர்த்திரத்ன-கட்டுப்பணத்தை-செலுத்தினர்/175-341078) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிடுவதற்காக முன்னாள் பாராளுமன்ற உறுப்பினர் சரத் கீர்த்திரத்ன கட்டுப்பணத்தை வௌ்ளிக்கிழமை (26) காலை செலுத்தினார்.
+Sarath Keerthiratne, a former parliamentarian, announced his candidacy for the upcoming presidential election as an independent candidate, marking him as the first contender for this position since the last presidential election.
 
-இம்முறை ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கான உறுதிமொழியை சமர்ப்பித்த முதலாவது வேட்பாளர் கடந்த ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராகப் போட்டியிட்டவர்.
+🟩
+
+Former parliamentarian Sarath Keerthiratne on Wednesday morning (26), he paid control of the upcoming presidential election as an independent candidate.
+
+This time, the first candidate to contest the presidential election was the first candidate in the last presidential election as an independent candidate.
 
 ◼️
 
 [Data](articles/ae728905.json)
+
+[Extended Data](ext_articles/ae728905.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தல் : விசேட அறிக்கையை வெளியிட்டது தேர்தல் ஆணைக்குழு
+
+*2024-07-26 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189440) · `ta`
+
+உத்தேச ஜனாதிபதித் தேர்தலில் அங்கீகரிக்கப்பட்ட கட்சி சார்பில் போட்டியிடவுள்ள வேட்பாளர்கள் 50,000 ரூபாவையும், ஏனைய வேட்பாளர்கள் 75,000 ரூபாவவையும் கட்டுப்பணமாக செலுத்த வேண்டும் என்று சுயாதீன தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+செப்டெம்பர் 21ஆம் திகதி ஜனாதிபதித் தேர்தல் இடம்பெறவுள்ள நிலையில் மக்கள் தெரிந்து கொள்வதற்காக இந்த அறிக்கை வெளியிடப்படுகிறது. தேர்தலுக்கான வேட்புமனுக்கள் ஆகஸ்ட் 15ஆம் திகதி முற்பகல் 9 - 11 மணி வரை ராஜகிரியவிலுள்ள தேர்தல் ஆணைக்குழுவில் ஏற்றுக் கொள்ளப்படும்.
+
+தாக்கல் செய்யப்படும் வேட்புமனுக்கள் தொடர்பில் அன்றைய தினமே முற்பகல் 9 - 11.30 மணி வரை ஆட்சேபனைகளையும் தெரிவிக்க முடியும். எதிர்தரப்பு வேட்பாளர் அல்லது அவர் சார்பில் வேட்புமனு தாக்கல் செய்யும் நபர்களால் இந்த ஆட்சேபனைகளை முன்வைக்க முடியும்.
+
+வேட்புமனு தாக்கல் செய்வதற்கு முன்னர் சகல வேட்பாளர்களும் கட்டுப்பணத்தை செலுத்த வேண்டியது அவசியமாகும். அதற்கமைய தேர்தலில் அங்கீகரிக்கப்பட்ட கட்சி சார்பில் போட்டியிடவுள்ள வேட்பாளர்கள் 50,000 ரூபாவையும், ஏனைய வேட்பாளர்கள் 75,000 ரூபாவவையும் கட்டுப்பணமாக செலுத்த வேண்டும்.
+
+...
+
+[Data](articles/565defd1.json)
+
+---
+
+### ඉසුරු උදානගේ නැන්දනියගේ නිවස කොල්ලකෑ සැකකරුවෙක් කොටු
+
+*2024-07-26 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199234) · `si`
+
+හිටපු ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක ඉසුරු උදානගේ නැන්දනිය පදිංචි හෝමාගම දුම්රිය පොළ පාරේ පිහිටි තෙමහල් නිවස පසුගියදා කොල්ලකා තිබුණි.
+
+එහිදී නිවසට ඇතුළුවූ කොල්ලකරු ඇයට තියුණු ආයුධයකින් පහරදී බරපතළ තුවාල සිදුකර රුපියල් ලක්ෂ 72ක් වටිනා රන් ආභරණ තොගයක් කොල්ලකා තිබූ බව වාර්තා විය.
+
+ඒ අනුව සිද්ධියේ සැකකරුවෙකු සිව් මසකට පසු අත්අඩංගුවට ගැනීමට පොලීසියට හැකිවී තිබේ.
+
+◼️
+
+[Data](articles/5ad66ae7.json)
 
 ---
 
@@ -1770,6 +1872,8 @@ The event saw employees who had completed their services from 10 to 30 years at 
 
 [Data](articles/8d955fac.json)
 
+[Extended Data](ext_articles/8d955fac.ext.json)
+
 ---
 
 ### Investors’ presidential or parliamentary poll first quandary checks share trading momentum
@@ -2021,135 +2125,5 @@ During this two years, the most important program for the Sri Lankan people, the
 [Data](articles/b77391bd.json)
 
 [Extended Data](ext_articles/b77391bd.ext.json)
-
----
-
-### Hela and Authentic Brands Group announce outerwear partnership for Reebok
-
-*2024-07-26 02:31:26* · [`dailyftlk`](https://www.ft.lk/business/Hela-and-Authentic-Brands-Group-announce-outerwear-partnership-for-Reebok/34-764765) · `en`
-
-Authentic Brands Group (Authentic), a global brand development, marketing, and entertainment platform, today announced a long-term partnership with Focus Brands, the brand licensing division of Hela Apparel Holdings PLC, for Reebok.
-
-Through the partnership, Focus Brands will design, manufacture and distribute Reebok-branded outerwear products across the UK and Europe.
-
-“We look forward to expanding our relationship with Focus Brands and Hela to build Reebok’s presence in the premium, technical outwear category across the UK and Europe,” said Authentic President, Lifestyle – EMEA and India Henry Stupp. “This partnership will elevate the brand’s offerings and bring a fresh, innovative approach to our product lineup, enhancing our appeal to consumers and solidifying our market position.”
-
-...
-
-[Data](articles/fd2849ff.json)
-
-[Extended Data](ext_articles/fd2849ff.ext.json)
-
----
-
-### Namal accuses President of attempts to dismantle SLPP
-
-*2024-07-26 02:29:19* · [`dailyftlk`](https://www.ft.lk/news/Namal-accuses-President-of-attempts-to-dismantle-SLPP/56-764764) · `en`
-
-SLPP MP Namal Rajapaksa says party fully supported President and refrained from undermining the Govt.
-
-Says President Ranil Wickremesinghe is facing allegations of attempting to break up other parties as well
-
-Highlights Wickreme-singhe’s history of dismantling various political parties and organisations
-
-Notes SLPP will take an appropriate political decision going forward
-
-Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has accused President Ranil Wickremesinghe of attempting to cause a rift within the SLPP.
-
-...
-
-[Data](articles/e3a83153.json)
-
-[Extended Data](ext_articles/e3a83153.ext.json)
-
----
-
-### New Progress in Tea Tea Industry
-
-*2024-07-26 02:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலை-கைத்தொழிலில்-புதிய-முன்னேற்றம்-அவசியம்/175-341055) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of planning for Sri Lanka's tea industry to boost exports, during the 'Colombo International Tea Conference'. Organized by the Colombo Tea Traders Association and the Sri Lanka Tea Board, the event featured international experts and showcased local tea manufacturers. The President highlighted the potential for small plantation owners to transition to agricultural trade, including smart farming, and encouraged companies to expand internationally without hindrance from the government, aiming for Sri Lanka to lead the global tea market.
-
-🟩
-
-President Ranil Wickremesinghe said that the Sri Lankan tea industry is not essential in all dimensions to move the country towards the export economy and that a proper plan will be implemented with the state and private sector.
-
-The President said this while addressing the inauguration of the 'Colombo International Tea Conference' which was commenced yesterday at the Chinaman Grand Hotel in Colombo.
-
-The Colombo Tea Traders Association and the Sri Lanka Tea Board have organized a two -day conference on the theme 'Tea - One Life and Life'.
-
-The exhibition of tea manufacturers in Sri Lanka and its related trade is also organized.
-
-Professors, experts, leading trading names and social organizations from many countries such as Sri Lanka, Kenya, China, India, Japan, Britain, the Gulf and the United States participated in the event.
-
-The exhibitions of our tea manufacturers and many of its associated businesses were organized.
-
-...
-
-[Data](articles/a55c3e37.json)
-
-[Extended Data](ext_articles/a55c3e37.ext.json)
-
----
-
-### Marikkar says Govt. apology over COVID-19 cremations aimed at gaining Muslim vote
-
-*2024-07-26 02:27:53* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-says-Govt-apology-over-COVID-19-cremations-aimed-at-gaining-Muslim-vote/56-764763) · `en`
-
-SJB MP S.M. Marikkar accuses Cabinet of attempting to protect Rajapaksas from accountability for enforced COVID-19 cremations by issuing an apology
-
-Says Govt’s apology was a tactic to shift blame onto officials rather than addressing the true responsibility
-
-Demands Govt. reveal actual wrongdoers, says they should be punished, and victims compensated
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar has accused the Cabinet of trying to shield the Rajapaksa family from accountability over the enforced COVID-19 cremations by issuing an apology to those affected.
-
-Speaking in Parliament yesterday, Marikkar claimed that the Government’s apology was an attempt to shift the blame onto officials rather than addressing the true responsibility for the controversial policy.
-
-He questioned how the decision was made if officials had not based their recommendations on scientific evidence and why Cabinet members did not question the policy at the time.
-
-...
-
-[Data](articles/edf1e2d7.json)
-
-[Extended Data](ext_articles/edf1e2d7.ext.json)
-
----
-
-### Wijeyadasa and Fonseka announce Presidential bids
-
-*2024-07-26 02:26:06* · [`dailyftlk`](https://www.ft.lk/news/Wijeyadasa-and-Fonseka-announce-Presidential-bids/56-764762) · `en`
-
-Justice Minister Wijeyadasa Rajapakshe and Former Army Commander Field Marshall Sarath Fonseka yesterday officially declared their candidacies for the 2024 Presidential Election.
-
-Holding a special press conference yesterday at the Independence Arcade, Rajapakshe 64 said he has decided to come forward as a candidate for the victory of Sri Lanka and its people. The Minister said the upcoming election was crucial for the nation’s future.
-
-Blaming short-sighted policies for Sri Lanka’s ongoing economic crisis and poverty, Rajapakshe stated that, under his leadership, measures would be taken to resolve issues in several sectors, with a strong focus on development.
-
-Rajapakshe emphasised the need for specialised banks for entrepreneurs, increased efficiency in the State sector, and regulation of the private sector. He highlighted the importance of maintaining good relations with all countries, prioritising neighbours.
-
-...
-
-[Data](articles/fc9f7ba2.json)
-
-[Extended Data](ext_articles/fc9f7ba2.ext.json)
-
----
-
-### Cabinet consideration of SC order on IGP undermines rule of law says YJA
-
-*2024-07-26 02:22:50* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-consideration-of-SC-order-on-IGP-undermines-rule-of-law-says-YJA/56-764761) · `en`
-
-The Young Journalists Association (YJA) a petitioning party against the appointment of Deshabandu Thennakoon as the Inspector General of Police (IGP) has said the decision by the cabinet to review the injunction order against Thennakoon undermines the law and judicial system of Sri Lanka.
-
-Issuing a statement yesterday, the YJA said the Government’s opinion on the matter is unnecessary and said the President must immediately nominate a suitable candidate for the position and submit the nomination to the Constitutional Council as directed by the courts.
-
-The YJA in its petition had maintained that the nomination of Thennakoon was unconstitutional and also questioned his referral to the Constitutional Council and his subsequent appointment as IGP by the President, based on a letter from the Speaker without the due approval of the Constitutional Council.
-
-...
-
-[Data](articles/5bd9ce71.json)
-
-[Extended Data](ext_articles/5bd9ce71.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 22:21:14**
+As of **2024-07-26 22:35:59**
 
 ## Newspaper Stats
 
-*Scraped **37,457** Articles*
+*Scraped **37,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ bbccomsinhala | 365
 islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
-adalk | 3,409
+adalk | 3,411
 adaderanalk | 4,338
 tamilmirrorlk | 4,621
 dailymirrorlk | 4,733
 virakesarilk | 5,893
-adaderanasinhalalk | 6,289
+adaderanasinhalalk | 6,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,449 (100.0%) of 37,457 articles have been extended.
+37,453 (100.0%) of 37,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### ජනාධිපතිවරණයට රනිල් වික්‍රමසිංහ  ඇතුළු සිවු දෙනෙක් ඇප තැන්පත් කරති
+
+*2024-07-26 22:17:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රනිල්-වික්‍රමසිංහ--ඇතුළු-සිවු-දෙනෙක්-ඇප-තැන්පත්-කරති/11-411023) · `si`
+
+ජනාධිපතිවරණය ප්‍රකාශයට පත් කෙරුණු අද දිනයේදී වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු අපේක්ෂකයින් සිවු දෙනෙකු  ජනාධිපතිවරණය සඳහා තරග වැදීමට  ඇප මුදල් තැන්පත් කළ බව මැතිවරණ කොමිෂන් සභාව මාධ්‍ය නිවේදනයක් නිකුත් කරමින් කියා සිටී.
+
+ඒ අනුව රනිල්  වික්‍රමසිංහ මහතා   සහ සරත් කීර්තිරත්න මහතා ස්වාධීන අපේක්ෂකයන් ලෙස ජනාධිපතිවරණයට තරග කිරීමට   ඇප මුදල් තැන්පත් කර තිබේ.
+
+හිටිහාමිනාලාගේ  දොන්   ඕශල ලක්මාල් අනිල්    හේරත් මහතා අභිනව නිවහල් පෙරමුණේ අපේක්ෂකයා වශයෙන්ද ඒ.එස්.පී.ලියනගේ මහතා ශ්‍රී ලංකා කම්කරු පක්ෂයේ අපේක්ෂකයා වශයෙන් ද ඇප මුදල් තැන්පත් කළ බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/5d0f4927.json)
+
+---
+
+### ශ්‍රී ලංකාව අවසන් තරගයට
+
+*2024-07-26 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199250) · `si`
+
+කාන්තා ආසියානු කුසලාන 20යි 20 ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගය සඳහා සුදුසුකම් ලබා ගැනීමට ශ්‍රී ලංකා කාන්තා කණ්ඩායම අද (26) සමත් වුණි.
+
+◼️
+
+[Data](articles/b6cb4d8e.json)
+
+---
 
 ### ‘No nation supported Sri Lanka like Pakistan during war’ – envoy
 
@@ -48,55 +76,83 @@ However, Sri Lank fought thirty years long worst war against the Liberation Tige
 
 [Data](articles/70f24f2e.json)
 
+[Extended Data](ext_articles/70f24f2e.ext.json)
+
 ---
 
-### பந்துவீச்சில் ரேணுகா, ராதா அபாரம்; பங்களாதேஷை 10 விக்கெட்களால் வென்று இறுதிக்குள் நுழைந்தது இந்தியா
+### Renuka, Radha Abaram in bowling;India won by 10 wickets
 
 *2024-07-26 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189483) · `ta`
 
-ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை (26) பிற்பகல் நடைபெற்ற மகளிர் ரி20 ஆசிய கிண்ணத்திற்கான முதலாவது அரை இறுதிப் போட்டியில் பங்களாதேஷை 10 விக்கெட்களால் வெற்றிகொண்ட நடப்பு சம்பியன் இந்தியா முதல் அணியாக இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+In the Women's T20 Asian Cup semis, Bangladesh beat India by 10 wickets, qualifying for the final. Renuka Singh and Radha Yadav starred for India with 6 wickets each, but Bangladesh's 80/8 was too little against India's 83/0. This win ensures India's presence in all Women's T20 Asian Cup finals. Next, India faces the winner of Sri Lanka vs. Pakistan in the final.
 
-வேகப்பந்து வீச்சாளர் ரேணுகா சிங், சுழல்பந்துவீச்சாளர் ராதா யாதவ் ஆகிய இருவரும் தங்களிடையே 6 விக்கெட்களைப் பகிர்ந்து இந்தியாவின் வெற்றிக்கு அடிகோலினர்.
+🟩
 
-அவர்கள் இருவரின் பந்துவீச்சுகளின் உதவியுடன் பங்களாதேஷை குறைந்த எண்ணிக்கைக்கு கட்டுப்படுத்திய இந்தியா, தொடர்ச்சியாக துடுப்பாட்டத்தில் அசத்தி வரும் ஆரம்ப வீராங்கனைகளின் உதவியுடன் வெற்றி இலக்கை இலகுவாக கடந்தது.
+Bangladesh won by 10 wickets in the first semi -finals for the Women's T20 Asian Cup held at the Dambulla International Cricket Stadium on Friday afternoon (26) and qualified for the first team in the final.
 
-இந்த வெற்றியுடன் மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் வரலாற்றில் சகல இறுதிப் போட்டிகளிலும் விளையாடுவதை இந்தியா உறுதிசெய்துகொண்டது.
+Both fast bowler Renuka Singh and spinner Radha Yadav shared 6 wickets among India and took India's victory.
 
-தற்போது நடைபெற்றுவரும் இலங்கை - பாகிஸ்தான் அணிகளுக்கு இடையிலான இரண்டாவது அரை இறுதிப் போட்டியில் வெற்றிபெறும் அணியை ஞாயிற்றுக்கிழமை (28) நடைபெறவுள்ள இறுதிப் போட்டியில் இந்தியா எதிர்தாடும்.
+India, with the help of the two of them, controlled Bangladesh with a minimal number, and with the help of the initial batsmen in the field, the winning goal is easily crossed.
+
+With this victory, India has made sure to play in all the finals of the women's R20 Asian Cup history.
+
+India will oppose the winning team in the second semi -finals between Sri Lanka and Pakistan on Sunday (28).
+
+The Bangladesh women's team, who decided to bat first in the first semi -final, scored 80 runs for the loss of 8 wickets in 20 overs.
+
+Renuka Singh defeated the first 3 wickets in Power Blake.
 
 ...
 
 [Data](articles/5804ad02.json)
 
+[Extended Data](ext_articles/5804ad02.ext.json)
+
 ---
 
-### பதில் பொலிஸ்மா அதிபரை நியமிக்க முடியாவிடின் ஜனாதிபதி பதவி விலக வேண்டும் - ஆளும்,எதிர்க்கட்சி கடும் தர்க்கம்
+### If the President is unable to appoint the Inspector General of Police, the President should resign
 
 *2024-07-26 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189482) · `ta`
 
-தேசபந்து தென்னகோன் பொலிஸ்மா அதிபராக செயற்படுவதற்கு  உயர்நீதிமன்றம்  இடைக்கால தடையுத்தரவு விதித்துள்ள  நிலையில், பதில் பொலிஸ்மா அதிபர் ஒருவரை நியமிக்க முடியுமா? முடியாதா? என்பது தொடர்பில் ஆளும் மற்றும் எதிர்க்கட்சி கட்சிகளுக்கிடையே ஏற்பட்ட கடும் தர்க்கத்தினால் சபையில் ஒரு மணித்தியாலத்திற்கும் மேலாக அமளி துமளி ஏற்பட்டது.
+A heated debate ensued in Parliament regarding the appointment of the Inspector General of Police, with the ruling party asserting that the President cannot appoint the IG and the opposition challenging this stance. The Supreme Court's potential issuance of an interim injunction was discussed, highlighting a constitutional crisis. The opposition argued for adherence to the court's decision, while the government opposed, leading to a contentious session marked by accusations and counterarguments.
 
-பொலிஸ்மா அதிபர் பதவி விலக்கப்படவோ, பதவி விலகவோ இல்லையென்றும் இதனால் பதில் பொலிஸ்மா அதிபரை நியமிக்க முடியாது என்று ஆளும் கட்சியினர் கூறியதுடன், உயர்நீதிமன்றத்தின் தீர்ப்புக்கு மதிப்பளித்து பதில் பொலிஸ்மா அதிபரை நியமிக்க நடவடிக்கை எடுக்க வேண்டும் என்று எதிர்க்கட்சியினர் வலியுறுத்தினர்.பதில் பொலிஸ்மா அதிபரை நியமிக்க ஜனாதிபதிக்கு முடியாவிடின் அவர் பதவி விலக வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச குறிப்பிட்ட கருத்துக்கு ஆளும் தரப்பு கடும் எதிர்ப்பை வெளிப்படுத்தியது.
+🟩
+
+Can the Supreme Court have issued an interim injunction to act as the Inspector General of Police, which can be appointed by the Inspector General of Police?Impossible?In this regard, a fierce logic between the ruling and opposition parties caused more than an hour in the House.
+
+The ruling party has said that the police chief cannot appoint the Inspector General of Police and take action to appoint the Inspector General of Police in response to the Supreme Court ruling.The ruling party expressed fierce opposition.
+
+Following a special speech made by Prime Minister Dinesh Gunawardena in Parliament on Friday, the ruling and the opposite sides of the ruling and the opposition have taken place in Parliament on Friday.
+
+The Elections Commission has not been asked by the Supreme Court on the issue of the Supreme Court on the issue of the Supreme Court as the presidential election is held.
 
 ...
 
 [Data](articles/f369d96a.json)
 
+[Extended Data](ext_articles/f369d96a.ext.json)
+
 ---
 
-### முச்சக்கரவண்டியில் வந்திறங்கினார் மைத்திரி
+### Maithri arrives in the three -wheeler
 
 *2024-07-26 21:47:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கரவண்டியில்-வந்திறங்கினார்-மைத்திரி/175-341088) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தொகுதி அமைப்பாளர்களின் கூட்டம் இன்று (26) அத்துருகிரியவில் உள்ள விஜேதாச ராஜபக்ஷவின் தேர்தல் செயற்பாட்டு அலுவலகத்தில் நடைபெற்றிருந்தது.
+Former President Maithripala Sirisena attended a SLFP meeting in Athurugiriya, arriving in a three-wheeler. He emphasized the importance of implementing election laws, including not using state vehicles.
 
-இதில், கலந்துகொள்வதற்காக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன முச்சக்கர வண்டியில் அவ்விடத்திற்கு வந்தமை விசேட அம்சமாகும்.
+🟩
 
-தேர்தல் சட்டங்கள் அமுல்படுத்தப்பட்டுள்ளதால் அந்த சட்டங்களுக்கு மதிப்பளித்து அரச வாகனங்களை பயன்படுத்தாது முச்சக்கரவண்டியில் வந்ததாக தெரிவித்தார். R
+A meeting of the organizers of the Sri Lanka Freedom Party (SLFP) was held today (26) at the Wijedasa Rajapaksa's election office in Athurugiriya.
+
+It is a special feature that former President Maithripala Sirisena arrived in the three -wheeler to attend.
+
+He said that the election laws were implemented and the state vehicles would not be used to use state vehicles.. Remble
 
 ◼️
 
 [Data](articles/de984b42.json)
+
+[Extended Data](ext_articles/de984b42.ext.json)
 
 ---
 
@@ -777,6 +833,22 @@ An illegal institution was also seized by the officials of the Sri Lanka Bureau 
 [Data](articles/8c333578.json)
 
 [Extended Data](ext_articles/8c333578.ext.json)
+
+---
+
+### දින 5ට විදෙස් රැකියා ජාවාරමුන් 12ක් අල්ලයි
+
+*2024-07-26 16:31:48* · [`adalk`](https://www.ada.lk/breaking_news/දින-5ට-විදෙස්-රැකියා-ජාවාරමුන්-12ක්-අල්ලයි/11-411021) · `si`
+
+2024.07.22 දින සිට අද දින දක්වා (7/26) ගතවූ දින 5 ක කාලය තුළ විදෙස් රැකියා ජාවාරම් සිදුකළ  වංචාකරුවන් දොළොස් දෙනෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+කටාර්, නවසීලන්තය, මැලේසියාව, රැමේනියාව හා කැනඩාව යන රටවල රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවන් පස් දෙනෙකු ඇතුළු දොලොස් දෙනෙකු මෙසේ අත්අඩංගුවට ගෙන ඇති අතර, කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව නවසීලන්තයේ රැකියා සඳහා සම්මුඛ පරීක්ෂණ පැවැත්වූ නීතිවිරෝධි ආයතනයක්ද කුරුණෑගල ප්‍රදේශයේදී වැටලීම් කර තිබේ. එහි තිබී ජිව දත්ත පත්‍රිකා හා තවත් ලේඛන අඩංගු ලිපිගොනු 108ක්ද නිළධාරීන් භාරයට ගන්නා ලදී.
+
+කාර්යාංශයේ වලංගු රැකියා බලපත්‍රයක් නොමැතිව විදේශ රැකියා සඳහා බඳවාගැනීම හා මුදල් වංචාකිරීම යන චෝදනාවලට අත්අඩංගුවට ගත් සැකකරුවන් අදාළ නීති කෘත්‍යන් සඳහා අධිකරණයන් හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව අධිකරණය මගින් දඩුවම් පමුණුවා තිබේ.
+
+...
+
+[Data](articles/07542417.json)
 
 ---
 
@@ -2203,79 +2275,5 @@ Gunawardana said he was reminding the speaker to intevene in the matter and inva
 [Data](articles/06200ae7.json)
 
 [Extended Data](ext_articles/06200ae7.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 303.05/15 to US dollar, bonds up
-
-*2024-07-26 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-05-15-to-us-dollar-bonds-up-173888/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 303.05/15 to the US dollar on Friday, dealers said. Bond yields were up, they said, and stocks opened up 0.03 percent.
-
-In the secondary market, treasury bond yields were up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.35/45 percent, up from 10.30/45 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.65/80 percent, up from 11.60/70 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.85/95 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.15/20 percent, up from 12.05/10 percent.
-
-In equities, Colombo’s All Share Price Index opened 3.07 points higher at 11,643, while the S&P SL20 of more liquid stocks opened up at 0.06 percent or 2.17 points to 3,388.
-
-◼️
-
-[Data](articles/c3934d91.json)
-
-[Extended Data](ext_articles/c3934d91.ext.json)
-
----
-
-### A journalist dies suddenly in Jaffna
-
-*2024-07-26 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189401) · `ta`
-
-Eelam Sekuwera (Pasapriyan), a former militant turned journalist and political activist, passed away unexpectedly in Jaffna. He was known for his work as a media spokesman for the Vavuniya Citizens Committee and as an independent journalist, writer, and artist. His sudden death occurred while staying with a friend in Aryakulam, Jaffna, and his body has been sent for anatomical examination at the Jaffna Teaching Hospital.
-
-🟩
-
-The former militant, journalist, media spokesman of the Vavuniya Citizens Committee and a political activist, Eelam Sekuwera (Pasapriyan), passed away yesterday (16).
-
-He was staying with a friend in a rented house in Aryakulam, Jaffna, and he died in a few minutes after he was suffering from a friend.
-
-The body has been handed over to the Jaffna Teaching Hospital for anatomical examination.
-
-It is noteworthy that he was an independent journalist, a paragraph writer, a political critic and artist.
-
-◼️
-
-[Data](articles/f4b929b5.json)
-
-[Extended Data](ext_articles/f4b929b5.ext.json)
-
----
-
-### President cannot appoint Acting IGP as post is not vacated - PM
-
-*2024-07-26 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100784/president-cannot-appoint-acting-igp-as-post-is-not-vacated-pm) · `en`
-
-Prime Minister Dinesh Gunawardena has clarified that the President has no legal provisions at this moment to appoint an Acting Inspector General of Police (IGP).
-
-Delivering a special statement in Parliament, the Prime Minister also emphasized that the position of the IGP is not vacated presently.
-
-He also stated that the court cannot change the approval granted by the Constitutional Council to appoint the current IGP.
-
-“We remind the Speaker and Parliament that the order of the Supreme Court suspending the duties of the IGP should be nullified. We request the Speaker to intervene as soon as possible in this regard,” he said.
-
-The Supreme Court on Wednesday issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP.
-
-The Supreme Court had issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
-
-...
-
-[Data](articles/fc3abe74.json)
-
-[Extended Data](ext_articles/fc3abe74.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 10:54:37**
+As of **2024-07-26 11:06:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,350 (100.0%) of 37,352 articles have been extended.
+37,352 (100.0%) of 37,352 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,17 +46,23 @@ The price of a 450g loaf of bread will be reduced by Rs. 10 with effect from mid
 
 ---
 
-### ஜனாதிபதிக்கு அதிகாரம் இல்லை: பிரதமர்
+### The president is not authorized: the Prime Minister
 
 *2024-07-26 10:19:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-அதிகாரம்-இல்லை-பிரதமர்/175-341065) · `ta`
 
-நடைமுறை சட்ட ஏற்பாடுகளுக்கு அமைய பதில் பொலிஸ்மா அதிபரை நியமிக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது என பிரதமர் தினேஷ் குணவர்தன இன்று (26) பாராளுமன்றில் விசேட அறிவிப்பொன்றை விடுத்து இதை தெரிவித்தார்.
+In a parliamentary address, PM Dinesh Gunawardena stated the President lacks constitutional power to appoint the IGP. He also mentioned that if Ranil Wickremesinghe wins the presidency, he cannot appoint a police chief due to constitutional constraints.
 
-இதேவேளை, ஜனாதிபதித் தேர்தலுக்கான திகதி தேர்தல் ஆணைக்குழுவால் அறிவிக்கப்பட்டுள்ள நிலையில், ரணில் விக்ரமசிங்க வேட்பாளராகக் களமிறங்குவாரெனில் அரசியலமைப்பிற்கமைய அவரால் பதில் பொலிஸ்மா அதிபரொருவரை நியமிக்க முடியாதென்றும் பிரதமர் தினேஷ் குணவர்தன குறிப்பிட்டார். R
+🟩
+
+Prime Minister Dinesh Gunawardena issued a special announcement in Parliament today (26) that the president has no authority to appoint the Inspector General of Police in response to the legislation.
+
+Meanwhile, Prime Minister Dinesh Gunawardena has said that if Ranil Wickremesinghe is the candidate of the presidential election, he will not be able to appoint a police chief in response to the constitution.. Remble
 
 ◼️
 
 [Data](articles/d569d8a9.json)
+
+[Extended Data](ext_articles/d569d8a9.ext.json)
 
 ---
 
@@ -1638,17 +1644,25 @@ These two bills were presented to Parliament on 22 May 2024. (Colombo/Jul25/2025
 
 ---
 
-### අග්බෝ ගැන අධිකරණය දුන් නියෝගය
+### Court of Augbo
 
 *2024-07-25 19:32:31* · [`adalk`](https://www.ada.lk/breaking_news/අග්බෝ-ගැන-අධිකරණය-දුන්-නියෝගය/11-411007) · `si`
 
-වසරකට අධික කාලයක් තිරප්පනේ පොලිස් වසම තුළ සැරිසරමින් සිටින පිරිපුන් දළ යුගලකින් සමන්විත අග්බෝ ඇතා නොපමාව ආරක්ෂිතව සුදුසු වනාන්තරයකට මුදා හැර සංරක්ෂණය කරන ලෙස අනුරාධපුර ප්‍රධාන මහේස්ත්‍රාත් සහ අතිරේක දිසා විනිසුරු නාලක සංජීව ජයසූරිය මහතා වනජීවී දෙපාර්තමේන්තුවේ අනුරාධපුර සහකාර අධ්‍යක්ෂවරයාට නියෝග කළේය.
+In a legal case involving the Agbbo in Anuradhapura, the Chief Magistrate ordered the release of the Wildlife Department's Assistant Director and criticized the destruction of the Agbbo by the Court of Augba. The OIC of the Court of Justice highlighted the importance of conserving elections and protecting the Agbo. The Sri Lanka Air Force reported a drone disturbance over Thirappane, leading to the arrest of Thirappane police officers for unauthorized flights.
 
-ප්‍රධාන මහේස්ත්‍රාත්වරයා මෙසේ නියෝග කළේ උතුරු මැද දිසාව භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ උපදෙස් මත තිරප්පනේ පොලීසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රංජිත් කුමාරසිංහ මහතා අධිකරණයට කළ කරුණු දැක්වීමක් සැලකිල්ලට ගනිමිනි. මේ සම්බන්ධයෙන් අධිකරණයට කරුණු  දක්වමින් තිරප්පනේ පොලීසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රංජිත් කුමාරසිංහ මහතා පැවසුවේ අග්බෝ ඇතා දැනට වසරකට අධික කාලයක සිට තිරප්පනේ ප්‍රදේශයේ විවිධ තැන්වල සැරිසරමින් සිටින බවයි.
+🟩
+
+The Agbbo, Anuradhapura Chief Magistrate and Additional District Judge Nalaka Sanjeewa Jayasuriya has ordered the Anuradhapura Assistant Director of the Wildlife Department to be released.
+
+The Chief Magistrate ordered the OIC Chief Inspector Ranjith Kumarasinghe, Chief Inspector Ranjith Kumarasinghe made his statement to the court on the instructions of Senior DIG Priyantha Weerasuriya. Thirappane police OIC Chief Inspector Ranjith Kumarasinghe said that Agba had been wandering in different parts of Thirappane.
+
+The OP emphasized that the elections should be conserved.. The OIC of the Court of Justice has been destroyed that the Agbo has been destroyed by the Court of Agbos, which have been tortured by the Agbo, and the Auga of the Court of Augba has been tortured by a year earlier.He said he was possible.
 
 ...
 
 [Data](articles/a35dd83f.json)
+
+[Extended Data](ext_articles/a35dd83f.ext.json)
 
 ---
 

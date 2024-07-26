@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 05:38:16**
+As of **2024-07-26 07:02:05**
 
 ## Newspaper Stats
 
-*Scraped **37,304** Articles*
+*Scraped **37,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 327
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,120
+islandlk | 2,129
 economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,393
@@ -20,17 +20,87 @@ adaderanalk | 4,313
 tamilmirrorlk | 4,595
 dailymirrorlk | 4,733
 virakesarilk | 5,862
-adaderanasinhalalk | 6,255
+adaderanasinhalalk | 6,256
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,303 (100.0%) of 37,304 articles have been extended.
+37,313 (100.0%) of 37,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### පළාත් කිහිපයකට වැසි
+
+*2024-07-26 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199213) · `si`
+
+අද (26) දිනයේ සබරගමුව පළාතේත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම අනාවැකියේ ඒ බව දැක්වෙයි.
+
+එහි තවදුරටත් දැක්වෙන්නේ බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+
+මධ්‍යම  කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. 50ක 55ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින්විට පැ.කි.මී. 30ත් 40ත් අතර තරමක තද සුළං ඇති වෙයි.
+
+◼️
+
+[Data](articles/5e4e742d.json)
+
+---
+
+### Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka Physical & Digital Connectivity Dialogue
+
+*2024-07-26 05:46:00* · [`islandlk`](http://island.lk/pathfinder-foundation-and-ananta-aspen-centre-lead-india-sri-lanka-physical-digital-connectivity-dialogue/) · `en`
+
+The Roundtable Discussion on “Bridging Borders: Enhancing Connectivity Between India and Sri Lanka,”, concluded successfully, fostering insightful dialogue and collaborative discussion on strengthening physical and digital connectivity between the two nations.
+
+The event commenced with welcome and opening remarks by Amb. (Retd.) Bernard Goonetilleke, Chairman of Pathfinder Foundation, and Ms. Indrani Bagchi, Chief Executive Officer of Ananta Aspen Centre, set the tone for a productive session. The two sessions can be live on the Pathfinder Foundation web or YouTube link, https://rb.gy/11n635
+
+Session 1 focused on the transformative potential of Digital Public Infrastructure (DPI) in driving development across emerging markets, bringing distinguished speakers and discussants to explore how DPI can catalyze economic growth and regional connectivity.
+
+Investors’ presidential or parliamentary poll first quandary checks share trading momentum
+
+...
+
+[Data](articles/3c6537f2.json)
+
+[Extended Data](ext_articles/3c6537f2.ext.json)
+
+---
+
+### Investors’ presidential or parliamentary poll first quandary checks share trading momentum
+
+*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/investors-presidential-or-parliamentary-poll-first-quandary-checks-share-trading-momentum/) · `en`
+
+Stock market activities were not satisfactory yesterday due to investor uncertainty over whether President Ranil Wickremesinghe would be going for a presidential election or a parliamentary election by dissolving the parliament.
+
+Accordingly, the market was a bit inactive and both indices moved downwards. The All Share Price Index went down by 63.25 points while S and P SL20 declined by 19.24 points.
+
+...
+
+[Data](articles/3b507ac7.json)
+
+[Extended Data](ext_articles/3b507ac7.ext.json)
+
+---
+
+### Kingslake elevated to Infor’s Gold Partnership status
+
+*2024-07-26 05:45:00* · [`islandlk`](http://island.lk/kingslake-elevated-to-infors-gold-partnership-status/) · `en`
+
+Kingslake, a leading provider of enterprise software solutions, has achieved Gold Partnership status with Infor, a global leader in business cloud software products for industry-specific markets. Achieving this milestone reflects a proven track record of successful implementations and satisfied clients, demonstrating Kingslake’s commitment to maintaining high standards of service delivery. This accomplishment significantly enhances Kingslake’s capacity to implement and service cutting-edge Infor solutions, including Infor WMS and Infor SyteLine ERP, to its customers.
+
+...
+
+[Data](articles/58d5d48e.json)
+
+[Extended Data](ext_articles/58d5d48e.ext.json)
+
+---
 
 ### Principles and proposals for political and constitutional reform for democracy: Part I
 
@@ -117,6 +187,18 @@ The Company Revenue of Rs. 1,340 million at the World Trade Center, Colombo, was
 [Data](articles/73e733b3.json)
 
 [Extended Data](ext_articles/73e733b3.ext.json)
+
+---
+
+### Monks driven from pillar to post with Mahanayakas pandering to politicians
+
+*2024-07-26 02:42:00* · [`islandlk`](http://island.lk/monks-driven-from-pillar-to-post-with-mahanayakas-pandering-to-politicians/) · `en`
+
+...
+
+[Data](articles/976eb35b.json)
+
+[Extended Data](ext_articles/976eb35b.ext.json)
 
 ---
 
@@ -300,21 +382,27 @@ The YJA in its petition had maintained that the nomination of Thennakoon was unc
 
 ---
 
-### ’சட்டமாக்குவதை அனுமதிக்க முடியாது’
+### Can't allow the legalization of the model
 
 *2024-07-26 01:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமாக்குவதை-அனுமதிக்க-முடியாது/175-341053) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் நிபந்தனைகளை சட்டமாக்குவதை ஒருபோதும் அனுமதிக்க முடியாது என்று ஜே.வி.பி பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் தெரிவித்தார்.
+Vijitha Herath opposes IMF conditions, citing potential bankruptcy. The Elections Commission's delay in announcing the presidential election raises public doubt. The 22nd Amendment's presentation also sparks uncertainty. Despite economic challenges, Herath argues against adhering to IMF advice, emphasizing the need for swift election decisions to maintain trust among citizens.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25) நடைபெற்ற பொருளாதார நிலைமாற்றம் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-ஜனாதிபதித் தேர்தல் தொடர்பான தீர்மானத்தை அறிவிப்பதை தேர்தல்கள் ஆணைக்குழு ஒத்தி வைத்துள்ளதாக கூறப்படுகின்றது. இவ்வாறாக காலத்தை இழுத்தடிக்கும் போது மக்களுக்கு தேர்தல் தொடர்பில் சந்தேகங்கள் ஏற்படும். அதேவேளை 22ஆவது அரசியலமைப்பு திருத்தம் பாராளுமன்றத்தில் முன்வைக்கப்படவுள்ளதாகவும் கூறப்படுகின்றது. அத்துடன் இன்னும் மக்களுக்கு சந்தேகங்கள் ஏற்படும். மக்கள் விரைவில் தேர்தல் நடக்கும் என்றே காத்திருக்கின்றனர். அதன்படி தீர்மானங்களை எடுக்க வேண்டும் என்று கோரிக்கை விடுகின்றோம்.
+JVP parliamentarian Vijitha Herath said that the IMF's conditions can never be allowed.
 
-இதேவேளை சர்வதேச நாணய நிதியத்தினுடான உடன்படிக்கை, அவர்களின் நிபந்தனை மற்றும் ஆலோசனைக்கமையவே நாடு நடந்துகொள்ள வேண்டும்  என்றில்லை. நாட்டில் வங்குரோத்தடைந்துள்ளது என்றார்.
+He was speaking at a debate on the Economic Transfer Bill held in Parliament on Thursday (25).
+
+The Elections Commission is reportedly postponing the announcement of the presidential election. Thus people will have doubts about elections. At the same time, the 22nd Amendment is said to be presented in Parliament. As well as more people may have doubts. People are waiting for election soon. We demand that the decisions be made accordingly.
+
+Meanwhile, the agreement with the IMF, the country does not have to act on their condition and advice. He said the country has become bankrupt.
 
 ◼️
 
 [Data](articles/cb6484ef.json)
+
+[Extended Data](ext_articles/cb6484ef.ext.json)
 
 ---
 
@@ -2197,117 +2285,5 @@ In this case, the Election Commission has said that the Commission has nothing t
 [Data](articles/51994398.json)
 
 [Extended Data](ext_articles/51994398.ext.json)
-
----
-
-### Sri Lanka to announce poll date by gazette on 26 July
-
-*2024-07-25 13:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-announce-poll-date-by-gazette-on-26-july-173742/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Election Commission will publish a Gazette Extraordinary Notification to announce the date for the Presidential Election and the nomination date on Friday (26), its chairman said.
-
-“The Election Commission, which convened today, has decided to publish the Gazette Extraordinary Notification to announce the date for proclaiming the Presidential Election and the nomination date in accordance with the provisions of the Presidential Elections Act, No. 15 of 1981, which will be declared on the 26th day of July 2024,” R M A L Rathnayake said in a statement.
-
-There has been much speculation about the date of the Presidential Election 2024.
-
-“The Election Commission holds no responsibility for the statements made by various individuals and parties on the day of the presidential poll and other constitutional functions.”
-
-Former army chief Sarath Fonseka and justice minister Wijeyadasa Rajapakshe announced their candidacy earlier on Thursday. (Colombo/Jul25/2024)
-
-◼️
-
-[Data](articles/056a579b.json)
-
-[Extended Data](ext_articles/056a579b.ext.json)
-
----
-
-### A soldier commits suicide in the Kandakaduwa
-
-*2024-07-25 13:57:12* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවේ-සේවය-කළ-හමුදා-සෙබළෙක්-දිවි-නසා-ගනියි/11-410992) · `si`
-
-A soldier from the Agricultural and Livestock Forces Campawa committed suicide by burying himself alive in the cargo base of the Power Board in Kandakaduwa. The incident occurred on the morning of the 25th, and the body was found at Welikanda Hospital. Investigations are ongoing under the leadership of Welikanda Police, with Premathilaka leading the probe.
-
-🟩
-
-Welikanda Police say that the neck has been buried in the camp on the 25th morning of the 25th morning.
-
-The deceased has been identified as attached to the Agricultural and Livestock Forces Campawa. Welikanda Police said that Premathilaka is conducting further investigations.
-
-He is a resident of Welikanda address No. 57 / A Kandakada address.
-
-He has placed his body at the Welikanda Hospital.. When contacted, Rajapaksa said.
-
-Police say that he has committed suicide by buried in the cargo base of the Power Board, the power board.
-
-Investigation into the investigation, Welikanda Acting OIC Inspector RM. SI. A team of police officers including Mr. Rajapaksa
-
-◼️
-
-[Data](articles/6b7f7516.json)
-
-[Extended Data](ext_articles/6b7f7516.ext.json)
-
----
-
-### Interim banned order for Thilanga
-
-*2024-07-25 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199197) · `si`
-
-The Court of Appeal banned Minister Nimal Siripala from the Maligamanganda Magistrate's office due to a petition filed by him.
-
-🟩
-
-The Court of Appeal has issued a ban to the Maligamanganda Magistrate yesterday (24) by the Chief Secretary of the Sri Lanka Freedom Party's Office against Minister Nimal Siripala.
-
-The Court of Appeal issued the order after considering a Rit petition filed by Minister Nimal Siripala de Silva.
-
-◼️
-
-[Data](articles/225ece58.json)
-
-[Extended Data](ext_articles/225ece58.ext.json)
-
----
-
-### Matara posters paste in support of Deshabandu Tennakoon
-
-*2024-07-25 13:52:09* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකෝන්-මහතාට-සහාය-පළ-කරමින්-මාතර-පොස්ටර්-අලවයි/11-410991) · `si`
-
-Posters in Matara today support former IGP Deshabandu Tennakoon, criticizing lawyers linked to the underworld. Civil organizations plan to sign a petition against drug trafficking and uphold the law, involving the Maha Sangha from the Matara district.
-
-🟩
-
-The former IGP was supported by the posters in Matara today (25), supporting the former IGP.
-
-"Councilor wins billions of lawyers, lawyers carry out the contract of the underworld. Whose help us?We had the same as we were with you in Matara. "
-
-In addition, civil organizations, including the Maha Sangha, Matara district, was planned to sign a petition to protect the law against the underworld and drug trafficking.
-
-◼️
-
-[Data](articles/717cca1b.json)
-
-[Extended Data](ext_articles/717cca1b.ext.json)
-
----
-
-### Election Commission to announce Presidential Election date
-
-*2024-07-25 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100766/election-commission-to-announce-presidential-election-date) · `en`
-
-The Elections Commission of Sri Lanka says that the Gazette notification regarding the announcement of the Presidential Election date will be published tomorrow (26).
-
-Issuing a statement, the Election Commission said that during its meeting which was convened today the members of the commission decided to publish the Extraordinary Gazette notification on July 26, 2024 (Friday) announcing the date of publishing the order for the election of a president, the date and location of accepting nominations for the election and the date of the Presidential Election.
-
-The statement further states that the Election Commission is not responsible for the statements made by various individuals and parties regarding the date of the Presidential Election and other constitutional duties.
-
-The National Election Commission had convene a meeting today (25) to finalize the date for the upcoming Presidential Election and the date for the calling of nominations.
-
-...
-
-[Data](articles/21bf94bb.json)
-
-[Extended Data](ext_articles/21bf94bb.ext.json)
 
 ---

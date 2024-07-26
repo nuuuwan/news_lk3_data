@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 07:02:05**
+As of **2024-07-26 07:27:41**
 
 ## Newspaper Stats
 
-*Scraped **37,314** Articles*
+*Scraped **37,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,60 @@ economynextcom | 2,238
 dailyftlk | 2,389
 adalk | 3,393
 adaderanalk | 4,313
-tamilmirrorlk | 4,595
+tamilmirrorlk | 4,597
 dailymirrorlk | 4,733
 virakesarilk | 5,862
-adaderanasinhalalk | 6,256
+adaderanasinhalalk | 6,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,313 (100.0%) of 37,314 articles have been extended.
+37,314 (100.0%) of 37,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### පළාත් කිහිපයකට වැසි
+### ග්‍රෑන්ඩ්පාස් වෙඩිතැබීමෙන් කාන්තාවත් මරුට
+
+*2024-07-26 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199215) · `si`
+
+කොළඹ ග්‍රෑන්ඩ්පාස් වදුල්ලවත්ත පුරදර සෙවන මහල් නිවාස සංකීර්ණය ඉදිරිපිට සිදුකළ වෙඩිතැබීමෙන් තුවාල ලබා ප්‍රතිකාර ලබමින් සිටි කාන්තාව අද (26) අලුයම මියගොස් තිබේ.
+
+ඊයේ (25) සවස් කාලයේදී පුද්ගලයෙකු සහ කාන්තාවක් ඉලක්ක කර මෙම වෙඩිතැබීම සිදුකර තිබුණි.
+
+එහිදී 32 හැවිරිදි කේ. ජී. ආර්. දර්ශන නමැති පුද්ගලයෙක් ඊයේ රාත්‍රියේදීම මිය ගිය අතර බරපතළ තත්ත්වයෙන් කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටි කාන්තාව මෙලෙස අද අලුයම මියගොස් ඇත.
+
+◼️
+
+[Data](articles/ddc6a788.json)
+
+---
+
+### Showers in some parts
 
 *2024-07-26 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199213) · `si`
 
-අද (26) දිනයේ සබරගමුව පළාතේත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇතිවිය හැකිය.
+Today, expect showers in Sabaragamuwa, Kandy, and Nuwara Eliya. No showers in Western/Northern provinces but strong winds in Trincomalee/North Western provinces. Other regions may experience light winds.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම අනාවැකියේ ඒ බව දැක්වෙයි.
+🟩
 
-එහි තවදුරටත් දැක්වෙන්නේ බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින්විට වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+Showers will occur at times in the Sabaragamuwa Province today (26) and in the Kandy and Nuwara Eliya Districts.
 
-මධ්‍යම  කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. 50ක 55ක පමණ තද සුළං ඇතිවිය හැකිය.
+The latest prophecy issued by the Department of Meteorology.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින්විට පැ.කි.මී. 30ත් 40ත් අතර තරමක තද සුළං ඇති වෙයි.
+There is no more states that several showers can occur in the Western and Northwestern provinces and in the Galle and Matara districts.
+
+Western, North, North, North, North, North-central and North Western provinces are sitting at the Trincomalee and North Western Provinces.. Strong winds can occur about 55 in 50.
+
+From time to time in the rest of the island.. Strong winds are between 30 and 40.
 
 ◼️
 
 [Data](articles/5e4e742d.json)
+
+[Extended Data](ext_articles/5e4e742d.ext.json)
 
 ---
 
@@ -62,7 +84,7 @@ The event commenced with welcome and opening remarks by Amb. (Retd.) Bernard Goo
 
 Session 1 focused on the transformative potential of Digital Public Infrastructure (DPI) in driving development across emerging markets, bringing distinguished speakers and discussants to explore how DPI can catalyze economic growth and regional connectivity.
 
-Investors’ presidential or parliamentary poll first quandary checks share trading momentum
+Sri Lanka’s economy on Y-o-Y growth expansion of 5.3 percent – CBSL Governor
 
 ...
 
@@ -382,6 +404,22 @@ The YJA in its petition had maintained that the nomination of Thennakoon was unc
 
 ---
 
+### அமைச்சரவை உபகுழு அறிக்கை ஜனாதிபதியிடம்
+
+*2024-07-26 02:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-உபகுழு-அறிக்கை-ஜனாதிபதியிடம்/175-341054) · `ta`
+
+வருவாய் நிர்வாக முகாமைத்துவ தகவல் முறைமையை எவ்வாறு திறம்பட பயன்படுத்துவது என்பது குறித்து ஆராய்ந்து பரிந்துரைகளை வழங்குவதற்காக நியமிக்கப்பட்ட அமைச்சரவை உபகுழுவின் அறிக்கை அண்மையில் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கையளிக்கப்பட்டது.
+
+நிதி, பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கை அமைச்சர் என்ற வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் ‘வருவாய் நிர்வாக முகாமைத்துவ தகவல் முறைமை (RAMIS)-பராமரிப்பு சேவைகளைப் பெறுதல்’ என்ற 24/0696/604/079 ஆம் இலக்க அமைச்சரவைப் பத்திரத்திற்கு அமைய 2024 ஆம் ஆண்டு ஏப்ரல் 8 ஆம் திகதி அமைச்சரவை உப குழு நியமிக்கப்பட்டது.
+
+மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தலைமையிலான உப குழுவில் அமைச்சர்களான டிரன் அலஸ் மற்றும் நளீன் பெர்னாண்டோ ஆகியோர் உறுப்பினர்களாக நியமிக்கப்பட்டிருந்தனர். (a)
+
+◼️
+
+[Data](articles/1f3da841.json)
+
+---
+
 ### Can't allow the legalization of the model
 
 *2024-07-26 01:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமாக்குவதை-அனுமதிக்க-முடியாது/175-341053) · `ta`
@@ -449,6 +487,22 @@ Those who have never bought the country's economy as much as they have never bee
 [Data](articles/68e441a8.json)
 
 [Extended Data](ext_articles/68e441a8.ext.json)
+
+---
+
+### ’மாமனிதனை தமிழினம் இழந்து விட்டது’
+
+*2024-07-26 01:45:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமனிதனை-தமிழினம்-இழந்து-விட்டது/175-341051) · `ta`
+
+தமிழ் மக்களுக்கு சுயநிர்ணய உரிமை உண்டு.தமிழர்கள் இந்த நாட்டில் தங்களுக்கு உரித்தான தனித் தேசமாக வாழ்வதற்கு உரித்துடையவர்கள் என்று மிகவும் ஆணித்தரமாக சிங்கள மக்கள் மத்தியில் ஒரு படித்த கலாநிதியாக எடுத்துக்கூறிய மாமனிதன் கலாநிதி விக்கிரமபாகு கருணாரத்னவை தமிழினம் இழந்து விட்டதென   தமிழ் தேசியக் கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி. யான எஸ். ஸ்ரீதரன் சபையில் அஞ்சலி செலுத்தினார்
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25)  இடம்பெற்ற அரச நிதி முகாமைத்துவம் மற்றும் பொருளாதார நிலைமாற்றம் சட்டமூலங்கள் மீதான விவாதத்தில்  உரையாற்றுகைம் போதே  இவ்வாறு தெரிவித்த அவர்  மேலும் பேசுகையில்,
+
+கலாநிதி விக்கிரமபாகு கருணாரத்ன ஈழத்தமிழர் உரிமை நிலைப்பாட்டில் இறுதிவரை ஒரே கொள்கையுடன் இருந்துவந்த முற்போக்கு அரசியல்வாதி. தமிழர் பிரச்சினைகளில் எப்போதும் ஒரே கொள்கையை கடைப்பிடித்து அது தொடர்பான  போராட்டங்களில் முன்னிலைவகித்தவர் .சிங்கள தேசிய இனத்தில் பிறந்தாலும் இனவாதம் இல்லாத பெருமனிதன் .அவ்வாறான ஒரு நல்மனிதனை இந்த தேசம் இழந்திருக்கின்றது என்றார்.
+
+◼️
+
+[Data](articles/a9d0a869.json)
 
 ---
 
@@ -2211,79 +2265,5 @@ In this case, the Election Commission has said that the Commission has nothing t
 [Data](articles/5f100156.json)
 
 [Extended Data](ext_articles/5f100156.ext.json)
-
----
-
-### Two government ministers of government support Ranil
-
-*2024-07-25 14:09:32* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මැති-ඇමතිවරු-48ක්-රනිල්ට-සහාය-දිම-ගැන-සාකච්ඡා-දෙකක්/11-410994) · `si`
-
-Government ministers support Ranil Wickremesinghe, discussing Sri Lanka Civil Appointment issues. Discussions included his presidential campaigns, appointments, and media strategies. They're preparing a comprehensive plan to gain his support, focusing on government projects and a formal mechanism.
-
-🟩
-
-Political sources said that 48 cabinets and state ministers representing the government have held a special discussion in Colombo yesterday (24).
-
-Accordingly, 30 cabinets and state ministers have been discussed in Colombo, and 18 members of the government have held discussions in Talawatugoda.
-
-It is also reported that both parties have discussed at length regarding the situations of the Sri Lanka Civil Appointment.
-
-The final agreement in the department has also been extended to President Ranil Wickremesinghe at the moment.
-
-According to political sources, the appointment of Ranil Wickremesinghe's presidential campaigns, the appointment of Jandapola representatives, appointments, and the media arrivals, political sources say.
-
-He also discussed extensive work on the preparation of a broad work on the President's political parties and teams to obtain the support of the President.
-
-...
-
-[Data](articles/ab80b894.json)
-
-[Extended Data](ext_articles/ab80b894.ext.json)
-
----
-
-### The opposition is protected underworld
-
-*2024-07-25 14:04:51* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයට-රැකවරණය-දෙන්නේ-පාතාලය/11-410993) · `si`
-
-Minister Prasanna Ranatunga accuses the opposition of protecting the underworld, highlighting their opposition to justice and the removal of the IGP. He criticizes their silence on issues like plantation workers' rights, suggesting they prioritize the underworld's interests over national development. The minister also addresses concerns about the government's influence on the judiciary and the issuance of state orders, emphasizing the importance of addressing broader societal issues rather than focusing solely on the IGP's removal.
-
-🟩
-
-The opposition is protected by the Urban Development and Housing Minister Prasanna Ranatunga.
-
-The Minister pointed out that the opposition was strongly opposed to justice, he stresses that the Opposition will appear to remove the IGP.
-
-The Minister was speaking to the IGP's verdict today (25th) the Minister said.
-
-The Minister said that the real opposition interests of the opposition is clearly indicating that the opposition is speaking in favor of the removal of the IGP without talking about the increase in plantation workers' rise.
-
-"The President and the Cabinet, the Cabinet and the Government are trying to make the government to embarrass the judiciary. We can clearly say the President is the 21st constitutional amendment introduced to the judiciary independent. Moreover, the Cabinet and the government are respected. So there's nothing to talk to. That's all this.
-
-...
-
-[Data](articles/a11e0f6b.json)
-
-[Extended Data](ext_articles/a11e0f6b.ext.json)
-
----
-
-### The date of the presidential election will be announced tomorrow - the Election Commission
-
-*2024-07-25 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189348) · `ta`
-
-The Election Commission will announce the 2024 presidential election date tomorrow (26). It clarified it had no involvement in comments about the date or other resolutions.
-
-🟩
-
-The Election Commission has announced that it will be announced tomorrow (26) on the date of the presidential election for 2024.
-
-In this case, the Election Commission has said that the Commission has nothing to do with the Commission's comment on the presidential election date and other resolutions.
-
-◼️
-
-[Data](articles/51994398.json)
-
-[Extended Data](ext_articles/51994398.ext.json)
 
 ---

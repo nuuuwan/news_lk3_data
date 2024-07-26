@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 17:36:13**
+As of **2024-07-26 17:56:48**
 
 ## Newspaper Stats
 
-*Scraped **37,426** Articles*
+*Scraped **37,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,68 @@ bbccomsinhala | 365
 islandlk | 2,134
 economynextcom | 2,244
 dailyftlk | 2,390
-adalk | 3,408
+adalk | 3,409
 adaderanalk | 4,335
 tamilmirrorlk | 4,614
 dailymirrorlk | 4,733
 virakesarilk | 5,881
-adaderanasinhalalk | 6,281
+adaderanasinhalalk | 6,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,424 (100.0%) of 37,426 articles have been extended.
+37,426 (100.0%) of 37,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
 
-### සියලු මුදල් ගනුදෙනු සඳහා QR කේතයක් ?
+### ආගමන හා විගමන දෙපාර්තමේන්තුවෙන් විශේෂ නිවේදනයක්
+
+*2024-07-26 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199241) · `si`
+
+පූර්ව ලියාපදිංචිය සහිත ගමන් බලපත්‍ර අයදුම්කරුවන් පමණක් ආගමන හා විගමන දෙපාර්තමේන්තුවේ ප්‍රධාන කාර්යාලයට හා ප්‍රාදේශීය කාර්යාල වෙත පැමිණෙන ලෙස ආගමන විගමන දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ, පූර්ව ලියාපදිංචියකින් තොරව ආගමන හා විගමන දෙපාර්තමේන්තුව වෙත පැමිණීමෙන් වළකින ලෙසය.
+
+ලියාපදිංචි වීමෙන් අනතුරුව ගමන් බලපත් ලබාගැනීමේ අවස්ථාව හිමිවන්නේ ප්‍රමුඛතා ක්‍රමවේදයකට අනුකූලව බව ද එම දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+2025.01.01 වන දින සිට රජය විසින් ශ්‍රී ලාංකිකයින් හට කාර්යක්ෂම හා ආරක්ෂාකාරී නව E ගමන් බලපත් ලබාදීම ආරම්භ කිරීමට නියමිතය.
+
+ඒ අනුව ගමන් බලපත් අයදුම්කරුවන්ගේ පහසුව සඳහා ගමන් බලපත් අයදුම්කිරීමේ ක්‍රමවේදය පහත දැක්වෙන පරිදි නව ක්‍රමවේදයක් ලෙස ක්‍රියාත්මක වේ.
+
+ජූලි 16 වන දින සිට ගමන් බලපත් අයදුම් කිරීම සඳහා https://www.immigration.gov.lk/ සබැඳිය ඔස්සේ පූර්ව ලියාපදිංචියක් සිදුකළ හැකිය.
+
+◼️
+
+[Data](articles/4d4a5044.json)
+
+---
+
+### QR Code for all Money Transactions?
 
 *2024-07-26 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199240) · `si`
 
-මෙරට ආර්ථිකය නිවැරදි මගකට යොමු කෙරෙන ආර්ථික පරිවර්තන පනත් කෙටුම්පත සම්මත කර ගැනීමට සහාය වූ පාර්ලිමේන්තුවේ සියලු දේශපාලන පක්ෂ වෙත සිය ස්තුතිය පළකරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe thanked Parliament for supporting the Economic Transformation Bill, inviting all parties to continue the program. He emphasized the need for an Export Center and digitalization, citing examples from India and China where mobile payments, including QR codes, are prevalent. The President also launched a QR Code system for micro, small, and medium-scale entrepreneurs at the Pinnawala Zoo.
 
-එම වැඩපිළිවෙළ අඛණ්ඩව ඉදිරියට ගෙන යාමට එක්වන ලෙස ද සියලු දේශපාලන පක්ෂ වෙත ආරාධනා කරන බව ජනාධිපතිවරයා පවසයි.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව පැවසුවේ රඹුක්කන පරාක්‍රම මහා විද්‍යාලයේදී අද (26) පැවති උත්සවයට එක්වෙමිනි.
+President Ranil Wickremesinghe says he thanks all political parties in Parliament who supported the overeating the economic translation bill, which is on the right environment.
 
-එමෙන්ම ජනාධිපතිවරයා පැවසුවේ අපනයන කේන්ද්‍රීය ඩිජිටල් සහ හරිත ආර්ථිකයක් රට තුළ ගොඩනැඟිමට අවශ්‍ය පරිපාලන සහ ආයතනික ව්‍යුහය ආර්ථික පරිවර්තන පනත් කෙටුම්පත තුළ අන්තර්ගත බවය.
+The President has also invited all political parties to join the continuation of that program.
 
-"අද මෙම පාසලට පැමිණෙන විට මම පාසල් ගිය කාලය මට සිහිපත් වුණා. එදා අපට තිබුණේ කළු ලෑල්ල සහ, හුණු කෑල්ල පමණයි. එදා මෙම පහසුකම් තිබුණේ නැහැ. මම පළමුවරට පරිගණකයක් දුටුවේ විශ්වවිද්‍යාල අධ්‍යාපනයත් නිම කිරීමෙන් පසුවයි. අද ඔබට නවීන උපකරණ සහිත සුහුරු පන්ති කාමර ලැබී තිබෙනවා. අද ලෝකය සෑම අංශයකින්ම සීග්‍රයෙන් වෙනස් වෙනවා. අපත් ඒ වෙනසට මුහුණ දීමට අවශ්‍ය දැනුම ලබාගත යුතුයි.
+President Ranil Wickremesinghe made this statement participating at the event held at Parakrama Maha Vidyalaya today (26) at Parakrama Maha Vidyalaya.
+
+The President also said that the administrative and institutional structure needed to build an Export Center of Exports in the country in the Economic Translation Bill.
+
+"When I arrived at this school today, I recalled the time I went to school. We had only the blackboard and the piece of the lime. There were no availability that day. I just saw a computer after the completion of university education. Today you have received sophisticated eulous classrooms with modern equipment. The world is changing in every aspect. We too need to get the knowledge needed to cope.
 
 ...
 
 [Data](articles/26788cf5.json)
+
+[Extended Data](ext_articles/26788cf5.ext.json)
 
 ---
 
@@ -65,6 +93,8 @@ The independent candidates are President Ranil Wickremesinge and former MP Sarat
 ◼️
 
 [Data](articles/3c1a4f7f.json)
+
+[Extended Data](ext_articles/3c1a4f7f.ext.json)
 
 ---
 
@@ -155,6 +185,20 @@ Harris’s surprise bid against Republican rival Donald Trump continues to gain 
 [Data](articles/32c2c164.json)
 
 [Extended Data](ext_articles/32c2c164.ext.json)
+
+---
+
+### 2025දී දේශීය ඖෂධ නිශ්පාදනය සියයට 90ක් දක්වා ඉහළට
+
+*2024-07-26 16:27:47* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-දේශීය-ඖෂධ-නිශ්පාදනය-සියයට-90ක්-දක්වා-ඉහළට/11-411020) · `si`
+
+1963 ඔක්තෝම්බර් මාසයේ දී ආරම්භ කරන ලද ශ්‍රී ලංකා ඖෂධ නිෂ්පාදකයින්ගේ සංගමය - Sri Lanka Pharmaceutical Manufacturers' Association) සිය 61 වන සංවත්සරය සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (25) කොළඹ සිනමන් ලේක් සයිඩ් හෝටලයේදී පවත්වනු ලැබීය.
+
+1963 ඔක්තෝම්බර් මාසයේදී ආරම්භ කරන ලද ශ්‍රී ලංකා ඖෂධ නිෂ්පාදකයින්ගේ සංගමය (SLPMA) මේ වනවිට බටහිර ඖෂධ නිෂ්පාදන කර්මාන්තයේ ඉහළම ප්‍රමිතින් පවත්වාගෙන යන 100% දේශීය පුද්ගලික ඖෂධ නිෂ්පාදකයින් 23 දෙනෙකුගෙන් සමන්විත වේ. ඔවුන් විවිධ ඖෂධ වර්ග 200 කට වඩා නිෂ්පාදනය කරන අතර, දේශීය ඖෂධ වෙළඳපලින් 20% ක ප්‍රමාණයක් හිමි කර ගෙන සිටී. රජයේ රෝහල්වල සහ සායනවල භාවිතා කරන අත්‍යාවශ්‍ය ඖෂධවලින් ආසන්න වශයෙන් 25% ක් සපයනු ලබන්නේ එම දේශීය නිෂ්පාදකයින් විසිනි.
+
+...
+
+[Data](articles/ced84ffb.json)
 
 ---
 
@@ -2191,49 +2235,5 @@ Thereafter the 32-year-old K. G. R. The woman died last night, while the woman w
 [Data](articles/976eb35b.json)
 
 [Extended Data](ext_articles/976eb35b.ext.json)
-
----
-
-### Showers in some parts
-
-*2024-07-26 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199213) · `si`
-
-Today, expect showers in Sabaragamuwa, Kandy, and Nuwara Eliya. No showers in Western/Northern provinces but strong winds in Trincomalee/North Western provinces. Other regions may experience light winds.
-
-🟩
-
-Showers will occur at times in the Sabaragamuwa Province today (26) and in the Kandy and Nuwara Eliya Districts.
-
-The latest prophecy issued by the Department of Meteorology.
-
-There is no more states that several showers can occur in the Western and Northwestern provinces and in the Galle and Matara districts.
-
-Western, North, North, North, North, North-central and North Western provinces are sitting at the Trincomalee and North Western Provinces.. Strong winds can occur about 55 in 50.
-
-From time to time in the rest of the island.. Strong winds are between 30 and 40.
-
-◼️
-
-[Data](articles/5e4e742d.json)
-
-[Extended Data](ext_articles/5e4e742d.ext.json)
-
----
-
-### Janashakthi Life celebrates top performers with exclusive yacht tour
-
-*2024-07-26 06:11:00* · [`islandlk`](http://island.lk/janashakthi-life-celebrates-top-performers-with-exclusive-yacht-tour/) · `en`
-
-Janashakthi Life recognized and celebrated the achievements of its top performers by hosting an exclusive Yacht Tour featuring a scenic sunset cruise. Over 75 high-achieving agents were selected for this special event. The tour also provided an opportunity for Janashakthi Life’s senior management team to connect with their top performers on a personal level.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/177df166.json)
-
-[Extended Data](ext_articles/177df166.ext.json)
 
 ---

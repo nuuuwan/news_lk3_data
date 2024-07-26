@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 14:07:43**
+As of **2024-07-26 14:20:25**
 
 ## Newspaper Stats
 
-*Scraped **37,395** Articles*
+*Scraped **37,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ bbccomsinhala | 365
 islandlk | 2,133
 economynextcom | 2,244
 dailyftlk | 2,390
-adalk | 3,405
-adaderanalk | 4,328
+adalk | 3,406
+adaderanalk | 4,329
 tamilmirrorlk | 4,609
 dailymirrorlk | 4,733
 virakesarilk | 5,875
-adaderanasinhalalk | 6,272
+adaderanasinhalalk | 6,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,393 (100.0%) of 37,395 articles have been extended.
+37,395 (100.0%) of 37,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### ඇමති විජයදාසට නොතීසි
+
+*2024-07-26 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199232) · `si`
+
+රිමාන්ඩ් සිරකරුවන්ට ජනාධිපතිවරණය ඇතුළු මැතිවරණයවලදී ඡන්දය ප්‍රකාශ කිරීමට පහසුකම් සලසන මාර්ගෝපදේශ මාලාවක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම සම්බන්ධයෙන් අධිකරණය හමුවේ කරුණු දක්වන ලෙස දැනුම් දෙමින් මැතිවරණ කොමිසම, අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ ඇතුළු පිරිසක් වෙත නොතීසි යවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (26) නියෝග කළේය.
+
+රිමාන්ඩ් සිරකරුවන්ට ඡන්ද අයිතිය ලබා දෙන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු සිරකරුවකු වන සුදේශ නන්දිමාල් ද සිල්වා මහතා ගොනුකළ පෙත්සමක් කැඳවූ අවස්ථාවේදී ශ්‍රේෂ්ඨාධිකරණය විසින් පෙත්සම්කාර පාර්ශවයේ නීතිඥවරයා වෙත මෙම නියෝගය නිකුත් කළේය.
+
+ඒ අනුව අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස නම් කරසිටින මැතිවරණ කොමිසමේ සභාපතිවරයා ඇතුළු සාමාජිකයින්, අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ, බන්ධනාගාර කොමසාරිස් ජෙනරාල් ඇතුළු පිරිසක් වෙත අගෝස්තු මස 08 වනදා මේ සම්බන්ධයෙන් කරුණු දක්වන ලෙස දන්වා නොතීසි යැවීමට පියවර ගන්නා ලෙසත් නියෝග කෙරුණි.
+
+...
+
+[Data](articles/25e3a960.json)
+
+---
+
+### ප්‍රංශ අධිවේගී දුම්රිය මාර්ග කිහිපයක් ගිනි තබයි
+
+*2024-07-26 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199231) · `si`
+
+2024 ඔලිම්පික් උලෙළේ සමාරම්භක උත්සවය ආරම්භවීමට පැය කිහිපයක් තිබියදී ප්‍රංශයේ දුම්රිය මාර්ග කිහිපයක් ගිනිතබා ඇති බව වාර්තා වෙයි.
+
+පැරිසියේ සිට බටහිරට, උතුරට සහ නැගෙනහිරට දිවෙන TGV අධිවේගී දුම්රිය මාර්ගවල එම ගිනි තැබීම් වාර්තා වෙයි.
+
+මේ හේතුවෙන් දුම්රිය ගමනාගමන කටයුතු සඳහා විශාල බලපෑමක් එල්ලවී ඇති අතර දුම්රිය මගීන් 800,000ක් පමණ ඉන් අපහසුවට පත්ව ඇත.
+
+◼️
+
+[Data](articles/42fe80e8.json)
+
+---
+
+### French train lines hit by ‘malicious acts’ ahead of Olympics opening ceremony
+
+*2024-07-26 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100792/french-train-lines-hit-by-malicious-acts-ahead-of-olympics-opening-ceremony) · `en`
+
+(AP) — High-speed trains around France were hit by several “malicious acts” Friday that heavily disrupted traffic on the day of the high-risk opening ceremony of the Paris Olympics, according to the national rail company SNCF.
+
+Travel to and from London beneath the English Channel, to neighboring Belgium, and across the west, north and east of France were affected by what SNCF called a series of coordinated overnight incidents.
+
+Government officials denounced the incidents hours before the opening ceremony of the Paris Olympics, which are happening around France, though there was no immediate sign of a link to the Games.
+
+National police said authorities are investigating what happened. French media reported a big fire on a busy western route.
+
+Transport Minister Patrice Vergriete said in a post on X that he “firmly condemns these criminal incidents,” and that SNCF is working to restore traffic.
+
+...
+
+[Data](articles/3e8254c8.json)
+
+---
 
 ### Sri Lanka and Pakistan to hold 7th round of political consultation
 
@@ -47,6 +99,8 @@ On the sidelines of the Consultations, the Foreign Secretary is scheduled to cal
 ...
 
 [Data](articles/3135418d.json)
+
+[Extended Data](ext_articles/3135418d.ext.json)
 
 ---
 
@@ -110,15 +164,21 @@ The suspect has been arrested in connection with the complaint received by the p
 
 ---
 
-### பதவி விலகுமாறு ரணிலுக்கு சஜித் சவால்
+### Sajith challenges Ranil to resign
 
 *2024-07-26 13:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-விலகுமாறு-ரணிலுக்கு-சஜித்-சவால்/175-341075) · `ta`
 
-உயர் நீதிமன்ற உத்தரவுக்கு அமைய பதில் பொலிஸ் மா அதிபரை நியமிக்க முடியாவிட்டால் பதவி விலகுமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சவால் விடுத்துள்ளார்.
+Sajith Premadasa, the opposition leader, demands President Ranil Wickremesinghe's resignation if he fails to comply with a High Court order regarding the appointment of the Inspector General of Police.
+
+🟩
+
+Opposition leader Sajith Premadasa has challenged President Ranil Wickremesinghe to resign if he cannot appoint the Inspector General of Police in response to a High Court order.
 
 ◼️
 
 [Data](articles/28c914b3.json)
+
+[Extended Data](ext_articles/28c914b3.ext.json)
 
 ---
 
@@ -381,6 +441,22 @@ The deceased has been identified as a 26 year old resident of the Dem Wwarawela 
 [Data](articles/bf001293.json)
 
 [Extended Data](ext_articles/bf001293.ext.json)
+
+---
+
+### ජනාධිපතිවරණයට ඇප මුදල් භාර ගැනීම අගෝස්තු 14 දා දක්වා
+
+*2024-07-26 11:56:00* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-ඇප-මුදල්-භාර-ගැනීම-අගෝස්තු-14-දා-දක්වා/11-411015) · `si`
+
+අති විශේෂ ගැසට් නිවේදනය මගින් අද දින  ප්‍රකාශයට පත් කරන ලද සැප්තැම්බර් 21 දින පැවැත්වෙන  ජනාධිපතිවරණයේ නාමයෝජනා බාර ගැනීමේ දිනය වූ අගෝස්තු 15 දිනයට පෙර දිනයේ දහවල් 12.00 ට පෙර අපේක්ෂකයන් විසින් ඇප මුදල් තැන්පත් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අනුව ජනාධිපතිවරණය සඳහා  පිළිගත් දේශපාලන පක්ෂයක්  විසින් යෝජනා කරන අපේක්ෂකයෙකු වෙනුවෙන් රුපියල් 50000 ක් ද වෙනත් දේශපාලන පක්ෂයක් හෝ චන්ද හිමියෙකු විසින් යෝජනා කරන අපේක්ෂකයෙකු වෙනුවෙන් රුපියල් 75000 ක් ද වශයෙන් ඇප මුදල් තැන්පත් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+මෙම ඇප මුදල් තැන්පත් කිරීම අද (26 ) සිට  අගෝස්තු 14 දා දහවල් 12.00 ට පෙර කාලය තුළ සතියේ කාර්යාල  දිනවල පෙරවරු 08.30 සිට     පස්වරු 04.15 දක්වාද 14 දා පමණක් පෙරවරු 08.30 සිට දහවල් 12.00 දක්වාද රාජගිරිය මැතිවරණ කොමිෂන් සභා කාර්යාලයේ දී සිදුකළ යුතු බව මේ සම්බන්ධයෙන් අද දින මැතිවරණ කොමිෂන් සභාව මගින් මේ මැතිවරණය සම්බන්ධයෙන්   නිකුත් කළ දෙවන  අති විශේෂ ගැසට් නිවේදනය මගින් ප්‍රකාශයට පත්කර ඇත.
+
+◼️
+
+[Data](articles/0783ab60.json)
 
 ---
 
@@ -2057,99 +2133,5 @@ Those who have never bought the country's economy as much as they have never bee
 [Data](articles/68e441a8.json)
 
 [Extended Data](ext_articles/68e441a8.ext.json)
-
----
-
-### Tamil
-
-*2024-07-26 01:45:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமனிதனை-தமிழினம்-இழந்து-விட்டது/175-341051) · `ta`
-
-Tamil rights to self-determination highlighted; tensions noted over loss of life, including an educated doctor, amid Sinhalese separatism. Sreedharan addresses financial management bill, praising Dr. Wickremabahu Karunaratne's consistent stance on Tamil issues.
-
-🟩
-
-Tamil people have the right to self -determination. Tamil people have lost their lives as an educated doctor among the Sinhalese people who have been able to live as a separate nation in this country.. யான யான யான யான யான யான யான. Sreedharan paid tribute to the congregation
-
-He said this while addressing the debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25).
-
-Dr. Wickremabahu Karunaratne. He has always practiced the same policy on the issues of Tamil issues.
-
-◼️
-
-[Data](articles/a9d0a869.json)
-
-[Extended Data](ext_articles/a9d0a869.ext.json)
-
----
-
-### Dr.
-
-*2024-07-26 01:45:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமனிதன்-கலாநிதி-தமிழினம்-இழந்தது/175-341051) · `ta`
-
-In a parliamentary debate, Dr. Wickremabahu Karunaratne emphasized the Tamil community's right to self-determination, highlighting the loss of life among educated doctors due to ethnic tensions. He praised Sreedharan for his contributions during the discussion on the State Financial Management and Economic Transfer Bill.
-
-🟩
-
-Tamil people have the right to self -determination. Tamil people have lost their lives as an educated doctor among the Sinhalese people who have been able to live as a separate nation in this country.. யான யான யான யான யான யான யான. Sreedharan paid tribute to the congregation
-
-He said this while addressing the debate on the State Financial Management and Economic Transfer Bill held in Parliament on Thursday (25).
-
-Dr. Wickremabahu Karunaratne. He has always practiced the same policy on the issues of Tamil issues.
-
-◼️
-
-[Data](articles/f8024e4a.json)
-
-[Extended Data](ext_articles/f8024e4a.ext.json)
-
----
-
-### There are 12 stations that distort Buddhism- the parliament to protect national heritage
-
-*2024-07-26 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189389) · `ta`
-
-A parliamentary union aims to safeguard national heritage by addressing 12 stations distorting Buddhism and identifying 85 individuals involved. Led by Chairman Jayantha Samaraweera, the meeting highlighted the need for legal changes to prevent unauthorized saffron robe wear and tackle the rise of fake personas spreading distorted Buddhist teachings. Recommendations from the Mahanayaka Thera are anticipated to be presented in Parliament.
-
-🟩
-
-The parliamentary union to protect national heritage is that 12 stations that distort the history of the country, like Buddhist Dharma, have been operating within the country.. It was also revealed that 85 people who distort Buddhism have been identified.
-
-These issues were discussed when the parliamentary union to protect national heritage was recently met under the leadership of its chairman Jayantha Samaraweera.
-
-The meeting was attended by Hagoda Vipasi Thera, Vedanta Professor Mawathama Pammananda Thera, Attorney Kalyananda Therakama, Attorney Raja Gunaratne, Madhugama Senevuwan and Dr. Vasantha Bandara.
-
-The need to bring legal amendments to it is that the Bikkumar Sangam council does not have the authority to prohibit the wearing of the saffron even if anyone is expelled from the monastic monks, which does not comply with the discipline of the 'Karaka Sangam Sabha'.. As well as with the name of Pikumar
-
-...
-
-[Data](articles/706cc173.json)
-
-[Extended Data](ext_articles/706cc173.ext.json)
-
----
-
-### Who is implementing?
-
-*2024-07-26 01:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமுல்படுத்துவது-யார்/175-341050) · `ta`
-
-The Chief Minister, Susil Prema Jayantha, announced that the implementation of a court ruling on the Inspector General of Police will be decided by the Constitutional Council, due to the Inspector General's exclusion from the Cabinet's decision-making process under the 17th Constitutional Amendment. This amendment restricts the Constituent Assembly's ability to participate in cabinet discussions, limiting its role to confirming presidential appointments, including the Inspector General. The Speaker of the House, Mahinda Yapa Abeywardena, plans to address the issue upon returning from his foreign trip.
-
-🟩
-
-The current issue is who will implement a court ruling on the Inspector General of Police. Therefore, the verdict will be presented to the Constitutional Council, said the chief minister and minister of the council, Susil Prema Jayantha.
-
-He made this comment while commenting on the ban on the Supreme Court on Thursday (25) in Parliament.
-
-The Constituent Assembly was inaugurated at the beginning of the 17th Constitutional Amendment.. The change of executive power is found in 7 (a) in the 21st Amendment. Accordingly, part of the Constituent Assembly Executive Department.
-
-So, it cannot speak in the cabinet. Even if it discusses it, the Cabinet cannot make a decision. Some appointments should be allowed for the Constitutional Council. The same applies to the appointment of the Inspector General of Police.
-
-It is the duty and responsibility of the Constituent Assembly to ensure or confirm anyone who is put forward by the president.
-
-...
-
-[Data](articles/e5c22c11.json)
-
-[Extended Data](ext_articles/e5c22c11.ext.json)
 
 ---

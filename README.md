@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-26 18:55:02**
+As of **2024-07-26 19:05:28**
 
 ## Newspaper Stats
 
-*Scraped **37,433** Articles*
+*Scraped **37,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,336
 tamilmirrorlk | 4,616
 dailymirrorlk | 4,733
 virakesarilk | 5,881
-adaderanasinhalalk | 6,284
+adaderanasinhalalk | 6,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,433 (100.0%) of 37,433 articles have been extended.
+37,433 (100.0%) of 37,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-26 (Friday)
+
+### කාසියේ වාසිය චමරි ට
+
+*2024-07-26 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199244) · `si`
+
+කාන්තා ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ දෙවැනි අවසන් පූර්ව තරගය ශ්‍රී ලංකාව සහ පාකිස්තානය අතර පැවැත්වෙයි.
+
+මෙම විස්සයි විස්ස තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කාන්තා කණ්ඩායම පළමුව පන්දු රැකීමට තීරණය කළේය.
+
+මෙහි පළමු අවසන් පූර්ව තරගය ඉන්දියාව සහ බංග්ලාදේශය අතර පැවතිනි.
+
+එම තරගය කඩුලු 10කින් ජය ගැනීමට ඉන්දීය කාන්තා කණ්ඩායම සමත් විය.
+
+◼️
+
+[Data](articles/fb4977b9.json)
+
+---
 
 ### Tension in phosphot gandor
 
@@ -2241,27 +2259,5 @@ The Election Commission has decided to hold the presidential election on Septemb
 [Data](articles/236236d2.json)
 
 [Extended Data](ext_articles/236236d2.ext.json)
-
----
-
-### Sri Lanka evaluating 100 applications to import vehicles for tourism
-
-*2024-07-26 07:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-evaluating-100-applications-to-import-vehicles-for-tourism-173844/) · `en`
-
-ECONOMYNEXT – Sri Lanka has received applications to get permits to import around 100 vehicles, Secretary Ministry of Tourism and Lands, Somarathne Vidanapathirana said.
-
-The Cabinet approved the import of vans and buses to help improve the vehicle stock to transport tourists, relaxing a vehicle import ban imposed during currency crisis triggered by aggressive macro-economic policy involving rate and tax cuts.
-
-Some of the vehicles in the sector are 10 to 15 years old, Vidanapathirana, told reporters in Colombo on July 25.
-
-Around 100 applications from eligible tourism operators are now being evaluated, he said.
-
-Already 10 permits have been given to those who met the criteria. (Colombo/July26/2024)
-
-◼️
-
-[Data](articles/34527584.json)
-
-[Extended Data](ext_articles/34527584.ext.json)
 
 ---

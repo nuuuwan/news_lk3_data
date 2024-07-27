@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 13:35:56**
+As of **2024-07-27 13:54:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,529 (100.0%) of 37,531 articles have been extended.
+37,531 (100.0%) of 37,531 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,33 @@ The proscribed persons, groups and entities are subject to the freezing of its f
 
 [Data](articles/bec992a5.json)
 
+[Extended Data](ext_articles/bec992a5.ext.json)
+
 ---
 
-### දයාසිරිට මෛත්‍රී පිළිතුරු දෙයි
+### Maithri answers Dayasiri
 
 *2024-07-27 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199260) · `si`
 
-දයාසිරි ජයසේකර මහතා ඇතුළු පිරිසක් සමගි ජන බලවේගය සමග ගිවිසුම්ගතවීමේදී ඇති කරගත් එකඟතා හැකි නම් අනාවරණය කරන ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා දයාසිරි ජයසේකර මන්ත්‍රීවරයාට අභියෝගයක් සිදුකර තිබේ.
+Maithripala Sirisena challenges Dayasiri Jayasekera to confirm his agreement with reconciliation efforts, citing Jayasekera's supposed acceptance on August 8th. Sirisena criticizes the SLFP for betraying its members for personal gain, highlighting issues within the party's leadership and decision-making processes.
 
-අගෝස්තු 08 වන දින දයාසිරි ජයසේකර මහතා ඇතුළු පිරිසක් සමගි ජන බලවේගය සමග එක්වීමට මේ වනවිටත් ගිවිසුම්ගතව සිටින බව මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වත්මන් අර්බුදකාරී තත්ත්වයට එකම වගකිවයුත්තා තමා බව හුවා දක්වමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා සිදුකළ ප්‍රකාශය පිළිකුලෙන් යුතුව හෙළාදකින බව පවසමින් එම පක්ෂයේ හිටපු සභාපති, හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා නිකුත් කළ නිවේදනයක මේ බව සඳහන් වෙයි.
+Former President Maithripala Sirisena has challenged MP Dayasiri Jayasekera to disclose if Dayasiri Jayasekara was able to agree with reconciliation.
 
-ජනාධිපති අපේක්ෂක ආචාර්ය විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පාක්ෂිකයකු නොවන බව හා ඔහු නිදහස් පක්ෂයේ අපේක්ෂකයා වශයෙන් ඉදිරිපත් කිරීමට කිසිදු තීරණයක් ගෙන නොමැති බවට දයාසිරි ජයසේකර මහතා ඊයේ සිදුකළ ප්‍රකාශය ද මුලුමනින්ම සත්‍යය විකෘති කිරීමක් බවද හිටපු ජනාධිපතිවරයා පෙන්වා දෙයි.
+Maithripala Sirisena says that Dayasiri Jayasekara has already agreed to join the reconciliation on August 8th.
+
+Former UNP President Maithripala Sirisena, the former President Maithripala Sirisena, said he was the only responsible decision to contemplate the current responsibility to the current situation in the Sri Lanka Freedom Party (SLFP) is condemned.
+
+The former President points out that Dr. Wijayadasa Rajapakse, who is not a Sri Lankan free party and the Free Party candidate, said the former President said.
+
+Maithripala Sirisena says that the proposal to submit the President's presidential candidate was the Executive Committee of the party, Maithripala Sirisena said.
 
 ...
 
 [Data](articles/74946052.json)
+
+[Extended Data](ext_articles/74946052.ext.json)
 
 ---
 

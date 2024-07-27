@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 14:54:20**
+As of **2024-07-27 15:05:38**
 
 ## Newspaper Stats
 
-*Scraped **37,534** Articles*
+*Scraped **37,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 3,412
 adaderanalk | 4,349
 tamilmirrorlk | 4,626
 dailymirrorlk | 4,733
-virakesarilk | 5,905
+virakesarilk | 5,906
 adaderanasinhalalk | 6,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,534 (100.0%) of 37,534 articles have been extended.
+37,534 (100.0%) of 37,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### புதிய கடவுச்சீட்டு தொடர்பில் வெளியான தகவல்
+
+*2024-07-27 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/189508) · `ta`
+
+அடுத்த வருடம் ஜனவரி மாதம் முதலாம் திகதி முதல் ஜனவரி முதலாம் திகதி முதல் இலங்கையர்களுக்கு பாதுகாப்பானதும், புதுப்பிக்கப்பட்டதுமான முறையில் இலத்திரனியல் கடவுச்சீட்டுக்கள் குடிவரவு மற்றும் குடியகல்வு திணைக்களம் தெரிவித்துள்ளது.
+
+ஜூலை 16 ஆம் திகதி முதல் www.immigration.gov.lk என்ற இணையத்தளத்தினூடாக இலத்திரனியல் கடவுச்சீட்டுகளைப் பெற்றுக் கொள்வதற்கு முன் பதிவு செய்து கொள்ள முடியும்
+
+மேலும், முன் பதிவு செய்துள்ள கடவுச்சீட்டு விண்ணப்பதாரர்கள் மட்டும் குடிவரவு மற்றும் குடியகல்வு திணைக்களத்தின் தலைமை அலுவலகம் மற்றும் பிராந்திய அலுவலகங்களுக்கு வருகை தருமாறும், முன் பதிவு இன்றி குடிவரவு மற்றும் குடியகல்வு திணைக்களத்திற்கு செல்வதை தவிர்க்குமாறும் கேட்டுக்கொள்ளப்பட்டுள்ளது.
+
+பதிவு செய்ததன் பின்னர், முன்னுரிமை அடிப்படையில் கடவுச்சீட்டைப் பெறுவதற்கான வாய்ப்பு வழங்கப்படும் என திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/064c6fff.json)
+
+---
 
 ### IGP controversy: BASL reaffirms SC’s authority amid govt’s claims
 
@@ -2219,27 +2237,5 @@ A bond maturing on 01.10.2032 closed at 12.45/60 percent. (Colombo/Jul26/2024)
 [Data](articles/1eb8f8b2.json)
 
 [Extended Data](ext_articles/1eb8f8b2.ext.json)
-
----
-
-### Sri Lanka SRU responds to SLT, Hilton sale allegations
-
-*2024-07-26 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-sru-responds-to-slt-hilton-sale-allegations-174018/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s State-Owned Enterprises Restructuring Unit has responded to recent statements about the sale process of Hotel Developers Lanka and SLT.
-
-With respect to the divestitures of Hotel Developers Lanka Ltd and Sri Lanka Telecom PLC, recent newspaper articles and social media content claim that:
-
-1. The divestiture of Hotel Developers Lanka Ltd (HDL, the owning company of the Colombo Hilton) will include 7 acres of land:
-
-This is incorrect. The land involved in the transaction amounts to 4.61 acres and is available for use by HDL on a leasehold basis until 2111. Subject to approval by the Cabinet of Ministers, a further 1.875 acres of land will be made available to HDL on a lease basis until 2111 at a price of Rs 4.4 billion (in addition to the price for HDL).
-
-Two of the hotel’s restaurants, its swimming pool, gymnasium and some of its parking is situated on this land.
-
-...
-
-[Data](articles/56d43bb9.json)
-
-[Extended Data](ext_articles/56d43bb9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 04:20:23**
+As of **2024-07-28 04:36:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,583 (100.0%) of 37,585 articles have been extended.
+37,585 (100.0%) of 37,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1014,17 +1014,23 @@ Algeria’s Tourism Industry Boosts Economy with $7.2 Billion GDP Contribution i
 
 ---
 
-### ரணில் - பஷில் சந்திப்பில் இணக்கமில்லை
+### Ranil - Bashil is not compatible at the meeting
 
 *2024-07-27 15:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-பஷில்-சந்திப்பில்-இணக்கமில்லை/150-341107) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடுவது தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷவுக்கும் இடையில் இடம்பெற்ற கலந்துரையாடல் இணக்கப்பாட்டின்றி முடிவடைந்ததாக பொதுஜன பெரமுனவின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்தார்.
+President Ranil Wickremesinghe and Basil Rajapaksa failed to reach an agreement during their meeting about the presidential election. Despite this, they plan to meet again tomorrow.
 
-எவ்வாறாயினும், ஜனாதிபதி மற்றும் பசில் ராஜபக்ஷ நாளை (28) சந்திக்கவுள்ளதாக அந்த அதிகாரி குறிப்பிட்டுள்ளார்.
+🟩
+
+A senior official of the PA said that the discussion between President Ranil Wickremesinghe and the founder of the Sri Lanka PA Basil Rajapaksa on the presidential election ended without compliance.
+
+However, the official said that the President and Basil Rajapaksa will meet tomorrow (28).
 
 ◼️
 
 [Data](articles/038c2d9e.json)
+
+[Extended Data](ext_articles/038c2d9e.ext.json)
 
 ---
 

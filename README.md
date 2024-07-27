@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 15:35:42**
+As of **2024-07-27 15:54:27**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,305
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,536 (100.0%) of 37,540 articles have been extended.
+37,540 (100.0%) of 37,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### කුවේට් ගිහින් නිරපරාදේ වෙඩිකෑ සාගර හිස් අතින් ලංකාවට එයි
+### Kuwait comes to Sri Lanka to Sri Lanka
 
 *2024-07-27 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199265) · `si`
 
-කුවේට් ආපනශාලාවක ආහාර ඇනවුම් බෙදාහැරීමේ රැකියාවක නිරතවී සිටි අදාළ ශ්‍රී ලාංකිකයාට කුවේට් ජාතිකයෙකු විසින් එම වෙඩිතැබීම සිදුකර තිබුණේ ඇනවුම ප්‍රමාදවූ නිසා උරණවීම හේතුවෙනි.
+A Sri Lankan worker in Kuwait faced delayed food orders, prompting him to return home to seek justice. The event was attended by the SLBFE Chairman. Rajanya, a 46-year-old from Jaffna, mentioned his struggles, including his children's education and his wife's illness, during his six years in Kuwait.
 
-නමුත්, එම සිදුවීමෙන් පසු කිසිඳු සාධාරණයක් ඉටුනොවුණු තැන ඔහු අද (27) දිවයිනට පැමිණියේ සාධාරණයක් ඉටුකරන ලෙස මෙරට බලධාරීන්ගෙන් ඉල්ලා සිටිමිනි.
+🟩
 
-එම අවස්ථාවට ශ්‍රී ලංකා මානව හිමිකම් සංවිධානයේ සභාපතිවරයා ඇතුළු පිරිසක්ද එක්වී තිබුණි.
+The Sri Lankan who had worked for a food order distribution of food order in Kuwait canteen was caused by the order delayed due to delay.
 
-කුවේට්හි වසර 6ක් රැකියාවේ නිරතව සිටි සාගර ලක්ෂ්මන් තිලකරත්න නම් ශ්‍රී ලාංකිකයෙකුට එරටදී වෙඩි ප්‍රහාරයකට ලක්වූ පුවතක් අප පසුගිය පෙබරවාරි 23 වනදා අද දෙරණ ඔස්සේ වාර්තා කළේය.
+However, after the incident, he returned to the island to do justice to the country to do justice.
 
-රාජංගනය යාය 11 ප්‍රදේශයේ පදිංචි සාගර 46 හැවිරිදි දෙදරු පියෙකි.
+The Chairman of the Sri Lanka Human Rights Organization (SLBFE) was present at the occasion.
 
-ඔහු පවසන්නේ දරු දෙදෙනාද පාසල් වියේ පසුවන අතර ඔහුගේ බිරිඳ ද අසනීප තත්ත්වයෙන් පසුවන බවය.
+We have been shot at Kuwait for six years in Kuwait, we have been shot in the country on February 23.
+
+Rajanya is a 46 year old Ocean resident of Jaffna.
+
+He says that the two children are also school and his wife is also ill.
 
 ◼️
 
 [Data](articles/2779645f.json)
+
+[Extended Data](ext_articles/2779645f.ext.json)
 
 ---
 
@@ -70,35 +76,49 @@ Algeria’s Tourism Industry Boosts Economy with $7.2 Billion GDP Contribution i
 
 [Data](articles/52e6d745.json)
 
+[Extended Data](ext_articles/52e6d745.ext.json)
+
 ---
 
-### ரணில் -பஷில் சந்திப்பில் இணக்கமில்லை
+### Ranil -Bashil is not compatible at the meeting
 
 *2024-07-27 15:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பஷில்-சந்திப்பில்-இணக்கமில்லை/175-341107) · `ta`
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடுவது தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷவுக்கும் இடையில் இடம்பெற்ற கலந்துரையாடல் இணக்கப்பாட்டின்றி முடிவடைந்ததாக பொதுஜன பெரமுனவின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்தார்.
+President Ranil Wickremesinghe and Basil Rajapaksa, founder of the Sri Lanka PA, failed to reach an agreement during their meeting regarding the presidential election. Despite this setback, they are scheduled to meet again tomorrow (28th).
 
-எவ்வாறாயினும், ஜனாதிபதி மற்றும் பசில் ராஜபக்ஷ நாளை (28) சந்திக்கவுள்ளதாக அந்த அதிகாரி குறிப்பிட்டுள்ளார்
+🟩
+
+A senior official of the PA said that the discussion between President Ranil Wickremesinghe and the founder of the Sri Lanka PA, Basil Rajapaksa, had ended without compliance over the presidential election.
+
+However, the official said that the President and Basil Rajapaksa will meet tomorrow (28)
 
 ◼️
 
 [Data](articles/f409fac1.json)
 
+[Extended Data](ext_articles/f409fac1.ext.json)
+
 ---
 
-### පොලිස් මැතිවරණ ඒකකය වැඩ අරඹයි
+### Police Election Unit begins work
 
 *2024-07-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199264) · `si`
 
-ජනාධිපතිවරණයේ මැතිවරණ රාජකාරි අධීක්ෂණ කටයුතු සඳහා මැතිවරණ කටයුතු භාර ජ්‍යෙෂ්ඨ නියෝජය පොලිස්පති අසංග කරවිට මහතාට අමතරව තවත් නියෝජ්‍ය පොලිස්පතිවරයෙකු සහ ජ්‍යේෂ්ඨ පොලිස් අධිකාරීවරයෙකු පත්කර තිබේ.
+A new unit for election supervision has been established under DIG Liyanage and SSP Dharmasena, tasked with overseeing the upcoming presidential election. This initiative was announced by another Deputy Inspector General of Police, marking the beginning of their operations from the police headquarters.
 
-නියෝජ්‍ය පොලිස්පති පී. ලියනගේ සහ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.ඩී.ජී.එල්.ඒ ධර්මසේන යන මහත්වරුන් ඒ සඳහා පත්කර ඇති බව සඳහන් ය.
+🟩
 
-මේ වනවිටත් පොලිස් මූලස්ථානයේ මැතිවරණ කටයුතු පිළිබඳ ඒකකයක් ආරම්භ කර ඇති අතර ඊයේ දිනයේ සිට ක්‍රියාත්මක එම ඒකකය සඳහා ස්ථානාධිපතිවරයෙකු ද පත් කර තිබේ.
+Another Deputy Inspector General of Police (IGP) has appointed a Senior Superintendent of Police (IGP) to supervise the presidential election.
+
+DIG. Liyanage and SSP KDGLA Dharmasena had been appointed.
+
+A unit of election campaign has already been launched at the police headquarters and has been appointed to the unit yesterday.
 
 ◼️
 
 [Data](articles/705b157f.json)
+
+[Extended Data](ext_articles/705b157f.ext.json)
 
 ---
 

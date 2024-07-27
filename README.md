@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 21:55:53**
+As of **2024-07-27 22:07:52**
 
 ## Newspaper Stats
 
-*Scraped **37,572** Articles*
+*Scraped **37,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,258
 dailyftlk | 2,405
 adalk | 3,415
 adaderanalk | 4,355
-tamilmirrorlk | 4,631
+tamilmirrorlk | 4,632
 dailymirrorlk | 4,733
 virakesarilk | 5,909
 adaderanasinhalalk | 6,317
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,568 (100.0%) of 37,572 articles have been extended.
+37,572 (100.0%) of 37,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### கஞ்சா போட்ட கான்ஸ்டபிள் இடைநீக்கம்
+
+*2024-07-27 21:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-போட்ட-கான்ஸ்டபிள்-இடைநீக்கம்/175-341110) · `ta`
+
+வாகனத்தை சோதனை செய்யும் போது வாகனத்திற்குள் கஞ்சாவை வைத்து இளைஞர்கள் குழுவொன்றை கைது செய்ய முற்பட்ட குற்றச்சாட்டின் பேரில் கொள்ளுப்பிட்டி பொலிஸில் கடமையாற்றும் கான்ஸ்டபிள் ஒருவர் பணி இடை நீக்கம் செய்யப்பட்டுள்ளார்.
+
+கொள்ளுப்பிட்டி பகுதியில் இளைஞர்கள் குழுவொன்று காரில் பயணித்த போது, ​​கொள்ளுப்பிட்டி பொலிஸ் உத்தியோகத்தர்கள் குழுவொன்று காரை நிறுத்தி சோதனையிட்டதுடன், கான்ஸ்டபிள் ஒருவர் காரில் கஞ்சாவை வைத்து இளைஞர்களை கைது செய்ய சென்றுள்ளார்
+
+◼️
+
+[Data](articles/f9f79816.json)
+
+---
 
 ### Treasury ready to release funds for election at any time as required - state minister
 
@@ -46,27 +60,37 @@ Furthermore, the State Minister said that if the number of candidates running fo
 
 [Data](articles/7ebbd908.json)
 
+[Extended Data](ext_articles/7ebbd908.ext.json)
+
 ---
 
-### රනිල් - බැසිල් යළිත් සාකච්ඡාවක්
+### Ranil - Basil again a discussion
 
 *2024-07-27 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199278) · `si`
 
-එළැඹෙන ජනාධිපතිවරණය සම්බන්ධයෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පාර්ශ්වය සහ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ පාර්ශ්වය අතර සාකච්ඡාවක් පවත්වා තිබේ.
+Discussions were held involving President Ranil Wickremesinghe, Basil Rajapaksa, and former President Mahinda Rajapaksa regarding the upcoming presidential election in Sri Lanka. Wickremesinghe is running as an independent candidate. The talks aimed to finalize the presidential candidate from the Sri Lanka General Manager, potentially supporting Wickremesinghe. Meanwhile, Presidential Chief of Staff Sunila Ratnayake and Minister Susil Premajayantha met with Rajapaksa, discussing support for the current president. However, Rajapaksa indicated that the Sri Lanka General Front would announce its candidate for the next presidential election post-discussion.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එළැඹෙන ජනාධිපතිවරණය වෙනුවෙන් ඊයේ (26) ස්වාධීන අපේක්ෂකයෙකු ලෙස ඇප මුදල් තැම්පත් කළේය.
+🟩
 
-කෙසේවෙතත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂකයා කවුරුන්ද යන්න සම්බන්ධයෙන් හෝ වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට පක්ෂයක් ලෙස සහාය ලබා දෙන්නේදැයි යන්න සම්බන්ධයෙන් අවසන් තීරණයකට එකඟවී නොමැති අවස්ථාවක එම සාකච්ඡා පවත්වා තිබීම ද විශේෂත්වයකි.
+A discussion was held between President Ranil Wickremesinghe party and former President Mahinda Rajapaksa regarding the presidential election.
 
-ඒ අනුව ජනාධිපති අපේක්ෂකත්වය සම්බන්ධයෙන් රනිල් වික්‍රමසිංහ මහතා සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අතර සාකච්ඡාවක් පවත්වා තිබේ.
+President Ranil Wickremesinghe also funded the presidential election yesterday (26) as an independent candidate.
 
-ජනාධිපති අපේක්ෂකත්වය සම්බන්ධයෙන් ඉදිරියේදී ගොඩ නැගීමට නියමිත නව සන්ධානය පිළිබඳව මෙහිදී සාකච්ඡා පවත්වා ඇති අතර එම සාකච්ඡා එකඟතාවයකින් තොරව අවසන් වී ඇති බව සඳහන්ය.
+However, it is noteworthy that the discussions have been held on the occasion of the presidential candidate of the Sri Lanka General Manager or to support Mr. Ranil Wickremesinghe.
 
-ඒ අනුව හෙට (28) ජනාධිපතිවරයා සහ බැසිල් රාජපක්ෂ මහතා අතර යළිත් සාකච්ඡාවක් පැවැත්වීමට නියමිතය.
+Basil Rajapaksa has held a discussion between the founder of the Sri Lanka General Assembly regarding the presidential candidate.
+
+The Alliance has also held discussions on the presidential candidate regarding the presidential candidate.
+
+The President and Basil Rajapaksa will be resumed between the President and Basil Rajapaksa.
+
+Meanwhile, Presidential Chief of Staff Sunala Ratnayake and Minister Susil Premajayantha met former President Mahinda Rajapaksa.
 
 ...
 
 [Data](articles/dfb8addc.json)
+
+[Extended Data](ext_articles/dfb8addc.ext.json)
 
 ---
 
@@ -232,19 +256,25 @@ More than 15,000 Ministers and other political parties, including the General Pa
 
 ---
 
-### ලංකාව පළමුවෙන්ම පන්දු රකියි - කණ්ඩායමේ ලොකු වෙනසක් නෑ
+### Sri Lanka first bowler - no big difference
 
 *2024-07-27 19:16:38* · [`adalk`](https://www.ada.lk/sports/ලංකාව-පළමුවෙන්ම-පන්දු-රකියි---කණ්ඩායමේ-ලොකු-වෙනසක්-නෑ/9-411025) · `si`
 
-ඉන්දිය කණ්ඩායම සමගින් පල්ලෙකැලේ පිටියේ පැවැත්වෙන පළමු විස්සයි20 තරගයේ කාසියේ වාසිය දිනා ගත් ශ්‍රී ලංකා කණ්ඩායම මුලින්ම පන්දුවට පහරදිමට ඉන්දියාවට ආරාධනා කළේය.
+In the first T20 match against India, Sri Lanka, under Charith's leadership, made significant changes with Kusal Janith Perera and Asitha Fernando joining the squad. The team includes Kusal Mendis, Wishes Nissanka, Kusal Perera, Kumindic Mendis, Charith Siddhassa, Viewsa Aka Anawa, Mahinu Hasarangala, Mah Meh Supervision, Mithrawana, Asitha Fernando, and Dilshan Madushanka.
 
-චරිත් අසලංකගේ නායකත්වයෙන් යුතුව ශ්‍රී ලංකා කණ්ඩායම ක්‍රිඩා කරන පළමු තරගය මෙය වෙයි. මෙම තරගයේදී කුසල් ජනිත් පෙරේරාට හා අසිත ප්‍රනාන්දුට කණ්ඩායමේ ස්ථානය හිමිව තිබීම හැරෙන්නට කණ්ඩායමේ විශාල වෙනසක් සිදුව නොමැත.
+🟩
 
-ශ්‍රී ලංකා කණ්ඩායම  - කුසල් මෙන්ඩිස්,පැතුම් නිශ්ශංක. කුසල් පෙරේරා. කමිඳු මෙන්ඩිස්. චරිත් අසලංක, දසුන් ශානක, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, මතිෂ පතිරණ, අසිත ප්‍රනාන්දු, ඩිල්ෂාන් මධුශංක
+The Sri Lankan team won the toss and invited India to bat the first Twenty20 match with India.
+
+Sri Lanka is the first match of the Sri Lankan team with Charith's leadership. Kusal Janith Perera and Asitha Fernando receives a large change in the group.
+
+Sri Lanka team - Kusal Mendis, Wishes Nissanka. Kusal Perera. Kumindic Mendis. Charith Siddhassa, Viewsa Aka Anawa, Mahinu Hasarangala, Mah Meh Supervision, Mithrawana, Asitha Fernando, Dilshan Madushanka
 
 ◼️
 
 [Data](articles/1cc98d93.json)
+
+[Extended Data](ext_articles/1cc98d93.ext.json)
 
 ---
 
@@ -450,17 +480,23 @@ During his behalf of former President Mahinda Rajapaksa, President Mahinda Rajap
 
 ---
 
-### ஒன்றாக வெல்வோம்...
+### Let's win ...
 
 *2024-07-27 17:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஒன்றாக-வெல்வோம்/46-341108) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடப் போவதாகவும், அதற்கான கட்டுப் பணத்தை ஏற்கனவே கட்டியுள்ளதாகவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced his candidacy for the upcoming presidential election, stating funds were already allocated for his campaign. He made this declaration during a speech at the Galle Municipal Council grounds.
 
-காலி மாநகர சபை மைதானத்தில் தற்போது இடம்பெற்று வரும் “ஒன்றாக வெல்வோம் – காலியில் நாம்” பொதுக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+President Ranil Wickremesinghe said he would contest the upcoming presidential election and that the money was already being built.
+
+President Ranil Wickremesinghe said this while addressing the gathering at the Galle Municipal Council grounds.
 
 ◼️
 
 [Data](articles/4c76050f.json)
+
+[Extended Data](ext_articles/4c76050f.ext.json)
 
 ---
 
@@ -2211,27 +2247,5 @@ Since India won the first semi-finals, the final match between the Sri Lankan te
 [Data](articles/c9d4cf0d.json)
 
 [Extended Data](ext_articles/c9d4cf0d.ext.json)
-
----
-
-### Ranil Wickremesinghe, including Ranil Wickremesinghe bail to presidential election
-
-*2024-07-26 22:17:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රනිල්-වික්‍රමසිංහ--ඇතුළු-සිවු-දෙනෙක්-ඇප-තැන්පත්-කරති/11-411023) · `si`
-
-Ranil Wickremesinghe, along with three others, has submitted funds to run as independent candidates in the upcoming presidential election. This includes Sarath Keerthirathne and Hithamineala Lakmal Anine El Herath, who represents the Sri Lanka Labor Party.
-
-🟩
-
-Four candidates, including President Ranil Wickremesinghe today, has deposited money to contest for the presidential election today.
-
-Accordingly, Ranil Wickremesinghe and Sarath Keerthirathne have deposited the money to contest the presidential election as independent candidates.
-
-The Elections Commission (EPLA) also stated that Mr. Hithamineala Lakmal Anine El Herath was the candidate of the Sri Lanka Labor Party.
-
-◼️
-
-[Data](articles/5d0f4927.json)
-
-[Extended Data](ext_articles/5d0f4927.ext.json)
 
 ---

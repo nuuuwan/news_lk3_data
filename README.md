@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 21:35:59**
+As of **2024-07-27 21:55:53**
 
 ## Newspaper Stats
 
-*Scraped **37,568** Articles*
+*Scraped **37,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ bbccomsinhala | 365
 islandlk | 2,141
 economynextcom | 2,258
 dailyftlk | 2,405
-adalk | 3,414
-adaderanalk | 4,354
-tamilmirrorlk | 4,630
+adalk | 3,415
+adaderanalk | 4,355
+tamilmirrorlk | 4,631
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,316
+adaderanasinhalalk | 6,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,568 (100.0%) of 37,568 articles have been extended.
+37,568 (100.0%) of 37,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### Treasury ready to release funds for election at any time as required - state minister
+
+*2024-07-27 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100822/treasury-ready-to-release-funds-for-election-at-any-time-as-required-state-minister-) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya assured that funds required for the 2024 Presidential Election will be released by the Treasury on any occasion as required.
+
+Siyambalapitiya expressed that the Election Commission has sent the Ministry of Finance an estimation of nearly Rs. 8 billion for election expenses, adding that the Treasury has sufficient funds for election purposes.
+
+Furthermore, the State Minister said that if the number of candidates running for the presidential election increases and the estimated cost increases, there will be no issue as the government has already allocated additional funds for uncertain election related activities.
+
+◼️
+
+[Data](articles/7ebbd908.json)
+
+---
+
+### රනිල් - බැසිල් යළිත් සාකච්ඡාවක්
+
+*2024-07-27 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199278) · `si`
+
+එළැඹෙන ජනාධිපතිවරණය සම්බන්ධයෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පාර්ශ්වය සහ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ පාර්ශ්වය අතර සාකච්ඡාවක් පවත්වා තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එළැඹෙන ජනාධිපතිවරණය වෙනුවෙන් ඊයේ (26) ස්වාධීන අපේක්ෂකයෙකු ලෙස ඇප මුදල් තැම්පත් කළේය.
+
+කෙසේවෙතත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපති අපේක්ෂකයා කවුරුන්ද යන්න සම්බන්ධයෙන් හෝ වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට පක්ෂයක් ලෙස සහාය ලබා දෙන්නේදැයි යන්න සම්බන්ධයෙන් අවසන් තීරණයකට එකඟවී නොමැති අවස්ථාවක එම සාකච්ඡා පවත්වා තිබීම ද විශේෂත්වයකි.
+
+ඒ අනුව ජනාධිපති අපේක්ෂකත්වය සම්බන්ධයෙන් රනිල් වික්‍රමසිංහ මහතා සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අතර සාකච්ඡාවක් පවත්වා තිබේ.
+
+ජනාධිපති අපේක්ෂකත්වය සම්බන්ධයෙන් ඉදිරියේදී ගොඩ නැගීමට නියමිත නව සන්ධානය පිළිබඳව මෙහිදී සාකච්ඡා පවත්වා ඇති අතර එම සාකච්ඡා එකඟතාවයකින් තොරව අවසන් වී ඇති බව සඳහන්ය.
+
+ඒ අනුව හෙට (28) ජනාධිපතිවරයා සහ බැසිල් රාජපක්ෂ මහතා අතර යළිත් සාකච්ඡාවක් පැවැත්වීමට නියමිතය.
+
+...
+
+[Data](articles/dfb8addc.json)
+
+---
 
 ### United People's Power MP. Support to Ranil
 
@@ -191,6 +229,22 @@ More than 15,000 Ministers and other political parties, including the General Pa
 [Data](articles/637e52a9.json)
 
 [Extended Data](ext_articles/637e52a9.ext.json)
+
+---
+
+### ලංකාව පළමුවෙන්ම පන්දු රකියි - කණ්ඩායමේ ලොකු වෙනසක් නෑ
+
+*2024-07-27 19:16:38* · [`adalk`](https://www.ada.lk/sports/ලංකාව-පළමුවෙන්ම-පන්දු-රකියි---කණ්ඩායමේ-ලොකු-වෙනසක්-නෑ/9-411025) · `si`
+
+ඉන්දිය කණ්ඩායම සමගින් පල්ලෙකැලේ පිටියේ පැවැත්වෙන පළමු විස්සයි20 තරගයේ කාසියේ වාසිය දිනා ගත් ශ්‍රී ලංකා කණ්ඩායම මුලින්ම පන්දුවට පහරදිමට ඉන්දියාවට ආරාධනා කළේය.
+
+චරිත් අසලංකගේ නායකත්වයෙන් යුතුව ශ්‍රී ලංකා කණ්ඩායම ක්‍රිඩා කරන පළමු තරගය මෙය වෙයි. මෙම තරගයේදී කුසල් ජනිත් පෙරේරාට හා අසිත ප්‍රනාන්දුට කණ්ඩායමේ ස්ථානය හිමිව තිබීම හැරෙන්නට කණ්ඩායමේ විශාල වෙනසක් සිදුව නොමැත.
+
+ශ්‍රී ලංකා කණ්ඩායම  - කුසල් මෙන්ඩිස්,පැතුම් නිශ්ශංක. කුසල් පෙරේරා. කමිඳු මෙන්ඩිස්. චරිත් අසලංක, දසුන් ශානක, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, මතිෂ පතිරණ, අසිත ප්‍රනාන්දු, ඩිල්ෂාන් මධුශංක
+
+◼️
+
+[Data](articles/1cc98d93.json)
 
 ---
 
@@ -393,6 +447,20 @@ During his behalf of former President Mahinda Rajapaksa, President Mahinda Rajap
 [Data](articles/398ed987.json)
 
 [Extended Data](ext_articles/398ed987.ext.json)
+
+---
+
+### ஒன்றாக வெல்வோம்...
+
+*2024-07-27 17:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஒன்றாக-வெல்வோம்/46-341108) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடப் போவதாகவும், அதற்கான கட்டுப் பணத்தை ஏற்கனவே கட்டியுள்ளதாகவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+காலி மாநகர சபை மைதானத்தில் தற்போது இடம்பெற்று வரும் “ஒன்றாக வெல்வோம் – காலியில் நாம்” பொதுக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4c76050f.json)
 
 ---
 
@@ -2165,97 +2233,5 @@ The Elections Commission (EPLA) also stated that Mr. Hithamineala Lakmal Anine E
 [Data](articles/5d0f4927.json)
 
 [Extended Data](ext_articles/5d0f4927.ext.json)
-
----
-
-### Sri Lanka to contest final
-
-*2024-07-26 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199250) · `si`
-
-Sri Lanka's women cricket team qualified for the finals of the Women's Asian Cup 2020 after playing today, March 26th.
-
-🟩
-
-Sri Lanka women's women played today (26) to qualify for the finals of the women's Asian Cup 20 cricketers.
-
-◼️
-
-[Data](articles/b6cb4d8e.json)
-
-[Extended Data](ext_articles/b6cb4d8e.ext.json)
-
----
-
-### Presidentialism is expressed - Confirm the security of the country
-
-*2024-07-26 22:09:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-ප්‍රකාශිතයි----රටේම-ආරක්ෂාව-තහවුරු-කරන්න/11-411022) · `si`
-
-In a parliamentary meeting, the State Minister emphasized the importance of national security and constitutional rights. He highlighted the need to strengthen the armed forces and ensure law enforcement, especially during challenging times. The meeting aimed to bolster defense capabilities and uphold democratic principles.
-
-🟩
-
-Minister of Definite Hon
-
-The State Minister was instructed by the State Minister at the time of Parliament today (July 26) of the Ministry of Defense.. The Chief of Defense Staff General Shavendra Silva, Navy Commander Vice Admiral Priyantha Perera and the heads of the Defense Ministry and the institutions under the Army have called.
-
-Also, the minister also requested to carry out all these activities to protect the basic rights of the Constitution and the citizens. He also pointed out that during the most complex period of two years, he had to make serious decisions as a Ministry for the last two years and that the country could be strengthened and established national security and the authority of the law.
-
-Therefore, the Hon. Praise Bandara Tennakoon, the Ministry of Defense and all the institutions under the Ministry of Defense and the activities under the purview of the Ministry of Defense and all the institutions under that.
-
-...
-
-[Data](articles/e3303da0.json)
-
-[Extended Data](ext_articles/e3303da0.ext.json)
-
----
-
-### ‘No nation supported Sri Lanka like Pakistan during war’ – envoy
-
-*2024-07-26 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100801/no-nation-supported-sri-lanka-like-pakistan-during-war-envoy) · `en`
-
-High Commissioner of Sri Lanka, Ambassador Admiral (R) Ravindra C Wijegunaratne on Friday said the people of Sri Lanka esteemed Pakistan as a friendly country unlike any other nation for its unprecedented support against terrorism.
-
-He was addressing the Institute of Regional Studies (IRS)’s seminar on “Building on Pakistan-Sri Lanka Cooperation” in Islamabad as the keynote speaker.
-
-Ambassador Ravindra said Sri Lanka’s Prime Minister and the world’s first female premier Sirimavo Bandaranaike despite her close relationship with her Indian counterpart Indira Gandhi gave safe passage and permission to Pakistan to use its airspace and Colombo air base during its 1971 War.
-
-However, Sri Lank fought thirty years long worst war against the Liberation Tigers of Tamil Eelam (LTTE), he said, adding, “No nation supported us like Pakistan in this war and we have memory like elephants to keep it intact in our minds.”
-
-...
-
-[Data](articles/70f24f2e.json)
-
-[Extended Data](ext_articles/70f24f2e.ext.json)
-
----
-
-### Renuka, Radha Abaram in bowling;India won by 10 wickets
-
-*2024-07-26 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189483) · `ta`
-
-In the Women's T20 Asian Cup semis, Bangladesh beat India by 10 wickets, qualifying for the final. Renuka Singh and Radha Yadav starred for India with 6 wickets each, but Bangladesh's 80/8 was too little against India's 83/0. This win ensures India's presence in all Women's T20 Asian Cup finals. Next, India faces the winner of Sri Lanka vs. Pakistan in the final.
-
-🟩
-
-Bangladesh won by 10 wickets in the first semi -finals for the Women's T20 Asian Cup held at the Dambulla International Cricket Stadium on Friday afternoon (26) and qualified for the first team in the final.
-
-Both fast bowler Renuka Singh and spinner Radha Yadav shared 6 wickets among India and took India's victory.
-
-India, with the help of the two of them, controlled Bangladesh with a minimal number, and with the help of the initial batsmen in the field, the winning goal is easily crossed.
-
-With this victory, India has made sure to play in all the finals of the women's R20 Asian Cup history.
-
-India will oppose the winning team in the second semi -finals between Sri Lanka and Pakistan on Sunday (28).
-
-The Bangladesh women's team, who decided to bat first in the first semi -final, scored 80 runs for the loss of 8 wickets in 20 overs.
-
-Renuka Singh defeated the first 3 wickets in Power Blake.
-
-...
-
-[Data](articles/5804ad02.json)
-
-[Extended Data](ext_articles/5804ad02.ext.json)
 
 ---

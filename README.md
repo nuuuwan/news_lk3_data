@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 23:20:31**
+As of **2024-07-27 23:35:59**
 
 ## Newspaper Stats
 
-*Scraped **37,576** Articles*
+*Scraped **37,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,141
 economynextcom | 2,258
 dailyftlk | 2,405
-adalk | 3,415
+adalk | 3,419
 adaderanalk | 4,356
-tamilmirrorlk | 4,632
+tamilmirrorlk | 4,634
 dailymirrorlk | 4,733
 virakesarilk | 5,909
 adaderanasinhalalk | 6,319
@@ -26,11 +26,75 @@ adaderanasinhalalk | 6,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,575 (100.0%) of 37,576 articles have been extended.
+37,575 (100.0%) of 37,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### තම ඡන්ද පොළේදී  ඡන්දය දෙන්න බයනම් වෙනත් ඡන්ද පොළක්
+
+*2024-07-27 23:06:52* · [`adalk`](https://www.ada.lk/breaking_news/තම-ඡන්ද-පොළේදී--ඡන්දය-දෙන්න-බයනම්-වෙනත්-ඡන්ද-පොළක්/11-411031) · `si`
+
+සැප්තැම්බර් 21 දා පැවැත්වෙන ජනාධිපතිවරණයේදී තමන්ට නියමිත ඡන්ද මධ්‍යස්ථානයේදී තම  ඡන්දය පාවිච්චි කිරීමට නොහැකි වෙතැයි සාධාරණ බියක් ඇති  ඡන්ද හිමියන්ට වෙනත් ඡන්ද මධ්‍යස්ථානයකට ගොස් ඡන්දය ප්‍රකාශ කිරීමට පහසුකම් සලසා ගත හැකි බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ සඳහා වූ අයදුම්පතක් දිස්ත්‍රික් මැතිවරණ කාර්යාලයෙන්  /තේරීම් භාර නිලධාරී වෙතින් ලබාගෙන නිසි ලෙස පුරවා ප්‍රදේශයේ ග්‍රාම නිලධාරී ලවා සහතික කර    අගෝස්තු 01 දා හෝ ඊට පෙර  මැතිවරණ කොමිෂන් සභාවේ කාර්යාලය වෙත එවිය යුතු බවද මැතිවරණ කොමිෂන් සභාව මගින් ජූලි 26 දා මේ පිළිබඳව    නිකුත් කළ අති විශේෂ ගැසට් නිවේදනයක් මගින් දන්වා සිටී.
+
+◼️
+
+[Data](articles/441588c6.json)
+
+---
+
+### බැසිල් මස් රාත්තලම ඉල්ලයි  - හෙටත් බැසිල් හා රනිල් හමුවක්
+
+*2024-07-27 23:04:29* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-මස්-රාත්තලම-ඉල්ලයි----හෙටත්-බැසිල්-හා-රනිල්-හමුවක්/11-411030) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ හා හිටපු අමාත්‍ය මෙන්ම පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ අතර ජනපති අපේක්ෂකත්වය හා ඉදිරියේදී ගොඩ නැගීමට නියමිත සන්ධානය පිළිබඳව දීර්ඝ සාකච්ඡාවක් පවත්වා තිබේ.
+
+මෙහිදී ගොඩ නැගිමට නියමිත සන්ධානයේදී පලාත් පාලන ආයතන සදහා සියයට තිහක් පලාත් සභා සදහා සියයට තිස් පහක් හා පාර්ලිමේන්තුව සදහා සියයට හතලිහ බැගින් කෝටාවක් ශ්‍රීලංකා පොදුජන පෙරමුණට ලබා දෙන බව ජනපතිවරයා ප්‍රකාශ කර තිබේ.
+
+මෙහිදී බැසිල් රාජපක්ෂ විසින් පළාත් පාලන ආයතන සදහා සියයට අනූවක් පාර්ලිමේන්තුව සදහා සියයට හැත්තෑවක් සහ පළාත් සභා සදහා සියයට හැත්තෑවක් ඉල්ලා ඇත. ඒ අනුව මෙම සාකච්ඡාව විසදුමකින් තොරව අවසන් ව තිබේ.
+
+අතර මේ ඉරිදා නැවත ජනාධිපතිවරයා හා බැසිල් රාජපක්ෂ හමුවීමට නියමිතය.
+
+◼️
+
+[Data](articles/f0a3489c.json)
+
+---
+
+### இலங்கை கல்வி முறையில் பாரிய மாற்றம் - வெளிவந்த செய்தி
+
+*2024-07-27 23:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கல்வி-முறையில்-பாரிய-மாற்றம்-வெளிவந்த-செய்தி/175-341124) · `ta`
+
+கல்வி சீர்திருத்த முன்மொழிவு தொடர்பில் 2025ஆம் ஆண்டின் முதல் தவணை முதல்  பாடசாலை தரங்களின் எண்ணிக்கையை 13 இலிருந்து 12 ஆக குறைக்கப்படும் என கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+அத்துடன் மாணவர்கள் 17 வயதிற்குள் பாடசாலை கல்வியை முடிக்க முடியும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இவற்றுள் 5ஆம் தர புலமைப்பரிசில் பரீட்சையில் பாடசாலை மதிப்பீடுகளுக்கு புள்ளிகளையும் பரீட்சைகளுக்கு குறிப்பிட்ட சதவீத புள்ளிகளையும் வழங்கி பரீட்சையை இலகுபடுத்தவும் முன்மொழியப்பட்டுள்ளது.
+
+மேலும், கல்வி பொதுத்தராதர சாதாரண தர தேர்விற்கான பாடங்களை 9 இல் இருந்து 7 ஆக குறைக்கப்பட உள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/f3f7fc3d.json)
+
+---
+
+### යුරෝපා කවුන්සිලය එල්.ටී.ටී.ඊ. තහනම දිගු කරයි
+
+*2024-07-27 22:55:49* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපා-කවුන්සිලය-එල්-ටී-ටී-ඊ--තහනම-දිගු-කරයි/11-411029) · `si`
+
+යුරෝපා  කවුන්සිලය විසින් එල්.ටි.ටී.ඊ. සංවිධානයට පනවා ඇති තහනම තවත් මාස 6කට දිගු කිරිමට එම කවුන්සිලය කටයුතු කර තිබේ.
+
+මෙම තහනම් කිරීමත් සමග එල්.ටී.ටී.ඊ. සංවිධානයට යුරෝපා සංගමයේ රටවල් අතර මුදල් එක් රැස් කිරීමට අවස්ථාව නොලැබෙන අතර ඔවුන් සතු වත්කම් ඇත්නම් ඒවාද තහනම් වෙනු ඇත.
+
+◼️
+
+[Data](articles/6e1bb02c.json)
+
+---
 
 ### ඉන්දියාවට සුපිරි ජයක්
 
@@ -53,6 +117,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/55bcceac.json)
+
+---
+
+### பாராளுமன்ற நுழைவு வீதி மூடப்பட்டது
+
+*2024-07-27 22:41:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-நுழைவு-வீதி-மூடப்பட்டது/175-341123) · `ta`
+
+இன்று (27) மாலை வீதியில் முறிந்து வீழ்ந்த மரமொன்றை அகற்றும் போது அந்த வீதியில் பயணித்த  கார் மரத்துடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/794461c0.json)
 
 ---
 
@@ -161,6 +237,22 @@ Meanwhile, Presidential Chief of Staff Sunala Ratnayake and Minister Susil Prema
 [Data](articles/dfb8addc.json)
 
 [Extended Data](ext_articles/dfb8addc.ext.json)
+
+---
+
+### ඉන්දියාව ලකුණු 214ක් රැස් කරයි
+
+*2024-07-27 21:16:34* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාව-ලකුණු-214ක්-රැස්-කරයි/9-411027) · `si`
+
+ඉන්දියාව හා ශ්‍රී ලංකාව අතර පල්ලෙකැලේ පිටියේ  පැවැත්වෙන පළමු විස්සයි20 තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම කඩුලු 7ට ලකුණු 213ක් රැස්කරමින් ලංකාවට ලකුණු 214 දැවැන්ත ඉලක්කයක් ලබාදුන්නේය.
+
+මෙහිදි ඉන්දීය මුල්පෙළ පිතිකරුවන් ශ්‍රි ලංකා පන්දු යවන්නන්ට දිගට හරහට පහරදෙමින් රිසි සේ ලකුණු රැස් කිරීමට සමත් විය.
+
+පන්දු යැවිමේදී ශ්‍රි ලංකාව වෙනුවෙන් මතීෂ පතිරණ පන්දුවාර 4කදී ලකුණු 40ට කඩුලු 4ක් දවා ගත්තේය.
+
+◼️
+
+[Data](articles/d5558bb2.json)
 
 ---
 
@@ -2115,123 +2207,5 @@ It is noteworthy that the temple priest was among those who were arrested by the
 [Data](articles/f452bc5e.json)
 
 [Extended Data](ext_articles/f452bc5e.ext.json)
-
----
-
-### Eran accuses PM of attempting to cause conflict between Executive and Judiciary
-
-*2024-07-26 23:49:00* · [`dailyftlk`](https://www.ft.lk/news/Eran-accuses-PM-of-attempting-to-cause-conflict-between-Executive-and-Judiciary/56-764800) · `en`
-
-SJB MP Eran Wickramaratne says PM’s statement refusing to accept SC order on IGP appointment is affront to other Police officers
-
-Accuses PM of attempting to mislead country and Parliament by interpreting certain constitutional articles indirectly
-
-Says Parliament has neither authority nor qualification to comment on SC order
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne has accused Prime Minister Dinesh Gunawardena of attempting to cause conflict between the Executive and Judiciary.
-
-Addressing a press conference in Colombo yesterday, Wickramaratne said the statement by Gunawardena refusing to accept the Supreme Court injunction order against IGP Deshabandu Thennakoon from functioning in the post is an insult to other officers of the Sri Lanka Police.
-
-Wickramaratne said the Prime Minister made a special statement in Parliament, attempting to mislead the country and Parliament by providing a wrong interpretation of several articles of the Constitution.
-
-...
-
-[Data](articles/755ec82e.json)
-
-[Extended Data](ext_articles/755ec82e.ext.json)
-
----
-
-### Bakery owners slash bread prices by Rs. 10 after Trade Minister’s ultimatum
-
-*2024-07-26 23:47:37* · [`dailyftlk`](https://www.ft.lk/news/Bakery-owners-slash-bread-prices-by-Rs-10-after-Trade-Minister-s-ultimatum/56-764799) · `en`
-
-The All Ceylon Bakery Owners’ Association yesterday announced that the price of a 450g loaf of bread is reduced by Rs. 10 effective from last night.
-
-The decision follows Trade Minister Nalin Fernando’s ultimatum to bakery owners earlier this week, urging them to lower their prices.
-
-Minister Fernando emphasised that the directive was clearly communicated to bakery owners, warning that non-compliance would lead to repercussions.
-
-He stated that it was unfair for consumers to pay higher prices for bread, prompting the Government to take action to ensure affordability.
-
-◼️
-
-[Data](articles/b8da1905.json)
-
-[Extended Data](ext_articles/b8da1905.ext.json)
-
----
-
-### SL-Pakistan seventh round of bilateral political consultations in Islamabad
-
-*2024-07-26 23:47:29* · [`dailyftlk`](https://www.ft.lk/news/SL-Pakistan-seventh-round-of-bilateral-political-consultations-in-Islamabad/56-764798) · `en`
-
-Foreign Secretary Aruni Wijewardane will lead Sri Lanka’s delegation to the seventh round of bilateral political consultations between Sri Lanka and Pakistan scheduled to be held in Islamabad on 30 July.
-
-The seventh round of bilateral political consultations will be co-chaired by Wijewardane and Pakistan Foreign Secretary Muhammad Syrus Sajjad Qazi.
-
-The consultations are expected to review the current status of the bilateral relations and the progress achieved in areas of cooperation such as economic and trade, defence and security, education, culture, media and sports, consular matters, agriculture, as well as technology.
-
-On the sidelines of the consultations, the Foreign Secretary is scheduled to call on the Deputy Prime Minister and Pakistan Foreign Affairs Minister Mohammad Ishaq Dar.
-
-...
-
-[Data](articles/adb6f8a7.json)
-
-[Extended Data](ext_articles/adb6f8a7.ext.json)
-
----
-
-### Jaffna to see the lover from Kilinochchi. Target for the youth sword cut!
-
-*2024-07-26 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189485) · `ta`
-
-A young man from Kilinochchi was attacked with a sword by a gang in Jaffna on Friday, 25th, after being abducted near Kopay. He was later found and treated at the Jaffna Teaching Hospital. Investigations are ongoing by the Chunnakam police.
-
-🟩
-
-A young man from Kilinochchi - Jayapuram area has been admitted to the Jaffna Teaching Hospital after a violent gang has been targeted by a sword cut by a violent gang on Friday 25th.
-
-The youth was abducted by a gang at 11 am when he arrived at the Kopay area in Jaffna on Friday the 25th.. The young man was thrown into the Aladipai Alady as the youth was targeted for a sword cut.
-
-The police have rescued him for treatment at the Jaffna Bodhana Hospital. It is noteworthy that the Chunnakam police are conducting further investigations into the attack.
-
-◼️
-
-[Data](articles/42c87e0c.json)
-
-[Extended Data](ext_articles/42c87e0c.ext.json)
-
----
-
-### Democracy should be about ethics, morality and social values, not just regime changes
-
-*2024-07-26 23:20:10* · [`dailyftlk`](https://www.ft.lk/columns/Democracy-should-be-about-ethics-morality-and-social-values-not-just-regime-changes/4-764794) · `en`
-
-No doubt many are questioning the moral and ethical values of politicians in general and the limitless price they will pay to achieve their ultimate objective, power
-
-Democracy today is the dominant principle and practice throughout the world to legitimate political power through the choices expressed by people and yet its relationship to moral and ethical values and traditions does not seem to be an integral part of democracies. Moral and ethical theories are universal theories, whether they are on account of religious faiths or otherwise as they based on basic human values of kindness, compassion, fraternity and a sense of the wellbeing of a community rather than the individual. This thinking appears to be in contradiction of how people think and act when it comes to what is generally understood and practiced as democracy
-
-...
-
-[Data](articles/b86a2a98.json)
-
-[Extended Data](ext_articles/b86a2a98.ext.json)
-
----
-
-### Governance, economy and day of reckoning
-
-*2024-07-26 23:15:52* · [`dailyftlk`](https://www.ft.lk/columns/Governance-economy-and-day-of-reckoning/4-764793) · `en`
-
-The Aragalayists were not a bunch of romantically attached revolutionaries representing any dead leader or outdated theories. Instead, they were eye witnesses to a system of governance which for decades promised one thing but delivered quite another
-
-If there is one glaring failure of Sri Lanka’s 76 years of democratic experience, it is the failure to produce good governance. That was made clear when IMF, after reviewing the economy’s performance over the last two years and under its direction, stressed the importance of serious reforms in governance if the economy were to move forward and achieve sustainable growth. The reasons for bad governance are several to enumerate and discuss here, but they all stem from the one single root – the political preoccupation to subvert Sri Lanka’s democracy into a Sinhala Buddhist supremacist ethnocracy
-
-...
-
-[Data](articles/58b2f9cd.json)
-
-[Extended Data](ext_articles/58b2f9cd.ext.json)
 
 ---

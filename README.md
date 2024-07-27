@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 19:54:01**
+As of **2024-07-27 20:05:30**
 
 ## Newspaper Stats
 
-*Scraped **37,562** Articles*
+*Scraped **37,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,354
 tamilmirrorlk | 4,628
 dailymirrorlk | 4,733
 virakesarilk | 5,908
-adaderanasinhalalk | 6,313
+adaderanasinhalalk | 6,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,561 (100.0%) of 37,562 articles have been extended.
+37,561 (100.0%) of 37,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### ජෝසප් 'ක්‍රීඩා වර්ණ' ප්‍රදානය වාස්ගේ ප්‍රදානත්වයෙන්
+
+*2024-07-27 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199275) · `si`
+
+කොළඹ සාන්ත ජෝසප් විද්‍යාලීය ක්‍රීඩා වර්ණ ප්‍රදාන උත්සවය හිටපු ජාතික ක්‍රිකට් ක්‍රීඩක ආදි සිසු, චමින්ද වාස් ගේ ප්‍රධානත්වයෙන් පසුගියදා පැවැත්වුණි.
+
+එහිදී අධිෂ්ඨානය, කැපවීම සහ විනය ඇත්නම් නියත වශයෙන්ම ක්‍රීඩා ක්ෂේත්‍රයේ ඉහළට යාහැකි බව ආරාධිත දේශනයේදී චමින්ද වාස් පැවසීය.
+
+මෙහිදී ක්‍රීඩාව නිදහසේ කිරීමට තම දරුවන්ට අවස්ථාව ලබාදීමේ අවශ්‍යතාවය ද දෙමාපියන් වෙත පෙන්වාදීම විශේෂත්වයකි.
+
+ඒ අනුව 2019 වර්ෂය වෙනුවෙන් ඩිෂේන් රණවීර ( පිහිනුම් ),  2021වර්ෂය වෙනුවෙන් ෂෙනාල් සංදේශ් ( පාපන්දු ) සහ ශෙහාන් ප්‍රනාන්දු ( බාස්කට්බෝල් ), 2022 වර්ෂය වෙනුවෙන් දුනිත් වෙල්ලාලගේ ( ක්‍රිකට් ) යන ක්‍රීඩකයන් අදාළ වර්ෂවල වසරේ ක්‍රීඩකයා ලෙස වර්ණ දිනා ගන්නා ලදි.
+
+මෙම ක්‍රීඩකයන්, චමින්ද වාස් මහතාගෙන් සහ විදුහල් අදියුරු රන්ජිත් අන්ද්‍රාදි පියතුමාගෙන් වර්ණ සහතික සම්මාන ලැබීය.
+
+ශ්‍රී ලංකා - ඉන්දීය තරගාවලිය සඳහා සංචිතයට තේරී පත්වීම නිසා දුනිත් වෙල්ලාලගේ මේ සඳහා සහභාගී නොවීය.
+
+...
+
+[Data](articles/807d7a16.json)
+
+---
 
 ### ඉදිරි ජනාධිපතිවරණයට තරග කරන බවට පළමු වරට ජනපති ජනතාව හමුවේ ප්‍රකාශ කරයි
 
@@ -2207,23 +2229,5 @@ During his two years in office, Mr. Wickremesinghe has vowed to rebuild the coun
 [Data](articles/074da3e3.json)
 
 [Extended Data](ext_articles/074da3e3.ext.json)
-
----
-
-### Ramesh Mendis called up as replacement for Binura Fernando
-
-*2024-07-26 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100800/ramesh-mendis-called-up-as-replacement-for-binura-fernando-) · `en`
-
-All-rounder Ramesh Mendis has been called up for the Sri Lanka T20 squad for the series against India.
-
-This decision comes as fast bowler Binura Fernando is suffering from a fever, putting his participation in the upcoming matches in doubt, according to sources.
-
-Meanwhile, the Sri Lanka Cricket Board has said in a statement that Binura is being treated in the hospital.
-
-◼️
-
-[Data](articles/26557fd6.json)
-
-[Extended Data](ext_articles/26557fd6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 12:08:33**
+As of **2024-07-27 12:20:37**
 
 ## Newspaper Stats
 
-*Scraped **37,521** Articles*
+*Scraped **37,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ colombotelegraphcom | 352
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,141
-economynextcom | 2,252
+economynextcom | 2,253
 dailyftlk | 2,405
 adalk | 3,412
 adaderanalk | 4,346
 tamilmirrorlk | 4,625
 dailymirrorlk | 4,733
 virakesarilk | 5,903
-adaderanasinhalalk | 6,296
+adaderanasinhalalk | 6,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,516 (100.0%) of 37,521 articles have been extended.
+37,521 (100.0%) of 37,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### මෝදි යුක්‍රේනය ට
+
+*2024-07-27 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199257) · `si`
+
+රුසියාව විසින් යුක්‍රේනය ආක්‍රමණය කිරීමෙන් පසු ප්‍රථම වතාවට ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි ලබන මාසයේ කියුව් හි සංචාරයක නිරත වීමට නියමිත බව විදෙස් මාධ්‍ය පවසයි.
+
+විදෙස් වාර්තා සඳහන් කළේ මැතිවරණයෙන් පසු අග්‍රාමාත්‍ය මෝදි තෙවැනි වරටත් බලයට පත්වූ දිනයේ යුක්‍රේන ජනාධිපති ව්ලොද්මීර් සෙලෙන්ස්කි ඔහුට සුබ පතමින් යුද්ධයෙන් විනාශ වූ රට නැරඹීමට පැමිණෙන ලෙස කළ ආරාධනයකට අනුව මෙය සිදුවන බවය.
+
+ඉන්දීය අග්‍රාමාත්‍යවරයා සහ යුක්‍රේන ජනාධිපති ව්ලොද්මීර් සෙලෙන්ස්කි අතර හමුවක් ඉතාලියේ G7 සමුළුවට සමගාමීව මීට මාසයකට පෙර සිදුවුණි.
+
+යුද්ධය ආරම්භ වූ දා සිට එය විසඳිය හැක්කේ සංවාදයෙන් සහ රාජ්‍ය තාන්ත්‍රිකභාවයෙන් පමණක් බව ඉන්දියාව ප්‍රකාශ කළ අතර ඕනෑම සාම ප්‍රයත්නයකට දායක වීමට ඉන්දියාව සූදානම් බව ඉන්දීය අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/43e6afe8.json)
+
+---
 
 ### Harris tells Netanyahu ‘it is time’ to end war in Gaza
 
@@ -46,39 +64,53 @@ With all eyes on the likely Democratic presidential nominee, Harris largely reit
 
 [Data](articles/a425aba3.json)
 
+[Extended Data](ext_articles/a425aba3.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலுக்கான நிதியை வழங்க திறைசேரி தயார் : நிதியமைச்சு
+### Treasury Ready to provide funds for presidential election: Finance Ministry
 
 *2024-07-27 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189501) · `ta`
 
-தேர்தல் ஆணையாளரின் கோரிக்கைக்கு அமைய ஜனாதிபதி தேர்தலுக்கான நிதியை வழங்க திறைசேரி தயாராகவுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+The Treasury, under Finance Minister Ranjith Siyambalapitiya, is prepared to allocate funds for the upcoming presidential election upon the Election Commissioner's request. This year's budget includes 10 billion rupees for election-related expenses, ensuring no issues with money laundering. The Treasury can also meet emergency needs like printing materials, security, and fuel for voting booths. Despite potential increases in candidate numbers or costs, current funds are sufficient to cover election expenditures.
 
-இவ்வாண்டுக்கான வரவு செலவுத் திட்டத்தில் தேர்தல் நடவடிக்கைகளுக்காக 10 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. பணப் புழக்கங்களுக்கிடையில் முரண்பாடு ஏற்படாத வகையில் நிதியை வெளியிடுவதற்கு பொருளாதாரம் உரிய முறையில் ஒருங்கிணைக்கப்பட்டுள்ளது.
+🟩
 
-அதற்கமைய தேர்தல் ஆணையாளர் அலுவலகம் சுமார் 8 பில்லியன் ரூபா மதிப்பீட்டை அனுப்பியுள்ளது. அச்சிடுதல், பாதுகாப்பு, எரிபொருள் வாக்குப் பெட்டிகள் போன்ற எந்தவொரு அவசரத் தேவைக்கும் நிதியை வழங்க திறைசேரி தயாராக உள்ளது.
+Finance Minister Ranjith Siyambalapitiya has said that the Treasury is ready to provide funds for the presidential election at the request of the Election Commissioner.
 
-ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களின் எண்ணிக்கை அதிகரித்து, மதிப்பிடப்பட்ட செலவு அதிகரித்தால், அவ்வாறான நடவடிக்கைகளுக்கான மேலதிக செலவுகளை சமாளிப்பதற்கு தற்போது நிதி இருப்பதால் பிரச்சினை இல்லை என்றார்.
+10 billion rupees has been allocated for election activities in this year's budget. The economy has been appropriately integrated to release funds so that there is no conflict among money laundering.
+
+The Election Commissioner's Office has sent an estimated cost of about Rs 8 billion. The Treasury is ready to provide funds for any emergency requirement, such as printing, safety, fuel voting boxes.
+
+He said there is no problem with the current funds to deal with the expenditure of such activities if the number of candidates contesting the presidential election increases and the estimated cost is increased.
 
 ◼️
 
 [Data](articles/aab9ffc1.json)
 
+[Extended Data](ext_articles/aab9ffc1.ext.json)
+
 ---
 
-### 90 சதவீத மருந்தை உள்நாட்டில் உற்பத்தி செய்ய நடவடிக்கை - சுகாதார அமைச்சர்
+### Action to produce 90 % of the drug - Minister of Health
 
 *2024-07-27 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189492) · `ta`
 
-அடுத்த ஆண்டிலிருந்து 90 சதவீதமான மருந்தை உள்நாட்டிலேயே உற்பத்தி செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Health announced that starting next year, 90% of drugs will be produced domestically, building on efforts led by Professor Senaka Bibile to boost the nation's pharmaceutical industry. Currently, around 25% of essential medicines in government facilities come from local manufacturers.
 
-நாட்டின் கைத்தொழில் துறையை மேம்படுத்தும் நோக்கில் பேராசிரியர் சேனக பிபிலேவினால் ஆரம்பிக்கப்பட்ட முயற்சிகளின் அடிப்படையில் உள்நாட்டில் மருந்து உற்பத்தியில் எதிர்பார்க்கப்படும் எழுச்சி கட்டியெழுப்பப்படுவதாக அமைச்சர் ரமேஷ் பத்திரன தெரிவித்தார்.
+🟩
 
-அரசாங்க வைத்தியசாலைகள் மற்றும் கிளினிக்குகளில் பயன்படுத்தப்படும் அத்தியாவசிய மருந்துகளில் சுமார் 25சதவீதமான உள்நாட்டு உற்பத்தியாளர்களால் விநியோகிக்கப்படுவதாக அமைச்சர் பத்திரன சுட்டிக்காட்டினார்.
+The Ministry of Health said that 90 percent of the drug has been taken to produce locally from next year.
+
+Minister Ramesh Pathirana said that the uprising of domestic drug production is being built on the basis of efforts launched by Professor Senaka Bibile to improve the country's industry.
+
+Minister Pathirana pointed out that about 25 percent of the essential medicines used in government hospitals and clinics are distributed by domestic producers.
 
 ◼️
 
 [Data](articles/18e5696b.json)
+
+[Extended Data](ext_articles/18e5696b.ext.json)
 
 ---
 
@@ -134,19 +166,25 @@ The Olympic team and other team participating under the Olympic team and other t
 
 ---
 
-### அதிக விலையில் பாணை விற்பனை செய்தால் சட்டநடவடிக்கை
+### Legal action if selling the bundle at high prices
 
 *2024-07-27 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189495) · `ta`
 
-450 கிராம் நிறையுடைய பாண் ஒன்றின் விலை 10 ரூபாவினால் குறைக்கப்பட்டுள்ளது. இந்நிலையில், குறைக்கப்பட்ட புதிய விலையில் பாணை விற்பனை செய்யாது அதிக விலைக்கு விற்பனை செய்யும் உரிமையாளர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என நுகர்வோர் விவகார அதிகாரசபை (CAA) தெரிவித்துள்ளது.
+The Consumer Affairs Authority (CAA) threatens legal action against sellers not adhering to the reduced price of 450g of bon. CAA Chairman TI issues directives, while raids lead to charges against 210 individuals for illegal weighing and measurement practices.
 
-இது தொடர்பாக சோதனைகளை மேற்கொள்ளுமாறு  நுகர்வோர் விவகார அதிகார சபையின் தலைவர் டி.ஐ. உடுவார  புலனாய்வு திணைக்கள அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+🟩
 
-இதேவேளை, ஜனவரி மாதம் முதல் தற்போது வரை சட்டப்படியான எடை மற்றும் அளவிடும் கருவிகள் மீதான சோதனையின் போது 210 பேருக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக கொழும்பு மாவட்ட உதவி அளவீட்டு அலகு தர நிர்ணய சேவை அத்தியட்சகர் தில்ருக் பட்டியாபொல தெரிவித்துள்ளார்.
+The price of a 450 grams of bon is reduced by 10 rupees. In this case, the Consumer Affairs Authority (CAA) has said that legal action will be taken against the owners who will not sell the new price at a reduced price.
+
+Consumer Affairs Authority Chairman TI. He has issued a directive to the officials of the Uttara Intelligence Agency.
+
+Meanwhile, the Colombo District Assistant Measurement Unit Service Service Superintendent Dilruk Patiyapola said that 210 persons have been taken against 210 persons during the raid on legal weight and measuring equipment from January to the present.
 
 ◼️
 
 [Data](articles/c5635745.json)
+
+[Extended Data](ext_articles/c5635745.ext.json)
 
 ---
 
@@ -170,25 +208,31 @@ Viewers had been provided an opportunity to ask questions from the President thr
 
 ---
 
-### කොලොන්න ඝාතනයේ ගිනිඅවිය සොයා ගනී
+### Wears in Kolonna killing
 
 *2024-07-27 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199255) · `si`
 
-කොලොන්න ප්‍රදේශයේදී පුද්ගල ඝාතනයක් සඳහා යොදාගත් විදෙස් රටක නිෂ්පාදිත රිවෝල්වර් වර්ගයේ ගිනිඅවියක් මිද්දදෙනිය මුරුන්ගස්යාය ප්‍රදේශයේ වළදමා තිබියදී සොයාගෙන තිබේ.
+A foreign-made revolver linked to a murder in Kolonnawa was discovered in Mid Dendeniya. Two individuals were killed on a motorcycle on the night of the 7th. Suspects were arrested during preliminary investigations, revealing the crime was part of an organized criminal activity involving a drug trawler. The case is now under investigation by the Criminal Investigations Department and the Organized Criminal Investigation Division.
 
-පොලීසිය පැවසුවේ අදාළ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනෙකුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලට අනුව අපරාධ පරීක්ෂ දෙපාර්තමේන්තුව විසින් මෙම ගිනිඅවිය සොයාගෙන ඇති බවය.
+🟩
 
-පසුගිය 07 වනදා රාත්‍රි කාලයේදී කොලොන්න අප්ටන්වත්ත ප්‍රදේශයේ නිවසක සිටි පුද්ගලයෙකුට යතුරුපැදියකින් පැමිණි දෙදෙනෙකු වෙඩිතබා ඝාතනයක් සිදුකර තිබුණි.
+A revolver man manufactured in a foreign country used for murder in Kolonnawa has been found in Mid Dendeniya area.
 
-සිදුකළ මූලික විමර්ශනවලදී අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනා රැඳවුම් නියෝග මත රඳවා සිදුකළ ප්‍රශ්න කිරීම්වලදී එක් සැකකරුවෙකුගේ නිවසේ වළදමා තිබියදී මෙම ගිවිඅවිය සොයා ගැනීමට හැකිවූ බව පොලීසිය පැවසීය.
+Police said that the firearm was found by the Criminal Inspector of the Criminal Inspection.
 
-සිදුකළ වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත්තේ දැනට විදේශගතව සිටින සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවරම්කරුවෙකුගේ මෙහෙයවීම මත මෙම ඝාතනය සිදුකර ඇති බවය.
+On the night of the night of the 7th night, two people had been shot dead in a motorcycle.
 
-සිද්ධිය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය විසින් පරීක්ෂණ සිදුකරයි.
+The two suspects were arrested in the preliminary investigations into the detention orders, the police said the police said.
+
+Further investigations were revealed that the murder had been carried out under the operation of an organized criminal and a drug trawler.
+
+The murder of the Criminal Investigations Department of the Criminal Investigations and the Organized Criminal Investigation Division is being investigated.
 
 ◼️
 
 [Data](articles/d2772d50.json)
+
+[Extended Data](ext_articles/d2772d50.ext.json)
 
 ---
 
@@ -211,6 +255,28 @@ Naval and fishing communities are also requested to be attentive to future forec
 [Data](articles/c84199a1.json)
 
 [Extended Data](ext_articles/c84199a1.ext.json)
+
+---
+
+### Sri Lanka Telecom to get new spectrum allocation: SOERU
+
+*2024-07-27 09:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-to-get-new-spectrum-allocation-soeru-174037/) · `en`
+
+ECONOMYNEXT – Sri Lanka Telecom will get a new spectrum allocation that will ‘significantly’ increase its value, the State-Owned Enterprises Restructuring Unit said.
+
+The valuations of SLT “are still ongoing are yet to be finalized, The SOE-RU said in a statement.
+
+“The SOERU together with the Telecommunications Regulatory Commission of Sri Lanka (TRCSL) worked with all sector entities to resolve a long-standing spectrum issue that was negatively impacting the performance of SLT,” the statement said.
+
+The new spectrum allocation will in fact help increase the value of SLT significantly, the statement said without giving details.
+
+Sri Lanka still negotiating with Melwa sale price for Hilton building
+
+Jio Platforms Ltd and a unit of Reliance industries of India and Gortune International Investment Holding Ltd have expressed interest in Sri Lanka Telecom. (Colombo/July27/2024)
+
+◼️
+
+[Data](articles/7996d474.json)
 
 ---
 
@@ -2175,45 +2241,5 @@ Many senior leaders of the party have supported Kamala Harris. But former Presid
 [Data](articles/f21cac7e.json)
 
 [Extended Data](ext_articles/f21cac7e.ext.json)
-
----
-
-### Two from same family killed in head-on collision
-
-*2024-07-26 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/100795/two-from-same-family-killed-in-head-on-collision) · `en`
-
-A father and his son have been killed following a head-on collision involving a truck and a car in the Maththaka area on the Pitigala-Mapalagama road.
-
-Police stated that the two other women injured in the accident have been admitted to Elpitiya Base Hospital.
-
-A family of four were traveling in the car at the time of the accident and the driver of the car is also among the deceased.
-
-Meanwhile, a motorcyclist who was travelling in the road has sustained minor injuries from the incident and has also been admitted to the Elpitiya Base Hospital. He is reportedly a school principle.
-
-The truck driver has been arrested in relation to the accident by Elpitiya Police.
-
-◼️
-
-[Data](articles/17770d76.json)
-
-[Extended Data](ext_articles/17770d76.ext.json)
-
----
-
-### Voting rights for remand prisoners: Notice issued to EC members, Justice Minister
-
-*2024-07-26 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100794/voting-rights-for-remand-prisoners-notice-issued-to-ec-members-justice-minister) · `en`
-
-The Supreme Court today (26) ordered to issue notice on the Election Commission, the Justice Minister, and several others, to present their facts before the court regarding a petition filed seeking the release of a set of guidelines providing facilities for remand prisoners to vote in elections including the Presidential Election.
-
-The court has issued this order to the attorney of the petitioner, former-prisoner Sudesha Nandimal de Silva, when his petition seeking voting rights for remand prisoners was taken up for consideration today.
-
-Accordingly, the court ordered to issue notice on the Chairman of the Election Commission and its members, Minister of Justice Wijeyadasa Rajapakshe, the Commissioner General of Prisons, and other respondents named in the petition, asking them to appear before the court on August 8.
-
-...
-
-[Data](articles/5e124450.json)
-
-[Extended Data](ext_articles/5e124450.ext.json)
 
 ---

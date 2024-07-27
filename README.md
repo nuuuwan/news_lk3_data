@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 16:06:46**
+As of **2024-07-27 16:20:23**
 
 ## Newspaper Stats
 
-*Scraped **37,540** Articles*
+*Scraped **37,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,106 @@ colombotelegraphcom | 352
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,141
-economynextcom | 2,253
+economynextcom | 2,256
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,350
+adaderanalk | 4,351
 tamilmirrorlk | 4,627
 dailymirrorlk | 4,733
 virakesarilk | 5,906
-adaderanasinhalalk | 6,305
+adaderanasinhalalk | 6,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,540 (100.0%) of 37,540 articles have been extended.
+37,540 (100.0%) of 37,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### කොළඹ ත්‍රිරෝද රථ රියදුරා ඝාතනයේ සුලමුල හෙළිවෙයි
+
+*2024-07-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199267) · `si`
+
+කොළඹ වෝඩ් පෙදෙසේ දී ත්‍රිරෝද රථ රියදුරෙක් ඝාතනය කිරීමේ සිද්ධියට අදාළව සැකකරුවන් දෙදෙනෙක් කොළඹ අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔවුන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණය වී ඇත්තේ, ත්‍රිරෝද රථ රියදුරුගේ ජංගම දුරකථනය කොල්ලකෑම සඳහා මෙම ඝාතනය සිදුකළ බවය.
+
+කොළඹ, වෝඩ් පෙදෙසේ පිහිටි ජාතික දන්ත රෝහල අසල නවතා තිබූ ත්‍රිරෝද රථයක තිබී නාඳුනන පුද්ගල මළසිරුරක් පසුගිය 23වනදා පොලීසිය විසින් සොයා ගත්තේය.
+
+එහිදී සිදුකළ විමර්ශනවලදී අනාවරණ වුණේ තියුණු ආයුධයකින් පහරදී අදාළ ඝාතනය සිදුකර ඇති බවය.
+
+අනතුරුව කොළඹ අපරාධ කොට්ඨාසයයේ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකයේ නිලධාරීන් ඇතුළු පොලිස් කණ්ඩායම් කිහිපයක් අදාළ ඝාතනය සම්බන්ධයෙන් විමර්ශන සිදුකර තිබුණි.
+
+සීසීටීවී දර්ශන ඔස්සේ දීර්ඝ විමර්ශනයක් සිදුකළ විමර්ශන නිලධාරීන්  සැකකරුවන් දෙදෙනෙකු ඊයේ අත්අඩංගුවට ගනු ලැබුවා.
+
+45 හා 38 යන වයස්වල පසුවන සැකකරුවන් දෙදෙනා ගෝනවිල හා ග්‍රෑන්ඩ්පාස් ප්‍රදේශවල පදිංචිකරුවන් ය.
+
+ඉන් එක් සැකකරුවකු සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 30කට අධික ප්‍රමාණයක් සොයාගෙන තිබේ.
+
+...
+
+[Data](articles/246d994f.json)
+
+---
+
+### Sri Lanka to bring in 40 new influencers to promote tourism
+
+*2024-07-27 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-in-40-new-influencers-to-promote-tourism-174057/) · `en`
+
+ECONOMYNEXT – Sri Lanka will bring in 40 new influencers to promote tourism in the country, Chairman of the Sri Lanka Tourism Promotion Bureau, Chalaka Gajabahu, said.
+
+“Today we are going to discuss with the board and we are going to bring 40 [influencers],” Gajabahu told reporters this week.
+
+“When countries had put Sri Lanka on a red alert, we did a seeing-is-believing influencer campaign where we invited influencers to see for themselves. We have brought 190 influencers and that is why we are the top 5 in all the world’s travel indexes.”
+
+In January, Sri Lanka announced the start of a 1.5 billion tourist campaign including working with social media influencers such as Nas Daily and Luke Martin.
+
+Sri Lanka Tourist Development Authority (SLTDA) data shows that Sri Lanka has welcomed 1.1 million tourists from January to July 2024 and plans to bring 2.3 million tourists by the end of 2024.
+
+...
+
+[Data](articles/f5a9d833.json)
+
+---
+
+### EU continues proscription of the LTTE
+
+*2024-07-27 15:57:00* · [`economynextcom`](https://economynext.com/eu-continues-proscription-of-the-ltte-174071/) · `en`
+
+ECONOMYNEXT – The Council of the European Union (EU) will continue the proscription of the Liberation Tigers of Tamil Eelam (LTTE) for a further six months, Sri Lanka’s Ministry of Foreign Affairs said.
+
+The EU on July 26, “renewed the list of persons, groups and entities set out by the Common Position 2001/931/CFSP with the view to combatting terrorism, and the LTTE continues to be banned in the EU for a further period of six months,” an statement by the ministry said.
+
+Proscribed persons, groups and entities are subject to the freezing of its funds and other financial assets or economic resources in EU member states.
+
+“It is also prohibited for EU entities to make funds and economic resources available to the proscribed organisations.” (Colombo/Jul27/2024)
+
+◼️
+
+[Data](articles/91912ac9.json)
+
+---
+
+### New police unit established for election affairs
+
+*2024-07-27 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100817/new-police-unit-established-for-election-affairs) · `en`
+
+A new police unit on election related affairs has reportedly been established at the Police Headquarters with an Officer-In-Charge (OIC) also appointed to lead the relevant unit.
+
+Meanwhile, it was reported that in addition to the Senior Deputy Inspector of Police (SDIG) Asanga Karavita, another DIG and a Senior Superintendent of Police (SSP) have been assigned to oversee duties related to the upcoming Presidential Election.
+
+Accordingly, DIG P. Liyanage and SSP K.D.G.L.A Dharmasena have been assigned the relevant duties, as per reports.
+
+On Wednesday (24), the Supreme Court issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP. The Supreme Court had issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
+
+...
+
+[Data](articles/0f824f2c.json)
+
+---
 
 ### Kuwait comes to Sri Lanka to Sri Lanka
 
@@ -207,6 +289,26 @@ Applicants who are applying for this should be forwarded to the Elections Commis
 [Data](articles/d3fec150.json)
 
 [Extended Data](ext_articles/d3fec150.ext.json)
+
+---
+
+### Afloat repairs at Sri Lanka’s China-backed port boosted by Japan dockyard group
+
+*2024-07-27 13:38:00* · [`economynextcom`](https://economynext.com/afloat-repairs-at-sri-lankas-china-backed-port-boosted-by-japan-dockyard-group-174052/) · `en`
+
+ECONOMYNEXT – Colombo Dockyard, a unit of Japan’s Onomichi group will invest to boost afloat repairs at Sri Lanka’s Hambantota International Port, which is run by China’s CM Ports.
+
+Hambantota International Port Group (HIPG) said it had signed an agreement with Colombo Dockyard to construct state-of-the-art ship repair workshop at the port.
+
+Johnson Liu, Chief Representative of CM Group in Sri Lanka and CEO of HIPG, emphasised the strategic advantage of HIP’s location.
+
+“HIP’s position along the east-west routes of the Indian Ocean makes it an ideal site for developing and expanding ship repair services,” Johnson Liu, Chief Representative of the CM Group in Sri Lanka and Chief Executive of HIPG said in a statement.
+
+“The capacity to handle large volumes of repair work combined with CDPLC’s expertise will make this partnership a vital part of the port’s operations.”
+
+...
+
+[Data](articles/bea8e3ab.json)
 
 ---
 
@@ -2119,117 +2221,5 @@ A program to provide smart classroom equipment to schools and sects under the "D
 [Data](articles/59ce9b80.json)
 
 [Extended Data](ext_articles/59ce9b80.ext.json)
-
----
-
-### Sri Lanka still negotiating with Melwa sale price for Hilton building
-
-*2024-07-26 18:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-still-negotiating-with-melwa-sale-price-for-hilton-building-173976/) · `en`
-
-ECONOMYNEXT – Sri Lanka is still negotiating the price to sell Hotel Developers Lanka Ltd, the owning company of Colombo Hilton with the company that submitted the financial bid, the State-Owned Enterprises Restructuring Unit said.
-
-Though four parties that were pre-qualified, only one Melwa Hotels & Resorts (Pvt) Ltd, submitted an offer, the SRU said earlier in July.
-
-Th negotiations are not yet concluded and the price has not yet been finalized.
-
-Offers and bids are evaluated by two Cabinet appointed committees that are independent of the SOE Restructuring Unit. These are the Special Project Committee, and the Special Cabinet Appointed Negotiation Commitee (SpCANC).
-
-“During the evaluation process, the SpCANC has the mandate to further discuss this offer with the proposer,” the SRU said at the time.
-
-The SOERU said it acts as an implementing agency and facilitates and coordinates the work of the two committees.
-
-...
-
-[Data](articles/1e2c3333.json)
-
-[Extended Data](ext_articles/1e2c3333.ext.json)
-
----
-
-### Chamari to the benefit of the coin
-
-*2024-07-26 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199244) · `si`
-
-In the women's Asia Cup, Sri Lanka will face Pakistan in the second semi-final after winning the toss. The first semi-final saw India defeat Bangladesh by 10 wickets.
-
-🟩
-
-The second semi-final in the women's Asia Cup will be held between Sri Lanka and Pakistan.
-
-The Sri Lanka Women's group, won the toss and elected to the toss of the Twenty20 match.
-
-The first semi-final was found between India and Bangladesh.
-
-Indian women's team won the match by 10 wickets.
-
-◼️
-
-[Data](articles/fb4977b9.json)
-
-[Extended Data](ext_articles/fb4977b9.ext.json)
-
----
-
-### Tension in phosphot gandor
-
-*2024-07-26 18:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாஸ்போட்-கந்தோரில்-பதற்றம்/175-341083) · `ta`
-
-A tense situation arose in the Immigration Department, escalating when individuals stormed the office on the fifth floor. Police intervention calmed the scene, which had been fraught since morning due to efforts to limit daily passport issuance.
-
-🟩
-
-There was a tense situation in the Department of Immigration. The police intervened and brought the situation under control.
-
-Some people have entered the office of the Immigration Control Control Control Control Control Controller on the fifth floor this afternoon.
-
-The Immigration and Emigration Department has been in a tense environment from this morning on the resolution to control the number of passports issued per day.
-
-◼️
-
-[Data](articles/3cae2193.json)
-
-[Extended Data](ext_articles/3cae2193.ext.json)
-
----
-
-### We do not offer a candidate - Sumanthiran
-
-*2024-07-26 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199243) · `si`
-
-ITAK hasn't nominated a candidate for the presidential election, but TNA parliamentarians will discuss potential candidates.
-
-🟩
-
-It is said that Ilankai Tamil Arasu Kachchu Kachchi (ITAK) is not submitted for the presidential election.
-
-But the Tamil National Alliance (TNA) parliamentar MPs will be discussed with key candidates. it. Mr. Sumanthiran added.
-
-◼️
-
-[Data](articles/03d76652.json)
-
-[Extended Data](ext_articles/03d76652.ext.json)
-
----
-
-### Ther, who forgot the control
-
-*2024-07-26 17:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-மறந்துவிட்டு-சென்ற-தேரர்/175-341082) · `ta`
-
-Thera forgot to bring funds for election control but plans to return to the Elections Commission on Monday after leaving them at Battaramullai Viharaya.
-
-🟩
-
-Thera had visited the Elections Commission today (26) to regulate the presidential election.
-
-However, he noted that the money for the control was left at the Battaramullai Viharaya.
-
-According to Battaramullai Seelarathana Thera, he will go back to the Elections Commission on Monday.. Remble
-
-◼️
-
-[Data](articles/5ad04f7c.json)
-
-[Extended Data](ext_articles/5ad04f7c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 07:02:02**
+As of **2024-07-27 07:26:24**
 
 ## Newspaper Stats
 
-*Scraped **37,498** Articles*
+*Scraped **37,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
 adaderanalk | 4,339
-tamilmirrorlk | 4,622
+tamilmirrorlk | 4,623
 dailymirrorlk | 4,733
 virakesarilk | 5,898
-adaderanasinhalalk | 6,290
+adaderanasinhalalk | 6,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,492 (100.0%) of 37,498 articles have been extended.
+37,498 (100.0%) of 37,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### කාලගුණයෙන් රතු නිවේදයක්
+
+*2024-07-27 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199251) · `si`
+
+ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව, අනතුරු ඇඟවීමේ රතු නිවේදයක් නිකුත් කර තිබේ.
+
+සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශය සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ඉතා රළු විය හැකි බව එහි සඳහන් වේ.
+
+එම දෙපාර්තමේන්තුව පැවසුවේ අරාබි මුහුදු ප්‍රදේශයේ උතුරු අක්ෂාංශ 13 ත් 23 ත් සහ නැගෙනහිර දේශාංශ 55 ත් 70 ත් යන ප්‍රදේශවල සහ බෙංගාල බොක්ක මුහුදු ප්‍ දෙශයේ උතුරු අක්ෂාංශ 13 ත් 18 ත් සහ නැගෙනහිර දේශාංශ 83 ත් 93 ත් යන මුහුදු ප්‍රදේශ වල පැයට කිලෝමීටර් 70 – 80 තද සුළං පවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවය.
+
+මේ හේතුවෙන් අදාළ ප්‍රදේශයේ ධීවර හා නාවික කටයුතුවල යෙදී සිටින පිරිස් වහාම ගොඩබිම හෝ ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+එම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යත්‍රා නොකරන ලෙස එම දෙපාර්තමේන්තුව ධීවර හා නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+
+මේ අතර, සබරගමුව පළාතෙත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල විටින් විට වැසි ඇති වන අතර බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+...
+
+[Data](articles/3758563e.json)
+
+---
 
 ### ComBank wins 6 awards at Asian Banking and Finance Awards in Singapore
 
@@ -46,6 +68,8 @@ The Bank received the awards for ‘Digital Consumer Banking Initiative of the Y
 
 [Data](articles/1fb5ba1b.json)
 
+[Extended Data](ext_articles/1fb5ba1b.ext.json)
+
 ---
 
 ### Empowering a financial future: NDB NEOS & CRIB partnership since 2021
@@ -59,6 +83,8 @@ A CRIB report serves as a comprehensive credit summary, offering insights into
 ...
 
 [Data](articles/c2bff892.json)
+
+[Extended Data](ext_articles/c2bff892.ext.json)
 
 ---
 
@@ -74,6 +100,8 @@ AIA deployed over 500 dedicated lifeguards across 39 reservoirs and lakes in Anu
 
 [Data](articles/1d0a334e.json)
 
+[Extended Data](ext_articles/1d0a334e.ext.json)
+
 ---
 
 ### Sustainable Excellence: Green Globe Certification across Aitken Spence Hotels’ Maldives resorts
@@ -87,6 +115,24 @@ The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran P
 ...
 
 [Data](articles/f1642ed3.json)
+
+[Extended Data](ext_articles/f1642ed3.ext.json)
+
+---
+
+### விக்ரமபாகுவின் இறுதிச் சடங்கு இன்று
+
+*2024-07-27 00:33:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்ரமபாகுவின்-இறுதிச்-சடங்கு-இன்று/175-341102) · `ta`
+
+நவ சம சமாஜ கட்சியின் மறைந்த தலைவர் கலாநிதி விக்ரமபாகு கருணாரத்னவின் இறுதிச் சடங்கு இன்று இடம்பெறவுள்ளது.
+
+இறுதிக் கிரியை பொரளை – பொதுமயானத்தில் இன்று பிற்பகல் 5 மணிக்கு இடம்பெறும் என அறிவிக்கப்பட்டுள்ளது.
+
+உடல் நலக்குறைவு காரணமாக நவ சம சமாஜ கட்சியின் தலைவர் கலாநிதி விக்ரமபாகு கருணாரத்ன கடந்த புதன் கிழமை காலமானார்.  (a)
+
+◼️
+
+[Data](articles/d29cf9ce.json)
 
 ---
 
@@ -2219,41 +2265,5 @@ The suspect has been arrested in connection with the complaint received by the p
 [Data](articles/04c8b6cf.json)
 
 [Extended Data](ext_articles/04c8b6cf.ext.json)
-
----
-
-### Sajith challenges Ranil to resign
-
-*2024-07-26 13:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பதவி-விலகுமாறு-ரணிலுக்கு-சஜித்-சவால்/150-341075) · `ta`
-
-Sajith Premadasa, the opposition leader, demands President Ranil Wickremesinghe's resignation if he fails to comply with a High Court order regarding the appointment of the Inspector General of Police.
-
-🟩
-
-Opposition leader Sajith Premadasa has challenged President Ranil Wickremesinghe to resign if he cannot appoint the Inspector General of Police in response to a High Court order.
-
-◼️
-
-[Data](articles/15b74efc.json)
-
-[Extended Data](ext_articles/15b74efc.ext.json)
-
----
-
-### Sajith challenges Ranil to resign
-
-*2024-07-26 13:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-விலகுமாறு-ரணிலுக்கு-சஜித்-சவால்/175-341075) · `ta`
-
-Sajith Premadasa, the opposition leader, demands President Ranil Wickremesinghe's resignation if he fails to comply with a High Court order regarding the appointment of the Inspector General of Police.
-
-🟩
-
-Opposition leader Sajith Premadasa has challenged President Ranil Wickremesinghe to resign if he cannot appoint the Inspector General of Police in response to a High Court order.
-
-◼️
-
-[Data](articles/28c914b3.json)
-
-[Extended Data](ext_articles/28c914b3.ext.json)
 
 ---

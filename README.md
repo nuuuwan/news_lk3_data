@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 15:20:32**
+As of **2024-07-27 15:35:42**
 
 ## Newspaper Stats
 
-*Scraped **37,536** Articles*
+*Scraped **37,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,113 @@ islandlk | 2,141
 economynextcom | 2,253
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,349
-tamilmirrorlk | 4,626
+adaderanalk | 4,350
+tamilmirrorlk | 4,627
 dailymirrorlk | 4,733
 virakesarilk | 5,906
-adaderanasinhalalk | 6,303
+adaderanasinhalalk | 6,305
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,535 (100.0%) of 37,536 articles have been extended.
+37,536 (100.0%) of 37,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### දික්කසාදය ඉල්ලූ පාකිස්තාන බිරිඳගේ දෙපා කපා දමයි
+### කුවේට් ගිහින් නිරපරාදේ වෙඩිකෑ සාගර හිස් අතින් ලංකාවට එයි
+
+*2024-07-27 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199265) · `si`
+
+කුවේට් ආපනශාලාවක ආහාර ඇනවුම් බෙදාහැරීමේ රැකියාවක නිරතවී සිටි අදාළ ශ්‍රී ලාංකිකයාට කුවේට් ජාතිකයෙකු විසින් එම වෙඩිතැබීම සිදුකර තිබුණේ ඇනවුම ප්‍රමාදවූ නිසා උරණවීම හේතුවෙනි.
+
+නමුත්, එම සිදුවීමෙන් පසු කිසිඳු සාධාරණයක් ඉටුනොවුණු තැන ඔහු අද (27) දිවයිනට පැමිණියේ සාධාරණයක් ඉටුකරන ලෙස මෙරට බලධාරීන්ගෙන් ඉල්ලා සිටිමිනි.
+
+එම අවස්ථාවට ශ්‍රී ලංකා මානව හිමිකම් සංවිධානයේ සභාපතිවරයා ඇතුළු පිරිසක්ද එක්වී තිබුණි.
+
+කුවේට්හි වසර 6ක් රැකියාවේ නිරතව සිටි සාගර ලක්ෂ්මන් තිලකරත්න නම් ශ්‍රී ලාංකිකයෙකුට එරටදී වෙඩි ප්‍රහාරයකට ලක්වූ පුවතක් අප පසුගිය පෙබරවාරි 23 වනදා අද දෙරණ ඔස්සේ වාර්තා කළේය.
+
+රාජංගනය යාය 11 ප්‍රදේශයේ පදිංචි සාගර 46 හැවිරිදි දෙදරු පියෙකි.
+
+ඔහු පවසන්නේ දරු දෙදෙනාද පාසල් වියේ පසුවන අතර ඔහුගේ බිරිඳ ද අසනීප තත්ත්වයෙන් පසුවන බවය.
+
+◼️
+
+[Data](articles/2779645f.json)
+
+---
+
+### Algeria grants visa free travel to 55 countries including Sri Lanka
+
+*2024-07-27 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100816/algeria-grants-visa-free-travel-to-55-countries-including-sri-lanka) · `en`
+
+Algeria has granted visa free travel to 55 countries including Sri Lanka, Malaysia and the Maldives.
+
+The North African country’s tourism industry is reportedly experiencing a significant surge with the introduction of a new visa-free travel policy, which was introduced aiming to boost tourism and strengthen international ties by simplifying travel procedures for visitors from these nations.
+
+As a result, Algeria is becoming an increasingly attractive destination, leveraging its rich cultural heritage, diverse landscapes, and improved infrastructure to draw in more international travelers with expectations to enhance the country’s tourism revenue and global connectivity.
+
+Algeria’s Tourism Industry Boosts Economy with $7.2 Billion GDP Contribution in 2021, Marking a 33% Increase
+
+...
+
+[Data](articles/52e6d745.json)
+
+---
+
+### ரணில் -பஷில் சந்திப்பில் இணக்கமில்லை
+
+*2024-07-27 15:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பஷில்-சந்திப்பில்-இணக்கமில்லை/175-341107) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடுவது தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷவுக்கும் இடையில் இடம்பெற்ற கலந்துரையாடல் இணக்கப்பாட்டின்றி முடிவடைந்ததாக பொதுஜன பெரமுனவின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்தார்.
+
+எவ்வாறாயினும், ஜனாதிபதி மற்றும் பசில் ராஜபக்ஷ நாளை (28) சந்திக்கவுள்ளதாக அந்த அதிகாரி குறிப்பிட்டுள்ளார்
+
+◼️
+
+[Data](articles/f409fac1.json)
+
+---
+
+### පොලිස් මැතිවරණ ඒකකය වැඩ අරඹයි
+
+*2024-07-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199264) · `si`
+
+ජනාධිපතිවරණයේ මැතිවරණ රාජකාරි අධීක්ෂණ කටයුතු සඳහා මැතිවරණ කටයුතු භාර ජ්‍යෙෂ්ඨ නියෝජය පොලිස්පති අසංග කරවිට මහතාට අමතරව තවත් නියෝජ්‍ය පොලිස්පතිවරයෙකු සහ ජ්‍යේෂ්ඨ පොලිස් අධිකාරීවරයෙකු පත්කර තිබේ.
+
+නියෝජ්‍ය පොලිස්පති පී. ලියනගේ සහ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.ඩී.ජී.එල්.ඒ ධර්මසේන යන මහත්වරුන් ඒ සඳහා පත්කර ඇති බව සඳහන් ය.
+
+මේ වනවිටත් පොලිස් මූලස්ථානයේ මැතිවරණ කටයුතු පිළිබඳ ඒකකයක් ආරම්භ කර ඇති අතර ඊයේ දිනයේ සිට ක්‍රියාත්මක එම ඒකකය සඳහා ස්ථානාධිපතිවරයෙකු ද පත් කර තිබේ.
+
+◼️
+
+[Data](articles/705b157f.json)
+
+---
+
+### Divorce is cut off the pakistan-wise wife's feet
 
 *2024-07-27 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199263) · `si`
 
-ලිංගික හිරිහැර ඉවසාගත නොහැකිව සිය විවාහය අවසන් කිරීම සඳහා දික්කසාදය ගොනු කළ කාන්තාවකගේ දෙපා කපා දැමීමේ පුවතක් පාකිස්තානයෙන් වාර්තා වෙයි.
+A woman in Pakistan sought divorce due to sexual harassment, only to have her feet mutilated by her family members. This incident highlights the severe violence against women in Pakistani society, particularly in cases involving divorce.
 
-විදෙස් මාධ්‍ය පවසන්නේ අදාළ කාන්තාවගේ පියා සහ මාමාවරුන් විසින් ඇයගේ දෙපා එලෙස කපා දමා ඇති බවය.
+🟩
 
-විදෙස් මාධ්‍ය පවසන්නේ පාකිස්තාන සමාජය තුළ ස්ත්‍රීන් යටත් කරගැනීමට ප්‍රචණ්ඩත්වය භාවිත කරන ප්‍රවණතාවය ඉහළ බවය.
+It is reported from Pakistan who has filed a divorce to end her marriage unable to endure sexual harassment.
 
-එම සිද්ධියට මුහුණ පෑ කාන්තාව පොලීසියට පවසා ඇත්තේ තම හිංසාකාරී සැමියාගෙන් දික්කසාදය ඉල්ලා සිටීම නිසා තම පාද කපා දැමූ බවය.
+Foreign media states that her father's father and uncles have been cut down in her feet.
+
+Foreign media states that violence is high to conquer women in Pakistani society.
+
+The woman who was involved in the incident had told the police that his violent husband was cut off their feet because of divorce.
 
 ◼️
 
 [Data](articles/0fddaa39.json)
+
+[Extended Data](ext_articles/0fddaa39.ext.json)
 
 ---
 
@@ -2135,109 +2211,5 @@ According to Battaramullai Seelarathana Thera, he will go back to the Elections 
 [Data](articles/5ad04f7c.json)
 
 [Extended Data](ext_articles/5ad04f7c.ext.json)
-
----
-
-### ITAK decides not to nominate Presidential Candidate
-
-*2024-07-26 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100799/itak-decides-not-to-nominate-presidential-candidate) · `en`
-
-Tamil National Alliance (TNA) MP M.A. Sumanthiran says that the Ilankai Thamil Arasu Katchchi (ITAK) will not nominate a candidate for the upcoming Presidential Election.
-
-However, the party will hold discussions with the main candidates, he said.
-
-◼️
-
-[Data](articles/ae3031bf.json)
-
-[Extended Data](ext_articles/ae3031bf.ext.json)
-
----
-
-### An order locking a police chief promotion
-
-*2024-07-26 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199242) · `si`
-
-The Supreme Court has directed the National Police Commission to promote Mr. Pushpa Kumara to Senior Superintendent of Police, despite objections from 134 Assistant Superintendents and concerns about legality. This decision was made by Justices Survey Surasena, Arjuna, and Yasantha Kodagoda, with the latter two agreeing with the promotion. The court's ruling comes after a lengthy trial and addresses recommendations by Acting Inspector General Wickramaratne, which were criticized for potentially infringing on petitioners' basic human rights.
-
-🟩
-
-Director of the Urban Traffic Division. The Supreme Court has issued an order deported to the National Police Commission to promote Mr. Pushpa Kumara to be appointed as the Senior Superintendent of Police.
-
-Chairman of the Supreme Court responding to 134 Assistant Superintendents of Assistant Superintendents of the Fundamental Rights Petitions. The Supreme Court has ordered Pushpa Kumara.
-
-Assistant Superintendent W. it. The decision was announced by Supreme Court Judge Survey Surasena with the consent of the Judges Arjuna, Yasantha Kodagoda, with the agreement of the Judges Arjuna Kodagoda.
-
-Petitioners say 2020 acting IGPY CD. The National Police Commission on a recommendation of Mr. Wickramaratne is respondent. S. K. The decision to be promoted to the post of Puebertumara is contrary to the law.
-
-The judge who had a prolonged trial, the judge who had the ability to grant special promotions to the respondents, the promotion is not included in the category.
-
-...
-
-[Data](articles/60f3ce7d.json)
-
-[Extended Data](ext_articles/60f3ce7d.ext.json)
-
----
-
-### I saw two people alive in one day- a diary that disturbed the mind of someone who saw the riots in July 1983
-
-*2024-07-26 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189467) · `ta`
-
-A disturbing account describes witnessing two young girls, aged 11, being attacked by gang members during riots in July 1983. One girl was stabbed and beheaded, while the other was brutally assaulted before being set on fire. Despite the chaos, the narrator remains safe, observing the events from afar. This incident highlights the brutalities of the time, contrasting the savagery with the narrator's belief that ancient humans were more civilized.
-
-🟩
-
-The elder sister is 11 years old and the younger sister is 11 years old. They brought them near my house, and the gangs of the gangs surrounded them. They discussed what they could do.
-
-Suddenly, a man grabbed the girl in his hand and started cutting with a knife in his hand.
-
-Then she fell on their feet amidst the mad laughter of the queen and pleaded with her sister.
-
-Then a man took the ax and climbed the girl's head.
-
-Her sister was killed as a deadly killing of her sister, and the mixed feelings of the scarce of her, the fagrous feelings of helpless restlessness became
-
-Only 20 men warned of the other after she had been sexually assaulted by her. He shook her out brutally.
-
-She began to scream and fight, and looked around and felt the first time that she was bloody from her body.
-
-Suddenly she tightened her fist, and then surrender to her face.
-
-She left a sigh and fell unconscious. They then poured gasoline on her.
-
-...
-
-[Data](articles/482a8a3a.json)
-
-[Extended Data](ext_articles/482a8a3a.ext.json)
-
----
-
-### A special announcement from the Department of Immigration and Emigration
-
-*2024-07-26 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199241) · `si`
-
-The Department of Immigration and Emigration announces a new passport application process starting July 16. Applicants must pre-register via https://www.imimigration.gov.lk/. Post-registration, passports will be issued based on a priority system. This initiative aims to provide efficient and safe services to Sri Lankans since January 1, 2013.
-
-🟩
-
-The Department of Immigration and Emigration, the Department of Immigration and Emigration will inform the Immigration and Emigration, Head Office of the Immigration and Emigration.
-
-The department refers to an announcement, the department was imposed by visiting the Immigration and Emigration Department without pre-registration.
-
-The Department announces that after registration, the passports are available in accordance with a priority system.
-
-Since 01.01.2013, the government will commence efficient and safe new euters to Sri Lankans.
-
-Accordingly, passports applying for the convenience of candidates as a new system as follows.
-
-From July 16, you can pre-registration through links to https://www.imimigration.gov.lk/.
-
-◼️
-
-[Data](articles/4d4a5044.json)
-
-[Extended Data](ext_articles/4d4a5044.ext.json)
 
 ---

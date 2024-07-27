@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 04:05:42**
+As of **2024-07-28 04:20:23**
 
 ## Newspaper Stats
 
-*Scraped **37,583** Articles*
+*Scraped **37,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ dbsjeyarajcom | 328
 colombotelegraphcom | 352
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,141
+islandlk | 2,142
 economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,419
 adaderanalk | 4,356
-tamilmirrorlk | 4,634
+tamilmirrorlk | 4,635
 dailymirrorlk | 4,733
 virakesarilk | 5,909
 adaderanasinhalalk | 6,319
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,583 (100.0%) of 37,583 articles have been extended.
+37,583 (100.0%) of 37,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1011,6 +1011,20 @@ Algeria’s Tourism Industry Boosts Economy with $7.2 Billion GDP Contribution i
 [Data](articles/52e6d745.json)
 
 [Extended Data](ext_articles/52e6d745.ext.json)
+
+---
+
+### ரணில் - பஷில் சந்திப்பில் இணக்கமில்லை
+
+*2024-07-27 15:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-பஷில்-சந்திப்பில்-இணக்கமில்லை/150-341107) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடுவது தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷவுக்கும் இடையில் இடம்பெற்ற கலந்துரையாடல் இணக்கப்பாட்டின்றி முடிவடைந்ததாக பொதுஜன பெரமுனவின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்தார்.
+
+எவ்வாறாயினும், ஜனாதிபதி மற்றும் பசில் ராஜபக்ஷ நாளை (28) சந்திக்கவுள்ளதாக அந்த அதிகாரி குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/038c2d9e.json)
 
 ---
 
@@ -2215,35 +2229,5 @@ The three-month initiative aims to enhance skills of sales staff, executives, an
 [Data](articles/9ce1232d.json)
 
 [Extended Data](ext_articles/9ce1232d.ext.json)
-
----
-
-### 2024-07-26 (Friday)
-
-### Two arrested for stealing cell phone
-
-*2024-07-26 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189487) · `ta`
-
-Two individuals were arrested on July 25th for stealing and selling a cell phone worth Rs 76,000. The theft occurred on July 14th when an officer's phone was stolen from the Kannaditi area. The suspects were identified through CCTV footage and apprehended as they attempted to sell the phone. One suspect resides in the Chavakachcheri area, while the other is from Munga. Both will be brought before the Jaffna court for further proceedings.
-
-🟩
-
-A man who stole the cell phone and a buyer has been arrested by the police on Friday 25th.
-
-Yall. District Senior Superintendent of Police Surya Bandara. Two persons were arrested on Friday morning on the 25th of this morning based on confidential information available to the District Police Intelligence Unit.
-
-On 14/07/2024 in the Kannaditi area, the telephone of the officer working in the Samurdhi office fell on the street.
-
-When the officer went a little farther, the phone was missing. When you came back to the place, the phone was not available. The complaint was later lodged at the police station.
-
-In this case, the Jaffna District Police Intelligence Unit found the person with the help of CCTV Camera. The district police intelligence unit received information that the person was walking on the road.
-
-The police arrested him and investigated him. He said that he sold the cell phone to another. The police then arrested the man who bought the cell phone with the cell phone.
-
-...
-
-[Data](articles/2a5f0b2a.json)
-
-[Extended Data](ext_articles/2a5f0b2a.ext.json)
 
 ---

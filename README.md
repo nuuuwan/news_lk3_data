@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 06:23:27**
+As of **2024-07-27 07:02:02**
 
 ## Newspaper Stats
 
-*Scraped **37,492** Articles*
+*Scraped **37,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 327
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,135
+islandlk | 2,141
 economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
@@ -26,11 +26,69 @@ adaderanasinhalalk | 6,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,492 (100.0%) of 37,492 articles have been extended.
+37,492 (100.0%) of 37,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### ComBank wins 6 awards at Asian Banking and Finance Awards in Singapore
+
+*2024-07-27 01:34:00* · [`islandlk`](http://island.lk/combank-wins-6-awards-at-asian-banking-and-finance-awards-in-singapore/) · `en`
+
+The Commercial Bank of Ceylon won a remarkable six awards presented in three separate segments recently by Asian Banking and Finance (ABF) at a single event in Singapore – the 2024 edition of the magazine’s annual awards ceremony.
+
+Commercial Bank won two awards in each of the three segments – the ABF Retail Banking Awards, the ABF Corporate & Investment Awards, and the ABF Fintech awards, demonstrating its versatility in different spheres of banking and finance.
+
+The Bank received the awards for ‘Digital Consumer Banking Initiative of the Year’ and ‘SME Bank of the Year’ in the Retail Banking Awards segment; the awards for ‘Corporate Client Initiative of the Year’ and ‘Debt Deal of the Year’ in the Corporate & Investment Awards segment; and the Ecosystem Collaboration Award and Payments Solution Award in the Fintech Awards segment.
+
+...
+
+[Data](articles/1fb5ba1b.json)
+
+---
+
+### Empowering a financial future: NDB NEOS & CRIB partnership since 2021
+
+*2024-07-27 01:34:00* · [`islandlk`](http://island.lk/empowering-a-financial-future-ndb-neos-crib-partnership-since-2021/) · `en`
+
+In the dynamic realm of personal finance, creditworthiness is paramount, impacting eligibility for various financial products. At the core of this evaluation lies the CRIB report – an intricate credit dossier managed by the Credit Information Bureau of Sri Lanka (CRIB). Understanding the nuances of a CRIB report, recognizing its significance, and cultivating habits to maintain a positive report are pivotal for navigating the financial landscape.
+
+A CRIB report serves as a comprehensive credit summary, offering insights into an individual’s credit history, encompassing critical details such as credit accounts, outstanding balances, repayment history, and instances of defaults or late payments. Lenders, including banks and financial institutions, heavily rely on this report when assessing an individual’s creditworthiness for loans, credit cards, or other financial products.
+
+...
+
+[Data](articles/c2bff892.json)
+
+---
+
+### Safeguarding Sri Lanka’s national Poson festival for 29 years, AIA Poson Safety Programme saved 6 lives this year
+
+*2024-07-27 01:15:00* · [`islandlk`](http://island.lk/safeguarding-sri-lankas-national-poson-festival-for-29-years-aia-poson-safety-programme-saved-6-lives-this-year/) · `en`
+
+July 24th 2024 – AIA Insurance proudly concludes the 29th year of its Poson Safety Programme, celebrating zero fatalities and the rescue of six lives. This comprehensive CSR initiative, one of the longest standing projects in the country continues to be a beacon of safety and community service during the religious Poson festival.
+
+AIA deployed over 500 dedicated lifeguards across 39 reservoirs and lakes in Anuradhapura, Polonnaruwa, Mihintale, Dambulla, and surrounding regions. Their vigilance ensured pilgrims could participate in their traditional bathing rituals safely and without incident. Complementing these efforts, AIA implemented a comprehensive safety campaign featuring prominently displayed warning signs, banners, and digital media promotions throughout the Anuradhapura District.
+
+...
+
+[Data](articles/1d0a334e.json)
+
+---
+
+### Sustainable Excellence: Green Globe Certification across Aitken Spence Hotels’ Maldives resorts
+
+*2024-07-27 01:15:00* · [`islandlk`](http://island.lk/sustainable-excellence-green-globe-certification-across-aitken-spence-hotels-maldives-resorts/) · `en`
+
+Aitken Spence Hotels has achieved a remarkable milestone in sustainable tourism with all five of its Maldives resorts receiving the prestigious Green Globe Certification. This accolade highlights the Company’s unwavering dedication to sustainability stewardship and its leadership in responsible tourism practices within one of the world’s most pristine marine environments.
+
+The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran Prestige Vadoo, Adaaran Select Meedhupparu, Adaaran Select Hudhuran Fushi, and Adaaran Club Rannalhi, have each been certified with the Green Globe standard 1.7, achieving scores surpassing 86%, exemplifying the exceptional commitment to sustainability across all operational facets.
+
+...
+
+[Data](articles/f1642ed3.json)
+
+---
 
 ### President envisions modern economy in 10 years, stronger economic ties in advancing SL
 
@@ -2197,107 +2255,5 @@ Opposition leader Sajith Premadasa has challenged President Ranil Wickremesinghe
 [Data](articles/28c914b3.json)
 
 [Extended Data](ext_articles/28c914b3.ext.json)
-
----
-
-### Motorcycle robbery at the sword tip in Jaffna
-
-*2024-07-26 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189428) · `ta`
-
-In Jaffna, a motorcycle was robbed at sword point. A young man was attacked while riding; two assailants, armed with swords, stole his bike before fleeing. The incident was reported to the Kopay police station, leading to ongoing investigations.
-
-🟩
-
-A complaint has been lodged at the Kopay police station that a motorcycle has been raided at the sword.
-
-A young man was traveling on a motorcycle on Wednesday night (24) night in Konda.
-
-So when the young man on the motorcycle stopped the motorcycle, the man who was hiding in his possession took the bucket hidden in his possession and tried to cut the motorcycle driver.
-
-To protest the young man, another young man who was hiding along the street came out with the sword and tried to cut the young man.
-
-The two attackers who took the motorcycle then fled the scene.
-
-Police are conducting investigations after lodging a complaint at the Kopay police station.
-
-◼️
-
-[Data](articles/6ed734b7.json)
-
-[Extended Data](ext_articles/6ed734b7.ext.json)
-
----
-
-### Everyone should work together to build the country - the leader of the opposition
-
-*2024-07-26 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189421) · `ta`
-
-Sajith Premadasa urges unity among Sinhalese, Tamils, and Muslims for national development, emphasizing education and technology investment. He advocates for peace, reconciliation, and shared responsibility in building the country, highlighting the importance of English and IT labs in schools.
-
-🟩
-
-All must unite as the children of a mother -in -law to build a falling homeland. Sinhalese, Tamil, Muslims and flies must work together with peace, reconciliation, brotherhood and friendship without creating conflicts in the community. Opposition leader Sajith Premadasa said that the country should be built.
-
-Under the Universal Information Technology Program, smart classroom equipment and dictionaries worth Rs.
-
-Meanwhile, one lakh rupees was provided to the School Development Fund.
-
-Opposition Leader Sajith Premadasa said that children who are educated in schools in this country are considered as their own children.
-
-The Leader of the Opposition said that all schools should install the English Language Laboratory and International Quality Information Technology Laboratory.
-
-◼️
-
-[Data](articles/056b976d.json)
-
-[Extended Data](ext_articles/056b976d.ext.json)
-
----
-
-### Scorn as Bangladesh PM weeps at train station damage
-
-*2024-07-26 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100790/scorn-as-bangladesh-pm-weeps-at-train-station-damage) · `en`
-
-Bangladesh’s leader has been accused of crying “crocodile tears” after she was photographed weeping at a train station that was destroyed during anti-government protests.
-
-At leat 150 people have been killed as a result of nationwide clashes between police and university students, with security forces accused of execessive force.
-
-Protesters had been calling for quotas on government jobs to be scrapped.
-
-Online, many accused Ms Hasina of not expressing the same level of sympathy towards those who had died, or their families.
-
-The pictures were taken during Ms Hasina’s visit to a metro rail station in the city of Mirpur on Thursday, where ticket vending machines and the signalling control station were shattered. Ms Hasina was pictured frowning and wiping her tears with tissue paper.
-
-...
-
-[Data](articles/cb1c1473.json)
-
-[Extended Data](ext_articles/cb1c1473.ext.json)
-
----
-
-### Order to catch the elephant in the forest
-
-*2024-07-26 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189409) · `ta`
-
-Anuradhapura Chief Magistrate ordered the release of a wild elephant named Akbo, trapped for over a year. The decision came after a private TV channel employee was accused of photographing the elephant with a drone. Despite concerns about the elephant damaging crops and properties, the magistrate directed the wildlife department to relocate it safely to prevent harm to both the elephant and humans. The police were also instructed to file charges against the individual who used the drone for photography.
-
-🟩
-
-The Anuradhapura Chief Magistrate on Thursday (25) has ordered the Anuradhapura Wildlife Protection Assistant Director to release a wild elephant, known as Akbo, which is surrounded by Akbo for more than a year.
-
-The case, which was filed by an employee of a private television channel, was taken up for hearing yesterday for allegedly photographing the elephant by a drone camera.
-
-In the meantime, the police told the court that the elephant to be protected and that the elephant would be left in the villages and would be allowed to destroy crops and property.
-
-In addition, the police officer asked the court to order the wildlife department to take up the elephant to prevent any danger to the elephant's life or human life.
-
-In this case, the elephant has been ordered to be released in the wilderness and the police have ordered the police to file a charge sheet against the suspect who used the unmanned camera to photograph the elephant.
-
-◼️
-
-[Data](articles/92c5f705.json)
-
-[Extended Data](ext_articles/92c5f705.ext.json)
 
 ---

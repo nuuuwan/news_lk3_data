@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 22:07:52**
+As of **2024-07-27 22:20:36**
 
 ## Newspaper Stats
 
-*Scraped **37,573** Articles*
+*Scraped **37,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,141
 economynextcom | 2,258
 dailyftlk | 2,405
 adalk | 3,415
-adaderanalk | 4,355
+adaderanalk | 4,356
 tamilmirrorlk | 4,632
 dailymirrorlk | 4,733
 virakesarilk | 5,909
@@ -26,23 +26,45 @@ adaderanasinhalalk | 6,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,572 (100.0%) of 37,573 articles have been extended.
+37,573 (100.0%) of 37,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### கஞ்சா போட்ட கான்ஸ்டபிள் இடைநீக்கம்
+### NPP aims to establish govt. with trust of all communities – Anura Kumara
+
+*2024-07-27 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100823/npp-aims-to-establish-govt-with-trust-of-all-communities-anura-kumara) · `en`
+
+Leader of the National People’s Power (NPP) Anura Kumara Dissanayake called upon Sri Lanka’s Muslim community to join hands with the NPP in establishing a united government.
+
+Addressing the Galle district rally of the NPP’s Muslim Brotherhood, he further went on to emphasize that the NPP expects to establish a united government which commands the trust of all communities in Sri Lanka, adding that his party will come into power with the aim of developing Sri Lanka.
+
+Speaking further, the NPP Leader said: “The NPP must establish a government that has the trust of the Tamil, Muslim and Sinhala communities. Creating a united government is the expectation of the NPP. Winning the election with the Sinhala votes alone is not enough for us. To win, Sinhala votes are enough. However, such a victory is not enough for us.
+
+...
+
+[Data](articles/3719fb2f.json)
+
+---
+
+### Cannabis Constable suspension
 
 *2024-07-27 21:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-போட்ட-கான்ஸ்டபிள்-இடைநீக்கம்/175-341110) · `ta`
 
-வாகனத்தை சோதனை செய்யும் போது வாகனத்திற்குள் கஞ்சாவை வைத்து இளைஞர்கள் குழுவொன்றை கைது செய்ய முற்பட்ட குற்றச்சாட்டின் பேரில் கொள்ளுப்பிட்டி பொலிஸில் கடமையாற்றும் கான்ஸ்டபிள் ஒருவர் பணி இடை நீக்கம் செய்யப்பட்டுள்ளார்.
+A Kaluppitti Police Constable was suspended for attempting to arrest a group of youths found with cannabis in their vehicle during a routine check.
 
-கொள்ளுப்பிட்டி பகுதியில் இளைஞர்கள் குழுவொன்று காரில் பயணித்த போது, ​​கொள்ளுப்பிட்டி பொலிஸ் உத்தியோகத்தர்கள் குழுவொன்று காரை நிறுத்தி சோதனையிட்டதுடன், கான்ஸ்டபிள் ஒருவர் காரில் கஞ்சாவை வைத்து இளைஞர்களை கைது செய்ய சென்றுள்ளார்
+🟩
+
+A Constable Constable of Kaluppitti Police has been suspended for allegedly trying to arrest a group of youths in the vehicle while checking the vehicle.
+
+When a group of youths were traveling in the car, a group of police officers parked the car and went to the arrest of youths in a car with cannabis in a car.
 
 ◼️
 
 [Data](articles/f9f79816.json)
+
+[Extended Data](ext_articles/f9f79816.ext.json)
 
 ---
 
@@ -2219,33 +2241,5 @@ Down the order, Anushka Sanjeewani provided crucial 24 runs and the Islanders ch
 [Data](articles/d080ffbf.json)
 
 [Extended Data](ext_articles/d080ffbf.ext.json)
-
----
-
-### Chamari takes Sri Lanka to the final
-
-*2024-07-26 22:41:38* · [`adalk`](https://www.ada.lk/sports/චමරි-ශ්‍රී-ලංකාව-අවසන්-මහ-තරගයට-රැගෙන-යයි/9-411024) · `si`
-
-Sri Lanka reached the Women's Asia T20 final by defeating Pakistan, thanks to Chamari's quick 48-ball 50 and Anushka Sanjivi's steady 24 from 22 balls. This marks Sri Lanka's sixth qualification to the Asian finals, facing India in the final match at Dambulla International Stadium on the 28th.
-
-🟩
-
-Sri Lanka were able to qualify for the final match of the Women's Asia T20, defeating the Pakistan by 3 wickets.
-
-Pakistan scored 140 runs for the bat first. Chamari, who was well-served in 48 balls, were stationed at 48 balls with a rapid innings, who had a rapid innings to defend his wicket.
-
-Subsequently, Anushka Sanjivi, who played a patient innings, scored 24 runs off 22 balls with 24 balls.
-
-Sri Lanka were elected to the end of the Asian Huntock, the sixth. There were eight women Asia Cup tournaments and this year, Sri Lanka qualified for the final.
-
-However, at all, the tournament has been completed as the Charister. India has qualified for the final and the end of 7 occasions. The Bangladesh championship was champions of Occasion of India.
-
-Since India won the first semi-finals, the final match between the Sri Lankan team and the Indian team will be held at the Dambulla International Stadium on this 28th.
-
-◼️
-
-[Data](articles/c9d4cf0d.json)
-
-[Extended Data](ext_articles/c9d4cf0d.ext.json)
 
 ---

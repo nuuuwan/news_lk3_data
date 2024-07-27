@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 11:55:19**
+As of **2024-07-27 12:08:33**
 
 ## Newspaper Stats
 
-*Scraped **37,516** Articles*
+*Scraped **37,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 2,141
 economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,345
+adaderanalk | 4,346
 tamilmirrorlk | 4,625
 dailymirrorlk | 4,733
-virakesarilk | 5,900
-adaderanasinhalalk | 6,295
+virakesarilk | 5,903
+adaderanasinhalalk | 6,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,516 (100.0%) of 37,516 articles have been extended.
+37,516 (100.0%) of 37,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### Harris tells Netanyahu ‘it is time’ to end war in Gaza
+
+*2024-07-27 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100810/harris-tells-netanyahu-it-is-time-to-end-war-in-gaza) · `en`
+
+Vice President Kamala Harris on Thursday said she urged Israeli Prime Minister Benjamin Netanyahu to reach a cease-fire deal soon with Hamas so that dozens of hostages held by the militants in Gaza since Oct. 7 can return home.
+
+Harris said she had a “frank and constructive” conversation with Netanyahu in which she affirmed Israel’s right to defend itself but also expressed deep concern about the high death toll in Gaza over nine months of war and the “dire” humanitarian situation there.
+
+With all eyes on the likely Democratic presidential nominee, Harris largely reiterated President Joe Biden’s longstanding message that it’s time to find an endgame to the brutal war in Gaza, where more than 39,000 Palestinians have died. Yet she offered a more forceful tone about the urgency of the moment just one day after Netanyahu gave a fiery speech to Congress in which he defended the war, vowed “total victory” against Hamas and made relatively scant mention of cease-fire negotiations.
+
+...
+
+[Data](articles/a425aba3.json)
+
+---
+
+### ஜனாதிபதி தேர்தலுக்கான நிதியை வழங்க திறைசேரி தயார் : நிதியமைச்சு
+
+*2024-07-27 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189501) · `ta`
+
+தேர்தல் ஆணையாளரின் கோரிக்கைக்கு அமைய ஜனாதிபதி தேர்தலுக்கான நிதியை வழங்க திறைசேரி தயாராகவுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+இவ்வாண்டுக்கான வரவு செலவுத் திட்டத்தில் தேர்தல் நடவடிக்கைகளுக்காக 10 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. பணப் புழக்கங்களுக்கிடையில் முரண்பாடு ஏற்படாத வகையில் நிதியை வெளியிடுவதற்கு பொருளாதாரம் உரிய முறையில் ஒருங்கிணைக்கப்பட்டுள்ளது.
+
+அதற்கமைய தேர்தல் ஆணையாளர் அலுவலகம் சுமார் 8 பில்லியன் ரூபா மதிப்பீட்டை அனுப்பியுள்ளது. அச்சிடுதல், பாதுகாப்பு, எரிபொருள் வாக்குப் பெட்டிகள் போன்ற எந்தவொரு அவசரத் தேவைக்கும் நிதியை வழங்க திறைசேரி தயாராக உள்ளது.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிடும் வேட்பாளர்களின் எண்ணிக்கை அதிகரித்து, மதிப்பிடப்பட்ட செலவு அதிகரித்தால், அவ்வாறான நடவடிக்கைகளுக்கான மேலதிக செலவுகளை சமாளிப்பதற்கு தற்போது நிதி இருப்பதால் பிரச்சினை இல்லை என்றார்.
+
+◼️
+
+[Data](articles/aab9ffc1.json)
+
+---
+
+### 90 சதவீத மருந்தை உள்நாட்டில் உற்பத்தி செய்ய நடவடிக்கை - சுகாதார அமைச்சர்
+
+*2024-07-27 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189492) · `ta`
+
+அடுத்த ஆண்டிலிருந்து 90 சதவீதமான மருந்தை உள்நாட்டிலேயே உற்பத்தி செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+நாட்டின் கைத்தொழில் துறையை மேம்படுத்தும் நோக்கில் பேராசிரியர் சேனக பிபிலேவினால் ஆரம்பிக்கப்பட்ட முயற்சிகளின் அடிப்படையில் உள்நாட்டில் மருந்து உற்பத்தியில் எதிர்பார்க்கப்படும் எழுச்சி கட்டியெழுப்பப்படுவதாக அமைச்சர் ரமேஷ் பத்திரன தெரிவித்தார்.
+
+அரசாங்க வைத்தியசாலைகள் மற்றும் கிளினிக்குகளில் பயன்படுத்தப்படும் அத்தியாவசிய மருந்துகளில் சுமார் 25சதவீதமான உள்நாட்டு உற்பத்தியாளர்களால் விநியோகிக்கப்படுவதாக அமைச்சர் பத்திரன சுட்டிக்காட்டினார்.
+
+◼️
+
+[Data](articles/18e5696b.json)
+
+---
 
 ### Notice on issuing new e-passports
 
@@ -84,6 +134,22 @@ The Olympic team and other team participating under the Olympic team and other t
 
 ---
 
+### அதிக விலையில் பாணை விற்பனை செய்தால் சட்டநடவடிக்கை
+
+*2024-07-27 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189495) · `ta`
+
+450 கிராம் நிறையுடைய பாண் ஒன்றின் விலை 10 ரூபாவினால் குறைக்கப்பட்டுள்ளது. இந்நிலையில், குறைக்கப்பட்ட புதிய விலையில் பாணை விற்பனை செய்யாது அதிக விலைக்கு விற்பனை செய்யும் உரிமையாளர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என நுகர்வோர் விவகார அதிகாரசபை (CAA) தெரிவித்துள்ளது.
+
+இது தொடர்பாக சோதனைகளை மேற்கொள்ளுமாறு  நுகர்வோர் விவகார அதிகார சபையின் தலைவர் டி.ஐ. உடுவார  புலனாய்வு திணைக்கள அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+இதேவேளை, ஜனவரி மாதம் முதல் தற்போது வரை சட்டப்படியான எடை மற்றும் அளவிடும் கருவிகள் மீதான சோதனையின் போது 210 பேருக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக கொழும்பு மாவட்ட உதவி அளவீட்டு அலகு தர நிர்ணய சேவை அத்தியட்சகர் தில்ருக் பட்டியாபொல தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/c5635745.json)
+
+---
+
 ### President Ranil says he predicted Sri Lanka’s economic crisis
 
 *2024-07-27 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100808/president-ranil-says-he-predicted-sri-lankas-economic-crisis) · `en`
@@ -101,6 +167,28 @@ Viewers had been provided an opportunity to ask questions from the President thr
 [Data](articles/3202fd2d.json)
 
 [Extended Data](ext_articles/3202fd2d.ext.json)
+
+---
+
+### කොලොන්න ඝාතනයේ ගිනිඅවිය සොයා ගනී
+
+*2024-07-27 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199255) · `si`
+
+කොලොන්න ප්‍රදේශයේදී පුද්ගල ඝාතනයක් සඳහා යොදාගත් විදෙස් රටක නිෂ්පාදිත රිවෝල්වර් වර්ගයේ ගිනිඅවියක් මිද්දදෙනිය මුරුන්ගස්යාය ප්‍රදේශයේ වළදමා තිබියදී සොයාගෙන තිබේ.
+
+පොලීසිය පැවසුවේ අදාළ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනෙකුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලට අනුව අපරාධ පරීක්ෂ දෙපාර්තමේන්තුව විසින් මෙම ගිනිඅවිය සොයාගෙන ඇති බවය.
+
+පසුගිය 07 වනදා රාත්‍රි කාලයේදී කොලොන්න අප්ටන්වත්ත ප්‍රදේශයේ නිවසක සිටි පුද්ගලයෙකුට යතුරුපැදියකින් පැමිණි දෙදෙනෙකු වෙඩිතබා ඝාතනයක් සිදුකර තිබුණි.
+
+සිදුකළ මූලික විමර්ශනවලදී අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනා රැඳවුම් නියෝග මත රඳවා සිදුකළ ප්‍රශ්න කිරීම්වලදී එක් සැකකරුවෙකුගේ නිවසේ වළදමා තිබියදී මෙම ගිවිඅවිය සොයා ගැනීමට හැකිවූ බව පොලීසිය පැවසීය.
+
+සිදුකළ වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත්තේ දැනට විදේශගතව සිටින සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවරම්කරුවෙකුගේ මෙහෙයවීම මත මෙම ඝාතනය සිදුකර ඇති බවය.
+
+සිද්ධිය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය විසින් පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/d2772d50.json)
 
 ---
 
@@ -146,7 +234,7 @@ Meanwhile, Colombo District Assistant Measurement Units, Standards & Services, D
 
 ### Tourist arrivals increase
 
-*2024-07-27 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189490) · `ta`
+*2024-07-27 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189490) · `ta`
 
 Sri Lanka sees a record-breaking 1 million tourists arrive in January, surpassing pre-war records. This boost follows post-war lows due to attacks, Covid-19, and an economic crisis. The Ministry of Tourism credits this success to its efforts alongside affiliated companies.
 
@@ -2127,121 +2215,5 @@ Accordingly, the court ordered to issue notice on the Chairman of the Election C
 [Data](articles/5e124450.json)
 
 [Extended Data](ext_articles/5e124450.ext.json)
-
----
-
-### Will be reduced to 38 or bring abroad
-
-*2024-07-26 15:42:00* · [`adalk`](https://www.ada.lk/breaking_news/38-ට-අඩු-කරන්න-නැත්නම්-පිටරටින්-ගේනවා/11-411019) · `si`
-
-Trade Minister Nalin Fernando announced that if local egg prices drop below Rs 38, the government will intervene to stabilize the market, emphasizing the importance of egg products' profitability.
-
-🟩
-
-Minister of Trade Nalin Fernando says that the eggs again will be taken back to the eggs again if the price of local egg products followed down to Rs 38 / -. The Minister added that the situation would be taken to control the situation as egg products earn a large profit.
-
-◼️
-
-[Data](articles/4ae54552.json)
-
-[Extended Data](ext_articles/4ae54552.ext.json)
-
----
-
-### Advice on the security heads to ensure the security of the country
-
-*2024-07-26 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199236) · `si`
-
-Defense Minister Pinhall Tennakoon has urged security officials to bolster national security, emphasizing the protection of constitutional rights and citizen safety. He highlighted the importance of decisive actions taken over the past two years to stabilize the nation through enhanced security measures and adherence to the rule of law. The meeting involved key defense figures, focusing on fortifying the armed forces and addressing ministry concerns.
-
-🟩
-
-Defense Minister Pinhall Tennakoon has instructed security heads to take all necessary steps to conduct the protection of the protection of the protection of the protection of the security of the entire country.
-
-The State Minister has instructed the Secretary to the Ministry of Defense at parliament this morning (26).
-
-The Commissioner General of Defense Staff, General Savendra Silva, and the Head of the Ministry of Defense Admiral Priyantha Perera and the Head of the Ministry of Defense and the Head of the Ministry have been summoned to the meeting.
-
-The Minister also requested all these activities to protect the basic rights of the Constitution and the basic rights of the citizens.
-
-He further stated that during the last two years, the last two years have to make serious decisions as a Ministry in the last two years and has been able to stabilize the country by reorganizing national security and the rule of law.
-
-...
-
-[Data](articles/9c6dc7d2.json)
-
-[Extended Data](ext_articles/9c6dc7d2.ext.json)
-
----
-
-### The US welcomed the presidential election
-
-*2024-07-26 15:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-வரவேற்றது-அமெரிக்கா/175-341080) · `ta`
-
-The US welcomes Sri Lanka's upcoming presidential election, emphasizing the need for an independent and fair process that allows citizens to shape their future.
-
-🟩
-
-While welcoming the presidential election, the US has said it is looking for an independent and fair election that will give Sri Lankan citizens the power to determine their future.
-
-In a post posted on the US Ambassador to Sri Lanka, Julie Chung X, “We welcome the September 21 presidential announcement issued by the Election Commission to ensure the long -term commitment to Sri Lanka's democracy.. "We are looking for an independent and fair election that empowers Sri Lankan citizens."
-
-◼️
-
-[Data](articles/799f0adb.json)
-
-[Extended Data](ext_articles/799f0adb.ext.json)
-
----
-
-### Obama expressed support for Kamala Haris
-
-*2024-07-26 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189444) · `ta`
-
-Barack Obama endorsed Kamala Harris for the US presidency, boosting her support among Democratic leaders. This endorsement, coupled with Michelle Obama's praise, highlights Harris's potential impact on American politics.
-
-🟩
-
-Former President Barack Obama has approved the US presidential election on behalf of the Kamala Haeris Democratic Party.
-
-Due to this support of Barack Obama, Kamala Haris has received the support of many of the leaders of the Janata Party, which is active in American politics.
-
-Obama has expressed his support as Bill Clinton Hari Clinton has immediately expressed his support for Kamala Haris, but Obama has not released support.
-
-Obama, along with his wife, telephoned Kamalahari and released his support and released the video.
-
-Michelle Obama said I am proud of Kamala and this is going to be a historic issue.
-
-Michelle Obama, the God of Kamalaharis, who responds to a vehicle, tells me that this is the biggest thing for me.
-
-But, after all, I would like to tell you that the words you have spoken for years and the friendship you have given me more than what I can't reveal. So thank you both
-
-◼️
-
-[Data](articles/fa80dcd3.json)
-
-[Extended Data](ext_articles/fa80dcd3.ext.json)
-
----
-
-### More details revealed on Grandpass shooting that killed two
-
-*2024-07-26 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100793/more-details-revealed-on-grandpass-shooting-that-killed-two) · `en`
-
-Police stated that the two individuals who were killed in the shooting incident in front of the ‘Puradara Sevana’ housing complex at Wadullawatte in Grandpass, Colombo have been identified as a woman known as ‘Grandpass Kudu Suneetha’ and her assistant who were allegedly involved in a large-scale drug racket.
-
-The incident had occurred while they were traveling in a three-wheeler when two unidentified gunmen had fired at them at around 5.50 p.m. last evening (25) before fleeing the scene.
-
-The woman, who was in critical condition, has succumbed to her injuries this morning (26) while being treated at the Colombo National Hospital.
-
-Police later confirmed that the driver of the three-wheeler had died at the scene.
-
-It has been reported that five gunshots had been fired at the woman, who has been identified as K. Suneetha also known as ‘Grandpass Kudu Suneetha’.
-
-...
-
-[Data](articles/e9b5b857.json)
-
-[Extended Data](ext_articles/e9b5b857.ext.json)
 
 ---

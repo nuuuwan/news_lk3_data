@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 23:35:59**
+As of **2024-07-27 23:55:29**
 
 ## Newspaper Stats
 
-*Scraped **37,582** Articles*
+*Scraped **37,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 352
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,141
-economynextcom | 2,258
+economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,419
 adaderanalk | 4,356
@@ -26,109 +26,145 @@ adaderanasinhalalk | 6,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,575 (100.0%) of 37,582 articles have been extended.
+37,582 (100.0%) of 37,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### තම ඡන්ද පොළේදී  ඡන්දය දෙන්න බයනම් වෙනත් ඡන්ද පොළක්
+### Another polling board is afless of votes at his polling booth
 
 *2024-07-27 23:06:52* · [`adalk`](https://www.ada.lk/breaking_news/තම-ඡන්ද-පොළේදී--ඡන්දය-දෙන්න-බයනම්-වෙනත්-ඡන්ද-පොළක්/11-411031) · `si`
 
-සැප්තැම්බර් 21 දා පැවැත්වෙන ජනාධිපතිවරණයේදී තමන්ට නියමිත ඡන්ද මධ්‍යස්ථානයේදී තම  ඡන්දය පාවිච්චි කිරීමට නොහැකි වෙතැයි සාධාරණ බියක් ඇති  ඡන්ද හිමියන්ට වෙනත් ඡන්ද මධ්‍යස්ථානයකට ගොස් ඡන්දය ප්‍රකාශ කිරීමට පහසුකම් සලසා ගත හැකි බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+The Elections Commission announced that voting for the presidential election will be facilitated on September 21st. They also issued directives from various offices, including the District Elections Office and the Official Election Office, ensuring smooth election processes.
 
-ඒ සඳහා වූ අයදුම්පතක් දිස්ත්‍රික් මැතිවරණ කාර්යාලයෙන්  /තේරීම් භාර නිලධාරී වෙතින් ලබාගෙන නිසි ලෙස පුරවා ප්‍රදේශයේ ග්‍රාම නිලධාරී ලවා සහතික කර    අගෝස්තු 01 දා හෝ ඊට පෙර  මැතිවරණ කොමිෂන් සභාවේ කාර්යාලය වෙත එවිය යුතු බවද මැතිවරණ කොමිෂන් සභාව මගින් ජූලි 26 දා මේ පිළිබඳව    නිකුත් කළ අති විශේෂ ගැසට් නිවේදනයක් මගින් දන්වා සිටී.
+🟩
+
+The Elections Commission announced that elections can be facilitated to vote at the presidential election in September 21st election.
+
+The Elections Commission also issued the Elections Commission from the District Elections Office / Selection Office and to the Elections Commission from the Official Election Office and the Elections Commission.Announced by an announcement.
 
 ◼️
 
 [Data](articles/441588c6.json)
 
+[Extended Data](ext_articles/441588c6.ext.json)
+
 ---
 
-### බැසිල් මස් රාත්තලම ඉල්ලයි  - හෙටත් බැසිල් හා රනිල් හමුවක්
+### Basil demands poly - Basil and Ranil meets
 
 *2024-07-27 23:04:29* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-මස්-රාත්තලම-ඉල්ලයි----හෙටත්-බැසිල්-හා-රනිල්-හමුවක්/11-411030) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ හා හිටපු අමාත්‍ය මෙන්ම පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ අතර ජනපති අපේක්ෂකත්වය හා ඉදිරියේදී ගොඩ නැගීමට නියමිත සන්ධානය පිළිබඳව දීර්ඝ සාකච්ඡාවක් පවත්වා තිබේ.
+Basil Rajapaksa and President Ranil Wickremesinghe discussed the UPFA, with disagreements over local and provincial council percentages leading to no resolution. The meeting will resume this Sunday.
 
-මෙහිදී ගොඩ නැගිමට නියමිත සන්ධානයේදී පලාත් පාලන ආයතන සදහා සියයට තිහක් පලාත් සභා සදහා සියයට තිස් පහක් හා පාර්ලිමේන්තුව සදහා සියයට හතලිහ බැගින් කෝටාවක් ශ්‍රීලංකා පොදුජන පෙරමුණට ලබා දෙන බව ජනපතිවරයා ප්‍රකාශ කර තිබේ.
+🟩
 
-මෙහිදී බැසිල් රාජපක්ෂ විසින් පළාත් පාලන ආයතන සදහා සියයට අනූවක් පාර්ලිමේන්තුව සදහා සියයට හැත්තෑවක් සහ පළාත් සභා සදහා සියයට හැත්තෑවක් ඉල්ලා ඇත. ඒ අනුව මෙම සාකච්ඡාව විසදුමකින් තොරව අවසන් ව තිබේ.
+President Ranil Wickremesinghe and former Minister of President Ranil Wickremesinghe and former Minister Basil Rajapaksa have held a lengthy discussion on the UPFA.
 
-අතර මේ ඉරිදා නැවත ජනාධිපතිවරයා හා බැසිල් රාජපක්ෂ හමුවීමට නියමිතය.
+The President has stated that thirty percent of the local government bodies will be given to the Sri Lanka Appointment Forty to five percent for the provincial councils.
+
+Basil Rajapaksa has asked for seven percent for local government bodies and asked for seven percent of the parliamentary councils. Accordingly, the discussion has ended without solution.
+
+The President and Basil Rajapaksa will be taken back to this Sunday.
 
 ◼️
 
 [Data](articles/f0a3489c.json)
 
+[Extended Data](ext_articles/f0a3489c.ext.json)
+
 ---
 
-### இலங்கை கல்வி முறையில் பாரிய மாற்றம் - வெளிவந்த செய்தி
+### Massive change in Sri Lanka's educational system
 
 *2024-07-27 23:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கல்வி-முறையில்-பாரிய-மாற்றம்-வெளிவந்த-செய்தி/175-341124) · `ta`
 
-கல்வி சீர்திருத்த முன்மொழிவு தொடர்பில் 2025ஆம் ஆண்டின் முதல் தவணை முதல்  பாடசாலை தரங்களின் எண்ணிக்கையை 13 இலிருந்து 12 ஆக குறைக்கப்படும் என கல்வி அமைச்சு தெரிவித்துள்ளது.
+Sri Lanka's educational reform reduces the first installment from 2025 to 13-12 years, allowing students to finish schooling by 17. The 5th grade scholarship exam will simplify grading, and the GCE Ordinary Level subjects will decrease from 9 to 7.
 
-அத்துடன் மாணவர்கள் 17 வயதிற்குள் பாடசாலை கல்வியை முடிக்க முடியும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இவற்றுள் 5ஆம் தர புலமைப்பரிசில் பரீட்சையில் பாடசாலை மதிப்பீடுகளுக்கு புள்ளிகளையும் பரீட்சைகளுக்கு குறிப்பிட்ட சதவீத புள்ளிகளையும் வழங்கி பரீட்சையை இலகுபடுத்தவும் முன்மொழியப்பட்டுள்ளது.
+The first installment of the educational reform will be reduced from 2025 to 13 to 12, the Ministry of Education said.
 
-மேலும், கல்வி பொதுத்தராதர சாதாரண தர தேர்விற்கான பாடங்களை 9 இல் இருந்து 7 ஆக குறைக்கப்பட உள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+It is also reported that students can complete school education by the age of 17.
+
+Of these, the 5th grade scholarship examination has been proposed to ease the exam by awarding school estimates and certain percentage points for exams.
+
+In addition, the subjects for the GCE Ordinary Level Examination will be reduced from 9 to 7. Remble
 
 ◼️
 
 [Data](articles/f3f7fc3d.json)
 
+[Extended Data](ext_articles/f3f7fc3d.ext.json)
+
 ---
 
-### යුරෝපා කවුන්සිලය එල්.ටී.ටී.ඊ. තහනම දිගු කරයි
+### European Council. Will extend the ban
 
 *2024-07-27 22:55:49* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපා-කවුන්සිලය-එල්-ටී-ටී-ඊ--තහනම-දිගු-කරයි/11-411029) · `si`
 
-යුරෝපා  කවුන්සිලය විසින් එල්.ටි.ටී.ඊ. සංවිධානයට පනවා ඇති තහනම තවත් මාස 6කට දිගු කිරිමට එම කවුන්සිලය කටයුතු කර තිබේ.
+The European Council plans to extend its ban on the LTTE for another six months, preventing the group from fundraising within EU countries and freezing their assets.
 
-මෙම තහනම් කිරීමත් සමග එල්.ටී.ටී.ඊ. සංවිධානයට යුරෝපා සංගමයේ රටවල් අතර මුදල් එක් රැස් කිරීමට අවස්ථාව නොලැබෙන අතර ඔවුන් සතු වත්කම් ඇත්නම් ඒවාද තහනම් වෙනු ඇත.
+🟩
+
+The European Council by LTTE. The Council has taken steps to extend its ban on the organization another six months.
+
+LTTE terrorists were banned. The organization will not be able to collect money among the European Union countries and they will be prohibited if they have their assets.
 
 ◼️
 
 [Data](articles/6e1bb02c.json)
 
+[Extended Data](ext_articles/6e1bb02c.ext.json)
+
 ---
 
-### ඉන්දියාවට සුපිරි ජයක්
+### India beat India
 
 *2024-07-27 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199280) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර අද (27) පැවැති පළමු 20යි 20 ක්‍රිකට් තරගය ලකුණු 43කින් ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත් විය.
+In the first T20 match of a tri-series involving India and Sri Lanka, India triumphed by 43 runs. Batting first after losing the toss, India made 213/7 in 20 overs, led by Surkumar Yadav's 58 and Rishabh Pant's 49. Mathera Pathirana was the standout bowler for Sri Lanka with 4 wickets. In pursuit, Sri Lanka fell short at 170/10 in 18.6 overs, despite Wishesi Nissanka's 79.
 
-තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඉන්දීය කණ්ඩායමට ලබාදීමටය.
+🟩
 
-ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 213ක් රැස් කළේය.
+India won the first 20 and T20 to win the first 20 Tripe against Sri Lanka by 43 runs.
 
-එහිදී ඉන්දීය කණ්ඩායම වෙනුවෙන් සූර්යකුමාර් යාදව් ලකුණු 58ක් රැස්කළ අතර රිෂාබ් පාන්ට් ලකුණු 49ක් රැස්කළේය.
+Sri Lanka won the toss and elected to the Indian team to be attacked first.
 
-පන්දු යැවීමේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් මතීෂ පතිරණ කඩුලු 4ක් දවාගත්තේය.
+Accordingly, the Indian team scored 213 runs for the loss of 7 wickets at the end of 20 overs.
 
-ඒ අනුව ලකුණු 214ක ඉලක්කයක් හඹාගිය ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දු ඕවර 19යි පන්දු 02ක දී සියලුදෙනා දැවී රැස්කරගත හැකි වුයේ ලකුණු 170ක් පමණි.
+Surkumar Yadu scored 58 runs for the Indian team and Rishab Lain scored 49 runs.
 
-ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් අගනා පිතිහරඹයක නිරත වූ පැතුම් නිස්සංක ලකුණු 79ක් රැස්කළේය.
+Mathera Pathirana took 4 wickets for Sri Lanka.
+
+Chasing a target of 214, Sri Lanka were bowled out for 170 runs in 198 balls.
+
+Wishesi Nissanka scored 79 runs for the Sri Lankan team.
 
 ◼️
 
 [Data](articles/55bcceac.json)
 
+[Extended Data](ext_articles/55bcceac.ext.json)
+
 ---
 
-### பாராளுமன்ற நுழைவு வீதி மூடப்பட்டது
+### Parliamentary Entry Street closed
 
 *2024-07-27 22:41:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-நுழைவு-வீதி-மூடப்பட்டது/175-341123) · `ta`
 
-இன்று (27) மாலை வீதியில் முறிந்து வீழ்ந்த மரமொன்றை அகற்றும் போது அந்த வீதியில் பயணித்த  கார் மரத்துடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+A car crashed into a tree after one was removed from Parliamentary Entry Street tonight.
+
+🟩
+
+A car traveling on the road collided with a tree when a tree was removed from the road this evening.
 
 ◼️
 
 [Data](articles/794461c0.json)
+
+[Extended Data](ext_articles/794461c0.ext.json)
 
 ---
 
@@ -240,19 +276,25 @@ Meanwhile, Presidential Chief of Staff Sunala Ratnayake and Minister Susil Prema
 
 ---
 
-### ඉන්දියාව ලකුණු 214ක් රැස් කරයි
+### India gathers 214 runs
 
 *2024-07-27 21:16:34* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාව-ලකුණු-214ක්-රැස්-කරයි/9-411027) · `si`
 
-ඉන්දියාව හා ශ්‍රී ලංකාව අතර පල්ලෙකැලේ පිටියේ  පැවැත්වෙන පළමු විස්සයි20 තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම කඩුලු 7ට ලකුණු 213ක් රැස්කරමින් ලංකාවට ලකුණු 214 දැවැන්ත ඉලක්කයක් ලබාදුන්නේය.
+In a cricket match, India scored 213 runs against Sri Lanka at the Pallekele International Cricket Stadium. Despite this, Sri Lanka managed to surpass India's total with 214 runs. The Indian bowlers struggled, with Pathirana taking 4 wickets for 40 runs in 4 overs.
 
-මෙහිදි ඉන්දීය මුල්පෙළ පිතිකරුවන් ශ්‍රි ලංකා පන්දු යවන්නන්ට දිගට හරහට පහරදෙමින් රිසි සේ ලකුණු රැස් කිරීමට සමත් විය.
+🟩
 
-පන්දු යැවිමේදී ශ්‍රි ලංකාව වෙනුවෙන් මතීෂ පතිරණ පන්දුවාර 4කදී ලකුණු 40ට කඩුලු 4ක් දවා ගත්තේය.
+India scored 213 runs for Sri Lanka 214 in Sri Lanka with a large number of 214 runs in the Pallekele Twenty Ground.
+
+The Indian Stock batsmen were able to score the Indian bowlers to the bowlers.
+
+Visitor Pathirana took 4 wickets for 40 runs in 4 overs.
 
 ◼️
 
 [Data](articles/d5558bb2.json)
+
+[Extended Data](ext_articles/d5558bb2.ext.json)
 
 ---
 
@@ -355,6 +397,24 @@ The BBC reports that there will be videos that can be confirmed by the confusion
 [Data](articles/fb54f93f.json)
 
 [Extended Data](ext_articles/fb54f93f.ext.json)
+
+---
+
+### Sri Lanka president announces his intention to contest polls
+
+*2024-07-27 20:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-announces-his-intention-to-contest-polls-174096/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president Ranil Wickremesinghe has announced his intention to contest in the upcoming presidential election. Earlier in the day he had announced his candidacy at a rally in Galle.
+
+“With a clear vision and unwavering determination to elevate our nation on the global stage and transform it into a prosperous and thriving country, I am proud to announce my candidacy for the upcoming presidential election,” Wickremesinghe said on social media platform X (twitter).
+
+A representative on Friday paid the candidate’s deposit for Wickremesinghe who will be contesting as an independent candidate.
+
+“In a time when our nation was in chaos and on the brink of bankruptcy, it was my love for this country and its people that drove me to take on the arduous task of rebuilding it. United with the strength and resilience of our people, we overcame financial ruin and restored normalcy to our daily lives.
+
+...
+
+[Data](articles/c797da7c.json)
 
 ---
 
@@ -2183,29 +2243,5 @@ The police arrested him and investigated him. He said that he sold the cell phon
 [Data](articles/2a5f0b2a.json)
 
 [Extended Data](ext_articles/2a5f0b2a.ext.json)
-
----
-
-### Terrorist Investigation Division Investigations
-
-*2024-07-26 23:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189486) · `ta`
-
-The priest of the Adi Lingeshwarar Temple in Vavuniya visited the local Terrorism Intelligence Unit office for questioning regarding the Vedukkunni Temple. This visit comes after the priest was previously arrested and released amid a dispute involving the temple and the police during the Shivaratri celebration.
-
-🟩
-
-The Vavuniya Office of the Terrorism Intelligence Unit has been investigated by the priest of the Adi Lingeshwarar Temple in Vavuniya.
-
-On Friday, the 25th, Madhimukarasa had visited the Vavuniya office of the Terrorist Investigation Unit of the Terrorism Intelligence Unit to come to the Terrorist Intelligence Unit located in Vavuniya on Friday the 25th.
-
-It is reported that he was questioned by various issues relating to the Vedukkunni Temple.
-
-It is noteworthy that the temple priest was among those who were arrested by the police and released by the court during a controversy between the police and the public during the worship of the Adi Lingeshwarar Temple at the Adi Lingeshwarar Temple on the last Shivaratri day.
-
-◼️
-
-[Data](articles/f452bc5e.json)
-
-[Extended Data](ext_articles/f452bc5e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 22:20:36**
+As of **2024-07-27 22:35:55**
 
 ## Newspaper Stats
 
-*Scraped **37,574** Articles*
+*Scraped **37,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 4,356
 tamilmirrorlk | 4,632
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,317
+adaderanasinhalalk | 6,318
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,573 (100.0%) of 37,574 articles have been extended.
+37,574 (100.0%) of 37,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### පොල්දුව මංසන්ධියේ ගමනාගමනයට බාධා
+
+*2024-07-27 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199279) · `si`
+
+ඒ අද (27) පස්වරුවේ එම මාර්ගය ට කඩාවැටුණු ගසක් ඉවත්කරමින් සිටියදී මාර්ගයේ ධාවනය වූ මෝටර් රථයක් එම ගසේ ගැටී අනතුරක් සිදුවීම හේතුවෙනි.
+
+එම අනතුරින් මෝටර් රථයට දැඩි අලාභ හානි වී තිබූ අතර එහි රියදුරා රෝහල්ගත කෙරුණි.
+
+එම ගස ඉවත් කිරීමේ කටයුතු මේ වනවිටත් ක්‍රියාත්මක බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/9cfbfa95.json)
+
+---
 
 ### NPP aims to establish govt. with trust of all communities – Anura Kumara
 
@@ -45,6 +61,8 @@ Speaking further, the NPP Leader said: “The NPP must establish a government th
 ...
 
 [Data](articles/3719fb2f.json)
+
+[Extended Data](ext_articles/3719fb2f.ext.json)
 
 ---
 
@@ -2217,29 +2235,5 @@ However, Samari Athapathu and Anushka Sanjeevani shared 42 runs in the 5th wicke
 [Data](articles/686821f8.json)
 
 [Extended Data](ext_articles/686821f8.ext.json)
-
----
-
-### Women’s Asia Cup: Sri Lanka beat Pakistan to set up final with India
-
-*2024-07-26 22:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100803/womens-asia-cup-sri-lanka-beat-pakistan-to-set-up-final-with-india) · `en`
-
-Sri Lanka women’s cricket team defeated Pakistan by three wickets in the second semi-final of the Women’s T20 Asia Cup 2024 which was played at Rangiri Dambulla International Stadium on Friday.
-
-The hosts chased down the 141-run target in the last over which was bowled by Pakistan’s skipper Nida Dar.
-
-Sri Lanka needed three off six balls in the last over but Dar’s impressive display made it somewhat difficult for the home side. However, the Pakistani skipper ended up bowling a wide ball which changed the game in the hosts’ favour.
-
-During their chase, Sri Lanka suffered initially as they lost two of their batters Vishmi Gunaratne and Harshitha Samarawickrama and were 19-2 in just four overs.
-
-However, skipper Chamari Athapaththu played a leader’s knock which guided Sri Lanka near to victory. She scored 63 runs on 48 balls with 10 boundaries.
-
-Down the order, Anushka Sanjeewani provided crucial 24 runs and the Islanders chased the target with one ball to spare.
-
-...
-
-[Data](articles/d080ffbf.json)
-
-[Extended Data](ext_articles/d080ffbf.ext.json)
 
 ---

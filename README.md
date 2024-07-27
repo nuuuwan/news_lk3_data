@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 17:05:32**
+As of **2024-07-27 17:20:40**
 
 ## Newspaper Stats
 
-*Scraped **37,547** Articles*
+*Scraped **37,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,95 @@ islandlk | 2,141
 economynextcom | 2,256
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,351
+adaderanalk | 4,353
 tamilmirrorlk | 4,627
 dailymirrorlk | 4,733
 virakesarilk | 5,906
-adaderanasinhalalk | 6,308
+adaderanasinhalalk | 6,309
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,546 (100.0%) of 37,547 articles have been extended.
+37,547 (100.0%) of 37,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### නිදහසේ ක්‍රීඩා කරන්න පරිසරයක් හදන්න ඕනේ - චරිත් අසලංක
+### Ranil Wickremesinghe confirms presidential candidacy
+
+*2024-07-27 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100819/ranil-wickremesinghe-confirms-presidential-candidacy-) · `en`
+
+President Ranil Wickremesinghe today confirmed that he will contest the upcoming Presidential Election, while addressing a public meeting being held in Galle, a short while ago.
+
+Furthermore, the President mentioned that he has already placed the deposit to contest the 2024 Presidential Election.
+
+On Friday (26), President’s Counsel Ronald Perera placed bonds on behalf of President Wickremesinghe to contest the presidential polls as an independent candidate.
+
+◼️
+
+[Data](articles/4d2e6392.json)
+
+---
+
+### ජනපතිවරණයට ඉල්ලන බව රනිල් පළමු වරට කියයි
+
+*2024-07-27 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199270) · `si`
+
+තමා ඉදිරි ජනාධිපතිවරණයට තරග කරන බවත් ඊට අදාළව දැනටමත් ඇප මුදල් තැන්පත් කර අවසන් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (27) පස්වරුවේ ප්‍රකාශ කළේය.
+
+ඒ, ගාල්ලේ අද පැවැත්වෙන එක්ව ජයගමු ගාලු දිස්ත්‍රික් ජන සමුළුවේදීය.
+
+◼️
+
+[Data](articles/1378318c.json)
+
+---
+
+### Ward Place murder: Youth stabbed by drug addicts during mobile phone robbery?
+
+*2024-07-27 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100818/ward-place-murder-youth-stabbed-by-drug-addicts-during-mobile-phone-robbery-) · `en`
+
+More details have been revealed regarding the incident where a man was found stabbed to death with sharp weapons inside a parked three-wheeler at Ward Place in Colombo on July 23, following the interrogation of the arrested suspects.
+
+Two suspects were arrested by the Colombo Crimes Division (CCD) in connection with the incident. The suspects were apprehended following an extensive investigation by several police units, including the Organized Crime Investigation Unit of the CCD.
+
+The breakthrough came through the analysis of CCTV footage, which led officers to arrest the suspects on July 26, during a search operation at Samagi Mawatha, Grandpass.
+
+The suspects, aged 35 and 48, are residents of Gonawila and Grandpass, according to police.
+
+Upon their arrest, authorities found 30 grams and 200 milligrams of crystal methamphetamine, commonly known as ‘Ice’, in their possession.
+
+...
+
+[Data](articles/1471c23c.json)
+
+---
+
+### You need to create an environment for freely - Charith
 
 *2024-07-27 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199269) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් රැසක් සිදුකිරීමට තමා බලාපොරොත්තු නොවන බව ශ්‍රී ලංකා කණ්ඩායමේ නව නායක චරිත් අසලංක පවසයි.
+New Sri Lankan leader Charith aims to foster an environment where players can perform freely without significant changes to the team. He expressed his commitment to allowing players to play without restrictions during a press conference, emphasizing the importance of preparation and identifying talented players for future success.
 
-එහිදී ඔහු පවසා සිටියේ, නිදහසේ ක්‍රීඩා කරන පරිසරයක් කණ්ඩායම තුළ ඇති කිරීම තමාගේ බලාපොරොත්තුව බවය.
+🟩
 
-ක්‍රීඩකයන් නිදහස් මාසිකත්වයෙන් ක්‍රීඩා කරනවා දැකීම තම කැමැත්ත බවත් චරිත් අසලංක තවදුරටත් සඳහන් කළේය.
+Sri Lanka's new leader Charith Says that he is not expected to conduct many changes in the Sri Lankan team.
 
-ඉන්දියාව සහ ශ්‍රී ලංකාව අතර අද (27) පැවැත්වෙන තරගයට පෙර මාධ්‍ය හමුවකට එක්වෙමින් ශ්‍රී ලංකා කණ්ඩායමේ නායක චරිත් අසලංක ඒ බව සඳහන් කළේය.
+He said that it was his hope to create an environment where the environment played freely played.
 
-"ඇත්තටම කණගාටුයි මගේ කණ්ඩායමේ ක්‍රීඩකයෝ දෙදෙනෙක් ආබාධයට ලක්වීම. ඒ වගේ දේවල් වෙනවා. හැබැයි ඊට පස්සේ එන දේවල්වලට මුහුණ දෙන්න නායකයෙක් විදිහට මම සූදානම් වෙලා ඉන්න ඕනේ. මම හිතනවා LPL ගහපු එක ලොකු චාන්ස් එකක් කියලා. මොදක අපි දන්නවා ෆෝම් එකේ හිටිය ක්‍රීඩාකයෝ කවුද කියලා. කණ්ඩායමේ ආරම්භක පිතිකරුවෝ 04ක් ඉන්නවා."
+Charith Simply said that it is his willingness to play players free of charge.
+
+He was speaking at a press conference between India and Sri Lanka today (27) at a media briefing.
+
+"Really sorry, two players of my group were subjected to the disorder. Things like that. But then I have to prepare for the next time. I hope the LPL is a big chancer. Modaka knows who was the players in the Form. There are four opening batsmen. "
 
 ◼️
 
 [Data](articles/1763c272.json)
+
+[Extended Data](ext_articles/1763c272.ext.json)
 
 ---
 
@@ -2159,77 +2215,5 @@ As the President of the Constitutional Council, the current crises are due
 [Data](articles/99ccd678.json)
 
 [Extended Data](ext_articles/99ccd678.ext.json)
-
----
-
-### Wijedasa Rajapaksa is not our candidate - the Sri Lanka Freedom Party
-
-*2024-07-26 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/189455) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) has clarified that Wijedasa Rajapaksa is not their candidate for the upcoming elections. They are yet to decide on supporting any specific candidate, including Sajith Premadasa. A special meeting is scheduled to discuss the party's stance and potential candidates. The SLFP emphasizes the importance of making informed decisions for the country and the party's future, highlighting the need for unity and strategic planning.
-
-🟩
-
-The reality is that there is no Sri Lanka Freedom Party (SLFP) as it can win a candidate. At the same time we do not decide to support Sajith Premadasa. Freedom Party General Secretary Dayasiri Jayasekara said that we will not present Wijeyadasa Rajapaksa as a candidate.
-
-Dayasiri Jayasekara said that a special discussion will be held at Dali Road, Colombo, at 11 am on Friday (26).
-
-He further stated that when he inquired about the SU resolution in the presidential election, he said.
-
-A candidate has not been elected to the Sri Lanka Freedom Party (SLFP). Have to make a decision on whom to highlight. I have invited organizers and volume organizers a discussion. We will talk to them and other members and make a resolution.
-
-In addition, the SLFP has not taken any decision to support any candidate who has announced the election.. We will take a decision on the country and the future of the party.
-
-...
-
-[Data](articles/d943e000.json)
-
-[Extended Data](ext_articles/d943e000.ext.json)
-
----
-
-### Speaker should not allow the conflict between the Parliament and the Court - Rauf Hakeem
-
-*2024-07-26 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189464) · `ta`
-
-Rauf Hakeem warns against conflicts between Parliament and Court, urging understanding and action against potential conspiracies by the President to manipulate the police force and create division.
-
-🟩
-
-The president is trying to carry out any conspiracy by keeping the police chancellor he needs. Similarly, they seek to create a conflict between the Parliament and the Court.Do not accommodate for that. Sri Lanka Muslim Congress leader Rauf Hakeem said that it should understand and act.
-
-In response to the Prime Minister's special speech on the appointment of a Inspector General of Police on Friday (26) in Parliament.
-
-The Prime Minister expresses the notion that the Constitutional Council is part of Parliament. But in this council, the president had previously discussed that the Constituent Assembly was part of the Executive Department. Therefore, the government should stop making the objective of it.
-
-Speaker, someone who has appointed all of us to protect all our members. So all of us have the responsibility to protect the Speaker.
-
-...
-
-[Data](articles/10a40208.json)
-
-[Extended Data](ext_articles/10a40208.ext.json)
-
----
-
-### Four candidates place cash deposits for Sri Lanka’s presidential election
-
-*2024-07-26 19:05:00* · [`economynextcom`](https://economynext.com/four-candidates-place-cash-deposits-for-sri-lankas-presidential-election-174027/) · `en`
-
-ECONOMYNEXT — Four presidential candidates have paid their cash deposits for Sri Lanka’s 2024 presidential election, the country’s election commission said.
-
-Former Deputy Minister Sarath Keerthirathne was the first to make his deposit soon after the announcement by the commission that the election would be held on September 21.
-
-He was followed by President Ranil Wickremesinghe, activist Oshala Herath and businessman A S P Liyanage.
-
-With the exception of Liyanage, who is contesting from the SRi Lanka Workers’ Party, all presidential hopefuls so far will face the electorate as independent candidates.
-
-The election commission said Friday July 26 that Sri Lanka’s presidential election will be held on September 21, 2024, with nominations to be accepted till August 15.
-
-...
-
-[Data](articles/950c7fcc.json)
-
-[Extended Data](ext_articles/950c7fcc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 20:35:48**
+As of **2024-07-27 20:54:29**
 
 ## Newspaper Stats
 
-*Scraped **37,564** Articles*
+*Scraped **37,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,258
 dailyftlk | 2,405
 adalk | 3,414
 adaderanalk | 4,354
-tamilmirrorlk | 4,628
+tamilmirrorlk | 4,629
 dailymirrorlk | 4,733
 virakesarilk | 5,908
 adaderanasinhalalk | 6,315
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,563 (100.0%) of 37,564 articles have been extended.
+37,564 (100.0%) of 37,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### රනිල්ට සහාය දෙමින් එක්වූ පිරිස මෙන්න
+### Here are the people who joined Ranil
 
 *2024-07-27 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199276) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (27) සංවිධානය කර තිබූ රැලියට අමාත්‍යවරුන් වන ටිරාන් අලස්, ප්‍රසන්න රණතුංග, රමේෂ් පතිරණ, මනුෂ නානායක්කාර, රාජ්‍ය අමාත්‍යවරුන් වන චාමර සම්පත් දසනායක, ගීතා කුමාරසිංහ ඇතුළු පිරිසක් එක්වී තිබේ.
+Ranil Wickremesinghe, accompanied by ministers and state ministers including Tiran Alles and Prasanna Ranatunga, declared his candidacy for the upcoming presidential election at a rally organized by "Jaya Gingum" in Galle. Notable attendees included UNP Deputy Leader Ruwan Wijewardena, former Parliamentarian Mahindananda Aluthgamage, and SEC member Sihily Federation.
 
-ගාල්ල ප්‍රදේශයේදී "එක්ව ජයගමු" යන මැයෙන් මෙම ජන රැලිය සංවිධානය කර තිබුණි.
+🟩
 
-මීට අමතරව එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක රුවන් විජයවර්ධන, හිටපු පුරපතිනී රෝසි සේනානායක, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන මහින්දානන්ද අලුත්ගමගේ, වජිර අබේවර්ධන සහ සමගි ජන බලවේගය පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ඉෂාක් රහුමාන් මහතා ද එම ජනරැළිය හා එක්වී ඇත.
+Ministers Tiran Alles, Prasanna Ranatunga, Ramesenna Ranatunga, Ramesh Annayake, Manora Sampath Dasaratunga, State Ministers Chamara Sampath Dasaratunga, State Ministers, has joined the declaration of President Ranil Wickremesinghe.
 
-එම රැලියේදී තමා ඉදිරි ජනාධිපතිවරණය සඳහා තරග කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  නිල වශයෙන් ප්‍රකාශයට පත් කළේය.
+The rally was organized by the "Jaya Gingum 'in Galle.
 
-මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ ඊට අදාළව තමන් ඊයේ දිනයේ දී ඇප තැන්පත් කිරීම ද සිදුකළ බවය.
+In addition, UNP Deputy Leader Ruwan Wijewardena, former Chamber of Parliament Mahindananda Aluthgamage, Vajira Abeywardena and Sihily Federation (SEC) are also present.
+
+President Ranil Wickremesinghe officially announced that he would contest the next presidential election at the rally.
+
+President Ranil Wickremesinghe said that he was deposited on the date yesterday.
 
 ◼️
 
 [Data](articles/4d9c36a4.json)
+
+[Extended Data](ext_articles/4d9c36a4.ext.json)
 
 ---
 
@@ -311,6 +317,20 @@ During his behalf of former President Mahinda Rajapaksa, President Mahinda Rajap
 [Data](articles/398ed987.json)
 
 [Extended Data](ext_articles/398ed987.ext.json)
+
+---
+
+### கட்டுப்பணத்தை கட்டிவிட்டேன் : ரணில்
+
+*2024-07-27 17:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கட்டுப்பணத்தை-கட்டிவிட்டேன்-ரணில்/46-341108) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடப் போவதாகவும், அதற்கான கட்டுப் பணத்தை ஏற்கனவே கட்டியுள்ளதாகவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+காலி மாநகர சபை மைதானத்தில் தற்போது இடம்பெற்று வரும் “ஒன்றாக வெல்வோம் – காலியில் நாம்” பொதுக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/51f85f4a.json)
 
 ---
 
@@ -2229,25 +2249,5 @@ Elections Commission not to announce the announcement of the presidential electi
 [Data](articles/08dfe83c.json)
 
 [Extended Data](ext_articles/08dfe83c.ext.json)
-
----
-
-### Sri Lanka’s key Tamil party won’t field candidate; will back one after assessment: MP
-
-*2024-07-26 21:11:00* · [`economynextcom`](https://economynext.com/sri-lankas-key-tamil-party-wont-field-candidate-will-back-one-after-assessment-mp-174033/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s main ethnic Tamil minority party Ilankai Thamil Arasuk Katchi (ITAK) will not field its own candidate for the upcoming September 25 presidential candidate, but it will back the candidate who will have a manifesto that will have a solution for power devolution among many others, the party officials said.
-
-ITAK has a strong say in the island nation’s ethnic Tamil minority dominating North and East where the voters in the past have backed the candidate decided by ITAK-led Tamil National Alliance (TNA).
-
-M. A. Sumanthiran, an ITAK legislator said the part has already had discussions with opposition leader Sajith Premadasa and Marxists Janatha Vimukthi Peremuna (JVP) leader Anura Kumara Dissanayaka.
-
-“President Wickremesinghe has only announced his candidacy today. So will also be discussing with him and we will decide after careful consideration,” Sumanthiran told reporters at a media briefing in Colombo on Friday (25).
-
-...
-
-[Data](articles/8c522ab8.json)
-
-[Extended Data](ext_articles/8c522ab8.ext.json)
 
 ---

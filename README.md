@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 07:48:28**
+As of **2024-07-27 08:23:08**
 
 ## Newspaper Stats
 
-*Scraped **37,502** Articles*
+*Scraped **37,504** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 328
-colombotelegraphcom | 351
+colombotelegraphcom | 352
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,141
@@ -20,17 +20,37 @@ adaderanalk | 4,339
 tamilmirrorlk | 4,624
 dailymirrorlk | 4,733
 virakesarilk | 5,898
-adaderanasinhalalk | 6,291
+adaderanasinhalalk | 6,292
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,500 (100.0%) of 37,502 articles have been extended.
+37,502 (100.0%) of 37,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### ත්‍රිරෝද රථයක් තුළ සිදුකළ ඝාතනයේ සැකකරුවන් අත්අඩංගුවට
+
+*2024-07-27 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199253) · `si`
+
+කුරුඳුවත්ත වෝඩ් පෙදෙසේ දී පසුගිය 23 වනදා ත්‍රිරෝද රථයක් තුළ තියුණු ආයුධයකින් පහර දී පුද්ගලයෙකු ඝාතනය කිරීම සම්බන්ධයෙන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (26) ග්‍රෑන්ඩ්පාස්, සමගි මාවත ප්‍රදේශයේ දී කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් සිදුකළ සෝදිසි මෙහෙයුමක දී මෙම සැකකරුවන් දෙදෙනා ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටිය දී අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් 35 හා 48 වයස්වල පසු වන ගෝනවිල හා ග්‍රෑන්ඩ්පාස් යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+එහිදී එක් සැකකරුවෙකු සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 30 යි මිලි ග්‍රෑම් 200ක් ද සොයාගෙන ඇත.
+
+ඝාතනයට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර කොළඹ අපරාධ කොට්ඨාසය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/176b82ee.json)
+
+---
 
 ### A red announcement from the weather
 
@@ -57,6 +77,22 @@ Meanwhile, several showers will occur at times in the Kandy and Nuwara Eliya dis
 [Data](articles/3758563e.json)
 
 [Extended Data](ext_articles/3758563e.ext.json)
+
+---
+
+### Chavakachcheri Hospital Saga: The Tip Of The Iceberg Of A Broken & Outdated Health System – Part II
+
+*2024-07-27 02:25:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/chavakachcheri-hospital-saga-the-tip-of-the-iceberg-of-a-broken-outdated-health-system-part-ii/) · `en`
+
+In Sri Lanka, 95% of physicians and staff are duty-conscious and have been doing their work diligently, even with the constrained environment and limited resources. However, the exiting system has been in place for over a century and the outdated concept with focus on centralized hospital-based health system is showing cracks.
+
+In the 80s, I recall a cartoon in the Island newspaper captioned with the newspaper, stating “Sri Lanka has the best telecommunication system” -Minister of Telecommunication. The picture showed a man talking to himself looking at the phone: “I want to congratulate the minister, but this damn thing is out of order”
+
+Now, about the health system in Sri Lanka, first thing comes to the news is that the Health Minister is in jail for corruption of illegal procurement. However, recently, it’s all about the misdeeds, competing behaviors and name calling with health care workers Strike En-Masse in Chavakacheri is the leading news.
+
+...
+
+[Data](articles/1624ffde.json)
 
 ---
 
@@ -126,19 +162,25 @@ The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran P
 
 ---
 
-### ’ஆதரவளித்த சகல அரசியல் கட்சிகளுக்கும் நன்றி’
+### Thanks to all political parties supported
 
 *2024-07-27 00:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவளித்த-சகல-அரசியல்-கட்சிகளுக்கும்-நன்றி/175-341103) · `ta`
 
-நாட்டின் பொருளாதாரத்தை சரியான பாதையில் வழிநடத்தும் பொருளாதார பரிமாற்ற சட்டமூலத்தை நிறைவேற்றுவதற்கு ஆதரவளித்த அனைத்து அரசியல் கட்சிகளுக்கும் நன்றி தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, இந்தத் திட்டத்தை தொடர்ந்து முன்னெடுத்துச் செல்வதற்கு ஒன்றிணையுமாறு சகல அரசியல் கட்சிகளுக்கும் அழைப்பு விடுத்தார்.
+President Ranil Wickremesinghe thanked political parties supporting the Economic Transfer Bill, crucial for guiding the country's economy. He emphasized the bill's importance in establishing a digital and green export-based economy, highlighting the "Digital Economic Strategy 2030" program aimed at digitalizing the country. This initiative, in collaboration with the Ministries of Education and Technology, aims to equip schools with smart classrooms and support over a million micro, small, and medium entrepreneurs through a QR index program. The project's launch marked the beginning of its implementation in the Kegalle district, distributing smart classroom equipment to schools and sectors, marking the President's first visit to Rambukkana Parakrama Vidyalaya, which received enthusiastic responses from students.
 
-நாட்டில் ஏற்றுமதி சார்ந்த டிஜிட்டல் மற்றும் பசுமைப் பொருளாதாரத்தை கட்டியெழுப்புவதற்கு தேவையான நிர்வாக மற்றும் நிறுவன ரீதியான கட்டமைப்பை இந்த சட்டமூலத்தில் உள்ளடக்கியுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-கல்வி மற்றும் தொழில்நுட்ப அமைச்சுக்கள் இணைந்து செயற்படுத்தும் “டிஜிட்டல் பொருளாதார மூலோபாயம் 2030” வேலைத்திட்டத்தின் கீழ் பாடசாலைகள் மற்றும் பிரிவெனாக்களுக்கு ஸ்மார்ட் வகுப்பறை உபகரணங்களை வழங்கும் நிகழ்வு நேற்று (26) ரம்புக்கன பராக்கிரம மகா வித்தியாலயத்தில் நடைபெற்றது. இந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe thanked all the political parties who supported the Economic Transfer Bill that guided the country's economy on the right path and called on all political parties to continue the project.
+
+The President also pointed out that the bill includes the administrative and institutional structure required to build an export -based digital and green economy in the country.
+
+Under the "Digital Economic Strategy 2030" program, which is co -operating with the Ministries of Education and Technology, the event was held at the Rambukana Parakrama Maha Vidyalaya yesterday (26th) to provide smart classroom equipment to schools and sectors.. President Ranil Wickremesinghe made this statement while addressing the event.
 
 ...
 
 [Data](articles/3567a91d.json)
+
+[Extended Data](ext_articles/3567a91d.ext.json)
 
 ---
 
@@ -821,6 +863,8 @@ During his two years in office, Mr. Wickremesinghe has vowed to rebuild the coun
 ...
 
 [Data](articles/074da3e3.json)
+
+[Extended Data](ext_articles/074da3e3.ext.json)
 
 ---
 
@@ -2207,47 +2251,5 @@ As a result, train services have been affected and about 800,000 train passenger
 [Data](articles/42fe80e8.json)
 
 [Extended Data](ext_articles/42fe80e8.ext.json)
-
----
-
-### French train lines hit by ‘malicious acts’ ahead of Olympics opening ceremony
-
-*2024-07-26 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/100792/french-train-lines-hit-by-malicious-acts-ahead-of-olympics-opening-ceremony) · `en`
-
-(AP) — High-speed trains around France were hit by several “malicious acts” Friday that heavily disrupted traffic on the day of the high-risk opening ceremony of the Paris Olympics, according to the national rail company SNCF.
-
-Travel to and from London beneath the English Channel, to neighboring Belgium, and across the west, north and east of France were affected by what SNCF called a series of coordinated overnight incidents.
-
-Government officials denounced the incidents hours before the opening ceremony of the Paris Olympics, which are happening around France, though there was no immediate sign of a link to the Games.
-
-National police said authorities are investigating what happened. French media reported a big fire on a busy western route.
-
-Transport Minister Patrice Vergriete said in a post on X that he “firmly condemns these criminal incidents,” and that SNCF is working to restore traffic.
-
-...
-
-[Data](articles/3e8254c8.json)
-
-[Extended Data](ext_articles/3e8254c8.ext.json)
-
----
-
-### Sri Lanka and Pakistan to hold 7th round of political consultation
-
-*2024-07-26 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100791/sri-lanka-and-pakistan-to-hold-7th-round-of-political-consultation) · `en`
-
-Foreign Secretary Aruni Wijewardane will lead Sri Lanka’s delegation to the Seventh Round of Bilateral Political Consultations between Sri Lanka and Pakistan, scheduled to be held in Islamabad on 30 July 2024, the Ministry of Foreign Affairs said.
-
-The Seventh Round of Bilateral Political Consultations will be co-chaired by Foreign Secretary Aruni Wijewardane and the Foreign Secretary of Pakistan Muhammad Syrus Sajjad Qazi.
-
-The Consultations are expected to review the current status of the bilateral relations and the progress achieved in areas of cooperation such as economic and trade, defence and security, education, culture, media and sports, consular matters, agriculture as well as technology.
-
-On the sidelines of the Consultations, the Foreign Secretary is scheduled to call on the Deputy Prime Minister and Minister for Foreign Affairs of Pakistan, Muhammad Ishaq Dar, the statement said.
-
-...
-
-[Data](articles/3135418d.json)
-
-[Extended Data](ext_articles/3135418d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 10:54:38**
+As of **2024-07-27 11:05:59**
 
 ## Newspaper Stats
 
-*Scraped **37,515** Articles*
+*Scraped **37,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,141
 economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,344
+adaderanalk | 4,345
 tamilmirrorlk | 4,625
 dailymirrorlk | 4,733
 virakesarilk | 5,900
@@ -26,31 +26,59 @@ adaderanasinhalalk | 6,295
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,514 (100.0%) of 37,515 articles have been extended.
+37,515 (100.0%) of 37,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### ඔලිම්පික් උලෙළ අති උත්කර්ෂවත් ව ඇරඹෙයි
+### Notice on issuing new e-passports
+
+*2024-07-27 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100809/notice-on-issuing-new-e-passports-) · `en`
+
+The Government of Sri Lanka is scheduled to commence the provision of new, efficient and safe e- Passports to Sri Lankans with effect from 01 January 2025, the Department of Immigration and Emigration announced.
+
+Issuing a statement in this regard, the Department of Immigration and Emigration stated that accordingly, the methodology of applying for Passports will be executed as a new methodology for the ease of Passport applicants.
+
+Thus, a prior registration shall be made on the link https://www.immigration.gov.lk for applying for Sri Lankan Passports with effect from 16 July 2024, the statement highlighted.
+
+Furthermore, it is requested that only the passport applicants who have prior registration to visit the Head office and Regional offices of the Department of Immigration and Emigration and to refrain from visiting the Department of Immigration and Emigration without a prior registration.
+
+...
+
+[Data](articles/31073a44.json)
+
+---
+
+### The Olympic Festival begins
 
 *2024-07-27 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199256) · `si`
 
-විශ්වයේ මහා ක්‍රීඩා සැණකෙලිය ලෙසින් හැඳින්වෙන ඔලිම්පික් ක්‍රීඩා උලෙළේ 33 වැනි දිගහැරුම ප්‍රංශයේ පැරිස් නුවරදී අද (27) අළුයම නිල වශයෙන් ආරම්භ විය.
+The 33rd Olympic Games, dubbed the "Great Sports Carnival of the Universe," opened in Paris, France, marking its third hosting. The inauguration was unique, taking place outside the stadium for the first time, focusing on Paris Kandy. With 10,714 athletes from 32 nations competing in 321 events, it was a grand affair attended by numerous world leaders. Notably, Nino Solukwarai, a 55-year-old athlete with nine Olympic appearances and three medals, carried the torch. The Sri Lankan team, consisting of six athletes, notably included Nadeha Secretary, representing badminton and women's spelling. The U.S. led with 594 athletes, followed by France with 572. The ceremony highlighted French culture, featured performances by Celine Dion, and saw the Olympic flame lit by a hot air balloon, a departure from tradition.
 
-ඔලිම්පික් සම්ප්‍රදායන් අතික්‍රමණය කරමින් ඉතිහාසයේ පළමු වරට ක්‍රීඩාංගණයකින් පිටත දී ඔලිම්පික් උලෙළේ සමාරම්භක උත්සවය පැවැත්වීමට පැරිස් ඔලිම්පික් සංවිධායකයින් කටයුතු කර තිබුණි.
+🟩
 
-ඒ අනුව පැරිස් ඔලිම්පික් උලෙළේ සමාරම්භක උත්සවය අති උත්කර්ෂවත් ලෙස පැවැත්වුණේ පැරිස් නුවර සේන් නදිය කේන්ද්‍ර කරගනිමිනි.
+The 33th commenced in Paris, France, was held at the 33rd unfolding of the Olympic Games known as the Great Sports Carnment of the Universe.
 
-ඔලිම්පික් උලෙළක් ප්‍රංශයේදී පැවැත්වෙන තුන්වන අවස්ථාව මෙය වන අතර ප්‍රංශයේ දී ඔලිම්පික් උලෙළක් පැවැත්වෙන්නේ සියවසකට පසුව වීම විශේෂත්වයකි.
+The Paris Olympic organizers had acted outside the Olympic Festival inauguration outside the first stadium in history.
 
-පැරිස් නුවර සේන් නදිය කේන්ද්‍ර කරගනිමින් පැවති පැරිස් ඔලිම්පික් උලෙළේ සමාරම්භක උත්සවය නැරඹීම සඳහා ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන් ඇතුළු රාජ්‍ය නායකයින් කිහිපදෙනෙක් මෙන්ම තවත් සම්භාවනීය අමුත්තන් රැසක් එක්ව සිටයේ ය.
+Accordingly, the inauguration of the Paris Olympic Festival was centered in Paris Kandy.
 
-රටවල් 206ක් නියෝජනය කරමින්, ක්‍රීඩා 32කට අදාළ, තරග ඉසව් 329කට සහභාගිවන ක්‍රීඩක ක්‍රීඩිකාවන් 10,714 දෙනෙක් සමගින් නිලධාරීන් සමාරම්භක උලෙළේ දී සේන් නදියේ ගමන් ගත්තේ ෆෙරී යාත්‍රා සහ බෝට්ටු යොදාගනිමිනි.
+This is the third time the Olympics will be held in France and is an Olympic awake in France.
+
+Several heads of state and many other state leaders, including the inauguration ceremony of the Paris Olympics centered on Paris, is centered on the Olympics centered ceremony.
+
+With 10,714 players participating in 32 countries, 32,714 attendees participated in the inaugurated ceremony with 10,714 players attending 321 events.
+
+This year, the Olympic inauguration traditionally, traditionally journeyed in Greece.
+
+The Olympic team and other team participating under the Olympic team and other team joined the inauguration of the Seed Zone.
 
 ...
 
 [Data](articles/4feb1cbc.json)
+
+[Extended Data](ext_articles/4feb1cbc.ext.json)
 
 ---
 
@@ -2217,27 +2245,5 @@ People say that the broken school building and state buildings are still sources
 [Data](articles/813b0d0d.json)
 
 [Extended Data](ext_articles/813b0d0d.ext.json)
-
----
-
-### Sri Lanka CEB can cut capex to find cash to pay generators if needed: Fitch
-
-*2024-07-26 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-can-cut-capex-to-find-cash-to-pay-generators-if-needed-fitch-173972/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board can cut capital expenditure to make payments to power producer if required, after the regulator mandated a bigger price cut than was proposed, Fitch Ratings said.
-
-The cut was bigger than was proposed by the CEB, Fitch said.
-
-“The Public Utilities Commission of Sri Lanka’s instruction on the 22.5% average tariff cut, made during the regulator’s quarterly tariff review, was larger than the 10% proposed by CEB,” Fitch said.
-
-Coal prices have dropped 31 percent, over the past year, while hydro power in the generation mix had risen to 31 percent.
-
-Assuming unchanged tariffs and costs for the rest of the year, Fitch said CEB’s earnings before interest, tax, depreciation and amortization (EBITDA) margin will narrow to about 11 percent in 2024, from the 26 percent in 2023 reported in its preliminary accounts.
-
-...
-
-[Data](articles/8e91b5e9.json)
-
-[Extended Data](ext_articles/8e91b5e9.ext.json)
 
 ---

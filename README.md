@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 16:35:47**
+As of **2024-07-27 16:53:03**
 
 ## Newspaper Stats
 
-*Scraped **37,545** Articles*
+*Scraped **37,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,351
 tamilmirrorlk | 4,627
 dailymirrorlk | 4,733
 virakesarilk | 5,906
-adaderanasinhalalk | 6,306
+adaderanasinhalalk | 6,307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,545 (100.0%) of 37,545 articles have been extended.
+37,545 (100.0%) of 37,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### 19වන සියවසේ ගිලී ගිය නැවකින් වයින් බෝතල් හමුවෙයි
+
+*2024-07-27 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199268) · `si`
+
+19වන සියවසේදී ගිලී ගිය නෞකාවක් බෝල්ටික් මුහුදු පතුලෙන් සොයා ගැනීමට කිමිදුම්කරුවන් කණ්ඩායම් සමත්වී තිබේ.
+
+එහි තිබී විවෘත නොකළ ෂැම්පේන් සහ වයින් බෝතල් සියයකට අධික සංඛ්‍යාවක් සොයාගෙන ඇතැයි සඳහන් ය.
+
+◼️
+
+[Data](articles/8ca0b60b.json)
+
+---
 
 ### Colombo-wheeler driver's murder reveals
 
@@ -2215,27 +2229,5 @@ During the crisis in the country over the past two years, there have been many s
 [Data](articles/68c8dcd4.json)
 
 [Extended Data](ext_articles/68c8dcd4.ext.json)
-
----
-
-### President thanks to all political parties who supported the passage of the Economic Transfer Bill
-
-*2024-07-26 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/189478) · `ta`
-
-President Ranil Wickremesinghe thanked all political parties for supporting the Economic Transfer Bill, crucial for guiding the country's economy. He highlighted its focus on building a digital and green export-based economy, mentioning initiatives like the "Digital Economic Strategy 2030" aimed at digitalizing various sectors, including education. The President also discussed the importance of embracing digital technologies to enhance the country's economy and competitiveness, referencing efforts to introduce QR codes and modernize agriculture and education.
-
-🟩
-
-President Ranil Wickremesinghe thanked all the political parties who supported the Economic Transfer Bill that guided the country's economy on the right path and called on all political parties to continue the project.
-
-The President also pointed out that the bill includes the administrative and institutional structure required to build an export -based digital and green economy in the country.
-
-A program to provide smart classroom equipment to schools and sects under the "Digital Economic Strategy 2030" program, which is co -operating in the Ministry of Education and Technology, was held today (26) at the Rambukana Parakrama Maha Vidyalaya.. President Ranil Wickremesinghe made this statement while addressing the event.
-
-...
-
-[Data](articles/59ce9b80.json)
-
-[Extended Data](ext_articles/59ce9b80.ext.json)
 
 ---

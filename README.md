@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 05:05:39**
+As of **2024-07-28 05:20:41**
 
 ## Newspaper Stats
 
-*Scraped **37,585** Articles*
+*Scraped **37,586** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 328
-colombotelegraphcom | 352
+colombotelegraphcom | 353
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,142
@@ -26,11 +26,23 @@ adaderanasinhalalk | 6,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,585 (100.0%) of 37,585 articles have been extended.
+37,585 (100.0%) of 37,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### US Politics: Kamala Harris Takes On Donald Trump
+
+*2024-07-27 23:30:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/us-politics-kamala-harris-takes-on-donald-trump/) · `en`
+
+In one master stroke last Sunday afternoon, the beleaguered American President Joe Biden turned the tables on Donald Trump and the Republican Party. From his home in Delaware, Biden tersely announced that he was withdrawing from the race and endorsing his Vice President Kamala Harris to be the nominee of the Democratic Party for the November presidential election. If that was stunning, the even greater shock and awe is the speed and manner in which Kamala Harris has rolled out her campaign; secured her nomination within hours; energized the Party at every level; enthused the youth in their own network worlds; raised millions of dollars by the minute; and served notice to Trump that she is the prosecutor, he is the felon, and she knows his type.
+
+...
+
+[Data](articles/d0af3d0c.json)
+
+---
 
 ### Another polling board is afless of votes at his polling booth
 
@@ -2219,21 +2231,5 @@ The CP Group Global Sourcing Expo was held at the Renaissance Bangkok Ratchapras
 [Data](articles/d82c17a2.json)
 
 [Extended Data](ext_articles/d82c17a2.ext.json)
-
----
-
-### Serendib Flour Mills invests in employee development promoting culture of continuous learning
-
-*2024-07-27 00:06:08* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-invests-in-employee-development-promoting-culture-of-continuous-learning/34-764810) · `en`
-
-Serendib Flour Mills (SFML) has launched a robust employee development program, demonstrating commitment to nurturing employee growth across all departments and promoting a culture of continuous learning.
-
-The three-month initiative aims to enhance skills of sales staff, executives, and middle management across various other departments through a series of workshops, training sessions, mentoring, and online resources. The program focuses on crucial areas such as leadership skills, strategic thinking, team performance, and achieving organisational goals. Offering customised training tailored to enhance leadership and strategic capabilities, Serendib Flour Mills is investing in its workforce’s future and the company’s long-term success. The training program is being conducted by the prestigious Trainers PIM Alumni Association from the Postgraduate Institute of Management, University of Sri Jayewardenepura, ensuring high-quality instruction and relevant industry insights.
-
-...
-
-[Data](articles/9ce1232d.json)
-
-[Extended Data](ext_articles/9ce1232d.ext.json)
 
 ---

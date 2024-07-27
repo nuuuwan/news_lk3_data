@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 22:53:28**
+As of **2024-07-27 23:05:33**
 
 ## Newspaper Stats
 
-*Scraped **37,575** Articles*
+*Scraped **37,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,356
 tamilmirrorlk | 4,632
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,318
+adaderanasinhalalk | 6,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,575 (100.0%) of 37,575 articles have been extended.
+37,575 (100.0%) of 37,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### ඉන්දියාවට සුපිරි ජයක්
+
+*2024-07-27 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199280) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර අද (27) පැවැති පළමු 20යි 20 ක්‍රිකට් තරගය ලකුණු 43කින් ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත් විය
+
+තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඉන්දීය කණ්ඩායමට ලබාදීමටය.
+
+ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 213ක් රැස් කළේය.
+
+එහිදී ඉන්දීය කණ්ඩායම වෙනුවෙන් සූර්යකුමාර් යාදව් ලකුණු 58ක් රැස්කළ අතර රිෂාබ් පාන්ට් ලකුණු 49ක් රැස්කළේය.
+
+පන්දු යැවීමේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් මතීෂ පතිරණ කඩුලු 4ක් දවාගත්තේය.
+
+ඒ අනුව ලකුණු 214ක ඉලක්කයක් හඹාගිය ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දු ඕවර 19යි පන්දු 02ක දී සියලුදෙනා දැවී රැස්කරගත හැකි වුයේ ලකුණු 170ක් පමණි.
+
+ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් අගනා පිතිහරඹයක නිරත වූ පැතුම් නිස්සංක ලකුණු 79ක් රැස්කළේය.
+
+◼️
+
+[Data](articles/55bcceac.json)
+
+---
 
 ### Transport of traffic at the Pollauwa Junction
 
@@ -2209,37 +2233,5 @@ If there is one glaring failure of Sri Lanka’s 76 years of democratic experien
 [Data](articles/58b2f9cd.json)
 
 [Extended Data](ext_articles/58b2f9cd.ext.json)
-
----
-
-### Sri Lanka qualified to oppose India in the final by beating Pakistan in a ball
-
-*2024-07-26 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189484) · `ta`
-
-In the Women's T20 Asian Cup, Sri Lanka beat Pakistan in the semis to reach the finals against India. Despite a tough start, Sri Lanka's Samari Athapathu and others fought back with crucial partnerships, especially with Athapathu scoring 63 runs. Pakistan, batting first, made 140/4; Gul Perosa and Muniba Ali contributed significantly but fell short. Sadia Iqbal starred with the ball for Sri Lanka, taking 4/16.
-
-🟩
-
-Sri Lanka won by 3 wickets in the second semi -final of the most exciting Women's T20 Asian Cup in the Dambulla International Cricket Stadium on Friday night.
-
-Following this victory, Sri Lanka qualified to play in the same playground on Sunday (28) against India.
-
-The Sri Lankan women's team lost by 7 wickets in 19.5 overs with 141 runs.
-
-Vishmi Gunaratne (0) and Harshita Samarawickrama (19) faced a minor stumbling block to lose the game. (19 - 2 wig.)
-
-However, team captain Samari Athapathu and Kavisha Dilhari shared 59 runs in the 3rd wicket and gave a little excitement to the team.
-
-Meanwhile, wicketkeeper Muniba stump while Athapathu's hind leg. What a strange, Muniba escaped because he did not question.
-
-The highly anticipated Nilakshika Silva lost the game without the flow. (78 - 4 wig.)
-
-However, Samari Athapathu and Anushka Sanjeevani shared 42 runs in the 5th wicket.
-
-...
-
-[Data](articles/686821f8.json)
-
-[Extended Data](ext_articles/686821f8.ext.json)
 
 ---

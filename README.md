@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 22:35:55**
+As of **2024-07-27 22:53:28**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,318
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,574 (100.0%) of 37,575 articles have been extended.
+37,575 (100.0%) of 37,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### පොල්දුව මංසන්ධියේ ගමනාගමනයට බාධා
+### Transport of traffic at the Pollauwa Junction
 
 *2024-07-27 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199279) · `si`
 
-ඒ අද (27) පස්වරුවේ එම මාර්ගය ට කඩාවැටුණු ගසක් ඉවත්කරමින් සිටියදී මාර්ගයේ ධාවනය වූ මෝටර් රථයක් එම ගසේ ගැටී අනතුරක් සිදුවීම හේතුවෙනි.
+A car crash occurred at Pollauwa Junction today, resulting in the vehicle colliding with a tree. The car suffered damage, and its driver was taken to the hospital. Repair work on the tree is underway, as reported by Ada Derana.
 
-එම අනතුරින් මෝටර් රථයට දැඩි අලාභ හානි වී තිබූ අතර එහි රියදුරා රෝහල්ගත කෙරුණි.
+🟩
 
-එම ගස ඉවත් කිරීමේ කටයුතු මේ වනවිටත් ක්‍රියාත්මක බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+A car traveling along the road was due to a car collided in the tree this afternoon.
+
+The car was damaged in the accident and the driver was hospitalized.
+
+The resignation of the tree is already in progress, "Ada Derana reporter said.
 
 ◼️
 
 [Data](articles/9cfbfa95.json)
+
+[Extended Data](ext_articles/9cfbfa95.ext.json)
 
 ---
 

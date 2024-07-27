@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 12:20:37**
+As of **2024-07-27 12:36:41**
 
 ## Newspaper Stats
 
-*Scraped **37,523** Articles*
+*Scraped **37,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,80 @@ economynextcom | 2,253
 dailyftlk | 2,405
 adalk | 3,412
 adaderanalk | 4,346
-tamilmirrorlk | 4,625
+tamilmirrorlk | 4,626
 dailymirrorlk | 4,733
-virakesarilk | 5,903
+virakesarilk | 5,904
 adaderanasinhalalk | 6,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,521 (100.0%) of 37,523 articles have been extended.
+37,523 (100.0%) of 37,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### මෝදි යුක්‍රේනය ට
+### வாக்காளர்களுக்கு விசேட செய்தி
+
+*2024-07-27 12:07:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்களுக்கு-விசேட-செய்தி/175-341106) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் வாக்காளர்கள் தங்களுக்கு நியமிக்கப்பட்ட வாக்களிப்பு நிலையத்தைத் தவிர மாற்று வாக்களிப்பு நிலையங்களில் வாக்களிக்க முடியுமெனத் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+வாக்காளர்களுக்கு நியமிக்கப்பட்ட இடத்தில் வாக்களிக்க முடியாததற்கு நியாயமான காரணம் இருந்தால் மாற்று வாக்களிப்பு நிலையத்திற்குச் சென்று வாக்களிக்குமாறு கோரலாம் என ஆணைக்குழு வர்த்தமானி அறிவிப்பில் வலியுறுத்தியுள்ளது.
+
+இதற்கு விண்ணப்பிக்கும் விண்ணப்பதாரர்கள், அடுத்த மாதம் 1ஆம் திகதி அல்லது அதற்கு முன், தேர்தல் ஆணைக்குழுவிற்கு படிவங்களை அனுப்ப வேண்டும்.
+
+மேலும், ஒவ்வொரு விண்ணப்பமும் விண்ணப்பதாரரின் குடியிருப்புப் பகுதி கிராம அதிகாரிகளால் சான்றளிக்கப்பட வேண்டும், இல்லையெனில் விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படாது என தேர்தல் ஆணையம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/b2ce0737.json)
+
+---
+
+### சிரேஸ்ட பிரதிபொலிஸ்மா அதிபர் அசங்க கரவிட்டவிடம் தேர்தல் தொடர்பான பணிகள் ஒப்படைப்பு? தேர்தல் ஆணைக்குழு அவருடன் சந்திப்பு
+
+*2024-07-27 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189499) · `ta`
+
+தேசபந்து தென்னக்கோன் பொலிஸ்மா அதிபருக்கான கடமைகளை முன்னெடுப்பதற்கு உயர்நீதிமன்றம்இடைக்கால தடை உத்தரவை பிறப்பித்துள்ளதால்  தேர்தல்கள் ஆணைக்குழு  தேர்தல்கள் தொடர்பான நடவடிக்கைகளை முன்னெடுக்குமாறு சிரேஸ்ட பிரதிபொலிஸ்மா அதிபர் டிவை அசங்க கரவிட்டவை கேட்டுக்கொண்டுள்ளது.
+
+தேர்தல்கள் ஆணைக்கு தேர்தல் தொடர்பான வர்த்தமானியை வெளியிட்ட பின்னர் சிரேஸ்ட பிரதிபொலிஸ்மா அதிபர் அசங்க கரவிட்டவை சந்தித்துள்ளது.
+
+பொலிஸ்மா அதிபர் ஒருவர் இல்லாத நிலையில் தேர்தலை நடத்த முடியுமா என்ற கேள்விகள் எழுந்துள்ள நிலையிலேயே இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+அரசமைப்பின்படி தேர்தல் ஆணைக்குழு தேர்தல் தொடர்பான பாதுகாப்பு நடவடிக்கைகள் குறித்து  பொலிஸ்மா அதிபருக்கு தெரிவிக்கவேண்டும்,பணிக்கு தேவையான பொலிஸ்உத்தியோகத்தர்களின் எண்ணிக்கை குறித்து பொலிஸ்மா அதிபருக்கு தெரிவிக்கவேண்டும்.
+
+தேர்தலை நடத்தவதற்கு இவ்வாறான விடயங்கள் அவசியம் என்றால் பொலிஸ்மா அதிபர் இன்றி தேர்தலை நடத்துவது எவ்வளவு தூரம் சாத்தியம் என கேள்விகள் எழுந்துள்ளன.
+
+...
+
+[Data](articles/32a5a5ec.json)
+
+---
+
+### Modi to Ukraine
 
 *2024-07-27 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199257) · `si`
 
-රුසියාව විසින් යුක්‍රේනය ආක්‍රමණය කිරීමෙන් පසු ප්‍රථම වතාවට ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි ලබන මාසයේ කියුව් හි සංචාරයක නිරත වීමට නියමිත බව විදෙස් මාධ්‍ය පවසයි.
+Indian PM Modi plans to visit Ukraine soon after its invasion by Russia. The invitation comes from Ukrainian President Volodymyr Zelenskyy, who met with Russian President Putin recently. India is willing to aid in diplomatic efforts towards peace.
 
-විදෙස් වාර්තා සඳහන් කළේ මැතිවරණයෙන් පසු අග්‍රාමාත්‍ය මෝදි තෙවැනි වරටත් බලයට පත්වූ දිනයේ යුක්‍රේන ජනාධිපති ව්ලොද්මීර් සෙලෙන්ස්කි ඔහුට සුබ පතමින් යුද්ධයෙන් විනාශ වූ රට නැරඹීමට පැමිණෙන ලෙස කළ ආරාධනයකට අනුව මෙය සිදුවන බවය.
+🟩
 
-ඉන්දීය අග්‍රාමාත්‍යවරයා සහ යුක්‍රේන ජනාධිපති ව්ලොද්මීර් සෙලෙන්ස්කි අතර හමුවක් ඉතාලියේ G7 සමුළුවට සමගාමීව මීට මාසයකට පෙර සිදුවුණි.
+According to foreign media reports, Indian Prime Minister Narendra Modi is scheduled to visit the next month after Russia invades Ukraine.
 
-යුද්ධය ආරම්භ වූ දා සිට එය විසඳිය හැක්කේ සංවාදයෙන් සහ රාජ්‍ය තාන්ත්‍රිකභාවයෙන් පමණක් බව ඉන්දියාව ප්‍රකාශ කළ අතර ඕනෑම සාම ප්‍රයත්නයකට දායක වීමට ඉන්දියාව සූදානම් බව ඉන්දීය අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+According to foreign reports, Prime Minister Vlodmanir Celenceky, the day of Prime Minister, was the invitation to visit the war to visit the war to the best of the war.
+
+President Vladimir Celenceky came to a month ago with the Prime Minister of the Indian Prime Minister and Ukrainian President Vladimir Celenceky.
+
+India has stated that India is ready to contribute to the conversation and diplomatic since the end of the war, and India is ready to contribute to any peace effort.
 
 ◼️
 
 [Data](articles/43e6afe8.json)
+
+[Extended Data](ext_articles/43e6afe8.ext.json)
 
 ---
 
@@ -277,6 +321,8 @@ Jio Platforms Ltd and a unit of Reliance industries of India and Gortune Interna
 ◼️
 
 [Data](articles/7996d474.json)
+
+[Extended Data](ext_articles/7996d474.ext.json)
 
 ---
 
@@ -2193,53 +2239,5 @@ Harris’s surprise bid against Republican rival Donald Trump continues to gain 
 [Data](articles/32c2c164.json)
 
 [Extended Data](ext_articles/32c2c164.ext.json)
-
----
-
-### In 2025, local pharmaceutical production increased to 90 percent
-
-*2024-07-26 16:27:47* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-දේශීය-ඖෂධ-නිශ්පාදනය-සියයට-90ක්-දක්වා-ඉහළට/11-411020) · `si`
-
-In 2025, local pharmaceutical production in Sri Lanka reached 90%, with the Sri Lanka Pharmaceutical Manufacturers' Association (SLPMA) producing over 200 drugs, supplying 20% of local pharmacies and 25% of essential medications to government facilities. The SLPMA, established in 1963, adheres to Western pharmaceutical standards. The Ministry of Health aims to support local manufacturers further, with Nalin Kannangara elected as the new chairman for two years.
-
-🟩
-
-The Sri Lanka Pharmaceutical Manufacture of the Sri Lanka Pharmaceutical Manufacturers' Association (SLI)
-
-The Sri Lankan Pharmaceutical Manufacturers Association (SLPMA) has been established in October 1963 (SLPMA) operating the highest standards of the western pharmaceutical manufacturing industry 100% local standards. They produce more than 200 different drugs and receives 20% of local pharmacies. Approximately 25% of the essential medications of government hospitals and clinics are provided by the local manufacturers.
-
-Speaking at the Member of Health and Industry, Dr. Ramesh Pathirana said that the industrialism of Prof. Senaka Bibile for the development of the industry.He believes he is able.
-
-The Sri Lankan Pharmaceutical Manufacturers Association covers more than 200 medicines and is a major achievement and will be a major achievement and will be a great victory in the year.
-
-...
-
-[Data](articles/ced84ffb.json)
-
-[Extended Data](ext_articles/ced84ffb.ext.json)
-
----
-
-### Obama support Kamala Harris
-
-*2024-07-26 16:26:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கமலா-ஹாரிஸுக்கு-ஒபாமா-ஆதரவு/50-341081) · `ta`
-
-Former President Obama endorses Kamala Harris for the Democratic nomination, expressing confidence in her victory against Donald Trump in the upcoming US presidential election.
-
-🟩
-
-Former President Obama, who has backed Kamala Harris on behalf of the Democratic Party in the US presidential election, has said that he will win.
-
-Elections for US President's position, Nov. 5. In this, on behalf of the Republican Party, former President Donald Trump, 78, is sure to contest. On behalf of the ruling Democratic Party, it was announced that current President Joe Bidan, 81, will contest. Many of the Democratic Party have been warned to replace the party's presidential candidate. Thus, Joe Bidan withdrew from the competition.
-
-Also, as the party's candidate, he supported Vice President Kamala Haris. The presidential candidate is due to be announced at the party conference in Chicago on 19-22 next month.
-
-Many senior leaders of the party have supported Kamala Harris. But former President Barack Obama has not made any comments so far. In this regard, the 'New York Times' has reported.
-
-...
-
-[Data](articles/f21cac7e.json)
-
-[Extended Data](ext_articles/f21cac7e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 17:36:06**
+As of **2024-07-27 17:56:56**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 6,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,550 (100.0%) of 37,552 articles have been extended.
+37,552 (100.0%) of 37,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### මහින්ද ළඟ සිටි ප්‍රබලයෙක් සජිත් ළඟට යයි
+### Sajith goes to Sajith
 
 *2024-07-27 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199271) · `si`
 
-ප්‍රවීණ මාධ්‍යවේදියෙකු වන කුමාරසිරි හෙට්ටිගේ මහතා සමගි ජන බලවේගයේ මාතර දිස්ත්‍රික් සංවිධායකවරයෙක් ලෙස පත්කර තිබේ.
+Veteran journalist Mr. Kumarasiri Hettige is named Matara District Organizer for the Samagi Party by Sajith Premadasa, who served under former President Mahinda Rajapaksa.
 
-ඊට අදාළ පත්වීම ඔහු පසුගියදා සජිත් ප්‍රේමදාස මහතා අතින් ලබාගත්තේය.
+🟩
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ජනාධිපති ධූරයේ සහ අග්‍රාමාත්‍ය ධූරයේ කටයුතු කළ සමයේදී කුමාරසිරි හෙට්ටිගේ මහතා ඔහුගේ පාර්ලිමේන්තු කටයුතු ලේකම්වරයා ලෙසද කටයුතු කරනු ලැබීය.
+Mr. Kumarasiri Hettige, a veteran journalist, has been appointed as a Matara District Organizer of the Samagi power.
+
+He recently received the appointment by Sajith Premadasa.
+
+During his behalf of former President Mahinda Rajapaksa, President Mahinda Rajapaksa served as the presidential post and the Prime Minister.
 
 ◼️
 
 [Data](articles/398ed987.json)
 
+[Extended Data](ext_articles/398ed987.ext.json)
+
 ---
 
-### கட்டுப்பணத்தை கட்டிவிட்டேன் : ரணில்
+### Tied up with control: Ranil
 
 *2024-07-27 17:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-கட்டிவிட்டேன்-ரணில்/175-341108) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடப் போவதாகவும், அதற்கான கட்டுப் பணத்தை ஏற்கனவே கட்டியுள்ளதாகவும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்
+Ranil Wickremesinghe announced his candidacy for the upcoming presidential election, stating funds are secured. He made this declaration during a speech at the Galle Municipal Council grounds.
 
-காலி மாநகர சபை மைதானத்தில் தற்போது இடம்பெற்று வரும் “ஒன்றாக வெல்வோம் –  காலியில் நாம்” பொதுக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்
+🟩
+
+President Ranil Wickremesinghe has said that he will contest the upcoming presidential election and that the money has already been built.
+
+President Ranil Wickremesinghe said this while addressing the gathering at the Galle Municipal Council grounds.
 
 ◼️
 
 [Data](articles/aac59d8e.json)
+
+[Extended Data](ext_articles/aac59d8e.ext.json)
 
 ---
 

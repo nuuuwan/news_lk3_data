@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 11:05:59**
+As of **2024-07-27 11:20:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,295
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,515 (100.0%) of 37,516 articles have been extended.
+37,516 (100.0%) of 37,516 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Furthermore, it is requested that only the passport applicants who have prior re
 ...
 
 [Data](articles/31073a44.json)
+
+[Extended Data](ext_articles/31073a44.ext.json)
 
 ---
 
@@ -413,6 +415,26 @@ The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran P
 [Data](articles/f1642ed3.json)
 
 [Extended Data](ext_articles/f1642ed3.ext.json)
+
+---
+
+### My Family’s “Black July” Experience: A Personal Memoir.
+
+*2024-07-27 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84405) · `en`
+
+The anti-Tamil pogrom of July 1983 is an unforgettable chapter in the post-independence history of Sri Lanka.  The catastrophic events of that dark month  drastically affected  the lives of large numbers of Tamils in Sri Lanka.
+
+As a Sri Lankan Tamil journalist, Black July did have an effect on me in both personal and professional capacities. Furthermore my family – like thousands of other Tamil families – was also affected and displaced during those turbulent times.
+
+Although I have been writing  extensively about Black July in the past, I did not write about those happenings from a personal perspective  for many,many years.
+
+I  refrained for a long time  from writing about the impact of Black July on our family for two reasons. Firstly I was spared the full blast of that violence because I was not in Colombo then. I was on assignment to cover the Tamil United Liberation Front (TULF) party convention in Mannar.
+
+...
+
+[Data](articles/e547085f.json)
+
+[Extended Data](ext_articles/e547085f.ext.json)
 
 ---
 
@@ -2221,29 +2243,5 @@ It has been reported that five gunshots had been fired at the woman, who has bee
 [Data](articles/e9b5b857.json)
 
 [Extended Data](ext_articles/e9b5b857.ext.json)
-
----
-
-### Land cleaning to set up Vihara at night and night
-
-*2024-07-26 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189442) · `ta`
-
-In the Illandaikulam area of Trincomalee, tensions rise over land clearing for a Buddhist Vihara at night. Residents, displaced during the war, express concern over the demolition of structures and trees without proper action from state departments. They demand resettlement and question the lack of intervention against environmental damage.
-
-🟩
-
-Tensions have been reported in the area as the land has been cleaned to set up a Buddhist Vihara at night in the Illandaikulam area of ​​the Kuchchaveli Divisional Secretariat Division of Trincomalee.
-
-Residents of Kuchchaveli - Illandaikulam 5th Stadium (25). People have reported that the matter has been brought to the attention of the Kuchchaveli Divisional Secretary today (26) after the occupation of the people who went to the field were observed and the people were suspended.
-
-People who lived in the Illandaikulam area have been displaced in the 1990s and adjoining periods due to the war, and the people are concerned that the area has long been presenting the demand for a resettlement in the area.
-
-People say that the broken school building and state buildings are still sources, including the birth certificate, the death test, the land documents, and the field limits are still immortal.
-
-...
-
-[Data](articles/813b0d0d.json)
-
-[Extended Data](ext_articles/813b0d0d.ext.json)
 
 ---

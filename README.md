@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 08:35:49**
+As of **2024-07-27 08:55:00**
 
 ## Newspaper Stats
 
-*Scraped **37,505** Articles*
+*Scraped **37,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 2,141
 economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,339
+adaderanalk | 4,340
 tamilmirrorlk | 4,625
 dailymirrorlk | 4,733
 virakesarilk | 5,898
-adaderanasinhalalk | 6,292
+adaderanasinhalalk | 6,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,504 (100.0%) of 37,505 articles have been extended.
+37,505 (100.0%) of 37,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### Two arrested over youth found stabbed to death in Ward Place
+
+*2024-07-27 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100804/two-arrested-over-youth-found-stabbed-to-death-in-ward-place) · `en`
+
+Police have arrested two suspects in connection with the stabbing death of a man with sharp weapons inside a parked three-wheeler at Ward Place in Colombo on the July 23.
+
+During the arrest, the suspects were found to be in possession of 30 grams and 200 milligrams of ice (crystal methamphetamine) drug.
+
+The two suspects were arrested while traveling in a three-wheeler during a search operation conducted by a team of officers from the Colombo Crime Division (CCD) in Samagi Mawatha, Grandpass yesterday (26).
+
+Police said that the suspects, aged 35 and 48, are residents of Gonawila and Grandpass.
+
+The reason for the murder has not yet been revealed and the Colombo Crime Division is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/65552360.json)
+
+---
+
+### ශ්‍රී ලංකාව ආර්ථික අර්බුදයකට ලක්වන බව පෙර සිටම දැන සිටියා - ජනපති
+
+*2024-07-27 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199254) · `si`
+
+ශ්‍රී ලංකාව ආර්ථික අර්බුදයකට ලක්වන බව තමන් පෙර සිටම දැන සිටි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා සඳහන් ක‍ළේ ඒ බව තමා විසින් ගෝඨාභය රාජපක්ෂ මහතා වෙත දැනුම් දී අවශ්‍ය නම් උපකාර කිරීමට ද පොරොන්දු වූ බවයි.
+
+ඊයේ (26) පස්වරුවේ තරුණයින් පිරික් විසින් සංවිධානය කර තිබූ  #AskRanilLive නම් ප්‍රශ්න ඇසීමේ වැඩසටහනකට එක් වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+
+එහිදී මෙම වැඩසටහන සජිවීව නරඹමින් ජනාධිපතිවරයාට සමාජ මාධ්‍ය ඔස්සේ ප්‍රශ්න යොමු කිරීම සිදුවිය.
+
+◼️
+
+[Data](articles/1f5c395f.json)
+
+---
 
 ### Suspects of the murder arrested in a three-wheeler
 
@@ -55,6 +93,22 @@ The Colombo Crimes Division is conducting further investigations.
 [Data](articles/176b82ee.json)
 
 [Extended Data](ext_articles/176b82ee.ext.json)
+
+---
+
+### මිල ප්‍රදර්ශනය නොකළොත් වැඩ වරදී
+
+*2024-07-27 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199252) · `si`
+
+ග්‍රෑම් 450ක පාන් ගෙඩියක මිල රුපියල් 10කින් අඩු කිරීමට පියවර ගැනීමත් සමඟ මිල ප්‍රදර්ශනය නොකරන වෙළෙඳසැල් හිමියන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට පියවර ගන්නා බව පාරිභෝගික අධිකාරිය පවසයි.
+
+එහි සභාපති ටී.අයි. උඩුවර මහතා සඳහන් කළේ අදාළ වැටලීම් සිදුකරන ලෙස විමර්ශන අංශයේ නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවය.
+
+මෙ අතර කොළඹ දිස්ත්‍රික් සහකාර මිනුම් ඒකක ප්‍රමිති සේවා අධිකාරී දිල්රුක් පට්ටියපොල මහතා පැවසුවේ ජනවාරි මාසයේ සිට මේ දක්වා කාලසීමාව තුළ නීත්‍යානුකූල කිරුම් මිනුම් උපකරණ සම්බන්ධයෙන් සිදුකළ වැටලීම් වලදී 210 දෙනෙකුට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/cfeef114.json)
 
 ---
 
@@ -170,21 +224,27 @@ The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran P
 
 ---
 
-### 1,095,675 சுற்றுலாப் பயணிகள் வருகை
+### 1,095,675 tourists visit
 
 *2024-07-27 00:43:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-095-675-சுற்றுலாப்-பயணிகள்-வருகை/175-341104) · `ta`
 
-இவ்வருடம் ஜூலை 15 ஆம் திகதி வரையில் இலங்கைக்கு 1,095,675 வெளிநாட்டு சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+Despite challenges like the Easter attack, COVID-19, and an economic crisis, Sri Lanka's tourism sector, which saw 1,095,675 foreign visitors by July 15, is recovering thanks to effective programs by the Ministry of Tourism and its partners. The Secretary of the Ministry predicts it could surpass pre-war levels, even exceeding 2018 figures.
 
-இந்நிலை தொடருமானால், போருக்குப் பின்னர் இலங்கையில் சுற்றுலாத்துறையின் உச்ச நிலையை பதிவான 2018 ஆம் ஆண்டை விடவும் நல்ல நிலையை அடைய முடியும் என சுற்றுலா மற்றும் காணி அமைச்சின் செயலாளர் சோமரத்ன விதானபத்திரன தெரிவித்தார்.
+🟩
 
-ஈஸ்டர் தாக்குதல், கொவிட் – 19 தொற்றுநோய் மற்றும் பொருளாதார நெருக்கடி காரணமாக இலங்கையில் சுற்றுலா வர்த்தகம் வீழ்ச்சியடைந்தது எனவும் ஆனால் சுற்றுலா அமைச்சு மற்றும் அதனுடன் இணைந்த நிறுவனங்களால் ஆரம்பிக்கப்பட்ட முறையான வேலைத்திட்டத்தினால் தற்போது வெற்றிகரமான பெறுபேறுகள் கிடைத்துள்ளதாகவும் அவர் சுட்டிக்காட்டினார்.
+Until July 15 this year, 1,095,675 foreign tourists visited Sri Lanka.
 
-ஜனாதிபதி ஊடக மையத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இதனைத் தெரிவித்தார். (a)
+If this is the case, the Secretary of the Ministry of Tourism and Lands, Somatna Vidanapatrana said that after the war, the peak of the tourism industry in Sri Lanka after the war, could be better than 2018.
+
+He pointed out that tourism in Sri Lanka has fallen due to Easter attack, Kovit 19 infection and economic crisis but has now received successful results due to the proper program launched by the Ministry of Tourism and its affiliates.
+
+He said this at a media briefing held at the Presidential Media Center. (A)
 
 ◼️
 
 [Data](articles/985ee5be.json)
+
+[Extended Data](ext_articles/985ee5be.ext.json)
 
 ---
 
@@ -2171,89 +2231,5 @@ In a gazette issued in the early hours of Friday July 26, the commission said th
 [Data](articles/4546a74a.json)
 
 [Extended Data](ext_articles/4546a74a.ext.json)
-
----
-
-### El Cano arrested for headaches to America
-
-*2024-07-26 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199233) · `si`
-
-El Cano, a significant figure in Mexican drug trafficking, was arrested for bringing Fentanyl to the U.S., contributing to many American deaths. His arrest, along with others like Ismail Sambada and Leapho Gusman, highlights the ongoing struggle against drug cartels at the U.S.-Mexico border.
-
-🟩
-
-The United States of America not only prevent the protection of the 3,145 km of the United States of America and Mexico, which runs from the east of the United States and Mexico.
-
-Most of the illicit drugs come to the United States through the border and another major cause.
-
-Mexico is working in Mexico to challenge legal governments in Mexico.
-
-It has been revealed that there are about 30,000 Mexico to die every year due to the abductions and disappearances of drugs.
-
-In the year 2017, Leapho Gusman was arrested and deported to the United States of America, which was the largest drug gang of Mexico.
-
-After a trial, the 'El Chap' sentenced to life sentenced to death.
-
-Cineloca with the drug gang, Ismail Sambada, or 'El Maole', who founded the drug gang.
-
-He is believed to be the main crisis in the United States, mainly, to bring the Fentanille to bring in drugs to the United States.
-
-It is now revealed that Fennil is mainly due to the deaths of Americans between the ages of 18 and 45.
-
-...
-
-[Data](articles/6a32e47d.json)
-
-[Extended Data](ext_articles/6a32e47d.ext.json)
-
----
-
-### Do not conflict within the election period - former Speaker Karu Jayasuriya
-
-*2024-07-26 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189439) · `ta`
-
-During the election period, avoiding conflicts among the judiciary, executive, and parliament is crucial for the country's future, according to former Speaker Karu Jayasuriya. Prime Minister Dinesh Gunawardena rejected a court-imposed injunction on the police chief, highlighting the need for unity amidst differing views on the election and police matters.
-
-🟩
-
-Former Speaker Karu Jayasuriya has said that it is important to avoid conflicts between the judiciary, the executive department and the parliament during the election period.
-
-Prime Minister Dinesh Gunawardena announced in Parliament this morning that the interim injunction issued by the court on the police chief cannot be accepted.
-
-Former Speaker Karujayasuriya made this statement on his X -X -X -X -on page as various comments have been made by various parties on the election and the police chief.
-
-It is important to avoid conflicts between the judiciary, the executive department and the parliament during the election period. Karujayasuriya has emphasized that the future of the country is more important than selfishness.
-
-◼️
-
-[Data](articles/53afdc70.json)
-
-[Extended Data](ext_articles/53afdc70.ext.json)
-
----
-
-### Minister Wijayaka
-
-*2024-07-26 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199232) · `si`
-
-The Supreme Court has directed the Election Commission to serve notices related to a petition filed by a prisoner regarding voting rights in presidential elections. The petitioner argues that, constitutionally, presumed innocent individuals should have all basic rights, including voting, and that prisoners should be treated equally under the UN Human Rights Charter. Despite being remanded, the petitioner asserts there's no legal bar preventing them from voting. They request the Election Commission to issue guidelines ensuring such individuals' right to vote in future elections.
-
-🟩
-
-The Supreme Court today (26) ordered the Election Commission to send notice to the petition to be issued in the court to be issued in the presidential election.
-
-The Supreme Court issued the order to the Attorney at the petitioner when a petition filed by a petition filed by a prisoner who had been sent to Remand Prisoners.
-
-The members of the Elections Commission, Wijayadasa Rajapakse and the Commissioner General of Justice, the Commissioner General of Justice and the Commissioner General of Employees and several others were also ordered to be sent to the post of the petition as respondents in the petition.
-
-The petitioner claims that according to the Constitution, a person will be concluded in the innocence and will be able to enjoy all the basic rights certified by the Constitution.
-
-According to the United Nations Human Rights Charter, the petition has stressed that every prisoner should be treated as a man and all the privileges of the ordinary person.
-
-...
-
-[Data](articles/25e3a960.json)
-
-[Extended Data](ext_articles/25e3a960.ext.json)
 
 ---

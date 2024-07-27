@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 13:20:30**
+As of **2024-07-27 13:35:56**
 
 ## Newspaper Stats
 
-*Scraped **37,529** Articles*
+*Scraped **37,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 2,141
 economynextcom | 2,253
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,347
+adaderanalk | 4,348
 tamilmirrorlk | 4,626
 dailymirrorlk | 4,733
 virakesarilk | 5,905
-adaderanasinhalalk | 6,299
+adaderanasinhalalk | 6,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,528 (100.0%) of 37,529 articles have been extended.
+37,529 (100.0%) of 37,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### LTTE ban in European Union further extended
+
+*2024-07-27 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100814/ltte-ban-in-european-union-further-extended) · `en`
+
+The Council of the European Union (EU) has renewed the proscription of Liberation Tigers of Tamil Eelam (LTTE) in the European Union for a further period of six months, Sri Lanka’s Ministry of Foreign Affairs announced.
+
+The EU on Friday (July 26) renewed the list of persons, groups and entities set out by the Common Position 2001/931/CFSP with the view to combatting terrorism, and the LTTE continues to be banned in the EU for a further period of six months.
+
+The proscribed persons, groups and entities are subject to the freezing of its funds and other financial assets or economic resources in EU member states, as well as it is prohibited for EU entities to make funds and economic resources available to the proscribed organisations, the Foreign Ministry added.
+
+◼️
+
+[Data](articles/bec992a5.json)
+
+---
+
+### දයාසිරිට මෛත්‍රී පිළිතුරු දෙයි
+
+*2024-07-27 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199260) · `si`
+
+දයාසිරි ජයසේකර මහතා ඇතුළු පිරිසක් සමගි ජන බලවේගය සමග ගිවිසුම්ගතවීමේදී ඇති කරගත් එකඟතා හැකි නම් අනාවරණය කරන ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා දයාසිරි ජයසේකර මන්ත්‍රීවරයාට අභියෝගයක් සිදුකර තිබේ.
+
+අගෝස්තු 08 වන දින දයාසිරි ජයසේකර මහතා ඇතුළු පිරිසක් සමගි ජන බලවේගය සමග එක්වීමට මේ වනවිටත් ගිවිසුම්ගතව සිටින බව මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වත්මන් අර්බුදකාරී තත්ත්වයට එකම වගකිවයුත්තා තමා බව හුවා දක්වමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා සිදුකළ ප්‍රකාශය පිළිකුලෙන් යුතුව හෙළාදකින බව පවසමින් එම පක්ෂයේ හිටපු සභාපති, හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා නිකුත් කළ නිවේදනයක මේ බව සඳහන් වෙයි.
+
+ජනාධිපති අපේක්ෂක ආචාර්ය විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පාක්ෂිකයකු නොවන බව හා ඔහු නිදහස් පක්ෂයේ අපේක්ෂකයා වශයෙන් ඉදිරිපත් කිරීමට කිසිදු තීරණයක් ගෙන නොමැති බවට දයාසිරි ජයසේකර මහතා ඊයේ සිදුකළ ප්‍රකාශය ද මුලුමනින්ම සත්‍යය විකෘති කිරීමක් බවද හිටපු ජනාධිපතිවරයා පෙන්වා දෙයි.
+
+...
+
+[Data](articles/74946052.json)
+
+---
 
 ### New news of giving money for election
 
@@ -98,21 +132,33 @@ The event is held at the Pallekele International Cricket Stadium and the gates o
 
 ---
 
-### இந்தியாவிலிருந்து இலங்கைக்கு கடத்த முற்பட்ட 5 இலட்சம் வலி நிவாரணி மாத்திரைகள் கைப்பற்றல்
+### 5 lakhs of pain relief pills to smuggle from India to Sri Lanka
 
 *2024-07-27 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189506) · `ta`
 
-இந்தியாவிலிருந்து இலங்கைக்கு கடத்த முற்பட்ட 5 இலட்சம் வலி நிவாரணி மாத்திரைகளை வெள்ளிக்கிழமை (26)  திருச்சி சுங்கத்துறை நுண்ணறிவு பிரிவு அதிகாரிகள் கைப்பற்றியுள்ளனர்.
+Trichy Customs Intelligence Unit seized 500,000 pain relief pills bound for Sri Lanka, hidden among goods like turmeric, ginger, and cannabis. The pills, worth around ₹18 crores domestically and potentially ₹30 crores internationally, were intercepted during a smuggling operation involving the Indian Coast Guard, Navy, and intelligence officers.
 
-இந்தியாவில் ராமநாதபுரம் மாவட்டம் ராமேஸ்வரம், மண்டபம்  வேதாளை மரைக்காயர் பட்டினம்,  மானாங்குடி உள்ளிட்ட கடற்கரையில்  இருந்து தனுஷ்கோடி கடல் வழியாக கடல் அட்டை, சமையல் மஞ்சள், இஞ்சி, வலி நிவாரணி மாத்திரைகள், கஞ்சா உள்ளிட்ட பொருட்கள் இலங்கைக்கு கடத்தப்பட்டு வருகிறது.
+🟩
 
-கடல் வழியாக நடக்கும் கடத்தல் சம்பவங்களை தடுக்க இந்திய மத்திய சுங்கத்துறை, கடலோர காவல் படை, கடற்படை மற்றும் மத்திய, மாநில உளவுத்துறை அதிகாரிகள் தீவிர கண்காணிப்பு பணியில் ஈடுபட்டு வந்தாலும் அதையும் மீறி  சமீப காலமாக அதிக அளவில்  கடத்தல் சம்பவங்கள் நடைபெற்று வருகிறது.
+The Trichy Customs Intelligence Unit has seized 5 lakhs of pain relief pills on Friday (26).
 
-இந்நிலையில், இலங்கைக்கு கடத்துவதற்காக மானாங்குடி கடற்கரையில் பதுக்கி வைக்கப்பட்டிருந்த 10 பெட்டிகள் கைப்பற்றப்பட்டது.
+Ramanathapuram district in Ramanathapuram district, Rameswaram, Mandapam Vedalai Marikkayar Pattinam, Manangudi, including Dhanushkodi Sea, is being smuggled into Sri Lanka by sea card, cooking turmeric, ginger, painkillers and cannabis.
 
-...
+The Indian Central Customs, Coast Guard, Navy and Central and State Intelligence Officers have been engaged in intensive surveillance to prevent sea trafficking.
+
+In this case, 10 boxes were seized on the Manangudi beach for smuggling to Sri Lanka.
+
+The boxes were taken to the Customs Department's Office and found that 57 thousand tablets in a box were 5 lakhs 70 thousand painkillers.
+
+The first investigation revealed that the pain reliever pills had been hid by boat to Sri Lanka on Friday night, and that a suspect in the abduction was in hiding.
+
+The Indian value of the seized painkillers pills is about 1 crore 80 lakhs and the international value may be Rs 3 crore.
+
+◼️
 
 [Data](articles/42f8c38f.json)
+
+[Extended Data](ext_articles/42f8c38f.ext.json)
 
 ---
 
@@ -2195,53 +2241,5 @@ On the contrary, the first demand is to obtain land and livelihood land for a se
 [Data](articles/a370fd88.json)
 
 [Extended Data](ext_articles/a370fd88.ext.json)
-
----
-
-### Sri Lanka stocks close down, Sanasa trade boosts turnover
-
-*2024-07-26 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-sanasa-trade-boosts-turnover-173990/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed marginally down on Friday, as investors remained wary about the upcoming presidential election.
-
-The broader All Share Index closed down 0.06 percent, or 7.17 points, at 11,633; while the more liquid S&P SL20 Index closed down 0.02 percent, or 0.71 points, at 3,385.
-
-Turnover remained low at 575 million. The CSE has been muted for several weeks now.
-
-“It was a relatively dull day,” Softlogic Stockbrokers said. “The downward momentum continued, albeit somewhat marginally, today.”
-
-Three crossing in the days contributed 31 percent to the day’s turnover. “The largest of these was the Sanasa Development Bank Plc trade which brought in Rs117mn.” It was a local to local transaction. The share closed flat at 31.00.
-
-John Keells Holdings Plc brought in 80 million overall, and the share closed down at 191.25.
-
-Ceylon Land & Equity Plc brought in 21 million rupees in total and the share closed down at 7.40.
-
-...
-
-[Data](articles/ae9885a3.json)
-
-[Extended Data](ext_articles/ae9885a3.ext.json)
-
----
-
-### Commission notification about candidates who were deposited
-
-*2024-07-26 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199239) · `si`
-
-The Elections Commission announced four candidates endorsed by President Ranil Wickremesinghe for the upcoming presidential election: Sarath Keerthirath, Ocehala Herath, and A.S.P. Are Liyanage.
-
-🟩
-
-Four candidates have been backed by the Presidential election.
-
-The Elections Commission (EPL) has informed this announcement.
-
-Meanwhile, President Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath and A. S. P. Are Liyanage.
-
-◼️
-
-[Data](articles/a5ada5b6.json)
-
-[Extended Data](ext_articles/a5ada5b6.ext.json)
 
 ---

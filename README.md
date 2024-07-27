@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 20:20:34**
+As of **2024-07-27 20:35:48**
 
 ## Newspaper Stats
 
-*Scraped **37,563** Articles*
+*Scraped **37,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,354
 tamilmirrorlk | 4,628
 dailymirrorlk | 4,733
 virakesarilk | 5,908
-adaderanasinhalalk | 6,314
+adaderanasinhalalk | 6,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,563 (100.0%) of 37,563 articles have been extended.
+37,563 (100.0%) of 37,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### රනිල්ට සහාය දෙමින් එක්වූ පිරිස මෙන්න
+
+*2024-07-27 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199276) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (27) සංවිධානය කර තිබූ රැලියට අමාත්‍යවරුන් වන ටිරාන් අලස්, ප්‍රසන්න රණතුංග, රමේෂ් පතිරණ, මනුෂ නානායක්කාර, රාජ්‍ය අමාත්‍යවරුන් වන චාමර සම්පත් දසනායක, ගීතා කුමාරසිංහ ඇතුළු පිරිසක් එක්වී තිබේ.
+
+ගාල්ල ප්‍රදේශයේදී "එක්ව ජයගමු" යන මැයෙන් මෙම ජන රැලිය සංවිධානය කර තිබුණි.
+
+මීට අමතරව එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක රුවන් විජයවර්ධන, හිටපු පුරපතිනී රෝසි සේනානායක, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන මහින්දානන්ද අලුත්ගමගේ, වජිර අබේවර්ධන සහ සමගි ජන බලවේගය පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ඉෂාක් රහුමාන් මහතා ද එම ජනරැළිය හා එක්වී ඇත.
+
+එම රැලියේදී තමා ඉදිරි ජනාධිපතිවරණය සඳහා තරග කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  නිල වශයෙන් ප්‍රකාශයට පත් කළේය.
+
+මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ ඊට අදාළව තමන් ඊයේ දිනයේ දී ඇප තැන්පත් කිරීම ද සිදුකළ බවය.
+
+◼️
+
+[Data](articles/4d9c36a4.json)
+
+---
 
 ### Joseph 'sports colors' award
 
@@ -2229,23 +2249,5 @@ M. A. Sumanthiran, an ITAK legislator said the part has already had discussions 
 [Data](articles/8c522ab8.json)
 
 [Extended Data](ext_articles/8c522ab8.ext.json)
-
----
-
-### Sri Lanka’s Presidential Elections to be held on 21st September 2024; Incumbent President Ranil Wickremesinghe among the first to pay Cash deposit to Contest as an Independent  Candidate
-
-*2024-07-26 21:08:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84441) · `en`
-
-Sri Lanka’s presidential polls will be held on September 21, the Election Commission said on Friday.  Some 17 million voters will have their first chance of electing the country’s leader, after a mass people’s uprising ousted former President Gotabaya Rajapaksa two years ago.
-
-President Ranil Wickremesinghe was among the first to formally get into the fray. His office announced making a cash deposit at the Commission for his candidacy as an independent, although he has relied on the Rajapaksas’ Sri Lanka Podujana Peramuna (SLPP or People’s Front) since his rise to Presidency through an urgent parliamentary vote, after Mr. Gotabaya’s resignation amid the 2022 economic downturn.
-
-During his two years in office, Mr. Wickremesinghe has vowed to rebuild the country’s economy with an International Monetary Fund-led austerity and reform programme.
-
-...
-
-[Data](articles/074da3e3.json)
-
-[Extended Data](ext_articles/074da3e3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 20:05:30**
+As of **2024-07-27 20:20:34**
 
 ## Newspaper Stats
 
@@ -26,51 +26,69 @@ adaderanasinhalalk | 6,314
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,561 (100.0%) of 37,563 articles have been extended.
+37,563 (100.0%) of 37,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### ජෝසප් 'ක්‍රීඩා වර්ණ' ප්‍රදානය වාස්ගේ ප්‍රදානත්වයෙන්
+### Joseph 'sports colors' award
 
 *2024-07-27 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199275) · `si`
 
-කොළඹ සාන්ත ජෝසප් විද්‍යාලීය ක්‍රීඩා වර්ණ ප්‍රදාන උත්සවය හිටපු ජාතික ක්‍රිකට් ක්‍රීඩක ආදි සිසු, චමින්ද වාස් ගේ ප්‍රධානත්වයෙන් පසුගියදා පැවැත්වුණි.
+Joseph 'Sports Colors' Awards honored St. Joseph Vidyalaya, Colombo's sports talents, including former national cricketer Chaminda Vaas, emphasizing determination, commitment, and discipline in sports. Notable winners include Shanal Cemes (Swimming), Shinal City (Football), and Zhihan Fernando (Basketball). Despite Diothe Welella's absence from the Sri Lanka-India tournament, the event highlighted the importance of sports opportunities for youth, with 22 players receiving the "Josephian Blue" awards.
 
-එහිදී අධිෂ්ඨානය, කැපවීම සහ විනය ඇත්නම් නියත වශයෙන්ම ක්‍රීඩා ක්ෂේත්‍රයේ ඉහළට යාහැකි බව ආරාධිත දේශනයේදී චමින්ද වාස් පැවසීය.
+🟩
 
-මෙහිදී ක්‍රීඩාව නිදහසේ කිරීමට තම දරුවන්ට අවස්ථාව ලබාදීමේ අවශ්‍යතාවය ද දෙමාපියන් වෙත පෙන්වාදීම විශේෂත්වයකි.
+St. Joseph Vidyalaya, Colombo Sports Cricketer, the forefront of former national cricketer, Chaminda Vaas.
 
-ඒ අනුව 2019 වර්ෂය වෙනුවෙන් ඩිෂේන් රණවීර ( පිහිනුම් ),  2021වර්ෂය වෙනුවෙන් ෂෙනාල් සංදේශ් ( පාපන්දු ) සහ ශෙහාන් ප්‍රනාන්දු ( බාස්කට්බෝල් ), 2022 වර්ෂය වෙනුවෙන් දුනිත් වෙල්ලාලගේ ( ක්‍රිකට් ) යන ක්‍රීඩකයන් අදාළ වර්ෂවල වසරේ ක්‍රීඩකයා ලෙස වර්ණ දිනා ගන්නා ලදි.
+Chaminda Vass also said that if the determination, commitment, and discipline, could not go up in the field of sports.
 
-මෙම ක්‍රීඩකයන්, චමින්ද වාස් මහතාගෙන් සහ විදුහල් අදියුරු රන්ජිත් අන්ද්‍රාදි පියතුමාගෙන් වර්ණ සහතික සම්මාන ලැබීය.
+It is noteworthy that the game also shows the need to give her children the opportunity to make the game freely.
 
-ශ්‍රී ලංකා - ඉන්දීය තරගාවලිය සඳහා සංචිතයට තේරී පත්වීම නිසා දුනිත් වෙල්ලාලගේ මේ සඳහා සහභාගී නොවීය.
+Accordingly, Shnal Cemes (Swimming) and Shinal City (Football) and Zhihan Fernando (Basketball), 362 year, were won by the Guti Welelle's (cricket player) for the year.
 
-...
+The players, Mr. Chaminda Vaas and the Phase of the Phase Ranjith were adjudged the color certification.
+
+Diothe Welella's did not participate in the squad for the squad for the Sri Lanka-India tournament.
+
+The sports committee organized by Sports Committee, which was organized by Sports Committee, was organized by Sports Committee, which organized the Sports Committee, which was organized by Fr.
+
+22 of the players won the "JosePhian Blue 'color awards.
+
+◼️
 
 [Data](articles/807d7a16.json)
 
+[Extended Data](ext_articles/807d7a16.ext.json)
+
 ---
 
-### ඉදිරි ජනාධිපතිවරණයට තරග කරන බවට පළමු වරට ජනපති ජනතාව හමුවේ ප්‍රකාශ කරයි
+### President declares openly to contesting the next presidential election
 
 *2024-07-27 19:27:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනාධිපතිවරණයට-තරග-කරන-බවට-පළමු-වරට-ජනපති-ජනතාව-හමුවේ-ප්‍රකාශ-කරයි/11-411026) · `si`
 
-කිසිවිටෙක මා අභියෝග හමුවේ පැන ගියේ නැහැ : මා කථා කරමින් නොසිට වගකීම ඉටු කළා.
+President Ranil Wickremesinghe announces his candidacy for the upcoming presidential election, vowing to address national challenges and fulfill promises to the people. He assures the public of his commitment to the country's development, emphasizing his readiness to tackle any obstacles. The President also addresses concerns about the International Monetary Fund (IMF), stating that any deviations from the agreed framework would be detrimental to the nation. His campaign is supported by over 15,000 ministers and politicians across various parties, including the General Party and the Government of Sri Lanka.
 
-රට ඉදිරියට ගෙන යන බවට ජනතාවට දුන් පොරොන්දුව ද ඒ අයුරින්ම ඉටු කරනවා.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ එකඟ වී ඇති රාමුවෙන් බැහැරව කටයුතු කරන බව යමෙකු පවසන්නේ නම් ඔවුන් පවසන්නේ රට අවදානමේ හෙළන අසත්‍යයක් – “එක්ව ජය ගමු – අපි ගාල්ල” ජන හමුව අමතමින් ජනපති පවසයි.
+Never, I did not escape myself: I did not speak.
 
-ඉදිරි ජනාධිපතිවරණයට තමා ඉදිරිපත් වන බවත්, ඒ වෙනුවෙන් මේ වන විට ඇප මුදල් ද තැන්පත් කර අවසන් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගාල්ල නගර සභා ක්‍රීඩාංගණයේ දී අද (27) පැවති “එක්ව ජය ගමු – අපි ගාල්ල” ජන හමුව අමතමින් ප්‍රථම වරට ජනතාව හමුවේ ප්‍රකාශ කළේය.
+This will also fulfill his promise to the people to take the country.
 
-කිසිවිටෙකත් තමා අභියෝග හමුවේ පැන නොගිය බව මෙහිදී පැවසූ ජනාධිපතිවරයා කතා කරමින් නොසිට වගකීම ඉටු කිරීම තම දේශපාලන පුරුද්ද බවත්, රට ඉදිරියට ගෙන යාමට ජනතාවට දුන් පොරොන්දුව ද ඒ අයුරින්ම ඉටු කරන බවත් අවධාරණය කළේය.
+If someone says that the framework of the framework with the International Monetary Fund, they say that the country is threatening the country - "We win the Galle and said the President.
+
+President Ranil Wickremesinghe wins the next presidential election today and said that he had been buried in the Galle Municipal Council..
+
+He said that he did not escape himself to the challenges and emphasized that he is not his political habit and the promise to the people will be fulfilled.
+
+More than 15,000 Ministers and other political parties, including the General Party, and other political parties, including the Government of Sri Lanka and other political parties, participated in the publication of the Government of Sri Lanka and other political parties.They were committed to the President's victory in the presidential election.
 
 ...
 
 [Data](articles/637e52a9.json)
+
+[Extended Data](ext_articles/637e52a9.ext.json)
 
 ---
 

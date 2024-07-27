@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 09:06:44**
+As of **2024-07-27 09:20:34**
 
 ## Newspaper Stats
 
-*Scraped **37,510** Articles*
+*Scraped **37,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,141
 economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,340
+adaderanalk | 4,342
 tamilmirrorlk | 4,625
 dailymirrorlk | 4,733
 virakesarilk | 5,900
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,294
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,508 (100.0%) of 37,510 articles have been extended.
+37,508 (100.0%) of 37,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### Legal action against non-compliance with bread pricing
+
+*2024-07-27 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100806/legal-action-against-non-compliance-with-bread-pricing) · `en`
+
+The Consumer Affairs Authority (CAA) has announced that legal action will be taken against shopkeepers who fail to display the reduced price of a 450-gram loaf of bread, which has been decreased by Rs. 10.
+
+CAA Chairman T.I. Uduwara has instructed the officers of the investigation department to carry out the relevant raids to ensure compliance.
+
+Meanwhile, Colombo District Assistant Measurement Units, Standards & Services, Dilruk Pattiyapola, stated that legal action has been taken against 210 individuals during raids on legal weighing and measuring equipment from January to date.
+
+◼️
+
+[Data](articles/8cbab618.json)
+
+---
 
 ### சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு!
 
@@ -45,6 +61,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/92dafb3e.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-07-27 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100805/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts.
+
+Several spells of showers will occur in Western and North-western provinces and in Galle and Matara districts.
+
+Strong winds of about 50-55 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/aa689116.json)
 
 ---
 
@@ -2191,49 +2225,5 @@ The truck driver Pitigala has been arrested by the truck driver.
 [Data](articles/bdcc4548.json)
 
 [Extended Data](ext_articles/bdcc4548.ext.json)
-
----
-
-### Sarath Keerthi Ratna paid control
-
-*2024-07-26 14:40:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-கீர்த்திரத்ன-கட்டுப்பணத்தை-செலுத்தினர்/175-341078) · `ta`
-
-Sarath Keerthiratne, a former parliamentarian, announced his candidacy for the upcoming presidential election as an independent candidate, marking him as the first contender for this position since the last presidential election.
-
-🟩
-
-Former parliamentarian Sarath Keerthiratne on Wednesday morning (26), he paid control of the upcoming presidential election as an independent candidate.
-
-This time, the first candidate to contest the presidential election was the first candidate in the last presidential election as an independent candidate.
-
-◼️
-
-[Data](articles/ae728905.json)
-
-[Extended Data](ext_articles/ae728905.ext.json)
-
----
-
-### Presidential Election: The Election Commission issued a special report
-
-*2024-07-26 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189440) · `ta`
-
-Candidates for the upcoming presidential election must pay 50,000 rupees (for recognized parties) or 75,000 rupees (others) for nomination fees. Nominations open from 9 pm to 11 am on August 15 at the Election Commission in Rajagiriya, with objections allowed until 11.30 am. All candidates must settle their dues before filing.
-
-🟩
-
-The Independent Elections Commission has said that the candidates who are contesting on the proposed presidential election should pay 50,000 rupees and other candidates 75,000 rupees.
-
-The report is being issued for people to know as the presidential election is scheduled for September 21st.. The nominations for the election will be accepted at the Election Commission in Rajagiriya from 9 pm to 11 am on August 15.
-
-The objections can be reported from 9 to 11.30 am on the same day. These objections can be made by the opposition candidate or the candidates who filed their nomination.
-
-It is necessary for all candidates to pay control before filing nominations. Accordingly, the candidates who are contesting on behalf of the recognized party will have to pay 50,000 rupees and the other candidates will pay control of 75,000 rupees.
-
-...
-
-[Data](articles/565defd1.json)
-
-[Extended Data](ext_articles/565defd1.ext.json)
 
 ---

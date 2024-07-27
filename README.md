@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 19:35:47**
+As of **2024-07-27 19:54:01**
 
 ## Newspaper Stats
 
-*Scraped **37,561** Articles*
+*Scraped **37,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,141
 economynextcom | 2,258
 dailyftlk | 2,405
-adalk | 3,413
+adalk | 3,414
 adaderanalk | 4,354
 tamilmirrorlk | 4,628
 dailymirrorlk | 4,733
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,557 (100.0%) of 37,561 articles have been extended.
+37,561 (100.0%) of 37,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### ඉදිරි ජනාධිපතිවරණයට තරග කරන බවට පළමු වරට ජනපති ජනතාව හමුවේ ප්‍රකාශ කරයි
+
+*2024-07-27 19:27:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනාධිපතිවරණයට-තරග-කරන-බවට-පළමු-වරට-ජනපති-ජනතාව-හමුවේ-ප්‍රකාශ-කරයි/11-411026) · `si`
+
+කිසිවිටෙක මා අභියෝග හමුවේ පැන ගියේ නැහැ : මා කථා කරමින් නොසිට වගකීම ඉටු කළා.
+
+රට ඉදිරියට ගෙන යන බවට ජනතාවට දුන් පොරොන්දුව ද ඒ අයුරින්ම ඉටු කරනවා.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ එකඟ වී ඇති රාමුවෙන් බැහැරව කටයුතු කරන බව යමෙකු පවසන්නේ නම් ඔවුන් පවසන්නේ රට අවදානමේ හෙළන අසත්‍යයක් – “එක්ව ජය ගමු – අපි ගාල්ල” ජන හමුව අමතමින් ජනපති පවසයි.
+
+ඉදිරි ජනාධිපතිවරණයට තමා ඉදිරිපත් වන බවත්, ඒ වෙනුවෙන් මේ වන විට ඇප මුදල් ද තැන්පත් කර අවසන් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගාල්ල නගර සභා ක්‍රීඩාංගණයේ දී අද (27) පැවති “එක්ව ජය ගමු – අපි ගාල්ල” ජන හමුව අමතමින් ප්‍රථම වරට ජනතාව හමුවේ ප්‍රකාශ කළේය.
+
+කිසිවිටෙකත් තමා අභියෝග හමුවේ පැන නොගිය බව මෙහිදී පැවසූ ජනාධිපතිවරයා කතා කරමින් නොසිට වගකීම ඉටු කිරීම තම දේශපාලන පුරුද්ද බවත්, රට ඉදිරියට ගෙන යාමට ජනතාවට දුන් පොරොන්දුව ද ඒ අයුරින්ම ඉටු කරන බවත් අවධාරණය කළේය.
+
+...
+
+[Data](articles/637e52a9.json)
+
+---
 
 ### Sri Lanka hotel school lacks infrastructure to accommodate students: Official
 
@@ -54,6 +74,8 @@ Hotel chains such as ITC and Sofia Colombo opened in Sri Lanka are providing job
 
 [Data](articles/de8d3cf9.json)
 
+[Extended Data](ext_articles/de8d3cf9.ext.json)
+
 ---
 
 ### Israeli airstrike hits school sheltering people in Gaza, killing at least 30
@@ -69,6 +91,8 @@ Civil defense workers in Gaza said that thousands were sheltering in the school,
 ...
 
 [Data](articles/2e78dd38.json)
+
+[Extended Data](ext_articles/2e78dd38.ext.json)
 
 ---
 
@@ -203,6 +227,8 @@ However, Tennakoon remains in office, as there are no legal provisions for Presi
 ...
 
 [Data](articles/e3dbf889.json)
+
+[Extended Data](ext_articles/e3dbf889.ext.json)
 
 ---
 
@@ -1930,21 +1956,31 @@ Down the order, Anushka Sanjeewani provided crucial 24 runs and the Islanders ch
 
 ---
 
-### චමරි ශ්‍රී ලංකාව අවසන් මහ තරගයට රැගෙන යයි
+### Chamari takes Sri Lanka to the final
 
 *2024-07-26 22:41:38* · [`adalk`](https://www.ada.lk/sports/චමරි-ශ්‍රී-ලංකාව-අවසන්-මහ-තරගයට-රැගෙන-යයි/9-411024) · `si`
 
-පාකිස්තාන කණ්ඩායම කඩුලු 3කින් පරාජයට පත් කරමින් මෙවර කාන්තා ආසියානු කුසලාන විස්සයි20 තරගාවලියේ අවසන් මහ තරගයට සුදුසුකම් ලබා ගැනිමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka reached the Women's Asia T20 final by defeating Pakistan, thanks to Chamari's quick 48-ball 50 and Anushka Sanjivi's steady 24 from 22 balls. This marks Sri Lanka's sixth qualification to the Asian finals, facing India in the final match at Dambulla International Stadium on the 28th.
 
-අවසන් පූර්ව තරගයේ මුලින්ම පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම කඩුලු 4ට ලකුණු 140ක් රැස්කිරීමට සමත්විය. පිළිතුරු ඉනිම ක්‍රීඩා කිරීමට පිටියට පැමිණි ශ්‍රී ලංකා කණ්ඩායමේ පළමු කඩුල්ල ලෙස විශ්මි ගුණරත්න ලකුණු පුවරුවට එක් ලකුණක් හෝ එක්විමට පෙර දැවි ගියද නායකත්වයේ වගකීම මැනවින් ඉටුකළ චමරි සිය කඩුල්ල ආරක්ෂා කර ගනිමින් වුවත් වේගවත් ඉනිමක් ක්‍රීඩා කරමින් පන්දු 48කදී ලකුණු 63ක් රැස්කරමින් ඉනිම ස්ථාවර කළාය.
+🟩
 
-ඉන් අනතුරුව  ඉවසිලිවන්ත ඉනිමක් ක්‍රිඩා කළ අනුෂ්කා සංජිවනී පන්දු 22කදී ලකුණු 24ක් රැස්කරමින් ශ්‍රී ලංකාවේ ජයග්‍රහණය ස්ථිර කළාය.
+Sri Lanka were able to qualify for the final match of the Women's Asia T20, defeating the Pakistan by 3 wickets.
 
-ශ්‍රී ලංකා කණ්ඩායම මෙවර ආසියානු කුසාලන ක්‍රිකට් තරගාවලියේ අවසන් මහ තරගයකට තේරී පත්වූයේ 6 වැනි අවස්ථාවට වෙයි. මේ දක්වා කාන්තා ආසියානු කුසලාන ක්‍රිකට් තරගාවලි 8ක් පවත්වා ඇති අතර මෙවර .තරගාවලිය නොමැතිව අවස්ථා පහකදි ශ්‍රි ලංකාව අවසන් මහ තරගවලට සුදුසුකම් ලබා තිබුණි.
+Pakistan scored 140 runs for the bat first. Chamari, who was well-served in 48 balls, were stationed at 48 balls with a rapid innings, who had a rapid innings to defend his wicket.
 
-...
+Subsequently, Anushka Sanjivi, who played a patient innings, scored 24 runs off 22 balls with 24 balls.
+
+Sri Lanka were elected to the end of the Asian Huntock, the sixth. There were eight women Asia Cup tournaments and this year, Sri Lanka qualified for the final.
+
+However, at all, the tournament has been completed as the Charister. India has qualified for the final and the end of 7 occasions. The Bangladesh championship was champions of Occasion of India.
+
+Since India won the first semi-finals, the final match between the Sri Lankan team and the Indian team will be held at the Dambulla International Stadium on this 28th.
+
+◼️
 
 [Data](articles/c9d4cf0d.json)
+
+[Extended Data](ext_articles/c9d4cf0d.ext.json)
 
 ---
 
@@ -2189,23 +2225,5 @@ Meanwhile, the Sri Lanka Cricket Board has said in a statement that Binura is be
 [Data](articles/26557fd6.json)
 
 [Extended Data](ext_articles/26557fd6.ext.json)
-
----
-
-### Instruction for strong safety
-
-*2024-07-26 21:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-பாதுகாப்புக்கு-அறிவுறுத்தல்/175-341087) · `ta`
-
-Defense Minister Premitha Bandara Tennakoon has ordered security forces to take all precautions to protect presidential candidates and citizens amid the upcoming election.
-
-🟩
-
-Defense Minister Premitha Bandara Tennakoon today issued a directive to the security authorities to implement all necessary measures to ensure the safety of the presidential candidates and citizens following the announcement of the presidential election.
-
-◼️
-
-[Data](articles/5947c201.json)
-
-[Extended Data](ext_articles/5947c201.ext.json)
 
 ---

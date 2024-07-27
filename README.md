@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 18:37:26**
+As of **2024-07-27 18:54:29**
 
 ## Newspaper Stats
 
-*Scraped **37,555** Articles*
+*Scraped **37,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,73 @@ adaderanalk | 4,353
 tamilmirrorlk | 4,628
 dailymirrorlk | 4,733
 virakesarilk | 5,908
-adaderanasinhalalk | 6,311
+adaderanasinhalalk | 6,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,553 (100.0%) of 37,555 articles have been extended.
+37,555 (100.0%) of 37,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### பொலிஸ்மா அதிபர் தொடர்பான விவகாரத்தில் உச்சநீதிமன்றத்தின் தீர்ப்பை ஏற்க மறுக்கும் அரசாங்கம் - இலங்கை சட்டத்தரணிகள் சங்கம் கண்டனம்
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-07-27 18:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199273) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන තරග 3කින් සමන්විත 20යි 20 ක්‍රිකට් තරගාවලියේ පළමු තරගය අද (27) පල්ලේකැලේ ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීම සඳහා ඉන්දීය කණ්ඩායමට ආරාධනා කිරීමටය.
+
+◼️
+
+[Data](articles/e74d888b.json)
+
+---
+
+### Government of Sri Lanka's Lawyers Association denies the Supreme Court's verdict on the issue of police chief
 
 *2024-07-27 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189547) · `ta`
 
-அரசியலமைப்பு பேரவையின் அங்கீகாரத்துடன் ஜனாதிபதி மேற்கொண்ட நியமனங்களை உயர்நீதிமன்றம் கேள்விக்கு உட்படுத்த முடியாது என அரசாங்கம் தெரிவிப்பதை முற்றிலும் ஏற்றுக்கொள்ள முடியாத விடயம் என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Bar Association disputes the Supreme Court's authority over government appointments, asserting that the Constitutional Council's decisions align with the Supreme Court's fundamental rights. The association emphasizes the clarity of presidential powers post the 19th Amendment as grounds for the Supreme Court's annulment of the former president's amnesty.
 
-அரசியலமைப்பு பேரவையின் முடிவுகள் உயர்நீதிமன்றத்தின் அடிப்படை உரிமைகள் அதிகாரவரம்பிற்குள் தெளிவாக இணங்குகின்றன என தெரிவித்துள்ள இலங்கை சட்டத்தரணிகள் சங்கம்19வது திருத்தத்தின் பின்னர் ஜனாதிபதியின் அதிகாரங்கள்உயர்நீதிமன்றத்தின்  நியாயாதிக்கஎல்லைக்குட்பட்டது என்பது தெளிவான விடயம் எனவும் தெரிவித்துள்ளது
+🟩
 
-மேற்படி அதிகாரத்தின் அடிப்படையில்தான் தான் உயர்நீதிமன்றம் முன்னர் ஜனாதிபதி வழங்கிய பொதுமன்னிப்பை இரத்து செய்ததுஇநாடாளுமன்றம் கலைக்கப்பட்டதை இரத்துசெய்ததுஉயிர்த்த ஞாயிறு தாக்குதலின் போது பதவியிலிருந்த ஜனாதிபதிக்கு எதிராக தீர்ப்பு வழங்கியது எனவும் சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Bar Association has said that the government's appointments cannot be questioned by the Supreme Court's appointments with the approval of the Constitutional Council.
+
+The decisions of the Constitutional Council are clearly complied with the fundamental rights of the Supreme Court, the Sri Lanka Attorney's Association said that the powers of the president after the 19th Amendment were clear.
+
+It was on this basis that the Supreme Court canceled the amnesty of the President's former President.
 
 ◼️
 
 [Data](articles/1a91b51c.json)
 
+[Extended Data](ext_articles/1a91b51c.ext.json)
+
 ---
 
-### மகிந்தவை சந்தித்தனர் சுசில், சாகல - ரணிலுக்கு ஆதரவளிக்குமாறு வேண்டுகோள்
+### Susil met Mahinda to support Sagala - Ranil
 
 *2024-07-27 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189545) · `ta`
 
-கல்வியமைச்சர் சுசில் பிரேமஜயந்தவும் ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஸ்ட ஆலோசகர் சாகல ரத்நாயக்கவும் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்சவை சந்தித்து ஜனாதிபதி தேர்தலில் ஜனாதிபதி ரணில்விக்கிரமசிங்கவிற்கு ஆதரவளிக்குமாறு வேண்டுகோள் விடுத்துள்ளனர் என தகவல்கள் வெளியாகியுள்ளன.
+Education Minister Susil Premajayantha and Sagala Ratnayake met Mahinda Rajapaksa, urging him to back President Ranil Wickremesinghe in the upcoming presidential election. Rajapaksa stated the decision will be made at his party's executive committee meeting on Monday.
 
-இதற்கு பதிலளித்துள்ள முன்னாள் ஜனாதிபதி திங்கட்கிழமை நடைபெறவுள்ள கட்சியின் நிறைவேற்றுகுழுவின் கூட்;டத்தில் இது குறித்து தீர்மானிக்கப்படும் என தெரிவித்துள்ளார்.
+🟩
+
+According to reports, Education Minister Susil Premajayantha and President's senior adviser to the president's national security Sagala Ratnayake have met with former President Mahinda Rajapaksa and appealed to President Ranil Wickremesinghe to support the presidential election.
+
+Responding to this, the former President said that it would be decided at the party's executive committee to be held on Monday.
 
 ◼️
 
 [Data](articles/d2fdc106.json)
+
+[Extended Data](ext_articles/d2fdc106.ext.json)
 
 ---
 
@@ -2185,27 +2213,5 @@ From July 16, you can booked a passport with a link https://www.immigration.gov.
 [Data](articles/2cb10d2d.json)
 
 [Extended Data](ext_articles/2cb10d2d.ext.json)
-
----
-
-### TNA does not stop candidate
-
-*2024-07-26 19:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-கட்சி-வேட்பாளரை-நிறுத்தாது/175-341084) · `ta`
-
-TNA's MA Sumanthiran states the Sri Lankan Tamil government won't nominate a candidate for the presidential election, despite negotiations with potential candidates. However, several Tamil parties and activists plan to support a common Tamil candidate.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian MA Sumanthiran says that the Sri Lankan Tamil government will not appoint a candidate in the upcoming presidential election.
-
-Sumanthiran MP said he would negotiate with key candidates in the presidential election
-
-However, many Tamil political parties and civil society activists have recently signed an agreement to field a general Tamil candidate in the upcoming Sri Lankan presidential election.
-
-◼️
-
-[Data](articles/cf708f44.json)
-
-[Extended Data](ext_articles/cf708f44.ext.json)
 
 ---

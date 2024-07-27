@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 14:06:45**
+As of **2024-07-27 14:20:31**
 
 ## Newspaper Stats
 
-*Scraped **37,533** Articles*
+*Scraped **37,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,141
 economynextcom | 2,253
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,348
+adaderanalk | 4,349
 tamilmirrorlk | 4,626
 dailymirrorlk | 4,733
 virakesarilk | 5,905
@@ -26,37 +26,65 @@ adaderanasinhalalk | 6,302
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,531 (100.0%) of 37,533 articles have been extended.
+37,533 (100.0%) of 37,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### වෙනත් ඡන්ද මධ්‍යස්ථානයකදීත් ඡන්දය දීමට අවස්ථාව
+### IGP controversy: BASL reaffirms SC’s authority amid govt’s claims
+
+*2024-07-27 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100815/igp-controversy-basl-reaffirms-scs-authority-amid-govts-claims) · `en`
+
+The Bar Association of Sri Lanka (BASL) has condemned the recent government actions aimed at undermining the Supreme Court’s interim order concerning the appointment of the Inspector General of Police (IGP) Deshabandu Tennakoon.
+
+Issuing a statement in this regard, the BASL emphasized the government’s claim that the Supreme Court does not have power to call into question appointments made by the President which are approved by the Constitutional Council is ‘totally untenable’ in view of the BASL.
+
+In its statement, the BASL highlighted: “The decisions of the Constitutional Council are clearly amenable to the Fundamental Rights Jurisdiction of the Supreme Court (as per Article 411 of the Constitution). It is equally clear that following the 19th Amendment to the Constitution, the exercise of powers by the President, except his power to declare war and peace, are subject to the Fundamental Rights Jurisdiction of the Supreme Court (as per Article 35 of the Constitution).”
+
+...
+
+[Data](articles/adf59757.json)
+
+---
+
+### The opportunity to vote at another polling station
 
 *2024-07-27 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199262) · `si`
 
-එළඹෙන ජනාධිපතිවරණයේදී ඡන්ද දායකයින්ට තමන්ට නියමිත මධ්‍යස්ථානය හැර වෙනත් ඡන්ද මධ්‍යස්ථානයකදී ඡන්දය ප්‍රකාශ කිරීමට හැකියාව පවතින බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Eligible voters can vote at any polling station, not just their assigned one, due to the flexibility offered by the Elections Commission during the current presidential election. However, this option is only available if the voter cannot attend their designated polling station. Applications for this arrangement must be submitted to the Elections Commission by next month.
 
-ගැසට් නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව අවධාරණය කළේ සුදුසුකම්ලත් ඡන්ද දායකයින්ට තමන්ට නියමිත ස්ථානයේ ඡන්දය ප්‍රකාශ කිරීමට නොහැකි වීම පිළිබඳ සාධාරණ හේතුවක් ඇත්නම් විකල්ප ඡන්ද මධ්‍යස්ථානයකට ගොස් ඡන්දය ප්‍රකාශ කිරීමට ඉල්ලීමක් කළ හැකි බවය.
+🟩
 
-මේ සඳහා ඉල්ලුම් කරන අයදුම්කරුවන්ට ඒ සඳහා වන ආකෘති පත්‍ර ලබන මස 01 වනදා හෝ ඊට පෙර මැතිවරණ කොමිෂන් සභාව වෙත යොමුකළ යුතු වෙයි
+The Elections Commission says that the current presidential election is capable of voting at a polling station, other than their own center.
+
+The Commission emphasized that the Commission emphasized that eligible voters could not go to an alternative polling station if they were unable to vote.
+
+Applicants who are applying for this should be forwarded to the Elections Commission on or before next month
 
 ◼️
 
 [Data](articles/d3fec150.json)
 
+[Extended Data](ext_articles/d3fec150.ext.json)
+
 ---
 
-### LTTEය තවදුරටත් තහනම්
+### The LTTE is no longer banned
 
 *2024-07-27 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199261) · `si`
 
-යුරෝපා සංගමය තුළ LTTE සංවිධානය තවදුරටත් තහනම් සංවිධානයක් ලෙස නම් කිරීමට යුරෝපා සංගමය තීරණය කර තිබේ.
+The LTTE, previously unbanned, is now designated as a prohibited group within the EU.
+
+🟩
+
+The European Union has decided to name the LTTE as a banned organization in the European Union.
 
 ◼️
 
 [Data](articles/825c6d88.json)
+
+[Extended Data](ext_articles/825c6d88.ext.json)
 
 ---
 
@@ -2211,31 +2239,5 @@ Two of the hotel’s restaurants, its swimming pool, gymnasium and some of its p
 [Data](articles/56d43bb9.json)
 
 [Extended Data](ext_articles/56d43bb9.ext.json)
-
----
-
-### QR Code for all Money Transactions?
-
-*2024-07-26 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199240) · `si`
-
-President Ranil Wickremesinghe thanked Parliament for supporting the Economic Transformation Bill, inviting all parties to continue the program. He emphasized the need for an Export Center and digitalization, citing examples from India and China where mobile payments, including QR codes, are prevalent. The President also launched a QR Code system for micro, small, and medium-scale entrepreneurs at the Pinnawala Zoo.
-
-🟩
-
-President Ranil Wickremesinghe says he thanks all political parties in Parliament who supported the overeating the economic translation bill, which is on the right environment.
-
-The President has also invited all political parties to join the continuation of that program.
-
-President Ranil Wickremesinghe made this statement participating at the event held at Parakrama Maha Vidyalaya today (26) at Parakrama Maha Vidyalaya.
-
-The President also said that the administrative and institutional structure needed to build an Export Center of Exports in the country in the Economic Translation Bill.
-
-"When I arrived at this school today, I recalled the time I went to school. We had only the blackboard and the piece of the lime. There were no availability that day. I just saw a computer after the completion of university education. Today you have received sophisticated eulous classrooms with modern equipment. The world is changing in every aspect. We too need to get the knowledge needed to cope.
-
-...
-
-[Data](articles/26788cf5.json)
-
-[Extended Data](ext_articles/26788cf5.ext.json)
 
 ---

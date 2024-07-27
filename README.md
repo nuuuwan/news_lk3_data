@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 20:54:29**
+As of **2024-07-27 21:05:42**
 
 ## Newspaper Stats
 
-*Scraped **37,565** Articles*
+*Scraped **37,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,354
 tamilmirrorlk | 4,629
 dailymirrorlk | 4,733
 virakesarilk | 5,908
-adaderanasinhalalk | 6,315
+adaderanasinhalalk | 6,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,564 (100.0%) of 37,565 articles have been extended.
+37,565 (100.0%) of 37,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### ඉන්දියාවෙන් ප්‍රබල ප්‍රහාරයක්
+
+*2024-07-27 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199277) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන 20යි 20 ක්‍රිකට් තරගාවලියේ පළමු තරගය මේ වනවිට පල්ලේකැලේ ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත් වේ.
+
+එහි කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඉන්දීය කණ්ඩායමට ලබාදීමටය.
+
+ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 213ක් රැස් කළේය.
+
+එහිදී ඉන්දීය කණ්ඩායම වෙනුවෙන් සූර්යකුමාර් යාදව් ලකුණු 58ක් රැස්කළ අතර රිෂාබ් පාන්ට් ලකුනු 49ක් රැස්කළේය.
+
+පන්දු යැවීමේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් මතීෂ පතිරණ කඩුලු 4ක් දවාගත්තේය.
+
+ඒ අනුව තරගය ජය ගැනීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට හිමිවූ ඉලක්කය ලකුණු 214කි.
+
+◼️
+
+[Data](articles/8cb782b7.json)
+
+---
 
 ### Here are the people who joined Ranil
 
@@ -320,17 +342,23 @@ During his behalf of former President Mahinda Rajapaksa, President Mahinda Rajap
 
 ---
 
-### கட்டுப்பணத்தை கட்டிவிட்டேன் : ரணில்
+### Tied up with control: Ranil
 
 *2024-07-27 17:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கட்டுப்பணத்தை-கட்டிவிட்டேன்-ரணில்/46-341108) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடப் போவதாகவும், அதற்கான கட்டுப் பணத்தை ஏற்கனவே கட்டியுள்ளதாகவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced his candidacy for the upcoming presidential election, stating that preparations were underway. This announcement came during his address at the Galle Municipal Council grounds.
 
-காலி மாநகர சபை மைதானத்தில் தற்போது இடம்பெற்று வரும் “ஒன்றாக வெல்வோம் – காலியில் நாம்” பொதுக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
+
+President Ranil Wickremesinghe said he would contest the upcoming presidential election and that the money was already being built.
+
+President Ranil Wickremesinghe said this while addressing the gathering at the Galle Municipal Council grounds.
 
 ◼️
 
 [Data](articles/51f85f4a.json)
+
+[Extended Data](ext_articles/51f85f4a.ext.json)
 
 ---
 
@@ -2221,33 +2249,5 @@ He said that the election laws were implemented and the state vehicles would not
 [Data](articles/de984b42.json)
 
 [Extended Data](ext_articles/de984b42.ext.json)
-
----
-
-### No one can act against election law
-
-*2024-07-26 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189481) · `ta`
-
-The Elections Commission reaffirms adherence to constitutional and electoral laws, emphasizing no actions against these laws will be tolerated. Preparations for the presidential election, as per the 1981 Presidential Elections Act, commence on Friday, with instructions on election procedures forthcoming. The contesting candidates' financial officers' authority extends until the 14th of this month. A referendum is scheduled for Saturday, addressing concerns previously raised about swift election announcements. The State Press and Postal Departments initiate election-related tasks, ensuring the election process remains unaffected, with the Senior Police Chancellor collaborating with the Commission.
-
-🟩
-
-We are working in accordance with the arrangements of the Constitution and the 1981 Presidential Elections Act. This is not to succumb to the pressures of other sides. Preparations of the Election Act will be implemented on Friday (26).
-
-No one can engage in activities against the election law. RML Ratnayake, Chairman of the Elections Commission, said that the instructions on the elections and legal procedures will soon be issued.
-
-He was speaking at a media briefing held at the Elections Commission's office on Friday (26).
-
-We have issued an official announcement on the presidential election.
-
-The contesting candidates will be able to control the financial officer of the Elections Commission until the 14th of this month.
-
-Elections Commission not to announce the announcement of the presidential election quickly. That many have questioned in the past. We have currently issued a notification. We have decided to hold a referendum on Saturday for all.
-
-...
-
-[Data](articles/08dfe83c.json)
-
-[Extended Data](ext_articles/08dfe83c.ext.json)
 
 ---

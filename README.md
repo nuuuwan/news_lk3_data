@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 17:20:40**
+As of **2024-07-27 17:36:06**
 
 ## Newspaper Stats
 
-*Scraped **37,550** Articles*
+*Scraped **37,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 2,256
 dailyftlk | 2,405
 adalk | 3,412
 adaderanalk | 4,353
-tamilmirrorlk | 4,627
+tamilmirrorlk | 4,628
 dailymirrorlk | 4,733
 virakesarilk | 5,906
-adaderanasinhalalk | 6,309
+adaderanasinhalalk | 6,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,547 (100.0%) of 37,550 articles have been extended.
+37,550 (100.0%) of 37,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### මහින්ද ළඟ සිටි ප්‍රබලයෙක් සජිත් ළඟට යයි
+
+*2024-07-27 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199271) · `si`
+
+ප්‍රවීණ මාධ්‍යවේදියෙකු වන කුමාරසිරි හෙට්ටිගේ මහතා සමගි ජන බලවේගයේ මාතර දිස්ත්‍රික් සංවිධායකවරයෙක් ලෙස පත්කර තිබේ.
+
+ඊට අදාළ පත්වීම ඔහු පසුගියදා සජිත් ප්‍රේමදාස මහතා අතින් ලබාගත්තේය.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ජනාධිපති ධූරයේ සහ අග්‍රාමාත්‍ය ධූරයේ කටයුතු කළ සමයේදී කුමාරසිරි හෙට්ටිගේ මහතා ඔහුගේ පාර්ලිමේන්තු කටයුතු ලේකම්වරයා ලෙසද කටයුතු කරනු ලැබීය.
+
+◼️
+
+[Data](articles/398ed987.json)
+
+---
+
+### கட்டுப்பணத்தை கட்டிவிட்டேன் : ரணில்
+
+*2024-07-27 17:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்பணத்தை-கட்டிவிட்டேன்-ரணில்/175-341108) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடப் போவதாகவும், அதற்கான கட்டுப் பணத்தை ஏற்கனவே கட்டியுள்ளதாகவும்  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்
+
+காலி மாநகர சபை மைதானத்தில் தற்போது இடம்பெற்று வரும் “ஒன்றாக வெல்வோம் –  காலியில் நாம்” பொதுக்கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க மேற்கண்டவாறு தெரிவித்தார்
+
+◼️
+
+[Data](articles/aac59d8e.json)
+
+---
 
 ### Ranil Wickremesinghe confirms presidential candidacy
 
@@ -46,19 +76,27 @@ On Friday (26), President’s Counsel Ronald Perera placed bonds on behalf of Pr
 
 [Data](articles/4d2e6392.json)
 
+[Extended Data](ext_articles/4d2e6392.ext.json)
+
 ---
 
-### ජනපතිවරණයට ඉල්ලන බව රනිල් පළමු වරට කියයි
+### Ranil for the first time that Ranil is demanding the presidential election
 
 *2024-07-27 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199270) · `si`
 
-තමා ඉදිරි ජනාධිපතිවරණයට තරග කරන බවත් ඊට අදාළව දැනටමත් ඇප මුදල් තැන්පත් කර අවසන් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (27) පස්වරුවේ ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe announced his candidacy for the upcoming presidential election during a conference in Jayawewa Galle District today.
 
-ඒ, ගාල්ලේ අද පැවැත්වෙන එක්ව ජයගමු ගාලු දිස්ත්‍රික් ජන සමුළුවේදීය.
+🟩
+
+President Ranil Wickremesinghe today (27th) this afternoon, President Ranil Wickremesinghe said that he would contest the next presidential election.
+
+It was held today at the Jayawewa Galle District People's Conference.
 
 ◼️
 
 [Data](articles/1378318c.json)
+
+[Extended Data](ext_articles/1378318c.ext.json)
 
 ---
 
@@ -79,6 +117,8 @@ Upon their arrest, authorities found 30 grams and 200 milligrams of crystal meth
 ...
 
 [Data](articles/1471c23c.json)
+
+[Extended Data](ext_articles/1471c23c.ext.json)
 
 ---
 
@@ -2165,55 +2205,5 @@ The former president of the Sri Lanka Lawyers Association, President of the Sri 
 [Data](articles/98aec6e3.json)
 
 [Extended Data](ext_articles/98aec6e3.ext.json)
-
----
-
-### Our privilege has been violated by the Finance Minister's allegation -Harsha de Silva
-
-*2024-07-26 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189450) · `ta`
-
-Harsha de Silva rejects Finance Minister Sehan Semasinghe's claim about false statements on visa distribution to foreign tourists, calling it a violation of his privilege. He insists his committee's report complies fully with regulations and demands an investigation into the minister's accusations.
-
-🟩
-
-I am completely rejecting the allegation made by the Minister of State for Finance Sehan Semasinghe that the content of the State Finance Committee on the issue of visa distribution to foreign tourists has been false. My charge has been violated by his allegation.
-
-He was speaking at the issue of privilege violation during a session on Friday (26) in Parliament.
-
-The Minister of State for Finance on the 23rd of this month, the Minister of State for Finance on the issue of visa distribution of visa to foreign tourists visiting Sri Lanka.
-
-I do not mention that the report will be submitted to the council in accordance with the Complete Compliance of the Committee.
-
-I completely dismiss the allegations made by the Minister of Finance. I also submit to the council, so I have violated my privilege of the Finance Committee due to the fundamental allegations of the Minister of Finance.
-
-◼️
-
-[Data](articles/5b606ff9.json)
-
-[Extended Data](ext_articles/5b606ff9.ext.json)
-
----
-
-### Police Chancellor Controversy: The President cannot resolve even the problem - Speaker
-
-*2024-07-26 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189451) · `ta`
-
-The controversy over the appointment of the Inspector General of Police involves the President acting within constitutional bounds, despite opposition claims. The Speaker emphasizes that the President followed constitutional procedures and rejects accusations of inability to address police issues. Decisions regarding the police chief's appointment and dismissal must comply with parliamentary approval and the Constitutional Council's advice. The Speaker suggests legal recourse if disputes arise, highlighting the importance of adhering to constitutional processes.
-
-🟩
-
-At the appointment of the Inspector General of Police, the President of the Constitutional Council has acted as the leader of the Constitution. I reject the allegations that the president is unable to resolve the problem of the police.
-
-There are special instructions if there is a vacuum or removing the post of the officer appointed with the compliance of Parliament or the removal of the post. The Speaker also stated that actions can be taken accordingly.
-
-The Speaker said in response to the allegations made by the opposition during the logic of the ruling opposition parties following a special speech made by Prime Minister Dinesh Gunawardena on the interim injunction imposed by the High Court on Friday (26) in Parliament.
-
-As the President of the Constitutional Council, the current crises are due
-
-...
-
-[Data](articles/99ccd678.json)
-
-[Extended Data](ext_articles/99ccd678.ext.json)
 
 ---

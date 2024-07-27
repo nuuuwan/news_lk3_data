@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 13:05:42**
+As of **2024-07-27 13:20:30**
 
 ## Newspaper Stats
 
-*Scraped **37,528** Articles*
+*Scraped **37,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,40 @@ adalk | 3,412
 adaderanalk | 4,347
 tamilmirrorlk | 4,626
 dailymirrorlk | 4,733
-virakesarilk | 5,904
+virakesarilk | 5,905
 adaderanasinhalalk | 6,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,525 (100.0%) of 37,528 articles have been extended.
+37,528 (100.0%) of 37,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### ඡන්දෙට සල්ලි දීම ගැන අලුත් ආරංචියක්
+### New news of giving money for election
 
 *2024-07-27 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199259) · `si`
 
-මැතිවරණ කොමසාරිස්වරයා විසින් ඉල්ලා සිටින ආකාරයට ඉදිරි ජනාධිපතිවරණය සඳහා මුදල් ලබාදීමට මහා භාණ්ඩාගාරය සූදානම් බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Dr. Ranjith Siyambalapitiya announced that the Treasury will fund the upcoming presidential election as requested by the Elections Commissioner, citing good economic management. The exact amount depends on the number of candidates.
 
-අමාත්‍යවරයා සඳහන් කළේ පසුගිය අයවැයෙන් මැතිවරණ කටයුතු සඳහා රුපියල් බිලියන 10 ක මුදලක් වෙන් කළ අතර,  මුදල් ප්‍රවාහ අතර කිසිදු ගැටුමක් නොවන ආකාරයට එම මුදල් නිදහස් කිරීමට තරම් ආර්ථිකය මනා ලෙස කළමනාකරණය කර ඇති බවය.
+🟩
 
-ඒ අනුව මැතිවරණ කොමසාරිස් කාර්යාලය රුපියල් බිලියන 08කට ආසන්න වියදම් ඇස්තමේන්තුවක් එවා ඇති බවත්, මුද්‍රණ කටයුතු, ආරක්ෂක කටයුතු, ඉන්ධන, ඡන්ද පෙට්ටි සැකසීම ආදී හදිසි ඕනෑම අවශ්‍යතාවයක් වෙනුවෙන් එම මුදල් නිදහස් කිරීමට මහා භාණ්ඩාගාරය සූදානම් බවත් රාජ්‍ය අමාත්‍යවරයා ප්‍රකාශ කළේය.
+State Minister Dr. Ranjith Siyambalapitiya says that the Treasury is ready to provide funds for the next presidential election as requested by the Commissioner of Elections.
 
-යම් හෙයකින් ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයින් සංඛ්‍යාව වැඩි වී ඇස්තමේන්තු ගත වියදම වැඩි වුවහොත් දැනට අවිනිශ්චිත කටයුතු සඳහා මුදලක් ඇති බැවින් ඒ සම්බන්ධයෙන් කිසිදු ගැටලුවක් ඇති නොවන බවද අමාත්‍යවරයා පැවසීය.
+The Minister said that the economy has been well managed enough to release the money in the last Budget.
+
+Accordingly, the General Treasury is ready to release the money, such as the Elections Commissioner's office nearly Rs.
+
+If the number of candidates contesting the presidential election increases, the amount of money is currently uncertaining to do so.
 
 ◼️
 
 [Data](articles/3343689f.json)
+
+[Extended Data](ext_articles/3343689f.ext.json)
 
 ---
 
@@ -64,23 +70,49 @@ Furthermore, the gazette notification highlighted that the provisions of Section
 
 [Data](articles/2d90ce63.json)
 
+[Extended Data](ext_articles/2d90ce63.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා - ඉන්දියා අද තරගයේ ටිකට් විකිණී අවසන්
+### Sri Lanka-India ticket has been released today
 
 *2024-07-27 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199258) · `si`
 
-ශ්‍රී ලංකාව සහ සංචාරක ඉන්දීය කණ්ඩායම අතර පැවැත්වෙන පළමු T20 තරගය අද (27) පැවැත්වීමට නියමිතය.
+Tickets for the first T20 match between Sri Lanka and India went on sale today, with the game scheduled for 4 pm at the Pallekele International Cricket Stadium.
 
-එම තරගය සඳහා අදාළ ප්‍රවේශපත්‍ර විකිණී අවසන් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+🟩
 
-එම නිසා තරගය සඳහා ප්‍රවේශපත්‍ර මිලදී ගැනීම ට ක්‍රීඩාංගණයට හෝ ප්‍රවේශපත්‍ර කවුළු වෙත නොපැමිණෙන ලෙස ශ්‍රී ලංකා ක්‍රිකට් ආයතනය  දැනුම් දී ඇත.
+The first T20 match between Sri Lanka and Tourism will be held today (27).
 
-තරගය පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැත්වෙන අතර තරගය නැරඹීම සඳහා අද පස්වරු 4 ට එහි දොරටු විවෘත කරන බව මහජනතාවට දන්වා තිබේ.
+SLC announced that tickets for the match were for sale.
+
+Therefore, SLC has informed the purchase of tickets to the play or ticket windows.
+
+The event is held at the Pallekele International Cricket Stadium and the gates of the 4 pm today.
 
 ◼️
 
 [Data](articles/f9ce6fde.json)
+
+[Extended Data](ext_articles/f9ce6fde.ext.json)
+
+---
+
+### இந்தியாவிலிருந்து இலங்கைக்கு கடத்த முற்பட்ட 5 இலட்சம் வலி நிவாரணி மாத்திரைகள் கைப்பற்றல்
+
+*2024-07-27 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189506) · `ta`
+
+இந்தியாவிலிருந்து இலங்கைக்கு கடத்த முற்பட்ட 5 இலட்சம் வலி நிவாரணி மாத்திரைகளை வெள்ளிக்கிழமை (26)  திருச்சி சுங்கத்துறை நுண்ணறிவு பிரிவு அதிகாரிகள் கைப்பற்றியுள்ளனர்.
+
+இந்தியாவில் ராமநாதபுரம் மாவட்டம் ராமேஸ்வரம், மண்டபம்  வேதாளை மரைக்காயர் பட்டினம்,  மானாங்குடி உள்ளிட்ட கடற்கரையில்  இருந்து தனுஷ்கோடி கடல் வழியாக கடல் அட்டை, சமையல் மஞ்சள், இஞ்சி, வலி நிவாரணி மாத்திரைகள், கஞ்சா உள்ளிட்ட பொருட்கள் இலங்கைக்கு கடத்தப்பட்டு வருகிறது.
+
+கடல் வழியாக நடக்கும் கடத்தல் சம்பவங்களை தடுக்க இந்திய மத்திய சுங்கத்துறை, கடலோர காவல் படை, கடற்படை மற்றும் மத்திய, மாநில உளவுத்துறை அதிகாரிகள் தீவிர கண்காணிப்பு பணியில் ஈடுபட்டு வந்தாலும் அதையும் மீறி  சமீப காலமாக அதிக அளவில்  கடத்தல் சம்பவங்கள் நடைபெற்று வருகிறது.
+
+இந்நிலையில், இலங்கைக்கு கடத்துவதற்காக மானாங்குடி கடற்கரையில் பதுக்கி வைக்கப்பட்டிருந்த 10 பெட்டிகள் கைப்பற்றப்பட்டது.
+
+...
+
+[Data](articles/42f8c38f.json)
 
 ---
 
@@ -2211,25 +2243,5 @@ Meanwhile, President Ranil Wickremesinghe, Sarath Keerthirath, Ocehala Herath an
 [Data](articles/a5ada5b6.json)
 
 [Extended Data](ext_articles/a5ada5b6.ext.json)
-
----
-
-### Sri Lanka’s security chiefs instructed to ensure country’s security ahead of election
-
-*2024-07-26 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100797/sri-lankas-security-chiefs-instructed-to-ensure-countrys-security-ahead-of-election) · `en`
-
-As the upcoming presidential election has been announced by the Election Commission, State Minister of Defence  Premitha Bandara Tennakoon has today (26) instructed the security chiefs to take all necessary measures to ensure the security of the presidential candidates, citizens and the entire country during this election period.
-
-The state minister has given the following instructions when the Ministerial Consultative Committee on Defence met in Parliament this morning (26), the Communication Department said in a statement.
-
-Chief of Defence Staff General Shavendra Silva, Navy Commander Vice Admiral Priyantha Perera and a group of high-level officers of the three-armed forces as well as the heads of the Ministry of Defence and the departments under the ministry were called to this committee meeting.
-
-The state minister has requested that all these activities be carried out in accordance with the Constitution and the protection of the human rights of the citizens.
-
-...
-
-[Data](articles/065b0fcd.json)
-
-[Extended Data](ext_articles/065b0fcd.ext.json)
 
 ---

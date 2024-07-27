@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 13:54:55**
+As of **2024-07-27 14:06:45**
 
 ## Newspaper Stats
 
-*Scraped **37,531** Articles*
+*Scraped **37,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 4,348
 tamilmirrorlk | 4,626
 dailymirrorlk | 4,733
 virakesarilk | 5,905
-adaderanasinhalalk | 6,300
+adaderanasinhalalk | 6,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,531 (100.0%) of 37,531 articles have been extended.
+37,531 (100.0%) of 37,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### වෙනත් ඡන්ද මධ්‍යස්ථානයකදීත් ඡන්දය දීමට අවස්ථාව
+
+*2024-07-27 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199262) · `si`
+
+එළඹෙන ජනාධිපතිවරණයේදී ඡන්ද දායකයින්ට තමන්ට නියමිත මධ්‍යස්ථානය හැර වෙනත් ඡන්ද මධ්‍යස්ථානයකදී ඡන්දය ප්‍රකාශ කිරීමට හැකියාව පවතින බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+ගැසට් නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව අවධාරණය කළේ සුදුසුකම්ලත් ඡන්ද දායකයින්ට තමන්ට නියමිත ස්ථානයේ ඡන්දය ප්‍රකාශ කිරීමට නොහැකි වීම පිළිබඳ සාධාරණ හේතුවක් ඇත්නම් විකල්ප ඡන්ද මධ්‍යස්ථානයකට ගොස් ඡන්දය ප්‍රකාශ කිරීමට ඉල්ලීමක් කළ හැකි බවය.
+
+මේ සඳහා ඉල්ලුම් කරන අයදුම්කරුවන්ට ඒ සඳහා වන ආකෘති පත්‍ර ලබන මස 01 වනදා හෝ ඊට පෙර මැතිවරණ කොමිෂන් සභාව වෙත යොමුකළ යුතු වෙයි
+
+◼️
+
+[Data](articles/d3fec150.json)
+
+---
+
+### LTTEය තවදුරටත් තහනම්
+
+*2024-07-27 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199261) · `si`
+
+යුරෝපා සංගමය තුළ LTTE සංවිධානය තවදුරටත් තහනම් සංවිධානයක් ලෙස නම් කිරීමට යුරෝපා සංගමය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/825c6d88.json)
+
+---
 
 ### LTTE ban in European Union further extended
 
@@ -2209,47 +2237,5 @@ The President also said that the administrative and institutional structure need
 [Data](articles/26788cf5.json)
 
 [Extended Data](ext_articles/26788cf5.ext.json)
-
----
-
-### Four candidates place deposits for 2024 Presidential Election
-
-*2024-07-26 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/100798/four-candidates-place-deposits-for-2024-presidential-election) · `en`
-
-The Election Commission of Sri Lanka says that deposits have been placed for four candidates within today (26) to contest the 2024 Presidential Election.
-
-This includes two independent candidates and two other candidates from recognized political parties.
-
-The independent candidates are President Ranil Wickremesinge and former MP Sarath Keerthirathne while other two candidates are Oshala Herath from ‘Abhinawa Niwahal Peramuna’ and ASP Liyanage of the Sri Lanka Labour Party.
-
-◼️
-
-[Data](articles/3c1a4f7f.json)
-
-[Extended Data](ext_articles/3c1a4f7f.ext.json)
-
----
-
-### Land rights should be put forward as the primary demand of the people of the hill country - Velu Kumar
-
-*2024-07-26 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189465) · `ta`
-
-Velu Kumar urges prioritizing land rights for hill country residents in elections, highlighting historical land ownership and government actions perceived as undermining these rights. He calls for a focus on securing land and livelihoods as key electoral demands, advocating for presidential candidates to address this issue directly.
-
-🟩
-
-Kandy district parliamentarian Velu Kumar has said that the land rights should be made as the primary demand of the people of the hill country in the upcoming presidential election.
-
-The people of the hill country have been land ownership over 200 years. The present government has put forward a cabinet bond that will further pull it up and declare Lion's rooms into villages.
-
-It is making progress to make it legal. This is the process of completely burying the land rights of the hill country. This should be burned in the sprout.
-
-On the contrary, the first demand is to obtain land and livelihood land for a separate house in the presidential election. The program to implement it should be created by the presidential candidates.
-
-◼️
-
-[Data](articles/a370fd88.json)
-
-[Extended Data](ext_articles/a370fd88.ext.json)
 
 ---

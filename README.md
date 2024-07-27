@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 18:14:42**
+As of **2024-07-27 18:26:18**
 
 ## Newspaper Stats
 
-*Scraped **37,552** Articles*
+*Scraped **37,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,353
 tamilmirrorlk | 4,628
 dailymirrorlk | 4,733
 virakesarilk | 5,906
-adaderanasinhalalk | 6,310
+adaderanasinhalalk | 6,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,552 (100.0%) of 37,552 articles have been extended.
+37,552 (100.0%) of 37,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### චීනයේ පිපිරීමක්
+
+*2024-07-27 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199272) · `si`
+
+චීනයේ හෙනාන් හි කාර්මික නගරයක සිදුවු පිපිරීමකින් පුද්ගලයින් 5 දෙනෙකු මියගොස් තිබේ.
+
+ඇලුමිනියම් නිෂ්පාදනාගාරයක මෙම පිපිරීම සිදුවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අනතුරින් තවත් පුද්ගලයින් 14 දෙනෙකු තුවාල ලබා ඇති බව සඳහන් ය.
+
+සිද්ධිය සම්බන්ධයෙන් ආයතනය භාරව සිටි පුද්ගලයා අත්අඩංගුවට ගෙන ඇති අතර අනතුරට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+
+◼️
+
+[Data](articles/0b6bde7f.json)
+
+---
 
 ### Sajith goes to Sajith
 
@@ -2195,27 +2213,5 @@ MP Anura Kumara Dissanayake made this statement regarding the appointment of a a
 [Data](articles/75c43853.json)
 
 [Extended Data](ext_articles/75c43853.ext.json)
-
----
-
-### If the duties are not fulfilled
-
-*2024-07-26 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189446) · `ta`
-
-In a move seen as ignoring personal responsibilities, President Ranil Wickremesinghe withdrew from appointing an Inspector General of Police. His attorney, Saliya Peiris, called for the Prime Minister to temporarily step down to fulfill duties, highlighting concerns about the President's disregard for constitutional obligations. This decision comes after receiving legal advice that the appointment would face challenges in court. Critics, including the former president of the Sri Lanka Lawyers Association, have criticized the President's lack of maturity and honesty in accepting judicial decisions. The situation raises questions about the President's willingness to engage in national activities, such as distributing lands, which could affect elections.
-
-🟩
-
-The president's announcement that he has withdrawn from appointing the Inspector General of Police shows that he is ignoring the obligations that can be fulfilled alone.. President's Attorney Saliya Peiris has urged the Prime Minister to temporarily resign as per the Constitution and fulfill the obligations if he cannot accomplish his obligations.
-
-President Ranil Wickremesinghe has informed Speaker Mahinda Yapa Abeywardena that he has received legal advice that the election response will be appointed in court and therefore he has quit.
-
-The former president of the Sri Lanka Lawyers Association, President of the Sri Lanka Lawyers Association, pointed out that this is another very good attempt to violate it by the President who has no maturity or honesty to accept the verdict of the Supreme Court.
-
-...
-
-[Data](articles/98aec6e3.json)
-
-[Extended Data](ext_articles/98aec6e3.ext.json)
 
 ---

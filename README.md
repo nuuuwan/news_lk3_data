@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 18:26:18**
+As of **2024-07-27 18:37:26**
 
 ## Newspaper Stats
 
-*Scraped **37,553** Articles*
+*Scraped **37,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,70 @@ adalk | 3,412
 adaderanalk | 4,353
 tamilmirrorlk | 4,628
 dailymirrorlk | 4,733
-virakesarilk | 5,906
+virakesarilk | 5,908
 adaderanasinhalalk | 6,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,552 (100.0%) of 37,553 articles have been extended.
+37,553 (100.0%) of 37,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### චීනයේ පිපිරීමක්
+### பொலிஸ்மா அதிபர் தொடர்பான விவகாரத்தில் உச்சநீதிமன்றத்தின் தீர்ப்பை ஏற்க மறுக்கும் அரசாங்கம் - இலங்கை சட்டத்தரணிகள் சங்கம் கண்டனம்
+
+*2024-07-27 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189547) · `ta`
+
+அரசியலமைப்பு பேரவையின் அங்கீகாரத்துடன் ஜனாதிபதி மேற்கொண்ட நியமனங்களை உயர்நீதிமன்றம் கேள்விக்கு உட்படுத்த முடியாது என அரசாங்கம் தெரிவிப்பதை முற்றிலும் ஏற்றுக்கொள்ள முடியாத விடயம் என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+
+அரசியலமைப்பு பேரவையின் முடிவுகள் உயர்நீதிமன்றத்தின் அடிப்படை உரிமைகள் அதிகாரவரம்பிற்குள் தெளிவாக இணங்குகின்றன என தெரிவித்துள்ள இலங்கை சட்டத்தரணிகள் சங்கம்19வது திருத்தத்தின் பின்னர் ஜனாதிபதியின் அதிகாரங்கள்உயர்நீதிமன்றத்தின்  நியாயாதிக்கஎல்லைக்குட்பட்டது என்பது தெளிவான விடயம் எனவும் தெரிவித்துள்ளது
+
+மேற்படி அதிகாரத்தின் அடிப்படையில்தான் தான் உயர்நீதிமன்றம் முன்னர் ஜனாதிபதி வழங்கிய பொதுமன்னிப்பை இரத்து செய்ததுஇநாடாளுமன்றம் கலைக்கப்பட்டதை இரத்துசெய்ததுஉயிர்த்த ஞாயிறு தாக்குதலின் போது பதவியிலிருந்த ஜனாதிபதிக்கு எதிராக தீர்ப்பு வழங்கியது எனவும் சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1a91b51c.json)
+
+---
+
+### மகிந்தவை சந்தித்தனர் சுசில், சாகல - ரணிலுக்கு ஆதரவளிக்குமாறு வேண்டுகோள்
+
+*2024-07-27 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189545) · `ta`
+
+கல்வியமைச்சர் சுசில் பிரேமஜயந்தவும் ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஸ்ட ஆலோசகர் சாகல ரத்நாயக்கவும் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்சவை சந்தித்து ஜனாதிபதி தேர்தலில் ஜனாதிபதி ரணில்விக்கிரமசிங்கவிற்கு ஆதரவளிக்குமாறு வேண்டுகோள் விடுத்துள்ளனர் என தகவல்கள் வெளியாகியுள்ளன.
+
+இதற்கு பதிலளித்துள்ள முன்னாள் ஜனாதிபதி திங்கட்கிழமை நடைபெறவுள்ள கட்சியின் நிறைவேற்றுகுழுவின் கூட்;டத்தில் இது குறித்து தீர்மானிக்கப்படும் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d2fdc106.json)
+
+---
+
+### An explosion in China
 
 *2024-07-27 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199272) · `si`
 
-චීනයේ හෙනාන් හි කාර්මික නගරයක සිදුවු පිපිරීමකින් පුද්ගලයින් 5 දෙනෙකු මියගොස් තිබේ.
+In Hennan, China, an explosion at an aluminum factory killed five and injured fourteen. The factory's manager was arrested, but the cause remains unknown.
 
-ඇලුමිනියම් නිෂ්පාදනාගාරයක මෙම පිපිරීම සිදුවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-අනතුරින් තවත් පුද්ගලයින් 14 දෙනෙකු තුවාල ලබා ඇති බව සඳහන් ය.
+Five people have been killed in explosion in a industrial city in Hennan, China.
 
-සිද්ධිය සම්බන්ධයෙන් ආයතනය භාරව සිටි පුද්ගලයා අත්අඩංගුවට ගෙන ඇති අතර අනතුරට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+The explosion of a aluminum factory has taken place, foreign media reports say.
+
+Fourteen persons were injured in the accident.
+
+The man in charge of the institute has been arrested and the cause of the accident is yet to be determined.
 
 ◼️
 
 [Data](articles/0b6bde7f.json)
+
+[Extended Data](ext_articles/0b6bde7f.ext.json)
 
 ---
 
@@ -2171,47 +2207,5 @@ However, many Tamil political parties and civil society activists have recently 
 [Data](articles/cf708f44.json)
 
 [Extended Data](ext_articles/cf708f44.ext.json)
-
----
-
-### Tamil general candidate does not support ideology - MA Sumanthiran
-
-*2024-07-26 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189480) · `ta`
-
-MA Sumanthiran, TNA parliamentarian, stated that the Tamil general candidate doesn't align with the TNA's ideology but clarified that the alliance won't obstruct any presidential candidate. He mentioned negotiations with main candidates post-elections.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian MA Sumanthiran has said that the Tamil general candidate did not support the ideology of the candidate in the presidential election.
-
-He added that the Sri Lanka Tamil National Alliance (TNA) has decided not to stop a candidate in the presidential election.
-
-However, MP MA said that the future will be negotiated with the main candidates who will be in the presidential election.. Said Sumanthiran.
-
-◼️
-
-[Data](articles/27bab66b.json)
-
-[Extended Data](ext_articles/27bab66b.ext.json)
-
----
-
-### Challenge from Anura
-
-*2024-07-26 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199245) · `si`
-
-Anura Kumara Dissanayake, leader of the National JHD, threatens legal action against the current government for delaying the appointment of an acting Inspector General of Police (IGP), accusing them of creating societal confusion and avoiding elections. He criticizes the lack of transparency in the process and calls for immediate action, while also expressing confidence in the ability of the IGP to handle ongoing issues.
-
-🟩
-
-Leader of the National JHD Anura Kumara Dissanayake says that if it is a duties as the IGP, legal action will be taken to take legal action.
-
-MP Anura Kumara Dissanayake made this statement regarding the appointment of a acting IGP in a press conference held today (26).
-
-...
-
-[Data](articles/75c43853.json)
-
-[Extended Data](ext_articles/75c43853.ext.json)
 
 ---

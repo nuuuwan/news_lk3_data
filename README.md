@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 21:20:22**
+As of **2024-07-27 21:35:59**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,566 (100.0%) of 37,568 articles have been extended.
+37,568 (100.0%) of 37,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### ஐக்கிய மக்கள் சக்தி எம்.பி. ரணிலுக்கு ஆதரவு
+### United People's Power MP. Support to Ranil
 
 *2024-07-27 20:57:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தி-எம்-பி-ரணிலுக்கு-ஆதரவு/175-341109) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் அநுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினர் இஷாக் ரஹுமான் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளித்துள்ளார்.
+Ishaq Rahman, United People's Power MP, publicly supports President Ranil Wickremesinghe during a Galle meeting.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமையில் காலியில் இடம்பெற்ற கூட்டத்தின் போது அவர் இந்த ஆதரவை வழங்கியுள்ளார்.(a)
+🟩
+
+United People's Power MP Ishaq Rahman has supported President Ranil Wickremesinghe.
+
+He presented this support during a meeting in Galle headed by President Ranil Wickremesinghe. (A)
 
 ◼️
 
 [Data](articles/76473456.json)
+
+[Extended Data](ext_articles/76473456.ext.json)
 
 ---
 
@@ -100,23 +106,31 @@ President Ranil Wickremesinghe said that he was deposited on the date yesterday.
 
 ---
 
-### இடம்பெயர்ந்த பாலஸ்தீனியர்கள் தஞ்சமடைந்திருந்த பாடசாலை மீது இஸ்ரேல் தாக்குதல் - 30க்கும் அதிகமானவர்கள் பலி
+### Israel attack on school where displaced Palestinians have sought refuge
 
 *2024-07-27 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189560) · `ta`
 
-காசாவின் மத்தியில் உள்ள டெய்ர் அல் பலா நகரின் பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 30க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர்.
+In a tragic incident, Israel's attack on the Tair al-Bala school in Gaza resulted in over 30 deaths, mostly boys. The attack targeted displaced Palestinians seeking refuge. Hamas has condemned the assault, highlighting the loss of lives among children. Graphic footage from the scene shows the aftermath, including injured individuals and bodies, further emphasizing the severity of the situation.
 
-கொல்லப்பட்டவர்களில் அனேகமானவர்கள் சிறுவர்கள் என்பது வெளியாகும் படங்கள் வீடியோக்கள் மூலம் தெரியவருவதாக காசாவின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-கொல்லப்பட்டவர்களில் சிறுவர்கள் காணப்படுவது ஆராயப்பட்ட வீடியோக்கள் மூலம் உறுதியாகியுள்ளது என பிபிசி தெரிவித்துள்ளது.
+More than 30 people have been killed in an Israeli attack on the school of Tair al -Bala in the middle of Gaza.
 
-இடம்பெயர்ந்த பாலஸ்தீனியர்கள் தஞ்சமடைந்திருந்த பாடசாலையே தாக்கப்பட்டது என காசாவின் சிவில் பாதுகாப்பு படையினர் தெரிவித்துள்ளனர்.
+Gaza's Health Ministry said that most of the victims are boys.
 
-இடம்பெயர்ந்தவர்கள் நோயாளிகள் காயமடைந்தவர்கள் கொல்லப்பட்டுள்ளனர் அனேகமானவர்கள் சிறுவர்கள் பெண்கள் என தெரிவித்துள்ள ஹமாஸ் இந்த தாக்குதலை கண்டித்துள்ளது.
+The BBC said that the children's found in the victims is confirmed by the explored videos.
 
-...
+Gaza's civil security forces said the displaced Palestinians were attacked by a school.
+
+Hamas has condemned the attack by many people who were killed and children were killed.
+
+The BBC reports that there will be videos that can be confirmed by the confusion, the people in the area with the wreckage, the throwing of two children with bloodshed, the woman is hugging the child, the injured person is being transported in the stretcher and the body of the cloth.
+
+◼️
 
 [Data](articles/fb54f93f.json)
+
+[Extended Data](ext_articles/fb54f93f.ext.json)
 
 ---
 

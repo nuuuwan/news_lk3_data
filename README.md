@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 09:55:10**
+As of **2024-07-27 10:07:28**
 
 ## Newspaper Stats
 
-*Scraped **37,513** Articles*
+*Scraped **37,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,141
 economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,343
+adaderanalk | 4,344
 tamilmirrorlk | 4,625
 dailymirrorlk | 4,733
 virakesarilk | 5,900
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,294
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,512 (100.0%) of 37,513 articles have been extended.
+37,513 (100.0%) of 37,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### President Ranil says he predicted Sri Lanka’s economic crisis
+
+*2024-07-27 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100808/president-ranil-says-he-predicted-sri-lankas-economic-crisis) · `en`
+
+President Ranil Wickremesinghe revealed that he was already knew beforehand that Sri Lanka would face an economic crisis.
+
+Wickremesinghe said that he had informed then President Gotabaya Rajapaksa about the situation and had promised to provide any assistance if needed.
+
+President Wickremesinghe shared this information last afternoon (26) during a live Q&A session called #AskRanilLive, which was organized by a group of youths.
+
+Viewers had been provided an opportunity to ask questions from the President through social media while watching the program live.
+
+◼️
+
+[Data](articles/3202fd2d.json)
+
+---
 
 ### ‘Red’ alert issued over strong winds and rough seas
 
@@ -49,6 +67,8 @@ Naval and fishing communities are also requested to be attentive to future forec
 ◼️
 
 [Data](articles/c84199a1.json)
+
+[Extended Data](ext_articles/c84199a1.ext.json)
 
 ---
 
@@ -2213,29 +2233,5 @@ The US dollar purchasing price was 298.7131 rupees and the sales price were Rs 3
 [Data](articles/49addd1e.json)
 
 [Extended Data](ext_articles/49addd1e.ext.json)
-
----
-
-### Japanese scholarship for Human Resources Development Scholarship for 15 Public Sector Officers
-
-*2024-07-26 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/189443) · `ta`
-
-The Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki, announced the Human Resources Development Scholarship for 15 public sector officers, aiming to enhance their leadership skills through a 2-year postgraduate or doctoral program in Japan. This initiative, part of the Japanese Scholarship Program for the Human Resources Development Scheme, began in 2010 and has benefited 222 Sri Lankan officials so far. It focuses on areas like policy-making, finance, and development, fostering mutual understanding and bilateral cooperation.
-
-🟩
-
-Japanese Ambassador to Sri Lanka. A.. Mizukoshi Hideaki, Japanese Scholarship Program for the Japanese Scholarship Program for Human Resources Development Scheme, congratulated the Japanese students next month to the scholarship recipients of the scholarship.
-
-Foreign Minister Ali Sabri participated in the event with our Foreign Minister who signed a tips on this JDS project while on an official visit to Japan earlier this month.
-
-This program is aimed at training young administrators in various universities in Japan and improving their knowledge and skills to qualify as future leaders in their respective sectors.
-
-Under this scheme, 15 public sector officials will be sent to 2 years postgraduate or doctorate degree. Their research learners include general policy, microscopic, public financial and investment management, industrial development policy and investment promotion and urban and regional development.
-
-...
-
-[Data](articles/6d1837ef.json)
-
-[Extended Data](ext_articles/6d1837ef.ext.json)
 
 ---

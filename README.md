@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 23:55:29**
+As of **2024-07-28 00:07:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,582 (100.0%) of 37,583 articles have been extended.
+37,583 (100.0%) of 37,583 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -415,6 +415,8 @@ A representative on Friday paid the candidate’s deposit for Wickremesinghe who
 ...
 
 [Data](articles/c797da7c.json)
+
+[Extended Data](ext_articles/c797da7c.ext.json)
 
 ---
 

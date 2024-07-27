@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 12:54:06**
+As of **2024-07-27 13:05:42**
 
 ## Newspaper Stats
 
-*Scraped **37,525** Articles*
+*Scraped **37,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 2,141
 economynextcom | 2,253
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,346
+adaderanalk | 4,347
 tamilmirrorlk | 4,626
 dailymirrorlk | 4,733
 virakesarilk | 5,904
-adaderanasinhalalk | 6,297
+adaderanasinhalalk | 6,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,525 (100.0%) of 37,525 articles have been extended.
+37,525 (100.0%) of 37,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### ඡන්දෙට සල්ලි දීම ගැන අලුත් ආරංචියක්
+
+*2024-07-27 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199259) · `si`
+
+මැතිවරණ කොමසාරිස්වරයා විසින් ඉල්ලා සිටින ආකාරයට ඉදිරි ජනාධිපතිවරණය සඳහා මුදල් ලබාදීමට මහා භාණ්ඩාගාරය සූදානම් බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+අමාත්‍යවරයා සඳහන් කළේ පසුගිය අයවැයෙන් මැතිවරණ කටයුතු සඳහා රුපියල් බිලියන 10 ක මුදලක් වෙන් කළ අතර,  මුදල් ප්‍රවාහ අතර කිසිදු ගැටුමක් නොවන ආකාරයට එම මුදල් නිදහස් කිරීමට තරම් ආර්ථිකය මනා ලෙස කළමනාකරණය කර ඇති බවය.
+
+ඒ අනුව මැතිවරණ කොමසාරිස් කාර්යාලය රුපියල් බිලියන 08කට ආසන්න වියදම් ඇස්තමේන්තුවක් එවා ඇති බවත්, මුද්‍රණ කටයුතු, ආරක්ෂක කටයුතු, ඉන්ධන, ඡන්ද පෙට්ටි සැකසීම ආදී හදිසි ඕනෑම අවශ්‍යතාවයක් වෙනුවෙන් එම මුදල් නිදහස් කිරීමට මහා භාණ්ඩාගාරය සූදානම් බවත් රාජ්‍ය අමාත්‍යවරයා ප්‍රකාශ කළේය.
+
+යම් හෙයකින් ජනාධිපතිවරණයට ඉදිරිපත් වන අපේක්ෂකයින් සංඛ්‍යාව වැඩි වී ඇස්තමේන්තු ගත වියදම වැඩි වුවහොත් දැනට අවිනිශ්චිත කටයුතු සඳහා මුදලක් ඇති බැවින් ඒ සම්බන්ධයෙන් කිසිදු ගැටලුවක් ඇති නොවන බවද අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/3343689f.json)
+
+---
+
+### Presidential Election 2024: Voters can cast ballots at alternative polling stations, applications now open
+
+*2024-07-27 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100813/presidential-election-2024-voters-can-cast-ballots-at-alternative-polling-stations-applications-now-open) · `en`
+
+The Election Commission announced that the opportunity has been provided for voters to cast their votes at an alternative polling station other than their designated station during the forthcoming Presidential Election.
+
+Publishing an extraordinary gazette notification in this regard, the Election Commission has declared that a person who is reasonably fearful that he will not be able to go to and cast the vote at the given polling station, may request to be facilitated to vote at another polling station.
+
+Furthermore, the gazette notification highlighted that the provisions of Section 119B of the Presidential Elections Act, No. 15 of 1981, as amended by the Presidential Elections (Amendment) Act, No. 16 of 1988, have provided in this regard.
+
+...
+
+[Data](articles/2d90ce63.json)
+
+---
+
+### ශ්‍රී ලංකා - ඉන්දියා අද තරගයේ ටිකට් විකිණී අවසන්
+
+*2024-07-27 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199258) · `si`
+
+ශ්‍රී ලංකාව සහ සංචාරක ඉන්දීය කණ්ඩායම අතර පැවැත්වෙන පළමු T20 තරගය අද (27) පැවැත්වීමට නියමිතය.
+
+එම තරගය සඳහා අදාළ ප්‍රවේශපත්‍ර විකිණී අවසන් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+
+එම නිසා තරගය සඳහා ප්‍රවේශපත්‍ර මිලදී ගැනීම ට ක්‍රීඩාංගණයට හෝ ප්‍රවේශපත්‍ර කවුළු වෙත නොපැමිණෙන ලෙස ශ්‍රී ලංකා ක්‍රිකට් ආයතනය  දැනුම් දී ඇත.
+
+තරගය පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ පැවැත්වෙන අතර තරගය නැරඹීම සඳහා අද පස්වරු 4 ට එහි දොරටු විවෘත කරන බව මහජනතාවට දන්වා තිබේ.
+
+◼️
+
+[Data](articles/f9ce6fde.json)
+
+---
 
 ### Special message to voters
 
@@ -2179,77 +2231,5 @@ The state minister has requested that all these activities be carried out in acc
 [Data](articles/065b0fcd.json)
 
 [Extended Data](ext_articles/065b0fcd.ext.json)
-
----
-
-### 12 racketeers arrested
-
-*2024-07-26 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199238) · `si`
-
-In the last 5 days, 12 racketeers, including 5 pregnant women expecting jobs abroad, were arrested by the Sri Lanka Foreign Employment Unit. An illegal employment institution was also seized.
-
-🟩
-
-The Sri Lanka Foreign Employment Bureau has been arrested by the Sri Lanka Foreign Employment Unit of Sri Lanka Bureau of Foreign Employment during the past 5 days.
-
-Twelse, including five women who were expecting jobs in Qatar, New Zealand, Malaysia, Romania and Canada have been arrested.
-
-An illegal institution was also seized by the officials of the Sri Lanka Bureau of Foreign Employment.
-
-◼️
-
-[Data](articles/8c333578.json)
-
-[Extended Data](ext_articles/8c333578.ext.json)
-
----
-
-### 12 day foreign employment rampies arrested
-
-*2024-07-26 16:31:48* · [`adalk`](https://www.ada.lk/breaking_news/දින-5ට-විදෙස්-රැකියා-ජාවාරමුන්-12ක්-අල්ලයි/11-411021) · `si`
-
-Twelve individuals involved in a foreign employment scam, targeting Sri Lankan youth for jobs in countries like Qatar, New Zealand, Malaysia, and Canada, have been arrested. The Sri Lanka Bureau of Foreign Investigations seized documents related to the fraud. Authorities are expanding investigations into such scams, aiming to swiftly prosecute the perpetrators.
-
-🟩
-
-The Sri Lanka Bureau of Foreign Investigations have arrested twelve of the fraudulent employment racketeers who were conducting foreign employment traffickers from 25.04 (7/66).
-
-There have been five women, including five women who have been provided with jobs in Qatar, New Zealand, Malaysia, Ramania, and Canada.. 108 files containing liquor papers and other documents were taken into custody.
-
-The suspects were taken to the charges of recruiting and cheating money for foreign employment without a valid job license of the Bureau.
-
-Foreign employment frauds have risen to the Sri Lankan youth of foreign employment opportunities. Minister Manu Nanayakkara has instructed the Special Investigation Division of the Bureau to expand its investigation against foreign employment frauds.. Accordingly, the Bureau has taken steps to prosecute the complaints received by the Special Investigation Division expeditiously and prosecute the wrongdoers.
-
-◼️
-
-[Data](articles/07542417.json)
-
-[Extended Data](ext_articles/07542417.ext.json)
-
----
-
-### Barack and Michelle Obama endorse Kamala Harris in bid for US presidency
-
-*2024-07-26 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100796/-barack-and-michelle-obama-endorse-kamala-harris-in-bid-for-us-presidency) · `en`
-
-Former President Barack Obama and his wife Michelle endorsed Kamala Harris‘ bid for president on Friday in a roughly one-minute long video that captured a private phone call between the couple and the current vice president.
-
-“We called to say Michelle and I couldn’t be prouder to endorse you and to do everything we can to get you through this election and into the Oval Office,” Obama told Harris.
-
-“I am proud of you. This is going to be historic,” the former first lady told Harris.
-
-Talking into a cell phone and cracking a few smiles, Harris expressed her gratitude for the endorsement and their long friendship.
-
-“Thank you both. It means so much. And we’re gonna have some fun with this too,” Harris said.
-
-The campaign said the video was the actual call, not a reenactment.
-
-Harris’s surprise bid against Republican rival Donald Trump continues to gain steam from supporters, donors and politicians less than a week after President Joe Biden bowed out of the race amid slumping poll numbers.
-
-...
-
-[Data](articles/32c2c164.json)
-
-[Extended Data](ext_articles/32c2c164.ext.json)
 
 ---

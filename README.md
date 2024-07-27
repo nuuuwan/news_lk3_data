@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 07:48:28**
+As of **2024-07-27 08:15:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,500 (100.0%) of 37,502 articles have been extended.
+37,502 (100.0%) of 37,502 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,19 +126,25 @@ The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran P
 
 ---
 
-### ’ஆதரவளித்த சகல அரசியல் கட்சிகளுக்கும் நன்றி’
+### Thanks to all political parties supported
 
 *2024-07-27 00:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவளித்த-சகல-அரசியல்-கட்சிகளுக்கும்-நன்றி/175-341103) · `ta`
 
-நாட்டின் பொருளாதாரத்தை சரியான பாதையில் வழிநடத்தும் பொருளாதார பரிமாற்ற சட்டமூலத்தை நிறைவேற்றுவதற்கு ஆதரவளித்த அனைத்து அரசியல் கட்சிகளுக்கும் நன்றி தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, இந்தத் திட்டத்தை தொடர்ந்து முன்னெடுத்துச் செல்வதற்கு ஒன்றிணையுமாறு சகல அரசியல் கட்சிகளுக்கும் அழைப்பு விடுத்தார்.
+President Ranil Wickremesinghe thanked political parties supporting the Economic Transfer Bill, crucial for guiding the country's economy. He emphasized the bill's importance in establishing a digital and green export-based economy, highlighting the "Digital Economic Strategy 2030" program aimed at digitalizing the country. This initiative, in collaboration with the Ministries of Education and Technology, aims to equip schools with smart classrooms and support over a million micro, small, and medium entrepreneurs through a QR index program. The project's launch marked the beginning of its implementation in the Kegalle district, distributing smart classroom equipment to schools and sectors, marking the President's first visit to Rambukkana Parakrama Vidyalaya, which received enthusiastic responses from students.
 
-நாட்டில் ஏற்றுமதி சார்ந்த டிஜிட்டல் மற்றும் பசுமைப் பொருளாதாரத்தை கட்டியெழுப்புவதற்கு தேவையான நிர்வாக மற்றும் நிறுவன ரீதியான கட்டமைப்பை இந்த சட்டமூலத்தில் உள்ளடக்கியுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-கல்வி மற்றும் தொழில்நுட்ப அமைச்சுக்கள் இணைந்து செயற்படுத்தும் “டிஜிட்டல் பொருளாதார மூலோபாயம் 2030” வேலைத்திட்டத்தின் கீழ் பாடசாலைகள் மற்றும் பிரிவெனாக்களுக்கு ஸ்மார்ட் வகுப்பறை உபகரணங்களை வழங்கும் நிகழ்வு நேற்று (26) ரம்புக்கன பராக்கிரம மகா வித்தியாலயத்தில் நடைபெற்றது. இந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe thanked all the political parties who supported the Economic Transfer Bill that guided the country's economy on the right path and called on all political parties to continue the project.
+
+The President also pointed out that the bill includes the administrative and institutional structure required to build an export -based digital and green economy in the country.
+
+Under the "Digital Economic Strategy 2030" program, which is co -operating with the Ministries of Education and Technology, the event was held at the Rambukana Parakrama Maha Vidyalaya yesterday (26th) to provide smart classroom equipment to schools and sectors.. President Ranil Wickremesinghe made this statement while addressing the event.
 
 ...
 
 [Data](articles/3567a91d.json)
+
+[Extended Data](ext_articles/3567a91d.ext.json)
 
 ---
 
@@ -821,6 +827,8 @@ During his two years in office, Mr. Wickremesinghe has vowed to rebuild the coun
 ...
 
 [Data](articles/074da3e3.json)
+
+[Extended Data](ext_articles/074da3e3.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 19:20:30**
+As of **2024-07-27 19:35:47**
 
 ## Newspaper Stats
 
-*Scraped **37,557** Articles*
+*Scraped **37,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 352
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,141
-economynextcom | 2,256
+economynextcom | 2,258
 dailyftlk | 2,405
-adalk | 3,412
-adaderanalk | 4,353
+adalk | 3,413
+adaderanalk | 4,354
 tamilmirrorlk | 4,628
 dailymirrorlk | 4,733
 virakesarilk | 5,908
@@ -26,29 +26,77 @@ adaderanasinhalalk | 6,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,556 (100.0%) of 37,557 articles have been extended.
+37,557 (100.0%) of 37,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### ගංජා දැමූ බව කියූ සිද්ධියේ පොලිස් නිලධාරියාගේ වැඩ තහනම් කරයි
+### Sri Lanka hotel school lacks infrastructure to accommodate students: Official
 
-*2024-07-27 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199274) · `si`
+*2024-07-27 19:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotel-school-lacks-infrastructure-to-accommodate-students-official-174064/) · `en`
 
-පොලිස් රථවාහන පරීක්ෂාවක් අතරතුර මෝටර් රථයක් තුළට මත්ද්‍රව්‍ය පාර්සලයක් දමා තරුණයින් පිරිසක් අත්අඩංගුවට ගැනීමට උත්සහ කළ බවට සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය වූ වීඩියෝවේ සිටින පොලිස් කොස්තාපල්වරයාගේ වැඩ තහනම් කර ති‌බේ.
+ECONOMNYEXT – Sri Lanka’s hotel school lacks the infrastructure to accommodate most students, its Chairman Shirantha Peiris said.
 
-කොළඹ දකුණ ජ්‍යේෂ්ඨ පොලිස් අධිකාරීවරයාගේ නියෝගයකට අනුව අදාළ පොලිස් කොස්තාපල්වරයාගේ වැඩ තහනමට ලක් කර ඇති බව සඳහන්ය.
+“We have 10,153 applicants but we can only take 15 percent of the applicants due to the lack of infrastructure,” Peris told reporters this week.
 
-මෙම පොලිස් කොස්තාපල්වරයා කොල්ලුපිටිය පොලිස් ස්ථානයට අනුයුක්තව සේවය කරන අතර මොහු ඇතුළු තවත් නිලධාරීන් කණ්ඩායමක් ආනන්ද කුමාර ස්වාමී සහ කර්නල් ටී ජයා මාවත අතර ප්‍රදේශයේ රාජකාරී කටයුතුවල නිරතවී සිටියදී එම සිද්ධිය ඇතිවී තිබුණි.
+“We can have 20,000 [students] if we have another building.”
 
-අදාළ පොලිස් කොස්තාපල්වරයා පරීක්ෂා කරනු ලබන මෝටර් රථය තුළ ගංජා මත්ද්‍රව්‍ය තබා එම මෝටර් රථයේ පැමිණි පුද්ගලයින් අත්අඩංගුවට ගැනීමට උත්සාහ දරා ඇති බව සඳහන්ය.
+Applicants to the Sri Lanka Institute of Tourism and Hotel Management have to sit for a competitive exam on general knowledge and hospitality before facing an interview.
 
-එම සිද්ධිය මෝටර් රථයේ පැමිණි පිරිස් වීඩියෝ කර සමාජ මාධ්‍යට මුදාහැර ඇති අතර ඒ පිළිබඳව පොලිස් කොස්තාපල්වරයාට බරපතළ සමාජ චෝදනාවක් එල්ල වී තිබුණි.
+Peiris said that the examination process has been outsourced to promote transparency and avoid nepotism.
+
+Sri Lanka’s tourism industry has seen a positive growth, with the country welcoming 1.13 million tourists from January to July 2024 and the country set to welcome 2.3 million tourists by the end of the year.
+
+Hotel chains such as ITC and Sofia Colombo opened in Sri Lanka are providing jobs for an increasing number of people in the tourism sector.
 
 ...
 
+[Data](articles/de8d3cf9.json)
+
+---
+
+### Israeli airstrike hits school sheltering people in Gaza, killing at least 30
+
+*2024-07-27 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100821/israeli-airstrike-hits-school-sheltering-people-in-gaza-killing-at-least-30) · `en`
+
+Israeli airstrikes hit a school being used by displaced people in central Gaza on Saturday, killing dozens, as the country’s negotiators prepared to meet international mediators to discuss a proposed cease-fire.
+
+At least 30 people sheltering at a girls’ school in Deir Al-Balah were taken to Al Aqsa Hospital and pronounced dead after a strike that Israel’s military said targeted a Hamas command and control center used to store weapons and plan attacks. It said militants “used the compound as a hiding place to direct and plan numerous attacks against IDF troops” and “developed and stored large quantities of weapons inside.”
+
+Civil defense workers in Gaza said that thousands were sheltering in the school, which also contained a medical site.
+
+...
+
+[Data](articles/2e78dd38.json)
+
+---
+
+### Police officer suspended the incident in case that marijuana was
+
+*2024-07-27 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199274) · `si`
+
+A police constable was suspended after attempting to arrest individuals found with drugs during a traffic stop, as captured in a viral video. The incident occurred near the Kollupitiya Police Station, involving the constable and others. Allegations include misconduct and possible involvement with the vehicle's occupants.
+
+🟩
+
+The police constable was banned in the video advertised to arrest a drug parcel during a police traffic examination and attempted to arrest a group of youths.
+
+According to the Colombo South Senior Superintendent of Police, the police constable has been suspended.
+
+The police constable is attached to Kollupitiya Police Station and a group of other officials were involved in working in the area and was engaged in duties between Ananda Kumara and Colonel TV Mawatha.
+
+It is said that the cavity was deployed in the car to investigate the car and tried to arrest people in the car.
+
+The incident has been videoed in the car and released to the social media.
+
+Accordingly, the police constable has been suspended under several allegations of being bulled from the duties and a member of the driver or a member of the vehicle.
+
+◼️
+
 [Data](articles/9b46643d.json)
+
+[Extended Data](ext_articles/9b46643d.ext.json)
 
 ---
 
@@ -137,6 +185,24 @@ The man in charge of the institute has been arrested and the cause of the accide
 [Data](articles/0b6bde7f.json)
 
 [Extended Data](ext_articles/0b6bde7f.ext.json)
+
+---
+
+### Sri Lanka lawyers condemn government moves to retain IGP
+
+*2024-07-27 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-lawyers-condemn-government-moves-to-retain-igp-174077/) · `en`
+
+ECONOMYNEXT – The Bar Association of Sri Lanka has condemned the government’s efforts to ‘illegally subvert the course of justice’ in relation to the Supreme Court interim order preventing Deshabandu Tennakoon functioning as Inspector General of Police (IGP).
+
+“The claim that the Supreme Court does not have power to call into question appointments made by the President which are approved by the Constitutional Council is, in the view of the BASL, totally untenable,” BASL said in a statement.
+
+Sri Lanka’s Supreme Court issued an interim order suspending Tennakoon from his office and suggesting that an acting appointment be made. The Court gave this verdict after granting leave to proceed for nine fundamental rights petitions filed against Tennakoon’s appointment as IGP.
+
+However, Tennakoon remains in office, as there are no legal provisions for President Ranil Wickremesinghe to make an acting appointment now that polls have been declared, Prime Minister Dinesh Gunawardana has said.
+
+...
+
+[Data](articles/e3dbf889.json)
 
 ---
 
@@ -1864,6 +1930,24 @@ Down the order, Anushka Sanjeewani provided crucial 24 runs and the Islanders ch
 
 ---
 
+### චමරි ශ්‍රී ලංකාව අවසන් මහ තරගයට රැගෙන යයි
+
+*2024-07-26 22:41:38* · [`adalk`](https://www.ada.lk/sports/චමරි-ශ්‍රී-ලංකාව-අවසන්-මහ-තරගයට-රැගෙන-යයි/9-411024) · `si`
+
+පාකිස්තාන කණ්ඩායම කඩුලු 3කින් පරාජයට පත් කරමින් මෙවර කාන්තා ආසියානු කුසලාන විස්සයි20 තරගාවලියේ අවසන් මහ තරගයට සුදුසුකම් ලබා ගැනිමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+අවසන් පූර්ව තරගයේ මුලින්ම පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම කඩුලු 4ට ලකුණු 140ක් රැස්කිරීමට සමත්විය. පිළිතුරු ඉනිම ක්‍රීඩා කිරීමට පිටියට පැමිණි ශ්‍රී ලංකා කණ්ඩායමේ පළමු කඩුල්ල ලෙස විශ්මි ගුණරත්න ලකුණු පුවරුවට එක් ලකුණක් හෝ එක්විමට පෙර දැවි ගියද නායකත්වයේ වගකීම මැනවින් ඉටුකළ චමරි සිය කඩුල්ල ආරක්ෂා කර ගනිමින් වුවත් වේගවත් ඉනිමක් ක්‍රීඩා කරමින් පන්දු 48කදී ලකුණු 63ක් රැස්කරමින් ඉනිම ස්ථාවර කළාය.
+
+ඉන් අනතුරුව  ඉවසිලිවන්ත ඉනිමක් ක්‍රිඩා කළ අනුෂ්කා සංජිවනී පන්දු 22කදී ලකුණු 24ක් රැස්කරමින් ශ්‍රී ලංකාවේ ජයග්‍රහණය ස්ථිර කළාය.
+
+ශ්‍රී ලංකා කණ්ඩායම මෙවර ආසියානු කුසාලන ක්‍රිකට් තරගාවලියේ අවසන් මහ තරගයකට තේරී පත්වූයේ 6 වැනි අවස්ථාවට වෙයි. මේ දක්වා කාන්තා ආසියානු කුසලාන ක්‍රිකට් තරගාවලි 8ක් පවත්වා ඇති අතර මෙවර .තරගාවලිය නොමැතිව අවස්ථා පහකදි ශ්‍රි ලංකාව අවසන් මහ තරගවලට සුදුසුකම් ලබා තිබුණි.
+
+...
+
+[Data](articles/c9d4cf0d.json)
+
+---
+
 ### Ranil Wickremesinghe, including Ranil Wickremesinghe bail to presidential election
 
 *2024-07-26 22:17:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-රනිල්-වික්‍රමසිංහ--ඇතුළු-සිවු-දෙනෙක්-ඇප-තැන්පත්-කරති/11-411023) · `si`
@@ -2123,97 +2207,5 @@ Defense Minister Premitha Bandara Tennakoon today issued a directive to the secu
 [Data](articles/5947c201.json)
 
 [Extended Data](ext_articles/5947c201.ext.json)
-
----
-
-### TNA does not stop candidate
-
-*2024-07-26 21:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-கட்சி-வேட்பாளரை-நிறுத்தாது/175-341086) · `ta`
-
-TNA's MA Sumanthiran states the Sri Lankan Tamil government won't nominate a candidate for the upcoming presidential election but plans to discuss with key contenders. Despite this, several Tamil parties and activists have pledged to support a common Tamil candidate.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian MA Sumanthiran says that the Sri Lankan Tamil government will not appoint a candidate in the upcoming presidential election.
-
-Sumanthiran MP said he would negotiate with key candidates in the presidential election
-
-However, many Tamil political parties and civil society activists have recently signed an agreement to field a general Tamil candidate in the upcoming Sri Lankan presidential election.
-
-◼️
-
-[Data](articles/16d0ebf5.json)
-
-[Extended Data](ext_articles/16d0ebf5.ext.json)
-
----
-
-### Ramesh calls instead of importance of Buddha
-
-*2024-07-26 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199248) · `si`
-
-Ramesh Mendis is selected for Sri Lanka's squad against India in the T20 International Cricket Tournament. Binura Fernando, known as Buddha, faced suspicion due to an incident involving a bamboo, casting doubt over his future match participation.
-
-🟩
-
-Ramesh Mendis has been named for the Sri Lanka squad that participate in the Twenty20 International Cricket Tournament with India.
-
-Binura Fernando was illustrated by the incident.
-
-According to Cricket sources, fast bowled Buddy Buddha Fernando had a bamboo and that his participation was suspicious for the next matches.
-
-◼️
-
-[Data](articles/05e729b4.json)
-
-[Extended Data](ext_articles/05e729b4.ext.json)
-
----
-
-### Sri Lanka 141 points
-
-*2024-07-26 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199247) · `si`
-
-In the women's Asia Cup semi-final, Sri Lanka chose to field first after winning the toss. Despite Pakistan scoring 140/4 in 20 overs, Sri Lanka secured victory with 141 runs.
-
-🟩
-
-The second semi-final in the women's Asia Cup will be held today (26).
-
-Sri Lanka were able to gain advantage of the coin, and they decided to give Pakistan first to bat first.
-
-Accordingly, Pakistan scored 140 runs for the loss of 4 wickets in their allotted 20 overs.
-
-The Sri Lanka team won 141 runs.
-
-◼️
-
-[Data](articles/03689657.json)
-
-[Extended Data](ext_articles/03689657.ext.json)
-
----
-
-### Attorney General protests against Prime Minister's statement
-
-*2024-07-26 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199246) · `si`
-
-The Attorney General disputes the Prime Minister's claims about the legality of appointing an acting Inspector General of Police (IGP), arguing that the Supreme Court has the authority to review decisions of the Constitutional Council and the President regarding temporary appointments. The Prime Minister counters, stating that the IGP cannot be removed without due process and that the Supreme Court lacks jurisdiction over the Legislative Council.
-
-🟩
-
-The Prime Minister's Counsel Saliya Peiris says that there is no validity regarding the appointment of a acting imbue today (26).
-
-He says the claim that the legislative council cannot be challenged in court is baseless.
-
-Prime Minister Dinesh Gunawardena made these comments further today.
-
-"Read the Police Ordinance. The IGP is involved in the past time. Therefore, an IGP cannot get caught by such a sudden ear. There are people who are thinking that. Supreme Court or should be followed. There is no legal provision to prohibit the IGP to serve as his post. Therefore, the President cannot be made to prevent the acting work carried out by the IGP to prevent duties in his post. Former IGP is still being called. The post has not been empty. Also parliament is the answer. The Legislative Council cannot be informed by a court. Therefore, the Supreme Court does not have the power to look into the prostitutional council. So the enjoining order is not valid from law. "
-
-...
-
-[Data](articles/229df899.json)
-
-[Extended Data](ext_articles/229df899.ext.json)
 
 ---

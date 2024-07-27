@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 16:53:03**
+As of **2024-07-27 17:05:32**
 
 ## Newspaper Stats
 
-*Scraped **37,546** Articles*
+*Scraped **37,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,55 @@ adaderanalk | 4,351
 tamilmirrorlk | 4,627
 dailymirrorlk | 4,733
 virakesarilk | 5,906
-adaderanasinhalalk | 6,307
+adaderanasinhalalk | 6,308
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,545 (100.0%) of 37,546 articles have been extended.
+37,546 (100.0%) of 37,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### 19වන සියවසේ ගිලී ගිය නැවකින් වයින් බෝතල් හමුවෙයි
+### නිදහසේ ක්‍රීඩා කරන්න පරිසරයක් හදන්න ඕනේ - චරිත් අසලංක
+
+*2024-07-27 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199269) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් රැසක් සිදුකිරීමට තමා බලාපොරොත්තු නොවන බව ශ්‍රී ලංකා කණ්ඩායමේ නව නායක චරිත් අසලංක පවසයි.
+
+එහිදී ඔහු පවසා සිටියේ, නිදහසේ ක්‍රීඩා කරන පරිසරයක් කණ්ඩායම තුළ ඇති කිරීම තමාගේ බලාපොරොත්තුව බවය.
+
+ක්‍රීඩකයන් නිදහස් මාසිකත්වයෙන් ක්‍රීඩා කරනවා දැකීම තම කැමැත්ත බවත් චරිත් අසලංක තවදුරටත් සඳහන් කළේය.
+
+ඉන්දියාව සහ ශ්‍රී ලංකාව අතර අද (27) පැවැත්වෙන තරගයට පෙර මාධ්‍ය හමුවකට එක්වෙමින් ශ්‍රී ලංකා කණ්ඩායමේ නායක චරිත් අසලංක ඒ බව සඳහන් කළේය.
+
+"ඇත්තටම කණගාටුයි මගේ කණ්ඩායමේ ක්‍රීඩකයෝ දෙදෙනෙක් ආබාධයට ලක්වීම. ඒ වගේ දේවල් වෙනවා. හැබැයි ඊට පස්සේ එන දේවල්වලට මුහුණ දෙන්න නායකයෙක් විදිහට මම සූදානම් වෙලා ඉන්න ඕනේ. මම හිතනවා LPL ගහපු එක ලොකු චාන්ස් එකක් කියලා. මොදක අපි දන්නවා ෆෝම් එකේ හිටිය ක්‍රීඩාකයෝ කවුද කියලා. කණ්ඩායමේ ආරම්භක පිතිකරුවෝ 04ක් ඉන්නවා."
+
+◼️
+
+[Data](articles/1763c272.json)
+
+---
+
+### The wine bottles meet at a 19th century ship
 
 *2024-07-27 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199268) · `si`
 
-19වන සියවසේදී ගිලී ගිය නෞකාවක් බෝල්ටික් මුහුදු පතුලෙන් සොයා ගැනීමට කිමිදුම්කරුවන් කණ්ඩායම් සමත්වී තිබේ.
+Divers discovered over 100 wine and champagne bottles from the 19th century at a sunken ship in the Baltic Sea.
 
-එහි තිබී විවෘත නොකළ ෂැම්පේන් සහ වයින් බෝතල් සියයකට අධික සංඛ්‍යාවක් සොයාගෙන ඇතැයි සඳහන් ය.
+🟩
+
+The divers have been able to find a sunk from the Baltic Sea in the 19th century.
+
+More than 100 bottles were found in a champagne and wine have been opened there.
 
 ◼️
 
 [Data](articles/8ca0b60b.json)
+
+[Extended Data](ext_articles/8ca0b60b.ext.json)
 
 ---
 
@@ -2205,29 +2231,5 @@ The election commission said Friday July 26 that Sri Lanka’s presidential elec
 [Data](articles/950c7fcc.json)
 
 [Extended Data](ext_articles/950c7fcc.ext.json)
-
----
-
-### Workplace for Defense Department Heads -In amazement
-
-*2024-07-26 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189479) · `ta`
-
-The Defense Minister has directed all department heads to ensure the nation's security ahead of the upcoming presidential elections. A meeting was held with top military brass, emphasizing the importance of protecting both candidates and citizens. The government has praised its officials' dedication during challenging times, urging continued excellence from all defense-related entities.
-
-🟩
-
-The Minister of Defense, the Minister of Defense, has issued a directive to all the defense department chiefs that the candidates, the people of the country and the country should take all necessary measures to ensure the full security of the country and the country.
-
-The Advisory Committee Meeting of the Ministry of Defense was held on Friday (26) at the Parliament Building constituency. Chief of the Armed Forces, including the Chief of the Security Forces, General Shavendra Silva, Navy Commander Vice Admiral Priyantha Perera and all the chiefs of all corporations under the Ministry of Defense were present.
-
-Elections Commission has called for the presidential election. In this case, all necessary measures are to be taken to ensure the full security of the candidates, the people and the country.
-
-During the crisis in the country over the past two years, there have been many serious decisions. During those times, the country was able to protect the national security and law and order.
-
-...
-
-[Data](articles/68c8dcd4.json)
-
-[Extended Data](ext_articles/68c8dcd4.ext.json)
 
 ---

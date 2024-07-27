@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 09:35:48**
+As of **2024-07-27 09:55:10**
 
 ## Newspaper Stats
 
-*Scraped **37,512** Articles*
+*Scraped **37,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,141
 economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
-adaderanalk | 4,342
+adaderanalk | 4,343
 tamilmirrorlk | 4,625
 dailymirrorlk | 4,733
 virakesarilk | 5,900
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,294
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,508 (100.0%) of 37,512 articles have been extended.
+37,512 (100.0%) of 37,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### ‘Red’ alert issued over strong winds and rough seas
+
+*2024-07-27 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100807/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ colour advisory for strong winds and rough seas for naval and multi-day fishermen communities in the Arabian Sea and Bay of Bengal.
+
+As per the warning, very strong winds of about 70-80 kmph, and very rough seas are likely over the Arabian Sea area (in sea areas bounded by 13N - 23N and 55E – 70E) and Bay of Bengal (in sea areas bounded by 13N - 18N and 83E– 93E) due to the active south-west monsoonal condition.
+
+Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ colour on the map below, until further notice.
+
+Those who are out at aforementioned sea regions are advised to return to coasts or move to safer areas immediately.
+
+Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/c84199a1.json)
+
+---
 
 ### Legal action against non-compliance with bread pricing
 
@@ -46,21 +66,29 @@ Meanwhile, Colombo District Assistant Measurement Units, Standards & Services, D
 
 [Data](articles/8cbab618.json)
 
+[Extended Data](ext_articles/8cbab618.ext.json)
+
 ---
 
-### சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு!
+### Tourist arrivals increase
 
 *2024-07-27 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189490) · `ta`
 
-இம்மாதம் 15 ஆம் திகதி 10 இலட்சம் சுற்றுலா பயணிகள் வருகை தந்துள்ளதை அடுத்து இலங்கை சுற்றுலாப் பயணிகளின் வருகையில் மீண்டும் எழுச்சியடைந்துள்ளதாக சுற்றுலா மற்றும் காணி அமைச்சின் செயலாளர் சோமரத்ன விதானபத்திரன தெரிவித்தார்.
+Sri Lanka sees a record-breaking 1 million tourists arrive in January, surpassing pre-war records. This boost follows post-war lows due to attacks, Covid-19, and an economic crisis. The Ministry of Tourism credits this success to its efforts alongside affiliated companies.
 
-இந்நிலை தொடருமானால், போருக்குப் பின்னர் இலங்கையில் சுற்றுலாத்துறையின் உச்ச நிலையை பதிவான 2018 ஆம் ஆண்டை விடவும் நல்ல நிலையை அடைய முடியும்.
+🟩
 
-உயிர்தத ஞாயிறு  தாக்குதல், கொவிட் – 19 தொற்றுநோய் மற்றும் பொருளாதார நெருக்கடி காரணமாக இலங்கையில் சுற்றுலா வர்த்தகம் வீழ்ச்சியடைந்தது. ஆனால் சுற்றுலா அமைச்சு மற்றும் அதனுடன் இணைந்த நிறுவனங்களால் ஆரம்பிக்கப்பட்ட முறையான வேலைத்திட்டத்தினால் தற்போது வெற்றிகரமான பெறுபேறுகள் கிடைத்துள்ளது என தெரிவித்துள்ளார்.
+The Secretary of the Ministry of Tourism and Land, Somatna Vidanapatrana said that the arrival of 10 lakh tourists on the 15th of this month has been reinforced by the arrival of Sri Lankan tourists.
+
+If this is the case, it will be better than the 2018 record of tourism in Sri Lanka after the war.
+
+Tourism trade in Sri Lanka has fallen due to survival Sunday attack, Kovit - 19 infection and economic crisis. But the Ministry of Tourism and its affiliated companies said that the successful results are now available.
 
 ◼️
 
 [Data](articles/92dafb3e.json)
+
+[Extended Data](ext_articles/92dafb3e.ext.json)
 
 ---
 
@@ -79,6 +107,8 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 ◼️
 
 [Data](articles/aa689116.json)
+
+[Extended Data](ext_articles/aa689116.ext.json)
 
 ---
 
@@ -128,21 +158,29 @@ The President was referring to the matter with social media by watching the prog
 
 ---
 
-### நீதிமன்றத்தின் உத்தரவுகளை வேண்டுமென்றே  கடைப்பிடிக்க மறுக்கும் அரசாங்கம்- சட்டத்தரணிகள் ஒன்றிணைவு சீற்றம்
+### Government that refuses to deliberately observe court orders- lawyers united
 
 *2024-07-27 08:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189489) · `ta`
 
-பொலிஸ்மா அதிபர் தேசபந்துதென்னக்கோன் தொடர்பான உயர்நீதிமன்றத்தின் உத்தரவை பிரதமரின் நாடாளுமன்ற உரையின் மூலம் வலுவற்றதாக்க முடியாது என சட்டத்தரணிகள் அமைப்பான சட்டத்தரணிகள் ஒன்றிணைவு தெரிவித்துள்ளது.
+Lawyers criticize government for ignoring court orders, citing PM's stance that Supreme Court cannot override Constitutional Council decisions. This refusal to comply with court rulings impedes national progress. The President's attorney warns against contempt of court if officials defy orders. Despite claims otherwise, the Supreme Court maintains its authority over Constitutional Council actions. The situation underscores concerns over the misuse of judicial power and the need for adherence to constitutional provisions.
 
-தேசபந்துதென்னக்கோனின் பதவி தொடர்பாக உயர்நீதிமன்றம் வழங்கிய உத்தரவு தொடர்பிலும் அதன் பின்னர் ஜனாதிபதியும் அரசாங்கமும் நடந்துகொண்ட விதம் தொடர்பிலும்  பொதுமக்களிற்கு தெளிவுபடுத்துவதற்காக நேற்று நடத்திய செய்தியாளர் மாநாட்டில் சட்டத்தரணிகள் அமைப்பு இதனை தெரிவித்துள்ளது.
+🟩
 
-நீதிமன்றத்தின் உத்தரவுகளை வேண்டுமென்றே  கடைப்பிடிக்க மறுக்கும் போக்கினை அரசாங்கம் சமீபத்தில் பின்பற்றுவதை சுட்டிக்காட்டியுள்ள சட்டத்தரணிகள் அமைப்பு இது அனைத்து அம்சங்களிலும் நாட்டின் முன்னேற்றத்திற்கு தடையான விடயம் என தெரிவித்துள்ளது.
+Attorneys' lawyers united by the Prime Minister's parliamentary speech that the Supreme Court's order on the Inspector General of Police Deshambanduthenkoon cannot be strengthened.
 
-தேசபந்துதென்னக்கோன் பொலிஸ்மா அதிபராக தொடர்ந்து பணிபுரிவதற்கான முயற்சிகளில் ஈடுபட்டால் அந்த பதவிக்கான அதிகாரங்களை பயன்படுத்த முயன்றால் அது நீதிமன்ற அவமதிப்பாகும் என ஜனாதிபதி சட்டத்தரணி உபுல் ஜயசூரிய தெரிவித்துள்ளார்.
+At a press conference held yesterday to clarify to the public about the order issued by the Supreme Court on the post of Deshabanduthenkoon and the president and the government's behavior.
+
+The lawyers' organization, which has recently pointed out that the government is following the tendency to deliberately refuse to adhere to the court's orders, has said that this is a barrier to the country's progress in all aspects.
+
+President's Attorney Upul Jayasuriya said that if you are trying to use the powers of the post if they are trying to continue working as the Inspector General of Police, it is a contempt of court.
+
+He has rejected some claiming that the High Court does not have the authority to issue an order against the resolution of the Constitutional Council.
 
 ...
 
 [Data](articles/9b1c8c83.json)
+
+[Extended Data](ext_articles/9b1c8c83.ext.json)
 
 ---
 
@@ -2199,31 +2237,5 @@ Under this scheme, 15 public sector officials will be sent to 2 years postgradua
 [Data](articles/6d1837ef.json)
 
 [Extended Data](ext_articles/6d1837ef.ext.json)
-
----
-
-### Father - Two sons have laid suicide in the fatal accident
-
-*2024-07-26 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199235) · `si`
-
-In a tragic accident near Mattala, Pitigala, a father and his two sons died. Two women were injured and taken to Elpitiya Base Hospital. The driver of the car involved in the crash, along with the motorcyclist, also suffered minor injuries. The truck driver from Pitigala was arrested.
-
-🟩
-
-The father and son of the same family were killed in the accident in the Mattala area on Pitigala, Mapigala.
-
-Two women were injured and rushed to the Elpitiya Base Hospital, police said.
-
-The car has traveled in the car and is also the person who dropped the car among the victims of the accident.
-
-The motorcyclist was also admitted to the Elpitiya Base Hospital with minor injuries.
-
-The truck driver Pitigala has been arrested by the truck driver.
-
-◼️
-
-[Data](articles/bdcc4548.json)
-
-[Extended Data](ext_articles/bdcc4548.ext.json)
 
 ---

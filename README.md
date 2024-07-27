@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 18:54:29**
+As of **2024-07-27 19:05:35**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,555 (100.0%) of 37,556 articles have been extended.
+37,556 (100.0%) of 37,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-07-27 18:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199273) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන තරග 3කින් සමන්විත 20යි 20 ක්‍රිකට් තරගාවලියේ පළමු තරගය අද (27) පල්ලේකැලේ ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+In the first of three cricket matches against India, Sri Lanka won the toss and elected to field, aiming to capitalize on early conditions at the Pallekele Cricket Stadium.
 
-එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+🟩
 
-ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීම සඳහා ඉන්දීය කණ්ඩායමට ආරාධනා කිරීමටය.
+The first match of 3 matches between Sri Lanka and India will be held today at Pallekele Cricket Stadium today (27).
+
+Sri Lanka won the toss and win the coin.
+
+Accordingly, they decided to invite the Indian team to bat first.
 
 ◼️
 
 [Data](articles/e74d888b.json)
+
+[Extended Data](ext_articles/e74d888b.ext.json)
 
 ---
 

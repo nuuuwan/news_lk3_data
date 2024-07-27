@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 21:05:42**
+As of **2024-07-27 21:20:22**
 
 ## Newspaper Stats
 
-*Scraped **37,566** Articles*
+*Scraped **37,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,60 @@ economynextcom | 2,258
 dailyftlk | 2,405
 adalk | 3,414
 adaderanalk | 4,354
-tamilmirrorlk | 4,629
+tamilmirrorlk | 4,630
 dailymirrorlk | 4,733
-virakesarilk | 5,908
+virakesarilk | 5,909
 adaderanasinhalalk | 6,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,565 (100.0%) of 37,566 articles have been extended.
+37,566 (100.0%) of 37,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### ඉන්දියාවෙන් ප්‍රබල ප්‍රහාරයක්
+### ஐக்கிய மக்கள் சக்தி எம்.பி. ரணிலுக்கு ஆதரவு
+
+*2024-07-27 20:57:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தி-எம்-பி-ரணிலுக்கு-ஆதரவு/175-341109) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் அநுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினர் இஷாக் ரஹுமான் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமையில் காலியில் இடம்பெற்ற கூட்டத்தின் போது அவர் இந்த ஆதரவை வழங்கியுள்ளார்.(a)
+
+◼️
+
+[Data](articles/76473456.json)
+
+---
+
+### A powerful attack from India
 
 *2024-07-27 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199277) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන 20යි 20 ක්‍රිකට් තරගාවලියේ පළමු තරගය මේ වනවිට පල්ලේකැලේ ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත් වේ.
+In the opening match of the 20th cricket tournament at Pallekele, India batted first after losing the toss to Sri Lanka. Despite Surkumar Yadu's 58 and Rishab Buns' 49, India was bowled out for 213 in 20 overs. Mathera Pathirana led Sri Lanka's bowling with 4 wickets. Sri Lanka comfortably chased down the target with 214 runs, securing a victory.
 
-එහි කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඉන්දීය කණ්ඩායමට ලබාදීමටය.
+🟩
 
-ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලකුණු 213ක් රැස් කළේය.
+The first match of the 20th cricket tournament between Sri Lanka and India will be held at the Pallekele Cricket Stadium.
 
-එහිදී ඉන්දීය කණ්ඩායම වෙනුවෙන් සූර්යකුමාර් යාදව් ලකුණු 58ක් රැස්කළ අතර රිෂාබ් පාන්ට් ලකුනු 49ක් රැස්කළේය.
+The Sri Lankan team won the toss and decided to give the Indian team first to bat first.
 
-පන්දු යැවීමේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් මතීෂ පතිරණ කඩුලු 4ක් දවාගත්තේය.
+Accordingly, the Indian team scored 213 runs for the loss of 7 wickets at the end of 20 overs.
 
-ඒ අනුව තරගය ජය ගැනීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට හිමිවූ ඉලක්කය ලකුණු 214කි.
+Surkumar Yadu scored 58 runs for the Indian team, and 49 Rishab Buns scored 49.
+
+Mathera Pathirana took 4 wickets for Sri Lanka.
+
+Accordingly, the Sri Lankan team won 214 runs in winning the match.
 
 ◼️
 
 [Data](articles/8cb782b7.json)
+
+[Extended Data](ext_articles/8cb782b7.ext.json)
 
 ---
 
@@ -77,6 +97,26 @@ President Ranil Wickremesinghe said that he was deposited on the date yesterday.
 [Data](articles/4d9c36a4.json)
 
 [Extended Data](ext_articles/4d9c36a4.ext.json)
+
+---
+
+### இடம்பெயர்ந்த பாலஸ்தீனியர்கள் தஞ்சமடைந்திருந்த பாடசாலை மீது இஸ்ரேல் தாக்குதல் - 30க்கும் அதிகமானவர்கள் பலி
+
+*2024-07-27 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189560) · `ta`
+
+காசாவின் மத்தியில் உள்ள டெய்ர் அல் பலா நகரின் பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 30க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர்.
+
+கொல்லப்பட்டவர்களில் அனேகமானவர்கள் சிறுவர்கள் என்பது வெளியாகும் படங்கள் வீடியோக்கள் மூலம் தெரியவருவதாக காசாவின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+கொல்லப்பட்டவர்களில் சிறுவர்கள் காணப்படுவது ஆராயப்பட்ட வீடியோக்கள் மூலம் உறுதியாகியுள்ளது என பிபிசி தெரிவித்துள்ளது.
+
+இடம்பெயர்ந்த பாலஸ்தீனியர்கள் தஞ்சமடைந்திருந்த பாடசாலையே தாக்கப்பட்டது என காசாவின் சிவில் பாதுகாப்பு படையினர் தெரிவித்துள்ளனர்.
+
+இடம்பெயர்ந்தவர்கள் நோயாளிகள் காயமடைந்தவர்கள் கொல்லப்பட்டுள்ளனர் அனேகமானவர்கள் சிறுவர்கள் பெண்கள் என தெரிவித்துள்ள ஹமாஸ் இந்த தாக்குதலை கண்டித்துள்ளது.
+
+...
+
+[Data](articles/fb54f93f.json)
 
 ---
 
@@ -2203,51 +2243,5 @@ Renuka Singh defeated the first 3 wickets in Power Blake.
 [Data](articles/5804ad02.json)
 
 [Extended Data](ext_articles/5804ad02.ext.json)
-
----
-
-### If the President is unable to appoint the Inspector General of Police, the President should resign
-
-*2024-07-26 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/189482) · `ta`
-
-A heated debate ensued in Parliament regarding the appointment of the Inspector General of Police, with the ruling party asserting that the President cannot appoint the IG and the opposition challenging this stance. The Supreme Court's potential issuance of an interim injunction was discussed, highlighting a constitutional crisis. The opposition argued for adherence to the court's decision, while the government opposed, leading to a contentious session marked by accusations and counterarguments.
-
-🟩
-
-Can the Supreme Court have issued an interim injunction to act as the Inspector General of Police, which can be appointed by the Inspector General of Police?Impossible?In this regard, a fierce logic between the ruling and opposition parties caused more than an hour in the House.
-
-The ruling party has said that the police chief cannot appoint the Inspector General of Police and take action to appoint the Inspector General of Police in response to the Supreme Court ruling.The ruling party expressed fierce opposition.
-
-Following a special speech made by Prime Minister Dinesh Gunawardena in Parliament on Friday, the ruling and the opposite sides of the ruling and the opposition have taken place in Parliament on Friday.
-
-The Elections Commission has not been asked by the Supreme Court on the issue of the Supreme Court on the issue of the Supreme Court as the presidential election is held.
-
-...
-
-[Data](articles/f369d96a.json)
-
-[Extended Data](ext_articles/f369d96a.ext.json)
-
----
-
-### Maithri arrives in the three -wheeler
-
-*2024-07-26 21:47:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கரவண்டியில்-வந்திறங்கினார்-மைத்திரி/175-341088) · `ta`
-
-Former President Maithripala Sirisena attended a SLFP meeting in Athurugiriya, arriving in a three-wheeler. He emphasized the importance of implementing election laws, including not using state vehicles.
-
-🟩
-
-A meeting of the organizers of the Sri Lanka Freedom Party (SLFP) was held today (26) at the Wijedasa Rajapaksa's election office in Athurugiriya.
-
-It is a special feature that former President Maithripala Sirisena arrived in the three -wheeler to attend.
-
-He said that the election laws were implemented and the state vehicles would not be used to use state vehicles.. Remble
-
-◼️
-
-[Data](articles/de984b42.json)
-
-[Extended Data](ext_articles/de984b42.ext.json)
 
 ---

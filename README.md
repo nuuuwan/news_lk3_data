@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 08:55:00**
+As of **2024-07-27 09:06:44**
 
 ## Newspaper Stats
 
-*Scraped **37,508** Articles*
+*Scraped **37,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 3,412
 adaderanalk | 4,340
 tamilmirrorlk | 4,625
 dailymirrorlk | 4,733
-virakesarilk | 5,898
+virakesarilk | 5,900
 adaderanasinhalalk | 6,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,505 (100.0%) of 37,508 articles have been extended.
+37,508 (100.0%) of 37,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
+
+### சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு!
+
+*2024-07-27 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189490) · `ta`
+
+இம்மாதம் 15 ஆம் திகதி 10 இலட்சம் சுற்றுலா பயணிகள் வருகை தந்துள்ளதை அடுத்து இலங்கை சுற்றுலாப் பயணிகளின் வருகையில் மீண்டும் எழுச்சியடைந்துள்ளதாக சுற்றுலா மற்றும் காணி அமைச்சின் செயலாளர் சோமரத்ன விதானபத்திரன தெரிவித்தார்.
+
+இந்நிலை தொடருமானால், போருக்குப் பின்னர் இலங்கையில் சுற்றுலாத்துறையின் உச்ச நிலையை பதிவான 2018 ஆம் ஆண்டை விடவும் நல்ல நிலையை அடைய முடியும்.
+
+உயிர்தத ஞாயிறு  தாக்குதல், கொவிட் – 19 தொற்றுநோய் மற்றும் பொருளாதார நெருக்கடி காரணமாக இலங்கையில் சுற்றுலா வர்த்தகம் வீழ்ச்சியடைந்தது. ஆனால் சுற்றுலா அமைச்சு மற்றும் அதனுடன் இணைந்த நிறுவனங்களால் ஆரம்பிக்கப்பட்ட முறையான வேலைத்திட்டத்தினால் தற்போது வெற்றிகரமான பெறுபேறுகள் கிடைத்துள்ளது என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/92dafb3e.json)
+
+---
 
 ### Two arrested over youth found stabbed to death in Ward Place
 
@@ -50,23 +66,49 @@ The reason for the murder has not yet been revealed and the Colombo Crime Divisi
 
 [Data](articles/65552360.json)
 
+[Extended Data](ext_articles/65552360.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව ආර්ථික අර්බුදයකට ලක්වන බව පෙර සිටම දැන සිටියා - ජනපති
+### From the same time, Sri Lanka knew that Sri Lanka would be in a economic crisis - President
 
 *2024-07-27 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199254) · `si`
 
-ශ්‍රී ලංකාව ආර්ථික අර්බුදයකට ලක්වන බව තමන් පෙර සිටම දැන සිටි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Sri Lanka's President Ranil Wickremesinghe acknowledged the impending economic crisis, stating awareness since its onset. He pledged support to former president Gotabhaya Rajapaksa during a youth-focused event, highlighting his commitment to addressing national challenges.
 
-ජනාධිපතිවරයා සඳහන් ක‍ළේ ඒ බව තමා විසින් ගෝඨාභය රාජපක්ෂ මහතා වෙත දැනුම් දී අවශ්‍ය නම් උපකාර කිරීමට ද පොරොන්දු වූ බවයි.
+🟩
 
-ඊයේ (26) පස්වරුවේ තරුණයින් පිරික් විසින් සංවිධානය කර තිබූ  #AskRanilLive නම් ප්‍රශ්න ඇසීමේ වැඩසටහනකට එක් වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+President Ranil Wickremesinghe says that Sri Lanka has been aware that Sri Lanka is undercoming an economic crisis.
 
-එහිදී මෙම වැඩසටහන සජිවීව නරඹමින් ජනාධිපතිවරයාට සමාජ මාධ්‍ය ඔස්සේ ප්‍රශ්න යොමු කිරීම සිදුවිය.
+The President said he promised Gotabhaya Rajapaksa and promised to help.
+
+President Ranil Wickremesinghe made this statement participating at a questionful program if the youth was organized by the youth yesterday (26).
+
+The President was referring to the matter with social media by watching the program.
 
 ◼️
 
 [Data](articles/1f5c395f.json)
+
+[Extended Data](ext_articles/1f5c395f.ext.json)
+
+---
+
+### நீதிமன்றத்தின் உத்தரவுகளை வேண்டுமென்றே  கடைப்பிடிக்க மறுக்கும் அரசாங்கம்- சட்டத்தரணிகள் ஒன்றிணைவு சீற்றம்
+
+*2024-07-27 08:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189489) · `ta`
+
+பொலிஸ்மா அதிபர் தேசபந்துதென்னக்கோன் தொடர்பான உயர்நீதிமன்றத்தின் உத்தரவை பிரதமரின் நாடாளுமன்ற உரையின் மூலம் வலுவற்றதாக்க முடியாது என சட்டத்தரணிகள் அமைப்பான சட்டத்தரணிகள் ஒன்றிணைவு தெரிவித்துள்ளது.
+
+தேசபந்துதென்னக்கோனின் பதவி தொடர்பாக உயர்நீதிமன்றம் வழங்கிய உத்தரவு தொடர்பிலும் அதன் பின்னர் ஜனாதிபதியும் அரசாங்கமும் நடந்துகொண்ட விதம் தொடர்பிலும்  பொதுமக்களிற்கு தெளிவுபடுத்துவதற்காக நேற்று நடத்திய செய்தியாளர் மாநாட்டில் சட்டத்தரணிகள் அமைப்பு இதனை தெரிவித்துள்ளது.
+
+நீதிமன்றத்தின் உத்தரவுகளை வேண்டுமென்றே  கடைப்பிடிக்க மறுக்கும் போக்கினை அரசாங்கம் சமீபத்தில் பின்பற்றுவதை சுட்டிக்காட்டியுள்ள சட்டத்தரணிகள் அமைப்பு இது அனைத்து அம்சங்களிலும் நாட்டின் முன்னேற்றத்திற்கு தடையான விடயம் என தெரிவித்துள்ளது.
+
+தேசபந்துதென்னக்கோன் பொலிஸ்மா அதிபராக தொடர்ந்து பணிபுரிவதற்கான முயற்சிகளில் ஈடுபட்டால் அந்த பதவிக்கான அதிகாரங்களை பயன்படுத்த முயன்றால் அது நீதிமன்ற அவமதிப்பாகும் என ஜனாதிபதி சட்டத்தரணி உபுல் ஜயசூரிய தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9b1c8c83.json)
 
 ---
 
@@ -96,19 +138,25 @@ The Colombo Crimes Division is conducting further investigations.
 
 ---
 
-### මිල ප්‍රදර්ශනය නොකළොත් වැඩ වරදී
+### If not display price
 
 *2024-07-27 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199252) · `si`
 
-ග්‍රෑම් 450ක පාන් ගෙඩියක මිල රුපියල් 10කින් අඩු කිරීමට පියවර ගැනීමත් සමඟ මිල ප්‍රදර්ශනය නොකරන වෙළෙඳසැල් හිමියන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට පියවර ගන්නා බව පාරිභෝගික අධිකාරිය පවසයි.
+The Consumer Affairs Authority plans to sue stone owners for not reducing bread prices by Rs.10. Investigations and raids are underway. Since January, legal actions have been taken against 210 individuals for illegal measurement practices.
 
-එහි සභාපති ටී.අයි. උඩුවර මහතා සඳහන් කළේ අදාළ වැටලීම් සිදුකරන ලෙස විමර්ශන අංශයේ නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවය.
+🟩
 
-මෙ අතර කොළඹ දිස්ත්‍රික් සහකාර මිනුම් ඒකක ප්‍රමිති සේවා අධිකාරී දිල්රුක් පට්ටියපොල මහතා පැවසුවේ ජනවාරි මාසයේ සිට මේ දක්වා කාලසීමාව තුළ නීත්‍යානුකූල කිරුම් මිනුම් උපකරණ සම්බන්ධයෙන් සිදුකළ වැටලීම් වලදී 210 දෙනෙකුට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගෙන ඇති බවය.
+The Consumer Affairs Authority says that steps will be taken to take legal action against the stone owners who do not decrease the price of 450 grams bread by Rs.10.
+
+Its Chairman TI. Upon Mr. Uduwara stated that the Investigation Division has instructed to carry out the raids.
+
+Meanwhile, Assistant Measurement Unit Standard Unit Standards Service Service Superintendent Sure Dilruk Pattutiyepola has said that legal action has been taken against 210 persons regarding legal measurement equipment since January.
 
 ◼️
 
 [Data](articles/cfeef114.json)
+
+[Extended Data](ext_articles/cfeef114.ext.json)
 
 ---
 
@@ -2187,49 +2235,5 @@ It is necessary for all candidates to pay control before filing nominations. Acc
 [Data](articles/565defd1.json)
 
 [Extended Data](ext_articles/565defd1.ext.json)
-
----
-
-### Suspect arrested with Isuru Udanage aunty
-
-*2024-07-26 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199234) · `si`
-
-Isuru Udanage, a former Sri Lankan cricketer, was involved in an incident where his newly built house was robbed. The suspect, who broke into the three-story property on Homagama Road, was severely injured and caused significant damage to jewelry worth Rs. 72 lakhs. Following the incident, the police arrested the suspect for four months.
-
-🟩
-
-Former Sri Lankan cricketer, Isuru Udanage, Isuru Udayaniyaniya had recently launched the three storied house on Homagama Road.
-
-The robber in the house had been severely wounded and heavy damaged a jewelry worth Rs. 72 lakhs worth Rs.
-
-Accordingly, the police have been arrested for four months after the incident.
-
-◼️
-
-[Data](articles/5ad66ae7.json)
-
-[Extended Data](ext_articles/5ad66ae7.ext.json)
-
----
-
-### US welcomes Sri Lanka election announcement
-
-*2024-07-26 14:12:00* · [`economynextcom`](https://economynext.com/us-welcomes-sri-lanka-election-announcement-173966/) · `en`
-
-ECONOMYNEXT – US Ambassador to Sri Lanka Julie Chung has said she ‘welcomed’ the decision to hold Sri Lanka’s presidential election in September.
-
-“We welcome the Election Commission announcement of September 21 presidential elections, affirming Sri Lanka’s longstanding commitment to democracy,” Chung said on X (twitter).
-
-“We look forward to free and fair elections that empower Sri Lankan citizens to determine their future.”
-
-Sri Lanka’s presidential election will be held on September 21, 2024, with nominations to be accepted on  August 15, the Election Commission announced.
-
-In a gazette issued in the early hours of Friday July 26, the commission said the election will be held “not less than one month and not more than two months before the expiration of th eterm of office of the president in office, as stipulated in Article 31(3) of the Constitution”. (Colombo/Colombo26/2024)
-
-◼️
-
-[Data](articles/4546a74a.json)
-
-[Extended Data](ext_articles/4546a74a.ext.json)
 
 ---

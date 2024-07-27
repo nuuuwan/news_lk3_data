@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 07:26:24**
+As of **2024-07-27 07:48:28**
 
 ## Newspaper Stats
 
-*Scraped **37,500** Articles*
+*Scraped **37,502** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 327
+dbsjeyarajcom | 328
 colombotelegraphcom | 351
 newsfirstlk | 363
 bbccomsinhala | 365
@@ -17,7 +17,7 @@ economynextcom | 2,252
 dailyftlk | 2,405
 adalk | 3,412
 adaderanalk | 4,339
-tamilmirrorlk | 4,623
+tamilmirrorlk | 4,624
 dailymirrorlk | 4,733
 virakesarilk | 5,898
 adaderanasinhalalk | 6,291
@@ -26,31 +26,37 @@ adaderanasinhalalk | 6,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,498 (100.0%) of 37,500 articles have been extended.
+37,500 (100.0%) of 37,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### කාලගුණයෙන් රතු නිවේදයක්
+### A red announcement from the weather
 
 *2024-07-27 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199251) · `si`
 
-ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව, අනතුරු ඇඟවීමේ රතු නිවේදයක් නිකුත් කර තිබේ.
+The Meteorological Department warns of strong winds and rough seas across the northern Arabian Sea and the Bay of Bengal for the next 24 hours due to the active southwest monsoon. Winds reaching speeds of 55-70 km/h are expected, especially along the coasts of 13 to 23 degrees north latitude and 55 to 70 degrees longitude. The Department advises fishermen and sailors to stay ashore. Additionally, heavy showers are forecasted for the Kandy, Nuwara Eliya, Colombo, North Western Provinces, and the Galle and Matara districts, potentially causing gusty winds.
 
-සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශය සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ඉතා රළු විය හැකි බව එහි සඳහන් වේ.
+🟩
 
-එම දෙපාර්තමේන්තුව පැවසුවේ අරාබි මුහුදු ප්‍රදේශයේ උතුරු අක්ෂාංශ 13 ත් 23 ත් සහ නැගෙනහිර දේශාංශ 55 ත් 70 ත් යන ප්‍රදේශවල සහ බෙංගාල බොක්ක මුහුදු ප්‍ දෙශයේ උතුරු අක්ෂාංශ 13 ත් 18 ත් සහ නැගෙනහිර දේශාංශ 83 ත් 93 ත් යන මුහුදු ප්‍රදේශ වල පැයට කිලෝමීටර් 70 – 80 තද සුළං පවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවය.
+The Department of Meteorological Department has issued a warning red statement about the waist of strong winds and sea for the next 24 hours.
 
-මේ හේතුවෙන් අදාළ ප්‍රදේශයේ ධීවර හා නාවික කටයුතුවල යෙදී සිටින පිරිස් වහාම ගොඩබිම හෝ ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+It says that due to the active southwest monsoon and the Bay of Bay of Bengal.
 
-එම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යත්‍රා නොකරන ලෙස එම දෙපාර්තමේන්තුව ධීවර හා නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+The department said about 13 to 23 northern part of the Arabian coast and 55 and 70 and 70 lattering areas and the Bay of Bay of East Large 40 km 80 - 80 kilometersThere may be winds and sea areas can be very rough.
 
-මේ අතර, සබරගමුව පළාතෙත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල විටින් විට වැසි ඇති වන අතර බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+The Department of Meteorology has requested the Department of Fisheries and Navigation to come to a land or safe place in the area.
+
+The Department has informed the fisheries and the naval community as no leoming to the sea.
+
+Meanwhile, several showers will occur at times in the Kandy and Nuwara Eliya districts of the Kandy and Nuwara Elve districts of the Colombo and North Western Provinces and several showers in the Western and North Western Provinces and several showers in the Galle and Matara districts.
 
 ...
 
 [Data](articles/3758563e.json)
+
+[Extended Data](ext_articles/3758563e.ext.json)
 
 ---
 
@@ -120,19 +126,41 @@ The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran P
 
 ---
 
-### விக்ரமபாகுவின் இறுதிச் சடங்கு இன்று
+### ’ஆதரவளித்த சகல அரசியல் கட்சிகளுக்கும் நன்றி’
+
+*2024-07-27 00:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவளித்த-சகல-அரசியல்-கட்சிகளுக்கும்-நன்றி/175-341103) · `ta`
+
+நாட்டின் பொருளாதாரத்தை சரியான பாதையில் வழிநடத்தும் பொருளாதார பரிமாற்ற சட்டமூலத்தை நிறைவேற்றுவதற்கு ஆதரவளித்த அனைத்து அரசியல் கட்சிகளுக்கும் நன்றி தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, இந்தத் திட்டத்தை தொடர்ந்து முன்னெடுத்துச் செல்வதற்கு ஒன்றிணையுமாறு சகல அரசியல் கட்சிகளுக்கும் அழைப்பு விடுத்தார்.
+
+நாட்டில் ஏற்றுமதி சார்ந்த டிஜிட்டல் மற்றும் பசுமைப் பொருளாதாரத்தை கட்டியெழுப்புவதற்கு தேவையான நிர்வாக மற்றும் நிறுவன ரீதியான கட்டமைப்பை இந்த சட்டமூலத்தில் உள்ளடக்கியுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+கல்வி மற்றும் தொழில்நுட்ப அமைச்சுக்கள் இணைந்து செயற்படுத்தும் “டிஜிட்டல் பொருளாதார மூலோபாயம் 2030” வேலைத்திட்டத்தின் கீழ் பாடசாலைகள் மற்றும் பிரிவெனாக்களுக்கு ஸ்மார்ட் வகுப்பறை உபகரணங்களை வழங்கும் நிகழ்வு நேற்று (26) ரம்புக்கன பராக்கிரம மகா வித்தியாலயத்தில் நடைபெற்றது. இந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/3567a91d.json)
+
+---
+
+### Vikramabahu's funeral today
 
 *2024-07-27 00:33:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்ரமபாகுவின்-இறுதிச்-சடங்கு-இன்று/175-341102) · `ta`
 
-நவ சம சமாஜ கட்சியின் மறைந்த தலைவர் கலாநிதி விக்ரமபாகு கருணாரத்னவின் இறுதிச் சடங்கு இன்று இடம்பெறவுள்ளது.
+Dr. Wickramabahu Karunaratne, leader of the Nava Sama Samaja Party, passes away from illness. His funeral is today at Borella, 5 pm.
 
-இறுதிக் கிரியை பொரளை – பொதுமயானத்தில் இன்று பிற்பகல் 5 மணிக்கு இடம்பெறும் என அறிவிக்கப்பட்டுள்ளது.
+🟩
 
-உடல் நலக்குறைவு காரணமாக நவ சம சமாஜ கட்சியின் தலைவர் கலாநிதி விக்ரமபாகு கருணாரத்ன கடந்த புதன் கிழமை காலமானார்.  (a)
+The funeral of the late Sama Sama Raja Party leader Dr. Wickramabahu Karunaratne will be held today.
+
+It has been announced that the funeral will be held at Borella - 5 pm today.
+
+Karuna Vikramabahu Karunaratne, the leader of the Nava Sama Samaja Party, passed away last Wednesday due to ill health.(a)
 
 ◼️
 
 [Data](articles/d29cf9ce.json)
+
+[Extended Data](ext_articles/d29cf9ce.ext.json)
 
 ---
 
@@ -777,6 +805,22 @@ M. A. Sumanthiran, an ITAK legislator said the part has already had discussions 
 [Data](articles/8c522ab8.json)
 
 [Extended Data](ext_articles/8c522ab8.ext.json)
+
+---
+
+### Sri Lanka’s Presidential Elections to be held on 21st September 2024; Incumbent President Ranil Wickremesinghe among the first to pay Cash deposit to Contest as an Independent  Candidate
+
+*2024-07-26 21:08:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84441) · `en`
+
+Sri Lanka’s presidential polls will be held on September 21, the Election Commission said on Friday.  Some 17 million voters will have their first chance of electing the country’s leader, after a mass people’s uprising ousted former President Gotabaya Rajapaksa two years ago.
+
+President Ranil Wickremesinghe was among the first to formally get into the fray. His office announced making a cash deposit at the Commission for his candidacy as an independent, although he has relied on the Rajapaksas’ Sri Lanka Podujana Peramuna (SLPP or People’s Front) since his rise to Presidency through an urgent parliamentary vote, after Mr. Gotabaya’s resignation amid the 2022 economic downturn.
+
+During his two years in office, Mr. Wickremesinghe has vowed to rebuild the country’s economy with an International Monetary Fund-led austerity and reform programme.
+
+...
+
+[Data](articles/074da3e3.json)
 
 ---
 
@@ -2205,65 +2249,5 @@ On the sidelines of the Consultations, the Foreign Secretary is scheduled to cal
 [Data](articles/3135418d.json)
 
 [Extended Data](ext_articles/3135418d.ext.json)
-
----
-
-### More information about Grandpass double murders
-
-*2024-07-26 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199230) · `si`
-
-In a tragic incident in the Vadawatta area, a drug trafficker known as Grandpass powder was killed, along with two unidentified gunmen who arrived on a motorcycle. A woman and a three-wheeler driver were seriously injured; the driver later succumbed to his injuries. Police identified one of the victims as Sunitha Sunita, involved in drug-related activities and facing several legal issues. The shooting, believed to be drug-related, occurred with a revolver.
-
-🟩
-
-The Grandpass powder of drug trafficker was killed in the Vadawatta area yesterday (25th), police said.
-
-Two unidentified shooters who arrived at a motorcycle around 5.50 pm were shot dead.
-
-The woman and the driver of the three-wheeler driver were seriously injured and admitted to the Colombo National Hospital.
-
-The driver of the three-wheeler had died at the same time.
-
-The shooting was shot dead and died this morning while receiving treatment at the ICU.
-
-Police have been killed, K.. Suneetha is a woman named Sunitha Sunita.
-
-The police said that she had been conducted in a large scale in the area and was hiding with the opening of justice.
-
-It is also reported that there are several cases pending against her.
-
-The man who served as a three-wheeler driver with her was 31 year old resident of Kamburupitiya, KR. The relative of the victim was a relative of the victim.
-
-Meanwhile, a motorcycle suspected that the two shooters had arrived in the Orugodawatta area was found this morning.
-
-...
-
-[Data](articles/c434baf8.json)
-
-[Extended Data](ext_articles/c434baf8.ext.json)
-
----
-
-### Car stop, Money, vehicle registration book robbery - Police Sergeant arrested
-
-*2024-07-26 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189416) · `ta`
-
-A police sergeant from Vayankoda was arrested by the Police Special Task Force for allegedly robbing a vehicle registration book on the Negombo-Colombo road.
-
-🟩
-
-A police sergeant have been arrested in connection with the robbery of Rs.
-
-A police sergeant has been arrested in the Police Special Task Force at the Negombo Police Superintendent's Office.
-
-Police said the arrested was a resident of Vayankoda area. The robbery took place on the Negombo -Colombo road.
-
-The suspect has been arrested in connection with the complaint received by the police.
-
-◼️
-
-[Data](articles/04c8b6cf.json)
-
-[Extended Data](ext_articles/04c8b6cf.ext.json)
 
 ---

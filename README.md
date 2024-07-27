@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-27 16:20:23**
+As of **2024-07-27 16:35:47**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 6,306
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,540 (100.0%) of 37,545 articles have been extended.
+37,545 (100.0%) of 37,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-27 (Saturday)
 
-### කොළඹ ත්‍රිරෝද රථ රියදුරා ඝාතනයේ සුලමුල හෙළිවෙයි
+### Colombo-wheeler driver's murder reveals
 
 *2024-07-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199267) · `si`
 
-කොළඹ වෝඩ් පෙදෙසේ දී ත්‍රිරෝද රථ රියදුරෙක් ඝාතනය කිරීමේ සිද්ධියට අදාළව සැකකරුවන් දෙදෙනෙක් කොළඹ අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+In Colombo, two men aged 45 and 38, residents of GNANIL and GNGPAS, were arrested for murdering a three-wheeler driver over his mobile phone. The crime occurred near the National Dental Hospital, where the victim was found dead in his vehicle. Investigations showed the driver was attacked with a sharp weapon. The suspects, known drug addicts, confessed to stealing the phone to pawn it for money to buy drugs. They also admitted to robbing another three-wheeler in Sapugaskanda.
 
-ඔවුන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණය වී ඇත්තේ, ත්‍රිරෝද රථ රියදුරුගේ ජංගම දුරකථනය කොල්ලකෑම සඳහා මෙම ඝාතනය සිදුකළ බවය.
+🟩
 
-කොළඹ, වෝඩ් පෙදෙසේ පිහිටි ජාතික දන්ත රෝහල අසල නවතා තිබූ ත්‍රිරෝද රථයක තිබී නාඳුනන පුද්ගල මළසිරුරක් පසුගිය 23වනදා පොලීසිය විසින් සොයා ගත්තේය.
+Two suspects have been arrested by the Colombo Crimes Division regarding the assassination of a three-wheeler driver in Ward Place, Colombo.
 
-එහිදී සිදුකළ විමර්ශනවලදී අනාවරණ වුණේ තියුණු ආයුධයකින් පහරදී අදාළ ඝාතනය සිදුකර ඇති බවය.
+The interrogation from them revealed that the murder was done to plunder the three-wheeler's mobile phone.
 
-අනතුරුව කොළඹ අපරාධ කොට්ඨාසයයේ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකයේ නිලධාරීන් ඇතුළු පොලිස් කණ්ඩායම් කිහිපයක් අදාළ ඝාතනය සම්බන්ධයෙන් විමර්ශන සිදුකර තිබුණි.
+A unidentified body was found in a three-wheeler near the National Dental Hospital located near the National Dental Hospital in Colombo and Wad Place.
 
-සීසීටීවී දර්ශන ඔස්සේ දීර්ඝ විමර්ශනයක් සිදුකළ විමර්ශන නිලධාරීන්  සැකකරුවන් දෙදෙනෙකු ඊයේ අත්අඩංගුවට ගනු ලැබුවා.
+Investigations have revealed that the murder had been assaulted by a sharp weapon.
 
-45 හා 38 යන වයස්වල පසුවන සැකකරුවන් දෙදෙනා ගෝනවිල හා ග්‍රෑන්ඩ්පාස් ප්‍රදේශවල පදිංචිකරුවන් ය.
+There were several police teams including officers of the Colombo Crimes Division of the Colombo Crimes Division.
 
-ඉන් එක් සැකකරුවකු සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 30කට අධික ප්‍රමාණයක් සොයාගෙන තිබේ.
+Two investigating officials were arrested yesterday with investigations into the CCTV views.
+
+The two suspects in the ages of 45 and 38 are residents of the GNANIL and GNGPAS.
+
+More than 30 grams of ice cast have been found in the possession of one of them.
+
+The questions from the suspects have revealed that they have a habit to find money to drink ice drugs.
 
 ...
 
 [Data](articles/246d994f.json)
+
+[Extended Data](ext_articles/246d994f.ext.json)
 
 ---
 
@@ -76,6 +84,8 @@ Sri Lanka Tourist Development Authority (SLTDA) data shows that Sri Lanka has we
 
 [Data](articles/f5a9d833.json)
 
+[Extended Data](ext_articles/f5a9d833.ext.json)
+
 ---
 
 ### EU continues proscription of the LTTE
@@ -94,6 +104,8 @@ Proscribed persons, groups and entities are subject to the freezing of its funds
 
 [Data](articles/91912ac9.json)
 
+[Extended Data](ext_articles/91912ac9.ext.json)
+
 ---
 
 ### New police unit established for election affairs
@@ -111,6 +123,8 @@ On Wednesday (24), the Supreme Court issued an interim order preventing Deshaban
 ...
 
 [Data](articles/0f824f2c.json)
+
+[Extended Data](ext_articles/0f824f2c.ext.json)
 
 ---
 
@@ -309,6 +323,8 @@ Johnson Liu, Chief Representative of CM Group in Sri Lanka and CEO of HIPG, emph
 ...
 
 [Data](articles/bea8e3ab.json)
+
+[Extended Data](ext_articles/bea8e3ab.ext.json)
 
 ---
 

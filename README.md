@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 20:55:07**
+As of **2024-07-28 21:05:52**
 
 ## Newspaper Stats
 
-*Scraped **37,732** Articles*
+*Scraped **37,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,436
+adalk | 3,438
 adaderanalk | 4,372
 tamilmirrorlk | 4,662
 dailymirrorlk | 4,733
@@ -26,45 +26,77 @@ adaderanasinhalalk | 6,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,719 (100.0%) of 37,732 articles have been extended.
+37,721 (100.0%) of 37,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### பொலிஸ் மா அதிபர் நியமனம் தொடர்பில் எழுந்துள்ள பிரச்சினைக்கு ஒரு வாரத்திற்குள் தீர்வு கண்டு, சுதந்திரமான மற்றும்  நியாயமான தேர்தலை நடத்தத் தேவையான சூழல்  உருவாக்கப்படும் - ஜனாதிபதி ரணில்
+### පිහිනුම් තටාකයේ ගිලි වයස අවුරුදු 07 ක පිරිමි ළමයෙකු මියගිහින්
+
+*2024-07-28 20:35:52* · [`adalk`](https://www.ada.lk/breaking_news/පිහිනුම්-තටාකයේ-ගිලි-වයස-අවුරුදු-07-ක-පිරිමි-ළමයෙකු-මියගිහින්/11-411057) · `si`
+
+මහනුවර ලුවි පීරිස් මාවතේ පිහිටි හෝටලයක පිහිනුම් තටාකයේ ගිලි වයස අවුරුදු 07 ක පිරිමි ළමයෙකු මිය ගොස් ඔහුගේ වැඩිමහල් සහෝදරයාද එම පිහිනුම් තටාකයේම ගිලි බරපතල තත්ත්වයෙන් මහනුවර ජාතික රෝහලට ඇතුළත් කොට ඇති බව මහනුවර මූලස්ථාන පොලිසිය කියයි .
+
+සිද්ධියෙන් මිය ගොස් ඇත්තේ වැරැල්ලගම කුරුදුගොල්ල ප්‍රදේශයේ පදිංචි මොහොමඩ් මිස්ජාන් නමැති ළමයෙකි .
+
+මෙම දරුවන් දෙදෙනා තම දෙමාපියන්ද සමග අද (28) දින නිවාඩුව ගතකිරීමට මෙම හෝටලයට පැමිණ ඇති අතර දහවල් 11.00 ට පමණ මියගිය දරුවා තනිව පිහිනුම් තටාකය අසල සිටියදී ඔහු පිහිනුම් තටාකයට වැටී ඇති බව පොලිසිය කියයි . ඔහු දියේ ගිලි සිටිනු දුටු ඔහුගේ වැඩිමල් සහෝදරයා පිහිනුම් තටාකයට පැන තම බාල සහෝදරයා බේරා ගැනීමට උත්සාහ කිරීමේදී ඔහුද දියේ ගිලී තිබේ .
+
+දිය ගිලි බරපතල තත්ත්වයෙන් සිටි බාල සහෝදරයා රෝහල කරා රැගෙන යන විටද මියගොස් සිට ඇති අතර සිද්ධිය සම්බන්ධයෙන් මහනුවර මූලස්ථාන පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි .
+
+◼️
+
+[Data](articles/4d2d91a3.json)
+
+---
+
+### Within a week, the issue of the appointment of the Inspector General of Police will be resolved and the environment required to hold an independent and fair election will be created - President Ranil
 
 *2024-07-28 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189637) · `ta`
 
-சபாநாயகருடனும் பிரதமநீதியரசருடனும் கலந்துரையாடி பொலிஸ் மா அதிபர் நியமனத்தில் எழுந்துள்ள பிரச்சினைக்கு  ஒரு வாரத்திற்குள் தீர்வு காணப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe promises resolution of the Inspector General of Police appointment issue within a week, ensuring conditions for a free and fair election. He emphasizes the importance of supporting the Elections Commission and addresses concerns about economic recovery and international support.
 
-ஜனாதிபதித் தேர்தலை செப்டெம்பர் 21ஆம் திகதிக்கு அப்பால் வேறொரு தினத்தில் நடத்த தாம் தயாராக இல்லை எனவும், ஜனாதிபதித் தேர்தலை செப்டெம்பர் 21ஆம் திகதி நடத்தத் தேவையான ஏற்பாடுகளை மேற்கொள்வதாகவும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-தேர்தல் என்பது மக்களின் இறையாண்மையின் ஒரு அங்கம் எனவும் அதனை மீற இடமளிக்க முடியாது எனவும் சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe said that the issue of the appointment of the Inspector General of Police will be resolved within a week, discussing with the Speaker and the Chief Justice.
 
-அத்துடன், அரசியலமைப்பின் 106ஆவது சரத்தின் பிரகாரம் நாட்டில் சுதந்திரமான மற்றும்  நியாயமான தேர்தலை நடத்த தேர்தல்கள் ஆணைக்குழுவுக்கு அதிகாரம் உள்ளதாக சுட்டிக்காட்டிய ஜனாதிபதி, அதற்கு பூரண ஆதரவை வழங்குவது அனைவரினதும் பூரண கடமை எனவும் தெரிவித்தார்.
+The President said that he was not ready to hold the presidential election on September 21 and that the presidential election would be held on September 21.
 
-ஹோமாகம பஸ்தரிப்பு  நிலைய வளாகத்தில் இன்று (27) நடைபெற்ற 'ஜெயகமு ஸ்ரீலங்கா' கொழும்பு மாவட்ட  புலம்பெயர் தொழிலாளர் கௌரவிப்பு நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+He pointed out that the election is part of the sovereignty of the people and cannot be used to violate it.
+
+In addition to the 106th of the Constitution, the President pointed out that the Elections Commission has the power to hold an independent and fair election in the country, saying that it is the perfect duty of all to be given full support.
+
+President Ranil Wickremesinghe made this statement while addressing the Hon.
 
 ...
 
 [Data](articles/b9c56216.json)
 
+[Extended Data](ext_articles/b9c56216.ext.json)
+
 ---
 
-### வெளிநாட்டு பயணச்சீட்டு வைத்திருப்பவர்களுக்கு மட்டும் தனியான சுகாதார வசதிகள் - பவித்ரா
+### Separate Health Facilities For Foreign Ticket Holders - Pavithra
 
 *2024-07-28 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189621) · `ta`
 
-நாட்டில் கடந்த இரண்டு வருடங்களுடன் ஒப்பிடுகையில்இவ்வாண்டில் வனவளத் திணைக்களத்தின் கட்டுப்பாட்டில் உள்ள சுற்றுலாத் தலங்களுக்கு வருகை தரும் உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் எண்ணிக்கையில் தெளிவான அதிகரிப்பு ஏற்பட்டுள்ளதாக வனஜீவராசிகள், வன வளங்கள் அமைச்சர் பவித்ரா வன்னியாராச்சி தெரிவித்தார்.
+Pavithra Wanniyarachchi, Wildlife and Forest Resources Minister, announced a surge in tourism, with 364,521 visitors in the first half of 2024, 40% being foreign tourists. This marks a significant increase from previous years. Measures include opening new tourist destinations like the Kaloya Environmental Park, providing separate health facilities for foreign tourists, and utilizing drone technology for forest protection.
 
-2024 ஆம் ஆண்டின் முதல் 6 மாதங்களில் 364,521 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளதாகவும் அவர்களில் 40 சதவீதமானோர் வெளிநாட்டு சுற்றுலாப் பயணிகள் எனவும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் ஞாயிற்றுக்கிழமை (28)  இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+Wildlife and Forest Resources Minister Pavithra Wanniyarachchi said that there has been a clear increase in the number of domestic and foreign tourists who visit the tourist attractions controlled by the Department of Forest in the country compared to the last two years.
+
+The Minister said that in the first six months of 2024, 364,521 tourists arrived and 40 per cent of them were foreign tourists.
+
+He further stated at the media conference held at the Presidential Media Center on Sunday (28).
+
+There has been a clear increase in the number of domestic and foreign tourists coming to the forest department -controlled tourist attractions in 2024 compared to the last two years. Accordingly, the number of tourists visiting the Forest Department in 2022 was 289,405 and 444,053 in 2023.. In the first six months of 2024, about 364,521 tourists arrived.
 
 ...
 
 [Data](articles/614e70c3.json)
+
+[Extended Data](ext_articles/614e70c3.ext.json)
 
 ---
 
@@ -331,6 +363,18 @@ Sri Lanka won the final match against India by eight wickets.
 [Data](articles/a6735c2f.json)
 
 [Extended Data](ext_articles/a6735c2f.ext.json)
+
+---
+
+### ආසියිනු කුසලානය දිනූ කෙල්ලන්ට ක්‍රිකට් ආයතනයෙන් තෑගි මල්ලක්
+
+*2024-07-28 18:51:02* · [`adalk`](https://www.ada.lk/sports/ආසියිනු-කුසලානය-දිනූ-කෙල්ලන්ට-ක්‍රිකට්-ආයතනයෙන්-තෑගි-මල්ලක්/9-411048) · `si`
+
+ප්‍රභල ඉන්දිය කණ්ඩායම පරාජය කරමින් ඉතිහාසයේ පළමුවරට ආසියානු කුසලානය දිනාගත් කාන්තා ක්‍රිකට් කණ්ඩායමට ඩොලර් ලක්ෂයක දීමනාවක් ලබාදීමට ක්‍රිකට් ආයතනය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/9e1a0e86.json)
 
 ---
 
@@ -2209,55 +2253,5 @@ Meanwhile, a van is killed in an accident in the CTB juncee area on the Juwanugo
 [Data](articles/32062038.json)
 
 [Extended Data](ext_articles/32062038.ext.json)
-
----
-
-### President hits out at ‘false claims’ of govt operating outside IMF framework
-
-*2024-07-28 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100825/president-hits-out-at-false-claims-of-govt-operating-outside-imf-framework) · `en`
-
-During the “Ekwa Jaya Gamu – Api Galle” public rally held yesterday (27) at the Galle Municipal Council Stadium, President Ranil Wickremesinghe announced for the first time that he will run in the upcoming presidential election and has already deposited the money.
-
-The President highlighted that he has never shied away from challenges and stated that it is his political practice to fulfill his responsibilities quietly. He reaffirmed his commitment to moving the country forward as promised.
-
-The meeting saw attendance from over 50 ministers and members of parliament from various political parties, including the Sri Lanka Podujana Peramuna, as well as former ministers and more than 15,000 residents from the Galle district.
-
-They gathered to learn about the government’s program and the path ahead, vowing to work toward the President’s victory in the presidential election.
-
-...
-
-[Data](articles/7aae827f.json)
-
-[Extended Data](ext_articles/7aae827f.ext.json)
-
----
-
-### Alert for 24 hours
-
-*2024-07-28 09:45:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணி-நேரத்துக்கு-எச்சரிக்கை/175-341136) · `ta`
-
-A meteorological alert warns of strong winds, sea turbulence, and heavy rain across Sri Lanka for the next 24 hours. Fishermen in the Arabian Sea and Bay of Bengal are advised to be cautious. Rainfall is expected in several provinces, with strong winds in central highlands and northern regions.
-
-🟩
-
-The Department of Meteorology has issued a warning of strong winds and sea turbulence.
-
-The department has announced that the announcement, which was released today (28), will be valid for the next 24 hours.
-
-Long -day fishermen in the Arabian Sea and the Bay of Bengal have been advised to take care of this.
-
-Meanwhile, the Department of Meteorology said that rainfall is expected in Sabaragamuwa Province, Kandy and Nuwara Eliya districts today (28).
-
-Rainfall is expected several times in the Western and North Western Provinces and Galle and Matara districts.
-
-Strong winds are likely to blow at speeds of 50-55 km from time to time in the western slopes of the Central Highlands, the Northern, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts.
-
-The Department of Meteorology further stated that the rest of the country could blow up to 30 to 40 km from time to time.. Remble
-
-◼️
-
-[Data](articles/8d2ff09d.json)
-
-[Extended Data](ext_articles/8d2ff09d.ext.json)
 
 ---

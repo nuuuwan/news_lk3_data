@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 02:35:58**
+As of **2024-07-29 02:54:28**
 
 ## Newspaper Stats
 
-*Scraped **37,753** Articles*
+*Scraped **37,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,262
-dailyftlk | 2,410
+dailyftlk | 2,411
 adalk | 3,441
 adaderanalk | 4,373
 tamilmirrorlk | 4,662
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,752 (100.0%) of 37,753 articles have been extended.
+37,753 (100.0%) of 37,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### Haycarb unveils state-of-the-art Electrochemical Laboratory to support energy storage material innovations
+
+*2024-07-29 02:21:29* · [`dailyftlk`](https://www.ft.lk/business/Haycarb-unveils-state-of-the-art-Electrochemical-Laboratory-to-support-energy-storage-material-innovations/34-764847) · `en`
+
+From left: Haycarb Deputy Managing Director Brahman Balaratnarajah, Director – R&D and Technical Udaya Kumara, Managing Director Rajitha Kariyawasan, and Hayleys Chairman and Chief Executive Mohan Pandithage ceremonially open Haycarb’s new Centre of Innovation
+
+Haycarb PLC, a global leader in activated carbon, proudly announced the inauguration of its cutting-edge Electrochemical Laboratory, now known as its Centre of Innovation (CoI). This new facility marks a significant milestone in Haycarb’s ongoing commitment to innovation and excellence in the field of energy storage materials.
+
+The global energy storage market is on an impressive growth trajectory, with forecasts predicting an increase from $ 234 billion in 2023 to $ 357 billion by 2028. As per the Energy Storage Systems Global Market 2024 Report, this expansion, supported by a compound annual growth rate (CAGR) of 8.8%, is propelled by the increasing adoption of renewable energy and the rising demand for electric vehicles.
+
+...
+
+[Data](articles/59d7345d.json)
+
+---
 
 ### UK’s Catalina retains MTI for hyper-personalised retailing
 
@@ -43,6 +59,8 @@ The scope of the assignment involves detailed campaign lifecycle-related process
 ...
 
 [Data](articles/bec08949.json)
+
+[Extended Data](ext_articles/bec08949.ext.json)
 
 ---
 
@@ -2301,27 +2319,5 @@ Although I returned to the car and tried to come to the cafeteria, but went to d
 [Data](articles/a2679199.json)
 
 [Extended Data](ext_articles/a2679199.ext.json)
-
----
-
-### Israel struck Hesbulla targets in Lebanon
-
-*2024-07-28 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189583) · `ta`
-
-Israel responded to attacks on Kollan Hills by striking Hezbollah targets in Lebanon and South Lebanon, causing casualties including 12 children.
-
-🟩
-
-Israel said the attacks were carried out in response to the attacks on Kollan Hills.
-
-The Israeli Air Force has said that the Israeli Air Force aircraft have been attacked inside Leban and South Leban. The Israeli military said.
-
-Israeli said many people, including 12 children, were killed in an attack on Israel's occupation.
-
-◼️
-
-[Data](articles/d3232ea8.json)
-
-[Extended Data](ext_articles/d3232ea8.ext.json)
 
 ---

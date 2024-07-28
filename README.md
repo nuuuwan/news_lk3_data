@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 13:20:53**
+As of **2024-07-28 13:35:58**
 
 ## Newspaper Stats
 
-*Scraped **37,664** Articles*
+*Scraped **37,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,74 +15,114 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,427
+adalk | 3,428
 adaderanalk | 4,364
 tamilmirrorlk | 4,656
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,332
+adaderanasinhalalk | 6,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,661 (100.0%) of 37,664 articles have been extended.
+37,664 (100.0%) of 37,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### ජනාධිපතිවරණය වෙනුවෙන් රාජ්‍ය නිලධාරීන්ට විශේෂ චක්‍රලේඛයක්
+### ඩෙංගු අවදානම් කලාප මෙන්න
+
+*2024-07-28 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199295) · `si`
+
+මේ වසරේ ගත වූ කාල සීමාව තුළ ඩෙංගු මරණ 13ක් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.
+
+එම කාලය තුළ ඩෙංගු රෝගීන් 32,183 දෙනෙකු වාර්තා වී ඇති බව ඔවුන් පෙන්වාදෙයි.
+
+ඉන් වැඩිම රෝගීන් සංඛ්‍යාවක් බස්නාහිර පළාතෙන් වාර්තා වී ඇති අතර එම සංඛ්‍යාව 12,786ක් බව සඳහන්ය.
+
+කොළඹ දිස්ත්‍රික්කයෙන් පමණක් ඩෙංගු රෝගීන් 7,585 දෙනෙකු හඳුනාගෙන ඇති අතර ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 3,452 දෙනෙකු හඳුනාගෙන තිබේ.
+
+උතුරු පළාතෙන් රෝගීන් 4,589 දෙනෙකු වාර්තා වී ඇති අතර යාපනය දිස්ත්‍රික්කයෙන් පමණක් රෝගීන් 4,020 දෙනෙකු හඳුනාගෙන ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේය.
+
+සබරගමුව පළාතෙන් ද මේ වසරේ ගත වූ කාලය තුළ ඩෙංගු රෝගීන් 3,329 දෙනෙකු වාර්තා වී තිබේ.
+
+◼️
+
+[Data](articles/6114f49c.json)
+
+---
+
+### Special circular for public officers on behalf of the presidential election
 
 *2024-07-28 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199294) · `si`
 
-ජනාධිපතිවරණය පැවැත්වෙන කාලසීමාව තුළ රාජ්‍ය නිලධාරීන් සහ ආයතන කටයුතු කළ යුතු ආකාරය සම්බන්ධයෙන් විශේෂ චක්‍රලේඛයක් නිකුත් කිරීමට මැතිවරණ කොමිෂන් සභාව තීරණය කර තිබේ.
+The Elections Commission is issuing a special circular guiding public officers and institutions on conduct during the upcoming presidential election. The circular, signed by all commission members, outlines actions government officials must take. It will soon be released, detailing expectations for officers in government institutions throughout the election period.
 
-ඉදිරි දින කිහිපය තුළ එම චක්‍රලේඛය නිකුත් කරන බව මැතිවරණ ‍කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා සඳහන් කළේය.
+🟩
 
-මැතිවරණය පැවැත්වෙන කාලසීමාවේ දී රාජ්‍ය නිලධාරීන් කටයුතු කළ යුතු ආකාරය සහ ආයතනවල කටයුතු පවත්වාගෙන යායුතු ආකාරය පිළිබඳව උපදෙස් එම චක්‍රලේඛයෙන් දැනුම්දීමට නියමිතය.
+The Elections Commission has decided to issue a special circular on how public officers and institutions should be carried out during the period of time for the presidential election.
 
-අදාළ චක්‍රලේඛය මේ වනවිට සකස් කෙරෙමින් පවතින බවත් මැතිවරණ කොමිෂන් සභාවේ සියලු සාමාජිකයින්ගේ අත්සනින් යුතුව එය ගැසට් මගින් ප්‍රකාශයට පත් කිරීමට කටයුතු කරන බවත් සභාපතිවරයා සඳහන් කළේය.
+Elections Commission Chairman of the Election Commission (Elections Commission). Mr. Ratnayake said.
 
-මැතිවරණ කාලසීමාව තුළ රාජ්‍ය ආයතනවල නිලධාරීන්ට සඳහා අවශ්‍ය නියෝග සහ උපමාන ද එම චක්‍රලේඛය මගින් ප්‍රකාශයට පත්කිරීමට නියමිතය.
+The circular is to be instructed by the government officials and the government officials should take action and action should be done in the period.
 
-ඊට අමතරව මාධ්‍ය ආයතන ද ජනාධිපතිවරණ කාලසීමාව තුළ කටයුතු කළ යුතු ආකාරය පිළිබඳවද එම චක්‍රලේඛයෙන් දැනුම්දෙන බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පැවසීය.
+The circular is currently being prepared and is being published with the signature of all members of the Elections Commission.
+
+The circular is scheduled to be announced by the officers and criteria for officers of government institutions during the period period.
+
+Meanwhile, Chairman of Elections. Mr. Ratnayake said.
 
 ◼️
 
 [Data](articles/2dba416b.json)
 
+[Extended Data](ext_articles/2dba416b.ext.json)
+
 ---
 
-### சிறுவர் பாலியல் துஷ்பிரயோகம் ;  கொழும்பில் அதிகம்
+### Child sexual abuse;More in Colombo
 
 *2024-07-28 12:52:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-பாலியல்-துஷ்பிரயோகம்-கொழும்பில்-அதிகம்/175-341152) · `ta`
 
-இந்த வருடம் ஜனவரி மாதம் முதல் ஜூன் மாதம் வரையான ஆறு மாத காலப்பகுதிக்குள் சிறுவர் பாலியல் துஷ்பிரயோகங்கள் தொடர்பில் 290 முறைப்பாடுகள் கிடைத்துள்ளதாக சிறுவர் பாதுகாப்பு அதிகார சபையின் தலைவர் உதய குமார அமரசிங்க தெரிவித்தார்.
+In the first half of 2023, Sri Lanka's Child Protection Authority received 290 complaints of child sexual abuse, with Colombo being the area with the highest number of reports.
 
-மாதாந்தம் இவ்வாறான பல முறைப்பாடுகள் கிடைக்கப்பெறுவதுடன், அதிகளவான முறைப்பாடுகள் கொழும்பு மாவட்டத்தில் இருந்தும் , இரண்டாவது அதிகளவான முறைப்பாடுகள் கம்பஹாவிலிருந்தும் , மூன்றாவது அதிகளவான முறைப்பாடுகள் குருநாகலிலிருந்தும் பெறப்படுவதாக அவர் மேலும் தெரிவித்தார்.
+🟩
 
-அண்மையில், இரண்டு குழந்தைகளின் தந்தை ஒருவர் தனது மகளை பாலியல் வன்கொடுமை செய்யப்பட்ட சம்பவம் தொடர்பில் விசாரித்த போதே  அவர் இதனை குறிப்பிட்டார்.
+The Chairman of the Child Protection Authority, Udaya Kumara Amarasinghe, said 290 complaints were received regarding child sexual abuse within six months from January to June this year.
+
+He added that many complaints have been received monthly and that more complaints are received from the Colombo district, the second most complaints are from Gampaha and the third.
+
+Recently, a father of two children inquired about the rape of his daughter.
 
 ◼️
 
 [Data](articles/915a0cea.json)
 
+[Extended Data](ext_articles/915a0cea.ext.json)
+
 ---
 
-### கட்டுநாயக்கவில் நால்வர் கைது
+### Four arrested in Katunayake
 
 *2024-07-28 12:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-நால்வர்-கைது/175-341151) · `ta`
 
-வெளிநாட்டிலிருந்து நாட்டிற்கு சட்டவிரோதமான முறையில் 1 கோடியே 37 இலட்சத்து 765 ரூபா பெறுமதியான 461 சிகரெட்டுகளுடன் பிரவேசிக்க முயன்ற வெளிநாட்டு பெண் உட்பட நால்வர் கட்டுநாயக்க  விமான நிலைய சுங்க அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
+Four individuals, including a foreign woman and three locals, were arrested at Katunayake airport for attempting to smuggle cigarettes worth over Rs 1 crore. The group included a Chinese woman, a man from Panadura, a driver from Dubai, and a woman from a Colombo club, all caught with varying amounts of contraband cigarettes.
 
-இதன்போது கைது செய்யப்பட்வர்களில், 37 வயதுடைய சீனப் பெண் ஒருவர் மலேசியாவின் கோலாலம்பூரில் இருந்து சனிக்கிழமை (27) நள்ளிரவு 12.00 மணியளவில் MH-179 விமானத்தில் கட்டுநாயக்க விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளதோடு, பாணந்துறை பிரதேசத்தில் வசிக்கும் 34 வயதுடைய நபரும் மத்துகம பிரதேசத்தில் வசிக்கும் 38 வயதுடைய சாரதி ஒருவரும் டுபாயிலிருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-226 மூலம் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்போது கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-மேலும், கொழும்பில் கிளப் ஒன்றில் பணிபுரியும் பெண்ணொருவரும்  வெளிநாட்டில் தயாரிக்கப்பட்ட 29,200 சிகரெட்டுகள் அடங்கிய 146 அட்டைப்பெட்டி சிகரெட்டுகளை தனது பயணப் பையில் மறைத்து வைத்திருந்த போது சுங்க அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+Customs officers have been arrested by four people, including a foreign woman who tried to enter the country illegally with 461 cigarettes worth Rs 1 crore 37 lakhs 765 rupees.
+
+Among the arrested, a 37-year-old Chinese woman was arrested at the Katunayake airport on Saturday (27) midnight from Kuala Lumpur, Malaysia, and a 34-year-old man from Panadura and a 38-year-old driver from Dubai El-26 from Tubai El-26.They have been arrested when they arrive at the Katunayake airport.
+
+In addition, a woman working at a club in Colombo has been arrested by customs officials while hiding 146 carton cigarettes of 29,200 cigarettes abroad.
 
 ◼️
 
 [Data](articles/a8f42e49.json)
+
+[Extended Data](ext_articles/a8f42e49.ext.json)
 
 ---
 
@@ -873,6 +913,22 @@ He said that the statement made by former President Maithripala Sirisena was pre
 [Data](articles/40bfdd7e.json)
 
 [Extended Data](ext_articles/40bfdd7e.ext.json)
+
+---
+
+### රු. 1000ක අල්ලසක් ගන්න ගිය ත්‍රිරෝද රියදුරුට වැඩ වරදියි
+
+*2024-07-28 09:04:23* · [`adalk`](https://www.ada.lk/breaking_news/රු--1000ක-අල්ලසක්-ගන්න-ගිය-ත්‍රිරෝද-රියදුරුට-වැඩ-වරදියි/11-411036) · `si`
+
+කුරුඳුවත්ත පොලිසියේ රථ වාහන අංශයේ පොලිස් කොස්තාපල්වරයෙකුට රුපියල් 1000/= අල්ලස් මුදලක් ලබාදීමට තැත් කිරීම සම්බන්ධයෙන් ත්‍රිරෝද රථ රියදුරෙකු අත්අඩංගුවට ගත් බව කුරුඳුවත්ත පොලිසිය කියයි.
+
+කුරුඳුවත්ත  බෞද්ධාලෝක මාවතේ රථවාහන රාජකාරී යෙදී සිටියදී ත්‍රී රෝද රථයක් නවතා රථ වාහන වරදක් සම්බන්ධයෙන් නඩුවක් ලබා ගැනීමට යාමේදී දඩපත්‍රයක් නිකුත් නොකරන ලෙසට පවසා රුපියල් 1000/= අල්ලස් මුදලක් ලබාදීමට තැත් කිරීම සම්බන්ධයෙන් රියැදුරු අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් රියදුරු වලස් මුල්ල ප්‍රදේශයේ පදිංචි තිස් 38  හැවිරිදි  පුද්ගලයෙකි. සැකකරු වැඩිදුර විමර්ශන සඳහා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂම වෙත භාරදීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/cc2780b5.json)
 
 ---
 
@@ -2239,47 +2295,5 @@ Accordingly, they decided to invite the Indian team to bat first.
 [Data](articles/e74d888b.json)
 
 [Extended Data](ext_articles/e74d888b.ext.json)
-
----
-
-### “If Presidential Candidates are serious about their promises to eradicate corruption, will they be willing to face tough questions on these issues at a public forum we are prepared to host?-ITAK MPs Sumanthiran and Shanakiyan
-
-*2024-07-27 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84449) · `en`
-
-(Texr of Media Release  Issued by Jaffna District Parliamentarian M.A. Sumanthiran and Batticaloa District MP Shanakiyan  Rasamanickam n 26 July 2024)
-
-The country is at cross-roads at the moment; A crucial pivotal point in our post-independence history. We were an economy with a surplus and an example for other to follow; even a model for Singapore’s Lee Kuan Yew.
-
-We could afford to deliver free education up to tertiary level and free health services to all citizen, which is unmatched anywhere in the world.  From such a lofty and healthy position, we have fallen into deep debt and have declared ourselves officially bankrupt.
-
-We have also fought a civil war for three decades and are still struggling to recover from its after-effects and achieve meaningful reconciliation. Corruption levels are one of the worst in the whole world that has pulled us down further.
-
-...
-
-[Data](articles/1f9a0121.json)
-
-[Extended Data](ext_articles/1f9a0121.ext.json)
-
----
-
-### Government of Sri Lanka's Lawyers Association denies the Supreme Court's verdict on the issue of police chief
-
-*2024-07-27 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189547) · `ta`
-
-The Sri Lanka Bar Association disputes the Supreme Court's authority over government appointments, asserting that the Constitutional Council's decisions align with the Supreme Court's fundamental rights. The association emphasizes the clarity of presidential powers post the 19th Amendment as grounds for the Supreme Court's annulment of the former president's amnesty.
-
-🟩
-
-The Sri Lanka Bar Association has said that the government's appointments cannot be questioned by the Supreme Court's appointments with the approval of the Constitutional Council.
-
-The decisions of the Constitutional Council are clearly complied with the fundamental rights of the Supreme Court, the Sri Lanka Attorney's Association said that the powers of the president after the 19th Amendment were clear.
-
-It was on this basis that the Supreme Court canceled the amnesty of the President's former President.
-
-◼️
-
-[Data](articles/1a91b51c.json)
-
-[Extended Data](ext_articles/1a91b51c.ext.json)
 
 ---

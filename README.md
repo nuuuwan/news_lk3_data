@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 01:35:56**
+As of **2024-07-29 01:54:46**
 
 ## Newspaper Stats
 
-*Scraped **37,748** Articles*
+*Scraped **37,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,262
-dailyftlk | 2,405
+dailyftlk | 2,409
 adalk | 3,441
 adaderanalk | 4,373
 tamilmirrorlk | 4,662
@@ -26,11 +26,73 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,748 (100.0%) of 37,748 articles have been extended.
+37,748 (100.0%) of 37,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### Principles and proposals for political and constitutional reform for democracy: Part II
+
+*2024-07-29 01:36:40* · [`dailyftlk`](https://www.ft.lk/opinion/Principles-and-proposals-for-political-and-constitutional-reform-for-democracy-Part-II/14-764838) · `en`
+
+A Grama Sabha would be established for each local government ward to empower the people through participation
+
+The Constitution shall recognise the local government as the third tier with its list of subjects and responsibilities. Local authorities would have the powers and be provided with resources to initiate and implement development programs. Additionally, local authorities should be constitutionally recognised as an implementing agency about specified functions in specified laws of the Centre and statutes of Provincial Councils such as environmental, coast conservation, social welfare programs and pre-schools
+
+Devolution of power deepens democracy by bringing government closer to the people. The Constitution should promote local democracy based on power-sharing, subsidiarity, and citizens’ participation.
+
+...
+
+[Data](articles/e14e6fa8.json)
+
+---
+
+### Green innovations for sustainability
+
+*2024-07-29 01:24:44* · [`dailyftlk`](https://www.ft.lk/columns/Green-innovations-for-sustainability/4-764835) · `en`
+
+With a vision for a cleaner and greener future, our youth entrepreneurs should take the lead in pioneering the adoption of eco-friendly technologies, renewable energy integration, and waste reduction strategies
+
+We are living in an era where nature pleadingly seeks human support for its survival and sustainability. Even though it is truly disheartening to see how actions caused by humans have paved the way toward the degradation of nature over the years, it is at least relieving to see that the world has now started to understand the gravity of this major problem. Since the spillover effects of these sustainability issues tend to pose a greater threat to the present as well as future generations, it is high time that the present youth understand the importance of being active as well as proactive in tackling this issue strategically.
+
+...
+
+[Data](articles/9264a55f.json)
+
+---
+
+### Amal Sanderatne: An appreciation
+
+*2024-07-29 01:21:40* · [`dailyftlk`](https://www.ft.lk/opinion/Amal-Sanderatne-An-appreciation/14-764834) · `en`
+
+While he was brilliant in his studies, Amal was always one to experience things to explore, be exposed to different cultures and was in no way someone who enjoyed being buried with his books! But his intelligence and abilities ensured he got his undergraduate degree at LSE and returned to Sri Lanka whilst we in Colombo had barely completed our A’ Levels at Royal
+
+Amal leaves behind him a masterclass in humility, caring, devotion and passion
+
+23 July 2024 marked one year since my friend Amal’s untimely demise. For those who knew Amal, he was a deeply private person. Amal was not guarded with his privacy because he was necessarily shy or not social – he was just a very private person and what mattered to him was caring for the people he loved. He was a man content with the hand that life had dealt him and was never one to trumpet his own achievements.
+
+...
+
+[Data](articles/e418e21c.json)
+
+---
+
+### Child’s guide to debt and debt restructuring: Part IV
+
+*2024-07-29 00:56:41* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-debt-and-debt-restructuring-Part-IV/4-764832) · `en`
+
+In the case of bilateral credit, the overall debt level has not come down but only the payment terms have been eased
+
+What Sri Lanka has got is a relief on the annual cashflow till 2027 by way of a debt moratorium. But for Sri Lanka to get full relief, it is necessary for the country to get a fair amount of the principal loans as the debt forgiven by the creditors. This is known as a haircut. Considering the gap in the foreign exchange receipts and payments during 2022-27, IMF had anticipated a debt forgiveness of about $ 14 billion which amounted to about 51% of the total debt to be restructured. Hence, Sri Lanka should get a haircut of about 51% if it is to resolve its foreign debt problem permanently
+
+Aseni and Sarath Mahatthaya have been continuing their interactive conversation on Sri Lanka’s debt and the process involving the debt restructuring to facilitate the country to get into debt sustainability, a requirement under the ongoing Extended Fund Facility or EFF from IMF.
+
+...
+
+[Data](articles/47284dfe.json)
+
+---
 
 ### India won the series in the 2nd match of the Duckworth Lewis system
 
@@ -2267,87 +2329,5 @@ Anuradhapura headquarters police OIC Chief Inspector Inspector R. M. OIC of the 
 [Data](articles/7953f09b.json)
 
 [Extended Data](ext_articles/7953f09b.ext.json)
-
----
-
-### RDA Chairman resigns citing ‘excessive interference’
-
-*2024-07-28 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100829/rda-chairman-resigns-citing-excessive-interference-) · `en`
-
-The Chairman of the Road Development Authority (RDA), C.P. Athaluwage has resigned from his position citing ‘excessive interference’ from the Ministry as the primary reason for his decision.
-
-He stated that the letter of resignation had been directed to the President’s Secretary and he had further informed in this regard to Minister of Transport Bandula Gunawardena.
-
-In his resignation letter, Athaluwage emphasized that persistent interference from the Secretary of the Ministry of Transport and Highways had significantly impacted the RDA’s administrative activities.
-
-Athaluwage noted in his resignation letter that such interference had been a recurring issue, with direct influence being exerted on the RDA’s operations. He highlighted that, over the past four and a half years, he had worked transparently with the approval of the Board of Directors, maintaining the RDA’s reputation and striving for the betterment of its employees.
-
-...
-
-[Data](articles/c1b6b218.json)
-
-[Extended Data](ext_articles/c1b6b218.ext.json)
-
----
-
-### Strategy of America
-
-*2024-07-28 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189580) · `ta`
-
-Sri Lanka's decision to lift the ban on foreign inspection ships has sparked diplomatic tensions, particularly with India, which expressed disappointment. Meanwhile, the US and Japan are focusing on enhancing security in the Indian Ocean, indicating a shift in strategic interests in the region.
-
-🟩
-
-By removing the ban on foreign inspection ships, Sri Lanka seeks to prove that claim to be true. This decision of the Sri Lankan government has disappointed India's dissatisfaction. It is also said that India is diplomatically exchanging dissatisfaction with the decision of the Sri Lankan government to remove the ban on foreign inspection ships next year.. The United States, along with Japan, is setting another strategy on the security of the Indian Ocean.
-
-◼️
-
-[Data](articles/cf13420f.json)
-
-[Extended Data](ext_articles/cf13420f.ext.json)
-
----
-
-### Israel says Hezbollah rocket kills 12 at football ground, vows response
-
-*2024-07-28 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100828/israel-says-hezbollah-rocket-kills-12-at-football-ground-vows-response) · `en`
-
-A rocket attack on a football ground in the Israeli-occupied Golan Heights killed 12 people including children on Saturday, Israeli authorities said, blaming Hezbollah and vowing to inflict a heavy price on the Iran-backed Lebanese group.
-
-Hezbollah denied any responsibility for the strike, the deadliest in Israel or Israeli-annexed territory since the start of the conflict in Gaza.
-
-The attack sharply escalated tensions in the hostilities which have been fought in parallel to the Gaza war and has raised fears of a full-blown conflict between the heavily armed adversaries.
-
-The rocket struck a football pitch in the Druze village of Majdal Shams in the Israeli-occupied Golan Heights, territory captured from Syria by Israel in the 1967 Middle East war and annexed in a move not recognised by most countries.
-
-...
-
-[Data](articles/b74dfe3b.json)
-
-[Extended Data](ext_articles/b74dfe3b.ext.json)
-
----
-
-### The President's actions on the verdict of the Supreme Court undermine the devolution of power and equality- Hostess General
-
-*2024-07-28 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/189581) · `ta`
-
-The Hostess General criticized the President's actions regarding the Supreme Court's interim order, arguing it undermines power sharing and threatens democracy. They emphasized the importance of constitutional checks and balances to prevent power accumulation and ensure accountability and equality. Citizens were urged to support practices that enhance power distribution and prevent its concentration.
-
-🟩
-
-The Hossess General said that the President's latest actions on the recent interim order issued by the Supreme Court would undermine power sharing and devolution of power and threaten the democratic policies of our country.
-
-The Sri Lankan government is a lawyer and judicial department. The Constitution outlines the responsibilities and obligations of each sector to prevent these authorities from accumulating in a single person or individual.
-
-In addition, the mechanisms for the establishment of accountability through devolution and power equality among those who use power and implemented power within the regime structure.
-
-In any case, Mr.. The President's latest actions on the recent interim order issued by the Supreme Court on the appointment of the Patriotic Southern Tennakonai as the Inspector General of Police are undergoing power sharing and equality of power and threatening our country's democratic policies.
-
-...
-
-[Data](articles/73600827.json)
-
-[Extended Data](ext_articles/73600827.ext.json)
 
 ---

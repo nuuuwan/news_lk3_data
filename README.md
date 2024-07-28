@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 22:36:23**
+As of **2024-07-28 22:53:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,737 (100.0%) of 37,738 articles have been extended.
+37,738 (100.0%) of 37,738 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -39,6 +39,8 @@ Extensions include translations and NER (Named Entity Recognition).
 President Ranil Wickremesinghe has congratulated skipper Chamari Atapattu and the Sri Lanka Women’s Cricket Team on winning the 2024 Asia Cup final on Sunday.
 
 “Your unbeaten run is a testament to your talent, dedication and teamwork. You have made our nation proud!”, said President Ranil Wickremesinghe.
+
+Sri Lanka women won their first-ever Women’s Asia Cup title as they beat seven-time champions India by 8 wickets in the final on Sunday.
 
 ◼️
 
@@ -274,19 +276,27 @@ Your skill, dedicated and joint operation for your failure. The President has st
 
 ---
 
-### රාජ්‍ය ආයතන 13කින් කෝටි 88ක බදු පොල්ලක්
+### 88 million of 13 crores in 13 government institutions
 
 *2024-07-28 19:54:06* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආයතන-13කින්-කෝටි-88ක-බදු-පොල්ලක්/11-411053) · `si`
 
-එකතු කරන ලද අගය මත බදු (වැට්) ලෙස  රාජ්‍ය ආයතන 13කින් පසුගිය පස්වසරේදී 2019 ජනවාරි 01වන දින සිට 2023 දෙසැම්බර් 31 දක්වා කාලසීමාව තුළ දේශීය ආදායම් දෙපාර්තමේන්තුවට රුපියල් අසූඅට කෝටි තිස් ලක්ෂයකට අධික මුදලක් අදාළ සැපයුම්කරුවන් 28දෙනෙකු විසින් දේශීය ආදායම් දෙපාර්තමේන්තුවට ගෙවා නොමැති බව විගණනය මගින් අනාවරණය කොට ඇත.
+An audit found the Inland Revenue Department owed Rs. 6,920 crore by May 2023, with 2,459 cases pending due to disputes. The department could recover Rs. 26 crore in fines but faced issues like suspensions. The Auditor General suggested introducing a system to prevent unpaid taxes to suppliers.
 
-2023 මැයි මාසය අවසානය වන විට වැට් බදු නොගෙවීමට අදාළව දේශීය ආදායම් දෙපාර්තමේන්තුවට ලැබී තිබූ අභියාචනාවලින් නොවිසඳී පවතින සංඛ්‍යාව 6,920ක් වන අතර, මතභේදකාරී තත්ත්වයන් හේතුවෙන් විසඳීම අවසන් කර නොතිබුණු අභියාචනා සංඛ්‍යාව 4,499කි.
+🟩
 
-ඒ අතර වසර 02 ඉක්ම වූ නමුත් දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයා සිය තීරණය ලබා දීමට අපොහොසත් වූ අභියාචනා සංඛ්‍යාව 2,459ක්ව පවතී. මේ බව අනාවරණය වූයේ ජාතික විගණන කාර්යාලය මගින් දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් සිදු කරන ලද විගණන පරික්ෂණයක් මගින්ය.
+The Audit has revealed that the Inland Revenue Department has not paid more than Rs.has.
+
+By the end of May 2023, the Department of Inland Revenue was 6,920, which had been unresolved in the internal revenue department, which had received unresolved due to disputes.
+
+In the meantime, the Commissioner General General of Inland Revenue was unable to give his decision, 2,459. This was revealed by a audit conducted by the Department of Inland Revenue Office by the National Audit Office.
+
+Deficit deficit, which has been identified can be recovered can be recovered, and the audit inspection has been revealed that the fines were Rs. 26 crores.. The scarcity of suspension has been suspended for various reasons.
 
 ...
 
 [Data](articles/65de065d.json)
+
+[Extended Data](ext_articles/65de065d.ext.json)
 
 ---
 

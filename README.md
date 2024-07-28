@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 11:20:52**
+As of **2024-07-28 11:36:01**
 
 ## Newspaper Stats
 
-*Scraped **37,639** Articles*
+*Scraped **37,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,259
 dailyftlk | 2,405
-adalk | 3,422
-adaderanalk | 4,360
+adalk | 3,424
+adaderanalk | 4,362
 tamilmirrorlk | 4,652
 dailymirrorlk | 4,733
 virakesarilk | 5,909
@@ -26,27 +26,87 @@ adaderanasinhalalk | 6,330
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,637 (100.0%) of 37,639 articles have been extended.
+37,639 (100.0%) of 37,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### யாருக்கு ஆதரவு: அறிவித்தார் மஹிந்த
+### ආගමික උත්සව වලට ගොස් රන්මාල කොල්ල කන කාන්තා කල්ලියක සාමාජිකාවන් දෙදෙනෙකු අත්අඩංගුවට
+
+*2024-07-28 11:16:54* · [`adalk`](https://www.ada.lk/breaking_news/ආගමික-උත්සව-වලට-ගොස්-රන්මාල-කොල්ල-කන-කාන්තා-කල්ලියක-සාමාජිකාවන්-දෙදෙනෙකු-අත්අඩංගුවට/11-411037) · `si`
+
+දිවයිනේ විවිධ ආගමික උත්සව පැවැත්වෙන ස්ථාන වලට ගොස්, කාන්තාවන්ගේ රන්මාල කොල්ල කෑමේ නිරත  සංවිධානාත්මක කාන්තා අපරාධ කල්ලියක සාමාජිකාවන්  දෙදෙනෙකු ඊයේ(27දා) හෙරොයින් මත්කුඩු සහ රන් මාලයක් සමග  අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+
+පිච්ච මල් පූජාව පැවති ඊයේ 27 වන දා, අනුරාධපුර රුවන්වැලි සෑ පුද බිම ආසන්නයට පැමිණ ඇති මෙම කොල්ල  කල්ලියේ සාමාජිකාවන් කිප දෙනෙකු සැක කටයුතු ලෙස හැසිරීම හේතුවෙන් පරීක්ෂාවට ලක් කිරීමේදී මෙම රන්මාලය සහ හෙරොයින් හමුවූ බව පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකාරියන් දෙදෙනා වයස අවුරුදු 43 සහ 27 හැවිරිදි ත්‍රීකුණාමලය ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනකු බව පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකාරියන් සන්තකයේ තිබී කොල්ල කන ලද රන්මාලයක් හෙරොයින් මිලිග්‍රෑම් 3000ක් සහ මිලිග්‍රෑම් 2600ක් තිබී හමුවූ  බවත් එම රන්මාලය මීට දින තුනකට පෙර බස් රථයකදී කොල්ල කෑ රන්මාලයක් බව එක් සැකකාරියකගෙන් සිදු කළ ප්‍රශ්න කිරීමටදී අනාවරණය වූ බව  පොලිසිය කියයි.
+
+...
+
+[Data](articles/7953f09b.json)
+
+---
+
+### RDA Chairman resigns citing ‘excessive interference’
+
+*2024-07-28 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100829/rda-chairman-resigns-citing-excessive-interference-) · `en`
+
+The Chairman of the Road Development Authority (RDA), C.P. Athaluwage has resigned from his position citing ‘excessive interference’ from the Ministry as the primary reason for his decision.
+
+He stated that the letter of resignation had been directed to the President’s Secretary and he had further informed in this regard to Minister of Transport Bandula Gunawardena.
+
+In his resignation letter, Athaluwage emphasized that persistent interference from the Secretary of the Ministry of Transport and Highways had significantly impacted the RDA’s administrative activities.
+
+Athaluwage noted in his resignation letter that such interference had been a recurring issue, with direct influence being exerted on the RDA’s operations. He highlighted that, over the past four and a half years, he had worked transparently with the approval of the Board of Directors, maintaining the RDA’s reputation and striving for the betterment of its employees.
+
+...
+
+[Data](articles/c1b6b218.json)
+
+---
+
+### Israel says Hezbollah rocket kills 12 at football ground, vows response
+
+*2024-07-28 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100828/israel-says-hezbollah-rocket-kills-12-at-football-ground-vows-response) · `en`
+
+A rocket attack on a football ground in the Israeli-occupied Golan Heights killed 12 people including children on Saturday, Israeli authorities said, blaming Hezbollah and vowing to inflict a heavy price on the Iran-backed Lebanese group.
+
+Hezbollah denied any responsibility for the strike, the deadliest in Israel or Israeli-annexed territory since the start of the conflict in Gaza.
+
+The attack sharply escalated tensions in the hostilities which have been fought in parallel to the Gaza war and has raised fears of a full-blown conflict between the heavily armed adversaries.
+
+The rocket struck a football pitch in the Druze village of Majdal Shams in the Israeli-occupied Golan Heights, territory captured from Syria by Israel in the 1967 Middle East war and annexed in a move not recognised by most countries.
+
+...
+
+[Data](articles/b74dfe3b.json)
+
+---
+
+### To whom support: Mahinda
 
 *2024-07-28 11:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-ஆதரவு-அறிவித்தார்-மஹிந்த/175-341144) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுன ஆதரிக்கும் வேட்பாளர் யார் என்பது தொடர்பில் திங்கட்கிழமை (29) அறிவிக்கப்படும் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+Mahinda Rajapakse plans to announce support for the Sri Lankan PA's presidential candidate on Monday. He assures full backing for any chosen candidate, including Ranil Wickremesinghe, and acknowledges individual MP decisions based on personal opinions won't hinder party unity.
 
-ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க கட்சி தீர்மானித்தால், அதியுச்ச ஆதரவு அளிக்கும் என்றும் அவர் குறிப்பிடுகிறார்.
+🟩
 
-வேறு வேட்பாளரை நியமிக்க கட்சி முடிவு செய்தால், அதற்கும் ஆதரவு அளிக்கும் என்றார்.
+Former President Mahinda Rajapakse has said that he will be announced on Monday (29) on who will support the Sri Lankan PA in the upcoming presidential election.
 
-கட்சியின் சில எம்.பி.க்கள் தங்களது தனிப்பட்ட கருத்தின் அடிப்படையில் வேட்பாளர்களுக்கு ஆதரவளிக்க முடிவு செய்துள்ளதாகவும்,   அவர்கள் விரும்பியதைச் செய்வதற்கான சுதந்திரம் வழங்கப்பட்ட பின்னர் அது ஒரு பிரச்சினையாக இருக்காது என்றும் அவர் மேலும் கூறினார்.
+He also notes that if the party decides to support Ranil Wickremesinghe, it will be very supportive.
+
+He said that if the party decides to appoint a different candidate, it will support it.
+
+He added that some MPs of the party have decided to support the candidates on the basis of their personal opinion and that it will not be an issue after it was given the freedom to do what they wanted.
 
 ◼️
 
 [Data](articles/5085c645.json)
+
+[Extended Data](ext_articles/5085c645.ext.json)
 
 ---
 
@@ -116,19 +176,25 @@ Deepti is the leading wicket-taker of this event with nine wickets and Renuka is
 
 ---
 
-### சுமந்திரனின் வாகனம் விபத்தில் சிக்கியது
+### Sumanthiran's vehicle crashed
 
 *2024-07-28 10:37:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சுமந்திரனின்-வாகனம்-விபத்தில்-சிக்கியது/72-341140) · `ta`
 
-பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் பயணித்த வாகனம் சனிக்கிழமை (27) மாலை மோட்டார் சைக்கிளுடன் மோதியதில் விபத்து ஏற்பட்டுள்ளதாக கிளிநொச்சி பொலிஸார் தெரிவித்தனர்.
+MP MA Sumanthiran's vehicle collided with a motorcycle near Kilinochchi, causing minor damage to its front.
 
-கொழும்பில் இருந்து யாழ்ப்பாணம் நோக்கி பயணித்த பாராளுமன்ற உறுப்பினரின் வாகனம், கிளிநொச்சி 155 கிலோ மீற்றர் தூண் பகுதியில் மோட்டார் சைக்கிளுடன்  மோதியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இந்த விபத்தில் யாருக்கும் காயம் ஏற்படாத நிலையில், எம்.பி.யின் வாகனத்தின் முன்பகுதி சிறிதளவு சேதமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர். R
+Kilinochchi police said that the vehicle he was traveling in by MP MA Sumanthiran collided with a motorcycle on Saturday evening.
+
+The vehicle of a parliamentarian traveling from Colombo to Jaffna has been hit by a motorcycle in Kilinochchi 155 kilometers.
+
+Police said that the front of the MP's vehicle was somewhat damaged in the accident.. Remble
 
 ◼️
 
 [Data](articles/b1f3100d.json)
+
+[Extended Data](ext_articles/b1f3100d.ext.json)
 
 ---
 
@@ -441,6 +507,28 @@ The deceased has been identified as 58-year-old woman who had been residents of 
 [Data](articles/43139940.json)
 
 [Extended Data](ext_articles/43139940.ext.json)
+
+---
+
+### ’’කොන්ද පණ නැහැ’’ කියූ කතාවට මිතුරා ඝාතනය කරයි
+
+*2024-07-28 08:45:26* · [`adalk`](https://www.ada.lk/breaking_news/’’කොන්ද-පණ-නැහැ’’-කියූ-කතාවට-මිතුරා-ඝාතනය-කරයි/11-411034) · `si`
+
+මිතුරන් සිව් දෙනකු අතර පැවැති මත්පැන් සාදයකදී "කොන්ද පණ නැහැ" යැයි කියූ කතාවක්  දුරදිග යාමෙන්  පරාළයකින් හිසට පහර දීමෙන් බරපතල තුවාල ලද පුද්ගලයකු  දින 6 කට පසු මිය ගිය බව  අගලවත්ත පොලිසිය කියයි.
+
+සිද්ධියෙන් මියගොස්  ඇත්තේ අගලවත්ත ගිරිකොල , ලන්දේවත්ත පදිංචිව සිටි ඩි කේ එම් සම්පත් (44) නමැති අයයි.
+
+ඝාතනය සම්බන්ධයෙන්  නිවෙස් හිමිකරු ඇතුළු තිදෙනකු පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇති අතර ඒ අතර විශ්‍රාමික නාවික හමුදා සෙබළුකු වන බව පොලිසිය කියයි.
+
+ඉකුත් 20 වෙනිදින  සැකකරුවන් හා මරණකරු මෙන්ම ප්‍රධාන සැකකරු වන 60 හැවිරිදි පුද්ගලයාගේ නිවසේ මත්පැන් පානය කරමින් සිටියදී  මෙම බහින්බස්වීම සිදුවී ඇතැයි පොලිසිය කියයි.
+
+60 හැවිරිදි  පුද්ගලයාගේ බිරිඳ ඔහුව අතහැර ගොස් සිටින අතර මරණකරු විසින්  මත්පැන් සාදය අතරතුරදී   "උඹගේ කොන්ද පණ නැති නිසා තමයි ගෑනි දාලා ගියේ" යනුවෙන් පැවසීමත් සමගම   සැකකරු ඔහුව තල්ලු කර ඇති අතර ඒ සමගම එම පුද්ගලයා  බිම වැටී ඇතැයි  පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+අතර ඒ සමගම ප්‍රධාන සැකකරු අසල තිබූ අඩි හතරක් පමණ දිගැති පරාල කැබැල්ලක් අතට ගෙන හිසට පහරක් එල්ල කර ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/3e310a08.json)
 
 ---
 
@@ -2153,93 +2241,5 @@ A unit of election campaign has already been launched at the police headquarters
 [Data](articles/705b157f.json)
 
 [Extended Data](ext_articles/705b157f.ext.json)
-
----
-
-### Divorce is cut off the pakistan-wise wife's feet
-
-*2024-07-27 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199263) · `si`
-
-A woman in Pakistan sought divorce due to sexual harassment, only to have her feet mutilated by her family members. This incident highlights the severe violence against women in Pakistani society, particularly in cases involving divorce.
-
-🟩
-
-It is reported from Pakistan who has filed a divorce to end her marriage unable to endure sexual harassment.
-
-Foreign media states that her father's father and uncles have been cut down in her feet.
-
-Foreign media states that violence is high to conquer women in Pakistani society.
-
-The woman who was involved in the incident had told the police that his violent husband was cut off their feet because of divorce.
-
-◼️
-
-[Data](articles/0fddaa39.json)
-
-[Extended Data](ext_articles/0fddaa39.ext.json)
-
----
-
-### Information about the new passport
-
-*2024-07-27 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/189508) · `ta`
-
-From Jan 1st, Sri Lankans can renew electronic passports safely. Registration starts July 16th via www.immigration.gov.lk. Pre-registration is mandatory; post-registration, priority issuance is possible.
-
-🟩
-
-The Department of Immigration and Emigration has announced that the Electronic passports have been safe and renewed for Sri Lankans from January 1st to January 1st.
-
-Electronic passports can be registered through the website www.immigration.gov.lk from July 16th.
-
-In addition, only the pre -registered passport applicants have been asked to visit the Department of Immigration and Emigration and the Regional Offices of the Department of Immigration and Emigration without a pre -registration.
-
-After registration, the department added that the opportunity to obtain a passport on a priority basis will be given.
-
-◼️
-
-[Data](articles/064c6fff.json)
-
-[Extended Data](ext_articles/064c6fff.ext.json)
-
----
-
-### IGP controversy: BASL reaffirms SC’s authority amid govt’s claims
-
-*2024-07-27 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/100815/igp-controversy-basl-reaffirms-scs-authority-amid-govts-claims) · `en`
-
-The Bar Association of Sri Lanka (BASL) has condemned the recent government actions aimed at undermining the Supreme Court’s interim order concerning the appointment of the Inspector General of Police (IGP) Deshabandu Tennakoon.
-
-Issuing a statement in this regard, the BASL emphasized the government’s claim that the Supreme Court does not have power to call into question appointments made by the President which are approved by the Constitutional Council is ‘totally untenable’ in view of the BASL.
-
-In its statement, the BASL highlighted: “The decisions of the Constitutional Council are clearly amenable to the Fundamental Rights Jurisdiction of the Supreme Court (as per Article 411 of the Constitution). It is equally clear that following the 19th Amendment to the Constitution, the exercise of powers by the President, except his power to declare war and peace, are subject to the Fundamental Rights Jurisdiction of the Supreme Court (as per Article 35 of the Constitution).”
-
-...
-
-[Data](articles/adf59757.json)
-
-[Extended Data](ext_articles/adf59757.ext.json)
-
----
-
-### The opportunity to vote at another polling station
-
-*2024-07-27 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199262) · `si`
-
-Eligible voters can vote at any polling station, not just their assigned one, due to the flexibility offered by the Elections Commission during the current presidential election. However, this option is only available if the voter cannot attend their designated polling station. Applications for this arrangement must be submitted to the Elections Commission by next month.
-
-🟩
-
-The Elections Commission says that the current presidential election is capable of voting at a polling station, other than their own center.
-
-The Commission emphasized that the Commission emphasized that eligible voters could not go to an alternative polling station if they were unable to vote.
-
-Applicants who are applying for this should be forwarded to the Elections Commission on or before next month
-
-◼️
-
-[Data](articles/d3fec150.json)
-
-[Extended Data](ext_articles/d3fec150.ext.json)
 
 ---

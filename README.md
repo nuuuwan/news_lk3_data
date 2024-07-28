@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 20:05:38**
+As of **2024-07-28 20:20:27**
 
 ## Newspaper Stats
 
-*Scraped **37,718** Articles*
+*Scraped **37,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,435
+adalk | 3,436
 adaderanalk | 4,371
 tamilmirrorlk | 4,661
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,718 (100.0%) of 37,718 articles have been extended.
+37,718 (100.0%) of 37,719 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -293,6 +293,24 @@ Atapattu scored 61 off 43 balls with 61 balls in 43 balls. Hersha Samarawickra s
 [Data](articles/9f4d7c80.json)
 
 [Extended Data](ext_articles/9f4d7c80.ext.json)
+
+---
+
+### පුවක් ගෙඩියක මිල රුපියල් 20ත් 25 අතරට  යයි
+
+*2024-07-28 18:10:25* · [`adalk`](https://www.ada.lk/breaking_news/පුවක්-ගෙඩියක-මිල-රුපියල්-20ත්-25-අතරට--යයි/11-411046) · `si`
+
+පුවක් ගෙඩියක් රුපියල් 20-25 ත් අතර දක්වා මිල ඉහළ ගොස් ඇතැයි වෙළෙන්දෝ පවසති. ජුලි මස පළමු සතිය වන විට පුවක් ගෙඩියක මිල රුපියල් 8ත් 10 අතර තිබු අතර,ජුලි අවසන් සතිය වන විට පුවක් ගෙඩියක මිල රුපියල් 20 ත් 25 දක්වා මිල ඉහළ ගොස් ඇති බවද වෙළෙන්දන් පවසති.
+
+මේ අතර හබරාදුව නගරයේ වෙළෙදසැලවල පුවක් ගෙඩියක මිල රුපියල් 20ත් 23 අතර, අළෙවී වන බව ද අප කළ සොයා බැලීමේ අනාවරණය විය.
+
+එම වෙළෙදුන් සදහන් කලේ මේ දිනවල වෙළෙදපොලට ලැබේන පුවක් අස්වැන්න අඩු බවයි.එමෙන්ම බද්දේගම,අක්මීමණ,ගාල්ල ප්‍ර දේශවලද මේ දිනවල පුවක් ගෙඩියක් අළෙවි වෙන්නේ රුපියල් 20ක් ඉහළ මිලකට බවද වෙළෙදුන් සදහන් කරති.
+
+වෙළෙදපොලට ලැබෙන පුවක් අස්වැන්න අඩුවීම හේතුවෙන් ඉදිරි මාසය වන විට පුවක් මිල තව දුරටත් ඉහළ යා හැකි බවද වෙළෙදුන් සදහන් කරති.රුපියල් 50 ත් 60 ත් අතර, මිලකට අළෙවී වු බුලත්විඩ මිල ද,රුපියල් 10-20 අතර මුදලකින් මිල ඉහළ දමා තිබේ.ඒ අනුව බුලත්විඩ අළෙවිවන්නේ රුපියල් 70ත් 80 අතර මිල ගණන්වලට බවද වෙළෙදුන් සදහන් කරති.
+
+◼️
+
+[Data](articles/b0be4d88.json)
 
 ---
 
@@ -2337,29 +2355,5 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 [Data](articles/e6ca007f.json)
 
 [Extended Data](ext_articles/e6ca007f.ext.json)
-
----
-
-### Sri Lanka lifts nationalist import controls on key cereals which were kept amid malnutrition
-
-*2024-07-28 08:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-lifts-nationalist-import-controls-on-key-cereals-which-were-kept-amid-malnutrition-174102/) · `en`
-
-ECONOMYNEXT – Sri Lanka has lifted import controls on several cereal grains, which were maintained despite a rise in malnutrition and poverty from a currency collapse triggered by aggressive macro-economic policy.
-
-Sri Lanka originally slapped import control on 3,500 items including after the central bank and Treasury economists cut rates and printed vast volumes of money to target potential output, through printing money for growth was not a legal aim of the central bank.
-
-In a new monetary law printing money for growth has been legalized critics say.
-
-Among grains on which import controls were lifted include, black gram and other protein rich cereals including green bean and soya.
-
-Sri Lanka still controls the import of maize on economic nationalist grounds (autarky), which has contributed to reduce protein malnutrition in both rich and poor countries.
-
-Maize is allowed to be imported for Triposha, a supplement given to prevent malnutrition particular of children of poor families.
-
-...
-
-[Data](articles/c9cdd119.json)
-
-[Extended Data](ext_articles/c9cdd119.ext.json)
 
 ---

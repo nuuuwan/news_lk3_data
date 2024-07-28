@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 06:05:39**
+As of **2024-07-28 06:41:22**
 
 ## Newspaper Stats
 
-*Scraped **37,602** Articles*
+*Scraped **37,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 4,356
 tamilmirrorlk | 4,635
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,319
+adaderanasinhalalk | 6,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,586 (100.0%) of 37,602 articles have been extended.
+37,591 (100.0%) of 37,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### ඉදිරි පැය 24 සැලකිලිමත් වන්න
+
+*2024-07-28 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199281) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (28) අලුයම 3.00ට නිකුත්කරන ලද එම නිවේදනය ඉදිරි පැය 24 සඳහා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අරාබි මුහුදු ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාව මේ පිළිබඳව සැලකිලිමත් වන ලෙසය.
+
+මේ අතර සබරගමුව පළාතේත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (28) දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/821070c5.json)
+
+---
 
 ### VA Distilleries and Tusker Universe win Emerging Brand Award
 
@@ -45,6 +69,8 @@ Kasthuri Hettiarachchi, Chairman of Tusker Universe, commented: “Winning this 
 ...
 
 [Data](articles/8375243f.json)
+
+[Extended Data](ext_articles/8375243f.ext.json)
 
 ---
 
@@ -64,6 +90,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/9ed24bb2.json)
 
+[Extended Data](ext_articles/9ed24bb2.ext.json)
+
 ---
 
 ### Kitchen & Bedroom unveils new logo
@@ -80,6 +108,8 @@ Muhammad Naufal Noordeen, COO, added: “We are excited about this new phase. As
 
 [Data](articles/ca3ab590.json)
 
+[Extended Data](ext_articles/ca3ab590.ext.json)
+
 ---
 
 ### SLT-MOBITEL and Uber launch connectivity package
@@ -93,6 +123,8 @@ As the National ICT Solutions Provider, SLT-MOBITEL has always been committed to
 ...
 
 [Data](articles/e1454a25.json)
+
+[Extended Data](ext_articles/e1454a25.ext.json)
 
 ---
 
@@ -109,6 +141,8 @@ Dr. Paul Dahlke (25 Jan. 1865 – 29 Feb. 1928) was a German physician and one o
 ...
 
 [Data](articles/212aed06.json)
+
+[Extended Data](ext_articles/212aed06.ext.json)
 
 ---
 
@@ -2143,21 +2177,5 @@ Homar added: “Our team comprises professionals, including national champions. 
 ...
 
 [Data](articles/bae88eae.json)
-
----
-
-### Sustainable Excellence: Green Globe Certification across Aitken Spence Hotels’ Maldives resorts
-
-*2024-07-27 01:15:00* · [`islandlk`](http://island.lk/sustainable-excellence-green-globe-certification-across-aitken-spence-hotels-maldives-resorts/) · `en`
-
-Aitken Spence Hotels has achieved a remarkable milestone in sustainable tourism with all five of its Maldives resorts receiving the prestigious Green Globe Certification. This accolade highlights the Company’s unwavering dedication to sustainability stewardship and its leadership in responsible tourism practices within one of the world’s most pristine marine environments.
-
-The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran Prestige Vadoo, Adaaran Select Meedhupparu, Adaaran Select Hudhuran Fushi, and Adaaran Club Rannalhi, have each been certified with the Green Globe standard 1.7, achieving scores surpassing 86%, exemplifying the exceptional commitment to sustainability across all operational facets.
-
-...
-
-[Data](articles/f1642ed3.json)
-
-[Extended Data](ext_articles/f1642ed3.ext.json)
 
 ---

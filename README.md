@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 00:08:01**
+As of **2024-07-29 00:20:31**
 
 ## Newspaper Stats
 
-*Scraped **37,746** Articles*
+*Scraped **37,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,65 @@ adaderanalk | 4,373
 tamilmirrorlk | 4,662
 dailymirrorlk | 4,733
 virakesarilk | 5,951
-adaderanasinhalalk | 6,348
+adaderanasinhalalk | 6,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,745 (100.0%) of 37,746 articles have been extended.
+37,746 (100.0%) of 37,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### யார் பொதுவேட்பாளர்; பொதுக் கட்டமைப்பின் சில முக்கிய தீர்மானங்கள்!
+### තරගාවලියේ ජය ඉන්දියාවට
+
+*2024-07-28 23:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199313) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වුණු දෙවැනි 20යි විස්ස ජාත්‍යන්තර තරගය ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත් විය.
+
+වර්ෂාව හේතුවෙන් පළමු ඉනිමෙන් අනතුරුව තරගය ඩක්වත් ලුවිස් න්‍යායට අනුව ක්‍රීඩා කළේය.
+
+එහිදී පන්දුවාර 06යි පන්දු 03කදී ලකුණු 81ක් ලබා ගනිමින් තරගය ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත්විය.
+
+ඒ අනුව තරග තුනකින් සමන්විත තරගාවලියේ ජය ඉන්දීය කණ්ඩායමට හිමි විය.
+
+තරගයේ කාසියේ වාසිය දිනු ඉන්දීය කණ්ඩායම තීරණය කළේ පළමුව පන්දු රැකීමට ය.
+
+ඒ අනුව පළමු‍වෙන් පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඬුලු 9ක් දැවී ලකුණු 161ක් රැස් කළේය.
+
+◼️
+
+[Data](articles/d99d9a79.json)
+
+---
+
+### Who is the general candidate;Some of the main resolutions of the general structure!
 
 *2024-07-28 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189641) · `ta`
 
-தமிழ்த் தேசியக் கட்சிகளுக்கும் தமிழ் மக்கள் பொதுச் சபைக்கும் இடையில் உருவாக்கப்பட்டுள்ள பொதுக் கட்டமைப்பு சில முக்கிய தீர்மானங்களை ஞாயிற்றுக்கிழமை (28) எடுத்துள்ளது.
+The Tamil National General Assembly, comprising Tamil political parties and the Tamil People's General Assembly, met to discuss the future direction and key decisions regarding the general candidate selection process. This includes establishing sub-committees for finance, propaganda, and candidate identification, as well as determining the election manifesto and party symbol. The assembly aims to announce these structures promptly, signaling a significant step forward in the public structure's evolution.
 
-தமிழ்த் தேசிய பொதுக் கட்டமைப்பின் விசேட கூட்டம் யாழ் நகரிலுள்ள தனியார் விருந்தினர் விடுதியில் நடைபெற்ற போதே பொதுக் கட்டமைப்பின் அடுத்தகட்ட நடவடிக்கைகள் தொடர்பாக ஆராய்ந்து  முக்கிய சில தீர்மானங்கள் எடுக்கப்பட்டுள்ளது.
+🟩
 
-இச் சந்திப்பு தொடர்பாக சிவில் சமூகப் பிரதிநிதியும் பொதுக் கட்டமைப்பின் உறுப்பினருமான அரசியல் ஆய்வாளர் நிலாந்தன் ஊடகங்களுக்கு கருத்து வெளியிட்டார். இதன் போது அவர் தெரிவித்ததாவது..
+The general structure between the Tamil national parties and the Tamil People's General Assembly has taken some important resolutions on Sunday (28).
 
-தமிழ்த் தேசிய அரசியல் கட்சிகளுக்கும் தமிழ் மக்கள் பொதுச் சபைக்கும் இடையில் உருவாக்கப்பட்டுள்ள தமிழ்த் தேசிய பொதுக் கட்டமைப்பின் முதலாவது கூட்டம் இன்று நடைபெற்றது.
+A special meeting of the Tamil National General Framework was held at a private guest hostel in Jaffna and some important decisions were taken to investigate the next step of the public structure.
 
-இதன் போது பொதுவேட்பாளரை நிறுத்துவது குறித்தான பல்வேறு விடயங்கள் தொடர்பிலும் ஆராயப்பட்டு அடுத்த கட்ட நடவடிக்கைகள் தொடர்பில் சில தீர்மானங்களை எடுத்திருக்கிறோம்.
+Political analyst Nilanthan, a civil society representative and a member of the general structure, commented to the media. He said ..
+
+The first meeting of the Tamil National General Assembly between the Tamil National Political Parties and the Tamil People's General Assembly was held today.
+
+During this time, we have taken some decisions on the various issues on the suspension of the general candidate.
+
+This means that sub -structures that come under this public structure have been created. Sub -structures for financial and propaganda have been created to know who the candidate is, to determine the election manifesto, and to determine the party symbol.
 
 ...
 
 [Data](articles/8b659fab.json)
+
+[Extended Data](ext_articles/8b659fab.ext.json)
 
 ---
 
@@ -2299,29 +2329,5 @@ He added that some MPs of the party have decided to support the candidates on th
 [Data](articles/0b432c45.json)
 
 [Extended Data](ext_articles/0b432c45.ext.json)
-
----
-
-### To whom support: Mahinda
-
-*2024-07-28 11:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-ஆதரவு-அறிவித்தார்-மஹிந்த/175-341144) · `ta`
-
-Mahinda Rajapakse plans to announce support for the Sri Lankan PA's presidential candidate on Monday. He assures full backing for any chosen candidate, including Ranil Wickremesinghe, and acknowledges individual MP decisions based on personal opinions won't hinder party unity.
-
-🟩
-
-Former President Mahinda Rajapakse has said that he will be announced on Monday (29) on who will support the Sri Lankan PA in the upcoming presidential election.
-
-He also notes that if the party decides to support Ranil Wickremesinghe, it will be very supportive.
-
-He said that if the party decides to appoint a different candidate, it will support it.
-
-He added that some MPs of the party have decided to support the candidates on the basis of their personal opinion and that it will not be an issue after it was given the freedom to do what they wanted.
-
-◼️
-
-[Data](articles/5085c645.json)
-
-[Extended Data](ext_articles/5085c645.ext.json)
 
 ---

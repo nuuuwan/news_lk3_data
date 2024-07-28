@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 08:15:16**
+As of **2024-07-28 08:25:18**
 
 ## Newspaper Stats
 
-*Scraped **37,609** Articles*
+*Scraped **37,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,156
 economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,419
-adaderanalk | 4,356
+adaderanalk | 4,357
 tamilmirrorlk | 4,639
 dailymirrorlk | 4,733
 virakesarilk | 5,909
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,601 (100.0%) of 37,609 articles have been extended.
+37,601 (100.0%) of 37,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### Several spells of showers expected in parts of Sri Lanka
+
+*2024-07-28 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100824/several-spells-of-showers-expected-in-parts-of-sri-lanka) · `en`
+
+Showers will occur at times in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts, says the Meteorology Department.
+
+Several spells of showers will occur in Western and North-western provinces and in Galle and Matara districts, it said.
+
+Strong winds of about 50-55 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/e6ca007f.json)
+
+---
 
 ### Sumanthiran's road accident in danger
 
@@ -2197,33 +2215,5 @@ Meanwhile, Assistant Measurement Unit Standard Unit Standards Service Service Su
 [Data](articles/cfeef114.json)
 
 [Extended Data](ext_articles/cfeef114.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-07-27 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199251) · `si`
-
-The Meteorological Department warns of strong winds and rough seas across the northern Arabian Sea and the Bay of Bengal for the next 24 hours due to the active southwest monsoon. Winds reaching speeds of 55-70 km/h are expected, especially along the coasts of 13 to 23 degrees north latitude and 55 to 70 degrees longitude. The Department advises fishermen and sailors to stay ashore. Additionally, heavy showers are forecasted for the Kandy, Nuwara Eliya, Colombo, North Western Provinces, and the Galle and Matara districts, potentially causing gusty winds.
-
-🟩
-
-The Department of Meteorological Department has issued a warning red statement about the waist of strong winds and sea for the next 24 hours.
-
-It says that due to the active southwest monsoon and the Bay of Bay of Bengal.
-
-The department said about 13 to 23 northern part of the Arabian coast and 55 and 70 and 70 lattering areas and the Bay of Bay of East Large 40 km 80 - 80 kilometersThere may be winds and sea areas can be very rough.
-
-The Department of Meteorology has requested the Department of Fisheries and Navigation to come to a land or safe place in the area.
-
-The Department has informed the fisheries and the naval community as no leoming to the sea.
-
-Meanwhile, several showers will occur at times in the Kandy and Nuwara Eliya districts of the Kandy and Nuwara Elve districts of the Colombo and North Western Provinces and several showers in the Western and North Western Provinces and several showers in the Galle and Matara districts.
-
-...
-
-[Data](articles/3758563e.json)
-
-[Extended Data](ext_articles/3758563e.ext.json)
 
 ---

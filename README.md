@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 10:35:56**
+As of **2024-07-28 10:54:32**
 
 ## Newspaper Stats
 
-*Scraped **37,631** Articles*
+*Scraped **37,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,26 +15,74 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,259
 dailyftlk | 2,405
-adalk | 3,421
+adalk | 3,422
 adaderanalk | 4,358
-tamilmirrorlk | 4,649
+tamilmirrorlk | 4,650
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,328
+adaderanasinhalalk | 6,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,622 (100.0%) of 37,631 articles have been extended.
+37,631 (100.0%) of 37,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### விவாகரத்து கிடைத்ததால் பெண்ணொருவர் விருந்து
+### පසුගිය වසරේ මුල් මාස 10 තුළ මනුෂ්‍ය ඝාතන 488ක්
+
+*2024-07-28 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199291) · `si`
+
+2023 වසරේ මුල් මාස 10ක කාලය තුළ මනුෂ්‍ය ඝාතන 500කට ආසන්න සංඛ්‍යාවක් වාර්තා වී ඇති බව ජාතික විගණන කාර්යාලය නිකුත් කළ නවතම වාර්තාවක් මගින් පෙන්වා දී තිබේ.
+
+ඒ අනුව පසුගිය වසරේ අදාළ කාලය තුළ මනුෂ්‍ය ඝාතන 488ක් සිදුව ඇති අතර ඉන් 52ක්ම සිදුව ඇත්තේ වෙඩිතැබීම් හේතුවෙන් බව එම වාර්තාවේ දැක්වෙයි.
+
+තංගල්ල, නුගේගොඩ, ගම්පහ, රත්නපුර හා ඇල්පිටිය යන පොලිස් කොට්ඨාස පහෙන් මනුෂ්‍ය ඝාතන වැඩි වශයෙන් වාර්තා වී ඇති අතර එහිදී තංගල්ල කොට්ඨාසයෙන් මනුෂ්‍ය ඝාතන 32ක් වාර්තා වී ඇති බව ද එම වාර්තා සඳහන් කළේය.
+
+දිවයින පුරා 2018 සහ 2022 අතර  කාල වකවානුව තුළ බරපතළ තුවාල සිදුකිරීම් හා මනුෂ්‍ය ඝාතන 7017ක් වාර්තා වී ඇති බව පෙන්වා දෙන එම වාර්තාව ඉන් අපරාධ 2030ක්ම වාර්තා වී ඇත්තේ පසුගිය වසරේ බව ද සඳහන් කර තිබේ.
+
+මෙරට තුළ සිදුවන බල අපරාධ වාර්තා වීම වර්ධනය වීම වැළැක්වීම සඳහා ප්‍රමාණවත් ක්‍රියාමාර්ග ගත යුතුව පවතින බව එම විගණන වාර්තාව මගින් නිර්දේශ කර ඇත.
+
+මේ අතර පසුගිය වසර 6ක කාලය සැලකිල්ලට ගැනීමේ දී ගෙවල් බිදුම් හා කොල්ලකෑම් වාර්තා වී ඇත්තේ පසුගිය වසරේ දී බව සඳහන්ය.
+
+...
+
+[Data](articles/cb0685b3.json)
+
+---
+
+### Female feast because of divorce
 
 *2024-07-28 10:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விவாகரத்து-கிடைத்ததால்-பெண்ணொருவர்-விருந்து/50-341138) · `ta`
+
+A US-based Pakistani woman celebrated her divorce with a feast, which went viral. She wore purple and sang on stage, surrounded by divorce-themed decorations. Despite the joy, some viewers expressed concern about marriage after seeing the celebration.
+
+🟩
+
+A Pakistani woman living in the United States celebrated with a feast. His celebration video has now gone viral on social networks.
+
+A woman living in the United States has recently been divorced. He then decided to celebrate that happiness. He has celebrated his divorce with his friends and companions at the hotel.
+
+He was involved in the celebration with the background board of greetings for divorce. He climbed on the stage and celebrated his song and singing songs. Purple colored dressed up with his pussy. Her celebration has gone viral on social web sites. He did not know who he was.
+
+And he did not give the reason why he was divorced. Many people who have seen his video have congratulated him.
+
+At the same time, it is a happy thing that some people got Viva Karatu. But at the same time, celebrating divorce, people are afraid of getting married.
+
+◼️
+
+[Data](articles/15afbb9a.json)
+
+[Extended Data](ext_articles/15afbb9a.ext.json)
+
+---
+
+### விவாகரத்து கிடைத்ததால் ‘பெண்’ விருந்து
+
+*2024-07-28 10:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விவாகரத்து-கிடைத்ததால்-பெண்-விருந்து/50-341138) · `ta`
 
 அமெரிக்காவில் வசிக்கும் பாகிஸ்தான் பெண் ஒருவரே விருந்து வைத்து கொண்டாடினார். அவரது கொண்டாட்ட வீடியோ சமூக வலைதளங்களில் தற்போது வைரலாகியுள்ளது.
 
@@ -46,41 +94,53 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/15afbb9a.json)
+[Data](articles/70db2817.json)
 
 ---
 
-### කාන්තා ආසියානු කුසලානයේ අවසන් තරගය අද
+### Women's Asian Trophy Final Today
 
 *2024-07-28 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199290) · `si`
 
-9 වැනි කාන්තා ආසියානු කුසලාන 20යි 20 ක්‍රිකට් තරගාවලියේ අවසන් තරගය අද (28) පස්වරුවේ පැවැත්වෙයි.
+Today, the 9th Women's Asian Cups Trickdala final will take place, featuring Sri Lanka and India, who both secured their spots after impressive performances. This marks Sri Lanka's fifth appearance in the Asian series finals.
 
-එහිදි මෙවර තරගාවලියේදී A කාණ්ඩයෙන් තරග බිමට පිවිසි ඉන්දීය කණ්ඩායම අපරාජිතව අවසන් තරගයේ සිය ස්ථානය වෙන් කර ගනිද්දී සත්කාරක ශ්‍රී ලංකා ක්‍රීඩිකාවනුත් මෙවර අවසන් තරගය සඳහා සිය ස්ථානය වෙන් කරගත්තේ අපරාජිත ගමනකින්වීම කැපී පෙනෙයි.
+🟩
 
-ඉන්දීය කණ්ඩායමක් ආසියානු කුසලාන අවසන් තරගයක් සඳහා සුදුසුකම් ලබා ගත් 9වැනි අවස්ථාව වන අතර එහිදි ඉන්දීය ක්‍රීඩිකාවන් අවස්ථා 7කදී ආසියානු ශූරියන් ලෙස කිරුළ හිමිකර ගත්තේය.
+The 9th women's Asian Cups Trickdala will be held this afternoon today (28).
 
-ශ්‍රී ලංකා කාන්තා කණ්ඩායමක් ආසියානු කුසලාන අවසන් මහ තරගයක් සඳහා අවස්ථා 6කදී සුදුසුකම් ලබා ගත් අතර ඔවුන් අවස්ථා 5කදී ආසියානු අනුශූරියන් ලෙස තරගාවලිය අවසන් කළේය.
+The host Sri Lanka players reserved their place in the final of the event in the event of the event.
+
+A team of Indian cup qualified for the Asian Cup final
+
+A Sri Lankan women's women qualified for the Asian Cup final and they completed the tournament as Asian series in five occasions.
 
 ◼️
 
 [Data](articles/6572c3d2.json)
 
+[Extended Data](ext_articles/6572c3d2.ext.json)
+
 ---
 
-### சுதந்திரக் கட்சி 31ஆம் திகதி தீர்மானிக்கும்
+### The Freedom Party will decide on the 31st
 
 *2024-07-28 10:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திரக்-கட்சி-31ஆம்-திகதி-தீர்மானிக்கும்/175-341137) · `ta`
 
-ஜனாதிபதி வேட்பாளர் யார் என்பதை ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையிலான புதிய கூட்டணி எதிர்வரும் 31ஆம் திகதி வெளிப்படுத்தும் என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சரும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சிரேஷ்ட உப தலைவருமான மஹிந்த அமரவீர தெரிவித்தார்.
+Mahinda Amaraweera, Minister of Agriculture and Senior Deputy Chairman of the SLFP, announced that the party's new coalition will soon reveal its presidential candidate. He clarified that the SLFP remains united under one leadership and refuted claims of division within the party.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சி பிளவுபடவில்லை எனவும், தற்போது ஒரேயொரு சட்டபூர்வமான ஸ்ரீலங்கா சுதந்திரக் கட்சியே உள்ளதாகவும் அமைச்சர் தெரிவித்தார்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சி தனது கையில் இருப்பதாக சிலர் கூறுகின்ற கருத்துக்கள் செல்லுபடியாகாது எனவும் அமைச்சர் குறிப்பிட்டுள்ளார்.
+Minister of Agriculture and Plantation Industries and Senior Deputy Chairman of the Sri Lanka Freedom Party (SLFP) Mahinda Amaraweera said that the new coalition led by the Sri Lanka Freedom Party (SLFP) will reveal who is the presidential candidate.
+
+The Minister said that the Sri Lanka Freedom Party was not divided and that there is only one legal legal SLFP.
+
+The Minister also stated that some people say that the Sri Lanka Freedom Party (SLFP) is in his hands is not valid.
 
 ◼️
 
 [Data](articles/1487e478.json)
+
+[Extended Data](ext_articles/1487e478.ext.json)
 
 ---
 
@@ -136,39 +196,53 @@ They gathered to learn about the government’s program and the path ahead, vowi
 
 ---
 
-### 24 மணி நேரத்துக்கு எச்சரிக்கை
+### Alert for 24 hours
 
 *2024-07-28 09:45:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணி-நேரத்துக்கு-எச்சரிக்கை/175-341136) · `ta`
 
-பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+A meteorological alert warns of strong winds, sea turbulence, and heavy rain across Sri Lanka for the next 24 hours. Fishermen in the Arabian Sea and Bay of Bengal are advised to be cautious. Rainfall is expected in several provinces, with strong winds in central highlands and northern regions.
 
-இன்று (28) அதிகாலை 3.00 மணிக்கு வெளியிடப்பட்ட இந்த அறிவிப்பு அடுத்த 24 மணித்தியாலங்களுக்கு செல்லுபடியாகும் என அந்த திணைக்களம் அறிவித்துள்ளது.
+🟩
 
-அரபிக்கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் உள்ள நெடுநாள் கடற்றொழிலாளர்கள் மற்றும் கடல்சார் சமூகம் இது தொடர்பில் அவதானத்துடன் செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளது.
+The Department of Meteorology has issued a warning of strong winds and sea turbulence.
 
-இதேவேளை, சப்ரகமுவ மாகாணம், கண்டி மற்றும் நுவரெலியா மாவட்டங்களில் இன்று (28) அவ்வப்போது மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The department has announced that the announcement, which was released today (28), will be valid for the next 24 hours.
 
-மேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும்.
+Long -day fishermen in the Arabian Sea and the Bay of Bengal have been advised to take care of this.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது 50-55 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+Meanwhile, the Department of Meteorology said that rainfall is expected in Sabaragamuwa Province, Kandy and Nuwara Eliya districts today (28).
 
-...
+Rainfall is expected several times in the Western and North Western Provinces and Galle and Matara districts.
+
+Strong winds are likely to blow at speeds of 50-55 km from time to time in the western slopes of the Central Highlands, the Northern, North Central and North Western Provinces and Trincomalee, Moneragala and Hambantota districts.
+
+The Department of Meteorology further stated that the rest of the country could blow up to 30 to 40 km from time to time.. Remble
+
+◼️
 
 [Data](articles/8d2ff09d.json)
 
+[Extended Data](ext_articles/8d2ff09d.ext.json)
+
 ---
 
-### யாழில் வாகனத்திற்கு தீ வைப்பு
+### Fire for the vehicle in Jaffna
 
 *2024-07-28 09:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-வாகனத்திற்கு-தீ-வைப்பு/71-341135) · `ta`
 
-யாழ்ப்பாணம் மூர் வீதியில் வசிக்கும் நபர் ஒருவர், தனது வாகனத்தினை, வீட்டின் முன் நிறுத்தி வைத்திருந்த வேளை சனிக்கிழமை (27) நள்ளிரவு வேளை வாகனத்திற்கு தீ வைத்து விட்டு, வன்முறை கும்பல் தப்பிச் சென்றுள்ளது.
+In Jaffna, a man set fire to his car parked outside his home on Moore Road at midnight on Saturday. The incident was reported to the Jaffna Police Station, leading to ongoing investigations.
 
-சம்பவம் தொடர்பில் பாதிக்கப்பட்டவரால், யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது. பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.   R
+🟩
+
+A man who lived on Moore Road, Jaffna had set fire to the vehicle at midnight on Saturday (27) while he was parked in front of the house.
+
+A complaint has been lodged at the Jaffna Police Station by the victim. Police are conducting investigations.R
 
 ◼️
 
 [Data](articles/a6ba1091.json)
+
+[Extended Data](ext_articles/a6ba1091.ext.json)
 
 ---
 
@@ -252,6 +326,18 @@ The deceased has been identified as 58-year-old woman who had been residents of 
 
 ---
 
+### සජබේ ඉෂාක් රහුමාන් රනිල්ට සහාය දෙයි
+
+*2024-07-28 08:40:38* · [`adalk`](https://www.ada.lk/breaking_news/සජබේ-ඉෂාක්-රහුමාන්-රනිල්ට-සහාය-දෙයි/11-411033) · `si`
+
+සමගි ජන බලවේගයේ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ඉෂාක් රහුමාන් මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කරමින් ගාල්ලේ ඊයේ පැවැති එක්ව ජයගමු වෙිදිකාව⁣ට ගොඩවිය.
+
+◼️
+
+[Data](articles/708881f6.json)
+
+---
+
 ### Preliminary printing of presidential election is over
 
 *2024-07-28 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199284) · `si`
@@ -300,21 +386,27 @@ The constable has banned the work of the Colombo South Barandiya Senior Superint
 
 ---
 
-### அரசின் நிலைப்பாட்டுக்கு  கண்டனம்
+### Reprimand for the state's position
 
 *2024-07-28 08:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசின்-நிலைப்பாட்டுக்கு-கண்டனம்/175-341130) · `ta`
 
-அரசியலமைப்பு பேரவையின் அங்கீகாரத்துடன் ஜனாதிபதி மேற்கொண்ட நியமனங்களை உயர்நீதிமன்றம் கேள்விக்கு உட்படுத்த முடியாது என்ற அரசாங்கத்தின் கருத்தை முற்றிலும் ஏற்றுக் கொள்ள முடியாது என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Bar Association criticized the government's stance that the Supreme Court cannot question the President's appointments approved by the Constitutional Council. This disagreement arose over the appointment of Deshabandan Tennakoon as Inspector General of Police, with the Prime Minister asserting the court's inability to override the council's decision.
 
-பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன் நியமிக்கப்பட்டமை தொடர்பில், உயர் நீதிமன்றத்தினால் அண்மையில் பிறப்பிக்கப்பட்ட இடைக்கால தடையுத்தரவு தொடர்பில், இலங்கை சட்டத்தரணிகள் சங்கத்தின் நிலைப்பாட்டை வெளிப்படுத்தும் அறிக்கையில் இந்த விடயம் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-கடந்த 26 ஆம் திகதி பாராளுமன்றத்தில் உரையாற்றிய பிரதமர் தினேஷ் குணவர்தன, பொலிஸ் மா அதிபர் நியமனத்திற்கு அரசியலமைப்பு பேரவை வழங்கிய அனுமதியை நீதிமன்றத்தால் மாற்ற முடியாது என குறிப்பிட்டார்.
+The Sri Lanka Bar Association has said that the government's opinion that the president's appointments with the approval of the Constitutional Council cannot be questioned by the Supreme Court.
 
-இந்த நிலையில், அரசாங்கத்தின் நிலைப்பாட்டை ஏற்க முடியாது எனவும், பொலிஸ் மா அதிபரின் நியமனம் தொடர்பான அரசாங்கத்தின் நிலைப்பாட்டைக் கண்டிப்பதாகவும் இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது. (a)
+This was stated in a statement revealing the position of the Sri Lanka Lawyers Association on the recent interim injunction issued by the Supreme Court regarding the appointment of Deshabandan Tennakoon as the Inspector General of Police.
+
+Speaking to Parliament on the 26th, Prime Minister Dinesh Gunawardena said the court could not change the permission of the Constitutional Council for the appointment of the Inspector General of Police.
+
+In this case, the Government of Sri Lanka's Lawyers Association has said that the government's position cannot be accepted and the government's position on the appointment of the Inspector General of Police. (A)
 
 ◼️
 
 [Data](articles/18f65299.json)
+
+[Extended Data](ext_articles/18f65299.ext.json)
 
 ---
 
@@ -492,35 +584,47 @@ In addition, 12 people have died of dengue during this year, the Ministry of Hea
 
 ---
 
-### டெங்கு நோயாளர்கள் அதிகரிப்பு
+### Increase in dengue patients
 
 *2024-07-28 03:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-341127) · `ta`
 
-இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 32 ஆயிரத்துக்கும் அதிகமான டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் எனத் தேசிய டெங்குக் கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+This year, over 32,000 dengue cases were reported, with 12 fatalities, according to the National Dengue Control Unit and the Ministry of Health.
 
-அத்துடன், இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 12 பேர் டெங்கு நோய் காரணமாக உயிரிழந்துள்ளனர் என சுகாதார அமைச்சு தெரிவித்துள்ளது. (a)
+🟩
+
+More than 32 thousand dengue patients have been identified during this year, the National Dengue Control Unit said.
+
+In addition, 12 people have died of dengue during this year, the Ministry of Health said.. (A)
 
 ◼️
 
 [Data](articles/d6a0ac59.json)
 
+[Extended Data](ext_articles/d6a0ac59.ext.json)
+
 ---
 
-### ’சஜித்தின் சகாக்கள் பலர் ரணிலுடன் இணைவர்’
+### Sajith's colleagues join Ranil
 
 *2024-07-28 02:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-சகாக்கள்-பலர்-ரணிலுடன்-இணைவர்/175-341126) · `ta`
 
-ஐக்கிய மக்கள் சக்தி உறுப்பினர்கள் பலரும் அடுத்து வரும் நாட்களில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் இணையவுள்ளனர் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே தெரிவித்தார்.
+Mahindananda Aluthgamage announced that several United People's Power Members will soon join President Ranil Wickremesinghe. He spoke at a meeting in Galle, expressing confidence in victory. The statement comes ahead of the September 21st presidential election, where Ranil Wickremesinghe is seen as a unifying figure across parties. Notably, Sajith Premadasa, despite criticism for not taking charge during crises, is expected to bring his supporters to Ranil's side, signaling a potential shift in political alliances.
 
-காலியில் நேற்று நடைபெற்ற 'ஒன்றாக வெல்வோம் – காலியில் நாம்' கூட்டத்தில் கலந்துகொண்டு உரையாற்றிய அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-எதிர்வரும் செப்டெம்பர் 21 ஆம் திகதி நடைபெறும் ஜனாதிபதித் தேர்தலில் ரணில் வெற்றி பெறுவார் என்பது உறுதி. அவர் பின்னால்தான் அனைத்து கட்சிகளும் இன்றுள்ளன.
+Sri Lanka PA MP Mahindananda Aluthgamage said that many United People's Power Members will be joining President Ranil Wickremesinghe in the coming days.
 
-நெருக்கடியான நேரத்தில் நாட்டைப் பொறுப்பேற்காத சஜித் பிரேமதாஸ வெற்றி வேட்பாளரா? இல்லை. நாட்டை மீட்கக்கூடிய வேட்பாளர் எமது மேடையிலேயே இருக்கின்றார். அடுத்துவரும் நாட்களில் சஜித்தின் சகாக்களும் எமது மேடையில் ஏறுவார்கள் என்றார். (a)
+Speaking at the meeting held in Galle yesterday, he said, "We will win together - we will win '
+
+Ranil will win the presidential election on September 21st. He is behind all parties today.
+
+Sajith Premadasa, who did not take responsibility for the country at a time of crisis?Not. The candidate that can redeem the country is on our platform. In the coming days, Sajith's colleagues will climb our stage. (A)
 
 ◼️
 
 [Data](articles/3094ffe7.json)
+
+[Extended Data](ext_articles/3094ffe7.ext.json)
 
 ---
 
@@ -644,21 +748,27 @@ However, some claim that he is not a free party and foreign. Wijedasa Rajapaksa.
 
 ---
 
-### ’ஐ.ம.கூ’வுடன் தயாசிறி ஒப்பந்தம்
+### Dayasiri Agreement with IMC
 
 *2024-07-28 02:40:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-கூ-வுடன்-தயாசிறி-ஒப்பந்தம்/175-341125) · `ta`
 
-ஐக்கிய மக்கள் சக்தி தலைமையிலான ஐக்கிய மக்கள் கூட்டணியுடன் தயாசிறி ஜயசேகர கையெழுத்திடவுள்ளதாக தகவல்கள் கிடைத்துள்ளன எனவும் ஓகஸ்ட் 8 ஆம் திகதி தயாசிறி ஜயசேகர யார் என்பதை அறிந்து கொள்ளலாம் என்றும்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+Maithripala Sirisena mentioned reports of Dayasiri Jayasekera joining the United People's Alliance. He also discussed Wijeyadasa Rajapaksa's election as the SLFP leader and presidential candidate without opposition. Some criticize Rajapaksa, claiming he's not truly independent due to foreign influence. Despite this, Sirisena fully supports Rajapaksa for president. It's rumored that Dayasiri Jayasekera will sign a coalition agreement with the United People's Power.
 
-நேற்று இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-சட்ட ரீதியான நிறைவேற்று சபையின் ஊடாகவே விஜேதாச  ராஜபக்ஷ ஸ்ரீலங்கா சுதந்திர கட்சியின் தவிசாளராக தெரிவு செய்யப்பட்டார். நிறைவேற்று சபையின் அங்கீகாரத்துடனேயே அவர் ஜனாதிபதி வேட்பாளராகவும் அறிவிக்கப்பட்டார். அதற்கு எவரும் எதிர்ப்பினை வெளிப்படுத்தவுமில்லை.
+Former President Maithripala Sirisena said that there were reports that Dayasiri Jayasekera was to sign with the United People's Alliance led by the United People's Alliance.
 
-எனினும் சிலர் அவர் சுதந்திர கட்சி இல்லை என்றும், வெளிநபர் என்றும் கூறுகின்றனர். விஜேதாச ராஜபக்ஷவை அவ்வாறு கூறுபவர்கள் சு.க. தோன்றிய போது இந்த உலகத்தில் பிறந்திருக்கவும் மாட்டார்கள். சிறிமாவோ பண்டாரநாயக்கவின் பிரஜாவுரிமை பறிக்கப்பட்ட போது, அவருக்கான நீதிமன்றத்தில் முன்னிலையான இளம் சட்டத்தரணியாக விஜேதாச ராஜபக்ஷவே காணப்பட்டார்.
+He said this at a special media briefing held yesterday. As he further stated,
+
+Wijeyadasa Rajapaksa was elected as the Sri Lanka Freedom Party (SLFP). He was also announced as the presidential candidate with the approval of the Executive Council. No one expresses opposition to it.
+
+However, some claim that he is not a free party and foreign. Those who do Wijedasa Rajapaksa. They will not be born in this world when they appeared. When Sirimavo Bandaranaike's citizenship was taken away, Wijedasa Rajapakse was seen as the young lawyer in court.
 
 ...
 
 [Data](articles/56692f1b.json)
+
+[Extended Data](ext_articles/56692f1b.ext.json)
 
 ---
 
@@ -2115,77 +2225,5 @@ If the number of candidates contesting the presidential election increases, the 
 [Data](articles/3343689f.json)
 
 [Extended Data](ext_articles/3343689f.ext.json)
-
----
-
-### Presidential Election 2024: Voters can cast ballots at alternative polling stations, applications now open
-
-*2024-07-27 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100813/presidential-election-2024-voters-can-cast-ballots-at-alternative-polling-stations-applications-now-open) · `en`
-
-The Election Commission announced that the opportunity has been provided for voters to cast their votes at an alternative polling station other than their designated station during the forthcoming Presidential Election.
-
-Publishing an extraordinary gazette notification in this regard, the Election Commission has declared that a person who is reasonably fearful that he will not be able to go to and cast the vote at the given polling station, may request to be facilitated to vote at another polling station.
-
-Furthermore, the gazette notification highlighted that the provisions of Section 119B of the Presidential Elections Act, No. 15 of 1981, as amended by the Presidential Elections (Amendment) Act, No. 16 of 1988, have provided in this regard.
-
-...
-
-[Data](articles/2d90ce63.json)
-
-[Extended Data](ext_articles/2d90ce63.ext.json)
-
----
-
-### Sri Lanka-India ticket has been released today
-
-*2024-07-27 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199258) · `si`
-
-Tickets for the first T20 match between Sri Lanka and India went on sale today, with the game scheduled for 4 pm at the Pallekele International Cricket Stadium.
-
-🟩
-
-The first T20 match between Sri Lanka and Tourism will be held today (27).
-
-SLC announced that tickets for the match were for sale.
-
-Therefore, SLC has informed the purchase of tickets to the play or ticket windows.
-
-The event is held at the Pallekele International Cricket Stadium and the gates of the 4 pm today.
-
-◼️
-
-[Data](articles/f9ce6fde.json)
-
-[Extended Data](ext_articles/f9ce6fde.ext.json)
-
----
-
-### 5 lakhs of pain relief pills to smuggle from India to Sri Lanka
-
-*2024-07-27 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189506) · `ta`
-
-Trichy Customs Intelligence Unit seized 500,000 pain relief pills bound for Sri Lanka, hidden among goods like turmeric, ginger, and cannabis. The pills, worth around ₹18 crores domestically and potentially ₹30 crores internationally, were intercepted during a smuggling operation involving the Indian Coast Guard, Navy, and intelligence officers.
-
-🟩
-
-The Trichy Customs Intelligence Unit has seized 5 lakhs of pain relief pills on Friday (26).
-
-Ramanathapuram district in Ramanathapuram district, Rameswaram, Mandapam Vedalai Marikkayar Pattinam, Manangudi, including Dhanushkodi Sea, is being smuggled into Sri Lanka by sea card, cooking turmeric, ginger, painkillers and cannabis.
-
-The Indian Central Customs, Coast Guard, Navy and Central and State Intelligence Officers have been engaged in intensive surveillance to prevent sea trafficking.
-
-In this case, 10 boxes were seized on the Manangudi beach for smuggling to Sri Lanka.
-
-The boxes were taken to the Customs Department's Office and found that 57 thousand tablets in a box were 5 lakhs 70 thousand painkillers.
-
-The first investigation revealed that the pain reliever pills had been hid by boat to Sri Lanka on Friday night, and that a suspect in the abduction was in hiding.
-
-The Indian value of the seized painkillers pills is about 1 crore 80 lakhs and the international value may be Rs 3 crore.
-
-◼️
-
-[Data](articles/42f8c38f.json)
-
-[Extended Data](ext_articles/42f8c38f.ext.json)
 
 ---

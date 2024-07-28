@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 05:38:48**
+As of **2024-07-28 06:05:39**
 
 ## Newspaper Stats
 
-*Scraped **37,586** Articles*
+*Scraped **37,602** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 328
-colombotelegraphcom | 353
+colombotelegraphcom | 355
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,142
+islandlk | 2,156
 economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,419
@@ -26,9 +26,169 @@ adaderanasinhalalk | 6,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,586 (100.0%) of 37,586 articles have been extended.
+37,586 (100.0%) of 37,602 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-28 (Sunday)
+
+### VA Distilleries and Tusker Universe win Emerging Brand Award
+
+*2024-07-28 02:41:00* · [`islandlk`](http://island.lk/va-distilleries-and-tusker-universe-win-emerging-brand-award/) · `en`
+
+VA Distilleries Pvt Ltd and Tusker Universe Pvt Ltd recently won the Emerging Brand of the Year Platinum Award at the Business World International Awards 2023, held at the Taj Samudra Hotel in Colombo, according to a press release.
+
+Since its founding, Tusker Universe Pvt Ltd has focused on CSR initiatives to support elephant welfare and address human-elephant conflicts. The Tusker Foundation provides sanctuary and rehabilitation for orphaned and injured elephants and runs programs to mitigate conflicts between humans and elephants.
+
+Kasthuri Hettiarachchi, Chairman of Tusker Universe, commented: “Winning this award is a momentous occasion for our company. It is not just about the award itself, but the message it sends: one can always be successful and a powerful force for good. So, don’t just build a business—build something that makes a positive difference and leaves the world a better place than you found it.”
+
+...
+
+[Data](articles/8375243f.json)
+
+---
+
+### Thennakoon Rent a Car wins top award
+
+*2024-07-28 02:41:00* · [`islandlk`](http://island.lk/thennakoon-rent-a-car-wins-top-award/) · `en`
+
+Thennakoon Rent a Car was honoured with the title of Best Rent a Car Service of the Year 2024 at the Asia Miracle Awards, recently held at the Water’s Edge Hotel in Battaramulla.
+
+Company Chairman, Nilan Dhanuka Thennakoon, received the award during the ceremony, according to a press release. The release also noted that Thennakoon Rent a Car is part of the Thennakoon Holdings Group of Companies, which offers a range of services including hotel and accommodation, as well as battery mobile services. This comprehensive approach ensures that vehicle owners can maximize the value of their cars, confident that a trusted and experienced company manages every aspect of the rental process.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/9ed24bb2.json)
+
+---
+
+### Kitchen & Bedroom unveils new logo
+
+*2024-07-28 02:41:00* · [`islandlk`](http://island.lk/kitchen-bedroom-unveils-new-logo/) · `en`
+
+Kitchen & Bedroom recently unveiled its new logo, which embodies minimalism, functionality, and renewed luxury in living spaces.
+
+Dr. Mohammed Rushmi Sacquaff, Group CEO of Kitchen & Bedroom, remarked: “As pioneers in interior design and space planning in Sri Lanka, we are proud to renew our commitment to the latest contemporary trends in the industry. Our new logo reflects this commitment. One of our most valued traits is our attention to detail, which has helped us stay ahead. We have ambitious plans ahead and will advance step by step.”
+
+Muhammad Naufal Noordeen, COO, added: “We are excited about this new phase. As COO, I am eager to leverage my extensive experience in managing national and international operations in FMCG and consumer durables to drive Kitchen & Bedroom’s KPIs, deliver tangible results, and further our mission of creating exquisite, functional, and emotionally enriching interior spaces.”
+
+...
+
+[Data](articles/ca3ab590.json)
+
+---
+
+### SLT-MOBITEL and Uber launch connectivity package
+
+*2024-07-28 02:41:00* · [`islandlk`](http://island.lk/slt-mobitel-and-uber-launch-connectivity-package/) · `en`
+
+SLT-MOBITEL and Uber have come together to offer tailor-made, value-added connectivity solutions for merchants, couriers, and drivers registered on Uber’s platform in Sri Lanka.As part of the partnership, customized connectivity solutions designed to meet the unique needs of merchants, couriers, and drivers were announced in the presence of senior leaders from both companies under ‘Uber Package’. Given the rapid use of smartphones and internet connectivity, in the app-based economy, along with high data consumption, the package offered under this partnership fulfills Data, Calls, and SMS requirements at an unbeatable price.
+
+As the National ICT Solutions Provider, SLT-MOBITEL has always been committed to uplifting national connectivity through various digital interventions. The partnership with Uber further solidifies SLT-MOBITEL’s vision of creating a knowledge-rich society through the fusion of technology.
+
+...
+
+[Data](articles/e1454a25.json)
+
+---
+
+### Centenary of the Berlin Viharaya
+
+*2024-07-28 01:59:00* · [`islandlk`](http://island.lk/centenary-of-the-berlin-viharaya/) · `en`
+
+Germans came to know about the Buddhism, when they travelled to Kalmyki region of Russia in 17th century, from the Nomadic people from Mongolia who settled there.
+
+Anton Walter Florus Gueth (1878 – 1957), a German who had travelled to Burma in 1904 ordained as the first German monk and came to Sri Lanka as Ven. Nyanatiloka thero and lived at the Polgasduwa Hermitage. He has written and published several book in Germany. Hermann Hess, Nobel Prize winner (1877 – 1962) has published ‘Sidhartha’ in 1922, which was a great value to German Buddhism.
+
+Dr. Paul Dahlke (25 Jan. 1865 – 29 Feb. 1928) was a German physician and one of the pioneers of Buddhism in Germany. Dahlke was born in East Prussia as the son of a civil servant. He completed the Gymnasium (high school) in 1883 and proceeded to study medicine in Berlin. He received his MD degree in August 1887 and soon took over a Homeopathic medical practice.
+
+...
+
+[Data](articles/212aed06.json)
+
+---
+
+### Entering the bunkering and ship salvage business
+
+*2024-07-28 01:13:00* · [`islandlk`](http://island.lk/entering-the-bunkering-and-ship-salvage-business/) · `en`
+
+(Excerpted from Simply Nahil: a maverick with the Midas touch, biography of Nahil Wijesuriya
+
+As East West continued its upward trend in business, it enjoyed a series of ‘firsts’ in diverse areas of its shipping business, the first major investment being a bunkering service. Bunkering means supplying to the fuel containers of a ship or refuelling the vessel. The company owned and operated the largest ship in Sri Lanka, the 37,000 DWT (Dead Weight Tanker) MT ‘Bunker V – previously known as the Emerald Sea – together with the feeder tankers and salvage and towage tugs, the MT ‘Rangiri’ and the MT ‘Ranveli’.
+
+...
+
+[Data](articles/05483723.json)
+
+---
+
+### XXXIII Olympic Games
+
+*2024-07-28 00:47:00* · [`islandlk`](http://island.lk/xxxiii-olympic-games/) · `en`
+
+Innumerable essays were written during schooldays; celebrated in 1948 was Major Desamanya Duncan M White’s Olympic silver medal in the 400m hurdles in London; and even more so Susanthika Jayasinghe’s bronze promoted to silver in the 200m sprint in 2000 in Sydney. Thus no surprise that interest runs high every four years when the Summer Olympic Games are held. After all, here is one event that draws the world together in holding the most attended and famed gathering of all, a sporting event aimed to be sans politics, enmity, corrosive competition. Rather is it meant to foster a coming together of all nations of the world in peace, inducing sportsmanship of the correct win or lose type; with no monetary awards given by IOC, the International Olympics Committee.
+
+...
+
+[Data](articles/28d3f0d9.json)
+
+---
+
+### NPP and the AKD science policy
+
+*2024-07-28 00:32:00* · [`islandlk`](http://island.lk/npp-and-the-akd-science-policy/) · `en`
+
+Dinara S. Gunasekera is a Sri Lankan-American industrial scientist and an entrepreneur who has received numerous academic and professional awards and authored multiple patents, and peer-reviewed publications. He co-founded Sri Lanka’s first science consulting company, dedicated to help S&M-scale local and international companies with their R&D efforts. He was instrumental in establishing Sri Lanka’s first and only GLP-accredited synthetic organic lab, molecular recognition lab, and active pharmaceutical ingredient plant.
+
+...
+
+[Data](articles/bc2c2b01.json)
+
+---
+
+### Buddhism, AI and cremation of Covid dead grab attention
+
+*2024-07-28 00:28:00* · [`islandlk`](http://island.lk/buddhism-ai-and-cremation-of-covid-dead-grab-attention/) · `en`
+
+MPs are not strictly divided along party lines in the current parliament, except for the TNA and JVP/NPP. MPs from other parties sit on both the government and opposition sides of the House. This movement is frequently and expected to continue in the coming weeks as political maneuvering continues. However, MPs come together for moments of shared amusement, as seen last Wednesday in the lobbies during an adjournment debate on promoting Artificial Intelligence (AI).
+
+Here, Colombo District MP Rear Admiral (Retd) Sarath Weerasekara, who is also known for his part in the films “Gamini” (2011) and “Deveni Yuddhaya” (2023), made a comment that drew laughter from both government and opposition MPs. He said that the Buddha had used AI many times. He claimed that while AI was discovered by modern Western scientists, the Buddha through meditation and spiritual attainment achieved as much.
+
+...
+
+[Data](articles/bdd2c35a.json)
+
+---
+
+### HUSBANDLY QUIRKS
+
+*2024-07-28 00:23:00* · [`islandlk`](http://island.lk/husbandly-quirks/) · `en`
+
+In my maidenly era, and even earlier, most of us entered marriage with stars in our eyes. If not always stars, at least happy expectations of a cozily comfortable home life where everything fell into place and nothing other than an occasional husbandly tantrum disturbed the peace of the day. No one told us that men had quirks or that they had strange, indeed offbeat foibles.
+
+After all, how could a mother anticipate what peculiarities her daughter’s charming fiance was going to exhibit once he had exchanged this role for that of a husband who required mollycoddling in the same manner his doting mother had provided all his life.
+
+...
+
+[Data](articles/d9795170.json)
+
+---
+
+### IGP Controversy & President RW’s Failure To Break Up NPP
+
+*2024-07-28 00:11:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/igp-controversy-president-rws-failure-to-break-up-npp/) · `en`
+
+After the Election Commission revealed the details of the presidential election, the public expected a calm and fair election. However, two recent events are profoundly significant because they do not accommodate people’s expectations. The first is the controversial issue surrounding the Supreme Court’s (SC) interim order, which has prevented incumbent IGP Deshabandu Tennakoon from functioning as the police chief. This is indeed the latest of the recent events because it came days before the announcement of the date for the holding of presidential polls.
+
+...
+
+[Data](articles/0ff19ced.json)
+
+---
 
 ### 2024-07-27 (Saturday)
 
@@ -131,6 +291,20 @@ LTTE terrorists were banned. The organization will not be able to collect money 
 [Data](articles/6e1bb02c.json)
 
 [Extended Data](ext_articles/6e1bb02c.ext.json)
+
+---
+
+### Old Dogs, New Tricks: The Ongoing Battle Against Age-Related Mental Decline
+
+*2024-07-27 22:51:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/old-dogs-new-tricks-the-ongoing-battle-against-age-related-mental-decline/) · `en`
+
+Growing up in Sri Lanka in the 60s and 70s, our ambition was to secure a government job, retire by age 55, and enjoy a good pension. I often saw my male relatives doing just that, reclining in easy chairs with their legs propped up—a common and comfortable sight. However, the 80s brought dramatic changes. We scattered across the globe, embracing diverse cultures and values. In the USA, particularly, we’ve been conditioned to believe that age is just a number and that life is endless, with us as the Energizer Bunnies, going on forever.
+
+This optimistic view was suddenly upended last week with President Joe Biden‘s announcement of his campaign termination following his disastrous debate performance. Suddenly, age-related mental decline and dementia were thrust into the spotlight, challenging the notion that we can defy the effects of aging indefinitely.
+
+...
+
+[Data](articles/cbfd149d.json)
 
 ---
 
@@ -1890,6 +2064,20 @@ Now, about the health system in Sri Lanka, first thing comes to the news is that
 
 ---
 
+### Announcement of presidential poll date has depressing impact on share trading
+
+*2024-07-27 01:35:00* · [`islandlk`](http://island.lk/announcement-of-presidential-poll-date-has-depressing-impact-on-share-trading/) · `en`
+
+Stock market trading lacked vibrancy yesterday on account of investor sentiment declining on the presidential election date being specified, market analysts said.The main indices moved up though. The All Share Price Index went up by 7.96 points while S and P SL 20 rose by 2.32 points.
+
+Turnover stood at Rs 575 million with three crossings. Those crossings were reported in Sanasa Development Bank, which crossed 3.7 million shares to the tune of Rs 117 million; its shares traded at Rs 31, JKH 210,000 shares crossed for Rs 49.2 million; Ceylon Land Equities 2.45 million shares crossed for Rs 20.8 million and it shares fetched Rs 8.50.
+
+...
+
+[Data](articles/4c4505c6.json)
+
+---
+
 ### ComBank wins 6 awards at Asian Banking and Finance Awards in Singapore
 
 *2024-07-27 01:34:00* · [`islandlk`](http://island.lk/combank-wins-6-awards-at-asian-banking-and-finance-awards-in-singapore/) · `en`
@@ -1940,6 +2128,24 @@ AIA deployed over 500 dedicated lifeguards across 39 reservoirs and lakes in Anu
 
 ---
 
+### Plans for a new Rs. 150 million badminton stadium in Sri Lanka
+
+*2024-07-27 01:15:00* · [`islandlk`](http://island.lk/plans-for-a-new-rs-150-million-badminton-stadium-in-sri-lanka/) · `en`
+
+Rising Stars Badminton Academy has invested over Rs. 50 million in its current operations and plans to allocate an additional Rs. 150 million towards a new stadium in Sri Lanka.
+
+Speaking to The Island Financial Review during a press briefing in Kalalgoda, Thalawathugoda, Clarence Homar, founder and president, Rising Stars Badminton Academy, emphasized that while local investment may not always yield significant financial returns, their commitment stems from pure passion for the sport.
+
+Homar disclosed plans to establish an academy in Canada next year, noting that other countries offer more conducive environments with governmental grants and robust support for sports.
+
+Homar added: “Our team comprises professionals, including national champions. Drawing from my own experience as a former national champion, I am confident in our team’s capabilities.
+
+...
+
+[Data](articles/bae88eae.json)
+
+---
+
 ### Sustainable Excellence: Green Globe Certification across Aitken Spence Hotels’ Maldives resorts
 
 *2024-07-27 01:15:00* · [`islandlk`](http://island.lk/sustainable-excellence-green-globe-certification-across-aitken-spence-hotels-maldives-resorts/) · `en`
@@ -1953,285 +2159,5 @@ The five resorts under Aitken Spence Hotels, Heritance Aarah Maldives, Adaaran P
 [Data](articles/f1642ed3.json)
 
 [Extended Data](ext_articles/f1642ed3.ext.json)
-
----
-
-### My Family’s “Black July” Experience: A Personal Memoir.
-
-*2024-07-27 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84405) · `en`
-
-The anti-Tamil pogrom of July 1983 is an unforgettable chapter in the post-independence history of Sri Lanka.  The catastrophic events of that dark month  drastically affected  the lives of large numbers of Tamils in Sri Lanka.
-
-As a Sri Lankan Tamil journalist, Black July did have an effect on me in both personal and professional capacities. Furthermore my family – like thousands of other Tamil families – was also affected and displaced during those turbulent times.
-
-Although I have been writing  extensively about Black July in the past, I did not write about those happenings from a personal perspective  for many,many years.
-
-I  refrained for a long time  from writing about the impact of Black July on our family for two reasons. Firstly I was spared the full blast of that violence because I was not in Colombo then. I was on assignment to cover the Tamil United Liberation Front (TULF) party convention in Mannar.
-
-...
-
-[Data](articles/e547085f.json)
-
-[Extended Data](ext_articles/e547085f.ext.json)
-
----
-
-### 1,095,675 tourists visit
-
-*2024-07-27 00:43:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-095-675-சுற்றுலாப்-பயணிகள்-வருகை/175-341104) · `ta`
-
-Despite challenges like the Easter attack, COVID-19, and an economic crisis, Sri Lanka's tourism sector, which saw 1,095,675 foreign visitors by July 15, is recovering thanks to effective programs by the Ministry of Tourism and its partners. The Secretary of the Ministry predicts it could surpass pre-war levels, even exceeding 2018 figures.
-
-🟩
-
-Until July 15 this year, 1,095,675 foreign tourists visited Sri Lanka.
-
-If this is the case, the Secretary of the Ministry of Tourism and Lands, Somatna Vidanapatrana said that after the war, the peak of the tourism industry in Sri Lanka after the war, could be better than 2018.
-
-He pointed out that tourism in Sri Lanka has fallen due to Easter attack, Kovit 19 infection and economic crisis but has now received successful results due to the proper program launched by the Ministry of Tourism and its affiliates.
-
-He said this at a media briefing held at the Presidential Media Center. (A)
-
-◼️
-
-[Data](articles/985ee5be.json)
-
-[Extended Data](ext_articles/985ee5be.ext.json)
-
----
-
-### Thanks to all political parties supported
-
-*2024-07-27 00:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவளித்த-சகல-அரசியல்-கட்சிகளுக்கும்-நன்றி/175-341103) · `ta`
-
-President Ranil Wickremesinghe thanked political parties supporting the Economic Transfer Bill, crucial for guiding the country's economy. He emphasized the bill's importance in establishing a digital and green export-based economy, highlighting the "Digital Economic Strategy 2030" program aimed at digitalizing the country. This initiative, in collaboration with the Ministries of Education and Technology, aims to equip schools with smart classrooms and support over a million micro, small, and medium entrepreneurs through a QR index program. The project's launch marked the beginning of its implementation in the Kegalle district, distributing smart classroom equipment to schools and sectors, marking the President's first visit to Rambukkana Parakrama Vidyalaya, which received enthusiastic responses from students.
-
-🟩
-
-President Ranil Wickremesinghe thanked all the political parties who supported the Economic Transfer Bill that guided the country's economy on the right path and called on all political parties to continue the project.
-
-The President also pointed out that the bill includes the administrative and institutional structure required to build an export -based digital and green economy in the country.
-
-Under the "Digital Economic Strategy 2030" program, which is co -operating with the Ministries of Education and Technology, the event was held at the Rambukana Parakrama Maha Vidyalaya yesterday (26th) to provide smart classroom equipment to schools and sectors.. President Ranil Wickremesinghe made this statement while addressing the event.
-
-...
-
-[Data](articles/3567a91d.json)
-
-[Extended Data](ext_articles/3567a91d.ext.json)
-
----
-
-### Vikramabahu's funeral today
-
-*2024-07-27 00:33:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்ரமபாகுவின்-இறுதிச்-சடங்கு-இன்று/175-341102) · `ta`
-
-Dr. Wickramabahu Karunaratne, leader of the Nava Sama Samaja Party, passes away from illness. His funeral is today at Borella, 5 pm.
-
-🟩
-
-The funeral of the late Sama Sama Raja Party leader Dr. Wickramabahu Karunaratne will be held today.
-
-It has been announced that the funeral will be held at Borella - 5 pm today.
-
-Karuna Vikramabahu Karunaratne, the leader of the Nava Sama Samaja Party, passed away last Wednesday due to ill health.(a)
-
-◼️
-
-[Data](articles/d29cf9ce.json)
-
-[Extended Data](ext_articles/d29cf9ce.ext.json)
-
----
-
-### President envisions modern economy in 10 years, stronger economic ties in advancing SL
-
-*2024-07-27 00:15:52* · [`dailyftlk`](https://www.ft.lk/news/President-envisions-modern-economy-in-10-years-stronger-economic-ties-in-advancing-SL/56-764819) · `en`
-
-Highlights significance of QR codes in financial transactions; need for public awareness about technology
-
-Calls for collective action in advancing economy; extends gratitude to all political parties in Parliament for support in adopting Economic Transformation Bill
-
-Introduces QR code system aimed at empowering over 1 m MSMEs in Kegalle District
-
-Announces Tourism and Lands Ministry is set to develop seven new projects in Rambukkana Divisional Secretariat under Pinnawala Kithulgala Tourism Development Project
-
-Visits construction site of the Kotelawala Defence University at Wagolla Agricultural Training Centre; presents SLS certifications to entrepreneurs
-
-President Ranil Wickremesinghe yesterday expressed his belief that it is possible to establish a modern economy in Sri Lanka within the next 10 years, ensuring that development benefits both urban and rural areas.
-
-...
-
-[Data](articles/a83dce13.json)
-
-[Extended Data](ext_articles/a83dce13.ext.json)
-
----
-
-### Interim order of Supreme Court and implications
-
-*2024-07-27 00:14:22* · [`dailyftlk`](https://www.ft.lk/columns/Interim-order-of-Supreme-Court-and-implications/4-764818) · `en`
-
-So, it is decision time for Deshabandu Thennakoon, and it is decision time for the Government. And, of course, it is decision time for the people of Sri Lanka
-
-Hearing a set of Fundamental Rights petitions filed by several petitioners including Cardinal Malcolm Ranjith, challenging the appointment of Deshabandu Thennakoon to the post of Inspector General of Police by the President of Sri Lanka, the Supreme Court has issued an interim order preventing Deshabandu Thennakoon from performing the duties of Inspector General of Police. It also ordered that a suitable person be appointed (to act in the post of) IGP.
-
-It is a remarkable decision by the Supreme Court. The interim order will apply until the final determination of the FR petitions challenging the appointment of Deshabandu Thennakoon  as ‘IGP’.
-
-Deshabandu Thennakoon should promptly comply with the SC order. Orders of higher judiciary cannot be ignored except on a pain of punishment by way of contempt of court.
-
-...
-
-[Data](articles/15df6f1c.json)
-
-[Extended Data](ext_articles/15df6f1c.ext.json)
-
----
-
-### SL and Pakistan sign MOU to cooperate in dealing with corruption
-
-*2024-07-27 00:12:54* · [`dailyftlk`](https://www.ft.lk/news/SL-and-Pakistan-sign-MOU-to-cooperate-in-dealing-with-corruption/56-764817) · `en`
-
-The National Accountability Bureau (NAB), Pakistan and the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), Sri Lanka yesterday signed a MOU on mutual cooperation in criminal matters.
-
-It was signed at the office of the CIABOC, Colombo. The High Commissioner of Pakistan Major General (Retd.) Faheem Ul Aziz HI (M) signed on behalf of the NAB while Director General W.K.D. Wijeratne signed for CIABOC.
-
-The MOU endeavours strengthening collaborative efforts against corruption and money laundering as well as capacity and institutional building between the respective institutions of the two countries.
-
-◼️
-
-[Data](articles/5d830ac2.json)
-
-[Extended Data](ext_articles/5d830ac2.ext.json)
-
----
-
-### SL explores more employment opportunities for Lankans in Singapore
-
-*2024-07-27 00:12:22* · [`dailyftlk`](https://www.ft.lk/news/SL-explores-more-employment-opportunities-for-Lankans-in-Singapore/56-764816) · `en`
-
-Sri Lankan High Commissioner to Singapore Senarath Dissanayake met the Singapore Manpower Minister and Trade and Industry Second Minister Dr. Tan See Leng on 18 July and discussed strengthening collaboration in labour-related matters and exploring avenues for expanding job opportunities for Sri Lankan nationals in Singapore.
-
-The discussion primarily focused on emerging employment opportunities for Sri Lankans and issues related to diversifying the employment landscape, particularly on the recruitment of Sri Lankan workers for sectors such as hospitality, healthcare, and manufacturing.
-
-During the meeting, Minister Dr. Tan expressed Singapore’s strong desire to collaborate closely with Sri Lanka and stated that Singapore is constantly on the lookout for skilled and competent workers to support its diverse sectors.
-
-...
-
-[Data](articles/ca8796ea.json)
-
-[Extended Data](ext_articles/ca8796ea.ext.json)
-
----
-
-### Three -wheeler driver murder: two arrested
-
-*2024-07-27 00:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டி-சாரதி-கொலை-இருவர்-கைது/175-341101) · `ta`
-
-In a shocking incident, a three-wheeler driver was murdered near Ward Place National Dental Hospital. Two suspects, who fled the scene in a stolen three-wheeler, were later apprehended. Police recovered a knife and drugs used in the crime, which occurred during an attempted cellphone theft at midnight on the 23rd.
-
-🟩
-
-A three -wheeler driver has been stabbed to death in front of Ward Place National Dental Hospital
-
-Two suspects who escaped with a three -wheeler after the murder have been arrested with a stolen three -wheeler.
-
-The two suspects were among the main suspects and the police have seized the sharp knife and ice drug used for the murder.
-
-Investigations into the suspects revealed that the murder was carried out to steal a cell phone at midnight on the 23rd.. (A)
-
-◼️
-
-[Data](articles/8518fd72.json)
-
-[Extended Data](ext_articles/8518fd72.ext.json)
-
----
-
-### Animal activists help tackle local street dog numbers
-
-*2024-07-27 00:11:51* · [`dailyftlk`](https://www.ft.lk/news/Animal-activists-help-tackle-local-street-dog-numbers/56-764815) · `en`
-
-Prof. Mark Saunders helping a suffering street dog during his Sri Lanka charity walk on 15 April 2023. Initial charity money: The inaugural clinic was paid for by the charity money raised by Prof. Saunders in walking the length of Sri Lanka from Dondra Head to Point Pedro in March-April 2023; a task supported by his wife Chitra Jayasinghe. This walk was 480 miles long, had 39,600 feet of ascent, and took 35 days to complete. It is the first time that an end-to-end walk of Sri Lanka has been achieved to our knowledge.
-
-The animal activists and veterinarians who enabled the first Beragala dog clinic on 29 July 2023. The three activists are (from left) Marie Chothrani, Shamini Rathnayake, and Chitra Jayasinghe. The five veterinarians are dressed in blue with the chief veterinarian wearing light blue tunic.
-
-Animal activists from Beragala near Haputale in the Badulla District are charity-funding clinics to reduce the number of suffering street dogs in their local area.
-
-...
-
-[Data](articles/1e4c8dec.json)
-
-[Extended Data](ext_articles/1e4c8dec.ext.json)
-
----
-
-### Prime Minister and Ministers give green light to operationalising Citra 3.0
-
-*2024-07-27 00:10:17* · [`dailyftlk`](https://www.ft.lk/business/Prime-Minister-and-Ministers-give-green-light-to-operationalising-Citra-3-0/34-764814) · `en`
-
-Prime Minister Dinesh Gunawardena convened a meeting on Wednesday with the Co-Chairs of the Citra Social Innovation Lab Governance Board, Secretary to the Prime Minister Anura Dissanayake, and United Nations Development Program (UNDP) in Sri Lanka Resident Representative Azusa Kubota, together with State Minister of Finance Shehan Semasinghe, State Minister of Technology Kanaka Herath, Technology Ministry Secretary Dr. Dharmasri Kumaratunga, Public Administration Ministry Additional Secretary M. L. Gammampila, and representatives from the Education, Finance and Planning, Public Administration, and Technology Ministries on operationalising Citra 3.0.
-
-...
-
-[Data](articles/412c02fd.json)
-
-[Extended Data](ext_articles/412c02fd.ext.json)
-
----
-
-### National sustainability standard for Ceylon tea soon
-
-*2024-07-27 00:08:51* · [`dailyftlk`](https://www.ft.lk/business/National-sustainability-standard-for-Ceylon-tea-soon/34-764813) · `en`
-
-Agriculture and Plantation Industries Minister Mahinda Amaraweera on Thursday unveiled ambitious plans to establish a comprehensive National Sustainability Standard for Ceylon Tea by the end of 2024.
-
-This was announced during the opening session of the two-day
-
-Industry experts, leading brands, and social organisations from numerous countries, including Kenya, China, India, Japan, the UK, the Gulf countries, and the US, gathered at the convention, representing the entire global tea value chain from crop to cup.
-
-He said the landmark initiative aims to solidify the country’s position in the global tea industry, whilst addressing pressing challenges like climate change, enhancing the welfare of plantation workers and smallholder farmers.
-
-Amaraweera stressed that the new sustainability standard marks a significant milestone for Sri Lanka’s tea sector, setting the stage for a regenerative agriculture model focused on low-carbon tea production.
-
-...
-
-[Data](articles/2c0bd2a1.json)
-
-[Extended Data](ext_articles/2c0bd2a1.ext.json)
-
----
-
-### “SANASA Way Forward (SANASA Idiriya)” latest phase held in Jaffna
-
-*2024-07-27 00:07:44* · [`dailyftlk`](https://www.ft.lk/business/SANASA-Way-Forward-SANASA-Idiriya-latest-phase-held-in-Jaffna/34-764812) · `en`
-
-Another phase of the “SANASA Way Forward” program series, conceived by the leader of the SANASA Group Dr. P.A. Kiriwandeniya, was successfully held on 18 and 19 July at the Tilko Hotel in Jaffna.
-
-The event was attended by representatives from all the political parties in the area. The chief guest, Parliamentarian Angajan Ramanathan, along with public and private sector representatives, participated in the proceedings.
-
-On the first day, politicians, civil servants, and private sector stakeholders were introduced to the concept of “SANASA Way Forward”. The second day focused on informing the general public, a crucial group for driving a productive economy, about the initiative. Approximately 500 SANASA members and non-members attended the event, where Dr. Kiriwandeniya provided a detailed introduction to the structure of “SANASA Way Forward”.
-
-...
-
-[Data](articles/b92bcc6f.json)
-
-[Extended Data](ext_articles/b92bcc6f.ext.json)
-
----
-
-### Boost for Sri Lankan products at Charoen Pokphand Group Global Sourcing Expo 2024 in Thailand
-
-*2024-07-27 00:06:54* · [`dailyftlk`](https://www.ft.lk/business/Boost-for-Sri-Lankan-products-at-Charoen-Pokphand-Group-Global-Sourcing-Expo-2024-in-Thailand/34-764811) · `en`
-
-With a view of expanding Sri Lanka’s export basket to Thailand, the Embassy and Permanent Mission of Sri Lanka in Bangkok introduced the National Crafts Council of Sri Lanka and prominent Sri Lankan businessmen to the CP Group which, owns renowned retail chains, Lotus’s, Macro, and Seven Eleven in Thailand.
-
-The CP Group Global Sourcing Expo was held at the Renaissance Bangkok Ratchaprasong Hotel, providing a dynamic platform for international business people and food producers to network, showcase their products, and negotiate business deals with CP Foods and CP Group partners, including leading restaurant operators, hotels, and food service businesses both domestically and internationally. The event aimed to provide Thai people with the opportunity to access high-quality food from around the world and promote Thailand as a world food centre.
-
-...
-
-[Data](articles/d82c17a2.json)
-
-[Extended Data](ext_articles/d82c17a2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 18:25:20**
+As of **2024-07-28 18:36:38**
 
 ## Newspaper Stats
 
-*Scraped **37,690** Articles*
+*Scraped **37,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
 adalk | 3,433
-adaderanalk | 4,369
-tamilmirrorlk | 4,658
+adaderanalk | 4,370
+tamilmirrorlk | 4,659
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,344
+adaderanasinhalalk | 6,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,689 (100.0%) of 37,690 articles have been extended.
+37,690 (100.0%) of 37,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### Sri Lanka Women clinch first-ever Asia Cup title
+
+*2024-07-28 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100840/sri-lanka-women-clinch-first-ever-asia-cup-title-) · `en`
+
+Sri Lanka women won their first-ever Women’s Asia Cup title as they beat seven-time champions India by 8 wickets in the final on Sunday.
+
+Chasing the highest-ever target of 165 in the tournament for Sri Lanka, skipper Chamari Athapaththu smashed an impressive 61 runs with 2 sixes and 9 boundaries.
+
+To offset the disappointment of Vishmi Gunaratne’s early run-out against India, Harshitha Samarawickrama bolstered Sri Lanka’s scoreboard by adding another half-century. Samarawickrama hit 69* in just 51 deliveries, while Kaveesha Dilhari scored 30*.
+
+Having won the toss, India’s Captain Harmanpreet Kaur elected to bat first against Sri Lanka where they smashed 165 runs for the fall of 3 wickets.
+
+Opener Shafali Verma, who scored 16, was the first strike for Sri Lanka Women. India’s Smriti Mandhana led the charge with a powerful 60, propelling India towards a formidable total.
+
+...
+
+[Data](articles/30a00530.json)
+
+---
+
+### பொலிஸ்மா அதிபர் சர்ச்சை குறித்து ரணில் வெளியிட்ட செய்தி
+
+*2024-07-28 18:13:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-சர்ச்சை-குறித்து-ரணில்-வெளியிட்ட-செய்தி/175-341170) · `ta`
+
+பொலிஸ்மா அதிபர் தொடர்பில் எழுந்துள்ள பிரச்சினைகள் குறித்து சபாநாயகர் மற்றும் பிரதம நீதியரசர் ஆகியோர் பேச்சுவார்த்தை நடாத்தி தீர்வு காண வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/a0b3efb3.json)
+
+---
+
+### ආසියානු කාන්තා ක්‍රිකට් ශූරතාවය ශ්‍රී ලංකාවට
+
+*2024-07-28 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199307) · `si`
+
+ඉන්දීය කාන්තා ක්‍රිකට් කණ්ඩායම පරාජය කරමින් ආසියානු කාන්තා ක්‍රිකට් ශූරතාවය දිනා ගැනීමට චමරි අතපත්තු ප්‍රමුඛ ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සමත් විය.
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම මෙම ශූරතාවය දිනා ගැනීමට සමත්වූයේ පළමු වරටය.
+
+තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 165ක් රැස්කළේය.
+
+ඊට පිළිතුරු ලෙස ශ්‍රී ලංකා කණ්ඩායම පන්දු ඕවර 18.4කදී කඩුලු 2ක් දැවී ලකුණු 167ක් ලබාගනිමින් තරගයේ ජය වාර්තා කළේය.
+
+ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් අතපත්තු පන්දු 43කදී ලකුණු 61ක් ලබා ගත් අතර ජයග්‍රහණයේ නියමුවා වූ හර්ෂිතා සමරවික්‍රම නොදැවී ලකුණු 69ක් රැස් කළාය.
+
+◼️
+
+[Data](articles/9f4d7c80.json)
+
+---
 
 ### Government to transform 1,250 schools into ‘Smart Schools’
 
@@ -47,6 +99,8 @@ Premajayantha also highlighted the progress of the new education system, set to 
 ...
 
 [Data](articles/c3b70d87.json)
+
+[Extended Data](ext_articles/c3b70d87.ext.json)
 
 ---
 
@@ -2261,77 +2315,5 @@ The Elections Commission also issued the Elections Commission from the District 
 [Data](articles/441588c6.json)
 
 [Extended Data](ext_articles/441588c6.ext.json)
-
----
-
-### Basil demands poly - Basil and Ranil meets
-
-*2024-07-27 23:04:29* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-මස්-රාත්තලම-ඉල්ලයි----හෙටත්-බැසිල්-හා-රනිල්-හමුවක්/11-411030) · `si`
-
-Basil Rajapaksa and President Ranil Wickremesinghe discussed the UPFA, with disagreements over local and provincial council percentages leading to no resolution. The meeting will resume this Sunday.
-
-🟩
-
-President Ranil Wickremesinghe and former Minister of President Ranil Wickremesinghe and former Minister Basil Rajapaksa have held a lengthy discussion on the UPFA.
-
-The President has stated that thirty percent of the local government bodies will be given to the Sri Lanka Appointment Forty to five percent for the provincial councils.
-
-Basil Rajapaksa has asked for seven percent for local government bodies and asked for seven percent of the parliamentary councils. Accordingly, the discussion has ended without solution.
-
-The President and Basil Rajapaksa will be taken back to this Sunday.
-
-◼️
-
-[Data](articles/f0a3489c.json)
-
-[Extended Data](ext_articles/f0a3489c.ext.json)
-
----
-
-### Mass change
-
-*2024-07-27 23:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கல்வி-முறையில்-பாரிய-மாற்றம்/175-341124) · `ta`
-
-Educational reform reduces first-year tuition from 2025, allowing students to finish schooling by 17. The 5th-grade scholarship exam will simplify grading, considering school performance and exam scores. The GCE Ordinary Level Exam subjects will decrease from 9 to 7.
-
-🟩
-
-The first installment of the educational reform will be reduced from 2025 to 13 to 12, the Ministry of Education said.
-
-It has also been reported that students can complete school education by the age of 17.
-
-Of these, the 5th grade scholarship examination has been proposed to ease the exam by awarding school estimates and certain percentage points for exams.
-
-In addition, the subjects for the GCE Ordinary Level Examination will be reduced from 9 to 7. Remble
-
-◼️
-
-[Data](articles/ccd5fdf3.json)
-
-[Extended Data](ext_articles/ccd5fdf3.ext.json)
-
----
-
-### Massive change in Sri Lanka's educational system
-
-*2024-07-27 23:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கல்வி-முறையில்-பாரிய-மாற்றம்-வெளிவந்த-செய்தி/175-341124) · `ta`
-
-Sri Lanka's educational reform reduces the first installment from 2025 to 13-12 years, allowing students to finish schooling by 17. The 5th grade scholarship exam will simplify grading, and the GCE Ordinary Level subjects will decrease from 9 to 7.
-
-🟩
-
-The first installment of the educational reform will be reduced from 2025 to 13 to 12, the Ministry of Education said.
-
-It is also reported that students can complete school education by the age of 17.
-
-Of these, the 5th grade scholarship examination has been proposed to ease the exam by awarding school estimates and certain percentage points for exams.
-
-In addition, the subjects for the GCE Ordinary Level Examination will be reduced from 9 to 7. Remble
-
-◼️
-
-[Data](articles/f3f7fc3d.json)
-
-[Extended Data](ext_articles/f3f7fc3d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 15:54:31**
+As of **2024-07-28 16:06:33**
 
 ## Newspaper Stats
 
-*Scraped **37,679** Articles*
+*Scraped **37,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,367
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,339
+adaderanasinhalalk | 6,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,678 (100.0%) of 37,679 articles have been extended.
+37,678 (100.0%) of 37,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### මදුරෝ ගේ මගඩි සහ වෙනිසියුලා ජනාධිපතිවරණය
+
+*2024-07-28 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199302) · `si`
+
+දූෂණ චෝදනා, මැතිවරණ මගඩි සහ බලය අනිසි ලෙස භාවිත කෙරෙන බවට එල්ලවන චෝදනා මැද වෙනිසියුලාවේ ජනාධිපතිවරණය අද (28) පැවැත්වේ.
+
+වසර 06ක කාලයක් සඳහා ජනාධිපතිවරයෙකු තෝරා පත් කරගැනීම වෙනුවෙන් පැවැත්වෙන මෙම මැතිවරණය සඳහා වත්මන් ජනාධිපති නිකොලොස් මදුරෝ ද ඉදිරිපත්ව සිටියි.
+
+2013 වසරේ එරට හිටපු ජනාධිපති හියුගෝ චාවේස්ගේ අභාවයෙන් පසු වෙනිසියුලාවේ ජනාධිපති ධුරයට පත් වූ නිකොලොස් මදුරෝ මෙවර ජනාධිපතිවරණයට තරග වදින්නේ සිය තෙවන ධුර කාලය වෙනුවෙනි.
+
+කෙසේවෙතත් මෙවර ජනාධිපතිවරණය වසර 25ක කාලයක් පුරා වෙනිසියුලාවේ බලය හොබවන එක්සත් සමාජවාදී පක්ෂයට ප්‍රබල අභියෝගයක් වී ඇති බව දේශපාලන විචාරකයින් පෙන්වාදෙයි.
+
+◼️
+
+[Data](articles/6447bd81.json)
+
+---
 
 ### ඉරානයේ ලොකු වෙනසක්
 
@@ -2291,27 +2309,5 @@ Meanwhile, Presidential Chief of Staff Sunala Ratnayake and Minister Susil Prema
 [Data](articles/dfb8addc.json)
 
 [Extended Data](ext_articles/dfb8addc.ext.json)
-
----
-
-### India gathers 214 runs
-
-*2024-07-27 21:16:34* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාව-ලකුණු-214ක්-රැස්-කරයි/9-411027) · `si`
-
-In a cricket match, India scored 213 runs against Sri Lanka at the Pallekele International Cricket Stadium. Despite this, Sri Lanka managed to surpass India's total with 214 runs. The Indian bowlers struggled, with Pathirana taking 4 wickets for 40 runs in 4 overs.
-
-🟩
-
-India scored 213 runs for Sri Lanka 214 in Sri Lanka with a large number of 214 runs in the Pallekele Twenty Ground.
-
-The Indian Stock batsmen were able to score the Indian bowlers to the bowlers.
-
-Visitor Pathirana took 4 wickets for 40 runs in 4 overs.
-
-◼️
-
-[Data](articles/d5558bb2.json)
-
-[Extended Data](ext_articles/d5558bb2.ext.json)
 
 ---

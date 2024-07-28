@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 13:35:58**
+As of **2024-07-28 13:54:51**
 
 ## Newspaper Stats
 
-*Scraped **37,666** Articles*
+*Scraped **37,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,87 @@ adaderanalk | 4,364
 tamilmirrorlk | 4,656
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,333
+adaderanasinhalalk | 6,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,664 (100.0%) of 37,666 articles have been extended.
+37,666 (100.0%) of 37,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### ඩෙංගු අවදානම් කලාප මෙන්න
+### පොහොට්ටුවේ ජනපති අපේක්ෂයා ගැන මහින්ද කී දේ
+
+*2024-07-28 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199297) · `si`
+
+ජනාධිපති අපේක්ෂකත්වය පිළිබඳ ශ්‍රී ලංකා පොදුජන පෙරමුණේ තීන්දුව හෙට (29) දිනයේ ගැනීමට නියමිත බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+මාධ්‍යවේදීන් විසින් ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු ඒ බව සඳහන් කළේය.
+
+ප්‍රශ්නය - ධම්මික පෙරේරා මහතා අපි දැක්කා ඔබතුමාලා එක්ක ඉන්නවා ?
+
+ප්‍රශ්නය - ජනාධිපති ගාල්ලේදී ප්‍රකාශ කරලා තියෙනවා එතුමා ජනාධිපතිවරණයට ඉදිරිපත් වෙන බව ?
+
+නෑ... අපේ පක්ෂයෙන් දාන කෙනාට සහාය දෙනවා. අපේ පක්ෂයෙන් තීන්දු කරන්න ඕනේ ඒක. මම අපේ පක්ෂය කියන එක තමයි අහන්නේ. එයාට සහාය දෙන්න කිව්වොත් අම්මෝ උඩින් දෙන්නේ. හැබැයි පක්ෂය කිව්වොත් එයාට විරුද්ධව වෙන කෙනෙක් දාමූ කියලා ඒකට එකඟවෙනවා.
+
+◼️
+
+[Data](articles/6d494e86.json)
+
+---
+
+### පාන්වලට පාලන මිලක් එන ලකුණු
+
+*2024-07-28 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199296) · `si`
+
+ලබන සතියේ සිට ග්‍රෑම් 450ක පාන් ගෙඩියක් රුපියල් 130ක මිලකට අලෙවි නොකළහොත් පාන් සඳහා පාලන මිලක් ගෙන ඒමට සිදුවන බව පාරිභෝගික සේවා අධිකාරිය පවසයි.
+
+එහි වැටලීම් සහ විශේෂ විමර්ශන අංශයේ අධ්‍යක්ෂ සංජය ඉරසිංහ මහතා පැවසුවේ, කඩයක් සඳහා රුපියල් ලක්ෂයක් සහ සමාගමක් හෝ ආයතනයක් නම් රුපියල් ලක්ෂ 5 සිට ලක්ෂ 50ක් දක්වා දඩ නියම කිරීමට හැකියාව ති බවය.
+
+පාන් සඳහා නියමිත මිලක් නොමැති බවටත්, ඇතැම් පාන්වල නියමිත බර නොමැති බවටත් පාරිභෝගිකයින් ඇතුළු පාර්ශ්ව වරින්වර චෝදනා එල්ල කළේය.
+
+ඒ අනුව පාරිභෝගික සේවා අධිකාරිය වරින්වර ඒ සම්බන්ධයෙන් වැටලීම්ද සිදුකරනු ලැබීය.
+
+එවන් පසුබිමක ඉකුත් පෙබරවාරි 02 වැනිදා පාන් ගෙඩියක පැවතිය යුතු නියමිත බර ප්‍රමාණය සම්බන්ධයෙන් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය ගැසට් නිවේදනයක්ද නිකුත් කළේය.
+
+එහි දැක්වුණේ, පාන් ගෙඩියක අවම බර ග්‍රෑම් 450ක් සහ පාන් බාගයක අවම බර ග්‍රෑම් 225ක් විය යුතු බවය.
+
+මෙවැනි වාතාවරණයක් තුළ ඉකුත් සිකුරාදා මධ්‍යම රාත්‍රියේ සිට ග්‍රෑම් 450ක් බරැති පාන් ගෙඩියක මිල රුපියල් 10 කින් අඩු කරන බව සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමය නිවේදන කළේය.
+
+◼️
+
+[Data](articles/43d1777d.json)
+
+---
+
+### Here are dengue risk zones
 
 *2024-07-28 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199295) · `si`
 
-මේ වසරේ ගත වූ කාල සීමාව තුළ ඩෙංගු මරණ 13ක් වාර්තා වී ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.
+This year, there have been 32,183 dengue cases reported, with the highest numbers in the Western Province (12,786), followed by Colombo (7,585) and Gampaha districts (3,452). The Northern Province reported 4,589 cases, with Jaffna leading at 4,020. The Sabaragamuwa Province had 3,329 cases. Thirteen deaths were also reported.
 
-එම කාලය තුළ ඩෙංගු රෝගීන් 32,183 දෙනෙකු වාර්තා වී ඇති බව ඔවුන් පෙන්වාදෙයි.
+🟩
 
-ඉන් වැඩිම රෝගීන් සංඛ්‍යාවක් බස්නාහිර පළාතෙන් වාර්තා වී ඇති අතර එම සංඛ්‍යාව 12,786ක් බව සඳහන්ය.
+Thirteen deaths have been reported during the past period this year, the National Dengue Control Unit said.
 
-කොළඹ දිස්ත්‍රික්කයෙන් පමණක් ඩෙංගු රෝගීන් 7,585 දෙනෙකු හඳුනාගෙන ඇති අතර ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 3,452 දෙනෙකු හඳුනාගෙන තිබේ.
+They show that 32,183 dengue patients have been reported during that period.
 
-උතුරු පළාතෙන් රෝගීන් 4,589 දෙනෙකු වාර්තා වී ඇති අතර යාපනය දිස්ත්‍රික්කයෙන් පමණක් රෝගීන් 4,020 දෙනෙකු හඳුනාගෙන ඇති බව ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේය.
+The highest number of cases were reported from the Western Province and 12,786 were reported.
 
-සබරගමුව පළාතෙන් ද මේ වසරේ ගත වූ කාලය තුළ ඩෙංගු රෝගීන් 3,329 දෙනෙකු වාර්තා වී තිබේ.
+7,585 dengue patients have been identified in the Colombo District and 3,452 patients have been identified from Gampaha District.
+
+4,589 patients have been reported from the Northern Province and 4,020 patients have been identified in the Jaffna district alone.
+
+In the Sabaragamuwa Province, 3,329 dengue patients have been reported this year.
 
 ◼️
 
 [Data](articles/6114f49c.json)
+
+[Extended Data](ext_articles/6114f49c.ext.json)
 
 ---
 
@@ -916,19 +966,25 @@ He said that the statement made by former President Maithripala Sirisena was pre
 
 ---
 
-### රු. 1000ක අල්ලසක් ගන්න ගිය ත්‍රිරෝද රියදුරුට වැඩ වරදියි
+### Rs. The three-wheeler driver to take a bribe of 1000
 
 *2024-07-28 09:04:23* · [`adalk`](https://www.ada.lk/breaking_news/රු--1000ක-අල්ලසක්-ගන්න-ගිය-ත්‍රිරෝද-රියදුරුට-වැඩ-වරදියි/11-411036) · `si`
 
-කුරුඳුවත්ත පොලිසියේ රථ වාහන අංශයේ පොලිස් කොස්තාපල්වරයෙකුට රුපියල් 1000/= අල්ලස් මුදලක් ලබාදීමට තැත් කිරීම සම්බන්ධයෙන් ත්‍රිරෝද රථ රියදුරෙකු අත්අඩංගුවට ගත් බව කුරුඳුවත්ත පොලිසිය කියයි.
+A three-wheeler driver from Walaus Walaus Mulla, aged 30, was arrested for attempting to accept a 1,000 rupee bribe. He has been transferred to the Commission to Investigate Allegations of Bribery or Corruption for further investigation.
 
-කුරුඳුවත්ත  බෞද්ධාලෝක මාවතේ රථවාහන රාජකාරී යෙදී සිටියදී ත්‍රී රෝද රථයක් නවතා රථ වාහන වරදක් සම්බන්ධයෙන් නඩුවක් ලබා ගැනීමට යාමේදී දඩපත්‍රයක් නිකුත් නොකරන ලෙසට පවසා රුපියල් 1000/= අල්ලස් මුදලක් ලබාදීමට තැත් කිරීම සම්බන්ධයෙන් රියැදුරු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගත් රියදුරු වලස් මුල්ල ප්‍රදේශයේ පදිංචි තිස් 38  හැවිරිදි  පුද්ගලයෙකි. සැකකරු වැඩිදුර විමර්ශන සඳහා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂම වෙත භාරදීමට කටයුතු කර ඇත.
+The three-wheeler driver has been arrested in connection with the attempted attempt to provide a bribery amount of Rs.
+
+The driver has been arrested for attempting to issue a bribery and attempt to provide a bribe of Rs.
+
+Thirty year old resident of Walaus Walaus Mulla area. The suspect has been handed over to the Commission to Investigate Allegations of Bribery or Corruption for further investigations.
 
 ◼️
 
 [Data](articles/cc2780b5.json)
+
+[Extended Data](ext_articles/cc2780b5.ext.json)
 
 ---
 
@@ -2245,55 +2301,5 @@ Civil defense workers in Gaza said that thousands were sheltering in the school,
 [Data](articles/2e78dd38.json)
 
 [Extended Data](ext_articles/2e78dd38.ext.json)
-
----
-
-### Police officer suspended the incident in case that marijuana was
-
-*2024-07-27 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199274) · `si`
-
-A police constable was suspended after attempting to arrest individuals found with drugs during a traffic stop, as captured in a viral video. The incident occurred near the Kollupitiya Police Station, involving the constable and others. Allegations include misconduct and possible involvement with the vehicle's occupants.
-
-🟩
-
-The police constable was banned in the video advertised to arrest a drug parcel during a police traffic examination and attempted to arrest a group of youths.
-
-According to the Colombo South Senior Superintendent of Police, the police constable has been suspended.
-
-The police constable is attached to Kollupitiya Police Station and a group of other officials were involved in working in the area and was engaged in duties between Ananda Kumara and Colonel TV Mawatha.
-
-It is said that the cavity was deployed in the car to investigate the car and tried to arrest people in the car.
-
-The incident has been videoed in the car and released to the social media.
-
-Accordingly, the police constable has been suspended under several allegations of being bulled from the duties and a member of the driver or a member of the vehicle.
-
-◼️
-
-[Data](articles/9b46643d.json)
-
-[Extended Data](ext_articles/9b46643d.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-07-27 18:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199273) · `si`
-
-In the first of three cricket matches against India, Sri Lanka won the toss and elected to field, aiming to capitalize on early conditions at the Pallekele Cricket Stadium.
-
-🟩
-
-The first match of 3 matches between Sri Lanka and India will be held today at Pallekele Cricket Stadium today (27).
-
-Sri Lanka won the toss and win the coin.
-
-Accordingly, they decided to invite the Indian team to bat first.
-
-◼️
-
-[Data](articles/e74d888b.json)
-
-[Extended Data](ext_articles/e74d888b.ext.json)
 
 ---

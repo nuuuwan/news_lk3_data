@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 04:05:47**
+As of **2024-07-29 04:20:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,760 (100.0%) of 37,764 articles have been extended.
+37,764 (100.0%) of 37,764 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Speaking at a press conference yesterday, Rahman criticised the President for at
 
 [Data](articles/03110404.json)
 
+[Extended Data](ext_articles/03110404.ext.json)
+
 ---
 
 ### Govt. gets Worker’s Tribunal Decision
@@ -65,6 +67,8 @@ The Worker’s Tribunal Decision was by three eminent retired Judges from Sri La
 ...
 
 [Data](articles/87c8fe4b.json)
+
+[Extended Data](ext_articles/87c8fe4b.ext.json)
 
 ---
 
@@ -88,6 +92,8 @@ Jayasekara was responding to questions posed by media personnel regarding former
 
 [Data](articles/d324ddd0.json)
 
+[Extended Data](ext_articles/d324ddd0.ext.json)
+
 ---
 
 ### Continued proscription of LTTE in EU
@@ -101,6 +107,8 @@ The proscribed persons, groups and entities are subject to the freezing of its f
 ◼️
 
 [Data](articles/21f58c61.json)
+
+[Extended Data](ext_articles/21f58c61.ext.json)
 
 ---
 

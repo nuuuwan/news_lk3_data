@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 15:35:49**
+As of **2024-07-28 15:54:31**
 
 ## Newspaper Stats
 
-*Scraped **37,678** Articles*
+*Scraped **37,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,367
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,338
+adaderanasinhalalk | 6,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,678 (100.0%) of 37,678 articles have been extended.
+37,678 (100.0%) of 37,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### ඉරානයේ ලොකු වෙනසක්
+
+*2024-07-28 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199301) · `si`
+
+ඉරානයේ පසුගියදා පැවති ජනාධිපතිවරණයෙන් ජයගත් මධ්‍යස්ථ මතධාරියෙක් ලෙස සැලකෙන මසූඩ් පෙසෙෂ්කියන් ව එරට ජනාධිපතිවරයා ලෙස ඉරාන අධ්‍යාත්මික නායකයා විසින් පිළිගෙන ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඉරාන විදෙස් ප්‍රතිපත්තිය වඩාත් ප්‍රායෝගික කිරීමටත් රට තුළ ජනතාවට එරෙහිව සිදු කෙරෙන පීඩාකාරී සිදුකිරීම් ලිහිල් කිරීමටත් මසූඩ්  ලබාදුන් මැතිවරණ පොරොන්දුවකි.
+
+◼️
+
+[Data](articles/686eddd8.json)
+
+---
 
 ### Special circular for govt officials over Presidential Election
 
@@ -2299,21 +2313,5 @@ Visitor Pathirana took 4 wickets for 40 runs in 4 overs.
 [Data](articles/d5558bb2.json)
 
 [Extended Data](ext_articles/d5558bb2.ext.json)
-
----
-
-### When Sarath Fonseka  Challenged Mahinda  Rajapaksa  For The Presidency in 2010.
-
-*2024-07-27 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84445) · `en`
-
-Gardihewa Sarath Chandralal Fonseka known generally as Sarath Fonseka has  thrown his hat into the presidential poll ring again . The former army commander who is  Sri Lanka’s one and only Field Marshal has stated in a post on “X”(Twitter) that he would be a contender at the forthcoming presidential election. The following is  Fonseka’s formal announcement –
-
-“I wish to announce my Presidential Candidacy to the people of Sri Lanka. For 76 years, we have been led by an inept political group that has led us to bankruptcy. For Sri Lanka to grow, we need to #Crush Corruption We need to leverage our natural resources to boost income generation. This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election. I invite every Sri Lankan to join me to take Sri Lanka forward.”
-
-...
-
-[Data](articles/5774409a.json)
-
-[Extended Data](ext_articles/5774409a.ext.json)
 
 ---

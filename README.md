@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 02:05:50**
+As of **2024-07-29 02:20:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,748 (100.0%) of 37,752 articles have been extended.
+37,752 (100.0%) of 37,752 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Devolution of power deepens democracy by bringing government closer to the peopl
 
 [Data](articles/e14e6fa8.json)
 
+[Extended Data](ext_articles/e14e6fa8.ext.json)
+
 ---
 
 ### Green innovations for sustainability
@@ -59,6 +61,8 @@ We are living in an era where nature pleadingly seeks human support for its surv
 ...
 
 [Data](articles/9264a55f.json)
+
+[Extended Data](ext_articles/9264a55f.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ Amal leaves behind him a masterclass in humility, caring, devotion and passion
 
 [Data](articles/e418e21c.json)
 
+[Extended Data](ext_articles/e418e21c.ext.json)
+
 ---
 
 ### Child’s guide to debt and debt restructuring: Part IV
@@ -91,6 +97,8 @@ Aseni and Sarath Mahatthaya have been continuing their interactive conversation 
 ...
 
 [Data](articles/47284dfe.json)
+
+[Extended Data](ext_articles/47284dfe.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 08:54:56**
+As of **2024-07-28 09:05:57**
 
 ## Newspaper Stats
 
-*Scraped **37,613** Articles*
+*Scraped **37,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,84 @@ economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,420
 adaderanalk | 4,357
-tamilmirrorlk | 4,639
+tamilmirrorlk | 4,641
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,323
+adaderanasinhalalk | 6,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,610 (100.0%) of 37,613 articles have been extended.
+37,613 (100.0%) of 37,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### ජනාධිපතිවරණයට අදාළ මූලික මුද්‍රණ කටයුතු අවසන්
+### දියේ ගිලී ජීවිත දෙකක් අහිමි වෙයි
+
+*2024-07-28 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199285) · `si`
+
+ප්‍රදේශ දෙකක දී කාන්තාවක් ඇතුළු පුද්ගලයින් දෙදෙනෙකු දියේ ගිලී මියගොස් ඇති බව පොලීසිය පවසයි.
+
+ඉපලෝගම, කලා වැවේ දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී කලාවැව රෝහලට ඇතුළත් කිරීමේදී මියගොස් ති‍බේ.
+
+එලෙස මියගොස් ඇත්තේ, ඌරුගොඩ, වැලිපැන්න ප්‍රදේශයේ පදිංචිව සිටි 47 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර ඇහැටුවැව පොලිස් වසමේ මකුලෑව වැවේ දිය නෑමට ගොස් සිටි කාන්තාවක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, හෙට්ටිගම, මකුලෑව ප්‍රදේශයේ පදිංවිව සිටි 58 හැවිරිදි කාන්තාවකි.
+
+◼️
+
+[Data](articles/43139940.json)
+
+---
+
+### Preliminary printing of presidential election is over
 
 *2024-07-28 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199284) · `si`
 
-ජනාධිපතිවරණයට අදාළව මූළික මුද්‍රණ කටයුතු රජයේ මුද්‍රණාලය විසින් අවසන් කර මැතිවරණ කොමිෂන් සභාව වෙත භාරදී තිබේ.
+The preliminary printing for the presidential election is complete, with all necessary documents ready for future election activities. The government's printing press has finished its work, and election officials have been appointed across districts. A gazette was released, naming Assistant Selection Officers for each electorate.
 
-ඒ අනුව, ජනාධිපතිවරණයට අදාළ නාමයෝජනා සහ ඇප මුදල් තැන්පත් කිරීමට අදාළ මුද්‍රණ කටයුතු රජයේ මුද්‍රණාලය විසින් අවසන් කර ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-මැතිවරණ නිලධාරීන් පත්කිරීමේ ගැසට් නිවේදනය ද මේ වනවිට මුද්‍රණාලය විසින් ප්‍රකාශයට පත්කර තිබේ.
+The Government Press has been completed by the government's printing work regarding the presidential election.
 
-ඒ අනුව එක් එක් දිස්ත්‍රික්කවල දිස්ත්‍රික් ලේකම්වරයා තේරීම්භාර නිලධාරීවරයා ලෙස පත්කරමින් ගැසට් පත්‍රයක් මේ වනවිට නිකුත් කර ඇති බව සඳහන්ය.
+Accordingly, the government press stated that the government's printing press has been completed by the government's printing and printing of the presidential election.
 
-එමෙන්ම එක් එක් මැතිවරණ කොට්ඨාස සඳහා සහකාර තේරීම්භාර නිලධාරීන් ප්‍රකාශයට පත්කරමින් මැතිවරණ කොමිෂන් සභාව විසින් ගැසට් පත්‍රයක් ප්‍රකාශයට පත්කර තිබේ.
+The printing press has also been announced by the appointment of election officials.
 
-අද දෙරණ සිදුකළ විමසීමකට පිළිතුරු ලබාදෙමින් රජයේ මුද්‍රණාලයාධිපතිනි ගංගා කල්පනී ලියනගේ මහත්මිය සඳහන් කළේ මැතිවරණයේ ඉදිරි කටයුතු සඳහා අවශ්‍ය ලිපි ලේඛන මුද්‍රණ කිරීමේ කටයුතු මේ වනවිට අඛණ්ඩව සිදුකරමින් පවතින බවය.
+Accordingly, a gazette has been released by appointing the District Secretary of the District Secretary in each district.
+
+The Elections Commission has declared a gazette by the Elections Commission by announcing the Assistant Selection Officers to each electorate.
+
+Representatives of Ada Derana, the Government Printer Ganga Liyanage said that printing of documents required for the future activities of the election are now continuing.
 
 ◼️
 
 [Data](articles/adf864e1.json)
+
+[Extended Data](ext_articles/adf864e1.ext.json)
+
+---
+
+### அரசாங்கத்தின் நிலைப்பாட்டுக்கு சட்டத்தரணிகள் சங்கம் கண்டனம்
+
+*2024-07-28 08:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-நிலைப்பாட்டுக்கு-சட்டத்தரணிகள்-சங்கம்-கண்டனம்/175-341130) · `ta`
+
+அரசியலமைப்பு பேரவையின் அங்கீகாரத்துடன் ஜனாதிபதி மேற்கொண்ட நியமனங்களை உயர்நீதிமன்றம் கேள்விக்கு உட்படுத்த முடியாது என்ற அரசாங்கத்தின் கருத்தை முற்றிலும் ஏற்றுக் கொள்ள முடியாது என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+
+பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன் நியமிக்கப்பட்டமை தொடர்பில், உயர் நீதிமன்றத்தினால் அண்மையில் பிறப்பிக்கப்பட்ட இடைக்கால தடையுத்தரவு தொடர்பில், இலங்கை சட்டத்தரணிகள் சங்கத்தின் நிலைப்பாட்டை வெளிப்படுத்தும் அறிக்கையில் இந்த விடயம் குறிப்பிடப்பட்டுள்ளது.
+
+கடந்த 26 ஆம் திகதி பாராளுமன்றத்தில் உரையாற்றிய பிரதமர் தினேஷ் குணவர்தன, பொலிஸ் மா அதிபர் நியமனத்திற்கு அரசியலமைப்பு பேரவை வழங்கிய அனுமதியை நீதிமன்றத்தால் மாற்ற முடியாது என குறிப்பிட்டார்.
+
+இந்த நிலையில், அரசாங்கத்தின் நிலைப்பாட்டை ஏற்க முடியாது எனவும், பொலிஸ் மா அதிபரின் நியமனம் தொடர்பான அரசாங்கத்தின் நிலைப்பாட்டைக் கண்டிப்பதாகவும் இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/565d1edb.json)
 
 ---
 
@@ -74,23 +118,29 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 
 ---
 
-### මාර්ග සංවර්ධන අධිකාරියේ සභාපති ඉල්ලා අස්වෙයි
+### Chairman of the Road Development Authority resigns
 
 *2024-07-28 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199283) · `si`
 
-මාර්ග සංවර්ධන අධිකාරියේ සභාපති සී.පී. අතළුවගේ මහතා මහතා සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+CP. Mr. Language, Chairman of the Road Development Authority, has resigned due to the improper influence and negative impacts of the Transport Development Authority on its operations. The resignation letter has been forwarded to the President through the Secretary. This decision comes after several instances of misuse and interference affecting the authority's top management. Despite advancements in national rules and employee growth over the last four and a half years, Mr. Language has chosen to step down from his position.
 
-අදාළ ඉල්ලා අස්වීම ජනාධිපති ලේකම්වරයා වෙත යොමුකර ඇති අතර මේ සම්බන්ධයෙන් ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා දැනුවත් කර ඇති බව අතළුවගේ මහතා "අද දෙරණ" කළ විමසීමකදී සඳහන් කළේය.
+🟩
 
-මාර්ග සංවර්ධන අධිකාරියේ රාජකාරී කටයුතු සම්බන්ධයෙන් ප්‍රවාහන හා මහාමාර්ග අමාත්‍යංශ ලේකම්වරයාගේ අත්තනෝමතික මැදිහත්වීම හා අනිසි බලපෑම් හේතුවෙන් එම තීරණය ගත් බව අතළුවගේ මහතා පැවසීය.
+Chairman of the Road Development Authority CP. Mr. Language has resigned from his post.
 
-පසුගිය කාලසීමාව තුළ එම අනිසි බලපෑම් සහ මැදිහත්වීම් නිරන්තරයෙන් සිදුවූ අතර වර්තමානයේ දී ආයතනයේ ඉහළ කළමනාකාරීත්වය වෙත සෘජු බලපෑම් එල්ල කර මාර්ග සංවර්ධන අධිකාරියේ පරිපාලන සහ මෙහෙයුම් කටයුතුවලට අතපෙවීම් සිදුකළ බව ඔහු සඳහන් කළේය.
+The respective resignation has been sent to the Secretary to the Secretary to the Secretary to the Secretary to the Secretary to the President.
 
-පසුගිය වසර හතරහමාරක සේවා කාලය තුළ මාර්ග සංවර්ධන අධිකාරියේ කීර්තිනාමයට කැළලක් ඇති නොවන අයුරින් හා සේවකයින්ගේ අභිවෘද්ධිය වෙනුවෙන් රටේ පවත්නා නීති රෙගුලාසිවලට අනුකූළව විනිවිදභාවයකින් සහ අධ්‍යක්ෂ මණ්ඩලයේ අනුමැතීන්ට යටත්ව රාජකාරී සිදුකළ බව අතළුවගේ මහතා සිය ඉල්ලා අස්වීමේ ලිපියෙන් සඳහන් කර ඇත.
+The decision was taken due to the arbitrary intervention and improper effects of the Transport Development Authority due to the duties of the Road Development Authority.
+
+During the recent past, the misuse and intervention have been constantly due to the administrative and administrative activities of the Road Development Authority (PC) and the direct impact on the company's top management.
+
+The Road Development Autuity of the Road Development Autuity has been subjected to the advancement of the country's rules and approximate the advancement of employees in the last four and a half years.
 
 ...
 
 [Data](articles/4af916bc.json)
+
+[Extended Data](ext_articles/4af916bc.ext.json)
 
 ---
 
@@ -175,6 +225,20 @@ This means that Suryakumar Yadav equals Virat Kohli (16 times) as the player of 
 [Data](articles/7d897601.json)
 
 [Extended Data](ext_articles/7d897601.ext.json)
+
+---
+
+### டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரிப்பு
+
+*2024-07-28 03:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-341127) · `ta`
+
+இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 32 ஆயிரத்துக்கும் அதிகமான டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் எனத் தேசிய டெங்குக் கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+அத்துடன், இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 12 பேர் டெங்கு நோய் காரணமாக உயிரிழந்துள்ளனர் என சுகாதார அமைச்சு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/263f6d96.json)
 
 ---
 
@@ -564,19 +628,25 @@ This optimistic view was suddenly upended last week with President Joe Biden‘s
 
 ---
 
-### එකා පිට එකා දැවී යාමේ වරදම ලංකාව කරයි
+### Sri Lankans make the mistake of the burning of one
 
 *2024-07-27 22:50:52* · [`adalk`](https://www.ada.lk/sports/එකා-පිට-එකා-දැවී-යාමේ-වරදම-ලංකාව-කරයි/9-411028) · `si`
 
-ඉන්දිය පන්දු යවන්නන් හමුවේ ශ්‍රී ලංකා පිතිකරුවන් සිය කඩුලු පූජා කිරිමේ වරද හේතුවෙන් දෙරට අතර පැවැති පළමු විස්සයි20 තරගයෙන් ඉන්දීය කණ්ඩායම 888 ජයක් වාර්තා කිරිමට සමත්වූහ.
+In a Twenty20 match, Sri Lanka scored 170 runs, with contributions from Nissanka (79), Charith (50), Vindham Shanakin (12), and Midwinda Mandis (183). Despite this, India won with 888 runs, largely attributed to their bowling performance.
 
-ආරම්භක පිතිකරු පැතුම් නිශ්ශංක (ලකුණු 79 පන්දු 48) මුලු ලකුණු සංඛ්‍යාව ලකුණු 140දි (පන්දුවාර 14.1)  දෙවැනි කඩුල්ල ලෙස  පිටියෙන් ඉවත්වන විට ශ්‍රී ලංකාව පන්දුවාරයකට ලකුණු 10ක වේගයක් රදවා ගනිමින් තරගය දෙපිළටම විවෘත කර තිබුණි.
+🟩
 
-කෙසේ වෙතත් ඉන් අනතුරුව කුසල් පෙරේරා 20 (මුලු ලකුණු 149), චරිත් අසලංක 0 (මුලු ලකුණු 158), දසුන් ශානක 0 (මුලු ලකුණු  160), කමිඳු මෙන්ඩිස් 12 (මුලු ලකුණු 161), වනිඳු හසරංග 2 (ලකුණු 163), මතීෂ පතිරණ 6 (මුලු ලකුණු 170), මහීෂ් තීක්ෂණ 2 (මුලු ලකුණු 170)   ලෙස ඉනිමට තවත් ලකුණු 30ක් එක්වන විට කඩුලු 8ක් දැවි ගියේය.
+Sri Lanka won 888 from the first Twenty20 match between the two countries due to Indian bowlers.
+
+Opening batsmen Nissanka (79 |
+
+However, after 20 (total 149 runs), Charith 50 (T total 158), Vindham Shanakin 12 (T total 163), Midwinda Mandis (183)Twenty (Twent 170)
 
 ◼️
 
 [Data](articles/09801461.json)
+
+[Extended Data](ext_articles/09801461.ext.json)
 
 ---
 
@@ -2147,71 +2217,5 @@ Tourism trade in Sri Lanka has fallen due to survival Sunday attack, Kovit - 19 
 [Data](articles/92dafb3e.json)
 
 [Extended Data](ext_articles/92dafb3e.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-07-27 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100805/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts.
-
-Several spells of showers will occur in Western and North-western provinces and in Galle and Matara districts.
-
-Strong winds of about 50-55 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
-
-◼️
-
-[Data](articles/aa689116.json)
-
-[Extended Data](ext_articles/aa689116.ext.json)
-
----
-
-### Two arrested over youth found stabbed to death in Ward Place
-
-*2024-07-27 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/100804/two-arrested-over-youth-found-stabbed-to-death-in-ward-place) · `en`
-
-Police have arrested two suspects in connection with the stabbing death of a man with sharp weapons inside a parked three-wheeler at Ward Place in Colombo on the July 23.
-
-During the arrest, the suspects were found to be in possession of 30 grams and 200 milligrams of ice (crystal methamphetamine) drug.
-
-The two suspects were arrested while traveling in a three-wheeler during a search operation conducted by a team of officers from the Colombo Crime Division (CCD) in Samagi Mawatha, Grandpass yesterday (26).
-
-Police said that the suspects, aged 35 and 48, are residents of Gonawila and Grandpass.
-
-The reason for the murder has not yet been revealed and the Colombo Crime Division is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/65552360.json)
-
-[Extended Data](ext_articles/65552360.ext.json)
-
----
-
-### From the same time, Sri Lanka knew that Sri Lanka would be in a economic crisis - President
-
-*2024-07-27 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199254) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe acknowledged the impending economic crisis, stating awareness since its onset. He pledged support to former president Gotabhaya Rajapaksa during a youth-focused event, highlighting his commitment to addressing national challenges.
-
-🟩
-
-President Ranil Wickremesinghe says that Sri Lanka has been aware that Sri Lanka is undercoming an economic crisis.
-
-The President said he promised Gotabhaya Rajapaksa and promised to help.
-
-President Ranil Wickremesinghe made this statement participating at a questionful program if the youth was organized by the youth yesterday (26).
-
-The President was referring to the matter with social media by watching the program.
-
-◼️
-
-[Data](articles/1f5c395f.json)
-
-[Extended Data](ext_articles/1f5c395f.ext.json)
 
 ---

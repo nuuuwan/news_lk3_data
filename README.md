@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 18:36:38**
+As of **2024-07-28 18:54:37**
 
 ## Newspaper Stats
 
-*Scraped **37,693** Articles*
+*Scraped **37,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,433
+adalk | 3,434
 adaderanalk | 4,370
 tamilmirrorlk | 4,659
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,690 (100.0%) of 37,693 articles have been extended.
+37,693 (100.0%) of 37,694 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,37 +50,63 @@ Opener Shafali Verma, who scored 16, was the first strike for Sri Lanka Women. I
 
 [Data](articles/30a00530.json)
 
+[Extended Data](ext_articles/30a00530.ext.json)
+
 ---
 
-### பொலிஸ்மா அதிபர் சர்ச்சை குறித்து ரணில் வெளியிட்ட செய்தி
+### Ranil's news on the controversy of the Inspector General of Police
 
 *2024-07-28 18:13:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-சர்ச்சை-குறித்து-ரணில்-வெளியிட்ட-செய்தி/175-341170) · `ta`
 
-பொலிஸ்மா அதிபர் தொடர்பில் எழுந்துள்ள பிரச்சினைகள் குறித்து சபாநாயகர் மற்றும் பிரதம நீதியரசர் ஆகியோர் பேச்சுவார்த்தை நடாத்தி தீர்வு காண வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார். R
+President Ranil Wickremesinghe suggests dialogue between Speaker and Chief Justice over concerns about the Inspector General of Police.
+
+🟩
+
+President Ranil Wickremesinghe has said that the Speaker and the Chief Justice should hold talks on the issues raised regarding the Inspector General of Police. Remble
 
 ◼️
 
 [Data](articles/a0b3efb3.json)
 
+[Extended Data](ext_articles/a0b3efb3.ext.json)
+
 ---
 
-### ආසියානු කාන්තා ක්‍රිකට් ශූරතාවය ශ්‍රී ලංකාවට
+### Asian Women's Cricket Tournament
 
 *2024-07-28 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199307) · `si`
 
-ඉන්දීය කාන්තා ක්‍රිකට් කණ්ඩායම පරාජය කරමින් ආසියානු කාන්තා ක්‍රිකට් ශූරතාවය දිනා ගැනීමට චමරි අතපත්තු ප්‍රමුඛ ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සමත් විය.
+Sri Lanka's Chamari Atapattu led her team to victory in the Asian Women's Cricket Tournament, defeating India. This marked Sri Lanka's first win, with Atapattu scoring 61 and Hersha Samarawickra contributing 69 runs.
 
-ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම මෙම ශූරතාවය දිනා ගැනීමට සමත්වූයේ පළමු වරටය.
+🟩
 
-තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 6ක් දැවී ලකුණු 165ක් රැස්කළේය.
+Chamari women's cricket team was able to win the Asian Women's Cricket Tournament by defeating the Asian Women's Cricket Tournament.
 
-ඊට පිළිතුරු ලෙස ශ්‍රී ලංකා කණ්ඩායම පන්දු ඕවර 18.4කදී කඩුලු 2ක් දැවී ලකුණු 167ක් ලබාගනිමින් තරගයේ ජය වාර්තා කළේය.
+The Sri Lanka women's cricket team won this championship for the first time.
 
-ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් අතපත්තු පන්දු 43කදී ලකුණු 61ක් ලබා ගත් අතර ජයග්‍රහණයේ නියමුවා වූ හර්ෂිතා සමරවික්‍රම නොදැවී ලකුණු 69ක් රැස් කළාය.
+The Indian team scored 165 runs for the loss of 6 wickets in the loss of 6 overs.
+
+In response, Sri Lanka won 167 runs for the loss of 2 wickets in 18.4 overs.
+
+Atapattu scored 61 off 43 balls with 61 balls in 43 balls. Hersha Samarawickra scored 69 runs.
 
 ◼️
 
 [Data](articles/9f4d7c80.json)
+
+[Extended Data](ext_articles/9f4d7c80.ext.json)
+
+---
+
+### දඹුල්ලේදී කෙල්ලන්ට මහ හයියක්
+
+*2024-07-28 17:46:38* · [`adalk`](https://www.ada.lk/sports/දඹුල්ලේදී-කෙල්ලන්ට-මහ-හයියක්/9-411045) · `si`
+
+කාන්තා ආසියානු   කුසලාන විස්සයි20  ක්‍රිකට් තරගාවලියේ ඉන්දියාව හා ශ්‍රී ලංකාව අතර පැවැත්වෙන අවසන් මහ තරගය නැරඹීම සඳහා දඹුල්ල ක්‍රිකට් ක්‍රීඩාංගණයට 20000 ඉක්ම වූ ප්‍රේක්ෂකයන් පිරිසක් පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/0d3043ff.json)
 
 ---
 
@@ -2295,25 +2321,5 @@ In one master stroke last Sunday afternoon, the beleaguered American President J
 [Data](articles/d0af3d0c.json)
 
 [Extended Data](ext_articles/d0af3d0c.ext.json)
-
----
-
-### Another polling board is afless of votes at his polling booth
-
-*2024-07-27 23:06:52* · [`adalk`](https://www.ada.lk/breaking_news/තම-ඡන්ද-පොළේදී--ඡන්දය-දෙන්න-බයනම්-වෙනත්-ඡන්ද-පොළක්/11-411031) · `si`
-
-The Elections Commission announced that voting for the presidential election will be facilitated on September 21st. They also issued directives from various offices, including the District Elections Office and the Official Election Office, ensuring smooth election processes.
-
-🟩
-
-The Elections Commission announced that elections can be facilitated to vote at the presidential election in September 21st election.
-
-The Elections Commission also issued the Elections Commission from the District Elections Office / Selection Office and to the Elections Commission from the Official Election Office and the Elections Commission.Announced by an announcement.
-
-◼️
-
-[Data](articles/441588c6.json)
-
-[Extended Data](ext_articles/441588c6.ext.json)
 
 ---

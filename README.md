@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 03:54:18**
+As of **2024-07-29 04:05:47**
 
 ## Newspaper Stats
 
-*Scraped **37,760** Articles*
+*Scraped **37,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,262
-dailyftlk | 2,411
+dailyftlk | 2,415
 adalk | 3,441
 adaderanalk | 4,373
 tamilmirrorlk | 4,662
@@ -26,11 +26,83 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,760 (100.0%) of 37,760 articles have been extended.
+37,760 (100.0%) of 37,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### Mujibur accuses President of attempting to remain in power while creating anarchy
+
+*2024-07-29 03:42:56* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-accuses-President-of-attempting-to-remain-in-power-while-creating-anarchy/56-764867) · `en`
+
+SJB MP Mujibur Rahman says President is making concerted effort to undermine democracy and rule of law
+
+Claims President Ranil Wickremesinghe is using various tactics to obstruct elections
+
+Notes despite Wickremesinghe’s invitation, none of SJB’s MPs will support him
+
+Slams President for working towards destroying judicial system and rule of law
+
+Samagi Jana Balawegaya (SJB) MP Mujibur Rahman has accused President Ranil Wickremesinghe of trying to hold on to power while letting the country descend into anarchy.
+
+Speaking at a press conference yesterday, Rahman criticised the President for attempting to violate the Constitution. “He is allowing the country to descend into anarchy for the benefit of himself and his group. He is also making a concerted effort to undermine democracy and the rule of law,” accused Rahman.
+
+...
+
+[Data](articles/03110404.json)
+
+---
+
+### Govt. gets Worker’s Tribunal Decision
+
+*2024-07-29 03:39:36* · [`dailyftlk`](https://www.ft.lk/news/Govt-gets-Worker-s-Tribunal-Decision/56-764866) · `en`
+
+The Trade Union representatives from Ceylon Workers Red Flag Union, United Plantation Workers Union (UPWU), National Union of Workers (NUW), Up Country Workers Front (UWF) and Ceylon Federation of Trade Unions (CFTU) last week met with the Secretary to the Ministry of Labour R.P.A. Wimalaweera and Senior Assistant Secretary – Labour and Foreign Relations Balasubramaniam Wasanathan and handed over the Worker’s Tribunal Decision.
+
+The Worker’s Tribunal Decision was by three eminent retired Judges from Sri Lanka, India and Nepal who heard the testimonies of workers in the tea and rubber plantations. This historic tribunal for Sri Lanka brought to light the extremely inhumane working conditions in the plantations and the exploitation of labour by payment of very low wages. The Judges expressed how their conscience was shocked by the conditions in the plantations.
+
+...
+
+[Data](articles/87c8fe4b.json)
+
+---
+
+### Dayasiri refutes rumours of SLFP-SJB agreement
+
+*2024-07-29 03:38:54* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-refutes-rumours-of-SLFP-SJB-agreement/56-764865) · `en`
+
+SLFP Dayasiri Jayasekara denies he has been in talks with SJB and says no agreement will be signed on 8 Aug.
+
+Says SLFP has decided to appoint a 10-member committee to determine party’s plans
+
+Stresses party has not decided which candidate to support in upcoming Presidential poll
+
+Sri Lanka Freedom Party (SLFP) General Secretary Dayasiri Jayasekara has refuted claims that the party will sign an agreement with the Samagi Jana Balawegaya (SJB) on 8 August.
+
+At a press conference held yesterday, Jayasekara also dismissed rumours that he had been in talks with the SJB regarding backing SJB leader Sajith Premadasa’s Presidential bid.
+
+Jayasekara was responding to questions posed by media personnel regarding former SLFP Chairperson Maithripala Sirisena’s challenge for Jayasekara to disclose the specifics of an alleged agreement between the SLFP and SJB to support the SJB in the upcoming Presidential election.
+
+...
+
+[Data](articles/d324ddd0.json)
+
+---
+
+### Continued proscription of LTTE in EU
+
+*2024-07-29 03:36:07* · [`dailyftlk`](https://www.ft.lk/news/Continued-proscription-of-LTTE-in-EU/56-764864) · `en`
+
+The Council of the European Union (EU) on 26 July, renewed the list of persons, groups and entities set out by the Common Position 2001/931/CFSP with the view to combatting terrorism, and the LTTE continues to be banned in the EU for a further period of six months.
+
+The proscribed persons, groups and entities are subject to the freezing of its funds and other financial assets or economic resources in EU member States, as well as it is prohibited for EU entities to make funds and economic resources available to the proscribed organisations.
+
+◼️
+
+[Data](articles/21f58c61.json)
+
+---
 
 ### Former members of the Sri Lanka Freedom Party (SLFP)
 
@@ -2229,107 +2301,5 @@ The National Organizer added that this decision was taken to inform the Presiden
 [Data](articles/d87fc0d4.json)
 
 [Extended Data](ext_articles/d87fc0d4.ext.json)
-
----
-
-### "4/21 Release of Attack Weapon Lori"
-
-*2024-07-28 12:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-21-தாக்குதல்-ஆயுத-லொறியை-விடுவித்தவர்-தேஷபந்து/175-341149) · `ta`
-
-Ceylon Workers' Front leader Sameera Perera criticizes the appointment of a new Inspector General of Police, accusing him of mishandling drug cases and releasing a truck carrying weapons intended for a nationalist attack. Perera demands the resignation of the current IG due to a High Court order, questioning the appointee's fitness for office.
-
-🟩
-
-A leading leader alleges that the lorry that brought weapons to carry out the life of the life of the life of the life of the life of the life of the nationalist Sunday (Easter 4/21).
-
-Sameera Perera, the leader of the Ceylon Workers' Front, said that the Inspector General of Police should resign from his post to respect the order issued by the High Court.
-
-The police officer who canceled the post of Inspector General of Police by the Supreme Court should go to the house and the man who was appointed as the Inspector General of Police is not worthy of being a police constable.
-
-Sameera Perera said this while addressing a party meeting held at the private ceremony in Hatton.
-
-If the maximum, it can be fifty days, and the power of the Wickremesinghe Rajapaksa family will be more fifty days.
-
-...
-
-[Data](articles/5cde2c00.json)
-
-[Extended Data](ext_articles/5cde2c00.ext.json)
-
----
-
-### A tree breaks down in front of the Speaker's official residence. Another accident that breaks a car
-
-*2024-07-28 11:52:52* · [`adalk`](https://www.ada.lk/breaking_news/කතානායක-නිල-නිවස-ඉදිරිපිට-ගසක්-කඩා-වැටි--ඒ-තුළට-මෝටර්-රථයක්-කඩා-වැදී-තවත්-අනතුරක්/11-411039) · `si`
-
-A tree crash near the Speaker's residence caused a car accident, injuring its driver who was taken to Colombo National Hospital. Another incident occurred when a high-speed driver was also hospitalized there. A separate accident resulted in a fatality while traveling to the parliament. Investigations are ongoing.
-
-🟩
-
-The driver of the high speed was rushed to the Colombo National Hospital (27) while he was admitted to the Colombo National Hospital.
-
-A collapse to travel to the parliament towards the parliament towards the pala and another was killed (27). The Welikada Police officials have commenced the scene and commenced investigations along the accident.
-
-In the tree of the vehicles of the vehicles that had been darkened, the Kotte Fire French and the Air Force officials were rushed to restore the path to the prices of the two-year trees, from the prices of the parliament at the same time as the SLAF Tree.There was an accident on launching the branches.
-
-The car has been seriously damaged and rushed to the Colombo National Hospital for treatment.
-
-In addition, the task of the Tabor of the Kotte Firenel DD. It is said that the branch has completely destroyed a chain to a Chain Shoil that fell to the ground while Sunanda and a rescue vehicle was cut off.
-
-...
-
-[Data](articles/a3b5cade.json)
-
-[Extended Data](ext_articles/a3b5cade.ext.json)
-
----
-
-### Other activities of the police may be affected if the confusion of the police chief persists - the senior officer
-
-*2024-07-28 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/189586) · `ta`
-
-The ongoing confusion among police ranks, especially regarding the absence of a police chief and a responsive chancellor, threatens to disrupt various police operations, including document signing, guideline implementation, and questioning procedures. This uncertainty could persist for weeks, potentially impacting the department's ability to function effectively. The situation is further complicated by the lack of leadership in key administrative roles, creating a void that could lead to broader security issues within the community.
-
-🟩
-
-A high -ranking official said that while the confusion of the policeman continues, the long -term impedance may have an impact on other activities of the police.
-
-A top official of the Police Department said that other activities such as the guidelines, signing the documents, and other activities such as questioning.
-
-He said the guidelines of the Inspector General of Police or the Chancellor were necessary for such activities.
-
-"We can deal with the current chaos for a week," he said.
-
-The absence of a police chief or a respondent Chancellor has made the situation disturbing, a senior police officer said.
-
-He also pointed out that the post of reflection of the Chancellor's Administration was a vacuum following the Senior Representative Chancellor Nilanthajayawardena's compulsory retirement last week.
-
-He added that the two main positions of the Police Department have never been a vacuum.
-
-...
-
-[Data](articles/1e7c352d.json)
-
-[Extended Data](ext_articles/1e7c352d.ext.json)
-
----
-
-### Defence Secretary requests Myanmar PM to facilitate rescue of Sri Lankans held in cyber camps
-
-*2024-07-28 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100831/defence-secretary-requests-myanmar-pm-to-facilitate-rescue-of-sri-lankans-held-in-cyber-camps) · `en`
-
-Sri Lanka’s Secretary of Defence General Kamal Gunaratne has called on the Myanmar Prime Minister and Chairman of the State Administration Council (SAC) Senior General Min Aung Hlaing and requested to facilitate the rescue of the group of Sri Lankans held captive for forced criminal activities at a Cyber Criminal camp operated by a terrorist group in Myanmar.
-
-The Myanmar Prime Minister has emphasized the government’s commitment to cooperating with Sri Lankan officials and prioritizing the resolution of this issue.
-
-The Defence Secretary met the Myanmar Prime Minister on the sidelines of the 4th meeting of the BIMSTEC National Security Chiefs.
-
-At the meeting, both dignitaries cordially discussed friendly relations between the two countries, bilateral cooperation in diplomatic relations and religious affairs, the Ministry of Defence said.
-
-...
-
-[Data](articles/692e8a77.json)
-
-[Extended Data](ext_articles/692e8a77.ext.json)
 
 ---

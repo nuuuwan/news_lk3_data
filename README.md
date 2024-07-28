@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 17:20:35**
+As of **2024-07-28 17:36:10**
 
 ## Newspaper Stats
 
-*Scraped **37,685** Articles*
+*Scraped **37,687** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 330
-colombotelegraphcom | 356
+colombotelegraphcom | 357
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
@@ -20,17 +20,33 @@ adaderanalk | 4,368
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,342
+adaderanasinhalalk | 6,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,684 (100.0%) of 37,685 articles have been extended.
+37,685 (100.0%) of 37,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### පොලිස්පති ධුරය ගැන ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-07-28 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199305) · `si`
+
+පොලිස්පතිවරයා සම්බන්ධයෙන් උද්ගතව ඇති ගැටලුව කථානායකවරයා සහ අගවිනිසුරුවරයා සාකච්ඡා කර විසඳාගත යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඔහු ඒ බව පැවසුවේ හෝමාගම බස් නැවතුම්පොළ පරිශ්‍රයේදී පැවැත්වෙන ''ජයගමු ශ්‍රී ලංකා'' ජන රැලිය අමතමිනි.
+
+ජනාධිපතිවරයා තවදුරටත් පැවසුවේ සැප්තැම්බර් 21 වනදා ජනාධිපතිවරණය පැවැත්වීමට මැතිවරණ කොමිසමට අවශ්‍ය සහාය ලබාදෙන බවය.
+
+◼️
+
+[Data](articles/31db18e8.json)
+
+---
 
 ### President calls for urgent talks to resolve IGP issue
 
@@ -43,6 +59,8 @@ Furthermore, the Head of the State expressed that he will ensure that Election C
 ◼️
 
 [Data](articles/0fee873e.json)
+
+[Extended Data](ext_articles/0fee873e.ext.json)
 
 ---
 
@@ -701,6 +719,20 @@ He has been taken to St. George Hospital for Railway Staff. It was revealed that
 [Data](articles/39e40436.json)
 
 [Extended Data](ext_articles/39e40436.ext.json)
+
+---
+
+### In Memory Of Comrade Dr. Vickramabahu Karunaratne: Language As An Aspect Of Sri Lanka’s National Question
+
+*2024-07-28 11:42:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-memory-of-comrade-dr-vickramabahu-karunaratne-language-as-an-aspect-of-sri-lankas-national-question/) · `en`
+
+Comrade Dr. Vickramabahu Karunaratne’s legacy deserves recognition through thoughtful analysis. In response to my recent article titled “41 Years to Black July – Our Voices Towards Meaningful Reconciliation,” I propose addressing a critical issue.
+
+Comrade Karunaratne’s political journey began within the Lanka Sam Samaja Party (LSSP). However, in 1972, he parted ways with the LSSP when it joined forces with the Sri Lanka Freedom Party (SLFP). The 1972 republican constitution, drafted by the SLFP, inadvertently transformed Sri Lanka into a Sinhala Buddhist state, marginalising the Tamil community. Subsequently, the 1978 Constitution, enacted during Prime Minister JR Jayewardene’s regime (with current President Ranil Wickremesinghe as a cabinet minister), further entrenched Sinhala separatism, further alienating Tamil speakers.
+
+...
+
+[Data](articles/57d105dd.json)
 
 ---
 
@@ -2281,53 +2313,5 @@ However, after 20 (total 149 runs), Charith 50 (T total 158), Vindham Shanakin 1
 [Data](articles/09801461.json)
 
 [Extended Data](ext_articles/09801461.ext.json)
-
----
-
-### India beat India
-
-*2024-07-27 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199280) · `si`
-
-In the first T20 match of a tri-series involving India and Sri Lanka, India triumphed by 43 runs. Batting first after losing the toss, India made 213/7 in 20 overs, led by Surkumar Yadav's 58 and Rishabh Pant's 49. Mathera Pathirana was the standout bowler for Sri Lanka with 4 wickets. In pursuit, Sri Lanka fell short at 170/10 in 18.6 overs, despite Wishesi Nissanka's 79.
-
-🟩
-
-India won the first 20 and T20 to win the first 20 Tripe against Sri Lanka by 43 runs.
-
-Sri Lanka won the toss and elected to the Indian team to be attacked first.
-
-Accordingly, the Indian team scored 213 runs for the loss of 7 wickets at the end of 20 overs.
-
-Surkumar Yadu scored 58 runs for the Indian team and Rishab Lain scored 49 runs.
-
-Mathera Pathirana took 4 wickets for Sri Lanka.
-
-Chasing a target of 214, Sri Lanka were bowled out for 170 runs in 198 balls.
-
-Wishesi Nissanka scored 79 runs for the Sri Lankan team.
-
-◼️
-
-[Data](articles/55bcceac.json)
-
-[Extended Data](ext_articles/55bcceac.ext.json)
-
----
-
-### Parliamentary Entry Street closed
-
-*2024-07-27 22:41:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-நுழைவு-வீதி-மூடப்பட்டது/175-341123) · `ta`
-
-A car crashed into a tree after one was removed from Parliamentary Entry Street tonight.
-
-🟩
-
-A car traveling on the road collided with a tree when a tree was removed from the road this evening.
-
-◼️
-
-[Data](articles/794461c0.json)
-
-[Extended Data](ext_articles/794461c0.ext.json)
 
 ---

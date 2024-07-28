@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 21:55:21**
+As of **2024-07-28 22:08:10**
 
 ## Newspaper Stats
 
-*Scraped **37,735** Articles*
+*Scraped **37,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
 adalk | 3,439
-adaderanalk | 4,372
+adaderanalk | 4,373
 tamilmirrorlk | 4,662
 dailymirrorlk | 4,733
 virakesarilk | 5,946
-adaderanasinhalalk | 6,347
+adaderanasinhalalk | 6,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,735 (100.0%) of 37,735 articles have been extended.
+37,735 (100.0%) of 37,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### President congratulates Sri Lanka Women’s Team on Asia Cup win
+
+*2024-07-28 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100843/president-congratulates-sri-lanka-womens-team-on-asia-cup-win) · `en`
+
+President Ranil Wickremesinghe has congratulated skipper Chamari Atapattu and the Sri Lanka Women’s Cricket Team on winning the 2024 Asia Cup final on Sunday.
+
+“Your unbeaten run is a testament to your talent, dedication and teamwork. You have made our nation proud!”, said President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/788f24cc.json)
+
+---
+
+### ඉන්දියාවට ලකුණු 162 ක ඉලක්කයක්
+
+*2024-07-28 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199312) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන දෙවැනි 20යි විස්ස ජාත්‍යන්තර තරගයේ පළමු‍වෙන් පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඬුලු 9ක් දැවී ලකුණු 161ක් රැස් කළේය.
+
+එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ඉන්දීය කණ්ඩායම සමත් වු අතර ඔවුන් තීරණය කළේ පළමුව පන්දු රැකීමට ය.
+
+◼️
+
+[Data](articles/d03bc6d2.json)
+
+---
 
 ### The rim of the swimming pool is dead by a two-year-old boy
 
@@ -2293,51 +2321,5 @@ At the same time, it is a happy thing that some people got Viva Karatu. But at t
 [Data](articles/70db2817.json)
 
 [Extended Data](ext_articles/70db2817.ext.json)
-
----
-
-### Women's Asian Trophy Final Today
-
-*2024-07-28 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199290) · `si`
-
-Today, the 9th Women's Asian Cups Trickdala final will take place, featuring Sri Lanka and India, who both secured their spots after impressive performances. This marks Sri Lanka's fifth appearance in the Asian series finals.
-
-🟩
-
-The 9th women's Asian Cups Trickdala will be held this afternoon today (28).
-
-The host Sri Lanka players reserved their place in the final of the event in the event of the event.
-
-A team of Indian cup qualified for the Asian Cup final
-
-A Sri Lankan women's women qualified for the Asian Cup final and they completed the tournament as Asian series in five occasions.
-
-◼️
-
-[Data](articles/6572c3d2.json)
-
-[Extended Data](ext_articles/6572c3d2.ext.json)
-
----
-
-### The Freedom Party will decide on the 31st
-
-*2024-07-28 10:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திரக்-கட்சி-31ஆம்-திகதி-தீர்மானிக்கும்/175-341137) · `ta`
-
-Mahinda Amaraweera, Minister of Agriculture and Senior Deputy Chairman of the SLFP, announced that the party's new coalition will soon reveal its presidential candidate. He clarified that the SLFP remains united under one leadership and refuted claims of division within the party.
-
-🟩
-
-Minister of Agriculture and Plantation Industries and Senior Deputy Chairman of the Sri Lanka Freedom Party (SLFP) Mahinda Amaraweera said that the new coalition led by the Sri Lanka Freedom Party (SLFP) will reveal who is the presidential candidate.
-
-The Minister said that the Sri Lanka Freedom Party was not divided and that there is only one legal legal SLFP.
-
-The Minister also stated that some people say that the Sri Lanka Freedom Party (SLFP) is in his hands is not valid.
-
-◼️
-
-[Data](articles/1487e478.json)
-
-[Extended Data](ext_articles/1487e478.ext.json)
 
 ---

@@ -1,52 +1,94 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 11:36:01**
+As of **2024-07-28 11:55:53**
 
 ## Newspaper Stats
 
-*Scraped **37,643** Articles*
+*Scraped **37,647** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 329
+dbsjeyarajcom | 330
 colombotelegraphcom | 356
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
-economynextcom | 2,259
+economynextcom | 2,260
 dailyftlk | 2,405
 adalk | 3,424
-adaderanalk | 4,362
+adaderanalk | 4,363
 tamilmirrorlk | 4,652
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,330
+adaderanasinhalalk | 6,331
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,639 (100.0%) of 37,643 articles have been extended.
+37,643 (100.0%) of 37,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### ආගමික උත්සව වලට ගොස් රන්මාල කොල්ල කන කාන්තා කල්ලියක සාමාජිකාවන් දෙදෙනෙකු අත්අඩංගුවට
+### MP Sumanthiran’s vehicle involved in road accident
+
+*2024-07-28 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100830/mp-sumanthirans-vehicle-involved-in-road-accident) · `en`
+
+An accident involving TNA Member of Parliament M.A. Sumanthiran has taken place last evening (27) after his vehicle collided with a motorcycle.
+
+The incident took place near the 155km post in the Kilinochchi area while the MP was travelling from Colombo to Jaffna, the police said.
+
+According to Kilinochchi Police, no one was injured in the accident. However, the front of the MP’s vehicle has sustained minor damages.
+
+◼️
+
+[Data](articles/ddf7e67e.json)
+
+---
+
+### සයිබර් අපරාධ කඳවුරුවල රඳවා සිටින ශ්‍රී ලාංකිකයින් ගැන සාකච්ඡාවක්
+
+*2024-07-28 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199293) · `si`
+
+මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවල බලහත්කාරයෙන් රඳවාගෙන සිටින ශ්‍රී ලාංකිකයින් බේරා ගැනීම සම්බන්ධයෙන් ආරක්ෂ ලේකම් ජෙනරාල් කමල් ගුණරත්න මහතා එරට අග්‍රාමාත්‍යවරයා සමග සාකච්ඡාවක් පවත්වා තිබේ.
+
+බිම්ස්ටෙක් ජාතික ආරක්ෂ ප්‍රධානීන්ගේ 4 වැනි සමුළුවට සහභාගි වීමට මියන්මාරයට ගොස් සිටින අතරතුර ආරක්ෂක ලේකම්වරයා එරට අග්‍රාමාත්‍ය කාර්යාලයේ දී මියන්මාර අග්‍රාමාත්‍ය Min Aung Hlaing මහතා හමුවූ බව ආරක්ෂක අමාත්‍යංශය පැවසීය.
+
+අදාළ ශ්‍රී ලාංකිකයින් පිරිස මුදාගැනීම සඳහා සහාය වන ලෙස ආරක්ෂක ලේකම්වරයා ඉල්ලීමක් කර ඇති අතර එම ගැටලුව විසඳීමට ප්‍රමුඛත්වය දීම සඳහා වන සිය රජයේ කැපවීම එහිදී මියන්මාර අග්‍රාමාත්‍යවරයා අවධාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/d7926ca1.json)
+
+---
+
+### Two arrested for attending Religious Celebrations
 
 *2024-07-28 11:16:54* · [`adalk`](https://www.ada.lk/breaking_news/ආගමික-උත්සව-වලට-ගොස්-රන්මාල-කොල්ල-කන-කාන්තා-කල්ලියක-සාමාජිකාවන්-දෙදෙනෙකු-අත්අඩංගුවට/11-411037) · `si`
 
-දිවයිනේ විවිධ ආගමික උත්සව පැවැත්වෙන ස්ථාන වලට ගොස්, කාන්තාවන්ගේ රන්මාල කොල්ල කෑමේ නිරත  සංවිධානාත්මක කාන්තා අපරාධ කල්ලියක සාමාජිකාවන්  දෙදෙනෙකු ඊයේ(27දා) හෙරොයින් මත්කුඩු සහ රන් මාලයක් සමග  අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+In a recent incident, two individuals were arrested for allegedly stealing gold during religious celebrations in Sri Lanka. The suspects, both from the Trincomalee district, were caught near the Ruwanweli Param in Anuradhapura. Police recovered stolen gold from them, linking them to a previous robbery. The duo was apprehended by officers from the Colombo Headquarters and the Anuradhapura headquarters, highlighting the importance of security around sacred sites.
 
-පිච්ච මල් පූජාව පැවති ඊයේ 27 වන දා, අනුරාධපුර රුවන්වැලි සෑ පුද බිම ආසන්නයට පැමිණ ඇති මෙම කොල්ල  කල්ලියේ සාමාජිකාවන් කිප දෙනෙකු සැක කටයුතු ලෙස හැසිරීම හේතුවෙන් පරීක්ෂාවට ලක් කිරීමේදී මෙම රන්මාලය සහ හෙරොයින් හමුවූ බව පොලිසිය කියයි.
+🟩
 
-අත්අඩංගුවට ගත් සැකකාරියන් දෙදෙනා වයස අවුරුදු 43 සහ 27 හැවිරිදි ත්‍රීකුණාමලය ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනකු බව පොලිසිය කියයි.
+Two members of the island's religious ceremonies were taken into custody by the Colombo Headquarters and gold.
 
-අත්අඩංගුවට ගත් සැකකාරියන් සන්තකයේ තිබී කොල්ල කන ලද රන්මාලයක් හෙරොයින් මිලිග්‍රෑම් 3000ක් සහ මිලිග්‍රෑම් 2600ක් තිබී හමුවූ  බවත් එම රන්මාලය මීට දින තුනකට පෙර බස් රථයකදී කොල්ල කෑ රන්මාලයක් බව එක් සැකකාරියකගෙන් සිදු කළ ප්‍රශ්න කිරීමටදී අනාවරණය වූ බව  පොලිසිය කියයි.
+The Ranmal and Heroin found that the robbers were nearing the Ruwanweli Param of Anuradhapura yesterday.
 
-...
+The arrested suspects are two residents of the Trincomalee district 43 and 27.
+
+According to the police, a robbed gold was found in possession of the suspects and was found in a bus with a bus in a bus for three days ago in bus.
+
+The robbery members who are in sacred places in the saccupations of the sacred areas and shifted the thieves, to the end of the robbery, and flee from the site, that is not worthwhile.The police had revealed here.
+
+Anuradhapura headquarters police OIC Chief Inspector Inspector R. M. OIC of the Jayaweera Criminal Investigation Division Inspector Anura Ratnayake, Sub-Inspector Anura Ratnayake, Sub-Inspects Livelihood (48344) carried out this raid.
+
+◼️
 
 [Data](articles/7953f09b.json)
+
+[Extended Data](ext_articles/7953f09b.ext.json)
 
 ---
 
@@ -66,6 +108,8 @@ Athaluwage noted in his resignation letter that such interference had been a rec
 
 [Data](articles/c1b6b218.json)
 
+[Extended Data](ext_articles/c1b6b218.ext.json)
+
 ---
 
 ### Israel says Hezbollah rocket kills 12 at football ground, vows response
@@ -83,6 +127,8 @@ The rocket struck a football pitch in the Druze village of Majdal Shams in the I
 ...
 
 [Data](articles/b74dfe3b.json)
+
+[Extended Data](ext_articles/b74dfe3b.ext.json)
 
 ---
 
@@ -510,25 +556,33 @@ The deceased has been identified as 58-year-old woman who had been residents of 
 
 ---
 
-### ’’කොන්ද පණ නැහැ’’ කියූ කතාවට මිතුරා ඝාතනය කරයි
+### The spoken speech is murdered
 
 *2024-07-28 08:45:26* · [`adalk`](https://www.ada.lk/breaking_news/’’කොන්ද-පණ-නැහැ’’-කියූ-කතාවට-මිතුරා-ඝාතනය-කරයි/11-411034) · `si`
 
-මිතුරන් සිව් දෙනකු අතර පැවැති මත්පැන් සාදයකදී "කොන්ද පණ නැහැ" යැයි කියූ කතාවක්  දුරදිග යාමෙන්  පරාළයකින් හිසට පහර දීමෙන් බරපතල තුවාල ලද පුද්ගලයකු  දින 6 කට පසු මිය ගිය බව  අගලවත්ත පොලිසිය කියයි.
+A fatal incident occurred during a liquor party where a 44-year-old man from Agalawatta, identified as DK KM Resources, suffered severe injuries leading to his death. The police have arrested four individuals, including a 60-year-old main suspect, in connection with the murder. The argument escalated when the victim fell to the ground after being hit by a wooden pole wielded by the main suspect. Another man, also injured, was transferred to the Colombo National Hospital for further treatment. Investigations are ongoing under the direction of Agalawatta Police Station's OIC, Priyantha Wijesinghe.
 
-සිද්ධියෙන් මියගොස්  ඇත්තේ අගලවත්ත ගිරිකොල , ලන්දේවත්ත පදිංචිව සිටි ඩි කේ එම් සම්පත් (44) නමැති අයයි.
+🟩
 
-ඝාතනය සම්බන්ධයෙන්  නිවෙස් හිමිකරු ඇතුළු තිදෙනකු පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇති අතර ඒ අතර විශ්‍රාමික නාවික හමුදා සෙබළුකු වන බව පොලිසිය කියයි.
+A person who was seriously injured in a serious injuries were killed by a serious injuries due to the liquor party, a "don 'to the head of a war.
 
-ඉකුත් 20 වෙනිදින  සැකකරුවන් හා මරණකරු මෙන්ම ප්‍රධාන සැකකරු වන 60 හැවිරිදි පුද්ගලයාගේ නිවසේ මත්පැන් පානය කරමින් සිටියදී  මෙම බහින්බස්වීම සිදුවී ඇතැයි පොලිසිය කියයි.
+The deceased has been identified as DK KM resources (44), Agalawatta Girkola, Agalawatta.
 
-60 හැවිරිදි  පුද්ගලයාගේ බිරිඳ ඔහුව අතහැර ගොස් සිටින අතර මරණකරු විසින්  මත්පැන් සාදය අතරතුරදී   "උඹගේ කොන්ද පණ නැති නිසා තමයි ගෑනි දාලා ගියේ" යනුවෙන් පැවසීමත් සමගම   සැකකරු ඔහුව තල්ලු කර ඇති අතර ඒ සමගම එම පුද්ගලයා  බිම වැටී ඇතැයි  පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+Police have arrested three and three others who were arrested in connection with the murder.
 
-අතර ඒ සමගම ප්‍රධාන සැකකරු අසල තිබූ අඩි හතරක් පමණ දිගැති පරාල කැබැල්ලක් අතට ගෙන හිසට පහරක් එල්ල කර ඇතැයි පොලිසිය කියයි.
+The arguments have occurred while drinking the suspects and the deceased and the main suspect, the 60-year-old man.
+
+The suspect had left him and said that the victim had been abandoned by the deceased while the deceased was "the death of the woman was" because of the deceased, "police investigations have revealed that the person had fallen to the ground.
+
+At the same time, the main suspect had taken up a pole of rank, police said.
+
+The rest of the man who had been referred to the Nagoda Hospital in Kalutara with the head of the head was referred to the Colombo National Hospital for further treatment.
 
 ...
 
 [Data](articles/3e310a08.json)
+
+[Extended Data](ext_articles/3e310a08.ext.json)
 
 ---
 
@@ -663,6 +717,28 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 [Data](articles/e6ca007f.json)
 
 [Extended Data](ext_articles/e6ca007f.ext.json)
+
+---
+
+### Sri Lanka lifts nationalist import controls on key cereals which were kept amid malnutrition
+
+*2024-07-28 08:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-lifts-nationalist-import-controls-on-key-cereals-which-were-kept-amid-malnutrition-174102/) · `en`
+
+ECONOMYNEXT – Sri Lanka has lifted import controls on several cereal grains, which were maintained despite a rise in malnutrition and poverty from a currency collapse triggered by aggressive macro-economic policy.
+
+Sri Lanka originally slapped import control on 3,500 items including after the central bank and Treasury economists cut rates and printed vast volumes of money to target potential output, through printing money for growth was not a legal aim of the central bank.
+
+In a new monetary law printing money for growth has been legalized critics say.
+
+Among grains on which import controls were lifted include, black gram and other protein rich cereals including green bean and soya.
+
+Sri Lanka still controls the import of maize on economic nationalist grounds (autarky), which has contributed to reduce protein malnutrition in both rich and poor countries.
+
+Maize is allowed to be imported for Triposha, a supplement given to prevent malnutrition particular of children of poor families.
+
+...
+
+[Data](articles/c9cdd119.json)
 
 ---
 
@@ -1764,6 +1840,24 @@ Accordingly, they decided to invite the Indian team to bat first.
 
 ---
 
+### “If Presidential Candidates are serious about their promises to eradicate corruption, will they be willing to face tough questions on these issues at a public forum we are prepared to host?-ITAK MPs Sumanthiran and Shanakiyan
+
+*2024-07-27 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84449) · `en`
+
+(Texr of Media Release  Issued by Jaffna District Parliamentarian M.A. Sumanthiran and Batticaloa District MP Shanakiyan  Rasamanickam n 26 July 2024)
+
+The country is at cross-roads at the moment; A crucial pivotal point in our post-independence history. We were an economy with a surplus and an example for other to follow; even a model for Singapore’s Lee Kuan Yew.
+
+We could afford to deliver free education up to tertiary level and free health services to all citizen, which is unmatched anywhere in the world.  From such a lofty and healthy position, we have fallen into deep debt and have declared ourselves officially bankrupt.
+
+We have also fought a civil war for three decades and are still struggling to recover from its after-effects and achieve meaningful reconciliation. Corruption levels are one of the worst in the whole world that has pulled us down further.
+
+...
+
+[Data](articles/1f9a0121.json)
+
+---
+
 ### Government of Sri Lanka's Lawyers Association denies the Supreme Court's verdict on the issue of police chief
 
 *2024-07-27 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189547) · `ta`
@@ -2159,87 +2253,5 @@ He says that the two children are also school and his wife is also ill.
 [Data](articles/2779645f.json)
 
 [Extended Data](ext_articles/2779645f.ext.json)
-
----
-
-### Algeria grants visa free travel to 55 countries including Sri Lanka
-
-*2024-07-27 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100816/algeria-grants-visa-free-travel-to-55-countries-including-sri-lanka) · `en`
-
-Algeria has granted visa free travel to 55 countries including Sri Lanka, Malaysia and the Maldives.
-
-The North African country’s tourism industry is reportedly experiencing a significant surge with the introduction of a new visa-free travel policy, which was introduced aiming to boost tourism and strengthen international ties by simplifying travel procedures for visitors from these nations.
-
-As a result, Algeria is becoming an increasingly attractive destination, leveraging its rich cultural heritage, diverse landscapes, and improved infrastructure to draw in more international travelers with expectations to enhance the country’s tourism revenue and global connectivity.
-
-Algeria’s Tourism Industry Boosts Economy with $7.2 Billion GDP Contribution in 2021, Marking a 33% Increase
-
-...
-
-[Data](articles/52e6d745.json)
-
-[Extended Data](ext_articles/52e6d745.ext.json)
-
----
-
-### Ranil - Bashil is not compatible at the meeting
-
-*2024-07-27 15:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-பஷில்-சந்திப்பில்-இணக்கமில்லை/150-341107) · `ta`
-
-President Ranil Wickremesinghe and Basil Rajapaksa failed to reach an agreement during their meeting about the presidential election. Despite this, they plan to meet again tomorrow.
-
-🟩
-
-A senior official of the PA said that the discussion between President Ranil Wickremesinghe and the founder of the Sri Lanka PA Basil Rajapaksa on the presidential election ended without compliance.
-
-However, the official said that the President and Basil Rajapaksa will meet tomorrow (28).
-
-◼️
-
-[Data](articles/038c2d9e.json)
-
-[Extended Data](ext_articles/038c2d9e.ext.json)
-
----
-
-### Ranil -Bashil is not compatible at the meeting
-
-*2024-07-27 15:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பஷில்-சந்திப்பில்-இணக்கமில்லை/175-341107) · `ta`
-
-President Ranil Wickremesinghe and Basil Rajapaksa, founder of the Sri Lanka PA, failed to reach an agreement during their meeting regarding the presidential election. Despite this setback, they are scheduled to meet again tomorrow (28th).
-
-🟩
-
-A senior official of the PA said that the discussion between President Ranil Wickremesinghe and the founder of the Sri Lanka PA, Basil Rajapaksa, had ended without compliance over the presidential election.
-
-However, the official said that the President and Basil Rajapaksa will meet tomorrow (28)
-
-◼️
-
-[Data](articles/f409fac1.json)
-
-[Extended Data](ext_articles/f409fac1.ext.json)
-
----
-
-### Police Election Unit begins work
-
-*2024-07-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199264) · `si`
-
-A new unit for election supervision has been established under DIG Liyanage and SSP Dharmasena, tasked with overseeing the upcoming presidential election. This initiative was announced by another Deputy Inspector General of Police, marking the beginning of their operations from the police headquarters.
-
-🟩
-
-Another Deputy Inspector General of Police (IGP) has appointed a Senior Superintendent of Police (IGP) to supervise the presidential election.
-
-DIG. Liyanage and SSP KDGLA Dharmasena had been appointed.
-
-A unit of election campaign has already been launched at the police headquarters and has been appointed to the unit yesterday.
-
-◼️
-
-[Data](articles/705b157f.json)
-
-[Extended Data](ext_articles/705b157f.ext.json)
 
 ---

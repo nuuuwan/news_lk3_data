@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 17:56:22**
+As of **2024-07-28 18:13:43**
 
 ## Newspaper Stats
 
-*Scraped **37,688** Articles*
+*Scraped **37,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,432
+adalk | 3,433
 adaderanalk | 4,368
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
@@ -26,33 +26,39 @@ adaderanasinhalalk | 6,344
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,687 (100.0%) of 37,688 articles have been extended.
+37,688 (100.0%) of 37,689 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### පැරිස් ඔලිම්පික් උලෙළේ පළමු ශ්‍රී ලංකා නියෝජනය
+### Paris Olympics represent Sri Lanka
 
 *2024-07-28 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199306) · `si`
 
-පැරිස් ඔලිම්පික් උලෙළේ පළමු ශ්‍රී ලංකා නියෝජනය ලෙසින් ශ්‍රී ලංකා යොවුන් බැඩ්මින්ටන් ක්‍රීඩක විරේන් නෙත්තසිංහ අද (28) තරග කළේය.
+Sri Lanka's badminton youth, Neththanthan, competed in the Paris Olympics, ranking 72nd globally. Despite a strong start by Virage Neththanasinghe in the second round, Malaysian player G Zia clinched victory with 21 points. The next match for Viyan is set for December 30th.
 
-ලෝක බැඩ්මින්ටන් ශ්‍රේණිගත කිරීම්වල 72 වැනි ස්ථානයේ පසුවන 21 හැවිරිදි විරේන් නෙත්තසිංහ පිරිමි කේවල බැඩ්මින්ටන් ඉසව්වේ මූලික වටයේ තරගයකට අද සහභාගි වූයේ ලෝක ශ්‍රේණිගත කිරීම්වල 7 වැනි ස්ථානයේ පසුවන මැලේසියාවේ ලී ජී සියා සමගය.
+🟩
 
-තරගයේ පළමු වටය ලකුණු 21ට 14ක් ලෙස ජයගැනීමට මැලේසියා ක්‍රීඩකයා සමත්විය.
+Sri Lanka Youth Badminton Neththanton, Sri Lanka's Representatives of the Paris Olympics, competed today.
 
-දෙවන වටය ආරම්භයේදී ඉතා හොඳ තරගයක් ලබාදුන් විරේන් නෙත්තසිංහ දෙවන වටයේ මුල්භාගයේ පෙරමුණ ගැනීමට සමත් විය.
+World Badminton rankings were 72th in the 21st of World Badminton Rankings.
 
-නමුත් අත්දැකීම් බහුල ලී ජී සියා ඉතා හොඳින් තරගයට අවතීර්ණ වෙමින් දෙවන වටයත් ලකුණු 21ට 12ක් ලෙස ජයගත්තේය.
+Malaysia player won the first round of the first round of the match.
 
-ඒ අනුව සමස්ත තරගය මැලේසියා ක්‍රීඩකයා ජයගත්තේ වට 2ට 0ක් ලෙසය.
+Virage Neththanasinghe, who was a good match at the beginning of the second round, was able to take the lead in round the second round.
 
-මූලික වටයේ ජී කාණ්ඩය යටතේ විරේන් සහභාගී වන මීළඟ තරගය ස්පාඤ්ඤ ක්‍රීඩක ෆැබ්ලෝ ඒබියන් සමගින් මේ මස 30 වනදා දහවල් 12ට පැවැත්වීමට නියමිතය.
+But the experienced wooden G Zia wins the second round and won 21 runs.
+
+Accordingly, the overall game won the player of the Malaysia.
+
+The next match of Viyan under the preliminary round Group is scheduled to be held at 12 noon on the 30th this month.
 
 ◼️
 
 [Data](articles/fce0c6a4.json)
+
+[Extended Data](ext_articles/fce0c6a4.ext.json)
 
 ---
 
@@ -307,6 +313,20 @@ On February 02, the CAA issued a gazette notification mandating that the minimum
 [Data](articles/f752dd57.json)
 
 [Extended Data](ext_articles/f752dd57.ext.json)
+
+---
+
+### මෙරට ප්‍රථම පවුල් සෞඛ්‍ය සේවා නිළධාරිනී පුහුණු පාසල කලුතර දී විවෘත වේ
+
+*2024-07-28 13:53:54* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ප්‍රථම-පවුල්-සෞඛ්‍ය-සේවා-නිළධාරිනී-පුහුණු-පාසල-කලුතර-දී-විවෘත-වේ/11-411044) · `si`
+
+මෙරට ප්‍රථම පවුල් සෞඛ්‍ය සේවා නිළධාරිනී පුහුණු පාසල ඊයේ දින (27) සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් කලුතර ජාතික සෞඛ්‍ය විද්‍යායතනයේ දී විවෘත කෙරිණි. එයට අමතරව  දුරස්ථ අධ්‍යාපන ඒකකය ද ලේකම්වරයා අතින් විවෘත විය.
+
+මෙරට ප්‍රාථමික සෞඛ්‍ය සංරක්ෂණයට අවශ්‍ය මානව හා භෞතික සම්පත් සංවර්ධනය කරමින් මෙරටට අවශ්‍ය සෞඛ්‍ය වෘත්තිකයන් රට තුළ නිර්මාණය කර ගැනීමට සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ විශේෂ උපදෙස් පරිදි සෞඛ්‍ය අමාත්‍යාශය විසින් ගෙනයනු ලබන විශේෂ වැඩපිළිවෙලට සමගාමීව මෙම නව පුහුණු පාසල ස්ථාපිත කෙරිණි.
+
+...
+
+[Data](articles/2e0b2ff4.json)
 
 ---
 
@@ -2307,21 +2327,5 @@ LTTE terrorists were banned. The organization will not be able to collect money 
 [Data](articles/6e1bb02c.json)
 
 [Extended Data](ext_articles/6e1bb02c.ext.json)
-
----
-
-### Old Dogs, New Tricks: The Ongoing Battle Against Age-Related Mental Decline
-
-*2024-07-27 22:51:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/old-dogs-new-tricks-the-ongoing-battle-against-age-related-mental-decline/) · `en`
-
-Growing up in Sri Lanka in the 60s and 70s, our ambition was to secure a government job, retire by age 55, and enjoy a good pension. I often saw my male relatives doing just that, reclining in easy chairs with their legs propped up—a common and comfortable sight. However, the 80s brought dramatic changes. We scattered across the globe, embracing diverse cultures and values. In the USA, particularly, we’ve been conditioned to believe that age is just a number and that life is endless, with us as the Energizer Bunnies, going on forever.
-
-This optimistic view was suddenly upended last week with President Joe Biden‘s announcement of his campaign termination following his disastrous debate performance. Suddenly, age-related mental decline and dementia were thrust into the spotlight, challenging the notion that we can defy the effects of aging indefinitely.
-
-...
-
-[Data](articles/cbfd149d.json)
-
-[Extended Data](ext_articles/cbfd149d.ext.json)
 
 ---

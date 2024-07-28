@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 21:05:52**
+As of **2024-07-28 21:20:36**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,721 (100.0%) of 37,734 articles have been extended.
+37,732 (100.0%) of 37,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### පිහිනුම් තටාකයේ ගිලි වයස අවුරුදු 07 ක පිරිමි ළමයෙකු මියගිහින්
+### The rim of the swimming pool is dead by a two-year-old boy
 
 *2024-07-28 20:35:52* · [`adalk`](https://www.ada.lk/breaking_news/පිහිනුම්-තටාකයේ-ගිලි-වයස-අවුරුදු-07-ක-පිරිමි-ළමයෙකු-මියගිහින්/11-411057) · `si`
 
-මහනුවර ලුවි පීරිස් මාවතේ පිහිටි හෝටලයක පිහිනුම් තටාකයේ ගිලි වයස අවුරුදු 07 ක පිරිමි ළමයෙකු මිය ගොස් ඔහුගේ වැඩිමහල් සහෝදරයාද එම පිහිනුම් තටාකයේම ගිලි බරපතල තත්ත්වයෙන් මහනුවර ජාතික රෝහලට ඇතුළත් කොට ඇති බව මහනුවර මූලස්ථාන පොලිසිය කියයි .
+A two-year-old boy, Mohammed Miss Manan from Kurungolla, drowned in a swimming pool at Luvi Peiris Mawatha, Kandy. The incident occurred on February 28th, and he was found near the pool around 11:00 pm. His older brother witnessed the accident but couldn't save him. The boy was rushed to Kandy National Hospital, where he was pronounced dead. Investigations are ongoing by the Kandy Headquarters Police.
 
-සිද්ධියෙන් මිය ගොස් ඇත්තේ වැරැල්ලගම කුරුදුගොල්ල ප්‍රදේශයේ පදිංචි මොහොමඩ් මිස්ජාන් නමැති ළමයෙකි .
+🟩
 
-මෙම දරුවන් දෙදෙනා තම දෙමාපියන්ද සමග අද (28) දින නිවාඩුව ගතකිරීමට මෙම හෝටලයට පැමිණ ඇති අතර දහවල් 11.00 ට පමණ මියගිය දරුවා තනිව පිහිනුම් තටාකය අසල සිටියදී ඔහු පිහිනුම් තටාකයට වැටී ඇති බව පොලිසිය කියයි . ඔහු දියේ ගිලි සිටිනු දුටු ඔහුගේ වැඩිමල් සහෝදරයා පිහිනුම් තටාකයට පැන තම බාල සහෝදරයා බේරා ගැනීමට උත්සාහ කිරීමේදී ඔහුද දියේ ගිලී තිබේ .
+The swimming pool at Luvi Peiris Mawatha, Kandy has died and was admitted to the Kandy National Hospital in the pool of the swimming pool.
 
-දිය ගිලි බරපතල තත්ත්වයෙන් සිටි බාල සහෝදරයා රෝහල කරා රැගෙන යන විටද මියගොස් සිට ඇති අතර සිද්ධිය සම්බන්ධයෙන් මහනුවර මූලස්ථාන පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි .
+The deceased has been identified as a child named Mohammed Miss Manan, a resident of Kurungolla.
+
+The two children had come to the hotel to take vamination today (28), while the deceased who died around 11.00 pm was near the swimming pool, police said. He was drowning when he saw his older brother in the swimming pool and drove his younger brother.
+
+The younger brother was killed when the younger brother was taken to the hospital and the Kandy Headquarters Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/4d2d91a3.json)
+
+[Extended Data](ext_articles/4d2d91a3.ext.json)
 
 ---
 
@@ -114,145 +120,217 @@ Addressing a press briefing held under the press briefing series titled “Two Y
 
 [Data](articles/6af80170.json)
 
+[Extended Data](ext_articles/6af80170.ext.json)
+
 ---
 
-### இரணைமடுக்குள பகுதியில் மாவட்ட பயிர்செய்கை குழுவின் தீர்மானங்களை மீறி மேலதிக நெற் செய்கை
+### Additional Paddy in the Iranamadukula area
 
 *2024-07-28 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189620) · `ta`
 
-கிளிநொச்சி இரணை மடுக்குளத்தின் கீழ் உள்ள புலிங்கதேவன் முறிப்பு கமக்கார அமைப்புக்கு  உட்பட்ட பகுதியில் சுமார் 750ஏக்கருக்கும்  மேற்பட்ட  நிலப் பரப்பில் மாவட்ட பயிர்செய்கை  குழுவின் தீர்மானங்களை மீறி மேலதிக நெற்  செய்கை மேற்கொள்ளப்பட்டுள்ளதுடன் கமக்கார அமைப்பின் சிபார்சுகளின் படி சிறுபோகத்துக்கான அரச மானியங்களும் பெற்றுக் கொடுக்கப்பட்டுள்ளன.
+In the Iranamadukula region, over 750 acres of land have been illegally cultivated, violating local committee resolutions and minority subsidy rules. Despite this, the Kamakara organization has received state subsidies for these actions, affecting individual farmers.
 
-கிளிநொச்சி இரணை மடுக்குளத்தின் கீழ் இவ்வாண்டு சிறுபோக நெற்செய்கைக்கு  தீர்மானிக்கப்பட்ட அளவுகளின் படி  புலிங்கதேவன் முறிப்பு கமக்கார அமைப்புக்கு  உட்பட்ட பிரதேசத்தில் உள்ள ஆயிரத்து 707  ஏக்கர் நீர்வரி காணிகளில்  530 ஏக்கர் காணி தவிர்ந்த  ஏனைய ஆயிரத்து 177 ஏக்கர் நிலப்பரப்பில் நெற்செய்கை  மேற்கொள்வதற்கான அனுமதிகள் வழங்கப்பட்டிருந்தன.
+🟩
 
-இந்த நிலையில் குறித்த பிரதேசத்தில் ஒதுக்கீடு செய்யப்பட்ட நிலப்பரப்புடன் சேர்த்து மேலும் 750 ஏக்கர் நிலப்பரப்பு மேலதிகமாக செய்கை பண்ணப்பட்டுள்ளது
+More than 750 acres of land in the area under the Kilinochchi Irani Mudukulam have been adopted in violation of the resolutions of the District Cultivation Committee in the area of ​​the Kamakara system and the state subsidies for minority have been received according to the recommendations of the Kamakara Organization.
+
+According to the size of the Kilinochchi Irani Mudukulam this year, the permits were granted permission to carry out a thousand 707 acres of water land in the area under the Pulingadevan Break Kamakara system.
+
+In addition, 750 acres of land has been opened along with the land allotted in the area.
+
+That is, in violation of the decisions of the District Cultivation Committee, the main responsibility of the Kamakara organizations in the relevance have been cultivated on the cultivation.
+
+As a result of this, many individual farmers have been affected at the same time.
 
 ...
 
 [Data](articles/6d83c0b5.json)
 
+[Extended Data](ext_articles/6d83c0b5.ext.json)
+
 ---
 
-### ஆசியக் கிண்ணத்தை கைப்பற்றிய இலங்கை மகளிர் கிரிக்கெட் அணிக்கு ஜனாதிபதி வாழ்த்து
+### President congratulates Sri Lankan women's cricket team capturing Asian Cup
 
 *2024-07-28 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189636) · `ta`
 
-ஆசிய கிண்ணத்தை வென்ற சமரி அதபத்து உள்ளிட்ட இலங்கை மகளிர் கிரிக்கெட் அணிக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க வாழ்த்துத்  தெரிவித்தார்.
+President Ranil Wickremesinghe praised the Sri Lankan women's cricket team for winning the Asian Cup, highlighting their skills, dedication, and teamwork. He specifically mentioned Samari Adapathu, commending them for bringing honor to the country.
 
-"உங்களுடைய தோல்வியற்ற பயணத்திற்கு உங்கள் திறமை, அர்ப்பணிப்பு மற்றும் கூட்டு செயற்பாடு சான்றாக அமைகிறது. நீங்கள் எமது நாட்டை கௌரவப்படுத்தியுள்ளீர்கள் என ஜனாதிபதி தனது வாழ்த்தில் மேலும் தெரிவித்துள்ளார்.
+🟩
+
+President Ranil Wickremesinghe congratulated the Sri Lankan women's cricket team, including Samari Adapathu who won the Asian Cup.
+
+"Your skill, dedicated and joint operation for your failure. "You have honored our country," the President added in his congratulations.
 
 ◼️
 
 [Data](articles/b298ac8f.json)
 
+[Extended Data](ext_articles/b298ac8f.ext.json)
+
 ---
 
-### மீள முடியா நெருக்கடி
+### Irrigated crisis
 
 *2024-07-28 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189625) · `ta`
 
-2019 ஆம் ஆண்டில் சுமார் 210 பில்லியன் ரூபாவாக இருந்த அடமான கடன் நிலுவைத் தொகை,  2024 மார்ச் மாதத்தில்  172சதவீதம் அதிகரித்து,  571 பில்லியன் ரூபாவாக உயர்ந்துள்ளது. கடந்த ஐந்து ஆண்டுகளில் கொரோனா தொற்றும், பொருளாதார நெருக்கடியும் நாட்டு மக்களை கடன்படுநர்கள் ஆக்கியிருக்கின்றன. அசையும் ,அசையா சொத்துக்களை அடமானம் வைத்து அரசாங்க வங்கிகளில் பெறப்பட்டிருக்கின்ற கடன் நிலுவையே இந்தளவு என்றால், தனியார் வங்கிகள் மற்றும் நிதி நிறுவனங்களில் பெற்றுக் கொள்ளப்பட்டிருக்கின்ற கடன்களின் அளவு எந்தளவுக்கு இருக்கும் என்று ஊகிப்பது கடினம் அல்ல.
+In March 2024, India's mortgage balance surged to 571 billion rupees, a 172% increase from 210 billion rupees in 2019. The COVID-19 pandemic and economic crises over the past five years have significantly increased the nation's debt levels, particularly among homeowners. This situation raises concerns about the extent of loans in private banks and financial institutions.
+
+🟩
+
+The mortgage balance rose by 172 per cent to 571 billion rupees in March 2024, from about 210 billion rupees in 2019.. Corona infection and economic crisis in the last five years have made the nation's debtors. If this is the case with the mortgage of immovable and immovable assets, it is not difficult to speculate on the amount of loans received in private banks and financial institutions.
 
 ◼️
 
 [Data](articles/c53d5928.json)
 
+[Extended Data](ext_articles/c53d5928.ext.json)
+
 ---
 
-### ஆட்டிறைச்சி காணாமல்போன சம்பவம் - 4 பொலிஸாருக்கு தண்டனையுடன் இடமாற்றம்
+### Missing incident
 
 *2024-07-28 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/189626) · `ta`
 
-பொலிஸ் நிலைய குளிரூட்டியில் பாதுகாப்பாக களஞ்சியப்படுத்தப்பட்டிருந்த ஆட்டிறைச்சிகள் காணாமல்போன சம்பவத்தினை அடுத்து 4  பொலிஸ் உத்தியோகத்தர்களுக்கு  தண்டனையுடன் இடமாற்றம் வழங்கப்பட்டுள்ளது.
+Four police officers received death sentences for the disappearance of stored meat. A shop owner was arrested for butchering four goats without slaughtering them properly. The evidence was found in a refrigerator at the Muttirichi police station. Suspicion arose when the magistrate discovered the meat was missing and learned it had been moved elsewhere. Following an investigation, the officers involved were transferred.
 
-கடந்த வெள்ளிக்கிழமை(26) அன்று அம்பாறை மாவட்டம் அக்கரைப்பற்று பொலிஸ் பிரிவிற்கு அட்டாளைச்சேனை  பகுதி வீடு ஒன்றில்  இறைச்சிக்காக வெட்டப்பட்ட ஆடுகள் தொடர்பில் அக்கரைப்பற்று பொலிஸாருக்கு முறைப்பாடு வழங்கப்பட்டிருந்தது.
+🟩
 
-இதற்கமைய விசாரணைகளை மேற்கொண்ட பொலிஸார் ஆடுகளை வெட்டும் தொழுவத்தில் வெட்டப்படாமல் அட்டாளைச்சேனை பகுதியில்  உள்ள ஒரு  வீட்டில் வைத்து 4 ஆடுகளை வெட்டிய கடை உரிமையாளரை பொலிசார்  கைது செய்திருந்தனர்.
+Four police officers have been sentenced to death after the disappearance of muttones who were safely stored in the police station.
 
-பின்னர் குறித்த சந்தேக நபர்  அக்கரைப்பற்று நீதிமன்றில்  ஆஜர் படுத்தப்பட்டிருந்தார். அவரது சார்பில் தோன்றிய சட்டத்தரணி ஆட்டினை தனது வீட்டு நிகழ்வு ஒன்றிக்கு வெட்டியதாகவும் குற்றத்தினை ஏற்றுக் கொள்வதாகத்  தெரிவித்துள்ளார்.
+On Friday (26), the Akkaraipattu police had lodged a complaint with the Akkaraipattu police division of the Akkaraipattu police division in the Adalaichenai area.
 
-குறித்த வழக்கின் சான்றுப் பொருளான ஆட்டிறைச்சி பொலிஸ் நிலையத்தில் குளிர்சாதனப் பெட்டியில் வைக்கப்பட்டுள்ளதாக பொலிசார்  நீதிமன்றிடம் தெரிவித்துள்ளனர்.
+The police have arrested a shop owner who had cut 4 goats at a house in Adalaichenai area without being cut into the goats.
+
+The suspect was later produced in court. Attorney -at -law, who appeared on his behalf, said that she had cut off his home event.
+
+The police have told the court that the proof of the case is placed in the refrigerator at the Muttirichi police station.
+
+When the magistrate went to visit the Akkaraipattu police station, he observed that he was preparing to bury the becco machine.
+
+The judiciary had already made a huge suspicion that the police had already said that the proof was placed in the refrigerator.
 
 ...
 
 [Data](articles/5c85b1eb.json)
 
+[Extended Data](ext_articles/5c85b1eb.ext.json)
+
 ---
 
-### இலங்கை மகளிர் கிரிக்கெட் அணிக்கு ஜனாதிபதி வாழ்த்து
+### President congratulates Sri Lankan women's cricket team
 
 *2024-07-28 20:18:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மகளிர்-கிரிக்கெட்-அணிக்கு-ஜனாதிபதி-வாழ்த்து/175-341174) · `ta`
 
-ஆசிய கிண்ணத்தை வென்ற சமரி அதபத்து உள்ளிட்ட இலங்கை மகளிர் கிரிக்கெட் அணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க வாழ்த்துத் தெரிவித்தார்.
+President Ranil Wickremesinghe congratulated the Sri Lankan women's cricket team, especially Samari Adapathu for winning the Asian Cup. He praised their skills, dedication, and teamwork, stating they've brought honor to the country.
 
-உங்களுடைய தோல்வியற்ற பயணத்திற்கு உங்கள் திறமை, அர்ப்பணிப்பு மற்றும் கூட்டு செயற்பாடு சான்றாக அமைகிறது. நீங்கள் எமது நாட்டை கௌரவப்படுத்தியுள்ளீர்கள் என்றும் ஜனாதிபதி குறிப்பிட்டுள்ளார். (a)
+🟩
+
+President Ranil Wickremesinghe congratulated the Sri Lankan women's cricket team, including Samari Adapathu who won the Asian Cup.
+
+Your skill, dedicated and joint operation for your failure. The President has stated that you have honored our country. (A)
 
 ◼️
 
 [Data](articles/043f3de2.json)
 
+[Extended Data](ext_articles/043f3de2.ext.json)
+
 ---
 
-### தேவைப்படும் தேசத்துக்கான கூட்டமைப்பு
+### Federation for the nation required
 
 *2024-07-28 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189628) · `ta`
 
-தமிழ் அரசுக் கட்சியில் இருக்கின்ற என்னுடைய அருமை மாணவன் பலவிதமான தகைமைகளைக் கொண்டிருந்தாலும், தமிழ்த் தேசிய உணர்வு அவருக்கு இல்லை.  அவர் எல்லாவற்றையும் மூளையினால் பார்ப்பாரே ஒழிய உணர்வினாலோ உணர்ச்சியினாலோ பார்க்க கூடியவர் அல்ல  என்று  அவர் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரனைச்  சுட்டிக்காட்டியிருந்தார்.
+Despite his qualifications, a Tamil state party member lacks Tamil nationality, highlighting the need for national unity and understanding beyond mere credentials.
+
+🟩
+
+Although my dear student in the Tamil state party has a variety of qualifications, he does not have a Tamil nationality. He pointed out parliamentarian MA Sumanthiran that he was not able to see everything from the brain and feel the emotion.
 
 ◼️
 
 [Data](articles/c9f836b5.json)
 
+[Extended Data](ext_articles/c9f836b5.ext.json)
+
 ---
 
-### நியாயமான முறையில் தேர்தலை நடத்த அரச ஊழியர்கள் ஒத்துழைக்க வேண்டும் - தேர்தல்கள் ஆணைக்குழு
+### Public servants must cooperate in conducting elections - Elections Commission
 
 *2024-07-28 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/189597) · `ta`
 
-தேர்தல் காலத்தில் அரச ஊழியர்கள் செயற்பட வேண்டிய முறைமை குறித்து விசேட சுற்றறிக்கை இவ்விரு நாட்களுக்குள் வெளியிடப்படும்.சுதந்திரமாகவும்,நியாயமாகவும் தேர்தலை நடத்துவதற்கு அரச சேவையாளர்கள் அனைவரும் ஒத்துழைப்பு வழங்க வேண்டும் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+Elections Commission emphasizes cooperation from public servants. A circular will guide their conduct during elections, detailing roles like District Secretaries and Government Agents. The Police Department will manage security logistics. Post-nomination discussions will focus on candidate campaigns and media strategies, ensuring compliance with the Election Expenditure Act.
 
-மாவட்ட செயலாளர் மற்றும் அரசாங்க அதிபர் ஆகியோரை தேர்தல் மாவட்டங்களின் தெரிவத்தாட்சி அலுவலர்களாக நியமிக்கும் வகையில் விசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+🟩
 
-தேர்தல் காலத்தில் அரசஊழியர்கள் எவ்வாறு செயற்பட வேண்டும் என்பதை அறிவுறுத்தும் வகையில் விசேட சுற்றறிக்கை இவ்விரு நாட்களில் வெளியாகும்.தேர்தல் செயற்பாடுகளுக்கு சகல அரச ஊழியர்களும் ஒத்துழைப்பு வழங்க வேண்டும்.
+A special circular will be published within two days on the system of public servants during the election.
 
-தேர்தல் பணிகளின் போது பாதுகாப்பு நடவடிக்கையில் ஈடுபடும் பொலிஸாரின் எண்ணிக்கை மற்றும் செலவுகள் தொடர்பான விபரங்களை பொலிஸ் திணைக்களம் வழங்கியுள்ளது.அரச அச்சகத் திணைக்களம் மற்றும் பொலிஸ் திணைக்களம் ஆகியவற்றின் செயற்பாடுகளுக்கு தேவையான நிதியை விடுவிக்குமாறு திறைசேரிக்கு அறிவுறுத்தியுள்ளோம்.
+A special gazette notification has been issued to appoint the District Secretary and the Government Agent as the Elections of the Election Districts.
 
-...
+A special circular will be published in two days to advise how state employees should act during the election. All public servants should cooperate with the election.
+
+The Police Department has provided details of the number and expenses of the police during the election process.
+
+After the acceptance of nominations on the 15th of this month, we will discuss with the candidates or secretaries and independent candidates of political parties to carry out campaigns in accordance with the Election Expenditure Act.
+
+We will discuss the media campaign with the chiefs of the media companies.
+
+◼️
 
 [Data](articles/32419c5c.json)
 
+[Extended Data](ext_articles/32419c5c.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் கூட்டணியுடன் ஒப்பந்தத்தில் கையெழுத்திட மாட்டேன் - மைத்திரியின் குற்றச்சாட்டுக்கு தயாசிறி பதில்
+### Dayasiri's response to Maithri's accusation
 
 *2024-07-28 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189602) · `ta`
 
-உத்தேச ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா சுதந்திர கட்சி எவ்வாறு செயற்பட வேண்டும் என்பது தொடர்பில் தீர்மானிப்பதற்காக 10 பேரடங்கிய குழுவொன்றை நியமிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது. மீண்டும் சகல தொகுதி மற்றும் மாவட்ட அமைப்பாளர்களை அழைத்து இறுதி தீர்மானம் எடுக்கப்படும் என ஸ்ரீலங்கா சுதந்திர கட்சியின் பொதுச் செயலாளர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+A 10-member committee will decide the Sri Lanka Freedom Party's stance in the upcoming presidential election. Dayasiri Jayasekara, the party's General Secretary, clarified he won't sign a contract with the United People's Power-led coalition on August 8, as previously reported. He emphasized decisions cannot be made arbitrarily and assured that discussions with district and constituency organizers covered various political issues, including the election. No decision has been made to support either Sajith Premadasa or Wijeyadasa Rajapakse.
 
-அத்தோடு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளதைப் போன்று ஆகஸ்ட் 8ஆம் திகதி தான் ஐக்கிய மக்கள் சக்தி தலைமையிலான கூட்டணியுடன் ஒப்பந்தத்தில் கையெழுத்திடப் போவதில்லை எனத் தெரிவித்த அவர், இவ்வாறான முடிவுகளை தன்னால் தன்னிச்சையாக எடுக்க முடியாது என்றும் குறிப்பிட்டார்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் மாவட்ட மற்றும் தொகுதி அமைப்பாளர்களுடன் இடம்பெற்ற சந்திப்பு தொடர்பில் வினவிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+It has been decided to appoint a 10 -member committee to decide on how the Sri Lanka Freedom Party should act in the proposed presidential election. Sri Lanka Freedom Party General Secretary Dayasiri Jayasekara said that all constituencies and district organizers will be taken back and the final decision will be taken.
+
+He also said that he would not sign a contract with the United People's Power -led coalition on August 8, as former President Maithripala Sirisena said, adding that he could not make such decisions arbitrarily.
+
+He further stated that he was addressing the meeting with the Sri Lanka Freedom Party (SLFP) district and constituency organizers.
+
+As per the court order, as the General Secretary of the Sri Lanka Freedom Party (SLFP), the legally invited to the constituency and district organizers held a long discussion with them.. Various contemporary political conditions, including the proposed presidential election, were taken care of.
 
 ...
 
 [Data](articles/558166ae.json)
 
+[Extended Data](ext_articles/558166ae.ext.json)
+
 ---
 
-### கடந்த இரண்டு ஆண்டுகளுடன் ஒப்பிடுகையில் 2024 இல் சுற்றுலா தலங்களுக்கு உள்நாட்டு மற்றும் சர்வதேச சுற்றுலாப் பயணிகளின் வருகையில் பாரிய அதிகரிப்பு - பவித்ரா வன்னியாராச்சி
+### Pavithra Wanniyarachchi has increased the arrival of domestic and international tourists in 2024 compared to the last two years.
 
 *2024-07-28 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189635) · `ta`
 
-கடந்த இரண்டு வருடங்களுடன் ஒப்பிடுகையில், 2024 ஆம் ஆண்டில், வனவளத் திணைக்களத்தின் கட்டுப்பாட்டில் உள்ள சுற்றுலாத் தலங்களுக்கு வருகை தந்த உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் எண்ணிக்கையில்  குறிப்பிடத்தக்க அதிகரிப்பு ஏற்பட்டுள்ளதாக வனஜீவராசிகள், வன வளங்கள் மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ரா வன்னியாராச்சி தெரிவித்தார்.
+Pavithra Wanniyarachchi, Sri Lanka's Wildlife, Forest Resources, and Irrigation Minister, announced a significant rise in both domestic and international tourism in 2024 compared to the previous two years. In the first half of 2024 alone, 364,521 tourists visited, with 40% being foreigners. This surge is attributed to new environmental tourism regulations, the opening of information centers and hostels, and efforts to expand forest areas. Additionally, measures to combat elephant threats and modernize wildlife crime prevention laws have been implemented.
 
-2024 ஆம் ஆண்டின் முதல் 6 மாதங்களில் 364 521 சுற்றுலாப் பயணிகள் வந்துள்ளதாகவும் அவர்களில் 40% வெளிநாட்டு சுற்றுலாப் பயணிகள் எனவும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் ஞாயிற்றுக்கிழமை (28) நடைபெற்ற  இரண்டு வருட முன்னேற்றம் தொடர்பான செய்தியாளர் மாநாட்டில் கலந்துகொண்டு உரையாற்றும் போதே வனஜீவராசிகள், வன வளங்கள் பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர்  பவித்ரா வன்னியாராச்சி இதனைக் குறிப்பிட்டார்.
+Wildlife, Forest Resources and Irrigation Minister Pavithra Wanniyarachchi said that by 2024, the number of domestic and foreign tourists who attended the Forest Department in 2024 had a significant increase in the number of tourists.
 
-கடந்த இரண்டு ஆண்டுகளுடன் ஒப்பிடுகையில், 2024ல், வனவளத் திணைக்களத்தின்  நிர்வாகத்தின் கீழ்  உள்ள சுற்றுலா தலங்களுக்கு வரும் உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் எண்ணிக்கையில்  குறிப்பிடத்தக்க அதிகரிப்பு ஏற்பட்டுள்ளது.
+The Minister said that in the first six months of 2024, 364 521 tourists arrived and 40% of them were foreign tourists.
+
+Minister of Wildlife, Forest Resources Protection and Irrigation Pavithra Wanniyarachchi made this statement while addressing a press conference on a two -year progress at the Presidential Media Center on Sunday (28).
+
+Compared to the last two years, in 2024, there has been a significant increase in the number of domestic and foreign tourists coming to tourist destinations under the administration of the Forest Department.
+
+Accordingly, the number of tourists visiting the tourist attractions controlled by the Department of Forest Resources in 2022 was 289,405 and 2023.
 
 ...
 
 [Data](articles/b3a8cee4.json)
+
+[Extended Data](ext_articles/b3a8cee4.ext.json)
 
 ---
 

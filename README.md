@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 02:20:27**
+As of **2024-07-29 02:35:58**
 
 ## Newspaper Stats
 
-*Scraped **37,752** Articles*
+*Scraped **37,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,262
-dailyftlk | 2,409
+dailyftlk | 2,410
 adalk | 3,441
 adaderanalk | 4,373
 tamilmirrorlk | 4,662
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,752 (100.0%) of 37,752 articles have been extended.
+37,752 (100.0%) of 37,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### UK’s Catalina retains MTI for hyper-personalised retailing
+
+*2024-07-29 02:18:30* · [`dailyftlk`](https://www.ft.lk/business/UK-s-Catalina-retains-MTI-for-hyper-personalised-retailing/34-764846) · `en`
+
+Catalina, global pioneers of shopper activation for over 40 years, has embarked on a comprehensive campaign lifecycle management (CLM) process review assignment with MTI Consulting in the UK. The independent review by MTI will enable Catalina Marketing UK to better serve the campaign needs of their retail customers.
+
+The scope of the assignment involves detailed campaign lifecycle-related process documentation review, one-on-one sessions, supplemented with domain research and subject matter expertise on grocery retail. Based on these detailed insights and inputs, the MTI team is developing clear and actionable recommendations for Catalina UK, including campaign management process improvements which will be evaluated internally and implemented in line with business goals.
+
+...
+
+[Data](articles/bec08949.json)
+
+---
 
 ### Principles and proposals for political and constitutional reform for democracy: Part II
 
@@ -2309,33 +2323,5 @@ Israeli said many people, including 12 children, were killed in an attack on Isr
 [Data](articles/d3232ea8.json)
 
 [Extended Data](ext_articles/d3232ea8.ext.json)
-
----
-
-### Two arrested for attending Religious Celebrations
-
-*2024-07-28 11:16:54* · [`adalk`](https://www.ada.lk/breaking_news/ආගමික-උත්සව-වලට-ගොස්-රන්මාල-කොල්ල-කන-කාන්තා-කල්ලියක-සාමාජිකාවන්-දෙදෙනෙකු-අත්අඩංගුවට/11-411037) · `si`
-
-In a recent incident, two individuals were arrested for allegedly stealing gold during religious celebrations in Sri Lanka. The suspects, both from the Trincomalee district, were caught near the Ruwanweli Param in Anuradhapura. Police recovered stolen gold from them, linking them to a previous robbery. The duo was apprehended by officers from the Colombo Headquarters and the Anuradhapura headquarters, highlighting the importance of security around sacred sites.
-
-🟩
-
-Two members of the island's religious ceremonies were taken into custody by the Colombo Headquarters and gold.
-
-The Ranmal and Heroin found that the robbers were nearing the Ruwanweli Param of Anuradhapura yesterday.
-
-The arrested suspects are two residents of the Trincomalee district 43 and 27.
-
-According to the police, a robbed gold was found in possession of the suspects and was found in a bus with a bus in a bus for three days ago in bus.
-
-The robbery members who are in sacred places in the saccupations of the sacred areas and shifted the thieves, to the end of the robbery, and flee from the site, that is not worthwhile.The police had revealed here.
-
-Anuradhapura headquarters police OIC Chief Inspector Inspector R. M. OIC of the Jayaweera Criminal Investigation Division Inspector Anura Ratnayake, Sub-Inspector Anura Ratnayake, Sub-Inspects Livelihood (48344) carried out this raid.
-
-◼️
-
-[Data](articles/7953f09b.json)
-
-[Extended Data](ext_articles/7953f09b.ext.json)
 
 ---

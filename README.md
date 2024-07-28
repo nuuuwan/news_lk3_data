@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 22:53:36**
+As of **2024-07-28 23:05:21**
 
 ## Newspaper Stats
 
-*Scraped **37,738** Articles*
+*Scraped **37,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,440
+adalk | 3,441
 adaderanalk | 4,373
 tamilmirrorlk | 4,662
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,738 (100.0%) of 37,738 articles have been extended.
+37,738 (100.0%) of 37,739 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -437,6 +437,22 @@ Second 20 and Twenty20 International Competition will be held today (28) at the 
 [Data](articles/0306c286.json)
 
 [Extended Data](ext_articles/0306c286.ext.json)
+
+---
+
+### මැණික් ගඟේ ගිලී සිසුවෙකු මරුට
+
+*2024-07-28 19:16:51* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-ගඟේ-ගිලී-සිසුවෙකු-මරුට/11-411050) · `si`
+
+හපුතලේ ප්‍රදේශයේ සිට කතරගම වන්දනාවේ පැමිණි කණ්ඩායමක් සෙල්ලකතරගම මැණික් ගඟේ පාලම අසල දිය නාමින් සිටියදී අද (28 ) එක් තරුණයෙකු දියේ ගිලී මියගොස් ඇති බව කතරගම පොලිසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ හපුතලේ, දඹේතැන්න, බණ්ඩාර එළියවත්ත ලිපිනයේ පදිංචි මෝගන් රාජ් සරන් නැමති 16 හැවිරිදි තරුණයකු වන අතර ඔහු හපුතලේ දෙමළ මහා විද්‍යාලයේ 11 වන ශ්‍රේණියේ ඉගෙනුම ලබන බවත්, මෙම වසරේ දී අ. පො. ස. සාමාන්‍ය පෙළ විභාගයට ඉදිරිපත් වීමට සූදානමින් සිටි අයෙකු බව ද සිසුවාගේ පියා විසින් පවසයි.
+
+සෙල්ලකතරගමට පැමිණ දේවාලයේ පූජාවන් තැබීමට පෙර දිය නාමින් සිටියදී පුතා දක්නට නොලැබීම හේතුවෙන් කණ්ඩායමේ සිටි අනෙකුත් පිරිස සමඟ දිය යට කිමිදී ගල් වලක තිබී ඔහු සොයාගෙන රෝහල වෙත ගෙන ගොස් ඇති අතර එන විටදීත් ඔහු මියගොස් ඇති බව වෛද්‍යවරුන් පැවසූ බව මියගිය සිසුවාගේ පියා පවසයි.
+
+◼️
+
+[Data](articles/3efc0874.json)
 
 ---
 
@@ -2303,31 +2319,5 @@ Meanwhile, the number of rape report reported that the audited report was report
 [Data](articles/cb0685b3.json)
 
 [Extended Data](ext_articles/cb0685b3.ext.json)
-
----
-
-### Female feast because of divorce
-
-*2024-07-28 10:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விவாகரத்து-கிடைத்ததால்-பெண்ணொருவர்-விருந்து/50-341138) · `ta`
-
-A US-based Pakistani woman celebrated her divorce with a feast, which went viral. She wore purple and sang on stage, surrounded by divorce-themed decorations. Despite the joy, some viewers expressed concern about marriage after seeing the celebration.
-
-🟩
-
-A Pakistani woman living in the United States celebrated with a feast. His celebration video has now gone viral on social networks.
-
-A woman living in the United States has recently been divorced. He then decided to celebrate that happiness. He has celebrated his divorce with his friends and companions at the hotel.
-
-He was involved in the celebration with the background board of greetings for divorce. He climbed on the stage and celebrated his song and singing songs. Purple colored dressed up with his pussy. Her celebration has gone viral on social web sites. He did not know who he was.
-
-And he did not give the reason why he was divorced. Many people who have seen his video have congratulated him.
-
-At the same time, it is a happy thing that some people got Viva Karatu. But at the same time, celebrating divorce, people are afraid of getting married.
-
-◼️
-
-[Data](articles/15afbb9a.json)
-
-[Extended Data](ext_articles/15afbb9a.ext.json)
 
 ---

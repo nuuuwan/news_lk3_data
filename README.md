@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 06:41:22**
+As of **2024-07-28 07:20:20**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 6,320
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,591 (100.0%) of 37,603 articles have been extended.
+37,594 (100.0%) of 37,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### ඉදිරි පැය 24 සැලකිලිමත් වන්න
+### Next 24 Hours Be Care
 
 *2024-07-28 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199281) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Strong winds and heavy showers expected across Sri Lanka for the next 24 hours, particularly affecting the Bay of Bengal region, Sabaragamuwa, Kandy, Nuwara Eliya, Western, North Western, Galle, and Matara districts. Winds could reach 50-55 knots in western-central hill areas and 30-40 knots elsewhere.
 
-අද (28) අලුයම 3.00ට නිකුත්කරන ලද එම නිවේදනය ඉදිරි පැය 24 සඳහා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අරාබි මුහුදු ප්‍රදේශ සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශවල ක්‍රියා කරන බහුදින ධීවර සහ නාවික ප්‍රජාව මේ පිළිබඳව සැලකිලිමත් වන ලෙසය.
+The Department of Meteorology has issued a warning notification of the strong winds and sea.
 
-මේ අතර සබරගමුව පළාතේත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (28) දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology announces that the announcement issued at 3.00 am today (28) will be valid for the next 24 hours.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+The department states that the multi-day fishing and naval community acting in the Bay of Bay of Bengal.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවේ.
+The Meteorology Department says that showers will experience showers at the same time in the Sabaragamuwa and Kandy and Nuwara Eliya districts.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+The department states that several showers may occur in the Western and North Western Provinces and several times in the Galle and Matara districts.
+
+At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. Strong winds are about 50-55.
+
+From time to time in the rest of the island.. The Meteorological Department further stated that there are stakes at 30-40 times.
 
 ◼️
 
 [Data](articles/821070c5.json)
+
+[Extended Data](ext_articles/821070c5.ext.json)
 
 ---
 
@@ -158,6 +164,8 @@ As East West continued its upward trend in business, it enjoyed a series of ‘f
 
 [Data](articles/05483723.json)
 
+[Extended Data](ext_articles/05483723.ext.json)
+
 ---
 
 ### XXXIII Olympic Games
@@ -169,6 +177,8 @@ Innumerable essays were written during schooldays; celebrated in 1948 was Major 
 ...
 
 [Data](articles/28d3f0d9.json)
+
+[Extended Data](ext_articles/28d3f0d9.ext.json)
 
 ---
 

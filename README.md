@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 23:55:36**
+As of **2024-07-29 00:08:01**
 
 ## Newspaper Stats
 
-*Scraped **37,745** Articles*
+*Scraped **37,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 3,441
 adaderanalk | 4,373
 tamilmirrorlk | 4,662
 dailymirrorlk | 4,733
-virakesarilk | 5,950
+virakesarilk | 5,951
 adaderanasinhalalk | 6,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,743 (100.0%) of 37,745 articles have been extended.
+37,745 (100.0%) of 37,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### யார் பொதுவேட்பாளர்; பொதுக் கட்டமைப்பின் சில முக்கிய தீர்மானங்கள்!
+
+*2024-07-28 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189641) · `ta`
+
+தமிழ்த் தேசியக் கட்சிகளுக்கும் தமிழ் மக்கள் பொதுச் சபைக்கும் இடையில் உருவாக்கப்பட்டுள்ள பொதுக் கட்டமைப்பு சில முக்கிய தீர்மானங்களை ஞாயிற்றுக்கிழமை (28) எடுத்துள்ளது.
+
+தமிழ்த் தேசிய பொதுக் கட்டமைப்பின் விசேட கூட்டம் யாழ் நகரிலுள்ள தனியார் விருந்தினர் விடுதியில் நடைபெற்ற போதே பொதுக் கட்டமைப்பின் அடுத்தகட்ட நடவடிக்கைகள் தொடர்பாக ஆராய்ந்து  முக்கிய சில தீர்மானங்கள் எடுக்கப்பட்டுள்ளது.
+
+இச் சந்திப்பு தொடர்பாக சிவில் சமூகப் பிரதிநிதியும் பொதுக் கட்டமைப்பின் உறுப்பினருமான அரசியல் ஆய்வாளர் நிலாந்தன் ஊடகங்களுக்கு கருத்து வெளியிட்டார். இதன் போது அவர் தெரிவித்ததாவது..
+
+தமிழ்த் தேசிய அரசியல் கட்சிகளுக்கும் தமிழ் மக்கள் பொதுச் சபைக்கும் இடையில் உருவாக்கப்பட்டுள்ள தமிழ்த் தேசிய பொதுக் கட்டமைப்பின் முதலாவது கூட்டம் இன்று நடைபெற்றது.
+
+இதன் போது பொதுவேட்பாளரை நிறுத்துவது குறித்தான பல்வேறு விடயங்கள் தொடர்பிலும் ஆராயப்பட்டு அடுத்த கட்ட நடவடிக்கைகள் தொடர்பில் சில தீர்மானங்களை எடுத்திருக்கிறோம்.
+
+...
+
+[Data](articles/8b659fab.json)
+
+---
 
 ### Ranil Wickremesinghe's success is confirmed - Akhilaviraj Kariyawasam
 
@@ -599,6 +619,8 @@ The cement consumption decreased from 4.54 million metric tonnes in 2022 to 3.79
 ...
 
 [Data](articles/874dd988.json)
+
+[Extended Data](ext_articles/874dd988.ext.json)
 
 ---
 
@@ -1383,6 +1405,8 @@ In the 12 months to June private credit has expanded 432 billion rupees.
 ...
 
 [Data](articles/db4b194f.json)
+
+[Extended Data](ext_articles/db4b194f.ext.json)
 
 ---
 
@@ -2299,29 +2323,5 @@ He added that some MPs of the party have decided to support the candidates on th
 [Data](articles/5085c645.json)
 
 [Extended Data](ext_articles/5085c645.ext.json)
-
----
-
-### Israel begins counterpart
-
-*2024-07-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199292) · `si`
-
-Israel launches airstrikes targeting Hezbollah leaders in Lebanon in retaliation for a missile attack on a soccer field in a village near the Golan Heights, which killed civilians.
-
-🟩
-
-The Israeli army says that air strikes were launched to the heads of Hezbollawa in Lebanon.
-
-In response to death by a missile attack on a football field in a village in a village of a village in the Gholan mountain range of Israel.
-
-Israel says he is responsible for the attack on the missile attack yesterday (27).
-
-Israeli security forces said that hezbollah in Lebanon had severely attacked.
-
-◼️
-
-[Data](articles/c0036fcb.json)
-
-[Extended Data](ext_articles/c0036fcb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 08:35:51**
+As of **2024-07-28 08:54:56**
 
 ## Newspaper Stats
 
-*Scraped **37,610** Articles*
+*Scraped **37,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,259
 dailyftlk | 2,405
-adalk | 3,419
+adalk | 3,420
 adaderanalk | 4,357
 tamilmirrorlk | 4,639
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,321
+adaderanasinhalalk | 6,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,605 (100.0%) of 37,610 articles have been extended.
+37,610 (100.0%) of 37,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### ජනාධිපතිවරණයට අදාළ මූලික මුද්‍රණ කටයුතු අවසන්
+
+*2024-07-28 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199284) · `si`
+
+ජනාධිපතිවරණයට අදාළව මූළික මුද්‍රණ කටයුතු රජයේ මුද්‍රණාලය විසින් අවසන් කර මැතිවරණ කොමිෂන් සභාව වෙත භාරදී තිබේ.
+
+ඒ අනුව, ජනාධිපතිවරණයට අදාළ නාමයෝජනා සහ ඇප මුදල් තැන්පත් කිරීමට අදාළ මුද්‍රණ කටයුතු රජයේ මුද්‍රණාලය විසින් අවසන් කර ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මැතිවරණ නිලධාරීන් පත්කිරීමේ ගැසට් නිවේදනය ද මේ වනවිට මුද්‍රණාලය විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+ඒ අනුව එක් එක් දිස්ත්‍රික්කවල දිස්ත්‍රික් ලේකම්වරයා තේරීම්භාර නිලධාරීවරයා ලෙස පත්කරමින් ගැසට් පත්‍රයක් මේ වනවිට නිකුත් කර ඇති බව සඳහන්ය.
+
+එමෙන්ම එක් එක් මැතිවරණ කොට්ඨාස සඳහා සහකාර තේරීම්භාර නිලධාරීන් ප්‍රකාශයට පත්කරමින් මැතිවරණ කොමිෂන් සභාව විසින් ගැසට් පත්‍රයක් ප්‍රකාශයට පත්කර තිබේ.
+
+අද දෙරණ සිදුකළ විමසීමකට පිළිතුරු ලබාදෙමින් රජයේ මුද්‍රණාලයාධිපතිනි ගංගා කල්පනී ලියනගේ මහත්මිය සඳහන් කළේ මැතිවරණයේ ඉදිරි කටයුතු සඳහා අවශ්‍ය ලිපි ලේඛන මුද්‍රණ කිරීමේ කටයුතු මේ වනවිට අඛණ්ඩව සිදුකරමින් පවතින බවය.
+
+◼️
+
+[Data](articles/adf864e1.json)
+
+---
 
 ### Several spells of showers expected in parts of Sri Lanka
 
@@ -49,6 +71,26 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 [Data](articles/e6ca007f.json)
 
 [Extended Data](ext_articles/e6ca007f.ext.json)
+
+---
+
+### මාර්ග සංවර්ධන අධිකාරියේ සභාපති ඉල්ලා අස්වෙයි
+
+*2024-07-28 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199283) · `si`
+
+මාර්ග සංවර්ධන අධිකාරියේ සභාපති සී.පී. අතළුවගේ මහතා මහතා සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+අදාළ ඉල්ලා අස්වීම ජනාධිපති ලේකම්වරයා වෙත යොමුකර ඇති අතර මේ සම්බන්ධයෙන් ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා දැනුවත් කර ඇති බව අතළුවගේ මහතා "අද දෙරණ" කළ විමසීමකදී සඳහන් කළේය.
+
+මාර්ග සංවර්ධන අධිකාරියේ රාජකාරී කටයුතු සම්බන්ධයෙන් ප්‍රවාහන හා මහාමාර්ග අමාත්‍යංශ ලේකම්වරයාගේ අත්තනෝමතික මැදිහත්වීම හා අනිසි බලපෑම් හේතුවෙන් එම තීරණය ගත් බව අතළුවගේ මහතා පැවසීය.
+
+පසුගිය කාලසීමාව තුළ එම අනිසි බලපෑම් සහ මැදිහත්වීම් නිරන්තරයෙන් සිදුවූ අතර වර්තමානයේ දී ආයතනයේ ඉහළ කළමනාකාරීත්වය වෙත සෘජු බලපෑම් එල්ල කර මාර්ග සංවර්ධන අධිකාරියේ පරිපාලන සහ මෙහෙයුම් කටයුතුවලට අතපෙවීම් සිදුකළ බව ඔහු සඳහන් කළේය.
+
+පසුගිය වසර හතරහමාරක සේවා කාලය තුළ මාර්ග සංවර්ධන අධිකාරියේ කීර්තිනාමයට කැළලක් ඇති නොවන අයුරින් හා සේවකයින්ගේ අභිවෘද්ධිය වෙනුවෙන් රටේ පවත්නා නීති රෙගුලාසිවලට අනුකූළව විනිවිදභාවයකින් සහ අධ්‍යක්ෂ මණ්ඩලයේ අනුමැතීන්ට යටත්ව රාජකාරී සිදුකළ බව අතළුවගේ මහතා සිය ඉල්ලා අස්වීමේ ලිපියෙන් සඳහන් කර ඇත.
+
+...
+
+[Data](articles/4af916bc.json)
 
 ---
 
@@ -517,6 +559,24 @@ This optimistic view was suddenly upended last week with President Joe Biden‘s
 ...
 
 [Data](articles/cbfd149d.json)
+
+[Extended Data](ext_articles/cbfd149d.ext.json)
+
+---
+
+### එකා පිට එකා දැවී යාමේ වරදම ලංකාව කරයි
+
+*2024-07-27 22:50:52* · [`adalk`](https://www.ada.lk/sports/එකා-පිට-එකා-දැවී-යාමේ-වරදම-ලංකාව-කරයි/9-411028) · `si`
+
+ඉන්දිය පන්දු යවන්නන් හමුවේ ශ්‍රී ලංකා පිතිකරුවන් සිය කඩුලු පූජා කිරිමේ වරද හේතුවෙන් දෙරට අතර පැවැති පළමු විස්සයි20 තරගයෙන් ඉන්දීය කණ්ඩායම 888 ජයක් වාර්තා කිරිමට සමත්වූහ.
+
+ආරම්භක පිතිකරු පැතුම් නිශ්ශංක (ලකුණු 79 පන්දු 48) මුලු ලකුණු සංඛ්‍යාව ලකුණු 140දි (පන්දුවාර 14.1)  දෙවැනි කඩුල්ල ලෙස  පිටියෙන් ඉවත්වන විට ශ්‍රී ලංකාව පන්දුවාරයකට ලකුණු 10ක වේගයක් රදවා ගනිමින් තරගය දෙපිළටම විවෘත කර තිබුණි.
+
+කෙසේ වෙතත් ඉන් අනතුරුව කුසල් පෙරේරා 20 (මුලු ලකුණු 149), චරිත් අසලංක 0 (මුලු ලකුණු 158), දසුන් ශානක 0 (මුලු ලකුණු  160), කමිඳු මෙන්ඩිස් 12 (මුලු ලකුණු 161), වනිඳු හසරංග 2 (ලකුණු 163), මතීෂ පතිරණ 6 (මුලු ලකුණු 170), මහීෂ් තීක්ෂණ 2 (මුලු ලකුණු 170)   ලෙස ඉනිමට තවත් ලකුණු 30ක් එක්වන විට කඩුලු 8ක් දැවි ගියේය.
+
+◼️
+
+[Data](articles/09801461.json)
 
 ---
 
@@ -2153,79 +2213,5 @@ The President was referring to the matter with social media by watching the prog
 [Data](articles/1f5c395f.json)
 
 [Extended Data](ext_articles/1f5c395f.ext.json)
-
----
-
-### Government that refuses to deliberately observe court orders- lawyers united
-
-*2024-07-27 08:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189489) · `ta`
-
-Lawyers criticize government for ignoring court orders, citing PM's stance that Supreme Court cannot override Constitutional Council decisions. This refusal to comply with court rulings impedes national progress. The President's attorney warns against contempt of court if officials defy orders. Despite claims otherwise, the Supreme Court maintains its authority over Constitutional Council actions. The situation underscores concerns over the misuse of judicial power and the need for adherence to constitutional provisions.
-
-🟩
-
-Attorneys' lawyers united by the Prime Minister's parliamentary speech that the Supreme Court's order on the Inspector General of Police Deshambanduthenkoon cannot be strengthened.
-
-At a press conference held yesterday to clarify to the public about the order issued by the Supreme Court on the post of Deshabanduthenkoon and the president and the government's behavior.
-
-The lawyers' organization, which has recently pointed out that the government is following the tendency to deliberately refuse to adhere to the court's orders, has said that this is a barrier to the country's progress in all aspects.
-
-President's Attorney Upul Jayasuriya said that if you are trying to use the powers of the post if they are trying to continue working as the Inspector General of Police, it is a contempt of court.
-
-He has rejected some claiming that the High Court does not have the authority to issue an order against the resolution of the Constitutional Council.
-
-...
-
-[Data](articles/9b1c8c83.json)
-
-[Extended Data](ext_articles/9b1c8c83.ext.json)
-
----
-
-### Suspects of the murder arrested in a three-wheeler
-
-*2024-07-27 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199253) · `si`
-
-Two suspects were arrested in a three-wheeler during a Colombo Crimes Division operation. They are from Gunawila and Grandpass, aged 35 and 48. The arrest followed the discovery of 30 grams of ice narcotics. Further investigations are ongoing.
-
-🟩
-
-Two suspects have been arrested in a three-wheeler in Ward Place on the 23rd of a three-wheeler.
-
-Troops conducting search operations conducted by a team of officers of the Colombo Crimes Division yesterday (26) was taken into custody by a team of officers in the Colombo Crimes Division.
-
-Residents of 35 and 48 years are residents of Gunawila and Grandpass.
-
-The suspect had found 30 ice narcotics, 30 grams of ice.
-
-The Colombo Crimes Division is conducting further investigations.
-
-◼️
-
-[Data](articles/176b82ee.json)
-
-[Extended Data](ext_articles/176b82ee.ext.json)
-
----
-
-### If not display price
-
-*2024-07-27 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199252) · `si`
-
-The Consumer Affairs Authority plans to sue stone owners for not reducing bread prices by Rs.10. Investigations and raids are underway. Since January, legal actions have been taken against 210 individuals for illegal measurement practices.
-
-🟩
-
-The Consumer Affairs Authority says that steps will be taken to take legal action against the stone owners who do not decrease the price of 450 grams bread by Rs.10.
-
-Its Chairman TI. Upon Mr. Uduwara stated that the Investigation Division has instructed to carry out the raids.
-
-Meanwhile, Assistant Measurement Unit Standard Unit Standards Service Service Superintendent Sure Dilruk Pattutiyepola has said that legal action has been taken against 210 persons regarding legal measurement equipment since January.
-
-◼️
-
-[Data](articles/cfeef114.json)
-
-[Extended Data](ext_articles/cfeef114.ext.json)
 
 ---

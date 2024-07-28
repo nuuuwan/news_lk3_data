@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 11:55:53**
+As of **2024-07-28 12:08:53**
 
 ## Newspaper Stats
 
-*Scraped **37,647** Articles*
+*Scraped **37,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,424
-adaderanalk | 4,363
-tamilmirrorlk | 4,652
+adalk | 3,426
+adaderanalk | 4,364
+tamilmirrorlk | 4,653
 dailymirrorlk | 4,733
 virakesarilk | 5,909
 adaderanasinhalalk | 6,331
@@ -26,11 +26,47 @@ adaderanasinhalalk | 6,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,643 (100.0%) of 37,647 articles have been extended.
+37,647 (100.0%) of 37,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### Defence Secretary requests Myanmar PM to facilitate rescue of Sri Lankans held in cyber camps
+
+*2024-07-28 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/100831/defence-secretary-requests-myanmar-pm-to-facilitate-rescue-of-sri-lankans-held-in-cyber-camps) · `en`
+
+Sri Lanka’s Secretary of Defence General Kamal Gunaratne has called on the Myanmar Prime Minister and Chairman of the State Administration Council (SAC) Senior General Min Aung Hlaing and requested to facilitate the rescue of the group of Sri Lankans held captive for forced criminal activities at a Cyber Criminal camp operated by a terrorist group in Myanmar.
+
+The Myanmar Prime Minister has emphasized the government’s commitment to cooperating with Sri Lankan officials and prioritizing the resolution of this issue.
+
+The Defence Secretary met the Myanmar Prime Minister on the sidelines of the 4th meeting of the BIMSTEC National Security Chiefs.
+
+At the meeting, both dignitaries cordially discussed friendly relations between the two countries, bilateral cooperation in diplomatic relations and religious affairs, the Ministry of Defence said.
+
+...
+
+[Data](articles/692e8a77.json)
+
+---
+
+### அதிக `லைக்’ அள்ளபோனதால் :   கை, கால் துண்டானது
+
+*2024-07-28 11:43:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-லைக்-அள்ளபோனதால்-கை-கால்-துண்டானது/175-341146) · `ta`
+
+சமூக வலைத்தளங்களில் பதிவிட்டு, காணொளிகளை பதிவிட்டு, குரல்களை பதிவிட்டு அதிக லைக்குகளை (விருப்பங்களை) அள்ளி குவிப்பதற்கே பலரும் முயற்சிக்கின்றனர். சிலருக்கு லைக்குகள் அள்ளிக்கொண்டு கிடைக்கின்றன. இன்னும் சிலருக்கு அதுவே ஆபத்தில் போய் முடிகின்றது.
+
+அ​திக, ‘லைக்’குகளை பெறுவதற்காக இளைஞன் ஒருவன், ரயிலில் சாகசம் செய்தபோது ஏற்பட்ட விபரீதத்தால், அவருடைய கை ஒன்றும், கா​ல் ஒன்றும் துண்டான சம்பவமொன்று இந்தியாவில் இடம்பெற்றுள்ளது.
+
+மகாராஷ்டிர மாநிலம் வடாலாவிலுள்ள அன்டாப் ஹில் பகுதியைச் சேர்ந்தவர் பர்ஹத் ஷேக். இவர் ஓடும் ரயில்களில் கம்பியைப் பிடித்தபடி பிளாட்பார்மில் கால்கள் தேய்த்தபடி சறுக்கிச் சென்று சாகசத்தில் ஈடுபடுவார்.
+
+இதை வீடியோவாக எடுத்து, லைக்குகள் பெறுவதற்காக ஃபேஸ்புக், ட்விட்டர் போன்ற சமூக வலைதளங்களில் வெளியிடுவார். இந்நிலையில், இவர் மீது, ரயில்வே பாதுகாப்பு பொலிஸார் (ஆர்பிஎப்) வழக்குப் பதிவு செய்தனர். அவரைக் கண்டுபிடித்து அவரது இருப்பிடத்துக்குச் சென்றபோது விபத்தில் அவர் ஒரு கை, காலை இழந்தது அதிகாரிகளுக்குத் தெரியவந்தது.
+
+...
+
+[Data](articles/39e40436.json)
+
+---
 
 ### MP Sumanthiran’s vehicle involved in road accident
 
@@ -46,21 +82,47 @@ According to Kilinochchi Police, no one was injured in the accident. However, th
 
 [Data](articles/ddf7e67e.json)
 
+[Extended Data](ext_articles/ddf7e67e.ext.json)
+
 ---
 
-### සයිබර් අපරාධ කඳවුරුවල රඳවා සිටින ශ්‍රී ලාංකිකයින් ගැන සාකච්ඡාවක්
+### A discussion on Sri Lankans detained in cyber crime camps
 
 *2024-07-28 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199293) · `si`
 
-මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවල බලහත්කාරයෙන් රඳවාගෙන සිටින ශ්‍රී ලාංකිකයින් බේරා ගැනීම සම්බන්ධයෙන් ආරක්ෂ ලේකම් ජෙනරාල් කමල් ගුණරත්න මහතා එරට අග්‍රාමාත්‍යවරයා සමග සාකච්ඡාවක් පවත්වා තිබේ.
+Sri Lanka's Defense Secretary Kamal Gunaratne discussed the release of citizens detained in Myanmar's cybercrime camps during a meeting with Myanmar's Prime Minister. He emphasized the importance of freeing these individuals and resolving the issue, highlighting the commitment of both governments to address the situation.
 
-බිම්ස්ටෙක් ජාතික ආරක්ෂ ප්‍රධානීන්ගේ 4 වැනි සමුළුවට සහභාගි වීමට මියන්මාරයට ගොස් සිටින අතරතුර ආරක්ෂක ලේකම්වරයා එරට අග්‍රාමාත්‍ය කාර්යාලයේ දී මියන්මාර අග්‍රාමාත්‍ය Min Aung Hlaing මහතා හමුවූ බව ආරක්ෂක අමාත්‍යංශය පැවසීය.
+🟩
 
-අදාළ ශ්‍රී ලාංකිකයින් පිරිස මුදාගැනීම සඳහා සහාය වන ලෙස ආරක්ෂක ලේකම්වරයා ඉල්ලීමක් කර ඇති අතර එම ගැටලුව විසඳීමට ප්‍රමුඛත්වය දීම සඳහා වන සිය රජයේ කැපවීම එහිදී මියන්මාර අග්‍රාමාත්‍යවරයා අවධාරණය කර තිබේ.
+The Secretary General of Defense Kamal Gunaratne has discussions with the rescue of Sri Lankans who were forcibly detained in Myanmar Crime Cadres.
+
+The Defense Ministry said that the Defense Secretary had met with Myanmar Prime Minister MIN AULung Hlaing at the Prime Minister's Office of Myanmar to attend the 4th convention of the Bimus.
+
+The Defense Secretary has requested the rescue of the release of the persons to the liberation of the people and the commitment of their government to resolve the problem.
 
 ◼️
 
 [Data](articles/d7926ca1.json)
+
+[Extended Data](ext_articles/d7926ca1.ext.json)
+
+---
+
+### කුවේට් රාජ්‍යයේ රැකියා සදහා ගොස් එහිදී වෙඩි කා දැන් ශ්‍රී ලංකාවේ හිගා කෑමට සූදානම් වන ශ්‍රී ලාංකිකයා
+
+*2024-07-28 11:29:40* · [`adalk`](https://www.ada.lk/breaking_news/කුවේට්-රාජ්‍යයේ-රැකියා-සදහා-ගොස්-එහිදී-වෙඩි-කා-දැන්-ශ්‍රී-ලංකාවේ-හිගා-කෑමට-සූදානම්-වන-ශ්‍රී-ලාංකිකයා/11-411038) · `si`
+
+කුවේට් රාජ්‍යයේ ආපනශාලාවක ආහාර ඇනවුම් බෙදාහැරීමේ නිරත වී සිටිය දී , එම ඇනවුම ලබා දීමට මදක් ප්‍රමාද වීම නිසා උරණ වූ කුවේට් ජාතිකයෙකු තැබූ වෙඩි පහරකින් ඔත්පළ වී , ඇදි වත පමණක් රැගෙන , ශ්‍රී ලංකාවේ තම දූ දරුවන් සහ අසනීප වී සිටින බිරිඳ ජීවත් කිරීම සදහා " හිගා කෑමට " මහ පාරට බැසීමට සූදානමින් මෙරටට 07/26 දින අලුයම රාජාංගනය ප්‍රදේශයේ පදිංචිකරුවෙකු කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියේය .
+
+ඔහු රාජාංගනය , යාය - 11 ප්‍රදේශයේ පදිංචි සාගර ලක්ෂ්මන් තිලකරත්න නැමැති 46 හැවිරිදි පුද්ගලයෙකි .
+
+මම වැඩ කරමින් සිටි ආපනශාලාවෙ සිට ඒ ආපනශාලාවට ගිහිං , ඒ ඇනවුම භාර දීමට නියමිත " බර් " නැමැති කාන්තාර ප්‍රදේශයේ පිහිටි නිවෙස වෙත ගියා . ගිහිං ආහාර ඇනවුම් කළ පුද්ගලයාට දුරකථන ඇමතුමක් දුන්නා . ඔහු ඒකට පිළිතුරු දුන්නෙ නැහැ .
+
+ඔහු ඔහුගේ මෝටර් රථයෙන් පැමිණ , මගේ මෝටර් රථය පිටුපසින් නවතා ගෙන සිටියදී , මම ඔහුට ආහාර ඇනවුම භාර දීමට , ඔහුගේ මෝටර් රථය අභියසට යනවාත් සමගම , ඔහු මෝටර් රථයේ වීදුරුව පහත් කර මට වෙඩි තැබුවා.
+
+...
+
+[Data](articles/a2679199.json)
 
 ---
 
@@ -530,6 +592,26 @@ He said that the statement made by former President Maithripala Sirisena was pre
 
 ---
 
+### ලොකු පැටීගේ තවත් සගයෙක් අල්ලයි
+
+*2024-07-28 09:00:05* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටීගේ-තවත්-සගයෙක්-අල්ලයි/11-411035) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජික ලොකු පැටි නැමැත්තාගේ උපදෙස් මත ඝාතනයක් සිදුකර කතරගමට පලා ගොස් සැඟව සිටි පුද්ගලයෙකු සිව් මස කට පසු අත්අඩංගුවට ගත් බව මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය කියයි
+
+ටි ඩබ්ලිව්  රශ්මික ද සිල්වා නොහොත් අල්මේ දා නමැති 31 හැවිරිදි  සැකකරු අහුවල්ල ලෝකන්වත්ත පදිංචිකරුවෙකි
+
+2024 මාර්තු මස පළවෙනි දින අහුංගල්ල හෝටලයක් ඉදිරිපිටදී නීල් කුසුම් කුමාර මෙන්ඩිස් නොහොත් කොණ්ඩා මංජු වන අයව වෙඩි තබා ඝාතනය සිදුකිරීමේ අපරාධය සම්බන්ධයෙන් සැකකරු අත්අඩංගුවට ගෙන තිබිණි
+
+අත්අඩංගුවට ගත් සැකකරු ගෙන් වැඩිදුරටත් ප්‍රශ්න කිරීමේදී පනාගොඩ ප්‍රදේශයේ ලැගුම්හලක සඟවා තිබූ හොරයින් මත්කුඩු මිලිගෑම් 13100 සොයා ගැනීමට හැකිවූ බව පොලිසිය කියයි
+
+මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශනා අංශයේ අධ්‍යක්ෂක ජේෂ්ඨ පොලිස් අධිකාරී ලකී රන්දෙණිය මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ
+
+◼️
+
+[Data](articles/8a30103c.json)
+
+---
+
 ### Two lives lost
 
 *2024-07-28 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199285) · `si`
@@ -739,6 +821,8 @@ Maize is allowed to be imported for Triposha, a supplement given to prevent maln
 ...
 
 [Data](articles/c9cdd119.json)
+
+[Extended Data](ext_articles/c9cdd119.ext.json)
 
 ---
 
@@ -1856,6 +1940,8 @@ We have also fought a civil war for three decades and are still struggling to re
 
 [Data](articles/1f9a0121.json)
 
+[Extended Data](ext_articles/1f9a0121.ext.json)
+
 ---
 
 ### Government of Sri Lanka's Lawyers Association denies the Supreme Court's verdict on the issue of police chief
@@ -2163,95 +2249,5 @@ The questions from the suspects have revealed that they have a habit to find mon
 [Data](articles/246d994f.json)
 
 [Extended Data](ext_articles/246d994f.ext.json)
-
----
-
-### Sri Lanka to bring in 40 new influencers to promote tourism
-
-*2024-07-27 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-in-40-new-influencers-to-promote-tourism-174057/) · `en`
-
-ECONOMYNEXT – Sri Lanka will bring in 40 new influencers to promote tourism in the country, Chairman of the Sri Lanka Tourism Promotion Bureau, Chalaka Gajabahu, said.
-
-“Today we are going to discuss with the board and we are going to bring 40 [influencers],” Gajabahu told reporters this week.
-
-“When countries had put Sri Lanka on a red alert, we did a seeing-is-believing influencer campaign where we invited influencers to see for themselves. We have brought 190 influencers and that is why we are the top 5 in all the world’s travel indexes.”
-
-In January, Sri Lanka announced the start of a 1.5 billion tourist campaign including working with social media influencers such as Nas Daily and Luke Martin.
-
-Sri Lanka Tourist Development Authority (SLTDA) data shows that Sri Lanka has welcomed 1.1 million tourists from January to July 2024 and plans to bring 2.3 million tourists by the end of 2024.
-
-...
-
-[Data](articles/f5a9d833.json)
-
-[Extended Data](ext_articles/f5a9d833.ext.json)
-
----
-
-### EU continues proscription of the LTTE
-
-*2024-07-27 15:57:00* · [`economynextcom`](https://economynext.com/eu-continues-proscription-of-the-ltte-174071/) · `en`
-
-ECONOMYNEXT – The Council of the European Union (EU) will continue the proscription of the Liberation Tigers of Tamil Eelam (LTTE) for a further six months, Sri Lanka’s Ministry of Foreign Affairs said.
-
-The EU on July 26, “renewed the list of persons, groups and entities set out by the Common Position 2001/931/CFSP with the view to combatting terrorism, and the LTTE continues to be banned in the EU for a further period of six months,” an statement by the ministry said.
-
-Proscribed persons, groups and entities are subject to the freezing of its funds and other financial assets or economic resources in EU member states.
-
-“It is also prohibited for EU entities to make funds and economic resources available to the proscribed organisations.” (Colombo/Jul27/2024)
-
-◼️
-
-[Data](articles/91912ac9.json)
-
-[Extended Data](ext_articles/91912ac9.ext.json)
-
----
-
-### New police unit established for election affairs
-
-*2024-07-27 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100817/new-police-unit-established-for-election-affairs) · `en`
-
-A new police unit on election related affairs has reportedly been established at the Police Headquarters with an Officer-In-Charge (OIC) also appointed to lead the relevant unit.
-
-Meanwhile, it was reported that in addition to the Senior Deputy Inspector of Police (SDIG) Asanga Karavita, another DIG and a Senior Superintendent of Police (SSP) have been assigned to oversee duties related to the upcoming Presidential Election.
-
-Accordingly, DIG P. Liyanage and SSP K.D.G.L.A Dharmasena have been assigned the relevant duties, as per reports.
-
-On Wednesday (24), the Supreme Court issued an interim order preventing Deshabandu Tennakoon from performing duties and functioning in the position of the IGP. The Supreme Court had issued this order after granting leave to proceed with the nine petitions, filed by several parties including Cardinal Malcolm Ranjith, challenging Tennakoon’s appointment as the IGP.
-
-...
-
-[Data](articles/0f824f2c.json)
-
-[Extended Data](ext_articles/0f824f2c.ext.json)
-
----
-
-### Kuwait comes to Sri Lanka to Sri Lanka
-
-*2024-07-27 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199265) · `si`
-
-A Sri Lankan worker in Kuwait faced delayed food orders, prompting him to return home to seek justice. The event was attended by the SLBFE Chairman. Rajanya, a 46-year-old from Jaffna, mentioned his struggles, including his children's education and his wife's illness, during his six years in Kuwait.
-
-🟩
-
-The Sri Lankan who had worked for a food order distribution of food order in Kuwait canteen was caused by the order delayed due to delay.
-
-However, after the incident, he returned to the island to do justice to the country to do justice.
-
-The Chairman of the Sri Lanka Human Rights Organization (SLBFE) was present at the occasion.
-
-We have been shot at Kuwait for six years in Kuwait, we have been shot in the country on February 23.
-
-Rajanya is a 46 year old Ocean resident of Jaffna.
-
-He says that the two children are also school and his wife is also ill.
-
-◼️
-
-[Data](articles/2779645f.json)
-
-[Extended Data](ext_articles/2779645f.ext.json)
 
 ---

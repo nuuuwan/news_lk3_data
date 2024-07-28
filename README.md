@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 09:54:56**
+As of **2024-07-28 10:06:09**
 
 ## Newspaper Stats
 
-*Scraped **37,619** Articles*
+*Scraped **37,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 2,156
 economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,421
-adaderanalk | 4,357
+adaderanalk | 4,358
 tamilmirrorlk | 4,641
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,325
+adaderanasinhalalk | 6,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,618 (100.0%) of 37,619 articles have been extended.
+37,618 (100.0%) of 37,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### ජීවිත බිලිගත් මාරක අනතුරු
+
+*2024-07-28 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199289) · `si`
+
+ගෙවී ගිය පැය 24ක කාලය තුළ ප්‍රදේශ කිහියකින් වාර්තා වූ රිය අනතුරුවලින් කාන්තාවක් ඇතුළු පුද්ගලයින් සිව්දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (27) එම රත්ගම, පොළොන්නරුව, මාලඹේ සහ ජාඇල පොලිස් වසම්වල එම අනතුරු සිදුව තිබුණි.
+
+රත්ගම, රත්න උදාගම ප්‍රදේශයේ අතුරු මාර්ගයක කඳු සහිත ස්ථානයක ධාවනය වූ පාපැදියක්, පැදිකරුට පාලනය කර ගත නොහැකිව තාප්පයක ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, කදුරුපේ, බූස්ස ප්‍රදේශයේ පදිංචිව සිටි 51 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර පොළොන්නරුව ගල්කොරිය හන්දියේ සිට ගල්කොරිය දෙසට ගමන්කළ පාපැදියක් මාර්ගයේ පෙරළීමෙන් සිදුවූ අනතුරකින් 68 හැවිරිදි පුද්ගලයෙකු මියගොස් තිබේ.
+
+මේ අතර මාලඹේ - හෝකන්දර මාර්ගයේ හෝකන්දර ප්‍රදේශයේදී ත්‍රිරෝද රථයක් රියදුරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් බස්නැවතුම්පොළක සිටි කාන්තාවකගේ ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් බරපතළ තුවා ලැබූ 70 හැවිරිදි කාන්තාවක් හෝමාගම රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+...
+
+[Data](articles/32062038.json)
+
+---
+
+### President hits out at ‘false claims’ of govt operating outside IMF framework
+
+*2024-07-28 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/100825/president-hits-out-at-false-claims-of-govt-operating-outside-imf-framework) · `en`
+
+During the “Ekwa Jaya Gamu – Api Galle” public rally held yesterday (27) at the Galle Municipal Council Stadium, President Ranil Wickremesinghe announced for the first time that he will run in the upcoming presidential election and has already deposited the money.
+
+The President highlighted that he has never shied away from challenges and stated that it is his political practice to fulfill his responsibilities quietly. He reaffirmed his commitment to moving the country forward as promised.
+
+The meeting saw attendance from over 50 ministers and members of parliament from various political parties, including the Sri Lanka Podujana Peramuna, as well as former ministers and more than 15,000 residents from the Galle district.
+
+They gathered to learn about the government’s program and the path ahead, vowing to work toward the President’s victory in the presidential election.
+
+...
+
+[Data](articles/7aae827f.json)
+
+---
+
+### පාපන්දු පිටියකට මිසයිල ප්‍රහාරයක්
+
+*2024-07-28 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199288) · `si`
+
+ඊශ්‍රායලය විසින් අල්ලාගෙන සිටින ගෝලාන් කඳුකරයේ පිහිටා ඇති පාපන්දු පිටියකට එල්ල කළ මිසයිල ප්‍රහාරයකින් දරුවන් සහ තරුණයින් 12 දෙනෙක් පමණ මියගොස් ඇතැයි ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+මෙම ප්‍රහාරය ලෙබනනයේ හිස්බුල්ලා ගරිල්ලා සංවිධානය විසින් එල්ලකර ඇති බවට ඊශ්‍රායලය චෝදනා කරයි.
+
+ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු නිවේදනය කළේ එම ප්‍රහාරයට දරුණු ප්‍රතිචාරයක් දක්වන බවයි.
+
+ජාත්‍යන්තර විචාරකයින් පවසන්නේ මේ හේතුවෙන් ඊශ්‍රායලය සහ හිස්බුල්ලා සංවිධානය අතර යුද්ධයක් ඇතිවීමේ හැකියාව පවතින බවයි.
+
+◼️
+
+[Data](articles/6d4159aa.json)
+
+---
 
 ### ජනාධිපතිවරණයට ශ්‍රීලනිප මෛත්‍රී පාර්ශ්වයේ සූදානම
 
@@ -2159,75 +2219,5 @@ Meanwhile, the Colombo District Assistant Measurement Unit Service Service Super
 [Data](articles/c5635745.json)
 
 [Extended Data](ext_articles/c5635745.ext.json)
-
----
-
-### President Ranil says he predicted Sri Lanka’s economic crisis
-
-*2024-07-27 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100808/president-ranil-says-he-predicted-sri-lankas-economic-crisis) · `en`
-
-President Ranil Wickremesinghe revealed that he was already knew beforehand that Sri Lanka would face an economic crisis.
-
-Wickremesinghe said that he had informed then President Gotabaya Rajapaksa about the situation and had promised to provide any assistance if needed.
-
-President Wickremesinghe shared this information last afternoon (26) during a live Q&A session called #AskRanilLive, which was organized by a group of youths.
-
-Viewers had been provided an opportunity to ask questions from the President through social media while watching the program live.
-
-◼️
-
-[Data](articles/3202fd2d.json)
-
-[Extended Data](ext_articles/3202fd2d.ext.json)
-
----
-
-### Wears in Kolonna killing
-
-*2024-07-27 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199255) · `si`
-
-A foreign-made revolver linked to a murder in Kolonnawa was discovered in Mid Dendeniya. Two individuals were killed on a motorcycle on the night of the 7th. Suspects were arrested during preliminary investigations, revealing the crime was part of an organized criminal activity involving a drug trawler. The case is now under investigation by the Criminal Investigations Department and the Organized Criminal Investigation Division.
-
-🟩
-
-A revolver man manufactured in a foreign country used for murder in Kolonnawa has been found in Mid Dendeniya area.
-
-Police said that the firearm was found by the Criminal Inspector of the Criminal Inspection.
-
-On the night of the night of the 7th night, two people had been shot dead in a motorcycle.
-
-The two suspects were arrested in the preliminary investigations into the detention orders, the police said the police said.
-
-Further investigations were revealed that the murder had been carried out under the operation of an organized criminal and a drug trawler.
-
-The murder of the Criminal Investigations Department of the Criminal Investigations and the Organized Criminal Investigation Division is being investigated.
-
-◼️
-
-[Data](articles/d2772d50.json)
-
-[Extended Data](ext_articles/d2772d50.ext.json)
-
----
-
-### ‘Red’ alert issued over strong winds and rough seas
-
-*2024-07-27 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100807/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ colour advisory for strong winds and rough seas for naval and multi-day fishermen communities in the Arabian Sea and Bay of Bengal.
-
-As per the warning, very strong winds of about 70-80 kmph, and very rough seas are likely over the Arabian Sea area (in sea areas bounded by 13N - 23N and 55E – 70E) and Bay of Bengal (in sea areas bounded by 13N - 18N and 83E– 93E) due to the active south-west monsoonal condition.
-
-Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ colour on the map below, until further notice.
-
-Those who are out at aforementioned sea regions are advised to return to coasts or move to safer areas immediately.
-
-Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/c84199a1.json)
-
-[Extended Data](ext_articles/c84199a1.ext.json)
 
 ---

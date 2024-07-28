@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 17:05:47**
+As of **2024-07-28 17:20:35**
 
 ## Newspaper Stats
 
-*Scraped **37,684** Articles*
+*Scraped **37,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
 adalk | 3,432
-adaderanalk | 4,367
+adaderanalk | 4,368
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
 virakesarilk | 5,917
@@ -26,49 +26,75 @@ adaderanasinhalalk | 6,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,681 (100.0%) of 37,684 articles have been extended.
+37,684 (100.0%) of 37,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### 1700 ඉල්ලා වතුකරයේ කළු කොඩි
+### President calls for urgent talks to resolve IGP issue
+
+*2024-07-28 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100838/president-calls-for-urgent-talks-to-resolve-igp-issue) · `en`
+
+President Ranil Wickremesinghe has stated that discussions must be held within this week between the Speaker of the Parliament and the Chief Justice to address and resolve issues surrounding the post of the Inspector General of Police (IGP).
+
+Furthermore, the Head of the State expressed that he will ensure that Election Commission will hold Presidential Poll on September 21.
+
+◼️
+
+[Data](articles/0fee873e.json)
+
+---
+
+### Black Flags in Plantation asking 1700
 
 *2024-07-28 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199304) · `si`
 
-වතු සේවකයින්ගේ දෛනික වැටුප වැඩි කිරීමට අදාළව නිකුත් කර තිබු ගැසට් පත්‍රය අවලංගු කිරිමට එරෙහිව හැටන් නගරයේ උද්ඝෝෂණයක් පැවැත්වුණි.
+In Hatton, a protest against the cancellation of a gazette increasing estate workers' wages was led by the TNA. The event saw significant participation from workers, with the Tamil Progressive Alliance's Deputy Leader, Digambaram MP, criticizing the government's decision.
 
-දමිල ප්‍රගතිශිලි සන්ධානය විසින් එම උද්ඝෝෂණය සංවිධානය කර තිබූ බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+🟩
 
-මේ සඳහා වතුකම්කරුවන් විශාල පිරිසක් සහභාගී වූ අතර ප්‍රදේශයේ වෙළඳසැල් හා රථවාහනවල කළු කොඩි ඔසවා තිබූ බව ද වාර්තා විය.
+A demonstration was held in Hatton against cancellation of the gazette issued to increase the daily wage of estate workers.
 
-උද්ඝෝෂණයට එක්වෙමින් අදහස් දැක් වු දමිල ප්‍රගතිශිලි සන්ධානයේ නියෝජ්‍ය නායක පලනි දිගම්බරම් මන්ත්‍රීවරයා පැවසුවේ වතු කම්කරු වැටුප වැඩිකළ ගැසට් නිවේදනය අවලංගු කිරීම හරහා රජය වතුසේවක ප්‍රජාව මුලාවට ලක් කළ බව ය.
+The demonstration was organized by the TNA by the TNA. The Ada Derana reporter said.
+
+A large number of estate workers participated in this program.
+
+The Deputy Leader of the Tamil Progress Speaking to the Protest The Government Digambaram MP stated that the government was celebrated the estimated plant through the cancellation of the gazette notification increased by the estate workers' salary.
 
 ◼️
 
 [Data](articles/bc02d379.json)
 
+[Extended Data](ext_articles/bc02d379.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා කාන්තා කණ්ඩායමට ලැබුණු ඉලක්කය
+### Sri Lanka women's group
 
 *2024-07-28 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199303) · `si`
 
-ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ අවසන් තරගය මේ වනවිට දඹුල්ලේ පැවැත්වෙයි.
+In the Asian Cup Women's Cricket Tournament final, India chose to bat first after winning the toss in Dambulla. They made 165 runs with 6 wickets down. Smperi Delaya contributed significantly with 60 runs from 47 balls. Risha Gush scored 30 runs but was dismissed as a wicketkeeper in the 19th over. Despite this setback, India managed to score 18 more runs.
 
-එම තරගයේ කාසියේ වාසිය ඉන්දීය කණ්ඩායම දිනාගත් අතර ඒ අනුව පළමුව පන්දුවට පහරදීමට ඔවුන් තීරණය කළේය.
+🟩
 
-ඔවුන් සිය පන්දු ඕවර 20 අවසානයේදී කඩුලු 6ක් දැවී ලකුණු 165ක් රැස් කළේය.
+The final match of the Asian Cup Women's Cricket Tournament will be held in Dambulla.
 
-ඉන්දීය කණ්ඩායම වෙනුවෙන් අගනා පිති හරඹයක නිරත වූ ස්මිත්‍රි මන්ධනා පන්දු 47කදී ලකුණු 60ක් රැස් කළාය.
+The Indian team won the toss and decided to bat first.
 
-රිෂා ගෝෂ් ලකුණු 30යි. නමුත් ඇය, කවීෂා දිල්හාරි යැවූ 19 වන පන්දු ඕවරයේ පළමු පන්දුවට කඩුලු රකින්නිය අතට උඩපන්දුවක් ලබාදුන් අතර ප්‍රධාන විනිසුරුවරිය එය දැවී යාමක් නොවන බවට සංඥා කළාය.
+They scored 165 runs for the loss of 6 wickets in their bowls.
 
-එම පන්දු ඕවරයේදී ලකුණු 18ක් ලබාගැනීමට ඉන්දීය ක්‍රීඩිකාවෝ සමත් වූවෝය.
+Smperi delaya scored 60 runs in 47 balls with the Indian team.
+
+Risha Gush scores 30 runs. However, she gave a wicketkeeper in the 19th bowler's 19th bowling office, and the main judge was not a burden.
+
+India was able to get 18 runs in the ball.
 
 ◼️
 
 [Data](articles/23ae413e.json)
+
+[Extended Data](ext_articles/23ae413e.ext.json)
 
 ---
 
@@ -266,21 +292,29 @@ According to the Minister said that after the year 2028, the Diploma holders wil
 
 ---
 
-### ඇමෙරිකාවේ කෝටිපති ඉංජිනේරුවෙක් ලංකාවේදි පැවැදි දිවියට
+### A millionaire engineer in the United States is in Sri Lanka
 
 *2024-07-28 13:47:52* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-කෝටිපති-ඉංජිනේරුවෙක්-ලංකාවේදි-පැවැදි-දිවියට/10-411043) · `si`
 
-ඇමරිකාවේ කැලිෆෝනියාවේ ප්‍රකට දානපති ඉංජිනේරුවකුවූ ජොහාන්ස් ලූඩෝස් මහතා කැලිෆෝනියාවේ සරණ හිමි නමින් කරන්දෙණිය ගලගොඩ ශෛලතලාරාමයේදී සසුන්ගත වූහ. ඒ ගලගොඩ ශෛලතලාරාමාධිපති කුඩුමීරියේ සෝමිස්සර හිමියන්ගේ ශිෂ්‍යයකු ලෙසය.
+Johannes Luados, a millionaire engineer from California, visited Sri Lanka, where he studied under Buddhist monks like Saravara Thera and Somissara Thera. Impressed by his dedication to Buddhism, the monks recognized him for his contributions to the religion.
 
-බුදු දහම ගැන දීර්ඝ අධ්‍යනයකින් පසු බුදු දහම පිළිබදව පැහැදී තමා මෙසේ සසුන් ගතවූ බව මේ සම්බන්ධයෙන් අදහස් දැක්වූ කැලිෆෝනියාවේ සරණ හිමියෝ කීහ.
+🟩
 
-තමා ගිහියෙකු ලෙස සිට වෘත්තීමය ඉංජිනේරුවකු ලෙස සේවය කරමින් හා ව්‍යාපාරිකයකු ලෙස සාර්ථකවෙමින් මේ වන විට මිලියන ගනන් මුදල් හරිහම්බ කරගෙන සිටින බවත් ඒ කිසිවකින් තමාට නොලැබූ සතුට බුදු දහමින් ලැබූ බවද සරණ හිමියෝ පැවසූහ.මෙහි සියලුම ගෞරවය සහ පිං සිය ගුරු හාමුදුරුවන් වන කුඩුමීරියේ සෝමිස්සර හිමියන්ට ලැබිය යුතු බවත් උන්වහන්සේ තමාට ගැඹුරු බුදු දහම ඉතා සරලව අවබෝධ කර දුන් බවද උන්වහන්සේ කීහ.
+California's California's Kanicipal Engineer Johannes Luados, Mr. Johannes Luados, Karandeniya, Karandeniya, was named by California. It was a student of Somissara Thera in Galagoda.
 
-විදෙස් රටක පළමු පැවිදි ශිෂ්‍යා කැලිෆෝනියාවේ  සරණ හිමියන් බවත් උන්වහන්සේ ගිහි කළ ඇති තරම් ලෞකික සැප සම්පත් විද ඇති බවත් පැවසූ කුඩුමීරියේ සෝමිස්සර හිමියෝ දැනුණුද සරණ හිමියන්ට ලෝකයේ ඕනෑම රටකට යෑමට වීශා ඇති බවත් ඒ සදහා ගුවන් බලපතද නොමිලයේ ලැබෙන බවත් පැවසූහ.
+The California, California, said that he had to see Buddhism about Buddhism about Buddhism about Buddhism.
 
-...
+Saravara Thera said that the happiness he had not had to be exposed to a professional engineer and has been successive as a businessman.The Thera said that He was simply undersive by the deeper Buddhism.
+
+He said that the first monk was the first monastery in a foreign country and was the most secular pleasure in the world.
+
+Sarissara Thero added that the newly added California, who completely added a refuge in the Sasana, he added that the refuge was inevitably named him.
+
+◼️
 
 [Data](articles/ce93e586.json)
+
+[Extended Data](ext_articles/ce93e586.ext.json)
 
 ---
 
@@ -2295,27 +2329,5 @@ A car traveling on the road collided with a tree when a tree was removed from th
 [Data](articles/794461c0.json)
 
 [Extended Data](ext_articles/794461c0.ext.json)
-
----
-
-### Transport of traffic at the Pollauwa Junction
-
-*2024-07-27 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199279) · `si`
-
-A car crash occurred at Pollauwa Junction today, resulting in the vehicle colliding with a tree. The car suffered damage, and its driver was taken to the hospital. Repair work on the tree is underway, as reported by Ada Derana.
-
-🟩
-
-A car traveling along the road was due to a car collided in the tree this afternoon.
-
-The car was damaged in the accident and the driver was hospitalized.
-
-The resignation of the tree is already in progress, "Ada Derana reporter said.
-
-◼️
-
-[Data](articles/9cfbfa95.json)
-
-[Extended Data](ext_articles/9cfbfa95.ext.json)
 
 ---

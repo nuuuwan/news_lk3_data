@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 07:20:20**
+As of **2024-07-28 07:52:30**
 
 ## Newspaper Stats
 
-*Scraped **37,603** Articles*
+*Scraped **37,609** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 328
-colombotelegraphcom | 355
+colombotelegraphcom | 356
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
@@ -17,20 +17,38 @@ economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,419
 adaderanalk | 4,356
-tamilmirrorlk | 4,635
+tamilmirrorlk | 4,639
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,320
+adaderanasinhalalk | 6,321
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,594 (100.0%) of 37,603 articles have been extended.
+37,596 (100.0%) of 37,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### සුමන්තිරන් ගමන් ගත් රථය අනතුරකට ලක්වෙයි
+
+*2024-07-28 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199282) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී එම්.ඒ. සුමන්තිරන් මහතා ගමන්ගත් රථය යතුරුපැදියක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+ඊයේ (27) සවස එම අනතුර සිදුව ඇති බව කිලිනොච්චිය පොලීසිය පවසයි.
+
+පොලීසිය පැවසූවේ කොළඹ සිට යාපනය දක්වා ගමන්ගත් මන්ත්‍රීවරයාගේ රථය කිලිනොච්චිය 155 කිලෝමීටර කණුව ප්‍රදේශයේදී යතුරුපැදියක ගැටී ඇති බවය.
+
+අනතුරින් කිසිවෙකුටත් තුවාල සිදුව නොමැති අතර, මන්ත්‍රීවරයාගේ වාහනයේ ඉදිරිපස කොටසකට සුළු හානියක් සිදුව ඇති බවද පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/5ce62ad2.json)
+
+---
 
 ### Next 24 Hours Be Care
 
@@ -59,6 +77,46 @@ From time to time in the rest of the island.. The Meteorological Department furt
 [Data](articles/821070c5.json)
 
 [Extended Data](ext_articles/821070c5.ext.json)
+
+---
+
+### கோலியின் மாபெரும் சாதனையை சமன் செய்த சூர்யகுமார்
+
+*2024-07-28 05:22:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/கோலியின்-மாபெரும்-சாதனையை-சமன்-செய்த-சூர்யகுமார்/44-341128) · `ta`
+
+இந்தியா - இலங்கை அணிகளுக்கு இடையிலான முதல் டி20 போட்டி நேற்று நடைபெற்றது. இந்த ஆட்டத்தில் இந்திய அணி 43 ஓட்டங்கள் வித்தியாசத்தில் வெற்றி பெற்றது.
+
+முதலில் பேட்டிங் ஆடிய இந்தியா 20 ஓவர்களில் 7 விக்கெட்டுகளை இழந்து 213  ஓட்டங்களை  குவித்தது. இந்தியா தரப்பில் அதிகபட்சமாக சூர்யகுமார் யாதவ் 58 ஓட்டங்ள் எடுத்தார்
+
+இதையடுத்து 214 ஓட்டங்கள் என்ற இலக்கை நோக்கி ஆடிய இலங்கை 19.2 ஓவர்களில் அனைத்து விக்கெட்டையும் இழந்து 170 ஓட்டங்களுக்கு அனைத்து விக்கெட்டுகளையும் இழந்தது
+
+இந்தியா தரப்பில் ரியான் பராக் 3 விக்கெட், அர்ஷ்தீப் சிங், அக்சர் படேல் ஆகியோர் தலா 2 விக்கெட் வீழ்த்தினர்.
+
+இந்த வெற்றியின் மூலம் 3 போட்டிகள் கொண்ட டி20 தொடரில் 1-0 என இந்தியா முன்னிலையில் உள்ளது.
+
+இந்த ஆட்டத்தில் பேட்டிங்கில் அபாரமாக செயல்பட்ட சூர்யகுமார் யாதவுக்கு ஆட்டநாயகன் விருது வழங்கப்பட்டது. இந்நிலையில் இந்த ஆட்டத்தில் ஆட்டநாயகன் விருது வாங்கியதன் மூலம் சர்வதேச டி20 கிரிக்கெட்டில் விராட் கோலியின் மாபெரும் சாதனையை சூர்யகுமார் யாதவ் சமன் செய்துள்ளார்
+
+...
+
+[Data](articles/7d897601.json)
+
+---
+
+### ’சஜித்தின் சகாக்கள் பலர் ரணிலுடன் இணைவார்கள்’
+
+*2024-07-28 02:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-சகாக்கள்-பலர்-ரணிலுடன்-இணைவார்கள்/175-341126) · `ta`
+
+ஐக்கிய மக்கள் சக்தி உறுப்பினர்கள் பலரும் அடுத்து வரும் நாட்களில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் இணையவுள்ளனர் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே தெரிவித்தார்.
+
+காலியில் நேற்று நடைபெற்ற 'ஒன்றாக வெல்வோம் – காலியில் நாம்' கூட்டத்தில் கலந்துகொண்டு உரையாற்றிய அவர் மேலும் தெரிவிக்கையில்,
+
+எதிர்வரும் செப்டெம்பர் 21 ஆம் திகதி நடைபெறும் ஜனாதிபதித் தேர்தலில் ரணில் வெற்றி பெறுவார் என்பது உறுதி. அவர் பின்னால்தான் அனைத்து கட்சிகளும் இன்றுள்ளன.
+
+நெருக்கடியான நேரத்தில் நாட்டைப் பொறுப்பேற்காத சஜித் பிரேமதாஸ வெற்றி வேட்பாளரா? இல்லை. நாட்டை மீட்கக்கூடிய வேட்பாளர் எமது மேடையிலேயே இருக்கின்றார். அடுத்துவரும் நாட்களில் சஜித்தின் சகாக்களும் எமது மேடையில் ஏறுவார்கள் என்றார். (a)
+
+◼️
+
+[Data](articles/b86de1d8.json)
 
 ---
 
@@ -134,6 +192,24 @@ As the National ICT Solutions Provider, SLT-MOBITEL has always been committed to
 
 ---
 
+### ’ஐக்கிய மக்கள் கூட்டணியுடன் தயாசிறி ஒப்பந்தம்’
+
+*2024-07-28 02:40:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-கூட்டணியுடன்-தயாசிறி-ஒப்பந்தம்/175-341125) · `ta`
+
+ஐக்கிய மக்கள் சக்தி தலைமையிலான ஐக்கிய மக்கள் கூட்டணியுடன் தயாசிறி ஜயசேகர கையெழுத்திடவுள்ளதாக தகவல்கள் கிடைத்துள்ளன எனவும் ஓகஸ்ட் 8 ஆம் திகதி தயாசிறி ஜயசேகர யார் என்பதை அறிந்து கொள்ளலாம் என்றும்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+
+நேற்று இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+சட்ட ரீதியான நிறைவேற்று சபையின் ஊடாகவே விஜேதாச  ராஜபக்ஷ ஸ்ரீலங்கா சுதந்திர கட்சியின் தவிசாளராக தெரிவு செய்யப்பட்டார். நிறைவேற்று சபையின் அங்கீகாரத்துடனேயே அவர் ஜனாதிபதி வேட்பாளராகவும் அறிவிக்கப்பட்டார். அதற்கு எவரும் எதிர்ப்பினை வெளிப்படுத்தவுமில்லை.
+
+எனினும் சிலர் அவர் சுதந்திர கட்சி இல்லை என்றும், வெளிநபர் என்றும் கூறுகின்றனர். விஜேதாச ராஜபக்ஷவை அவ்வாறு கூறுபவர்கள் சு.க. தோன்றிய போது இந்த உலகத்தில் பிறந்திருக்கவும் மாட்டார்கள். சிறிமாவோ பண்டாரநாயக்கவின் பிரஜாவுரிமை பறிக்கப்பட்ட போது, அவருக்கான நீதிமன்றத்தில் முன்னிலையான இளம் சட்டத்தரணியாக விஜேதாச ராஜபக்ஷவே காணப்பட்டார்.
+
+...
+
+[Data](articles/53e7e45f.json)
+
+---
+
 ### Centenary of the Berlin Viharaya
 
 *2024-07-28 01:59:00* · [`islandlk`](http://island.lk/centenary-of-the-berlin-viharaya/) · `en`
@@ -192,6 +268,8 @@ Dinara S. Gunasekera is a Sri Lankan-American industrial scientist and an entrep
 
 [Data](articles/bc2c2b01.json)
 
+[Extended Data](ext_articles/bc2c2b01.ext.json)
+
 ---
 
 ### Buddhism, AI and cremation of Covid dead grab attention
@@ -205,6 +283,20 @@ Here, Colombo District MP Rear Admiral (Retd) Sarath Weerasekara, who is also kn
 ...
 
 [Data](articles/bdd2c35a.json)
+
+[Extended Data](ext_articles/bdd2c35a.ext.json)
+
+---
+
+### Political Turmoil & Call For Authentic Leadership
+
+*2024-07-28 00:26:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/political-turmoil-call-for-authentic-leadership/) · `en`
+
+Sri Lanka has a rich history of investment in education, reflected in its impressive literacy rate over 93%. However, since gaining independence in 1948, the island nation has struggled with political corruption and mismanagement, leading to increased economic instability and social unrest. According to Transparency International, while the average global Corruption Perceptions Index (CPI) is 43/100, Sri Lanka scores 36/100, placing it 101st out of 180 countries and territories. The recent report of the United Nations High Commissioner for Human Rights elaborates on the incumbent situation in the island nation, highlighting ongoing challenges in governance and human rights:
+
+...
+
+[Data](articles/b41df5d9.json)
 
 ---
 
@@ -291,6 +383,24 @@ The President and Basil Rajapaksa will be taken back to this Sunday.
 [Data](articles/f0a3489c.json)
 
 [Extended Data](ext_articles/f0a3489c.ext.json)
+
+---
+
+### இலங்கை கல்வி முறையில் பாரிய மாற்றம்
+
+*2024-07-27 23:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கல்வி-முறையில்-பாரிய-மாற்றம்/175-341124) · `ta`
+
+கல்வி சீர்திருத்த முன்மொழிவு தொடர்பில் 2025ஆம் ஆண்டின் முதல் தவணை முதல்  பாடசாலை தரங்களின் எண்ணிக்கையை 13 இலிருந்து 12 ஆக குறைக்கப்படும் என கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+அத்துடன் மாணவர்கள் 17 வயதிற்குள் பாடசாலை கல்வியை முடிக்க முடியும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இவற்றுள் 5ஆம் தர புலமைப்பரிசில் பரீட்சையில் பாடசாலை மதிப்பீடுகளுக்கு புள்ளிகளையும் பரீட்சைகளுக்கு குறிப்பிட்ட சதவீத புள்ளிகளையும் வழங்கி பரீட்சையை இலகுபடுத்தவும் முன்மொழியப்பட்டுள்ளது.
+
+மேலும், கல்வி பொதுத்தராதர சாதாரண தர தேர்விற்கான பாடங்களை 9 இல் இருந்து 7 ஆக குறைக்கப்பட உள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/ccd5fdf3.json)
 
 ---
 
@@ -2087,105 +2197,5 @@ Meanwhile, several showers will occur at times in the Kandy and Nuwara Eliya dis
 [Data](articles/3758563e.json)
 
 [Extended Data](ext_articles/3758563e.ext.json)
-
----
-
-### Chavakachcheri Hospital Saga: The Tip Of The Iceberg Of A Broken & Outdated Health System – Part II
-
-*2024-07-27 02:25:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/chavakachcheri-hospital-saga-the-tip-of-the-iceberg-of-a-broken-outdated-health-system-part-ii/) · `en`
-
-In Sri Lanka, 95% of physicians and staff are duty-conscious and have been doing their work diligently, even with the constrained environment and limited resources. However, the exiting system has been in place for over a century and the outdated concept with focus on centralized hospital-based health system is showing cracks.
-
-In the 80s, I recall a cartoon in the Island newspaper captioned with the newspaper, stating “Sri Lanka has the best telecommunication system” -Minister of Telecommunication. The picture showed a man talking to himself looking at the phone: “I want to congratulate the minister, but this damn thing is out of order”
-
-Now, about the health system in Sri Lanka, first thing comes to the news is that the Health Minister is in jail for corruption of illegal procurement. However, recently, it’s all about the misdeeds, competing behaviors and name calling with health care workers Strike En-Masse in Chavakacheri is the leading news.
-
-...
-
-[Data](articles/1624ffde.json)
-
-[Extended Data](ext_articles/1624ffde.ext.json)
-
----
-
-### Announcement of presidential poll date has depressing impact on share trading
-
-*2024-07-27 01:35:00* · [`islandlk`](http://island.lk/announcement-of-presidential-poll-date-has-depressing-impact-on-share-trading/) · `en`
-
-Stock market trading lacked vibrancy yesterday on account of investor sentiment declining on the presidential election date being specified, market analysts said.The main indices moved up though. The All Share Price Index went up by 7.96 points while S and P SL 20 rose by 2.32 points.
-
-Turnover stood at Rs 575 million with three crossings. Those crossings were reported in Sanasa Development Bank, which crossed 3.7 million shares to the tune of Rs 117 million; its shares traded at Rs 31, JKH 210,000 shares crossed for Rs 49.2 million; Ceylon Land Equities 2.45 million shares crossed for Rs 20.8 million and it shares fetched Rs 8.50.
-
-...
-
-[Data](articles/4c4505c6.json)
-
----
-
-### ComBank wins 6 awards at Asian Banking and Finance Awards in Singapore
-
-*2024-07-27 01:34:00* · [`islandlk`](http://island.lk/combank-wins-6-awards-at-asian-banking-and-finance-awards-in-singapore/) · `en`
-
-The Commercial Bank of Ceylon won a remarkable six awards presented in three separate segments recently by Asian Banking and Finance (ABF) at a single event in Singapore – the 2024 edition of the magazine’s annual awards ceremony.
-
-Commercial Bank won two awards in each of the three segments – the ABF Retail Banking Awards, the ABF Corporate & Investment Awards, and the ABF Fintech awards, demonstrating its versatility in different spheres of banking and finance.
-
-The Bank received the awards for ‘Digital Consumer Banking Initiative of the Year’ and ‘SME Bank of the Year’ in the Retail Banking Awards segment; the awards for ‘Corporate Client Initiative of the Year’ and ‘Debt Deal of the Year’ in the Corporate & Investment Awards segment; and the Ecosystem Collaboration Award and Payments Solution Award in the Fintech Awards segment.
-
-...
-
-[Data](articles/1fb5ba1b.json)
-
-[Extended Data](ext_articles/1fb5ba1b.ext.json)
-
----
-
-### Empowering a financial future: NDB NEOS & CRIB partnership since 2021
-
-*2024-07-27 01:34:00* · [`islandlk`](http://island.lk/empowering-a-financial-future-ndb-neos-crib-partnership-since-2021/) · `en`
-
-In the dynamic realm of personal finance, creditworthiness is paramount, impacting eligibility for various financial products. At the core of this evaluation lies the CRIB report – an intricate credit dossier managed by the Credit Information Bureau of Sri Lanka (CRIB). Understanding the nuances of a CRIB report, recognizing its significance, and cultivating habits to maintain a positive report are pivotal for navigating the financial landscape.
-
-A CRIB report serves as a comprehensive credit summary, offering insights into an individual’s credit history, encompassing critical details such as credit accounts, outstanding balances, repayment history, and instances of defaults or late payments. Lenders, including banks and financial institutions, heavily rely on this report when assessing an individual’s creditworthiness for loans, credit cards, or other financial products.
-
-...
-
-[Data](articles/c2bff892.json)
-
-[Extended Data](ext_articles/c2bff892.ext.json)
-
----
-
-### Safeguarding Sri Lanka’s national Poson festival for 29 years, AIA Poson Safety Programme saved 6 lives this year
-
-*2024-07-27 01:15:00* · [`islandlk`](http://island.lk/safeguarding-sri-lankas-national-poson-festival-for-29-years-aia-poson-safety-programme-saved-6-lives-this-year/) · `en`
-
-July 24th 2024 – AIA Insurance proudly concludes the 29th year of its Poson Safety Programme, celebrating zero fatalities and the rescue of six lives. This comprehensive CSR initiative, one of the longest standing projects in the country continues to be a beacon of safety and community service during the religious Poson festival.
-
-AIA deployed over 500 dedicated lifeguards across 39 reservoirs and lakes in Anuradhapura, Polonnaruwa, Mihintale, Dambulla, and surrounding regions. Their vigilance ensured pilgrims could participate in their traditional bathing rituals safely and without incident. Complementing these efforts, AIA implemented a comprehensive safety campaign featuring prominently displayed warning signs, banners, and digital media promotions throughout the Anuradhapura District.
-
-...
-
-[Data](articles/1d0a334e.json)
-
-[Extended Data](ext_articles/1d0a334e.ext.json)
-
----
-
-### Plans for a new Rs. 150 million badminton stadium in Sri Lanka
-
-*2024-07-27 01:15:00* · [`islandlk`](http://island.lk/plans-for-a-new-rs-150-million-badminton-stadium-in-sri-lanka/) · `en`
-
-Rising Stars Badminton Academy has invested over Rs. 50 million in its current operations and plans to allocate an additional Rs. 150 million towards a new stadium in Sri Lanka.
-
-Speaking to The Island Financial Review during a press briefing in Kalalgoda, Thalawathugoda, Clarence Homar, founder and president, Rising Stars Badminton Academy, emphasized that while local investment may not always yield significant financial returns, their commitment stems from pure passion for the sport.
-
-Homar disclosed plans to establish an academy in Canada next year, noting that other countries offer more conducive environments with governmental grants and robust support for sports.
-
-Homar added: “Our team comprises professionals, including national champions. Drawing from my own experience as a former national champion, I am confident in our team’s capabilities.
-
-...
-
-[Data](articles/bae88eae.json)
 
 ---

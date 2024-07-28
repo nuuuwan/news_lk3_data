@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 21:35:59**
+As of **2024-07-28 21:55:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,734 (100.0%) of 37,735 articles have been extended.
+37,735 (100.0%) of 37,735 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -430,21 +430,29 @@ The police, who had already said that the proof was placed in the refrigerator, 
 
 ---
 
-### පෞද්ගලික වාහන ආනයන සීමා ඉවත් කිරීම 2025 මුල් කාර්තුවේදී
+### Importment of Private Vehicle Import Limit of 2025 In the first quarter
 
 *2024-07-28 19:04:23* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-වාහන-ආනයන-සීමා-ඉවත්-කිරීම-2025-මුල්-කාර්තුවේදී/11-411049) · `si`
 
-ජාත්‍යන්තරය සමග කටයුතු කල හැකි අත්දැකීම් හා අනාගතය පිළිබඳව දැක්මක් ඇති නායකත්වයක් රටට අවශ්‍ය බවත් පෞද්ගලික වාහන ආනයන සීමා ඉවත් කිරීම  2025 වර්ශයේ පළමු වන කාර්තුවේදී බලාපොරොත්තු වන බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+In a media briefing, State Minister Shehan Semasinghe emphasized the importance of visionary leadership and maintaining economic stability post-presidential elections. He highlighted the need for a clear plan regarding international vehicle futures and the necessity of addressing corruption through legal frameworks and international technical support. The government is also focusing on digitization and ensuring transparency in democratic processes. The allocation of funds for elections and the implementation of policies by candidates were discussed, along with the strategic use of reserves, including a significant amount held with China. The focus is on easing import restrictions, particularly for private vehicles, with details to be announced by August.
 
-රාජ්‍ය අමාත්‍යවරයා මේ බව කියාසිටියේ අද (28දා) දින අනුරාධපුරයේදී පැවති මාධ්‍ය හමුවකදී අදහස් දක්වමින්ය.
+🟩
 
-"2022 වර්ෂයේදී ඇති වූ තත්ත්වය නැවත ඇති නොවීමට කටයුතු කිරීම මෙවර ජනාධිපතිවරණයේ අරමුණයි. රටේ ආර්ථික පරිවර්තන නීතියට අනුව රට පවත්වා ගෙන යෑම  සියලුම ජනතාවගේ අරමුණ විය යුතු වෙනවා.
+State Minister of State Shehan Semasinghe says that the country needs a vision of experiences and the future of the international vehicle.
 
-ජාත්‍යන්තරය සමග කටයුතු කළ හැකි අත්දැකීම් හා අනාගතය පිළිබඳව දැක්මක් ඇති නායකත්වයක් රටට අවශ්‍යයි. ඉදිරි ජනාධිපතිවරණයේදී ජනතාව විසින් වැරදි තීන්දුවක් ගතහොත් රට නැවත වසර 15ක් ආපස්සට ගමන් කිරීම වැලැක්ව්ය නොහැකියි.
+The State Minister was speaking at a media briefing in Anuradhapura today (28).
+
+This year's presidential election is to ensure that the situation in 2022. The purpose of all people should be maintained according to the economic translation law of the country.
+
+The country needs a visionary leadership that can deal with the international community and the future. If the people have a faulty decision in the next presidential election, the country will not be able to live for 15 years.
+
+Currently, the necessary legal framework for bribe and corruption in Sri Lanka, we also planned to create an institution to create a necessary institution.. Steps have been taken to provide technical support internationally.The state governance is already making the necessary digital.
 
 ...
 
 [Data](articles/74c48e41.json)
+
+[Extended Data](ext_articles/74c48e41.ext.json)
 
 ---
 

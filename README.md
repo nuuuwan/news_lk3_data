@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 19:20:22**
+As of **2024-07-28 19:35:40**
 
 ## Newspaper Stats
 
-*Scraped **37,714** Articles*
+*Scraped **37,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
 adalk | 3,434
-adaderanalk | 4,370
-tamilmirrorlk | 4,660
+adaderanalk | 4,371
+tamilmirrorlk | 4,661
 dailymirrorlk | 4,733
 virakesarilk | 5,935
 adaderanasinhalalk | 6,346
@@ -26,25 +26,71 @@ adaderanasinhalalk | 6,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,709 (100.0%) of 37,714 articles have been extended.
+37,714 (100.0%) of 37,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### කාන්තා ක්‍රිකට් කණ්ඩායමට ඩොලර් මල්ලක්
+### Sri Lanka Women’s team awarded USD 100,000; Chamari opens up on retirement plans
+
+*2024-07-28 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100841/sri-lanka-womens-team-awarded-usd-100000-chamari-opens-up-on-retirement-plans-) · `en`
+
+Sri Lanka Cricket (SLC) has promised a USD 100,000 award prize to the Sri Lankan women’s team, led by Chamari Athapaththu, for winning their first-ever Women’s Asia Cup.
+
+The Sri Lankan women’s team won their inaugural Women’s Asia Cup title by defeating seven-time champions India by 8 wickets in the final on Sunday.
+
+Chasing Sri Lanka’s highest-ever target of 165, skipper Chamari Athapaththu scored an impressive 61 runs with 2 sixes and 9 boundaries, leading the team to a historic victory.
+
+Chamari Athapaththu, who scored the first-ever century in the Women’s T20 Asia Cup during their group stage match against Malaysia, was named Player of the Tournament in the 2024 Women’s T20 Asia Cup.
+
+Additionally, Sri Lanka’s Harshitha Samarawickrema was awarded Player of the Final for her outstanding performance against India, scoring an unbeaten 69 runs off just 51 deliveries and propelling the team to victory.
+
+...
+
+[Data](articles/12afdfaa.json)
+
+---
+
+### ஆட்டிறைச்சி மாயம்: 4 பொலிஸாருக்கு  இடமாற்றம்
+
+*2024-07-28 19:09:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்டிறைச்சி-மாயம்-4-பொலிஸாருக்கு-இடமாற்றம்/175-341173) · `ta`
+
+பொலிஸ் நிலைய குளிரூட்டியில் பாதுகாப்பாக களஞ்சியப்படுத்தப்பட்டிருந்த ஆட்டிறைச்சிகள் காணாமல் போன சம்பத்தினை அடுத்து 4  பொலிஸ் உத்தியோகத்தர்களுக்கு  தண்டனை இடமாற்றம் வழங்கப்பட்டுள்ளது.
+
+அம்பாறை மாவட்டம் அக்கரைப்பற்று பொலிஸ் பிரிவிற்கு அட்டாளைச்சேனை  பகுதி வீடு ஒன்றில்  அறுக்கப்பட்ட ஆடுகள் தொடர்பில் அக்கரைப்பற்று பொலிஸாருக்கு முறைப்பாடு கடந்த வெள்ளிக்கிழமை(26) அன்று வழங்கப்பட்டிருந்தது.
+
+இதற்கமைய விசாரணைகளை மேற்கொண்ட பொலிஸார்  விலங்குகள் அறுக்கும்    தொழுவத்தில் அறுக்கப்படாமல் அட்டாளைச்சேனை பகுதியில்  உள்ள ஒரு  வீட்டில் வைத்து 4 ஆடுகளை அறுத்த கடை உரிமையாளரை   பொலிஸார்  கைது செய்திருந்தனர்.
+
+பின்னர் குறித்த சந்தேக நபர்  அக்கரைப்பற்று நீதிமன்றில்  ஆஜர் படுத்தப்பட்டிருந்தார். அவரது சார்பில் ஆஜராகியிருந்த சட்டத்தரணி தனது குறித்த ஆட்டினை தனது வீட்டு நிகழ்வு ஒன்றிக்கு அறுத்திருந்தாகவும்  குற்றத்தினை ஏற்றுக் கொள்வதாகத்  தெரிவித்துள்ளார்.
+
+குறித்த வழக்கின் சான்றுப் பொருளான ஆட்டிறைச்சி பொலிஸ் நிலையத்தில் குளிர்சாதனப் பெட்டியில் வைக்கப்பட்டுள்ளதாக பொலிஸார்  நீதிமன்றிடம் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/12a15f69.json)
+
+---
+
+### Bed of dollars to women's cricket team
 
 *2024-07-28 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199308) · `si`
 
-සිය මංගල ආසියානු කාන්තා ක්‍රිකට් ශූරතාවය හිමිකරගත් ශ්‍රී ලංකා කණ්ඩායම ට අමෙරිකානු ඩොලර් 100,000ක විශේෂ ත්‍යාගයක් පිරිනමන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+Sri Lanka's women's cricket team received a $100,000 gift from Sri Lanka Cricket after winning the Asian Women's Cricket Championship. The announcement came during the match, where Sri Lanka beat India by eight wickets.
 
-ඒ බව තරගයෙන් අනතුරුව පැවති ත්‍යාග ප්‍රධාන උත්සවයේදී නිවේදනය කළේය.
+🟩
 
-අද ඉන්දීය කණ්ඩායමට එරෙහිව පැවති අවසන් තරගය කඩුලු 8කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+Sri Lanka Cricket said it offers a special gift of US $ 100,000, which won its wedding Asian Women's Cricket Championship.
+
+The gift was announced at the midst of the match.
+
+Sri Lanka won the final match against India by eight wickets.
 
 ◼️
 
 [Data](articles/a6735c2f.json)
+
+[Extended Data](ext_articles/a6735c2f.ext.json)
 
 ---
 
@@ -580,15 +626,21 @@ By identifying the complete transactions in the country, the real statistics of 
 
 ---
 
-### பங்களாதேஷின் மாணவர் போராட்டம்  -  எதேச்சதிகாரத்துக்கு எதிரான மக்கள் எழுச்சி
+### Bangladesh's Student Struggle - People's Uprising
 
 *2024-07-28 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189609) · `ta`
 
-இந்தப் போராட்டத்தை முன்னின்று நடத்தியவர், ஷேய்க் முஜிபூர் ரஹ்மான். பங்களாதேஷின் ஸ்தாபகத் தலைவராக பாராட்டப்படுபவர். இவர் சமகால பிரதமர் ஷெய்க் ஹசீனாவின் தந்தை. பங்களாதேஷின் சுதந்திரப் போர் முக்கியமானதெனில், அதில் பங்கேற்ற சுதந்திரப் போராட்ட வீரர்களின் சந்ததியினர் கவனிக்கப்பட வேண்டியவர்கள். அவர்களுக்கு அரச தொழில் கிடைக்க வேண்டும் என்ற நோக்கத்துடன் உருவாக்கப்பட்டது தான் கோட்டா முறை.
+Sheikh Mujibur Rahman led Bangladesh's independence movement, founding the nation and inspiring its current PM, Sheikh Hasina. His legacy includes the quota system for children of freedom fighters, highlighting the importance of remembering and supporting those who fought for the country's independence.
+
+🟩
+
+The leader of the struggle, Sheikh Mujibur Rahman. Founder of Bangladesh. He is the father of contemporary Prime Minister Sheikh Hasina. If Bangladesh's Independence War is important, the descendants of the freedom fighters who participated in. The quota system was created with the aim of getting the state industry.
 
 ◼️
 
 [Data](articles/f2a08e9f.json)
+
+[Extended Data](ext_articles/f2a08e9f.ext.json)
 
 ---
 
@@ -656,25 +708,31 @@ In addition to guidelines for government officials, the circular will also issue
 
 ---
 
-### இலங்கையின் கரையோர வீதிகளின் ஊடாக 1500 கி.மீ. தூர நடைபயணம் : பேருவளை இளைஞனின் சாதனை முயற்சி
+### 1500 km through the coastal roads of Sri Lanka. Distance hiking: Beruwala youth attempt
 
 *2024-07-28 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189599) · `ta`
 
-இலங்கையின் கரையோர வீதிகள் ஊடாக சுமார் 1500 கிலோமீட்டர் தூரத்தை நடந்தே கடந்து சாதனை நிகழ்த்துவதற்கான முயற்சியில் பேருவளையைச் சேர்ந்த ஸஹ்மி ஸஹீட் என்கிற இளைஞர் ஈடுபட்டுள்ளார்.
+Zahmi Zaheed, a young man from Beruwala, embarked on a remarkable journey to hike 1500 kilometers along Sri Lanka's coastal roads. Starting from Beruwala, he aimed to complete the trek within 50 days, showcasing the beauty of Sri Lanka's shores. Despite facing challenges, Zahmi received support from villagers, capturing moments of his journey with photographs. His endeavor not only seeks to set a record but also highlights the country's scenic landscapes.
 
-இவர் பேருவளையில் இருந்து தனது நடைபயணத்தை ஆரம்பித்து, தொடர்ந்து 15 நாட்களாக நடந்து சென்றுகொண்டிருக்கிறார்.
+🟩
 
-நேற்று சனிக்கிழமை (27) காலை நிந்தவூரில் இருந்து மட்டக்களப்பு குருக்கள்மடம் வரை தமது பயணத்தை நிறைவு செய்திருக்கிறார்.
+Zahmi Zaheed, a young man from Beruwala, is trying to achieve a record of about 1500 kilometers through the coastal roads of Sri Lanka.
 
-50 நாட்கள் கொண்ட இந்த பயணத்தை கடந்த 2ஆம் திகதி ஞாயிற்றுக்கிழமை காலை  குருக்கள்மடம் கிராமத்திலிருந்து மட்டக்களப்பு நோக்கி ஆரம்பித்தார்.
+He has started his walk from Beruwala and has been walking for 15 days.
 
-நடைபயணம் மேற்கொண்டுள்ள இந்த இளைஞனை கிராமங்கள் தோறும் ஏனைய இளைஞர்கள் வரவேற்று, அவருடன் புகைப்படங்களையும் எடுத்துக்கொள்வதை அவதானிக்க முடிகிறது.
+He completed his journey from Nintavur to the priests of Batticaloa on Saturday morning (27).
 
-தனது நடைபயணம் தொடர்பில் அவர் கூறுகையில், சுதந்திரமான இலங்கையின் அழகான கரையோரத்தை  காலால் நடந்து இரசிப்போம் எனும் தொனிப்பொருளில் தான் இந்த நடைபயணத்தை மேற்கொண்டுள்ளதாக தெரிவித்தார்.
+The 50 -day journey began on Sunday morning from Kurukkammadam village to Batticaloa.
+
+Other youths in the villages welcomed this young man, who is taking photos with him.
+
+Commenting on his hiking, he said that the walk was underway in the theme of 'We will walk the beautiful shore of independent Sri Lanka.
 
 ◼️
 
 [Data](articles/56da9e22.json)
+
+[Extended Data](ext_articles/56da9e22.ext.json)
 
 ---
 
@@ -1018,15 +1076,21 @@ Meanwhile, Chairman of Elections. Mr. Ratnayake said.
 
 ---
 
-### உயர்கல்வி நிறுவனமாக மாற்றம் பெற்ற  மலையக பல்கலைக்கழகம்…?
+### The University of Higher Education
 
 *2024-07-28 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189587) · `ta`
 
-2020ஆம் ஆண்டு இடம்பெற்ற பொதுத்தேர்தலில் இ.தொ.காவின்  தேர்தல் விஞ்ஞாபனத்தில் கல்விக்கு முன்னுரிமையளிக்கப்பட்டிருந்ததோடு, அதில்  முதலாவதாக 'மலையகத்தில் சகல வசதிகளுடன் கூடிய தேசிய பல்கலைக்கழகத்தை நிறுவுதல்" என்ற விடயம் குறிப்பிடப்பட்டிருந்தது. அவ்வாண்டு ஒக்டோபர் மாதம் கொட்டகலை பகுதியில் பல்கலைக்கழகத்துக்கான காணியும் அடையாளம் காணப்பட்டது. ஆனால் இறுதி வரை அக்காணியை விடுவிப்பதற்கான முயற்சிகளை எவரும் எடுக்கவில்லை.
+In the 2020 elections, the CWC proposed establishing a National University in the hills, with land identified in Kotagalai. However, efforts to release the land were lacking.
+
+🟩
+
+In the 2020 general election, the CWC's election manifesto was presented to education, the first of which was the 'establishment of a National University with all the amenities in the hill country ”.. The land for the university was identified in Kotagalai in October that year. But no one made efforts to release the Akkani until the end.
 
 ◼️
 
 [Data](articles/cfcf84dc.json)
+
+[Extended Data](ext_articles/cfcf84dc.ext.json)
 
 ---
 
@@ -1074,21 +1138,29 @@ In addition, a woman working at a club in Colombo has been arrested by customs o
 
 ---
 
-### அரசியலமைப்பு பேரவையினால் நியமிக்கப்பட்ட ஒருவரை நீதிமன்றம் நீக்கமுடியுமா? உயர்நீதிமன்றத்திடம் வியாக்கியானம் கோர ஜனாதிபதி தீர்மானம்
+### Can the court remove a person appointed by the Constitutional Council?President's decision to appeal to High Court
 
 *2024-07-28 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189589) · `ta`
 
-அரசியலமைப்பு பேரவை அனுமதி வழங்கிய ஒருவரை நீக்குவதற்கு உயர்நீதிமன்றத்திற்கு அரசமைப்பின் கீழ் அதிகாரம் உள்ளதா என்பது குறித்து  ஜனாபதி ரணில்விக்கிரமசிங்க உயர்நீதிமன்றத்தின் வியாக்கியானத்தை  கோருவதற்கு தீர்மானித்துள்ளார்.
+President Ranil Wickremesinghe seeks Supreme Court guidance on its constitutional power to remove someone appointed by the Constitutional Council. The President has issued an interim injunction through a three-judge panel regarding the appointment of the Tennakoon Police Chief. He aims to clarify the High Court's stance on constitutional provisions 41C and 41G, particularly concerning the participation of assembly members in referendums and the council's role in removing authorities.
 
-தேசபந்து தென்னக்கோன் பொலிஸ்மா அதிபராக பணியாற்றுவதற்கு மூன்று நீதிபதிகள் அடங்கிய உயர்நீதிமன்ற நீதியரசர்கள் குழாம் இடைக்கால தடை விதித்துள்ள நிலையில் தனக்கு அரசமைப்பின் கீழ் உள்ள அதிகாரங்களை பயன்படுத்தி ஜனாதிபதி உயர்நீதிமன்றத்தின் வியாக்கியானத்தை பெற முயல்வார் என அரசாங்க வட்டாரங்கள் தெரிவித்துள்ளன.
+🟩
 
-வாக்கெடுப்பின் போது அரசியலமைப்பு பேரவையின் உறுப்பினர் ஒருவர் வாக்களிக்காவிட்டால் அல்லது வாக்களிப்பில் கலந்துகொள்ளாவிட்டால் அதனை ஆதரவாக கருதலாமா அல்லது எதிர்ப்பாக கருதலாமா என்பது குறித்து தெளிவான சட்டவிதிகள் இல்லாததால் இது குறித்து உயர்நீதிமன்றத்தின் தெளிவுபடுத்தல்களை ஜனாதிபதி கோரவுள்ளார்.
+President Ranil Wickremesinghe has decided to demanding the Supreme Court's view on whether the Supreme Court has the authority under the Constitution to eliminate a person who granted the Constitutional Council permission.
 
-அதாவது அரசியலமைப்பின் 41 சி மற்றும் 41 ஜி குறித்து தெளிவான தெளிவுபடுத்தல்களை முன்வைக்குமாறு நீதிமன்றத்தை ஜனாதிபதி கோரவுள்ளார்.
+Government sources said that the president would use the powers under the Constitution as he had issued an interim injunction with three -judge judges comprising three judges to serve as the Tennakoon Police Principal.
 
-...
+The President is demanding clarity of the High Court on whether a member of the Constituent Assembly does not vote or not participating in the vote during the referendum.
+
+That is, the President is demanding a court to present clear clarity on the Constitution's 41C and 41G.
+
+The 41G Constitutional Council's duties were related to the removal of the authorities with the permission of the Constitution.
+
+◼️
 
 [Data](articles/9ad1b3c2.json)
+
+[Extended Data](ext_articles/9ad1b3c2.ext.json)
 
 ---
 
@@ -2285,59 +2357,5 @@ On the seventh of October, the Kolan hill attack has been killed in the attack o
 [Data](articles/c153c0a1.json)
 
 [Extended Data](ext_articles/c153c0a1.ext.json)
-
----
-
-### Sumanthiran's road accident in danger
-
-*2024-07-28 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199282) · `si`
-
-Colombo MP Sumanthiran was involved in a serious motorcycle accident near Kilinochchi yesterday evening. His vehicle, traveling from Colombo to Jaffna, collided with a motorcycle, causing significant damage to its front but no injuries to anyone involved.
-
-🟩
-
-Member of Parliament (MP) MA. The vehicle of Mr. Sumanthiran was injured in a motorcycle accident.
-
-The accident had occurred yesterday (27) evening, Kilinochchi police stated.
-
-The police said that the vehicle of Colombo from Colombo to Jaffna was collided with a motorcycle at 155 km kilinochchi.
-
-No one has been injured in the accident, and a front of the vehicle's vehicle has been severely damaged.
-
-◼️
-
-[Data](articles/5ce62ad2.json)
-
-[Extended Data](ext_articles/5ce62ad2.ext.json)
-
----
-
-### Next 24 Hours Be Care
-
-*2024-07-28 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199281) · `si`
-
-Strong winds and heavy showers expected across Sri Lanka for the next 24 hours, particularly affecting the Bay of Bengal region, Sabaragamuwa, Kandy, Nuwara Eliya, Western, North Western, Galle, and Matara districts. Winds could reach 50-55 knots in western-central hill areas and 30-40 knots elsewhere.
-
-🟩
-
-The Department of Meteorology has issued a warning notification of the strong winds and sea.
-
-The Department of Meteorology announces that the announcement issued at 3.00 am today (28) will be valid for the next 24 hours.
-
-The department states that the multi-day fishing and naval community acting in the Bay of Bay of Bengal.
-
-The Meteorology Department says that showers will experience showers at the same time in the Sabaragamuwa and Kandy and Nuwara Eliya districts.
-
-The department states that several showers may occur in the Western and North Western Provinces and several times in the Galle and Matara districts.
-
-At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. Strong winds are about 50-55.
-
-From time to time in the rest of the island.. The Meteorological Department further stated that there are stakes at 30-40 times.
-
-◼️
-
-[Data](articles/821070c5.json)
-
-[Extended Data](ext_articles/821070c5.ext.json)
 
 ---

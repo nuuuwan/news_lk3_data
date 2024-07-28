@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 10:54:32**
+As of **2024-07-28 11:06:33**
 
 ## Newspaper Stats
 
-*Scraped **37,634** Articles*
+*Scraped **37,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,107 @@ islandlk | 2,156
 economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,422
-adaderanalk | 4,358
+adaderanalk | 4,360
 tamilmirrorlk | 4,650
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,329
+adaderanasinhalalk | 6,330
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,631 (100.0%) of 37,634 articles have been extended.
+37,634 (100.0%) of 37,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### පසුගිය වසරේ මුල් මාස 10 තුළ මනුෂ්‍ය ඝාතන 488ක්
+### ඊශ්‍රායලය ප්‍රතිප්‍රහාර අරඹයි
+
+*2024-07-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199292) · `si`
+
+ලෙබනනයේ හිස්බුල්ලා ඉලක්ක වෙත ගුවන් ප්‍රහාර එල්ලකළ බව ඊශ්‍රායල හමුදාව පවසයි.
+
+ඒ ඊශ්‍රායලය විසින් අල්ලාගෙන සිටින ගෝලාන් කඳුකරයේ පිහිටි ගම්මානයක පාපන්දු පිටියකට එල්ලකළ මිසයිල ප්‍රහාරයකින් දරුවන් සහ තරුණයින් 12 දෙනෙකු මියයෑමට ප්‍රතිචාර වශයෙනි.
+
+ඊයේ (27) එල්ලකර තිබූ එම මිසයිල ප්‍රහාරයට හිස්බුල්ලා සංවිධානය වගකිවයුතු බව ඊශ්‍රායලය පවසයි.
+
+ඊශ්‍රායල ආරක්ෂක අංශ පැවසුවේ ලෙබනනයේ පිහිටි හිස්බුල්ලා ඉලක්ක 7කට දැඩි ප්‍රහාර එල්ලකළ බවයි.
+
+◼️
+
+[Data](articles/c0036fcb.json)
+
+---
+
+### Preliminary printing completed for Presidential Poll – Govt Printer
+
+*2024-07-28 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100827/preliminary-printing-completed-for-presidential-poll-govt-printer) · `en`
+
+The Department of Government Printing says it has completed all preliminary printing activities for the upcoming Presidential Poll and already handed over the necessary documents to the Election Commission.
+
+According to the department, the printing of materials related to nominations and the deposit of bonds has been finalized.
+
+In addition, the Government Printing Department has issued a gazette notification to appoint the returning officers, designating the District Secretary of each district as the District Returning Officer.
+
+When inquired by Ada Derana, Government Printer Ganga Kalpani Liyanage confirmed that all printing activities related to the election are currently underway, ensuring that the necessary preparations are on track for the forthcoming poll.
+
+◼️
+
+[Data](articles/e7d471e5.json)
+
+---
+
+### Women’s Asia Cup Final: Sri Lanka to face seven-time champions India today
+
+*2024-07-28 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100826/womens-asia-cup-final-sri-lanka-to-face-seven-time-champions-india-today-) · `en`
+
+Defending champions India will look to translate their overwhelming dominance in the Women’s Asia Cup to a record-extending eighth title while facing a feisty Sri Lanka in the final here on Sunday.
+
+India have lorded over their opponents in this continental showpiece – hammering Pakistan by seven wickets and followed it up with facile wins over UAE (78 runs), Nepal (82 runs), and Bangladesh (10 wickets). India’s top-order batters and bowlers fired in tandem, not giving their rivals even an iota of chance to mount a fight.
+
+Openers Smriti Mandhana and Shafali Verma have scored well in excess of 100 runs and at a healthy strike-rate of over 140, giving India solidity and quick starts alike at the top.
+
+But the management could be even more pleased with the way bowlers responded to the challenge, particularly Deepti Sharma and Renuka Singh.
+
+Deepti is the leading wicket-taker of this event with nine wickets and Renuka is third on the chart with seven scalps.
+
+...
+
+[Data](articles/104d74a1.json)
+
+---
+
+### 488 murders in the first 10 months of last year
 
 *2024-07-28 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199291) · `si`
 
-2023 වසරේ මුල් මාස 10ක කාලය තුළ මනුෂ්‍ය ඝාතන 500කට ආසන්න සංඛ්‍යාවක් වාර්තා වී ඇති බව ජාතික විගණන කාර්යාලය නිකුත් කළ නවතම වාර්තාවක් මගින් පෙන්වා දී තිබේ.
+In the first 10 months of last year, there were 488 murders, including 52 by shooting, mainly concentrated in areas like Tangalle, Nugegoda, Gampaha, Ratnapura, and Elpitiya. The Audit Office highlighted a total of 2030 crimes from 2018 to 2022, urging for better crime prevention strategies. Interestingly, the number of rapes reported increased from 182 in 2021 to 226 in 2022, while the overall crime resolution rate was 99%.
 
-ඒ අනුව පසුගිය වසරේ අදාළ කාලය තුළ මනුෂ්‍ය ඝාතන 488ක් සිදුව ඇති අතර ඉන් 52ක්ම සිදුව ඇත්තේ වෙඩිතැබීම් හේතුවෙන් බව එම වාර්තාවේ දැක්වෙයි.
+🟩
 
-තංගල්ල, නුගේගොඩ, ගම්පහ, රත්නපුර හා ඇල්පිටිය යන පොලිස් කොට්ඨාස පහෙන් මනුෂ්‍ය ඝාතන වැඩි වශයෙන් වාර්තා වී ඇති අතර එහිදී තංගල්ල කොට්ඨාසයෙන් මනුෂ්‍ය ඝාතන 32ක් වාර්තා වී ඇති බව ද එම වාර්තා සඳහන් කළේය.
+The new Audit Office has shown that nearly 500 murders have been reported in the first 10 months of the first 10 months of the year.
 
-දිවයින පුරා 2018 සහ 2022 අතර  කාල වකවානුව තුළ බරපතළ තුවාල සිදුකිරීම් හා මනුෂ්‍ය ඝාතන 7017ක් වාර්තා වී ඇති බව පෙන්වා දෙන එම වාර්තාව ඉන් අපරාධ 2030ක්ම වාර්තා වී ඇත්තේ පසුගිය වසරේ බව ද සඳහන් කර තිබේ.
+According to the report, 488 human murders have taken place last year and 52 were caused by shooting.
 
-මෙරට තුළ සිදුවන බල අපරාධ වාර්තා වීම වර්ධනය වීම වැළැක්වීම සඳහා ප්‍රමාණවත් ක්‍රියාමාර්ග ගත යුතුව පවතින බව එම විගණන වාර්තාව මගින් නිර්දේශ කර ඇත.
+According to the reports, 32 murders have been reported from the Tangalle, Nugegoda, Gampaha, Ratnapura and Elpitiya police divisions.
 
-මේ අතර පසුගිය වසර 6ක කාලය සැලකිල්ලට ගැනීමේ දී ගෙවල් බිදුම් හා කොල්ලකෑම් වාර්තා වී ඇත්තේ පසුගිය වසරේ දී බව සඳහන්ය.
+The report points out that 2030 crimes have been reported in the country between 2018 and 2022.
+
+The audit report recommends adequate measures to prevent the development of power crime reporting in Sri Lanka.
+
+Meanwhile, it was reported that houses and robbery have been reported last year in considering the last six years.
+
+The National Audit office points out that the year 2018 was about 50 percent of these crimes.
+
+Meanwhile, the number of rape report reported that the audited report was reported from 2722 compared to 2022, the number of rape report reported to 2022 has increased from 182 to 226.
 
 ...
 
 [Data](articles/cb0685b3.json)
+
+[Extended Data](ext_articles/cb0685b3.ext.json)
 
 ---
 
@@ -80,21 +146,29 @@ At the same time, it is a happy thing that some people got Viva Karatu. But at t
 
 ---
 
-### விவாகரத்து கிடைத்ததால் ‘பெண்’ விருந்து
+### Divorce
 
 *2024-07-28 10:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விவாகரத்து-கிடைத்ததால்-பெண்-விருந்து/50-341138) · `ta`
 
-அமெரிக்காவில் வசிக்கும் பாகிஸ்தான் பெண் ஒருவரே விருந்து வைத்து கொண்டாடினார். அவரது கொண்டாட்ட வீடியோ சமூக வலைதளங்களில் தற்போது வைரலாகியுள்ளது.
+A U.S.-based Pakistani woman celebrated her divorce with a party, which went viral. She wore purple and sang on stage, surrounded by divorce-themed decorations. The celebration sparked mixed reactions, with some congratulating her while others expressed concern about marriage.
 
-அமெரிக்காவில் வசித்து வரும் பெண் ஒருவருக்கு அண்மையில் விவாகரத்து கிடைத்துள்ளது. இதையடுத்து அந்த மகிழ்ச்சியைக் கொண்டாட அவர் முடிவுசெய்தார். தனக்கு விவாகரத்துகிடைத்ததை தனது நண்பர்கள்,தோழிகளுடன் அவர் ஹோட்டலில்மிகப்பெரிய அளவில் விருந்து வைத்துக் கொண்டாடியுள்ளார்.
+🟩
 
-விவாகரத்து கிடைத்ததற்கு வாழ்த்துகள் என்ற பின்னணிப் பலகையுடன் அவர் கொண்டாட் டத்தில் ஈடுபட்டார். மேடையில் ஏறி நின்று அவர் பாடலுக்கு நடனமாடியும், பாடல்களைப் பாடியும் கொண்டாடினார். ஊதா நிறலெஹங்கா உடையணிந்து அவர்தோழிகளுடன் ஆடிப்பாடினார். அவரது கொண்டாட்ட வீடியோசமூக வலை தளங்களில் வைரலாகிஉள்ளது. அவர் யாரென்ற விவரம்தெரியவில்லை.
+A Pakistani woman living in the United States celebrated with a feast. His celebration video has now gone viral on social networks.
 
-மேலும் எதற்காக அவர் விவாகரத்து பெற்றார் என்ற காரணத்தையும் தெரிவிக்கவில்லை. இந்நிலையில் அவரது வீடியோவைப் பார்த்த பலர் அவருக்கு,வாழ்த்துகளைத் தெரிவித்து உள்ளனர்.
+A woman living in the United States has recently been divorced. He then decided to celebrate that happiness. He has celebrated his divorce with his friends and companions at the hotel.
 
-...
+He was involved in the celebration with the background board of greetings for divorce. He climbed on the stage and celebrated his song and singing songs. Purple colored dressed up with his pussy. Her celebration has gone viral on social web sites. He did not know who he was.
+
+And he did not give the reason why he was divorced. Many people who have seen his video have congratulated him.
+
+At the same time, it is a happy thing that some people got Viva Karatu. But at the same time, celebrating divorce, people are afraid of getting married.
+
+◼️
 
 [Data](articles/70db2817.json)
+
+[Extended Data](ext_articles/70db2817.ext.json)
 
 ---
 
@@ -326,15 +400,21 @@ The deceased has been identified as 58-year-old woman who had been residents of 
 
 ---
 
-### සජබේ ඉෂාක් රහුමාන් රනිල්ට සහාය දෙයි
+### Sajobe Ishak Rahuman support Ranil
 
 *2024-07-28 08:40:38* · [`adalk`](https://www.ada.lk/breaking_news/සජබේ-ඉෂාක්-රහුමාන්-රනිල්ට-සහාය-දෙයි/11-411033) · `si`
 
-සමගි ජන බලවේගයේ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ඉෂාක් රහුමාන් මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කරමින් ගාල්ලේ ඊයේ පැවැති එක්ව ජයගමු වෙිදිකාව⁣ට ගොඩවිය.
+Ishak Rahuman, Anuradhapura District MP, supports Ranil, who won in Galle.
+
+🟩
+
+The Anuradhapura District MP Ishak Rahuman, Anuradhapura District MP Ishak Rahman, has been labored with the winner in Galle.
 
 ◼️
 
 [Data](articles/708881f6.json)
+
+[Extended Data](ext_articles/708881f6.ext.json)
 
 ---
 
@@ -2157,73 +2237,5 @@ The European Union has decided to name the LTTE as a banned organization in the 
 [Data](articles/825c6d88.json)
 
 [Extended Data](ext_articles/825c6d88.ext.json)
-
----
-
-### LTTE ban in European Union further extended
-
-*2024-07-27 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/100814/ltte-ban-in-european-union-further-extended) · `en`
-
-The Council of the European Union (EU) has renewed the proscription of Liberation Tigers of Tamil Eelam (LTTE) in the European Union for a further period of six months, Sri Lanka’s Ministry of Foreign Affairs announced.
-
-The EU on Friday (July 26) renewed the list of persons, groups and entities set out by the Common Position 2001/931/CFSP with the view to combatting terrorism, and the LTTE continues to be banned in the EU for a further period of six months.
-
-The proscribed persons, groups and entities are subject to the freezing of its funds and other financial assets or economic resources in EU member states, as well as it is prohibited for EU entities to make funds and economic resources available to the proscribed organisations, the Foreign Ministry added.
-
-◼️
-
-[Data](articles/bec992a5.json)
-
-[Extended Data](ext_articles/bec992a5.ext.json)
-
----
-
-### Maithri answers Dayasiri
-
-*2024-07-27 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199260) · `si`
-
-Maithripala Sirisena challenges Dayasiri Jayasekera to confirm his agreement with reconciliation efforts, citing Jayasekera's supposed acceptance on August 8th. Sirisena criticizes the SLFP for betraying its members for personal gain, highlighting issues within the party's leadership and decision-making processes.
-
-🟩
-
-Former President Maithripala Sirisena has challenged MP Dayasiri Jayasekera to disclose if Dayasiri Jayasekara was able to agree with reconciliation.
-
-Maithripala Sirisena says that Dayasiri Jayasekara has already agreed to join the reconciliation on August 8th.
-
-Former UNP President Maithripala Sirisena, the former President Maithripala Sirisena, said he was the only responsible decision to contemplate the current responsibility to the current situation in the Sri Lanka Freedom Party (SLFP) is condemned.
-
-The former President points out that Dr. Wijayadasa Rajapakse, who is not a Sri Lankan free party and the Free Party candidate, said the former President said.
-
-Maithripala Sirisena says that the proposal to submit the President's presidential candidate was the Executive Committee of the party, Maithripala Sirisena said.
-
-...
-
-[Data](articles/74946052.json)
-
-[Extended Data](ext_articles/74946052.ext.json)
-
----
-
-### New news of giving money for election
-
-*2024-07-27 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199259) · `si`
-
-State Minister Dr. Ranjith Siyambalapitiya announced that the Treasury will fund the upcoming presidential election as requested by the Elections Commissioner, citing good economic management. The exact amount depends on the number of candidates.
-
-🟩
-
-State Minister Dr. Ranjith Siyambalapitiya says that the Treasury is ready to provide funds for the next presidential election as requested by the Commissioner of Elections.
-
-The Minister said that the economy has been well managed enough to release the money in the last Budget.
-
-Accordingly, the General Treasury is ready to release the money, such as the Elections Commissioner's office nearly Rs.
-
-If the number of candidates contesting the presidential election increases, the amount of money is currently uncertaining to do so.
-
-◼️
-
-[Data](articles/3343689f.json)
-
-[Extended Data](ext_articles/3343689f.ext.json)
 
 ---

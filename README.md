@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 10:06:09**
+As of **2024-07-28 10:20:38**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 6,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,618 (100.0%) of 37,622 articles have been extended.
+37,622 (100.0%) of 37,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### ජීවිත බිලිගත් මාරක අනතුරු
+### Fatal accidents that have been killed
 
 *2024-07-28 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199289) · `si`
 
-ගෙවී ගිය පැය 24ක කාලය තුළ ප්‍රදේශ කිහියකින් වාර්තා වූ රිය අනතුරුවලින් කාන්තාවක් ඇතුළු පුද්ගලයින් සිව්දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+In a 24-hour period, four fatalities occurred: a cyclist in Rathgama, a 51-year-old Boossa resident, a 68-year-old cyclist near a quarry, and a 70-year-old woman in Hokandara. Additionally, a van driver died in an accident on the Jawuwuwangoda road.
 
-ඊයේ (27) එම රත්ගම, පොළොන්නරුව, මාලඹේ සහ ජාඇල පොලිස් වසම්වල එම අනතුරු සිදුව තිබුණි.
+🟩
 
-රත්ගම, රත්න උදාගම ප්‍රදේශයේ අතුරු මාර්ගයක කඳු සහිත ස්ථානයක ධාවනය වූ පාපැදියක්, පැදිකරුට පාලනය කර ගත නොහැකිව තාප්පයක ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Four persons, including a woman, reported from a 24-hour period, four persons were killed.
 
-එලෙස මියගොස් ඇත්තේ, කදුරුපේ, බූස්ස ප්‍රදේශයේ පදිංචිව සිටි 51 හැවිරිදි පුද්ගලයෙකි.
+The accidents had been reported yesterday (27) yesterday (27).
 
-මේ අතර පොළොන්නරුව ගල්කොරිය හන්දියේ සිට ගල්කොරිය දෙසට ගමන්කළ පාපැදියක් මාර්ගයේ පෙරළීමෙන් සිදුවූ අනතුරකින් 68 හැවිරිදි පුද්ගලයෙකු මියගොස් තිබේ.
+A man was killed in a crash, a bicyclist who was traveling in a mountain range on a side road in Rathgama, Rathgama area.
 
-මේ අතර මාලඹේ - හෝකන්දර මාර්ගයේ හෝකන්දර ප්‍රදේශයේදී ත්‍රිරෝද රථයක් රියදුරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් බස්නැවතුම්පොළක සිටි කාන්තාවකගේ ගැටී අනතුරක් සිදුව තිබේ.
+The victims were 51 year old resident of the Boossa, Boossa.
 
-අනතුරින් බරපතළ තුවා ලැබූ 70 හැවිරිදි කාන්තාවක් හෝමාගම රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+Meanwhile, a 68-year-old person has died after a cycling that was traveling from the quotation from the quarry from the quarry from the quotation from the quarry.
 
-...
+Meanwhile, a three-wheeler in Hokandara slippled with a woman in a bus station
+
+A 70-year-old woman who was seriously forged was rushed to the Homagama Hospital.
+
+Meanwhile, a van is killed in an accident in the CTB juncee area on the Juwanugoda road on the Jawuwuwangoda road.
+
+◼️
 
 [Data](articles/32062038.json)
+
+[Extended Data](ext_articles/32062038.ext.json)
 
 ---
 
@@ -72,45 +80,61 @@ They gathered to learn about the government’s program and the path ahead, vowi
 
 [Data](articles/7aae827f.json)
 
+[Extended Data](ext_articles/7aae827f.ext.json)
+
 ---
 
-### පාපන්දු පිටියකට මිසයිල ප්‍රහාරයක්
+### A missile attack on a football field
 
 *2024-07-28 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199288) · `si`
 
-ඊශ්‍රායලය විසින් අල්ලාගෙන සිටින ගෝලාන් කඳුකරයේ පිහිටා ඇති පාපන්දු පිටියකට එල්ල කළ මිසයිල ප්‍රහාරයකින් දරුවන් සහ තරුණයින් 12 දෙනෙක් පමණ මියගොස් ඇතැයි ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+In a tragic incident, a missile attack on a football field in the Golan Heights killed 12 children and youth. Israel blames Hezbollah for the assault, leading to fears of escalating tensions and potential conflict.
 
-මෙම ප්‍රහාරය ලෙබනනයේ හිස්බුල්ලා ගරිල්ලා සංවිධානය විසින් එල්ලකර ඇති බවට ඊශ්‍රායලය චෝදනා කරයි.
+🟩
 
-ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු නිවේදනය කළේ එම ප්‍රහාරයට දරුණු ප්‍රතිචාරයක් දක්වන බවයි.
+According to international media reports, about 12 children and youth have died in a football field located in the Golan mountains located in the Golan mountains of Israel.
 
-ජාත්‍යන්තර විචාරකයින් පවසන්නේ මේ හේතුවෙන් ඊශ්‍රායලය සහ හිස්බුල්ලා සංවිධානය අතර යුද්ධයක් ඇතිවීමේ හැකියාව පවතින බවයි.
+Israel alleges that the attack was launched by Hisbullah guerrilla organization in Lebanon.
+
+Israeli Prime Minister Benjamin Netanyahu announced that the attack respond to the attack.
+
+International critics say that there is a possibility of war between Israel and Hisbollah organization.
 
 ◼️
 
 [Data](articles/6d4159aa.json)
 
+[Extended Data](ext_articles/6d4159aa.ext.json)
+
 ---
 
-### ජනාධිපතිවරණයට ශ්‍රීලනිප මෛත්‍රී පාර්ශ්වයේ සූදානම
+### SLFP Maithree to presidential election
 
 *2024-07-28 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199287) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රීපාල පාර්ශ්වය විසින් එළැඹෙන ජනාධිපතිවරණය වෙනුවෙන් පක්ෂ සංවිධායකවරු දැනුවත් කිරීමේ වැඩසටහනක් ආරම්භ කර තිබේ.
+The Sri Lanka Freedom Party (SLFP) has initiated a program to educate its organizers ahead of the presidential election. Despite facing internal issues leading to legal disputes, the party continues its preparations. Minister Wijayadasa Rajapakse has started his election campaign, asserting SLFP's representation. However, there's no official discussion about reconciliation within the party, despite former President Maithripala Sirisena's readiness to join such efforts.
 
-එම වැඩසටහන ඊයේ (27) ආරම්භකර කර ඇති අතර අද (28) දිනයේ නුවරඑළිය දිස්ත්‍රික්කයේ පක්ෂ සංවිධායකවරු දැනුවත් කිරීමට නියමිතය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ වනවිට අභ්‍යන්තර ගැටලු රැසක් මතුව ඇති අතර එම ගැටලු අධිකරණ ක්‍රියාමාර්ග දක්වා දුරදිග ගොස් තිබේ.
+The party organizers have launched a program to educate the party organizers for the presidential election by the Sri Lanka Freedom Party (SLFP).
 
-ඒ අනුව ශ්‍රී ලංකා නිදහස් පක්ෂයේ නම හෝ ලකුණින් මෙවර ජනාධිපතිවරණයට කිසිදු පාර්ශ්වයකට ඉදිරිපත්වීමේ හැකියාවක් නොමැති පසුබිමක එම අර්බුදකාරී තත්ත්වය තවදුරටත් ඉහළ ගොස් ඇති බව සඳහන්ය.
+The program was commenced yesterday (27) and is to be informed of the party organizers in the Nuwara Eliya District today.
 
-කෙසේවෙතත් මේ වනවිට අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂය නියෝජනය කරමින් එළැඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වන බවට ප්‍රකාශ කර ඇති පසුබිමක ඔහුගේ මැතිවරණ මෙහෙයුම් කාර්යාලය අතුරුගිරිය ප්‍රදේශයේ ආරම්භ කර තිබේ.
+There have been many internal issues in the Sri Lanka Freedom Party and have long been prompted to court proceedings.
 
-මේ අතර සමගි ජනබලවේගය සමග එක්වීමට කිසිදු අවස්ථාවක සාකච්ඡා කර නොමැති බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
+Accordingly, the crisis has further increased in a context that the Sri Lanka Freedom Party (SLFP) name or sign.
 
-...
+However, the Minister Wijayadasa Rajapakse has launched his election campaign in Athurugiriya, which has stated that the SLFP representing the Sri Lanka Freedom Party.
+
+Meanwhile, SLFP secretary MP Dayasiri Jayasekara says that no discussion has been discussed with the reconciliation.
+
+He said that the statement made by former President Maithripala Sirisena was preparing to join the reconciliation of the reconciliation.
+
+◼️
 
 [Data](articles/40bfdd7e.json)
+
+[Extended Data](ext_articles/40bfdd7e.ext.json)
 
 ---
 

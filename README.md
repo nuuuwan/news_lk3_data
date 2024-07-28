@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 08:25:18**
+As of **2024-07-28 08:35:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,601 (100.0%) of 37,610 articles have been extended.
+37,605 (100.0%) of 37,610 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 ◼️
 
 [Data](articles/e6ca007f.json)
+
+[Extended Data](ext_articles/e6ca007f.ext.json)
 
 ---
 
@@ -358,6 +360,8 @@ After all, how could a mother anticipate what peculiarities her daughter’s cha
 
 [Data](articles/d9795170.json)
 
+[Extended Data](ext_articles/d9795170.ext.json)
+
 ---
 
 ### IGP Controversy & President RW’s Failure To Break Up NPP
@@ -369,6 +373,8 @@ After the Election Commission revealed the details of the presidential election,
 ...
 
 [Data](articles/0ff19ced.json)
+
+[Extended Data](ext_articles/0ff19ced.ext.json)
 
 ---
 
@@ -432,21 +438,27 @@ The President and Basil Rajapaksa will be taken back to this Sunday.
 
 ---
 
-### இலங்கை கல்வி முறையில் பாரிய மாற்றம்
+### Mass change
 
 *2024-07-27 23:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கல்வி-முறையில்-பாரிய-மாற்றம்/175-341124) · `ta`
 
-கல்வி சீர்திருத்த முன்மொழிவு தொடர்பில் 2025ஆம் ஆண்டின் முதல் தவணை முதல்  பாடசாலை தரங்களின் எண்ணிக்கையை 13 இலிருந்து 12 ஆக குறைக்கப்படும் என கல்வி அமைச்சு தெரிவித்துள்ளது.
+Educational reform reduces first-year tuition from 2025, allowing students to finish schooling by 17. The 5th-grade scholarship exam will simplify grading, considering school performance and exam scores. The GCE Ordinary Level Exam subjects will decrease from 9 to 7.
 
-அத்துடன் மாணவர்கள் 17 வயதிற்குள் பாடசாலை கல்வியை முடிக்க முடியும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இவற்றுள் 5ஆம் தர புலமைப்பரிசில் பரீட்சையில் பாடசாலை மதிப்பீடுகளுக்கு புள்ளிகளையும் பரீட்சைகளுக்கு குறிப்பிட்ட சதவீத புள்ளிகளையும் வழங்கி பரீட்சையை இலகுபடுத்தவும் முன்மொழியப்பட்டுள்ளது.
+The first installment of the educational reform will be reduced from 2025 to 13 to 12, the Ministry of Education said.
 
-மேலும், கல்வி பொதுத்தராதர சாதாரண தர தேர்விற்கான பாடங்களை 9 இல் இருந்து 7 ஆக குறைக்கப்பட உள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+It has also been reported that students can complete school education by the age of 17.
+
+Of these, the 5th grade scholarship examination has been proposed to ease the exam by awarding school estimates and certain percentage points for exams.
+
+In addition, the subjects for the GCE Ordinary Level Examination will be reduced from 9 to 7. Remble
 
 ◼️
 
 [Data](articles/ccd5fdf3.json)
+
+[Extended Data](ext_articles/ccd5fdf3.ext.json)
 
 ---
 

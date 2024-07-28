@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 14:54:41**
+As of **2024-07-28 15:05:31**
 
 ## Newspaper Stats
 
-*Scraped **37,675** Articles*
+*Scraped **37,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,429
-adaderanalk | 4,366
+adalk | 3,430
+adaderanalk | 4,367
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,337
+adaderanasinhalalk | 6,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,675 (100.0%) of 37,675 articles have been extended.
+37,675 (100.0%) of 37,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### Special circular for govt officials over Presidential Election
+
+*2024-07-28 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100836/special-circular-for-govt-officials-over-presidential-election) · `en`
+
+The Election Commission is poised to issue a special circular outlining the protocols for government officials and institutions during the upcoming Presidential Election.
+
+Chairman of the Election Commission, R.M.A.L. Rathnayake stated that the relevant circular is in its final stages of drafting and will be published shortly.
+
+The circular aims to provide comprehensive instructions on how government officials should perform their duties and manage institutional activities throughout the election period. It will include necessary orders and sub-measures to ensure that the election process is conducted smoothly and in accordance with the law.
+
+In addition to guidelines for government officials, the circular will also issue directives to the media on their conduct and responsibilities during the Presidential election.
+
+◼️
+
+[Data](articles/57929e62.json)
+
+---
+
+### කාසියේ වාසිය ඉන්දියාවට
+
+*2024-07-28 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199300) · `si`
+
+කාන්තා ක්‍රිකට් ආසියානු කුසලාන තරගාවලියේ අවසන් තරගය දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+
+ඒ ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සහ ඉන්දීය කාන්තා ක්‍රිකට් කණ්ඩායම අතරය.
+
+එහි කාසියේ වාසිය දිනා ගැනීමට ඉන්දීය නායිකා හර්මන්ප්‍රීත් කෞර්  සමත් වූවාය.
+
+◼️
+
+[Data](articles/de2dcb38.json)
+
+---
 
 ### Over 32,000 Dengue cases reported in 2024
 
@@ -319,6 +353,24 @@ In addition, a woman working at a club in Colombo has been arrested by customs o
 [Data](articles/a8f42e49.json)
 
 [Extended Data](ext_articles/a8f42e49.ext.json)
+
+---
+
+### පොහොට්ටුවෙන් අපේක්ෂකයෙක් ඉදිරිපත් නොකිරිමට මහින්දගේ වැඩි කැමැත්ත?
+
+*2024-07-28 12:37:58* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-අපේක්ෂකයෙක්-ඉදිරිපත්-නොකිරිමට-මහින්දගේ-වැඩි-කැමැත්ත-/11-411041) · `si`
+
+ඉදිරි ජනාධිපතිරණයේදී අපේක්ෂකයකු තෝරාපත්කර ගැනීම සඳහා වන ශ්‍රී ලංකා පොදුජන පෙරමුණේ විධායක සභාවේ විශේෂ සාකච්ඡාවක් පක්ෂ නායක මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් හෙට (29) පස්වරු 4.00 ට කොළඹ විජේරාම මාවතේ පිහිටි හිටපු ජනාධිපතිවරයාගේ නිවසේදී පැවැත්වේ.
+
+ශ්‍රී ලංකා පොදුජන  පෙරමුණේ බහුතර පාර්ලිමේන්තු මන්ත්‍රීවරුන් පිරිසක් තම සහය  ‍ප්‍රසිද්ධියේ ප්‍රකාශ කර ඇති අතර  පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් කළ යුතු බවට තවත් පිරිසකගේ මතය වී තිබේ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ දෙකඩ වනවාද නොඑසේනම් එක්ව ඉදිරියට ගමන් කරනවාද නැද්ද යන්න මෙම සාකච්ඡාවේදී තීරණය වනු ඇතැයි දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+ඉකුත් සතියේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ දිස්ත්‍රික් නායකයන් 12 දෙනෙකු සහ අමාත්‍යවරුන් 18 දෙනෙකු මන්ත්‍රීවරුන් 30 දෙනෙකු ස්ථාන කීපයකදී සාකච්ඡා පවත්වා ජනාධිපතිවරයා ප්‍රමුඛ ආණ්ඩුවේ ආර්ථික වැඩපිළිවෙළට සහාය දැක්වීමට තීරණය බවද දේශපාලන ආරංචි මාර්ග පවසයි.
+
+...
+
+[Data](articles/6da2df35.json)
 
 ---
 
@@ -2245,79 +2297,5 @@ Gardihewa Sarath Chandralal Fonseka known generally as Sarath Fonseka has  throw
 [Data](articles/5774409a.json)
 
 [Extended Data](ext_articles/5774409a.ext.json)
-
----
-
-### United People's Power MP. Support to Ranil
-
-*2024-07-27 20:57:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தி-எம்-பி-ரணிலுக்கு-ஆதரவு/175-341109) · `ta`
-
-Ishaq Rahman, United People's Power MP, publicly supports President Ranil Wickremesinghe during a Galle meeting.
-
-🟩
-
-United People's Power MP Ishaq Rahman has supported President Ranil Wickremesinghe.
-
-He presented this support during a meeting in Galle headed by President Ranil Wickremesinghe. (A)
-
-◼️
-
-[Data](articles/76473456.json)
-
-[Extended Data](ext_articles/76473456.ext.json)
-
----
-
-### A powerful attack from India
-
-*2024-07-27 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199277) · `si`
-
-In the opening match of the 20th cricket tournament at Pallekele, India batted first after losing the toss to Sri Lanka. Despite Surkumar Yadu's 58 and Rishab Buns' 49, India was bowled out for 213 in 20 overs. Mathera Pathirana led Sri Lanka's bowling with 4 wickets. Sri Lanka comfortably chased down the target with 214 runs, securing a victory.
-
-🟩
-
-The first match of the 20th cricket tournament between Sri Lanka and India will be held at the Pallekele Cricket Stadium.
-
-The Sri Lankan team won the toss and decided to give the Indian team first to bat first.
-
-Accordingly, the Indian team scored 213 runs for the loss of 7 wickets at the end of 20 overs.
-
-Surkumar Yadu scored 58 runs for the Indian team, and 49 Rishab Buns scored 49.
-
-Mathera Pathirana took 4 wickets for Sri Lanka.
-
-Accordingly, the Sri Lankan team won 214 runs in winning the match.
-
-◼️
-
-[Data](articles/8cb782b7.json)
-
-[Extended Data](ext_articles/8cb782b7.ext.json)
-
----
-
-### Here are the people who joined Ranil
-
-*2024-07-27 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199276) · `si`
-
-Ranil Wickremesinghe, accompanied by ministers and state ministers including Tiran Alles and Prasanna Ranatunga, declared his candidacy for the upcoming presidential election at a rally organized by "Jaya Gingum" in Galle. Notable attendees included UNP Deputy Leader Ruwan Wijewardena, former Parliamentarian Mahindananda Aluthgamage, and SEC member Sihily Federation.
-
-🟩
-
-Ministers Tiran Alles, Prasanna Ranatunga, Ramesenna Ranatunga, Ramesh Annayake, Manora Sampath Dasaratunga, State Ministers Chamara Sampath Dasaratunga, State Ministers, has joined the declaration of President Ranil Wickremesinghe.
-
-The rally was organized by the "Jaya Gingum 'in Galle.
-
-In addition, UNP Deputy Leader Ruwan Wijewardena, former Chamber of Parliament Mahindananda Aluthgamage, Vajira Abeywardena and Sihily Federation (SEC) are also present.
-
-President Ranil Wickremesinghe officially announced that he would contest the next presidential election at the rally.
-
-President Ranil Wickremesinghe said that he was deposited on the date yesterday.
-
-◼️
-
-[Data](articles/4d9c36a4.json)
-
-[Extended Data](ext_articles/4d9c36a4.ext.json)
 
 ---

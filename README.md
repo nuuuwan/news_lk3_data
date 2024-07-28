@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 21:20:36**
+As of **2024-07-28 21:35:59**
 
 ## Newspaper Stats
 
-*Scraped **37,734** Articles*
+*Scraped **37,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,438
+adalk | 3,439
 adaderanalk | 4,372
 tamilmirrorlk | 4,662
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,732 (100.0%) of 37,734 articles have been extended.
+37,734 (100.0%) of 37,735 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -334,21 +334,29 @@ Accordingly, the number of tourists visiting the tourist attractions controlled 
 
 ---
 
-### ஜனாதிபதி தேர்தலில் போட்டியிட நான் தயார் - தம்மிக்க பெரேரா
+### I am ready to contest the presidential election- Tammika Perera
 
 *2024-07-28 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189634) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் சார்பில் போட்டியிடுவதற்கு தயாராகவுள்ளேன். இறுதித் தீர்மானத்தை கட்சியே எடுக்க வேண்டும். கட்சியின் தீர்மானம் ஏதுவாக இருந்தாலும் அதனை முழுமையாக ஏற்றுக் கொள்வேன் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் தம்மிக்க பெரேரா தெரிவித்தார்.
+Tammika Perera, a member of the Sri Lanka People's Alliance (PA), has expressed readiness to run for president. This comes as the party deliberates its candidate choice, influenced by internal discussions and external support for current President Ranil Wickremesinghe. The PA's Executive Council is set to meet to finalize the decision.
 
-கொழும்பில் சனிக்கிழமை (27) மாலை இடம்பெற்ற பொதுஜன பெரமுனவின் இளைஞர் மாநாட்டில் கலந்துக் கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதித் தேர்தலில் போட்டியிட தயாராகவுள்ளேன் என்பதை ஆரம்பத்தில் இருந்து தெளிவாக குறிப்பிட்டுள்ளேன். ஜனாதிபதித் தேர்தல் குறித்து கட்சி மட்டத்தில் இடம்பெற்ற பேச்சுவார்த்தையின் போது இதனை எடுத்துரைத்துள்ளேன்.
+I am ready to compete on behalf of Sri Lanka PA. The party must take the final resolution. The ruling party MP Dammika Perera said that the party's decision will be fully accepted.
 
-ஜனாதிபதி வேட்பாளர் தொடர்பில் கட்சி மட்டத்தில் உறுதியான தீர்மானத்தை எடுக்க வேண்டும்.கட்சி எடுக்கும் தீர்மானம் ஏதுவாக இருந்தாலும் அதை முழுமையாக ஏற்பேன் என்றார்.
+He was speaking to the media after attending the PA's Youth Conference in Colombo on Saturday evening (27) evening.
+
+From the very beginning I have clearly stated that I am ready to contest the presidential election. I have highlighted this during the party level talks on the presidential election.
+
+The party should make a firm decision on the party level regarding the presidential candidate.
+
+Senior members of the party claim that the Members of the PA is to be fielded as the presidential candidate of the Sri Lanka PA's presidential candidate, and the senior members of the party, as the party's senior members of the PA have been fielded as the presidential candidate.
 
 ...
 
 [Data](articles/6104b913.json)
+
+[Extended Data](ext_articles/6104b913.ext.json)
 
 ---
 
@@ -422,6 +430,24 @@ The police, who had already said that the proof was placed in the refrigerator, 
 
 ---
 
+### පෞද්ගලික වාහන ආනයන සීමා ඉවත් කිරීම 2025 මුල් කාර්තුවේදී
+
+*2024-07-28 19:04:23* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-වාහන-ආනයන-සීමා-ඉවත්-කිරීම-2025-මුල්-කාර්තුවේදී/11-411049) · `si`
+
+ජාත්‍යන්තරය සමග කටයුතු කල හැකි අත්දැකීම් හා අනාගතය පිළිබඳව දැක්මක් ඇති නායකත්වයක් රටට අවශ්‍ය බවත් පෞද්ගලික වාහන ආනයන සීමා ඉවත් කිරීම  2025 වර්ශයේ පළමු වන කාර්තුවේදී බලාපොරොත්තු වන බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා මේ බව කියාසිටියේ අද (28දා) දින අනුරාධපුරයේදී පැවති මාධ්‍ය හමුවකදී අදහස් දක්වමින්ය.
+
+"2022 වර්ෂයේදී ඇති වූ තත්ත්වය නැවත ඇති නොවීමට කටයුතු කිරීම මෙවර ජනාධිපතිවරණයේ අරමුණයි. රටේ ආර්ථික පරිවර්තන නීතියට අනුව රට පවත්වා ගෙන යෑම  සියලුම ජනතාවගේ අරමුණ විය යුතු වෙනවා.
+
+ජාත්‍යන්තරය සමග කටයුතු කළ හැකි අත්දැකීම් හා අනාගතය පිළිබඳව දැක්මක් ඇති නායකත්වයක් රටට අවශ්‍යයි. ඉදිරි ජනාධිපතිවරණයේදී ජනතාව විසින් වැරදි තීන්දුවක් ගතහොත් රට නැවත වසර 15ක් ආපස්සට ගමන් කිරීම වැලැක්ව්ය නොහැකියි.
+
+...
+
+[Data](articles/74c48e41.json)
+
+---
+
 ### Bed of dollars to women's cricket team
 
 *2024-07-28 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199308) · `si`
@@ -444,15 +470,21 @@ Sri Lanka won the final match against India by eight wickets.
 
 ---
 
-### ආසියිනු කුසලානය දිනූ කෙල්ලන්ට ක්‍රිකට් ආයතනයෙන් තෑගි මල්ලක්
+### Gifts from cricket to win as farmers
 
 *2024-07-28 18:51:02* · [`adalk`](https://www.ada.lk/sports/ආසියිනු-කුසලානය-දිනූ-කෙල්ලන්ට-ක්‍රිකට්-ආයතනයෙන්-තෑගි-මල්ලක්/9-411048) · `si`
 
-ප්‍රභල ඉන්දිය කණ්ඩායම පරාජය කරමින් ඉතිහාසයේ පළමුවරට ආසියානු කුසලානය දිනාගත් කාන්තා ක්‍රිකට් කණ්ඩායමට ඩොලර් ලක්ෂයක දීමනාවක් ලබාදීමට ක්‍රිකට් ආයතනය තීරණය කර තිබේ.
+For the first time ever, the SLC will provide a monthly stipend to Sri Lanka's women's cricket team after their historic victory against India.
+
+🟩
+
+The SLC has decided to give a monthly allowance for the women's cricket team for the first time in history by defeating the powerful Indian team.
 
 ◼️
 
 [Data](articles/9e1a0e86.json)
+
+[Extended Data](ext_articles/9e1a0e86.ext.json)
 
 ---
 
@@ -2299,37 +2331,5 @@ The Minister also stated that some people say that the Sri Lanka Freedom Party (
 [Data](articles/1487e478.json)
 
 [Extended Data](ext_articles/1487e478.ext.json)
-
----
-
-### Fatal accidents that have been killed
-
-*2024-07-28 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199289) · `si`
-
-In a 24-hour period, four fatalities occurred: a cyclist in Rathgama, a 51-year-old Boossa resident, a 68-year-old cyclist near a quarry, and a 70-year-old woman in Hokandara. Additionally, a van driver died in an accident on the Jawuwuwangoda road.
-
-🟩
-
-Four persons, including a woman, reported from a 24-hour period, four persons were killed.
-
-The accidents had been reported yesterday (27) yesterday (27).
-
-A man was killed in a crash, a bicyclist who was traveling in a mountain range on a side road in Rathgama, Rathgama area.
-
-The victims were 51 year old resident of the Boossa, Boossa.
-
-Meanwhile, a 68-year-old person has died after a cycling that was traveling from the quotation from the quarry from the quarry from the quotation from the quarry.
-
-Meanwhile, a three-wheeler in Hokandara slippled with a woman in a bus station
-
-A 70-year-old woman who was seriously forged was rushed to the Homagama Hospital.
-
-Meanwhile, a van is killed in an accident in the CTB juncee area on the Juwanugoda road on the Jawuwuwangoda road.
-
-◼️
-
-[Data](articles/32062038.json)
-
-[Extended Data](ext_articles/32062038.ext.json)
 
 ---

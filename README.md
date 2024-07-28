@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 03:35:55**
+As of **2024-07-29 03:54:18**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,754 (100.0%) of 37,760 articles have been extended.
+37,760 (100.0%) of 37,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### ஸ்ரீலங்கா சுதந்திர கட்சியின் முன்னாள் உறுப்பினர்கள் ஐக்கிய மக்கள் சக்தியின் வேட்பாளர் சஜித் பிரேமதாசவுடன் இணைவு!
+### Former members of the Sri Lanka Freedom Party (SLFP)
 
 *2024-07-29 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189648) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் பியகம தேர்தல் தொகுதியின் பிரதான அமைப்பாளர் நளீன் திசாநாயக்க மற்றும் பியகம பிரதேச சபையின் ஸ்ரீலங்கா சுதந்திர கட்சியின் முன்னாள் உறுப்பினர்கள் மற்றும் வேட்பாளர் எதிர்வரும் ஜனாதிபதி தேர்தலில் ஐக்கிய மக்கள் சக்தியின் வேட்பாளர் சஜித் பிரேமதாசவிற்கு தமது ஆதரவை நல்கும் நோக்கில் ஞாயிற்றுக்கிழமை (28) ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டனர்.
+Naleen Dissanayake, a key SLFP figure, along with former Biyagama Pradeshiya Sabha members and several from the Gampaha Municipal Council's Independent Committee, have switched allegiance to the United People's Power ahead of the upcoming presidential election. This move was marked by a significant gathering attended by Gampaha district MP Harshana Rajakaruna.
 
-கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணா முன்னிலையிலயே இவ்வாறு இணைந்து கொண்டனர்.
+🟩
 
-கடந்த உள்ளூராட்சி மன்றத் தேர்தலில் கம்பஹா நகர சபைக்கு சுயேட்சை குழு 01 இல் போட்டியிட முன்வந்த உறுப்பினர்களும்  ஞாயிற்றுக்கிழமை (28) ஐக்கிய மக்கள் சக்தியோடு இணைந்து கொண்டனர்.
+Naleen Dissanayake, the chief organizer of the Sri Lanka Freedom Party (SLFP) constituency, and former members of the Sri Lanka Freedom Party (SLFP) of the Biyagama Pradeshiya Sabha and the candidate of the United People's Power in the upcoming presidential election, joined the United People's Power on Sunday (28).
+
+Gampaha district parliamentarian Harshana Rajakaruna joined the event.
+
+Members of the Independent Committee of the Gampaha Municipal Council in the last local government elections joined the United People's Power on Sunday (28).
 
 ◼️
 
 [Data](articles/0659f95f.json)
+
+[Extended Data](ext_articles/0659f95f.ext.json)
 
 ---
 
@@ -82,81 +88,119 @@ The scope of the assignment involves detailed campaign lifecycle-related process
 
 ---
 
-### எந்த வேட்பாளரும் 50 வீதமான வாக்குகளை பெறாவிடின் ஜனாதிபதி தெரிவு எப்படி நடக்கும்? - ஆணையாளர் நாயகம்
+### If any candidate does not get 50 percent of the votes, how can the president elect?-Commissioner General
 
 *2024-07-29 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189647) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுகின்ற எந்தவொரு வேட்பாளரும் 50 வீதத்திற்கும் அதிகமான வாக்குகளை பெறாவிடின் எந்தச்சிக்கலும் ஏற்படாது. அப்படி 50 வீதத்திற்கும் அதிகமான வாக்குகளை யாரும் பெறாவிடின் அடுத்தகட்டமாக ஜனாதிபதியை தெரிவு செய்வதற்கான ஏற்பாடுகள் சட்டத்தில் தெளிவாக உள்ளன. அதில் எந்தப் பிரச்சினையும் இல்லை. இந்தவிடயத்தில் மக்கள் குழப்பமடையத் தேவையில்லை என்று தேர்தல் ஆணையாளர் நாயகம் சமன்ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+In elections where no candidate surpasses 50% of votes, the law dictates a process to determine the president-elect. The Elections Commissioner assures clarity in this procedure, emphasizing its implementation to announce the elected president.
 
-‘‘தேர்தல் சட்டத்தில் இதற்கான ஏற்பாடுகள் தெளிவாக இருக்கின்றன. அதனை நாங்கள் செயற்படுத்தி ஜனாதிபதியாக தெரிவு செய்யப்பட்டவர் யார் என்பதை அறிவிப்போம்’’ என்று ஆணையாளர் நாயகம் குறிப்பிட்டார்.
+🟩
+
+Any candidate contesting the upcoming presidential election will not get more than 50 percent votes. If no one receives more than 50 percent votes. There is no problem in it. Elections Commissioner Samansree Ratnayake said that people need not be confused with the matter.
+
+The arrangements for this are clear in the election law. The Commissioner General said that we will implement it and announce who was elected as the President.
 
 ◼️
 
 [Data](articles/dade0f9d.json)
 
+[Extended Data](ext_articles/dade0f9d.ext.json)
+
 ---
 
-### உயர்நீதிமன்ற தீர்ப்பை ஜனாதிபதி, பிரதமர் விமர்சிப்பது தவறானதொரு எடுத்துக்காட்டு - ஜீ.எல்.பீரிஸ்
+### The President and the Prime Minister criticize the High Court ruling is an wrong example- GL Peiris
 
 *2024-07-29 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189646) · `ta`
 
-பாராளுமன்ற சிறப்புரிமைக்குள் இருந்துக் கொண்டு உயர்நீதிமன்ற தீர்ப்பை விமர்சிப்பது பாரதூரமான விளைவுகளை ஏற்படுத்தும்.பொலிஸ்மா அதிபருக்கு நீதிமன்றம் விதித்துள்ள இடைக்காலத் தடையுத்தரவால் ஜனாதிபதித் தேர்தலுக்கு எவ்வித பாதிப்பும் ஏற்படாது என எதிரணியின் பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜீ.எல்.பீரிஸ் தெரிவித்தார்.
+Professor GL Peiris criticized the High Court's interim ban on the police president, stating it won't affect the presidential election. The Supreme Court issued an injunction due to suspicions about the appointment process. The President argued the Police Chancellor position isn't crucial for the election, suggesting actions to create conflict between the parliament and judiciary despite Supreme Court orders.
 
-வாதுவ போதிராஜ விகாராதிபதி கோட்ட ஸ்ரீ கல்யாணி சமகி தம்ம மகா சங்க சபையின் மநாயக்கர் கொடபிடியே ராகுல தேரரை ஞாயிற்றுக்கிழமை (29) சந்தித்து அரசியல் நிலைவரங்கள் குறித்து கலந்துரையாடியதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பொலிஸ்மா அதிபர் நியமனத்தில் முறைகேடுகள் இடம்பெற்றதை ஆரம்பத்தில் இருந்து சுட்டிக்காட்டினோம்.அரசியலமைப்புக்கு முரணாக பொலிஸ்மா அதிபர் நியமிக்கப்பட்டுள்ளார் என்ற சந்தேகம் காணப்படுவதால் தான் அவருக்கு உயர்நீதிமன்றம் இடைக்கால தடையுத்தரவு பிறப்பித்துள்ளது.
+Opposition parliamentarian Professor GL Peiris said that the court's interim ban on the police president will not be affected by the presidential election.
 
-...
+Vaturaja Vikramaditya Kota Sri Kalyani Samaki Damma Maha Sangam Manayakar Kodapidiye Rahula Thera on Sunday (29) and discussed the political situation after discussing with the media.
+
+From the very beginning, the Supreme Court has issued an interim injunction because of the suspicion that the Inspector General of Police has been appointed contrary to the politics.
+
+The Supreme Court's verdict cannot be questioned from parliamentary privileges.
+
+The President says that the post of Police Chancellor is not essential to carry out the presidential election.
+
+The president is acting in order to create conflicts between parliament and the judiciary, leaving the instructions of the Supreme Court.
+
+◼️
 
 [Data](articles/0ff7b6f4.json)
 
+[Extended Data](ext_articles/0ff7b6f4.ext.json)
+
 ---
 
-### மீண்டும் வரிசை யுகத்துக்கு செல்வதா? தற்போதைய முன்னேற்றத்தை நிலையானதாக்குவதா? செப்டெம்பர் 21 தீர்மானிக்க வேண்டும் - செஹான் சேமசிங்க
+### Going back to the row again?Does the current improvement make it stable?September 21 must be determined - Sehan Semasinghe
 
 *2024-07-29 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189645) · `ta`
 
-2022 ஆம் ஆண்டு வரிசை யுகத்துக்கு மீண்டும் செல்வதா அல்லது தற்போதைய பொருளாதார முன்னேற்றத்தை தொடர்ந்து முன்னெடுத்து செல்வதா என்பதை செப்டெம்பர் 21 நாட்டு மக்கள் தீர்மானிக்க வேண்டும். சஜித் பிரேமதாச,அனுரகுமார திஸாநாயக்க சிறந்த தலைவர்களல்ல என்பதை அவர்களே உறுதிப்படுத்தியுள்ளார்கள் என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Finance Minister Sehan Semasinghe discusses the decision to either revert to 2022 conditions or maintain economic progress by September 21. He criticizes former leaders Sajith Premadasa and Anuragumara Dissanayake, acknowledging the economic crisis' intensification due to past government decisions. Semasinghe supports President Ranil Wickremesinghe's efforts to recover from the crisis within two years through economic reforms, despite opposition party lack of cooperation.
 
-பொருளாதார ரீதியில் 2022 ஆம் ஆண்டு ஆட்சியில் இருந்த எமது அரசாங்கம் எடுத்த தவறான தீர்மானங்களினால் பொருளாதார நெருக்கடி தீவிரமடைந்துள்ளது என்பதை ஏற்றுக்கொள்கிறோம். பொருளாதார நெருக்கடியின் போது மாறுப்பட்ட அரசியல் கொள்கையுடைய ஐக்கிய தேசியக் கட்சியின் தலைவர் ரணில் விக்கிரமசிங்கவை ஜனாதிபதியாக்கினோம்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் திட்டங்களினால் நாடு இரண்டாண்டுக்குள் பொருளாதார நெருக்கடியில் இருந்து மீண்டுள்ளது. பொருளாதார மறுசீரமைப்புக்களுக்காக எடுத்த தீர்மானங்களினால் ஒட்டுமொத்த மக்களும் பாதிக்கப்பட்டார்கள் என்பதை ஏற்றுக்கொள்கிறோம்.
+September 21 September 21 will decide whether to return to the Age of 2022 or to continue the current economic progress.. Finance Minister Sehan Semasinghe said that Sajith Premadasa and Anuragumara Dissanayake were not the best leaders.
+
+We accept that the economic crisis has intensified due to the wrong decisions taken by our government in the country of 2022. We made the president of the United National Party (UNP) leader Ranil Wickremesinghe, who had changed during the economic crisis.
+
+President Ranil Wickremesinghe's plans have recovered from the economic crisis within two years. We accept that the entire population was affected by the resolutions taken for economic reforms.
+
+The country has been rescued from economic crisis by restructuring. Politicians only mention that there has been no change. The people of the country have realized the progress. Opposition parties have not cooperated to solve the economic crisis.
 
 ...
 
 [Data](articles/b2b52af2.json)
 
+[Extended Data](ext_articles/b2b52af2.ext.json)
+
 ---
 
-### நாட்டை வீழ்ச்சியடையச் செய்தவர்களை மீண்டும் அதிகாரத்துக்கு கொண்டுவர ரணில் விக்ரமசிங்க முயற்சிக்கிறார் - இம்தியாஸ் பாக்கிர் மாக்கார்
+### Ranil Wickremesinghe is trying to bring back the country to power - Imtiaz Pakir Makar
 
 *2024-07-29 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/189644) · `ta`
 
-நாட்டின் பொருளாதாரம் வீழ்ச்சியடைந்திருக்கும் தற்போதுள்ள நிலையில்,  யார் ஆட்சிக்கு வந்தாலும் நாட்டை கட்டியெழுப்புவது இலகுவான வியமல்ல. என்றாலும் இந்த நிலையில் இருந்து நாட்டை கட்டியெழுப்ப சிறந்த அணியும் முறையான கொள்கையும் வேலைத்திட்டமும் ஐக்கிய மக்கள் சக்தியிடம் மாத்திரமே இருக்கிறது என ஐக்கிய மக்கள் சக்தி தேசிய அமைப்பாளர் இம்தியாஸ் பாக்கிர் மாக்கார் தெரிவித்தார்.
+Imtiaz Pakir Makar emphasizes the importance of the United People's Power's policies and programs in reviving Sri Lanka's struggling economy. He criticizes the leadership for failing to address the nation's challenges effectively, highlighting the need for a strong, unified approach to recovery. Makar urges voters to consider their options carefully in the upcoming presidential election, advocating for change through informed decision-making.
 
-பேருவளை பிரதேசத்தில் ஞாயிற்றுக்கிழமை (29) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாடு என்றவகையில் நாங்கள் அனைவரும் பாதாலத்தில் வீழ்ந்திருக்கிறோம். பாரிய நெருக்கடி நிலைக்கு தள்ளப்பட்டிருக்கிறோம். அதனால் எந்த ஆட்சியாளர் நாட்டின் அதிகாரத்துக்கு வந்தாலும்  தற்போதைய நிலையில் இருந்து மீள்வது இலகுவான விடயமல்ல. இந்த நிலையில் இருந்து நாட்டை மீட்டெடுப்பதற்கு திறமையான அணியும் சரியான கொள்கையும் உறுதியான வேலைத்திட்டமும் இருக்க வேண்டும். அந்த வேலைத்திட்டம் மற்றும் அணி ஐக்கிய மக்கள் சக்தியிடம் மாத்திரமே இருக்கிறது.
+Whoever comes to power, it is not easy to build the country as the economy of the country is in decline. However, United People's Power National Organizer Imtiaz Pakir Makar said that the best wear policy and program to build the country from this position is only for the United People's Power.
+
+He said this while addressing a public meeting held in Beruwala on Sunday (29).
+
+As a country we are all falling in the footpath. We have been forced to a massive crisis. So it is not easy to recover from the current state of which the ruler comes to the power of the country. There must be the right policy and a definitive program to retrieve the country from this position. That program and team are only for the United People's Power.
 
 ...
 
 [Data](articles/c8b54686.json)
 
+[Extended Data](ext_articles/c8b54686.ext.json)
+
 ---
 
-### இ.போ.சபையில் தற்காலிக அடிப்படையில் நிர்வாக பணிகளில் ஈடுபட்டுவந்த ஊழியர்களுக்கான நிரந்தர நியமனங்களை வழங்கிவைத்தார் அமைச்சர் டக்ளஸ்!
+### Minister Douglas gave permanent appointments to employees engaged in a temporary basis on a temporary basis
 
 *2024-07-29 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189643) · `ta`
 
-வடக்கு மாகாணத்தில் அமைந்துள்ள இலங்கை போக்குவரத்து சபையின் சாலைகளில் (டிப்போக்களில்) கடந்த 10 வருடங்களுக்கு மேலாக தற்காலிக அடிப்படையில் நிர்வாக பணிகளில் ஈடுபட்டு வருகின்றவர்களுக்கு நிரந்தர நியமனங்களை வழங்குவதற்கு அமைச்சர் டக்ளஸ் தேவானந்தாவினால் நடவடிக்கை மேற்கொள்ளப்பட்டு வருகின்றது.
+Minister Douglas Devananda has made 29 temporary workers' positions permanent after over a decade of service at the Sri Lanka Transport Board's Northern Province branch. Additionally, he inspected progress at the Chavakachcheri Hospital during his visit.
 
-இந்நிலையில் ஞாயிற்றுக்கிழமை (28) முதற் கட்டமாக 29 பேருக்கான நியமனக் கடிதங்களை அமைச்சர் டக்ளஸ் தேவானந்தா அவர்கள் சம்மந்தப்பட்டவர்களுக்கு வழங்கி வைத்தமை குறிப்பிடத்தக்கது.
+🟩
 
-இதேவேளை சாவகச்சேரி வைத்தியசாலைக்கு விஜயம் மேற்கொண்ட அமைச்சர் டக்ளஸ் தேவானந்தா வைத்தியசலையின் முன்னேற்ற செயற்பாடுகள் குறித்தும் ஆராய்வுகளை மேற்கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+Minister Douglas Devananda has been taking action to make permanent appointments to those who have been in temporary administration for more than 10 years on the roads of the Sri Lanka Transport Board (TPO) located in the Northern Province.
+
+In this backdrop, Minister Douglas Devananda handed over the letter of appointment to 29 persons on Sunday (28).
+
+Meanwhile, Minister Douglas Devananda, who visited the Chavakachcheri Hospital, has also been investigating the advancement activities of the Hospital.
 
 ◼️
 
 [Data](articles/673674df.json)
+
+[Extended Data](ext_articles/673674df.ext.json)
 
 ---
 

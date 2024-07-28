@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 19:35:40**
+As of **2024-07-28 19:53:37**
 
 ## Newspaper Stats
 
-*Scraped **37,716** Articles*
+*Scraped **37,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,434
+adalk | 3,435
 adaderanalk | 4,371
 tamilmirrorlk | 4,661
 dailymirrorlk | 4,733
 virakesarilk | 5,935
-adaderanasinhalalk | 6,346
+adaderanasinhalalk | 6,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,714 (100.0%) of 37,716 articles have been extended.
+37,716 (100.0%) of 37,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### කාසියේ වාසිය ඉන්දියාවට
+
+*2024-07-28 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199310) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන දෙවැනි 20යි විස්ස ජාත්‍යන්තර තරගය අද (28) පල්ලෙකැලේ ක්‍රිකට් ක්‍රීඩාංගණයේ දී පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/0306c286.json)
+
+---
 
 ### Sri Lanka Women’s team awarded USD 100,000; Chamari opens up on retirement plans
 
@@ -50,25 +62,37 @@ Additionally, Sri Lanka’s Harshitha Samarawickrema was awarded Player of the F
 
 [Data](articles/12afdfaa.json)
 
+[Extended Data](ext_articles/12afdfaa.ext.json)
+
 ---
 
-### ஆட்டிறைச்சி மாயம்: 4 பொலிஸாருக்கு  இடமாற்றம்
+### Mutton magic: 4 transfer to police
 
 *2024-07-28 19:09:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்டிறைச்சி-மாயம்-4-பொலிஸாருக்கு-இடமாற்றம்/175-341173) · `ta`
 
-பொலிஸ் நிலைய குளிரூட்டியில் பாதுகாப்பாக களஞ்சியப்படுத்தப்பட்டிருந்த ஆட்டிறைச்சிகள் காணாமல் போன சம்பத்தினை அடுத்து 4  பொலிஸ் உத்தியோகத்தர்களுக்கு  தண்டனை இடமாற்றம் வழங்கப்பட்டுள்ளது.
+Four police officers were sentenced to death for the disappearance of mutton from a police station. A complaint led to the arrest of a shop owner for slaughtering four sheep without permission. Evidence was found in a refrigerator at the Muttirichi police station. The magistrate discovered the mutton being prepared for burial, leading to suspicions among the police. It was revealed that the mutton had been taken to unknown locations. Following an investigation, two officers were transferred to different stations.
 
-அம்பாறை மாவட்டம் அக்கரைப்பற்று பொலிஸ் பிரிவிற்கு அட்டாளைச்சேனை  பகுதி வீடு ஒன்றில்  அறுக்கப்பட்ட ஆடுகள் தொடர்பில் அக்கரைப்பற்று பொலிஸாருக்கு முறைப்பாடு கடந்த வெள்ளிக்கிழமை(26) அன்று வழங்கப்பட்டிருந்தது.
+🟩
 
-இதற்கமைய விசாரணைகளை மேற்கொண்ட பொலிஸார்  விலங்குகள் அறுக்கும்    தொழுவத்தில் அறுக்கப்படாமல் அட்டாளைச்சேனை பகுதியில்  உள்ள ஒரு  வீட்டில் வைத்து 4 ஆடுகளை அறுத்த கடை உரிமையாளரை   பொலிஸார்  கைது செய்திருந்தனர்.
+Four police officers have been sentenced to death after the disappearance of muttones that were safely stored in the police station.
 
-பின்னர் குறித்த சந்தேக நபர்  அக்கரைப்பற்று நீதிமன்றில்  ஆஜர் படுத்தப்பட்டிருந்தார். அவரது சார்பில் ஆஜராகியிருந்த சட்டத்தரணி தனது குறித்த ஆட்டினை தனது வீட்டு நிகழ்வு ஒன்றிக்கு அறுத்திருந்தாகவும்  குற்றத்தினை ஏற்றுக் கொள்வதாகத்  தெரிவித்துள்ளார்.
+A complaint was lodged with the Akkaraipattu police on Friday (26) in connection with the goats cut in a house in the Adalaichenai area.
 
-குறித்த வழக்கின் சான்றுப் பொருளான ஆட்டிறைச்சி பொலிஸ் நிலையத்தில் குளிர்சாதனப் பெட்டியில் வைக்கப்பட்டுள்ளதாக பொலிஸார்  நீதிமன்றிடம் தெரிவித்துள்ளனர்.
+The police have arrested the shop owner who cut four sheep at a house in Adalaichenai area without being cut down by the police.
+
+The suspect was later produced in court. The lawyer, who was present on his behalf, said that she had been convicted of the goat for her home event.
+
+The police have told the court that the proof of the case is placed in the refrigerator at the Muttirichi police station.
+
+When the magistrate went to visit the Akkaraipattu police station, he observed that he was preparing to bury the mutton bundle and was ready to bury it in the bekko machine.
+
+The police, who had already said that the proof was placed in the refrigerator, had suddenly had a huge suspicion to the judge.
 
 ...
 
 [Data](articles/12a15f69.json)
+
+[Extended Data](ext_articles/12a15f69.ext.json)
 
 ---
 
@@ -117,6 +141,28 @@ The Indian team's fielding activity was very bad. Dropping the catches was adver
 [Data](articles/7f3bbfc3.json)
 
 [Extended Data](ext_articles/7f3bbfc3.ext.json)
+
+---
+
+### චමරි ප්‍රමුඛ කෙල්ලෝ ආසියානු කුසලානය දිනති
+
+*2024-07-28 18:29:01* · [`adalk`](https://www.ada.lk/sports/චමරි-ප්‍රමුඛ-කෙල්ලෝ-ආසියානු-කුසලානය-දිනති/9-411047) · `si`
+
+කාන්තා ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ ශූරතාව හිමිකර ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය. ඒ ප්‍රභල ඉන්දීය කණ්ඩායම කඩුලු 8කින් පහසුවෙන් පරාජය කරමිනි.
+
+මෙවර පැවැත්වූයේ 9 වැනි ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය වන අතර ඉන් අවස්ථා පහකදීම ශ්‍රී ලංකාව අනුශුරයන් බවට  පත්ව තිබුණි.
+
+අවස්ථා 7කදීම ශූරතාව හිමිකරගෙන තිබුණේ ඉන්දියාවයි. එක් අවස්ථාවකදී බංග්ලාදේශය ශූරතාව හිමිකර තිබුණි.
+
+මුලින්ම පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම ලකුණු කඩුලු 6ට ලකුණු 165ක් රැස්කරමින් ශ්‍රී ලංකා කණ්ඩායමට ඉහළම ඉලක්කයක් ලබාදුන්නේය.
+
+ශ්‍රී ලංකා කණ්ඩායමේ පළමු කඩුල්ල ලකුණු 7ක් තුළ දැවී ගියත් නායක චමරි අතපත්තු (61 (පන්දු 43)) හා හර්ෂිතා සමරවික්‍රම (69* (පන්දු 51)) දෙවැනි කඩුල්ල වෙනුවෙන් ලකුණු 87ක සබඳතාවක් පවත්වමින් තරගය ශ්‍රී ලංකාව දෙසට රැගෙන ආවේය.
+
+මුළු ලකුණු සංඛ්‍යාව 94දී චමරි දැවී ගිය අතර ඉන් අනතුරුව වගකිම කරට ගත් හර්ෂිතා සමරවික්‍රම ශ්‍රී ලංකා ක්‍රිකට් ඉතිහාසයේ නොමකෙන ඉනිමක් ක්‍රීඩා කරමින් නවක ක්‍රීඩිකා කවීෂා දිල්හාරි (30* (පන්දු 16) සමග එක්ව නොබිඳුනු ලකුණු 73ක සබඳතාවක් ගොඩනගමින් ශ්‍රී ලංකාවට ඉතාමත් වැදගත් කුසලානයක් දිනා දුන්නාය
+
+◼️
+
+[Data](articles/e5f1ee76.json)
 
 ---
 
@@ -2303,59 +2349,5 @@ Maize is allowed to be imported for Triposha, a supplement given to prevent maln
 [Data](articles/c9cdd119.json)
 
 [Extended Data](ext_articles/c9cdd119.ext.json)
-
----
-
-### Chairman of the Road Development Authority resigns
-
-*2024-07-28 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199283) · `si`
-
-CP. Mr. Language, Chairman of the Road Development Authority, has resigned due to the improper influence and negative impacts of the Transport Development Authority on its operations. The resignation letter has been forwarded to the President through the Secretary. This decision comes after several instances of misuse and interference affecting the authority's top management. Despite advancements in national rules and employee growth over the last four and a half years, Mr. Language has chosen to step down from his position.
-
-🟩
-
-Chairman of the Road Development Authority CP. Mr. Language has resigned from his post.
-
-The respective resignation has been sent to the Secretary to the Secretary to the Secretary to the Secretary to the Secretary to the President.
-
-The decision was taken due to the arbitrary intervention and improper effects of the Transport Development Authority due to the duties of the Road Development Authority.
-
-During the recent past, the misuse and intervention have been constantly due to the administrative and administrative activities of the Road Development Authority (PC) and the direct impact on the company's top management.
-
-The Road Development Autuity of the Road Development Autuity has been subjected to the advancement of the country's rules and approximate the advancement of employees in the last four and a half years.
-
-...
-
-[Data](articles/4af916bc.json)
-
-[Extended Data](ext_articles/4af916bc.ext.json)
-
----
-
-### Rocket attack on Kollankund - many Israelis, including 12 boys
-
-*2024-07-28 07:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/189565) · `ta`
-
-In a rocket attack on Kollankund, 12 children among many Israelis were killed by Hezbollah from Lebanon targeting the city of Truce. Israeli PM Netanyahu vows retaliation, signaling potential escalation in conflict.
-
-🟩
-
-Israeli said many people, including 12 children, were killed in an attack on Israel's occupation.
-
-Israeli said the casualties were caused by the attack by Lebanon's Hesbullah organization targeting the city of Truce.
-
-Israeli Prime Minister Benjamin Netanyaku, who has said that he is going to respond against the Hesbullah organization, said the organization would pay a huge price.
-
-The full war will explode between Israeli soldiers and the Hesbullah organization due to this attack. The danger has arisen.
-
-It is noteworthy that the two sides have been involved in conflicts since the seventh of October.
-
-On the seventh of October, the Kolan hill attack has been killed in the attack on the Israeli border.
-
-◼️
-
-[Data](articles/c153c0a1.json)
-
-[Extended Data](ext_articles/c153c0a1.ext.json)
 
 ---

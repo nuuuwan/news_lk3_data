@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 09:05:57**
+As of **2024-07-28 09:20:38**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,613 (100.0%) of 37,616 articles have been extended.
+37,616 (100.0%) of 37,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### දියේ ගිලී ජීවිත දෙකක් අහිමි වෙයි
+### Two lives lost
 
 *2024-07-28 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199285) · `si`
 
-ප්‍රදේශ දෙකක දී කාන්තාවක් ඇතුළු පුද්ගලයින් දෙදෙනෙකු දියේ ගිලී මියගොස් ඇති බව පොලීසිය පවසයි.
+In separate incidents, two individuals—a 47-year-old man from Welipenna and a 58-year-old woman from Hettigama—drowned in different locations, with the former admitted to Kalawwa Hospital before his death.
 
-ඉපලෝගම, කලා වැවේ දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී කලාවැව රෝහලට ඇතුළත් කිරීමේදී මියගොස් ති‍බේ.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, ඌරුගොඩ, වැලිපැන්න ප්‍රදේශයේ පදිංචිව සිටි 47 හැවිරිදි පුද්ගලයෙකි.
+Two persons including a woman in two areas were drowned, police said.
 
-මේ අතර ඇහැටුවැව පොලිස් වසමේ මකුලෑව වැවේ දිය නෑමට ගොස් සිටි කාන්තාවක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+Ipalogama has died in admission to the Kalawwa Hospital.
 
-එලෙස මියගොස් ඇත්තේ, හෙට්ටිගම, මකුලෑව ප්‍රදේශයේ පදිංවිව සිටි 58 හැවිරිදි කාන්තාවකි.
+The deceased has been identified as a 47 year old resident of the Welipenna area in Urupptota.
+
+Meanwhile, a woman drowned in the Makulea Vyalawa police division in Ehetuwewa Police Division.
+
+The deceased has been identified as 58-year-old woman who had been residents of Hettigama in the Makulewa area.
 
 ◼️
 
 [Data](articles/43139940.json)
+
+[Extended Data](ext_articles/43139940.ext.json)
 
 ---
 
@@ -80,21 +86,27 @@ Representatives of Ada Derana, the Government Printer Ganga Liyanage said that p
 
 ---
 
-### அரசாங்கத்தின் நிலைப்பாட்டுக்கு சட்டத்தரணிகள் சங்கம் கண்டனம்
+### Attorneys Association condemns the government's position
 
 *2024-07-28 08:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-நிலைப்பாட்டுக்கு-சட்டத்தரணிகள்-சங்கம்-கண்டனம்/175-341130) · `ta`
 
-அரசியலமைப்பு பேரவையின் அங்கீகாரத்துடன் ஜனாதிபதி மேற்கொண்ட நியமனங்களை உயர்நீதிமன்றம் கேள்விக்கு உட்படுத்த முடியாது என்ற அரசாங்கத்தின் கருத்தை முற்றிலும் ஏற்றுக் கொள்ள முடியாது என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Bar Association criticized the government's stance that the Supreme Court cannot question the President's appointments approved by the Constitutional Council. This disagreement arose over the appointment of Deshabandan Tennakoon as Inspector General of Police, with the Prime Minister asserting the court's inability to override the council's decision.
 
-பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன் நியமிக்கப்பட்டமை தொடர்பில், உயர் நீதிமன்றத்தினால் அண்மையில் பிறப்பிக்கப்பட்ட இடைக்கால தடையுத்தரவு தொடர்பில், இலங்கை சட்டத்தரணிகள் சங்கத்தின் நிலைப்பாட்டை வெளிப்படுத்தும் அறிக்கையில் இந்த விடயம் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-கடந்த 26 ஆம் திகதி பாராளுமன்றத்தில் உரையாற்றிய பிரதமர் தினேஷ் குணவர்தன, பொலிஸ் மா அதிபர் நியமனத்திற்கு அரசியலமைப்பு பேரவை வழங்கிய அனுமதியை நீதிமன்றத்தால் மாற்ற முடியாது என குறிப்பிட்டார்.
+The Sri Lanka Bar Association has said that the government's opinion that the president's appointments with the approval of the Constitutional Council cannot be questioned by the Supreme Court.
 
-இந்த நிலையில், அரசாங்கத்தின் நிலைப்பாட்டை ஏற்க முடியாது எனவும், பொலிஸ் மா அதிபரின் நியமனம் தொடர்பான அரசாங்கத்தின் நிலைப்பாட்டைக் கண்டிப்பதாகவும் இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது. (a)
+This was stated in a statement revealing the position of the Sri Lanka Lawyers Association on the recent interim injunction issued by the Supreme Court regarding the appointment of Deshabandan Tennakoon as the Inspector General of Police.
+
+Speaking to Parliament on the 26th, Prime Minister Dinesh Gunawardena said the court could not change the permission of the Constitutional Council for the appointment of the Inspector General of Police.
+
+In this case, the Government of Sri Lanka's Lawyers Association has said that the government's position cannot be accepted and the government's position on the appointment of the Inspector General of Police. (A)
 
 ◼️
 
 [Data](articles/565d1edb.json)
+
+[Extended Data](ext_articles/565d1edb.ext.json)
 
 ---
 
@@ -228,17 +240,23 @@ This means that Suryakumar Yadav equals Virat Kohli (16 times) as the player of 
 
 ---
 
-### டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரிப்பு
+### Increase in the number of dengue patients
 
 *2024-07-28 03:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-341127) · `ta`
 
-இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 32 ஆயிரத்துக்கும் அதிகமான டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் எனத் தேசிய டெங்குக் கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+This year, over 32,000 dengue cases were reported, with 12 fatalities attributed to the disease.
 
-அத்துடன், இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 12 பேர் டெங்கு நோய் காரணமாக உயிரிழந்துள்ளனர் என சுகாதார அமைச்சு தெரிவித்துள்ளது. (a)
+🟩
+
+More than 32 thousand dengue patients have been identified during this year, the National Dengue Control Unit said.
+
+In addition, 12 people have died of dengue during this year, the Ministry of Health said.. (A)
 
 ◼️
 
 [Data](articles/263f6d96.json)
+
+[Extended Data](ext_articles/263f6d96.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 16:06:33**
+As of **2024-07-28 16:20:35**
 
 ## Newspaper Stats
 
-*Scraped **37,680** Articles*
+*Scraped **37,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,430
+adalk | 3,431
 adaderanalk | 4,367
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
@@ -26,41 +26,53 @@ adaderanasinhalalk | 6,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,678 (100.0%) of 37,680 articles have been extended.
+37,680 (100.0%) of 37,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### මදුරෝ ගේ මගඩි සහ වෙනිසියුලා ජනාධිපතිවරණය
+### Maduro's passenger and Venezuela presidential election
 
 *2024-07-28 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199302) · `si`
 
-දූෂණ චෝදනා, මැතිවරණ මගඩි සහ බලය අනිසි ලෙස භාවිත කෙරෙන බවට එල්ලවන චෝදනා මැද වෙනිසියුලාවේ ජනාධිපතිවරණය අද (28) පැවැත්වේ.
+Venezuela holds its presidential election today, facing allegations of corruption and abuse of power. Current President Nicolás Maduro, succeeding Hugo Chávez in 2013, seeks re-election for a six-year term amidst challenges to the United Socialist Party's dominance, which has ruled for over 25 years.
 
-වසර 06ක කාලයක් සඳහා ජනාධිපතිවරයෙකු තෝරා පත් කරගැනීම වෙනුවෙන් පැවැත්වෙන මෙම මැතිවරණය සඳහා වත්මන් ජනාධිපති නිකොලොස් මදුරෝ ද ඉදිරිපත්ව සිටියි.
+🟩
 
-2013 වසරේ එරට හිටපු ජනාධිපති හියුගෝ චාවේස්ගේ අභාවයෙන් පසු වෙනිසියුලාවේ ජනාධිපති ධුරයට පත් වූ නිකොලොස් මදුරෝ මෙවර ජනාධිපතිවරණයට තරග වදින්නේ සිය තෙවන ධුර කාලය වෙනුවෙනි.
+The Venezuela's presidential election will be held today (28), alleges that corruption, election and power is being abused.
 
-කෙසේවෙතත් මෙවර ජනාධිපතිවරණය වසර 25ක කාලයක් පුරා වෙනිසියුලාවේ බලය හොබවන එක්සත් සමාජවාදී පක්ෂයට ප්‍රබල අභියෝගයක් වී ඇති බව දේශපාලන විචාරකයින් පෙන්වාදෙයි.
+The current President Nikolas has mosquitoes for the election of a president for a period of six years.
+
+Nipolas Maduro, who was appointed as the president of Venezuela, was contesting the presidential election this year after the death of former President Hugo Chavez in 2013.
+
+However, this year's presidential election has been a major challenge to the United Socialist Party, who is powered by the Venezuela for over 25 years.
 
 ◼️
 
 [Data](articles/6447bd81.json)
 
+[Extended Data](ext_articles/6447bd81.ext.json)
+
 ---
 
-### ඉරානයේ ලොකු වෙනසක්
+### A big change in Iran
 
 *2024-07-28 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199301) · `si`
 
-ඉරානයේ පසුගියදා පැවති ජනාධිපතිවරණයෙන් ජයගත් මධ්‍යස්ථ මතධාරියෙක් ලෙස සැලකෙන මසූඩ් පෙසෙෂ්කියන් ව එරට ජනාධිපතිවරයා ලෙස ඉරාන අධ්‍යාත්මික නායකයා විසින් පිළිගෙන ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Iran's spiritual leader is now seen as a neutral figure in the country's recent elections. The government aims to alleviate public stress through practical policies, focusing on easing the hardships faced by its citizens.
 
-ඉරාන විදෙස් ප්‍රතිපත්තිය වඩාත් ප්‍රායෝගික කිරීමටත් රට තුළ ජනතාවට එරෙහිව සිදු කෙරෙන පීඩාකාරී සිදුකිරීම් ලිහිල් කිරීමටත් මසූඩ්  ලබාදුන් මැතිවරණ පොරොන්දුවකි.
+🟩
+
+International media reports that the Iranian spiritual leader has been recognized as a neutralist-in-law of Iran's recent presidential election.
+
+The Iranian foreign policy is to make the most practical and stressful of the people in the country to ease the persecution of the people in the country.
 
 ◼️
 
 [Data](articles/686eddd8.json)
+
+[Extended Data](ext_articles/686eddd8.ext.json)
 
 ---
 
@@ -237,6 +249,24 @@ The rally reached the bell tower through the Hatton main city, launching a prote
 [Data](articles/e121929a.json)
 
 [Extended Data](ext_articles/e121929a.ext.json)
+
+---
+
+### දුම්රිය දෙපාර්තමේන්තුවේ බිංගෙවල් පරීක්ෂාව ඇරඹෙයි
+
+*2024-07-28 13:40:39* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-දෙපාර්තමේන්තුවේ-බිංගෙවල්-පරීක්ෂාව-ඇරඹෙයි/11-411042) · `si`
+
+දුම්රිය දෙපාර්තමේන්තුවට අයත් දිවයින පුරා පිහිටි දුම්රිය බිංගෙවල් 48 අතුරින් උඩරට දුම්රිය මාර්ගයේ නාවලපිටිය සිට බදුල්ල දක්වා ඇති දුම්රිය බිංගෙවල් 32ක යෝග්‍යතාව පරික්ෂා කිරීමේ වාර්ෂික බිංගෙවල් පරීක්ෂණය සිදු කරන  බව  දුම්රිය දෙපාර්තමේන්තුව   පැවසීය .
+
+දුම්රිය බිංගෙවල් වල ඇති විය හැකි ජල කාන්දු වීම , ඉරිතැලීම් , බිංගෙයි බිත්ති දුර්වල වීම , බොල් වීම  වැනි දෝශ මෙන්ම බිංගෙය තුල දුම්රිය මාර්ගයේ  පිහිටීම වෙනස් වීම තාක්ෂණික දෝශ ඇති වීම  පිළිබඳව සොයා බලා ඊට අවශ්‍ය තාක්ෂණික ක්‍රියා මාර්ග , පිළියම් යෙදීම මෙම බිංගෙවල් පරීක්ෂණයේ අරමුන යැයි දුම්රිය දෙපාර්තමේන්තුවේ ප්‍රකාශයකු කීය .
+
+දුම්රිය දෙපාර්තමේන්තුවේ දුම්රිය මාර්ග අධීක්ෂණ කළමනාකරුවන් විසින් මෙම පරීක්ෂණ සිදු කරනු ලබයි .
+
+මෝටර් ට්‍රොලි , ඩක්කු  සහ පිරික්සුම් අට්ටාල  සවිකරන ලද විශේෂ දුම්රියක සිට මෙම කටයුතු සිදු කරනු ලබන අතර , දුම්රිය දෙපාර්තමේන්තුවේ මහනුවර  බිංගෙවල් නඩත්තු අංශය, හැටන් , නානුඔය , පට්ටිපොළ , ඔහිය  සහ බණ්ඩාරවෙල යන දුම්රිය මාර්ග අංශවල සහය  මත මෙම  කටයුතු සිදු කල බවද දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් සදහන් කළේය .
+
+◼️
+
+[Data](articles/41c34b14.json)
 
 ---
 
@@ -2279,35 +2309,5 @@ Furthermore, the State Minister said that if the number of candidates running fo
 [Data](articles/7ebbd908.json)
 
 [Extended Data](ext_articles/7ebbd908.ext.json)
-
----
-
-### Ranil - Basil again a discussion
-
-*2024-07-27 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199278) · `si`
-
-Discussions were held involving President Ranil Wickremesinghe, Basil Rajapaksa, and former President Mahinda Rajapaksa regarding the upcoming presidential election in Sri Lanka. Wickremesinghe is running as an independent candidate. The talks aimed to finalize the presidential candidate from the Sri Lanka General Manager, potentially supporting Wickremesinghe. Meanwhile, Presidential Chief of Staff Sunila Ratnayake and Minister Susil Premajayantha met with Rajapaksa, discussing support for the current president. However, Rajapaksa indicated that the Sri Lanka General Front would announce its candidate for the next presidential election post-discussion.
-
-🟩
-
-A discussion was held between President Ranil Wickremesinghe party and former President Mahinda Rajapaksa regarding the presidential election.
-
-President Ranil Wickremesinghe also funded the presidential election yesterday (26) as an independent candidate.
-
-However, it is noteworthy that the discussions have been held on the occasion of the presidential candidate of the Sri Lanka General Manager or to support Mr. Ranil Wickremesinghe.
-
-Basil Rajapaksa has held a discussion between the founder of the Sri Lanka General Assembly regarding the presidential candidate.
-
-The Alliance has also held discussions on the presidential candidate regarding the presidential candidate.
-
-The President and Basil Rajapaksa will be resumed between the President and Basil Rajapaksa.
-
-Meanwhile, Presidential Chief of Staff Sunala Ratnayake and Minister Susil Premajayantha met former President Mahinda Rajapaksa.
-
-...
-
-[Data](articles/dfb8addc.json)
-
-[Extended Data](ext_articles/dfb8addc.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 00:51:41**
+As of **2024-07-29 01:05:34**
 
 ## Newspaper Stats
 
@@ -26,57 +26,75 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,746 (100.0%) of 37,748 articles have been extended.
+37,748 (100.0%) of 37,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### டக்வேர்த் லூயிஸ் முறைமையில் இலங்கையை 2ஆவது போட்டியில் வென்ற இந்தியா தொடரை தனதாக்கியது
+### India won the series in the 2nd match of the Duckworth Lewis system
 
 *2024-07-29 00:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189642) · `ta`
 
-கண்டி, பல்லேகலையில் ஞாயிற்றுக்கிழமை (28) நடைபெற்ற இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான 2ஆவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் டக்வேர்த் லூயிஸ்  முறைமையின் பிராகரம் 7 விக்கெட்களால் இந்தியா வெற்றிபெற்றது.
+India clinched the International R20 T20 series against Sri Lanka with a 2-0 lead, winning the second match via the Duckworth-Lewis method. In the match, India achieved a 7-wicket victory over Sri Lanka's target of 162 runs, set after rain interruptions. Key performers included Yaswani Jayeswal with 30 runs, Suryakumar with 26 runs, and Hardik Pandya with 22 runs. Sri Lanka's top scorer was Gusal Perera with 53 runs, but India's bowling attack, led by Ravi Bishnoi and Hardik Pandya, restricted them to 161/9.
 
-இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடரை 2 - 0 என்ற ஆட்டக் கணக்கில் இப்போதைக்கு தனதாக்கிக்கொண்டது.
+🟩
 
-இன்றைய போட்டியில் இலங்கையினால் நிர்ணயிக்கப்பட்ட 162 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 3 பந்துகளில் 6 ஓட்டங்களைப் பெற்றிருந்தபோது மழை குறுக்கிட்டதால் ஆட்டம் தடைப்பட்டது.
+India won by 7 wickets in the Duckworth Lewis system in the 2nd International R20 cricket match between Sri Lanka and India held on Sunday (28) in Pallekele in Kandy.
 
-70 நிமிட தடைக்குப் பின்னர் ஆட்டம் தொடர்ந்தபோது இந்தியாவுக்கு டக்வேர்த் லூயிஸ் முறைமையின் பிரகாரம் 8 ஓவர்களில் வெற்றி இலக்கு 78 ஓட்டங்கள் என நிர்ணயிக்கப்பட்டது.
+With this victory, the three -match International T20 cricket series was 2 - 0.
 
-இதற்கு அமைய தொடர்ந்து துடுப்பெடுத்தாடிய இந்தியா 6.3 ஓவர்களில் 3 விக்கெட்களை இழந்து 81 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+In today's match, India won the target of 162 runs by Sri Lanka, with 6 runs in 3 balls.
 
-யஷஸ்வி ஜய்ஸ்வால் 15 பந்துகளில் 30 ஓட்டங்களையும் சூரியகுமார் 12 பந்துகளில் 26 ஓட்டங்களையும் ஹார்திக் பாண்டியா 9 பந்துகளில் ஆட்டம் இழக்காமல் 22 ஓட்டங்களையும் பெற்றனர்.
+As the match continued after the 70 -minute ban, India set a target of 78 runs in 8 overs, according to the Duckworth Lewis system.
+
+In the meantime, India lost 3 wickets in 6.3 overs and scored 81 runs.
+
+Yaswvi Jayeswal scored 30 runs off 15 balls, Suriyakumar scored 26 runs off 12 balls while Hardik Pandya scored 22 runs without losing 9 balls.
+
+Mahash Thekshana, Wanindu Hasaranga and Madhisha Pathirana took one wicket each.
+
+Earlier, Sri Lanka, who was first invited to bat, scored 161 runs for the loss of 9 wickets in 20 overs.
+
+Sri Lanka, which was in the best position in the match, fell in the same way as the first match.
 
 ...
 
 [Data](articles/57bcdbe0.json)
 
+[Extended Data](ext_articles/57bcdbe0.ext.json)
+
 ---
 
 ### 2024-07-28 (Sunday)
 
-### තරගාවලියේ ජය ඉන්දියාවට
+### India wins the tournament
 
 *2024-07-28 23:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199313) · `si`
 
-සංචාරක ඉන්දීය කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වුණු දෙවැනි 20යි විස්ස ජාත්‍යන්තර තරගය ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත් විය.
+India clinched the three-match T20 series against Sri Lanka, winning the final game convincingly. Batting first, Sri Lanka made 161/9 in 20 overs. In reply, India achieved the target of 78 in just 8 overs, losing 3 wickets, thus securing the series victory.
 
-වර්ෂාව හේතුවෙන් පළමු ඉනිමෙන් අනතුරුව තරගය ඩක්වත් ලුවිස් න්‍යායට අනුව ක්‍රීඩා කළේය.
+🟩
 
-ඒ අනුව තරගය ජය ගැනීමට ඉන්දියාවට පන්දුවාර 08ක දී ලකුණු 78ක ඉලක්කයක් හිමි විය.
+India won the second 20 and T20 International match between the Sri Lankan team and the Sri Lankan team.
 
-එහිදී පන්දුවාර 06යි පන්දු 03කදී කඩුළු 03ක් දැවී ලකුණු 81ක් ලබා ගනිමින් තරගය ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත්විය.
+After the first innings, the match was played in the theory of Dekel Lewis theory.
 
-ඒ අනුව තරග තුනකින් සමන්විත තරගාවලියේ ජය ඉන්දීය කණ්ඩායමට හිමි විය.
+Accordingly, India won a target of 78 in eight overs to win the match.
 
-තරගයේ කාසියේ වාසිය දිනු ඉන්දීය කණ්ඩායම තීරණය කළේ පළමුව පන්දු රැකීමට ය.
+India wins 81 runs for the loss of 81 runs for the loss of 3 overs.
 
-ඒ අනුව පළමු‍වෙන් පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුළු 09ක් දැවී ලකුණු 161ක් රැස් කළේය.
+Accordingly, the Indian team won the three match tournament.
+
+The Indian team decided to benefit first balls to the benefit of the match.
+
+Batting first Sri Lanka scored 161 runs for the loss of 9 wickets in their allotted 20 overs.
 
 ◼️
 
 [Data](articles/d99d9a79.json)
+
+[Extended Data](ext_articles/d99d9a79.ext.json)
 
 ---
 

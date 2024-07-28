@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 14:20:35**
+As of **2024-07-28 14:36:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,671 (100.0%) of 37,675 articles have been extended.
+37,675 (100.0%) of 37,675 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,31 +50,43 @@ Thus, the NDCU urges the public to take preventive measures to curb the spread o
 
 [Data](articles/523a99ce.json)
 
+[Extended Data](ext_articles/523a99ce.ext.json)
+
 ---
 
-### ඔලිම්පික් සමාරම්භයට විවේචන
+### Criticism to the inauguration of the Olympic
 
 *2024-07-28 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199299) · `si`
 
-මෙවර ඔලිම්පික් ක්‍රීඩා උලෙළේ සමාරම්භක උත්සවයේ ඇතැම් අංග මේ වනවිට පාර්ශ්ව රැසක දැඩි විවේචනයට ලක්ව තිබේ.
+The Paris Olympics faced criticism for its opening ceremony, accused of insulting Christianity through the portrayal of Leonardo da Vinci's "Last Supper" and the crucifixion scene. The event, featuring a diverse cast including a woman replacing Leonardo da Vinci and representations of the Samaritan community, sparked controversy. Additionally, the fashion show and the depiction of the guillotine during the French Revolution were points of contention. The Paris Olympic Committee later issued an apology regarding the South Korean Olympic team's participation in the ceremony.
 
-ඒ එය ක්‍රිස්තියානි ආගමට අපහාස කරන ජුගුප්සාජනක සැමරුමක් බවට චෝදනා කරමිනි.
+🟩
 
-ක්‍රීඩා ලොව මෞලි මංගල්‍යය ලෙසින් සැලකෙන ඔලිම්පික් ක්‍රීඩා උලෙළ පසුගිය 26 වනදා ප්‍රංශයේ පැරිස් නුවරදී ආරම්භ වුණි.
+Some of the elements of the Olympic Games have been severely criticized in many parties.
 
-33 වැනි වරට පැවැත්වෙන මෙවර උලෙළ සඳහා රටවල් සහ කලාප 206ක් නියෝජනය කරමින් ක්‍රීඩක ක්‍රීඩිකාවන් 10,500 ඉක්මවූ පිරිසක් සහභාගි වී සිටී.
+It accuses the jogggard celebration that insults Christianity.
 
-2024 පැරිස් ඔලිම්පික් උලෙළේ සමාරම්භක උත්සවය පැවැත්වුණේ පැරිස් අගනුවර ඔස්සේ ගලා බසින සේන් නදිය කේන්ද්‍ර කර ගනිමින්ය.
+The Olympic Games, the world's Mauli Festival, began at Paris in Paris on the 26th.
 
-සුපුරුදු පරිදිම දැවැන්ත මුදලක් වැයකර පැවැත්වූ මෙවර සමාරම්භක උත්සවය ඉතිහාසයට එක්වන්නේ එළිමහනේ පැවැත්වුණු පළමු ඔලිම්පික් සමාරම්භක උත්සවය ලෙසිනි.
+A number of athletes from 10,500 athletes representing 206 countries and zones have participated in this year.
 
-කෙසේ නමුත් මෙම විචිත්‍ර උත්සවය සම්බන්ධයෙන් ලොව නන් දෙසින් චෝදනා එල්ල වෙමින් පවතී.
+The inauguration of the Paris Olympic Festival was centered on Paris Caps.
 
-විදෙස් මාධ්‍ය වාර්තා කර තිබුණේ  ලියනාඩෝ ඩාවින්චිගේ අවසන් භෝජන සංග්‍රහය නම් කලා කෘතිය ප්‍රතිනිර්මාණය කරමින් ඉදිරිපත් කළ අංගය මෙහිදී බොහෝ දෙනාගේ වැඩි අවධානයට ලක්වූ බවය.
+The inauguration of this year, expenditure of the money as usual, joins history as the first Olympic Opening Ceremony in the open home.
+
+However, there are accused of this vivid event.
+
+The foreign media reported that Lyonardo Davinchi's final banquet was the most significant aspect of the artwork.
+
+Foreign media has pointed out that in this feature has been replaced by a woman and the other people including the child and others representing the Samariya community.
+
+Many have been thinking that it has been deliberately insulting to Christianity.
 
 ...
 
 [Data](articles/ae26d40d.json)
+
+[Extended Data](ext_articles/ae26d40d.ext.json)
 
 ---
 
@@ -93,6 +105,8 @@ On February 02, the CAA issued a gazette notification mandating that the minimum
 ...
 
 [Data](articles/f752dd57.json)
+
+[Extended Data](ext_articles/f752dd57.ext.json)
 
 ---
 
@@ -308,19 +322,25 @@ In addition, a woman working at a club in Colombo has been arrested by customs o
 
 ---
 
-### ජාතික කොංග්‍රසයේ සහාය ජනපති රනිල්ට
+### President to support National Congress
 
 *2024-07-28 12:24:08* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-කොංග්‍රසයේ-සහාය-ජනපති-රනිල්ට/11-411040) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ඒ.එල්.එම්. අතාවුල්ලා මහතාගේ නායකත්වයෙන් යුත් ජාතික කොංග්‍රසය මෙවර ජනාධිපතිවරණයේදී වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමට තීරණය කළ බව එම කොංග්‍රසයේ ජාතික සංවිධායක වෛද්‍ය වයි.එස්.මොහොමඩ් ෂියා මහතා පැවසීය.
+The National Organizer of the Congress has announced support for President Ranil Wickremesinghe in this year's presidential election, marking a shift from assisting the Sri Lanka General Front in past elections. This move was reportedly made to align with the President's stance.
 
-පසුගිය මැතිවරණ කිහිපයකදීම තම පක්ෂය ශ්‍රී ලංකා පොදු ජන පෙරමුණට සහාය පළ කර තිබූ අතර අරගලයෙන් පසුව රට භාර ගැනීමට ඉදිරිපත් වූ එකම නායකයා වන්නේ රනිල් වික්‍රමසිංහ  මහතා බැවින් තම පක්ෂය රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කළ බව ජාතික සංවිධායකවරයා කීහ .
+🟩
 
-තම පක්ෂය ගත් මෙම තීරණය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත දැනුම්දීමට මේ වන විටත් කටයුතු කර ඇති බව ජාතික සංවිධායකවරයා තවදුරටත් පැවසීය .
+Member of Parliament (MP) ALM. The National Organizer of the Congress has decided to support the present President Ranil Wickremesinghe this year's presidential election this time.
+
+The party had assisted the Sri Lanka General Front in several previous election and Ranil Wickremesinghe has decided to support Ranil Wickremesinghe as his party has decided to support Ranil Wickremesinghe.
+
+The National Organizer added that this decision was taken to inform the President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/d87fc0d4.json)
+
+[Extended Data](ext_articles/d87fc0d4.ext.json)
 
 ---
 

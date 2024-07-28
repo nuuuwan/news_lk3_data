@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 23:36:00**
+As of **2024-07-28 23:55:36**
 
 ## Newspaper Stats
 
-*Scraped **37,743** Articles*
+*Scraped **37,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ colombotelegraphcom | 357
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
-economynextcom | 2,260
+economynextcom | 2,262
 dailyftlk | 2,405
 adalk | 3,441
 adaderanalk | 4,373
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,739 (100.0%) of 37,743 articles have been extended.
+37,743 (100.0%) of 37,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### ரணில் விக்ரமசிங்கவின் வெற்றி உறுதி என்தாலே அவர் போட்டியிட முன்வந்துள்ளார் - அகிலவிராஜ் காரியவசம்
+### Ranil Wickremesinghe's success is confirmed - Akhilaviraj Kariyawasam
 
 *2024-07-28 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189640) · `ta`
 
-தேர்தலில் ரணில் விக்ரமசிங்க வெற்றிபெறுவது உறுதியாகும். அதனாலே தேர்தலில் போட்டியிட முன்வந்திருக்கிறார்.  கருத்துக்கணிப்புகளில் ரணில் விக்ரமசிங்க முன்னணியில் இருக்கிறார். படிப்படியாக முன்னேறிவரும் நாடு மீண்டும் வீழ்ச்சியடைந்தால் கட்டியெழுப்ப முடியாமல் போகும். அதனால் மக்கள் கடந்த காலத்தில் ஏமாந்தது போன்று இந்த முறை ஏமாந்துவிடக்கூடாது என ஐக்கிய தேசிய கட்சியின் உப தலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+Akhilaviraj Kariyawasam, UNP Vice President, supports Ranil Wickremesinghe's candidacy, highlighting his leadership during critical times and his commitment to national development. Wickremesinghe's potential victory is seen as crucial for the country's progress, with endorsements from various parties including the PA, Tamil, and Muslim parties. Kariyawasam urges voters to support Wickremesinghe, emphasizing the importance of learning from past mistakes and ensuring the country's stability and growth.
 
-குளியாபிடிய பிரதேசத்தில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-வீழ்ச்சியடைந்திருந்த இந்த நாட்டை தொங்கு பாலத்தில் சென்றுதான் முன்னேற்ற வேண்டிய நிலை இருந்த போது, நாட்டை பொறுப்பேற்க யாரும் முன்வரவில்லை. ஆனால் ரணில் விக்ரமசிங்க தனி மனிதனாக இருந்துகொண்டு  நாட்டின் பொறுப்பை ஏற்றுக்கொண்டு தொங்குபாலத்தை தற்போது கடந்துள்ளார். தொங்குபாலத்தை கடந்த பின்னர் தற்போது பலரும் ஆட்சி அதிகாரத்தை தங்களுக்கு வழங்குமாறு தெரிவித்து வருகின்றனர்.
+Ranil Wickremesinghe is sure to win the election. That is why he has come forward to contest the election.Ranil Wickremesinghe is at the forefront of polls. Gradually the progressing country will not be able to build if it falls back. UNP Vice President Akhilaviraj Kariyawasam said that the people should not be disappointed as the people in the past.
+
+He was speaking at a public meeting held on Sunday (28) in Kuliyapitiya.
+
+When the country had to go to the hanging bridge, no one came forward to take charge of the country. But Ranil Wickremesinghe has been a separate man and is now in charge of the country.. After passing the hanging bridge, many people are now demanding the power of power.
+
+However. Ranil Wickremesinghe was an individual and resolved the hardships faced by the people that day. We are now going to develop the country and develop our villages. Ranil Wickremesinghe can only continue to carry out these programs if he is the President again.
 
 ...
 
 [Data](articles/6a39f8d4.json)
+
+[Extended Data](ext_articles/6a39f8d4.ext.json)
 
 ---
 
@@ -66,19 +74,25 @@ Sri Lanka women won their first-ever Women’s Asia Cup title as they beat seven
 
 ---
 
-### 2ஆவது ரி20: இலங்கை 161 - 9 விக்.
+### 2nd T20: Sri Lanka 161 - 9 wig.
 
 *2024-07-28 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189639) · `ta`
 
-கண்டி, பல்லேகலையில் தற்போது நடைபெற்றுவரும் இலங்கை - இந்திய அணிகளுக்கு இடையிலான இரண்டாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 161 ஓட்டங்களைப் பெற்றது.
+In the second T20 match between Sri Lanka and India in Pallekele, Sri Lanka made 161/9 in 20 overs. Gunasena Perera led with 54 runs, followed by Bhanuka Rajapaksa with 32, Kamil Mishara with 26, captain Dasun Shanaka with 14, Ramesh Mendis with 12, and Gihan Mendis with 10. Indian bowlers Ravindra Jadeja (3/26), Axar Patel and Arshdeep Singh (2/24 each) were the standout performers.
 
-குசல் பெரேரா 54 ஓட்டங்களையும் பெத்தும் நிஸ்ஸன்க 32 ஓட்டங்களையும் கமிந்து மெண்டிஸ் 26 ஓட்டங்களையும் அணித் தலைவர் சரித் அசலன்க 14 ஓட்டங்களையும் ரமேஷ் மெண்டிஸ்  12 ஓட்டங்களையும்   குசல் மெண்டிஸ் 10 ஓட்டங்களையும் பெற்றனர்.
+🟩
 
-பந்துவீச்சில் ரவி பிஞ்னோய் 26 ஓட்டங்களுக்கு 3 விக்கெட்களையும் அக்சார் பட்டேல் அர்ஷ்தீப் சிங் 24 ஓட்டங்களுக்கு 2 விக்கெட்களையும் ஹார்திக் பாண்டியா 24 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
+Sri Lanka scored 161 runs for the loss of 9 wickets in their 20 overs, scoring the first international T20 cricket match between Sri Lanka and India in Pallekel.
+
+Gusal Perera scored 54 runs, Betham Nissank 32, Kamundu Mendis 26 runs, team captain Sarid Asalanka 14, Ramesh Mendis 12 and Gusal Mendis 10.
+
+Ravi Finnoi took 3 wickets for 26 runs, Akshar Patel Arshdeep Singh took 2 wickets for 24 runs while Hardik Pandya took 2 wickets for 24 runs.
 
 ◼️
 
 [Data](articles/839c9cd2.json)
+
+[Extended Data](ext_articles/839c9cd2.ext.json)
 
 ---
 
@@ -102,23 +116,31 @@ The Indian team won the toss and decided to win the tournament.
 
 ---
 
-### ஒலிம்பிக் பட்மின்டன்: மலேசிய வீரருடன் போராடி தோல்வி அடைந்தார் இலங்கையின் விரேன் நெத்தசிங்க
+### Sri Lanka
 
 *2024-07-28 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189638) · `ta`
 
-பிரான்ஸில் நடைபெற்றுவரும் பாரிஸ் 2024 ஒலிம்பிக் விளையாட்டு விழாவில் ஒரு விளையாட்டு அம்சமான பட்மின்டன் போட்டியில் முதல் சுற்றில் மலேசிய வீரர் ஸீ ஜியா லீயுடன் கடுமையாக போராடிய இலங்கை வீரர் விரேன் நெத்தசிங்க 2 நேர் செட்களில் தோல்வி அடைந்தார்.
+At the Paris 2024 Olympics, Sri Lankan player Viran Netasinghe lost in the first round of the Patminton Tournament against Malaysia's Xi Jia Lee, despite playing well in the first set. Ranked 70th globally, this marked his debut at the Olympics. He faces Spain's Pablo Afian next.
 
-ஜீ குழுவுக்கான இந்த ஆடவர் ஒற்றையர் போட்டி பாரிஸ் லா செப்பல் எரினா 3ஆம் இலக்க அரங்கில் இன்று ஞாயிற்றுக்கிழமை (28) நடைபெற்றது.
+🟩
 
-ஒலிம்பிக் விளையாட்டு விழாவில் முதல் தடவையாக பங்குபற்றுவரும் ஆடவர் ஒற்றையருக்கான  உலக தரவரிசையில்ஃ 70ஆம் இடத்தில் இருப்பவருமான விரேன் நெத்தசிங்க, உலக தரவரிசையில் 7ஆம் நிலையில் இருக்கும் மலேசியாவின் ஸி ஜியா லீயை எதிர்த்தாடினார்.
+Sri Lankan player Viran Netasinghe lost two straight sets in the first round of the Patminton Tournament at the Paris 2024 Olympic Games in France.
 
-முதல் செட்டில்  திறமையாக விளையாடிய விரேன் நெத்தசிங்க கடுமையாக போராடி14 - 21 என தோல்வி அடைந்தார். தொடர்ந்து நடைபெற்ற 2ஆவது செட்டில் சற்று தடுமாற்றம் அடைந்த விரேன் 12 - 21 என தோல்வி அடைந்தார்.
+The men's singles tournament for the Zee Group was held on Sunday (28) at the Paris La Zeppe Erina Hall No. 3.
 
-இக் குழுவுக்கான தனது 2ஆவது போட்டியில் ஸ்பெய்ன் வீரர் பப்லோ ஆபியனை எதிர்வரும் 30ஆம் திகதி செவ்வாய்க்கிழமை விரேன் நெத்தசிங்க எதிர்த்தாடவுள்ளார்.
+For the first time at the Olympic Games, Viran Neetasinghe, who is ranked 70th in the world rankings for the single -ranked world rankings, opposed Malaysia's Xi Jia Lee, who is in the world rankings.
 
-...
+Viran Netasinghe, who played effectively in the first set, lost 14 - 21. Viran lost 12 - 21 in the second set.
+
+In his 2nd match for the group, Viran Netasinghe will oppose Spain player Pablo Afian on Tuesday 30th.
+
+For the first time at the Olympic Games, Viran said that he was satisfied with his efficient play in this competition.
+
+◼️
 
 [Data](articles/d3be53a0.json)
+
+[Extended Data](ext_articles/d3be53a0.ext.json)
 
 ---
 
@@ -328,19 +350,27 @@ Your skill, dedicated and joint operation for your failure. The President has st
 
 ---
 
-### தேர்தலைக் காலம் தாழ்த்த ஜனாதிபதி ரணிலின் தந்திர மூளை எந்த தீர்மானத்தையும் எடுக்கும் - முஜிபுர்
+### President Ranil's Tantra brain will make any decision - Mujibur
 
 *2024-07-28 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189616) · `ta`
 
-உள்ளுராட்சிமன்றத் தேர்தல் எவ்வாறு இறுதி கட்டம் வரை சென்று நடத்தப்படாமல் கைவிடப்பட்டதோடு, அதே போன்று நிலைமை ஜனாதிபதித் தேர்தலுக்கும் ஏற்படும் என்று சந்தேகிக்கின்றோம். காரணம் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தந்திர மூளை தேர்தலை காலம் தாழ்த்துவதற்கு எந்தவொரு தீர்மானத்தையும் எடுக்க தயங்காது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+MP Mujibur Rahman criticizes President Ranil Wickremesinghe for delaying decisions on local and presidential elections, accusing him of creating confusion among his party members. Despite legal challenges, Wickremesinghe faces criticism for not being prepared for elections and for attempting to influence appointments like the Inspector General of Police, despite previous appointments under his tenure.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-உள்ளுராட்சிமன்றத் தேர்தலுக்கான வேட்புமனு தாக்கல் செய்யப்பட்டு சகல நடவடிக்கைகளும் முன்னெடுக்கப்பட்ட போதிலும், தேர்தல் இடம்பெறவில்லை. அதே போன்று ஜனாதிபதித் தேர்தலிலும் இடம்பெறக் கூடும். ஜனாதிபதித் தேர்தலை காலம் தாழ்த்த முடியுமா என்று ரணில் விக்கிரமசிங்க ஆராய்ந்ததன் காரணமாகவே அவரது கட்சி சகாக்கள் பல்வேறு கருத்துக்களை வெளியிட்டு அனைவரையும் குழப்பி வந்தனர்.
+We suspect how the local government elections have been abandoned until the final stage, and the situation will occur for the presidential election.. United People's Power MP Mujibur Rahman said that President Ranil Wickremesinghe's trick brain election would not be taken to make no decision to delay the election.
+
+He further stated at a press conference held at the opposition leader's office in Colombo on Sunday (28).
+
+Despite all proceedings, the election for the local government elections has been filed and the election has not been held. The presidential election may also be held. Ranil Wickremesinghe's exploration on whether the presidential election could be delayed and his party colleagues confused everyone by expressing various views.
+
+However, the court put an end to all those efforts. Even now, Ranil Wickremesinghe is afraid of the election. He is not ready for the election. But he has no law for not holding the presidential election for any reason.
 
 ...
 
 [Data](articles/86c1c658.json)
+
+[Extended Data](ext_articles/86c1c658.ext.json)
 
 ---
 
@@ -549,6 +579,26 @@ Additionally, Sri Lanka’s Harshitha Samarawickrema was awarded Player of the F
 [Data](articles/12afdfaa.json)
 
 [Extended Data](ext_articles/12afdfaa.ext.json)
+
+---
+
+### Sri Lanka cement use picks up 8.5-pct to March, helped by currency stability: Tokyo
+
+*2024-07-28 19:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-cement-use-picks-up-8-5-pct-to-march-helped-by-currency-stability-tokyo-174113/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cement consumption was estimated to have picked up 8.5 percent in the year to March 2024, though there was a contraction in the last two calendar years, Tokyo Cement, has said.
+
+With the sector starting recover in the last three quarter of the financial year, cement consumption had started to grow, heled by a stronger rupee which brought down costs.
+
+8.5 percent, but Tokyo had growth its volumes 14 percent amid price cuts, helped by a stronger rupee,
+
+“In a backdrop where the total cement consumption grew by just 8.5 percent year-on-year, Tokyo Cement managed to achieve a growth of 14 percent, surpassing the industry growth rate,” Managing Director A Y S Gnanam told shareholders in the annual report.
+
+The cement consumption decreased from 4.54 million metric tonnes in 2022 to 3.79 million in 2023, reflecting a contraction of 16.5 percent in 2023. There was also a 36.5 percent contraction in 2022.
+
+...
+
+[Data](articles/874dd988.json)
 
 ---
 
@@ -1311,6 +1361,28 @@ In addition to guidelines for government officials, the circular will also issue
 [Data](articles/57929e62.json)
 
 [Extended Data](ext_articles/57929e62.ext.json)
+
+---
+
+### Sri Lanka private credit expands in first half, govt credit eases
+
+*2024-07-28 14:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-expands-in-first-half-govt-credit-eases-174109/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private credit has expanded 146 billion rupees in the first half of 2024, official data shows, while credit to government eased but continued to outpace private credit.
+
+Commercial Bank credit to government expanded 354 billion rupees in the six months to June 2024, compared to 1,043 billion rupees in a year earlier, which was partly drive by a 517 billion restructure of SOE debt.
+
+Government and SOE debt expanded by 293 billion rupees in the first half of 2024, compared to 405 billion rupees last year.
+
+Credit to state enterprises declined by 60 billion rupees in first six months.
+
+Private credit has expanded amid an appreciation of the rupee in 2024 and the growth has come from a real expansion of either working capital or investment credit with the central bank providing monetary stability.
+
+In the 12 months to June private credit has expanded 432 billion rupees.
+
+...
+
+[Data](articles/db4b194f.json)
 
 ---
 
@@ -2251,53 +2323,5 @@ Israeli security forces said that hezbollah in Lebanon had severely attacked.
 [Data](articles/c0036fcb.json)
 
 [Extended Data](ext_articles/c0036fcb.ext.json)
-
----
-
-### Preliminary printing completed for Presidential Poll – Govt Printer
-
-*2024-07-28 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100827/preliminary-printing-completed-for-presidential-poll-govt-printer) · `en`
-
-The Department of Government Printing says it has completed all preliminary printing activities for the upcoming Presidential Poll and already handed over the necessary documents to the Election Commission.
-
-According to the department, the printing of materials related to nominations and the deposit of bonds has been finalized.
-
-In addition, the Government Printing Department has issued a gazette notification to appoint the returning officers, designating the District Secretary of each district as the District Returning Officer.
-
-When inquired by Ada Derana, Government Printer Ganga Kalpani Liyanage confirmed that all printing activities related to the election are currently underway, ensuring that the necessary preparations are on track for the forthcoming poll.
-
-◼️
-
-[Data](articles/e7d471e5.json)
-
-[Extended Data](ext_articles/e7d471e5.ext.json)
-
----
-
-### The JVP to win the election with the Sinhalese votes. Don't want - Anuragumara
-
-*2024-07-28 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189578) · `ta`
-
-JVP leader Anura Kumaratisanayake urges unity among Muslims and Sinhalese to form a government focused on national development, not just electoral wins. He emphasizes supporting any community facing discrimination, highlighting the importance of a united government for Sri Lanka's progress.
-
-🟩
-
-JVP leader Anura Kumaratisanayake has requested that the Muslims should unite with the national people's power to establish a united government.
-
-He was speaking at the Galle rally of the Muslim Brotherhood of the National People's Power.
-
-Anura Kumaradisanayake said that the National People's Front is looking forward to forming a government with the support of all communities in Sri Lanka.
-
-Anura Kumaradisanayake, who has said that the National People's Power is expecting a government to have the support of the Sinhalese Sinhalese Sinhala people, said his party's expectation is to form a united government.
-
-He said that it was not enough for us to win the election with the votes of the Sinhalese.
-
-We want to form a government to develop this country, not only aimed at winning our movement, but our movement is based on the welfare of the truth, said the leader of the JVP, who said that our movement would support them if any community faces discrimination.
-
-...
-
-[Data](articles/d251c2e9.json)
-
-[Extended Data](ext_articles/d251c2e9.ext.json)
 
 ---

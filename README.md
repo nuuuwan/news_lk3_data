@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 09:35:51**
+As of **2024-07-28 09:54:56**
 
 ## Newspaper Stats
 
-*Scraped **37,618** Articles*
+*Scraped **37,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,357
 tamilmirrorlk | 4,641
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,324
+adaderanasinhalalk | 6,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,616 (100.0%) of 37,618 articles have been extended.
+37,618 (100.0%) of 37,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### ජනාධිපතිවරණයට ශ්‍රීලනිප මෛත්‍රී පාර්ශ්වයේ සූදානම
+
+*2024-07-28 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199287) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රීපාල පාර්ශ්වය විසින් එළැඹෙන ජනාධිපතිවරණය වෙනුවෙන් පක්ෂ සංවිධායකවරු දැනුවත් කිරීමේ වැඩසටහනක් ආරම්භ කර තිබේ.
+
+එම වැඩසටහන ඊයේ (27) ආරම්භකර කර ඇති අතර අද (28) දිනයේ නුවරඑළිය දිස්ත්‍රික්කයේ පක්ෂ සංවිධායකවරු දැනුවත් කිරීමට නියමිතය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ වනවිට අභ්‍යන්තර ගැටලු රැසක් මතුව ඇති අතර එම ගැටලු අධිකරණ ක්‍රියාමාර්ග දක්වා දුරදිග ගොස් තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකා නිදහස් පක්ෂයේ නම හෝ ලකුණින් මෙවර ජනාධිපතිවරණයට කිසිදු පාර්ශ්වයකට ඉදිරිපත්වීමේ හැකියාවක් නොමැති පසුබිමක එම අර්බුදකාරී තත්ත්වය තවදුරටත් ඉහළ ගොස් ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් මේ වනවිට අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂය නියෝජනය කරමින් එළැඹෙන ජනාධිපතිවරණයට ඉදිරිපත් වන බවට ප්‍රකාශ කර ඇති පසුබිමක ඔහුගේ මැතිවරණ මෙහෙයුම් කාර්යාලය අතුරුගිරිය ප්‍රදේශයේ ආරම්භ කර තිබේ.
+
+මේ අතර සමගි ජනබලවේගය සමග එක්වීමට කිසිදු අවස්ථාවක සාකච්ඡා කර නොමැති බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ ලේකම් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පවසයි.
+
+...
+
+[Data](articles/40bfdd7e.json)
+
+---
 
 ### Two lives lost
 
@@ -86,17 +108,23 @@ Representatives of Ada Derana, the Government Printer Ganga Liyanage said that p
 
 ---
 
-### වාහනයට ගංජා දැමූ කොස්තාපල්ගේ වැඩ තහනම්
+### Constable's work for cautious vehicle
 
 *2024-07-28 08:30:46* · [`adalk`](https://www.ada.lk/breaking_news/වාහනයට-ගංජා-දැමූ-කොස්තාපල්ගේ-වැඩ-තහනම්/11-411032) · `si`
 
-තරුණයන් පිරිසක් මෝටර් රථයකින් ගමන් කරමින් සිටියදී  කොල්ලුපිටිය  ප්‍රදේශයේදී  කොල්ලුපිටිය පොලිසියේ නිලධාරීන් පිරිසක් මෝටර් රථය නවතා පරීක්ෂා කිරීමේදී කොස්තාපල් වරයෙකු විසින් මෝටර් රථයට ගංජා දමා  තරුණයන් අත්අඩංගුවට ගැනීමට ගිය බව කියන කොල්ලුපිටිය පොලිසියට අනුයුක්ත කොස්තාපල්වරයෙකුගේ වැඩ තහනම් කර ඇත.
+A constable in Kollupitiya reported a group of youths at the police station. The constable, under orders from the Colombo South Barandiya SSP, restricted their activities. This incident quickly went viral on social media.
 
-ඒ පිළිබඳව විමර්ශන පැවැත්වීමෙන් අනතුරුව කොළඹ දකුණ බාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි රවින්ද්‍ර  අඹේපිටිය මහතාගේ නියෝග පරිදි එම කොස්තාපල්වරයාගේ වැඩ තහනමට ලක් කර ඇත. මේ පිළිබඳව වීඩියෝවක් සමාජ මාධ්‍ය තුළ වේගයෙන් සංසරණය විය.
+🟩
+
+A constable attached to the Kollupitiya Police said that a group of youths were traveling in the Kollupitiya police station in Kollupitiya.
+
+The constable has banned the work of the Colombo South Barandiya Senior Superintendent of Police. The video was rapidly circulated in social media.
 
 ◼️
 
 [Data](articles/e755b52c.json)
+
+[Extended Data](ext_articles/e755b52c.ext.json)
 
 ---
 
@@ -871,6 +899,8 @@ Gardihewa Sarath Chandralal Fonseka known generally as Sarath Fonseka has  throw
 ...
 
 [Data](articles/5774409a.json)
+
+[Extended Data](ext_articles/5774409a.ext.json)
 
 ---
 
@@ -2199,29 +2229,5 @@ Naval and fishing communities are also requested to be attentive to future forec
 [Data](articles/c84199a1.json)
 
 [Extended Data](ext_articles/c84199a1.ext.json)
-
----
-
-### Sri Lanka Telecom to get new spectrum allocation: SOERU
-
-*2024-07-27 09:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-to-get-new-spectrum-allocation-soeru-174037/) · `en`
-
-ECONOMYNEXT – Sri Lanka Telecom will get a new spectrum allocation that will ‘significantly’ increase its value, the State-Owned Enterprises Restructuring Unit said.
-
-The valuations of SLT “are still ongoing are yet to be finalized, The SOE-RU said in a statement.
-
-“The SOERU together with the Telecommunications Regulatory Commission of Sri Lanka (TRCSL) worked with all sector entities to resolve a long-standing spectrum issue that was negatively impacting the performance of SLT,” the statement said.
-
-The new spectrum allocation will in fact help increase the value of SLT significantly, the statement said without giving details.
-
-Sri Lanka still negotiating with Melwa sale price for Hilton building
-
-Jio Platforms Ltd and a unit of Reliance industries of India and Gortune International Investment Holding Ltd have expressed interest in Sri Lanka Telecom. (Colombo/July27/2024)
-
-◼️
-
-[Data](articles/7996d474.json)
-
-[Extended Data](ext_articles/7996d474.ext.json)
 
 ---

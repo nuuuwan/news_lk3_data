@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 22:20:30**
+As of **2024-07-28 22:36:23**
 
 ## Newspaper Stats
 
-*Scraped **37,737** Articles*
+*Scraped **37,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,439
+adalk | 3,440
 adaderanalk | 4,373
 tamilmirrorlk | 4,662
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,735 (100.0%) of 37,737 articles have been extended.
+37,737 (100.0%) of 37,738 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,19 +44,27 @@ President Ranil Wickremesinghe has congratulated skipper Chamari Atapattu and th
 
 [Data](articles/788f24cc.json)
 
+[Extended Data](ext_articles/788f24cc.ext.json)
+
 ---
 
-### ඉන්දියාවට ලකුණු 162 ක ඉලක්කයක්
+### India target 162 runs
 
 *2024-07-28 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199312) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන දෙවැනි 20යි විස්ස ජාත්‍යන්තර තරගයේ පළමු‍වෙන් පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඬුලු 9ක් දැවී ලකුණු 161ක් රැස් කළේය.
+In the second T20 match, Sri Lanka batted first and scored 161 runs losing 9 wickets. India, winning the toss, aimed for 162 runs but fell short, indicating a close contest despite the final outcome.
 
-එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ඉන්දීය කණ්ඩායම සමත් වු අතර ඔවුන් තීරණය කළේ පළමුව පන්දු රැකීමට ය.
+🟩
+
+Sri Lanka batting first in the second 20th and Twenty Twenty Twenty Twenty20 scored 161 runs for the loss of 9 cities.
+
+The Indian team won the toss and decided to win the tournament.
 
 ◼️
 
 [Data](articles/d03bc6d2.json)
+
+[Extended Data](ext_articles/d03bc6d2.ext.json)
 
 ---
 
@@ -263,6 +271,22 @@ Your skill, dedicated and joint operation for your failure. The President has st
 [Data](articles/043f3de2.json)
 
 [Extended Data](ext_articles/043f3de2.ext.json)
+
+---
+
+### රාජ්‍ය ආයතන 13කින් කෝටි 88ක බදු පොල්ලක්
+
+*2024-07-28 19:54:06* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආයතන-13කින්-කෝටි-88ක-බදු-පොල්ලක්/11-411053) · `si`
+
+එකතු කරන ලද අගය මත බදු (වැට්) ලෙස  රාජ්‍ය ආයතන 13කින් පසුගිය පස්වසරේදී 2019 ජනවාරි 01වන දින සිට 2023 දෙසැම්බර් 31 දක්වා කාලසීමාව තුළ දේශීය ආදායම් දෙපාර්තමේන්තුවට රුපියල් අසූඅට කෝටි තිස් ලක්ෂයකට අධික මුදලක් අදාළ සැපයුම්කරුවන් 28දෙනෙකු විසින් දේශීය ආදායම් දෙපාර්තමේන්තුවට ගෙවා නොමැති බව විගණනය මගින් අනාවරණය කොට ඇත.
+
+2023 මැයි මාසය අවසානය වන විට වැට් බදු නොගෙවීමට අදාළව දේශීය ආදායම් දෙපාර්තමේන්තුවට ලැබී තිබූ අභියාචනාවලින් නොවිසඳී පවතින සංඛ්‍යාව 6,920ක් වන අතර, මතභේදකාරී තත්ත්වයන් හේතුවෙන් විසඳීම අවසන් කර නොතිබුණු අභියාචනා සංඛ්‍යාව 4,499කි.
+
+ඒ අතර වසර 02 ඉක්ම වූ නමුත් දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයා සිය තීරණය ලබා දීමට අපොහොසත් වූ අභියාචනා සංඛ්‍යාව 2,459ක්ව පවතී. මේ බව අනාවරණය වූයේ ජාතික විගණන කාර්යාලය මගින් දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් සිදු කරන ලද විගණන පරික්ෂණයක් මගින්ය.
+
+...
+
+[Data](articles/65de065d.json)
 
 ---
 
@@ -2295,31 +2319,5 @@ At the same time, it is a happy thing that some people got Viva Karatu. But at t
 [Data](articles/15afbb9a.json)
 
 [Extended Data](ext_articles/15afbb9a.ext.json)
-
----
-
-### Divorce
-
-*2024-07-28 10:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விவாகரத்து-கிடைத்ததால்-பெண்-விருந்து/50-341138) · `ta`
-
-A U.S.-based Pakistani woman celebrated her divorce with a party, which went viral. She wore purple and sang on stage, surrounded by divorce-themed decorations. The celebration sparked mixed reactions, with some congratulating her while others expressed concern about marriage.
-
-🟩
-
-A Pakistani woman living in the United States celebrated with a feast. His celebration video has now gone viral on social networks.
-
-A woman living in the United States has recently been divorced. He then decided to celebrate that happiness. He has celebrated his divorce with his friends and companions at the hotel.
-
-He was involved in the celebration with the background board of greetings for divorce. He climbed on the stage and celebrated his song and singing songs. Purple colored dressed up with his pussy. Her celebration has gone viral on social web sites. He did not know who he was.
-
-And he did not give the reason why he was divorced. Many people who have seen his video have congratulated him.
-
-At the same time, it is a happy thing that some people got Viva Karatu. But at the same time, celebrating divorce, people are afraid of getting married.
-
-◼️
-
-[Data](articles/70db2817.json)
-
-[Extended Data](ext_articles/70db2817.ext.json)
 
 ---

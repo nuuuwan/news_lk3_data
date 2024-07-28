@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 14:05:43**
+As of **2024-07-28 14:20:35**
 
 ## Newspaper Stats
 
-*Scraped **37,671** Articles*
+*Scraped **37,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,140 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,428
-adaderanalk | 4,364
+adalk | 3,429
+adaderanalk | 4,366
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,336
+adaderanasinhalalk | 6,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,668 (100.0%) of 37,671 articles have been extended.
+37,671 (100.0%) of 37,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### පාසල් 1250ක් ජාලගත කෙරේ
+### Over 32,000 Dengue cases reported in 2024
+
+*2024-07-28 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100835/-over-32000-dengue-cases-reported-in-2024) · `en`
+
+The National Dengue Control Unit (NDCU) has reported 13 dengue-related deaths and 32,183 dengue cases in the period elapsed in 2024.
+
+The Western Province has been the hardest hit, with 12,786 cases reported, while the Colombo District leads with 7,582 cases, followed by the Gampaha District with 3,452 cases.
+
+In the Northern Province, a total of 4,589 dengue cases have been reported, with the majority (4,020 cases) coming from the Jaffna District.
+
+Sabaragamuwa Province has also seen a significant number of dengue cases, totaling 3,329 this year, according to the NDCU
+
+Thus, the NDCU urges the public to take preventive measures to curb the spread of dengue.
+
+◼️
+
+[Data](articles/523a99ce.json)
+
+---
+
+### ඔලිම්පික් සමාරම්භයට විවේචන
+
+*2024-07-28 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199299) · `si`
+
+මෙවර ඔලිම්පික් ක්‍රීඩා උලෙළේ සමාරම්භක උත්සවයේ ඇතැම් අංග මේ වනවිට පාර්ශ්ව රැසක දැඩි විවේචනයට ලක්ව තිබේ.
+
+ඒ එය ක්‍රිස්තියානි ආගමට අපහාස කරන ජුගුප්සාජනක සැමරුමක් බවට චෝදනා කරමිනි.
+
+ක්‍රීඩා ලොව මෞලි මංගල්‍යය ලෙසින් සැලකෙන ඔලිම්පික් ක්‍රීඩා උලෙළ පසුගිය 26 වනදා ප්‍රංශයේ පැරිස් නුවරදී ආරම්භ වුණි.
+
+33 වැනි වරට පැවැත්වෙන මෙවර උලෙළ සඳහා රටවල් සහ කලාප 206ක් නියෝජනය කරමින් ක්‍රීඩක ක්‍රීඩිකාවන් 10,500 ඉක්මවූ පිරිසක් සහභාගි වී සිටී.
+
+2024 පැරිස් ඔලිම්පික් උලෙළේ සමාරම්භක උත්සවය පැවැත්වුණේ පැරිස් අගනුවර ඔස්සේ ගලා බසින සේන් නදිය කේන්ද්‍ර කර ගනිමින්ය.
+
+සුපුරුදු පරිදිම දැවැන්ත මුදලක් වැයකර පැවැත්වූ මෙවර සමාරම්භක උත්සවය ඉතිහාසයට එක්වන්නේ එළිමහනේ පැවැත්වුණු පළමු ඔලිම්පික් සමාරම්භක උත්සවය ලෙසිනි.
+
+කෙසේ නමුත් මෙම විචිත්‍ර උත්සවය සම්බන්ධයෙන් ලොව නන් දෙසින් චෝදනා එල්ල වෙමින් පවතී.
+
+විදෙස් මාධ්‍ය වාර්තා කර තිබුණේ  ලියනාඩෝ ඩාවින්චිගේ අවසන් භෝජන සංග්‍රහය නම් කලා කෘතිය ප්‍රතිනිර්මාණය කරමින් ඉදිරිපත් කළ අංගය මෙහිදී බොහෝ දෙනාගේ වැඩි අවධානයට ලක්වූ බවය.
+
+...
+
+[Data](articles/ae26d40d.json)
+
+---
+
+### CAA to enforce controlled bread price from next week
+
+*2024-07-28 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100834/caa-to-enforce-controlled-bread-price-from-next-week) · `en`
+
+The Consumer Affairs Authority (CAA) has announced that a controlled price will be imposed for bread starting next week, if the vendors fail to sell a 450-gram loaf of bread at a fixed price of Rs 130.
+
+Director of the Raids and Special Investigation Department of the CAA Sanjay Irasinghe stated that non-compliance with the fixed price for bread could result in fines ranging from Rs. 100,000 for small shops and Rs. 500,000 to Rs. 5 million for larger companies or bakeries.
+
+The consumers frequently complain about the lack of fixed prices and inconsistent weights of bread. In response, the Consumer Affairs Authority has been conducting raids time to time in order to address these issues.
+
+On February 02, the CAA issued a gazette notification mandating that the minimum weight of a loaf of bread should be 450 grams, and a half loaf should weigh at least 225 grams.
+
+...
+
+[Data](articles/f752dd57.json)
+
+---
+
+### There are 1250 schools
 
 *2024-07-28 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199298) · `si`
 
-ඉදිරි මාස කීහිපයේදී දිවයිනේ ප්‍රමුඛ පාසල් 1,250ක් සුහුරු පාසල් ලෙස සංවර්ධනය කර අධ්‍යාපන අමාත්‍යාංශයේ සිට මෙහෙයවිය හැකිවන සේ එකම ජාලයකට ගන්නා බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත් මහතා පැවසී ය.
+Dr. Susil Premaja announced plans to develop 1,250 schools on the island, funded by a $20 million grant from China. The initiative includes a new educational procedure for grades 1-6-10, set to launch next year. He emphasized the importance of continuous learning due to rapid changes in knowledge, hinting that diploma holders may face challenges post-2028.
 
-ඒ සඳහා චීන රජයෙන් ඩොලර් මිලියන 20ක ප්‍රදානයක් ලැබෙන බවත් අමාත්‍යවරයා මෙහි දී සඳහන් කළේ ය.
+🟩
 
-ඒ මහතා මේ බව පැවසුවේ කොළඹ සිරිමාවෝ බණ්ඩාරනායක බාලිකා විදුහලේ 1ශ්‍රේණියේ සිට 5ශ්‍රේණිය දක්වා සියලුම පන්ති කාමර සුහුරු පන්ති කාමර බවට පත් කර ඒවා සිසු අයිතියට පත් කිරීමේ උත්සවයට සහභාගී වෙමිනි.
+Minister of Education Dr. Susil Premaja also said that 1,250 of the island schools will be developed to be developed from the Ministry of Education and to be developed from the Ministry of Education.
 
-මෙහි දී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා ප්‍රකාශ කළේ, 1-6-10 ශ්‍රේණි සඳහා ලබන වසරේ සිට ක්‍රියාත්මක කිරීමට අපේක්ෂිත නව අධ්‍යාපන ක්‍රමවේදයට අදාළ නියමු ව්‍යාපෘතියේ කටයුතු දැන් අවසන් අදියරට ළඟා වී ඇති බවත් ඊට අවශ්‍ය ඉගෙනුම් මොඩ්‍යුලර් හදා අවසන් කර ඇති අතර එම මොඩ්‍යුලර් පොත් ඉදිරි සති දෙක තුළ මුද්‍රණයට බාර දීමට නියමිත බවත් ය.
+The Minister said that the Chinese government receives $ 20 million a grant from the government.
+
+He was speaking to all classroom souil classrooms from grade 1 from Sirimavo Bandaranaike Girls' College, Colombo.
+
+The Minister further stated that the pilot project has now reached the final stage of the new educational procedure to be implemented from next year to Grades 1-6-10.It is to be handed over to print within two.
+
+If the decision to train the trainers, as well as teachers, the children who are not going to be challenged in ten years.
+
+Mr. Susil Premajayath said that all science was added to each university.
+
+According to the Minister said that after the year 2028, the Diploma holders will not be recruited in the future in the future.
 
 ...
 
 [Data](articles/3835dcc0.json)
 
+[Extended Data](ext_articles/3835dcc0.ext.json)
+
 ---
 
-### த.மு. கூ போராட்டத்தால் முடங்கியது ஹட்டன்
+### T.M.. Hatton was paralyzed by the struggle
 
 *2024-07-28 13:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/த-மு-கூ-போராட்டத்தால்-முடங்கியது-ஹட்டன்/76-341153) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கு நாட் சம்பளமாக 1700 ரூபா உடன் வழங்குமாறு பெருந்தோட்ட கம்பனிகளுக்கும், அரசாங்கத்திற்கும் அழுத்தம் கொடுத்து தமிழ் முற்போக்குக் கூட்டணியினர் ஹட்டனில் ஞாயிற்றுக்கிழமை (28) ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+The Tamil Progressive Alliance led a protest in Hatton, demanding plantation workers be paid Rs 1700, emphasizing land, salary, and housing rights. Participants, including former provincial members and activists, wore black in solidarity. The event saw a strong police presence, highlighting the significant unrest in the area.
 
-தமிழ் முற்போக்கு கூட்டணியின் ஏற்பாட்டில் இடம்பெற்ற இந்த போராட்டத்தில் பிரதித் தலைவர்களான பழனி திகாம்பரம், இராதாகிருஷ்ணன், எம்.உதயகுமார், எம்.வேலுகுமார், முன்னாள் மாகாண உறுப்பினர்கள், உள்ளுராட்சி மன்ற உறுப்பினர்கள், கட்சி அமைப்பாளர்கள், செயற்பாட்டாளர்கள், தொழிலாளர்கள், பொது மக்கள் ஆகியோர் கலந்துக் கொண்டனர்.
+🟩
 
-மலையக பெருந்தோட்ட மக்களுக்கான காணி உரிமை, சம்பள உரிமை, வீட்டு உரிமை என்பன இதன்போது வலியுறுத்தப்பட்டதுடன், தோட்ட தொழிலாளர்கள் சம்பளம் தொடர்பில் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தல் மீள பெறப்பட்டமை தொடர்பிலும் கடும் எதிர்ப்பினை வெளியிட்டனர்.
+The Tamil Progressive Alliance staged a protest in Hatton on Sunday (28) to pressurize the plantation companies and the government to pay Rs 1700 to plantation workers.
 
-இப்போராட்டத்தில் கலந்து கொண்டவர்கள் கறுப்பு நிற ஆடைகளை அணிந்திருந்ததுடன், ஹட்டனில் உள்ள சில கடைகளிலும், முச்சக்கரவண்டிகளிலும் கறுப்புக் கொடி ஏற்றி ஆர்ப்பாட்டத்திற்கு ஆதரவு தெரிவித்தனர்.
+The protest was organized by the Tamil Progressive Alliance, Palani Digambaram, Radhakrishnan, M. Udayakumar, M. Velukumar, former provincial members, local government members, party organizers, activists, workers and the general public.
+
+Land rights, salary rights and housing rights for the people of the hill plantation were emphasized and the plantation workers have expressed fierce opposition to the return of the gazette notification issued regarding the salary of the plantation workers.
+
+Participants in the fight wore black clothes and supported the demonstration in some shops and three wheelers in Hatton.
+
+The rally reached the bell tower through the Hatton main city, launching a protest from the Hatton city of Budsiti.
 
 ...
 
 [Data](articles/e121929a.json)
+
+[Extended Data](ext_articles/e121929a.ext.json)
 
 ---
 
@@ -221,6 +305,22 @@ In addition, a woman working at a club in Colombo has been arrested by customs o
 [Data](articles/a8f42e49.json)
 
 [Extended Data](ext_articles/a8f42e49.ext.json)
+
+---
+
+### ජාතික කොංග්‍රසයේ සහාය ජනපති රනිල්ට
+
+*2024-07-28 12:24:08* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-කොංග්‍රසයේ-සහාය-ජනපති-රනිල්ට/11-411040) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ඒ.එල්.එම්. අතාවුල්ලා මහතාගේ නායකත්වයෙන් යුත් ජාතික කොංග්‍රසය මෙවර ජනාධිපතිවරණයේදී වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමට තීරණය කළ බව එම කොංග්‍රසයේ ජාතික සංවිධායක වෛද්‍ය වයි.එස්.මොහොමඩ් ෂියා මහතා පැවසීය.
+
+පසුගිය මැතිවරණ කිහිපයකදීම තම පක්ෂය ශ්‍රී ලංකා පොදු ජන පෙරමුණට සහාය පළ කර තිබූ අතර අරගලයෙන් පසුව රට භාර ගැනීමට ඉදිරිපත් වූ එකම නායකයා වන්නේ රනිල් වික්‍රමසිංහ  මහතා බැවින් තම පක්ෂය රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට තීරණය කළ බව ජාතික සංවිධායකවරයා කීහ .
+
+තම පක්ෂය ගත් මෙම තීරණය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත දැනුම්දීමට මේ වන විටත් කටයුතු කර ඇති බව ජාතික සංවිධායකවරයා තවදුරටත් පැවසීය .
+
+◼️
+
+[Data](articles/d87fc0d4.json)
 
 ---
 
@@ -570,21 +670,27 @@ In any case, Mr.. The President's latest actions on the recent interim order iss
 
 ---
 
-### யாருக்கு ஆதரவு: அறிவித்தார் மஹிந்த
+### To whom support: Mahinda
 
 *2024-07-28 11:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/யாருக்கு-ஆதரவு-அறிவித்தார்-மஹிந்த/150-341144) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுன ஆதரிக்கும் வேட்பாளர் யார் என்பது தொடர்பில் திங்கட்கிழமை (29) அறிவிக்கப்படும் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+Mahinda Rajapakse plans to announce support for the Sri Lankan PA's presidential candidate on Monday. He assures full backing for any chosen candidate, including Ranil Wickremesinghe, and acknowledges individual MP decisions based on personal opinions won't hinder party unity.
 
-ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க கட்சி தீர்மானித்தால், அதியுச்ச ஆதரவு அளிக்கும் என்றும் அவர் குறிப்பிடுகிறார்.
+🟩
 
-வேறு வேட்பாளரை நியமிக்க கட்சி முடிவு செய்தால், அதற்கும் ஆதரவு அளிக்கும் என்றார்.
+Former President Mahinda Rajapakse has said that he will be announced on Monday (29) on who will support the Sri Lankan PA in the upcoming presidential election.
 
-கட்சியின் சில எம்.பி.க்கள் தங்களது தனிப்பட்ட கருத்தின் அடிப்படையில் வேட்பாளர்களுக்கு ஆதரவளிக்க முடிவு செய்துள்ளதாகவும்,   அவர்கள் விரும்பியதைச் செய்வதற்கான சுதந்திரம் வழங்கப்பட்ட பின்னர் அது ஒரு பிரச்சினையாக இருக்காது என்றும் அவர் மேலும் கூறினார்.
+He also notes that if the party decides to support Ranil Wickremesinghe, it will be very supportive.
+
+He said that if the party decides to appoint a different candidate, it will support it.
+
+He added that some MPs of the party have decided to support the candidates on the basis of their personal opinion and that it will not be an issue after it was given the freedom to do what they wanted.
 
 ◼️
 
 [Data](articles/0b432c45.json)
+
+[Extended Data](ext_articles/0b432c45.ext.json)
 
 ---
 
@@ -2193,113 +2299,5 @@ President Ranil Wickremesinghe said that he was deposited on the date yesterday.
 [Data](articles/4d9c36a4.json)
 
 [Extended Data](ext_articles/4d9c36a4.ext.json)
-
----
-
-### Israel attack on school where displaced Palestinians have sought refuge
-
-*2024-07-27 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189560) · `ta`
-
-In a tragic incident, Israel's attack on the Tair al-Bala school in Gaza resulted in over 30 deaths, mostly boys. The attack targeted displaced Palestinians seeking refuge. Hamas has condemned the assault, highlighting the loss of lives among children. Graphic footage from the scene shows the aftermath, including injured individuals and bodies, further emphasizing the severity of the situation.
-
-🟩
-
-More than 30 people have been killed in an Israeli attack on the school of Tair al -Bala in the middle of Gaza.
-
-Gaza's Health Ministry said that most of the victims are boys.
-
-The BBC said that the children's found in the victims is confirmed by the explored videos.
-
-Gaza's civil security forces said the displaced Palestinians were attacked by a school.
-
-Hamas has condemned the attack by many people who were killed and children were killed.
-
-The BBC reports that there will be videos that can be confirmed by the confusion, the people in the area with the wreckage, the throwing of two children with bloodshed, the woman is hugging the child, the injured person is being transported in the stretcher and the body of the cloth.
-
-◼️
-
-[Data](articles/fb54f93f.json)
-
-[Extended Data](ext_articles/fb54f93f.ext.json)
-
----
-
-### Sri Lanka president announces his intention to contest polls
-
-*2024-07-27 20:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-announces-his-intention-to-contest-polls-174096/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president Ranil Wickremesinghe has announced his intention to contest in the upcoming presidential election. Earlier in the day he had announced his candidacy at a rally in Galle.
-
-“With a clear vision and unwavering determination to elevate our nation on the global stage and transform it into a prosperous and thriving country, I am proud to announce my candidacy for the upcoming presidential election,” Wickremesinghe said on social media platform X (twitter).
-
-A representative on Friday paid the candidate’s deposit for Wickremesinghe who will be contesting as an independent candidate.
-
-“In a time when our nation was in chaos and on the brink of bankruptcy, it was my love for this country and its people that drove me to take on the arduous task of rebuilding it. United with the strength and resilience of our people, we overcame financial ruin and restored normalcy to our daily lives.
-
-...
-
-[Data](articles/c797da7c.json)
-
-[Extended Data](ext_articles/c797da7c.ext.json)
-
----
-
-### Joseph 'sports colors' award
-
-*2024-07-27 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199275) · `si`
-
-Joseph 'Sports Colors' Awards honored St. Joseph Vidyalaya, Colombo's sports talents, including former national cricketer Chaminda Vaas, emphasizing determination, commitment, and discipline in sports. Notable winners include Shanal Cemes (Swimming), Shinal City (Football), and Zhihan Fernando (Basketball). Despite Diothe Welella's absence from the Sri Lanka-India tournament, the event highlighted the importance of sports opportunities for youth, with 22 players receiving the "Josephian Blue" awards.
-
-🟩
-
-St. Joseph Vidyalaya, Colombo Sports Cricketer, the forefront of former national cricketer, Chaminda Vaas.
-
-Chaminda Vass also said that if the determination, commitment, and discipline, could not go up in the field of sports.
-
-It is noteworthy that the game also shows the need to give her children the opportunity to make the game freely.
-
-Accordingly, Shnal Cemes (Swimming) and Shinal City (Football) and Zhihan Fernando (Basketball), 362 year, were won by the Guti Welelle's (cricket player) for the year.
-
-The players, Mr. Chaminda Vaas and the Phase of the Phase Ranjith were adjudged the color certification.
-
-Diothe Welella's did not participate in the squad for the squad for the Sri Lanka-India tournament.
-
-The sports committee organized by Sports Committee, which was organized by Sports Committee, was organized by Sports Committee, which organized the Sports Committee, which was organized by Fr.
-
-22 of the players won the "JosePhian Blue 'color awards.
-
-◼️
-
-[Data](articles/807d7a16.json)
-
-[Extended Data](ext_articles/807d7a16.ext.json)
-
----
-
-### President declares openly to contesting the next presidential election
-
-*2024-07-27 19:27:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනාධිපතිවරණයට-තරග-කරන-බවට-පළමු-වරට-ජනපති-ජනතාව-හමුවේ-ප්‍රකාශ-කරයි/11-411026) · `si`
-
-President Ranil Wickremesinghe announces his candidacy for the upcoming presidential election, vowing to address national challenges and fulfill promises to the people. He assures the public of his commitment to the country's development, emphasizing his readiness to tackle any obstacles. The President also addresses concerns about the International Monetary Fund (IMF), stating that any deviations from the agreed framework would be detrimental to the nation. His campaign is supported by over 15,000 ministers and politicians across various parties, including the General Party and the Government of Sri Lanka.
-
-🟩
-
-Never, I did not escape myself: I did not speak.
-
-This will also fulfill his promise to the people to take the country.
-
-If someone says that the framework of the framework with the International Monetary Fund, they say that the country is threatening the country - "We win the Galle and said the President.
-
-President Ranil Wickremesinghe wins the next presidential election today and said that he had been buried in the Galle Municipal Council..
-
-He said that he did not escape himself to the challenges and emphasized that he is not his political habit and the promise to the people will be fulfilled.
-
-More than 15,000 Ministers and other political parties, including the General Party, and other political parties, including the Government of Sri Lanka and other political parties, participated in the publication of the Government of Sri Lanka and other political parties.They were committed to the President's victory in the presidential election.
-
-...
-
-[Data](articles/637e52a9.json)
-
-[Extended Data](ext_articles/637e52a9.ext.json)
 
 ---

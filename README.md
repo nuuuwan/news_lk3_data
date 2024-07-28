@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 12:08:53**
+As of **2024-07-28 12:20:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,647 (100.0%) of 37,651 articles have been extended.
+37,651 (100.0%) of 37,651 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,35 @@ At the meeting, both dignitaries cordially discussed friendly relations between 
 
 [Data](articles/692e8a77.json)
 
+[Extended Data](ext_articles/692e8a77.ext.json)
+
 ---
 
-### அதிக `லைக்’ அள்ளபோனதால் :   கை, கால் துண்டானது
+### Because more `Like is not: hand and leg sliced
 
 *2024-07-28 11:43:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-லைக்-அள்ளபோனதால்-கை-கால்-துண்டானது/175-341146) · `ta`
 
-சமூக வலைத்தளங்களில் பதிவிட்டு, காணொளிகளை பதிவிட்டு, குரல்களை பதிவிட்டு அதிக லைக்குகளை (விருப்பங்களை) அள்ளி குவிப்பதற்கே பலரும் முயற்சிக்கின்றனர். சிலருக்கு லைக்குகள் அள்ளிக்கொண்டு கிடைக்கின்றன. இன்னும் சிலருக்கு அதுவே ஆபத்தில் போய் முடிகின்றது.
+A young man from Maharashtra, India, known as Burhad Sheikh, engaged in dangerous stunts on moving trains for social media attention, resulting in severe injuries including the loss of a hand and a leg. His actions were captured and shared on platforms like Facebook and Twitter, attracting numerous likes but also leading to legal trouble from the Railway Safety Police (RSPF). After being apprehended, his condition worsened due to the incident, necessitating medical intervention where one leg and his hand had to be amputated. This incident serves as a stark reminder of the dangers of such reckless behavior and the potential consequences, both physical and legal.
 
-அ​திக, ‘லைக்’குகளை பெறுவதற்காக இளைஞன் ஒருவன், ரயிலில் சாகசம் செய்தபோது ஏற்பட்ட விபரீதத்தால், அவருடைய கை ஒன்றும், கா​ல் ஒன்றும் துண்டான சம்பவமொன்று இந்தியாவில் இடம்பெற்றுள்ளது.
+🟩
 
-மகாராஷ்டிர மாநிலம் வடாலாவிலுள்ள அன்டாப் ஹில் பகுதியைச் சேர்ந்தவர் பர்ஹத் ஷேக். இவர் ஓடும் ரயில்களில் கம்பியைப் பிடித்தபடி பிளாட்பார்மில் கால்கள் தேய்த்தபடி சறுக்கிச் சென்று சாகசத்தில் ஈடுபடுவார்.
+Many people are trying to post voice on social websites, post voices and concentrate more likes. Likes are available for some people. For some others, it is in danger.
 
-இதை வீடியோவாக எடுத்து, லைக்குகள் பெறுவதற்காக ஃபேஸ்புக், ட்விட்டர் போன்ற சமூக வலைதளங்களில் வெளியிடுவார். இந்நிலையில், இவர் மீது, ரயில்வே பாதுகாப்பு பொலிஸார் (ஆர்பிஎப்) வழக்குப் பதிவு செய்தனர். அவரைக் கண்டுபிடித்து அவரது இருப்பிடத்துக்குச் சென்றபோது விபத்தில் அவர் ஒரு கை, காலை இழந்தது அதிகாரிகளுக்குத் தெரியவந்தது.
+In India, a young man, a young man, was involved in a train adventure, and his hand and nothing in Ka.
+
+Burhad Sheikh belongs to the Andap Hill area of ​​Vadala, Maharashtra. He grabs the rod on the running trains and rubs his legs on the platform and joins the adventure.
+
+Take this as a video and publish on social networks like Facebook and Twitter to get Likes. In this case, the Railway Safety Police (RPF) filed a case against him. When he found him and went to his location, he lost a hand and leg in the accident.
+
+It was only then that RPF police revealed that he was injured when he was involved in the adventure at the Masjid railway station last April.
+
+He has been taken to St. George Hospital for Railway Staff. It was revealed that the doctors had to cut one leg and his hand as he had been hit.
 
 ...
 
 [Data](articles/39e40436.json)
+
+[Extended Data](ext_articles/39e40436.ext.json)
 
 ---
 
@@ -108,21 +120,29 @@ The Defense Secretary has requested the rescue of the release of the persons to 
 
 ---
 
-### කුවේට් රාජ්‍යයේ රැකියා සදහා ගොස් එහිදී වෙඩි කා දැන් ශ්‍රී ලංකාවේ හිගා කෑමට සූදානම් වන ශ්‍රී ලාංකිකයා
+### Sri Lankan who shot for the jobs of Kuwait and now ready to eat Higta in Sri Lanka
 
 *2024-07-28 11:29:40* · [`adalk`](https://www.ada.lk/breaking_news/කුවේට්-රාජ්‍යයේ-රැකියා-සදහා-ගොස්-එහිදී-වෙඩි-කා-දැන්-ශ්‍රී-ලංකාවේ-හිගා-කෑමට-සූදානම්-වන-ශ්‍රී-ලාංකිකයා/11-411038) · `si`
 
-කුවේට් රාජ්‍යයේ ආපනශාලාවක ආහාර ඇනවුම් බෙදාහැරීමේ නිරත වී සිටිය දී , එම ඇනවුම ලබා දීමට මදක් ප්‍රමාද වීම නිසා උරණ වූ කුවේට් ජාතිකයෙකු තැබූ වෙඩි පහරකින් ඔත්පළ වී , ඇදි වත පමණක් රැගෙන , ශ්‍රී ලංකාවේ තම දූ දරුවන් සහ අසනීප වී සිටින බිරිඳ ජීවත් කිරීම සදහා " හිගා කෑමට " මහ පාරට බැසීමට සූදානමින් මෙරටට 07/26 දින අලුයම රාජාංගනය ප්‍රදේශයේ පදිංචිකරුවෙකු කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියේය .
+A Sri Lankan man, Sagara Lakshman Tillekeratne, survived a shooting incident in Kuwait, where he worked. After recovering, he returned to Sri Lanka with his family. Despite facing health issues with his wife, he continues to support his children and enjoys local cuisine, specifically Higta, indicating a return to normalcy post-trauma.
 
-ඔහු රාජාංගනය , යාය - 11 ප්‍රදේශයේ පදිංචි සාගර ලක්ෂ්මන් තිලකරත්න නැමැති 46 හැවිරිදි පුද්ගලයෙකි .
+🟩
 
-මම වැඩ කරමින් සිටි ආපනශාලාවෙ සිට ඒ ආපනශාලාවට ගිහිං , ඒ ඇනවුම භාර දීමට නියමිත " බර් " නැමැති කාන්තාර ප්‍රදේශයේ පිහිටි නිවෙස වෙත ගියා . ගිහිං ආහාර ඇනවුම් කළ පුද්ගලයාට දුරකථන ඇමතුමක් දුන්නා . ඔහු ඒකට පිළිතුරු දුන්නෙ නැහැ .
+In order to give a Kuwait, a shooting that was labeled by a cavity in the Kuwait kingdom, and carry out a shooting and the sick wife in Sri Lanka, to live a shot to the order."In the morning, Rajanganaya, a resident of Rajanganaya, arrived at the Bandaranaike International Airport on April 7/22 day to reach the streets.
 
-ඔහු ඔහුගේ මෝටර් රථයෙන් පැමිණ , මගේ මෝටර් රථය පිටුපසින් නවතා ගෙන සිටියදී , මම ඔහුට ආහාර ඇනවුම භාර දීමට , ඔහුගේ මෝටර් රථය අභියසට යනවාත් සමගම , ඔහු මෝටර් රථයේ වීදුරුව පහත් කර මට වෙඩි තැබුවා.
+He is a 46 year old man named Sagara Lakshman Tillekeratne, a resident of Rajanganaya, Yaya-11, area.
+
+From the cafeteria where I was working to the residence, to the restaurant, to the residence, to the resignation, went to the home. Telephone of the guy to order. He didn't answer it.
+
+When he came out of his car and stopped the food behind my car, he lowered him the glass of the car and shot me the glass of the car.
+
+Although I returned to the car and tried to come to the cafeteria, but went to drive me the road. I stopped the car out of the road, and I left the other car of the rest of the cafeteria, and I was diagnosed in the car.
 
 ...
 
 [Data](articles/a2679199.json)
+
+[Extended Data](ext_articles/a2679199.ext.json)
 
 ---
 
@@ -592,23 +612,29 @@ He said that the statement made by former President Maithripala Sirisena was pre
 
 ---
 
-### ලොකු පැටීගේ තවත් සගයෙක් අල්ලයි
+### Another colleague of big patty is arrested
 
 *2024-07-28 09:00:05* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-පැටීගේ-තවත්-සගයෙක්-අල්ලයි/11-411035) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජික ලොකු පැටි නැමැත්තාගේ උපදෙස් මත ඝාතනයක් සිදුකර කතරගමට පලා ගොස් සැඟව සිටි පුද්ගලයෙකු සිව් මස කට පසු අත්අඩංගුවට ගත් බව මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය කියයි
+A colleague of "Big Patty" was arrested for murder, linked to organized crime. The suspect, Ti Washikhakikha de Silva, aged nearly 31, was apprehended near Ahungalla Hotel after four months. He was previously found hiding in Panagoda with 13100 mm. Investigations are led by Superintendent Lucky Randeniya.
 
-ටි ඩබ්ලිව්  රශ්මික ද සිල්වා නොහොත් අල්මේ දා නමැති 31 හැවිරිදි  සැකකරු අහුවල්ල ලෝකන්වත්ත පදිංචිකරුවෙකි
+🟩
 
-2024 මාර්තු මස පළවෙනි දින අහුංගල්ල හෝටලයක් ඉදිරිපිටදී නීල් කුසුම් කුමාර මෙන්ඩිස් නොහොත් කොණ්ඩා මංජු වන අයව වෙඩි තබා ඝාතනය සිදුකිරීමේ අපරාධය සම්බන්ධයෙන් සැකකරු අත්අඩංගුවට ගෙන තිබිණි
+Murder and organized Criminal Investigative Department says that the murder of the organized criminal criminal criminal criminal criminal crime and fled to Kataragama and arrested a man who had been arrested for four months
 
-අත්අඩංගුවට ගත් සැකකරු ගෙන් වැඩිදුරටත් ප්‍රශ්න කිරීමේදී පනාගොඩ ප්‍රදේශයේ ලැගුම්හලක සඟවා තිබූ හොරයින් මත්කුඩු මිලිගෑම් 13100 සොයා ගැනීමට හැකිවූ බව පොලිසිය කියයි
+Ti Washikhakikha de Silva is almost '31 year old suspect, Akuwella World
 
-මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශනා අංශයේ අධ්‍යක්ෂක ජේෂ්ඨ පොලිස් අධිකාරී ලකී රන්දෙණිය මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ
+The suspect was arrested in front of the Ahungalla Hotel on March 13 ,,
+
+The suspects were arrested in the Panagoda, which was hidden in a lodge in the Panagoda area, the police said that he was able to find 13100 mm
+
+Investigations are conducted on the instructions of Superintendent of Police Lucky Randeniya
 
 ◼️
 
 [Data](articles/8a30103c.json)
+
+[Extended Data](ext_articles/8a30103c.ext.json)
 
 ---
 

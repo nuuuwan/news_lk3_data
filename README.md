@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 11:06:33**
+As of **2024-07-28 11:20:52**
 
 ## Newspaper Stats
 
-*Scraped **37,637** Articles*
+*Scraped **37,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,422
 adaderanalk | 4,360
-tamilmirrorlk | 4,650
+tamilmirrorlk | 4,652
 dailymirrorlk | 4,733
 virakesarilk | 5,909
 adaderanasinhalalk | 6,330
@@ -26,27 +26,51 @@ adaderanasinhalalk | 6,330
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,634 (100.0%) of 37,637 articles have been extended.
+37,637 (100.0%) of 37,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
 
-### ඊශ්‍රායලය ප්‍රතිප්‍රහාර අරඹයි
+### யாருக்கு ஆதரவு: அறிவித்தார் மஹிந்த
+
+*2024-07-28 11:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாருக்கு-ஆதரவு-அறிவித்தார்-மஹிந்த/175-341144) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுன ஆதரிக்கும் வேட்பாளர் யார் என்பது தொடர்பில் திங்கட்கிழமை (29) அறிவிக்கப்படும் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிக்க கட்சி தீர்மானித்தால், அதியுச்ச ஆதரவு அளிக்கும் என்றும் அவர் குறிப்பிடுகிறார்.
+
+வேறு வேட்பாளரை நியமிக்க கட்சி முடிவு செய்தால், அதற்கும் ஆதரவு அளிக்கும் என்றார்.
+
+கட்சியின் சில எம்.பி.க்கள் தங்களது தனிப்பட்ட கருத்தின் அடிப்படையில் வேட்பாளர்களுக்கு ஆதரவளிக்க முடிவு செய்துள்ளதாகவும்,   அவர்கள் விரும்பியதைச் செய்வதற்கான சுதந்திரம் வழங்கப்பட்ட பின்னர் அது ஒரு பிரச்சினையாக இருக்காது என்றும் அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/5085c645.json)
+
+---
+
+### Israel begins counterpart
 
 *2024-07-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199292) · `si`
 
-ලෙබනනයේ හිස්බුල්ලා ඉලක්ක වෙත ගුවන් ප්‍රහාර එල්ලකළ බව ඊශ්‍රායල හමුදාව පවසයි.
+Israel launches airstrikes targeting Hezbollah leaders in Lebanon in retaliation for a missile attack on a soccer field in a village near the Golan Heights, which killed civilians.
 
-ඒ ඊශ්‍රායලය විසින් අල්ලාගෙන සිටින ගෝලාන් කඳුකරයේ පිහිටි ගම්මානයක පාපන්දු පිටියකට එල්ලකළ මිසයිල ප්‍රහාරයකින් දරුවන් සහ තරුණයින් 12 දෙනෙකු මියයෑමට ප්‍රතිචාර වශයෙනි.
+🟩
 
-ඊයේ (27) එල්ලකර තිබූ එම මිසයිල ප්‍රහාරයට හිස්බුල්ලා සංවිධානය වගකිවයුතු බව ඊශ්‍රායලය පවසයි.
+The Israeli army says that air strikes were launched to the heads of Hezbollawa in Lebanon.
 
-ඊශ්‍රායල ආරක්ෂක අංශ පැවසුවේ ලෙබනනයේ පිහිටි හිස්බුල්ලා ඉලක්ක 7කට දැඩි ප්‍රහාර එල්ලකළ බවයි.
+In response to death by a missile attack on a football field in a village in a village of a village in the Gholan mountain range of Israel.
+
+Israel says he is responsible for the attack on the missile attack yesterday (27).
+
+Israeli security forces said that hezbollah in Lebanon had severely attacked.
 
 ◼️
 
 [Data](articles/c0036fcb.json)
+
+[Extended Data](ext_articles/c0036fcb.ext.json)
 
 ---
 
@@ -65,6 +89,8 @@ When inquired by Ada Derana, Government Printer Ganga Kalpani Liyanage confirmed
 ◼️
 
 [Data](articles/e7d471e5.json)
+
+[Extended Data](ext_articles/e7d471e5.ext.json)
 
 ---
 
@@ -85,6 +111,24 @@ Deepti is the leading wicket-taker of this event with nine wickets and Renuka is
 ...
 
 [Data](articles/104d74a1.json)
+
+[Extended Data](ext_articles/104d74a1.ext.json)
+
+---
+
+### சுமந்திரனின் வாகனம் விபத்தில் சிக்கியது
+
+*2024-07-28 10:37:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சுமந்திரனின்-வாகனம்-விபத்தில்-சிக்கியது/72-341140) · `ta`
+
+பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் பயணித்த வாகனம் சனிக்கிழமை (27) மாலை மோட்டார் சைக்கிளுடன் மோதியதில் விபத்து ஏற்பட்டுள்ளதாக கிளிநொச்சி பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பில் இருந்து யாழ்ப்பாணம் நோக்கி பயணித்த பாராளுமன்ற உறுப்பினரின் வாகனம், கிளிநொச்சி 155 கிலோ மீற்றர் தூண் பகுதியில் மோட்டார் சைக்கிளுடன்  மோதியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்தில் யாருக்கும் காயம் ஏற்படாத நிலையில், எம்.பி.யின் வாகனத்தின் முன்பகுதி சிறிதளவு சேதமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/b1f3100d.json)
 
 ---
 
@@ -2197,45 +2241,5 @@ Applicants who are applying for this should be forwarded to the Elections Commis
 [Data](articles/d3fec150.json)
 
 [Extended Data](ext_articles/d3fec150.ext.json)
-
----
-
-### Afloat repairs at Sri Lanka’s China-backed port boosted by Japan dockyard group
-
-*2024-07-27 13:38:00* · [`economynextcom`](https://economynext.com/afloat-repairs-at-sri-lankas-china-backed-port-boosted-by-japan-dockyard-group-174052/) · `en`
-
-ECONOMYNEXT – Colombo Dockyard, a unit of Japan’s Onomichi group will invest to boost afloat repairs at Sri Lanka’s Hambantota International Port, which is run by China’s CM Ports.
-
-Hambantota International Port Group (HIPG) said it had signed an agreement with Colombo Dockyard to construct state-of-the-art ship repair workshop at the port.
-
-Johnson Liu, Chief Representative of CM Group in Sri Lanka and CEO of HIPG, emphasised the strategic advantage of HIP’s location.
-
-“HIP’s position along the east-west routes of the Indian Ocean makes it an ideal site for developing and expanding ship repair services,” Johnson Liu, Chief Representative of the CM Group in Sri Lanka and Chief Executive of HIPG said in a statement.
-
-“The capacity to handle large volumes of repair work combined with CDPLC’s expertise will make this partnership a vital part of the port’s operations.”
-
-...
-
-[Data](articles/bea8e3ab.json)
-
-[Extended Data](ext_articles/bea8e3ab.ext.json)
-
----
-
-### The LTTE is no longer banned
-
-*2024-07-27 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199261) · `si`
-
-The LTTE, previously unbanned, is now designated as a prohibited group within the EU.
-
-🟩
-
-The European Union has decided to name the LTTE as a banned organization in the European Union.
-
-◼️
-
-[Data](articles/825c6d88.json)
-
-[Extended Data](ext_articles/825c6d88.ext.json)
 
 ---

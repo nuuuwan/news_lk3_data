@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 09:20:38**
+As of **2024-07-28 09:35:51**
 
 ## Newspaper Stats
 
-*Scraped **37,616** Articles*
+*Scraped **37,618** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 328
+dbsjeyarajcom | 329
 colombotelegraphcom | 356
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,259
 dailyftlk | 2,405
-adalk | 3,420
+adalk | 3,421
 adaderanalk | 4,357
 tamilmirrorlk | 4,641
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,616 (100.0%) of 37,616 articles have been extended.
+37,616 (100.0%) of 37,618 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,20 @@ Representatives of Ada Derana, the Government Printer Ganga Liyanage said that p
 [Data](articles/adf864e1.json)
 
 [Extended Data](ext_articles/adf864e1.ext.json)
+
+---
+
+### වාහනයට ගංජා දැමූ කොස්තාපල්ගේ වැඩ තහනම්
+
+*2024-07-28 08:30:46* · [`adalk`](https://www.ada.lk/breaking_news/වාහනයට-ගංජා-දැමූ-කොස්තාපල්ගේ-වැඩ-තහනම්/11-411032) · `si`
+
+තරුණයන් පිරිසක් මෝටර් රථයකින් ගමන් කරමින් සිටියදී  කොල්ලුපිටිය  ප්‍රදේශයේදී  කොල්ලුපිටිය පොලිසියේ නිලධාරීන් පිරිසක් මෝටර් රථය නවතා පරීක්ෂා කිරීමේදී කොස්තාපල් වරයෙකු විසින් මෝටර් රථයට ගංජා දමා  තරුණයන් අත්අඩංගුවට ගැනීමට ගිය බව කියන කොල්ලුපිටිය පොලිසියට අනුයුක්ත කොස්තාපල්වරයෙකුගේ වැඩ තහනම් කර ඇත.
+
+ඒ පිළිබඳව විමර්ශන පැවැත්වීමෙන් අනතුරුව කොළඹ දකුණ බාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි රවින්ද්‍ර  අඹේපිටිය මහතාගේ නියෝග පරිදි එම කොස්තාපල්වරයාගේ වැඩ තහනමට ලක් කර ඇත. මේ පිළිබඳව වීඩියෝවක් සමාජ මාධ්‍ය තුළ වේගයෙන් සංසරණය විය.
+
+◼️
+
+[Data](articles/e755b52c.json)
 
 ---
 
@@ -843,6 +857,20 @@ Visitor Pathirana took 4 wickets for 40 runs in 4 overs.
 [Data](articles/d5558bb2.json)
 
 [Extended Data](ext_articles/d5558bb2.ext.json)
+
+---
+
+### When Sarath Fonseka  Challenged Mahinda  Rajapaksa  For The Presidency in 2010.
+
+*2024-07-27 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84445) · `en`
+
+Gardihewa Sarath Chandralal Fonseka known generally as Sarath Fonseka has  thrown his hat into the presidential poll ring again . The former army commander who is  Sri Lanka’s one and only Field Marshal has stated in a post on “X”(Twitter) that he would be a contender at the forthcoming presidential election. The following is  Fonseka’s formal announcement –
+
+“I wish to announce my Presidential Candidacy to the people of Sri Lanka. For 76 years, we have been led by an inept political group that has led us to bankruptcy. For Sri Lanka to grow, we need to #Crush Corruption We need to leverage our natural resources to boost income generation. This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election. I invite every Sri Lankan to join me to take Sri Lanka forward.”
+
+...
+
+[Data](articles/5774409a.json)
 
 ---
 
@@ -2195,45 +2223,5 @@ Jio Platforms Ltd and a unit of Reliance industries of India and Gortune Interna
 [Data](articles/7996d474.json)
 
 [Extended Data](ext_articles/7996d474.ext.json)
-
----
-
-### Legal action against non-compliance with bread pricing
-
-*2024-07-27 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100806/legal-action-against-non-compliance-with-bread-pricing) · `en`
-
-The Consumer Affairs Authority (CAA) has announced that legal action will be taken against shopkeepers who fail to display the reduced price of a 450-gram loaf of bread, which has been decreased by Rs. 10.
-
-CAA Chairman T.I. Uduwara has instructed the officers of the investigation department to carry out the relevant raids to ensure compliance.
-
-Meanwhile, Colombo District Assistant Measurement Units, Standards & Services, Dilruk Pattiyapola, stated that legal action has been taken against 210 individuals during raids on legal weighing and measuring equipment from January to date.
-
-◼️
-
-[Data](articles/8cbab618.json)
-
-[Extended Data](ext_articles/8cbab618.ext.json)
-
----
-
-### Tourist arrivals increase
-
-*2024-07-27 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189490) · `ta`
-
-Sri Lanka sees a record-breaking 1 million tourists arrive in January, surpassing pre-war records. This boost follows post-war lows due to attacks, Covid-19, and an economic crisis. The Ministry of Tourism credits this success to its efforts alongside affiliated companies.
-
-🟩
-
-The Secretary of the Ministry of Tourism and Land, Somatna Vidanapatrana said that the arrival of 10 lakh tourists on the 15th of this month has been reinforced by the arrival of Sri Lankan tourists.
-
-If this is the case, it will be better than the 2018 record of tourism in Sri Lanka after the war.
-
-Tourism trade in Sri Lanka has fallen due to survival Sunday attack, Kovit - 19 infection and economic crisis. But the Ministry of Tourism and its affiliated companies said that the successful results are now available.
-
-◼️
-
-[Data](articles/92dafb3e.json)
-
-[Extended Data](ext_articles/92dafb3e.ext.json)
 
 ---

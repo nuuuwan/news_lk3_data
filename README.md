@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 10:20:38**
+As of **2024-07-28 10:35:56**
 
 ## Newspaper Stats
 
-*Scraped **37,622** Articles*
+*Scraped **37,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,259
 dailyftlk | 2,405
 adalk | 3,421
 adaderanalk | 4,358
-tamilmirrorlk | 4,641
+tamilmirrorlk | 4,649
 dailymirrorlk | 4,733
 virakesarilk | 5,909
-adaderanasinhalalk | 6,327
+adaderanasinhalalk | 6,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,622 (100.0%) of 37,622 articles have been extended.
+37,622 (100.0%) of 37,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### விவாகரத்து கிடைத்ததால் பெண்ணொருவர் விருந்து
+
+*2024-07-28 10:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விவாகரத்து-கிடைத்ததால்-பெண்ணொருவர்-விருந்து/50-341138) · `ta`
+
+அமெரிக்காவில் வசிக்கும் பாகிஸ்தான் பெண் ஒருவரே விருந்து வைத்து கொண்டாடினார். அவரது கொண்டாட்ட வீடியோ சமூக வலைதளங்களில் தற்போது வைரலாகியுள்ளது.
+
+அமெரிக்காவில் வசித்து வரும் பெண் ஒருவருக்கு அண்மையில் விவாகரத்து கிடைத்துள்ளது. இதையடுத்து அந்த மகிழ்ச்சியைக் கொண்டாட அவர் முடிவுசெய்தார். தனக்கு விவாகரத்துகிடைத்ததை தனது நண்பர்கள்,தோழிகளுடன் அவர் ஹோட்டலில்மிகப்பெரிய அளவில் விருந்து வைத்துக் கொண்டாடியுள்ளார்.
+
+விவாகரத்து கிடைத்ததற்கு வாழ்த்துகள் என்ற பின்னணிப் பலகையுடன் அவர் கொண்டாட் டத்தில் ஈடுபட்டார். மேடையில் ஏறி நின்று அவர் பாடலுக்கு நடனமாடியும், பாடல்களைப் பாடியும் கொண்டாடினார். ஊதா நிறலெஹங்கா உடையணிந்து அவர்தோழிகளுடன் ஆடிப்பாடினார். அவரது கொண்டாட்ட வீடியோசமூக வலை தளங்களில் வைரலாகிஉள்ளது. அவர் யாரென்ற விவரம்தெரியவில்லை.
+
+மேலும் எதற்காக அவர் விவாகரத்து பெற்றார் என்ற காரணத்தையும் தெரிவிக்கவில்லை. இந்நிலையில் அவரது வீடியோவைப் பார்த்த பலர் அவருக்கு,வாழ்த்துகளைத் தெரிவித்து உள்ளனர்.
+
+...
+
+[Data](articles/15afbb9a.json)
+
+---
+
+### කාන්තා ආසියානු කුසලානයේ අවසන් තරගය අද
+
+*2024-07-28 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199290) · `si`
+
+9 වැනි කාන්තා ආසියානු කුසලාන 20යි 20 ක්‍රිකට් තරගාවලියේ අවසන් තරගය අද (28) පස්වරුවේ පැවැත්වෙයි.
+
+එහිදි මෙවර තරගාවලියේදී A කාණ්ඩයෙන් තරග බිමට පිවිසි ඉන්දීය කණ්ඩායම අපරාජිතව අවසන් තරගයේ සිය ස්ථානය වෙන් කර ගනිද්දී සත්කාරක ශ්‍රී ලංකා ක්‍රීඩිකාවනුත් මෙවර අවසන් තරගය සඳහා සිය ස්ථානය වෙන් කරගත්තේ අපරාජිත ගමනකින්වීම කැපී පෙනෙයි.
+
+ඉන්දීය කණ්ඩායමක් ආසියානු කුසලාන අවසන් තරගයක් සඳහා සුදුසුකම් ලබා ගත් 9වැනි අවස්ථාව වන අතර එහිදි ඉන්දීය ක්‍රීඩිකාවන් අවස්ථා 7කදී ආසියානු ශූරියන් ලෙස කිරුළ හිමිකර ගත්තේය.
+
+ශ්‍රී ලංකා කාන්තා කණ්ඩායමක් ආසියානු කුසලාන අවසන් මහ තරගයක් සඳහා අවස්ථා 6කදී සුදුසුකම් ලබා ගත් අතර ඔවුන් අවස්ථා 5කදී ආසියානු අනුශූරියන් ලෙස තරගාවලිය අවසන් කළේය.
+
+◼️
+
+[Data](articles/6572c3d2.json)
+
+---
+
+### சுதந்திரக் கட்சி 31ஆம் திகதி தீர்மானிக்கும்
+
+*2024-07-28 10:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திரக்-கட்சி-31ஆம்-திகதி-தீர்மானிக்கும்/175-341137) · `ta`
+
+ஜனாதிபதி வேட்பாளர் யார் என்பதை ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையிலான புதிய கூட்டணி எதிர்வரும் 31ஆம் திகதி வெளிப்படுத்தும் என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சரும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சிரேஷ்ட உப தலைவருமான மஹிந்த அமரவீர தெரிவித்தார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சி பிளவுபடவில்லை எனவும், தற்போது ஒரேயொரு சட்டபூர்வமான ஸ்ரீலங்கா சுதந்திரக் கட்சியே உள்ளதாகவும் அமைச்சர் தெரிவித்தார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சி தனது கையில் இருப்பதாக சிலர் கூறுகின்ற கருத்துக்கள் செல்லுபடியாகாது எனவும் அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/1487e478.json)
+
+---
 
 ### Fatal accidents that have been killed
 
@@ -81,6 +133,42 @@ They gathered to learn about the government’s program and the path ahead, vowi
 [Data](articles/7aae827f.json)
 
 [Extended Data](ext_articles/7aae827f.ext.json)
+
+---
+
+### 24 மணி நேரத்துக்கு எச்சரிக்கை
+
+*2024-07-28 09:45:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணி-நேரத்துக்கு-எச்சரிக்கை/175-341136) · `ta`
+
+பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+இன்று (28) அதிகாலை 3.00 மணிக்கு வெளியிடப்பட்ட இந்த அறிவிப்பு அடுத்த 24 மணித்தியாலங்களுக்கு செல்லுபடியாகும் என அந்த திணைக்களம் அறிவித்துள்ளது.
+
+அரபிக்கடல் மற்றும் வங்காள விரிகுடா கடற்பரப்பில் உள்ள நெடுநாள் கடற்றொழிலாளர்கள் மற்றும் கடல்சார் சமூகம் இது தொடர்பில் அவதானத்துடன் செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளது.
+
+இதேவேளை, சப்ரகமுவ மாகாணம், கண்டி மற்றும் நுவரெலியா மாவட்டங்களில் இன்று (28) அவ்வப்போது மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும்.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது 50-55 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+
+...
+
+[Data](articles/8d2ff09d.json)
+
+---
+
+### யாழில் வாகனத்திற்கு தீ வைப்பு
+
+*2024-07-28 09:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-வாகனத்திற்கு-தீ-வைப்பு/71-341135) · `ta`
+
+யாழ்ப்பாணம் மூர் வீதியில் வசிக்கும் நபர் ஒருவர், தனது வாகனத்தினை, வீட்டின் முன் நிறுத்தி வைத்திருந்த வேளை சனிக்கிழமை (27) நள்ளிரவு வேளை வாகனத்திற்கு தீ வைத்து விட்டு, வன்முறை கும்பல் தப்பிச் சென்றுள்ளது.
+
+சம்பவம் தொடர்பில் பாதிக்கப்பட்டவரால், யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது. பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.   R
+
+◼️
+
+[Data](articles/a6ba1091.json)
 
 ---
 
@@ -209,6 +297,24 @@ The constable has banned the work of the Colombo South Barandiya Senior Superint
 [Data](articles/e755b52c.json)
 
 [Extended Data](ext_articles/e755b52c.ext.json)
+
+---
+
+### அரசின் நிலைப்பாட்டுக்கு  கண்டனம்
+
+*2024-07-28 08:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசின்-நிலைப்பாட்டுக்கு-கண்டனம்/175-341130) · `ta`
+
+அரசியலமைப்பு பேரவையின் அங்கீகாரத்துடன் ஜனாதிபதி மேற்கொண்ட நியமனங்களை உயர்நீதிமன்றம் கேள்விக்கு உட்படுத்த முடியாது என்ற அரசாங்கத்தின் கருத்தை முற்றிலும் ஏற்றுக் கொள்ள முடியாது என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+
+பொலிஸ் மா அதிபராக தேசபந்து தென்னகோன் நியமிக்கப்பட்டமை தொடர்பில், உயர் நீதிமன்றத்தினால் அண்மையில் பிறப்பிக்கப்பட்ட இடைக்கால தடையுத்தரவு தொடர்பில், இலங்கை சட்டத்தரணிகள் சங்கத்தின் நிலைப்பாட்டை வெளிப்படுத்தும் அறிக்கையில் இந்த விடயம் குறிப்பிடப்பட்டுள்ளது.
+
+கடந்த 26 ஆம் திகதி பாராளுமன்றத்தில் உரையாற்றிய பிரதமர் தினேஷ் குணவர்தன, பொலிஸ் மா அதிபர் நியமனத்திற்கு அரசியலமைப்பு பேரவை வழங்கிய அனுமதியை நீதிமன்றத்தால் மாற்ற முடியாது என குறிப்பிட்டார்.
+
+இந்த நிலையில், அரசாங்கத்தின் நிலைப்பாட்டை ஏற்க முடியாது எனவும், பொலிஸ் மா அதிபரின் நியமனம் தொடர்பான அரசாங்கத்தின் நிலைப்பாட்டைக் கண்டிப்பதாகவும் இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/18f65299.json)
 
 ---
 
@@ -386,6 +492,38 @@ In addition, 12 people have died of dengue during this year, the Ministry of Hea
 
 ---
 
+### டெங்கு நோயாளர்கள் அதிகரிப்பு
+
+*2024-07-28 03:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-341127) · `ta`
+
+இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 32 ஆயிரத்துக்கும் அதிகமான டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் எனத் தேசிய டெங்குக் கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+அத்துடன், இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 12 பேர் டெங்கு நோய் காரணமாக உயிரிழந்துள்ளனர் என சுகாதார அமைச்சு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/d6a0ac59.json)
+
+---
+
+### ’சஜித்தின் சகாக்கள் பலர் ரணிலுடன் இணைவர்’
+
+*2024-07-28 02:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-சகாக்கள்-பலர்-ரணிலுடன்-இணைவர்/175-341126) · `ta`
+
+ஐக்கிய மக்கள் சக்தி உறுப்பினர்கள் பலரும் அடுத்து வரும் நாட்களில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் இணையவுள்ளனர் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே தெரிவித்தார்.
+
+காலியில் நேற்று நடைபெற்ற 'ஒன்றாக வெல்வோம் – காலியில் நாம்' கூட்டத்தில் கலந்துகொண்டு உரையாற்றிய அவர் மேலும் தெரிவிக்கையில்,
+
+எதிர்வரும் செப்டெம்பர் 21 ஆம் திகதி நடைபெறும் ஜனாதிபதித் தேர்தலில் ரணில் வெற்றி பெறுவார் என்பது உறுதி. அவர் பின்னால்தான் அனைத்து கட்சிகளும் இன்றுள்ளன.
+
+நெருக்கடியான நேரத்தில் நாட்டைப் பொறுப்பேற்காத சஜித் பிரேமதாஸ வெற்றி வேட்பாளரா? இல்லை. நாட்டை மீட்கக்கூடிய வேட்பாளர் எமது மேடையிலேயே இருக்கின்றார். அடுத்துவரும் நாட்களில் சஜித்தின் சகாக்களும் எமது மேடையில் ஏறுவார்கள் என்றார். (a)
+
+◼️
+
+[Data](articles/3094ffe7.json)
+
+---
+
 ### Many of Sajith's colleagues will join Ranil
 
 *2024-07-28 02:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தின்-சகாக்கள்-பலர்-ரணிலுடன்-இணைவார்கள்/175-341126) · `ta`
@@ -503,6 +641,24 @@ However, some claim that he is not a free party and foreign. Wijedasa Rajapaksa.
 [Data](articles/53e7e45f.json)
 
 [Extended Data](ext_articles/53e7e45f.ext.json)
+
+---
+
+### ’ஐ.ம.கூ’வுடன் தயாசிறி ஒப்பந்தம்
+
+*2024-07-28 02:40:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-கூ-வுடன்-தயாசிறி-ஒப்பந்தம்/175-341125) · `ta`
+
+ஐக்கிய மக்கள் சக்தி தலைமையிலான ஐக்கிய மக்கள் கூட்டணியுடன் தயாசிறி ஜயசேகர கையெழுத்திடவுள்ளதாக தகவல்கள் கிடைத்துள்ளன எனவும் ஓகஸ்ட் 8 ஆம் திகதி தயாசிறி ஜயசேகர யார் என்பதை அறிந்து கொள்ளலாம் என்றும்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+
+நேற்று இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் அவர் மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+சட்ட ரீதியான நிறைவேற்று சபையின் ஊடாகவே விஜேதாச  ராஜபக்ஷ ஸ்ரீலங்கா சுதந்திர கட்சியின் தவிசாளராக தெரிவு செய்யப்பட்டார். நிறைவேற்று சபையின் அங்கீகாரத்துடனேயே அவர் ஜனாதிபதி வேட்பாளராகவும் அறிவிக்கப்பட்டார். அதற்கு எவரும் எதிர்ப்பினை வெளிப்படுத்தவுமில்லை.
+
+எனினும் சிலர் அவர் சுதந்திர கட்சி இல்லை என்றும், வெளிநபர் என்றும் கூறுகின்றனர். விஜேதாச ராஜபக்ஷவை அவ்வாறு கூறுபவர்கள் சு.க. தோன்றிய போது இந்த உலகத்தில் பிறந்திருக்கவும் மாட்டார்கள். சிறிமாவோ பண்டாரநாயக்கவின் பிரஜாவுரிமை பறிக்கப்பட்ட போது, அவருக்கான நீதிமன்றத்தில் முன்னிலையான இளம் சட்டத்தரணியாக விஜேதாச ராஜபக்ஷவே காணப்பட்டார்.
+
+...
+
+[Data](articles/56692f1b.json)
 
 ---
 
@@ -2031,217 +2187,5 @@ The Indian value of the seized painkillers pills is about 1 crore 80 lakhs and t
 [Data](articles/42f8c38f.json)
 
 [Extended Data](ext_articles/42f8c38f.ext.json)
-
----
-
-### Special message to voters
-
-*2024-07-27 12:07:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்களுக்கு-விசேட-செய்தி/175-341106) · `ta`
-
-Voters can vote at alternate polling stations due to reasons specified in a Gazette notification. Applications for this must be submitted to the Election Commission by the 1st of next month and approved by village authorities; otherwise, they won't be accepted.
-
-🟩
-
-The Election Commission has said that voters will be able to vote at alternative polling stations except for their voting center in the upcoming presidential election.
-
-The Commission has urged the Gazette notification that there is a reasonable reason for not voting for voters where voters are appointed.
-
-Applicants applying for this must send forms to the Election Commission on or before the 1st of next month.
-
-Further, each application should be certified by the village authorities by the village authorities, otherwise the applications will not be accepted, the Election Commission said.. Remble
-
-◼️
-
-[Data](articles/b2ce0737.json)
-
-[Extended Data](ext_articles/b2ce0737.ext.json)
-
----
-
-### Senior RefersionThe Election Commission is meeting with him
-
-*2024-07-27 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189499) · `ta`
-
-The Election Commission is consulting with the Inspector General of Police regarding election security measures and police requirements, amid concerns over holding elections without a police chief, as per constitutional obligations. The Supreme Court has temporarily allowed the Inspector General to perform his duties. The Senior Procurement Commissioner has also urged the commission to proceed with elections.
-
-🟩
-
-The Supreme Court has issued an interim injunction to carry out the duties of the Tennakoon Inspector General of Police, Senior Procurement Commissioner Divi has called for the Elections Commission to carry out the elections relating to elections.
-
-Senior Representative Chancellor Asanga Karawita has met after the election -related gazette for the election order.
-
-The meeting took place as questions arise as to whether the election could be held in the absence of a police chief.
-
-According to the Constitution, the Election Commission should inform the Inspector General of Police about the security measures related to the election and the number of police officers required for the job.
-
-If such issues are necessary to hold elections, there are questions about how far it is possible to hold elections without the police chief.
-
-...
-
-[Data](articles/32a5a5ec.json)
-
-[Extended Data](ext_articles/32a5a5ec.ext.json)
-
----
-
-### Modi to Ukraine
-
-*2024-07-27 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199257) · `si`
-
-Indian PM Modi plans to visit Ukraine soon after its invasion by Russia. The invitation comes from Ukrainian President Volodymyr Zelenskyy, who met with Russian President Putin recently. India is willing to aid in diplomatic efforts towards peace.
-
-🟩
-
-According to foreign media reports, Indian Prime Minister Narendra Modi is scheduled to visit the next month after Russia invades Ukraine.
-
-According to foreign reports, Prime Minister Vlodmanir Celenceky, the day of Prime Minister, was the invitation to visit the war to visit the war to the best of the war.
-
-President Vladimir Celenceky came to a month ago with the Prime Minister of the Indian Prime Minister and Ukrainian President Vladimir Celenceky.
-
-India has stated that India is ready to contribute to the conversation and diplomatic since the end of the war, and India is ready to contribute to any peace effort.
-
-◼️
-
-[Data](articles/43e6afe8.json)
-
-[Extended Data](ext_articles/43e6afe8.ext.json)
-
----
-
-### Harris tells Netanyahu ‘it is time’ to end war in Gaza
-
-*2024-07-27 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100810/harris-tells-netanyahu-it-is-time-to-end-war-in-gaza) · `en`
-
-Vice President Kamala Harris on Thursday said she urged Israeli Prime Minister Benjamin Netanyahu to reach a cease-fire deal soon with Hamas so that dozens of hostages held by the militants in Gaza since Oct. 7 can return home.
-
-Harris said she had a “frank and constructive” conversation with Netanyahu in which she affirmed Israel’s right to defend itself but also expressed deep concern about the high death toll in Gaza over nine months of war and the “dire” humanitarian situation there.
-
-With all eyes on the likely Democratic presidential nominee, Harris largely reiterated President Joe Biden’s longstanding message that it’s time to find an endgame to the brutal war in Gaza, where more than 39,000 Palestinians have died. Yet she offered a more forceful tone about the urgency of the moment just one day after Netanyahu gave a fiery speech to Congress in which he defended the war, vowed “total victory” against Hamas and made relatively scant mention of cease-fire negotiations.
-
-...
-
-[Data](articles/a425aba3.json)
-
-[Extended Data](ext_articles/a425aba3.ext.json)
-
----
-
-### Treasury Ready to provide funds for presidential election: Finance Ministry
-
-*2024-07-27 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189501) · `ta`
-
-The Treasury, under Finance Minister Ranjith Siyambalapitiya, is prepared to allocate funds for the upcoming presidential election upon the Election Commissioner's request. This year's budget includes 10 billion rupees for election-related expenses, ensuring no issues with money laundering. The Treasury can also meet emergency needs like printing materials, security, and fuel for voting booths. Despite potential increases in candidate numbers or costs, current funds are sufficient to cover election expenditures.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has said that the Treasury is ready to provide funds for the presidential election at the request of the Election Commissioner.
-
-10 billion rupees has been allocated for election activities in this year's budget. The economy has been appropriately integrated to release funds so that there is no conflict among money laundering.
-
-The Election Commissioner's Office has sent an estimated cost of about Rs 8 billion. The Treasury is ready to provide funds for any emergency requirement, such as printing, safety, fuel voting boxes.
-
-He said there is no problem with the current funds to deal with the expenditure of such activities if the number of candidates contesting the presidential election increases and the estimated cost is increased.
-
-◼️
-
-[Data](articles/aab9ffc1.json)
-
-[Extended Data](ext_articles/aab9ffc1.ext.json)
-
----
-
-### Action to produce 90 % of the drug - Minister of Health
-
-*2024-07-27 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189492) · `ta`
-
-The Ministry of Health announced that starting next year, 90% of drugs will be produced domestically, building on efforts led by Professor Senaka Bibile to boost the nation's pharmaceutical industry. Currently, around 25% of essential medicines in government facilities come from local manufacturers.
-
-🟩
-
-The Ministry of Health said that 90 percent of the drug has been taken to produce locally from next year.
-
-Minister Ramesh Pathirana said that the uprising of domestic drug production is being built on the basis of efforts launched by Professor Senaka Bibile to improve the country's industry.
-
-Minister Pathirana pointed out that about 25 percent of the essential medicines used in government hospitals and clinics are distributed by domestic producers.
-
-◼️
-
-[Data](articles/18e5696b.json)
-
-[Extended Data](ext_articles/18e5696b.ext.json)
-
----
-
-### Notice on issuing new e-passports
-
-*2024-07-27 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/100809/notice-on-issuing-new-e-passports-) · `en`
-
-The Government of Sri Lanka is scheduled to commence the provision of new, efficient and safe e- Passports to Sri Lankans with effect from 01 January 2025, the Department of Immigration and Emigration announced.
-
-Issuing a statement in this regard, the Department of Immigration and Emigration stated that accordingly, the methodology of applying for Passports will be executed as a new methodology for the ease of Passport applicants.
-
-Thus, a prior registration shall be made on the link https://www.immigration.gov.lk for applying for Sri Lankan Passports with effect from 16 July 2024, the statement highlighted.
-
-Furthermore, it is requested that only the passport applicants who have prior registration to visit the Head office and Regional offices of the Department of Immigration and Emigration and to refrain from visiting the Department of Immigration and Emigration without a prior registration.
-
-...
-
-[Data](articles/31073a44.json)
-
-[Extended Data](ext_articles/31073a44.ext.json)
-
----
-
-### The Olympic Festival begins
-
-*2024-07-27 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199256) · `si`
-
-The 33rd Olympic Games, dubbed the "Great Sports Carnival of the Universe," opened in Paris, France, marking its third hosting. The inauguration was unique, taking place outside the stadium for the first time, focusing on Paris Kandy. With 10,714 athletes from 32 nations competing in 321 events, it was a grand affair attended by numerous world leaders. Notably, Nino Solukwarai, a 55-year-old athlete with nine Olympic appearances and three medals, carried the torch. The Sri Lankan team, consisting of six athletes, notably included Nadeha Secretary, representing badminton and women's spelling. The U.S. led with 594 athletes, followed by France with 572. The ceremony highlighted French culture, featured performances by Celine Dion, and saw the Olympic flame lit by a hot air balloon, a departure from tradition.
-
-🟩
-
-The 33th commenced in Paris, France, was held at the 33rd unfolding of the Olympic Games known as the Great Sports Carnment of the Universe.
-
-The Paris Olympic organizers had acted outside the Olympic Festival inauguration outside the first stadium in history.
-
-Accordingly, the inauguration of the Paris Olympic Festival was centered in Paris Kandy.
-
-This is the third time the Olympics will be held in France and is an Olympic awake in France.
-
-Several heads of state and many other state leaders, including the inauguration ceremony of the Paris Olympics centered on Paris, is centered on the Olympics centered ceremony.
-
-With 10,714 players participating in 32 countries, 32,714 attendees participated in the inaugurated ceremony with 10,714 players attending 321 events.
-
-This year, the Olympic inauguration traditionally, traditionally journeyed in Greece.
-
-The Olympic team and other team participating under the Olympic team and other team joined the inauguration of the Seed Zone.
-
-...
-
-[Data](articles/4feb1cbc.json)
-
-[Extended Data](ext_articles/4feb1cbc.ext.json)
-
----
-
-### Legal action if selling the bundle at high prices
-
-*2024-07-27 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189495) · `ta`
-
-The Consumer Affairs Authority (CAA) threatens legal action against sellers not adhering to the reduced price of 450g of bon. CAA Chairman TI issues directives, while raids lead to charges against 210 individuals for illegal weighing and measurement practices.
-
-🟩
-
-The price of a 450 grams of bon is reduced by 10 rupees. In this case, the Consumer Affairs Authority (CAA) has said that legal action will be taken against the owners who will not sell the new price at a reduced price.
-
-Consumer Affairs Authority Chairman TI. He has issued a directive to the officials of the Uttara Intelligence Agency.
-
-Meanwhile, the Colombo District Assistant Measurement Unit Service Service Superintendent Dilruk Patiyapola said that 210 persons have been taken against 210 persons during the raid on legal weight and measuring equipment from January to the present.
-
-◼️
-
-[Data](articles/c5635745.json)
-
-[Extended Data](ext_articles/c5635745.ext.json)
 
 ---

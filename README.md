@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 18:13:43**
+As of **2024-07-28 18:25:20**
 
 ## Newspaper Stats
 
-*Scraped **37,689** Articles*
+*Scraped **37,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
 adalk | 3,433
-adaderanalk | 4,368
+adaderanalk | 4,369
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
 virakesarilk | 5,917
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,344
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,688 (100.0%) of 37,689 articles have been extended.
+37,689 (100.0%) of 37,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### Government to transform 1,250 schools into ‘Smart Schools’
+
+*2024-07-28 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100839/government-to-transform-1250-schools-into-smart-schools-) · `en`
+
+Minister of Education Susil Premajayantha has unveiled the government’s plan to transform 1,250 of the country’s top schools into “smart schools” which enables a centralized management of school proceedings from the Ministry of Education (MOE) at once.
+
+He revealed that this initiative will be backed by a USD 20 million aid package from China.
+
+Minister Premajayantha made these remarks during an event held at Sirimavo Bandaranaike Vidyalaya in Colombo, where all classrooms from grades 1 to 5 were upgraded to smart classrooms.
+
+Premajayantha also highlighted the progress of the new education system, set to be implemented next year for grades 1-6 and 6-10 is nearing completion. He confirmed that the learning modules have been finalized, and the text books are expected to go to the print within the next two weeks.
+
+...
+
+[Data](articles/c3b70d87.json)
+
+---
 
 ### Paris Olympics represent Sri Lanka
 
@@ -316,17 +334,25 @@ On February 02, the CAA issued a gazette notification mandating that the minimum
 
 ---
 
-### මෙරට ප්‍රථම පවුල් සෞඛ්‍ය සේවා නිළධාරිනී පුහුණු පාසල කලුතර දී විවෘත වේ
+### Sri Lanka's first Family Health Services Officer Opens in Kalutara
 
 *2024-07-28 13:53:54* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ප්‍රථම-පවුල්-සෞඛ්‍ය-සේවා-නිළධාරිනී-පුහුණු-පාසල-කලුතර-දී-විවෘත-වේ/11-411044) · `si`
 
-මෙරට ප්‍රථම පවුල් සෞඛ්‍ය සේවා නිළධාරිනී පුහුණු පාසල ඊයේ දින (27) සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් කලුතර ජාතික සෞඛ්‍ය විද්‍යායතනයේ දී විවෘත කෙරිණි. එයට අමතරව  දුරස්ථ අධ්‍යාපන ඒකකය ද ලේකම්වරයා අතින් විවෘත විය.
+Sri Lanka's first Family Health Services Officer Training School, inaugurated by Dr. Palitha Maheepala, aims to enhance healthcare by training a thousand officers annually across 11 centers. Funded by the Asian Development Bank, it includes a remote education unit equipped with advanced communication technology. This initiative, part of the Ministry of Health's broader strategy, seeks to bolster both human and physical resources in the country's healthcare sector.
 
-මෙරට ප්‍රාථමික සෞඛ්‍ය සංරක්ෂණයට අවශ්‍ය මානව හා භෞතික සම්පත් සංවර්ධනය කරමින් මෙරටට අවශ්‍ය සෞඛ්‍ය වෘත්තිකයන් රට තුළ නිර්මාණය කර ගැනීමට සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ විශේෂ උපදෙස් පරිදි සෞඛ්‍ය අමාත්‍යාශය විසින් ගෙනයනු ලබන විශේෂ වැඩපිළිවෙලට සමගාමීව මෙම නව පුහුණු පාසල ස්ථාපිත කෙරිණි.
+🟩
+
+The first Family Health Service Officer Training School of Sri Lanka was declared open by Dr. Palitha Maheepala under the patronage of Dr. Palitha Maheepala, Secretary to the Ministry of Health yesterday.. The Secretary opened the remote education unit.
+
+The new training school was established in parallel to the Minister of Health and Industry to develop human and physical resources to develop human and physical resources to develop human and physical resources in Sri Lanka.
+
+Family Health Services Officer is the main training school of the National Health Institute, Colombo, Kadugannawa, Kurunegala, Batticaloa, Batticaloa, Diyatalawa fundersCode of training at the Castle Street Women's Hospital, Colombo, has been launched under the supervision of the Government of the Hospital, Kahawatta Hospital, Mahamraged Hospital, Mahamrapitiya Hospital.
 
 ...
 
 [Data](articles/2e0b2ff4.json)
+
+[Extended Data](ext_articles/2e0b2ff4.ext.json)
 
 ---
 
@@ -2307,25 +2333,5 @@ In addition, the subjects for the GCE Ordinary Level Examination will be reduced
 [Data](articles/f3f7fc3d.json)
 
 [Extended Data](ext_articles/f3f7fc3d.ext.json)
-
----
-
-### European Council. Will extend the ban
-
-*2024-07-27 22:55:49* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපා-කවුන්සිලය-එල්-ටී-ටී-ඊ--තහනම-දිගු-කරයි/11-411029) · `si`
-
-The European Council plans to extend its ban on the LTTE for another six months, preventing the group from fundraising within EU countries and freezing their assets.
-
-🟩
-
-The European Council by LTTE. The Council has taken steps to extend its ban on the organization another six months.
-
-LTTE terrorists were banned. The organization will not be able to collect money among the European Union countries and they will be prohibited if they have their assets.
-
-◼️
-
-[Data](articles/6e1bb02c.json)
-
-[Extended Data](ext_articles/6e1bb02c.ext.json)
 
 ---

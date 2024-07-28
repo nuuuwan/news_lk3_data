@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 16:52:11**
+As of **2024-07-28 17:05:47**
 
 ## Newspaper Stats
 
-*Scraped **37,681** Articles*
+*Scraped **37,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ bbccomsinhala | 365
 islandlk | 2,156
 economynextcom | 2,260
 dailyftlk | 2,405
-adalk | 3,431
+adalk | 3,432
 adaderanalk | 4,367
 tamilmirrorlk | 4,658
 dailymirrorlk | 4,733
 virakesarilk | 5,917
-adaderanasinhalalk | 6,340
+adaderanasinhalalk | 6,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,681 (100.0%) of 37,681 articles have been extended.
+37,681 (100.0%) of 37,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-28 (Sunday)
+
+### 1700 ඉල්ලා වතුකරයේ කළු කොඩි
+
+*2024-07-28 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199304) · `si`
+
+වතු සේවකයින්ගේ දෛනික වැටුප වැඩි කිරීමට අදාළව නිකුත් කර තිබු ගැසට් පත්‍රය අවලංගු කිරිමට එරෙහිව හැටන් නගරයේ උද්ඝෝෂණයක් පැවැත්වුණි.
+
+දමිල ප්‍රගතිශිලි සන්ධානය විසින් එම උද්ඝෝෂණය සංවිධානය කර තිබූ බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+
+මේ සඳහා වතුකම්කරුවන් විශාල පිරිසක් සහභාගී වූ අතර ප්‍රදේශයේ වෙළඳසැල් හා රථවාහනවල කළු කොඩි ඔසවා තිබූ බව ද වාර්තා විය.
+
+උද්ඝෝෂණයට එක්වෙමින් අදහස් දැක් වු දමිල ප්‍රගතිශිලි සන්ධානයේ නියෝජ්‍ය නායක පලනි දිගම්බරම් මන්ත්‍රීවරයා පැවසුවේ වතු කම්කරු වැටුප වැඩිකළ ගැසට් නිවේදනය අවලංගු කිරීම හරහා රජය වතුසේවක ප්‍රජාව මුලාවට ලක් කළ බව ය.
+
+◼️
+
+[Data](articles/bc02d379.json)
+
+---
+
+### ශ්‍රී ලංකා කාන්තා කණ්ඩායමට ලැබුණු ඉලක්කය
+
+*2024-07-28 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199303) · `si`
+
+ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ අවසන් තරගය මේ වනවිට දඹුල්ලේ පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය ඉන්දීය කණ්ඩායම දිනාගත් අතර ඒ අනුව පළමුව පන්දුවට පහරදීමට ඔවුන් තීරණය කළේය.
+
+ඔවුන් සිය පන්දු ඕවර 20 අවසානයේදී කඩුලු 6ක් දැවී ලකුණු 165ක් රැස් කළේය.
+
+ඉන්දීය කණ්ඩායම වෙනුවෙන් අගනා පිති හරඹයක නිරත වූ ස්මිත්‍රි මන්ධනා පන්දු 47කදී ලකුණු 60ක් රැස් කළාය.
+
+රිෂා ගෝෂ් ලකුණු 30යි. නමුත් ඇය, කවීෂා දිල්හාරි යැවූ 19 වන පන්දු ඕවරයේ පළමු පන්දුවට කඩුලු රකින්නිය අතට උඩපන්දුවක් ලබාදුන් අතර ප්‍රධාන විනිසුරුවරිය එය දැවී යාමක් නොවන බවට සංඥා කළාය.
+
+එම පන්දු ඕවරයේදී ලකුණු 18ක් ලබාගැනීමට ඉන්දීය ක්‍රීඩිකාවෝ සමත් වූවෝය.
+
+◼️
+
+[Data](articles/23ae413e.json)
+
+---
 
 ### Maduro's passenger and Venezuela presidential election
 
@@ -223,6 +263,24 @@ According to the Minister said that after the year 2028, the Diploma holders wil
 [Data](articles/3835dcc0.json)
 
 [Extended Data](ext_articles/3835dcc0.ext.json)
+
+---
+
+### ඇමෙරිකාවේ කෝටිපති ඉංජිනේරුවෙක් ලංකාවේදි පැවැදි දිවියට
+
+*2024-07-28 13:47:52* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-කෝටිපති-ඉංජිනේරුවෙක්-ලංකාවේදි-පැවැදි-දිවියට/10-411043) · `si`
+
+ඇමරිකාවේ කැලිෆෝනියාවේ ප්‍රකට දානපති ඉංජිනේරුවකුවූ ජොහාන්ස් ලූඩෝස් මහතා කැලිෆෝනියාවේ සරණ හිමි නමින් කරන්දෙණිය ගලගොඩ ශෛලතලාරාමයේදී සසුන්ගත වූහ. ඒ ගලගොඩ ශෛලතලාරාමාධිපති කුඩුමීරියේ සෝමිස්සර හිමියන්ගේ ශිෂ්‍යයකු ලෙසය.
+
+බුදු දහම ගැන දීර්ඝ අධ්‍යනයකින් පසු බුදු දහම පිළිබදව පැහැදී තමා මෙසේ සසුන් ගතවූ බව මේ සම්බන්ධයෙන් අදහස් දැක්වූ කැලිෆෝනියාවේ සරණ හිමියෝ කීහ.
+
+තමා ගිහියෙකු ලෙස සිට වෘත්තීමය ඉංජිනේරුවකු ලෙස සේවය කරමින් හා ව්‍යාපාරිකයකු ලෙස සාර්ථකවෙමින් මේ වන විට මිලියන ගනන් මුදල් හරිහම්බ කරගෙන සිටින බවත් ඒ කිසිවකින් තමාට නොලැබූ සතුට බුදු දහමින් ලැබූ බවද සරණ හිමියෝ පැවසූහ.මෙහි සියලුම ගෞරවය සහ පිං සිය ගුරු හාමුදුරුවන් වන කුඩුමීරියේ සෝමිස්සර හිමියන්ට ලැබිය යුතු බවත් උන්වහන්සේ තමාට ගැඹුරු බුදු දහම ඉතා සරලව අවබෝධ කර දුන් බවද උන්වහන්සේ කීහ.
+
+විදෙස් රටක පළමු පැවිදි ශිෂ්‍යා කැලිෆෝනියාවේ  සරණ හිමියන් බවත් උන්වහන්සේ ගිහි කළ ඇති තරම් ලෞකික සැප සම්පත් විද ඇති බවත් පැවසූ කුඩුමීරියේ සෝමිස්සර හිමියෝ දැනුණුද සරණ හිමියන්ට ලෝකයේ ඕනෑම රටකට යෑමට වීශා ඇති බවත් ඒ සදහා ගුවන් බලපතද නොමිලයේ ලැබෙන බවත් පැවසූහ.
+
+...
+
+[Data](articles/ce93e586.json)
 
 ---
 
@@ -2259,61 +2317,5 @@ The resignation of the tree is already in progress, "Ada Derana reporter said.
 [Data](articles/9cfbfa95.json)
 
 [Extended Data](ext_articles/9cfbfa95.ext.json)
-
----
-
-### NPP aims to establish govt. with trust of all communities – Anura Kumara
-
-*2024-07-27 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/100823/npp-aims-to-establish-govt-with-trust-of-all-communities-anura-kumara) · `en`
-
-Leader of the National People’s Power (NPP) Anura Kumara Dissanayake called upon Sri Lanka’s Muslim community to join hands with the NPP in establishing a united government.
-
-Addressing the Galle district rally of the NPP’s Muslim Brotherhood, he further went on to emphasize that the NPP expects to establish a united government which commands the trust of all communities in Sri Lanka, adding that his party will come into power with the aim of developing Sri Lanka.
-
-Speaking further, the NPP Leader said: “The NPP must establish a government that has the trust of the Tamil, Muslim and Sinhala communities. Creating a united government is the expectation of the NPP. Winning the election with the Sinhala votes alone is not enough for us. To win, Sinhala votes are enough. However, such a victory is not enough for us.
-
-...
-
-[Data](articles/3719fb2f.json)
-
-[Extended Data](ext_articles/3719fb2f.ext.json)
-
----
-
-### Cannabis Constable suspension
-
-*2024-07-27 21:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-போட்ட-கான்ஸ்டபிள்-இடைநீக்கம்/175-341110) · `ta`
-
-A Kaluppitti Police Constable was suspended for attempting to arrest a group of youths found with cannabis in their vehicle during a routine check.
-
-🟩
-
-A Constable Constable of Kaluppitti Police has been suspended for allegedly trying to arrest a group of youths in the vehicle while checking the vehicle.
-
-When a group of youths were traveling in the car, a group of police officers parked the car and went to the arrest of youths in a car with cannabis in a car.
-
-◼️
-
-[Data](articles/f9f79816.json)
-
-[Extended Data](ext_articles/f9f79816.ext.json)
-
----
-
-### Treasury ready to release funds for election at any time as required - state minister
-
-*2024-07-27 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/100822/treasury-ready-to-release-funds-for-election-at-any-time-as-required-state-minister-) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya assured that funds required for the 2024 Presidential Election will be released by the Treasury on any occasion as required.
-
-Siyambalapitiya expressed that the Election Commission has sent the Ministry of Finance an estimation of nearly Rs. 8 billion for election expenses, adding that the Treasury has sufficient funds for election purposes.
-
-Furthermore, the State Minister said that if the number of candidates running for the presidential election increases and the estimated cost increases, there will be no issue as the government has already allocated additional funds for uncertain election related activities.
-
-◼️
-
-[Data](articles/7ebbd908.json)
-
-[Extended Data](ext_articles/7ebbd908.ext.json)
 
 ---

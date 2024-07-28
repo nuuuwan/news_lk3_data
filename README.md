@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-28 15:05:31**
+As of **2024-07-28 15:20:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,675 (100.0%) of 37,678 articles have been extended.
+37,678 (100.0%) of 37,678 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ In addition to guidelines for government officials, the circular will also issue
 
 [Data](articles/57929e62.json)
 
+[Extended Data](ext_articles/57929e62.ext.json)
+
 ---
 
-### කාසියේ වාසිය ඉන්දියාවට
+### India to benefit from the coin
 
 *2024-07-28 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199300) · `si`
 
-කාන්තා ක්‍රිකට් ආසියානු කුසලාන තරගාවලියේ අවසන් තරගය දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
+India, led by Hermanpioth Kororite, won the toss in the Women's Cricket Tournament final against Sri Lanka, set to take place at the Dambulla International Cricket Stadium.
 
-ඒ ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සහ ඉන්දීය කාන්තා ක්‍රිකට් කණ්ඩායම අතරය.
+🟩
 
-එහි කාසියේ වාසිය දිනා ගැනීමට ඉන්දීය නායිකා හර්මන්ප්‍රීත් කෞර්  සමත් වූවාය.
+The final will be held at the Dambulla International Cricket Stadium in the Women's Cricket Tournament.
+
+It is the Sri Lankan women's cricket team and Indian women's cricket team.
+
+Indian leader Hermanpioth Kororite was able to win the toss of its coin.
 
 ◼️
 
 [Data](articles/de2dcb38.json)
+
+[Extended Data](ext_articles/de2dcb38.ext.json)
 
 ---
 
@@ -356,21 +364,31 @@ In addition, a woman working at a club in Colombo has been arrested by customs o
 
 ---
 
-### පොහොට්ටුවෙන් අපේක්ෂකයෙක් ඉදිරිපත් නොකිරිමට මහින්දගේ වැඩි කැමැත්ත?
+### Mahinda's most willingness to offer a candidate from pointer?
 
 *2024-07-28 12:37:58* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-අපේක්ෂකයෙක්-ඉදිරිපත්-නොකිරිමට-මහින්දගේ-වැඩි-කැමැත්ත-/11-411041) · `si`
 
-ඉදිරි ජනාධිපතිරණයේදී අපේක්ෂකයකු තෝරාපත්කර ගැනීම සඳහා වන ශ්‍රී ලංකා පොදුජන පෙරමුණේ විධායක සභාවේ විශේෂ සාකච්ඡාවක් පක්ෂ නායක මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් හෙට (29) පස්වරු 4.00 ට කොළඹ විජේරාම මාවතේ පිහිටි හිටපු ජනාධිපතිවරයාගේ නිවසේදී පැවැත්වේ.
+Mahinda Rajapaksa, Sri Lanka's General President, will convene a meeting to select a presidential candidate. The majority of MPs support this decision, but there's uncertainty about whether the Sri Lanka General Front will unite behind one candidate. Political sources indicate divisions within the group, with some favoring separate candidacies. Despite this, it's suggested that the party might still decide to present a unified candidate.
 
-ශ්‍රී ලංකා පොදුජන  පෙරමුණේ බහුතර පාර්ලිමේන්තු මන්ත්‍රීවරුන් පිරිසක් තම සහය  ‍ප්‍රසිද්ධියේ ප්‍රකාශ කර ඇති අතර  පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් කළ යුතු බවට තවත් පිරිසකගේ මතය වී තිබේ.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ දෙකඩ වනවාද නොඑසේනම් එක්ව ඉදිරියට ගමන් කරනවාද නැද්ද යන්න මෙම සාකච්ඡාවේදී තීරණය වනු ඇතැයි දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+A special discussion of the Sri Lanka General President Mahinda Rajapaksa will be held at the Executive Committee of the Sri Lanka Candidate to elect a candidate at the next Presidential Secretariat tomorrow at 4.00 pm at Wijerama Mawatha, Colombo Mawatha.
 
-ඉකුත් සතියේදී ශ්‍රී ලංකා පොදුජන පෙරමුණේ දිස්ත්‍රික් නායකයන් 12 දෙනෙකු සහ අමාත්‍යවරුන් 18 දෙනෙකු මන්ත්‍රීවරුන් 30 දෙනෙකු ස්ථාන කීපයකදී සාකච්ඡා පවත්වා ජනාධිපතිවරයා ප්‍රමුඛ ආණ්ඩුවේ ආර්ථික වැඩපිළිවෙළට සහාය දැක්වීමට තීරණය බවද දේශපාලන ආරංචි මාර්ග පවසයි.
+The majority of MPs of Sri Lanka General (SLC general) have publicly expressed their support and the opinion of another group of people should be presented by a candidate.
+
+Political sources say that the Sri Lanka General Front will be divided or not to jointly.
+
+According to political sources, 12 district leaders and 18 others decided to hold discussions in several places in the Sri Lanka General Year last week.
+
+It has also been said that in Parliament and more than 30 MPs in Parliament and several MPs on behalf of the President Mahinda Rajapaksa should support the government's economic economic program.
+
+So they have pointed out that if other candidates would be divided if the party offers other candidates at the moment.
 
 ...
 
 [Data](articles/6da2df35.json)
+
+[Extended Data](ext_articles/6da2df35.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 01:54:40**
+As of **2024-07-30 02:05:34**
 
 ## Newspaper Stats
 
-*Scraped **37,952** Articles*
+*Scraped **37,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,274
-dailyftlk | 2,426
+dailyftlk | 2,434
 adalk | 3,465
 adaderanalk | 4,396
 tamilmirrorlk | 4,697
@@ -26,11 +26,159 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,952 (100.0%) of 37,952 articles have been extended.
+37,952 (100.0%) of 37,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### Wajira warns against traditional politics at Presidential Poll
+
+*2024-07-30 01:49:48* · [`dailyftlk`](https://www.ft.lk/news/Wajira-warns-against-traditional-politics-at-Presidential-Poll/56-764912) · `en`
+
+UNP MP suggest engaging in traditional politics at Presidential Election could risk return to civil war
+
+Says responsible parties should be held accountable for any potential third civil war
+
+Expresses disappointment at dissemination of misleading information on Economic Transformation bill
+
+Calls on voters to approach upcoming Presidential Election with focus on nation’s future and not out of hatred or revenge
+
+United National Party (UNP) MP Wajira Abeywardana has issued a warning against adhering to traditional political ideologies in the upcoming Presidential Election, suggesting it could risk a return to civil war in the country.
+
+Speaking at a press conference yesterday at the Presidential Media Centre (PMC), themed ‘Collective Path to a Stable Country,’ Abeywardana emphasised the critical nature of the upcoming election on 21 September, which will elect the 9th Executive President of Sri Lanka.
+
+...
+
+[Data](articles/8e8f4854.json)
+
+---
+
+### G.L. slams President’s proposal on Speaker and CJ consultation over Acting IGP appointment
+
+*2024-07-30 01:47:37* · [`dailyftlk`](https://www.ft.lk/news/G-L-slams-President-s-proposal-on-Speaker-and-CJ-consultation-over-Acting-IGP-appointment/56-764911) · `en`
+
+MP Prof. G.L. Peiris calls President’s proposal asking Speaker to consult with CJ as preposterous and warns of severe legal consequences
+
+Stresses any attempt by Speaker to discuss an active case with CJ would constitute contempt of court
+
+Says although Speaker presides over CC it is not a functioning Parliamentary committee and thus subject to court intervention
+
+Freedom People’s Congress (FPC) member MP Prof. G.L. Peiris has denounced President Ranil Wickremesinghe’s recent proposal for the Speaker of Parliament to consult with the Chief Justice regarding an ongoing Supreme Court case about the appointment of the Chief of Police. Peiris described the proposal as preposterous and warned of severe legal consequences.
+
+...
+
+[Data](articles/c289bec3.json)
+
+---
+
+### Presidential aspirant Wijeyadasa resigns
+
+*2024-07-30 01:45:36* · [`dailyftlk`](https://www.ft.lk/news/Presidential-aspirant-Wijeyadasa-resigns/56-764910) · `en`
+
+Minister of Justice, Prison Affairs and Constitutional Reforms Dr. Wijeyadasa Rajapakshe
+
+Minister of Justice, Prison Affairs and Constitutional Reforms Dr. Wijeyadasa Rajapakshe yesterday announced his resignation to pursue his candidacy at the 21 September Presidential Election.
+
+Addressing a special media briefing yesterday, Wijeyadasa Rajapakshe announced his decision to step down from his ministerial portfolios to contest the upcoming Presidential Election.
+
+Rajapakshe said he had already informed the relevant authorities of his decision.
+
+...
+
+[Data](articles/d01529a9.json)
+
+---
+
+### ALFT Packaging shines at Drupa Germany, 2024
+
+*2024-07-30 01:42:47* · [`dailyftlk`](https://www.ft.lk/business/ALFT-Packaging-shines-at-Drupa-Germany-2024/34-764909) · `en`
+
+From left: Miraclon Sales Manager – West, South India and Sri Lanka Hrishikesh
+
+Kulkarni, Marketing Manager – Asia Pacific Hersh Lulla, ALFT Packaging Managing
+
+Director Chathura Jayatissa and Miraclon Advanced Print Applications Regional Lead – Modern Flexo Steve Smith
+
+ALFT Packaging, a prominent player in the flexible packaging industry, showcased the potential of Modern Flexo recently at Drupa 2024 held in Germany, the world’s largest trade fair for printing and packaging industry and its technologies. Drupa Germany has been taking place every four years and reputed as a premier industry event all around the world.
+
+Recognised as Miraclon’s Champion of Modern Flexo, ALFT Packaging was featured prominently at the trade fair for its innovative Flexographic printing techniques. Importantly, it was the sole company selected from South Asia as a designated Miraclon Lighthouse project.
+
+...
+
+[Data](articles/e5258764.json)
+
+---
+
+### Court of Appeal extends interim order against Health Minister
+
+*2024-07-30 01:41:08* · [`dailyftlk`](https://www.ft.lk/business/Court-of-Appeal-extends-interim-order-against-Health-Minister/34-764908) · `en`
+
+Status quo to be maintained in relation to “Suwa Siri Pura” Pharmaceutical Production Zone in Oyamaduwa, Anuradhapura until 5 September
+
+The Court of Appeal, on 22 July, extended the injunction which had been granted in March 2024 until 5 September 2024 in Application bearing No.: CA/INJ/3/2024.
+
+The matter was taken up for hearing yesterday in the Court of Appeal, on the Application which was preferred by Spectrum Pharmatech Lanka Ltd, the Zone Developer in the “Suwa Siri Pura” Pharmaceutical Production Zone in Oyamaduwa, Anuradhapura.
+
+...
+
+[Data](articles/bb3300e9.json)
+
+---
+
+### BOI Chief meets with officials of Tianying Inc.
+
+*2024-07-30 01:40:38* · [`dailyftlk`](https://www.ft.lk/business/BOI-Chief-meets-with-officials-of-Tianying-Inc/34-764907) · `en`
+
+The Board of Investment Chairman Dinesh Weerakkody last week had discussions with senior officials of China Tianying Inc. The company based in Beijing, China involved in renewable power generation and hydrogen energy centres. The visiting team also met with officials of several Government agencies
+
+◼️
+
+[Data](articles/ac4c6b23.json)
+
+---
+
+### Qatar Sri Lanka Business Council launched in Doha by Marshad Barry
+
+*2024-07-30 01:38:18* · [`dailyftlk`](https://www.ft.lk/business/Qatar-Sri-Lanka-Business-Council-launched-in-Doha-by-Marshad-Barry/34-764906) · `en`
+
+Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (centre) with office bearers of Qatar Sri Lanka Business Council at the event
+
+Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (right) and President of Qatar Sri Lanka Business Council John Prasad exchanging
+
+documents during launch of Council at Sri Lanka Embassy in Doha
+
+Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (right) and Inthicab Rawoof launching Qatar Sri Lanka Business Council website
+
+Diplomatic relations between the State of Qatar and the Republic of Sri Lanka began officially at the Ambassadorial level (Non-Resident) on 20/07/1976.
+
+...
+
+[Data](articles/bf56dddf.json)
+
+---
+
+### Ravi K says no turning back for Sri Lanka from economic revival and brain gain
+
+*2024-07-30 01:34:53* · [`dailyftlk`](https://www.ft.lk/business/Ravi-K-says-no-turning-back-for-Sri-Lanka-from-economic-revival-and-brain-gain/34-764905) · `en`
+
+Sri Lanka is on the path of economic recovery followed by shifting from brain drain to brain gain, as emphasised by Former Finance Minister and Presidential National Organiser Ravi Karunanayake.
+
+With nearly 3 million Sri Lankans living abroad, there’s significant untapped potential in the expatriate community, many of whom excel in various fields.
+
+To leverage this, strategies should be developed to attract expatriates back to Sri Lanka and encourage their investment and expertise, he said. .
+
+This includes facilitating brain gain through attractive incentives, encouraging periodic returns, and enabling financial investments.
+
+Expatriates can significantly contribute by leading multinational corporations’ Sri Lankan branches, driving technological innovation, and enhancing global competitiveness.
+
+Their international experience and networks can help attract investment, raise global awareness, and bridge skill gaps.
+
+...
+
+[Data](articles/c2db403c.json)
+
+---
 
 ### MillenniumIT ESP welcomes new Board of Directors at MITESP Connect
 
@@ -2073,195 +2221,5 @@ Due to this, it is reported that the Colombo -Kandy main road has been blocked n
 [Data](articles/98a15873.json)
 
 [Extended Data](ext_articles/98a15873.ext.json)
-
----
-
-### Blood test accurately diagnoses Alzheimer’s 90% of the time – study
-
-*2024-07-29 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100855/blood-test-accurately-diagnoses-alzheimers-90-of-the-time-study) · `en`
-
-Scientists have made another major stride toward the long-sought goal of diagnosing Alzheimer’s disease with a simple blood test. On Sunday, a team of researchers reported that a blood test was significantly more accurate than doctors’ interpretation of cognitive tests and CT scans in signaling the condition.
-
-The study, published Sunday in the journal JAMA, found that about 90 per cent of the time the blood test correctly identified whether patients with memory problems had Alzheimer’s. Dementia specialists using standard methods that did not include expensive PET scans or invasive spinal taps were accurate 73 per cent of the time, while primary care doctors using those methods got it right only 61 per cent of the time.
-
-The results, presented Sunday at the Alzheimer’s Association International Conference in Philadelphia, are the latest milestone in the search for affordable and accessible ways to diagnose Alzheimer’s, a disease that afflicts more than 32 million people worldwide.
-
-...
-
-[Data](articles/8301bf34.json)
-
-[Extended Data](ext_articles/8301bf34.ext.json)
-
----
-
-### Complaint against Nurses attending Anura's convention
-
-*2024-07-29 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199329) · `si`
-
-Nurses attending a convention under politician Anura Kumara Dissanayake's patronage were accused of violating election laws by the National Election Commission, citing misuse of uniforms for political propaganda. The People's Movement for Free and Fair Elections also raised concerns. A meeting involving defense chiefs and Election Commission officials was held to address the issue.
-
-🟩
-
-The National All Ceylon Nursing Forum (NHU) nurses' Nurses held yesterday (29) was held at the National JHD yesterday (29) under the patronage of leading the National Power Anura Kumara Dissanayake was a violation of election laws.
-
-The National Election Commission issued a letter to the National Election Commission.
-
-The organization points out that the uniform of the proposal of public taxes is used for political purposes.
-
-The People's Movement for Free and Fair Elections (People's Movement) has referred to the National Election Commission that the act is a violation of election laws.
-
-Meanwhile, a discussion between the Chiefs of Defense and the Election Commission officials was held today (29).
-
-Accordingly, Secretary Defense, Secretary to the Ministry of Defense Vanii Gunatilake and Chief of Defense Staff Mahevendra Silva and others arrived there.
-
-◼️
-
-[Data](articles/60759421.json)
-
-[Extended Data](ext_articles/60759421.ext.json)
-
----
-
-### Today in history
-
-*2024-07-29 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189681) · `ta`
-
-On July 29, 1999, Dr. Neelan Tiruchelvam, an MP for the LTTE, was killed by a suicide bomber while traveling in his car.
-
-🟩
-
-1999 ... The same date on July 29 was the killing of Dr. Neelan Tiruchelvam, a then MP of the Liberation Tigers of Tamil Eelam (LTTE), who was traveling in the car due to an attack on a suicide bomber.
-
-◼️
-
-[Data](articles/16b881aa.json)
-
-[Extended Data](ext_articles/16b881aa.ext.json)
-
----
-
-### Kollan's Komiyam and Kothamalai Komiyam
-
-*2024-07-29 13:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொல்லனின்-கோமியமும்-கொத்தமலை-கோமியமும்/76-341213) · `ta`
-
-In Kollan's Komiyam, workers pee in towers due to a lack of descent facilities. Many hospitals conduct numerous tests but fail to reduce kidney disease cases significantly. A patient with a urinary tract issue visits a doctor, complaining of irritation during urination. Despite the doctor's advice to return after a week for medication and re-examination, the patient brings two large plastic bottles filled with urine for testing, causing confusion and highlighting issues with medical guidance and patient compliance.
-
-🟩
-
-The person who works in the tower cannot come down to urinate down. So there will be urinating there. Like a proverb, Kollan's Komiyam tower.
-
-Many hospitals go to many tests, and the number of people with kidney disease will not decrease. The instructions for the coming elderly are not correct. Thus, there are various incidents.
-
-A patient who was suffering from a urinary tract goes to meet the doctor claiming to be irritated when urinating. After examining the patient, the doctor has said that the patient has been given the medication a week later and re -examined.
-
-However, he was taken to the hospital with two mega -plastic bottles that had been discharged for a week.  போத்தல்கள் என்ன இருக்கின்றது என்று விசாரித்த போதே, விவகாரம் வெளிச்சத்துக்கு வந்தது.
-
-The doctor advised to bring the urine sample a week later for urine testing. However, the relevant patient has brought a weekly extract.
-
-Good times don't open two mega bottles. My nose should be closed if you open.
-
-◼️
-
-[Data](articles/46c48da4.json)
-
-[Extended Data](ext_articles/46c48da4.ext.json)
-
----
-
-### In the Kollan Gomiyam Tower, in the bottles in Kothamalai
-
-*2024-07-29 13:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொல்லனின்-கோமியம்-கோபுரத்தில்-கொத்தமலையில்-போத்தல்களில்/76-341213) · `ta`
-
-In the Kollan Gomiyam Tower, workers face challenges due to its design, leading to health issues like urinary problems. Despite medical advice, patients often fail to adhere to treatment plans, complicating diagnoses and treatments. This situation highlights the importance of proper healthcare guidance and adherence to medical recommendations.
-
-🟩
-
-The person who works in the tower cannot come down to urinate down. So there will be urinating there. Like a proverb, Kollan's Komiyam tower.
-
-Many hospitals go to many tests, and the number of people with kidney disease will not decrease. The instructions for the coming elderly are not correct. Thus, there are various incidents.
-
-A patient who was suffering from a urinary tract goes to meet the doctor claiming to be irritated when urinating. After examining the patient, the doctor has said that the patient has been given the medication a week later and re -examined.
-
-However, he was taken to the hospital with two mega -plastic bottles that had been discharged for a week.  போத்தல்கள் என்ன இருக்கின்றது என்று விசாரித்த போதே, விவகாரம் வெளிச்சத்துக்கு வந்தது.
-
-The doctor advised to bring the urine sample a week later for urine testing. However, the relevant patient has brought a weekly extract.
-
-Good times don't open two mega bottles. My nose should be closed if you open.
-
-◼️
-
-[Data](articles/8c3d3fbe.json)
-
-[Extended Data](ext_articles/8c3d3fbe.ext.json)
-
----
-
-### Minister Wijayadasa Rajapaksa resigns
-
-*2024-07-29 13:24:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාස-රාජපක්ෂ-ඉල්ලා-අස්වෙයි/11-411069) · `si`
-
-Wijayadasa Rajapaksa, Sri Lanka's Minister of Justice and Constitutional Reforms, resigns to run in the upcoming presidential election.
-
-🟩
-
-Wijayadasa Rajapaksa, Minister of Justice and Constitutional Reforms, Vijayadasa has decided to resign from the post. He has resigned from his portfolio to contest the next presidential election.
-
-◼️
-
-[Data](articles/488a1738.json)
-
-[Extended Data](ext_articles/488a1738.ext.json)
-
----
-
-### Chamari's happiness
-
-*2024-07-29 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199328) · `si`
-
-Chamari Atapattu, leading Sri Lanka's women's cricket team, expresses joy over their victories, attributing it to the support from the nation's cricket enthusiasts. She mentions the importance of her team's unity and the pride in bringing the trophy home. The success has been well-received, with high attendance at matches and personal support from family members. This achievement marks a significant moment for Sri Lanka, especially with the men's national team players showing support for the women's team.
-
-🟩
-
-Sri Lanka Leader Chamari, including Sri Lanka women's cricket team is happy to be able to enjoy the Sri Lankan cricket viewers of the defeats.
-
-Speaking further, Chamari stated that he had strengthened his group to attend him.
-
-"I was able to bring the trophy to my country. I think watching a lot of people look forward to the match. Really, happy with cricket to the people of the country. "
-
-Meanwhile, both were sensitive when he went to his mother who had come to her mother who was present to visit the Chamari.
-
-"Very Happy Daughter won a match like this. After her loss, I helped me. I didn't think she was gone home alone, but I lost her desire to his desire. He made his way to go. It is still. "
-
-Meanwhile, the Sri Lankan men's national team players were watching the women's Asian Trophy at the Pallekele at the Pallekele at the Pallekele player's lounge before yesterday.
-
-Shashikala Siriwardena joined the Sri Lankan women participated in a former Sri Lankan leader and Sri Lanka women's cricket.
-
-...
-
-[Data](articles/073abd18.json)
-
-[Extended Data](ext_articles/073abd18.ext.json)
-
----
-
-### A million clash qualifies the vote
-
-*2024-07-29 13:02:45* · [`adalk`](https://www.ada.lk/breaking_news/කලුතරින්-මිලියනයක්-ඡන්දයට-සුදුසුකම්-ලබයි/11-411068) · `si`
-
-In the upcoming 2024 presidential election, 1 million eligible voters from Kalutara District will cast their ballots. This represents a significant increase from the 2019 election, where 955,079 voters were registered, with an additional 711 voters this time around. The area with the highest voter count is Bandaragama.
-
-🟩
-
-2024 Eligible from Kalutara District to vote for the coming presidential electionDeputy Commissioner General Jayaweera Fernando said.
-
-The number of registered votes in Kalutara District of the 2019 presidential election is 955079, and there is an increase of 711 voter turnout.
-
-The highest number of voters in the Kalutara district is Bandaragama.
-
-◼️
-
-[Data](articles/93e9e142.json)
-
-[Extended Data](ext_articles/93e9e142.ext.json)
 
 ---

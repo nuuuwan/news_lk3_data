@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 15:20:44**
+As of **2024-07-29 15:36:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,863 (100.0%) of 37,866 articles have been extended.
+37,866 (100.0%) of 37,866 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -338,21 +338,31 @@ On July 29, 1999, Dr. Neelan Tiruchelvam, an MP for the LTTE, was killed by a su
 
 ---
 
-### கொல்லனின் கோமியமும் , கொத்தமலை கோமியமும்
+### Kollan's Komiyam and Kothamalai Komiyam
 
 *2024-07-29 13:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொல்லனின்-கோமியமும்-கொத்தமலை-கோமியமும்/76-341213) · `ta`
 
-கோபுரத்தில் வேலை செய்து கொண்டிருப்பவன் கீழே சிறுநீர் கழிக்க இறங்கி வந்து போக முடியாது. அதனால் அங்கேயே சிறுநீர் கழித்து விடுவான். இதைப்போல ஒரு பழமொழியாக கொல்லனின் கோமியம் கோபுரத்தில் என்பார்கள்.
+In Kollan's Komiyam, workers pee in towers due to a lack of descent facilities. Many hospitals conduct numerous tests but fail to reduce kidney disease cases significantly. A patient with a urinary tract issue visits a doctor, complaining of irritation during urination. Despite the doctor's advice to return after a week for medication and re-examination, the patient brings two large plastic bottles filled with urine for testing, causing confusion and highlighting issues with medical guidance and patient compliance.
 
-வைத்தியசாலைகளுக்கு பலரும் பல பரிசோதனைகளுக்கு செல்வர், சிறுநீரக நோயால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கையில் குறைவிருக்காது. வரும் வயோதிபர்களுக்கு கூறப்படும் அறிவுரைகள் சரியாக விளங்குவதில்லை. அதனால், பல்வேறு சம்பவங்கள் இடம்பெறுகின்றன.
+🟩
 
-சிறுநீர் சம்பந்தமான நோயால் பாதிக்கப்பட்டிருந்த நோயாளி ஒருவர் சிறுநீர் கழிக்கும்போது எரிச்சல் ஏற்படுவதாக கூறி வைத்தியரை சந்திக்க சென்றுள்ளார் . நோயாளியை பரிசோதித்த பின்னர் வைத்தியரால் நோயாளிக்கு மருந்து வழங்கப்பட்டடு ஒரு வாரத்திற்குப் பிறகு சிறுநீர் மாதிரியைக் கொண்டு வந்து மீண்டும் பரிசோதிக்குமாறு வைத்தியர் கூறியுள்ளார் .
+The person who works in the tower cannot come down to urinate down. So there will be urinating there. Like a proverb, Kollan's Komiyam tower.
 
-எனினும், ஒரு வாரம் வெளியேற்றிய சிறுநீரை இரண்டு மெகா பிளாஸ்டிக் போத்தல்களில் நிரப்பி வைத்தியசாலைக்கு கொண்டு சென்றுள்ளார்.  போத்தல்கள் என்ன இருக்கின்றது என்று விசாரித்த போதே, விவகாரம் வெளிச்சத்துக்கு வந்தது.
+Many hospitals go to many tests, and the number of people with kidney disease will not decrease. The instructions for the coming elderly are not correct. Thus, there are various incidents.
 
-...
+A patient who was suffering from a urinary tract goes to meet the doctor claiming to be irritated when urinating. After examining the patient, the doctor has said that the patient has been given the medication a week later and re -examined.
+
+However, he was taken to the hospital with two mega -plastic bottles that had been discharged for a week.  போத்தல்கள் என்ன இருக்கின்றது என்று விசாரித்த போதே, விவகாரம் வெளிச்சத்துக்கு வந்தது.
+
+The doctor advised to bring the urine sample a week later for urine testing. However, the relevant patient has brought a weekly extract.
+
+Good times don't open two mega bottles. My nose should be closed if you open.
+
+◼️
 
 [Data](articles/46c48da4.json)
+
+[Extended Data](ext_articles/46c48da4.ext.json)
 
 ---
 
@@ -920,19 +930,25 @@ The full announcement issued by the Elections Commission in this regard is as fo
 
 ---
 
-### නිදහස්  පක්ෂයේ තිරණය බදාදා
+### Free party's decision on Wednesday
 
 *2024-07-29 11:13:27* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්--පක්ෂයේ-තිරණය-බදාදා/11-411063) · `si`
 
-ඉදිරි ජනපතිවරණයේදී ශ්‍රී ලංකා නිදහස් පක්ෂ‍ෙය් සහාය ලබාදෙන්නේ කුමන අපේක්ෂකයාට යන්න පිළිබඳව ලබන බදාදා ප්‍රකාශයට පත්කරන බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහ‌‌‌‌ලේකම් දුමින්ද දිසානායක මහතා පැවසීය.
+Duminda Dissanayake, General Secretary of the Sri Lanka Freedom Party (SLFP), announced the party's support for the upcoming presidential election. He emphasized the importance of choosing a leader with proven responsibility and capability to lead the country effectively. This decision was made to ensure the country's progress and stability.
 
-රටේ අනාගතය ගැන සිතන්නේ නම් රටේ වගකිම ලබාගත හැකි එම වගකීම මේ වන විට ඉටු කර ඇති පුද්ගලයෙක් සමග ඉදිරියට යා හැකි බවද ඔහු පැවැසීය.  ‌‌කැකිරාව ආසනයේ පක්ෂ ක්‍රියාකාරීන් පිරිසක් අමතමිිින් ඔහු මේ බව පැවැසීය.
+🟩
 
-"ශ්‍රී ලංකා නිදහස් පක්ෂයේ තීන්දුව මත තමයි, මේ රටේ අනාගත ජනාධිපතිවරයා කවුද කියන එක තීන්දු වෙන්නේ,ශ්‍රී ලංකා නිදහස් පක්ෂයේ අපි කාටද උදව් කරන්නේ කියලා ලබන බදාදා තමයි රටට කියන්න අපි බලාපොරොත්තු වෙන්නේ,මේ රට ඉස්සරහට  ගෙනියන්නපුලුවන් නායකයෙක්ට තමයි අපි උදව් කරන්න ඔ්නකම තියෙන්නේ.එහෙම නැතිව ජනප්‍රිය රැළි එක්ක හෝ, ටී.වී එකේ පේන දේට හෝ සමාජයේ ඇහෙන දේට නෙමෙයි මේ රටේ අනාගතය ගැන කල්පනා කරනවා නම්, මේ රටේ වගකීම ගන්න පුලුවන් මේ වගකීම මේ වෙන කොට ඉෂ්ඨ කරලා පෙන්නලා තියෙන, අත්දැකීමක් තියෙන පුද්ගලයෙක් එක්ක තමයි මේ වැඩේ අපිට කරන්න පුලුවන්කම තියෙන්නේ"
+Sri Lanka Freedom Party General Secretary Duminda Dissanayake said whatever the Sri Lanka Freedom Party would support the SLFP support for the next presidential election.
+
+He said that if the country's responsibility to bear responsibility, the responsibility of the country can proceed with a person who has already accomplished.He was addressing a group of party activists in Kekirawa electorate.
+
+"The Sri Lanka Freedom Party (SLFP) decision is that the SLFP will help you to help us to help the country to help us to take the lead in front of this country.If you think about the future of this country, it can be done with a person who has had this responsibility to be responsible for the popular waves or society without looking at TV or society.Is there "
 
 ◼️
 
 [Data](articles/ae1e8367.json)
+
+[Extended Data](ext_articles/ae1e8367.ext.json)
 
 ---
 
@@ -1913,6 +1929,8 @@ A common difficulty is the abstractness of the concepts. Unlike other subjects t
 ...
 
 [Data](articles/3571dfb9.json)
+
+[Extended Data](ext_articles/3571dfb9.ext.json)
 
 ---
 

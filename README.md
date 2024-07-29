@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 21:35:55**
+As of **2024-07-29 21:55:38**
 
 ## Newspaper Stats
 
-*Scraped **37,926** Articles*
+*Scraped **37,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,170
 economynextcom | 2,273
 dailyftlk | 2,416
 adalk | 3,463
-adaderanalk | 4,393
+adaderanalk | 4,394
 tamilmirrorlk | 4,695
 dailymirrorlk | 4,733
 virakesarilk | 5,984
@@ -26,67 +26,105 @@ adaderanasinhalalk | 6,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,923 (100.0%) of 37,926 articles have been extended.
+37,926 (100.0%) of 37,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### පොහොට්ටුවේ දේශපාලන මණ්ඩල රැස්වීමේදී මොකද වුණේ ?
+### Colombo Port recognized as world’s fastest-growing port in Q1 2024
+
+*2024-07-29 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100865/colombo-port-recognized-as-worlds-fastest-growing-port-in-q1-2024) · `en`
+
+The Secretary to the Ministry of Ports, Naval, and Aviation Services, K. D. S. Ruwanchandra, emphasized that Alphaliner, a prominent research publication in the shipping industry, recognized Colombo Port as the world’s fastest-growing port in the first quarter of 2024 due to its remarkable operational performance and 23.6% growth rate.
+
+He added that the port generated an income of USD 50 million in the first quarter of 2024, emphasizing that the various trade union actions taken in the past did not impede this progress.
+
+Addressing a press briefing held under the series titled “Two Years of Progress and Way Forward”, held at the Presidential Media Centre (PMC) today (29), Secretary to the Ministry of Ports, Shipping, and Aviation Services further elaborated:
+
+...
+
+[Data](articles/32f8e273.json)
+
+---
+
+### What happened at the Politan Board meeting of the Pohost?
 
 *2024-07-29 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199347) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා තම පක්ෂයෙන් වෙනම අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය අද (29) පස්වරුවේ තීන්දු කළේය.
+At the Politan Board meeting of the Pohost, the Sri Lanka General Mannel decided to propose a separate candidate for the Presidential Election. This decision faced opposition from 11 individuals but was supported by 61 members, including the General Secretary General of Parliament Scember Kariyawasam. The candidate presentation date is speculated to be around August 5th or 6th.
 
-එම යෝජනාව සඳහා පොදුජන පෙරෙමුණේ දේශපාලන මණ්ඩලයේ සාමාජිකයින් 11 දෙනෙකු විරුද්ධ වී ඇතැයි වාර්තා වෙයි.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලයේ අද (29) පස්වරුවේ පැවති රැස්වීම සඳහා එහි සාමාජිකයින් 72ක් සහභාගී වී තිබේ.
+The Political Bureau of the Sri Lanka General Mannel (CHOGM) decided to present a separate candidate for the Presidential Election.
 
-2024 ජනාධිපතිවරණයට තම පක්ෂයෙන් වෙනම අපේක්ෂකයෙක් ඉදිරිපත් කිරීම සඳහා පක්ෂ මහ ලේකම් සාගර කාරියවසම් විසින් යෝජනා කර ඇත.
+The proposal has been opposed to the proposal.
 
-එම යෝජනාවට පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලයේ සාමාජිකයින් 61 දෙනෙකු පක්ෂ වී ඇති අතර 11 දෙනෙකු ඊට විරුද්ධවී තිබේ.
+72 members have participated in the meeting held at the Sri Lanka General Front.
 
-මේ අතර ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ඉදිරිපත් කරන අපේක්ෂකයා කවුරුන්ද යන්න අගෝස්තු පස් වනදා හෝ හය වනදා ප්‍රකාශ කරන බව වාර්තා වෙයි.
+The General Secretary General of Parliament Scember Kariyawasam has proposed a separate candidate for the Presidential election to the Presidential election.
+
+The proposal was 61 members of the General Manager the General Secretary of the CEB and 11 persons have opposed it.
+
+Meanwhile, it is reported that the candidate presented by the Sri Lanka Civil Front is said to have stated that the candidate is presented on August 5 or sixth.
 
 ◼️
 
 [Data](articles/7e563e13.json)
 
+[Extended Data](ext_articles/7e563e13.ext.json)
+
 ---
 
-### ஜீவன் தொண்டமானுக்கு நீதவான் வழங்கிய உத்தரவு
+### The magistrate's order to Jeevan Thondaman
 
 *2024-07-29 21:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜீவன்-தொண்டமானுக்கு-நீதவான்-வழங்கிய-உத்தரவு/175-341236) · `ta`
 
-பலத்த பொலிஸ் பாதுகாப்புடன் நீதிமன்றில் ஆஜராகியிருந்த அமைச்சர் ஜீவன் தொண்டமானை சந்தேக நபராக ஏற்றுக்கொள்ளாது மேலதிக விசாரணைகளை மேற்கொண்டு நீதிமன்றில் உண்மைகளை முன்வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் பொலிஸாருக்கு இன்று (29) உத்தரவிட்டார்.
+Nuwara Eliya Magistrate ordered to investigate without naming Minister Jeevan Thondaman as a suspect, directing police to report findings to court.
 
-இன்றைய தினம் 29.7.2024 ஆம் திகதி அமைச்சர் ஜீவன் தொண்டமான் உள்ளிட்ட நான்கு பேர் நுவரெலியா நீதவான் நீதிமன்றத்திற்கு முன்னிலையாகி இருந்தனர்.  ஜீவன் தொண்டமான் சார்பாக சிரேஷ்ட சட்டத்தரணி ஷான் குலதுங்க, சிரேஷ்ட சட்டத்தரணி பெருமாள் ராஜதுரை மற்றும் சிவன்ஜோதி யோகராஜா ஆகியோர்  முன்னிலையாகி இருந்தனர்.
+🟩
 
-நுவரெலியா நீதிமன்ற நீதிபதி  N.W.K.L பிரபூதிகா லங்காங்தனி முன்னிலையில் அவர் முன்னிலையாகி இருந்தார்.
+The Nuwara Eliya District Magistrate today (29) ordered the Nuwara Eliya District Magistrate to present the truth in court, not accepting Jeevan Thondaman as a suspect.
 
-இவ்வழக்கு தொடர்பில் அமைச்சர் ஜீவன் தொண்டமானின் பெயர் எவ்விடத்திலும் பரிந்துரைக்கப்படாத காரணத்தினால் இவ்வழக்கினை எதிர்வரும் ஆகஸ்ட் மாதம் 26 ஆம் திகதிக்கு நீதவான் உத்தரவிட்டார்.
+On 29.7.2024, four others, including Minister Jeevan Thondaman, were present at the Nuwara Eliya Magistrate's Court.Senior Attorney Shan Kulathunga, Senior Attorney Perumal Rajadurai and Shivanjodi Yogarajah were present on behalf of Jeevan Thondaman.
 
-...
+He was present in the presence of Nuwara Eliya Court Judge N.W.K.L Prabhudika Lanka.
+
+The magistrate ordered the magistrate on August 26 as the name of Minister Jeevan Thondaman was not recommended anywhere.
+
+On that day, the magistrate has ordered the Nuwara Eliya Senior Superintendent or Assistant Superintendent of Police to investigate the case and report the trials to the court.. Remble
+
+◼️
 
 [Data](articles/815f9b33.json)
 
+[Extended Data](ext_articles/815f9b33.ext.json)
+
 ---
 
-### ඉදිරි ජනාධිපතිවරණය ගැන පක්ෂ දෙකක් ගන්න යන තීරණය
+### The decision to take two parties about the next presidential election
 
 *2024-07-29 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199346) · `si`
 
-මෙවර ජනාධිපතිවරණය සඳහා වෙනම අපේක්ෂකයකු ඉදිරිපත් නොකර ප්‍රධාන අපේක්ෂකයන්ගෙන් අයකුට සහාය දෙන බව ඉලංගෙයි තමිල් අරසුකච්චි පසු ගිය සිකුරාදා අනාවරණ කළේය.
+The main political parties in Sri Lanka are considering their stance for the upcoming presidential election. The UNP MP leader, Mr. Sridharan, mentioned that a decision would be made during their central committee meeting on August 10 or 11 regarding whether to support a common candidate or focus on resolving issues affecting the Northern Eastern Tamil community. Meanwhile, the All Ceylon Public Congress leader, Rishad Bathiudeen, highlighted the importance of presidential candidates agreeing to their party's 10 demands, including hospital development, before receiving their support.
 
-ඒ අනුව එම පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීධරන් මහතා අද කිලිනොච්චියේ පැවති උත්සවයකින් අනතුරුව මාධ්‍ය වෙත අදහස් පළකරමින් සඳහන් කළේ  සිය පක්ෂය සහාය ලබාදෙන අපේක්ෂකයා සම්බන්ධ අවසන් තීන්දුව එළඹෙන අගෝස්තු මස 10 හෝ 11 වැනිදා ගැනීමට නියමිත බවය.
+🟩
 
-ඉලංගෙයි තමිල් අරසු කච්චි පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීධරන් මහතා,
+Ilangai Thamil Azukkanda, revealed that the main candidates were supporting a separate candidate for the presidential election.
 
-"අපේ මධ්‍යම කාරක සභාව අගෝස්තු 10 හෝ 11 රැස්වෙයි. එහිදී අපි සමහර තීරණ ගන්නවා.  පොදු අපේක්ෂකයෙක්ට සහාය පළකරනවාද? එහෙම නැත්නම් උතුරු නැගෙනහිර දෙමළ ජනතාවගේ ප්‍රශ්නවලට ස්ථිර විසඳුමක් ලබාදෙන බවට ප්‍රතිපත්ති ප්‍රකාශයේ ඇත්නම් එවැනි අපේක්ෂකයෙක්ට සහාය පළකිරීම සම්බන්ධයෙනුත් තීරණයක් ගැනීමට නියමිතය."
+Accordingly, the leader of the UNP MP. Mr. Sridharan told the media after a function in Kilinochchi today.
+
+Illangai Tamil Arasu Kachchi Party. Mr. Sridharan,
+
+"Our central committee meets August 10 or 11. There we make some decisions.  පොදු අපේක්ෂකයෙක්ට සහාය පළකරනවාද? එහෙම නැත්නම් උතුරු නැගෙනහිර දෙමළ ජනතාවගේ ප්‍රශ්නවලට ස්ථිර විසඳුමක් ලබාදෙන බවට ප්‍රතිපත්ති ප්‍රකාශයේ ඇත්නම් එවැනි අපේක්ෂකයෙක්ට සහාය පළකිරීම සම්බන්ධයෙනුත් තීරණයක් ගැනීමට නියමිතය."
+
+Meanwhile, All Ceylon Public Congress leader Rishad Bathiudeen stated in a public rally in Puttalam with the future presidential election.
 
 ...
 
 [Data](articles/4bc4198a.json)
+
+[Extended Data](ext_articles/4bc4198a.ext.json)
 
 ---
 
@@ -2247,29 +2285,5 @@ Currently, the necessary legal framework for bribe and corruption in Sri Lanka, 
 [Data](articles/b767b53c.json)
 
 [Extended Data](ext_articles/b767b53c.ext.json)
-
----
-
-### Vavuniya Divisional Secretariat Officers Demonstration
-
-*2024-07-29 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/189668) · `ta`
-
-On Monday, Vavuniya Divisional Secretariat Officers held a protest outside their office, expressing concerns over their safety and job security. The event was criticized by a civilian who attended a development meeting in Pampaimadu on Thursday. Participants included various officers like Development Officers, Samurdhi Development Officers, and Grama Niladhari.
-
-🟩
-
-The Vavuniya Divisional Secretariat Officers staged a demonstration in front of the office on Monday (29).
-
-The demonstration was condemned by a civilian who was attending a development officer at the Pampaimadu area in Pampaimadu, Vavuniya last Thursday (25).
-
-At the same time, they were protesting against the safety of the state officials and the banners of the banners, such as the safety of their duties.
-
-Divisional Secretariat Officers, Development Officers, Samurdhi Development Officers and Grama Niladhari were present.
-
-◼️
-
-[Data](articles/971e86df.json)
-
-[Extended Data](ext_articles/971e86df.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 03:35:58**
+As of **2024-07-30 03:55:02**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,963 (100.0%) of 37,965 articles have been extended.
+37,965 (100.0%) of 37,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### 2024 ஆம் ஆண்டின் முதல் காலாண்டில் கொழும்பு துறைமுகம் உலகின் வேகமாக வளர்ச்சியடையும் துறைமுகமாக பெயரிடப்பட்டுள்ளது - கே.டி.எஸ்.ருவன்சந்திர
+### In the first quarter of 2024, the port of Colombo has been named the world's fastest growing port - KTS Ru Sandra
 
 *2024-07-30 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189745) · `ta`
 
-2024 ஆம் ஆண்டில் 23.6%  எனும் வேகமான வளர்ச்சி விகிதத்தைப் பதிவுசெய்ததன் மூலம் கொழும்பு துறைமுகம் செயல்பாட்டுச் செயல்திறனில் குறிப்பிடத்தக்க முன்னேற்றத்தை அடைந்துள்ளது. கப்பல் துறையின் முன்னணி ஆராய்ச்சி வெளியீடான Alphaliner, உலகின்  வேகமாக வளரும் துறைமுகமாக கொழும்பு துறைமுகத்தை முதல் காலாண்டில் குறிப்பிட்டுள்ளதாக  கப்பற்றுறை  மற்றும் விமான சேவைகள் அமைச்சின் செயலாளர் கே.டி.எஸ்.ருவன்சந்திர தெரிவித்தார்.
+In Q1 2024, Colombo Port was named the world's fastest-growing port, recording a 23.6% growth rate. It generated $50 million despite previous trade union actions. Improvements include ongoing construction at the ECT and Western terminals, set to open in Feb 2025, and developments at Eastern Terminal, Northern Port, Trincomalee, Galle, and Kankesanthurai ports. Passenger ferry services from India operate weekly at Kankesanthurai. Air travel increased by 25%, with 4.3 million international travels in July 2024 expected to rise to 9 million by year-end, marking a 26.10% growth over July 2023.
 
-அத்துடன், 2024ஆம் ஆண்டின் முதல் காலாண்டில் கொழும்பு துறைமுகம்,50 மில்லியன் அமெரிக்க டொலர் வருமானத்தை ஈட்டியுள்ளதாக சுட்டிக்காட்டிய அவர், கடந்த காலங்களில் மேற்கொள்ளப்பட்ட பல்வேறு தொழிற்சங்க நடவடிக்கைகள் அந்த முன்னேற்றத்தை எட்டுவதற்குத் தடையாக அமையவில்லை எனவும்  செயலாளர் தெரிவித்தார்.
+🟩
 
-இரண்டு வருட முன்னேற்றம் தொடர்பில் ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (29)  நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே துறைமுகங்கள், கப்பற்றுறை மற்றும் விமான சேவைகள் அமைச்சின் செயலாளர் கே. டி.எஸ்.ருவன்சந்திர இதனைக் குறிப்பிட்டார்.
+Colombo port has made significant improvement in operational performance by registering a speedy growth rate of 23.6%by 2024. Alphaliner, the leading research output of the shipping sector, has mentioned the first quarter of the world as the world's fastest growing port, said the Secretary of the Ministry of Shipping and Aviation, KTS Ru Sandra, said.
+
+The Secretary also pointed out that the port of Colombo had earned $ 50 million in the first quarter of 2024, saying that various trade union actions in the past did not prevent the progress.
+
+Secretary to the Ministry of Ports, Shipping and Aviation. TS Ruvansandra said this.
+
+The operation of the Colombo Port has made significant improvement. Colombo port registered the best growth rate by 2024 by 2024. Accordingly, Alphaliner, the leading research release of the shipping industry, announced the port of Colombo as the world's best -developed port in the first quarter of 2024.
 
 ...
 
 [Data](articles/4d9aab3c.json)
+
+[Extended Data](ext_articles/4d9aab3c.ext.json)
 
 ---
 
@@ -166,19 +174,25 @@ The Board of Investment Chairman Dinesh Weerakkody last week had discussions wit
 
 ---
 
-### விஜயதாஸவை வரவேற்று வாழ்த்தினார் ஜீவன்
+### Jeevan welcomed Vijayadasa
 
 *2024-07-30 01:38:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாஸவை-வரவேற்று-வாழ்த்தினார்-ஜீவன்/175-341254) · `ta`
 
-தனது அமைச்சுப் பதவியை நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ  ராஜினாமா செய்ததை வரவேற்ற அமைச்சர் ஜீவன் தொண்டமான்   ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்காக  அமைச்சுப் பதவி துறந்தமை தெரிந்த விடயமாகும் என்றார்.
+Minister Jeevan Thondaman welcomed the resignation of Minister Vijayadasa Rajapaksa but noted that ministry perks couldn't be utilized during the presidential election period. He extended greetings to all candidates, regardless of party affiliation, as they campaign for the presidency.
 
-எவ்வாறாயினும், அமைச்சரவை அந்தஸ்துள்ள அமைச்சராக இருந்து விலகி ஜனாதிபதி தேர்தலில் போட்டியிடும் தருணத்தில் அமைச்சுக்கள் சார்ந்த வரப்பிரசாதங்களை பயன்படுத்த முடியாது என்றார்.
+🟩
 
-எனவேதான், ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர்கள் ஆளும் கட்சி சார்ந்தவர்களாகவோ எதிர்க்கட்சியினை சார்ந்தவர்களாகவோ அல்லது சுயாதீன வேட்பாளர்களாகவோ இருப்பினும் தனது அமைச்சு பொறுப்பிலிருந்து விலகி தேர்தலில் போட்டியிடுவதினை நான் வரவேற்கின்றேன் அதேவேளை வெற்றிப்பெறவும் வாழ்த்துகின்றேன் என தெரிவித்தார்.
+Minister Jeevan Thondaman welcomed the resignation of the Minister of Justice Vijayadasa Rajapaksa.
+
+However, he said that the ministries -based gifts could not be used at the moment when the Cabinet was quit the presidential election and contesting the presidential election.
+
+This is why the candidates contesting the presidential election, whether they are the ruling party, the opposition, or the independent candidates, are welcomed and congratulated the election and congratulate him while they are contesting the election.
 
 ◼️
 
 [Data](articles/803c4909.json)
+
+[Extended Data](ext_articles/803c4909.ext.json)
 
 ---
 

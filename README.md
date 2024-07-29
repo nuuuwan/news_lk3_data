@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 18:15:48**
+As of **2024-07-29 18:28:10**
 
 ## Newspaper Stats
 
-*Scraped **37,894** Articles*
+*Scraped **37,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,146 @@ colombotelegraphcom | 360
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,170
-economynextcom | 2,267
+economynextcom | 2,273
 dailyftlk | 2,416
-adalk | 3,458
-adaderanalk | 4,391
-tamilmirrorlk | 4,692
+adalk | 3,459
+adaderanalk | 4,392
+tamilmirrorlk | 4,693
 dailymirrorlk | 4,733
 virakesarilk | 5,976
-adaderanasinhalalk | 6,373
+adaderanasinhalalk | 6,375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,892 (100.0%) of 37,894 articles have been extended.
+37,894 (100.0%) of 37,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### அரச அச்சகத்துக்கு அதியுச்ச பாதுகாப்பு
+### ரணிலை கைவிட்டது மொட்டு
+
+*2024-07-29 18:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-கைவிட்டது-மொட்டு/175-341233) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன சின்னத்தின் கீழ் வேட்பாளர் ஒருவரை களமிறக்க இன்று தீர்மானிக்கப்பட்டதாக கட்சியின் பொதுச் செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+
+இதன்படி, தற்போதைய ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஸ்ரீலங்கா பொதுஜன பெரமுன ஆதரவு வழங்காது எனவும் அவர் கூறினார்
+
+◼️
+
+[Data](articles/a8ddd02d.json)
+
+---
+
+### SLPP decides not to support Ranil at prez poll, to field own candidate
+
+*2024-07-29 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100863/slpp-decides-not-to-support-ranil-at-prez-poll-to-field-own-candidate) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) will not support current President Ranil Wickremesinghe in the forthcoming Presidential Election, SLPP MP Sagara Kariyawasam said.
+
+Meanwhile, he said that the Politburo of the SLPP decided to field a Presidential Candidate of its own.
+
+Furthermore, Kariyawasam expressed that the party will further look into qualified individuals to contest for the presidency and that the person with the most likelihood to win will officially be named the candidate of the SLPP during the upcoming days.
+
+◼️
+
+[Data](articles/6e6da0e5.json)
+
+---
+
+### රනිල්ට පොහොට්ටුවේ සහාය නෑ
+
+*2024-07-29 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199341) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් පොහොට්ටුව ලකුණ යටතේ අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට තීරණය කර තිබේ.
+
+ඒ අද (29) හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ නිවසේ පැවති දේශපාලන මණ්ඩලය රැස්වීමෙන් අනතුරුවය.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් පොදුජන පෙරමුණේ මහ ලේකම් සාගර කාරියවසම් මහතා පවසා සිටියේ, මෙම තීරණයට විරුද්ධ අය සිටී නම් හෝ පක්ෂයේ අනුමැතියෙන් තොරව ජනාධිපතිවරණයට ඉදිරිපත් වන්නේ නම් වහාම එම පුද්ගලයා සම්බන්ධයෙන් විනය ක්‍රියාමාර්ග ගැනීමට තීරණය කළ බවය.
+
+තම පක්ෂය තුළින්ම අපේක්ෂකයෙකු ඉදිරිපත් කරන බැවින් වත්මන් ජනාධිපතිවරයාට සහාය දැක්වීමට හැකියාවක් නොමැති බව ද සාගර කාරියවසම් මහතා වැඩිදුරටත් මෙහිදී ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/5ae47daa.json)
+
+---
+
+### Sri Lanka to hold key security units in airport deal with India-Russia consortium
+
+*2024-07-29 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-hold-key-security-units-in-airport-deal-with-india-russia-consortium-174245/) · `en`
+
+ECONOMYNEXT – Sri Lanka will hold key units related to national security and rescue when handing over its Chinese-built airport operations to a consortium between Indian and Russian firms, a top government official said.
+
+The island nation is in the process of handing over the $209 million Chinese-funded airport to a consortium between Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia after it won the contract to manage Mattala Rajapaksa International Airport for 30 years.
+
+The airport was once dubbed the “world’s emptiest airport” because of a lack of flights. It has incurred a loss of 3 billion rupees (US$10 million) annually since it was started in 2013 by former leader Mahinda Rajapaksa, who borrowed heavily for post-war infrastructure in his second tenure of 2010-2015.
+
+The Indian-Russian consortium was chosen despite the United States having informed Sri Lanka government about a US sanction on the key stakeholder of the Moscow firm.
+
+...
+
+[Data](articles/e4ec291f.json)
+
+---
+
+### Excessive security
 
 *2024-07-29 17:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அச்சகத்துக்கு-அதியுச்ச-பாதுகாப்பு/175-341231) · `ta`
 
-ஜனாதிபதித் தேர்தல் தொடர்பான ஆவணங்களை அச்சிடும் அரச அச்சகத்திற்கு இன்று (29) முதல் விசேட பொலிஸ் பாதுகாப்பு வழங்கப்பட்டுள்ளது.
+Since today, the State Press receives special police protection for printing election-related documents. A dedicated police station will ensure its security. Police investigated the printer's safety. Documents for the Election Commission have been submitted.
 
-மேலும் அரசு அச்சகத்தின் பாதுகாப்பிற்காக தனி பொலிஸ் காவல் நிலையம் அமைக்கப்பட உள்ளதாக தகவல் வெளியாகியுள்ளது.
+🟩
 
-அரசு அச்சகத்தின் பாதுகாப்பு குறித்து ஆராய்வதற்காக பொலிஸ்  அதிகாரிகள் குழுவொன்று அச்சகத்துக்கு சென்றிருந்தது.
+Special police protection has been provided to the State Press for printing documents related to the presidential election since today (29).
 
-ஜனாதிபதித் தேர்தல் தொடர்பான பல ஆவணங்கள் ஏற்கனவே தேர்தல்கள் ஆணைக்குழுவிடம் கையளிக்கப்பட்டுள்ளதாக அரசாங்க அச்சக அதிகாரி திருமதி கங்கானி கல்பனா லியனகே தெரிவித்தார்
+It is also reported that a separate police police station is to be set up for the security of the state printing press.
+
+A team of police officers went to the printing press to investigate the security of the state printer.
+
+Government Press Officer Mrs. Kangani Kalpana Liyanage said that several documents relating to the presidential election have already been handed over to the Election Commission.
 
 ◼️
 
 [Data](articles/316d555c.json)
+
+[Extended Data](ext_articles/316d555c.ext.json)
+
+---
+
+### රුසියාවේ දුම්රියක් පීලි පනී - 100 දෙනෙකුට තුවාල
+
+*2024-07-29 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199340) · `si`
+
+රුසියාවේ මගී දුම්රියක් පීලි පැනීමෙන් සිදුවූ අනතුරකින් පුද්ගලයින් 100 දෙනෙකු පමණ තුවාල ලබා තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ දුම්රිය මැදිරි 08ක් පීලි පැනීමට ලක්ව ඇති බවය.
+
+රුසියාවේ දකුණු වොල්ගොග්‍රෑඩ් ප්‍රදේශයේ ධාවනය වෙමින් තිබූ මගී දුම්රියක් මෙලෙස පීලි පැනීමට ලක්ව ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/31688331.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 302.63/73 to US dollar
+
+*2024-07-29 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-63-73-to-us-dollar-174264/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 302.63/73 to the US dollar on Monday, from 303.10/20 to the US dollar on Friday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.45/55 percent, up from 10.40/50 percent.
+
+A bond maturing on 15.12.2027 closed at 11.80/12.00 percent, up from 11.68/78 percent.
+
+A bond maturing on 15.09.2029 closed at 12.15/25 percent, up from 12.14/18 percent. (Colombo/Jul29/2024)
+
+◼️
+
+[Data](articles/f0358632.json)
 
 ---
 
@@ -65,6 +171,30 @@ During the hearing of the case on July 22, Nuwara-Eliya Police had stated before
 [Data](articles/b9589aa3.json)
 
 [Extended Data](ext_articles/b9589aa3.ext.json)
+
+---
+
+### Sri Lanka stocks close down, turnover low
+
+*2024-07-29 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-low-174246/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.12 percent, or 14.37 points, at 11,619; while the more liquid S&P SL20 Index closed down 0.48 percent, or 16.35 points, at 3,369.
+
+Turnover was the lowest since the beginning of this year, at 376 million.
+
+“There was a very minimal amount of activity in the market today,” Softlogic Stockbrokers said. “One reason could be that it is the month end, and usually settlement happens.
+
+There was a very little foreign activity in the market. A net foreign inflow of 1.7 million rupees was recorded.
+
+Foreign buying was seen in L B Finance Plc (down at 66.70), John Keells Holdings Plc (down at 191.00), and People’s Leasing and Finance Plc (up at 12.40).
+
+Foreign selling was seen in Chevron Lubricants Lanka Plc (down at 119.00), ACL Plastics Plc (up at 438.75), and Aitken Spence Hotel Holdings Plc (up at 65.00).
+
+...
+
+[Data](articles/0ecdef94.json)
 
 ---
 
@@ -120,19 +250,25 @@ The arrested is a 26-year-old resident of Valagama South, Delegama in the Devil.
 
 ---
 
-### විජයදාසට එරෙහි වාරණය තවදුරටත්
+### Block against Wijayaka
 
 *2024-07-29 16:46:38* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-එරෙහි-වාරණය-තවදුරටත්/11-411071) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ හා ලේකම්වරයා ලෙස සාරථි දුෂ්මන්ත මිත්‍රපාලට එම ධුරවල කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය තවදුරටත් දිර්ඝ කර තිබෙනවා.
+The Colombo District Court injunction against Wijayaka, led by SLFP ministers Mahinda Amaraweera, Lasantha Alagiyawanna, and Duminda Dissanayake, has been extended until September 24.
 
-සැප්තැම්බර් මස 24 වන දා දක්වා එම නියෝගය දීර්ඝ කරණ ලෙස කොළඹ දිසා අධිකරණය අද (29) නියෝග කර ඇති බවයි සඳහන් වෙයි.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ අමාත්‍ය මහින්ද අමරවීර, ලසන්ත අලගියවන්න සහ දුමින්ද දිසානායක යන අය විසින් ඉදිරිපත් කළ පැමිණිල්ලක් යළි කැඳවීමෙන් පසු අද දින එම නියෝග නිකුත් කර තිබෙනවා. ( I J)
+As the Acting Chairman and the Secretary of the Sri Lanka Freedom Chairman has further extended the injunction to the Allem of Sarathi Villami Mithrapala.
+
+It is said that the Colombo District Court today (29th) has been ordered to be extended until September 24.
+
+Sri Lanka Freedom Party (SLFP) Minister Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake have issued the orders today. (I J)
 
 ◼️
 
 [Data](articles/b8974157.json)
+
+[Extended Data](ext_articles/b8974157.ext.json)
 
 ---
 
@@ -498,6 +634,28 @@ Sri Lanka Freedom Chairman Minister Nimal Siripala de Silva and several others w
 
 ---
 
+### Sri Lanka plans new tender for Japan funded airport terminal in September
+
+*2024-07-29 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-new-tender-for-japan-funded-airport-terminal-in-september-174228/) · `en`
+
+ECONOMYNEXT – State-run Airport and Aviation Services (Sri Lanka) Ltd plans to float a new tender to resume work on the second terminal in mid -September after a bilateral debt restructure made funds from Japan available, Chairman Athula Galketiya said.
+
+The original contractor self-terminated the contract, after completing only 5 percent of the terminal, when Sri Lanka defaulted on its debt in 2022.
+
+As a result, Sri Lanka had to pay 52 million in termination fees under the contract terms.
+
+The half-built sub-structure of the terminal, which was a safety hazard and was deteriorating, was then completed by a local contractor hired by the AASL.
+
+Though the contractor pulled put when the Japan International Co-operation Agency had to suspend projects after the sovereign default, the consultants, Japan Airport Consultants were retained at Sri Lanka’s expense.
+
+The original design had to be changed to accommodate new regulations and costs had also risen in the meantime, Galketiya said.
+
+...
+
+[Data](articles/24495f3d.json)
+
+---
+
 ### Paris 2024: Ganga Seneviratne fails to qualify for the semifinals
 
 *2024-07-29 15:18:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-அரையிறுதிக்கு-தகுதிபெறத்-தவறிய-கங்கா-செனவிரத்ன/44-341221) · `ta`
@@ -661,6 +819,24 @@ Due to this, the transport service has been affected near the Colombo -Kandy mai
 [Data](articles/670bd3f5.json)
 
 [Extended Data](ext_articles/670bd3f5.ext.json)
+
+---
+
+### Sri Lanka seeks ASEAN cooperation on cyber job rackets
+
+*2024-07-29 14:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-asean-cooperation-on-cyber-job-rackets-174218/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister of Foreign Affairs has called for decisive action against cybercrime centres and employment rackets taking place in some parts of the Asia-Pacific region at a regional forum.
+
+Speaking at the 31st Ministerial Meeting of the ASEAN Regional Forum held in Laos on July 27, Tharaka Balasuriya called for the Asia Pacific region “to concertedly address emerging challenges including security-related aspects of new and emerging technologies such as artificial intelligence, with a view to taking preventive measures against their misuse.”
+
+“In addition to sustaining the Asia-Pacific region’s efforts to promote peace, security, and cooperation, the Forum must address challenges to cyber and network security systems and tackle transnational organized crime,” Balasuriya  was quoted as saying in a statement by the Ministry of Foreign Affairs.
+
+He “called for decisive action against cybercrime centres and employment rackets taking place in some parts of the region.”
+
+...
+
+[Data](articles/d1badfb8.json)
 
 ---
 
@@ -1051,6 +1227,28 @@ The Colombo-Kandy main road has temporarily been blocked at Yakkala Junction due
 [Data](articles/20c03b6a.json)
 
 [Extended Data](ext_articles/20c03b6a.ext.json)
+
+---
+
+### Sri Lanka justice minister resigns ahead of polls
+
+*2024-07-29 12:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-justice-minister-resigns-ahead-of-polls-174189/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Justice, Prisons Affairs and Constitutional Reforms Wijeyadasa Rajapakshe has stepped down from his ministerial position, ahead of the Presidential Election.
+
+Rajapakshe announced his intent to run for President in the upcoming election on Thursday (25).
+
+“To contest the upcoming election, I have resigned from my post as minister,” Rajapakshe told reporters on Monday (29).
+
+“I am not contesting from the Sri Lanka Podujna Peramuna (SLPP), but another coalition.”
+
+Rajapakshe, 65, has been in parliament for two decades since 2004 representing different political parties, and had held various positions including cabinet portfolio.
+
+“Accepting posts, being ousted from them and resigning from them is normal for me [samanya deyal].” (Colombo/Jul29/2024)
+
+◼️
+
+[Data](articles/8f3b7e82.json)
 
 ---
 
@@ -1724,6 +1922,26 @@ A 17-year-old schoolgirl has died yesterday (28), a 17-year-old schoolgirl was k
 
 ---
 
+### අනුමැතියකින් තොරව ක්‍රියාත්මක කළ සංවර්ධන ව්‍යාපෘතිවල ගැටළු රැසක්
+
+*2024-07-29 10:51:55* · [`adalk`](https://www.ada.lk/breaking_news/අනුමැතියකින්-තොරව-ක්‍රියාත්මක-කළ-සංවර්ධන-ව්‍යාපෘතිවල-ගැටළු-රැසක්/11-411062) · `si`
+
+නාගරික සංවර්ධන සැලසුම් අනුමත කිරීමේදී ප්‍රාදේශීය සම්බන්ධිකරණ කමිටුව සහ දිස්ත්‍රික් සම්බන්ධිකරණ කමිටුවේ අනුමැතිය අනිවාර්ය කර ඇතැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+ඔහු අවධාරණය කරන්නේ මහජනතාවට ඵලදායි ලෙස සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීම උදෙසා මෙම තීරණය ගත් බවයි.
+
+පසුගිය කාලයේදී එවැනි අනුමැතියකින් තොරව ක්‍රියාත්මක කළ සංවර්ධන ව්‍යාපෘතිවල විවිධ ගැටළු මතුවී ඇති බව ඇමතිවරයා සඳහන් කලේය.
+
+නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ උපදේශක කාරක සභා රැස්වීමේ දී ඇමතිවරයා මේ බව සඳහන් කළේය. පසුගියදා  (25) අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේ  දී  එය පැවැත්විණි.
+
+කොළොන්නාව නගර සභාවේ කැලිකසල කෙරවලපිටියට යැවීම සඳහා අවශ්‍ය පහසුකම් සපයා දෙන ලෙස මෙහිදී සමගි ජනබලවේගයේ කොළඹ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා විසින් නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගෙන් ඉල්ලීමක් කළේය.  ඒ සම්බන්ධයෙන් අවධානය යොමු කර වාර්තාවක් ලබා දෙන ලෙස අමාත්‍යවරයා අමාත්‍යාංශ නිලධාරින්ට උපදෙස් දුන්නේය.
+
+...
+
+[Data](articles/67a34458.json)
+
+---
+
 ### 36 killed in clashes160 people injured
 
 *2024-07-29 10:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-பழங்குடியினரிடையே-மோதல்-36-பேர்-பலி-160-பேர்-காயம்/50-341202) · `ta`
@@ -2015,255 +2233,5 @@ Several police agencies responded to the park including the Irondequoit Police, 
 [Data](articles/1bbffdf6.json)
 
 [Extended Data](ext_articles/1bbffdf6.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 303.05/25 to US dollar
-
-*2024-07-29 09:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-303-05-25-to-us-dollar-174149/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened almost flat at 303.05/25 to the US dollar on Monday, dealers said. Bond yields were broadly stable, they said, and stocks opened up 0.13 percent.
-
-In the secondary market, treasury bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted stable at 10.40/50 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.70/80 percent, up from 11.68/78 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.85/12.00 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.10/25 percent, up from 12.14/18 percent.
-
-In equities, Colombo’s All Share Price Index opened 15.19 points higher at 11,648, while the S&P SL20 of more liquid stocks opened up at 0.36 percent or 12.14 points to 3,39.
-
-◼️
-
-[Data](articles/1caab5ec.json)
-
-[Extended Data](ext_articles/1caab5ec.ext.json)
-
----
-
-### Habaraduwa firing in Habaraduwa - two injured
-
-*2024-07-29 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189652) · `ta`
-
-In Habaraduwa, two people were injured in a shooting incident involving two unknown gunmen who targeted a motorcyclist and his passenger, resulting in one death and one injury. The suspects fled the scene.
-
-🟩
-
-Two persons were injured in the shooting in the Habaraduwa - Harumalgoda area, police said.
-
-Two men on a motorcycle were shot dead by two unidentified persons on Sunday night (28) night.. It is reported that the shooters have fled.
-
-The driver of the three -wheeler was injured as he was shot dead when he was shot dead in the three -wheeler while he was shot dead.
-
-Two people aged 34 and 54 were injured in the shooting, police said.
-
-◼️
-
-[Data](articles/2a363233.json)
-
-[Extended Data](ext_articles/2a363233.ext.json)
-
----
-
-### ‘Red’ alert issued over strong winds and rough seas
-
-*2024-07-29 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100848/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ colour advisory for strong winds and rough seas for naval and multi-day fishermen communities in the Arabian Sea and Bay of Bengal.
-
-As per the warning, very strong winds of about 70-80 kmph, and very rough seas are likely over the Arabian Sea area (in sea areas bounded by 10N - 20N and 55E – 67E) due to the active south-west monsoonal condition.
-
-Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ colour on the map below, until further notice.
-
-Those who are out at aforementioned sea regions are advised to return to coasts or move to safer areas immediately.
-
-Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/28a33fb9.json)
-
-[Extended Data](ext_articles/28a33fb9.ext.json)
-
----
-
-### Information on vehicle import permits!
-
-*2024-07-29 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189651) · `ta`
-
-Vehicle import permissions start in August, with individual use restrictions lifted by Q1 2025. Details to be announced soon by Finance Minister Shehan Semasinghe.
-
-🟩
-
-Finance Minister Shehan Semasinghe has said that permission for vehicle imports will be issued from August.
-
-Meanwhile, the restrictions on vehicle imports for the use of individuals will be removed in the first quarter of 2025.
-
-Minister of State for Finance Shehan Semasinghe, who issued the first phase of the vehicle imports permission from August, will announce the procedure soon.
-
-◼️
-
-[Data](articles/6dc0e7d8.json)
-
-[Extended Data](ext_articles/6dc0e7d8.ext.json)
-
----
-
-### 32 thousand dengue patients registered in the country so far
-
-*2024-07-29 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189650) · `ta`
-
-This year, 32,183 dengue cases and 13 deaths have been reported nationwide, with the highest numbers in the Western Province (12,786), followed by Gampaha (7,582), Northern Province (4,589), and Sabaragamuwa Province (3,329). The National Dengue Control Division urges caution to prevent further spread.
-
-🟩
-
-The National Dengue Control Unit said the number of dengue patients in the country has increased.
-
-During this year, 32,183 dengue patients have been identified and 13 dengue deaths have been reported.
-
-The total number of dengue patients is reported in the Western Province and their total number is 12,786.
-
-In this case, 7,582 patients and 3,452 patients from the Gampaha district were reported.
-
-In addition, 4,589 dengue patients in the Northern Province and 3,329 dengue patients in Sabaragamuwa Province have been identified.
-
-Therefore, the National Dengue Control Division further stated that precautions should be taken to prevent the spread of dengue fever.
-
-◼️
-
-[Data](articles/bb7961c5.json)
-
-[Extended Data](ext_articles/bb7961c5.ext.json)
-
----
-
-### Postal Dept submits cost estimate to Election Commission
-
-*2024-07-29 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100847/postal-dept-submits-cost-estimate-to-election-commission) · `en`
-
-An estimate of Rs. 1.4 billion has been forwarded to the Election Commission, predicting the expenses of the Postal Department for the upcoming presidential election.
-
-Deputy Postmaster General Rajitha Ranasinghe has revealed this information today (29) when inquired by Ada Derana.
-
-He mentioned that the estimate covers many expenses, including general postal charges, registered postal charges, expenses for stationery, transportation expenses, and administrative charges.
-
-Ranasinghe noted that this estimate is a forecast and that the final amount requested may change.
-
-◼️
-
-[Data](articles/d20e3806.json)
-
-[Extended Data](ext_articles/d20e3806.ext.json)
-
----
-
-### Happy Notice of Vehicle Import
-
-*2024-07-29 09:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-341195) · `ta`
-
-Finance Minister Shehan Semasinghe announced that vehicle import permits will be granted starting in August, allowing state ministers to import vehicles for trade and transport early on. The private sector's vehicle imports are expected in Q4 2025.
-
-🟩
-
-Finance Minister Shehan Semasinghe said that permission for vehicle imports will be issued in August.
-
-Accordingly, the Minister of State will be allowed to import vehicles for trade and transport at an early stage.
-
-Meanwhile, we expect to import vehicles required for the private sector in the quarter of 2025. Remble
-
-◼️
-
-[Data](articles/14166a25.json)
-
-[Extended Data](ext_articles/14166a25.ext.json)
-
----
-
-### Another error at the Paris Olympics
-
-*2024-07-29 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199319) · `si`
-
-Paris Olympics organizers apologized for mistakenly playing Sudan's anthem instead of South Sudan's during the men's basketball tournament, causing confusion among spectators.
-
-🟩
-
-The Paris Olympic organizers have issued an apology for misunderstanding a national anthem.
-
-The national anthem of Sudan has been advertised in the South Sudan's national anthem before the start of the men's basketball tournament.
-
-Sudden the national anthem of Sudan with the noise of the audience, the national anthem of the Sudan has been advertised in the South Sudan.
-
-◼️
-
-[Data](articles/1cff2021.json)
-
-[Extended Data](ext_articles/1cff2021.ext.json)
-
----
-
-### Vehicle import restrictions to be eased starting from August - State Minister
-
-*2024-07-29 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100846/vehicle-import-restrictions-to-be-eased-starting-from-august-state-minister-) · `en`
-
-State Minister of Finance Shehan Semasinghe has revealed that permission for the import of vehicles will be granted in the month of August.
-
-Accordingly, the state minister said that permission will be given for the import of vehicles required for business and transportation at the initial stage.
-
-“A government cannot lead the country back to the point of imposing import restrictions by asking for this election. At that time, all other restrictions were eased except for vehicles. Regarding the easing of vehicle restrictions, the government’s position as of August is how the import restrictions on vehicles will be removed in stages. We hope to give permission to those vehicles required for business activities and transportation in the first round. But we expect to import vehicles for private consumption in the first quarter of 2025,” said Semasinghe.
-
-◼️
-
-[Data](articles/ab25873e.json)
-
-[Extended Data](ext_articles/ab25873e.ext.json)
-
----
-
-### Habaraduwa area shooting - two injured
-
-*2024-07-29 08:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹபராதுவ-பகுதியில்-துப்பாக்கிச்சூடு-இருவர்-காயம்/175-341194) · `ta`
-
-In Habaraduwa, two individuals, ages 34 and 54, were shot and hospitalized after being targeted by gunmen who fled on a motorcycle. The victims are from Habaraduwa and Akulukaha areas.
-
-🟩
-
-Two persons were injured and admitted to hospital in Habaraduwa - Harumalgoda last night.
-
-It is reported that the men fled on a motorcycle and fled.
-
-One person was injured in the shooting and when he tried to climb into the three -wheeler, the firmen fired at the three -wheeler.
-
-Two people, aged 34 and 54, were injured in the shooting and they are from Habaraduwa and Akulukaha area, police said.. Remble
-
-◼️
-
-[Data](articles/b2f2a281.json)
-
-[Extended Data](ext_articles/b2f2a281.ext.json)
-
----
-
-### Two injured in shooting at Habaraduwa
-
-*2024-07-29 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100845/two-injured-in-shooting-at-habaraduwa) · `en`
-
-Two persons were injured in a shooting incident in Harumalgoda, Habaraduwa and have been hospitalised.
-
-Two unidentified assailants on a motorcycle had shot the two individuals with a pistol in front of an inn and fled the area last night (28).
-
-One person was initially injured in the shooting, and while he was attempting to hide inside a three-wheeler, the shooters also fired at the three-wheeler. The driver of the three-wheeler was also injured in the shooting.
-
-However, the police reported that the driver of the three-wheeler managed to drive the vehicle to the hospital without stopping.
-
-Police said that the injured men, aged 34 and 54, are residents of the Habaraduwa and Angulugaha areas.
-
-◼️
-
-[Data](articles/33f0b9a5.json)
-
-[Extended Data](ext_articles/33f0b9a5.ext.json)
 
 ---

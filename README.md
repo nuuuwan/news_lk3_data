@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 02:20:37**
+As of **2024-07-30 02:35:58**
 
 ## Newspaper Stats
 
-*Scraped **37,960** Articles*
+*Scraped **37,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,465
 adaderanalk | 4,396
-tamilmirrorlk | 4,697
+tamilmirrorlk | 4,698
 dailymirrorlk | 4,733
-virakesarilk | 5,987
+virakesarilk | 5,989
 adaderanasinhalalk | 6,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,960 (100.0%) of 37,960 articles have been extended.
+37,960 (100.0%) of 37,963 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -196,6 +196,22 @@ Their international experience and networks can help attract investment, raise g
 
 ---
 
+### ’கண்ணிவெடியை வெடிக்கச் செய்வதா செயலிழக்கச் செய்வதா’
+
+*2024-07-30 01:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்ணிவெடியை-வெடிக்கச்-செய்வதா-செயலிழக்கச்-செய்வதா/175-341253) · `ta`
+
+ஜனாதிபதித் தேர்தலை செப்டெம்பர் 21 ஆம் திகதிக்கு அப்பால் வேறொரு தினத்தில் நடத்த தாம் தயாராக இல்லை எனவும், ஜனாதிபதித் தேர்தலை செப்டெம்பர் 21ஆம் திகதி நடத்தத் தேவையான ஏற்பாடுகளை மேற்கொள்வதாகவும் ஜனாதிபதி தெரிவித்தார்.தேர்தல் என்பது மக்களின் இறையாண்மையின் ஒரு அங்கம் எனவும் அதனை மீற இடமளிக்க முடியாது எனவும் சுட்டிக்காட்டினார்.
+
+அத்துடன், அரசியலமைப்பின் 104ஆவது சரத்தின் பிரகாரம் நாட்டில் சுதந்திரமான மற்றும் நியாயமான தேர்தலை நடத்த தேர்தல்கள் ஆணைக்குழுவுக்கு அதிகாரம் உள்ளதாக சுட்டிக்காட்டிய ஜனாதிபதி, அதற்கு பூரண ஆதரவை வழங்குவது அனைவரினதும் பூரண கடமை எனவும் தெரிவித்தார்.
+
+ஹோமாகம பஸ்தரிப்பு நிலைய வளாகத்தில் ஞாயிற்றுக்கிழமை (27) நடைபெற்ற ‘ஜெயகமு ஸ்ரீலங்கா’ கொழும்பு மாவட்ட புலம்பெயர் தொழிலாளர் கௌரவிப்பு நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/3c0cecc0.json)
+
+---
+
 ### MillenniumIT ESP welcomes new Board of Directors at MITESP Connect
 
 *2024-07-30 01:01:06* · [`dailyftlk`](https://www.ft.lk/business/MillenniumIT-ESP-welcomes-new-Board-of-Directors-at-MITESP-Connect/34-764904) · `en`
@@ -248,6 +264,20 @@ The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) is e
 
 ---
 
+### தேர்தல் பிரசாரத்தை 50 இலட்சம் வாக்குகளை அடிப்படையாகக்கொண்டே ஆரம்பித்திருக்கிறோம் - ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ்
+
+*2024-07-30 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189744) · `ta`
+
+ஸ்ரீலங்கா சுதந்திர கட்சியின் வாக்குகளை அடிப்படையாகக்கொண்டே நாட்டில் 1994ஆம் ஆண்டில் இருந்து ஜனாதிபதிகள் தெரிவாகி இருக்கின்றன. அதனால் நாங்கள் இந்த தேர்தல் பிரசாரத்தை 50 இலட்சம் வாக்குகளை அடிப்படையாகக்கொண்டே ஆரம்பித்திருக்கிறோம். இந்த தேர்தல் பெறுபேறு நாட்டின் தலை எழுத்தை தீர்மானிக்கக்கூடிய தேர்தலாக இருக்கும் என ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+
+நீதி அமைச்சில் திங்கட்கிழமை (29) இடம்பெற்ற விசேட செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/55b570bc.json)
+
+---
+
 ### SPARK Skilled Youth Entrepreneurship competition 2024 now accepting applications
 
 *2024-07-30 00:53:05* · [`dailyftlk`](https://www.ft.lk/business/SPARK-Skilled-Youth-Entrepreneurship-competition-2024-now-accepting-applications/34-764901) · `en`
@@ -279,6 +309,22 @@ The Management denies the aforementioned social media publication and further wi
 [Data](articles/13269981.json)
 
 [Extended Data](ext_articles/13269981.ext.json)
+
+---
+
+### நீதித்துறையைக் கட்டுப்படுத்த நிறைவேற்றதிகாரத்தைப் பயன்படுத்தும் ஜனாதிபதி - ஐக்கிய மக்கள் சக்தி குற்றச்சாட்டு
+
+*2024-07-30 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/189743) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது நிறைவேற்றதிகாரத்தைப் பயன்படுத்துகின்றார். வழக்கு தாக்கல் செய்யப்பட்டுள்ள ஒரு பிரச்சினைக்கு கலந்துரையாடி தீர்வு காண முடியாது. நீதிமன்றத்தின் இடைக்கால தடையுத்தரவுக்கு அனைவரும் மதிப்பளிக்க வேண்டும் என ஐக்கிய மக்கள் சக்தியின் தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஐக்கிய மக்கள் சக்தியால் முன்னெடுக்கப்பட்ட பிரபஞ்சம், சக்வல போன்ற வேலைத்திட்டங்களை நிறுத்துமாறு தேர்தல் ஆணைக்குழு அறிவித்துள்ளது. அதனை நாம் ஏற்றுக் கொண்டுள்ளோம். ஆனால் அரசாங்கத்துக்கு இந்த சட்டம் ஏற்புடையது இல்லையா? ஹோமாகம பிரதேசத்தில் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சினால் முன்னெடுக்கப்பட்ட வேலைத்திட்டத்தில் ஜனாதிபதி கலந்து கொண்டது சரியா? ஜனாதிபதி ரணில் விக்கிரமசிங்கவால் இவ்வாறான வேலைத்திட்டங்கள் தொடர்ச்சியாக முன்னெடுக்கப்படுகின்றன. எனவே தேர்தல் ஆணைக்குழு இது தொடர்பில் அவதானம் செலுத்த வேண்டும்.
+
+...
+
+[Data](articles/01f9f72d.json)
 
 ---
 
@@ -2175,67 +2221,5 @@ The complaint has been lodged at the Homagama Police Station.
 [Data](articles/dcf60cd4.json)
 
 [Extended Data](ext_articles/dcf60cd4.ext.json)
-
----
-
-### Buddhism, AI and cremation of Covid dead grab attention
-
-*2024-07-29 13:41:00* · [`islandlk`](http://island.lk/buddhism-ai-and-cremation-of-covid-dead-grab-attention/) · `en`
-
-MPs are not strictly divided along party lines in the current parliament, except for the TNA and JVP/NPP. MPs from other parties sit on both the government and opposition sides of the House. This movement is frequently and expected to continue in the coming weeks as political maneuvering continues. However, MPs come together for moments of shared amusement, as seen last Wednesday in the lobbies during an adjournment debate on promoting Artificial Intelligence (AI).
-
-Here, Colombo District MP Rear Admiral (Retd) Sarath Weerasekara, who is also known for his part in the films “Gamini” (2011) and “Deveni Yuddhaya” (2023), made a comment that drew laughter from both government and opposition MPs. He said that the Buddha had used AI many times. He claimed that while AI was discovered by modern Western scientists, the Buddha through meditation and spiritual attainment achieved as much.
-
-...
-
-[Data](articles/bdd2c35a.json)
-
-[Extended Data](ext_articles/bdd2c35a.ext.json)
-
----
-
-### Kattankudy Urban Council action against illegal activities - surrounding many restaurants
-
-*2024-07-29 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189684) · `ta`
-
-In Kattankudy, Eastern Province, health officials recently took action against several businesses, including celebrity restaurants and hotels, for improperly disposing of sewage into public drains. This move aimed to address health issues like foul odors and dengue mosquito breeding. Over ten establishments had their drainage systems seized by city council employees as part of the cleanup effort.
-
-🟩
-
-In the Kattankudy Urban Council division, which is becoming a popular tourist destination in the Eastern Province, a number of trade centers that dismantled the sewage of their trade centers into public drains were dismantled by the health officials on Monday morning.
-
-Celebrity restaurants and hotels and snacks on the main road of Kattankudi were subject to this incident, said Sathankudy Divisional Supervisory Health Inspector MAM Bashir.
-
-Other traders, civilians and bailouts, including health problems, were facing various discomfort, including the health problems of other traders, including the stench and dengue mosquitoes.
-
-During the move, more than ten popular restaurants and snacks were surrounded and the pipes were seized by the city council employees.
-
-Supervisory Public Health Inspector MAM Basheer and public health inspectors, city council officials were the employees of the city council.
-
-◼️
-
-[Data](articles/b654ef57.json)
-
-[Extended Data](ext_articles/b654ef57.ext.json)
-
----
-
-### Traffic on Colombo - Kandy Road
-
-*2024-07-29 13:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கண்டி-வீதியில்-போக்குவரத்து-தடை/175-341215) · `ta`
-
-A collision between a passenger bus and a Paravurthy vehicle blocked the Colombo-Kandy main road near Yakkala junction.
-
-🟩
-
-Passenger bus and Paravurthy collided with the Yakkala area of ​​Colombo -Kandy main road.
-
-Due to this, it is reported that the Colombo -Kandy main road has been blocked near the Yakkala junction.
-
-◼️
-
-[Data](articles/98a15873.json)
-
-[Extended Data](ext_articles/98a15873.ext.json)
 
 ---

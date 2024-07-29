@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 19:35:59**
+As of **2024-07-29 19:54:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,909 (100.0%) of 37,910 articles have been extended.
+37,910 (100.0%) of 37,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,21 +72,29 @@ However, Sri Lanka Muslim Congress leader Rauff Hakeem said, "Today
 
 ---
 
-### 2024 පළමු කාර්තුවේදී ලෝකයේ හොඳම වරාය ලෙස කොළඹ වරාය නම් වෙයි
+### Colombo port is the best port in the world in the first quarter of 2024
 
 *2024-07-29 18:22:39* · [`adalk`](https://www.ada.lk/breaking_news/2024-පළමු-කාර්තුවේදී-ලෝකයේ-හොඳම-වරාය-ලෙස-කොළඹ-වරාය-නම්-වෙයි/11-411074) · `si`
 
-23.6% ක විශිෂ්ට වර්ධන වේගයක් සමඟ මෙහෙයුම් කාර්ය සාධනයේ සැලකිය යුතු ප්‍රගතියක් – වරාය, නාවික හා ගුවන්සේවා අමාත්‍යාංශයේ ලේකම්.
+In Q1 2024, Colombo Port achieved a remarkable growth rate of 23.6%, earning it the top spot globally according to Alphaliner. This success came despite challenges, with the port recording a profit of $50 million in the same period, doubling its previous year's earnings. The port's expansion includes ongoing projects at the Eastern Container Terminal and Western Terminal, set to commence operations in Feb 2025, alongside developments in Trincomalee, Galle, and Kankasanthurai. Additionally, aviation operations saw a 25% increase, boosting passenger and freight operations significantly.
 
-කොළඹ වරාය 2024 වසර තුළ 23.6% ක විශිෂ්ට වර්ධන වේගයක් වාර්තා කරමින් මෙහෙයුම් කාර්ය සාධනයේ සැලකිය යුතු ප්‍රගතියක් අත් කර ගෙන ඇති බවත් නැව් කර්මාන්තයේ ප්‍රමුඛ පෙළේ තොරතුරු ලබාදෙන පර්යේෂණ ප්‍රකාශනයක් වන Alphaliner විසින් 2024 පළමු කාර්තුවේදී ලෝකයේ හොඳම වර්ධක වරාය ලෙස කොළඹ වරාය නම් කර ඇති බවත් වරාය, නාවික හා ගුවන්සේවා අමාත්‍යාංශයේ ලේකම් කේ. ඩී. එස් රුවන්චන්ද්‍ර මහතා පැවසීය.
+🟩
 
-එසේම 2024 වසරේ පළමු කාර්තුව තුළ කොළඹ වරාය ඇමෙරිකානු ඩොලර් මිලියන 50ක ආදායමක් ලබා ඇති බවද පෙන්වා දුන් ඒ මහතා එම ප්‍රගතිය අත්පත් කර ගැනීමේදී පසුගිය කාලය තුළ පැවති විවිධ වෘත්තීය ක්‍රියාමාර්ග කිසිදු බාධාවක් නොවූ බවද සඳහන් කළේය.
+Significant progress of operating performance with a growth rate of 23.6% - Ports, Naval and Aviation Ministry Secretary.
 
-වරාය, නාවික හා ගුවන්සේවා අමාත්‍යාංශයේ ලේකම් කේ. ඩී. එස් රුවන්චන්ද්‍ර මහතා මේ බව සඳහන් කර සිටියේ ‘දෙවසරක ප්‍රගතිය සහ ඉදිරිය’ යන මැයෙන් අද (29) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Colombo harbor has made significant progress in operational performance in 23.6%, and the Colombo port is the best growth port in the first quarter of 2024 in the first quarter of 2024.Secretary to the Ministry of Naval and Aviation. D. S. Ruwanchandra said.
+
+He also said that the Colombo Port was earnled in the first quarter of 2024, but the Colombo Port was revenue in the recent past.
+
+Port, Naval and Aviation Ministry Secretary. D. S. Ruwanchandra was speaking at a press conference held at the press conference at the Presidential Media Center today (29) at the Presidential Media Center.
+
+Port, Naval and Aviation Ministry Secretary. D. S. Ruwanchandra said,
 
 ...
 
 [Data](articles/716f355d.json)
+
+[Extended Data](ext_articles/716f355d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 16:20:39**
+As of **2024-07-29 16:36:13**
 
 ## Newspaper Stats
 
-*Scraped **37,879** Articles*
+*Scraped **37,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,170
 economynextcom | 2,267
 dailyftlk | 2,416
 adalk | 3,455
-adaderanalk | 4,385
-tamilmirrorlk | 4,689
+adaderanalk | 4,388
+tamilmirrorlk | 4,690
 dailymirrorlk | 4,733
 virakesarilk | 5,976
 adaderanasinhalalk | 6,370
@@ -26,41 +26,117 @@ adaderanasinhalalk | 6,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,876 (100.0%) of 37,879 articles have been extended.
+37,879 (100.0%) of 37,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### நானும் தயார்
+### நீதிமன்றில் ஜீவன் ஆஜர்
+
+*2024-07-29 16:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-ஜீவன்-ஆஜர்/175-341227) · `ta`
+
+அமைச்சர் ஜீவன் தொண்டமான் மற்றும் அக்கட்சியின் ஆதரவாளர்கள் மூவர் நுவரெலியா நீதவான் நீதிமன்றில்  முன்னிலையாகினர்.  நகர்த்தல் மனுவினை தாக்கல் செய்தே இம்மூவரும் நீதிமன்றத்தில் ஆஜராகினர்.
+
+◼️
+
+[Data](articles/10001710.json)
+
+---
+
+### Police officer killed, another injured in bike-container collision
+
+*2024-07-29 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100859/police-officer-killed-another-injured-in-bike-container-collision) · `en`
+
+A police officer has reportedly died following in an accident near the Miriskudu Bend on the Thummodara - Puwakpitiya Road in Avissawella.
+
+The accident occurred when a container truck had collided with a motorcycle, according to an Ada Derana reporter.
+
+The police officer who was riding the motorcycle was killed on the spot, while another officer was admitted to Avissawella Hospital for treatment.
+
+◼️
+
+[Data](articles/43b8ac6c.json)
+
+---
+
+### Election Comm. notified over nurses attending NPP’s meeting in uniform
+
+*2024-07-29 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100858/election-comm-notified-over-nurses-attending-npps-meeting-in-uniform) · `en`
+
+The Campaign for Free and Fair Elections (CaFFE) organization alleges that the participation of government nurses in uniform at the National All Ceylon Nurses’ Conference held yesterday (29) under the leadership of National People’s Power (NPP) leader, Anura Kumara Dissanayake, is a violation of election regulations.
+
+CaFFE has informed the National Election Commission in writing that the use of uniforms provided by the public tax money for political purposes is a breach of the Establishments Code and also the Election regulations.
+
+Additionally, the People’s Action for Free and Fair Elections (PAFFREL) has also notified the Election Commission in writing that this act is a violation of election regulations.
+
+Meanwhile, a discussion between the country’s security chiefs and Election Commission officials was held today (29). The Secretary of Public Security Viyani Gunathilaka and the Chief of Defence Staff (CDS), General Shavendra Silva were reportedly present at the meeting.
+
+◼️
+
+[Data](articles/f14e8afa.json)
+
+---
+
+### I am also ready
 
 *2024-07-29 15:57:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானும்-தயார்/175-341226) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிட தயார் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் தம்மிக்க பெரேரா தெரிவித்துள்ளார்.
+Dhammika Perera, a Sri Lanka PA parliamentarian, announced his readiness to run in the upcoming presidential election, expressing willingness to do so if the party offers him the chance.
 
-கொழும்பில் நடைபெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனு இளைஞர் மாநாட்டில் கலந்துகொண்டு உரையாற்றிய அவர், கட்சி வாய்ப்பு வழங்கினால் தயார் என்றார்.
+🟩
+
+Sri Lanka PA's parliamentarian Dhammika Perera says he is ready to contest the presidential election.
+
+Speaking at the Sri Lanka PA's Peramunu Youth Conference held in Colombo, he said that if the party was given the opportunity.
 
 ◼️
 
 [Data](articles/93718b5f.json)
 
+[Extended Data](ext_articles/93718b5f.ext.json)
+
 ---
 
-### උතුරු කොරියාවේ හදිසි තත්ත්වයක්
+### An urgency of North Korea
 
 *2024-07-29 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199336) · `si`
 
-අධික වර්ෂාවත් සමග ඇතිවූ ගංවතුර තත්ත්වය හේතුවෙන් උතුරු කොරියාවේ හදිසි තත්ත්වයක් ප්‍රකාශයට පත්කර තිබේ.
+North Korea faces a state of urgency due to severe flooding caused by heavy rains. Leader Kim Jong Un has responded to the crisis affecting thousands, with foreign media highlighting his efforts amidst widespread damage, particularly in the Uiju area where over 4,000 individuals were rescued.
 
-ආපදා තත්ත්වයෙන් පුද්ගලයින් දහස් ගණනක් පීඩා වීම සැලකිල්ලට ගනිමින් උතුරු කොරියානු නායක කිං ජොන් උන් විසින් මෙම පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ජල ගැලීම්වලට හසුවූ මාර්ගයක උතුරු කොරියානු නායකයාගේ රථ පෙළක් ගමන් කරන ආකාරය දැක්වෙන ඡායාරූපයක් ද විදෙස් මාධ්‍ය පළකර තිබුණි.
+Due to the flooding with heavy rain, a state of urgency has been announced.
 
-සිනුජු, උයිජු යන ප්‍රදේශවලට ජල ගැලීම්වලින් වැඩිම බලපෑම් සිදුව ඇති අතර පීඩාවට පත්ව සිටි පුද්ගලයින් 4,000කට වැඩි පිරිසක් ගුවන් යානා මගින් මුදාගැනීමට බලධාරීන් කටයුතු කර තිබේ.
+The North Korean leader King King Ki Jon has taken this step by considering thousands of persons suffering from disaster.
+
+Foreign media has also posted a photograph of the North Korean leader's vehicles on a road causing floods.
+
+The majority of floods have been influenced by the ladies, Uiuja areas and more than 4,000 people affected by the aircraft have been rescued.
 
 ◼️
 
 [Data](articles/107b00f5.json)
+
+[Extended Data](ext_articles/107b00f5.ext.json)
+
+---
+
+### Athapaththu eyes T20 World Cup after Sri Lanka’s Asia Cup success
+
+*2024-07-29 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100857/athapaththu-eyes-t20-world-cup-after-sri-lankas-asia-cup-success) · `en`
+
+Victorious Sri Lanka captain Chamari Athapaththu believes her side’s success in the Women’s Asia Cup was well deserved as the island nation turns its attention to this year’s ICC Women’s T20 World Cup.
+
+Sri Lanka claimed their first Women’s Asia Cup title on Sunday, with Athapaththu leading from the front with a hard-fought half-century to help her team chase down India’s total of 165/6 with eight balls remaining.
+
+The victory helps cap off a tremendous 14-month period for Sri Lanka, who have claimed T20I series triumphs over Bangladesh, England and South Africa in recent times as well winning the ICC Women’s T20 World Cup Qualifier tournament to earn a place at this year’s tournament in October.
+
+That will be the next challenge for Athapaththu and Sri Lanka, but the experienced skipper is excited about what her side can achieve at the T20 World Cup in Bangladesh.
+
+...
+
+[Data](articles/134cf06f.json)
 
 ---
 
@@ -950,21 +1026,27 @@ Although the President's Media Division tried to consider the reality of the let
 
 ---
 
-### මහින්ද වැරදි තීන්දුවක් නොගනීවි
+### Mahinda will not make a mistake
 
 *2024-07-29 12:01:09* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-වැරදි-තීන්දුවක්-නොගනීවි/11-411066) · `si`
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මෙතෙක් කල් වැරදි තීන්දුවක් අරගෙන නැති බවත් ජනාධිපති අපේක්ෂකයෙකු තෝරාපත් කර ගැනීමේ අවස්ථාවේදී ද ඔහු එවැනි වැරදි තීන්දුවක් නොගනු ඇති බව තමන් විශ්වාස පළ කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ  මහතා 29 දින පෙරවරුවේ පැවසීය.
+Minister Shehan Semasinghe asserts no wrong decisions have been made regarding the presidential election and the stability of the country, referencing historical instances where the government successfully supported the president during crises.
 
-ගල්කිරියාගම ප්‍රදේශයේ රාජ්‍ය බැංකුවක් විවෘත කිරීම සඳහා පැමිණි අවස්ථාවේ දී මාධ්‍යවේදීන්  සේමසිංහ මහතාගේන් ජනාධිපති මැතිවරණය පිළිබඳව විමසීමේ දී ඔහු මේ බව පැවසීය.
+🟩
 
-දැඩි අර්බුදයක පැවති අවස්ථාවේදී රනිල් වික්‍රමසිංහ මහතාට රට භාරදී  රට  සන්සුන් කිරීමට හිටපු ජනාදීධිපතිවරයාට   හැකි වූ බවත් ඒ අනුව ඉදිරි මූල්‍ය කළමනාකරණය සඳහා ජනාධිපතිවරයා ලෙස රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කළ යුතු බවදය අමාත්‍යවරයා සඳහන් කළේය.
+The Minister of State Shehan Semasinghe said that he had not taken a wrong decision so far.
 
-වැඩිදුරටත් අදහස් දැක්වූයේ සේමසිංහ මහතා කියා සිටියේ මෙම ජනාධි පතිවරණය තීන්දු කෙරෙන්නේ 2022 වසර වල තිබුණු තත්ත්වයට ගමන් කරනවා ද එසේත් නොමැති නම් මෙම නව පාලනය යටතේ රට ස්ථාවරව පවත්වාගෙන යනවාද යන්න පමණක් බව හෙතෙම සඳහන් කළේය
+He was speaking about the presidential election when he visited the opening of a state bank in Galkiriyagama.
+
+The Minister said that when the former Republic of Republic was able to calm the country and support the president of the country when he was in a serious crisis.
+
+Speaking further Mr. Semasinghe said that if the Government of India was heading in 2022, he said that the country was only when the country would remain stable.
 
 ◼️
 
 [Data](articles/4a6f9208.json)
+
+[Extended Data](ext_articles/4a6f9208.ext.json)
 
 ---
 
@@ -2189,77 +2271,5 @@ Jayasekara was responding to questions posed by media personnel regarding former
 [Data](articles/d324ddd0.json)
 
 [Extended Data](ext_articles/d324ddd0.ext.json)
-
----
-
-### Continued proscription of LTTE in EU
-
-*2024-07-29 03:36:07* · [`dailyftlk`](https://www.ft.lk/news/Continued-proscription-of-LTTE-in-EU/56-764864) · `en`
-
-The Council of the European Union (EU) on 26 July, renewed the list of persons, groups and entities set out by the Common Position 2001/931/CFSP with the view to combatting terrorism, and the LTTE continues to be banned in the EU for a further period of six months.
-
-The proscribed persons, groups and entities are subject to the freezing of its funds and other financial assets or economic resources in EU member States, as well as it is prohibited for EU entities to make funds and economic resources available to the proscribed organisations.
-
-◼️
-
-[Data](articles/21f58c61.json)
-
-[Extended Data](ext_articles/21f58c61.ext.json)
-
----
-
-### Former members of the Sri Lanka Freedom Party (SLFP)
-
-*2024-07-29 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189648) · `ta`
-
-Naleen Dissanayake, a key SLFP figure, along with former Biyagama Pradeshiya Sabha members and several from the Gampaha Municipal Council's Independent Committee, have switched allegiance to the United People's Power ahead of the upcoming presidential election. This move was marked by a significant gathering attended by Gampaha district MP Harshana Rajakaruna.
-
-🟩
-
-Naleen Dissanayake, the chief organizer of the Sri Lanka Freedom Party (SLFP) constituency, and former members of the Sri Lanka Freedom Party (SLFP) of the Biyagama Pradeshiya Sabha and the candidate of the United People's Power in the upcoming presidential election, joined the United People's Power on Sunday (28).
-
-Gampaha district parliamentarian Harshana Rajakaruna joined the event.
-
-Members of the Independent Committee of the Gampaha Municipal Council in the last local government elections joined the United People's Power on Sunday (28).
-
-◼️
-
-[Data](articles/0659f95f.json)
-
-[Extended Data](ext_articles/0659f95f.ext.json)
-
----
-
-### Why is mathematics considered difficult?
-
-*2024-07-29 02:22:00* · [`islandlk`](http://island.lk/why-is-mathematics-considered-difficult-2/) · `en`
-
-Mathematics is considered as one of the most challenging subjects by schoolchildren. A good number of students give up easily thinking that they are not up to taking up these challenges. Students’ struggles may arise due to a variety of reasons.
-
-A common difficulty is the abstractness of the concepts. Unlike other subjects that are more concrete, mathematics deals with numbers and symbols that can be difficult to comprehend. Also, as mathematics involves multistep problems, the solutions may require several thought processes to come up with a solution. This requires staying actively focused on the given task. Some students find it difficult to maintain this focus, thereby struggle in the problem-solving process.
-
-...
-
-[Data](articles/3571dfb9.json)
-
-[Extended Data](ext_articles/3571dfb9.ext.json)
-
----
-
-### Haycarb unveils state-of-the-art Electrochemical Laboratory to support energy storage material innovations
-
-*2024-07-29 02:21:29* · [`dailyftlk`](https://www.ft.lk/business/Haycarb-unveils-state-of-the-art-Electrochemical-Laboratory-to-support-energy-storage-material-innovations/34-764847) · `en`
-
-From left: Haycarb Deputy Managing Director Brahman Balaratnarajah, Director – R&D and Technical Udaya Kumara, Managing Director Rajitha Kariyawasan, and Hayleys Chairman and Chief Executive Mohan Pandithage ceremonially open Haycarb’s new Centre of Innovation
-
-Haycarb PLC, a global leader in activated carbon, proudly announced the inauguration of its cutting-edge Electrochemical Laboratory, now known as its Centre of Innovation (CoI). This new facility marks a significant milestone in Haycarb’s ongoing commitment to innovation and excellence in the field of energy storage materials.
-
-The global energy storage market is on an impressive growth trajectory, with forecasts predicting an increase from $ 234 billion in 2023 to $ 357 billion by 2028. As per the Energy Storage Systems Global Market 2024 Report, this expansion, supported by a compound annual growth rate (CAGR) of 8.8%, is propelled by the increasing adoption of renewable energy and the rising demand for electric vehicles.
-
-...
-
-[Data](articles/59d7345d.json)
-
-[Extended Data](ext_articles/59d7345d.ext.json)
 
 ---

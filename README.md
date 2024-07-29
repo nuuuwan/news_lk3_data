@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 17:56:59**
+As of **2024-07-29 18:15:48**
 
 ## Newspaper Stats
 
-*Scraped **37,892** Articles*
+*Scraped **37,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,267
 dailyftlk | 2,416
-adalk | 3,457
+adalk | 3,458
 adaderanalk | 4,391
-tamilmirrorlk | 4,691
+tamilmirrorlk | 4,692
 dailymirrorlk | 4,733
 virakesarilk | 5,976
 adaderanasinhalalk | 6,373
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,891 (100.0%) of 37,892 articles have been extended.
+37,892 (100.0%) of 37,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### அரச அச்சகத்துக்கு அதியுச்ச பாதுகாப்பு
+
+*2024-07-29 17:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அச்சகத்துக்கு-அதியுச்ச-பாதுகாப்பு/175-341231) · `ta`
+
+ஜனாதிபதித் தேர்தல் தொடர்பான ஆவணங்களை அச்சிடும் அரச அச்சகத்திற்கு இன்று (29) முதல் விசேட பொலிஸ் பாதுகாப்பு வழங்கப்பட்டுள்ளது.
+
+மேலும் அரசு அச்சகத்தின் பாதுகாப்பிற்காக தனி பொலிஸ் காவல் நிலையம் அமைக்கப்பட உள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+அரசு அச்சகத்தின் பாதுகாப்பு குறித்து ஆராய்வதற்காக பொலிஸ்  அதிகாரிகள் குழுவொன்று அச்சகத்துக்கு சென்றிருந்தது.
+
+ஜனாதிபதித் தேர்தல் தொடர்பான பல ஆவணங்கள் ஏற்கனவே தேர்தல்கள் ஆணைக்குழுவிடம் கையளிக்கப்பட்டுள்ளதாக அரசாங்க அச்சக அதிகாரி திருமதி கங்கானி கல்பனா லியனகே தெரிவித்தார்
+
+◼️
+
+[Data](articles/316d555c.json)
+
+---
 
 ### Minister Jeevan Thondaman surrenders to court
 
@@ -45,6 +63,8 @@ During the hearing of the case on July 22, Nuwara-Eliya Police had stated before
 ...
 
 [Data](articles/b9589aa3.json)
+
+[Extended Data](ext_articles/b9589aa3.ext.json)
 
 ---
 
@@ -97,6 +117,22 @@ The arrested is a 26-year-old resident of Valagama South, Delegama in the Devil.
 [Data](articles/6484c1b1.json)
 
 [Extended Data](ext_articles/6484c1b1.ext.json)
+
+---
+
+### විජයදාසට එරෙහි වාරණය තවදුරටත්
+
+*2024-07-29 16:46:38* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-එරෙහි-වාරණය-තවදුරටත්/11-411071) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ හා ලේකම්වරයා ලෙස සාරථි දුෂ්මන්ත මිත්‍රපාලට එම ධුරවල කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය තවදුරටත් දිර්ඝ කර තිබෙනවා.
+
+සැප්තැම්බර් මස 24 වන දා දක්වා එම නියෝගය දීර්ඝ කරණ ලෙස කොළඹ දිසා අධිකරණය අද (29) නියෝග කර ඇති බවයි සඳහන් වෙයි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ අමාත්‍ය මහින්ද අමරවීර, ලසන්ත අලගියවන්න සහ දුමින්ද දිසානායක යන අය විසින් ඉදිරිපත් කළ පැමිණිල්ලක් යළි කැඳවීමෙන් පසු අද දින එම නියෝග නිකුත් කර තිබෙනවා. ( I J)
+
+◼️
+
+[Data](articles/b8974157.json)
 
 ---
 
@@ -2229,49 +2265,5 @@ Police said that the injured men, aged 34 and 54, are residents of the Habaraduw
 [Data](articles/33f0b9a5.json)
 
 [Extended Data](ext_articles/33f0b9a5.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-07-29 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100844/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Fairly heavy showers above 50 mm are likely at some places and several spells of showers will occur in North-western province.
-
-Strong winds of about 50-55 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
-
-Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
-
-◼️
-
-[Data](articles/72cbf5fb.json)
-
-[Extended Data](ext_articles/72cbf5fb.ext.json)
-
----
-
-### VIP defense expenditure Rs. 5.8 billion
-
-*2024-07-29 08:13:21* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-ආරක්ෂක-වියදම-රු---බිලියන-5-8ක්-දක්වා-ඉහළට/11-411059) · `si`
-
-In 2023, VIP defense spending reached Rs. 5.8 billion, with an audit revealing excessive use of elite protectors beyond approved limits. The report covers expenses for protecting various elites, including former governors and religious leaders, detailing how funds were allocated outside official guidelines. From September 30, the number of officers under VIP security rose from 3,894 to 4,859, highlighting financial discrepancies and potential misuse of resources.
-
-🟩
-
-Nays from January 1 to December 31, 2023 from January 1, 2023 from January 1 to December 31, 2023, from January 31, 2023 to Rs.A audit report is issued.
-
-VIP defenders have been deployed to address the PSC order to the Circular Division of the Public Security Division No. 2683/20th of September 30, 2020, to provide the elite protection.
-
-The audit report states that the committee has been attached to a number of years as the committee, former governors, former chief ministers, religious leaders and other elites and other elites.
-
-Also, the elite protector has been attached to the year over the years, exceeding the approved limit and the approved line under the terms of the circular.. The audit was not revealed to what was the legal funds. The audit report states that the expenditure and special allowances paid to the officers who have been assigned to the officers outside the circular include costs.
-
-...
-
-[Data](articles/c0924380.json)
-
-[Extended Data](ext_articles/c0924380.ext.json)
 
 ---

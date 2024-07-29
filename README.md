@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 22:20:41**
+As of **2024-07-29 22:37:34**
 
 ## Newspaper Stats
 
-*Scraped **37,928** Articles*
+*Scraped **37,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,273
 dailyftlk | 2,416
-adalk | 3,464
+adalk | 3,465
 adaderanalk | 4,394
 tamilmirrorlk | 4,695
 dailymirrorlk | 4,733
 virakesarilk | 5,984
-adaderanasinhalalk | 6,381
+adaderanasinhalalk | 6,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,927 (100.0%) of 37,928 articles have been extended.
+37,928 (100.0%) of 37,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### ශ්‍රී ලංකා කණ්ඩායමේ පිතිකරුවන්ට රතු එළියක්
+
+*2024-07-29 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199349) · `si`
+
+ශ්‍රී ලංකා පිතිකරුවන් සම්බන්ධයෙන් දැඩි තීරණ ගැනීමට බලාපොරොත්තු වන බව ශ්‍රී ලංකා පිතිකරණ පුහුණුකරු තිලිණ කණ්ඩම්බි පවසයි.
+
+ඔහු ඒ බව ප්‍රකාශ කළේ අතිශය දුර්වල පිතිකරණය හේතුවෙන් ශ්‍රී ලංකා පිරිමි ජාතික ක්‍රිකට් කණ්ඩායම ඉන්දියාව හමුවේ තවත් අමිහිරි තරගාවලි පරාජයක් ලැබීමෙන් අනතුරුවය.
+
+"පිතිකරුවන් වශයෙන් මීට වඩා වගකීම් සහගත වෙන්න ඕනේ කියන එක තැන මම අනිවාර්යෙන්ම සිටිනවා. මොකද අපිට ඕනේ තරම් පුහුණ කරන්න පුළුවන්, පුහුණුවීම්වල යෙදෙන්න පුළුවන්, අපිට තොරතුරු දෙන්න පුළුවන් හැබැයි මැදට ගියාම ඊට වඩා ටිකක් ඔළුව කල්පනා කරලා සෙල්ලම් කරන්න ඕනේ. මොකද මේක පළවෙනි වතාව නෙමෙයි. අපිට ලෝක කුසලනයේ බංග්ලාදේශ තරගයේදීත් මේක වුණා. අපි ඒක ගැන කථා කරලා ඒකට සොලියුෂනුත් ඒ අයගෙන් ඇග්‍ර්ඩ් ප්ලෑන් එකට තමයි වැඩ කරන්නේ. හැබැයි ඒ රිසාල්ට් එක එන්නේ නැහැ. මම හිතනවා ටිකක් තද තීරණ ගන්න වෙයි ඉදිරියේදී."
+
+◼️
+
+[Data](articles/e9542949.json)
+
+---
+
+### ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම ට ඩොලර් ලක්ෂ 5ක්
+
+*2024-07-29 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199348) · `si`
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් වංශ කතාවේ නව පරිච්ඡේදයක් සනිටුහන් කළ ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමට ඩොලර් ලක්ෂ 05 ත්‍යාග මුදලක් ලබාදී තිබේ.
+
+රංගිරි දඹුලු ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවති මෙවර ආසියානු කුසලාන අවසන් මහා තරගයේදී ප්‍රබල ඉන්දීය කණ්ඩායම කඩුළු 8කින් පරාජය කරමින් ඓතිහාසික ජයක් ලැබූ චමරි අතපත්තු ප්‍රමුඛ ශ්‍රී ලංකා කණ්ඩායම ඉතිහාසයේ පළමු වරට ආසියානු කුසලානයක් දිනාගැනීමට ඊයේ සමත් වුණි.
+
+◼️
+
+[Data](articles/ba0531e7.json)
+
+---
 
 ### Colombo Port recognized as world’s fastest-growing port in Q1 2024
 
@@ -308,17 +338,41 @@ According to party sources, the party's candidate is ready to be published in th
 
 ---
 
-### තේ පොහොර සහනාධාරය සියයට 100කින් වැඩි කරයි
+### ණුවන් බෝපගේ ජනපති සටනට
+
+*2024-07-29 18:38:47* · [`adalk`](https://www.ada.lk/breaking_news/ණුවන්-බෝපගේ-ජනපති-සටනට/11-411078) · `si`
+
+සංකීර්ණ දේශපාලන තත්ත්වය හමුවේ මෙරට සාමාන්‍ය ජනායාගේ අභිලාෂය ඉදිරියට ගෙනයාම සඳහා ජන අරගල සන්ධානයේ ජනාධිපතිවරණ අපේක්ෂකයා ලෙස නුවන් බෝපගේ මහතාව ඉදිරිපත් කරන බව එම සන්ධානයේ කැඳවුම්කරු ළහිරු වීරසේකර පැවසීය.
+
+ජන අරගල සන්ධානයේ ජනාධිපතිවරණ අපේක්ෂකයා ප්‍රකාශ කිරීම සඳහා අද (29දා) කොළඹ මහජන පුස්තකාලයේ පැවති මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් ජන අරගල සන්ධානයේ කැඳවුම්කරු ළහිරු වීරසේකර මෙලෙස අදහස් දක්වා සිටියේය.
+
+“හිටපු ජනපතිවරයා පන්නා දැමූ 2022 ගෝල්ෆේස් අරගලය එහි කූටප්‍රාප්තියේදී වැඩපිළිවෙළක් සහිත ප්‍රකාශනයක් ඉදිරිපත් කළා. එය විවිධ දේශපාලන අදහස් සහිත අරගලයේ කොටස් සියලු දෙනාට එකඟ විය හැකි පොදු වැඩපිළිවෙළක් ලෙස ඉදිරියට ආවේ. එය ජනතාවගේ පුළුල් දේශපාලන - ආර්ථික අභිලාෂයන්වල ප්‍රකාශනයක්.
+
+...
+
+[Data](articles/3dee586d.json)
+
+---
+
+### Tea will increase the fertilizer subsidy by 100 percent
 
 *2024-07-29 18:35:11* · [`adalk`](https://www.ada.lk/breaking_news/තේ-පොහොර-සහනාධාරය-සියයට-100කින්-වැඩි-කරයි/11-411077) · `si`
 
-තේ පොහොර සහනාධාරය රුපියල් 4000 දක්වා ඉහළ නැංවීමට රජය තීරණය කර තිබේ.ඒ අනුව මින් පෙර ගොවීන්ට ලබා දීමට  තීරණය කර තිබූ රුපියල් 2000ක මුදල එළඹෙන මහ කන්නයේ සිට දෙගුණයකින් ඉහළ නංවා ඇත.
+The government plans to double the tea fertilizer subsidy to Rs. 4,000, as per instructions from Minister Mahinda Amaraweera.
 
-මේ පිළිබඳ අදහස් දක්වමින් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් ජානක ධර්මකීර්ති මහතා සඳහන් කර සිටියේ තේ නිෂ්පාදනය ඉහළ නැංවීමට අදාළ මුදල ප්‍රමාණවත් නොවීම හේතුවෙන් එය දෙගුණයක් කරන ලෙස විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතා විසින් තමන්ට උපදෙස් දුන් බවයි.
+🟩
+
+The Government has decided to increase the tea fertilizer to Rs. 4,000. According to the previous farmers, the Rs.
+
+Speaking to the Ministry of Agriculture and Plantation Industries Janaka Dharmakeerthi said that the Minister of Agriculture and Plantation Industries said that Minister Mahinda Amaraweera instructed him to double it.
 
 ◼️
 
 [Data](articles/6b63c575.json)
+
+[Extended Data](ext_articles/6b63c575.ext.json)
 
 ---
 
@@ -2207,73 +2261,5 @@ Yet there was more in common between the two men than what appeared on the surfa
 [Data](articles/f37d8606.json)
 
 [Extended Data](ext_articles/f37d8606.ext.json)
-
----
-
-### Firing at the park in the United States;One kills;6 people injured
-
-*2024-07-29 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189667) · `ta`
-
-A shooting at Maplewood Park in Rochester, NY, resulted in one fatality and six injuries on Sunday evening. The victim, a 20-year-old man, passed away, while another individual was hospitalized with serious injuries. Five others suffered minor injuries. Authorities urge witnesses to share any video footage via 311 or 911.
-
-🟩
-
-One person was killed and six people were injured in Sunday's shooting at a park in Rochester, New York, USA.
-
-The shooting incident took place at Maplewood Park around 6.30pm on Sunday. A 20 -year -old man died in the incident.
-
-Another person has been admitted to the hospital with injuries and five people with minor injuries.
-
-Police have asked the public to inform the video of the shooters to the phone 311 or 911.
-
-◼️
-
-[Data](articles/b82313c9.json)
-
-[Extended Data](ext_articles/b82313c9.ext.json)
-
----
-
-### ‘Not surprised’ at Sri Lanka Women’s cricket team progress: Minister
-
-*2024-07-29 11:25:00* · [`economynextcom`](https://economynext.com/not-surprised-at-sri-lanka-womens-cricket-team-progress-minister-174170/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Foreign Affairs M U M Ali Sabry, has said that he was not surprised by Sri Lanka’s team winning the Women’s T20 Asia Cup 2024 on Sunday.
-
-Sabry was part of the cabinet-appointed subcommittee to inquire into the issues faced by Sri Lanka cricket.
-
-“We extensively interviewed a wide segment of stakeholders, including members of both the Men’s and Women’s Cricket teams.
-
-“This is what we had to say about them, which is why we are not surprised that the Women’s team is making great progress and strides!” Sabry said, highlighting the relevant part of the report.
-
-“In contrast to the men’s cricket team, the women’s cricket team displayed a cohesive and unified group dynamic, characterized by a high level of respect for their coaches and a shared feeling of responsibility.
-
-“The head coach has implemented better communication among the stakeholders, fostering team cohesion among all parties involved.”
-
-...
-
-[Data](articles/00a58dee.json)
-
-[Extended Data](ext_articles/00a58dee.ext.json)
-
----
-
-### Presidential Election 2024: Notice for postal voting applicants
-
-*2024-07-29 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100851/presidential-election-2024-notice-for-postal-voting-applicants) · `en`
-
-The applications to cast postal votes must be handed over to District Returning Officers on or before August 05, the Election Commission announced.
-
-Accordingly, all applications of the postal voting applicants must be forwarded to the relevant District Returning Officers through the District Election Office address.
-
-The commission announced that the application forms to be completed for availing the postal voting facility can be obtained free of charge from the places where the voters’ lists are displayed, from the district election offices and also from the website of the Election Commission.
-
-Furthermore, the Election Commission informs the general public that the applications must be received by the respective District Election Offices before 12.00 midnight on August 05, which is the last day of applications receipt and mere delivery of applications by post on that day is not a reason for acceptance of applications.
-
-...
-
-[Data](articles/09cf791c.json)
-
-[Extended Data](ext_articles/09cf791c.ext.json)
 
 ---

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 23:35:57**
+As of **2024-07-29 23:55:41**
 
 ## Newspaper Stats
 
-*Scraped **37,938** Articles*
+*Scraped **37,941** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 330
-colombotelegraphcom | 360
+colombotelegraphcom | 361
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,170
-economynextcom | 2,273
+economynextcom | 2,274
 dailyftlk | 2,416
 adalk | 3,465
 adaderanalk | 4,396
-tamilmirrorlk | 4,696
+tamilmirrorlk | 4,697
 dailymirrorlk | 4,733
 virakesarilk | 5,987
 adaderanasinhalalk | 6,384
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,938 (100.0%) of 37,938 articles have been extended.
+37,938 (100.0%) of 37,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### ரணிலுக்கு ஆதரவளிக்கும் மொட்டு கட்சியின் முக்கியஸ்தர்
+
+*2024-07-29 23:35:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவளிக்கும்-மொட்டு-கட்சியின்-முக்கியஸ்தர்/175-341251) · `ta`
+
+ரணிலுக்கு ஆதரவளிப்பதில்லை என ஸ்ரீலங்கா பொதுஜனபெரமுன  தீர்மானித்துள்ள போதிலும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவு வழங்கப்போவதாக இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னக்கோன் தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்கா பொதுஜனபெரமுன எவ்வாறான தீர்மானத்தை எடுத்திருந்தாலும் சரி, கட்சியின் பெரும்பான்மையான பாராளுமன்ற உறுப்பினர்களுடன் நான் ஜனாதிபதிக்கு எதிர்வரும் தேர்தலில்  ஆதரவளிப்பேன் நாட்டை மிக முக்கியமான தருணத்தில் காப்பாற்றியவர் அவர் என இராஜாங்க அமைச்சர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/df133a8e.json)
+
+---
 
 ### Weather advisory issued for heavy rains
 
@@ -686,6 +700,30 @@ Accordingly, the current President of the PA will not support the current Presid
 
 ---
 
+### Sri Lanka Podujana Party to field own candidate
+
+*2024-07-29 18:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-party-to-field-own-candidate-174271/) · `en`
+
+ECONOMYNEXT – Sri Lanka Podujana Party’s executive committee has decided to field their own Presidential candidate under own flower bud symbol, amid opposition from some, General Secretary Sagara Kariyawasam said.
+
+“In the next few days we will decide the name of the person who can win,” Kariyawasam said. “When the party decides to field it’s own candidate there is no chance to support the current President.”
+
+There were some who opposed the proposal, but a ‘vast majority’ had endorsed the decision, he said.
+
+The party has been divided on the the candidate with several ministers openly coming out in support of President Ranil Wickremesinghe.
+
+Disciplinary action will be taken against anyone who opposes the decision or decides to contest without the party approval, Kariyawasam said.
+
+Businessman Dammika Perera, who is a nationalist legislator of the SLPP has said he is ready to be the SLPP nominee.
+
+Legislator Namal Rajapaksa, has opposed Wickremesinghe he was an expert at splitting parties.
+
+...
+
+[Data](articles/9cd4eb8e.json)
+
+---
+
 ### SLPP decides not to support Ranil at prez poll, to field own candidate
 
 *2024-07-29 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100863/slpp-decides-not-to-support-ranil-at-prez-poll-to-field-own-candidate) · `en`
@@ -773,6 +811,20 @@ Age of farmer organizations have also stated that the prices of nadu and sambal 
 [Data](articles/8aeb067c.json)
 
 [Extended Data](ext_articles/8aeb067c.ext.json)
+
+---
+
+### Ranil’s Travel Expenses Released By Directive Of RTI Commission; Will Anura Do The Same?
+
+*2024-07-29 17:56:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-travel-expenses-released-by-directive-of-rti-commission-will-anura-do-the-same/) · `en`
+
+On a directive by the Right to Information Commission last Thursday (July 25th 2024), the Ministry of Foreign Affairs released all information relating to the food and accommodation costs of President Ranil Wickremesinghe during travels to London, Singapore, Japan (Tokyo), Cuba (Havana), America (New York), Germany (Berlin) and China (Beijing) in 2023.
+
+The RTI Commission order came following an RTI request filed by a journalist based in the Northern Province, K Dileep Amuthan who appealed to the Commission following refusal by the Ministry to release the information saying that the ‘information was not within the purview’ of the Ministry.
+
+...
+
+[Data](articles/c722782a.json)
 
 ---
 
@@ -2247,79 +2299,5 @@ Meanwhile, Vijayadasa Rajapakse will contest the upcoming presidential election 
 [Data](articles/0fadaae4.json)
 
 [Extended Data](ext_articles/0fadaae4.ext.json)
-
----
-
-### Ranil Emergency letter to Mahinda
-
-*2024-07-29 12:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிற்கு-ரணில்-அவசர-கடிதம்/175-341207) · `ta`
-
-Ranil Wickremesinghe, seeking support from the Sri Lanka People's Alliance (PA) for his independent presidential bid, wrote a letter to former President Mahinda Rajapaksa. The PA's Executive Council is set to discuss this request today, despite the President's Media Division acknowledging its validity.
-
-🟩
-
-There have been reports on social media that President Ranil Wickremesinghe has sent a letter to former President Mahinda Rajapaksa.
-
-President Ranil Wickremesinghe has asked the Sri Lanka PA to support him as he will contest the upcoming presidential election as he will contest as an independent candidate.
-
-He has made this request by sending a letter to former President Mahinda Rajapakse.
-
-Accordingly, the request of President Ranil Wickremesinghe is to be considered at the Executive Council of the PA today (29).
-
-Although the President's Media Division tried to consider the reality of the letter, it was not worth it.
-
-◼️
-
-[Data](articles/ce176914.json)
-
-[Extended Data](ext_articles/ce176914.ext.json)
-
----
-
-### Mahinda will not make a mistake
-
-*2024-07-29 12:01:09* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-වැරදි-තීන්දුවක්-නොගනීවි/11-411066) · `si`
-
-Minister Shehan Semasinghe asserts no wrong decisions have been made regarding the presidential election and the stability of the country, referencing historical instances where the government successfully supported the president during crises.
-
-🟩
-
-The Minister of State Shehan Semasinghe said that he had not taken a wrong decision so far.
-
-He was speaking about the presidential election when he visited the opening of a state bank in Galkiriyagama.
-
-The Minister said that when the former Republic of Republic was able to calm the country and support the president of the country when he was in a serious crisis.
-
-Speaking further Mr. Semasinghe said that if the Government of India was heading in 2022, he said that the country was only when the country would remain stable.
-
-◼️
-
-[Data](articles/4a6f9208.json)
-
-[Extended Data](ext_articles/4a6f9208.ext.json)
-
----
-
-### Kaia leaders have no plans
-
-*2024-07-29 11:55:35* · [`adalk`](https://www.ada.lk/breaking_news/කයිය-නායකවරුන්ට-සැලැස්මක්-නෑ/11-411065) · `si`
-
-Ranil Wickremesinghe, facing economic challenges, leads Sri Lanka without clear future plans. His leadership focuses on strengthening the economy and addressing bankruptcy issues. Despite criticism, he remains a pivotal figure in the UNP, with no immediate plans for stepping down.
-
-🟩
-
-"Today Ranil Wickremesinghe has a large number of world leaders. It is a leader of Ranil Wickremesinghe only leading the country to talk to the economy of the country and strengthen the economy of the country. Gunil Wickremesinghe, who is the leading bankruptcy, should take part in the president of the United National Party (UNP), Senior Presidential Leader of the United National Party (UNP)..
-
-Ruwan Wijewardene added that the Malwana Zonal Office was opened in the Biyagama Electorate yesterday (28), addressing the meeting.
-
-"Today there are a few leaders of today," we'll do these things to do these things to do these things to do this, excerpts. But if you come out, we have two more years to stay in the queue. Over the years, we have no plans.
-
-When a struggle was fallen when he was struggling, he would be afraid of a presidential election, accepting the challenges of the government when they were struggling when they were struggling.No, he came forward at the right time.
-
-...
-
-[Data](articles/ebfe8559.json)
-
-[Extended Data](ext_articles/ebfe8559.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 12:54:17**
+As of **2024-07-29 13:05:37**
 
 ## Newspaper Stats
 
-*Scraped **37,829** Articles*
+*Scraped **37,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,64 @@ bbccomsinhala | 365
 islandlk | 2,168
 economynextcom | 2,262
 dailyftlk | 2,416
-adalk | 3,448
-adaderanalk | 4,382
+adalk | 3,449
+adaderanalk | 4,383
 tamilmirrorlk | 4,680
 dailymirrorlk | 4,733
 virakesarilk | 5,961
-adaderanasinhalalk | 6,361
+adaderanasinhalalk | 6,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,828 (100.0%) of 37,829 articles have been extended.
+37,829 (100.0%) of 37,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### விஜயதாஸ ராஜபக்ஷ  ராஜினாமா
+### කොළඹ - නුවර පාර අවහිර වෙයි
+
+*2024-07-29 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199327) · `si`
+
+කොළඹ - නුවර ප්‍රධාන මාර්ගයේ යක්කල ප්‍රදේශයේ දී මගී බස් රථයක් සහ කන්ටේනර් රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+ඒ හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගය යක්කල හන්දිය ආසන්නයෙන් අවහිර වී ඇති බව "අද දෙරණ" වාර්තාකරු පවසයි.
+
+◼️
+
+[Data](articles/2c9ab545.json)
+
+---
+
+### Colombo-Kandy main road blocked due to accident
+
+*2024-07-29 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100854/colombo-kandy-main-road-blocked-due-to-accident) · `en`
+
+The Colombo-Kandy main road has temporarily been blocked at Yakkala Junction due to a collision between a passenger bus and a container truck, the police said.
+
+◼️
+
+[Data](articles/20c03b6a.json)
+
+---
+
+### Vijayadasa Rajapaksa resigns
 
 *2024-07-29 12:23:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாஸ-ராஜபக்ஷ-ராஜினாமா/175-341211) · `ta`
 
-நீதி, சிறைச்சாலைகள் விவகாரம் மற்றும் அரசியலமைப்பு திருத்தம் அமைச்சுக்களின் பொறுப்புகளில் இருந்தும் தான் ராஜினாமா செய்துள்ளதாக முன்னாள் நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ தெரிவித்தார்.
+Vijayadasa Rajapaksa, former Justice Minister, resigns from his roles including Justice, Prison Affairs, and Constitutional Amendment ministries.
+
+🟩
+
+Former Justice Minister Vijayadasa Rajapakse said that he has resigned from the responsibilities of the Ministry of Justice, Prison Affairs and Constitutional Amendment.
 
 ◼️
 
 [Data](articles/909e471c.json)
+
+[Extended Data](ext_articles/909e471c.ext.json)
 
 ---
 
@@ -125,6 +157,8 @@ Although the President's Media Division tried to consider the reality of the let
 Minister of Justice, Prisons Affairs and Constitutional Reforms Wijeyadasa Rajapakshe has stepped down from his ministerial position.
 
 Rajapakshe announced this decision while speaking at a press conference being held in Colombo today (29).
+
+Dr. Rajapakshe says he will step down from his ministerial position, to run for the Office of President in the upcoming election.
 
 ◼️
 
@@ -991,6 +1025,28 @@ At times, in the West-borne areas of the central hills and in the North, North, 
 [Data](articles/f130bb1a.json)
 
 [Extended Data](ext_articles/f130bb1a.ext.json)
+
+---
+
+### ජනපතිවරණය සැප් 21න් ඉදිරියට ගෙන යාමේ සූදානමක් නෑ
+
+*2024-07-29 06:10:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්-21න්-ඉදිරියට-ගෙන-යාමේ-සූදානමක්-නෑ/11-411058) · `si`
+
+පොලිස්පති පත් කිරීම සම්බන්ධයෙන් මතුව ඇති ගැටලුව සතියක් තුළ නිරාකරණය කර නිදහස් සහ ස්වාධීන මැතිවරණයක් පැවැත්වීමට අවශ්‍ය පසුබිම සකසනවා
+
+ජනාධිපතිවරණය සැප්තැම්බර් 21 දිනට වඩා ඉදිරියට ගෙන යාමට කිසිසේත් සූදානම් නැහැ.
+
+මැතිවරණ යනු ජනතා පරමාධිපත්‍යයයේ කොටසක් – එය උල්ලංඝනය වීමට ඉඩ දිය නොහැකියි.
+
+කථානායකවරයා සහ අගවිනිසුරුවරයා සමඟ සාකච්ඡාකර පොලිස්පති පත් කිරීම සම්බන්ධයෙන් මතුව ඇති ගැටලුව සතියක් තුළ නිරාකරණය කර ගැනීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+ජනාධිපතිවරණය සැප්තැම්බර 21 දිනට වඩා ඉදිරියට ගෙන යාමට තමා කිසිසේත් සූදානම් නැති බවත්, සැප්තැම්බර් 21 වන දින ජනාධිපතිවරණය පැවැත්වීමට අවශ්‍ය කටයුතු සලසන බවත් පැවසු ජනාධිපතිවරයා මැතිවරණ යනු ජනතා පරමාධිපත්‍යයේ කොටසක් බවත් එය උල්ලංඝනය වීමට ඉඩ නොතබන බවත් පැවසීය.
+
+එසේම ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 106 වන වගන්තියට අනුව රට තුළ ස්වාධීන හා නිදහස් මැතිවරණයක් පැවැත්වීමේ බලතල මැතිවරණ කොමිසමට හිමි වන බව පෙන්වා දුන් ජනාධිපතිවරයා ඒ වෙනුවෙන් පූර්ණ සහාය ලබාදීම සියලුදෙනාගේ පරම යුතුකම බවද කියා සිටියේය.
+
+...
+
+[Data](articles/91e63b71.json)
 
 ---
 
@@ -2177,85 +2233,5 @@ We will discuss the media campaign with the chiefs of the media companies.
 [Data](articles/32419c5c.json)
 
 [Extended Data](ext_articles/32419c5c.ext.json)
-
----
-
-### Dayasiri's response to Maithri's accusation
-
-*2024-07-28 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189602) · `ta`
-
-A 10-member committee will decide the Sri Lanka Freedom Party's stance in the upcoming presidential election. Dayasiri Jayasekara, the party's General Secretary, clarified he won't sign a contract with the United People's Power-led coalition on August 8, as previously reported. He emphasized decisions cannot be made arbitrarily and assured that discussions with district and constituency organizers covered various political issues, including the election. No decision has been made to support either Sajith Premadasa or Wijeyadasa Rajapakse.
-
-🟩
-
-It has been decided to appoint a 10 -member committee to decide on how the Sri Lanka Freedom Party should act in the proposed presidential election. Sri Lanka Freedom Party General Secretary Dayasiri Jayasekara said that all constituencies and district organizers will be taken back and the final decision will be taken.
-
-He also said that he would not sign a contract with the United People's Power -led coalition on August 8, as former President Maithripala Sirisena said, adding that he could not make such decisions arbitrarily.
-
-He further stated that he was addressing the meeting with the Sri Lanka Freedom Party (SLFP) district and constituency organizers.
-
-As per the court order, as the General Secretary of the Sri Lanka Freedom Party (SLFP), the legally invited to the constituency and district organizers held a long discussion with them.. Various contemporary political conditions, including the proposed presidential election, were taken care of.
-
-...
-
-[Data](articles/558166ae.json)
-
-[Extended Data](ext_articles/558166ae.ext.json)
-
----
-
-### Accused that the State Pharmaceutical Corporation is selling
-
-*2024-07-28 19:39:57* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ඖෂධ-සංස්ථාව-විකුණන්න-යන-බවට-චෝදනාවක්/11-411052) · `si`
-
-Doctors' unions accuse the State Pharmaceutical Corporation of compromising quality and affordability, established to provide high-quality medicines at low prices to Sri Lanka's rural population. Dr. Chamal Sanjeewa urges the Health Minister to halt operations, citing potential harm to the rural health system and the integrity of the Ministry of Medical Corporation. He plans to protest and meet with President Ranil Wickremesinghe.
-
-🟩
-
-Doctors' trade unions of doctors and civil rights doctors are mentioned that the State Pharmaceutical Corporation has over fifty years.
-
-Dr. Chamal Sanjeewa said that this corporation was established to provide the people of Sri Lanka to Sri Lanka's quality of high quality prices to India.
-
-He said he had requested the Minister of Health to immediately stop the work and will complain to Mr. Ranil Wickremesinghe regarding this tomorrow.
-
-It is said that due to the State Pharmaceuticals, the rural population has been able to obtain high quality drugs in very low prices, he said.
-
-He pointed out that selling the State Pharmaceutical Corporation can seriously damage to the rural health system.
-
-In addition, this can also be a serious impact, as the Ministry of Health is purchased with the proper quality of the Ministry of Medical Corporation.
-
-He said the President would protested in the written incident and hand over the Fort to the Presidential Secretariat tomorrow.
-
-◼️
-
-[Data](articles/188bd75f.json)
-
-[Extended Data](ext_articles/188bd75f.ext.json)
-
----
-
-### Pavithra Wanniyarachchi has increased the arrival of domestic and international tourists in 2024 compared to the last two years.
-
-*2024-07-28 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189635) · `ta`
-
-Pavithra Wanniyarachchi, Sri Lanka's Wildlife, Forest Resources, and Irrigation Minister, announced a significant rise in both domestic and international tourism in 2024 compared to the previous two years. In the first half of 2024 alone, 364,521 tourists visited, with 40% being foreigners. This surge is attributed to new environmental tourism regulations, the opening of information centers and hostels, and efforts to expand forest areas. Additionally, measures to combat elephant threats and modernize wildlife crime prevention laws have been implemented.
-
-🟩
-
-Wildlife, Forest Resources and Irrigation Minister Pavithra Wanniyarachchi said that by 2024, the number of domestic and foreign tourists who attended the Forest Department in 2024 had a significant increase in the number of tourists.
-
-The Minister said that in the first six months of 2024, 364 521 tourists arrived and 40% of them were foreign tourists.
-
-Minister of Wildlife, Forest Resources Protection and Irrigation Pavithra Wanniyarachchi made this statement while addressing a press conference on a two -year progress at the Presidential Media Center on Sunday (28).
-
-Compared to the last two years, in 2024, there has been a significant increase in the number of domestic and foreign tourists coming to tourist destinations under the administration of the Forest Department.
-
-Accordingly, the number of tourists visiting the tourist attractions controlled by the Department of Forest Resources in 2022 was 289,405 and 2023.
-
-...
-
-[Data](articles/b3a8cee4.json)
-
-[Extended Data](ext_articles/b3a8cee4.ext.json)
 
 ---

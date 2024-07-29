@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 12:20:39**
+As of **2024-07-29 12:36:17**
 
 ## Newspaper Stats
 
-*Scraped **37,826** Articles*
+*Scraped **37,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,262
 dailyftlk | 2,416
 adalk | 3,448
 adaderanalk | 4,382
-tamilmirrorlk | 4,677
+tamilmirrorlk | 4,679
 dailymirrorlk | 4,733
 virakesarilk | 5,961
 adaderanasinhalalk | 6,361
@@ -26,29 +26,71 @@ adaderanasinhalalk | 6,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,825 (100.0%) of 37,826 articles have been extended.
+37,826 (100.0%) of 37,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### மஹிந்தவிற்கு ரணில் அவசர கடிதம்
+### சஜித்தின் 8 கூட்டங்கள்  ரத்து
+
+*2024-07-29 12:09:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/சஜித்தின்-8-கூட்டங்கள்-ரத்து/74-341210) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச அம்பாறை மாவட்டத்தில்,  திங்கட்கிழமை (29)  கலந்து கொள்ள இருந்த  எட்டு கூட்டங்கள் ரத்து செய்யப்பட்டுள்ளன.
+
+பின்தங்கிய பிரதேசத்தைச் சேர்ந்த எட்டு பாடசாலைகளுக்கு சுமார் ஒரு கோடி ரூபாய் பெறுமதியான ஸ்மார்ட் அறைக்கான உபகரணங்கள் வழங்கும் நிகழ்வுகளே இவ்விதம் ரத்து செய்யப்பட்டுள்ளதாக சஜித் பிரேமதாசவின் இணைப்பாளர் வி. வினோ காந்த்  ஊடகங்களுக்கு தெரிவித்துள்ளார்.
+
+இந் நிகழ்வுகள்,  முன் கூட்டியே ஏற்பாடு செய்யப்பட்டிருந்த போதிலும் ஜனாதிபதி தேர்தல் விதிமுறைகளுக்கமைவாக இந் நிகழ்வுகள் ரத்து செய்யப்பட்டன.
+
+அதாவது தேர்தல் ஆணையகத்தினால் ஜனாதிபதி தேர்தல் திகதி அறிவிக்கப்பட்ட பிற்பாடு இத்தகைய நிகழ்வை நடத்துவது தேர்தல் விதிமுறைகளை மீறும் செயலாகும் என்ற காரணத்தினால் இது ரத்து செய்யப்பட்டுள்ளது என்றார்.
+
+அம்பாறையில் இருந்து தேர்தல் ஆணைக்குழுவுக்கு சென்ற முறைப்பாட்டை அடுத்து நடவடிக்கை எடுக்கப்பட்டிருக்கிறது.  தேர்தல் நடைமுறை விதிகளுக்கு அமைவாக இந்த நிகழ்வுகள் ரத்து செய்யப்பட்டுள்ளன என்றார்.
+
+◼️
+
+[Data](articles/18f68d5b.json)
+
+---
+
+### மக்கள் பேரவையின் ஜனாதிபதி வேட்பாளர்?
+
+*2024-07-29 12:08:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-பேரவையின்-ஜனாதிபதி-வேட்பாளர்/175-341209) · `ta`
+
+அரகலய போராட்டக்காரர்கள் இணைந்து உருவாக்கியுள்ள மக்கள் பேரவைக்கான இயக்கம் தனது ஜனாதிபதி வேட்பாளர் குறித்த அறிவிப்பை திங்கட்கிழமை (29) வெளியிடவுள்ளது.
+
+இதற்கமைய, கொழும்பு பொதுநூலக கேட்போர் கூடத்தில் திங்கட்கிழமை 1.00 மணியளவில் இடம்பெறவுள்ள நிகழ்வில்  மக்கள் பேரவைக்கான இயக்கம் தனது வேட்பாளர் குறித்து அறிவிக்கவுள்ளது.
+
+தேர்தலை எதிர்கொள்வதற்கான மூலோபாயங்கள் மக்கள் பேரவைக்கான இயக்கத்தின் நிலைப்பாடுகள் குறித்த அறிவிப்பும் வெளியாகும் என கட்சியின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5b1130fd.json)
+
+---
+
+### Ranil Emergency letter to Mahinda
 
 *2024-07-29 12:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிற்கு-ரணில்-அவசர-கடிதம்/175-341207) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு கடிதமொன்றை அனுப்பி வைத்துள்ளார் என சமூக வலைத்தளங்களில் செய்திகள் பரவியுள்ளன.
+Ranil Wickremesinghe, seeking support from the Sri Lanka People's Alliance (PA) for his independent presidential bid, wrote a letter to former President Mahinda Rajapaksa. The PA's Executive Council is set to discuss this request today, despite the President's Media Division acknowledging its validity.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் தாம் சுயேச்சை வேட்பாளராக போட்டியிடவுள்ளதால் தமக்கு ஆதரவளிக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க ஸ்ரீலங்கா பொதுஜன பெரமுனவிடம் கோரிக்கை விடுத்துள்ளார்.
+🟩
 
-பொதுஜன பெரமுனவின் தலைவர் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு கடிதம் ஒன்றை அனுப்பி வைத்து அவர் இந்த கோரிக்கையை விடுத்துள்ளார்.
+There have been reports on social media that President Ranil Wickremesinghe has sent a letter to former President Mahinda Rajapaksa.
 
-அதன்படி, ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கோரிக்கை இன்று(29)  நடைபெறவுள்ள பொதுஜன பெரமுனவின் நிறைவேற்று சபையில் பரிசீலிக்கப்பட உள்ளது.
+President Ranil Wickremesinghe has asked the Sri Lanka PA to support him as he will contest the upcoming presidential election as he will contest as an independent candidate.
 
-இந்த கடிதத்தின் உண்மை  தன்மை தொடர்பில் பரிசீலிப்பதற்கு ஜனாதிபதி ஊடகப்பிரிவுடன் தொடர்புகளை ஏற்படுத்த முயற்சித்த போதிலும், அது பலனளிக்கவில்லை.
+He has made this request by sending a letter to former President Mahinda Rajapakse.
+
+Accordingly, the request of President Ranil Wickremesinghe is to be considered at the Executive Council of the PA today (29).
+
+Although the President's Media Division tried to consider the reality of the letter, it was not worth it.
 
 ◼️
 
 [Data](articles/ce176914.json)
+
+[Extended Data](ext_articles/ce176914.ext.json)
 
 ---
 
@@ -125,6 +167,22 @@ In one master stroke last Sunday afternoon, the beleaguered American President J
 [Data](articles/da6cd2a0.json)
 
 [Extended Data](ext_articles/da6cd2a0.ext.json)
+
+---
+
+### Bandaranaike, Chelvanayakam and the collapse of their Grand Collaboration
+
+*2024-07-29 11:35:00* · [`islandlk`](http://island.lk/bandaranaike-chelvanayakam-and-the-collapse-of-their-grand-collaboration/) · `en`
+
+The 1956 elections brought to the forefront of Sinhala-Tamil political divide two former classmates at St. Thomas’s College, SWRD Bandaranaike and SJV Chelvanayakam. SWRD rode to power as Prime Minister, heading the ideologically motley MEP coalition, on the well-orchestrated Sinhala Only wave. SJV and his Tamil Arasu Kadchi or Federal Party swept the elections in the North and East to present a defensive phalanx in parliament supplemented by non-violent protests outside parliament.
+
+Yet there was more in common between the two men than what appeared on the surface as Sinhala-Tamil political confrontation. Just as there is more in common between the Sinhalese and the Tamils socially and culturally than what would appear to be the case on the surface of politics.
+
+...
+
+[Data](articles/f37d8606.json)
+
+[Extended Data](ext_articles/f37d8606.ext.json)
 
 ---
 
@@ -2201,67 +2259,5 @@ Senior members of the party claim that the Members of the PA is to be fielded as
 [Data](articles/6104b913.json)
 
 [Extended Data](ext_articles/6104b913.ext.json)
-
----
-
-### India to benefit from the coin
-
-*2024-07-28 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199310) · `si`
-
-India stands to gain as the second 20 and Twenty20 International match takes place today at the Pallekele Cricket Stadium.
-
-🟩
-
-Second 20 and Twenty20 International Competition will be held today (28) at the Pallekele Cricket Stadium.
-
-◼️
-
-[Data](articles/0306c286.json)
-
-[Extended Data](ext_articles/0306c286.ext.json)
-
----
-
-### Man drowns in the gem river
-
-*2024-07-28 19:16:51* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-ගඟේ-ගිලී-සිසුවෙකු-මරුට/11-411050) · `si`
-
-A 16-year-old boy, Morgo Raj Raj Saran from Haputale, drowned in the Gem River while on a trip with a group from Kataragama. He was preparing for his Ordinary Level exams. His father mentioned that he died during a temple visit to Sellakaragama.
-
-🟩
-
-Kataragama Police said that a group of people in Kataragama from Haputalewa from Haputalewa.
-
-The deceased is Morgo Raj Raj Saran, a 16 year old youth in Haputale, Dambithanna, Bandarawatta, Haputatna.. In. Surveying. The student father says that a person who was preparing to contest the Ordinary Level examination.
-
-The father of the delegation said that he had found that he had died under the midst of the group due to non-son's sacrifices before the temple sacrifices were taken to Sellakaragama.
-
-◼️
-
-[Data](articles/3efc0874.json)
-
-[Extended Data](ext_articles/3efc0874.ext.json)
-
----
-
-### Sri Lanka Women’s team awarded USD 100,000; Chamari opens up on retirement plans
-
-*2024-07-28 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100841/sri-lanka-womens-team-awarded-usd-100000-chamari-opens-up-on-retirement-plans-) · `en`
-
-Sri Lanka Cricket (SLC) has promised a USD 100,000 award prize to the Sri Lankan women’s team, led by Chamari Athapaththu, for winning their first-ever Women’s Asia Cup.
-
-The Sri Lankan women’s team won their inaugural Women’s Asia Cup title by defeating seven-time champions India by 8 wickets in the final on Sunday.
-
-Chasing Sri Lanka’s highest-ever target of 165, skipper Chamari Athapaththu scored an impressive 61 runs with 2 sixes and 9 boundaries, leading the team to a historic victory.
-
-Chamari Athapaththu, who scored the first-ever century in the Women’s T20 Asia Cup during their group stage match against Malaysia, was named Player of the Tournament in the 2024 Women’s T20 Asia Cup.
-
-Additionally, Sri Lanka’s Harshitha Samarawickrema was awarded Player of the Final for her outstanding performance against India, scoring an unbeaten 69 runs off just 51 deliveries and propelling the team to victory.
-
-...
-
-[Data](articles/12afdfaa.json)
-
-[Extended Data](ext_articles/12afdfaa.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 19:06:02**
+As of **2024-07-29 19:20:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,907 (100.0%) of 37,909 articles have been extended.
+37,909 (100.0%) of 37,909 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Issuing a statement, the Ministry mentioned that the Foreign Affairs State Minis
 ...
 
 [Data](articles/fe497eb9.json)
+
+[Extended Data](ext_articles/fe497eb9.ext.json)
 
 ---
 
@@ -156,19 +158,27 @@ The Indian-Russian consortium was chosen despite the United States having inform
 
 ---
 
-### වී කිලෝවකට රු. 150ක සහතික මිලක් ඉල්ලයි
+### A kilo of paddy. 150 demands certified price
 
 *2024-07-29 17:58:26* · [`adalk`](https://www.ada.lk/breaking_news/වී-කිලෝවකට-රු--150ක-සහතික-මිලක්-ඉල්ලයි/11-411072) · `si`
 
-වී කිලෝවක් නිෂ්පාදන‍ය කිරිමට යන වියදම සැලකිල්ලට ගනිමින් මෙවර යල කන්නයේ වී කිලෝවක් සඳහා රුපියල් 150 ක සහතික මිලක් රජය මගින් ජනාධිපතිවරණයට පෙර නියම නොකළොත් , පොළොන්නරුව ඇතුළු මහවැලි බි කළාපයේ ගොවි ජනතාව දැවැන්ත ගොවිජන අරගලයක් ක්‍රියාත්මක කරන බව මහවැලි බි කලාපයේ සෙවණපිටිය කොට්ඨාශයේ ගොවි සංවිධාන 21 ක නියෝජිතයින්  29 වෙනිදා පෙරවරුවේ සෙවනපිටිය වෙල් යායේ දී මාධ්‍ය සාකච්ඡාවක් පවත්වමින් සඳහන් කළහ.
+Farmers in Polonnaruwa demand fair prices for their paddy during the Yala season, criticizing low prices offered by private mills. They request government intervention and threaten protests if their demands aren't met. The situation highlights concerns over pricing, government support, and the impact of pests on crop yields.
 
-මේ වනවිට යල කන්නයේ වී  අස්වනු නෙළෙමින් පවතින අතර පොළොන්නරුව  දිස්ත්‍රික්කයේ පෞද්ගලික  වී මෝල් හිමියන් තමන්ගේ වී අ ස්වනු තුට්ටු දෙකට ලබා ගනිමින් පවතින බවත් කිසිදු ස්ථානයක රජය මගින් වී මිලදී ගැනීමේ වැඩපිළිවෙළක් ක්‍රියාත්මක නොකරන බවත් , වහාම රජය මැදිහත් වි ගොවියාගේ වී අස්වනු සහතික මිලකට හෝ සාධාරණ මිලකට වී ලබා ගැනීමෙ වැඩපිළිවෙළක් ක්‍රියාත්මක කරන ලෙසද මෙහිදී සංවිධාන නියෝජිතයින් රජයෙන් ඉල්ලීමක් කළහ.
+🟩
 
-මහවැලි බි කලාපයේ සෙවණපිටිය කොට්ඨාශ ගොවි සංවිධාන සභාපති, අසංක සංජීව මහතා මෙම මාධ්‍ය හමුව සංවිධාන කර තිබු අතර මෙම අවස්ථාවට ගොවි සංවිධාන 21 ක නියෝජිතයන්  පැමිණ අදහස් දැක්වූහ.
+Troops of the Government of Polonnaruwa, including a certificate of Rs.A press conference held at the Sevanapitiya Wel Yaywaran morning.
+
+The Yala season is currently being harvested, and the government is not implementing the two private paddy mill owners in the Polonnaruwa District and the government's paddy is at a reasonable prices or fair pricesRepresentatives of the organizations have also requested the government to implement a program.
+
+The press conference was organized by the Chairman of the Mahaweli B Zone Mahaweli Bthnayake and the press conference was organized by the press conference and the representatives of 21 Farmers' organizations came to the occasion.
+
+Age of farmer organizations have also stated that the prices of nadu and sambal has been degraded by the main scale of Kiranara and the price of nadi and sambal.Did.
 
 ...
 
 [Data](articles/8aeb067c.json)
+
+[Extended Data](ext_articles/8aeb067c.ext.json)
 
 ---
 

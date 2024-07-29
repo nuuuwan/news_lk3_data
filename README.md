@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 10:20:29**
+As of **2024-07-29 10:36:04**
 
 ## Newspaper Stats
 
-*Scraped **37,804** Articles*
+*Scraped **37,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,416
 adalk | 3,444
-adaderanalk | 4,378
+adaderanalk | 4,380
 tamilmirrorlk | 4,670
 dailymirrorlk | 4,733
 virakesarilk | 5,961
@@ -26,27 +26,55 @@ adaderanasinhalalk | 6,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,802 (100.0%) of 37,804 articles have been extended.
+37,804 (100.0%) of 37,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர்?
+### The Presidential candidate of the Sri Lanka PA?
 
 *2024-07-29 10:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கா-பொதுஜன-பெரமுனவின்-ஜனாதிபதி-வேட்பாளர்/175-341198) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின்  வேட்பாளர் தொடர்பான தீர்மானத்தை இன்று இடம்பெறவுள்ள அரசியல் குழுக் கூட்டத்தின்போது, தீர்மானிக்கவுள்ளதாக அக்கட்சியின் பொதுச் செயலாளர் சாகல காரியவசம் தெரிவித்துள்ளார்.
+The Sri Lanka People's Party (PA) will decide its presidential candidate at a political committee meeting today. Despite previous non-compliant meetings, President Ranil Wickremesinghe is set to run as an independent candidate.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகருக்கும் இடையில் நேற்றைய தினம் சந்திப்பொன்று இடம்பெற்றிருந்தது.
+🟩
 
-இதற்கு முன்னரும் இவ்வாறான பல சந்திப்புகள் இடம்பெற்ற நிலையில் அவை இணக்கப்பாடின்றி நிறைவடைந்திருந்தன.
+The General Secretary of the party, Sagala Kariyawasam, said that the decision on the Sri Lanka PA's candidate will be decided at the political committee meeting today.
 
-அதேநேரம், ஜனாதிபதி ரணில் விக்ரமசிங்க சுயாதீன வேட்பாளராகத் தேர்தலில் களமிறங்கியுள்ள நிலையில், தமது கட்சியின் வேட்பாளர் தொடர்பான அறிவிப்பை ஸ்ரீ லங்கா பொதுஜன பெரமுன இன்று வெளியிடவுள்ளது. R
+A meeting was held yesterday between President Ranil Wickremesinghe and the founder of the Sri Lanka PA.
+
+Earlier, many such meetings had been completed without compliance.
+
+Meanwhile, President Ranil Wickremesinghe is due to announce the election as an independent candidate.. Remble
 
 ◼️
 
 [Data](articles/537a8c4d.json)
+
+[Extended Data](ext_articles/537a8c4d.ext.json)
+
+---
+
+### Maduro wins third term, Venezuela electoral authority says, despite exit polls
+
+*2024-07-29 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100850/maduro-wins-third-term-venezuela-electoral-authority-says-despite-exit-polls) · `en`
+
+Venezuelan President Nicolas Maduro has won a third term with 51% of the vote, the country’s electoral authority said just after midnight on Monday, with 80% of ballot boxes counted.
+
+The result announced by the authority came despite multiple exit polls which pointed to an opposition win.
+
+The authority said opposition candidate Edmundo Gonzalez won 44% of the vote, though the opposition had earlier said it had “reasons to celebrate” and asked supporters to continue monitoring vote counts.
+
+“The results cannot be hidden. The country has peacefully chosen a change,” Gonzalez said in a post on X at around 11 p.m. local time, before the results were announced.
+
+Opposition leader Maria Corina Machado reiterated a call for the country’s military to uphold the results of the vote.
+
+“A message for the military. The people of Venezuela have spoken: they don’t want Maduro,” she said earlier on X. “It is time to put yourselves on the right side of history. You have a chance and it’s now.”
+
+...
+
+[Data](articles/61183692.json)
 
 ---
 
@@ -71,6 +99,28 @@ Information on the victim of the shooting has not yet been revealed, and the pol
 [Data](articles/9c8cc76c.json)
 
 [Extended Data](ext_articles/9c8cc76c.ext.json)
+
+---
+
+### 7 people shot, 1 fatally, at a park in upstate New York
+
+*2024-07-29 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100849/7-people-shot-1-fatally-at-a-park-in-upstate-new-york) · `en`
+
+One person is dead and at least six others were injured following a mass shooting Sunday at a park in upstate New York.
+
+Rochester police said they responded to Maplewood Park around 6:20 p.m. to a large gathering with shots fired and found several people suffering from gunshot wounds.
+
+An adult in their 20s was killed, another person suffered a life threatening injury and five people were hospitalized with minor injuries, Capt. Greg Bello said.
+
+The identity of the victim fatally shot has not yet been released pending the notification of family, Bello said.
+
+Several police agencies responded to the park including the Irondequoit Police, Monroe County Sheriff’s Office, Rochester Police and New York State Police. Rochester police did confirm a party was happening in the area at the time of the shooting.
+
+“At this point we don’t know how many people were shooting,” Bello said. “We are trying to work our way through as many witnesses as we can.”
+
+...
+
+[Data](articles/1bbffdf6.json)
 
 ---
 
@@ -318,19 +368,27 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 
 ---
 
-### ප්‍රභූ ආරක්ෂක වියදම රු.  බිලියන 5.8ක් දක්වා ඉහළට
+### VIP defense expenditure Rs. 5.8 billion
 
 *2024-07-29 08:13:21* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-ආරක්ෂක-වියදම-රු---බිලියන-5-8ක්-දක්වා-ඉහළට/11-411059) · `si`
 
-ප්‍රභූ ආරක්ෂක කොට්ඨාසයේ 2018 ජනවාරි 01වනදා සිට 2022 දෙසැම්බර් 31 දක්වා වසර 05ක සාමාන්‍ය වාර්ෂික වියදම රුපියල් මිලියන 4,342ක් වුවද 2023 ජනවාරි මාසයේ සිට දෙසැම්බර් මස 31වනදා කාලසීමාව තුළ ප්‍රභූ ආරක්ෂක වියදම රුපියල් මිලියන 5,833ක් දක්වා වැඩි වී ඇති බව ජාතික විගණන කාර්යාලය මගින් ජූලි මස 26වන දින නිකුත් කොට ඇති විගණන වාර්තාවක සඳහන් වේ.
+In 2023, VIP defense spending reached Rs. 5.8 billion, with an audit revealing excessive use of elite protectors beyond approved limits. The report covers expenses for protecting various elites, including former governors and religious leaders, detailing how funds were allocated outside official guidelines. From September 30, the number of officers under VIP security rose from 3,894 to 4,859, highlighting financial discrepancies and potential misuse of resources.
 
-ප්‍රභූ ආරක්ෂාව සැලසීමට අදාළ පොලිස්පතිගේ 2020 සැප්තැම්බර් මස 30වන දින අංක 2683/2020 දරන චක්‍රලේඛයට පරිබාහිරව මහජන ආරක්ෂක අංශයේ ප්‍රභූ ආරක්ෂාව සඳහා නිලධාරීන් අනුයුක්ත කිරීමේ කමිටුව විසින් ප්‍රභූ ආරක්ෂකයන් යොදවා තිබුණි.
+🟩
 
-මෙම කමිටුව විසින් හිටපු ආණ්ඩුකාරවරුන්, හිටපු මන්ත්‍රීවරුන්, හිටපු ප්‍රධාන අමාත්‍යවරුන්, ආගමික නායකයන් හා වෙනත් ප්‍රභූන් හා විවිධ තැනැත්තන් සඳහා අනුමත කරන ලද සීමාව ඉක්මවා ප්‍රභූ ආරක්ෂකයන් වසර ගණනාවක සිට අනුයුක්ත කර සිටින අවස්ථා පැවති බවද එම විගණන වාර්තාවේ සඳහන් වේ.
+Nays from January 1 to December 31, 2023 from January 1, 2023 from January 1 to December 31, 2023, from January 31, 2023 to Rs.A audit report is issued.
+
+VIP defenders have been deployed to address the PSC order to the Circular Division of the Public Security Division No. 2683/20th of September 30, 2020, to provide the elite protection.
+
+The audit report states that the committee has been attached to a number of years as the committee, former governors, former chief ministers, religious leaders and other elites and other elites.
+
+Also, the elite protector has been attached to the year over the years, exceeding the approved limit and the approved line under the terms of the circular.. The audit was not revealed to what was the legal funds. The audit report states that the expenditure and special allowances paid to the officers who have been assigned to the officers outside the circular include costs.
 
 ...
 
 [Data](articles/c0924380.json)
+
+[Extended Data](ext_articles/c0924380.ext.json)
 
 ---
 
@@ -2193,51 +2251,5 @@ Addressing the Pakistan Parliament on June 26, Prime Minister Shebah Sharif said
 [Data](articles/b8222026.json)
 
 [Extended Data](ext_articles/b8222026.ext.json)
-
----
-
-### President pays statement about IGP
-
-*2024-07-28 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199305) · `si`
-
-At a rally, President Ranil Wickremesinghe urged the Speaker and Chief Justice to address and settle the IGP issue. He also promised support for the election commission by September 21.
-
-🟩
-
-President Ranil Wickremesinghe says that the issue regarding the IGP should discuss and resolve the Speaker and the Chief Justice.
-
-He was speaking at the 'Jayawamu Sri Lanka' rally in the Homagama bus stand.
-
-The President added that the election commission would be supported by September 21.
-
-◼️
-
-[Data](articles/31db18e8.json)
-
-[Extended Data](ext_articles/31db18e8.ext.json)
-
----
-
-### We are lurking for the flow;We will flow to the people at the time - Radhakrishnan MP
-
-*2024-07-28 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189619) · `ta`
-
-Radhakrishnan MP, leading the Tamil Progressive Alliance, addresses a protest in Hatton, advocating for hill country residents' rights, including salary hikes for plantation workers and land rights. He criticizes the lack of action from the court against Gotabhaya Rajapaksa and warns that if President Ranil Wickremesinghe doesn't align with judicial decisions, the public will intervene, emphasizing the people's power over the presidency.
-
-🟩
-
-The Tamil Progressive Alliance is carrying out constructive measures on the ownership of the hill country. We are lurking for the flowing. The leader of the Upcountry People's Front and the Nuwara Eliya District Parliamentarian. Radhakrishnan said.
-
-He said this while addressing a protest in Hatton today (28), demanding issues including the salary hike for hill plantation workers and land rights for the upcountry people.
-
-The court did not chase Gotabhaya Rajapaksa. The power of the people was chased away. Therefore, if President Ranil Wickremesinghe does not act in accordance with the judgment of the court, people will respond to him. People will decide who the president is.
-
-The power of the people is the first. The president has been deceived by saying that plantation workers will be paid a salary increase. Those on the ruling side are also deceived.
-
-...
-
-[Data](articles/b030835a.json)
-
-[Extended Data](ext_articles/b030835a.ext.json)
 
 ---

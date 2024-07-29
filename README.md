@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 00:52:12**
+As of **2024-07-30 01:05:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,942 (100.0%) of 37,947 articles have been extended.
+37,945 (100.0%) of 37,947 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Centre for Policy Alternatives (CPA) expresses deep concern over the Preside
 
 [Data](articles/bb18e79e.json)
 
+[Extended Data](ext_articles/bb18e79e.ext.json)
+
 ---
 
 ### Failure to abide by judicial decision undermines rule of law
@@ -60,6 +62,8 @@ Delivering a special statement in Parliament, Prime Minister Dinesh Gunawardena 
 
 [Data](articles/463a6d2a.json)
 
+[Extended Data](ext_articles/463a6d2a.ext.json)
+
 ---
 
 ### Why do we keep missing the bus?
@@ -75,6 +79,8 @@ The Purchasing Managers Index (PMI) in relation to manufacturing and the PMI in 
 ...
 
 [Data](articles/9c962a6d.json)
+
+[Extended Data](ext_articles/9c962a6d.ext.json)
 
 ---
 

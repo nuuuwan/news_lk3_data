@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 22:54:12**
+As of **2024-07-29 23:05:41**
 
 ## Newspaper Stats
 
-*Scraped **37,932** Articles*
+*Scraped **37,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,85 @@ islandlk | 2,170
 economynextcom | 2,273
 dailyftlk | 2,416
 adalk | 3,465
-adaderanalk | 4,394
-tamilmirrorlk | 4,695
+adaderanalk | 4,395
+tamilmirrorlk | 4,696
 dailymirrorlk | 4,733
-virakesarilk | 5,984
+virakesarilk | 5,987
 adaderanasinhalalk | 6,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,931 (100.0%) of 37,932 articles have been extended.
+37,932 (100.0%) of 37,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### පොහොට්ටුවේ මැති ඇමති පිරිසක් ජනපතිට සහාය පළ කරයි
+### Sri Lanka Women’s team awarded USD 500,000 after maiden Asia Cup title
+
+*2024-07-29 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100866/sri-lanka-womens-team-awarded-usd-500000-after-maiden-asia-cup-title) · `en`
+
+Sri Lanka Cricket (SLC) has presented the National Women’s Cricket Team with a reward of USD 500,000 in recognition of the victory in the recently concluded Asia Cup T20 tournament.
+
+“In recognition of the phenomenal victory of our Sri Lanka Women’s Cricket team in the Asia Cup 2024, Sri Lanka Cricket is thrilled to announce a reward of $500,000 USD! Your dedication, teamwork, and relentless spirit on the pitch have brought immense pride to our nation,” the SLC posted on ‘X’.
+
+In a historic triumph, Sri Lanka Women clinched their first Asia Cup title after defeating defending champions India by 8 wickets in a thrilling final held at the Rangiri Dambulla International Stadium on Sunday.
+
+With the win, Sri Lanka not only secured the championship but also marked a significant achievement in women’s cricket in the country.
+
+◼️
+
+[Data](articles/e1bbf05b.json)
+
+---
+
+### A group of ministers and MPs in Pohon supports President
 
 *2024-07-29 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199350) · `si`
 
-පොහොට්ටුවේ දේශපාලන මණ්ඩලය ගෙන ආ යෝජනාවට විරුද්ධ වූ පිරිස ඇතුළු මැති ඇමතිවරුන් කණ්ඩායමක් අද (29) රාත්‍රියේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මුණගැසී තිබේ.
+A group of ministers and MPs, including former opponents, have met President Ranil Wickremesinghe and decided to support him in the upcoming presidential election. This decision was made during a meeting at the Political Bureau of the Sri Lanka Celebrations, involving key figures like Deputy Speaker Ajith Rajapakse and several state ministers.
 
-ඔවුන් එහිදී තීරණය කර ඇත්තේ, ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමටය.
+🟩
 
-මෙවර ජනාධිපතිවරණයට ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට අද පස්වරුවේ රැස්වූ එහි දේශපාලන මණ්ඩලයේදී ගත් තීරණයට පිරිසක් විරුද්ධ වී තිබුණි.
+A group of MPs including the people who opposed the proposal of the Politic & Policy Board of the Pohon have met President Ranil Wickremesinghe at night.
 
-එලෙස විරුද්ධ වූ මැති ඇමතිවරුන් ඇතුළු පිරිස කොළඹ මල්පාරේ පිහිටි එක්සත් ජාතික පක්ෂ පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතාගේ දේශපාලන කාර්යාලයට රැස්වී සාකච්ඡාවක නිරත වුණි.
+They have decided to support Ranil Wickremesinghe in the next presidential election.
 
-මේ සඳහා නියෝජ්‍ය කතානායක අජිත් රාජපක්ෂ, අමාත්‍ය කංචන විජේසේකර, රාජ්‍ය අමාත්‍යවරුන්වන දිලුම් අමුණුගම, අනුප පස්කුවල්, ගීතා කුමාරසිංහ, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන මහින්දානන්ද අලුත්ගමගේ, එස්.බී. දිසානායක, ප්‍රේම්නාත් සී දොළවත්ත යන මහත්ම මහත්මීන් ඇතුළු පිරිසක් සහභාගී වී සිටි බව වාර්තා වෙයි.
+The decision of the Presidential Election to the presidential election was taken up at the Political Bureau of the Sri Lanka Celebrations this afternoon.
 
-ඔවුන් එහිදී තීරණය කර ඇත්තේ ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමටය.
+Such ministers and others met with UNP MP Vajira Abeywardena's Political Office, Malrawa, Colombo.
+
+Deputy Speaker Ajith Rajapakse, Minister of State for this purpose, State Ministers, State Ministers. It is reported that Dissanayake and Premneth C Dolorathawatte and several others were present.
+
+They have decided to support Ranil Wickremesinghe in the next presidential election.
 
 ◼️
 
 [Data](articles/34006812.json)
+
+[Extended Data](ext_articles/34006812.ext.json)
+
+---
+
+### “ரணில் செய்தது மிகப்பெரிய தவறு” பஷில் அதிரடி
+
+*2024-07-29 22:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-செய்தது-மிகப்பெரிய-தவறு-பஷில்-அதிரடி/175-341238) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க சுயாதீன வேட்பாளராக போட்டியிடுவதாக அறிவித்துள்ளமை முற்றிலும் தவறானது என பொதுஜன பெரமுனவின் ஸ்தாபகர் பஷில் ராஜபக்ஷ தெரிவித்தார்.
+
+ஜனாதிபதி வேட்பாளர் குறித்து இறுதித் தீர்மானத்தை எடுப்பதற்காக பொதுஜன பெரமுனவின் நிறைவேற்று குழு அக்கட்சியின் தலைவரும்,முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தலைமையில் கூடியது.
+
+ஜனாதிபதித் தேர்தலில் பொதுஜன பெரமுனவின் உறுப்பினர் ஒருவரை களமிறக்குதல் தொடர்பிலும், ஜனாதிபதி ரணில் விக்கிரமசிங்கவை வேட்பாளராக களமிறக்குவது தொடர்பிலும் இதன்போது அவதானம் செலுத்தப்பட்டுள்ளது.
+
+ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று ஒரு தரப்பினரும், கட்சியின் உறுப்பினரை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று பிறிதொரு தரப்பினரும் தமது நிலைப்பாட்டை குறிப்பிட்டுள்ளனர்.
+
+ஜனாதிபதி வேட்பாளர் விவகாரம் குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் பேச்சுவார்த்தையில் ஈடுபட்டுக் கொண்டிருந்த நிலையில் அவர் சுயாதீன வேட்பாளராக போட்டியிடுவதாக அறிவித்துள்ளமை முற்றிலும் தவறானது.
+
+...
+
+[Data](articles/d964319c.json)
 
 ---
 
@@ -93,6 +137,26 @@ Sri Lanka won the Sri Lankan squad for the first time in the history of Chamari 
 [Data](articles/ba0531e7.json)
 
 [Extended Data](ext_articles/ba0531e7.ext.json)
+
+---
+
+### பொதுஜன பெரமுன சார்பில் வேட்பாளரை களமிறங்குவதற்கு எதிராக வாக்களித்த 11 எம்.பி.க்கள்
+
+*2024-07-29 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189742) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவின் தலைமையில் திங்கட்கிழமை (29) இடம்பெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் குழு கூட்டத்தில் 16 பாராளுமன்ற உறுப்பினர்கள் மாத்திரமே பங்கு பெற்று இருந்ததாக கட்சி தகவல்கள் தெரிவிக்கின்றன.
+
+இம்முறை ஜனாதிபதி தேர்தலில் பொதுஜன பெரமுன சார்பில் வேட்பாளர் ஒருவர் களமிறக்கப்பட வேண்டும் என்ற யோசனை கட்சியின் பொதுச் செயலாளர் சாகர காரியவசம் அரசியல் குழு கூட்டத்தில் முன்வைத்துள்ளார்.
+
+எவ்வாறு இருப்பினும் பொதுச் செயலாளரால் முன்வைக்கப்பட்ட இந்த யோசனைக்கு கூட்டத்தில் கலந்து கொண்டிருந்த 16 பாராளுமன்ற உறுப்பினர்களில் 11 உறுப்பினர்கள் எதிராக வாக்களித்துள்ளனர்.
+
+கட்சித் தகவல்களின்படி குறித்த பாராளுமன்ற உறுப்பினர்கள் 16 பேரைத் தவிர ஏனையோர் வெவ்வேறு அமைப்புகளை பிரதிநிதித்துவப்படுத்துபவர்கள் என தெரிய வருகிறது.
+
+பொதுஜன பெரமுனவின் அரசியல் குழு உறுப்பினர் அல்லாத மகர பிரதேச சபையின் முன்னாள் உறுப்பினர் ஒருவரின் மகள் கூட இந்த கூட்டத்தில் கலந்து கொண்டிருந்ததாக தகவல்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/e4f79809.json)
 
 ---
 
@@ -139,6 +203,24 @@ Meanwhile, it is reported that the candidate presented by the Sri Lanka Civil Fr
 [Data](articles/7e563e13.json)
 
 [Extended Data](ext_articles/7e563e13.ext.json)
+
+---
+
+### ரஷ்யாவில் ரயில் விபத்து : நூற்றுக்கும் அதிகமானோர் காயம்!
+
+*2024-07-29 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189740) · `ta`
+
+ரஷ்யாவின் தென்பகுதியில் பயணிகள் ரயில் ஒன்று கனரக வாகனத்தின் மீது மோதி விபத்துக்குள்ளானதில் சுமார் 140 பேர் காயமடைந்துள்ளனர்.
+
+கனரக வாகனம் தண்டவாளத்தைக் கடக்கும்போது இந்த விபத்து நேர்ந்துள்ளதாக வெளிநாட்டு செ்ய்திகள் தெரிவிக்கின்றன.
+
+விபத்தின்போது ரயிலில் 800 பயணிகள் இருந்துள்ள நிலையில், சுமார் 140 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. காயமடைந்தவர்களில் 15 குழந்தைகள் உட்பட 30 பேர் வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளனர்.
+
+ரயிலின் 7 பெட்டிகள் தடம் புரண்டுள்ள நிலையில், மீட்புப் பணிகள் இடம்பெற்று வருகின்றன.
+
+◼️
+
+[Data](articles/396bd74b.json)
 
 ---
 
@@ -191,6 +273,22 @@ Meanwhile, All Ceylon Public Congress leader Rishad Bathiudeen stated in a publi
 [Data](articles/4bc4198a.json)
 
 [Extended Data](ext_articles/4bc4198a.ext.json)
+
+---
+
+### ஜனாதிபதி ரணில் சுயாதீன வேட்பாளராக போட்டியிடுவதாக அறிவித்துள்ளமை முற்றிலும் தவறானது - பஷில்
+
+*2024-07-29 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189738) · `ta`
+
+ஜனாதிபதி வேட்பாளர் விவகாரம் குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் பேச்சுவார்த்தையில் ஈடுபட்டுக் கொண்டிருந்த நிலையில் அவர் சுயாதீன வேட்பாளராக போட்டியிடுவதாக அறிவித்துள்ளமை முற்றிலும் தவறானது என பொதுஜன பெரமுனவின் ஸ்தாபகர் பஷில் ராஜபக்ஷ தெரிவித்தார்.
+
+2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் சுயாதீன வேட்பாளராக போட்டியிடவுள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்க போவதில்லை என மஹிந்த ராஜபக்ஷ தலைமையிலான ஸ்ரீ லங்கா பொதுஜன பெரமுன திட்டவட்டமாக தீர்மானம் எடுத்துள்ளது.
+
+கட்சியின் நிறைவேற்றுக் குழு மட்டத்தில் எடுக்கப்பட்ட தீர்மானத்துக்கு எதிராக செயற்படும் தரப்பினருக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுப்பதற்கு முன்வைக்கப்பட்ட யோசனை ஏகமனதாக நிறைவேற்றப்பட்டுள்ளது.வேட்பாளர் யார் என்பதை இவ்வாரத்துக்குள் நாட்டு மக்களுக்கு அறிவிப்பதற்கு இதன்போது தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/7705ec1e.json)
 
 ---
 
@@ -2187,105 +2285,5 @@ Commenting further, he said: “I have stated that I am not running for the Pres
 [Data](articles/f69e0ec6.json)
 
 [Extended Data](ext_articles/f69e0ec6.ext.json)
-
----
-
-### Wijeyadasa resigns
-
-*2024-07-29 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199326) · `si`
-
-Wijeyadasa resigned during a media briefing today (29th).
-
-🟩
-
-He held a media briefing this morning (29).
-
-◼️
-
-[Data](articles/3856b63b.json)
-
-[Extended Data](ext_articles/3856b63b.ext.json)
-
----
-
-### Attack on suspect in detention;Removal of two police officers
-
-*2024-07-29 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189672) · `ta`
-
-Two police officers were dismissed after being accused of assaulting a detainee at the Jaffna Point Pedro station. A local youth was arrested and held in custody. The officers, charged with assault, were released on bail but remain under suspension pending further investigation.
-
-🟩
-
-Two police officers have been sacked for allegedly assaulting a suspect in the Jaffna Point Pedro Police Station detention.
-
-A youth from Point Pedro has been arrested and detained in police custody.
-
-The police, who investigated the incident, arrested two police officers on charges of assaulting the youth and allowed the two men to go on bail of Rs 50,000 each.
-
-In this case, as the department has begun investigations into the incident, the Senior Superintendent of Police of the Kankesanthurai has suspended the two police officers until the end of the investigation.
-
-◼️
-
-[Data](articles/e10690be.json)
-
-[Extended Data](ext_articles/e10690be.ext.json)
-
----
-
-### President Mahinda Rajapaksa, Maduro
-
-*2024-07-29 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199325) · `si`
-
-Nicholas Maduro won his third term as Venezuela's president amidst controversy, with pre-election forecasts favoring him over the opposition. The U.S., through Secretary of State Anthony Blinken, expressed skepticism about the election's legitimacy, claiming it didn't reflect the Venezuelan people's will. Several countries, including Ecuador, Panama, Costa Rica, and the Dominican Republic, issued a joint statement on the election outcome.
-
-🟩
-
-Nicholas Maduro, who won the presidential election in Venezuela, is to be elected President for the third time.
-
-However, the forecasts issued on election results were mentioned ahead of the opposition.
-
-The US protested against Maduro's victory.
-
-US Secretary of State Anthony Blinken says that they have strong suspicion over election result.
-
-He said that it does not reflect the true opinion of the people of Venezuela.
-
-The Ecuador, Panama, Costau, Costau, Costau, Costau, Costau, Costau, Costau, Gavinican and Dominican Republic have issued a joint statement regarding the election result.
-
-◼️
-
-[Data](articles/caff3246.json)
-
-[Extended Data](ext_articles/caff3246.ext.json)
-
----
-
-### The developing picture as elections approach
-
-*2024-07-29 11:36:00* · [`islandlk`](http://island.lk/the-developing-picture-as-elections-approach/) · `en`
-
-There’s a political poster that’s been splashed on the walls of Colombo. Black letters on a yellow background mean that the author or the party cannot be identified. It is obviously a teaser campaign. It comes with a promise, which of course is the bread and butter of all politicians. Apparently, ‘the lie will come to an end,’ and on the 29th, the name of the messiah who will take all Sri Lankans to some yet-to-be-named promised land will be revealed.
-
-This is the season for that kind of thing, so the timing is not bad at all. After all, people are talking about elections these days. They are wondering if elections will be held soon and, if so, whether it would be a presidential or parliamentary election. They talk about candidates, those who have announced their intentions and those who might very soon.
-
-...
-
-[Data](articles/40e501a3.json)
-
-[Extended Data](ext_articles/40e501a3.ext.json)
-
----
-
-### US Politics: Trump in trouble after Biden’s Sacrifice and Kamala Harris’s Surge
-
-*2024-07-29 11:36:00* · [`islandlk`](http://island.lk/us-politics-trump-in-trouble-after-bidens-sacrifice-and-kamala-harriss-surge/) · `en`
-
-In one master stroke last Sunday afternoon, the beleaguered American President Joe Biden turned the tables on Donald Trump and the Republican Party. From his home in Delaware, Biden tersely announced that he was withdrawing from the race and endorsing his Vice President Kamala Harris to be the nominee of the Democratic Party for the November presidential election. If that was stunning, the even greater shock and awe is the speed and manner in which Kamala Harris has rolled out her campaign; secured her nomination within hours; energized the Party at every level; enthused the youth in their own network worlds; raised millions of dollars by the minute; and served notice to Trump that she is the prosecutor, he is the felon, and she knows his type.
-
-...
-
-[Data](articles/da6cd2a0.json)
-
-[Extended Data](ext_articles/da6cd2a0.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 20:55:24**
+As of **2024-07-29 21:06:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,922 (100.0%) of 37,923 articles have been extended.
+37,923 (100.0%) of 37,923 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -256,19 +256,25 @@ However, Sri Lanka Muslim Congress leader Rauff Hakeem said, "Today
 
 ---
 
-### ජනපති හා අගමැති අතර මත ගැටුමක්
+### A clash between the President and the Prime Minister
 
 *2024-07-29 18:28:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-අගමැති-අතර-මත-ගැටුමක්/11-411075) · `si`
 
-අධිකරණය සෘජුව හෝ වක්‍රව හෑල්ලුවට ලක් කරන පුද්ගලයන්ට විරුද්ධව සැප්.21න් පසු නීතිය ක්‍රියාත්මක කරවන බව ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි හිටපු සභාපති , මහාචාර්ය ජී.එල්. පීරිස් මහතා පැවසීය.
+Prof. GL Peiris, former Chairman of the Sri Lanka Knowledge, announced at a Colombo media briefing that there's tension between the President and the Prime Minister, indicating the government may pursue dual policies.
 
-ඔහු මේ බව සඳහන් කර සිටියේ කොළඹ දී අද (29දා) පැවති මාධ්‍ය හමුවකට එක් වෙමිනි.ඒ අනුව අධිකරණය හෑල්ලුවට ලක් කිරීම සඳහා කිසිවකුට ඉඩ නොතබන බව ඔහු අවධාරණය කළේය.
+🟩
 
-ජනාධිපතිවරයා හා අගමැතිවරයා අතර මතගැටුමක් පවතින බවත්, ඒ අනුව රජය දෙබිඩි ප්‍රතිපත්තියක් අනුගමනය කරන බවත් ජී.එල්.පීරිස් මහතා පැවසීය.
+Former Chairman of the Sri Lanka Knowledge, Prof. GL Peiris. Mr. Peiris said.
+
+He was speaking at a media briefing held in Colombo today (29).
+
+GL Peiris said that there is a vague between the President and the Prime Minister and the government will adopt a double policy.
 
 ◼️
 
 [Data](articles/78daf5aa.json)
+
+[Extended Data](ext_articles/78daf5aa.ext.json)
 
 ---
 

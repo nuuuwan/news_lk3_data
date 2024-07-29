@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 01:20:45**
+As of **2024-07-30 01:36:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,947 (100.0%) of 37,952 articles have been extended.
+37,952 (100.0%) of 37,952 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The event also included a live Q and A session with employees, a humorous speech
 
 [Data](articles/c333eaa8.json)
 
+[Extended Data](ext_articles/c333eaa8.ext.json)
+
 ---
 
 ### Sri Lankan jewellers participate at 19th Singapore International Jewellery Expo
@@ -64,6 +66,8 @@ The Sri Lankan High Commissioner to Singapore Senarath Dissanayake joined the ri
 
 [Data](articles/65153f11.json)
 
+[Extended Data](ext_articles/65153f11.ext.json)
+
 ---
 
 ### Exhibit at International Green Week in Germany
@@ -75,6 +79,8 @@ The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) is e
 ...
 
 [Data](articles/e8bf80b2.json)
+
+[Extended Data](ext_articles/e8bf80b2.ext.json)
 
 ---
 
@@ -89,6 +95,8 @@ The SPARK Skilled Youth Entrepreneurship competition, a premier national platfor
 ...
 
 [Data](articles/720d4f8d.json)
+
+[Extended Data](ext_articles/720d4f8d.ext.json)
 
 ---
 
@@ -105,6 +113,8 @@ The Management denies the aforementioned social media publication and further wi
 ...
 
 [Data](articles/13269981.json)
+
+[Extended Data](ext_articles/13269981.ext.json)
 
 ---
 

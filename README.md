@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 18:38:39**
+As of **2024-07-29 18:56:39**
 
 ## Newspaper Stats
 
-*Scraped **37,905** Articles*
+*Scraped **37,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 2,273
 dailyftlk | 2,416
 adalk | 3,459
 adaderanalk | 4,392
-tamilmirrorlk | 4,693
+tamilmirrorlk | 4,694
 dailymirrorlk | 4,733
 virakesarilk | 5,976
-adaderanasinhalalk | 6,375
+adaderanasinhalalk | 6,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,905 (100.0%) of 37,905 articles have been extended.
+37,905 (100.0%) of 37,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### මුස්ලිම් කොංග්‍රසයේ සහාය සජබය ට ?
+
+*2024-07-29 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199342) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේ දී ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ සහාය සමගි ජන බලවේගය පක්ෂය වෙත හිමිවනු ඇති බව වාර්තා වෙයි.
+
+ඒ එම පක්ෂය මේ වන විටත් සමගි ජන බලවේගය සමග කටයුතු කිරීම හේතුවෙනි.
+
+කෙසේවෙතත් සිය පක්ෂය විසින් සහාය ලබාදෙනු ලබන ජනාධිපති අපේක්ෂකයා කවුරුන්ද යන්න සම්බන්ධයෙන් ලබන ඉරිදා දිනයේ පක්ෂ උත්තරීතර මණ්ඩලය රැස්වී සාකච්ඡා කර අවසන් තීරණයක් ගැනීමට නියමිත බව ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ නායක රවුෆ් හකීම් මහතා "අද දෙරණ"ට සඳහන් කළේය.
+
+◼️
+
+[Data](articles/301a78e6.json)
+
+---
 
 ### Ranil abandoned the bud
 
@@ -1832,6 +1848,24 @@ He said that if the country's responsibility to bear responsibility, the respons
 
 ---
 
+### மத்தியில் கடும் மந்த போசனம்
+
+*2024-07-29 11:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்தியில்-கடும்-மந்த-போசனம்/175-341205) · `ta`
+
+மத்திய மாகாணத்தில் கண்டி மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களில் ஐந்து வயதுக்குட்பட்ட 2,142 சிறுவர்கள் கடுமையான போசாக்கின்மையால் பாதிக்கப்பட்டுள்ளதாக மாகாண சுகாதார சேவைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+2023ஆம் ஆண்டுடன் மத்திய மாகாணத்தில் நிலவும் போசாக்கின்மை நிலைமை தொடர்பில் 2016 ஆம் ஆண்டு 12 ஆம் இலக்க தகவல் அணுகல் சட்டத்தின் பிரகாரம் மாகாண சுகாதார திணைக்களம் விடுத்துள்ள தகவலுக்கான கோரிக்கைக்கு வழங்கப்பட்ட தகவலில் இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+
+மத்திய மாகாண சுகாதார சேவைகள் திணைக்களம் வழங்கிய தகவலின் படி, மாகாணத்தில் ஐந்து வயதுக்குட்பட்ட 2142 சிறுவர்கள் கடுமையான போசாக்கின்மையால் பாதிக்கப்பட்டுள்ளனர், 15,920 குழந்தைகள் மிதமான போசாக்கின்மையால் பாதிக்கப்பட்டுள்ளனர் மற்றும் 27,812 ஊட்டச்சத்து குறைபாடுள்ள குழந்தைகள் அதே தகவலில் அடையாளம் காணப்பட்டுள்ளனர்.
+
+கண்டி மாவட்டத்தில் 970 சிறுவர்களும், மாத்தளை மாவட்டத்தில் 461 குழந்தைகளும், நுவரெலியா மாவட்டத்தில் 711 குழந்தைகளும் இனங்காணப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/9fb542db.json)
+
+---
+
 ### The Department of Postal Department submitted a cost estimate to the Election Commission
 
 *2024-07-29 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189658) · `ta`
@@ -2223,53 +2257,5 @@ Opposition leader Maria Corina Machado reiterated a call for the country’s mil
 [Data](articles/61183692.json)
 
 [Extended Data](ext_articles/61183692.ext.json)
-
----
-
-### A shot of the United States
-
-*2024-07-29 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199320) · `si`
-
-In Rochester, New York, a fatal shooting occurred at Upalwood Garden, leaving a 20-year-old victim and six others injured, including one critically. The shooter remains unidentified as police investigate.
-
-🟩
-
-A shot dead in Rochester in New York, USA, 6 others suffered injuries.
-
-The shooting was carried out at the Upalwood Garden in Rochester, Newier.
-
-The victim was a 20-year-old man and one of the injured was in critical condition.
-
-Information on the victim of the shooting has not yet been revealed, and the police have commenced investigations into the incident.
-
-◼️
-
-[Data](articles/9c8cc76c.json)
-
-[Extended Data](ext_articles/9c8cc76c.ext.json)
-
----
-
-### 7 people shot, 1 fatally, at a park in upstate New York
-
-*2024-07-29 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100849/7-people-shot-1-fatally-at-a-park-in-upstate-new-york) · `en`
-
-One person is dead and at least six others were injured following a mass shooting Sunday at a park in upstate New York.
-
-Rochester police said they responded to Maplewood Park around 6:20 p.m. to a large gathering with shots fired and found several people suffering from gunshot wounds.
-
-An adult in their 20s was killed, another person suffered a life threatening injury and five people were hospitalized with minor injuries, Capt. Greg Bello said.
-
-The identity of the victim fatally shot has not yet been released pending the notification of family, Bello said.
-
-Several police agencies responded to the park including the Irondequoit Police, Monroe County Sheriff’s Office, Rochester Police and New York State Police. Rochester police did confirm a party was happening in the area at the time of the shooting.
-
-“At this point we don’t know how many people were shooting,” Bello said. “We are trying to work our way through as many witnesses as we can.”
-
-...
-
-[Data](articles/1bbffdf6.json)
-
-[Extended Data](ext_articles/1bbffdf6.ext.json)
 
 ---

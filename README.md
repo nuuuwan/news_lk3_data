@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 11:56:06**
+As of **2024-07-29 12:09:32**
 
 ## Newspaper Stats
 
-*Scraped **37,821** Articles*
+*Scraped **37,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,85 @@ dbsjeyarajcom | 330
 colombotelegraphcom | 360
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,167
+islandlk | 2,168
 economynextcom | 2,262
 dailyftlk | 2,416
 adalk | 3,448
-adaderanalk | 4,381
+adaderanalk | 4,382
 tamilmirrorlk | 4,676
 dailymirrorlk | 4,733
 virakesarilk | 5,961
-adaderanasinhalalk | 6,359
+adaderanasinhalalk | 6,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,816 (100.0%) of 37,821 articles have been extended.
+37,821 (100.0%) of 37,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### Wijeyadasa Rajapakshe resigns as Justice Minister
+
+*2024-07-29 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100853/wijeyadasa-rajapakshe-resigns-as-justice-minister) · `en`
+
+Minister of Justice, Prisons Affairs and Constitutional Reforms Wijeyadasa Rajapakshe has stepped down from his ministerial position.
+
+Rajapakshe announced this decision while speaking at a press conference being held in Colombo today (29).
+
+◼️
+
+[Data](articles/f69e0ec6.json)
+
+---
+
+### විජයදාස ඉල්ලා අස්වෙයි
+
+*2024-07-29 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199326) · `si`
+
+අද (29) උදෑසන මාධ්‍ය හමුවක් පවත්වමින් ඒ මහතා මෙම තීරණය දැනුම් දුන්නේය.
+
+◼️
+
+[Data](articles/3856b63b.json)
+
+---
+
+### නැවතත් ජනපති වූ මදුරෝ ට විරෝධය
+
+*2024-07-29 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199325) · `si`
+
+වෙනිසියුලාවේ පැවති ජනාධිපතිවරණයෙන් ජයගත් නිකලස් මදුරෝ තුන්වැනි වරටත් එරට ජනාධිපතිවරයා වශයෙන් පත්වීමට නියමිතය.
+
+නමුත් මැතිවරණ ප්‍රතිඵල සම්බන්ධයෙන් නිකුත්කළ පුරෝකථන වල සඳහන් වූයේ විපක්ෂය ඉදිරියෙන් සිටින බවයි.
+
+මදුරෝ ගේ ජයග්‍රහණය සම්බන්ධයෙන් අමෙරිකාව ප්‍රමුඛ බටහිර රටවල් සිය විරෝධය දැක්වීය.
+
+අමෙරිකානු රාජ්‍ය ලේකම් ඇන්තනි බ්ලින්කන් පවසන්නේ මැතිවරණ ප්‍රතිඵලය සම්බන්ධයෙන් ඔවුන්ට බලවත් සැකයක් ඇති බවයි.
+
+එමගින් වෙනිසියුලාවේ ජනතාවගේ සත්‍ය මතය පිළිබිඹු නොවන බව ඔහු පැවසීය.
+
+ආජන්ටිනාව, පැරගුවේ, උරුගුවේ, පේරු, ඉක්වදෝරය, පැනමාව, කොස්ටරිකා, ග්වාතමාලා සහ ඩොමිනිකන් ජනරජය එම මැතිවරණ ප්‍රතිඵලය සම්බන්ධයෙන් ඒකාබද්ධ නිවේදනයක් නිකුත්කරමින් පැවසුවේ ඔවුන් එය පිළිනොගන්නා බවයි.
+
+◼️
+
+[Data](articles/caff3246.json)
+
+---
+
+### US Politics: Trump in trouble after Biden’s Sacrifice and Kamala Harris’s Surge
+
+*2024-07-29 11:36:00* · [`islandlk`](http://island.lk/us-politics-trump-in-trouble-after-bidens-sacrifice-and-kamala-harriss-surge/) · `en`
+
+In one master stroke last Sunday afternoon, the beleaguered American President Joe Biden turned the tables on Donald Trump and the Republican Party. From his home in Delaware, Biden tersely announced that he was withdrawing from the race and endorsing his Vice President Kamala Harris to be the nominee of the Democratic Party for the November presidential election. If that was stunning, the even greater shock and awe is the speed and manner in which Kamala Harris has rolled out her campaign; secured her nomination within hours; energized the Party at every level; enthused the youth in their own network worlds; raised millions of dollars by the minute; and served notice to Trump that she is the prosecutor, he is the felon, and she knows his type.
+
+...
+
+[Data](articles/da6cd2a0.json)
+
+---
 
 ### Presidential Election 2024: Notice for postal voting applicants
 
@@ -48,23 +108,33 @@ Furthermore, the Election Commission informs the general public that the applica
 
 [Data](articles/09cf791c.json)
 
+[Extended Data](ext_articles/09cf791c.ext.json)
+
 ---
 
-### වාහන ආනයන සීමා ඉවත් කිරීම 2025 වර්ශයේ පළමු වන කාර්තුවේදී
+### Removal of Vehicle Import Limit of 2025 In the first quarter of the year
 
 *2024-07-29 11:18:36* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-සීමා-ඉවත්-කිරීම-2025-වර්ශයේ-පළමු-වන-කාර්තුවේදී/11-411064) · `si`
 
-ජාත්‍යන්තරය සමග කටයුතු කල හැකි අත්දැකීම් හා අනාගතය පිළිබඳව දැක්මක් ඇති නායකත්වයක් රටට අවශ්‍ය බවත් පෞද්ගලික වාහන ආනයන සීමා ඉවත් කිරීම  2025 වර්ශයේ පළමු වන කාර්තුවේදී බලාපොරොත්තු වන බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+In Q1 2025, Sri Lanka plans to lift its vehicle import limit, focusing initially on commercial and transport vehicles. This move aims to boost the economy post-presidential elections, emphasizing the need for visionary leadership to handle international relations effectively. The government is also addressing corruption and bribery issues, with steps towards digital governance and international technical support. All candidates, except Ranil Wickremesinghe, are criticized for their policies.
 
-රාජ්‍ය අමාත්‍යවරයා මේ බව කියාසිටියේ ඊයේ (28දා) දින අනුරාධපුරයේදී පැවති මාධ්‍ය හමුවකදී අදහස් දක්වමින්ය.
+🟩
 
-"2022 වර්ෂයේදී ඇති වූ තත්ත්වය නැවත ඇති නොවීමට කටයුතු කිරීම මෙවර ජනාධිපතිවරණයේ අරමුණයි. රටේ ආර්ථික පරිවර්තන නීතියට අනුව රට පවත්වා ගෙන යෑම  සියලුම ජනතාවගේ අරමුණ විය යුතු වෙනවා.
+State Minister of State Shehan Semasinghe says that the country needs a vision of experiences and the future of the international vehicle.
 
-ජාත්‍යන්තරය සමග කටයුතු කළ හැකි අත්දැකීම් හා අනාගතය පිළිබඳව දැක්මක් ඇති නායකත්වයක් රටට අවශ්‍යයි. ඉදිරි ජනාධිපතිවරණයේදී ජනතාව විසින් වැරදි තීන්දුවක් ගතහොත් රට නැවත වසර 15ක් ආපස්සට ගමන් කිරීම වැලැක්ව්ය නොහැකියි.
+The State Minister was speaking at a media briefing in Anuradhapura yesterday (28).
+
+This year's presidential election is to ensure that the situation in 2022. The purpose of all people should be maintained according to the economic translation law of the country.
+
+The country needs a visionary leadership that can deal with the international community and the future. If the people have a faulty decision in the next presidential election, the country will not be able to live for 15 years.
+
+Currently, the necessary legal framework for bribe and corruption in Sri Lanka, we also planned to create an institution to create a necessary institution.. Steps have been taken to provide technical support internationally.The state governance is already making the necessary digital.
 
 ...
 
 [Data](articles/b767b53c.json)
+
+[Extended Data](ext_articles/b767b53c.ext.json)
 
 ---
 
@@ -90,43 +160,57 @@ The full announcement issued by the Elections Commission in this regard is as fo
 
 ---
 
-### நீச்சல் தடாகத்தில் மூழ்கி சிறுவன் பலி
+### Boy killed in swimming lake
 
 *2024-07-29 11:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீச்சல்-தடாகத்தில்-மூழ்கி-சிறுவன்-பலி/76-341204) · `ta`
 
-7 வயதுடைய  சிறுவன் உயிரிழந்துள்ளதுடன், அவரது மூத்த சகோதரரும் அதே நீச்சல் குளத்தில் மூழ்கி கவலைக்கிடமான நிலையில் கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாக தெரியவந்துள்ளது .
+A 7-year-old boy drowned in a swimming lake, and his older brother, who attempted to rescue him, is now hospitalized. The incident occurred when the boys were unsupervised at the lake.
 
-வெரெல்லகம, குருதுகொல்ல பிரதேசத்தைச் சேர்ந்த மொஹமட் மிஸ்ஜான் என்ற சிறுவனே சம்பவத்தில் உயிரிழந்துள்ளார் .கண்டி, லுவீ  பீரிஸ் வீதியில் உள்ள விடுதி ஒன்றின் நீச்சல் தடாகத்தில் மூழ்கி  உயிரிழந்துள்ளார்.
+🟩
 
-தனது குடும்பத்துடன் ஞாயிற்றுக்கிழமை (28)அன்று விடுமுறையை கழிப்பதற்காக இந்த விடுதிக்கு வந்த நிலையில் பிற்பகல் 11:00 மணியளவில் நீச்சல் தடாகத்திற்கு அருகில் தனியாக இருந்த போது நீச்சல் குளத்தில் அச்சிறுவன் விழுந்துள்ளார் .
+The 7 -year -old boy has died and his elder brother is drowning in the same swimming pool and is being treated at the Kandy National Hospital.
 
-அதை கண்ட அவரது மூத்த சகோதரன் நீச்சல் தடாகத்தில் குதித்து தனது தம்பியை காப்பாற்ற முயன்ற போது அவரும் நீரில் மூழ்கியுள்ளார் .
+Mohamed Mizjan, a boy from Gurudukolla, Varellagama, has died in the incident.
 
-ஆபத்தான நிலையில் இருந்த இளைய சகோதரர் வைத்தியசாலைக்கு கொண்டு செல்லும் போது உயிரிழந்துள்ளதுடன், மூத்த சகோதரன் சிகிச்சை பெற்று வருவதாக தெரியவந்துள்ளது .
+When he came to the hostel on Sunday (28) with his family, he fell into the swimming pool when he was alone near the swimming lake at around 11:00 pm.
 
-மேலும்,  இச் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை  கண்டி தலைமையக பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Seeing it, his older brother jumped into the swimming lake and tried to save his brother.
+
+The younger brother, who was in critical condition, died while taking her to the hospital and the elder brother was receiving treatment.
+
+Further investigations are being carried out by the Kandy Headquarters Police.
 
 ◼️
 
 [Data](articles/b0a28c03.json)
 
+[Extended Data](ext_articles/b0a28c03.ext.json)
+
 ---
 
-### தேர்தல் தவிசாளர் அதிரடி அறிவிப்பு
+### Election Commander
 
 *2024-07-29 11:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தவிசாளர்-அதிரடி-அறிவிப்பு/175-341203) · `ta`
 
-ஜனாதிபதித் தேர்தல் 2024 பெயர் குறித்த நியமனப்பத்திரங்களைப் பொறுப்பேற்றல், வைப்புப் பணம் செலுத்துதல் மற்றும் வாக்கெடுப்பு தொடர்பாக இலங்கை தேர்தல் ஆணைக்குழு சார்பாக அதன் தவிசாளர் ஆர்.எம்.ஏ.எல்.சத்நாயக்க அறிவித்தல் ஒன்றை விடுத்துள்ளார்.
+The Sri Lanka Election Commission has announced details for the 2024 presidential election, including the nomination process, deposits, and a referendum scheduled for September 21, 2024. Nomination papers must be submitted between 9:00 pm and 11:00 pm on August 15, 2024, at the Election Commission headquarters in Rajagiriya. Candidates must pay a deposit by July 26, 2024, with amounts varying based on whether they represent a recognized political party or not. Objections to nominations can be raised until 11:30 am on August 15, 2024, by either the opposing candidate or a person who signed the nomination papers.
 
-அதன்படி, 1981 ஆம் ஆண்டின் 15 ஆம் இலக்க ஜனாதிபதித் தேர்தல்கள் சட்டத்தின் 2 ஆவது மற்றும் 8 ஆவது பிரிவுகள் குறித்து வாக்காளர்களுக்கு பின்வரும் விடயங்களைத் தெளிவு படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+🟩
 
-ஜனாதிபதித் தேர்தலுக்கான வாக்கெடுப்பு 2024, செப்டம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படவிருப்பதாக பொதுமக்களுக்கு இத்தால் அறிவித்தல் கொடுக்கப்படுகின்றது.
+RMAL Satnayake, the Chairman of the Sri Lanka Election Commission, has issued a notification on the presidential election 2024 nominations, deposits and referendum.
 
-அந்தத் தேர்தலுக்குரிய பெயர்குறித்த நியமனப்பத்திரங்கள், 2024 ஆகஸ்ட் மாதம் 15 ஆம் திகதி மு.ப. 9.00 மணி முதல் மு.ப. 11.00 மணி வரையான காலப்பகுதிக்குள் இராஜகிரிய, சரண மாவத்தையில் அமைந்துள்ள தேர்தல் ஆணைக்குழுவின் தலைமையக கேட்போர்கூடத்தில் பொறுப்பேற்கப்படும்.
+Accordingly, the following issues have been clarified to voters about Article 2 and 8 of the Presidential Elections Act No. 15 of 1981.
+
+The public is notified by the public that the referendum for the presidential election will be held on September 21, 2024.
+
+The nomination papers for the election, on August 15, 2024,. From 9.00 pm. Within 11.00 pm, the headquarters of the Election Commission, located in Rajagiriya, Sarana Mawatha, will be held in charge of the auditorium.
+
+On the 15th of August, 2024,. From 9.00 pm. Objectives can be made regarding the nominal appointment that is handed over within 11.30am. These objections can be made by a person who signed the nomination papers by a nomination of the opposition candidate or by the opposition candidate.
 
 ...
 
 [Data](articles/10497368.json)
+
+[Extended Data](ext_articles/10497368.ext.json)
 
 ---
 
@@ -1812,21 +1896,27 @@ Your skill, dedicated and joint operation for your failure. The President has st
 
 ---
 
-### දෙසැම්බර් වන විට බිත්තර අතිරික්තයක්
+### Surplus of eggs by December
 
 *2024-07-28 20:14:46* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බර්-වන-විට-බිත්තර-අතිරික්තයක්/11-411056) · `si`
 
-වෙළඳ අමාත්‍යවරයා රුපියල් 38 ට ලබා දීමට නියම කළ දේශීය බිත්තරය තව මසකින් පමණ රුපියල් 38ට අඩුවෙන් මිලදී ගැනීමට පාරිභෝගිකයාට අවස්ථාව උදා වන බව සමස්ත ලංකා බිත්තර නිෂ්පාදකයන්ගේ සංගමයේ ලේකම් රත්නසිරි අලහකෝන් මහතා පවසයි.
+Ratnasiri Alahakoon, Secretary of Lanka's egg manufacturers union, announced that local eggs will be sold at Rs. 38 due to surplus by December. He suggested importing eggs from India to support the local industry and ensure consumer safety. The Trade Ministry confirmed the importation of local eggs at this price.
 
-මේ වන විට පරිභෝජනයට අවශ්‍ය බිත්තර ප්‍රමාණය ඉක්මවා මාසිකව බිත්තර ලක්ෂ 06 බැගින් වැඩි බිත්තර ප්‍රමාණයක් නිෂ්පාදනයට එකතු වන බව පවසන ඔහු, ලබන දෙසැම්බර් වන විට බිත්තර අතිරික්තයක් ඇතිවන බවද පවසයි.
+🟩
 
-මේ අනුව ඉන්දියාවෙන් බිත්තර ආනයනය කිරීමට කිසිදු අවශ්‍යතාවයක් නොමැති බව පෙන්වා දෙන ඔහු, බිත්තර ආනයනය කිරීමට යන වියදම දේශීය බිත්තර කර්මාන්තයේ නගාසිටුවීම සඳහා යොදවන්නේ නම් දේශීය ගොවියා මෙන්ම පාරිභෝගිකයාද ආරක්ෂාව වන බව පැවසීය.
+The entire Lanka egg manufacturers union secretary Ratnasiri Alahakoon said that the private bureau of the local egg will be purchased at Rs. 38.
 
-වෙළඳ අමාත්‍යාංශය ඉන්දියාවෙන් බිත්තර ආනයනය කර පාරිභෝගිකයාට අළෙවි කළේ රුපියල් 43 බැගින් බවත් දැනට දේශීය බිත්තර රුපියල් 42, 43, 44 මිලට පාරිභෝගිකයාට මිලදී ගත හැකි බවත් පෙන්වා දෙන ඔහු, බිත්තර ආනයනය කිරීමෙන් සිදුවන්නේ දේශීය බිත්තර කර්මාන්තය කඩා වැටීම බවද වැඩිදුරටත් පැවසීය.
+According to the December, he is excessive by the December.
+
+According to India, he said that the cost of importing eggs from India, the cost of importing eggs is used to uplift the local egg industry as well as consumer is safe.
+
+The Trade Ministry said that the importation of the local eggs was Rs.
 
 ◼️
 
 [Data](articles/1241e8f9.json)
+
+[Extended Data](ext_articles/1241e8f9.ext.json)
 
 ---
 
@@ -2157,101 +2247,5 @@ The cement consumption decreased from 4.54 million metric tonnes in 2022 to 3.79
 [Data](articles/874dd988.json)
 
 [Extended Data](ext_articles/874dd988.ext.json)
-
----
-
-### Mutton magic: 4 transfer to police
-
-*2024-07-28 19:09:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்டிறைச்சி-மாயம்-4-பொலிஸாருக்கு-இடமாற்றம்/175-341173) · `ta`
-
-Four police officers were sentenced to death for the disappearance of mutton from a police station. A complaint led to the arrest of a shop owner for slaughtering four sheep without permission. Evidence was found in a refrigerator at the Muttirichi police station. The magistrate discovered the mutton being prepared for burial, leading to suspicions among the police. It was revealed that the mutton had been taken to unknown locations. Following an investigation, two officers were transferred to different stations.
-
-🟩
-
-Four police officers have been sentenced to death after the disappearance of muttones that were safely stored in the police station.
-
-A complaint was lodged with the Akkaraipattu police on Friday (26) in connection with the goats cut in a house in the Adalaichenai area.
-
-The police have arrested the shop owner who cut four sheep at a house in Adalaichenai area without being cut down by the police.
-
-The suspect was later produced in court. The lawyer, who was present on his behalf, said that she had been convicted of the goat for her home event.
-
-The police have told the court that the proof of the case is placed in the refrigerator at the Muttirichi police station.
-
-When the magistrate went to visit the Akkaraipattu police station, he observed that he was preparing to bury the mutton bundle and was ready to bury it in the bekko machine.
-
-The police, who had already said that the proof was placed in the refrigerator, had suddenly had a huge suspicion to the judge.
-
-...
-
-[Data](articles/12a15f69.json)
-
-[Extended Data](ext_articles/12a15f69.ext.json)
-
----
-
-### Importment of Private Vehicle Import Limit of 2025 In the first quarter
-
-*2024-07-28 19:04:23* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-වාහන-ආනයන-සීමා-ඉවත්-කිරීම-2025-මුල්-කාර්තුවේදී/11-411049) · `si`
-
-In a media briefing, State Minister Shehan Semasinghe emphasized the importance of visionary leadership and maintaining economic stability post-presidential elections. He highlighted the need for a clear plan regarding international vehicle futures and the necessity of addressing corruption through legal frameworks and international technical support. The government is also focusing on digitization and ensuring transparency in democratic processes. The allocation of funds for elections and the implementation of policies by candidates were discussed, along with the strategic use of reserves, including a significant amount held with China. The focus is on easing import restrictions, particularly for private vehicles, with details to be announced by August.
-
-🟩
-
-State Minister of State Shehan Semasinghe says that the country needs a vision of experiences and the future of the international vehicle.
-
-The State Minister was speaking at a media briefing in Anuradhapura today (28).
-
-This year's presidential election is to ensure that the situation in 2022. The purpose of all people should be maintained according to the economic translation law of the country.
-
-The country needs a visionary leadership that can deal with the international community and the future. If the people have a faulty decision in the next presidential election, the country will not be able to live for 15 years.
-
-Currently, the necessary legal framework for bribe and corruption in Sri Lanka, we also planned to create an institution to create a necessary institution.. Steps have been taken to provide technical support internationally.The state governance is already making the necessary digital.
-
-...
-
-[Data](articles/74c48e41.json)
-
-[Extended Data](ext_articles/74c48e41.ext.json)
-
----
-
-### Bed of dollars to women's cricket team
-
-*2024-07-28 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199308) · `si`
-
-Sri Lanka's women's cricket team received a $100,000 gift from Sri Lanka Cricket after winning the Asian Women's Cricket Championship. The announcement came during the match, where Sri Lanka beat India by eight wickets.
-
-🟩
-
-Sri Lanka Cricket said it offers a special gift of US $ 100,000, which won its wedding Asian Women's Cricket Championship.
-
-The gift was announced at the midst of the match.
-
-Sri Lanka won the final match against India by eight wickets.
-
-◼️
-
-[Data](articles/a6735c2f.json)
-
-[Extended Data](ext_articles/a6735c2f.ext.json)
-
----
-
-### Gifts from cricket to win as farmers
-
-*2024-07-28 18:51:02* · [`adalk`](https://www.ada.lk/sports/ආසියිනු-කුසලානය-දිනූ-කෙල්ලන්ට-ක්‍රිකට්-ආයතනයෙන්-තෑගි-මල්ලක්/9-411048) · `si`
-
-For the first time ever, the SLC will provide a monthly stipend to Sri Lanka's women's cricket team after their historic victory against India.
-
-🟩
-
-The SLC has decided to give a monthly allowance for the women's cricket team for the first time in history by defeating the powerful Indian team.
-
-◼️
-
-[Data](articles/9e1a0e86.json)
-
-[Extended Data](ext_articles/9e1a0e86.ext.json)
 
 ---

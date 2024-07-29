@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 13:36:05**
+As of **2024-07-29 13:55:29**
 
 ## Newspaper Stats
 
-*Scraped **37,832** Articles*
+*Scraped **37,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,100 @@ colombotelegraphcom | 360
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,168
-economynextcom | 2,262
+economynextcom | 2,267
 dailyftlk | 2,416
-adalk | 3,449
-adaderanalk | 4,383
-tamilmirrorlk | 4,680
+adalk | 3,450
+adaderanalk | 4,384
+tamilmirrorlk | 4,681
 dailymirrorlk | 4,733
 virakesarilk | 5,961
-adaderanasinhalalk | 6,362
+adaderanasinhalalk | 6,364
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,832 (100.0%) of 37,832 articles have been extended.
+37,832 (100.0%) of 37,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### Blood test accurately diagnoses Alzheimer’s 90% of the time – study
+
+*2024-07-29 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/100855/blood-test-accurately-diagnoses-alzheimers-90-of-the-time-study) · `en`
+
+Scientists have made another major stride toward the long-sought goal of diagnosing Alzheimer’s disease with a simple blood test. On Sunday, a team of researchers reported that a blood test was significantly more accurate than doctors’ interpretation of cognitive tests and CT scans in signaling the condition.
+
+The study, published Sunday in the journal JAMA, found that about 90 per cent of the time the blood test correctly identified whether patients with memory problems had Alzheimer’s. Dementia specialists using standard methods that did not include expensive PET scans or invasive spinal taps were accurate 73 per cent of the time, while primary care doctors using those methods got it right only 61 per cent of the time.
+
+The results, presented Sunday at the Alzheimer’s Association International Conference in Philadelphia, are the latest milestone in the search for affordable and accessible ways to diagnose Alzheimer’s, a disease that afflicts more than 32 million people worldwide.
+
+...
+
+[Data](articles/8301bf34.json)
+
+---
+
+### අනුරගේ සමුළුවට ගිය හෙදියන් ට එරෙහිව පැමිණිල්ලක්
+
+*2024-07-29 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199329) · `si`
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (29) පැවති ජාතික සමස්ත ලංකා හෙද සමුළුවට රජයේ හෙද හෙදියන් නිල ඇඳුමින් සහභාගී වීම මැතිවරණ නීති උල්ලංඝනය කිරීමක් බව කැෆේ සංවිධානය පවසයි.
+
+ඒ ජාතික මැතිවරණ කොමිෂන් සභාවට ඒ පිළිබඳව දැනුම්දෙමින් ලිපියක් යොමුකරමිනි.
+
+මහජන බදු මුදල් වැය කර ලබාදෙන නිල ඇඳුම දේශපාලන කාර්යයන් වෙනුවෙන් යොදාගැනීම ආයතන සංග්‍රහය අනූවත් මැතිවරණ නීතිය අනූවත් වැරදි ක්‍රියාවක් බව එම සංවිධානය පෙන්වා දෙයි.
+
+එමෙන්ම නිදහස් හා සාධාරණ මැතිවරණයක් සඳහා වූ ජනතා ව්‍යාපාරය ජාතික මැතිවරණ කොමිෂන් සභාවට ලිපියක් යොමුකරමින් සඳහන් කර ඇත්තේ එම ක්‍රියාව මැතිවරණ නීති උල්ලංඝනය කිරීමක් බවය.
+
+මේ අතර ආරක්ෂක ප්‍රධානීන් සහ මැතිවරණ කොමිසමේ නිලධාරීන් අතර සාකච්ඡාවක් අද (29) පැවැත්වුණි.
+
+ඒ අනුව මහජන ආරක්ෂක අමාත්‍යාංශ ලේකම් වියානි ගුණතිලක මහතා සහ ආරක්ෂක මාණ්ඩලික ප්‍රධානී ජෙනරාල් ශවේන්ද්‍ර සිල්වා මහතා ඇතුළු පිරිසක් එහි පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/60759421.json)
+
+---
+
+### கொல்லனின் கோமியம் கோபுரத்தில், கொத்தமலையில் போத்தல்களில்
+
+*2024-07-29 13:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொல்லனின்-கோமியம்-கோபுரத்தில்-கொத்தமலையில்-போத்தல்களில்/76-341213) · `ta`
+
+கோபுரத்தில் வேலை செய்து கொண்டிருப்பவன் கீழே சிறுநீர் கழிக்க இறங்கி வந்து போக முடியாது. அதனால் அங்கேயே சிறுநீர் கழித்து விடுவான். இதைப்போல ஒரு பழமொழியாக கொல்லனின் கோமியம் கோபுரத்தில் என்பார்கள்.
+
+வைத்தியசாலைகளுக்கு பலரும் பல பரிசோதனைகளுக்கு செல்வர், சிறுநீரக நோயால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கையில் குறைவிருக்காது. வரும் வயோதிபர்களுக்கு கூறப்படும் அறிவுரைகள் சரியாக விளங்குவதில்லை. அதனால், பல்வேறு சம்பவங்கள் இடம்பெறுகின்றன.
+
+சிறுநீர் சம்பந்தமான நோயால் பாதிக்கப்பட்டிருந்த நோயாளி ஒருவர் சிறுநீர் கழிக்கும்போது எரிச்சல் ஏற்படுவதாக கூறி வைத்தியரை சந்திக்க சென்றுள்ளார் . நோயாளியை பரிசோதித்த பின்னர் வைத்தியரால் நோயாளிக்கு மருந்து வழங்கப்பட்டடு ஒரு வாரத்திற்குப் பிறகு சிறுநீர் மாதிரியைக் கொண்டு வந்து மீண்டும் பரிசோதிக்குமாறு வைத்தியர் கூறியுள்ளார் .
+
+எனினும், ஒரு வாரம் வெளியேற்றிய சிறுநீரை இரண்டு மெகா பிளாஸ்டிக் போத்தல்களில் நிரப்பி வைத்தியசாலைக்கு கொண்டு சென்றுள்ளார்.  போத்தல்கள் என்ன இருக்கின்றது என்று விசாரித்த போதே, விவகாரம் வெளிச்சத்துக்கு வந்தது.
+
+...
+
+[Data](articles/8c3d3fbe.json)
+
+---
+
+### චමරිගේ සතුට
+
+*2024-07-29 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199328) · `si`
+
+පරාජයන්ගෙන් හෙම්බත්ව සිටි ශ්‍රී ලංකා ක්‍රිකට් ප්‍රේක්ෂකයින්ට සතුටක් ලබාදීමට හැකිවීම පිළිබඳ තමා ඇතුළු ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සතුටු වන බව ශ්‍රී ලංකා නායිකා චමරි අතපත්තු පවසයි.
+
+මෙහිදී තවදුරටත් අදහස් දක්වමින් චමරි කියා සිටියේ, ප්‍රේක්ෂකයින් රැසක් පැමිණ තිබීම තමා ඇතුළු කණ්ඩායමට ශක්තියක් වූ බවය.
+
+"මට මගේ රටට කුසලානය ගෙනත් දෙන්න පුළුවන් වුණා. මං හිතන්නේ මිනිස්සු ගොඩක් බලාපොරොත්තුවෙන් දුර ඉඳලා ආවේ තරගය නරඹන්න. ඇත්තටම සතුටුයි රටේ ජනතාවට සතුට ගෙනත් දෙන්න පුළුවන් වුණ එකට ක්‍රිකට්වලින්."
+
+මේ අතර ආසියානු කුසලානයද රැගෙන චමරි තරගය නැරඹීම සඳහා පැමිණ සිටි සිය මව වෙත ගිය අවස්ථාවේ දෙදෙනාම සංවේදී වෙන අයුරු දක්නට ලැබුණි.
+
+"ගොඩක් සතුටුයි දුව මේ වගේ තරගයකින් දිනුවා කියන එකට. අප්පච්චි නැති වුණාට පස්සේ හැමදේටම මම උදව් වුණා. තනියම ගෙදර ඉන්නවා කියලා හිතුවේ නෑ අප්පච්චි නැති වුණා කියලා නෑ මම එයාගේ ආසාවට ඉඩදුන්නා. එයාගේ ගමන යන්න සැලැස්සුවා. අදටත් එහෙම තමා."
+
+...
+
+[Data](articles/073abd18.json)
+
+---
 
 ### Colombo-Kandy road bloom
 
@@ -63,6 +139,24 @@ The Colombo-Kandy main road has temporarily been blocked at Yakkala Junction due
 [Data](articles/20c03b6a.json)
 
 [Extended Data](ext_articles/20c03b6a.ext.json)
+
+---
+
+### Sri Lanka’s Tokyo Cement says factory running on own renewable energy
+
+*2024-07-29 12:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-tokyo-cement-says-factory-running-on-own-renewable-energy-174181/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Tokyo Cement said its factory complex in Trincomalee is generating its own renewable energy and has achieved ‘energy independent’ status and can avoid the impact of changing electricity tariffs.
+
+“The thoughtful design of its local manufacturing process to operate exclusively on renewable biomass energy played a significant role in effectively managing operational expenses. The Group’s 100% energy independent manufacturing process in Trincomalee remained unaffected by the substantial increases in electricity tariffs and fuel prices,” Tokyo told shareholders in the annual report.
+
+The Group recorded a turnover of 49.8 billion rupees and a profit after tax (PAT) of 2.4 billion rupees for the financial year ending on March 31, 2024.
+
+Tokyo Cement Group’s renewable energy generation programme was a key driver of the Group’s stable financial
+
+...
+
+[Data](articles/e1ae5158.json)
 
 ---
 
@@ -249,6 +343,28 @@ Yet there was more in common between the two men than what appeared on the surfa
 [Data](articles/f37d8606.json)
 
 [Extended Data](ext_articles/f37d8606.ext.json)
+
+---
+
+### ‘Not surprised’ at Sri Lanka Women’s cricket team progress: Minister
+
+*2024-07-29 11:25:00* · [`economynextcom`](https://economynext.com/not-surprised-at-sri-lanka-womens-cricket-team-progress-minister-174170/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Foreign Affairs M U M Ali Sabry, has said that he was not surprised by Sri Lanka’s team winning the Women’s T20 Asia Cup 2024 on Sunday.
+
+Sabry was part of the cabinet-appointed subcommittee to inquire into the issues faced by Sri Lanka cricket.
+
+“We extensively interviewed a wide segment of stakeholders, including members of both the Men’s and Women’s Cricket teams.
+
+“This is what we had to say about them, which is why we are not surprised that the Women’s team is making great progress and strides!” Sabry said, highlighting the relevant part of the report.
+
+“In contrast to the men’s cricket team, the women’s cricket team displayed a cohesive and unified group dynamic, characterized by a high level of respect for their coaches and a shared feeling of responsibility.
+
+“The head coach has implemented better communication among the stakeholders, fostering team cohesion among all parties involved.”
+
+...
+
+[Data](articles/00a58dee.json)
 
 ---
 
@@ -470,6 +586,22 @@ Lufthansa's airline says he decided to suspend several of his carriers.
 
 ---
 
+### පොහොට්ටුවේ තීරණාත්මක සාකච්ඡාවක් අද පස්වරුවේදි මහින්දගේ ප්‍රධානත්වයෙන්
+
+*2024-07-29 10:39:52* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තීරණාත්මක-සාකච්ඡාවක්-අද-පස්වරුවේදි-මහින්දගේ-ප්‍රධානත්වයෙන්/11-411061) · `si`
+
+ඉදිරි ජනාධිපතිරණයේදී අපේක්ෂකයෙකු තෝරාපත් කර ගැනීම සඳහා වන ශ්‍රී ලංකා පොදුජන පෙරමුණේ විධායක සභාවේ විශේෂ සාකච්ඡාවක් පක්ෂ නායක මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් අද (29දා) පැවැත්වීමට නියමිතය. ඒ අනුව එය සාකච්ඡාව පස්වරු 4.00 ට කොළඹ විජේරාම මාවතේ පිහිටි හිටපු ජනාධිපතිවරයාගේ නිවසේදී පැවැත්වේ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් පිරිසක් තම සහාය රනිල් වික්‍රමසිංහ මහතාට ලබා දෙන බව ප්‍රසිද්ධියේ ප්‍රකාශ කර ඇති අතර, පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් කළ යුතු බවට තවත් පිරිසකගේ මතය වී තිබේ. ඒ අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණ දෙකඩ වනවාද නොඑසේනම් එක්ව ඉදිරියට ගමන් කරනවාද නැද්ද යන්න මෙම සාකච්ඡාවේදී තීරණය වනු ඇතැයි දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+එමෙන්ම ඉකුත් බ්‍රහස්පතින්දා පාර්ලිමේන්තුවේදී, පාර්ලිමේන්තු මන්ත්‍රීවරුන් තිහකට අධික පිරිසක් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මුණගැසී මේ මොහොතේදී ජනාධිපතිවරයා ප්‍රමුඛ ආණ්ඩුවේ ආර්ථික වැඩපිළිවෙළට සහාය දැක්විය යුතු බවද ප්‍රකාශ කර තිබේ.
+
+...
+
+[Data](articles/90a5b7ef.json)
+
+---
+
 ### Avoid murder
 
 *2024-07-29 10:35:40* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතනයක්-නූලෙන්-වැළකේ/11-411060) · `si`
@@ -543,6 +675,26 @@ President Ranil Wickremesinghe added that the Elections Commission will provide 
 [Data](articles/6cafd711.json)
 
 [Extended Data](ext_articles/6cafd711.ext.json)
+
+---
+
+### ADB developing project to support Sri Lanka tourism sustainably
+
+*2024-07-29 10:12:00* · [`economynextcom`](https://economynext.com/adb-developing-project-to-support-sri-lanka-tourism-sustainably-173998/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank is ready to support Sri Lanka’s tourism sector to earn more revenue while protecting the island’s natural assets, officials said as the country sees a recovery in visitor volumes.
+
+“The ADB is preparing a project that we would like to finance in the tourism space, which will support policy actions in the tourism sector to increase resilience to shocks and strengthen institutions, and potentially streamline decision making as well,” Takafumi Kadono, Country Director, ADB Sri Lanka Resident Mission said.
+
+There were concerns raised over visitation of nature reserves and also whale watching.
+
+“Tourism is not without its challenges,” Takeo Konishi, Director General, South Asia Regional Department, ADB said.
+
+“Some of the pre-COVID-19 challenges such as over-tourism are reoccurring in a variety of destinations, and protests by residents against visitors numbers and visitor behavior is now occurring.
+
+...
+
+[Data](articles/5728cfd6.json)
 
 ---
 
@@ -663,6 +815,30 @@ Several police agencies responded to the park including the Irondequoit Police, 
 [Data](articles/1bbffdf6.json)
 
 [Extended Data](ext_articles/1bbffdf6.ext.json)
+
+---
+
+### Sri Lanka rupee opens flat at 303.05/25 to US dollar
+
+*2024-07-29 09:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-303-05-25-to-us-dollar-174149/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened almost flat at 303.05/25 to the US dollar on Monday, dealers said. Bond yields were broadly stable, they said, and stocks opened up 0.13 percent.
+
+In the secondary market, treasury bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted stable at 10.40/50 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.70/80 percent, up from 11.68/78 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.85/12.00 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.10/25 percent, up from 12.14/18 percent.
+
+In equities, Colombo’s All Share Price Index opened 15.19 points higher at 11,648, while the S&P SL20 of more liquid stocks opened up at 0.36 percent or 12.14 points to 3,39.
+
+◼️
+
+[Data](articles/1caab5ec.json)
 
 ---
 
@@ -955,6 +1131,26 @@ However, since this estimate is only a forecast, the amount of money requested i
 [Data](articles/64039f84.json)
 
 [Extended Data](ext_articles/64039f84.ext.json)
+
+---
+
+### Sri Lanka budget deficit steeply down in May 2024
+
+*2024-07-29 08:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-steeply-down-in-may-2024-174116/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit was steeply down in May 2024 to 366.8 billion rupees, from 1,014.7 billion rupees a year ago, helped by higher tax collections and a lower interest bill, official data show.
+
+Tax collections went up 45 percent to 1,491.3 billion rupees up to May 2024 and not-tax revenues rose 38 percent to 125.5 billion rupees, helping boost total revenues 44 percent to 1,616 billion rupees.
+
+Current spending was down 7 percent to 1,792.8 billion rupees.
+
+Interest costs fell 13 percent to 921.1 billion rupees, after a debt restructure and falling interest rates amid monetary policy which has provided stability, which has been seen in the exchange rate.
+
+Current spending has been kept in check with a hiring freeze and restrained wage increases so far. However, unless the public sector is trimmed, wages have to go up in the future.
+
+...
+
+[Data](articles/11a94d07.json)
 
 ---
 
@@ -2015,239 +2211,5 @@ President Ranil Wickremesinghe congratulated the Sri Lankan women's cricket team
 [Data](articles/b298ac8f.json)
 
 [Extended Data](ext_articles/b298ac8f.ext.json)
-
----
-
-### Irrigated crisis
-
-*2024-07-28 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189625) · `ta`
-
-In March 2024, India's mortgage balance surged to 571 billion rupees, a 172% increase from 210 billion rupees in 2019. The COVID-19 pandemic and economic crises over the past five years have significantly increased the nation's debt levels, particularly among homeowners. This situation raises concerns about the extent of loans in private banks and financial institutions.
-
-🟩
-
-The mortgage balance rose by 172 per cent to 571 billion rupees in March 2024, from about 210 billion rupees in 2019.. Corona infection and economic crisis in the last five years have made the nation's debtors. If this is the case with the mortgage of immovable and immovable assets, it is not difficult to speculate on the amount of loans received in private banks and financial institutions.
-
-◼️
-
-[Data](articles/c53d5928.json)
-
-[Extended Data](ext_articles/c53d5928.ext.json)
-
----
-
-### Missing incident
-
-*2024-07-28 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/189626) · `ta`
-
-Four police officers received death sentences for the disappearance of stored meat. A shop owner was arrested for butchering four goats without slaughtering them properly. The evidence was found in a refrigerator at the Muttirichi police station. Suspicion arose when the magistrate discovered the meat was missing and learned it had been moved elsewhere. Following an investigation, the officers involved were transferred.
-
-🟩
-
-Four police officers have been sentenced to death after the disappearance of muttones who were safely stored in the police station.
-
-On Friday (26), the Akkaraipattu police had lodged a complaint with the Akkaraipattu police division of the Akkaraipattu police division in the Adalaichenai area.
-
-The police have arrested a shop owner who had cut 4 goats at a house in Adalaichenai area without being cut into the goats.
-
-The suspect was later produced in court. Attorney -at -law, who appeared on his behalf, said that she had cut off his home event.
-
-The police have told the court that the proof of the case is placed in the refrigerator at the Muttirichi police station.
-
-When the magistrate went to visit the Akkaraipattu police station, he observed that he was preparing to bury the becco machine.
-
-The judiciary had already made a huge suspicion that the police had already said that the proof was placed in the refrigerator.
-
-...
-
-[Data](articles/5c85b1eb.json)
-
-[Extended Data](ext_articles/5c85b1eb.ext.json)
-
----
-
-### President congratulates Sri Lankan women's cricket team
-
-*2024-07-28 20:18:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மகளிர்-கிரிக்கெட்-அணிக்கு-ஜனாதிபதி-வாழ்த்து/175-341174) · `ta`
-
-President Ranil Wickremesinghe congratulated the Sri Lankan women's cricket team, especially Samari Adapathu for winning the Asian Cup. He praised their skills, dedication, and teamwork, stating they've brought honor to the country.
-
-🟩
-
-President Ranil Wickremesinghe congratulated the Sri Lankan women's cricket team, including Samari Adapathu who won the Asian Cup.
-
-Your skill, dedicated and joint operation for your failure. The President has stated that you have honored our country. (A)
-
-◼️
-
-[Data](articles/043f3de2.json)
-
-[Extended Data](ext_articles/043f3de2.ext.json)
-
----
-
-### Surplus of eggs by December
-
-*2024-07-28 20:14:46* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බර්-වන-විට-බිත්තර-අතිරික්තයක්/11-411056) · `si`
-
-Ratnasiri Alahakoon, Secretary of Lanka's egg manufacturers union, announced that local eggs will be sold at Rs. 38 due to surplus by December. He suggested importing eggs from India to support the local industry and ensure consumer safety. The Trade Ministry confirmed the importation of local eggs at this price.
-
-🟩
-
-The entire Lanka egg manufacturers union secretary Ratnasiri Alahakoon said that the private bureau of the local egg will be purchased at Rs. 38.
-
-According to the December, he is excessive by the December.
-
-According to India, he said that the cost of importing eggs from India, the cost of importing eggs is used to uplift the local egg industry as well as consumer is safe.
-
-The Trade Ministry said that the importation of the local eggs was Rs.
-
-◼️
-
-[Data](articles/1241e8f9.json)
-
-[Extended Data](ext_articles/1241e8f9.ext.json)
-
----
-
-### Sagala and Susil tells Mahinda not to post a candidate
-
-*2024-07-28 20:08:44* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-අපේක්ෂකයෙක්-දාන්න-එපා-යැයි-සාගල-හා-සුසිල්-මහින්දට-කියයි/11-411055) · `si`
-
-Presidential Advisor Sugala Ratnayake and Minister Susil Premajayantha advised former President Mahinda Rajapaksa against running in the upcoming presidential election, citing support from 112 MPs for the current President, Ranil Wickremesinghe. They highlighted the backing of various parties including the People's United Front, Democratic Left, United People's Party, Sri Lanka Labor, and others, emphasizing unity and support for Wickremesinghe's government.
-
-🟩
-
-Presidential Advisor Sugala Ratnayake and Minister Susil Premajayantha had requested former President Mahinda Rajapaksa not to offer a candidate for the presidential election.
-
-They have pointed out that 112 MPs who were elected to the President to support the President in the past parliamentary election.
-
-The People's United Front is a member of the People's United Front, who represents the ponden in the national list, and represents the national list, one member of the Democratic Left, the United People's Party, the United People's Party, Sri Lanka Labor, Lanka LaborTwo SLFP MPs (Nimal Siripala de Silva de Silva de Silva de Silva de Silva de Silva), 05 new alliance members, one member of the Muslim party supports the government. They have also pointed out to the President that all of them have supported the President of Ranil Wickremesinghe.
-
-...
-
-[Data](articles/a3e39123.json)
-
-[Extended Data](ext_articles/a3e39123.ext.json)
-
----
-
-### There is no President who clashes with the Supreme Court as Ranil
-
-*2024-07-28 20:01:46* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-තරම්-ශ්‍රේෂ්ඨාධිකරණය-සමග-ගැටුම්-ඇතිකරගත්-ජනපතිවරයෙක්-නෑ/11-411054) · `si`
-
-Ranil Wickremesinghe stands out in Sri Lanka's history for his frequent confrontations with the Supreme Court during his presidency, attempting to influence its decisions. His actions were unprecedented, marking him as a unique figure in the country's political landscape.
-
-🟩
-
-MP Mujibar Rahman said that he was not in history that had conflicts with the Supreme Court as the President as the President as the President.
-
-He was speaking at a media briefing held at the Colombo Opposition Office today (28).
-
-He further stated that he is also involved in the attempt to no longer appear.
-
-"A President who was confronted with the Supreme Court of Ranil Wickremesinghe has not been in our history. With the Supreme Court over his two years of this year, he was the most frequently talk to conquer their other judicial system. He always expressed constantly in connection with jurisdiction.
-
-His role illustrates that he was a president, who tried to influence the court. This election process is an attempt to upsett. He's gonna mess up or indirectly. "
-
-◼️
-
-[Data](articles/d655e873.json)
-
-[Extended Data](ext_articles/d655e873.ext.json)
-
----
-
-### President Ranil's Tantra brain will make any decision - Mujibur
-
-*2024-07-28 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189616) · `ta`
-
-MP Mujibur Rahman criticizes President Ranil Wickremesinghe for delaying decisions on local and presidential elections, accusing him of creating confusion among his party members. Despite legal challenges, Wickremesinghe faces criticism for not being prepared for elections and for attempting to influence appointments like the Inspector General of Police, despite previous appointments under his tenure.
-
-🟩
-
-We suspect how the local government elections have been abandoned until the final stage, and the situation will occur for the presidential election.. United People's Power MP Mujibur Rahman said that President Ranil Wickremesinghe's trick brain election would not be taken to make no decision to delay the election.
-
-He further stated at a press conference held at the opposition leader's office in Colombo on Sunday (28).
-
-Despite all proceedings, the election for the local government elections has been filed and the election has not been held. The presidential election may also be held. Ranil Wickremesinghe's exploration on whether the presidential election could be delayed and his party colleagues confused everyone by expressing various views.
-
-However, the court put an end to all those efforts. Even now, Ranil Wickremesinghe is afraid of the election. He is not ready for the election. But he has no law for not holding the presidential election for any reason.
-
-...
-
-[Data](articles/86c1c658.json)
-
-[Extended Data](ext_articles/86c1c658.ext.json)
-
----
-
-### 88 million of 13 crores in 13 government institutions
-
-*2024-07-28 19:54:06* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආයතන-13කින්-කෝටි-88ක-බදු-පොල්ලක්/11-411053) · `si`
-
-An audit found the Inland Revenue Department owed Rs. 6,920 crore by May 2023, with 2,459 cases pending due to disputes. The department could recover Rs. 26 crore in fines but faced issues like suspensions. The Auditor General suggested introducing a system to prevent unpaid taxes to suppliers.
-
-🟩
-
-The Audit has revealed that the Inland Revenue Department has not paid more than Rs.has.
-
-By the end of May 2023, the Department of Inland Revenue was 6,920, which had been unresolved in the internal revenue department, which had received unresolved due to disputes.
-
-In the meantime, the Commissioner General General of Inland Revenue was unable to give his decision, 2,459. This was revealed by a audit conducted by the Department of Inland Revenue Office by the National Audit Office.
-
-Deficit deficit, which has been identified can be recovered can be recovered, and the audit inspection has been revealed that the fines were Rs. 26 crores.. The scarcity of suspension has been suspended for various reasons.
-
-...
-
-[Data](articles/65de065d.json)
-
-[Extended Data](ext_articles/65de065d.ext.json)
-
----
-
-### Federation for the nation required
-
-*2024-07-28 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189628) · `ta`
-
-Despite his qualifications, a Tamil state party member lacks Tamil nationality, highlighting the need for national unity and understanding beyond mere credentials.
-
-🟩
-
-Although my dear student in the Tamil state party has a variety of qualifications, he does not have a Tamil nationality. He pointed out parliamentarian MA Sumanthiran that he was not able to see everything from the brain and feel the emotion.
-
-◼️
-
-[Data](articles/c9f836b5.json)
-
-[Extended Data](ext_articles/c9f836b5.ext.json)
-
----
-
-### Public servants must cooperate in conducting elections - Elections Commission
-
-*2024-07-28 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/189597) · `ta`
-
-Elections Commission emphasizes cooperation from public servants. A circular will guide their conduct during elections, detailing roles like District Secretaries and Government Agents. The Police Department will manage security logistics. Post-nomination discussions will focus on candidate campaigns and media strategies, ensuring compliance with the Election Expenditure Act.
-
-🟩
-
-A special circular will be published within two days on the system of public servants during the election.
-
-A special gazette notification has been issued to appoint the District Secretary and the Government Agent as the Elections of the Election Districts.
-
-A special circular will be published in two days to advise how state employees should act during the election. All public servants should cooperate with the election.
-
-The Police Department has provided details of the number and expenses of the police during the election process.
-
-After the acceptance of nominations on the 15th of this month, we will discuss with the candidates or secretaries and independent candidates of political parties to carry out campaigns in accordance with the Election Expenditure Act.
-
-We will discuss the media campaign with the chiefs of the media companies.
-
-◼️
-
-[Data](articles/32419c5c.json)
-
-[Extended Data](ext_articles/32419c5c.ext.json)
 
 ---

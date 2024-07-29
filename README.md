@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 13:55:29**
+As of **2024-07-29 14:07:49**
 
 ## Newspaper Stats
 
-*Scraped **37,842** Articles*
+*Scraped **37,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 2,267
 dailyftlk | 2,416
 adalk | 3,450
 adaderanalk | 4,384
-tamilmirrorlk | 4,681
+tamilmirrorlk | 4,683
 dailymirrorlk | 4,733
 virakesarilk | 5,961
-adaderanasinhalalk | 6,364
+adaderanasinhalalk | 6,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,832 (100.0%) of 37,842 articles have been extended.
+37,842 (100.0%) of 37,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### නීතිඥ නුවන් බෝපගේ ජනපති සටනට
+
+*2024-07-29 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199331) · `si`
+
+ජන අරගල ව්‍යාපාරයේ ජනාධිපති අපේක්ෂකයා ලෙස නීතිඥ නුවන් බෝපගේ මහතා නම් කර තිබේ.
+
+◼️
+
+[Data](articles/ce9f0b9f.json)
+
+---
+
+### කොවිඩ් වසංගතයේ අතුරු ප්‍රතිඵලයක්
+
+*2024-07-29 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199330) · `si`
+
+ලොව සෑම මිනිසුන් 11 දෙනෙකුගෙන් එක් අයෙක්ම කුසගින්නෙන් පසුවන බව එක්සත් ජාතීන්ගේ නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+
+ඔවුන්ට අනුව 2023 වසරේදී පමණක් ලොව පුරා මිලියන 733ක ජනතාවක් කුසගින්නට මුහුණපා ඇති අතර, එය සමස්ත ලෝක ජනගහනයෙන් සියයට 9කි.
+
+ලෝක ආහාර සහ කෘෂිකර්ම සංවිධානය, ලෝක ළමා අරමුදල, ලෝක ආහාර වැඩසටහන, ලෝක සෞඛ්‍ය සංවිධානය සහ ජාත්‍යන්තර කෘෂිකර්ම සංවර්ධන අරමුදල යන එක්සත් ජාතීන්ගේ ආයතන 5ක් එක්ව මෙම වාර්තාව සකස් කර තිබුණි.
+
+එහි වැඩිදුරටත් දැක්වුණේ යුද ගැටුම්, කාලගුණ විපර්යාස සහ සම්පත් බෙදීමේ අසමානතාව යන කරුණු මෙම තත්ත්වයට හේතුවී ඇති බවය.
+
+අප්‍රිකානු කලාපයේ වැසියන් මෙම තත්ත්වයට වැඩි වශයෙන් මුහුණදෙමින් සිටින බවත් එහි සෑම පස් දෙනෙකුගෙන්ම අයෙක් කුසගින්නේ පසුවන බවත් වාර්තා වී තිබේ.
+
+2023 වසරේදී ලෝක ජනගහනයෙන් සියයට 28.9ක් එනම් බිලියන 2.33ක් පමණ අර්ධ වශයෙන් හෝ බරපතළ ලෙස ආහාර අනාරක්ෂිතතාවයෙන් පීඩාවට පත්ව ඇතැයි ද එම වාර්තාවෙන් වැඩිදුරටත් අනාවරණ කෙරේ.
+
+ඔවුන්ට අනුව, ආහාර අනාරක්ෂිතතාවට පත්වන පිරිස සීඝ්‍රයෙන් ඉහළගොස් ඇත්තේ කොවිඩ් -19 ගෝලීය වසංගතය ආරම්භවීමෙන් පසුවය.
+
+◼️
+
+[Data](articles/3041b14c.json)
+
+---
+
+### ரூ.140 கோடி அனுப்பி வைப்பு
+
+*2024-07-29 13:45:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-140-கோடி-அனுப்பி-வைப்பு/175-341216) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கான தபால் திணைக்களத்தின் செலவினங்களைக் கணித்து ரூ.140 கோடி மதிப்பீடு, தேர்தல்கள் ஆணைக்குழுவிற்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+இதற்கமைய பொதுத் தபால், பதிவுத் தபால், எழுதுபொருட்கள், போக்குவரத்து, நிர்வாகக் கட்டணம் உள்ளிட்ட பல செலவினங்களுக்காக இந்த மதிப்பீடு செய்யப்பட்டுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e50b0cd5.json)
+
+---
+
+### கொழும்பு - கண்டி வீதியில் போக்குவரத்து தடை
+
+*2024-07-29 13:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கண்டி-வீதியில்-போக்குவரத்து-தடை/175-341215) · `ta`
+
+கொழும்பு - கண்டி பிரதான வீதியின் யக்கல பிரதேசத்தில் பயணிகள் பஸ் மற்றும் பாரவூர்தி என்பன மோதி விபத்து ஏற்பட்டுள்ளது.
+
+இதன் காரணமாக கொழும்பு - கண்டி பிரதான வீதி யக்கல சந்திக்கு அருகில் தடைப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/98a15873.json)
+
+---
 
 ### Blood test accurately diagnoses Alzheimer’s 90% of the time – study
 
@@ -46,65 +110,93 @@ The results, presented Sunday at the Alzheimer’s Association International Con
 
 [Data](articles/8301bf34.json)
 
+[Extended Data](ext_articles/8301bf34.ext.json)
+
 ---
 
-### අනුරගේ සමුළුවට ගිය හෙදියන් ට එරෙහිව පැමිණිල්ලක්
+### Complaint against Nurses attending Anura's convention
 
 *2024-07-29 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199329) · `si`
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (29) පැවති ජාතික සමස්ත ලංකා හෙද සමුළුවට රජයේ හෙද හෙදියන් නිල ඇඳුමින් සහභාගී වීම මැතිවරණ නීති උල්ලංඝනය කිරීමක් බව කැෆේ සංවිධානය පවසයි.
+Nurses attending a convention under politician Anura Kumara Dissanayake's patronage were accused of violating election laws by the National Election Commission, citing misuse of uniforms for political propaganda. The People's Movement for Free and Fair Elections also raised concerns. A meeting involving defense chiefs and Election Commission officials was held to address the issue.
 
-ඒ ජාතික මැතිවරණ කොමිෂන් සභාවට ඒ පිළිබඳව දැනුම්දෙමින් ලිපියක් යොමුකරමිනි.
+🟩
 
-මහජන බදු මුදල් වැය කර ලබාදෙන නිල ඇඳුම දේශපාලන කාර්යයන් වෙනුවෙන් යොදාගැනීම ආයතන සංග්‍රහය අනූවත් මැතිවරණ නීතිය අනූවත් වැරදි ක්‍රියාවක් බව එම සංවිධානය පෙන්වා දෙයි.
+The National All Ceylon Nursing Forum (NHU) nurses' Nurses held yesterday (29) was held at the National JHD yesterday (29) under the patronage of leading the National Power Anura Kumara Dissanayake was a violation of election laws.
 
-එමෙන්ම නිදහස් හා සාධාරණ මැතිවරණයක් සඳහා වූ ජනතා ව්‍යාපාරය ජාතික මැතිවරණ කොමිෂන් සභාවට ලිපියක් යොමුකරමින් සඳහන් කර ඇත්තේ එම ක්‍රියාව මැතිවරණ නීති උල්ලංඝනය කිරීමක් බවය.
+The National Election Commission issued a letter to the National Election Commission.
 
-මේ අතර ආරක්ෂක ප්‍රධානීන් සහ මැතිවරණ කොමිසමේ නිලධාරීන් අතර සාකච්ඡාවක් අද (29) පැවැත්වුණි.
+The organization points out that the uniform of the proposal of public taxes is used for political purposes.
 
-ඒ අනුව මහජන ආරක්ෂක අමාත්‍යාංශ ලේකම් වියානි ගුණතිලක මහතා සහ ආරක්ෂක මාණ්ඩලික ප්‍රධානී ජෙනරාල් ශවේන්ද්‍ර සිල්වා මහතා ඇතුළු පිරිසක් එහි පැමිණ තිබේ.
+The People's Movement for Free and Fair Elections (People's Movement) has referred to the National Election Commission that the act is a violation of election laws.
+
+Meanwhile, a discussion between the Chiefs of Defense and the Election Commission officials was held today (29).
+
+Accordingly, Secretary Defense, Secretary to the Ministry of Defense Vanii Gunatilake and Chief of Defense Staff Mahevendra Silva and others arrived there.
 
 ◼️
 
 [Data](articles/60759421.json)
 
+[Extended Data](ext_articles/60759421.ext.json)
+
 ---
 
-### கொல்லனின் கோமியம் கோபுரத்தில், கொத்தமலையில் போத்தல்களில்
+### In the Kollan Gomiyam Tower, in the bottles in Kothamalai
 
 *2024-07-29 13:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொல்லனின்-கோமியம்-கோபுரத்தில்-கொத்தமலையில்-போத்தல்களில்/76-341213) · `ta`
 
-கோபுரத்தில் வேலை செய்து கொண்டிருப்பவன் கீழே சிறுநீர் கழிக்க இறங்கி வந்து போக முடியாது. அதனால் அங்கேயே சிறுநீர் கழித்து விடுவான். இதைப்போல ஒரு பழமொழியாக கொல்லனின் கோமியம் கோபுரத்தில் என்பார்கள்.
+In the Kollan Gomiyam Tower, workers face challenges due to its design, leading to health issues like urinary problems. Despite medical advice, patients often fail to adhere to treatment plans, complicating diagnoses and treatments. This situation highlights the importance of proper healthcare guidance and adherence to medical recommendations.
 
-வைத்தியசாலைகளுக்கு பலரும் பல பரிசோதனைகளுக்கு செல்வர், சிறுநீரக நோயால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கையில் குறைவிருக்காது. வரும் வயோதிபர்களுக்கு கூறப்படும் அறிவுரைகள் சரியாக விளங்குவதில்லை. அதனால், பல்வேறு சம்பவங்கள் இடம்பெறுகின்றன.
+🟩
 
-சிறுநீர் சம்பந்தமான நோயால் பாதிக்கப்பட்டிருந்த நோயாளி ஒருவர் சிறுநீர் கழிக்கும்போது எரிச்சல் ஏற்படுவதாக கூறி வைத்தியரை சந்திக்க சென்றுள்ளார் . நோயாளியை பரிசோதித்த பின்னர் வைத்தியரால் நோயாளிக்கு மருந்து வழங்கப்பட்டடு ஒரு வாரத்திற்குப் பிறகு சிறுநீர் மாதிரியைக் கொண்டு வந்து மீண்டும் பரிசோதிக்குமாறு வைத்தியர் கூறியுள்ளார் .
+The person who works in the tower cannot come down to urinate down. So there will be urinating there. Like a proverb, Kollan's Komiyam tower.
 
-எனினும், ஒரு வாரம் வெளியேற்றிய சிறுநீரை இரண்டு மெகா பிளாஸ்டிக் போத்தல்களில் நிரப்பி வைத்தியசாலைக்கு கொண்டு சென்றுள்ளார்.  போத்தல்கள் என்ன இருக்கின்றது என்று விசாரித்த போதே, விவகாரம் வெளிச்சத்துக்கு வந்தது.
+Many hospitals go to many tests, and the number of people with kidney disease will not decrease. The instructions for the coming elderly are not correct. Thus, there are various incidents.
 
-...
+A patient who was suffering from a urinary tract goes to meet the doctor claiming to be irritated when urinating. After examining the patient, the doctor has said that the patient has been given the medication a week later and re -examined.
+
+However, he was taken to the hospital with two mega -plastic bottles that had been discharged for a week.  போத்தல்கள் என்ன இருக்கின்றது என்று விசாரித்த போதே, விவகாரம் வெளிச்சத்துக்கு வந்தது.
+
+The doctor advised to bring the urine sample a week later for urine testing. However, the relevant patient has brought a weekly extract.
+
+Good times don't open two mega bottles. My nose should be closed if you open.
+
+◼️
 
 [Data](articles/8c3d3fbe.json)
 
+[Extended Data](ext_articles/8c3d3fbe.ext.json)
+
 ---
 
-### චමරිගේ සතුට
+### Chamari's happiness
 
 *2024-07-29 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199328) · `si`
 
-පරාජයන්ගෙන් හෙම්බත්ව සිටි ශ්‍රී ලංකා ක්‍රිකට් ප්‍රේක්ෂකයින්ට සතුටක් ලබාදීමට හැකිවීම පිළිබඳ තමා ඇතුළු ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සතුටු වන බව ශ්‍රී ලංකා නායිකා චමරි අතපත්තු පවසයි.
+Chamari Atapattu, leading Sri Lanka's women's cricket team, expresses joy over their victories, attributing it to the support from the nation's cricket enthusiasts. She mentions the importance of her team's unity and the pride in bringing the trophy home. The success has been well-received, with high attendance at matches and personal support from family members. This achievement marks a significant moment for Sri Lanka, especially with the men's national team players showing support for the women's team.
 
-මෙහිදී තවදුරටත් අදහස් දක්වමින් චමරි කියා සිටියේ, ප්‍රේක්ෂකයින් රැසක් පැමිණ තිබීම තමා ඇතුළු කණ්ඩායමට ශක්තියක් වූ බවය.
+🟩
 
-"මට මගේ රටට කුසලානය ගෙනත් දෙන්න පුළුවන් වුණා. මං හිතන්නේ මිනිස්සු ගොඩක් බලාපොරොත්තුවෙන් දුර ඉඳලා ආවේ තරගය නරඹන්න. ඇත්තටම සතුටුයි රටේ ජනතාවට සතුට ගෙනත් දෙන්න පුළුවන් වුණ එකට ක්‍රිකට්වලින්."
+Sri Lanka Leader Chamari, including Sri Lanka women's cricket team is happy to be able to enjoy the Sri Lankan cricket viewers of the defeats.
 
-මේ අතර ආසියානු කුසලානයද රැගෙන චමරි තරගය නැරඹීම සඳහා පැමිණ සිටි සිය මව වෙත ගිය අවස්ථාවේ දෙදෙනාම සංවේදී වෙන අයුරු දක්නට ලැබුණි.
+Speaking further, Chamari stated that he had strengthened his group to attend him.
 
-"ගොඩක් සතුටුයි දුව මේ වගේ තරගයකින් දිනුවා කියන එකට. අප්පච්චි නැති වුණාට පස්සේ හැමදේටම මම උදව් වුණා. තනියම ගෙදර ඉන්නවා කියලා හිතුවේ නෑ අප්පච්චි නැති වුණා කියලා නෑ මම එයාගේ ආසාවට ඉඩදුන්නා. එයාගේ ගමන යන්න සැලැස්සුවා. අදටත් එහෙම තමා."
+"I was able to bring the trophy to my country. I think watching a lot of people look forward to the match. Really, happy with cricket to the people of the country. "
+
+Meanwhile, both were sensitive when he went to his mother who had come to her mother who was present to visit the Chamari.
+
+"Very Happy Daughter won a match like this. After her loss, I helped me. I didn't think she was gone home alone, but I lost her desire to his desire. He made his way to go. It is still. "
+
+Meanwhile, the Sri Lankan men's national team players were watching the women's Asian Trophy at the Pallekele at the Pallekele at the Pallekele player's lounge before yesterday.
+
+Shashikala Siriwardena joined the Sri Lankan women participated in a former Sri Lankan leader and Sri Lanka women's cricket.
 
 ...
 
 [Data](articles/073abd18.json)
+
+[Extended Data](ext_articles/073abd18.ext.json)
 
 ---
 
@@ -157,6 +249,8 @@ Tokyo Cement Group’s renewable energy generation programme was a key driver of
 ...
 
 [Data](articles/e1ae5158.json)
+
+[Extended Data](ext_articles/e1ae5158.ext.json)
 
 ---
 
@@ -365,6 +459,8 @@ Sabry was part of the cabinet-appointed subcommittee to inquire into the issues 
 ...
 
 [Data](articles/00a58dee.json)
+
+[Extended Data](ext_articles/00a58dee.ext.json)
 
 ---
 
@@ -586,19 +682,27 @@ Lufthansa's airline says he decided to suspend several of his carriers.
 
 ---
 
-### පොහොට්ටුවේ තීරණාත්මක සාකච්ඡාවක් අද පස්වරුවේදි මහින්දගේ ප්‍රධානත්වයෙන්
+### A decisive discussion in the pointer will be held under the patronage of Mahinda at the afterwright
 
 *2024-07-29 10:39:52* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තීරණාත්මක-සාකච්ඡාවක්-අද-පස්වරුවේදි-මහින්දගේ-ප්‍රධානත්වයෙන්/11-411061) · `si`
 
-ඉදිරි ජනාධිපතිරණයේදී අපේක්ෂකයෙකු තෝරාපත් කර ගැනීම සඳහා වන ශ්‍රී ලංකා පොදුජන පෙරමුණේ විධායක සභාවේ විශේෂ සාකච්ඡාවක් පක්ෂ නායක මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් අද (29දා) පැවැත්වීමට නියමිතය. ඒ අනුව එය සාකච්ඡාව පස්වරු 4.00 ට කොළඹ විජේරාම මාවතේ පිහිටි හිටපු ජනාධිපතිවරයාගේ නිවසේදී පැවැත්වේ.
+A crucial meeting, sponsored by Mahinda, will discuss the future of Sri Lanka's General Ceremony. It's set for 4:00 PM at the former President's residence. A group of SLC MPs supports Ranil Wickremesinghe's stance on nominating a candidate. Political tensions rise as over 30 MPs urge President Mahinda Rajapaksa to back the government's economic policies. The SLPF warns against potential divisions within the Sri Lanka Civil Appointment Order.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් පිරිසක් තම සහාය රනිල් වික්‍රමසිංහ මහතාට ලබා දෙන බව ප්‍රසිද්ධියේ ප්‍රකාශ කර ඇති අතර, පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් කළ යුතු බවට තවත් පිරිසකගේ මතය වී තිබේ. ඒ අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණ දෙකඩ වනවාද නොඑසේනම් එක්ව ඉදිරියට ගමන් කරනවාද නැද්ද යන්න මෙම සාකච්ඡාවේදී තීරණය වනු ඇතැයි දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+🟩
 
-එමෙන්ම ඉකුත් බ්‍රහස්පතින්දා පාර්ලිමේන්තුවේදී, පාර්ලිමේන්තු මන්ත්‍රීවරුන් තිහකට අධික පිරිසක් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මුණගැසී මේ මොහොතේදී ජනාධිපතිවරයා ප්‍රමුඛ ආණ්ඩුවේ ආර්ථික වැඩපිළිවෙළට සහාය දැක්විය යුතු බවද ප්‍රකාශ කර තිබේ.
+A special discussion of the Sri Lanka Ceremony of Sri Lanka General (29) is scheduled to hold a special discussion in the Sri Lanka Ceremony of Sri Lanka General. Accordingly, the discussion will be held at the house of the former President on Wijerama Mawatha, Colombo at 4.00 pm.
+
+A group of MPs of Sri Lanka General (SLC) have publicly stated that they will be supported by Mr. Ranil Wickremesinghe that a candidate should be submitted from the party and the opinion of another. According to political sources, the Sri Lanka Cran's Front will be divided or not to jointly.
+
+In Parliament and more than 30 MPs in Parliament, more than 30 MPs have met President Mahinda Rajapaksa, the President should support the government's economic economic program.
+
+Therefore, they have pointed out to former President Mahinda Rajapaksa that if the party would be divided if other candidate would be submitted by the party at the moment.
 
 ...
 
 [Data](articles/90a5b7ef.json)
+
+[Extended Data](ext_articles/90a5b7ef.ext.json)
 
 ---
 
@@ -695,6 +799,8 @@ There were concerns raised over visitation of nature reserves and also whale wat
 ...
 
 [Data](articles/5728cfd6.json)
+
+[Extended Data](ext_articles/5728cfd6.ext.json)
 
 ---
 
@@ -839,6 +945,8 @@ In equities, Colombo’s All Share Price Index opened 15.19 points higher at 11,
 ◼️
 
 [Data](articles/1caab5ec.json)
+
+[Extended Data](ext_articles/1caab5ec.ext.json)
 
 ---
 
@@ -1151,6 +1259,8 @@ Current spending has been kept in check with a hiring freeze and restrained wage
 ...
 
 [Data](articles/11a94d07.json)
+
+[Extended Data](ext_articles/11a94d07.ext.json)
 
 ---
 
@@ -2123,93 +2233,5 @@ President Ranil Wickremesinghe made this statement while addressing the Hon.
 [Data](articles/b9c56216.json)
 
 [Extended Data](ext_articles/b9c56216.ext.json)
-
----
-
-### Separate Health Facilities For Foreign Ticket Holders - Pavithra
-
-*2024-07-28 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189621) · `ta`
-
-Pavithra Wanniyarachchi, Wildlife and Forest Resources Minister, announced a surge in tourism, with 364,521 visitors in the first half of 2024, 40% being foreign tourists. This marks a significant increase from previous years. Measures include opening new tourist destinations like the Kaloya Environmental Park, providing separate health facilities for foreign tourists, and utilizing drone technology for forest protection.
-
-🟩
-
-Wildlife and Forest Resources Minister Pavithra Wanniyarachchi said that there has been a clear increase in the number of domestic and foreign tourists who visit the tourist attractions controlled by the Department of Forest in the country compared to the last two years.
-
-The Minister said that in the first six months of 2024, 364,521 tourists arrived and 40 per cent of them were foreign tourists.
-
-He further stated at the media conference held at the Presidential Media Center on Sunday (28).
-
-There has been a clear increase in the number of domestic and foreign tourists coming to the forest department -controlled tourist attractions in 2024 compared to the last two years. Accordingly, the number of tourists visiting the Forest Department in 2022 was 289,405 and 444,053 in 2023.. In the first six months of 2024, about 364,521 tourists arrived.
-
-...
-
-[Data](articles/614e70c3.json)
-
-[Extended Data](ext_articles/614e70c3.ext.json)
-
----
-
-### Sri Lanka unveils ambitious plans to boost forest coverage to 32% by 2030
-
-*2024-07-28 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/100842/sri-lanka-unveils-ambitious-plans-to-boost-forest-coverage-to-32-by-2030) · `en`
-
-Compared to the past two years, 2024 is expected to see a significant rise in the number of local and foreign tourists visiting attractions managed by the Department of Forest Conservation, said Pavithra Wanniarachchi, the Minister of Wildlife, Forest Resources Conservation, and Irrigation.
-
-She noted that 364,521 tourists visited in the first half of 2024, with 40% of them being tourists.
-
-Addressing a press briefing held under the press briefing series titled “Two Years of Progress and Way Forward”, held at the Presidential Media Centre today (28), Wildlife, Forest Resources Conservation, and Irrigation Minister Pavithra Wanniarachchi further elaborated;
-
-...
-
-[Data](articles/6af80170.json)
-
-[Extended Data](ext_articles/6af80170.ext.json)
-
----
-
-### Additional Paddy in the Iranamadukula area
-
-*2024-07-28 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189620) · `ta`
-
-In the Iranamadukula region, over 750 acres of land have been illegally cultivated, violating local committee resolutions and minority subsidy rules. Despite this, the Kamakara organization has received state subsidies for these actions, affecting individual farmers.
-
-🟩
-
-More than 750 acres of land in the area under the Kilinochchi Irani Mudukulam have been adopted in violation of the resolutions of the District Cultivation Committee in the area of ​​the Kamakara system and the state subsidies for minority have been received according to the recommendations of the Kamakara Organization.
-
-According to the size of the Kilinochchi Irani Mudukulam this year, the permits were granted permission to carry out a thousand 707 acres of water land in the area under the Pulingadevan Break Kamakara system.
-
-In addition, 750 acres of land has been opened along with the land allotted in the area.
-
-That is, in violation of the decisions of the District Cultivation Committee, the main responsibility of the Kamakara organizations in the relevance have been cultivated on the cultivation.
-
-As a result of this, many individual farmers have been affected at the same time.
-
-...
-
-[Data](articles/6d83c0b5.json)
-
-[Extended Data](ext_articles/6d83c0b5.ext.json)
-
----
-
-### President congratulates Sri Lankan women's cricket team capturing Asian Cup
-
-*2024-07-28 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/189636) · `ta`
-
-President Ranil Wickremesinghe praised the Sri Lankan women's cricket team for winning the Asian Cup, highlighting their skills, dedication, and teamwork. He specifically mentioned Samari Adapathu, commending them for bringing honor to the country.
-
-🟩
-
-President Ranil Wickremesinghe congratulated the Sri Lankan women's cricket team, including Samari Adapathu who won the Asian Cup.
-
-"Your skill, dedicated and joint operation for your failure. "You have honored our country," the President added in his congratulations.
-
-◼️
-
-[Data](articles/b298ac8f.json)
-
-[Extended Data](ext_articles/b298ac8f.ext.json)
 
 ---

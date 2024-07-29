@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 14:20:37**
+As of **2024-07-29 14:36:07**
 
 ## Newspaper Stats
 
-*Scraped **37,846** Articles*
+*Scraped **37,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 365
 islandlk | 2,168
 economynextcom | 2,267
 dailyftlk | 2,416
-adalk | 3,450
-adaderanalk | 4,384
+adalk | 3,451
+adaderanalk | 4,385
 tamilmirrorlk | 4,683
 dailymirrorlk | 4,733
 virakesarilk | 5,961
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,846 (100.0%) of 37,846 articles have been extended.
+37,846 (100.0%) of 37,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### People’s Struggle Movement announces its presidential candidate
+
+*2024-07-29 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100856/peoples-struggle-movement-announces-its-presidential-candidate) · `en`
+
+Attorney-at-Law Nuwan Bopage has been named as the Presidential Candidate of the People’s Struggle Movement (Jana Aragala Viyaparaya).
+
+This was communicated during a media briefing held today (29).
+
+◼️
+
+[Data](articles/8165b096.json)
+
+---
 
 ### Attorney at Law Nuwan Bope's President to fight
 
@@ -191,6 +205,18 @@ Good times don't open two mega bottles. My nose should be closed if you open.
 [Data](articles/8c3d3fbe.json)
 
 [Extended Data](ext_articles/8c3d3fbe.ext.json)
+
+---
+
+### ඇමති විජයදාස රාජපක්ෂ ඉල්ලා අස්වෙයි
+
+*2024-07-29 13:24:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාස-රාජපක්ෂ-ඉල්ලා-අස්වෙයි/11-411069) · `si`
+
+අධිකරණ, බන්ධනාගාර කටයුතු සහ ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ  අමාත්‍ය විජයදාස රාජපක්‍ෂ මහතා එම අමාත්‍ය ධූරයෙන් ඉල්ලා අස්විමට තිරණය කර තිබේ. ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වීම සදඟා ඔහු මෙසේ සිය අමාත්‍ය ධූරයෙන් ඉල්ලා අස්වී තිබේ.
+
+◼️
+
+[Data](articles/488a1738.json)
 
 ---
 
@@ -2207,55 +2233,5 @@ For the first time at the Olympic Games, Viran said that he was satisfied with h
 [Data](articles/d3be53a0.json)
 
 [Extended Data](ext_articles/d3be53a0.ext.json)
-
----
-
-### The rim of the swimming pool is dead by a two-year-old boy
-
-*2024-07-28 20:35:52* · [`adalk`](https://www.ada.lk/breaking_news/පිහිනුම්-තටාකයේ-ගිලි-වයස-අවුරුදු-07-ක-පිරිමි-ළමයෙකු-මියගිහින්/11-411057) · `si`
-
-A two-year-old boy, Mohammed Miss Manan from Kurungolla, drowned in a swimming pool at Luvi Peiris Mawatha, Kandy. The incident occurred on February 28th, and he was found near the pool around 11:00 pm. His older brother witnessed the accident but couldn't save him. The boy was rushed to Kandy National Hospital, where he was pronounced dead. Investigations are ongoing by the Kandy Headquarters Police.
-
-🟩
-
-The swimming pool at Luvi Peiris Mawatha, Kandy has died and was admitted to the Kandy National Hospital in the pool of the swimming pool.
-
-The deceased has been identified as a child named Mohammed Miss Manan, a resident of Kurungolla.
-
-The two children had come to the hotel to take vamination today (28), while the deceased who died around 11.00 pm was near the swimming pool, police said. He was drowning when he saw his older brother in the swimming pool and drove his younger brother.
-
-The younger brother was killed when the younger brother was taken to the hospital and the Kandy Headquarters Police are conducting further investigations.
-
-◼️
-
-[Data](articles/4d2d91a3.json)
-
-[Extended Data](ext_articles/4d2d91a3.ext.json)
-
----
-
-### Within a week, the issue of the appointment of the Inspector General of Police will be resolved and the environment required to hold an independent and fair election will be created - President Ranil
-
-*2024-07-28 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189637) · `ta`
-
-President Ranil Wickremesinghe promises resolution of the Inspector General of Police appointment issue within a week, ensuring conditions for a free and fair election. He emphasizes the importance of supporting the Elections Commission and addresses concerns about economic recovery and international support.
-
-🟩
-
-President Ranil Wickremesinghe said that the issue of the appointment of the Inspector General of Police will be resolved within a week, discussing with the Speaker and the Chief Justice.
-
-The President said that he was not ready to hold the presidential election on September 21 and that the presidential election would be held on September 21.
-
-He pointed out that the election is part of the sovereignty of the people and cannot be used to violate it.
-
-In addition to the 106th of the Constitution, the President pointed out that the Elections Commission has the power to hold an independent and fair election in the country, saying that it is the perfect duty of all to be given full support.
-
-President Ranil Wickremesinghe made this statement while addressing the Hon.
-
-...
-
-[Data](articles/b9c56216.json)
-
-[Extended Data](ext_articles/b9c56216.ext.json)
 
 ---

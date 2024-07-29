@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 09:07:01**
+As of **2024-07-29 09:20:39**
 
 ## Newspaper Stats
 
-*Scraped **37,793** Articles*
+*Scraped **37,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,75 @@ islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,416
 adalk | 3,443
-adaderanalk | 4,375
+adaderanalk | 4,376
 tamilmirrorlk | 4,668
 dailymirrorlk | 4,733
 virakesarilk | 5,958
-adaderanasinhalalk | 6,353
+adaderanasinhalalk | 6,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,788 (100.0%) of 37,793 articles have been extended.
+37,793 (100.0%) of 37,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### ஹபராதுவ பகுதியில் துப்பாக்கிச்சூடு - இருவர் காயம்
+### පැරිස් ඔලිම්පික් උළෙලේ තවත් වැරැද්දක්
+
+*2024-07-29 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199319) · `si`
+
+ජාතික ගීයක් වැරදි ලෙස ප්‍රචාරය වීම සම්බන්ධයෙන් පැරිස් ඔලිම්පික් සංවිධායකයින් විසින් සමාව ඉල්ලා ප්‍රකාශයක් නිකුත්කර තිබේ.
+
+පිරිමි පැසිපන්දු තරගාවලියේ දකුණු සුඩානය සහභාගි වු තරගය ආරම්භයට පෙර දකුණු සුඩානයේ ජාතික ගීය වෙනුවට සුඩානයේ ජාතික ගීය ප්‍රචාරය වි ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+එහි රැස්ව සිටි ප්‍රේක්ෂකයින්ගේ ඝෝෂාවත් සමග සුඩානයේ ජාතික ගීය ප්‍රචාරය නවත්වා යළි දකුණු සුඩානයේ ජාතික ගීය ප්‍රචාරය කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+◼️
+
+[Data](articles/1cff2021.json)
+
+---
+
+### Vehicle import restrictions to be eased starting from August - State Minister
+
+*2024-07-29 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100846/vehicle-import-restrictions-to-be-eased-starting-from-august-state-minister-) · `en`
+
+State Minister of Finance Shehan Semasinghe has revealed that permission for the import of vehicles will be granted in the month of August.
+
+Accordingly, the state minister said that permission will be given for the import of vehicles required for business and transportation at the initial stage.
+
+“A government cannot lead the country back to the point of imposing import restrictions by asking for this election. At that time, all other restrictions were eased except for vehicles. Regarding the easing of vehicle restrictions, the government’s position as of August is how the import restrictions on vehicles will be removed in stages. We hope to give permission to those vehicles required for business activities and transportation in the first round. But we expect to import vehicles for private consumption in the first quarter of 2025,” said Semasinghe.
+
+◼️
+
+[Data](articles/ab25873e.json)
+
+---
+
+### Habaraduwa area shooting - two injured
 
 *2024-07-29 08:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹபராதுவ-பகுதியில்-துப்பாக்கிச்சூடு-இருவர்-காயம்/175-341194) · `ta`
 
-ஹபராதுவ - ஹருமல்கொட பகுதியில் நேற்று (28) இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் இருவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In Habaraduwa, two individuals, ages 34 and 54, were shot and hospitalized after being targeted by gunmen who fled on a motorcycle. The victims are from Habaraduwa and Akulukaha areas.
 
-சம்பவத்தில் குறித்த நபர்கள்  துப்பாக்கிச் சூட்டை நடத்திவிட்டு மோட்டார் சைக்கிளில்  தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்ததுடன், அவர் முச்சக்கரவண்டியில் ஏற முற்பட்ட போது, ​​துப்பாக்கிச் சூடு நடத்தியவர்கள் முச்சக்கரவண்டி மீதும் துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+Two persons were injured and admitted to hospital in Habaraduwa - Harumalgoda last night.
 
-துப்பாக்கிச் சூட்டில் 34 மற்றும் 54 வயதுடைய இருவர் காயமடைந்துள்ளதாகவும், அவர்கள் ஹபராதுவ மற்றும் அகுலுகஹா பகுதியைச் சேர்ந்தவர்கள் எனவும் பொலிஸார் தெரிவித்தனர். R
+It is reported that the men fled on a motorcycle and fled.
+
+One person was injured in the shooting and when he tried to climb into the three -wheeler, the firmen fired at the three -wheeler.
+
+Two people, aged 34 and 54, were injured in the shooting and they are from Habaraduwa and Akulukaha area, police said.. Remble
 
 ◼️
 
 [Data](articles/b2f2a281.json)
+
+[Extended Data](ext_articles/b2f2a281.ext.json)
 
 ---
 
@@ -68,6 +106,8 @@ Police said that the injured men, aged 34 and 54, are residents of the Habaraduw
 
 [Data](articles/33f0b9a5.json)
 
+[Extended Data](ext_articles/33f0b9a5.ext.json)
+
 ---
 
 ### Fairly heavy showers expected in parts of the island
@@ -85,6 +125,8 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 ◼️
 
 [Data](articles/72cbf5fb.json)
+
+[Extended Data](ext_articles/72cbf5fb.ext.json)
 
 ---
 
@@ -482,23 +524,29 @@ Devolution of power deepens democracy by bringing government closer to the peopl
 
 ---
 
-### சந்தேக நபரைத் தாக்கிய இரு பொலிஸார் இடைநீக்கம்
+### Two police suspended
 
 *2024-07-29 01:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தேக-நபரைத்-தாக்கிய-இரு-பொலிஸார்-இடைநீக்கம்/175-341190) · `ta`
 
-பருத்தித்துறை பொலிஸ் நிலையக் குற்றத் தடுப்புப் பிரிவில் பணிபுரியும் இரண்டு பொலிஸார் சந்தேக நபரைத் தாக்கிய குற்றச்சாட்டில் பணி இடைநீக்கம் செய்யப்பட்டுள்ளனர்.
+Two police officers from the Point Pedro station are suspended for allegedly assaulting a suspect. The suspect, arrested for an unrelated offense, was hospitalized. The officers, who failed to appear sober during an investigation, were released on bail but remain suspended pending further inquiry.
 
-பருத்தித்துறையைச் சேர்ந்த ஒருவரை சந்தேகத்தின் அடிப்படையில் கைது செய்து பொலிஸ் நிலையத்திற்கு அழைத்துச் சென்று தாக்கியுள்ளனர்.  தாக்குதலுக்கு உள்ளான சந்தேக நபர் பருத்தித்துறை வைத்தியசாலையின் இலக்கம் 07 இலக்க விடுதியில்  அனுமதிக்கப்பட்டுள்ளார்.
+🟩
 
-தாக்குதல் தொடர்பில் பருத்தித்துறை குற்றத் தடுப்புப் பிரிவில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவர் குடிபோதையில் இருந்தமை உறுதி செய்யப்பட்ட பின்னர், அவர் கைது செய்யப்பட்டார்.  இரண்டாவது அதிகாரி சம்பவத்தன்று சம்பவ இடத்திலிருந்து வெளியேறினார்.
+Two policemen working in the Point Pedro Police Station Crime Unit have been suspended for allegedly assaulting the suspect.
 
-இரண்டு பொலிஸ் உத்தியோகத்தர்களையும்  நீதிமன்றில் முற்படுத்தியபோது, இருவரும்  50 ஆயிரம் ரூபா சரீரப் பிணையில் செல்ல அனுமதிக்கப்பட்டனர்.
+A man from Point Pedro has been arrested on suspicion and taken to the police station.The suspect has been admitted to the County No. 7 Hospital of the Point Pedro Hospital.
 
-இருந்தபோதும் இரு பொலிஸாரும் காங்ககேசந்துறை சிரேஷ்ட பொலிஸ் அத்தியட்சகரினால் விசாரணை முடியும் வரை பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளனர். (a)
+He was arrested after a police officer working in the Pedro Criminal Investigation Division was drunk in connection with the attack.The second officer left the scene on the incident.
+
+When the two police officers appeared in court, the two were allowed to go on bail for 50 thousand rupees.
+
+However, the two policemen have been suspended until the inquiry is over by the Senior Superintendent of Police Kangkesandurai.. (A)
 
 ◼️
 
 [Data](articles/3c46cb09.json)
+
+[Extended Data](ext_articles/3c46cb09.ext.json)
 
 ---
 
@@ -565,6 +613,8 @@ Amal leaves behind him a masterclass in humility, caring, devotion and passion
 ...
 
 [Data](articles/ba3468d2.json)
+
+[Extended Data](ext_articles/ba3468d2.ext.json)
 
 ---
 
@@ -2171,41 +2221,5 @@ Professor Sivathambi said that the Tamil community is a state of power. Although
 [Data](articles/6284a075.json)
 
 [Extended Data](ext_articles/6284a075.ext.json)
-
----
-
-### 5 lakhs of cash transactions?: Increasing tax burden
-
-*2024-07-28 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/189607) · `ta`
-
-Tracking all cash transactions could help accurately measure GDP, income, and economic growth, potentially leading to more effective tax policies and increased tax revenue.
-
-🟩
-
-By identifying the complete transactions in the country, the real statistics of GDP, Income and Economic Growth can be obtained.. This will result in a better tax return through the new tax policies introduced by the government.
-
-◼️
-
-[Data](articles/6f150d18.json)
-
-[Extended Data](ext_articles/6f150d18.ext.json)
-
----
-
-### Bangladesh's Student Struggle - People's Uprising
-
-*2024-07-28 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189609) · `ta`
-
-Sheikh Mujibur Rahman led Bangladesh's independence movement, founding the nation and inspiring its current PM, Sheikh Hasina. His legacy includes the quota system for children of freedom fighters, highlighting the importance of remembering and supporting those who fought for the country's independence.
-
-🟩
-
-The leader of the struggle, Sheikh Mujibur Rahman. Founder of Bangladesh. He is the father of contemporary Prime Minister Sheikh Hasina. If Bangladesh's Independence War is important, the descendants of the freedom fighters who participated in. The quota system was created with the aim of getting the state industry.
-
-◼️
-
-[Data](articles/f2a08e9f.json)
-
-[Extended Data](ext_articles/f2a08e9f.ext.json)
 
 ---

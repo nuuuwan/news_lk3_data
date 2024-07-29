@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 22:09:04**
+As of **2024-07-29 22:20:41**
 
 ## Newspaper Stats
 
-*Scraped **37,927** Articles*
+*Scraped **37,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,273
 dailyftlk | 2,416
-adalk | 3,463
+adalk | 3,464
 adaderanalk | 4,394
 tamilmirrorlk | 4,695
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,927 (100.0%) of 37,927 articles have been extended.
+37,927 (100.0%) of 37,928 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -305,6 +305,20 @@ According to party sources, the party's candidate is ready to be published in th
 [Data](articles/1cc94d21.json)
 
 [Extended Data](ext_articles/1cc94d21.ext.json)
+
+---
+
+### තේ පොහොර සහනාධාරය සියයට 100කින් වැඩි කරයි
+
+*2024-07-29 18:35:11* · [`adalk`](https://www.ada.lk/breaking_news/තේ-පොහොර-සහනාධාරය-සියයට-100කින්-වැඩි-කරයි/11-411077) · `si`
+
+තේ පොහොර සහනාධාරය රුපියල් 4000 දක්වා ඉහළ නැංවීමට රජය තීරණය කර තිබේ.ඒ අනුව මින් පෙර ගොවීන්ට ලබා දීමට  තීරණය කර තිබූ රුපියල් 2000ක මුදල එළඹෙන මහ කන්නයේ සිට දෙගුණයකින් ඉහළ නංවා ඇත.
+
+මේ පිළිබඳ අදහස් දක්වමින් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශයේ ලේකම් ජානක ධර්මකීර්ති මහතා සඳහන් කර සිටියේ තේ නිෂ්පාදනය ඉහළ නැංවීමට අදාළ මුදල ප්‍රමාණවත් නොවීම හේතුවෙන් එය දෙගුණයක් කරන ලෙස විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතා විසින් තමන්ට උපදෙස් දුන් බවයි.
+
+◼️
+
+[Data](articles/6b63c575.json)
 
 ---
 
@@ -2261,31 +2275,5 @@ Furthermore, the Election Commission informs the general public that the applica
 [Data](articles/09cf791c.json)
 
 [Extended Data](ext_articles/09cf791c.ext.json)
-
----
-
-### Removal of Vehicle Import Limit of 2025 In the first quarter of the year
-
-*2024-07-29 11:18:36* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-සීමා-ඉවත්-කිරීම-2025-වර්ශයේ-පළමු-වන-කාර්තුවේදී/11-411064) · `si`
-
-In Q1 2025, Sri Lanka plans to lift its vehicle import limit, focusing initially on commercial and transport vehicles. This move aims to boost the economy post-presidential elections, emphasizing the need for visionary leadership to handle international relations effectively. The government is also addressing corruption and bribery issues, with steps towards digital governance and international technical support. All candidates, except Ranil Wickremesinghe, are criticized for their policies.
-
-🟩
-
-State Minister of State Shehan Semasinghe says that the country needs a vision of experiences and the future of the international vehicle.
-
-The State Minister was speaking at a media briefing in Anuradhapura yesterday (28).
-
-This year's presidential election is to ensure that the situation in 2022. The purpose of all people should be maintained according to the economic translation law of the country.
-
-The country needs a visionary leadership that can deal with the international community and the future. If the people have a faulty decision in the next presidential election, the country will not be able to live for 15 years.
-
-Currently, the necessary legal framework for bribe and corruption in Sri Lanka, we also planned to create an institution to create a necessary institution.. Steps have been taken to provide technical support internationally.The state governance is already making the necessary digital.
-
-...
-
-[Data](articles/b767b53c.json)
-
-[Extended Data](ext_articles/b767b53c.ext.json)
 
 ---

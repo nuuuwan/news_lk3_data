@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 17:36:12**
+As of **2024-07-29 17:56:59**
 
 ## Newspaper Stats
 
-*Scraped **37,891** Articles*
+*Scraped **37,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,170
 economynextcom | 2,267
 dailyftlk | 2,416
 adalk | 3,457
-adaderanalk | 4,390
+adaderanalk | 4,391
 tamilmirrorlk | 4,691
 dailymirrorlk | 4,733
 virakesarilk | 5,976
@@ -26,31 +26,53 @@ adaderanasinhalalk | 6,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,890 (100.0%) of 37,891 articles have been extended.
+37,891 (100.0%) of 37,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### මන්නා රමේෂ් අධිකරණයට රැගෙන එයි
+### Minister Jeevan Thondaman surrenders to court
+
+*2024-07-29 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100862/minister-jeevan-thondaman-surrenders-to-court) · `en`
+
+The General Secretary of the Ceylon Workers’ Congress (CWC), Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman and three other senior members of his party have surrendered to the Nuwara-Eliya Magistrate’s Court through a motion filed today (29).
+
+This comes after the court ordered the arrest of Minister Thondaman and to produce him before the court over an incident where the CWC General Secretary had allegedly stormed into the Pedro Tea Factory, controlled under Kelani Valley Plantations PLC, along with a group of his supporters on May 30, 2024.
+
+During the hearing of the case on July 22, Nuwara-Eliya Police had stated before the court that they will not submit the names of the suspects to the court as the investigation activities have not been completed and that advice have been sought from the Attorney General in this regard.
+
+...
+
+[Data](articles/b9589aa3.json)
+
+---
+
+### Manna brought to court
 
 *2024-07-29 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199339) · `si`
 
-ඩුබායිහි දී අත්අඩංගුවටගත් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු ලෙස සැලකෙන රමේෂ් ප්‍රියජනක හෙවත්  "මන්නා රමේෂ්" අද (29) අවිස්සාවේල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන ආවේය.
+"Manna Ramesh, arrested in Dubai, appeared in Avissawella Magistrate's Court. Accused of drug trafficking and murder, his detention expires on August 8."
 
-නඩු කටයුත්තක් සඳහා ඔහු එලෙස ගෙන ආ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+🟩
 
-මේ වනවිට මන්නා රමේෂ්ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් රඳවාගෙන ප්‍රශ්න කරමින් සිටින අතර ඔහුගේ රැඳවුම් කාලය අගෝස්තු 08 වනදා අවසන්වීමට නියමිතය.
+Ramesh Priyro, "Manna Ramesh, who was arrested in Dubai, was taken to Avissawella Magistrate's Court today.
 
-සැකකරුගේ රැඳවුම් කාලය අවසන් වන දිනයේදී ඔහු අධිකරණය වෙත ඉදිරිපත් කරන ලෙස නියෝග කළ බව අප වාර්තාකරු පැවසීය.
+The Ada Derana reporter said that he brought such a case for a case.
 
-ශ්‍රී ලංකා පොලීසිය කර තිබූ ඉල්ලීමට අනුව ජාත්‍යන්තර පොලීසියේ රතු වරෙන්තු මත ඩුබායිහිදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු ලෙස සැලකෙන මන්නා රමේෂ් මැයි 07 වනදා අලුයම දිවයිනට රැගෙන ආවේය.
+The manna is being detained by the Criminal Investigations Department and his detention time is due to expire on August 8.
 
-අවිස්සාවේල්ල ප්‍රදේශය කේන්ද්‍ර කරගනිමින් ව්‍යාපාරිකයින්ගෙන් කප්පම් ගැනීම, මත්ද්‍රව්‍ය ජාවාරම සහ මනුෂ්‍ය ඝාතන සම්බන්ධයෙන් මන්නා රමේෂ්ට එරෙහිව චෝදනා එල්ල වී තිබේ.
+Our correspondent said he was ordered to be produced before court on the day of the suspect's detention.
+
+According to the Sri Lankan police, Manna Ramesh, who was arrested by the organized crime leader in Dubai, was taken to the island on May 07.
+
+Manna Ramesh has been accused of extorting drug trafficking and murder centered in Avissawella area.
 
 ◼️
 
 [Data](articles/b5e55a4c.json)
+
+[Extended Data](ext_articles/b5e55a4c.ext.json)
 
 ---
 
@@ -2251,29 +2273,5 @@ Also, the elite protector has been attached to the year over the years, exceedin
 [Data](articles/c0924380.json)
 
 [Extended Data](ext_articles/c0924380.ext.json)
-
----
-
-### Postal Expenditure Estimation of Postal Expenditure Estimation
-
-*2024-07-29 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199318) · `si`
-
-The Elections Commission estimates a budget of Rs. 1.4 billion for the Postal Department for the upcoming presidential election, covering costs like postal fees, registered postage, stationery, and admin fees. Deputy Post Master General Rajitha mentioned this during a press conference, noting that the figure is subject to change as it's a preliminary estimate.
-
-🟩
-
-The Elections Commission has predicted Rs. 1.4 billion to the post of Postal Department for the presidential election.
-
-Deputy Post Master General Rajitha said this at a query made today.
-
-He said that the estimation was made for a number of expenses including normal postal fees, registered postage, stationery, and administrative fees.
-
-However, since this estimate is only a forecast, the amount of money requested is capable of change.
-
-◼️
-
-[Data](articles/64039f84.json)
-
-[Extended Data](ext_articles/64039f84.ext.json)
 
 ---

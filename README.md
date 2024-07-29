@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 12:09:32**
+As of **2024-07-29 12:20:39**
 
 ## Newspaper Stats
 
-*Scraped **37,825** Articles*
+*Scraped **37,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,262
 dailyftlk | 2,416
 adalk | 3,448
 adaderanalk | 4,382
-tamilmirrorlk | 4,676
+tamilmirrorlk | 4,677
 dailymirrorlk | 4,733
 virakesarilk | 5,961
 adaderanasinhalalk | 6,361
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,821 (100.0%) of 37,825 articles have been extended.
+37,825 (100.0%) of 37,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### மஹிந்தவிற்கு ரணில் அவசர கடிதம்
+
+*2024-07-29 12:01:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிற்கு-ரணில்-அவசர-கடிதம்/175-341207) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு கடிதமொன்றை அனுப்பி வைத்துள்ளார் என சமூக வலைத்தளங்களில் செய்திகள் பரவியுள்ளன.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் தாம் சுயேச்சை வேட்பாளராக போட்டியிடவுள்ளதால் தமக்கு ஆதரவளிக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க ஸ்ரீலங்கா பொதுஜன பெரமுனவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+பொதுஜன பெரமுனவின் தலைவர் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு கடிதம் ஒன்றை அனுப்பி வைத்து அவர் இந்த கோரிக்கையை விடுத்துள்ளார்.
+
+அதன்படி, ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கோரிக்கை இன்று(29)  நடைபெறவுள்ள பொதுஜன பெரமுனவின் நிறைவேற்று சபையில் பரிசீலிக்கப்பட உள்ளது.
+
+இந்த கடிதத்தின் உண்மை  தன்மை தொடர்பில் பரிசீலிப்பதற்கு ஜனாதிபதி ஊடகப்பிரிவுடன் தொடர்புகளை ஏற்படுத்த முயற்சித்த போதிலும், அது பலனளிக்கவில்லை.
+
+◼️
+
+[Data](articles/ce176914.json)
+
+---
 
 ### Wijeyadasa Rajapakshe resigns as Justice Minister
 
@@ -44,39 +64,53 @@ Rajapakshe announced this decision while speaking at a press conference being he
 
 [Data](articles/f69e0ec6.json)
 
+[Extended Data](ext_articles/f69e0ec6.ext.json)
+
 ---
 
-### විජයදාස ඉල්ලා අස්වෙයි
+### Wijeyadasa resigns
 
 *2024-07-29 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199326) · `si`
 
-අද (29) උදෑසන මාධ්‍ය හමුවක් පවත්වමින් ඒ මහතා මෙම තීරණය දැනුම් දුන්නේය.
+Wijeyadasa resigned during a media briefing today (29th).
+
+🟩
+
+He held a media briefing this morning (29).
 
 ◼️
 
 [Data](articles/3856b63b.json)
 
+[Extended Data](ext_articles/3856b63b.ext.json)
+
 ---
 
-### නැවතත් ජනපති වූ මදුරෝ ට විරෝධය
+### President Mahinda Rajapaksa, Maduro
 
 *2024-07-29 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199325) · `si`
 
-වෙනිසියුලාවේ පැවති ජනාධිපතිවරණයෙන් ජයගත් නිකලස් මදුරෝ තුන්වැනි වරටත් එරට ජනාධිපතිවරයා වශයෙන් පත්වීමට නියමිතය.
+Nicholas Maduro won his third term as Venezuela's president amidst controversy, with pre-election forecasts favoring him over the opposition. The U.S., through Secretary of State Anthony Blinken, expressed skepticism about the election's legitimacy, claiming it didn't reflect the Venezuelan people's will. Several countries, including Ecuador, Panama, Costa Rica, and the Dominican Republic, issued a joint statement on the election outcome.
 
-නමුත් මැතිවරණ ප්‍රතිඵල සම්බන්ධයෙන් නිකුත්කළ පුරෝකථන වල සඳහන් වූයේ විපක්ෂය ඉදිරියෙන් සිටින බවයි.
+🟩
 
-මදුරෝ ගේ ජයග්‍රහණය සම්බන්ධයෙන් අමෙරිකාව ප්‍රමුඛ බටහිර රටවල් සිය විරෝධය දැක්වීය.
+Nicholas Maduro, who won the presidential election in Venezuela, is to be elected President for the third time.
 
-අමෙරිකානු රාජ්‍ය ලේකම් ඇන්තනි බ්ලින්කන් පවසන්නේ මැතිවරණ ප්‍රතිඵලය සම්බන්ධයෙන් ඔවුන්ට බලවත් සැකයක් ඇති බවයි.
+However, the forecasts issued on election results were mentioned ahead of the opposition.
 
-එමගින් වෙනිසියුලාවේ ජනතාවගේ සත්‍ය මතය පිළිබිඹු නොවන බව ඔහු පැවසීය.
+The US protested against Maduro's victory.
 
-ආජන්ටිනාව, පැරගුවේ, උරුගුවේ, පේරු, ඉක්වදෝරය, පැනමාව, කොස්ටරිකා, ග්වාතමාලා සහ ඩොමිනිකන් ජනරජය එම මැතිවරණ ප්‍රතිඵලය සම්බන්ධයෙන් ඒකාබද්ධ නිවේදනයක් නිකුත්කරමින් පැවසුවේ ඔවුන් එය පිළිනොගන්නා බවයි.
+US Secretary of State Anthony Blinken says that they have strong suspicion over election result.
+
+He said that it does not reflect the true opinion of the people of Venezuela.
+
+The Ecuador, Panama, Costau, Costau, Costau, Costau, Costau, Costau, Costau, Gavinican and Dominican Republic have issued a joint statement regarding the election result.
 
 ◼️
 
 [Data](articles/caff3246.json)
+
+[Extended Data](ext_articles/caff3246.ext.json)
 
 ---
 
@@ -89,6 +123,8 @@ In one master stroke last Sunday afternoon, the beleaguered American President J
 ...
 
 [Data](articles/da6cd2a0.json)
+
+[Extended Data](ext_articles/da6cd2a0.ext.json)
 
 ---
 
@@ -2227,25 +2263,5 @@ Additionally, Sri Lanka’s Harshitha Samarawickrema was awarded Player of the F
 [Data](articles/12afdfaa.json)
 
 [Extended Data](ext_articles/12afdfaa.ext.json)
-
----
-
-### Sri Lanka cement use picks up 8.5-pct to March, helped by currency stability: Tokyo
-
-*2024-07-28 19:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-cement-use-picks-up-8-5-pct-to-march-helped-by-currency-stability-tokyo-174113/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cement consumption was estimated to have picked up 8.5 percent in the year to March 2024, though there was a contraction in the last two calendar years, Tokyo Cement, has said.
-
-With the sector starting to recover in the last three quarters of the financial year, cement consumption had started to grow, helped by a stronger rupee which brought down costs.
-
-“In a backdrop where the total cement consumption grew by just 8.5 percent year-on-year, Tokyo Cement managed to achieve a growth of 14 percent, surpassing the industry growth rate,” Managing Director A Y S Gnanam told shareholders in the annual report.
-
-The cement consumption decreased from 4.54 million metric tonnes in 2022 to 3.79 million in 2023, reflecting a contraction of 16.5 percent in 2023. There was also a 36.5 percent contraction in 2022.
-
-...
-
-[Data](articles/874dd988.json)
-
-[Extended Data](ext_articles/874dd988.ext.json)
 
 ---

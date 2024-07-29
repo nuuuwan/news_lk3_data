@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 20:36:03**
+As of **2024-07-29 20:20:31**
 
 ## Newspaper Stats
 
-*Scraped **37,922** Articles*
+*Scraped **37,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,22 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,273
 dailyftlk | 2,416
-adalk | 3,462
+adalk | 3,461
 adaderanalk | 4,393
 tamilmirrorlk | 4,694
 dailymirrorlk | 4,733
 virakesarilk | 5,984
-adaderanasinhalalk | 6,379
+adaderanasinhalalk | 6,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,910 (100.0%) of 37,922 articles have been extended.
+37,910 (100.0%) of 37,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
-
-### සංචාරකයින් කොල්ලකන පරෙවි දූපතේ පාතාලය
-
-*2024-07-29 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199345) · `si`
-
-එවන් පසුබිමක සංචාරකයින්ට අතිශය අමානුශික ආකාරයෙන් සලකන පිරිසක් පිළිබඳව ත්‍රිකුණාමලය පරවි දූපතෙන් "අද දෙරණ" උකුස්සාට වාර්තාවුණි.
-
-සංචාරක ආකර්ෂණය දිනාගත් මෙරට සුන්දර ස්ථානයක් වන ත්‍රිකුණාමලය පරෙවි දූපතට දෛනිකව දෙස් විදෙස් සංචාරකයින් විශාල පිරිසක් පැමි‍ණෙයි.
-
-එලෙස පැමිණෙන සංචාරකයින්ට, සංචාරක මඟ පෙන්වන්නන් සහ පරෙවි දූපතේ සංචාරක කාර්ය මණ්ඩලය ඉතා අමානුෂික අන්දමින් සලකන බවට අද දෙරණ උකුස්සාට තොරතුරු අනාවරණ වුණි.‍
-
-විදෙස් රටක සිට නිවාඩුවක් සඳහා මෙරටට පැමිණි ශ්‍රී ලාංකිකයින් විසි දෙනෙකුගෙන් සමන්විත පිරිසක් පසුගියදා පරෙවි දූපතේ සංචාරයක් සඳහා ගොස් තිබූ ඒ සඳහා රුපියල් 90,000ක මුදලක් ද පරෙවි දූපත් සංචාරක කාර්ය මණ්ඩලය විසින් ඔවුන්ගෙන් ලබාගෙන තිබුණි.
-
-එලෙස විශාල මුදලක් අය කළද ඔවුන්ට බෝට්ටු සවාරි, පිහිනුම් ආදී කටයුතු සඳහා ලැබී තිබුණේ තරමක අබලන් තත්ත්වයෙන් යුත් උපකරණයි.
-
-ඉතා අපහසුවෙන් එම උපකරණ භාවිත කළ පිරිස ඒවා නැවත භාරදීමේදී සංචාරක මඟ පෙන්වන්නන් පවසා තිබුණේ රුපියල් 12,000ක අමතර මුදලක් ගෙවන ලෙසය.
-
-ඒ අදාළ උපකරණවලට අලාභ හානි සිදුකර අබලන් තත්ත්වයට පත්කර ඇතැයි පවසමිනි.
-
-...
-
-[Data](articles/40375dfa.json)
-
----
 
 ### පොලිස් වෙසින් කතුන් කොල්ලකා ලිංගික අතවර කළ හිටපු සෙබළා
 
@@ -133,26 +109,6 @@ Issuing a statement, the Ministry mentioned that the Foreign Affairs State Minis
 [Data](articles/fe497eb9.json)
 
 [Extended Data](ext_articles/fe497eb9.ext.json)
-
----
-
-### ජනපතිවරණයට පොහොට්ටුවෙන් අපේක්ෂකයෙක්
-
-*2024-07-29 18:50:17* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-පොහොට්ටුවෙන්-අපේක්ෂකයෙක්/11-411079) · `si`
-
-ඉදිරි ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ පොහොට්ටුව ලකුණ යටතේ අපේක්ෂකයකු ඉදිරිපත් කිරීමට එම පෙරමුණේ දේශපාලන මණ්ඩලය තීරණය කර තිබේ.
-
-අද පැවති එම පෙරමුණේ දේශපාලන මණ්ඩල මණ්ඩල රැස්වීමෙන් අනතුරුව මෙම තීරණය ගෙන ඇත.පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලයේ සාමාජිකයන් 82නෙකු සිටින අතර මෙයින් 79 ක් රැස්වීමට එක්ව සිටියහ.
-
-ජනාධිපතිවරණයට පොහොට්ටුවෙන් අපේක්ෂකයකු ඉදිරිපත්කිරීම සදහා වූ යෝජනාවට විරුද්ධව ඡන්දය ප්‍රකාශ කර තිබුණේ පැමිණ සිටි සාමාජිකයන්ගෙන් 11 දෙනෙකු පමණි.තවද පොහොට්ටුවෙන් පිට අපේක්ෂකයකු සඳහා සහාය දෙන අයට විරුද්ධව විනය පියවර ගැනීම සඳහා වූ යෝජනාවට විරුද්ධ වූයේ 06 දෙනෙකු පමණි.
-
-අදාළ තීරණයට එළඹ ඇත්තේ දේශපාලන මණ්ඩලය තුළ ඡන්ද විමසීමකින් අනතුරුවය.
-
-ඒ අනුව පක්ෂය විසින් ඉදිරිපත් කරන අපේක්ෂකයා ඉදිරි දින කිහිපය තුළ ප්‍රකාශයට පත් කිරීමට සූදානම් බව පක්ෂ ආරංචි මාර්ග පවසයි.
-
-◼️
-
-[Data](articles/1cc94d21.json)
 
 ---
 
@@ -2185,5 +2141,59 @@ Ranasinghe stated that the assessment is a forecast and that the requested final
 [Data](articles/f5ce7617.json)
 
 [Extended Data](ext_articles/f5ce7617.ext.json)
+
+---
+
+### Boy killed in swimming lake
+
+*2024-07-29 11:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீச்சல்-தடாகத்தில்-மூழ்கி-சிறுவன்-பலி/76-341204) · `ta`
+
+A 7-year-old boy drowned in a swimming lake, and his older brother, who attempted to rescue him, is now hospitalized. The incident occurred when the boys were unsupervised at the lake.
+
+🟩
+
+The 7 -year -old boy has died and his elder brother is drowning in the same swimming pool and is being treated at the Kandy National Hospital.
+
+Mohamed Mizjan, a boy from Gurudukolla, Varellagama, has died in the incident.
+
+When he came to the hostel on Sunday (28) with his family, he fell into the swimming pool when he was alone near the swimming lake at around 11:00 pm.
+
+Seeing it, his older brother jumped into the swimming lake and tried to save his brother.
+
+The younger brother, who was in critical condition, died while taking her to the hospital and the elder brother was receiving treatment.
+
+Further investigations are being carried out by the Kandy Headquarters Police.
+
+◼️
+
+[Data](articles/b0a28c03.json)
+
+[Extended Data](ext_articles/b0a28c03.ext.json)
+
+---
+
+### Election Commander
+
+*2024-07-29 11:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தவிசாளர்-அதிரடி-அறிவிப்பு/175-341203) · `ta`
+
+The Sri Lanka Election Commission has announced details for the 2024 presidential election, including the nomination process, deposits, and a referendum scheduled for September 21, 2024. Nomination papers must be submitted between 9:00 pm and 11:00 pm on August 15, 2024, at the Election Commission headquarters in Rajagiriya. Candidates must pay a deposit by July 26, 2024, with amounts varying based on whether they represent a recognized political party or not. Objections to nominations can be raised until 11:30 am on August 15, 2024, by either the opposing candidate or a person who signed the nomination papers.
+
+🟩
+
+RMAL Satnayake, the Chairman of the Sri Lanka Election Commission, has issued a notification on the presidential election 2024 nominations, deposits and referendum.
+
+Accordingly, the following issues have been clarified to voters about Article 2 and 8 of the Presidential Elections Act No. 15 of 1981.
+
+The public is notified by the public that the referendum for the presidential election will be held on September 21, 2024.
+
+The nomination papers for the election, on August 15, 2024,. From 9.00 pm. Within 11.00 pm, the headquarters of the Election Commission, located in Rajagiriya, Sarana Mawatha, will be held in charge of the auditorium.
+
+On the 15th of August, 2024,. From 9.00 pm. Objectives can be made regarding the nominal appointment that is handed over within 11.30am. These objections can be made by a person who signed the nomination papers by a nomination of the opposition candidate or by the opposition candidate.
+
+...
+
+[Data](articles/10497368.json)
+
+[Extended Data](ext_articles/10497368.ext.json)
 
 ---

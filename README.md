@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 22:37:34**
+As of **2024-07-29 22:54:12**
 
 ## Newspaper Stats
 
-*Scraped **37,931** Articles*
+*Scraped **37,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,79 @@ adaderanalk | 4,394
 tamilmirrorlk | 4,695
 dailymirrorlk | 4,733
 virakesarilk | 5,984
-adaderanasinhalalk | 6,383
+adaderanasinhalalk | 6,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,928 (100.0%) of 37,931 articles have been extended.
+37,931 (100.0%) of 37,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### ශ්‍රී ලංකා කණ්ඩායමේ පිතිකරුවන්ට රතු එළියක්
+### පොහොට්ටුවේ මැති ඇමති පිරිසක් ජනපතිට සහාය පළ කරයි
+
+*2024-07-29 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199350) · `si`
+
+පොහොට්ටුවේ දේශපාලන මණ්ඩලය ගෙන ආ යෝජනාවට විරුද්ධ වූ පිරිස ඇතුළු මැති ඇමතිවරුන් කණ්ඩායමක් අද (29) රාත්‍රියේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මුණගැසී තිබේ.
+
+ඔවුන් එහිදී තීරණය කර ඇත්තේ, ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමටය.
+
+මෙවර ජනාධිපතිවරණයට ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට අද පස්වරුවේ රැස්වූ එහි දේශපාලන මණ්ඩලයේදී ගත් තීරණයට පිරිසක් විරුද්ධ වී තිබුණි.
+
+එලෙස විරුද්ධ වූ මැති ඇමතිවරුන් ඇතුළු පිරිස කොළඹ මල්පාරේ පිහිටි එක්සත් ජාතික පක්ෂ පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතාගේ දේශපාලන කාර්යාලයට රැස්වී සාකච්ඡාවක නිරත වුණි.
+
+මේ සඳහා නියෝජ්‍ය කතානායක අජිත් රාජපක්ෂ, අමාත්‍ය කංචන විජේසේකර, රාජ්‍ය අමාත්‍යවරුන්වන දිලුම් අමුණුගම, අනුප පස්කුවල්, ගීතා කුමාරසිංහ, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන මහින්දානන්ද අලුත්ගමගේ, එස්.බී. දිසානායක, ප්‍රේම්නාත් සී දොළවත්ත යන මහත්ම මහත්මීන් ඇතුළු පිරිසක් සහභාගී වී සිටි බව වාර්තා වෙයි.
+
+ඔවුන් එහිදී තීරණය කර ඇත්තේ ඉදිරි ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය පළකිරීමටය.
+
+◼️
+
+[Data](articles/34006812.json)
+
+---
+
+### Red light to batsmen of Sri Lankan team
 
 *2024-07-29 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199349) · `si`
 
-ශ්‍රී ලංකා පිතිකරුවන් සම්බන්ධයෙන් දැඩි තීරණ ගැනීමට බලාපොරොත්තු වන බව ශ්‍රී ලංකා පිතිකරණ පුහුණුකරු තිලිණ කණ්ඩම්බි පවසයි.
+Sri Lanka's batting coach, Thilana Kandamby, vows to take responsibility for the team's poor performance against India, attributing it to lack of mental preparation. He promises stronger decisions and training to improve their game, referencing similar issues during the Bangladesh match in the World Cup.
 
-ඔහු ඒ බව ප්‍රකාශ කළේ අතිශය දුර්වල පිතිකරණය හේතුවෙන් ශ්‍රී ලංකා පිරිමි ජාතික ක්‍රිකට් කණ්ඩායම ඉන්දියාව හමුවේ තවත් අමිහිරි තරගාවලි පරාජයක් ලැබීමෙන් අනතුරුවය.
+🟩
 
-"පිතිකරුවන් වශයෙන් මීට වඩා වගකීම් සහගත වෙන්න ඕනේ කියන එක තැන මම අනිවාර්යෙන්ම සිටිනවා. මොකද අපිට ඕනේ තරම් පුහුණ කරන්න පුළුවන්, පුහුණුවීම්වල යෙදෙන්න පුළුවන්, අපිට තොරතුරු දෙන්න පුළුවන් හැබැයි මැදට ගියාම ඊට වඩා ටිකක් ඔළුව කල්පනා කරලා සෙල්ලම් කරන්න ඕනේ. මොකද මේක පළවෙනි වතාව නෙමෙයි. අපිට ලෝක කුසලනයේ බංග්ලාදේශ තරගයේදීත් මේක වුණා. අපි ඒක ගැන කථා කරලා ඒකට සොලියුෂනුත් ඒ අයගෙන් ඇග්‍ර්ඩ් ප්ලෑන් එකට තමයි වැඩ කරන්නේ. හැබැයි ඒ රිසාල්ට් එක එන්නේ නැහැ. මම හිතනවා ටිකක් තද තීරණ ගන්න වෙයි ඉදිරියේදී."
+Sri Lanka's battribiri coach Thilana Kandamby says he expects to make strong decisions regarding the batsmen.
+
+He was speaking after the male national cricket team was defeated by India due to the most poor batting.
+
+"I will surely be more responsible for the batsman,". Because we can train and practice so much, and we need to teach and medituarily mediturable to the middle. Because this is not the first time. We also became in the Bangladeshi match in the World Skin. We talked about it and work to it with the Agirus Plan to them. But that's not the Rizal. I hope you make a little tidy decisions in the future. "
 
 ◼️
 
 [Data](articles/e9542949.json)
 
+[Extended Data](ext_articles/e9542949.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම ට ඩොලර් ලක්ෂ 5ක්
+### Sri Lanka women's cricket team 5 million
 
 *2024-07-29 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199348) · `si`
 
-ශ්‍රී ලංකා කාන්තා ක්‍රිකට් වංශ කතාවේ නව පරිච්ඡේදයක් සනිටුහන් කළ ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමට ඩොලර් ලක්ෂ 05 ත්‍යාග මුදලක් ලබාදී තිබේ.
+The Sri Lanka women's cricket team marked a historic milestone by winning under captain Chamari Atapattu, marking the first victory for the squad in the Sri Lanka Women's Cricket T20 league.
 
-රංගිරි දඹුලු ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවති මෙවර ආසියානු කුසලාන අවසන් මහා තරගයේදී ප්‍රබල ඉන්දීය කණ්ඩායම කඩුළු 8කින් පරාජය කරමින් ඓතිහාසික ජයක් ලැබූ චමරි අතපත්තු ප්‍රමුඛ ශ්‍රී ලංකා කණ්ඩායම ඉතිහාසයේ පළමු වරට ආසියානු කුසලානයක් දිනාගැනීමට ඊයේ සමත් වුණි.
+🟩
+
+Sri Lanka women's cricket team has been given a new chapter in the Sri Lanka Women's Cricket Twelse.
+
+Sri Lanka won the Sri Lankan squad for the first time in the history of Chamari Atapattu.
 
 ◼️
 
 [Data](articles/ba0531e7.json)
+
+[Extended Data](ext_articles/ba0531e7.ext.json)
 
 ---
 
@@ -338,21 +372,29 @@ According to party sources, the party's candidate is ready to be published in th
 
 ---
 
-### ණුවන් බෝපගේ ජනපති සටනට
+### Govan to fight Bope's President
 
 *2024-07-29 18:38:47* · [`adalk`](https://www.ada.lk/breaking_news/ණුවන්-බෝපගේ-ජනපති-සටනට/11-411078) · `si`
 
-සංකීර්ණ දේශපාලන තත්ත්වය හමුවේ මෙරට සාමාන්‍ය ජනායාගේ අභිලාෂය ඉදිරියට ගෙනයාම සඳහා ජන අරගල සන්ධානයේ ජනාධිපතිවරණ අපේක්ෂකයා ලෙස නුවන් බෝපගේ මහතාව ඉදිරිපත් කරන බව එම සන්ධානයේ කැඳවුම්කරු ළහිරු වීරසේකර පැවසීය.
+The UPFA convener aims to move forward despite the complex political scenario, focusing on the Janama Struggle Presidential Ceremony. They highlight the significance of the 2022 GULFACE struggle initiated by the former President, emphasizing its broad political-economic ambitions. Despite being abandoned by several political parties, the UPFA remains committed to its foundational principles and policies. The convener criticizes the International Monetary Fund and vows to continue fighting against anti-democratic actions, positioning their presidential candidate as a strong opponent of Ranil Wickremesinghe. In this challenging political landscape, the UPFA is led by Nuwan Bopage, ready to engage in the presidential struggle.
 
-ජන අරගල සන්ධානයේ ජනාධිපතිවරණ අපේක්ෂකයා ප්‍රකාශ කිරීම සඳහා අද (29දා) කොළඹ මහජන පුස්තකාලයේ පැවති මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් ජන අරගල සන්ධානයේ කැඳවුම්කරු ළහිරු වීරසේකර මෙලෙස අදහස් දක්වා සිටියේය.
+The convener of the UPFA is the convener of the UPFA to proceed with the aim of complex political situation.
 
-“හිටපු ජනපතිවරයා පන්නා දැමූ 2022 ගෝල්ෆේස් අරගලය එහි කූටප්‍රාප්තියේදී වැඩපිළිවෙළක් සහිත ප්‍රකාශනයක් ඉදිරිපත් කළා. එය විවිධ දේශපාලන අදහස් සහිත අරගලයේ කොටස් සියලු දෙනාට එකඟ විය හැකි පොදු වැඩපිළිවෙළක් ලෙස ඉදිරියට ආවේ. එය ජනතාවගේ පුළුල් දේශපාලන - ආර්ථික අභිලාෂයන්වල ප්‍රකාශනයක්.
+He was speaking at a media briefing in the Colombo Public Library today (29) to declare the Janama Struggle Presidential Ceremony.
+
+The convener of the UPFA is said to be commented.
+
+"The 2022 Gulface struggle that was chased by the former President presented a program with a program in its culmination. It came forward as a common program that all of the various political struggle with various political struggle. It is an expression of the wide political - economic ambitions.
+
+It was abandoned by many political parties, but was abandoned. We did not give up on anything the basic foundations of the program and used it for our policy and program. He also fought against the devastating International Monetary Fund, which came to power.
 
 ...
 
 [Data](articles/3dee586d.json)
+
+[Extended Data](ext_articles/3dee586d.ext.json)
 
 ---
 
@@ -2245,21 +2287,5 @@ In one master stroke last Sunday afternoon, the beleaguered American President J
 [Data](articles/da6cd2a0.json)
 
 [Extended Data](ext_articles/da6cd2a0.ext.json)
-
----
-
-### Bandaranaike, Chelvanayakam and the collapse of their Grand Collaboration
-
-*2024-07-29 11:35:00* · [`islandlk`](http://island.lk/bandaranaike-chelvanayakam-and-the-collapse-of-their-grand-collaboration/) · `en`
-
-The 1956 elections brought to the forefront of Sinhala-Tamil political divide two former classmates at St. Thomas’s College, SWRD Bandaranaike and SJV Chelvanayakam. SWRD rode to power as Prime Minister, heading the ideologically motley MEP coalition, on the well-orchestrated Sinhala Only wave. SJV and his Tamil Arasu Kadchi or Federal Party swept the elections in the North and East to present a defensive phalanx in parliament supplemented by non-violent protests outside parliament.
-
-Yet there was more in common between the two men than what appeared on the surface as Sinhala-Tamil political confrontation. Just as there is more in common between the Sinhalese and the Tamils socially and culturally than what would appear to be the case on the surface of politics.
-
-...
-
-[Data](articles/f37d8606.json)
-
-[Extended Data](ext_articles/f37d8606.ext.json)
 
 ---

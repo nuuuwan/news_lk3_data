@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 15:55:04**
+As of **2024-07-29 16:08:35**
 
 ## Newspaper Stats
 
-*Scraped **37,870** Articles*
+*Scraped **37,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,66 +15,170 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,267
 dailyftlk | 2,416
-adalk | 3,452
+adalk | 3,454
 adaderanalk | 4,385
-tamilmirrorlk | 4,687
+tamilmirrorlk | 4,688
 dailymirrorlk | 4,733
-virakesarilk | 5,973
+virakesarilk | 5,976
 adaderanasinhalalk | 6,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,866 (100.0%) of 37,870 articles have been extended.
+37,870 (100.0%) of 37,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### ගංගා සෙනවිරත්න පළමු තැනට
+### අවිස්සාවේල්ල පුවක් පිටියේ ලොරියක් පොලීසියේ දෙදෙනෙක් යට කරගෙන ප්‍රපාතයකට පෙරලෙයි
+
+*2024-07-29 15:45:10* · [`adalk`](https://www.ada.lk/breaking_news/අවිස්සාවේල්ල-පුවක්-පිටියේ-ලොරියක්-පොලීසියේ-දෙදෙනෙක්-යට-කරගෙන-ප්‍රපාතයකට-පෙරලෙයි/11-411070) · `si`
+
+අවිස්සාවේල්ල  පුවක් පිටිය තුම්මෝදර ඉලුක් පිටියේ ප්‍රදේශයේදී සිමෙන්ති පැටවූ ලොරියක් සහ පොලිස් නිලධාරීන් දෙදෙනෙකු ගමන් ගත් යතුරු පැදියක් එකිනෙක ගැටීමෙන් පොලිස් සැරයන්වරයෙකු  එතනම මරුමුවට පත් වී කොස්තාපල්වරයකු බරපතල තුවාල ලබා ඇතැයි හංවැල්ල පොලිසිය කියයි.
+
+අනතුරින් මියගොස් ඇත්තේ පොලිස් විශේෂ කාර්යාංශයේ හෝමාගම පොලිසියට අනුයුක්ත හංවැල්ල උප ඒකකයේ පොලිස් සැරයන් 39086 ධර්මසිරි නැමැති නිලධාරියෙකි.
+
+මියගිය සැරයන්වරයා කොස්තාපල්වරයා සමඟ රාජකාරී කටයුත්තක් සඳහා යමින් සිටියදී මාර්ගයේ අපරික්ෂාකාරී ලෙස සිමෙන්ති ලොරිය ඉදිරියට එනු දැක යතුරුපැදිය මාර්ගයේ අයිනට කර නතර කර ඇති අතර ඒ සමගම ලොරිය යතුරු පැදියේ ගැටී එයත් සමගම අසල බෑවුමෙන් ඇළ මාර්ගයෙන් පහළට වැටී ඇතැයි පොලිසිය කියයි.
+
+අනතුර ස්ථානයේම සැරයන් වරයා මියගොස් ඇති අතර කොස්තාපල්වරයාගේ පාද දෙකට බරපතළ තුවාල සිදුවී තිබී ඇතැයි පොලිසිය සඳහන් කරයි.ඔහු ප්‍රතිකාර සඳහා අවිස්සාවේල්ල රෝහල වෙත ඇතුලත් කර ඇත
+
+අනතුරින් සිමෙන්ති ලොරියට සහ යතුරු පැදියට බරපතළ අලාභ සිදුවී ඇත හංවැල්ල පොලිසිය වැඩිදුර  පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/4dcf665e.json)
+
+---
+
+### ‘அரகலய’வில் இருந்து ஜனாதிபதி வேட்பாளர்
+
+*2024-07-29 15:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-வில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-341222) · `ta`
+
+அரகலய போராட்டக்காரர்கள் இணைந்து உருவாக்கியுள்ள மக்கள் பேரவைக்கான இயக்கத்தின்  ஜனாதிபதி வேட்பாளராக சட்டத்தரணி நுவான் போபகே நியமிக்கப்படுவார்
+
+கொழும்பு, பொது நூலகத்தில், திங்கட்கிழமை (29) நடத்திய விஷேட ஊடகவியலாளர் சந்திப்பொன்றில் கலந்துகொண்டு கருத்துரைத்த போதே,
+
+கொழும்பு டி.எஸ்.சேனநாயக்க கல்லூரியில் கல்வி பயின்ற நுவன் போபகே கொழும்பு பல்கலைக்கழகத்தில் சட்டப் பட்டம் பெற்றார்.
+
+2022 காலி முகத்திடல் போராட்டம் உட்பட பல மக்கள் போராட்டங்களை முன்னெடுத்தவர்.மக்கள் போராட்டத்தின் செயற்குழு உறுப்பினராகவும் உள்ளார்.
+
+◼️
+
+[Data](articles/b56f23c5.json)
+
+---
+
+### பொருளாதார நெருக்கடிக்கு காரணமானவர்கள் தேர்தல் மேடைகளில் தோன்றி மீண்டும் மக்கள் ஆணையை கோருகின்றனர்-அரகலய போராட்ட இயக்கத்தின் ஜனாதிபதி வேட்பாளர் நுவான் போபகே
+
+*2024-07-29 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189703) · `ta`
+
+மக்கள் எதிர்கொள்ளும் பொருளாதார நெருக்கடிகளிற்கு காரணமானவர்கள்  மீண்டும் மேடைகளில் தோன்றி மக்களின் ஆணையை கோருகின்றனர் என அரகலய போராட்டக்காரர்கள் இணைந்து உருவாக்கியுள்ள மக்கள் போராட்ட முன்னணியின் ஜனாதிபதி வேட்பாளர் சட்டத்தரணி நுவான் போபகே தெரிவித்துள்ளார்
+
+மக்கள் போராட்ட முன்னணியின் செய்தியாளர் மாநாட்டில் கருத்து தெரிவித்துள்ள அவர் மேலும் குறிப்பிட்டுள்ளதாவது
+
+கடந்த இரண்டு மூன்று வருடங்களாக மக்கள் வறுமையின் பிடியில் சிக்குண்டுள்ளனர், நாட்டின் சனத்தொகையில் 30 வீதத்திற்கும்  அதிகமான மக்கள் வறுமையால் பாதிக்கப்பட்டுள்ளனர்.
+
+மந்தபோசாக்கு மரணவிகிதம் பல மடங்காக அதிகரிக்கின்றது - மக்கள் நாளாந்த வாழ்க்கையை கொண்டு செல்வதில்பெரும் நெருக்கடியை எதிர்கொண்டுள்ளனர்.
+
+இந்த நெருக்கடிக்கு காரணமானவர்கள் பொறுப்பாளிகள் என குற்றம்சாட்டப்பட்டவர்கள் மீண்டும் மக்கள் முன்னிலையில் தோன்றி ஜனாதிபதி தேர்தலில் மக்கள் ஆணையை கோருகின்றனர்.
+
+...
+
+[Data](articles/54c0146a.json)
+
+---
+
+### அடக்குமுறைகளுக்கு பரிகாரமின்றியே  தமிழ் மக்கள் நாட்டில் வாழ்கின்றனர்  - கறுப்பு ஜூலை நினைவேந்தலில் நிரோஸ்
+
+*2024-07-29 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/189695) · `ta`
+
+கறுப்பு ஜூலை தமிழ் மக்கள் மீது இன ரீதியிலான திட்டமிடப்பட்ட அரச பயங்கரவாதம் பிரயோகிக்கப்பட்ட ஓர் வன்முறையாகும். இவ்வாறான ஏற்றுக்கொள்ள முடியாத துரதிஸ்ட நிலைமைகள் நாட்டின் வழமையாக இருந்துள்ள போதும் அவற்றுக்கு அரசு பொறுப்புக்கூறல் மற்றும் மீள நிகழாமை பொறிமுறையை உறுதிப்படுத்தாமையினால்  தமிழ் மக்கள் ஆகிய நாம் உள்நாட்டில் மனக்கசப்புடனும் அதிருப்தியுடனும் அடக்குமுறையை சகித்தே வாழ்கின்றோம். இவ்வாறு ரொலோவின் தலைமைக்குழு உறுப்பினரும் முன்னாள் வலிகாமம் கிழக்குப் பிரதேச சபை உறுப்பினருமான தியாகராஜா நிரோஸ் தெரிவித்தார்.
+
+தந்தை செல்வா கேட்போர் கூடத்தில் ஜனநாயகத்தமிழ்த் தேசியக் கூட்டமைப்பின் ஏற்பாட்டில் சனிக்கிழமை நடைபெற்ற கறுப்பு யூலை நினைவேந்தலில்  உரையாற்றும் போதே இவ்வாறு தெரிவித்தார்.
+
+இலங்கையில் பல இனக் கலவரங்கள் வரலாற்றில் பதிவு செய்யப்பட்டுள்ள போதும்  கறுப்பு யூலை இனக்கலவரம் சர்வதேச கவனத்தினை ஈர்த்ததாகக் காணப்பட்டது.
+
+...
+
+[Data](articles/cf333902.json)
+
+---
+
+### Ganga Seneviratne to the point
 
 *2024-07-29 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199334) · `si`
 
-2024 පැරිස් ඔලිම්පික් උලළේ දී මීටර් 100 පසුපස ආර පිහිණුම් ඉසව්වේ මූලික වටයේ තරගයකින් පළමු ස්ථානය දිනාගැනීමට ශ්‍රී ලංකා ක්‍රීඩිකාවක් සමත්ව තිබේ.
+Sri Lanka won the inaugural 100-meter shipping race at the Paris Olympics, securing top spot.
+
+🟩
+
+Sri Lanka played the first place in a round of the 100-meter shipping event at the Paris Olympics.
 
 ◼️
 
 [Data](articles/07d2664d.json)
 
+[Extended Data](ext_articles/07d2664d.ext.json)
+
 ---
 
-### විජයදාසට එරෙහි වාරණය දීර්ඝ කෙරේ
+### Block against Wijayada is extended
 
 *2024-07-29 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199333) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ හා ලේකම්වරයා ලෙස සාරථි දුෂ්මන්ත මිත්‍රපාල යන මහත්වරු එම ධුරවල කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය දිර්ඝ කර තිබේ.
+The Colombo District Court extended an injunction against Wijayada until September 24, following a complaint from SLFP ministers. The court ordered the defendants, including SLFP Chairman Minister Nimal Siripala de Silva, to submit protests related to the case by the same date.
 
-සැප්තැම්බර් මස 24 වන දා දක්වා එම නියෝගය දීර්ඝ කරණ ලෙස කොළඹ දිසා අධිකරණය අද (29) නියෝග කළේය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ අමාත්‍යවරුන් වන මහින්ද අමරවීර, ලසන්ත අලගියවන්න  සහ දුමින්ද දිසානායක විසින් ඉදිරිපත් කළ පැමිණිල්ලක් අද යළි කැඳවීමෙන් අනතුරුව එම නියෝග නිකුත් කර තිබේ.
+As the Acting Chairman and the Secretary of the Sri Lanka Freedom Chairperson, Saradhi Varunathi Mithrapala has prevented the injunction.
 
-නඩුවට අදාළ විරෝධතා සැප්තැම්බර් මස 24 වනදාට පෙර ගොනු කරන ලෙසත් වග උත්තරකරුවන්ට නියෝග කෙරුණි.
+The Colombo District Court today (29) ordered the Colombo District Court today as the order was extended until September 24.
 
-එම නඩුවේ විත්තිකරුවන් ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා ඇතුළු පිරිසක් නම් කර තිබුණි.
+A complaint made by the Sri Lanka Freedom Party (SLFP) ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake have been recalled.
+
+The respondents have been ordered to file the protests related to the case before September 24.
+
+Sri Lanka Freedom Chairman Minister Nimal Siripala de Silva and several others were named as the defendants in the case.
 
 ◼️
 
 [Data](articles/6169c4ab.json)
 
+[Extended Data](ext_articles/6169c4ab.ext.json)
+
 ---
 
-### பரிஸ் 2024: அரையிறுதிக்கு தகுதிபெறத் தவறிய கங்கா செனவிரத்ன
+### Paris 2024: Ganga Seneviratne fails to qualify for the semifinals
 
 *2024-07-29 15:18:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-அரையிறுதிக்கு-தகுதிபெறத்-தவறிய-கங்கா-செனவிரத்ன/44-341221) · `ta`
 
-பிரான்ஸில் நடைபெற்று வரும் பரிஸ் 2024 ஒலிம்பிக் போட்டிகளின் பெண்களுக்கான பின்புறமாக நீந்தும் 100 மீற்றர் நீச்சல் போட்டியின் அரையிறுதிப் போட்டிகளுக்கு இலங்கையின் கங்கா செனவிரத்ன தகுதி பெறத் தவறியுள்ளார்.
+Ganga Seneviratne, representing Sri Lanka, did not advance to the semifinals of the women's 100m backstroke event at the 2024 Paris Olympics, finishing 30th after clocking 4 minutes and 26 seconds in the qualifiers.
 
-தகுதிகாண் போட்டிகளில் முதல் 16 இடங்களைப் பெறுபவர்களே அரையிறுதிப் போட்டிகளுக்கு தெரிவாகுவர் என்ற நிலையில், போட்டித் தூரத்தை ஒரு நிமிடம் நான்கு செக்கன்கள் 26 மில்லி செக்கன்களில் பூர்த்தி செய்த செனவிரத்ன 30ஆம் இடத்திலேயே தரப்படுத்தப்பட்டிருந்தார்.
+🟩
+
+Sri Lanka's Ganga Seneviratne failed to qualify for the semifinals of the 100m Swimming Tournament, swimming in the women's back of the 2024 Olympic Games in France.
+
+Seneviratne, who finished the first 16 in qualifying competitions, would be selected for the semifinals, and Seneviratne, who completed the match in four seconds and 26 mg, was ranked 30th.
 
 ◼️
 
 [Data](articles/d9026291.json)
+
+[Extended Data](ext_articles/d9026291.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-29 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189699) · `ta`
+
+இன்று திங்கட்கிழமை (ஜூலை 29) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 298.4850 ரூபாவாகவும், விற்பனை விலை 307.7765 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/b9bf1ff4.json)
 
 ---
 
@@ -92,19 +196,25 @@ Innumerable essays were written during schooldays; celebrated in 1948 was Major 
 
 ---
 
-### තුන්මෝදර බිහිසුණු අනතුරක්
+### Throughout a three-false danger
 
 *2024-07-29 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199332) · `si`
 
-පුවක්පිටිය, තුන්මෝදර අවිස්සාවේල්ල මාර්ගයේ මිරිස්කුඩු වංගුව ප්‍රදේශයේ සිදුවූ අනතුරකින් පොලිස් නිලධාරියෙක් ජීවිතක්ෂයට පත්වී තිබේ.
+In Mirisku Benda, a police officer died after a collision between a motorcycle and a container on the Thundara Avissawella road. Another officer was hospitalized.
 
-අප වාර්තාකරු පැවසුවේ එම මාර්ගයේ ධාවනය වූ කන්ටේනර් රථයක්, යතුරු පැදියක ගැටී එම අනතුර සිදුවූ බවය.
+🟩
 
-යතුරුපැදියේ සිටි එක් පොලිස් නිලධාරියෙක් එම ස්ථානයේදීම ජීවිතක්ෂයට පත්වී ඇති අතර අනෙක් නිලධාරීයා ප්‍රතිකාර සඳහා අවිස්සාවේල්ල රෝහලට ඇතුළු කළ බව වාර්තා වෙයි.
+A police officer was killed in an accident in Mirisku benda area on the Thundara Avissawella road.
+
+Our correspondent said a container that had traveled in the road, a motorcycle hitting the accident.
+
+One of the police officers on the motorcyclist died on the spot and the other official was admitted to Avissawella hospital for treatment.
 
 ◼️
 
 [Data](articles/6d32d2c1.json)
+
+[Extended Data](ext_articles/6d32d2c1.ext.json)
 
 ---
 
@@ -606,7 +716,7 @@ ECONOMYNEXT – Sri Lanka’s Tokyo Cement said its factory complex in Trincomal
 
 The Group recorded a turnover of 49.8 billion rupees and a profit after tax (PAT) of 2.4 billion rupees for the financial year ending on March 31, 2024.
 
-Tokyo Cement Group’s renewable energy generation programme was a key driver of the Group’s stable financial
+Tokyo Cement Group’s renewable energy generation programme was a key driver of the Group’s stable financial performance in the Financial Year 2023/24.
 
 ...
 
@@ -651,6 +761,22 @@ I urge the President, Prime Minister, Speaker and Cabinet to implement the Supre
 [Data](articles/7f9db946.json)
 
 [Extended Data](ext_articles/7f9db946.ext.json)
+
+---
+
+### මුස්ලිම් කොංග්‍රසයේ සහාය සජිත්ට
+
+*2024-07-29 12:10:28* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-කොංග්‍රසයේ-සහාය-සජිත්ට/11-411067) · `si`
+
+මෙවර ජනාධිපතිවරණයේදී ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ සහාය විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට හිමිවන බව එම කොංග්‍රසයේ  ජාතික සංවිධායක ත්‍රිකුණාමලය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එම්.එස්.තවුපික් මහතා පැවසීය .
+
+දැනටමත් ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය සමගි ජනබල වේගය සමග කටයුතු කරන අතර තම පක්‍ෂයේ උත්තරීතර මණ්ඩලය සහාය දෙන්නේ කාටදැයි අවසන් තීරණයකට එළඹ නැතත් උත්තර  මණ්ඩලයේ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට කටයුතු කරන බවට විශ්වාසයක් තමන් තල පවතින බව ජාතික සංවිධායකවරයා කීහ.
+
+පක්ෂ නායක පාර්ලිමේන්තු මන්ත්‍රී රාවුප් හකීම් මහතා ඇතුළු පිරිස විපක්ෂ නායක සජිත් ප්‍රේමදාස  මහතා සමඟ දැනටමත් එක්ව කටයුතු කරණ නිසා උත්තරීතර මණ්ඩලයේ සහයද සජිත් ප්‍රේමදාස මහතාට ලැබෙන බව ජාතික සංවිධායක එම්.එස්.තවුපික් මහතා විශ්වාසය පල කලේය.
+
+◼️
+
+[Data](articles/9a544087.json)
 
 ---
 
@@ -2105,139 +2231,5 @@ The president is acting in order to create conflicts between parliament and the 
 [Data](articles/0ff7b6f4.json)
 
 [Extended Data](ext_articles/0ff7b6f4.ext.json)
-
----
-
-### Going back to the row again?Does the current improvement make it stable?September 21 must be determined - Sehan Semasinghe
-
-*2024-07-29 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189645) · `ta`
-
-Finance Minister Sehan Semasinghe discusses the decision to either revert to 2022 conditions or maintain economic progress by September 21. He criticizes former leaders Sajith Premadasa and Anuragumara Dissanayake, acknowledging the economic crisis' intensification due to past government decisions. Semasinghe supports President Ranil Wickremesinghe's efforts to recover from the crisis within two years through economic reforms, despite opposition party lack of cooperation.
-
-🟩
-
-September 21 September 21 will decide whether to return to the Age of 2022 or to continue the current economic progress.. Finance Minister Sehan Semasinghe said that Sajith Premadasa and Anuragumara Dissanayake were not the best leaders.
-
-We accept that the economic crisis has intensified due to the wrong decisions taken by our government in the country of 2022. We made the president of the United National Party (UNP) leader Ranil Wickremesinghe, who had changed during the economic crisis.
-
-President Ranil Wickremesinghe's plans have recovered from the economic crisis within two years. We accept that the entire population was affected by the resolutions taken for economic reforms.
-
-The country has been rescued from economic crisis by restructuring. Politicians only mention that there has been no change. The people of the country have realized the progress. Opposition parties have not cooperated to solve the economic crisis.
-
-...
-
-[Data](articles/b2b52af2.json)
-
-[Extended Data](ext_articles/b2b52af2.ext.json)
-
----
-
-### Ranil Wickremesinghe is trying to bring back the country to power - Imtiaz Pakir Makar
-
-*2024-07-29 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/189644) · `ta`
-
-Imtiaz Pakir Makar emphasizes the importance of the United People's Power's policies and programs in reviving Sri Lanka's struggling economy. He criticizes the leadership for failing to address the nation's challenges effectively, highlighting the need for a strong, unified approach to recovery. Makar urges voters to consider their options carefully in the upcoming presidential election, advocating for change through informed decision-making.
-
-🟩
-
-Whoever comes to power, it is not easy to build the country as the economy of the country is in decline. However, United People's Power National Organizer Imtiaz Pakir Makar said that the best wear policy and program to build the country from this position is only for the United People's Power.
-
-He said this while addressing a public meeting held in Beruwala on Sunday (29).
-
-As a country we are all falling in the footpath. We have been forced to a massive crisis. So it is not easy to recover from the current state of which the ruler comes to the power of the country. There must be the right policy and a definitive program to retrieve the country from this position. That program and team are only for the United People's Power.
-
-...
-
-[Data](articles/c8b54686.json)
-
-[Extended Data](ext_articles/c8b54686.ext.json)
-
----
-
-### Minister Douglas gave permanent appointments to employees engaged in a temporary basis on a temporary basis
-
-*2024-07-29 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189643) · `ta`
-
-Minister Douglas Devananda has made 29 temporary workers' positions permanent after over a decade of service at the Sri Lanka Transport Board's Northern Province branch. Additionally, he inspected progress at the Chavakachcheri Hospital during his visit.
-
-🟩
-
-Minister Douglas Devananda has been taking action to make permanent appointments to those who have been in temporary administration for more than 10 years on the roads of the Sri Lanka Transport Board (TPO) located in the Northern Province.
-
-In this backdrop, Minister Douglas Devananda handed over the letter of appointment to 29 persons on Sunday (28).
-
-Meanwhile, Minister Douglas Devananda, who visited the Chavakachcheri Hospital, has also been investigating the advancement activities of the Hospital.
-
-◼️
-
-[Data](articles/673674df.json)
-
-[Extended Data](ext_articles/673674df.ext.json)
-
----
-
-### Tourist arrivals increase in 2024
-
-*2024-07-29 01:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2024-இல்-சுற்றுலாப்-பயணிகள்-வருகை-அதிகரிப்பு/175-341191) · `ta`
-
-In 2024, there was a significant rise in both domestic and foreign tourist visits to forest department-managed sites compared to the previous two years. The minister reported a total of 364,521 tourists in the first half of 2024 alone, marking a notable increase from 289,405 in 2022 and 444,053 in 2023.
-
-🟩
-
-Wildlife, Forest Resources and Irrigation Minister Pavithra Wanniyarachchi said that by 2024, the number of domestic and foreign tourists who attended the Forest Department in 2024 had a significant increase in the number of tourists.
-
-Minister Pavithra Wanniyarachchi said this while addressing a press conference on the two -year progress at the Presidential Media Center yesterday.As he further stated,
-
-Compared to the last two years, in 2024, the number of domestic and foreign tourists coming to tourist destinations under the administration of the Department of Forestry has occurred significantly.. Accordingly, the number of tourists visited by the Department of Forest Resources in 2022 was 289,405 and 444,053 in 2023.. He said about 364 521 tourists arrived in the first six months of 2024. (A)
-
-◼️
-
-[Data](articles/67f5b475.json)
-
-[Extended Data](ext_articles/67f5b475.ext.json)
-
----
-
-### Principles and proposals for political and constitutional reform for democracy: Part II
-
-*2024-07-29 01:36:40* · [`dailyftlk`](https://www.ft.lk/opinion/Principles-and-proposals-for-political-and-constitutional-reform-for-democracy-Part-II/14-764838) · `en`
-
-A Grama Sabha would be established for each local government ward to empower the people through participation
-
-The Constitution shall recognise the local government as the third tier with its list of subjects and responsibilities. Local authorities would have the powers and be provided with resources to initiate and implement development programs. Additionally, local authorities should be constitutionally recognised as an implementing agency about specified functions in specified laws of the Centre and statutes of Provincial Councils such as environmental, coast conservation, social welfare programs and pre-schools
-
-Devolution of power deepens democracy by bringing government closer to the people. The Constitution should promote local democracy based on power-sharing, subsidiarity, and citizens’ participation.
-
-...
-
-[Data](articles/e14e6fa8.json)
-
-[Extended Data](ext_articles/e14e6fa8.ext.json)
-
----
-
-### Two police suspended
-
-*2024-07-29 01:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தேக-நபரைத்-தாக்கிய-இரு-பொலிஸார்-இடைநீக்கம்/175-341190) · `ta`
-
-Two police officers from the Point Pedro station are suspended for allegedly assaulting a suspect. The suspect, arrested for an unrelated offense, was hospitalized. The officers, who failed to appear sober during an investigation, were released on bail but remain suspended pending further inquiry.
-
-🟩
-
-Two policemen working in the Point Pedro Police Station Crime Unit have been suspended for allegedly assaulting the suspect.
-
-A man from Point Pedro has been arrested on suspicion and taken to the police station.The suspect has been admitted to the County No. 7 Hospital of the Point Pedro Hospital.
-
-He was arrested after a police officer working in the Pedro Criminal Investigation Division was drunk in connection with the attack.The second officer left the scene on the incident.
-
-When the two police officers appeared in court, the two were allowed to go on bail for 50 thousand rupees.
-
-However, the two policemen have been suspended until the inquiry is over by the Senior Superintendent of Police Kangkesandurai.. (A)
-
-◼️
-
-[Data](articles/3c46cb09.json)
-
-[Extended Data](ext_articles/3c46cb09.ext.json)
 
 ---

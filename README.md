@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 09:55:20**
+As of **2024-07-29 10:07:32**
 
 ## Newspaper Stats
 
-*Scraped **37,798** Articles*
+*Scraped **37,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 3,443
 adaderanalk | 4,378
 tamilmirrorlk | 4,669
 dailymirrorlk | 4,733
-virakesarilk | 5,958
-adaderanasinhalalk | 6,354
+virakesarilk | 5,961
+adaderanasinhalalk | 6,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,798 (100.0%) of 37,798 articles have been extended.
+37,798 (100.0%) of 37,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### අමෙරිකාවේ වෙඩිතැබිමක්
+
+*2024-07-29 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199320) · `si`
+
+අමෙරිකාවේ නිව්යෝර්ක් හි රොචෙස්ටර් නගරයේ සිදුකළ වෙඩිතැබිමකින් පුද්ගලයෙකු මියගොස් තවත් 06 දෙනෙකු තුවාල ලබා තිබේ.
+
+නිවියෝර්ක් හි රොචෙස්ටර් නගරයේ පිහිටි ‍මේපල්වූඩ් උද්‍යානයේ දී මෙම වෙඩිතැබීම සිදුකර ඇත.
+
+වෙඩිවැදිමෙන් මියගිය පුද්ගලයා 20හැවිරිදි අයෙකු වන අතර තුවාල ලැබු එක් අයෙකුගේ තත්ත්වය බරපතළ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අදාළ වෙඩිතැබීම සිදුකළ පුද්ගලයා පිළිබඳ තොරතුරු මෙතෙක් අනාවරණය වී නොමැති අතර, සිද්ධිය සම්බන්ධයෙන් එරට පොලීසිය විමර්ෂණ ආරම්භ කර ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/9c8cc76c.json)
+
+---
+
+### ஹபராதுவவில் துப்பாக்கிச்சூடு -  இருவர் காயம்
+
+*2024-07-29 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189652) · `ta`
+
+ஹபராதுவ - ஹருமல்கொட பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் இருவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவரினால் நேற்று ஞாயிற்றுக்கிழமை (28) இரவு இருவர் மீது துப்பாக்கிச்சூடு மேற்கொள்ளப்பட்டுள்ளது. துப்பாக்கிச் சூட்டை மேற்கொண்டவர்கள் அங்கிருந்து தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்ததுடன், அவர் துப்பாக்கிச் சூட்டுக்கு இலக்கான நிலையில், முச்சக்கரவண்டியில் ஏற முற்பட்ட போது,  முச்சக்கரவண்டி மீதும் துப்பாக்கிச்சூடு மேற்கொள்ளப்பட்டதால், முச்சக்கர வண்டியின் சாரதியும் காயமடைந்துள்ளார்.
+
+மேலும், துப்பாக்கிச் சூட்டில் ஹபராதுவ , அகுலுகஹா பகுதியைச் சேர்ந்த 34 , 54 வயதுடைய இருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/2a363233.json)
+
+---
 
 ### ‘Red’ alert issued over strong winds and rough seas
 
@@ -51,6 +87,44 @@ Naval and fishing communities are also requested to be attentive to future forec
 [Data](articles/28a33fb9.json)
 
 [Extended Data](ext_articles/28a33fb9.ext.json)
+
+---
+
+### வாகன இறக்குமதிக்கான அனுமதி குறித்து வெளியான தகவல் !
+
+*2024-07-29 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189651) · `ta`
+
+வாகன இறக்குமதிக்கான அனுமதி எதிர்வரும் ஆகஸ்ட் மாதம் முதல் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+
+இதேவேளை, தனிநபர்களுக்கான பயன்பாட்டிற்கான வாகன இறக்குமதிக்கான கட்டுப்பாடுகள் 2025 ஆம் ஆண்டின் முதல் காலாண்டில் நீக்கப்படும் என அவர் குறிப்பிடுகின்றார்.
+
+முதல் கட்டம் கட்டமாக வாகன இறக்குமதிக்கான அனுமதி ஆகஸ்ட் மாதம் முதல் வழங்கப்படும் தெரிவித்த நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க, அதற்கான நடைமுறையை விரைவில் அறிவிப்பதாகவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6dc0e7d8.json)
+
+---
+
+### நாட்டில் இதுவரையில் 32 ஆயிரம் டெங்கு நோயாளர்கள் பதிவு
+
+*2024-07-29 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189650) · `ta`
+
+நாட்டில் டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரித்துள்ளதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+இவ்வருடத்தின் இதுவரையான காலப்பகுதிக்குள் நாட்டில் 32,183 டெங்கு நோயாளர்கள்  அடையாளம் காணப்பட்டுள்ளதுடன்  13 டெங்கு மரணங்கள் பதிவாகியுள்ளன.
+
+அதிகளவான டெங்கு நோயாளர்கள் மேல் மாகாணத்தில் பதிவாகியுள்ள நிலையில் அவர்களின் மொத்த எண்ணிக்கை 12,786 ஆகும்.
+
+இந்நிலையில், கொழும்பு மாவட்டத்தில் 7,582  நோயாளர்களும், கம்பஹா  மாவட்டத்திலிருந்து 3,452  நோயாளர்களும் பதிவாகியுள்ளனர்.
+
+மேலும், வட மாகாணத்தில் 4,589 டெங்கு நோயாளர்களும், சப்ரகமுவ மாகாணத்தில்  3,329 டெங்கு நோயாளர்களும் அடையாளம் காணப்பட்டுள்ளனர்.
+
+எனவே, டெங்கு காய்ச்சல் பரவாமல் தடுக்க முன்னெச்சரிக்கை நடவடிக்கை எடுக்க வேண்டும் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/bb7961c5.json)
 
 ---
 
@@ -2149,95 +2223,5 @@ The Deputy Leader of the Tamil Progress Speaking to the Protest The Government D
 [Data](articles/bc02d379.json)
 
 [Extended Data](ext_articles/bc02d379.ext.json)
-
----
-
-### Sri Lanka women's group
-
-*2024-07-28 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199303) · `si`
-
-In the Asian Cup Women's Cricket Tournament final, India chose to bat first after winning the toss in Dambulla. They made 165 runs with 6 wickets down. Smperi Delaya contributed significantly with 60 runs from 47 balls. Risha Gush scored 30 runs but was dismissed as a wicketkeeper in the 19th over. Despite this setback, India managed to score 18 more runs.
-
-🟩
-
-The final match of the Asian Cup Women's Cricket Tournament will be held in Dambulla.
-
-The Indian team won the toss and decided to bat first.
-
-They scored 165 runs for the loss of 6 wickets in their bowls.
-
-Smperi delaya scored 60 runs in 47 balls with the Indian team.
-
-Risha Gush scores 30 runs. However, she gave a wicketkeeper in the 19th bowler's 19th bowling office, and the main judge was not a burden.
-
-India was able to get 18 runs in the ball.
-
-◼️
-
-[Data](articles/23ae413e.json)
-
-[Extended Data](ext_articles/23ae413e.ext.json)
-
----
-
-### Action to improve the island education standards
-
-*2024-07-28 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189600) · `ta`
-
-Minister Douglas Devananda led a discussion with officials to address education challenges in the island region, highlighting administrative issues impacting student quality. He pledged cooperation to enhance school education services amidst declining statistics. The minister proposed solutions to the Department of Education, aiming to improve educational conditions and address sector deficiencies.
-
-🟩
-
-Minister Douglas Devananda held a special discussion with the departmental officials on the issue of the problems of the Education Department and the improvement of the quality of the area.
-
-Yall. It has been pointed out by a wide variety of problems in the district of the district of the district of the district and that there are various issues, administrative problems and administrative issues and that such factors have a number of impact on the quality of the students' education.
-
-It was in this context that the meeting was held today (28) at the office of the Minister of Jaffna.
-
-Both sides have expressed their detail about the problems in the island area and the conditions to address them.
-
-Minister Douglas Devananda has said that the students will be fully cooperated to improve the status of education in schools under the islands and provide a better education service to the students.
-
-...
-
-[Data](articles/f8f52a2c.json)
-
-[Extended Data](ext_articles/f8f52a2c.ext.json)
-
----
-
-### The struggle of the continuing students in Bangladesh
-
-*2024-07-28 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/189595) · `ta`
-
-Bangladesh, strategically located between India and China, navigates its geopolitical landscape carefully. As a rapidly developing nation, it balances Indian alliances with burgeoning Chinese economic ties, highlighting its significant role in global politics.
-
-🟩
-
-Bangladesh's global political significance here is the main place. The capital, Dhaka, is making serious efforts to balance Indian political alliance and economic agreements. It is inevitable that the rapidly growing nation, like Bangladesh, is moving towards an increasingly growing Chinese economically economic dye.
-
-◼️
-
-[Data](articles/c41fa24a.json)
-
-[Extended Data](ext_articles/c41fa24a.ext.json)
-
----
-
-### Buddhism
-
-*2024-07-28 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189592) · `ta`
-
-Buddhism originated from ancient myths in North and East regions, which are now recognized as archaeological sites. These areas were historically significant to Buddhist traditions.
-
-🟩
-
-'All areas that have been identified as archaeological areas in the North and East are the historical myths of Buddhism and occupied by Buddhism'
-
-◼️
-
-[Data](articles/280b0594.json)
-
-[Extended Data](ext_articles/280b0594.ext.json)
 
 ---

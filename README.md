@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 12:36:17**
+As of **2024-07-29 12:54:17**
 
 ## Newspaper Stats
 
-*Scraped **37,828** Articles*
+*Scraped **37,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,262
 dailyftlk | 2,416
 adalk | 3,448
 adaderanalk | 4,382
-tamilmirrorlk | 4,679
+tamilmirrorlk | 4,680
 dailymirrorlk | 4,733
 virakesarilk | 5,961
 adaderanasinhalalk | 6,361
@@ -26,45 +26,69 @@ adaderanasinhalalk | 6,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,826 (100.0%) of 37,828 articles have been extended.
+37,828 (100.0%) of 37,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### சஜித்தின் 8 கூட்டங்கள்  ரத்து
+### விஜயதாஸ ராஜபக்ஷ  ராஜினாமா
+
+*2024-07-29 12:23:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாஸ-ராஜபக்ஷ-ராஜினாமா/175-341211) · `ta`
+
+நீதி, சிறைச்சாலைகள் விவகாரம் மற்றும் அரசியலமைப்பு திருத்தம் அமைச்சுக்களின் பொறுப்புகளில் இருந்தும் தான் ராஜினாமா செய்துள்ளதாக முன்னாள் நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ தெரிவித்தார்.
+
+◼️
+
+[Data](articles/909e471c.json)
+
+---
+
+### Sajith's 8 meetings cancel
 
 *2024-07-29 12:09:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/சஜித்தின்-8-கூட்டங்கள்-ரத்து/74-341210) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச அம்பாறை மாவட்டத்தில்,  திங்கட்கிழமை (29)  கலந்து கொள்ள இருந்த  எட்டு கூட்டங்கள் ரத்து செய்யப்பட்டுள்ளன.
+Sajith Premadasa's scheduled meetings in Ampara district were cancelled due to violating election regulations ahead of the presidential election. The decision was made after receiving complaints to the Election Commission, ensuring adherence to electoral laws.
 
-பின்தங்கிய பிரதேசத்தைச் சேர்ந்த எட்டு பாடசாலைகளுக்கு சுமார் ஒரு கோடி ரூபாய் பெறுமதியான ஸ்மார்ட் அறைக்கான உபகரணங்கள் வழங்கும் நிகழ்வுகளே இவ்விதம் ரத்து செய்யப்பட்டுள்ளதாக சஜித் பிரேமதாசவின் இணைப்பாளர் வி. வினோ காந்த்  ஊடகங்களுக்கு தெரிவித்துள்ளார்.
+🟩
 
-இந் நிகழ்வுகள்,  முன் கூட்டியே ஏற்பாடு செய்யப்பட்டிருந்த போதிலும் ஜனாதிபதி தேர்தல் விதிமுறைகளுக்கமைவாக இந் நிகழ்வுகள் ரத்து செய்யப்பட்டன.
+Eight meetings have been canceled on Monday (29) in the Ampara district of Sajith Premadasa, the leader of the United People's Power and Opposition Leader.
 
-அதாவது தேர்தல் ஆணையகத்தினால் ஜனாதிபதி தேர்தல் திகதி அறிவிக்கப்பட்ட பிற்பாடு இத்தகைய நிகழ்வை நடத்துவது தேர்தல் விதிமுறைகளை மீறும் செயலாகும் என்ற காரணத்தினால் இது ரத்து செய்யப்பட்டுள்ளது என்றார்.
+Sajith Premadasa's Coordinator V is the result of providing equipment for eight schools in the backward area.. Vino Kant told the media.
 
-அம்பாறையில் இருந்து தேர்தல் ஆணைக்குழுவுக்கு சென்ற முறைப்பாட்டை அடுத்து நடவடிக்கை எடுக்கப்பட்டிருக்கிறது.  தேர்தல் நடைமுறை விதிகளுக்கு அமைவாக இந்த நிகழ்வுகள் ரத்து செய்யப்பட்டுள்ளன என்றார்.
+Although these events were organized in advance, the events were canceled in accordance with the presidential election rules.
+
+This means that the event has been canceled due to the fact that the election is a violation of election regulations after the Election Commission announced the presidential date.
+
+Action has been taken following a complaint from Ampara to the Election Commission.  தேர்தல் நடைமுறை விதிகளுக்கு அமைவாக இந்த நிகழ்வுகள் ரத்து செய்யப்பட்டுள்ளன என்றார்.
 
 ◼️
 
 [Data](articles/18f68d5b.json)
 
+[Extended Data](ext_articles/18f68d5b.ext.json)
+
 ---
 
-### மக்கள் பேரவையின் ஜனாதிபதி வேட்பாளர்?
+### The Presidential candidate of the People's Council?
 
 *2024-07-29 12:08:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-பேரவையின்-ஜனாதிபதி-வேட்பாளர்/175-341209) · `ta`
 
-அரகலய போராட்டக்காரர்கள் இணைந்து உருவாக்கியுள்ள மக்கள் பேரவைக்கான இயக்கம் தனது ஜனாதிபதி வேட்பாளர் குறித்த அறிவிப்பை திங்கட்கிழமை (29) வெளியிடவுள்ளது.
+The Movement for the People's Forum, initiated by the Arakalai protesters, will reveal its presidential candidate on Monday (29) at the Colombo Public Look Auditorium. The announcement includes strategies for the upcoming elections.
 
-இதற்கமைய, கொழும்பு பொதுநூலக கேட்போர் கூடத்தில் திங்கட்கிழமை 1.00 மணியளவில் இடம்பெறவுள்ள நிகழ்வில்  மக்கள் பேரவைக்கான இயக்கம் தனது வேட்பாளர் குறித்து அறிவிக்கவுள்ளது.
+🟩
 
-தேர்தலை எதிர்கொள்வதற்கான மூலோபாயங்கள் மக்கள் பேரவைக்கான இயக்கத்தின் நிலைப்பாடுகள் குறித்த அறிவிப்பும் வெளியாகும் என கட்சியின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+The Movement for the People's Forum, which was created by the Arakalai protesters, will announce its presidential candidate on Monday (29).
+
+Accordingly, the Movement for the People's Council will announce its candidate at the event to be held at the Colombo Public Look Auditorium at 1.00 pm on Monday.
+
+A spokesman for the party said that strategies to face the election will also be announced on the positions of the Movement for the People's Forum.
 
 ◼️
 
 [Data](articles/5b1130fd.json)
+
+[Extended Data](ext_articles/5b1130fd.ext.json)
 
 ---
 
@@ -2233,31 +2257,5 @@ Accordingly, the number of tourists visiting the tourist attractions controlled 
 [Data](articles/b3a8cee4.json)
 
 [Extended Data](ext_articles/b3a8cee4.ext.json)
-
----
-
-### I am ready to contest the presidential election- Tammika Perera
-
-*2024-07-28 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189634) · `ta`
-
-Tammika Perera, a member of the Sri Lanka People's Alliance (PA), has expressed readiness to run for president. This comes as the party deliberates its candidate choice, influenced by internal discussions and external support for current President Ranil Wickremesinghe. The PA's Executive Council is set to meet to finalize the decision.
-
-🟩
-
-I am ready to compete on behalf of Sri Lanka PA. The party must take the final resolution. The ruling party MP Dammika Perera said that the party's decision will be fully accepted.
-
-He was speaking to the media after attending the PA's Youth Conference in Colombo on Saturday evening (27) evening.
-
-From the very beginning I have clearly stated that I am ready to contest the presidential election. I have highlighted this during the party level talks on the presidential election.
-
-The party should make a firm decision on the party level regarding the presidential candidate.
-
-Senior members of the party claim that the Members of the PA is to be fielded as the presidential candidate of the Sri Lanka PA's presidential candidate, and the senior members of the party, as the party's senior members of the PA have been fielded as the presidential candidate.
-
-...
-
-[Data](articles/6104b913.json)
-
-[Extended Data](ext_articles/6104b913.ext.json)
 
 ---

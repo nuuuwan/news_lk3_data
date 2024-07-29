@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 16:53:05**
+As of **2024-07-29 17:05:35**
 
 ## Newspaper Stats
 
-*Scraped **37,886** Articles*
+*Scraped **37,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,76 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,267
 dailyftlk | 2,416
-adalk | 3,455
+adalk | 3,457
 adaderanalk | 4,390
-tamilmirrorlk | 4,690
+tamilmirrorlk | 4,691
 dailymirrorlk | 4,733
 virakesarilk | 5,976
-adaderanasinhalalk | 6,371
+adaderanasinhalalk | 6,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,883 (100.0%) of 37,886 articles have been extended.
+37,886 (100.0%) of 37,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### ඇමති තොණ්ඩමන් ඇතුළු තිදෙනෙක් අධිකරණයට
+### කෑගල්ලේදී කොටුවූ හෙරොයින් ජාවාරම්කරු
+
+*2024-07-29 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199338) · `si`
+
+අද (29) දින උදෑසන කෑගල්ල පොලිස් වසමේ මොලගොඩ ප්‍රදේශයේදී හෙරොයින් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+කෑගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරක් මත මෙම වැටලීම සිදු කර තිබුණි.
+
+එහිදී සැක කටයුතු ත්‍රිරෝද රථයක් පරීක්ෂා කිරීමේදී එහි රියදුරු සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 31යි මිලිග්‍රෑම් 460ක් සොයා ගෙන තිබුණි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 26 හැවිරිදි වියේ පසුවන වලගම දකුණ, දේවාලගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/6484c1b1.json)
+
+---
+
+### Three and three others including Minister Thondaman
 
 *2024-07-29 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199337) · `si`
 
-ලංකා කම්කරු කොංග්‍රසයේ මහ ලේකම් සහ ජල සම්පාදන හා වතු යටිතල පහසුකම් අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා සහ එම පක්ෂයේ ජ්‍යේෂ්ඨ නායකයින් තිදෙනෙක් අද (29) දින නුවරඑළිය මහෙස්ත්‍රාත් අධිකරණය වෙත මොසමක් ඉදිරිපත් කරමින් පෙනි සිටි බව නුවරඑළිය මුලස්ථාන පොලීසියේ ප්‍රධාන පොලිස් පරීක්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා පැවසීය.
+Jeevan Thondaman, Minister of Water Rights and Estate Infrastructure, along with two others, appeared in the Nuwara Eliya Magistrate's Court regarding a tele plant issue at the Nuwara Eliya Padu Estate. The case, initially advised by the Attorney General on May 22, involves the CEO of the estate. Despite the suspects' non-submission to courts, the police proceeded with arrests and productions. The court, presided over by Magistrate Prabundika Silva, scheduled the next hearing for June 26, directing further investigations to be reported by either the SSP or ASP.
 
-අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා සහ එම පක්ෂයේ ආධාරකරුවන් පිරිසක් සමග ඉකුත් මැයි මස 30 දින නුවරඑළිය පිඩෘ වතුයායට අයත් තේ කර්මාන්ත ශාලාව වෙත ගොස් එම වතු සමාගමේ ප්‍රධාන විධායක නිලධාරියා ඇතුළු කාර්ය මණ්ඩලය පැය කිහිපයක් ඔවුන් භාරයේ රඳවා ගත්තේ යැයි කියන පැමිණිල්ලක් සම්බන්ධයෙන් නුවරඑළිය පොලීසිය විසින් නුවරඑළිය මහෙස්ත්‍රාත් අධිකරණයට වෙත ඉකුත් මස 22 වන දින කරුණු වාර්තා කරමින් කියා සිටියේ පැමිණිල්ල සම්බන්ධයෙන් නීතිපතිවරයාගේ උපදෙස් ඉල්ලා ඇති බවත්, විමර්ශන කටයුතු අවසන් කර නොමැති නිසා සැකකරුවන්ගේ නම් අධිකරණය වෙත ඉදිරිපත් නොකරන බවය.
+🟩
+
+Minister of Ceylon Workers Congress and the Minister of Water Troops, Minister of Labor Congress Jeevan Thondaman, Minister of Water Rights and Estate Infrastructure was presented to the Nuwara Eliya Magistrate's Court today (29).
+
+Nuwara Eliya Police have gone to the Nuwara Eliya Magistrate's Court regarding the tele plant of the Nuwara Eliya Padu Estate and the CEO to the Nuwara Eliya CEO of Nuwara Eliya on May 30.The Attorney General's advice was reported on the 22nd of the last month and said that the Attorney General's advice was filed as the suspects were not submitted to the courts.
+
+The lawyers who sat for the estate company were produced before the Magistrate's Court and the police are not acting in arrest the suspects and the suspects were arrested and ordered to be arrested and produced before courts.
 
 ...
 
 [Data](articles/23d773f4.json)
+
+[Extended Data](ext_articles/23d773f4.ext.json)
+
+---
+
+### தேரரின் கணக்கில்  இருந்து பணம் மோசடி
+
+*2024-07-29 16:33:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேரரின்-கணக்கில்-இருந்து-பணம்-மோசடி/76-341228) · `ta`
+
+தொலைபேசி நிறுவனமொன்றின் பணியாளர்கள் என கூறி பதுளையில் உள்ள விகாரைக்கு வந்த இரு இளைஞர்கள் குறித்த விகாரையின் தேரரின் கைத்தொலைபேசியில் உள்ள சிம்கார்டை திருடி தேரரின் வங்கி கணக்கில் இருந்து ஆறரை லட்சம் ரூபாய் பணத்தை மோசடி செய்துள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+
+வங்கியில் இருந்து என கூறி தேரருக்கு அண்மையில் தொலைபேசி அழைப்பொன்று வந்துள்ளது. அதில் , கணக்கு தொடர்பான உயர்த்தப்பட்ட VAT கட்டணத்தை குறைக்க அரசு உத்தரவு பெற்றுள்ளதால், வங்கி கணக்கு விவரங்களை வழங்குமாறு கேட்டுள்ளனர் . அப்போது தேரர் தனது அனைத்து வங்கி விவரங்களையும் வழங்கியுள்ளார் .
+
+சில நாட்கள் கழித்து விகாரைக்கு வந்த இனந்தெரியாத இரு இளைஞர்கள் கைத்தொலைபேசியில் ஏதேனும் பிரச்சனையா என்று கேட்டுள்ளனர். அப்போது தொலைபேசியில் அழைப்பு விடுக்கும் போதெல்லாம் வித்தியாசமான சத்தம் கேட்பதால் அதை இளைஞர்களிடம் கூறி தொலைபேசியை கொடுத்துள்ளார் .
+
+...
+
+[Data](articles/f9291d0e.json)
 
 ---
 
@@ -64,6 +106,8 @@ It said Kim guided the evacuation works on Sunday, ordered food and other necess
 
 [Data](articles/b112cb3d.json)
 
+[Extended Data](ext_articles/b112cb3d.ext.json)
+
 ---
 
 ### Injunction against Wijeyadasa further extended
@@ -83,6 +127,8 @@ Meanwhile, Wijeyadasa Rajapakshe today stepped down from his post as Minister of
 ◼️
 
 [Data](articles/feb2bde0.json)
+
+[Extended Data](ext_articles/feb2bde0.ext.json)
 
 ---
 
@@ -856,6 +902,22 @@ Shashikala Siriwardena joined the Sri Lankan women participated in a former Sri 
 
 ---
 
+### කලුතරින් මිලියනයක් ඡන්දයට සුදුසුකම් ලබයි
+
+*2024-07-29 13:02:45* · [`adalk`](https://www.ada.lk/breaking_news/කලුතරින්-මිලියනයක්-ඡන්දයට-සුදුසුකම්-ලබයි/11-411068) · `si`
+
+2024 ප්‍රධාන ඡන්ද හිමි නාම ලේඛනය හා 2024 පළමු වන පරිපූරක නාම ලේඛනය ඇතුළත්ව සකස් කල ඒකාබද්ධ ඡන්ද හිමි නාම ලේඛනයේ ඡන්ද හිමියන් (10,24244) දස ලක්ෂ විසි හතර දහස් දෙසීය හතලිස් හතර දෙනකු  එළඹෙන ජනාධිපතිවරණය සඳහා ඡන්දය ලබා දීමට කළුතර දිස්ත්‍රික්කයෙන් සුදුසුකම් ලබා ඇතැයි කළුතර දිස්ත්‍රික් නියෝජ්‍ය මැතිවරණ කොමසාරිස් ජයවීර ප්‍රනාන්දු මහතා පැවසීය.
+
+2019 වර්ෂයේ ජනාධිපතිවරණයේ කළුතර දිස්ත්‍රික්කයේ   ලියාපදිංචි ඡන්ද සංඛ්‍යාව 955079 ක් බවත්  මෙවර 69165 ඡන්දදායකයන්ගේ වැඩිවීමක් දක්නට ඇතැයි ඒ මහතා කීය.කළුතර දිස්ත්‍රික්කයේ ඡන්ද බල ප්‍රදේශ 8 ක් වන  අතර ඡන්ද මධ්‍යස්ථාන 711 කි.
+
+කළුතර දිස්ත්‍රික්කයේ     වැඩිම ඡන්දදායකයන් සිටින බල ප්‍රදේශය බණ්ඩාරගම වන අතර එහි මෙවර ඡන්ද දායකයන් ප්‍රමාණය 159784 කි.අඩුම ඡන්දදායකයන් පිරිසක් සිටින බල ප්‍රදේශය බුලත්සිංහල වන අතර එහි ඡන්දදායකයන්  ප්‍රමාණය 90247 ක් බව නියෝජ්‍ය මැතිවරණ කොමසාරිස්වරයා කිය.
+
+◼️
+
+[Data](articles/93e9e142.json)
+
+---
+
 ### Colombo-Kandy road bloom
 
 *2024-07-29 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199327) · `si`
@@ -1116,6 +1178,22 @@ Speaking further Mr. Semasinghe said that if the Government of India was heading
 
 ---
 
+### කයිය නායකවරුන්ට සැලැස්මක් නෑ
+
+*2024-07-29 11:55:35* · [`adalk`](https://www.ada.lk/breaking_news/කයිය-නායකවරුන්ට-සැලැස්මක්-නෑ/11-411065) · `si`
+
+"අද රනිල් වික්‍රමසිංහ ජනාධිපතිතුමාට ලෝක නායකයන්ගේ විශාල පිළිගැනීමක් තියෙනවා. එහෙම නායකයෙක් තමයි අද අපට අවශ්‍ය.ජාත්‍යන්තරයත් එක්ක කතාකරලා රටේ ආර්ථිකය ශක්තිමත් කරන්න පුළුවන් එකම නායකයා රනිල් වික්‍රමසිංහ ජනාධිපති තුමා පමණයි. .මේ රට වැටී තිබුණු බංකොලොත් භාවයෙන් ගොඩගත්  නායකයා රනිල් වික්‍රමසිංහ ජනාධිපති තුමායි එනිසා එළඹෙන ජනාධිපති වරණයේදී රනිල් වික්‍රමසිංහ මැතිතුමා ජනාධිපති කිරීමට ජනතාව පක්ෂ පාට වලින් තොරව අත්වැල් බැඳ ගෙන කටයුතු කළයුතුයි " යැයි එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක, කාලගුණ විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජයවර්ධන මහතා පැවසීය.
+
+බියගම මැතිවරණ කොට්ඨාසයේ එක්සත් ජාතික පක්ෂයේ මල්වාන කලාප කාර්යාලය ඊයේ (28) පස් වරුවේ විවෘත කිරීමෙන් අනතුරුව පැවැති රැස්වීම අමතමින් රුවන් විජයවර්ධන මහතා එසේ පැවසීය
+
+"අද කයිය නායක වරුන් කිහිප දෙනෙක්ම ඉන්නවා 'අපි ආවොත් මේවා කරල දෙන්නම් මේරට සුරපුරයක් කරනවා ' කියන කට්ටියක් ඉන්නවා. නමුත් බැරි වෙලාවත් ඔය කියන අය ආවොත් තව අවුරුදු දෙකක් ගතවීමටත් මත්තෙන් අපිට යලිත් පෝලිම්වල තමයි ඉන්න වෙන්නෙ.ඔය කයිය නායකවරුන්ට සැලැස්මක් නැහැ.
+
+...
+
+[Data](articles/ebfe8559.json)
+
+---
+
 ### Wijeyadasa Rajapakshe resigns as Justice Minister
 
 *2024-07-29 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100853/wijeyadasa-rajapakshe-resigns-as-justice-minister) · `en`
@@ -1125,6 +1203,8 @@ Minister of Justice, Prisons Affairs and Constitutional Reforms Wijeyadasa Rajap
 Rajapakshe announced this decision while speaking at a press conference being held in Colombo today (29).
 
 Dr. Rajapakshe says he will step down from his ministerial position, to run for the Office of President in the upcoming election.
+
+Commenting further, he said: “I have stated that I am not running for the Presidential Election from the Sri Lanka Podujana Peramuna (SLPP), but another alliance. No one who is contesting from the SLPP in the Cabinet has come forward yet…Then we both are running for the presidency from other political parties. The President also asked me regarding the matter. Accordingly, I decided to step down from the ministerial position to contest for the upcoming Presidential Election.”
 
 ◼️
 
@@ -2165,113 +2245,5 @@ Current spending has been kept in check with a hiring freeze and restrained wage
 [Data](articles/11a94d07.json)
 
 [Extended Data](ext_articles/11a94d07.ext.json)
-
----
-
-### Permission to import vehicles in August
-
-*2024-07-29 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199317) · `si`
-
-In August, Sri Lanka will allow the importation of vehicles, starting with essential ones like ambulances and buses. Private vehicle imports are expected to begin in the first quarter of 2025.
-
-🟩
-
-Minister of State Shehan Semasinghe says that the importation of vehicles will be made in August.
-
-Accordingly, the initial phase will be approved to import vehicles and vehicles for the transportation of vehicles.
-
-"The government cannot lead the country to the date of importing imports and restart imports. Then the headship was liarved all other excluding vehicles. By August, when the government stands in the August of August, we will inform the government's stand by stage of the government by August when he was on the basis of liberation of vehicle limits.. We hope to provide business in the early round and the vehicles needed to transport. But we expect to import private vehicles for the first quarter of 2025. "
-
-◼️
-
-[Data](articles/b5973cb1.json)
-
-[Extended Data](ext_articles/b5973cb1.ext.json)
-
----
-
-### Habaraduwa shooting - two injured
-
-*2024-07-29 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199316) · `si`
-
-In a shooting incident in Habaraduwa's Harumalgoda area, two individuals were injured by unknown assailants firing from a motorcycle. One victim, attempting to board a three-wheeler, was notably unharmed but rushed to the hospital. Additionally, two other victims, aged 34 and 54, residents of Habaraduwa and Lock, were hurt.
-
-🟩
-
-Two persons were injured in a shooting carried out in the Harumalgoda area in Habaraduwa.
-
-Two unidentified persons who arrived in a motorbike were shooting at a pistol type of firearm.
-
-One person was injured, while he was also a wooden-up to the three-wheeler when he was trying to climb a three-wheeler.
-
-However, he had noticularly driven to the hospital.
-
-Two 34 and 54-year-old residents were also injured and residents of Habaraduwa and Lock.
-
-◼️
-
-[Data](articles/aec911b2.json)
-
-[Extended Data](ext_articles/aec911b2.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-07-29 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199314) · `si`
-
-The Department of Meteorology warns of strong winds and rough seas for the next 24 hours due to the southwest monsoon and the Bay of Bengal. It advises the Departments of Fisheries and Navigation to stay ashore. Showers and heavy rains are expected in several provinces, with potential for strong winds across the country.
-
-🟩
-
-The Department of Meteorology, the Department of Meteorology, has issued a warning red announcement on the waist of strong winds and sea for the next 24 hours.
-
-It says that due to the active southwest monsoon and the Bay of Bay of Bengal.
-
-The department said that the sea areas could be very rough, while the sea areas could be very rough.
-
-The Department of Meteorology has requested the Department of Fisheries and Navigation to come to a land or safe place in the area.
-
-The Department has informed the fisheries and the naval community as no leoming to the sea.
-
-Meanwhile, showers will experience showers at times in the Western and Sabaragamuwa provinces, Galle, Matara, Kandy and Nuwara Eliya districts. Some places. Heavy rains can occur in more than 50.
-
-At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. (50-55) can cause strong winds. From time to time in the rest of the island.. (30-40) can cause strong winds.
-
-◼️
-
-[Data](articles/f130bb1a.json)
-
-[Extended Data](ext_articles/f130bb1a.ext.json)
-
----
-
-### No preparation to proceed with the presidential election
-
-*2024-07-29 06:10:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්-21න්-ඉදිරියට-ගෙන-යාමේ-සූදානමක්-නෑ/11-411058) · `si`
-
-President Ranil Wickremesinghe announced that issues hindering the presidential election would be resolved within a week, ensuring independent and free elections as per Article 106 of the Constitution. He emphasized the importance of elections in preserving the people's sovereignty and stated that preparations for the election, initially scheduled for September 21, were insufficient. The President made this statement at the 'Jayawamu Sri Lanka Colombo' event, highlighting his commitment to resolving political disputes to facilitate the electoral process.
-
-🟩
-
-The problem with the appointment of the IGP is resolved in a week and set up the context to hold an independent election
-
-The presidential election is no longer prepared to move forward than September 21.
-
-Elections are part of the people's sovereignty - it cannot be allowed to be violated.
-
-President Ranil Wickremesinghe stressed that the problem with the Speaker and the Chief Justice will be resolved within a week.
-
-The president said that the president was not prepared to continue the presidential election in September 21 and that the Presidential Election would be informed on the 21st of September.
-
-According to Article 106 of the Constitution, the President said that the election commission was entitled to the powers independent and free elections in the country.
-
-President Ranil Wickremesinghe made this statement participating at the 'Jayawamu Sri Lanka Colombo' Colombo District at the Colombo-Homagama premises.
-
-◼️
-
-[Data](articles/91e63b71.json)
-
-[Extended Data](ext_articles/91e63b71.ext.json)
 
 ---

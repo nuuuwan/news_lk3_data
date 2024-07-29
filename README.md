@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 09:20:39**
+As of **2024-07-29 09:36:06**
 
 ## Newspaper Stats
 
-*Scraped **37,795** Articles*
+*Scraped **37,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,416
 adalk | 3,443
-adaderanalk | 4,376
-tamilmirrorlk | 4,668
+adaderanalk | 4,378
+tamilmirrorlk | 4,669
 dailymirrorlk | 4,733
 virakesarilk | 5,958
 adaderanasinhalalk | 6,354
@@ -26,25 +26,85 @@ adaderanasinhalalk | 6,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,793 (100.0%) of 37,795 articles have been extended.
+37,795 (100.0%) of 37,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### පැරිස් ඔලිම්පික් උළෙලේ තවත් වැරැද්දක්
+### ‘Red’ alert issued over strong winds and rough seas
+
+*2024-07-29 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/100848/red-alert-issued-over-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ colour advisory for strong winds and rough seas for naval and multi-day fishermen communities in the Arabian Sea and Bay of Bengal.
+
+As per the warning, very strong winds of about 70-80 kmph, and very rough seas are likely over the Arabian Sea area (in sea areas bounded by 10N - 20N and 55E – 67E) due to the active south-west monsoonal condition.
+
+Thus, the naval and fishing communities are advised not to venture into the sea areas marked by ‘RED’ colour on the map below, until further notice.
+
+Those who are out at aforementioned sea regions are advised to return to coasts or move to safer areas immediately.
+
+Naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/28a33fb9.json)
+
+---
+
+### Postal Dept submits cost estimate to Election Commission
+
+*2024-07-29 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100847/postal-dept-submits-cost-estimate-to-election-commission) · `en`
+
+An estimate of Rs. 1.4 billion has been forwarded to the Election Commission, predicting the expenses of the Postal Department for the upcoming presidential election.
+
+Deputy Postmaster General Rajitha Ranasinghe has revealed this information today (29) when inquired by Ada Derana.
+
+He mentioned that the estimate covers many expenses, including general postal charges, registered postal charges, expenses for stationery, transportation expenses, and administrative charges.
+
+Ranasinghe noted that this estimate is a forecast and that the final amount requested may change.
+
+◼️
+
+[Data](articles/d20e3806.json)
+
+---
+
+### வாகன இறக்குமதி குறித்து மகிழ்ச்சியான அறிவிப்பு
+
+*2024-07-29 09:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-341195) · `ta`
+
+வாகன இறக்குமதிக்கான அனுமதி எதிர்வரும் ஓகஸ்ட் மாதத்தில் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர்  ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+
+இதன்படி, வர்த்தகம் மற்றும் போக்குவரத்துக்கு தேவையான வாகனங்களை இறக்குமதி செய்வதற்கு ஆரம்ப கட்டத்தில் அனுமதி வழங்கப்படும் என இராஜாங்க அமைச்சர் தெரிவித்தார்.
+
+இதேவேளை, 2025 முதல் காலாண்டில் தனியாருக்கு தேவையான வாகனங்களை இறக்குமதி செய்ய எதிர்பார்க்கிறோம் என்றார். R
+
+◼️
+
+[Data](articles/14166a25.json)
+
+---
+
+### Another error at the Paris Olympics
 
 *2024-07-29 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199319) · `si`
 
-ජාතික ගීයක් වැරදි ලෙස ප්‍රචාරය වීම සම්බන්ධයෙන් පැරිස් ඔලිම්පික් සංවිධායකයින් විසින් සමාව ඉල්ලා ප්‍රකාශයක් නිකුත්කර තිබේ.
+Paris Olympics organizers apologized for mistakenly playing Sudan's anthem instead of South Sudan's during the men's basketball tournament, causing confusion among spectators.
 
-පිරිමි පැසිපන්දු තරගාවලියේ දකුණු සුඩානය සහභාගි වු තරගය ආරම්භයට පෙර දකුණු සුඩානයේ ජාතික ගීය වෙනුවට සුඩානයේ ජාතික ගීය ප්‍රචාරය වි ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-එහි රැස්ව සිටි ප්‍රේක්ෂකයින්ගේ ඝෝෂාවත් සමග සුඩානයේ ජාතික ගීය ප්‍රචාරය නවත්වා යළි දකුණු සුඩානයේ ජාතික ගීය ප්‍රචාරය කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+The Paris Olympic organizers have issued an apology for misunderstanding a national anthem.
+
+The national anthem of Sudan has been advertised in the South Sudan's national anthem before the start of the men's basketball tournament.
+
+Sudden the national anthem of Sudan with the noise of the audience, the national anthem of the Sudan has been advertised in the South Sudan.
 
 ◼️
 
 [Data](articles/1cff2021.json)
+
+[Extended Data](ext_articles/1cff2021.ext.json)
 
 ---
 
@@ -61,6 +121,8 @@ Accordingly, the state minister said that permission will be given for the impor
 ◼️
 
 [Data](articles/ab25873e.json)
+
+[Extended Data](ext_articles/ab25873e.ext.json)
 
 ---
 
@@ -2167,59 +2229,5 @@ Buddhism originated from ancient myths in North and East regions, which are now 
 [Data](articles/280b0594.json)
 
 [Extended Data](ext_articles/280b0594.ext.json)
-
----
-
-### High level interval
-
-*2024-07-28 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189584) · `ta`
-
-Supreme Court judges banned from police roles; Archbishop Ranjith, Young Journalists Organization support human rights petitions.
-
-🟩
-
-Nine petitioners, including Archbishop Malcolm Ranjith and the Young Journalists Organization, have accepted the basic human rights violation petitions filed by the Supreme Court judges, which have been banned from acting as the Inspector General of Police, and ordered the appointment of a person to be appointed as the Inspector General of Police.
-
-◼️
-
-[Data](articles/336818cb.json)
-
-[Extended Data](ext_articles/336818cb.ext.json)
-
----
-
-### Mosque
-
-*2024-07-28 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189577) · `ta`
-
-Muslims are required to bury their dead with dignity. Despite global appeals, including from WHO and many nations, including Muslim-majority ones, leaders have ignored calls to halt burning of bodies.
-
-🟩
-
-The religious command of the Muslims is to bury him in a very dignified manner if one of the Muslims dies. Although the World Health Organization and many of the world's countries, including the Muslim countries, have repeatedly appealed to the burn of Muslims who died in the furnace, the rulers did not consider it.
-
-◼️
-
-[Data](articles/8103b9b5.json)
-
-[Extended Data](ext_articles/8103b9b5.ext.json)
-
----
-
-### The Academic Cords of Tamil Politics
-
-*2024-07-28 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189572) · `ta`
-
-Tamil politics involves various movements like the fifty-fifty movement and the Tamil People's Council under GG Ponnambalam. Despite efforts to unite through the Eelam National Liberation Front during the armed struggle, these alliances were short-lived.
-
-🟩
-
-Professor Sivathambi said that the Tamil community is a state of power. Although the United Fronts were created for time in history, it did not last long. From the fifty -fifty movement to the Tamil People's Council of the GG Ponnambalam. During the armed struggle, the four liberation movements together formed the United Front of the Eelam National Liberation Front, but it became a short time.
-
-◼️
-
-[Data](articles/6284a075.json)
-
-[Extended Data](ext_articles/6284a075.ext.json)
 
 ---

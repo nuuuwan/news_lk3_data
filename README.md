@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 18:28:10**
+As of **2024-07-29 18:38:39**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,375
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,894 (100.0%) of 37,905 articles have been extended.
+37,905 (100.0%) of 37,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### ரணிலை கைவிட்டது மொட்டு
+### Ranil abandoned the bud
 
 *2024-07-29 18:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-கைவிட்டது-மொட்டு/175-341233) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன சின்னத்தின் கீழ் வேட்பாளர் ஒருவரை களமிறக்க இன்று தீர்மானிக்கப்பட்டதாக கட்சியின் பொதுச் செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+Sakara Kariyawasam announced the decision to run a candidate from the Sri Lanka People's Alliance (PA), indicating no support for current President Ranil Wickremesinghe.
 
-இதன்படி, தற்போதைய ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஸ்ரீலங்கா பொதுஜன பெரமுன ஆதரவு வழங்காது எனவும் அவர் கூறினார்
+🟩
+
+The party's general secretary Sakara Kariyawasam said that it was decided today to field a candidate under the Sri Lanka PA.
+
+Accordingly, the current President of the PA will not support the current President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/a8ddd02d.json)
+
+[Extended Data](ext_articles/a8ddd02d.ext.json)
 
 ---
 
@@ -60,23 +66,31 @@ Furthermore, Kariyawasam expressed that the party will further look into qualifi
 
 [Data](articles/6e6da0e5.json)
 
+[Extended Data](ext_articles/6e6da0e5.ext.json)
+
 ---
 
-### රනිල්ට පොහොට්ටුවේ සහාය නෑ
+### Ranil is not supporting the poush
 
 *2024-07-29 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199341) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් පොහොට්ටුව ලකුණ යටතේ අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට තීරණය කර තිබේ.
+Ranil does not back the proposed candidate for the upcoming presidential election, despite a decision made by the political board of former President Mahinda Rajapaksa. The Secretary-General, Sagara Kariyawasam, clarified that this stance could lead to internal conflicts within the party, especially since the current President may not support the candidate chosen.
 
-ඒ අද (29) හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ නිවසේ පැවති දේශපාලන මණ්ඩලය රැස්වීමෙන් අනතුරුවය.
+🟩
 
-මාධ්‍ය වෙත අදහස් දක්වමින් පොදුජන පෙරමුණේ මහ ලේකම් සාගර කාරියවසම් මහතා පවසා සිටියේ, මෙම තීරණයට විරුද්ධ අය සිටී නම් හෝ පක්ෂයේ අනුමැතියෙන් තොරව ජනාධිපතිවරණයට ඉදිරිපත් වන්නේ නම් වහාම එම පුද්ගලයා සම්බන්ධයෙන් විනය ක්‍රියාමාර්ග ගැනීමට තීරණය කළ බවය.
+It has been decided to present a candidate for the next presidential election.
 
-තම පක්ෂය තුළින්ම අපේක්ෂකයෙකු ඉදිරිපත් කරන බැවින් වත්මන් ජනාධිපතිවරයාට සහාය දැක්වීමට හැකියාවක් නොමැති බව ද සාගර කාරියවසම් මහතා වැඩිදුරටත් මෙහිදී ප්‍රකාශ කළේය.
+It was after the political board of former President Mahinda Rajapaksa at the house of former President Mahinda Rajapaksa.
+
+Speaking to the media, Secretary-General of the General Secretary Sagara Kariyawasam said if the decision was opposed to the decision or to approve the party's approval.
+
+Mr. Sagara Kariyawasam further stated that the present President is not able to support the present President as a candidate is presented within his party.
 
 ◼️
 
 [Data](articles/5ae47daa.json)
+
+[Extended Data](ext_articles/5ae47daa.ext.json)
 
 ---
 
@@ -95,6 +109,8 @@ The Indian-Russian consortium was chosen despite the United States having inform
 ...
 
 [Data](articles/e4ec291f.json)
+
+[Extended Data](ext_articles/e4ec291f.ext.json)
 
 ---
 
@@ -122,19 +138,25 @@ Government Press Officer Mrs. Kangani Kalpana Liyanage said that several documen
 
 ---
 
-### රුසියාවේ දුම්රියක් පීලි පනී - 100 දෙනෙකුට තුවාල
+### 100 injured in Russian tracks
 
 *2024-07-29 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199340) · `si`
 
-රුසියාවේ මගී දුම්රියක් පීලි පැනීමෙන් සිදුවූ අනතුරකින් පුද්ගලයින් 100 දෙනෙකු පමණ තුවාල ලබා තිබේ.
+In Russia, about 100 people were injured when a passenger train derailed near South Walgagadadaduwaad. Foreign media report eight trains were affected.
 
-විදෙස් මාධ්‍ය වාර්තා කළේ දුම්රිය මැදිරි 08ක් පීලි පැනීමට ලක්ව ඇති බවය.
+🟩
 
-රුසියාවේ දකුණු වොල්ගොග්‍රෑඩ් ප්‍රදේශයේ ධාවනය වෙමින් තිබූ මගී දුම්රියක් මෙලෙස පීලි පැනීමට ලක්ව ඇති බව වාර්තා වෙයි.
+About 100 people were injured in an accident in Russia.
+
+Foreign media reports that 08 Railways were deracted.
+
+It is reported that a passenger train traveling in South Walgagadadaduwaad area in Russia has been derailed.
 
 ◼️
 
 [Data](articles/31688331.json)
+
+[Extended Data](ext_articles/31688331.ext.json)
 
 ---
 
@@ -153,6 +175,8 @@ A bond maturing on 15.09.2029 closed at 12.15/25 percent, up from 12.14/18 perce
 ◼️
 
 [Data](articles/f0358632.json)
+
+[Extended Data](ext_articles/f0358632.ext.json)
 
 ---
 
@@ -195,6 +219,8 @@ Foreign selling was seen in Chevron Lubricants Lanka Plc (down at 119.00), ACL P
 ...
 
 [Data](articles/0ecdef94.json)
+
+[Extended Data](ext_articles/0ecdef94.ext.json)
 
 ---
 
@@ -654,6 +680,8 @@ The original design had to be changed to accommodate new regulations and costs h
 
 [Data](articles/24495f3d.json)
 
+[Extended Data](ext_articles/24495f3d.ext.json)
+
 ---
 
 ### Paris 2024: Ganga Seneviratne fails to qualify for the semifinals
@@ -837,6 +865,8 @@ He “called for decisive action against cybercrime centres and employment racke
 ...
 
 [Data](articles/d1badfb8.json)
+
+[Extended Data](ext_articles/d1badfb8.ext.json)
 
 ---
 
@@ -1249,6 +1279,8 @@ Rajapakshe, 65, has been in parliament for two decades since 2004 representing d
 ◼️
 
 [Data](articles/8f3b7e82.json)
+
+[Extended Data](ext_articles/8f3b7e82.ext.json)
 
 ---
 
@@ -1922,23 +1954,29 @@ A 17-year-old schoolgirl has died yesterday (28), a 17-year-old schoolgirl was k
 
 ---
 
-### අනුමැතියකින් තොරව ක්‍රියාත්මක කළ සංවර්ධන ව්‍යාපෘතිවල ගැටළු රැසක්
+### Development projects implemented without approval
 
 *2024-07-29 10:51:55* · [`adalk`](https://www.ada.lk/breaking_news/අනුමැතියකින්-තොරව-ක්‍රියාත්මක-කළ-සංවර්ධන-ව්‍යාපෘතිවල-ගැටළු-රැසක්/11-411062) · `si`
 
-නාගරික සංවර්ධන සැලසුම් අනුමත කිරීමේදී ප්‍රාදේශීය සම්බන්ධිකරණ කමිටුව සහ දිස්ත්‍රික් සම්බන්ධිකරණ කමිටුවේ අනුමැතිය අනිවාර්ය කර ඇතැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Urban Development Minister Prasanna Ranatunga stressed the importance of approval from the Divisional and District Coordinating Committees for effective implementation of development projects. He highlighted issues arising from unapproved projects and promised to address them, including providing facilities for the Konenawa Municipal Council and taking action on the Black Bridge construction issue. The Minister also mentioned the need for the Treasury and President's intervention due to financial constraints and clarified that the UDA does not own the Kolonnawa Fuel Storage. Discussions were held regarding the construction of schools and the Meethotamulla area development.
 
-ඔහු අවධාරණය කරන්නේ මහජනතාවට ඵලදායි ලෙස සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීම උදෙසා මෙම තීරණය ගත් බවයි.
+🟩
 
-පසුගිය කාලයේදී එවැනි අනුමැතියකින් තොරව ක්‍රියාත්මක කළ සංවර්ධන ව්‍යාපෘතිවල විවිධ ගැටළු මතුවී ඇති බව ඇමතිවරයා සඳහන් කලේය.
+Urban Development and Housing Minister Prasanna Ranatunga says that the approval of Urban Development Plans is compulsory compulsory to the Divisional Coordinating Committee and the District Coordal Committee.
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ උපදේශක කාරක සභා රැස්වීමේ දී ඇමතිවරයා මේ බව සඳහන් කළේය. පසුගියදා  (25) අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේ  දී  එය පැවැත්විණි.
+He emphasizes that this decision was taken to implement development projects effectively to the public.
 
-කොළොන්නාව නගර සභාවේ කැලිකසල කෙරවලපිටියට යැවීම සඳහා අවශ්‍ය පහසුකම් සපයා දෙන ලෙස මෙහිදී සමගි ජනබලවේගයේ කොළඹ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා විසින් නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගෙන් ඉල්ලීමක් කළේය.  ඒ සම්බන්ධයෙන් අවධානය යොමු කර වාර්තාවක් ලබා දෙන ලෙස අමාත්‍යවරයා අමාත්‍යාංශ නිලධාරින්ට උපදෙස් දුන්නේය.
+The Minister said that various issues have been emerged in the development projects implemented without such a consultation.
+
+The Minister made these comments addressing the Minister of Urban Development and Housing Counseling Committee. It was held at the Parliament under the patronage of Minister Prasanna Ranatunga recently.
+
+The Colombo District MP SM Junkar requested the Urban Development and Housing Minister Prasanna Ranatunga to provide the necessary facilities to be sent to the sale of the Konenawa Municipal Council.The Minister instructed the Ministry officials to pay attention to the matter.
 
 ...
 
 [Data](articles/67a34458.json)
+
+[Extended Data](ext_articles/67a34458.ext.json)
 
 ---
 

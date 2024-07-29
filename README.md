@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 10:07:32**
+As of **2024-07-29 10:20:29**
 
 ## Newspaper Stats
 
-*Scraped **37,802** Articles*
+*Scraped **37,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,416
-adalk | 3,443
+adalk | 3,444
 adaderanalk | 4,378
-tamilmirrorlk | 4,669
+tamilmirrorlk | 4,670
 dailymirrorlk | 4,733
 virakesarilk | 5,961
 adaderanasinhalalk | 6,355
@@ -26,45 +26,75 @@ adaderanasinhalalk | 6,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,798 (100.0%) of 37,802 articles have been extended.
+37,802 (100.0%) of 37,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### අමෙරිකාවේ වෙඩිතැබිමක්
+### ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர்?
+
+*2024-07-29 10:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கா-பொதுஜன-பெரமுனவின்-ஜனாதிபதி-வேட்பாளர்/175-341198) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின்  வேட்பாளர் தொடர்பான தீர்மானத்தை இன்று இடம்பெறவுள்ள அரசியல் குழுக் கூட்டத்தின்போது, தீர்மானிக்கவுள்ளதாக அக்கட்சியின் பொதுச் செயலாளர் சாகல காரியவசம் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகருக்கும் இடையில் நேற்றைய தினம் சந்திப்பொன்று இடம்பெற்றிருந்தது.
+
+இதற்கு முன்னரும் இவ்வாறான பல சந்திப்புகள் இடம்பெற்ற நிலையில் அவை இணக்கப்பாடின்றி நிறைவடைந்திருந்தன.
+
+அதேநேரம், ஜனாதிபதி ரணில் விக்ரமசிங்க சுயாதீன வேட்பாளராகத் தேர்தலில் களமிறங்கியுள்ள நிலையில், தமது கட்சியின் வேட்பாளர் தொடர்பான அறிவிப்பை ஸ்ரீ லங்கா பொதுஜன பெரமுன இன்று வெளியிடவுள்ளது. R
+
+◼️
+
+[Data](articles/537a8c4d.json)
+
+---
+
+### A shot of the United States
 
 *2024-07-29 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199320) · `si`
 
-අමෙරිකාවේ නිව්යෝර්ක් හි රොචෙස්ටර් නගරයේ සිදුකළ වෙඩිතැබිමකින් පුද්ගලයෙකු මියගොස් තවත් 06 දෙනෙකු තුවාල ලබා තිබේ.
+In Rochester, New York, a fatal shooting occurred at Upalwood Garden, leaving a 20-year-old victim and six others injured, including one critically. The shooter remains unidentified as police investigate.
 
-නිවියෝර්ක් හි රොචෙස්ටර් නගරයේ පිහිටි ‍මේපල්වූඩ් උද්‍යානයේ දී මෙම වෙඩිතැබීම සිදුකර ඇත.
+🟩
 
-වෙඩිවැදිමෙන් මියගිය පුද්ගලයා 20හැවිරිදි අයෙකු වන අතර තුවාල ලැබු එක් අයෙකුගේ තත්ත්වය බරපතළ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+A shot dead in Rochester in New York, USA, 6 others suffered injuries.
 
-අදාළ වෙඩිතැබීම සිදුකළ පුද්ගලයා පිළිබඳ තොරතුරු මෙතෙක් අනාවරණය වී නොමැති අතර, සිද්ධිය සම්බන්ධයෙන් එරට පොලීසිය විමර්ෂණ ආරම්භ කර ඇති බව සඳහන් වේ.
+The shooting was carried out at the Upalwood Garden in Rochester, Newier.
+
+The victim was a 20-year-old man and one of the injured was in critical condition.
+
+Information on the victim of the shooting has not yet been revealed, and the police have commenced investigations into the incident.
 
 ◼️
 
 [Data](articles/9c8cc76c.json)
 
+[Extended Data](ext_articles/9c8cc76c.ext.json)
+
 ---
 
-### ஹபராதுவவில் துப்பாக்கிச்சூடு -  இருவர் காயம்
+### Habaraduwa firing in Habaraduwa - two injured
 
 *2024-07-29 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/189652) · `ta`
 
-ஹபராதுவ - ஹருமல்கொட பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் இருவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Habaraduwa, two people were injured in a shooting incident involving two unknown gunmen who targeted a motorcyclist and his passenger, resulting in one death and one injury. The suspects fled the scene.
 
-மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவரினால் நேற்று ஞாயிற்றுக்கிழமை (28) இரவு இருவர் மீது துப்பாக்கிச்சூடு மேற்கொள்ளப்பட்டுள்ளது. துப்பாக்கிச் சூட்டை மேற்கொண்டவர்கள் அங்கிருந்து தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்ததுடன், அவர் துப்பாக்கிச் சூட்டுக்கு இலக்கான நிலையில், முச்சக்கரவண்டியில் ஏற முற்பட்ட போது,  முச்சக்கரவண்டி மீதும் துப்பாக்கிச்சூடு மேற்கொள்ளப்பட்டதால், முச்சக்கர வண்டியின் சாரதியும் காயமடைந்துள்ளார்.
+Two persons were injured in the shooting in the Habaraduwa - Harumalgoda area, police said.
 
-மேலும், துப்பாக்கிச் சூட்டில் ஹபராதுவ , அகுலுகஹா பகுதியைச் சேர்ந்த 34 , 54 வயதுடைய இருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Two men on a motorcycle were shot dead by two unidentified persons on Sunday night (28) night.. It is reported that the shooters have fled.
+
+The driver of the three -wheeler was injured as he was shot dead when he was shot dead in the three -wheeler while he was shot dead.
+
+Two people aged 34 and 54 were injured in the shooting, police said.
 
 ◼️
 
 [Data](articles/2a363233.json)
+
+[Extended Data](ext_articles/2a363233.ext.json)
 
 ---
 
@@ -90,41 +120,53 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 ---
 
-### வாகன இறக்குமதிக்கான அனுமதி குறித்து வெளியான தகவல் !
+### Information on vehicle import permits!
 
 *2024-07-29 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189651) · `ta`
 
-வாகன இறக்குமதிக்கான அனுமதி எதிர்வரும் ஆகஸ்ட் மாதம் முதல் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+Vehicle import permissions start in August, with individual use restrictions lifted by Q1 2025. Details to be announced soon by Finance Minister Shehan Semasinghe.
 
-இதேவேளை, தனிநபர்களுக்கான பயன்பாட்டிற்கான வாகன இறக்குமதிக்கான கட்டுப்பாடுகள் 2025 ஆம் ஆண்டின் முதல் காலாண்டில் நீக்கப்படும் என அவர் குறிப்பிடுகின்றார்.
+🟩
 
-முதல் கட்டம் கட்டமாக வாகன இறக்குமதிக்கான அனுமதி ஆகஸ்ட் மாதம் முதல் வழங்கப்படும் தெரிவித்த நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க, அதற்கான நடைமுறையை விரைவில் அறிவிப்பதாகவும் தெரிவித்துள்ளார்.
+Finance Minister Shehan Semasinghe has said that permission for vehicle imports will be issued from August.
+
+Meanwhile, the restrictions on vehicle imports for the use of individuals will be removed in the first quarter of 2025.
+
+Minister of State for Finance Shehan Semasinghe, who issued the first phase of the vehicle imports permission from August, will announce the procedure soon.
 
 ◼️
 
 [Data](articles/6dc0e7d8.json)
 
+[Extended Data](ext_articles/6dc0e7d8.ext.json)
+
 ---
 
-### நாட்டில் இதுவரையில் 32 ஆயிரம் டெங்கு நோயாளர்கள் பதிவு
+### 32 thousand dengue patients registered in the country so far
 
 *2024-07-29 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189650) · `ta`
 
-நாட்டில் டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரித்துள்ளதாகத் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+This year, 32,183 dengue cases and 13 deaths have been reported nationwide, with the highest numbers in the Western Province (12,786), followed by Gampaha (7,582), Northern Province (4,589), and Sabaragamuwa Province (3,329). The National Dengue Control Division urges caution to prevent further spread.
 
-இவ்வருடத்தின் இதுவரையான காலப்பகுதிக்குள் நாட்டில் 32,183 டெங்கு நோயாளர்கள்  அடையாளம் காணப்பட்டுள்ளதுடன்  13 டெங்கு மரணங்கள் பதிவாகியுள்ளன.
+🟩
 
-அதிகளவான டெங்கு நோயாளர்கள் மேல் மாகாணத்தில் பதிவாகியுள்ள நிலையில் அவர்களின் மொத்த எண்ணிக்கை 12,786 ஆகும்.
+The National Dengue Control Unit said the number of dengue patients in the country has increased.
 
-இந்நிலையில், கொழும்பு மாவட்டத்தில் 7,582  நோயாளர்களும், கம்பஹா  மாவட்டத்திலிருந்து 3,452  நோயாளர்களும் பதிவாகியுள்ளனர்.
+During this year, 32,183 dengue patients have been identified and 13 dengue deaths have been reported.
 
-மேலும், வட மாகாணத்தில் 4,589 டெங்கு நோயாளர்களும், சப்ரகமுவ மாகாணத்தில்  3,329 டெங்கு நோயாளர்களும் அடையாளம் காணப்பட்டுள்ளனர்.
+The total number of dengue patients is reported in the Western Province and their total number is 12,786.
 
-எனவே, டெங்கு காய்ச்சல் பரவாமல் தடுக்க முன்னெச்சரிக்கை நடவடிக்கை எடுக்க வேண்டும் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு மேலும் தெரிவித்துள்ளது.
+In this case, 7,582 patients and 3,452 patients from the Gampaha district were reported.
+
+In addition, 4,589 dengue patients in the Northern Province and 3,329 dengue patients in Sabaragamuwa Province have been identified.
+
+Therefore, the National Dengue Control Division further stated that precautions should be taken to prevent the spread of dengue fever.
 
 ◼️
 
 [Data](articles/bb7961c5.json)
+
+[Extended Data](ext_articles/bb7961c5.ext.json)
 
 ---
 
@@ -273,6 +315,22 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 [Data](articles/72cbf5fb.json)
 
 [Extended Data](ext_articles/72cbf5fb.ext.json)
+
+---
+
+### ප්‍රභූ ආරක්ෂක වියදම රු.  බිලියන 5.8ක් දක්වා ඉහළට
+
+*2024-07-29 08:13:21* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-ආරක්ෂක-වියදම-රු---බිලියන-5-8ක්-දක්වා-ඉහළට/11-411059) · `si`
+
+ප්‍රභූ ආරක්ෂක කොට්ඨාසයේ 2018 ජනවාරි 01වනදා සිට 2022 දෙසැම්බර් 31 දක්වා වසර 05ක සාමාන්‍ය වාර්ෂික වියදම රුපියල් මිලියන 4,342ක් වුවද 2023 ජනවාරි මාසයේ සිට දෙසැම්බර් මස 31වනදා කාලසීමාව තුළ ප්‍රභූ ආරක්ෂක වියදම රුපියල් මිලියන 5,833ක් දක්වා වැඩි වී ඇති බව ජාතික විගණන කාර්යාලය මගින් ජූලි මස 26වන දින නිකුත් කොට ඇති විගණන වාර්තාවක සඳහන් වේ.
+
+ප්‍රභූ ආරක්ෂාව සැලසීමට අදාළ පොලිස්පතිගේ 2020 සැප්තැම්බර් මස 30වන දින අංක 2683/2020 දරන චක්‍රලේඛයට පරිබාහිරව මහජන ආරක්ෂක අංශයේ ප්‍රභූ ආරක්ෂාව සඳහා නිලධාරීන් අනුයුක්ත කිරීමේ කමිටුව විසින් ප්‍රභූ ආරක්ෂකයන් යොදවා තිබුණි.
+
+මෙම කමිටුව විසින් හිටපු ආණ්ඩුකාරවරුන්, හිටපු මන්ත්‍රීවරුන්, හිටපු ප්‍රධාන අමාත්‍යවරුන්, ආගමික නායකයන් හා වෙනත් ප්‍රභූන් හා විවිධ තැනැත්තන් සඳහා අනුමත කරන ලද සීමාව ඉක්මවා ප්‍රභූ ආරක්ෂකයන් වසර ගණනාවක සිට අනුයුක්ත කර සිටින අවස්ථා පැවති බවද එම විගණන වාර්තාවේ සඳහන් වේ.
+
+...
+
+[Data](articles/c0924380.json)
 
 ---
 
@@ -1692,9 +1750,7 @@ Additionally, Sri Lanka’s Harshitha Samarawickrema was awarded Player of the F
 
 ECONOMYNEXT – Sri Lanka’s cement consumption was estimated to have picked up 8.5 percent in the year to March 2024, though there was a contraction in the last two calendar years, Tokyo Cement, has said.
 
-With the sector starting recover in the last three quarter of the financial year, cement consumption had started to grow, heled by a stronger rupee which brought down costs.
-
-8.5 percent, but Tokyo had growth its volumes 14 percent amid price cuts, helped by a stronger rupee,
+With the sector starting to recover in the last three quarters of the financial year, cement consumption had started to grow, helped by a stronger rupee which brought down costs.
 
 “In a backdrop where the total cement consumption grew by just 8.5 percent year-on-year, Tokyo Cement managed to achieve a growth of 14 percent, surpassing the industry growth rate,” Managing Director A Y S Gnanam told shareholders in the annual report.
 
@@ -2183,45 +2239,5 @@ The power of the people is the first. The president has been deceived by saying 
 [Data](articles/b030835a.json)
 
 [Extended Data](ext_articles/b030835a.ext.json)
-
----
-
-### President calls for urgent talks to resolve IGP issue
-
-*2024-07-28 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100838/president-calls-for-urgent-talks-to-resolve-igp-issue) · `en`
-
-President Ranil Wickremesinghe has stated that discussions must be held within this week between the Speaker of the Parliament and the Chief Justice to address and resolve issues surrounding the post of the Inspector General of Police (IGP).
-
-Furthermore, the Head of the State expressed that he will ensure that Election Commission will hold Presidential Poll on September 21.
-
-◼️
-
-[Data](articles/0fee873e.json)
-
-[Extended Data](ext_articles/0fee873e.ext.json)
-
----
-
-### Black Flags in Plantation asking 1700
-
-*2024-07-28 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199304) · `si`
-
-In Hatton, a protest against the cancellation of a gazette increasing estate workers' wages was led by the TNA. The event saw significant participation from workers, with the Tamil Progressive Alliance's Deputy Leader, Digambaram MP, criticizing the government's decision.
-
-🟩
-
-A demonstration was held in Hatton against cancellation of the gazette issued to increase the daily wage of estate workers.
-
-The demonstration was organized by the TNA by the TNA. The Ada Derana reporter said.
-
-A large number of estate workers participated in this program.
-
-The Deputy Leader of the Tamil Progress Speaking to the Protest The Government Digambaram MP stated that the government was celebrated the estimated plant through the cancellation of the gazette notification increased by the estate workers' salary.
-
-◼️
-
-[Data](articles/bc02d379.json)
-
-[Extended Data](ext_articles/bc02d379.ext.json)
 
 ---

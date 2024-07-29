@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 08:35:58**
+As of **2024-07-29 08:55:10**
 
 ## Newspaper Stats
 
-*Scraped **37,788** Articles*
+*Scraped **37,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,415
 adalk | 3,443
-adaderanalk | 4,373
+adaderanalk | 4,374
 tamilmirrorlk | 4,666
 dailymirrorlk | 4,733
 virakesarilk | 5,958
@@ -26,27 +26,51 @@ adaderanasinhalalk | 6,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,785 (100.0%) of 37,788 articles have been extended.
+37,788 (100.0%) of 37,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### තැපෑලේ වියදම් ඇස්තමේන්තුව මැතිවරණ කොමිසම ට
+### Fairly heavy showers expected in parts of the island
+
+*2024-07-29 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100844/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Fairly heavy showers above 50 mm are likely at some places and several spells of showers will occur in North-western province.
+
+Strong winds of about 50-55 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts.
+
+Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/72cbf5fb.json)
+
+---
+
+### Postal Expenditure Estimation of Postal Expenditure Estimation
 
 *2024-07-29 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199318) · `si`
 
-ජනාධිපතිවරණය සඳහා තැපැල් දෙපාර්තමේන්තුවේ වියදම් පුරෝකථනය කරමින් රුපියල් බිලියන 1.4 ඇස්තමේන්තුවක් මැතිවරණ කොමිසම වෙත යොමුකර තිබේ.
+The Elections Commission estimates a budget of Rs. 1.4 billion for the Postal Department for the upcoming presidential election, covering costs like postal fees, registered postage, stationery, and admin fees. Deputy Post Master General Rajitha mentioned this during a press conference, noting that the figure is subject to change as it's a preliminary estimate.
 
-අද දෙරණ කළ විමසීමක දී නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා මේ බව පැවසීය.
+🟩
 
-ඒ මහතා සඳහන් කළේ සාමාන්‍ය තැපැල් ගාස්තු, ලියාපදිංචි තැපැල් ගාස්තු, ලිපිද්‍රව්‍ය සඳහා වියදම්, ප්‍රවාහන වියදම් සහ පරිපාලන ගාස්තු ආදිය ඇතුළු වියදම් රැසක් සඳහා මෙම ඇස්තමේන්තුව යොමුකළ බවයි.
+The Elections Commission has predicted Rs. 1.4 billion to the post of Postal Department for the presidential election.
 
-කෙසේ වෙතත් මෙම ඇස්තමේන්තුව පුරෝකථනයක් පමණක් බැවින් ඉල්ලුම් කළ මුදල් ප්‍රමාණය වෙනස්විමේ හැකියාවක් පවතින බව ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+Deputy Post Master General Rajitha said this at a query made today.
+
+He said that the estimation was made for a number of expenses including normal postal fees, registered postage, stationery, and administrative fees.
+
+However, since this estimate is only a forecast, the amount of money requested is capable of change.
 
 ◼️
 
 [Data](articles/64039f84.json)
+
+[Extended Data](ext_articles/64039f84.ext.json)
 
 ---
 
@@ -434,17 +458,23 @@ On the 25th anniversary of Dr. Neelan Tiruchelvam‘s assassination, it is impor
 
 ---
 
-### வெளிநாட்டுக் கைத்துப்பாக்கியுடன் ஒருவர் கைது
+### Arrest by someone with foreign handguns
 
 *2024-07-29 01:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டுக்-கைத்துப்பாக்கியுடன்-ஒருவர்-கைது/175-341189) · `ta`
 
-அநுராதபுரம், இபலோகம பொலிஸ் பிரிவுக்குட்பட்ட பல்லேகம பகுதியில் வைத்து இந்தக் கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A man was arrested in Pallegama, Anuradhapura, after a raid by Maradankadawala police found him with foreign handguns.
 
-நேற்றுமுன்தினம் பல்லேகம பிரதேசத்தில் மரதன்கடவல பொலிஸாரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே மேற்படி நபர் கைது செய்யப்பட்டுள்ளார்.மரதன்கடவல பிரதேசத்தைச் சேர்ந்த 49 வயதுடைய நபரே கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+The arrest has been carried out in the Pallegama area under the Ibalogama police division of Anuradhapura, police said.
+
+The man was arrested in Pallegama area yesterday after the raid carried out by the Maradankadawala police.
 
 ◼️
 
 [Data](articles/7ab56a83.json)
+
+[Extended Data](ext_articles/7ab56a83.ext.json)
 
 ---
 
@@ -1242,23 +1272,33 @@ As per the court order, as the General Secretary of the Sri Lanka Freedom Party 
 
 ---
 
-### රාජ්‍ය ඖෂධ සංස්ථාව විකුණන්න යන බවට චෝදනාවක්
+### Accused that the State Pharmaceutical Corporation is selling
 
 *2024-07-28 19:39:57* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ඖෂධ-සංස්ථාව-විකුණන්න-යන-බවට-චෝදනාවක්/11-411052) · `si`
 
-වසර පනහකට වඩා වැඩි ඉතිහාසයක් ඇති රාජ්‍ය ඖෂධ සංස්ථාව විකුණා දැමීමට සැලසුම් කර තිබෙන බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සඳහන් කරයි.
+Doctors' unions accuse the State Pharmaceutical Corporation of compromising quality and affordability, established to provide high-quality medicines at low prices to Sri Lanka's rural population. Dr. Chamal Sanjeewa urges the Health Minister to halt operations, citing potential harm to the rural health system and the integrity of the Ministry of Medical Corporation. He plans to protest and meet with President Ranil Wickremesinghe.
 
-මෙරට ජනතාවට ගුණාත්මකභාවයෙන් ඉහළ ඖෂධ අඩු මිලට ලබාදීම සඳහා මෙම සංස්ථාව පිහිටුවා තිබෙන බවත් එතරම් වටිනාකමක් සහිත මෙම ආයතනය ඉන්දියාවට විකුණා දැමීම සඳහා කැබිනට් පත්‍රිකාවක් සකස් වෙමින් පවතින බව එම සමිතියේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා ප්‍රකාශ කළේය.
+🟩
 
-මෙම කටයුතු වහාම නතර කරන ලෙසට තමන් සෞඛ්‍ය අමාත්‍යවරයාගෙන් ඉල්ලා සිටින බවත් මීට අමතරව හෙට (30දා) මේ පිළිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට පැමිණිලි කරන බවද පැවසීය.
+Doctors' trade unions of doctors and civil rights doctors are mentioned that the State Pharmaceutical Corporation has over fifty years.
 
-රාජ්‍ය ඖෂධ සංස්ථාව නිසා මෙරට ග්‍රාමීය ජනතාවට ඉතා අඩු මිලට ගුණාත්මකභාවයෙන් ඉහළ ඖෂධ ලබා ගැනීමට අවස්ථාව සැලසී තිබෙන නිසා මෙරට දුප්පත් ජනතාව වැඩි මිලට ඖෂධ අළෙවි කරන ඖෂධ අලෙවි සල්වලට යාම වෙනුවට ඔසු සල්වලින් ඖෂධ ලබා ගැනීමට කටයුතු කර තිබෙන බවද සඳහන් කළේය.
+Dr. Chamal Sanjeewa said that this corporation was established to provide the people of Sri Lanka to Sri Lanka's quality of high quality prices to India.
 
-රාජ්‍ය ඖෂධ සංස්ථාව විකුණා දැමීමෙන් මෙරට ග්‍රාමීය සෞඛ්‍ය පද්ධතියට බරපතළ හානියක් සිදුවිය හැකි බවද ඒ මහතා පෙන්වා දෙයි.
+He said he had requested the Minister of Health to immediately stop the work and will complain to Mr. Ranil Wickremesinghe regarding this tomorrow.
 
-...
+It is said that due to the State Pharmaceuticals, the rural population has been able to obtain high quality drugs in very low prices, he said.
+
+He pointed out that selling the State Pharmaceutical Corporation can seriously damage to the rural health system.
+
+In addition, this can also be a serious impact, as the Ministry of Health is purchased with the proper quality of the Ministry of Medical Corporation.
+
+He said the President would protested in the written incident and hand over the Fort to the Presidential Secretariat tomorrow.
+
+◼️
 
 [Data](articles/188bd75f.json)
+
+[Extended Data](ext_articles/188bd75f.ext.json)
 
 ---
 
@@ -2181,33 +2221,5 @@ In the 12 months to June private credit has expanded 432 billion rupees.
 [Data](articles/db4b194f.json)
 
 [Extended Data](ext_articles/db4b194f.ext.json)
-
----
-
-### 1500 km through the coastal roads of Sri Lanka. Distance hiking: Beruwala youth attempt
-
-*2024-07-28 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189599) · `ta`
-
-Zahmi Zaheed, a young man from Beruwala, embarked on a remarkable journey to hike 1500 kilometers along Sri Lanka's coastal roads. Starting from Beruwala, he aimed to complete the trek within 50 days, showcasing the beauty of Sri Lanka's shores. Despite facing challenges, Zahmi received support from villagers, capturing moments of his journey with photographs. His endeavor not only seeks to set a record but also highlights the country's scenic landscapes.
-
-🟩
-
-Zahmi Zaheed, a young man from Beruwala, is trying to achieve a record of about 1500 kilometers through the coastal roads of Sri Lanka.
-
-He has started his walk from Beruwala and has been walking for 15 days.
-
-He completed his journey from Nintavur to the priests of Batticaloa on Saturday morning (27).
-
-The 50 -day journey began on Sunday morning from Kurukkammadam village to Batticaloa.
-
-Other youths in the villages welcomed this young man, who is taking photos with him.
-
-Commenting on his hiking, he said that the walk was underway in the theme of 'We will walk the beautiful shore of independent Sri Lanka.
-
-◼️
-
-[Data](articles/56da9e22.json)
-
-[Extended Data](ext_articles/56da9e22.ext.json)
 
 ---

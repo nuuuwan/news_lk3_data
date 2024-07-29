@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 11:20:31**
+As of **2024-07-29 11:36:15**
 
 ## Newspaper Stats
 
-*Scraped **37,815** Articles*
+*Scraped **37,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,75 @@ adaderanalk | 4,380
 tamilmirrorlk | 4,674
 dailymirrorlk | 4,733
 virakesarilk | 5,961
-adaderanasinhalalk | 6,358
+adaderanasinhalalk | 6,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,813 (100.0%) of 37,815 articles have been extended.
+37,815 (100.0%) of 37,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### இ. தே.ஆ. தவிசாளர் அறிவிப்பு
+### තැපැල් ඡන්දහිමියන්ට දැනුම්දීමක්
+
+*2024-07-29 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199324) · `si`
+
+2024 ජනාධිපතිවරණයේ තැපැල් ඡන්දදායකයින්ගේ පහසුව සඳහා ඡන්ද හිමි නාමලේඛන ප්‍රදර්ශනය කළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අනුව 2024 වර්ෂයේ සහතික කරන ලද ඡන්ද හිමි සියලුම මැතිවරණ කොට්ඨාසවලට අදාළ 2024 ජූලි මස 26 වන දින සිට සාමාන්‍ය කාර්යාල වේලාවන් තුළ පහත සඳහන් ස්ථානවල ප්‍රදර්ශනය කෙරේ.
+
+ඒ සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාව නිකුත් කළ සම්පූර්ණ නිවේදනය පහතින් දැක්වේ.
+
+◼️
+
+[Data](articles/1460b076.json)
+
+---
+
+### e. Tea. Commissioner notice
 
 *2024-07-29 11:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தே-ஆ-தவிசாளர்-அறிவிப்பு/175-341203) · `ta`
 
-ஜனாதிபதித் தேர்தல் 2024 பெயர் குறித்த நியமனப்பத்திரங்களைப் பொறுப்பேற்றல், வைப்புப் பணம் செலுத்துதல் மற்றும் வாக்கெடுப்பு தொடர்பாக இலங்கை தேர்தல் ஆணைக்குழு சார்பாக அதன் தவிசாளர் ஆர்.எம்.ஏ.எல்.சத்நாயக்க அறிவித்தல் ஒன்றை விடுத்துள்ளார்.
+The Sri Lanka Election Commission has announced details for the 2024 presidential election, including nomination deadlines, deposit requirements, and a referendum date set for September 21, 2024. Nomination papers must be submitted between 9:00 pm and 11:00 pm on August 15, 2024, at the Election Commission headquarters in Rajagiriya. Objections to nominations can be raised until 11:30 am on the same day. Candidates must pay a deposit, with political parties required to pay Rs 50,000 and individual candidates Rs 75,000, by 12:00 pm on August 14, 2024. Confirmation of candidacy requires a certificate from the Secretary-General of Parliament, excluding nominated political parties.
 
-அதன்படி, 1981 ஆம் ஆண்டின் 15 ஆம் இலக்க ஜனாதிபதித் தேர்தல்கள் சட்டத்தின் 2 ஆவது மற்றும் 8 ஆவது பிரிவுகள் குறித்து வாக்காளர்களுக்கு பின்வரும் விடயங்களைத் தெளிவு படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+🟩
 
-ஜனாதிபதித் தேர்தலுக்கான வாக்கெடுப்பு 2024, செப்டம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படவிருப்பதாக பொதுமக்களுக்கு இத்தால் அறிவித்தல் கொடுக்கப்படுகின்றது.
+RMAL Satnayake, the Chairman of the Sri Lanka Election Commission, has issued a notification on the presidential election 2024 nominations, deposits and referendum.
 
-அந்தத் தேர்தலுக்குரிய பெயர்குறித்த நியமனப்பத்திரங்கள், 2024 ஆகஸ்ட் மாதம் 15 ஆம் திகதி மு.ப. 9.00 மணி முதல் மு.ப. 11.00 மணி வரையான காலப்பகுதிக்குள் இராஜகிரிய, சரண மாவத்தையில் அமைந்துள்ள தேர்தல் ஆணைக்குழுவின் தலைமையக கேட்போர்கூடத்தில் பொறுப்பேற்கப்படும்.
+Accordingly, the following issues have been clarified to voters about Article 2 and 8 of the Presidential Elections Act No. 15 of 1981.
+
+The public is notified by the public that the referendum for the presidential election will be held on September 21, 2024.
+
+The nomination papers for the election, on August 15, 2024,. From 9.00 pm. Within 11.00 pm, the headquarters of the Election Commission, located in Rajagiriya, Sarana Mawatha, will be held in charge of the auditorium.
+
+On the 15th of August, 2024,. From 9.00 pm. Objectives can be made regarding the nominal appointment that is handed over within 11.30am. These objections can be made by a person who signed the nomination papers by a nomination of the opposition candidate or by the opposition candidate.
 
 ...
 
 [Data](articles/c7d825b9.json)
 
+[Extended Data](ext_articles/c7d825b9.ext.json)
+
 ---
 
-### දියේ ගිලී සැඟව ගිය විද්‍යාරතන යේ වොලිබෝල් තරුව
+### Volleyball Star
 
 *2024-07-29 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199323) · `si`
 
-අවිස්සාවේල්ල නුගදණ්ඩ තට්ටුගල නාච්චිමල ඇළේ ගෝනවල ප්‍රදේශයේ දියවළේ ගිලීමෙන් 17 හැවිරිදි පාසල් සිසුවෙකු ඊයේ (28) සවස මියගොස් ඇතැයි අවිස්සාවේල්ල පොලීසිය පවසයි.
+A 17-year-old schoolgirl tragically passed away after being found unconscious in the Dugawala area, Nachgadaanduwa, Avissawella.
+
+🟩
+
+A 17-year-old schoolgirl has died yesterday (28), a 17-year-old schoolgirl was killed in swallowing the Dugawala area in the Nachgadaanduwa, Avissawella.
 
 ◼️
 
 [Data](articles/7c905704.json)
+
+[Extended Data](ext_articles/7c905704.ext.json)
 
 ---
 
@@ -2251,23 +2281,5 @@ Good governance government should be held responsible for the economic crisis. F
 [Data](articles/cac936ae.json)
 
 [Extended Data](ext_articles/cac936ae.ext.json)
-
----
-
-### Ranil's news on the controversy of the Inspector General of Police
-
-*2024-07-28 18:13:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபர்-சர்ச்சை-குறித்து-ரணில்-வெளியிட்ட-செய்தி/175-341170) · `ta`
-
-President Ranil Wickremesinghe suggests dialogue between Speaker and Chief Justice over concerns about the Inspector General of Police.
-
-🟩
-
-President Ranil Wickremesinghe has said that the Speaker and the Chief Justice should hold talks on the issues raised regarding the Inspector General of Police. Remble
-
-◼️
-
-[Data](articles/a0b3efb3.json)
-
-[Extended Data](ext_articles/a0b3efb3.ext.json)
 
 ---

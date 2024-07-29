@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 04:20:29**
+As of **2024-07-30 04:36:08**
 
 ## Newspaper Stats
 
-*Scraped **37,965** Articles*
+*Scraped **37,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,465
 adaderanalk | 4,396
-tamilmirrorlk | 4,699
+tamilmirrorlk | 4,700
 dailymirrorlk | 4,733
 virakesarilk | 5,990
 adaderanasinhalalk | 6,384
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,965 (100.0%) of 37,965 articles have been extended.
+37,965 (100.0%) of 37,966 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -139,6 +139,24 @@ Recognised as Miraclon’s Champion of Modern Flexo, ALFT Packaging was featured
 [Data](articles/e5258764.json)
 
 [Extended Data](ext_articles/e5258764.ext.json)
+
+---
+
+### ’ஜனாதிபதித் தேர்தலுக்கு முன்னர் தகனத்தை விசாரிக்குக’
+
+*2024-07-30 01:41:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-முன்னர்-தகனத்தை-விசாரிக்குக/175-341255) · `ta`
+
+தகனம் தொடர்பான தீர்மானத்தை எடுத்த குழு உறுப்பினர்களிடம் விசாரணை நடத்தி பாதிக்கப்பட்ட முஸ்லிம் சமூகத்துக்கு  நியாயத்தை பெற்றுக்கொடுக்க ஜனாதிபதித் தேர்தலுக்கு முன்னர் "பாராளுமன்றத் தெரிவுக்குழுவை" நியமிக்க வேண்டும் என கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+அநீதியான சம்பவத்தை செய்த குழுவுக்கு எதிராக சட்டத்தை அமுல்படுத்துவதற்கு சபாநாயகரிடம் சகல முஸ்லிம் பாராளுமன்ற உறுப்பினர்களும் ஒன்றிணைந்து கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+ஜனாஸாக்களை தகனம் செய்வது தொடர்பான தீர்மானத்தை எதிர்த்து முஸ்லிம் சமூகத்துக்கு நீதி கிடைக்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதி செயலணி முன்னாள் உறுப்பினரும், கொழும்பு மாநகர சபை முன்னாள் உறுப்பினருமான ஐ.ஏ. கலீலுர் ரஹ்மான் கோரியுள்ளார்.
+
+இலங்கை பாராளுமன்றத்தை பிரதிநிதித்துவப்படுத்தும் கட்சித்தலைவர்கள், அமைச்சர் மற்றும் பாராளுமன்ற உறுப்பினர்களுக்கு மகஜரொன்றையும் அவர்  அனுப்பியுள்ளார்.
+
+...
+
+[Data](articles/b7841d0d.json)
 
 ---
 
@@ -2219,35 +2237,5 @@ Attorney at law, lawyer Nuwan Bopage is named as the presidential candidate of t
 [Data](articles/ce9f0b9f.json)
 
 [Extended Data](ext_articles/ce9f0b9f.ext.json)
-
----
-
-### By-result of the Covid Epidemic
-
-*2024-07-29 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199330) · `si`
-
-A report by the World Food and Agriculture Organization and others reveals that 733 million people faced hunger in 2023, a significant increase attributed to factors like war, climate change, and resource inequality. The African region is particularly hard-hit, with nearly every fifth person starving. This situation affects about 28.9% of the world's population, a rapid rise post-Covid-19 pandemic.
-
-🟩
-
-The latest report has revealed that one of every 11 people in the world is hungry.
-
-According to them, 733 million people around the world alone in 2023 only face hunger, and it is 9 percent of the total world population.
-
-The report was collaborable by the World Food and Agriculture Organization, World Children's Fund, World Health Organization and International Agriculture Development Fund.
-
-The facts of warfare, weather change and resource disparity have caused this situation.
-
-It has been reported that the inhabitants of the African region are most facing this situation and that every five people are starving.
-
-According to the report, about 28.9 percent of the world's population, about 28.9 percent of the world's population, was partially or severely affected by about 2.33 billion.
-
-According to them, the people who are insecure have increased rapidly after the Covid-16 global plague.
-
-◼️
-
-[Data](articles/3041b14c.json)
-
-[Extended Data](ext_articles/3041b14c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 14:07:49**
+As of **2024-07-29 14:20:37**
 
 ## Newspaper Stats
 
@@ -26,73 +26,97 @@ adaderanasinhalalk | 6,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,842 (100.0%) of 37,846 articles have been extended.
+37,846 (100.0%) of 37,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### නීතිඥ නුවන් බෝපගේ ජනපති සටනට
+### Attorney at Law Nuwan Bope's President to fight
 
 *2024-07-29 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199331) · `si`
 
-ජන අරගල ව්‍යාපාරයේ ජනාධිපති අපේක්ෂකයා ලෙස නීතිඥ නුවන් බෝපගේ මහතා නම් කර තිබේ.
+Nuwan Bopage, an attorney at law, has been nominated as the presidential candidate by the People's Struggle Movement.
+
+🟩
+
+Attorney at law, lawyer Nuwan Bopage is named as the presidential candidate of the People's Struggle Movement.
 
 ◼️
 
 [Data](articles/ce9f0b9f.json)
 
+[Extended Data](ext_articles/ce9f0b9f.ext.json)
+
 ---
 
-### කොවිඩ් වසංගතයේ අතුරු ප්‍රතිඵලයක්
+### By-result of the Covid Epidemic
 
 *2024-07-29 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199330) · `si`
 
-ලොව සෑම මිනිසුන් 11 දෙනෙකුගෙන් එක් අයෙක්ම කුසගින්නෙන් පසුවන බව එක්සත් ජාතීන්ගේ නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+A report by the World Food and Agriculture Organization and others reveals that 733 million people faced hunger in 2023, a significant increase attributed to factors like war, climate change, and resource inequality. The African region is particularly hard-hit, with nearly every fifth person starving. This situation affects about 28.9% of the world's population, a rapid rise post-Covid-19 pandemic.
 
-ඔවුන්ට අනුව 2023 වසරේදී පමණක් ලොව පුරා මිලියන 733ක ජනතාවක් කුසගින්නට මුහුණපා ඇති අතර, එය සමස්ත ලෝක ජනගහනයෙන් සියයට 9කි.
+🟩
 
-ලෝක ආහාර සහ කෘෂිකර්ම සංවිධානය, ලෝක ළමා අරමුදල, ලෝක ආහාර වැඩසටහන, ලෝක සෞඛ්‍ය සංවිධානය සහ ජාත්‍යන්තර කෘෂිකර්ම සංවර්ධන අරමුදල යන එක්සත් ජාතීන්ගේ ආයතන 5ක් එක්ව මෙම වාර්තාව සකස් කර තිබුණි.
+The latest report has revealed that one of every 11 people in the world is hungry.
 
-එහි වැඩිදුරටත් දැක්වුණේ යුද ගැටුම්, කාලගුණ විපර්යාස සහ සම්පත් බෙදීමේ අසමානතාව යන කරුණු මෙම තත්ත්වයට හේතුවී ඇති බවය.
+According to them, 733 million people around the world alone in 2023 only face hunger, and it is 9 percent of the total world population.
 
-අප්‍රිකානු කලාපයේ වැසියන් මෙම තත්ත්වයට වැඩි වශයෙන් මුහුණදෙමින් සිටින බවත් එහි සෑම පස් දෙනෙකුගෙන්ම අයෙක් කුසගින්නේ පසුවන බවත් වාර්තා වී තිබේ.
+The report was collaborable by the World Food and Agriculture Organization, World Children's Fund, World Health Organization and International Agriculture Development Fund.
 
-2023 වසරේදී ලෝක ජනගහනයෙන් සියයට 28.9ක් එනම් බිලියන 2.33ක් පමණ අර්ධ වශයෙන් හෝ බරපතළ ලෙස ආහාර අනාරක්ෂිතතාවයෙන් පීඩාවට පත්ව ඇතැයි ද එම වාර්තාවෙන් වැඩිදුරටත් අනාවරණ කෙරේ.
+The facts of warfare, weather change and resource disparity have caused this situation.
 
-ඔවුන්ට අනුව, ආහාර අනාරක්ෂිතතාවට පත්වන පිරිස සීඝ්‍රයෙන් ඉහළගොස් ඇත්තේ කොවිඩ් -19 ගෝලීය වසංගතය ආරම්භවීමෙන් පසුවය.
+It has been reported that the inhabitants of the African region are most facing this situation and that every five people are starving.
+
+According to the report, about 28.9 percent of the world's population, about 28.9 percent of the world's population, was partially or severely affected by about 2.33 billion.
+
+According to them, the people who are insecure have increased rapidly after the Covid-16 global plague.
 
 ◼️
 
 [Data](articles/3041b14c.json)
 
+[Extended Data](ext_articles/3041b14c.ext.json)
+
 ---
 
-### ரூ.140 கோடி அனுப்பி வைப்பு
+### Rs 140 crore
 
 *2024-07-29 13:45:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-140-கோடி-அனுப்பி-வைப்பு/175-341216) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கான தபால் திணைக்களத்தின் செலவினங்களைக் கணித்து ரூ.140 கோடி மதிப்பீடு, தேர்தல்கள் ஆணைக்குழுவிற்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+The Election Commission received Rs 140 crore, anticipating postal costs for the Presidential Election. This includes expenses for general mail, registration mail, writing, transportation, and administrative fees.
 
-இதற்கமைய பொதுத் தபால், பதிவுத் தபால், எழுதுபொருட்கள், போக்குவரத்து, நிர்வாகக் கட்டணம் உள்ளிட்ட பல செலவினங்களுக்காக இந்த மதிப்பீடு செய்யப்பட்டுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+🟩
+
+A total of Rs 140 crore has been sent to the Election Commission, predicting the expenses of the Postal Department for the Presidential Election.
+
+Accordingly, the evaluation has been estimated for a number of expenses including general post, registration post, writing, transport and administrative fees.
 
 ◼️
 
 [Data](articles/e50b0cd5.json)
 
+[Extended Data](ext_articles/e50b0cd5.ext.json)
+
 ---
 
-### கொழும்பு - கண்டி வீதியில் போக்குவரத்து தடை
+### Traffic on Colombo - Kandy Road
 
 *2024-07-29 13:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கண்டி-வீதியில்-போக்குவரத்து-தடை/175-341215) · `ta`
 
-கொழும்பு - கண்டி பிரதான வீதியின் யக்கல பிரதேசத்தில் பயணிகள் பஸ் மற்றும் பாரவூர்தி என்பன மோதி விபத்து ஏற்பட்டுள்ளது.
+A collision between a passenger bus and a Paravurthy vehicle blocked the Colombo-Kandy main road near Yakkala junction.
 
-இதன் காரணமாக கொழும்பு - கண்டி பிரதான வீதி யக்கல சந்திக்கு அருகில் தடைப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
+
+Passenger bus and Paravurthy collided with the Yakkala area of ​​Colombo -Kandy main road.
+
+Due to this, it is reported that the Colombo -Kandy main road has been blocked near the Yakkala junction.
 
 ◼️
 
 [Data](articles/98a15873.json)
+
+[Extended Data](ext_articles/98a15873.ext.json)
 
 ---
 

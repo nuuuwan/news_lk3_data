@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 17:20:33**
+As of **2024-07-29 17:36:12**
 
 ## Newspaper Stats
 
-*Scraped **37,890** Articles*
+*Scraped **37,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 4,390
 tamilmirrorlk | 4,691
 dailymirrorlk | 4,733
 virakesarilk | 5,976
-adaderanasinhalalk | 6,372
+adaderanasinhalalk | 6,373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,890 (100.0%) of 37,890 articles have been extended.
+37,890 (100.0%) of 37,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### මන්නා රමේෂ් අධිකරණයට රැගෙන එයි
+
+*2024-07-29 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199339) · `si`
+
+ඩුබායිහි දී අත්අඩංගුවටගත් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු ලෙස සැලකෙන රමේෂ් ප්‍රියජනක හෙවත්  "මන්නා රමේෂ්" අද (29) අවිස්සාවේල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන ආවේය.
+
+නඩු කටයුත්තක් සඳහා ඔහු එලෙස ගෙන ආ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+මේ වනවිට මන්නා රමේෂ්ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් රඳවාගෙන ප්‍රශ්න කරමින් සිටින අතර ඔහුගේ රැඳවුම් කාලය අගෝස්තු 08 වනදා අවසන්වීමට නියමිතය.
+
+සැකකරුගේ රැඳවුම් කාලය අවසන් වන දිනයේදී ඔහු අධිකරණය වෙත ඉදිරිපත් කරන ලෙස නියෝග කළ බව අප වාර්තාකරු පැවසීය.
+
+ශ්‍රී ලංකා පොලීසිය කර තිබූ ඉල්ලීමට අනුව ජාත්‍යන්තර පොලීසියේ රතු වරෙන්තු මත ඩුබායිහිදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු ලෙස සැලකෙන මන්නා රමේෂ් මැයි 07 වනදා අලුයම දිවයිනට රැගෙන ආවේය.
+
+අවිස්සාවේල්ල ප්‍රදේශය කේන්ද්‍ර කරගනිමින් ව්‍යාපාරිකයින්ගෙන් කප්පම් ගැනීම, මත්ද්‍රව්‍ය ජාවාරම සහ මනුෂ්‍ය ඝාතන සම්බන්ධයෙන් මන්නා රමේෂ්ට එරෙහිව චෝදනා එල්ල වී තිබේ.
+
+◼️
+
+[Data](articles/b5e55a4c.json)
+
+---
 
 ### Heroin trafficker in Kegalle
 
@@ -2253,27 +2275,5 @@ However, since this estimate is only a forecast, the amount of money requested i
 [Data](articles/64039f84.json)
 
 [Extended Data](ext_articles/64039f84.ext.json)
-
----
-
-### Sri Lanka budget deficit steeply down in May 2024
-
-*2024-07-29 08:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-steeply-down-in-may-2024-174116/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s budget deficit was steeply down in May 2024 to 366.8 billion rupees, from 1,014.7 billion rupees a year ago, helped by higher tax collections and a lower interest bill, official data show.
-
-Tax collections went up 45 percent to 1,491.3 billion rupees up to May 2024 and not-tax revenues rose 38 percent to 125.5 billion rupees, helping boost total revenues 44 percent to 1,616 billion rupees.
-
-Current spending was down 7 percent to 1,792.8 billion rupees.
-
-Interest costs fell 13 percent to 921.1 billion rupees, after a debt restructure and falling interest rates amid monetary policy which has provided stability, which has been seen in the exchange rate.
-
-Current spending has been kept in check with a hiring freeze and restrained wage increases so far. However, unless the public sector is trimmed, wages have to go up in the future.
-
-...
-
-[Data](articles/11a94d07.json)
-
-[Extended Data](ext_articles/11a94d07.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 18:56:39**
+As of **2024-07-29 19:06:02**
 
 ## Newspaper Stats
 
-*Scraped **37,907** Articles*
+*Scraped **37,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,273
 dailyftlk | 2,416
-adalk | 3,459
-adaderanalk | 4,392
+adalk | 3,460
+adaderanalk | 4,393
 tamilmirrorlk | 4,694
 dailymirrorlk | 4,733
 virakesarilk | 5,976
@@ -26,25 +26,47 @@ adaderanasinhalalk | 6,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,905 (100.0%) of 37,907 articles have been extended.
+37,907 (100.0%) of 37,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### මුස්ලිම් කොංග්‍රසයේ සහාය සජබය ට ?
+### Sri Lanka urges action against cybercrime centres, employment rackets in ASEAN region
+
+*2024-07-29 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100864/sri-lanka-urges-action-against-cybercrime-centres-employment-rackets-in-asean-region) · `en`
+
+Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya has called for decisive action against cybercrime centres and employment rackets taking place in some parts of the ASEAN region.
+
+In his address to the 31st Ministerial Meeting of the ASEAN Regional Forum in Laos on Saturday (27 July), Balasuriya also called for the Asia Pacific region to concertedly address emerging challenges including security-related aspects of new and emerging technologies such as artificial intelligence, with a view to taking preventive measures against their misuse, the Ministry of Foreign Affairs said.
+
+Issuing a statement, the Ministry mentioned that the Foreign Affairs State Minister further highlighted that in addition to sustaining the Asia-Pacific region’s efforts to promote peace, security, and cooperation, the Forum must address challenges to cyber and network security systems and tackle transnational organized crime.
+
+...
+
+[Data](articles/fe497eb9.json)
+
+---
+
+### Muslim Congress help?
 
 *2024-07-29 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199342) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේ දී ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ සහාය සමගි ජන බලවේගය පක්ෂය වෙත හිමිවනු ඇති බව වාර්තා වෙයි.
+The Muslim Congress party plans to support the Sri Lanka Muslim Congress Assistant Society in the upcoming presidential election, focusing on reconciliation efforts. Despite this, leader Rauff Hakeem emphasizes the importance of today's actions.
 
-ඒ එම පක්ෂය මේ වන විටත් සමගි ජන බලවේගය සමග කටයුතු කිරීම හේතුවෙනි.
+🟩
 
-කෙසේවෙතත් සිය පක්ෂය විසින් සහාය ලබාදෙනු ලබන ජනාධිපති අපේක්ෂකයා කවුරුන්ද යන්න සම්බන්ධයෙන් ලබන ඉරිදා දිනයේ පක්ෂ උත්තරීතර මණ්ඩලය රැස්වී සාකච්ඡා කර අවසන් තීරණයක් ගැනීමට නියමිත බව ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ නායක රවුෆ් හකීම් මහතා "අද දෙරණ"ට සඳහන් කළේය.
+The party will also be able to support the Sri Lanka Muslim Congress Assistant Society in the next presidential election.
+
+That party is now due to dealing with the reconciliation.
+
+However, Sri Lanka Muslim Congress leader Rauff Hakeem said, "Today
 
 ◼️
 
 [Data](articles/301a78e6.json)
+
+[Extended Data](ext_articles/301a78e6.ext.json)
 
 ---
 
@@ -78,7 +100,11 @@ Meanwhile, he said that the Politburo of the SLPP decided to field a Presidentia
 
 Furthermore, Kariyawasam expressed that the party will further look into qualified individuals to contest for the presidency and that the person with the most likelihood to win will officially be named the candidate of the SLPP during the upcoming days.
 
-◼️
+Meanwhile, the SLPP politburo has decided to take strict disciplinary action against any member of the SLPP contesting for the 2024 Presidential Election without the party’s approval.
+
+In response to a question raised by a journalist whether it was not too late to delay the nomination of a candidate, Kariyawasam said that they would name the “winning candidate” at the “winning time”.
+
+...
 
 [Data](articles/6e6da0e5.json)
 
@@ -127,6 +153,22 @@ The Indian-Russian consortium was chosen despite the United States having inform
 [Data](articles/e4ec291f.json)
 
 [Extended Data](ext_articles/e4ec291f.ext.json)
+
+---
+
+### වී කිලෝවකට රු. 150ක සහතික මිලක් ඉල්ලයි
+
+*2024-07-29 17:58:26* · [`adalk`](https://www.ada.lk/breaking_news/වී-කිලෝවකට-රු--150ක-සහතික-මිලක්-ඉල්ලයි/11-411072) · `si`
+
+වී කිලෝවක් නිෂ්පාදන‍ය කිරිමට යන වියදම සැලකිල්ලට ගනිමින් මෙවර යල කන්නයේ වී කිලෝවක් සඳහා රුපියල් 150 ක සහතික මිලක් රජය මගින් ජනාධිපතිවරණයට පෙර නියම නොකළොත් , පොළොන්නරුව ඇතුළු මහවැලි බි කළාපයේ ගොවි ජනතාව දැවැන්ත ගොවිජන අරගලයක් ක්‍රියාත්මක කරන බව මහවැලි බි කලාපයේ සෙවණපිටිය කොට්ඨාශයේ ගොවි සංවිධාන 21 ක නියෝජිතයින්  29 වෙනිදා පෙරවරුවේ සෙවනපිටිය වෙල් යායේ දී මාධ්‍ය සාකච්ඡාවක් පවත්වමින් සඳහන් කළහ.
+
+මේ වනවිට යල කන්නයේ වී  අස්වනු නෙළෙමින් පවතින අතර පොළොන්නරුව  දිස්ත්‍රික්කයේ පෞද්ගලික  වී මෝල් හිමියන් තමන්ගේ වී අ ස්වනු තුට්ටු දෙකට ලබා ගනිමින් පවතින බවත් කිසිදු ස්ථානයක රජය මගින් වී මිලදී ගැනීමේ වැඩපිළිවෙළක් ක්‍රියාත්මක නොකරන බවත් , වහාම රජය මැදිහත් වි ගොවියාගේ වී අස්වනු සහතික මිලකට හෝ සාධාරණ මිලකට වී ලබා ගැනීමෙ වැඩපිළිවෙළක් ක්‍රියාත්මක කරන ලෙසද මෙහිදී සංවිධාන නියෝජිතයින් රජයෙන් ඉල්ලීමක් කළහ.
+
+මහවැලි බි කලාපයේ සෙවණපිටිය කොට්ඨාශ ගොවි සංවිධාන සභාපති, අසංක සංජීව මහතා මෙම මාධ්‍ය හමුව සංවිධාන කර තිබු අතර මෙම අවස්ථාවට ගොවි සංවිධාන 21 ක නියෝජිතයන්  පැමිණ අදහස් දැක්වූහ.
+
+...
+
+[Data](articles/8aeb067c.json)
 
 ---
 
@@ -1848,21 +1890,29 @@ He said that if the country's responsibility to bear responsibility, the respons
 
 ---
 
-### மத்தியில் கடும் மந்த போசனம்
+### In the middle
 
 *2024-07-29 11:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்தியில்-கடும்-மந்த-போசனம்/175-341205) · `ta`
 
-மத்திய மாகாணத்தில் கண்டி மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களில் ஐந்து வயதுக்குட்பட்ட 2,142 சிறுவர்கள் கடுமையான போசாக்கின்மையால் பாதிக்கப்பட்டுள்ளதாக மாகாண சுகாதார சேவைகள் திணைக்களம் தெரிவித்துள்ளது.
+In the Central Province, 2,142 children under five suffer severe nutrition issues, with 15,920 having moderate nutrition problems and 27,812 being malnourished. The highest numbers are in Nuwara Eliya district, followed by Kandy and Matale districts.
 
-2023ஆம் ஆண்டுடன் மத்திய மாகாணத்தில் நிலவும் போசாக்கின்மை நிலைமை தொடர்பில் 2016 ஆம் ஆண்டு 12 ஆம் இலக்க தகவல் அணுகல் சட்டத்தின் பிரகாரம் மாகாண சுகாதார திணைக்களம் விடுத்துள்ள தகவலுக்கான கோரிக்கைக்கு வழங்கப்பட்ட தகவலில் இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-மத்திய மாகாண சுகாதார சேவைகள் திணைக்களம் வழங்கிய தகவலின் படி, மாகாணத்தில் ஐந்து வயதுக்குட்பட்ட 2142 சிறுவர்கள் கடுமையான போசாக்கின்மையால் பாதிக்கப்பட்டுள்ளனர், 15,920 குழந்தைகள் மிதமான போசாக்கின்மையால் பாதிக்கப்பட்டுள்ளனர் மற்றும் 27,812 ஊட்டச்சத்து குறைபாடுள்ள குழந்தைகள் அதே தகவலில் அடையாளம் காணப்பட்டுள்ளனர்.
+The Provincial Health Services Department said that 2,142 children under the age of five in the Matale and Nuwara Eliya districts in the Central Province have been affected by severe nutrition.
 
-கண்டி மாவட்டத்தில் 970 சிறுவர்களும், மாத்தளை மாவட்டத்தில் 461 குழந்தைகளும், நுவரெலியா மாவட்டத்தில் 711 குழந்தைகளும் இனங்காணப்பட்டுள்ளனர்.
+According to the request issued by the Provincial Health Department in accordance with the Information Access Act No. 12 of the Central Province by 2023, the state of affairs in the Central Province.
+
+According to information provided by the Department of Health Services, the Department of Health Services, 2142 children under the age of five are suffering from severe nutrition, 15,920 children are infected with moderate nutrition and 27,812 malnourished children have been identified in the same information.
+
+970 children in Kandy district, 461 children in Matale district and 711 children in Nuwara Eliya district.
+
+7626 in Kandy district, 3716 in Matale district and 4588 in Nuwara Eliya district. 11,044 in Kandy district, 4051 in Matale district and 12,717 in Nuwara Eliya district have been identified.
 
 ...
 
 [Data](articles/9fb542db.json)
+
+[Extended Data](ext_articles/9fb542db.ext.json)
 
 ---
 
@@ -2209,53 +2259,5 @@ Meanwhile, President Ranil Wickremesinghe is due to announce the election as an 
 [Data](articles/537a8c4d.json)
 
 [Extended Data](ext_articles/537a8c4d.ext.json)
-
----
-
-### Peramuna's presidential candidate?
-
-*2024-07-29 10:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரமுனவின்-ஜனாதிபதி-வேட்பாளர்/175-341198) · `ta`
-
-Sagala Kariyawasam, the General Secretary of the Sri Lanka People's Party (PA), announced that the party's presidential candidate would be chosen at a political committee meeting. This comes after a meeting between President Ranil Wickremesinghe and the PA founder. Despite previous non-compliant meetings, Wickremesinghe plans to run as an independent candidate.
-
-🟩
-
-The General Secretary of the party, Sagala Kariyawasam, said that the decision on the Sri Lanka PA's candidate will be decided at the political committee meeting today.
-
-A meeting was held yesterday between President Ranil Wickremesinghe and the founder of the Sri Lanka PA.
-
-Prior to this, many such meetings had been completed without compliance.
-
-Meanwhile, President Ranil Wickremesinghe is due to announce the election as an independent candidate.. Remble
-
-◼️
-
-[Data](articles/d69d7c14.json)
-
-[Extended Data](ext_articles/d69d7c14.ext.json)
-
----
-
-### Maduro wins third term, Venezuela electoral authority says, despite exit polls
-
-*2024-07-29 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/100850/maduro-wins-third-term-venezuela-electoral-authority-says-despite-exit-polls) · `en`
-
-Venezuelan President Nicolas Maduro has won a third term with 51% of the vote, the country’s electoral authority said just after midnight on Monday, with 80% of ballot boxes counted.
-
-The result announced by the authority came despite multiple exit polls which pointed to an opposition win.
-
-The authority said opposition candidate Edmundo Gonzalez won 44% of the vote, though the opposition had earlier said it had “reasons to celebrate” and asked supporters to continue monitoring vote counts.
-
-“The results cannot be hidden. The country has peacefully chosen a change,” Gonzalez said in a post on X at around 11 p.m. local time, before the results were announced.
-
-Opposition leader Maria Corina Machado reiterated a call for the country’s military to uphold the results of the vote.
-
-“A message for the military. The people of Venezuela have spoken: they don’t want Maduro,” she said earlier on X. “It is time to put yourselves on the right side of history. You have a chance and it’s now.”
-
-...
-
-[Data](articles/61183692.json)
-
-[Extended Data](ext_articles/61183692.ext.json)
 
 ---

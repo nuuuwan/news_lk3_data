@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 23:05:41**
+As of **2024-07-29 23:20:42**
 
 ## Newspaper Stats
 
-*Scraped **37,937** Articles*
+*Scraped **37,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,170
 economynextcom | 2,273
 dailyftlk | 2,416
 adalk | 3,465
-adaderanalk | 4,395
+adaderanalk | 4,396
 tamilmirrorlk | 4,696
 dailymirrorlk | 4,733
 virakesarilk | 5,987
@@ -26,11 +26,29 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,932 (100.0%) of 37,937 articles have been extended.
+37,937 (100.0%) of 37,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### Weather advisory issued for heavy rains
+
+*2024-07-29 22:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/100867/weather-advisory-issued-for-heavy-rains) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for heavy rain for the Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+The prevailing rainy condition is expected to continue in the southwestern part of the island due to the active south-west monsoon, according to the advisory, which is valid until 9.00 a.m. tomorrow (30).
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Strong winds of about 50-55 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and Northwestern provinces and in Trincomalee, Monaragala and Hambantota districts, it further said.
+
+◼️
+
+[Data](articles/060704fe.json)
+
+---
 
 ### Sri Lanka Women’s team awarded USD 500,000 after maiden Asia Cup title
 
@@ -47,6 +65,8 @@ With the win, Sri Lanka not only secured the championship but also marked a sign
 ◼️
 
 [Data](articles/e1bbf05b.json)
+
+[Extended Data](ext_articles/e1bbf05b.ext.json)
 
 ---
 
@@ -78,23 +98,31 @@ They have decided to support Ranil Wickremesinghe in the next presidential elect
 
 ---
 
-### “ரணில் செய்தது மிகப்பெரிய தவறு” பஷில் அதிரடி
+### “Ranil is the biggest mistake”
 
 *2024-07-29 22:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-செய்தது-மிகப்பெரிய-தவறு-பஷில்-அதிரடி/175-341238) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க சுயாதீன வேட்பாளராக போட்டியிடுவதாக அறிவித்துள்ளமை முற்றிலும் தவறானது என பொதுஜன பெரமுனவின் ஸ்தாபகர் பஷில் ராஜபக்ஷ தெரிவித்தார்.
+Basil Rajapakse criticizes President Ranil Wickremesinghe's decision to run as an independent candidate, calling it a mistake. The PA's executive committee, led by former President Mahinda Rajapakse, was set to decide the presidential candidate. There's disagreement within the party over whether Wickremesinghe or another member should be the candidate. The PA feels neglected by Wickremesinghe, who they claim prioritized strengthening the UNP over the PA, leading to internal dissatisfaction.
 
-ஜனாதிபதி வேட்பாளர் குறித்து இறுதித் தீர்மானத்தை எடுப்பதற்காக பொதுஜன பெரமுனவின் நிறைவேற்று குழு அக்கட்சியின் தலைவரும்,முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தலைமையில் கூடியது.
+🟩
 
-ஜனாதிபதித் தேர்தலில் பொதுஜன பெரமுனவின் உறுப்பினர் ஒருவரை களமிறக்குதல் தொடர்பிலும், ஜனாதிபதி ரணில் விக்கிரமசிங்கவை வேட்பாளராக களமிறக்குவது தொடர்பிலும் இதன்போது அவதானம் செலுத்தப்பட்டுள்ளது.
+Basil Rajapakse, the founder of the PA, said that the announcement of President Ranil Wickremesinghe's contesting as an independent candidate was completely wrong.
 
-ரணில் விக்கிரமசிங்கவை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று ஒரு தரப்பினரும், கட்சியின் உறுப்பினரை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று பிறிதொரு தரப்பினரும் தமது நிலைப்பாட்டை குறிப்பிட்டுள்ளனர்.
+The executive committee of the PA was chaired by former President Mahinda Rajapakse to take a final decision on the presidential candidate.
 
-ஜனாதிபதி வேட்பாளர் விவகாரம் குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் பேச்சுவார்த்தையில் ஈடுபட்டுக் கொண்டிருந்த நிலையில் அவர் சுயாதீன வேட்பாளராக போட்டியிடுவதாக அறிவித்துள்ளமை முற்றிலும் தவறானது.
+It has been paid attention to a member of the PA in the presidential election and the candidature of President Ranil Wickremesinghe as the candidate.
+
+One party has stated that Ranil Wickremesinghe should be fielded as presidential candidate and another party should field a member of the party as the presidential candidate.
+
+It is absolutely wrong to announce that he is contesting as an independent candidate as he is in talks with President Ranil Wickremesinghe on the issue of the presidential candidate.
+
+We supported President Ranil Wickremesinghe in 2022 without any conditions. But for the past 2 years, he has not given priority to the PA's party.
 
 ...
 
 [Data](articles/d964319c.json)
+
+[Extended Data](ext_articles/d964319c.ext.json)
 
 ---
 
@@ -140,23 +168,33 @@ Sri Lanka won the Sri Lankan squad for the first time in the history of Chamari 
 
 ---
 
-### பொதுஜன பெரமுன சார்பில் வேட்பாளரை களமிறங்குவதற்கு எதிராக வாக்களித்த 11 எம்.பி.க்கள்
+### 11 MPs who voted against the candidate on behalf of the PA
 
 *2024-07-29 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189742) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவின் தலைமையில் திங்கட்கிழமை (29) இடம்பெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் குழு கூட்டத்தில் 16 பாராளுமன்ற உறுப்பினர்கள் மாத்திரமே பங்கு பெற்று இருந்ததாக கட்சி தகவல்கள் தெரிவிக்கின்றன.
+In a Sri Lanka PA political committee meeting chaired by ex-President Mahinda Rajapaksa, 11 out of 16 MPs opposed a proposed candidate. The meeting saw various representatives, including a former member's daughter, but the focus remains on Dhammika Perera, set to be named the General Jana Perera candidate despite opposition.
 
-இம்முறை ஜனாதிபதி தேர்தலில் பொதுஜன பெரமுன சார்பில் வேட்பாளர் ஒருவர் களமிறக்கப்பட வேண்டும் என்ற யோசனை கட்சியின் பொதுச் செயலாளர் சாகர காரியவசம் அரசியல் குழு கூட்டத்தில் முன்வைத்துள்ளார்.
+🟩
 
-எவ்வாறு இருப்பினும் பொதுச் செயலாளரால் முன்வைக்கப்பட்ட இந்த யோசனைக்கு கூட்டத்தில் கலந்து கொண்டிருந்த 16 பாராளுமன்ற உறுப்பினர்களில் 11 உறுப்பினர்கள் எதிராக வாக்களித்துள்ளனர்.
+Party sources say that only 16 MPs participated in the Sri Lanka PA's political committee meeting chaired by former President Mahinda Rajapaksa on Monday (29).
 
-கட்சித் தகவல்களின்படி குறித்த பாராளுமன்ற உறுப்பினர்கள் 16 பேரைத் தவிர ஏனையோர் வெவ்வேறு அமைப்புகளை பிரதிநிதித்துவப்படுத்துபவர்கள் என தெரிய வருகிறது.
+The general secretary of the party, Sakara Kariyawasam, presented the idea that a candidate should be fielded on behalf of the PA.
 
-பொதுஜன பெரமுனவின் அரசியல் குழு உறுப்பினர் அல்லாத மகர பிரதேச சபையின் முன்னாள் உறுப்பினர் ஒருவரின் மகள் கூட இந்த கூட்டத்தில் கலந்து கொண்டிருந்ததாக தகவல்கள் தெரிவிக்கின்றன.
+However, the idea, which was put forward by the General Secretary, voted against 11 members of the 16 MPs who attended the meeting.
+
+According to party information, it is reported that the MPs are representing different organizations except 16 MPs.
+
+According to reports, even the daughter of a former member of the PA had attended the meeting.
+
+However, as the name of Dhammika Perera will be announced as the candidate of the General Jana Perera, his name is not significant.
+
+Former President Mahinda Rajapakse said that this is the party's decision and that everyone should accept it.
 
 ...
 
 [Data](articles/e4f79809.json)
+
+[Extended Data](ext_articles/e4f79809.ext.json)
 
 ---
 
@@ -206,21 +244,27 @@ Meanwhile, it is reported that the candidate presented by the Sri Lanka Civil Fr
 
 ---
 
-### ரஷ்யாவில் ரயில் விபத்து : நூற்றுக்கும் அதிகமானோர் காயம்!
+### Train accident in Russia: More than one hundred people injured!
 
 *2024-07-29 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189740) · `ta`
 
-ரஷ்யாவின் தென்பகுதியில் பயணிகள் ரயில் ஒன்று கனரக வாகனத்தின் மீது மோதி விபத்துக்குள்ளானதில் சுமார் 140 பேர் காயமடைந்துள்ளனர்.
+In a tragic accident in southern Russia, over 140 passengers were injured after a train collided with a heavy vehicle. The crash involved 800 passengers; 30, including 15 children, were hospitalized. Seven train compartments were derailed, and rescue efforts are ongoing.
 
-கனரக வாகனம் தண்டவாளத்தைக் கடக்கும்போது இந்த விபத்து நேர்ந்துள்ளதாக வெளிநாட்டு செ்ய்திகள் தெரிவிக்கின்றன.
+🟩
 
-விபத்தின்போது ரயிலில் 800 பயணிகள் இருந்துள்ள நிலையில், சுமார் 140 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. காயமடைந்தவர்களில் 15 குழந்தைகள் உட்பட 30 பேர் வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளனர்.
+About 140 people were injured when a passenger train crashed into a heavy vehicle in the south of Russia.
 
-ரயிலின் 7 பெட்டிகள் தடம் புரண்டுள்ள நிலையில், மீட்புப் பணிகள் இடம்பெற்று வருகின்றன.
+Foreign exchange reports that the accident occurred when a heavy vehicle crossed the rails.
+
+About 140 people were injured when there were 800 passengers on the train during the accident. Of the injured, 30 people, including 15 children, have been admitted to the hospital for treatment.
+
+With 7 compartments of the train derailed, rescue operations are underway.
 
 ◼️
 
 [Data](articles/396bd74b.json)
+
+[Extended Data](ext_articles/396bd74b.ext.json)
 
 ---
 
@@ -276,19 +320,29 @@ Meanwhile, All Ceylon Public Congress leader Rishad Bathiudeen stated in a publi
 
 ---
 
-### ஜனாதிபதி ரணில் சுயாதீன வேட்பாளராக போட்டியிடுவதாக அறிவித்துள்ளமை முற்றிலும் தவறானது - பஷில்
+### The announcement that President Ranil is contesting as an independent candidate is completely false - Bashil
 
 *2024-07-29 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189738) · `ta`
 
-ஜனாதிபதி வேட்பாளர் விவகாரம் குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் பேச்சுவார்த்தையில் ஈடுபட்டுக் கொண்டிருந்த நிலையில் அவர் சுயாதீன வேட்பாளராக போட்டியிடுவதாக அறிவித்துள்ளமை முற்றிலும் தவறானது என பொதுஜன பெரமுனவின் ஸ்தாபகர் பஷில் ராஜபக்ஷ தெரிவித்தார்.
+Basil Rajapaksa denies contesting independently, contradicting reports. UPFA won't back President Ranil Wickremesinghe in 2024 elections. Senior PA members oppose his candidacy. A PA member is considering running, despite internal disagreements and lack of support from the executive committee. The PA's founder, Basil Rajapaksa, confirms discussions with Wickremesinghe but insists he's not running independently.
 
-2024 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் சுயாதீன வேட்பாளராக போட்டியிடவுள்ள ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்க போவதில்லை என மஹிந்த ராஜபக்ஷ தலைமையிலான ஸ்ரீ லங்கா பொதுஜன பெரமுன திட்டவட்டமாக தீர்மானம் எடுத்துள்ளது.
+🟩
 
-கட்சியின் நிறைவேற்றுக் குழு மட்டத்தில் எடுக்கப்பட்ட தீர்மானத்துக்கு எதிராக செயற்படும் தரப்பினருக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுப்பதற்கு முன்வைக்கப்பட்ட யோசனை ஏகமனதாக நிறைவேற்றப்பட்டுள்ளது.வேட்பாளர் யார் என்பதை இவ்வாரத்துக்குள் நாட்டு மக்களுக்கு அறிவிப்பதற்கு இதன்போது தீர்மானம் எடுக்கப்பட்டுள்ளது.
+The founder of the PA is completely false, with the announcement that he is contesting as an independent candidate as he is in talks with President Ranil Wickremesinghe on the presidential issue.
+
+The Sri Lanka Peoples Freedom Alliance (UPFA) led by Mahinda Rajapaksa has decided not to support President Ranil Wickremesinghe, who will contest the 2024 presidential election.
+
+The proposal to take disciplinary action against the parties against the party's executive committee level has been unanimously passed.
+
+Most of the party's senior members, including Prasanna Ranatunga and Mahindananda Aluthgamage, have expressed fierce opposition following the proposal of President Ranil Wickremesinghe.
+
+The executive committee of the PA was chaired by former President Mahinda Rajapakse to take a final decision on the presidential candidate.
 
 ...
 
 [Data](articles/7705ec1e.json)
+
+[Extended Data](ext_articles/7705ec1e.ext.json)
 
 ---
 
@@ -2265,25 +2319,5 @@ When a struggle was fallen when he was struggling, he would be afraid of a presi
 [Data](articles/ebfe8559.json)
 
 [Extended Data](ext_articles/ebfe8559.ext.json)
-
----
-
-### Wijeyadasa Rajapakshe resigns as Justice Minister
-
-*2024-07-29 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100853/wijeyadasa-rajapakshe-resigns-as-justice-minister) · `en`
-
-Minister of Justice, Prisons Affairs and Constitutional Reforms Wijeyadasa Rajapakshe has stepped down from his ministerial position.
-
-Rajapakshe announced this decision while speaking at a press conference being held in Colombo today (29).
-
-Dr. Rajapakshe says he will step down from his ministerial position, to run for the Office of President in the upcoming election.
-
-Commenting further, he said: “I have stated that I am not running for the Presidential Election from the Sri Lanka Podujana Peramuna (SLPP), but another alliance. No one who is contesting from the SLPP in the Cabinet has come forward yet…Then we both are running for the presidency from other political parties. The President also asked me regarding the matter. Accordingly, I decided to step down from the ministerial position to contest for the upcoming Presidential Election.”
-
-◼️
-
-[Data](articles/f69e0ec6.json)
-
-[Extended Data](ext_articles/f69e0ec6.ext.json)
 
 ---

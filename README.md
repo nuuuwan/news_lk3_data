@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 14:36:07**
+As of **2024-07-29 14:55:07**
 
 ## Newspaper Stats
 
-*Scraped **37,848** Articles*
+*Scraped **37,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ dbsjeyarajcom | 330
 colombotelegraphcom | 360
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,168
+islandlk | 2,169
 economynextcom | 2,267
 dailyftlk | 2,416
 adalk | 3,451
 adaderanalk | 4,385
-tamilmirrorlk | 4,683
+tamilmirrorlk | 4,685
 dailymirrorlk | 4,733
 virakesarilk | 5,961
 adaderanasinhalalk | 6,366
@@ -26,11 +26,43 @@ adaderanasinhalalk | 6,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,846 (100.0%) of 37,848 articles have been extended.
+37,848 (100.0%) of 37,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### வி.ஐ.பி பாதுகாப்புக்கு 583 கோடி ரூபாய் செலவு
+
+*2024-07-29 14:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வி-ஐ-பி-பாதுகாப்புக்கு-583-கோடி-ரூபாய்-செலவு/175-341219) · `ta`
+
+அமைச்சர்கள், ஆளுநர்கள் மற்றும் மதத் தலைவர்கள் உள்ளிட்ட முக்கிய பிரமுகர்கள் பாதுகாப்புக்கு  பயன்படுத்தப்படும் அதி முக்கிய பிரமுகர்கள் பாதுகாப்புக்கு ( விஐபி) கடந்த ஆண்டு 583 கோடி ரூபாய்க்கு மேல் செலவிடப்பட்டுள்ளது என தேசிய கணக்காய்வு அலுவலகம் வெளியிட்டுள்ள சமீபத்திய அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அறிக்கையின்படி, 2018 முதல் 2022 வரையிலான காலகட்டத்தில் உயரடுக்கு மெய்க்காப்பாளர்களுக்கு ஆண்டு சராசரி செலவு 434 கோடி ரூபாயாகும்.
+
+எனவே, விஐபிகளின் பொலிஸ் மா அதிபர்களின் சுற்றறிக்கைக்கு வெளியே இணைக்கப்பட்டுள்ள அதிகாரிகளுக்கு வழங்கப்படும் சம்பளம் மற்றும் கொடுப்பனவுகள் செலவு குறைந்தது அல்ல என்பதை கணக்காய்வாளர்கள் அவதானித்துள்ளனர்.
+
+◼️
+
+[Data](articles/76c59cff.json)
+
+---
+
+### நாமலுக்கு எதிராக பந்துல முறைப்பாடு
+
+*2024-07-29 14:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுக்கு-எதிராக-பந்துல-முறைப்பாடு/175-341218) · `ta`
+
+பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவுக்கு எதிராக அமைச்சர் பந்துல குணவர்தன முறைப்பாடு செய்துள்ளார் என பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+அமைச்சர் பந்துல குணவர்தனவிற்கு எவ்வித அறிவித்தலும் வழங்காமல் ஹோமாகம பொதுஜன பெரமுன கூட்டத்தை ஏற்பாடு செய்தமைக்கு பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷவுக்கு எதிராக பந்துல குணவர்தன ஹோமாகம பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+இங்கு இது போன்ற விஷயங்களில் பொலிஸார் நடவடிக்கை எடுக்க முடியாது என பொலிஸார் கூறியுள்ளனர்.
+
+◼️
+
+[Data](articles/be79a76d.json)
+
+---
 
 ### People’s Struggle Movement announces its presidential candidate
 
@@ -43,6 +75,8 @@ This was communicated during a media briefing held today (29).
 ◼️
 
 [Data](articles/8165b096.json)
+
+[Extended Data](ext_articles/8165b096.ext.json)
 
 ---
 
@@ -208,15 +242,21 @@ Good times don't open two mega bottles. My nose should be closed if you open.
 
 ---
 
-### ඇමති විජයදාස රාජපක්ෂ ඉල්ලා අස්වෙයි
+### Minister Wijayadasa Rajapaksa resigns
 
 *2024-07-29 13:24:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජයදාස-රාජපක්ෂ-ඉල්ලා-අස්වෙයි/11-411069) · `si`
 
-අධිකරණ, බන්ධනාගාර කටයුතු සහ ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ  අමාත්‍ය විජයදාස රාජපක්‍ෂ මහතා එම අමාත්‍ය ධූරයෙන් ඉල්ලා අස්විමට තිරණය කර තිබේ. ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වීම සදඟා ඔහු මෙසේ සිය අමාත්‍ය ධූරයෙන් ඉල්ලා අස්වී තිබේ.
+Wijayadasa Rajapaksa, Sri Lanka's Minister of Justice and Constitutional Reforms, resigns to run in the upcoming presidential election.
+
+🟩
+
+Wijayadasa Rajapaksa, Minister of Justice and Constitutional Reforms, Vijayadasa has decided to resign from the post. He has resigned from his portfolio to contest the next presidential election.
 
 ◼️
 
 [Data](articles/488a1738.json)
+
+[Extended Data](ext_articles/488a1738.ext.json)
 
 ---
 
@@ -457,6 +497,20 @@ The Ecuador, Panama, Costau, Costau, Costau, Costau, Costau, Costau, Costau, Gav
 [Data](articles/caff3246.json)
 
 [Extended Data](ext_articles/caff3246.ext.json)
+
+---
+
+### The developing picture as elections approach
+
+*2024-07-29 11:36:00* · [`islandlk`](http://island.lk/the-developing-picture-as-elections-approach/) · `en`
+
+There’s a political poster that’s been splashed on the walls of Colombo. Black letters on a yellow background mean that the author or the party cannot be identified. It is obviously a teaser campaign. It comes with a promise, which of course is the bread and butter of all politicians. Apparently, ‘the lie will come to an end,’ and on the 29th, the name of the messiah who will take all Sri Lankans to some yet-to-be-named promised land will be revealed.
+
+This is the season for that kind of thing, so the timing is not bad at all. After all, people are talking about elections these days. They are wondering if elections will be held soon and, if so, whether it would be a presidential or parliamentary election. They talk about candidates, those who have announced their intentions and those who might very soon.
+
+...
+
+[Data](articles/40e501a3.json)
 
 ---
 
@@ -2163,75 +2217,5 @@ Sri Lanka women won their first-ever Women’s Asia Cup title as they beat seven
 [Data](articles/788f24cc.json)
 
 [Extended Data](ext_articles/788f24cc.ext.json)
-
----
-
-### 2nd T20: Sri Lanka 161 - 9 wig.
-
-*2024-07-28 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/189639) · `ta`
-
-In the second T20 match between Sri Lanka and India in Pallekele, Sri Lanka made 161/9 in 20 overs. Gunasena Perera led with 54 runs, followed by Bhanuka Rajapaksa with 32, Kamil Mishara with 26, captain Dasun Shanaka with 14, Ramesh Mendis with 12, and Gihan Mendis with 10. Indian bowlers Ravindra Jadeja (3/26), Axar Patel and Arshdeep Singh (2/24 each) were the standout performers.
-
-🟩
-
-Sri Lanka scored 161 runs for the loss of 9 wickets in their 20 overs, scoring the first international T20 cricket match between Sri Lanka and India in Pallekel.
-
-Gusal Perera scored 54 runs, Betham Nissank 32, Kamundu Mendis 26 runs, team captain Sarid Asalanka 14, Ramesh Mendis 12 and Gusal Mendis 10.
-
-Ravi Finnoi took 3 wickets for 26 runs, Akshar Patel Arshdeep Singh took 2 wickets for 24 runs while Hardik Pandya took 2 wickets for 24 runs.
-
-◼️
-
-[Data](articles/839c9cd2.json)
-
-[Extended Data](ext_articles/839c9cd2.ext.json)
-
----
-
-### India target 162 runs
-
-*2024-07-28 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199312) · `si`
-
-In the second T20 match, Sri Lanka batted first and scored 161 runs losing 9 wickets. India, winning the toss, aimed for 162 runs but fell short, indicating a close contest despite the final outcome.
-
-🟩
-
-Sri Lanka batting first in the second 20th and Twenty Twenty Twenty Twenty20 scored 161 runs for the loss of 9 cities.
-
-The Indian team won the toss and decided to win the tournament.
-
-◼️
-
-[Data](articles/d03bc6d2.json)
-
-[Extended Data](ext_articles/d03bc6d2.ext.json)
-
----
-
-### Sri Lanka
-
-*2024-07-28 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189638) · `ta`
-
-At the Paris 2024 Olympics, Sri Lankan player Viran Netasinghe lost in the first round of the Patminton Tournament against Malaysia's Xi Jia Lee, despite playing well in the first set. Ranked 70th globally, this marked his debut at the Olympics. He faces Spain's Pablo Afian next.
-
-🟩
-
-Sri Lankan player Viran Netasinghe lost two straight sets in the first round of the Patminton Tournament at the Paris 2024 Olympic Games in France.
-
-The men's singles tournament for the Zee Group was held on Sunday (28) at the Paris La Zeppe Erina Hall No. 3.
-
-For the first time at the Olympic Games, Viran Neetasinghe, who is ranked 70th in the world rankings for the single -ranked world rankings, opposed Malaysia's Xi Jia Lee, who is in the world rankings.
-
-Viran Netasinghe, who played effectively in the first set, lost 14 - 21. Viran lost 12 - 21 in the second set.
-
-In his 2nd match for the group, Viran Netasinghe will oppose Spain player Pablo Afian on Tuesday 30th.
-
-For the first time at the Olympic Games, Viran said that he was satisfied with his efficient play in this competition.
-
-◼️
-
-[Data](articles/d3be53a0.json)
-
-[Extended Data](ext_articles/d3be53a0.ext.json)
 
 ---

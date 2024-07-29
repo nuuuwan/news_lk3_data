@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 20:20:31**
+As of **2024-07-29 20:55:24**
 
 ## Newspaper Stats
 
-*Scraped **37,920** Articles*
+*Scraped **37,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,82 +15,154 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,273
 dailyftlk | 2,416
-adalk | 3,461
+adalk | 3,463
 adaderanalk | 4,393
 tamilmirrorlk | 4,694
 dailymirrorlk | 4,733
 virakesarilk | 5,984
-adaderanasinhalalk | 6,378
+adaderanasinhalalk | 6,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,910 (100.0%) of 37,920 articles have been extended.
+37,922 (100.0%) of 37,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### පොලිස් වෙසින් කතුන් කොල්ලකා ලිංගික අතවර කළ හිටපු සෙබළා
+### The underworld on the Pigeon Island
+
+*2024-07-29 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199345) · `si`
+
+Pigeon Island, known for attracting both local and international tourists, faces issues with outdated boat and swimming equipment despite receiving significant funding. Tourist guides charge extra fees but provide subpar services, leading to dissatisfaction among tourists. Unfortunately, this has resulted in violent attacks on tourists by disgruntled guides. Authorities must intervene to improve tourism standards and ensure safety.
+
+🟩
+
+In such a situation, Ada Derana island has reported about a group of internatively internationally highly focused groups.
+
+A large number of local and foreign tourists visit the Pigeon Island, Trincomalee, who won the tourist attraction.
+
+Today, Ada Derana Ukza has revealed that the tourism staff on tour guides and the tourism staff on the tourpators and the tourism staff on Prainey island.
+
+The Pigeon Islands had received Rs.
+
+Despite such a large sum, they had a dilapidated equipment for boat and swimming.
+
+Tourist guides have been said to pay an additional cost of Rs. 12,000.
+
+It is said that the instruments were damaged and killed.
+
+However, with the refusal of the tourists, a group of tourist guides and a group of tourist guides have been brutally attacked the tourists.
+
+It is regrettable that if the tourists attached to the tourism time to uplift the tourism.
+
+Accordingly Derana, until the authorities intervened and taken steps to take action against such incidents.
+
+◼️
+
+[Data](articles/40375dfa.json)
+
+[Extended Data](ext_articles/40375dfa.ext.json)
+
+---
+
+### Former soldier who sexually abused police workers
 
 *2024-07-29 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199344) · `si`
 
-පොලිස් නිලධාරියෙකු බවට හඟවා කාන්තාවන් බියගන්වා රන් ආභරණ සහ මුදල් කොල්ලකා ඔවුන්ව ලැඟුම්හල්වලට රැගෙන ගොස් ලිංගික අතවර සිදුකළ හිටපු යුද හමුදා සෙබළෙකු සහ ඊට අනුබල දුන් පුද්ගලයෙකු කැස්බෑව පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A former soldier turned police inspector in Sri Lanka allegedly abused female officers, impersonated law enforcement, and engaged in criminal activities including theft and sexual harassment. The suspect, identified through a three-wheeler linked to him, was arrested and found with stolen goods and false documents. His actions came to light when a victim reported the abuse to the Kesbewa Police, leading to a broader investigation.
 
-පොලීසිය පැවසුවේ, සැකකරු මියගිය පොලිස් නිලධාරියෙකුගේ ඡායාරූපයක් භාවිත කර ව්‍යාජ පොලිස් හැඳුනුම්පතක්ද සකස් කරගෙන තිබූ බවය.
+🟩
 
-පානදුර ප්‍රදේශයේ ප්‍රසිද්ධ ඇඟලුම්හලක සේවිකාවක් පසුගිය 14 වැනිදා සිය පෙම්වතා හමුවී නැවත නිවස වෙත පැමිණෙමින් සිටියදී ත්‍රිරෝද රථයකින් පැමිණි පුද්ගලයෙකු ඇයට පවසා ඇත්තේ එම ත්‍රිරෝද රථයෙන් නිවසට යා හැකි බවය.
+Trying into a police officer and arrested the women and boil the women and bound the Kesbawa Police and a person who had been sexually abused.
 
-ඒ අනුව, ඇය ත්‍රිරෝද රථයට ගොඩවී මද දුරක් ගමන් කරමින් සිටියදී එහි පසුපස අසුනේ සිටි පුද්ගලයා ඇයට පොලිස් හැඳුනුම්පතක් පෙන්වා තිබුණි.
+Police said that the suspect had also prepared a fake police person using a photo of a deceased police officer.
 
-එහිදී ඔහු ඇඟලුම් සේවිකාව බියවද්දවා ඇත්තේ, පොලිස් නිලධාරියෙකු වන තමා, ඇය අනාචාරයේ හැසිරෙන තැනැත්තියක් බවට සියලු තොරතුරු සොයාගත් බව පවසමිනි.
+A famous garment at a famous garment in Panadura had told her that a three-wheeler could go home from the three-wheeler.
+
+Accordingly, the person in the back on the back seat, showed her the rear seat while she was sentenced to a three-wheeler.
+
+He was a police officer, saying that he was discovered by a police officer into her adultery.
+
+The Ranmal, who was later taken to a supermarket and was forcibly removed from her atm card, and she had been taken to a location of the Piliyandala Road, Piliyandala.
+
+Thereafter, she had taken her to the city of Piliyandala and had been sent to another three-wheeler.
+
+The garment maid had lodged a complaint with the Kesbewa Police on the 15th of this month.
 
 ...
 
 [Data](articles/c2178426.json)
 
+[Extended Data](ext_articles/c2178426.ext.json)
+
 ---
 
-### එංගලන්තයේ පිහි ඇනුමක් - පොලීසිය ආරක්ෂාව තර කරයි
+### Knives in England - Police Strengthen Security
 
 *2024-07-29 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199343) · `si`
 
-එංගලන්තයේ ලිවර්පූල් හි සවුත්පෝර්ට් ප්‍රදේශයේ සිදුකළ පිහි ඇනුමකින් කිහිපදෙනෙක් තුවාල ලබා ඇති බව බීබීසී පුවත් සේවය වාර්තා කරයි.
+In Liverpool, several injuries occurred due to a stabbing incident in Southport. Witnesses described the suspect as running through the area, attacking victims.
 
-සිද්ධිය ඇසින් දුටු අයෙක් පවසා ඇත්තේ සැකකරු එහෙ මෙහෙ දුවමින් පිහියෙන් ඇන්න බවයි.
+🟩
+
+Several people were injured in a knife in the Southport area of ​​Liverpool, England.
+
+One who has heard the incident said the suspect runs there and stab.
 
 ◼️
 
 [Data](articles/f169d2b0.json)
 
+[Extended Data](ext_articles/f169d2b0.ext.json)
+
 ---
 
-### தேசபந்து தென்னகோன் பதவியை இராஜினாமா செய்ய கோரி பொலிஸ் தலைமையகத்தில் மகஜர்
+### Mahajar at police headquarters demanding resignation
 
 *2024-07-29 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189735) · `ta`
 
-தேசபந்து தென்னகோனுக்கு எதிராக உயர் நீதிமன்றம் விதித்துள்ள தடையுத்தரவுக்கு அமைய பொது மக்களின் வரிப்பணத்தை பயன்படுத்தி தொடர்ந்தும் அவரை பொலிஸ் திணைக்களத்தில் வைத்து போசிப்பதால் எந்த பயனும் கிடையாது எனவும் உடனடியாக அவர் தனது பதவியை இராஜினாமா செய்ய வேண்டும் என வலியுறுத்தியும் மக்கள் போராட்ட இயக்கத்தின் ஊடக ஒருங்கிணைப்பாளர் சந்துன் எஸ்.ராஜபக்ஷ உள்ளிட்ட தரப்பினர் திங்கட்கிழமை (29) பொலிஸ் தலைமையகத்தில் மகஜர் ஒன்றை கையளிக்க சென்றிருந்தனர்.
+Chandun S. Rajapaksa, Media Coordinator of the People's Movement, called for his own resignation on Monday. He was forcibly removed by police while attempting to lead a protest.
 
-அத்துடன் அப்பகுதியில் அவர்கள் எதிர்ப்பு ஆர்ப்பாட்டமொன்றை முன்னெடுக்க முற்பட்ட போது பொலிஸார் அதற்கு கடும் எதிர்ப்பை வெளிப்படுத்தியதுடன் அவரிடமிருந்த மகஜரையும் பொலிஸார் பலவந்தமாக பறித்தெடுத்தனர்.
+🟩
+
+The Media Coordinator of the People's Movement, Chandun S. Rajapaksa, on Monday (29), urged the people's struggle to resign from his post immediately.They had gone to hand over.
+
+In addition, the police expressed fierce opposition and forcibly seized the Mahajar from him as they sought to carry out a protest in the area.
 
 ◼️
 
 [Data](articles/1881e288.json)
 
+[Extended Data](ext_articles/1881e288.ext.json)
+
 ---
 
-### தபால் மூல வாக்களிப்பு : விண்ணப்பங்களை ஆகஸ்ட் 05 ஆம் திகதிக்கு முன்னர் சமர்ப்பித்தல் வேண்டும் - தேர்தல்கள் ஆணைக்குழு
+### Postal Voting: Applications must be submitted before 05 August - Elections Commission
 
 *2024-07-29 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189733) · `ta`
 
-தபால்மூல வாக்களிப்புக்கு தகுதி பெறும் வாக்காளர்கள் பூரணப்படுத்தப்பட்ட விண்ணப்பங்களை 2024.08.05 ஆம் திகதி அல்லது அதற்கு முன்னர் மாவட்ட தெரிவத்தாட்சி அலுவலரிடம் ஒப்படைத்தல் வேண்டும். நிச்சயிக்கப்பட்ட திகதிக்கு பின்னர் கிடைக்கப்பெறும் விண்ணப்பங்கள் மீள்பரிசீலனை இல்லாமல் இரத்து செய்யப்படும் என தேர்தல்கள் ஆணைக்குழு அறிவுறுத்தியுள்ளது.
+Submit postal voting applications by August 5th to the District Construction Officer. Eligible voters can obtain forms from the District Election Office. Applications received after this date will be canceled. Additional information is available on the Elections Commission's official website and at various government offices including Divisional Secretariat, Grama Niladhari, Government Administration, Provincial Councils, Local Government Ministry, Labor Department, Registrar's Department, Postal Headquarters, Fisheries and Water Resources Ministry, and Urban Development.
 
-2024 ஆம் ஆண்டு இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலுக்கு 2024 ஆம் ஆண்டுக்கான புதிய தேருநர் இடாப்பு (வாக்காளர் இடாப்பு) பயன்படுத்தப்படும்.தபால் மூல வாக்காளரின் நலனுக்காக நாடளாவிய ரீதியில் உள்ள சகல தேர்தல் தொகுதிகளுக்கு உரிய 2024 ஆம் ஆண்டு வாக்காளர் இடாப்பு 2024.07.26 ஆம் திகதி முதல் அலுவலக நேரத்தின் போது அனைத்து மாவட்ட செயலாளர் காரியாலயம்(கச்சேரி),பிரதேச செயலாளர் காரியாலயம்,கிராம சேவகர் அலுவலகத்தில் காட்சிப்படுத்தப்பட்டுள்ளன.
+🟩
+
+Voters who qualify for the postal voting must hand over the completed applications to the District Construction Officer on or before 2024.08.05.. The Elections Commission has advised that applications available after the date of engagement will be canceled without a reconstruction.
+
+The new Chairperson for 2024 will be used for the 2024 presidential election.The Divisional Secretariat Office, the Grama Niladhari Office has been displayed.
+
+In addition to the above mentioned places, the Government Administration and Provincial Councils, Local Government Ministry, Labor Department, Registrar's Department, Postal Headquarters, Fisheries and Water Resources Ministry and Urban Development can be obtained.
+
+Further information can be obtained through the official website of the Elections Commission.
+
+The application form that is required to be fulfilled for postal voting facilities can be obtained at the District Election Office.
 
 ...
 
 [Data](articles/d357d737.json)
+
+[Extended Data](ext_articles/d357d737.ext.json)
 
 ---
 
@@ -112,19 +184,53 @@ Issuing a statement, the Ministry mentioned that the Foreign Affairs State Minis
 
 ---
 
-### ஜனாதிபதித் தேர்தலில் சம்பிரதாய அரசியலில் ஈடுபட்டால் நாட்டில் மீண்டும் போர் ஏற்படுவதைத் தடுக்க முடியாது - வஜிர அபேவர்தன
+### A candidate for the presidential election
+
+*2024-07-29 18:50:17* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-පොහොට්ටුවෙන්-අපේක්ෂකයෙක්/11-411079) · `si`
+
+After a vote, the Front Political Council plans to announce its presidential candidate soon, despite opposition from six members of the current president's team.
+
+🟩
+
+The Front Political Council has decided to present a candidate for the next presidential election.
+
+The decision has been taken following the Board of Politburos assembly today.
+
+Only six members of the president have voted against the proposal to propose a candidate for the presidential election.
+
+The decision was taken up after a ballot in the political board.
+
+According to party sources, the party's candidate is ready to be published in the next few days.
+
+◼️
+
+[Data](articles/1cc94d21.json)
+
+[Extended Data](ext_articles/1cc94d21.ext.json)
+
+---
+
+### Vajira Abeywardena cannot prevent the war in the country in the presidential election
 
 *2024-07-29 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189729) · `ta`
 
-அடுத்த ஜனாதிபதித் தேர்தலில் சம்பிரதாய அரசியல் சித்தாந்தங்களை பின்பற்றினால் நாட்டில் மீண்டும் உள்நாட்டு யுத்தம் ஏற்படும் அபாயம் இருப்பதாகவும், அவ்வாறானதொரு நிலை ஏற்பட்டால் அதற்கு சம்பந்தப்பட்ட தரப்பினர் பொறுப்பேற்க வேண்டுமென பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன சுட்டிக்காட்டினார்.
+In a press conference, Parliamentarian Vajira Abeywardena warned of potential civil war risks if the upcoming presidential election leads to formal political ideologies. He criticized parties for misleading the public and urged unity around the national development program. Highlighting the importance of the Economic Transfer Act, he called for adherence to it and other key laws to avoid repeating past mistakes. Abeywardena emphasized the need for responsible politics, free from caste, religious, and political biases, and praised President Ranil Wickremesinghe's efforts to combat corruption and build the nation. He stressed that the upcoming election is crucial for the country's future, urging voters to use their ballots wisely to prevent further division.
 
-பாராளுமன்றத்தில் உள்ள 225 உறுப்பினர்களின் ஒருமித்த கருத்துடன் புதிய பொருளாதார பரிமாற்றச் சட்டம் நிறைவேற்றப்பட்ட போதிலும், சிலர் வெளியே வந்து மக்களை தவறாக வழிநடத்தும் வகையில்  கருத்துக்களை முன்வைப்பது வருந்தத்தக்கது எனவும், சம்பிரதாய பிளவுகளை ஒதுக்கிவிட்டு நாட்டைக் கட்டியெழுப்பும் தேசிய வேலைத்திட்டத்திற்கு அனைவரும் உடன்படுமாறும் வேண்டுகோள் விடுத்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (29) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன இதனைத் தெரிவித்தார்.
+Parliamentarian Vajira Abeywardena pointed out that if the next presidential election is followed by formal political ideologies, there is a risk of re -civil war in the country and that the parties involved should take responsibility in the event of such a situation.
+
+Although the new Economic Transfer Act was passed with the consensus of the 225 members in Parliament, it was regrettable to come out and mislead the people, and appealed to all to agree to the national program to build the country.
+
+Parliamentarian Vajira Abeywardena made this statement at a media briefing held at the Presidential Media Center on Monday (29).
+
+The upcoming presidential election on September 21 will be an important election for the country's 9th executive president.. At present, the older political parties are unable to continue their political campaign.
 
 ...
 
 [Data](articles/17410f37.json)
+
+[Extended Data](ext_articles/17410f37.ext.json)
 
 ---
 
@@ -147,6 +253,22 @@ However, Sri Lanka Muslim Congress leader Rauff Hakeem said, "Today
 [Data](articles/301a78e6.json)
 
 [Extended Data](ext_articles/301a78e6.ext.json)
+
+---
+
+### ජනපති හා අගමැති අතර මත ගැටුමක්
+
+*2024-07-29 18:28:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-අගමැති-අතර-මත-ගැටුමක්/11-411075) · `si`
+
+අධිකරණය සෘජුව හෝ වක්‍රව හෑල්ලුවට ලක් කරන පුද්ගලයන්ට විරුද්ධව සැප්.21න් පසු නීතිය ක්‍රියාත්මක කරවන බව ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි හිටපු සභාපති , මහාචාර්ය ජී.එල්. පීරිස් මහතා පැවසීය.
+
+ඔහු මේ බව සඳහන් කර සිටියේ කොළඹ දී අද (29දා) පැවති මාධ්‍ය හමුවකට එක් වෙමිනි.ඒ අනුව අධිකරණය හෑල්ලුවට ලක් කිරීම සඳහා කිසිවකුට ඉඩ නොතබන බව ඔහු අවධාරණය කළේය.
+
+ජනාධිපතිවරයා හා අගමැතිවරයා අතර මතගැටුමක් පවතින බවත්, ඒ අනුව රජය දෙබිඩි ප්‍රතිපත්තියක් අනුගමනය කරන බවත් ජී.එල්.පීරිස් මහතා පැවසීය.
+
+◼️
+
+[Data](articles/78daf5aa.json)
 
 ---
 
@@ -396,21 +518,31 @@ Foreign selling was seen in Chevron Lubricants Lanka Plc (down at 119.00), ACL P
 
 ---
 
-### நாம் மீட்புப் பெற வேண்டுமெனில் ஊழல் மிக்க ஆளும் கும்பலை விரட்டியடிக்க வேண்டும் - அநுரகுமார
+### In order to get the recovery, we must chase away the corrupt ruling gang - Anuragumara
 
 *2024-07-29 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189707) · `ta`
 
-நாங்கள் மீட்பு பெறவேண்டும். மீட்பு பெறவேண்டுமானால் முதலில் ஊழல் மிக்க, அழிவுமிக்க, தூரநோக்கற்ற ஆளும் கும்பலை விரட்டியடிக்க வேண்டும். எல்லாத்துறையிலும் வளமிக்க நாடொன்றை உருவாக்குவதே எமது நோக்கமாகும் : அநுர குமார திசாநாயக்க
+It appears you've shared a detailed narrative focusing on various aspects of economic and political discourse, particularly emphasizing the importance of transparency, accountability, and strategic planning in developing a nation's economy. This includes discussions on migration, professional assessments, budget allocations, and the role of foreign investment and natural resources in economic growth.
 
-தேசிய மக்கள் சக்தியின் வங்கி மற்றும் நிதி ஒன்றியத்தின் மாத்தறை மாவட்ட கருத்தரங்கு கடந்த 27 ஆம் திகதி வெள்ளிக்கிழமை மாத்தறை பர்ள் பெலஸ் ஹோட்டலில் இடம்பெற்றது.
 
-நாங்கள் நீண்ட காலமாக வாக்குகளை அளித்திருக்கிறோம். வாக்குகளை அளிக்கும்போது அரசாங்கமொன்றை அமைக்கும்போது பிரஜைகளிடம் நிலவிய எதிர்பார்ப்புகள் ஈடேறியுள்ளனவா? எமது நாட்டில் தோன்றியுள்ள பொருளாதார நெருக்கடியை நோக்கினாலும், அரச மற்றும் ஏனைய ஒவ்வொரு துறையிலும் தோன்றியுள்ள சீர்குலைவுகளை நோக்கினாலும் நிகழ்ந்திருப்பது முன்னேற்றமல்ல. பின்னடைவுதான்.
 
-நாங்கள் இந்த தலைவிதியிலிருந்து மீட்பு பெறவேண்டும். மீட்பு பெறவேண்டுமானால் முதலில் ஊழல் மிக்க, அழிவுமிக்க, தூரநோக்கற்ற ஆளும் கும்பலை விரட்டியடிக்க வேண்டும்.
+Given the complexity and breadth of the topics covered, could you please specify how I can assist you further? Are you looking for analysis, suggestions on specific points, or perhaps guidance on how to address certain issues within this narrative?
+
+🟩
+
+We need to get recovery. In order to get the recovery, you must first chase away corrupt, extinct, and far -reaching ruling gang. Our purpose is to create a prosperous country in all fields: Anura Kumara Dissanayake
+
+The Matara District Seminar of the National People's Power Bank and Finance Union was held on Friday, the 27th of this month at the Burl Bells Hotel, Matara.
+
+We have voted for a long time. Are there expectations for citizens when setting up a government when casting votes?It is not a progress in view of the economic crisis that has emerged in our country and the disorders of every state and other sectors.. The setback is.
+
+We need to get recovery from this fate. In order to get a rescue, you must first chase away corrupt, extinct and distant ruling gang.
 
 ...
 
 [Data](articles/5c22bd4a.json)
+
+[Extended Data](ext_articles/5c22bd4a.ext.json)
 
 ---
 
@@ -442,23 +574,33 @@ Manna Ramesh has been accused of extorting drug trafficking and murder centered 
 
 ---
 
-### வட, கிழக்கு மக்கள் ரணிலுக்கே ஆதரவு : எஸ்.பி.திஸாநாயக்க
+### North and East people support Ranil: SP Dissanayake
 
 *2024-07-29 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189710) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுன ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்காவிடின் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ ஜனாதிபதித் தேர்தலில் வெற்றிப் பெறுவார்.வடக்கு மற்றும் கிழக்கு மாகாண மக்கள் ஜனாதிபதிக்கே ஆதரவு வழங்குவார்கள் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.பி.திஸாநாயக்க தெரிவித்தார்.
+Support for Ranil Wickremesinghe is strong in the North and East, crucial for his potential victory over Sajith Premadasa in the upcoming presidential election. Senior PA members and constituents urge backing for Wickremesinghe, highlighting his popularity in these regions. A rivalry is anticipated between Wickremesinghe and Premadasa, with Wickremesinghe's support potentially deciding the election outcome.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் அல்லது அவருக்கு முழுமையான ஆதரவை வழங்க வேண்டும் என்று முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவிடம் பலமுறை எடுத்துரைத்துள்ளோம்.
+🟩
 
-கட்சியின் ஒரு தரப்பினர் மாத்திரமே கட்சியின் உறுப்பினரை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று குறிப்பிட்டுக் கொள்கிறார்கள்.
+Opposition Leader Sajith Premadasa will win the presidential election if Sri Lanka does not support Ranil Wickremesinghe.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் சிரேஷ்ட உறுப்பினர்கள் ஜனாதிபதிக்கு ஆதரவு வழங்க வேண்டும் என்ற நிலைப்பாட்டில் உறுதியாக உள்ளார்கள்.
+We have repeatedly told former President Mahinda Rajapakse that President Ranil Wickremesinghe should be fielded as the presidential candidate of the PA or his fullest support.
 
-அத்துடன் கட்சியின் தொகுதி அமைப்பாளர்களும் இதே நிலைப்பாட்டில் தான் உள்ளார்கள்.ஆகவே கட்சியின் பெரும்பான்மை நிலைப்பாட்டுக்கு மதிப்பளித்து சிறந்த தீர்மானம் எடுக்க வேண்டும் என்பதை வலியுறுத்தியுள்ளோம்.
+Only a party of the party points out that the party's member should be fielded as the presidential candidate.
+
+Senior members of the Sri Lanka PA are firm in the position that the president should support the president.
+
+The party's constituency organizers are also in the same position.
+
+Opposition leader Sajith Premadasa will win the election if President Ranil Wickremesinghe does not support PA.
+
+The people of the North and Eastern Province will support President Ranil Wickremesinghe in 2022.. Therefore, the PA should take the best decision.
 
 ...
 
 [Data](articles/d6c5c48f.json)
+
+[Extended Data](ext_articles/d6c5c48f.ext.json)
 
 ---
 
@@ -508,39 +650,51 @@ Sri Lanka Freedom Party (SLFP) Minister Mahinda Amaraweera, Lasantha Alagiyawann
 
 ---
 
-### இந்துக்கடவுள்களின் விக்கிரகங்கள் சேதமாக்கப்படுகின்றன- இலங்கையில் மத சிறுபான்மையினர் அரசாங்கத்தினால் இலக்குவைக்கப்படுகின்றனர் - சர்வதேசமனித உரிமை கண்காணிப்பகம்
+### Idols of Hinduism are damaged - religious minorities in Sri Lanka are targeted by government - International Human Rights Watch
 
 *2024-07-29 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189713) · `ta`
 
-இந்துக்கள் மற்றும் பிற சிறுபான்மையினர் வழிபாட்டுதலங்கள்  மற்றும் அது தொடர்பான பகுதிகளிற்கு செல்வதை தடுக்கும், மறுக்கும் நடவடிக்கைகளில் இலங்கை அதிகாரிகள் ஈடுபட்டுள்ளதாக குற்றம்சாட்டியுள்ள சர்வதேச மனித உரிமை கண்காணிப்பகம்,அவ்வாறான இடங்களை பௌத்தஸ்தலங்களாக ,பௌத்தர்களிற்கு உரிய பகுதிகளாக மாற்றுவதிலும் அரசாங்கம் ஈடுபடுகின்றது என தெரிவித்துள்ளது.
+International Human Rights Watch accuses Sri Lanka's government of targeting religious minorities, particularly Hindus, by damaging their idols and preventing worship. The report alleges that the military and police are involved in this strategy, promoting Sinhalese Buddhist settlements in areas predominantly inhabited by Tamils. This follows a history of conflict and suppression post-civil war, with officials and Buddhist clergy allegedly destroying Hindu sites, threatening, arresting, and denying worship permissions. The watch calls for international pressure to halt these actions.
 
-தொல்பொருள் திணைக்களம் உட்பட அரசஸ்தாபனங்கள் ,இராணுவம் ,பொலிஸார் இணைந்து மத சிறுபான்மையினத்தவர்களின் கலாச்சாரம் ,வழிபாடுகள் மீது தாக்குதல்களை மேற்கொள்ளும் ஒரு ஒருங்கிணைந்த மூலோபாயத்தை முன்னெடுக்கின்றனர் எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+🟩
 
-அவர்கள் தமிழர்கள் பெரும்பான்மையாக வாழும் வடக்குகிழக்கி;ல் சிங்களபௌத்த குடியேற்றங்களை ஊக்குவிக்கின்றனர்,இது பெரும்பான்மையான தமிழ் முஸ்லீம் மக்களின் சொத்து மற்றும் மதஉரிமை ஆகியவற்றிற்கு தீங்குவிளைவிப்பதாக காணப்படுகின்றது எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+The International Human Rights Watch, which has accused Sri Lankan authorities of preventing and refusing to go to the worship of Hindus and other minority, and the government is also involved in transforming such places into Buddhists and Buddhists.
+
+The International Human Rights Watch said that the military, including the Archaeological Department, the military and the police are carrying out an integrated strategy of attacking the culture and rituals of religious minorities.
+
+The International Human Rights Watch said they promote Sinhalese Buddhist settlements in the North East, where the majority of Tamils ​​live in the North East, and that the majority of Tamil Muslims are harmful to the property and religious rights of the Tamil Muslim people.
 
 ...
 
 [Data](articles/751fdecc.json)
 
+[Extended Data](ext_articles/751fdecc.ext.json)
+
 ---
 
-### சேவைக்கு சமுகமளிக்காமல் வீட்டில் பதுங்கியிருந்த 3 பெண் சிப்பாய்கள் கைது
+### 3 female soldiers arrested at home without a service
 
 *2024-07-29 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189697) · `ta`
 
-சேவைக்கு சமூகமளிக்காமல் மத்தேகொடவில் உள்ள வீடொன்றில் பதுங்கியிருந்த 22 வயதுடைய மூன்று பெண் சிப்பாய்கள் கைது செய்யப்பட்டுள்ளனர்.
+Three 22-year-old female soldiers from Hasalaka, Thenipitiya, and Polgasovita were arrested at a house in Mattegoda after not reporting for duty. They were stationed at Koka and Chandunuru military camps; one was on leave. The local residents alerted the police, who found them absent from service. The women are now under army investigation.
 
-இவர்கள் மூவரும் கொக்காவில் மற்றும் சந்துன்புர இராணுவ முகாம்களில் கடமையாற்றும் ஹசலக்க, தெனிபிட்டிய மற்றும் பொல்கஸ்சோவிட்ட ஆகிய பிரதேசங்களில் வசிப்பவர்கள் என அடையாளம் காணப்பட்டுள்ளனர்.
+🟩
 
-பொல்கசோவிட்டையைச் சேர்ந்த பெண் சிப்பாய் விடுமுறையில் சென்றிருந்த நிலையில், மற்றைய இருவரும் அவரைச் சந்தித்து பல நாட்கள் வீட்டில் தங்கியிருந்துள்ளனர்.
+Three 22 -year -old female soldiers have been arrested in a house in Mattegoda without attending the service.
 
-இந்நிலையில், வீட்டில் வசிப்பவர்கள் இவர்கள் தங்கி இருப்பதை 119 தொலைபேசி எண் ஊடாக பொலிஸாருக்கு தெரிவித்தனர்.
+The three have been identified as residents of Hasalaka, Thenipitiya and Polgasovita, which are on duty at Koka and Chandunuru military camps.
 
-இதன்போது, பொலிஸாரின் விசாரணையில் பெண் இராணுவ சிப்பாய்கள்  உண்மையிலேயே தங்கள் சேவையை விட்டு வெளியேறியது தெரியவந்தது. மேலதிக விசாரணைக்காக மூவரும் இராணுவத்திடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+While the woman from Polgasovita was on vacation, the other two had met him and stayed at home for several days.
+
+In this case, the residents of the house informed the police via 119 telephone number.
+
+Investigations by the police revealed that the female army soldiers were actually leaving their service. The trio have been handed over to the army for further investigation.
 
 ◼️
 
 [Data](articles/0c847750.json)
+
+[Extended Data](ext_articles/0c847750.ext.json)
 
 ---
 
@@ -592,19 +746,25 @@ After a while, thera tried to take an invitation, and when the phone was not wor
 
 ---
 
-### பாரவூர்தி - மோட்டார் சைக்கிள் விபத்து ; பொலிஸ் அதிகாரி பலி
+### Motorcycle accident;Police officer killed
 
 *2024-07-29 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189709) · `ta`
 
-அவிசாவளை, தும்மோதர - புவக்பிட்டிய வீதியில் மிரிஸ்குடு வளைவுக்கு அருகில் இடம்பெற்ற விபத்தில் பொலிஸ் உத்தியோகத்தர் ஒருவர் உயிரிழந்துள்ளார்.
+In an accident near Miriskudu curve, Avissawella, a police officer was killed when a container truck hit his motorcycle. Another officer was hospitalized. The incident happened on Monday.
 
-குறித்த வீதியில் சென்று கொண்டிருந்த கொள்கலன் பாரவூர்தி ஒன்று மோட்டார் சைக்கிள் மீது மோதியதில் இந்த விபத்து இன்று திங்கட்கிழமை (29) இடம்பெற்றுள்ளது.
+🟩
 
-மோட்டார் சைக்கிளில் பயணித்த பொலிஸ் உத்தியோகத்தர் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாகவும் மற்றைய அதிகாரி சிகிச்சைக்காக அவிசாவளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+A police officer was killed in an accident near the Miriskudu curve on Dummodara - Bhuvakpitiya road in Avissawella.
+
+The accident occurred on Monday (29) when a container palace crashed into a motorcycle on the road.
+
+It is reported that a police officer who was traveling on a motorcycle died on the spot and the other officer was admitted to the Avissawella Hospital for treatment.
 
 ◼️
 
 [Data](articles/1a0ccb5b.json)
+
+[Extended Data](ext_articles/1a0ccb5b.ext.json)
 
 ---
 
@@ -2117,83 +2277,5 @@ According to information provided by the Department of Health Services, the Depa
 [Data](articles/9fb542db.json)
 
 [Extended Data](ext_articles/9fb542db.ext.json)
-
----
-
-### The Department of Postal Department submitted a cost estimate to the Election Commission
-
-*2024-07-29 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189658) · `ta`
-
-The Postal Department has estimated the cost for the upcoming presidential election, including public postal fees, registered postage, writing, transportation, and management costs. Deputy Chief Minister Rajitha Ranasinghe mentioned this on Monday, noting the estimate is a forecast and could change.
-
-🟩
-
-The upcoming presidential election has been established by the Postal Department to cost the Elections Commission.
-
-Deputy Chief Minister Rajitha Ranasinghe said this on Monday (29).
-
-He noted that the estimate of the public postal fee, the registered postage, the costs for the writing, the transportation costs, the management fees, the cost of the management fees.
-
-Ranasinghe stated that the assessment is a forecast and that the requested final amount may be changed.
-
-◼️
-
-[Data](articles/f5ce7617.json)
-
-[Extended Data](ext_articles/f5ce7617.ext.json)
-
----
-
-### Boy killed in swimming lake
-
-*2024-07-29 11:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீச்சல்-தடாகத்தில்-மூழ்கி-சிறுவன்-பலி/76-341204) · `ta`
-
-A 7-year-old boy drowned in a swimming lake, and his older brother, who attempted to rescue him, is now hospitalized. The incident occurred when the boys were unsupervised at the lake.
-
-🟩
-
-The 7 -year -old boy has died and his elder brother is drowning in the same swimming pool and is being treated at the Kandy National Hospital.
-
-Mohamed Mizjan, a boy from Gurudukolla, Varellagama, has died in the incident.
-
-When he came to the hostel on Sunday (28) with his family, he fell into the swimming pool when he was alone near the swimming lake at around 11:00 pm.
-
-Seeing it, his older brother jumped into the swimming lake and tried to save his brother.
-
-The younger brother, who was in critical condition, died while taking her to the hospital and the elder brother was receiving treatment.
-
-Further investigations are being carried out by the Kandy Headquarters Police.
-
-◼️
-
-[Data](articles/b0a28c03.json)
-
-[Extended Data](ext_articles/b0a28c03.ext.json)
-
----
-
-### Election Commander
-
-*2024-07-29 11:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தவிசாளர்-அதிரடி-அறிவிப்பு/175-341203) · `ta`
-
-The Sri Lanka Election Commission has announced details for the 2024 presidential election, including the nomination process, deposits, and a referendum scheduled for September 21, 2024. Nomination papers must be submitted between 9:00 pm and 11:00 pm on August 15, 2024, at the Election Commission headquarters in Rajagiriya. Candidates must pay a deposit by July 26, 2024, with amounts varying based on whether they represent a recognized political party or not. Objections to nominations can be raised until 11:30 am on August 15, 2024, by either the opposing candidate or a person who signed the nomination papers.
-
-🟩
-
-RMAL Satnayake, the Chairman of the Sri Lanka Election Commission, has issued a notification on the presidential election 2024 nominations, deposits and referendum.
-
-Accordingly, the following issues have been clarified to voters about Article 2 and 8 of the Presidential Elections Act No. 15 of 1981.
-
-The public is notified by the public that the referendum for the presidential election will be held on September 21, 2024.
-
-The nomination papers for the election, on August 15, 2024,. From 9.00 pm. Within 11.00 pm, the headquarters of the Election Commission, located in Rajagiriya, Sarana Mawatha, will be held in charge of the auditorium.
-
-On the 15th of August, 2024,. From 9.00 pm. Objectives can be made regarding the nominal appointment that is handed over within 11.30am. These objections can be made by a person who signed the nomination papers by a nomination of the opposition candidate or by the opposition candidate.
-
-...
-
-[Data](articles/10497368.json)
-
-[Extended Data](ext_articles/10497368.ext.json)
 
 ---

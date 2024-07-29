@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 08:55:10**
+As of **2024-07-29 09:07:01**
 
 ## Newspaper Stats
 
-*Scraped **37,789** Articles*
+*Scraped **37,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,167
 economynextcom | 2,262
-dailyftlk | 2,415
+dailyftlk | 2,416
 adalk | 3,443
-adaderanalk | 4,374
-tamilmirrorlk | 4,666
+adaderanalk | 4,375
+tamilmirrorlk | 4,668
 dailymirrorlk | 4,733
 virakesarilk | 5,958
 adaderanasinhalalk | 6,353
@@ -26,11 +26,49 @@ adaderanasinhalalk | 6,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,788 (100.0%) of 37,789 articles have been extended.
+37,788 (100.0%) of 37,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### ஹபராதுவ பகுதியில் துப்பாக்கிச்சூடு - இருவர் காயம்
+
+*2024-07-29 08:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹபராதுவ-பகுதியில்-துப்பாக்கிச்சூடு-இருவர்-காயம்/175-341194) · `ta`
+
+ஹபராதுவ - ஹருமல்கொட பகுதியில் நேற்று (28) இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் இருவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+சம்பவத்தில் குறித்த நபர்கள்  துப்பாக்கிச் சூட்டை நடத்திவிட்டு மோட்டார் சைக்கிளில்  தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்ததுடன், அவர் முச்சக்கரவண்டியில் ஏற முற்பட்ட போது, ​​துப்பாக்கிச் சூடு நடத்தியவர்கள் முச்சக்கரவண்டி மீதும் துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+
+துப்பாக்கிச் சூட்டில் 34 மற்றும் 54 வயதுடைய இருவர் காயமடைந்துள்ளதாகவும், அவர்கள் ஹபராதுவ மற்றும் அகுலுகஹா பகுதியைச் சேர்ந்தவர்கள் எனவும் பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/b2f2a281.json)
+
+---
+
+### Two injured in shooting at Habaraduwa
+
+*2024-07-29 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100845/two-injured-in-shooting-at-habaraduwa) · `en`
+
+Two persons were injured in a shooting incident in Harumalgoda, Habaraduwa and have been hospitalised.
+
+Two unidentified assailants on a motorcycle had shot the two individuals with a pistol in front of an inn and fled the area last night (28).
+
+One person was initially injured in the shooting, and while he was attempting to hide inside a three-wheeler, the shooters also fired at the three-wheeler. The driver of the three-wheeler was also injured in the shooting.
+
+However, the police reported that the driver of the three-wheeler managed to drive the vehicle to the hospital without stopping.
+
+Police said that the injured men, aged 34 and 54, are residents of the Habaraduwa and Angulugaha areas.
+
+◼️
+
+[Data](articles/33f0b9a5.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -444,6 +482,26 @@ Devolution of power deepens democracy by bringing government closer to the peopl
 
 ---
 
+### சந்தேக நபரைத் தாக்கிய இரு பொலிஸார் இடைநீக்கம்
+
+*2024-07-29 01:34:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தேக-நபரைத்-தாக்கிய-இரு-பொலிஸார்-இடைநீக்கம்/175-341190) · `ta`
+
+பருத்தித்துறை பொலிஸ் நிலையக் குற்றத் தடுப்புப் பிரிவில் பணிபுரியும் இரண்டு பொலிஸார் சந்தேக நபரைத் தாக்கிய குற்றச்சாட்டில் பணி இடைநீக்கம் செய்யப்பட்டுள்ளனர்.
+
+பருத்தித்துறையைச் சேர்ந்த ஒருவரை சந்தேகத்தின் அடிப்படையில் கைது செய்து பொலிஸ் நிலையத்திற்கு அழைத்துச் சென்று தாக்கியுள்ளனர்.  தாக்குதலுக்கு உள்ளான சந்தேக நபர் பருத்தித்துறை வைத்தியசாலையின் இலக்கம் 07 இலக்க விடுதியில்  அனுமதிக்கப்பட்டுள்ளார்.
+
+தாக்குதல் தொடர்பில் பருத்தித்துறை குற்றத் தடுப்புப் பிரிவில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவர் குடிபோதையில் இருந்தமை உறுதி செய்யப்பட்ட பின்னர், அவர் கைது செய்யப்பட்டார்.  இரண்டாவது அதிகாரி சம்பவத்தன்று சம்பவ இடத்திலிருந்து வெளியேறினார்.
+
+இரண்டு பொலிஸ் உத்தியோகத்தர்களையும்  நீதிமன்றில் முற்படுத்தியபோது, இருவரும்  50 ஆயிரம் ரூபா சரீரப் பிணையில் செல்ல அனுமதிக்கப்பட்டனர்.
+
+இருந்தபோதும் இரு பொலிஸாரும் காங்ககேசந்துறை சிரேஷ்ட பொலிஸ் அத்தியட்சகரினால் விசாரணை முடியும் வரை பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/3c46cb09.json)
+
+---
+
 ### 25 Years After His Assassination: Dr. Neelan Tiruchelvam’s Enduring Legacy In Human Rights & Constitutional Reform
 
 *2024-07-29 01:31:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/25-years-after-his-assassination-dr-neelan-tiruchelvams-enduring-legacy-in-human-rights-constitutional-reform/) · `en`
@@ -491,6 +549,22 @@ We are living in an era where nature pleadingly seeks human support for its surv
 [Data](articles/9264a55f.json)
 
 [Extended Data](ext_articles/9264a55f.ext.json)
+
+---
+
+### Amal Sanderatne: An appreciation
+
+*2024-07-29 01:21:40* · [`dailyftlk`](https://www.ft.lk/columns/Amal-Sanderatne-An-appreciation/4-764834) · `en`
+
+While he was brilliant in his studies, Amal was always one to experience things to explore, be exposed to different cultures and was in no way someone who enjoyed being buried with his books! But his intelligence and abilities ensured he got his undergraduate degree at LSE and returned to Sri Lanka whilst we in Colombo had barely completed our A’ Levels at Royal
+
+Amal leaves behind him a masterclass in humility, caring, devotion and passion
+
+23 July 2024 marked one year since my friend Amal’s untimely demise. For those who knew Amal, he was a deeply private person. Amal was not guarded with his privacy because he was necessarily shy or not social – he was just a very private person and what mattered to him was caring for the people he loved. He was a man content with the hand that life had dealt him and was never one to trumpet his own achievements.
+
+...
+
+[Data](articles/ba3468d2.json)
 
 ---
 
@@ -2133,93 +2207,5 @@ The leader of the struggle, Sheikh Mujibur Rahman. Founder of Bangladesh. He is 
 [Data](articles/f2a08e9f.json)
 
 [Extended Data](ext_articles/f2a08e9f.ext.json)
-
----
-
-### Maduro's passenger and Venezuela presidential election
-
-*2024-07-28 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199302) · `si`
-
-Venezuela holds its presidential election today, facing allegations of corruption and abuse of power. Current President Nicolás Maduro, succeeding Hugo Chávez in 2013, seeks re-election for a six-year term amidst challenges to the United Socialist Party's dominance, which has ruled for over 25 years.
-
-🟩
-
-The Venezuela's presidential election will be held today (28), alleges that corruption, election and power is being abused.
-
-The current President Nikolas has mosquitoes for the election of a president for a period of six years.
-
-Nipolas Maduro, who was appointed as the president of Venezuela, was contesting the presidential election this year after the death of former President Hugo Chavez in 2013.
-
-However, this year's presidential election has been a major challenge to the United Socialist Party, who is powered by the Venezuela for over 25 years.
-
-◼️
-
-[Data](articles/6447bd81.json)
-
-[Extended Data](ext_articles/6447bd81.ext.json)
-
----
-
-### A big change in Iran
-
-*2024-07-28 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199301) · `si`
-
-Iran's spiritual leader is now seen as a neutral figure in the country's recent elections. The government aims to alleviate public stress through practical policies, focusing on easing the hardships faced by its citizens.
-
-🟩
-
-International media reports that the Iranian spiritual leader has been recognized as a neutralist-in-law of Iran's recent presidential election.
-
-The Iranian foreign policy is to make the most practical and stressful of the people in the country to ease the persecution of the people in the country.
-
-◼️
-
-[Data](articles/686eddd8.json)
-
-[Extended Data](ext_articles/686eddd8.ext.json)
-
----
-
-### Special circular for govt officials over Presidential Election
-
-*2024-07-28 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100836/special-circular-for-govt-officials-over-presidential-election) · `en`
-
-The Election Commission is poised to issue a special circular outlining the protocols for government officials and institutions during the upcoming Presidential Election.
-
-Chairman of the Election Commission, R.M.A.L. Rathnayake stated that the relevant circular is in its final stages of drafting and will be published shortly.
-
-The circular aims to provide comprehensive instructions on how government officials should perform their duties and manage institutional activities throughout the election period. It will include necessary orders and sub-measures to ensure that the election process is conducted smoothly and in accordance with the law.
-
-In addition to guidelines for government officials, the circular will also issue directives to the media on their conduct and responsibilities during the Presidential election.
-
-◼️
-
-[Data](articles/57929e62.json)
-
-[Extended Data](ext_articles/57929e62.ext.json)
-
----
-
-### Sri Lanka private credit expands in first half, govt credit eases
-
-*2024-07-28 14:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-expands-in-first-half-govt-credit-eases-174109/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private credit has expanded 146 billion rupees in the first half of 2024, official data shows, while credit to government eased but continued to outpace private credit.
-
-Commercial Bank credit to government expanded 354 billion rupees in the six months to June 2024, compared to 1,043 billion rupees in a year earlier, which was partly drive by a 517 billion restructure of SOE debt.
-
-Government and SOE debt expanded by 293 billion rupees in the first half of 2024, compared to 405 billion rupees last year.
-
-Credit to state enterprises declined by 60 billion rupees in first six months.
-
-Private credit has expanded amid an appreciation of the rupee in 2024 and the growth has come from a real expansion of either working capital or investment credit with the central bank providing monetary stability.
-
-In the 12 months to June private credit has expanded 432 billion rupees.
-
-...
-
-[Data](articles/db4b194f.json)
-
-[Extended Data](ext_articles/db4b194f.ext.json)
 
 ---

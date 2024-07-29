@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 02:05:34**
+As of **2024-07-30 02:20:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,952 (100.0%) of 37,960 articles have been extended.
+37,960 (100.0%) of 37,960 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Speaking at a press conference yesterday at the Presidential Media Centre (PMC),
 
 [Data](articles/8e8f4854.json)
 
+[Extended Data](ext_articles/8e8f4854.ext.json)
+
 ---
 
 ### G.L. slams President’s proposal on Speaker and CJ consultation over Acting IGP appointment
@@ -70,6 +72,8 @@ Freedom People’s Congress (FPC) member MP Prof. G.L. Peiris has denounced Pres
 
 [Data](articles/c289bec3.json)
 
+[Extended Data](ext_articles/c289bec3.ext.json)
+
 ---
 
 ### Presidential aspirant Wijeyadasa resigns
@@ -87,6 +91,8 @@ Rajapakshe said he had already informed the relevant authorities of his decision
 ...
 
 [Data](articles/d01529a9.json)
+
+[Extended Data](ext_articles/d01529a9.ext.json)
 
 ---
 
@@ -108,6 +114,8 @@ Recognised as Miraclon’s Champion of Modern Flexo, ALFT Packaging was featured
 
 [Data](articles/e5258764.json)
 
+[Extended Data](ext_articles/e5258764.ext.json)
+
 ---
 
 ### Court of Appeal extends interim order against Health Minister
@@ -124,6 +132,8 @@ The matter was taken up for hearing yesterday in the Court of Appeal, on the App
 
 [Data](articles/bb3300e9.json)
 
+[Extended Data](ext_articles/bb3300e9.ext.json)
+
 ---
 
 ### BOI Chief meets with officials of Tianying Inc.
@@ -135,6 +145,8 @@ The Board of Investment Chairman Dinesh Weerakkody last week had discussions wit
 ◼️
 
 [Data](articles/ac4c6b23.json)
+
+[Extended Data](ext_articles/ac4c6b23.ext.json)
 
 ---
 
@@ -155,6 +167,8 @@ Diplomatic relations between the State of Qatar and the Republic of Sri Lanka be
 ...
 
 [Data](articles/bf56dddf.json)
+
+[Extended Data](ext_articles/bf56dddf.ext.json)
 
 ---
 
@@ -177,6 +191,8 @@ Their international experience and networks can help attract investment, raise g
 ...
 
 [Data](articles/c2db403c.json)
+
+[Extended Data](ext_articles/c2db403c.ext.json)
 
 ---
 

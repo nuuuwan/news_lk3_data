@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 00:35:48**
+As of **2024-07-30 00:52:12**
 
 ## Newspaper Stats
 
-*Scraped **37,942** Articles*
+*Scraped **37,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,274
-dailyftlk | 2,416
+dailyftlk | 2,421
 adalk | 3,465
 adaderanalk | 4,396
 tamilmirrorlk | 4,697
@@ -26,9 +26,85 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,941 (100.0%) of 37,942 articles have been extended.
+37,942 (100.0%) of 37,947 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-07-30 (Tuesday)
+
+### CPA on wilful disregard for Constitution by the President
+
+*2024-07-30 00:28:57* · [`dailyftlk`](https://www.ft.lk/opinion/CPA-on-wilful-disregard-for-Constitution-by-the-President/14-764890) · `en`
+
+The order of the SC restrains Thennakoon personally from functioning in the office of IGP
+
+The Centre for Policy Alternatives (CPA) expresses deep concern over the President’s and Government’s response to the Supreme Court’s interim order this week, which restraints Deshabandu Thennakoon from exercising the powers, functions, and responsibilities of the office of the Inspector General of Police (IGP).
+
+...
+
+[Data](articles/bb18e79e.json)
+
+---
+
+### Failure to abide by judicial decision undermines rule of law
+
+*2024-07-30 00:24:54* · [`dailyftlk`](https://www.ft.lk/opinion/Failure-to-abide-by-judicial-decision-undermines-rule-of-law/14-764888) · `en`
+
+Much to the consternation of law abiding people the Government has announced its decision not to act on the Supreme Court interim order restraining Deshabandu Thennakoon from functioning as the Inspector General of Police (IGP).
+
+Despite the ruling by the highest court in the land, the Government insists that the Police IGP will continue to hold office.
+
+Delivering a special statement in Parliament, Prime Minister Dinesh Gunawardena stated that the Supreme Court cannot change the approval granted by the Constitutional Council to appoint the current IGP and therefore the IGP will continue in his position. President Ranil Wickremesinghe, who has declared his candidacy in the upcoming Presidential election, has stated that he will not appoint an acting IGP as this may lead to election petitions being filed against him.
+
+...
+
+[Data](articles/463a6d2a.json)
+
+---
+
+### Why do we keep missing the bus?
+
+*2024-07-30 00:23:23* · [`dailyftlk`](https://www.ft.lk/columns/Why-do-we-keep-missing-the-bus/4-764887) · `en`
+
+The country is painfully slow in implementing much needed economic reforms
+
+Debt restructuring negotiations between the Government of Sri Lanka and the International Sovereign Bond (ISB) holders have progressed well. Along with the progress achieved so far in relation to the overall debt restructuring program, many of the stalled infrastructure development projects have recommenced.
+
+The Purchasing Managers Index (PMI) in relation to manufacturing and the PMI in relation to services have exceeded the 50 point threshold in June, 2024 thereby indicating expansions in both manufacturing and services. The PMI for construction too exceeded the 50 point threshold in May, 2024, indicating an expansion in construction.
+
+...
+
+[Data](articles/9c962a6d.json)
+
+---
+
+### Sri Lanka Tourism: Good is not good when better is expected
+
+*2024-07-30 00:16:51* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-Tourism-Good-is-not-good-when-better-is-expected/4-764886) · `en`
+
+Tourism is back to being the darling of the Sri Lankan Economy after a tumultuous 2019-2022. Bouncing back in 2023 post Sri Lanka’s economic and political upheaval of the previous year, the industry has been on a trajectory of growth this year. From January to June, our island welcomed 1,010,249 foreign visitors which is 61.6% above the cumulative figure in 2023 but 13.25% behind the benchmark year of 2018 – our most successful year in terms of tourist arrivals (Source: SLTDA Statistics). Sri Lanka Tourism has many strengths and opportunities but we do not seem to address key industry weaknesses in a robust manner. The following three recommendations are aimed at adding more value to Sri Lanka Tourism:
+
+...
+
+[Data](articles/2937d0f6.json)
+
+---
+
+### Principles and proposals for political and constitutional reform for democracy: Part III
+
+*2024-07-30 00:05:44* · [`dailyftlk`](https://www.ft.lk/opinion/Principles-and-proposals-for-political-and-constitutional-reform-for-democracy-Part-III/14-764885) · `en`
+
+A welcome trend is that more citizens and civic organisations are coming forward to challenge Bills before the Supreme Court
+
+We propose a Code of Conduct applicable to Judges of Superior Courts. Allegations of serious infractions of the Code of Conduct shall be inquired into by a panel of three retired Judges of the Constitutional Court or the Supreme Court. They will be appointed by the President on the recommendation of the Constitutional Council
+
+We propose that the Chapter on fundamental rights be improved to include universally recognised rights. The scope of civil and political rights will be broadened. The right to life, human dignity, bodily integrity, and privacy will be guaranteed. The right of access to justice and the right to fair State action will be recognised. Social and economic rights, cultural rights, rights of women, children, the aged and the disabled, as well as group, environmental and development rights, would be recognised as judicially enforceable rights
+
+...
+
+[Data](articles/157d43f5.json)
+
+---
 
 ### 2024-07-29 (Monday)
 
@@ -717,6 +793,8 @@ He denied the local elections over a year ago bogusly claiming lack of funds all
 ...
 
 [Data](articles/e88edd71.json)
+
+[Extended Data](ext_articles/e88edd71.ext.json)
 
 ---
 
@@ -2195,113 +2273,5 @@ Tokyo Cement Group’s renewable energy generation programme was a key driver of
 [Data](articles/e1ae5158.json)
 
 [Extended Data](ext_articles/e1ae5158.ext.json)
-
----
-
-### Vijayadasa Rajapaksa resigns
-
-*2024-07-29 12:23:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாஸ-ராஜபக்ஷ-ராஜினாமா/175-341211) · `ta`
-
-Vijayadasa Rajapaksa, former Justice Minister, resigns from his roles including Justice, Prison Affairs, and Constitutional Amendment ministries.
-
-🟩
-
-Former Justice Minister Vijayadasa Rajapakse said that he has resigned from the responsibilities of the Ministry of Justice, Prison Affairs and Constitutional Amendment.
-
-◼️
-
-[Data](articles/909e471c.json)
-
-[Extended Data](ext_articles/909e471c.ext.json)
-
----
-
-### If you cannot respect the Constitution
-
-*2024-07-29 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189677) · `ta`
-
-The text discusses concerns over constitutional integrity and electoral fairness, highlighting issues with the postponement of elections and the appointment of the Inspector General of Police. It criticizes attempts by the current administration to manipulate the situation and calls for adherence to the Supreme Court's decision. The Opposition Leader, Sajith Premadasa, addresses these issues, emphasizing the need for transparency and accountability, and appeals for unity across ethnic, religious, and party lines to ensure fair elections and uphold the constitution.
-
-🟩
-
-The postponement of the election is not good, the appointment of the Inspector General of Police is a massive issue.. After the High Court ruled, no one can talk or discuss it about it. The president is trying to reply to retain his presidency through intrigues. The Leader of the Opposition said that discussion with the Speaker's judges is not a matter of ethical.
-
-I urge the President, Prime Minister, Speaker and Cabinet to implement the Supreme Court's decision without playing with the High Court of the country. The president first controlled in a maneuver. Since he was a candidate, he could say that the Inspector General of Police could not intervene. But there is nothing like that in the Constitution. Constitutions are found to be responsible for the president. Opposition Leader Sajith Premadasa said that if they do not implement them, I appeal to another president and resign.
-
-...
-
-[Data](articles/7f9db946.json)
-
-[Extended Data](ext_articles/7f9db946.ext.json)
-
----
-
-### SLMC support to Sajith
-
-*2024-07-29 12:10:28* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-කොංග්‍රසයේ-සහාය-සජිත්ට/11-411067) · `si`
-
-The Sri Lanka Muslim Congress (SLMC) supports Sajith Premadasa, the United National Party's (UNP) National Organizer, in the upcoming Presidential Election. The National Organizer, MS Thaupek, expresses confidence in Premadasa's leadership and opposition stance.
-
-🟩
-
-UNP National Organizer, UNP National Organizer of the Sri Lanka Muslim Congress is the support of the SLMC support from the Presidential Election.
-
-The National Organizer said that he is believed to support the Opposition Leader of the Opposition to the Opposition Leader of the Opposition to support the Opposition Leader of the UNP.
-
-National organizer MS Thaupek has confident that Sajith Premadasa has been supporting Mr. Sajith Premadasa and the support of the Opposition Leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/9a544087.json)
-
-[Extended Data](ext_articles/9a544087.ext.json)
-
----
-
-### Sajith's 8 meetings cancel
-
-*2024-07-29 12:09:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/சஜித்தின்-8-கூட்டங்கள்-ரத்து/74-341210) · `ta`
-
-Sajith Premadasa's scheduled meetings in Ampara district were cancelled due to violating election regulations ahead of the presidential election. The decision was made after receiving complaints to the Election Commission, ensuring adherence to electoral laws.
-
-🟩
-
-Eight meetings have been canceled on Monday (29) in the Ampara district of Sajith Premadasa, the leader of the United People's Power and Opposition Leader.
-
-Sajith Premadasa's Coordinator V is the result of providing equipment for eight schools in the backward area.. Vino Kant told the media.
-
-Although these events were organized in advance, the events were canceled in accordance with the presidential election rules.
-
-This means that the event has been canceled due to the fact that the election is a violation of election regulations after the Election Commission announced the presidential date.
-
-Action has been taken following a complaint from Ampara to the Election Commission.  தேர்தல் நடைமுறை விதிகளுக்கு அமைவாக இந்த நிகழ்வுகள் ரத்து செய்யப்பட்டுள்ளன என்றார்.
-
-◼️
-
-[Data](articles/18f68d5b.json)
-
-[Extended Data](ext_articles/18f68d5b.ext.json)
-
----
-
-### The Presidential candidate of the People's Council?
-
-*2024-07-29 12:08:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-பேரவையின்-ஜனாதிபதி-வேட்பாளர்/175-341209) · `ta`
-
-The Movement for the People's Forum, initiated by the Arakalai protesters, will reveal its presidential candidate on Monday (29) at the Colombo Public Look Auditorium. The announcement includes strategies for the upcoming elections.
-
-🟩
-
-The Movement for the People's Forum, which was created by the Arakalai protesters, will announce its presidential candidate on Monday (29).
-
-Accordingly, the Movement for the People's Council will announce its candidate at the event to be held at the Colombo Public Look Auditorium at 1.00 pm on Monday.
-
-A spokesman for the party said that strategies to face the election will also be announced on the positions of the Movement for the People's Forum.
-
-◼️
-
-[Data](articles/5b1130fd.json)
-
-[Extended Data](ext_articles/5b1130fd.ext.json)
 
 ---

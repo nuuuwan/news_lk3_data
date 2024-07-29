@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 17:05:35**
+As of **2024-07-29 17:20:33**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,372
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,886 (100.0%) of 37,890 articles have been extended.
+37,890 (100.0%) of 37,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### කෑගල්ලේදී කොටුවූ හෙරොයින් ජාවාරම්කරු
+### Heroin trafficker in Kegalle
 
 *2024-07-29 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199338) · `si`
 
-අද (29) දින උදෑසන කෑගල්ල පොලිස් වසමේ මොලගොඩ ප්‍රදේශයේදී හෙරොයින් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Kegalle, a 26-year-old man was arrested for trafficking heroin. Found in his possession during a raid were 31 grains and 460 milligrams of the drug. The arrest followed a tip-off to the Kegalle Division Crime Investigative Bureau.
 
-කෑගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරක් මත මෙම වැටලීම සිදු කර තිබුණි.
+🟩
 
-එහිදී සැක කටයුතු ත්‍රිරෝද රථයක් පරීක්ෂා කිරීමේදී එහි රියදුරු සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 31යි මිලිග්‍රෑම් 460ක් සොයා ගෙන තිබුණි.
+A suspect has been arrested with heroin in the Molagoda area in Kegalle today (29).
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 26 හැවිරිදි වියේ පසුවන වලගම දකුණ, දේවාලගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The raid was carried out on information received by the Kegalle Division Crime Investigative Bureau.
+
+During the inspection of a suspicious three-wheeler, 31 grains and 460 milligrams were recovered from the driver.
+
+The arrested is a 26-year-old resident of Valagama South, Delegama in the Devil.
 
 ◼️
 
 [Data](articles/6484c1b1.json)
+
+[Extended Data](ext_articles/6484c1b1.ext.json)
 
 ---
 
@@ -72,19 +78,29 @@ The lawyers who sat for the estate company were produced before the Magistrate's
 
 ---
 
-### தேரரின் கணக்கில்  இருந்து பணம் மோசடி
+### Money fraud from Thera's account
 
 *2024-07-29 16:33:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேரரின்-கணக்கில்-இருந்து-பணம்-மோசடி/76-341228) · `ta`
 
-தொலைபேசி நிறுவனமொன்றின் பணியாளர்கள் என கூறி பதுளையில் உள்ள விகாரைக்கு வந்த இரு இளைஞர்கள் குறித்த விகாரையின் தேரரின் கைத்தொலைபேசியில் உள்ள சிம்கார்டை திருடி தேரரின் வங்கி கணக்கில் இருந்து ஆறரை லட்சம் ரூபாய் பணத்தை மோசடி செய்துள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+In Badulla, two individuals posing as telecom workers stole a monk's phone and SIM card. They later called him, pretending to be from the bank, asking for account details under false pretenses. The monk discovered the theft after trying to use his phone for an event, finding it without a SIM card. He suspects the fraudsters used his bank details to withdraw 650,000 rupees, intended for his kidney treatment. He reported the incident to the police, who are investigating the case.
 
-வங்கியில் இருந்து என கூறி தேரருக்கு அண்மையில் தொலைபேசி அழைப்பொன்று வந்துள்ளது. அதில் , கணக்கு தொடர்பான உயர்த்தப்பட்ட VAT கட்டணத்தை குறைக்க அரசு உத்தரவு பெற்றுள்ளதால், வங்கி கணக்கு விவரங்களை வழங்குமாறு கேட்டுள்ளனர் . அப்போது தேரர் தனது அனைத்து வங்கி விவரங்களையும் வழங்கியுள்ளார் .
+🟩
 
-சில நாட்கள் கழித்து விகாரைக்கு வந்த இனந்தெரியாத இரு இளைஞர்கள் கைத்தொலைபேசியில் ஏதேனும் பிரச்சனையா என்று கேட்டுள்ளனர். அப்போது தொலைபேசியில் அழைப்பு விடுக்கும் போதெல்லாம் வித்தியாசமான சத்தம் கேட்பதால் அதை இளைஞர்களிடம் கூறி தொலைபேசியை கொடுத்துள்ளார் .
+The Badulla police said that two youths who came to the Vihara in Badulla claimed that they were employees of a telephone company, stealing SIMCard on the cell phone of the Vihara Thera's cell phone.
+
+Thera has recently received a phone call from the bank. In it, the government has ordered the bank to provide the account details as the government has ordered to reduce the VAT fee related to the account.. Thera had then provided all his bank details.
+
+A few days later, two unidentified youth who came to the Vihara asked if there was any problem on the cell phone. Whenever he calls on the phone, he has given the phone to the young people because he hears a different noise.
+
+The suspects, who had been repairing the phone, had received the phone calling for a text message to our company and then left the idol, giving it a re -gratitude.
+
+After a while, thera tried to take an invitation, and when the phone was not working, it was revealed that there was no SIM card.
 
 ...
 
 [Data](articles/f9291d0e.json)
+
+[Extended Data](ext_articles/f9291d0e.ext.json)
 
 ---
 
@@ -902,19 +918,25 @@ Shashikala Siriwardena joined the Sri Lankan women participated in a former Sri 
 
 ---
 
-### කලුතරින් මිලියනයක් ඡන්දයට සුදුසුකම් ලබයි
+### A million clash qualifies the vote
 
 *2024-07-29 13:02:45* · [`adalk`](https://www.ada.lk/breaking_news/කලුතරින්-මිලියනයක්-ඡන්දයට-සුදුසුකම්-ලබයි/11-411068) · `si`
 
-2024 ප්‍රධාන ඡන්ද හිමි නාම ලේඛනය හා 2024 පළමු වන පරිපූරක නාම ලේඛනය ඇතුළත්ව සකස් කල ඒකාබද්ධ ඡන්ද හිමි නාම ලේඛනයේ ඡන්ද හිමියන් (10,24244) දස ලක්ෂ විසි හතර දහස් දෙසීය හතලිස් හතර දෙනකු  එළඹෙන ජනාධිපතිවරණය සඳහා ඡන්දය ලබා දීමට කළුතර දිස්ත්‍රික්කයෙන් සුදුසුකම් ලබා ඇතැයි කළුතර දිස්ත්‍රික් නියෝජ්‍ය මැතිවරණ කොමසාරිස් ජයවීර ප්‍රනාන්දු මහතා පැවසීය.
+In the upcoming 2024 presidential election, 1 million eligible voters from Kalutara District will cast their ballots. This represents a significant increase from the 2019 election, where 955,079 voters were registered, with an additional 711 voters this time around. The area with the highest voter count is Bandaragama.
 
-2019 වර්ෂයේ ජනාධිපතිවරණයේ කළුතර දිස්ත්‍රික්කයේ   ලියාපදිංචි ඡන්ද සංඛ්‍යාව 955079 ක් බවත්  මෙවර 69165 ඡන්දදායකයන්ගේ වැඩිවීමක් දක්නට ඇතැයි ඒ මහතා කීය.කළුතර දිස්ත්‍රික්කයේ ඡන්ද බල ප්‍රදේශ 8 ක් වන  අතර ඡන්ද මධ්‍යස්ථාන 711 කි.
+🟩
 
-කළුතර දිස්ත්‍රික්කයේ     වැඩිම ඡන්දදායකයන් සිටින බල ප්‍රදේශය බණ්ඩාරගම වන අතර එහි මෙවර ඡන්ද දායකයන් ප්‍රමාණය 159784 කි.අඩුම ඡන්දදායකයන් පිරිසක් සිටින බල ප්‍රදේශය බුලත්සිංහල වන අතර එහි ඡන්දදායකයන්  ප්‍රමාණය 90247 ක් බව නියෝජ්‍ය මැතිවරණ කොමසාරිස්වරයා කිය.
+2024 Eligible from Kalutara District to vote for the coming presidential electionDeputy Commissioner General Jayaweera Fernando said.
+
+The number of registered votes in Kalutara District of the 2019 presidential election is 955079, and there is an increase of 711 voter turnout.
+
+The highest number of voters in the Kalutara district is Bandaragama.
 
 ◼️
 
 [Data](articles/93e9e142.json)
+
+[Extended Data](ext_articles/93e9e142.ext.json)
 
 ---
 
@@ -1178,19 +1200,27 @@ Speaking further Mr. Semasinghe said that if the Government of India was heading
 
 ---
 
-### කයිය නායකවරුන්ට සැලැස්මක් නෑ
+### Kaia leaders have no plans
 
 *2024-07-29 11:55:35* · [`adalk`](https://www.ada.lk/breaking_news/කයිය-නායකවරුන්ට-සැලැස්මක්-නෑ/11-411065) · `si`
 
-"අද රනිල් වික්‍රමසිංහ ජනාධිපතිතුමාට ලෝක නායකයන්ගේ විශාල පිළිගැනීමක් තියෙනවා. එහෙම නායකයෙක් තමයි අද අපට අවශ්‍ය.ජාත්‍යන්තරයත් එක්ක කතාකරලා රටේ ආර්ථිකය ශක්තිමත් කරන්න පුළුවන් එකම නායකයා රනිල් වික්‍රමසිංහ ජනාධිපති තුමා පමණයි. .මේ රට වැටී තිබුණු බංකොලොත් භාවයෙන් ගොඩගත්  නායකයා රනිල් වික්‍රමසිංහ ජනාධිපති තුමායි එනිසා එළඹෙන ජනාධිපති වරණයේදී රනිල් වික්‍රමසිංහ මැතිතුමා ජනාධිපති කිරීමට ජනතාව පක්ෂ පාට වලින් තොරව අත්වැල් බැඳ ගෙන කටයුතු කළයුතුයි " යැයි එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක, කාලගුණ විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජයවර්ධන මහතා පැවසීය.
+Ranil Wickremesinghe, facing economic challenges, leads Sri Lanka without clear future plans. His leadership focuses on strengthening the economy and addressing bankruptcy issues. Despite criticism, he remains a pivotal figure in the UNP, with no immediate plans for stepping down.
 
-බියගම මැතිවරණ කොට්ඨාසයේ එක්සත් ජාතික පක්ෂයේ මල්වාන කලාප කාර්යාලය ඊයේ (28) පස් වරුවේ විවෘත කිරීමෙන් අනතුරුව පැවැති රැස්වීම අමතමින් රුවන් විජයවර්ධන මහතා එසේ පැවසීය
+🟩
 
-"අද කයිය නායක වරුන් කිහිප දෙනෙක්ම ඉන්නවා 'අපි ආවොත් මේවා කරල දෙන්නම් මේරට සුරපුරයක් කරනවා ' කියන කට්ටියක් ඉන්නවා. නමුත් බැරි වෙලාවත් ඔය කියන අය ආවොත් තව අවුරුදු දෙකක් ගතවීමටත් මත්තෙන් අපිට යලිත් පෝලිම්වල තමයි ඉන්න වෙන්නෙ.ඔය කයිය නායකවරුන්ට සැලැස්මක් නැහැ.
+"Today Ranil Wickremesinghe has a large number of world leaders. It is a leader of Ranil Wickremesinghe only leading the country to talk to the economy of the country and strengthen the economy of the country. Gunil Wickremesinghe, who is the leading bankruptcy, should take part in the president of the United National Party (UNP), Senior Presidential Leader of the United National Party (UNP)..
+
+Ruwan Wijewardene added that the Malwana Zonal Office was opened in the Biyagama Electorate yesterday (28), addressing the meeting.
+
+"Today there are a few leaders of today," we'll do these things to do these things to do these things to do this, excerpts. But if you come out, we have two more years to stay in the queue. Over the years, we have no plans.
+
+When a struggle was fallen when he was struggling, he would be afraid of a presidential election, accepting the challenges of the government when they were struggling when they were struggling.No, he came forward at the right time.
 
 ...
 
 [Data](articles/ebfe8559.json)
+
+[Extended Data](ext_articles/ebfe8559.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 13:05:37**
+As of **2024-07-29 13:20:32**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,829 (100.0%) of 37,832 articles have been extended.
+37,832 (100.0%) of 37,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### කොළඹ - නුවර පාර අවහිර වෙයි
+### Colombo-Kandy road bloom
 
 *2024-07-29 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199327) · `si`
 
-කොළඹ - නුවර ප්‍රධාන මාර්ගයේ යක්කල ප්‍රදේශයේ දී මගී බස් රථයක් සහ කන්ටේනර් රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+A collision between a passenger bus and a container near Yakkala on the Colombo-Kandy road has caused a blockage at Yakkala Junction, reports Ada Derana.
 
-ඒ හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගය යක්කල හන්දිය ආසන්නයෙන් අවහිර වී ඇති බව "අද දෙරණ" වාර්තාකරු පවසයි.
+🟩
+
+A passenger bus and a container in Yakkala area on the Colombo-Kandy main road has collaborated.
+
+As a result, the Colombo-Kandy main road has been blocked by Yakkala Junction, "says Ada Derana reporter.
 
 ◼️
 
 [Data](articles/2c9ab545.json)
+
+[Extended Data](ext_articles/2c9ab545.ext.json)
 
 ---
 
@@ -55,6 +61,8 @@ The Colombo-Kandy main road has temporarily been blocked at Yakkala Junction due
 ◼️
 
 [Data](articles/20c03b6a.json)
+
+[Extended Data](ext_articles/20c03b6a.ext.json)
 
 ---
 
@@ -1028,25 +1036,33 @@ At times, in the West-borne areas of the central hills and in the North, North, 
 
 ---
 
-### ජනපතිවරණය සැප් 21න් ඉදිරියට ගෙන යාමේ සූදානමක් නෑ
+### No preparation to proceed with the presidential election
 
 *2024-07-29 06:10:11* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-සැප්-21න්-ඉදිරියට-ගෙන-යාමේ-සූදානමක්-නෑ/11-411058) · `si`
 
-පොලිස්පති පත් කිරීම සම්බන්ධයෙන් මතුව ඇති ගැටලුව සතියක් තුළ නිරාකරණය කර නිදහස් සහ ස්වාධීන මැතිවරණයක් පැවැත්වීමට අවශ්‍ය පසුබිම සකසනවා
+President Ranil Wickremesinghe announced that issues hindering the presidential election would be resolved within a week, ensuring independent and free elections as per Article 106 of the Constitution. He emphasized the importance of elections in preserving the people's sovereignty and stated that preparations for the election, initially scheduled for September 21, were insufficient. The President made this statement at the 'Jayawamu Sri Lanka Colombo' event, highlighting his commitment to resolving political disputes to facilitate the electoral process.
 
-ජනාධිපතිවරණය සැප්තැම්බර් 21 දිනට වඩා ඉදිරියට ගෙන යාමට කිසිසේත් සූදානම් නැහැ.
+🟩
 
-මැතිවරණ යනු ජනතා පරමාධිපත්‍යයයේ කොටසක් – එය උල්ලංඝනය වීමට ඉඩ දිය නොහැකියි.
+The problem with the appointment of the IGP is resolved in a week and set up the context to hold an independent election
 
-කථානායකවරයා සහ අගවිනිසුරුවරයා සමඟ සාකච්ඡාකර පොලිස්පති පත් කිරීම සම්බන්ධයෙන් මතුව ඇති ගැටලුව සතියක් තුළ නිරාකරණය කර ගැනීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+The presidential election is no longer prepared to move forward than September 21.
 
-ජනාධිපතිවරණය සැප්තැම්බර 21 දිනට වඩා ඉදිරියට ගෙන යාමට තමා කිසිසේත් සූදානම් නැති බවත්, සැප්තැම්බර් 21 වන දින ජනාධිපතිවරණය පැවැත්වීමට අවශ්‍ය කටයුතු සලසන බවත් පැවසු ජනාධිපතිවරයා මැතිවරණ යනු ජනතා පරමාධිපත්‍යයේ කොටසක් බවත් එය උල්ලංඝනය වීමට ඉඩ නොතබන බවත් පැවසීය.
+Elections are part of the people's sovereignty - it cannot be allowed to be violated.
 
-එසේම ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 106 වන වගන්තියට අනුව රට තුළ ස්වාධීන හා නිදහස් මැතිවරණයක් පැවැත්වීමේ බලතල මැතිවරණ කොමිසමට හිමි වන බව පෙන්වා දුන් ජනාධිපතිවරයා ඒ වෙනුවෙන් පූර්ණ සහාය ලබාදීම සියලුදෙනාගේ පරම යුතුකම බවද කියා සිටියේය.
+President Ranil Wickremesinghe stressed that the problem with the Speaker and the Chief Justice will be resolved within a week.
 
-...
+The president said that the president was not prepared to continue the presidential election in September 21 and that the Presidential Election would be informed on the 21st of September.
+
+According to Article 106 of the Constitution, the President said that the election commission was entitled to the powers independent and free elections in the country.
+
+President Ranil Wickremesinghe made this statement participating at the 'Jayawamu Sri Lanka Colombo' Colombo District at the Colombo-Homagama premises.
+
+◼️
 
 [Data](articles/91e63b71.json)
+
+[Extended Data](ext_articles/91e63b71.ext.json)
 
 ---
 

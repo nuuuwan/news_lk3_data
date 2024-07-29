@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 21:20:36**
+As of **2024-07-29 21:35:55**
 
 ## Newspaper Stats
 
-*Scraped **37,923** Articles*
+*Scraped **37,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 2,273
 dailyftlk | 2,416
 adalk | 3,463
 adaderanalk | 4,393
-tamilmirrorlk | 4,694
+tamilmirrorlk | 4,695
 dailymirrorlk | 4,733
 virakesarilk | 5,984
-adaderanasinhalalk | 6,379
+adaderanasinhalalk | 6,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,923 (100.0%) of 37,923 articles have been extended.
+37,923 (100.0%) of 37,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### පොහොට්ටුවේ දේශපාලන මණ්ඩල රැස්වීමේදී මොකද වුණේ ?
+
+*2024-07-29 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199347) · `si`
+
+2024 ජනාධිපතිවරණය සඳහා තම පක්ෂයෙන් වෙනම අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය අද (29) පස්වරුවේ තීන්දු කළේය.
+
+එම යෝජනාව සඳහා පොදුජන පෙරෙමුණේ දේශපාලන මණ්ඩලයේ සාමාජිකයින් 11 දෙනෙකු විරුද්ධ වී ඇතැයි වාර්තා වෙයි.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලයේ අද (29) පස්වරුවේ පැවති රැස්වීම සඳහා එහි සාමාජිකයින් 72ක් සහභාගී වී තිබේ.
+
+2024 ජනාධිපතිවරණයට තම පක්ෂයෙන් වෙනම අපේක්ෂකයෙක් ඉදිරිපත් කිරීම සඳහා පක්ෂ මහ ලේකම් සාගර කාරියවසම් විසින් යෝජනා කර ඇත.
+
+එම යෝජනාවට පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලයේ සාමාජිකයින් 61 දෙනෙකු පක්ෂ වී ඇති අතර 11 දෙනෙකු ඊට විරුද්ධවී තිබේ.
+
+මේ අතර ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් ඉදිරිපත් කරන අපේක්ෂකයා කවුරුන්ද යන්න අගෝස්තු පස් වනදා හෝ හය වනදා ප්‍රකාශ කරන බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/7e563e13.json)
+
+---
+
+### ஜீவன் தொண்டமானுக்கு நீதவான் வழங்கிய உத்தரவு
+
+*2024-07-29 21:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜீவன்-தொண்டமானுக்கு-நீதவான்-வழங்கிய-உத்தரவு/175-341236) · `ta`
+
+பலத்த பொலிஸ் பாதுகாப்புடன் நீதிமன்றில் ஆஜராகியிருந்த அமைச்சர் ஜீவன் தொண்டமானை சந்தேக நபராக ஏற்றுக்கொள்ளாது மேலதிக விசாரணைகளை மேற்கொண்டு நீதிமன்றில் உண்மைகளை முன்வைக்குமாறு நுவரெலியா மாவட்ட நீதவான் பொலிஸாருக்கு இன்று (29) உத்தரவிட்டார்.
+
+இன்றைய தினம் 29.7.2024 ஆம் திகதி அமைச்சர் ஜீவன் தொண்டமான் உள்ளிட்ட நான்கு பேர் நுவரெலியா நீதவான் நீதிமன்றத்திற்கு முன்னிலையாகி இருந்தனர்.  ஜீவன் தொண்டமான் சார்பாக சிரேஷ்ட சட்டத்தரணி ஷான் குலதுங்க, சிரேஷ்ட சட்டத்தரணி பெருமாள் ராஜதுரை மற்றும் சிவன்ஜோதி யோகராஜா ஆகியோர்  முன்னிலையாகி இருந்தனர்.
+
+நுவரெலியா நீதிமன்ற நீதிபதி  N.W.K.L பிரபூதிகா லங்காங்தனி முன்னிலையில் அவர் முன்னிலையாகி இருந்தார்.
+
+இவ்வழக்கு தொடர்பில் அமைச்சர் ஜீவன் தொண்டமானின் பெயர் எவ்விடத்திலும் பரிந்துரைக்கப்படாத காரணத்தினால் இவ்வழக்கினை எதிர்வரும் ஆகஸ்ட் மாதம் 26 ஆம் திகதிக்கு நீதவான் உத்தரவிட்டார்.
+
+...
+
+[Data](articles/815f9b33.json)
+
+---
+
+### ඉදිරි ජනාධිපතිවරණය ගැන පක්ෂ දෙකක් ගන්න යන තීරණය
+
+*2024-07-29 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199346) · `si`
+
+මෙවර ජනාධිපතිවරණය සඳහා වෙනම අපේක්ෂකයකු ඉදිරිපත් නොකර ප්‍රධාන අපේක්ෂකයන්ගෙන් අයකුට සහාය දෙන බව ඉලංගෙයි තමිල් අරසුකච්චි පසු ගිය සිකුරාදා අනාවරණ කළේය.
+
+ඒ අනුව එම පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීධරන් මහතා අද කිලිනොච්චියේ පැවති උත්සවයකින් අනතුරුව මාධ්‍ය වෙත අදහස් පළකරමින් සඳහන් කළේ  සිය පක්ෂය සහාය ලබාදෙන අපේක්ෂකයා සම්බන්ධ අවසන් තීන්දුව එළඹෙන අගෝස්තු මස 10 හෝ 11 වැනිදා ගැනීමට නියමිත බවය.
+
+ඉලංගෙයි තමිල් අරසු කච්චි පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීධරන් මහතා,
+
+"අපේ මධ්‍යම කාරක සභාව අගෝස්තු 10 හෝ 11 රැස්වෙයි. එහිදී අපි සමහර තීරණ ගන්නවා.  පොදු අපේක්ෂකයෙක්ට සහාය පළකරනවාද? එහෙම නැත්නම් උතුරු නැගෙනහිර දෙමළ ජනතාවගේ ප්‍රශ්නවලට ස්ථිර විසඳුමක් ලබාදෙන බවට ප්‍රතිපත්ති ප්‍රකාශයේ ඇත්නම් එවැනි අපේක්ෂකයෙක්ට සහාය පළකිරීම සම්බන්ධයෙනුත් තීරණයක් ගැනීමට නියමිතය."
+
+...
+
+[Data](articles/4bc4198a.json)
+
+---
 
 ### The underworld on the Pigeon Island
 
@@ -2213,75 +2271,5 @@ Divisional Secretariat Officers, Development Officers, Samurdhi Development Offi
 [Data](articles/971e86df.json)
 
 [Extended Data](ext_articles/971e86df.ext.json)
-
----
-
-### Note of postage voters
-
-*2024-07-29 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199324) · `si`
-
-The Elections Commission plans to display electoral regions starting July 26, 2022, to aid postal voters in the 2024 presidential election. This initiative aims to ensure convenience for all certified voters by the electoral bodies in 2024.
-
-🟩
-
-The Elections Commission announced that electoral regions should be displayed for the convenience of postal voters in the 2024 presidential election.
-
-Accordingly, the following places will be displayed from July 26, 202 to all electoral elections certified by the electoral electorates in the year 2024.
-
-The full announcement issued by the Elections Commission in this regard is as follows.
-
-◼️
-
-[Data](articles/1460b076.json)
-
-[Extended Data](ext_articles/1460b076.ext.json)
-
----
-
-### Free party's decision on Wednesday
-
-*2024-07-29 11:13:27* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්--පක්ෂයේ-තිරණය-බදාදා/11-411063) · `si`
-
-Duminda Dissanayake, General Secretary of the Sri Lanka Freedom Party (SLFP), announced the party's support for the upcoming presidential election. He emphasized the importance of choosing a leader with proven responsibility and capability to lead the country effectively. This decision was made to ensure the country's progress and stability.
-
-🟩
-
-Sri Lanka Freedom Party General Secretary Duminda Dissanayake said whatever the Sri Lanka Freedom Party would support the SLFP support for the next presidential election.
-
-He said that if the country's responsibility to bear responsibility, the responsibility of the country can proceed with a person who has already accomplished.He was addressing a group of party activists in Kekirawa electorate.
-
-"The Sri Lanka Freedom Party (SLFP) decision is that the SLFP will help you to help us to help the country to help us to take the lead in front of this country.If you think about the future of this country, it can be done with a person who has had this responsibility to be responsible for the popular waves or society without looking at TV or society.Is there "
-
-◼️
-
-[Data](articles/ae1e8367.json)
-
-[Extended Data](ext_articles/ae1e8367.ext.json)
-
----
-
-### In the middle
-
-*2024-07-29 11:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்தியில்-கடும்-மந்த-போசனம்/175-341205) · `ta`
-
-In the Central Province, 2,142 children under five suffer severe nutrition issues, with 15,920 having moderate nutrition problems and 27,812 being malnourished. The highest numbers are in Nuwara Eliya district, followed by Kandy and Matale districts.
-
-🟩
-
-The Provincial Health Services Department said that 2,142 children under the age of five in the Matale and Nuwara Eliya districts in the Central Province have been affected by severe nutrition.
-
-According to the request issued by the Provincial Health Department in accordance with the Information Access Act No. 12 of the Central Province by 2023, the state of affairs in the Central Province.
-
-According to information provided by the Department of Health Services, the Department of Health Services, 2142 children under the age of five are suffering from severe nutrition, 15,920 children are infected with moderate nutrition and 27,812 malnourished children have been identified in the same information.
-
-970 children in Kandy district, 461 children in Matale district and 711 children in Nuwara Eliya district.
-
-7626 in Kandy district, 3716 in Matale district and 4588 in Nuwara Eliya district. 11,044 in Kandy district, 4051 in Matale district and 12,717 in Nuwara Eliya district have been identified.
-
-...
-
-[Data](articles/9fb542db.json)
-
-[Extended Data](ext_articles/9fb542db.ext.json)
 
 ---

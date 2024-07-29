@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 16:36:13**
+As of **2024-07-29 16:53:05**
 
 ## Newspaper Stats
 
-*Scraped **37,883** Articles*
+*Scraped **37,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,91 @@ islandlk | 2,170
 economynextcom | 2,267
 dailyftlk | 2,416
 adalk | 3,455
-adaderanalk | 4,388
+adaderanalk | 4,390
 tamilmirrorlk | 4,690
 dailymirrorlk | 4,733
 virakesarilk | 5,976
-adaderanasinhalalk | 6,370
+adaderanasinhalalk | 6,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,879 (100.0%) of 37,883 articles have been extended.
+37,883 (100.0%) of 37,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### நீதிமன்றில் ஜீவன் ஆஜர்
+### ඇමති තොණ්ඩමන් ඇතුළු තිදෙනෙක් අධිකරණයට
+
+*2024-07-29 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199337) · `si`
+
+ලංකා කම්කරු කොංග්‍රසයේ මහ ලේකම් සහ ජල සම්පාදන හා වතු යටිතල පහසුකම් අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා සහ එම පක්ෂයේ ජ්‍යේෂ්ඨ නායකයින් තිදෙනෙක් අද (29) දින නුවරඑළිය මහෙස්ත්‍රාත් අධිකරණය වෙත මොසමක් ඉදිරිපත් කරමින් පෙනි සිටි බව නුවරඑළිය මුලස්ථාන පොලීසියේ ප්‍රධාන පොලිස් පරීක්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා පැවසීය.
+
+අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා සහ එම පක්ෂයේ ආධාරකරුවන් පිරිසක් සමග ඉකුත් මැයි මස 30 දින නුවරඑළිය පිඩෘ වතුයායට අයත් තේ කර්මාන්ත ශාලාව වෙත ගොස් එම වතු සමාගමේ ප්‍රධාන විධායක නිලධාරියා ඇතුළු කාර්ය මණ්ඩලය පැය කිහිපයක් ඔවුන් භාරයේ රඳවා ගත්තේ යැයි කියන පැමිණිල්ලක් සම්බන්ධයෙන් නුවරඑළිය පොලීසිය විසින් නුවරඑළිය මහෙස්ත්‍රාත් අධිකරණයට වෙත ඉකුත් මස 22 වන දින කරුණු වාර්තා කරමින් කියා සිටියේ පැමිණිල්ල සම්බන්ධයෙන් නීතිපතිවරයාගේ උපදෙස් ඉල්ලා ඇති බවත්, විමර්ශන කටයුතු අවසන් කර නොමැති නිසා සැකකරුවන්ගේ නම් අධිකරණය වෙත ඉදිරිපත් නොකරන බවය.
+
+...
+
+[Data](articles/23d773f4.json)
+
+---
+
+### Thousands rescued from devastating North Korea floods
+
+*2024-07-29 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100861/thousands-rescued-from-devastating-north-korea-floods) · `en`
+
+More than 5000 people isolated by flooding in northwest North Korea have been rescued in airlifts and other evacuation work state media says was supervised by leader Kim Jong Un.
+
+Heavy rainfall on Saturday caused a river on the North Korean-Chinese border to exceed a dangerous level and created “a grave crisis”, the official Korean Central News Agency (KCNA) said on Monday.
+
+About 10 military helicopters and navy and government boats were mobilised for the evacuation efforts in Sinuiju city and Uiju town where flooding had isolated residents.
+
+KCNA did not mention any deaths or how much damage the flooding caused. It said each of the about 10 helicopters made several fights to save the residents despite bad weather, ultimately rescuing 4200 people by air.
+
+It said Kim guided the evacuation works on Sunday, ordered food and other necessities to be provided to affected people and set tasks for recovery and relief works.
+
+...
+
+[Data](articles/b112cb3d.json)
+
+---
+
+### Injunction against Wijeyadasa further extended
+
+*2024-07-29 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100860/injunction-against-wijeyadasa-further-extended) · `en`
+
+The Colombo District Court has further extended the interim order issued preventing Wijeyadasa Rajapakshe from functioning as Chairman of the Sri Lanka Freedom Party (SLFP) and Sarathi Dushmantha as its General Secretary.
+
+The interim order was extended until September 24, 2024 when the plaint filed by SLFP members Minister Mahinda Amaraweera, State Minister Lasantha Alagiyawanna and Duminda Dissanayake was taken up before the court today (29).
+
+The respondents in the case were also instructed to file objections related to the case before September 24.
+
+The defendants in the case include the Acting Chairman of the SLFP, Minister Nimal Siripala de Silva.
+
+Meanwhile, Wijeyadasa Rajapakshe today stepped down from his post as Minister of Justice, Prisons Affairs and Constitutional Reforms.
+
+◼️
+
+[Data](articles/feb2bde0.json)
+
+---
+
+### Jeevan Azhar
 
 *2024-07-29 16:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-ஜீவன்-ஆஜர்/175-341227) · `ta`
 
-அமைச்சர் ஜீவன் தொண்டமான் மற்றும் அக்கட்சியின் ஆதரவாளர்கள் மூவர் நுவரெலியா நீதவான் நீதிமன்றில்  முன்னிலையாகினர்.  நகர்த்தல் மனுவினை தாக்கல் செய்தே இம்மூவரும் நீதிமன்றத்தில் ஆஜராகினர்.
+Minister Jeevan Thondaman and three others submitted a legal notice and appeared in court in Nuwara Eliya.
+
+🟩
+
+Minister Jeevan Thondaman and three supporters of the party appeared before the Nuwara Eliya Magistrate's Court.  நகர்த்தல் மனுவினை தாக்கல் செய்தே இம்மூவரும் நீதிமன்றத்தில் ஆஜராகினர்.
 
 ◼️
 
 [Data](articles/10001710.json)
+
+[Extended Data](ext_articles/10001710.ext.json)
 
 ---
 
@@ -57,6 +117,8 @@ The police officer who was riding the motorcycle was killed on the spot, while a
 ◼️
 
 [Data](articles/43b8ac6c.json)
+
+[Extended Data](ext_articles/43b8ac6c.ext.json)
 
 ---
 
@@ -75,6 +137,8 @@ Meanwhile, a discussion between the country’s security chiefs and Election Com
 ◼️
 
 [Data](articles/f14e8afa.json)
+
+[Extended Data](ext_articles/f14e8afa.ext.json)
 
 ---
 
@@ -137,6 +201,8 @@ That will be the next challenge for Athapaththu and Sri Lanka, but the experienc
 ...
 
 [Data](articles/134cf06f.json)
+
+[Extended Data](ext_articles/134cf06f.ext.json)
 
 ---
 
@@ -2207,69 +2273,5 @@ President Ranil Wickremesinghe made this statement participating at the 'Jayawam
 [Data](articles/91e63b71.json)
 
 [Extended Data](ext_articles/91e63b71.ext.json)
-
----
-
-### Mujibur accuses President of attempting to remain in power while creating anarchy
-
-*2024-07-29 03:42:56* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-accuses-President-of-attempting-to-remain-in-power-while-creating-anarchy/56-764867) · `en`
-
-SJB MP Mujibur Rahman says President is making concerted effort to undermine democracy and rule of law
-
-Claims President Ranil Wickremesinghe is using various tactics to obstruct elections
-
-Notes despite Wickremesinghe’s invitation, none of SJB’s MPs will support him
-
-Slams President for working towards destroying judicial system and rule of law
-
-Samagi Jana Balawegaya (SJB) MP Mujibur Rahman has accused President Ranil Wickremesinghe of trying to hold on to power while letting the country descend into anarchy.
-
-Speaking at a press conference yesterday, Rahman criticised the President for attempting to violate the Constitution. “He is allowing the country to descend into anarchy for the benefit of himself and his group. He is also making a concerted effort to undermine democracy and the rule of law,” accused Rahman.
-
-...
-
-[Data](articles/03110404.json)
-
-[Extended Data](ext_articles/03110404.ext.json)
-
----
-
-### Govt. gets Worker’s Tribunal Decision
-
-*2024-07-29 03:39:36* · [`dailyftlk`](https://www.ft.lk/news/Govt-gets-Worker-s-Tribunal-Decision/56-764866) · `en`
-
-The Trade Union representatives from Ceylon Workers Red Flag Union, United Plantation Workers Union (UPWU), National Union of Workers (NUW), Up Country Workers Front (UWF) and Ceylon Federation of Trade Unions (CFTU) last week met with the Secretary to the Ministry of Labour R.P.A. Wimalaweera and Senior Assistant Secretary – Labour and Foreign Relations Balasubramaniam Wasanathan and handed over the Worker’s Tribunal Decision.
-
-The Worker’s Tribunal Decision was by three eminent retired Judges from Sri Lanka, India and Nepal who heard the testimonies of workers in the tea and rubber plantations. This historic tribunal for Sri Lanka brought to light the extremely inhumane working conditions in the plantations and the exploitation of labour by payment of very low wages. The Judges expressed how their conscience was shocked by the conditions in the plantations.
-
-...
-
-[Data](articles/87c8fe4b.json)
-
-[Extended Data](ext_articles/87c8fe4b.ext.json)
-
----
-
-### Dayasiri refutes rumours of SLFP-SJB agreement
-
-*2024-07-29 03:38:54* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-refutes-rumours-of-SLFP-SJB-agreement/56-764865) · `en`
-
-SLFP Dayasiri Jayasekara denies he has been in talks with SJB and says no agreement will be signed on 8 Aug.
-
-Says SLFP has decided to appoint a 10-member committee to determine party’s plans
-
-Stresses party has not decided which candidate to support in upcoming Presidential poll
-
-Sri Lanka Freedom Party (SLFP) General Secretary Dayasiri Jayasekara has refuted claims that the party will sign an agreement with the Samagi Jana Balawegaya (SJB) on 8 August.
-
-At a press conference held yesterday, Jayasekara also dismissed rumours that he had been in talks with the SJB regarding backing SJB leader Sajith Premadasa’s Presidential bid.
-
-Jayasekara was responding to questions posed by media personnel regarding former SLFP Chairperson Maithripala Sirisena’s challenge for Jayasekara to disclose the specifics of an alleged agreement between the SLFP and SJB to support the SJB in the upcoming Presidential election.
-
-...
-
-[Data](articles/d324ddd0.json)
-
-[Extended Data](ext_articles/d324ddd0.ext.json)
 
 ---

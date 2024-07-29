@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 10:36:04**
+As of **2024-07-29 10:54:43**
 
 ## Newspaper Stats
 
-*Scraped **37,806** Articles*
+*Scraped **37,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ bbccomsinhala | 365
 islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,416
-adalk | 3,444
+adalk | 3,445
 adaderanalk | 4,380
-tamilmirrorlk | 4,670
+tamilmirrorlk | 4,671
 dailymirrorlk | 4,733
 virakesarilk | 5,961
-adaderanasinhalalk | 6,355
+adaderanasinhalalk | 6,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,804 (100.0%) of 37,806 articles have been extended.
+37,806 (100.0%) of 37,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### දඬු ගං ඔයේ නාඳුනන මළ සිරුරක්
+
+*2024-07-29 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199321) · `si`
+
+කිඳීගොඩ ප්‍රදේශයේ දඬු ගං ඔයේ තිබී නාඳුනන පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක්  සොයා ගෙන තිබේ.
+
+සීදූව පොලීසියට ලද තොරතුරක් මත ඊයේ (28) දින මෙම සිරුර සොයාගෙන තිබුණි.
+
+මිය ගොස් ඇත්තේ, අවුරුදු 45ත් 50ත් අතර වයසේ පසු වන උස අඩි 05 අඟල් 10ක් පමණ වන පුද්ගලයෙකු බව වාර්තා විය.
+
+ඔහු කහ සහ කළු පැහැති බතික් සරමක් හා කොළ පැහැති ටී-ෂර්ට් එකක් ඇඳගෙන සිටි බව පොලීසිය පැවසීය.
+
+මළ සිරුර මීගමුව රෝහලේ මෘත ශරීරාගාරයේ තබා ඇති අතර පොලීසිය විසින් වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/52eb4599.json)
+
+---
+
+### சபாநாயகருக்கும் பிரதம நீதியரசருக்கும் ஜனாதிபதி அழைப்பு
+
+*2024-07-29 10:20:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கும்-பிரதம-நீதியரசருக்கும்-ஜனாதிபதி-அழைப்பு/175-341200) · `ta`
+
+பொலிஸ் மா அதிபர் தொடர்பில் எழுந்துள்ள பிரச்சினையை சபாநாயகர் மற்றும் பிரதம நீதியரசர் ஆகியோருடன் கலந்துரையாடி தீர்க்கப்பட வேண்டுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க ஞாயிற்றுக்கிழமை (28) அறிவித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன மற்றும் பிரதம நீதியரசர் ஜயந்த ஜயசூரிய ஆகியோருக்கு தனித்தனியாக தொலைபேசி மூலம் அறிவித்துள்ளார்.
+
+பொலிஸ் மா அதிபரின் பிரச்சினை எதுவாக இருந்தாலும் எதிர்வரும் 21 ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதி தேர்தலுக்கு தேர்தல்கள் ஆணைக்குழுவிற்கு தனது ஆதரவை வழங்குவதாக ஜனாதிபதி மேலும் சபாநாயகருக்கும் பிரதம நீதியரசருக்கும் அறிவித்துள்ளார்.
+
+இதற்கமைய, எதிர்வரும் செப்டெம்பர் 21ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலுக்கு எவ்வித தடைகளும் ஏற்படாத வகையில் தேர்தல்கள் ஆணைக்குழுவிற்கு தேவையான அனைத்து ஆதரவையும் வழங்குவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6cafd711.json)
+
+---
 
 ### The Presidential candidate of the Sri Lanka PA?
 
@@ -75,6 +113,8 @@ Opposition leader Maria Corina Machado reiterated a call for the country’s mil
 ...
 
 [Data](articles/61183692.json)
+
+[Extended Data](ext_articles/61183692.ext.json)
 
 ---
 
@@ -121,6 +161,8 @@ Several police agencies responded to the park including the Irondequoit Police, 
 ...
 
 [Data](articles/1bbffdf6.json)
+
+[Extended Data](ext_articles/1bbffdf6.ext.json)
 
 ---
 
@@ -1514,6 +1556,20 @@ Your skill, dedicated and joint operation for your failure. The President has st
 
 ---
 
+### පොහොට්ටුවෙන් අපේක්ෂකයෙක් දාන්න එපා යැයි සාගල හා සුසිල් මහින්දට කියයි
+
+*2024-07-28 20:08:44* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-අපේක්ෂකයෙක්-දාන්න-එපා-යැයි-සාගල-හා-සුසිල්-මහින්දට-කියයි/11-411055) · `si`
+
+ජනාධිපතිවරණය සඳහා පොහොට්ටුවෙන් අපේක්ෂකයෙකු ඉදිරිපත් නොකරන ලෙස ජනාධිපති උපදේශක සාගල රත්නායක හා අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහත්වරුන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මුණ ගැසී ඉල්ලීමක් කර ඇත.
+
+ඉකුත් පාර්ලිමේන්තු මැතිවරණයේදී ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් පාර්ලිමේන්තුවට පත්වූ මන්ත්‍රීවරුන් 112 දෙනෙකු ජනාධිපතිවරයා ප්‍රමුඛ රජයට සහාය පළකරන බවත්, ඉන් මන්ත්‍රීවරුන් 90 දෙනෙකු පොහොට්ටුවේ සාමාජිකයන් වන අතර ඔවුන් පාර්ලිමේන්තුවට සෘජුවම තේරී පත්වූයේ පොහොට්ටුව ලකුණින් මැතිවරණයට තරග කිරීමෙන් බවත් ඔවුන් පෙන්වා දී තිබේ.
+
+...
+
+[Data](articles/a3e39123.json)
+
+---
+
 ### There is no President who clashes with the Supreme Court as Ranil
 
 *2024-07-28 20:01:46* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-තරම්-ශ්‍රේෂ්ඨාධිකරණය-සමග-ගැටුම්-ඇතිකරගත්-ජනපතිවරයෙක්-නෑ/11-411054) · `si`
@@ -2185,71 +2241,5 @@ Premajayantha also highlighted the progress of the new education system, set to 
 [Data](articles/c3b70d87.json)
 
 [Extended Data](ext_articles/c3b70d87.ext.json)
-
----
-
-### Paris Olympics represent Sri Lanka
-
-*2024-07-28 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199306) · `si`
-
-Sri Lanka's badminton youth, Neththanthan, competed in the Paris Olympics, ranking 72nd globally. Despite a strong start by Virage Neththanasinghe in the second round, Malaysian player G Zia clinched victory with 21 points. The next match for Viyan is set for December 30th.
-
-🟩
-
-Sri Lanka Youth Badminton Neththanton, Sri Lanka's Representatives of the Paris Olympics, competed today.
-
-World Badminton rankings were 72th in the 21st of World Badminton Rankings.
-
-Malaysia player won the first round of the first round of the match.
-
-Virage Neththanasinghe, who was a good match at the beginning of the second round, was able to take the lead in round the second round.
-
-But the experienced wooden G Zia wins the second round and won 21 runs.
-
-Accordingly, the overall game won the player of the Malaysia.
-
-The next match of Viyan under the preliminary round Group is scheduled to be held at 12 noon on the 30th this month.
-
-◼️
-
-[Data](articles/fce0c6a4.json)
-
-[Extended Data](ext_articles/fce0c6a4.ext.json)
-
----
-
-### Important Judgment of International Court
-
-*2024-07-28 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189612) · `ta`
-
-The International Court ruled that Israel's occupation of Palestinian territories is illegal, emphasizing the need for immediate cessation. The court found Israel's actions violate international law and undermine Palestinian autonomy, asserting no sovereignty over the land.
-
-🟩
-
-“Israel's policies on the occupied Palestinian Earth are equal to the grave. Israel's continuing occupation on Palestinian Earth is illegal. Should be ended up quickly until then. Israel has no sovereignty on the land. Israel is violating international law. It is also the autonomy of Palestine. ”
-
-◼️
-
-[Data](articles/ad310672.json)
-
-[Extended Data](ext_articles/ad310672.ext.json)
-
----
-
-### The Pakistani government seeks to ban Imran Khan's party
-
-*2024-07-28 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189614) · `ta`
-
-Prime Minister Shebab Sharif announced in Pakistan Parliament that the government aims to negotiate issues with Imran Khan's party, including BRI, once its members are freed from jail.
-
-🟩
-
-Addressing the Pakistan Parliament on June 26, Prime Minister Shebah Sharif said, "If the founder is confronted with the founder, we will talk about it.. Come on. Let's sit and talk. We can solve the problems. Imran Khan and B.R.I.. The BRI will be negotiated after the employees are released from prison.. The party responded.
-
-◼️
-
-[Data](articles/b8222026.json)
-
-[Extended Data](ext_articles/b8222026.ext.json)
 
 ---

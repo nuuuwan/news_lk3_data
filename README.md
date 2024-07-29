@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 20:06:50**
+As of **2024-07-29 20:20:31**
 
 ## Newspaper Stats
 
-*Scraped **37,911** Articles*
+*Scraped **37,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 3,461
 adaderanalk | 4,393
 tamilmirrorlk | 4,694
 dailymirrorlk | 4,733
-virakesarilk | 5,976
-adaderanasinhalalk | 6,377
+virakesarilk | 5,984
+adaderanasinhalalk | 6,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,910 (100.0%) of 37,911 articles have been extended.
+37,910 (100.0%) of 37,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### පොලිස් වෙසින් කතුන් කොල්ලකා ලිංගික අතවර කළ හිටපු සෙබළා
+
+*2024-07-29 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199344) · `si`
+
+පොලිස් නිලධාරියෙකු බවට හඟවා කාන්තාවන් බියගන්වා රන් ආභරණ සහ මුදල් කොල්ලකා ඔවුන්ව ලැඟුම්හල්වලට රැගෙන ගොස් ලිංගික අතවර සිදුකළ හිටපු යුද හමුදා සෙබළෙකු සහ ඊට අනුබල දුන් පුද්ගලයෙකු කැස්බෑව පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, සැකකරු මියගිය පොලිස් නිලධාරියෙකුගේ ඡායාරූපයක් භාවිත කර ව්‍යාජ පොලිස් හැඳුනුම්පතක්ද සකස් කරගෙන තිබූ බවය.
+
+පානදුර ප්‍රදේශයේ ප්‍රසිද්ධ ඇඟලුම්හලක සේවිකාවක් පසුගිය 14 වැනිදා සිය පෙම්වතා හමුවී නැවත නිවස වෙත පැමිණෙමින් සිටියදී ත්‍රිරෝද රථයකින් පැමිණි පුද්ගලයෙකු ඇයට පවසා ඇත්තේ එම ත්‍රිරෝද රථයෙන් නිවසට යා හැකි බවය.
+
+ඒ අනුව, ඇය ත්‍රිරෝද රථයට ගොඩවී මද දුරක් ගමන් කරමින් සිටියදී එහි පසුපස අසුනේ සිටි පුද්ගලයා ඇයට පොලිස් හැඳුනුම්පතක් පෙන්වා තිබුණි.
+
+එහිදී ඔහු ඇඟලුම් සේවිකාව බියවද්දවා ඇත්තේ, පොලිස් නිලධාරියෙකු වන තමා, ඇය අනාචාරයේ හැසිරෙන තැනැත්තියක් බවට සියලු තොරතුරු සොයාගත් බව පවසමිනි.
+
+...
+
+[Data](articles/c2178426.json)
+
+---
 
 ### එංගලන්තයේ පිහි ඇනුමක් - පොලීසිය ආරක්ෂාව තර කරයි
 
@@ -43,6 +63,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f169d2b0.json)
+
+---
+
+### தேசபந்து தென்னகோன் பதவியை இராஜினாமா செய்ய கோரி பொலிஸ் தலைமையகத்தில் மகஜர்
+
+*2024-07-29 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189735) · `ta`
+
+தேசபந்து தென்னகோனுக்கு எதிராக உயர் நீதிமன்றம் விதித்துள்ள தடையுத்தரவுக்கு அமைய பொது மக்களின் வரிப்பணத்தை பயன்படுத்தி தொடர்ந்தும் அவரை பொலிஸ் திணைக்களத்தில் வைத்து போசிப்பதால் எந்த பயனும் கிடையாது எனவும் உடனடியாக அவர் தனது பதவியை இராஜினாமா செய்ய வேண்டும் என வலியுறுத்தியும் மக்கள் போராட்ட இயக்கத்தின் ஊடக ஒருங்கிணைப்பாளர் சந்துன் எஸ்.ராஜபக்ஷ உள்ளிட்ட தரப்பினர் திங்கட்கிழமை (29) பொலிஸ் தலைமையகத்தில் மகஜர் ஒன்றை கையளிக்க சென்றிருந்தனர்.
+
+அத்துடன் அப்பகுதியில் அவர்கள் எதிர்ப்பு ஆர்ப்பாட்டமொன்றை முன்னெடுக்க முற்பட்ட போது பொலிஸார் அதற்கு கடும் எதிர்ப்பை வெளிப்படுத்தியதுடன் அவரிடமிருந்த மகஜரையும் பொலிஸார் பலவந்தமாக பறித்தெடுத்தனர்.
+
+◼️
+
+[Data](articles/1881e288.json)
+
+---
+
+### தபால் மூல வாக்களிப்பு : விண்ணப்பங்களை ஆகஸ்ட் 05 ஆம் திகதிக்கு முன்னர் சமர்ப்பித்தல் வேண்டும் - தேர்தல்கள் ஆணைக்குழு
+
+*2024-07-29 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189733) · `ta`
+
+தபால்மூல வாக்களிப்புக்கு தகுதி பெறும் வாக்காளர்கள் பூரணப்படுத்தப்பட்ட விண்ணப்பங்களை 2024.08.05 ஆம் திகதி அல்லது அதற்கு முன்னர் மாவட்ட தெரிவத்தாட்சி அலுவலரிடம் ஒப்படைத்தல் வேண்டும். நிச்சயிக்கப்பட்ட திகதிக்கு பின்னர் கிடைக்கப்பெறும் விண்ணப்பங்கள் மீள்பரிசீலனை இல்லாமல் இரத்து செய்யப்படும் என தேர்தல்கள் ஆணைக்குழு அறிவுறுத்தியுள்ளது.
+
+2024 ஆம் ஆண்டு இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலுக்கு 2024 ஆம் ஆண்டுக்கான புதிய தேருநர் இடாப்பு (வாக்காளர் இடாப்பு) பயன்படுத்தப்படும்.தபால் மூல வாக்காளரின் நலனுக்காக நாடளாவிய ரீதியில் உள்ள சகல தேர்தல் தொகுதிகளுக்கு உரிய 2024 ஆம் ஆண்டு வாக்காளர் இடாப்பு 2024.07.26 ஆம் திகதி முதல் அலுவலக நேரத்தின் போது அனைத்து மாவட்ட செயலாளர் காரியாலயம்(கச்சேரி),பிரதேச செயலாளர் காரியாலயம்,கிராம சேவகர் அலுவலகத்தில் காட்சிப்படுத்தப்பட்டுள்ளன.
+
+...
+
+[Data](articles/d357d737.json)
 
 ---
 
@@ -61,6 +109,22 @@ Issuing a statement, the Ministry mentioned that the Foreign Affairs State Minis
 [Data](articles/fe497eb9.json)
 
 [Extended Data](ext_articles/fe497eb9.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் சம்பிரதாய அரசியலில் ஈடுபட்டால் நாட்டில் மீண்டும் போர் ஏற்படுவதைத் தடுக்க முடியாது - வஜிர அபேவர்தன
+
+*2024-07-29 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189729) · `ta`
+
+அடுத்த ஜனாதிபதித் தேர்தலில் சம்பிரதாய அரசியல் சித்தாந்தங்களை பின்பற்றினால் நாட்டில் மீண்டும் உள்நாட்டு யுத்தம் ஏற்படும் அபாயம் இருப்பதாகவும், அவ்வாறானதொரு நிலை ஏற்பட்டால் அதற்கு சம்பந்தப்பட்ட தரப்பினர் பொறுப்பேற்க வேண்டுமென பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன சுட்டிக்காட்டினார்.
+
+பாராளுமன்றத்தில் உள்ள 225 உறுப்பினர்களின் ஒருமித்த கருத்துடன் புதிய பொருளாதார பரிமாற்றச் சட்டம் நிறைவேற்றப்பட்ட போதிலும், சிலர் வெளியே வந்து மக்களை தவறாக வழிநடத்தும் வகையில்  கருத்துக்களை முன்வைப்பது வருந்தத்தக்கது எனவும், சம்பிரதாய பிளவுகளை ஒதுக்கிவிட்டு நாட்டைக் கட்டியெழுப்பும் தேசிய வேலைத்திட்டத்திற்கு அனைவரும் உடன்படுமாறும் வேண்டுகோள் விடுத்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (29) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/17410f37.json)
 
 ---
 
@@ -332,6 +396,24 @@ Foreign selling was seen in Chevron Lubricants Lanka Plc (down at 119.00), ACL P
 
 ---
 
+### நாம் மீட்புப் பெற வேண்டுமெனில் ஊழல் மிக்க ஆளும் கும்பலை விரட்டியடிக்க வேண்டும் - அநுரகுமார
+
+*2024-07-29 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189707) · `ta`
+
+நாங்கள் மீட்பு பெறவேண்டும். மீட்பு பெறவேண்டுமானால் முதலில் ஊழல் மிக்க, அழிவுமிக்க, தூரநோக்கற்ற ஆளும் கும்பலை விரட்டியடிக்க வேண்டும். எல்லாத்துறையிலும் வளமிக்க நாடொன்றை உருவாக்குவதே எமது நோக்கமாகும் : அநுர குமார திசாநாயக்க
+
+தேசிய மக்கள் சக்தியின் வங்கி மற்றும் நிதி ஒன்றியத்தின் மாத்தறை மாவட்ட கருத்தரங்கு கடந்த 27 ஆம் திகதி வெள்ளிக்கிழமை மாத்தறை பர்ள் பெலஸ் ஹோட்டலில் இடம்பெற்றது.
+
+நாங்கள் நீண்ட காலமாக வாக்குகளை அளித்திருக்கிறோம். வாக்குகளை அளிக்கும்போது அரசாங்கமொன்றை அமைக்கும்போது பிரஜைகளிடம் நிலவிய எதிர்பார்ப்புகள் ஈடேறியுள்ளனவா? எமது நாட்டில் தோன்றியுள்ள பொருளாதார நெருக்கடியை நோக்கினாலும், அரச மற்றும் ஏனைய ஒவ்வொரு துறையிலும் தோன்றியுள்ள சீர்குலைவுகளை நோக்கினாலும் நிகழ்ந்திருப்பது முன்னேற்றமல்ல. பின்னடைவுதான்.
+
+நாங்கள் இந்த தலைவிதியிலிருந்து மீட்பு பெறவேண்டும். மீட்பு பெறவேண்டுமானால் முதலில் ஊழல் மிக்க, அழிவுமிக்க, தூரநோக்கற்ற ஆளும் கும்பலை விரட்டியடிக்க வேண்டும்.
+
+...
+
+[Data](articles/5c22bd4a.json)
+
+---
+
 ### Manna brought to court
 
 *2024-07-29 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199339) · `si`
@@ -357,6 +439,26 @@ Manna Ramesh has been accused of extorting drug trafficking and murder centered 
 [Data](articles/b5e55a4c.json)
 
 [Extended Data](ext_articles/b5e55a4c.ext.json)
+
+---
+
+### வட, கிழக்கு மக்கள் ரணிலுக்கே ஆதரவு : எஸ்.பி.திஸாநாயக்க
+
+*2024-07-29 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189710) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுன ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்காவிடின் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ ஜனாதிபதித் தேர்தலில் வெற்றிப் பெறுவார்.வடக்கு மற்றும் கிழக்கு மாகாண மக்கள் ஜனாதிபதிக்கே ஆதரவு வழங்குவார்கள் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.பி.திஸாநாயக்க தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் அல்லது அவருக்கு முழுமையான ஆதரவை வழங்க வேண்டும் என்று முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவிடம் பலமுறை எடுத்துரைத்துள்ளோம்.
+
+கட்சியின் ஒரு தரப்பினர் மாத்திரமே கட்சியின் உறுப்பினரை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று குறிப்பிட்டுக் கொள்கிறார்கள்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் சிரேஷ்ட உறுப்பினர்கள் ஜனாதிபதிக்கு ஆதரவு வழங்க வேண்டும் என்ற நிலைப்பாட்டில் உறுதியாக உள்ளார்கள்.
+
+அத்துடன் கட்சியின் தொகுதி அமைப்பாளர்களும் இதே நிலைப்பாட்டில் தான் உள்ளார்கள்.ஆகவே கட்சியின் பெரும்பான்மை நிலைப்பாட்டுக்கு மதிப்பளித்து சிறந்த தீர்மானம் எடுக்க வேண்டும் என்பதை வலியுறுத்தியுள்ளோம்.
+
+...
+
+[Data](articles/d6c5c48f.json)
 
 ---
 
@@ -406,6 +508,42 @@ Sri Lanka Freedom Party (SLFP) Minister Mahinda Amaraweera, Lasantha Alagiyawann
 
 ---
 
+### இந்துக்கடவுள்களின் விக்கிரகங்கள் சேதமாக்கப்படுகின்றன- இலங்கையில் மத சிறுபான்மையினர் அரசாங்கத்தினால் இலக்குவைக்கப்படுகின்றனர் - சர்வதேசமனித உரிமை கண்காணிப்பகம்
+
+*2024-07-29 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189713) · `ta`
+
+இந்துக்கள் மற்றும் பிற சிறுபான்மையினர் வழிபாட்டுதலங்கள்  மற்றும் அது தொடர்பான பகுதிகளிற்கு செல்வதை தடுக்கும், மறுக்கும் நடவடிக்கைகளில் இலங்கை அதிகாரிகள் ஈடுபட்டுள்ளதாக குற்றம்சாட்டியுள்ள சர்வதேச மனித உரிமை கண்காணிப்பகம்,அவ்வாறான இடங்களை பௌத்தஸ்தலங்களாக ,பௌத்தர்களிற்கு உரிய பகுதிகளாக மாற்றுவதிலும் அரசாங்கம் ஈடுபடுகின்றது என தெரிவித்துள்ளது.
+
+தொல்பொருள் திணைக்களம் உட்பட அரசஸ்தாபனங்கள் ,இராணுவம் ,பொலிஸார் இணைந்து மத சிறுபான்மையினத்தவர்களின் கலாச்சாரம் ,வழிபாடுகள் மீது தாக்குதல்களை மேற்கொள்ளும் ஒரு ஒருங்கிணைந்த மூலோபாயத்தை முன்னெடுக்கின்றனர் எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+அவர்கள் தமிழர்கள் பெரும்பான்மையாக வாழும் வடக்குகிழக்கி;ல் சிங்களபௌத்த குடியேற்றங்களை ஊக்குவிக்கின்றனர்,இது பெரும்பான்மையான தமிழ் முஸ்லீம் மக்களின் சொத்து மற்றும் மதஉரிமை ஆகியவற்றிற்கு தீங்குவிளைவிப்பதாக காணப்படுகின்றது எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/751fdecc.json)
+
+---
+
+### சேவைக்கு சமுகமளிக்காமல் வீட்டில் பதுங்கியிருந்த 3 பெண் சிப்பாய்கள் கைது
+
+*2024-07-29 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189697) · `ta`
+
+சேவைக்கு சமூகமளிக்காமல் மத்தேகொடவில் உள்ள வீடொன்றில் பதுங்கியிருந்த 22 வயதுடைய மூன்று பெண் சிப்பாய்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்கள் மூவரும் கொக்காவில் மற்றும் சந்துன்புர இராணுவ முகாம்களில் கடமையாற்றும் ஹசலக்க, தெனிபிட்டிய மற்றும் பொல்கஸ்சோவிட்ட ஆகிய பிரதேசங்களில் வசிப்பவர்கள் என அடையாளம் காணப்பட்டுள்ளனர்.
+
+பொல்கசோவிட்டையைச் சேர்ந்த பெண் சிப்பாய் விடுமுறையில் சென்றிருந்த நிலையில், மற்றைய இருவரும் அவரைச் சந்தித்து பல நாட்கள் வீட்டில் தங்கியிருந்துள்ளனர்.
+
+இந்நிலையில், வீட்டில் வசிப்பவர்கள் இவர்கள் தங்கி இருப்பதை 119 தொலைபேசி எண் ஊடாக பொலிஸாருக்கு தெரிவித்தனர்.
+
+இதன்போது, பொலிஸாரின் விசாரணையில் பெண் இராணுவ சிப்பாய்கள்  உண்மையிலேயே தங்கள் சேவையை விட்டு வெளியேறியது தெரியவந்தது. மேலதிக விசாரணைக்காக மூவரும் இராணுவத்திடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/0c847750.json)
+
+---
+
 ### Three and three others including Minister Thondaman
 
 *2024-07-29 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199337) · `si`
@@ -451,6 +589,22 @@ After a while, thera tried to take an invitation, and when the phone was not wor
 [Data](articles/f9291d0e.json)
 
 [Extended Data](ext_articles/f9291d0e.ext.json)
+
+---
+
+### பாரவூர்தி - மோட்டார் சைக்கிள் விபத்து ; பொலிஸ் அதிகாரி பலி
+
+*2024-07-29 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189709) · `ta`
+
+அவிசாவளை, தும்மோதர - புவக்பிட்டிய வீதியில் மிரிஸ்குடு வளைவுக்கு அருகில் இடம்பெற்ற விபத்தில் பொலிஸ் உத்தியோகத்தர் ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த வீதியில் சென்று கொண்டிருந்த கொள்கலன் பாரவூர்தி ஒன்று மோட்டார் சைக்கிள் மீது மோதியதில் இந்த விபத்து இன்று திங்கட்கிழமை (29) இடம்பெற்றுள்ளது.
+
+மோட்டார் சைக்கிளில் பயணித்த பொலிஸ் உத்தியோகத்தர் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாகவும் மற்றைய அதிகாரி சிகிச்சைக்காக அவிசாவளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/1a0ccb5b.json)
 
 ---
 
@@ -2041,227 +2195,5 @@ On the 15th of August, 2024,. From 9.00 pm. Objectives can be made regarding the
 [Data](articles/10497368.json)
 
 [Extended Data](ext_articles/10497368.ext.json)
-
----
-
-### e. Tea. Commissioner notice
-
-*2024-07-29 11:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தே-ஆ-தவிசாளர்-அறிவிப்பு/175-341203) · `ta`
-
-The Sri Lanka Election Commission has announced details for the 2024 presidential election, including nomination deadlines, deposit requirements, and a referendum date set for September 21, 2024. Nomination papers must be submitted between 9:00 pm and 11:00 pm on August 15, 2024, at the Election Commission headquarters in Rajagiriya. Objections to nominations can be raised until 11:30 am on the same day. Candidates must pay a deposit, with political parties required to pay Rs 50,000 and individual candidates Rs 75,000, by 12:00 pm on August 14, 2024. Confirmation of candidacy requires a certificate from the Secretary-General of Parliament, excluding nominated political parties.
-
-🟩
-
-RMAL Satnayake, the Chairman of the Sri Lanka Election Commission, has issued a notification on the presidential election 2024 nominations, deposits and referendum.
-
-Accordingly, the following issues have been clarified to voters about Article 2 and 8 of the Presidential Elections Act No. 15 of 1981.
-
-The public is notified by the public that the referendum for the presidential election will be held on September 21, 2024.
-
-The nomination papers for the election, on August 15, 2024,. From 9.00 pm. Within 11.00 pm, the headquarters of the Election Commission, located in Rajagiriya, Sarana Mawatha, will be held in charge of the auditorium.
-
-On the 15th of August, 2024,. From 9.00 pm. Objectives can be made regarding the nominal appointment that is handed over within 11.30am. These objections can be made by a person who signed the nomination papers by a nomination of the opposition candidate or by the opposition candidate.
-
-...
-
-[Data](articles/c7d825b9.json)
-
-[Extended Data](ext_articles/c7d825b9.ext.json)
-
----
-
-### Volleyball Star
-
-*2024-07-29 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199323) · `si`
-
-A 17-year-old schoolgirl tragically passed away after being found unconscious in the Dugawala area, Nachgadaanduwa, Avissawella.
-
-🟩
-
-A 17-year-old schoolgirl has died yesterday (28), a 17-year-old schoolgirl was killed in swallowing the Dugawala area in the Nachgadaanduwa, Avissawella.
-
-◼️
-
-[Data](articles/7c905704.json)
-
-[Extended Data](ext_articles/7c905704.ext.json)
-
----
-
-### Development projects implemented without approval
-
-*2024-07-29 10:51:55* · [`adalk`](https://www.ada.lk/breaking_news/අනුමැතියකින්-තොරව-ක්‍රියාත්මක-කළ-සංවර්ධන-ව්‍යාපෘතිවල-ගැටළු-රැසක්/11-411062) · `si`
-
-Urban Development Minister Prasanna Ranatunga stressed the importance of approval from the Divisional and District Coordinating Committees for effective implementation of development projects. He highlighted issues arising from unapproved projects and promised to address them, including providing facilities for the Konenawa Municipal Council and taking action on the Black Bridge construction issue. The Minister also mentioned the need for the Treasury and President's intervention due to financial constraints and clarified that the UDA does not own the Kolonnawa Fuel Storage. Discussions were held regarding the construction of schools and the Meethotamulla area development.
-
-🟩
-
-Urban Development and Housing Minister Prasanna Ranatunga says that the approval of Urban Development Plans is compulsory compulsory to the Divisional Coordinating Committee and the District Coordal Committee.
-
-He emphasizes that this decision was taken to implement development projects effectively to the public.
-
-The Minister said that various issues have been emerged in the development projects implemented without such a consultation.
-
-The Minister made these comments addressing the Minister of Urban Development and Housing Counseling Committee. It was held at the Parliament under the patronage of Minister Prasanna Ranatunga recently.
-
-The Colombo District MP SM Junkar requested the Urban Development and Housing Minister Prasanna Ranatunga to provide the necessary facilities to be sent to the sale of the Konenawa Municipal Council.The Minister instructed the Ministry officials to pay attention to the matter.
-
-...
-
-[Data](articles/67a34458.json)
-
-[Extended Data](ext_articles/67a34458.ext.json)
-
----
-
-### 36 killed in clashes160 people injured
-
-*2024-07-29 10:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-பழங்குடியினரிடையே-மோதல்-36-பேர்-பலி-160-பேர்-காயம்/50-341202) · `ta`
-
-In Pakistan, a tribal clash in Poshera village resulted in 36 deaths and 160 injuries over five days. The conflict involves Sunni tribes from Poshera, Malikhel, and Thundar, affecting normal life across the Qur'am district.
-
-🟩
-
-In a clash between two tribal people in Pakistan, 160 people were injured when 36 were killed.
-
-Poshera village is located in the province of Hyper Badungawa, the Afghan -Pakistan border. It is here that the conflict has been going on for the past 5 days.
-
-Violence has erupted between two groups due to frequent clashes between the tribes of Islam and the Sunni tribes of Islam, who live in villages including Poshera, Malikhel and Thundar.
-
-In the meantime, 36 people were killed and 162 were injured and hospitalized.
-
-Although the police continue to control the riots, the violence has spread to the rest of the Qur'am district, the normal life of the people has been completely affected.
-
-◼️
-
-[Data](articles/0bc84825.json)
-
-[Extended Data](ext_articles/0bc84825.ext.json)
-
----
-
-### Israeli - Lebanese warmth increases
-
-*2024-07-29 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199322) · `si`
-
-Tensions rise as Israeli-Lebanese relations heat up following a soccer attack in the Golan Heights, leading to international criticism and fears of war. In response, flights from Vidroves International Airport and several Lufthansa routes are suspended.
-
-🟩
-
-The funeral of the children who were killed in a soccer attack on a soccer area in the Golan Mountain area in the Galan area of ​​Hezbollah's Galan.
-
-Meanwhile, the proposal that Israel's army cabinet should be attacked by the Hezbollah targets in Lebanon.
-
-International critics say that there will be a war between the two parties.
-
-As a result, the Vidrove International Airport authorities have decided to suspend and delay flights.
-
-Lufthansa's airline says he decided to suspend several of his carriers.
-
-◼️
-
-[Data](articles/a725ddd1.json)
-
-[Extended Data](ext_articles/a725ddd1.ext.json)
-
----
-
-### A decisive discussion in the pointer will be held under the patronage of Mahinda at the afterwright
-
-*2024-07-29 10:39:52* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තීරණාත්මක-සාකච්ඡාවක්-අද-පස්වරුවේදි-මහින්දගේ-ප්‍රධානත්වයෙන්/11-411061) · `si`
-
-A crucial meeting, sponsored by Mahinda, will discuss the future of Sri Lanka's General Ceremony. It's set for 4:00 PM at the former President's residence. A group of SLC MPs supports Ranil Wickremesinghe's stance on nominating a candidate. Political tensions rise as over 30 MPs urge President Mahinda Rajapaksa to back the government's economic policies. The SLPF warns against potential divisions within the Sri Lanka Civil Appointment Order.
-
-🟩
-
-A special discussion of the Sri Lanka Ceremony of Sri Lanka General (29) is scheduled to hold a special discussion in the Sri Lanka Ceremony of Sri Lanka General. Accordingly, the discussion will be held at the house of the former President on Wijerama Mawatha, Colombo at 4.00 pm.
-
-A group of MPs of Sri Lanka General (SLC) have publicly stated that they will be supported by Mr. Ranil Wickremesinghe that a candidate should be submitted from the party and the opinion of another. According to political sources, the Sri Lanka Cran's Front will be divided or not to jointly.
-
-In Parliament and more than 30 MPs in Parliament, more than 30 MPs have met President Mahinda Rajapaksa, the President should support the government's economic economic program.
-
-Therefore, they have pointed out to former President Mahinda Rajapaksa that if the party would be divided if other candidate would be submitted by the party at the moment.
-
-...
-
-[Data](articles/90a5b7ef.json)
-
-[Extended Data](ext_articles/90a5b7ef.ext.json)
-
----
-
-### Avoid murder
-
-*2024-07-29 10:35:40* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතනයක්-නූලෙන්-වැළකේ/11-411060) · `si`
-
-Two individuals planning to kill a motorcyclist were apprehended by the police and the Criminal Investigation Division. The arrest led to the seizure of 11,760 malicious drugs and five types of water bullets from the suspects. The plot targeted former cricketer Dhammika Niroshan, allegedly orchestrated by members of the Kosgoda Suwaya group. Two suspects, aged 29 and 30, were detained at Ambalangoda Railway Station.
-
-🟩
-
-Two persons headed for a murder of a stolen motorcycle have been arrested by the murder and organized Criminal Investigation Division
-
-Police have taken steps to seized 11760 malic drugs, five types of water bullets in possession of the suspects
-
-It was revealed that the assassination was handed over to the murder of former Cricketer Dhammika Niroshan, or Jottie, who is a member of the Kosgoda Suwyadium, who is a member of the Kosgoda Suwyadium.According to the police
-
-Two suspects arrested at the Ambalangoda Railway Station is a 29-year-old residents of Paragahatota Possa, or a three-year-old residents of the area.
-
-Sub Inspector Sampath Matha, including SSP Ducky Randeniya, Director of the Murassian and Organizational Investigation Division
-
-◼️
-
-[Data](articles/abb7f109.json)
-
-[Extended Data](ext_articles/abb7f109.ext.json)
-
----
-
-### Unidentified body found in rod gang Oya
-
-*2024-07-29 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199321) · `si`
-
-An unidentified man, aged around 45-50, was found dead near Colombo Rang Oya. He stood 5'10", wore a yellow-black batik shirt and a green T-shirt. The body is at Negombo hospital morgue while police investigate.
-
-🟩
-
-A dead body of an unidentified man was found in the Colombo Rang Oya.
-
-The body was found yesterday (28) on information received by the Seeduwa Police.
-
-The deceased has been reported that the height of 45 and 50 years of age is about 5 feet 10 feet.
-
-He was wearing a yellow and black batik and a green T-shirt.
-
-The body is being kept at the Negombo hospital morgue and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/52eb4599.json)
-
-[Extended Data](ext_articles/52eb4599.ext.json)
-
----
-
-### President's invitation to the Speaker and the Chief Justice
-
-*2024-07-29 10:20:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கும்-பிரதம-நீதியரசருக்கும்-ஜனாதிபதி-அழைப்பு/175-341200) · `ta`
-
-President Ranil Wickremesinghe has called Speaker Mahinda Yapa Abeywardena and Chief Justice Jayantha Jayasuriya to resolve issues regarding the Inspector General of Police. He assured them of his support for the Elections Commission ahead of the presidential election on September 21st, ensuring it will have the necessary resources to conduct the election without any obstacles.
-
-🟩
-
-President Ranil Wickremesinghe has announced on Sunday (28) that the issue of the Inspector General of Police should be resolved with the Speaker and the Chief Justice.
-
-President Ranil Wickremesinghe has telephoned Speaker Mahinda Yapa Abeywardena and Chief Justice Jayantha Jayasuriya.
-
-The President has also informed the Speaker and the Chief Justice that he will support the Elections Commission for the presidential election on the 21st of this month.
-
-President Ranil Wickremesinghe added that the Elections Commission will provide all the necessary support to the Elections Commission so that there will be no obstacles to the presidential election on September 21st.
-
-◼️
-
-[Data](articles/6cafd711.json)
-
-[Extended Data](ext_articles/6cafd711.ext.json)
 
 ---

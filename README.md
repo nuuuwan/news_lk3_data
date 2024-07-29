@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 07:02:18**
+As of **2024-07-29 07:30:00**
 
 ## Newspaper Stats
 
-*Scraped **37,775** Articles*
+*Scraped **37,780** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 330
-colombotelegraphcom | 357
+colombotelegraphcom | 360
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,167
@@ -17,20 +17,42 @@ economynextcom | 2,262
 dailyftlk | 2,415
 adalk | 3,441
 adaderanalk | 4,373
-tamilmirrorlk | 4,662
+tamilmirrorlk | 4,663
 dailymirrorlk | 4,733
 virakesarilk | 5,958
-adaderanasinhalalk | 6,349
+adaderanasinhalalk | 6,350
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,774 (100.0%) of 37,775 articles have been extended.
+37,775 (100.0%) of 37,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-07-29 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199314) · `si`
+
+ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව, අනතුරු ඇඟවීමේ රතු නිවේදයක් නිකුත් කර තිබේ.
+
+සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශය සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ඉතා රළු විය හැකි බව එහි සඳහන් වේ.
+
+එම දෙපාර්තමේන්තුව පැවසුවේ අරාබි මුහුදු ප්‍රදේශයේ උතුරු අක්ෂාංශ 1ද ත් 20 ත් සහ නැගෙනහිර දේශාංශ 55 ත් 67 ත් මුහුදු  ප්‍රදේශ වල පැයට කිලෝමීටර් 70 – 80 ඉතා තද සුළං පවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවය.
+
+මේ හේතුවෙන් අදාළ ප්‍රදේශයේ ධීවර හා නාවික කටයුතුවල යෙදී සිටින පිරිස් වහාම ගොඩබිම හෝ ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+එම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යත්‍රා නොකරන ලෙස එම දෙපාර්තමේන්තුව ධීවර හා නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+
+මේ අතර, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ. ඇතැම් ස්ථානවලමි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+...
+
+[Data](articles/f130bb1a.json)
+
+---
 
 ### Mujibur accuses President of attempting to remain in power while creating anarchy
 
@@ -302,6 +324,18 @@ Devolution of power deepens democracy by bringing government closer to the peopl
 
 ---
 
+### 25 Years After His Assassination: Dr. Neelan Tiruchelvam’s Enduring Legacy In Human Rights & Constitutional Reform
+
+*2024-07-29 01:31:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/25-years-after-his-assassination-dr-neelan-tiruchelvams-enduring-legacy-in-human-rights-constitutional-reform/) · `en`
+
+On the 25th anniversary of Dr. Neelan Tiruchelvam‘s assassination, it is important to honor his profound impact as a global advocate for human rights and peace. Known for his pivotal role in international election monitoring, constitutional reform, and efforts to resolve Sri Lanka’s ethnic conflict, Tiruchelvam’s legacy continues to inspire. His tragic death on July 29th, 1999, a consequence of his dedication to democratic solutions, marked a significant loss to the pursuit of justice and inclusivity. This article celebrates his enduring contributions to peace and human rights.
+
+...
+
+[Data](articles/05ba7970.json)
+
+---
+
 ### Green innovations for sustainability
 
 *2024-07-29 01:24:44* · [`dailyftlk`](https://www.ft.lk/columns/Green-innovations-for-sustainability/4-764835) · `en`
@@ -333,6 +367,38 @@ Amal leaves behind him a masterclass in humility, caring, devotion and passion
 [Data](articles/e418e21c.json)
 
 [Extended Data](ext_articles/e418e21c.ext.json)
+
+---
+
+### Child’s Guide To Debt & Debt Restructuring: Part IV
+
+*2024-07-29 01:19:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-debt-debt-restructuring-part-iv/) · `en`
+
+Aseni and Sarath Mahatthaya have been continuing their interactive conversation on Sri Lanka’s debt and the process involving the debt restructuring to facilitate the country to get into debt sustainability, a requirement under the ongoing Extended Fund Facility or EFF from IMF.
+
+...
+
+[Data](articles/4aa8357d.json)
+
+---
+
+### ’ஜனாதிபதி உடனடியாக பதவி விலக வேண்டும்’
+
+*2024-07-29 01:10:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-உடனடியாக-பதவி-விலக-வேண்டும்/175-341187) · `ta`
+
+அரசியலமைப்பில் உள்ள ஜனாதிபதியின் பொறுப்புகளை தற்போதைய ஜனாதிபதி நிறைவேற்றத் தவறுவாராயின் அவர் பதவி விலக வேண்டும் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+மொனராகலை - புத்தல பகுதியில் நேற்று இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு கருத்து வெளியிட்ட போதே அவர் மேற்கண்டவாறு குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+
+பொலிஸ் மா அதிபரின் பதவி தொடர்பில் எழுந்துள்ள பிரச்சினை தொடர்பில் சபாநாயகரும் பிரதம நீதியரசரும் கலந்துரையாடியே தீர்வு காண வேண்டும் என ஜனாதிபதி கூறியுள்ளார்.
+
+தாம் ஜனாதிபதி வேட்பாளராக கட்டுப்பணத்தைச் செலுத்தியுள்ளதன் காரணமாக பொலிஸ்  மா அதிபரை தம்மால் நியமிக்க முடியாதென ஜனாதிபதி கூறும் கருத்தை ஏற்க முடியாது. அவ்வாறு அரசியலமைப்பில் குறிப்பிடவில்லை.
+
+அரசமைப்பில் ஜனாதிபதிக்கு அதிகாரம் வழங்கப்பட்டுள்ளது. அந்த அதிகாரங்களை அவர் துஷ்பிரயோகம் செய்வாராயின் ஜனாதிபதி உடனடியாக பதவி விலக வேண்டும் என்றார். (a)
+
+◼️
+
+[Data](articles/875a4d3c.json)
 
 ---
 
@@ -2159,113 +2225,5 @@ The rally reached the bell tower through the Hatton main city, launching a prote
 [Data](articles/e121929a.json)
 
 [Extended Data](ext_articles/e121929a.ext.json)
-
----
-
-### Sidowes in the Railway Department begins
-
-*2024-07-28 13:40:39* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-දෙපාර්තමේන්තුවේ-බිංගෙවල්-පරීක්ෂාව-ඇරඹෙයි/11-411042) · `si`
-
-The Railway Department will inspect 32 trains from Nawalapitiya to Badulla, focusing on infrastructure issues like water leaks, cracks, and damaged walls in rails and bridges. The inspections are conducted from a special train equipped with necessary tools, aiming to ensure safety and efficiency.
-
-🟩
-
-The annual bang will be conducting the inspection of 32 trains from the Upcountry railway from Nawalapitiya to Badulla, from the Upcountry railway jacket from the Railway Department.
-
-The railway station is aimed at the inquiry and the cash paths, such as water equipment, such as water leaks, crack, bing walls in railroads, bridge, and bing.He said the department's statement.
-
-These investigations are conducted by the Railway Department's Railways Railways.
-
-The activities are carried out from a special train mounted in the Dakku, Dakku and checkpoint, and the Railway Department said.Did.
-
-◼️
-
-[Data](articles/41c34b14.json)
-
-[Extended Data](ext_articles/41c34b14.ext.json)
-
----
-
-### What about the President's candidate in Pohoth What
-
-*2024-07-28 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199297) · `si`
-
-Former President Mahinda Rajapaksa announced that the decision on the Sri Lanka Civil Appointment's presidential candidate will be made tomorrow. He clarified his stance on Mr. Dhammika Perera's presence and the President's intention to run in the election, stating that any decisions would align with the party's consensus.
-
-🟩
-
-Former President Mahinda Rajapaksa says that the decision of the Sri Lanka Civil Appointment will be taken tomorrow (29) on presidential candidate.
-
-He was responding to a question raised by journalists.
-
-Q: We have noticed Mr. Dhammika Perera with you?
-
-Q: The President has declared in Galle that he will contest the presidential election?
-
-not... Supports our party. You have to decide from our party. I ask our party. If he told him to support him. But if the party says, it is agreed that someone else is against him.
-
-◼️
-
-[Data](articles/6d494e86.json)
-
-[Extended Data](ext_articles/6d494e86.ext.json)
-
----
-
-### Prices come on to bread
-
-*2024-07-28 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199296) · `si`
-
-Bread prices have been a concern, with accusations of unfair pricing and quality issues. The Consumer Affairs Authority intervened, setting a minimum weight standard for bread. The All Ceylon Bakery Owners Association announced a price reduction for 450g bread.
-
-🟩
-
-If a 450 gram bread is sold at a price of 450 grams of bread at a price of Rs.
-
-Its raids and the Director of the Special Investigation Division (Special Investigation Division) said that a stock of Rs. 100,000 to Rs.
-
-Customers, including consumers, accused consumers, that there is no price for bread and the heavy burden in certain bread.
-
-Accordingly, the Consumer Affairs Authority was conducted by time to time.
-
-The Consumer Affairs Authority also issued a gazette notification regarding the weight of a loaf of bread on February 2.
-
-There was a minimum weight of a bread and the minimum weight of 450 grams of bread and the minimum weight of a half.
-
-The All Ceylon Bakery Owners Association announced that the price of a bread weighing 450 grams from midnight last night will be reduced by Rs.
-
-◼️
-
-[Data](articles/43d1777d.json)
-
-[Extended Data](ext_articles/43d1777d.ext.json)
-
----
-
-### Here are dengue risk zones
-
-*2024-07-28 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199295) · `si`
-
-This year, there have been 32,183 dengue cases reported, with the highest numbers in the Western Province (12,786), followed by Colombo (7,585) and Gampaha districts (3,452). The Northern Province reported 4,589 cases, with Jaffna leading at 4,020. The Sabaragamuwa Province had 3,329 cases. Thirteen deaths were also reported.
-
-🟩
-
-Thirteen deaths have been reported during the past period this year, the National Dengue Control Unit said.
-
-They show that 32,183 dengue patients have been reported during that period.
-
-The highest number of cases were reported from the Western Province and 12,786 were reported.
-
-7,585 dengue patients have been identified in the Colombo District and 3,452 patients have been identified from Gampaha District.
-
-4,589 patients have been reported from the Northern Province and 4,020 patients have been identified in the Jaffna district alone.
-
-In the Sabaragamuwa Province, 3,329 dengue patients have been reported this year.
-
-◼️
-
-[Data](articles/6114f49c.json)
-
-[Extended Data](ext_articles/6114f49c.ext.json)
 
 ---

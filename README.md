@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 04:36:08**
+As of **2024-07-30 04:54:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,965 (100.0%) of 37,966 articles have been extended.
+37,966 (100.0%) of 37,966 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -142,21 +142,29 @@ Recognised as Miraclon’s Champion of Modern Flexo, ALFT Packaging was featured
 
 ---
 
-### ’ஜனாதிபதித் தேர்தலுக்கு முன்னர் தகனத்தை விசாரிக்குக’
+### Investigate cremation before the presidential election
 
 *2024-07-30 01:41:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-முன்னர்-தகனத்தை-விசாரிக்குக/175-341255) · `ta`
 
-தகனம் தொடர்பான தீர்மானத்தை எடுத்த குழு உறுப்பினர்களிடம் விசாரணை நடத்தி பாதிக்கப்பட்ட முஸ்லிம் சமூகத்துக்கு  நியாயத்தை பெற்றுக்கொடுக்க ஜனாதிபதித் தேர்தலுக்கு முன்னர் "பாராளுமன்றத் தெரிவுக்குழுவை" நியமிக்க வேண்டும் என கோரிக்கை விடுக்கப்பட்டுள்ளது.
+Before the presidential election, a parliamentary select committee is being formed to investigate the cremation issue affecting the Muslim community, ensuring justice is served. This comes amid calls for Muslim MPs to unite and support the committee, following previous debates on cremation laws and organ donations. The move aims to uncover any hidden forces influencing the cremation decisions and address the injustices faced by the Muslim community, suggesting potential legal actions against those responsible for violating basic human rights.
 
-அநீதியான சம்பவத்தை செய்த குழுவுக்கு எதிராக சட்டத்தை அமுல்படுத்துவதற்கு சபாநாயகரிடம் சகல முஸ்லிம் பாராளுமன்ற உறுப்பினர்களும் ஒன்றிணைந்து கோரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-ஜனாஸாக்களை தகனம் செய்வது தொடர்பான தீர்மானத்தை எதிர்த்து முஸ்லிம் சமூகத்துக்கு நீதி கிடைக்க நடவடிக்கை எடுக்குமாறு ஜனாதிபதி செயலணி முன்னாள் உறுப்பினரும், கொழும்பு மாநகர சபை முன்னாள் உறுப்பினருமான ஐ.ஏ. கலீலுர் ரஹ்மான் கோரியுள்ளார்.
+It has been requested to appoint a "parliamentary select committee" before the presidential election to investigate the members of the committee to investigate the cremation of the committee and provide justice to the affected Muslim community.
 
-இலங்கை பாராளுமன்றத்தை பிரதிநிதித்துவப்படுத்தும் கட்சித்தலைவர்கள், அமைச்சர் மற்றும் பாராளுமன்ற உறுப்பினர்களுக்கு மகஜரொன்றையும் அவர்  அனுப்பியுள்ளார்.
+All Muslim MPs have been asked to join the Speaker to implement the law against the committee that committed an unjust incident.
+
+Former President of the President and former Municipal Council of Colombo Municipal Council to take justice to the Muslim community against the resolution on cremation of the Janasas. Khalilur Rahman requested.
+
+He has also sent a Majesty to party leaders, minister and parliamentarians representing the Parliament of Sri Lanka.
+
+In the past, there have been many debates in Parliament on the cremation of the new legislation and the cremation of Govid bodies that have been announced on cremation and donation of organs.
 
 ...
 
 [Data](articles/b7841d0d.json)
+
+[Extended Data](ext_articles/b7841d0d.ext.json)
 
 ---
 

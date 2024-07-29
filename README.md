@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 05:38:30**
+As of **2024-07-29 07:02:18**
 
 ## Newspaper Stats
 
-*Scraped **37,764** Articles*
+*Scraped **37,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 330
 colombotelegraphcom | 357
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,156
+islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,415
 adalk | 3,441
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,764 (100.0%) of 37,764 articles have been extended.
+37,774 (100.0%) of 37,775 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -445,6 +445,130 @@ This means that sub -structures that come under this public structure have been 
 [Data](articles/8b659fab.json)
 
 [Extended Data](ext_articles/8b659fab.ext.json)
+
+---
+
+### Dr. Sunethra Nugawela earns international kudos for her work in Office Management field in Sri Lanka
+
+*2024-07-28 23:06:00* · [`islandlk`](http://island.lk/dr-sunethra-nugawela-earns-international-kudos-for-her-work-in-office-management-field-in-sri-lanka/) · `en`
+
+Dr. Sunethra Jayaratne Nugawela clinched the “International Office Manager 2024” Award, at the Hotel Grand Connaught in London on June 20/2024. The ceremony was conducted by the Office Management Group in the United Kingdom.
+
+Adding special pride to the momentous occasion for Sri Lanka, she was the only representation from the Asian Pacific Region to have received the accolade.
+
+The award is also a recognition of efforts, hard work and success as a professional within this key area of any business, contribution to the country, region and to the world at large and the discipline of life balance.
+
+She has created history for Sri Lanka on several occasions, internationally and this prestigious award would be another remarkable achievement.
+
+Dr. Nugawela serves as the Executive Secretary at SDB bank and the Chairperson of the Academy for Administrative Professionals.
+
+...
+
+[Data](articles/524f250d.json)
+
+[Extended Data](ext_articles/524f250d.ext.json)
+
+---
+
+### 43 hectares of land in Trincomalee Port allocated for 20MW solar power project
+
+*2024-07-28 23:06:00* · [`islandlk`](http://island.lk/43-hectares-of-land-in-trincomalee-port-allocated-for-20mw-solar-power-project/) · `en`
+
+The Sri Lanka Ports Authority has allocated 43 hectares of land in Kappalthure, Trincomalee, for a 20-megawatt solar power project. This initiative supports the national goal of increasing the country’s renewable energy to 70% by 2030. The land, leased for thirty years, is expected to generate an income of 1.75 million rupees per month.
+
+The agreement was signed between the Sri Lanka Ports Authority (SLPA) and the “Sun Scape” Project Company, a subsidiary of the Sri Lankan firm “Selex Renewables,” on July 24, at the Ministry of Ports, Shipping and Aviation Auditorium.
+
+After signing this agreement, Minister Nimal Siripala de Silva stated:
+
+“The National Energy Policy of the current government has accepted that renewable energy should be produced as a solution to the electricity crisis in Sri Lanka.
+
+...
+
+[Data](articles/6ffff123.json)
+
+[Extended Data](ext_articles/6ffff123.ext.json)
+
+---
+
+### CPA Australia delegation strengthens ties in Sri Lanka and fosters collaboration to nurture talent
+
+*2024-07-28 22:48:00* · [`islandlk`](http://island.lk/cpa-australia-delegation-strengthens-ties-in-sri-lanka-and-fosters-collaboration-to-nurture-talent/) · `en`
+
+A high-level delegation from CPA Australia, including board members and representatives from international markets, recently concluded a successful visit to Sri Lanka. The delegation’s primary focus was on establishing strong relationships with local governments, professional bodies, universities, and banking institutions.
+
+“We’re excited to be expanding our presence in Sri Lanka,” said Professor Dale Pinto (FCPA), Global President and Chair of the Board at CPA Australia. “Since the launch of our local liaison office in June 2023, we’ve seen our membership flourish to nearly 500. Many of these members are now holding pivotal roles across diverse industries, showcasing the strength and influence of CPA Australia in the region.”
+
+The delegation also recognised long-standing members during a special ceremony, acknowledging their achievements over the past 10 or 20 years.
+
+...
+
+[Data](articles/daf5c3c1.json)
+
+[Extended Data](ext_articles/daf5c3c1.ext.json)
+
+---
+
+### Tata Motors in partnership with DIMO launches locally assembled Tata Xenon Yodha
+
+*2024-07-28 22:47:00* · [`islandlk`](http://island.lk/tata-motors-in-partnership-with-dimo-launches-locally-assembled-tata-xenon-yodha/) · `en`
+
+Tata Motors, one of the world’s leading automotive manufacturers, along with its authorised distributor DIMO, announced the launch of the all-new Tata Xenon Yodha, addressing the growing demand for a versatile and reliable pick- up vehicle in the market. A robust and stylish workhouse, the Tata Xenon Yodha promises comfort and safety while ensuring smooth cargo transport for effortless daily operations.
+
+Commenting on the launch, Anurag Mehrotra, Head – International Business, Tata Motors Commercial Vehicles, said,” The new Tata Xenon Yodha is engineered to meet the demands of customers seeking lower total cost of ownership and superior vehicle performance for higher profitability. We are confident that the vehicle will set new benchmarks in quality, durability, and performance. Our six-decade-long partnership with DIMO further promises a comprehensive nationwide service network, and excellent sales and service quality.”
+
+...
+
+[Data](articles/f5ec0770.json)
+
+[Extended Data](ext_articles/f5ec0770.ext.json)
+
+---
+
+### AIA Poson safety programme saved six lives this year
+
+*2024-07-28 22:46:00* · [`islandlk`](http://island.lk/aia-poson-safety-programme-saved-six-lives-this-year/) · `en`
+
+AIA Insurance concluded the 29th year of its Poson Safety Programme, celebrating zero fatalities and the rescue of six lives. This comprehensive CSR initiative, one of the longest standing projects in the country continues to be a beacon of safety and community service during the religious Poson festival.
+
+AIA deployed over 500 dedicated lifeguards across 39 reservoirs and lakes in Anuradhapura, Polonnaruwa, Mihintale, Dambulla, and surrounding regions. Their vigilance ensured pilgrims could participate in their traditional bathing rituals safely and without incident. Complementing these efforts, AIA implemented a comprehensive safety campaign featuring prominently displayed warning signs, banners, and digital media promotions throughout the Anuradhapura District.
+
+...
+
+[Data](articles/3044865b.json)
+
+[Extended Data](ext_articles/3044865b.ext.json)
+
+---
+
+### ‘SANASA Way Forward’ programme held in Jaffna
+
+*2024-07-28 22:46:00* · [`islandlk`](http://island.lk/sanasa-way-forward-programme-held-in-jaffna/) · `en`
+
+Another phase of the “SANASA Way Forward” programme series, conceived by the leader of the SANASA Group, Dr. P.A. Kiriwandeniya, was successfully held on 18 and 19 July at the Tilco Hotel in Jaffna. The event was attended by representatives from all the political parties in the area. The chief guest, Parliamentarian Angajan Ramanathan, along with public and private sector representatives, participated in the proceedings. On the first day, politicians, civil servants, and private sector stakeholders were introduced to the concept of “SANASA Way Forward”. The second day focused on informing the general public, a crucial group for driving a productive economy, about the initiative. Approximately 500 SANASA members and non-members attended the event, where Dr. Kiriwandeniya provided a detailed introduction to the structure of “SANASA Way Forward”.
+
+...
+
+[Data](articles/4ea23303.json)
+
+[Extended Data](ext_articles/4ea23303.ext.json)
+
+---
+
+### 5th ‘Arunalu Siththam’ contest: ComBank inspires artistic talent of children, rewarding 142
+
+*2024-07-28 22:46:00* · [`islandlk`](http://island.lk/5th-arunalu-siththam-contest-combank-inspires-artistic-talent-of-children-rewarding-142/) · `en`
+
+Entries to be submitted online on or before 31st August 2024
+
+Sri Lankan children countrywide as well as those living overseas can once again unleash their artistic talents and win cash prizes with the launch of the fifth edition of ‘Arunalu Siththam’ – the children’s art competition conducted by the Commercial Bank of Ceylon, which is offering Rs 2.4 million in cash prizes to winners.
+
+Exclusively for children between the ages of four and 16, the competition is hosted under the banner of the Bank’s popular children’s savings account ‘Arunalu’ and will be conducted online, the Bank has announced.
+
+...
+
+[Data](articles/68133496.json)
+
+[Extended Data](ext_articles/68133496.ext.json)
 
 ---
 
@@ -2143,171 +2267,5 @@ In the Sabaragamuwa Province, 3,329 dengue patients have been reported this year
 [Data](articles/6114f49c.json)
 
 [Extended Data](ext_articles/6114f49c.ext.json)
-
----
-
-### Special circular for public officers on behalf of the presidential election
-
-*2024-07-28 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199294) · `si`
-
-The Elections Commission is issuing a special circular guiding public officers and institutions on conduct during the upcoming presidential election. The circular, signed by all commission members, outlines actions government officials must take. It will soon be released, detailing expectations for officers in government institutions throughout the election period.
-
-🟩
-
-The Elections Commission has decided to issue a special circular on how public officers and institutions should be carried out during the period of time for the presidential election.
-
-Elections Commission Chairman of the Election Commission (Elections Commission). Mr. Ratnayake said.
-
-The circular is to be instructed by the government officials and the government officials should take action and action should be done in the period.
-
-The circular is currently being prepared and is being published with the signature of all members of the Elections Commission.
-
-The circular is scheduled to be announced by the officers and criteria for officers of government institutions during the period period.
-
-Meanwhile, Chairman of Elections. Mr. Ratnayake said.
-
-◼️
-
-[Data](articles/2dba416b.json)
-
-[Extended Data](ext_articles/2dba416b.ext.json)
-
----
-
-### The University of Higher Education
-
-*2024-07-28 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189587) · `ta`
-
-In the 2020 elections, the CWC proposed establishing a National University in the hills, with land identified in Kotagalai. However, efforts to release the land were lacking.
-
-🟩
-
-In the 2020 general election, the CWC's election manifesto was presented to education, the first of which was the 'establishment of a National University with all the amenities in the hill country ”.. The land for the university was identified in Kotagalai in October that year. But no one made efforts to release the Akkani until the end.
-
-◼️
-
-[Data](articles/cfcf84dc.json)
-
-[Extended Data](ext_articles/cfcf84dc.ext.json)
-
----
-
-### Child sexual abuse;More in Colombo
-
-*2024-07-28 12:52:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-பாலியல்-துஷ்பிரயோகம்-கொழும்பில்-அதிகம்/175-341152) · `ta`
-
-In the first half of 2023, Sri Lanka's Child Protection Authority received 290 complaints of child sexual abuse, with Colombo being the area with the highest number of reports.
-
-🟩
-
-The Chairman of the Child Protection Authority, Udaya Kumara Amarasinghe, said 290 complaints were received regarding child sexual abuse within six months from January to June this year.
-
-He added that many complaints have been received monthly and that more complaints are received from the Colombo district, the second most complaints are from Gampaha and the third.
-
-Recently, a father of two children inquired about the rape of his daughter.
-
-◼️
-
-[Data](articles/915a0cea.json)
-
-[Extended Data](ext_articles/915a0cea.ext.json)
-
----
-
-### Four arrested in Katunayake
-
-*2024-07-28 12:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-நால்வர்-கைது/175-341151) · `ta`
-
-Four individuals, including a foreign woman and three locals, were arrested at Katunayake airport for attempting to smuggle cigarettes worth over Rs 1 crore. The group included a Chinese woman, a man from Panadura, a driver from Dubai, and a woman from a Colombo club, all caught with varying amounts of contraband cigarettes.
-
-🟩
-
-Customs officers have been arrested by four people, including a foreign woman who tried to enter the country illegally with 461 cigarettes worth Rs 1 crore 37 lakhs 765 rupees.
-
-Among the arrested, a 37-year-old Chinese woman was arrested at the Katunayake airport on Saturday (27) midnight from Kuala Lumpur, Malaysia, and a 34-year-old man from Panadura and a 38-year-old driver from Dubai El-26 from Tubai El-26.They have been arrested when they arrive at the Katunayake airport.
-
-In addition, a woman working at a club in Colombo has been arrested by customs officials while hiding 146 carton cigarettes of 29,200 cigarettes abroad.
-
-◼️
-
-[Data](articles/a8f42e49.json)
-
-[Extended Data](ext_articles/a8f42e49.ext.json)
-
----
-
-### Can the court remove a person appointed by the Constitutional Council?President's decision to appeal to High Court
-
-*2024-07-28 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/189589) · `ta`
-
-President Ranil Wickremesinghe seeks Supreme Court guidance on its constitutional power to remove someone appointed by the Constitutional Council. The President has issued an interim injunction through a three-judge panel regarding the appointment of the Tennakoon Police Chief. He aims to clarify the High Court's stance on constitutional provisions 41C and 41G, particularly concerning the participation of assembly members in referendums and the council's role in removing authorities.
-
-🟩
-
-President Ranil Wickremesinghe has decided to demanding the Supreme Court's view on whether the Supreme Court has the authority under the Constitution to eliminate a person who granted the Constitutional Council permission.
-
-Government sources said that the president would use the powers under the Constitution as he had issued an interim injunction with three -judge judges comprising three judges to serve as the Tennakoon Police Principal.
-
-The President is demanding clarity of the High Court on whether a member of the Constituent Assembly does not vote or not participating in the vote during the referendum.
-
-That is, the President is demanding a court to present clear clarity on the Constitution's 41C and 41G.
-
-The 41G Constitutional Council's duties were related to the removal of the authorities with the permission of the Constitution.
-
-◼️
-
-[Data](articles/9ad1b3c2.json)
-
-[Extended Data](ext_articles/9ad1b3c2.ext.json)
-
----
-
-### Mahinda's most willingness to offer a candidate from pointer?
-
-*2024-07-28 12:37:58* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-අපේක්ෂකයෙක්-ඉදිරිපත්-නොකිරිමට-මහින්දගේ-වැඩි-කැමැත්ත-/11-411041) · `si`
-
-Mahinda Rajapaksa, Sri Lanka's General President, will convene a meeting to select a presidential candidate. The majority of MPs support this decision, but there's uncertainty about whether the Sri Lanka General Front will unite behind one candidate. Political sources indicate divisions within the group, with some favoring separate candidacies. Despite this, it's suggested that the party might still decide to present a unified candidate.
-
-🟩
-
-A special discussion of the Sri Lanka General President Mahinda Rajapaksa will be held at the Executive Committee of the Sri Lanka Candidate to elect a candidate at the next Presidential Secretariat tomorrow at 4.00 pm at Wijerama Mawatha, Colombo Mawatha.
-
-The majority of MPs of Sri Lanka General (SLC general) have publicly expressed their support and the opinion of another group of people should be presented by a candidate.
-
-Political sources say that the Sri Lanka General Front will be divided or not to jointly.
-
-According to political sources, 12 district leaders and 18 others decided to hold discussions in several places in the Sri Lanka General Year last week.
-
-It has also been said that in Parliament and more than 30 MPs in Parliament and several MPs on behalf of the President Mahinda Rajapaksa should support the government's economic economic program.
-
-So they have pointed out that if other candidates would be divided if the party offers other candidates at the moment.
-
-...
-
-[Data](articles/6da2df35.json)
-
-[Extended Data](ext_articles/6da2df35.ext.json)
-
----
-
-### President to support National Congress
-
-*2024-07-28 12:24:08* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-කොංග්‍රසයේ-සහාය-ජනපති-රනිල්ට/11-411040) · `si`
-
-The National Organizer of the Congress has announced support for President Ranil Wickremesinghe in this year's presidential election, marking a shift from assisting the Sri Lanka General Front in past elections. This move was reportedly made to align with the President's stance.
-
-🟩
-
-Member of Parliament (MP) ALM. The National Organizer of the Congress has decided to support the present President Ranil Wickremesinghe this year's presidential election this time.
-
-The party had assisted the Sri Lanka General Front in several previous election and Ranil Wickremesinghe has decided to support Ranil Wickremesinghe as his party has decided to support Ranil Wickremesinghe.
-
-The National Organizer added that this decision was taken to inform the President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/d87fc0d4.json)
-
-[Extended Data](ext_articles/d87fc0d4.ext.json)
 
 ---

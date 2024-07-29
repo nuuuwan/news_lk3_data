@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 11:06:59**
+As of **2024-07-29 11:20:31**
 
 ## Newspaper Stats
 
-*Scraped **37,813** Articles*
+*Scraped **37,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,76 +17,126 @@ economynextcom | 2,262
 dailyftlk | 2,416
 adalk | 3,446
 adaderanalk | 4,380
-tamilmirrorlk | 4,673
+tamilmirrorlk | 4,674
 dailymirrorlk | 4,733
 virakesarilk | 5,961
-adaderanasinhalalk | 6,357
+adaderanasinhalalk | 6,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,809 (100.0%) of 37,813 articles have been extended.
+37,813 (100.0%) of 37,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### பாக்.பழங்குடியினரிடையே  மோதல்  36 பேர் பலி; 160 பேர் காயம்
+### இ. தே.ஆ. தவிசாளர் அறிவிப்பு
+
+*2024-07-29 11:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தே-ஆ-தவிசாளர்-அறிவிப்பு/175-341203) · `ta`
+
+ஜனாதிபதித் தேர்தல் 2024 பெயர் குறித்த நியமனப்பத்திரங்களைப் பொறுப்பேற்றல், வைப்புப் பணம் செலுத்துதல் மற்றும் வாக்கெடுப்பு தொடர்பாக இலங்கை தேர்தல் ஆணைக்குழு சார்பாக அதன் தவிசாளர் ஆர்.எம்.ஏ.எல்.சத்நாயக்க அறிவித்தல் ஒன்றை விடுத்துள்ளார்.
+
+அதன்படி, 1981 ஆம் ஆண்டின் 15 ஆம் இலக்க ஜனாதிபதித் தேர்தல்கள் சட்டத்தின் 2 ஆவது மற்றும் 8 ஆவது பிரிவுகள் குறித்து வாக்காளர்களுக்கு பின்வரும் விடயங்களைத் தெளிவு படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+
+ஜனாதிபதித் தேர்தலுக்கான வாக்கெடுப்பு 2024, செப்டம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படவிருப்பதாக பொதுமக்களுக்கு இத்தால் அறிவித்தல் கொடுக்கப்படுகின்றது.
+
+அந்தத் தேர்தலுக்குரிய பெயர்குறித்த நியமனப்பத்திரங்கள், 2024 ஆகஸ்ட் மாதம் 15 ஆம் திகதி மு.ப. 9.00 மணி முதல் மு.ப. 11.00 மணி வரையான காலப்பகுதிக்குள் இராஜகிரிய, சரண மாவத்தையில் அமைந்துள்ள தேர்தல் ஆணைக்குழுவின் தலைமையக கேட்போர்கூடத்தில் பொறுப்பேற்கப்படும்.
+
+...
+
+[Data](articles/c7d825b9.json)
+
+---
+
+### දියේ ගිලී සැඟව ගිය විද්‍යාරතන යේ වොලිබෝල් තරුව
+
+*2024-07-29 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199323) · `si`
+
+අවිස්සාවේල්ල නුගදණ්ඩ තට්ටුගල නාච්චිමල ඇළේ ගෝනවල ප්‍රදේශයේ දියවළේ ගිලීමෙන් 17 හැවිරිදි පාසල් සිසුවෙකු ඊයේ (28) සවස මියගොස් ඇතැයි අවිස්සාවේල්ල පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/7c905704.json)
+
+---
+
+### 36 killed in clashes160 people injured
 
 *2024-07-29 10:49:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-பழங்குடியினரிடையே-மோதல்-36-பேர்-பலி-160-பேர்-காயம்/50-341202) · `ta`
 
-பாகிஸ்தானில் இரண்டு பழங்குடியின மக்களிடையே ஏற்பட்ட மோதலில், 36 பேர் கொல்லப்பட்ட நிலையில் 160 பேர் காயமுற்றனர்.
+In Pakistan, a tribal clash in Poshera village resulted in 36 deaths and 160 injuries over five days. The conflict involves Sunni tribes from Poshera, Malikhel, and Thundar, affecting normal life across the Qur'am district.
 
-ஆப்கானிஸ்தான் - பாகிஸ்தான் எல்லைப்பகுதியான ஹைபர் பதுன்காவா மாகாணத்தில் போஷேரா கிராமம் உள்ளது. இங்கு தான், கடந்த 5 நாட்களாக மோதல்கள் நடந்து வருகின்றன.
+🟩
 
-போஷேரா, மலிகேல் (Malikhel), தண்டர் (Dandar) உள்ளிட்ட கிராமங்களில் வசித்துவரும் இஸ்லாமின் ஷியா பிரிவைச் சேர்ந்த பழங்குடியினருக்கும் சன்னி பிரிவைச் சேர்ந்த பழங்குடியினருக்கும் இடையில் அடிக்கடி மோதல்கள் நிகழ்ந்துவந்துள்ள நிலையில், நிலத்தகராறு காரணமாக இரு குழுக்களிடையிலும் வன்முறை வெடித்துள்ளது.
+In a clash between two tribal people in Pakistan, 160 people were injured when 36 were killed.
 
-இந்நிலையில், நேற்றிரவு இடம்பெற்ற மிகப்பெரிய தாக்குதல்களில் 36 பேர் உயிரிழந்த நிலையில், 162 பேர் காயமுற்று மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Poshera village is located in the province of Hyper Badungawa, the Afghan -Pakistan border. It is here that the conflict has been going on for the past 5 days.
 
-கலவரத்தை கட்டுப்பாட்டில் கொண்டு வர பொலிஸார் தொடர்ந்து முயன்று வரும் போதிலும், இந்த வன்முறையானது மேல் குர்அம் மாவட்டத்தின் மற்றப் பகுதிகளுக்கும் பரவி உள்ளதால் மக்களின் இயல்பு வாழ்க்கை முற்றிலுமாக பாதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.S
+Violence has erupted between two groups due to frequent clashes between the tribes of Islam and the Sunni tribes of Islam, who live in villages including Poshera, Malikhel and Thundar.
+
+In the meantime, 36 people were killed and 162 were injured and hospitalized.
+
+Although the police continue to control the riots, the violence has spread to the rest of the Qur'am district, the normal life of the people has been completely affected.
 
 ◼️
 
 [Data](articles/0bc84825.json)
 
+[Extended Data](ext_articles/0bc84825.ext.json)
+
 ---
 
-### ඊශ්‍රායල - ලෙබනන් යුද උණුසුම වැඩිවෙයි
+### Israeli - Lebanese warmth increases
 
 *2024-07-29 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199322) · `si`
 
-හිස්බුල්ලා සටන්කරුවන් විසින් ඊශ්‍රායලය අල්ලාගෙන සිටින ගෝලාන් කඳුකර ප්‍රදේශයේ පිහිටි පාපන්දු පිටියකට එල්ලකළ මිසයිල ප්‍රහාරයෙන් මියගිය දරුවන්ගේ අවසන් කටයුතු සිදුකර තිබේ.
+Tensions rise as Israeli-Lebanese relations heat up following a soccer attack in the Golan Heights, leading to international criticism and fears of war. In response, flights from Vidroves International Airport and several Lufthansa routes are suspended.
 
-මේ අතර ඊශ්‍රායලයේ යුද කැබිනෙට්ටුව විසින් ලෙබනනයේ හිස්බුල්ලා ඉලක්ක වෙත ප්‍රහාර එල්ලකළ යුතු බවට ආ යෝජනාව සම්මත කර තිබේ.
+🟩
 
-ජාත්‍යන්තර විචාරකයින් පවසන්නේ මේ හේතුවෙන් දෙපාර්ශ්වය අතර යුද්ධයක් ආරම්භවීමට ඉඩ ඇති බවයි.
+The funeral of the children who were killed in a soccer attack on a soccer area in the Golan Mountain area in the Galan area of ​​Hezbollah's Galan.
 
-ඒ හේතුවෙන් බේරූට් ජාත්‍යන්තර ගුවන්තොටුපොළේ බලධාරීන් ගුවන් ගමන් අත්හිටුවීමට සහ පමා කිරීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+Meanwhile, the proposal that Israel's army cabinet should be attacked by the Hezbollah targets in Lebanon.
 
-තම ගුවන්වාර කිහිපයක් අත්හිටුවීමට තීරණය කළ බව ලුෆ්තන්සා ගුවන්සේවය පවසයි.
+International critics say that there will be a war between the two parties.
+
+As a result, the Vidrove International Airport authorities have decided to suspend and delay flights.
+
+Lufthansa's airline says he decided to suspend several of his carriers.
 
 ◼️
 
 [Data](articles/a725ddd1.json)
 
+[Extended Data](ext_articles/a725ddd1.ext.json)
+
 ---
 
-### ඝාතනයක් නූලෙන් වැළකේ
+### Avoid murder
 
 *2024-07-29 10:35:40* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතනයක්-නූලෙන්-වැළකේ/11-411060) · `si`
 
-සොරා ගත් යතුරුපැදියකින් ඝාතනයක් සඳහා යමින් සිටි පුද්ගලයන් දෙදෙනෙක් විදේශක නිෂ්පාදිත රිවොල්වර  වර්ගයේ ගිනි අවියක් සහහොරයින් මත්කුඩු සමග  අත්අඩංගුවට ගත් බව මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය කියයි
+Two individuals planning to kill a motorcyclist were apprehended by the police and the Criminal Investigation Division. The arrest led to the seizure of 11,760 malicious drugs and five types of water bullets from the suspects. The plot targeted former cricketer Dhammika Niroshan, allegedly orchestrated by members of the Kosgoda Suwaya group. Two suspects, aged 29 and 30, were detained at Ambalangoda Railway Station.
 
-සැකකරුවන් දෙදෙනා සන්තකයේ තිබී රිවොල්වර වර්ගයේ ගිනි අවිය , 38 වර්ගයේ ජීව උණ්ඩ පහක් , හොරයින් මත්කුඩු මිලිගෑම් 11760 ක් පොලිස් භාරයට ගෙන ඇත
+🟩
 
-ඉකුත් 16වෙනි දින හිටපු ක්‍රිකට් ක්‍රීඩක ධම්මික නිරෝෂන් නොහොත් ජොන්ටි යන අය ඝාතනය කිරීමේ සිද්ධියට  පළිගැනීම සඳහා කොස්ගොඩ සුජී පාර්ශ්වයේ අනුගාමිකයකු වන විදෙස් ගතව සිටින හසිත නොහොත් දෙලා තීරෝද රථ රියදුරුකුවන සෝනි නැමැත්තා ඝාතනය කිරීමේ මෙම ඝාතන කොන්ත්‍රාත්තුව භාර දුන් බව අත්අඩංගුවට ගත් සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී අනාවරණය වූ බව පොලිසිය කියයි
+Two persons headed for a murder of a stolen motorcycle have been arrested by the murder and organized Criminal Investigation Division
 
-අම්බලන්ගොඩ දුම්රියපොළ අසලදී     අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනා වතු ගෙදර පරගහතොට පොකුණු පාර පදිංචි පුන්තාරු ශිල්පියෙකු ලෙස කටයුතු කරන ලක්ෂාන් නොහොත් පොඩි රතු හා එම ප්‍රදේශයේම පදිංචි ත්‍රී රෝද රථ කාර්මිකයකු වන මදුසංක නොහොත් සංජු යන 27 හා 29 හැවිරිදි  පුද්ගලයන් බව පොලිසිය කියයි
+Police have taken steps to seized 11760 malic drugs, five types of water bullets in possession of the suspects
 
-...
+It was revealed that the assassination was handed over to the murder of former Cricketer Dhammika Niroshan, or Jottie, who is a member of the Kosgoda Suwyadium, who is a member of the Kosgoda Suwyadium.According to the police
+
+Two suspects arrested at the Ambalangoda Railway Station is a 29-year-old residents of Paragahatota Possa, or a three-year-old residents of the area.
+
+Sub Inspector Sampath Matha, including SSP Ducky Randeniya, Director of the Murassian and Organizational Investigation Division
+
+◼️
 
 [Data](articles/abb7f109.json)
+
+[Extended Data](ext_articles/abb7f109.ext.json)
 
 ---
 
@@ -164,21 +214,27 @@ Meanwhile, President Ranil Wickremesinghe is due to announce the election as an 
 
 ---
 
-### பெரமுனவின் ஜனாதிபதி வேட்பாளர்?
+### Peramuna's presidential candidate?
 
 *2024-07-29 10:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரமுனவின்-ஜனாதிபதி-வேட்பாளர்/175-341198) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின்  வேட்பாளர் தொடர்பான தீர்மானத்தை இன்று இடம்பெறவுள்ள அரசியல் குழுக் கூட்டத்தின்போது, தீர்மானிக்கவுள்ளதாக அக்கட்சியின் பொதுச் செயலாளர் சாகல காரியவசம் தெரிவித்துள்ளார்.
+Sagala Kariyawasam, the General Secretary of the Sri Lanka People's Party (PA), announced that the party's presidential candidate would be chosen at a political committee meeting. This comes after a meeting between President Ranil Wickremesinghe and the PA founder. Despite previous non-compliant meetings, Wickremesinghe plans to run as an independent candidate.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகருக்கும் இடையில் நேற்றைய தினம் சந்திப்பொன்று இடம்பெற்றிருந்தது.
+🟩
 
-இதற்கு முன்னரும் இவ்வாறான பல சந்திப்புகள் இடம்பெற்ற நிலையில் அவை இணக்கப்பாடின்றி நிறைவடைந்திருந்தன.
+The General Secretary of the party, Sagala Kariyawasam, said that the decision on the Sri Lanka PA's candidate will be decided at the political committee meeting today.
 
-அதேநேரம், ஜனாதிபதி ரணில் விக்ரமசிங்க சுயாதீன வேட்பாளராகத் தேர்தலில் களமிறங்கியுள்ள நிலையில், தமது கட்சியின் வேட்பாளர் தொடர்பான அறிவிப்பை ஸ்ரீ லங்கா பொதுஜன பெரமுன இன்று வெளியிடவுள்ளது. R
+A meeting was held yesterday between President Ranil Wickremesinghe and the founder of the Sri Lanka PA.
+
+Prior to this, many such meetings had been completed without compliance.
+
+Meanwhile, President Ranil Wickremesinghe is due to announce the election as an independent candidate.. Remble
 
 ◼️
 
 [Data](articles/d69d7c14.json)
+
+[Extended Data](ext_articles/d69d7c14.ext.json)
 
 ---
 
@@ -2213,55 +2269,5 @@ President Ranil Wickremesinghe has said that the Speaker and the Chief Justice s
 [Data](articles/a0b3efb3.json)
 
 [Extended Data](ext_articles/a0b3efb3.ext.json)
-
----
-
-### Asian Women's Cricket Tournament
-
-*2024-07-28 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199307) · `si`
-
-Sri Lanka's Chamari Atapattu led her team to victory in the Asian Women's Cricket Tournament, defeating India. This marked Sri Lanka's first win, with Atapattu scoring 61 and Hersha Samarawickra contributing 69 runs.
-
-🟩
-
-Chamari women's cricket team was able to win the Asian Women's Cricket Tournament by defeating the Asian Women's Cricket Tournament.
-
-The Sri Lanka women's cricket team won this championship for the first time.
-
-The Indian team scored 165 runs for the loss of 6 wickets in the loss of 6 overs.
-
-In response, Sri Lanka won 167 runs for the loss of 2 wickets in 18.4 overs.
-
-Atapattu scored 61 off 43 balls with 61 balls in 43 balls. Hersha Samarawickra scored 69 runs.
-
-◼️
-
-[Data](articles/9f4d7c80.json)
-
-[Extended Data](ext_articles/9f4d7c80.ext.json)
-
----
-
-### The price of a slice goes between Rs 20 and 25
-
-*2024-07-28 18:10:25* · [`adalk`](https://www.ada.lk/breaking_news/පුවක්-ගෙඩියක-මිල-රුපියල්-20ත්-25-අතරට--යයි/11-411046) · `si`
-
-Prices of slices range from Rs 20 to Rs 25. Traders report an increase in costs, with filling prices fluctuating around Rs 8. In Habaraduwa, a shop charges Rs 20. Garment prices are low, especially in Baddegama, Akmeemana, and Galle. Expectations suggest a potential rise in prices, possibly reaching Rs 50-60 due to market conditions. Marketing indicates fixed prices of Rs 70 and Rs 80.
-
-🟩
-
-Trades say that a bill has increased to Rs. 20-25. By the first week of July, the prices of a filling were between 8 and Rs.
-
-Meanwhile, we also revealed that the price of a shop in Habaraduwa is Rs. 20 and Rs.
-
-The traders say that the shop garment is low in the market these days, the traders are selling a prices at Baddegama, Akmeemana and Galle areas.
-
-The traders say that the price of a prices can increase the price of the price, between 50 and 60, as a result of the price of a price, between 50-20 rupees.Marketing states that the prices of Rs 70 and 80 are sealed.
-
-◼️
-
-[Data](articles/b0be4d88.json)
-
-[Extended Data](ext_articles/b0be4d88.ext.json)
 
 ---

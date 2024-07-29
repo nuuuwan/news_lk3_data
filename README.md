@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 01:05:42**
+As of **2024-07-30 01:20:45**
 
 ## Newspaper Stats
 
-*Scraped **37,947** Articles*
+*Scraped **37,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,274
-dailyftlk | 2,421
+dailyftlk | 2,426
 adalk | 3,465
 adaderanalk | 4,396
 tamilmirrorlk | 4,697
@@ -26,11 +26,87 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,945 (100.0%) of 37,947 articles have been extended.
+37,947 (100.0%) of 37,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### MillenniumIT ESP welcomes new Board of Directors at MITESP Connect
+
+*2024-07-30 01:01:06* · [`dailyftlk`](https://www.ft.lk/business/MillenniumIT-ESP-welcomes-new-Board-of-Directors-at-MITESP-Connect/34-764904) · `en`
+
+MillenniumIT ESP gathered earlier this month at Cinnamon Lakeside to celebrate a memorable transition period and welcome their new Board of Directors, introducing Sujeewa Mudalige as Chairman and Samresh Kumar, Sharad Sreedharan, Savanth Sebastian, and Revantha Devasurendra as Non-Executive Directors, along with Ajith Devasurendra and legendary cricketer and investor Aravinda de Silva representing the Ambeon Group.
+
+The event featured speeches from MillenniumIT ESP CEO/Executive Director Shevan Goonetilleke as well as Sujeewa Mudalige and Aravinda de Silva, followed by a panel discussion moderated by MillenniumIT ESP Chief Revenue Officer Shalindra Fernando.
+
+The event also included a live Q and A session with employees, a humorous speech by award-winning MillenniumIT ESP Toastmaster Thejani Wijewardena, and musical performances by company employees, also known as ‘Millenniumites’, Yashithi Dharmawimala, Danindu Edirisinghe, and Thisal Amarasena.
+
+◼️
+
+[Data](articles/c333eaa8.json)
+
+---
+
+### Sri Lankan jewellers participate at 19th Singapore International Jewellery Expo
+
+*2024-07-30 00:57:41* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-jewellers-participate-at-19th-Singapore-International-Jewellery-Expo/34-764903) · `en`
+
+The High Commission of Sri Lanka in Singapore, in collaboration with the National Gem and Jewellery Authority of Sri Lanka (NGJA), organised the Sri Lanka pavilion at the Singapore International Jewellery Expo (SIJE) 2024 held from 11 to 14 July at Marina Bay Sands, Singapore.
+
+Four Sri Lankan companies, namely Cara Jewellers, Ceylon Shine Gems, Raw Ceylon Sapphire, and Sunshine Gems and Jewellers, represented Sri Lanka showcasing their products.
+
+More than 300 companies from 35 countries displayed their products at the SIJE this year, and the exhibition featured more than $ 250 million worth of local and international gems and jewellery.
+
+The Sri Lankan High Commissioner to Singapore Senarath Dissanayake joined the ribbon cutting ceremony with the Guest of Honour, Singapore Trade and Industry State Minister Alvin Tan, and other dignitaries to declare the event open.
+
+...
+
+[Data](articles/65153f11.json)
+
+---
+
+### Exhibit at International Green Week in Germany
+
+*2024-07-30 00:55:22* · [`dailyftlk`](https://www.ft.lk/business/Exhibit-at-International-Green-Week-in-Germany/34-764902) · `en`
+
+The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) is excited to announce the organisation of a 10-day Sri Lankan Pavilion at the prestigious International Green Week trade fair. Scheduled to take place from 19-28 January 2025, in Berlin, Germany, this trade fair provides an exceptional platform for Sri Lankan businesses and entrepreneurs in the food, beverage, and agriculture industries to present their products on a global stage and engage directly with international consumers.
+
+...
+
+[Data](articles/e8bf80b2.json)
+
+---
+
+### SPARK Skilled Youth Entrepreneurship competition 2024 now accepting applications
+
+*2024-07-30 00:53:05* · [`dailyftlk`](https://www.ft.lk/business/SPARK-Skilled-Youth-Entrepreneurship-competition-2024-now-accepting-applications/34-764901) · `en`
+
+From left: 1st Runner-up of SPARK 2023 Malindu Pradinath, 3rd Runner-up Helani Dinali, ILO Chief Technical Advisor Dr. Thomas Kring, Winner Mihindi Minupama, 2nd Runner-up Kavindi Ranasinghe and Ceylon Chamber of Commerce Senior Assistant Secretary General Manori Dissanayaka
+
+The SPARK Skilled Youth Entrepreneurship competition, a premier national platform dedicated to inspiring and empowering young entrepreneurs, has officially begun accepting applications for its 2024 edition. Organised by the Ceylon Chamber of Commerce, SPARK offers a unique opportunity for youth aged 15 to 30 years to develop their entrepreneurial skills and gain valuable exposure in two categories: The School Category and the Open Category.
+
+...
+
+[Data](articles/720d4f8d.json)
+
+---
+
+### Lanka Hospitals denies social media claims of swine flu patients
+
+*2024-07-30 00:50:11* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Hospitals-denies-social-media-claims-of-swine-flu-patients/34-764900) · `en`
+
+The Management of The Lanka Hospitals Corporation PLC (Lanka Hospitals) yesterday issued the following statement pursuant to the social media reports published on or around 28 July.
+
+There has been an organised attempt by certain individuals acting maliciously to instil fear among the general public by instigating false social media communications to the effect that 200 expatriates tested positive for Swine Flu and are being treated in our hospital.
+
+The Management denies the aforementioned social media publication and further wishes to advise the general public that in 2017 too, a similar publication had been instigated to cause panic and pandemonium in society purportedly raising a similar issue associated with our hospital.
+
+...
+
+[Data](articles/13269981.json)
+
+---
 
 ### CPA on wilful disregard for Constitution by the President
 
@@ -94,6 +170,8 @@ Tourism is back to being the darling of the Sri Lankan Economy after a tumultuou
 
 [Data](articles/2937d0f6.json)
 
+[Extended Data](ext_articles/2937d0f6.ext.json)
+
 ---
 
 ### Principles and proposals for political and constitutional reform for democracy: Part III
@@ -109,6 +187,8 @@ We propose that the Chapter on fundamental rights be improved to include univers
 ...
 
 [Data](articles/157d43f5.json)
+
+[Extended Data](ext_articles/157d43f5.ext.json)
 
 ---
 
@@ -2173,111 +2253,5 @@ The highest number of voters in the Kalutara district is Bandaragama.
 [Data](articles/93e9e142.json)
 
 [Extended Data](ext_articles/93e9e142.ext.json)
-
----
-
-### Colombo-Kandy road bloom
-
-*2024-07-29 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199327) · `si`
-
-A collision between a passenger bus and a container near Yakkala on the Colombo-Kandy road has caused a blockage at Yakkala Junction, reports Ada Derana.
-
-🟩
-
-A passenger bus and a container in Yakkala area on the Colombo-Kandy main road has collaborated.
-
-As a result, the Colombo-Kandy main road has been blocked by Yakkala Junction, "says Ada Derana reporter.
-
-◼️
-
-[Data](articles/2c9ab545.json)
-
-[Extended Data](ext_articles/2c9ab545.ext.json)
-
----
-
-### Colombo-Kandy main road blocked due to accident
-
-*2024-07-29 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100854/colombo-kandy-main-road-blocked-due-to-accident) · `en`
-
-The Colombo-Kandy main road has temporarily been blocked at Yakkala Junction due to a collision between a passenger bus and a container truck, the police said.
-
-◼️
-
-[Data](articles/20c03b6a.json)
-
-[Extended Data](ext_articles/20c03b6a.ext.json)
-
----
-
-### Sri Lanka justice minister resigns ahead of polls
-
-*2024-07-29 12:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-justice-minister-resigns-ahead-of-polls-174189/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Justice, Prisons Affairs and Constitutional Reforms Wijeyadasa Rajapakshe has stepped down from his ministerial position, ahead of the Presidential Election.
-
-Rajapakshe announced his intent to run for President in the upcoming election on Thursday (25).
-
-“To contest the upcoming election, I have resigned from my post as minister,” Rajapakshe told reporters on Monday (29).
-
-“I am not contesting from the Sri Lanka Podujna Peramuna (SLPP), but another coalition.”
-
-Rajapakshe, 65, has been in parliament for two decades since 2004 representing different political parties, and had held various positions including cabinet portfolio.
-
-“Accepting posts, being ousted from them and resigning from them is normal for me [samanya deyal].” (Colombo/Jul29/2024)
-
-◼️
-
-[Data](articles/8f3b7e82.json)
-
-[Extended Data](ext_articles/8f3b7e82.ext.json)
-
----
-
-### Israeli cabinet permits to retaliate for attack
-
-*2024-07-29 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/189680) · `ta`
-
-The Israeli Cabinet has authorized retaliation against Hezbollah after a rocket attack killed 12 children in Gollankund. PM Netanyahu has discretion on timing. This comes amid fears of a broader conflict, with the UN Secretary-General urging restraint.
-
-🟩
-
-The Cabinet has approved the Israeli government to respond to the attack on the Hesbullah organization.
-
-The Cabinet has granted Israeli Prime Minister Benjamin Netanyaku a permission to determine what time the goal is to be attacked.
-
-The Israeli Cabinet has granted permission for a response attack as 12 children have been killed in a rocket attack on the Gollankund.
-
-The Israeli air strikes have been warned that the targets of the Hesbullah organization in Leban will be attacked.
-
-It is noteworthy that an international fears have arisen over the full war between Israel and the Hesbullah organization.
-
-The United Nations Secretary -General has requested that all parties be able to practice more patience.
-
-◼️
-
-[Data](articles/7eda361b.json)
-
-[Extended Data](ext_articles/7eda361b.ext.json)
-
----
-
-### Sri Lanka’s Tokyo Cement says factory running on own renewable energy
-
-*2024-07-29 12:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-tokyo-cement-says-factory-running-on-own-renewable-energy-174181/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Tokyo Cement said its factory complex in Trincomalee is generating its own renewable energy and has achieved ‘energy independent’ status and can avoid the impact of changing electricity tariffs.
-
-“The thoughtful design of its local manufacturing process to operate exclusively on renewable biomass energy played a significant role in effectively managing operational expenses. The Group’s 100% energy independent manufacturing process in Trincomalee remained unaffected by the substantial increases in electricity tariffs and fuel prices,” Tokyo told shareholders in the annual report.
-
-The Group recorded a turnover of 49.8 billion rupees and a profit after tax (PAT) of 2.4 billion rupees for the financial year ending on March 31, 2024.
-
-Tokyo Cement Group’s renewable energy generation programme was a key driver of the Group’s stable financial performance in the Financial Year 2023/24.
-
-...
-
-[Data](articles/e1ae5158.json)
-
-[Extended Data](ext_articles/e1ae5158.ext.json)
 
 ---

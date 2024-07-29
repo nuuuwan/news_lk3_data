@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 15:36:06**
+As of **2024-07-29 15:55:04**
 
 ## Newspaper Stats
 
-*Scraped **37,866** Articles*
+*Scraped **37,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ economynextcom | 2,267
 dailyftlk | 2,416
 adalk | 3,452
 adaderanalk | 4,385
-tamilmirrorlk | 4,686
+tamilmirrorlk | 4,687
 dailymirrorlk | 4,733
 virakesarilk | 5,973
-adaderanasinhalalk | 6,366
+adaderanasinhalalk | 6,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,866 (100.0%) of 37,866 articles have been extended.
+37,866 (100.0%) of 37,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### ගංගා සෙනවිරත්න පළමු තැනට
+
+*2024-07-29 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199334) · `si`
+
+2024 පැරිස් ඔලිම්පික් උලළේ දී මීටර් 100 පසුපස ආර පිහිණුම් ඉසව්වේ මූලික වටයේ තරගයකින් පළමු ස්ථානය දිනාගැනීමට ශ්‍රී ලංකා ක්‍රීඩිකාවක් සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/07d2664d.json)
+
+---
+
+### විජයදාසට එරෙහි වාරණය දීර්ඝ කෙරේ
+
+*2024-07-29 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199333) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ හා ලේකම්වරයා ලෙස සාරථි දුෂ්මන්ත මිත්‍රපාල යන මහත්වරු එම ධුරවල කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය දිර්ඝ කර තිබේ.
+
+සැප්තැම්බර් මස 24 වන දා දක්වා එම නියෝගය දීර්ඝ කරණ ලෙස කොළඹ දිසා අධිකරණය අද (29) නියෝග කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ අමාත්‍යවරුන් වන මහින්ද අමරවීර, ලසන්ත අලගියවන්න  සහ දුමින්ද දිසානායක විසින් ඉදිරිපත් කළ පැමිණිල්ලක් අද යළි කැඳවීමෙන් අනතුරුව එම නියෝග නිකුත් කර තිබේ.
+
+නඩුවට අදාළ විරෝධතා සැප්තැම්බර් මස 24 වනදාට පෙර ගොනු කරන ලෙසත් වග උත්තරකරුවන්ට නියෝග කෙරුණි.
+
+එම නඩුවේ විත්තිකරුවන් ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා ඇතුළු පිරිසක් නම් කර තිබුණි.
+
+◼️
+
+[Data](articles/6169c4ab.json)
+
+---
+
+### பரிஸ் 2024: அரையிறுதிக்கு தகுதிபெறத் தவறிய கங்கா செனவிரத்ன
+
+*2024-07-29 15:18:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-அரையிறுதிக்கு-தகுதிபெறத்-தவறிய-கங்கா-செனவிரத்ன/44-341221) · `ta`
+
+பிரான்ஸில் நடைபெற்று வரும் பரிஸ் 2024 ஒலிம்பிக் போட்டிகளின் பெண்களுக்கான பின்புறமாக நீந்தும் 100 மீற்றர் நீச்சல் போட்டியின் அரையிறுதிப் போட்டிகளுக்கு இலங்கையின் கங்கா செனவிரத்ன தகுதி பெறத் தவறியுள்ளார்.
+
+தகுதிகாண் போட்டிகளில் முதல் 16 இடங்களைப் பெறுபவர்களே அரையிறுதிப் போட்டிகளுக்கு தெரிவாகுவர் என்ற நிலையில், போட்டித் தூரத்தை ஒரு நிமிடம் நான்கு செக்கன்கள் 26 மில்லி செக்கன்களில் பூர்த்தி செய்த செனவிரத்ன 30ஆம் இடத்திலேயே தரப்படுத்தப்பட்டிருந்தார்.
+
+◼️
+
+[Data](articles/d9026291.json)
+
+---
+
+### XXXIII Olympic Games
+
+*2024-07-29 14:58:00* · [`islandlk`](http://island.lk/xxxiii-olympic-games/) · `en`
+
+Innumerable essays were written during schooldays; celebrated in 1948 was Major Desamanya Duncan M White’s Olympic silver medal in the 400m hurdles in London; and even more so Susanthika Jayasinghe’s bronze promoted to silver in the 200m sprint in 2000 in Sydney. Thus no surprise that interest runs high every four years when the Summer Olympic Games are held. After all, here is one event that draws the world together in holding the most attended and famed gathering of all, a sporting event aimed to be sans politics, enmity, corrosive competition. Rather is it meant to foster a coming together of all nations of the world in peace, inducing sportsmanship of the correct win or lose type; with no monetary awards given by IOC, the International Olympics Committee.
+
+...
+
+[Data](articles/28d3f0d9.json)
+
+[Extended Data](ext_articles/28d3f0d9.ext.json)
+
+---
+
+### තුන්මෝදර බිහිසුණු අනතුරක්
+
+*2024-07-29 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199332) · `si`
+
+පුවක්පිටිය, තුන්මෝදර අවිස්සාවේල්ල මාර්ගයේ මිරිස්කුඩු වංගුව ප්‍රදේශයේ සිදුවූ අනතුරකින් පොලිස් නිලධාරියෙක් ජීවිතක්ෂයට පත්වී තිබේ.
+
+අප වාර්තාකරු පැවසුවේ එම මාර්ගයේ ධාවනය වූ කන්ටේනර් රථයක්, යතුරු පැදියක ගැටී එම අනතුර සිදුවූ බවය.
+
+යතුරුපැදියේ සිටි එක් පොලිස් නිලධාරියෙක් එම ස්ථානයේදීම ජීවිතක්ෂයට පත්වී ඇති අතර අනෙක් නිලධාරීයා ප්‍රතිකාර සඳහා අවිස්සාවේල්ල රෝහලට ඇතුළු කළ බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/6d32d2c1.json)
+
+---
 
 ### 583 crores for VIP security
 
@@ -225,6 +301,22 @@ The complaint has been lodged at the Homagama Police Station.
 [Data](articles/dcf60cd4.json)
 
 [Extended Data](ext_articles/dcf60cd4.ext.json)
+
+---
+
+### Buddhism, AI and cremation of Covid dead grab attention
+
+*2024-07-29 13:41:00* · [`islandlk`](http://island.lk/buddhism-ai-and-cremation-of-covid-dead-grab-attention/) · `en`
+
+MPs are not strictly divided along party lines in the current parliament, except for the TNA and JVP/NPP. MPs from other parties sit on both the government and opposition sides of the House. This movement is frequently and expected to continue in the coming weeks as political maneuvering continues. However, MPs come together for moments of shared amusement, as seen last Wednesday in the lobbies during an adjournment debate on promoting Artificial Intelligence (AI).
+
+Here, Colombo District MP Rear Admiral (Retd) Sarath Weerasekara, who is also known for his part in the films “Gamini” (2011) and “Deveni Yuddhaya” (2023), made a comment that drew laughter from both government and opposition MPs. He said that the Buddha had used AI many times. He claimed that while AI was discovered by modern Western scientists, the Buddha through meditation and spiritual attainment achieved as much.
+
+...
+
+[Data](articles/bdd2c35a.json)
+
+[Extended Data](ext_articles/bdd2c35a.ext.json)
 
 ---
 
@@ -2147,105 +2239,5 @@ However, the two policemen have been suspended until the inquiry is over by the 
 [Data](articles/3c46cb09.json)
 
 [Extended Data](ext_articles/3c46cb09.ext.json)
-
----
-
-### 25 Years After His Assassination: Dr. Neelan Tiruchelvam’s Enduring Legacy In Human Rights & Constitutional Reform
-
-*2024-07-29 01:31:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/25-years-after-his-assassination-dr-neelan-tiruchelvams-enduring-legacy-in-human-rights-constitutional-reform/) · `en`
-
-On the 25th anniversary of Dr. Neelan Tiruchelvam‘s assassination, it is important to honor his profound impact as a global advocate for human rights and peace. Known for his pivotal role in international election monitoring, constitutional reform, and efforts to resolve Sri Lanka’s ethnic conflict, Tiruchelvam’s legacy continues to inspire. His tragic death on July 29th, 1999, a consequence of his dedication to democratic solutions, marked a significant loss to the pursuit of justice and inclusivity. This article celebrates his enduring contributions to peace and human rights.
-
-...
-
-[Data](articles/05ba7970.json)
-
-[Extended Data](ext_articles/05ba7970.ext.json)
-
----
-
-### Arrest by someone with foreign handguns
-
-*2024-07-29 01:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டுக்-கைத்துப்பாக்கியுடன்-ஒருவர்-கைது/175-341189) · `ta`
-
-A man was arrested in Pallegama, Anuradhapura, after a raid by Maradankadawala police found him with foreign handguns.
-
-🟩
-
-The arrest has been carried out in the Pallegama area under the Ibalogama police division of Anuradhapura, police said.
-
-The man was arrested in Pallegama area yesterday after the raid carried out by the Maradankadawala police.
-
-◼️
-
-[Data](articles/7ab56a83.json)
-
-[Extended Data](ext_articles/7ab56a83.ext.json)
-
----
-
-### Green innovations for sustainability
-
-*2024-07-29 01:24:44* · [`dailyftlk`](https://www.ft.lk/columns/Green-innovations-for-sustainability/4-764835) · `en`
-
-With a vision for a cleaner and greener future, our youth entrepreneurs should take the lead in pioneering the adoption of eco-friendly technologies, renewable energy integration, and waste reduction strategies
-
-We are living in an era where nature pleadingly seeks human support for its survival and sustainability. Even though it is truly disheartening to see how actions caused by humans have paved the way toward the degradation of nature over the years, it is at least relieving to see that the world has now started to understand the gravity of this major problem. Since the spillover effects of these sustainability issues tend to pose a greater threat to the present as well as future generations, it is high time that the present youth understand the importance of being active as well as proactive in tackling this issue strategically.
-
-...
-
-[Data](articles/9264a55f.json)
-
-[Extended Data](ext_articles/9264a55f.ext.json)
-
----
-
-### Amal Sanderatne: An appreciation
-
-*2024-07-29 01:21:40* · [`dailyftlk`](https://www.ft.lk/columns/Amal-Sanderatne-An-appreciation/4-764834) · `en`
-
-While he was brilliant in his studies, Amal was always one to experience things to explore, be exposed to different cultures and was in no way someone who enjoyed being buried with his books! But his intelligence and abilities ensured he got his undergraduate degree at LSE and returned to Sri Lanka whilst we in Colombo had barely completed our A’ Levels at Royal
-
-Amal leaves behind him a masterclass in humility, caring, devotion and passion
-
-23 July 2024 marked one year since my friend Amal’s untimely demise. For those who knew Amal, he was a deeply private person. Amal was not guarded with his privacy because he was necessarily shy or not social – he was just a very private person and what mattered to him was caring for the people he loved. He was a man content with the hand that life had dealt him and was never one to trumpet his own achievements.
-
-...
-
-[Data](articles/ba3468d2.json)
-
-[Extended Data](ext_articles/ba3468d2.ext.json)
-
----
-
-### Amal Sanderatne: An appreciation
-
-*2024-07-29 01:21:40* · [`dailyftlk`](https://www.ft.lk/opinion/Amal-Sanderatne-An-appreciation/14-764834) · `en`
-
-While he was brilliant in his studies, Amal was always one to experience things to explore, be exposed to different cultures and was in no way someone who enjoyed being buried with his books! But his intelligence and abilities ensured he got his undergraduate degree at LSE and returned to Sri Lanka whilst we in Colombo had barely completed our A’ Levels at Royal
-
-Amal leaves behind him a masterclass in humility, caring, devotion and passion
-
-23 July 2024 marked one year since my friend Amal’s untimely demise. For those who knew Amal, he was a deeply private person. Amal was not guarded with his privacy because he was necessarily shy or not social – he was just a very private person and what mattered to him was caring for the people he loved. He was a man content with the hand that life had dealt him and was never one to trumpet his own achievements.
-
-...
-
-[Data](articles/e418e21c.json)
-
-[Extended Data](ext_articles/e418e21c.ext.json)
-
----
-
-### Child’s Guide To Debt & Debt Restructuring: Part IV
-
-*2024-07-29 01:19:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-debt-debt-restructuring-part-iv/) · `en`
-
-Aseni and Sarath Mahatthaya have been continuing their interactive conversation on Sri Lanka’s debt and the process involving the debt restructuring to facilitate the country to get into debt sustainability, a requirement under the ongoing Extended Fund Facility or EFF from IMF.
-
-...
-
-[Data](articles/4aa8357d.json)
-
-[Extended Data](ext_articles/4aa8357d.ext.json)
 
 ---

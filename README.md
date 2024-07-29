@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 11:36:15**
+As of **2024-07-29 11:56:06**
 
 ## Newspaper Stats
 
-*Scraped **37,816** Articles*
+*Scraped **37,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 365
 islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,416
-adalk | 3,446
-adaderanalk | 4,380
-tamilmirrorlk | 4,674
+adalk | 3,448
+adaderanalk | 4,381
+tamilmirrorlk | 4,676
 dailymirrorlk | 4,733
 virakesarilk | 5,961
 adaderanasinhalalk | 6,359
@@ -26,25 +26,107 @@ adaderanasinhalalk | 6,359
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,815 (100.0%) of 37,816 articles have been extended.
+37,816 (100.0%) of 37,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### තැපැල් ඡන්දහිමියන්ට දැනුම්දීමක්
+### Presidential Election 2024: Notice for postal voting applicants
+
+*2024-07-29 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/100851/presidential-election-2024-notice-for-postal-voting-applicants) · `en`
+
+The applications to cast postal votes must be handed over to District Returning Officers on or before August 05, the Election Commission announced.
+
+Accordingly, all applications of the postal voting applicants must be forwarded to the relevant District Returning Officers through the District Election Office address.
+
+The commission announced that the application forms to be completed for availing the postal voting facility can be obtained free of charge from the places where the voters’ lists are displayed, from the district election offices and also from the website of the Election Commission.
+
+Furthermore, the Election Commission informs the general public that the applications must be received by the respective District Election Offices before 12.00 midnight on August 05, which is the last day of applications receipt and mere delivery of applications by post on that day is not a reason for acceptance of applications.
+
+...
+
+[Data](articles/09cf791c.json)
+
+---
+
+### වාහන ආනයන සීමා ඉවත් කිරීම 2025 වර්ශයේ පළමු වන කාර්තුවේදී
+
+*2024-07-29 11:18:36* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-සීමා-ඉවත්-කිරීම-2025-වර්ශයේ-පළමු-වන-කාර්තුවේදී/11-411064) · `si`
+
+ජාත්‍යන්තරය සමග කටයුතු කල හැකි අත්දැකීම් හා අනාගතය පිළිබඳව දැක්මක් ඇති නායකත්වයක් රටට අවශ්‍ය බවත් පෞද්ගලික වාහන ආනයන සීමා ඉවත් කිරීම  2025 වර්ශයේ පළමු වන කාර්තුවේදී බලාපොරොත්තු වන බවත් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා මේ බව කියාසිටියේ ඊයේ (28දා) දින අනුරාධපුරයේදී පැවති මාධ්‍ය හමුවකදී අදහස් දක්වමින්ය.
+
+"2022 වර්ෂයේදී ඇති වූ තත්ත්වය නැවත ඇති නොවීමට කටයුතු කිරීම මෙවර ජනාධිපතිවරණයේ අරමුණයි. රටේ ආර්ථික පරිවර්තන නීතියට අනුව රට පවත්වා ගෙන යෑම  සියලුම ජනතාවගේ අරමුණ විය යුතු වෙනවා.
+
+ජාත්‍යන්තරය සමග කටයුතු කළ හැකි අත්දැකීම් හා අනාගතය පිළිබඳව දැක්මක් ඇති නායකත්වයක් රටට අවශ්‍යයි. ඉදිරි ජනාධිපතිවරණයේදී ජනතාව විසින් වැරදි තීන්දුවක් ගතහොත් රට නැවත වසර 15ක් ආපස්සට ගමන් කිරීම වැලැක්ව්ය නොහැකියි.
+
+...
+
+[Data](articles/b767b53c.json)
+
+---
+
+### Note of postage voters
 
 *2024-07-29 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199324) · `si`
 
-2024 ජනාධිපතිවරණයේ තැපැල් ඡන්දදායකයින්ගේ පහසුව සඳහා ඡන්ද හිමි නාමලේඛන ප්‍රදර්ශනය කළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+The Elections Commission plans to display electoral regions starting July 26, 2022, to aid postal voters in the 2024 presidential election. This initiative aims to ensure convenience for all certified voters by the electoral bodies in 2024.
 
-ඒ අනුව 2024 වර්ෂයේ සහතික කරන ලද ඡන්ද හිමි සියලුම මැතිවරණ කොට්ඨාසවලට අදාළ 2024 ජූලි මස 26 වන දින සිට සාමාන්‍ය කාර්යාල වේලාවන් තුළ පහත සඳහන් ස්ථානවල ප්‍රදර්ශනය කෙරේ.
+🟩
 
-ඒ සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාව නිකුත් කළ සම්පූර්ණ නිවේදනය පහතින් දැක්වේ.
+The Elections Commission announced that electoral regions should be displayed for the convenience of postal voters in the 2024 presidential election.
+
+Accordingly, the following places will be displayed from July 26, 202 to all electoral elections certified by the electoral electorates in the year 2024.
+
+The full announcement issued by the Elections Commission in this regard is as follows.
 
 ◼️
 
 [Data](articles/1460b076.json)
+
+[Extended Data](ext_articles/1460b076.ext.json)
+
+---
+
+### நீச்சல் தடாகத்தில் மூழ்கி சிறுவன் பலி
+
+*2024-07-29 11:06:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீச்சல்-தடாகத்தில்-மூழ்கி-சிறுவன்-பலி/76-341204) · `ta`
+
+7 வயதுடைய  சிறுவன் உயிரிழந்துள்ளதுடன், அவரது மூத்த சகோதரரும் அதே நீச்சல் குளத்தில் மூழ்கி கவலைக்கிடமான நிலையில் கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாக தெரியவந்துள்ளது .
+
+வெரெல்லகம, குருதுகொல்ல பிரதேசத்தைச் சேர்ந்த மொஹமட் மிஸ்ஜான் என்ற சிறுவனே சம்பவத்தில் உயிரிழந்துள்ளார் .கண்டி, லுவீ  பீரிஸ் வீதியில் உள்ள விடுதி ஒன்றின் நீச்சல் தடாகத்தில் மூழ்கி  உயிரிழந்துள்ளார்.
+
+தனது குடும்பத்துடன் ஞாயிற்றுக்கிழமை (28)அன்று விடுமுறையை கழிப்பதற்காக இந்த விடுதிக்கு வந்த நிலையில் பிற்பகல் 11:00 மணியளவில் நீச்சல் தடாகத்திற்கு அருகில் தனியாக இருந்த போது நீச்சல் குளத்தில் அச்சிறுவன் விழுந்துள்ளார் .
+
+அதை கண்ட அவரது மூத்த சகோதரன் நீச்சல் தடாகத்தில் குதித்து தனது தம்பியை காப்பாற்ற முயன்ற போது அவரும் நீரில் மூழ்கியுள்ளார் .
+
+ஆபத்தான நிலையில் இருந்த இளைய சகோதரர் வைத்தியசாலைக்கு கொண்டு செல்லும் போது உயிரிழந்துள்ளதுடன், மூத்த சகோதரன் சிகிச்சை பெற்று வருவதாக தெரியவந்துள்ளது .
+
+மேலும்,  இச் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை  கண்டி தலைமையக பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/b0a28c03.json)
+
+---
+
+### தேர்தல் தவிசாளர் அதிரடி அறிவிப்பு
+
+*2024-07-29 11:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தவிசாளர்-அதிரடி-அறிவிப்பு/175-341203) · `ta`
+
+ஜனாதிபதித் தேர்தல் 2024 பெயர் குறித்த நியமனப்பத்திரங்களைப் பொறுப்பேற்றல், வைப்புப் பணம் செலுத்துதல் மற்றும் வாக்கெடுப்பு தொடர்பாக இலங்கை தேர்தல் ஆணைக்குழு சார்பாக அதன் தவிசாளர் ஆர்.எம்.ஏ.எல்.சத்நாயக்க அறிவித்தல் ஒன்றை விடுத்துள்ளார்.
+
+அதன்படி, 1981 ஆம் ஆண்டின் 15 ஆம் இலக்க ஜனாதிபதித் தேர்தல்கள் சட்டத்தின் 2 ஆவது மற்றும் 8 ஆவது பிரிவுகள் குறித்து வாக்காளர்களுக்கு பின்வரும் விடயங்களைத் தெளிவு படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+
+ஜனாதிபதித் தேர்தலுக்கான வாக்கெடுப்பு 2024, செப்டம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படவிருப்பதாக பொதுமக்களுக்கு இத்தால் அறிவித்தல் கொடுக்கப்படுகின்றது.
+
+அந்தத் தேர்தலுக்குரிய பெயர்குறித்த நியமனப்பத்திரங்கள், 2024 ஆகஸ்ட் மாதம் 15 ஆம் திகதி மு.ப. 9.00 மணி முதல் மு.ப. 11.00 மணி வரையான காலப்பகுதிக்குள் இராஜகிரிய, சரண மாவத்தையில் அமைந்துள்ள தேர்தல் ஆணைக்குழுவின் தலைமையக கேட்போர்கூடத்தில் பொறுப்பேற்கப்படும்.
+
+...
+
+[Data](articles/10497368.json)
 
 ---
 
@@ -1730,6 +1812,24 @@ Your skill, dedicated and joint operation for your failure. The President has st
 
 ---
 
+### දෙසැම්බර් වන විට බිත්තර අතිරික්තයක්
+
+*2024-07-28 20:14:46* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බර්-වන-විට-බිත්තර-අතිරික්තයක්/11-411056) · `si`
+
+වෙළඳ අමාත්‍යවරයා රුපියල් 38 ට ලබා දීමට නියම කළ දේශීය බිත්තරය තව මසකින් පමණ රුපියල් 38ට අඩුවෙන් මිලදී ගැනීමට පාරිභෝගිකයාට අවස්ථාව උදා වන බව සමස්ත ලංකා බිත්තර නිෂ්පාදකයන්ගේ සංගමයේ ලේකම් රත්නසිරි අලහකෝන් මහතා පවසයි.
+
+මේ වන විට පරිභෝජනයට අවශ්‍ය බිත්තර ප්‍රමාණය ඉක්මවා මාසිකව බිත්තර ලක්ෂ 06 බැගින් වැඩි බිත්තර ප්‍රමාණයක් නිෂ්පාදනයට එකතු වන බව පවසන ඔහු, ලබන දෙසැම්බර් වන විට බිත්තර අතිරික්තයක් ඇතිවන බවද පවසයි.
+
+මේ අනුව ඉන්දියාවෙන් බිත්තර ආනයනය කිරීමට කිසිදු අවශ්‍යතාවයක් නොමැති බව පෙන්වා දෙන ඔහු, බිත්තර ආනයනය කිරීමට යන වියදම දේශීය බිත්තර කර්මාන්තයේ නගාසිටුවීම සඳහා යොදවන්නේ නම් දේශීය ගොවියා මෙන්ම පාරිභෝගිකයාද ආරක්ෂාව වන බව පැවසීය.
+
+වෙළඳ අමාත්‍යාංශය ඉන්දියාවෙන් බිත්තර ආනයනය කර පාරිභෝගිකයාට අළෙවි කළේ රුපියල් 43 බැගින් බවත් දැනට දේශීය බිත්තර රුපියල් 42, 43, 44 මිලට පාරිභෝගිකයාට මිලදී ගත හැකි බවත් පෙන්වා දෙන ඔහු, බිත්තර ආනයනය කිරීමෙන් සිදුවන්නේ දේශීය බිත්තර කර්මාන්තය කඩා වැටීම බවද වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/1241e8f9.json)
+
+---
+
 ### Sagala and Susil tells Mahinda not to post a candidate
 
 *2024-07-28 20:08:44* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවෙන්-අපේක්ෂකයෙක්-දාන්න-එපා-යැයි-සාගල-හා-සුසිල්-මහින්දට-කියයි/11-411055) · `si`
@@ -2153,133 +2253,5 @@ The SLC has decided to give a monthly allowance for the women's cricket team for
 [Data](articles/9e1a0e86.json)
 
 [Extended Data](ext_articles/9e1a0e86.ext.json)
-
----
-
-### Women's Asian Cup: Sri Lanka beating India
-
-*2024-07-28 18:42:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மகளிர்-ஆசிய-கோப்பை-இந்தியாவை-வீழ்த்தி-சம்பியனானது-இலங்கை/44-341171) · `ta`
-
-In the Women's Asian Cup final, Sri Lanka emerged victorious against India. Despite India's strong start, scoring 165/6 in 20 overs led by Smriti Mandhana's 60, Sri Lanka chased down the target with ease. Key contributions from Harshita (69*), Samari Attapattu (61), and Kavisha (30) secured the win in 18.4 overs. Poor fielding from India cost them the match.
-
-🟩
-
-India and Sri Lanka teams took part in the final of the current women's Asia Cup cricket series. Sri Lanka won the championship title.
-
-The Indian team won the match at the Dambulla Cricket Ground in Sri Lanka. Scored 165 runs for the loss of 6 wickets in 20 overs. Smriti Mandana scored 60 runs off 47 balls. Richa Ghosh scored 30 runs off 14 balls.
-
-Sri Lanka chased down the target of winning 166 runs. The starting team was the shocking shock. Sri Lankan opener Vishmi Gunaratne was run out. Harshita and Captain Samari Attapattu then set a partnership with 87 runs. Samari Attapattu scored 61 runs off 43 balls. Sri Lanka scored 94 runs in 12 overs.
-
-Kavisha was playing to support Harshaita. In the end, Sri Lanka won the championship for the loss of 2 wickets in 18.4 overs. Harsita was unbeaten with 69 runs. Kavisha scored 30 runs.
-
-The Indian team's fielding activity was very bad. Dropping the catches was adversely.
-
-◼️
-
-[Data](articles/7f3bbfc3.json)
-
-[Extended Data](ext_articles/7f3bbfc3.ext.json)
-
----
-
-### Chamari Leaders win Asian Trophy
-
-*2024-07-28 18:29:01* · [`adalk`](https://www.ada.lk/sports/චමරි-ප්‍රමුඛ-කෙල්ලෝ-ආසියානු-කුසලානය-දිනති/9-411047) · `si`
-
-In the 9th Women's Asia Cup, Sri Lanka emerged victorious over India, who had previously won seven times. Chamari Atapattu and Hersha Samarawickrama's batting led Sri Lanka to victory after India's strong start.
-
-🟩
-
-Sri Lanka were able to win the Women's Asia Cup. The powerful Indian team conquered by 8 wickets.
-
-This year is the 9 Asia Cup Women's Cricket Tournament, five of Sri Lanka was submissive.
-
-India was winning at 7 times. On one occasion, Bangladesh had won the championship.
-
-Batting first, the Indian team scored 165 runs for the loss of 165 and scored 165 runs for the Sri Lankan team.
-
-Chamari Atapattu (61 (69), Hersha Samarawickrama (61 (69 * (51) (51 balls) (69 * (51) (51 balls), the match was brought to Sri Lanka.
-
-The total number of runs was bowled out in 94 and then joined the Sri Lankan cricket in a non-ballore cup with 73 runs in Sri Lanka.
-
-◼️
-
-[Data](articles/e5f1ee76.json)
-
-[Extended Data](ext_articles/e5f1ee76.ext.json)
-
----
-
-### Sri Lanka Women's Team won the Asian Cup for the first time!
-
-*2024-07-28 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/189633) · `ta`
-
-In a historic moment, Sri Lanka's women's cricket team clinched their first Asia Cup victory, defeating India by 8 wickets in the 20th over at the Rangiri Dambulu Cricket Ground. The Indian team made 165 runs in 20 overs, while Sri Lanka achieved 166 runs in 18.4 overs, losing just two wickets.
-
-🟩
-
-Sri Lanka won the Asia Cup for the first time in the 20th over against India by 8 wickets.
-
-The match was held at the Rangiri Dambulla Cricket Ground.
-
-Accordingly, the Indian women's team scored 165 runs for the loss of six wickets in their 20 overs.
-
-The Sri Lankan women's team then scored 166 runs to win the Asian Cup, losing only two wickets in 18.4 overs.
-
-◼️
-
-[Data](articles/2b883aec.json)
-
-[Extended Data](ext_articles/2b883aec.ext.json)
-
----
-
-### Sri Lanka Women clinch first-ever Asia Cup title
-
-*2024-07-28 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/100840/sri-lanka-women-clinch-first-ever-asia-cup-title-) · `en`
-
-Sri Lanka women won their first-ever Women’s Asia Cup title as they beat seven-time champions India by 8 wickets in the final on Sunday.
-
-Chasing the highest-ever target of 165 in the tournament for Sri Lanka, skipper Chamari Athapaththu smashed an impressive 61 runs with 2 sixes and 9 boundaries.
-
-To offset the disappointment of Vishmi Gunaratne’s early run-out against India, Harshitha Samarawickrama bolstered Sri Lanka’s scoreboard by adding another half-century. Samarawickrama hit 69* in just 51 deliveries, while Kaveesha Dilhari scored 30*.
-
-Having won the toss, India’s Captain Harmanpreet Kaur elected to bat first against Sri Lanka where they smashed 165 runs for the fall of 3 wickets.
-
-Opener Shafali Verma, who scored 16, was the first strike for Sri Lanka Women. India’s Smriti Mandhana led the charge with a powerful 60, propelling India towards a formidable total.
-
-...
-
-[Data](articles/30a00530.json)
-
-[Extended Data](ext_articles/30a00530.ext.json)
-
----
-
-### We will make a political decision by giving priority to party policy - Namal Rajapaksa
-
-*2024-07-28 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/189631) · `ta`
-
-Namal Rajapaksa prioritizes party policy over personal impact, addressing the economic crisis as a result of good governance accountability. He emphasizes the need to tackle the economic crisis before focusing on people's lives, highlighting the significant changes in the social structure due to loans from Mahinda Rajapaksa's regime. The current government aims to privatize public development projects, with no new initiatives from 2015 to 2019. An official announcement regarding the presidential election is expected this week.
-
-🟩
-
-Good governance should be held accountable for the economic crisis. The National Organizer of the PA, Namal Rajapaksa, said that we will give priority to the policy of the party and make a firm decision.
-
-He made this statement during a meeting with the organizers of the PA in Colombo on Sunday (28).
-
-We have faced massive challenges in politics since 2018. Is the life of the people of the country during the great impact?Or is it economical?We decided to take care of the people's lives later.
-
-The economic crisis after the Govt massive impact created massive political crises.
-
-The loans received by Mahinda Rajapaksa's regime made a massive change in social structure. The current government is trying to privatize our government's development projects.
-
-Good governance government should be held responsible for the economic crisis. From 2015 to 2019, no new development projects have been introduced. Our government's development projects have been suspended.
-
-...
-
-[Data](articles/cac936ae.json)
-
-[Extended Data](ext_articles/cac936ae.ext.json)
 
 ---

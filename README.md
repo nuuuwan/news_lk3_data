@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 23:55:41**
+As of **2024-07-30 00:08:24**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,938 (100.0%) of 37,941 articles have been extended.
+37,941 (100.0%) of 37,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### ரணிலுக்கு ஆதரவளிக்கும் மொட்டு கட்சியின் முக்கியஸ்தர்
+### Ranil
 
 *2024-07-29 23:35:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவளிக்கும்-மொட்டு-கட்சியின்-முக்கியஸ்தர்/175-341251) · `ta`
 
-ரணிலுக்கு ஆதரவளிப்பதில்லை என ஸ்ரீலங்கா பொதுஜனபெரமுன  தீர்மானித்துள்ள போதிலும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவு வழங்கப்போவதாக இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னக்கோன் தெரிவித்துள்ளார்.
+Despite the Sri Lankan People's Alliance (PA) deciding against supporting him, Ranil Wickremesinghe remains backed by the majority of parliamentarians. His role as Minister of State is credited with saving the country at a crucial time.
 
-ஸ்ரீலங்கா பொதுஜனபெரமுன எவ்வாறான தீர்மானத்தை எடுத்திருந்தாலும் சரி, கட்சியின் பெரும்பான்மையான பாராளுமன்ற உறுப்பினர்களுடன் நான் ஜனாதிபதிக்கு எதிர்வரும் தேர்தலில்  ஆதரவளிப்பேன் நாட்டை மிக முக்கியமான தருணத்தில் காப்பாற்றியவர் அவர் என இராஜாங்க அமைச்சர் தெரிவித்துள்ளார். R
+🟩
+
+The Sri Lankan PA has decided not to support Ranil but he will support President Ranil Wickremesinghe.
+
+Whatever the decision of the Sri Lanka PA, I will support the president with the majority of parliamentarians, the Minister of State has saved the country at a very important moment.. Remble
 
 ◼️
 
 [Data](articles/df133a8e.json)
+
+[Extended Data](ext_articles/df133a8e.ext.json)
 
 ---
 
@@ -722,6 +728,8 @@ Legislator Namal Rajapaksa, has opposed Wickremesinghe he was an expert at split
 
 [Data](articles/9cd4eb8e.json)
 
+[Extended Data](ext_articles/9cd4eb8e.ext.json)
+
 ---
 
 ### SLPP decides not to support Ranil at prez poll, to field own candidate
@@ -825,6 +833,8 @@ The RTI Commission order came following an RTI request filed by a journalist bas
 ...
 
 [Data](articles/c722782a.json)
+
+[Extended Data](ext_articles/c722782a.ext.json)
 
 ---
 

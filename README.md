@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 19:54:25**
+As of **2024-07-29 20:06:50**
 
 ## Newspaper Stats
 
-*Scraped **37,910** Articles*
+*Scraped **37,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 4,393
 tamilmirrorlk | 4,694
 dailymirrorlk | 4,733
 virakesarilk | 5,976
-adaderanasinhalalk | 6,376
+adaderanasinhalalk | 6,377
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,910 (100.0%) of 37,910 articles have been extended.
+37,910 (100.0%) of 37,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
+
+### එංගලන්තයේ පිහි ඇනුමක් - පොලීසිය ආරක්ෂාව තර කරයි
+
+*2024-07-29 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199343) · `si`
+
+එංගලන්තයේ ලිවර්පූල් හි සවුත්පෝර්ට් ප්‍රදේශයේ සිදුකළ පිහි ඇනුමකින් කිහිපදෙනෙක් තුවාල ලබා ඇති බව බීබීසී පුවත් සේවය වාර්තා කරයි.
+
+සිද්ධිය ඇසින් දුටු අයෙක් පවසා ඇත්තේ සැකකරු එහෙ මෙහෙ දුවමින් පිහියෙන් ඇන්න බවයි.
+
+◼️
+
+[Data](articles/f169d2b0.json)
+
+---
 
 ### Sri Lanka urges action against cybercrime centres, employment rackets in ASEAN region
 
@@ -2249,27 +2263,5 @@ President Ranil Wickremesinghe added that the Elections Commission will provide 
 [Data](articles/6cafd711.json)
 
 [Extended Data](ext_articles/6cafd711.ext.json)
-
----
-
-### ADB developing project to support Sri Lanka tourism sustainably
-
-*2024-07-29 10:12:00* · [`economynextcom`](https://economynext.com/adb-developing-project-to-support-sri-lanka-tourism-sustainably-173998/) · `en`
-
-ECONOMYNEXT – The Asian Development Bank is ready to support Sri Lanka’s tourism sector to earn more revenue while protecting the island’s natural assets, officials said as the country sees a recovery in visitor volumes.
-
-“The ADB is preparing a project that we would like to finance in the tourism space, which will support policy actions in the tourism sector to increase resilience to shocks and strengthen institutions, and potentially streamline decision making as well,” Takafumi Kadono, Country Director, ADB Sri Lanka Resident Mission said.
-
-There were concerns raised over visitation of nature reserves and also whale watching.
-
-“Tourism is not without its challenges,” Takeo Konishi, Director General, South Asia Regional Department, ADB said.
-
-“Some of the pre-COVID-19 challenges such as over-tourism are reoccurring in a variety of destinations, and protests by residents against visitors numbers and visitor behavior is now occurring.
-
-...
-
-[Data](articles/5728cfd6.json)
-
-[Extended Data](ext_articles/5728cfd6.ext.json)
 
 ---

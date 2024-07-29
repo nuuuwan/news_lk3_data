@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 07:30:00**
+As of **2024-07-29 08:25:32**
 
 ## Newspaper Stats
 
-*Scraped **37,780** Articles*
+*Scraped **37,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,116 @@ bbccomsinhala | 365
 islandlk | 2,167
 economynextcom | 2,262
 dailyftlk | 2,415
-adalk | 3,441
+adalk | 3,443
 adaderanalk | 4,373
-tamilmirrorlk | 4,663
+tamilmirrorlk | 4,666
 dailymirrorlk | 4,733
 virakesarilk | 5,958
-adaderanasinhalalk | 6,350
+adaderanasinhalalk | 6,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,775 (100.0%) of 37,780 articles have been extended.
+37,785 (100.0%) of 37,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### තැපෑලේ වියදම් ඇස්තමේන්තුව මැතිවරණ කොමිසම ට
+
+*2024-07-29 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199318) · `si`
+
+ජනාධිපතිවරණය සඳහා තැපැල් දෙපාර්තමේන්තුවේ වියදම් පුරෝකථනය කරමින් රුපියල් බිලියන 1.4 ඇස්තමේන්තුවක් මැතිවරණ කොමිසම වෙත යොමුකර තිබේ.
+
+අද දෙරණ කළ විමසීමක දී නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා මේ බව පැවසීය.
+
+ඒ මහතා සඳහන් කළේ සාමාන්‍ය තැපැල් ගාස්තු, ලියාපදිංචි තැපැල් ගාස්තු, ලිපිද්‍රව්‍ය සඳහා වියදම්, ප්‍රවාහන වියදම් සහ පරිපාලන ගාස්තු ආදිය ඇතුළු වියදම් රැසක් සඳහා මෙම ඇස්තමේන්තුව යොමුකළ බවයි.
+
+කෙසේ වෙතත් මෙම ඇස්තමේන්තුව පුරෝකථනයක් පමණක් බැවින් ඉල්ලුම් කළ මුදල් ප්‍රමාණය වෙනස්විමේ හැකියාවක් පවතින බව ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/64039f84.json)
+
+---
+
+### Permission to import vehicles in August
+
+*2024-07-29 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199317) · `si`
+
+In August, Sri Lanka will allow the importation of vehicles, starting with essential ones like ambulances and buses. Private vehicle imports are expected to begin in the first quarter of 2025.
+
+🟩
+
+Minister of State Shehan Semasinghe says that the importation of vehicles will be made in August.
+
+Accordingly, the initial phase will be approved to import vehicles and vehicles for the transportation of vehicles.
+
+"The government cannot lead the country to the date of importing imports and restart imports. Then the headship was liarved all other excluding vehicles. By August, when the government stands in the August of August, we will inform the government's stand by stage of the government by August when he was on the basis of liberation of vehicle limits.. We hope to provide business in the early round and the vehicles needed to transport. But we expect to import private vehicles for the first quarter of 2025. "
+
+◼️
+
+[Data](articles/b5973cb1.json)
+
+[Extended Data](ext_articles/b5973cb1.ext.json)
+
+---
+
+### Habaraduwa shooting - two injured
+
+*2024-07-29 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199316) · `si`
+
+In a shooting incident in Habaraduwa's Harumalgoda area, two individuals were injured by unknown assailants firing from a motorcycle. One victim, attempting to board a three-wheeler, was notably unharmed but rushed to the hospital. Additionally, two other victims, aged 34 and 54, residents of Habaraduwa and Lock, were hurt.
+
+🟩
+
+Two persons were injured in a shooting carried out in the Harumalgoda area in Habaraduwa.
+
+Two unidentified persons who arrived in a motorbike were shooting at a pistol type of firearm.
+
+One person was injured, while he was also a wooden-up to the three-wheeler when he was trying to climb a three-wheeler.
+
+However, he had noticularly driven to the hospital.
+
+Two 34 and 54-year-old residents were also injured and residents of Habaraduwa and Lock.
+
+◼️
+
+[Data](articles/aec911b2.json)
+
+[Extended Data](ext_articles/aec911b2.ext.json)
+
+---
+
+### A red announcement from the weather
 
 *2024-07-29 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199314) · `si`
 
-ඉදිරි පැය 24 සඳහා තද සුළං සහ මුහුද රළුවීම පිළිබඳව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව, අනතුරු ඇඟවීමේ රතු නිවේදයක් නිකුත් කර තිබේ.
+The Department of Meteorology warns of strong winds and rough seas for the next 24 hours due to the southwest monsoon and the Bay of Bengal. It advises the Departments of Fisheries and Navigation to stay ashore. Showers and heavy rains are expected in several provinces, with potential for strong winds across the country.
 
-සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් අරාබි මුහුදු ප්‍රදේශය සහ බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ඉතා රළු විය හැකි බව එහි සඳහන් වේ.
+🟩
 
-එම දෙපාර්තමේන්තුව පැවසුවේ අරාබි මුහුදු ප්‍රදේශයේ උතුරු අක්ෂාංශ 1ද ත් 20 ත් සහ නැගෙනහිර දේශාංශ 55 ත් 67 ත් මුහුදු  ප්‍රදේශ වල පැයට කිලෝමීටර් 70 – 80 ඉතා තද සුළං පවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවය.
+The Department of Meteorology, the Department of Meteorology, has issued a warning red announcement on the waist of strong winds and sea for the next 24 hours.
 
-මේ හේතුවෙන් අදාළ ප්‍රදේශයේ ධීවර හා නාවික කටයුතුවල යෙදී සිටින පිරිස් වහාම ගොඩබිම හෝ ආරක්ෂිත ස්ථානයක් වෙත පැමිණෙන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+It says that due to the active southwest monsoon and the Bay of Bay of Bengal.
 
-එම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යත්‍රා නොකරන ලෙස එම දෙපාර්තමේන්තුව ධීවර හා නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+The department said that the sea areas could be very rough, while the sea areas could be very rough.
 
-මේ අතර, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ. ඇතැම් ස්ථානවලමි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+The Department of Meteorology has requested the Department of Fisheries and Navigation to come to a land or safe place in the area.
 
-...
+The Department has informed the fisheries and the naval community as no leoming to the sea.
+
+Meanwhile, showers will experience showers at times in the Western and Sabaragamuwa provinces, Galle, Matara, Kandy and Nuwara Eliya districts. Some places. Heavy rains can occur in more than 50.
+
+At times, in the West-borne areas of the central hills and in the North, North, North-central and North Western provinces.. (50-55) can cause strong winds. From time to time in the rest of the island.. (30-40) can cause strong winds.
+
+◼️
 
 [Data](articles/f130bb1a.json)
+
+[Extended Data](ext_articles/f130bb1a.ext.json)
 
 ---
 
@@ -306,6 +380,28 @@ Meanwhile, Minister Douglas Devananda, who visited the Chavakachcheri Hospital, 
 
 ---
 
+### Tourist arrivals increase in 2024
+
+*2024-07-29 01:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2024-இல்-சுற்றுலாப்-பயணிகள்-வருகை-அதிகரிப்பு/175-341191) · `ta`
+
+In 2024, there was a significant rise in both domestic and foreign tourist visits to forest department-managed sites compared to the previous two years. The minister reported a total of 364,521 tourists in the first half of 2024 alone, marking a notable increase from 289,405 in 2022 and 444,053 in 2023.
+
+🟩
+
+Wildlife, Forest Resources and Irrigation Minister Pavithra Wanniyarachchi said that by 2024, the number of domestic and foreign tourists who attended the Forest Department in 2024 had a significant increase in the number of tourists.
+
+Minister Pavithra Wanniyarachchi said this while addressing a press conference on the two -year progress at the Presidential Media Center yesterday.As he further stated,
+
+Compared to the last two years, in 2024, the number of domestic and foreign tourists coming to tourist destinations under the administration of the Department of Forestry has occurred significantly.. Accordingly, the number of tourists visited by the Department of Forest Resources in 2022 was 289,405 and 444,053 in 2023.. He said about 364 521 tourists arrived in the first six months of 2024. (A)
+
+◼️
+
+[Data](articles/67f5b475.json)
+
+[Extended Data](ext_articles/67f5b475.ext.json)
+
+---
+
 ### Principles and proposals for political and constitutional reform for democracy: Part II
 
 *2024-07-29 01:36:40* · [`dailyftlk`](https://www.ft.lk/opinion/Principles-and-proposals-for-political-and-constitutional-reform-for-democracy-Part-II/14-764838) · `en`
@@ -333,6 +429,22 @@ On the 25th anniversary of Dr. Neelan Tiruchelvam‘s assassination, it is impor
 ...
 
 [Data](articles/05ba7970.json)
+
+[Extended Data](ext_articles/05ba7970.ext.json)
+
+---
+
+### வெளிநாட்டுக் கைத்துப்பாக்கியுடன் ஒருவர் கைது
+
+*2024-07-29 01:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டுக்-கைத்துப்பாக்கியுடன்-ஒருவர்-கைது/175-341189) · `ta`
+
+அநுராதபுரம், இபலோகம பொலிஸ் பிரிவுக்குட்பட்ட பல்லேகம பகுதியில் வைத்து இந்தக் கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+நேற்றுமுன்தினம் பல்லேகம பிரதேசத்தில் மரதன்கடவல பொலிஸாரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே மேற்படி நபர் கைது செய்யப்பட்டுள்ளார்.மரதன்கடவல பிரதேசத்தைச் சேர்ந்த 49 வயதுடைய நபரே கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/7ab56a83.json)
 
 ---
 
@@ -380,25 +492,55 @@ Aseni and Sarath Mahatthaya have been continuing their interactive conversation 
 
 [Data](articles/4aa8357d.json)
 
+[Extended Data](ext_articles/4aa8357d.ext.json)
+
 ---
 
-### ’ஜனாதிபதி உடனடியாக பதவி விலக வேண்டும்’
+### Boy drowning in swimming lake
+
+*2024-07-29 01:18:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீச்சல்-தடாகத்தில்-மூழ்கி-சிறுவன்-உயிரிழப்பு/175-341188) · `ta`
+
+In Kandy, a seven-year-old boy drowned in a hotel pool while his ten-year-old brother, who tried to save him, is now in ICU. Police are investigating.
+
+🟩
+
+A seven -year -old boy drowned in a swimming lake in a hotel in Louis Peiris Mawatha, Kandy. Mohamed Mizzad, a boy, died.
+
+His 10 -year -old brother, who was drowned in a swimming lake to save the boy, has been admitted to the intensive care unit of the Kandy National Hospital.
+
+Kandy headquarters police are investigating the incident. (A)
+
+◼️
+
+[Data](articles/096fd84e.json)
+
+[Extended Data](ext_articles/096fd84e.ext.json)
+
+---
+
+### The President should resign immediately
 
 *2024-07-29 01:10:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-உடனடியாக-பதவி-விலக-வேண்டும்/175-341187) · `ta`
 
-அரசியலமைப்பில் உள்ள ஜனாதிபதியின் பொறுப்புகளை தற்போதைய ஜனாதிபதி நிறைவேற்றத் தவறுவாராயின் அவர் பதவி விலக வேண்டும் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Sajith Premadasa urges the President to resign if they misuse constitutional powers, highlighting issues with the appointment of the Inspector General of Police not being explicitly mentioned in the Constitution.
 
-மொனராகலை - புத்தல பகுதியில் நேற்று இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு கருத்து வெளியிட்ட போதே அவர் மேற்கண்டவாறு குறிப்பிட்டுள்ளார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பொலிஸ் மா அதிபரின் பதவி தொடர்பில் எழுந்துள்ள பிரச்சினை தொடர்பில் சபாநாயகரும் பிரதம நீதியரசரும் கலந்துரையாடியே தீர்வு காண வேண்டும் என ஜனாதிபதி கூறியுள்ளார்.
+Opposition leader Sajith Premadasa has said that if the current president fails to fulfill the responsibilities of the president in the constitution, he should resign.
 
-தாம் ஜனாதிபதி வேட்பாளராக கட்டுப்பணத்தைச் செலுத்தியுள்ளதன் காரணமாக பொலிஸ்  மா அதிபரை தம்மால் நியமிக்க முடியாதென ஜனாதிபதி கூறும் கருத்தை ஏற்க முடியாது. அவ்வாறு அரசியலமைப்பில் குறிப்பிடவில்லை.
+He was speaking at an event held in Moneragala - Budhala area yesterday.. As he further stated,
 
-அரசமைப்பில் ஜனாதிபதிக்கு அதிகாரம் வழங்கப்பட்டுள்ளது. அந்த அதிகாரங்களை அவர் துஷ்பிரயோகம் செய்வாராயின் ஜனாதிபதி உடனடியாக பதவி விலக வேண்டும் என்றார். (a)
+The President has said that the Speaker and the Chief Justice should address the issue on the issue of the Inspector General of Police.
+
+The president cannot accept the idea that he cannot appoint the Inspector General of Police because he has controlled the presidential candidate. Not mentioned in the Constitution.
+
+The president is empowered in the constitution. If he abuse those powers, the president should immediately resign. (A)
 
 ◼️
 
 [Data](articles/875a4d3c.json)
+
+[Extended Data](ext_articles/875a4d3c.ext.json)
 
 ---
 
@@ -956,6 +1098,32 @@ Your skill, dedicated and joint operation for your failure. The President has st
 
 ---
 
+### There is no President who clashes with the Supreme Court as Ranil
+
+*2024-07-28 20:01:46* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-තරම්-ශ්‍රේෂ්ඨාධිකරණය-සමග-ගැටුම්-ඇතිකරගත්-ජනපතිවරයෙක්-නෑ/11-411054) · `si`
+
+Ranil Wickremesinghe stands out in Sri Lanka's history for his frequent confrontations with the Supreme Court during his presidency, attempting to influence its decisions. His actions were unprecedented, marking him as a unique figure in the country's political landscape.
+
+🟩
+
+MP Mujibar Rahman said that he was not in history that had conflicts with the Supreme Court as the President as the President as the President.
+
+He was speaking at a media briefing held at the Colombo Opposition Office today (28).
+
+He further stated that he is also involved in the attempt to no longer appear.
+
+"A President who was confronted with the Supreme Court of Ranil Wickremesinghe has not been in our history. With the Supreme Court over his two years of this year, he was the most frequently talk to conquer their other judicial system. He always expressed constantly in connection with jurisdiction.
+
+His role illustrates that he was a president, who tried to influence the court. This election process is an attempt to upsett. He's gonna mess up or indirectly. "
+
+◼️
+
+[Data](articles/d655e873.json)
+
+[Extended Data](ext_articles/d655e873.ext.json)
+
+---
+
 ### President Ranil's Tantra brain will make any decision - Mujibur
 
 *2024-07-28 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189616) · `ta`
@@ -1071,6 +1239,26 @@ As per the court order, as the General Secretary of the Sri Lanka Freedom Party 
 [Data](articles/558166ae.json)
 
 [Extended Data](ext_articles/558166ae.ext.json)
+
+---
+
+### රාජ්‍ය ඖෂධ සංස්ථාව විකුණන්න යන බවට චෝදනාවක්
+
+*2024-07-28 19:39:57* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ඖෂධ-සංස්ථාව-විකුණන්න-යන-බවට-චෝදනාවක්/11-411052) · `si`
+
+වසර පනහකට වඩා වැඩි ඉතිහාසයක් ඇති රාජ්‍ය ඖෂධ සංස්ථාව විකුණා දැමීමට සැලසුම් කර තිබෙන බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සඳහන් කරයි.
+
+මෙරට ජනතාවට ගුණාත්මකභාවයෙන් ඉහළ ඖෂධ අඩු මිලට ලබාදීම සඳහා මෙම සංස්ථාව පිහිටුවා තිබෙන බවත් එතරම් වටිනාකමක් සහිත මෙම ආයතනය ඉන්දියාවට විකුණා දැමීම සඳහා කැබිනට් පත්‍රිකාවක් සකස් වෙමින් පවතින බව එම සමිතියේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා ප්‍රකාශ කළේය.
+
+මෙම කටයුතු වහාම නතර කරන ලෙසට තමන් සෞඛ්‍ය අමාත්‍යවරයාගෙන් ඉල්ලා සිටින බවත් මීට අමතරව හෙට (30දා) මේ පිළිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට පැමිණිලි කරන බවද පැවසීය.
+
+රාජ්‍ය ඖෂධ සංස්ථාව නිසා මෙරට ග්‍රාමීය ජනතාවට ඉතා අඩු මිලට ගුණාත්මකභාවයෙන් ඉහළ ඖෂධ ලබා ගැනීමට අවස්ථාව සැලසී තිබෙන නිසා මෙරට දුප්පත් ජනතාව වැඩි මිලට ඖෂධ අළෙවි කරන ඖෂධ අලෙවි සල්වලට යාම වෙනුවට ඔසු සල්වලින් ඖෂධ ලබා ගැනීමට කටයුතු කර තිබෙන බවද සඳහන් කළේය.
+
+රාජ්‍ය ඖෂධ සංස්ථාව විකුණා දැමීමෙන් මෙරට ග්‍රාමීය සෞඛ්‍ය පද්ධතියට බරපතළ හානියක් සිදුවිය හැකි බවද ඒ මහතා පෙන්වා දෙයි.
+
+...
+
+[Data](articles/188bd75f.json)
 
 ---
 
@@ -2021,209 +2209,5 @@ Commenting on his hiking, he said that the walk was underway in the theme of 'We
 [Data](articles/56da9e22.json)
 
 [Extended Data](ext_articles/56da9e22.ext.json)
-
----
-
-### India to benefit from the coin
-
-*2024-07-28 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199300) · `si`
-
-India, led by Hermanpioth Kororite, won the toss in the Women's Cricket Tournament final against Sri Lanka, set to take place at the Dambulla International Cricket Stadium.
-
-🟩
-
-The final will be held at the Dambulla International Cricket Stadium in the Women's Cricket Tournament.
-
-It is the Sri Lankan women's cricket team and Indian women's cricket team.
-
-Indian leader Hermanpioth Kororite was able to win the toss of its coin.
-
-◼️
-
-[Data](articles/de2dcb38.json)
-
-[Extended Data](ext_articles/de2dcb38.ext.json)
-
----
-
-### Over 32,000 Dengue cases reported in 2024
-
-*2024-07-28 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100835/-over-32000-dengue-cases-reported-in-2024) · `en`
-
-The National Dengue Control Unit (NDCU) has reported 13 dengue-related deaths and 32,183 dengue cases in the period elapsed in 2024.
-
-The Western Province has been the hardest hit, with 12,786 cases reported, while the Colombo District leads with 7,582 cases, followed by the Gampaha District with 3,452 cases.
-
-In the Northern Province, a total of 4,589 dengue cases have been reported, with the majority (4,020 cases) coming from the Jaffna District.
-
-Sabaragamuwa Province has also seen a significant number of dengue cases, totaling 3,329 this year, according to the NDCU
-
-Thus, the NDCU urges the public to take preventive measures to curb the spread of dengue.
-
-◼️
-
-[Data](articles/523a99ce.json)
-
-[Extended Data](ext_articles/523a99ce.ext.json)
-
----
-
-### Criticism to the inauguration of the Olympic
-
-*2024-07-28 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199299) · `si`
-
-The Paris Olympics faced criticism for its opening ceremony, accused of insulting Christianity through the portrayal of Leonardo da Vinci's "Last Supper" and the crucifixion scene. The event, featuring a diverse cast including a woman replacing Leonardo da Vinci and representations of the Samaritan community, sparked controversy. Additionally, the fashion show and the depiction of the guillotine during the French Revolution were points of contention. The Paris Olympic Committee later issued an apology regarding the South Korean Olympic team's participation in the ceremony.
-
-🟩
-
-Some of the elements of the Olympic Games have been severely criticized in many parties.
-
-It accuses the jogggard celebration that insults Christianity.
-
-The Olympic Games, the world's Mauli Festival, began at Paris in Paris on the 26th.
-
-A number of athletes from 10,500 athletes representing 206 countries and zones have participated in this year.
-
-The inauguration of the Paris Olympic Festival was centered on Paris Caps.
-
-The inauguration of this year, expenditure of the money as usual, joins history as the first Olympic Opening Ceremony in the open home.
-
-However, there are accused of this vivid event.
-
-The foreign media reported that Lyonardo Davinchi's final banquet was the most significant aspect of the artwork.
-
-Foreign media has pointed out that in this feature has been replaced by a woman and the other people including the child and others representing the Samariya community.
-
-Many have been thinking that it has been deliberately insulting to Christianity.
-
-...
-
-[Data](articles/ae26d40d.json)
-
-[Extended Data](ext_articles/ae26d40d.ext.json)
-
----
-
-### CAA to enforce controlled bread price from next week
-
-*2024-07-28 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100834/caa-to-enforce-controlled-bread-price-from-next-week) · `en`
-
-The Consumer Affairs Authority (CAA) has announced that a controlled price will be imposed for bread starting next week, if the vendors fail to sell a 450-gram loaf of bread at a fixed price of Rs 130.
-
-Director of the Raids and Special Investigation Department of the CAA Sanjay Irasinghe stated that non-compliance with the fixed price for bread could result in fines ranging from Rs. 100,000 for small shops and Rs. 500,000 to Rs. 5 million for larger companies or bakeries.
-
-The consumers frequently complain about the lack of fixed prices and inconsistent weights of bread. In response, the Consumer Affairs Authority has been conducting raids time to time in order to address these issues.
-
-On February 02, the CAA issued a gazette notification mandating that the minimum weight of a loaf of bread should be 450 grams, and a half loaf should weigh at least 225 grams.
-
-...
-
-[Data](articles/f752dd57.json)
-
-[Extended Data](ext_articles/f752dd57.ext.json)
-
----
-
-### Sri Lanka's first Family Health Services Officer Opens in Kalutara
-
-*2024-07-28 13:53:54* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ප්‍රථම-පවුල්-සෞඛ්‍ය-සේවා-නිළධාරිනී-පුහුණු-පාසල-කලුතර-දී-විවෘත-වේ/11-411044) · `si`
-
-Sri Lanka's first Family Health Services Officer Training School, inaugurated by Dr. Palitha Maheepala, aims to enhance healthcare by training a thousand officers annually across 11 centers. Funded by the Asian Development Bank, it includes a remote education unit equipped with advanced communication technology. This initiative, part of the Ministry of Health's broader strategy, seeks to bolster both human and physical resources in the country's healthcare sector.
-
-🟩
-
-The first Family Health Service Officer Training School of Sri Lanka was declared open by Dr. Palitha Maheepala under the patronage of Dr. Palitha Maheepala, Secretary to the Ministry of Health yesterday.. The Secretary opened the remote education unit.
-
-The new training school was established in parallel to the Minister of Health and Industry to develop human and physical resources to develop human and physical resources to develop human and physical resources in Sri Lanka.
-
-Family Health Services Officer is the main training school of the National Health Institute, Colombo, Kadugannawa, Kurunegala, Batticaloa, Batticaloa, Diyatalawa fundersCode of training at the Castle Street Women's Hospital, Colombo, has been launched under the supervision of the Government of the Hospital, Kahawatta Hospital, Mahamraged Hospital, Mahamrapitiya Hospital.
-
-...
-
-[Data](articles/2e0b2ff4.json)
-
-[Extended Data](ext_articles/2e0b2ff4.ext.json)
-
----
-
-### There are 1250 schools
-
-*2024-07-28 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199298) · `si`
-
-Dr. Susil Premaja announced plans to develop 1,250 schools on the island, funded by a $20 million grant from China. The initiative includes a new educational procedure for grades 1-6-10, set to launch next year. He emphasized the importance of continuous learning due to rapid changes in knowledge, hinting that diploma holders may face challenges post-2028.
-
-🟩
-
-Minister of Education Dr. Susil Premaja also said that 1,250 of the island schools will be developed to be developed from the Ministry of Education and to be developed from the Ministry of Education.
-
-The Minister said that the Chinese government receives $ 20 million a grant from the government.
-
-He was speaking to all classroom souil classrooms from grade 1 from Sirimavo Bandaranaike Girls' College, Colombo.
-
-The Minister further stated that the pilot project has now reached the final stage of the new educational procedure to be implemented from next year to Grades 1-6-10.It is to be handed over to print within two.
-
-If the decision to train the trainers, as well as teachers, the children who are not going to be challenged in ten years.
-
-Mr. Susil Premajayath said that all science was added to each university.
-
-According to the Minister said that after the year 2028, the Diploma holders will not be recruited in the future in the future.
-
-...
-
-[Data](articles/3835dcc0.json)
-
-[Extended Data](ext_articles/3835dcc0.ext.json)
-
----
-
-### A millionaire engineer in the United States is in Sri Lanka
-
-*2024-07-28 13:47:52* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකාවේ-කෝටිපති-ඉංජිනේරුවෙක්-ලංකාවේදි-පැවැදි-දිවියට/10-411043) · `si`
-
-Johannes Luados, a millionaire engineer from California, visited Sri Lanka, where he studied under Buddhist monks like Saravara Thera and Somissara Thera. Impressed by his dedication to Buddhism, the monks recognized him for his contributions to the religion.
-
-🟩
-
-California's California's Kanicipal Engineer Johannes Luados, Mr. Johannes Luados, Karandeniya, Karandeniya, was named by California. It was a student of Somissara Thera in Galagoda.
-
-The California, California, said that he had to see Buddhism about Buddhism about Buddhism about Buddhism.
-
-Saravara Thera said that the happiness he had not had to be exposed to a professional engineer and has been successive as a businessman.The Thera said that He was simply undersive by the deeper Buddhism.
-
-He said that the first monk was the first monastery in a foreign country and was the most secular pleasure in the world.
-
-Sarissara Thero added that the newly added California, who completely added a refuge in the Sasana, he added that the refuge was inevitably named him.
-
-◼️
-
-[Data](articles/ce93e586.json)
-
-[Extended Data](ext_articles/ce93e586.ext.json)
-
----
-
-### T.M.. Hatton was paralyzed by the struggle
-
-*2024-07-28 13:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/த-மு-கூ-போராட்டத்தால்-முடங்கியது-ஹட்டன்/76-341153) · `ta`
-
-The Tamil Progressive Alliance led a protest in Hatton, demanding plantation workers be paid Rs 1700, emphasizing land, salary, and housing rights. Participants, including former provincial members and activists, wore black in solidarity. The event saw a strong police presence, highlighting the significant unrest in the area.
-
-🟩
-
-The Tamil Progressive Alliance staged a protest in Hatton on Sunday (28) to pressurize the plantation companies and the government to pay Rs 1700 to plantation workers.
-
-The protest was organized by the Tamil Progressive Alliance, Palani Digambaram, Radhakrishnan, M. Udayakumar, M. Velukumar, former provincial members, local government members, party organizers, activists, workers and the general public.
-
-Land rights, salary rights and housing rights for the people of the hill plantation were emphasized and the plantation workers have expressed fierce opposition to the return of the gazette notification issued regarding the salary of the plantation workers.
-
-Participants in the fight wore black clothes and supported the demonstration in some shops and three wheelers in Hatton.
-
-The rally reached the bell tower through the Hatton main city, launching a protest from the Hatton city of Budsiti.
-
-...
-
-[Data](articles/e121929a.json)
-
-[Extended Data](ext_articles/e121929a.ext.json)
 
 ---

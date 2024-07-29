@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 00:21:09**
+As of **2024-07-30 00:35:48**
 
 ## Newspaper Stats
 
-*Scraped **37,941** Articles*
+*Scraped **37,942** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 330
-colombotelegraphcom | 361
+colombotelegraphcom | 362
 newsfirstlk | 363
 bbccomsinhala | 365
 islandlk | 2,170
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,941 (100.0%) of 37,941 articles have been extended.
+37,941 (100.0%) of 37,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -703,6 +703,20 @@ Accordingly, the current President of the PA will not support the current Presid
 [Data](articles/a8ddd02d.json)
 
 [Extended Data](ext_articles/a8ddd02d.ext.json)
+
+---
+
+### Ranil Beats Trump On Hypocrisy & Crookedness
+
+*2024-07-29 18:15:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-beats-trump-on-hypocrisy-crookedness/) · `en`
+
+If ever Sri Lanka has produced the most fake democrat, it has to be our back-door President Ranil Wickramesinghe. While he altered our constitution and laws by 19th Amendment, claiming to strengthen what little left of our apparent democracy, he is denying the most fundamental component of any democracy; the right to vote! At least Trump did not pretend to be a great Democrat! But RW did! RW made SL one up over America!
+
+He denied the local elections over a year ago bogusly claiming lack of funds all the while spending millions of borrowed monies on a non existing national pride on the Independence Day celebrations. Further he also got the bunch of Rajapaksa crooks and hooligans in the parliament to approve extra Rs. 200 million over and above the budget on his own foreign travel. Note that this is all borrowed money we don’t have !
+
+...
+
+[Data](articles/e88edd71.json)
 
 ---
 
@@ -2289,25 +2303,5 @@ A spokesman for the party said that strategies to face the election will also be
 [Data](articles/5b1130fd.json)
 
 [Extended Data](ext_articles/5b1130fd.ext.json)
-
----
-
-### Vijayadasa Rajapaksa resigns
-
-*2024-07-29 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/189674) · `ta`
-
-Vijayadasa Rajapaksa resigned from his ministry but will run in the presidential election for the SLFP.
-
-🟩
-
-He officially announced that he would resign from the ministry at a media briefing held on Monday (29).
-
-Meanwhile, Vijayadasa Rajapakse will contest the upcoming presidential election on behalf of the Sri Lanka Freedom Party (SLFP).
-
-◼️
-
-[Data](articles/0fadaae4.json)
-
-[Extended Data](ext_articles/0fadaae4.ext.json)
 
 ---

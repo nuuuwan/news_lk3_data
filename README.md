@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 16:08:35**
+As of **2024-07-29 16:20:39**
 
 ## Newspaper Stats
 
-*Scraped **37,876** Articles*
+*Scraped **37,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,94 +15,158 @@ bbccomsinhala | 365
 islandlk | 2,170
 economynextcom | 2,267
 dailyftlk | 2,416
-adalk | 3,454
+adalk | 3,455
 adaderanalk | 4,385
-tamilmirrorlk | 4,688
+tamilmirrorlk | 4,689
 dailymirrorlk | 4,733
 virakesarilk | 5,976
-adaderanasinhalalk | 6,369
+adaderanasinhalalk | 6,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,870 (100.0%) of 37,876 articles have been extended.
+37,876 (100.0%) of 37,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-29 (Monday)
 
-### අවිස්සාවේල්ල පුවක් පිටියේ ලොරියක් පොලීසියේ දෙදෙනෙක් යට කරගෙන ප්‍රපාතයකට පෙරලෙයි
+### நானும் தயார்
+
+*2024-07-29 15:57:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானும்-தயார்/175-341226) · `ta`
+
+ஜனாதிபதி தேர்தலில் போட்டியிட தயார் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் தம்மிக்க பெரேரா தெரிவித்துள்ளார்.
+
+கொழும்பில் நடைபெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனு இளைஞர் மாநாட்டில் கலந்துகொண்டு உரையாற்றிய அவர், கட்சி வாய்ப்பு வழங்கினால் தயார் என்றார்.
+
+◼️
+
+[Data](articles/93718b5f.json)
+
+---
+
+### උතුරු කොරියාවේ හදිසි තත්ත්වයක්
+
+*2024-07-29 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199336) · `si`
+
+අධික වර්ෂාවත් සමග ඇතිවූ ගංවතුර තත්ත්වය හේතුවෙන් උතුරු කොරියාවේ හදිසි තත්ත්වයක් ප්‍රකාශයට පත්කර තිබේ.
+
+ආපදා තත්ත්වයෙන් පුද්ගලයින් දහස් ගණනක් පීඩා වීම සැලකිල්ලට ගනිමින් උතුරු කොරියානු නායක කිං ජොන් උන් විසින් මෙම පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ජල ගැලීම්වලට හසුවූ මාර්ගයක උතුරු කොරියානු නායකයාගේ රථ පෙළක් ගමන් කරන ආකාරය දැක්වෙන ඡායාරූපයක් ද විදෙස් මාධ්‍ය පළකර තිබුණි.
+
+සිනුජු, උයිජු යන ප්‍රදේශවලට ජල ගැලීම්වලින් වැඩිම බලපෑම් සිදුව ඇති අතර පීඩාවට පත්ව සිටි පුද්ගලයින් 4,000කට වැඩි පිරිසක් ගුවන් යානා මගින් මුදාගැනීමට බලධාරීන් කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/107b00f5.json)
+
+---
+
+### Avissawella's larler floods to be flooded in a lorry
 
 *2024-07-29 15:45:10* · [`adalk`](https://www.ada.lk/breaking_news/අවිස්සාවේල්ල-පුවක්-පිටියේ-ලොරියක්-පොලීසියේ-දෙදෙනෙක්-යට-කරගෙන-ප්‍රපාතයකට-පෙරලෙයි/11-411070) · `si`
 
-අවිස්සාවේල්ල  පුවක් පිටිය තුම්මෝදර ඉලුක් පිටියේ ප්‍රදේශයේදී සිමෙන්ති පැටවූ ලොරියක් සහ පොලිස් නිලධාරීන් දෙදෙනෙකු ගමන් ගත් යතුරු පැදියක් එකිනෙක ගැටීමෙන් පොලිස් සැරයන්වරයෙකු  එතනම මරුමුවට පත් වී කොස්තාපල්වරයකු බරපතල තුවාල ලබා ඇතැයි හංවැල්ල පොලිසිය කියයි.
+In Avissawella, a fatal accident involving a lorry, a motorbike, and two policemen occurred. The deceased, identified as a police sergeant from the Homagama Police, was returning to work when the incident happened. Another policeman was seriously injured. Investigations continue.
 
-අනතුරින් මියගොස් ඇත්තේ පොලිස් විශේෂ කාර්යාංශයේ හෝමාගම පොලිසියට අනුයුක්ත හංවැල්ල උප ඒකකයේ පොලිස් සැරයන් 39086 ධර්මසිරි නැමැති නිලධාරියෙකි.
+🟩
 
-මියගිය සැරයන්වරයා කොස්තාපල්වරයා සමඟ රාජකාරී කටයුත්තක් සඳහා යමින් සිටියදී මාර්ගයේ අපරික්ෂාකාරී ලෙස සිමෙන්ති ලොරිය ඉදිරියට එනු දැක යතුරුපැදිය මාර්ගයේ අයිනට කර නතර කර ඇති අතර ඒ සමගම ලොරිය යතුරු පැදියේ ගැටී එයත් සමගම අසල බෑවුමෙන් ඇළ මාර්ගයෙන් පහළට වැටී ඇතැයි පොලිසිය කියයි.
+A Avissawella footage pimpliya Piyagamuwa Piyawanara Lorry and two policemen traveled by two policemen, Hanwella police say that a constable has been seriously injured.
 
-අනතුර ස්ථානයේම සැරයන් වරයා මියගොස් ඇති අතර කොස්තාපල්වරයාගේ පාද දෙකට බරපතළ තුවාල සිදුවී තිබී ඇතැයි පොලිසිය සඳහන් කරයි.ඔහු ප්‍රතිකාර සඳහා අවිස්සාවේල්ල රෝහල වෙත ඇතුලත් කර ඇත
+The deceased has been identified as Dharmasiri Police Sergeant at Hanwella Sub Unit of the Homagama Police at Homagama Police.
 
-අනතුරින් සිමෙන්ති ලොරියට සහ යතුරු පැදියට බරපතළ අලාභ සිදුවී ඇත හංවැල්ල පොලිසිය වැඩිදුර  පරීක්ෂණ පවත්වයි.
+The motorcycle was to go back to the motorcycle to see the deceased sergeant as was going to work with the constable.
+
+Sergeant has died in the accident and has been admitted to Avissawella hospital for treatment, the two feet of the constable
+
+Hanwella Police are conducting further investigations into the accident and motorcycle.
 
 ◼️
 
 [Data](articles/4dcf665e.json)
 
+[Extended Data](ext_articles/4dcf665e.ext.json)
+
 ---
 
-### ‘அரகலய’வில் இருந்து ஜனாதிபதி வேட்பாளர்
+### Presidential candidate from Arakalaya
 
 *2024-07-29 15:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-வில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-341222) · `ta`
 
-அரகலய போராட்டக்காரர்கள் இணைந்து உருவாக்கியுள்ள மக்கள் பேரவைக்கான இயக்கத்தின்  ஜனாதிபதி வேட்பாளராக சட்டத்தரணி நுவான் போபகே நியமிக்கப்படுவார்
+Nuwan Bopage, a lawyer and presidential candidate from Arakalaya, spoke at a media briefing in Colombo. He highlighted his involvement in significant public struggles, notably the Galle Face Struggle of 2022, after graduating from the University of Colombo and studying at TS Senanayake College.
 
-கொழும்பு, பொது நூலகத்தில், திங்கட்கிழமை (29) நடத்திய விஷேட ஊடகவியலாளர் சந்திப்பொன்றில் கலந்துகொண்டு கருத்துரைத்த போதே,
+🟩
 
-கொழும்பு டி.எஸ்.சேனநாயக்க கல்லூரியில் கல்வி பயின்ற நுவன் போபகே கொழும்பு பல்கலைக்கழகத்தில் சட்டப் பட்டம் பெற்றார்.
+Attorney -at -Law
 
-2022 காலி முகத்திடல் போராட்டம் உட்பட பல மக்கள் போராட்டங்களை முன்னெடுத்தவர்.மக்கள் போராட்டத்தின் செயற்குழு உறுப்பினராகவும் உள்ளார்.
+Speaking at a special media briefing held at the Public Library, Colombo on Monday (29),
+
+Nuwan Bopage, who studied at TS Senanayake College, Colombo, graduated from the University of Colombo.
+
+He has launched many people's struggles, including the Galle Face Struggle 2022.
 
 ◼️
 
 [Data](articles/b56f23c5.json)
 
+[Extended Data](ext_articles/b56f23c5.ext.json)
+
 ---
 
-### பொருளாதார நெருக்கடிக்கு காரணமானவர்கள் தேர்தல் மேடைகளில் தோன்றி மீண்டும் மக்கள் ஆணையை கோருகின்றனர்-அரகலய போராட்ட இயக்கத்தின் ஜனாதிபதி வேட்பாளர் நுவான் போபகே
+### Those who are responsible for the economic crisis appear on the election stage and demand the people's decree again-the presidential candidate of the Arakalaya Movement Nuwan Bopake
 
 *2024-07-29 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189703) · `ta`
 
-மக்கள் எதிர்கொள்ளும் பொருளாதார நெருக்கடிகளிற்கு காரணமானவர்கள்  மீண்டும் மேடைகளில் தோன்றி மக்களின் ஆணையை கோருகின்றனர் என அரகலய போராட்டக்காரர்கள் இணைந்து உருவாக்கியுள்ள மக்கள் போராட்ட முன்னணியின் ஜனாதிபதி வேட்பாளர் சட்டத்தரணி நுவான் போபகே தெரிவித்துள்ளார்
+Nuwan Bopage, the presidential candidate of the People's Movement, criticizes politicians responsible for the economic crisis for seeking public support again. He highlights the severe impact of poverty affecting over 30% of the population and calls for transparency and accountability from leaders, including Ranil Wickremesinghe, who he accuses of contributing to the crisis. Bopage emphasizes the need for policies promoting equality and opposes social prejudice, urging voters to recognize the true advocates for the people.
 
-மக்கள் போராட்ட முன்னணியின் செய்தியாளர் மாநாட்டில் கருத்து தெரிவித்துள்ள அவர் மேலும் குறிப்பிட்டுள்ளதாவது
+🟩
 
-கடந்த இரண்டு மூன்று வருடங்களாக மக்கள் வறுமையின் பிடியில் சிக்குண்டுள்ளனர், நாட்டின் சனத்தொகையில் 30 வீதத்திற்கும்  அதிகமான மக்கள் வறுமையால் பாதிக்கப்பட்டுள்ளனர்.
+Attorney Nuwan Bopage, the presidential candidate of the People's Movement, has created the Arakalai protesters, that those responsible for the economic crises faced by the people are again appearing on the platform and demanding the people's decree
 
-மந்தபோசாக்கு மரணவிகிதம் பல மடங்காக அதிகரிக்கின்றது - மக்கள் நாளாந்த வாழ்க்கையை கொண்டு செல்வதில்பெரும் நெருக்கடியை எதிர்கொண்டுள்ளனர்.
+Speaking at a press conference of the People's Struggle Front, he added
 
-இந்த நெருக்கடிக்கு காரணமானவர்கள் பொறுப்பாளிகள் என குற்றம்சாட்டப்பட்டவர்கள் மீண்டும் மக்கள் முன்னிலையில் தோன்றி ஜனாதிபதி தேர்தலில் மக்கள் ஆணையை கோருகின்றனர்.
+Over the past two to three years, people have been in the grip of poverty, and more than 30 percent of the country's population has been affected by poverty.
+
+Mantaposaka's death ravage increases many times - people face a massive crisis in bringing their day -to -day life.
+
+Those accused of responsible for the crisis are re -appearing in the presence of the people and demanded a people's decree in the presidential election.
+
+I urge all of you to see these faces behind me.
+
+They always fought for a policy of equality. They fought against social prejudice.
+
+Here are the students who led the students' protests while the students engaged in protests.
 
 ...
 
 [Data](articles/54c0146a.json)
 
+[Extended Data](ext_articles/54c0146a.ext.json)
+
 ---
 
-### அடக்குமுறைகளுக்கு பரிகாரமின்றியே  தமிழ் மக்கள் நாட்டில் வாழ்கின்றனர்  - கறுப்பு ஜூலை நினைவேந்தலில் நிரோஸ்
+### Tamil people live in the country without remedy for repression - Niros in Black July
 
 *2024-07-29 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/189695) · `ta`
 
-கறுப்பு ஜூலை தமிழ் மக்கள் மீது இன ரீதியிலான திட்டமிடப்பட்ட அரச பயங்கரவாதம் பிரயோகிக்கப்பட்ட ஓர் வன்முறையாகும். இவ்வாறான ஏற்றுக்கொள்ள முடியாத துரதிஸ்ட நிலைமைகள் நாட்டின் வழமையாக இருந்துள்ள போதும் அவற்றுக்கு அரசு பொறுப்புக்கூறல் மற்றும் மீள நிகழாமை பொறிமுறையை உறுதிப்படுத்தாமையினால்  தமிழ் மக்கள் ஆகிய நாம் உள்நாட்டில் மனக்கசப்புடனும் அதிருப்தியுடனும் அடக்குமுறையை சகித்தே வாழ்கின்றோம். இவ்வாறு ரொலோவின் தலைமைக்குழு உறுப்பினரும் முன்னாள் வலிகாமம் கிழக்குப் பிரதேச சபை உறுப்பினருமான தியாகராஜா நிரோஸ் தெரிவித்தார்.
+Tamil people face ongoing repression in Sri Lanka, highlighted by the racially motivated Black July events. Despite international attention, there's no effective remedy from the government. The event saw mass killings, displacement, and destruction, with state involvement evident. Tamil nationalism suffers losses, and the community continues to seek justice amidst systemic issues.
 
-தந்தை செல்வா கேட்போர் கூடத்தில் ஜனநாயகத்தமிழ்த் தேசியக் கூட்டமைப்பின் ஏற்பாட்டில் சனிக்கிழமை நடைபெற்ற கறுப்பு யூலை நினைவேந்தலில்  உரையாற்றும் போதே இவ்வாறு தெரிவித்தார்.
+🟩
 
-இலங்கையில் பல இனக் கலவரங்கள் வரலாற்றில் பதிவு செய்யப்பட்டுள்ள போதும்  கறுப்பு யூலை இனக்கலவரம் சர்வதேச கவனத்தினை ஈர்த்ததாகக் காணப்பட்டது.
+Black July is a racially planned state terrorism used on the Tamil people. Even though these unacceptable unacceptable conditions are the usual country, the Tamil people are living in a state of distraction and dissatisfaction with the government's responsibility and renewal mechanism.. Thiagarajah Niros, a member of Rolo's leadership committee and former Valikamam Eastern Pradeshiya Sabha member.
+
+He was speaking at the Black Yule Memorial on Saturday organized by the Democratic Tamil National Alliance (TNA) at the Father Selva auditorium.
+
+While many ethnic riots in Sri Lanka have been recorded in history, the black Yule racist has attracted international attention.
+
+It took place in state planning. We have made leaders including Thangathurai, commanders Kuttimani and Jagan in the Welikada Prison, which was found in the state of the state.
 
 ...
 
 [Data](articles/cf333902.json)
+
+[Extended Data](ext_articles/cf333902.ext.json)
 
 ---
 
@@ -170,15 +234,21 @@ Seneviratne, who finished the first 16 in qualifying competitions, would be sele
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-07-29 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189699) · `ta`
 
-இன்று திங்கட்கிழமை (ஜூலை 29) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 298.4850 ரூபாவாகவும், விற்பனை விலை 307.7765 ரூபாவாகவும் பதிவாகியுள்ளது.
+The US dollar rose from 298.4850 to 307.7765 rupees according to the Central Bank's latest update on July 29.
+
+🟩
+
+The US dollar purchasing price was 298.4850 rupees and the sales price were Rs 307.7765 based on a currency exchange rate released by the Central Bank on Monday (July 29).
 
 ◼️
 
 [Data](articles/b9bf1ff4.json)
+
+[Extended Data](ext_articles/b9bf1ff4.ext.json)
 
 ---
 
@@ -764,19 +834,25 @@ I urge the President, Prime Minister, Speaker and Cabinet to implement the Supre
 
 ---
 
-### මුස්ලිම් කොංග්‍රසයේ සහාය සජිත්ට
+### SLMC support to Sajith
 
 *2024-07-29 12:10:28* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-කොංග්‍රසයේ-සහාය-සජිත්ට/11-411067) · `si`
 
-මෙවර ජනාධිපතිවරණයේදී ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ සහාය විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට හිමිවන බව එම කොංග්‍රසයේ  ජාතික සංවිධායක ත්‍රිකුණාමලය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එම්.එස්.තවුපික් මහතා පැවසීය .
+The Sri Lanka Muslim Congress (SLMC) supports Sajith Premadasa, the United National Party's (UNP) National Organizer, in the upcoming Presidential Election. The National Organizer, MS Thaupek, expresses confidence in Premadasa's leadership and opposition stance.
 
-දැනටමත් ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය සමගි ජනබල වේගය සමග කටයුතු කරන අතර තම පක්‍ෂයේ උත්තරීතර මණ්ඩලය සහාය දෙන්නේ කාටදැයි අවසන් තීරණයකට එළඹ නැතත් උත්තර  මණ්ඩලයේ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමට කටයුතු කරන බවට විශ්වාසයක් තමන් තල පවතින බව ජාතික සංවිධායකවරයා කීහ.
+🟩
 
-පක්ෂ නායක පාර්ලිමේන්තු මන්ත්‍රී රාවුප් හකීම් මහතා ඇතුළු පිරිස විපක්ෂ නායක සජිත් ප්‍රේමදාස  මහතා සමඟ දැනටමත් එක්ව කටයුතු කරණ නිසා උත්තරීතර මණ්ඩලයේ සහයද සජිත් ප්‍රේමදාස මහතාට ලැබෙන බව ජාතික සංවිධායක එම්.එස්.තවුපික් මහතා විශ්වාසය පල කලේය.
+UNP National Organizer, UNP National Organizer of the Sri Lanka Muslim Congress is the support of the SLMC support from the Presidential Election.
+
+The National Organizer said that he is believed to support the Opposition Leader of the Opposition to the Opposition Leader of the Opposition to support the Opposition Leader of the UNP.
+
+National organizer MS Thaupek has confident that Sajith Premadasa has been supporting Mr. Sajith Premadasa and the support of the Opposition Leader Sajith Premadasa.
 
 ◼️
 
 [Data](articles/9a544087.json)
+
+[Extended Data](ext_articles/9a544087.ext.json)
 
 ---
 
@@ -871,6 +947,24 @@ Although the President's Media Division tried to consider the reality of the let
 [Data](articles/ce176914.json)
 
 [Extended Data](ext_articles/ce176914.ext.json)
+
+---
+
+### මහින්ද වැරදි තීන්දුවක් නොගනීවි
+
+*2024-07-29 12:01:09* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-වැරදි-තීන්දුවක්-නොගනීවි/11-411066) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මෙතෙක් කල් වැරදි තීන්දුවක් අරගෙන නැති බවත් ජනාධිපති අපේක්ෂකයෙකු තෝරාපත් කර ගැනීමේ අවස්ථාවේදී ද ඔහු එවැනි වැරදි තීන්දුවක් නොගනු ඇති බව තමන් විශ්වාස පළ කරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ  මහතා 29 දින පෙරවරුවේ පැවසීය.
+
+ගල්කිරියාගම ප්‍රදේශයේ රාජ්‍ය බැංකුවක් විවෘත කිරීම සඳහා පැමිණි අවස්ථාවේ දී මාධ්‍යවේදීන්  සේමසිංහ මහතාගේන් ජනාධිපති මැතිවරණය පිළිබඳව විමසීමේ දී ඔහු මේ බව පැවසීය.
+
+දැඩි අර්බුදයක පැවති අවස්ථාවේදී රනිල් වික්‍රමසිංහ මහතාට රට භාරදී  රට  සන්සුන් කිරීමට හිටපු ජනාදීධිපතිවරයාට   හැකි වූ බවත් ඒ අනුව ඉදිරි මූල්‍ය කළමනාකරණය සඳහා ජනාධිපතිවරයා ලෙස රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කළ යුතු බවදය අමාත්‍යවරයා සඳහන් කළේය.
+
+වැඩිදුරටත් අදහස් දැක්වූයේ සේමසිංහ මහතා කියා සිටියේ මෙම ජනාධි පතිවරණය තීන්දු කෙරෙන්නේ 2022 වසර වල තිබුණු තත්ත්වයට ගමන් කරනවා ද එසේත් නොමැති නම් මෙම නව පාලනය යටතේ රට ස්ථාවරව පවත්වාගෙන යනවාද යන්න පමණක් බව හෙතෙම සඳහන් කළේය
+
+◼️
+
+[Data](articles/4a6f9208.json)
 
 ---
 
@@ -2167,69 +2261,5 @@ The global energy storage market is on an impressive growth trajectory, with for
 [Data](articles/59d7345d.json)
 
 [Extended Data](ext_articles/59d7345d.ext.json)
-
----
-
-### UK’s Catalina retains MTI for hyper-personalised retailing
-
-*2024-07-29 02:18:30* · [`dailyftlk`](https://www.ft.lk/business/UK-s-Catalina-retains-MTI-for-hyper-personalised-retailing/34-764846) · `en`
-
-Catalina, global pioneers of shopper activation for over 40 years, has embarked on a comprehensive campaign lifecycle management (CLM) process review assignment with MTI Consulting in the UK. The independent review by MTI will enable Catalina Marketing UK to better serve the campaign needs of their retail customers.
-
-The scope of the assignment involves detailed campaign lifecycle-related process documentation review, one-on-one sessions, supplemented with domain research and subject matter expertise on grocery retail. Based on these detailed insights and inputs, the MTI team is developing clear and actionable recommendations for Catalina UK, including campaign management process improvements which will be evaluated internally and implemented in line with business goals.
-
-...
-
-[Data](articles/bec08949.json)
-
-[Extended Data](ext_articles/bec08949.ext.json)
-
----
-
-### If any candidate does not get 50 percent of the votes, how can the president elect?-Commissioner General
-
-*2024-07-29 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189647) · `ta`
-
-In elections where no candidate surpasses 50% of votes, the law dictates a process to determine the president-elect. The Elections Commissioner assures clarity in this procedure, emphasizing its implementation to announce the elected president.
-
-🟩
-
-Any candidate contesting the upcoming presidential election will not get more than 50 percent votes. If no one receives more than 50 percent votes. There is no problem in it. Elections Commissioner Samansree Ratnayake said that people need not be confused with the matter.
-
-The arrangements for this are clear in the election law. The Commissioner General said that we will implement it and announce who was elected as the President.
-
-◼️
-
-[Data](articles/dade0f9d.json)
-
-[Extended Data](ext_articles/dade0f9d.ext.json)
-
----
-
-### The President and the Prime Minister criticize the High Court ruling is an wrong example- GL Peiris
-
-*2024-07-29 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189646) · `ta`
-
-Professor GL Peiris criticized the High Court's interim ban on the police president, stating it won't affect the presidential election. The Supreme Court issued an injunction due to suspicions about the appointment process. The President argued the Police Chancellor position isn't crucial for the election, suggesting actions to create conflict between the parliament and judiciary despite Supreme Court orders.
-
-🟩
-
-Opposition parliamentarian Professor GL Peiris said that the court's interim ban on the police president will not be affected by the presidential election.
-
-Vaturaja Vikramaditya Kota Sri Kalyani Samaki Damma Maha Sangam Manayakar Kodapidiye Rahula Thera on Sunday (29) and discussed the political situation after discussing with the media.
-
-From the very beginning, the Supreme Court has issued an interim injunction because of the suspicion that the Inspector General of Police has been appointed contrary to the politics.
-
-The Supreme Court's verdict cannot be questioned from parliamentary privileges.
-
-The President says that the post of Police Chancellor is not essential to carry out the presidential election.
-
-The president is acting in order to create conflicts between parliament and the judiciary, leaving the instructions of the Supreme Court.
-
-◼️
-
-[Data](articles/0ff7b6f4.json)
-
-[Extended Data](ext_articles/0ff7b6f4.ext.json)
 
 ---

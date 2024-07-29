@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-29 09:36:06**
+As of **2024-07-29 09:55:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,795 (100.0%) of 37,798 articles have been extended.
+37,798 (100.0%) of 37,798 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Naval and fishing communities are also requested to be attentive to future forec
 
 [Data](articles/28a33fb9.json)
 
+[Extended Data](ext_articles/28a33fb9.ext.json)
+
 ---
 
 ### Postal Dept submits cost estimate to Election Commission
@@ -68,21 +70,29 @@ Ranasinghe noted that this estimate is a forecast and that the final amount requ
 
 [Data](articles/d20e3806.json)
 
+[Extended Data](ext_articles/d20e3806.ext.json)
+
 ---
 
-### வாகன இறக்குமதி குறித்து மகிழ்ச்சியான அறிவிப்பு
+### Happy Notice of Vehicle Import
 
 *2024-07-29 09:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-341195) · `ta`
 
-வாகன இறக்குமதிக்கான அனுமதி எதிர்வரும் ஓகஸ்ட் மாதத்தில் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர்  ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+Finance Minister Shehan Semasinghe announced that vehicle import permits will be granted starting in August, allowing state ministers to import vehicles for trade and transport early on. The private sector's vehicle imports are expected in Q4 2025.
 
-இதன்படி, வர்த்தகம் மற்றும் போக்குவரத்துக்கு தேவையான வாகனங்களை இறக்குமதி செய்வதற்கு ஆரம்ப கட்டத்தில் அனுமதி வழங்கப்படும் என இராஜாங்க அமைச்சர் தெரிவித்தார்.
+🟩
 
-இதேவேளை, 2025 முதல் காலாண்டில் தனியாருக்கு தேவையான வாகனங்களை இறக்குமதி செய்ய எதிர்பார்க்கிறோம் என்றார். R
+Finance Minister Shehan Semasinghe said that permission for vehicle imports will be issued in August.
+
+Accordingly, the Minister of State will be allowed to import vehicles for trade and transport at an early stage.
+
+Meanwhile, we expect to import vehicles required for the private sector in the quarter of 2025. Remble
 
 ◼️
 
 [Data](articles/14166a25.json)
+
+[Extended Data](ext_articles/14166a25.ext.json)
 
 ---
 

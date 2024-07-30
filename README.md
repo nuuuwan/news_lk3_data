@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 13:55:16**
+As of **2024-07-30 14:06:54**
 
 ## Newspaper Stats
 
-*Scraped **38,036** Articles*
+*Scraped **38,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,80 +15,174 @@ bbccomsinhala | 367
 islandlk | 2,180
 economynextcom | 2,282
 dailyftlk | 2,434
-adalk | 3,472
+adalk | 3,473
 adaderanalk | 4,406
-tamilmirrorlk | 4,712
+tamilmirrorlk | 4,713
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,401
+adaderanasinhalalk | 6,403
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,030 (100.0%) of 38,036 articles have been extended.
+38,036 (100.0%) of 38,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### කලාඔයේ පාවෙමින් තිබූ පුද්ගල සිරුර
+### තවත් ලතින් අමෙරිකානු රටක් ගිනිගනී
+
+*2024-07-30 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199370) · `si`
+
+වෙනිසියුලා ජනාධිපතිවරණ ප්‍රතිඵල අභියෝගයට ලක් කරමින් ජනතාව විථි බැසීමත් සමග කරාකස් අගනුවර උණුසුම් තත්ත්වයක් හටගෙන තිබේ.
+
+කරාකස් අගනුවර සහ වෙනත් නගර රැසකදීම ජනතාව විරෝධතාවේ නිරත වන්නේ වසර 11ක් පුරා එරට ජනාධිපති ධුරය දැරූ නිකලස් මදුරෝ මෙවරත් ජනාධිපතිවරණය ජයගෙන ඇති බවට නිර්ණය කළ ජනාධිපතිවරණ ප්‍රතිඵල වංචා සහගත බවට චෝදනා කරමිනි.
+
+ඒ ප්‍රතිවාදී එඩ්මුන්දෝ ගොන්සාල්වේස් ප්‍රමුඛ සන්ධානය සියයට 70 ඉක්මවූ ඡන්ද ප්‍රතිශතයක් දිනාගනු ඇතැයි පූර්ව මැතිවරණ ප්‍රතිඵල පෙන්නුම් කර තිබූ පසුබිමකය.
+
+විරෝධතාකරුවන් පාලනය කිරීමට ආරක්ෂක අංශ කඳුළු ගෑස් සහ රබර් උණ්ඩ ප්‍රහාර එල්ල කිරීමත් සමග විරෝධතා ප්‍රචණ්ඩ ස්වරූපයක් ගෙන තිබුණි.
+
+ලතින් අමෙරිකානු සහ බටහිර රටවල් ද එක්සත් ජතීන්ගේ සංවිධානය ඇතුළු ජාත්‍යන්තර සංවිධාන ද එක් එක් ඡන්ද මධ්‍යස්ථානවල ප්‍රතිඵල වෙන් වෙන් වශයෙන් නිකුත් කරන ලෙස වෙනිසියුලානු බලධාරීන්ගෙන් ඉල්ලීම් කර තිබේ.
+
+නිකලස් මදුරෝ වෙනිසියුලානු ජනාධිපති වශයෙන් පිළි නොගන්නා ආර්ජන්ටිනාව, පේරු, චිලී ඇතුළු ලතින් අමෙරිකානු රටවල් 6ක සිටින රාජ්‍ය තාන්ත්‍රිකයින් නැවතත් කැඳවීමට වෙනිසියුලාව පියවර ගෙන ඇතැයි සඳහන්ය.
+
+◼️
+
+[Data](articles/27081978.json)
+
+---
+
+### ඉන්ධන ප්‍රවාහන නෞකාවක් ඉරාන භාරයට - කාර්ය මණ්ඩලයේ ශ්‍රී ලාංකිකයිනුත්
+
+*2024-07-30 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199369) · `si`
+
+නීතිවිරෝධි ලෙස ඉන්ධන ලීටර මිලයන 1.5ක් ජාවාරම් කරමින් පැවති බවට චෝදනා කරමින් ඉන්ධන ප්‍රවාහන නෞකාවක් ඉරාන විප්ලවීය හමුදාව සිය භාරයට ගෙන තිබේ.
+
+පර්සියන් බොක්කේ දී පසුගිය සඳුදා (22) එම නෞකාව ඔවුන් විසින් සිය භාරයට ගෙන ඇත.
+
+එලෙස භාරයට ගෙන ඇත්තේ බටහිර අප්‍රිකානු රාජ්‍යයක් වන ටෝගෝ ධජය යටතේ ඉන්ධන ප්‍රවාහනය කරමින් පැවති නෞකාවකි.
+
+එහි 12 දෙනෙකුගෙන් යුතු කාර්ය මණ්ඩලයේ ශ්‍රී ලාංකිකයින් ද සිටින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/88563228.json)
+
+---
+
+### சந்திரசேன எம்.பி ரணிலுக்கு ஆதரவு
+
+*2024-07-30 13:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்திரசேன-எம்-பி-ரணிலுக்கு-ஆதரவு/175-341275) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்கப் போவதில்லை என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) பாராளுமன்ற உறுப்பினர்களின் கணிசமான பகுதியினர் தீர்மானித்த போதிலும், என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் எஸ்.எம். சந்திரசேன உத்தியோகபூர்வமாக ஜனாதிபதி விக்கிரமசிங்கவிற்கு ஆதரவளிப்பதாக உறுதியளித்துள்ளார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அனுராதபுரம் மாவட்டக் குழுக் கூட்டம் இன்று (30)  நடைபெற்றது. அதில் கலந்துகொண்டு கருத்துரைத்த போதே இவ்வாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/0843a683.json)
+
+---
+
+### Cardione floating in Kala Oya
 
 *2024-07-30 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199368) · `si`
 
-විල්පත්තුව ජාතික වනෝද්‍යානයට යාබදව ගලා බසින කලාඔයේ පාවෙමින් තිබූ පුද්ගල මළසිරුරක් පොලීසිය විසින් සොයාගෙන තිබේ.
+A body found floating in Kala Oya, near Wilpattu National Park, suspected to be from a fatal argument.
 
-පසුගියදා කලාඔයේ දියනෑමට ගොස් සිටියදී පිරිසක් සමඟ ඇතිකරගත් බහින්බස් වීමක් දුරදිග ගොස් මෙම පුද්ගලයා ඝාතනයට ලක්වන්නට ඇතැයි පොලීසිය සැකපළ කරයි.
+🟩
+
+A Carcirk for a person who was floating in Kalao, who flows adjacent to the Wilpattu National Park.
+
+The police suspect that the person had been killed in a heated argument with a group of arguments recently.
 
 ◼️
 
 [Data](articles/157e9358.json)
 
+[Extended Data](ext_articles/157e9358.ext.json)
+
 ---
 
-### மரக்கறி தோட்டத்தில் குழி: ஐவர் கைது
+### Five arrests of vegetable garden
 
 *2024-07-30 13:30:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-தோட்டத்தில்-குழி-ஐவர்-கைது/76-341273) · `ta`
 
-சட்டவிரோதமான முறையில் மாணிக்ககல் அகழ்வில் ஈடுபட்டனர் என்ற குற்றச்சாட்டின் பேரில், சந்தேகத்தின் பேரில், கள் பொகவந்தலாவ பொலிஸாரால் ஐவர் கைது செய்யப்பட்டுள்ளனர்.
+Bogawantalawa police arrested five individuals, aged 34-45 from Balangoda, Elpitiya, and Anuradhapura, for illegal gem mining in a vegetable garden. They face charges for environmental destruction and will be presented in court with their excavation tools.
 
-பொகவந்தலாவ பொலிஸ் பிரிவுக்கு உட்பட்ட மரக்கறி தோட்டத்தில் சிலர் பாரிய குழிகள் தோண்டி சுற்றுச்சூழலை நாசம் செய்வதாக கிடைத்த தகவலின் அடிப்படையில் சுற்றிவளைப்பை மேற்கொண்டு ஐவரையும் கைது செய்துள்ளனர்.
+🟩
 
-கைதானவர்கள், பலாங்கொடை, எல்பிட்டிய மற்றும் அனுராதபுரத்தை வசிப்பிடமாகக் கொண்ட 34-45 வயதுக்கு உட்பட்டவர்கள் என்பதுடன், பொகவந்தலாவ பிரதேசத்தைச் சேர்ந்த மாணிக்ககல் அகழ்வில் ஈடுபடும் ஒருவரின் பின்புலத்திலேயே இந்த சட்டவிரோத மாணிக்ககல் அகழ்வு இடம் பெற்றுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+Five persons have been arrested by the Bogawantalawa police on suspicion of illegal excavation.
 
-கைது செய்யப்பட்ட சந்தேக நபர்களை இரத்தினக்கல் அகழ்வதற்கு பயன்படுத்தப்பட்ட உபகரணங்களுடன் ஹட்டன் நீதவான் நீதிமன்றில் ஆஜர்படுத்த உள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+In the vegetable garden, which belongs to the Bogawantalawa Police Division, some people have been arrested on the basis of reports that they are digging massive pits and destroying the environment.
+
+The detainees are under the age of 34-45, who are under the age of 34-45, who are resident of Balangoda, Elpitiya and Anuradhapura, and the illegal gem excavation has been reported in the backdrop of a man who is involved in the excavation of the Bogawantalawa area.
+
+The police said that the suspects were to be produced before the Hatton Magistrate's Court with equipment used to excavate the gem.
 
 ◼️
 
 [Data](articles/8ce491f8.json)
 
+[Extended Data](ext_articles/8ce491f8.ext.json)
+
 ---
 
-### විමල්ගෙන් අනතුරු ඇඟවීමක්
+### A warning from Wimal
 
 *2024-07-30 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199367) · `si`
 
-පාලකයා විසින් ශ‍්‍රී ලංකා රාජ්‍යය විදේශ ආධිපත්‍යයට යටත් කිරීමේ මහා සැලසුම පරාජය කිරීම සඳහා මැදිහත් වන ඉල්ලීමක් කරමින් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා විසින් ත්‍රෛනිකායික මහනාහිමිවරු වෙත ලිපියක් යවා තිබේ.
+MP Wimal Weerawansa urged Trincomalee Mahanayakewans to resist foreign control over the Maha State of Sri Lanka, as detailed in his letter presented to the Tertical Maharaimisans.
 
-අද (30) එම ලිපිය ත්‍රෛනිකායික මහා නාහිමිවරුන් වෙත පිළිගන්වනු ලැබීය.
+🟩
+
+MP Wimal Weerawansa has sent a letter to the Trincomalee Mahanayakewans, a request to defeat the Maha State of Sri Lanka to foreign domination.
+
+The letter was presented today to the Tertical Maharaimisans.
 
 ◼️
 
 [Data](articles/ade33213.json)
 
+[Extended Data](ext_articles/ade33213.ext.json)
+
 ---
 
-### பரிஸ் 2024: விரேன் நெட்டசிங்கவும் வெளியேற்றம்
+### Paris 2024: Viran Netasinghe
 
 *2024-07-30 13:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-விரேன்-நெட்டசிங்கவும்-வெளியேற்றம்/44-341272) · `ta`
 
-பிரான்ஸில் நடைபெற்று வரும் பரிஸ் 2024 ஒலிம்பிக் போட்டிகளிலிருந்து இலங்கையின் விரேன் நெட்டசிங்கவும் வெளியேற்றப்பட்டுள்ளார்.
+Viran Netasinghe, Sri Lanka's badminton player, was eliminated from the Paris 2024 Olympics after losing to Spain's Pablo Abian in the men's singles competition.
 
-ஏற்கெனவே ஆண்களுக்கான தனிநபர் பூப்பந்தாட்டத்தில் தனது முதலாவது குழு ஜி போட்டியில் தோற்ற நெட்டசிங்க தற்போது முடிவடைந்த ஸ்பெய்னின் பப்லோ அபியானுடனான போட்டியில் 9-21, 19-21 என்ற நேர் செட்களில் தோல்வியடைந்து ஒலிம்பிக்கிலிருந்து வெளியேறினார்.
+🟩
+
+Sri Lanka's Viran Netasinghe has also been evicted from the Paris 2024 Olympic Games in France.
+
+Nettasinghe, who has already lost his first group Game in the men's personal badminton, lost the Olympics 9-21, 19-21 in a 9-21, 19-21 match against Spain's Pablo Abian.
 
 ◼️
 
 [Data](articles/febfcc61.json)
+
+[Extended Data](ext_articles/febfcc61.ext.json)
+
+---
+
+### අනුරාධපුරයේ පොහොට්ටුව රනිල් ළඟ පිපෙයි
+
+*2024-07-30 13:18:39* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධපුරයේ-පොහොට්ටුව-රනිල්-ළඟ-පිපෙයි/11-411091) · `si`
+
+කෙළෙහි ගුණ දක්වන මිනිසුන් හැටියට රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාට සහය දක්වන ලෙසට පොදු ජන එක්සත් පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් සම්මේලනයේදී අති බහුතරයකගේ පල වූ එකඟත්වය මත ඔවුන්ගේ මතයට සහාය දැක්වීමටත් පක්ෂයටත් ඒ අනුව කටයුතු කිරීමට තවමත් කල් තිබෙන බවත් අනුරාධපුර දිස්ත්‍රික් පොදුජන එක්සත් පෙරමුණු කණ්ඩායම් නායක,දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ සභාපති සහ පාර්ලිමේන්තු මන්ත්‍රී එස්. එම්. චන්ද්‍රසේන  මහතා සඳහන් කළේය.
+
+අද (30දා) අනුරාධපුර කුරුන්දන්කුලම  චන්ද්‍රසේන මහතාගේ නිවසේ පිහිටි පොදු ජන එක්සත් පෙරමුණු දිස්ත්‍රික් කාර්යාලයේ පැවැත් වූ දිස්ත්‍රික්සම්මේලනයේදී  කණ්ඩායම් නායක චන්ද්‍රසේන මහතා ඇතුළු  පිරිස මෙම එකඟතාවයට පැමිණියහ.
+
+මේ සඳහා උතුරු මැද හිටපු ප්‍රධාන අමාත්‍ය එස් එම් රංජිත් සමරකෝන්  මහතා සහ දිස්ත්‍රික්කයේ සියලුම හිටපු පළාත් සභා මන්ත්‍රීවරු, ,ආසන සංවිධායකවරු, ප්‍රාදේශීය සභා සභාපතිවරු ප්‍රාදේශීය සභා නියෝජිතවරු පාර්ලිමේන්තු මන්ත්‍රීවරු ඇතුළු දෙසීයකට අධික පිරිසක් එක්ව සිටියහ.
+
+...
+
+[Data](articles/d5583c3f.json)
 
 ---
 
@@ -140,35 +234,47 @@ This is the first time the Election Commission met after the presidential electi
 
 ---
 
-### வயநாடு நிலச்சரிவு: பலி 50 ஆக அதிகரிப்பு
+### Wayanad Landslide: Increase to 50 Kills
 
 *2024-07-30 13:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயநாடு-நிலச்சரிவு-பலி-50-ஆக-அதிகரிப்பு/175-341270) · `ta`
 
-புதுடெல்லி: வயநாட்டில் ஏற்பட்ட நிலச்சரிவில் உயிரிழப்பு 50 ஆக அதிகரித்துள்ளது. தொடர்ந்து மழை பெய்து வருவதாலும், பாலம் சேதம் அடைந்துள்ளதாலும் மீட்புப் பணியில் சுணக்கம் ஏற்பட்டுள்ளது. இதனால் 100-க்கும் மேற்பட்ட மக்கள் சிக்கித் தவிப்பதாகத் தெரிகிறது.
+A landslide in Wayanad has killed 50 and trapped over 100 due to continuous rain and bridge damage. Rahul Gandhi and Priyanka Gandhi plan to visit, highlighting the severity of the situation.
 
-நிலைமை நிமிடத்துக்கு நிமிடம் மோசமடைந்துவரும் சூழலில் மக்களவை எதிர்க்கட்சித் தலைவர் ராகுல் காந்தியும், காங்கிரஸ் பொதுச் செயலாளர் பிரியங்கா காந்தியும் வயநாடுக்கு நேரில் சென்று மீட்புப் பணிகளை நேரில் பார்வையிட உள்ளனர்.
+🟩
+
+NEW DELHI: Landslide in Wayanad has increased to 50. Continuing rain and the bridge has been damaged. Thus it seems that more than 100 people are trapped.
+
+Lok Sabha Opposition Leader Rahul Gandhi and Congress general secretary Priyanka Gandhi will visit Wayanad in the face of the situation in the face of a minute.
 
 ◼️
 
 [Data](articles/e1937ff0.json)
 
+[Extended Data](ext_articles/e1937ff0.ext.json)
+
 ---
 
-### ජනපති හමුවූ ඇතැම් මන්ත්‍රීවරු ඊයේ රෑම මාව හමුවුණා
+### Some MPs who met President met me yesterday
 
 *2024-07-30 12:29:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හමුවූ-ඇතැම්-මන්ත්‍රීවරු-ඊයේ-රෑම-මාව-හමුවුණා/11-411089) · `si`
 
-තම පක්ෂයේ ප්‍රතිපත්තිය අතිතයේ පටන්ම එක්සත් ජාතික පක්ෂ විරෝධී බවත් තමන් තවදුරටත් එක්සත් ජාතික පක්ෂ විරෝධී කඳවුර නියෝජනය කරන බවත් පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා පැවැසීය.
+Namal Rajapaksa, representing the anti-UNP party, discussed the upcoming presidential election, emphasizing its focus on leadership rather than preferential politics. He mentioned meetings between MPs and President Mahinda Rajapaksa regarding the virus situation and waste management issues affecting the public.
 
-ඒසේම ඊයේ සවස ජනපති රනිල් වික්‍රමසිංහ මහතා සමග සාකච්ඡා පැවැත්වූ පොදුජන පෙරමුණේ ඇතැම් මන්ත්‍රීවරු ඊයේ රාත්‍රි යේම මෙන්ම අද උදෑසනත් තමන් හමුවූ බවද ඔහු පැවැසීය.
+🟩
 
-එසේම ජනපතිවරණය යනු ජාතික නායකයෙක් ‌තෝරා ගන්නා මැතිවරණය බවත් එයට මනාප දේශපාලනයෙන් බලපෑමක් නොමැති බවත් ඔහු පැවැසීය.
+MP Namal Rajapaksa said that the policy of the party is anti-UNP and represents the anti-UNP camp.
 
-පොහොට්ටුවේ නටුව මෙන්ම මලත් ඇත්තේ ජනතාව අතර බවද ඔහු වැඩිදුරටත් පැවැසීය
+He added that some MPs of the Known Knowledge of the Knoru Wickremesinghe yesterday evening yesterday evening had met with President Mahinda Rajapaksa as well as this morning.
+
+He added that the presidential election is the election of a national leader and that it has no pressure from the preferential politics.
+
+He added that the virus and disposal of the rhost is among the people
 
 ◼️
 
 [Data](articles/8c07bb43.json)
+
+[Extended Data](ext_articles/8c07bb43.ext.json)
 
 ---
 
@@ -2065,109 +2171,5 @@ Addressing a press briefing held under the series titled “Two Years of Progres
 [Data](articles/32f8e273.json)
 
 [Extended Data](ext_articles/32f8e273.ext.json)
-
----
-
-### What happened at the Politan Board meeting of the Pohost?
-
-*2024-07-29 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199347) · `si`
-
-At the Politan Board meeting of the Pohost, the Sri Lanka General Mannel decided to propose a separate candidate for the Presidential Election. This decision faced opposition from 11 individuals but was supported by 61 members, including the General Secretary General of Parliament Scember Kariyawasam. The candidate presentation date is speculated to be around August 5th or 6th.
-
-🟩
-
-The Political Bureau of the Sri Lanka General Mannel (CHOGM) decided to present a separate candidate for the Presidential Election.
-
-The proposal has been opposed to the proposal.
-
-72 members have participated in the meeting held at the Sri Lanka General Front.
-
-The General Secretary General of Parliament Scember Kariyawasam has proposed a separate candidate for the Presidential election to the Presidential election.
-
-The proposal was 61 members of the General Manager the General Secretary of the CEB and 11 persons have opposed it.
-
-Meanwhile, it is reported that the candidate presented by the Sri Lanka Civil Front is said to have stated that the candidate is presented on August 5 or sixth.
-
-◼️
-
-[Data](articles/7e563e13.json)
-
-[Extended Data](ext_articles/7e563e13.ext.json)
-
----
-
-### Train accident in Russia: More than one hundred people injured!
-
-*2024-07-29 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189740) · `ta`
-
-In a tragic accident in southern Russia, over 140 passengers were injured after a train collided with a heavy vehicle. The crash involved 800 passengers; 30, including 15 children, were hospitalized. Seven train compartments were derailed, and rescue efforts are ongoing.
-
-🟩
-
-About 140 people were injured when a passenger train crashed into a heavy vehicle in the south of Russia.
-
-Foreign exchange reports that the accident occurred when a heavy vehicle crossed the rails.
-
-About 140 people were injured when there were 800 passengers on the train during the accident. Of the injured, 30 people, including 15 children, have been admitted to the hospital for treatment.
-
-With 7 compartments of the train derailed, rescue operations are underway.
-
-◼️
-
-[Data](articles/396bd74b.json)
-
-[Extended Data](ext_articles/396bd74b.ext.json)
-
----
-
-### The magistrate's order to Jeevan Thondaman
-
-*2024-07-29 21:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜீவன்-தொண்டமானுக்கு-நீதவான்-வழங்கிய-உத்தரவு/175-341236) · `ta`
-
-Nuwara Eliya Magistrate ordered to investigate without naming Minister Jeevan Thondaman as a suspect, directing police to report findings to court.
-
-🟩
-
-The Nuwara Eliya District Magistrate today (29) ordered the Nuwara Eliya District Magistrate to present the truth in court, not accepting Jeevan Thondaman as a suspect.
-
-On 29.7.2024, four others, including Minister Jeevan Thondaman, were present at the Nuwara Eliya Magistrate's Court.Senior Attorney Shan Kulathunga, Senior Attorney Perumal Rajadurai and Shivanjodi Yogarajah were present on behalf of Jeevan Thondaman.
-
-He was present in the presence of Nuwara Eliya Court Judge N.W.K.L Prabhudika Lanka.
-
-The magistrate ordered the magistrate on August 26 as the name of Minister Jeevan Thondaman was not recommended anywhere.
-
-On that day, the magistrate has ordered the Nuwara Eliya Senior Superintendent or Assistant Superintendent of Police to investigate the case and report the trials to the court.. Remble
-
-◼️
-
-[Data](articles/815f9b33.json)
-
-[Extended Data](ext_articles/815f9b33.ext.json)
-
----
-
-### The decision to take two parties about the next presidential election
-
-*2024-07-29 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199346) · `si`
-
-The main political parties in Sri Lanka are considering their stance for the upcoming presidential election. The UNP MP leader, Mr. Sridharan, mentioned that a decision would be made during their central committee meeting on August 10 or 11 regarding whether to support a common candidate or focus on resolving issues affecting the Northern Eastern Tamil community. Meanwhile, the All Ceylon Public Congress leader, Rishad Bathiudeen, highlighted the importance of presidential candidates agreeing to their party's 10 demands, including hospital development, before receiving their support.
-
-🟩
-
-Ilangai Thamil Azukkanda, revealed that the main candidates were supporting a separate candidate for the presidential election.
-
-Accordingly, the leader of the UNP MP. Mr. Sridharan told the media after a function in Kilinochchi today.
-
-Illangai Tamil Arasu Kachchi Party. Mr. Sridharan,
-
-"Our central committee meets August 10 or 11. There we make some decisions.  පොදු අපේක්ෂකයෙක්ට සහාය පළකරනවාද? එහෙම නැත්නම් උතුරු නැගෙනහිර දෙමළ ජනතාවගේ ප්‍රශ්නවලට ස්ථිර විසඳුමක් ලබාදෙන බවට ප්‍රතිපත්ති ප්‍රකාශයේ ඇත්නම් එවැනි අපේක්ෂකයෙක්ට සහාය පළකිරීම සම්බන්ධයෙනුත් තීරණයක් ගැනීමට නියමිතය."
-
-Meanwhile, All Ceylon Public Congress leader Rishad Bathiudeen stated in a public rally in Puttalam with the future presidential election.
-
-...
-
-[Data](articles/4bc4198a.json)
-
-[Extended Data](ext_articles/4bc4198a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 09:20:43**
+As of **2024-07-30 09:36:06**
 
 ## Newspaper Stats
 
-*Scraped **37,989** Articles*
+*Scraped **37,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,466
 adaderanalk | 4,398
-tamilmirrorlk | 4,704
+tamilmirrorlk | 4,705
 dailymirrorlk | 4,733
 virakesarilk | 5,990
 adaderanasinhalalk | 6,389
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,988 (100.0%) of 37,989 articles have been extended.
+37,989 (100.0%) of 37,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### மன்னாரில் இளம் தாய் பரிதாபமாக மரணம் - வைத்தியசாலை மீது குற்றச்சாட்டு
+
+*2024-07-30 09:06:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-இளம்-தாய்-பரிதாபமாக-மரணம்-வைத்தியசாலை-மீது-குற்றச்சாட்டு/72-341260) · `ta`
+
+மன்னார் - மதவாச்சி பிரதான வீதி, தம்பனைக்குளம்  பகுதியைச் சேர்ந்த பட்டதாரியான இளம் தாய் ஒருவர் ஞாயிற்றுக்கிழமை உயிரிழந்தார்.
+
+மரணமடைந்த இளம் தாய் பட்டப்படிப்பை நிறைவு செய்த  மரியராஜ் சிந்துஜா வயது (27)  என தெரிய வந்துள்ளது.
+
+இறந்த இளம் தாய்க்கு முதலாவது ஆண் குழந்தை  மன்னார் மாவட்ட பொது வைத்தியசாலையில்   கடந்த 09ம் திகதி பிறந்துள்ளது. 11ம் திகதி  மருத்துவமனையில் இருந்து தாய் சேய் நலமாக வெளியேறியுள்ளார்கள்.
+
+7 நாட்களின் பின்னர் முருங்கன் வைத்தியசாலையில் தையல் வெட்டுமாறு  கூறியதையடுத்து  கடந்த 16ம் திகதி முருங்கன் வைத்தியசாலையில் தையல் வெட்டப்பட்டதாக  இறந்த பெண்ணின் தாயார் தெரிவித்தார். தனது மகளை அவரே  மருத்துவமனையில் வைத்து பராமரித்து வந்துள்ளார்.
+
+அதன் பின்னர் கடந்த சனிக்கிழமை (27) தாய்க்கு  குருதிப் பெருக்கு ஏற்பட்டதை அடுத்து அன்று இரவு  நோயாளர் காவு வண்டி மூலம்  மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு கொண்டு சென்று  ஓ.பி.டி பதிவுகளின் பின்னர் உரிய நோயாளர் விடுதியில் அனுமதிக்கப்பட்டார்.
+
+...
+
+[Data](articles/c79dfe41.json)
+
+---
 
 ### Two children killed, 9 injured in ‘ferocious’ knife attack, UK police say
 
@@ -226,27 +246,33 @@ The operation of the Colombo Port has made significant improvement. Colombo port
 
 ---
 
-### ජාත්‍යන්තර මිත්‍රත්ව දිනය : අසනීප වූ මිතුරා අත නොහැර ගිය විහඟ
+### International Friendship Day: The sick friend did not give up
 
 *2024-07-30 02:17:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg3je39vn2po) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''විහඟ වගේ යාළුවෙක් හමුවුණේ පෙර පිනකට.''
+On International Friendship Day, a remarkable story emerged about a friend who didn't abandon another despite the latter's long-term illness. This inspiring tale, highlighted by the principals of two schools, showcases the power of true friendship and selflessness. The friend, known for caring for his sick mother and sister, serves as a role model for students, especially during challenging times.
 
-ජාත්‍යන්තර මිත්‍රත්ව දිනය : අසනීප වූ මිතුරා අත නොහැර ගිය විහඟ
+🟩
 
-දුකේ දී අතහැර නොයන සැබෑ කළණ මිතුරන් හමුවීම ගැන අපි සතුටු වන්නෙමු.
+It contains nothing here.Video header, '' I found a friend like a friend before. ''
 
-පාසල් සිසුන්ට ආදර්ශයක් වූ එවන් කළණ මිතුරු ඇසුරක් ගැන කුලියාපිටිය අධ්‍යාපන කලාපයේ, පඬුවස්නුවර දෙමටව මහා විද්‍යාලයෙන් අසන්නට ලැබිණි.
+International Friendship Day: The sick friend did not give up
 
-සාමාන්‍ය පෙළ විභාගය සමත්වීම නිසා මිතුරන් වෙනත් පාසල් වෙත ගිය ද අසනීප තත්ත්වයෙන් පසුවන මිතුරාට උපකාර කිරීම සඳහා එක් සිසුවෙකු පමණක් උසස් පෙළ පංතියේ රැඳුණු බව දෙමටව මහා විද්‍යාලයේ විදුහල්පති ඩි.එම්.සරත් දිසානායක BBC සිංහල සේවයට පැවසුවේය.
+We will be glad to meet the true kings who do not abandon the true kings who do not abandon the true.
 
-විහඟ සත්සර සිසුවා වසර හයකට වැඩි කාලයක් රෝගී තත්ත්වයෙන් පසුවන මිතුරාට උපකාර කිරීම මෙන්ම , ඔහු සිය මව සහ නැගණිය රැකබලා ගනිමින් ඉතා දිරිමත්ව ජීවිතයට මුහුණ දීම ගැන බොහෝ දෙනාගේ පැසසුමට ලක්ව තිබේ.
+Such a friend, which was an example for schoolchildren, was heard from the Kuluwasan Maha Vidyalaya, Panduwasnu, Panduwasnu.
 
-අදට යෙදෙන (ජූලි 30) ජාත්‍යන්තර මිත්‍රත්ව දිනය නිමිත්තෙන් අපි ඒ කළණ මිතුරා සොයා ගියෙමු.
+The Principals of the two Deathwa Maha Vidyalaya said that only one student was in the GCE Ordinary Level examination.
+
+The scuning cave to help the student who is suffering from illness for more than six years, many people commended him to care for his mother and his sister.
+
+We have found the artist friend to mark the international friendship day today.
 
 ◼️
 
 [Data](articles/fd8f822b.json)
+
+[Extended Data](ext_articles/fd8f822b.ext.json)
 
 ---
 
@@ -2217,25 +2243,5 @@ The majority of floods have been influenced by the ladies, Uiuja areas and more 
 [Data](articles/107b00f5.json)
 
 [Extended Data](ext_articles/107b00f5.ext.json)
-
----
-
-### Athapaththu eyes T20 World Cup after Sri Lanka’s Asia Cup success
-
-*2024-07-29 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100857/athapaththu-eyes-t20-world-cup-after-sri-lankas-asia-cup-success) · `en`
-
-Victorious Sri Lanka captain Chamari Athapaththu believes her side’s success in the Women’s Asia Cup was well deserved as the island nation turns its attention to this year’s ICC Women’s T20 World Cup.
-
-Sri Lanka claimed their first Women’s Asia Cup title on Sunday, with Athapaththu leading from the front with a hard-fought half-century to help her team chase down India’s total of 165/6 with eight balls remaining.
-
-The victory helps cap off a tremendous 14-month period for Sri Lanka, who have claimed T20I series triumphs over Bangladesh, England and South Africa in recent times as well winning the ICC Women’s T20 World Cup Qualifier tournament to earn a place at this year’s tournament in October.
-
-That will be the next challenge for Athapaththu and Sri Lanka, but the experienced skipper is excited about what her side can achieve at the T20 World Cup in Bangladesh.
-
-...
-
-[Data](articles/134cf06f.json)
-
-[Extended Data](ext_articles/134cf06f.ext.json)
 
 ---

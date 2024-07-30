@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 21:55:34**
+As of **2024-07-30 22:09:15**
 
 ## Newspaper Stats
 
-*Scraped **38,114** Articles*
+*Scraped **38,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
-adalk | 3,488
-adaderanalk | 4,414
+adalk | 3,489
+adaderanalk | 4,415
 tamilmirrorlk | 4,726
 dailymirrorlk | 4,733
 virakesarilk | 6,011
@@ -26,47 +26,77 @@ adaderanasinhalalk | 6,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,110 (100.0%) of 38,114 articles have been extended.
+38,114 (100.0%) of 38,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### ශ්‍රී ලංකාවට ලකුණු 138 ඉලක්කයක්
+### Iranian president sworn in with chants of ‘Death to America, Israel’
+
+*2024-07-30 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100886/iranian-president-sworn-in-with-chants-of-death-to-america-israel) · `en`
+
+Iran’s new president Masoud Pezeshkian was sworn in on Tuesday, after winning an election earlier this month by promising to improve ties with the world and ease restrictions on social freedoms at home.
+
+“We will pursue constructive and effective interaction with the world based on dignity, wisdom, and expediency,” Pezeshkian, a relative moderate, told a parliament session attended by foreign dignitaries and broadcast live on state television.
+
+His victory has lifted hopes of a thaw in Iran’s antagonistic relations with the West that might create openings for defusing its nuclear standoff with world powers.
+
+But Pezeshkian takes office at a time of escalating Middle East tensions over Israel’s conflict with Hamas in Gaza and cross-border fighting with Iran’s ally Hezbollah in Lebanon.
+
+...
+
+[Data](articles/49826814.json)
+
+---
+
+### Sri Lanka scored 138 runs
 
 *2024-07-30 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199387) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ ඉන්දීය කණ්ඩායම අතර පැවැත්වෙන 3න් වැනි සහ අවසාන 20යි 20 තරගය  පල්ලෙකැලේ ක්‍රිකට් පිටියේදී පැවැත්වෙයි.
+In a thrilling cricket match, Sri Lanka won against India by scoring 138 runs. After winning the toss, Sri Lanka chose to bat first but faced stiff competition from India, who lost 9 wickets while making 137 runs. The final score saw Sri Lanka triumphing with 138 runs.
 
-එහි කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඉන්දියාවට ලබා දීමටය.
+🟩
 
-ඒ අනුව ඉන්දියාව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 137ක් රැස් කළේය.
+The Sri Lankan team and the Sri Lankan team will be held at the Pallekele cricket field.
 
-තරගය ජයගැනීමට සඳහා ශ්‍රී ලංකා කණ්ඩායමට හිමිවූ ඉලක්කය ලකුණු 138කි.
+Sri Lanka were able to gain advantage of the coin and they decided to give the batting to India first.
+
+India scored 137 runs for the loss of 9 wickets in their allotted 20 overs.
+
+The Sri Lankan team won 138 runs in order to win the match.
 
 ◼️
 
 [Data](articles/59a65792.json)
 
+[Extended Data](ext_articles/59a65792.ext.json)
+
 ---
 
-### ඉන්දියාවේ තවත් ඛේදවාචකයක් - විශාල පිරිසක් මරුට
+### Another tragedy in India - a large crowd killed
 
 *2024-07-30 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199386) · `si`
 
-දකුණු ඉන්දියාවේ කේරළ ප්‍රාන්තයේ අධික වර්ෂාවත් සමඟ ඇති වූ දැවැන්ත නායයෑමක් හේතුවෙන් පුද්ගලයින් 93 දෙනෙකු පමණ මියගොස් ඇතැයි වාර්තා වේ.
+A tragic landslide in Kerala, India, has resulted in 93 deaths and numerous missing individuals. The disaster was exacerbated by heavy rainfall, causing severe injuries and increasing the death toll. Authorities have deployed over 200 military personnel for search and rescue efforts.
 
-තවත් විශාල පිරිසක් නායයෑමට හසුවී අතුරුදන්ව ඇතැයි විදෙස් මාධ්‍ය පවසයි.
+🟩
 
-පවතින අධික වර්ෂාව හේතුවෙන් අනතුරට පත් පිරිස ගලවා ගැනීමේ මෙහෙයුම්වලට පවා දැඩි බාධා එල්ල වී ඇත.
+It is reported that about 93 persons have died due to a huge landslide in the state of Kerala, South India.
 
-මියගිය ප්‍රමාණය තවදුරටත් ඉහළ යා හැකි බව බලධාරීන් අනතුරු අඟවයි.
+Another large number of others disappeared in landslides, foreign media reports.
 
-සෝදිසි මෙහෙයුම් සඳහා හමුදා නිලධාරීන් 200කට වැඩි පිරිසක් මේ වනවිට යොදවා ඇතැයි වාර්තා වේ.
+Due to the high race, the casualties have been severely disturbed by the injuries.
+
+Authorities warns that the deceased is further increased.
+
+More than 200 military personnel have been deployed for search operations.
 
 ◼️
 
 [Data](articles/88896e9f.json)
+
+[Extended Data](ext_articles/88896e9f.ext.json)
 
 ---
 
@@ -84,21 +114,29 @@ General (retired) Kamal Gunaratne made these statements at a news conference tit
 
 [Data](articles/47efb471.json)
 
+[Extended Data](ext_articles/47efb471.ext.json)
+
 ---
 
-### ஜனாதிபதிக்கு கடிதம் அனுப்பிய தேர்தல்கள் ஆணைக்குழு
+### Elections Commission sent to the President
 
 *2024-07-30 20:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-கடிதம்-அனுப்பிய-தேர்தல்கள்-ஆணைக்குழு/175-341300) · `ta`
 
-பொலிஸ்மா அதிபரின் பிரச்சினைக்கு உடனடி தீர்வை கோரி ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு கடிதம் எழுத தேர்தல்கள் ஆணைக்குழு தீர்மானித்துள்ளது.
+The Election Commission plans to write to President Ranil Wickremesinghe about resolving the police chief situation urgently. This decision came after a meeting focused on various presidential election matters at the Election Secretariat Complex in Rajagiri.
 
-ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்ட பின்னர் தேர்தல் ஆணைக்குழு முதல் முறையாக ராஜகிரியில் உள்ள  தேர்தல் செயலக வளாகத்தில் இன்று (30) காலை கூடியது.
+🟩
 
-ஜனாதிபதித் தேர்தலை நடத்துவது தொடர்பிலான பல விடயங்கள் தொடர்பில் அந்தக் கூட்டத்தில் விசேட கவனம் செலுத்தப்பட்டதாகக் குறிப்பிடப்படுகிறது. R
+The Election Commission has decided to write a letter to President Ranil Wickremesinghe seeking immediate solution to the police chief's issue.
+
+The Election Commission met at the Election Secretariat Complex in Rajagiri this morning after the presidential election was announced.
+
+The meeting is said to have paid special attention to a number of issues regarding the presidential election. Remble
 
 ◼️
 
 [Data](articles/f86ee405.json)
+
+[Extended Data](ext_articles/f86ee405.ext.json)
 
 ---
 
@@ -125,6 +163,20 @@ Meanwhile, the Anuradhapura District Board of Anuradhapura has decided to suppor
 [Data](articles/48f999e1.json)
 
 [Extended Data](ext_articles/48f999e1.ext.json)
+
+---
+
+### නිදහස් පක්ෂයේ තීරණය හෙට
+
+*2024-07-30 20:08:21* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-තීරණය-හෙට/11-411108) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මන්ත්‍රී ඉදිරි ජනාධිපතිවරණයේදි අපේක්ෂයෙකු ඉදිරිපත් කරනවාද නැද්ද යන්න හා වෙනත් අපේක්ෂකයෙකුට සහාය දෙනවාද යන්න හෙට ( 31දා) තීරණය කරන බව ශ්‍රී ලංකා නිදහස් පක්ෂය සඳහන් කරයි. මේ පිළිබඳව සාකච්ඡා කිරීම සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයේ  දේශපාලන මණ්ඩලය, මධ්‍යම කාරක සභාව හා විධායක සභාව අද රැස්වන බවද එම පක්ෂයේ ලේකම් දුමින්ද දිසානායක මහතා සඳහන් කළේය.
+
+අද (30දා) ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයේ පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ බව සඳහන් කළ දුමින්ද දිසානායක මහතා මෙසේද පැවසීය.
+
+...
+
+[Data](articles/dcc2c6dd.json)
 
 ---
 
@@ -2273,57 +2325,5 @@ Nobody has been held accountable for the damage done to the poultry industry. (C
 [Data](articles/34ea9a7a.json)
 
 [Extended Data](ext_articles/34ea9a7a.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 302.20/35 to US dollar
-
-*2024-07-30 10:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-302-20-35-to-us-dollar-174373/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 302.20/35 to the US dollar on Tuesday, dealers said. Bond yields were broadly stable, they said, and stocks opened down 0.25 percent.
-
-In the secondary market, treasury bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted stable at 10.45/55 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.75/90 percent, down from 11.80/12.00 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.95/12.00 percent, up from 11.85/12.00 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.15/30 percent, up from 12.15/25 percent.
-
-In equities, Colombo’s All Share Price Index opened 29.48 points lower at 11,589, while the S&P SL20 of more liquid stocks opened down at 0.42 percent or 14.28 points to 3,354.
-
-◼️
-
-[Data](articles/bdd3f900.json)
-
-[Extended Data](ext_articles/bdd3f900.ext.json)
-
----
-
-### Landslide in Kerala: 20 killed
-
-*2024-07-30 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளவில்-பாரிய-நிலச்சரிவு-20-பேர்-பலி/175-341265) · `ta`
-
-In Kerala, two landslides in Wayanad have resulted in 20 deaths, with over 400 families affected. Rescue efforts are ongoing, but the death toll may rise as more than 400 homes have been damaged. The National Disaster Rescue Force is involved in the rescue operations.
-
-🟩
-
-Work on rescuing more than 400 families is underway, with 20 people being trapped in two successive landslides at Wayanad, Kerala.. In this case, it is feared that the number of casualties will increase further.
-
-Due to the ongoing monsoon in Kerala, the landslide occurred at Mundakkai in Wayanad district at 1 midnight. While rescue operations were underway, the landslide occurred at Sulmalai, 2 km away from there.
-
-20 people have been killed in this landslide. 30 people have been rescued and hospitalized.
-
-More than 400 homes are reported in a landslide. Thus, there are fears that the number of casualties will rise.
-
-National Disaster Rescue Force is actively working to rescue the landslide.
-
-◼️
-
-[Data](articles/009bc8d8.json)
-
-[Extended Data](ext_articles/009bc8d8.ext.json)
 
 ---

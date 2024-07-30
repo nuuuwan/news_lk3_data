@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 09:07:49**
+As of **2024-07-30 09:20:43**
 
 ## Newspaper Stats
 
-*Scraped **37,988** Articles*
+*Scraped **37,989** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 330
 colombotelegraphcom | 362
 newsfirstlk | 363
-bbccomsinhala | 365
+bbccomsinhala | 366
 islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,987 (100.0%) of 37,988 articles have been extended.
+37,988 (100.0%) of 37,989 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -226,17 +226,47 @@ The operation of the Colombo Port has made significant improvement. Colombo port
 
 ---
 
-### தேயிலை உரத்துக்கான மானியம் அதிகரிப்பு
+### ජාත්‍යන්තර මිත්‍රත්ව දිනය : අසනීප වූ මිතුරා අත නොහැර ගිය විහඟ
+
+*2024-07-30 02:17:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg3je39vn2po) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''විහඟ වගේ යාළුවෙක් හමුවුණේ පෙර පිනකට.''
+
+ජාත්‍යන්තර මිත්‍රත්ව දිනය : අසනීප වූ මිතුරා අත නොහැර ගිය විහඟ
+
+දුකේ දී අතහැර නොයන සැබෑ කළණ මිතුරන් හමුවීම ගැන අපි සතුටු වන්නෙමු.
+
+පාසල් සිසුන්ට ආදර්ශයක් වූ එවන් කළණ මිතුරු ඇසුරක් ගැන කුලියාපිටිය අධ්‍යාපන කලාපයේ, පඬුවස්නුවර දෙමටව මහා විද්‍යාලයෙන් අසන්නට ලැබිණි.
+
+සාමාන්‍ය පෙළ විභාගය සමත්වීම නිසා මිතුරන් වෙනත් පාසල් වෙත ගිය ද අසනීප තත්ත්වයෙන් පසුවන මිතුරාට උපකාර කිරීම සඳහා එක් සිසුවෙකු පමණක් උසස් පෙළ පංතියේ රැඳුණු බව දෙමටව මහා විද්‍යාලයේ විදුහල්පති ඩි.එම්.සරත් දිසානායක BBC සිංහල සේවයට පැවසුවේය.
+
+විහඟ සත්සර සිසුවා වසර හයකට වැඩි කාලයක් රෝගී තත්ත්වයෙන් පසුවන මිතුරාට උපකාර කිරීම මෙන්ම , ඔහු සිය මව සහ නැගණිය රැකබලා ගනිමින් ඉතා දිරිමත්ව ජීවිතයට මුහුණ දීම ගැන බොහෝ දෙනාගේ පැසසුමට ලක්ව තිබේ.
+
+අදට යෙදෙන (ජූලි 30) ජාත්‍යන්තර මිත්‍රත්ව දිනය නිමිත්තෙන් අපි ඒ කළණ මිතුරා සොයා ගියෙමු.
+
+◼️
+
+[Data](articles/fd8f822b.json)
+
+---
+
+### Increase subsidy for tea fertilizer
 
 *2024-07-30 02:12:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலை-உரத்துக்கான-மானியம்-அதிகரிப்பு/175-341259) · `ta`
 
-தேயிலை பயிர்ச்செய்கைக்கான உர மானியமாக அரசாங்கம் வழங்கத் தீர்மானித்த 2,000 ரூபா தொகையை 4,000 ரூபாவாக அதிகரிக்க விவசாய மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சு தீர்மானித்துள்ளது.
+The Ministry of Agriculture and Plantation Industries plans to boost tea production by increasing subsidies from Rs. 2,000 to an undisclosed higher amount, aimed at supporting tea cultivators.
 
-தேயிலை பயிர்ச்செய்கையாளர்களை ஊக்குவிப்பதற்காக 2,000 ரூபா மானியம் வழங்குவதற்கு முன்னர் தீர்மானிக்கப்பட்ட போதிலும், தேயிலை உற்பத்தியை அதிகரிக்க அந்தத் தொகை போதுமானதாக இல்லை எனக் கண்டறியப்பட்டுள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சு தெரிவித்துள்ளது.
+🟩
+
+The Ministry of Agriculture and Plantation Industries has decided to increase the amount of Rs.
+
+The Ministry of Agricultural and Plantation Industries said that the amount was found to be increased to increase tea production, though it was decided before a subsidy of 2,000 rupees to promote tea cultivators.
 
 ◼️
 
 [Data](articles/bd5de524.json)
+
+[Extended Data](ext_articles/bd5de524.ext.json)
 
 ---
 
@@ -2207,31 +2237,5 @@ That will be the next challenge for Athapaththu and Sri Lanka, but the experienc
 [Data](articles/134cf06f.json)
 
 [Extended Data](ext_articles/134cf06f.ext.json)
-
----
-
-### Avissawella's larler floods to be flooded in a lorry
-
-*2024-07-29 15:45:10* · [`adalk`](https://www.ada.lk/breaking_news/අවිස්සාවේල්ල-පුවක්-පිටියේ-ලොරියක්-පොලීසියේ-දෙදෙනෙක්-යට-කරගෙන-ප්‍රපාතයකට-පෙරලෙයි/11-411070) · `si`
-
-In Avissawella, a fatal accident involving a lorry, a motorbike, and two policemen occurred. The deceased, identified as a police sergeant from the Homagama Police, was returning to work when the incident happened. Another policeman was seriously injured. Investigations continue.
-
-🟩
-
-A Avissawella footage pimpliya Piyagamuwa Piyawanara Lorry and two policemen traveled by two policemen, Hanwella police say that a constable has been seriously injured.
-
-The deceased has been identified as Dharmasiri Police Sergeant at Hanwella Sub Unit of the Homagama Police at Homagama Police.
-
-The motorcycle was to go back to the motorcycle to see the deceased sergeant as was going to work with the constable.
-
-Sergeant has died in the accident and has been admitted to Avissawella hospital for treatment, the two feet of the constable
-
-Hanwella Police are conducting further investigations into the accident and motorcycle.
-
-◼️
-
-[Data](articles/4dcf665e.json)
-
-[Extended Data](ext_articles/4dcf665e.ext.json)
 
 ---

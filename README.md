@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 20:55:03**
+As of **2024-07-30 21:05:46**
 
 ## Newspaper Stats
 
-*Scraped **38,108** Articles*
+*Scraped **38,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,413
 tamilmirrorlk | 4,725
 dailymirrorlk | 4,733
 virakesarilk | 6,011
-adaderanasinhalalk | 6,415
+adaderanasinhalalk | 6,416
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,108 (100.0%) of 38,108 articles have been extended.
+38,108 (100.0%) of 38,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### පොහොට්ටුවේ තීරණයට ප්‍රමිතගෙන් සැර ප්‍රතිචාරයක්
+
+*2024-07-30 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199385) · `si`
+
+පොදුජන පෙරමුණ ජනාධිපති අපේක්ෂකයා සම්බන්ධයෙන් ගනු ලැබූ තීරණය නාට්‍යයක් බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+දේශපාලන මණ්ඩලය විසින් ගනු ලැබු තීරණයක් ලෙස එය ප්‍රකාශ කළ එය කිහිපදෙනෙකුගේ අවශ්‍යතාවය මත ගත් තීරණයක් බව ද ඒ මහතා පැවසීය.
+
+"ඊයේ ගත්තු දේශපාලන මණ්ඩලයේ තීන්දුව අපට සම කරන්න පුළුවන් වෙන්නේ 2022 මැයි 9 වනදා කොළඹ සෙනඟ ගෙනල්ලා අරගලයට ගැහන්න ගත්ත තීන්දුව හා සමානයි ඊයේ ගත්ත තීන්දුව. ඒ තීන්දුව ගත්තේ මහපොළව ගැන අවබෝධයක්,﻿ දැනුමක්, සංවේදීත්වයක් නොමැතිව. එම තීන්දුව පුද්ගලික, ආත්මාර්ථකාමී, ව්‍යසනකාරී තීන්දුවක් ලෙස අපි සලකනවා. පොදුජන පෙරමුණ රටට පෙර, පාක්ෂිකයාට පෙර පුද්ගලික න්‍යාය පත්‍රයකට අනුව තීන්දු ගැනීම ගැන කනගාටුව ප්‍රකාශ කරනවා."
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන තවත් රාජ්‍ය අමාත්‍යවරුන් කිහිපදෙනෙක්ද ඉදිරි ජනාධිපතිවරණයේ වත්මන් ජනාධිපතිවරයාට සහාය පළ කරන බවට අද නිවේදනය කළේය.
+
+මේ අතර ඉදිරි ජනාධිපතිවරණයේ දී වත්මන් ජනාධිපතිවරයාට සහාය පළ කිරීමට අද රැස්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් බල මණ්ඩලය තීරණය කර තිබේ.
+
+...
+
+[Data](articles/48f999e1.json)
+
+---
 
 ### Chamindu to Chamindu 20 Champs - Views away
 
@@ -2315,33 +2335,5 @@ Minister of External Affairs, Labor and External Affairs and the Combined Motion
 [Data](articles/2c674c77.json)
 
 [Extended Data](ext_articles/2c674c77.ext.json)
-
----
-
-### Road accidents - more deaths
-
-*2024-07-30 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199360) · `si`
-
-In the past 24 hours, four fatalities and one serious injury occurred in road accidents across Uppinley, Welipenna, Kegalle, and Meetiyagoda. A 39-year-old motorcyclist was critically injured, a 62-year-old woman died after being run over by a lorry, a 66-year-old motorcyclist was killed when his bike burst into flames, and a 78-year-old man was hospitalized after an accident.
-
-🟩
-
-Four persons were killed in road accidents in several areas in the last 24 hours.
-
-Police said that the accidents occurred in Uppinley, Welipenna, Kegalle and Meetiyagoda.
-
-The 39-year-old motorcyclist was seriously injured and admitted to the Trincomalee Hospital with a motorcycle hit by a rider in the Uppallavel area.
-
-The 62-year-old woman traveled by a lorry in the Welipenna Liwanduwa Junction area.
-
-Meanwhile, 66-year-old motorcyclist killed a motorbike that had erupted in the road in the BCana area in Kegalle.
-
-The 78-year-old man traveled by the road in Meetiyagoda has been treated at the Balapitiya Hospital while he was treated at the Balapitiya Hospital.
-
-◼️
-
-[Data](articles/5a640195.json)
-
-[Extended Data](ext_articles/5a640195.ext.json)
 
 ---

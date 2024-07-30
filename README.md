@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 02:05:43**
+As of **2024-07-31 02:20:49**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 6,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,134 (100.0%) of 38,136 articles have been extended.
+38,136 (100.0%) of 38,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### “ரணிலை சந்தித்தவர்கள் என்னையும் சந்தித்தனர்”
+### "Those who met Ranil met me"
 
 *2024-07-31 00:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்தவர்கள்-என்னையும்-சந்தித்தனர்/175-341317) · `ta`
 
-ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக சென்ற சிலர் தனது வீடுகளுக்கு வந்து ஆதரவு தெரிவித்ததாக  ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa, the National Organizer of the Sri Lanka Peoples Alliance, mentioned that individuals supporting Ranil Wickremesinghe visited his home. He highlighted that such occurrences are common for the elderly, including his father, former President Mahinda Rajapaksa. Despite these visits, they remain committed to protecting their political factions, particularly opposing the United National Party. Rajapaksa also addressed the public's anticipation due to his absence from the presidential election, noting that some might exploit this situation for their own purposes.
 
-கொழும்பில் செவ்வாய்க்கிழமை (30) காலை இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு விசேட கருத்து வெளியிடும் போதே நாமல் ராஜபக்ஷ மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-இளைஞர்களுக்கு இவ்வாறான விடயங்கள் விசேஷமானவை எனினும் எனது தந்தை, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ போன்ற முதியவர்களுக்கு இவ்வாறான விடயங்கள் சகஜம் என தெரிவித்த  நாமல் ராஜபக்ஷ, தான் பிரதிநிதித்துவப்படுத்தும் அரசியல் முகாம்களை பாதுகாப்பதற்காக செயற்படுவதாகவும் குறிப்பிட்டார்.
+The National Organizer of the Sri Lanka Peoples Alliance (PA) Namal Rajapaksa said that some people who went to support Ranil Wickremesinghe came to his homes.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன ஆரம்பிக்கப்பட்ட காலத்திலிருந்து ஐக்கிய தேசியக் கட்சிக்கு எதிரான முகாமில் இருப்பதால், ஐக்கிய தேசியக் கட்சிக்கு எதிரான வரலாற்று ரீதியான எதிர்ப்பை அது தொடர்ந்தும் பிரதிநிதித்துவப்படுத்தும் என்றார்.
+Namal Rajapaksa made this statement while addressing the media after attending an event in Colombo on Tuesday morning.
 
-...
+Namal Rajapakse said that such issues are normal for the elderly for my father and former President Mahinda Rajapaksa, but they are working to protect the political camps he represents.
+
+He said it would continue to represent historical opposition against the United National Party, since the Sri Lanka PA was in the camp against the United National Party.
+
+He said that he was bargaining with the public because of his absence of the presidential election and that some people are ready to use this opportunity as a chance of gathering.. Remble
+
+◼️
 
 [Data](articles/33212586.json)
+
+[Extended Data](ext_articles/33212586.ext.json)
 
 ---
 
@@ -130,19 +138,27 @@ Since ancient times, our country's social organization has been built on Buddhis
 
 ---
 
-### இணையத்தள ஊடாக வியாபார பதிவுகளை ஆரம்பிக்க துரித நடவடிக்கை எடுக்கப்படும் - பி.எஸ்.எம். சார்ள்ஸ்
+### Steps will be taken to start business records through the Internet- BSM. Charles
 
 *2024-07-30 23:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189849) · `ta`
 
-இணையத்தள ஊடாக வியாபார பதிவுகளை (Online Business Registration) ஆரம்பிக்க துரித நடவடிக்கை எடுக்கப்படும் என வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் அவர்கள் தெரிவித்துள்ளார்.
+The Northern Province Governor, Charles, announced plans to expedite the launch of online business registration via the Internet Business Service Model (BSM). A meeting discussed challenges in registering small businesses, emphasizing the need for digitalization and swift implementation. The Governor urged for improvements in infrastructure and legal actions against non-compliant public institutions. Additionally, concerns about foreign children receiving allowances were addressed, with measures underway to resolve these issues.
 
-சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் மற்றும் ஆளுநர் ஆகியோரின் தலைமையில், ஆளுநர் செயலக கேட்போர் கூடத்தில் செவ்வாய்க்கிழமை (30) விசேட கலந்துரையாடல் நடைபெற்றது.
+🟩
 
-வடக்கு மாகாண பிரதம செயலாளர் எல்.இளங்கோவன், யாழ் மாவட்ட பதில் அரசாங்க அதிபர் எம்.பிரதீபன், ஆளுநரின் உதவிச் செயலாளர், சமுர்த்தி ஆணையாளர் நாயகம் மற்றும் யாழ் மாவட்டத்தில் சேவையாற்றும் பிரதேச செயலாளர்கள் உள்ளிட்ட பலர் இந்த கூட்டத்தில் கலந்து கொண்டனர்.
+Governor of the Northern Province BSMM says that speedy steps will be taken to launch the online business registration through the Internet.. Charles said.
+
+A special discussion was held on Tuesday (30) at the Governor's Secretariat Auditorium under the leadership of Social Empowerment Minister Anubha Paskol and Governor.
+
+Northern Province Chief Secretary L. Ilangovan, Jaffna District Response Government Agent M. Pradeepan, Governor's Assistant Secretary, Samurdhi Commissioner General and Divisional Secretaries in the Jaffna District were also present.
+
+Discussions on issues found in the business registration of those who are engaged in small business ventures. The governor said that it is the best activity to introduce an online business registration to carry out business records without delay, and that steps are being taken to start the operation in the Northern Province speedy.. He also said that digitalization of public services is also necessary.
 
 ...
 
 [Data](articles/9ead1f25.json)
+
+[Extended Data](ext_articles/9ead1f25.ext.json)
 
 ---
 

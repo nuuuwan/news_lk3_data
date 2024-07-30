@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 11:56:08**
+As of **2024-07-30 12:09:08**
 
 ## Newspaper Stats
 
-*Scraped **38,013** Articles*
+*Scraped **38,015** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 330
 colombotelegraphcom | 362
 newsfirstlk | 363
-bbccomsinhala | 366
+bbccomsinhala | 367
 islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
@@ -20,17 +20,29 @@ adaderanalk | 4,404
 tamilmirrorlk | 4,708
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,396
+adaderanasinhalalk | 6,397
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,011 (100.0%) of 38,013 articles have been extended.
+38,013 (100.0%) of 38,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### පොහොට්ටුවේ අනුරාධපුර දිස්ත්‍රික් කමිටුවේ සහාය රනිල් ට
+
+*2024-07-30 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199364) · `si`
+
+එළැඹෙන ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට සහාය දීමට ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් කමිටුව තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/d4d4ada1.json)
+
+---
 
 ### S.M. Chandrasena pledges support to President Ranil
 
@@ -41,6 +53,8 @@ At the Sri Lanka Podujana Peramuna (SLPP) Anuradhapura District Committee meetin
 ◼️
 
 [Data](articles/6ccdff9c.json)
+
+[Extended Data](ext_articles/6ccdff9c.ext.json)
 
 ---
 
@@ -61,6 +75,8 @@ Local news channel Asianet TV said as many as 41 people died after the landslide
 ...
 
 [Data](articles/f0c9b76b.json)
+
+[Extended Data](ext_articles/f0c9b76b.ext.json)
 
 ---
 
@@ -709,6 +725,20 @@ From time to time in the rest of the island.. The Department of Meteorology anno
 [Data](articles/3945b5c0.json)
 
 [Extended Data](ext_articles/3945b5c0.ext.json)
+
+---
+
+### ඉදිරි ජනාධිපතිවරණයේදී ඡන්දදායකයින් ලක්ෂ 7කට ඡන්දවරම් අහිමි වෙයි ද?
+
+*2024-07-30 04:34:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4ngld3q1y4o) · `si`
+
+මැතිවරණ දිනය ප්‍රකාශයට පත් කිරීමටත් ප්‍රථම ඇරඹි ජනාධිපතිවරණ උණුසුම තවත් තීව්‍ර කරමින් පසුගිය සතියේ දී මැතිවරණ කොමිසම විසින් 2024 ජනාධිපතිවරණය සැප්තැම්බර් 21 වන දින පැවැත්වෙන බවට නිල වශයෙන් නිවේදනය කරන ලදි. ඒ අනුව මේ වන විට අපේක්ෂකයන් කිහිපදෙනෙකු වෙනුවෙන් ඇප මුදල් තැන්පත් කිරීම සිදු කෙරී ඇති අතර, බොහෝ අපේක්ෂකයන් ජනාධිපතිවරණයටත් ප්‍රථම ආරම්භ කළ සිය පූර්ව ප්‍රචාරක කටයුතු තවත් පුළුල්ව කරගෙන යමින් පවතියි.
+
+ශ්‍රී ලංකාවේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව පරමාධිපත්‍ය බලය ජනතාව වෙත පිහිටා ඇති අතර, එයට පාලකයන් තෝරා පත් කරගැනීම සඳහාවන ඡන්ද අයිතිය ද ඇතුළත් වේ. නමුත් ශ්‍රී ලංකාවේ ඡන්ද ක්‍රමයේ පවතින අඩුපාඩු හේතුවෙන් ඡන්ද බලය හිමි සැලකිය යුතු ඡන්ද හිමියන් සංඛ්‍යාවක් මැතිවරණවල දී අත් හැරෙන බව ඔබ දැන සිටියා ද?
+
+...
+
+[Data](articles/980fa7e1.json)
 
 ---
 
@@ -2195,49 +2225,5 @@ Mr. Sagara Kariyawasam further stated that the present President is not able to 
 [Data](articles/5ae47daa.json)
 
 [Extended Data](ext_articles/5ae47daa.ext.json)
-
----
-
-### Sri Lanka to hold key security units in airport deal with India-Russia consortium
-
-*2024-07-29 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-hold-key-security-units-in-airport-deal-with-india-russia-consortium-174245/) · `en`
-
-ECONOMYNEXT – Sri Lanka will hold key units related to national security and rescue when handing over its Chinese-built airport operations to a consortium between Indian and Russian firms, a top government official said.
-
-The island nation is in the process of handing over the $209 million Chinese-funded airport to a consortium between Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia after it won the contract to manage Mattala Rajapaksa International Airport for 30 years.
-
-The airport was once dubbed the “world’s emptiest airport” because of a lack of flights. It has incurred a loss of 3 billion rupees (US$10 million) annually since it was started in 2013 by former leader Mahinda Rajapaksa, who borrowed heavily for post-war infrastructure in his second tenure of 2010-2015.
-
-The Indian-Russian consortium was chosen despite the United States having informed Sri Lanka government about a US sanction on the key stakeholder of the Moscow firm.
-
-...
-
-[Data](articles/e4ec291f.json)
-
-[Extended Data](ext_articles/e4ec291f.ext.json)
-
----
-
-### A kilo of paddy. 150 demands certified price
-
-*2024-07-29 17:58:26* · [`adalk`](https://www.ada.lk/breaking_news/වී-කිලෝවකට-රු--150ක-සහතික-මිලක්-ඉල්ලයි/11-411072) · `si`
-
-Farmers in Polonnaruwa demand fair prices for their paddy during the Yala season, criticizing low prices offered by private mills. They request government intervention and threaten protests if their demands aren't met. The situation highlights concerns over pricing, government support, and the impact of pests on crop yields.
-
-🟩
-
-Troops of the Government of Polonnaruwa, including a certificate of Rs.A press conference held at the Sevanapitiya Wel Yaywaran morning.
-
-The Yala season is currently being harvested, and the government is not implementing the two private paddy mill owners in the Polonnaruwa District and the government's paddy is at a reasonable prices or fair pricesRepresentatives of the organizations have also requested the government to implement a program.
-
-The press conference was organized by the Chairman of the Mahaweli B Zone Mahaweli Bthnayake and the press conference was organized by the press conference and the representatives of 21 Farmers' organizations came to the occasion.
-
-Age of farmer organizations have also stated that the prices of nadu and sambal has been degraded by the main scale of Kiranara and the price of nadi and sambal.Did.
-
-...
-
-[Data](articles/8aeb067c.json)
-
-[Extended Data](ext_articles/8aeb067c.ext.json)
 
 ---

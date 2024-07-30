@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 18:38:14**
+As of **2024-07-30 18:55:09**
 
 ## Newspaper Stats
 
-*Scraped **38,092** Articles*
+*Scraped **38,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
-adalk | 3,480
-adaderanalk | 4,411
+adalk | 3,482
+adaderanalk | 4,412
 tamilmirrorlk | 4,723
 dailymirrorlk | 4,733
 virakesarilk | 6,008
@@ -26,39 +26,91 @@ adaderanasinhalalk | 6,413
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,076 (100.0%) of 38,092 articles have been extended.
+38,084 (100.0%) of 38,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### ශ්‍රී ලංකා එක්දින සංචිතය නම් කෙරේ - නායකත්වයේ වෙනසකුත්
+### Sri Lanka ODI squad for India series announced
+
+*2024-07-30 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100883/sri-lanka-odi-squad-for-india-series-announced) · `en`
+
+The Sri Lanka Cricket Selection Committee has announced the 16-member squad selected to play in the ODI series of the ongoing India Tour of Sri Lanka 2024.
+
+Charith Asalanka, who captained the team in the T20 series, has also been named captain for the ODI series while Chamika Karunaratne returns to the squad.
+
+The Minister of Sports and Youth Affairs, Harin Fernando, has approved the squad, the SLC said.
+
+The three-match ODI series will be played on the 2nd, 4th and 7th August 2024 at the RPICS, Colombo.
+
+◼️
+
+[Data](articles/cc47e5d6.json)
+
+---
+
+### කාන්තාවන්ගෙන් සියයට 48ක් නියමිත ශරීර බරට වඩා වැඩියි
+
+*2024-07-30 18:34:13* · [`adalk`](https://www.ada.lk/picture_story/කාන්තාවන්ගෙන්-සියයට-48ක්-නියමිත-ශරීර-බරට-වඩා-වැඩියි/10-411098) · `si`
+
+මෙරට වැඩිහිටි ජනගහනයෙන් 42‌‌‍%ක් අධිරුධිර පීඩනයෙන් පෙළෙන අතර රෝගය කල්තබා හඳුනා ගැනීම සහ වළක්වා ගැනීම අත්‍යවශ්‍යව ඇතැයි සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා අවධාරණය කළේය.
+
+ඔහු මේ බව සඳහන් කර සිටියේ ‘තෙවන ඇසට සුවය සදමු’ යන මැයෙන් විජය පුවත්පත් සමාගමේ කාර්යමණ්ඩලය සඳහා ඊයේ (30දා) පැවති සෞඛ්‍ය සායනය ආරම්භ කරමිනි.
+
+එසේම මෙරට කාන්තාවන්ගෙන් 48%ක් නියමිත ශරීර බර ප්‍රමාණයට වඩා වැඩි බවත් පිරිමින්ගේ එම ප්‍රතිශතය33.3%ක් වන බවත් එහිදී පෙන්වා දුන් ලේකම්වරයා, බෝ නොවන රෝග සඳහා ප්‍රධානතම හේතුව වී ඇත්තේ පුද්ගල ආහාර රටාව වන බවද පෙන්වා දුන්නේය.
+
+ඒ අනුව මේ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින් මහීපාල මහතා සඳහන් කර සිටියේ,
+
+“සුව අරමුණු කරා ජනතාව ගෙන යාමේදී මාධ්‍යවේදීන්ට හිමිවන්නේ වැදගත් ස්ථානයක්. අපි ඊට දක්වන කෘතවේදීතාව තමයි මේ සායනය හරහා දක්වන්නේ. විජය පුවත්පත් සමාගම මින් පෙරද මෙවැනි සායන සංවිධානය කර සමාජීය වශයෙන් මෙහෙවර ඉටුකර තිබෙනවා. ඒ පිළිබඳ අපේ කෘතවේදීත්වය දක්වා සිටිනවා.” යනුවෙනි.
+
+...
+
+[Data](articles/e609fac8.json)
+
+---
+
+### Sri Lanka is named after Leadership
 
 *2024-07-30 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199382) · `si`
 
-ශ්‍රී ලංකා හා ඉන්දියාව අතර පැවැත්වෙන තරග තුනකින් සමන්විත එක්දින තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය නම් කර තිබේ.
+Sri Lanka's cricket team was named for a series against India, approved by Sports Minister Harin Fernando. Matches will be held at the Colombo R Premadasa Stadium on August 2nd, 4th, and 7th.
 
-ක්‍රීඩකයින් 16 දෙනෙකුගෙන් සමන්විත ඒ සංචිතය සඳහා ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතාගේ අනුමැතිය හිමිවූ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කරයි.
+🟩
 
-දෙරට අතර, තරග තුනකින් සමන්විත එක්දින තරගාවලිය අගෝස්තු 2,4 සහ 7 වන දා යන දිනවලදී කොළඹ ආර් ප්‍රේමදාස ක්‍රීඩාංගණයේ දී පැවැත්වේ.
+The Sri Lankan squad has been named for the three-match series of Sri Lanka and India.
+
+Sri Lanka Cricket (SLC) announced that Sports Minister Harin Fernando received the approval of Sports Minister Harin Fernando for the incident.
+
+Among the two categories, between the two matches will be held at the Colombo R Premadasa Stadium on August 2,4 and 7th.
 
 ◼️
 
 [Data](articles/b89fe4f9.json)
 
+[Extended Data](ext_articles/b89fe4f9.ext.json)
+
 ---
 
-### தேர்தல் விஞ்ஞாபனத்தை இன்று வெளியிடுகிறது மக்கள் போராட்ட முன்னணி
+### People's struggle leads to releases election manifesto today
 
 *2024-07-30 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189836) · `ta`
 
-'அரகலய' போராட்டத்தின் முன்னணி செயற்பாட்டாளர்கள் இணைந்து உருவாக்கிய மக்கள் போராட்ட முன்னணியின் சார்பில் இம்முறை ஜனாதிபதித்தேர்தலில் வேட்பாளர் ஒருவர் களமிறங்கவுள்ள நிலையில், அவர்களது தேர்தல் விஞ்ஞாபனம் 30ஆம் திகதி செவ்வாய்க்கிழமை வெளியிடப்படவுள்ளது.
+The People's Movement Front, led by activists from the 'Arakalaya' struggle, will release its election manifesto on Tuesday, 30th, ahead of the 9th Presidential Elections on September 21. The manifesto outlines plans to address the economic crisis, restructure the state, and focus on people-centric policies. It promises a political solution for the Tamil community and aims to advance national welfare.
 
-9 ஆவது ஜனாதிபதித்தேர்தல் எதிர்வரும் செப்டெம்பர் மாதம் 21 ஆம் திகதி நடாத்தப்படுமென தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ள நிலையில், கடந்த 2022 ஆம் ஆண்டு பொருளாதார நெருக்கடியை அடுத்து கொழும்பு, காலிமுகத்திடலைத் தளமாகக்கொண்டு நாடளாவிய ரீதியில் எழுச்சியடைந்த 'அரகலய' என அறியப்படும் போராட்டத்தின் முன்னணி செயற்பாட்டாளர்கள் ஒன்றிணைந்து உருவாக்கிய மக்கள் போராட்ட முன்னணியின் சார்பில் சட்டத்தரணியும், மனித உரிமைகள் செயற்பாட்டாளருமான நுவன் போபகே வேட்பாளராகக் களமிறங்கவுள்ளார்.
+🟩
+
+The election manifesto will be released on Tuesday, the 30th, with a candidate in the presidential election on behalf of the People's Movement Front formed by the leading activists of the 'Arakalaya' struggle.
+
+As the Elections Commission announced that the 9th Presidential Elections will be held on September 21, the Human Rights Leaders of the Ceylon Operations of the Ceylon Operations of the Ceylon Operations of the Census of the Ceylon, known as the 'Arakalaya', which was raised in Colombo and Galle Falls, in the wake of the economic crisis in 2022.He will be the candidate.
+
+"We will contest the election with the policy of the people who are responsible for the economic crisis and the accomplice of the country's economic crisis in 2022.
 
 ...
 
 [Data](articles/8b2ff903.json)
+
+[Extended Data](ext_articles/8b2ff903.ext.json)
 
 ---
 
@@ -92,21 +144,29 @@ Meanwhile, the international media reported that Sri Lanka's former Sri Lanka ca
 
 ---
 
-### நாட்டைப் பற்றி சிந்திக்கும் அனைவரும் ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிப்பர்! - ரோஹன திஸாநாயக்க
+### All those who think about the country will support Ranil Wickremesinghe in the presidential election!-Rohana Dissanayake
 
 *2024-07-30 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189834) · `ta`
 
-அரசியலுக்கு முன் நாட்டைப் பற்றி சிந்திக்கும் அனைவரும் இந்த ஜனாதிபதித் தேர்தலில் ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிப்பார்கள் என விளையாட்டு மற்றும் இளைஞர் விவகாரங்கள் இராஜாங்க அமைச்சர் ரோஹன திஸாநாயக்க தெரிவித்தார்.
+Rohana Dissanayake, Sports and Youth Affairs Minister, supports Ranil Wickremesinghe for presidency, citing his strong leadership in navigating the country through economic crises. He highlights Wickremesinghe's efforts in saving the nation from economic turmoil, drawing parallels with historical figures who rose to prominence during challenging times. Dissanayake also mentions the government's initiatives in boosting Sri Lanka's sports sector, including renovations for upcoming events and financial support amidst economic challenges.
 
-உலகின் சக்திவாய்ந்த தலைவர்கள் இக்கட்டான காலங்களில் உறுவாவதாக சுட்டிக்காட்டிய இராஜாங்க அமைச்சர், கடந்தகாலத்தில் நிலவிய கடுமையான பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்பதில் வலுவான தலைமைத்துவத்தின் பண்புகளை ஜனாதிபதி
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (30) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ரோஹன திஸாநாயக்க இதனைத் தெரிவித்தார்.
+Sports and Youth Affairs Minister Rohana Dissanayake said that all those who think about the country before politics will support Ranil Wickremesinghe in this presidential election.
 
-“2022 இல் ஏற்பட்ட பொருளாதார நெருக்கடியால் மக்கள் அனைவரும் பாதிக்கப்பட்டனர். அந்த பாதிப்பிலிருந்து மக்களைக் காப்பாற்ற எந்தத் தலைவரும் முன்வரவில்லை. ஆனால் தற்போதைய ஜனாதிபதி ஒரேயொரு பாராளுமன்ற ஆசனத்துடன் மக்களுக்காக முன் வந்தார்.
+Pointing out that the powerful leaders of the world are in trouble, the Minister of State, the President said, "The President has the characteristics of strong leadership in recovering the country from the severe economic crisis in the past.
+
+State Minister Rohana Dissanayake made this statement at a media briefing held at the Presidential Media Center on Tuesday (30).
+
+“All people were affected by the economic crisis in 2022. No leader has come forward to save people from that impact. But the current president came forward for the people with only one parliamentary seat.
+
+By then, the country's economy is currently recovering from the action taken. Former President Mahinda Rajapakse saved the country from the terrorist war and the current President Ranil Wickremesinghe saved the country from the economic war.
 
 ...
 
 [Data](articles/799bcc0b.json)
+
+[Extended Data](ext_articles/799bcc0b.ext.json)
 
 ---
 
@@ -132,21 +192,31 @@ Delivering the verdict, the judge sentenced the accused to death stating that th
 
 [Data](articles/d70a4ae1.json)
 
+[Extended Data](ext_articles/d70a4ae1.ext.json)
+
 ---
 
-### 2024 முதல் 5 மாதங்களில் வரவு செலவுத் திட்ட பற்றாக்குறை 64% ஆக குறைந்துள்ளது - ரஞ்சித் சியம்பலாபிட்டிய
+### Budget deficit decreased to 64% from 2024 to 5 months - Ranjith Siyambalapitiya
 
 *2024-07-30 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/189820) · `ta`
 
-கடந்த வருடத்தின் முதல் ஐந்து மாதங்களுடன் ஒப்பிடுகையில், இந்த வருடத்தின் முதல் ஐந்து மாதங்களில் வரவு செலவுத் திட்ட பற்றாக்குறை 63.8 சதவீதம் குறைந்துள்ளதாக நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya announced a significant reduction in the budget deficit by 63.8% in the first five months of 2024 compared to the same period in 2023, attributing it to effective economic policies. This achievement was highlighted during an event organized by the Customs Department, where 31 leading companies were awarded certificates allowing them to conduct import and export operations without customs checks. The Minister emphasized the importance of the customs sector in meeting the government's revenue targets and contributing to the economy, particularly through vehicle imports which contributed significantly to the national income in 2018 and 2019.
 
-2023ஆம் ஆண்டு மே 31ஆம் திகதிக்கு இடையில் 1,014 பில்லியன் ரூபா வரவுசெலவுத் திட்ட இடைவெளி காணப்பட்டதாக அமைச்சர் சுட்டிக்காட்டினார். மேலும் இந்த வருடத்தின் இதே காலப்பகுதியில் வரவு செலவுத் திட்ட இடைவெளி 366 பில்லியன் ரூபாவாக பதிவாகியுள்ளதாக அவர் குறிப்பிடுகிறார்.
+🟩
 
-முறையான பொருளாதார வேலைத்திட்டத்தின் ஊடாக நாடு முன்னோக்கி நகர்ந்ததன் விளைவாகவே இந்த நிலையை அடைய முடிந்ததாக அவர் வலியுறுத்தினார். அங்கீகரிக்கப்பட்ட பொருளாதார செயற்பாட்டாளர்களுக்கு சான்றிதழ் வழங்குவதற்காக சுங்க திணைக்களத்தினால் ஏற்பாடு செய்யப்பட்டிருந்த நிகழ்வின் பிரதான அதிதியாக கலந்து கொண்டு அமைச்சர் இதனை தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya said the budget deficit declined by 63.8 per cent in the first five months of this year compared to the first five months of last year.
+
+The Minister pointed out that between May 31, 2023, a budget gap of 1,014 billion rupees was found.. He also notes that the budget spacing was 366 billion rupees during the same period this year.
+
+He stressed that the country was able to achieve this as a result of moving forward through the proper economic program. The Minister said this was the main guest of the event organized by the Customs Department to certify the recognized economic activists.
+
+This will provide certificates to 31 leading companies in Sri Lanka and they will be able to carry out their import and export operations without customs tests.. After many years of their import and export surveillance, the opportunity to obtain this certificate has been given.
 
 ...
 
 [Data](articles/6b3d5b45.json)
+
+[Extended Data](ext_articles/6b3d5b45.ext.json)
 
 ---
 
@@ -180,17 +250,25 @@ Declaration of the Order and sentenced the accused to prove the charges beyond t
 
 ---
 
-### நாட்டை வங்குரோத்தாக்கிய பொருளாதார குற்றவாளிகளுக்கு ஜனாதிபதி அடைக்கலம் கொடுத்து வருகிறார் - சஜித் பிரேமதாச
+### The president is taking refuge for economic criminals who made the country - Sajith Premadasa
 
 *2024-07-30 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189819) · `ta`
 
-எமது நாட்டின் பொருளாதாரம், சமூகம், அரசியல், மதம் ஆகிய அம்சங்கள் முற்றாக சீரழிந்து வருகின்றன. நாட்டின் அதியுயர் சட்டமான அரசியலமைப்பை பகிரங்கமாக மீறுவது, அரசியலமைப்புக்கு நாட்டின் ஜனாதிபதி பகிரங்கமாக சவால் விடுவது, ஜனநாயகத்தின் 3 தூண்களுக்குமிடையே இருக்க வேண்டிய தடைகள் மற்றும் சமன்பாடுகள் உட்பட ஒட்டுமொத்த ஜனநாயகக் கட்டமைப்பும் முற்றிலுமாக சீரமிக்கப்பட்டு வருகின்றன. மறுபுறம் பாரிய குற்றச் செயல்களால் ஒட்டுமொத்த சமூகமும் பாரிய நெருக்கடிக்கு உள்ளாகியுள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The president is accused of protecting economic criminals, leading to national decline across sectors. The opposition highlights a crisis due to widespread crimes and challenges to social values and responsibilities. The leader criticizes the president for undermining the law and fostering corruption, setting a poor example for the nation.
 
-பண்டைய காலத்திலிருந்தே, எமது நாட்டின் சமூக அமைப்பு பௌத்த கொள்கைகள் மற்றும் விழுமியங்களை அடிப்படையாகக் கொண்டே கட்டமைக்கப்பட்டு வந்தன. அது தனிமனிதனிடம் தொடங்கி ஒட்டுமொத்த சமூகத்தின் மேற்கட்டுமானம் வரை நீண்டுள்ளது. ஒன்றுக்கொன்று பிணைக்கப்பட்ட பரஸ்பர கடமைகள் எல்லோருக்கும் இருக்கின்றன.
+🟩
+
+The economy, society, politics and religion of our country are completely deteriorating. The entire democratic structure is completely renamed, including the publication of the country's highest legal constitution, the president of the country to publicly challenge the constitution, the obstacles and equations between the 3 pillars of democracy.. On the other hand, the opposition leader said that the entire community was in a state of crisis due to massive crimes.
+
+Since ancient times, our country's social organization has been built on Buddhist policies and values. It extends from the individual to the top of the entire community. Everyone has mutual obligations that have been tied to each other.
+
+The Opposition Leader said that the entire social structure between parents, children, wives, entrepreneurs, employees, friends, ordinary people and religious teachers is tied to mutual duties and responsibilities.
 
 ...
 
 [Data](articles/6f72d8b7.json)
+
+[Extended Data](ext_articles/6f72d8b7.ext.json)
 
 ---
 
@@ -216,33 +294,65 @@ Officers of the Nivithigala Police Station are investigating the attack and the 
 
 ---
 
-### இலங்கை தேசிய தொழிலாளர் சங்கமும், இலங்கை விவசாயிகள் சங்கமும் சங்கமம் – வடிவேல் சுரேஷ்
+### Sri Lanka National Workers Union and Sri Lanka Farmers' Association Society - Vadivel Suresh
 
 *2024-07-30 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/189817) · `ta`
 
-இலங்கை தேசிய தோட்டத் தொழிலாளர் சங்கமும், இலங்கை விவசாயிகள் சங்கமும் இன்று ஒன்றாக சங்கமித்துள்ளன. எனவே, இனிவரும் காலப்பகுதியில் அரசியல் மற்றும் தொழிற்சங்க ரீதியில் இந்த கூட்டணி தீர்மானிக்கும் சக்தியாக விளங்கும் - என்று இலங்கை தேசிய தோட்டத் தொழிலாளர் சங்கத்தின் பொதுச்செயலாளரும், பதுளை மாவட்ட நாடாளுமன்ற உறுப்பினருமான வடிவேல் சுரேஷ் தெரிவித்தார்.
+Vadivel Suresh, General Secretary of the Sri Lanka National Estate Workers Union and Badulla District Parliamentarian, announced a political and trade union coalition between the Sri Lanka National Estate Workers Union and the Sri Lanka Farmers' Association Society. This alliance aims to influence future elections, combining the significant membership of both unions in the Nuwara Eliya district. The coalition plans to address various electoral challenges, marking a significant shift in the region's political landscape.
 
-நுவரெலியாவில் இன்று செவ்வாய்க்கிழமை (30) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் இவ்வாறு கூறினார்.
+🟩
 
-“மலையகத்திலே இன்றைய தினம் பாரிய புரட்சி ஏற்பட்டுள்ளது. அதாவது பாரிய தொழிற்சங்கமான இலங்கை தேசிய தோட்டத் தொழிலாளர் சங்கமும், நுவரெலியா மாவட்டத்தில் மிக கூடுதலான விவசாயிகளைக் கொண்ட பழமையான தொழிற்சங்கமான இலங்கை விவசாயிகள் சங்கமும் ஒன்றாக சங்கமித்துள்ளன.
+Sri Lanka National Plantation Workers Union and Sri Lanka Farmers' Union. Therefore, this coalition will be a political and trade union decision in the future, ”said Vadivel Suresh, General Secretary of the Sri Lanka National Estate Workers Union and Badulla District Parliamentarian.
+
+He said this during a media briefing held in Nuwara Eliya today (30).
+
+“There is a massive revolution in the hill country today. That is, the Sri Lanka National Estate Workers Union, the massive union, and the Sri Lanka Farmers' Association, the oldest union with the largest farmers in the Nuwara Eliya district.
+
+The Sri Lanka Farmers' Association has up to 10 thousand members, and the Sri Lanka National Estate Workers Union has two lakhs and 3 lakh members in 11 districts.So, the vote bank is at our disposal. This is a massive revolution. We have decided to act as a coalition. Members of the Sri Lanka Farmers' Association, Madhavan Suresh, have complied.
 
 ...
 
 [Data](articles/7f51bc16.json)
 
+[Extended Data](ext_articles/7f51bc16.ext.json)
+
 ---
 
-### பொலிஸ்மா அதிபர் தொடர்பான சர்ச்சை தீவிரமடைய அனுமதிக்கக்கூடாது
+### The controversy relating to the policeman may not be allowed to intensify
 
 *2024-07-30 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/189830) · `ta`
 
-இலங்கையின் ஜனநாயகத்தைப் பொறுத்தவரை,  முக்கியமானதாக நோக்கப்படுகின்ற ஒரு சர்ச்சையின் மத்தியில் பொலிஸ்மா அதிபர் சிக்கிக்கொண்டுள்ளார். அவரது நியமனத்துக்கு எதிராக தாக்கல் செய்யப்பட்டிருக்கும் சகல அடிப்படை உரிமைகள் மனுக்கள் மீதான விசாரணைகள் முழுமையாக  முடியும்வரை, பொலிஸ் தலைவராக அவர் செயற்படுவதை தடுத்து உயர்நீதிமன்றம் இடைக்கால தடையுத்தரவு பிறப்பித்திருக்கிறது.
+A controversy surrounds the appointment of the Sri Lankan police chief, Tennakoon, amid concerns about democracy and the rule of law. Despite a Supreme Court injunction against his appointment due to past human rights violations and a controversial promotion, the government supports his continued service. This stance challenges the separation of powers and judicial review, potentially undermining public trust in the legal system.
 
-தேசபந்து தென்னக்கோன் மீதான அந்த இடைக்கால தடையுத்தரவின் பிரகாரம்  நடவடிக்கை  எடுப்பதில்லை என்ற தீர்மானத்தை அரசாங்கம் அறிவித்திருப்பது சட்டத்தை மதிக்கும் மக்களுக்கு அதிர்ச்சியை ஏற்படுத்தியிருக்கிறது. நாட்டின் அதியுயர் நீதிமன்றம் இத்தகைய ஒரு உத்தரவை பிறப்பித்திருக்கின்ற போதிலும், பொலிஸ்மா அதிபர் தனது பதவியில் தொடருவார் என்று அரசாங்கம் அறிவித்திருப்பது சட்டத்தினால் ஆளப்படும் ஒரு சமுதாயத்துக்கு ஏற்புடையதல்ல.  ஜனநாயகத்துக்கு ஏற்பட்டிருக்கும் அச்சுறுத்தலை குறைத்து மதிப்பிடமுடியாது.
+🟩
+
+As for the democracy of Sri Lanka, the police chief is trapped in the midst of a controversy that is important. The Supreme Court has issued an interim injunction, preventing his act as police chief, until he is fully investigated on all fundamental rights petitions filed against his appointment.
+
+The government's announcement that the government will not take action in accordance with the interim injunction on Tennakoon has shocked the law respected people.. Although the country's highest court has issued such an order, the government's announcement that the Inspector General of Police will continue in his post is not in accordance with a society that ruled by law.The threat of democracy cannot be underestimated.
+
+Addressing the parliament, Prime Minister Dinesh Gunawardena announced that the High Court could not change the approval given by the Constitutional Council to appoint the current police chief and that he would continue in his post.
 
 ...
 
 [Data](articles/41fb6139.json)
+
+[Extended Data](ext_articles/41fb6139.ext.json)
+
+---
+
+### නොසැලිමත් විශේශඥ දොස්තරට හා රෝහලට ලක්ෂ 30ක වන්දි ගෙවන්න නියෝග
+
+*2024-07-30 17:34:22* · [`adalk`](https://www.ada.lk/breaking_news/නොසැලිමත්-විශේශඥ-දොස්තරට-හා-රෝහලට-ලක්ෂ-30ක-වන්දි-ගෙවන්න-නියෝග/11-411095) · `si`
+
+සිසේරියන් සැත්කමකට ලක් කළ තරුණ කාන්තාවකගේ උදරයේ ‘පුළුන්’ හා ‘ගෝස්’ ගුලි ඉතිරිකර මසා දමා නොසැළකිලිමත් අන්දමින් කටයුතු කර ඇගේ ජීවීතය අනන්තරාදායක තත්වයට පත් කිරීම සම්බන්ධයෙන් සැත්කම කළ විශේඥ වෛද්‍යවරයාට හා ප්‍රසිද්ධ පෞද්ගලික රෝහලකට රුපියල් ලක්‍ෂ 30ක වන්දියක් ගෙවීමට කොළඹ ප්‍රධාන දිසා විනිසරු සඳුන් විතාන මහතා අද (30) නියම කළේය.
+
+සැත්කම කළ විශේඥ වෛද්‍යවරයාගේ හා ප්‍රසිද්ධ පෞද්ගලික රෝහලේ නොසැළකිල්ල හේතූවෙන් මාස 05කට අධික කාලයක් තමන්ට විඳීමට වු අනෙක වු දුක් කරදර සඳහා රුපියල් කෝටියක වන්දියක් අයකර දෙන්නැයි ඉල්ලා පැවරූ නඩුව සම්බන්ධයෙන් පවැති දීර්ඝ නඩු විභාගයකින් අනතුරුව පැමිණිලිකාර මවගේ වාසියට තීන්දුව දුන් දිසා විනිසරුවරයා සැත්කම කළ විශේඥ වෛද්‍යවරයා සහ ප්‍රසිද්ධ පෞද්ගලික රෝහල එක්ව පැමිණිලිකාරියට රුපියල් ලක්‍ෂ 30ක වන්දියක් ගෙවීමට නියම කළේය.
+
+කැලණිය දළුගම ජොනික්වත්තේ පදිංචි එම්.සී.ටී.ඩී. පෙරේරා මහත්මිය ගොනු කළ නඩුවක් විභාග කිරරීමෙන් අනතුරුව මෙලෙස වන්දි ගෙවීමට නියම කරන ලද්දේ එම නඩුවේ වගඋත්තරකරුවන් වශයෙන් නම් කර සිටි විශේඥ වෛද්‍ය සී. වර්ණුලසුරිය මහතා සහ කොළඹ 10 නොරිස් කැනල් පාරේ සෙන්ට්‍රල් රෝහලටය.
+
+...
+
+[Data](articles/22a1203f.json)
 
 ---
 
@@ -2153,73 +2263,5 @@ In addition, the public is reported to be in a state of exhibition.
 [Data](articles/688b1bc3.json)
 
 [Extended Data](ext_articles/688b1bc3.ext.json)
-
----
-
-### Woman struggles to discriminate against Grama Niladhari's assistant
-
-*2024-07-30 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189749) · `ta`
-
-A woman protested against discrimination by a Grama Niladhari's assistant in Sri Lanka, alleging unfair distribution of aid and lack of transparency in public meetings. The assistant reportedly favored certain individuals and failed to notify all about these meetings. The woman claimed her complaints were ignored, leading to further protests. She threatened legal action against terrorism prevention units, highlighting systemic issues within the government's support systems.
-
-🟩
-
-In the Nawali North J/134 Grama Niladhari Division, a Grama Niladhari Division was involved in a protest in front of the Grama Sevaka office on Monday (29), who was discriminating against a woman as a Grama Niladhari's assistant.
-
-He accused the coming aid schemes to those who wanted to, and that the public meetings were not notified of socially public organizations, and that the invitation would not be pasted in general places, and that the telephone would be known to those who wanted.
-
-He alleged that the complaint was already transferred to the government agency, and that a previous Grama Niladhari had been transferred and the newly arrived village servant was acting according to the woman's opinion.
-
-He also said that the government's livelihoods are discriminated against. While he repeatedly stated that he should not do so, he claims that he would refuse terrorism by a letter to the Terrorism Prevention Unit and called for a revenge.
-
-...
-
-[Data](articles/100a9c97.json)
-
-[Extended Data](ext_articles/100a9c97.ext.json)
-
----
-
-### Two children killed, 9 injured in ‘ferocious’ knife attack, UK police say
-
-*2024-07-30 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100868/two-children-killed-9-injured-in-ferocious-knife-attack-uk-police-say) · `en`
-
-Two children were stabbed to death at a Taylor Swift-themed event in northwest England, and a 17-year-old male suspect was arrested, police said on Monday.
-
-He was held on suspicion of murder and attempted murder. Nine other children were wounded, six of them critically, and two adults were in a critical condition.
-
-“We believe that the adults who were injured were bravely trying to protect the children,” said Chief Constable Serena Kennedy from Merseyside Police.
-
-She said emergency services arriving at the scene found “multiple people, many of whom were children, had been subjected to a ferocious attack and had suffered serious injuries.”
-
-An advertisement posted online described the event as a yoga and dance workshop for children aged between six and 11.
-
-Merseyside Police said the motive for the attack was unclear but it was not believed to be terrorism-related and they were not looking for anyone else in connection with the stabbings.
-
-...
-
-[Data](articles/5fc7daf0.json)
-
-[Extended Data](ext_articles/5fc7daf0.ext.json)
-
----
-
-### Group of SLPP Ministers and MPs express support to President Ranil
-
-*2024-07-30 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100869/group-of-slpp-ministers-and-mps-express-support-to-president-ranil) · `en`
-
-Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their own candidate in the upcoming Presidential election, a group of SLPP MPs and Ministers have expressed their support for President Ranil Wickremesinghe.
-
-Posting on ‘X’ (formerly Twitter), State Minister Pramitha Bandara Tennakoon stated that he will continue to support the president who saved the country, regardless of the SLPP politburo’s decision.
-
-“Immaterial of the decision made by the political bureau of SLPP, together with the majority of parliamentary members, I will continue to support President Ranil Wickremesinghe in the upcoming presidential election, who rescued the country at the most crucial time,” Tennakoon said.
-
-Similarly, State Minister of Finance Shehan Semasinghe also expressed his support for President Wickremesinghe on X.
-
-...
-
-[Data](articles/eae48b45.json)
-
-[Extended Data](ext_articles/eae48b45.ext.json)
 
 ---

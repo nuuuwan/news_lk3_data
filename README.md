@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 16:36:01**
+As of **2024-07-30 16:54:08**
 
 ## Newspaper Stats
 
-*Scraped **38,065** Articles*
+*Scraped **38,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
 adalk | 3,478
-adaderanalk | 4,409
+adaderanalk | 4,410
 tamilmirrorlk | 4,720
 dailymirrorlk | 4,733
 virakesarilk | 5,994
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,063 (100.0%) of 38,065 articles have been extended.
+38,065 (100.0%) of 38,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### 42 students hospitalised after wasp attack at school in Kinniya
+
+*2024-07-30 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100880/42-students-hospitalised-after-wasp-attack-at-school-in-kinniya) · `en`
+
+At least 42 students of a school in Kinniya Police division have been admitted to the hospital this morning (30), following a wasp attack.
+
+The wasp attack has occurred after a wasp’s nest which was located on the roof of a school building was disturbed, said Kinniya Police.
+
+A total of 42 students who were injured in the wasp attack have been admitted to the Kinniya Base Hospital while they are reportedly aged between 10 to 15 years.
+
+◼️
+
+[Data](articles/e750bc60.json)
+
+---
 
 ### EC to write to President seeking prompt solution to IGP issue
 
@@ -41,6 +57,8 @@ The Election Commission has decided to write to President Ranil Wickremesinghe u
 ◼️
 
 [Data](articles/6633f4e8.json)
+
+[Extended Data](ext_articles/6633f4e8.ext.json)
 
 ---
 
@@ -432,19 +450,29 @@ These cases have been filed in the Colombo District Court for the purpose of pro
 
 ---
 
-### ආරුක්කු 9 පාලම හා දෙමෝදර රේල් ගැටය උරුම කළමණාකරණ වැඩසටහනට
+### Demaga 9 Bridge and Demodara rail
 
 *2024-07-30 13:57:11* · [`adalk`](https://www.ada.lk/breaking_news/ආරුක්කු-9-පාලම-හා-දෙමෝදර-රේල්-ගැටය-උරුම-කළමණාකරණ-වැඩසටහනට/11-411093) · `si`
 
-ශ්‍රී ලංකා දුම්රිය මාර්ගයේ  ආරුක්කු නවය පාලම සහ දෙමෝදර රේල් ගැටය නව උරුම කළමනාකරණ වැඩසටහනක් යටතේ ආරක්ෂා කෙරේ.මේ වෙනුවෙන් මධ්‍යම සංස්කෘතික අරමුදල, දුම්රිය දෙපාර්තමේන්තුව සහ නාගරික සංවර්ධන අධිකාරිය අතර අවබෝධතා ගිවිසුමක්ද අත්සන් කළේය.
+A MOU was signed between the Central Cultural Fund, Railways Department, and Urban Development Authority, with Prime Minister Dinesh Gunawardena present. This agreement aims to improve the ambulance service and launch a travel management project at the Demodara Railway Station, enhancing tourism and engineering projects in Sri Lanka.
 
-ඇල්ල ආරුක්කු නවය පාලම ආශ්‍රිත ප්‍රදේශයේ සංචාරක කළමනාකරණ ව්‍යාපෘතිය සම්බන්ධයෙන් ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශය, නාගරික සංවර්ධන අධිකාරිය හා මධ්‍යම සංස්කෘතික අරමුදල අතර අවබෝධතා ගිවිසුමක් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් අද (29) දින අග්‍රාමාත්‍ය කාර්යාලයේදී අත්සන් තැබිණි.
+🟩
 
-ලංකාව තුළ ප්‍රථම වරට ජාතික උරුම ස්ථානයක් ආශ්‍රිතව ගිලන් රථ සේවයක් මෙහිදී ආරම්භ කිරීමට නියමිතය. මෙම ව්‍යාපෘතියේ දෙවන පියවර ලෙස දෙමෝදර දුම්රිය ස්ථානය ආශ්‍රිතවද සංචාරක කළමනාකරණ ව්‍යාපෘතියක් ආරම්භ කිරීමට යෝජනා වී ඇත.
+A Memorandum of Understanding (MOU) signed between the Central Cultural Fund, Railways Department and Urban Development Authority (SLTB).
+
+Prime Minister Dinesh Gunawardena (UM) was held at the Prime Minister Dinesh Gunawardena today with the patronage of Prime Minister Dinesh Gunawardena on the patronage of Prime Minister Dinesh Gunawardena on the patronage of the Ministry of Transport and Highways.
+
+Ambulance service in Sri Lanka is to commence. Steps have been made to commence a travel management project in the Demodara Railway Station as a second step in the project.
+
+The Prime Minister said that the Prime Minister said that the tourist hubs would be thankful to develop their tourist attraction. The Prime Minister pointed out that these projects have been highly evaluated in the field of engineering engineering.
+
+Transport Minister Bandula Gunawardena stated that the Ella Odisi, Ratnapura, and the Law, and calypso trains is an important step here.
 
 ...
 
 [Data](articles/76298e06.json)
+
+[Extended Data](ext_articles/76298e06.ext.json)
 
 ---
 
@@ -2265,19 +2293,5 @@ The Sri Lankan High Commissioner to Singapore Senarath Dissanayake joined the ri
 [Data](articles/65153f11.json)
 
 [Extended Data](ext_articles/65153f11.ext.json)
-
----
-
-### Exhibit at International Green Week in Germany
-
-*2024-07-30 00:55:22* · [`dailyftlk`](https://www.ft.lk/business/Exhibit-at-International-Green-Week-in-Germany/34-764902) · `en`
-
-The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) is excited to announce the organisation of a 10-day Sri Lankan Pavilion at the prestigious International Green Week trade fair. Scheduled to take place from 19-28 January 2025, in Berlin, Germany, this trade fair provides an exceptional platform for Sri Lankan businesses and entrepreneurs in the food, beverage, and agriculture industries to present their products on a global stage and engage directly with international consumers.
-
-...
-
-[Data](articles/e8bf80b2.json)
-
-[Extended Data](ext_articles/e8bf80b2.ext.json)
 
 ---

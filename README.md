@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 16:08:25**
+As of **2024-07-30 16:20:33**
 
 ## Newspaper Stats
 
-*Scraped **38,061** Articles*
+*Scraped **38,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
 adalk | 3,477
-adaderanalk | 4,407
+adaderanalk | 4,408
 tamilmirrorlk | 4,720
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,406
+adaderanasinhalalk | 6,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,059 (100.0%) of 38,061 articles have been extended.
+38,061 (100.0%) of 38,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### පියාගේ විමසිලිමත් බව නිසා මාරාන්තික රෝගයෙන් පුතාගේ දිවි බේරෙයි
+
+*2024-07-30 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199375) · `si`
+
+ඉන්දියාවේ කේරළ ප්‍රාන්තයේ වැසියෙක් වන 14 හැවිරිදි අෆ්නන් ජාසිම් සිය නිවස අසල තිබු ජලාශයක පිහිනීම සඳහා ගියේය.
+
+◼️
+
+[Data](articles/65638542.json)
+
+---
+
+### Injunction preventing SLFP from removing Amaraweera and others further extended
+
+*2024-07-30 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/100878/injunction-preventing-slfp-from-removing-amaraweera-and-others-further-extended) · `en`
+
+The Colombo District Court has ordered to further extend the interim injunction order issued preventing the Sri Lanka Freedom Party’s (SLFP) Executive Committee from removing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, until October 9.
+
+The Colombo District Judge Sandun Withana issued this order when a plaint filed by the relevant MPs was taken up today (30).
+
+Petitioners Lasantha Alagiyawanna, Duminda Dissanayake and Mahinda Amaraweera claim that the decision taken by former President Maithripala Sirisena and others to arbitrarily remove them from their positions in the SLFP was completely unlawful.
+
+They have filed these petitions before the Colombo District Court seeking an order to invalidate those decisions of the SLFP executive committee.
+
+...
+
+[Data](articles/6e63be26.json)
+
+---
 
 ### Sri Lanka to change Port City Commission law to boost investments
 
@@ -51,6 +81,8 @@ The Colombo Port City is to be a ‘dollarized’ special economic zone.
 ...
 
 [Data](articles/e1af76f0.json)
+
+[Extended Data](ext_articles/e1af76f0.ext.json)
 
 ---
 
@@ -796,15 +828,21 @@ A special program has been implemented to ensure the speedy distribution of offi
 
 ---
 
-### ක්‍රිකට් අවුල ලිහන නව ක්‍රිකට් ව්‍යවස්ථාව නීතියක් කිරීමට යයි
+### The new cricket constitution to be cricket is to be taken by law
 
 *2024-07-30 12:09:29* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-අවුල-ලිහන-නව-ක්‍රිකට්-ව්‍යවස්ථාව-නීතියක්-කිරීමට-යයි/9-411088) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් මුහුණ දෙන ගැටලු නිරාකරණය කිරීම වෙනුවෙන් ච්‍ත්‍රසිරි කමිටුව විසින් සකස් කර ඇති නව ක්‍රිකට් ව්‍යවස්ථාව විධිමත් ලෙස සම්මත ක්‍රියාත්මක කිරිම සඳහා නව පනත් කෙටුම්පතක් සකස් කිරීමට නිති කෙටුම්පත් සම්පාදකට උපදෙස් දිමට ඉදිරිපත් කළ අමාත්‍ය මණ්ඩල පත්‍රිකාවට අනුමැතිය ලැබී තිබේ.
+A new cricket constitution is set to be established through legal means. The government has approved a cabinet paper to draft a bill aimed at addressing issues within Sri Lanka Cricket, paving the way for its resolution.
+
+🟩
+
+The Cabinet paper has been granted to instruct a new bill to formulate a new bill to resolve the new bill for the establishment of the new Bill to resolve the issues of the Sri Lanka Cricket.
 
 ◼️
 
 [Data](articles/22d01455.json)
+
+[Extended Data](ext_articles/22d01455.ext.json)
 
 ---
 
@@ -2243,45 +2281,5 @@ The SPARK Skilled Youth Entrepreneurship competition, a premier national platfor
 [Data](articles/720d4f8d.json)
 
 [Extended Data](ext_articles/720d4f8d.ext.json)
-
----
-
-### Lanka Hospitals denies social media claims of swine flu patients
-
-*2024-07-30 00:50:11* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Hospitals-denies-social-media-claims-of-swine-flu-patients/34-764900) · `en`
-
-The Management of The Lanka Hospitals Corporation PLC (Lanka Hospitals) yesterday issued the following statement pursuant to the social media reports published on or around 28 July.
-
-There has been an organised attempt by certain individuals acting maliciously to instil fear among the general public by instigating false social media communications to the effect that 200 expatriates tested positive for Swine Flu and are being treated in our hospital.
-
-The Management denies the aforementioned social media publication and further wishes to advise the general public that in 2017 too, a similar publication had been instigated to cause panic and pandemonium in society purportedly raising a similar issue associated with our hospital.
-
-...
-
-[Data](articles/13269981.json)
-
-[Extended Data](ext_articles/13269981.ext.json)
-
----
-
-### President - United People's Power Crime
-
-*2024-07-30 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/189743) · `ta`
-
-Ranil Wickremesinghe, as President, faces criticism over his use of executive powers and handling of legal issues. Tissa Attanayake urges respect for court orders, highlighting concerns about the President's involvement in certain programs. The Election Commission acknowledges the actions of the United People's Power but questions the government's acceptance of related laws. There's debate over the President's participation in foreign employment initiatives and allegations of distorting court orders. The situation underscores tensions between the executive branch and judicial authority, with calls for adherence to the rule of law.
-
-🟩
-
-President Ranil Wickremesinghe uses his executive power. Can't find a solution to the issue that has been filed. The National Organizer of the United People's Power Tissa Attanayake said everyone should respect the court's interim injunction.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Monday (29).
-
-The Election Commission has announced that the universe and the universe carried out by the United People's Power. We have accepted that. But is this law acceptable to the government?Is it okay for the President to participate in a program launched by the Ministry of Foreign Employment in Homagama?Such programs are being carried out by President Ranil Wickremesinghe. எனவே தேர்தல் ஆணைக்குழு இது தொடர்பில் அவதானம் செலுத்த வேண்டும்.
-
-...
-
-[Data](articles/01f9f72d.json)
-
-[Extended Data](ext_articles/01f9f72d.ext.json)
 
 ---

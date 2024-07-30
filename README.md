@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 14:35:50**
+As of **2024-07-30 14:54:47**
 
 ## Newspaper Stats
 
-*Scraped **38,041** Articles*
+*Scraped **38,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,127 @@ dbsjeyarajcom | 330
 colombotelegraphcom | 362
 newsfirstlk | 363
 bbccomsinhala | 367
-islandlk | 2,180
-economynextcom | 2,282
+islandlk | 2,181
+economynextcom | 2,285
 dailyftlk | 2,434
-adalk | 3,473
+adalk | 3,474
 adaderanalk | 4,406
-tamilmirrorlk | 4,713
+tamilmirrorlk | 4,716
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,404
+adaderanasinhalalk | 6,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,041 (100.0%) of 38,041 articles have been extended.
+38,041 (100.0%) of 38,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### කඩුලු රකින ක්‍රීඩිකා අනුෂ්කා සංජීවනී ට පාසලෙන් හරසර
+
+*2024-07-30 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199372) · `si`
+
+ආසියානු කාන්තා ක්‍රිකට් තරගාවලියේ ජය හිමිකරගත් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ, කඩුලු රකින ක්‍රීඩිකා අනුෂ්කා සංජීවනී මීගම ව පිළිගැනීමේ උත්සවයක් හික්කඩුවේ දී පැවැත්වුණි.
+
+අනුෂ්කා පාසල් ගිය හික්කඩුව සුමංගල විද්‍යාලයේ ආදි ශිෂ්‍යයින් විසින් පිළිගැනීමේ උත්සවය සංවිධානය කර තිබුණි
+
+අනුෂ්කාව රිය පෙරහැරකින් හික්කඩුව නගරයේ සිට හික්කඩුව සුමංගල විද්‍යාලයට රැගෙන ආ අතර, හික්කඩුව සුමංගල හිමිගේ පිළිරුවට පුෂ්පෝපහාර දැක්වීමෙන් අනතුරුව ප්‍රදේශයේ භික්ෂූන් වහන්සේලා පිරිත් සජ්ඣායනා කරමින් ඇයට ආශිර්වාද එක්කළහ.
+
+පසුව කෙටි උත්සවයක් පවත්වා ආදි ශිෂ්‍යයින් සහ පාසලේ ශිෂ්‍යයින් එක්ව ඇයට සුබ පැතුම් එක්කළහ.
+
+මේ අවස්ථාවට එක්වූ අනුෂ්කාගේ එකම සහෝදරිය අදහස් පළ කිරීමේ දී සංවේදී වන අයුරු දැකගන්නට ලැබුණි.
+
+ඇය පාසලේ ක්‍රිකට් ක්‍රීඩාව නඟාසිටුවීමට රුපියල් ලක්ෂයක මුදලක් ආදි ශිෂ්‍යය සංගමයට පරිත්‍යාග කළාය.
+
+අනුෂ්කා හික්කඩුව නාරිගම ප්‍රදේශයේ උපත ලබා හික්කඩුව ජයන්ති ප්‍රාථමික විද්‍යාලයෙන් මූලික අධ්‍යාපනය හදාරා, හික්කඩුව ශ්‍රී සුමංගල විද්‍යාලයේ ඉගෙනුම ලබන අතරතුර සීනිගම ගුණ ජය සතුට පදනමෙන් ක්‍රිකට් පුහුණුව ලබා ජාතික කණ්ඩායමට තේරී පත් වී තිබේ.
+
+...
+
+[Data](articles/d33b4242.json)
+
+---
+
+### அதிக உணவளித்ததால் நாய் மரணம்
+
+*2024-07-30 14:25:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-உணவளித்ததால்-நாய்-மரணம்/175-341281) · `ta`
+
+செல்ல நாய்க்கு வரம்பில்லாமல் உணவளித்ததால், நியூசிலாந்தில் பெண் ஒருவருக்கு இரண்டு மாதங்கள் சிறை தண்டனை விதித்து அந்நாட்டு நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+
+குறித்த பெண் அவருடைய நாய்க்கு வரம்பில்லாமல் உணவளித்ததால், அந்த நாய் எடை அதிகமாகி  உயிரிழந்துள்ளது. உயிரிழக்கும் போது அதன் எடை 53 கிலோ இருந்ததாக கூறப்படுகிறது.
+
+விலங்குகள் மீதான வன்கொடுமை தடுப்பு வழக்கறிஞர் நுகையின் சார்பாக அதன் உரிமையாளரை குற்றம் சாட்டி அவருக்கு எதிராக சட்ட நடவடிக்கை எடுக்க தலையிட்டார்.
+
+சிறைத்தண்டனைக்கு கூடுதலாக, உரிமையாளருக்கு அபராதம் விதிக்கப்பட்டதோடு ம் நாய்களை வளர்ப்பதற்கும்  தடை விதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/43c378d0.json)
+
+---
+
+### முட்புதரில்  சிறுமி: இளைஞர்​ கைது
+
+*2024-07-30 14:18:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/முட்புதரில்-சிறுமி-இளைஞர்-கைது/93-341280) · `ta`
+
+சிறுவர் இல்லத்தில் வசிக்கும் சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய குற்றச்சாட்டில் இளைஞனை மொனராகலை பொலிஸார் கடந்த  30  ஆம் திகதி கைது செய்துள்ளனர்.
+
+சிறுவர் இல்லத்தில் இருந்த 15 வயதான சிறுமி, சிறுவர் இல்லத்துக்கு அருகே உள்ள தோட்டத்தில் உள்ள வீடொன்றில் வசிக்கும் 28 வயது இளைஞனுடன் காதல் உறவில் ஈடுபட்டு வந்துள்ளார்.
+
+சிறுவர்கள் இல்லத்தில், அச்சிறுமியை கடந்த 26ம் திகதி காணவில்லை. அதனையடுத்து தேடியபோது,   முட்புதரில்  இளைஞன் ஒருவருடன் இருந்துள்ளார்.
+
+சிறுமி மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். அவ்விளைஞனை பொலிஸார் கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/9eb3a16e.json)
+
+---
+
+### காத்திருந்த இளைஞன் சடலமாக மீட்பு
+
+*2024-07-30 14:06:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/காத்திருந்த-இளைஞன்-சடலமாக-மீட்பு/72-341278) · `ta`
+
+வெளிநாடு செல்ல காத்திருந்த இளைஞன் குளத்திலிருந்து சடலமாக மீட்கப்பட்ட சம்பவமொன்று வடக்கில் இடம்பெற்றுள்ளது.
+
+முல்லைத்தீவு யோகபுரம் மல்லாவி பகுதியை சேர்ந்த ஆனந்தரசா ஜீவன் (வயது 27) என்ற இளைஞன், வெளிநாடு செல்ல காத்திருந்த நிலையில் வவுனிக்குளத்தில் இருந்து செவ்வாய்க்கிழமை (30)  சடலமாக மீட்கப்பட்டுள்ளார்
+
+20 லட்சம் பணத்துடன் யோக புறத்தில் இருந்து பாண்டியன் குளத்திற்கு திங்கட்கிழமை (29) பிற்பகல் சென்ற இளைஞன் இரவு 8.40 வரை நண்பர்களுடன் தொலைபேசியில் உரையாடி உள்ளதாகவும் பின்னர் அவரது தொலைபேசி வேலை செய்யவில்லை என்றும் அறியமுடிகின்றது.
+
+குறித்த இளைஞரின் தொடர்பு கிடைக்காத நிலையில்  அவரது நண்பர்கள் தேடியபோது செவ்வாய்க்கிழமை (30) அதிகாலை 3.00 மணியளவில் பாண்டியன்குளம் குளக்கரையில் மோட்டார் சைக்கிள் இனங்காணப்பட்டுள்ளது.
+
+அதன்பின்னர்  தேடியதை தொடர்ந்து வவுனிக்குளத்தின் மூன்றாவது நீர் சுருங்கையில் (நீர் கொட்டு)  உடலம்  இனங்காணப்பட்டு பிரதேச வாசிகளால் உடலம் மீட்கப்பட்டு வெளியில் எடுக்கப்பட்டது.
+
+...
+
+[Data](articles/14af5c95.json)
+
+---
+
+### Sri Lanka’s second airport idling in off tourism season: official
+
+*2024-07-30 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-second-airport-idling-in-off-tourism-season-official-174438/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s second international airport, in its deep southern district, Mattala airport is in operation without any flights being grounded amid the tourism off season, a top aviation official said.
+
+The island nation is in the process of handing over the $209 million Chinese-funded and built Mattala Airport to a consortium between Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia.
+
+Mattala airport has never made any profit since operations started in 2013, and has incurred a loss of 3 billion rupees annually.
+
+“There are no flights now and our staff is idling,” Athula Kalgetiya, Chairman of state-owned Airport & Aviation Services Sri Lanka Private Ltd told reporters on Monday (29).
+
+“We have to keep the staff because it’s a requirement to run the airport even if there is no flight. So we are losing now also.”
+
+Kalgetiya said the airport was active with 2-3 daily flights in Sri Lanka’s peak tourism season mainly from Ukraine and Russia.
+
+...
+
+[Data](articles/1c7e56d6.json)
+
+---
 
 ### Block against the Sri Lanka Freedom Party
 
@@ -130,6 +232,28 @@ The Anuradhapura District Committee Meeting of the Sri Lanka PA. He said this wh
 
 ---
 
+### Sri Lanka cabinet clears drafting bill for PPP Agency
+
+*2024-07-30 13:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-clears-drafting-bill-for-ppp-agency-174401/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved the drafting of a new law to set up National Agency for Public Private Partnerships, following proposal by President Ranil Wickremesinghe, the state information office said.
+
+The agency will design and manage PPP projects and also co-ordinate with international agencies.
+
+It will identify project where public private partnerships can be implemented.
+
+The PPP Agency requires a legal basis and a legal framework was also needed for the PPP agreements.
+
+The legal draftsman was instructed to draft a law giving effect to the objectives. (Colombo/July30/2024)
+
+◼️
+
+[Data](articles/8c941a2e.json)
+
+[Extended Data](ext_articles/8c941a2e.ext.json)
+
+---
+
 ### Cardione floating in Kala Oya
 
 *2024-07-30 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199368) · `si`
@@ -147,6 +271,26 @@ The police suspect that the person had been killed in a heated argument with a g
 [Data](articles/157e9358.json)
 
 [Extended Data](ext_articles/157e9358.ext.json)
+
+---
+
+### Sri Lanka’s power & energy minister declares support for president
+
+*2024-07-30 13:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-power-energy-minister-declares-support-for-president-174430/) · `en`
+
+ECONOMYNEXT — Power & Energy Minister Kanchana Wijesekara has declared his support for President Ranil Wickremesinghe, becoming the first cabinet minister representing the ruling Sri Lanka Podujana Peramuna (SLPP) to do so.
+
+“I pledge my support to President Ranil Wickremesinghe for the upcoming presidential election. The majority of the SLPP Parliament group will also extend their support to the President to continue the reforms and policy’s towards greater economic stability and the betterment of the country,” Wijesekara tweeted Tuesday July 30 afternoon.
+
+Wijesekara told reporters Monday evening following the party’s decision that a faction of the party to back Wickremesinghe’s candidacy.
+
+“We will try to get the party’s support for president,” said Wijesekara, who had already come out publicly in support of the president.
+
+Wijesekara’s official declaration on Tuesday came after several members of the SLPP defied a decision by the party to not back the president at the forthcoming election.
+
+...
+
+[Data](articles/abe322a5.json)
 
 ---
 
@@ -310,6 +454,28 @@ Lok Sabha Opposition Leader Rahul Gandhi and Congress general secretary Priyanka
 
 ---
 
+### Sri Lanka seeing influenza spread among children: Doctor
+
+*2024-07-30 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeing-influenza-spread-among-children-doctor-174412/) · `en`
+
+ECONOMYNEXT – A pediatric specialist at the Lady Ridgeway Children’s Hospital in Colombo has warned that influenza types A and B and an upper respiratory viral fever are spreading among children in Sri Lanka.
+
+Pediatrician Dr Deepal Perera has urged parents to be aware of flu like symptoms, including fever with headache, cough, cold, sneezing, body aches, difficulty in breathing and vomiting.
+
+“If such symptoms spread quickly in classes and day care centers and homes, this could be a viral disease of the upper respiratory tract or influenza,” Dr Perera said.
+
+A sputum test can check for influenza and if so anti-virals will be administered, he was quoted as saying in a government statement.
+
+“Antibiotics are not necessary as this is a viral infection and if the cough persists, it may lead to childhood asthma, so proper treatment should be given.”
+
+The pediatrician said those with symptoms should wear face masks and that children with symptoms should be kept at home.
+
+...
+
+[Data](articles/946543ab.json)
+
+---
+
 ### Some MPs who met President met me yesterday
 
 *2024-07-30 12:29:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හමුවූ-ඇතැම්-මන්ත්‍රීවරු-ඊයේ-රෑම-මාව-හමුවුණා/11-411089) · `si`
@@ -434,25 +600,23 @@ Local news channel Asianet TV said as many as 41 people died after the landslide
 
 ---
 
-### Sri Lanka cabinet clears drafting bill for PPP Agency
+### බීමත්ව රිය පැදවූ ප්‍රසිද්ධ ගායකගේ පුතා බේරාගන්න පොලිසියේ යකා නැටූ මිතුරාත් කූඩුවේ
 
-*2024-07-30 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-clears-drafting-bill-for-ppp-agency-174401/) · `en`
+*2024-07-30 11:21:33* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-රිය-පැදවූ-ප්‍රසිද්ධ-ගායකගේ-පුතා-බේරාගන්න-පොලිසියේ-යකා-නැටූ-මිතුරාත්-කූඩුවේ/11-411086) · `si`
 
-ECONOMYNEXT – Sri Lanka’s cabinet has approved the drafting of a new law to set up National Agency for Public Private Partnerships, following proposal by President Ranil Wickremesinghe, the state information office said.
+බීමත්ව රිය පැදවීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් ප්‍රසිද්ධ බයිලා ගායකයෙක්ගේ පුත්‍රයෙක් බේරාගැනීමට බීමත්ව පොලිසියේ ලී බැරියර්  කඩාදමමින් පිස්සු නැටූ පුද්ගලයෙකු අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි .
 
-The agency will design and manage PPP projects and also co-ordinate with international agencies.
+පානදුර පොලිස් අධිකාරි කාර්යාලයේ මෙහෙයවීමෙන් පෙරේදා (28) මධ්‍යම "රාත්‍රි අමුත්තන් ගේ රාත්‍රිය" නමින් සිදුකල මෙහෙයුමකදී සාදයකට සහභාගිවී මෝටර් රථයකින් ගමන් කරමින් සිටී ප්‍රසිද්ධ බයිලා ගායකයෙකුගේ පුත්‍රයා  අත්අඩංගුවට ගෙන තිබේ.
 
-It will identify project where public private partnerships can be implemented.
+ඔහු සමග පැමිණි පුද්ගලයෙකු, සිරමැදිරියේ රදවා සිටී බීමත් රියදුරු මිතුරා බේරාගැනීමට ඒ අසල තිබූ ලී බාධකයක්ද කඩදමා උත්සහ කර ඇති බව පොලිසිය පවසයි .
 
-The PPP Agency requires a legal basis and a legal framework was also needed for the PPP agreements.
+එහිදි පොලිස් නිළධාරින් සැකකරු මෙල්ලකර භාරයට ගෙන වෛද්‍යවරයෙකු හමුවට පමුණුවා සිදුකල පරීක්ෂාවේදී ඔහුද මත්පැන් පානය කර සිටී බවට තහවුරු වූ බව පොලිසිය සදහන් කරයි.
 
-The legal draftsman was instructed to draft a law giving effect to the objectives. (Colombo/July30/2024)
+ප්‍රසිද්ධ බයිලා ගායකයෙකයාගේ පුත්‍රයා බීමත්ව රිය පැදවීම යටතේ එක් චෝදනාවකටද , ඔහු බේරාගැනීමට පොලිසියේ යකා නැටූ සැකකරු සාපරාධී බලහත්කාරය, බීමත්ව ප්‍රසිද්ධ ස්ථානයක අශෝභන ලෙස හැසිරීම සහ අනර්ථයක් සිදුකිරිම යන චෝදනා තුනක් යටතේ පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට නියමිතව තිබුණි
 
 ◼️
 
-[Data](articles/8c941a2e.json)
-
-[Extended Data](ext_articles/8c941a2e.ext.json)
+[Data](articles/58eb9158.json)
 
 ---
 
@@ -2027,187 +2191,5 @@ Jaffna is increasingly gaining popularity as a tourist destination; owing largel
 [Data](articles/63ab316c.json)
 
 [Extended Data](ext_articles/63ab316c.ext.json)
-
----
-
-### ComBank first Lankan bank to join PCAF
-
-*2024-07-29 22:52:00* · [`islandlk`](http://island.lk/combank-first-lankan-bank-to-join-pcaf/) · `en`
-
-The Commercial Bank of Ceylon has become the first Sri Lankan bank to be a signatory to the Partnership for Carbon Accounting Financials (PCAF), a global initiative that enables signatories to measure and disclose the greenhouse gas (GHG) emissions associated with their financial activity.
-
-Already certified 100% carbon neutral in terms of its operations, Commercial Bank’s ground-breaking engagement with PCAF is supported by the International Finance Corporation (IFC) and is a pivotal element of the Bank’s Climate Transition Plan, the Bank said.
-
-PCAF provides a common methodology for measuring and disclosing the carbon footprint of financial portfolios. This methodology considers Financed Emissions, Facilitated Emissions and Insurance Associated Emissions, as specified by the Global GHG Accounting and Reporting Standard, enabling consistent reporting across different financial institutions.
-
-...
-
-[Data](articles/a9a83680.json)
-
-[Extended Data](ext_articles/a9a83680.ext.json)
-
----
-
-### CSE turnover takes a nosedive following presidential poll date announcement
-
-*2024-07-29 22:50:00* · [`islandlk`](http://island.lk/cse-turnover-takes-a-nosedive-following-presidential-poll-date-announcement/) · `en`
-
-Political uncertainty in the aftermath of the announcement of the Presidential election date, rendered stock market activities dull yesterday due to the persistence of negative investor sentiments, market analysts said.
-
-Amid those developments both indices moved downwards accompanied by a paltry turnover, far below the annual average turnover level. The All Share Price Index went down by 15.8 points, while S and P SL 20 declined by 16.35 points. Turnover stood at Rs 376 million sans a single crossing.
-
-...
-
-[Data](articles/11da8b6e.json)
-
-[Extended Data](ext_articles/11da8b6e.ext.json)
-
----
-
-### Sri Lanka Women’s team awarded USD 500,000 after maiden Asia Cup title
-
-*2024-07-29 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100866/sri-lanka-womens-team-awarded-usd-500000-after-maiden-asia-cup-title) · `en`
-
-Sri Lanka Cricket (SLC) has presented the National Women’s Cricket Team with a reward of USD 500,000 in recognition of the victory in the recently concluded Asia Cup T20 tournament.
-
-“In recognition of the phenomenal victory of our Sri Lanka Women’s Cricket team in the Asia Cup 2024, Sri Lanka Cricket is thrilled to announce a reward of $500,000 USD! Your dedication, teamwork, and relentless spirit on the pitch have brought immense pride to our nation,” the SLC posted on ‘X’.
-
-In a historic triumph, Sri Lanka Women clinched their first Asia Cup title after defeating defending champions India by 8 wickets in a thrilling final held at the Rangiri Dambulla International Stadium on Sunday.
-
-With the win, Sri Lanka not only secured the championship but also marked a significant achievement in women’s cricket in the country.
-
-◼️
-
-[Data](articles/e1bbf05b.json)
-
-[Extended Data](ext_articles/e1bbf05b.ext.json)
-
----
-
-### A group of ministers and MPs in Pohon supports President
-
-*2024-07-29 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199350) · `si`
-
-A group of ministers and MPs, including former opponents, have met President Ranil Wickremesinghe and decided to support him in the upcoming presidential election. This decision was made during a meeting at the Political Bureau of the Sri Lanka Celebrations, involving key figures like Deputy Speaker Ajith Rajapakse and several state ministers.
-
-🟩
-
-A group of MPs including the people who opposed the proposal of the Politic & Policy Board of the Pohon have met President Ranil Wickremesinghe at night.
-
-They have decided to support Ranil Wickremesinghe in the next presidential election.
-
-The decision of the Presidential Election to the presidential election was taken up at the Political Bureau of the Sri Lanka Celebrations this afternoon.
-
-Such ministers and others met with UNP MP Vajira Abeywardena's Political Office, Malrawa, Colombo.
-
-Deputy Speaker Ajith Rajapakse, Minister of State for this purpose, State Ministers, State Ministers. It is reported that Dissanayake and Premneth C Dolorathawatte and several others were present.
-
-They have decided to support Ranil Wickremesinghe in the next presidential election.
-
-◼️
-
-[Data](articles/34006812.json)
-
-[Extended Data](ext_articles/34006812.ext.json)
-
----
-
-### “Ranil is the biggest mistake”
-
-*2024-07-29 22:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-செய்தது-மிகப்பெரிய-தவறு-பஷில்-அதிரடி/175-341238) · `ta`
-
-Basil Rajapakse criticizes President Ranil Wickremesinghe's decision to run as an independent candidate, calling it a mistake. The PA's executive committee, led by former President Mahinda Rajapakse, was set to decide the presidential candidate. There's disagreement within the party over whether Wickremesinghe or another member should be the candidate. The PA feels neglected by Wickremesinghe, who they claim prioritized strengthening the UNP over the PA, leading to internal dissatisfaction.
-
-🟩
-
-Basil Rajapakse, the founder of the PA, said that the announcement of President Ranil Wickremesinghe's contesting as an independent candidate was completely wrong.
-
-The executive committee of the PA was chaired by former President Mahinda Rajapakse to take a final decision on the presidential candidate.
-
-It has been paid attention to a member of the PA in the presidential election and the candidature of President Ranil Wickremesinghe as the candidate.
-
-One party has stated that Ranil Wickremesinghe should be fielded as presidential candidate and another party should field a member of the party as the presidential candidate.
-
-It is absolutely wrong to announce that he is contesting as an independent candidate as he is in talks with President Ranil Wickremesinghe on the issue of the presidential candidate.
-
-We supported President Ranil Wickremesinghe in 2022 without any conditions. But for the past 2 years, he has not given priority to the PA's party.
-
-...
-
-[Data](articles/d964319c.json)
-
-[Extended Data](ext_articles/d964319c.ext.json)
-
----
-
-### Red light to batsmen of Sri Lankan team
-
-*2024-07-29 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199349) · `si`
-
-Sri Lanka's batting coach, Thilana Kandamby, vows to take responsibility for the team's poor performance against India, attributing it to lack of mental preparation. He promises stronger decisions and training to improve their game, referencing similar issues during the Bangladesh match in the World Cup.
-
-🟩
-
-Sri Lanka's battribiri coach Thilana Kandamby says he expects to make strong decisions regarding the batsmen.
-
-He was speaking after the male national cricket team was defeated by India due to the most poor batting.
-
-"I will surely be more responsible for the batsman,". Because we can train and practice so much, and we need to teach and medituarily mediturable to the middle. Because this is not the first time. We also became in the Bangladeshi match in the World Skin. We talked about it and work to it with the Agirus Plan to them. But that's not the Rizal. I hope you make a little tidy decisions in the future. "
-
-◼️
-
-[Data](articles/e9542949.json)
-
-[Extended Data](ext_articles/e9542949.ext.json)
-
----
-
-### Sri Lanka women's cricket team 5 million
-
-*2024-07-29 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199348) · `si`
-
-The Sri Lanka women's cricket team marked a historic milestone by winning under captain Chamari Atapattu, marking the first victory for the squad in the Sri Lanka Women's Cricket T20 league.
-
-🟩
-
-Sri Lanka women's cricket team has been given a new chapter in the Sri Lanka Women's Cricket Twelse.
-
-Sri Lanka won the Sri Lankan squad for the first time in the history of Chamari Atapattu.
-
-◼️
-
-[Data](articles/ba0531e7.json)
-
-[Extended Data](ext_articles/ba0531e7.ext.json)
-
----
-
-### 11 MPs who voted against the candidate on behalf of the PA
-
-*2024-07-29 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/189742) · `ta`
-
-In a Sri Lanka PA political committee meeting chaired by ex-President Mahinda Rajapaksa, 11 out of 16 MPs opposed a proposed candidate. The meeting saw various representatives, including a former member's daughter, but the focus remains on Dhammika Perera, set to be named the General Jana Perera candidate despite opposition.
-
-🟩
-
-Party sources say that only 16 MPs participated in the Sri Lanka PA's political committee meeting chaired by former President Mahinda Rajapaksa on Monday (29).
-
-The general secretary of the party, Sakara Kariyawasam, presented the idea that a candidate should be fielded on behalf of the PA.
-
-However, the idea, which was put forward by the General Secretary, voted against 11 members of the 16 MPs who attended the meeting.
-
-According to party information, it is reported that the MPs are representing different organizations except 16 MPs.
-
-According to reports, even the daughter of a former member of the PA had attended the meeting.
-
-However, as the name of Dhammika Perera will be announced as the candidate of the General Jana Perera, his name is not significant.
-
-Former President Mahinda Rajapakse said that this is the party's decision and that everyone should accept it.
-
-...
-
-[Data](articles/e4f79809.json)
-
-[Extended Data](ext_articles/e4f79809.ext.json)
 
 ---

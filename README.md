@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 09:55:08**
+As of **2024-07-30 10:07:14**
 
 ## Newspaper Stats
 
-*Scraped **37,992** Articles*
+*Scraped **37,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,466
-adaderanalk | 4,399
+adaderanalk | 4,401
 tamilmirrorlk | 4,705
 dailymirrorlk | 4,733
-virakesarilk | 5,990
-adaderanasinhalalk | 6,390
+virakesarilk | 5,993
+adaderanasinhalalk | 6,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,990 (100.0%) of 37,992 articles have been extended.
+37,992 (100.0%) of 37,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### Cabinet nod to draft legislation to resolve Sri Lanka Cricket issues
+
+*2024-07-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100872/cabinet-nod-to-draft-legislation-to-resolve-sri-lanka-cricket-issues-) · `en`
+
+The Cabinet of Ministers has approved the drafting of necessary legislation based on the recommendations of the K.T. Chitrasiri report to address and resolve the issues faced by Sri Lanka Cricket.
+
+◼️
+
+[Data](articles/c1939102.json)
+
+---
+
+### බිත්තර ආනයනයට කැබිනට් අනුමැතිය
+
+*2024-07-30 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199358) · `si`
+
+දේශීය වෙළෙඳපොළේ බිත්තර මිල ස්ථායීකරණය සඳහා බිත්තර ආනයනය කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+එළඹෙන රාමසාන් සහ නත්තල් උත්සව කාලසීමාවන් තුළ ද වෙළෙඳපොළ බිත්තර මිල ස්ථායීකරණය කිරීමට සහ කේක් ඇතුළු බේකරි නිෂ්පාදන කර්මාන්තයට අවශ්‍ය බිත්තර සැපයීමට හැකි වනු පිණිස වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍යතුමා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+
+2024-03-18 දිනැති අමාත්‍ය මණ්ඩල තීරණය පරිදි ශ්‍රී ලංකා රජයේ වාණිජ (විවිධ) නීතිගත සංස්ථාව විසින් මේ වනවිට බිත්තර මිලියන 224ක් ආනයනය කර ඇත.
+
+ඉන් 95%ක ප්‍රමාණයක් ලංකා සතොස අලෙවි ජාලය හරහා බිත්තරයක් රුපියල් 37/-ක දැරිය හැකි මිලකට පාරිභෝගික ජනතාව වෙත බෙදා හැර ඇති අතර, බිත්තර ආනයනය කිරීමට ලබා දී ඇති කාලසීමාව 2024-04-30 දිනෙන් අවසන් විය.
+
+◼️
+
+[Data](articles/b6193ec5.json)
+
+---
+
+### Cabinet approval to import eggs for festive season
+
+*2024-07-30 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100871/cabinet-approval-to-import-eggs-for-festive-season) · `en`
+
+The Cabinet of Ministers has approved a proposal to import eggs in order to stabilize the prices of cakes and other bakery products during the forthcoming Christmas and Ramadan festive seasons.
+
+◼️
+
+[Data](articles/aed8fc54.json)
+
+---
 
 ### President Ranil thanks MPs who supported him in social media post
 
@@ -48,23 +90,47 @@ The President’s message was directed at those who supported him from the outse
 
 [Data](articles/9263e507.json)
 
+[Extended Data](ext_articles/9263e507.ext.json)
+
 ---
 
-### පළමු කාර්තුවේ කොළඹ වරායේ ආදායම ඩොලර් මිලියන 50 පනී
+### ரணிலுக்கு ஆதரவளிப்பதற்கு தீர்மானித்துள்ள மேலும் பல பொதுஜன பெரமுன எம்.பி.க்கள்
+
+*2024-07-30 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189751) · `ta`
+
+திலும் அமுனுகம, அனுப பஸ்குவல், கீதா குமாரசிங்க, அஜித் ராஜபக்ஷ, எஸ்.பி.திஸாநாயக்க, பிரேம்நாத் சி தொலவத்த, காஞ்சன விஜேசேகர உள்ளிட்ட எம்.பி.க்களும் ஜனாதிபதி ரணிலுக்கு ஆதரவளிக்க தீர்மானித்துள்ளனர்.
+
+மொட்டு சின்னத்தில் வேட்பாளர் ஒருவர் களமிறக்கப்பட வேண்டும் என நேற்று திங்கட்கிழமை இடம்பெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் குழு கூட்டத்தில் தீர்மானிக்கப்பட்டது. எவ்வாறிருப்பினும் அந்த தீர்மானத்துக்கு எதிராக 11 எம்.பி.க்கள் தமது வாக்குகளை அளித்திருந்தனர்.
+
+இந்நிலையில் நேற்று இரவு மேற்குறிப்பிட்ட எம்.பி.க்கள் கொழும்பில் கூடி தமது நிலைப்பாடு தொடர்பில் கலந்தாலோசித்துள்ளனர். அதற்கமைய பெரும்பான்மை உறுப்பினர்களின் நிலைப்பாடுகளை ஏற்காமல் பொதுஜன பெரமுன வேட்பாளரைக் களமிறக்குவதற்கு தீர்மானித்துள்ளதால், தாம் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கவுள்ளதாக இவர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/8450ac94.json)
+
+---
+
+### Colombo port reinstates $ 50 million in first quarter
 
 *2024-07-30 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199357) · `si`
 
-කොළඹ වරාය මේ වසර තුළ විශිෂ්ට වර්ධන වේගයක් වාර්තා කරමින් මෙහෙයුම් කාර්ය සාධනයේ සැලකිය යුතු ප්‍රගතියක් අත්කරගෙන ඇති බව වරාය නාවික හා ගුවන්සේවා අමාත්‍යංශයේ ලේකම් කේ. ඩී. එස් රුවන්චන්ද්‍ර මහතා පවසයි.
+In Q1, Colombo Port generated $50 million, marking a significant operational boost. The Ports, Shipping, and Aviation Ministry reported improved performance, with airline operations increasing by 25% from 2022 levels.
 
-ඔහු පෙන්වා දෙන්නේ මේ වසරේ පළමු කාර්තුව තුළ කොළඹ වරාය අමෙරිකානු ඩොලර් මිලියන 50ක ආදායමක් ලබාඇති බවය.
+🟩
 
-ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් කේ.ඩී.එස් රුවන්චන්ද්‍ර මහතා ඒ බව සඳහන් කළේය.
+Ports, Ministry of Ports Shipping and Aviation has been made to report a significant improvement in operational performance in this year.. D. Says S. Ruwanchandra.
 
-මේ අතර ගුවන් සේවා මෙහෙයුම් ද 2023 වර්ෂයට සාපේක්ෂව මේ වසරේ දී සියයට 25ක ප්‍රගතියක් වාර්තා කර ඇති බව වරාය නාවික හා ගුවන්සේවා අමාත්‍යංශයේ ලේකම් කේ.ඩී.එස් රුවන්චන්ද්‍ර මහතා සඳහන් කළේය.
+He pointed out that the Colombo port earned US $ 50 million in the first quarter of this year.
+
+Addressing a media briefing at the Presidential Media Center, KDS Ruwanchandra said that.
+
+Meanwhile, the Minister of Portsity and Aviation (Ports) Secretary KDS Ruwachandra stated that airline operations have been reported in 25 percent to 2023 compared to 2023.
 
 ◼️
 
 [Data](articles/d58e8aab.json)
+
+[Extended Data](ext_articles/d58e8aab.ext.json)
 
 ---
 
@@ -93,6 +159,38 @@ The mother said that the blood flow was continuously leaking due to the loss of 
 [Data](articles/c79dfe41.json)
 
 [Extended Data](ext_articles/c79dfe41.ext.json)
+
+---
+
+### தலவாக்கலையில் பாண் விலையில் மாற்றமில்லை ; மக்கள் விசனம்
+
+*2024-07-30 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189748) · `ta`
+
+கடந்த சில தினங்களுக்கு முன் 450g நிறை கொண்ட பாணின் விலை 10 ரூபாவினால் குறைக்கப்பட்டுள்ளது.
+
+இந்நிலையில், நுவரெலியா மாவட்டத்தின் தலவாக்கலை நகரிலுள்ள வெதுபகங்களில் 450g நிறை கொண்ட பாண்  140 ரூபாய்க்கு விற்பனை செய்யப்பட்டு வருகின்றது.
+
+மேலும், வெதுப்பக  உற்பத்தி பொருட்களின் விலைகளும் காட்சிப்படுத்தப்படாத நிலையிலேயே காணப்படுகின்றன என பொதுமக்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/688b1bc3.json)
+
+---
+
+### கிராம சேவகரின் உதவியாளர் மக்கள் நலத்திட்டங்களில் பாகுபாடு காட்டுவதாக பெண்ணொருவர் போராட்டம்!
+
+*2024-07-30 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189749) · `ta`
+
+யாழ்ப்பாணம், நவாலி வடக்கு ஜே/134 கிராம சேவகர் பிரிவில் கிராம சேவகரின் உதவியாளராக பெண்ணொருவர் செயற்பட்டு உதவித் திட்டங்களில் பாகுபாடு காட்டுவதாக தெரிவித்து பொண்ணொருவர் திங்கட்கிழமை (29) குறித்த கிராம சேவகர் அலுவலகத்திற்கு முன்னால் போராட்டத்தில் ஈடுபட்டார்.
+
+வருகின்ற உதவித் திட்டங்களை தனக்கு விரும்பியவர்களுக்கு வழங்குவதாகவும், பொதுக் கூட்டங்களுக்கு சமூகமட்ட பொது அமைப்புகளுக்கு அறிவித்தல் வழக்குவதில்லை எனவும், பொதுவான இடங்களில் கூட்டத்திற்கான அழைப்பு அறிவித்தல் ஒட்டப்படுவதில்லை எனவும், தனக்கு விரும்பியவர்களுக்கு தொலைபேசி மூலம் அறியத் தருவதாகவும் குற்றம் சாட்டினார்.
+
+இது தொடர்பான முறைப்பாட்டை தான் ஏற்கனவே அரசாங்க அதிபர் மட்டத்துக்கு கொண்டு சென்ற நிலையில் இதற்கு முன்னர் இருந்த கிராம சேவகர் ஒருவர் இடமாற்றம் செய்யப்பட்டார் என்றும், புதிதாக வந்த கிராம சேவகரும் ஒரு வருடம் கழிந்த நிலையில் அந்த பெண்ணின் கருத்துப்படியே செயற்படுவதாகவும் குற்றம் சாட்டினார்.
+
+...
+
+[Data](articles/100a9c97.json)
 
 ---
 
@@ -2121,127 +2219,5 @@ After a while, thera tried to take an invitation, and when the phone was not wor
 [Data](articles/f9291d0e.json)
 
 [Extended Data](ext_articles/f9291d0e.ext.json)
-
----
-
-### Motorcycle accident;Police officer killed
-
-*2024-07-29 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189709) · `ta`
-
-In an accident near Miriskudu curve, Avissawella, a police officer was killed when a container truck hit his motorcycle. Another officer was hospitalized. The incident happened on Monday.
-
-🟩
-
-A police officer was killed in an accident near the Miriskudu curve on Dummodara - Bhuvakpitiya road in Avissawella.
-
-The accident occurred on Monday (29) when a container palace crashed into a motorcycle on the road.
-
-It is reported that a police officer who was traveling on a motorcycle died on the spot and the other officer was admitted to the Avissawella Hospital for treatment.
-
-◼️
-
-[Data](articles/1a0ccb5b.json)
-
-[Extended Data](ext_articles/1a0ccb5b.ext.json)
-
----
-
-### Thousands rescued from devastating North Korea floods
-
-*2024-07-29 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/100861/thousands-rescued-from-devastating-north-korea-floods) · `en`
-
-More than 5000 people isolated by flooding in northwest North Korea have been rescued in airlifts and other evacuation work state media says was supervised by leader Kim Jong Un.
-
-Heavy rainfall on Saturday caused a river on the North Korean-Chinese border to exceed a dangerous level and created “a grave crisis”, the official Korean Central News Agency (KCNA) said on Monday.
-
-About 10 military helicopters and navy and government boats were mobilised for the evacuation efforts in Sinuiju city and Uiju town where flooding had isolated residents.
-
-KCNA did not mention any deaths or how much damage the flooding caused. It said each of the about 10 helicopters made several fights to save the residents despite bad weather, ultimately rescuing 4200 people by air.
-
-It said Kim guided the evacuation works on Sunday, ordered food and other necessities to be provided to affected people and set tasks for recovery and relief works.
-
-...
-
-[Data](articles/b112cb3d.json)
-
-[Extended Data](ext_articles/b112cb3d.ext.json)
-
----
-
-### Injunction against Wijeyadasa further extended
-
-*2024-07-29 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100860/injunction-against-wijeyadasa-further-extended) · `en`
-
-The Colombo District Court has further extended the interim order issued preventing Wijeyadasa Rajapakshe from functioning as Chairman of the Sri Lanka Freedom Party (SLFP) and Sarathi Dushmantha as its General Secretary.
-
-The interim order was extended until September 24, 2024 when the plaint filed by SLFP members Minister Mahinda Amaraweera, State Minister Lasantha Alagiyawanna and Duminda Dissanayake was taken up before the court today (29).
-
-The respondents in the case were also instructed to file objections related to the case before September 24.
-
-The defendants in the case include the Acting Chairman of the SLFP, Minister Nimal Siripala de Silva.
-
-Meanwhile, Wijeyadasa Rajapakshe today stepped down from his post as Minister of Justice, Prisons Affairs and Constitutional Reforms.
-
-◼️
-
-[Data](articles/feb2bde0.json)
-
-[Extended Data](ext_articles/feb2bde0.ext.json)
-
----
-
-### Jeevan Azhar
-
-*2024-07-29 16:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-ஜீவன்-ஆஜர்/175-341227) · `ta`
-
-Minister Jeevan Thondaman and three others submitted a legal notice and appeared in court in Nuwara Eliya.
-
-🟩
-
-Minister Jeevan Thondaman and three supporters of the party appeared before the Nuwara Eliya Magistrate's Court.  நகர்த்தல் மனுவினை தாக்கல் செய்தே இம்மூவரும் நீதிமன்றத்தில் ஆஜராகினர்.
-
-◼️
-
-[Data](articles/10001710.json)
-
-[Extended Data](ext_articles/10001710.ext.json)
-
----
-
-### Police officer killed, another injured in bike-container collision
-
-*2024-07-29 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100859/police-officer-killed-another-injured-in-bike-container-collision) · `en`
-
-A police officer has reportedly died following in an accident near the Miriskudu Bend on the Thummodara - Puwakpitiya Road in Avissawella.
-
-The accident occurred when a container truck had collided with a motorcycle, according to an Ada Derana reporter.
-
-The police officer who was riding the motorcycle was killed on the spot, while another officer was admitted to Avissawella Hospital for treatment.
-
-◼️
-
-[Data](articles/43b8ac6c.json)
-
-[Extended Data](ext_articles/43b8ac6c.ext.json)
-
----
-
-### Election Comm. notified over nurses attending NPP’s meeting in uniform
-
-*2024-07-29 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/100858/election-comm-notified-over-nurses-attending-npps-meeting-in-uniform) · `en`
-
-The Campaign for Free and Fair Elections (CaFFE) organization alleges that the participation of government nurses in uniform at the National All Ceylon Nurses’ Conference held yesterday (29) under the leadership of National People’s Power (NPP) leader, Anura Kumara Dissanayake, is a violation of election regulations.
-
-CaFFE has informed the National Election Commission in writing that the use of uniforms provided by the public tax money for political purposes is a breach of the Establishments Code and also the Election regulations.
-
-Additionally, the People’s Action for Free and Fair Elections (PAFFREL) has also notified the Election Commission in writing that this act is a violation of election regulations.
-
-Meanwhile, a discussion between the country’s security chiefs and Election Commission officials was held today (29). The Secretary of Public Security Viyani Gunathilaka and the Chief of Defence Staff (CDS), General Shavendra Silva were reportedly present at the meeting.
-
-◼️
-
-[Data](articles/f14e8afa.json)
-
-[Extended Data](ext_articles/f14e8afa.ext.json)
 
 ---

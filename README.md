@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 01:54:27**
+As of **2024-07-31 02:05:43**
 
 ## Newspaper Stats
 
-*Scraped **38,134** Articles*
+*Scraped **38,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 2,293
 dailyftlk | 2,434
 adalk | 3,489
 adaderanalk | 4,415
-tamilmirrorlk | 4,729
+tamilmirrorlk | 4,730
 dailymirrorlk | 4,733
-virakesarilk | 6,016
+virakesarilk | 6,017
 adaderanasinhalalk | 6,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,134 (100.0%) of 38,134 articles have been extended.
+38,134 (100.0%) of 38,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### “ரணிலை சந்தித்தவர்கள் என்னையும் சந்தித்தனர்”
+
+*2024-07-31 00:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்தவர்கள்-என்னையும்-சந்தித்தனர்/175-341317) · `ta`
+
+ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக சென்ற சிலர் தனது வீடுகளுக்கு வந்து ஆதரவு தெரிவித்ததாக  ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+கொழும்பில் செவ்வாய்க்கிழமை (30) காலை இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு விசேட கருத்து வெளியிடும் போதே நாமல் ராஜபக்ஷ மேற்கண்டவாறு தெரிவித்தார்.
+
+இளைஞர்களுக்கு இவ்வாறான விடயங்கள் விசேஷமானவை எனினும் எனது தந்தை, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ போன்ற முதியவர்களுக்கு இவ்வாறான விடயங்கள் சகஜம் என தெரிவித்த  நாமல் ராஜபக்ஷ, தான் பிரதிநிதித்துவப்படுத்தும் அரசியல் முகாம்களை பாதுகாப்பதற்காக செயற்படுவதாகவும் குறிப்பிட்டார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன ஆரம்பிக்கப்பட்ட காலத்திலிருந்து ஐக்கிய தேசியக் கட்சிக்கு எதிரான முகாமில் இருப்பதால், ஐக்கிய தேசியக் கட்சிக்கு எதிரான வரலாற்று ரீதியான எதிர்ப்பை அது தொடர்ந்தும் பிரதிநிதித்துவப்படுத்தும் என்றார்.
+
+...
+
+[Data](articles/33212586.json)
+
+---
 
 ### India
 
@@ -109,6 +127,22 @@ Since ancient times, our country's social organization has been built on Buddhis
 [Data](articles/4478cbf2.json)
 
 [Extended Data](ext_articles/4478cbf2.ext.json)
+
+---
+
+### இணையத்தள ஊடாக வியாபார பதிவுகளை ஆரம்பிக்க துரித நடவடிக்கை எடுக்கப்படும் - பி.எஸ்.எம். சார்ள்ஸ்
+
+*2024-07-30 23:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/189849) · `ta`
+
+இணையத்தள ஊடாக வியாபார பதிவுகளை (Online Business Registration) ஆரம்பிக்க துரித நடவடிக்கை எடுக்கப்படும் என வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் அவர்கள் தெரிவித்துள்ளார்.
+
+சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் மற்றும் ஆளுநர் ஆகியோரின் தலைமையில், ஆளுநர் செயலக கேட்போர் கூடத்தில் செவ்வாய்க்கிழமை (30) விசேட கலந்துரையாடல் நடைபெற்றது.
+
+வடக்கு மாகாண பிரதம செயலாளர் எல்.இளங்கோவன், யாழ் மாவட்ட பதில் அரசாங்க அதிபர் எம்.பிரதீபன், ஆளுநரின் உதவிச் செயலாளர், சமுர்த்தி ஆணையாளர் நாயகம் மற்றும் யாழ் மாவட்டத்தில் சேவையாற்றும் பிரதேச செயலாளர்கள் உள்ளிட்ட பலர் இந்த கூட்டத்தில் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/9ead1f25.json)
 
 ---
 
@@ -2331,53 +2365,5 @@ Lok Sabha Opposition Leader Rahul Gandhi and Congress general secretary Priyanka
 [Data](articles/e1937ff0.json)
 
 [Extended Data](ext_articles/e1937ff0.ext.json)
-
----
-
-### Sri Lanka seeing influenza spread among children: Doctor
-
-*2024-07-30 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeing-influenza-spread-among-children-doctor-174412/) · `en`
-
-ECONOMYNEXT – A pediatric specialist at the Lady Ridgeway Children’s Hospital in Colombo has warned that influenza types A and B and an upper respiratory viral fever are spreading among children in Sri Lanka.
-
-Pediatrician Dr Deepal Perera has urged parents to be aware of flu like symptoms, including fever with headache, cough, cold, sneezing, body aches, difficulty in breathing and vomiting.
-
-“If such symptoms spread quickly in classes and day care centers and homes, this could be a viral disease of the upper respiratory tract or influenza,” Dr Perera said.
-
-A sputum test can check for influenza and if so anti-virals will be administered, he was quoted as saying in a government statement.
-
-“Antibiotics are not necessary as this is a viral infection and if the cough persists, it may lead to childhood asthma, so proper treatment should be given.”
-
-The pediatrician said those with symptoms should wear face masks and that children with symptoms should be kept at home.
-
-...
-
-[Data](articles/946543ab.json)
-
-[Extended Data](ext_articles/946543ab.ext.json)
-
----
-
-### We also have Dhammika Namal candidate
-
-*2024-07-30 12:37:55* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ධම්මිකත්-නාමලුත්-ජනපති-අපේක්ෂකත්වයට-ඉන්නවා/11-411090) · `si`
-
-Dhammika Perera, a candidate from the Sri Lanka Civil Arost Front, is seen as a promising figure due to his business acumen and appeal to both the youth and economic sectors. Despite only 4 out of 7 voters supporting the party, it's believed that one of its key candidates could secure victory in the upcoming elections.
-
-🟩
-
-Parliamentarian Tissamati Arachchi said that Dhammika Perera had the opportunity to the Sri Lanka Campawa Perera as a business eye as well as the youth as well as the youth and economic eye.
-
-He was speaking to the media after a program at the party headquarters of the Sri Lanka General Front.
-
-Despite four out of 7 voters voted for the Sri Lanka Civil Arost Front, he said.
-
-He also said that four key candidates will contest the election and the lucky candidate presented by the Civil Araja Front can win the election. a
-
-◼️
-
-[Data](articles/1e789d31.json)
-
-[Extended Data](ext_articles/1e789d31.ext.json)
 
 ---

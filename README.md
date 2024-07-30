@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 18:15:47**
+As of **2024-07-30 18:27:32**
 
 ## Newspaper Stats
 
-*Scraped **38,074** Articles*
+*Scraped **38,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,96 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
-adalk | 3,479
+adalk | 3,480
 adaderanalk | 4,410
 tamilmirrorlk | 4,723
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,411
+adaderanasinhalalk | 6,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,072 (100.0%) of 38,074 articles have been extended.
+38,074 (100.0%) of 38,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### ඝාතකයින් සිව්දෙනෙකුට මරණ දණ්ඩනය
+### එංගලන්ත එක්දින පුහුණුකරු ඉල්ලා අස්වෙයි - සංගක්කාර ගැනත් කියවෙයි
+
+*2024-07-30 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199381) · `si`
+
+එංගලන්ත එක්දින සහ 20යි 20 කණ්ඩායමේ පුහුණුකරු ලෙස කටයුතු කළ මැතිව් මොට් එම තනතුරින් ඉල්ලා අස්වී තිබේ.
+
+2022 වසරේ මැයි මාසයේදී ඔහු වර්ෂ 4ක කොන්ත්‍රාත්තුවකට අත්සන් කරමින් එංගලන්ත එක්දින පුහුණුකරු තනතුර භාරගත්තේය.
+
+විශේෂයෙන් ඕවර 50 තරගවලදී එංගලන්ත කණ්ඩායම අසාර්ථක වීම ඔහුගේ ඉල්ලා අස්වීමට හේතුවන්නට ඇතැයි සැලකෙයි.
+
+එබැවින් එළැඹෙන ඔස්ට්‍රේලියානු තරගාවලිය සඳහා වැඩබලන පුහුණුකරු ලෙස මාකස් ත්‍රෙස්කොතික් පත්කර තිබේ.
+
+20යි 20 තරග තුනකට සහ එක්දින ජාත්‍යන්තර තරග 5කට සහභාගී වීම සඳහා ඔස්ට්‍රේලියානු කණ්ඩායම සැප්තැම්බර් මාසයේදී එංගලන්තයේ සංචාරය කිරීමට නියමිතය.
+
+එම තනතුර සඳහා පූර්ණ කාලින පුහුණුකරුවෙක් සොයා ගැනීමට කටයුතු කරන බව එංගලන්ත ක්‍රිකට් බලධාරීන් පවසයි.
+
+මේ අතර ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේ ශ්‍රී ලංකා හිටපු නායක කුමාර් සංගක්කාර ගේ නමද එම පුහුණුකරු තනතුර සඳහා සුදුසු බවට කියවෙන බවයි.
+
+◼️
+
+[Data](articles/ea3f57e7.json)
+
+---
+
+### Four killers sentenced to death
 
 *2024-07-30 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199380) · `si`
 
-ගල් හා පොලු මුගුරුවලින් පහර දී පුද්ගලයකු ඝාතනය කිරීමේ චෝදනාවට වරදකරුවන් වූ සිව්දෙනෙකුට, මරණ දඬුවම් නියම කර තිබේ.
+In a landmark case, four individuals were sentenced to death for murdering a man with stones and poles in the Orugodawatta area. The Colombo High Court found them guilty of the crime committed in Aprilwatta, Australia. However, one defendant passed away during the trial, and another was acquitted due to insufficient evidence. The Attorney General initiated the charges in 2017, emphasizing the need to prove the accusations beyond reasonable doubt.
+
+🟩
+
+Four persons who were convicted of murder of a person with stones and poles were sentenced to death.
 
 මෙලෙස මරණ දඬුවම නියම වූයේ ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචි විත්තිකරුවන් සිව්දෙනෙකුට ය.
 
-2013 වසරේ ඔරුගොඩවත්ත සාන්තවත්ත ප්‍රදේශයේදී පුද්ගලයෙකුට පහරදී මරා දැමීමේ චෝදනාවට විත්තිකරුවන් 6 දෙනකුට එරෙහිව කොළඹ මහාධිකරණයේදී චෝදනා එල්ල වී තිබුණි.
+The Colombo High Court had accused of being attacked and killed in the Aprilwatta area in Australia.
 
-කෙසේ වෙතත් නඩුවේ 2 වැනි විත්තිකරු නඩු විභාගය අතරතුරදී මිය ගිය ගොස් තිබේ.
+However, the 2nd defendant in the case has died during the trial.
 
-6 වැනි විත්තිකරුව ප්‍රමාණවත් සාක්ෂි නොමැති වීම හේතුවෙන් නඩුවෙන් නිදහස් කෙරුණි.
+The 6th defendant was released from the case due to lack of adequate evidence.
 
-නීතිපතිවරයා විසින් විත්තිකරුවන්ට එරෙහිව අධිචෝදනා 4ක් යටතේ 2017දී නඩු පවරා චෝදනා ගොනුකර තිබුණි.
+The Attorney General had filed the charges in 2017 under four indictments.
 
-නියෝගය ප්‍රකාශ කරමින් විනිසුරුවරයා පැමිණිල්ල විසින් විත්තිකරුවන්ට එරෙහිව ඇති චෝදනා සාධාරණ සැකයෙන් ඔබ්බට සනාථ කර ඇති බව ප්‍රකාශ කරමින් විත්තිකරුවන්ට මරණ දඬුවම නියම කළේය.
+Declaration of the Order and sentenced the accused to prove the charges beyond the fairly beyond defendants.
 
 ◼️
 
 [Data](articles/83ad8cfd.json)
 
+[Extended Data](ext_articles/83ad8cfd.ext.json)
+
 ---
 
-### பாடசாலை மாணவன் மீது தாக்குதல் ; மூவர் கைது
+### Attack on school student;Three arrests
 
 *2024-07-30 17:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலை-மாணவன்-மீது-தாக்குதல்-மூவர்-கைது/76-341294) · `ta`
 
-இரத்தினபுரி மாவட்டத்தின் நிவித்திகல இ/நிரியெல்ல தமிழ் வித்தியாலயத்தில் சாதாரண தர வகுப்பில் கல்வி கற்கும் மாணவர் மீது பாடசாலை நேரத்தில், தோட்ட  அதிகாரிகளால் தாக்குதல் நடத்தப்பட்டுள்ளது.
+In Ratnapura District, a student from Nivithigala E/Niriella Tamil Vidyalaya was attacked by plantation authorities. Following the incident reported to Nivithigala Police, three suspects were arrested. The student received treatment at Nivithigala Divisional Hospital. Police are investigating, with the suspects set to appear in court on Wednesday.
 
-தாக்குதலுக்கு இலக்கான மாணவன் நிவித்திகல பிரதேச வைத்தியசாலையில் சிகிச்சை பெற்று வரும் நிலையில் அத்தோட்ட பொதுமக்கள் , இளைஞர்கள் மற்றும் பாடசாலை நிர்வாகம் நிவிதிகல பொலிஸ் நிலையத்திற்கு குறித்த சம்பவம் தொடர்பில் தெரிவித்ததை அடுத்து தாக்குதல் நடத்திய மூன்று சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர் .
+🟩
 
-தாக்குதல் தொடர்பில் நிவித்திகல பொலிஸ் நிலைய அதிகாரிகள் விசாரணை நடத்துவதுடன் சந்தேக நபர்களை புதன்கிழமை (31) நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Plantation authorities have attacked a student who is studying in a normal grade class at the Nivithigala E/Niriella Tamil Vidyalaya in the Ratnapura District.
+
+Three suspects have been arrested by the police following the incident of the public, youth and school administration after the incident was reported to the Nivitigala Police Station as the student was being treated at the Nivithigala Divisional Hospital.
+
+Officers of the Nivithigala Police Station are investigating the attack and the suspects are to be produced in court on Wednesday (31).
 
 ◼️
 
 [Data](articles/48c20589.json)
+
+[Extended Data](ext_articles/48c20589.ext.json)
 
 ---
 
@@ -959,6 +995,24 @@ The pediatrician said those with symptoms should wear face masks and that childr
 [Data](articles/946543ab.json)
 
 [Extended Data](ext_articles/946543ab.ext.json)
+
+---
+
+### අපිට ධම්මිකත් නාමලුත් ජනපති අපේක්ෂකත්වයට ඉන්නවා
+
+*2024-07-30 12:37:55* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ධම්මිකත්-නාමලුත්-ජනපති-අපේක්ෂකත්වයට-ඉන්නවා/11-411090) · `si`
+
+ව්‍යාපරික ඇසකින් මෙන්ම ආර්ථික ඇසකින් බලනවානම් ශ්‍රී ලංකා පොදුජන පෙරමුණට ජනපති අපේක්ෂක ලෙස ධම්මික පෙරේරාට අවස්ථාව ඇති බවත් තරුණ මෙන්ම ආර්ථික ඇසකින් බලනවානම් නාමල් රාජපක්ෂ මහතා ජනපති අපේක්ෂක ලෙස සිටින බවත් පාර්ලමේන්තු මන්ත්‍රී තිස්සකුට්ටි ආරච්චි මහතා පැවැසීය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පක්ෂ මූලස්ථානයේ පැවැති වැඩසටහනකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ  බව පැවැසිය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණට ඡන්දය ලබාදුන් ඡන්ද දායකයන් 7 දෙනෙකුගෙන් 4ක් වෙනත් මත දරා තිබුණත් පොදුජන පෙරමුණට ලක්ෂ 30ක මූලික ඡන්ද පදනමක් ඇති ඔහු පැවැසීය.
+
+මෙවර ප්‍රධාන අපේක්ෂකයන් 4ක් මැතිවරණයට තරග කරන හෙයින් පොදුජන පෙරමුණෙන් ඉදිරිපත්වන වාසනාවන්ත අපේක්ෂකයාට මැතිවරණය ජය ගැනිමට හැකි බවත් ඔහු පැවැසිය. අ
+
+◼️
+
+[Data](articles/1e789d31.json)
 
 ---
 
@@ -2281,49 +2335,5 @@ Rajapakshe said he had already informed the relevant authorities of his decision
 [Data](articles/d01529a9.json)
 
 [Extended Data](ext_articles/d01529a9.ext.json)
-
----
-
-### ALFT Packaging shines at Drupa Germany, 2024
-
-*2024-07-30 01:42:47* · [`dailyftlk`](https://www.ft.lk/business/ALFT-Packaging-shines-at-Drupa-Germany-2024/34-764909) · `en`
-
-From left: Miraclon Sales Manager – West, South India and Sri Lanka Hrishikesh Kulkarni, Marketing Manager – Asia Pacific Hersh Lulla, ALFT Packaging Managing Director Chathura Jayatissa and Miraclon Advanced Print Applications Regional Lead – Modern Flexo Steve Smith
-
-ALFT Packaging, a prominent player in the flexible packaging industry, showcased the potential of Modern Flexo recently at Drupa 2024 held in Germany, the world’s largest trade fair for printing and packaging industry and its technologies. Drupa Germany has been taking place every four years and reputed as a premier industry event all around the world.
-
-Recognised as Miraclon’s Champion of Modern Flexo, ALFT Packaging was featured prominently at the trade fair for its innovative Flexographic printing techniques. Importantly, it was the sole company selected from South Asia as a designated Miraclon Lighthouse project.
-
-...
-
-[Data](articles/e5258764.json)
-
-[Extended Data](ext_articles/e5258764.ext.json)
-
----
-
-### Investigate cremation before the presidential election
-
-*2024-07-30 01:41:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலுக்கு-முன்னர்-தகனத்தை-விசாரிக்குக/175-341255) · `ta`
-
-Before the presidential election, a parliamentary select committee is being formed to investigate the cremation issue affecting the Muslim community, ensuring justice is served. This comes amid calls for Muslim MPs to unite and support the committee, following previous debates on cremation laws and organ donations. The move aims to uncover any hidden forces influencing the cremation decisions and address the injustices faced by the Muslim community, suggesting potential legal actions against those responsible for violating basic human rights.
-
-🟩
-
-It has been requested to appoint a "parliamentary select committee" before the presidential election to investigate the members of the committee to investigate the cremation of the committee and provide justice to the affected Muslim community.
-
-All Muslim MPs have been asked to join the Speaker to implement the law against the committee that committed an unjust incident.
-
-Former President of the President and former Municipal Council of Colombo Municipal Council to take justice to the Muslim community against the resolution on cremation of the Janasas. Khalilur Rahman requested.
-
-He has also sent a Majesty to party leaders, minister and parliamentarians representing the Parliament of Sri Lanka.
-
-In the past, there have been many debates in Parliament on the cremation of the new legislation and the cremation of Govid bodies that have been announced on cremation and donation of organs.
-
-...
-
-[Data](articles/b7841d0d.json)
-
-[Extended Data](ext_articles/b7841d0d.ext.json)
 
 ---

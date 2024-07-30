@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 11:20:35**
+As of **2024-07-30 11:36:09**
 
 ## Newspaper Stats
 
-*Scraped **38,009** Articles*
+*Scraped **38,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 4,402
 tamilmirrorlk | 4,708
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,394
+adaderanasinhalalk | 6,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,006 (100.0%) of 38,009 articles have been extended.
+38,009 (100.0%) of 38,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### නිවසේදී ගිනි අවියක් පත්තු වී දැරියකට තුවාල
+
+*2024-07-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199363) · `si`
+
+මකුළුගස්වැව, දේවහුය ප්‍රදේශයේ නිවසක් තුළදී ගිනි අවියක් ක්‍රියාත්මක වීමෙන් හත් හැවිරිදි දැරියක් තුවාල ලබා තිබේ.
+
+පොලීසිය පැවසුවේ නිවස පිරිසිඳු කිරීමේදී එහි තිබු ගිනි අවිය බිම වැටී ක්‍රියාත්මක වී එම අනතුර සිදුව ඇති බවය.
+
+වෙඩි වැදීමෙන් තුවාල ලැබු දැරිය ප්‍රතිකාර සඳහා දඹුල්ල රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/7011f955.json)
+
+---
+
+### කේරළ යේ දරුණු නායයෑමක් - විශාල පිරිසක් මරුට
+
+*2024-07-30 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199362) · `si`
+
+ඉන්දියාවේ කේරළ ප්‍රාන්තයේ සිදුවූ නාය යෑමකින් 26 දෙනෙක් මියගොස් තවත් පිරිසක් අතුරුදන්වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+කේරළ ප්‍රාන්තයේ මෙප්පාදී නම් ප්‍රදේශයේ අද (30) එම නාය යෑම සිදුවී තිබේ.
+
+එහි හිරවී සිටින පිරිස සොයා ආරක්ෂක අංශ සහ සහන කණ්ඩායම් මෙහෙයුමක් ආරම්භ කර ඇති බව වාර්තා වෙයි.
+
+අධික වර්ෂාව හේතුවෙන් බේරාගැනීමේ මෙහෙයුම් සඳහා බාධා එල්ල වී ඇති අතර එම නාය යෑමට ගොදුරු වූ සමහරු චලියාර් ගංගාවේ ගසා ගෙන යන්නට ඇතැයි ද සැක කෙරෙයි.
+
+◼️
+
+[Data](articles/0f242695.json)
+
+---
 
 ### Landslide in Kerala: 20 killed
 
@@ -58,33 +92,47 @@ National Disaster Rescue Force is actively working to rescue the landslide.
 
 ---
 
-### කොරියාවේ රාජ්‍ය සේවකයන් පිරිසක් ලංකාවේ සංචාරයකට
+### Public Servants in Korea to visit Sri Lanka
 
 *2024-07-30 10:20:31* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-රාජ්‍ය-සේවකයන්-පිරිසක්-ලංකාවේ-සංචාරයකට/11-411082) · `si`
 
-දකුණු කොරියාවේ රාජ්‍ය සේවයේ නිරත සේවකයින්ගෙන් සැදුම් ලත් බෞද්ධ සංගමයේ  නිලධාරීන්ගෙන් සමන්විත 37 දෙනෙකුගෙන් යුතු කණ්ඩායමක් ශ්‍රී ලංකාවේ දින 07 ක සංචාරයක් සදහා 07/29 දින සවස කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
+A delegation of 37 Buddhist Association officials from South Korea arrived in Sri Lanka on July 29th via SriLankan Airlines. They plan to visit several historical and cultural sites including Anuradhapura, Mihintale, Sigiriya, Dambulla, Matale, Kandy, Nuwara Eliya, and the Pinnawala Elephant Orphanage. Their trip underscores the growing ties between the two countries' Buddhist communities.
 
-2000  වසරේ දී එරට රාජ්‍ය ආයතන 47 ක සේවය කරන බෞද්ධ ආගමික  සේවකයින්ගෙන් මෙම බෞද්ධ සංගමය ස්ථාපිත කර තිබේ. මෙම දකුණු කොරියානු බෞද්ධ සංගමයේ නිලධාරීන් පිරිස  අනුරාධපුරය , මිහින්තලය , සීගිරිය , පොළොන්නරුව , දඹුල්ල , මාතලේ අලුවිහාරය , මහනුවර දළදා මාළිගාව නැරඹීමට නියමිතය . මීට අමතරව නුවරඑළිය තේ කර්මාන්තශාලාවක් , පින්නවල අලි අනාථාගාරය සහ ජාතික කෞතුකාගාරය සහ අහුන්ගල්ල වෙරළ තීරය ද නැරඹීමට නියමිතය .
+🟩
 
-මෙම බෞද්ධ සංගමයේ නිලධාරීන්   පිරිස 07/29 දින සවස 05.00 ට දකුණු කොරියාවේ ඉන්චියොන් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 471 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+A group of 37 Buddhist Association officials who were prepared in the public ministerial servants in South Korea arrived at the Katunayake Airport on 07/29.
 
-...
+The Buddhist Association has established the Buddhist religious employees serving in 47 state institutions in the year 2000. The South Korean Buddhist Association officials to visit Anuradhapura, Mihintale, Sigiriya, Dambulla, Dambulla, Matale Aluhaya, Matale Aluhaya, Kandy Aluhaya, Kandy.. In addition, a Nuwara Eliya Tea Factory, Pinnawala Elephant Orphanage and the National Museum of the Pinnawala Elephant and the Coastal Coast.
+
+The National Buddhist Association officials from Inchion, South Korea, from SriLankan Airlines UL, arrived at the Katunayake Airport on the 471 airport.
+
+Ravani Wijewardena and Harandra Wijewardene, the deputy directors of the Sri Lanka Tourism Promotion Bureau, were also present at the Bandaranaike International Airport.
+
+◼️
 
 [Data](articles/08dc177d.json)
 
+[Extended Data](ext_articles/08dc177d.ext.json)
+
 ---
 
-### කාන්තා ක්‍රිකට් කණ්ඩායමට රු. කෝටි 15ක තෑග්ගක්
+### Women's cricket team Rs. A gift of Rs.15 crores
 
 *2024-07-30 10:17:26* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ක්‍රිකට්-කණ්ඩායමට-රු--කෝටි-15ක-තෑග්ගක්/9-411081) · `si`
 
-ආසියානු ක්‍රිකට්  ශූරියන් වූ ශ්‍රී ලංකා කාන්තා  ක්‍රිකට් කණ්ඩායමට ඇ.ඩො. ලක්ෂ 5 ක මුදල් (ශ්‍රී ලංකා රුපියල් කෝටි 15ක්) ත්‍යාගයක්  පිරිනැමීමට ශ්‍රී ලංක ක්‍රිකට්  ආයතනය ඊයේ පියවර ගෙන තිබිණ.
+Sri Lanka's women cricket team won the Asian Cricket Championship, receiving a Rs. 15 crore award from Sri Lanka Cricket (SLC). The presentation was made at the Cinnamon Gardens event, attended by leaders like Chamari Silva, Jayantha Dharmadasa, Ravin Fernando, and ministers Harin Fernando and Jamadasa.
 
-කොළඹ සිනමන් ග්‍රෑම් හෝටලයේදී පැවැති උත්සවයක දී මෙම චෙක්පත ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තුට  පිරිනැමීම සිදු වූයේ ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ සභාපති ශම්මි සිල්වා, එහි උප සභාපති ජයන්ත ධර්මදාස , රවීන් වික්‍රමරත්න  හා ක්‍රීඩා අමාත්‍ය හරින් ප්‍රනාන්දු යන මහත්වරුන්ගේ ප්‍රධානත්වයෙනි
+🟩
+
+Sri Lanka women's cricket team for Asian cricket champions. Sri Lanka Cricket (SLC) has been awarded a prize of Rs.
+
+Sri Lanka Female Leadership Chamari Silva, Sri Lanka Cricket Leaders, Jayantha Dharmadasa, Ravin Fernando and Sports Minister Jamadasa and Sports Minister Harin Fernando were presented at a function held at the Cinnamon Gam.
 
 ◼️
 
 [Data](articles/49486735.json)
+
+[Extended Data](ext_articles/49486735.ext.json)
 
 ---
 
@@ -1902,21 +1950,29 @@ The upcoming presidential election on September 21 will be an important election
 
 ---
 
-### තැපැල් ඡන්ද අයදුම්පත් අගෝස්තු 05 දා තෙක් භාර ගනියි
+### Postal voting applications will be taken over by August 5
 
 *2024-07-29 18:31:37* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්ද-අයදුම්පත්-අගෝස්තු-05-දා-තෙක්-භාර-ගනියි/11-411076) · `si`
 
-ජනාධිපතිවරණයට අදාළ තැපැල් ඡන්ද අයදුම්පත්‍ර ලබන මස 05 වැනි දින දක්වා බාර ගන්නා බැවින් එදිනට පෙර ලැබෙන සේ අයදුම්පත් ඉදිරිපත් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+The Elections Commission announced that postal voting applications for the upcoming presidential election must be submitted by August 5. This year, the election details have been made accessible through various electoral registers for ease of postal voting. Applicants are advised to verify their information and submit completed applications before the deadline. Applications can be obtained from designated locations and the Elections Commission's website.
 
-මෙවර  ජනාධිපතිවරණයේ තැපැල් ඡන්දදායකයන්ගේ පහසුව සඳහා ඡන්ද හිමි නාමලේඛන  ස්ථාන කිහිපයක ප්‍රදර්ශනය කර තිබෙන  බවද එම සභාව පෙන්වා දෙයි.
+🟩
 
-මේ අනුව පසුගිය 26 වැනි දින සිට  සාමාන්‍ය කාර්යාල වෙලාවන්හිදී  සියලුම දිස්ත්‍රික් ලේකම් කාර්යාල, ප්‍රාදේශීය ලේකම් කාර්යාල, ග්‍රාම නිලධාරී කාර්යාල, රාජ්‍ය පරිපාලන අමාත්‍යාංශය, කම්කරු දෙපාර්තමේන්තුව,රේජිස්ට්‍රාර් දෙපාර්තමේන්තුව, තැපැල් මූලස්ථානය, ධීවර හා ජලජ සම්පත් අමාත්‍යාංශය හා නාගරික සංවර්ධන අධිකාරිය ඇතුළු  කොළඹ දිස්ත්‍රික්කයේ රජයේ කාර්යාලවල මේ වසරට අදාළ ඡන්ද හිමි නාමලේඛනය ප්‍රදර්ශනය කර තිබෙන බවද මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+The Elections Commission states that the postal voting applications of the presidential election will be submitted to the 5th of next month.
 
-සියලුම දිස්ත්‍රික්කවල තැපැල් ඡන්ද අයදුම්කරුවන් ඒ ඒ දිස්ත්‍රික්කයේ තෙරිම්භාර නිලධාරින් වෙත එනම්  දිස්ත්‍රික් මැතිවරණ කාර්යාලයේ ලිපිනයට  යොමු කළ යුතු වේ.
+The church pointed out that this year's presidential election has been displayed in several electoral registers for the convenience of the postal election.
+
+All District Secretariats, Divisional Secretariats, Department of Labor, Department of Labor, Department of Labor, Department of Labor and Fisheries and Urban Development Authority including the Ministry of Postal Headquarters and Urban Development AuthorityThe Elections Commission states that the electoral regional documentation is displayed this year.
+
+Postal voting candidates in all districts should be referred to the reporting officers of the district, the address of the district election office.
+
+The Elections Commission requests the Election Commission from postal voting applicants to check their information and complete their information as the same person names are located.
 
 ...
 
 [Data](articles/8e6a1364.json)
+
+[Extended Data](ext_articles/8e6a1364.ext.json)
 
 ---
 
@@ -2179,47 +2235,5 @@ Government Press Officer Mrs. Kangani Kalpana Liyanage said that several documen
 [Data](articles/316d555c.json)
 
 [Extended Data](ext_articles/316d555c.ext.json)
-
----
-
-### 100 injured in Russian tracks
-
-*2024-07-29 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199340) · `si`
-
-In Russia, about 100 people were injured when a passenger train derailed near South Walgagadadaduwaad. Foreign media report eight trains were affected.
-
-🟩
-
-About 100 people were injured in an accident in Russia.
-
-Foreign media reports that 08 Railways were deracted.
-
-It is reported that a passenger train traveling in South Walgagadadaduwaad area in Russia has been derailed.
-
-◼️
-
-[Data](articles/31688331.json)
-
-[Extended Data](ext_articles/31688331.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 302.63/73 to US dollar
-
-*2024-07-29 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-63-73-to-us-dollar-174264/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 302.63/73 to the US dollar on Monday, from 303.10/20 to the US dollar on Friday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.45/55 percent, up from 10.40/50 percent.
-
-A bond maturing on 15.12.2027 closed at 11.80/12.00 percent, up from 11.68/78 percent.
-
-A bond maturing on 15.09.2029 closed at 12.15/25 percent, up from 12.14/18 percent. (Colombo/Jul29/2024)
-
-◼️
-
-[Data](articles/f0358632.json)
-
-[Extended Data](ext_articles/f0358632.ext.json)
 
 ---

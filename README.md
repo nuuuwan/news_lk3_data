@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 16:54:08**
+As of **2024-07-30 17:05:43**
 
 ## Newspaper Stats
 
-*Scraped **38,066** Articles*
+*Scraped **38,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,287
 dailyftlk | 2,434
 adalk | 3,478
 adaderanalk | 4,410
-tamilmirrorlk | 4,720
+tamilmirrorlk | 4,721
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,407
+adaderanasinhalalk | 6,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,065 (100.0%) of 38,066 articles have been extended.
+38,066 (100.0%) of 38,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### ஐ.ஜி.பி பிர​ச்சினையை தீர்க்க கோரிக்கை
+
+*2024-07-30 16:37:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ஜி-பி-பிர-ச்சினையை-தீர்க்க-கோரிக்கை/175-341289) · `ta`
+
+பொலிஸ் மா அதிபர் (IGP) தொடர்பில் தற்போது நிலவும் பிரச்சினைக்கு தீர்வு காணுமாறு தேர்தல்கள் ஆணைக்குழு ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் உத்தியோகபூர்வமாக கோரிக்கை விடுத்துள்ளது.
+
+பொலிஸ் மா அதிபர் இல்லாத காரணத்தினால் ஏற்படக்கூடிய நிறுவன ரீதியான இடையூறுகளை நிவர்த்தி செய்வதே கடிதத்தின் நோக்கம் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.  ரத்நாயக்க குறிப்பிட்டார்.
+
+எவ்வாறாயினும், பொலிஸ் மா அதிபரின் பற்றாக்குறை கவலையளிக்கும் அதே வேளையில், எதிர்வரும் தேர்தல்களை முன்னெடுப்பதற்கு இது ஒரு குறிப்பிடத்தக்க தடையாக கருதப்படவில்லை என அவர் தெளிவுபடுத்தினார்.
+
+◼️
+
+[Data](articles/f1a2207f.json)
+
+---
+
+### බඹර ප්‍රහාරයකින් ළමුන් 42ක් රෝහල ට
+
+*2024-07-30 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199377) · `si`
+
+අද (30) උදෑසන කින්නියා පොලිස් වසමේ කින්නියා අල් අක්ෂා පිරිමි විද්‍යාලයේ ගොඩනැගිල්ලක වහලේ තිබූ බඹර කූඩයක කොටසක් කඩා වැටීමෙන් එම විද්‍යාලයේ ළමුන් පිරිසක් බඹර ප්‍රහාරයකට ලක්වී තිබේ.
+
+එහිදී වයස අවුරුදු 10ත් 15ත් අතර ළමුන් 42ක් පමණ තුවාල ලබා තිබුණි.
+
+◼️
+
+[Data](articles/c82d427e.json)
+
+---
+
+### පොලිස්පති ගැටලුව ගැන මැතිවරණ කොමිසම ගත් තීරණය
+
+*2024-07-30 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199376) · `si`
+
+පොලිස්පති ගැටලුව සම්බන්ධයෙන් කඩිනම් විසඳුමක් දෙන්නැයි ජනපතිට ලිඛිතව දැනුම්දීමට මැතිවරණ කොමිසම තීරණය කර තිබේ.
+
+රාජගිරියේ පිහිටි මැතිවරණ මහලේකම් කාර්යාල පරිශ්‍රයේදී මැතිවරණ කොමිෂන් සභාවේ රැස්වීමක් අද (30) උදෑසන පැවැත්වූ අතර එහිදී එම තීරණය ගෙන ඇත.
+
+ජනාධිපතිවරණය පැවැත්වීමට අදාළ කරුණු කිහිපයක් පිළිබඳව එම රැස්වීමේ දී විශේෂ අවධානය යොමුව තිබූ බව සඳහන් ය.
+
+ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමෙන් අනතුරුව මැතිවරණ කොමිසම රැස් වූ පළමු අවස්ථාව ද මෙය වේ.
+
+◼️
+
+[Data](articles/ffc1863e.json)
+
+---
 
 ### 42 students hospitalised after wasp attack at school in Kinniya
 
@@ -46,6 +94,8 @@ A total of 42 students who were injured in the wasp attack have been admitted to
 
 [Data](articles/e750bc60.json)
 
+[Extended Data](ext_articles/e750bc60.ext.json)
+
 ---
 
 ### EC to write to President seeking prompt solution to IGP issue
@@ -54,7 +104,15 @@ A total of 42 students who were injured in the wasp attack have been admitted to
 
 The Election Commission has decided to write to President Ranil Wickremesinghe urging for a prompt solution to the issue concerning the post of the Inspector General of Police (IGP).
 
-◼️
+The decision was taken during a meeting of the Election Commission, which was held this morning (30) at the Election Secretariat premises in Rajagiriya.
+
+It is reported that special attention was directed towards several matters related to holding the presidential election, during the meeting.
+
+This is also the first time that the Election Commission convened a meeting after the announcement of the 2024 presidential election.
+
+President Wickremesinghe had recently emphasized that the issue regarding the appointment of the IGP will be resolved within a week through consultation with the Speaker and the Chief Justice.
+
+...
 
 [Data](articles/6633f4e8.json)
 
@@ -400,7 +458,7 @@ Pandiyankulam police rushed to the scene and rescued the body in the presence of
 
 ---
 
-### Sri Lanka’s second airport idling in off tourism season: official
+### Sri Lanka’s second airport idling in tourism off season: official
 
 *2024-07-30 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-second-airport-idling-in-off-tourism-season-official-174438/) · `en`
 
@@ -1454,7 +1512,11 @@ A new constitution has been drafted by the said committee for Sri Lanka Cricket.
 
 Accordingly, the Cabinet of Ministers has approved the joint proposal presented by the Minister of Foreign Affairs, the Minister of Power and Energy, the Minister of Labour and Foreign Employment and the Minister of Public Security to instruct the Legal Draftsman for preparation of a bill to formally approve and implement the new constitution.
 
-◼️
+Known as the ‘Chitrasiri Committee,’ the panel proposed a structure where the SLC would be governed by an 18-member board of directors.
+
+The government stepped in to overhaul the structure when then sports minister Roshan Ranasinghe dismissed the current SLC administration, replacing it with an interim committee.
+
+...
 
 [Data](articles/bfc8200d.json)
 
@@ -2231,67 +2293,5 @@ Their international experience and networks can help attract investment, raise g
 [Data](articles/c2db403c.json)
 
 [Extended Data](ext_articles/c2db403c.ext.json)
-
----
-
-### ’கண்ணிவெடியை வெடிக்கச் செய்வதா செயலிழக்கச் செய்வதா’
-
-*2024-07-30 01:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்ணிவெடியை-வெடிக்கச்-செய்வதா-செயலிழக்கச்-செய்வதா/175-341253) · `ta`
-
-The President emphasized the importance of supporting the Elections Commission to ensure a free and fair election, highlighting the constitutional powers of the commission. He addressed concerns about the timing of the Inspector General of Police's appointment and the potential impact on the election, stating his commitment to holding the election on September 21 despite legal challenges.
-
-🟩
-
-The President said that he was not ready to hold the presidential election on September 21 and that the presidential election was made on September 21. The election was a part of the sovereignty of the people.
-
-In addition to the 104th of the Constitution, the President pointed out that the Elections Commission has the power to hold an independent and fair election in the country, saying that it is the perfect duty of all to be given full support.
-
-President Ranil Wickremesinghe made this statement while addressing the Hon.
-
-If we had not brought the country's economy forward, people would not have received such privileges today. We have a duty to help workers who have returned from abroad to start a career. It is only because of your service that you have been able to provide such relief to the people of the country today.
-
-...
-
-[Data](articles/3c0cecc0.json)
-
-[Extended Data](ext_articles/3c0cecc0.ext.json)
-
----
-
-### MillenniumIT ESP welcomes new Board of Directors at MITESP Connect
-
-*2024-07-30 01:01:06* · [`dailyftlk`](https://www.ft.lk/business/MillenniumIT-ESP-welcomes-new-Board-of-Directors-at-MITESP-Connect/34-764904) · `en`
-
-MillenniumIT ESP gathered earlier this month at Cinnamon Lakeside to celebrate a memorable transition period and welcome their new Board of Directors, introducing Sujeewa Mudalige as Chairman and Samresh Kumar, Sharad Sreedharan, Savanth Sebastian, and Revantha Devasurendra as Non-Executive Directors, along with Ajith Devasurendra and legendary cricketer and investor Aravinda de Silva representing the Ambeon Group.
-
-The event featured speeches from MillenniumIT ESP CEO/Executive Director Shevan Goonetilleke as well as Sujeewa Mudalige and Aravinda de Silva, followed by a panel discussion moderated by MillenniumIT ESP Chief Revenue Officer Shalindra Fernando.
-
-The event also included a live Q and A session with employees, a humorous speech by award-winning MillenniumIT ESP Toastmaster Thejani Wijewardena, and musical performances by company employees, also known as ‘Millenniumites’, Yashithi Dharmawimala, Danindu Edirisinghe, and Thisal Amarasena.
-
-◼️
-
-[Data](articles/c333eaa8.json)
-
-[Extended Data](ext_articles/c333eaa8.ext.json)
-
----
-
-### Sri Lankan jewellers participate at 19th Singapore International Jewellery Expo
-
-*2024-07-30 00:57:41* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-jewellers-participate-at-19th-Singapore-International-Jewellery-Expo/34-764903) · `en`
-
-The High Commission of Sri Lanka in Singapore, in collaboration with the National Gem and Jewellery Authority of Sri Lanka (NGJA), organised the Sri Lanka pavilion at the Singapore International Jewellery Expo (SIJE) 2024 held from 11 to 14 July at Marina Bay Sands, Singapore.
-
-Four Sri Lankan companies, namely Cara Jewellers, Ceylon Shine Gems, Raw Ceylon Sapphire, and Sunshine Gems and Jewellers, represented Sri Lanka showcasing their products.
-
-More than 300 companies from 35 countries displayed their products at the SIJE this year, and the exhibition featured more than $ 250 million worth of local and international gems and jewellery.
-
-The Sri Lankan High Commissioner to Singapore Senarath Dissanayake joined the ribbon cutting ceremony with the Guest of Honour, Singapore Trade and Industry State Minister Alvin Tan, and other dignitaries to declare the event open.
-
-...
-
-[Data](articles/65153f11.json)
-
-[Extended Data](ext_articles/65153f11.ext.json)
 
 ---

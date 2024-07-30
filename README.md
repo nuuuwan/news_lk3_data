@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 19:35:46**
+As of **2024-07-30 19:54:17**
 
 ## Newspaper Stats
 
-*Scraped **38,101** Articles*
+*Scraped **38,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,287
 dailyftlk | 2,434
 adalk | 3,483
 adaderanalk | 4,413
-tamilmirrorlk | 4,723
+tamilmirrorlk | 4,725
 dailymirrorlk | 4,733
 virakesarilk | 6,011
 adaderanasinhalalk | 6,414
@@ -26,51 +26,93 @@ adaderanasinhalalk | 6,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,096 (100.0%) of 38,101 articles have been extended.
+38,101 (100.0%) of 38,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### රනිල්ට පාර්ලිමේන්තු මන්ත්‍රීවරු 92කගේ සහාය
+### 92 எம்.பிக்கள் ஜனாதிபதியின் கையை பிடித்தனர்
+
+*2024-07-30 19:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/92-எம்-பிக்கள்-ஜனாதிபதியின்-கையை-பிடித்தனர்/175-341299) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் 92 பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்த அர்பணிப்பதாக சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து உறுதிப்படுத்தியுள்ளனர்
+
+◼️
+
+[Data](articles/e60b1ea7.json)
+
+---
+
+### 92 எம்.பிக்கள் ஜனாதிபதியின் கையை பிடித்தனர்
+
+*2024-07-30 19:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/92-எம்-பிக்கள்-ஜனாதிபதியின்-கையை-பிடித்தனர்/175-341298) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் 92 பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்த அர்பணிப்பதாக சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து உறுதிப்படுத்தியுள்ளனர்
+
+◼️
+
+[Data](articles/3c5434e5.json)
+
+---
+
+### 92 MPs to Ranil
 
 *2024-07-30 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199383) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීමට කැපවන බවට, පාර්ලිමේන්තු මන්ත්‍රීවරුන් 92 දෙනෙකු තහවුරු කර ඇතැයි ජනාධිපති මාධ්‍ය අංශය පවසයි.
+92 MPs confirm President Ranil Wickremesinghe's win in upcoming elections, as stated by the Presidential Media Unit during his speech at the Government Secretariat.
 
-ඒ, ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට ජනාධිපති ලේකම් කාර්යාලයේ පැවති ආණ්ඩු පක්ෂ  රැස්වීමේදිය.
+🟩
+
+The Presidential Media Unit said that 92 MPs have confirmed that President Ranil Wickremesinghe's victory in the next presidential election.
+
+The president was speaking at the Government Secretariat at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/b44e6445.json)
 
+[Extended Data](ext_articles/b44e6445.ext.json)
+
 ---
 
-### 92 பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து ஆதரவு தெரிவிப்பு
+### 92 MPs meet President Ranil Wickremesinghe
 
 *2024-07-30 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189844) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் 92 பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்த அர்பணிப்பதாக சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து உறுதிப்படுத்தியுள்ளதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+92 MPs support President Ranil Wickremesinghe, confirming his dedication to his own victory in the upcoming election.
+
+🟩
+
+The Presidential Media Unit said that 92 MPs in the upcoming presidential election have confirmed that President Ranil Wickremesinghe has been devoted to the victory of President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/9822b0d6.json)
 
+[Extended Data](ext_articles/9822b0d6.ext.json)
+
 ---
 
-### இலங்கையின் ஒருநாள் அணிக்கும் தலைவரானார் சரித் அசலன்க
+### Sarid Asalanga became the leader of the Sri Lankan ODI team
 
 *2024-07-30 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189842) · `ta`
 
-இந்தியாவுக்கு எதிராக நடைபெறவுள்ள 3 போட்டிகள் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடருக்கான இலங்கை அணியின் தலைவராக சரித் அசலன்க நியமிக்கப்பட்டுள்ளதுடன் 16 வீரர்கள் கொண்ட குழாமும் அறிவிக்கப்பட்டுள்ளது.
+Sarid Asalanka is now leading Sri Lanka's ODI team in a series against India, succeeding Kusal Mendis as captain. The 16-player squad includes notable players like Asalanka, Bethum Nissanka, and Avishka Fernando among others.
 
-இதற்கு முன்னர் ஒருநாள் கிரிக்கெட் அணியின் தலைவராக குசல் மெண்டிஸ் பதவி வகித்தார்.
+🟩
 
-இலங்கை குழாத்தில் சரித் அசலன்க (தலைவர்), பெத்தும் நிஸ்ஸன்க, அவிஷ்க பெர்னாண்டோ, குசல் மெண்டிஸ், சதீர சமரவிக்ரம, கமிந்து மெண்டிஸ், ஜனித் லியனகே, நிஷான் மதுஷ்க, வனிந்து ஹசரங்க, துனித் வெல்லாலகே, சாமிக்க கருணாரட்ன, மஹீஷ் தீக்ஷன, அக்கில தனஞ்சய, டில்ஷான் மதுஷன்க, மதீஷ பத்திரண, அசித்த பெர்னாண்டோ ஆகியோர் இடம்பெறுகின்றனர்.
+Sarid Asalank has been appointed as the captain of the Sri Lankan squad for the three -match international ODI series against India and a 16 -player squad has been announced.
+
+Earlier, Kusal Mendis was the captain of the ODI cricket team.
+
+In the Sri Lankan group, Sarid Asalanga (Chairman), Bethum Nissanka, Avishka Fernando, Kusal Mendis, Sadheera Samarawickrama, Kamindu Mendis, Janith Liyanage, Nishan Madushka, Waninda Pattalake, Tunit Vellalake, Samika KarunaratnaThe features of Asitha Fernando.
 
 ◼️
 
 [Data](articles/9afc9a56.json)
+
+[Extended Data](ext_articles/9afc9a56.ext.json)
 
 ---
 
@@ -242,19 +284,25 @@ By then, the country's economy is currently recovering from the action taken. Fo
 
 ---
 
-### එංගලන්ත පුහුණුකරු ධුරයට සංගා ඉදිරිපත් වෙයි
+### Sanga offers the post of England coach
 
 *2024-07-30 17:56:00* · [`adalk`](https://www.ada.lk/sports/එංගලන්ත-පුහුණුකරු-ධුරයට-සංගා-ඉදිරිපත්-වෙයි/9-411096) · `si`
 
-එංගලන්ත ක්‍රිකට් කණ්ඩායමේ සීමිත පන්දුවාර තරගවල පුහුණුකරු ධුරයට ශ්‍රී ලංකා හිටපු නායක කුමාර් සංගක්කාරද ඉල්ලුම් කර ඇති බව එංගලන්ත මාධ්‍ය වාර්තා කරයි. එංගලන්ත වත්මන් සීමිත පන්දුවාර තරගවල පුහුණුකරු ලෙස කටයුතු කරන මැතිව් මෝට් දින කිහිලයකින් සිය ධුරයෙන් ඉවත්වීමට නියමිතව තිබේ.
+Kumar Sangakkara, Sri Lanka's cricket legend, has applied for England's limited-overs coach position, previously held by Matthew Mott. England has also considered Mike Hussey of Australia for the role. Reports suggest Sangakkara is favored for the job.
 
-එංගලන්ත කණ්ඩායමේ සීමිත පන්දුවාර නායකයා ලෙස තවදුරටත් ජෝස් බට්ලර් කණ්ඩායමේ රඳවා ගැනීමට එංගලන්තය තීරණය කර තිබේ. ජෝස් බට්ලර් අයි.පී.එල්. තරගාවලියේදී රාජස්ථාන් රෝයල්ස් කණ්ඩායම නියෝජනය කරන අතර එහි ක්‍රිකට් අධ්‍යක්ෂ ලෙස කටයුතු කරන්නේ කුමාර් සංගක්කාරයි.
+🟩
 
-එංගලන්ත මාධ්‍ය වාර්තා කරන ආකාරයට කුමාර් සංගක්කාර අපේක්ෂකයා අතරින් ඉදිරියෙන් සිටියි. ඔහුට අමතරව  එංගලන්ත හිටපු පිතිකරු ජොනතන් ට්‍රොට් , ඔස්ට්‍රේලියාවේ මයික් හසීද මෙම ධුරය සඳහා ඉදිරිපත් වී ඇති බව සඳහන් වෙයි.
+Sri Lanka's leader Kumar Sangakkara has also applied for the ruling trainer of the SLC cricket team. Matthew Mot is due to resign from his post with the coach of England's current limited overs.
+
+England has decided to hold the Jose Butler team as the limited oversland of England.. Jose Butler IPL. Rajasthan Royals team represents the team and is Kumar Sangakkara.
+
+According to England media reports, Kumar Sangakkara is ahead. In addition to him, England have been offered for the post of Mike Husli, Australia, Australia.
 
 ◼️
 
 [Data](articles/b326abd6.json)
+
+[Extended Data](ext_articles/b326abd6.ext.json)
 
 ---
 
@@ -864,25 +912,35 @@ But there are seven groups here and some of the civil society, so they have sign
 
 ---
 
-### பொதுஜன பெரமுனவின் தீர்மானத்தால் ரணிலுக்கு எதிரான குற்றச்சாட்டு புஷ்வாணமாகியுள்ளது - ஐக்கிய தேசிய கட்சி
+### Ranil's accusation has been made by the PA - the United National Party
 
 *2024-07-30 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189801) · `ta`
 
-ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிப்பதில்லை என்ற பொதுஜன பெரமுனவின் தீர்மானம் மூலம் ராஜபக்ஷ்வினரை ரணில் பாதுகாக்கிறார் என்ற எதிர்க்கட்சியின் குற்றச்சாட்டு புஸ்வாணமாகியுள்ளது.
+The United National Party (PA) denies accusations that Ranil Wickremesinghe is protecting Rajapakse, stating he will run as an independent in the upcoming presidential election. The PA supports Wickremesinghe, highlighting his leadership experience and international connections. Despite opposition claims, the PA asserts Wickremesinghe's commitment to rebuilding the country, contrasting with potential risks of appointing inexperienced candidates.
 
-ரணில் ராஜபக்ஷ் என்ற பிரசாரமும் பொய்யாகியுள்ளது என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் லக்ஷ்மன் விஜயமான்ன தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+The Opposition's allegation that Ranil is protecting Rajapakse by the PA is not supportive of Ranil Wickremesinghe.
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுன அவர்களின் வேட்பாளர் ஒருவரை நியமிக்க்க தீர்மானித்துள்ளது.
+Former United National Party (UNP) parliamentarian Lakshman Vijayamanna said that Ranil Rajapaksa's campaign was also false.
 
-இவர்களின் இந்த தீர்மானம் மூலம் எதிர்க்கட்சியினர் இதுவரை காலமும் ரணில் விக்ரமசிங்க ராஜபக்ஷ்வினரை பாதுகாத்து வருகிறார். ரணில் ராஜபக்ஷ் என்றே எமக்கு எதிராக பிரசாரம் செய்துவந்தார்கள்.
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (30).
 
-ஆனால் தற்போது பொதுஜன பெரமுனவின் தீர்மானம் மூலம் இதுவரை காலமும் எமக்கு எதிராக எதிர்க்கட்சியினர் தெரிவித்துவந்த குற்றச்சாட்டு தற்போது புஸ்வாணமாகியுள்ளது. ராஜபக்ஷ்வினரை ரணில் விக்ரமசிங்க பாதுகாக்கவில்லை என்பது உறுதியாகி இருக்கிறது.
+The Sri Lanka PA has decided to appoint a candidate in the upcoming presidential election.
+
+Through this resolution, the opposition has been defending Ranil Wickremesinghe Rajapakse.. Ranil Rajapakse was campaigning against us.
+
+But now, through the PA's resolution, the allegations made by the opposition parties against us have now become a bus.. It is certain that Ranil Wickremesinghe did not protect Rajapakse.
+
+Ranil Wickremesinghe will contest the upcoming presidential election as an independent and pure candidate.
+
+In the election campaigns. We are happy with this.
 
 ...
 
 [Data](articles/4c26bb41.json)
+
+[Extended Data](ext_articles/4c26bb41.ext.json)
 
 ---
 
@@ -2271,43 +2329,5 @@ The government stepped in to overhaul the structure when then sports minister Ro
 [Data](articles/bfc8200d.json)
 
 [Extended Data](ext_articles/bfc8200d.ext.json)
-
----
-
-### Cabinet nod to draft legislation to resolve Sri Lanka Cricket issues
-
-*2024-07-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100872/cabinet-nod-to-draft-legislation-to-resolve-sri-lanka-cricket-issues-) · `en`
-
-The Cabinet of Ministers has approved the drafting of necessary legislation based on the recommendations of the K.T. Chitrasiri report to address and resolve the issues faced by Sri Lanka Cricket.
-
-◼️
-
-[Data](articles/c1939102.json)
-
-[Extended Data](ext_articles/c1939102.ext.json)
-
----
-
-### Cabinet approval for importing eggs
-
-*2024-07-30 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199358) · `si`
-
-The Sri Lankan Cabinet approved egg imports to stabilize local markets and support the bakery industry during Ramadan and Christmas. The government imported 224 million eggs, with 95% distributed through Lanka Sathosa at a set price.
-
-🟩
-
-Cabinet approval has been granted to import eggs for the prices of eggs in the local market.
-
-The proposal submitted by the Cabinet of Trade, Commerce and Food Security, was approved by the Cabinet of Trade, Commerce and Food Surveying to stabilize the market eggs and the bakery production industry in the coming Ramadan and Christmas Celebrations.
-
-The Government of Sri Lanka has imported 224 million eggs by the Cabinet (Various) of the Cabinet (Miscellaneous) of the Cabinet (Miscellaneous) of the Cabinet of Ministers dated.
-
-95% of them have been distributed by the Lanka Sathosa market at a cost of Rs.
-
-◼️
-
-[Data](articles/b6193ec5.json)
-
-[Extended Data](ext_articles/b6193ec5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 20:36:02**
+As of **2024-07-30 20:55:03**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,415
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,104 (100.0%) of 38,108 articles have been extended.
+38,108 (100.0%) of 38,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### චමිදුට විස්සයි20 වරම් - දසුන් ඉවතට
+### Chamindu to Chamindu 20 Champs - Views away
 
 *2024-07-30 19:56:11* · [`adalk`](https://www.ada.lk/sports/චමිදුට-විස්සයි20-වරම්---දසුන්-ඉවතට/9-411106) · `si`
 
-ඉන්දියාව සමගින් පැවැත්වෙන තෙවැනි හා අවසන් විස්සයි20 තරගයට චමිඳු වික්‍රමසිංහ කැඳවීමට ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම කටයුතු කර තිබේ.
+The Sri Lankan cricket team, led by Charith, will play its final Twenty20 match against India. Chamili Wickremasinghe replaces Chamindu in the lineup. Despite losing Chamindu, the team remains strong, with players like Wish, Kusal Mendis, and others ready to take on India.
 
-ඒ අනුව ශ්‍රී ලංකාව වෙනුවෙන් අලුතෙන්ම විස්සයි20 වරම් හිමිකරගත් ක්‍රිඩකයා බවට චමිඳු වික්‍රමසිංහ පත්වෙනු ඇත. ඔහු කණ්ඩායමට පැමිණීමත් සමග දසුන් ශානකට කණ්ඩායමට ස්ථානය අහිමි වී තිබේ.
+🟩
 
-කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා නායක චරිත් අසලංක මුලින්ම පන්දු රැකීමට තීරණය කළේය.
+The Sri Lankan cricket team has taken steps to call on third and final Twenty20 match against India.
 
-ශ්‍රී ලංකා කණ්ඩායම - පැතුම්, කුසල් මෙන්ඩිස්, කුසල් පෙරේරා, කමිඳු, චරිත්, චමිඳු, වනිඳු, රමේෂ්, මතීෂ,මහීෂ්, අසිත
+Accordingly, Chamili Wickremasinghe will be the worshiper of the New T20 time for Sri Lanka. With the arrival of the group, the team has lost the place to the group.
+
+Sri Lanka captain Charith won the toss and the toss of the coin, he decided to return to bowling.
+
+Sri Lanka - Wish, Kusal Mendis, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Pereet, Chident, Wannindu, Ramesh, Mahesh, Mahes
 
 ◼️
 
 [Data](articles/87447b87.json)
+
+[Extended Data](ext_articles/87447b87.ext.json)
 
 ---
 
@@ -78,29 +84,41 @@ Meanwhile, the Indian team, Arshadp Sing and Rishab Bar has not been named.
 
 ---
 
-### මන්ත්‍රීවරු 92ක් ජනපතිගේ සහායට
+### 92 MPs to support Presidential
 
 *2024-07-30 19:33:26* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීවරු-92ක්-ජනපතිගේ-සහායට/11-411102) · `si`
 
-ජනපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනපති ලේකම් කාර්යාලයේදී පැවැත්වෙන ආණ්ඩු පක්ෂයේ මන්ත්‍රී හමුවේදී ඉදිරි ජනපතිවරණයෙදී රනිල් වික්‍රමසිංහ මහතාට සහාය ලබාදෙන බවට මන්ත්‍රීවරු 92ක් ප්‍රකාශ කළ බව ජනපති මාධ්‍ය අංශය නිවේදනය කරයි.
+92 Members of Parliament (MPs) have pledged support for Ranil Wickremesinghe in the upcoming presidential election, as announced by the President's Media Division.
+
+🟩
+
+President's Media Division announced that he would support Ranil Wickremesinghe in the next presidential election at the Presidential Member of Parliament
 
 ◼️
 
 [Data](articles/d50f7cd7.json)
 
+[Extended Data](ext_articles/d50f7cd7.ext.json)
+
 ---
 
-### එක්දින නායකත්වයෙන් කුසල් ඉවතට වගකීම චරිත්ට, චාමිකටත් කණ්ඩායමේ අවස්ථාව
+### Charith, Chamaikara also is responsible for the climb from the ODI
 
 *2024-07-30 19:28:35* · [`adalk`](https://www.ada.lk/sports/එක්දින-නායකත්වයෙන්-කුසල්-ඉවතට-වගකීම-චරිත්ට--චාමිකටත්-කණ්ඩායමේ-අවස්ථාව/9-411101) · `si`
 
-ඉන්දීය කණ්ඩායම සමගින් පැවැත්වීමට නියමිත එක්දින තරගාවලියේ නායකත්වය සඳහාද විස්සයි20 නායක චරිත් අසලංක පත්කිරීමට ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව කටයුතු කර තිබේ.
+Charith Asalanka and Chamika Karunaratne are key figures in Sri Lanka's ODI series against India, with Asalanka playing a crucial role in the team's performance. The selection committee replaced Kusal Mendis with Karunaratne, affecting the original 16-member squad. Despite this change, both players remain significant contributors to the team's success.
 
-ඒ අනුව එක්දින නායකත්වයෙන් කුසල් මෙන්ඩිස් ඉවත් කර තිබේ. 16 දෙනෙකුගෙන් සමන්විත මෙම සංචිතයේදී තුන් ඉරියව් ක්‍රීඩක දසුන් ශානකට අවස්ථාව අහිමි වී තිබේ. කෙසේ වෙතත් චාමික කරුණාරත්න කණ්ඩායමට කැඳවා තිබේ.
+🟩
+
+The Sri Lanka Cricket Selection Committee has been appointed to the leadership of the ODI series with Indian team.
+
+Accordingly, Kusal Mendis has been removed from the ODI. The three-genuine pool of 16 people have lost the opportunity. However, Chamika Karunaratne has been summoned by the group.
 
 ◼️
 
 [Data](articles/9dfae8be.json)
+
+[Extended Data](ext_articles/9dfae8be.ext.json)
 
 ---
 
@@ -312,19 +330,25 @@ As the Elections Commission announced that the 9th Presidential Elections will b
 
 ---
 
-### වැවිලි බෝග වලින් වැඩි අපනයන ආදායමක්
+### Export earnings from plantation crops
 
 *2024-07-30 18:08:57* · [`adalk`](https://www.ada.lk/breaking_news/වැවිලි-බෝග-වලින්-වැඩි-අපනයන-ආදායමක්/11-411097) · `si`
 
-තේ, රබර්, පොල් ඇතුළු වැවිලි බෝග 05කින් පසුගිය වසරේ මුල් මාස 04 තුළදී ලද අපනයන ආදායමට වඩා ඩොලර් මිලියන234ක ආදායමක් මෙම වසරේ එම කාලයෙහි ලබා තිබේ.
+In the first four months of 2023, Sri Lanka earned $234 million from exporting tea, rubber, coconuts, and pepper. This marks a significant increase compared to the same period last year. The Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, has been tasked with overseeing the growth of these sectors.
 
-ඒ අනුව තේ,රබර්, පොල්, කුරුඳු හා ගම්මිරිස් යන වැවිලි බෝගවලින් මෙම ආදායම ලැබී ඇති බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ ප්‍රධානත්වයෙන් එම අමාත්‍යාංශයේදී පැවති වැවිලි අංශයේ ප්‍රගතිය පිළිබඳ සාකච්ඡාවේදී  අනාවරණය විය.
+🟩
 
-එහිදී වැඩිදුරටත් සඳහන් වූ පරිදි මෙම වසරේ ජනවාරි සිට අප්‍රේල් දක්වා වූ කාලයෙහි අදාළ බෝග අපනයනයෙන් ඩොලර් මිලියන 1118.06 ක් උපයා ඇති අතර 2023 වසරේ එම කාලය තුළ ඩොලර් මිලියන 234ක ආදායමක් ලබා තිබේ.
+In the first four months of tea, rubber, coconuts, has received a $ 234 million revenue from export earnings in the first four months of last year.
+
+Accordingly, Minister of Agriculture and Plantation Industries and Plantation Industries and Plantation Industries, Mahinda Amaraweera has been appointed to the progress of the plantation sector at the Ministry under the patronage of tea, rubber, coconut and pepper.
+
+According to January to April this year, exports of crops from January to April was Rs.
 
 ◼️
 
 [Data](articles/53aa4b5a.json)
+
+[Extended Data](ext_articles/53aa4b5a.ext.json)
 
 ---
 

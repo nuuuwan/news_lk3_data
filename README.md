@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 22:20:40**
+As of **2024-07-30 22:36:17**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,114 (100.0%) of 38,121 articles have been extended.
+38,121 (100.0%) of 38,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### மகிந்த தனது நிலைப்பாட்டை மாற்றவேண்டும் - ரணிலுக்கு ஆதரவை வழங்கவேண்டும் - இல்லாவிட்டால் அதற்கான விளைவுகளை அனுபவிக்கவேண்டும்- பெரமுனவின் நாடாளுமன்ற உறுப்பினர்கள்
+### Mahinda has to change his position - support Ranil - Otherwise, the consequences should be experienced - Peramuna's MPs
 
 *2024-07-30 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/189848) · `ta`
 
-ஜனாதிபதி ரணில்விக்கிரமசிங்கவை சந்தித்து ஆதரவளித்துள்ள பொதுஜனபெரமுனவின் நாடாளுமன்ற உறுப்பினர்கள் கட்சி தலைவர் மகிந்த ராஜபக்ச ரணில்விக்கிரமசிங்கவிற்கு ஆதரவளிக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ளனர்.
+PA MPs urge Mahinda Rajapaksa to back Ranil Wickremesinghe, warning of dire consequences including potential loss in the next parliamentary election and possible dissolution of the PA.
 
-ராஜபக்ச தனது நிலைப்பாட்டில் பாரிய மாற்றத்தை மேற்கொள்ளவேண்டும் ரணிலைஆதரிக்கவேண்டும் அல்லது அதற்கான விளைவுகளை எதிர்கொள்ளவேண்டும் என  அவர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
+🟩
 
-திங்கட்கிழமை எடுத்த முடிவில் மகிந்த ராஜபக்சவின் கட்சி உறுதியாகயிருந்தால் அடுத்த நாடாளுமன்ற தேர்தலில்கட்சிக்கான ஆதரவு குறித்து மீள்பரிசீலனை செய்யவேண்டியிருக்கும் எனவும் பொதுஜனபெரமுனவின் நாடாளுமன்ற உறுப்பினர்கள் தெரிவித்துள்ளனர்.
+Members of Parliament of the PA, who have met President Ranil Wickremesinghe, have appealed to party leader Mahinda Rajapaksa to support Ranil Wickremesinghe.
 
-ரணில்விக்கிரமசிங்கவிற்கு ஆதரவளிக்க தவறினால் அது பொதுஜனபெரமுனவின் அழிவிற்கு வழிவகுக்கும் எனவும் அவர்கள் எச்சரித்துள்ளனர்.
+They have warned that Rajapakse should take a massive change in his position or to overcome Ranil or face its consequences.
+
+PA MPs have said that if Mahinda Rajapaksa's party is determined to take up on Monday, the next parliamentary election will have to be reclaimed for the next parliamentary election.
+
+They also warned that failure to support Ranil Wickremesinghe would lead to the destruction of the PA.
 
 ◼️
 
 [Data](articles/6229b66c.json)
+
+[Extended Data](ext_articles/6229b66c.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ But Pezeshkian takes office at a time of escalating Middle East tensions over Is
 ...
 
 [Data](articles/49826814.json)
+
+[Extended Data](ext_articles/49826814.ext.json)
 
 ---
 
@@ -92,19 +100,27 @@ The Sri Lankan team won 138 runs in order to win the match.
 
 ---
 
-### சந்தர்ப்பத்தைப் பயன்படுத்திக் குழப்பம் விளைவித்தால் நாடு பாரிய சேதத்துக்குள் அகப்படும்; ஜனாதிபதி, பிரதமர், சபாநாயகருக்கு ஆசிய மனித உரிமைகள் ஆணைக்குழு எச்சரிக்கை
+### If you use the opportunity, the country will be caught in massive damage;Asian Human Rights Commission warns President, Prime Minister and Speaker
 
 *2024-07-30 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/189847) · `ta`
 
-உயர்நீதிமன்றத்தின் இறுதித்தீர்ப்பு அறிவிக்கப்படும் வரையான இடைக்காலத்துக்கு பதில் பொலிஸ்மா அதிபர் ஒருவரை நியமிப்பதற்கு அரசியலமைப்பில் இடமளிக்கப்பட்டிருப்பதுடன், பொலிஸ் சேவையில் ஈடுபடும் பெரும் எண்ணிக்கையானோரில் அதற்குப் பொருத்தமான ஒருவரைத் தெரிவுசெய்யமுடியும்.
+The Asian Human Rights Commission warns that political maneuvers aimed at undermining the Supreme Court could lead to significant harm to Sri Lanka, already grappling with crises. The commission highlights concerns over the potential misuse of power and the importance of adhering to constitutional norms and the rule of law.
 
-மாறாக ஜனாதிபதி, பிரதமர் மற்றும் சபாநாயகர் உள்ளிட்டோர் இச்சந்தர்ப்பத்தைப் பயன்படுத்தி உயர்நீதிமன்றத்துக்கு எதிராகக் குழப்பம் விளைவிப்பதற்கு முற்படுவார்களேயானால், ஏற்கனவே பல்வேறு நெருக்கடிகளுக்கு முகங்கொடுத்திருக்கும் நாட்டுக்கு மிகமோசமான சேதம் ஏற்படும் என்று ஆசிய மனித உரிமைகள் ஆணைக்குழு எச்சரித்துள்ளது.
+🟩
 
-பாராளுமன்றத்தில் கடந்த வெள்ளிக்கிழமை விசேட அறிவிப்பொன்றை வெளியிட்டு உரையாற்றிய பிரதமர் தினேஷ் குணவர்தன, தேசபந்து தென்னக்கோன் பொலிஸ்மா அதிபராகக் கடமையாற்றுவதற்கு இடைக்காலத்தடைவிதித்து உயர்நீதிமன்றம் பிறப்பித்துள்ள உத்தரவுக்கு எவ்வித சட்டவலுவும் கிடையாது என்பதால் அதனை ஏற்கமுடியாது எனவும், அரசியலமைப்புப்பேரவையின் அதிகாரத்தை நீதிமன்றத்தினால் சவாலுக்கு உட்படுத்தமுடியாது எனவும் தெரிவித்தார்.
+The Constitution has been appointed to appoint a Inspector General of Police in response to the interim until the end of the Supreme Court is announced, and one of the large number of police service can be selected.
+
+On the contrary, the Asian Human Rights Commission has warned that if the President, the Prime Minister and the Speaker are trying to confuse the Supreme Court, there will be bad damage to the country that is already facing various crises.
+
+Addressing a special announcement in Parliament last Friday, Prime Minister Dinesh Gunawardena said that the High Court's order to serve as the Chief Minister of the Deshand Pandu Tennakoon Police will not be accepted by the court.
+
+At the same time, President Ranil Wickremesinghe announced last week that he would quit the appointment of a police chief in response to the Supreme Court's order as he would contest the upcoming presidential election.. He also made contradicting comments issued by the High Court on the issue of national pandan.
 
 ...
 
 [Data](articles/d06bbc39.json)
+
+[Extended Data](ext_articles/d06bbc39.ext.json)
 
 ---
 
@@ -218,37 +234,55 @@ The Presidential Media Unit said that 92 MPs in the upcoming presidential electi
 
 ---
 
-### இலங்கை அணியில் அறிமுகமாகிறார் சமிந்து விக்ரமசிங்க
+### Samindu Wickremasinghe makes his debut in Sri Lanka
 
 *2024-07-30 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189845) · `ta`
 
-இந்தியாவுக்கும் இலங்கைக்கும் இடையிலான 3ஆவது சர்வதேச ரி20 கிரிக்கெட் போட்டி இன்னும்  சற்று நேரத்திற்கு முன்னர் ஆரம்பமானது.
+In the delayed 3rd T20 match between India and Sri Lanka due to rain, Samindu Wickremasinghe made his debut, replacing Dasun Shanaka. Notably, he performed well across all aspects of the game. India also saw changes with Rishabh Pant, Hardik Pandya, Axar Patel retiring, and Shivam Dube, Washington Sundar, and Khalil Ahmed joining the team.
 
-இன்று மாலை மழை பெய்ததன் காரணமாக 3ஆவது போட்டி ஒரு மணித்தியாலம் தாமதித்தே ஆரம்பமானது.
+🟩
 
-இன்றைய போட்டியில் இலங்கை அணியில் சகலதுறை வீரர் சமிந்து விக்ரமசிங்க அறிமுகமாகிறார். லங்கா பிறீமியர் லீக்கில் சமிந்து விக்ரமசிங்க சகலதுறைகளிலும் பிரகாசித்தது குறிப்பிடக்கத்தது. தசுன ஷானக்கவுக்கு பதிலாகவே அவர் அணியில் இணைத்துக்கொள்ளப்பட்டுள்ளார்.
+The 3rd International T20 cricket match between India and Sri Lanka started a little while ago.
 
-ரிஷாப் பான்ட், ஹார்திக் பாண்டியா, அக்சார் பட்டேல், அர்ஷ்தீப் சிங் ஆகியோருக்கு ஓய்வு வழங்கப்பட்டு ஷிவம் டுபே, வொஷிங்டன் சுந்தர், கலீல் அஹ்மத் ஆகியோர் குழாத்தில் இணைத்துக் கொள்ளப்பட்டுள்ளனர்.
+Due to the rains this evening, the 3rd match began to delay in one hour.
 
-இலங்கை: பெத்தும் நிஸ்ஸன்க, குசல் மெண்டிஸ், குசல் பெரேரா, கமிந்து மெண்டிஸ், சரித் அசலன்க (தலைவர்), சமிந்து விக்ரமசிங்க, வனிந்து ஹசரங்க, ரமேஷ் மெண்டிஸ், மஹீஷ் தீக்ஷன, மதீஷ பத்திரண, அசித்த பெர்னாண்டோ,
+All -rounder Samindu Wickremasinghe makes his debut in today's match. It is noteworthy that Samundu Wickremasinghe shone in all sectors. He has been included in the squad instead of Dasuna Shanaka.
 
-...
+Rishabh Bant, Hardik Pandya, Akshar Patel and Arshdeep Singh have been retired and Shivam Dubey, Washington Sundar and Khalil Ahmad have been recruited.
+
+Sri Lanka: Bethum Nissanka, Kusal Mendis, Kusal Perera, Kamindu Mendis, Sarit Asalanga (Chairman), Samindu Wickremesinghe, Wanindu Hasaranga, Ramesh Mendis, Mahish Dixhana, Mathisha Pathirana, Asita Fernando
+
+India: Yaswvi Jaiswal, Shubman Gill, Sanju Semson, Suriyakumar Yadav (Team Leader), Shivam Tube, Ryan Barak, Washington Sundar, Ravi Bishnoi, Mohammed Siraj, Khalil Ahmad.
+
+◼️
 
 [Data](articles/07cf118c.json)
 
+[Extended Data](ext_articles/07cf118c.ext.json)
+
 ---
 
-### නිදහස් පක්ෂයේ තීරණය හෙට
+### Free party decision tomorrow
 
 *2024-07-30 20:08:21* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-තීරණය-හෙට/11-411108) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මන්ත්‍රී ඉදිරි ජනාධිපතිවරණයේදි අපේක්ෂයෙකු ඉදිරිපත් කරනවාද නැද්ද යන්න හා වෙනත් අපේක්ෂකයෙකුට සහාය දෙනවාද යන්න හෙට ( 31දා) තීරණය කරන බව ශ්‍රී ලංකා නිදහස් පක්ෂය සඳහන් කරයි. මේ පිළිබඳව සාකච්ඡා කිරීම සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයේ  දේශපාලන මණ්ඩලය, මධ්‍යම කාරක සභාව හා විධායක සභාව අද රැස්වන බවද එම පක්ෂයේ ලේකම් දුමින්ද දිසානායක මහතා සඳහන් කළේය.
+The Sri Lanka Freedom Party (SLFP) will decide tomorrow (31st) whether to field a candidate in the upcoming presidential election. The decision comes after discussions where some members expressed the need for a candidate. Despite internal disagreements, the party aims to inform the Elections Commission of its choice today.
 
-අද (30දා) ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයේ පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ බව සඳහන් කළ දුමින්ද දිසානායක මහතා මෙසේද පැවසීය.
+🟩
+
+The Sri Lanka Freedom Party (SLFP) states that whether a candidate is presented in the Freedom presidential election in the Freedom Presidential Election or not to offer another candidate tomorrow (31).. The SLFP Politburo, the Central Committee and the Executive Committee will meet today.
+
+Duminda Dissanayake made this observation at a press conference held at the Sri Lanka Freedom Party (30th) at the SLFP headquarters.
+
+In today's discussion, some people are friends to talk about other sticks.Fulfillment to give us a candidate. As a result, it is only after the discussion. We have taken steps to inform the Elections Commission about the verdict today.But MPs are broken out of the poush. Despite such a post, they said that a candidate said. Therefore, a decision will be discussed with the SLFP.
+
+Mr. Mahinda Araweera, Minister of Party, responding to the question raised by journalists in this press conference, he said:
 
 ...
 
 [Data](articles/dcc2c6dd.json)
+
+[Extended Data](ext_articles/dcc2c6dd.ext.json)
 
 ---
 
@@ -1044,37 +1078,55 @@ Former Indian Prime Minister Rajiv Gandhi visited Sri Lanka and confirms that Sr
 
 ---
 
-### கட்டாயத் தகனக்கொள்கை குறித்து விசாரிக்க ஆணைக்குழுவை நியமிக்குமாறு பைஸர் முஸ்தபா ஜனாதிபதிடம் வலியுறுத்தல்
+### Faizer Mustafa urges the President to appoint a Commission to investigate compulsory burnt policy
 
 *2024-07-30 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189806) · `ta`
 
-கொவிட் - 19 பெருந்தொற்றுப்பரவல் காலத்தில் நடைமுறைப்படுத்தப்பட்ட கட்டாயத்தகனக் கொள்கையினால் பாதிக்கப்பட்ட தரப்பினரிடம் அரசாங்கம் மன்னிப்புக்கோரியிருப்பினும், தமது அன்புக்குரியவர்களைக் கட்டாயத்தகனம் செய்தமையினால் குடும்பங்கள் முகங்கொடுத்த உளவியல் பாதிப்பையும், துன்பத்தையும் சரிசெய்வதற்கு இந்த மன்னிப்பு போதுமானது அல்ல என முன்னாள் பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி பைஸர் முஸ்தபா ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் சுட்டிக்காட்டியுள்ளார்.
+Former Parliamentarian Faizer Mustafa has called for a Commission of Inquiry to probe the compulsory cremation policy in Sri Lanka, arguing it causes significant psychological harm. He criticizes the government's apology as insufficient, urging instead for a thorough investigation into the policy's implementation, including identifying those responsible from the state, private sector, and politicians. Mustafa also advocates for adequate compensation and relief for the affected families, emphasizing the need for action to foster community reconciliation and integrity.
 
-அதுமாத்திரமன்றி கட்டாயத்தகனக்கொள்கை நடைமுறைப்படுத்தப்பட்டமை தொடர்பில் முறையான விசாரணையை முன்னெடுப்பதற்கு விசாரணை ஆணைக்குழுவொன்றை நியமிக்குமாறும், அதனூடாக இக்கொள்கை அமுலாக்கத்துக்குக் அரச, தனியார்துறை சார்ந்த நபர்கள் மற்றும் அரசியல்வாதிகள் உள்ளிட்டோரை அடையாளங்காணுமாறும் அவர் வலியுறுத்தியுள்ளார்.
+🟩
 
-இவ்விடயம் தொடர்பில் தனது நிலைப்பாட்டைத் தெளிவுபடுத்தி ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்குக் கடிதமொன்றை அனுப்பிவைத்திருக்கும் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி பைஸர் முஸ்தபா, அதில் மேலும் கூறியிருப்பதாவது:
+Former Parliamentarian Baizer Mustafa has pointed out that the pardon is not sufficient to remedy the psychological impact and suffering of families as the government is forced to be forced by their loved ones.
+
+He urged the appointment of an Inquiry Commission to carry out a formal inquiry into the implementation of the compulsory policy, and thereby identify the policy implemented, including state, private sector and politicians.
+
+Former parliamentarian Faizer Mustafa, who has sent a letter to President Ranil Wickremesinghe by clarifying his position on this issue, said:
+
+Kovit - The government has recently been forced into all parties affected by the compulsory policy implemented in Sri Lanka against the health guidelines of the World Health Organization and the global practices that have been practiced in the religious beliefs of Islam.
 
 ...
 
 [Data](articles/0671573d.json)
 
+[Extended Data](ext_articles/0671573d.ext.json)
+
 ---
 
-### கட்சியின் கொள்கைகளை அடிப்படையாகக் கொண்டே தீர்மானம் எடுத்துள்ளோம் - நாமல்
+### We have made a decision based on party policies - Namal
 
 *2024-07-30 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/189799) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் எதிரணியாகவே செயற்படுவோம். நாட்டின் ஒற்றையாட்சி, தேசியம் ஆகியவற்றை கருத்திற் கொண்டே அரசியல் தீர்மானத்தை எடுத்துள்ளோம். பொதுஜன பெரமுனவின் கொள்கையை பிரதிநிதித்துவப்படுத்தி தெரிவு செய்யப்பட்டவர்கள் கொள்கைக்கு அமைய செயற்பட வேண்டும் என பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa announced that the People's Alliance (PA) will oppose the United National Party due to differing political views, emphasizing unity and nationalism. The decision was made to nominate a PA member as a presidential candidate to strengthen the party and adhere to its policies, despite potential public protests.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் கட்சியின் உறுப்பினர்களுக்கு இடையில் செவ்வாய்க்கிழமை (30) இடம்பெற்ற பேச்சுவார்த்தையின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கட்சியை பலப்படுத்துவதற்காகவே கட்சியின் உறுப்பினரை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று தீர்மானித்தோம். ஐக்கிய தேசியக் கட்சியின் கொள்கைக்கு அமைய செயற்பட போவதில்லை. ஐக்கிய தேசிய கட்சிக்கு எதிரணியாகவே நாங்கள் செயற்படுவோம்.
+We will act as the opposition of the United National Party. We have taken a political decision in view of the country's unitary and nationalism. Namal Rajapaksa, the national organizer of the PA, said that those who have been elected to represent the PA should act in accordance with the policy.
 
-பொதுஜன பெரமுனவின் உறுப்பினரை ஜனாதிபதி வேட்பாளராக களமிறக்க வேண்டும் என்று கட்சியின் நிறைவேற்று குழு எடுத்த தீர்மானத்துக்கு எதிராக ஊடகங்களுக்கு கருத்து தெரிவிப்பவர்கள் இன்று என்னை வந்து சந்தித்தார்கள்.
+He was speaking to the media after a talks held on Tuesday (30) at the Sri Lanka PA's office.
+
+We decided to field a member of the party as a presidential candidate to strengthen the party. Not going to act in accordance with the policy of the United National Party. We will act as an opposition to the United National Party.
+
+Those who spoke to the media came to me today against the party's executive committee's decision to field a member of the PA.
+
+Most of the parties who claim to support President Ranil Wickremesinghe have not made a firm decision.
+
+We are well aware that most people will protest after the official announcement that we cannot cooperate with the president.
 
 ...
 
 [Data](articles/2d13d426.json)
+
+[Extended Data](ext_articles/2d13d426.ext.json)
 
 ---
 

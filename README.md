@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 08:05:09**
+As of **2024-07-30 08:25:05**
 
 ## Newspaper Stats
 
-*Scraped **37,980** Articles*
+*Scraped **37,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,466
 adaderanalk | 4,396
-tamilmirrorlk | 4,702
+tamilmirrorlk | 4,703
 dailymirrorlk | 4,733
 virakesarilk | 5,990
-adaderanasinhalalk | 6,385
+adaderanasinhalalk | 6,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,980 (100.0%) of 37,980 articles have been extended.
+37,983 (100.0%) of 37,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### Elections Commission notice of annual transfer process
+
+*2024-07-30 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199355) · `si`
+
+The Elections Commission has initiated the 2025 annual transfer process to ensure smooth presidential election campaigning. This includes the transfer of officers within the United Niladhari Services, as directed by the Provincial Councils and Local Government. Additionally, an 8,000-strong team will be deployed for distributing official ballot papers, facilitated by a special program for efficient distribution.
+
+🟩
+
+The Elections Commission has informed the 2025 annual transfer process so that there is no obstruction to the presidential election campaign.
+
+Accordingly, the 2025 Annual Transfer Review of the officers of the United Niladhari Services has been issued by the Provincial Councils and Local Government.
+
+The transfer of transfers was issued by the Director General of All Ministries, Departments, District Secretaries and Divisional Secretaries to the Secretary General of the Joint Services, Departments, District Secretaries and Divisional Secretaries.
+
+Meanwhile, Deputy Post Master General Rajitha has decided to deploy an 8,000 officers to distribute official ballot papers in the presidential election.. Says Mr. Ranasinghe.
+
+He points out that a special program has been implemented to distribute official postal ballot papers and accelerated specialized articles.
+
+Meanwhile, Sri Lanka United Grama Niladhari Union, Sri Lanka United Grama Niladhari Union, Sri Lanka's United Grama Niladhari Union said.
+
+◼️
+
+[Data](articles/9f56d50d.json)
+
+[Extended Data](ext_articles/9f56d50d.ext.json)
+
+---
+
+### A special Facebook note from the president
+
+*2024-07-30 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199354) · `si`
+
+In a Facebook post, President Ranil Wickremesinghe expressed gratitude towards all Members of Parliament for their support during challenging times, including struggles with fuel, drugs, and pharmaceuticals. He highlighted their encouragement and belief in his plans, welcoming continued collaboration for the nation's prosperity.
+
+🟩
+
+President Ranil Wickremesinghe says he thanked all the MPs with him.
+
+The President has said this by a note of his Facebook account.
+
+"Would like to thank all Members of Parliament with me on this journey. We have especially people who are with me to be especially able to tell me because of your assistance, we have achieved a successful start. When the country was struggling with the struggles, fuel, drugs, and pharmaceuticals, have believed in the struggles, fuel, drugs and my plan. In the face of the challenges of some, you encouraged us to be overcome.
+
+And I welcome MPs who joined us with the interrogation of us with the ongoing part of this village.. Your Support Our Travel My Faith About My Success The World You Understand the World. We can do more. Messian MPs who have not yet been accompanied by us are ready to share you too.
+
+Our mission is still going on building a prosperous Sri Lanka. We need everybody who wants to make it a reality.
+
+...
+
+[Data](articles/cd091c07.json)
+
+[Extended Data](ext_articles/cd091c07.ext.json)
+
+---
+
+### Knives in England - Two children die
+
+*2024-07-30 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199353) · `si`
+
+In Southport, England, two children died from knife attacks during a dance workshop. Nine others were hurt, with six critically injured. A 17-year-old has been arrested. Authorities deem this incident unrelated to terrorism and failed to detect the knives beforehand.
+
+🟩
+
+Two children were killed in the knife in the Southport area of ​​the British.
+
+According to foreign media reports, the knife had been conducted at a child dance workshop.
+
+Nine others were injured and six of them are in critical condition.
+
+Police have arrested 17-year-old boy who had taken the relevant knives.
+
+The security forces say that the knivo stick was not detected for any reason, and it is not an act of terrorism.
+
+◼️
+
+[Data](articles/4737e120.json)
+
+[Extended Data](ext_articles/4737e120.ext.json)
+
+---
 
 ### Next 24 Hours Be Care
 
@@ -83,6 +163,26 @@ The operation of the Colombo Port has made significant improvement. Colombo port
 [Data](articles/4d9aab3c.json)
 
 [Extended Data](ext_articles/4d9aab3c.ext.json)
+
+---
+
+### ’வட, கிழக்கு மக்கள் ஜனாதிபதிக்கே ஆதரவு’
+
+*2024-07-30 02:10:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-கிழக்கு-மக்கள்-ஜனாதிபதிக்கே-ஆதரவு/175-341258) · `ta`
+
+வடக்கு மற்றும் கிழக்கு மாகாண மக்கள் ஜனாதிபதிக்கே ஆதரவு வழங்குவார்கள் என்று ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.பி.திஸாநாயக்க தெரிவித்தார்.
+
+கொழும்பில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது அவர் இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பொதுஜன பெரமுன ஆதரவு வழங்காவிடின் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தேர்தலில் வெற்றிப் பெறுவார்.
+
+அவ்வாறான நிலை ஏற்பட்டால் 2022 ஆம் ஆண்டு நிலைவரமே மீண்டும் ஏற்படும்.வடக்கு மற்றும் கிழக்கு மாகாண மக்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவு வழங்குவார்கள். ஆகவே பொதுஜன பெரமுன சிறந்த தீர்மானத்தை எடுக்க வேண்டும்.
+
+தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும்,எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கும் இடையில் போட்டி நிலவும்.அரகலயவின் போது மக்கள் மத்தியில் ஜே.வி.பியினருக்கு இருந்த செல்வாக்கு தற்போது முழுமையாக வீழ்ச்சியடைந்து விட்டது. அனுரகுமார திஸாநாயக்கவின் பேச்சு கேட்பதற்கு அருமையாக இருக்கும் ஆனால் நடைமுறைக்கு சாத்தியமற்றது என்றார்.  (a)
+
+◼️
+
+[Data](articles/81dd33ad.json)
 
 ---
 
@@ -2157,93 +2257,5 @@ Sri Lanka played the first place in a round of the 100-meter shipping event at t
 [Data](articles/07d2664d.json)
 
 [Extended Data](ext_articles/07d2664d.ext.json)
-
----
-
-### Block against Wijayada is extended
-
-*2024-07-29 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199333) · `si`
-
-The Colombo District Court extended an injunction against Wijayada until September 24, following a complaint from SLFP ministers. The court ordered the defendants, including SLFP Chairman Minister Nimal Siripala de Silva, to submit protests related to the case by the same date.
-
-🟩
-
-As the Acting Chairman and the Secretary of the Sri Lanka Freedom Chairperson, Saradhi Varunathi Mithrapala has prevented the injunction.
-
-The Colombo District Court today (29) ordered the Colombo District Court today as the order was extended until September 24.
-
-A complaint made by the Sri Lanka Freedom Party (SLFP) ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake have been recalled.
-
-The respondents have been ordered to file the protests related to the case before September 24.
-
-Sri Lanka Freedom Chairman Minister Nimal Siripala de Silva and several others were named as the defendants in the case.
-
-◼️
-
-[Data](articles/6169c4ab.json)
-
-[Extended Data](ext_articles/6169c4ab.ext.json)
-
----
-
-### Sri Lanka plans new tender for Japan funded airport terminal in September
-
-*2024-07-29 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-new-tender-for-japan-funded-airport-terminal-in-september-174228/) · `en`
-
-ECONOMYNEXT – State-run Airport and Aviation Services (Sri Lanka) Ltd plans to float a new tender to resume work on the second terminal in mid -September after a bilateral debt restructure made funds from Japan available, Chairman Athula Galketiya said.
-
-The original contractor self-terminated the contract, after completing only 5 percent of the terminal, when Sri Lanka defaulted on its debt in 2022.
-
-As a result, Sri Lanka had to pay 52 million in termination fees under the contract terms.
-
-The half-built sub-structure of the terminal, which was a safety hazard and was deteriorating, was then completed by a local contractor hired by the AASL.
-
-Though the contractor pulled put when the Japan International Co-operation Agency had to suspend projects after the sovereign default, the consultants, Japan Airport Consultants were retained at Sri Lanka’s expense.
-
-The original design had to be changed to accommodate new regulations and costs had also risen in the meantime, Galketiya said.
-
-...
-
-[Data](articles/24495f3d.json)
-
-[Extended Data](ext_articles/24495f3d.ext.json)
-
----
-
-### Paris 2024: Ganga Seneviratne fails to qualify for the semifinals
-
-*2024-07-29 15:18:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-அரையிறுதிக்கு-தகுதிபெறத்-தவறிய-கங்கா-செனவிரத்ன/44-341221) · `ta`
-
-Ganga Seneviratne, representing Sri Lanka, did not advance to the semifinals of the women's 100m backstroke event at the 2024 Paris Olympics, finishing 30th after clocking 4 minutes and 26 seconds in the qualifiers.
-
-🟩
-
-Sri Lanka's Ganga Seneviratne failed to qualify for the semifinals of the 100m Swimming Tournament, swimming in the women's back of the 2024 Olympic Games in France.
-
-Seneviratne, who finished the first 16 in qualifying competitions, would be selected for the semifinals, and Seneviratne, who completed the match in four seconds and 26 mg, was ranked 30th.
-
-◼️
-
-[Data](articles/d9026291.json)
-
-[Extended Data](ext_articles/d9026291.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-07-29 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189699) · `ta`
-
-The US dollar rose from 298.4850 to 307.7765 rupees according to the Central Bank's latest update on July 29.
-
-🟩
-
-The US dollar purchasing price was 298.4850 rupees and the sales price were Rs 307.7765 based on a currency exchange rate released by the Central Bank on Monday (July 29).
-
-◼️
-
-[Data](articles/b9bf1ff4.json)
-
-[Extended Data](ext_articles/b9bf1ff4.ext.json)
 
 ---

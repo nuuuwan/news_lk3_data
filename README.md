@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 10:20:32**
+As of **2024-07-30 10:36:07**
 
 ## Newspaper Stats
 
-*Scraped **37,999** Articles*
+*Scraped **38,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,466
-adaderanalk | 4,401
+adaderanalk | 4,402
 tamilmirrorlk | 4,705
 dailymirrorlk | 4,733
 virakesarilk | 5,993
-adaderanasinhalalk | 6,392
+adaderanasinhalalk | 6,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,998 (100.0%) of 37,999 articles have been extended.
+37,998 (100.0%) of 38,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### ශ්‍රී ලංකා ක්‍රිකට් සඳහා නව ව්‍යවස්ථාවක්
+
+*2024-07-30 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199361) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මුහුණ දෙන ගැටලු විසඳීම සඳහා කේ.ටී. චිත්‍රසිරි වාර්තාවේ නිර්දේශ මත පදනම්ව අවශ්‍ය නීති කෙටුම්පත් කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් මුහුණ දෙන ගැටලු පිළිබඳව කරුණු අධ්‍යයනය කර අමාත්‍ය මණ්ඩලය වෙත නිර්දේශ ඉදිරිපත් කිරීම සඳහා විදේශ කටයුතු ඇමතිතුමාගේ ප්‍රධානත්වයෙන් පත් කරන ලද අමාත්‍ය මණ්ඩල අනු-කමිටු වාර්තාවේ නිර්දේශයන්ට අනුකූල වන පරිදි ශ්‍රී ලංකා ක්‍රිකට් සඳහා නව ව්‍යස්ථාවක් කෙටුම්පත් කිරීම පිණිස විශ්‍රාමලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු කේ.ටී. චිත්‍රසිරි මහතාගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කිරීමට 2024-02-19 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී ඇත.
+
+ඒ අනුව එම කමිටුව විසින් ශ්‍රී ලංකා ක්‍රිකට් සඳහා වන නව ව්‍යවස්ථාව කෙටුම්පත් කරනු ලැබ තිබේ.
+
+...
+
+[Data](articles/2c674c77.json)
+
+---
+
+### අඩුවක් නැති රිය අනතුරු - තවත් මරණ 4ක්
+
+*2024-07-30 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199360) · `si`
+
+ගතවූ පැය 24 තුළ ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් සිව්දෙනෙකු මියගොස් තිබේ.
+
+පොලීසිය සඳහන් කළේ උප්පුවේලි, වැලිපැන්න, කෑගල්ල සහ මීටියාගොඩ යන ප්‍රදේශවල මෙම අනතුරු සිදුව ඇති බවය.
+
+උප්පුවේලි, කිළිකුංචිමලේ හන්දිය ප්‍රදේශයේ දී යතුරුපැදියක් ලොරි රථයක ගැටී සිදුවූ අනතුරකින් 39 හැවිරිදි යතුරුපැදිකරු බරපතළ තුවාල ලබා ත්‍රිකුණාමලය රෝහලට ඇතුළත් කිරීමේ දී මියගොස් තිබේ.
+
+එමෙන්ම වැලිපැන්න ලෙව්වන්දූව හන්දිය ප්‍රදේශයේ දී මාර්ගය හරහා ගමන් කළ 62 හැවිරිදි කාන්තාවක් ලොරි රථයක ගැටීමෙන් බරපතළ තුවාල ලබා කළුතර නාගොඩ රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බව පොලීසිය වාර්තා කරයි.
+
+මේ අතර කෑගල්ල බල්ලපාන ප්‍රදේශයේ දී මාර්ගය හරහා ගමන් කළ යතුරුපැදියක් යුධ හමුදා ලොරි රථයක ගැටී සිදුවූ අනතුරකින් 66 හැවිරිදි යතුරුපැදිකරු මියගොස් තිබේ.
+
+එමෙන්ම මීටියාගොඩ වැරැල්ලාන ප්‍රදේශයේ දී මාර්ගය හරහා ගමන් කළ 78 හැවිරිදි පුද්ගලයෙකු ත්‍රීරෝද රථයක ගැටීමෙන් බරපතළ තුවාල ලබා බලපිටිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/5a640195.json)
+
+---
 
 ### ජනාධිපතිවරණය සඳහා මෙතෙක් ඇප තැන්පත් කර ඇති අපේක්ෂකයින්
 
@@ -41,6 +79,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/184dc8b7.json)
+
+---
+
+### Cabinet nod to draft legislation to resolve Sri Lanka Cricket issues
+
+*2024-07-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100872/cabinet-nod-to-draft-legislation-to-resolve-sri-lanka-cricket-issues) · `en`
+
+The Cabinet of Ministers has approved the drafting of necessary legislation based on the recommendations of the K.T. Chitrasiri report to address and resolve the issues faced by Sri Lanka Cricket.
+
+A new constitution has been drafted by the said committee for Sri Lanka Cricket.
+
+Accordingly, the Cabinet of Ministers has approved the joint proposal presented by the Minister of Foreign Affairs, the Minister of Power and Energy, the Minister of Labour and Foreign Employment and the Minister of Public Security to instruct the Legal Draftsman for preparation of a bill to formally approve and implement the new constitution.
+
+◼️
+
+[Data](articles/bfc8200d.json)
 
 ---
 
@@ -86,7 +140,11 @@ The Government of Sri Lanka has imported 224 million eggs by the Cabinet (Variou
 
 *2024-07-30 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100871/cabinet-approval-to-import-eggs-for-festive-season) · `en`
 
-The Cabinet of Ministers has approved a proposal to import eggs in order to stabilize the prices of cakes and other bakery products during the forthcoming Christmas and Ramadan festive seasons.
+The Cabinet of Ministers has approved a proposal to import eggs in order to stabilize the prices of cakes and other bakery products during the forthcoming Christmas and Ramadan festive seasons and to ensure the supply of eggs needed by the bakery industry, including for cakes.
+
+According to the decision of the Cabinet of Ministers dated March 18, 2024, the Sri Lanka State Trading (General) Corporation has imported 224 million eggs so far.
+
+95% of them have been distributed to consumers at an affordable price of Rs. 37 through Lanka Sathosa’s outlets network, and the period given to import eggs ended on April 30, 2024.
 
 ◼️
 
@@ -268,7 +326,13 @@ Merseyside Police said the motive for the attack was unclear but it was not beli
 
 Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their own candidate in the upcoming Presidential election, a group of SLPP MPs and Ministers have expressed their support for President Ranil Wickremesinghe.
 
-◼️
+Posting on ‘X’ (formerly Twitter), State Minister Pramitha Bandara Tennakoon stated that he will continue to support the president who saved the country, regardless of the SLPP politburo’s decision.
+
+“Immaterial of the decision made by the political bureau of SLPP, together with the majority of parliamentary members, I will continue to support President Ranil Wickremesinghe in the upcoming presidential election, who rescued the country at the most crucial time,” Tennakoon said.
+
+Similarly, State Minister of Finance Shehan Semasinghe also expressed his support for President Wickremesinghe on X.
+
+...
 
 [Data](articles/eae48b45.json)
 
@@ -2167,75 +2231,5 @@ Sri Lanka Freedom Party (SLFP) Minister Mahinda Amaraweera, Lasantha Alagiyawann
 [Data](articles/b8974157.json)
 
 [Extended Data](ext_articles/b8974157.ext.json)
-
----
-
-### Idols of Hinduism are damaged - religious minorities in Sri Lanka are targeted by government - International Human Rights Watch
-
-*2024-07-29 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189713) · `ta`
-
-International Human Rights Watch accuses Sri Lanka's government of targeting religious minorities, particularly Hindus, by damaging their idols and preventing worship. The report alleges that the military and police are involved in this strategy, promoting Sinhalese Buddhist settlements in areas predominantly inhabited by Tamils. This follows a history of conflict and suppression post-civil war, with officials and Buddhist clergy allegedly destroying Hindu sites, threatening, arresting, and denying worship permissions. The watch calls for international pressure to halt these actions.
-
-🟩
-
-The International Human Rights Watch, which has accused Sri Lankan authorities of preventing and refusing to go to the worship of Hindus and other minority, and the government is also involved in transforming such places into Buddhists and Buddhists.
-
-The International Human Rights Watch said that the military, including the Archaeological Department, the military and the police are carrying out an integrated strategy of attacking the culture and rituals of religious minorities.
-
-The International Human Rights Watch said they promote Sinhalese Buddhist settlements in the North East, where the majority of Tamils ​​live in the North East, and that the majority of Tamil Muslims are harmful to the property and religious rights of the Tamil Muslim people.
-
-...
-
-[Data](articles/751fdecc.json)
-
-[Extended Data](ext_articles/751fdecc.ext.json)
-
----
-
-### 3 female soldiers arrested at home without a service
-
-*2024-07-29 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189697) · `ta`
-
-Three 22-year-old female soldiers from Hasalaka, Thenipitiya, and Polgasovita were arrested at a house in Mattegoda after not reporting for duty. They were stationed at Koka and Chandunuru military camps; one was on leave. The local residents alerted the police, who found them absent from service. The women are now under army investigation.
-
-🟩
-
-Three 22 -year -old female soldiers have been arrested in a house in Mattegoda without attending the service.
-
-The three have been identified as residents of Hasalaka, Thenipitiya and Polgasovita, which are on duty at Koka and Chandunuru military camps.
-
-While the woman from Polgasovita was on vacation, the other two had met him and stayed at home for several days.
-
-In this case, the residents of the house informed the police via 119 telephone number.
-
-Investigations by the police revealed that the female army soldiers were actually leaving their service. The trio have been handed over to the army for further investigation.
-
-◼️
-
-[Data](articles/0c847750.json)
-
-[Extended Data](ext_articles/0c847750.ext.json)
-
----
-
-### Three and three others including Minister Thondaman
-
-*2024-07-29 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199337) · `si`
-
-Jeevan Thondaman, Minister of Water Rights and Estate Infrastructure, along with two others, appeared in the Nuwara Eliya Magistrate's Court regarding a tele plant issue at the Nuwara Eliya Padu Estate. The case, initially advised by the Attorney General on May 22, involves the CEO of the estate. Despite the suspects' non-submission to courts, the police proceeded with arrests and productions. The court, presided over by Magistrate Prabundika Silva, scheduled the next hearing for June 26, directing further investigations to be reported by either the SSP or ASP.
-
-🟩
-
-Minister of Ceylon Workers Congress and the Minister of Water Troops, Minister of Labor Congress Jeevan Thondaman, Minister of Water Rights and Estate Infrastructure was presented to the Nuwara Eliya Magistrate's Court today (29).
-
-Nuwara Eliya Police have gone to the Nuwara Eliya Magistrate's Court regarding the tele plant of the Nuwara Eliya Padu Estate and the CEO to the Nuwara Eliya CEO of Nuwara Eliya on May 30.The Attorney General's advice was reported on the 22nd of the last month and said that the Attorney General's advice was filed as the suspects were not submitted to the courts.
-
-The lawyers who sat for the estate company were produced before the Magistrate's Court and the police are not acting in arrest the suspects and the suspects were arrested and ordered to be arrested and produced before courts.
-
-...
-
-[Data](articles/23d773f4.json)
-
-[Extended Data](ext_articles/23d773f4.ext.json)
 
 ---

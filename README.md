@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 21:05:46**
+As of **2024-07-30 21:20:58**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 6,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,108 (100.0%) of 38,109 articles have been extended.
+38,109 (100.0%) of 38,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### පොහොට්ටුවේ තීරණයට ප්‍රමිතගෙන් සැර ප්‍රතිචාරයක්
+### A harsh response from the quality of the pointer
 
 *2024-07-30 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199385) · `si`
 
-පොදුජන පෙරමුණ ජනාධිපති අපේක්ෂකයා සම්බන්ධයෙන් ගනු ලැබූ තීරණය නාට්‍යයක් බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+Defense Minister Linea Bandara Tennakoon criticizes the President's Front's decision-making process, labeling it as personal and catastrophic. Despite this, several state ministers and the Anuradhapura District Board announce support for the current President in the upcoming election. A proposal to nominate a candidate from the Sri Lanka Civil Aviation was met with mixed reactions; 61 voted in favor, but 11 opposed. Following discussions, it was decided to back Ranil Wickremesinghe for president.
 
-දේශපාලන මණ්ඩලය විසින් ගනු ලැබු තීරණයක් ලෙස එය ප්‍රකාශ කළ එය කිහිපදෙනෙකුගේ අවශ්‍යතාවය මත ගත් තීරණයක් බව ද ඒ මහතා පැවසීය.
+🟩
 
-"ඊයේ ගත්තු දේශපාලන මණ්ඩලයේ තීන්දුව අපට සම කරන්න පුළුවන් වෙන්නේ 2022 මැයි 9 වනදා කොළඹ සෙනඟ ගෙනල්ලා අරගලයට ගැහන්න ගත්ත තීන්දුව හා සමානයි ඊයේ ගත්ත තීන්දුව. ඒ තීන්දුව ගත්තේ මහපොළව ගැන අවබෝධයක්,﻿ දැනුමක්, සංවේදීත්වයක් නොමැතිව. එම තීන්දුව පුද්ගලික, ආත්මාර්ථකාමී, ව්‍යසනකාරී තීන්දුවක් ලෙස අපි සලකනවා. පොදුජන පෙරමුණ රටට පෙර, පාක්ෂිකයාට පෙර පුද්ගලික න්‍යාය පත්‍රයකට අනුව තීන්දු ගැනීම ගැන කනගාටුව ප්‍රකාශ කරනවා."
+Defense Minister Linea Bandara Tennakoon says that the President's Front has decided to the presidential candidate.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන තවත් රාජ්‍ය අමාත්‍යවරුන් කිහිපදෙනෙක්ද ඉදිරි ජනාධිපතිවරණයේ වත්මන් ජනාධිපතිවරයාට සහාය පළ කරන බවට අද නිවේදනය කළේය.
+He said that it was a decision that was made by the Political Council as a decision taken.
 
-මේ අතර ඉදිරි ජනාධිපතිවරණයේ දී වත්මන් ජනාධිපතිවරයාට සහාය පළ කිරීමට අද රැස්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් බල මණ්ඩලය තීරණය කර තිබේ.
+"We can determine the verdict that the people brought to the struggle of the people of Colombo yesterday on May 9, 2022.. The decision was taken to an understanding, knowledge,, without the sensitivity of the Mahapola. We consider that decision as a personal, selfish, catastrophical decision. Previously, before the country, it is regrettable to decide on a personal agenda before the country. "
+
+Several other state ministers representing the Sri Lanka General Front have announced today to support the present President of the next presidential election.
+
+Meanwhile, the Anuradhapura District Board of Anuradhapura has decided to support the present President in the next presidential election today.
 
 ...
 
 [Data](articles/48f999e1.json)
+
+[Extended Data](ext_articles/48f999e1.ext.json)
 
 ---
 

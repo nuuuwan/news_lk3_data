@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 19:54:17**
+As of **2024-07-30 20:05:42**
 
 ## Newspaper Stats
 
-*Scraped **38,103** Articles*
+*Scraped **38,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,73 @@ adaderanalk | 4,413
 tamilmirrorlk | 4,725
 dailymirrorlk | 4,733
 virakesarilk | 6,011
-adaderanasinhalalk | 6,414
+adaderanasinhalalk | 6,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,101 (100.0%) of 38,103 articles have been extended.
+38,103 (100.0%) of 38,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### 92 எம்.பிக்கள் ஜனாதிபதியின் கையை பிடித்தனர்
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-07-30 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199384) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ ඉන්දීය කණ්ඩායම අතර පැවැත්වෙන 3න් වැනි සහ අවසාන 20යි 20 තරගය අද (30) පල්ලෙකැලේ ක්‍රිකට් පිටියේදී පැවැත්වෙයි.
+
+වර්ෂාව හේතුවෙන් තරග ආරම්භය රාත්‍රී 8 දක්වා කල් දැමීමට තරග විනිසුරුවන් තීරණය කළේය.
+
+කාසියේ වාසිය උරගා බැලීම රාත්‍රී 7.40ට පමණ සිදුකළ අතර එහිදී කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක සමත් විය.
+
+ඒ අනුව ඔහු තීරණය කළේ පන්සුවට පහරදීමේ අවස්ථාව ඉන්දියාවට ලබා දීමටයි.
+
+ඒ අනුව දසුන් ශානක වෙනුවට චමිඳු වික්‍රමසිංහ කැඳවීමට බලධාරීන් තීරණය කර තිබුණි.
+
+මේ අතර ඉන්දීය කණ්ඩායම හාර්තික් පාණ්ඩ්‍යා, අක්සාර් පටෙල්, අර්ෂ්ඩීප් සීං සහ රිෂාබ් පාන්ට් මෙම තරගයට නම්කර නැත.
+
+◼️
+
+[Data](articles/c823a4c9.json)
+
+---
+
+### 92 MPs caught the president's hand
 
 *2024-07-30 19:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/92-எம்-பிக்கள்-ஜனாதிபதியின்-கையை-பிடித்தனர்/175-341299) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் 92 பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்த அர்பணிப்பதாக சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து உறுதிப்படுத்தியுள்ளனர்
+92 MPs recently met with President Ranil Wickremesinghe, signaling his strong support among them ahead of the upcoming presidential election.
+
+🟩
+
+92 MPs in the upcoming presidential election have met with President Ranil Wickremesinghe a little while ago that President Ranil Wickremesinghe will be devoted to the victory of President Ranil Wickremesinghe
 
 ◼️
 
 [Data](articles/e60b1ea7.json)
 
+[Extended Data](ext_articles/e60b1ea7.ext.json)
+
 ---
 
-### 92 எம்.பிக்கள் ஜனாதிபதியின் கையை பிடித்தனர்
+### 92 MPs caught the president's hand
 
 *2024-07-30 19:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/92-எம்-பிக்கள்-ஜனாதிபதியின்-கையை-பிடித்தனர்/175-341298) · `ta`
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் 92 பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்த அர்பணிப்பதாக சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து உறுதிப்படுத்தியுள்ளனர்
+92 MPs recently met with President Ranil Wickremesinghe, showing support for his re-election bid.
+
+🟩
+
+92 MPs in the upcoming presidential election have met with President Ranil Wickremesinghe a little while ago that President Ranil Wickremesinghe will be devoted to the victory of President Ranil Wickremesinghe
 
 ◼️
 
 [Data](articles/3c5434e5.json)
+
+[Extended Data](ext_articles/3c5434e5.ext.json)
 
 ---
 
@@ -2307,27 +2341,5 @@ Gazette Notification on Friday (26). Subsequently, the control was the first to 
 [Data](articles/0ea64608.json)
 
 [Extended Data](ext_articles/0ea64608.ext.json)
-
----
-
-### Cabinet nod to draft legislation to resolve Sri Lanka Cricket issues
-
-*2024-07-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/100872/cabinet-nod-to-draft-legislation-to-resolve-sri-lanka-cricket-issues) · `en`
-
-The Cabinet of Ministers has approved the drafting of necessary legislation based on the recommendations of the K.T. Chitrasiri report to address and resolve the issues faced by Sri Lanka Cricket.
-
-A new constitution has been drafted by the said committee for Sri Lanka Cricket.
-
-Accordingly, the Cabinet of Ministers has approved the joint proposal presented by the Minister of Foreign Affairs, the Minister of Power and Energy, the Minister of Labour and Foreign Employment and the Minister of Public Security to instruct the Legal Draftsman for preparation of a bill to formally approve and implement the new constitution.
-
-Known as the ‘Chitrasiri Committee,’ the panel proposed a structure where the SLC would be governed by an 18-member board of directors.
-
-The government stepped in to overhaul the structure when then sports minister Roshan Ranasinghe dismissed the current SLC administration, replacing it with an interim committee.
-
-...
-
-[Data](articles/bfc8200d.json)
-
-[Extended Data](ext_articles/bfc8200d.ext.json)
 
 ---

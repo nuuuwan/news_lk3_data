@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 10:36:07**
+As of **2024-07-30 10:54:44**
 
 ## Newspaper Stats
 
-*Scraped **38,002** Articles*
+*Scraped **38,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,68 +17,160 @@ economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,466
 adaderanalk | 4,402
-tamilmirrorlk | 4,705
+tamilmirrorlk | 4,708
 dailymirrorlk | 4,733
-virakesarilk | 5,993
+virakesarilk | 5,994
 adaderanasinhalalk | 6,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,998 (100.0%) of 38,002 articles have been extended.
+38,002 (100.0%) of 38,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### ශ්‍රී ලංකා ක්‍රිකට් සඳහා නව ව්‍යවස්ථාවක්
+### கேரளவில் பாரிய நிலச்சரிவு: 20 பேர் பலி
 
-*2024-07-30 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199361) · `si`
+*2024-07-30 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளவில்-பாரிய-நிலச்சரிவு-20-பேர்-பலி/175-341265) · `ta`
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මුහුණ දෙන ගැටලු විසඳීම සඳහා කේ.ටී. චිත්‍රසිරි වාර්තාවේ නිර්දේශ මත පදනම්ව අවශ්‍ය නීති කෙටුම්පත් කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+கேரள மாநிலத்தைச் சேர்ந்த வயநாட்டில், நள்ளிரவில் அடுத்தடுத்து நடந்த இரண்டு நிலச்சரிவுகளில் சிக்கி, 20 பேர் பலியாகிய நிலையில், 400க்கும் மேற்பட்ட குடும்பத்தினரை மீட்கும் பணி துரிதமாக நடந்து வருகிறது. இந்நிலையில், பலி எண்ணிக்கை மேலும் அதிகரிக்கும் என அஞ்சப்படுகிறது.
 
-ශ්‍රී ලංකා ක්‍රිකට් මුහුණ දෙන ගැටලු පිළිබඳව කරුණු අධ්‍යයනය කර අමාත්‍ය මණ්ඩලය වෙත නිර්දේශ ඉදිරිපත් කිරීම සඳහා විදේශ කටයුතු ඇමතිතුමාගේ ප්‍රධානත්වයෙන් පත් කරන ලද අමාත්‍ය මණ්ඩල අනු-කමිටු වාර්තාවේ නිර්දේශයන්ට අනුකූල වන පරිදි ශ්‍රී ලංකා ක්‍රිකට් සඳහා නව ව්‍යස්ථාවක් කෙටුම්පත් කිරීම පිණිස විශ්‍රාමලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු කේ.ටී. චිත්‍රසිරි මහතාගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කිරීමට 2024-02-19 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී ඇත.
+கேரள மாநிலத்தில் தொடர்ந்து பெய்துவரும் பருவமழையின் காரணமாக, வயநாடு மாவட்டம் முண்டக்கை என்ற இடத்தில், நள்ளிரவு 1 மணிக்கு நிலச்சரிவு ஏற்பட்டது. மீட்பு பணிகள் நடைபெற்று கொண்டிருக்கும் போதே, அங்கிருந்து 2 கி.மீ., தொலைவில் உள்ள சூரல்மலை என்ற இடத்தில், நிலச்சரிவு ஏற்பட்டது.
 
-ඒ අනුව එම කමිටුව විසින් ශ්‍රී ලංකා ක්‍රිකට් සඳහා වන නව ව්‍යවස්ථාව කෙටුම්පත් කරනු ලැබ තිබේ.
+இந்த நிலச்சரிவில் சிக்கி 20 பேர் பலியாகி உள்ளனர். 30 பேர் மீட்கப்பட்டு மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
-...
+மேலும், 400க்கும் மேற்பட்ட வீடுகளில் ஆயிரத்துக்கும் மேற்பட்டோர் நிலச்சரிவில் சிக்கியுள்ளதாக தகவல்கள் தெரிவிக்கின்றன. இதனால், பலி எண்ணிக்கை மேலும் உயரும் என்ற அச்சம் நிலவுகிறது.
 
-[Data](articles/2c674c77.json)
+நிலச்சரிவில் சிக்கியுள்ளவர்களை மீட்கும் பணியில் தேசிய பேரிடர் மீட்பு படையினர் தீவிரமாக ஈடுபட்டு வருகின்றனர்.S
+
+◼️
+
+[Data](articles/009bc8d8.json)
 
 ---
 
-### අඩුවක් නැති රිය අනතුරු - තවත් මරණ 4ක්
+### New constitution for Sri Lankan cricket
+
+*2024-07-30 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199361) · `si`
+
+A new constitution for Sri Lankan cricket is underway, aimed at addressing its challenges. Retired Supreme Court Judge K.T. is leading the restructuring under the guidance of the Minister of External Affairs. The cabinet has approved drafting the legal framework based on the Artiri Report's recommendations. A committee, led by Chithrasiri, has been appointed to finalize this constitution. The Minister of External Affairs and Labor will advise on implementing this proposed structure.
+
+🟩
+
+KT to solve problems facing the SLC. Cabinet approval has been granted to draft the necessary legals based on the recommendations of the Artiri Report.
+
+Retired Supreme Court Judge K.Th was drafting a new structure for Sri Lankan cricket to meet the issues headed by the Minister of External Affairs.. At the Cabinet Meeting of the Cabinet Meeting has been granted to appoint a committee headed by Chithrasiri.
+
+Accordingly, the committee has drafted the new constitution for the Sri Lanka Cricket.
+
+Minister of External Affairs, Labor and External Affairs and the Combined Motion to advise on the implementation of the proposed SLC structure to formulate and implement a Bill.Was on.
+
+◼️
+
+[Data](articles/2c674c77.json)
+
+[Extended Data](ext_articles/2c674c77.ext.json)
+
+---
+
+### Road accidents - more deaths
 
 *2024-07-30 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199360) · `si`
 
-ගතවූ පැය 24 තුළ ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් සිව්දෙනෙකු මියගොස් තිබේ.
+In the past 24 hours, four fatalities and one serious injury occurred in road accidents across Uppinley, Welipenna, Kegalle, and Meetiyagoda. A 39-year-old motorcyclist was critically injured, a 62-year-old woman died after being run over by a lorry, a 66-year-old motorcyclist was killed when his bike burst into flames, and a 78-year-old man was hospitalized after an accident.
 
-පොලීසිය සඳහන් කළේ උප්පුවේලි, වැලිපැන්න, කෑගල්ල සහ මීටියාගොඩ යන ප්‍රදේශවල මෙම අනතුරු සිදුව ඇති බවය.
+🟩
 
-උප්පුවේලි, කිළිකුංචිමලේ හන්දිය ප්‍රදේශයේ දී යතුරුපැදියක් ලොරි රථයක ගැටී සිදුවූ අනතුරකින් 39 හැවිරිදි යතුරුපැදිකරු බරපතළ තුවාල ලබා ත්‍රිකුණාමලය රෝහලට ඇතුළත් කිරීමේ දී මියගොස් තිබේ.
+Four persons were killed in road accidents in several areas in the last 24 hours.
 
-එමෙන්ම වැලිපැන්න ලෙව්වන්දූව හන්දිය ප්‍රදේශයේ දී මාර්ගය හරහා ගමන් කළ 62 හැවිරිදි කාන්තාවක් ලොරි රථයක ගැටීමෙන් බරපතළ තුවාල ලබා කළුතර නාගොඩ රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බව පොලීසිය වාර්තා කරයි.
+Police said that the accidents occurred in Uppinley, Welipenna, Kegalle and Meetiyagoda.
 
-මේ අතර කෑගල්ල බල්ලපාන ප්‍රදේශයේ දී මාර්ගය හරහා ගමන් කළ යතුරුපැදියක් යුධ හමුදා ලොරි රථයක ගැටී සිදුවූ අනතුරකින් 66 හැවිරිදි යතුරුපැදිකරු මියගොස් තිබේ.
+The 39-year-old motorcyclist was seriously injured and admitted to the Trincomalee Hospital with a motorcycle hit by a rider in the Uppallavel area.
 
-එමෙන්ම මීටියාගොඩ වැරැල්ලාන ප්‍රදේශයේ දී මාර්ගය හරහා ගමන් කළ 78 හැවිරිදි පුද්ගලයෙකු ත්‍රීරෝද රථයක ගැටීමෙන් බරපතළ තුවාල ලබා බලපිටිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බව පොලීසිය පවසයි.
+The 62-year-old woman traveled by a lorry in the Welipenna Liwanduwa Junction area.
+
+Meanwhile, 66-year-old motorcyclist killed a motorbike that had erupted in the road in the BCana area in Kegalle.
+
+The 78-year-old man traveled by the road in Meetiyagoda has been treated at the Balapitiya Hospital while he was treated at the Balapitiya Hospital.
 
 ◼️
 
 [Data](articles/5a640195.json)
 
+[Extended Data](ext_articles/5a640195.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය සඳහා මෙතෙක් ඇප තැන්පත් කර ඇති අපේක්ෂකයින්
+### Candidates who have deposited on the presidential election
 
 *2024-07-30 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199359) · `si`
 
-එළැඹෙන ජනාධිපතිවරණය සඳහා මෙතෙක් සිව් දෙනෙක් ඇප මුදල් තැන්පත් කර ඇති බව ජාතික මැතිවරණ කොමිසම පවසයි.
+The National Election Commission reports that four candidates have received funds for the upcoming presidential election.
+
+🟩
+
+The National Election Commission says that four people have been paid for the coming presidential election.
 
 ◼️
 
 [Data](articles/184dc8b7.json)
+
+[Extended Data](ext_articles/184dc8b7.ext.json)
+
+---
+
+### வத்தளையில் பாரிய தீ ; ஒருவர் மரணம்
+
+*2024-07-30 09:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வத்தளையில்-பாரிய-தீ-ஒருவர்-மரணம்/175-341264) · `ta`
+
+வத்தளை – மாடாகொட பகுதியிலுள்ள இரண்டு மாடி வீடொன்றில் பரவிய தீ விபத்தில்  90 வயதான ஒருவர் உயிரிழந்துள்ளார்.
+
+பொலிஸாருக்கு கிடைத்த தகவலை அடுத்து, பிரதேசவாசிகளின் உதவியுடன் தீ கடைடுப்பாட்டிற்குள் கொண்டு வரப்பட்டுள்ளது.
+
+குறித்த வீட்டின் அறை ஒன்றிற்குள் தீ காயங்களுடன் உயிரிழந்த நிலையில் சடலம் கண்டெடுக்கப்பட்டுள்ளது.
+
+உயிரிழந்த நபரின் மனைவி சில தினங்களுக்கு முன்னர் இரத்தினபுரியிலுள்ள அவரது மகள் வீட்டிற்கு சென்றுள்ளதாக தெரிய வருகின்றது.
+
+◼️
+
+[Data](articles/681b2be7.json)
+
+---
+
+### பிரிட்டன் சௌத்போர்ட் கத்திக்குத்தில் 2 சிறுவர்கள் உயிரிழப்பு : 6 சிறுவர்களின் நிலை கவலைக்கிடம் !
+
+*2024-07-30 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189755) · `ta`
+
+இந்த கத்தி குத்து சம்பவத்தில் மேலும் 09 சிறுவர்கள் காயமடைந்துள்ளதுடன், அவர்களில் 06 பேரின் நிலைமை கவலைக்கிடமாக உள்ளதாகவும் மேலும் இரு பெரியவர்களின் நிலை கவலைக்கிடமாக உள்ளதாகவும்  அந்த நாட்டு செய்திகள் தெரிவிக்கின்றன.
+
+எதற்காக இந்த கத்தி குத்து நடத்தப்பட்டது என்பது இதுவரை தெரியவில்லை என்பதுடன், இது தீவிரவாத தாக்குதல் கிடையாது என அந்த நாட்டு பாதுகாப்பு பிரிவு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/2c2fca68.json)
+
+---
+
+### இதயத்தை தேடுகிறார் ரணில்
+
+*2024-07-30 09:54:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதயத்தை-தேடுகிறார்-ரணில்/175-341263) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க, இம்முறை ஜனாதிபதி தேர்தலில் சுயேச்சையாக களமிறங்கியுள்ளார். முதலாவதாக கட்டுப்பணத்தையும் செலுத்தியுள்ளார்.
+
+ஜனாதிபதி தேர்தலில் முதலில் கட்டுப்பணத்தை செலுத்துபவர் தேர்தல் ஆணைக்குழு அறிமுகப்படுத்தும் சின்னங்களில் தங்களுக்கு விருப்பமான சின்னத்தை ​தெரிவு செய்ய முடியும்.
+
+இந்த ஆண்டு ஜனாதிபதித் தேர்தலுக்காக தேர்தல்கள் ஆணைக்குழு புதிய சின்னங்கள் பலவற்றை அறிமுகம் செய்துள்ளது.
+
+அந்த சின்னங்களில் இதய சின்னமும் உள்ளது. முதலாவதாக கட்டுப்பணம் செலுத்தியதால் ஜனாதிபதி ரணில் விக்கிரமசிங்க இதயத்தை சின்னமாக தேர்ந்தெடுக்க கூடும் என தகவல்கள் தெரிவிக்கின்றன.
+
+ஜனாதிபதி தேர்தலுக்கான திகதியை குறிப்பிட்டு வர்த்தமானி அறிவித்தல், வெள்ளிக்கிழமை (26) அன்று வெளியானது. அதனையடுத்து கட்டுப்பணம், ரணில் விக்கிரமசிங்கவின் சார்பில் முதலாவதாக செலுத்தப்பட்டது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0ea64608.json)
 
 ---
 
@@ -95,6 +187,8 @@ Accordingly, the Cabinet of Ministers has approved the joint proposal presented 
 ◼️
 
 [Data](articles/bfc8200d.json)
+
+[Extended Data](ext_articles/bfc8200d.ext.json)
 
 ---
 
@@ -2127,109 +2221,5 @@ We need to get recovery from this fate. In order to get a rescue, you must first
 [Data](articles/5c22bd4a.json)
 
 [Extended Data](ext_articles/5c22bd4a.ext.json)
-
----
-
-### Manna brought to court
-
-*2024-07-29 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199339) · `si`
-
-"Manna Ramesh, arrested in Dubai, appeared in Avissawella Magistrate's Court. Accused of drug trafficking and murder, his detention expires on August 8."
-
-🟩
-
-Ramesh Priyro, "Manna Ramesh, who was arrested in Dubai, was taken to Avissawella Magistrate's Court today.
-
-The Ada Derana reporter said that he brought such a case for a case.
-
-The manna is being detained by the Criminal Investigations Department and his detention time is due to expire on August 8.
-
-Our correspondent said he was ordered to be produced before court on the day of the suspect's detention.
-
-According to the Sri Lankan police, Manna Ramesh, who was arrested by the organized crime leader in Dubai, was taken to the island on May 07.
-
-Manna Ramesh has been accused of extorting drug trafficking and murder centered in Avissawella area.
-
-◼️
-
-[Data](articles/b5e55a4c.json)
-
-[Extended Data](ext_articles/b5e55a4c.ext.json)
-
----
-
-### North and East people support Ranil: SP Dissanayake
-
-*2024-07-29 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/189710) · `ta`
-
-Support for Ranil Wickremesinghe is strong in the North and East, crucial for his potential victory over Sajith Premadasa in the upcoming presidential election. Senior PA members and constituents urge backing for Wickremesinghe, highlighting his popularity in these regions. A rivalry is anticipated between Wickremesinghe and Premadasa, with Wickremesinghe's support potentially deciding the election outcome.
-
-🟩
-
-Opposition Leader Sajith Premadasa will win the presidential election if Sri Lanka does not support Ranil Wickremesinghe.
-
-We have repeatedly told former President Mahinda Rajapakse that President Ranil Wickremesinghe should be fielded as the presidential candidate of the PA or his fullest support.
-
-Only a party of the party points out that the party's member should be fielded as the presidential candidate.
-
-Senior members of the Sri Lanka PA are firm in the position that the president should support the president.
-
-The party's constituency organizers are also in the same position.
-
-Opposition leader Sajith Premadasa will win the election if President Ranil Wickremesinghe does not support PA.
-
-The people of the North and Eastern Province will support President Ranil Wickremesinghe in 2022.. Therefore, the PA should take the best decision.
-
-...
-
-[Data](articles/d6c5c48f.json)
-
-[Extended Data](ext_articles/d6c5c48f.ext.json)
-
----
-
-### Heroin trafficker in Kegalle
-
-*2024-07-29 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199338) · `si`
-
-In Kegalle, a 26-year-old man was arrested for trafficking heroin. Found in his possession during a raid were 31 grains and 460 milligrams of the drug. The arrest followed a tip-off to the Kegalle Division Crime Investigative Bureau.
-
-🟩
-
-A suspect has been arrested with heroin in the Molagoda area in Kegalle today (29).
-
-The raid was carried out on information received by the Kegalle Division Crime Investigative Bureau.
-
-During the inspection of a suspicious three-wheeler, 31 grains and 460 milligrams were recovered from the driver.
-
-The arrested is a 26-year-old resident of Valagama South, Delegama in the Devil.
-
-◼️
-
-[Data](articles/6484c1b1.json)
-
-[Extended Data](ext_articles/6484c1b1.ext.json)
-
----
-
-### Block against Wijayaka
-
-*2024-07-29 16:46:38* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-එරෙහි-වාරණය-තවදුරටත්/11-411071) · `si`
-
-The Colombo District Court injunction against Wijayaka, led by SLFP ministers Mahinda Amaraweera, Lasantha Alagiyawanna, and Duminda Dissanayake, has been extended until September 24.
-
-🟩
-
-As the Acting Chairman and the Secretary of the Sri Lanka Freedom Chairman has further extended the injunction to the Allem of Sarathi Villami Mithrapala.
-
-It is said that the Colombo District Court today (29th) has been ordered to be extended until September 24.
-
-Sri Lanka Freedom Party (SLFP) Minister Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake have issued the orders today. (I J)
-
-◼️
-
-[Data](articles/b8974157.json)
-
-[Extended Data](ext_articles/b8974157.ext.json)
 
 ---

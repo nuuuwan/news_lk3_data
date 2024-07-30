@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 23:55:52**
+As of **2024-07-31 00:08:35**
 
 ## Newspaper Stats
 
-*Scraped **38,129** Articles*
+*Scraped **38,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,51 @@ adaderanalk | 4,415
 tamilmirrorlk | 4,727
 dailymirrorlk | 4,733
 virakesarilk | 6,016
-adaderanasinhalalk | 6,419
+adaderanasinhalalk | 6,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,122 (100.0%) of 38,129 articles have been extended.
+38,129 (100.0%) of 38,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### லெபனான் தலைநகர் மீது இஸ்ரேல் திடீர் தாக்குதல்
+### ලකුණු සමවෙයි
+
+*2024-07-30 23:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199389) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන තුන්වැනි විස්සයි විස්ස ජාත්‍යන්තර තරගයේ ලකුණු සමවිය.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 9ක් දැවී ලකුණු 137යි.
+
+◼️
+
+[Data](articles/e066e59a.json)
+
+---
+
+### Israel's sudden attack on the capital of Lebanon
 
 *2024-07-30 23:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனான்-தலைநகர்-மீது-இஸ்ரேல்-திடீர்-தாக்குதல்/50-341313) · `ta`
 
-குறிப்பிட்ட சில இலக்குகள் மீது தாக்குதலை நடத்துவதாக இஸ்ரேல் அறிவித்துள்ளது. இந்த திடீர் தாக்குதலால் மத்திய கிழக்கில் பதற்ற நிலை ஏற்பட்டுள்ளது.
+Israel's surprise attack on Lebanon escalated tensions in the Middle East, targeting specific locations. In retaliation, Israel faced a rocket attack in the Golan Heights, resulting in the death of 12 children and youth. Lebanon reported damage from the conflict, including the collapse of buildings in Haret Hreek, a suburb of Beirut.
 
-இஸ்ரேலின் கட்டுப்பாட்டில் உள்ள கோலன் குன்றுகள் (Golan Heights) பகுதியில் நடந்த ராக்கெட் தாக்குதலில் 12 குழந்தைகள் மற்றும் இளைஞர்கள் கொல்லப்பட்டனர். இதற்கு பதிலடி கொடுக்கும் முகமாவே இந்த தாக்குதல் நடத்தப்பட்டதாக இஸ்ரேல் இராணுவம் கூறியது.
+🟩
 
-லெபனானின் அரசு நடத்தும் தேசிய செய்தி நிறுவனம், பெய்ரூட்டின் தெற்கே உள்ள புறநகர்ப் பகுதியான ஹரேட் ஹ்ரீக்கில் உள்ள ஒரு கட்டிடத்தின் இரண்டு தளங்கள் இடிந்து விழுந்ததாகத் தெரிவித்தது. R
+Israel has announced that it will attack on certain targets. The attack has caused tension in the Middle East.
+
+12 children and youth were killed in a rocket attack in the Golan Heights area of ​​Israel. The Israeli military claimed that the attack was the face of retaliation.
+
+Lebanon's State -run National News Agency reported that two bases of a building in Haret Hreek, a suburb of Beirut's south of Beirut, collapsed.. Remble
 
 ◼️
 
 [Data](articles/93145090.json)
+
+[Extended Data](ext_articles/93145090.ext.json)
 
 ---
 
@@ -836,6 +856,8 @@ Both countries agreed on the importance of high-level political exchanges in enh
 
 [Data](articles/560a4fdd.json)
 
+[Extended Data](ext_articles/560a4fdd.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 302.48/55 to US dollar
@@ -855,6 +877,8 @@ A bond maturing on 15.09.2029 closed at 12.25/40 percent, up from 12.15/25 perce
 ◼️
 
 [Data](articles/a1b54c35.json)
+
+[Extended Data](ext_articles/a1b54c35.ext.json)
 
 ---
 
@@ -1118,6 +1142,8 @@ The new share will be issued in the proportion of 1 for every 10 existing shares
 
 [Data](articles/75659cec.json)
 
+[Extended Data](ext_articles/75659cec.ext.json)
+
 ---
 
 ### Prabhas starrer 'The Raja Chap'
@@ -1163,6 +1189,8 @@ The Softlogic Life Insurance Plc share buy-back is to conclude tomorrow (31). Th
 ...
 
 [Data](articles/cbd8baee.json)
+
+[Extended Data](ext_articles/cbd8baee.ext.json)
 
 ---
 
@@ -1385,6 +1413,8 @@ The two officials also discussed “avenues of strengthening our partnership and
 ◼️
 
 [Data](articles/e3df0908.json)
+
+[Extended Data](ext_articles/e3df0908.ext.json)
 
 ---
 
@@ -1823,6 +1853,8 @@ Kalgetiya said the airport was active with 2-3 daily flights in Sri Lanka’s pe
 ...
 
 [Data](articles/9632308d.json)
+
+[Extended Data](ext_articles/9632308d.ext.json)
 
 ---
 
@@ -2333,25 +2365,5 @@ The Cabinet paper has been granted to instruct a new bill to formulate a new bil
 [Data](articles/22d01455.json)
 
 [Extended Data](ext_articles/22d01455.ext.json)
-
----
-
-### Import Eggs for Festival Season
-
-*2024-07-30 11:49:30* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයට-බිත්තර-ආනයනය-කරන්න-කැබිනට්-අනුමැතිය/11-411087) · `si`
-
-Trade Minister Nalin Fernando has approved the import of eggs wholesale for the upcoming Razor and Christmas festivals. These eggs, sourced from the Commerce Corporation, will be available at affordable prices through Sathosa outlets across 37 locations.
-
-🟩
-
-The cabinet paper presented by Trade Minister Nalin Fernando has approved the importation of the egg wholesale for the coming razor and Christmas festival season.
-
-These imports from the Commerce Corporation are sold to the people through Sathosa outlets through Sathosa outlets. Rs. The people of 37 sold eggs at affordable.
-
-◼️
-
-[Data](articles/1267c6db.json)
-
-[Extended Data](ext_articles/1267c6db.ext.json)
 
 ---

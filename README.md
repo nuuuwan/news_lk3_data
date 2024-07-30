@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 22:36:17**
+As of **2024-07-30 22:54:07**
 
 ## Newspaper Stats
 
-*Scraped **38,121** Articles*
+*Scraped **38,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 4,415
 tamilmirrorlk | 4,726
 dailymirrorlk | 4,733
 virakesarilk | 6,016
-adaderanasinhalalk | 6,418
+adaderanasinhalalk | 6,419
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,121 (100.0%) of 38,121 articles have been extended.
+38,121 (100.0%) of 38,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### විද්‍යා ඝාතන නඩුවේ අභියාචනා පෙත්සම් විභාගයට දින නියම වෙයි
+
+*2024-07-30 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199388) · `si`
+
+2015 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් යාපනයේ සිවලෝගනාදන් විද්‍යා දැරිය ඝාතනය කිරීම සම්බන්ධයෙන් යාපනය මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කර සිටින විත්තිකරුවන් හය දෙනා එම දඬුවමින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා ඉදිරිපත් කර තිබෙන අභියාචනා විභාගය ජනවාරි මස 20 වනදා පැවැත්වීමට ශ්‍රේෂ්ඨාධිකරණය දින නියම කර තිබේ.
+
+මෙම අභියාචනා පෙත්සම් අද (30) ප්‍රීති පද්මන් සූරසේන, යසන්ත කෝදාගොඩ, ඒ.එච්.එම්.ඩී. නවාස්, ශිරාන් ගුණරත්න සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී මෙම නඩුවට සම්බන්ධ එක් විත්තිකරුවකු මියගොස් සිටින බව බන්ධනාගාර නිලධාරීන් විසින් අධිකරණයට දැනුම් දුන්නේය.
+
+විත්තිය වෙනුවෙන් පෙනී සිටි නීතිඥ ආරුමුගම් රගුපති මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුකරයට අදාළ පරිවර්තන කළ ලේඛන ලැබීමේ ප්‍රමාදය නිසා මෙම විත්තිකරුවන් වසර 08කට අධික කාලයක් නිකරුනේ බන්ධනාගාර ගතව සිටින බව සඳහන් කළේය.
+
+එම අවස්ථාවේදී සොලිසිටර් ජෙනරාල් අයේෂා ජිනසේන මෙනෙවිය අධිකරණයට දැනුම් දුන්නේ මෙම නඩුකරයට අදාළ පරිවර්ථන කළ ලේඛන කඩිනමින් ලබාදීමට පියවර ගන්නා බවය.
+
+...
+
+[Data](articles/63d86125.json)
+
+---
 
 ### Mahinda has to change his position - support Ranil - Otherwise, the consequences should be experienced - Peramuna's MPs
 
@@ -2333,33 +2353,5 @@ Eight in the next week to be summoned to check the eligibility for Israel.
 [Data](articles/13c20c66.json)
 
 [Extended Data](ext_articles/13c20c66.ext.json)
-
----
-
-### Sajith to support Dayasiri
-
-*2024-07-30 10:57:43* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිලාගේ-සහාය-සජිත්ට/11-411084) · `si`
-
-Saman Priyantha Wijewickrama, a key figure in the Humanitarian People's UPFA, announced support for Sajith Premadasa in the upcoming presidential election. This decision follows consultations within the party and highlights Premadasa's popularity among the people. Additionally, Wijewickrama emphasized the importance of unity among various political factions, including the SLFP, under the leadership of Dayasiri Jayasekera. The statement also mentioned support for other leaders like Ranil Wickremesinghe and Mahinda Rajapakse, indicating a broad alliance.
-
-🟩
-
-Humanitarian People's UPFA Saman Priyantha Wijewickrama said that this year's support will be given to the assistance of his party in the presidential election.
-
-Wijewickrama said that the Leader of Humanitarian People's Alliance (SLFP)
-
-The new UPFA, Wijewickrama said that the new decision was taken with several rounds of the party with the leading opposition leader of the opposition leader of the opposition leader of the opposition leader.
-
-Sajith Premadasa is the only leader who is the only leader of the country and the people of this country are closely close to Mr. Premadasa.
-
-The Presidential Leader Dayasiri Jayasekera said that the party leader Dayasiri Jayasekera said that the President's party would bow down to the President's decision.
-
-Wijewickrama said that he was the leader of all these parties, including the Sri Lanka Freedom Party (SLFP), was the leader of all these parties.
-
-...
-
-[Data](articles/f04da6f2.json)
-
-[Extended Data](ext_articles/f04da6f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 14:06:54**
+As of **2024-07-30 14:20:34**
 
 ## Newspaper Stats
 
-*Scraped **38,040** Articles*
+*Scraped **38,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,69 +20,107 @@ adaderanalk | 4,406
 tamilmirrorlk | 4,713
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,403
+adaderanasinhalalk | 6,404
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,036 (100.0%) of 38,040 articles have been extended.
+38,040 (100.0%) of 38,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### තවත් ලතින් අමෙරිකානු රටක් ගිනිගනී
+### ශ්‍රී ලංකා නිදහස් පක්ෂයට එරෙහි වාරණය දීර්ඝ කෙරේ
+
+*2024-07-30 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199371) · `si`
+
+මහින්ද අමරවීර, ලසන්ත අලගියවන්න සහ දුමින්ද දිසානායක යන මහත්වරු ශ්‍රී ලංකා නිදහස් පක්ෂයේ තනතුරුවලින් ඉවත් කිරීම වළක්වාලමින්  එම පක්‍ෂයේ හිටපු සභාපති මෛත්‍රිපාල සිරිසේන ඇතුළු පිරිසකට එරෙහිව නිකුත්කර තිබූ වාරණ නියෝග තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+
+මෙම නඩු අද (30) යළි කැඳවීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා විසින් මෙම නියෝග නිකුත් කරනු ලැබීය.
+
+ඒ අනුව අදාළ වාරණ නියෝග ඔක්තෝබර් මස 09 වනදා දක්වා දීර්ඝ කිරීමටද නියෝග කෙරුණි.
+
+පෙත්සම්කාර ලසන්ත අලගියවන්න, දුමින්ද දිසානායක සහ මහින්ද අමරවීර යන මහත්වරු කියා සිටින්නේ  ශ්‍රී ලංකා නිදහස් පක්ෂයේ  දැරූ තනතුරුවලින් අත්තනෝමතික ආකාරයට ඉවත් කිරීමට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන ඇතුළු පිරිසක් ගනු ලැබූ තීරණය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවයි.
+
+එම තීරණ බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ඔවුන් කොළඹ දිසා අධිකරණය හමුවේ මෙම නඩු ගොනුකර තිබේ.
+
+◼️
+
+[Data](articles/9c6ce6c1.json)
+
+---
+
+### Another Latin American country burns
 
 *2024-07-30 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199370) · `si`
 
-වෙනිසියුලා ජනාධිපතිවරණ ප්‍රතිඵල අභියෝගයට ලක් කරමින් ජනතාව විථි බැසීමත් සමග කරාකස් අගනුවර උණුසුම් තත්ත්වයක් හටගෙන තිබේ.
+Venezuela faces widespread protests over disputed presidential election results, with accusations of fraud and violence from opposition groups. International pressure mounts as countries and organizations demand transparency and accountability from the government.
 
-කරාකස් අගනුවර සහ වෙනත් නගර රැසකදීම ජනතාව විරෝධතාවේ නිරත වන්නේ වසර 11ක් පුරා එරට ජනාධිපති ධුරය දැරූ නිකලස් මදුරෝ මෙවරත් ජනාධිපතිවරණය ජයගෙන ඇති බවට නිර්ණය කළ ජනාධිපතිවරණ ප්‍රතිඵල වංචා සහගත බවට චෝදනා කරමිනි.
+🟩
 
-ඒ ප්‍රතිවාදී එඩ්මුන්දෝ ගොන්සාල්වේස් ප්‍රමුඛ සන්ධානය සියයට 70 ඉක්මවූ ඡන්ද ප්‍රතිශතයක් දිනාගනු ඇතැයි පූර්ව මැතිවරණ ප්‍රතිඵල පෙන්නුම් කර තිබූ පසුබිමකය.
+Chalding Venezuela challenges the results of the presidential election and the masses have a warm quality of the ear.
 
-විරෝධතාකරුවන් පාලනය කිරීමට ආරක්ෂක අංශ කඳුළු ගෑස් සහ රබර් උණ්ඩ ප්‍රහාර එල්ල කිරීමත් සමග විරෝධතා ප්‍රචණ්ඩ ස්වරූපයක් ගෙන තිබුණි.
+The people protest with the protesters of the crowd and other cities, accusing the results of the presidential election for 11 years.
 
-ලතින් අමෙරිකානු සහ බටහිර රටවල් ද එක්සත් ජතීන්ගේ සංවිධානය ඇතුළු ජාත්‍යන්තර සංවිධාන ද එක් එක් ඡන්ද මධ්‍යස්ථානවල ප්‍රතිඵල වෙන් වෙන් වශයෙන් නිකුත් කරන ලෙස වෙනිසියුලානු බලධාරීන්ගෙන් ඉල්ලීම් කර තිබේ.
+The pre-election result, the prolonged electoral results that the opposition alliance will win 70 percent of the UPFA.
 
-නිකලස් මදුරෝ වෙනිසියුලානු ජනාධිපති වශයෙන් පිළි නොගන්නා ආර්ජන්ටිනාව, පේරු, චිලී ඇතුළු ලතින් අමෙරිකානු රටවල් 6ක සිටින රාජ්‍ය තාන්ත්‍රිකයින් නැවතත් කැඳවීමට වෙනිසියුලාව පියවර ගෙන ඇතැයි සඳහන්ය.
+The protests had taken a violent form with security forces tear gas and rubber bullets to control the protesters.
+
+Latin American and Western countries, including United Natural Organizations and other international organizations have requested Venezuelan authorities to release the results of each election centers.
+
+Nicholas Maduro has taken steps to call the diplomats of six Latinia, including Argentina, Peru and Chiilri, who did not accept Venezuelan president.
 
 ◼️
 
 [Data](articles/27081978.json)
 
+[Extended Data](ext_articles/27081978.ext.json)
+
 ---
 
-### ඉන්ධන ප්‍රවාහන නෞකාවක් ඉරාන භාරයට - කාර්ය මණ්ඩලයේ ශ්‍රී ලාංකිකයිනුත්
+### Fuel carrier beat Irania - Sri Lankan
 
 *2024-07-30 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199369) · `si`
 
-නීතිවිරෝධි ලෙස ඉන්ධන ලීටර මිලයන 1.5ක් ජාවාරම් කරමින් පැවති බවට චෝදනා කරමින් ඉන්ධන ප්‍රවාහන නෞකාවක් ඉරාන විප්ලවීය හමුදාව සිය භාරයට ගෙන තිබේ.
+An Iranian revolutionary ship allegedly stole 1.5 liters of fuel from a fuel carrier in the Persian Bay last Monday. The incident involved a crew of 12, including Sri Lankans, operating under the Togo flag.
 
-පර්සියන් බොක්කේ දී පසුගිය සඳුදා (22) එම නෞකාව ඔවුන් විසින් සිය භාරයට ගෙන ඇත.
+🟩
 
-එලෙස භාරයට ගෙන ඇත්තේ බටහිර අප්‍රිකානු රාජ්‍යයක් වන ටෝගෝ ධජය යටතේ ඉන්ධන ප්‍රවාහනය කරමින් පැවති නෞකාවකි.
+Iranian revolutionary ship has taken over 1.5 liters of fuel, alleging that 1.5 liters of fuel.
 
-එහි 12 දෙනෙකුගෙන් යුතු කාර්ය මණ්ඩලයේ ශ්‍රී ලාංකිකයින් ද සිටින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+The ship has taken the ship last Monday (22) in the Persian Bay.
+
+It is also in the seedle of fuel under West African state togo flag.
+
+Foreign media reports that there are also Sri Lankans in the staff of 12 of them.
 
 ◼️
 
 [Data](articles/88563228.json)
 
+[Extended Data](ext_articles/88563228.ext.json)
+
 ---
 
-### சந்திரசேன எம்.பி ரணிலுக்கு ஆதரவு
+### Chandrasena MP supports Ranil
 
 *2024-07-30 13:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்திரசேன-எம்-பி-ரணிலுக்கு-ஆதரவு/175-341275) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவளிக்கப் போவதில்லை என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) பாராளுமன்ற உறுப்பினர்களின் கணிசமான பகுதியினர் தீர்மானித்த போதிலும், என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் எஸ்.எம். சந்திரசேன உத்தியோகபூர்வமாக ஜனாதிபதி விக்கிரமசிங்கவிற்கு ஆதரவளிப்பதாக உறுதியளித்துள்ளார்.
+Despite the Sri Lanka People's Alliance (SLPA) deciding not to back President Ranil Wickremesinghe, Chandrasena MP has pledged support. This decision was made during the Anuradhapura District Committee Meeting of the SLPA, where Chandrasena publicly committed his backing to Wickremesinghe.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அனுராதபுரம் மாவட்டக் குழுக் கூட்டம் இன்று (30)  நடைபெற்றது. அதில் கலந்துகொண்டு கருத்துரைத்த போதே இவ்வாறு தெரிவித்தார்.
+🟩
+
+Sri Lanka PA has decided not to support President Ranil Wickremesinghe in the upcoming presidential election, despite the significant part of MPs of the Sri Lanka PA MP, SM Member of Parliament. Chandrasena has officially promised President Wickremesinghe.
+
+The Anuradhapura District Committee Meeting of the Sri Lanka PA. He said this while participating in the comment.
 
 ◼️
 
 [Data](articles/0843a683.json)
+
+[Extended Data](ext_articles/0843a683.ext.json)
 
 ---
 
@@ -170,19 +208,31 @@ Nettasinghe, who has already lost his first group Game in the men's personal bad
 
 ---
 
-### අනුරාධපුරයේ පොහොට්ටුව රනිල් ළඟ පිපෙයි
+### Ranil blooms in Anuradhapura
 
 *2024-07-30 13:18:39* · [`adalk`](https://www.ada.lk/breaking_news/අනුරාධපුරයේ-පොහොට්ටුව-රනිල්-ළඟ-පිපෙයි/11-411091) · `si`
 
-කෙළෙහි ගුණ දක්වන මිනිසුන් හැටියට රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාට සහය දක්වන ලෙසට පොදු ජන එක්සත් පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් සම්මේලනයේදී අති බහුතරයකගේ පල වූ එකඟත්වය මත ඔවුන්ගේ මතයට සහාය දැක්වීමටත් පක්ෂයටත් ඒ අනුව කටයුතු කිරීමට තවමත් කල් තිබෙන බවත් අනුරාධපුර දිස්ත්‍රික් පොදුජන එක්සත් පෙරමුණු කණ්ඩායම් නායක,දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ සභාපති සහ පාර්ලිමේන්තු මන්ත්‍රී එස්. එම්. චන්ද්‍රසේන  මහතා සඳහන් කළේය.
+The Anuradhapura District Federation supports Ranil Wickremesinghe, as proposed by MP Chandrasena at a meeting. Attendees included former Chief Minister SM Ranjith Samarakoon and several provincial councilors. Chandrasena emphasized the importance of collective decisions and grassroots involvement.
 
-අද (30දා) අනුරාධපුර කුරුන්දන්කුලම  චන්ද්‍රසේන මහතාගේ නිවසේ පිහිටි පොදු ජන එක්සත් පෙරමුණු දිස්ත්‍රික් කාර්යාලයේ පැවැත් වූ දිස්ත්‍රික්සම්මේලනයේදී  කණ්ඩායම් නායක චන්ද්‍රසේන මහතා ඇතුළු  පිරිස මෙම එකඟතාවයට පැමිණියහ.
+🟩
 
-මේ සඳහා උතුරු මැද හිටපු ප්‍රධාන අමාත්‍ය එස් එම් රංජිත් සමරකෝන්  මහතා සහ දිස්ත්‍රික්කයේ සියලුම හිටපු පළාත් සභා මන්ත්‍රීවරු, ,ආසන සංවිධායකවරු, ප්‍රාදේශීය සභා සභාපතිවරු ප්‍රාදේශීය සභා නියෝජිතවරු පාර්ලිමේන්තු මන්ත්‍රීවරු ඇතුළු දෙසීයකට අධික පිරිසක් එක්ව සිටියහ.
+Anuradhapura District Federation (Anuradhapura District) Federation has recently supported the vicinity of the majority of the majority of the vast majority.Member of Parliament (MP). M. Mr. Chandrasena said.
+
+The District Chandusena and others attended this agreement at the District Meeting held at the Commonwealth District Office of Chandrasena at Kurundankulam Chandrasena in Anuradhapura.
+
+Former Chief Minister SM Ranjith Samarakoon and former Provincial Councilors, Partition Organizers, Pradeshiya Sabha Chairman Pradeshiya Sabha Representatives were present.
+
+According to Mr. Chandrasena, he proposed to support the President of Ranil Wickremesinghe, as per the request of the district conferences to comment independently.
+
+Mr. Chandrasena said he said that if the people said that they should be done with the ground level, he said.
+
+Mr. Chandrasena also requested that the party would not take individual decisions, as he wanted the support of all these leaders and other elections.
 
 ...
 
 [Data](articles/d5583c3f.json)
+
+[Extended Data](ext_articles/d5583c3f.ext.json)
 
 ---
 
@@ -2153,23 +2203,5 @@ Former President Mahinda Rajapakse said that this is the party's decision and th
 [Data](articles/e4f79809.json)
 
 [Extended Data](ext_articles/e4f79809.ext.json)
-
----
-
-### Colombo Port recognized as world’s fastest-growing port in Q1 2024
-
-*2024-07-29 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/100865/colombo-port-recognized-as-worlds-fastest-growing-port-in-q1-2024) · `en`
-
-The Secretary to the Ministry of Ports, Naval, and Aviation Services, K. D. S. Ruwanchandra, emphasized that Alphaliner, a prominent research publication in the shipping industry, recognized Colombo Port as the world’s fastest-growing port in the first quarter of 2024 due to its remarkable operational performance and 23.6% growth rate.
-
-He added that the port generated an income of USD 50 million in the first quarter of 2024, emphasizing that the various trade union actions taken in the past did not impede this progress.
-
-Addressing a press briefing held under the series titled “Two Years of Progress and Way Forward”, held at the Presidential Media Centre (PMC) today (29), Secretary to the Ministry of Ports, Shipping, and Aviation Services further elaborated:
-
-...
-
-[Data](articles/32f8e273.json)
-
-[Extended Data](ext_articles/32f8e273.ext.json)
 
 ---

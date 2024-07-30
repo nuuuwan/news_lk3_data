@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 14:54:47**
+As of **2024-07-30 15:05:47**
 
 ## Newspaper Stats
 
-*Scraped **38,050** Articles*
+*Scraped **38,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,285
 dailyftlk | 2,434
-adalk | 3,474
+adalk | 3,475
 adaderanalk | 4,406
 tamilmirrorlk | 4,716
 dailymirrorlk | 4,733
@@ -26,89 +26,117 @@ adaderanasinhalalk | 6,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,041 (100.0%) of 38,050 articles have been extended.
+38,050 (100.0%) of 38,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### කඩුලු රකින ක්‍රීඩිකා අනුෂ්කා සංජීවනී ට පාසලෙන් හරසර
+### Wickrelewriters Shanka Sanjeewani
 
 *2024-07-30 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199372) · `si`
 
-ආසියානු කාන්තා ක්‍රිකට් තරගාවලියේ ජය හිමිකරගත් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ, කඩුලු රකින ක්‍රීඩිකා අනුෂ්කා සංජීවනී මීගම ව පිළිගැනීමේ උත්සවයක් හික්කඩුවේ දී පැවැත්වුණි.
+The Sri Lanka Women's cricket team celebrated a victory in Hikkaduwa, winning the Asian Women's Cricket Tournament. Anushka, a student transferred from Sumangala Vidyalaya in Hikkaduwa, was honored by both schools. Her sister, sensitive about comments, donated Rs. The National Group of Seenigama and Sumangala Vidyalaya, Hikkaduwa, recognized her achievements. Plans are underway to establish a female cricket team due to its absence.
 
-අනුෂ්කා පාසල් ගිය හික්කඩුව සුමංගල විද්‍යාලයේ ආදි ශිෂ්‍යයින් විසින් පිළිගැනීමේ උත්සවය සංවිධානය කර තිබුණි
+🟩
 
-අනුෂ්කාව රිය පෙරහැරකින් හික්කඩුව නගරයේ සිට හික්කඩුව සුමංගල විද්‍යාලයට රැගෙන ආ අතර, හික්කඩුව සුමංගල හිමිගේ පිළිරුවට පුෂ්පෝපහාර දැක්වීමෙන් අනතුරුව ප්‍රදේශයේ භික්ෂූන් වහන්සේලා පිරිත් සජ්ඣායනා කරමින් ඇයට ආශිර්වාද එක්කළහ.
+The Sri Lanka Women's cricket team won a wicket winner in Hikkadi, who won the Asian Women's Cricket Tournament.
 
-පසුව කෙටි උත්සවයක් පවත්වා ආදි ශිෂ්‍යයින් සහ පාසලේ ශිෂ්‍යයින් එක්ව ඇයට සුබ පැතුම් එක්කළහ.
+The welcome cemetery was organized by the alumni of Sushangala Vidyalaya
 
-මේ අවස්ථාවට එක්වූ අනුෂ්කාගේ එකම සහෝදරිය අදහස් පළ කිරීමේ දී සංවේදී වන අයුරු දැකගන්නට ලැබුණි.
+Anushkawa was brought to Sumangala Vidyalaya from Hikkaduwa to Hikkaduwa, Hikkaduwa.
 
-ඇය පාසලේ ක්‍රිකට් ක්‍රීඩාව නඟාසිටුවීමට රුපියල් ලක්ෂයක මුදලක් ආදි ශිෂ්‍යය සංගමයට පරිත්‍යාග කළාය.
+The students of the school and the school joined her and joined her.
 
-අනුෂ්කා හික්කඩුව නාරිගම ප්‍රදේශයේ උපත ලබා හික්කඩුව ජයන්ති ප්‍රාථමික විද්‍යාලයෙන් මූලික අධ්‍යාපනය හදාරා, හික්කඩුව ශ්‍රී සුමංගල විද්‍යාලයේ ඉගෙනුම ලබන අතරතුර සීනිගම ගුණ ජය සතුට පදනමෙන් ක්‍රිකට් පුහුණුව ලබා ජාතික කණ්ඩායමට තේරී පත් වී තිබේ.
+Anushka's only sister was sensitive in commenting.
 
-...
+She donated Rs.
+
+The National Group was elected to the National Group of Seenigama and Sumangala Virus for Sri Sumangala Vidyalaya, Hikkaduwa, Hikkaduwa.
+
+Speaking further, Susuka further stated that it will take action to start at the opening of a female cricket team as there is no women's cricket team so far.
+
+◼️
 
 [Data](articles/d33b4242.json)
 
+[Extended Data](ext_articles/d33b4242.ext.json)
+
 ---
 
-### அதிக உணவளித்ததால் நாய் மரணம்
+### The dog's death because of excessive feeding
 
 *2024-07-30 14:25:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-உணவளித்ததால்-நாய்-மரணம்/175-341281) · `ta`
 
-செல்ல நாய்க்கு வரம்பில்லாமல் உணவளித்ததால், நியூசிலாந்தில் பெண் ஒருவருக்கு இரண்டு மாதங்கள் சிறை தண்டனை விதித்து அந்நாட்டு நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+A New Zealand woman was jailed for two months after her dog died from being overfed, weighing 53 kg at death. The prosecutor acted on behalf of Animal Protection, fining and banning her from owning dogs.
 
-குறித்த பெண் அவருடைய நாய்க்கு வரம்பில்லாமல் உணவளித்ததால், அந்த நாய் எடை அதிகமாகி  உயிரிழந்துள்ளது. உயிரிழக்கும் போது அதன் எடை 53 கிலோ இருந்ததாக கூறப்படுகிறது.
+🟩
 
-விலங்குகள் மீதான வன்கொடுமை தடுப்பு வழக்கறிஞர் நுகையின் சார்பாக அதன் உரிமையாளரை குற்றம் சாட்டி அவருக்கு எதிராக சட்ட நடவடிக்கை எடுக்க தலையிட்டார்.
+A woman in New Zealand has sentenced a woman to two months in prison for a good dog.
 
-சிறைத்தண்டனைக்கு கூடுதலாக, உரிமையாளருக்கு அபராதம் விதிக்கப்பட்டதோடு ம் நாய்களை வளர்ப்பதற்கும்  தடை விதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The dog died of weight as the woman feeds her dog unlimited. Its weight is said to have been 53 kg at the time of death.
+
+The Prosecutor's Prosecutor's Prosecutor on behalf of the Animus intervened to take legal action against him by accusing him of its owner.
+
+In addition to the imprisonment, the owner has been fined and forbidden to raise dogs.
 
 ◼️
 
 [Data](articles/43c378d0.json)
 
+[Extended Data](ext_articles/43c378d0.ext.json)
+
 ---
 
-### முட்புதரில்  சிறுமி: இளைஞர்​ கைது
+### Mudbudar girl: Youth arrested
 
 *2024-07-30 14:18:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/முட்புதரில்-சிறுமி-இளைஞர்-கைது/93-341280) · `ta`
 
-சிறுவர் இல்லத்தில் வசிக்கும் சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய குற்றச்சாட்டில் இளைஞனை மொனராகலை பொலிஸார் கடந்த  30  ஆம் திகதி கைது செய்துள்ளனர்.
+In Moneragala, a 28-year-old man was arrested on suspicion of sexual abuse against a 15-year-old girl from a children's home. The incident occurred after the girl went missing from the home on the 26th, and she was later found with the suspect. She was hospitalized for a medical exam.
 
-சிறுவர் இல்லத்தில் இருந்த 15 வயதான சிறுமி, சிறுவர் இல்லத்துக்கு அருகே உள்ள தோட்டத்தில் உள்ள வீடொன்றில் வசிக்கும் 28 வயது இளைஞனுடன் காதல் உறவில் ஈடுபட்டு வந்துள்ளார்.
+🟩
 
-சிறுவர்கள் இல்லத்தில், அச்சிறுமியை கடந்த 26ம் திகதி காணவில்லை. அதனையடுத்து தேடியபோது,   முட்புதரில்  இளைஞன் ஒருவருடன் இருந்துள்ளார்.
+Moneragala police have arrested a youth on the 30th of this month for allegedly sexually abusing a girl living in a children's home.
 
-சிறுமி மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். அவ்விளைஞனை பொலிஸார் கைது செய்துள்ளனர்.
+A 15 -year -old girl from a children's home has been in love with a 28 -year -old youth living in a garden near the children's home.
+
+At the Children's House, the princess was missing on the 26th. Subsequently, the young man was with a young man in Mudbudar.
+
+The girl has been admitted to the Moneragala District General Hospital for medical examination. The police have arrested the police.
 
 ◼️
 
 [Data](articles/9eb3a16e.json)
 
+[Extended Data](ext_articles/9eb3a16e.ext.json)
+
 ---
 
-### காத்திருந்த இளைஞன் சடலமாக மீட்பு
+### Recovery of a youth who waited
 
 *2024-07-30 14:06:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/காத்திருந்த-இளைஞன்-சடலமாக-மீட்பு/72-341278) · `ta`
 
-வெளிநாடு செல்ல காத்திருந்த இளைஞன் குளத்திலிருந்து சடலமாக மீட்கப்பட்ட சம்பவமொன்று வடக்கில் இடம்பெற்றுள்ளது.
+A 27-year-old from Mullaitivu, Anandarasa Jeevan, was found dead in Vavunikulam after going missing near Pandian Pond. His disappearance was noticed when his phone stopped working after a call with friends. A search led to the discovery of his body in a pond, with local police continuing investigations.
 
-முல்லைத்தீவு யோகபுரம் மல்லாவி பகுதியை சேர்ந்த ஆனந்தரசா ஜீவன் (வயது 27) என்ற இளைஞன், வெளிநாடு செல்ல காத்திருந்த நிலையில் வவுனிக்குளத்தில் இருந்து செவ்வாய்க்கிழமை (30)  சடலமாக மீட்கப்பட்டுள்ளார்
+🟩
 
-20 லட்சம் பணத்துடன் யோக புறத்தில் இருந்து பாண்டியன் குளத்திற்கு திங்கட்கிழமை (29) பிற்பகல் சென்ற இளைஞன் இரவு 8.40 வரை நண்பர்களுடன் தொலைபேசியில் உரையாடி உள்ளதாகவும் பின்னர் அவரது தொலைபேசி வேலை செய்யவில்லை என்றும் அறியமுடிகின்றது.
+There is an incident in the north of the body of a youth who was waiting to go abroad.
 
-குறித்த இளைஞரின் தொடர்பு கிடைக்காத நிலையில்  அவரது நண்பர்கள் தேடியபோது செவ்வாய்க்கிழமை (30) அதிகாலை 3.00 மணியளவில் பாண்டியன்குளம் குளக்கரையில் மோட்டார் சைக்கிள் இனங்காணப்பட்டுள்ளது.
+Anandarasa Jeevan (age 27) from Yogapuram Mallavi, Mullaitivu, has been recovered from Vavunikulam on Tuesday (30) while waiting to go abroad
 
-அதன்பின்னர்  தேடியதை தொடர்ந்து வவுனிக்குளத்தின் மூன்றாவது நீர் சுருங்கையில் (நீர் கொட்டு)  உடலம்  இனங்காணப்பட்டு பிரதேச வாசிகளால் உடலம் மீட்கப்பட்டு வெளியில் எடுக்கப்பட்டது.
+It is learned that the young man who went to the Pandian Pond from Yoga to the Yoga Pond on Monday (29) afternoon, was telephoned with friends till 8.40 pm and his phone did not work.
 
-...
+A motorcycle was identified at Pandiyankulam Kulakkara at 3.00 am on Tuesday (30) when his friends were searched for the lack of contact.
+
+Following the search, the third water in Vavuniya was shrinking (water) and the body was recovered by the residents of the area.
+
+Pandiyankulam police rushed to the scene and rescued the body in the presence of the judge and are conducting further investigations.
+
+◼️
 
 [Data](articles/14af5c95.json)
+
+[Extended Data](ext_articles/14af5c95.ext.json)
 
 ---
 
@@ -131,6 +159,8 @@ Kalgetiya said the airport was active with 2-3 daily flights in Sri Lanka’s pe
 ...
 
 [Data](articles/1c7e56d6.json)
+
+[Extended Data](ext_articles/1c7e56d6.ext.json)
 
 ---
 
@@ -291,6 +321,8 @@ Wijesekara’s official declaration on Tuesday came after several members of the
 ...
 
 [Data](articles/abe322a5.json)
+
+[Extended Data](ext_articles/abe322a5.ext.json)
 
 ---
 
@@ -474,6 +506,8 @@ The pediatrician said those with symptoms should wear face masks and that childr
 
 [Data](articles/946543ab.json)
 
+[Extended Data](ext_articles/946543ab.ext.json)
+
 ---
 
 ### Some MPs who met President met me yesterday
@@ -546,6 +580,20 @@ A special program has been implemented to ensure the speedy distribution of offi
 
 ---
 
+### උත්සව සමයට බිත්තර ආනයනය කරන්න කැබිනට් අනුමැතිය
+
+*2024-07-30 11:49:30* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයට-බිත්තර-ආනයනය-කරන්න-කැබිනට්-අනුමැතිය/11-411087) · `si`
+
+එළැඹෙන රාමසාන් හා නත්තල් උත්සව සමය වෙනුවෙන් අවශ්‍ය බිත්තර තොග ආනයනය කිරීම සඳහා වෙළඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලබා දි තිබේ.
+
+රජයේ වාණිජ සංස්ථාව හරහා ආනයනය කරන මෙම බිත්තර සතොස අලෙවිසැල් හරහා ජනතාව වෙත අලෙවි කරයි. රු. 37ක් වැනි ජනතාවට දැරිය හැකි මිලකට බිත්තර අලෙවි කළේය.
+
+◼️
+
+[Data](articles/1267c6db.json)
+
+---
+
 ### Ranil to support Anuradhapura District Committee of Pohon
 
 *2024-07-30 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199364) · `si`
@@ -600,23 +648,29 @@ Local news channel Asianet TV said as many as 41 people died after the landslide
 
 ---
 
-### බීමත්ව රිය පැදවූ ප්‍රසිද්ධ ගායකගේ පුතා බේරාගන්න පොලිසියේ යකා නැටූ මිතුරාත් කූඩුවේ
+### Dange out friend of the police to save the famous singer's son's son's son
 
 *2024-07-30 11:21:33* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-රිය-පැදවූ-ප්‍රසිද්ධ-ගායකගේ-පුතා-බේරාගන්න-පොලිසියේ-යකා-නැටූ-මිතුරාත්-කූඩුවේ/11-411086) · `si`
 
-බීමත්ව රිය පැදවීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් ප්‍රසිද්ධ බයිලා ගායකයෙක්ගේ පුත්‍රයෙක් බේරාගැනීමට බීමත්ව පොලිසියේ ලී බැරියර්  කඩාදමමින් පිස්සු නැටූ පුද්ගලයෙකු අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි .
+A man was arrested by police after crashing his car while drunk. He was found with the grandson of a renowned singer and both were taken to the hospital. The suspect, identified as the son of a famous singer, was later released after being treated for his injuries.
 
-පානදුර පොලිස් අධිකාරි කාර්යාලයේ මෙහෙයවීමෙන් පෙරේදා (28) මධ්‍යම "රාත්‍රි අමුත්තන් ගේ රාත්‍රිය" නමින් සිදුකල මෙහෙයුමකදී සාදයකට සහභාගිවී මෝටර් රථයකින් ගමන් කරමින් සිටී ප්‍රසිද්ධ බයිලා ගායකයෙකුගේ පුත්‍රයා  අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-ඔහු සමග පැමිණි පුද්ගලයෙකු, සිරමැදිරියේ රදවා සිටී බීමත් රියදුරු මිතුරා බේරාගැනීමට ඒ අසල තිබූ ලී බාධකයක්ද කඩදමා උත්සහ කර ඇති බව පොලිසිය පවසයි .
+Panadura South Police say that a crazy dance arrests have been arrested by the drunken police, who breaks down the drunken policeman of drunk driving.
 
-එහිදි පොලිස් නිළධාරින් සැකකරු මෙල්ලකර භාරයට ගෙන වෛද්‍යවරයෙකු හමුවට පමුණුවා සිදුකල පරීක්ෂාවේදී ඔහුද මත්පැන් පානය කර සිටී බවට තහවුරු වූ බව පොලිසිය සදහන් කරයි.
+The son of a well-known bi-night singer has been arrested by a public bi-night singer in the Panadura Superintendent's Office.
 
-ප්‍රසිද්ධ බයිලා ගායකයෙකයාගේ පුත්‍රයා බීමත්ව රිය පැදවීම යටතේ එක් චෝදනාවකටද , ඔහු බේරාගැනීමට පොලිසියේ යකා නැටූ සැකකරු සාපරාධී බලහත්කාරය, බීමත්ව ප්‍රසිද්ධ ස්ථානයක අශෝභන ලෙස හැසිරීම සහ අනර්ථයක් සිදුකිරිම යන චෝදනා තුනක් යටතේ පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට නියමිතව තිබුණි
+Police say that a person with him has been detained in the cell, police said.
+
+The police said that the suspect was taken into tine and submitted the suspect and had been drinking into a doctor.
+
+The suspect that the son of a famous bilaila's son was drunk to be produced before a criminal force, drunken colast and suffering.
 
 ◼️
 
 [Data](articles/58eb9158.json)
+
+[Extended Data](ext_articles/58eb9158.ext.json)
 
 ---
 
@@ -2173,23 +2227,5 @@ Authentic Brands Group (Authentic), a global brand development, marketing, and e
 [Data](articles/fd175bd2.json)
 
 [Extended Data](ext_articles/fd175bd2.ext.json)
-
----
-
-### Jaffna’s tourism boom lifts Jetwing Jaffna to new heights
-
-*2024-07-29 22:54:00* · [`islandlk`](http://island.lk/jaffnas-tourism-boom-lifts-jetwing-jaffna-to-new-heights-2/) · `en`
-
-Jetwing Jaffna experienced a significant financial upswing in the fiscal year 2023/24, achieving a 60% improvement in performance compared to the preceding year. This positive trend reflects the property’s ongoing success in establishing itself as a leading luxury city hotel within the northern peninsula. Additionally, occupancy rates have demonstrably increased, rising from 37% in the previous fiscal year to 61% in 2023/24.
-
-Jetwing Jaffna Hotel is owned by Yarl Hotels Private Limited which was jointly promoted by MMBLpathfinder Group of Companies, Jetwing Hotels and Regency Teas.
-
-Jaffna is increasingly gaining popularity as a tourist destination; owing largely to its well-developed transportation infrastructure. This network encompasses road, rail, sea, and air travel options, facilitating convenient access for visitors. Jaffna International Airport, located in Palaly, further enhances connectivity by offering international flights, including direct connections from India.
-
-...
-
-[Data](articles/63ab316c.json)
-
-[Extended Data](ext_articles/63ab316c.ext.json)
 
 ---

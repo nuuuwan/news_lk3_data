@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 01:20:37**
+As of **2024-07-31 01:35:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,132 (100.0%) of 38,134 articles have been extended.
+38,134 (100.0%) of 38,134 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,23 +58,31 @@ The Indian Leader Surkumar Yadav, who was in the field as opener, and fourth the
 
 ---
 
-### இடைக்கால செயலக இணையத்தளம்
+### Interim secretariat website
 
 *2024-07-31 00:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கால-செயலக-இணையத்தளம்/175-341316) · `ta`
 
-உண்மை மற்றும் நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகத்தின் (ISTRM) உத்தியோகப்பூர்வ இணையத்தள அங்குரார்ப்பணம் செய்யும் நிகழ்வு ஜனாதிபதி அலுவலகத்தில்
+The Interim Secretariat for Truth and Reconciliation aims to support affected communities by addressing long-term impacts of past events (1983-2009) in the North and East through justice implementation reports and solutions. It encourages compliance and amendments from all parties before public announcements. The site features contributions from various organizations, international representatives, and leaders across sectors to foster reconciliation.
 
-இடைக்கால செயலகத்தின் முன்னேற்றம் குறித்து அக்கறை காட்டுவோருக்கான பிரதான தகவல் மூலமாக இந்த இணையத்தளம் செயற்படும். இதுகுறித்த அறிக்கையை இந்த இணையதளத்தில்
+🟩
 
-1983 - 2009 ஆம் ஆண்டில் வடக்கு கிழக்கில் இடம்பெற்ற மோதல் நிலைமைகள் தொடர்பில் நிலைமாறுகால நீதியை செயல்படுத்தல் மற்றும் அதன்போதான நீண்டகால பாதிப்புக்களுக்கு தீர்வுகளை வலியுறுத்தும் அறிக்கையும் இணைய பக்கத்தில் பதிவிடப்பட்டுள்ளது.
+The Official Interim Secretariat for Truth and Reconciliation Mechanism
 
-இந்த விடயங்களை வர்த்தமானியில் அறிவித்து பாராளுமன்றத்தில் சமர்பிக்கும் முன்னர் அது குறித்து சகல தரப்பினரதும் இணக்கப்பாடுகள் மற்றும் திருத்தங்களைப் பெற்றுக் கொள்வதற்கான
+This website will be operated by the main information on those who are concerned about the progress of the interim secretariat. The report on this website
 
-அரசியல் தலைவர்கள், மதத் தலைவர்கள் உள்ளிட்ட சமூகத்தில் பல்வேறு அமைப்புக்களிடமிருந்த பெறப்பட்ட மற்றும் சர்வதேச பிரதிநிதிகளின் பல்வேறுபட்ட கருத்துக்களும் இதில் உள்ளடக்கப்பட்டுள்ளன.
+The web page has also posted a report on the implementation of prevailing justice in the North and East in 1983 - 2009 and emphasizing solutions to the long -term impacts.
 
-...
+For all parties to obtain compliance and amendments to it before you announce these issues before the Gazette
+
+It also includes a variety of ideas from various organizations and international representatives in the community, including political leaders and religious leaders.
+
+The Interim Secretariat for Truth and Reconciliation is working to create an environment that will provide the necessary support to all affected communities with the aim of solving the main problems of the affected people.. Remble
+
+◼️
 
 [Data](articles/78a357d2.json)
+
+[Extended Data](ext_articles/78a357d2.ext.json)
 
 ---
 
@@ -531,6 +539,8 @@ Mr Jude Perera, who recently passed away at the age of seventy-one, held a Bache
 ...
 
 [Data](articles/3deb4345.json)
+
+[Extended Data](ext_articles/3deb4345.ext.json)
 
 ---
 

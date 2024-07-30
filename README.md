@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 16:20:33**
+As of **2024-07-30 16:36:01**
 
 ## Newspaper Stats
 
-*Scraped **38,063** Articles*
+*Scraped **38,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
-adalk | 3,477
-adaderanalk | 4,408
+adalk | 3,478
+adaderanalk | 4,409
 tamilmirrorlk | 4,720
 dailymirrorlk | 4,733
 virakesarilk | 5,994
@@ -26,21 +26,39 @@ adaderanasinhalalk | 6,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,061 (100.0%) of 38,063 articles have been extended.
+38,063 (100.0%) of 38,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### පියාගේ විමසිලිමත් බව නිසා මාරාන්තික රෝගයෙන් පුතාගේ දිවි බේරෙයි
+### EC to write to President seeking prompt solution to IGP issue
+
+*2024-07-30 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100879/ec-to-write-to-president-seeking-prompt-solution-to-igp-issue) · `en`
+
+The Election Commission has decided to write to President Ranil Wickremesinghe urging for a prompt solution to the issue concerning the post of the Inspector General of Police (IGP).
+
+◼️
+
+[Data](articles/6633f4e8.json)
+
+---
+
+### Father's carefulness, son survives his life due to deadly disease
 
 *2024-07-30 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199375) · `si`
 
-ඉන්දියාවේ කේරළ ප්‍රාන්තයේ වැසියෙක් වන 14 හැවිරිදි අෆ්නන් ජාසිම් සිය නිවස අසල තිබු ජලාශයක පිහිනීම සඳහා ගියේය.
+A father's caution saved his son from a deadly illness after swimming in a local reservoir in Kerala, India.
+
+🟩
+
+The 14-year-old Afraid of Kerala, India, went to swim in a reservoir near his house.
 
 ◼️
 
 [Data](articles/65638542.json)
+
+[Extended Data](ext_articles/65638542.ext.json)
 
 ---
 
@@ -59,6 +77,8 @@ They have filed these petitions before the Colombo District Court seeking an ord
 ...
 
 [Data](articles/6e63be26.json)
+
+[Extended Data](ext_articles/6e63be26.ext.json)
 
 ---
 
@@ -409,6 +429,22 @@ These cases have been filed in the Colombo District Court for the purpose of pro
 [Data](articles/9c6ce6c1.json)
 
 [Extended Data](ext_articles/9c6ce6c1.ext.json)
+
+---
+
+### ආරුක්කු 9 පාලම හා දෙමෝදර රේල් ගැටය උරුම කළමණාකරණ වැඩසටහනට
+
+*2024-07-30 13:57:11* · [`adalk`](https://www.ada.lk/breaking_news/ආරුක්කු-9-පාලම-හා-දෙමෝදර-රේල්-ගැටය-උරුම-කළමණාකරණ-වැඩසටහනට/11-411093) · `si`
+
+ශ්‍රී ලංකා දුම්රිය මාර්ගයේ  ආරුක්කු නවය පාලම සහ දෙමෝදර රේල් ගැටය නව උරුම කළමනාකරණ වැඩසටහනක් යටතේ ආරක්ෂා කෙරේ.මේ වෙනුවෙන් මධ්‍යම සංස්කෘතික අරමුදල, දුම්රිය දෙපාර්තමේන්තුව සහ නාගරික සංවර්ධන අධිකාරිය අතර අවබෝධතා ගිවිසුමක්ද අත්සන් කළේය.
+
+ඇල්ල ආරුක්කු නවය පාලම ආශ්‍රිත ප්‍රදේශයේ සංචාරක කළමනාකරණ ව්‍යාපෘතිය සම්බන්ධයෙන් ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශය, නාගරික සංවර්ධන අධිකාරිය හා මධ්‍යම සංස්කෘතික අරමුදල අතර අවබෝධතා ගිවිසුමක් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් අද (29) දින අග්‍රාමාත්‍ය කාර්යාලයේදී අත්සන් තැබිණි.
+
+ලංකාව තුළ ප්‍රථම වරට ජාතික උරුම ස්ථානයක් ආශ්‍රිතව ගිලන් රථ සේවයක් මෙහිදී ආරම්භ කිරීමට නියමිතය. මෙම ව්‍යාපෘතියේ දෙවන පියවර ලෙස දෙමෝදර දුම්රිය ස්ථානය ආශ්‍රිතවද සංචාරක කළමනාකරණ ව්‍යාපෘතියක් ආරම්භ කිරීමට යෝජනා වී ඇත.
+
+...
+
+[Data](articles/76298e06.json)
 
 ---
 
@@ -2243,43 +2279,5 @@ The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) is e
 [Data](articles/e8bf80b2.json)
 
 [Extended Data](ext_articles/e8bf80b2.ext.json)
-
----
-
-### தேர்தல் பிரசாரத்தை 50 இலட்சம் வாக்குகளை அடிப்படையாகக்கொண்டே ஆரம்பித்திருக்கிறோம் - ஜனாதிபதி வேட்பாளர் விஜேதாச ராஜபக்ஷ்
-
-*2024-07-30 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189744) · `ta`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-ஸ்ரீலங்கா சுதந்திர கட்சியின் வாக்குகளை அடிப்படையாகக்கொண்டே நாட்டில் 1994ஆம் ஆண்டில் இருந்து ஜனாதிபதிகள் தெரிவாகி இருக்கின்றன. அதனால் நாங்கள் இந்த தேர்தல் பிரசாரத்தை 50 இலட்சம் வாக்குகளை அடிப்படையாகக்கொண்டே ஆரம்பித்திருக்கிறோம். Presidential candidate Wijeyadasa Rajapakse said the election would be a determined election.
-
-He was speaking at a special press conference held at the Ministry of Justice on Monday (29).
-
-Chandrika Kumaratunga, which has been elected since 1994 in the country, is based on the Voting of the Sri Lanka Freedom Party (SLFP). Of the 69 lakh votes cast for Gotabhaya Rajapakse in 2019, the Sri Lanka Freedom Party (SLFP). I have come forward to contest the presidential election for those 50 lakh voters. So we have started this election campaign based on 50 lakh votes.
-
-...
-
-[Data](articles/55b570bc.json)
-
-[Extended Data](ext_articles/55b570bc.ext.json)
-
----
-
-### SPARK Skilled Youth Entrepreneurship competition 2024 now accepting applications
-
-*2024-07-30 00:53:05* · [`dailyftlk`](https://www.ft.lk/business/SPARK-Skilled-Youth-Entrepreneurship-competition-2024-now-accepting-applications/34-764901) · `en`
-
-From left: 1st Runner-up of SPARK 2023 Malindu Pradinath, 3rd Runner-up Helani Dinali, ILO Chief Technical Advisor Dr. Thomas Kring, Winner Mihindi Minupama, 2nd Runner-up Kavindi Ranasinghe and Ceylon Chamber of Commerce Senior Assistant Secretary General Manori Dissanayaka
-
-The SPARK Skilled Youth Entrepreneurship competition, a premier national platform dedicated to inspiring and empowering young entrepreneurs, has officially begun accepting applications for its 2024 edition. Organised by the Ceylon Chamber of Commerce, SPARK offers a unique opportunity for youth aged 15 to 30 years to develop their entrepreneurial skills and gain valuable exposure in two categories: The School Category and the Open Category.
-
-...
-
-[Data](articles/720d4f8d.json)
-
-[Extended Data](ext_articles/720d4f8d.ext.json)
 
 ---

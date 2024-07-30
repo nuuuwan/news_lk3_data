@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 12:53:57**
+As of **2024-07-30 13:05:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,018 (100.0%) of 38,019 articles have been extended.
+38,019 (100.0%) of 38,019 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -154,21 +154,31 @@ The girl who was injured in the shooting has been admitted to the Dambulla Hospi
 
 ---
 
-### දයාසිරිලාගේ සහාය සජිත්ට
+### Sajith to support Dayasiri
 
 *2024-07-30 10:57:43* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිලාගේ-සහාය-සජිත්ට/11-411084) · `si`
 
-මෙවර ජනාධිපතිවරණයේදී සිය පක්ෂයේ සහාය සමගි ජන බල වේගයට ලබාදෙන බව මානුෂීය ජනතා සන්ධානයේ ප්‍රචාරක ලේකම් සමන් ප්‍රියන්ත විජේවික්‍රම මහතා අද(30) පෙරවරුවේ කරන්දෙණියේ පැවති මාධ්‍ය හමුවකදී කීවේය.
+Saman Priyantha Wijewickrama, a key figure in the Humanitarian People's UPFA, announced support for Sajith Premadasa in the upcoming presidential election. This decision follows consultations within the party and highlights Premadasa's popularity among the people. Additionally, Wijewickrama emphasized the importance of unity among various political factions, including the SLFP, under the leadership of Dayasiri Jayasekera. The statement also mentioned support for other leaders like Ranil Wickremesinghe and Mahinda Rajapakse, indicating a broad alliance.
 
-මානුෂීය ජනතා සන්ධානයේ නායක ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහා ලේකම් දයාසිරි ජයසේකර මහතාගේ පූර්ණ අනුමැතිය සහ අනුබලය මේ සදහා ලැබී ඇති බවද විජේවික්‍රම මහතා කීය.
+🟩
 
-සමගි ජන බල වේගයේ නායක විපක්ෂ නායක ජනාධිපති අපේක්ෂක සජිත් ප්‍රේමදාස මහතා සමග සිය පක්ෂය සාකච්චා වට කිහිපයක්ම පැවැත්වූ බවත් ඒ හැම සාකච්චා වටයක්ම ඉතා සාර්ථක අන්දමින් නිමාවට පත්වීමත් සමගම මේ නව තීරණයට මානුෂීය ජනතා සන්ධානය පැමිණි බවද විජේවික්‍රම මහතා කීවේය.
+Humanitarian People's UPFA Saman Priyantha Wijewickrama said that this year's support will be given to the assistance of his party in the presidential election.
 
-මේ රට ගොඩගත හැකි දැනට සිටින එකම නායකයා සජිත් ප්‍රේමදාස මහතා බවත් මේ වනවිට මේ රටේ ජනතාව වැඩියෙන්ම සමීපව ඇත්තේ ප්‍රේමදාස මහතා වටා නිසාත් සිය පක්ෂයට මේ තීරණය ගැනීමට පහසුවූ බවද විජේවික්‍රම මහතා පැවසුවේය.
+Wijewickrama said that the Leader of Humanitarian People's Alliance (SLFP)
+
+The new UPFA, Wijewickrama said that the new decision was taken with several rounds of the party with the leading opposition leader of the opposition leader of the opposition leader of the opposition leader.
+
+Sajith Premadasa is the only leader who is the only leader of the country and the people of this country are closely close to Mr. Premadasa.
+
+The Presidential Leader Dayasiri Jayasekera said that the party leader Dayasiri Jayasekera said that the President's party would bow down to the President's decision.
+
+Wijewickrama said that he was the leader of all these parties, including the Sri Lanka Freedom Party (SLFP), was the leader of all these parties.
 
 ...
 
 [Data](articles/f04da6f2.json)
+
+[Extended Data](ext_articles/f04da6f2.ext.json)
 
 ---
 

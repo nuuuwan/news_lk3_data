@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 17:36:18**
+As of **2024-07-30 17:57:35**
 
 ## Newspaper Stats
 
-*Scraped **38,071** Articles*
+*Scraped **38,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
-adalk | 3,478
+adalk | 3,479
 adaderanalk | 4,410
 tamilmirrorlk | 4,722
 dailymirrorlk | 4,733
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,410
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,069 (100.0%) of 38,071 articles have been extended.
+38,071 (100.0%) of 38,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### ප්‍රමාණය ඉක්මවා සුනඛයාට ආහාර දුන් කාන්තාවකට සිරදඬුවම්
+### A woman who gave food to the dog was imprisoned
 
 *2024-07-30 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199378) · `si`
 
-ප්‍රමාණය ඉක්මවා සුනඛයෙකුට ආහාර ලබාදීමේ චෝදනාවකට වරදකරු වූ කාන්තාවකට නවසීලන්ත අධිකරණයක් මඟින් සිරදඬුවම් නියම කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+A New Zealand court sentenced a woman for feeding a dog more than its body weight, leading to its death. The vegan plaintiff won the case, and the woman pleaded guilty, receiving a $720 fine.
 
-කිලෝග්‍රෑම් 53ක් බරින් යුත් මෙම සුනඛයා මියයාමේ සිද්ධියට අදාළව සිදුකළ පරීක්ෂණයකදී අනාවරණය වී ඇත්තේ අදාළ කාන්තාව විසින් සුනඛයාට ප්‍රමාණය ඉක්මවා ආහාර ලබාදී ඇති බවය.
+🟩
 
-මෙම සිද්ධිය සම්බන්ධයෙන් සත්ත්ව සංවිධානයක් විසින් අධිකරණයට කරුණු වාර්තා කර තිබුණි.
+Foreign media reports that a New Zealand court has sentenced to a woman who is convicted of providing food for a dog.
 
-ඒ අනුව අදාළ චෝදනාවලට වරද පිළිගෙන ඇති එම කාන්තාවට මාස දෙකක සිරදඬුවමක් සහ ඩොලර් 720ක දඩයක් නියම කර ඇති බවද විදෙස් මාධ්‍ය වාර්තා කළේය.
+An inspection conducted by the death of the dog with 53 kilograms was revealed that the woman had provided food exceeding over the size of the dog.
+
+A vegan has filed the case with regard to the incident.
+
+According to foreign media reports, the woman has admitted the guilty to the charges and a fine of $ 720.
 
 ◼️
 
 [Data](articles/1587c07c.json)
+
+[Extended Data](ext_articles/1587c07c.ext.json)
 
 ---
 
@@ -1056,21 +1062,27 @@ At the Sri Lanka Podujana Peramuna (SLPP) Anuradhapura District Committee meetin
 
 ---
 
-### பிரதமர், அமைச்சரவைக்கு உயர்நீதிமன்றம் அழைப்பு
+### High Court calls to Prime Minister and Cabinet
 
 *2024-07-30 11:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-அமைச்சரவைக்கு-உயர்நீதிமன்றம்-அழைப்பு/175-341267) · `ta`
 
-பிரதமர் தினேஷ் குணவர்தன மற்றும் அமைச்சரவையை உயர் நீதிமன்றம், தெளிவுப்படுத்தலுக்காக, அழைத்துள்ளது. இந்த அழைப்பு, திங்கட்கிழமை (29) விடுக்கப்பட்டுள்ளது.
+The High Court has been asked by Prime Minister Dinesh Gunawardena and the Cabinet to clarify matters related to a petition about the E-visa scam's impact on national security, economy, and tourism. This request follows separate petitions filed by MPs Rauf Hakeem, Patali Champika Ranawaka, and MA Sumanthiran. The Supreme Court judges will hear these cases in the High Court on August 2.
 
-முறைகேடான E- வீசா மோசடியினால் நாட்டின்  பாதுகாப்பு, பொருளாதாரம், ,உல்லாசப் பயணிகள் வருகை போன்றவற்றிக்குப் பாரிய பாதிப்புகள் ஏற்படுவதாகச் சுட்டிக்காட்டி தாக்கல் செய்யப்பட்ட மனுவை ஆராய்ந்த பின்னரே இவ்வாறு அழைப்பு விடுத்துள்ளது.
+🟩
 
-மனுக்களை, பாராளுமன்ற உறுப்பினர்களான ரவூப் ஹக்கீம்,  பாட்டலி சம்பிக்க ரணவக்க,எம்.ஏ.சுமந்திரன்  ஆகியோர் தனித்தனியாகத் தாக்கல் செய்துள்ளனர்.
+Prime Minister Dinesh Gunawardena and the Cabinet have called on the High Court to clarify. The call was made on Monday (29).
 
-மனுக்களை ஆராய்ந்த உயர்நீதிமன்ற நீதியரசர்கள் குழாம்,   எதிர்வரும் ஆகஸ்ட்  2 ஆம் திகதி வெள்ளிக்கிழமை உயர் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக் கொள்ளப்படுமென அறிவித்தனர்.
+This has been called after a petition filed by the petition, pointing out that the E-visa scam has been a major impact on the country's security, economics, and tourist travelers.
+
+The petitions have been filed by MPs Rauf Hakeem, Patali Champika Ranawaka and MA Sumanthiran separately.
+
+The Supreme Court judges who examined the petitions announced that they would be taken up for hearing in the High Court on Friday, August 2.
 
 ◼️
 
 [Data](articles/00449d37.json)
+
+[Extended Data](ext_articles/00449d37.ext.json)
 
 ---
 
@@ -1141,6 +1153,24 @@ The girl who was injured in the shooting has been admitted to the Dambulla Hospi
 [Data](articles/7011f955.json)
 
 [Extended Data](ext_articles/7011f955.ext.json)
+
+---
+
+### තවත් 21කට ඊශ්‍රායෙල රැකියා වරම්
+
+*2024-07-30 11:06:14* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-21කට-ඊශ්‍රායෙල-රැකියා-වරම්/11-411085) · `si`
+
+ඊශ්‍රායලයේ කෘෂි අංශයේ සේවය බලා පිටත්ව යන මීළඟ කාණ්ඩයට අයත් ශ්‍රමිකයින් 21 දෙනෙකු සඳහා ගුවන් ප්‍රවේශපත්‍ර ලබා දීම ඊයේ (29) කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේ දී සිදු කෙරිණි.
+
+ඊශ්‍රායලයේ කෘෂි අංශයේ ඍතු පදනම මත සේවය කළ ශ්‍රමිකයින් 08 දෙනෙකුත් අලුත් ශ්‍රමිකයින් 13 දෙනෙකුත් මෙම කාණ්ඩයට අයත් වන අතර ඔවුන් කිහිප දෙනා බැගින් ඊශ්‍රායලයට යැවීමට නියමිත බව අමාත්‍යවරයා එහි දී පැවසීය.
+
+ඒ අනුව මෙම 21 දෙනා සමග ඊශ්‍රායලයේ කෘෂි අංශයේ සේවය සඳහා පිටත් වන සමස්ත ශ්‍රමිකයින් සංඛ්‍යාව 2163 කි.
+
+ඉදිරි සතියේ දී 08 දෙනෙකු ඊශ්‍රායලයේ කෘෂි සේවය සඳහා සුදුසුකම් පරීක්ෂා කිරීම පිණිස කැඳවීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/13c20c66.json)
 
 ---
 
@@ -2281,27 +2311,5 @@ The Board of Investment Chairman Dinesh Weerakkody last week had discussions wit
 [Data](articles/ac4c6b23.json)
 
 [Extended Data](ext_articles/ac4c6b23.ext.json)
-
----
-
-### Jeevan welcomed Vijayadasa
-
-*2024-07-30 01:38:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாஸவை-வரவேற்று-வாழ்த்தினார்-ஜீவன்/175-341254) · `ta`
-
-Minister Jeevan Thondaman welcomed the resignation of Minister Vijayadasa Rajapaksa but noted that ministry perks couldn't be utilized during the presidential election period. He extended greetings to all candidates, regardless of party affiliation, as they campaign for the presidency.
-
-🟩
-
-Minister Jeevan Thondaman welcomed the resignation of the Minister of Justice Vijayadasa Rajapaksa.
-
-However, he said that the ministries -based gifts could not be used at the moment when the Cabinet was quit the presidential election and contesting the presidential election.
-
-This is why the candidates contesting the presidential election, whether they are the ruling party, the opposition, or the independent candidates, are welcomed and congratulated the election and congratulate him while they are contesting the election.
-
-◼️
-
-[Data](articles/803c4909.json)
-
-[Extended Data](ext_articles/803c4909.ext.json)
 
 ---

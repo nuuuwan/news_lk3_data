@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 17:05:43**
+As of **2024-07-30 17:20:38**
 
 ## Newspaper Stats
 
-*Scraped **38,069** Articles*
+*Scraped **38,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,287
 dailyftlk | 2,434
 adalk | 3,478
 adaderanalk | 4,410
-tamilmirrorlk | 4,721
+tamilmirrorlk | 4,722
 dailymirrorlk | 4,733
 virakesarilk | 5,994
 adaderanasinhalalk | 6,409
@@ -26,57 +26,75 @@ adaderanasinhalalk | 6,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,066 (100.0%) of 38,069 articles have been extended.
+38,069 (100.0%) of 38,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### ஐ.ஜி.பி பிர​ச்சினையை தீர்க்க கோரிக்கை
+### Request to solve the IGP
 
 *2024-07-30 16:37:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ஜி-பி-பிர-ச்சினையை-தீர்க்க-கோரிக்கை/175-341289) · `ta`
 
-பொலிஸ் மா அதிபர் (IGP) தொடர்பில் தற்போது நிலவும் பிரச்சினைக்கு தீர்வு காணுமாறு தேர்தல்கள் ஆணைக்குழு ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் உத்தியோகபூர்வமாக கோரிக்கை விடுத்துள்ளது.
+The Elections Commission has asked President Ranil Wickremesinghe to resolve the issue of the missing police chief (IGP), citing institutional disruption but assuring no impact on upcoming elections due to the police chief's absence.
 
-பொலிஸ் மா அதிபர் இல்லாத காரணத்தினால் ஏற்படக்கூடிய நிறுவன ரீதியான இடையூறுகளை நிவர்த்தி செய்வதே கடிதத்தின் நோக்கம் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.  ரத்நாயக்க குறிப்பிட்டார்.
+🟩
 
-எவ்வாறாயினும், பொலிஸ் மா அதிபரின் பற்றாக்குறை கவலையளிக்கும் அதே வேளையில், எதிர்வரும் தேர்தல்களை முன்னெடுப்பதற்கு இது ஒரு குறிப்பிடத்தக்க தடையாக கருதப்படவில்லை என அவர் தெளிவுபடுத்தினார்.
+The Elections Commission has officially requested President Ranil Wickremesinghe to address the prevailing issue regarding the police chief (IGP).
+
+The Chairman of the Election Commission, RMAL, says the purpose of the letter is to address the institutional disruption caused by the absence of the Inspector General of Police..  ரத்நாயக்க குறிப்பிட்டார்.
+
+However, he made it clear that this was not considered a significant obstacle for the upcoming elections while the police chief's shortage was concerned.
 
 ◼️
 
 [Data](articles/f1a2207f.json)
 
+[Extended Data](ext_articles/f1a2207f.ext.json)
+
 ---
 
-### බඹර ප්‍රහාරයකින් ළමුන් 42ක් රෝහල ට
+### 42 children hospitalized by wasp attack
 
 *2024-07-30 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199377) · `si`
 
-අද (30) උදෑසන කින්නියා පොලිස් වසමේ කින්නියා අල් අක්ෂා පිරිමි විද්‍යාලයේ ගොඩනැගිල්ලක වහලේ තිබූ බඹර කූඩයක කොටසක් කඩා වැටීමෙන් එම විද්‍යාලයේ ළමුන් පිරිසක් බඹර ප්‍රහාරයකට ලක්වී තිබේ.
+In Kinniya, a wasp attack resulted in 42 children aged 10 to 15 being hospitalized.
 
-එහිදී වයස අවුරුදු 10ත් 15ත් අතර ළමුන් 42ක් පමණ තුවාල ලබා තිබුණි.
+🟩
+
+A large number of children at the Kinniya Police Division of the Kinniya Police Division of Kinniya Police Division has been hit by wasps.
+
+About 42 children were wounded between 10 and 15 years of age.
 
 ◼️
 
 [Data](articles/c82d427e.json)
 
+[Extended Data](ext_articles/c82d427e.ext.json)
+
 ---
 
-### පොලිස්පති ගැටලුව ගැන මැතිවරණ කොමිසම ගත් තීරණය
+### Decision taken by the Election Commission regarding the IGP issue
 
 *2024-07-30 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199376) · `si`
 
-පොලිස්පති ගැටලුව සම්බන්ධයෙන් කඩිනම් විසඳුමක් දෙන්නැයි ජනපතිට ලිඛිතව දැනුම්දීමට මැතිවරණ කොමිසම තීරණය කර තිබේ.
+The Election Commission urged swift action from the President on the IGP matter during its first meeting post-presidential election, emphasizing issues critical to the election process.
 
-රාජගිරියේ පිහිටි මැතිවරණ මහලේකම් කාර්යාල පරිශ්‍රයේදී මැතිවරණ කොමිෂන් සභාවේ රැස්වීමක් අද (30) උදෑසන පැවැත්වූ අතර එහිදී එම තීරණය ගෙන ඇත.
+🟩
 
-ජනාධිපතිවරණය පැවැත්වීමට අදාළ කරුණු කිහිපයක් පිළිබඳව එම රැස්වීමේ දී විශේෂ අවධානය යොමුව තිබූ බව සඳහන් ය.
+The Elections Commission has decided to inform the President to give a speedy solution to the IGP issue.
 
-ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමෙන් අනතුරුව මැතිවරණ කොමිසම රැස් වූ පළමු අවස්ථාව ද මෙය වේ.
+The election campaign was held at the Elections Secretariat in Rajagiriya this morning.
+
+It is said that special attention was held on several matters pertaining to the presidential election.
+
+This is the first time the Election Commission met after the presidential election.
 
 ◼️
 
 [Data](articles/ffc1863e.json)
+
+[Extended Data](ext_articles/ffc1863e.ext.json)
 
 ---
 
@@ -1017,6 +1035,24 @@ At the Sri Lanka Podujana Peramuna (SLPP) Anuradhapura District Committee meetin
 [Data](articles/6ccdff9c.json)
 
 [Extended Data](ext_articles/6ccdff9c.ext.json)
+
+---
+
+### பிரதமர், அமைச்சரவைக்கு உயர்நீதிமன்றம் அழைப்பு
+
+*2024-07-30 11:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-அமைச்சரவைக்கு-உயர்நீதிமன்றம்-அழைப்பு/175-341267) · `ta`
+
+பிரதமர் தினேஷ் குணவர்தன மற்றும் அமைச்சரவையை உயர் நீதிமன்றம், தெளிவுப்படுத்தலுக்காக, அழைத்துள்ளது. இந்த அழைப்பு, திங்கட்கிழமை (29) விடுக்கப்பட்டுள்ளது.
+
+முறைகேடான E- வீசா மோசடியினால் நாட்டின்  பாதுகாப்பு, பொருளாதாரம், ,உல்லாசப் பயணிகள் வருகை போன்றவற்றிக்குப் பாரிய பாதிப்புகள் ஏற்படுவதாகச் சுட்டிக்காட்டி தாக்கல் செய்யப்பட்ட மனுவை ஆராய்ந்த பின்னரே இவ்வாறு அழைப்பு விடுத்துள்ளது.
+
+மனுக்களை, பாராளுமன்ற உறுப்பினர்களான ரவூப் ஹக்கீம்,  பாட்டலி சம்பிக்க ரணவக்க,எம்.ஏ.சுமந்திரன்  ஆகியோர் தனித்தனியாகத் தாக்கல் செய்துள்ளனர்.
+
+மனுக்களை ஆராய்ந்த உயர்நீதிமன்ற நீதியரசர்கள் குழாம்,   எதிர்வரும் ஆகஸ்ட்  2 ஆம் திகதி வெள்ளிக்கிழமை உயர் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக் கொள்ளப்படுமென அறிவித்தனர்.
+
+◼️
+
+[Data](articles/00449d37.json)
 
 ---
 
@@ -2269,29 +2305,5 @@ Diplomatic relations between the State of Qatar and the Republic of Sri Lanka be
 [Data](articles/bf56dddf.json)
 
 [Extended Data](ext_articles/bf56dddf.ext.json)
-
----
-
-### Ravi K says no turning back for Sri Lanka from economic revival and brain gain
-
-*2024-07-30 01:34:53* · [`dailyftlk`](https://www.ft.lk/business/Ravi-K-says-no-turning-back-for-Sri-Lanka-from-economic-revival-and-brain-gain/34-764905) · `en`
-
-Sri Lanka is on the path of economic recovery followed by shifting from brain drain to brain gain, as emphasised by Former Finance Minister and Presidential National Organiser Ravi Karunanayake.
-
-With nearly 3 million Sri Lankans living abroad, there’s significant untapped potential in the expatriate community, many of whom excel in various fields.
-
-To leverage this, strategies should be developed to attract expatriates back to Sri Lanka and encourage their investment and expertise, he said. .
-
-This includes facilitating brain gain through attractive incentives, encouraging periodic returns, and enabling financial investments.
-
-Expatriates can significantly contribute by leading multinational corporations’ Sri Lankan branches, driving technological innovation, and enhancing global competitiveness.
-
-Their international experience and networks can help attract investment, raise global awareness, and bridge skill gaps.
-
-...
-
-[Data](articles/c2db403c.json)
-
-[Extended Data](ext_articles/c2db403c.ext.json)
 
 ---

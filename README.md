@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 18:55:09**
+As of **2024-07-30 19:05:44**
 
 ## Newspaper Stats
 
-*Scraped **38,095** Articles*
+*Scraped **38,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
 adalk | 3,482
-adaderanalk | 4,412
+adaderanalk | 4,413
 tamilmirrorlk | 4,723
 dailymirrorlk | 4,733
 virakesarilk | 6,008
@@ -26,11 +26,25 @@ adaderanasinhalalk | 6,413
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,084 (100.0%) of 38,095 articles have been extended.
+38,084 (100.0%) of 38,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### 92 MPs meet President Ranil to pledge their support
+
+*2024-07-30 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/100884/92-mps-meet-president-ranil-to-pledge-their-support) · `en`
+
+Ninety-two Members of Parliament including Ministers and State Ministers have reportedly met with President Ranil Wickremesinghe.
+
+The MPs pledged their support for the President in the upcoming presidential election to ensure his victory, according to the President’s Media Division.
+
+◼️
+
+[Data](articles/6331e0a4.json)
+
+---
 
 ### Sri Lanka ODI squad for India series announced
 
@@ -2241,27 +2255,5 @@ The mother said that the blood flow was continuously leaking due to the loss of 
 [Data](articles/c79dfe41.json)
 
 [Extended Data](ext_articles/c79dfe41.ext.json)
-
----
-
-### There is no change in the price of the pan in Talawakelle;Grief
-
-*2024-07-30 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189748) · `ta`
-
-The price of pans remains unchanged in Talawakelle, but the 450g massive style pan's price was reduced by 10 rupees, now selling for 140 rupees. This has caused excitement among the public.
-
-🟩
-
-A few days ago, the price of 450G -massive style has been reduced by 10 rupees.
-
-In this case, the 450G masses of the Talawakkalai city of Nuwara Eliya district are being sold for 140 rupees.
-
-In addition, the public is reported to be in a state of exhibition.
-
-◼️
-
-[Data](articles/688b1bc3.json)
-
-[Extended Data](ext_articles/688b1bc3.ext.json)
 
 ---

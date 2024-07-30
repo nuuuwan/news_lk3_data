@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 23:36:07**
+As of **2024-07-30 23:55:52**
 
 ## Newspaper Stats
 
-*Scraped **38,122** Articles*
+*Scraped **38,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ colombotelegraphcom | 362
 newsfirstlk | 363
 bbccomsinhala | 367
 islandlk | 2,181
-economynextcom | 2,287
+economynextcom | 2,293
 dailyftlk | 2,434
 adalk | 3,489
 adaderanalk | 4,415
-tamilmirrorlk | 4,726
+tamilmirrorlk | 4,727
 dailymirrorlk | 4,733
 virakesarilk | 6,016
 adaderanasinhalalk | 6,419
@@ -26,11 +26,27 @@ adaderanasinhalalk | 6,419
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,122 (100.0%) of 38,122 articles have been extended.
+38,122 (100.0%) of 38,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### லெபனான் தலைநகர் மீது இஸ்ரேல் திடீர் தாக்குதல்
+
+*2024-07-30 23:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனான்-தலைநகர்-மீது-இஸ்ரேல்-திடீர்-தாக்குதல்/50-341313) · `ta`
+
+குறிப்பிட்ட சில இலக்குகள் மீது தாக்குதலை நடத்துவதாக இஸ்ரேல் அறிவித்துள்ளது. இந்த திடீர் தாக்குதலால் மத்திய கிழக்கில் பதற்ற நிலை ஏற்பட்டுள்ளது.
+
+இஸ்ரேலின் கட்டுப்பாட்டில் உள்ள கோலன் குன்றுகள் (Golan Heights) பகுதியில் நடந்த ராக்கெட் தாக்குதலில் 12 குழந்தைகள் மற்றும் இளைஞர்கள் கொல்லப்பட்டனர். இதற்கு பதிலடி கொடுக்கும் முகமாவே இந்த தாக்குதல் நடத்தப்பட்டதாக இஸ்ரேல் இராணுவம் கூறியது.
+
+லெபனானின் அரசு நடத்தும் தேசிய செய்தி நிறுவனம், பெய்ரூட்டின் தெற்கே உள்ள புறநகர்ப் பகுதியான ஹரேட் ஹ்ரீக்கில் உள்ள ஒரு கட்டிடத்தின் இரண்டு தளங்கள் இடிந்து விழுந்ததாகத் தெரிவித்தது. R
+
+◼️
+
+[Data](articles/93145090.json)
+
+---
 
 ### Petitions to hear appeals petitions in the science murder case
 
@@ -802,6 +818,46 @@ Declaration of the Order and sentenced the accused to prove the charges beyond t
 
 ---
 
+### Sri Lanka, Pakistan discuss further cooperation, FM visit: Foreign ministry
+
+*2024-07-30 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-pakistan-discuss-further-cooperation-fm-visit-foreign-ministry-174498/) · `en`
+
+ECONOMYNEXT – Sri Lanka and Pakistan have discussed further cooperation in economy and trade, defence and security, among other matters, at an annual consultation, the Ministry of Foreign Affairs said.
+
+The seventh round of Bilateral Political Consultations between the two countries concluded at the Pakistani Foreign Ministry in Islamabad on Tuesday (30).
+
+Foreign Secretary Aruni Wijewardane and the Foreign Secretary of Pakistan Muhammad Syrus Sajjad Qazi reviewed the current status of relations between the two South Asian neighbours.
+
+“The areas of cooperation that were discussed at the meeting included economy and trade, defence and security, education, culture, media and sports, consular matters, agriculture as well as technology,” the MFA said in a statement.
+
+Both countries agreed on the importance of high-level political exchanges in enhancing the bilateral relations. “In this context, a Foreign Ministerial visit to Pakistan is envisaged in the near future.”
+
+...
+
+[Data](articles/560a4fdd.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 302.48/55 to US dollar
+
+*2024-07-30 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-48-55-to-us-dollar-174491/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 302.48/55 to the US dollar on Tuesday, from 302.63/73 to the US dollar on Monday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.45/60 percent, up from 10.45/55 percent.
+
+A bond maturing on 15.12.2027 closed at 11.85/12.00 percent, up from 11.80/12.00 percent.
+
+A bond maturing on 15.02.2028 closed at 12.05/20 percent, up from 11.85/12.00 percent.
+
+A bond maturing on 15.09.2029 closed at 12.25/40 percent, up from 12.15/25 percent. (Colombo/Jul30/2024)
+
+◼️
+
+[Data](articles/a1b54c35.json)
+
+---
+
 ### The president is taking refuge for economic criminals who made the country - Sajith Premadasa
 
 *2024-07-30 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189819) · `ta`
@@ -1040,6 +1096,30 @@ That means our country is sick. Youth generation is sick. In all ways, the sick 
 
 ---
 
+### Sri Lanka’s JKH makes Rs24bn cash call for City of Dreams
+
+*2024-07-30 17:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-jkh-makes-rs24bn-cash-call-for-city-of-dreams-174480/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s John Keells Holdings said it will offering 150,263,595 shares to existing shareholders at 160 rupees per share to raise 24 billion rupees.
+
+The proceeds of the rights issue will be used to fund the ‘City of Dreams Sri Lanka’ integrated resort.
+
+City of Dreams is the project previously called Cinnamon Life, built by Waterfront Properties Ltd.
+
+“The Proceeds will support the Company’s financing obligations, which has increased due to the higher than anticipated equity funding requirement of the Project required to bridge the impacts of the delayed
+
+cashflow generation from operations due to the deferment of the commencement date, including the
+
+“The capital raising will result in strengthening the balance sheet of the Company by reducing its levels of leverage, providing the Company greater flexibility in its future investments.”
+
+The new share will be issued in the proportion of 1 for every 10 existing shares. (Colombo/July30/2024)
+
+◼️
+
+[Data](articles/75659cec.json)
+
+---
+
 ### Prabhas starrer 'The Raja Chap'
 
 *2024-07-30 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189821) · `ta`
@@ -1061,6 +1141,28 @@ The shooting of the film has been released, and the special video of the film ha
 [Data](articles/c6fb9b8b.json)
 
 [Extended Data](ext_articles/c6fb9b8b.ext.json)
+
+---
+
+### Sri Lanka stocks close down amidst month-end selling pressure
+
+*2024-07-30 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-month-end-selling-pressure-174482/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 0.93 percent, or 108.25 points, at 11,510; while the more liquid S&P SL20 Index closed down 1.05 percent, or 35.34 points, at 3,333.
+
+“Now that we are in interims season, and it’s the month end, there’s a lot of selling pressure in the market,” Softlogic Stockbrokers said. “During earnings season things dwindle. High net-worths and institutions are adopting a wait-and-see approach.”
+
+“Foreigners were also not very active, there was low participation.” A net foreign outflow of 10.6 million rupees was recorded.
+
+Bairaha Farms Plc which released interim results, showed a profit of 147 million rupees, which was a 34 percent decline on a Y-o-Y basis, but increase on a Q-o-Q basis, they said. The share closed down at 163.75.
+
+The Softlogic Life Insurance Plc share buy-back is to conclude tomorrow (31). The share closed down at 63.40.
+
+...
+
+[Data](articles/cbd8baee.json)
 
 ---
 
@@ -1267,6 +1369,22 @@ A total of 42 students who were injured in the wasp attack have been admitted to
 [Data](articles/e750bc60.json)
 
 [Extended Data](ext_articles/e750bc60.ext.json)
+
+---
+
+### Australia to assist Sri Lanka enhance hydrography capabilities: State minister
+
+*2024-07-30 16:21:00* · [`economynextcom`](https://economynext.com/australia-to-assist-sri-lanka-enhance-hydrography-capabilities-state-minister-174471/) · `en`
+
+ECONOMYNEXT – Australia has agreed to assist Sri Lanka enhance its capabilities in hydrography, State Minister of Defence Premitha Bandara Tennakoon said.
+
+Tennakoon met the Australian High Commissioner to Sri Lanka Paul Stephens, who “expressed that Gvt of Aus has consented to assist us in enhancing our capabilities in hydrography which will be the foundation of a mammoth development in our capacity,” he said on X (twitter).
+
+The two officials also discussed “avenues of strengthening our partnership and  key areas of cooperation. Together, we continue to build a safer and more secure region,” the state minister said. (Colombo/Jul30/2024)
+
+◼️
+
+[Data](articles/e3df0908.json)
 
 ---
 
@@ -1683,6 +1801,28 @@ Kalgetiya said the airport was active with 2-3 daily flights in Sri Lanka’s pe
 [Data](articles/1c7e56d6.json)
 
 [Extended Data](ext_articles/1c7e56d6.ext.json)
+
+---
+
+### Sri Lanka’s second airport idling in tourism off season: official
+
+*2024-07-30 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-second-airport-idling-in-tourism-off-season-official-174438/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s second international airport, in its deep southern district, Mattala airport is in operation without any flights being grounded amid the tourism off season, a top aviation official said.
+
+The island nation is in the process of handing over the $209 million Chinese-funded and built Mattala Airport to a consortium between Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia.
+
+Mattala airport has never made any profit since operations started in 2013, and has incurred a loss of 3 billion rupees annually.
+
+“There are no flights now and our staff is idling,” Athula Kalgetiya, Chairman of state-owned Airport & Aviation Services Sri Lanka Private Ltd told reporters on Monday (29).
+
+“We have to keep the staff because it’s a requirement to run the airport even if there is no flight. So we are losing now also.”
+
+Kalgetiya said the airport was active with 2-3 daily flights in Sri Lanka’s peak tourism season mainly from Ukraine and Russia.
+
+...
+
+[Data](articles/9632308d.json)
 
 ---
 
@@ -2213,155 +2353,5 @@ These imports from the Commerce Corporation are sold to the people through Satho
 [Data](articles/1267c6db.json)
 
 [Extended Data](ext_articles/1267c6db.ext.json)
-
----
-
-### Ranil to support Anuradhapura District Committee of Pohon
-
-*2024-07-30 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199364) · `si`
-
-The Anuradhapura District Committee of the Sri Lanka Knowledge supports President Ranil Wickremesinghe in the upcoming presidential election.
-
-🟩
-
-The Anuradhapura District Committee of the Sri Lanka Knowledge has decided to support President Ranil Wickremesinghe at the upcoming presidential election.
-
-◼️
-
-[Data](articles/d4d4ada1.json)
-
-[Extended Data](ext_articles/d4d4ada1.ext.json)
-
----
-
-### S.M. Chandrasena pledges support to President Ranil
-
-*2024-07-30 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100874/sm-chandrasena-pledges-support-to-president-ranil) · `en`
-
-At the Sri Lanka Podujana Peramuna (SLPP) Anuradhapura District Committee meeting, Parliamentarian S.M. Chandrasena has announced that they have decided to support President Ranil Wickremesinghe in the upcoming Presidential Election.
-
-◼️
-
-[Data](articles/6ccdff9c.json)
-
-[Extended Data](ext_articles/6ccdff9c.ext.json)
-
----
-
-### High Court calls to Prime Minister and Cabinet
-
-*2024-07-30 11:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-அமைச்சரவைக்கு-உயர்நீதிமன்றம்-அழைப்பு/175-341267) · `ta`
-
-The High Court has been asked by Prime Minister Dinesh Gunawardena and the Cabinet to clarify matters related to a petition about the E-visa scam's impact on national security, economy, and tourism. This request follows separate petitions filed by MPs Rauf Hakeem, Patali Champika Ranawaka, and MA Sumanthiran. The Supreme Court judges will hear these cases in the High Court on August 2.
-
-🟩
-
-Prime Minister Dinesh Gunawardena and the Cabinet have called on the High Court to clarify. The call was made on Monday (29).
-
-This has been called after a petition filed by the petition, pointing out that the E-visa scam has been a major impact on the country's security, economics, and tourist travelers.
-
-The petitions have been filed by MPs Rauf Hakeem, Patali Champika Ranawaka and MA Sumanthiran separately.
-
-The Supreme Court judges who examined the petitions announced that they would be taken up for hearing in the High Court on Friday, August 2.
-
-◼️
-
-[Data](articles/00449d37.json)
-
-[Extended Data](ext_articles/00449d37.ext.json)
-
----
-
-### Kerala’s Wayanad landslide: At least 41 dead, more rain predicted
-
-*2024-07-30 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100873/keralas-wayanad-landslide-at-least-41-dead-more-rain-predicted) · `en`
-
-At least 41 people were killed and scores injured after landslides in the hills of India’s southern Kerala state, local media reported, with rescue operations obstructed after a main bridge collapsed in the region.
-
-State Health Minister Veena George said that over 70 people were injured and the Indian Express reported that many people are likely to have been washed away in the Chaliyar river.
-
-“The situation is serious. The government has pressed all agencies into rescue,” state Forest Minister A K Saseendran told Reuters after the landslides in the Wayanad district of the state. More rain was predicted through the day.
-
-The army was roped in to build a temporary bridge after a bridge in the district that linked the affected area, mostly tea and cardamom estates, to the nearest town of Chooralmala was destroyed, Saseendran added.
-
-Local news channel Asianet TV said as many as 41 people died after the landslides caused havoc in the region.
-
-...
-
-[Data](articles/f0c9b76b.json)
-
-[Extended Data](ext_articles/f0c9b76b.ext.json)
-
----
-
-### Dange out friend of the police to save the famous singer's son's son's son
-
-*2024-07-30 11:21:33* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-රිය-පැදවූ-ප්‍රසිද්ධ-ගායකගේ-පුතා-බේරාගන්න-පොලිසියේ-යකා-නැටූ-මිතුරාත්-කූඩුවේ/11-411086) · `si`
-
-A man was arrested by police after crashing his car while drunk. He was found with the grandson of a renowned singer and both were taken to the hospital. The suspect, identified as the son of a famous singer, was later released after being treated for his injuries.
-
-🟩
-
-Panadura South Police say that a crazy dance arrests have been arrested by the drunken police, who breaks down the drunken policeman of drunk driving.
-
-The son of a well-known bi-night singer has been arrested by a public bi-night singer in the Panadura Superintendent's Office.
-
-Police say that a person with him has been detained in the cell, police said.
-
-The police said that the suspect was taken into tine and submitted the suspect and had been drinking into a doctor.
-
-The suspect that the son of a famous bilaila's son was drunk to be produced before a criminal force, drunken colast and suffering.
-
-◼️
-
-[Data](articles/58eb9158.json)
-
-[Extended Data](ext_articles/58eb9158.ext.json)
-
----
-
-### Firearm fired at home and injured
-
-*2024-07-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199363) · `si`
-
-In Galkulugaswewa, a seven-year-old girl was accidentally shot by a firearm left unattended on the ground. She's now hospitalized in Dambulla for treatment.
-
-🟩
-
-A seven-year-old girl was injured by a firearm in a house in the village area in Galkulugaswewa.
-
-Police said the firearm was on the ground and the accident had occurred.
-
-The girl who was injured in the shooting has been admitted to the Dambulla Hospital for treatment.
-
-◼️
-
-[Data](articles/7011f955.json)
-
-[Extended Data](ext_articles/7011f955.ext.json)
-
----
-
-### Israel's jobs for another 21
-
-*2024-07-30 11:06:14* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-21කට-ඊශ්‍රායෙල-රැකියා-වරම්/11-411085) · `si`
-
-Israel's Ministry of Labor and Foreign Affairs announced that 21 seasonal workers from the Philippines will join the Israeli coconut industry, bringing the total to 8. These workers will depart soon, with 8 more set to arrive next week for eligibility checks.
-
-🟩
-
-The Labor and Foreign Employment at the Ministry of Labor and Foreign Affairs were carried out yesterday (29).
-
-The Minister said that the eight workers employed on a season basis in Israel's agricultural and season.
-
-Accordingly, with the 21 of these 21, the total number of workers will leave for the Israelite coconut service.
-
-Eight in the next week to be summoned to check the eligibility for Israel.
-
-◼️
-
-[Data](articles/13c20c66.json)
-
-[Extended Data](ext_articles/13c20c66.ext.json)
 
 ---

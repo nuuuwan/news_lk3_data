@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 11:07:12**
+As of **2024-07-30 11:20:35**
 
 ## Newspaper Stats
 
-*Scraped **38,006** Articles*
+*Scraped **38,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 366
 islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
-adalk | 3,466
+adalk | 3,469
 adaderanalk | 4,402
 tamilmirrorlk | 4,708
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,006 (100.0%) of 38,006 articles have been extended.
+38,006 (100.0%) of 38,009 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,36 @@ National Disaster Rescue Force is actively working to rescue the landslide.
 [Data](articles/009bc8d8.json)
 
 [Extended Data](ext_articles/009bc8d8.ext.json)
+
+---
+
+### කොරියාවේ රාජ්‍ය සේවකයන් පිරිසක් ලංකාවේ සංචාරයකට
+
+*2024-07-30 10:20:31* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-රාජ්‍ය-සේවකයන්-පිරිසක්-ලංකාවේ-සංචාරයකට/11-411082) · `si`
+
+දකුණු කොරියාවේ රාජ්‍ය සේවයේ නිරත සේවකයින්ගෙන් සැදුම් ලත් බෞද්ධ සංගමයේ  නිලධාරීන්ගෙන් සමන්විත 37 දෙනෙකුගෙන් යුතු කණ්ඩායමක් ශ්‍රී ලංකාවේ දින 07 ක සංචාරයක් සදහා 07/29 දින සවස කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
+
+2000  වසරේ දී එරට රාජ්‍ය ආයතන 47 ක සේවය කරන බෞද්ධ ආගමික  සේවකයින්ගෙන් මෙම බෞද්ධ සංගමය ස්ථාපිත කර තිබේ. මෙම දකුණු කොරියානු බෞද්ධ සංගමයේ නිලධාරීන් පිරිස  අනුරාධපුරය , මිහින්තලය , සීගිරිය , පොළොන්නරුව , දඹුල්ල , මාතලේ අලුවිහාරය , මහනුවර දළදා මාළිගාව නැරඹීමට නියමිතය . මීට අමතරව නුවරඑළිය තේ කර්මාන්තශාලාවක් , පින්නවල අලි අනාථාගාරය සහ ජාතික කෞතුකාගාරය සහ අහුන්ගල්ල වෙරළ තීරය ද නැරඹීමට නියමිතය .
+
+මෙම බෞද්ධ සංගමයේ නිලධාරීන්   පිරිස 07/29 දින සවස 05.00 ට දකුණු කොරියාවේ ඉන්චියොන් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 471 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+...
+
+[Data](articles/08dc177d.json)
+
+---
+
+### කාන්තා ක්‍රිකට් කණ්ඩායමට රු. කෝටි 15ක තෑග්ගක්
+
+*2024-07-30 10:17:26* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ක්‍රිකට්-කණ්ඩායමට-රු--කෝටි-15ක-තෑග්ගක්/9-411081) · `si`
+
+ආසියානු ක්‍රිකට්  ශූරියන් වූ ශ්‍රී ලංකා කාන්තා  ක්‍රිකට් කණ්ඩායමට ඇ.ඩො. ලක්ෂ 5 ක මුදල් (ශ්‍රී ලංකා රුපියල් කෝටි 15ක්) ත්‍යාගයක්  පිරිනැමීමට ශ්‍රී ලංක ක්‍රිකට්  ආයතනය ඊයේ පියවර ගෙන තිබිණ.
+
+කොළඹ සිනමන් ග්‍රෑම් හෝටලයේදී පැවැති උත්සවයක දී මෙම චෙක්පත ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තුට  පිරිනැමීම සිදු වූයේ ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ සභාපති ශම්මි සිල්වා, එහි උප සභාපති ජයන්ත ධර්මදාස , රවීන් වික්‍රමරත්න  හා ක්‍රීඩා අමාත්‍ය හරින් ප්‍රනාන්දු යන මහත්වරුන්ගේ ප්‍රධානත්වයෙනි
+
+◼️
+
+[Data](articles/49486735.json)
 
 ---
 
@@ -1872,6 +1902,24 @@ The upcoming presidential election on September 21 will be an important election
 
 ---
 
+### තැපැල් ඡන්ද අයදුම්පත් අගෝස්තු 05 දා තෙක් භාර ගනියි
+
+*2024-07-29 18:31:37* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්ද-අයදුම්පත්-අගෝස්තු-05-දා-තෙක්-භාර-ගනියි/11-411076) · `si`
+
+ජනාධිපතිවරණයට අදාළ තැපැල් ඡන්ද අයදුම්පත්‍ර ලබන මස 05 වැනි දින දක්වා බාර ගන්නා බැවින් එදිනට පෙර ලැබෙන සේ අයදුම්පත් ඉදිරිපත් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+මෙවර  ජනාධිපතිවරණයේ තැපැල් ඡන්දදායකයන්ගේ පහසුව සඳහා ඡන්ද හිමි නාමලේඛන  ස්ථාන කිහිපයක ප්‍රදර්ශනය කර තිබෙන  බවද එම සභාව පෙන්වා දෙයි.
+
+මේ අනුව පසුගිය 26 වැනි දින සිට  සාමාන්‍ය කාර්යාල වෙලාවන්හිදී  සියලුම දිස්ත්‍රික් ලේකම් කාර්යාල, ප්‍රාදේශීය ලේකම් කාර්යාල, ග්‍රාම නිලධාරී කාර්යාල, රාජ්‍ය පරිපාලන අමාත්‍යාංශය, කම්කරු දෙපාර්තමේන්තුව,රේජිස්ට්‍රාර් දෙපාර්තමේන්තුව, තැපැල් මූලස්ථානය, ධීවර හා ජලජ සම්පත් අමාත්‍යාංශය හා නාගරික සංවර්ධන අධිකාරිය ඇතුළු  කොළඹ දිස්ත්‍රික්කයේ රජයේ කාර්යාලවල මේ වසරට අදාළ ඡන්ද හිමි නාමලේඛනය ප්‍රදර්ශනය කර තිබෙන බවද මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+සියලුම දිස්ත්‍රික්කවල තැපැල් ඡන්ද අයදුම්කරුවන් ඒ ඒ දිස්ත්‍රික්කයේ තෙරිම්භාර නිලධාරින් වෙත එනම්  දිස්ත්‍රික් මැතිවරණ කාර්යාලයේ ලිපිනයට  යොමු කළ යුතු වේ.
+
+...
+
+[Data](articles/8e6a1364.json)
+
+---
+
 ### Muslim Congress help?
 
 *2024-07-29 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199342) · `si`
@@ -2173,77 +2221,5 @@ A bond maturing on 15.09.2029 closed at 12.15/25 percent, up from 12.14/18 perce
 [Data](articles/f0358632.json)
 
 [Extended Data](ext_articles/f0358632.ext.json)
-
----
-
-### Minister Jeevan Thondaman surrenders to court
-
-*2024-07-29 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/100862/minister-jeevan-thondaman-surrenders-to-court) · `en`
-
-The General Secretary of the Ceylon Workers’ Congress (CWC), Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman and three other senior members of his party have surrendered to the Nuwara-Eliya Magistrate’s Court through a motion filed today (29).
-
-This comes after the court ordered the arrest of Minister Thondaman and to produce him before the court over an incident where the CWC General Secretary had allegedly stormed into the Pedro Tea Factory, controlled under Kelani Valley Plantations PLC, along with a group of his supporters on May 30, 2024.
-
-During the hearing of the case on July 22, Nuwara-Eliya Police had stated before the court that they will not submit the names of the suspects to the court as the investigation activities have not been completed and that advice have been sought from the Attorney General in this regard.
-
-...
-
-[Data](articles/b9589aa3.json)
-
-[Extended Data](ext_articles/b9589aa3.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover low
-
-*2024-07-29 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-low-174246/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.12 percent, or 14.37 points, at 11,619; while the more liquid S&P SL20 Index closed down 0.48 percent, or 16.35 points, at 3,369.
-
-Turnover was the lowest since the beginning of this year, at 376 million.
-
-“There was a very minimal amount of activity in the market today,” Softlogic Stockbrokers said. “One reason could be that it is the month end, and usually settlement happens.
-
-There was a very little foreign activity in the market. A net foreign inflow of 1.7 million rupees was recorded.
-
-Foreign buying was seen in L B Finance Plc (down at 66.70), John Keells Holdings Plc (down at 191.00), and People’s Leasing and Finance Plc (up at 12.40).
-
-Foreign selling was seen in Chevron Lubricants Lanka Plc (down at 119.00), ACL Plastics Plc (up at 438.75), and Aitken Spence Hotel Holdings Plc (up at 65.00).
-
-...
-
-[Data](articles/0ecdef94.json)
-
-[Extended Data](ext_articles/0ecdef94.ext.json)
-
----
-
-### In order to get the recovery, we must chase away the corrupt ruling gang - Anuragumara
-
-*2024-07-29 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189707) · `ta`
-
-It appears you've shared a detailed narrative focusing on various aspects of economic and political discourse, particularly emphasizing the importance of transparency, accountability, and strategic planning in developing a nation's economy. This includes discussions on migration, professional assessments, budget allocations, and the role of foreign investment and natural resources in economic growth.
-
-
-
-Given the complexity and breadth of the topics covered, could you please specify how I can assist you further? Are you looking for analysis, suggestions on specific points, or perhaps guidance on how to address certain issues within this narrative?
-
-🟩
-
-We need to get recovery. In order to get the recovery, you must first chase away corrupt, extinct, and far -reaching ruling gang. Our purpose is to create a prosperous country in all fields: Anura Kumara Dissanayake
-
-The Matara District Seminar of the National People's Power Bank and Finance Union was held on Friday, the 27th of this month at the Burl Bells Hotel, Matara.
-
-We have voted for a long time. Are there expectations for citizens when setting up a government when casting votes?It is not a progress in view of the economic crisis that has emerged in our country and the disorders of every state and other sectors.. The setback is.
-
-We need to get recovery from this fate. In order to get a rescue, you must first chase away corrupt, extinct and distant ruling gang.
-
-...
-
-[Data](articles/5c22bd4a.json)
-
-[Extended Data](ext_articles/5c22bd4a.ext.json)
 
 ---

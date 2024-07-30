@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 00:08:35**
+As of **2024-07-31 00:20:41**
 
 ## Newspaper Stats
 
-*Scraped **38,130** Articles*
+*Scraped **38,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,57 @@ adaderanalk | 4,415
 tamilmirrorlk | 4,727
 dailymirrorlk | 4,733
 virakesarilk | 6,016
-adaderanasinhalalk | 6,420
+adaderanasinhalalk | 6,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,129 (100.0%) of 38,130 articles have been extended.
+38,130 (100.0%) of 38,131 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-07-31 (Wednesday)
+
+### ජය ඉන්දියාවට
+
+*2024-07-31 00:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199390) · `si`
+
+ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වුණු තුන්වන විස්සයි විස්ස ජාත්‍යන්තර තරගය සුපිරි පන්දු ඕවරයේ දී ජය ගැනීමට ඉන්දියාව සමත්විය.
+
+කණ්ඩායම් දෙකම සිය ඉනිම් සඳහා ලබාගැනීමට සමත්වූයේ ලකුණු 137 බැගිනි.
+
+ඒ කුසල් ජනිත් සහ පැතුම් නිස්සංක පහසුවෙන් දවා ගැනීමට වොෂින්ටන් සුන්දාර් සමත්වූ බැවිනි.
+
+ශ්‍රී ලංකා පිතිකරුවන් ඒ අනුව සුපිරි ඕවරයේ දී ලබාගත්තේ ලකුණු 2ක් පමණි.
+
+අනතුරුව ආරම්භක පිතිකරු ලෙස පිටියට පිවිසි ඉන්දීය නායක සූර්යකුමාර් යාදව් ඔහු මුහුණ දුන් පළමු පන්දුවට ම හතරේ පහරක් එල්ලකර තරගයේ ජයග්‍රහණය සනිටුහන් කළේය.
+
+◼️
+
+[Data](articles/06902b1c.json)
+
+---
+
 ### 2024-07-30 (Tuesday)
 
-### ලකුණු සමවෙයි
+### Signs are consequencing
 
 *2024-07-30 23:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199389) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වෙන තුන්වැනි විස්සයි විස්ස ජාත්‍යන්තර තරගයේ ලකුණු සමවිය.
+In the T20 cricket match, India made 137 runs but lost 9 wickets in 9 overs.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 9ක් දැවී ලකුණු 137යි.
+🟩
+
+The third Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Third T20
+
+The Indian team scored 137 runs for the loss of 9 wickets in the loss of 9 overs.
 
 ◼️
 
 [Data](articles/e066e59a.json)
+
+[Extended Data](ext_articles/e066e59a.ext.json)
 
 ---
 
@@ -2347,23 +2375,5 @@ A special program has been implemented to ensure the speedy distribution of offi
 [Data](articles/e37e1bd0.json)
 
 [Extended Data](ext_articles/e37e1bd0.ext.json)
-
----
-
-### The new cricket constitution to be cricket is to be taken by law
-
-*2024-07-30 12:09:29* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-අවුල-ලිහන-නව-ක්‍රිකට්-ව්‍යවස්ථාව-නීතියක්-කිරීමට-යයි/9-411088) · `si`
-
-A new cricket constitution is set to be established through legal means. The government has approved a cabinet paper to draft a bill aimed at addressing issues within Sri Lanka Cricket, paving the way for its resolution.
-
-🟩
-
-The Cabinet paper has been granted to instruct a new bill to formulate a new bill to resolve the new bill for the establishment of the new Bill to resolve the issues of the Sri Lanka Cricket.
-
-◼️
-
-[Data](articles/22d01455.json)
-
-[Extended Data](ext_articles/22d01455.ext.json)
 
 ---

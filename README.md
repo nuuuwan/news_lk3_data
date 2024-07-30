@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 01:05:51**
+As of **2024-07-31 01:20:37**
 
 ## Newspaper Stats
 
-*Scraped **38,132** Articles*
+*Scraped **38,134** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 330
-colombotelegraphcom | 362
+colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 367
 islandlk | 2,181
@@ -17,7 +17,7 @@ economynextcom | 2,293
 dailyftlk | 2,434
 adalk | 3,489
 adaderanalk | 4,415
-tamilmirrorlk | 4,728
+tamilmirrorlk | 4,729
 dailymirrorlk | 4,733
 virakesarilk | 6,016
 adaderanasinhalalk | 6,421
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,132 (100.0%) of 38,132 articles have been extended.
+38,132 (100.0%) of 38,134 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,26 @@ The Indian Leader Surkumar Yadav, who was in the field as opener, and fourth the
 [Data](articles/06902b1c.json)
 
 [Extended Data](ext_articles/06902b1c.ext.json)
+
+---
+
+### இடைக்கால செயலக இணையத்தளம்
+
+*2024-07-31 00:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கால-செயலக-இணையத்தளம்/175-341316) · `ta`
+
+உண்மை மற்றும் நல்லிணக்கப் பொறிமுறைக்கான இடைக்கால செயலகத்தின் (ISTRM) உத்தியோகப்பூர்வ இணையத்தள அங்குரார்ப்பணம் செய்யும் நிகழ்வு ஜனாதிபதி அலுவலகத்தில்
+
+இடைக்கால செயலகத்தின் முன்னேற்றம் குறித்து அக்கறை காட்டுவோருக்கான பிரதான தகவல் மூலமாக இந்த இணையத்தளம் செயற்படும். இதுகுறித்த அறிக்கையை இந்த இணையதளத்தில்
+
+1983 - 2009 ஆம் ஆண்டில் வடக்கு கிழக்கில் இடம்பெற்ற மோதல் நிலைமைகள் தொடர்பில் நிலைமாறுகால நீதியை செயல்படுத்தல் மற்றும் அதன்போதான நீண்டகால பாதிப்புக்களுக்கு தீர்வுகளை வலியுறுத்தும் அறிக்கையும் இணைய பக்கத்தில் பதிவிடப்பட்டுள்ளது.
+
+இந்த விடயங்களை வர்த்தமானியில் அறிவித்து பாராளுமன்றத்தில் சமர்பிக்கும் முன்னர் அது குறித்து சகல தரப்பினரதும் இணக்கப்பாடுகள் மற்றும் திருத்தங்களைப் பெற்றுக் கொள்வதற்கான
+
+அரசியல் தலைவர்கள், மதத் தலைவர்கள் உள்ளிட்ட சமூகத்தில் பல்வேறு அமைப்புக்களிடமிருந்த பெறப்பட்ட மற்றும் சர்வதேச பிரதிநிதிகளின் பல்வேறுபட்ட கருத்துக்களும் இதில் உள்ளடக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/78a357d2.json)
 
 ---
 
@@ -497,6 +517,20 @@ Accordingly, Kusal Mendis has been removed from the ODI. The three-genuine pool 
 [Data](articles/9dfae8be.json)
 
 [Extended Data](ext_articles/9dfae8be.ext.json)
+
+---
+
+### In Memoriam: Jude Perera; Advancing Economic Democracy Through Solidarity Economy
+
+*2024-07-30 19:27:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-memoriam-jude-perera-advancing-economic-democracy-through-solidarity-economy/) · `en`
+
+I first encountered Mr Jude Perera in late 2007 during a community discussion in Victoria. This gathering took place amidst the intense period of Sri Lanka’s prolonged civil war. Professor Joe Camilleri of La Trobe University’s Centre for Dialogue convened the event, which marked the inception of the Sri Lanka Community Dialogue—a year-long initiative.
+
+Mr Jude Perera, who recently passed away at the age of seventy-one, held a Bachelor of Science degree from the University of Jaffna. His professional journey spanned market research and information technology roles across Sri Lanka, New Zealand, and Australia. His memoir chronicled a personal and political odyssey—from Katana in Sri Lanka to Jaffna, then to Niue, New Zealand, and finally Melbourne, Australia. His travels were driven by both personal and political imperatives.
+
+...
+
+[Data](articles/3deb4345.json)
 
 ---
 
@@ -2335,53 +2369,5 @@ He also said that four key candidates will contest the election and the lucky ca
 [Data](articles/1e789d31.json)
 
 [Extended Data](ext_articles/1e789d31.ext.json)
-
----
-
-### Some MPs who met President met me yesterday
-
-*2024-07-30 12:29:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හමුවූ-ඇතැම්-මන්ත්‍රීවරු-ඊයේ-රෑම-මාව-හමුවුණා/11-411089) · `si`
-
-Namal Rajapaksa, representing the anti-UNP party, discussed the upcoming presidential election, emphasizing its focus on leadership rather than preferential politics. He mentioned meetings between MPs and President Mahinda Rajapaksa regarding the virus situation and waste management issues affecting the public.
-
-🟩
-
-MP Namal Rajapaksa said that the policy of the party is anti-UNP and represents the anti-UNP camp.
-
-He added that some MPs of the Known Knowledge of the Knoru Wickremesinghe yesterday evening yesterday evening had met with President Mahinda Rajapaksa as well as this morning.
-
-He added that the presidential election is the election of a national leader and that it has no pressure from the preferential politics.
-
-He added that the virus and disposal of the rhost is among the people
-
-◼️
-
-[Data](articles/8c07bb43.json)
-
-[Extended Data](ext_articles/8c07bb43.ext.json)
-
----
-
-### Court of Appeal announced on the verdict of Keheliya
-
-*2024-07-30 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199365) · `si`
-
-The Court of Appeal ordered Minister Keheliya Rambukwella to be appointed as the Court of Paradise on August 09, following his remand over the purchase of substandard antibodies during his tenure as Health Minister. The court also announced an interim order issued by him on the same day, which was initially published on August 01.
-
-🟩
-
-The Court of Appeal announced the order of Minister Keheliya Rambukwella, Minister Keheliya Rambukwella, the order of Minister Keheliya Rambukwella to be appointed as the Court of Paradise on August 09.
-
-Former Health Minister (Minister of Health) has remanded over the purchase of substandard antibodies.
-
-The court announced that the order on the interim request issued by Keheliya Rambukwella is also announced on that day.
-
-This order was previously announced that the order was published on August 01.
-
-◼️
-
-[Data](articles/1a315a92.json)
-
-[Extended Data](ext_articles/1a315a92.ext.json)
 
 ---

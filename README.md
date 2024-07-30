@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 12:20:41**
+As of **2024-07-30 12:36:11**
 
 ## Newspaper Stats
 
-*Scraped **38,015** Articles*
+*Scraped **38,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ bbccomsinhala | 367
 islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
-adalk | 3,469
-adaderanalk | 4,404
+adalk | 3,470
+adaderanalk | 4,405
 tamilmirrorlk | 4,708
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,397
+adaderanasinhalalk | 6,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,015 (100.0%) of 38,015 articles have been extended.
+38,015 (100.0%) of 38,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### කෙහෙළිය ඉල්ලන තීන්දුව ගැන අභියාචනාධිකරණයෙන් නිවේදනයක්
+
+*2024-07-30 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199365) · `si`
+
+මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට කළ නියෝගය බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ පෙත්සමේ නියෝගය අගෝස්තු මස 09 වනදා ප්‍රකාශයට පත්කරන බව අභියාචනාධිකරණය නිවේදනය කළේය.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍යවරයා රක්ෂිත බන්ධනාගාරගත කර සිටියි.
+
+තමන්ව ඇප මත මුදාහරිණ ලෙස ඉල්ලා කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කර තිබෙන අතුරු ඉල්ලීම පිළිබඳ නියෝගය ද එදින ප්‍රකාශයට පත්කරන බවත් අධිකරණය නිවේදනය කළේය.
+
+මෙම නියෝගය අගෝස්තු මස 01 වනදා ප්‍රකාශයට පත්කරන බව මීට පෙර නිවේදනය කර තිබුණි.
+
+◼️
+
+[Data](articles/1a315a92.json)
+
+---
+
+### Election Commission announcement on annual transfer procedure
+
+*2024-07-30 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100875/election-commission-announcement-on-annual-transfer-procedure) · `en`
+
+The Election Commission has confirmed that there is no objection to implementing the 2025 annual transfer procedure as long as it does not interfere with the presidential election process.
+
+Following this confirmation, the Ministry of Public Administration, Home Affairs, Provincial Councils, and Local Government has issued the 2025 annual transfer announcement for officers of the Combined Services.
+
+The Director General of Combined Services issued the relevant transfer circular to all Ministry Secretaries, Heads of Departments, District Secretaries, and Divisional Secretaries yesterday (29).
+
+Additionally, Deputy Postmaster General Rajitha Ranasinghe has decided to deploy 8,000 officers to distribute the official ballot papers for the presidential election.
+
+A special program has been implemented to ensure the speedy distribution of official postal ballots and specialized letters.
+
+...
+
+[Data](articles/e37e1bd0.json)
+
+---
 
 ### Ranil to support Anuradhapura District Committee of Pohon
 
@@ -129,6 +167,20 @@ It is suspected that the landslides have been disrupted due to heavy rains and s
 [Data](articles/0f242695.json)
 
 [Extended Data](ext_articles/0f242695.ext.json)
+
+---
+
+### ආණ්ඩු පක්ෂ මන්‍ත්‍රි කණ්ඩායමේ විශේෂ සාකච්ඡාවක් ජනපති හා අගමැති ප්‍රධානත්වයෙන්
+
+*2024-07-30 10:44:57* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂ-මන්‍ත්‍රි-කණ්ඩායමේ-විශේෂ-සාකච්ඡාවක්-ජනපති-හා-අගමැති-ප්‍රධානත්වයෙන්/11-411083) · `si`
+
+ජනාධිපතිවරයාගේ හා  අග්‍රාමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් ආණ්ඩු පක්ෂ මන්ත්‍රීවරුන් සමග පවත්වනු ලබන විශේෂ සාකච්ඡාවක් අද (30දා) ප.ව. 5.30 ට කොළඹ 01, ජනාධිපති ලේකම් කාර්යාලයේ දී පැවැත්වීමට නියමිතය.
+
+ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායමේ සියලුම මන්ත්‍රීවරුන් ඒ සදහා සහභාගිවීමට අනිවාර්යයෙන්ම අද දින ප.ව. 5.30 ට ජනාධිපති ලේකම් කාර්යාලයට පැමිණෙන ලෙස ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායකවරයා දැනුම් දී ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/73f63acf.json)
 
 ---
 
@@ -2167,77 +2219,5 @@ He denied the local elections over a year ago bogusly claiming lack of funds all
 [Data](articles/e88edd71.json)
 
 [Extended Data](ext_articles/e88edd71.ext.json)
-
----
-
-### Sri Lanka Podujana Party to field own candidate
-
-*2024-07-29 18:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-party-to-field-own-candidate-174271/) · `en`
-
-ECONOMYNEXT – Sri Lanka Podujana Party’s executive committee has decided to field their own Presidential candidate under own flower bud symbol, amid opposition from some, General Secretary Sagara Kariyawasam said.
-
-“In the next few days we will decide the name of the person who can win,” Kariyawasam said. “When the party decides to field it’s own candidate there is no chance to support the current President.”
-
-There were some who opposed the proposal, but a ‘vast majority’ had endorsed the decision, he said.
-
-The party has been divided on the the candidate with several ministers openly coming out in support of President Ranil Wickremesinghe.
-
-Disciplinary action will be taken against anyone who opposes the decision or decides to contest without the party approval, Kariyawasam said.
-
-Businessman Dammika Perera, who is a nationalist legislator of the SLPP has said he is ready to be the SLPP nominee.
-
-Legislator Namal Rajapaksa, has opposed Wickremesinghe he was an expert at splitting parties.
-
-...
-
-[Data](articles/9cd4eb8e.json)
-
-[Extended Data](ext_articles/9cd4eb8e.ext.json)
-
----
-
-### SLPP decides not to support Ranil at prez poll, to field own candidate
-
-*2024-07-29 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/100863/slpp-decides-not-to-support-ranil-at-prez-poll-to-field-own-candidate) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) will not support current President Ranil Wickremesinghe in the forthcoming Presidential Election, SLPP MP Sagara Kariyawasam said.
-
-Meanwhile, he said that the Politburo of the SLPP decided to field a Presidential Candidate of its own.
-
-Furthermore, Kariyawasam expressed that the party will further look into qualified individuals to contest for the presidency and that the person with the most likelihood to win will officially be named the candidate of the SLPP during the upcoming days.
-
-Meanwhile, the SLPP politburo has decided to take strict disciplinary action against any member of the SLPP contesting for the 2024 Presidential Election without the party’s approval.
-
-In response to a question raised by a journalist whether it was not too late to delay the nomination of a candidate, Kariyawasam said that they would name the “winning candidate” at the “winning time”.
-
-...
-
-[Data](articles/6e6da0e5.json)
-
-[Extended Data](ext_articles/6e6da0e5.ext.json)
-
----
-
-### Ranil is not supporting the poush
-
-*2024-07-29 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199341) · `si`
-
-Ranil does not back the proposed candidate for the upcoming presidential election, despite a decision made by the political board of former President Mahinda Rajapaksa. The Secretary-General, Sagara Kariyawasam, clarified that this stance could lead to internal conflicts within the party, especially since the current President may not support the candidate chosen.
-
-🟩
-
-It has been decided to present a candidate for the next presidential election.
-
-It was after the political board of former President Mahinda Rajapaksa at the house of former President Mahinda Rajapaksa.
-
-Speaking to the media, Secretary-General of the General Secretary Sagara Kariyawasam said if the decision was opposed to the decision or to approve the party's approval.
-
-Mr. Sagara Kariyawasam further stated that the present President is not able to support the present President as a candidate is presented within his party.
-
-◼️
-
-[Data](articles/5ae47daa.json)
-
-[Extended Data](ext_articles/5ae47daa.ext.json)
 
 ---

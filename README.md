@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 00:20:41**
+As of **2024-07-31 00:36:57**
 
 ## Newspaper Stats
 
-*Scraped **38,131** Articles*
+*Scraped **38,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,293
 dailyftlk | 2,434
 adalk | 3,489
 adaderanalk | 4,415
-tamilmirrorlk | 4,727
+tamilmirrorlk | 4,728
 dailymirrorlk | 4,733
 virakesarilk | 6,016
 adaderanasinhalalk | 6,421
@@ -26,33 +26,57 @@ adaderanasinhalalk | 6,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,130 (100.0%) of 38,131 articles have been extended.
+38,131 (100.0%) of 38,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### ජය ඉන්දියාවට
+### India
 
 *2024-07-31 00:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199390) · `si`
 
-ශ්‍රී ලංකාව සහ ඉන්දියාව අතර පැවැත්වුණු තුන්වන විස්සයි විස්ස ජාත්‍යන්තර තරගය සුපිරි පන්දු ඕවරයේ දී ජය ගැනීමට ඉන්දියාව සමත්විය.
+India clinched the T20I series against Sri Lanka, winning the third match convincingly. The game was highlighted by India's opening batsman Surkumar Yadav, who scored the majority of the team's runs. Despite a challenging target of 137 runs, the Indian team managed to surpass it comfortably, thanks to solid performances across the board.
 
-කණ්ඩායම් දෙකම සිය ඉනිම් සඳහා ලබාගැනීමට සමත්වූයේ ලකුණු 137 බැගිනි.
+🟩
 
-ඒ කුසල් ජනිත් සහ පැතුම් නිස්සංක පහසුවෙන් දවා ගැනීමට වොෂින්ටන් සුන්දාර් සමත්වූ බැවිනි.
+India won the third Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty Twenty-T20 International Owake.
 
-ශ්‍රී ලංකා පිතිකරුවන් ඒ අනුව සුපිරි ඕවරයේ දී ලබාගත්තේ ලකුණු 2ක් පමණි.
+Both teams were passed in 137 runs.
 
-අනතුරුව ආරම්භක පිතිකරු ලෙස පිටියට පිවිසි ඉන්දීය නායක සූර්යකුමාර් යාදව් ඔහු මුහුණ දුන් පළමු පන්දුවට ම හතරේ පහරක් එල්ලකර තරගයේ ජයග්‍රහණය සනිටුහන් කළේය.
+Because Washington Paradar was passed to easily tain it.
+
+Sri Lankan batsmen were obtained in the super boat.
+
+The Indian Leader Surkumar Yadav, who was in the field as opener, and fourth the first four-third blow, marked the match.
 
 ◼️
 
 [Data](articles/06902b1c.json)
 
+[Extended Data](ext_articles/06902b1c.ext.json)
+
 ---
 
 ### 2024-07-30 (Tuesday)
+
+### “மீயுயர் சட்டத்தை மீறுகிறார் ஜனாதிபதி”
+
+*2024-07-30 23:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீயுயர்-சட்டத்தை-மீறுகிறார்-ஜனாதிபதி/175-341314) · `ta`
+
+ஜனநாயகத்தின் 3 தூண்களுக்குமிடையே இருக்க வேண்டிய தடைகள் மற்றும் சமன்பாடுகள் உட்பட ஒட்டுமொத்த ஜனநாயகக் கட்டமைப்பும் முற்றிலுமாக சீரமிக்கப்பட்டு வருகின்றன. மறுபுறம் பாரிய குற்றச் செயல்களால் ஒட்டுமொத்த சமூகமும் பாரிய நெருக்கடிக்கு உள்ளாகியுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+எமது நாட்டின் பொருளாதாரம், சமூகம், அரசியல், மதம் ஆகிய அம்சங்கள் முற்றாக சீரழிந்து வருகின்றன. நாட்டின் அதியுயர் சட்டமான அரசியலமைப்பை பகிரங்கமாக மீறுவது, அரசியலமைப்புக்கு நாட்டின் ஜனாதிபதி பகிரங்கமாக  சவால் விடுகின்றார் என்றும் குற்றஞ்சாட்டினார்.
+
+ஐக்கிய மக்கள் சக்தியின் பொலன்னறுவை மாவட்ட பிக்குகள் மாநாடு செவ்வாய்க்கிழமை(30) நடைபெற்றது அதில், கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் மேற்கண்டவாறு தெரிவித்தார்
+
+பண்டைய காலத்திலிருந்தே, எமது நாட்டின் சமூக அமைப்பு பௌத்த கொள்கைகள் மற்றும் விழுமியங்களை அடிப்படையாகக் கொண்டே கட்டமைக்கப்பட்டு வந்தன. அது தனிமனிதனிடம் தொடங்கி ஒட்டுமொத்த சமூகத்தின் மேற்கட்டுமானம் வரை நீண்டுள்ளது. ஒன்றுக்கொன்று
+
+...
+
+[Data](articles/4478cbf2.json)
+
+---
 
 ### Signs are consequencing
 
@@ -2353,27 +2377,5 @@ This order was previously announced that the order was published on August 01.
 [Data](articles/1a315a92.json)
 
 [Extended Data](ext_articles/1a315a92.ext.json)
-
----
-
-### Election Commission announcement on annual transfer procedure
-
-*2024-07-30 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/100875/election-commission-announcement-on-annual-transfer-procedure) · `en`
-
-The Election Commission has confirmed that there is no objection to implementing the 2025 annual transfer procedure as long as it does not interfere with the presidential election process.
-
-Following this confirmation, the Ministry of Public Administration, Home Affairs, Provincial Councils, and Local Government has issued the 2025 annual transfer announcement for officers of the Combined Services.
-
-The Director General of Combined Services issued the relevant transfer circular to all Ministry Secretaries, Heads of Departments, District Secretaries, and Divisional Secretaries yesterday (29).
-
-Additionally, Deputy Postmaster General Rajitha Ranasinghe has decided to deploy 8,000 officers to distribute the official ballot papers for the presidential election.
-
-A special program has been implemented to ensure the speedy distribution of official postal ballots and specialized letters.
-
-...
-
-[Data](articles/e37e1bd0.json)
-
-[Extended Data](ext_articles/e37e1bd0.ext.json)
 
 ---

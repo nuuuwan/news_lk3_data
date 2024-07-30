@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 13:36:20**
+As of **2024-07-30 13:55:16**
 
 ## Newspaper Stats
 
-*Scraped **38,030** Articles*
+*Scraped **38,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ bbccomsinhala | 367
 islandlk | 2,180
 economynextcom | 2,282
 dailyftlk | 2,434
-adalk | 3,471
+adalk | 3,472
 adaderanalk | 4,406
-tamilmirrorlk | 4,709
+tamilmirrorlk | 4,712
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,399
+adaderanasinhalalk | 6,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,020 (100.0%) of 38,030 articles have been extended.
+38,030 (100.0%) of 38,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### කලාඔයේ පාවෙමින් තිබූ පුද්ගල සිරුර
+
+*2024-07-30 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199368) · `si`
+
+විල්පත්තුව ජාතික වනෝද්‍යානයට යාබදව ගලා බසින කලාඔයේ පාවෙමින් තිබූ පුද්ගල මළසිරුරක් පොලීසිය විසින් සොයාගෙන තිබේ.
+
+පසුගියදා කලාඔයේ දියනෑමට ගොස් සිටියදී පිරිසක් සමඟ ඇතිකරගත් බහින්බස් වීමක් දුරදිග ගොස් මෙම පුද්ගලයා ඝාතනයට ලක්වන්නට ඇතැයි පොලීසිය සැකපළ කරයි.
+
+◼️
+
+[Data](articles/157e9358.json)
+
+---
+
+### மரக்கறி தோட்டத்தில் குழி: ஐவர் கைது
+
+*2024-07-30 13:30:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-தோட்டத்தில்-குழி-ஐவர்-கைது/76-341273) · `ta`
+
+சட்டவிரோதமான முறையில் மாணிக்ககல் அகழ்வில் ஈடுபட்டனர் என்ற குற்றச்சாட்டின் பேரில், சந்தேகத்தின் பேரில், கள் பொகவந்தலாவ பொலிஸாரால் ஐவர் கைது செய்யப்பட்டுள்ளனர்.
+
+பொகவந்தலாவ பொலிஸ் பிரிவுக்கு உட்பட்ட மரக்கறி தோட்டத்தில் சிலர் பாரிய குழிகள் தோண்டி சுற்றுச்சூழலை நாசம் செய்வதாக கிடைத்த தகவலின் அடிப்படையில் சுற்றிவளைப்பை மேற்கொண்டு ஐவரையும் கைது செய்துள்ளனர்.
+
+கைதானவர்கள், பலாங்கொடை, எல்பிட்டிய மற்றும் அனுராதபுரத்தை வசிப்பிடமாகக் கொண்ட 34-45 வயதுக்கு உட்பட்டவர்கள் என்பதுடன், பொகவந்தலாவ பிரதேசத்தைச் சேர்ந்த மாணிக்ககல் அகழ்வில் ஈடுபடும் ஒருவரின் பின்புலத்திலேயே இந்த சட்டவிரோத மாணிக்ககல் அகழ்வு இடம் பெற்றுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களை இரத்தினக்கல் அகழ்வதற்கு பயன்படுத்தப்பட்ட உபகரணங்களுடன் ஹட்டன் நீதவான் நீதிமன்றில் ஆஜர்படுத்த உள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/8ce491f8.json)
+
+---
+
+### විමල්ගෙන් අනතුරු ඇඟවීමක්
+
+*2024-07-30 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199367) · `si`
+
+පාලකයා විසින් ශ‍්‍රී ලංකා රාජ්‍යය විදේශ ආධිපත්‍යයට යටත් කිරීමේ මහා සැලසුම පරාජය කිරීම සඳහා මැදිහත් වන ඉල්ලීමක් කරමින් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා විසින් ත්‍රෛනිකායික මහනාහිමිවරු වෙත ලිපියක් යවා තිබේ.
+
+අද (30) එම ලිපිය ත්‍රෛනිකායික මහා නාහිමිවරුන් වෙත පිළිගන්වනු ලැබීය.
+
+◼️
+
+[Data](articles/ade33213.json)
+
+---
+
+### பரிஸ் 2024: விரேன் நெட்டசிங்கவும் வெளியேற்றம்
+
+*2024-07-30 13:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிஸ்-2024-விரேன்-நெட்டசிங்கவும்-வெளியேற்றம்/44-341272) · `ta`
+
+பிரான்ஸில் நடைபெற்று வரும் பரிஸ் 2024 ஒலிம்பிக் போட்டிகளிலிருந்து இலங்கையின் விரேன் நெட்டசிங்கவும் வெளியேற்றப்பட்டுள்ளார்.
+
+ஏற்கெனவே ஆண்களுக்கான தனிநபர் பூப்பந்தாட்டத்தில் தனது முதலாவது குழு ஜி போட்டியில் தோற்ற நெட்டசிங்க தற்போது முடிவடைந்த ஸ்பெய்னின் பப்லோ அபியானுடனான போட்டியில் 9-21, 19-21 என்ற நேர் செட்களில் தோல்வியடைந்து ஒலிம்பிக்கிலிருந்து வெளியேறினார்.
+
+◼️
+
+[Data](articles/febfcc61.json)
+
+---
 
 ### Appeals Court to decide on Keheliya’s petition and bail appeal on Aug. 9
 
@@ -48,27 +108,67 @@ The arrest came hot on the heels of pressure from civil society activists and he
 
 [Data](articles/a9fd959d.json)
 
+[Extended Data](ext_articles/a9fd959d.ext.json)
+
 ---
 
-### මැතිවරණ කොමිසම රැස්වෙයි
+### The Election Commission gathers
 
 *2024-07-30 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199366) · `si`
 
-මැතිවරණ කොමිෂන් සභාවේ රැස්වීමක් අද (30) උදෑසන පවත්වා ඇති බව වාර්තා වෙයි.
+The Election Commission held its first post-presidential election meeting today at Rajagiriya, focusing on crucial issues like conducting elections without an IGP and ensuring election security.
 
-රාජගිරියේ පිහිටි මැතිවරණ මහලේකම් කාර්යාල පරිශ්‍රයේදී එම රැස්වීම පවත්වා තිබුණි.
+🟩
 
-ජනාධිපතිවරණය පැවැත්වීමට අදාළ කරුණු කිහිපයක් පිළිබඳව එම රැස්වීමේ දී විශේෂ අවධානය යොමුව තිබූ බව සඳහන් ය.
+It is reported that a meeting of the Election Commission has held this morning.
 
-එහි ප්‍රධාන කරුණ ලෙස පොලිස්පතිවරයෙකු නොමැතිව මැතිවරණය පවත්වන්නේ ද යන්න සම්බන්ධයෙන් මැතිවරණ කොමිසමේ සාමාජිකයින්ගේ වැඩි අවධානයක් යොමුව ඇති බව වාර්තා විය.
+The meeting was held at the Elections Secretariat at Rajagiriya.
 
-මීට අමතරව මැතිවරණයට අදාළ නාමයෝජනා භාරදීමේ කටයුතු සම්බන්ධයෙන් සහ ඊට අදාළ ආරක්ෂක කටයුතු පිළිබඳව එම සාකච්ඡාවේ දී අවධානය යොමුව ඇති බව වාර්තා වෙයි.
+It is said that special attention was held on several matters pertaining to the presidential election.
 
-ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමෙන් අනතුරුව මැතිවරණ කොමිසම රැස් වූ පළමු අවස්ථාව ද මෙය වේ.
+The main point is the key to the Elections Commission members on whether the election is held without a IGP.
+
+In addition, it is reported that the discussion is focused on the submission of the election and the relevant security activities.
+
+This is the first time the Election Commission met after the presidential election.
 
 ◼️
 
 [Data](articles/a29f7209.json)
+
+[Extended Data](ext_articles/a29f7209.ext.json)
+
+---
+
+### வயநாடு நிலச்சரிவு: பலி 50 ஆக அதிகரிப்பு
+
+*2024-07-30 13:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயநாடு-நிலச்சரிவு-பலி-50-ஆக-அதிகரிப்பு/175-341270) · `ta`
+
+புதுடெல்லி: வயநாட்டில் ஏற்பட்ட நிலச்சரிவில் உயிரிழப்பு 50 ஆக அதிகரித்துள்ளது. தொடர்ந்து மழை பெய்து வருவதாலும், பாலம் சேதம் அடைந்துள்ளதாலும் மீட்புப் பணியில் சுணக்கம் ஏற்பட்டுள்ளது. இதனால் 100-க்கும் மேற்பட்ட மக்கள் சிக்கித் தவிப்பதாகத் தெரிகிறது.
+
+நிலைமை நிமிடத்துக்கு நிமிடம் மோசமடைந்துவரும் சூழலில் மக்களவை எதிர்க்கட்சித் தலைவர் ராகுல் காந்தியும், காங்கிரஸ் பொதுச் செயலாளர் பிரியங்கா காந்தியும் வயநாடுக்கு நேரில் சென்று மீட்புப் பணிகளை நேரில் பார்வையிட உள்ளனர்.
+
+◼️
+
+[Data](articles/e1937ff0.json)
+
+---
+
+### ජනපති හමුවූ ඇතැම් මන්ත්‍රීවරු ඊයේ රෑම මාව හමුවුණා
+
+*2024-07-30 12:29:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හමුවූ-ඇතැම්-මන්ත්‍රීවරු-ඊයේ-රෑම-මාව-හමුවුණා/11-411089) · `si`
+
+තම පක්ෂයේ ප්‍රතිපත්තිය අතිතයේ පටන්ම එක්සත් ජාතික පක්ෂ විරෝධී බවත් තමන් තවදුරටත් එක්සත් ජාතික පක්ෂ විරෝධී කඳවුර නියෝජනය කරන බවත් පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා පැවැසීය.
+
+ඒසේම ඊයේ සවස ජනපති රනිල් වික්‍රමසිංහ මහතා සමග සාකච්ඡා පැවැත්වූ පොදුජන පෙරමුණේ ඇතැම් මන්ත්‍රීවරු ඊයේ රාත්‍රි යේම මෙන්ම අද උදෑසනත් තමන් හමුවූ බවද ඔහු පැවැසීය.
+
+එසේම ජනපතිවරණය යනු ජාතික නායකයෙක් ‌තෝරා ගන්නා මැතිවරණය බවත් එයට මනාප දේශපාලනයෙන් බලපෑමක් නොමැති බවත් ඔහු පැවැසීය.
+
+පොහොට්ටුවේ නටුව මෙන්ම මලත් ඇත්තේ ජනතාව අතර බවද ඔහු වැඩිදුරටත් පැවැසීය
+
+◼️
+
+[Data](articles/8c07bb43.json)
 
 ---
 
@@ -190,6 +290,8 @@ The legal draftsman was instructed to draft a law giving effect to the objective
 
 [Data](articles/8c941a2e.json)
 
+[Extended Data](ext_articles/8c941a2e.ext.json)
+
 ---
 
 ### Firearm fired at home and injured
@@ -256,6 +358,8 @@ Hours of the ruling Sri Lanka Podujana Peramuna (SLPP) decided not to back him a
 
 [Data](articles/f15c062a.json)
 
+[Extended Data](ext_articles/f15c062a.ext.json)
+
 ---
 
 ### A terrible landslide in Kerala - A large crowd
@@ -295,6 +399,8 @@ The companies were recommended by the Technical Evaluation Committee and the Sta
 ◼️
 
 [Data](articles/75f03e04.json)
+
+[Extended Data](ext_articles/75f03e04.ext.json)
 
 ---
 
@@ -338,6 +444,8 @@ Nobody has been held accountable for the damage done to the poultry industry. (C
 
 [Data](articles/34ea9a7a.json)
 
+[Extended Data](ext_articles/34ea9a7a.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens stronger at 302.20/35 to US dollar
@@ -361,6 +469,8 @@ In equities, Colombo’s All Share Price Index opened 29.48 points lower at 11,5
 ◼️
 
 [Data](articles/bdd3f900.json)
+
+[Extended Data](ext_articles/bdd3f900.ext.json)
 
 ---
 
@@ -473,6 +583,8 @@ His announcement came hours after the ruling Sri Lanka Podujana Peramuna (SLPP) 
 ...
 
 [Data](articles/29e18203.json)
+
+[Extended Data](ext_articles/29e18203.ext.json)
 
 ---
 
@@ -918,6 +1030,8 @@ Rajapaksa had earlier complained that Wickremesinghe was an expert at splitting 
 
 [Data](articles/9ee869c3.json)
 
+[Extended Data](ext_articles/9ee869c3.ext.json)
+
 ---
 
 ### Elections Commission notice of annual transfer process
@@ -965,6 +1079,8 @@ The government has also allowed the AASL to hire new ATCs.  However it took time
 ...
 
 [Data](articles/d2fc8c0d.json)
+
+[Extended Data](ext_articles/d2fc8c0d.ext.json)
 
 ---
 
@@ -2053,163 +2169,5 @@ Meanwhile, All Ceylon Public Congress leader Rishad Bathiudeen stated in a publi
 [Data](articles/4bc4198a.json)
 
 [Extended Data](ext_articles/4bc4198a.ext.json)
-
----
-
-### The announcement that President Ranil is contesting as an independent candidate is completely false - Bashil
-
-*2024-07-29 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/189738) · `ta`
-
-Basil Rajapaksa denies contesting independently, contradicting reports. UPFA won't back President Ranil Wickremesinghe in 2024 elections. Senior PA members oppose his candidacy. A PA member is considering running, despite internal disagreements and lack of support from the executive committee. The PA's founder, Basil Rajapaksa, confirms discussions with Wickremesinghe but insists he's not running independently.
-
-🟩
-
-The founder of the PA is completely false, with the announcement that he is contesting as an independent candidate as he is in talks with President Ranil Wickremesinghe on the presidential issue.
-
-The Sri Lanka Peoples Freedom Alliance (UPFA) led by Mahinda Rajapaksa has decided not to support President Ranil Wickremesinghe, who will contest the 2024 presidential election.
-
-The proposal to take disciplinary action against the parties against the party's executive committee level has been unanimously passed.
-
-Most of the party's senior members, including Prasanna Ranatunga and Mahindananda Aluthgamage, have expressed fierce opposition following the proposal of President Ranil Wickremesinghe.
-
-The executive committee of the PA was chaired by former President Mahinda Rajapakse to take a final decision on the presidential candidate.
-
-...
-
-[Data](articles/7705ec1e.json)
-
-[Extended Data](ext_articles/7705ec1e.ext.json)
-
----
-
-### The underworld on the Pigeon Island
-
-*2024-07-29 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199345) · `si`
-
-Pigeon Island, known for attracting both local and international tourists, faces issues with outdated boat and swimming equipment despite receiving significant funding. Tourist guides charge extra fees but provide subpar services, leading to dissatisfaction among tourists. Unfortunately, this has resulted in violent attacks on tourists by disgruntled guides. Authorities must intervene to improve tourism standards and ensure safety.
-
-🟩
-
-In such a situation, Ada Derana island has reported about a group of internatively internationally highly focused groups.
-
-A large number of local and foreign tourists visit the Pigeon Island, Trincomalee, who won the tourist attraction.
-
-Today, Ada Derana Ukza has revealed that the tourism staff on tour guides and the tourism staff on the tourpators and the tourism staff on Prainey island.
-
-The Pigeon Islands had received Rs.
-
-Despite such a large sum, they had a dilapidated equipment for boat and swimming.
-
-Tourist guides have been said to pay an additional cost of Rs. 12,000.
-
-It is said that the instruments were damaged and killed.
-
-However, with the refusal of the tourists, a group of tourist guides and a group of tourist guides have been brutally attacked the tourists.
-
-It is regrettable that if the tourists attached to the tourism time to uplift the tourism.
-
-Accordingly Derana, until the authorities intervened and taken steps to take action against such incidents.
-
-◼️
-
-[Data](articles/40375dfa.json)
-
-[Extended Data](ext_articles/40375dfa.ext.json)
-
----
-
-### Former soldier who sexually abused police workers
-
-*2024-07-29 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199344) · `si`
-
-A former soldier turned police inspector in Sri Lanka allegedly abused female officers, impersonated law enforcement, and engaged in criminal activities including theft and sexual harassment. The suspect, identified through a three-wheeler linked to him, was arrested and found with stolen goods and false documents. His actions came to light when a victim reported the abuse to the Kesbewa Police, leading to a broader investigation.
-
-🟩
-
-Trying into a police officer and arrested the women and boil the women and bound the Kesbawa Police and a person who had been sexually abused.
-
-Police said that the suspect had also prepared a fake police person using a photo of a deceased police officer.
-
-A famous garment at a famous garment in Panadura had told her that a three-wheeler could go home from the three-wheeler.
-
-Accordingly, the person in the back on the back seat, showed her the rear seat while she was sentenced to a three-wheeler.
-
-He was a police officer, saying that he was discovered by a police officer into her adultery.
-
-The Ranmal, who was later taken to a supermarket and was forcibly removed from her atm card, and she had been taken to a location of the Piliyandala Road, Piliyandala.
-
-Thereafter, she had taken her to the city of Piliyandala and had been sent to another three-wheeler.
-
-The garment maid had lodged a complaint with the Kesbewa Police on the 15th of this month.
-
-...
-
-[Data](articles/c2178426.json)
-
-[Extended Data](ext_articles/c2178426.ext.json)
-
----
-
-### Knives in England - Police Strengthen Security
-
-*2024-07-29 19:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199343) · `si`
-
-In Liverpool, several injuries occurred due to a stabbing incident in Southport. Witnesses described the suspect as running through the area, attacking victims.
-
-🟩
-
-Several people were injured in a knife in the Southport area of ​​Liverpool, England.
-
-One who has heard the incident said the suspect runs there and stab.
-
-◼️
-
-[Data](articles/f169d2b0.json)
-
-[Extended Data](ext_articles/f169d2b0.ext.json)
-
----
-
-### Mahajar at police headquarters demanding resignation
-
-*2024-07-29 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189735) · `ta`
-
-Chandun S. Rajapaksa, Media Coordinator of the People's Movement, called for his own resignation on Monday. He was forcibly removed by police while attempting to lead a protest.
-
-🟩
-
-The Media Coordinator of the People's Movement, Chandun S. Rajapaksa, on Monday (29), urged the people's struggle to resign from his post immediately.They had gone to hand over.
-
-In addition, the police expressed fierce opposition and forcibly seized the Mahajar from him as they sought to carry out a protest in the area.
-
-◼️
-
-[Data](articles/1881e288.json)
-
-[Extended Data](ext_articles/1881e288.ext.json)
-
----
-
-### Three Sajith's festivals stop Mac
-
-*2024-07-29 19:10:07* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-උත්සව-තුනක්-මැකෝ-නවත්වයි/11-411080) · `si`
-
-Opposition Leader Sajith Premadasa planned to donate classrooms to three Ampara District schools but faced cancellation by the Elections Commission due to complaints. The commission intervened, leading to the cancellation of the event.
-
-🟩
-
-The Opposition Leader Sajith Premadasa has been prepared to give a houral classrooms to three schools in the Ampara District and the Elections Commission has been canceled.
-
-Saddhatissa National School, Ampara, Ampara, is due to be given to the Madawala Maha Vidyalaya, and Senegama Maha Vidyalaya have also been prepared by the folk force.
-
-The Ampara Assistant Elections Commissioner Kasun Sandath Attanayake has received several complaints and he has informed the Elections Commission in this regard.
-
-Accordingly, the Leader of the Opposition has informed opposition leader Sajith Premadasa to stop these ceremonies by the Elections Commission. Accordingly, the festival has been canceled and evacuated by the harmony power which was mounted in the next area of ​​three schools.
-
-◼️
-
-[Data](articles/df03d541.json)
-
-[Extended Data](ext_articles/df03d541.ext.json)
 
 ---

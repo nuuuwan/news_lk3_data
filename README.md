@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 22:54:07**
+As of **2024-07-30 23:05:46**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 6,419
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,121 (100.0%) of 38,122 articles have been extended.
+38,122 (100.0%) of 38,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### විද්‍යා ඝාතන නඩුවේ අභියාචනා පෙත්සම් විභාගයට දින නියම වෙයි
+### Petitions to hear appeals petitions in the science murder case
 
 *2024-07-30 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199388) · `si`
 
-2015 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් යාපනයේ සිවලෝගනාදන් විද්‍යා දැරිය ඝාතනය කිරීම සම්බන්ධයෙන් යාපනය මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කර සිටින විත්තිකරුවන් හය දෙනා එම දඬුවමින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා ඉදිරිපත් කර තිබෙන අභියාචනා විභාගය ජනවාරි මස 20 වනදා පැවැත්වීමට ශ්‍රේෂ්ඨාධිකරණය දින නියම කර තිබේ.
+The Supreme Court has set January 20 for hearing appeals from six death-row convicts sentenced in a 2015 case by the Jaffna High Court. The court, comprising judges Nawaz, Shiran Gunaratne, and Priyantha Fernando, also noted that one defendant died in custody. Defense attorney Arumugam Ragudam highlighted the lengthy pre-trial detention, exceeding eight years, while Solicitor General Aeesha Jinasena assured swift provision of necessary documents. The court directed the Solicitor General to expedite actions regarding the appeal process.
 
-මෙම අභියාචනා පෙත්සම් අද (30) ප්‍රීති පද්මන් සූරසේන, යසන්ත කෝදාගොඩ, ඒ.එච්.එම්.ඩී. නවාස්, ශිරාන් ගුණරත්න සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එහිදී මෙම නඩුවට සම්බන්ධ එක් විත්තිකරුවකු මියගොස් සිටින බව බන්ධනාගාර නිලධාරීන් විසින් අධිකරණයට දැනුම් දුන්නේය.
+The Supreme Court has been sentenced to January 20, the six accused defendants who have been sentenced to death in the punishment of the Jaffna High Court in 2015.
 
-විත්තිය වෙනුවෙන් පෙනී සිටි නීතිඥ ආරුමුගම් රගුපති මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුකරයට අදාළ පරිවර්තන කළ ලේඛන ලැබීමේ ප්‍රමාදය නිසා මෙම විත්තිකරුවන් වසර 08කට අධික කාලයක් නිකරුනේ බන්ධනාගාර ගතව සිටින බව සඳහන් කළේය.
+Petitions of this appeal petitions today (30) today (30) today. A five-member Supreme Court judge with Nawaz, Shiran Gunaratne and Priyantha Fernando were summoned.
 
-එම අවස්ථාවේදී සොලිසිටර් ජෙනරාල් අයේෂා ජිනසේන මෙනෙවිය අධිකරණයට දැනුම් දුන්නේ මෙම නඩුකරයට අදාළ පරිවර්ථන කළ ලේඛන කඩිනමින් ලබාදීමට පියවර ගන්නා බවය.
+Prison officials informed the court that one of the accused was killed.
+
+Attorney-at-Law Arumugam Ragudam, appearing on behalf of the accused, said that due to the delay in the case, these defendants were in prison for over 8 years.
+
+Solicitor General Aeesha Jinasena informed the court that steps will be taken to provide conducted documents to the case speedily.
+
+It is said that Solicitor General said that the defendants had been released on the trial in Jaffna High Court.
+
+The five-member Supreme Court Badulla informed this cadre to the Solicitor General to take action to the appeal accused to this cases.
 
 ...
 
 [Data](articles/63d86125.json)
+
+[Extended Data](ext_articles/63d86125.ext.json)
 
 ---
 

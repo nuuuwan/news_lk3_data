@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 13:20:36**
+As of **2024-07-30 13:36:20**
 
 ## Newspaper Stats
 
-*Scraped **38,020** Articles*
+*Scraped **38,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,64 @@ colombotelegraphcom | 362
 newsfirstlk | 363
 bbccomsinhala | 367
 islandlk | 2,180
-economynextcom | 2,274
+economynextcom | 2,282
 dailyftlk | 2,434
 adalk | 3,471
-adaderanalk | 4,405
+adaderanalk | 4,406
 tamilmirrorlk | 4,709
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,398
+adaderanasinhalalk | 6,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,019 (100.0%) of 38,020 articles have been extended.
+38,020 (100.0%) of 38,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### Appeals Court to decide on Keheliya’s petition and bail appeal on Aug. 9
+
+*2024-07-30 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/100876/appeals-court-to-decide-on-keheliyas-petition-and-bail-appeal-on-aug-9) · `en`
+
+The Court of Appeal is scheduled to deliver its decision on August 09 regarding the petition filed by Keheliya Rambukwella, seeking an order to invalidate the Maligakanda Magistrate’s Court’s order remanding him until the end of the trial over the alleged import of substandard medicine.
+
+The court will also address his bail application on the same date. This decision was previously expected to be delivered on August 01.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/a9fd959d.json)
+
+---
+
+### මැතිවරණ කොමිසම රැස්වෙයි
+
+*2024-07-30 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199366) · `si`
+
+මැතිවරණ කොමිෂන් සභාවේ රැස්වීමක් අද (30) උදෑසන පවත්වා ඇති බව වාර්තා වෙයි.
+
+රාජගිරියේ පිහිටි මැතිවරණ මහලේකම් කාර්යාල පරිශ්‍රයේදී එම රැස්වීම පවත්වා තිබුණි.
+
+ජනාධිපතිවරණය පැවැත්වීමට අදාළ කරුණු කිහිපයක් පිළිබඳව එම රැස්වීමේ දී විශේෂ අවධානය යොමුව තිබූ බව සඳහන් ය.
+
+එහි ප්‍රධාන කරුණ ලෙස පොලිස්පතිවරයෙකු නොමැතිව මැතිවරණය පවත්වන්නේ ද යන්න සම්බන්ධයෙන් මැතිවරණ කොමිසමේ සාමාජිකයින්ගේ වැඩි අවධානයක් යොමුව ඇති බව වාර්තා විය.
+
+මීට අමතරව මැතිවරණයට අදාළ නාමයෝජනා භාරදීමේ කටයුතු සම්බන්ධයෙන් සහ ඊට අදාළ ආරක්ෂක කටයුතු පිළිබඳව එම සාකච්ඡාවේ දී අවධානය යොමුව ඇති බව වාර්තා වෙයි.
+
+ජනාධිපතිවරණය ප්‍රකාශයට පත් කිරීමෙන් අනතුරුව මැතිවරණ කොමිසම රැස් වූ පළමු අවස්ථාව ද මෙය වේ.
+
+◼️
+
+[Data](articles/a29f7209.json)
+
+---
 
 ### Court of Appeal announced on the verdict of Keheliya
 
@@ -132,6 +172,26 @@ Local news channel Asianet TV said as many as 41 people died after the landslide
 
 ---
 
+### Sri Lanka cabinet clears drafting bill for PPP Agency
+
+*2024-07-30 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-clears-drafting-bill-for-ppp-agency-174401/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved the drafting of a new law to set up National Agency for Public Private Partnerships, following proposal by President Ranil Wickremesinghe, the state information office said.
+
+The agency will design and manage PPP projects and also co-ordinate with international agencies.
+
+It will identify project where public private partnerships can be implemented.
+
+The PPP Agency requires a legal basis and a legal framework was also needed for the PPP agreements.
+
+The legal draftsman was instructed to draft a law giving effect to the objectives. (Colombo/July30/2024)
+
+◼️
+
+[Data](articles/8c941a2e.json)
+
+---
+
 ### Firearm fired at home and injured
 
 *2024-07-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199363) · `si`
@@ -182,6 +242,22 @@ Wijewickrama said that he was the leader of all these parties, including the Sri
 
 ---
 
+### Sri Lanka president invites MPs to support him after ruling party’s decision
+
+*2024-07-30 10:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-invites-mps-to-support-him-after-ruling-partys-decision-174394/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has thanked legislators who have supported him through his presidency and has invited those who have yet to join him.
+
+Hours of the ruling Sri Lanka Podujana Peramuna (SLPP) decided not to back him at the 2024 presidential election, Wickremesinghe tweeted Monday July 30 night that his administration needs the support of every willing hand to build a prosperous, united Sri Lanka.
+
+“I want to thank the MPs who’ve been with me on this journey. To those who stood by me from the start, your support made the first steps we took to recovery possible. You believed in me and my plan when the country was in crisis, with people struggling for fuel, medicine, and essentials. Your commitment kept us going when the challenges seemed insurmountable,” he said.”
+
+...
+
+[Data](articles/f15c062a.json)
+
+---
+
 ### A terrible landslide in Kerala - A large crowd
 
 *2024-07-30 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199362) · `si`
@@ -206,6 +282,22 @@ It is suspected that the landslides have been disrupted due to heavy rains and s
 
 ---
 
+### Sri Lanka approves 5 companies to sell tea at airport
+
+*2024-07-30 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-approves-5-companies-to-sell-tea-at-airport-174381/) · `en`
+
+ECONOMYNEXT – Sri Lanka has approved five companies to maintain shops selling tea in the Katunayake, Bandaranaike International Airport departure waiting area.
+
+Bids were called under the national competitive bidding process and 8 bidders submitted bids, a cabinet statement said.
+
+The companies were recommended by the Technical Evaluation Committee and the Standing Procurement Committee appointed by the Cabinet, the statement said. (Colombo/Jul30/2024)
+
+◼️
+
+[Data](articles/75f03e04.json)
+
+---
+
 ### President and the Prime Minister joins a special discussion at the government
 
 *2024-07-30 10:44:57* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂ-මන්‍ත්‍රි-කණ්ඩායමේ-විශේෂ-සාකච්ඡාවක්-ජනපති-හා-අගමැති-ප්‍රධානත්වයෙන්/11-411083) · `si`
@@ -223,6 +315,52 @@ All MPs of the ruling party members are inevitably participating in this day. It
 [Data](articles/73f63acf.json)
 
 [Extended Data](ext_articles/73f63acf.ext.json)
+
+---
+
+### Sri Lanka cabinet clears more egg imports by state agency
+
+*2024-07-30 10:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-clears-more-egg-imports-by-state-agency-174375/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved the import of eggs by State Trading (General) Corporation to stop spikes in egg prices, Spokesman Bandula Gunawardana said.
+
+The import of eggs will prevent price spikes during the upcoming Ramazan and Christmas seasons, he said.
+
+Sri Lanka has imported 224 million eggs after a cabinet decision allowed imports in March and 95 percent was sold through state-run Sathosa at 37 rupees an egg. The permission had run out in April 30.
+
+Sri Lanka has slapped import licensing taxes on maize, pushing up feed costs, and making poultry more expensive, farmers have complained. The dairy sector also faces similar constraints.
+
+Sri Lanka started importing eggs after the Consumer Affairs Authority imposed price controls on eggs and forced farmers to kill off flocks for meat, when feed prices went up during an economic crisis.
+
+Nobody has been held accountable for the damage done to the poultry industry. (Colombo/July30/2024)
+
+◼️
+
+[Data](articles/34ea9a7a.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 302.20/35 to US dollar
+
+*2024-07-30 10:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-302-20-35-to-us-dollar-174373/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 302.20/35 to the US dollar on Tuesday, dealers said. Bond yields were broadly stable, they said, and stocks opened down 0.25 percent.
+
+In the secondary market, treasury bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted stable at 10.45/55 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.75/90 percent, down from 11.80/12.00 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.95/12.00 percent, up from 11.85/12.00 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.15/30 percent, up from 12.15/25 percent.
+
+In equities, Colombo’s All Share Price Index opened 29.48 points lower at 11,589, while the S&P SL20 of more liquid stocks opened down at 0.42 percent or 14.28 points to 3,354.
+
+◼️
+
+[Data](articles/bdd3f900.json)
 
 ---
 
@@ -252,23 +390,29 @@ National Disaster Rescue Force is actively working to rescue the landslide.
 
 ---
 
-### கேரளாவில் பாரிய நிலச்சரிவு: 20 பேர் பலி
+### Landslide in Kerala: 20 killed
 
 *2024-07-30 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளாவில்-பாரிய-நிலச்சரிவு-20-பேர்-பலி/175-341265) · `ta`
 
-கேரள மாநிலத்தைச் சேர்ந்த வயநாட்டில், நள்ளிரவில் அடுத்தடுத்து நடந்த இரண்டு நிலச்சரிவுகளில் சிக்கி, 20 பேர் பலியாகிய நிலையில், 400க்கும் மேற்பட்ட குடும்பத்தினரை மீட்கும் பணி துரிதமாக நடந்து வருகிறது. இந்நிலையில், பலி எண்ணிக்கை மேலும் அதிகரிக்கும் என அஞ்சப்படுகிறது.
+In Kerala, two landslides in Wayanad have resulted in 20 deaths, with over 400 families affected. Rescue efforts are ongoing, but the death toll may rise. The incidents occurred due to heavy rainfall during the monsoon season.
 
-கேரள மாநிலத்தில் தொடர்ந்து பெய்துவரும் பருவமழையின் காரணமாக, வயநாடு மாவட்டம் முண்டக்கை என்ற இடத்தில், நள்ளிரவு 1 மணிக்கு நிலச்சரிவு ஏற்பட்டது. மீட்பு பணிகள் நடைபெற்று கொண்டிருக்கும் போதே, அங்கிருந்து 2 கி.மீ., தொலைவில் உள்ள சூரல்மலை என்ற இடத்தில், நிலச்சரிவு ஏற்பட்டது.
+🟩
 
-இந்த நிலச்சரிவில் சிக்கி 20 பேர் பலியாகி உள்ளனர். 30 பேர் மீட்கப்பட்டு மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Work on rescuing more than 400 families is underway, with 20 people being trapped in two subsequent landslides at midnight in Wayanad, Kerala.. In this case, it is feared that the number of casualties will increase further.
 
-மேலும், 400க்கும் மேற்பட்ட வீடுகளில் ஆயிரத்துக்கும் மேற்பட்டோர் நிலச்சரிவில் சிக்கியுள்ளதாக தகவல்கள் தெரிவிக்கின்றன. இதனால், பலி எண்ணிக்கை மேலும் உயரும் என்ற அச்சம் நிலவுகிறது.
+Due to the ongoing monsoon in Kerala, the landslide occurred at Mundakai in Wayanad district at 1 midnight. While rescue operations were underway, the landslide occurred at Sulmalai, 2 km away from there.
 
-நிலச்சரிவில் சிக்கியுள்ளவர்களை மீட்கும் பணியில் தேசிய பேரிடர் மீட்பு படையினர் தீவிரமாக ஈடுபட்டு வருகின்றனர்.S
+20 people have been killed in this landslide. 30 people have been rescued and hospitalized.
+
+More than 400 homes are reported in a landslide. Thus, there are fears that the number of casualties will rise.
+
+National Disaster Rescue Force is actively working to rescue the landslide.
 
 ◼️
 
 [Data](articles/bb3b1441.json)
+
+[Extended Data](ext_articles/bb3b1441.ext.json)
 
 ---
 
@@ -313,6 +457,22 @@ Sri Lanka Female Leadership Chamari Silva, Sri Lanka Cricket Leaders, Jayantha D
 [Data](articles/49486735.json)
 
 [Extended Data](ext_articles/49486735.ext.json)
+
+---
+
+### Sri Lanka state minister of finance declares support for president
+
+*2024-07-30 10:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-minister-of-finance-declares-support-for-president-174371/) · `en`
+
+ECONOMYNEXT — To prevent a return to Sri Lanka’s most severe crisis in its history, it is essential to continue to support President Ranil Wickremesinghe, State Minister of Finance Shehan Semasinghe said after his party decided not to back the president.
+
+“Under President Ranil Wickramasinghe’s leadership, Sri Lanka has made significant strides in overcoming the most severe crises in the history. His clear and decisive leadership has guided the nation toward stability and growth. To prevent a return to such challenging times, it is essential to continue supporting President Wickramasinghe’s vision and initiatives. We need to protect the country before our political views. Together, we can build a prosperous future for our country,” Semasinghe tweeted in the early hours of Tuesday July 30.
+
+His announcement came hours after the ruling Sri Lanka Podujana Peramuna (SLPP) decided not to back President Wickremesinghe at the 2024 presidential election, opting instead to field its own candidate.
+
+...
+
+[Data](articles/29e18203.json)
 
 ---
 
@@ -738,6 +898,28 @@ Meanwhile, State Minister Shehan Semasinghe has also stated that he is also supp
 
 ---
 
+### Sri Lanka Podujana Party rebels to back President
+
+*2024-07-30 08:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-party-rebels-to-back-president-174346/) · `en`
+
+ECONOMYNEXT – Several ministers and deputy minister of the Sri Lanka Podujana Party will support President Ranil Wickremesinghe at the upcoming elections, dissidents told reporters after its executive committee decided to field its own candidate.
+
+“We will try to get the party’s support for President,” Energy Minister Kanchana Wijeskera, who had earlier come out publicly in support of the President, said after the SLPP made its official decision not to back Wickremesinghe.
+
+“But what we decided today was to support President Wickremesinghe. He is coming as an independent candidate. About 90 percent of the ministers and parliamentarians came to the meeting.
+
+“We are still in the position for the party to take a decision without splitting it.”
+
+SLPP National Organizer Namal Rajapasksa said the party supported Wickremesinghe from 2022 but from now on it will not support him any longer.
+
+Rajapaksa had earlier complained that Wickremesinghe was an expert at splitting parties. Businessman D
+
+...
+
+[Data](articles/9ee869c3.json)
+
+---
+
 ### Elections Commission notice of annual transfer process
 
 *2024-07-30 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199355) · `si`
@@ -763,6 +945,26 @@ Meanwhile, Sri Lanka United Grama Niladhari Union, Sri Lanka United Grama Niladh
 [Data](articles/9f56d50d.json)
 
 [Extended Data](ext_articles/9f56d50d.ext.json)
+
+---
+
+### Sri Lanka combats flight of air traffic controllers after currency crisis
+
+*2024-07-30 07:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-combats-flight-of-air-traffic-controllers-after-currency-crisis-174343/) · `en`
+
+ECONOMYNEXT – Sri Lanka has raised the salaries of air traffic controllers to retain staff who were leaving the country after the latest currency crisis, and also started hiring, Chairman of Airport and Aviation Services (Sri Lanka) Ltd said.
+
+“A lot of air traffic controllers left us during the Covid period, and the economic crisis, but the government has been generous to increase their salaries somewhat, and the leaving has gone down,” Chairman Athula Galketiya said.
+
+Sri Lanka’s rupee collapsed from 200 to 360 to the US dollar in a currency crisis which ended in 2022.
+
+The rupee collapsed steadily from 113 without a war to 300 in a series of currency crises triggered by so-called flexible inflation targeting and potential output targeting, which critics say is the worst spurious monetary doctrine to hit unfortunate nations after the basket bank crawl doctrine of the 1980s.
+
+The government has also allowed the AASL to hire new ATCs.  However it took time for ATCs to be trained, he said.
+
+...
+
+[Data](articles/d2fc8c0d.json)
 
 ---
 
@@ -2009,241 +2211,5 @@ Accordingly, the Leader of the Opposition has informed opposition leader Sajith 
 [Data](articles/df03d541.json)
 
 [Extended Data](ext_articles/df03d541.ext.json)
-
----
-
-### Postal Voting: Applications must be submitted before 05 August - Elections Commission
-
-*2024-07-29 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189733) · `ta`
-
-Submit postal voting applications by August 5th to the District Construction Officer. Eligible voters can obtain forms from the District Election Office. Applications received after this date will be canceled. Additional information is available on the Elections Commission's official website and at various government offices including Divisional Secretariat, Grama Niladhari, Government Administration, Provincial Councils, Local Government Ministry, Labor Department, Registrar's Department, Postal Headquarters, Fisheries and Water Resources Ministry, and Urban Development.
-
-🟩
-
-Voters who qualify for the postal voting must hand over the completed applications to the District Construction Officer on or before 2024.08.05.. The Elections Commission has advised that applications available after the date of engagement will be canceled without a reconstruction.
-
-The new Chairperson for 2024 will be used for the 2024 presidential election.The Divisional Secretariat Office, the Grama Niladhari Office has been displayed.
-
-In addition to the above mentioned places, the Government Administration and Provincial Councils, Local Government Ministry, Labor Department, Registrar's Department, Postal Headquarters, Fisheries and Water Resources Ministry and Urban Development can be obtained.
-
-Further information can be obtained through the official website of the Elections Commission.
-
-The application form that is required to be fulfilled for postal voting facilities can be obtained at the District Election Office.
-
-...
-
-[Data](articles/d357d737.json)
-
-[Extended Data](ext_articles/d357d737.ext.json)
-
----
-
-### Sri Lanka urges action against cybercrime centres, employment rackets in ASEAN region
-
-*2024-07-29 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/100864/sri-lanka-urges-action-against-cybercrime-centres-employment-rackets-in-asean-region) · `en`
-
-Sri Lanka’s State Minister of Foreign Affairs Tharaka Balasuriya has called for decisive action against cybercrime centres and employment rackets taking place in some parts of the ASEAN region.
-
-In his address to the 31st Ministerial Meeting of the ASEAN Regional Forum in Laos on Saturday (27 July), Balasuriya also called for the Asia Pacific region to concertedly address emerging challenges including security-related aspects of new and emerging technologies such as artificial intelligence, with a view to taking preventive measures against their misuse, the Ministry of Foreign Affairs said.
-
-Issuing a statement, the Ministry mentioned that the Foreign Affairs State Minister further highlighted that in addition to sustaining the Asia-Pacific region’s efforts to promote peace, security, and cooperation, the Forum must address challenges to cyber and network security systems and tackle transnational organized crime.
-
-...
-
-[Data](articles/fe497eb9.json)
-
-[Extended Data](ext_articles/fe497eb9.ext.json)
-
----
-
-### A candidate for the presidential election
-
-*2024-07-29 18:50:17* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-පොහොට්ටුවෙන්-අපේක්ෂකයෙක්/11-411079) · `si`
-
-After a vote, the Front Political Council plans to announce its presidential candidate soon, despite opposition from six members of the current president's team.
-
-🟩
-
-The Front Political Council has decided to present a candidate for the next presidential election.
-
-The decision has been taken following the Board of Politburos assembly today.
-
-Only six members of the president have voted against the proposal to propose a candidate for the presidential election.
-
-The decision was taken up after a ballot in the political board.
-
-According to party sources, the party's candidate is ready to be published in the next few days.
-
-◼️
-
-[Data](articles/1cc94d21.json)
-
-[Extended Data](ext_articles/1cc94d21.ext.json)
-
----
-
-### Govan to fight Bope's President
-
-*2024-07-29 18:38:47* · [`adalk`](https://www.ada.lk/breaking_news/ණුවන්-බෝපගේ-ජනපති-සටනට/11-411078) · `si`
-
-The UPFA convener aims to move forward despite the complex political scenario, focusing on the Janama Struggle Presidential Ceremony. They highlight the significance of the 2022 GULFACE struggle initiated by the former President, emphasizing its broad political-economic ambitions. Despite being abandoned by several political parties, the UPFA remains committed to its foundational principles and policies. The convener criticizes the International Monetary Fund and vows to continue fighting against anti-democratic actions, positioning their presidential candidate as a strong opponent of Ranil Wickremesinghe. In this challenging political landscape, the UPFA is led by Nuwan Bopage, ready to engage in the presidential struggle.
-
-🟩
-
-The convener of the UPFA is the convener of the UPFA to proceed with the aim of complex political situation.
-
-He was speaking at a media briefing in the Colombo Public Library today (29) to declare the Janama Struggle Presidential Ceremony.
-
-The convener of the UPFA is said to be commented.
-
-"The 2022 Gulface struggle that was chased by the former President presented a program with a program in its culmination. It came forward as a common program that all of the various political struggle with various political struggle. It is an expression of the wide political - economic ambitions.
-
-It was abandoned by many political parties, but was abandoned. We did not give up on anything the basic foundations of the program and used it for our policy and program. He also fought against the devastating International Monetary Fund, which came to power.
-
-...
-
-[Data](articles/3dee586d.json)
-
-[Extended Data](ext_articles/3dee586d.ext.json)
-
----
-
-### Tea will increase the fertilizer subsidy by 100 percent
-
-*2024-07-29 18:35:11* · [`adalk`](https://www.ada.lk/breaking_news/තේ-පොහොර-සහනාධාරය-සියයට-100කින්-වැඩි-කරයි/11-411077) · `si`
-
-The government plans to double the tea fertilizer subsidy to Rs. 4,000, as per instructions from Minister Mahinda Amaraweera.
-
-🟩
-
-The Government has decided to increase the tea fertilizer to Rs. 4,000. According to the previous farmers, the Rs.
-
-Speaking to the Ministry of Agriculture and Plantation Industries Janaka Dharmakeerthi said that the Minister of Agriculture and Plantation Industries said that Minister Mahinda Amaraweera instructed him to double it.
-
-◼️
-
-[Data](articles/6b63c575.json)
-
-[Extended Data](ext_articles/6b63c575.ext.json)
-
----
-
-### Vajira Abeywardena cannot prevent the war in the country in the presidential election
-
-*2024-07-29 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/189729) · `ta`
-
-In a press conference, Parliamentarian Vajira Abeywardena warned of potential civil war risks if the upcoming presidential election leads to formal political ideologies. He criticized parties for misleading the public and urged unity around the national development program. Highlighting the importance of the Economic Transfer Act, he called for adherence to it and other key laws to avoid repeating past mistakes. Abeywardena emphasized the need for responsible politics, free from caste, religious, and political biases, and praised President Ranil Wickremesinghe's efforts to combat corruption and build the nation. He stressed that the upcoming election is crucial for the country's future, urging voters to use their ballots wisely to prevent further division.
-
-🟩
-
-Parliamentarian Vajira Abeywardena pointed out that if the next presidential election is followed by formal political ideologies, there is a risk of re -civil war in the country and that the parties involved should take responsibility in the event of such a situation.
-
-Although the new Economic Transfer Act was passed with the consensus of the 225 members in Parliament, it was regrettable to come out and mislead the people, and appealed to all to agree to the national program to build the country.
-
-Parliamentarian Vajira Abeywardena made this statement at a media briefing held at the Presidential Media Center on Monday (29).
-
-The upcoming presidential election on September 21 will be an important election for the country's 9th executive president.. At present, the older political parties are unable to continue their political campaign.
-
-...
-
-[Data](articles/17410f37.json)
-
-[Extended Data](ext_articles/17410f37.ext.json)
-
----
-
-### Postal voting applications will be taken over by August 5
-
-*2024-07-29 18:31:37* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්ද-අයදුම්පත්-අගෝස්තු-05-දා-තෙක්-භාර-ගනියි/11-411076) · `si`
-
-The Elections Commission announced that postal voting applications for the upcoming presidential election must be submitted by August 5. This year, the election details have been made accessible through various electoral registers for ease of postal voting. Applicants are advised to verify their information and submit completed applications before the deadline. Applications can be obtained from designated locations and the Elections Commission's website.
-
-🟩
-
-The Elections Commission states that the postal voting applications of the presidential election will be submitted to the 5th of next month.
-
-The church pointed out that this year's presidential election has been displayed in several electoral registers for the convenience of the postal election.
-
-All District Secretariats, Divisional Secretariats, Department of Labor, Department of Labor, Department of Labor, Department of Labor and Fisheries and Urban Development Authority including the Ministry of Postal Headquarters and Urban Development AuthorityThe Elections Commission states that the electoral regional documentation is displayed this year.
-
-Postal voting candidates in all districts should be referred to the reporting officers of the district, the address of the district election office.
-
-The Elections Commission requests the Election Commission from postal voting applicants to check their information and complete their information as the same person names are located.
-
-...
-
-[Data](articles/8e6a1364.json)
-
-[Extended Data](ext_articles/8e6a1364.ext.json)
-
----
-
-### Muslim Congress help?
-
-*2024-07-29 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199342) · `si`
-
-The Muslim Congress party plans to support the Sri Lanka Muslim Congress Assistant Society in the upcoming presidential election, focusing on reconciliation efforts. Despite this, leader Rauff Hakeem emphasizes the importance of today's actions.
-
-🟩
-
-The party will also be able to support the Sri Lanka Muslim Congress Assistant Society in the next presidential election.
-
-That party is now due to dealing with the reconciliation.
-
-However, Sri Lanka Muslim Congress leader Rauff Hakeem said, "Today
-
-◼️
-
-[Data](articles/301a78e6.json)
-
-[Extended Data](ext_articles/301a78e6.ext.json)
-
----
-
-### A clash between the President and the Prime Minister
-
-*2024-07-29 18:28:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-අගමැති-අතර-මත-ගැටුමක්/11-411075) · `si`
-
-Prof. GL Peiris, former Chairman of the Sri Lanka Knowledge, announced at a Colombo media briefing that there's tension between the President and the Prime Minister, indicating the government may pursue dual policies.
-
-🟩
-
-Former Chairman of the Sri Lanka Knowledge, Prof. GL Peiris. Mr. Peiris said.
-
-He was speaking at a media briefing held in Colombo today (29).
-
-GL Peiris said that there is a vague between the President and the Prime Minister and the government will adopt a double policy.
-
-◼️
-
-[Data](articles/78daf5aa.json)
-
-[Extended Data](ext_articles/78daf5aa.ext.json)
-
----
-
-### Colombo port is the best port in the world in the first quarter of 2024
-
-*2024-07-29 18:22:39* · [`adalk`](https://www.ada.lk/breaking_news/2024-පළමු-කාර්තුවේදී-ලෝකයේ-හොඳම-වරාය-ලෙස-කොළඹ-වරාය-නම්-වෙයි/11-411074) · `si`
-
-In Q1 2024, Colombo Port achieved a remarkable growth rate of 23.6%, earning it the top spot globally according to Alphaliner. This success came despite challenges, with the port recording a profit of $50 million in the same period, doubling its previous year's earnings. The port's expansion includes ongoing projects at the Eastern Container Terminal and Western Terminal, set to commence operations in Feb 2025, alongside developments in Trincomalee, Galle, and Kankasanthurai. Additionally, aviation operations saw a 25% increase, boosting passenger and freight operations significantly.
-
-🟩
-
-Significant progress of operating performance with a growth rate of 23.6% - Ports, Naval and Aviation Ministry Secretary.
-
-The Colombo harbor has made significant progress in operational performance in 23.6%, and the Colombo port is the best growth port in the first quarter of 2024 in the first quarter of 2024.Secretary to the Ministry of Naval and Aviation. D. S. Ruwanchandra said.
-
-He also said that the Colombo Port was earnled in the first quarter of 2024, but the Colombo Port was revenue in the recent past.
-
-Port, Naval and Aviation Ministry Secretary. D. S. Ruwanchandra was speaking at a press conference held at the press conference at the Presidential Media Center today (29) at the Presidential Media Center.
-
-Port, Naval and Aviation Ministry Secretary. D. S. Ruwanchandra said,
-
-...
-
-[Data](articles/716f355d.json)
-
-[Extended Data](ext_articles/716f355d.ext.json)
 
 ---

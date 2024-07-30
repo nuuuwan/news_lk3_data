@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 20:05:42**
+As of **2024-07-30 20:36:02**
 
 ## Newspaper Stats
 
-*Scraped **38,104** Articles*
+*Scraped **38,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
-adalk | 3,483
+adalk | 3,487
 adaderanalk | 4,413
 tamilmirrorlk | 4,725
 dailymirrorlk | 4,733
@@ -26,31 +26,81 @@ adaderanasinhalalk | 6,415
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,103 (100.0%) of 38,104 articles have been extended.
+38,104 (100.0%) of 38,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### චමිදුට විස්සයි20 වරම් - දසුන් ඉවතට
+
+*2024-07-30 19:56:11* · [`adalk`](https://www.ada.lk/sports/චමිදුට-විස්සයි20-වරම්---දසුන්-ඉවතට/9-411106) · `si`
+
+ඉන්දියාව සමගින් පැවැත්වෙන තෙවැනි හා අවසන් විස්සයි20 තරගයට චමිඳු වික්‍රමසිංහ කැඳවීමට ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම කටයුතු කර තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකාව වෙනුවෙන් අලුතෙන්ම විස්සයි20 වරම් හිමිකරගත් ක්‍රිඩකයා බවට චමිඳු වික්‍රමසිංහ පත්වෙනු ඇත. ඔහු කණ්ඩායමට පැමිණීමත් සමග දසුන් ශානකට කණ්ඩායමට ස්ථානය අහිමි වී තිබේ.
+
+කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා නායක චරිත් අසලංක මුලින්ම පන්දු රැකීමට තීරණය කළේය.
+
+ශ්‍රී ලංකා කණ්ඩායම - පැතුම්, කුසල් මෙන්ඩිස්, කුසල් පෙරේරා, කමිඳු, චරිත්, චමිඳු, වනිඳු, රමේෂ්, මතීෂ,මහීෂ්, අසිත
+
+◼️
+
+[Data](articles/87447b87.json)
+
+---
+
+### Sri Lanka to benefit the coin
 
 *2024-07-30 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199384) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ ඉන්දීය කණ්ඩායම අතර පැවැත්වෙන 3න් වැනි සහ අවසාන 20යි 20 තරගය අද (30) පල්ලෙකැලේ ක්‍රිකට් පිටියේදී පැවැත්වෙයි.
+Sri Lanka won the toss in the cricket match against India at the Pallekele Cricket Grounds, deciding to bat first. The match, originally scheduled for 7:40 pm, was postponed due to unforeseen circumstances.
 
-වර්ෂාව හේතුවෙන් තරග ආරම්භය රාත්‍රී 8 දක්වා කල් දැමීමට තරග විනිසුරුවන් තීරණය කළේය.
+🟩
 
-කාසියේ වාසිය උරගා බැලීම රාත්‍රී 7.40ට පමණ සිදුකළ අතර එහිදී කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක සමත් විය.
+Sri Lanka and the Sri Lankan team and the final will be held at the Pallekele Cricket Grounds today (30).
 
-ඒ අනුව ඔහු තීරණය කළේ පන්සුවට පහරදීමේ අවස්ථාව ඉන්දියාවට ලබා දීමටයි.
+The referees decided to postpone the event until the year until the year 8 pm.
 
-ඒ අනුව දසුන් ශානක වෙනුවට චමිඳු වික්‍රමසිංහ කැඳවීමට බලධාරීන් තීරණය කර තිබුණි.
+The coin advantage at about 7.40 pm while Sri Lanka captain Charith was able to win the toss of the coin.
 
-මේ අතර ඉන්දීය කණ්ඩායම හාර්තික් පාණ්ඩ්‍යා, අක්සාර් පටෙල්, අර්ෂ්ඩීප් සීං සහ රිෂාබ් පාන්ට් මෙම තරගයට නම්කර නැත.
+He decided to give India the opportunity to attack the temple.
+
+Accordingly, the authorities had decided to summon Chamu Wickramasinghe instead of Views Shana.
+
+Meanwhile, the Indian team, Arshadp Sing and Rishab Bar has not been named.
 
 ◼️
 
 [Data](articles/c823a4c9.json)
+
+[Extended Data](ext_articles/c823a4c9.ext.json)
+
+---
+
+### මන්ත්‍රීවරු 92ක් ජනපතිගේ සහායට
+
+*2024-07-30 19:33:26* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීවරු-92ක්-ජනපතිගේ-සහායට/11-411102) · `si`
+
+ජනපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනපති ලේකම් කාර්යාලයේදී පැවැත්වෙන ආණ්ඩු පක්ෂයේ මන්ත්‍රී හමුවේදී ඉදිරි ජනපතිවරණයෙදී රනිල් වික්‍රමසිංහ මහතාට සහාය ලබාදෙන බවට මන්ත්‍රීවරු 92ක් ප්‍රකාශ කළ බව ජනපති මාධ්‍ය අංශය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/d50f7cd7.json)
+
+---
+
+### එක්දින නායකත්වයෙන් කුසල් ඉවතට වගකීම චරිත්ට, චාමිකටත් කණ්ඩායමේ අවස්ථාව
+
+*2024-07-30 19:28:35* · [`adalk`](https://www.ada.lk/sports/එක්දින-නායකත්වයෙන්-කුසල්-ඉවතට-වගකීම-චරිත්ට--චාමිකටත්-කණ්ඩායමේ-අවස්ථාව/9-411101) · `si`
+
+ඉන්දීය කණ්ඩායම සමගින් පැවැත්වීමට නියමිත එක්දින තරගාවලියේ නායකත්වය සඳහාද විස්සයි20 නායක චරිත් අසලංක පත්කිරීමට ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව කටයුතු කර තිබේ.
+
+ඒ අනුව එක්දින නායකත්වයෙන් කුසල් මෙන්ඩිස් ඉවත් කර තිබේ. 16 දෙනෙකුගෙන් සමන්විත මෙම සංචිතයේදී තුන් ඉරියව් ක්‍රීඩක දසුන් ශානකට අවස්ථාව අහිමි වී තිබේ. කෙසේ වෙතත් චාමික කරුණාරත්න කණ්ඩායමට කැඳවා තිබේ.
+
+◼️
+
+[Data](articles/9dfae8be.json)
 
 ---
 
@@ -259,6 +309,22 @@ As the Elections Commission announced that the 9th Presidential Elections will b
 [Data](articles/8b2ff903.json)
 
 [Extended Data](ext_articles/8b2ff903.ext.json)
+
+---
+
+### වැවිලි බෝග වලින් වැඩි අපනයන ආදායමක්
+
+*2024-07-30 18:08:57* · [`adalk`](https://www.ada.lk/breaking_news/වැවිලි-බෝග-වලින්-වැඩි-අපනයන-ආදායමක්/11-411097) · `si`
+
+තේ, රබර්, පොල් ඇතුළු වැවිලි බෝග 05කින් පසුගිය වසරේ මුල් මාස 04 තුළදී ලද අපනයන ආදායමට වඩා ඩොලර් මිලියන234ක ආදායමක් මෙම වසරේ එම කාලයෙහි ලබා තිබේ.
+
+ඒ අනුව තේ,රබර්, පොල්, කුරුඳු හා ගම්මිරිස් යන වැවිලි බෝගවලින් මෙම ආදායම ලැබී ඇති බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ ප්‍රධානත්වයෙන් එම අමාත්‍යාංශයේදී පැවති වැවිලි අංශයේ ප්‍රගතිය පිළිබඳ සාකච්ඡාවේදී  අනාවරණය විය.
+
+එහිදී වැඩිදුරටත් සඳහන් වූ පරිදි මෙම වසරේ ජනවාරි සිට අප්‍රේල් දක්වා වූ කාලයෙහි අදාළ බෝග අපනයනයෙන් ඩොලර් මිලියන 1118.06 ක් උපයා ඇති අතර 2023 වසරේ එම කාලය තුළ ඩොලර් මිලියන 234ක ආදායමක් ලබා තිබේ.
+
+◼️
+
+[Data](articles/53aa4b5a.json)
 
 ---
 
@@ -2253,93 +2319,5 @@ The 78-year-old man traveled by the road in Meetiyagoda has been treated at the 
 [Data](articles/5a640195.json)
 
 [Extended Data](ext_articles/5a640195.ext.json)
-
----
-
-### Candidates who have deposited on the presidential election
-
-*2024-07-30 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199359) · `si`
-
-The National Election Commission reports that four candidates have received funds for the upcoming presidential election.
-
-🟩
-
-The National Election Commission says that four people have been paid for the coming presidential election.
-
-◼️
-
-[Data](articles/184dc8b7.json)
-
-[Extended Data](ext_articles/184dc8b7.ext.json)
-
----
-
-### Massive fire in Wattala;Death
-
-*2024-07-30 09:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வத்தளையில்-பாரிய-தீ-ஒருவர்-மரணம்/175-341264) · `ta`
-
-In Wattala-Matagoda, a massive fire resulted in the death of a 90-year-old man. The blaze was contained thanks to resident efforts, but the victim was found with fatal burns in his home. His wife had left for her daughter's in Ratnapura prior to the incident.
-
-🟩
-
-A 90 -year -old man has died in a fire that broke out in a two -storey house in the Wattala - Matagoda area.
-
-Following the information received by the police, the fire has been brought into the fire with the help of the residents.
-
-The body has been found dead with fire injuries inside a room of the house.
-
-It is reported that the wife of the deceased had gone to his daughter's house in Ratnapura a few days ago.
-
-◼️
-
-[Data](articles/681b2be7.json)
-
-[Extended Data](ext_articles/681b2be7.ext.json)
-
----
-
-### Britain Chaudford Kathi 2 boys die: 6 boys are worried!
-
-*2024-07-30 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/189755) · `ta`
-
-In Britain, two boys died, and six others were seriously injured in a knife attack. Nine children and two adults were hurt; their conditions are concerning. The motive behind the attack remains unknown, but authorities ruled out terrorism.
-
-🟩
-
-According to the country's reports, nine more children were injured in the knife punch and the condition of six of them was worrisome and the condition of two adults was worrisome.
-
-It is not yet known why the knife was carried out, and the security unit of the country has announced that there is no terrorist attack.
-
-◼️
-
-[Data](articles/2c2fca68.json)
-
-[Extended Data](ext_articles/2c2fca68.ext.json)
-
----
-
-### Ranil is looking for heart
-
-*2024-07-30 09:54:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதயத்தை-தேடுகிறார்-ரணில்/175-341263) · `ta`
-
-In the upcoming presidential election, Sri Lanka's President Ranil Wickremesinghe is running independently and has chosen the heart symbol, one of several new symbols introduced by the Election Commission. This decision marks his first time selecting a campaign symbol, with payment for its use confirmed through a Gazette Notification.
-
-🟩
-
-President Ranil Wickremesinghe has been fielded independently in the presidential election this time. He has first paid control.
-
-The first person in the presidential election can choose the symbol of the Election Commission's introduction.
-
-The Election Commission has introduced a number of new symbols for the presidential election this year.
-
-There is also the heart symbol in those symbols. The first is that President Ranil Wickremesinghe may select the heart as a symbol of control.
-
-Gazette Notification on Friday (26). Subsequently, the control was the first to be paid on behalf of Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/0ea64608.json)
-
-[Extended Data](ext_articles/0ea64608.ext.json)
 
 ---

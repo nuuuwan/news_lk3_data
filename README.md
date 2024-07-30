@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 11:36:09**
+As of **2024-07-30 11:56:08**
 
 ## Newspaper Stats
 
-*Scraped **38,011** Articles*
+*Scraped **38,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,469
-adaderanalk | 4,402
+adaderanalk | 4,404
 tamilmirrorlk | 4,708
 dailymirrorlk | 4,733
 virakesarilk | 5,994
@@ -26,43 +26,87 @@ adaderanasinhalalk | 6,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,009 (100.0%) of 38,011 articles have been extended.
+38,011 (100.0%) of 38,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### නිවසේදී ගිනි අවියක් පත්තු වී දැරියකට තුවාල
+### S.M. Chandrasena pledges support to President Ranil
+
+*2024-07-30 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100874/sm-chandrasena-pledges-support-to-president-ranil) · `en`
+
+At the Sri Lanka Podujana Peramuna (SLPP) Anuradhapura District Committee meeting, Parliamentarian S.M. Chandrasena has announced that they have decided to support President Ranil Wickremesinghe in the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/6ccdff9c.json)
+
+---
+
+### Kerala’s Wayanad landslide: At least 41 dead, more rain predicted
+
+*2024-07-30 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/100873/keralas-wayanad-landslide-at-least-41-dead-more-rain-predicted) · `en`
+
+At least 41 people were killed and scores injured after landslides in the hills of India’s southern Kerala state, local media reported, with rescue operations obstructed after a main bridge collapsed in the region.
+
+State Health Minister Veena George said that over 70 people were injured and the Indian Express reported that many people are likely to have been washed away in the Chaliyar river.
+
+“The situation is serious. The government has pressed all agencies into rescue,” state Forest Minister A K Saseendran told Reuters after the landslides in the Wayanad district of the state. More rain was predicted through the day.
+
+The army was roped in to build a temporary bridge after a bridge in the district that linked the affected area, mostly tea and cardamom estates, to the nearest town of Chooralmala was destroyed, Saseendran added.
+
+Local news channel Asianet TV said as many as 41 people died after the landslides caused havoc in the region.
+
+...
+
+[Data](articles/f0c9b76b.json)
+
+---
+
+### Firearm fired at home and injured
 
 *2024-07-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199363) · `si`
 
-මකුළුගස්වැව, දේවහුය ප්‍රදේශයේ නිවසක් තුළදී ගිනි අවියක් ක්‍රියාත්මක වීමෙන් හත් හැවිරිදි දැරියක් තුවාල ලබා තිබේ.
+In Galkulugaswewa, a seven-year-old girl was accidentally shot by a firearm left unattended on the ground. She's now hospitalized in Dambulla for treatment.
 
-පොලීසිය පැවසුවේ නිවස පිරිසිඳු කිරීමේදී එහි තිබු ගිනි අවිය බිම වැටී ක්‍රියාත්මක වී එම අනතුර සිදුව ඇති බවය.
+🟩
 
-වෙඩි වැදීමෙන් තුවාල ලැබු දැරිය ප්‍රතිකාර සඳහා දඹුල්ල රෝහලට ඇතුළත් කර තිබේ.
+A seven-year-old girl was injured by a firearm in a house in the village area in Galkulugaswewa.
+
+Police said the firearm was on the ground and the accident had occurred.
+
+The girl who was injured in the shooting has been admitted to the Dambulla Hospital for treatment.
 
 ◼️
 
 [Data](articles/7011f955.json)
 
+[Extended Data](ext_articles/7011f955.ext.json)
+
 ---
 
-### කේරළ යේ දරුණු නායයෑමක් - විශාල පිරිසක් මරුට
+### A terrible landslide in Kerala - A large crowd
 
 *2024-07-30 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199362) · `si`
 
-ඉන්දියාවේ කේරළ ප්‍රාන්තයේ සිදුවූ නාය යෑමකින් 26 දෙනෙක් මියගොස් තවත් පිරිසක් අතුරුදන්වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+In Kerala, a devastating landslide caused by heavy rains resulted in 26 deaths and displaced others. Rescue teams are searching for survivors amidst fears of further landslides affecting the Chatarar River area.
 
-කේරළ ප්‍රාන්තයේ මෙප්පාදී නම් ප්‍රදේශයේ අද (30) එම නාය යෑම සිදුවී තිබේ.
+🟩
 
-එහි හිරවී සිටින පිරිස සොයා ආරක්ෂක අංශ සහ සහන කණ්ඩායම් මෙහෙයුමක් ආරම්භ කර ඇති බව වාර්තා වෙයි.
+The Indian media reports that 26 people were killed and another group of people died in a landslide in Kerala, India.
 
-අධික වර්ෂාව හේතුවෙන් බේරාගැනීමේ මෙහෙයුම් සඳහා බාධා එල්ල වී ඇති අතර එම නාය යෑමට ගොදුරු වූ සමහරු චලියාර් ගංගාවේ ගසා ගෙන යන්නට ඇතැයි ද සැක කෙරෙයි.
+The landslide has taken place today (30) this morning at Kerala.
+
+It is reported that a security team and relief team has been launched in search of its stuck.
+
+It is suspected that the landslides have been disrupted due to heavy rains and some of the landslides have been distributed to the Chatarar River.
 
 ◼️
 
 [Data](articles/0f242695.json)
+
+[Extended Data](ext_articles/0f242695.ext.json)
 
 ---
 
@@ -2195,45 +2239,5 @@ Age of farmer organizations have also stated that the prices of nadu and sambal 
 [Data](articles/8aeb067c.json)
 
 [Extended Data](ext_articles/8aeb067c.ext.json)
-
----
-
-### Ranil’s Travel Expenses Released By Directive Of RTI Commission; Will Anura Do The Same?
-
-*2024-07-29 17:56:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-travel-expenses-released-by-directive-of-rti-commission-will-anura-do-the-same/) · `en`
-
-On a directive by the Right to Information Commission last Thursday (July 25th 2024), the Ministry of Foreign Affairs released all information relating to the food and accommodation costs of President Ranil Wickremesinghe during travels to London, Singapore, Japan (Tokyo), Cuba (Havana), America (New York), Germany (Berlin) and China (Beijing) in 2023.
-
-The RTI Commission order came following an RTI request filed by a journalist based in the Northern Province, K Dileep Amuthan who appealed to the Commission following refusal by the Ministry to release the information saying that the ‘information was not within the purview’ of the Ministry.
-
-...
-
-[Data](articles/c722782a.json)
-
-[Extended Data](ext_articles/c722782a.ext.json)
-
----
-
-### Excessive security
-
-*2024-07-29 17:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அச்சகத்துக்கு-அதியுச்ச-பாதுகாப்பு/175-341231) · `ta`
-
-Since today, the State Press receives special police protection for printing election-related documents. A dedicated police station will ensure its security. Police investigated the printer's safety. Documents for the Election Commission have been submitted.
-
-🟩
-
-Special police protection has been provided to the State Press for printing documents related to the presidential election since today (29).
-
-It is also reported that a separate police police station is to be set up for the security of the state printing press.
-
-A team of police officers went to the printing press to investigate the security of the state printer.
-
-Government Press Officer Mrs. Kangani Kalpana Liyanage said that several documents relating to the presidential election have already been handed over to the Election Commission.
-
-◼️
-
-[Data](articles/316d555c.json)
-
-[Extended Data](ext_articles/316d555c.ext.json)
 
 ---

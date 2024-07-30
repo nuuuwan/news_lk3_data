@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 12:09:08**
+As of **2024-07-30 12:20:41**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 6,397
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,013 (100.0%) of 38,015 articles have been extended.
+38,015 (100.0%) of 38,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### පොහොට්ටුවේ අනුරාධපුර දිස්ත්‍රික් කමිටුවේ සහාය රනිල් ට
+### Ranil to support Anuradhapura District Committee of Pohon
 
 *2024-07-30 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199364) · `si`
 
-එළැඹෙන ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ට සහාය දීමට ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් කමිටුව තීරණය කර තිබේ.
+The Anuradhapura District Committee of the Sri Lanka Knowledge supports President Ranil Wickremesinghe in the upcoming presidential election.
+
+🟩
+
+The Anuradhapura District Committee of the Sri Lanka Knowledge has decided to support President Ranil Wickremesinghe at the upcoming presidential election.
 
 ◼️
 
 [Data](articles/d4d4ada1.json)
+
+[Extended Data](ext_articles/d4d4ada1.ext.json)
 
 ---
 
@@ -728,17 +734,25 @@ From time to time in the rest of the island.. The Department of Meteorology anno
 
 ---
 
-### ඉදිරි ජනාධිපතිවරණයේදී ඡන්දදායකයින් ලක්ෂ 7කට ඡන්දවරම් අහිමි වෙයි ද?
+### Will seven lakhs of voters fall off in the next presidential election?
 
 *2024-07-30 04:34:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4ngld3q1y4o) · `si`
 
-මැතිවරණ දිනය ප්‍රකාශයට පත් කිරීමටත් ප්‍රථම ඇරඹි ජනාධිපතිවරණ උණුසුම තවත් තීව්‍ර කරමින් පසුගිය සතියේ දී මැතිවරණ කොමිසම විසින් 2024 ජනාධිපතිවරණය සැප්තැම්බර් 21 වන දින පැවැත්වෙන බවට නිල වශයෙන් නිවේදනය කරන ලදි. ඒ අනුව මේ වන විට අපේක්ෂකයන් කිහිපදෙනෙකු වෙනුවෙන් ඇප මුදල් තැන්පත් කිරීම සිදු කෙරී ඇති අතර, බොහෝ අපේක්ෂකයන් ජනාධිපතිවරණයටත් ප්‍රථම ආරම්භ කළ සිය පූර්ව ප්‍රචාරක කටයුතු තවත් පුළුල්ව කරගෙන යමින් පවතියි.
+The text discusses concerns about seven lakh voters potentially being unable to vote in the upcoming 2024 Sri Lankan Presidential Election due to various challenges such as lack of postal voting facilities for certain groups like public servants, prisoners, and foreign workers, among others. It highlights the need for reforms to ensure all eligible voters can exercise their right to vote, including expanding postal voting and addressing legal barriers faced by specific demographics.
 
-ශ්‍රී ලංකාවේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව පරමාධිපත්‍ය බලය ජනතාව වෙත පිහිටා ඇති අතර, එයට පාලකයන් තෝරා පත් කරගැනීම සඳහාවන ඡන්ද අයිතිය ද ඇතුළත් වේ. නමුත් ශ්‍රී ලංකාවේ ඡන්ද ක්‍රමයේ පවතින අඩුපාඩු හේතුවෙන් ඡන්ද බලය හිමි සැලකිය යුතු ඡන්ද හිමියන් සංඛ්‍යාවක් මැතිවරණවල දී අත් හැරෙන බව ඔබ දැන සිටියා ද?
+🟩
+
+The Presidential Election was officially announced that the Presidential Election 2024 was held on 21st September, intensifying the election date first.. Accordingly, several candidates have been deposited for several candidates, and many candidates have commenced its pre-propaganda work.
+
+The Constitution of Sri Lanka is the sovereignty power to the people and includes the voting ownership to elect orders. But did you know that the shortcomings of the election of the election campaign will be abandoned in elections?
+
+On a campaign, all citizen is the common method that has been a common method for the years to go to the polling center in terms of registration. There is a privilege of postal voting for public servants who participate in election duties, police and the three armed forces. They have come back to their polling station during their duties and introduced their difficulties to the voter turnout.
 
 ...
 
 [Data](articles/980fa7e1.json)
+
+[Extended Data](ext_articles/980fa7e1.ext.json)
 
 ---
 

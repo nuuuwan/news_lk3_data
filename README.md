@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 10:07:14**
+As of **2024-07-30 10:20:32**
 
 ## Newspaper Stats
 
-*Scraped **37,998** Articles*
+*Scraped **37,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 4,401
 tamilmirrorlk | 4,705
 dailymirrorlk | 4,733
 virakesarilk | 5,993
-adaderanasinhalalk | 6,391
+adaderanasinhalalk | 6,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,992 (100.0%) of 37,998 articles have been extended.
+37,998 (100.0%) of 37,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### ජනාධිපතිවරණය සඳහා මෙතෙක් ඇප තැන්පත් කර ඇති අපේක්ෂකයින්
+
+*2024-07-30 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199359) · `si`
+
+එළැඹෙන ජනාධිපතිවරණය සඳහා මෙතෙක් සිව් දෙනෙක් ඇප මුදල් තැන්පත් කර ඇති බව ජාතික මැතිවරණ කොමිසම පවසයි.
+
+◼️
+
+[Data](articles/184dc8b7.json)
+
+---
 
 ### Cabinet nod to draft legislation to resolve Sri Lanka Cricket issues
 
@@ -42,23 +54,31 @@ The Cabinet of Ministers has approved the drafting of necessary legislation base
 
 [Data](articles/c1939102.json)
 
+[Extended Data](ext_articles/c1939102.ext.json)
+
 ---
 
-### බිත්තර ආනයනයට කැබිනට් අනුමැතිය
+### Cabinet approval for importing eggs
 
 *2024-07-30 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199358) · `si`
 
-දේශීය වෙළෙඳපොළේ බිත්තර මිල ස්ථායීකරණය සඳහා බිත්තර ආනයනය කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+The Sri Lankan Cabinet approved egg imports to stabilize local markets and support the bakery industry during Ramadan and Christmas. The government imported 224 million eggs, with 95% distributed through Lanka Sathosa at a set price.
 
-එළඹෙන රාමසාන් සහ නත්තල් උත්සව කාලසීමාවන් තුළ ද වෙළෙඳපොළ බිත්තර මිල ස්ථායීකරණය කිරීමට සහ කේක් ඇතුළු බේකරි නිෂ්පාදන කර්මාන්තයට අවශ්‍ය බිත්තර සැපයීමට හැකි වනු පිණිස වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍යතුමා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලදී.
+🟩
 
-2024-03-18 දිනැති අමාත්‍ය මණ්ඩල තීරණය පරිදි ශ්‍රී ලංකා රජයේ වාණිජ (විවිධ) නීතිගත සංස්ථාව විසින් මේ වනවිට බිත්තර මිලියන 224ක් ආනයනය කර ඇත.
+Cabinet approval has been granted to import eggs for the prices of eggs in the local market.
 
-ඉන් 95%ක ප්‍රමාණයක් ලංකා සතොස අලෙවි ජාලය හරහා බිත්තරයක් රුපියල් 37/-ක දැරිය හැකි මිලකට පාරිභෝගික ජනතාව වෙත බෙදා හැර ඇති අතර, බිත්තර ආනයනය කිරීමට ලබා දී ඇති කාලසීමාව 2024-04-30 දිනෙන් අවසන් විය.
+The proposal submitted by the Cabinet of Trade, Commerce and Food Security, was approved by the Cabinet of Trade, Commerce and Food Surveying to stabilize the market eggs and the bakery production industry in the coming Ramadan and Christmas Celebrations.
+
+The Government of Sri Lanka has imported 224 million eggs by the Cabinet (Various) of the Cabinet (Miscellaneous) of the Cabinet (Miscellaneous) of the Cabinet of Ministers dated.
+
+95% of them have been distributed by the Lanka Sathosa market at a cost of Rs.
 
 ◼️
 
 [Data](articles/b6193ec5.json)
+
+[Extended Data](ext_articles/b6193ec5.ext.json)
 
 ---
 
@@ -71,6 +91,8 @@ The Cabinet of Ministers has approved a proposal to import eggs in order to stab
 ◼️
 
 [Data](articles/aed8fc54.json)
+
+[Extended Data](ext_articles/aed8fc54.ext.json)
 
 ---
 
@@ -94,19 +116,27 @@ The President’s message was directed at those who supported him from the outse
 
 ---
 
-### ரணிலுக்கு ஆதரவளிப்பதற்கு தீர்மானித்துள்ள மேலும் பல பொதுஜன பெரமுன எம்.பி.க்கள்
+### Many more PA MPs have decided to support Ranil
 
 *2024-07-30 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189751) · `ta`
 
-திலும் அமுனுகம, அனுப பஸ்குவல், கீதா குமாரசிங்க, அஜித் ராஜபக்ஷ, எஸ்.பி.திஸாநாயக்க, பிரேம்நாத் சி தொலவத்த, காஞ்சன விஜேசேகர உள்ளிட்ட எம்.பி.க்களும் ஜனாதிபதி ரணிலுக்கு ஆதரவளிக்க தீர்மானித்துள்ளனர்.
+Several PA MPs, including key figures like Tilum Amunugama and Anupa Paskal, have pledged support for President Ranil Wickremesinghe. This decision comes after a vote within the Sri Lanka PA's political committee over fielding a candidate for the budget, where 11 MPs opposed the resolution. Despite internal disagreements, the group has unified behind Ranil, with notable endorsements from Defense Minister Bandara Tennakoon and Finance Minister Sehan Semasinghe.
 
-மொட்டு சின்னத்தில் வேட்பாளர் ஒருவர் களமிறக்கப்பட வேண்டும் என நேற்று திங்கட்கிழமை இடம்பெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் குழு கூட்டத்தில் தீர்மானிக்கப்பட்டது. எவ்வாறிருப்பினும் அந்த தீர்மானத்துக்கு எதிராக 11 எம்.பி.க்கள் தமது வாக்குகளை அளித்திருந்தனர்.
+🟩
 
-இந்நிலையில் நேற்று இரவு மேற்குறிப்பிட்ட எம்.பி.க்கள் கொழும்பில் கூடி தமது நிலைப்பாடு தொடர்பில் கலந்தாலோசித்துள்ளனர். அதற்கமைய பெரும்பான்மை உறுப்பினர்களின் நிலைப்பாடுகளை ஏற்காமல் பொதுஜன பெரமுன வேட்பாளரைக் களமிறக்குவதற்கு தீர்மானித்துள்ளதால், தாம் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிக்கவுள்ளதாக இவர்கள் தெரிவித்துள்ளனர்.
+MPs including Tilum Amunugama, Anupa Paskal, Geeta Kumarasinghe, Ajith Rajapaksa, SP Dissanayake, Premnath C Tolawatta and Kanchana Wijesekera have decided to support President Ranil.
 
-...
+The Sri Lankan PA's political committee was decided at the Sri Lanka PA on Monday that a candidate should be fielded on the budget. However, 11 MPs cast their votes against the resolution.
+
+In this backdrop, MPs gathered in Colombo last night and discussed their position. They have said that they will support President Ranil Wickremesinghe as they have decided to field a PA candidate without accepting the positions of the majority.
+
+In this backdrop, Defense Minister Bandara Tennakoon has announced that he will support President Ranil Wickremesinghe and subsequently announced that the Minister of Finance Sehan Semasinghe will support President Ranil Wickremesinghe.
+
+◼️
 
 [Data](articles/8450ac94.json)
+
+[Extended Data](ext_articles/8450ac94.ext.json)
 
 ---
 
@@ -162,35 +192,49 @@ The mother said that the blood flow was continuously leaking due to the loss of 
 
 ---
 
-### தலவாக்கலையில் பாண் விலையில் மாற்றமில்லை ; மக்கள் விசனம்
+### There is no change in the price of the pan in Talawakelle;Grief
 
 *2024-07-30 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/189748) · `ta`
 
-கடந்த சில தினங்களுக்கு முன் 450g நிறை கொண்ட பாணின் விலை 10 ரூபாவினால் குறைக்கப்பட்டுள்ளது.
+The price of pans remains unchanged in Talawakelle, but the 450g massive style pan's price was reduced by 10 rupees, now selling for 140 rupees. This has caused excitement among the public.
 
-இந்நிலையில், நுவரெலியா மாவட்டத்தின் தலவாக்கலை நகரிலுள்ள வெதுபகங்களில் 450g நிறை கொண்ட பாண்  140 ரூபாய்க்கு விற்பனை செய்யப்பட்டு வருகின்றது.
+🟩
 
-மேலும், வெதுப்பக  உற்பத்தி பொருட்களின் விலைகளும் காட்சிப்படுத்தப்படாத நிலையிலேயே காணப்படுகின்றன என பொதுமக்கள் தெரிவிக்கின்றனர்.
+A few days ago, the price of 450G -massive style has been reduced by 10 rupees.
+
+In this case, the 450G masses of the Talawakkalai city of Nuwara Eliya district are being sold for 140 rupees.
+
+In addition, the public is reported to be in a state of exhibition.
 
 ◼️
 
 [Data](articles/688b1bc3.json)
 
+[Extended Data](ext_articles/688b1bc3.ext.json)
+
 ---
 
-### கிராம சேவகரின் உதவியாளர் மக்கள் நலத்திட்டங்களில் பாகுபாடு காட்டுவதாக பெண்ணொருவர் போராட்டம்!
+### Woman struggles to discriminate against Grama Niladhari's assistant
 
 *2024-07-30 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189749) · `ta`
 
-யாழ்ப்பாணம், நவாலி வடக்கு ஜே/134 கிராம சேவகர் பிரிவில் கிராம சேவகரின் உதவியாளராக பெண்ணொருவர் செயற்பட்டு உதவித் திட்டங்களில் பாகுபாடு காட்டுவதாக தெரிவித்து பொண்ணொருவர் திங்கட்கிழமை (29) குறித்த கிராம சேவகர் அலுவலகத்திற்கு முன்னால் போராட்டத்தில் ஈடுபட்டார்.
+A woman protested against discrimination by a Grama Niladhari's assistant in Sri Lanka, alleging unfair distribution of aid and lack of transparency in public meetings. The assistant reportedly favored certain individuals and failed to notify all about these meetings. The woman claimed her complaints were ignored, leading to further protests. She threatened legal action against terrorism prevention units, highlighting systemic issues within the government's support systems.
 
-வருகின்ற உதவித் திட்டங்களை தனக்கு விரும்பியவர்களுக்கு வழங்குவதாகவும், பொதுக் கூட்டங்களுக்கு சமூகமட்ட பொது அமைப்புகளுக்கு அறிவித்தல் வழக்குவதில்லை எனவும், பொதுவான இடங்களில் கூட்டத்திற்கான அழைப்பு அறிவித்தல் ஒட்டப்படுவதில்லை எனவும், தனக்கு விரும்பியவர்களுக்கு தொலைபேசி மூலம் அறியத் தருவதாகவும் குற்றம் சாட்டினார்.
+🟩
 
-இது தொடர்பான முறைப்பாட்டை தான் ஏற்கனவே அரசாங்க அதிபர் மட்டத்துக்கு கொண்டு சென்ற நிலையில் இதற்கு முன்னர் இருந்த கிராம சேவகர் ஒருவர் இடமாற்றம் செய்யப்பட்டார் என்றும், புதிதாக வந்த கிராம சேவகரும் ஒரு வருடம் கழிந்த நிலையில் அந்த பெண்ணின் கருத்துப்படியே செயற்படுவதாகவும் குற்றம் சாட்டினார்.
+In the Nawali North J/134 Grama Niladhari Division, a Grama Niladhari Division was involved in a protest in front of the Grama Sevaka office on Monday (29), who was discriminating against a woman as a Grama Niladhari's assistant.
+
+He accused the coming aid schemes to those who wanted to, and that the public meetings were not notified of socially public organizations, and that the invitation would not be pasted in general places, and that the telephone would be known to those who wanted.
+
+He alleged that the complaint was already transferred to the government agency, and that a previous Grama Niladhari had been transferred and the newly arrived village servant was acting according to the woman's opinion.
+
+He also said that the government's livelihoods are discriminated against. While he repeatedly stated that he should not do so, he claims that he would refuse terrorism by a letter to the Terrorism Prevention Unit and called for a revenge.
 
 ...
 
 [Data](articles/100a9c97.json)
+
+[Extended Data](ext_articles/100a9c97.ext.json)
 
 ---
 
@@ -2193,31 +2237,5 @@ The lawyers who sat for the estate company were produced before the Magistrate's
 [Data](articles/23d773f4.json)
 
 [Extended Data](ext_articles/23d773f4.ext.json)
-
----
-
-### Money fraud from Thera's account
-
-*2024-07-29 16:33:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேரரின்-கணக்கில்-இருந்து-பணம்-மோசடி/76-341228) · `ta`
-
-In Badulla, two individuals posing as telecom workers stole a monk's phone and SIM card. They later called him, pretending to be from the bank, asking for account details under false pretenses. The monk discovered the theft after trying to use his phone for an event, finding it without a SIM card. He suspects the fraudsters used his bank details to withdraw 650,000 rupees, intended for his kidney treatment. He reported the incident to the police, who are investigating the case.
-
-🟩
-
-The Badulla police said that two youths who came to the Vihara in Badulla claimed that they were employees of a telephone company, stealing SIMCard on the cell phone of the Vihara Thera's cell phone.
-
-Thera has recently received a phone call from the bank. In it, the government has ordered the bank to provide the account details as the government has ordered to reduce the VAT fee related to the account.. Thera had then provided all his bank details.
-
-A few days later, two unidentified youth who came to the Vihara asked if there was any problem on the cell phone. Whenever he calls on the phone, he has given the phone to the young people because he hears a different noise.
-
-The suspects, who had been repairing the phone, had received the phone calling for a text message to our company and then left the idol, giving it a re -gratitude.
-
-After a while, thera tried to take an invitation, and when the phone was not working, it was revealed that there was no SIM card.
-
-...
-
-[Data](articles/f9291d0e.json)
-
-[Extended Data](ext_articles/f9291d0e.ext.json)
 
 ---

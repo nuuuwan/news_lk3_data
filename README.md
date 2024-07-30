@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 09:36:06**
+As of **2024-07-30 09:55:08**
 
 ## Newspaper Stats
 
-*Scraped **37,990** Articles*
+*Scraped **37,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,83 @@ islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,466
-adaderanalk | 4,398
+adaderanalk | 4,399
 tamilmirrorlk | 4,705
 dailymirrorlk | 4,733
 virakesarilk | 5,990
-adaderanasinhalalk | 6,389
+adaderanasinhalalk | 6,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,989 (100.0%) of 37,990 articles have been extended.
+37,990 (100.0%) of 37,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### மன்னாரில் இளம் தாய் பரிதாபமாக மரணம் - வைத்தியசாலை மீது குற்றச்சாட்டு
+### President Ranil thanks MPs who supported him in social media post
+
+*2024-07-30 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100870/president-ranil-thanks-mps-who-supported-him-in-social-media-post) · `en`
+
+President Ranil Wickremesinghe expressed his gratitude to all Members of Parliament who have supported him, in a special post on his official Facebook and ‘X’ accounts last night (29).
+
+The President’s message was directed at those who supported him from the outset, those who joined midway as well as MPs joining him now and those yet to join him.
+
+“I want to thank the MPs who’ve been with me on this journey. To those who stood by me from the start, your support made the first steps we took to recovery possible. You believed in me and my plan when the country was in crisis, with people struggling for fuel, medicine, and essentials. Your commitment kept us going when the challenges seemed insurmountable.
+
+“To the MPs who joined midway, you saw the progress and chose to be part of the change. Thank you.
+
+...
+
+[Data](articles/9263e507.json)
+
+---
+
+### පළමු කාර්තුවේ කොළඹ වරායේ ආදායම ඩොලර් මිලියන 50 පනී
+
+*2024-07-30 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199357) · `si`
+
+කොළඹ වරාය මේ වසර තුළ විශිෂ්ට වර්ධන වේගයක් වාර්තා කරමින් මෙහෙයුම් කාර්ය සාධනයේ සැලකිය යුතු ප්‍රගතියක් අත්කරගෙන ඇති බව වරාය නාවික හා ගුවන්සේවා අමාත්‍යංශයේ ලේකම් කේ. ඩී. එස් රුවන්චන්ද්‍ර මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ මේ වසරේ පළමු කාර්තුව තුළ කොළඹ වරාය අමෙරිකානු ඩොලර් මිලියන 50ක ආදායමක් ලබාඇති බවය.
+
+ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් කේ.ඩී.එස් රුවන්චන්ද්‍ර මහතා ඒ බව සඳහන් කළේය.
+
+මේ අතර ගුවන් සේවා මෙහෙයුම් ද 2023 වර්ෂයට සාපේක්ෂව මේ වසරේ දී සියයට 25ක ප්‍රගතියක් වාර්තා කර ඇති බව වරාය නාවික හා ගුවන්සේවා අමාත්‍යංශයේ ලේකම් කේ.ඩී.එස් රුවන්චන්ද්‍ර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d58e8aab.json)
+
+---
+
+### Young mother miserably death in Mannar
 
 *2024-07-30 09:06:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-இளம்-தாய்-பரிதாபமாக-மரணம்-வைத்தியசாலை-மீது-குற்றச்சாட்டு/72-341260) · `ta`
 
-மன்னார் - மதவாச்சி பிரதான வீதி, தம்பனைக்குளம்  பகுதியைச் சேர்ந்த பட்டதாரியான இளம் தாய் ஒருவர் ஞாயிற்றுக்கிழமை உயிரிழந்தார்.
+In Mannar, a young mother, Mariaraj Sindhuja, tragically passed away at the age of 27, leaving behind a newborn. She underwent surgery at Murugan Hospital but suffered severe bleeding post-surgery, leading to her untimely demise. Her mother alleges negligence, suggesting timely intervention could have saved her life. The health department has been urged to investigate this incident.
 
-மரணமடைந்த இளம் தாய் பட்டப்படிப்பை நிறைவு செய்த  மரியராஜ் சிந்துஜா வயது (27)  என தெரிய வந்துள்ளது.
+🟩
 
-இறந்த இளம் தாய்க்கு முதலாவது ஆண் குழந்தை  மன்னார் மாவட்ட பொது வைத்தியசாலையில்   கடந்த 09ம் திகதி பிறந்துள்ளது. 11ம் திகதி  மருத்துவமனையில் இருந்து தாய் சேய் நலமாக வெளியேறியுள்ளார்கள்.
+A graduate of a graduate from Thambanakkulam, Mannar - Madhavachi main road, died on Sunday.
 
-7 நாட்களின் பின்னர் முருங்கன் வைத்தியசாலையில் தையல் வெட்டுமாறு  கூறியதையடுத்து  கடந்த 16ம் திகதி முருங்கன் வைத்தியசாலையில் தையல் வெட்டப்பட்டதாக  இறந்த பெண்ணின் தாயார் தெரிவித்தார். தனது மகளை அவரே  மருத்துவமனையில் வைத்து பராமரித்து வந்துள்ளார்.
+Mariaraj Sindhuja, who has completed his degree in the deceased young mother, is reported to be the age of 27.
 
-அதன் பின்னர் கடந்த சனிக்கிழமை (27) தாய்க்கு  குருதிப் பெருக்கு ஏற்பட்டதை அடுத்து அன்று இரவு  நோயாளர் காவு வண்டி மூலம்  மன்னார் மாவட்ட பொது வைத்தியசாலைக்கு கொண்டு சென்று  ஓ.பி.டி பதிவுகளின் பின்னர் உரிய நோயாளர் விடுதியில் அனுமதிக்கப்பட்டார்.
+The first child of the deceased young mother was born on the 9th of last month at the Mannar District General Hospital. Mother Chey has left the hospital on the 11th.
+
+The mother of the deceased woman said that the sewing was cut at the Murugan Hospital on the 16th after he was asked to cut off the Murugan Hospital 7 days later.. He has taken care of his daughter in the hospital.
+
+Following the bloodbath last Saturday (27), the mother was taken to the Mannar District General Hospital on the night of the night and was admitted to the appropriate patient hostel after the OPD registration.
+
+The mother said that the blood flow was continuously leaking due to the loss of self -mindedness at six o'clock in the morning.
 
 ...
 
 [Data](articles/c79dfe41.json)
+
+[Extended Data](ext_articles/c79dfe41.ext.json)
 
 ---
 
@@ -2199,49 +2243,5 @@ Meanwhile, a discussion between the country’s security chiefs and Election Com
 [Data](articles/f14e8afa.json)
 
 [Extended Data](ext_articles/f14e8afa.ext.json)
-
----
-
-### I am also ready
-
-*2024-07-29 15:57:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானும்-தயார்/175-341226) · `ta`
-
-Dhammika Perera, a Sri Lanka PA parliamentarian, announced his readiness to run in the upcoming presidential election, expressing willingness to do so if the party offers him the chance.
-
-🟩
-
-Sri Lanka PA's parliamentarian Dhammika Perera says he is ready to contest the presidential election.
-
-Speaking at the Sri Lanka PA's Peramunu Youth Conference held in Colombo, he said that if the party was given the opportunity.
-
-◼️
-
-[Data](articles/93718b5f.json)
-
-[Extended Data](ext_articles/93718b5f.ext.json)
-
----
-
-### An urgency of North Korea
-
-*2024-07-29 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199336) · `si`
-
-North Korea faces a state of urgency due to severe flooding caused by heavy rains. Leader Kim Jong Un has responded to the crisis affecting thousands, with foreign media highlighting his efforts amidst widespread damage, particularly in the Uiju area where over 4,000 individuals were rescued.
-
-🟩
-
-Due to the flooding with heavy rain, a state of urgency has been announced.
-
-The North Korean leader King King Ki Jon has taken this step by considering thousands of persons suffering from disaster.
-
-Foreign media has also posted a photograph of the North Korean leader's vehicles on a road causing floods.
-
-The majority of floods have been influenced by the ladies, Uiuja areas and more than 4,000 people affected by the aircraft have been rescued.
-
-◼️
-
-[Data](articles/107b00f5.json)
-
-[Extended Data](ext_articles/107b00f5.ext.json)
 
 ---

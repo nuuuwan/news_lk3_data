@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 07:49:36**
+As of **2024-07-30 08:05:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,978 (100.0%) of 37,980 articles have been extended.
+37,980 (100.0%) of 37,980 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,19 +86,27 @@ The operation of the Colombo Port has made significant improvement. Colombo port
 
 ---
 
-### ’உள்நாட்டுப் போர் ஏற்படுவதைத் தடுக்க முடியாது’
+### Can't prevent civil war
 
 *2024-07-30 02:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்நாட்டுப்-போர்-ஏற்படுவதைத்-தடுக்க-முடியாது/175-341257) · `ta`
 
-அடுத்த ஜனாதிபதித் தேர்தலில் சம்பிரதாய அரசியல் சித்தாந்தங்களை பின்பற்றினால் நாட்டில் மீண்டும் உள்நாட்டு யுத்தம் ஏற்படும் அபாயம் இருக்கின்றது எனவும் அவ்வாறானதொரு நிலை ஏற்பட்டால் அதற்கு சம்பந்தப்பட்ட தரப்பினர் பொறுப்பேற்க வேண்டும் என்றும் பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன சுட்டிக்காட்டினார்.
+Vajira Abeywardena warns of potential civil war risks based on political ideologies in Sri Lanka's upcoming presidential election. He urges responsible voting to avoid repeating history.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-எதிர்வரும் செப்டெம்பர் 21 ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் இந்த நாட்டின் 09 ஆவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியைத் தெரிவு செய்வதற்கான முக்கியமான தேர்தலாக அமையும். தற்போது பழைய அரசியல் கட்சிகள் சம்பிரதாய முறையில் அரசியல் பிரச்சாரத்தை தொடர முடியாத நிலை ஏற்பட்டுள்ளது.
+Parliamentarian Vajira Abeywardena pointed out that if the formal political ideologies of the next presidential election are followed, there is a risk of re -civil war in the country and that the parties involved should take responsibility in the event of such a situation.
 
-...
+Parliamentarian Vajira Abeywardena said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+The upcoming presidential election on September 21 will be an important election for the country's 9th executive president.. At present, the older political parties are unable to continue their political campaign.
+
+More. There was also a civil struggle against the past regime. So, will people use their votes again to create a situation like the third civil war again?Or, the question of whether they will use their votes on September 21 to prevent such a situation from occurring.. (A)
+
+◼️
 
 [Data](articles/d96ccf81.json)
+
+[Extended Data](ext_articles/d96ccf81.ext.json)
 
 ---
 
@@ -1102,21 +1110,27 @@ In addition, the police expressed fierce opposition and forcibly seized the Maha
 
 ---
 
-### සජිත්ගේ උත්සව තුනක් මැකෝ නවත්වයි
+### Three Sajith's festivals stop Mac
 
 *2024-07-29 19:10:07* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ගේ-උත්සව-තුනක්-මැකෝ-නවත්වයි/11-411080) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ  සහාභාගිත්වයෙන් අම්පාර දිස්ත්‍රික්කයේ පාසැල් තුනකට සුහුරු පන්ති කාමර දීමට සුදානම් කර තිබු අතර මැතිවරණ කොමිසම මැදිහත්විමෙන් එම උත්සව තුන  අවලංගු කර තිබේ.
+Opposition Leader Sajith Premadasa planned to donate classrooms to three Ampara District schools but faced cancellation by the Elections Commission due to complaints. The commission intervened, leading to the cancellation of the event.
 
-අම්පාර දිස්ත්‍රික්කයේ  අම්පාර සද්ධාතිස්ස ජාතික පාසැල,මඩවලලන්ද ජාතික පාසැල , සහ සේනාගම මහා විදුහලට  මෙම සුහුරු පන්ති කාමර ලබාදිමට නියමිතව තිබූ අතර එම සුහුරු පන්ති කාමර සකස් කිරීමටද සමගි ජන බලවේගය විසින් කටයුතු කර ඇත.
+🟩
 
-මේ පිළිබඳව  අම්පාර සහකාර මැතිවරණ කොමසාරිස් කසුන් ශ්‍රිනාත් අත්තනායක මහතාට පැමිණිලි කිහිපයක් ලැබී තිබුණු අතර පසුව ඔහු මේ සම්බන්ධයෙන් මැතිවරණ කොමිසම දැනුවත් කර තිබේ.
+The Opposition Leader Sajith Premadasa has been prepared to give a houral classrooms to three schools in the Ampara District and the Elections Commission has been canceled.
 
-එ අනුව මැතිවරණ කොමිසම මගින් මෙම උත්සව නවත්වන ලෙසට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට දැනුම් දි ඇත. ඒ අනුව මෙම උත්සවය අවලංගු කර එම විදුහල් තුනේ සුහුරු පන්ති කාමරවල සවි කර තිබු උපකරණ සමගි ජන බලවේගය විසින්   ඉවත් කරගෙන ගොස් තිබේ.
+Saddhatissa National School, Ampara, Ampara, is due to be given to the Madawala Maha Vidyalaya, and Senegama Maha Vidyalaya have also been prepared by the folk force.
+
+The Ampara Assistant Elections Commissioner Kasun Sandath Attanayake has received several complaints and he has informed the Elections Commission in this regard.
+
+Accordingly, the Leader of the Opposition has informed opposition leader Sajith Premadasa to stop these ceremonies by the Elections Commission. Accordingly, the festival has been canceled and evacuated by the harmony power which was mounted in the next area of ​​three schools.
 
 ◼️
 
 [Data](articles/df03d541.json)
+
+[Extended Data](ext_articles/df03d541.ext.json)
 
 ---
 

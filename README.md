@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 21:20:58**
+As of **2024-07-30 21:36:03**
 
 ## Newspaper Stats
 
-*Scraped **38,109** Articles*
+*Scraped **38,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
-adalk | 3,487
+adalk | 3,488
 adaderanalk | 4,413
 tamilmirrorlk | 4,725
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,109 (100.0%) of 38,109 articles have been extended.
+38,109 (100.0%) of 38,110 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -263,6 +263,26 @@ Meanwhile, a group of Ministers, including those who opposed the proposal brough
 [Data](articles/6331e0a4.json)
 
 [Extended Data](ext_articles/6331e0a4.ext.json)
+
+---
+
+### පාඨලීගේ පක්ෂයේ ඉහළම පුද්ගලයෙක් එජාපයට
+
+*2024-07-30 18:51:04* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලීගේ-පක්ෂයේ-ඉහළම-පුද්ගලයෙක්-එජාපයට/11-411100) · `si`
+
+එක්සත් ජනරජ පෙරමුණේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ හිටපු පළාත් සභා මන්ත්‍රී නිශාන්ත ශ්‍රී වර්ණසිංහ මහතා අද (30දා) එක්සත් ජාතික පක්ෂයේ සාමාජිකත්වය ලබා ගත්තේය.
+
+ඒ සිරිකොත පක්ෂ මූලස්ථානයේ දී එක්සත් ජාතික පක්ෂයේ මහ ලේකම් පාලිත රංගේ බණ්ඩාර මහතා අතිනි. එම මහතාගේ බිරිඳ වන කල්හාරි සුබෝදා අධිකාරි මහත්මිය ද එම අවස්ථාවේදී එක්සත් ජාතික පක්ෂයේ සාමාජිකත්වය ලබා ගත්තාය.
+
+වර්තමාන ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආර්ථික වැඩපිළිවෙළට සහාය දක්වමින් ඉදිරි ජනාධිපතිවරණයේදී කොන්දේසි විරහිතව සහාය දක්වන්නට සූදානම් බව ද නිශාන්ත ශ්‍රී වර්ණසිංහ මහතා එහිදී ප්‍රකාශ කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ බණ්ඩාරගම ආසනයේ සංවිධායක ලෙස කටයුතු කළ ගිහාන් පෙරේරා මහතා අද (30දා) සිරිකොත පක්ෂ මූලස්ථානයේ දී එක්සත් ජාතික පක්ෂයේ මහ ලේකම් පාලිත රංගේ බණ්ඩාර මහතා අතින් පක්ෂ සාමාජිකත්වය ලබා ගත්තේය.
+
+ර්තමාන ජනාධිපතිවරයාගේ ඉදිරි වැඩපිළිවෙළට සහාය දක්වමින් ජනාධිපතිවරණයේදී ඔහු වෙනුවෙන් සහාය දැක්වීමට සූදානම් බව ද මෙහිදී ඔහු ප්‍රකාශ කර සිටියේය. මේ අවස්ථාවට කළුතර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් විජේමාන්න මහතාද එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/9422f682.json)
 
 ---
 
@@ -2317,29 +2337,5 @@ His announcement came hours after the ruling Sri Lanka Podujana Peramuna (SLPP) 
 [Data](articles/29e18203.json)
 
 [Extended Data](ext_articles/29e18203.ext.json)
-
----
-
-### New constitution for Sri Lankan cricket
-
-*2024-07-30 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199361) · `si`
-
-A new constitution for Sri Lankan cricket is underway, aimed at addressing its challenges. Retired Supreme Court Judge K.T. is leading the restructuring under the guidance of the Minister of External Affairs. The cabinet has approved drafting the legal framework based on the Artiri Report's recommendations. A committee, led by Chithrasiri, has been appointed to finalize this constitution. The Minister of External Affairs and Labor will advise on implementing this proposed structure.
-
-🟩
-
-KT to solve problems facing the SLC. Cabinet approval has been granted to draft the necessary legals based on the recommendations of the Artiri Report.
-
-Retired Supreme Court Judge K.Th was drafting a new structure for Sri Lankan cricket to meet the issues headed by the Minister of External Affairs.. At the Cabinet Meeting of the Cabinet Meeting has been granted to appoint a committee headed by Chithrasiri.
-
-Accordingly, the committee has drafted the new constitution for the Sri Lanka Cricket.
-
-Minister of External Affairs, Labor and External Affairs and the Combined Motion to advise on the implementation of the proposed SLC structure to formulate and implement a Bill.Was on.
-
-◼️
-
-[Data](articles/2c674c77.json)
-
-[Extended Data](ext_articles/2c674c77.ext.json)
 
 ---

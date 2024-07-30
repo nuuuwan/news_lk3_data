@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 08:36:00**
+As of **2024-07-30 08:55:38**
 
 ## Newspaper Stats
 
-*Scraped **37,984** Articles*
+*Scraped **37,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,466
-adaderanalk | 4,396
+adaderanalk | 4,398
 tamilmirrorlk | 4,703
 dailymirrorlk | 4,733
 virakesarilk | 5,990
-adaderanasinhalalk | 6,388
+adaderanasinhalalk | 6,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,984 (100.0%) of 37,984 articles have been extended.
+37,984 (100.0%) of 37,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### Two children killed, 9 injured in ‘ferocious’ knife attack, UK police say
+
+*2024-07-30 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100868/two-children-killed-9-injured-in-ferocious-knife-attack-uk-police-say) · `en`
+
+Two children were stabbed to death at a Taylor Swift-themed event in northwest England, and a 17-year-old male suspect was arrested, police said on Monday.
+
+He was held on suspicion of murder and attempted murder. Nine other children were wounded, six of them critically, and two adults were in a critical condition.
+
+“We believe that the adults who were injured were bravely trying to protect the children,” said Chief Constable Serena Kennedy from Merseyside Police.
+
+She said emergency services arriving at the scene found “multiple people, many of whom were children, had been subjected to a ferocious attack and had suffered serious injuries.”
+
+An advertisement posted online described the event as a yoga and dance workshop for children aged between six and 11.
+
+Merseyside Police said the motive for the attack was unclear but it was not believed to be terrorism-related and they were not looking for anyone else in connection with the stabbings.
+
+...
+
+[Data](articles/5fc7daf0.json)
+
+---
+
+### Group of SLPP Ministers and MPs express support to President Ranil
+
+*2024-07-30 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100869/group-of-slpp-ministers-and-mps-express-support-to-president-ranil) · `en`
+
+Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their own candidate in the upcoming Presidential election, a group of SLPP MPs and Ministers have expressed their support for President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/eae48b45.json)
+
+---
+
+### පොහොට්ටුවේ තවත් අය ජනපති වෙනුවෙන් ඉදිරියට
+
+*2024-07-30 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199356) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය කුමන තීරණයක් ගත්ත ද තමන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ඉදිරි ජනාධිපතිවරණයේ දී සහාය පළකරන බව රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+සිය එක්ස් ගිණුමේ සටහනක් තබමින් ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පෙන්වා දෙන්නේ රට බේරාගත් ජනාධිපතිවරයාට ඉදිරියේ දීත් සහායෝගය ලබාදෙන බවය.
+
+මේ අතර රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකරන බව ප්‍රකාශ කර තිබේ.
+
+◼️
+
+[Data](articles/90c87e08.json)
+
+---
 
 ### Elections Commission notice of annual transfer process
 
@@ -284,11 +334,7 @@ Rajapakshe said he had already informed the relevant authorities of his decision
 
 *2024-07-30 01:42:47* · [`dailyftlk`](https://www.ft.lk/business/ALFT-Packaging-shines-at-Drupa-Germany-2024/34-764909) · `en`
 
-From left: Miraclon Sales Manager – West, South India and Sri Lanka Hrishikesh
-
-Kulkarni, Marketing Manager – Asia Pacific Hersh Lulla, ALFT Packaging Managing
-
-Director Chathura Jayatissa and Miraclon Advanced Print Applications Regional Lead – Modern Flexo Steve Smith
+From left: Miraclon Sales Manager – West, South India and Sri Lanka Hrishikesh Kulkarni, Marketing Manager – Asia Pacific Hersh Lulla, ALFT Packaging Managing Director Chathura Jayatissa and Miraclon Advanced Print Applications Regional Lead – Modern Flexo Steve Smith
 
 ALFT Packaging, a prominent player in the flexible packaging industry, showcased the potential of Modern Flexo recently at Drupa 2024 held in Germany, the world’s largest trade fair for printing and packaging industry and its technologies. Drupa Germany has been taking place every four years and reputed as a premier industry event all around the world.
 
@@ -388,9 +434,7 @@ This is why the candidates contesting the presidential election, whether they ar
 
 Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (centre) with office bearers of Qatar Sri Lanka Business Council at the event
 
-Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (right) and President of Qatar Sri Lanka Business Council John Prasad exchanging
-
-documents during launch of Council at Sri Lanka Embassy in Doha
+Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (right) and President of Qatar Sri Lanka Business Council John Prasad exchanging documents during launch of Council at Sri Lanka Embassy in Doha
 
 Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (right) and Inthicab Rawoof launching Qatar Sri Lanka Business Council website
 
@@ -2189,79 +2233,5 @@ He has launched many people's struggles, including the Galle Face Struggle 2022.
 [Data](articles/b56f23c5.json)
 
 [Extended Data](ext_articles/b56f23c5.ext.json)
-
----
-
-### Those who are responsible for the economic crisis appear on the election stage and demand the people's decree again-the presidential candidate of the Arakalaya Movement Nuwan Bopake
-
-*2024-07-29 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/189703) · `ta`
-
-Nuwan Bopage, the presidential candidate of the People's Movement, criticizes politicians responsible for the economic crisis for seeking public support again. He highlights the severe impact of poverty affecting over 30% of the population and calls for transparency and accountability from leaders, including Ranil Wickremesinghe, who he accuses of contributing to the crisis. Bopage emphasizes the need for policies promoting equality and opposes social prejudice, urging voters to recognize the true advocates for the people.
-
-🟩
-
-Attorney Nuwan Bopage, the presidential candidate of the People's Movement, has created the Arakalai protesters, that those responsible for the economic crises faced by the people are again appearing on the platform and demanding the people's decree
-
-Speaking at a press conference of the People's Struggle Front, he added
-
-Over the past two to three years, people have been in the grip of poverty, and more than 30 percent of the country's population has been affected by poverty.
-
-Mantaposaka's death ravage increases many times - people face a massive crisis in bringing their day -to -day life.
-
-Those accused of responsible for the crisis are re -appearing in the presence of the people and demanded a people's decree in the presidential election.
-
-I urge all of you to see these faces behind me.
-
-They always fought for a policy of equality. They fought against social prejudice.
-
-Here are the students who led the students' protests while the students engaged in protests.
-
-...
-
-[Data](articles/54c0146a.json)
-
-[Extended Data](ext_articles/54c0146a.ext.json)
-
----
-
-### Tamil people live in the country without remedy for repression - Niros in Black July
-
-*2024-07-29 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/189695) · `ta`
-
-Tamil people face ongoing repression in Sri Lanka, highlighted by the racially motivated Black July events. Despite international attention, there's no effective remedy from the government. The event saw mass killings, displacement, and destruction, with state involvement evident. Tamil nationalism suffers losses, and the community continues to seek justice amidst systemic issues.
-
-🟩
-
-Black July is a racially planned state terrorism used on the Tamil people. Even though these unacceptable unacceptable conditions are the usual country, the Tamil people are living in a state of distraction and dissatisfaction with the government's responsibility and renewal mechanism.. Thiagarajah Niros, a member of Rolo's leadership committee and former Valikamam Eastern Pradeshiya Sabha member.
-
-He was speaking at the Black Yule Memorial on Saturday organized by the Democratic Tamil National Alliance (TNA) at the Father Selva auditorium.
-
-While many ethnic riots in Sri Lanka have been recorded in history, the black Yule racist has attracted international attention.
-
-It took place in state planning. We have made leaders including Thangathurai, commanders Kuttimani and Jagan in the Welikada Prison, which was found in the state of the state.
-
-...
-
-[Data](articles/cf333902.json)
-
-[Extended Data](ext_articles/cf333902.ext.json)
-
----
-
-### Ganga Seneviratne to the point
-
-*2024-07-29 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199334) · `si`
-
-Sri Lanka won the inaugural 100-meter shipping race at the Paris Olympics, securing top spot.
-
-🟩
-
-Sri Lanka played the first place in a round of the 100-meter shipping event at the Paris Olympics.
-
-◼️
-
-[Data](articles/07d2664d.json)
-
-[Extended Data](ext_articles/07d2664d.ext.json)
 
 ---

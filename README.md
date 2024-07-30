@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 15:05:47**
+As of **2024-07-30 15:20:45**
 
 ## Newspaper Stats
 
-*Scraped **38,051** Articles*
+*Scraped **38,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ colombotelegraphcom | 362
 newsfirstlk | 363
 bbccomsinhala | 367
 islandlk | 2,181
-economynextcom | 2,285
+economynextcom | 2,286
 dailyftlk | 2,434
 adalk | 3,475
-adaderanalk | 4,406
+adaderanalk | 4,407
 tamilmirrorlk | 4,716
 dailymirrorlk | 4,733
 virakesarilk | 5,994
@@ -26,11 +26,51 @@ adaderanasinhalalk | 6,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,050 (100.0%) of 38,051 articles have been extended.
+38,051 (100.0%) of 38,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### Venezuelan protests against Maduro spread, opposition says it has proof it won the election
+
+*2024-07-30 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/100877/venezuelan-protests-against-maduro-spread-opposition-says-it-has-proof-it-won-the-election) · `en`
+
+(Reuters) - Venezuela’s opposition said it had voting-tally proof it had won the election claimed by President Nicolas Maduro, as anti-government protests erupted across the country, with police firing tear gas to disperse protesters in the capital Caracas.
+
+Protesters took to the streets after Maduro was declared winner of the disputed poll, including near the presidential Miraflores palace in Caracas.
+
+Many staged “cacerolazo” demonstrations across the country - a traditional Latin American protest in which people bang pots and pans. Some who later marched took their pots and pans with them.
+
+“I don’t want gold, I don’t want CLAP (the government food aid programme), I want Nicolas (Maduro) to leave,” chanted protesters banging pots.
+
+Many rode motorbikes and jammed streets or draped themselves in the Venezuelan flag, while others covered their faces with scarves as protection against tear gas.
+
+...
+
+[Data](articles/076c7ad3.json)
+
+---
+
+### Sri Lanka to price regulate trishaw, school, office transport after currency crisis
+
+*2024-07-30 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-price-regulate-trishaw-school-office-transport-after-currency-crisis-174428/) · `en`
+
+ECONOMYNEXT – Sri Lanka will expand price regulation which is currently limited to buses into trishaws, school vans and office buses, Transport Minister Bandula Gunawardana said.
+
+The cabinet this week has approved changes to the governing law of the National Transport Commission, to allow it to regulate prices of three wheelers, office vans and school vans, Minister Gunawardana said.
+
+Public outcry to control prices of three wheelers and school vans went up after the central bank denied monetary stability in the prices of printing money for flexible inflation targeting and potential output targeting, eventually triggering a massive fall in the rupee.
+
+There have earlier attempts to set up a three wheeler regulatory agency with existing drivers also calling to stop new entrants coming in.
+
+However, three wheeler imports are not banned, and with an economic recovery underway, demand for hires is coming back.
+
+...
+
+[Data](articles/be222dc7.json)
+
+---
 
 ### Wickrelewriters Shanka Sanjeewani
 
@@ -580,17 +620,23 @@ A special program has been implemented to ensure the speedy distribution of offi
 
 ---
 
-### උත්සව සමයට බිත්තර ආනයනය කරන්න කැබිනට් අනුමැතිය
+### Import Eggs for Festival Season
 
 *2024-07-30 11:49:30* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයට-බිත්තර-ආනයනය-කරන්න-කැබිනට්-අනුමැතිය/11-411087) · `si`
 
-එළැඹෙන රාමසාන් හා නත්තල් උත්සව සමය වෙනුවෙන් අවශ්‍ය බිත්තර තොග ආනයනය කිරීම සඳහා වෙළඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලබා දි තිබේ.
+Trade Minister Nalin Fernando has approved the import of eggs wholesale for the upcoming Razor and Christmas festivals. These eggs, sourced from the Commerce Corporation, will be available at affordable prices through Sathosa outlets across 37 locations.
 
-රජයේ වාණිජ සංස්ථාව හරහා ආනයනය කරන මෙම බිත්තර සතොස අලෙවිසැල් හරහා ජනතාව වෙත අලෙවි කරයි. රු. 37ක් වැනි ජනතාවට දැරිය හැකි මිලකට බිත්තර අලෙවි කළේය.
+🟩
+
+The cabinet paper presented by Trade Minister Nalin Fernando has approved the importation of the egg wholesale for the coming razor and Christmas festival season.
+
+These imports from the Commerce Corporation are sold to the people through Sathosa outlets through Sathosa outlets. Rs. The people of 37 sold eggs at affordable.
 
 ◼️
 
 [Data](articles/1267c6db.json)
+
+[Extended Data](ext_articles/1267c6db.ext.json)
 
 ---
 
@@ -2195,37 +2241,5 @@ Strong winds of about 50-55 kmph can be expected at times over Western slopes of
 [Data](articles/060704fe.json)
 
 [Extended Data](ext_articles/060704fe.ext.json)
-
----
-
-### Top HR professional Priyantha Ranasinghe takes helm at CIPM Sri Lanka
-
-*2024-07-29 22:56:00* · [`islandlk`](http://island.lk/top-hr-professional-priyantha-ranasinghe-takes-helm-at-cipm-sri-lanka/) · `en`
-
-CIPM Sri Lanka, the Nation’s Leader in Human Resource Management, today announced the appointment of Priyantha Ranasinghe as its new President, at the CIPM’s Annual General Meeting that brought together a large number of members. A seasoned HR professional with over 28 years of experience, Priyantha will steer CIPM into a new era of growth and innovation.
-
-Priyantha brings a wealth of expertise to CIPM, having held senior HR roles in diverse sectors including hospitality, banking and finance, plantations, and food and beverage across Sri Lanka, Indonesia, India, and Malaysia. Currently, he is employed at Insee cement as Chief People Officer and prior to that he served as HR Director at Coca-Cola Beverages Sri Lanka Limited for 11 years.
-
-...
-
-[Data](articles/0a49c03f.json)
-
-[Extended Data](ext_articles/0a49c03f.ext.json)
-
----
-
-### Hela and Authentic Brands Group announce outerwear partnership for Reebok
-
-*2024-07-29 22:55:00* · [`islandlk`](http://island.lk/hela-and-authentic-brands-group-announce-outerwear-partnership-for-reebok/) · `en`
-
-Authentic Brands Group (Authentic), a global brand development, marketing, and entertainment platform, today announced a long-term partnership with Focus Brands, the brand licensing division of Hela Apparel Holdings PLC, for Reebok. Through the partnership, Focus Brands will design, manufacture and distribute Reebok-branded outerwear products across the UK and Europe.
-
-“We look forward to expanding our relationship with Focus Brands and Hela to build Reebok’s presence in the premium, technical outwear category across the UK and Europe,” said Henry Stupp, President, Lifestyle – EMEA and India at Authentic. “This partnership will elevate the brand’s offerings and bring a fresh, innovative approach to our product lineup, enhancing our appeal to consumers and solidifying our market position.”
-
-...
-
-[Data](articles/fd175bd2.json)
-
-[Extended Data](ext_articles/fd175bd2.ext.json)
 
 ---

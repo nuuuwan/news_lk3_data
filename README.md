@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 21:36:03**
+As of **2024-07-30 21:55:34**
 
 ## Newspaper Stats
 
-*Scraped **38,110** Articles*
+*Scraped **38,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
 adalk | 3,488
-adaderanalk | 4,413
-tamilmirrorlk | 4,725
+adaderanalk | 4,414
+tamilmirrorlk | 4,726
 dailymirrorlk | 4,733
 virakesarilk | 6,011
-adaderanasinhalalk | 6,416
+adaderanasinhalalk | 6,418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,109 (100.0%) of 38,110 articles have been extended.
+38,110 (100.0%) of 38,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### ශ්‍රී ලංකාවට ලකුණු 138 ඉලක්කයක්
+
+*2024-07-30 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199387) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ ඉන්දීය කණ්ඩායම අතර පැවැත්වෙන 3න් වැනි සහ අවසාන 20යි 20 තරගය  පල්ලෙකැලේ ක්‍රිකට් පිටියේදී පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඉන්දියාවට ලබා දීමටය.
+
+ඒ අනුව ඉන්දියාව නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 137ක් රැස් කළේය.
+
+තරගය ජයගැනීමට සඳහා ශ්‍රී ලංකා කණ්ඩායමට හිමිවූ ඉලක්කය ලකුණු 138කි.
+
+◼️
+
+[Data](articles/59a65792.json)
+
+---
+
+### ඉන්දියාවේ තවත් ඛේදවාචකයක් - විශාල පිරිසක් මරුට
+
+*2024-07-30 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199386) · `si`
+
+දකුණු ඉන්දියාවේ කේරළ ප්‍රාන්තයේ අධික වර්ෂාවත් සමඟ ඇති වූ දැවැන්ත නායයෑමක් හේතුවෙන් පුද්ගලයින් 93 දෙනෙකු පමණ මියගොස් ඇතැයි වාර්තා වේ.
+
+තවත් විශාල පිරිසක් නායයෑමට හසුවී අතුරුදන්ව ඇතැයි විදෙස් මාධ්‍ය පවසයි.
+
+පවතින අධික වර්ෂාව හේතුවෙන් අනතුරට පත් පිරිස ගලවා ගැනීමේ මෙහෙයුම්වලට පවා දැඩි බාධා එල්ල වී ඇත.
+
+මියගිය ප්‍රමාණය තවදුරටත් ඉහළ යා හැකි බව බලධාරීන් අනතුරු අඟවයි.
+
+සෝදිසි මෙහෙයුම් සඳහා හමුදා නිලධාරීන් 200කට වැඩි පිරිසක් මේ වනවිට යොදවා ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/88896e9f.json)
+
+---
+
+### Defence Secretary assures justice for Sri Lanka’s disabled war heroes
+
+*2024-07-30 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100885/defence-secretary-assures-justice-for-sri-lankas-disabled-war-heroes) · `en`
+
+Secretary to the Ministry of Defence General Kamal Gunaratne (Rtd) announced that the Ministry of Defence has implemented several measures, including allowances, medical rehabilitation, and lifelong care, to ensure justice for all soldiers disabled during the war.
+
+He highlighted that over the past two years, the Ministry of Defence has taken numerous steps to stabilize the country both economically and politically, providing a safe and secure environment for the people.
+
+General (retired) Kamal Gunaratne made these statements at a news conference titled ‘Two Years of Progress and Way Forward’. He emphasized that the Ministry of Defence, guided by the vision of ‘a peaceful land where everyone is protected,’ has been instrumental in these advancements,said President’s Media Division.
+
+...
+
+[Data](articles/47efb471.json)
+
+---
+
+### ஜனாதிபதிக்கு கடிதம் அனுப்பிய தேர்தல்கள் ஆணைக்குழு
+
+*2024-07-30 20:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-கடிதம்-அனுப்பிய-தேர்தல்கள்-ஆணைக்குழு/175-341300) · `ta`
+
+பொலிஸ்மா அதிபரின் பிரச்சினைக்கு உடனடி தீர்வை கோரி ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு கடிதம் எழுத தேர்தல்கள் ஆணைக்குழு தீர்மானித்துள்ளது.
+
+ஜனாதிபதி தேர்தல் அறிவிக்கப்பட்ட பின்னர் தேர்தல் ஆணைக்குழு முதல் முறையாக ராஜகிரியில் உள்ள  தேர்தல் செயலக வளாகத்தில் இன்று (30) காலை கூடியது.
+
+ஜனாதிபதித் தேர்தலை நடத்துவது தொடர்பிலான பல விடயங்கள் தொடர்பில் அந்தக் கூட்டத்தில் விசேட கவனம் செலுத்தப்பட்டதாகக் குறிப்பிடப்படுகிறது. R
+
+◼️
+
+[Data](articles/f86ee405.json)
+
+---
 
 ### A harsh response from the quality of the pointer
 
@@ -266,23 +336,29 @@ Meanwhile, a group of Ministers, including those who opposed the proposal brough
 
 ---
 
-### පාඨලීගේ පක්ෂයේ ඉහළම පුද්ගලයෙක් එජාපයට
+### A top person in Patali's party to UNP
 
 *2024-07-30 18:51:04* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලීගේ-පක්ෂයේ-ඉහළම-පුද්ගලයෙක්-එජාපයට/11-411100) · `si`
 
-එක්සත් ජනරජ පෙරමුණේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ හිටපු පළාත් සභා මන්ත්‍රී නිශාන්ත ශ්‍රී වර්ණසිංහ මහතා අද (30දා) එක්සත් ජාතික පක්ෂයේ සාමාජිකත්වය ලබා ගත්තේය.
+Nishantha Sri Warnasinghe, former UPFA Senior Vice President, joined the UNP and expressed support for President Ranil Wickremesinghe's economic policies. This move comes after Mr. Gihan Perera, ex-SLFP organizer, also switched sides, indicating a potential shift in political alliances ahead of the upcoming presidential election.
 
-ඒ සිරිකොත පක්ෂ මූලස්ථානයේ දී එක්සත් ජාතික පක්ෂයේ මහ ලේකම් පාලිත රංගේ බණ්ඩාර මහතා අතිනි. එම මහතාගේ බිරිඳ වන කල්හාරි සුබෝදා අධිකාරි මහත්මිය ද එම අවස්ථාවේදී එක්සත් ජාතික පක්ෂයේ සාමාජිකත්වය ලබා ගත්තාය.
+🟩
 
-වර්තමාන ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආර්ථික වැඩපිළිවෙළට සහාය දක්වමින් ඉදිරි ජනාධිපතිවරණයේදී කොන්දේසි විරහිතව සහාය දක්වන්නට සූදානම් බව ද නිශාන්ත ශ්‍රී වර්ණසිංහ මහතා එහිදී ප්‍රකාශ කළේය.
+Former Provincial Councilor Nishantha Sri Warnasinghe who served as the Senior Vice President of the UPFA won the UNP membership today (30).
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ බණ්ඩාරගම ආසනයේ සංවිධායක ලෙස කටයුතු කළ ගිහාන් පෙරේරා මහතා අද (30දා) සිරිකොත පක්ෂ මූලස්ථානයේ දී එක්සත් ජාතික පක්ෂයේ මහ ලේකම් පාලිත රංගේ බණ්ඩාර මහතා අතින් පක්ෂ සාමාජිකත්වය ලබා ගත්තේය.
+UNP General Secretary Palitha Range Bandara handed over at Sirikotha party headquarters. The wife of the wife, Kalhara Wickremesinghe and the UNP membership was a member of the UNP.
 
-ර්තමාන ජනාධිපතිවරයාගේ ඉදිරි වැඩපිළිවෙළට සහාය දක්වමින් ජනාධිපතිවරණයේදී ඔහු වෙනුවෙන් සහාය දැක්වීමට සූදානම් බව ද මෙහිදී ඔහු ප්‍රකාශ කර සිටියේය. මේ අවස්ථාවට කළුතර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් විජේමාන්න මහතාද එක්ව සිටියේය.
+Nishantha Sri Warnasinghe is ready to support the current presidential election by supporting the current President Ranil Wickremesinghe's economic program.
+
+Mr. Gihan Perera, who was the organizer of the Sri Lanka Freedom Party (SLFP) is the organizing organizer of the Sri Lanka Freedom Party (30) at the party headquarters of Sirikotha.
+
+He also said that he was ready to support him in the presidential election, supporting the future of the President of the Defense President.. Former UNP MP Lakshman Wijemanne was also present on the occasion.
 
 ◼️
 
 [Data](articles/9422f682.json)
+
+[Extended Data](ext_articles/9422f682.ext.json)
 
 ---
 
@@ -2249,93 +2325,5 @@ National Disaster Rescue Force is actively working to rescue the landslide.
 [Data](articles/009bc8d8.json)
 
 [Extended Data](ext_articles/009bc8d8.ext.json)
-
----
-
-### Landslide in Kerala: 20 killed
-
-*2024-07-30 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளாவில்-பாரிய-நிலச்சரிவு-20-பேர்-பலி/175-341265) · `ta`
-
-In Kerala, two landslides in Wayanad have resulted in 20 deaths, with over 400 families affected. Rescue efforts are ongoing, but the death toll may rise. The incidents occurred due to heavy rainfall during the monsoon season.
-
-🟩
-
-Work on rescuing more than 400 families is underway, with 20 people being trapped in two subsequent landslides at midnight in Wayanad, Kerala.. In this case, it is feared that the number of casualties will increase further.
-
-Due to the ongoing monsoon in Kerala, the landslide occurred at Mundakai in Wayanad district at 1 midnight. While rescue operations were underway, the landslide occurred at Sulmalai, 2 km away from there.
-
-20 people have been killed in this landslide. 30 people have been rescued and hospitalized.
-
-More than 400 homes are reported in a landslide. Thus, there are fears that the number of casualties will rise.
-
-National Disaster Rescue Force is actively working to rescue the landslide.
-
-◼️
-
-[Data](articles/bb3b1441.json)
-
-[Extended Data](ext_articles/bb3b1441.ext.json)
-
----
-
-### Public Servants in Korea to visit Sri Lanka
-
-*2024-07-30 10:20:31* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-රාජ්‍ය-සේවකයන්-පිරිසක්-ලංකාවේ-සංචාරයකට/11-411082) · `si`
-
-A delegation of 37 Buddhist Association officials from South Korea arrived in Sri Lanka on July 29th via SriLankan Airlines. They plan to visit several historical and cultural sites including Anuradhapura, Mihintale, Sigiriya, Dambulla, Matale, Kandy, Nuwara Eliya, and the Pinnawala Elephant Orphanage. Their trip underscores the growing ties between the two countries' Buddhist communities.
-
-🟩
-
-A group of 37 Buddhist Association officials who were prepared in the public ministerial servants in South Korea arrived at the Katunayake Airport on 07/29.
-
-The Buddhist Association has established the Buddhist religious employees serving in 47 state institutions in the year 2000. The South Korean Buddhist Association officials to visit Anuradhapura, Mihintale, Sigiriya, Dambulla, Dambulla, Matale Aluhaya, Matale Aluhaya, Kandy Aluhaya, Kandy.. In addition, a Nuwara Eliya Tea Factory, Pinnawala Elephant Orphanage and the National Museum of the Pinnawala Elephant and the Coastal Coast.
-
-The National Buddhist Association officials from Inchion, South Korea, from SriLankan Airlines UL, arrived at the Katunayake Airport on the 471 airport.
-
-Ravani Wijewardena and Harandra Wijewardene, the deputy directors of the Sri Lanka Tourism Promotion Bureau, were also present at the Bandaranaike International Airport.
-
-◼️
-
-[Data](articles/08dc177d.json)
-
-[Extended Data](ext_articles/08dc177d.ext.json)
-
----
-
-### Women's cricket team Rs. A gift of Rs.15 crores
-
-*2024-07-30 10:17:26* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ක්‍රිකට්-කණ්ඩායමට-රු--කෝටි-15ක-තෑග්ගක්/9-411081) · `si`
-
-Sri Lanka's women cricket team won the Asian Cricket Championship, receiving a Rs. 15 crore award from Sri Lanka Cricket (SLC). The presentation was made at the Cinnamon Gardens event, attended by leaders like Chamari Silva, Jayantha Dharmadasa, Ravin Fernando, and ministers Harin Fernando and Jamadasa.
-
-🟩
-
-Sri Lanka women's cricket team for Asian cricket champions. Sri Lanka Cricket (SLC) has been awarded a prize of Rs.
-
-Sri Lanka Female Leadership Chamari Silva, Sri Lanka Cricket Leaders, Jayantha Dharmadasa, Ravin Fernando and Sports Minister Jamadasa and Sports Minister Harin Fernando were presented at a function held at the Cinnamon Gam.
-
-◼️
-
-[Data](articles/49486735.json)
-
-[Extended Data](ext_articles/49486735.ext.json)
-
----
-
-### Sri Lanka state minister of finance declares support for president
-
-*2024-07-30 10:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-minister-of-finance-declares-support-for-president-174371/) · `en`
-
-ECONOMYNEXT — To prevent a return to Sri Lanka’s most severe crisis in its history, it is essential to continue to support President Ranil Wickremesinghe, State Minister of Finance Shehan Semasinghe said after his party decided not to back the president.
-
-“Under President Ranil Wickramasinghe’s leadership, Sri Lanka has made significant strides in overcoming the most severe crises in the history. His clear and decisive leadership has guided the nation toward stability and growth. To prevent a return to such challenging times, it is essential to continue supporting President Wickramasinghe’s vision and initiatives. We need to protect the country before our political views. Together, we can build a prosperous future for our country,” Semasinghe tweeted in the early hours of Tuesday July 30.
-
-His announcement came hours after the ruling Sri Lanka Podujana Peramuna (SLPP) decided not to back President Wickremesinghe at the 2024 presidential election, opting instead to field its own candidate.
-
-...
-
-[Data](articles/29e18203.json)
-
-[Extended Data](ext_articles/29e18203.ext.json)
 
 ---

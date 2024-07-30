@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 03:36:00**
+As of **2024-07-31 03:53:58**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 6,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,136 (100.0%) of 38,140 articles have been extended.
+38,140 (100.0%) of 38,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### வவுனியாவில் 60 வர்த்தக நிலையங்களுக்கு எதிராக வழக்கு: பாவனையாளர் அலுவல்கள் அதிகாரசபை நடவடிக்கை
+### Case against 60 trade centers in Vavuniya: Consumer Affairs Authority
 
 *2024-07-31 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/189852) · `ta`
 
-வவுனியாவில் 60 வர்த்தக நிலையங்களுக்கு எதிராக வழக்கு தாக்கல் செய்யப்பட்டுள்ளதாக பாவனையாளர் அலுவல்கள் அதிகாரசபை தெரிவித்துள்ளது.
+Consumer Affairs Authority filed 60 cases against business centers in Vavuniya from July 1-30, following raids across several locations. Issues include improper scales, unsold items, outdated goods, lack of information, and no guarantees.
 
-யூலை மாதம் 1 ஆம் திகதி முதல் 30 ஆம் திகதி வரை வவுனியாவின் பல்வேறு பகுதிகளிலும் பாவனையாளர் அலுவல்கள் அதிகாரசபையின் திடீர் சோதனை நடவடிக்கையை மேற்கொண்டனர்.
+🟩
 
-இதன்போது சரியான தராசை பயன்படுத்தாமை, விற்பனைக்கு பொருளை மறுத்தமை, விலை அழிக்கப்பட்டிருந்தமை, விலை குறிக்கப்படாமை, காலாவதியான பொருள்களை வைத்திருந்தமை, தகவல் குறிக்கப்படாமை, உத்தரவாதம் வழங்காமை போன்றன தொடர்பில் 54 வழக்குகளும், பேக்கரி தொடர்பில் 6 வழக்குகளுமாக 60 வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளது.
+The Consumer Affairs Authority has said that a case has been filed against 60 business centers in Vavuniya.
 
-வவுனியா நகரம், கோவில்குளம், வைரவபுளியங்குளம், குருமன்காடு, பட்டானிச்சூர், வேப்பங்குளம், நெளுக்குளம் உள்ளிட்ட பகுதிகளிலேயே மேற்கொள்ளப்பட்ட சோதனையின் போதே 60 வழக்குகள் பதிவு செய்யப்பட்டுள்ளதாகவும் அவர்கள் மேலும் தெரிவித்தனர்.
+From 1st to 30th of July, the Consumer Affairs Authority carried out a raid in various parts of Vavuniya.
+
+There are 54 cases in connection with the lack of proper scales, refusal of sale, the price of prices, the price of prices, the outdated goods, the lack of information and the lack of guarantee.
+
+During a raid carried out in areas including Vavuniya City, Kovilkulam, Vairavapuliyankulam, Kurumankadu, Pattanichur, Veppankulam and Nelukkulam, 60 cases have been registered.
 
 ◼️
 
 [Data](articles/cd040cf4.json)
 
+[Extended Data](ext_articles/cd040cf4.ext.json)
+
 ---
 
-### யுத்தத்தின் போது அங்கவீனமடைந்த அனைத்து இராணுவ வீரர்களுக்கும் நீதி வழங்கப்பட்டுள்ளது - கமல் குணரத்ன
+### Justice has been given to all the soldiers who disabled during the war -Kamal Gunaratne
 
 *2024-07-31 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189851) · `ta`
 
-யுத்தத்தின் போது அங்கவீனமடைந்த அனைத்து இராணுவ வீரர்களுக்கும் கொடுப்பனவுகள், மருத்துவ புனர்வாழ்வு மற்றும் வாழ்நாள் முழுவதும் பராமரிப்பை வழங்குதல் உள்ளிட்ட பல நடவடிக்கைகளின் ஊடாக, பாதுகாப்பு அமைச்சின் தலையீட்டின் மூலம் அதிகபட்ச நீதியை வழங்கியுள்ளதாக பாதுகாப்பு அமைச்சின் செயலாளர் ஜெனரல் (ஓய்வு பெற்ற) கமல் குணரத்ன தெரிவித்தார்.
+Kamal Gunaratne, Retired Defense Ministry Secretary General, highlighted efforts to support war-disabled soldiers, economic and political stabilization, education improvements, anti-human and drug trafficking measures, and post-war contributions. He mentioned relief centers, pension adjustments, employment opportunities, educational facility upgrades, and international collaborations.
 
-கடந்த இரண்டு வருடங்களில், பாதுகாப்பு அமைச்சு நாட்டை பொருளாதார ரீதியாகவும் அரசியல் ரீதியாகவும் ஸ்திரப்படுத்துவதற்கு பல நடவடிக்கைகளை எடுத்துள்ளதுடன், மக்களுக்கு சிறந்த பாதுகாப்பான சூழலை உறுதி செய்துள்ளது என்றும் அவர் குறிப்பிட்டார்.
+🟩
 
-''இரண்டு வருட முன்னேற்றமும் எதிர்காலமும்'' என்ற தொனிப்பொருளில் ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (30)  நடைபெற்ற செய்தியாளர் மாநாட்டில் கலந்து கொண்டபோதே  பாதுகாப்பு அமைச்சின் செயலாளர் ஜெனரல் கமல் குணரத்ன(ஓய்வுபெற்ற) இதனைக் குறிப்பிட்டார்.
+Defense Ministry Secretary General (Retired) Kamal Gunaratne said that the intervention of the Ministry of Defense has provided maximum justice through several measures, including allowances, medical rehabilitation and life -long maintenance of all the soldiers who disabled during the war.
+
+In the last two years, the Defense Ministry has taken several steps to stabilize the country economically and politically and ensure the best safe environment for the people.
+
+Defense Secretary General Kamal Gunaratne (Retired) said this while attending a press conference held at the Presidential Media Center on Tuesday (30) on the theme "Two Years Progress and Future".
+
+He said that the quality of the educational facilities of the Sir John Kothalawala Protection University has been improved and more students have been able to study and to enroll civil medical students.
 
 ...
 
 [Data](articles/1e334faa.json)
+
+[Extended Data](ext_articles/1e334faa.ext.json)
 
 ---
 
@@ -84,43 +98,61 @@ The Presidential Media Unit said that 92 MPs in the upcoming presidential electi
 
 ---
 
-### மூன்றாவது தடவையாக இலங்கையின் மத்திய வரிசை சரிந்தது; சுப்பர் ஓவரில் இந்தியா வெற்றிபெற்று தொடரை முழுமையாக சுவீகரித்தது
+### For the third time, Sri Lanka's middle line collapsed;India won the series in Super Over and fully acquired the series
 
 *2024-07-31 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189850) · `ta`
 
-இந்தியாவுக்கும் இலங்கைக்கும் இடையில் பல்லேகலை சர்வதேச விளையாட்டரங்கில் திங்கட்கிழமை (30) நடைபெற்ற 3ஆவதும் கடைசியுமான சர்வதேச ரி20 கிரிக்கெட் போட்டியில் சுப்பர் ஓவரில் இந்தியா வெற்றியீட்டியது.
+India clinched the T20 series against Sri Lanka 3-0 after winning the final match in a Super Over, despite Sri Lanka's strong performance with the bat. Suryakumar Yadav secured the victory with a six on the first ball of the Super Over. Sri Lanka, led by Kusal Mendis and Kusal Perera, fought hard but fell short due to poor batting towards the end. Debutant Samindu Wickremasinghe impressed with his bowling, taking the first international wicket and conceding only 17 runs in his four overs.
 
-இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடரை இந்தியா 3 - 0 என முழுமையாகக் சுவீகரித்தது.
+🟩
 
-வொஷிங்டன் சுந்தர் வீசிய சுப்பர் ஓவரில் குசல் ஜனித் பெரேராவும் பெத்தும் நிஸ்ஸன்கவும் ஆட்டம் இழந்ததுடன் இலங்கையினால் 3 பந்துகளில் 2 ஓட்டங்களை மாத்திரமே பெற முடிந்தது.
+India won the 3rd and last international T20 cricket match at the Pallekele International Stadium between India and Sri Lanka on Monday (30).
 
-மஹீஷ் தீக்ஷன வீசிய சுப்பர் ஓவரின் முதல் பந்திலேயே சூரியகுமார் யாதவ் பவுண்டறி அடித்து இந்தியாவுக்கு சுப்பர் ஓவர் வெற்றியை ஈட்டிக்கொடுத்தார்.
+With this victory, India fully acquired the three -match international T20 cricket series as 3 - 0.
 
-இப் போட்டியில் இந்தியாவினால் நிர்ணயிக்கப்பட்ட 138 ஓட்டங்கள் என்ற சுமாரான வெற்றி இலக்கை நோக்கிப் பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 137 ஓட்டங்களைப் பெற்றதால் ஆட்டம் சமநிலையில் முடிவடைந்தது.
+Kusal Janith Perera, Beth and Nissanka lost only 2 runs off 3 balls in the Super over the Super Over of Washington Sundar.
 
-இலங்கை துடுப்பாட்டத்தில் பெத்தும் நிஸ்ஸன்க, குசல் மெண்டிஸ் ஆகிய இருவரும் திறமையாக துடுப்பெடுத்தாடி 58 ஓட்டங்களைப் பகிர்ந்து நல்ல ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+Suryakumar Yadav hit the Super Over victory for India in the first ball of the Super Overage that Mahish Dixhana was thrown.
+
+In response to a 138 -run win for India, Sri Lanka won the match with 137 runs for the loss of 8 wickets in 20 overs.
+
+Both Beth, Nissanka and Kusal Mendis played in Sri Lanka in the field and shared 58 runs and made a good start.
+
+However, Beth and Nissank lost the game for 26 runs.
+
+Gusal Mendis and Kusal Perera continued to share 52 runs in the 2nd wicket and gave the team a little excitement.
+
+But, like the first two matches, Sri Lanka's victory has gone so far as wickets are wickets.
 
 ...
 
 [Data](articles/9d020f09.json)
 
+[Extended Data](ext_articles/9d020f09.ext.json)
+
 ---
 
-### முட்டை இறக்குமதிக்கு மீண்டும் அனுமதி
+### Allowing back to imports
 
 *2024-07-31 00:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-இறக்குமதிக்கு-மீண்டும்-அனுமதி/175-341318) · `ta`
 
-இலங்கை அரச வர்த்தக (பலநோக்கு) கூட்டுத்தாபனத்தால் இதுவரைக்கும் 224 மில்லியன் முட்டைகள் இறக்குமதி செய்யப்பட்டுள்ளன. 2024.03.18 அன்று இடம்பெற்ற அமைச்சரவைத் தீர்மானத்தின் பிரகாரமே முட்டை இறக்குமதி செய்யப்பட்டன.
+The Sri Lankan State Trade (Multipurpose) Corporation imported 224 million eggs as per a Cabinet resolution on March 18, 2024. 95% of these eggs were sold to consumers via the Sri Lanka Sathosa Sales Network for 37 rupees each. The import period concluded on April 30, 2024, aimed at distributing eggs for various uses, including baking and warming products. This initiative was approved by the Cabinet upon the proposal of the Minister of Commerce, Business, and Food Security.
 
-அவற்றில் 95 சத வீதமானவை லங்கா சதொச விற்பனை வலையமைப்பின் மூலம் 37 ரூபாவுக்கு நுகர்வோருக்கு விற்கப்பட்டது. முட்டை இறக்குமதிக்காக  வழங்கப்பட்டுள்ள காலப்பகுதி 2024.04.30 ஆம் திகதியுடன் முடிவடைந்தது.
+🟩
 
-அதற்கமைய, எதிர்வரும் ரமழான் மற்றும் நத்தார் கொண்டாட்டக் காலங்களில் சந்தையில் முட்டை விலையை நிலைப்படுத்துவதற்காகவும், கேக் உள்ளிட்ட வெதுப்பக உற்பத்திகளுக்குத் தேவையான முட்டைகளை விநியோகிப்பதற்குத் தேவைiயான முட்டைத் தொகையை இறக்குமதி செய்வதற்கு அங்கீகாரம்  வழங்கப்பட்டுள்ளது.
+224 million eggs have been imported by the Sri Lankan State Trade (Multipurpose) Corporation. Eggs were imported according to the Cabinet resolution which was held on 2024.03.18.
 
-வர்த்தக, வணிக மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் சமர்ப்பித்துள்ள யோசனைக்கே அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.  R
+95 % of them were sold to consumers for 37 rupees through the Sri Lanka Sathosa Sales Network. The period, which was issued for egg imports, ended on 2024.04.30.
+
+Accordingly, the importation of the eggs is required to distribute eggs in the market, including cake, and to distribute eggs for warm products, including cake.
+
+The Cabinet has approved the idea submitted by the Minister of Commerce, Business and Food Security.R
 
 ◼️
 
 [Data](articles/29dfba62.json)
+
+[Extended Data](ext_articles/29dfba62.ext.json)
 
 ---
 

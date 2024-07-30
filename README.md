@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 06:24:17**
+As of **2024-07-30 07:02:16**
 
 ## Newspaper Stats
 
-*Scraped **37,966** Articles*
+*Scraped **37,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 330
 colombotelegraphcom | 362
 newsfirstlk | 363
 bbccomsinhala | 365
-islandlk | 2,170
+islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,465
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,966 (100.0%) of 37,966 articles have been extended.
+37,966 (100.0%) of 37,976 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -545,6 +545,80 @@ Strong winds of about 50-55 kmph can be expected at times over Western slopes of
 [Data](articles/060704fe.json)
 
 [Extended Data](ext_articles/060704fe.ext.json)
+
+---
+
+### Top HR professional Priyantha Ranasinghe takes helm at CIPM Sri Lanka
+
+*2024-07-29 22:56:00* · [`islandlk`](http://island.lk/top-hr-professional-priyantha-ranasinghe-takes-helm-at-cipm-sri-lanka/) · `en`
+
+CIPM Sri Lanka, the Nation’s Leader in Human Resource Management, today announced the appointment of Priyantha Ranasinghe as its new President, at the CIPM’s Annual General Meeting that brought together a large number of members. A seasoned HR professional with over 28 years of experience, Priyantha will steer CIPM into a new era of growth and innovation.
+
+Priyantha brings a wealth of expertise to CIPM, having held senior HR roles in diverse sectors including hospitality, banking and finance, plantations, and food and beverage across Sri Lanka, Indonesia, India, and Malaysia. Currently, he is employed at Insee cement as Chief People Officer and prior to that he served as HR Director at Coca-Cola Beverages Sri Lanka Limited for 11 years.
+
+...
+
+[Data](articles/0a49c03f.json)
+
+---
+
+### Hela and Authentic Brands Group announce outerwear partnership for Reebok
+
+*2024-07-29 22:55:00* · [`islandlk`](http://island.lk/hela-and-authentic-brands-group-announce-outerwear-partnership-for-reebok/) · `en`
+
+Authentic Brands Group (Authentic), a global brand development, marketing, and entertainment platform, today announced a long-term partnership with Focus Brands, the brand licensing division of Hela Apparel Holdings PLC, for Reebok. Through the partnership, Focus Brands will design, manufacture and distribute Reebok-branded outerwear products across the UK and Europe.
+
+“We look forward to expanding our relationship with Focus Brands and Hela to build Reebok’s presence in the premium, technical outwear category across the UK and Europe,” said Henry Stupp, President, Lifestyle – EMEA and India at Authentic. “This partnership will elevate the brand’s offerings and bring a fresh, innovative approach to our product lineup, enhancing our appeal to consumers and solidifying our market position.”
+
+...
+
+[Data](articles/fd175bd2.json)
+
+---
+
+### Jaffna’s tourism boom lifts Jetwing Jaffna to new heights
+
+*2024-07-29 22:54:00* · [`islandlk`](http://island.lk/jaffnas-tourism-boom-lifts-jetwing-jaffna-to-new-heights-2/) · `en`
+
+Jetwing Jaffna experienced a significant financial upswing in the fiscal year 2023/24, achieving a 60% improvement in performance compared to the preceding year. This positive trend reflects the property’s ongoing success in establishing itself as a leading luxury city hotel within the northern peninsula. Additionally, occupancy rates have demonstrably increased, rising from 37% in the previous fiscal year to 61% in 2023/24.
+
+Jetwing Jaffna Hotel is owned by Yarl Hotels Private Limited which was jointly promoted by MMBLpathfinder Group of Companies, Jetwing Hotels and Regency Teas.
+
+Jaffna is increasingly gaining popularity as a tourist destination; owing largely to its well-developed transportation infrastructure. This network encompasses road, rail, sea, and air travel options, facilitating convenient access for visitors. Jaffna International Airport, located in Palaly, further enhances connectivity by offering international flights, including direct connections from India.
+
+...
+
+[Data](articles/63ab316c.json)
+
+---
+
+### ComBank first Lankan bank to join PCAF
+
+*2024-07-29 22:52:00* · [`islandlk`](http://island.lk/combank-first-lankan-bank-to-join-pcaf/) · `en`
+
+The Commercial Bank of Ceylon has become the first Sri Lankan bank to be a signatory to the Partnership for Carbon Accounting Financials (PCAF), a global initiative that enables signatories to measure and disclose the greenhouse gas (GHG) emissions associated with their financial activity.
+
+Already certified 100% carbon neutral in terms of its operations, Commercial Bank’s ground-breaking engagement with PCAF is supported by the International Finance Corporation (IFC) and is a pivotal element of the Bank’s Climate Transition Plan, the Bank said.
+
+PCAF provides a common methodology for measuring and disclosing the carbon footprint of financial portfolios. This methodology considers Financed Emissions, Facilitated Emissions and Insurance Associated Emissions, as specified by the Global GHG Accounting and Reporting Standard, enabling consistent reporting across different financial institutions.
+
+...
+
+[Data](articles/a9a83680.json)
+
+---
+
+### CSE turnover takes a nosedive following presidential poll date announcement
+
+*2024-07-29 22:50:00* · [`islandlk`](http://island.lk/cse-turnover-takes-a-nosedive-following-presidential-poll-date-announcement/) · `en`
+
+Political uncertainty in the aftermath of the announcement of the Presidential election date, rendered stock market activities dull yesterday due to the persistence of negative investor sentiments, market analysts said.
+
+Amid those developments both indices moved downwards accompanied by a paltry turnover, far below the annual average turnover level. The All Share Price Index went down by 15.8 points, while S and P SL 20 declined by 16.35 points. Turnover stood at Rs 376 million sans a single crossing.
+
+...
+
+[Data](articles/11da8b6e.json)
 
 ---
 
@@ -2143,107 +2217,5 @@ Police said that the police cannot take action on such matters.
 [Data](articles/be79a76d.json)
 
 [Extended Data](ext_articles/be79a76d.ext.json)
-
----
-
-### The TNA will review the supporters of Samasti in the presidential candidates;Chitran
-
-*2024-07-29 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/189691) · `ta`
-
-TNA plans to evaluate Tamil support in the North and East based on presidential candidates' stances on living there. Sreedharan mentioned a central committee meeting to decide support for a candidate promoting Samasti. He also addressed Wickeswaran's inability to lead the Northern Provincial Council, suggesting it's crucial for parties to voice their opinions. The mention of Mahinda Rajapaksa relying on Pillayan led to the choice of a former Justice Minister to ensure police funding.
-
-🟩
-
-Parliamentarian Sivagnanam Sreedharan has said that the TNA will review the support of the Tamils ​​in the North and East if any of the current presidential candidates insist on living in the North and East.
-
-He was responding to a question asked by journalists after an event in Kilinochchi yesterday (28).
-
-However, he said that the Central Committee would convene on the 10th and 11th of this month to support the general candidate or to support the candidate who urged Samasti in election science.
-
-When Sumanthiran said yesterday that Wickeswaran was unable to hold the Northern Provincial Council, Wickeswaran should be given the right thing to give our party the opinion of the party.
-
-If the present situation is confused by the unity, there is a problem with bringing basic politics.
-
-Mahinda Rajapaksa had asked the police to rely on Pillayan. That is why we have chosen the former Justice and demanded that the police authority be financed.
-
-◼️
-
-[Data](articles/15a18f8e.json)
-
-[Extended Data](ext_articles/15a18f8e.ext.json)
-
----
-
-### Vehicle accident on Colombo -Kandy main road;Impact
-
-*2024-07-29 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189687) · `ta`
-
-A passenger bus crashed into a container on the Colombo-Kandy main road near Yakkala, disrupting transport services in the area.
-
-🟩
-
-Police said that a passenger bus in the Yakkala area of ​​the Colombo -Kandy main road crashed into a container pawardi.
-
-Due to this, the transport service has been affected near the Colombo -Kandy main road Yakkala junction.
-
-◼️
-
-[Data](articles/670bd3f5.json)
-
-[Extended Data](ext_articles/670bd3f5.ext.json)
-
----
-
-### Sri Lanka seeks ASEAN cooperation on cyber job rackets
-
-*2024-07-29 14:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-asean-cooperation-on-cyber-job-rackets-174218/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister of Foreign Affairs has called for decisive action against cybercrime centres and employment rackets taking place in some parts of the Asia-Pacific region at a regional forum.
-
-Speaking at the 31st Ministerial Meeting of the ASEAN Regional Forum held in Laos on July 27, Tharaka Balasuriya called for the Asia Pacific region “to concertedly address emerging challenges including security-related aspects of new and emerging technologies such as artificial intelligence, with a view to taking preventive measures against their misuse.”
-
-“In addition to sustaining the Asia-Pacific region’s efforts to promote peace, security, and cooperation, the Forum must address challenges to cyber and network security systems and tackle transnational organized crime,” Balasuriya  was quoted as saying in a statement by the Ministry of Foreign Affairs.
-
-He “called for decisive action against cybercrime centres and employment rackets taking place in some parts of the region.”
-
-...
-
-[Data](articles/d1badfb8.json)
-
-[Extended Data](ext_articles/d1badfb8.ext.json)
-
----
-
-### People’s Struggle Movement announces its presidential candidate
-
-*2024-07-29 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/100856/peoples-struggle-movement-announces-its-presidential-candidate) · `en`
-
-Attorney-at-Law Nuwan Bopage has been named as the Presidential Candidate of the People’s Struggle Movement (Jana Aragala Viyaparaya).
-
-This was communicated during a media briefing held today (29).
-
-◼️
-
-[Data](articles/8165b096.json)
-
-[Extended Data](ext_articles/8165b096.ext.json)
-
----
-
-### Attorney at Law Nuwan Bope's President to fight
-
-*2024-07-29 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199331) · `si`
-
-Nuwan Bopage, an attorney at law, has been nominated as the presidential candidate by the People's Struggle Movement.
-
-🟩
-
-Attorney at law, lawyer Nuwan Bopage is named as the presidential candidate of the People's Struggle Movement.
-
-◼️
-
-[Data](articles/ce9f0b9f.json)
-
-[Extended Data](ext_articles/ce9f0b9f.ext.json)
 
 ---

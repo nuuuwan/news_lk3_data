@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 19:20:35**
+As of **2024-07-30 19:35:46**
 
 ## Newspaper Stats
 
-*Scraped **38,096** Articles*
+*Scraped **38,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ bbccomsinhala | 367
 islandlk | 2,181
 economynextcom | 2,287
 dailyftlk | 2,434
-adalk | 3,482
+adalk | 3,483
 adaderanalk | 4,413
 tamilmirrorlk | 4,723
 dailymirrorlk | 4,733
-virakesarilk | 6,008
-adaderanasinhalalk | 6,413
+virakesarilk | 6,011
+adaderanasinhalalk | 6,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,096 (100.0%) of 38,096 articles have been extended.
+38,096 (100.0%) of 38,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### රනිල්ට පාර්ලිමේන්තු මන්ත්‍රීවරු 92කගේ සහාය
+
+*2024-07-30 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199383) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ජයග්‍රහණය තහවුරු කිරීමට කැපවන බවට, පාර්ලිමේන්තු මන්ත්‍රීවරුන් 92 දෙනෙකු තහවුරු කර ඇතැයි ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ඒ, ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට ජනාධිපති ලේකම් කාර්යාලයේ පැවති ආණ්ඩු පක්ෂ  රැස්වීමේදිය.
+
+◼️
+
+[Data](articles/b44e6445.json)
+
+---
+
+### 92 பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து ஆதரவு தெரிவிப்பு
+
+*2024-07-30 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189844) · `ta`
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் 92 பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றியை உறுதிப்படுத்த அர்பணிப்பதாக சற்று முன்னர் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து உறுதிப்படுத்தியுள்ளதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/9822b0d6.json)
+
+---
+
+### இலங்கையின் ஒருநாள் அணிக்கும் தலைவரானார் சரித் அசலன்க
+
+*2024-07-30 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/189842) · `ta`
+
+இந்தியாவுக்கு எதிராக நடைபெறவுள்ள 3 போட்டிகள் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடருக்கான இலங்கை அணியின் தலைவராக சரித் அசலன்க நியமிக்கப்பட்டுள்ளதுடன் 16 வீரர்கள் கொண்ட குழாமும் அறிவிக்கப்பட்டுள்ளது.
+
+இதற்கு முன்னர் ஒருநாள் கிரிக்கெட் அணியின் தலைவராக குசல் மெண்டிஸ் பதவி வகித்தார்.
+
+இலங்கை குழாத்தில் சரித் அசலன்க (தலைவர்), பெத்தும் நிஸ்ஸன்க, அவிஷ்க பெர்னாண்டோ, குசல் மெண்டிஸ், சதீர சமரவிக்ரம, கமிந்து மெண்டிஸ், ஜனித் லியனகே, நிஷான் மதுஷ்க, வனிந்து ஹசரங்க, துனித் வெல்லாலகே, சாமிக்க கருணாரட்ன, மஹீஷ் தீக்ஷன, அக்கில தனஞ்சய, டில்ஷான் மதுஷன்க, மதீஷ பத்திரண, அசித்த பெர்னாண்டோ ஆகியோர் இடம்பெறுகின்றனர்.
+
+◼️
+
+[Data](articles/9afc9a56.json)
+
+---
 
 ### 92 MPs meet President Ranil to pledge their support
 
@@ -40,7 +82,13 @@ Ninety-two Members of Parliament including Ministers and State Ministers have re
 
 The MPs pledged their support for the President in the upcoming presidential election to ensure his victory, according to the President’s Media Division.
 
-◼️
+This was conveyed during the ruling party MPs meeting at the Presidential Secretariat in Colombo this evening (30).
+
+Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their own candidate in the upcoming Presidential election, a group of SLPP MPs and Ministers have expressed their support for President Wickremesinghe.
+
+Meanwhile, a group of Ministers, including those who opposed the proposal brought by the SLPP Politburo, met President Wickremesinghe last night (29). They had reportedly decided to support him in the upcoming presidential election.
+
+...
 
 [Data](articles/6331e0a4.json)
 
@@ -118,7 +166,7 @@ Among the two categories, between the two matches will be held at the Colombo R 
 
 ### People's struggle leads to releases election manifesto today
 
-*2024-07-30 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/189836) · `ta`
+*2024-07-30 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/189836) · `ta`
 
 The People's Movement Front, led by activists from the 'Arakalaya' struggle, will release its election manifesto on Tuesday, 30th, ahead of the 9th Presidential Elections on September 21. The manifesto outlines plans to address the economic crisis, restructure the state, and focus on people-centric policies. It promises a political solution for the Tamil community and aims to advance national welfare.
 
@@ -191,6 +239,22 @@ By then, the country's economy is currently recovering from the action taken. Fo
 [Data](articles/799bcc0b.json)
 
 [Extended Data](ext_articles/799bcc0b.ext.json)
+
+---
+
+### එංගලන්ත පුහුණුකරු ධුරයට සංගා ඉදිරිපත් වෙයි
+
+*2024-07-30 17:56:00* · [`adalk`](https://www.ada.lk/sports/එංගලන්ත-පුහුණුකරු-ධුරයට-සංගා-ඉදිරිපත්-වෙයි/9-411096) · `si`
+
+එංගලන්ත ක්‍රිකට් කණ්ඩායමේ සීමිත පන්දුවාර තරගවල පුහුණුකරු ධුරයට ශ්‍රී ලංකා හිටපු නායක කුමාර් සංගක්කාරද ඉල්ලුම් කර ඇති බව එංගලන්ත මාධ්‍ය වාර්තා කරයි. එංගලන්ත වත්මන් සීමිත පන්දුවාර තරගවල පුහුණුකරු ලෙස කටයුතු කරන මැතිව් මෝට් දින කිහිලයකින් සිය ධුරයෙන් ඉවත්වීමට නියමිතව තිබේ.
+
+එංගලන්ත කණ්ඩායමේ සීමිත පන්දුවාර නායකයා ලෙස තවදුරටත් ජෝස් බට්ලර් කණ්ඩායමේ රඳවා ගැනීමට එංගලන්තය තීරණය කර තිබේ. ජෝස් බට්ලර් අයි.පී.එල්. තරගාවලියේදී රාජස්ථාන් රෝයල්ස් කණ්ඩායම නියෝජනය කරන අතර එහි ක්‍රිකට් අධ්‍යක්ෂ ලෙස කටයුතු කරන්නේ කුමාර් සංගක්කාරයි.
+
+එංගලන්ත මාධ්‍ය වාර්තා කරන ආකාරයට කුමාර් සංගක්කාර අපේක්ෂකයා අතරින් ඉදිරියෙන් සිටියි. ඔහුට අමතරව  එංගලන්ත හිටපු පිතිකරු ජොනතන් ට්‍රොට් , ඔස්ට්‍රේලියාවේ මයික් හසීද මෙම ධුරය සඳහා ඉදිරිපත් වී ඇති බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/b326abd6.json)
 
 ---
 
@@ -797,6 +861,28 @@ But there are seven groups here and some of the civil society, so they have sign
 [Data](articles/2149822c.json)
 
 [Extended Data](ext_articles/2149822c.ext.json)
+
+---
+
+### பொதுஜன பெரமுனவின் தீர்மானத்தால் ரணிலுக்கு எதிரான குற்றச்சாட்டு புஷ்வாணமாகியுள்ளது - ஐக்கிய தேசிய கட்சி
+
+*2024-07-30 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189801) · `ta`
+
+ரணில் விக்ரமசிங்கவுக்கு ஆதரவளிப்பதில்லை என்ற பொதுஜன பெரமுனவின் தீர்மானம் மூலம் ராஜபக்ஷ்வினரை ரணில் பாதுகாக்கிறார் என்ற எதிர்க்கட்சியின் குற்றச்சாட்டு புஸ்வாணமாகியுள்ளது.
+
+ரணில் ராஜபக்ஷ் என்ற பிரசாரமும் பொய்யாகியுள்ளது என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் லக்ஷ்மன் விஜயமான்ன தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுன அவர்களின் வேட்பாளர் ஒருவரை நியமிக்க்க தீர்மானித்துள்ளது.
+
+இவர்களின் இந்த தீர்மானம் மூலம் எதிர்க்கட்சியினர் இதுவரை காலமும் ரணில் விக்ரமசிங்க ராஜபக்ஷ்வினரை பாதுகாத்து வருகிறார். ரணில் ராஜபக்ஷ் என்றே எமக்கு எதிராக பிரசாரம் செய்துவந்தார்கள்.
+
+ஆனால் தற்போது பொதுஜன பெரமுனவின் தீர்மானம் மூலம் இதுவரை காலமும் எமக்கு எதிராக எதிர்க்கட்சியினர் தெரிவித்துவந்த குற்றச்சாட்டு தற்போது புஸ்வாணமாகியுள்ளது. ராஜபக்ஷ்வினரை ரணில் விக்ரமசிங்க பாதுகாக்கவில்லை என்பது உறுதியாகி இருக்கிறது.
+
+...
+
+[Data](articles/4c26bb41.json)
 
 ---
 
@@ -2223,119 +2309,5 @@ The Government of Sri Lanka has imported 224 million eggs by the Cabinet (Variou
 [Data](articles/b6193ec5.json)
 
 [Extended Data](ext_articles/b6193ec5.ext.json)
-
----
-
-### Cabinet approval to import eggs for festive season
-
-*2024-07-30 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/100871/cabinet-approval-to-import-eggs-for-festive-season) · `en`
-
-The Cabinet of Ministers has approved a proposal to import eggs in order to stabilize the prices of cakes and other bakery products during the forthcoming Christmas and Ramadan festive seasons and to ensure the supply of eggs needed by the bakery industry, including for cakes.
-
-According to the decision of the Cabinet of Ministers dated March 18, 2024, the Sri Lanka State Trading (General) Corporation has imported 224 million eggs so far.
-
-95% of them have been distributed to consumers at an affordable price of Rs. 37 through Lanka Sathosa’s outlets network, and the period given to import eggs ended on April 30, 2024.
-
-◼️
-
-[Data](articles/aed8fc54.json)
-
-[Extended Data](ext_articles/aed8fc54.ext.json)
-
----
-
-### President Ranil thanks MPs who supported him in social media post
-
-*2024-07-30 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/100870/president-ranil-thanks-mps-who-supported-him-in-social-media-post) · `en`
-
-President Ranil Wickremesinghe expressed his gratitude to all Members of Parliament who have supported him, in a special post on his official Facebook and ‘X’ accounts last night (29).
-
-The President’s message was directed at those who supported him from the outset, those who joined midway as well as MPs joining him now and those yet to join him.
-
-“I want to thank the MPs who’ve been with me on this journey. To those who stood by me from the start, your support made the first steps we took to recovery possible. You believed in me and my plan when the country was in crisis, with people struggling for fuel, medicine, and essentials. Your commitment kept us going when the challenges seemed insurmountable.
-
-“To the MPs who joined midway, you saw the progress and chose to be part of the change. Thank you.
-
-...
-
-[Data](articles/9263e507.json)
-
-[Extended Data](ext_articles/9263e507.ext.json)
-
----
-
-### Many more PA MPs have decided to support Ranil
-
-*2024-07-30 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/189751) · `ta`
-
-Several PA MPs, including key figures like Tilum Amunugama and Anupa Paskal, have pledged support for President Ranil Wickremesinghe. This decision comes after a vote within the Sri Lanka PA's political committee over fielding a candidate for the budget, where 11 MPs opposed the resolution. Despite internal disagreements, the group has unified behind Ranil, with notable endorsements from Defense Minister Bandara Tennakoon and Finance Minister Sehan Semasinghe.
-
-🟩
-
-MPs including Tilum Amunugama, Anupa Paskal, Geeta Kumarasinghe, Ajith Rajapaksa, SP Dissanayake, Premnath C Tolawatta and Kanchana Wijesekera have decided to support President Ranil.
-
-The Sri Lankan PA's political committee was decided at the Sri Lanka PA on Monday that a candidate should be fielded on the budget. However, 11 MPs cast their votes against the resolution.
-
-In this backdrop, MPs gathered in Colombo last night and discussed their position. They have said that they will support President Ranil Wickremesinghe as they have decided to field a PA candidate without accepting the positions of the majority.
-
-In this backdrop, Defense Minister Bandara Tennakoon has announced that he will support President Ranil Wickremesinghe and subsequently announced that the Minister of Finance Sehan Semasinghe will support President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/8450ac94.json)
-
-[Extended Data](ext_articles/8450ac94.ext.json)
-
----
-
-### Colombo port reinstates $ 50 million in first quarter
-
-*2024-07-30 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199357) · `si`
-
-In Q1, Colombo Port generated $50 million, marking a significant operational boost. The Ports, Shipping, and Aviation Ministry reported improved performance, with airline operations increasing by 25% from 2022 levels.
-
-🟩
-
-Ports, Ministry of Ports Shipping and Aviation has been made to report a significant improvement in operational performance in this year.. D. Says S. Ruwanchandra.
-
-He pointed out that the Colombo port earned US $ 50 million in the first quarter of this year.
-
-Addressing a media briefing at the Presidential Media Center, KDS Ruwanchandra said that.
-
-Meanwhile, the Minister of Portsity and Aviation (Ports) Secretary KDS Ruwachandra stated that airline operations have been reported in 25 percent to 2023 compared to 2023.
-
-◼️
-
-[Data](articles/d58e8aab.json)
-
-[Extended Data](ext_articles/d58e8aab.ext.json)
-
----
-
-### Young mother miserably death in Mannar
-
-*2024-07-30 09:06:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-இளம்-தாய்-பரிதாபமாக-மரணம்-வைத்தியசாலை-மீது-குற்றச்சாட்டு/72-341260) · `ta`
-
-In Mannar, a young mother, Mariaraj Sindhuja, tragically passed away at the age of 27, leaving behind a newborn. She underwent surgery at Murugan Hospital but suffered severe bleeding post-surgery, leading to her untimely demise. Her mother alleges negligence, suggesting timely intervention could have saved her life. The health department has been urged to investigate this incident.
-
-🟩
-
-A graduate of a graduate from Thambanakkulam, Mannar - Madhavachi main road, died on Sunday.
-
-Mariaraj Sindhuja, who has completed his degree in the deceased young mother, is reported to be the age of 27.
-
-The first child of the deceased young mother was born on the 9th of last month at the Mannar District General Hospital. Mother Chey has left the hospital on the 11th.
-
-The mother of the deceased woman said that the sewing was cut at the Murugan Hospital on the 16th after he was asked to cut off the Murugan Hospital 7 days later.. He has taken care of his daughter in the hospital.
-
-Following the bloodbath last Saturday (27), the mother was taken to the Mannar District General Hospital on the night of the night and was admitted to the appropriate patient hostel after the OPD registration.
-
-The mother said that the blood flow was continuously leaking due to the loss of self -mindedness at six o'clock in the morning.
-
-...
-
-[Data](articles/c79dfe41.json)
-
-[Extended Data](ext_articles/c79dfe41.ext.json)
 
 ---

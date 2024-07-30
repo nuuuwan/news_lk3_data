@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 08:55:38**
+As of **2024-07-30 09:07:49**
 
 ## Newspaper Stats
 
-*Scraped **37,987** Articles*
+*Scraped **37,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,466
 adaderanalk | 4,398
-tamilmirrorlk | 4,703
+tamilmirrorlk | 4,704
 dailymirrorlk | 4,733
 virakesarilk | 5,990
 adaderanasinhalalk | 6,389
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,984 (100.0%) of 37,987 articles have been extended.
+37,987 (100.0%) of 37,988 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Merseyside Police said the motive for the attack was unclear but it was not beli
 
 [Data](articles/5fc7daf0.json)
 
+[Extended Data](ext_articles/5fc7daf0.ext.json)
+
 ---
 
 ### Group of SLPP Ministers and MPs express support to President Ranil
@@ -64,21 +66,29 @@ Despite the Sri Lanka Podujana Peramuna (SLPP) politburo deciding to field their
 
 [Data](articles/eae48b45.json)
 
+[Extended Data](ext_articles/eae48b45.ext.json)
+
 ---
 
-### පොහොට්ටුවේ තවත් අය ජනපති වෙනුවෙන් ඉදිරියට
+### Others in the Pohot advance to the President
 
 *2024-07-30 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199356) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ දේශපාලන මණ්ඩලය කුමන තීරණයක් ගත්ත ද තමන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ඉදිරි ජනාධිපතිවරණයේ දී සහාය පළකරන බව රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+State Ministers Pyusha Bandara Tennakoon and Shehan Semasinghe have pledged support for President Ranil Wickremesinghe in the upcoming presidential election.
 
-සිය එක්ස් ගිණුමේ සටහනක් තබමින් ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පෙන්වා දෙන්නේ රට බේරාගත් ජනාධිපතිවරයාට ඉදිරියේ දීත් සහායෝගය ලබාදෙන බවය.
+🟩
 
-මේ අතර රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළකරන බව ප්‍රකාශ කර තිබේ.
+State Minister Pyusha Bandara Tennakoon says he will support President Ranil Wickremesinghe in the next presidential election to President Ranil Wickremesinghe.
+
+Praising Bandara Tennakoon, a note of its X account note, points out that the President will assist in the president.
+
+Meanwhile, State Minister Shehan Semasinghe has also stated that he is also supporting President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/90c87e08.json)
+
+[Extended Data](ext_articles/90c87e08.ext.json)
 
 ---
 
@@ -213,6 +223,20 @@ The operation of the Colombo Port has made significant improvement. Colombo port
 [Data](articles/4d9aab3c.json)
 
 [Extended Data](ext_articles/4d9aab3c.ext.json)
+
+---
+
+### தேயிலை உரத்துக்கான மானியம் அதிகரிப்பு
+
+*2024-07-30 02:12:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேயிலை-உரத்துக்கான-மானியம்-அதிகரிப்பு/175-341259) · `ta`
+
+தேயிலை பயிர்ச்செய்கைக்கான உர மானியமாக அரசாங்கம் வழங்கத் தீர்மானித்த 2,000 ரூபா தொகையை 4,000 ரூபாவாக அதிகரிக்க விவசாய மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சு தீர்மானித்துள்ளது.
+
+தேயிலை பயிர்ச்செய்கையாளர்களை ஊக்குவிப்பதற்காக 2,000 ரூபா மானியம் வழங்குவதற்கு முன்னர் தீர்மானிக்கப்பட்ட போதிலும், தேயிலை உற்பத்தியை அதிகரிக்க அந்தத் தொகை போதுமானதாக இல்லை எனக் கண்டறியப்பட்டுள்ளதாக விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/bd5de524.json)
 
 ---
 
@@ -2209,29 +2233,5 @@ Hanwella Police are conducting further investigations into the accident and moto
 [Data](articles/4dcf665e.json)
 
 [Extended Data](ext_articles/4dcf665e.ext.json)
-
----
-
-### Presidential candidate from Arakalaya
-
-*2024-07-29 15:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-வில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-341222) · `ta`
-
-Nuwan Bopage, a lawyer and presidential candidate from Arakalaya, spoke at a media briefing in Colombo. He highlighted his involvement in significant public struggles, notably the Galle Face Struggle of 2022, after graduating from the University of Colombo and studying at TS Senanayake College.
-
-🟩
-
-Attorney -at -Law
-
-Speaking at a special media briefing held at the Public Library, Colombo on Monday (29),
-
-Nuwan Bopage, who studied at TS Senanayake College, Colombo, graduated from the University of Colombo.
-
-He has launched many people's struggles, including the Galle Face Struggle 2022.
-
-◼️
-
-[Data](articles/b56f23c5.json)
-
-[Extended Data](ext_articles/b56f23c5.ext.json)
 
 ---

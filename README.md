@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 07:02:16**
+As of **2024-07-30 07:28:16**
 
 ## Newspaper Stats
 
-*Scraped **37,976** Articles*
+*Scraped **37,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 2,274
 dailyftlk | 2,434
 adalk | 3,465
 adaderanalk | 4,396
-tamilmirrorlk | 4,700
+tamilmirrorlk | 4,701
 dailymirrorlk | 4,733
 virakesarilk | 5,990
-adaderanasinhalalk | 6,384
+adaderanasinhalalk | 6,385
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-37,966 (100.0%) of 37,976 articles have been extended.
+37,973 (100.0%) of 37,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### ඉදිරි පැය 24 සැලකිලිමත් වන්න
+
+*2024-07-30 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199351) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+
+අද (30) පෙ.ව 3.00ට නිකුත් කරන ලද එම නිවේදනය ඉදිරි පැය 24 සඳහා වලංගුවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+අදාළ නිවේදනයේ දැක්වෙන්නේ අරාබි මුහුදු ප්‍රදේශවල ක්‍රියාකරන බහුදින ධීවර සහ නාවික ප්‍රජාවට මෙම රතු නිවේදය පිළිබඳව සැලකිලිමත්වන ලෙසය.
+
+මේ අතර බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ සහ මාතලේ දිස්ත්‍රික්කයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය, මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-55ක පමණ තද සුළං ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/3945b5c0.json)
+
+---
 
 ### In the first quarter of 2024, the port of Colombo has been named the world's fastest growing port - KTS Ru Sandra
 
@@ -508,6 +532,20 @@ We propose that the Chapter on fundamental rights be improved to include univers
 
 ### 2024-07-29 (Monday)
 
+### மொட்டு பிளந்தது : பலர் ரணிலுடன் இணைந்தனர்
+
+*2024-07-29 23:35:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-பிளந்தது-பலர்-ரணிலுடன்-இணைந்தனர்/175-341251) · `ta`
+
+ரணிலுக்கு ஆதரவளிப்பதில்லை என ஸ்ரீலங்கா பொதுஜனபெரமுன  தீர்மானித்துள்ள போதிலும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு ஆதரவு வழங்கப்போவதாக இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னக்கோன் தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்கா பொதுஜனபெரமுன எவ்வாறான தீர்மானத்தை எடுத்திருந்தாலும் சரி, கட்சியின் பெரும்பான்மையான பாராளுமன்ற உறுப்பினர்களுடன் நான் ஜனாதிபதிக்கு எதிர்வரும் தேர்தலில்  ஆதரவளிப்பேன் நாட்டை மிக முக்கியமான தருணத்தில் காப்பாற்றியவர் அவர் என இராஜாங்க அமைச்சர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/4b728e3b.json)
+
+---
+
 ### Ranil
 
 *2024-07-29 23:35:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-ஆதரவளிக்கும்-மொட்டு-கட்சியின்-முக்கியஸ்தர்/175-341251) · `ta`
@@ -560,6 +598,8 @@ Priyantha brings a wealth of expertise to CIPM, having held senior HR roles in d
 
 [Data](articles/0a49c03f.json)
 
+[Extended Data](ext_articles/0a49c03f.ext.json)
+
 ---
 
 ### Hela and Authentic Brands Group announce outerwear partnership for Reebok
@@ -573,6 +613,8 @@ Authentic Brands Group (Authentic), a global brand development, marketing, and e
 ...
 
 [Data](articles/fd175bd2.json)
+
+[Extended Data](ext_articles/fd175bd2.ext.json)
 
 ---
 
@@ -590,6 +632,8 @@ Jaffna is increasingly gaining popularity as a tourist destination; owing largel
 
 [Data](articles/63ab316c.json)
 
+[Extended Data](ext_articles/63ab316c.ext.json)
+
 ---
 
 ### ComBank first Lankan bank to join PCAF
@@ -606,6 +650,8 @@ PCAF provides a common methodology for measuring and disclosing the carbon footp
 
 [Data](articles/a9a83680.json)
 
+[Extended Data](ext_articles/a9a83680.ext.json)
+
 ---
 
 ### CSE turnover takes a nosedive following presidential poll date announcement
@@ -619,6 +665,8 @@ Amid those developments both indices moved downwards accompanied by a paltry tur
 ...
 
 [Data](articles/11da8b6e.json)
+
+[Extended Data](ext_articles/11da8b6e.ext.json)
 
 ---
 
@@ -2173,49 +2221,5 @@ One of the police officers on the motorcyclist died on the spot and the other of
 [Data](articles/6d32d2c1.json)
 
 [Extended Data](ext_articles/6d32d2c1.ext.json)
-
----
-
-### 583 crores for VIP security
-
-*2024-07-29 14:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வி-ஐ-பி-பாதுகாப்புக்கு-583-கோடி-ரூபாய்-செலவு/175-341219) · `ta`
-
-In a recent report, the National Audit Office revealed that over Rs 583 crore was spent on securing prominent figures like ministers, governors, and religious leaders last year. The annual average cost for elite bodyguards from 2018 to 2022 was Rs 434 crore, highlighting significant expenses beyond just salaries and allowances for VIP protection personnel.
-
-🟩
-
-The National Audit Office said in a recent report, according to a recent report by the National Audit Office, said that the security of prominent figures, including ministers, governors and religious leaders, had been spent over Rs 583 crore last year.
-
-According to the report, the annual average cost for elite bodyguards from 2018 to 2022 was Rs 434 crore.
-
-Therefore, the Auditors have observed that the salaries and allowances paid to the authorities attached to the circular outside of the VIPs police chiefs are not low.
-
-◼️
-
-[Data](articles/76c59cff.json)
-
-[Extended Data](ext_articles/76c59cff.ext.json)
-
----
-
-### Ball Complaint against Namal
-
-*2024-07-29 14:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலுக்கு-எதிராக-பந்துல-முறைப்பாடு/175-341218) · `ta`
-
-Minister Bandula Gunawardena filed a complaint against Parliamentarian Namal Rajapaksa over the latter's involvement in organizing the Homagama People's Alliance (PA). However, the police stated they couldn't act on this matter.
-
-🟩
-
-Minister Bandula Gunawardena has lodged a complaint against Parliamentarian Namal Rajapaksa, the Ministry of Public Safety said.
-
-Bandula Gunawardena has lodged a complaint with the Homagama Police against the National Organizer of the PA, Namal Rajapaksa, for organizing the Homagama PA.
-
-Police said that the police cannot take action on such matters.
-
-◼️
-
-[Data](articles/be79a76d.json)
-
-[Extended Data](ext_articles/be79a76d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 17:20:38**
+As of **2024-07-30 17:36:18**
 
 ## Newspaper Stats
 
-*Scraped **38,070** Articles*
+*Scraped **38,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 4,410
 tamilmirrorlk | 4,722
 dailymirrorlk | 4,733
 virakesarilk | 5,994
-adaderanasinhalalk | 6,409
+adaderanasinhalalk | 6,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,069 (100.0%) of 38,070 articles have been extended.
+38,069 (100.0%) of 38,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
+
+### ප්‍රමාණය ඉක්මවා සුනඛයාට ආහාර දුන් කාන්තාවකට සිරදඬුවම්
+
+*2024-07-30 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199378) · `si`
+
+ප්‍රමාණය ඉක්මවා සුනඛයෙකුට ආහාර ලබාදීමේ චෝදනාවකට වරදකරු වූ කාන්තාවකට නවසීලන්ත අධිකරණයක් මඟින් සිරදඬුවම් නියම කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+කිලෝග්‍රෑම් 53ක් බරින් යුත් මෙම සුනඛයා මියයාමේ සිද්ධියට අදාළව සිදුකළ පරීක්ෂණයකදී අනාවරණය වී ඇත්තේ අදාළ කාන්තාව විසින් සුනඛයාට ප්‍රමාණය ඉක්මවා ආහාර ලබාදී ඇති බවය.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් සත්ත්ව සංවිධානයක් විසින් අධිකරණයට කරුණු වාර්තා කර තිබුණි.
+
+ඒ අනුව අදාළ චෝදනාවලට වරද පිළිගෙන ඇති එම කාන්තාවට මාස දෙකක සිරදඬුවමක් සහ ඩොලර් 720ක දඩයක් නියම කර ඇති බවද විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/1587c07c.json)
+
+---
 
 ### Request to solve the IGP
 
@@ -2285,25 +2303,5 @@ This is why the candidates contesting the presidential election, whether they ar
 [Data](articles/803c4909.json)
 
 [Extended Data](ext_articles/803c4909.ext.json)
-
----
-
-### Qatar Sri Lanka Business Council launched in Doha by Marshad Barry
-
-*2024-07-30 01:38:18* · [`dailyftlk`](https://www.ft.lk/business/Qatar-Sri-Lanka-Business-Council-launched-in-Doha-by-Marshad-Barry/34-764906) · `en`
-
-Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (centre) with office bearers of Qatar Sri Lanka Business Council at the event
-
-Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (right) and President of Qatar Sri Lanka Business Council John Prasad exchanging documents during launch of Council at Sri Lanka Embassy in Doha
-
-Ambassador of Sri Lanka to Qatar Mohamed Mafaz Mohideen (right) and Inthicab Rawoof launching Qatar Sri Lanka Business Council website
-
-Diplomatic relations between the State of Qatar and the Republic of Sri Lanka began officially at the Ambassadorial level (Non-Resident) on 20/07/1976.
-
-...
-
-[Data](articles/bf56dddf.json)
-
-[Extended Data](ext_articles/bf56dddf.ext.json)
 
 ---

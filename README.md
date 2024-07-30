@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 04:52:56**
+As of **2024-07-31 05:05:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,140 (100.0%) of 38,141 articles have been extended.
+38,141 (100.0%) of 38,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,19 +132,25 @@ But, like the first two matches, Sri Lanka's victory has gone so far as wickets 
 
 ---
 
-### உட்கட்டமைப்பு உதவியை இந்தியா இரட்டிப்பாக்கியது
+### India doubled the infrastructure aid
 
 *2024-07-31 00:08:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உட்கட்டமைப்பு-உதவியை-இந்தியா-இரட்டிப்பாக்கியது/175-341319) · `ta`
 
-இந்திய அரசின் 300 மில்லியன் ரூபாய்கள் உதவியுடன் தோட்டப் பாடசாலைகளின் உட்கட்டமைப்பு வசதிகளை மேம்படுத்துவதற்கான கருத்திட்டங்களை நடைமுறைப்படுத்துவதற்காக, 2019.06.04 அன்று  இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+India increased infrastructure aid for plantation schools in Sri Lanka from 300 million to 600 million rupees post-economic crisis, as approved in a Cabinet meeting on 04.06.2019.
 
-இலங்கையில் நிலவிய பொருளாதார நெருக்கடியால் ஏற்பட்ட விலை அதிகரிப்புகளால், குறித்த கருத்திட்டத்தின் நன்கொடையை 600 மில்லியன்  ரூபாய்களாக அதிகரிப்பதற்கு இந்திய அரசு உடன்பாடு தெரிவித்துள்ளது.
+🟩
 
-அதற்கிணங்க,  ஏற்புடைய ஆவணங்களில் கையொப்பம் இடுவதற்காக கல்வி அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.  R
+The Cabinet meeting held on 04.06.2019 has been approved to implement projects to improve the infrastructure of plantation schools with the help of 300 million rupees of the Government of India.
+
+The Government of India has agreed to increase the donation of the project to 600 million rupees due to the increase in prices caused by the economic crisis in Sri Lanka.
+
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of Education for signing the appropriate documents.R
 
 ◼️
 
 [Data](articles/bd24b441.json)
+
+[Extended Data](ext_articles/bd24b441.ext.json)
 
 ---
 

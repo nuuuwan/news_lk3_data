@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-30 12:36:11**
+As of **2024-07-30 12:53:57**
 
 ## Newspaper Stats
 
-*Scraped **38,018** Articles*
+*Scraped **38,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 367
 islandlk | 2,180
 economynextcom | 2,274
 dailyftlk | 2,434
-adalk | 3,470
+adalk | 3,471
 adaderanalk | 4,405
 tamilmirrorlk | 4,708
 dailymirrorlk | 4,733
@@ -26,27 +26,33 @@ adaderanasinhalalk | 6,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,015 (100.0%) of 38,018 articles have been extended.
+38,018 (100.0%) of 38,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-30 (Tuesday)
 
-### කෙහෙළිය ඉල්ලන තීන්දුව ගැන අභියාචනාධිකරණයෙන් නිවේදනයක්
+### Court of Appeal announced on the verdict of Keheliya
 
 *2024-07-30 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199365) · `si`
 
-මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට කළ නියෝගය බලරහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ පෙත්සමේ නියෝගය අගෝස්තු මස 09 වනදා ප්‍රකාශයට පත්කරන බව අභියාචනාධිකරණය නිවේදනය කළේය.
+The Court of Appeal ordered Minister Keheliya Rambukwella to be appointed as the Court of Paradise on August 09, following his remand over the purchase of substandard antibodies during his tenure as Health Minister. The court also announced an interim order issued by him on the same day, which was initially published on August 01.
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් හිටපු සෞඛ්‍ය අමාත්‍යවරයා රක්ෂිත බන්ධනාගාරගත කර සිටියි.
+🟩
 
-තමන්ව ඇප මත මුදාහරිණ ලෙස ඉල්ලා කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කර තිබෙන අතුරු ඉල්ලීම පිළිබඳ නියෝගය ද එදින ප්‍රකාශයට පත්කරන බවත් අධිකරණය නිවේදනය කළේය.
+The Court of Appeal announced the order of Minister Keheliya Rambukwella, Minister Keheliya Rambukwella, the order of Minister Keheliya Rambukwella to be appointed as the Court of Paradise on August 09.
 
-මෙම නියෝගය අගෝස්තු මස 01 වනදා ප්‍රකාශයට පත්කරන බව මීට පෙර නිවේදනය කර තිබුණි.
+Former Health Minister (Minister of Health) has remanded over the purchase of substandard antibodies.
+
+The court announced that the order on the interim request issued by Keheliya Rambukwella is also announced on that day.
+
+This order was previously announced that the order was published on August 01.
 
 ◼️
 
 [Data](articles/1a315a92.json)
+
+[Extended Data](ext_articles/1a315a92.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ A special program has been implemented to ensure the speedy distribution of offi
 ...
 
 [Data](articles/e37e1bd0.json)
+
+[Extended Data](ext_articles/e37e1bd0.ext.json)
 
 ---
 
@@ -146,6 +154,24 @@ The girl who was injured in the shooting has been admitted to the Dambulla Hospi
 
 ---
 
+### දයාසිරිලාගේ සහාය සජිත්ට
+
+*2024-07-30 10:57:43* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිලාගේ-සහාය-සජිත්ට/11-411084) · `si`
+
+මෙවර ජනාධිපතිවරණයේදී සිය පක්ෂයේ සහාය සමගි ජන බල වේගයට ලබාදෙන බව මානුෂීය ජනතා සන්ධානයේ ප්‍රචාරක ලේකම් සමන් ප්‍රියන්ත විජේවික්‍රම මහතා අද(30) පෙරවරුවේ කරන්දෙණියේ පැවති මාධ්‍ය හමුවකදී කීවේය.
+
+මානුෂීය ජනතා සන්ධානයේ නායක ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහා ලේකම් දයාසිරි ජයසේකර මහතාගේ පූර්ණ අනුමැතිය සහ අනුබලය මේ සදහා ලැබී ඇති බවද විජේවික්‍රම මහතා කීය.
+
+සමගි ජන බල වේගයේ නායක විපක්ෂ නායක ජනාධිපති අපේක්ෂක සජිත් ප්‍රේමදාස මහතා සමග සිය පක්ෂය සාකච්චා වට කිහිපයක්ම පැවැත්වූ බවත් ඒ හැම සාකච්චා වටයක්ම ඉතා සාර්ථක අන්දමින් නිමාවට පත්වීමත් සමගම මේ නව තීරණයට මානුෂීය ජනතා සන්ධානය පැමිණි බවද විජේවික්‍රම මහතා කීවේය.
+
+මේ රට ගොඩගත හැකි දැනට සිටින එකම නායකයා සජිත් ප්‍රේමදාස මහතා බවත් මේ වනවිට මේ රටේ ජනතාව වැඩියෙන්ම සමීපව ඇත්තේ ප්‍රේමදාස මහතා වටා නිසාත් සිය පක්ෂයට මේ තීරණය ගැනීමට පහසුවූ බවද විජේවික්‍රම මහතා පැවසුවේය.
+
+...
+
+[Data](articles/f04da6f2.json)
+
+---
+
 ### A terrible landslide in Kerala - A large crowd
 
 *2024-07-30 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199362) · `si`
@@ -170,17 +196,23 @@ It is suspected that the landslides have been disrupted due to heavy rains and s
 
 ---
 
-### ආණ්ඩු පක්ෂ මන්‍ත්‍රි කණ්ඩායමේ විශේෂ සාකච්ඡාවක් ජනපති හා අගමැති ප්‍රධානත්වයෙන්
+### President and the Prime Minister joins a special discussion at the government
 
 *2024-07-30 10:44:57* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂ-මන්‍ත්‍රි-කණ්ඩායමේ-විශේෂ-සාකච්ඡාවක්-ජනපති-හා-අගමැති-ප්‍රධානත්වයෙන්/11-411083) · `si`
 
-ජනාධිපතිවරයාගේ හා  අග්‍රාමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් ආණ්ඩු පක්ෂ මන්ත්‍රීවරුන් සමග පවත්වනු ලබන විශේෂ සාකච්ඡාවක් අද (30දා) ප.ව. 5.30 ට කොළඹ 01, ජනාධිපති ලේකම් කාර්යාලයේ දී පැවැත්වීමට නියමිතය.
+Today, a crucial meeting between the President and the Prime Minister, along with all ruling party MPs, will take place at the Presidential Secretariat at 5:30 pm. This gathering is significant, with the Chief Government Whip ensuring everyone's attendance.
 
-ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායමේ සියලුම මන්ත්‍රීවරුන් ඒ සදහා සහභාගිවීමට අනිවාර්යයෙන්ම අද දින ප.ව. 5.30 ට ජනාධිපති ලේකම් කාර්යාලයට පැමිණෙන ලෙස ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායකවරයා දැනුම් දී ඇතැයි වාර්තා වේ.
+🟩
+
+A special discussion with the government of the President and the Prime Minister will be held today (30). The Presidential Secretariat will be held at 5.30 pm.
+
+All MPs of the ruling party members are inevitably participating in this day. It is reported that the Chief Government Whip has informed the Presidential Secretariat to visit the Presidential Secretariat at 5.30 pm.
 
 ◼️
 
 [Data](articles/73f63acf.json)
+
+[Extended Data](ext_articles/73f63acf.ext.json)
 
 ---
 
@@ -2203,21 +2235,5 @@ Accordingly, the current President of the PA will not support the current Presid
 [Data](articles/a8ddd02d.json)
 
 [Extended Data](ext_articles/a8ddd02d.ext.json)
-
----
-
-### Ranil Beats Trump On Hypocrisy & Crookedness
-
-*2024-07-29 18:15:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-beats-trump-on-hypocrisy-crookedness/) · `en`
-
-If ever Sri Lanka has produced the most fake democrat, it has to be our back-door President Ranil Wickramesinghe. While he altered our constitution and laws by 19th Amendment, claiming to strengthen what little left of our apparent democracy, he is denying the most fundamental component of any democracy; the right to vote! At least Trump did not pretend to be a great Democrat! But RW did! RW made SL one up over America!
-
-He denied the local elections over a year ago bogusly claiming lack of funds all the while spending millions of borrowed monies on a non existing national pride on the Independence Day celebrations. Further he also got the bunch of Rajapaksa crooks and hooligans in the parliament to approve extra Rs. 200 million over and above the budget on his own foreign travel. Note that this is all borrowed money we don’t have !
-
-...
-
-[Data](articles/e88edd71.json)
-
-[Extended Data](ext_articles/e88edd71.ext.json)
 
 ---

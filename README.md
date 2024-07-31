@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 22:20:31**
+As of **2024-07-31 22:35:51**
 
 ## Newspaper Stats
 
-*Scraped **38,314** Articles*
+*Scraped **38,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 333
 colombotelegraphcom | 363
 newsfirstlk | 363
 bbccomsinhala | 368
-islandlk | 2,190
+islandlk | 2,191
 economynextcom | 2,307
 dailyftlk | 2,444
 adalk | 3,512
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,310 (100.0%) of 38,314 articles have been extended.
+38,314 (100.0%) of 38,315 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ Following the information obtained after interrogating the suspect, the STF offi
 
 [Data](articles/7d439171.json)
 
+[Extended Data](ext_articles/7d439171.ext.json)
+
 ---
 
-### වෛද්‍ය සිසුන් බඳවා ගැනීමට එරෙහි පෙත්සමක් නිෂ්ප්‍රභ කෙරේ
+### Petition against recruitment of medical students is dismissed
 
 *2024-07-31 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199425) · `si`
 
-කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයට වෛද්‍ය සිසුන් බඳවා ගැනීමට එරෙහිව ගොනු කළ පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය නිෂ්ප්‍රභ කර තිබේ.
+The Supreme Court dismissed a petition against the recruitment of medical students to Kotelawala Defense University, ruling against claims of human rights violations. The court's decision was based on the advice of Attorney General Sumathi Dharmawardena, who represented the university.
 
-කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයට වෛද්‍ය උපාධිය සඳහා සම්මත නිර්ණායකයන්ට පටහැනි ලෙස සිසුන් බඳවා ගැනීමට ගෙන තිබෙන තීරණය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වන බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මහාචාර්ය අර්ජුන පරාක්‍රම ප්‍රමුඛ පිරිසක් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට නොගෙනම නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය එලෙස අද (31) තීන්දු කර ඇත.
+🟩
 
-අදාළ පෙත්සම කරුණු වසන් කරමින් ගොනුකර තිබෙන බවට නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් සුමති ධර්මවර්ධන මහතා විසින් මතු කළ මූලික විරෝධතා පිළිගැනීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝග නිකුත් කර තිබේ.
+The Supreme Court has dismissed a petition filed against the recruitment of medical students to Kotelawala Defense University.
+
+The Supreme Court has decided to distort a fundamental rights petition filed by professor Arjuna by the decision of the Pradeshma Pradesh of Professor Arjuna by the decision of the Pradeshus of the students to file a decision that the Kotelawala Defense University has violated the basic human rights..
+
+The Supreme Court has issued the preliminary protests since the Attorney General, Sumathi Dharmawardena, who appeared on behalf of the Attorney General.
 
 ◼️
 
 [Data](articles/44dfd456.json)
+
+[Extended Data](ext_articles/44dfd456.ext.json)
 
 ---
 
@@ -102,17 +110,23 @@ The price of a liter of Lanka Super Diesel 4 Star Euro 4 is Rs 355.(R)
 
 ---
 
-### ඉන්ධන මිල සංශෝධනය
+### Fuel revision
 
 *2024-07-31 21:28:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සංශෝධනය/11-411135) · `si`
 
-අගෝස්තු මාසයට අදාළ ඉන්ධන මිල සංශෝධනය ගැන ලංකා ඛණිජ තෙල් සංස්ථාව නිවේදනයක් නිකුත් කර තිබේ.
+Ceylon Petroleum Corporation announced no fuel price changes for August, confirming no revisions will occur this month.
 
-ඒ අනුව අගෝස්තු මාසයට අදාල ඉන්ධන මිල සංශෝධනයක් සිදු නොවන බවත්, පවතින මිල නොවෙනස්ව අගෝස්තු මාසය තුළද ක්‍රියාත්මක වන බවත් එහි සඳහන් කර ඇත.
+🟩
+
+Ceylon Petroleum Corporation has issued a statement regarding the fuel revision for August.
+
+Accordingly, a fuel price of a August is not amended and that there will be no revision of the August and is in August.
 
 ◼️
 
 [Data](articles/9b270db7.json)
+
+[Extended Data](ext_articles/9b270db7.ext.json)
 
 ---
 
@@ -334,17 +348,23 @@ The magistrate has subsequently adjourned the case to September 11. Remble
 
 ---
 
-### ජනපතිවරණයට අදාළව පොලිස් මැතිවරණ මෙහෙයුම් මැදිරි අරඹයි
+### Police launch of Police Elections for the Presidential Election
 
 *2024-07-31 19:28:17* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-අදාළව-පොලිස්-මැතිවරණ-මෙහෙයුම්-මැදිරි-අරඹයි/11-411130) · `si`
 
-ජනාධිපතිවරණයට අදාළ මැතිවරණ මෙහෙයුම්  මැදිරි ආරම්භ කර තිබෙන බව වැඩ බලන පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ රුවන් ගුණසේකර මහතා  සඳහන් කළේය.ඒ මහතා මෙසේද පැවසීය.
+The Police Election Operations Compartment for the upcoming Presidential Election has been launched, with electoral units set up at police stations nationwide under officer supervision.
 
-,ඕනෑම මැතිවරණයක් ප්‍රකාශයට පත් කළාම පොලිස් ස්ථාන මට්ටමින් මැතිවරණ මෙහෙයුම් මැදිරි ස්ථාපිත කරනවා.  කොට්ඨාස භාර නිලධාරීන්ගේ අධික්ෂණය යටතේ  මෙම මැතිවරණ මෙහෙයුම් මැදිරි ස්ථාපිත කිරීම   සිදුවෙනවා. ඒ අනුව පොලිස් ස්ථානවල මෙම මැදිරි ස්ථාපිත කර තිබෙනවා.
+🟩
+
+Acting Police Media Spokesperson DIG's Court Ruwan Gunasekera said that the election operations compartment of the presidential election has been launched.
+
+When an election is published, electoral operating compartments will be established at the police station level.These elections will be established under the supervision of the officers in charge of the officers. Accordingly, the compartments have been established at police stations.
 
 ◼️
 
 [Data](articles/c54b4355.json)
+
+[Extended Data](ext_articles/c54b4355.ext.json)
 
 ---
 

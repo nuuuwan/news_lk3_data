@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 15:53:47**
+As of **2024-07-31 16:06:06**
 
 ## Newspaper Stats
 
-*Scraped **38,251** Articles*
+*Scraped **38,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,300
 dailyftlk | 2,444
-adalk | 3,502
+adalk | 3,503
 adaderanalk | 4,424
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,748
@@ -26,43 +26,55 @@ adaderanasinhalalk | 6,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,248 (100.0%) of 38,251 articles have been extended.
+38,251 (100.0%) of 38,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### இஸ்மாயில் ஹனி படுகொலை:  ஜனாதிபதி ரணில் அதிரடி
+### Ismail Honey assassination: President Ranil Action
 
 *2024-07-31 15:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்மாயில்-ஹனி-படுகொலை-ஜனாதிபதி-ரணில்-அதிரடி/175-341350) · `ta`
 
-இரானில் ஹமாஸ் இயக்கத்தின் அரசியல் பிரிவுத் தலைவர் இஸ்மாயில் ஹனி படுகொலைச் செய்யப்பட்டதை அடுத்து ஜனாதிபதி ரணில் விக்கிரமசிங்க அதிரடி நடவடிக்கை எடுத்துள்ளார்.
+Following Ismail Honey's assassination, President Ranil Wickremesinghe formed committees to assess the security and economic impacts on Sri Lanka from the Middle East crisis, particularly involving Iran.
 
-படுகொலை செய்யப்பட்டுள்ள நிலையில், ஈரான் உள்ளிட்ட மத்திய கிழக்கு நாடுகள் மற்றும் உலகில் ஏற்படக் கூடிய நிலைமையினால் இலங்கைக்கு ஏற்படக் கூடிய பாதிப்புகள் குறித்தே கவனம் செலுத்தியுள்ளார்.
+🟩
 
-இலங்கைக்கு ஏற்படக் கூடிய பாதுகாப்பு, பொருளாதார பாதிப்புக்களை எதிர்கொள்வதற்கான முன் ஆயத்தமாக தேசிய பாதுகாப்பு தொடர்பான குழுவையும், பொருளாதாரம் தொடர்பான குழுவையும், இவற்றைக் கண்காணிக்க உயர் மட்டக் குழுவையும் நியமிக்க ஜனாதிபதி ரணில் விக்ரமசிங்க நடவடிக்கை எடுத்துள்ளார்.
+President Ranil Wickremesinghe has taken action following the assassination of Ismail Honey, the political wing of the Hamas movement in Iran.
+
+As the assassination, he has focused on the impact of Sri Lanka due to the situation in the Middle East and the world, including Iran.
+
+President Ranil Wickremesinghe has taken steps to appoint the National Security Committee, the Economics Committee and the High Level Committee to monitor the security and economic impacts to Sri Lanka.
 
 ◼️
 
 [Data](articles/9142b309.json)
 
+[Extended Data](ext_articles/9142b309.ext.json)
+
 ---
 
-### කොළඹ උද්ධමනය ඉහළ යයි
+### Colombo inflation rises
 
 *2024-07-31 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199414) · `si`
 
-2024 ජූලි මාසය සඳහා කොළඹ පාරිභෝගික මිල දර්ශකය සහ කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  ප්‍රකාශයට පත් කර තිබේ.
+Colombo's consumer inflation rose from 1.7% in June to 2.4% in July 2024. Annual inflation also increased slightly from 1.4% to 1.5%. Non-food inflation went up to 2.8%, compared to 1.8% in June.
 
-ඒ අනුව කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  2024 ජූලි මාසය සඳහා 2.4% ක් දක්වා වැඩි වී ඇත.  එය 2024 ජුනි මාසය සඳහා 1.7% ක් ලෙස වාර්තා වී තිබුණි.
+🟩
 
-2024  ජුලි මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය 1.5% දක්වා වැඩි වී ඇති අතර 2024 ජුනි මාසයේදී වාර්තා වුයේ 1.4% ක්  ලෙසය.
+The Colombo Consumer Price Index and the Colombo Municipal Community has published the Colombo Consumer Price Index and the Colombo Municipal Community.
 
-එමෙන්ම,  2024 ජූලි මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය 2.8% ක් දක්වා වැඩිවී ඇති අතර එය 2024 ජුනි මාසයේදී 1.8%  ක් ලෙස වාර්තාවී ඇති බවද ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+Accordingly, the Consumer Inflation of the Colombo Municipal Community has increased to 2.4% for July 2024.  එය 2024 ජුනි මාසය සඳහා 1.7% ක් ලෙස වාර්තා වී තිබුණි.
+
+In July 2024, annual inflation increased to 1.5% and in June 2024 as 1.4%.
+
+Also, the non-food annual inflation has increased to 2.8% of the month of 2024, and 1.8% in June 2024 was reported in June 2024, the Department of Census and Statistics.
 
 ◼️
 
 [Data](articles/0798bf35.json)
+
+[Extended Data](ext_articles/0798bf35.ext.json)
 
 ---
 
@@ -278,25 +290,35 @@ The Vision 'Every Sacred Area' has taken a lot of measures to stabilize the coun
 
 ---
 
-### බාලදක්ෂ ව්‍යාපාරයේ සාමාජිකත්වය දෙගුණ කිරිමට යයි
+### Membership of the Scout Movement to be douby
 
 *2024-07-31 13:40:37* · [`adalk`](https://www.ada.lk/breaking_news/බාලදක්ෂ-ව්‍යාපාරයේ-සාමාජිකත්වය-දෙගුණ-කිරිමට-යයි/11-411118) · `si`
 
-බාලදක්ෂ ව්‍යාපාරය ඇතුළු සංවිධාන සෑම අතින්ම ශක්තිමත් කර රටේ ඉදිරි ගමන වෙනුවෙන් තාරුණ්‍ය පුළුල් ලෙස දායක කර ගන්නවා
+President Ranil Wickremesinghe aims to bolster youth organizations like the Scout Movement and Youth Corps, allocating funds for their development. He highlighted the importance of these groups in strengthening the nation and contributing to its progress. The President also emphasized the role of youth organizations in drug prevention and expressed support for a new building for the Scout Association.
 
-බාලදක්ෂිකා සංගමයට නව ගොඩනැඟිල්ලක් – බාල දක්ෂිකාවන් 2000කට ජනාධිපති පදක්කම් පිරිනමමින් ජනපති කියයි.
+🟩
 
-බාලදක්ෂ ව්‍යාපාරය, ශිෂ්‍ය භට බලකාය සහ යොවුන් සේනාංකය වැනි තරුණ සංවිධාන සෑම අතින්ම ශක්තිමත් කර රටේ ඉදිරි ගමන වෙනුවෙන් තාරුණ්‍ය පුළුල් ලෙස දායක කර ගැනීම තම අරමුණ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය
+Organizations, including scout movement, strengthens the country and contributes to the country's progress
 
-ඒ වෙනුවෙන් අවශ්‍ය ප්‍රතිපාදන රජය දැනටමත් වෙන් කර තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා ඉදිරියේ දී ද ඊට අවශ්‍ය ප්‍රතිපාදන වෙන් කරන බව කියා සිටියේය.
+New building for the Scout Association
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ශ්‍රී ලංකා බාල දක්ෂිකා සංගමයේ සාමාජිකාවන්ට ජනාධිපති පදක්කම් පිරිනැමීම වෙනුවෙන් කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ අද (31) පැවති උත්සවයට එක් වෙමිනි.
+President Ranil Wickremesinghe said that his aim was to strengthen the youth organizations, such as the Scout Movement, and Youth Corps.
 
-75,000ක් වූ බාලදක්ෂ ව්‍යාපාරයේ සාමාජිකත්වය 150,000 දක්වා ඉහළ නැංවීමට අවශ්‍ය සහාය ලබා දෙන බවද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+The President pointed out that the government has already allocated the necessary funds for this purpose, the President said that it would be allocated before.
+
+President Ranil Wickremesinghe was speaking at a ceremony held at the Bandaranaike Memorial International Conference Hall today (31) to preside presidential medals of the Sri Lanka Inferior Tierce Association.
+
+The President also supports the support of Rs. 150,000.
+
+The President also pointed out that the drug prevention is also available through youth organizations such as Scouting, Cadet Corps and Youth Corps.
+
+The presidential medals presented to 2000 younger talents was chaired by President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/227989b3.json)
+
+[Extended Data](ext_articles/227989b3.ext.json)
 
 ---
 
@@ -363,6 +385,22 @@ The bus owners on the 138 route stressed that their income has been greatly affe
 [Data](articles/5f0a041a.json)
 
 [Extended Data](ext_articles/5f0a041a.ext.json)
+
+---
+
+### පි සි අල්ලස් දැලේ
+
+*2024-07-31 13:35:18* · [`adalk`](https://www.ada.lk/breaking_news/පි-සි-අල්ලස්-දැලේ/11-411117) · `si`
+
+බිබිල මැදගම පොලිස්  ස්ථානයේ කොස්තාපල්වරයෙකු මැදගම නගරයේ පොදු වෙළඳපොලේ දි ව්‍යාපාරිකයෙකුගෙන් රුපියල් 3000/=   අල්ලස් මුදලක් ලබා ගනිද්දී අත්අඩංගුවට ගත් බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කියයි.
+
+බිබිල මැදගම ප්‍රදේශයේ පුද්ගලයකු විසින් කරන ලද පැමිණිල්ලකට අනුව අත්අඩංගුවට ගන්නා ලද රා ප්‍රමාණය අඩුවෙන් සඳහන් කර අධිකරණයට කරුණු වාර්තා කිරීමටත් අත්අඩංගුවට ගන්නා ලද සැකකරුවන්ගේ පෙර වැරදි සඳහන් නොකිරීමට සහ ඉදිරියේදී මේ සම්බන්ධ අවශ්‍ය සහයෝගය ලබාදීම සඳහා එකී මුදල ඉල්ලා  ලබා ගැනීමේ චෝදනාව මත සැකකාර කොස්තාපල්වරයා කඩ කාමරය තුළදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+සැකකාර කොස්තාපල්වරයා බිබිල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/3b886987.json)
 
 ---
 
@@ -2273,31 +2311,5 @@ The Cabinet has approved the idea submitted by the Minister of Commerce, Busines
 [Data](articles/29dfba62.json)
 
 [Extended Data](ext_articles/29dfba62.ext.json)
-
----
-
-### "Those who met Ranil met me"
-
-*2024-07-31 00:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்தவர்கள்-என்னையும்-சந்தித்தனர்/175-341317) · `ta`
-
-Namal Rajapaksa, the National Organizer of the Sri Lanka Peoples Alliance, mentioned that individuals supporting Ranil Wickremesinghe visited his home. He highlighted that such occurrences are common for the elderly, including his father, former President Mahinda Rajapaksa. Despite these visits, they remain committed to protecting their political factions, particularly opposing the United National Party. Rajapaksa also addressed the public's anticipation due to his absence from the presidential election, noting that some might exploit this situation for their own purposes.
-
-🟩
-
-The National Organizer of the Sri Lanka Peoples Alliance (PA) Namal Rajapaksa said that some people who went to support Ranil Wickremesinghe came to his homes.
-
-Namal Rajapaksa made this statement while addressing the media after attending an event in Colombo on Tuesday morning.
-
-Namal Rajapakse said that such issues are normal for the elderly for my father and former President Mahinda Rajapaksa, but they are working to protect the political camps he represents.
-
-He said it would continue to represent historical opposition against the United National Party, since the Sri Lanka PA was in the camp against the United National Party.
-
-He said that he was bargaining with the public because of his absence of the presidential election and that some people are ready to use this opportunity as a chance of gathering.. Remble
-
-◼️
-
-[Data](articles/33212586.json)
-
-[Extended Data](ext_articles/33212586.ext.json)
 
 ---

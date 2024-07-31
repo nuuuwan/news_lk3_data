@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 21:35:58**
+As of **2024-07-31 21:55:33**
 
 ## Newspaper Stats
 
-*Scraped **38,307** Articles*
+*Scraped **38,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
 adalk | 3,510
-adaderanalk | 4,431
+adaderanalk | 4,432
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,758
-virakesarilk | 6,055
+tamilmirrorlk | 4,759
+virakesarilk | 6,056
 adaderanasinhalalk | 6,452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,307 (100.0%) of 38,307 articles have been extended.
+38,307 (100.0%) of 38,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### No fuel price revision in August – Ceypetco
+
+*2024-07-31 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/100903/no-fuel-price-revision-in-august-ceypetco-) · `en`
+
+The Ceylon Petroleum Corporation (Ceypetco) announced that there will be no fuel price revisions for the month of August.
+
+◼️
+
+[Data](articles/ce814795.json)
+
+---
+
+### எரிபொருள் திருத்தம் - வெளியானது அறிவிப்பு
+
+*2024-07-31 21:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-திருத்தம்-வெளியானது-அறிவிப்பு/175-341372) · `ta`
+
+ஆகஸ்ட் மாதத்திற்கான எரிபொருள் விலை திருத்தம் மேற்கொள்ளப்பட மாட்டாது. ஏற்கனவே உள்ள விலைகளுக்கே எரிபொருட்கள் விற்பனை செய்யப்படவுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனம் அறிவித்துள்ளது.
+
+லங்கா சுப்பர் டீசல் 4 ஸ்டார் யூரோ 4 இன்  லீற்றர் ஒன்றின் விலை 355 ரூபாய்.  (R)
+
+◼️
+
+[Data](articles/4a037fd5.json)
+
+---
+
+### மாதாந்த எரிபொருள் விலையில் மாற்றம் இம்முறை இருக்காது - இலங்கை பெற்றோலிய கூட்டுத்தாபனம்
+
+*2024-07-31 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/189946) · `ta`
+
+மாதாந்த எரிபொருள் விலைத் திருத்தத்தின் கீழ் இம்முறை விலையில் மாற்றம் இருக்காது என இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5f3d82e6.json)
+
+---
 
 ### Fuel prices do not change
 
@@ -2239,75 +2277,5 @@ The Nochichagama Hospital was placed at the Nochichagama Hospital to conduct pos
 [Data](articles/aebd7652.json)
 
 [Extended Data](ext_articles/aebd7652.ext.json)
-
----
-
-### Sri Lanka’s FLiCo to retail Konka products
-
-*2024-07-31 11:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-flico-to-retail-konka-products-174585/) · `en`
-
-ECONOMYNEXT – FLiCo, a subsidiary of microfinance company Future Life Holdings, said it will be Chinese electronics manufacturer Konka’s new distribution agent in Sri Lanka.
-
-Konka products, including TVs, refrigerators, deep freezers and washing machines, will now be accessible to consumers through FLiCo’s network across the country, the company said.
-
-The first two Konka-branded showrooms opened last week at Maharagama and Pelawatte.
-
-“With the unveiling of the FLiCo network, Sri Lankan consumers can now conveniently access a range of top-notch products, including the innovative and high-quality offerings from KONKA, renowned for its technological advancements and excellent value for money,” the company said in a statement.
-
-Konka’s Senior Manager Overseas Business Division Fiona You, Regional Director Reed Lu, and Future Life Holdings directors Danushka Udugama, Sanjaya Jayaweera, and Kasun Perera were present at the launch.
-
-...
-
-[Data](articles/6f4d0526.json)
-
-[Extended Data](ext_articles/6f4d0526.ext.json)
-
----
-
-### The current president of the judiciary is the current president - the organization that supported the government of goodwill in 2015
-
-*2024-07-31 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/189870) · `ta`
-
-Pravasi Palaya, which backed the 2015 government, criticizes President Ranil Wickremesinghe for his handling of the Tennakoon case, suggesting it could delay elections due to ongoing executive-judicial confrontations. The President's remarks imply he aims to assert executive dominance over the judiciary, potentially reviving the Patriot Tennakoon issue.
-
-🟩
-
-In 2015, the political organization, the Pravasi Palaya, which supported the government of goodwill, has severely criticized President Ranil Wickremesinghe's actions.
-
-Member of the organization said that the president has created an affair in the country by dealing with the affair of the Tennakoon.
-
-Kamini Veerakoon said that the President's latest comment on the conflict of executive power and the judiciary indirectly realizes that the election may be delayed.
-
-He said that the executive power has continued to be involved in a confrontation with the judiciary.
-
-The President is expecting to obey the Judicial Department, saying that the President is trying to show that the executive power is larger than the judiciary.
-
-The president's recent comments have revealed that he is trying to re -assume the patriot Thenkon.
-
-◼️
-
-[Data](articles/ccb21afc.json)
-
-[Extended Data](ext_articles/ccb21afc.ext.json)
-
----
-
-### There is no correction in fuel prices
-
-*2024-07-31 11:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையில்-திருத்தம்-இல்லை/175-341336) · `ta`
-
-Despite rumors, there's no change in fuel prices as per the latest amendment. A Ceylon Petroleum Corporation official clarified that the reduction mentioned was due to lack of fuel orders from station owners, not a price cut. The official confirmed that prices won't be adjusted today, ensuring transparency.
-
-🟩
-
-According to the Monthly Fuel Price Amendment, the fuel prices have been reduced from midnight today (31), a top official of the Ceylon Petroleum Corporation said that the fuel station owners did not order fuel.
-
-The official added that the fuel prices will not be revised today after paying attention to the situation and that the fuel station owners have been officially informed that the fuel prices will not be revised.
-
-◼️
-
-[Data](articles/deeb68ed.json)
-
-[Extended Data](ext_articles/deeb68ed.ext.json)
 
 ---

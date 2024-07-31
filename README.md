@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 11:05:44**
+As of **2024-07-31 11:20:42**
 
 ## Newspaper Stats
 
-*Scraped **38,192** Articles*
+*Scraped **38,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,190
 economynextcom | 2,293
 dailyftlk | 2,444
 adalk | 3,495
-adaderanalk | 4,419
+adaderanalk | 4,420
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,738
+tamilmirrorlk | 4,739
 virakesarilk | 6,023
 adaderanasinhalalk | 6,431
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 6,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,186 (100.0%) of 38,192 articles have been extended.
+38,192 (100.0%) of 38,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### Kerala’s Wayanad landslides: Death toll rises to 151, search on for missing
+
+*2024-07-31 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/100891/-keralas-wayanad-landslides-death-toll-rises-to-151-search-on-for-missing) · `en`
+
+Nearly 1,000 people have been rescued after landslides in the hills of Wayanad district in India’s Kerala state, authorities said on Wednesday, with at least 151 people dead and many still missing.
+
+Heavy rain in one of India’s most attractive tourist destinations collapsed hillsides early on Tuesday sending torrents of mud, water and tumbling boulders through tea and cardamom estates and small settlements. It was the worst disaster in the state since deadly floods in 2018.
+
+At least 151 people died and 187 were still missing, the state chief minister’s spokesman, P.M. Manoj, told Reuters by phone.
+
+The Indian Army said it rescued 1,000 people and has begun the process to construct an alternate bridge after the main bridge linking the affected area to the nearest town of Chooralmala was destroyed.
+
+Nearly 350 of the 400 registered houses in the affected region have been damaged, Asianet TV reported, citing district officials.
+
+...
+
+[Data](articles/99fa7d14.json)
+
+---
 
 ### Three arrested over shooting and killing two persons in Grandpass
 
@@ -50,71 +70,97 @@ The incident had occurred while they were travelling in a three-wheeler when two
 
 [Data](articles/34fda6b0.json)
 
+[Extended Data](ext_articles/34fda6b0.ext.json)
+
 ---
 
-### ஜனாதிபதிக்கு எதிராக முறைப்பாடு
+### Complaint against the President
 
 *2024-07-31 10:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-எதிராக-முறைப்பாடு/175-341333) · `ta`
 
-தேர்தல் சட்டத்தை மீறியமை தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு எதிராக தேர்தல்கள் ஆணைக்குழுவில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+The Elections Commission filed a complaint against President Ranil Wickremesinghe for allegedly breaking election laws. The issue arose from discussions at the Presidential Secretariat regarding requests from ruling party members.
 
-ஆளுங்கட்சி உறுப்பினர்களை குழுவை ஜனாதிபதி செயலகத்திற்கு வரவழைத்து ஆதரவு கோரியமை தொடர்பில் இடம்பெற்ற கலந்துரையாடல் தொடர்பிலேயே இந்த முறைப்பாடு செய்யப்பட்டுள்ளது.
+🟩
+
+The Elections Commission has lodged a complaint against President Ranil Wickremesinghe over the violation of the election law.
+
+The complaint was made in connection with the discussion held on the request of the ruling party members to the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/018677cb.json)
 
+[Extended Data](ext_articles/018677cb.ext.json)
+
 ---
 
-### ඊශ්‍රායල ප්‍රහාරයකින් හිස්බුල්ලා අණදෙන නිලධාරියෙක් මරුට
+### Hezbollah commanded by an Israeli attack
 
 *2024-07-31 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199401) · `si`
 
-ලෙබනයේ අගනුවර වන බීරූට්හී දකුණු තදාසන්න ප්‍රදේශයකට එල්ල වූ ප්‍රහාරයකින් හිස්බුල්ලා ප්‍රධානී අණදෙන නිලධාරියෙකු ඝාතනය කළ බව ඊශ්‍රායලය පවසයි.
+In a targeted attack on a Beirut suburb, Israel reportedly killed a Hezbollah commanding officer, sparking international concern. The assault, which involved fighter jets, was aimed at Hezbollah leader Hassan Nasrallah, according to Israeli sources. This incident highlights the ongoing tensions between Israel and Hezbollah, particularly over the Golan Heights region.
 
-විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේ, ලෙබනන් සන්නද්ධ කණ්ඩායමේ බලකොටුවක් වන ඩාහියෙහි වෙත එල්ල වූ ප්‍රහාරයෙන් අවම වශයෙන් එක් අයෙකු මිය ගොස් තවත් පුද්ගලයින් පිරිසක් තුවාල ලබා ඇති බවය.
+🟩
 
-හිස්බුල්ලා ප්‍රධානී ෆුවාඩ් ෂුකර් ඉලක්ක කර ප්‍රහාරක ජෙට් යානා යොදා ගනිමින් මෙම ප්‍රහාරය සිදුකළ බව ඊශ්‍රායල හමුදාව පවසයි.
+Israel says he has killed a Commanding Officer of Hebollah in an attack targeting a right suburb of the capital city of Berouta.
 
-සිය පාලනය යටතේ පවතින ගෝලාන් කඳුකරයට රොකට් ප්‍රහාරයක් එල්ල කර ළමුන් ඇතුළු පුද්ගලයන් 12 දෙනෙකු ඝාතනය කිරීමේ වගකීම හිස්බුල්ලා සංවිධානය භාරගත යුතු බව ඊශ්‍රායලය පවසා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports stated that at least one person was killed and several others were injured in the attack on the Lebanon armed group.
+
+The Israeli army says the attack was carried out using the attack using the fighter jets to Mr. Hezbollah Head Fahud Schief.
+
+The Israeli said that the Hezbollah has said that the Hezbollah should take responsibility for the kills of the Golan mountains under his control.
 
 ◼️
 
 [Data](articles/9133b448.json)
 
+[Extended Data](ext_articles/9133b448.ext.json)
+
 ---
 
-### ළමයි මේක ස්ටාට් එක විතරයි...නිහතමානිව අපේ ගමන යමු -චමරි අතපත්තු
+### The kids just the strait ... humility is humility - Lettermari Atapattu
 
 *2024-07-31 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199400) · `si`
 
-ශ්‍රී ලංකා කාන්තා කණ්ඩායමට ආසියානු කුසලානය ජයග්‍රහණය හිමිකරගත හැකිවුණේ කණ්ඩායමේ ක්‍රීඩිකාවන්ගේ එකමුතුකම නිසා බව ශ්‍රී ලංකා ක්‍රිකට් නායිකා චමරි අතපත්තු පවසයි.
+Chamari Atapattu, captain of Sri Lanka's women's cricket team, attributes their Asia Cup victory to team unity. She expressed gratitude towards the support from Sri Lanka Cricket and highlighted the impact of new coach Rumesh Ratnayake. Atapattu dreams of leading Sri Lanka to a World Trophy before retiring, emphasizing the importance of humility and dedication in their journey. She looks forward to the upcoming World Cup in Bangladesh, urging her team to remain committed to their goal.
 
-ආසියානු කුසලානය ජයග්‍රහණය කිරීම වෙනුවෙන් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සංවිධාන කර තිබු විශේෂ උත්සවයකට එක්වෙමින් ඇය මේබව සඳහන් කළාය.
+🟩
 
-ඇය තවදුරටත් සඳහන් කළේ ඉදිරියේදී පැවැත්වෙන කාන්තා ලෝක කුසලාන ක්‍රිකට් තරගාවලියේදී ද ශ්‍රී ලංකා කණ්ඩායමේ මෙම දක්ෂතා ඈ බලාපොරොත්තු වන බවය.
+Sri Lanka women's team won the Asia Cup, Chamari Atapattu, said that due to the unity of the team.
 
-මේ අතර කණ්ඩායමේ ජයග්‍රහණයේදී මෙන්ම පරාජයේදීත් කණ්ඩායම සමඟ රැදෙන ලෙස ඇය ක්‍රීඩාලෝලීන්ගෙන් ඉල්ලීමක් කළාය.
+She made this statement participating at a special event organized by SLC to win the Asia Trophy.
 
-"කොච්චර දේවල් කැප කළත් මේ තැනට එන්න තනියම බෑ. ඒ පිටුපස ඉන්න යෝධ ශක්තිය තමා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය. විශේෂයෙන්ම මතක් කරන්න ඕනේ මගේ කණ්ඩායමේ නවක පුහුණුකරු රුමේෂ් රත්නායක මහතා ඇතුළු පුහුණුකාර්ය මණ්ඩලය. අන්තිම මාස 18 අපි ලබාගත් ජයග්‍රහණවල ලොකුම වෙනස කළේ රුමේෂ් රත්නායක මහත්මයා.
+She further stated that she hopes this talent at the Farmers World Cup in the future.
+
+In the meantime, she requested the sports funeralian to stay with the team in the winning team as well as in defeat.
+
+"No matter how many things you dedicate, you can't come alone. Sri Lanka Cricket is the massive energy behind it. Especially I need to be reminded of the new coach Rumesh Ratnayake and the Coach. Rumesh Ratnayake made the biggest difference in our victories.
 
 ...
 
 [Data](articles/5df8c439.json)
 
+[Extended Data](ext_articles/5df8c439.ext.json)
+
 ---
 
-### හමාස් සංවිධානයේ නායකයා ඝාතනය කෙරේ
+### Hamas's leader murdered
 
 *2024-07-31 10:26:03* · [`adalk`](https://www.ada.lk/breaking_news/හමාස්-සංවිධානයේ-නායකයා-ඝාතනය-කෙරේ/11-411111) · `si`
 
-හමාස් සංවිධානයේ නායකයා වන ඉස්මයිල් හනියේ ඊශ්‍රායල ප්‍රහාරයක් හමුවේ ඝාතනය කර තිබේ.
+Ismail Haniyeh, Hamas' leader, confirms the death of an Israeli in an attack at his residence in Tehran.
 
-ඉරානයේ ටෙහෙරන් හි පිහිටි ඔහුගේ නිවසට ඊශ්‍රායලය එල්ල කළ ප්‍රහාරයකින් මෙලෙස හනියේ ඝාතනය කර ඇති බව හමාස් සංවිධානය තහවුරු කර ඇත.
+🟩
+
+The Israeli attack was murdered in the face of the Hamas leader Ismailine.
+
+Hamas has confirmed that the Israeli was killed in Tehran's house at Tehran's home in Tehran.
 
 ◼️
 
 [Data](articles/07781e11.json)
+
+[Extended Data](ext_articles/07781e11.ext.json)
 
 ---
 
@@ -138,21 +184,27 @@ MPs Ranjith Madduma Bandara, SMarakkar and Muniber Rahman were present.
 
 ---
 
-### ஆயுதங்களுடன்  மெலளவி மாட்டினார்
+### Mellavi with weapons
 
 *2024-07-31 10:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆயுதங்களுடன்-மெலளவி-மாட்டினார்/73-341327) · `ta`
 
-வாழைச்சேனை பொலிஸ் பிரிவிற்குட்பட்ட  பதுறியா  நகரில்  மெலளவி ஒருவரை செவ்வாய்க்கிழமை (30) இரவு இரு ரீ 56 ரக துப்பாக்கி ரவைகள் வாளுடன் விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+On Tuesday night, the Special Task Force (STF) arrested Moulavi in Valaichenai, seizing two rifles and a sword from his home. He's now under investigation by the Terrorist Prevention Division in Colombo.
 
-பொலன்னறுவ அரலகங்வில விசேட அதிரடிப்படையினர் மற்றும் பொலன்னறுவை இராணுவப் புலனாய்வுப்பிரிவினர்களுக்கு கிடைத்த இரகசிய தகவல்  ஒன்றினையடுத்து அதிரடிப்படை சிரேஸ்ட பிரதி பொலிஸ் மாஅதிபர் சட்டத்தரணியுமான  வருன ஜெயசுந்தரவின் ஆலோசனைக்கமைய  அரலகங்வில விசேட அதிரடிப்படையினர் சம்பவதினமான செவ்வாய்க்கிழமை (30) இரவு 10 மணிக்கு குறித்த மெலளவியின் வீட்டை சுற்றுவளைத்து சோதனையிட்டனர்.
+🟩
 
-இதன் போது வீட்டில் மறைத்துவைக்கப்பட்டிருந்த இரு ரீ 56 ரக துப்பாக்கி துப்பாக்கி ரவைகள் 59, மெகசீன் 2, பைனோ 1, வாள் 1 ஆகிய​வற்றை கைப்பற்றியதுடன் அவரை கைது செய்தனர்.
+Special Task Force (STF) has arrested a man in the city of Baduriya on Tuesday night (30) in the city of Valaichenai.
 
-இதில் கைது செய்யப்பட்ட மௌலவியை மன்னம்பிட்டி விசேட அதிரடிப்படை முகாமிற்கு கொண்டு சென்று விசாரணை மேற்கொண்டுவருவதுடன் இவரை கொழும்பிலுள்ள  பயங்கரவாத தடுப்பு பிரிவிடம் ஒப்படைப்பற்கான நடவடிக்கையை மேற்கொண்டுவருகின்றனர்.
+The Special Task Force (Senior Task Force), the Special Task Force of the Aralavangwila Special Task Force (STF), on the advice of Varuna Jayasundara, the Deputy Inspector General of Police, Varuna Jayasundara, on Tuesday night at 10 pm on Tuesday night.
+
+During this time, two re -56 rifle rifles hidden at home were seized and arrested by 59, Megaceen 2, Bino 1 and sword 1.
+
+Moulavi, who was arrested, is being taken to the Mannampitiya Special Task Force Base and is conducting an investigation into the Terrorist Prevention Division in Colombo.
 
 ◼️
 
 [Data](articles/cdc92222.json)
+
+[Extended Data](ext_articles/cdc92222.ext.json)
 
 ---
 
@@ -221,6 +273,24 @@ Subsequently, the 25 fishermen who were arrested on the 1st of this month have b
 [Data](articles/37bf7ee5.json)
 
 [Extended Data](ext_articles/37bf7ee5.ext.json)
+
+---
+
+### மூன்று தமிழக மீனவர்களுடன் ஒரு வருட சிறை
+
+*2024-07-31 09:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மூன்று-தமிழக-மீனவர்களுடன்-ஒரு-வருட-சிறை/71-341326) · `ta`
+
+இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் மூன்று தமிழக கடற்தொழிலாளர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளதுடன் , மூன்று படகுகளின் உரிமையாளர்களுக்கு தலா 04 மில்லியன் ரூபாய் அபராதமும் விதிக்கப்பட்டுள்ளது.
+
+இலங்கை கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட குற்றச்சாட்டில் , பல்வேறு கால கட்டத்தில் கைதான 64 மீனவர்களின் வழக்கு விசாரணைகள் செவ்வாய்க்கிழமை (30) ஊர்காவற்துறை நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+
+அதன் போது, ஜூன் மாதம் 16ஆம் மற்றும் 22ஆம் திகதிகளில் கைதான 26 பேரில் மூவர் இரண்டாவது தடவையாக மீள கைதாகி இருந்தமையால் , அவர்களுக்கு ஒரு வருட சிறைத்தண்டனை விதிக்கப்பட்டது.
+
+ஏனைய 23 பேரில் மூன்று படகுகளின் உரிமையாளர்களும் இருந்தமையால் , அவர்கள் மூவருக்கும் தலா 4 மில்லியன் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது. தண்ட பணம் செலுத்த தவறின் , 06 மாத சிறை தண்டனை அனுபவிக்க வேண்டும் எனவும், மூன்று படகுகளையும் அரசுடமை ஆக்கப்பட்டுள்ளதாக மன்று கட்டளையிட்டது.
+
+...
+
+[Data](articles/a20b872b.json)
 
 ---
 
@@ -2225,59 +2295,5 @@ In the meantime, the protesters raised slogans and carried out the slogans that 
 [Data](articles/8eddca93.json)
 
 [Extended Data](ext_articles/8eddca93.ext.json)
-
----
-
-### A woman who gave food to the dog was imprisoned
-
-*2024-07-30 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199378) · `si`
-
-A New Zealand court sentenced a woman for feeding a dog more than its body weight, leading to its death. The vegan plaintiff won the case, and the woman pleaded guilty, receiving a $720 fine.
-
-🟩
-
-Foreign media reports that a New Zealand court has sentenced to a woman who is convicted of providing food for a dog.
-
-An inspection conducted by the death of the dog with 53 kilograms was revealed that the woman had provided food exceeding over the size of the dog.
-
-A vegan has filed the case with regard to the incident.
-
-According to foreign media reports, the woman has admitted the guilty to the charges and a fine of $ 720.
-
-◼️
-
-[Data](articles/1587c07c.json)
-
-[Extended Data](ext_articles/1587c07c.ext.json)
-
----
-
-### The politics that destroyed the country should be given a complete cure for the disease: Anura Kumara Dissanayake
-
-*2024-07-30 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189790) · `ta`
-
-Anura Kumara Dissanayake, leader of the National People's Power, calls for a comprehensive solution to address the political and economic crises plaguing Sri Lanka. Highlighting the need for a "new medicine" to cure the nation's ailments, he criticizes existing policies as ineffective. Dissanayake emphasizes the importance of addressing corruption, regulating the economy, and creating a new political culture based on equality and justice. He advocates for investment in education and healthcare, particularly in the nursing sector, to boost the economy and improve the quality of life for citizens.
-
-🟩
-
-National People's Power Leader Anura Kumara Dissanayake said that the politics that destroyed the country should be fully cured.
-
-Speaking at the All Ceylon Nurses Association's conference, Anurakumara Dissanayake said this.
-
-The All Ceylon Nurses Association is the first conference to be held after the announcement of the President. You have given us massive confidence, themes and the determination of success. We are all sick in public every way. Our economy is sick in every way.
-
-Is our economy healthy?Economic degradation has flowed to all fields. The economy has become a sick nation.
-
-Over the number of deaths that have caused a thousand thirty -seven deaths over the past year, 80 percent of the number of infectious diseases.
-
-15 percent of people under the age of thirty -five are suffering from diabetes and 35 percent of people with heart disease.
-
-That means our country is sick. Youth generation is sick. In all ways, the sick country, the sick nation, the sick economy.
-
-...
-
-[Data](articles/b287ebcc.json)
-
-[Extended Data](ext_articles/b287ebcc.ext.json)
 
 ---

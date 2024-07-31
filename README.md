@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 20:05:40**
+As of **2024-07-31 20:20:30**
 
 ## Newspaper Stats
 
-*Scraped **38,296** Articles*
+*Scraped **38,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,70 @@ bbccomsinhala | 368
 islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
-adalk | 3,508
+adalk | 3,509
 adaderanalk | 4,431
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,758
 virakesarilk | 6,049
-adaderanasinhalalk | 6,449
+adaderanasinhalalk | 6,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,295 (100.0%) of 38,296 articles have been extended.
+38,296 (100.0%) of 38,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### வைத்தியர் அர்ஜூனாவுக்கு நீதிமன்றம் வழங்கிய கட்டாய உத்தரவு
+### ගිනිඅවි එකතු කළ හේතුව සැකකාර මවුලවී හෙළිකරයි
 
-*2024-07-31 19:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனாவுக்கு-நீதிமன்றம்-வழங்கிய-கட்டாய-உத்தரவு/71-341362) · `ta`
+*2024-07-31 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199422) · `si`
 
-சாவகச்சேரி வைத்தியசாலையின் முன்னாள் வைத்திய அத்தியட்சகர் வைத்தியர் இராமநாதன் அர்ச்சுனாவிற்கு எதிரான வழக்கு விசாரணை எதிர்வரும் செப்டெம்பர் மாதம் 11ஆம் திகதி வரை ஒத்திவைக்கப்பட்டுள்ளது.
+T56 වර්ගයේ ගිනිඅවි දෙකක් සමග මවුලවිවරයෙකු ඔට්ටමාවඩි, නාවල්අඩි මංසන්ධියේදී පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගෙන තිබුණි.
 
-மேலும் அடுத்த வழக்குத் தவணையின் போது, வைத்தியர் அர்ச்சுனா சமூக வலைத்தளங்களில் முன்வைத்திருந்த குற்றச்சாட்டுகளுக்கான ஆதாரங்களைக் கட்டாயம் சமர்ப்பிக்கும் படியும் நீதிமன்றம் உத்தரவிட்டது.
+සැකකරු වැඩිදුර විමර්ශන සඳහා මේ වනවිට ත්‍රස්ත විමර්ශන කොට්ඨාසයට භාරකෙරුණි.
 
-முன்னாள் வைத்திய அத்தியட்சகரின் செயற்பாடுகளுக்கு எதிராக சாவகச்சேரி ஆதார வைத்தியசாலையின் வைத்தியர்கள் 5 முறைப்பாடுகளை நீதிமன்றில் முன்வைத்திருந்தனர்.
+ඔට්ටමාවඩි, නාවල්අඩි  ප්‍රදේශයේ පුද්ගලයෙකු යතුරුපැදියකින් ගිනි‍අවියක් රැගෙන ගමන් කරන බවට යුද හමුදා බුද්ධි අංශය පොලිස් විශේෂ කාර්ය බළකායේ අරලගංවිල කඳවුරේ නිලධාරීන්ට තොරතුරක් ලබාදී තිබුණි.
 
-இன்றைய வழக்கு விசாரணையின் போது, முன்னாள் வைத்திய அத்தியட்சகர் சார்பில் மன்றில் முன்னிலையான சட்டத்தரணி எஸ்.செலஸ்ரின் வழக்கின் இரு தரப்பினரும் வைத்திய துறை சார்ந்தவர்கள் என குறிப்பிட்டதுடன், வழக்கினை இணக்கச் சபைக்கு மாற்றுமாறு மன்றில் சமர்ப்பணங்களை முன்வைத்தார்.
+ඒ අනුව සැකකරු අත්අඩංගුවට ගැනුණු අතර, T56 වර්ගයේ ගිනි අවියක්, මැගසිනයක් හා උණ්ඩ 29ක් ඔහු සන්තකයේ තිබියදී සොයා ගැනුණි.
+
+අනතුරුව සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලින්වලදී හෙළිවූ තොරතුරු අනුව ඔහුගේ සහෝදරයෙකුගේ නිවසක් පරීක්ෂාවට ලක්කිරීමට පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් පියවර ගත් අතර, එහි තිබී තවත් T56 වර්ගයේ ගිනි අවියක්, මැගසිනයක් සහ උණ්ඩ 30ක් හමුවී තිබේ.
+
+වාලච්චේන, බුදිරියා නගරයේ පදිංචි 43 හැවිරිදි සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔහු පවසා ඇත්තේ, තමා නාවලපිටිය ප්‍රදේශයේ මවුලවිවරයෙක් ලෙස කටයුතු කළ බවය.
 
 ...
 
+[Data](articles/44d38ce4.json)
+
+---
+
+### A compulsory order issued by the court to doctor Arjuna
+
+*2024-07-31 19:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனாவுக்கு-நீதிமன்றம்-வழங்கிய-கட்டாய-உத்தரவு/71-341362) · `ta`
+
+The court has postponed the trial against Dr. Ramanathan Archana, former Medical Superintendent of Chavakachcheri Hospital, until September 11. The judge ordered her to present evidence regarding social media allegations. Five complaints were filed against her by hospital doctors. Despite lawyers' attempts to transfer the case to another council, objections were raised due to lack of evidence from visitors to the police station. The case will resume on September 11.
+
+🟩
+
+The trial against the former Medical Superintendent of the Chavakachcheri Hospital Ramanathan Archana has been postponed till September 11.
+
+During the next case, the court also ordered the doctor's Archana to submit evidence of the allegations made on social media.
+
+The doctors of the Chavakachcheri Resource Hospital have filed five complaints in court against the activities of the former Medical Superintendent.
+
+During today's hearing, both sides of the lawyer S. Selalsin, who appeared in the House on behalf of the former Medical Superintendent, presented the case and presented submissions to the House to transfer the case to the council.
+
+Attorneys on behalf of the complainants have objected to it and have been accused of not providing evidence of those who have visited the former Medical Superintendent Police Station.
+
+The magistrate has subsequently adjourned the case to September 11. Remble
+
+◼️
+
 [Data](articles/616097f3.json)
+
+[Extended Data](ext_articles/616097f3.ext.json)
 
 ---
 
@@ -56,7 +88,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Central Committee of the Sri Lanka Freedom Party (SLFP) today met with President Ranil Wickremesinghe and expressed their unwavering support for his victory in the forthcoming presidential election, according to the President’s Media Division.
 
-◼️
+The SLFP’s Politburo and Central Committee had convened a meeting this evening (31) and a final decision was reached support President Wickremesinghe at the upcoming election.
+
+MP Duminda Dissanayake further stated that, “Only the incumbent President Ranil Wickremesinghe has made a request in writing asking for our support.”
+
+Meanwhile, 92 Members of Parliament including Ministers and State Ministers recently met with Wickremesinghe and pledged their support for the President in the upcoming presidential election to ensure his victory.
+
+...
 
 [Data](articles/be91b875.json)
 
@@ -143,6 +181,26 @@ Furthermore, the Election Commission of Sri Lanka had issued a Gazette on July 2
 [Data](articles/3c7e26a6.json)
 
 [Extended Data](ext_articles/3c7e26a6.ext.json)
+
+---
+
+### ස්වාධීනව ජනපතිවරණයට එන හේතුව ජනපති හෙළි කරයි
+
+*2024-07-31 18:33:50* · [`adalk`](https://www.ada.lk/breaking_news/ස්වාධීනව-ජනපතිවරණයට-එන-හේතුව-ජනපති-හෙළි-කරයි/11-411126) · `si`
+
+පළාත් ආණ්ඩු 09ක් සහ මධ්‍යම ආණ්ඩුව ඇතුළු ආණ්ඩු 10 යටතේ සියලුදෙනාට වගකීම් පවරමින් රට ඉදිරියට ගෙන යනවා.
+
+හමාස් දේශපාලන නායකයාගේ ඝාතනය කිසිසේත් අනුමත නොකරන අතර එය තරයේ හෙළා දකිනවා.
+
+ඉරානයේ සහ මැද පෙරදිග ඇතුළු ලෝකයේ ඇතිවිය හැකි තත්ත්වයන්ගෙන් ශ්‍රී ලංකා ආර්ථිකයට විය හැකි බලපෑම වළක්වා ගැනීමට දැන් සිටම පියවර ගන්නවා – ජනපති.
+
+ස්වාධීන අපේක්ෂකයෙකු ලෙස තමා මෙවර ජනාධිපතිවරණයට ඉදිරිපත් වන්නේ පක්ෂග්‍රාහිත්වයෙන් තොරව අලුත් දැක්මක් සහ අලුත් වැඩපිළිවෙළක් ඔස්සේ රට ඉදිරියට ගෙන යාමට බවත් පළාත් ආණ්ඩු 09ක් සහ මධ්‍යම ආණ්ඩුව ඇතුළු ආණ්ඩු 10 ඔස්සේ සියලුදෙනාට වගකීම් පවරමින් එම කටයුතු ඉදිරියට ගෙන යන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ශ්‍රී ලංකා පොදුජන පෙරමුණ සහ එක්සත් ජාතික පක්ෂය නියෝජනය කරමින් පළාත් සභාවල හිටපු මහජන නියෝජිතයන් සමඟ අද (31) බත්තරමුල්ල වෝටර්ස් ඒජ් හෝටලයේ පැවති හමුවේදීය.
+
+...
+
+[Data](articles/dd2c1913.json)
 
 ---
 
@@ -2225,51 +2283,5 @@ It is worth noting that in 2023, Sri Lanka's halal certified tea is worth $ 1.29
 [Data](articles/1596abfa.json)
 
 [Extended Data](ext_articles/1596abfa.ext.json)
-
----
-
-### Hamas's leader murdered
-
-*2024-07-31 10:26:03* · [`adalk`](https://www.ada.lk/breaking_news/හමාස්-සංවිධානයේ-නායකයා-ඝාතනය-කෙරේ/11-411111) · `si`
-
-Ismail Haniyeh, Hamas' leader, confirms the death of an Israeli in an attack at his residence in Tehran.
-
-🟩
-
-The Israeli attack was murdered in the face of the Hamas leader Ismailine.
-
-Hamas has confirmed that the Israeli was killed in Tehran's house at Tehran's home in Tehran.
-
-◼️
-
-[Data](articles/07781e11.json)
-
-[Extended Data](ext_articles/07781e11.ext.json)
-
----
-
-### Four people sentenced to death
-
-*2024-07-31 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/189862) · `ta`
-
-The Colombo High Court sentenced four individuals to death for murder, based on evidence proving their guilt beyond doubt. This verdict followed charges filed in 2017 against six defendants, now reduced to four, for a 2013 attack in Ogodawatta.
-
-🟩
-
-The Colombo High Court has sentenced four people to death in connection with the murder.
-
-Accordingly, the verdict was issued by Colombo High Court Judge Aditya Battabendike on Tuesday (30).
-
-In 2013, 6 defendants were charged with the Colombo High Court for allegedly beating a man in the Shantawatta area in Ogodawatta.
-
-In 2017, the Attorney General filed a charge sheet under four charges against defendants.
-
-The judge issued the order and sentenced the accused to the death penalty as the allegations against the accused were undoubtedly proved.
-
-◼️
-
-[Data](articles/4c6ebccc.json)
-
-[Extended Data](ext_articles/4c6ebccc.ext.json)
 
 ---

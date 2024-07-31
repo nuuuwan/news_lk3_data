@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 13:55:08**
+As of **2024-07-31 14:05:41**
 
 ## Newspaper Stats
 
-*Scraped **38,225** Articles*
+*Scraped **38,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,112 @@ bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,300
 dailyftlk | 2,444
-adalk | 3,497
-adaderanalk | 4,421
+adalk | 3,498
+adaderanalk | 4,422
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,744
-virakesarilk | 6,033
-adaderanasinhalalk | 6,437
+tamilmirrorlk | 4,746
+virakesarilk | 6,039
+adaderanasinhalalk | 6,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,225 (100.0%) of 38,225 articles have been extended.
+38,225 (100.0%) of 38,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### ஊழல் ஒழிப்பு சட்டமூலம் சமர்ப்பிக்க வேண்டாம் : ஜனாதிபதிக்கு அழைப்பு
+
+*2024-07-31 13:39:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழல்-ஒழிப்பு-சட்டமூலம்-சமர்ப்பிக்க-வேண்டாம்-ஜனாதிபதிக்கு-அழைப்பு/175-341345) · `ta`
+
+ஊழல் ஒழிப்பு சட்டமூலத்தை அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் என இளம் பாராளுமன்ற உறுப்பினர் ஒருவர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+ஊழல் ஒழிப்பு சட்டமூலத்தை எதிர்வரும் பதினைந்து நாட்களுக்குள் அமைச்சரவையில் சமர்பிப்பதற்கான அனைத்து நடவடிக்கைகளும் நிறைவடையவுள்ள நிலையிலேயே தற்போது கலந்துரையாடப்பட்டு வரும் இளம் எம்.பி., இந்தக் கோரிக்கையை முன்வைத்துள்ளார்.
+
+குறித்த பாராளுமன்ற உறுப்பினர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தொலைபேசியில் அழைப்பு விடுத்து ஜனாதிபதி தேர்தலுக்கு முன்னர் ஊழல் ஒழிப்பு சட்டமூலத்தை அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் என கோரிக்கை விடுத்துள்ளார்.
+
+எம்.பி.யின் கோரிக்கை தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க, அரசாங்கத்தின் சிரேஷ்ட அமைச்சர்களுடன் கலந்துரையாடி அடுத்த இரண்டு நாட்களுக்குள் தீர்மானம் எடுப்பார் என ஜனாதிபதி செயலகத் தகவல்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/78d78c9a.json)
+
+---
+
+### ගිනිඅවි සමග දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-07-31 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199408) · `si`
+
+ඔට්ටමාවඩි ප්‍රදේශයේදී ගිනි අවි සහ පතොරම් සමග මවුලවිවරයෙක් සහ ඔහුගේ සහෝදරයාව අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
+
+යුද්ධ හමුදා බුද්ධි අංශයට ලද තොරතුරක් මත ටී-56 අවි දෙකක්, මැගසින් දෙකක්‍, පතොරම් 60ක්, දුරදක්නයක්‍ සහ කඩුවක් සමග එම සැකකරුවන් ව අරලගංවිල පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් ඊයේ (30) රාත්‍රී සිදුකළ මෙහෙයුමකදී අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/5ea39e85.json)
+
+---
+
+### Bus strike on 138 Kadawatha–Pettah route
+
+*2024-07-31 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/100893/bus-strike-on-138-kadawathapettah-route-) · `en`
+
+The commuters traveling on the 138 route have experienced significant difficulties owing to the strike launched by the private bus operators on the Kadawatha – Pettah route (138), who have withdrawn from passenger transport services since this morning (31).
+
+Accordingly, all the private bus operators on the Kadawatha – Pettah, Weliweriya – Pettah and Pettah - Kirillawala routes have withdrawn from passenger transport service since this morning.
+
+Reportedly, several buses belonging to the Sri Lanka Transport Board (SLTB) were deployed promptly to ease the situation that had arisen due to the ongoing strike.
+
+The bus owners on the 138 route stressed that their income has been greatly affected by the granting of permission for several new buses to operate on the Kiribathgoda - Pettah route.
+
+...
+
+[Data](articles/5f0a041a.json)
+
+---
+
+### இலஞ்சம் வாங்கிய காதி நீதவான் கைது
+
+*2024-07-31 13:24:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இலஞ்சம்-வாங்கிய-காதி-நீதவான்-கைது/76-341343) · `ta`
+
+பெண்ணொருவரிடம் 10,000 ரூபாய் இலஞ்சம் பெற்ற குற்றச்சாட்டின் பேரில் மாத்தளை பகுதியைச் சேர்ந்த காதி நீதவான் ஒருவர் கைது செய்யப்பட்டதாக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு தெரிவித்துள்ளது.
+
+முறைப்பாட்டாளர் திருகோணமலையைச் சேர்ந்த பெண்ணாவார். தன்னை  பராமரிப்பதற்கும், தன்னை  அவமானப்படுத்தியதற்காக 80 ஆயிரம் ரூபாய் நட்டஈடு கோரி வழக்குத் தாக்கல் செய்வதற்குத் தேவையான ஆவணங்களை முறைப்பாட்டாளர் காதி நீதவானிடம் வழங்கியுள்ளார்.
+
+அந்த நட்ட ஈட்டை பெற்றுத்தருவதற்கு தேவையான ஆவணங்களை தயார்படுத்துவதற்காக 50,000 ரூபாய் இலஞ்சம் கேட்டுள்ளார். ​​அதில்  10,000 ரூபாவை வரக்காமுர பிரதேசத்தில் உள்ள சந்தேகநபரின் வீட்டில் வைத்து பெற்றுக்கொண்ட போதே அவர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/cd3d19e1.json)
+
+---
+
+### If our children who were handed over to the military are the death certificates, who is the one who murdered?- Relationships of the missing in Mullaitivu
+
+*2024-07-31 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/189888) · `ta`
+
+Relatives of missing persons from Mullaitivu protested, accusing the military of hiding murders by using children as "death certificates." This ongoing struggle began in 2017, with notable figures like Durairasa Ravikaran attending the protest.
+
+🟩
+
+Relatives of the Mullaitivu District Disappeared staged a protest in front of the Mullaitivu District Secretariat on Wednesday morning.
+
+The relations of the missing persons have been engaged in a continuous struggle in the Mullaitivu district since March 8, 2017.
+
+To hide the story of the murder, our children who were entrusted with the military were the answer to the death certificate to the military?
+
+Relatives of the protest, former Northern Provincial Council member Durairasa Ravikaran and many social activists were present.
+
+◼️
+
+[Data](articles/8bad5a81.json)
+
+[Extended Data](ext_articles/8bad5a81.ext.json)
+
+---
 
 ### Cirith is ridiculous about defeat
 
@@ -76,6 +166,100 @@ The court stated that the demand will be rejected due to lack of facts as a resu
 
 ---
 
+### அளவுக்கு அதிகமாக உணவு வழங்கியமையால் நாய் உயிரிழப்பு ; உரிமையாளருக்கு சிறை
+
+*2024-07-31 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/189886) · `ta`
+
+நியூசிலாந்தில் அளவுக்கு அதிகமாக உணவு வழங்கியமையால் நாய் ஒன்று உயிரிழந்த சம்பவம் தொடர்பில் உரிமையாளரான பெண்ணுக்கு இரண்டு மாத சிறைதண்டனை விதிக்கப்பட்டுள்ளது.
+
+உயிரிழந்த நகி (Nuggi) என்ற நாய் 53 கிலோகிராம் எடையும், கடுமையான உடல் பருமனும் கொண்டிருந்தது.
+
+நாய்க்கு அவர் தினமும் சராசரியான உணவை விட 10 இறைச்சி துண்டுகளை அதிகம் கொடுத்து வந்ததனால் அந்நாய்க்கு உடல் எடை அதிகரித்துள்ளது.
+
+இந்நிலையில், 2021 ஆம் ஆண்டு விலங்குகள் வன்கொடுமை தடுப்புச் சங்கம் அதை கண்டறிந்து அந்த நாயை மீட்டு வைத்தியசாலையில் சேர்த்தனர்.  2 மாத சிகிச்சையில் 8.8 கிலோ குறைந்த பின்னரும் கல்லீரல் இரத்த கசிவால் அந்த நாய் இறந்து போனது. அதற்கு அதீத உடல் எடையே காரணமாக கூறப்படுகிறது.
+
+இதனால் மானுகா மாகாணத்தின் நீதிமன்றம் நாயின் உரிமையாளருக்கு 1,222 நியூசிலாந்து டொலர் அபராதமும் இரண்டு மாதங்கள் சிறை தண்டனையும் ஓராண்டு காலத்திற்கு நாய் வளர்க்கும் உரிமையையும் இரத்து செய்து உத்தரவிட்டுள்ளது.
+
+...
+
+[Data](articles/3c337356.json)
+
+---
+
+### இராணுவத்திடம் ஒப்படைக்கப்பட்ட எங்கள் பிள்ளைகளுக்கு இறப்பு சான்றிதழ் தான் பதில் என்றால் கொலை செய்தவன் யார்? - முல்லைத்தீவில் காணாமல் ஆக்கப்பட்டோரின் உறவுகள் போராட்டம்
+
+*2024-07-31 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/189892) · `ta`
+
+முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் இன்று புதன்கிழமை (31) காலை  முல்லைத்தீவு மாவட்ட செயலகம் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+
+யுத்தம் நிறைவடைந்த நாள்முதல் தமது உறவுகளுக்கான நீதி கோரி போராடிவரும் வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவுகள் கடந்த 2017 மார்ச் எட்டாம் திகதி முதல் முல்லைத்தீவு மாவட்டத்தில் தொடர் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+கொடுப்பனவுகளை கொடுப்போம் என்று சொல்வது கொலை செய்த கதையை மறைக்கவே, இராணுவத்திடம் ஒப்படைக்கப்பட்ட எங்கள் பிள்ளைகளுக்கு இறப்பு சான்றிதழ் தான் பதில் என்றால் கொலை செய்தவன் யார்?, omp ஒரு கண்துடைப்பு நாடகம், சர்வதேச விசாரணையே தேவை, இழப்பீடுகள் வேண்டாம், எமக்கு பிள்ளைகள் வேண்டும் போன்ற பல கோசங்களையும், பதாகைகளையும் ஏந்தியவாறு கவனயீர்ப்பு போராட்டத்தை முன்னெடுத்திருந்தனர்.
+
+குறித்த போராட்டத்தில் காணாமல் ஆக்கப்பட்ட உறவினர்கள், முன்னாள் வடமாகாண சபை உறுப்பினர் துரைராசா ரவிகரன், சமூக செயற்பாட்டாளர்கள் என பலரும் கலந்து கொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/e75fd7df.json)
+
+---
+
+### யூனியன் அஷ்யூரன்ஸ் வாடிக்கையாளர்களுக்கு மேம்படுத்தப்பட்ட பரந்தளவு கொடுப்பனவு  தெரிவுகள்
+
+*2024-07-31 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189879) · `ta`
+
+இலங்கையின் முன்னணி ஆயுள் காப்புறுதி சேவைகள் வழங்குநரான யூனியன் அஷ்யூரன்ஸ், வாடிக்கையாளர்களுக்கு தமது ஆயுள் காப்புறுதித் திட்டங்களை நிர்வகித்துக் கொள்வதற்கான வசதியை மேம்படுத்தும் வகையில் பரந்தளவு கொடுப்பனவு தெரிவுகளை அறிமுகம் செய்துள்ளது.
+
+அதில் நிறுவனத்தின் கட்டமைப்புகள், பங்காளர் வங்கிகள் மற்றும் மூன்றாம் தரப்புகள் போன்றன அடங்கியுள்ளன.
+
+வாடிக்கையாளர்களுக்கு கட்டுப்பண கொடுப்பனவுகளை மொபைல் app ஆன Clicklife - unionassurance.com/click-life-app ஊடாக மேற்கொள்ள முடியும். அதனூடாக ஸ்மார்ட் சாதனங்களை பயன்படுத்தி, தமது ஆயுள் காப்புறுதித் திட்டங்களை இலகுவாக நிர்வகித்துக் கொள்ள முடியும். தொழிற்துறையில் முதன் முதலில் அறிமுகம் செய்யப்பட்ட புரட்சிகரமான, வாடிக்கையாளர்கள் ஆயுள் காப்புறுதித் திட்டங்களை நிர்வகிக்கும் வசதியாக Clicklife App அமைந்துள்ளது.
+
+மேலும், கட்டுப்பணக் கொடுப்பனவுகளை, யூனியன் அஷ்யூரன்ஸ் தலைமையகத்தில், நிறுவனத்தின் கிளைகளில் அல்லது வாடிக்கையாளர் போர்டல் பகுதியான portal.unionassurance.com மற்றும் pay.unionassurance.com எனும் கட்டுப்பண செலுத்தும் லிங்கினூடாக மேற்கொள்ள முடியும்.
+
+...
+
+[Data](articles/b6889550.json)
+
+---
+
+### ඇමති ප්‍රසන්නගෙන් හිටපු ජනපති මහින්දට ලිපියක්
+
+*2024-07-31 13:07:50* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ප්‍රසන්නගෙන්-හිටපු-ජනපති-මහින්දට-ලිපියක්/11-411114) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී පක්ෂයේ තීරණයට එකඟ නොවන බව දන්වමින් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා විසින් ශ්‍රී ලංකා පොදුජන පෙරමු​ණේ නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට ලිපියක් යොමු කර තිබේ.
+
+හෘස සාක්ෂිය ඇති මිනිසෙකු ලෙසින් මට පක්ෂයේ තීරණයට එකඟවිය නොහැකි බව කණගාටුවෙන් දැනුම් දෙමි. ඒ නිසා මම රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාගේ ජයග්‍රහණයට කැප වෙමි.
+
+◼️
+
+[Data](articles/171196fc.json)
+
+---
+
+### ஸ்ரீ லங்கா பொதுஜன பெரமுன எடுத்த அதிரடி தீர்மானம் !
+
+*2024-07-31 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/189890) · `ta`
+
+கட்சியின் கொள்கை மற்றும் தீர்மானத்துக்கு எதிராக செயற்படுபவர்களை கட்சியின் பதவி நிலைகளில் இருந்து நீக்குவதற்கு ஸ்ரீ லங்கா பொதுஜன பெரமுன தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/79dd0420.json)
+
+---
+
+### ஜனாதிபதியின் தீர்மானத்துக்கு நன்றி தெரிவித்துள்ள தேர்தல்கள் ஆணைக்குழு
+
+*2024-07-31 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189889) · `ta`
+
+ஜனாதிபதி தேர்தல் பணிகளுக்கு  முழுமையான ஒத்துழைப்பு வழங்குமாறு பொதுமக்கள் பாதுகாப்பு அமைச்சுக்கு ஜனாதிபதி பணிப்புரை விடுத்துள்ள நிலையில், ஜனாதிபதியின் தீர்மானத்துக்கு தேர்தல்கள் ஆணைக்குழு நன்றி தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/21591c84.json)
+
+---
+
 ### 13-year-old girl who was pregnant
 
 *2024-07-31 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199405) · `si`
@@ -101,6 +285,18 @@ The girl has been admitted to the Horana Base Hospital for the forensic doctor.
 [Data](articles/324ca1c7.json)
 
 [Extended Data](ext_articles/324ca1c7.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-07-31 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/189884) · `ta`
+
+இன்று புதன்கிழமை (ஜூலை 31) மத்திய வங்கியில் வெளியிட்ட நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 297.8582 ரூபாவாகவும், விற்பனை விலை 307.1744 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/4a2350bb.json)
 
 ---
 
@@ -145,30 +341,6 @@ The injured youth have been admitted to the Jaffna Teaching Hospital and further
 [Data](articles/4b451227.json)
 
 [Extended Data](ext_articles/4b451227.ext.json)
-
----
-
-### If our children who were handed over to the military are the death certificates, who is the one who murdered?- Relationships of the missing in Mullaitivu
-
-*2024-07-31 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189888) · `ta`
-
-Relatives of missing persons from Mullaitivu protested, accusing the military of hiding murders by using children as "death certificates." This ongoing struggle began in 2017, with notable figures like Durairasa Ravikaran attending the protest.
-
-🟩
-
-Relatives of the Mullaitivu District Disappeared staged a protest in front of the Mullaitivu District Secretariat on Wednesday morning.
-
-The relations of the missing persons have been engaged in a continuous struggle in the Mullaitivu district since March 8, 2017.
-
-To hide the story of the murder, our children who were entrusted with the military were the answer to the death certificate to the military?
-
-Relatives of the protest, former Northern Provincial Council member Durairasa Ravikaran and many social activists were present.
-
-◼️
-
-[Data](articles/8bad5a81.json)
-
-[Extended Data](ext_articles/8bad5a81.ext.json)
 
 ---
 
@@ -2071,269 +2243,5 @@ More than 200 military personnel have been deployed for search operations.
 [Data](articles/88896e9f.json)
 
 [Extended Data](ext_articles/88896e9f.ext.json)
-
----
-
-### Defence Secretary assures justice for Sri Lanka’s disabled war heroes
-
-*2024-07-30 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/100885/defence-secretary-assures-justice-for-sri-lankas-disabled-war-heroes) · `en`
-
-Secretary to the Ministry of Defence General Kamal Gunaratne (Rtd) announced that the Ministry of Defence has implemented several measures, including allowances, medical rehabilitation, and lifelong care, to ensure justice for all soldiers disabled during the war.
-
-He highlighted that over the past two years, the Ministry of Defence has taken numerous steps to stabilize the country both economically and politically, providing a safe and secure environment for the people.
-
-General (retired) Kamal Gunaratne made these statements at a news conference titled ‘Two Years of Progress and Way Forward’. He emphasized that the Ministry of Defence, guided by the vision of ‘a peaceful land where everyone is protected,’ has been instrumental in these advancements,said President’s Media Division.
-
-...
-
-[Data](articles/47efb471.json)
-
-[Extended Data](ext_articles/47efb471.ext.json)
-
----
-
-### Elections Commission sent to the President
-
-*2024-07-30 20:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-கடிதம்-அனுப்பிய-தேர்தல்கள்-ஆணைக்குழு/175-341300) · `ta`
-
-The Election Commission plans to write to President Ranil Wickremesinghe about resolving the police chief situation urgently. This decision came after a meeting focused on various presidential election matters at the Election Secretariat Complex in Rajagiri.
-
-🟩
-
-The Election Commission has decided to write a letter to President Ranil Wickremesinghe seeking immediate solution to the police chief's issue.
-
-The Election Commission met at the Election Secretariat Complex in Rajagiri this morning after the presidential election was announced.
-
-The meeting is said to have paid special attention to a number of issues regarding the presidential election. Remble
-
-◼️
-
-[Data](articles/f86ee405.json)
-
-[Extended Data](ext_articles/f86ee405.ext.json)
-
----
-
-### A harsh response from the quality of the pointer
-
-*2024-07-30 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199385) · `si`
-
-Defense Minister Linea Bandara Tennakoon criticizes the President's Front's decision-making process, labeling it as personal and catastrophic. Despite this, several state ministers and the Anuradhapura District Board announce support for the current President in the upcoming election. A proposal to nominate a candidate from the Sri Lanka Civil Aviation was met with mixed reactions; 61 voted in favor, but 11 opposed. Following discussions, it was decided to back Ranil Wickremesinghe for president.
-
-🟩
-
-Defense Minister Linea Bandara Tennakoon says that the President's Front has decided to the presidential candidate.
-
-He said that it was a decision that was made by the Political Council as a decision taken.
-
-"We can determine the verdict that the people brought to the struggle of the people of Colombo yesterday on May 9, 2022.. The decision was taken to an understanding, knowledge,, without the sensitivity of the Mahapola. We consider that decision as a personal, selfish, catastrophical decision. Previously, before the country, it is regrettable to decide on a personal agenda before the country. "
-
-Several other state ministers representing the Sri Lanka General Front have announced today to support the present President of the next presidential election.
-
-Meanwhile, the Anuradhapura District Board of Anuradhapura has decided to support the present President in the next presidential election today.
-
-...
-
-[Data](articles/48f999e1.json)
-
-[Extended Data](ext_articles/48f999e1.ext.json)
-
----
-
-### A passenger seized from Kuwait to a flight attendant to a flight attendant
-
-*2024-07-30 20:13:32* · [`adalk`](https://www.ada.lk/breaking_news/කුවේට්-සිට-ආපු-ශ්‍රී-ලන්කන්-යානයේ-ගුවන්-සේවිකාවකට-පරුෂ-වචනයෙන්-බැන්න-ගුවන්-මගියෙක්-අත්අඩංගුවට/11-411109) · `si`
-
-A passenger was arrested on a flight from Kuwait to Sri Lanka after allegedly causing harm to crew members. Upon landing at Katunayake Airport, the passenger was taken to Negombo General Hospital. The incident involved the passenger's wife being accused of assaulting him, as he had a history of heart issues and sought medical treatment in Colombo. The passenger, who worked in Kuwait for 14 years, faced charges brought by the airport police, supervised by Chief Inspector General Inspector Gamini Ratnayake.
-
-🟩
-
-Katunayake Airport commences on behalf of a flight attendance at Kuwait from Kuwait to the Bandaranaike International Airport today (30)Has been done.
-
-Sri Lankan airline ULTo arrive at the ferry is seated in the seat No. 11G.
-
-The aircraft has been laid by the air passengers, which were traveling, and removed the vessels provided by the air passen.The hand, wrists and elbow caught in the area, caught in the area.
-
-The flight attendee has immediately taken steps to educate the aircraft staff and has taken steps to educate the pilot.. The air passenger has taken steps to arrest the Air Trayakadiya after the aircraft landed at the Katunayake airport and a group of Katunayake airport police officers.
-
-This was admitted to the Negombo General Hospital due to a period of a few days after the airport police.Available.
-
-...
-
-[Data](articles/602ef566.json)
-
-[Extended Data](ext_articles/602ef566.ext.json)
-
----
-
-### Samindu Wickremasinghe makes his debut in Sri Lanka
-
-*2024-07-30 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/189845) · `ta`
-
-In the delayed 3rd T20 match between India and Sri Lanka due to rain, Samindu Wickremasinghe made his debut, replacing Dasun Shanaka. Notably, he performed well across all aspects of the game. India also saw changes with Rishabh Pant, Hardik Pandya, Axar Patel retiring, and Shivam Dube, Washington Sundar, and Khalil Ahmed joining the team.
-
-🟩
-
-The 3rd International T20 cricket match between India and Sri Lanka started a little while ago.
-
-Due to the rains this evening, the 3rd match began to delay in one hour.
-
-All -rounder Samindu Wickremasinghe makes his debut in today's match. It is noteworthy that Samundu Wickremasinghe shone in all sectors. He has been included in the squad instead of Dasuna Shanaka.
-
-Rishabh Bant, Hardik Pandya, Akshar Patel and Arshdeep Singh have been retired and Shivam Dubey, Washington Sundar and Khalil Ahmad have been recruited.
-
-Sri Lanka: Bethum Nissanka, Kusal Mendis, Kusal Perera, Kamindu Mendis, Sarit Asalanga (Chairman), Samindu Wickremesinghe, Wanindu Hasaranga, Ramesh Mendis, Mahish Dixhana, Mathisha Pathirana, Asita Fernando
-
-India: Yaswvi Jaiswal, Shubman Gill, Sanju Semson, Suriyakumar Yadav (Team Leader), Shivam Tube, Ryan Barak, Washington Sundar, Ravi Bishnoi, Mohammed Siraj, Khalil Ahmad.
-
-◼️
-
-[Data](articles/07cf118c.json)
-
-[Extended Data](ext_articles/07cf118c.ext.json)
-
----
-
-### Free party decision tomorrow
-
-*2024-07-30 20:08:21* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-තීරණය-හෙට/11-411108) · `si`
-
-The Sri Lanka Freedom Party (SLFP) will decide tomorrow (31st) whether to field a candidate in the upcoming presidential election. The decision comes after discussions where some members expressed the need for a candidate. Despite internal disagreements, the party aims to inform the Elections Commission of its choice today.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) states that whether a candidate is presented in the Freedom presidential election in the Freedom Presidential Election or not to offer another candidate tomorrow (31).. The SLFP Politburo, the Central Committee and the Executive Committee will meet today.
-
-Duminda Dissanayake made this observation at a press conference held at the Sri Lanka Freedom Party (30th) at the SLFP headquarters.
-
-In today's discussion, some people are friends to talk about other sticks.Fulfillment to give us a candidate. As a result, it is only after the discussion. We have taken steps to inform the Elections Commission about the verdict today.But MPs are broken out of the poush. Despite such a post, they said that a candidate said. Therefore, a decision will be discussed with the SLFP.
-
-Mr. Mahinda Araweera, Minister of Party, responding to the question raised by journalists in this press conference, he said:
-
-...
-
-[Data](articles/dcc2c6dd.json)
-
-[Extended Data](ext_articles/dcc2c6dd.ext.json)
-
----
-
-### About a speech of the IGP and met President
-
-*2024-07-30 20:04:06* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ගැටලුව-ගැන-කථානයක-හා-ජනපති-හමුක්-ඉදිරියේදී/11-411107) · `si`
-
-President Ranil Wickremesinghe plans a special meeting about the police political situation. He wants to summon Speaker Mahinda Yapa Abeywardena and MP Mahinda Yapa Abeywardena to address future crises.
-
-🟩
-
-President Ranil Wickremesinghe has decided to take a special meeting on the situation in connection with the situation in connection with the post of Police Political.
-
-The Speaker and the Tributarian MP Mahinda Yapa Abeywardena should be summoned by President Mahinda Yapa Abeywardena regarding the crisis in the future.
-
-◼️
-
-[Data](articles/1d761757.json)
-
-[Extended Data](ext_articles/1d761757.ext.json)
-
----
-
-### Chamindu to Chamindu 20 Champs - Views away
-
-*2024-07-30 19:56:11* · [`adalk`](https://www.ada.lk/sports/චමිදුට-විස්සයි20-වරම්---දසුන්-ඉවතට/9-411106) · `si`
-
-The Sri Lankan cricket team, led by Charith, will play its final Twenty20 match against India. Chamili Wickremasinghe replaces Chamindu in the lineup. Despite losing Chamindu, the team remains strong, with players like Wish, Kusal Mendis, and others ready to take on India.
-
-🟩
-
-The Sri Lankan cricket team has taken steps to call on third and final Twenty20 match against India.
-
-Accordingly, Chamili Wickremasinghe will be the worshiper of the New T20 time for Sri Lanka. With the arrival of the group, the team has lost the place to the group.
-
-Sri Lanka captain Charith won the toss and the toss of the coin, he decided to return to bowling.
-
-Sri Lanka - Wish, Kusal Mendis, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Pereet, Chident, Wannindu, Ramesh, Mahesh, Mahes
-
-◼️
-
-[Data](articles/87447b87.json)
-
-[Extended Data](ext_articles/87447b87.ext.json)
-
----
-
-### Happy news for the country to bring a other candidate
-
-*2024-07-30 19:48:56* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-වෙන-අපේක්ෂකයෙක්-ගෙන-ඒම-රටටම-සුබ-ආරංචියක්/11-411105) · `si`
-
-Patali Champika Ranawaka, leader of the United States, plans to support a separate candidate for the upcoming presidential election, aiming to help citizens make informed choices. He also hinted at potential disagreements with the Rajapaksas, stating his party won't back any candidates associated with them. The decision on who to endorse will be announced soon.
-
-🟩
-
-Leader of the United States, Patali Champika Ranawaka told 'Today' to decide to preserve a separate newsman for the future presidential election.
-
-Accordingly, the people of the country will be able to make the right decisions through the group involved in bankrupting the country together.
-
-Meanwhile, the MP said that the opinion of the next presidential election will be announced on the next week and no basemen with the Rajapaksas are not supported by his and party.
-
-The President also said that according to the people, Phase Champika Ranawaka added that the President is able to decide whether the present President is independent.
-
-◼️
-
-[Data](articles/4dea4554.json)
-
-[Extended Data](ext_articles/4dea4554.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-07-30 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199384) · `si`
-
-Sri Lanka won the toss in the cricket match against India at the Pallekele Cricket Grounds, deciding to bat first. The match, originally scheduled for 7:40 pm, was postponed due to unforeseen circumstances.
-
-🟩
-
-Sri Lanka and the Sri Lankan team and the final will be held at the Pallekele Cricket Grounds today (30).
-
-The referees decided to postpone the event until the year until the year 8 pm.
-
-The coin advantage at about 7.40 pm while Sri Lanka captain Charith was able to win the toss of the coin.
-
-He decided to give India the opportunity to attack the temple.
-
-Accordingly, the authorities had decided to summon Chamu Wickramasinghe instead of Views Shana.
-
-Meanwhile, the Indian team, Arshadp Sing and Rishab Bar has not been named.
-
-◼️
-
-[Data](articles/c823a4c9.json)
-
-[Extended Data](ext_articles/c823a4c9.ext.json)
-
----
-
-### Grama Niladhari who work to letter is exactly the election duties
-
-*2024-07-30 19:39:17* · [`adalk`](https://www.ada.lk/breaking_news/අකුරට-වැඩ-කරන-ග්‍රාම-නිලධාරීන්-මැතිවරණ-රාජකාරී-හරියටම-කරනවලු/11-411103) · `si`
-
-The Grama Niladhari Trade Union Alliance criticizes the government for not addressing their issues, including election duties and constitutional drafts. They claim the UPFA removed a defective service constitution draft without proper consultation. The UPFA counters, accusing the alliance of not being interested in resolving problems and forcing the implementation of the constitution draft. This situation highlights ongoing disputes between the government and the Grama Niladhari union over election responsibilities and governance reforms.
-
-🟩
-
-The Grama Niladhari Trade Union Alliance states that the authorities have decided to do so properly, due to the continuation of the procedures to address the problems of the Grama Niladhari.
-
-The UPFA says that the defective service removed the constitution draft and implement the Grama Niladhari trade unions to the government. The UPFA points out that the draft is trying to implement the draft of the service constitution with force.
-
-It is said that there is a number of issues regarding gifts and not interested in solving the problems.. The Grama Niladharis have had to dominate election duties as announced by the presidential election.
-
-The UPFA pointed out that the election duties have decided to do so well and inform the Elections Commission regarding the election of the election.
-
-◼️
-
-[Data](articles/443995ae.json)
-
-[Extended Data](ext_articles/443995ae.ext.json)
 
 ---

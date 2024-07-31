@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 01:35:54**
+As of **2024-08-01 01:54:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,331 (100.0%) of 38,332 articles have been extended.
+38,332 (100.0%) of 38,332 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The Sri Lankan leopard is a distinct subspecies – ‘panthera pardus kotiya’
 ...
 
 [Data](articles/51883768.json)
+
+[Extended Data](ext_articles/51883768.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-08-01 02:05:36**
+As of **2024-08-01 02:21:03**
 
 ## Newspaper Stats
 
-*Scraped **38,332** Articles*
+*Scraped **38,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ newsfirstlk | 363
 bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,312
-dailyftlk | 2,447
+dailyftlk | 2,449
 adalk | 3,514
 adaderanalk | 4,433
 dailymirrorlk | 4,733
@@ -26,11 +26,45 @@ adaderanasinhalalk | 6,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,332 (100.0%) of 38,332 articles have been extended.
+38,332 (100.0%) of 38,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-08-01 (Thursday)
+
+### SLPP defectors, Tamil options, ‘Democracy in Debt’ and Vickramabahu’s validation
+
+*2024-08-01 01:58:17* · [`dailyftlk`](https://www.ft.lk/columns/SLPP-defectors-Tamil-options-Democracy-in-Debt-and-Vickramabahu-s-validation/4-764990) · `en`
+
+“…In short, the global democratic trend this year is a resounding rejection of the status quo.”
+
+– ‘A Global Movement Against The Status Quo’ By Ian Bremmer, TIME, 5 Aug. 2024 –
+
+Given the global trend as summed-up by Ian Bremmer, one of the world’s best-known think-tank gurus, a win for incumbent Wickremesinghe is virtually unthinkable.
+
+Given the decision by Mahinda Rajapaksa’s SLPP to fend-off Wickremesinghe’s political piracy and field a candidate under the party banner, a Ranil win is logically impossible.
+
+As PM in 2001-3, Ranil overstepped the mark and encroached on President Kumaratunga’s terrain. She tossed him out. As PM in 2015-2019, he did the same with President Sirisena, was turfed out, made a comeback thanks to the Supreme Court he now derides, and was evicted by the electorate.
+
+...
+
+[Data](articles/8c2e685c.json)
+
+---
+
+### 25 years after assassination: Dr. Neelan Tiruchelvam’s enduring legacy in human rights and constitutional reform
+
+*2024-08-01 01:43:39* · [`dailyftlk`](https://www.ft.lk/opinion/25-years-after-assassination-Dr-Neelan-Tiruchelvam-s-enduring-legacy-in-human-rights-and-constitutional-reform/14-764989) · `en`
+
+Dr. Neelan Tiruchelvam’s legacy is one of profound intellectual and humanitarian impact, rooted in a steadfast commitment to nonviolence, human rights, and inclusive dialogue
+
+The Sri Lankan civil war ended with a brutal and decisive Government victory in May 2009, resulting in the deaths of an estimated 40,000 Tamil civilians during the final stages of the conflict. If the LTTE and the Sri Lankan political parties had formed a consensus and worked to implement the constitutional reform proposals which Dr. Tiruchelvam helped formulate, the war likely could have ended much sooner, potentially saving countless lives
+
+...
+
+[Data](articles/8a18b7bf.json)
+
+---
 
 ### A spotted affair: Has Sri Lanka over-promoted the iconic Sri Lankan leopard?
 
@@ -2237,49 +2271,5 @@ Relatives of the protest, former Northern Provincial Council member Durairasa Ra
 [Data](articles/e75fd7df.json)
 
 [Extended Data](ext_articles/e75fd7df.ext.json)
-
----
-
-### UNECTED WORLD Payment Options to Union Assurance Customers
-
-*2024-07-31 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189879) · `ta`
-
-Union Assurance offers various payment options for its life insurance schemes, including mobile apps (Clicklife), online portals, and bank partnerships. Payments can be made via 12 leading banks, offering flexibility in choosing direct payments, checks, cards, or fixed commands. Additionally, an interest-free credit card installment scheme is available for 12 months through select banks, enhancing financial flexibility for customers.
-
-🟩
-
-Union Assurance, Sri Lanka's leading life insurance services provider, has introduced a wide range of allowances to improve customers to manage their life insurance schemes.
-
-It includes the company's structures, partner banks and third parties.
-
-Customers can make control payments through mobile app-unionassurance.com/click-eBe- App. Through it, using smart devices can easily manage their life insurance plans. The Clicklife App is the first to introduce revolutionary, customers life insurance schemes in the industry.
-
-In addition, control payments can be carried out at the Union Assurance Headquarters, through the company's branches or the customer portal area, Portal.unionassure.com and Pay.unionassure.com.
-
-...
-
-[Data](articles/b6889550.json)
-
-[Extended Data](ext_articles/b6889550.ext.json)
-
----
-
-### A letter from Minister Prasanna
-
-*2024-07-31 13:07:50* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ප්‍රසන්නගෙන්-හිටපු-ජනපති-මහින්දට-ලිපියක්/11-411114) · `si`
-
-Minister Prasanna Ranatunga, in a letter, informed former President Mahinda Rajapaksa about the party's stance on the upcoming presidential election. Despite having scandal evidence against him, Ranatunga expressed his disagreement with the party's choice and pledged support for Ranil Wickremesinghe's presidential bid.
-
-🟩
-
-Minister Prasanna Ranatunga has asked former President Mahinda Rajapaksa informs Sri Lanka Prasanna Ranatunga informing the party's decision in the next presidential election.
-
-As a man with the scandal evidence, I do not agree that I cannot agree with the party's decision. So I dedicate Ranil Wickremesinghe to win the President's victory.
-
-◼️
-
-[Data](articles/171196fc.json)
-
-[Extended Data](ext_articles/171196fc.ext.json)
 
 ---

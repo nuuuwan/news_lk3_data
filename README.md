@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 13:20:39**
+As of **2024-07-31 13:36:17**
 
 ## Newspaper Stats
 
-*Scraped **38,222** Articles*
+*Scraped **38,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,300
 dailyftlk | 2,444
-adalk | 3,496
+adalk | 3,497
 adaderanalk | 4,421
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,744
 virakesarilk | 6,033
-adaderanasinhalalk | 6,435
+adaderanasinhalalk | 6,437
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,220 (100.0%) of 38,222 articles have been extended.
+38,220 (100.0%) of 38,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### පරාජය ගැන දුක්වෙන චරිත් අසලංක
+
+*2024-07-31 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199407) · `si`
+
+නායකයෙකු ලෙස කටයුතු කළ පළමු තරගාවලිය අසාර්ථක බවට තමන් පිළිගන්නා බව පන්දුවාර 20යි 20 කණ්ඩායමේ නායක චරිත් අසලංක පවසයි.
+
+එහිදී ඔහු පවසා සිටියේ, ජාත්‍යන්තර ක්‍රීඩකයෙකු ලෙස පීඩනයට මුහුණදීම සඳහා සියලුදෙනාගේ මනස ශක්තිමත් විය යුතු බවය.
+
+ඊයේ (30) පැවති තරගයෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු ඒ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/9f792d53.json)
+
+---
+
+### මෛත්‍රී සහ දුෂ්මන්ත ඉල්ලූ අතුරු තහනම ඉවතට
+
+*2024-07-31 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199406) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ සහ මහ ලේකම් ධුරයේ කටයුතුවලට බාධා කිරීම වළක්වාලමින් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා වෙත අතුරු තහනම් නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා එම පක්‍ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන සහ වැඩබලන ලේකම් සාරති දුෂ්මන්ත මිත්‍රපාල යන අය කළ ඉල්ලීමක් නිෂ්ප්‍රභා කිරීමට කොළඹ දිසා අධිකරණය නියෝග කර තිබේ.
+
+අතුරු තහනම් නියෝගයක් නිකුත් කිරීමට තරම් පැමිණිලිකරුවන් විසින් කරුණු තහවුරු කර නොමැති වීම හේතුවෙන් එම ඉල්ලීම ප්‍රතික්ෂේප කරන බව අධිකරණය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6e0e63bf.json)
+
+---
 
 ### 13 හැවිරිදි දැරිය ගැබිනියක් කළ ඥාති සහෝදරයා
 
@@ -2166,6 +2196,20 @@ Mr. Mahinda Araweera, Minister of Party, responding to the question raised by jo
 
 ---
 
+### පොලිස්පති ගැටලුව ගැන කථානයක හා ජනපති හමුක් ඉදිරියේදී
+
+*2024-07-30 20:04:06* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පති-ගැටලුව-ගැන-කථානයක-හා-ජනපති-හමුක්-ඉදිරියේදී/11-411107) · `si`
+
+පොලිස්පති ධුරය සම්බන්ධයෙන් ඇතිවී තිබෙන තත්ත්වය පිළිබඳව කථානායකවරයා දිවයිනට පැමිණි පසුව විශේෂ හමුවක් පැවැත්වීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තීරණය කර තිබේ.කථානායක මහින්ද යාපා අබේවර්ධන මහතා මේ වන ඉරාන නව ජනාධිපතිවරයාගේ දිවුරුම් දීමේ උත්සවයට සහභාගි වීම සඳහා ඉරානය බලා පිටත්ව ගොස් ඇත.
+
+පොලිස් පති ධුරය සම්බන්ධයෙන් ඇතිවී තිබෙන අර්බුදය පිළිබඳව කථානායකවරයාත්, අග්‍ර විනිශ්චකාරවරයාත් විසඳුමකට පැමිණිය යුතු බව මීට පෙර ප්‍රකාශ කර තිබුණි.කෙසේ වුවද මේ පිළිබදව ඉදිරියේදී ගන්නා පියවර සම්බන්ධයෙන් කථානායක මහින්ද යාපා අබේවර්ධන මහතා දිවයිනට පැමිණි පසු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විශේෂ හමුවක් කැඳවා ක්‍රියාමාර්ග ගැනීමට අපේක්ෂිතය.
+
+◼️
+
+[Data](articles/1d761757.json)
+
+---
+
 ### Chamindu to Chamindu 20 Champs - Views away
 
 *2024-07-30 19:56:11* · [`adalk`](https://www.ada.lk/sports/චමිදුට-විස්සයි20-වරම්---දසුන්-ඉවතට/9-411106) · `si`
@@ -2263,59 +2307,5 @@ The UPFA pointed out that the election duties have decided to do so well and inf
 [Data](articles/443995ae.json)
 
 [Extended Data](ext_articles/443995ae.ext.json)
-
----
-
-### 92 MPs to support Presidential
-
-*2024-07-30 19:33:26* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීවරු-92ක්-ජනපතිගේ-සහායට/11-411102) · `si`
-
-92 Members of Parliament (MPs) have pledged support for Ranil Wickremesinghe in the upcoming presidential election, as announced by the President's Media Division.
-
-🟩
-
-President's Media Division announced that he would support Ranil Wickremesinghe in the next presidential election at the Presidential Member of Parliament
-
-◼️
-
-[Data](articles/d50f7cd7.json)
-
-[Extended Data](ext_articles/d50f7cd7.ext.json)
-
----
-
-### Charith, Chamaikara also is responsible for the climb from the ODI
-
-*2024-07-30 19:28:35* · [`adalk`](https://www.ada.lk/sports/එක්දින-නායකත්වයෙන්-කුසල්-ඉවතට-වගකීම-චරිත්ට--චාමිකටත්-කණ්ඩායමේ-අවස්ථාව/9-411101) · `si`
-
-Charith Asalanka and Chamika Karunaratne are key figures in Sri Lanka's ODI series against India, with Asalanka playing a crucial role in the team's performance. The selection committee replaced Kusal Mendis with Karunaratne, affecting the original 16-member squad. Despite this change, both players remain significant contributors to the team's success.
-
-🟩
-
-The Sri Lanka Cricket Selection Committee has been appointed to the leadership of the ODI series with Indian team.
-
-Accordingly, Kusal Mendis has been removed from the ODI. The three-genuine pool of 16 people have lost the opportunity. However, Chamika Karunaratne has been summoned by the group.
-
-◼️
-
-[Data](articles/9dfae8be.json)
-
-[Extended Data](ext_articles/9dfae8be.ext.json)
-
----
-
-### In Memoriam: Jude Perera; Advancing Economic Democracy Through Solidarity Economy
-
-*2024-07-30 19:27:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-memoriam-jude-perera-advancing-economic-democracy-through-solidarity-economy/) · `en`
-
-I first encountered Mr Jude Perera in late 2007 during a community discussion in Victoria. This gathering took place amidst the intense period of Sri Lanka’s prolonged civil war. Professor Joe Camilleri of La Trobe University’s Centre for Dialogue convened the event, which marked the inception of the Sri Lanka Community Dialogue—a year-long initiative.
-
-Mr Jude Perera, who recently passed away at the age of seventy-one, held a Bachelor of Science degree from the University of Jaffna. His professional journey spanned market research and information technology roles across Sri Lanka, New Zealand, and Australia. His memoir chronicled a personal and political odyssey—from Katana in Sri Lanka to Jaffna, then to Niue, New Zealand, and finally Melbourne, Australia. His travels were driven by both personal and political imperatives.
-
-...
-
-[Data](articles/3deb4345.json)
-
-[Extended Data](ext_articles/3deb4345.ext.json)
 
 ---

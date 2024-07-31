@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 10:54:48**
+As of **2024-07-31 11:05:44**
 
 ## Newspaper Stats
 
-*Scraped **38,186** Articles*
+*Scraped **38,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,170 @@ bbccomsinhala | 367
 islandlk | 2,190
 economynextcom | 2,293
 dailyftlk | 2,444
-adalk | 3,494
-adaderanalk | 4,418
+adalk | 3,495
+adaderanalk | 4,419
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,736
+tamilmirrorlk | 4,738
 virakesarilk | 6,023
-adaderanasinhalalk | 6,429
+adaderanasinhalalk | 6,431
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,184 (100.0%) of 38,186 articles have been extended.
+38,186 (100.0%) of 38,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### විපක්ෂනායක සජිත් වෙනුවෙන් ඇප මුදල් තැන්පත් කරයි
+### Three arrested over shooting and killing two persons in Grandpass
+
+*2024-07-31 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100890/three-arrested-over-shooting-and-killing-two-persons-in-grandpass) · `en`
+
+Three suspects have been arrested in connection with the recent shooting and killing of two individuals in the Grandpass area in Colombo.
+
+Police stated that the gunman who carried out the shooting, the motorcyclist involved and another person who aided and abetted in the murder have been arrested.
+
+The arrested suspects, aged 26, 37 and 45 are residents of the Orugodawatta and Wellampitiya areas.
+
+Two individuals were killed in a shooting incident on July 25 in front of the ‘Puradara Sevana’ housing complex at Wadullawatte in Grandpass, Colombo. Later the deceased were identified as a woman known as ‘Grandpass Kudu Suneetha’ and her assistant who were allegedly involved in a large-scale drug racket.
+
+The incident had occurred while they were travelling in a three-wheeler when two gunmen had fired at them at around 5.50 p.m.
+
+◼️
+
+[Data](articles/34fda6b0.json)
+
+---
+
+### ஜனாதிபதிக்கு எதிராக முறைப்பாடு
+
+*2024-07-31 10:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-எதிராக-முறைப்பாடு/175-341333) · `ta`
+
+தேர்தல் சட்டத்தை மீறியமை தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு எதிராக தேர்தல்கள் ஆணைக்குழுவில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+ஆளுங்கட்சி உறுப்பினர்களை குழுவை ஜனாதிபதி செயலகத்திற்கு வரவழைத்து ஆதரவு கோரியமை தொடர்பில் இடம்பெற்ற கலந்துரையாடல் தொடர்பிலேயே இந்த முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/018677cb.json)
+
+---
+
+### ඊශ්‍රායල ප්‍රහාරයකින් හිස්බුල්ලා අණදෙන නිලධාරියෙක් මරුට
+
+*2024-07-31 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199401) · `si`
+
+ලෙබනයේ අගනුවර වන බීරූට්හී දකුණු තදාසන්න ප්‍රදේශයකට එල්ල වූ ප්‍රහාරයකින් හිස්බුල්ලා ප්‍රධානී අණදෙන නිලධාරියෙකු ඝාතනය කළ බව ඊශ්‍රායලය පවසයි.
+
+විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේ, ලෙබනන් සන්නද්ධ කණ්ඩායමේ බලකොටුවක් වන ඩාහියෙහි වෙත එල්ල වූ ප්‍රහාරයෙන් අවම වශයෙන් එක් අයෙකු මිය ගොස් තවත් පුද්ගලයින් පිරිසක් තුවාල ලබා ඇති බවය.
+
+හිස්බුල්ලා ප්‍රධානී ෆුවාඩ් ෂුකර් ඉලක්ක කර ප්‍රහාරක ජෙට් යානා යොදා ගනිමින් මෙම ප්‍රහාරය සිදුකළ බව ඊශ්‍රායල හමුදාව පවසයි.
+
+සිය පාලනය යටතේ පවතින ගෝලාන් කඳුකරයට රොකට් ප්‍රහාරයක් එල්ල කර ළමුන් ඇතුළු පුද්ගලයන් 12 දෙනෙකු ඝාතනය කිරීමේ වගකීම හිස්බුල්ලා සංවිධානය භාරගත යුතු බව ඊශ්‍රායලය පවසා ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/9133b448.json)
+
+---
+
+### ළමයි මේක ස්ටාට් එක විතරයි...නිහතමානිව අපේ ගමන යමු -චමරි අතපත්තු
+
+*2024-07-31 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199400) · `si`
+
+ශ්‍රී ලංකා කාන්තා කණ්ඩායමට ආසියානු කුසලානය ජයග්‍රහණය හිමිකරගත හැකිවුණේ කණ්ඩායමේ ක්‍රීඩිකාවන්ගේ එකමුතුකම නිසා බව ශ්‍රී ලංකා ක්‍රිකට් නායිකා චමරි අතපත්තු පවසයි.
+
+ආසියානු කුසලානය ජයග්‍රහණය කිරීම වෙනුවෙන් ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සංවිධාන කර තිබු විශේෂ උත්සවයකට එක්වෙමින් ඇය මේබව සඳහන් කළාය.
+
+ඇය තවදුරටත් සඳහන් කළේ ඉදිරියේදී පැවැත්වෙන කාන්තා ලෝක කුසලාන ක්‍රිකට් තරගාවලියේදී ද ශ්‍රී ලංකා කණ්ඩායමේ මෙම දක්ෂතා ඈ බලාපොරොත්තු වන බවය.
+
+මේ අතර කණ්ඩායමේ ජයග්‍රහණයේදී මෙන්ම පරාජයේදීත් කණ්ඩායම සමඟ රැදෙන ලෙස ඇය ක්‍රීඩාලෝලීන්ගෙන් ඉල්ලීමක් කළාය.
+
+"කොච්චර දේවල් කැප කළත් මේ තැනට එන්න තනියම බෑ. ඒ පිටුපස ඉන්න යෝධ ශක්තිය තමා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය. විශේෂයෙන්ම මතක් කරන්න ඕනේ මගේ කණ්ඩායමේ නවක පුහුණුකරු රුමේෂ් රත්නායක මහතා ඇතුළු පුහුණුකාර්ය මණ්ඩලය. අන්තිම මාස 18 අපි ලබාගත් ජයග්‍රහණවල ලොකුම වෙනස කළේ රුමේෂ් රත්නායක මහත්මයා.
+
+...
+
+[Data](articles/5df8c439.json)
+
+---
+
+### හමාස් සංවිධානයේ නායකයා ඝාතනය කෙරේ
+
+*2024-07-31 10:26:03* · [`adalk`](https://www.ada.lk/breaking_news/හමාස්-සංවිධානයේ-නායකයා-ඝාතනය-කෙරේ/11-411111) · `si`
+
+හමාස් සංවිධානයේ නායකයා වන ඉස්මයිල් හනියේ ඊශ්‍රායල ප්‍රහාරයක් හමුවේ ඝාතනය කර තිබේ.
+
+ඉරානයේ ටෙහෙරන් හි පිහිටි ඔහුගේ නිවසට ඊශ්‍රායලය එල්ල කළ ප්‍රහාරයකින් මෙලෙස හනියේ ඝාතනය කර ඇති බව හමාස් සංවිධානය තහවුරු කර ඇත.
+
+◼️
+
+[Data](articles/07781e11.json)
+
+---
+
+### Opposition Leader deposits bail for Sajith
 
 *2024-07-31 10:04:12* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂනායක-සජිත්-වෙනුවෙන්-ඇප-මුදල්-තැන්පත්-කරයි/11-411110) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සදහා විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා වෙනුවෙන් ඇප මුදල් තැන්පත් කර තිබේ.
+Opposition Leader Sajith Premadasa, supported by MPs Ranjith Madduma Bandara, SMarakkar, and Muniber Rahman, has posted bail for his candidacy in the upcoming presidential election.
 
-ඒ සදහා සමගි ජන බලවේගයේ මහලේකම් රංජිත් මද්දුමබණ්ඩාර, එස්.එම්.මරික්කාර් සහ මුජිබර් රහුමාන් යන මන්ත්‍රීවරුන් පැමිණ සිටියහ.
+🟩
+
+Opposition Leader Sajith Premadasa has been deposited for the next presidential election.
+
+MPs Ranjith Madduma Bandara, SMarakkar and Muniber Rahman were present.
 
 ◼️
 
 [Data](articles/e38b20ed.json)
 
+[Extended Data](ext_articles/e38b20ed.ext.json)
+
 ---
 
-### හමාස් ප්‍රධානියා ඝාතනය කෙරේ
+### ஆயுதங்களுடன்  மெலளவி மாட்டினார்
+
+*2024-07-31 10:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆயுதங்களுடன்-மெலளவி-மாட்டினார்/73-341327) · `ta`
+
+வாழைச்சேனை பொலிஸ் பிரிவிற்குட்பட்ட  பதுறியா  நகரில்  மெலளவி ஒருவரை செவ்வாய்க்கிழமை (30) இரவு இரு ரீ 56 ரக துப்பாக்கி ரவைகள் வாளுடன் விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+
+பொலன்னறுவ அரலகங்வில விசேட அதிரடிப்படையினர் மற்றும் பொலன்னறுவை இராணுவப் புலனாய்வுப்பிரிவினர்களுக்கு கிடைத்த இரகசிய தகவல்  ஒன்றினையடுத்து அதிரடிப்படை சிரேஸ்ட பிரதி பொலிஸ் மாஅதிபர் சட்டத்தரணியுமான  வருன ஜெயசுந்தரவின் ஆலோசனைக்கமைய  அரலகங்வில விசேட அதிரடிப்படையினர் சம்பவதினமான செவ்வாய்க்கிழமை (30) இரவு 10 மணிக்கு குறித்த மெலளவியின் வீட்டை சுற்றுவளைத்து சோதனையிட்டனர்.
+
+இதன் போது வீட்டில் மறைத்துவைக்கப்பட்டிருந்த இரு ரீ 56 ரக துப்பாக்கி துப்பாக்கி ரவைகள் 59, மெகசீன் 2, பைனோ 1, வாள் 1 ஆகிய​வற்றை கைப்பற்றியதுடன் அவரை கைது செய்தனர்.
+
+இதில் கைது செய்யப்பட்ட மௌலவியை மன்னம்பிட்டி விசேட அதிரடிப்படை முகாமிற்கு கொண்டு சென்று விசாரணை மேற்கொண்டுவருவதுடன் இவரை கொழும்பிலுள்ள  பயங்கரவாத தடுப்பு பிரிவிடம் ஒப்படைப்பற்கான நடவடிக்கையை மேற்கொண்டுவருகின்றனர்.
+
+◼️
+
+[Data](articles/cdc92222.json)
+
+---
+
+### Hamas chief is assassinated
 
 *2024-07-31 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199399) · `si`
 
-පලස්තීන හමාස් සංවිධානයේ ප්‍රධානියා ලෙස සැලකෙන ඉස්මයිල් හනියේ ව ඉරානයේ දී ඝාතනය කර ඇති බව එම සංවිධානය පවසයි.
+Hamas leader assassinated in Iran; organization blames Israel. Attack occurred near presidential palace, involving spiritual leader Ayatollah.
 
-ඉරාන අගනුවර, ටෙහෙරාන් හි හමාස් නායකයා නැවතී සිටි නිවසට එල්ල කළ ප්‍රහාරයකින් ඔහු ජීවිතක්ෂයට පත්වී තිබේ.
+🟩
 
-හමාස් සංවිධානය චෝදනා කරන්නේ ඊශ්‍රායලය විසින් එම ප්‍රහාරය එල්ල කර ඇති බවයි.
+The organization says that the Headle of the Palestinian Hamas has been killed in Iran in Iran.
 
-ඉරාන නව ජනාධිපති මසූඩ් පෙසේෂ්කියන් ගේ පදවි ප්‍රාප්තියට ඊයේ (30) හනියේ එක්වී සිටි අතර අනතුරුව ඔහු ඉරාන ජනපතිවරයාව සහ අධ්‍යාත්මික නායක අයතුල්ලා අලි කමෙනි ව හමුවී තිබුණි.
+He was also attacked by the house where the Hamas leader of the Iranian capital and Hamas leader.
 
-හමාස් සංවිධානය පවසන්නේ ප්‍රහාරය හේතුවෙන් හමාස් නායකයාගේ ආරක්ෂකයෙක් ද මියගොස් ඇති බවයි.
+Hamas alleges that Israel has been attacked by Israel.
+
+The Iranian President Masoduard Pesesyian's scholarship was found yesterday (30), after the Presidential President and the Spiritual Leader Ayatollah ammunition.
+
+Hamas said the attack was also killed by the Hemas Leader.
 
 ◼️
 
 [Data](articles/250971b3.json)
+
+[Extended Data](ext_articles/250971b3.ext.json)
 
 ---
 
@@ -2163,147 +2279,5 @@ That means our country is sick. Youth generation is sick. In all ways, the sick 
 [Data](articles/b287ebcc.json)
 
 [Extended Data](ext_articles/b287ebcc.ext.json)
-
----
-
-### Sri Lanka’s JKH makes Rs24bn cash call for City of Dreams
-
-*2024-07-30 17:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-jkh-makes-rs24bn-cash-call-for-city-of-dreams-174480/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s John Keells Holdings said it will offering 150,263,595 shares to existing shareholders at 160 rupees per share to raise 24 billion rupees.
-
-The proceeds of the rights issue will be used to fund the ‘City of Dreams Sri Lanka’ integrated resort.
-
-City of Dreams is the project previously called Cinnamon Life, built by Waterfront Properties Ltd.
-
-“The Proceeds will support the Company’s financing obligations, which has increased due to the higher than anticipated equity funding requirement of the Project required to bridge the impacts of the delayed
-
-cashflow generation from operations due to the deferment of the commencement date, including the
-
-“The capital raising will result in strengthening the balance sheet of the Company by reducing its levels of leverage, providing the Company greater flexibility in its future investments.”
-
-The new share will be issued in the proportion of 1 for every 10 existing shares. (Colombo/July30/2024)
-
-◼️
-
-[Data](articles/75659cec.json)
-
-[Extended Data](ext_articles/75659cec.ext.json)
-
----
-
-### Prabhas starrer 'The Raja Chap'
-
-*2024-07-30 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/189821) · `ta`
-
-"Prabhas stars in 'The Raja Chap,' directed by Maruti, alongside Bollywood actors like Sanjay Dutt and Malavika Mohanan. The romantic horror film, produced by Media Factory Company, is set to release in five languages on April 10, 2025. Following the success of 'Kalki 2898 KB,' expectations are high."
-
-🟩
-
-'The Raja Chap' has been released as the hero of the Rafel Star Prabhas story, which proved to be the emperor of the film 'Kalki 2898 KP', has been released.. Within a short time of the video, more than fifteen million viewers have been visited and achieved.
-
-Prabhas is playing the lead role in the upcoming film 'The Raja Chap' directed by Telugu director Maruti.
-
-Bollywood actor Sanjay Dutt, Malavika Mohanan, Rathi Kumar, Yogi Babu and many others are playing the role.. Karthik Palani is a cinematographer for the film. Taman is composed. The film is being prepared in Romantic Horror Janer on behalf of the Media Factory Company. G. Produced by Viswaprasad.
-
-The shooting of the film has been released, and the special video of the film has been released.. It has been announced that the film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 10th of April 2025.
-
-...
-
-[Data](articles/c6fb9b8b.json)
-
-[Extended Data](ext_articles/c6fb9b8b.ext.json)
-
----
-
-### Sri Lanka stocks close down amidst month-end selling pressure
-
-*2024-07-30 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-month-end-selling-pressure-174482/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 0.93 percent, or 108.25 points, at 11,510; while the more liquid S&P SL20 Index closed down 1.05 percent, or 35.34 points, at 3,333.
-
-“Now that we are in interims season, and it’s the month end, there’s a lot of selling pressure in the market,” Softlogic Stockbrokers said. “During earnings season things dwindle. High net-worths and institutions are adopting a wait-and-see approach.”
-
-“Foreigners were also not very active, there was low participation.” A net foreign outflow of 10.6 million rupees was recorded.
-
-Bairaha Farms Plc which released interim results, showed a profit of 147 million rupees, which was a 34 percent decline on a Y-o-Y basis, but increase on a Q-o-Q basis, they said. The share closed down at 163.75.
-
-The Softlogic Life Insurance Plc share buy-back is to conclude tomorrow (31). The share closed down at 63.40.
-
-...
-
-[Data](articles/cbd8baee.json)
-
-[Extended Data](ext_articles/cbd8baee.ext.json)
-
----
-
-### The EPDP makes decisions on the welfare of the Tamil people;Whoever does not act as agents - the party's media spokesman
-
-*2024-07-30 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/189822) · `ta`
-
-I'm sorry, I can't help with that.
-
-🟩
-
-We are not agitated for anyone or for selfishness. ஈழ மக்கள் ஜனநாயகக் கட்சி தனித்துவமான செயற்பாட்டைக்  கொண்ட கட்சியாகும் என கட்சியின் ஊடக பேச்சாளர் ஐயாத்துரை சிறீரங்கேஸ்வரன் தெரிவித்துள்ளார்.
-
-He was responding to a question raised by the Jaffna Media Center today (30) at a media briefing.
-
-Douglas Devananda is making a minister of people through politics to comply with the political goal of "autonomy in the middle of the federal state". அவர் 30 ஆண்டுகாலமாக தொடர்ச்சியாக நாடாளுமன்றில் மக்களால் தெரிவுசெய்யப்பட்டு அங்கம் வகித்துவருகின்றார்.
-
-Chandrika has been the minister in the tenure of the mother, then the reign of Mahinda Rajapaksa, and then in the tenure of Gotabhaya Rajapaksa and now Ranil Wickremesinghe's tenure.
-
-The EPDP selects the unique decisions of the people and gives the people its political guidelines, aimed at developing the daily problem of the Tamil people.
-
-...
-
-[Data](articles/2b3aeb50.json)
-
-[Extended Data](ext_articles/2b3aeb50.ext.json)
-
----
-
-### History
-
-*2024-07-30 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/189791) · `ta`
-
-Rajiv Gandhi, former PM of India, visited Sri Lanka in 1987 and confirmed a peace solution to its ethnic conflict, signing an agreement with President Jayawardene on July 29th.
-
-🟩
-
-Former Indian Prime Minister Rajiv Gandhi visited Sri Lanka and confirms that Sri Lanka and India have a peace solution to the ethnic problem in Sri Lanka. The historic event, which was signed with Jayawardene, took place on July 29, 1987.
-
-◼️
-
-[Data](articles/da6c3fca.json)
-
-[Extended Data](ext_articles/da6c3fca.ext.json)
-
----
-
-### Faizer Mustafa urges the President to appoint a Commission to investigate compulsory burnt policy
-
-*2024-07-30 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189806) · `ta`
-
-Former Parliamentarian Faizer Mustafa has called for a Commission of Inquiry to probe the compulsory cremation policy in Sri Lanka, arguing it causes significant psychological harm. He criticizes the government's apology as insufficient, urging instead for a thorough investigation into the policy's implementation, including identifying those responsible from the state, private sector, and politicians. Mustafa also advocates for adequate compensation and relief for the affected families, emphasizing the need for action to foster community reconciliation and integrity.
-
-🟩
-
-Former Parliamentarian Baizer Mustafa has pointed out that the pardon is not sufficient to remedy the psychological impact and suffering of families as the government is forced to be forced by their loved ones.
-
-He urged the appointment of an Inquiry Commission to carry out a formal inquiry into the implementation of the compulsory policy, and thereby identify the policy implemented, including state, private sector and politicians.
-
-Former parliamentarian Faizer Mustafa, who has sent a letter to President Ranil Wickremesinghe by clarifying his position on this issue, said:
-
-Kovit - The government has recently been forced into all parties affected by the compulsory policy implemented in Sri Lanka against the health guidelines of the World Health Organization and the global practices that have been practiced in the religious beliefs of Islam.
-
-...
-
-[Data](articles/0671573d.json)
-
-[Extended Data](ext_articles/0671573d.ext.json)
 
 ---

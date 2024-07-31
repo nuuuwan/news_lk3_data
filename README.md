@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 17:57:06**
+As of **2024-07-31 18:16:01**
 
 ## Newspaper Stats
 
-*Scraped **38,282** Articles*
+*Scraped **38,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 2,190
 economynextcom | 2,307
 dailyftlk | 2,444
 adalk | 3,506
-adaderanalk | 4,426
+adaderanalk | 4,429
 dailymirrorlk | 4,733
-tamilmirrorlk | 4,755
+tamilmirrorlk | 4,756
 virakesarilk | 6,047
 adaderanasinhalalk | 6,447
 
@@ -26,59 +26,155 @@ adaderanasinhalalk | 6,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,278 (100.0%) of 38,282 articles have been extended.
+38,282 (100.0%) of 38,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
 
-### காணாமல் ஆக்கப்பட்ட உறவினர்களது போராட்டத்தை அச்சுறுத்தும் வகையில் புகைப்படம் எடுத்த பொலிஸ் புலனாய்வாளர் !
+### Over 50 foreigners arrested over online scam
 
-*2024-07-31 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189916) · `ta`
+*2024-07-31 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/100900/over-50-foreigners-arrested-over-online-scam) · `en`
 
-முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் இன்று புதன்கிழமை (31) காலை முல்லைத்தீவு மாவட்ட செயலகம் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டவர்களை அச்சுறுத்தும் வகையில்  புகைப்படம் எடுத்த சிவில் உடை தரித்த பொலிஸ் புலனாய்வாளரை அவ்விடத்திலிருந்து துரத்திய சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+Sri Lanka Police says over 50 foreign nationals were arrested in the Puttalam area for allegedly operating an online scam.
 
-யுத்தம் நிறைவடைந்த நாள்முதல் தமது உறவுகளுக்கான நீதி கோரி போராடிவரும் வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவுகள் முல்லைத்தீவு மாவட்டத்தில் தொடர் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+The Acting Police Media Spokesperson DIG Ruwan Gunasekara said 44 males and 09 females were arrested in the operation carried out yesterday (30).
 
-குறித்த போராட்டத்தில் காணாமல் ஆக்கப்பட்ட உறவினர்கள், முன்னாள் வடமாகாண சபை உறுப்பினர் துரைராசா ரவிகரன், சமூக செயற்பாட்டாளர்கள் என பலரும் கலந்து கொண்டிருந்தனர்.
+The arrested suspects had engaged in this illegal operation from a hotel located in the Kalpitiya area of Puttalam while a search was carried out at the hotel in question by the investigation officers after obtaining a court order.
 
-இவ்வாறாக தொடர் போராட்டத்தில் ஈடுபட்டு வரும் வலிந்து காணாமல் ஆக்கப்பட்ட உறவினர்கள் போராட்டங்களை இராணுவத்தினர், பொலிஸார் , சிவில் உடை தரித்த புலனாய்வாளர்கள் போன்றோர் போராட்டத்தில் கலந்து கொண்டவர்களை புகைப்படங்களை எடுத்து அச்சுறுத்தும் செயற்பாட்டில் ஈடுபட்டு வருகின்றமை குறிப்பிடத்தக்கது.
+During the operation, police have seized 98 mobile phones, 44 computers and a large number of SIM cards while further investigations are conducted by the Computer Crime Investigation Division.
 
-...
+Based on the information from the arrested suspects, two more foreigners were arrested while in possession of over Rs. 10 million in cash which was also taken into police custody.
 
-[Data](articles/14c253b7.json)
+◼️
+
+[Data](articles/016a32c6.json)
 
 ---
 
-### මෙතෙක් ඇප තැබූ 6 දෙනා මෙන්න
+### Protesters clash with UK police after knife attack that killed three girls
+
+*2024-07-31 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/100899/protesters-clash-with-uk-police-after-knife-attack-that-killed-three-girls) · `en`
+
+Violent clashes broke out on Tuesday in the northern England town where a mass stabbing at a Taylor Swift-themed dance event claimed the lives of three children.
+
+Around 100 protesters battled police and lit fires, with thick plumes of smoke rising above the front line, according to an AFP reporter at the scene.
+
+Videos circulating on social media appeared to show a police van on fire and protesters pelting police with missiles, with a local mosque the apparent target.
+
+Police have said they are not treating Monday’s attack as terror-related, but have not released any details of the suspected attacker other than that he is 17 years old and originally from Wales.
+
+Merseyside Police said an officer suffered a suspected broken nose in the clashes, and that the protesters were “believed to be supporters” of the right-wing English Defence League.
+
+“Officers who are deployed are currently dealing with criminal behaviour and violence with bottles and wheelie bins being thrown at them,” added the force.
+
+...
+
+[Data](articles/fd1cede3.json)
+
+---
+
+### President forms 3 special committees to address potential global impacts on Sri Lanka
+
+*2024-07-31 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/100898/president-forms-3-special-committees-to-address-potential-global-impacts-on-sri-lanka) · `en`
+
+President Ranil Wickremesinghe has arranged to appoint three special committees as a preliminary measure to address the security and economic pressures that may affect Sri Lanka, considering the potential developments in the Middle East and globally, including the assassination of a Hamas political leader in Iran.
+
+Accordingly, the President has initiated the formation of a special committee on national security, a committee to assess economic impacts, and a high-level committee to oversee the proposals of the other two committees, the President’s Media Division said.
+
+The Special Committee on National Security includes Minister of Public Security Tiran Alas, Minister of Foreign Affairs Ali Sabry, Minister of Power and Energy Kanchana Wijesekera, and Chief of Presidential Staff and Senior Advisor to the President on National Security Sagala Ratnayake.
+
+...
+
+[Data](articles/3c0149f3.json)
+
+---
+
+### Police investigator photographed to threaten the struggle of the missing relatives!
+
+*2024-07-31 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/189916) · `ta`
+
+Relatives of missing persons from Mullaitivu District protested on Wednesday, facing threats from police and military personnel. The protest included former council member Durairasa Ravikaran and other activists. Despite ongoing intimidation, the community continues its struggle since the war ended.
+
+🟩
+
+Relatives of the Mullaitivu District Disappeared on Wednesday morning (31st)
+
+Since the end of the war, the relations of the missing have been engaged in a continuous struggle in the Mullaitivu district.
+
+Relatives of the protest, former Northern Provincial Council member Durairasa Ravikaran and many social activists were present.
+
+It is noteworthy that military, police, civil dressing investigators, etc., are engaged in a series of protests and intimidation.
+
+In the meantime, when the civilian dressing policeman chased the protesters today, the photo was threatened and threatened.
+
+◼️
+
+[Data](articles/14c253b7.json)
+
+[Extended Data](ext_articles/14c253b7.ext.json)
+
+---
+
+### காஸ் போகும்வரை காத்திருக்கும் அமரர் ஊர்தி
+
+*2024-07-31 17:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காஸ்-போகும்வரை-காத்திருக்கும்-அமரர்-ஊர்தி/76-341360) · `ta`
+
+நுவரெலியா பொரலந்தை சிறிய நகரத்தில் அமைந்துள்ள லாப்கேஸ் நிறுவனத்திற்கு சமையல் எரிவாயு நிரப்பிய சிலிண்டர்களை ஏற்றி வந்த 40 அடி நீளம் கொண்ட பார ஊர்தி இயந்திர கோளாறு காரணமாக நடுவீதியில் நின்றமையால் இந்த போக்குவரத்து தடை ஏற்பட்டுள்ளது.
+
+புதன்கிழமை (31) மாலை மூன்று மணியளவில் இடம்பெற்ற இந்த சம்பவத்தின்  காரணமாக பொரலந்தை சிறிய நகர பகுதியில் பாரிய போக்குவரத்து நெரிசல் ஏற்பட்டுள்ளது.
+
+அதே நேரத்தில் நுவரெலியா தொடக்கம் கந்தப்பளை,இராகலை ,வலப்பனை, உடப்புசல்லாவ நோக்கி பயணிக்கும், வாகனங்களும் ,உடபுஸ்ஸல்லாவ தொடக்கம் நுவரெலியா நோக்கி பயணிக்கும் வாகனங்களும் பொரலந்தை பகுதியில் நீண்ட வரிசையில் நீண்ட நேரம் நிறுத்தி வைக்கப்பட்டுள்ளன.
+
+இந்த வாகன கோளாறு காரணமாக நுவரெலியா- உடபுஸ்ஸல்லாவ பிரதான வீதியில் சுமார் இரு திசைகளிலும் சுமார் ஒன்றரை கிலோ மீட்டருக்கு அதிகமான தூரம் வாகனங்கள் நிறுத்தப்பட்டு போக்குவரத்திற்கு பாரிய பாதிப்பு ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/d23f5380.json)
+
+---
+
+### Here are the six guaranteed 6
 
 *2024-07-31 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199419) · `si`
 
-2024 ජනාධිපතිවරණය සඳහා අපේක්ෂකයින් හය දෙනක් මේ දක්වා ඇප තබා ඇතැයි මැතිවරණ කොමිසම නිවේදනය කරයි.
+The Elections Commission has confirmed six presidential candidates: Ranil Wickremesinghe, Sarath Keerthirathna, Ocehala Herath, A.S.P. Liyanage, Sajith Premadasa, and P.W.S.K. Bandaranaike, all of whom have submitted their campaign funds.
 
-මේ දක්වා රනිල් වික්‍රමසිංහ, සරත් කීර්තිරත්න, ඕෂල හේරත්, ඒ. එස්. පී. ලියනගේ, සජිත් ප්‍රේමදාස සහ පී. ඩබ්. එස්. කේ. බණ්ඩාරනායක ඇප මුදල් තැන්පත්කර ඇත.
+🟩
+
+The Elections Commission announces six candidates have been released on the Presidential election.
+
+Ranil Wickremesinghe, Sarath Keerthirathna, Ocehala Herath, A. S. P. Liyanage, Sajith Premadasa and P. W. S. K. Bandaranaike has deposited money.
 
 ◼️
 
 [Data](articles/dc70c4d5.json)
 
+[Extended Data](ext_articles/dc70c4d5.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணிலின் வெற்றிக்கு 116 முன்னாள் மாகாண சபை உறுப்பினர்கள் அர்ப்பணிப்புடன் செயற்படுவதாக உறுதி !
+### 116 former provincial council members are committed to the victory of President Ranil!
 
 *2024-07-31 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189901) · `ta`
 
-ஜனாதிபதித் தேர்தலில், ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றிக்காக அர்ப்பணிப்புடன் செயல்படுவதாக இன்று புதன்கிழமை (31) கூடிய ஶ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி ஆகியவற்றின் முன்னாள் மாகாண சபை உறுப்பினர்கள் 116 பேர் உறுதியளித்துள்ளனர்.
+116 UNP and SLPA members pledge support for President Ranil Wickremesinghe's re-election, emphasizing his new agenda and commitment to national development across all administrative structures.
 
-புதிய நோக்குடனும் புதிய வேலைத் திட்டத்துடனும் நாட்டை முன்னோக்கி கொண்டு செல்லவே தான் சுயேட்சை வேட்பாளராக ஜனாதிபதித் தேர்தலில் போட்டியிடுவதாகவும் மாகாண சபைகள், மத்திய அரசாங்கம் உட்பட 10 நிர்வாகக் கட்டமைப்பின் ஊடாக நாட்டை அபிவிருத்திக்கு இட்டுச் செல்வதற்கு அர்ப்பணிப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசியக் கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன ஆகியவற்றைப் பிரதிநிதித்துவப்படுத்தும் முன்னாள் மாகாண சபை உறுப்பினர்களுடன் இன்று (31) நடைபெற்ற சந்திப்பில் ஜனாதிபதி இதனைத் தெரிவித்தார்.
+In the presidential election, 116 members of the Sri Lanka PA and the United National Party (UNP) have assured 116 members of the United National Party today (31) that President Ranil Wickremesinghe's victory is committed to the victory of President Ranil Wickremesinghe.
 
-இதன்போதே, ஶ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசியக் கட்சி ஆகியவற்றின் முன்னாள் மாகாண சபை உறுப்பினர்கள் 116 பேர் ஜனாதிபதித் தேர்தலில், ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வெற்றிக்காக அர்ப்பணிப்புடன் செயல்படுவதாக உறுதியளித்துள்ளனர்.
+The President said that he is contesting the presidential election as an independent candidate, with a new purpose and a new program, and that the provincial councils and the central government are dedicated to the development of the country through the 10 administrative structure, including the central government.
+
+The President made this statement at a meeting with former provincial council members representing the United National Party and the PA.
+
+Meanwhile, 116 members of the Sri Lanka PA and the United National Party (UNP) have pledged to be committed to the victory of President Ranil Wickremesinghe in the presidential election.
 
 ◼️
 
 [Data](articles/72d55030.json)
+
+[Extended Data](ext_articles/72d55030.ext.json)
 
 ---
 
@@ -1058,19 +1154,27 @@ The court stated that the demand will be rejected due to lack of facts as a resu
 
 ---
 
-### රනිල්ගේ ගැට මොන ගැටද?
+### What kills Ranil's knots?
 
 *2024-07-31 13:16:58* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-ගැට-මොන-ගැටද-/11-411115) · `si`
 
-රට විනාශ කරන්න සහය වූ, වැරදි තීන්දු වලට අත ඉස්සු,පාර්ලිමේන්තුවේ ඉන්න කිසිවෙකු ජාතික ජන බලවේගයේ වේදිකාවත් එක්ක සම්බන්ධ කර නොගන්නා බවට සහතික කරනවා යැයි ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පැවසීය.
+Anura Kumara Dissanayake accuses Ranil Wickremesinghe of destroying the nation and ensuring no Parliament member supports him. He mentions a farmer rally where demands included reducing farmers' debts and improving governance. The narrative also touches on legal battles involving the 19th and 22nd amendments, and appointments to local bodies, linking these issues to Ranil's actions.
 
-අනුරාධපුර, බුල්නෑව නගරයේදී ජාතික ජන බලවේගයේ ගොවි රැළිය, ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි. ජාතික ජන බලවේගය විසින් රටපුරා පවත්වන ගොවි රැලි මාලාවේ බුල්නෑව රැලිය පවත්වනු ලැබුවේ බුල්නෑව නගරයේ දී යි.
+🟩
 
-"අපි මාරුවෙන් මාරුවට ඡන්දය දුන්නාට, මාරුවෙන් මාරුවට නායකයෝ ගෙන ආවට, මාරුවෙන් මාරුවට ආණ්ඩු හැදුවාට ඒ හදලා තියෙන්නේ ඒ ගොල්ලන්ගේ ආණ්ඩු, අපි එකවතාවක් හදමු ජනතාවගේ ආණ්ඩුවක්, ඒ තමයි ජාතික ජන බලවේගයේ ආණ්ඩුවක්, අපි නීතී හදන්නේ පොදු ජනතාව වෙනුවෙන්, සල්ලි වියදම් කරන්නේ පොදු ජනතාව වෙනුවෙන්, ගොවි ජනතාව ණය බරින් නිදහස් කර ගන්න ඕන, යම් ණය ප්‍රමාණයක් කපා හරින්න ඕන, ඒක කපනවා, ඒ ගොල්ල කපන්නේ දයා ගමගේගේ ණය අපි කපන්නේ ගොවි ජනතාවගේ ණය, අපි 2004 චන්ද්‍රිකා එක්ක පරිවාස ආණ්ඩුවට ගියා, දාපු එක කොන්දේසියක් තමයි රුපියල් 25 000 ක් දක්වා සියලු ගොවි ණය කපන්න ඕන කියලා.
+Leader of the National Economic Anura Kumara Dissanayake said that allegedly assaulted the country to destroy the country and ensures that no one in Parliament would be associated with the stage of the national power.
+
+The farmer rally of the national power rally in the Bandaranawa, Anuradhapura was chaired by leader Anura Kumara Dissanayake.. Bulnewa was held in the city of the farmer rally rally, which is conducted by the national folk force.
+
+"We have made the governments of the people and the national government, we are trying to go to the public, money for the general public, to vote for the vocal votes., Farmer people need to be released by debt, cutting down the loans, we cut the farmers' debt, and the one condition of 2004 is all about up to Rs. 25,000That the farmer's debt should be cut.
+
+Our condition was to cut the governments of the governance of the farmers.Let's build a government government.
 
 ...
 
 [Data](articles/78652aaa.json)
+
+[Extended Data](ext_articles/78652aaa.ext.json)
 
 ---
 
@@ -2171,97 +2275,5 @@ The organization said that Honey was killed after participating in the new Iran'
 [Data](articles/01879617.json)
 
 [Extended Data](ext_articles/01879617.ext.json)
-
----
-
-### Hamas chief Ismail Haniyeh killed in Iran, Hamas says
-
-*2024-07-31 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/100888/hamas-chief-ismail-haniyeh-killed-in-iran-hamas-says) · `en`
-
-Hamas leader Ismail Haniyeh was killed in Iran on Wednesday, the Palestinian militant group Hamas and Iran’s elite Revolutionary Guards said in separate statements.
-
-The Islamist faction mourned the death of Haniyeh, who it said was killed in “a treacherous Zionist raid on his residence in Tehran”.
-
-Hanieh attended Iran’s new president’s swearing in ceremony on Tuesday.
-
-“Early this morning, the residence of Ismail Haniyeh in Tehran was struck, resulting in his and one of his body guards’ martyrdom. The cause is under investigation and will be announced soon,” the Revolutionary Guards said.
-
-◼️
-
-[Data](articles/35a24350.json)
-
-[Extended Data](ext_articles/35a24350.ext.json)
-
----
-
-### Sajith bailed
-
-*2024-07-31 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199398) · `si`
-
-Sajith Premadasa is nominated as the presidential candidate by the People's Power Front. The party's Secretary, Ranjith Madduma Bandara, submitted the nomination to the Election Commission today.
-
-🟩
-
-Sajith Premadasa has been nominated as the presidential candidate of the prospect of the people's power.
-
-Accordingly, the Secretary of the party Ranjith Madduma Bandara has gone to the Election Commission this morning.
-
-◼️
-
-[Data](articles/5d07c55a.json)
-
-[Extended Data](ext_articles/5d07c55a.ext.json)
-
----
-
-### Three persons including gunman
-
-*2024-07-31 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/189857) · `ta`
-
-In Colombo's Grandpass, three men aged 26, 37, and 45, suspected of shooting two individuals near Paradha Sevana apartments, have been arrested. The trio includes a gunman, a motorbike rider, and an accomplice.
-
-🟩
-
-Three suspects have been arrested in connection with the shooting of two people in the Grandpass area of ​​Colombo.
-
-The three have been arrested as the shooter, a motorcycle driver and assistant to the murder, police said.
-
-Three ages, aged 26, 37 and 45, from Ogodawatte and Wellampitiya area have been arrested.
-
-On the 25th, a man and a woman were shot dead in a three -wheeler in front of the Paradha Sevana apartment.
-
-◼️
-
-[Data](articles/c5bdf883.json)
-
-[Extended Data](ext_articles/c5bdf883.ext.json)
-
----
-
-### Sri Lanka rupee opens at 302.40/70 to US dollar
-
-*2024-07-31 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-302-40-70-to-us-dollar-174571/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.40/70 to the US dollar on Wednesday, dealers said. Bond yields were broadly steady, they said, and stocks opened down 0.41 percent.
-
-In the secondary market, treasury bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.50/60 percent, up from 10.45/60 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.80.90 percent, down from 11.85/12.00 percent.
-
-A bond maturing on 15.02.2028 was quoted at 12.05/15 percent, down from 12.05/20 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.20/35 percent, down from 12.25/40 percent.
-
-A bond maturing on 15.10.2030 was quoted at 12.75/85 percent.
-
-In equities, Colombo’s All Share Price Index opened 47.31 points lower at 11,463, while the S&P SL20 of more liquid stocks opened down at 1.06 percent or 35.43 points to 3,298.
-
-◼️
-
-[Data](articles/ea3031bc.json)
-
-[Extended Data](ext_articles/ea3031bc.ext.json)
 
 ---

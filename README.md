@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-07-31 22:35:51**
+As of **2024-07-31 22:54:41**
 
 ## Newspaper Stats
 
-*Scraped **38,315** Articles*
+*Scraped **38,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ bbccomsinhala | 368
 islandlk | 2,191
 economynextcom | 2,307
 dailyftlk | 2,444
-adalk | 3,512
+adalk | 3,513
 adaderanalk | 4,433
 dailymirrorlk | 4,733
 tamilmirrorlk | 4,759
-virakesarilk | 6,056
+virakesarilk | 6,058
 adaderanasinhalalk | 6,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-38,314 (100.0%) of 38,315 articles have been extended.
+38,315 (100.0%) of 38,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-07-31 (Wednesday)
+
+### பால்மாவின் விலையைக் குறைப்பது தொடர்பாக இறக்குமதியாளர்களுடன் கலந்துரையாடல் - நளீன் பெர்னாண்டோ
+
+*2024-07-31 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/189947) · `ta`
+
+பால்மா இறக்குமதியாளர்களுடன் பால்மாவின் விலையைக் குறைப்பது தொடர்பில் அடுத்த சில தினங்களில் கலந்துரையாடல் நடத்தக்கூடும் என வர்த்தக மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நளீன் பெர்னாண்டோ செவ்வாய்க்கிழமை (30) தெரிவித்துள்ளார்.
+
+இதன்படி, பால்மாவின் விலையைக் குறைக்க எதிர்பார்த்துள்ளதாகத் தெரிவித்த அமைச்சர், விலையைக் கணக்கிடுமாறும் நுகர்வோர் அதிகார சபைக்குப் பணிப்புரை விடுத்துள்ளார்.
+
+நுகர்வோருக்குத் தேவையான சலுகைகளை வழங்குவதற்கு இறக்குமதியாளர்களுடன் கலந்துரையாடவுள்ளதாகவும் அமைச்சர் நளீன் பெர்னாண்டோ குறிப்பிட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7ebde8a8.json)
+
+---
 
 ### More details revealed after Mawlawi arrested with firearms and ammunition
 
@@ -51,6 +67,46 @@ Following the information obtained after interrogating the suspect, the STF offi
 [Data](articles/7d439171.json)
 
 [Extended Data](ext_articles/7d439171.ext.json)
+
+---
+
+### Sri Lanka Freedom Party supports President Ranil Wickremesinghe
+
+*2024-07-31 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/189943) · `ta`
+
+The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the 2024 presidential election after a meeting where the party's stance towards him was discussed.
+
+🟩
+
+The Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the 2024 presidential election.
+
+The Sri Lanka Freedom Party (SLFP) political organization and the central committee met on Wednesday afternoon and made a final decision on the issue.
+
+The decision was made during a discussion that followed the party's ideas to the President.
+
+◼️
+
+[Data](articles/1f6b1a20.json)
+
+[Extended Data](ext_articles/1f6b1a20.ext.json)
+
+---
+
+### தேர்தலுக்கு முன் ஊழல் ஒழிப்பு சட்டமூலத்தை அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் -  ஜனாதிபதியிடம் கோரியுள்ள இளம் எம்.பி.
+
+*2024-07-31 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/189931) · `ta`
+
+ஊழல் ஒழிப்பு சட்டமூலத்தை அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் என இளம் பாராளுமன்ற உறுப்பினர் ஒருவர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+ஊழல் ஒழிப்பு சட்டமூலத்தை எதிர்வரும் இரு வாரங்களுக்குள் அமைச்சரவையில் சமர்பிப்பதற்கான அனைத்து நடவடிக்கைகளும் நிறைவடைந்துள்ள நிலையிலேயே, இந்த நாட்களில் பரபரப்பாகப் பேசப்படும் இளம் எம்.பி. இந்தக் கோரிக்கையை முன்வைத்துள்ளார்.
+
+அண்மையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு தொலைபேசியில் அழைப்பு விடுத்துள்ள குறித்த பாராளுமன்ற உறுப்பினர், ஊழல் ஒழிப்பு சட்டமூலத்தை ஜனாதிபதி தேர்தலுக்கு முன்னர் அமைச்சரவையில் சமர்ப்பிக்க வேண்டாம் என கோரிக்கை விடுத்துள்ளார்.
+
+எம்.பி.யின் கோரிக்கை தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க, அரசாங்கத்தின் சிரேஷ்ட அமைச்சர்களுடன் கலந்துரையாடி அடுத்த இரண்டு நாட்களுக்குள் தீர்மானம் எடுப்பார் என ஜனாதிபதி செயலகத் தகவல்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/0b6f0c67.json)
 
 ---
 
@@ -298,28 +354,6 @@ According to the discussions, the central committee had been handed over to Pres
 
 ---
 
-### Sri Lanka Freedom Party supports President Ranil Wickremesinghe
-
-*2024-07-31 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/189943) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) has endorsed President Ranil Wickremesinghe for the 2024 presidential election after a meeting where the party's stance towards him was discussed.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) has decided to support President Ranil Wickremesinghe in the 2024 presidential election.
-
-The Sri Lanka Freedom Party (SLFP) political organization and the central committee met on Wednesday afternoon and made a final decision on the issue.
-
-The decision was made during a discussion that followed the party's ideas to the President.
-
-◼️
-
-[Data](articles/1f6b1a20.json)
-
-[Extended Data](ext_articles/1f6b1a20.ext.json)
-
----
-
 ### A compulsory order issued by the court to doctor Arjuna
 
 *2024-07-31 19:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வைத்தியர்-அர்ஜூனாவுக்கு-நீதிமன்றம்-வழங்கிய-கட்டாய-உத்தரவு/71-341362) · `ta`
@@ -345,6 +379,22 @@ The magistrate has subsequently adjourned the case to September 11. Remble
 [Data](articles/616097f3.json)
 
 [Extended Data](ext_articles/616097f3.ext.json)
+
+---
+
+### ජනපතිවරණයට 6ක් ඇප තැන්පත් කරයි
+
+*2024-07-31 19:44:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-6ක්-ඇප-තැන්පත්-කරයි/11-411131) · `si`
+
+ජනාධිපතිවරණයට අදාළව අද (31දා)  වන විට  අපේක්ෂකයන් හය දෙනෙක ඇප මුදල් තැන්පත් කර තිබෙන බව මැතිවරණ කොමිසම සඳහන් කරයි. පසුගිය 26 වැනි දින ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු අපේක්ෂකයන් හතර දෙනෙකු වෙනුවෙන් ඇප මුදල් තැන්පත් තර  තිබේ.
+
+අද සජිත් ප්‍රේමදාස මහතා  හා තවත් අපේක්ෂකයෙකු වෙනුවෙන් ඇප මුදල් තැන්පත් කිරීම සිදුකර ඇත.
+
+මේ අනුව පිළිගත් දේශපාලන පක්ෂ හතරක් වෙනුවෙන් හා  ස්වාධීන අපේක්ෂකයන් ලෙස දෙදෙනෙකු ඇප මුදල් තැන්පත් කර තිබේ.ඇප මුදල් තැන්පත් කළ පිළිගත් දේශපාලන පක්ෂ වන්නේ  සමගි ජන බලවේගය, ජාතික සංවර්ධන පෙරමුණ,ශ්‍රී ලංකා කම්කරු පක්ෂය  හා අභිනව නිවහල් පෙරමුණ වේ. ඉතිරි අපේක්ෂකයන් දෙදෙනා වෙනුවෙන්  ඡන්ද හිමියන් දෙදෙනෙකු විසින් ඇප මුදල් තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/02f98ca0.json)
 
 ---
 
@@ -2201,79 +2251,5 @@ The delegation, including board members and representatives from international m
 [Data](articles/9b73f47a.json)
 
 [Extended Data](ext_articles/9b73f47a.ext.json)
-
----
-
-### Drinking water problem at Badulla - Iluktanna
-
-*2024-07-31 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/189880) · `ta`
-
-In Badulla's Iluktanna, 164 families face a severe drinking water issue due to drought, affecting 656 individuals. The District Disaster Management Unit is providing water via bowsers and has set up a center to assist those impacted. For help, contact Sanjeeva Samarakon at 0719456078.
-
-🟩
-
-Due to the prevailing drought, 164 families of the Iluktanna Grama Niladhari Division of the Badulla Divisional Secretariat Division have faced a severe drinking water problem, the Badulla District Disaster Management Division said.
-
-The District Disaster Management Unit said that 656 people from 164 families in the area have been affected and necessary to provide drinking water through the bowsers.
-
-The District Disaster Management Center or District Disaster Relief Center has already been established in Badulla to take necessary steps to carry out the necessary measures for all the people who have been affected by the drought climate.
-
-Therefore, if anyone is suffering from such a problem, the District Secretariat Service Officer Sanjeeva Samarakon (0719456078) should be noted.
-
-◼️
-
-[Data](articles/cf29b5ff.json)
-
-[Extended Data](ext_articles/cf29b5ff.ext.json)
-
----
-
-### Secretary Defense to the Election Commission to be elected to the Ministry of Defense
-
-*2024-07-31 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/199402) · `si`
-
-The Senior DIG of the Ministry of Public Defense was summoned by the Election Commission to discuss security measures for the upcoming presidential election. The Chairman of the Election Commission clarified that while they cannot directly appoint an Inspector General of Police (IGP), they requested the Presidential Secretary to do so, ensuring all necessary police support for the election.
-
-🟩
-
-It is reported that the Senior DIG of the Ministry of Public Defense and the election matters have been convened to the Election Commission.
-
-Chairman of Election Commission. M. it. L. Speaking to the media, Ratnayake said that they were summoned to the Election Commission to discuss a security measures of the presidential election.
-
-"Elections Commission has no power to name an IGP. We can do to ask the prospect of the power to do what is needed. Accordingly, the Election Commission had decided to do the Presidential Secretary yesterday. We have asked the Presidential Secretary yesterday to appoint an IGP or acting IGP. Accordingly, the Secretary to the President has responded yesterday evening. The Presidential Secretary has informed the Secretary to the Ministry of Public Defense officials to provide all the police officers in the presidential election to carry out the presidential election.Discuss the trunk in this regard. "
-
-◼️
-
-[Data](articles/4c36957d.json)
-
-[Extended Data](ext_articles/4c36957d.ext.json)
-
----
-
-### The president cannot quit because of the candidate - the Commissioner General of Elections
-
-*2024-07-31 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/189861) · `ta`
-
-The President cannot resign due to electoral responsibilities, ensuring a fair election under the guidance of a Deputy Inspector General. Security enhancements have been made for the State Press Department to handle election-related printing securely. A meeting with District Elementary Officers is scheduled to discuss election tasks. The President has advised on recent police chief actions, which the Commission won't meddle in. The new President must be chosen through a popular referendum at least two months before the current term ends, emphasizing the President's duty to maintain an unbiased election process as per Article 33(4) of the Constitution.
-
-🟩
-
-The President has the responsibility of providing an independent and fair election in the context of the election.
-
-The appointment of a Deputy Inspector General of Police has been appointed to carry out the appropriate work for the election and the failure of a police chief will not be affected.
-
-However, it is important that the authority should not be a vacuum as the authority or responding to the Inspector General of Police when issuing orders or notifications for election processes.
-
-The security of the State Press Department has been strengthened as the printing process has been carried out for election work, including the ballot.
-
-We will discuss the election work with the District Elementary Officers on Saturday.
-
-The President has instructed the people of the country on a recent steps to be carried out on the issue of the police chief. The Commission cannot interfere in this regard.
-
-...
-
-[Data](articles/2dbf3d6e.json)
-
-[Extended Data](ext_articles/2dbf3d6e.ext.json)
 
 ---
